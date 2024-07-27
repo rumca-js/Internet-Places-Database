@@ -1,3 +1,23 @@
+ ## RythmHacks - Experience the magic of tech
+ - [https://rythmhacks.ca](https://rythmhacks.ca)
+ - date_published: 2024-05-04T09:13:02.521400+00:00
+
+ ## Home - Safe Quiet Lakes
+ - [https://safequiet.ca](https://safequiet.ca)
+ - date_published: 2023-08-30T00:00:00+00:00
+
+ ## Sage Solutions | Drupal Website Solutions based in Kitchener / Waterloo
+ - [https://www.sagesolutions.ca](https://www.sagesolutions.ca)
+ - date_published: 2024-06-30T22:56:40+00:00
+
+ ## SAIT - Southern Alberta Institute of Technology
+ - [https://www.sait.ca](https://www.sait.ca)
+ - date_published: 2024-07-13T18:44:18.253968+00:00
+
+ ## SalesWise | Create a strong, healthy, collaborative culture
+ - [http://www.saleswise.ca](http://www.saleswise.ca)
+ - date_published: 2024-06-28T11:24:10.438450+00:00
+
  ## Samsung Ads Canada - Join our team
  - [https://samsungads.ca](https://samsungads.ca)
  - date_published: 2024-02-29T00:00:00+00:00
@@ -4009,24 +4029,4 @@
  ## Canada Business Directory
  - [https://www.zipleaf.ca](https://www.zipleaf.ca)
  - date_published: 2024-06-29T17:23:18.110235+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ca](https://www2.zoetis.ca)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Zoomer Magazine
- - [https://secure.zoomer.ca](https://secure.zoomer.ca)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## ZoomerMedia Limited
- - [https://www.zoomermedia.ca](https://www.zoomermedia.ca)
- - date_published: 2024-06-17T12:28:51.796300+00:00
-
- ## Agence spatiale canadienne | Canadian Space Agency
- - [http://www.asc-csa.gc.ca](http://www.asc-csa.gc.ca)
- - date_published: 2013-12-13T00:00:00+00:00
-
- ## Canada.ca
- - [http://www.canada.gc.ca](http://www.canada.gc.ca)
- - date_published: 2024-07-14T02:13:44+00:00
 

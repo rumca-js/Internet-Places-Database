@@ -1,3 +1,480 @@
+ ## 4mat - itch.io
+ - [https://4mat.itch.io](https://4mat.itch.io)
+ - date_published: 2024-07-11T18:28:33.441893+00:00
+
+ ## 616 GAMES - itch.io
+ - [https://616games.itch.io](https://616games.itch.io)
+ - date_published: 1945-08-06T00:00:00+00:00
+
+ ## 773tk - itch.io
+ - [https://773tk.itch.io](https://773tk.itch.io)
+ - date_published: 2024-05-08T00:01:51.622225+00:00
+
+ ## 8080 - itch.io
+ - [https://8080.itch.io](https://8080.itch.io)
+ - date_published: 2023-12-11T17:38:15.352214+00:00
+
+ ## Stefan Vogt - itch.io
+ - [https://8bitgames.itch.io](https://8bitgames.itch.io)
+ - date_published: 2024-07-11T23:02:54.324010+00:00
+
+ ## AAA - itch.io
+ - [https://aaa.itch.io](https://aaa.itch.io)
+ - date_published: 2024-06-22T14:49:03.517618+00:00
+
+ ## AbyssalBrews - itch.io
+ - [https://abyssalbrews.itch.io](https://abyssalbrews.itch.io)
+ - date_published: 2024-07-11T23:13:30.702566+00:00
+
+ ## acdw - itch.io
+ - [https://acdw.itch.io](https://acdw.itch.io)
+ - date_published: 2024-07-10T08:33:38.050913+00:00
+
+ ## acidbottle - itch.io
+ - [https://acidbottle.itch.io](https://acidbottle.itch.io)
+ - date_published: 2024-05-10T04:02:30.436969+00:00
+
+ ## A. Christian Larsson - itch.io
+ - [https://a-c-l.itch.io](https://a-c-l.itch.io)
+ - date_published: 2024-05-10T04:03:54.727269+00:00
+
+ ## A Couple of Drakes - itch.io
+ - [https://acoupleofdrakes.itch.io](https://acoupleofdrakes.itch.io)
+ - date_published: 2024-07-11T23:15:53.765178+00:00
+
+ ## adamgryu - itch.io
+ - [https://adamgryu.itch.io](https://adamgryu.itch.io)
+ - date_published: 2024-05-10T04:03:35.331353+00:00
+
+ ## Adam Procter - itch.io
+ - [https://adamprocter.itch.io](https://adamprocter.itch.io)
+ - date_published: 2024-07-10T09:01:28.211538+00:00
+
+ ## Amiga and Pixel Addict magazines - itch.io
+ - [https://addictmagazines.itch.io](https://addictmagazines.itch.io)
+ - date_published: 2024-07-11T18:28:34.342214+00:00
+
+ ## Adam Dixon - itch.io
+ - [https://adtidi.itch.io](https://adtidi.itch.io)
+ - date_published: 2024-05-06T06:35:09.866257+00:00
+
+ ## AegisFate - itch.io
+ - [https://aegisfate.itch.io](https://aegisfate.itch.io)
+ - date_published: 2024-05-10T04:02:56.399892+00:00
+
+ ## aerica - itch.io
+ - [https://aerica.itch.io](https://aerica.itch.io)
+ - date_published: 2024-06-22T15:01:25.861003+00:00
+
+ ## aeta - itch.io
+ - [https://aeta.itch.io](https://aeta.itch.io)
+ - date_published: 2024-06-22T14:47:49.714422+00:00
+
+ ## Aetheric - itch.io
+ - [https://aethericgames.itch.io](https://aethericgames.itch.io)
+ - date_published: 2024-06-22T14:45:04.788058+00:00
+
+ ## Aether Interactive - itch.io
+ - [https://aetherinteractive.itch.io](https://aetherinteractive.itch.io)
+ - date_published: 2024-07-11T22:40:58.354237+00:00
+
+ ## africacrossgames - itch.io
+ - [https://africacrossgames.itch.io](https://africacrossgames.itch.io)
+ - date_published: 2024-06-22T15:03:27.672194+00:00
+
+ ## agelvik - itch.io
+ - [https://agelvik.itch.io](https://agelvik.itch.io)
+ - date_published: 2024-05-10T04:01:59.982875+00:00
+
+ ## agent4125 - itch.io
+ - [https://agent4125.itch.io](https://agent4125.itch.io)
+ - date_published: 2024-05-23T02:50:58.411052+00:00
+
+ ## Matthew Ager - itch.io
+ - [https://agerdev.itch.io](https://agerdev.itch.io)
+ - date_published: 2024-05-10T04:01:33.021207+00:00
+
+ ## AGPX - itch.io
+ - [https://agpx.itch.io](https://agpx.itch.io)
+ - date_published: 2024-07-11T18:28:58.965104+00:00
+
+ ## Ahegames - itch.io
+ - [https://ahegames.itch.io](https://ahegames.itch.io)
+ - date_published: 2024-06-22T14:45:02.688403+00:00
+
+ ## 429 Too Many Requests
+ - [https://aikoncwd.itch.io](https://aikoncwd.itch.io)
+ - date_published: 2024-04-28T05:30:14.422305+00:00
+
+ ## Ailis Williams - itch.io
+ - [https://ailiswilliams.itch.io](https://ailiswilliams.itch.io)
+ - date_published: 2024-05-10T04:09:58.857117+00:00
+
+ ## Aionmagan - itch.io
+ - [https://aionmagan.itch.io](https://aionmagan.itch.io)
+ - date_published: 2024-07-11T22:46:27.636193+00:00
+
+ ## AJ Layden - itch.io
+ - [https://aj-layden.itch.io](https://aj-layden.itch.io)
+ - date_published: 2024-05-10T04:01:29.390737+00:00
+
+ ## NSminiature - itch.io
+ - [https://akinorinishiyama.itch.io](https://akinorinishiyama.itch.io)
+ - date_published: 2024-07-11T23:17:44.850974+00:00
+
+ ## Kartik Agaram - itch.io
+ - [https://akkartik.itch.io](https://akkartik.itch.io)
+ - date_published: 2023-11-24T13:32:12.830683+00:00
+
+ ## Alamantus GameDev - itch.io
+ - [https://alamantus.itch.io](https://alamantus.itch.io)
+ - date_published: 2013-03-03T00:00:00+00:00
+
+ ## AlanOfAllTrades - itch.io
+ - [https://alanofalltrades.itch.io](https://alanofalltrades.itch.io)
+ - date_published: 2024-07-11T23:15:31.738147+00:00
+
+ ## Albert - itch.io
+ - [https://alberto-luviano.itch.io](https://alberto-luviano.itch.io)
+ - date_published: 2024-07-11T18:28:31.931202+00:00
+
+ ## Albi13 - itch.io
+ - [https://albi13.itch.io](https://albi13.itch.io)
+ - date_published: 2024-06-22T13:37:25.354379+00:00
+
+ ## Alb_pixel Store - itch.io
+ - [https://alb-pixel-store.itch.io](https://alb-pixel-store.itch.io)
+ - date_published: 2024-05-10T04:09:31.051409+00:00
+
+ ## Alex Craig - itch.io
+ - [https://alexcraig.itch.io](https://alexcraig.itch.io)
+ - date_published: 2024-06-22T13:36:45.599515+00:00
+
+ ## Alex Camilleri - itch.io
+ - [https://alexkalopsia.itch.io](https://alexkalopsia.itch.io)
+ - date_published: 2024-05-06T06:34:44.070151+00:00
+
+ ## alexmuscat - itch.io
+ - [https://alexmuscat.itch.io](https://alexmuscat.itch.io)
+ - date_published: 2024-07-11T23:20:36.319475+00:00
+
+ ## Alex's Assets - itch.io
+ - [https://alexs-assets.itch.io](https://alexs-assets.itch.io)
+ - date_published: 2024-06-20T15:13:01.827818+00:00
+
+ ## Alfred Valley - itch.io
+ - [https://alfredvalley.itch.io](https://alfredvalley.itch.io)
+ - date_published: 2024-07-11T23:00:17.179361+00:00
+
+ ## Alias_Art - itch.io
+ - [https://alias-art.itch.io](https://alias-art.itch.io)
+ - date_published: 2024-07-11T23:20:45.216882+00:00
+
+ ## alienmelon - itch.io
+ - [https://alienmelon.itch.io](https://alienmelon.itch.io)
+ - date_published: 2024-06-22T14:48:03.746915+00:00
+
+ ## alinac - itch.io
+ - [https://alinac.itch.io](https://alinac.itch.io)
+ - date_published: 2024-06-21T11:28:57.327574+00:00
+
+ ## alkakrab - itch.io
+ - [https://alkakrab.itch.io](https://alkakrab.itch.io)
+ - date_published: 2024-05-10T04:09:39.005119+00:00
+
+ ## allen - itch.io
+ - [https://allen.itch.io](https://allen.itch.io)
+ - date_published: 2024-07-11T22:46:51.793797+00:00
+
+ ## Alex Rinehart - itch.io
+ - [https://alrine.itch.io](https://alrine.itch.io)
+ - date_published: 2024-07-11T23:15:55.799166+00:00
+
+ ## Always Checkers Publishing - itch.io
+ - [https://alwayscheckers.itch.io](https://alwayscheckers.itch.io)
+ - date_published: 2024-05-04T16:00:35.401319+00:00
+
+ ## Alzter - itch.io
+ - [https://alzter-s.itch.io](https://alzter-s.itch.io)
+ - date_published: 2024-05-09T09:01:03.485754+00:00
+
+ ## amasuri - itch.io
+ - [https://amasuri.itch.io](https://amasuri.itch.io)
+ - date_published: 2024-07-11T23:39:28.889621+00:00
+
+ ## A MAZE. - itch.io
+ - [https://a-maze.itch.io](https://a-maze.itch.io)
+ - date_published: 2024-06-22T14:49:15.714487+00:00
+
+ ## amesx - itch.io
+ - [https://amesx.itch.io](https://amesx.itch.io)
+ - date_published: 2024-06-22T14:44:38.452270+00:00
+
+ ## Amiga Factory - itch.io
+ - [https://amiga-factory.itch.io](https://amiga-factory.itch.io)
+ - date_published: 2024-04-30T14:59:23.547222+00:00
+ - tags: ['amiga']
+
+ ## Amiten Games - itch.io
+ - [https://amiten.itch.io](https://amiten.itch.io)
+ - date_published: 2023-12-11T18:59:23.277455+00:00
+
+ ## andersmurphy - itch.io
+ - [https://andersmurphy.itch.io](https://andersmurphy.itch.io)
+ - date_published: 2024-06-28T20:24:50.158598+00:00
+
+ ## andimlenny - itch.io
+ - [https://andimlenny.itch.io](https://andimlenny.itch.io)
+ - date_published: 2024-06-22T15:01:14.969332+00:00
+
+ ## Andrea Blythe - itch.io
+ - [https://andreablythe.itch.io](https://andreablythe.itch.io)
+ - date_published: 2024-06-22T14:50:33.274817+00:00
+
+ ## andrewkdinh
+ - [https://andrewkdinh.itch.io](https://andrewkdinh.itch.io)
+ - date_published: 2024-07-02T20:05:43.418064+00:00
+
+ ## Andrew Kiya - itch.io
+ - [https://andrewkiya.itch.io](https://andrewkiya.itch.io)
+ - date_published: 2024-07-11T22:47:59.421587+00:00
+
+ ## Andy Brophy - itch.io
+ - [https://andybrophy.itch.io](https://andybrophy.itch.io)
+ - date_published: 2024-06-22T14:47:24.357769+00:00
+
+ ## AndyL4nd - itch.io
+ - [https://andyl4nd.itch.io](https://andyl4nd.itch.io)
+ - date_published: 2024-07-11T22:40:54.468011+00:00
+
+ ## AndyMakes - itch.io
+ - [https://andymakes.itch.io](https://andymakes.itch.io)
+ - date_published: 2024-06-22T14:43:25.887766+00:00
+
+ ## aNdy - itch.io
+ - [https://andyvaisey.itch.io](https://andyvaisey.itch.io)
+ - date_published: 2024-06-14T05:32:41.238644+00:00
+
+ ## Anicet Nougaret - itch.io
+ - [https://anicetngrt.itch.io](https://anicetngrt.itch.io)
+ - date_published: 2024-05-08T00:15:20.865255+00:00
+
+ ## annamariandrea - itch.io
+ - [https://annamariandrea.itch.io](https://annamariandrea.itch.io)
+ - date_published: 2024-06-22T14:59:11.146045+00:00
+
+ ## ansimuz - itch.io
+ - [https://ansimuz.itch.io](https://ansimuz.itch.io)
+ - date_published: 2024-05-10T04:01:20.738939+00:00
+
+ ## AntoineJosset - itch.io
+ - [https://antoinejosset.itch.io](https://antoinejosset.itch.io)
+ - date_published: 2024-06-18T16:23:14.319394+00:00
+
+ ## Anuke - itch.io
+ - [https://anuke.itch.io](https://anuke.itch.io)
+ - date_published: 2024-05-09T09:12:59.267450+00:00
+
+ ## abom - itch.io
+ - [https://aodhbom.itch.io](https://aodhbom.itch.io)
+ - date_published: 2024-06-22T14:49:19.638522+00:00
+
+ ## Apochromatic Unlimited - itch.io
+ - [https://apochromatic-unlimited.itch.io](https://apochromatic-unlimited.itch.io)
+ - date_published: 2024-07-11T23:00:15.685760+00:00
+
+ ## APoV Magazine - itch.io
+ - [https://apov.itch.io](https://apov.itch.io)
+ - date_published: 2024-06-17T02:37:11.996211+00:00
+
+ ## AppSir Games - itch.io
+ - [https://appsir.itch.io](https://appsir.itch.io)
+ - date_published: 2024-05-10T04:09:40.636876+00:00
+
+ ## Aqarius - itch.io
+ - [https://aqarius.itch.io](https://aqarius.itch.io)
+ - date_published: 2024-07-11T23:13:20.767873+00:00
+
+ ## ArbitraryMetric
+ - [https://arbitrarymetric.itch.io](https://arbitrarymetric.itch.io)
+ - date_published: 2024-06-22T14:37:24.370511+00:00
+
+ ## arcadekitten - itch.io
+ - [https://arcadekitten.itch.io](https://arcadekitten.itch.io)
+ - date_published: 2024-06-22T14:47:13.810979+00:00
+
+ ## Archeia - itch.io
+ - [https://archeia.itch.io](https://archeia.itch.io)
+ - date_published: 2024-06-22T14:47:16.115637+00:00
+
+ ## Arcziii - itch.io
+ - [https://arcziii.itch.io](https://arcziii.itch.io)
+ - date_published: 2024-05-10T04:02:26.429848+00:00
+
+ ## Ariel Vittori - itch.io
+ - [https://arielv9.itch.io](https://arielv9.itch.io)
+ - date_published: 2024-07-11T23:12:38.957300+00:00
+
+ ## AriNeonShark - itch.io
+ - [https://arineonshark.itch.io](https://arineonshark.itch.io)
+ - date_published: 2023-10-25T19:57:41.797330+00:00
+
+ ## arkananasfa - itch.io
+ - [https://arkahahaker.itch.io](https://arkahahaker.itch.io)
+ - date_published: 2024-06-22T15:04:01.211866+00:00
+
+ ## Kaid Brenen Sacander - itch.io
+ - [https://arkhadtoa.itch.io](https://arkhadtoa.itch.io)
+ - date_published: 2024-07-11T23:15:59.249129+00:00
+
+ ## Armel Gibson - itch.io
+ - [https://armelgibson.itch.io](https://armelgibson.itch.io)
+ - date_published: 2024-06-22T14:49:38.273224+00:00
+
+ ## Armiger Games - itch.io
+ - [https://armigergames.itch.io](https://armigergames.itch.io)
+ - date_published: 2024-07-11T23:00:20.397469+00:00
+
+ ## Armor Games Studios - itch.io
+ - [https://armor-games-studios.itch.io](https://armor-games-studios.itch.io)
+ - date_published: 2024-05-10T04:04:05.872209+00:00
+
+ ## Purple Moon Games - itch.io
+ - [https://arnivold.itch.io](https://arnivold.itch.io)
+ - date_published: 2024-07-11T23:17:30.716399+00:00
+
+ ## arocnies - itch.io
+ - [https://arocnies.itch.io](https://arocnies.itch.io)
+ - date_published: 2024-07-03T21:35:41.646372+00:00
+
+ ## Arzasoft - itch.io
+ - [https://arzasoft.itch.io](https://arzasoft.itch.io)
+ - date_published: 2024-06-22T15:02:17.212833+00:00
+
+ ## Asbestos Games - itch.io
+ - [https://asbestos-games.itch.io](https://asbestos-games.itch.io)
+ - date_published: 2024-06-22T14:46:54.332847+00:00
+
+ ## AsterHours - itch.io
+ - [https://asterhours.itch.io](https://asterhours.itch.io)
+ - date_published: 2024-05-10T04:09:50.716619+00:00
+
+ ## Atelier Sentô - itch.io
+ - [https://ateliersento.itch.io](https://ateliersento.itch.io)
+ - date_published: 2024-07-02T23:50:00.069854+00:00
+
+ ## attempting entertainment - itch.io
+ - [https://attemptingent.itch.io](https://attemptingent.itch.io)
+ - date_published: 2024-05-06T06:34:20.035682+00:00
+
+ ## Aukustus - itch.io
+ - [https://aukustus.itch.io](https://aukustus.itch.io)
+ - date_published: 2024-04-28T05:30:23.950448+00:00
+
+ ## AurySystem - itch.io
+ - [https://aurysystem.itch.io](https://aurysystem.itch.io)
+ - date_published: 2024-06-22T14:45:13.320156+00:00
+
+ ## Awaceb - itch.io
+ - [https://awaceb.itch.io](https://awaceb.itch.io)
+ - date_published: 2024-07-02T23:50:06.261439+00:00
+
+ ## Andrew - itch.io
+ - [https://awkravchuk.itch.io](https://awkravchuk.itch.io)
+ - date_published: 2024-03-02T19:34:04.899588+00:00
+
+ ## a_wovk - itch.io
+ - [https://a-wovk.itch.io](https://a-wovk.itch.io)
+ - date_published: 2024-06-22T15:03:43.075030+00:00
+
+ ## Axi - itch.io
+ - [https://axiakita.itch.io](https://axiakita.itch.io)
+ - date_published: 2024-07-02T16:14:15.796698+00:00
+
+ ## axoona - itch.io
+ - [https://axoona.itch.io](https://axoona.itch.io)
+ - date_published: 2024-06-22T14:47:03.598119+00:00
+
+ ## ayla~nonsense - itch.io
+ - [https://aylanonsense.itch.io](https://aylanonsense.itch.io)
+ - date_published: 2024-05-06T06:34:45.118775+00:00
+
+ ## AYolland - itch.io
+ - [https://ayolland.itch.io](https://ayolland.itch.io)
+ - date_published: 2024-06-22T14:50:05.896922+00:00
+
+ ## AzaGameStudio - itch.io
+ - [https://azagamestudio.itch.io](https://azagamestudio.itch.io)
+ - date_published: 2024-05-10T04:03:05.936181+00:00
+
+ ## azuldev - itch.io
+ - [https://azuldev.itch.io](https://azuldev.itch.io)
+ - date_published: 2024-07-11T22:46:31.687538+00:00
+
+ ## babblegumsam - itch.io
+ - [https://babblegumsam.itch.io](https://babblegumsam.itch.io)
+ - date_published: 2024-07-11T23:17:57.456665+00:00
+
+ ## Backterria - itch.io
+ - [https://backterria.itch.io](https://backterria.itch.io)
+ - date_published: 2024-05-10T04:02:58.183859+00:00
+
+ ## Backwards Tabletop - itch.io
+ - [https://backwards-tabletop.itch.io](https://backwards-tabletop.itch.io)
+ - date_published: 2024-07-11T23:13:32.543670+00:00
+
+ ## BadCoffeeGames - itch.io
+ - [https://badcoffeegames.itch.io](https://badcoffeegames.itch.io)
+ - date_published: 2024-05-10T04:03:36.687254+00:00
+
+ ## banach-tarski - itch.io
+ - [https://banach-tarski.itch.io](https://banach-tarski.itch.io)
+ - date_published: 2024-02-08T16:22:00.300597+00:00
+
+ ## banov - itch.io
+ - [https://banov.itch.io](https://banov.itch.io)
+ - date_published: 2024-07-11T23:14:37.498309+00:00
+
+ ## Shavetastic - itch.io
+ - [https://barbershopsimulator.itch.io](https://barbershopsimulator.itch.io)
+ - date_published: 2024-06-22T14:49:10.615552+00:00
+
+ ## barlon - itch.io
+ - [https://barlon.itch.io](https://barlon.itch.io)
+ - date_published: 2024-06-22T15:03:19.301783+00:00
+
+ ## Becklespinax - itch.io
+ - [https://becklespinax.itch.io](https://becklespinax.itch.io)
+ - date_published: 2024-05-06T06:33:25.367856+00:00
+
+ ## BedWords - itch.io
+ - [https://bedwords.itch.io](https://bedwords.itch.io)
+ - date_published: 2024-06-22T14:52:07.480910+00:00
+
+ ## BerlinGameScene.com - itch.io
+ - [https://berlingamescene.itch.io](https://berlingamescene.itch.io)
+ - date_published: 2024-05-06T06:34:12.745739+00:00
+
+ ## Berrak - itch.io
+ - [https://berrak.itch.io](https://berrak.itch.io)
+ - date_published: 2024-05-06T06:34:29.261559+00:00
+
+ ## BestBull - itch.io
+ - [https://bestbull.itch.io](https://bestbull.itch.io)
+ - date_published: 2024-07-11T23:15:40.953541+00:00
+
+ ## Bevise - itch.io
+ - [https://bevise.itch.io](https://bevise.itch.io)
+ - date_published: 2024-05-10T04:02:53.191370+00:00
+
+ ## Big Bucket - itch.io
+ - [http://bigbucket.itch.io](http://bigbucket.itch.io)
+ - date_published: 2024-06-22T14:45:23.696291+00:00
+
+ ## BIG EVIL CORPORATION - itch.io
+ - [https://bigevilcorporation.itch.io](https://bigevilcorporation.itch.io)
+ - date_published: 2024-07-11T11:37:31.758469+00:00
+
  ## BigHandInSky - itch.io
  - [https://bighandinsky.itch.io](https://bighandinsky.itch.io)
  - date_published: 2024-06-22T14:45:43.665415+00:00
@@ -3523,480 +4000,4 @@
  ## Spedumon - itch.io
  - [https://spedumon.itch.io](https://spedumon.itch.io)
  - date_published: 2024-07-11T23:21:06.367195+00:00
-
- ## Spelcasters - itch.io
- - [https://spelcasters.itch.io](https://spelcasters.itch.io)
- - date_published: 2024-07-11T12:48:18.440486+00:00
-
- ## Spicy Lobster - itch.io
- - [https://spicylobster.itch.io](https://spicylobster.itch.io)
- - date_published: 2024-07-11T11:25:30.688115+00:00
-
- ## spiders - itch.io
- - [https://spiderzone.itch.io](https://spiderzone.itch.io)
- - date_published: 2024-05-06T06:33:35.461674+00:00
-
- ## splendidland - itch.io
- - [https://splendidland.itch.io](https://splendidland.itch.io)
- - date_published: 2024-06-18T16:23:24.470990+00:00
-
- ## spoike - itch.io
- - [https://spoike.itch.io](https://spoike.itch.io)
- - date_published: 2024-07-11T23:28:11.092405+00:00
-
- ## SPOOKYSOFT - itch.io
- - [https://spookysoft.itch.io](https://spookysoft.itch.io)
- - date_published: 2024-07-11T23:27:19.166288+00:00
-
- ## Spooky Squid Games - itch.io
- - [https://spookysquid.itch.io](https://spookysquid.itch.io)
- - date_published: 2024-07-11T23:14:50.301830+00:00
-
- ## spotlessmind1975 - itch.io
- - [https://spotlessmind1975.itch.io](https://spotlessmind1975.itch.io)
- - date_published: 2024-05-07T23:46:57.557138+00:00
-
- ## Spreadcamp - itch.io
- - [https://spreadcamp.itch.io](https://spreadcamp.itch.io)
- - date_published: 2024-07-02T23:49:44.134762+00:00
-
- ## Spring Villager - itch.io
- - [https://springvillager.itch.io](https://springvillager.itch.io)
- - date_published: 2024-05-04T16:00:23.530864+00:00
-
- ## SquidGod - itch.io
- - [https://squidgod.itch.io](https://squidgod.itch.io)
- - date_published: 2024-07-02T23:50:14.074598+00:00
-
- ## SrHead - itch.io
- - [https://srhead.itch.io](https://srhead.itch.io)
- - date_published: 2024-05-10T04:02:03.478378+00:00
-
- ## Staggered Amusement Machine - itch.io
- - [https://staggeredamusementmachine.itch.io](https://staggeredamusementmachine.itch.io)
- - date_published: 2024-07-11T23:02:22.796502+00:00
-
- ## Stan Davis - itch.io
- - [https://stan-davis.itch.io](https://stan-davis.itch.io)
- - date_published: 2024-05-10T04:02:01.960593+00:00
-
- ## Stanwixbuster - itch.io
- - [https://stanwixbuster.itch.io](https://stanwixbuster.itch.io)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Star Bear Games - itch.io
- - [https://star-bear-games.itch.io](https://star-bear-games.itch.io)
- - date_published: 2024-07-11T23:18:13.861908+00:00
-
- ## StarFur Industries - itch.io
- - [https://starfur-industries.itch.io](https://starfur-industries.itch.io)
- - date_published: 2024-07-11T23:21:10.963822+00:00
-
- ## Steamberry Studio - itch.io
- - [https://steamberry.itch.io](https://steamberry.itch.io)
- - date_published: 2024-05-10T04:09:23.318104+00:00
-
- ## steamknight - itch.io
- - [https://steamknight.itch.io](https://steamknight.itch.io)
- - date_published: 2023-10-25T19:58:41.779852+00:00
-
- ## Steven Colling - itch.io
- - [https://stevencolling.itch.io](https://stevencolling.itch.io)
- - date_published: 2024-05-04T16:00:28.344686+00:00
-
- ## stewsters - itch.io
- - [https://stewsters.itch.io](https://stewsters.itch.io)
- - date_published: 2024-07-03T21:35:43.093090+00:00
-
- ## Storysinger Presents - itch.io
- - [https://storysinger-presents.itch.io](https://storysinger-presents.itch.io)
- - date_published: 2024-07-11T23:04:17.829437+00:00
-
- ## Stralor - itch.io
- - [https://stralor.itch.io](https://stralor.itch.io)
- - date_published: 2024-07-02T23:49:49.882956+00:00
-
- ## FrogStore - itch.io
- - [https://stranger.itch.io](https://stranger.itch.io)
- - date_published: 2024-07-11T23:27:16.101770+00:00
-
- ## StudioCherno - itch.io
- - [https://studiocherno.itch.io](https://studiocherno.itch.io)
- - date_published: 2024-03-07T13:00:05.612110+00:00
-
- ## Studio Dingwing - itch.io
- - [https://studiodingwing.itch.io](https://studiodingwing.itch.io)
- - date_published: 2024-07-01T11:13:46.462638+00:00
-
- ## Studio Lemi - itch.io
- - [https://studio-lemi.itch.io](https://studio-lemi.itch.io)
- - date_published: 2024-05-10T04:01:13.589350+00:00
-
- ## Studio Oleomingus - itch.io
- - [https://studio-oleomingus.itch.io](https://studio-oleomingus.itch.io)
- - date_published: 2024-05-06T06:35:07.049507+00:00
-
- ## telepath - itch.io
- - [https://studiotelepath.itch.io](https://studiotelepath.itch.io)
- - date_published: 2024-06-18T16:22:58.653448+00:00
-
- ## Subchrist Software - itch.io
- - [https://subchristsoftware.itch.io](https://subchristsoftware.itch.io)
- - date_published: 2024-05-10T04:03:57.800968+00:00
-
- ## SUKEBAN GAMES - itch.io
- - [https://sukebangames.itch.io](https://sukebangames.itch.io)
- - date_published: 2024-06-22T14:47:04.906402+00:00
-
- ## sungrandstudios - itch.io
- - [https://sungrandstudios.itch.io](https://sungrandstudios.itch.io)
- - date_published: 2024-07-02T23:50:28.810241+00:00
-
- ## supercircuit - itch.io
- - [https://supercircuit.itch.io](https://supercircuit.itch.io)
- - date_published: 2024-07-11T23:01:39.998471+00:00
-
- ## Supergiant Games - itch.io
- - [https://supergiant-games.itch.io](https://supergiant-games.itch.io)
- - date_published: 2024-06-22T15:04:10.174418+00:00
-
- ## supertuxkart - itch.io
- - [https://supertuxkart.itch.io](https://supertuxkart.itch.io)
- - date_published: 2024-07-11T12:15:57.902753+00:00
-
- ## SurrealPartisan - itch.io
- - [https://surrealpartisan.itch.io](https://surrealpartisan.itch.io)
- - date_published: 2024-04-28T05:30:05.095684+00:00
-
- ## Swannery Press (R.J. Gillis) - itch.io
- - [https://swanpress.itch.io](https://swanpress.itch.io)
- - date_published: 2024-05-10T04:09:42.202586+00:00
-
- ## Swearsoft - itch.io
- - [https://swearsoft.itch.io](https://swearsoft.itch.io)
- - date_published: 2024-07-11T23:20:38.960193+00:00
-
- ## SweetHeart Squad - itch.io
- - [http://sweetheartsquad.itch.io](http://sweetheartsquad.itch.io)
- - date_published: 2024-06-22T14:43:52.779162+00:00
-
- ## system_erasure - itch.io
- - [https://system-erasure.itch.io](https://system-erasure.itch.io)
- - date_published: 2024-07-11T23:14:46.874876+00:00
-
- ## Szadi art. - itch.io
- - [https://szadiart.itch.io](https://szadiart.itch.io)
- - date_published: 2024-05-10T04:01:04.370372+00:00
-
- ## Table Cat Games - itch.io
- - [https://tablecatgames.itch.io](https://tablecatgames.itch.io)
- - date_published: 2024-05-10T04:03:42.581341+00:00
-
- ## Tacoma - itch.io
- - [https://tacoma.itch.io](https://tacoma.itch.io)
- - date_published: 2024-07-11T23:27:18.075674+00:00
-
- ## tak - itch.io
- - [https://tak.itch.io](https://tak.itch.io)
- - date_published: 2024-06-22T14:52:14.895487+00:00
-
- ## Tale of Tales - itch.io
- - [https://taleoftales.itch.io](https://taleoftales.itch.io)
- - date_published: 2024-06-22T14:59:06.259981+00:00
-
- ## tallywinkle - itch.io
- - [https://tallywinkle.itch.io](https://tallywinkle.itch.io)
- - date_published: 2024-06-22T13:36:21.995462+00:00
-
- ## Tamsin Bloom - itch.io
- - [https://tamsinbloom.itch.io](https://tamsinbloom.itch.io)
- - date_published: 2024-06-22T13:36:40.666669+00:00
-
- ## tanaw - itch.io
- - [https://tanaw.itch.io](https://tanaw.itch.io)
- - date_published: 2024-07-11T23:01:58.132107+00:00
-
- ## Taylor McCue - itch.io
- - [https://taylormccue.itch.io](https://taylormccue.itch.io)
- - date_published: 2024-07-11T23:03:50.503814+00:00
-
- ## Team SolEtude - itch.io
- - [https://team-soletude.itch.io](https://team-soletude.itch.io)
- - date_published: 2024-06-22T14:44:56.101495+00:00
-
- ## Team XF - itch.io
- - [https://team-xf.itch.io](https://team-xf.itch.io)
- - date_published: 2024-06-18T21:24:12.093335+00:00
-
- ## TEETH: A ROLEPLAYING GAME - itch.io
- - [https://teethrpg.itch.io](https://teethrpg.itch.io)
- - date_published: 2024-06-22T13:37:13.679077+00:00
-
- ## teflonDiscus - itch.io
- - [https://teflondiscus.itch.io](https://teflondiscus.itch.io)
- - date_published: 2024-07-11T23:02:24.698178+00:00
-
- ## Tejas Joshi - itch.io
- - [https://tejas-joshi.itch.io](https://tejas-joshi.itch.io)
- - date_published: 2024-04-28T03:15:05.976931+00:00
-
- ## Tesseron - itch.io
- - [https://tesseron.itch.io](https://tesseron.itch.io)
- - date_published: 2024-05-10T04:02:31.857648+00:00
-
- ## Ash K - itch.io
- - [https://tetrapteryx.itch.io](https://tetrapteryx.itch.io)
- - date_published: 2024-06-22T14:37:20.793256+00:00
-
- ## Tomas Gimenez Rioja - itch.io
- - [https://tgimenezrgm.itch.io](https://tgimenezrgm.itch.io)
- - date_published: 2024-07-11T23:11:39.438820+00:00
-
- ## Neil Thapen - itch.io
- - [https://thapen.itch.io](https://thapen.itch.io)
- - date_published: 2023-10-25T19:58:44.194991+00:00
-
- ## ThatOneAdventurer - itch.io
- - [https://thatoneadventurer.itch.io](https://thatoneadventurer.itch.io)
- - date_published: 2024-05-10T04:03:07.997552+00:00
-
- ## The Adamant Gambit - itch.io
- - [https://the-adamant-gambit.itch.io](https://the-adamant-gambit.itch.io)
- - date_published: 2024-06-22T14:43:54.310714+00:00
-
- ## The Bibites - itch.io
- - [https://thebibites.itch.io](https://thebibites.itch.io)
- - date_published: 2024-05-06T06:33:15.948522+00:00
-
- ## TheBjakery - itch.io
- - [https://the-bjakery.itch.io](https://the-bjakery.itch.io)
- - date_published: 2024-07-11T23:26:37.952796+00:00
-
- ## The Bones Brothers - itch.io
- - [https://thebonesbrothers.itch.io](https://thebonesbrothers.itch.io)
- - date_published: 2024-07-11T23:12:42.938019+00:00
-
- ## The Box Factory - itch.io
- - [https://theboxfactory.itch.io](https://theboxfactory.itch.io)
- - date_published: 2024-07-11T23:11:58.935965+00:00
-
- ## TheCake - itch.io
- - [https://thecake.itch.io](https://thecake.itch.io)
- - date_published: 2024-06-22T14:44:54.972240+00:00
-
- ## thecatamites - itch.io
- - [https://thecatamites.itch.io](https://thecatamites.itch.io)
- - date_published: 2024-06-22T14:37:37.568116+00:00
-
- ## The Dev Team - itch.io
- - [https://thedevteam.itch.io](https://thedevteam.itch.io)
- - date_published: 2024-07-11T23:17:48.260550+00:00
-
- ## Lorc - itch.io
- - [https://thelorc.itch.io](https://thelorc.itch.io)
- - date_published: 2024-07-09T18:43:51.444727+00:00
-
- ## IKO - itch.io
- - [https://the-lost-bay.itch.io](https://the-lost-bay.itch.io)
- - date_published: 2024-06-22T13:37:34.006768+00:00
-
- ## TheOdie - itch.io
- - [https://theodie.itch.io](https://theodie.itch.io)
- - date_published: 2024-06-22T14:47:33.297480+00:00
-
- ## The Outlander - itch.io
- - [https://the-outlander.itch.io](https://the-outlander.itch.io)
- - date_published: 2024-05-10T04:01:48.535390+00:00
-
- ## Psychefunk - itch.io
- - [https://thepsychefunk.itch.io](https://thepsychefunk.itch.io)
- - date_published: 2024-07-11T22:47:56.441529+00:00
-
- ## The Ravensridge Press - itch.io
- - [https://the-ravensridge-press.itch.io](https://the-ravensridge-press.itch.io)
- - date_published: 2024-06-22T13:36:25.891243+00:00
-
- ## The Sam - itch.io
- - [https://the-sam.itch.io](https://the-sam.itch.io)
- - date_published: 2024-06-22T15:03:48.278193+00:00
-
- ## Strangest.io - itch.io
- - [https://thestrangest.itch.io](https://thestrangest.itch.io)
- - date_published: 2024-07-02T23:49:52.393560+00:00
-
- ## Ryan - itch.io
- - [https://theyoungking45.itch.io](https://theyoungking45.itch.io)
- - date_published: 2024-07-11T23:18:19.191849+00:00
-
- ## The Zium Society - itch.io
- - [https://theziumsociety.itch.io](https://theziumsociety.itch.io)
- - date_published: 2024-06-22T14:51:34.348782+00:00
-
- ## thindil - itch.io
- - [https://thindil.itch.io](https://thindil.itch.io)
- - date_published: 2024-04-28T05:30:19.949015+00:00
-
- ## thisisstar - itch.io
- - [https://thisisstar.itch.io](https://thisisstar.itch.io)
- - date_published: 2024-05-06T06:34:11.234825+00:00
-
- ## Thorbjørn Lindeijer - itch.io
- - [https://thorbjorn.itch.io](https://thorbjorn.itch.io)
- - date_published: 2024-07-11T23:03:39.571622+00:00
-
- ## PossumPunks - itch.io
- - [https://thosepossumpunks.itch.io](https://thosepossumpunks.itch.io)
- - date_published: 2024-05-10T04:02:22.318722+00:00
-
- ## Thoughty by Beau Jágr Sheldon - itch.io
- - [https://thoughty.itch.io](https://thoughty.itch.io)
- - date_published: 2024-07-11T23:17:33.703509+00:00
-
- ## thp - itch.io
- - [https://thp.itch.io](https://thp.itch.io)
- - date_published: 2024-07-02T23:50:16.996944+00:00
-
- ## Throwback Games - itch.io
- - [https://throwbackgames.itch.io](https://throwbackgames.itch.io)
- - date_published: 2024-07-11T23:13:22.361618+00:00
-
- ## thugzilla - itch.io
- - [https://thugzilla.itch.io](https://thugzilla.itch.io)
- - date_published: 2024-07-11T23:21:16.907894+00:00
-
- ## Thyphoon - itch.io
- - [https://thyphoonfr.itch.io](https://thyphoonfr.itch.io)
- - date_published: 2024-05-08T00:40:18.614685+00:00
-
- ## Samantha E. Schaffer (~Rina) - itch.io
- - [https://tilderina.itch.io](https://tilderina.itch.io)
- - date_published: 2024-06-22T15:04:02.787903+00:00
-
- ## Tim Beek - itch.io
- - [https://timbeek.itch.io](https://timbeek.itch.io)
- - date_published: 2024-05-10T04:02:42.244996+00:00
-
- ## timbell - itch.io
- - [https://timbell.itch.io](https://timbell.itch.io)
- - date_published: 2017-05-21T00:00:00+00:00
-
- ## timgarbos - itch.io
- - [https://timgarbos.itch.io](https://timgarbos.itch.io)
- - date_published: 2024-05-06T06:34:56.112475+00:00
-
- ## TinyBookshelf - itch.io
- - [https://tinybookshelf.itch.io](https://tinybookshelf.itch.io)
- - date_published: 2024-07-05T10:50:46.487490+00:00
-
- ## tinyevilwizard - itch.io
- - [https://tinyevilwizard.itch.io](https://tinyevilwizard.itch.io)
- - date_published: 2024-07-11T23:27:47.358115+00:00
-
- ## titanomachyRPG - itch.io
- - [https://titanomachyrpg.itch.io](https://titanomachyrpg.itch.io)
- - date_published: 2024-07-11T23:13:34.482811+00:00
-
- ## Titouan Millet - itch.io
- - [https://titouanmillet.itch.io](https://titouanmillet.itch.io)
- - date_published: 2024-06-22T14:52:13.307046+00:00
-
- ## tmseldon - itch.io
- - [https://tmseldon.itch.io](https://tmseldon.itch.io)
- - date_published: 2024-07-11T23:20:32.289197+00:00
-
- ## tobyfox - itch.io
- - [https://tobyfox.itch.io](https://tobyfox.itch.io)
- - date_published: 2024-06-18T16:23:15.588360+00:00
-
- ## Toharu - itch.io
- - [https://toharu.itch.io](https://toharu.itch.io)
- - date_published: 2024-06-22T14:45:15.724454+00:00
-
- ## Tom and Dad Games - itch.io
- - [https://tomanddad.itch.io](https://tomanddad.itch.io)
- - date_published: 2024-06-22T14:46:12.444818+00:00
-
- ## TomHart - itch.io
- - [https://tomhart.itch.io](https://tomhart.itch.io)
- - date_published: 2024-07-11T23:18:12.394776+00:00
-
- ## Tom McHenry - itch.io
- - [https://tommchenry.itch.io](https://tommchenry.itch.io)
- - date_published: 2024-06-22T15:04:22.774888+00:00
-
- ## Tom Mulgrew - itch.io
- - [https://tommulgrew.itch.io](https://tommulgrew.itch.io)
- - date_published: 2024-07-11T23:28:19.451265+00:00
-
- ## TooIzzi - itch.io
- - [https://tooizzi.itch.io](https://tooizzi.itch.io)
- - date_published: 2024-07-11T18:28:43.185369+00:00
-
- ## Toomuchgame - itch.io
- - [https://toomuchgame.itch.io](https://toomuchgame.itch.io)
- - date_published: 2024-06-23T17:35:04.351783+00:00
-
- ## torch60 - itch.io
- - [https://torch60.itch.io](https://torch60.itch.io)
- - date_published: 2024-06-22T14:47:28.150516+00:00
-
- ## ToulouTouMou - itch.io
- - [https://toulou.itch.io](https://toulou.itch.io)
- - date_published: 2023-10-25T19:58:46.804568+00:00
-
- ## Transparent Games - itch.io
- - [https://transparent-games.itch.io](https://transparent-games.itch.io)
- - date_published: 2024-07-11T23:04:20.763827+00:00
-
- ## tRaum Books - itch.io
- - [https://traumbooks.itch.io](https://traumbooks.itch.io)
- - date_published: 2023-10-25T19:58:49.226697+00:00
-
- ## treenode - itch.io
- - [https://treenode.itch.io](https://treenode.itch.io)
- - date_published: 2024-07-03T21:35:32.067404+00:00
-
- ## triage* - itch.io
- - [https://triage.itch.io](https://triage.itch.io)
- - date_published: 2024-06-22T14:43:34.407144+00:00
-
- ## Maddie - itch.io
- - [https://triplevivi.itch.io](https://triplevivi.itch.io)
- - date_published: 2024-05-08T07:31:41.220196+00:00
-
- ## Emanuele Feronato - itch.io
- - [https://triqui.itch.io](https://triqui.itch.io)
- - date_published: 2024-05-07T23:47:16.249279+00:00
-
- ## Tristan Dahl - itch.io
- - [https://tristan-dahl.itch.io](https://tristan-dahl.itch.io)
- - date_published: 2024-06-22T15:03:30.985415+00:00
-
- ## Three Times Infinite - itch.io
- - [https://tti.itch.io](https://tti.itch.io)
- - date_published: 2024-06-22T15:00:45.696706+00:00
-
- ## TweedleDim - itch.io
- - [https://tweedledim.itch.io](https://tweedledim.itch.io)
- - date_published: 2024-06-22T15:04:37.593993+00:00
-
- ## Twinbeard - itch.io
- - [https://twinbeard.itch.io](https://twinbeard.itch.io)
- - date_published: 2024-06-18T16:23:09.765404+00:00
-
- ## Two Tails - itch.io
- - [https://twotails.itch.io](https://twotails.itch.io)
- - date_published: 2024-05-10T04:01:30.958227+00:00
-
- ## Tymedust Games - itch.io
- - [https://tymedust.itch.io](https://tymedust.itch.io)
- - date_published: 2024-07-11T23:01:47.363771+00:00
-
- ## Tyron - itch.io
- - [https://tyronx.itch.io](https://tyronx.itch.io)
- - date_published: 2024-07-11T23:14:42.517483+00:00
-
- ## UBCO Video Game Development Club - itch.io
- - [https://ubcovgdc.itch.io](https://ubcovgdc.itch.io)
- - date_published: 2024-05-04T10:13:58.207302+00:00
 

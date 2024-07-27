@@ -1,3 +1,383 @@
+ ## A Preeminent Florida University
+ - [https://preeminence.fsu.edu](https://preeminence.fsu.edu)
+ - date_published: 2024-04-30T04:15:35.067434+00:00
+
+ ## Office of the Provost
+ - [http://provost.fsu.edu](http://provost.fsu.edu)
+ - date_published: 2024-07-15T19:29:45+00:00
+
+ ## University Registrar
+ - [https://registrar.fsu.edu](https://registrar.fsu.edu)
+ - date_published: 2024-04-30T04:15:04.655930+00:00
+
+ ## Regulations and Policies
+ - [https://regulations.fsu.edu](https://regulations.fsu.edu)
+ - date_published: 2024-04-30T04:16:33.117206+00:00
+
+ ## report.fsu.edu
+ - [https://report.fsu.edu](https://report.fsu.edu)
+ - date_published: 2024-07-14T18:59:52+00:00
+
+ ## Office of Research | FSU Office of Research
+ - [https://research.fsu.edu](https://research.fsu.edu)
+ - date_published: 2024-04-30T04:16:18.063722+00:00
+
+ ## Ask
+ - [https://servicecenter.fsu.edu](https://servicecenter.fsu.edu)
+ - date_published: 2023-07-23T03:54:11+00:00
+
+ ## Welcome to the FSU Drupal Site
+ - [https://smr.fsu.edu](https://smr.fsu.edu)
+ - date_published: 2024-04-30T04:15:09.836276+00:00
+
+ ## Department of Statistics
+ - [https://stat.fsu.edu](https://stat.fsu.edu)
+ - date_published: 2024-07-15T21:28:36+00:00
+
+ ## Loading...
+ - [https://status.fsu.edu](https://status.fsu.edu)
+ - date_published: 2024-06-27T07:29:53+00:00
+
+ ## Stay Healthy FSU
+ - [https://stayhealthy.fsu.edu](https://stayhealthy.fsu.edu)
+ - date_published: 2024-07-21T19:51:07+00:00
+
+ ## 2023-2027 - Strategic Plan
+ - [https://strategicplan.fsu.edu](https://strategicplan.fsu.edu)
+ - date_published: 2024-04-30T04:16:28.861521+00:00
+
+ ## Division of Student Affairs
+ - [https://studentaffairs.fsu.edu](https://studentaffairs.fsu.edu)
+ - date_published: 2024-07-22T01:19:40+00:00
+
+ ## Student Business Services
+ - [https://studentbusiness.fsu.edu](https://studentbusiness.fsu.edu)
+ - date_published: 2024-07-21T01:11:02+00:00
+
+ ## Systems Group | Computer Science Systems Group
+ - [https://system.cs.fsu.edu](https://system.cs.fsu.edu)
+ - date_published: 2024-07-14T16:24:00.202442+00:00
+
+ ## Technology Enhanced Classrooms | Florida State University
+ - [https://tecs.fsu.edu](https://tecs.fsu.edu)
+ - date_published: 2024-07-22T04:13:15.680143+00:00
+
+ ## FSU Testing Center
+ - [https://testing.fsu.edu](https://testing.fsu.edu)
+ - date_published: 2024-07-17T17:21:44+00:00
+
+ ## The Center for Leadership & Service
+ - [https://thecenter.fsu.edu](https://thecenter.fsu.edu)
+ - date_published: 2024-07-19T20:57:15+00:00
+
+ ## Transfer Student Services
+ - [https://transferstudents.fsu.edu](https://transferstudents.fsu.edu)
+ - date_published: 2024-07-18T18:10:13+00:00
+
+ ## Home | Transportation & Parking Services
+ - [https://transportation.fsu.edu](https://transportation.fsu.edu)
+ - date_published: 2024-07-22T03:56:25.906240+00:00
+
+ ## Tutoring Resources at FSU
+ - [https://tutoring.fsu.edu](https://tutoring.fsu.edu)
+ - date_published: 2024-04-30T04:15:25.549853+00:00
+
+ ## University Health Services
+ - [https://uhs.fsu.edu](https://uhs.fsu.edu)
+ - date_published: 2024-07-19T21:59:33+00:00
+
+ ## University Communications
+ - [https://unicomm.fsu.edu](https://unicomm.fsu.edu)
+ - date_published: 2024-04-30T04:16:34.766458+00:00
+
+ ## FSU Student Union
+ - [https://union.fsu.edu](https://union.fsu.edu)
+ - date_published: 2024-07-15T18:47:14+00:00
+
+ ## Homepage | Vires, Artes, Mores
+ - [https://vam.fsu.edu](https://vam.fsu.edu)
+ - date_published: 2024-07-20T05:34:44+00:00
+
+ ## Student Veterans Center
+ - [https://veterans.fsu.edu](https://veterans.fsu.edu)
+ - date_published: 2024-04-30T04:15:16.770484+00:00
+
+ ## Main Index
+ - [https://visit.fsu.edu](https://visit.fsu.edu)
+ - date_published: 2024-04-30T04:16:26.950490+00:00
+
+ ## Home page (used as placeholder)
+ - [https://vpfa.fsu.edu](https://vpfa.fsu.edu)
+ - date_published: 2024-07-14T18:12:28+00:00
+
+ ## Florida State University
+ - [https://webmail.fsu.edu](https://webmail.fsu.edu)
+ - date_published: 2024-04-30T04:16:31.602816+00:00
+
+ ## Test
+ - [https://webservices.its.fsu.edu](https://webservices.its.fsu.edu)
+ - date_published: 2024-07-20T22:28:47.371813+00:00
+
+ ## Writing Resources
+ - [https://wr.english.fsu.edu](https://wr.english.fsu.edu)
+ - date_published: 2024-07-14T18:47:58+00:00
+
+ ## The Career Center
+ - [https://career.fsu.edu](https://career.fsu.edu)
+ - date_published: 2024-04-30T04:15:47.967394+00:00
+
+ ## CEFA | Center for Economic Forecasting and Analysis
+ - [http://www.cefa.fsu.edu](http://www.cefa.fsu.edu)
+ - date_published: 2024-07-14T18:25:05+00:00
+
+ ## Computer Science, FSU
+ - [https://cs.fsu.edu](https://cs.fsu.edu)
+ - date_published: 2024-05-11T11:52:22.118924+00:00
+
+ ## FAMU-FSU
+ - [https://www.eng.famu.fsu.edu](https://www.eng.famu.fsu.edu)
+ - date_published: 2024-07-19T19:41:35+00:00
+
+ ## Facilities
+ - [https://www.facilities.fsu.edu](https://www.facilities.fsu.edu)
+ - date_published: 2024-07-22T04:02:48.183407+00:00
+
+ ## FREAC - Florida Resources and Environmental Analysis Center
+ - [http://www.freac.fsu.edu](http://www.freac.fsu.edu)
+ - date_published: 2022-05-12T18:41:58+00:00
+
+ ## The Florida State University High Energy Physics Group
+ - [http://www.hep.fsu.edu](http://www.hep.fsu.edu)
+ - date_published: 2024-06-22T09:00:51.510924+00:00
+
+ ## Home | University Libraries
+ - [https://lib.fsu.edu](https://lib.fsu.edu)
+ - date_published: 2024-04-30T04:15:42.474759+00:00
+
+ ## Sustainable Campus
+ - [http://www.sustainablecampus.fsu.edu](http://www.sustainablecampus.fsu.edu)
+ - date_published: 2024-07-18T18:15:43+00:00
+
+ ## Titans Return: COVID-19 Recovery | California State University, Fullerton
+ - [http://coronavirus.fullerton.edu](http://coronavirus.fullerton.edu)
+ - date_published: 2024-07-22T03:53:42.073040+00:00
+
+ - [https://escatter11.fullerton.edu](https://escatter11.fullerton.edu)
+ - date_published: 2016-04-25T04:44:24+00:00
+ - tags: ['math']
+
+ ## California State University, Fullerton
+ - [https://fullerton.edu](https://fullerton.edu)
+ - date_published: 2024-07-22T03:53:47.579855+00:00
+
+ ## College of Humanities and Social Sciences - College of Humanities and Social Sciences | CSUF
+ - [http://hss.fullerton.edu](http://hss.fullerton.edu)
+ - date_published: 2024-07-22T03:53:45.062146+00:00
+
+ ## CSUF Psychology Department Research and Teaching Materials
+ - [https://psych.fullerton.edu](https://psych.fullerton.edu)
+ - date_published: 2022-08-31T19:03:55+00:00
+
+ ## Department of Psychology - Department of Psychology | CSUF
+ - [https://psychology.fullerton.edu](https://psychology.fullerton.edu)
+ - date_published: 2024-04-30T04:16:47.286500+00:00
+
+ ## California State University, Fullerton
+ - [http://www.fullerton.edu](http://www.fullerton.edu)
+ - date_published: 2024-07-22T03:53:43.808774+00:00
+
+ ## Cierpliwości...
+ - [https://www.fullsail.edu](https://www.fullsail.edu)
+ - date_published: 2024-06-30T01:29:45.339767+00:00
+
+ ## Home | Gannon University
+ - [http://www.gannon.edu](http://www.gannon.edu)
+ - date_published: 2024-06-28T14:31:15.872176+00:00
+
+ ## Home | Office of Academic Effectiveness
+ - [https://academiceffectiveness.gatech.edu](https://academiceffectiveness.gatech.edu)
+ - date_published: 2024-07-18T12:53:02+00:00
+
+ ## Welcome! | Undergraduate Admission
+ - [https://admission.gatech.edu](https://admission.gatech.edu)
+ - date_published: 2024-04-30T04:19:34.744531+00:00
+
+ ## Homepage | Advising & Transition
+ - [https://advising.gatech.edu](https://advising.gatech.edu)
+ - date_published: 2024-06-13T15:15:15+00:00
+
+ ## Administration and Finance | Georgia Institute of Technology
+ - [https://af.gatech.edu](https://af.gatech.edu)
+ - date_published: 2024-06-14T21:39:27+00:00
+
+ ## Harnessing the Power of AI | AI at Georgia Tech
+ - [https://ai.gatech.edu](https://ai.gatech.edu)
+ - date_published: 2024-07-22T03:45:43.409433+00:00
+
+ ## AI Unplugged
+ - [https://aiunplugged.lmc.gatech.edu](https://aiunplugged.lmc.gatech.edu)
+ - date_published: 2024-05-07T18:50:14.524497+00:00
+
+ ## Home | Master of Science in Analytics
+ - [https://analytics.gatech.edu](https://analytics.gatech.edu)
+ - date_published: 2024-07-02T04:12:57+00:00
+
+ ## Welcome! | Undergraduate Admission
+ - [https://application.gatech.edu](https://application.gatech.edu)
+ - date_published: 2024-07-22T03:09:54.472689+00:00
+
+ ## Home | Georgia Tech Algorithm and Randomness Center (ARC)
+ - [http://arc.gatech.edu](http://arc.gatech.edu)
+ - date_published: 2024-06-13T18:15:03+00:00
+
+ ## Home | School of Architecture
+ - [https://arch.gatech.edu](https://arch.gatech.edu)
+ - date_published: 2024-07-18T19:32:16+00:00
+
+ ## Home | ARTS
+ - [https://arts.gatech.edu](https://arts.gatech.edu)
+ - date_published: 2024-04-30T04:19:07.870298+00:00
+
+ ## GT SSO or Guest Redirect - Administrative Services
+ - [https://asc.gatech.edu](https://asc.gatech.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Education Abroad
+ - [http://atlas.gatech.edu](http://atlas.gatech.edu)
+ - date_published: 2024-07-22T03:18:12.617418+00:00
+
+ ## Home | School of Building Construction
+ - [https://bc.gatech.edu](https://bc.gatech.edu)
+ - date_published: 2024-07-10T15:57:49+00:00
+
+ ## Employee Benefits
+ - [https://benefits.hr.gatech.edu](https://benefits.hr.gatech.edu)
+ - date_published: 2024-07-22T03:36:41+00:00
+
+ ## Custom Domain by Bitly
+ - [https://b.gatech.edu](https://b.gatech.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home | Briaerean Honor Society | Georgia Institute of Technology | Atlanta, GA
+ - [https://bhs.gatech.edu](https://bhs.gatech.edu)
+ - date_published: 2024-07-22T02:10:29+00:00
+
+ ## Welcome | Bioinformatics
+ - [https://bioinformatics.gatech.edu](https://bioinformatics.gatech.edu)
+ - date_published: 2024-07-22T03:12:04.060270+00:00
+
+ ## Official Brand Guide of Georgia Tech | Brand Guide
+ - [https://brand.gatech.edu](https://brand.gatech.edu)
+ - date_published: 2024-07-16T18:21:57+00:00
+
+ ## BuzzCard – Georgia Tech BuzzCard Services
+ - [https://buzzcard.gatech.edu](https://buzzcard.gatech.edu)
+ - date_published: 2024-04-30T04:18:29.772014+00:00
+
+ ## BuzzPort
+ - [https://buzzport.gatech.edu](https://buzzport.gatech.edu)
+ - date_published: 2024-04-30T04:19:05.861719+00:00
+
+ ## Home
+ - [http://c21u.gatech.edu](http://c21u.gatech.edu)
+ - date_published: 2024-06-27T14:06:58+00:00
+
+ ## Day | Campus Calendar
+ - [https://calendar.gatech.edu](https://calendar.gatech.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | Digital Learning
+ - [https://canvas.gatech.edu](https://canvas.gatech.edu)
+ - date_published: 2024-04-30T04:18:04.803764+00:00
+
+ ## Georgia Tech Career Fairs – Promoting Campus & Virtual Career Fairs to Georgia Tech Students!
+ - [https://careerfair.gatech.edu](https://careerfair.gatech.edu)
+ - date_published: 2024-07-22T03:27:02+00:00
+
+ ## Career Center – Your Career Resource @ Georgia Tech
+ - [https://career.gatech.edu](https://career.gatech.edu)
+ - date_published: 2024-04-30T04:18:07.647082+00:00
+
+ ## Human Resources
+ - [https://careers.gatech.edu](https://careers.gatech.edu)
+ - date_published: 2024-04-30T04:17:14.192931+00:00
+
+ ## College of Computing | Involvement, Innovation and Impact
+ - [https://cc.gatech.edu](https://cc.gatech.edu)
+ - date_published: 2024-04-30T04:16:56.720859+00:00
+
+ ## Center for Economic Development Research – Engineering Your Economic Development Success
+ - [https://cedr.gatech.edu](https://cedr.gatech.edu)
+ - date_published: 2024-07-22T03:40:51.571706+00:00
+
+ ## Home
+ - [https://ceed.gatech.edu](https://ceed.gatech.edu)
+ - date_published: 2024-05-02T17:30:53+00:00
+
+ ## Login | Cascade CMS
+ - [https://cms.scheller.gatech.edu](https://cms.scheller.gatech.edu)
+ - date_published: 2024-07-22T03:10:04.366099+00:00
+
+ ## Home
+ - [https://coe.gatech.edu](https://coe.gatech.edu)
+ - date_published: 2024-04-30T04:17:53.401648+00:00
+
+ ## Welcome | Commencement
+ - [https://commencement.gatech.edu](https://commencement.gatech.edu)
+ - date_published: 2024-04-30T04:19:13.988443+00:00
+
+ ## Georgia Tech Research - Your Path to Commercialization | Commercialization
+ - [https://commercialization.gatech.edu](https://commercialization.gatech.edu)
+ - date_published: 2024-07-22T03:41:42.607979+00:00
+
+ ## Institute Communications | Institute Communications
+ - [https://comm.gatech.edu](https://comm.gatech.edu)
+ - date_published: 2024-04-30T04:18:09.832414+00:00
+
+ ## Telling the Ivan Allen College Story | College Communications
+ - [https://comm.iac.gatech.edu](https://comm.iac.gatech.edu)
+ - date_published: 2024-07-22T03:09:10.088346+00:00
+
+ ## ContactDB
+ - [https://contactdb.cc.gatech.edu](https://contactdb.cc.gatech.edu)
+ - date_published: 2019-01-01T00:00:00+00:00
+
+ ## Contact Us | Contact
+ - [https://contact.gatech.edu](https://contact.gatech.edu)
+ - date_published: 2024-07-22T17:37:03.566662+00:00
+
+ ## ContactPose
+ - [https://contactpose.cc.gatech.edu](https://contactpose.cc.gatech.edu)
+ - date_published: 2020-07-29T19:18:29+00:00
+
+ ## Corporate Engagement | Corporate Engagement
+ - [https://corporate.gatech.edu](https://corporate.gatech.edu)
+ - date_published: 2024-07-22T03:41:35.325794+00:00
+
+ ## CRCNS PI Meeting Atlanta, Oct. 27-28, 2022
+ - [https://crcns2022atl.gatech.edu](https://crcns2022atl.gatech.edu)
+ - date_published: 2024-07-22T03:17:57+00:00
+
+ ## Home
+ - [https://create-x.gatech.edu](https://create-x.gatech.edu)
+ - date_published: 2024-04-30T04:18:11.907637+00:00
+
+ ## School of Computational Science and Engineering
+ - [https://cse.gatech.edu](https://cse.gatech.edu)
+ - date_published: 2024-04-30T04:19:11.929941+00:00
+
+ ## China Summer Program – Georgia Tech China Summer Program
+ - [https://csp.gatech.edu](https://csp.gatech.edu)
+ - date_published: 2024-07-22T02:55:16+00:00
+
+ ## Home | Dean's Scholars
+ - [https://deanscholars.coe.gatech.edu](https://deanscholars.coe.gatech.edu)
+ - date_published: 2024-06-25T17:53:16+00:00
+
+ ## Georgia Tech College of Design | College of Design
+ - [https://design.gatech.edu](https://design.gatech.edu)
+ - date_published: 2024-04-30T04:17:45.528290+00:00
+
  ## Welcome | Office of Development
  - [http://development.gatech.edu](http://development.gatech.edu)
  - date_published: 2024-07-12T19:10:38+00:00
@@ -3630,385 +4010,4 @@ Action
  ## Hendrix College
  - [https://hendrix.edu](https://hendrix.edu)
  - date_published: 2024-05-07T14:49:45.124041+00:00
-
- ## Home - High Point Dining
- - [https://dining.highpoint.edu](https://dining.highpoint.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Undergraduate Admissions - Undergraduate Admissions
- - [https://discover.highpoint.edu](https://discover.highpoint.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home - High Point University
- - [https://engage.highpoint.edu](https://engage.highpoint.edu)
- - date_published: 2024-06-30T10:53:18.417404+00:00
-
- ## - HPU Connect
- - [https://involved.highpoint.edu](https://involved.highpoint.edu)
- - date_published: 2024-06-30T10:53:16.384733+00:00
-
- ## Attention Required! | Cloudflare
- - [https://highpoint.edu](https://highpoint.edu)
- - date_published: 2024-05-07T16:13:51.345944+00:00
-
- ## Admissions
- - [https://apply2.hillsdale.edu](https://apply2.hillsdale.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Hillsdale Dialogues | Hillsdale College
- - [https://blog.hillsdale.edu](https://blog.hillsdale.edu)
- - date_published: 2024-07-20T01:19:38+00:00
-
- ## Home | Hillsdale in D.C.
- - [https://dc.hillsdale.edu](https://dc.hillsdale.edu)
- - date_published: 2023-10-25T18:52:19.460793+00:00
-
- ## Developing Minds. Improving Hearts. Hillsdale College
- - [https://hillsdale.edu](https://hillsdale.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Imprimis
- - [https://imprimis.hillsdale.edu](https://imprimis.hillsdale.edu)
- - date_published: 2024-07-21T10:48:42+00:00
-
- ## Home
- - [https://k12.hillsdale.edu](https://k12.hillsdale.edu)
- - date_published: 2024-04-28T05:59:02.187698+00:00
-
- ## Hillsdale College Online Courses
- - [https://online.hillsdale.edu](https://online.hillsdale.edu)
- - date_published: 2024-07-19T07:06:04+00:00
-
- ## Hillsdale College | Official Store
- - [https://shop.hillsdale.edu](https://shop.hillsdale.edu)
- - date_published: 2024-04-30T04:56:07.440908+00:00
-
- ## Front Page
- - [https://winstonchurchill.hillsdale.edu](https://winstonchurchill.hillsdale.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home
- - [http://www.hiram.edu](http://www.hiram.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Fakultät für Architektur - Hochschule München
- - [https://ar.hm.edu](https://ar.hm.edu)
- - date_published: 2024-07-12T11:44:22+00:00
-
- ## Fakultät für Bauingenieurwesen - Hochschule München
- - [https://bau.hm.edu](https://bau.hm.edu)
- - date_published: 2024-07-11T23:08:57+00:00
-
- ## Fakultät für Betriebswirtschaft - Hochschule München
- - [https://bwl.hm.edu](https://bwl.hm.edu)
- - date_published: 2024-07-11T23:01:10+00:00
-
- ## FK07 - Hochschule München
- - [https://cs.hm.edu](https://cs.hm.edu)
- - date_published: 2024-07-11T23:08:30+00:00
-
- ## Fakultät für Design - Hochschule München
- - [https://design.hm.edu](https://design.hm.edu)
- - date_published: 2024-07-11T23:04:19+00:00
-
- ## Fakultät für Elektrotechnik und Informationstechnik - Hochschule München
- - [https://ee.hm.edu](https://ee.hm.edu)
- - date_published: 2024-07-12T12:05:28+00:00
-
- ## Fakultät für Technische Systeme, Prozesse und Kommunikation - Hochschule München
- - [https://fk05.hm.edu](https://fk05.hm.edu)
- - date_published: 2024-07-11T23:01:12+00:00
-
- ## Fakultät für Geoinformation - Startseite - Hochschule München
- - [https://geo.hm.edu](https://geo.hm.edu)
- - date_published: 2024-07-12T09:05:17+00:00
-
- ## Fakultät für Studium Generale und Interdisziplinäre Studien - Hochschule München
- - [https://gs.hm.edu](https://gs.hm.edu)
- - date_published: 2024-07-11T23:07:37+00:00
-
- ## Hochschule München - Shibboleth
- - [https://intranet.hm.edu](https://intranet.hm.edu)
- - date_published: 2024-07-12T21:26:59.691616+00:00
-
- ## Fakultät für Maschinenbau, Fahrzeugtechnik, Flugzeugtechnik - Hochschule München
- - [https://me.hm.edu](https://me.hm.edu)
- - date_published: 2024-07-12T08:55:11+00:00
-
- ## Home | Moodle-Lernplattform
- - [https://moodle.hm.edu](https://moodle.hm.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## MUC.DAI - Munich Center for Digital Sciences and AI - Hochschule München
- - [https://mucdai.hm.edu](https://mucdai.hm.edu)
- - date_published: 2024-07-11T23:09:50+00:00
-
- ## Sign in - Matomo
- - [https://piwik1.cc.hm.edu](https://piwik1.cc.hm.edu)
- - date_published: 2024-07-12T21:26:58.152563+00:00
-
- ## Fakultät für angewandte Naturwissenschaften und Mechatronik - Hochschule München
- - [https://sci.hm.edu](https://sci.hm.edu)
- - date_published: 2024-07-11T23:04:35+00:00
-
- ## SmartSearch
- - [https://search.hm.edu](https://search.hm.edu)
- - date_published: 2024-07-11T10:49:47+00:00
-
- ## Fakultät für angewandte Sozialwissenschaften - Hochschule München
- - [https://sw.hm.edu](https://sw.hm.edu)
- - date_published: 2024-07-12T15:15:07+00:00
-
- ## Fakultät für Tourismus - Hochschule München
- - [https://tourismus.hm.edu](https://tourismus.hm.edu)
- - date_published: 2024-07-11T23:10:26+00:00
-
- ## Fakultät Wirtschaftsingenieurwesen - Hochschule München
- - [https://wi.hm.edu](https://wi.hm.edu)
- - date_published: 2024-07-12T09:45:12+00:00
-
- ## Startseite - Hochschule München
- - [https://hm.edu](https://hm.edu)
- - date_published: 2024-05-10T06:17:11.242900+00:00
-
- ## Computer Science | Harvey Mudd College
- - [https://www.cs.hmc.edu](https://www.cs.hmc.edu)
- - date_published: 2024-04-28T05:51:21.421698+00:00
-
- ## Home | Harvey Mudd College
- - [https://www.hmc.edu](https://www.hmc.edu)
- - date_published: 2024-04-28T05:52:27.805530+00:00
-
- ## Harvey Mudd College Mathematics
- - [https://www.math.hmc.edu](https://www.math.hmc.edu)
- - date_published: 2024-04-28T05:51:36.123537+00:00
-
- ## Home - Zucker School of Medicine
- - [https://medicine.hofstra.edu](https://medicine.hofstra.edu)
- - date_published: 2024-05-07T19:48:26.400833+00:00
-
- ## Donald & Barbara Zucker School of Medicine at Hofstra/Northwell – News from the Zucker School of Medicine
- - [https://mednews.hofstra.edu](https://mednews.hofstra.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Login - Hofstra University
- - [https://my.hofstra.edu](https://my.hofstra.edu)
- - date_published: 2024-07-01T16:28:09.791553+00:00
-
- ## Hofstra University | Long Island, New York
- - [https://www.hofstra.edu](https://www.hofstra.edu)
- - date_published: 2024-06-25T15:51:23+00:00
-
- ## Events Calendar
- - [https://calendar.hope.edu](https://calendar.hope.edu)
- - date_published: 2024-07-02T01:47:11.730793+00:00
-
- ## HSS | Hospital for Special Surgery: U.S. #1 for Orthopedics
- - [https://www.hss.edu](https://www.hss.edu)
- - date_published: 2024-07-02T20:26:46+00:00
-
- ## The Comprehensive Aramaic Lexicon
- - [http://cal1.cn.huc.edu](http://cal1.cn.huc.edu)
- - date_published: 2018-08-22T23:11:38+00:00
-
- ## Free GMAT Test Simulation - Hult International Business School
- - [https://gmat.hult.edu](https://gmat.hult.edu)
- - date_published: 2024-02-06T15:40:13+00:00
-
- ## G>GEL IELTS Practice Test - Hult International Business School
- - [https://ielts.hult.edu](https://ielts.hult.edu)
- - date_published: 2024-06-18T06:48:11.989748+00:00
-
- ## Hult International Business School - For Those Made to Do
- - [https://www.hult.edu](https://www.hult.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Huntington University | Top-Rated Christian University in Indiana | Huntington University
- - [http://www.huntington.edu](http://www.huntington.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Hobart and William Smith Colleges
- - [https://www.hws.edu](https://www.hws.edu)
- - date_published: 2024-05-01T03:32:47.553931+00:00
-
- ## Albert :: Home
- - [https://albert.ias.edu](https://albert.ias.edu)
- - date_published: 2024-04-30T04:56:35.530469+00:00
-
- ## Shelby White and Leon Levy Archives Center | Shelby White and Leon Levy Archives Center
- - [https://archives.ias.edu](https://archives.ias.edu)
- - date_published: 2024-07-21T22:50:29.124564+00:00
-
- ## Home | Institute for Advanced Study
- - [https://ias.edu](https://ias.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Redirecting...
- - [https://mail.ias.edu](https://mail.ias.edu)
- - date_published: 2024-07-01T18:45:15.432604+00:00
-
- ## Faculty & Emeriti
- - [https://publications.ias.edu](https://publications.ias.edu)
- - date_published: 2019-12-26T21:39:37+00:00
-
- ## IAS Store
- - [https://store.ias.edu](https://store.ias.edu)
- - date_published: 2024-04-30T04:56:28.052317+00:00
-
- ## School of Mathematics
- - [https://math.ias.edu](https://math.ias.edu)
- - date_published: 2019-09-11T19:48:03+00:00
-
- ## School of Natural Sciences
- - [https://sns.ias.edu](https://sns.ias.edu)
- - date_published: 2009-10-19T23:20:51+00:00
-
- ## AccessPlus Login
- - [http://accessplus.iastate.edu](http://accessplus.iastate.edu)
- - date_published: 2024-07-09T13:09:18.066119+00:00
-
- ## Iowa State University
- - [https://apps.admissions.iastate.edu](https://apps.admissions.iastate.edu)
- - date_published: 2024-07-01T06:37:20.702093+00:00
-
- ## Iowa State University - Signing in...
- - [http://canvas.iastate.edu](http://canvas.iastate.edu)
- - date_published: 2024-07-09T13:09:03.620249+00:00
-
- ## Iowa State University | Iowa State University Catalog
- - [http://catalog.iastate.edu](http://catalog.iastate.edu)
- - date_published: 2024-06-26T16:44:51+00:00
-
- ## IAState Web Theme
- - [https://cdn.theme.iastate.edu](https://cdn.theme.iastate.edu)
- - date_published: 2024-07-03T18:12:02.285441+00:00
-
- ## Iowa State University - Signing in...
- - [http://cymail.iastate.edu](http://cymail.iastate.edu)
- - date_published: 2024-07-09T13:09:20.206027+00:00
-
- ## Laboratory for Software Design
- - [http://design.cs.iastate.edu](http://design.cs.iastate.edu)
- - date_published: 2024-05-31T18:23:01+00:00
-
- ## DSpace
- - [https://dr.lib.iastate.edu](https://dr.lib.iastate.edu)
- - date_published: 2024-06-25T23:26:45+00:00
-
- ## Faculty and Staff Information
- - [https://facultystaff.info.iastate.edu](https://facultystaff.info.iastate.edu)
- - date_published: 2024-07-01T06:37:28.424363+00:00
-
- ## Free Speech
- - [https://freespeech.iastate.edu](https://freespeech.iastate.edu)
- - date_published: 2024-07-03T18:12:06.266649+00:00
-
- ## Iowa State University
- - [https://iastate.edu](https://iastate.edu)
- - date_published: 2024-07-01T06:37:24.891319+00:00
-
- ## Welcome - Directory Information - Iowa State University
- - [http://info.iastate.edu](http://info.iastate.edu)
- - date_published: 2024-07-09T13:09:00.198309+00:00
-
- ## College of Liberal Arts and Sciences - Iowa State University
- - [https://las.iastate.edu](https://las.iastate.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Connecting LAS alumni and friends
- - [https://link.las.iastate.edu](https://link.las.iastate.edu)
- - date_published: 2024-07-03T18:11:59.267433+00:00
-
- ## Iowa State University - Sign In
- - [https://login.iastate.edu](https://login.iastate.edu)
- - date_published: 2020-06-23T14:12:38+00:00
-
- ## Department of Mathematics
- - [https://math.iastate.edu](https://math.iastate.edu)
- - date_published: 2024-06-30T03:00:26.661502+00:00
-
- ## Iowa State University - Signing in...
- - [http://outlook.iastate.edu](http://outlook.iastate.edu)
- - date_published: 2024-07-09T13:09:10.852804+00:00
-
- ## Parent and Family Programs
- - [https://parents.dso.iastate.edu](https://parents.dso.iastate.edu)
- - date_published: 2024-07-03T18:12:14.393241+00:00
-
- ## University Records Retention Schedule | Records Retention
- - [http://records.policy.iastate.edu](http://records.policy.iastate.edu)
- - date_published: 2024-07-09T13:08:57.842973+00:00
-
- ## Student Information
- - [https://students.info.iastate.edu](https://students.info.iastate.edu)
- - date_published: 2024-07-01T06:37:42.977619+00:00
-
- ## Sign in - Matomo
- - [https://trends.ent.iastate.edu](https://trends.ent.iastate.edu)
- - date_published: 2024-07-01T06:37:37.617462+00:00
-
- ## Department of Economics
- - [https://www2.econ.iastate.edu](https://www2.econ.iastate.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Department of Aerospace Engineering – College of Engineering, Iowa State University
- - [https://www.aere.iastate.edu](https://www.aere.iastate.edu)
- - date_published: 2024-07-19T05:42:44.391251+00:00
-
- ## College of Agriculture and Life Sciences
- - [https://www.cals.iastate.edu](https://www.cals.iastate.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Center for Agricultural and Rural Development
- - [https://www.card.iastate.edu](https://www.card.iastate.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## CFSPH
- - [https://www.cfsph.iastate.edu](https://www.cfsph.iastate.edu)
- - date_published: 2024-07-01T16:16:42.236858+00:00
-
- ## Digital Accessibility - Information Technology Services
- - [https://www.digitalaccess.iastate.edu](https://www.digitalaccess.iastate.edu)
- - date_published: 2024-07-03T18:12:18.630972+00:00
-
- ## Diversity, Equity and Inclusion
- - [https://www.diversity.iastate.edu](https://www.diversity.iastate.edu)
- - date_published: 2024-07-01T06:37:35.223172+00:00
-
- ## Department of Electrical and Computer Engineering – College of Engineering, Iowa State University
- - [https://www.ece.iastate.edu](https://www.ece.iastate.edu)
- - date_published: 2024-04-23T00:00:00+00:00
- - tags: ['university']
-
- ## Department of Economics
- - [https://www.econ.iastate.edu](https://www.econ.iastate.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Events • Events Calendar • Iowa State University
- - [https://www.event.iastate.edu](https://www.event.iastate.edu)
- - date_published: 2024-07-03T18:11:56.464078+00:00
-
- ## Facilities Planning and Management
- - [http://www.fpm.iastate.edu](http://www.fpm.iastate.edu)
- - date_published: 2024-07-09T13:09:15.500062+00:00
-
- ## Iowa State Graduate College - Graduate College - Iowa State University
- - [http://www.grad-college.iastate.edu](http://www.grad-college.iastate.edu)
- - date_published: 2024-07-09T13:09:08.390246+00:00
-
- ## Home - Department of Horticulture
- - [https://www.hort.iastate.edu](https://www.hort.iastate.edu)
- - date_published: 2024-06-16T22:36:23.839976+00:00
-
- ## Welcome - Directory Information - Iowa State University
- - [https://www.info.iastate.edu](https://www.info.iastate.edu)
- - date_published: 2024-07-01T06:37:16.750673+00:00
-
- ## Information Technology Services
- - [https://www.it.iastate.edu](https://www.it.iastate.edu)
- - date_published: 2024-07-01T06:37:33.951242+00:00
-
- ## Employment Opportunities
- - [https://www.jobs.iastate.edu](https://www.jobs.iastate.edu)
- - date_published: 2024-07-03T18:12:09.097043+00:00
 

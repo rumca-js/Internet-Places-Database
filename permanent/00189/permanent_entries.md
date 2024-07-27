@@ -1,3 +1,388 @@
+ ## Home | Academic Senate
+ - [https://www.senate.ucla.edu](https://www.senate.ucla.edu)
+ - date_published: 2024-07-01T22:45:15+00:00
+
+ ## Social Sciences
+ - [http://www.sscnet.ucla.edu](http://www.sscnet.ucla.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - UCLA Statistics
+ - [http://www.stat.ucla.edu](http://www.stat.ucla.edu)
+ - date_published: 2019-03-19T11:37:06+00:00
+
+ ## UCLA Student Affairs
+ - [https://www.studentaffairs.ucla.edu](https://www.studentaffairs.ucla.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Shine Inside and Out: Student Health at UCLA | Arthur Ashe Student
+ - [https://www.studenthealth.ucla.edu](https://www.studenthealth.ucla.edu)
+ - date_published: 2024-07-01T17:41:58+00:00
+
+ ## UCLA Sustainability | Sustainability at UCLA brings together a community of students, faculty, and staff
+ - [https://www.sustain.ucla.edu](https://www.sustain.ucla.edu)
+ - date_published: 2024-07-01T23:03:02.629818+00:00
+
+ ## UCLA
+ - [https://ucla.edu](https://ucla.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## HOME - xLAB
+ - [https://xlab.aud.ucla.edu](https://xlab.aud.ucla.edu)
+ - date_published: 2024-07-12T18:09:42.098373+00:00
+
+ ## Zocchi Laboratory
+ - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
+ - date_published: 2024-02-08T21:48:42.972695+00:00
+
+ ## UCLA Extension Career Center
+ - [https://careers.uclaextension.edu](https://careers.uclaextension.edu)
+ - date_published: 2024-06-29T01:45:00.284389+00:00
+
+ ## Log In to Canvas
+ - [https://my.uclaextension.edu](https://my.uclaextension.edu)
+ - date_published: 2023-09-20T00:00:00+00:00
+
+ ## Newsroom
+ - [https://newsroom.uclaextension.edu](https://newsroom.uclaextension.edu)
+ - date_published: 2024-07-01T23:05:32.296367+00:00
+
+ ## Home | UCLA Extension
+ - [https://portal.uclaextension.edu](https://portal.uclaextension.edu)
+ - date_published: 2024-07-01T23:05:26.000928+00:00
+
+ ## Writing & Journalism Courses & Certificates | UCLA Extension
+ - [http://writers.uclaextension.edu](http://writers.uclaextension.edu)
+ - date_published: 2024-06-29T20:04:18.999916+00:00
+
+ ## UCLA Extension - Continuing Education Courses & Certificates
+ - [https://uclaextension.edu](https://uclaextension.edu)
+ - date_published: 2024-05-07T20:55:05.477271+00:00
+
+ ## UC Law SF Scholarship Repository | UC Law SF Research
+ - [https://repository.uclawsf.edu](https://repository.uclawsf.edu)
+ - date_published: 2024-07-17T17:16:35.501110+00:00
+
+ ## Accessibility at UC Merced
+ - [https://accessibility.ucmerced.edu](https://accessibility.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Undergraduate Admissions | Division of Enrollment Management
+ - [https://admissions.ucmerced.edu](https://admissions.ucmerced.edu)
+ - date_published: 2024-07-01T21:46:04+00:00
+
+ ## Applied Mathematics
+ - [https://appliedmath.ucmerced.edu](https://appliedmath.ucmerced.edu)
+ - date_published: 2024-07-01T21:45:38+00:00
+
+ ## Apply Now | Graduate Division
+ - [https://applygrad.ucmerced.edu](https://applygrad.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:30.115935+00:00
+
+ ## Basic Needs
+ - [https://basicneeds.ucmerced.edu](https://basicneeds.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:46.497349+00:00
+
+ ## Biological Engineering and Small-Scale Technologies
+ - [https://best.ucmerced.edu](https://best.ucmerced.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Bioengineering
+ - [https://bioe.ucmerced.edu](https://bioe.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:24.812623+00:00
+
+ ## University of California Merced - Acalog ACMS™
+ - [http://catalog.ucmerced.edu](http://catalog.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Center for Cellular and Biomolecular Machines | National Science Foundation Center of Research Excellence in Science and Technology (CREST)
+ - [https://ccbm.ucmerced.edu](https://ccbm.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:13.753480+00:00
+
+ ## Center for Educational Partnerships
+ - [https://cep.ucmerced.edu](https://cep.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:41.329936+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucmerced.edu](https://chancellor.ucmerced.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UC Merced Community and Labor Center
+ - [https://clc.ucmerced.edu](https://clc.ucmerced.edu)
+ - date_published: 2024-07-01T20:55:14+00:00
+
+ ## Convergence of Nano-engineered Devices for Environmental and Sustainable Applications (CONDESA) | A National Science Foundation Research Traineeship Program
+ - [https://condesa.ucmerced.edu](https://condesa.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:34+00:00
+
+ ## SIR UCMerced Admission
+ - [https://decision.ucmerced.edu](https://decision.ucmerced.edu)
+ - date_published: 2024-06-04T07:03:18+00:00
+
+ ## Division of Finance and Administration
+ - [https://dfa.ucmerced.edu](https://dfa.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Directory
+ - [https://directory.ucmerced.edu](https://directory.ucmerced.edu)
+ - date_published: 2024-06-25T07:05:06+00:00
+
+ ## Division of Equity, Justice, & Inclusive Excellence
+ - [https://diversity.ucmerced.edu](https://diversity.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:32+00:00
+ - tags: ['dei']
+
+ ## Home | Emergency Preparedness
+ - [https://emergency.ucmerced.edu](https://emergency.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:37+00:00
+
+ ## Engineering Service Learning | School of Engineering
+ - [https://engineeringservicelearning.ucmerced.edu](https://engineeringservicelearning.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Engineering
+ - [https://engineering.ucmerced.edu](https://engineering.ucmerced.edu)
+ - date_published: 2024-07-01T22:40:53+00:00
+
+ ## School of Engineering
+ - [https://eng.ucmerced.edu](https://eng.ucmerced.edu)
+ - date_published: 2024-06-22T06:19:46+00:00
+
+ ## Environmental Systems Graduate Group
+ - [https://es.ucmerced.edu](https://es.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:09.391442+00:00
+
+ ## Events Calendar
+ - [https://events.ucmerced.edu](https://events.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | University Extension
+ - [https://extension.ucmerced.edu](https://extension.ucmerced.edu)
+ - date_published: 2024-07-01T22:54:36+00:00
+
+ ## External Relations & Strategic Communications
+ - [https://externalrelations.ucmerced.edu](https://externalrelations.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:58+00:00
+
+ ## Financial Aid | Helping Students Succeed
+ - [https://financialaid.ucmerced.edu](https://financialaid.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Division of Management and Information
+ - [https://gallo.ucmerced.edu](https://gallo.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:56.998444+00:00
+
+ ## Graduate Division
+ - [https://graduatedivision.ucmerced.edu](https://graduatedivision.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:27.415446+00:00
+
+ ## Home | Health Services
+ - [http://health.ucmerced.edu](http://health.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## G-RISE I-BioSTeP | Interdisciplinary Biomedical Science and Technology Program
+ - [https://ibiostep.ucmerced.edu](https://ibiostep.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Office of Information Technology
+ - [https://it.ucmerced.edu](https://it.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:29.991059+00:00
+
+ ## Home | Staff Jobs
+ - [https://jobs.ucmerced.edu](https://jobs.ucmerced.edu)
+ - date_published: 2024-07-01T22:30:16+00:00
+
+ ## UC Merced Library | Not what other research libraries are, what they will be.
+ - [https://library.ucmerced.edu](https://library.ucmerced.edu)
+ - date_published: 2024-07-01T19:38:14+00:00
+
+ ## Materials and Biomaterials Science and Engineering
+ - [https://mbse.ucmerced.edu](https://mbse.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:19.947352+00:00
+
+ ## UC Merced | Premier Academic Institution in California
+ - [https://mist.ucmerced.edu](https://mist.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:05.684504+00:00
+
+ ## Welcome to UC Merced Connect | UC Merced Connect
+ - [https://my.ucmerced.edu](https://my.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:11.919076+00:00
+
+ ## School of Natural Sciences
+ - [https://naturalsciences.ucmerced.edu](https://naturalsciences.ucmerced.edu)
+ - date_published: 2024-07-01T21:12:30+00:00
+
+ ## Home | Newsroom
+ - [http://news.ucmerced.edu](http://news.ucmerced.edu)
+ - date_published: 2024-07-01T21:41:05+00:00
+
+ ## University of California, Merced | Off-Campus Housing Search
+ - [http://och.ucmerced.edu](http://och.ucmerced.edu)
+ - date_published: 2024-07-01T23:19:06.136319+00:00
+
+ ## Physical Operations, Planning and Development  | We excel in Safety, Customer Service, Sustainability and Teamwork through Innovation.
+ - [https://popd.ucmerced.edu](https://popd.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:44.171009+00:00
+
+ ## UC Merced Postdoctoral Scholars
+ - [https://postdoc.ucmerced.edu](https://postdoc.ucmerced.edu)
+ - date_published: 2024-07-01T23:04:19+00:00
+
+ ## Home | Office of the Executive Vice Chancellor and Provost
+ - [https://provostevc.ucmerced.edu](https://provostevc.ucmerced.edu)
+ - date_published: 2024-07-01T22:56:00+00:00
+
+ ## Welcome to the Office of Research Compliance and Integrity | Research Compliance and Integrity
+ - [https://rci.ucmerced.edu](https://rci.ucmerced.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Welcome to Office of Research Development | Office of Research Development
+ - [https://rds.ucmerced.edu](https://rds.ucmerced.edu)
+ - date_published: 2024-07-01T23:17:01.432396+00:00
+
+ ## Office of the Registrar | Supporting the Academic Mission
+ - [https://registrar.ucmerced.edu](https://registrar.ucmerced.edu)
+ - date_published: 2024-07-01T23:11:18.492407+00:00
+
+ ## Office of Research and Economic Development
+ - [https://research.ucmerced.edu](https://research.ucmerced.edu)
+ - date_published: 2024-07-01T22:53:38+00:00
+
+ ## Home | Academic Senate
+ - [http://senate.ucmerced.edu](http://senate.ucmerced.edu)
+ - date_published: 2024-07-01T22:59:39+00:00
+
+ ## Sponsored Projects Office
+ - [https://srs.ucmerced.edu](https://srs.ucmerced.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Social Sciences, Humanities and Arts
+ - [https://ssha.ucmerced.edu](https://ssha.ucmerced.edu)
+ - date_published: 2024-07-01T20:39:06+00:00
+
+ ## Home | Student Affairs
+ - [https://studentaffairs.ucmerced.edu](https://studentaffairs.ucmerced.edu)
+ - date_published: 2024-07-01T21:00:27+00:00
+
+ ## Students First Center | Phone: 209-228-7178
+ - [https://studentsfirst.ucmerced.edu](https://studentsfirst.ucmerced.edu)
+ - date_published: 2024-07-01T22:32:00+00:00
+
+ ## Division of Undergraduate Education
+ - [https://ue.ucmerced.edu](https://ue.ucmerced.edu)
+ - date_published: 2024-07-01T23:16:45.680457+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://vllab1.ucmerced.edu](http://vllab1.ucmerced.edu)
+ - date_published: 2018-04-18T23:18:39+00:00
+
+ ## VLLab - UC Merced
+ - [http://vllab.ucmerced.edu](http://vllab.ucmerced.edu)
+ - date_published: 2023-03-12T09:07:46+00:00
+
+ ## Home | University Writing Center
+ - [https://writingcenter.ucmerced.edu](https://writingcenter.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:40.485463+00:00
+
+ ## The Karen Merritt Writing Program
+ - [https://writingprogram.ucmerced.edu](https://writingprogram.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:22.838187+00:00
+
+ ## Writing Studies
+ - [https://writingstudies.ucmerced.edu](https://writingstudies.ucmerced.edu)
+ - date_published: 2024-07-01T23:18:04.509540+00:00
+
+ ## University of California, Merced
+ - [https://www.ucmerced.edu](https://www.ucmerced.edu)
+ - date_published: 2024-05-07T20:56:17.110274+00:00
+
+ ## Home | IT Accessibility
+ - [https://accessibility.its.uconn.edu](https://accessibility.its.uconn.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://accessibility.media.uconn.edu](https://accessibility.media.uconn.edu)
+ - date_published: 2024-07-01T23:18:24+00:00
+
+ ## Home | Accessibility
+ - [https://accessibility.uconn.edu](https://accessibility.uconn.edu)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Home | Accounting Department
+ - [http://accounting.business.uconn.edu](http://accounting.business.uconn.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.uconn.edu](https://admissions.uconn.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## UConn Alert | Home
+ - [http://alert.uconn.edu](http://alert.uconn.edu)
+ - date_published: 2024-07-01T23:20:39.740632+00:00
+
+ ## UConn School of Business | Office of External and Alumni Engagement
+ - [http://alumni.business.uconn.edu](http://alumni.business.uconn.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home | Aurora
+ - [https://arthur-parzygnat.uconn.edu](https://arthur-parzygnat.uconn.edu)
+ - date_published: 2024-05-04T14:40:31.233891+00:00
+
+ ## Home | Aurora
+ - [https://aurora.media.uconn.edu](https://aurora.media.uconn.edu)
+ - date_published: 2024-06-22T05:42:50+00:00
+
+ ## Home | Aurora
+ - [https://aurora.uconn.edu](https://aurora.uconn.edu)
+ - date_published: 2024-06-22T05:42:50+00:00
+
+ ## Home | Avery Point
+ - [https://averypoint.uconn.edu](https://averypoint.uconn.edu)
+ - date_published: 2024-07-01T23:19:55.132584+00:00
+
+ ## University of Connecticut | Brand Standards
+ - [https://brand.uconn.edu](https://brand.uconn.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Home | Business Law
+ - [http://businesslaw.business.uconn.edu](http://businesslaw.business.uconn.edu)
+ - date_published: 2024-07-01T23:32:59+00:00
+
+ ## Home | Business Career Development Office
+ - [https://career.business.uconn.edu](https://career.business.uconn.edu)
+ - date_published: 2024-07-01T22:05:27+00:00
+
+ ## Home | Connecticut Center for Economic Analysis
+ - [http://ccea.uconn.edu](http://ccea.uconn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## | Connecticut Center for Entrepreneurship and Innovation
+ - [http://ccei.business.uconn.edu](http://ccei.business.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## | Connecticut Center for Entrepreneurship and Innovation
+ - [https://ccei.uconn.edu](https://ccei.uconn.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## The 2024 Periodical Cicada Emergence | Periodical Cicada Information Pages
+ - [https://cicadas.uconn.edu](https://cicadas.uconn.edu)
+ - date_published: 2024-07-17T04:52:21+00:00
+
+ ## Home | Connecticut Information Technology Institute
+ - [http://citi.uconn.edu](http://citi.uconn.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home | College of Liberal Arts and Sciences
+ - [https://clas.uconn.edu](https://clas.uconn.edu)
+ - date_published: 2024-07-21T01:27:03+00:00
+
+ ## University of Connecticut | University Communications
+ - [https://communications.uconn.edu](https://communications.uconn.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | Office of University Compliance
+ - [https://compliance.uconn.edu](https://compliance.uconn.edu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
  ## Home | Math Courses
  - [https://courses.math.uconn.edu](https://courses.math.uconn.edu)
  - date_published: 2024-01-11T00:00:00+00:00
@@ -3616,389 +4001,4 @@
  ## Food Science & Technology
  - [https://foodscience.caes.uga.edu](https://foodscience.caes.uga.edu)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## Home - UGA Freedom of Expression
- - [https://freedomofexpression.uga.edu](https://freedomofexpression.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UGA Alumni Donors & Friends - The University of Georgia - Alumni, Donors & Friends - University of Georgia
- - [https://gail.uga.edu](https://gail.uga.edu)
- - date_published: 2024-07-02T02:22:07.728471+00:00
-
- ## Give to UGA for a Better Tomorrow - Support the Future of Georgia
- - [https://give.uga.edu](https://give.uga.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Office of Global Engagement
- - [https://globalengagement.uga.edu](https://globalengagement.uga.edu)
- - date_published: 2024-07-02T02:20:53.847814+00:00
-
- ## Grady College of Mass Communication & Journalism
- - [https://grady.uga.edu](https://grady.uga.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home - Greek Life
- - [https://greeklife.uga.edu](https://greeklife.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Plant Growth Facilities
- - [https://greenhouses.caes.uga.edu](https://greenhouses.caes.uga.edu)
- - date_published: 2022-08-22T00:00:00+00:00
-
- ## University of Georgia Griffin Campus
- - [https://griffin.uga.edu](https://griffin.uga.edu)
- - date_published: 2024-07-01T19:14:51+00:00
-
- ## EITS Help Desk Chat Portal
- - [https://hd.support.uga.edu](https://hd.support.uga.edu)
- - date_published: 2024-07-02T02:25:24.165712+00:00
-
- ## The University of Georgia Health Center
- - [https://healthcenter.uga.edu](https://healthcenter.uga.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home - UGA Morehead Honors College
- - [https://honors.uga.edu](https://honors.uga.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Horticulture
- - [https://hort.caes.uga.edu](https://hort.caes.uga.edu)
- - date_published: 2024-07-01T21:07:43+00:00
-
- ## University Housing – Student Affairs
- - [https://housing.uga.edu](https://housing.uga.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Human Resources | University of Georgia
- - [http://hr.uga.edu](http://hr.uga.edu)
- - date_published: 2024-07-02T02:20:19.015686+00:00
-
- ## UGA Global Impact – Office of Global Engagement
- - [http://international.uga.edu](http://international.uga.edu)
- - date_published: 2024-07-02T02:24:52.563072+00:00
-
- ## Log In ‹ CAES Intranet — WordPress
- - [https://intranet.caes.uga.edu](https://intranet.caes.uga.edu)
- - date_published: 2024-07-02T02:22:54.651583+00:00
-
- ## Home - International Student Life
- - [https://isl.uga.edu](https://isl.uga.edu)
- - date_published: 2024-07-02T02:20:48.408190+00:00
-
- ## Leaders in Innovation
- - [https://leadinginnovation.caes.uga.edu](https://leadinginnovation.caes.uga.edu)
- - date_published: 2024-07-01T19:13:06+00:00
-
- ## Home - Pride Center
- - [https://lgbtcenter.uga.edu](https://lgbtcenter.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University of Georgia
- - [https://majors.admissions.uga.edu](https://majors.admissions.uga.edu)
- - date_published: 2024-07-02T02:20:50.194802+00:00
-
- ## Welcome to the Department of Mathematics | Department of Mathematics
- - [http://math.uga.edu](http://math.uga.edu)
- - date_published: 2024-06-30T11:18:26+00:00
-
- ## Division of Marketing & Communications, University of Georgia
- - [https://mc.uga.edu](https://mc.uga.edu)
- - date_published: 2024-05-07T21:11:41.782223+00:00
-
- ## Home - Multicultural Services and Programs
- - [https://msp.uga.edu](https://msp.uga.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## MyUGA: Welcome
- - [https://my.uga.edu](https://my.uga.edu)
- - date_published: 2024-05-07T21:11:53.881319+00:00
-
- ## National Center for Home Food Preservation
- - [https://nchfp.uga.edu](https://nchfp.uga.edu)
- - date_published: 2023-11-01T08:43:32.942121+00:00
-
- ## UGA Today - Today’s top news from the University of Georgia
- - [https://news.uga.edu](https://news.uga.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## CAES Newswire
- - [https://newswire.caes.uga.edu](https://newswire.caes.uga.edu)
- - date_published: 2024-07-01T21:06:24+00:00
-
- ## Athena Homepage
- - [https://oasisweb.uga.edu](https://oasisweb.uga.edu)
- - date_published: 2024-05-07T21:12:29.498653+00:00
-
- ## Office of Global Engagement
- - [http://oie.uga.edu](http://oie.uga.edu)
- - date_published: 2024-05-07T21:12:27.283573+00:00
-
- ## Learning and Organizational Development
- - [https://olod.caes.uga.edu](https://olod.caes.uga.edu)
- - date_published: 2024-07-01T22:17:02+00:00
-
- ## UGA New Student Orientation
- - [https://orientation.uga.edu](https://orientation.uga.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home - UGA Student Financial Aid
- - [https://osfa.uga.edu](https://osfa.uga.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home | UGA Public Service and Outreach Registration System
- - [https://outreachregistration.uga.edu](https://outreachregistration.uga.edu)
- - date_published: 2024-07-02T02:25:29.295792+00:00
-
- ## Home - UGA Office of Instruction
- - [https://ovpi.uga.edu](https://ovpi.uga.edu)
- - date_published: 2024-07-02T02:22:28.536442+00:00
-
- ## UGA People Search
- - [https://peoplesearch.uga.edu](https://peoplesearch.uga.edu)
- - date_published: 2024-07-02T02:20:21.787756+00:00
-
- ## Professional Education Portal | University of Georgia
- - [https://pep.uga.edu](https://pep.uga.edu)
- - date_published: 2024-07-02T02:24:22.436223+00:00
-
- ## Plant Breeding, Genetics & Genomics
- - [https://plantbreeding.caes.uga.edu](https://plantbreeding.caes.uga.edu)
- - date_published: 2024-07-01T21:18:08+00:00
-
- ## Plant Pathology
- - [https://plantpath.caes.uga.edu](https://plantpath.caes.uga.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Home | University of Georgia - Policy Library
- - [https://policy.uga.edu](https://policy.uga.edu)
- - date_published: 2024-07-02T02:21:47.918090+00:00
-
- ## Poultry Science
- - [https://poultry.caes.uga.edu](https://poultry.caes.uga.edu)
- - date_published: 2022-06-01T00:00:00+00:00
-
- ## Office of the Senior Vice President for Academic Affairs and Provost - University of Georgia - Provost’s Office - University of Georgia
- - [https://provost.uga.edu](https://provost.uga.edu)
- - date_published: 2024-07-02T02:20:43.487605+00:00
-
- ## Home - Recreational Sports
- - [https://recsports.uga.edu](https://recsports.uga.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Home | University of Georgia Extension
- - [https://register.extension.uga.edu](https://register.extension.uga.edu)
- - date_published: 2024-05-07T21:11:55.519588+00:00
-
- ## Office of the Registrar
- - [https://reg.uga.edu](https://reg.uga.edu)
- - date_published: 2024-07-02T02:20:45.121350+00:00
-
- ## Office of Research – University of Georgia Office of Research
- - [https://research.uga.edu](https://research.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Safe & Secure | Annual Fire Safety and Security Report
- - [https://safeandsecure.uga.edu](https://safeandsecure.uga.edu)
- - date_published: 2024-07-02T02:21:51.613676+00:00
-
- ## Home - Student Care & Outreach
- - [https://sco.uga.edu](https://sco.uga.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Athena Homepage
- - [https://sis-ssb-prod.uga.edu](https://sis-ssb-prod.uga.edu)
- - date_published: 2024-07-02T02:24:49.343638+00:00
-
- ## CAES WordPress | Labs and Programs, Blogs, Clubs, Conferences and Events
- - [https://site.caes.uga.edu](https://site.caes.uga.edu)
- - date_published: 2024-07-01T19:50:48+00:00
-
- ## Extension WordPress | Blogs, Programs, and Topical Websites
- - [https://site.extension.uga.edu](https://site.extension.uga.edu)
- - date_published: 2024-06-28T18:34:49+00:00
-
- ## Home | UGA Systems Status
- - [http://status.uga.edu](http://status.uga.edu)
- - date_published: 2023-12-21T17:21:57+00:00
-
- ## UGA Stratigraphy Lab
- - [https://strata.uga.edu](https://strata.uga.edu)
- - date_published: 2024-03-09T15:59:00+00:00
-
- ## Home - UGA Student Affairs
- - [https://studentaffairs.uga.edu](https://studentaffairs.uga.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## 2023 Annual Update - Student Affairs Annual Update
- - [https://studentaffairsupdate.uga.edu](https://studentaffairsupdate.uga.edu)
- - date_published: 2024-07-02T02:21:43.594416+00:00
-
- ## UGA Complaints Portal
- - [https://studentcomplaints.uga.edu](https://studentcomplaints.uga.edu)
- - date_published: 2023-03-23T17:31:08+00:00
-
- ## Home - Student Resources
- - [https://student.uga.edu](https://student.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Student Veterans Resource Center
- - [https://svrc.uga.edu](https://svrc.uga.edu)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Home - Tate Student Center
- - [https://tate.uga.edu](https://tate.uga.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Welcome | TED
- - [https://ted.cviog.uga.edu](https://ted.cviog.uga.edu)
- - date_published: 2024-07-02T02:25:29+00:00
-
- ## Home - University Testing Services
- - [https://testing.uga.edu](https://testing.uga.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Tifton Campus
- - [https://tifton.caes.uga.edu](https://tifton.caes.uga.edu)
- - date_published: 2024-07-01T21:03:52+00:00
-
- ## Home - UGA Transportation & Parking Services
- - [https://tps.uga.edu](https://tps.uga.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home - Student Transitions
- - [https://transitions.uga.edu](https://transitions.uga.edu)
- - date_published: 2024-07-02T02:21:32.916539+00:00
-
- ## TinyUGA - link shortener for University of Georgia websites
- - [https://t.uga.edu](https://t.uga.edu)
- - date_published: 2023-11-07T14:54:18.985053+00:00
-
- ## UGAMail & Office 365 | Enterprise Information Technology Services
- - [http://ugamail.uga.edu](http://ugamail.uga.edu)
- - date_published: 2024-07-02T02:24:57.409725+00:00
-
- ## Home - University of Georgia College of Veterinary Medicine
- - [https://vet.uga.edu](https://vet.uga.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Visit the University of Georgia
- - [https://visit.uga.edu](https://visit.uga.edu)
- - date_published: 2024-07-02T02:20:20.777972+00:00
-
- ## Home - We Are GA
- - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home - Well-being Resources
- - [https://well-being.uga.edu](https://well-being.uga.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UGA Admissions
- - [https://admissions.uga.edu](https://admissions.uga.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Welcome to the Office of University Architects | University Architects
- - [https://www.architects.uga.edu](https://www.architects.uga.edu)
- - date_published: 2024-07-02T02:24:17.315629+00:00
-
- ## College of Agricultural & Environmental Sciences | University of Georgia
- - [https://caes.uga.edu](https://caes.uga.edu)
- - date_published: 2024-05-07T21:12:19.491625+00:00
-
- ## College of Family and Consumer Sciences | UGA FACS
- - [https://www.fcs.uga.edu](https://www.fcs.uga.edu)
- - date_published: 2024-07-02T02:22:56+00:00
-
- ## Home | University of Georgia School of Law
- - [http://www.law.uga.edu](http://www.law.uga.edu)
- - date_published: 2024-07-22T02:27:09.453760+00:00
-
- ## UGA
- - [https://uga.edu](https://uga.edu)
- - date_published: 2024-05-07T21:11:43.033100+00:00
-
- ## AccessUH
- - [https://accessuh.uh.edu](https://accessuh.uh.edu)
- - date_published: 2024-05-07T21:13:08.310845+00:00
-
- ## Engineering Advancement
- - [https://advancement.egr.uh.edu](https://advancement.egr.uh.edu)
- - date_published: 2024-07-02T02:35:57.884980+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://advancement.uh.edu](https://advancement.uh.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## UH ALERT Emergency Notification System - University of Houston
- - [https://alerts.uh.edu](https://alerts.uh.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Home | AMI
- - [https://ami.uh.edu](https://ami.uh.edu)
- - date_published: 2024-07-02T02:36:52.855723+00:00
-
- ## Library Apps
- - [https://apps.lib.uh.edu](https://apps.lib.uh.edu)
- - date_published: 2024-01-19T14:40:34+00:00
-
- ## Latest News
- - [https://bauerstories.uh.edu](https://bauerstories.uh.edu)
- - date_published: 2024-06-24T14:37:50+00:00
-
- ## Calendar
- - [https://calendar.uh.edu](https://calendar.uh.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Rockwell Career Center | Bauer College of Business at the University of Houston
- - [https://careercenter.bauer.uh.edu](https://careercenter.bauer.uh.edu)
- - date_published: 2024-07-02T02:34:34.868107+00:00
-
- ## Home | Engineering Career Center
- - [https://career.egr.uh.edu](https://career.egr.uh.edu)
- - date_published: 2024-07-02T02:35:59.642199+00:00
-
- ## Class Notes
- - [https://classnotes.uh.edu](https://classnotes.uh.edu)
- - date_published: 2024-07-02T02:33:28.184621+00:00
-
- ## University of Houston Cullen College of Engineering — Technology Division
- - [https://dot.egr.uh.edu](https://dot.egr.uh.edu)
- - date_published: 2024-07-02T02:36:24.209472+00:00
-
- ## Welcome | Engineering Computing Center
- - [https://ecc.egr.uh.edu](https://ecc.egr.uh.edu)
- - date_published: 2024-07-02T02:36:06.665119+00:00
-
- ## The Engines of Our Ingenuity
- - [https://engines.egr.uh.edu](https://engines.egr.uh.edu)
- - date_published: 2024-03-08T09:51:49.224941+00:00
- - tags: ['personal']
-
- ## Home - UH Health - Eye Care
- - [https://eyecare.opt.uh.edu](https://eyecare.opt.uh.edu)
- - date_published: 2021-09-02T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [http://ezproxy.lib.uh.edu](http://ezproxy.lib.uh.edu)
- - date_published: 2024-06-30T01:25:21.572572+00:00
-
- ## University of Houston Cullen College of Engineering First Year Experience
- - [https://firstyearexperience.egr.uh.edu](https://firstyearexperience.egr.uh.edu)
- - date_published: 2024-07-02T02:36:27.163677+00:00
-
- ## Gethelp
- - [https://gethelp.uh.edu](https://gethelp.uh.edu)
- - date_published: 2024-01-16T13:21:58+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://giveto.uh.edu](https://giveto.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Houston Advancement and Alumni
- - [https://giving.uh.edu](https://giving.uh.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## ICON - Research UH
- - [https://icon.research.uh.edu](https://icon.research.uh.edu)
- - date_published: 2021-11-03T15:11:24+00:00
 

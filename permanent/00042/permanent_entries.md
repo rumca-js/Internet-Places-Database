@@ -1,3 +1,67 @@
+ ## Polar Elephant
+ - [https://polarelephant.blogspot.com](https://polarelephant.blogspot.com)
+ - date_published: 2024-03-05T22:50:01+00:00
+
+ ## The Paralyzing Paradoxes of Professor Polaro
+ - [http://polaro.blogspot.com](http://polaro.blogspot.com)
+ - date_published: 2024-03-06T06:35:14+00:00
+
+ ## The Society of Torch, Pole and Rope
+ - [http://poleandrope.blogspot.com](http://poleandrope.blogspot.com)
+ - date_published: 2024-07-11T18:27:08+00:00
+
+ ## Polish-Jazz
+ - [http://polish-jazz.blogspot.com](http://polish-jazz.blogspot.com)
+ - date_published: 2024-06-29T07:45:28+00:00
+
+ ## Right Wing Humor and News
+ - [http://politelypatrician.blogspot.com](http://politelypatrician.blogspot.com)
+ - date_published: 2024-03-13T17:26:41+00:00
+
+ ## Conservative Beach Girl
+ - [http://politicalbeachgirl.blogspot.com](http://politicalbeachgirl.blogspot.com)
+ - date_published: 2024-04-04T15:03:20+00:00
+
+ ## Political Bias on Wikipedia
+ - [https://politicalbiasonwikipedia.blogspot.com](https://politicalbiasonwikipedia.blogspot.com)
+ - date_published: 2024-02-08T15:28:39+00:00
+
+ ## Political Calculations
+ - [http://politicalcalculations.blogspot.com](http://politicalcalculations.blogspot.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Political Clown Parade
+ - [https://politicalclownparade.blogspot.com](https://politicalclownparade.blogspot.com)
+ - date_published: 2024-02-19T02:43:37+00:00
+
+ ## Political Horizons
+ - [http://politicalhorizons.blogspot.com](http://politicalhorizons.blogspot.com)
+ - date_published: 2024-03-13T05:00:06+00:00
+
+ ## Political Incorrectness
+ - [http://politicalincorrectnessrunamuck.blogspot.com](http://politicalincorrectnessrunamuck.blogspot.com)
+ - date_published: 2024-05-24T07:21:17+00:00
+
+ ## Political Pistachio
+ - [https://politicalpistachio.blogspot.com](https://politicalpistachio.blogspot.com)
+ - date_published: 2024-06-27T07:12:00+00:00
+
+ ## Political inSecurity
+ - [http://politicalsecurity.blogspot.com](http://politicalsecurity.blogspot.com)
+ - date_published: 2024-02-08T04:15:54+00:00
+
+ ## Penis enlargement Program
+ - [http://politicsandlawschool.blogspot.com](http://politicsandlawschool.blogspot.com)
+ - date_published: 2024-03-13T13:19:10+00:00
+
+ ## Politics and Pigskins
+ - [http://politicsandpigskins.blogspot.com](http://politicsandpigskins.blogspot.com)
+ - date_published: 2010-03-26T12:09:00+00:00
+
+ ## Blogger
+ - [http://politicsandplace.blogspot.com](http://politicsandplace.blogspot.com)
+ - date_published: 2024-06-28T14:20:38.886349+00:00
+
  ## Polliwog's poliblog
  - [http://polliwogspoliblog.blogspot.com](http://polliwogspoliblog.blogspot.com)
  - date_published: 2024-03-14T06:58:59+00:00
@@ -3958,68 +4022,4 @@
  ## Tales of Mirth
  - [https://talesofmirth.blogspot.com](https://talesofmirth.blogspot.com)
  - date_published: 2024-07-14T21:01:49+00:00
-
- ## tales of an ordinary girl
- - [http://talesofordinarygirl.blogspot.com](http://talesofordinarygirl.blogspot.com)
- - date_published: 2024-03-07T04:39:07+00:00
-
- ## Tales of the Grotesque and Dungeonesque
- - [http://talesofthegrotesqueanddungeonesque.blogspot.com](http://talesofthegrotesqueanddungeonesque.blogspot.com)
- - date_published: 2024-07-15T02:25:39+00:00
-
- ## Talking Alaska
- - [http://talkingalaska.blogspot.com](http://talkingalaska.blogspot.com)
- - date_published: 2024-05-21T18:08:15+00:00
-
- ## Talking Brains
- - [https://talkingbrains.blogspot.com](https://talkingbrains.blogspot.com)
- - date_published: 2024-05-07T21:57:31.892235+00:00
-
- ## talkingdream
- - [http://talkingdream.blogspot.com](http://talkingdream.blogspot.com)
- - date_published: 2024-03-23T17:46:59+00:00
-
- ## Talkov Law
- - [https://talkovlaw.blogspot.com](https://talkovlaw.blogspot.com)
- - date_published: 2023-11-15T18:16:42+00:00
-
- ## TalkToYoUniverse
- - [https://talktoyouniverse.blogspot.com](https://talktoyouniverse.blogspot.com)
- - date_published: 2024-05-08T06:36:19.071903+00:00
-
- ## Talk Wisdom
- - [http://talkwisdom.blogspot.com](http://talkwisdom.blogspot.com)
- - date_published: 2024-04-25T11:06:41+00:00
-
- ## No-one doesn't say it
- - [http://tampaui.blogspot.com](http://tampaui.blogspot.com)
- - date_published: 2024-03-08T09:55:38+00:00
-
- ## Tanner and Lora's Blog
- - [http://tanandlora.blogspot.com](http://tanandlora.blogspot.com)
- - date_published: 2024-03-19T23:17:43+00:00
-
- ## The Tangreen Family
- - [http://tangreenfamily.blogspot.com](http://tangreenfamily.blogspot.com)
- - date_published: 2024-07-04T06:11:28+00:00
-
- ## The Typography
- - [http://tankan-upkaran.blogspot.com](http://tankan-upkaran.blogspot.com)
- - date_published: 2024-03-13T23:35:20+00:00
-
- ## Tankards & Broadswords
- - [http://tankardsandbroadswords.blogspot.com](http://tankardsandbroadswords.blogspot.com)
- - date_published: 2024-03-22T04:47:53+00:00
-
- ## Couture et Tricot
- - [https://tanysewsandknits.blogspot.com](https://tanysewsandknits.blogspot.com)
- - date_published: 2023-02-12T00:00:00+00:00
-
- ## Tapestry Central
- - [http://tapestryjava.blogspot.com](http://tapestryjava.blogspot.com)
- - date_published: 2024-05-28T18:18:40+00:00
-
- ## Blogger
- - [http://tarqis.blogspot.com](http://tarqis.blogspot.com)
- - date_published: 2024-07-15T09:30:53.076343+00:00
 

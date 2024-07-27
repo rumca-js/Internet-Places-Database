@@ -1,3 +1,87 @@
+ ## David Krueger
+ - [https://www.davidscottkrueger.com](https://www.davidscottkrueger.com)
+ - date_published: 2024-06-21T19:04:22+00:00
+
+ ## DSri Seah – Investigative Designer
+ - [https://davidseah.com](https://davidseah.com)
+ - date_published: 2023-10-25T13:45:51.877615+00:00
+
+ ## Tech Insights and Tips by an Amazon Senior Software Engineer
+ - [https://www.davidseek.com](https://www.davidseek.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## The Audacity of Despair
+ - [https://davidsimon.com](https://davidsimon.com)
+ - date_published: 2024-01-22T18:54:05.441303+00:00
+
+ ## David's Log
+ - [https://www.davidslog.com](https://www.davidslog.com)
+ - date_published: 2024-06-15T18:28:09.385676+00:00
+
+ ## Home - David Stockman's Contra Corner
+ - [https://www.davidstockmanscontracorner.com](https://www.davidstockmanscontracorner.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## David Terei
+ - [http://blog.davidterei.com](http://blog.davidterei.com)
+ - date_published: 2024-02-08T15:09:46+00:00
+
+ ## David Clark Develops the Web
+ - [https://davidtheclark.com](https://davidtheclark.com)
+ - date_published: 2016-07-10T00:00:00+00:00
+
+ ## David Thunder's Website | Free-spirited scholar and journalist
+ - [http://www.davidthunder.com](http://www.davidthunder.com)
+ - date_published: 2024-07-13T11:11:34.635624+00:00
+
+ ## Dev Notes – David Truxall
+ - [https://davidtruxall.com](https://davidtruxall.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## David van Dartel
+ - [https://davidvandartel.com](https://davidvandartel.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## davidviner.com: Home
+ - [https://www.davidviner.com](https://www.davidviner.com)
+ - date_published: 2024-06-20T08:15:38.377255+00:00
+
+ ## David's Technobabble Blog - A blog about everything tech (and not)...
+ - [https://davidvonthenen.com](https://davidvonthenen.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## David Wake – Author
+ - [http://www.davidwake.com](http://www.davidwake.com)
+ - date_published: 2024-07-04T14:03:02.425949+00:00
+
+ ## David Walbert
+ - [https://social.davidwalbert.com](https://social.davidwalbert.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Essays in Idleness
+ - [http://www.davidwarrenonline.com](http://www.davidwarrenonline.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home
+ - [http://davidwhitehouse.com](http://davidwhitehouse.com)
+ - date_published: 2024-06-15T04:16:51.072328+00:00
+
+ ## David Whyte
+ - [https://davidwhyte.com](https://davidwhyte.com)
+ - date_published: 2024-05-08T03:04:07.590172+00:00
+
+ ## David Windham
+ - [https://davidwindham.com](https://davidwindham.com)
+ - date_published: 2024-01-09T15:48:22+00:00
+
+ ## David Wipf
+ - [http://www.davidwipf.com](http://www.davidwipf.com)
+ - date_published: 2024-06-22T09:46:38.959658+00:00
+
+ ## david wolfpaw – digital citizen
+ - [https://davidwolfpaw.com](https://davidwolfpaw.com)
+ - date_published: 2024-01-08T07:26:59.799541+00:00
+
  ## David W Parker | Developer
  - [https://davidwparker.com](https://davidwparker.com)
  - date_published: 2024-07-23T23:40:30.878491+00:00
@@ -3982,89 +4066,4 @@
  ## www.derkreuzzug.com - the fists of doom
  - [https://www.derkreuzzug.com](https://www.derkreuzzug.com)
  - date_published: 1901-12-31T00:00:00+00:00
-
- ## Disk Inventory X
- - [https://www.derlien.com](https://www.derlien.com)
- - date_published: 2022-11-30T20:39:40+00:00
-
- ## Home
- - [https://dermatologyadvisor.com](https://dermatologyadvisor.com)
- - date_published: 2024-05-17T02:44:16.047628+00:00
-
- ## One - Dermatology Times
- - [https://one.dermatologytimes.com](https://one.dermatologytimes.com)
- - date_published: 2024-05-09T05:39:49.522486+00:00
-
- ## Dermatology Times and Multimedia Medical, LLC
- - [https://dermatologytimes.com](https://dermatologytimes.com)
- - date_published: 2024-03-06T21:11:40.002363+00:00
-
- ## To All My Friends
- - [http://allmyfriends.dermotkennedy.com](http://allmyfriends.dermotkennedy.com)
- - date_published: 2020-05-30T00:00:00+00:00
-
- ## Dermot Kennedy
- - [https://store.dermotkennedy.com](https://store.dermotkennedy.com)
- - date_published: 2024-06-30T12:34:22.042636+00:00
-
- ## Dermsquared - The leading platform for dermatology professionals
- - [https://dermsquared.com](https://dermsquared.com)
- - date_published: 2024-07-09T16:31:19.076632+00:00
-
- ## Daniel P. Dern, Freelance Writer | Tech Journalist, Custom/Sponsored, PR/"ghostwriting" — plus science fiction, humor & more!
- - [https://dern.com](https://dern.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Caerus | TeachBoost Operations
- - [http://jason.deroner.com](http://jason.deroner.com)
- - date_published: 2024-07-14T13:03:15.750287+00:00
-
- ## Derrick Reimer — Contemplations of an indie SaaS founder
- - [https://derrickreimer.com](https://derrickreimer.com)
- - date_published: 2024-05-06T13:42:47.166532+00:00
- - tags: ['personal']
-
- ## Info Situs Online Resmi Terpercaya dan Gacor Hari Ini
- - [http://der-ringer.com](http://der-ringer.com)
- - date_published: 2024-07-08T06:39:06+00:00
-
- ## Derringer Wallet Pen
- - [https://derringerpen.com](https://derringerpen.com)
- - date_published: 2020-03-01T10:09:36+00:00
-
- ## derwentmills.co.uk
- - [https://derwentmills.com](https://derwentmills.com)
- - date_published: 2023-06-07T00:00:00+00:00
-
- ## Desa Kembang Kerang Kecamatan Aikmel Kabupaten Lombok Timur
- - [https://desakembangkerang.com](https://desakembangkerang.com)
- - date_published: 2024-06-12T01:48:15.964790+00:00
-
- ## David DeSandro
- - [https://desandro.com](https://desandro.com)
- - date_published: 2024-06-17T19:09:07.319192+00:00
-
- ## imagesLoaded
- - [https://imagesloaded.desandro.com](https://imagesloaded.desandro.com)
- - date_published: 2024-05-08T09:06:51.326866+00:00
-
- ## Masonry
- - [https://masonry.desandro.com](https://masonry.desandro.com)
- - date_published: 2024-05-02T11:09:02.235070+00:00
-
- ## Liga Italia ⚽️ Daftar Judi Bola Liga Italia Prediksi Akurat Terpercaya
- - [https://desawisatapandean.com](https://desawisatapandean.com)
- - date_published: 2024-07-07T02:28:18.828368+00:00
-
- ## Desa Wisata Samiran: Seputar Informasi Tentang Luasnya Dunia Pendidikan
- - [https://www.desawisatasamiran.com](https://www.desawisatasamiran.com)
- - date_published: 2024-07-07T02:38:47.640423+00:00
-
- ## Informasi Universitas dan Beasiswa di Indonesia Terbaru 2023
- - [https://www.desawisatasigapiton.com](https://www.desawisatasigapiton.com)
- - date_published: 2024-07-07T02:41:47.257604+00:00
-
- ## Descartes Labs | Advanced Science. Innovative Solutions.
- - [https://www.descarteslabs.com](https://www.descarteslabs.com)
- - date_published: 2024-07-14T23:40:38+00:00
 

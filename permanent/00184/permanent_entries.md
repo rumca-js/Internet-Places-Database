@@ -1,3 +1,383 @@
+ ## Blackboard Learn
+ - [https://blackboard.louisville.edu](https://blackboard.louisville.edu)
+ - date_published: 2004-06-27T12:00:49+00:00
+
+ ## University of Louisville – College of Business
+ - [https://business.louisville.edu](https://business.louisville.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## University of Louisville
+ - [https://businessops.louisville.edu](https://businessops.louisville.edu)
+ - date_published: 2024-05-02T14:48:53+00:00
+
+ ## Academic Catalogs < University of Louisville
+ - [https://catalog.louisville.edu](https://catalog.louisville.edu)
+ - date_published: 2024-06-24T13:12:18+00:00
+
+ ## ULink Sign-in
+ - [https://csprd.louisville.edu](https://csprd.louisville.edu)
+ - date_published: 2024-06-27T12:00:42.690096+00:00
+
+ ## Events Calendar - University of Louisville
+ - [https://events.louisville.edu](https://events.louisville.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Oracle PeopleSoft Sign-in
+ - [https://fip.louisville.edu](https://fip.louisville.edu)
+ - date_published: 2024-06-27T12:00:37.460152+00:00
+
+ ## Home — Graduate School
+ - [https://graduate.louisville.edu](https://graduate.louisville.edu)
+ - date_published: 2024-06-27T12:01:49.916448+00:00
+
+ ## University of Louisville | Here and Beyond – The University of Louisville is a public university in Louisville, Kentucky. It is a member of the Kentucky state university system.
+ - [https://hereandbeyond.louisville.edu](https://hereandbeyond.louisville.edu)
+ - date_published: 2024-06-27T12:00:27.377300+00:00
+
+ ## Identity Self-Service Login
+ - [https://identity.louisville.edu](https://identity.louisville.edu)
+ - date_published: 2024-06-27T12:01:55.879184+00:00
+
+ ## Sign in to your account
+ - [https://iris.louisville.edu](https://iris.louisville.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## ThinkIR: The University of Louisville's Institutional Repository
+ - [https://ir.library.louisville.edu](https://ir.library.louisville.edu)
+ - date_published: 2024-05-19T02:41:08.119153+00:00
+
+ ## UofL Libraries: University of Louisville Libraries: Home
+ - [https://library.louisville.edu](https://library.louisville.edu)
+ - date_published: 2024-06-22T07:13:49.040806+00:00
+
+ ## University of Louisville
+ - [https://louisville.edu](https://louisville.edu)
+ - date_published: 2024-05-02T14:48:53+00:00
+
+ ## Sign in to your account
+ - [https://otms.louisville.edu](https://otms.louisville.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Search UofL
+ - [https://search.louisville.edu](https://search.louisville.edu)
+ - date_published: 2024-01-25T00:58:45+00:00
+
+ ## ULink Portal
+ - [https://ulink.louisville.edu](https://ulink.louisville.edu)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## University of Louisville
+ - [http://www.louisville.edu](http://www.louisville.edu)
+ - date_published: 2024-05-02T14:48:53+00:00
+
+ ## College of Law | Loyola University New Orleans
+ - [http://law.loyno.edu](http://law.loyno.edu)
+ - date_published: 2024-06-17T10:26:49+00:00
+
+ ## Home | Lenoir-Rhyne University
+ - [https://lr.edu](https://lr.edu)
+ - date_published: 2024-04-28T03:37:48.331975+00:00
+
+ ## Homepage | Lake Region State College
+ - [https://www.lrsc.edu](https://www.lrsc.edu)
+ - date_published: 2024-07-01T15:48:42+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.lsu.edu](https://admissions.lsu.edu)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Online Tech Bootcamps | Louisiana State University
+ - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## LSU E. J. Ourso College of Business
+ - [https://business.lsu.edu](https://business.lsu.edu)
+ - date_published: 2024-07-01T14:41:13.321824+00:00
+
+ ## Events Calendar - Louisiana State University
+ - [https://calendar.lsu.edu](https://calendar.lsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Louisiana State University - Acalog ACMS™
+ - [https://catalog.lsu.edu](https://catalog.lsu.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## COLLEGE OF ART & DESIGN
+ - [https://design.lsu.edu](https://design.lsu.edu)
+ - date_published: 2024-07-01T14:40:51.559571+00:00
+
+ ## LSU Giving Day
+ - [https://givingday.lsu.edu](https://givingday.lsu.edu)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## GROK Knowledge Base
+ - [http://grok.lsu.edu](http://grok.lsu.edu)
+ - date_published: 2024-07-01T14:42:10.174092+00:00
+
+ ## Home
+ - [https://itservice.lsu.edu](https://itservice.lsu.edu)
+ - date_published: 2024-05-07T19:30:45.434428+00:00
+
+ ## Welcome to LSU, a top research university | Baton Rouge, La.
+ - [https://lsu.edu](https://lsu.edu)
+ - date_published: 2024-05-07T19:30:48.158325+00:00
+
+ ## Louisiana State University LSU
+ - [https://map.lsu.edu](https://map.lsu.edu)
+ - date_published: 2024-07-01T14:40:42.568388+00:00
+
+ ## myLSU - Single Sign On
+ - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
+ - date_published: 2024-05-07T19:30:59.182311+00:00
+
+ ## LSU Online
+ - [https://online.lsu.edu](https://online.lsu.edu)
+ - date_published: 2024-07-01T14:40:26.617404+00:00
+
+ ## Pre-College Programs
+ - [https://precollege.lsu.edu](https://precollege.lsu.edu)
+ - date_published: 2024-07-01T14:40:32.271999+00:00
+
+ ## LSU Scholarly Repository | Louisiana State University Research
+ - [https://repository.lsu.edu](https://repository.lsu.edu)
+ - date_published: 2024-06-30T02:30:53.509351+00:00
+
+ ## Home | SciViz
+ - [http://sciviz.cct.lsu.edu](http://sciviz.cct.lsu.edu)
+ - date_published: 2013-04-09T20:36:37+00:00
+
+ ## Louisiana State University
+ - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
+ - date_published: 2024-05-07T19:30:53.429998+00:00
+
+ ## LSU TigerWare Online
+ - [http://tigerware.lsu.edu](http://tigerware.lsu.edu)
+ - date_published: 2024-07-07T05:34:22.150397+00:00
+
+ ## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
+ - [https://cct.lsu.edu](https://cct.lsu.edu)
+ - date_published: 2024-05-08T09:32:45.803687+00:00
+
+ ## Electrical & Computer Engineering, Division of
+ - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
+ - date_published: 2023-10-25T11:24:20.932943+00:00
+
+ ## High Performance Computing | Louisiana State University
+ - [http://www.hpc.lsu.edu](http://www.hpc.lsu.edu)
+ - date_published: 2024-07-07T05:34:20.231485+00:00
+
+ ## LSU Law
+ - [http://www.law.lsu.edu](http://www.law.lsu.edu)
+ - date_published: 2024-06-17T11:15:28+00:00
+
+ ## Welcome to LSU Libraries | LSU Libraries
+ - [https://www.lib.lsu.edu](https://www.lib.lsu.edu)
+ - date_published: 2024-07-01T14:40:47.428824+00:00
+
+ ## LSU Math team awarded NSF Research Training Grant | LSU Math
+ - [https://www.math.lsu.edu](https://www.math.lsu.edu)
+ - date_published: 2024-07-02T09:18:32+00:00
+
+ ## Home | LSU Online and Continuing Education
+ - [https://www.outreach.lsu.edu](https://www.outreach.lsu.edu)
+ - date_published: 2024-07-01T14:41:09.158405+00:00
+
+ ## LSU Office of Research & Economic Development
+ - [http://www.research.lsu.edu](http://www.research.lsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - LTER
+ - [https://lternet.edu](https://lternet.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Italo Alves
+ - [https://ialves.sites.luc.edu](https://ialves.sites.luc.edu)
+ - date_published: 2023-03-17T00:00:00+00:00
+
+ ## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
+ - date_published: 2020-08-19T20:57:55+00:00
+
+ ## Loyola University
+ - [http://www.luc.edu](http://www.luc.edu)
+ - date_published: 2024-05-24T22:29:23.201109+00:00
+
+ ## LUMCON Website – The Louisiana Universities Marine Consortium
+ - [http://www.lumcon.edu](http://www.lumcon.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Macalester College
+ - [https://www.macalester.edu](https://www.macalester.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## The University of Maine at Machias — UMaine's Coastal Campus
+ - [https://machias.edu](https://machias.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## UMS User Account Management
+ - [https://accounts.maine.edu](https://accounts.maine.edu)
+ - date_published: 2024-05-07T21:27:43.700017+00:00
+
+ ## UMS Careers
+ - [http://careers.maine.edu](http://careers.maine.edu)
+ - date_published: 2024-07-02T03:48:22.142583+00:00
+
+ ## UMS Single Sign-On - Loading Session Information
+ - [https://courses.maine.edu](https://courses.maine.edu)
+ - date_published: 2024-05-07T21:27:34.315112+00:00
+
+ ## UMS Single Sign-On - Loading Session Information
+ - [http://gmail.maine.edu](http://gmail.maine.edu)
+ - date_published: 2024-05-07T21:27:30.655514+00:00
+
+ ## University of Maine School of Law
+ - [https://mainelaw.maine.edu](https://mainelaw.maine.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## MaineStreet Links
+ - [https://mainestreet.maine.edu](https://mainestreet.maine.edu)
+ - date_published: 2024-05-07T21:27:41.577698+00:00
+
+ ## Please select your identity provider. - UMS
+ - [https://mycampus.maine.edu](https://mycampus.maine.edu)
+ - date_published: 2024-07-01T02:52:25.122583+00:00
+
+ ## UMS PeopleSearch  - University of Maine System
+ - [http://peoplesearch.maine.edu](http://peoplesearch.maine.edu)
+ - date_published: 2024-07-01T20:33:41+00:00
+
+ ## TeamDynamix Sign-In
+ - [https://tdx.maine.edu](https://tdx.maine.edu)
+ - date_published: 2024-04-17T19:45:22+00:00
+
+ ## University of Southern Maine
+ - [https://usm.maine.edu](https://usm.maine.edu)
+ - date_published: 2024-07-01T21:40:03+00:00
+
+ ## University of Maine System  - University of Maine System
+ - [https://maine.edu](https://maine.edu)
+ - date_published: 2024-05-07T21:27:45.724796+00:00
+
+ ## UMF
+ - [https://www.umf.maine.edu](https://www.umf.maine.edu)
+ - date_published: 2024-07-01T20:10:28+00:00
+
+ ## Malone University - A Christian University in Northeast Ohio
+ - [http://www.malone.edu](http://www.malone.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Your Support Transforms Futures at Mansfield | Change Site Title In Key Manager
+ - [https://give.mansfield.edu](https://give.mansfield.edu)
+ - date_published: 2024-06-03T15:28:59+00:00
+
+ ## Home
+ - [http://www.marietta.edu](http://www.marietta.edu)
+ - date_published: 2024-06-28T13:51:49+00:00
+
+ ## Home of the Marist Poll | Polls, Analysis, Learning, and More
+ - [https://maristpoll.marist.edu](https://maristpoll.marist.edu)
+ - date_published: 2024-06-29T10:52:46.744357+00:00
+
+ ## Homepage | Marquette University Law School
+ - [http://law.marquette.edu](http://law.marquette.edu)
+ - date_published: 2024-06-17T11:12:05.602004+00:00
+
+ ## We Are Marquette
+ - [https://stories.marquette.edu](https://stories.marquette.edu)
+ - date_published: 2024-07-04T05:02:34.235735+00:00
+
+ ## A Marquette education prepares students to Be The Difference.
+ - [http://www.marquette.edu](http://www.marquette.edu)
+ - date_published: 2024-07-22T09:07:52.853722+00:00
+
+ ## Marshall Advanced Manufacturing Center
+ - [https://www.mfg.marshall.edu](https://www.mfg.marshall.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## MPower Maryland
+ - [http://mpower.maryland.edu](http://mpower.maryland.edu)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Home
+ - [https://online.maryville.edu](https://online.maryville.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Home Page
+ - [https://massachusetts.edu](https://massachusetts.edu)
+ - date_published: 2024-05-07T21:25:07.569886+00:00
+
+ ## The Master's University | For Christ & Scripture
+ - [http://masters.edu](http://masters.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## TMU Online Master's and Bachelor's Degrees | Online Degree Programs | The Master's University
+ - [https://online.masters.edu](https://online.masters.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## The Master's University Bookstore
+ - [https://ue.masters.edu](https://ue.masters.edu)
+ - date_published: 2024-06-22T05:51:42.820240+00:00
+
+ ## The Master's University | For Christ & Scripture
+ - [https://www.masters.edu](https://www.masters.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Medical Innovation - Mayo Clinic News Network
+ - [https://advancingthescience.mayo.edu](https://advancingthescience.mayo.edu)
+ - date_published: 2024-07-01T14:47:38.209096+00:00
+
+ ## Mayo Clinic Alumni Association
+ - [https://alumniassociation.mayo.edu](https://alumniassociation.mayo.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Mayo Clinic School of Continuous Professional Development
+ - [https://ce.mayo.edu](https://ce.mayo.edu)
+ - date_published: 2024-06-17T08:47:23+00:00
+
+ ## Home - Mayo Clinic College of Medicine & Science
+ - [https://college.mayo.edu](https://college.mayo.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Medical Research & Education - Mayo Clinic News Network
+ - [https://discoverysedge.mayo.edu](https://discoverysedge.mayo.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## WSO2 Management Console
+ - [https://login.edlink.mayo.edu](https://login.edlink.mayo.edu)
+ - date_published: 2024-06-17T09:03:39.021626+00:00
+
+ ## Mayo Clinic QHS Apps Home Page
+ - [https://rtools.mayo.edu](https://rtools.mayo.edu)
+ - date_published: 2024-02-08T17:32:56.480098+00:00
+
+ ## Education and Research at Mayo Clinic - Education and Research at Mayo Clinic
+ - [https://mayo.edu](https://mayo.edu)
+ - date_published: 2024-05-07T19:31:04.510313+00:00
+
+ ## Mayville State University :: Mayville, ND
+ - [https://mayvillestate.edu](https://mayvillestate.edu)
+ - date_published: 2024-07-01T16:01:01.271377+00:00
+
+ ## Montgomery Blair High School
+ - [http://www.mbhs.edu](http://www.mbhs.edu)
+ - date_published: 2024-07-04T14:34:28.953981+00:00
+
+ ## Home | Marine Biological Laboratory
+ - [https://www.mbl.edu](https://www.mbl.edu)
+ - date_published: 2024-06-29T20:53:36+00:00
+
+ ## Home
+ - [http://law.mc.edu](http://law.mc.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## MCAD | Minneapolis College of Art and Design
+ - [https://mcad.edu](https://mcad.edu)
+ - date_published: 2024-07-09T15:38:12+00:00
+
+ ## Metropolitan Community College, Kansas City
+ - [http://www.mcckc.edu](http://www.mcckc.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## Hoover Library: Hoover Library - homepage: Home
  - [https://lib.hoover.mcdaniel.edu](https://lib.hoover.mcdaniel.edu)
  - date_published: 2024-07-04T13:15:43.118209+00:00
@@ -3624,384 +4004,4 @@
  ## - Crimson Connection
  - [https://crimsonconnection.nmsu.edu](https://crimsonconnection.nmsu.edu)
  - date_published: 2024-07-01T16:11:08.728858+00:00
-
- ## Doña Ana Community College
- - [https://dacc.nmsu.edu](https://dacc.nmsu.edu)
- - date_published: 2024-07-01T16:12:12.160036+00:00
-
- ## Desert Blooms Home
- - [https://desertblooms.nmsu.edu](https://desertblooms.nmsu.edu)
- - date_published: 2024-05-07T19:47:25.100209+00:00
-
- ## #discoverNMSUextension Home
- - [https://discovernmsuextension.nmsu.edu](https://discovernmsuextension.nmsu.edu)
- - date_published: 2024-05-07T19:47:12.933939+00:00
-
- ## Extension Association of New Mexico Home
- - [http://eanm.nmsu.edu](http://eanm.nmsu.edu)
- - date_published: 2024-07-01T16:16:02.729541+00:00
-
- ## EASNR Home
- - [https://easnr.nmsu.edu](https://easnr.nmsu.edu)
- - date_published: 2024-07-01T16:12:20.002186+00:00
-
- ## EFCS Home
- - [https://efcs.nmsu.edu](https://efcs.nmsu.edu)
- - date_published: 2024-07-01T16:11:31.166426+00:00
-
- ## Impact and Engagement - BE BOLD. Shape the Future.
- - [https://engagement.nmsu.edu](https://engagement.nmsu.edu)
- - date_published: 2024-07-01T16:14:56.426930+00:00
-
- ## EPS Home
- - [https://eps.nmsu.edu](https://eps.nmsu.edu)
- - date_published: 2024-07-01T16:12:30.611315+00:00
-
- ## Office of Institutional Equity | New Mexico State University
- - [https://equity.nmsu.edu](https://equity.nmsu.edu)
- - date_published: 2024-07-01T16:14:31.551987+00:00
-
- ## NMSU Emergency Notification Information
- - [https://etm.nmsu.edu](https://etm.nmsu.edu)
- - date_published: 2024-07-01T16:16:33.172012+00:00
-
- ## CES Home
- - [https://extension.nmsu.edu](https://extension.nmsu.edu)
- - date_published: 2024-05-07T19:47:08.939342+00:00
-
- ## Home
- - [https://facultysenate.nmsu.edu](https://facultysenate.nmsu.edu)
- - date_published: 2024-07-01T16:13:56.840395+00:00
-
- ## Welcome
- - [https://families.nmsu.edu](https://families.nmsu.edu)
- - date_published: 2024-07-01T16:11:29.699981+00:00
-
- ## Family Life Home
- - [https://family.nmsu.edu](https://family.nmsu.edu)
- - date_published: 2024-05-07T19:46:58.605702+00:00
-
- ## FA Home
- - [https://fa.nmsu.edu](https://fa.nmsu.edu)
- - date_published: 2024-07-01T16:14:52.785837+00:00
-
- ## NMSU Global Campus | Explore New Mexico State Online Degrees
- - [https://global.nmsu.edu](https://global.nmsu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 2022 GO Bond 3 - BE BOLD. Shape the Future.
- - [https://gobond.nmsu.edu](https://gobond.nmsu.edu)
- - date_published: 2024-07-01T16:12:37.331756+00:00
-
- ## New Mexico State University | Graduate School
- - [https://gradschool.nmsu.edu](https://gradschool.nmsu.edu)
- - date_published: 2024-07-01T16:14:28.550555+00:00
-
- ## NMSU Grants  | New Mexico State University | BE BOLD. Shape the Future.
- - [https://grants.nmsu.edu](https://grants.nmsu.edu)
- - date_published: 2024-07-01T16:12:05.850886+00:00
-
- ## Guadalupe County Extension Office Home
- - [https://guadalupeextension.nmsu.edu](https://guadalupeextension.nmsu.edu)
- - date_published: 2024-07-01T16:25:54.262483+00:00
-
- ## Home
- - [https://help.nmsu.edu](https://help.nmsu.edu)
- - date_published: 2024-07-01T16:13:46.065851+00:00
-
- ## Welcome to Hobbes
- - [https://hobbes.nmsu.edu](https://hobbes.nmsu.edu)
- - date_published: 2024-01-09T21:08:23.894605+00:00
-
- ## Honors College | NMSU
- - [https://honors.nmsu.edu](https://honors.nmsu.edu)
- - date_published: 2024-07-01T16:14:44.452877+00:00
-
- ## Home
- - [https://housing.nmsu.edu](https://housing.nmsu.edu)
- - date_published: 2024-07-01T16:14:45.856746+00:00
-
- ## Human Resource Services | New Mexico State University | BE BOLD. Shape the Future.
- - [https://hr.nmsu.edu](https://hr.nmsu.edu)
- - date_published: 2024-07-01T16:13:20.254040+00:00
-
- ## Information Technology | New Mexico State University | BE BOLD. Shape the Future.
- - [https://ict.nmsu.edu](https://ict.nmsu.edu)
- - date_published: 2024-07-01T16:13:29.208210+00:00
-
- ## illiad.nmsu.edu
- - [https://illiad.nmsu.edu](https://illiad.nmsu.edu)
- - date_published: 2022-11-27T03:59:33+00:00
-
- ## Innovative Media Research & Extension | New Mexico State University | BE BOLD. Shape the Future.
- - [https://innovativemedia.nmsu.edu](https://innovativemedia.nmsu.edu)
- - date_published: 2024-07-01T16:12:25.424886+00:00
-
- ## Sign in to your account
- - [https://inside.nmsu.edu](https://inside.nmsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## IR-4 Home
- - [https://ir4.nmsu.edu](https://ir4.nmsu.edu)
- - date_published: 2024-07-01T16:12:23.480265+00:00
-
- ## IRD Home
- - [https://ird.nmsu.edu](https://ird.nmsu.edu)
- - date_published: 2024-07-01T16:23:58.439801+00:00
-
- ## Search Page
- - [https://jobs.nmsu.edu](https://jobs.nmsu.edu)
- - date_published: 2024-07-01T16:14:05.022562+00:00
-
- ## Home
- - [https://kb.nmsu.edu](https://kb.nmsu.edu)
- - date_published: 2024-07-01T16:13:27.425676+00:00
-
- ## New Mexico State University | BE BOLD. Shape the Future.
- - [https://kind-p.nmsu.edu](https://kind-p.nmsu.edu)
- - date_published: 2024-07-01T16:12:52.726595+00:00
-
- ## Home
- - [https://langling.nmsu.edu](https://langling.nmsu.edu)
- - date_published: 2024-07-01T16:12:29.057468+00:00
-
- ## LEADS 2025 Strategic Planning
- - [https://leads2025.nmsu.edu](https://leads2025.nmsu.edu)
- - date_published: 2024-05-07T19:47:47.251655+00:00
-
- ## Academic Technology
- - [https://learning.nmsu.edu](https://learning.nmsu.edu)
- - date_published: 2024-07-01T16:13:11.052450+00:00
-
- ## Learn | New Mexico State University
- - [https://learn.nmsu.edu](https://learn.nmsu.edu)
- - date_published: 2024-05-07T19:47:18.341354+00:00
-
- ## University General Counsel (UGC) | New Mexico State University | BE BOLD. Shape the Future.
- - [https://legal.nmsu.edu](https://legal.nmsu.edu)
- - date_published: 2024-07-01T16:14:59.482219+00:00
-
- ## Library Exhibits | New Mexico State University
- - [https://libexhibits.nmsu.edu](https://libexhibits.nmsu.edu)
- - date_published: 2024-07-01T16:17:41.565623+00:00
-
- ## Library | NMSU
- - [https://lib.nmsu.edu](https://lib.nmsu.edu)
- - date_published: 2024-05-07T19:47:42.772572+00:00
-
- ## Library | NMSU | New Mexico State University | BE BOLD. Shape the Future.
- - [https://library.nmsu.edu](https://library.nmsu.edu)
- - date_published: 2024-07-01T16:14:00.427966+00:00
-
- ## Los Lunas Center
- - [https://loslunassc.nmsu.edu](https://loslunassc.nmsu.edu)
- - date_published: 2024-07-01T16:15:09.911339+00:00
-
- ## Low Water Home
- - [https://lowwaterplants.nmsu.edu](https://lowwaterplants.nmsu.edu)
- - date_published: 2024-07-01T16:15:11.571955+00:00
-
- ## Sign in to Outlook
- - [https://mail.nmsu.edu](https://mail.nmsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## New Mexico State University
- - [https://map.nmsu.edu](https://map.nmsu.edu)
- - date_published: 2024-05-07T19:47:57.434600+00:00
-
- ## Melon Patch Home
- - [https://melonpatch.nmsu.edu](https://melonpatch.nmsu.edu)
- - date_published: 2024-07-01T16:15:20.461738+00:00
-
- ## NMSU: Accounts
- - [https://myaccount.nmsu.edu](https://myaccount.nmsu.edu)
- - date_published: 2024-05-07T19:47:30.973237+00:00
-
- ## my.nmsu.edu
- - [https://my.nmsu.edu](https://my.nmsu.edu)
- - date_published: 2024-05-07T19:47:16.602907+00:00
-
- ## News and Media Relations | New Mexico State University - BE BOLD. Shape the Future.
- - [https://news.nmsu.edu](https://news.nmsu.edu)
- - date_published: 2024-07-01T16:14:58.181392+00:00
-
- ## New Mexico State University | News and Content for Media
- - [https://newsroom.nmsu.edu](https://newsroom.nmsu.edu)
- - date_published: 2024-07-01T16:11:26.366488+00:00
-
- ## 4-H Home
- - [https://nm4h.nmsu.edu](https://nm4h.nmsu.edu)
- - date_published: 2024-05-07T19:46:56.710859+00:00
-
- ## Association of County Agricultural Agents Home
- - [http://nmacaa.nmsu.edu](http://nmacaa.nmsu.edu)
- - date_published: 2024-07-01T16:16:06.442633+00:00
-
- ## New Mexico Alliance for Minority Participation | New Mexico State University | BE BOLD. Shape the Future.
- - [https://nmamp.nmsu.edu](https://nmamp.nmsu.edu)
- - date_published: 2024-07-02T05:08:16.414528+00:00
-
- ## NM Beef Home
- - [https://nmbeef.nmsu.edu](https://nmbeef.nmsu.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## New Mexico Department of Agriculture
- - [https://nmdeptag.nmsu.edu](https://nmdeptag.nmsu.edu)
- - date_published: 2024-07-01T16:16:46.225290+00:00
-
- ## Specialist Association Home
- - [http://nmesa.nmsu.edu](http://nmesa.nmsu.edu)
- - date_published: 2024-07-01T16:16:07.954618+00:00
-
- ## NMFRRC Home
- - [https://nmfrrc.nmsu.edu](https://nmfrrc.nmsu.edu)
- - date_published: 2024-07-01T16:12:18.567478+00:00
-
- ## New Mexico State University | BE BOLD. Shape the Future.
- - [https://nmsu.edu](https://nmsu.edu)
- - date_published: 2024-05-07T19:47:23.389773+00:00
-
- ## Home
- - [https://oel.nmsu.edu](https://oel.nmsu.edu)
- - date_published: 2024-07-01T16:13:15.538918+00:00
-
- ## Aggie One Stop
- - [https://onestop.nmsu.edu](https://onestop.nmsu.edu)
- - date_published: 2024-05-07T19:47:53.681436+00:00
-
- ## NMSU: Phonebook: Person Lookup
- - [https://phonebook.nmsu.edu](https://phonebook.nmsu.edu)
- - date_published: 2024-07-01T16:13:40.816506+00:00
-
- ## Plant Diagnostic Clinic Home
- - [https://plantclinic.nmsu.edu](https://plantclinic.nmsu.edu)
- - date_published: 2024-07-01T16:15:13.273143+00:00
-
- ## Sign in to your account
- - [https://portal.nmsu.edu](https://portal.nmsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## NMSU CES Plans of Work
- - [http://pow.nmsu.edu](http://pow.nmsu.edu)
- - date_published: 2024-07-01T16:16:15.042781+00:00
-
- ## SWBFPEPC Home
- - [https://preparedness.nmsu.edu](https://preparedness.nmsu.edu)
- - date_published: 2024-05-07T19:47:32.294377+00:00
-
- ## Office of the President | New Mexico State University | BE BOLD. Shape the Future.
- - [https://president.nmsu.edu](https://president.nmsu.edu)
- - date_published: 2024-07-01T16:18:08.109703+00:00
-
- ## Faculty Success
- - [https://profile.nmsu.edu](https://profile.nmsu.edu)
- - date_published: 2024-07-01T16:13:55.182126+00:00
-
- ## Publications | CES
- - [https://pubs.nmsu.edu](https://pubs.nmsu.edu)
- - date_published: 2024-05-07T19:47:14.337909+00:00
-
- ## Home | New Mexico State University - BE BOLD. Shape the Future.
- - [https://records.nmsu.edu](https://records.nmsu.edu)
- - date_published: 2024-05-07T19:47:29.219047+00:00
-
- ## ACES Reporting Login
- - [http://reporting.nmsu.edu](http://reporting.nmsu.edu)
- - date_published: 2024-07-01T16:15:45.648457+00:00
-
- ## Report | New Mexico State University
- - [https://report.nmsu.edu](https://report.nmsu.edu)
- - date_published: 2024-07-01T16:13:18.501886+00:00
-
- ## Research - Home Page | New Mexico State University | BE BOLD. Shape the Future.
- - [https://research.nmsu.edu](https://research.nmsu.edu)
- - date_published: 2024-07-01T16:14:42.858660+00:00
-
- ## Aggie Rodeo Association Home
- - [https://rodeo.nmsu.edu](https://rodeo.nmsu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## College of Agricultural, Consumer and Environmental Sciences | New Mexico State University
- - [https://rsvp.nmsu.edu](https://rsvp.nmsu.edu)
- - date_published: 2024-07-01T16:15:38.198679+00:00
-
- ## Home
- - [https://safety.nmsu.edu](https://safety.nmsu.edu)
- - date_published: 2024-07-01T16:13:13.790241+00:00
-
- ## Sam Steel Cafe Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://samsteelcafe.nmsu.edu](https://samsteelcafe.nmsu.edu)
- - date_published: 2024-07-01T16:16:48.147676+00:00
-
- ## Sam Steel Society Home
- - [https://samsteel.nmsu.edu](https://samsteel.nmsu.edu)
- - date_published: 2024-05-07T19:47:35.078081+00:00
-
- ## Disability Access Services
- - [https://sas.nmsu.edu](https://sas.nmsu.edu)
- - date_published: 2024-07-01T16:13:50.039676+00:00
-
- ## NMSU Scholar Dollar$
- - [https://scholarships.nmsu.edu](https://scholarships.nmsu.edu)
- - date_published: 2024-07-01T16:13:43.950773+00:00
-
- ## Season Extension Home
- - [https://seasonextension.nmsu.edu](https://seasonextension.nmsu.edu)
- - date_published: 2024-07-01T16:15:15.653344+00:00
-
- ## Home
- - [https://ssc.nmsu.edu](https://ssc.nmsu.edu)
- - date_published: 2024-07-01T16:14:51.133533+00:00
-
- ## | New Mexico State University
- - [https://staysafe.nmsu.edu](https://staysafe.nmsu.edu)
- - date_published: 2024-07-01T16:14:35.865956+00:00
-
- ## Department of Student Life
- - [https://studentlife.nmsu.edu](https://studentlife.nmsu.edu)
- - date_published: 2024-07-01T16:14:55.246254+00:00
-
- ## Student Technology Home
- - [https://studenttech.nmsu.edu](https://studenttech.nmsu.edu)
- - date_published: 2024-07-01T16:13:06.121749+00:00
-
- ## Southwest Yard and Garden Home
- - [https://swyg.nmsu.edu](https://swyg.nmsu.edu)
- - date_published: 2024-07-01T16:15:07.697064+00:00
-
- ## Working at NMSU - BE BOLD. Shape the Future.
- - [https://talent.nmsu.edu](https://talent.nmsu.edu)
- - date_published: 2024-07-01T16:14:41.041863+00:00
-
- ## Home | New Mexico State University | BE BOLD. Shape the Future.
- - [https://tap.nmsu.edu](https://tap.nmsu.edu)
- - date_published: 2024-07-01T16:17:03.150990+00:00
-
- ## Teaching Academy | New Mexico State University
- - [https://teaching.nmsu.edu](https://teaching.nmsu.edu)
- - date_published: 2024-07-01T16:13:09.557586+00:00
-
- ## trainingcentral
- - [https://trainingcentral.nmsu.edu](https://trainingcentral.nmsu.edu)
- - date_published: 2020-04-03T00:10:44+00:00
-
- ## Training Center home | New Mexico State University - BE BOLD. Shape the Future®
- - [https://training.nmsu.edu](https://training.nmsu.edu)
- - date_published: 2024-07-01T16:13:47.500890+00:00
-
- ## Tribal Extension Home
- - [https://tribalextension.nmsu.edu](https://tribalextension.nmsu.edu)
- - date_published: 2024-07-01T16:10:50.416474+00:00
-
- ## Tucumcari Bull Test Home
- - [https://tucbulltest.nmsu.edu](https://tucbulltest.nmsu.edu)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## University Accounts Receivable | New Mexico State University | BE BOLD. Shape the Future.
- - [https://uar.nmsu.edu](https://uar.nmsu.edu)
- - date_published: 2024-07-01T16:16:25.101830+00:00
-
- ## Unidos. United.
- - [https://united.nmsu.edu](https://united.nmsu.edu)
- - date_published: 2024-07-01T16:14:39.219518+00:00
 

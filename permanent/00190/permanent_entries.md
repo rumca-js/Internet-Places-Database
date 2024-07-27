@@ -1,3 +1,388 @@
+ ## Home - UGA Freedom of Expression
+ - [https://freedomofexpression.uga.edu](https://freedomofexpression.uga.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UGA Alumni Donors & Friends - The University of Georgia - Alumni, Donors & Friends - University of Georgia
+ - [https://gail.uga.edu](https://gail.uga.edu)
+ - date_published: 2024-07-02T02:22:07.728471+00:00
+
+ ## Give to UGA for a Better Tomorrow - Support the Future of Georgia
+ - [https://give.uga.edu](https://give.uga.edu)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Office of Global Engagement
+ - [https://globalengagement.uga.edu](https://globalengagement.uga.edu)
+ - date_published: 2024-07-02T02:20:53.847814+00:00
+
+ ## Grady College of Mass Communication & Journalism
+ - [https://grady.uga.edu](https://grady.uga.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - Greek Life
+ - [https://greeklife.uga.edu](https://greeklife.uga.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Plant Growth Facilities
+ - [https://greenhouses.caes.uga.edu](https://greenhouses.caes.uga.edu)
+ - date_published: 2022-08-22T00:00:00+00:00
+
+ ## University of Georgia Griffin Campus
+ - [https://griffin.uga.edu](https://griffin.uga.edu)
+ - date_published: 2024-07-01T19:14:51+00:00
+
+ ## EITS Help Desk Chat Portal
+ - [https://hd.support.uga.edu](https://hd.support.uga.edu)
+ - date_published: 2024-07-02T02:25:24.165712+00:00
+
+ ## The University of Georgia Health Center
+ - [https://healthcenter.uga.edu](https://healthcenter.uga.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home - UGA Morehead Honors College
+ - [https://honors.uga.edu](https://honors.uga.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Horticulture
+ - [https://hort.caes.uga.edu](https://hort.caes.uga.edu)
+ - date_published: 2024-07-01T21:07:43+00:00
+
+ ## University Housing – Student Affairs
+ - [https://housing.uga.edu](https://housing.uga.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Human Resources | University of Georgia
+ - [http://hr.uga.edu](http://hr.uga.edu)
+ - date_published: 2024-07-02T02:20:19.015686+00:00
+
+ ## UGA Global Impact – Office of Global Engagement
+ - [http://international.uga.edu](http://international.uga.edu)
+ - date_published: 2024-07-02T02:24:52.563072+00:00
+
+ ## Log In ‹ CAES Intranet — WordPress
+ - [https://intranet.caes.uga.edu](https://intranet.caes.uga.edu)
+ - date_published: 2024-07-02T02:22:54.651583+00:00
+
+ ## Home - International Student Life
+ - [https://isl.uga.edu](https://isl.uga.edu)
+ - date_published: 2024-07-02T02:20:48.408190+00:00
+
+ ## Leaders in Innovation
+ - [https://leadinginnovation.caes.uga.edu](https://leadinginnovation.caes.uga.edu)
+ - date_published: 2024-07-01T19:13:06+00:00
+
+ ## Home - Pride Center
+ - [https://lgbtcenter.uga.edu](https://lgbtcenter.uga.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## University of Georgia
+ - [https://majors.admissions.uga.edu](https://majors.admissions.uga.edu)
+ - date_published: 2024-07-02T02:20:50.194802+00:00
+
+ ## Welcome to the Department of Mathematics | Department of Mathematics
+ - [http://math.uga.edu](http://math.uga.edu)
+ - date_published: 2024-06-30T11:18:26+00:00
+
+ ## Division of Marketing & Communications, University of Georgia
+ - [https://mc.uga.edu](https://mc.uga.edu)
+ - date_published: 2024-05-07T21:11:41.782223+00:00
+
+ ## Home - Multicultural Services and Programs
+ - [https://msp.uga.edu](https://msp.uga.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## MyUGA: Welcome
+ - [https://my.uga.edu](https://my.uga.edu)
+ - date_published: 2024-05-07T21:11:53.881319+00:00
+
+ ## National Center for Home Food Preservation
+ - [https://nchfp.uga.edu](https://nchfp.uga.edu)
+ - date_published: 2023-11-01T08:43:32.942121+00:00
+
+ ## UGA Today - Today’s top news from the University of Georgia
+ - [https://news.uga.edu](https://news.uga.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CAES Newswire
+ - [https://newswire.caes.uga.edu](https://newswire.caes.uga.edu)
+ - date_published: 2024-07-01T21:06:24+00:00
+
+ ## Athena Homepage
+ - [https://oasisweb.uga.edu](https://oasisweb.uga.edu)
+ - date_published: 2024-05-07T21:12:29.498653+00:00
+
+ ## Office of Global Engagement
+ - [http://oie.uga.edu](http://oie.uga.edu)
+ - date_published: 2024-05-07T21:12:27.283573+00:00
+
+ ## Learning and Organizational Development
+ - [https://olod.caes.uga.edu](https://olod.caes.uga.edu)
+ - date_published: 2024-07-01T22:17:02+00:00
+
+ ## UGA New Student Orientation
+ - [https://orientation.uga.edu](https://orientation.uga.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home - UGA Student Financial Aid
+ - [https://osfa.uga.edu](https://osfa.uga.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Home | UGA Public Service and Outreach Registration System
+ - [https://outreachregistration.uga.edu](https://outreachregistration.uga.edu)
+ - date_published: 2024-07-02T02:25:29.295792+00:00
+
+ ## Home - UGA Office of Instruction
+ - [https://ovpi.uga.edu](https://ovpi.uga.edu)
+ - date_published: 2024-07-02T02:22:28.536442+00:00
+
+ ## UGA People Search
+ - [https://peoplesearch.uga.edu](https://peoplesearch.uga.edu)
+ - date_published: 2024-07-02T02:20:21.787756+00:00
+
+ ## Professional Education Portal | University of Georgia
+ - [https://pep.uga.edu](https://pep.uga.edu)
+ - date_published: 2024-07-02T02:24:22.436223+00:00
+
+ ## Plant Breeding, Genetics & Genomics
+ - [https://plantbreeding.caes.uga.edu](https://plantbreeding.caes.uga.edu)
+ - date_published: 2024-07-01T21:18:08+00:00
+
+ ## Plant Pathology
+ - [https://plantpath.caes.uga.edu](https://plantpath.caes.uga.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Home | University of Georgia - Policy Library
+ - [https://policy.uga.edu](https://policy.uga.edu)
+ - date_published: 2024-07-02T02:21:47.918090+00:00
+
+ ## Poultry Science
+ - [https://poultry.caes.uga.edu](https://poultry.caes.uga.edu)
+ - date_published: 2022-06-01T00:00:00+00:00
+
+ ## Office of the Senior Vice President for Academic Affairs and Provost - University of Georgia - Provost’s Office - University of Georgia
+ - [https://provost.uga.edu](https://provost.uga.edu)
+ - date_published: 2024-07-02T02:20:43.487605+00:00
+
+ ## Home - Recreational Sports
+ - [https://recsports.uga.edu](https://recsports.uga.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Home | University of Georgia Extension
+ - [https://register.extension.uga.edu](https://register.extension.uga.edu)
+ - date_published: 2024-05-07T21:11:55.519588+00:00
+
+ ## Office of the Registrar
+ - [https://reg.uga.edu](https://reg.uga.edu)
+ - date_published: 2024-07-02T02:20:45.121350+00:00
+
+ ## Office of Research – University of Georgia Office of Research
+ - [https://research.uga.edu](https://research.uga.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Safe & Secure | Annual Fire Safety and Security Report
+ - [https://safeandsecure.uga.edu](https://safeandsecure.uga.edu)
+ - date_published: 2024-07-02T02:21:51.613676+00:00
+
+ ## Home - Student Care & Outreach
+ - [https://sco.uga.edu](https://sco.uga.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Athena Homepage
+ - [https://sis-ssb-prod.uga.edu](https://sis-ssb-prod.uga.edu)
+ - date_published: 2024-07-02T02:24:49.343638+00:00
+
+ ## CAES WordPress | Labs and Programs, Blogs, Clubs, Conferences and Events
+ - [https://site.caes.uga.edu](https://site.caes.uga.edu)
+ - date_published: 2024-07-01T19:50:48+00:00
+
+ ## Extension WordPress | Blogs, Programs, and Topical Websites
+ - [https://site.extension.uga.edu](https://site.extension.uga.edu)
+ - date_published: 2024-06-28T18:34:49+00:00
+
+ ## Home | UGA Systems Status
+ - [http://status.uga.edu](http://status.uga.edu)
+ - date_published: 2023-12-21T17:21:57+00:00
+
+ ## UGA Stratigraphy Lab
+ - [https://strata.uga.edu](https://strata.uga.edu)
+ - date_published: 2024-03-09T15:59:00+00:00
+
+ ## Home - UGA Student Affairs
+ - [https://studentaffairs.uga.edu](https://studentaffairs.uga.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## 2023 Annual Update - Student Affairs Annual Update
+ - [https://studentaffairsupdate.uga.edu](https://studentaffairsupdate.uga.edu)
+ - date_published: 2024-07-02T02:21:43.594416+00:00
+
+ ## UGA Complaints Portal
+ - [https://studentcomplaints.uga.edu](https://studentcomplaints.uga.edu)
+ - date_published: 2023-03-23T17:31:08+00:00
+
+ ## Home - Student Resources
+ - [https://student.uga.edu](https://student.uga.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Student Veterans Resource Center
+ - [https://svrc.uga.edu](https://svrc.uga.edu)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Home - Tate Student Center
+ - [https://tate.uga.edu](https://tate.uga.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Welcome | TED
+ - [https://ted.cviog.uga.edu](https://ted.cviog.uga.edu)
+ - date_published: 2024-07-02T02:25:29+00:00
+
+ ## Home - University Testing Services
+ - [https://testing.uga.edu](https://testing.uga.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Tifton Campus
+ - [https://tifton.caes.uga.edu](https://tifton.caes.uga.edu)
+ - date_published: 2024-07-01T21:03:52+00:00
+
+ ## Home - UGA Transportation & Parking Services
+ - [https://tps.uga.edu](https://tps.uga.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Home - Student Transitions
+ - [https://transitions.uga.edu](https://transitions.uga.edu)
+ - date_published: 2024-07-02T02:21:32.916539+00:00
+
+ ## TinyUGA - link shortener for University of Georgia websites
+ - [https://t.uga.edu](https://t.uga.edu)
+ - date_published: 2023-11-07T14:54:18.985053+00:00
+
+ ## UGAMail & Office 365 | Enterprise Information Technology Services
+ - [http://ugamail.uga.edu](http://ugamail.uga.edu)
+ - date_published: 2024-07-02T02:24:57.409725+00:00
+
+ ## Home - University of Georgia College of Veterinary Medicine
+ - [https://vet.uga.edu](https://vet.uga.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Visit the University of Georgia
+ - [https://visit.uga.edu](https://visit.uga.edu)
+ - date_published: 2024-07-02T02:20:20.777972+00:00
+
+ ## Home - We Are GA
+ - [https://wearegeorgia.uga.edu](https://wearegeorgia.uga.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Home - Well-being Resources
+ - [https://well-being.uga.edu](https://well-being.uga.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## UGA Admissions
+ - [https://admissions.uga.edu](https://admissions.uga.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Welcome to the Office of University Architects | University Architects
+ - [https://www.architects.uga.edu](https://www.architects.uga.edu)
+ - date_published: 2024-07-02T02:24:17.315629+00:00
+
+ ## College of Agricultural & Environmental Sciences | University of Georgia
+ - [https://caes.uga.edu](https://caes.uga.edu)
+ - date_published: 2024-05-07T21:12:19.491625+00:00
+
+ ## College of Family and Consumer Sciences | UGA FACS
+ - [https://www.fcs.uga.edu](https://www.fcs.uga.edu)
+ - date_published: 2024-07-02T02:22:56+00:00
+
+ ## Home | University of Georgia School of Law
+ - [http://www.law.uga.edu](http://www.law.uga.edu)
+ - date_published: 2024-07-22T02:27:09.453760+00:00
+
+ ## UGA
+ - [https://uga.edu](https://uga.edu)
+ - date_published: 2024-05-07T21:11:43.033100+00:00
+
+ ## AccessUH
+ - [https://accessuh.uh.edu](https://accessuh.uh.edu)
+ - date_published: 2024-05-07T21:13:08.310845+00:00
+
+ ## Engineering Advancement
+ - [https://advancement.egr.uh.edu](https://advancement.egr.uh.edu)
+ - date_published: 2024-07-02T02:35:57.884980+00:00
+
+ ## University of Houston Advancement and Alumni
+ - [https://advancement.uh.edu](https://advancement.uh.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## UH ALERT Emergency Notification System - University of Houston
+ - [https://alerts.uh.edu](https://alerts.uh.edu)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Home | AMI
+ - [https://ami.uh.edu](https://ami.uh.edu)
+ - date_published: 2024-07-02T02:36:52.855723+00:00
+
+ ## Library Apps
+ - [https://apps.lib.uh.edu](https://apps.lib.uh.edu)
+ - date_published: 2024-01-19T14:40:34+00:00
+
+ ## Latest News
+ - [https://bauerstories.uh.edu](https://bauerstories.uh.edu)
+ - date_published: 2024-06-24T14:37:50+00:00
+
+ ## Calendar
+ - [https://calendar.uh.edu](https://calendar.uh.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Rockwell Career Center | Bauer College of Business at the University of Houston
+ - [https://careercenter.bauer.uh.edu](https://careercenter.bauer.uh.edu)
+ - date_published: 2024-07-02T02:34:34.868107+00:00
+
+ ## Home | Engineering Career Center
+ - [https://career.egr.uh.edu](https://career.egr.uh.edu)
+ - date_published: 2024-07-02T02:35:59.642199+00:00
+
+ ## Class Notes
+ - [https://classnotes.uh.edu](https://classnotes.uh.edu)
+ - date_published: 2024-07-02T02:33:28.184621+00:00
+
+ ## University of Houston Cullen College of Engineering — Technology Division
+ - [https://dot.egr.uh.edu](https://dot.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:24.209472+00:00
+
+ ## Welcome | Engineering Computing Center
+ - [https://ecc.egr.uh.edu](https://ecc.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:06.665119+00:00
+
+ ## The Engines of Our Ingenuity
+ - [https://engines.egr.uh.edu](https://engines.egr.uh.edu)
+ - date_published: 2024-03-08T09:51:49.224941+00:00
+ - tags: ['personal']
+
+ ## Home - UH Health - Eye Care
+ - [https://eyecare.opt.uh.edu](https://eyecare.opt.uh.edu)
+ - date_published: 2021-09-02T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [http://ezproxy.lib.uh.edu](http://ezproxy.lib.uh.edu)
+ - date_published: 2024-06-30T01:25:21.572572+00:00
+
+ ## University of Houston Cullen College of Engineering First Year Experience
+ - [https://firstyearexperience.egr.uh.edu](https://firstyearexperience.egr.uh.edu)
+ - date_published: 2024-07-02T02:36:27.163677+00:00
+
+ ## Gethelp
+ - [https://gethelp.uh.edu](https://gethelp.uh.edu)
+ - date_published: 2024-01-16T13:21:58+00:00
+
+ ## University of Houston Advancement and Alumni
+ - [https://giveto.uh.edu](https://giveto.uh.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## University of Houston Advancement and Alumni
+ - [https://giving.uh.edu](https://giving.uh.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## ICON - Research UH
+ - [https://icon.research.uh.edu](https://icon.research.uh.edu)
+ - date_published: 2021-11-03T15:11:24+00:00
+
  ## University of Houston Libraries
  - [https://info.lib.uh.edu](https://info.lib.uh.edu)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -3622,388 +4007,4 @@ Center for Information Technology Integration
  ## Career Services | University of Minnesota-Twin Cities: Carlson School of Management
  - [https://careercenter.carlsonschool.umn.edu](https://careercenter.carlsonschool.umn.edu)
  - date_published: 2024-07-03T18:13:16.514320+00:00
-
- ## Home
- - [https://carlsonschool.umn.edu](https://carlsonschool.umn.edu)
- - date_published: 2024-07-03T18:08:12+00:00
-
- ## COLLEGE of BIOLOGICAL SCIENCES | College of Biological Sciences
- - [https://cbs.umn.edu](https://cbs.umn.edu)
- - date_published: 2024-05-07T21:31:42.664145+00:00
-
- ## The Circuits and Biology Lab at UMN
- - [https://cctbio.ece.umn.edu](https://cctbio.ece.umn.edu)
- - date_published: 2024-05-07T21:31:20.029655+00:00
-
- ## Welcome to your CEHD department site | College of Education and Human Development
- - [https://cehd-prod.cehdaq.umn.edu](https://cehd-prod.cehdaq.umn.edu)
- - date_published: 2024-07-02T04:07:23+00:00
-
- ## College of Education and Human Service Professions | UMN Duluth
- - [https://cehsp.d.umn.edu](https://cehsp.d.umn.edu)
- - date_published: 2024-07-12T21:03:10+00:00
-
- ## Admissions | The Graduate School
- - [https://choose.umn.edu](https://choose.umn.edu)
- - date_published: 2024-06-26T17:12:42+00:00
-
- ## Continuing Professional Development
- - [https://cme.umn.edu](https://cme.umn.edu)
- - date_published: 2024-05-07T21:29:47.977021+00:00
-
- ## Circle of Indigenous Nations | Circle of Indigenous Nations
- - [https://coin.umn.edu](https://coin.umn.edu)
- - date_published: 2024-07-10T14:58:26+00:00
-
- ## Home | University Compliance Program
- - [https://compliance.umn.edu](https://compliance.umn.edu)
- - date_published: 2024-06-30T01:16:53+00:00
-
- ## CEHD Connect Magazine | Connect Magazine
- - [https://connect.cehd.umn.edu](https://connect.cehd.umn.edu)
- - date_published: 2024-07-01T13:36:10+00:00
-
- ## University Digital Conservancy :: Home
- - [https://conservancy.umn.edu](https://conservancy.umn.edu)
- - date_published: 2024-06-14T04:12:21.363184+00:00
-
- ## CORE Home Page | CORE
- - [https://core.umn.edu](https://core.umn.edu)
- - date_published: 2024-07-10T14:49:16+00:00
-
- ## Course Works | Course Works
- - [https://courseworks.umn.edu](https://courseworks.umn.edu)
- - date_published: 2024-07-12T16:23:48+00:00
-
- ## Engage to Change - CREATE Initative
- - [http://create.umn.edu](http://create.umn.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Home
- - [http://cris.cs.umn.edu](http://cris.cs.umn.edu)
- - date_published: 2024-07-02T00:39:47+00:00
-
- ## Homepage | University of Minnesota Crookston
- - [https://crk.umn.edu](https://crk.umn.edu)
- - date_published: 2024-05-11T07:55:50.641136+00:00
-
- ## College of Science & Engineering
- - [https://cse.umn.edu](https://cse.umn.edu)
- - date_published: 2024-03-18T18:13:43.091656+00:00
-
- ## Coronavirus Vaccines R&D Roadmap | CIDRAP
- - [https://cvr.cidrap.umn.edu](https://cvr.cidrap.umn.edu)
- - date_published: 2024-05-07T21:31:09.883012+00:00
-
- ## Home
- - [http://datascience.umn.edu](http://datascience.umn.edu)
- - date_published: 2024-07-01T23:26:57+00:00
-
- ## Welcome to the Diversity Community of Practice | Diversity Community of Practice
- - [http://dcop.umn.edu](http://dcop.umn.edu)
- - date_published: 2024-07-10T15:12:02+00:00
-
- ## College of Design Homepage | College of Design
- - [https://design.umn.edu](https://design.umn.edu)
- - date_published: 2024-07-04T22:38:59+00:00
-
- ## Home | School of Public Health Directory
- - [https://directory.sph.umn.edu](https://directory.sph.umn.edu)
- - date_published: 2024-06-24T14:28:34+00:00
-
- ## Welcome to the Disability Resource Center (DRC)!  | Disability Resource Center
- - [https://disability.umn.edu](https://disability.umn.edu)
- - date_published: 2024-06-12T14:54:35+00:00
-
- ## ‘Yes in a world of no’
- - [https://discoverymag.umn.edu](https://discoverymag.umn.edu)
- - date_published: 2024-07-13T16:55:35.852348+00:00
-
- ## Welcome to the Office for Equity and Diversity | Office for Equity and Diversity
- - [https://diversity.dl8.umn.edu](https://diversity.dl8.umn.edu)
- - date_published: 2024-07-11T19:09:21+00:00
-
- ## Welcome to the Office for Equity and Diversity | Office for Equity and Diversity
- - [https://diversity.umn.edu](https://diversity.umn.edu)
- - date_published: 2024-05-11T07:55:11.108131+00:00
-
- ## University of Minnesota Duluth
- - [https://d.umn.edu](https://d.umn.edu)
- - date_published: 2024-05-11T07:55:21.237868+00:00
-
- ## ECE
- - [https://ece.umn.edu](https://ece.umn.edu)
- - date_published: 2021-08-03T23:11:54+00:00
-
- ## Homepage | Equal Opportunity & Title IX
- - [http://eoaa.umn.edu](http://eoaa.umn.edu)
- - date_published: 2024-07-10T14:56:05+00:00
-
- ## Homepage | Equal Opportunity & Title IX
- - [https://eot.umn.edu](https://eot.umn.edu)
- - date_published: 2024-07-01T20:08:19+00:00
-
- ## Events Calendar
- - [https://events.crk.umn.edu](https://events.crk.umn.edu)
- - date_published: 2024-07-13T17:15:44.701295+00:00
-
- ## Events Calendar - University of Minnesota Morris Events Calendar
- - [https://events.morris.umn.edu](https://events.morris.umn.edu)
- - date_published: 2024-07-13T17:13:31.800527+00:00
-
- ## University of Minnesota Twin Cities: Events Calendar
- - [https://events.tc.umn.edu](https://events.tc.umn.edu)
- - date_published: 2024-05-07T21:30:38.772907+00:00
-
- ## Facilities Management | UMN Facilities Management
- - [https://facilities.umn.edu](https://facilities.umn.edu)
- - date_published: 2024-07-10T17:58:58+00:00
-
- ## Home | First Generation at the U of M
- - [https://firstgen.umn.edu](https://firstgen.umn.edu)
- - date_published: 2024-06-20T16:26:01+00:00
-
- ## Browse Exhibits · Gallery
- - [https://gallery.lib.umn.edu](https://gallery.lib.umn.edu)
- - date_published: 2024-07-13T17:15:22.494741+00:00
-
- ## Office of Advancement | UMN Duluth
- - [https://give.d.umn.edu](https://give.d.umn.edu)
- - date_published: 2024-07-10T14:59:37+00:00
-
- ## Give to Morris | Give to UMN Morris
- - [https://give.morris.umn.edu](https://give.morris.umn.edu)
- - date_published: 2024-07-10T14:01:45+00:00
-
- ## Home | Give to the University of Minnesota
- - [https://give.umn.edu](https://give.umn.edu)
- - date_published: 2024-05-11T07:52:57.604741+00:00
-
- ## Graduate Medical Education
- - [https://gme.umn.edu](https://gme.umn.edu)
- - date_published: 2024-05-07T21:30:35.938955+00:00
-
- ## Graduate School Duluth | UMN Duluth
- - [https://graduate-school.d.umn.edu](https://graduate-school.d.umn.edu)
- - date_published: 2024-07-10T14:57:44+00:00
-
- ## On-Campus Living
- - [https://housing.umn.edu](https://housing.umn.edu)
- - date_published: 2024-05-11T07:55:40.804057+00:00
-
- ## Human Rights Library- University of Minnesota
- - [http://hrlibrary.umn.edu](http://hrlibrary.umn.edu)
- - date_published: 2022-05-07T15:59:08+00:00
-
- ## Sign In | HRMS Instruction
- - [https://hrms.umn.edu](https://hrms.umn.edu)
- - date_published: 2024-06-21T17:10:55+00:00
-
- ## Home | University of Minnesota Office of Human Resources
- - [https://hr.umn.edu](https://hr.umn.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Health Sciences Library | Health Sciences Libraries
- - [https://hsl.lib.umn.edu](https://hsl.lib.umn.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home | University of Minnesota Office of Human Resources
- - [https://humanresources.umn.edu](https://humanresources.umn.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Institute for Diversity, Equity, and Advocacy | Institute for Diversity, Equity and Advocacy
- - [http://idea.umn.edu](http://idea.umn.edu)
- - date_published: 2024-07-10T14:59:09+00:00
-
- ## Home
- - [https://interact.csom.umn.edu](https://interact.csom.umn.edu)
- - date_published: 2024-07-03T18:08:12+00:00
-
- ## IT@UMN | The people behind the technology |
- - [https://it.umn.edu](https://it.umn.edu)
- - date_published: 2024-07-02T01:40:28+00:00
-
- ## IVR Initiative Home Page | CIDRAP
- - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
- - date_published: 2024-05-07T21:30:46.779392+00:00
-
- ## We Are the Noise: The Echoes of Our Ancestors | University of Minnesota Juneteenth Celebration
- - [https://juneteenth.umn.edu](https://juneteenth.umn.edu)
- - date_published: 2024-07-10T14:51:45+00:00
-
- ## Kusske Design Initiative
- - [https://kdi.umn.edu](https://kdi.umn.edu)
- - date_published: 2024-07-08T14:57:40.332054+00:00
-
- ## LATIS | CLA Neighborhood
- - [http://latis.umn.edu](http://latis.umn.edu)
- - date_published: 2024-07-01T21:26:53+00:00
-
- ## Kathryn A. Martin Library | UMN Duluth
- - [https://lib.d.umn.edu](https://lib.d.umn.edu)
- - date_published: 2024-07-13T16:50:48+00:00
-
- ## Home - UMN Libraries News & Events
- - [https://libnews.umn.edu](https://libnews.umn.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Rodney A. Briggs Library | UMN Morris Library
- - [https://library.morris.umn.edu](https://library.morris.umn.edu)
- - date_published: 2024-07-10T14:22:37+00:00
-
- ## Libraries home | University of Minnesota Libraries
- - [https://lib.umn.edu](https://lib.umn.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Labovitz School of Business and Economics | UMN Duluth
- - [https://lsbe.d.umn.edu](https://lsbe.d.umn.edu)
- - date_published: 2024-07-11T15:46:00+00:00
-
- ## Web Login Service
- - [http://mail.umn.edu](http://mail.umn.edu)
- - date_published: 2024-07-13T17:15:25.969779+00:00
-
- ## Home page | Majors
- - [https://majors.umn.edu](https://majors.umn.edu)
- - date_published: 2024-07-10T14:13:21+00:00
-
- ## Donate to the University of Minnesota
- - [https://makingagift.umn.edu](https://makingagift.umn.edu)
- - date_published: 2024-05-07T21:30:21.659502+00:00
-
- ## Manifold @uminnpress
- - [https://manifold.umn.edu](https://manifold.umn.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Welcome to MCAE | MCAE
- - [http://mcae.umn.edu](http://mcae.umn.edu)
- - date_published: 2024-07-12T16:13:40+00:00
-
- ## Medical School
- - [https://med-d9.prd.umn.edu](https://med-d9.prd.umn.edu)
- - date_published: 2024-05-07T21:30:07.863681+00:00
-
- ## Web Login Service
- - [https://mediaspace.umn.edu](https://mediaspace.umn.edu)
- - date_published: 2024-07-02T04:07:14.343163+00:00
-
- ## Medical School
- - [https://med.umn.edu](https://med.umn.edu)
- - date_published: 2023-10-25T19:02:48.728498+00:00
-
- ## Paul Meehl | Paul E. Meehl
- - [http://meehl.umn.edu](http://meehl.umn.edu)
- - date_published: 2024-06-12T15:02:49+00:00
-
- ## Minnesota Invasive Terrestrial Plants and Pests Center
- - [https://mitppc.umn.edu](https://mitppc.umn.edu)
- - date_published: 2024-07-08T17:32:26+00:00
-
- ## University of Minnesota Morris
- - [https://morris.umn.edu](https://morris.umn.edu)
- - date_published: 2024-05-11T07:55:42.951152+00:00
-
- ## The Circuits and Biology Lab at UMN
- - [https://mriedel.ece.umn.edu](https://mriedel.ece.umn.edu)
- - date_published: 2024-05-07T21:31:14.438714+00:00
-
- ## C&I faculty members receive prestigious fellowship award on Antisemitism and Jewish Inclusion
- - [https://news.cehd.umn.edu](https://news.cehd.umn.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## News Center Home Page
- - [https://news.d.umn.edu](https://news.d.umn.edu)
- - date_published: 2024-07-12T19:23:44+00:00
-
- ## Welcome to the Office for Conflict Resolution | Office for Conflict Resolution
- - [http://ocr.umn.edu](http://ocr.umn.edu)
- - date_published: 2024-07-10T15:52:13+00:00
-
- ## Education Program | Office for Equity & Diversity Education Program
- - [https://oeded.umn.edu](https://oeded.umn.edu)
- - date_published: 2024-07-10T14:18:09+00:00
-
- ## Please Login | OED Intranet
- - [https://oedintranet.umn.edu](https://oedintranet.umn.edu)
- - date_published: 2024-07-13T17:12:21+00:00
-
- ## Report Web Disability-Related Issue
- - [https://oit-drupal-prd-web.oit.umn.edu](https://oit-drupal-prd-web.oit.umn.edu)
- - date_published: 2024-05-07T21:29:50.648111+00:00
-
- ## Home | Crookston One Stop Student Services
- - [http://onestop.crk.umn.edu](http://onestop.crk.umn.edu)
- - date_published: 2024-06-20T19:00:39+00:00
-
- ## Home | Duluth One Stop Student Services
- - [http://onestop.d.umn.edu](http://onestop.d.umn.edu)
- - date_published: 2024-06-27T13:19:32+00:00
-
- ## Home | Morris One Stop Student Services
- - [http://onestop.morris.umn.edu](http://onestop.morris.umn.edu)
- - date_published: 2024-07-01T19:37:47+00:00
-
- ## Home | Rochester One Stop Student Services
- - [http://onestop.r.umn.edu](http://onestop.r.umn.edu)
- - date_published: 2024-07-01T18:24:15+00:00
-
- ## Home | Twin Cities One Stop Student Services
- - [https://onestop-tc.prd.umn.edu](https://onestop-tc.prd.umn.edu)
- - date_published: 2024-07-01T18:27:01+00:00
-
- ## Home | Twin Cities One Stop Student Services
- - [https://onestop.umn.edu](https://onestop.umn.edu)
- - date_published: 2024-05-07T21:30:12.406123+00:00
-
- ## Online Learning | University of Minnesota Morris
- - [https://onlinelearning.morris.umn.edu](https://onlinelearning.morris.umn.edu)
- - date_published: 2024-07-12T21:39:39+00:00
-
- ## Publishing Services
- - [https://open.lib.umn.edu](https://open.lib.umn.edu)
- - date_published: 2024-05-08T06:58:55.509369+00:00
-
- ## Center for Open Education
- - [https://open.umn.edu](https://open.umn.edu)
- - date_published: 2023-10-25T19:02:55.930942+00:00
-
- ## Orientation | UMN Duluth
- - [https://orientation.d.umn.edu](https://orientation.d.umn.edu)
- - date_published: 2024-07-10T14:03:11+00:00
-
- ## Welcome! | Office for Student Affairs
- - [https://osa.umn.edu](https://osa.umn.edu)
- - date_published: 2024-07-10T14:48:04+00:00
-
- ## Office for Supplier Diversity | Office for Business & Community Economic Development
- - [https://osd.umn.edu](https://osd.umn.edu)
- - date_published: 2024-07-13T17:12:54+00:00
-
- ## Welcome to the Physics Force | Physics Force
- - [https://physicsforce.umn.edu](https://physicsforce.umn.edu)
- - date_published: 2024-06-12T14:45:07+00:00
-
- ## Home Page | University Policy Library
- - [http://policy.umn.edu](http://policy.umn.edu)
- - date_published: 2024-07-04T09:20:43+00:00
-
- ## About | Preceptor Resources
- - [https://preceptor.umn.edu](https://preceptor.umn.edu)
- - date_published: 2024-05-07T21:30:41.797420+00:00
-
- ## Website Privacy | Online Privacy
- - [https://privacy.umn.edu](https://privacy.umn.edu)
- - date_published: 2024-05-07T21:30:45.450807+00:00
-
- ## Parking & Transportation Services | UMN Parking & Transportation Services
- - [https://pts.umn.edu](https://pts.umn.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Public Safety | UMN Department of Public Safety
- - [https://publicsafety.umn.edu](https://publicsafety.umn.edu)
- - date_published: 2024-07-12T19:37:38+00:00
-
- ## Front - Publishing Services
- - [https://publishing.lib.umn.edu](https://publishing.lib.umn.edu)
- - date_published: 2024-07-04T16:19:14.960889+00:00
 

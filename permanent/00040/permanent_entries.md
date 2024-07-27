@@ -1,3 +1,67 @@
+ ## Have Opinion, Will Travel
+ - [http://haveopinionwiiltravel.blogspot.com](http://haveopinionwiiltravel.blogspot.com)
+ - date_published: 2024-03-23T18:30:51+00:00
+
+ ## Having Two Legs
+ - [http://havingtwolegs.blogspot.com](http://havingtwolegs.blogspot.com)
+ - date_published: 2024-03-23T18:22:45+00:00
+
+ ## Lady Insignificant
+ - [http://hdsidhe.blogspot.com](http://hdsidhe.blogspot.com)
+ - date_published: 2024-03-14T08:52:59+00:00
+
+ ## Programming C++11 and SDL2
+ - [http://headerphile.blogspot.com](http://headerphile.blogspot.com)
+ - date_published: 2024-03-19T03:51:57+00:00
+
+ ## Head Injury Theater
+ - [http://headinjurytheater.blogspot.com](http://headinjurytheater.blogspot.com)
+ - date_published: 2024-03-07T23:50:56+00:00
+
+ ## Headless Horse Archer
+ - [http://headlesshorsearcher.blogspot.com](http://headlesshorsearcher.blogspot.com)
+ - date_published: 2024-07-06T20:45:35+00:00
+
+ ## The Head of Vecna
+ - [http://headofvecna.blogspot.com](http://headofvecna.blogspot.com)
+ - date_published: 2024-07-06T20:45:10+00:00
+
+ ## headsup: the blog
+ - [https://headsuptheblog.blogspot.com](https://headsuptheblog.blogspot.com)
+ - date_published: 2024-05-07T21:55:26.264473+00:00
+
+ ## Blogger
+ - [http://healingiraq.blogspot.com](http://healingiraq.blogspot.com)
+ - date_published: 2024-06-20T03:14:16.518399+00:00
+
+ ## I Don't Hear A Single
+ - [https://hearasingle.blogspot.com](https://hearasingle.blogspot.com)
+ - date_published: 2024-06-28T09:35:40+00:00
+
+ ## Heart As Arena
+ - [http://heartasarena.blogspot.com](http://heartasarena.blogspot.com)
+ - date_published: 2024-06-19T17:07:04+00:00
+
+ ## It's a Wonderful Life
+ - [http://heathertorrie.blogspot.com](http://heathertorrie.blogspot.com)
+ - date_published: 2024-03-14T06:12:58+00:00
+
+ ## Heavy Static
+ - [http://heavystatic.blogspot.com](http://heavystatic.blogspot.com)
+ - date_published: 2024-03-20T15:06:49+00:00
+
+ ## Hecate's Crossroad
+ - [http://hecatescrossroad.blogspot.com](http://hecatescrossroad.blogspot.com)
+ - date_published: 2024-03-19T04:11:38+00:00
+
+ ## hedgehogblog
+ - [http://hedgehogblog.blogspot.com](http://hedgehogblog.blogspot.com)
+ - date_published: 2024-02-28T10:05:18+00:00
+
+ ## To infinity and beyond
+ - [https://heenamahour.blogspot.com](https://heenamahour.blogspot.com)
+ - date_published: 2017-12-02T00:00:00+00:00
+
  ## Leftists as Elitists
  - [http://heghinian.blogspot.com](http://heghinian.blogspot.com)
  - date_published: 2024-02-08T20:06:34+00:00
@@ -3951,68 +4015,4 @@
  ## Map Uganda
  - [http://mapuganda.blogspot.com](http://mapuganda.blogspot.com)
  - date_published: 2011-03-17T00:00:00+00:00
-
- ## Marathon Pundit
- - [https://marathonpundit.blogspot.com](https://marathonpundit.blogspot.com)
- - date_published: 2024-07-03T20:33:00+00:00
-
- ## Of Marauders and Citadels
- - [http://maraudersandcitadels.blogspot.com](http://maraudersandcitadels.blogspot.com)
- - date_published: 2024-03-05T05:32:40+00:00
-
- ## Weblog van Marc De Coster
- - [http://marcdecoster.blogspot.com](http://marcdecoster.blogspot.com)
- - date_published: 2024-03-21T02:24:01+00:00
-
- ## marc
- - [http://marcelinolopez.blogspot.com](http://marcelinolopez.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Zhilin's Scientific Journey
- - [http://marchonscience.blogspot.com](http://marchonscience.blogspot.com)
- - date_published: 2024-03-22T00:43:27+00:00
-
- ## Marc Raley Miniatures
- - [http://marcraleyminiatures.blogspot.com](http://marcraleyminiatures.blogspot.com)
- - date_published: 2024-07-11T18:03:50+00:00
-
- ## Marc Valdez, Candidate for California Governor
- - [http://marcvaldezcalgov.blogspot.com](http://marcvaldezcalgov.blogspot.com)
- - date_published: 2024-02-21T03:43:02+00:00
-
- ## INTIMIDADE DESCONHECIDA
- - [http://mariocarvalho1961.blogspot.com](http://mariocarvalho1961.blogspot.com)
- - date_published: 2024-03-21T11:32:53+00:00
-
- ## mario quintana
- - [http://marioquintana.blogspot.com](http://marioquintana.blogspot.com)
- - date_published: 2024-02-19T15:35:58+00:00
-
- ## Marketing Genius from Maple Creative
- - [http://marketinggenius.blogspot.com](http://marketinggenius.blogspot.com)
- - date_published: 2024-07-13T06:00:23+00:00
-
- ## Investing Blueprints
- - [https://markgeld.blogspot.com](https://markgeld.blogspot.com)
- - date_published: 2021-05-17T00:00:00+00:00
-
- ## Trading Software
- - [http://marklogic.blogspot.com](http://marklogic.blogspot.com)
- - date_published: 2024-06-27T21:53:43+00:00
-
- ## I Refuse To Blog
- - [http://markmelvin.blogspot.com](http://markmelvin.blogspot.com)
- - date_published: 2024-07-04T05:56:28+00:00
-
- ## reMarkable
- - [http://markolsthoorn.blogspot.com](http://markolsthoorn.blogspot.com)
- - date_published: 2024-02-19T12:18:22+00:00
-
- ## svn commit ./me
- - [http://markphip.blogspot.com](http://markphip.blogspot.com)
- - date_published: 2024-07-08T06:01:22+00:00
-
- ## Mark's wargaming - anything but a one!
- - [http://markswargaming-anythingbutaone.blogspot.com](http://markswargaming-anythingbutaone.blogspot.com)
- - date_published: 2024-07-13T07:03:39+00:00
 

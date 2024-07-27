@@ -1,3 +1,388 @@
+ ## Smithsonian Institution Archives
+ - [https://siarchives.si.edu](https://siarchives.si.edu)
+ - date_published: 2024-05-12T05:52:51.486914+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://si.edu](https://si.edu)
+ - date_published: 2024-05-07T20:24:13.550163+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://s.si.edu](https://s.si.edu)
+ - date_published: 2024-05-07T20:23:41.189772+00:00
+
+ ## Smithsonian Tropical Research Institute
+ - [https://stri.si.edu](https://stri.si.edu)
+ - date_published: 2024-07-01T07:49:22+00:00
+
+ ## Smithsonian Institution | Home
+ - [https://support.si.edu](https://support.si.edu)
+ - date_published: 2024-05-07T20:23:38.651679+00:00
+
+ ## Global Volcanism Program
+ - [http://volcano.si.edu](http://volcano.si.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Archives of American Art, Smithsonian Institution
+ - [https://aaa.si.edu](https://aaa.si.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Homepage | Smithsonian National Museum of Natural History
+ - [https://mnh.si.edu](https://mnh.si.edu)
+ - date_published: 2024-05-07T22:32:06.074736+00:00
+
+ ## National Postal Museum
+ - [http://www.postalmuseum.si.edu](http://www.postalmuseum.si.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Smithsonian Libraries
+ - [https://www.sil.si.edu](https://www.sil.si.edu)
+ - date_published: 2024-06-18T20:03:14+00:00
+
+ ## Siena College Research Institute – The preeminent academically situated polling institute in New York State
+ - [https://scri.siena.edu](https://scri.siena.edu)
+ - date_published: 2024-06-29T10:52:42.448464+00:00
+
+ ## Library Catalog | Simmons University
+ - [https://libcat.simmons.edu](https://libcat.simmons.edu)
+ - date_published: 2024-06-18T14:24:00.632291+00:00
+
+ ## Where Independent Minds Get Their Start
+ - [https://simons-rock.edu](https://simons-rock.edu)
+ - date_published: 2024-07-22T08:05:28.651580+00:00
+
+ ## DEBRA
+ - [https://debra.physics.siu.edu](https://debra.physics.siu.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Admissions and Financial Aid Information | St. John's College
+ - [https://admissions.sjc.edu](https://admissions.sjc.edu)
+ - date_published: 2024-05-07T20:24:53.044257+00:00
+
+ ## Events Calendar
+ - [https://events.sjc.edu](https://events.sjc.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home Page | Welcome to mySJC
+ - [https://mysjc.sjc.edu](https://mysjc.sjc.edu)
+ - date_published: 2024-05-07T20:24:49.813140+00:00
+
+ ## St. John's College | Liberal Arts College with a World-Class Faculty
+ - [https://sjc.edu](https://sjc.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## San José State University - Modern Campus Catalog™
+ - [https://catalog.sjsu.edu](https://catalog.sjsu.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Artic.sjsu.edu
+ - [https://info.sjsu.edu](https://info.sjsu.edu)
+ - date_published: 2022-06-24T00:47:17+00:00
+
+ ## San José State University
+ - [http://www.sjsu.edu](http://www.sjsu.edu)
+ - date_published: 2024-06-22T09:15:23.509166+00:00
+
+ ## Saint Joseph's University
+ - [http://www.sju.edu](http://www.sju.edu)
+ - date_published: 2024-07-04T00:51:36+00:00
+
+ ## Salish Kootenai College - Empowering the Future - Salish Kootenai College
+ - [https://www.skc.edu](https://www.skc.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home - Salmagundi Magazine
+ - [https://salmagundi.skidmore.edu](https://salmagundi.skidmore.edu)
+ - date_published: 2024-05-15T03:00:54.371221+00:00
+
+ ## 성균관대인터랙션사이언스학과
+ - [http://is.skku.edu](http://is.skku.edu)
+ - date_published: 2024-06-22T07:52:10+00:00
+
+ ## Science@SLC
+ - [https://science.slc.edu](https://science.slc.edu)
+ - date_published: 2019-06-27T18:08:28+00:00
+
+ ## 2024-2025 Academic Catalog < Saint Louis University
+ - [https://catalog.slu.edu](https://catalog.slu.edu)
+ - date_published: 2024-06-14T17:42:59+00:00
+
+ ## Saint Louis University | SLU.edu
+ - [https://www.slu.edu](https://www.slu.edu)
+ - date_published: 2024-05-01T03:32:11.620575+00:00
+
+ ## Santa Monica College
+ - [https://www.smc.edu](https://www.smc.edu)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Smith College | Computer Science
+ - [http://cs.smith.edu](http://cs.smith.edu)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## SCMA Shop
+ - [https://scmashop.smith.edu](https://scmashop.smith.edu)
+ - date_published: 2024-02-08T22:08:09.819518+00:00
+
+ ## Home
+ - [https://scma.smith.edu](https://scma.smith.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Undergraduate Admission
+ - [https://admission.smu.edu](https://admission.smu.edu)
+ - date_published: 2024-06-15T15:15:14.079772+00:00
+
+ ## SMU
+ - [https://calendar.smu.edu](https://calendar.smu.edu)
+ - date_published: 2024-06-15T15:15:06.529801+00:00
+
+ ## Homepage | George W. Bush Library
+ - [https://georgewbushlibrary.smu.edu](https://georgewbushlibrary.smu.edu)
+ - date_published: 2024-05-07T13:42:07.941026+00:00
+
+ ## SMU Giving
+ - [https://giving.smu.edu](https://giving.smu.edu)
+ - date_published: 2024-06-15T15:15:09.068515+00:00
+
+ ## GiveNow - SMU
+ - [https://link.smu.edu](https://link.smu.edu)
+ - date_published: 2024-06-15T15:15:17.816643+00:00
+
+ ## SMU
+ - [https://smu.edu](https://smu.edu)
+ - date_published: 2024-06-20T04:19:13.210591+00:00
+
+ ## You're Ready for Your Degree
+ - [https://www.snhu.edu](https://www.snhu.edu)
+ - date_published: 2024-06-23T07:30:09.468885+00:00
+
+ ## EdEon
+ - [https://edeon.sonoma.edu](https://edeon.sonoma.edu)
+ - date_published: 2024-07-14T04:05:09.893515+00:00
+
+ ## Policies at Sonoma State University
+ - [https://policies.sonoma.edu](https://policies.sonoma.edu)
+ - date_published: 2024-07-14T04:04:58+00:00
+
+ ## Sonoma State University
+ - [https://sonoma.edu](https://sonoma.edu)
+ - date_published: 2024-07-14T03:06:41+00:00
+
+ ## Southern Oregon University Alumni – SOU Alumni
+ - [https://alumni.sou.edu](https://alumni.sou.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Equity, Diversity, and Inclusion at Southern Oregon University
+ - [https://edi.sou.edu](https://edi.sou.edu)
+ - date_published: 2024-07-06T23:12:58.686484+00:00
+
+ ## Events Calendar - Southern Oregon University
+ - [https://events.sou.edu](https://events.sou.edu)
+ - date_published: 2024-07-06T23:13:05.287482+00:00
+
+ ## Giving at Southern Oregon University
+ - [https://giving.sou.edu](https://giving.sou.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Hannon Library | Southern Oregon University
+ - [https://hanlib.sou.edu](https://hanlib.sou.edu)
+ - date_published: 2024-07-04T23:18:24+00:00
+
+ ## Inside.sou.edu
+ - [https://inside.sou.edu](https://inside.sou.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Home | SOU
+ - [https://moodle.sou.edu](https://moodle.sou.edu)
+ - date_published: 2024-07-06T23:13:32+00:00
+
+ ## SOU News Home - SOU News
+ - [https://news.sou.edu](https://news.sou.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Oregon Center for the Arts at Southern Oregon University
+ - [https://oca.sou.edu](https://oca.sou.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Southern Oregon University Parking Services
+ - [https://parking.sou.edu](https://parking.sou.edu)
+ - date_published: 2024-07-06T23:13:21.556426+00:00
+
+ ## Social Justice and Equity Center at Southern Oregon University
+ - [https://socialjustice.sou.edu](https://socialjustice.sou.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## index
+ - [https://ssb-prod.ec.sou.edu](https://ssb-prod.ec.sou.edu)
+ - date_published: 2015-04-21T23:22:51+00:00
+
+ ## SOU IT and Service Center Help Desk
+ - [https://support.sou.edu](https://support.sou.edu)
+ - date_published: 2024-07-06T23:12:53.867215+00:00
+
+ ## Southern Oregon University - Challenge Accepted
+ - [https://sou.edu](https://sou.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Admissions | Southern Connecticut State University
+ - [https://apply.southernct.edu](https://apply.southernct.edu)
+ - date_published: 2024-07-13T19:21:20+00:00
+
+ ## Apparel, Gifts & Textbooks | Southern Connecticut State University Bookstore
+ - [http://bookstore.southernct.edu](http://bookstore.southernct.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Calendar | Southern Connecticut State University
+ - [http://calendar.southernct.edu](http://calendar.southernct.edu)
+ - date_published: 2024-07-11T14:16:12+00:00
+
+ ## Community Alliance for Research & Engagement
+ - [http://care.southernct.edu](http://care.southernct.edu)
+ - date_published: 2024-07-15T11:30:32.192374+00:00
+
+ ## Academic Catalogs and Maps
+ - [http://catalog.southernct.edu](http://catalog.southernct.edu)
+ - date_published: 2024-07-15T11:31:37.643661+00:00
+
+ ## Joe Fields' Homepage
+ - [https://giam.southernct.edu](https://giam.southernct.edu)
+ - date_published: 2024-01-08T19:10:17+00:00
+ - tags: ['personal']
+
+ ## Southern Connecticut State University
+ - [https://go.southernct.edu](https://go.southernct.edu)
+ - date_published: 2015-01-16T19:23:11+00:00
+
+ ## School of Graduate and Professional Studies
+ - [https://grad.southernct.edu](https://grad.southernct.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Hoot Loot - Southern Connecticut State University
+ - [https://hootloot.southernct.edu](https://hootloot.southernct.edu)
+ - date_published: 2024-07-15T11:31:42.015354+00:00
+
+ ## Conferences and Events at SCSU
+ - [https://hostevents.southernct.edu](https://hostevents.southernct.edu)
+ - date_published: 2023-02-28T00:00:00+00:00
+
+ ## Home
+ - [https://ijscc.southernct.edu](https://ijscc.southernct.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Inside Southern | Southern Connecticut State University
+ - [https://inside.southernct.edu](https://inside.southernct.edu)
+ - date_published: 2024-05-12T06:09:14.083361+00:00
+
+ ## SCSU Hilton C. Buley Library: Homepage: Getting started
+ - [https://libguides.southernct.edu](https://libguides.southernct.edu)
+ - date_published: 2024-07-15T11:31:05.254321+00:00
+
+ ## SCSU Hilton C. Buley Library: Homepage: Getting started
+ - [http://library.southernct.edu](http://library.southernct.edu)
+ - date_published: 2024-07-15T11:31:09.582016+00:00
+
+ ## My Apps
+ - [https://login.southernct.edu](https://login.southernct.edu)
+ - date_published: 2024-06-27T17:07:02+00:00
+
+ ## Home - News at Southern
+ - [http://news.southernct.edu](http://news.southernct.edu)
+ - date_published: 2024-07-15T11:31:40.197394+00:00
+
+ ## - OwlConnect @ SCSU
+ - [https://owlconnect.southernct.edu](https://owlconnect.southernct.edu)
+ - date_published: 2024-05-12T06:09:21.379951+00:00
+
+ ## SCSU Recreation & Fitness
+ - [https://recfit.southernct.edu](https://recfit.southernct.edu)
+ - date_published: 2024-07-15T11:30:45.791649+00:00
+
+ ## Division of Diversity, Equity and Inclusion | Southern Connecticut State University
+ - [https://socialjustice.southernct.edu](https://socialjustice.southernct.edu)
+ - date_published: 2024-07-13T19:22:22+00:00
+
+ ## Southern Connecticut State University
+ - [https://southernct.edu](https://southernct.edu)
+ - date_published: 2024-07-13T19:14:10+00:00
+
+ ## Sign in to Outlook
+ - [https://webmail.southernct.edu](https://webmail.southernct.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## The Big Tent
+ - [https://bigtent.southwestern.edu](https://bigtent.southwestern.edu)
+ - date_published: 2024-06-30T01:13:40.700377+00:00
+
+ ## Spelman College
+ - [https://www.spelman.edu](https://www.spelman.edu)
+ - date_published: 2024-06-15T05:15:46.255177+00:00
+
+ ## Slippery Rock University of Pennsylvania
+ - [http://www.sru.edu](http://www.sru.edu)
+ - date_published: 2024-06-28T14:19:22.128064+00:00
+
+ ## International Conference on 3D Vision 2016
+ - [http://3dv.stanford.edu](http://3dv.stanford.edu)
+ - date_published: 2016-11-01T20:52:34+00:00
+
+ ## Aeronautics and Astronautics
+ - [https://aa.stanford.edu](https://aa.stanford.edu)
+ - date_published: 2024-06-27T17:21:03+00:00
+
+ ## Stanford Accelerator for Learning
+ - [https://acceleratelearning.stanford.edu](https://acceleratelearning.stanford.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Stanford Accounts
+ - [https://accounts.stanford.edu](https://accounts.stanford.edu)
+ - date_published: 2024-06-16T08:14:25.565273+00:00
+
+ ## Activity Inequality
+ - [http://activityinequality.stanford.edu](http://activityinequality.stanford.edu)
+ - date_published: 2024-07-02T13:34:48.597377+00:00
+
+ ## Administrative Guide
+ - [https://adminguide.stanford.edu](https://adminguide.stanford.edu)
+ - date_published: 2024-05-07T20:25:07.492650+00:00
+
+ ## Undergraduate Admission : Stanford University
+ - [https://admission.stanford.edu](https://admission.stanford.edu)
+ - date_published: 2024-05-07T20:31:08.669167+00:00
+
+ ## Academic Advising
+ - [http://advising.sites.stanford.edu](http://advising.sites.stanford.edu)
+ - date_published: 2024-06-24T16:00:43+00:00
+
+ ## One Hundred Year Study on Artificial Intelligence (AI100)
+ - [https://ai100.stanford.edu](https://ai100.stanford.edu)
+ - date_published: 2024-07-24T03:18:12.149519+00:00
+
+ ## Partnership in AI-Assisted Care
+ - [https://aicare.stanford.edu](https://aicare.stanford.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Artificial Intelligence Index
+ - [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
+ - date_published: 2023-10-25T18:58:07.854720+00:00
+
+ ## Stanford Artificial Intelligence Laboratory
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date_published: 2023-10-25T18:58:06.440600+00:00
+
+ ## Office of Substance Use Programs Education & Resources (SUPER)
+ - [https://alcohol.stanford.edu](https://alcohol.stanford.edu)
+ - date_published: 2024-06-26T21:26:40+00:00
+
+ ## Welcome to the Stanford Alumni Association
+ - [https://alumni.stanford.edu](https://alumni.stanford.edu)
+ - date_published: 2024-05-07T20:31:05.422665+00:00
+
+ ## AMELIE (Automatic Mendelian Literature Evaluation)
+ - [https://amelie.stanford.edu](https://amelie.stanford.edu)
+ - date_published: 2021-06-29T20:11:39+00:00
+
+ ## Anderson Collection at Stanford University
+ - [http://anderson.stanford.edu](http://anderson.stanford.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
  ## Approaching Stanford
  - [https://approaching.stanford.edu](https://approaching.stanford.edu)
  - date_published: 2024-05-20T21:49:05+00:00
@@ -3627,389 +4012,4 @@
  ## University of Alabama - Online and Distance Degrees - UA Online
  - [http://bamabydistance.ua.edu](http://bamabydistance.ua.edu)
  - date_published: 2024-07-01T21:49:09.767019+00:00
-
- ## Events Calendar
- - [https://calendar.ua.edu](https://calendar.ua.edu)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Careers at University of Alabama
- - [https://careers.ua.edu](https://careers.ua.edu)
- - date_published: 2024-07-01T21:51:30.412077+00:00
-
- ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
- - [https://catalogs.ua.edu](https://catalogs.ua.edu)
- - date_published: 2024-05-07T20:40:08.577119+00:00
-
- ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
- - [https://catalog.ua.edu](https://catalog.ua.edu)
- - date_published: 2024-05-07T20:40:54.119330+00:00
-
- ## College of Community Health Sciences –  | The University of Alabama
- - [http://cchs.ua.edu](http://cchs.ua.edu)
- - date_published: 2024-07-01T21:49:25.264140+00:00
-
- ## College of Communication & Information Sciences – Create Your Story
- - [http://cis.ua.edu](http://cis.ua.edu)
- - date_published: 2024-07-01T21:49:41.158573+00:00
-
- ## Center for Instructional Technology – Center for Instructional Technology | The University of Alabama
- - [https://cit.ua.edu](https://cit.ua.edu)
- - date_published: 2024-07-01T22:03:05.672470+00:00
-
- ## Community Affairs – Engaging Communities, Changing Lives | The University of Alabama
- - [http://communityaffairs.ua.edu](http://communityaffairs.ua.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Compliance and Risk Services - Compliance and Risk Services
- - [https://complianceandriskservices.ua.edu](https://complianceandriskservices.ua.edu)
- - date_published: 2024-07-01T21:55:33.886164+00:00
-
- ## Compliance, Ethics, and Regulatory Affairs – Compliance website | The University of Alabama
- - [https://compliance.ua.edu](https://compliance.ua.edu)
- - date_published: 2024-05-07T20:40:52.548818+00:00
-
- ## Office of Teaching Innovation and Digital Education
- - [http://continuingstudies.ua.edu](http://continuingstudies.ua.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [https://crimsonhistorical.ua.edu](https://crimsonhistorical.ua.edu)
- - date_published: 2024-02-08T18:16:42.939005+00:00
-
- ## The University of Alabama | Crowdfunding
- - [https://crowdfunding.ua.edu](https://crowdfunding.ua.edu)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## The Culverhouse College of Business – The University of Alabamas Culverhouse College of Business | The University of Alabama
- - [http://culverhouse.ua.edu](http://culverhouse.ua.edu)
- - date_published: 2024-07-01T21:50:18.856382+00:00
-
- ## CAS - Central Authentication Service
- - [https://degreeworks.ua.edu](https://degreeworks.ua.edu)
- - date_published: 2024-05-07T20:40:25.349326+00:00
-
- ## Diversity – Diversity Equity and Inclusion | The University of Alabama
- - [https://diversity.ua.edu](https://diversity.ua.edu)
- - date_published: 2024-07-01T21:49:58.151527+00:00
-
- ## Electrical and Computer Engineering – Just another eng.ua.edu Sites site | The University of Alabama
- - [http://ece.eng.ua.edu](http://ece.eng.ua.edu)
- - date_published: 2024-07-13T11:10:14.705382+00:00
-
- ## College of Education
- - [http://education.ua.edu](http://education.ua.edu)
- - date_published: 2024-07-01T21:49:27.452726+00:00
-
- ## Environmental Health & Safety – Environmental Health & Safety | The University of Alabama
- - [https://ehs.ua.edu](https://ehs.ua.edu)
- - date_published: 2024-07-01T21:50:06.099145+00:00
-
- ## College of Engineering
- - [http://eng.ua.edu](http://eng.ua.edu)
- - date_published: 2024-07-01T21:50:12.515570+00:00
-
- ## eop.ua.edu – Equal Opportunity | The University of Alabama
- - [https://eop.ua.edu](https://eop.ua.edu)
- - date_published: 2024-02-08T22:03:09.704384+00:00
-
- ## Faculty Handbook –  | The University of Alabama
- - [https://facultyhandbook.ua.edu](https://facultyhandbook.ua.edu)
- - date_published: 2024-07-01T21:56:11.933754+00:00
-
- ## Finance and Operations – Division of Finance and Operations
- - [https://financeandoperations.ua.edu](https://financeandoperations.ua.edu)
- - date_published: 2024-07-01T21:54:44.180366+00:00
-
- ## Financial Aid - Afford | The University of Alabama
- - [https://financialaid.ua.edu](https://financialaid.ua.edu)
- - date_published: 2024-07-01T21:53:48.265920+00:00
-
- ## The University of Alabama
- - [https://give.ua.edu](https://give.ua.edu)
- - date_published: 2024-07-01T22:02:49.688001+00:00
-
- ## Advancement  –  | The University of Alabama
- - [https://giving.ua.edu](https://giving.ua.edu)
- - date_published: 2024-05-07T20:41:03.467559+00:00
-
- ## Admissions
- - [https://gobama.ua.edu](https://gobama.ua.edu)
- - date_published: 2024-05-07T20:40:35.865786+00:00
-
- ## Homepage - Graduate School | The University of Alabama
- - [https://graduate.ua.edu](https://graduate.ua.edu)
- - date_published: 2024-05-07T20:40:31.664983+00:00
-
- ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
- - [http://helpdesk.ua.edu](http://helpdesk.ua.edu)
- - date_published: 2024-07-01T21:50:39.709953+00:00
-
- ## honors.ua.edu – Honors College | The University of Alabama
- - [http://honors.ua.edu](http://honors.ua.edu)
- - date_published: 2024-07-01T21:50:00.737661+00:00
-
- ## Human Resources – The University of Alabama. | The University of Alabama
- - [https://hr.ua.edu](https://hr.ua.edu)
- - date_published: 2024-07-01T21:51:25.750275+00:00
-
- ## Informal Resolution – Informal Resolution | The University of Alabama
- - [https://informalresolution.ua.edu](https://informalresolution.ua.edu)
- - date_published: 2024-05-07T20:40:56.021566+00:00
-
- ## Careers at University of Alabama
- - [https://jobs.ua.edu](https://jobs.ua.edu)
- - date_published: 2024-05-07T20:40:27.590554+00:00
-
- ## Where Legends are Made
- - [https://legends.ua.edu](https://legends.ua.edu)
- - date_published: 2023-10-17T18:53:12+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://museums.ua.edu](http://museums.ua.edu)
- - date_published: 2024-07-01T21:50:14.819129+00:00
-
- ## CAS - Central Authentication Service
- - [https://mybama.ua.edu](https://mybama.ua.edu)
- - date_published: 2024-05-07T20:41:00.894020+00:00
-
- ## UA News Center
- - [https://news.ua.edu](https://news.ua.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Capstone College of Nursing – The University of Alabama –  | The University of Alabama
- - [http://nursing.ua.edu](http://nursing.ua.edu)
- - date_published: 2024-07-01T21:49:45.177576+00:00
-
- ## Homepage - Office of Disability Services | The University of Alabama
- - [http://ods.ua.edu](http://ods.ua.edu)
- - date_published: 2024-07-01T22:03:02.873835+00:00
-
- ## Home UA | Office of Institutional Effectiveness
- - [https://oie.ua.edu](https://oie.ua.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
- - [http://oit.ua.edu](http://oit.ua.edu)
- - date_published: 2024-07-01T21:50:21.515616+00:00
-
- ## University of Alabama - Online and Distance Degrees - UA Online
- - [https://online.ua.edu](https://online.ua.edu)
- - date_published: 2024-07-01T21:54:49.791925+00:00
-
- ## Homepage - Orientation | The University of Alabama
- - [https://orientation.ua.edu](https://orientation.ua.edu)
- - date_published: 2024-07-01T21:54:15.693553+00:00
-
- ## Research & Economic Development
- - [http://ovpred.ua.edu](http://ovpred.ua.edu)
- - date_published: 2024-07-01T21:54:00.402086+00:00
-
- ## The University of Alabama Planned Giving :: Planned Giving
- - [https://plannedgiving.ua.edu](https://plannedgiving.ua.edu)
- - date_published: 2024-07-01T22:02:59.934492+00:00
-
- ## The University of Alabama Police – The University of Alabama Police | The University of Alabama
- - [http://police.ua.edu](http://police.ua.edu)
- - date_published: 2024-07-01T21:49:29.761824+00:00
-
- ## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
- - [http://prepare.ua.edu](http://prepare.ua.edu)
- - date_published: 2024-05-07T20:40:22.428032+00:00
-
- ## Office of the President –  | The University of Alabama
- - [http://president.ua.edu](http://president.ua.edu)
- - date_published: 2024-07-01T21:49:06.136552+00:00
-
- ## Homepage - Office for Academic Affairs | The University of Alabama
- - [http://provost.ua.edu](http://provost.ua.edu)
- - date_published: 2024-07-01T21:50:02.723408+00:00
-
- ## UA Commencement
- - [http://pubs.ua.edu](http://pubs.ua.edu)
- - date_published: 2024-07-01T21:54:11.004065+00:00
-
- ## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
- - [http://ready.ua.edu](http://ready.ua.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## The Office of the University Registrar – The University of Alabama – Information about areas managed by the Office of the University Registrar at the University of Alabama | The University of Alabama
- - [https://registrar.ua.edu](https://registrar.ua.edu)
- - date_published: 2024-05-07T20:40:12.489693+00:00
-
- ## Research & Economic Development
- - [https://research.ua.edu](https://research.ua.edu)
- - date_published: 2024-07-01T21:50:30.435065+00:00
-
- ## The Rising Tide 2.0 – The Rising Tide 2.0
- - [https://risingtide.ua.edu](https://risingtide.ua.edu)
- - date_published: 2024-07-01T21:54:52.177945+00:00
-
- ## Risk Management –  | The University of Alabama
- - [https://riskmanagement.ua.edu](https://riskmanagement.ua.edu)
- - date_published: 2024-07-01T21:55:36.737529+00:00
-
- ## Home - Division of Student Life | The University of Alabama
- - [http://sa.ua.edu](http://sa.ua.edu)
- - date_published: 2024-07-01T21:50:24.988709+00:00
-
- ## Scholarships - Afford | The University of Alabama
- - [https://scholarships.ua.edu](https://scholarships.ua.edu)
- - date_published: 2024-07-01T21:54:17.286512+00:00
-
- ## Homepage - Graduate School | The University of Alabama
- - [https://slate.ua.edu](https://slate.ua.edu)
- - date_published: 2024-07-01T21:53:30.755926+00:00
-
- ## School of Social Work – School of Social Work
- - [http://socialwork.ua.edu](http://socialwork.ua.edu)
- - date_published: 2024-07-01T21:49:38.657664+00:00
-
- ## STCWPMS02
- - [https://stcwpms02.ua.edu](https://stcwpms02.ua.edu)
- - date_published: 2024-07-01T21:54:03.095930+00:00
-
- ## Strategic Communications Homepage - Division of Strategic Communications | The University of Alabama
- - [https://stratcomm.ua.edu](https://stratcomm.ua.edu)
- - date_published: 2024-06-29T23:44:57.391700+00:00
-
- ## Strategic Communications Homepage - Division of Strategic Communications | The University of Alabama
- - [http://strategiccommunications.ua.edu](http://strategiccommunications.ua.edu)
- - date_published: 2024-07-01T21:49:31.628615+00:00
-
- ## Home - Student Involvement
- - [https://studentinvolvement.sa.ua.edu](https://studentinvolvement.sa.ua.edu)
- - date_published: 2024-07-01T21:54:47.846005+00:00
-
- ## Behavioral Threat Assessment –  | The University of Alabama
- - [http://threatassessment.ua.edu](http://threatassessment.ua.edu)
- - date_published: 2024-07-01T21:50:09.550298+00:00
-
- ## Title IX – Title IX | The University of Alabama
- - [https://titleix.ua.edu](https://titleix.ua.edu)
- - date_published: 2024-07-01T21:56:15.123831+00:00
-
- ## The University of Alabama
- - [https://ua.edu](https://ua.edu)
- - date_published: 2024-05-07T20:40:49.958248+00:00
-
- ## uastudentjobs.ua.edu – Find Your Student Job | The University of Alabama
- - [http://uastudentjobs.ua.edu](http://uastudentjobs.ua.edu)
- - date_published: 2024-07-01T21:51:28.329863+00:00
-
- ## University of Alabama System
- - [http://uasystem.ua.edu](http://uasystem.ua.edu)
- - date_published: 2024-07-01T21:54:06+00:00
-
- ## Visit
- - [https://visit.ua.edu](https://visit.ua.edu)
- - date_published: 2024-06-29T23:50:09.907759+00:00
-
- ## worklife.ua.edu – Supporting faculty & staff with resources to be productive, successful, and satisfied. | The University of Alabama
- - [https://worklife.ua.edu](https://worklife.ua.edu)
- - date_published: 2024-07-01T21:52:05.168560+00:00
-
- ## College of Human Environmental Sciences - College of Human Environmental Sciences | The University of Alabama
- - [http://www.ches.ua.edu](http://www.ches.ua.edu)
- - date_published: 2024-07-01T21:50:27.604181+00:00
-
- ## University of Alabama School of Law
- - [https://www.law.ua.edu](https://www.law.ua.edu)
- - date_published: 2010-06-16T22:16:08+00:00
-
- ## The University of Alabama Libraries – Research and Information Services for the University of Alabama
- - [http://www.lib.ua.edu](http://www.lib.ua.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
- - [http://www.math.ua.edu](http://www.math.ua.edu)
- - date_published: 2024-07-13T11:10:10.873667+00:00
-
- ## Service Portal - UAB Service Portal
- - [https://askit.uab.edu](https://askit.uab.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## UAB Events Calendar | The University of Alabama at Birmingham
- - [https://calendar.uab.edu](https://calendar.uab.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## University of Alabama at Birmingham < Catalog | The University of Alabama at Birmingham
- - [https://catalog.uab.edu](https://catalog.uab.edu)
- - date_published: 2024-05-11T07:33:05.955583+00:00
-
- ## UAB Digital Commons
- - [https://digitalcommons.library.uab.edu](https://digitalcommons.library.uab.edu)
- - date_published: 2024-07-04T13:15:35.507143+00:00
-
- ## GoLink and UTM Generator - Toolkit
- - [https://go.uab.edu](https://go.uab.edu)
- - date_published: 2024-05-11T07:33:02.111033+00:00
-
- ## Research Guides: Research Guides: Home
- - [http://guides.library.uab.edu](http://guides.library.uab.edu)
- - date_published: 2024-07-13T13:07:01.871047+00:00
-
- ## UAB Libraries Events -
-        UAB Libraries
- - [https://libcal.library.uab.edu](https://libcal.library.uab.edu)
- - date_published: 2024-07-13T13:06:59.042641+00:00
-
- ## Home - Libraries
- - [https://library.uab.edu](https://library.uab.edu)
- - date_published: 2024-05-11T07:32:26.037982+00:00
-
- ## UAB Central Authentication System - CAS – Central Authentication Service
- - [https://mail.uab.edu](https://mail.uab.edu)
- - date_published: 2024-05-11T07:32:51.308294+00:00
-
- ## UAB Portal
- - [https://my.uab.edu](https://my.uab.edu)
- - date_published: 2024-05-11T07:32:39.560867+00:00
-
- ## Welcome!
- - [https://padlock.idm.uab.edu](https://padlock.idm.uab.edu)
- - date_published: 2019-05-10T18:40:57+00:00
-
- ## Professional Studies Non-Credit Courses at University of Alabama at Birmingham UAB
- - [https://prostudies.uab.edu](https://prostudies.uab.edu)
- - date_published: 2024-07-13T13:08:13.121347+00:00
-
- ## The University of Alabama at Birmingham | UAB
- - [https://uab.edu](https://uab.edu)
- - date_published: 2024-03-17T17:11:05.424790+00:00
-
- ## Welcome < University of Alaska Fairbanks
- - [https://catalog.uaf.edu](https://catalog.uaf.edu)
- - date_published: 2024-05-07T20:41:56.595731+00:00
-
- ## UAF Center for Teaching and Learning – Teaching and Learning Resources at UAF CTL
- - [https://ctl.uaf.edu](https://ctl.uaf.edu)
- - date_published: 2024-07-01T22:04:30.777890+00:00
-
- ## UAF eCampus | Distance Education, Online Degree Programs
- - [https://ecampus.uaf.edu](https://ecampus.uaf.edu)
- - date_published: 2024-05-07T20:41:59.600170+00:00
-
- ## INE University of Alaska Fairbanks
- - [http://ine.uaf.edu](http://ine.uaf.edu)
- - date_published: 2024-07-20T20:57:06.332261+00:00
-
- ## UAF Center for Teaching and Learning – Teaching and Learning Resources at UAF CTL
- - [https://iteachu.uaf.edu](https://iteachu.uaf.edu)
- - date_published: 2024-07-01T22:04:28.514270+00:00
-
- ## How Do I ..... - How Do I .....
- - [https://libanswers.library.uaf.edu](https://libanswers.library.uaf.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Guides: Elmer E. Rasmuson Library: Home
- - [https://library.uaf.edu](https://library.uaf.edu)
- - date_published: 2024-05-07T20:42:02.630962+00:00
-
- ## Home | UAF news and information
- - [http://news.uaf.edu](http://news.uaf.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UAF North – Alaska's Community Learning Catalog
- - [https://north.open.uaf.edu](https://north.open.uaf.edu)
- - date_published: 2024-07-01T22:04:21.412952+00:00
 

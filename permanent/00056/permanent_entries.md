@@ -1,3 +1,89 @@
+ ## Simple Analytics
+ - [https://sa.dafacto.com](https://sa.dafacto.com)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Department of the Air Force Child and Youth Programs |
+ - [https://www.dafchildandyouth.com](https://www.dafchildandyouth.com)
+ - date_published: 2024-07-03T13:51:09.769164+00:00
+
+ ## DaFluffyPotato
+ - [https://dafluffypotato.com](https://dafluffypotato.com)
+ - date_published: 2024-05-04T16:00:44.809334+00:00
+
+ ## DaFont - Download fonts
+ - [https://dafont.com](https://dafont.com)
+ - date_published: 2024-06-22T09:07:47.435749+00:00
+
+ ## Daft Punk
+ - [https://daftpunk.com](https://daftpunk.com)
+ - date_published: 2024-03-29T17:22:31+00:00
+ - tags: ['music band']
+
+ ## Daft Social
+ - [https://daftsocial.com](https://daftsocial.com)
+ - date_published: 2024-05-09T06:17:15.738239+00:00
+
+ ## Home
+ - [https://app.dafwidget.com](https://app.dafwidget.com)
+ - date_published: 2024-07-08T09:00:02.083248+00:00
+
+ ## Dagens.com - Today's news and entertainment
+ - [https://www.dagens.com](https://www.dagens.com)
+ - date_published: 2023-11-20T21:14:16.632281+00:00
+
+ - [https://dagfrode.com](https://dagfrode.com)
+ - date_published: 2024-04-03T06:30:56.035786+00:00
+ - tags: ['personal']
+
+ ## DaGGaSoft
+ - [http://daggasoft.com](http://daggasoft.com)
+ - date_published: 2018-02-24T01:29:57+00:00
+
+ ## DaggerMag
+ - [http://daggermag.com](http://daggermag.com)
+ - date_published: 2019-10-21T04:40:29+00:00
+
+ ## UX/VR Developer and PC Enthusiast
+ - [https://daginatsuko.com](https://daginatsuko.com)
+ - date_published: 2024-06-27T10:39:26.828081+00:00
+
+ ## D'Agostino's Deli
+ - [http://www.dagostinos-deli.com](http://www.dagostinos-deli.com)
+ - date_published: 2024-07-13T10:54:38.974598+00:00
+
+ ## DagsHub: The Home for Machine Learning Collaboration
+ - [https://dagshub.com](https://dagshub.com)
+ - date_published: 2024-05-04T09:14:31.896817+00:00
+
+ ## Every Fucking Bootstrap Website Ever
+ - [https://dagusa.com](https://dagusa.com)
+ - date_published: 2014-05-02T00:00:00+00:00
+ - tags: ['wtf', 'funny']
+
+ ## Daigo Studio
+ - [https://daigostudio.com](https://daigostudio.com)
+ - date_published: 2020-03-31T06:28:56+00:00
+
+ ## Adventure On The Water | Daiichi® Hooks
+ - [https://www.daiichifishing.com](https://www.daiichifishing.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Daikaya Home
+ - [http://daikaya.com](http://daikaya.com)
+ - date_published: 2024-07-10T11:04:14.362275+00:00
+
+ ## DailyAI | Exploring the World of Artificial Intelligence
+ - [https://dailyai.com](https://dailyai.com)
+ - date_published: 2023-12-06T19:47:31.408770+00:00
+
+ ## Daily American Online: Local News, Politics & Sports in Somerset, PA
+ - [https://www.dailyamerican.com](https://www.dailyamerican.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Daily Bailey AI
+ - [https://www.dailybaileyai.com](https://www.dailybaileyai.com)
+ - date_published: 2024-07-12T15:43:48.022282+00:00
+
  ## Home - Daily Bayonet
  - [http://dailybayonet.com](http://dailybayonet.com)
  - date_published: 2024-03-07T00:00:00+00:00
@@ -3988,88 +4074,4 @@
  ## David Schiesser
  - [http://davidschiesser.com](http://davidschiesser.com)
  - date_published: 2024-07-13T15:59:34.752718+00:00
-
- ## David Krueger
- - [https://www.davidscottkrueger.com](https://www.davidscottkrueger.com)
- - date_published: 2024-06-21T19:04:22+00:00
-
- ## DSri Seah – Investigative Designer
- - [https://davidseah.com](https://davidseah.com)
- - date_published: 2023-10-25T13:45:51.877615+00:00
-
- ## Tech Insights and Tips by an Amazon Senior Software Engineer
- - [https://www.davidseek.com](https://www.davidseek.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## The Audacity of Despair
- - [https://davidsimon.com](https://davidsimon.com)
- - date_published: 2024-01-22T18:54:05.441303+00:00
-
- ## David's Log
- - [https://www.davidslog.com](https://www.davidslog.com)
- - date_published: 2024-06-15T18:28:09.385676+00:00
-
- ## Home - David Stockman's Contra Corner
- - [https://www.davidstockmanscontracorner.com](https://www.davidstockmanscontracorner.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## David Terei
- - [http://blog.davidterei.com](http://blog.davidterei.com)
- - date_published: 2024-02-08T15:09:46+00:00
-
- ## David Clark Develops the Web
- - [https://davidtheclark.com](https://davidtheclark.com)
- - date_published: 2016-07-10T00:00:00+00:00
-
- ## David Thunder's Website | Free-spirited scholar and journalist
- - [http://www.davidthunder.com](http://www.davidthunder.com)
- - date_published: 2024-07-13T11:11:34.635624+00:00
-
- ## Dev Notes – David Truxall
- - [https://davidtruxall.com](https://davidtruxall.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## David van Dartel
- - [https://davidvandartel.com](https://davidvandartel.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## davidviner.com: Home
- - [https://www.davidviner.com](https://www.davidviner.com)
- - date_published: 2024-06-20T08:15:38.377255+00:00
-
- ## David's Technobabble Blog - A blog about everything tech (and not)...
- - [https://davidvonthenen.com](https://davidvonthenen.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## David Wake – Author
- - [http://www.davidwake.com](http://www.davidwake.com)
- - date_published: 2024-07-04T14:03:02.425949+00:00
-
- ## David Walbert
- - [https://social.davidwalbert.com](https://social.davidwalbert.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Essays in Idleness
- - [http://www.davidwarrenonline.com](http://www.davidwarrenonline.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [http://davidwhitehouse.com](http://davidwhitehouse.com)
- - date_published: 2024-06-15T04:16:51.072328+00:00
-
- ## David Whyte
- - [https://davidwhyte.com](https://davidwhyte.com)
- - date_published: 2024-05-08T03:04:07.590172+00:00
-
- ## David Windham
- - [https://davidwindham.com](https://davidwindham.com)
- - date_published: 2024-01-09T15:48:22+00:00
-
- ## David Wipf
- - [http://www.davidwipf.com](http://www.davidwipf.com)
- - date_published: 2024-06-22T09:46:38.959658+00:00
-
- ## david wolfpaw – digital citizen
- - [https://davidwolfpaw.com](https://davidwolfpaw.com)
- - date_published: 2024-01-08T07:26:59.799541+00:00
 

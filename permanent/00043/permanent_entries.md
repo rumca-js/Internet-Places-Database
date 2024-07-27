@@ -1,3 +1,67 @@
+ ## tales of an ordinary girl
+ - [http://talesofordinarygirl.blogspot.com](http://talesofordinarygirl.blogspot.com)
+ - date_published: 2024-03-07T04:39:07+00:00
+
+ ## Tales of the Grotesque and Dungeonesque
+ - [http://talesofthegrotesqueanddungeonesque.blogspot.com](http://talesofthegrotesqueanddungeonesque.blogspot.com)
+ - date_published: 2024-07-15T02:25:39+00:00
+
+ ## Talking Alaska
+ - [http://talkingalaska.blogspot.com](http://talkingalaska.blogspot.com)
+ - date_published: 2024-05-21T18:08:15+00:00
+
+ ## Talking Brains
+ - [https://talkingbrains.blogspot.com](https://talkingbrains.blogspot.com)
+ - date_published: 2024-05-07T21:57:31.892235+00:00
+
+ ## talkingdream
+ - [http://talkingdream.blogspot.com](http://talkingdream.blogspot.com)
+ - date_published: 2024-03-23T17:46:59+00:00
+
+ ## Talkov Law
+ - [https://talkovlaw.blogspot.com](https://talkovlaw.blogspot.com)
+ - date_published: 2023-11-15T18:16:42+00:00
+
+ ## TalkToYoUniverse
+ - [https://talktoyouniverse.blogspot.com](https://talktoyouniverse.blogspot.com)
+ - date_published: 2024-05-08T06:36:19.071903+00:00
+
+ ## Talk Wisdom
+ - [http://talkwisdom.blogspot.com](http://talkwisdom.blogspot.com)
+ - date_published: 2024-04-25T11:06:41+00:00
+
+ ## No-one doesn't say it
+ - [http://tampaui.blogspot.com](http://tampaui.blogspot.com)
+ - date_published: 2024-03-08T09:55:38+00:00
+
+ ## Tanner and Lora's Blog
+ - [http://tanandlora.blogspot.com](http://tanandlora.blogspot.com)
+ - date_published: 2024-03-19T23:17:43+00:00
+
+ ## The Tangreen Family
+ - [http://tangreenfamily.blogspot.com](http://tangreenfamily.blogspot.com)
+ - date_published: 2024-07-04T06:11:28+00:00
+
+ ## The Typography
+ - [http://tankan-upkaran.blogspot.com](http://tankan-upkaran.blogspot.com)
+ - date_published: 2024-03-13T23:35:20+00:00
+
+ ## Tankards & Broadswords
+ - [http://tankardsandbroadswords.blogspot.com](http://tankardsandbroadswords.blogspot.com)
+ - date_published: 2024-03-22T04:47:53+00:00
+
+ ## Couture et Tricot
+ - [https://tanysewsandknits.blogspot.com](https://tanysewsandknits.blogspot.com)
+ - date_published: 2023-02-12T00:00:00+00:00
+
+ ## Tapestry Central
+ - [http://tapestryjava.blogspot.com](http://tapestryjava.blogspot.com)
+ - date_published: 2024-05-28T18:18:40+00:00
+
+ ## Blogger
+ - [http://tarqis.blogspot.com](http://tarqis.blogspot.com)
+ - date_published: 2024-07-15T09:30:53.076343+00:00
+
  ## The Man Cave
  - [http://tasmancave.blogspot.com](http://tasmancave.blogspot.com)
  - date_published: 2024-06-29T21:19:03+00:00
@@ -3952,68 +4016,4 @@
  ## Mixtape Marathon
  - [http://www.mixtapemarathon.blogspot.com](http://www.mixtapemarathon.blogspot.com)
  - date_published: 2003-02-02T00:00:00+00:00
-
- ## Critical Montages
- - [http://www.montages.blogspot.com](http://www.montages.blogspot.com)
- - date_published: 2024-04-19T13:03:23+00:00
-
- ## Morbid Anatomy
- - [http://www.morbidanatomy.blogspot.com](http://www.morbidanatomy.blogspot.com)
- - date_published: 2024-06-14T01:33:26+00:00
-
- ## Mr Happy Blog User
- - [http://www.mrblawggie.blogspot.com](http://www.mrblawggie.blogspot.com)
- - date_published: 2024-03-13T10:56:13+00:00
-
- ## Kitty Litter
- - [http://www.myerskatt.blogspot.com](http://www.myerskatt.blogspot.com)
- - date_published: 2024-03-05T22:55:34+00:00
-
- ## My Lego Talk
- - [http://www.mylegotalk.blogspot.com](http://www.mylegotalk.blogspot.com)
- - date_published: 2024-04-23T09:59:40+00:00
-
- ## nanoed
- - [http://www.nanoed.blogspot.com](http://www.nanoed.blogspot.com)
- - date_published: 2024-01-19T06:14:27+00:00
-
- ## Navi and Stuff
- - [http://www.naviandstuff.blogspot.com](http://www.naviandstuff.blogspot.com)
- - date_published: 2024-03-08T08:41:03+00:00
-
- ## An NC Gun Blog
- - [http://www.ncguns.blogspot.com](http://www.ncguns.blogspot.com)
- - date_published: 2024-03-19T10:34:33+00:00
-
- ## "Dibujando Tarde"
- - [http://www.nicolarts.blogspot.com](http://www.nicolarts.blogspot.com)
- - date_published: 2024-07-13T10:14:19+00:00
-
- ## Obscura Antiques & Oddities
- - [http://www.obscuraantiques.blogspot.com](http://www.obscuraantiques.blogspot.com)
- - date_published: 2024-05-09T13:21:03+00:00
-
- ## Odious and Peculiar
- - [http://www.odiousandpeculiar.blogspot.com](http://www.odiousandpeculiar.blogspot.com)
- - date_published: 2024-05-15T23:33:33+00:00
-
- ## Tooned Out
- - [https://onlinegameaddict.blogspot.com](https://onlinegameaddict.blogspot.com)
- - date_published: 2024-03-07T23:53:02+00:00
-
- ## ORACULATIONS
- - [http://www.oraculations.blogspot.com](http://www.oraculations.blogspot.com)
- - date_published: 2024-06-19T03:58:01+00:00
-
- ## A Origem das Espécies
- - [http://www.origemdasespecies.blogspot.com](http://www.origemdasespecies.blogspot.com)
- - date_published: 2024-07-11T18:23:52+00:00
-
- ## Blogger
- - [http://www.ourwarefamily2013.blogspot.com](http://www.ourwarefamily2013.blogspot.com)
- - date_published: 2024-07-20T21:15:56.614175+00:00
-
- ## Outside Counsel
- - [http://www.outsidethelaw.blogspot.com](http://www.outsidethelaw.blogspot.com)
- - date_published: 2024-07-10T00:00:00+00:00
 

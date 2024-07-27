@@ -1,3 +1,23 @@
+ ## 国家知识产权-公共服务网
+ - [https://ggfw.cnipa.gov.cn](https://ggfw.cnipa.gov.cn)
+ - date_published: 2024-06-22T12:10:43.322757+00:00
+
+ ## 中国知识产权宣传周
+ - [http://kfr.cnipa.gov.cn](http://kfr.cnipa.gov.cn)
+ - date_published: 2024-04-19T13:12:40+00:00
+
+ ## 国家知识产权局商标局 中国商标网
+ - [https://sbj.cnipa.gov.cn](https://sbj.cnipa.gov.cn)
+ - date_published: 2024-06-24T02:17:19+00:00
+
+ ## 集成电路布图设计电子申请平台
+ - [http://vlsi.cnipa.gov.cn](http://vlsi.cnipa.gov.cn)
+ - date_published: 2024-06-30T15:04:06.627809+00:00
+
+ ## 国家知识产权局
+ - [https://www.cnipa.gov.cn](https://www.cnipa.gov.cn)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## 智能问答平台
  - [https://znwd.cnipa.gov.cn](https://znwd.cnipa.gov.cn)
  - date_published: 2024-01-27T01:23:37+00:00
@@ -3981,24 +4001,4 @@
  ## 淅川县人民政府门户网
  - [http://www.xichuan.gov.cn](http://www.xichuan.gov.cn)
  - date_published: 2024-06-30T22:27:15.908564+00:00
-
- ## 西华县人民政府门户网站
- - [http://www.xihua.gov.cn](http://www.xihua.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 荥阳市人民政府
- - [https://www.xingyang.gov.cn](https://www.xingyang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 新疆维吾尔自治区人民政府外事办公室
- - [https://fao.xinjiang.gov.cn](https://fao.xinjiang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 新疆维吾尔自治区广播电视局
- - [http://gdj.xinjiang.gov.cn](http://gdj.xinjiang.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 新疆维吾尔自治区工业和信息化厅
- - [http://gxt.xinjiang.gov.cn](http://gxt.xinjiang.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
 

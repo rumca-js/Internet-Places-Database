@@ -1,3 +1,19 @@
+ ## ÖNB/AKON Ansichtskarten Online
+ - [https://akon.onb.ac.at](https://akon.onb.ac.at)
+ - date_published: 2024-07-13T11:27:27.881236+00:00
+
+ ## Misc
+ - [http://data.onb.ac.at](http://data.onb.ac.at)
+ - date_published: 2020-01-09T17:01:09+00:00
+
+ ## Wissenschaft und Kunst
+ - [https://w-k.sbg.ac.at](https://w-k.sbg.ac.at)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Weiterleitung
+ - [http://igw.tuwien.ac.at](http://igw.tuwien.ac.at)
+ - date_published: 2022-09-05T15:04:03+00:00
+
  ## Machine Learning 2023 Obergurgl
  - [https://ml23-obergurgl.conf.tuwien.ac.at](https://ml23-obergurgl.conf.tuwien.ac.at)
  - date_published: 2024-07-01T05:48:04.373081+00:00
@@ -4003,20 +4019,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Cash For Cars Adelaide Up to $9,999 & Free Car Removal
  - [https://cash-4-cars.com.au](https://cash-4-cars.com.au)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - CBF
- - [https://cbf.com.au](https://cbf.com.au)
- - date_published: 2024-06-18T06:31:48.486504+00:00
-
- ## Cboe AU Equities Overview
- - [https://www.cboe.com.au](https://www.cboe.com.au)
- - date_published: 2024-06-16T16:41:15+00:00
-
- ## Psychologists Gold Coast & Mt Gravatt | CBT Professionals
- - [https://cbtprofessionals.com.au](https://cbtprofessionals.com.au)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Cbus Super - Making Hard Work Pay off
- - [https://cbussuper.com.au](https://cbussuper.com.au)
- - date_published: 2024-07-08T10:13:18.001948+00:00
 

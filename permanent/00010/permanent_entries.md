@@ -1,3 +1,19 @@
+ ## MeuPlayStation
+ - [https://meups.com.br](https://meups.com.br)
+ - date_published: 2024-06-26T21:57:19.355478+00:00
+
+ ## Minas Faz Ciência
+ - [http://minasfazciencia.com.br](http://minasfazciencia.com.br)
+ - date_published: 2021-03-03T00:00:00+00:00
+
+ ## Minertam | Nutrição Animal
+ - [https://minertam.com.br](https://minertam.com.br)
+ - date_published: 2024-07-17T07:35:30.325010+00:00
+
+ ## Minhas Marés – Navegar é preciso!
+ - [http://minhasmares.com.br](http://minhasmares.com.br)
+ - date_published: 2024-07-12T20:58:16.030480+00:00
+
  ## Pedido Web Moderna
  - [https://loja.moderna.com.br](https://loja.moderna.com.br)
  - date_published: 2024-06-12T13:04:13.082783+00:00
@@ -511,6 +527,10 @@
  ## Sooper
  - [https://www.sooper.com.br](https://www.sooper.com.br)
  - date_published: 2024-06-19T08:24:28.628097+00:00
+
+ ## Jogo Spaceman Bet 👨🏻‍🚀
+ - [https://spaceman-jogo.com.br](https://spaceman-jogo.com.br)
+ - date_published: 2024-07-26T04:59:36.182470+00:00
 
  ## Home
  - [https://spcine.com.br](https://spcine.com.br)
@@ -4002,24 +4022,4 @@
  ## Status | Alliance
  - [https://www.computecanada.ca](https://www.computecanada.ca)
  - date_published: 2022-04-01T00:00:00+00:00
-
- ## Centre for Digital Arts - Concordia University
- - [http://cda.concordia.ca](http://cda.concordia.ca)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Hybrid
- - [https://hybrid.concordia.ca](https://hybrid.concordia.ca)
- - date_published: 2023-10-04T19:59:35+00:00
-
- ## Home - Milieux
- - [http://milieux.concordia.ca](http://milieux.concordia.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## users.encs.concordia.ca
- - [http://users.encs.concordia.ca](http://users.encs.concordia.ca)
- - date_published: 2021-06-26T18:36:09+00:00
-
- ## Concordia University
- - [https://www.concordia.ca](https://www.concordia.ca)
- - date_published: 2023-10-25T11:21:43.402681+00:00
 

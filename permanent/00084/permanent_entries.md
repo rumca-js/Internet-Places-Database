@@ -1,3 +1,127 @@
+ ## Computer
+ - [https://computer.howstuffworks.com](https://computer.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## HowStuffWorks Coupons, Promo Codes and Deals
+ - [https://coupons.howstuffworks.com](https://coupons.howstuffworks.com)
+ - date_published: 2024-05-11T08:04:35.206550+00:00
+
+ ## Electronics
+ - [https://electronics.howstuffworks.com](https://electronics.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Entertainment
+ - [https://entertainment.howstuffworks.com](https://entertainment.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Health
+ - [https://health.howstuffworks.com](https://health.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## History
+ - [https://history.howstuffworks.com](https://history.howstuffworks.com)
+ - date_published: 2008-02-27T08:00:00+00:00
+
+ ## Home & Garden
+ - [https://home.howstuffworks.com](https://home.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Lifestyle
+ - [https://lifestyle.howstuffworks.com](https://lifestyle.howstuffworks.com)
+ - date_published: 2014-02-11T08:00:00+00:00
+
+ ## Money
+ - [https://money.howstuffworks.com](https://money.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## People
+ - [https://people.howstuffworks.com](https://people.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Quizzes and Trivia
+ - [https://play.howstuffworks.com](https://play.howstuffworks.com)
+ - date_published: 2021-04-27T16:51:36+00:00
+
+ ## Food
+ - [https://recipes.howstuffworks.com](https://recipes.howstuffworks.com)
+ - date_published: 2006-09-25T04:00:00+00:00
+
+ ## Science
+ - [https://science.howstuffworks.com](https://science.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## HowStuffWorks - Learn How Everything Works!
+ - [https://s.howstuffworks.com](https://s.howstuffworks.com)
+ - date_published: 2024-05-11T08:04:38.618981+00:00
+
+ ## HowStuffWorks Syndication
+ - [https://syndication.howstuffworks.com](https://syndication.howstuffworks.com)
+ - date_published: 2024-02-25T20:46:33.888170+00:00
+
+ ## HowStuffWorks - Learn How Everything Works!
+ - [https://howstuffworks.com](https://howstuffworks.com)
+ - date_published: 2024-05-11T08:04:33.534172+00:00
+
+ ## Welcome howtheygotthere.com - BlueHost.com
+ - [http://howtheygotthere.com](http://howtheygotthere.com)
+ - date_published: 2024-07-04T16:16:42.951513+00:00
+
+ ## howtheyplay.com
+ - [https://howtheyplay.com](https://howtheyplay.com)
+ - date_published: 2024-06-29T19:20:05.928118+00:00
+
+ ## How to be a Retronaut
+ - [http://www.howtobearetronaut.com](http://www.howtobearetronaut.com)
+ - date_published: 2024-07-15T09:31:41.773710+00:00
+
+ ## Country codes & international area codes - HowtoCallAbroad.com
+ - [https://www.howtocallabroad.com](https://www.howtocallabroad.com)
+ - date_published: 2024-06-26T23:25:00.984014+00:00
+
+ ## How To Code It
+ - [https://www.howtocodeit.com](https://www.howtocodeit.com)
+ - date_published: 2024-07-07T10:33:02.945585+00:00
+
+ ## Cierpliwości...
+ - [http://howtocookeverything.com](http://howtocookeverything.com)
+ - date_published: 2024-05-07T10:26:37.794997+00:00
+
+ ## How to Crack a Nut
+ - [https://www.howtocrackanut.com](https://www.howtocrackanut.com)
+ - date_published: 2024-05-02T09:56:23.113086+00:00
+
+ ## How to Create Apps – Learn web development
+ - [https://howtocreateapps.com](https://howtocreateapps.com)
+ - date_published: 2024-07-02T23:35:33.551813+00:00
+
+ ## How To Disney
+ - [https://howtodisney.com](https://howtodisney.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## HowToDoInJava
+ - [https://howtodoinjava.com](https://howtodoinjava.com)
+ - date_published: 2024-07-02T17:51:40+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.how-to-draw-funny-cartoons.com](http://www.how-to-draw-funny-cartoons.com)
+ - date_published: 2024-06-28T18:28:55.689566+00:00
+
+ ## Learn how to egghead like a pro.
+ - [https://howtoegghead.com](https://howtoegghead.com)
+ - date_published: 2024-05-06T13:05:03.774437+00:00
+
+ ## How to Fight a Hydra – Josh Kaufman
+ - [https://howtofightahydra.com](https://howtofightahydra.com)
+ - date_published: 2024-07-13T09:07:19.593972+00:00
+
+ ## How to Find Someone's Phone Number Online - Find Phone Numbers Worldwide
+ - [http://www.howtofindaphonenumber.com](http://www.howtofindaphonenumber.com)
+ - date_published: 2023-01-13T19:28:41+00:00
+
+ ## Home - How to Find Gold Nuggets
+ - [https://howtofindgoldnuggets.com](https://howtofindgoldnuggets.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## Howtoforge Linux Tutorials.
  - [https://www.howtoforge.com](https://www.howtoforge.com)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -3916,128 +4040,4 @@ Weinberger)
  ## Careers at Delaware North
  - [https://dashboard-delawarenorth.icims.com](https://dashboard-delawarenorth.icims.com)
  - date_published: 2024-07-13T18:03:33.358487+00:00
-
- ## Discovery Careers
- - [https://eurosporthub-discovery.icims.com](https://eurosporthub-discovery.icims.com)
- - date_published: 2024-07-12T15:27:26.517505+00:00
-
- ## The Economist Group - Job search
- - [https://globalcareers-economist.icims.com](https://globalcareers-economist.icims.com)
- - date_published: 2024-07-14T04:02:33.554693+00:00
-
- ## Careers | Human Resources
- - [https://hub-princeton.icims.com](https://hub-princeton.icims.com)
- - date_published: 2024-07-01T17:16:52.208049+00:00
-
- ## Career Opportunities | AMD Careers
- - [https://internal-amd.icims.com](https://internal-amd.icims.com)
- - date_published: 2024-06-30T12:50:05.456043+00:00
-
- ## Rivian Automotive
- - [https://internal-careers-rivian.icims.com](https://internal-careers-rivian.icims.com)
- - date_published: 2024-07-09T17:26:16.547314+00:00
-
- ## MWD
- - [https://internal-mwdh2o.icims.com](https://internal-mwdh2o.icims.com)
- - date_published: 2024-07-08T11:55:31.472117+00:00
-
- ## Paychex Careers
- - [https://internal-paychex.icims.com](https://internal-paychex.icims.com)
- - date_published: 2024-06-28T12:41:12.128014+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://internal-postholdings.icims.com](https://internal-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## The Trustees of Tufts College Careers
- - [https://internal-tuftscareers.icims.com](https://internal-tuftscareers.icims.com)
- - date_published: 2024-07-01T21:39:00.158165+00:00
-
- ## Careers @ Consumer Reports
- - [https://jobs-consumers.icims.com](https://jobs-consumers.icims.com)
- - date_published: 2024-05-11T09:24:26.804857+00:00
-
- ## Jobs (Getty Trust)
- - [https://jobs-getty.icims.com](https://jobs-getty.icims.com)
- - date_published: 2024-04-30T04:20:27.686945+00:00
-
- ## Careers | Human Resources
- - [https://main-princeton.icims.com](https://main-princeton.icims.com)
- - date_published: 2024-07-01T17:16:48.866698+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://michaelfoodshrjobs-postholdings.icims.com](https://michaelfoodshrjobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://michaelfoodssljobs-postholdings.icims.com](https://michaelfoodssljobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://postconsumerbrandscahrjobs-postholdings.icims.com](https://postconsumerbrandscahrjobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://postconsumerbrandscasljobs-postholdings.icims.com](https://postconsumerbrandscasljobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://postconsumerbrandshrjobs-postholdings.icims.com](https://postconsumerbrandshrjobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://postconsumerbrandssljobs-postholdings.icims.com](https://postconsumerbrandssljobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Log in to Post Holdings Inc
- - [https://postholdings.icims.com](https://postholdings.icims.com)
- - date_published: 2024-06-28T19:39:01.549856+00:00
-
- ## Working at Post Holdings, Inc.
- - [https://postholdingsjobs-postholdings.icims.com](https://postholdingsjobs-postholdings.icims.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Work With Us
- - [https://pppl-princeton.icims.com](https://pppl-princeton.icims.com)
- - date_published: 2024-07-01T17:16:53.347545+00:00
-
- ## Premier Nutrition
- - [https://premiernutritionjobs-postholdings.icims.com](https://premiernutritionjobs-postholdings.icims.com)
- - date_published: 2024-06-28T19:38:03.927041+00:00
-
- ## Log in to Princeton University
- - [https://princeton.icims.com](https://princeton.icims.com)
- - date_published: 2024-07-01T17:16:45.345669+00:00
-
- ## Careers | Human Resources
- - [https://research-princeton.icims.com](https://research-princeton.icims.com)
- - date_published: 2024-07-01T17:16:33.119341+00:00
-
- ## Careers | Human Resources
- - [https://service-princeton.icims.com](https://service-princeton.icims.com)
- - date_published: 2024-07-01T17:16:34.487501+00:00
-
- ## Log in to Tufts University
- - [https://tuftscareers.icims.com](https://tuftscareers.icims.com)
- - date_published: 2024-07-01T21:38:57.372986+00:00
-
- ## Beyondsoft Consulting Inc
- - [https://us-careers-beyondsoft.icims.com](https://us-careers-beyondsoft.icims.com)
- - date_published: 2024-06-22T12:27:41.840483+00:00
-
- ## Rivian Automotive
- - [https://us-careers-rivian.icims.com](https://us-careers-rivian.icims.com)
- - date_published: 2024-07-09T17:26:14.631416+00:00
-
- ## Log in to Wilmington plc
- - [https://wilmingtonplc.icims.com](https://wilmingtonplc.icims.com)
- - date_published: 2024-07-04T11:04:20.831701+00:00
-
- ## iCIMS | Recruiting Software Platform & #1 Applicant Tracking System
- - [http://www.icims.com](http://www.icims.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## iCircuit Gallery - Share Electronic Circuit Files using iCircuit
- - [https://gallery.icircuitapp.com](https://gallery.icircuitapp.com)
- - date_published: 2024-05-08T11:50:34.532513+00:00
 

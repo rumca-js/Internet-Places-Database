@@ -1,3 +1,67 @@
+ ## 20011
+ - [https://dc20011.blogspot.com](https://dc20011.blogspot.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Blogger
+ - [http://dclawstudent.blogspot.com](http://dclawstudent.blogspot.com)
+ - date_published: 2024-07-13T10:09:30.912137+00:00
+
+ ## Dirty Damn Filthy Damn Atheist!
+ - [http://ddfda.blogspot.com](http://ddfda.blogspot.com)
+ - date_published: 2024-02-07T02:35:19+00:00
+
+ ## The Dead Horse Times
+ - [http://deadhorsetimes.blogspot.com](http://deadhorsetimes.blogspot.com)
+ - date_published: 2024-05-19T03:09:03+00:00
+
+ ## dead lead project
+ - [https://deadleadproject.blogspot.com](https://deadleadproject.blogspot.com)
+ - date_published: 2024-07-11T07:20:45+00:00
+
+ ## Dead Men Left
+ - [http://deadmenleft.blogspot.com](http://deadmenleft.blogspot.com)
+ - date_published: 2024-03-23T18:13:41+00:00
+
+ ## Welcome to Dean Land
+ - [http://deanland.blogspot.com](http://deanland.blogspot.com)
+ - date_published: 2024-02-28T22:56:05+00:00
+
+ ## deanna time
+ - [http://deannalw.blogspot.com](http://deannalw.blogspot.com)
+ - date_published: 2024-05-30T09:48:21+00:00
+
+ ## Dearest District 5
+ - [http://dearestdistrict5.blogspot.com](http://dearestdistrict5.blogspot.com)
+ - date_published: 2024-06-24T16:42:41+00:00
+
+ ## DBKP - Worldwide Leader in Weird
+ - [http://deathby1000papercuts.blogspot.com](http://deathby1000papercuts.blogspot.com)
+ - date_published: 2024-05-22T09:53:29+00:00
+
+ ## Natural Selection Science
+ - [http://deathbycommittee.blogspot.com](http://deathbycommittee.blogspot.com)
+ - date_published: 2024-02-20T15:51:09+00:00
+
+ ## Death By Die
+ - [http://death-by-die.blogspot.com](http://death-by-die.blogspot.com)
+ - date_published: 2024-03-21T22:36:43+00:00
+
+ ## Deathworld Adventures
+ - [http://deathworldadventures.blogspot.com](http://deathworldadventures.blogspot.com)
+ - date_published: 2024-07-04T06:38:18+00:00
+
+ ## Debatable Land: stories of life in a grey area
+ - [http://debatable-land.blogspot.com](http://debatable-land.blogspot.com)
+ - date_published: 2024-05-11T00:27:36+00:00
+
+ ## Debian in Biology and Medicine
+ - [http://debianmed.blogspot.com](http://debianmed.blogspot.com)
+ - date_published: 2024-02-08T10:43:05+00:00
+
+ ## Deep Dark Dungeons
+ - [http://deepdarkdungeons.blogspot.com](http://deepdarkdungeons.blogspot.com)
+ - date_published: 2024-07-16T22:33:43+00:00
+
  ## em tons de azul
  - [http://deep-umpoucomaisdeazul.blogspot.com](http://deep-umpoucomaisdeazul.blogspot.com)
  - date_published: 2024-07-03T02:48:50+00:00
@@ -3953,68 +4017,4 @@
  ## Cocktail Journalist. One in a Worship of Writers.
  - [http://haveglasswilldrink.blogspot.com](http://haveglasswilldrink.blogspot.com)
  - date_published: 2020-06-22T00:00:00+00:00
-
- ## Have Opinion, Will Travel
- - [http://haveopinionwiiltravel.blogspot.com](http://haveopinionwiiltravel.blogspot.com)
- - date_published: 2024-03-23T18:30:51+00:00
-
- ## Having Two Legs
- - [http://havingtwolegs.blogspot.com](http://havingtwolegs.blogspot.com)
- - date_published: 2024-03-23T18:22:45+00:00
-
- ## Lady Insignificant
- - [http://hdsidhe.blogspot.com](http://hdsidhe.blogspot.com)
- - date_published: 2024-03-14T08:52:59+00:00
-
- ## Programming C++11 and SDL2
- - [http://headerphile.blogspot.com](http://headerphile.blogspot.com)
- - date_published: 2024-03-19T03:51:57+00:00
-
- ## Head Injury Theater
- - [http://headinjurytheater.blogspot.com](http://headinjurytheater.blogspot.com)
- - date_published: 2024-03-07T23:50:56+00:00
-
- ## Headless Horse Archer
- - [http://headlesshorsearcher.blogspot.com](http://headlesshorsearcher.blogspot.com)
- - date_published: 2024-07-06T20:45:35+00:00
-
- ## The Head of Vecna
- - [http://headofvecna.blogspot.com](http://headofvecna.blogspot.com)
- - date_published: 2024-07-06T20:45:10+00:00
-
- ## headsup: the blog
- - [https://headsuptheblog.blogspot.com](https://headsuptheblog.blogspot.com)
- - date_published: 2024-05-07T21:55:26.264473+00:00
-
- ## Blogger
- - [http://healingiraq.blogspot.com](http://healingiraq.blogspot.com)
- - date_published: 2024-06-20T03:14:16.518399+00:00
-
- ## I Don't Hear A Single
- - [https://hearasingle.blogspot.com](https://hearasingle.blogspot.com)
- - date_published: 2024-06-28T09:35:40+00:00
-
- ## Heart As Arena
- - [http://heartasarena.blogspot.com](http://heartasarena.blogspot.com)
- - date_published: 2024-06-19T17:07:04+00:00
-
- ## It's a Wonderful Life
- - [http://heathertorrie.blogspot.com](http://heathertorrie.blogspot.com)
- - date_published: 2024-03-14T06:12:58+00:00
-
- ## Heavy Static
- - [http://heavystatic.blogspot.com](http://heavystatic.blogspot.com)
- - date_published: 2024-03-20T15:06:49+00:00
-
- ## Hecate's Crossroad
- - [http://hecatescrossroad.blogspot.com](http://hecatescrossroad.blogspot.com)
- - date_published: 2024-03-19T04:11:38+00:00
-
- ## hedgehogblog
- - [http://hedgehogblog.blogspot.com](http://hedgehogblog.blogspot.com)
- - date_published: 2024-02-28T10:05:18+00:00
-
- ## To infinity and beyond
- - [https://heenamahour.blogspot.com](https://heenamahour.blogspot.com)
- - date_published: 2017-12-02T00:00:00+00:00
 

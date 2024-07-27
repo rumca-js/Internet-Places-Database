@@ -1,3 +1,388 @@
+ ## Valencia College
+ - [https://net1.valenciacollege.edu](https://net1.valenciacollege.edu)
+ - date_published: 2024-07-02T12:34:38.064940+00:00
+
+ ## Valencia College News
+ - [https://news.valenciacollege.edu](https://news.valenciacollege.edu)
+ - date_published: 2024-05-07T22:16:49.359079+00:00
+
+ ## Sign in to your account
+ - [https://online.valenciacollege.edu](https://online.valenciacollege.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Valencia College
+ - [https://preview.valenciacollege.edu](https://preview.valenciacollege.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Valencia College
+ - [https://valenciacollege.edu](https://valenciacollege.edu)
+ - date_published: 2023-11-27T12:19:39+00:00
+ - tags: ['college']
+
+ ## Research Guides
+ - [http://libguides.valpo.edu](http://libguides.valpo.edu)
+ - date_published: 2024-07-01T12:22:30.265060+00:00
+
+ ## Christopher Center Library
+ - [http://library.valpo.edu](http://library.valpo.edu)
+ - date_published: 2024-07-01T12:22:34.053759+00:00
+
+ ## ValpoScholar | Valparaiso University Research
+ - [https://scholar.valpo.edu](https://scholar.valpo.edu)
+ - date_published: 2024-05-07T19:19:19.956824+00:00
+
+ ## Valparaiso University
+ - [http://www.valpo.edu](http://www.valpo.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.vanderbilt.edu](https://admissions.vanderbilt.edu)
+ - date_published: 2024-02-02T20:15:57+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.library.vanderbilt.edu](https://analytics.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:09.187917+00:00
+
+ ## Application Management
+ - [https://apply.vanderbilt.edu](https://apply.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:21.330685+00:00
+
+ ## Vanderbilt University College of Arts and Science
+ - [https://as.vanderbilt.edu](https://as.vanderbilt.edu)
+ - date_published: 2024-06-23T09:41:35.579460+00:00
+
+ ## SimCapture Central  | SimBridge
+ - [https://bline.app.vanderbilt.edu](https://bline.app.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:55.819380+00:00
+
+ ## Sign On
+ - [https://brightspace.vanderbilt.edu](https://brightspace.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:43.980796+00:00
+
+ ## Collection Guides | Collection Guides
+ - [https://collections.library.vanderbilt.edu](https://collections.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:40.863758+00:00
+
+ ## Sign On
+ - [https://dev.vanderbilt.edu](https://dev.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:45.412137+00:00
+
+ ## Events@Vanderbilt
+ - [https://events.vanderbilt.edu](https://events.vanderbilt.edu)
+ - date_published: 2024-07-09T05:50:14+00:00
+
+ ## DARE TO GROW | Vanderbilt Giving
+ - [https://giving.vanderbilt.edu](https://giving.vanderbilt.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Home
+ - [https://gradschool.vanderbilt.edu](https://gradschool.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:26.746408+00:00
+
+ ## Human Resources
+ - [https://hr.vanderbilt.edu](https://hr.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:23.512615+00:00
+
+ ## Impact Report – Jean and Alexander Heard Libraries
+ - [https://impact.library.vanderbilt.edu](https://impact.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:54.630877+00:00
+
+ ## Login
+ - [https://inform.library.vanderbilt.edu](https://inform.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:02.014887+00:00
+
+ ## Institutional Repository Home
+ - [https://ir.vanderbilt.edu](https://ir.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:48.620778+00:00
+
+ ## Ask a Librarian - Ask a Librarian
+ - [https://libanswers.library.vanderbilt.edu](https://libanswers.library.vanderbilt.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Library Technology and Assessment Services – Vanderbilt University Libraries
+ - [https://ltas.library.vanderbilt.edu](https://ltas.library.vanderbilt.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Home - School of Medicine
+ - [https://medschool.vanderbilt.edu](https://medschool.vanderbilt.edu)
+ - date_published: 2024-05-10T05:25:10.027246+00:00
+
+ ## Library News Online – The information you need.
+ - [https://newsonline.library.vanderbilt.edu](https://newsonline.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:51.422332+00:00
+
+ ## News Home
+ - [http://news.vanderbilt.edu](http://news.vanderbilt.edu)
+ - date_published: 2024-07-01T15:11:06.516339+00:00
+
+ ## IIS Windows Server
+ - [https://nursingadmin4.vanderbilt.edu](https://nursingadmin4.vanderbilt.edu)
+ - date_published: 2023-02-24T16:39:41+00:00
+
+ ## School of Nursing | Vanderbilt University
+ - [https://nursing.vanderbilt.edu](https://nursing.vanderbilt.edu)
+ - date_published: 2024-05-10T05:25:22.888442+00:00
+
+ ## REDCap
+ - [https://redcap.vanderbilt.edu](https://redcap.vanderbilt.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Research Guides
+ - [https://researchguides.library.vanderbilt.edu](https://researchguides.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:58:07.198447+00:00
+
+ ## Home
+ - [https://research.vanderbilt.edu](https://research.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:22.054039+00:00
+
+ ## Home
+ - [https://reunion.vanderbilt.edu](https://reunion.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:19.943435+00:00
+
+ ## Strategic Plan – Jean and Alexander Heard Libraries
+ - [https://strategy.library.vanderbilt.edu](https://strategy.library.vanderbilt.edu)
+ - date_published: 2024-07-12T14:57:58.907491+00:00
+
+ ## Home | Vanderbilt Television News Archive
+ - [https://tvnews.vanderbilt.edu](https://tvnews.vanderbilt.edu)
+ - date_published: 1968-08-05T00:00:00+00:00
+
+ ## Jean and Alexander Heard Libraries | Vanderbilt University
+ - [https://library.vanderbilt.edu](https://library.vanderbilt.edu)
+ - date_published: 2024-05-10T05:25:04.278038+00:00
+
+ ## Home
+ - [http://www.math.vanderbilt.edu](http://www.math.vanderbilt.edu)
+ - date_published: 2024-06-30T09:13:53.840770+00:00
+
+ ## Vanderbilt University
+ - [https://vanderbilt.edu](https://vanderbilt.edu)
+ - date_published: 2024-05-10T05:24:56.668547+00:00
+
+ ## Vermont College of Fine Arts
+ - [https://vcfa.edu](https://vcfa.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home
+ - [https://myweb.vcsu.edu](https://myweb.vcsu.edu)
+ - date_published: 2024-07-01T16:00:59.125450+00:00
+
+ ## Commitment to Privacy
+ - [https://about.finance.vcu.edu](https://about.finance.vcu.edu)
+ - date_published: 2024-07-02T12:58:40.782702+00:00
+
+ ## Commitment to Privacy
+ - [https://academicadvising.vcu.edu](https://academicadvising.vcu.edu)
+ - date_published: 2024-07-02T12:51:30.491059+00:00
+
+ ## VCU Events Calendar
+ - [https://academiccalendars.vcu.edu](https://academiccalendars.vcu.edu)
+ - date_published: 2024-05-07T22:23:30.939978+00:00
+
+ ## Commitment to Privacy
+ - [https://academics.provost.vcu.edu](https://academics.provost.vcu.edu)
+ - date_published: 2024-07-02T12:49:20.155533+00:00
+
+ ## Commitment to Privacy
+ - [https://academictech.vcu.edu](https://academictech.vcu.edu)
+ - date_published: 2024-07-02T12:50:26.956793+00:00
+
+ ## Commitment to Privacy
+ - [https://accessibility.vcu.edu](https://accessibility.vcu.edu)
+ - date_published: 2024-05-07T22:23:21.226757+00:00
+
+ ## Commitment to Privacy
+ - [https://accounting.vcu.edu](https://accounting.vcu.edu)
+ - date_published: 2024-07-02T12:41:41.877213+00:00
+
+ ## Commitment to Privacy
+ - [https://acs.vcu.edu](https://acs.vcu.edu)
+ - date_published: 2024-07-02T12:43:48.411425+00:00
+
+ ## Commitment to Privacy
+ - [https://action.wilder.vcu.edu](https://action.wilder.vcu.edu)
+ - date_published: 2024-07-02T12:45:54.069726+00:00
+
+ ## Commitment to Privacy
+ - [https://adhd.vcu.edu](https://adhd.vcu.edu)
+ - date_published: 2024-07-02T12:42:00.850568+00:00
+
+ ## Commitment to Privacy
+ - [https://adhere.vcu.edu](https://adhere.vcu.edu)
+ - date_published: 2024-07-02T12:58:35.522814+00:00
+
+ ## Commitment to Privacy
+ - [https://administration.vcu.edu](https://administration.vcu.edu)
+ - date_published: 2024-07-02T12:45:20.468880+00:00
+
+ ## Commitment to Privacy
+ - [https://admissions.vcu.edu](https://admissions.vcu.edu)
+ - date_published: 2024-06-16T06:31:23.908844+00:00
+
+ ## Commitment to Privacy
+ - [https://adobe.vcu.edu](https://adobe.vcu.edu)
+ - date_published: 2024-07-02T12:43:13.170339+00:00
+
+ ## Commitment to Privacy
+ - [https://adultlearners.vcu.edu](https://adultlearners.vcu.edu)
+ - date_published: 2024-07-02T12:45:32.444750+00:00
+
+ ## Commitment to Privacy
+ - [https://advance.vcu.edu](https://advance.vcu.edu)
+ - date_published: 2024-07-02T12:48:39.436044+00:00
+
+ ## Commitment to Privacy
+ - [https://advocacy.vcu.edu](https://advocacy.vcu.edu)
+ - date_published: 2024-07-02T12:57:50.213103+00:00
+
+ ## Commitment to Privacy
+ - [https://afam.vcu.edu](https://afam.vcu.edu)
+ - date_published: 2024-07-02T12:42:54.179943+00:00
+
+ ## Commitment to Privacy
+ - [https://alert.vcu.edu](https://alert.vcu.edu)
+ - date_published: 2024-05-07T22:22:25.856789+00:00
+
+ ## Faculty main - VCU Online
+ - [https://altlab.vcu.edu](https://altlab.vcu.edu)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Commitment to Privacy
+ - [https://alumnimagazine.chp.vcu.edu](https://alumnimagazine.chp.vcu.edu)
+ - date_published: 2024-07-02T12:49:08.733372+00:00
+
+ ## Commitment to Privacy
+ - [https://alumnimag.vcu.edu](https://alumnimag.vcu.edu)
+ - date_published: 2024-07-02T12:58:15.810980+00:00
+
+ ## Commitment to Privacy
+ - [https://ambcare.pharmacy.vcu.edu](https://ambcare.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:57:52.958540+00:00
+
+ ## Commitment to Privacy
+ - [https://anatomy.vcu.edu](https://anatomy.vcu.edu)
+ - date_published: 2024-07-02T12:50:40.201997+00:00
+
+ ## Commitment to Privacy
+ - [https://anesthesiology.vcu.edu](https://anesthesiology.vcu.edu)
+ - date_published: 2024-07-02T12:58:03.848913+00:00
+
+ ## Commitment to Privacy
+ - [https://annualreports2020.vcu.edu](https://annualreports2020.vcu.edu)
+ - date_published: 2024-07-02T12:59:15.492965+00:00
+
+ ## Commitment to Privacy
+ - [https://annualreport.socialwork.vcu.edu](https://annualreport.socialwork.vcu.edu)
+ - date_published: 2024-07-02T12:47:54.719337+00:00
+
+ ## Commitment to Privacy
+ - [https://annualreports.vcu.edu](https://annualreports.vcu.edu)
+ - date_published: 2024-07-02T12:49:14.353150+00:00
+
+ ## Commitment to Privacy
+ - [https://apb.vcu.edu](https://apb.vcu.edu)
+ - date_published: 2024-07-02T12:57:27.659833+00:00
+
+ ## Home - Application Portal - VCU Honors College
+ - [https://apply.honors.vcu.edu](https://apply.honors.vcu.edu)
+ - date_published: 2024-07-02T12:48:18.213717+00:00
+
+ ## Admissions & Aid – Strategic Enrollment Management
+ - [https://apps.sem.vcu.edu](https://apps.sem.vcu.edu)
+ - date_published: 2024-07-02T12:57:08.560226+00:00
+
+ ## Commitment to Privacy
+ - [https://arc.vcu.edu](https://arc.vcu.edu)
+ - date_published: 2024-07-02T12:44:41.328097+00:00
+
+ ## Home Page
+ - [http://arts.vcu.edu](http://arts.vcu.edu)
+ - date_published: 2019-09-13T09:37:39+00:00
+
+ ## Commitment to Privacy
+ - [https://athleticscompliance.vcu.edu](https://athleticscompliance.vcu.edu)
+ - date_published: 2024-07-02T12:42:51.841834+00:00
+
+ ## A to Z Directory – Virginia Commonwealth University
+ - [https://atoz.vcu.edu](https://atoz.vcu.edu)
+ - date_published: 2024-05-07T22:22:37.154832+00:00
+
+ ## Commitment to Privacy
+ - [https://auctus.vcu.edu](https://auctus.vcu.edu)
+ - date_published: 2024-07-02T12:50:21.431603+00:00
+
+ ## Commitment to Privacy
+ - [https://autismtrainingva.vcu.edu](https://autismtrainingva.vcu.edu)
+ - date_published: 2024-07-02T12:48:30.795171+00:00
+
+ ## Commitment to Privacy
+ - [https://bea.vcu.edu](https://bea.vcu.edu)
+ - date_published: 2024-07-02T12:47:03.445099+00:00
+
+ ## Commitment to Privacy
+ - [https://bikes.vcu.edu](https://bikes.vcu.edu)
+ - date_published: 2024-07-02T12:42:56.176817+00:00
+
+ ## Commitment to Privacy
+ - [https://bioanalysis.pharmacy.vcu.edu](https://bioanalysis.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:47:21.965860+00:00
+
+ ## Commitment to Privacy
+ - [https://biochemistry.vcu.edu](https://biochemistry.vcu.edu)
+ - date_published: 2024-07-02T12:51:13.742653+00:00
+
+ ## Commitment to Privacy
+ - [https://biology.vcu.edu](https://biology.vcu.edu)
+ - date_published: 2024-07-02T12:58:22.505437+00:00
+
+ ## Commitment to Privacy
+ - [https://biostatistics.vcu.edu](https://biostatistics.vcu.edu)
+ - date_published: 2024-07-02T12:46:32.840481+00:00
+
+ ## Commitment to Privacy
+ - [https://blackboard.vcu.edu](https://blackboard.vcu.edu)
+ - date_published: 2024-05-07T22:23:07.526939+00:00
+
+ ## VCU Blogs
+ - [https://blogs.vcu.edu](https://blogs.vcu.edu)
+ - date_published: 2023-09-01T00:00:00+00:00
+
+ ## Commitment to Privacy
+ - [https://bov.vcu.edu](https://bov.vcu.edu)
+ - date_published: 2024-07-02T12:50:56.729462+00:00
+
+ ## Commitment to Privacy
+ - [https://bpm.pharmacy.vcu.edu](https://bpm.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:48:12.026879+00:00
+
+ ## VCU Brandcenter
+ - [https://brandcenter.vcu.edu](https://brandcenter.vcu.edu)
+ - date_published: 2024-07-02T12:44:51.521837+00:00
+
+ ## Commitment to Privacy
+ - [https://branding.vcu.edu](https://branding.vcu.edu)
+ - date_published: 2024-05-07T22:23:10.475683+00:00
+
+ ## VCU Brand - VCU Brand
+ - [https://brand.vcu.edu](https://brand.vcu.edu)
+ - date_published: 2024-07-02T12:49:53.546516+00:00
+
+ ## Commitment to Privacy
+ - [https://bshs.chp.vcu.edu](https://bshs.chp.vcu.edu)
+ - date_published: 2024-07-02T12:45:21.887454+00:00
+
+ ## Commitment to Privacy
+ - [https://bsv.vcu.edu](https://bsv.vcu.edu)
+ - date_published: 2024-07-02T12:44:27.303208+00:00
+
+ ## Commitment to Privacy
+ - [https://budget.vcu.edu](https://budget.vcu.edu)
+ - date_published: 2024-07-02T12:58:18.541384+00:00
+
+ ## Welcome to the VCU Bulletins website! < Virginia Commonwealth University
+ - [http://bulletin.vcu.edu](http://bulletin.vcu.edu)
+ - date_published: 2024-06-24T15:39:05+00:00
+
  ## Commitment to Privacy
  - [https://business.vcu.edu](https://business.vcu.edu)
  - date_published: 2024-07-02T12:58:11.412610+00:00
@@ -2554,6 +2939,10 @@
  - [https://norfolk.cs.washington.edu](https://norfolk.cs.washington.edu)
  - date_published: 2024-07-02T13:34:06.049781+00:00
 
+ ## Support the University of Washington
+ - [https://online.gifts.washington.edu](https://online.gifts.washington.edu)
+ - date_published: 2024-07-26T23:58:00.401656+00:00
+
  ## Photo Tourism
  - [http://phototour.cs.washington.edu](http://phototour.cs.washington.edu)
  - date_published: 2012-05-28T22:04:56+00:00
@@ -3613,392 +4002,4 @@
  ## Editorial Style Guide
  - [https://editorial-styleguide.umark.wisc.edu](https://editorial-styleguide.umark.wisc.edu)
  - date_published: 2024-05-07T22:30:52.412177+00:00
-
- ## Employee Disability Resources
- - [https://employeedisabilities.wisc.edu](https://employeedisabilities.wisc.edu)
- - date_published: 2024-07-02T14:32:27.499540+00:00
-
- ## College of Engineering | University of Wisconsin-Madison
- - [https://engineering.wisc.edu](https://engineering.wisc.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## English
- - [https://english.wisc.edu](https://english.wisc.edu)
- - date_published: 2024-07-02T09:45:51.308326+00:00
-
- ## UW–Madison Experts Database
- - [https://experts.news.wisc.edu](https://experts.news.wisc.edu)
- - date_published: 2024-05-07T22:30:47.719390+00:00
-
- ## Facilities Planning & Management
- - [http://facilities.fpm.wisc.edu](http://facilities.fpm.wisc.edu)
- - date_published: 2024-07-17T12:33:30.086018+00:00
-
- ## Congressional Affairs & Agency Engagement
- - [https://federalrelations.wisc.edu](https://federalrelations.wisc.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Facilities Planning & Management
- - [https://fpm.wisc.edu](https://fpm.wisc.edu)
- - date_published: 2024-07-17T12:33:33.576397+00:00
-
- ## Gene Expression Center
- - [https://gec.biotech.wisc.edu](https://gec.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:54.926895+00:00
-
- ## Genome Editing
- - [https://genomeediting.biotech.wisc.edu](https://genomeediting.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:51.899666+00:00
-
- ## Gender Minorities in Math At Wisconsin
- - [https://gmmaw.math.wisc.edu](https://gmmaw.math.wisc.edu)
- - date_published: 2024-07-04T02:16:27.624503+00:00
-
- ## goUW: URL Shortening for the University of Wisconsin–Madison
- - [https://go.wisc.edu](https://go.wisc.edu)
- - date_published: 2024-05-07T22:30:49.978749+00:00
-
- ## Guide < University of Wisconsin-Madison
- - [http://guide.wisc.edu](http://guide.wisc.edu)
- - date_published: 2024-06-25T20:19:43+00:00
-
- ## DoIT Help Desk Knowledgebase
- - [http://helpdesk.wisc.edu](http://helpdesk.wisc.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Help
- - [https://help.math.wisc.edu](https://help.math.wisc.edu)
- - date_published: 2024-07-04T02:16:40.000083+00:00
-
- ## Wisconsin State Herbarium
- - [http://herbarium.wisc.edu](http://herbarium.wisc.edu)
- - date_published: 2024-06-30T05:18:28.426310+00:00
-
- ## IceCube Neutrino Observatory
- - [https://icecube.wisc.edu](https://icecube.wisc.edu)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Campus and Visitor Relations
- - [https://info.wisc.edu](https://info.wisc.edu)
- - date_published: 2024-07-02T14:35:26.920928+00:00
-
- ## Inside UW–Madison
- - [https://insideuw.wisc.edu](https://insideuw.wisc.edu)
- - date_published: 2024-07-02T14:34:40.981011+00:00
-
- ## Access, use, and share data
- - [https://integratedata.wisc.edu](https://integratedata.wisc.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Interdisciplinary Professional Programs – College of Engineering – UW–Madison
- - [https://interpro.wisc.edu](https://interpro.wisc.edu)
- - date_published: 2024-07-02T14:30:25+00:00
-
- ## University of Wisconsin-Madison Login
- - [https://intranet.engineering.wisc.edu](https://intranet.engineering.wisc.edu)
- - date_published: 2024-07-02T14:30:23.675019+00:00
-
- ## IRMS - Schoeller Isotope Ratio Lab
- - [https://irms.biotech.wisc.edu](https://irms.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:57.358024+00:00
-
- ## The Information School
- - [https://ischool.wisc.edu](https://ischool.wisc.edu)
- - date_published: 2024-07-02T14:32:49.233493+00:00
-
- ## Information Technology - University of Wisconsin–‍Madison - UW–⁠Madison Information Technology
- - [https://it.wisc.edu](https://it.wisc.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Prof. Joshua San Miguel - STACS Lab - University of Wisconsin-Madison
- - [https://jsm.ece.wisc.edu](https://jsm.ece.wisc.edu)
- - date_published: 2023-10-25T19:06:36.281424+00:00
-
- ## Junior Workshop in Several Complex Variables
- - [https://jwiscv.math.wisc.edu](https://jwiscv.math.wisc.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## University of Wisconsin KnowledgeBase
- - [https://kb.wisc.edu](https://kb.wisc.edu)
- - date_published: 2024-07-02T14:35:36.499695+00:00
-
- ## Robert M. La Follette School of Public Affairs
- - [https://lafollette.wisc.edu](https://lafollette.wisc.edu)
- - date_published: 2024-07-01T03:22:37.054315+00:00
-
- ## Lakeshore Nature Preserve
- - [https://lakeshorepreserve.wisc.edu](https://lakeshorepreserve.wisc.edu)
- - date_published: 2024-05-13T03:59:21.503158+00:00
-
- ## University of Wisconsin Law School
- - [https://law.wisc.edu](https://law.wisc.edu)
- - date_published: 2024-07-02T14:34:17.184448+00:00
-
- ## Home | UW-Madison Libraries
- - [https://learn.library.wisc.edu](https://learn.library.wisc.edu)
- - date_published: 2024-07-21T06:50:50.262297+00:00
-
- ## Law Library
- - [https://library.law.wisc.edu](https://library.law.wisc.edu)
- - date_published: 2024-07-21T06:50:53.497778+00:00
-
- ## UW-Madison Libraries
- - [https://library.wisc.edu](https://library.wisc.edu)
- - date_published: 2024-06-14T04:12:15.108256+00:00
-
- ## Botany Garden and Greenhouse
- - [https://livingcollection.botany.wisc.edu](https://livingcollection.botany.wisc.edu)
- - date_published: 2024-06-30T05:18:22.017518+00:00
-
- ## Home Page - Letters & Science
- - [https://lsmagazine.wisc.edu](https://lsmagazine.wisc.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Campus Map: University of Wisconsin–Madison
- - [https://map.wisc.edu](https://map.wisc.edu)
- - date_published: 2024-05-07T22:30:45.074774+00:00
-
- ## Mass Spectrometry Facility
- - [https://massspec.biotech.wisc.edu](https://massspec.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:46.897031+00:00
-
- ## IceCube Masterclass – IceCube Masterclass
- - [https://masterclass.icecube.wisc.edu](https://masterclass.icecube.wisc.edu)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Math Alumni
- - [https://mathalumni.math.wisc.edu](https://mathalumni.math.wisc.edu)
- - date_published: 2024-07-04T02:22:49.513789+00:00
-
- ## Department of Mathematics
- - [https://math.wisc.edu](https://math.wisc.edu)
- - date_published: 2024-07-04T02:22:59.771224+00:00
-
- ## McBurney Disability Resource Center
- - [https://mcburney.wisc.edu](https://mcburney.wisc.edu)
- - date_published: 2024-07-02T14:32:34.666708+00:00
-
- ## Master of Science in Design + Innovation
- - [https://mdi.wisc.edu](https://mdi.wisc.edu)
- - date_published: 2024-07-02T14:33:16.373837+00:00
-
- ## Home - MERIT
- - [https://merit.education.wisc.edu](https://merit.education.wisc.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Missing in Action
- - [https://mia.biotech.wisc.edu](https://mia.biotech.wisc.edu)
- - date_published: 2024-02-08T21:46:45.255457+00:00
-
- ## Materials Research Science and Engineering Center
- - [http://mrsec.wisc.edu](http://mrsec.wisc.edu)
- - date_published: 2024-06-29T22:29:29.391036+00:00
-
- ## Madison Experimental Mathematics Lab
- - [https://mxm.math.wisc.edu](https://mxm.math.wisc.edu)
- - date_published: 2024-07-04T02:22:53.474808+00:00
-
- ## University of Wisconsin-Madison Login
- - [http://my.wisc.edu](http://my.wisc.edu)
- - date_published: 2024-07-02T14:28:31.376092+00:00
-
- ## News from the University of Wisconsin–Madison
- - [https://news.wisc.edu](https://news.wisc.edu)
- - date_published: 2023-11-12T12:01:17.297435+00:00
-
- ## Newcomb Imaging Center
- - [https://nic.botany.wisc.edu](https://nic.botany.wisc.edu)
- - date_published: 2024-06-30T05:18:25.073693+00:00
-
- ## Robert Nowak
- - [https://nowak.ece.wisc.edu](https://nowak.ece.wisc.edu)
- - date_published: 2023-06-07T15:52:21+00:00
-
- ## N+1 Institute
- - [https://nplus1.wisc.edu](https://nplus1.wisc.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Office of Business Engagement
- - [https://obe.wisc.edu](https://obe.wisc.edu)
- - date_published: 2024-07-02T13:52:45+00:00
-
- ## Outreach
- - [https://outreach.biotech.wisc.edu](https://outreach.biotech.wisc.edu)
- - date_published: 2024-07-02T14:33:38.255935+00:00
-
- ## UW Computer Sciences User Pages
- - [https://pages.cs.wisc.edu](https://pages.cs.wisc.edu)
- - date_published: 2023-10-25T19:06:38.993669+00:00
-
- ## Home
- - [https://pdc.wisc.edu](https://pdc.wisc.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Hilbert
- - [https://people.math.wisc.edu](https://people.math.wisc.edu)
- - date_published: 2024-05-08T04:30:30.104818+00:00
-
- ## PHARM--Computer Architecture Research
- - [https://pharm.ece.wisc.edu](https://pharm.ece.wisc.edu)
- - date_published: 2024-04-12T15:59:11+00:00
-
- ## UW-Madison Policy Library
- - [https://policy.wisc.edu](https://policy.wisc.edu)
- - date_published: 2024-07-02T14:35:21.552246+00:00
-
- ## Poster Printing
- - [https://poster.library.wisc.edu](https://poster.library.wisc.edu)
- - date_published: 2024-07-21T06:50:31.421919+00:00
-
- ## PROFS
- - [http://profs.wisc.edu](http://profs.wisc.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Course Search & Enroll
- - [http://public.enroll.wisc.edu](http://public.enroll.wisc.edu)
- - date_published: 2024-04-26T13:40:43+00:00
-
- ## Office of the Registrar
- - [https://registrar.wisc.edu](https://registrar.wisc.edu)
- - date_published: 2024-07-02T14:32:57.503074+00:00
-
- ## Research | UW–Madison
- - [https://research.wisc.edu](https://research.wisc.edu)
- - date_published: 2024-07-02T14:35:31.444467+00:00
-
- ## Lupyan Lab – University of Wisconsin-Madison
- - [http://sapir.psych.wisc.edu](http://sapir.psych.wisc.edu)
- - date_published: 2024-07-02T08:48:56.979498+00:00
-
- ## Internet Scout
- - [https://scout.wisc.edu](https://scout.wisc.edu)
- - date_published: 2024-07-02T14:28:40.024211+00:00
-
- ## Search UW-Madison Libraries
- - [https://search.library.wisc.edu](https://search.library.wisc.edu)
- - date_published: 2024-04-30T05:55:37.209738+00:00
-
- ## sethares homepage
- - [https://sethares.engr.wisc.edu](https://sethares.engr.wisc.edu)
- - date_published: 2020-02-19T15:54:41+00:00
-
- ## SILO – Systems | Information | Learning | Optimization
- - [http://silo.ece.wisc.edu](http://silo.ece.wisc.edu)
- - date_published: 2024-06-30T08:38:53.507090+00:00
-
- ## University of Wisconsin–Madison
- - [http://social.wisc.edu](http://social.wisc.edu)
- - date_published: 2024-06-20T18:06:51+00:00
-
- ## Space Science and Engineering Center
- - [http://ssec.wisc.edu](http://ssec.wisc.edu)
- - date_published: 2024-07-19T14:57:01.453565+00:00
-
- ## State Relations
- - [https://staterelations.wisc.edu](https://staterelations.wisc.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## IceCube Store
- - [https://store.icecube.wisc.edu](https://store.icecube.wisc.edu)
- - date_published: 2024-07-06T23:33:48.545681+00:00
-
- ## Office of Strategic Communication
- - [https://stratcommunication.wisc.edu](https://stratcommunication.wisc.edu)
- - date_published: 2024-05-07T22:31:00.910927+00:00
-
- ## Student Affairs
- - [https://students.wisc.edu](https://students.wisc.edu)
- - date_published: 2024-07-02T14:33:06.866652+00:00
-
- ## Study Abroad
- - [https://studyabroad.wisc.edu](https://studyabroad.wisc.edu)
- - date_published: 2024-07-02T14:28:56.268797+00:00
-
- ## Office of Sustainability
- - [https://sustainability.wisc.edu](https://sustainability.wisc.edu)
- - date_published: 2024-07-17T12:33:27.068256+00:00
-
- ## WISCONSIN MATHEMATICS, ENGINEERING AND SCIENCE TALENT SEARCH
- - [https://talent.math.wisc.edu](https://talent.math.wisc.edu)
- - date_published: 2024-07-04T02:22:55.926348+00:00
-
- ## The Weekly : UW–Madison
- - [https://theweekly.wisc.edu](https://theweekly.wisc.edu)
- - date_published: 2024-07-02T14:34:45.132807+00:00
-
- ## All events | UW–Madison Events Calendar
- - [https://today.wisc.edu](https://today.wisc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Tribal Relations
- - [https://tribalrelations.wisc.edu](https://tribalrelations.wisc.edu)
- - date_published: 2024-07-02T14:35:20.043088+00:00
-
- ## CIMSS Tropical Cyclones
- - [http://tropic.ssec.wisc.edu](http://tropic.ssec.wisc.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## University Communications
- - [https://uc.wisc.edu](https://uc.wisc.edu)
- - date_published: 2024-05-07T22:30:57.169671+00:00
-
- ## University Marketing
- - [https://umark.wisc.edu](https://umark.wisc.edu)
- - date_published: 2024-05-07T22:30:54.091288+00:00
-
- ## Home
- - [https://union.wisc.edu](https://union.wisc.edu)
- - date_published: 2024-07-02T14:34:06.057001+00:00
-
- ## University Relations
- - [https://universityrelations.wisc.edu](https://universityrelations.wisc.edu)
- - date_published: 2024-05-07T22:31:05.631891+00:00
-
- ## UW Connects
- - [https://uwconnects.wisc.edu](https://uwconnects.wisc.edu)
- - date_published: 2024-07-02T14:35:23.983696+00:00
-
- ## UWDC Search - UW-Madison Libraries
- - [https://uwdc.library.wisc.edu](https://uwdc.library.wisc.edu)
- - date_published: 2024-07-21T06:51:04.712486+00:00
-
- ## UW Theme Lite – Just another WordPress site
- - [https://uwtheme-lite.wordpress.wisc.edu](https://uwtheme-lite.wordpress.wisc.edu)
- - date_published: 2024-07-02T13:46:05+00:00
-
- ## UW Theme
- - [https://uwtheme.wordpress.wisc.edu](https://uwtheme.wordpress.wisc.edu)
- - date_published: 2024-05-07T22:30:37.281027+00:00
-
- ## Directory listing unavailable
- - [https://web.library.wisc.edu](https://web.library.wisc.edu)
- - date_published: 2019-03-11T16:33:25+00:00
-
- ## Directory listing unavailable
- - [https://web.lib.wisc.edu](https://web.lib.wisc.edu)
- - date_published: 2019-03-11T16:33:25+00:00
-
- ## Web.math.wisc.edu
- - [https://web.math.wisc.edu](https://web.math.wisc.edu)
- - date_published: 2024-05-29T19:17:38+00:00
-
- ## Web-Needs Survey
- - [https://webneeds.it.wisc.edu](https://webneeds.it.wisc.edu)
- - date_published: 2024-07-02T14:33:09.512953+00:00
-
- ## University of Wisconsin-Madison Login
- - [https://wiki.botany.wisc.edu](https://wiki.botany.wisc.edu)
- - date_published: 2024-06-30T05:18:01.514393+00:00
-
- ## UW-Math Wiki
- - [https://wiki.math.wisc.edu](https://wiki.math.wisc.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## WIPAC – Wisconsin IceCube Particle Astrophysics Center
- - [https://wipac.wisc.edu](https://wipac.wisc.edu)
- - date_published: 2024-05-08T08:47:21.978955+00:00
-
- ## University of Wisconsin–Madison
- - [https://wisc.edu](https://wisc.edu)
- - date_published: 2024-07-16T00:00:00+00:00
 
