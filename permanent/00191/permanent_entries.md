@@ -1,3 +1,286 @@
+ ## Office of Student Affairs – Mission and location information for the Office of Student Affairs
+ - [https://studentaffairs.engin.umich.edu](https://studentaffairs.engin.umich.edu)
+ - date_published: 2024-07-02T03:52:28+00:00
+
+ ## Home
+ - [https://studyrealestate.umich.edu](https://studyrealestate.umich.edu)
+ - date_published: 2024-07-08T14:53:28.523560+00:00
+
+ ## Home | Systems Lab
+ - [https://systems.engin.umich.edu](https://systems.engin.umich.edu)
+ - date_published: 2024-07-14T04:46:33.261120+00:00
+
+ ## Taubman College of Architecture and Urban Planning - University of Michigan
+ - [https://taubmancollege.umich.edu](https://taubmancollege.umich.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## TCORS         :
+         Center for the Assessment of Tobacco Regulations (CAsToR): Homepage         :
+ - [https://tcors.umich.edu](https://tcors.umich.edu)
+ - date_published: 2024-07-01T03:31:57.091652+00:00
+
+ ## TeamDynamix Sign-In
+ - [https://teamdynamix.umich.edu](https://teamdynamix.umich.edu)
+ - date_published: 2024-04-17T19:45:22+00:00
+
+ ## Home
+ - [https://traffic.engin.umich.edu](https://traffic.engin.umich.edu)
+ - date_published: 2024-06-22T11:47:48.392576+00:00
+
+ ## University of Michigan
+ - [https://umich.edu](https://umich.edu)
+ - date_published: 2024-05-02T12:42:38.088438+00:00
+
+ ## University of Michigan Museum of Art
+ - [https://umma.umich.edu](https://umma.umich.edu)
+ - date_published: 2024-07-02T03:55:29.096608+00:00
+
+ ## Home - Vision 2034
+ - [https://vision2034.umich.edu](https://vision2034.umich.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Vision @ UMich
+ - [http://vision.eecs.umich.edu](http://vision.eecs.umich.edu)
+ - date_published: 2019-08-27T00:00:00+00:00
+
+ ## Office of the Vice President for Communications
+ - [https://vpcomm.umich.edu](https://vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:27:48.263741+00:00
+
+ ## EECS Department
+ - [https://web.eecs.umich.edu](https://web.eecs.umich.edu)
+ - date_published: 2024-01-09T03:28:40.266068+00:00
+
+ ## University of Michigan-Dearborn Library Catalog
+ - [https://wizard.umd.umich.edu](https://wizard.umd.umich.edu)
+ - date_published: 2024-07-02T03:46:38.315078+00:00
+
+ ## Wolverine Access - Find & Favorite University of Michigan Resources
+ - [https://wolverineaccess.umich.edu](https://wolverineaccess.umich.edu)
+ - date_published: 2024-05-07T21:27:09.394140+00:00
+
+ ## Biomedical Engineering - BME
+ - [https://bme.umich.edu](https://bme.umich.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CITI: 
+
+Center for Information Technology Integration
+ - [http://www.citi.umich.edu](http://www.citi.umich.edu)
+ - date_published: 2024-07-13T20:10:50.185225+00:00
+
+ ## Center for the Study of Complex Systems | U-M LSA Center for the Study of Complex Systems
+ - [https://www.cscs.umich.edu](https://www.cscs.umich.edu)
+ - date_published: 2024-05-07T15:26:41.313724+00:00
+
+ ## Home | Division of Public Safety & Security
+ - [https://www.dpss.umich.edu](https://www.dpss.umich.edu)
+ - date_published: 2024-07-02T03:53:45.232523+00:00
+
+ ## Electrical Engineering and Computer Science at the University of Michigan
+ - [https://www.eecs.umich.edu](https://www.eecs.umich.edu)
+ - date_published: 2024-05-07T21:29:41.357227+00:00
+
+ ## University of Michigan-Dearborn
+ - [http://www.engin.umd.umich.edu](http://www.engin.umd.umich.edu)
+ - date_published: 2024-06-22T09:27:37+00:00
+
+ ## eResearch / U-M Information and Technology Services
+ - [http://www.eresearch.umich.edu](http://www.eresearch.umich.edu)
+ - date_published: 2024-07-02T03:41:01+00:00
+
+ ## ICPSR Data Excellence Research Impact
+ - [https://www.icpsr.umich.edu](https://www.icpsr.umich.edu)
+ - date_published: 2024-07-02T04:02:04.712947+00:00
+
+ ## International Institute | U-M LSA International Institute
+ - [http://www.ii.umich.edu](http://www.ii.umich.edu)
+ - date_published: 2024-07-03T15:50:44.530459+00:00
+
+ ## University of Michigan Law School
+ - [https://www.law.umich.edu](https://www.law.umich.edu)
+ - date_published: 2024-05-04T07:29:47.778798+00:00
+
+ ## University of Michigan Library
+ - [https://www.lib.umich.edu](https://www.lib.umich.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## redirect
+ - [http://math.lsa.umich.edu](http://math.lsa.umich.edu)
+ - date_published: 2024-05-08T09:49:24.106095+00:00
+
+ ## Home
+ - [http://www.ns.umich.edu](http://www.ns.umich.edu)
+ - date_published: 2024-07-01T20:13:27+00:00
+
+ ## Department of Pathology
+ - [https://pathology.med.umich.edu](https://pathology.med.umich.edu)
+ - date_published: 2024-05-07T21:28:09.619892+00:00
+
+ ## University of Michigan
+ - [http://www-personal.umich.edu](http://www-personal.umich.edu)
+ - date_published: 2024-06-22T08:05:46.696812+00:00
+
+ ## Homepage | U-M Office of the Provost
+ - [https://www.provost.umich.edu](https://www.provost.umich.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://www.publishing.umich.edu](https://www.publishing.umich.edu)
+ - date_published: 2024-06-17T14:11:39.217211+00:00
+
+ ## U-M Weblogin - Loading Session Information
+ - [https://www-scopus-com.proxy.lib.umich.edu](https://www-scopus-com.proxy.lib.umich.edu)
+ - date_published: 2024-07-02T03:50:37.746941+00:00
+
+ ## School of Information | University of Michigan
+ - [https://www.si.umich.edu](https://www.si.umich.edu)
+ - date_published: 2024-06-20T13:03:23+00:00
+
+ ## The University of Missouri-Kansas City
+ - [https://calendar.umkc.edu](https://calendar.umkc.edu)
+ - date_published: 2024-07-05T18:30:18+00:00
+
+ ## Sign in to your account
+ - [https://cms.umkc.edu](https://cms.umkc.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Financial Aid and Scholarships | Financial Aid and Scholarships | University of Missouri - Kansas City
+ - [https://finaid.umkc.edu](https://finaid.umkc.edu)
+ - date_published: 2024-05-17T21:39:16+00:00
+
+ ## UMKC WordPress | WordPress hosting at the University of Missouri-Kansas City
+ - [https://info.umkc.edu](https://info.umkc.edu)
+ - date_published: 2024-07-07T03:28:12.253468+00:00
+
+ ## Home | School of Law | University of Missouri - Kansas City
+ - [http://law2.umkc.edu](http://law2.umkc.edu)
+ - date_published: 2024-07-06T05:03:47+00:00
+
+ ## Service Discovery
+ - [https://myroo.umkc.edu](https://myroo.umkc.edu)
+ - date_published: 2024-07-07T03:28:10.714874+00:00
+
+ ## The University of Missouri-Kansas City
+ - [https://umkc.edu](https://umkc.edu)
+ - date_published: 2024-05-08T09:05:35.626954+00:00
+
+ ## Faculty/Staff Websites & Bios | Communications Strategy | Expertise | Brand, Communications & Creative Strategy
+ - [https://faculty.uml.edu](https://faculty.uml.edu)
+ - date_published: 2024-05-07T15:18:30.018327+00:00
+
+ ## SITES.UML.EDU – Faculty sites from our community
+ - [https://sites.uml.edu](https://sites.uml.edu)
+ - date_published: 2024-06-30T05:12:05.724856+00:00
+
+ ## Computer Vision and Learning Group at UMass Lowell
+ - [http://vision.cs.uml.edu](http://vision.cs.uml.edu)
+ - date_published: 2017-06-16T14:27:47+00:00
+
+ ## UMass Lowell
+ - [https://uml.edu](https://uml.edu)
+ - date_published: 2024-05-07T15:18:25.179625+00:00
+
+ ## About UMD | UMN Duluth
+ - [https://about.d.umn.edu](https://about.d.umn.edu)
+ - date_published: 2024-07-12T19:39:00+00:00
+
+ ## University of Minnesota Duluth
+ - [https://academics.d.umn.edu](https://academics.d.umn.edu)
+ - date_published: 2024-07-12T18:47:18+00:00
+
+ ## Academic Programs | University of Minnesota Morris
+ - [https://academics.morris.umn.edu](https://academics.morris.umn.edu)
+ - date_published: 2024-07-13T08:07:28+00:00
+
+ ## Accessible U | Accessible U
+ - [https://accessibility.umn.edu](https://accessibility.umn.edu)
+ - date_published: 2024-06-12T19:57:51+00:00
+
+ ## Office of Admissions
+ - [https://admissions.crk.umn.edu](https://admissions.crk.umn.edu)
+ - date_published: 2024-07-13T04:04:14+00:00
+
+ ## UMN Duluth Admissions
+ - [https://admissions.d.umn.edu](https://admissions.d.umn.edu)
+ - date_published: 2024-07-12T20:16:47+00:00
+
+ ## Office of Admissions | University of Minnesota Twin Cities
+ - [https://admissions.tc.umn.edu](https://admissions.tc.umn.edu)
+ - date_published: 2024-05-11T07:55:17.419038+00:00
+
+ ## Office of Admissions | University of Minnesota Twin Cities
+ - [https://admit.umn.edu](https://admit.umn.edu)
+ - date_published: 2024-07-02T17:33:58+00:00
+
+ ## Academic Advising
+ - [http://advisingblog.cse.umn.edu](http://advisingblog.cse.umn.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Alumni Relations | UMN Duluth
+ - [https://alumni.d.umn.edu](https://alumni.d.umn.edu)
+ - date_published: 2024-07-10T16:14:05+00:00
+
+ ## Alumni Association | UMN Morris Alumni Association
+ - [https://alumni.morris.umn.edu](https://alumni.morris.umn.edu)
+ - date_published: 2024-07-10T14:00:37+00:00
+
+ ## Undergraduate Admissions
+ - [https://apply.d.umn.edu](https://apply.d.umn.edu)
+ - date_published: 2024-07-12T20:16:51+00:00
+
+ ## Admissions
+ - [https://apply.r.umn.edu](https://apply.r.umn.edu)
+ - date_published: 2024-07-01T19:03:50+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://apps.lib.umn.edu](https://apps.lib.umn.edu)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home | Minnesota Landscape Arboretum
+ - [https://arb.umn.edu](https://arb.umn.edu)
+ - date_published: 2024-05-06T17:28:57.044339+00:00
+
+ ## About Architecture | College of Design
+ - [https://arch.design.umn.edu](https://arch.design.umn.edu)
+ - date_published: 2024-05-08T11:43:59.977564+00:00
+
+ ## Home Page | Biophilic Net-Positive Design Project
+ - [https://biophilicdesign.umn.edu](https://biophilicdesign.umn.edu)
+ - date_published: 2024-06-12T14:38:08+00:00
+
+ ## Biographies | Medical Scientist Training Program (MD/PhD) Student Directory
+ - [https://bios.mdphd.umn.edu](https://bios.mdphd.umn.edu)
+ - date_published: 2024-05-07T21:30:24.597159+00:00
+
+ ## University of Minnesota Bookstores |
+ - [https://bookstores.umn.edu](https://bookstores.umn.edu)
+ - date_published: 2024-05-11T07:55:31.338281+00:00
+
+ ## College of Arts, Humanities, and Social Sciences | UMN Duluth
+ - [https://cahss.d.umn.edu](https://cahss.d.umn.edu)
+ - date_published: 2024-07-11T15:10:14+00:00
+
+ ## University of Minnesota Duluth: Events Calendar
+ - [https://calendar.d.umn.edu](https://calendar.d.umn.edu)
+ - date_published: 2024-07-03T15:11:12+00:00
+
+ ## Campus Climate | UMN Duluth
+ - [https://campus-climate.d.umn.edu](https://campus-climate.d.umn.edu)
+ - date_published: 2024-07-10T15:07:05+00:00
+
+ ## Campus Life
+ - [https://campus-life.d.umn.edu](https://campus-life.d.umn.edu)
+ - date_published: 2024-07-12T19:16:29+00:00
+
+ ## Campus Maps Home | Campus Maps
+ - [https://campusmaps.umn.edu](https://campusmaps.umn.edu)
+ - date_published: 2024-05-11T07:53:05.390948+00:00
+
+ ## Career Services | University of Minnesota-Twin Cities: Carlson School of Management
+ - [https://careercenter.carlsonschool.umn.edu](https://careercenter.carlsonschool.umn.edu)
+ - date_published: 2024-07-03T18:13:16.514320+00:00
+
  ## Home
  - [https://carlsonschool.umn.edu](https://carlsonschool.umn.edu)
  - date_published: 2024-07-03T18:08:12+00:00
@@ -3736,285 +4019,4 @@
  ## Penn’s Action Plan to Combat Antisemitism | Antisemitism Action Plan
  - [https://antisemitism-action-plan.upenn.edu](https://antisemitism-action-plan.upenn.edu)
  - date_published: 2024-07-02T06:09:33+00:00
-
- ## Admissions | Weitzman
- - [https://apply.design.upenn.edu](https://apply.design.upenn.edu)
- - date_published: 2024-07-08T13:42:22+00:00
-
- ## ASSET – AI-enable Systems: Safe, Explainable, and Trustworthy
- - [https://asset.seas.upenn.edu](https://asset.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:17.031451+00:00
-
- ## Design Awards Home | Stuart Weitzman School of Design Awards
- - [https://awards.design.upenn.edu](https://awards.design.upenn.edu)
- - date_published: 2024-06-28T16:12:34+00:00
-
- ## Advancing Women in Engineering |
- - [https://awe.seas.upenn.edu](https://awe.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:50.993253+00:00
-
- ## Home
- - [https://bcfg.wharton.upenn.edu](https://bcfg.wharton.upenn.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Bioengineering | A Department of the School of Engineering and Applied Science
- - [https://be.seas.upenn.edu](https://be.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:01.738354+00:00
-
- ## Computer and Information Science @ Penn Engineering
- - [https://blog.cis.upenn.edu](https://blog.cis.upenn.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Penn Engineering Blog - Posts from the School of Engineering and Applied Science
- - [https://blog.seas.upenn.edu](https://blog.seas.upenn.edu)
- - date_published: 2023-10-25T19:03:53.115035+00:00
-
- ## Boon Thau Loo – RCA Professor, Associate Dean, Graduate Programs – School of Engineering and Applied Science
- - [https://boonloo.cis.upenn.edu](https://boonloo.cis.upenn.edu)
- - date_published: 2024-07-02T10:29:31.574196+00:00
-
- ## Penn Boot Camps
- - [https://bootcamp.sas.upenn.edu](https://bootcamp.sas.upenn.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Home | Penn Brand Standards
- - [https://branding.web-resources.upenn.edu](https://branding.web-resources.upenn.edu)
- - date_published: 2024-07-02T05:36:48+00:00
-
- ## Penn Wharton Budget Model
- - [https://budgetmodel.wharton.upenn.edu](https://budgetmodel.wharton.upenn.edu)
- - date_published: 2023-10-25T19:03:56.322160+00:00
-
- ## Podcasts
- - [https://businessradio.wharton.upenn.edu](https://businessradio.wharton.upenn.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Career Services | University of Pennsylvania
- - [https://careerservices.upenn.edu](https://careerservices.upenn.edu)
- - date_published: 2024-07-02T10:30:27.153899+00:00
-
- ## Linguistic Data Consortium - Linguistic Data Consortium
- - [https://catalog.ldc.upenn.edu](https://catalog.ldc.upenn.edu)
- - date_published: 2024-06-22T13:12:24.115759+00:00
-
- ## 2023-24 University Catalog < University of Pennsylvania
- - [https://catalog.upenn.edu](https://catalog.upenn.edu)
- - date_published: 2024-05-07T21:59:09.524495+00:00
-
- ## Chemical and Biomolecular Engineering | A Department of the School of Engineering and Applied Science
- - [https://cbe.seas.upenn.edu](https://cbe.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:45.181122+00:00
-
- ## University of Pennsylvania - School of Arts & Sciences | School of Arts and Sciences - University of Pennsylvania
- - [http://ccat.sas.upenn.edu](http://ccat.sas.upenn.edu)
- - date_published: 2024-06-21T18:40:25+00:00
-
- ## CETS | Computing and Educational Technology Services
- - [https://cets.seas.upenn.edu](https://cets.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:35.960615+00:00
-
- ## CG@Penn
- - [http://cg.cis.upenn.edu](http://cg.cis.upenn.edu)
- - date_published: 2020-09-25T17:53:10+00:00
-
- ## Penn Business Services
- - [https://cms.business-services.upenn.edu](https://cms.business-services.upenn.edu)
- - date_published: 2024-06-13T19:16:38+00:00
-
- ## Search Classes
- - [https://courses.upenn.edu](https://courses.upenn.edu)
- - date_published: 2024-06-18T19:31:59+00:00
-
- ## Department of Criminology
- - [http://crim.sas.upenn.edu](http://crim.sas.upenn.edu)
- - date_published: 2024-06-22T06:01:41+00:00
-
- ## Welcome - The Center for Social Impact Strategy
- - [https://csis.upenn.edu](https://csis.upenn.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Computational Social Science Lab | Projects and Labs
- - [https://css.seas.upenn.edu](https://css.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:35.839983+00:00
-
- ## Penn CURF
- - [https://curf.upenn.edu](https://curf.upenn.edu)
- - date_published: 2024-07-02T03:46:41+00:00
-
- ## Development and Alumni Relations |
- - [https://dar.seas.upenn.edu](https://dar.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:50.740386+00:00
-
- ## MSE in Data Science
- - [https://dats.seas.upenn.edu](https://dats.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:43.441043+00:00
-
- ## Digital.library server at Penn Libraries
- - [https://digital.library.upenn.edu](https://digital.library.upenn.edu)
- - date_published: 2022-07-29T17:55:35+00:00
-
- ## Penn Online Directory - Search
- - [https://directory.apps.upenn.edu](https://directory.apps.upenn.edu)
- - date_published: 2024-05-07T21:58:26.537026+00:00
-
- ## Faculty Directory |
- - [https://directory.seas.upenn.edu](https://directory.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:40.094131+00:00
-
- ## Office of Diversity, Equity and Inclusion |
- - [https://diversity.seas.upenn.edu](https://diversity.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:58.936381+00:00
-
- ## Diversity and Inclusion | Penn Diversity and Inclusion
- - [https://diversity.upenn.edu](https://diversity.upenn.edu)
- - date_published: 2024-07-02T05:36:46+00:00
- - tags: ['dei']
-
- ## Homepage
- - [https://doctoral.wharton.upenn.edu](https://doctoral.wharton.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Distributed Systems Laboratory – Investigating Advanced Distributed Systems and Networking Technologies
- - [https://dsl.cis.upenn.edu](https://dsl.cis.upenn.edu)
- - date_published: 2024-07-02T10:30:52.757825+00:00
-
- ## Engineering Entrepreneurship | Fostering Innovation for Future Leaders
- - [https://eent.seas.upenn.edu](https://eent.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:48.406481+00:00
-
- ## Engheta Group – At the University of Pennsylvania
- - [https://engheta.seas.upenn.edu](https://engheta.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:26.449680+00:00
-
- ## Homepage
- - [https://entrepreneurship.wharton.upenn.edu](https://entrepreneurship.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:57.298608+00:00
-
- ## Engineering Operational Services |
- - [https://eos.seas.upenn.edu](https://eos.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:31.521423+00:00
-
- ## EPM – Electronic Photonic Microsystems Lab
- - [https://epm.seas.upenn.edu](https://epm.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:23.194643+00:00
-
- ## Penn Engineering Events |
- - [https://events.seas.upenn.edu](https://events.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:19.158165+00:00
-
- ## Home Page
- - [https://executiveeducation.wharton.upenn.edu](https://executiveeducation.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EMBA Homepage
- - [https://executivemba.wharton.upenn.edu](https://executivemba.wharton.upenn.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home Page
- - [https://executive.wharton.upenn.edu](https://executive.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Faculty Affairs |
- - [https://facultyaffairs.seas.upenn.edu](https://facultyaffairs.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:21.514810+00:00
-
- ## Wharton Faculty Platform
- - [https://faculty.wharton.upenn.edu](https://faculty.wharton.upenn.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home
- - [https://fisher.wharton.upenn.edu](https://fisher.wharton.upenn.edu)
- - date_published: 2024-06-21T11:42:59.091675+00:00
-
- ## Giving to Penn
- - [https://giving.apps.upenn.edu](https://giving.apps.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Giving to Penn
- - [https://giving.aws.cloud.upenn.edu](https://giving.aws.cloud.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Inspiring Impact | University of Pennsylvania
- - [http://giving.upenn.edu](http://giving.upenn.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Penn Global
- - [https://global.upenn.edu](https://global.upenn.edu)
- - date_published: 2024-06-18T13:45:23+00:00
-
- ## Home Page
- - [https://global.wharton.upenn.edu](https://global.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:26.976137+00:00
-
- ## Wharton Global Youth Program Home
- - [https://globalyouth.wharton.upenn.edu](https://globalyouth.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:54.245043+00:00
-
- ## Penn Engineering Graduate Admissions
- - [https://gradadm.seas.upenn.edu](https://gradadm.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:45.434601+00:00
-
- ## Graduate Affairs |
- - [https://grad.seas.upenn.edu](https://grad.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:21.307517+00:00
-
- ## groups.sas.upenn.edu Mailing Lists
- - [https://groups.sas.upenn.edu](https://groups.sas.upenn.edu)
- - date_published: 2024-05-07T21:59:00.890305+00:00
-
- ## Guides: Guides Home: Research Guides
- - [https://guides.library.upenn.edu](https://guides.library.upenn.edu)
- - date_published: 2024-07-01T18:48:13.998189+00:00
-
- ## Andreas Haeberlen
- - [https://haeberlen.cis.upenn.edu](https://haeberlen.cis.upenn.edu)
- - date_published: 2024-07-02T10:29:50.654958+00:00
-
- ## University of Pennsylvania Libraries - Handle Testing
- - [http://hdl.library.upenn.edu](http://hdl.library.upenn.edu)
- - date_published: 2021-10-30T00:18:01+00:00
-
- ## Penn Computer & Information Science Highlights – Inventing the future
- - [https://highlights.cis.upenn.edu](https://highlights.cis.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Human Resources |
- - [https://hr.seas.upenn.edu](https://hr.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:28.412548+00:00
-
- ## Penn Arts and Sciences High School Programs
- - [https://hs.sas.upenn.edu](https://hs.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:57.730525+00:00
-
- ## ImpactED
- - [https://impact-ed.sas.upenn.edu](https://impact-ed.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:53.184194+00:00
-
- ## In Principle and Practice
- - [https://in-principle-and-practice.upenn.edu](https://in-principle-and-practice.upenn.edu)
- - date_published: 2024-05-07T21:57:57.763631+00:00
-
- ## Wharton Inside
- - [https://inside.wharton.upenn.edu](https://inside.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:49.962025+00:00
-
- ## Game Changing Learning
- - [https://interactive.wharton.upenn.edu](https://interactive.wharton.upenn.edu)
- - date_published: 2024-07-02T05:38:09.695427+00:00
-
- ## Language Log
- - [http://itre.cis.upenn.edu](http://itre.cis.upenn.edu)
- - date_published: 2024-06-30T08:51:49.065094+00:00
-
- ## Home Page - Knowledge at Wharton
- - [https://knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu)
- - date_published: 2023-10-25T19:04:01.029385+00:00
-
- ## 5th L4DC Conference – June 2023, University of Pennsylvania, PA
- - [https://l4dc.seas.upenn.edu](https://l4dc.seas.upenn.edu)
- - date_published: 2024-06-22T08:19:34.928209+00:00
-
- ## Language Log
- - [https://languagelog.ldc.upenn.edu](https://languagelog.ldc.upenn.edu)
- - date_published: 2023-10-25T19:04:08.709335+00:00
 

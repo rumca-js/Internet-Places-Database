@@ -1,3 +1,254 @@
+ ## Nudge for companies | The networking app that builds up engaged communities
+ - [https://www.withanudge.com](https://www.withanudge.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## 위드앱스 - 모두의알림, GA부스터, 픽셀매니저, GA자동스크립트
+ - [https://withapps.com](https://withapps.com)
+ - date_published: 2024-07-03T12:34:58.350079+00:00
+
+ ## Aqua Voice - Voice-only Document Editor
+ - [https://withaqua.com](https://withaqua.com)
+ - date_published: 2024-03-26T16:00:52.075156+00:00
+
+ ## Cabin | Privacy-first, Google Analytics alternative
+ - [https://withcabin.com](https://withcabin.com)
+ - date_published: 2024-06-28T16:11:06.866420+00:00
+
+ ## Cardinal is the Database for Humans
+ - [https://withcardinal.com](https://withcardinal.com)
+ - date_published: 2023-10-25T18:07:14.230770+00:00
+
+ ## Best Casino Bonuses In Canada » Find Your Bonus Code
+ - [https://withcasinobonus.com](https://withcasinobonus.com)
+ - date_published: 2023-07-08T21:36:44+00:00
+ - tags: ['gambling']
+
+ ## Coherence
+ - [https://app.withcoherence.com](https://app.withcoherence.com)
+ - date_published: 2024-05-07T14:29:46.291017+00:00
+
+ ## Coherence — The Next Generation Developer Platform
+ - [https://auth.withcoherence.com](https://auth.withcoherence.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Coherence
+ - [https://beta.withcoherence.com](https://beta.withcoherence.com)
+ - date_published: 2024-06-28T21:03:08+00:00
+
+ ## Coherence Documentation | Coherence Documentation
+ - [https://docs.withcoherence.com](https://docs.withcoherence.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Coherence — The Integrated Developer Platform for your own cloud account
+ - [https://withcoherence.com](https://withcoherence.com)
+ - date_published: 2023-10-25T18:07:16.180638+00:00
+
+ ## The Manual
+ - [https://manual.withcompound.com](https://manual.withcompound.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Compound Planning | Modern Wealth & Investment Management
+ - [https://withcompound.com](https://withcompound.com)
+ - date_published: 2023-10-25T18:07:21.872974+00:00
+
+ ## Dewey: Your new accountability buddy
+ - [https://www.withdewey.com](https://www.withdewey.com)
+ - date_published: 2024-06-19T19:34:41.313563+00:00
+
+ ## Diode — Build, program, and simulate hardware
+ - [https://withdiode.com](https://withdiode.com)
+ - date_published: 2024-05-07T14:29:55.207080+00:00
+ - tags: ['hardware', 'simulator']
+
+ ## Remote assistants for busy executives
+ - [https://withdouble.com](https://withdouble.com)
+ - date_published: 2024-05-06T13:04:54.167817+00:00
+
+ ## Delegate to a Virtual Assistant in One Click!
+ - [https://work.withdouble.com](https://work.withdouble.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Nonobvious | Edge | Substack
+ - [https://blog.withedge.com](https://blog.withedge.com)
+ - date_published: 2023-10-25T18:07:38.413246+00:00
+
+ ## Trust Center
+ - [https://trust.withedge.com](https://trust.withedge.com)
+ - date_published: 2024-06-29T22:46:42.623840+00:00
+
+ ## Edge - A patent assistant that completes hours-long tasks in seconds
+ - [https://withedge.com](https://withedge.com)
+ - date_published: 2024-04-18T20:38:46+00:00
+
+ ## StratNews Global | South Asia and Beyond
+ - [https://live.withexamplesz.com](https://live.withexamplesz.com)
+ - date_published: 2024-05-11T10:53:51.848212+00:00
+
+ ## Fanfare - All-in-one podcast promotion
+ - [https://www.withfanfare.com](https://www.withfanfare.com)
+ - date_published: 2024-05-02T13:43:15.355604+00:00
+
+ ## Foundation
+ - [https://withfoundation.com](https://withfoundation.com)
+ - date_published: 2024-07-24T02:32:46.113464+00:00
+
+ ## AI Test Kitchen
+ - [https://aitestkitchen.withgoogle.com](https://aitestkitchen.withgoogle.com)
+ - date_published: 2024-04-27T08:27:12.194990+00:00
+
+ ## Android Business Device Solutions Directory - Android Enterprise
+ - [https://androidenterprisepartners.withgoogle.com](https://androidenterprisepartners.withgoogle.com)
+ - date_published: 2024-06-20T09:11:05.961315+00:00
+
+ ## Android Offensive Security Blog
+ - [https://androidoffsec.withgoogle.com](https://androidoffsec.withgoogle.com)
+ - date_published: 2024-06-04T21:25:59.749219+00:00
+
+ ## Teach & Learn Practical Digital Skills - Applied Digital Skills
+ - [https://applieddigitalskills.withgoogle.com](https://applieddigitalskills.withgoogle.com)
+ - date_published: 2024-07-13T18:43:56.811495+00:00
+
+ ## Arts & Culture Experiments - Experiments with Google
+ - [https://artsexperiments.withgoogle.com](https://artsexperiments.withgoogle.com)
+ - date_published: 2024-06-17T02:50:16.065031+00:00
+
+ ## Google Bug Hunters
+ - [https://bughunter.withgoogle.com](https://bughunter.withgoogle.com)
+ - date_published: 2024-05-04T14:44:56.715191+00:00
+
+ ## Build your future with Google
+ - [https://buildyourfuture.withgoogle.com](https://buildyourfuture.withgoogle.com)
+ - date_published: 2024-06-20T09:11:26.440789+00:00
+
+ ## Google CTF
+ - [https://capturetheflag.withgoogle.com](https://capturetheflag.withgoogle.com)
+ - date_published: 2024-06-03T09:41:27+00:00
+
+ ## Explore Apps for Learning & Teaching - Google for Education
+ - [https://chromebookapphub.withgoogle.com](https://chromebookapphub.withgoogle.com)
+ - date_published: 2024-06-27T12:28:00+00:00
+
+ ## Google Cloud Blog | News, Features and Announcements
+ - [https://cloudblog.withgoogle.com](https://cloudblog.withgoogle.com)
+ - date_published: 2024-05-04T08:31:14.568833+00:00
+
+ ## Cloud Computing Services | Google Cloud
+ - [https://cloud.withgoogle.com](https://cloud.withgoogle.com)
+ - date_published: 2024-05-04T08:29:14.499424+00:00
+
+ ## Unlocking the full value of Consent Mode with partner support
+ - [https://cmppartnerprogram.withgoogle.com](https://cmppartnerprogram.withgoogle.com)
+ - date_published: 2024-06-15T01:35:03.183706+00:00
+
+ ## Code Next
+ - [https://codenext.withgoogle.com](https://codenext.withgoogle.com)
+ - date_published: 2024-06-20T09:11:28.574827+00:00
+
+ ## CSP Evaluator
+ - [https://csp-evaluator.withgoogle.com](https://csp-evaluator.withgoogle.com)
+ - date_published: 2024-06-17T11:40:44.688571+00:00
+
+ ## Introduction - Content Security Policy
+ - [https://csp.withgoogle.com](https://csp.withgoogle.com)
+ - date_published: 2024-04-27T08:26:47.966213+00:00
+
+ ## Share and engage with the Design Sprint Community
+ - [https://designsprintkit.withgoogle.com](https://designsprintkit.withgoogle.com)
+ - date_published: 2024-07-19T16:23:47.197213+00:00
+
+ ## Google Dev Library | What will you build?
+ - [https://devlibrary.withgoogle.com](https://devlibrary.withgoogle.com)
+ - date_published: 2024-04-27T08:04:38.868828+00:00
+
+ ## Experiments with Google
+ - [https://experiments.withgoogle.com](https://experiments.withgoogle.com)
+ - date_published: 2024-05-04T08:28:32.611651+00:00
+
+ ## Federated Learning
+ - [https://federated.withgoogle.com](https://federated.withgoogle.com)
+ - date_published: 2024-07-07T10:24:48.321920+00:00
+
+ ## Google Frightgeist
+ - [https://frightgeist.withgoogle.com](https://frightgeist.withgoogle.com)
+ - date_published: 2024-06-18T07:43:09.561806+00:00
+
+ ## Hire by Google - Farewell
+ - [https://hire.withgoogle.com](https://hire.withgoogle.com)
+ - date_published: 2020-09-01T00:00:00+00:00
+
+ ## Cloud Computing Services | Google Cloud
+ - [https://inthecloud.withgoogle.com](https://inthecloud.withgoogle.com)
+ - date_published: 2024-05-04T08:30:17.756309+00:00
+
+ ## Google's latest experiments in Labs
+ - [https://labs.withgoogle.com](https://labs.withgoogle.com)
+ - date_published: 2023-10-25T18:07:40.867814+00:00
+
+ ## https://learnkubernetes.withgoogle.com
+ - [https://learnkubernetes.withgoogle.com](https://learnkubernetes.withgoogle.com)
+ - date_published: 2024-01-09T02:54:28.714253+00:00
+
+ ## Google Cloud Model Cards
+ - [https://modelcards.withgoogle.com](https://modelcards.withgoogle.com)
+ - date_published: 2024-05-13T18:26:36+00:00
+
+ ## Hello Morse - Experiments with Google
+ - [http://morse.withgoogle.com](http://morse.withgoogle.com)
+ - date_published: 2024-06-20T09:10:29.258922+00:00
+
+ ## Google News Initiative - Home
+ - [https://newsinitiative.withgoogle.com](https://newsinitiative.withgoogle.com)
+ - date_published: 2024-06-12T01:29:02.211184+00:00
+
+ ## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date_published: 2023-10-25T18:07:44.673354+00:00
+
+ ## Looking to expand your business with the help of Google Ads experts?
+ - [https://partnersdirectory.withgoogle.com](https://partnersdirectory.withgoogle.com)
+ - date_published: 2024-06-20T20:45:19.916595+00:00
+
+ ## Take Jigsaw's Phishing Quiz
+ - [https://phishingquiz.withgoogle.com](https://phishingquiz.withgoogle.com)
+ - date_published: 2023-08-24T13:10:58+00:00
+
+ ## Grow with Google - Szkolenia online do rozwoju firmy i kariery- Grow with Google
+ - [https://pourlespros.withgoogle.com](https://pourlespros.withgoogle.com)
+ - date_published: 2024-06-20T09:30:00.171613+00:00
+
+ ## Quick, Draw!
+ - [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com)
+ - date_published: 2024-05-11T09:54:43.659797+00:00
+
+ ## Google re:Work
+ - [https://rework.withgoogle.com](https://rework.withgoogle.com)
+ - date_published: 2024-06-21T09:19:07.983363+00:00
+
+ ## Google for Education - Materiały dla nauczycieli i uczniów dostępne online
+ - [https://sciencejournal.withgoogle.com](https://sciencejournal.withgoogle.com)
+ - date_published: 2024-05-04T09:41:02.351957+00:00
+
+ ## Site Kit by Google
+ - [https://sitekit.withgoogle.com](https://sitekit.withgoogle.com)
+ - date_published: 2019-10-08T00:00:00+00:00
+
+ ## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date_published: 2023-10-25T18:07:48.328715+00:00
+
+ ## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date_published: 2023-10-25T18:07:51.710648+00:00
+
+ ## Google Teachable Machine
+ - [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
+ - date_published: 2024-01-07T03:20:02+00:00
+ - tags: ['machine learning']
+
+ ## Tech Day at Google
+ - [https://techday.withgoogle.com](https://techday.withgoogle.com)
+ - date_published: 2024-04-27T08:04:12.783223+00:00
+
  ## TextFX
  - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
  - date_published: 2023-10-25T18:07:53.024899+00:00
@@ -122,6 +373,10 @@
  ## Orb | We built billing so you don't have to
  - [https://withorb.com](https://withorb.com)
  - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Orbit
+ - [https://withorbit.com](https://withorbit.com)
+ - date_published: 2024-07-27T03:08:05.027564+00:00
 
  ## Stocks, Bonds, Crypto, & Options Investing App - Public.com
  - [https://www.withotis.com](https://www.withotis.com)
@@ -3783,257 +4038,4 @@ Company :: Home
  ## ballblog
  - [http://ballblog.wordpress.com](http://ballblog.wordpress.com)
  - date_published: 2024-06-30T04:14:26.065889+00:00
-
- ## Luca Ballerini
- - [https://balleriniluca.wordpress.com](https://balleriniluca.wordpress.com)
- - date_published: 2024-01-12T02:35:52.479740+00:00
-
- ## Balliol College Archives & Manuscripts
- - [http://balliolarchivist.wordpress.com](http://balliolarchivist.wordpress.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Historic Collections @Balliol
- - [https://balliollibrary.wordpress.com](https://balliollibrary.wordpress.com)
- - date_published: 2024-05-02T10:57:21.167922+00:00
-
- ## Ballistics by the inch
- - [http://ballisticsbytheinch.wordpress.com](http://ballisticsbytheinch.wordpress.com)
- - date_published: 2024-06-21T09:42:40.482152+00:00
-
- ## bálsamo benigno
- - [http://balsamobenigno.wordpress.com](http://balsamobenigno.wordpress.com)
- - date_published: 2024-07-12T21:00:06.002995+00:00
-
- ## Like Dream of Banister Fiend
- - [http://banisterfiend.wordpress.com](http://banisterfiend.wordpress.com)
- - date_published: 2024-06-17T02:18:14+00:00
-
- ## Bank Underground
- - [http://bankunderground.wordpress.com](http://bankunderground.wordpress.com)
- - date_published: 2024-06-30T07:31:19+00:00
-
- ## death of a maiden
- - [https://barbbooks.wordpress.com](https://barbbooks.wordpress.com)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## MAC Awake
- - [http://barefootmeds.wordpress.com](http://barefootmeds.wordpress.com)
- - date_published: 2024-06-30T05:03:35.096102+00:00
-
- ## Barelyon
- - [https://barelyonmusic.wordpress.com](https://barelyonmusic.wordpress.com)
- - date_published: 2023-11-29T18:20:30.794263+00:00
- - tags: ['personal']
-
- ## BARE NAKED ISLAM
- - [http://barenakedislam.wordpress.com](http://barenakedislam.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Blogs by Henk Barendregt
- - [https://barendregt.wordpress.com](https://barendregt.wordpress.com)
- - date_published: 2024-05-07T16:03:45.252516+00:00
-
- ## Baroque in Hackney
- - [http://baroqueinhackney.wordpress.com](http://baroqueinhackney.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Bartholomew's Notes
- - [http://barthsnotes.wordpress.com](http://barthsnotes.wordpress.com)
- - date_published: 2024-06-28T20:51:40.559129+00:00
-
- ## Bartosz Milewski's Programming Cafe
- - [http://bartoszmilewski.wordpress.com](http://bartoszmilewski.wordpress.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Basile Van Hoorick
- - [https://basilevh.wordpress.com](https://basilevh.wordpress.com)
- - date_published: 2024-07-22T05:42:40+00:00
-
- ## Basil Morley Esq.
- - [https://basilmorley.wordpress.com](https://basilmorley.wordpress.com)
- - date_published: 2024-07-10T09:53:33.557981+00:00
-
- ## BayesRules
- - [https://bayesrules.wordpress.com](https://bayesrules.wordpress.com)
- - date_published: 2024-06-30T05:44:51.143192+00:00
-
- ## Climate Asylum
- - [https://bbickmore.wordpress.com](https://bbickmore.wordpress.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Be better and faster
- - [https://bbinto.wordpress.com](https://bbinto.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Applied Game Design
- - [https://bbrathwaite.wordpress.com](https://bbrathwaite.wordpress.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## The Information Policy Blog
- - [http://bclainfopolicycommittee.wordpress.com](http://bclainfopolicycommittee.wordpress.com)
- - date_published: 2024-06-30T10:05:51.077611+00:00
-
- ## Boris Dralyuk
- - [https://bdralyuk.wordpress.com](https://bdralyuk.wordpress.com)
- - date_published: 2024-06-30T07:23:15.108418+00:00
-
- ## Beast's Wargaming Blog
- - [https://beastgaming.wordpress.com](https://beastgaming.wordpress.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## beatfacefridayy
- - [https://beatfacefridayy.wordpress.com](https://beatfacefridayy.wordpress.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## The Beat Patrol | Music and Beat literature-related blogsite
- - [https://beatpatrol.wordpress.com](https://beatpatrol.wordpress.com)
- - date_published: 2023-10-25T18:09:12.393648+00:00
-
- ## Beauty and Skincare by Cherie
- - [http://beautyandskincarebycherie.wordpress.com](http://beautyandskincarebycherie.wordpress.com)
- - date_published: 2024-07-16T16:44:35.412672+00:00
-
- ## Private Site
- - [http://beautybylynmed.wordpress.com](http://beautybylynmed.wordpress.com)
- - date_published: 2024-07-16T16:44:36.189453+00:00
-
- ## Beauty is a Sleeping Cat
- - [http://beautyisasleepingcat.wordpress.com](http://beautyisasleepingcat.wordpress.com)
- - date_published: 2024-06-30T05:56:56.256957+00:00
-
- ## Because They're There...
- - [http://becausetheyrethere.wordpress.com](http://becausetheyrethere.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Private Site
- - [http://bedroomproducers.wordpress.com](http://bedroomproducers.wordpress.com)
- - date_published: 2024-06-30T07:52:46.032858+00:00
-
- ## Pilgerin Belana Hermine
- - [http://belanahermine.wordpress.com](http://belanahermine.wordpress.com)
- - date_published: 2024-06-30T04:12:24.919314+00:00
-
- ## There's no place like home – (residence of electronics enthusiasts)
- - [https://beletronics.wordpress.com](https://beletronics.wordpress.com)
- - date_published: 2023-10-25T18:09:15.682629+00:00
-
- ## Walking the coast of Belgium
- - [https://belgiumcoast.wordpress.com](https://belgiumcoast.wordpress.com)
- - date_published: 2024-05-07T14:47:41.631077+00:00
-
- ## Belle Papillon 24/7
- - [http://bellepapillon247.wordpress.com](http://bellepapillon247.wordpress.com)
- - date_published: 2024-07-15T07:16:09.780338+00:00
-
- ## Ben Katchor:
- - [https://benkatchor.wordpress.com](https://benkatchor.wordpress.com)
- - date_published: 2024-05-13T03:38:43.107624+00:00
-
- ## Earth's Mightiest Blog
- - [https://berkeleyplacecomics.wordpress.com](https://berkeleyplacecomics.wordpress.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Berkshire Research
- - [http://berkshireresearch.wordpress.com](http://berkshireresearch.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Here there be dragons
- - [http://berstein.wordpress.com](http://berstein.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Best IPTV Subscription
- - [https://bestiptvpremiumsubscriptions.wordpress.com](https://bestiptvpremiumsubscriptions.wordpress.com)
- - date_published: 2024-06-20T04:06:19.148519+00:00
-
- ## He Cooks... She Sews!
- - [https://beurreblanc.wordpress.com](https://beurreblanc.wordpress.com)
- - date_published: 2024-05-09T07:24:42.607961+00:00
-
- ## Barry Figgins
- - [http://bfiggins.wordpress.com](http://bfiggins.wordpress.com)
- - date_published: 2024-07-09T14:07:50.405011+00:00
-
- ## bhagmalpur
- - [https://bhagmalpur.wordpress.com](https://bhagmalpur.wordpress.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Biblicism Institute
- - [https://biblicisminstitute.wordpress.com](https://biblicisminstitute.wordpress.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Biblioklept
- - [https://biblioklept.wordpress.com](https://biblioklept.wordpress.com)
- - date_published: 2024-06-19T02:12:14.433183+00:00
-
- ## Bibliographic Wilderness
- - [https://bibwild.wordpress.com](https://bibwild.wordpress.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## BICYCLE DUTCH
- - [https://bicycledutch.wordpress.com](https://bicycledutch.wordpress.com)
- - date_published: 2024-06-20T04:05:45.420183+00:00
-
- ## Big Dan the Blogging Man
- - [https://bigdanzblog.wordpress.com](https://bigdanzblog.wordpress.com)
- - date_published: 2023-10-25T18:09:29.075936+00:00
-
- ## Private Site
- - [https://bigrab.wordpress.com](https://bigrab.wordpress.com)
- - date_published: 2024-06-18T11:14:20.009096+00:00
-
- ## Bijo Sebastian
- - [https://bijosebastian.wordpress.com](https://bijosebastian.wordpress.com)
- - date_published: 2024-06-16T23:36:08.625317+00:00
-
- ## Bill McCloskey's Blog
- - [https://billmccloskey.wordpress.com](https://billmccloskey.wordpress.com)
- - date_published: 2024-07-07T10:33:58.342794+00:00
-
- ## Binary Debt – Systems programming, computer architecture & algorithms
- - [https://binarydebt.wordpress.com](https://binarydebt.wordpress.com)
- - date_published: 2023-10-25T18:09:32.894806+00:00
-
- ## Bio Break
- - [https://biobreak.wordpress.com](https://biobreak.wordpress.com)
- - date_published: 2024-07-11T10:30:36+00:00
-
- ## Ever on & on
- - [http://biochembelle.wordpress.com](http://biochembelle.wordpress.com)
- - date_published: 2024-06-17T12:00:17.415781+00:00
-
- ## Biosingularity
- - [http://biosingularity.wordpress.com](http://biosingularity.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Tempat Wisata di Indonesia
- - [http://birdsredesign.wordpress.com](http://birdsredesign.wordpress.com)
- - date_published: 2024-07-02T06:21:28.516918+00:00
-
- ## Birds' Words
- - [http://birdswords.wordpress.com](http://birdswords.wordpress.com)
- - date_published: 2024-07-02T06:34:23.327970+00:00
-
- ## bitknitting
- - [https://bitknitting.wordpress.com](https://bitknitting.wordpress.com)
- - date_published: 2024-05-09T04:19:48.637852+00:00
-
- ## Bitslog
- - [http://bitslog.wordpress.com](http://bitslog.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Bitterscotch
- - [https://bitterscotch.wordpress.com](https://bitterscotch.wordpress.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## https:/BOOKS.ESLARN-NET.DE
- - [http://bizmarc.wordpress.com](http://bizmarc.wordpress.com)
- - date_published: 2024-06-30T04:14:27.774223+00:00
-
- ## bkapukaranov
- - [https://bkapukaranov.wordpress.com](https://bkapukaranov.wordpress.com)
- - date_published: 2024-07-18T12:22:55.455577+00:00
-
- ## ... decision time
- - [http://blaahblaahblog.wordpress.com](http://blaahblaahblog.wordpress.com)
- - date_published: 2024-06-27T08:11:07.442129+00:00
 

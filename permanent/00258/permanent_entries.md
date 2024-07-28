@@ -1,3 +1,508 @@
+ ## Foyer Vietnam
+ - [http://www.foyer-vietnam.org](http://www.foyer-vietnam.org)
+ - date_published: 2024-06-18T13:14:25+00:00
+
+ ## · Tutorial
+ - [http://fpanalysistools.org](http://fpanalysistools.org)
+ - date_published: 2020-01-27T22:10:02+00:00
+
+ ## FPBench
+ - [https://fpbench.org](https://fpbench.org)
+ - date_published: 2024-05-06T22:45:53.943793+00:00
+
+ ## Financial Partners Credit Union | Best CA Credit Union | Banking
+ - [https://www.fpcu.org](https://www.fpcu.org)
+ - date_published: 2024-05-09T07:35:33.558950+00:00
+
+ ## FreedomProject Academy | Faithfully Educating America
+ - [https://fpeusa.org](https://fpeusa.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - Future of Privacy Forum
+ - [https://engage.fpf.org](https://engage.fpf.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## The Future of Privacy Forum
+ - [https://fpf.org](https://fpf.org)
+ - date_published: 2024-06-18T17:36:30.626711+00:00
+
+ ## The Future of Privacy Forum
+ - [http://www.fpf.org](http://www.fpf.org)
+ - date_published: 2024-06-18T17:36:37.940349+00:00
+
+ ## FPGAcademy
+ - [https://fpgacademy.org](https://fpgacademy.org)
+ - date_published: 2024-06-08T11:03:49+00:00
+ - tags: ['fpga']
+
+ ## Home | Fundación Pasqual Maragall
+ - [https://fpmaragall.org](https://fpmaragall.org)
+ - date_published: 2024-07-02T10:45:10.219860+00:00
+
+ ## The Flying Pigs QRP Club International - W8PIG
+ - [http://fpqrp.org](http://fpqrp.org)
+ - date_published: 2024-06-29T08:00:06.512166+00:00
+
+ ## Friends of Public Radio Arizona | Friends of Public Radio Arizona
+ - [https://fpraz.org](https://fpraz.org)
+ - date_published: 2024-07-22T08:38:18.655141+00:00
+
+ ## Foreign Policy Research Institute - International Policy Think Tank
+ - [https://www.fpri.org](https://www.fpri.org)
+ - date_published: 2024-02-24T18:07:47.400683+00:00
+
+ ## FPSAC / SFCA · Formal Power Series and Algebraic Combinatorics
+ - [http://fpsac.org](http://fpsac.org)
+ - date_published: 2024-05-11T23:10:27+00:00
+
+ ## FPV UK The Drone Association with £5m Public Liability Insurance
+ - [https://www.fpvuk.org](https://www.fpvuk.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## FQxI - Foundational Questions Institute - FQxI
+ - [https://fqxi.org](https://fqxi.org)
+ - date_published: 2023-08-02T00:00:00+00:00
+
+ ## August
+ - [https://www.fractalprotocol.org](https://www.fractalprotocol.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Fractory - Fractory
+ - [https://fractorylab.org](https://fractorylab.org)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Fundraising by Fractured Atlas
+ - [https://fundraising.fracturedatlas.org](https://fundraising.fracturedatlas.org)
+ - date_published: 2024-07-08T18:37:46.411875+00:00
+
+ ## Home | Fermi Research Alliance
+ - [https://fra-hq.org](https://fra-hq.org)
+ - date_published: 2024-05-08T02:51:20.818476+00:00
+
+ ## Framablog – La route est longue mais la voie est libre…
+ - [https://framablog.org](https://framablog.org)
+ - date_published: 2023-10-25T21:22:21.674069+00:00
+
+ ## Alternatives to
+ - [https://framaboard.org](https://framaboard.org)
+ - date_published: 2024-06-30T05:12:05+00:00
+
+ ## La collection Framabook
+ - [https://archives.framabook.org](https://archives.framabook.org)
+ - date_published: 2020-10-08T18:11:32+00:00
+
+ ## Archives Framabook
+ - [https://framabook.org](https://framabook.org)
+ - date_published: 2024-02-06T10:16:12+00:00
+
+ ## Framacalc - Tableur collaboratif en ligne
+ - [https://framacalc.org](https://framacalc.org)
+ - date_published: 2024-06-15T19:19:54+00:00
+
+ ## Framacarte - Personnalisez vos cartes géographiques en ligne
+ - [https://framacarte.org](https://framacarte.org)
+ - date_published: 2024-05-16T08:34:59+00:00
+
+ ## Alternatives to
+ - [https://framaclic.org](https://framaclic.org)
+ - date_published: 2024-04-28T03:12:27.320988+00:00
+
+ ## Choose a language · Framacloud
+ - [https://framacloud.org](https://framacloud.org)
+ - date_published: 2023-06-20T11:32:00+00:00
+
+ ## Framacolibri
+ - [https://framacolibri.org](https://framacolibri.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Framadate - Organiser des rendez-vous simplement, librement.
+ - [https://framadate.org](https://framadate.org)
+ - date_published: 2024-04-18T13:52:14+00:00
+
+ ## Framadrive
+ - [https://framadrive.org](https://framadrive.org)
+ - date_published: 2024-07-10T07:04:32.283083+00:00
+
+ ## Framaforms - Créez et diffusez vos formulaires facilement…
+ - [https://framaforms.org](https://framaforms.org)
+ - date_published: 2024-05-10T04:32:53.658547+00:00
+
+ ## Framagames
+ - [https://framagames.org](https://framagames.org)
+ - date_published: 2022-12-28T16:49:09+00:00
+
+ ## Framagenda
+ - [https://framagenda.org](https://framagenda.org)
+ - date_published: 2024-07-19T19:46:56.782225+00:00
+
+ ## Explore projects · GitLab
+ - [https://framagit.org](https://framagit.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Framagroupes - Groupe de discussion
+ - [https://framagroupes.org](https://framagroupes.org)
+ - date_published: 2023-09-11T07:02:56+00:00
+
+ ## Framakey – Emportez votre liberté avec vous !
+ - [https://framakey.org](https://framakey.org)
+ - date_published: 2014-10-02T00:00:00+00:00
+
+ ## Framalibre
+ - [https://framalibre.org](https://framalibre.org)
+ - date_published: 2024-06-28T14:22:42+00:00
+
+ ## Framalistes - Liste de discussion
+ - [https://framalistes.org](https://framalistes.org)
+ - date_published: 2024-01-11T17:49:05+00:00
+
+ ## Framapad - Éditeur de texte collaboratif
+ - [https://framapad.org](https://framapad.org)
+ - date_published: 2024-01-23T13:25:50+00:00
+
+ ## Framapiaf
+ - [https://framapiaf.org](https://framapiaf.org)
+ - date_published: 2024-04-29T07:26:55.756075+00:00
+
+ ## Alternatives to
+ - [https://framapic.org](https://framapic.org)
+ - date_published: 2024-06-30T05:12:05+00:00
+
+ ## Alternatives à
+ - [https://alt.framasoft.org](https://alt.framasoft.org)
+ - date_published: 2024-07-14T05:12:13+00:00
+
+ ## Argos Panoptès – An open source monitoring and status board for websites
+ - [https://argos-monitoring.framasoft.org](https://argos-monitoring.framasoft.org)
+ - date_published: 2024-06-25T12:55:06+00:00
+
+ ## Cat avatar generator
+ - [https://avatars.framasoft.org](https://avatars.framasoft.org)
+ - date_published: 2024-07-07T02:52:06.944266+00:00
+
+ ## Contacter - Nous écrire
+ - [https://contact.framasoft.org](https://contact.framasoft.org)
+ - date_published: 2024-05-08T09:00:14.665931+00:00
+
+ ## Choose a language · Documentation Framasoft
+ - [https://docs.framasoft.org](https://docs.framasoft.org)
+ - date_published: 2024-04-25T11:05:08+00:00
+
+ ## Framasoft
+ - [https://framasoft.org](https://framasoft.org)
+ - date_published: 2024-05-08T09:00:07.612493+00:00
+
+ ## Choose a language · Participer à Framasoft
+ - [https://participer.framasoft.org](https://participer.framasoft.org)
+ - date_published: 2024-07-23T23:13:46.439821+00:00
+
+ ## Framasoft - Toute l'actualité
+ - [https://rss.framasoft.org](https://rss.framasoft.org)
+ - date_published: 2024-07-07T02:51:53.127231+00:00
+
+ ## Soutenir Framasoft
+ - [https://soutenir.framasoft.org](https://soutenir.framasoft.org)
+ - date_published: 2024-05-07T09:41:48+00:00
+
+ ## Framasoft Weblate
+ - [https://weblate.framasoft.org](https://weblate.framasoft.org)
+ - date_published: 2024-05-08T09:00:09.702214+00:00
+
+ ## Accueil [Wiki Framasoft]
+ - [https://wiki.framasoft.org](https://wiki.framasoft.org)
+ - date_published: 2024-07-03T16:01:04.127046+00:00
+
+ ## Alternatives to
+ - [https://framasphere.org](https://framasphere.org)
+ - date_published: 2024-07-07T05:13:00+00:00
+
+ ## Framastats
+ - [https://framastats.org](https://framastats.org)
+ - date_published: 2024-07-03T16:00:57.303542+00:00
+
+ ## Framatalk - Visioconférence
+ - [https://framatalk.org](https://framatalk.org)
+ - date_published: 2024-07-19T19:46:50.358039+00:00
+
+ ## Framateam
+ - [https://framateam.org](https://framateam.org)
+ - date_published: 2024-05-14T03:30:59.088808+00:00
+
+ ## Framatube
+ - [https://framatube.org](https://framatube.org)
+ - date_published: 2024-05-14T03:48:12.944045+00:00
+
+ ## Framavox - Décider ensemble
+ - [https://framavox.org](https://framavox.org)
+ - date_published: 2023-07-18T15:45:48+00:00
+
+ ## Frameline
+ - [https://www.frameline.org](https://www.frameline.org)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Frames.js - fastest way to build Frames
+ - [https://framesjs.org](https://framesjs.org)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## FrameWorks Institute
+ - [https://frameworksinstitute.org](https://frameworksinstitute.org)
+ - date_published: 2024-06-23T02:00:08.875880+00:00
+
+ ## Framindmap - Cartes heuristiques
+ - [https://framindmap.org](https://framindmap.org)
+ - date_published: 2024-01-11T13:47:59+00:00
+
+ ## Homepage - France Digitale
+ - [https://francedigitale.org](https://francedigitale.org)
+ - date_published: 2024-07-12T23:47:25.193226+00:00
+
+ ## Homepage - France Digitale
+ - [http://www.francedigitale.org](http://www.francedigitale.org)
+ - date_published: 2024-06-21T10:50:06.999971+00:00
+
+ ## francisco san grants
+ - [https://franciscosan.org](https://franciscosan.org)
+ - date_published: 2024-07-19T23:10:19.136067+00:00
+
+ ## Franck Goddio: Homepage
+ - [https://franckgoddio.org](https://franckgoddio.org)
+ - date_published: 2023-10-25T21:22:23.863582+00:00
+ - tags: ['personal']
+
+ ## Portail de l’Organisation internationale de la Francophonie (OIF)
+ - [https://www.francophonie.org](https://www.francophonie.org)
+ - date_published: 2024-06-18T14:04:30.009380+00:00
+
+ ## Frank Bold
+ - [https://en.frankbold.org](https://en.frankbold.org)
+ - date_published: 2024-07-03T02:09:19+00:00
+
+ ## Historischen Verein für Oberfranken e.V.
+ - [https://www.hvo.franken.org](https://www.hvo.franken.org)
+ - date_published: 2024-07-24T07:12:17.399263+00:00
+
+ ## Frankenbook
+ - [https://www.frankenbook.org](https://www.frankenbook.org)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Unofficial Frank Frazetta Fantasy Art Gallery
+ - [http://frankfrazetta.org](http://frankfrazetta.org)
+ - date_published: 2024-07-20T09:23:06.256687+00:00
+
+ ## Building static websites in Julia
+ - [https://franklinjl.org](https://franklinjl.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Frank Y. Wang
+ - [https://frankwang.org](https://frankwang.org)
+ - date_published: 2023-03-05T19:00:42+00:00
+
+ ## Fraser Institute
+ - [https://fraserinstitute.org](https://fraserinstitute.org)
+ - date_published: 2023-10-25T21:22:27.402641+00:00
+
+ ## FrauenLoop Women in Tech Europe
+ - [http://frauenloop.org](http://frauenloop.org)
+ - date_published: 2024-06-21T21:36:36.626426+00:00
+
+ ## Discount Window
+ - [https://www.frbdiscountwindow.org](https://www.frbdiscountwindow.org)
+ - date_published: 2024-07-08T09:17:55.071662+00:00
+
+ ## The Federal Reserve - FRBservices.org
+ - [https://www.frbservices.org](https://www.frbservices.org)
+ - date_published: 2024-07-08T09:17:52.440593+00:00
+
+ ## Federal Reserve Bank of San Francisco
+ - [https://www.frbsf.org](https://www.frbsf.org)
+ - date_published: 2024-01-17T15:40:24.538988+00:00
+
+ ## FRC | Pro Marriage & Pro Life Organization in Washington DC
+ - [http://www.frc.org](http://www.frc.org)
+ - date_published: 2024-06-27T06:49:12.856286+00:00
+
+ ## Netsukuku - P2P mesh routing
+ - [http://netsukuku.freaknet.org](http://netsukuku.freaknet.org)
+ - date_published: 2014-11-11T00:54:48+00:00
+
+ ## Fred Hutchinson Cancer Center
+ - [https://engage.fredhutch.org](https://engage.fredhutch.org)
+ - date_published: 2001-01-08T16:26:47+00:00
+
+ ## Fred Hutchinson Cancer Center
+ - [https://secure.fredhutch.org](https://secure.fredhutch.org)
+ - date_published: 2024-05-10T06:03:23.976185+00:00
+
+ ## Fred Hutchinson Cancer Center
+ - [https://fredhutch.org](https://fredhutch.org)
+ - date_published: 2024-03-14T18:39:56.925973+00:00
+
+ ## Free60.org Wiki - Free60 Wiki
+ - [https://free60.org](https://free60.org)
+ - date_published: 2024-04-29T06:33:32.208855+00:00
+
+ ## Allegiance – Space Combat Game
+ - [https://freeallegiance.org](https://freeallegiance.org)
+ - date_published: 2024-05-09T08:59:49.258250+00:00
+
+ ## 免费下载自由浏览 app，了解墙外最新资讯 - 自由浏览
+ - [https://freebrowser.org](https://freebrowser.org)
+ - date_published: 2024-06-06T14:16:52+00:00
+
+ ## FreeBSD Bugzilla Main Page
+ - [https://bugs.freebsd.org](https://bugs.freebsd.org)
+ - date_published: 2024-05-11T10:03:21.093443+00:00
+
+ ## FreeBSD Git repositories
+ - [https://cgit.freebsd.org](https://cgit.freebsd.org)
+ - date_published: 2023-10-25T21:22:28.105203+00:00
+
+ ## FreeBSD [Jenkins]
+ - [https://ci.freebsd.org](https://ci.freebsd.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## FreeBSD Documentation Archive
+ - [https://docs-archive.freebsd.org](https://docs-archive.freebsd.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## https://docs.freebsd.org/en/
+ - [https://docs.freebsd.org](https://docs.freebsd.org)
+ - date_published: 2023-10-25T21:22:28.573567+00:00
+
+ ## The FreeBSD Forums
+ - [https://forums.freebsd.org](https://forums.freebsd.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The FreeBSD Project
+ - [https://freebsd.org](https://freebsd.org)
+ - date_published: 2024-05-11T08:20:23.624565+00:00
+ - tags: ['operating system', 'linux']
+
+ ## FreeBSD Mailing lists
+ - [https://lists.freebsd.org](https://lists.freebsd.org)
+ - date_published: 2023-10-25T21:22:31.820209+00:00
+
+ ## Welcome to the FreeBSD mailing list archive
+ - [https://mail-archive.freebsd.org](https://mail-archive.freebsd.org)
+ - date_published: 2024-01-21T19:44:58.536359+00:00
+
+ ## FreeBSD Manual Pages
+ - [https://man.freebsd.org](https://man.freebsd.org)
+ - date_published: 2024-05-06T22:13:06.041316+00:00
+
+ ## FreeBSD Presentations and Papers :: FreeBSD Presentations and Papers
+ - [https://papers.freebsd.org](https://papers.freebsd.org)
+ - date_published: 2024-06-16T03:07:04+00:00
+
+ ## FreeBSD Homepages - redirect
+ - [https://people.freebsd.org](https://people.freebsd.org)
+ - date_published: 2023-10-25T21:22:32.400113+00:00
+
+ ## portscout - new distfile scanner
+ - [https://portscout.freebsd.org](https://portscout.freebsd.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## FreeBSD Ports Search
+ - [https://ports.freebsd.org](https://ports.freebsd.org)
+ - date_published: 2024-06-26T13:48:15.305490+00:00
+
+ ## FreeBSD Ports Search
+ - [http://portsmon.freebsd.org](http://portsmon.freebsd.org)
+ - date_published: 2024-07-11T11:15:34.022913+00:00
+
+ ## FreeBSD Dashboard
+ - [https://reviews.freebsd.org](https://reviews.freebsd.org)
+ - date_published: 2024-06-26T13:48:16.828010+00:00
+
+ ## FreeBSD Security Information
+ - [https://security.freebsd.org](https://security.freebsd.org)
+ - date_published: 2024-05-11T10:03:18.719037+00:00
+
+ ## ViewVC Repository Listing
+ - [https://svnweb.freebsd.org](https://svnweb.freebsd.org)
+ - date_published: 2024-05-12T05:46:04.622970+00:00
+
+ ## VuXML
+ - [https://vuxml.freebsd.org](https://vuxml.freebsd.org)
+ - date_published: 2021-04-12T15:37:58+00:00
+
+ ## FrontPage - FreeBSD Wiki
+ - [https://wiki.freebsd.org](https://wiki.freebsd.org)
+ - date_published: 2024-05-07T16:03:54.795736+00:00
+
+ ## FreeBSD Foundation – A non-profit organization dedicated to supporting and building the FreeBSD Project
+ - [https://freebsdfoundation.org](https://freebsdfoundation.org)
+ - date_published: 2024-05-01T05:30:31.168334+00:00
+
+ - [https://issue.freebsdfoundation.org](https://issue.freebsdfoundation.org)
+ - date_published: 2024-01-09T03:39:45.663594+00:00
+
+ ## FreeCAD News
+ - [https://blog.freecad.org](https://blog.freecad.org)
+ - date_published: 2024-05-11T09:04:46.625571+00:00
+
+ ## FreeCAD Forum - FreeCAD forum
+ - [https://forum.freecad.org](https://forum.freecad.org)
+ - date_published: 2023-10-25T21:22:34.862514+00:00
+
+ ## FPA
+ - [https://fpa.freecad.org](https://fpa.freecad.org)
+ - date_published: 2024-03-21T03:17:22.168529+00:00
+
+ ## FreeCAD: Your own 3D parametric modeler
+ - [https://freecad.org](https://freecad.org)
+ - date_published: 2024-03-21T07:00:49+00:00
+ - tags: ['open source', 'desktop program']
+
+ ## FreeCAD Documentation
+ - [https://wiki.freecad.org](https://wiki.freecad.org)
+ - date_published: 2024-05-11T09:04:41.999928+00:00
+
+ ## FreeCAD Forum - FreeCAD forum
+ - [http://forum.freecadweb.org](http://forum.freecadweb.org)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## FreeCAD: Your own 3D parametric modeler
+ - [https://freecadweb.org](https://freecadweb.org)
+ - date_published: 2024-07-14T03:06:36.169056+00:00
+ - tags: ['open source']
+
+ ## FreeCAD Documentation
+ - [https://wiki.freecadweb.org](https://wiki.freecadweb.org)
+ - date_published: 2024-05-11T08:56:27.850344+00:00
+
+ ## Freecell - the Popular Solitaire Card Game
+ - [http://www.freecell.org](http://www.freecell.org)
+ - date_published: 2020-07-03T23:11:33+00:00
+
+ ## forum.freeciv.org - Index page
+ - [https://forum.freeciv.org](https://forum.freeciv.org)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Freeciv.org - open source empire-building strategy game.
+ - [https://freeciv.org](https://freeciv.org)
+ - date_published: 2024-01-09T03:39:56.984328+00:00
+ - tags: ['open source', 'video game']
+
+ ## Freeciv Metaserver
+ - [https://meta.freeciv.org](https://meta.freeciv.org)
+ - date_published: 2024-05-23T02:48:36.247953+00:00
+
+ ## Freeciv.org - open source empire-building strategy game.
+ - [https://play.freeciv.org](https://play.freeciv.org)
+ - date_published: 2024-05-23T02:48:52.893776+00:00
+
+ ## Freeciv.org - open source empire-building strategy game.
+ - [http://rt.freeciv.org](http://rt.freeciv.org)
+ - date_published: 2024-07-05T17:58:59+00:00
+
+ ## Freeciv-web - open source turn-based strategy game
+ - [https://freecivweb.org](https://freecivweb.org)
+ - date_published: 2024-05-09T08:58:44.713653+00:00
+
+ ## Learn to Code — For Free — Coding Courses for Busy People
+ - [https://api.freecodecamp.org](https://api.freecodecamp.org)
+ - date_published: 2024-05-26T09:16:10.633727+00:00
+
  ## freeCodeCamp.org
  - [https://cdn.freecodecamp.org](https://cdn.freecodecamp.org)
  - date_published: 2024-05-26T09:16:13.900218+00:00
@@ -1383,6 +1888,10 @@ encryption
  ## Public Repositories - Bitbucket
  - [https://code.funtoo.org](https://code.funtoo.org)
  - date_published: 2024-05-01T05:29:55.099115+00:00
+
+ ## funtoo forums
+ - [https://forums.funtoo.org](https://forums.funtoo.org)
+ - date_published: 2024-07-26T00:00:00+00:00
 
  ## Funtoo
  - [https://www.funtoo.org](https://www.funtoo.org)
@@ -3560,508 +4069,4 @@ encryption
  ## LEI Search
  - [https://search.gleif.org](https://search.gleif.org)
  - date_published: 2024-04-22T11:12:12+00:00
-
- ## Home – GLEIF
- - [https://www.gleif.org](https://www.gleif.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Glen Cora - SEO Expert, Search Engine Guru & Technology Buff
- - [http://www.glencora.org](http://www.glencora.org)
- - date_published: 2024-06-30T08:55:57.758584+00:00
-
- ## Glendale Arts
- - [https://glendalearts.org](https://glendalearts.org)
- - date_published: 2024-07-19T05:56:23.876499+00:00
-
- ## Glendale International Film Festival
- - [https://glendaleiff.org](https://glendaleiff.org)
- - date_published: 2024-07-19T05:48:46.922130+00:00
-
- ## Glen Doherty Memorial Foundation - Home Page
- - [https://www.glendohertyfoundation.org](https://www.glendohertyfoundation.org)
- - date_published: 2024-04-29T04:31:26.093528+00:00
-
- ## Glest - The Free Real-Time Strategy Game
- - [https://glest.org](https://glest.org)
- - date_published: 2024-07-08T23:04:43.167419+00:00
-
- ## Secretaries Portal - Grand Lodge of Free & Accepted Masons
- - [http://lodges.glflamason.org](http://lodges.glflamason.org)
- - date_published: 2024-06-17T14:05:37.521754+00:00
-
- ## GLFW
- - [https://discourse.glfw.org](https://discourse.glfw.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## An OpenGL library
- - [https://glfw.org](https://glfw.org)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## The Glitch Gallery
- - [https://glitchgallery.org](https://glitchgallery.org)
- - date_published: 2024-03-24T14:48:43+00:00
-
- ## glitterskies.org || Nathalie's Fanlisting Collective
- - [https://glitterskies.org](https://glitterskies.org)
- - date_published: 2024-06-20T21:17:24.848599+00:00
-
- ## Sorry, page cannot be found
- - [https://www.gllamm.org](https://www.gllamm.org)
- - date_published: 2024-01-09T03:40:36.559675+00:00
-
- ## Home - Global Americans
- - [http://globalamericans.org](http://globalamericans.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Global AppSec DC 2023 | OWASP Foundation
- - [https://dc.globalappsec.org](https://dc.globalappsec.org)
- - date_published: 2023-11-21T18:12:14+00:00
-
- ## Global AppSec Lisbon 2024 | OWASP Foundation
- - [https://lisbon.globalappsec.org](https://lisbon.globalappsec.org)
- - date_published: 2024-05-09T05:54:42.271042+00:00
-
- ## Global AppSec San Francisco 2024 | OWASP Foundation
- - [https://sf.globalappsec.org](https://sf.globalappsec.org)
- - date_published: 2024-05-09T05:54:43.281469+00:00
-
- ## Home - Global Biodata Coalition
- - [https://globalbiodata.org](https://globalbiodata.org)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Global Challenges Project
- - [https://www.globalchallengesproject.org](https://www.globalchallengesproject.org)
- - date_published: 2024-06-21T11:38:52.540627+00:00
-
- ## Global Change Data Lab
- - [https://global-change-data-lab.org](https://global-change-data-lab.org)
- - date_published: 2024-05-08T11:21:55.246361+00:00
-
- ## Global Chemistry
- - [https://www.globalchemistry.org](https://www.globalchemistry.org)
- - date_published: 2023-10-25T21:25:13.879712+00:00
-
- ## Global Citizen
- - [https://static.globalcitizen.org](https://static.globalcitizen.org)
- - date_published: 2024-07-04T10:24:56.608517+00:00
-
- ## Global Citizen
- - [https://globalcitizen.org](https://globalcitizen.org)
- - date_published: 2024-05-08T06:01:03.853559+00:00
-
- ## Clean the Air for Everyone | EDF Global Clean Air
- - [https://globalcleanair.org](https://globalcleanair.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Climatescope 2023
- - [https://global-climatescope.org](https://global-climatescope.org)
- - date_published: 2024-02-28T22:42:58+00:00
-
- ## Success!
- - [http://www.globalcompetitionpolicy.org](http://www.globalcompetitionpolicy.org)
- - date_published: 2023-04-19T13:21:08+00:00
-
- ## Global Cyber Alliance: Enabling a Secure and Trustworthy Internet
- - [https://www.globalcyberalliance.org](https://www.globalcyberalliance.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Global Dashboard – Blog covering International affairs and global risks – Global risks and how to respond to them, edited by Alex Evans and David Steven
- - [http://www.globaldashboard.org](http://www.globaldashboard.org)
- - date_published: 2024-07-03T22:25:07.488822+00:00
-
- ## Global Developments | Substack
- - [https://www.global-developments.org](https://www.global-developments.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## GlobaLeaks - Free and Open-Source Whistleblowing Software
- - [https://www.globaleaks.org](https://www.globaleaks.org)
- - date_published: 2024-06-28T21:41:13.815571+00:00
-
- ## The Global Egyptian Museum
- - [http://www.globalegyptianmuseum.org](http://www.globalegyptianmuseum.org)
- - date_published: 2024-07-12T20:36:26+00:00
-
- ## Global Encryption Coalition – Global Encryption Coalition
- - [https://www.globalencryption.org](https://www.globalencryption.org)
- - date_published: 2023-10-25T21:25:17.459696+00:00
-
- ## Home
- - [https://globalenergymonitor.org](https://globalenergymonitor.org)
- - date_published: 2024-07-04T08:19:19.047302+00:00
-
- ## Transparency for a Sustainable Ocean | Global Fishing Watch
- - [https://globalfishingwatch.org](https://globalfishingwatch.org)
- - date_published: 2024-01-04T14:33:24.610958+00:00
-
- ## Forest Monitoring, Land Use & Deforestation Trends | Global Forest Watch
- - [https://www.globalforestwatch.org](https://www.globalforestwatch.org)
- - date_published: 2024-06-12T12:16:46.727267+00:00
-
- ## Global Fund for Women | Support Gender Equality
- - [https://www.globalfundforwomen.org](https://www.globalfundforwomen.org)
- - date_published: 2024-07-15T01:46:34+00:00
-
- ## Global Foreign Exchange Committee
- - [https://www.globalfxc.org](https://www.globalfxc.org)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Últimas noticias sobre Global Galicia. Global Galicia
- - [https://www.globalgalicia.org](https://www.globalgalicia.org)
- - date_published: 2024-05-28T11:28:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://globalgamejam.org](https://globalgamejam.org)
- - date_published: 2024-05-07T23:46:40.397175+00:00
-
- ## Global Game Jam
- - [https://v3.globalgamejam.org](https://v3.globalgamejam.org)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://globalgenes.org](https://globalgenes.org)
- - date_published: 2024-06-29T21:33:29.869945+00:00
-
- ## Evidence based solutions to governing globally.
- - [https://globalgovernanceforum.org](https://globalgovernanceforum.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## The Global Health Delivery Project
- - [http://www.globalhealthdelivery.org](http://www.globalhealthdelivery.org)
- - date_published: 2024-06-20T03:53:40+00:00
-
- ## Home
- - [https://globalhealthnow.org](https://globalhealthnow.org)
- - date_published: 2024-06-16T17:47:19+00:00
-
- ## Global Health Security Agenda - Global Health Security Agenda
- - [https://globalhealthsecurityagenda.org](https://globalhealthsecurityagenda.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Global Heritage Fund
- - [http://globalheritagefund.org](http://globalheritagefund.org)
- - date_published: 2023-10-17T21:48:19+00:00
-
- ## Home - Global IoT Summit
- - [https://globaliotsummit.org](https://globaliotsummit.org)
- - date_published: 2024-07-07T00:01:04.285133+00:00
-
- ## Be'chol Lashon | Home
- - [https://globaljews.org](https://globaljews.org)
- - date_published: 2024-05-04T09:15:40.152166+00:00
-
- ## Global Land Alliance
- - [https://www.globallandalliance.org](https://www.globallandalliance.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Homepage | GLAD
- - [https://www.globallcadataaccess.org](https://www.globallcadataaccess.org)
- - date_published: 2024-07-04T08:18:49+00:00
-
- ## Global Methane Initiative
- - [https://globalmethane.org](https://globalmethane.org)
- - date_published: 2024-02-08T17:48:42.320376+00:00
-
- ## Home
- - [https://globalmoneyweek.org](https://globalmoneyweek.org)
- - date_published: 2024-02-29T19:53:32.841039+00:00
-
- ## GNF - Home Global Nature Fund - Internationale Stiftung
- - [https://globalnature.org](https://globalnature.org)
- - date_published: 2024-05-08T11:22:18.793234+00:00
-
- ## Archive - Global Policy Forum
- - [https://archive.globalpolicy.org](https://archive.globalpolicy.org)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Global Priorities Institute - Global Priorities Institute
- - [https://globalprioritiesinstitute.org](https://globalprioritiesinstitute.org)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Global Privacy Assembly
- - [https://globalprivacyassembly.org](https://globalprivacyassembly.org)
- - date_published: 2024-05-09T06:26:27.644615+00:00
-
- ## Global Privacy Control — Take Control Of Your Privacy
- - [https://globalprivacycontrol.org](https://globalprivacycontrol.org)
- - date_published: 2024-04-29T04:13:48.785981+00:00
-
- ## The Global Power System Transformation Consortium (G-PST)
- - [https://globalpst.org](https://globalpst.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Global Centre for the Responsibility to Protect
- - [http://www.globalr2p.org](http://www.globalr2p.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## RFF
- - [https://globalrff.org](https://globalrff.org)
- - date_published: 2024-06-22T15:26:19.302210+00:00
-
- ## GlobalSecurity.org
- - [http://www.globalsecurity.org](http://www.globalsecurity.org)
- - date_published: 2024-06-27T09:28:03.051679+00:00
-
- ## Global Shapers Community
- - [http://globalshapers.org](http://globalshapers.org)
- - date_published: 2024-07-08T11:03:36+00:00
-
- ## Global Shapers Community
- - [https://www.globalshapers.org](https://www.globalshapers.org)
- - date_published: 2024-06-17T09:04:36+00:00
-
- ## The Global Solutions Initiative
- - [https://www.global-solutions-initiative.org](https://www.global-solutions-initiative.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Maximizing Progress
- - [http://globalties.org](http://globalties.org)
- - date_published: 2024-05-27T03:04:00+00:00
-
- ## Global Voices Advox · Defending Free Speech Online
- - [https://advox.globalvoices.org](https://advox.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices በአማርኛ · የዜጎች መገናኛ ብዙሐን ከዓለም ሕዝቦች
- - [https://am.globalvoices.org](https://am.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices الأصوات العالمية · أخبار الصحافة الشعبية من كافة أنحاء العالم
- - [https://ar.globalvoices.org](https://ar.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices Aymarata · Uraqpachat Medios ciudadano-mp lurat isturyanaka
- - [https://aym.globalvoices.org](https://aym.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices на български · Гражданска журналистика от цял свят.
- - [https://bg.globalvoices.org](https://bg.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices বাংলা ভার্সন · সারা বিশ্ব থেকে নাগরিক গণমাধ্যমের গল্প
- - [https://bn.globalvoices.org](https://bn.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices en Català · Històries dels mitjans ciutadans de tot el món
- - [https://ca.globalvoices.org](https://ca.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices Community Blog · Join the Conversation!
- - [https://community.globalvoices.org](https://community.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices v češtině · Občanská žurnalistika z celého světa
- - [https://cs.globalvoices.org](https://cs.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices på dansk · Borgermediehistorier fra hele verden
- - [https://da.globalvoices.org](https://da.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices auf Deutsch · Bürgermedien-Artikel aus aller Welt
- - [https://de.globalvoices.org](https://de.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices στα Ελληνικά · Ιστορίες πολιτών-δημοσιογράφων από όλο τον κόσμο
- - [https://el.globalvoices.org](https://el.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices en Esperanto · Lokaj perspektivoj por tutmonda publiko
- - [https://eo.globalvoices.org](https://eo.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices en Español · Historias de medios ciudadanos de todo el mundo
- - [https://es.globalvoices.org](https://es.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices به فارسی · رسانه‌های مردمی از سرتاسر جهان
- - [https://fa.globalvoices.org](https://fa.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices sa Filipino · Ang mundo ay nagsasalita, nakikinig ka ba?
- - [https://fil.globalvoices.org](https://fil.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices en Français · L'info du monde entier, par les blogs et réseaux sociaux
- - [https://fr.globalvoices.org](https://fr.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices · Local perspectives for a global audience
- - [https://globalvoices.org](https://globalvoices.org)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Global Voices בעברית · תקשורת אזרחית מרחבי העולם
- - [https://he.globalvoices.org](https://he.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices हिन्दी में · वैश्विक दर्शकों के लिए स्थानीय दृष्टिकोण
- - [https://hi.globalvoices.org](https://hi.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices Magyarul · Történetek a közösségi médiából a világ minden tájáról.
- - [https://hu.globalvoices.org](https://hu.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices dalam bahasa Indonesia · Kisah-kisah dari berbagai outlet jurnalisme warga di seluruh dunia.
- - [https://id.globalvoices.org](https://id.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices n’asusu Igbo · The world is talking, are you listening? [edit this in settings]
- - [https://ig.globalvoices.org](https://ig.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices in Italiano · Post sui citizen media da ogni parte del mondo
- - [https://it.globalvoices.org](https://it.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices 日本語 · 世界中の市民メディア発
- - [https://jp.globalvoices.org](https://jp.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices Қазақша қазақ · Бүкіл әлемнен азаматтық журналистика хикаялары
- - [https://kk.globalvoices.org](https://kk.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices ជាភាសាខ្មែរ · សារព័ត៌មាន​​របស់​អ្នក​​សារព័ត៌មាន​​​ក្នុង​មូលដ្ឋាន​មក​ពី​ជុំវិញ​ពិភពលោក​
- - [https://km.globalvoices.org](https://km.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices 한국어 · 전세계의 민영방송 화제거리들
- - [https://ko.globalvoices.org](https://ko.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices بەكوردی · Citizen media stories from around the world
- - [https://ku.globalvoices.org](https://ku.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices teny Malagasy · Tantara ifanakalozan'olontsotra avy amin'ny lafivalon'izao tontolo izao
- - [https://mg.globalvoices.org](https://mg.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices на македонски · Приказни од граѓански медиуми од целиот свет
- - [https://mk.globalvoices.org](https://mk.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices မြန်မာ · ကမ္ဘာ​တစ်​ဝန်း​ရှိ ပြည်​သူ​များ၏ သ​တင်း​များ
- - [https://my.globalvoices.org](https://my.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices नेपालीमा · The world is talking, are you listening? [edit this in settings]
- - [https://ne.globalvoices.org](https://ne.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices in het Nederlands · Artikelen uit burgermedia van over de hele wereld
- - [https://nl.globalvoices.org](https://nl.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## ଓଡ଼ିଆରେ Global Voices · ସମଗ୍ର ଜଗତରୁ ନାଗରିକଙ୍କ କାହାଣୀମାନ
- - [https://or.globalvoices.org](https://or.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices ਪੰਜਾਬੀ ਵਿੱਚ · ਦੁਨੀਆਂ ਭਰ ਤੋਂ ਨਾਗਰਿਕ ਮੀਡੀਆ ਕਹਾਣੀਆਂ
- - [https://pa.globalvoices.org](https://pa.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices po polsku · Artykuły z mediów obywatelskich z całego świata
- - [https://pl.globalvoices.org](https://pl.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices پښتو کې · ښاري رسنۍ خبرونه د نړۍ له شاوخوا څخه
- - [https://ps.globalvoices.org](https://ps.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices em Português · Notícias sobre mídia cidadã de todos os cantos do mundo
- - [https://pt.globalvoices.org](https://pt.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Rising Voices · Helping the global population join the global conversation
- - [https://rising.globalvoices.org](https://rising.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices în Română · Ştirile scrise de tine! Ştiri sociale din întreaga lume
- - [https://ro.globalvoices.org](https://ro.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices по-русски · Истории гражданской журналистики со всего мира
- - [https://ru.globalvoices.org](https://ru.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices ᱥᱟᱱᱛᱟᱲᱤᱛᱮ · ᱜᱚᱴᱟ ᱡᱮᱜᱮᱛ ᱠᱷᱚᱱ ᱱᱟᱜᱟᱨᱤᱭᱟᱹ ᱢᱤᱰᱤᱭᱟ ᱵᱮᱣᱨᱟ
- - [https://sat.globalvoices.org](https://sat.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices në Shqip · Artikuj nga mediat e qytetarëve nga e gjithë bota
- - [https://sq.globalvoices.org](https://sq.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices na srpskom · Tekstovi građanskih medija iz celog sveta
- - [https://sr.globalvoices.org](https://sr.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices på svenska · Medborgarartiklar från hela världen
- - [https://sv.globalvoices.org](https://sv.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices in Swahili · Habari za uanahabari wa kiraia kutoka duniani kote
- - [https://sw.globalvoices.org](https://sw.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices Ho-Tetun · Publikasaun media sidadaun iha mundu
- - [https://tet.globalvoices.org](https://tet.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices Türkçe · Tüm dünyadan vatandaş haberleri
- - [https://tr.globalvoices.org](https://tr.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices по-українськи · Історії громадських медіа з усього світу
- - [https://uk.globalvoices.org](https://uk.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices اردو میں · دنیا بھر سے شہری میڈیا کہانیاں
- - [https://ur.globalvoices.org](https://ur.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices ўзбек тилида · Жаҳон бўйлаб фуқаролик оммавий ахборот воситалари
- - [https://uz.globalvoices.org](https://uz.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices ⲃⲉ-ⲛογπίⲛ · The world is talking, are you listening? [edit this in settings]
- - [https://xnz.globalvoices.org](https://xnz.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices ní-Yorùbá · Ìròyìn ọmọ ìlú jákèjádò Ilé-ayé
- - [https://yo.globalvoices.org](https://yo.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices 简体中文 · 來自世界各地的公民媒體報導
- - [https://zhs.globalvoices.org](https://zhs.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices 繁體中文 · 來自世界各地的公民媒體報導
- - [https://zht.globalvoices.org](https://zht.globalvoices.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Global Voices · Local perspectives for a global audience
- - [http://globalvoicesonline.org](http://globalvoicesonline.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## GlobalWarming.org
- - [http://www.globalwarming.org](http://www.globalwarming.org)
- - date_published: 2024-06-28T18:36:09.666038+00:00
-
- ## Home | Global Warming Mitigation Project
- - [https://www.globalwarmingmitigationproject.org](https://www.globalwarmingmitigationproject.org)
- - date_published: 2024-07-09T10:31:09.319472+00:00
-
- ## Global Wildlife
- - [https://assets.globalwildlife.org](https://assets.globalwildlife.org)
- - date_published: 2024-06-16T22:10:45.467969+00:00
-
- ## Global Wildlife Conservation - conserving the diversity of life on Earth.
- - [https://www.globalwildlife.org](https://www.globalwildlife.org)
- - date_published: 2024-06-20T08:46:11.108077+00:00
-
- ## Global Wind Organisation - Training standards for a safer and more productive workforce
- - [https://www.globalwindsafety.org](https://www.globalwindsafety.org)
- - date_published: 2024-05-30T00:00:00+00:00
 

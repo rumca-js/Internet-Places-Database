@@ -1,3 +1,564 @@
+ ## Learning on Graphs Conference
+ - [https://logconference.org](https://logconference.org)
+ - date_published: 2024-06-16T13:46:33+00:00
+
+ ## Logical Disconnect
+ - [http://logicaldisconnect.org](http://logicaldisconnect.org)
+ - date_published: 2024-06-15T18:51:05.192604+00:00
+
+ ## Association for Logic Programming
+ - [https://logicprogramming.org](https://logicprogramming.org)
+ - date_published: 2024-07-17T05:49:55+00:00
+
+ ## Accueil · Logilab
+ - [https://www.logilab.org](https://www.logilab.org)
+ - date_published: 2024-06-28T19:57:38.431723+00:00
+
+ ## Tristan Miller
+ - [https://logological.org](https://logological.org)
+ - date_published: 2024-06-26T15:24:19+00:00
+
+ ## Thâu-ia̍h - Lohankhapedia
+ - [http://taigi.lohankhapedia.org](http://taigi.lohankhapedia.org)
+ - date_published: 2023-10-01T14:43:40+00:00
+
+ ## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date_published: 2022-01-10T20:38:51+00:00
+
+ ## Digital Kingdom
+ - [http://vrici.lojban.org](http://vrici.lojban.org)
+ - date_published: 2021-01-08T07:23:41+00:00
+
+ ## Lokinet | Anonymous internet access
+ - [https://lokinet.org](https://lokinet.org)
+ - date_published: 2024-06-23T17:23:57.705355+00:00
+
+ ## London Aesthetics Forum – Philosophy of art in the heart of London
+ - [http://www.londonaestheticsforum.org](http://www.londonaestheticsforum.org)
+ - date_published: 2024-06-23T09:42:33.822616+00:00
+
+ ## Home | London Coliseum
+ - [https://londoncoliseum.org](https://londoncoliseum.org)
+ - date_published: 2024-06-18T09:09:07+00:00
+
+ ## London Coliseum Limited Shop
+ - [https://shop.londoncoliseum.org](https://shop.londoncoliseum.org)
+ - date_published: 2024-06-18T12:42:31.990887+00:00
+
+ ## Home - London HR
+ - [https://londonhr.org](https://londonhr.org)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## London Zoo | A ZSL conservation zoo
+ - [https://www.londonzoo.org](https://www.londonzoo.org)
+ - date_published: 2024-07-09T20:25:36.474045+00:00
+
+ ## 朗顿出版有限公司 | 开放获取期刊
+ - [https://chinese.longdom.org](https://chinese.longdom.org)
+ - date_published: 2024-07-07T08:11:38.463480+00:00
+
+ ## Longdom Publishing SL | Revues en libre accès
+ - [https://french.longdom.org](https://french.longdom.org)
+ - date_published: 2024-07-07T08:11:40.829696+00:00
+
+ ## Longdom Publishing SL | Open-Access-Zeitschriften
+ - [https://german.longdom.org](https://german.longdom.org)
+ - date_published: 2024-07-07T08:11:42.839933+00:00
+
+ ## लॉन्गडम पब्लिशिंग एसएल |
+ - [https://hindi.longdom.org](https://hindi.longdom.org)
+ - date_published: 2024-07-07T08:11:33.263235+00:00
+
+ ## ロングダム出版SL | オープンアクセスジャーナル
+ - [https://japanese.longdom.org](https://japanese.longdom.org)
+ - date_published: 2024-07-07T08:11:26.897627+00:00
+
+ ## Longdom Publishing SL | Periódicos de Acesso Aberto
+ - [https://portuguese.longdom.org](https://portuguese.longdom.org)
+ - date_published: 2024-07-07T08:11:25.217739+00:00
+
+ ## Издательство Лонгдом С.Л. | Журналы �
+ - [https://russian.longdom.org](https://russian.longdom.org)
+ - date_published: 2024-07-07T08:11:36.973249+00:00
+
+ ## Longdom Publicación SL | Revistas de acceso abierto
+ - [https://spanish.longdom.org](https://spanish.longdom.org)
+ - date_published: 2024-07-07T08:11:34.917921+00:00
+
+ ## லாங்டம் பப்ளிஷிங் எஸ்.எ�
+ - [https://tamil.longdom.org](https://tamil.longdom.org)
+ - date_published: 2024-07-07T08:11:31.130677+00:00
+
+ ## లాంగ్‌డమ్ పబ్లిషింగ్ SL
+ - [https://telugu.longdom.org](https://telugu.longdom.org)
+ - date_published: 2024-07-07T08:11:28.861468+00:00
+
+ ## Longdom  Publishing SL | Open Access Journals
+ - [https://longdom.org](https://longdom.org)
+ - date_published: 2024-05-08T10:03:52.620810+00:00
+
+ ## Articles - portal - LongeCity
+ - [http://www.longecity.org](http://www.longecity.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Longform
+ - [https://longform.org](https://longform.org)
+ - date_published: 2024-07-05T10:51:09.210643+00:00
+
+ ## Long Island Dahlia Society
+ - [https://www.longislanddahlia.org](https://www.longislanddahlia.org)
+ - date_published: 2024-07-04T13:02:43.426319+00:00
+
+ ## Let's travel: Vikatraveller | The Nomad Library
+ - [http://longislandstreets.org](http://longislandstreets.org)
+ - date_published: 2018-12-20T11:35:07+00:00
+
+ ## Welcome - Longleaf Services
+ - [https://longleafservices.org](https://longleafservices.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The University of North Carolina Press
+ - [https://unc.secure.longleafservices.org](https://unc.secure.longleafservices.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## About the University of Nebraska Press - Nebraska Press
+ - [https://unp.secure.longleafservices.org](https://unp.secure.longleafservices.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Longmont Area Chamber of Commerce - Longmont Area Chamber of Commerce
+ - [http://www.longmontchamber.org](http://www.longmontchamber.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## LONG NOW — fostering long term thinking
+ - [https://longnow.org](https://longnow.org)
+ - date_published: 2023-10-25T21:39:39.438749+00:00
+
+ ## The Long Now Foundation
+ - [http://www.longnow.org](http://www.longnow.org)
+ - date_published: 2024-06-23T10:33:32.304447+00:00
+
+ ## Home – Center on Long-Term Risk
+ - [https://longtermrisk.org](https://longtermrisk.org)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Home - Longview Philanthropy
+ - [https://www.longview.org](https://www.longview.org)
+ - date_published: 2024-05-04T06:03:05.574116+00:00
+
+ ## FDD's Long War Journal
+ - [https://longwarjournal.org](https://longwarjournal.org)
+ - date_published: 2023-11-10T03:51:21.976358+00:00
+
+ ## Donate - Long Wharf Theatre
+ - [http://donate.longwharf.org](http://donate.longwharf.org)
+ - date_published: 2024-07-02T16:00:11.160348+00:00
+
+ ## Long Wharf Theatre | Theatre is for Everyone
+ - [https://longwharf.org](https://longwharf.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Longwood Cemetery
+ - [https://longwoodcemetery.org](https://longwoodcemetery.org)
+ - date_published: 2024-04-11T17:48:32+00:00
+
+ ## Longwood Gardens
+ - [https://longwoodgardens.org](https://longwoodgardens.org)
+ - date_published: 2024-05-04T11:58:48.452643+00:00
+
+ ## Longwood Gardens
+ - [https://rest.longwoodgardens.org](https://rest.longwoodgardens.org)
+ - date_published: 2024-06-21T09:59:06.957593+00:00
+
+ ## Longwood Gardens Online Store
+ - [https://shop.longwoodgardens.org](https://shop.longwoodgardens.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Select an Item
+ - [https://tickets.longwoodgardens.org](https://tickets.longwoodgardens.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## LA-SiGMA
+ - [http://lasigma.loni.org](http://lasigma.loni.org)
+ - date_published: 2024-07-07T05:34:24.892908+00:00
+
+ ## LONI – Louisiana Optical Network Infrastructure
+ - [https://loni.org](https://loni.org)
+ - date_published: 2024-07-14T05:09:52.045077+00:00
+
+ ## Looking to God
+ - [http://lookingtogod.org](http://lookingtogod.org)
+ - date_published: 2024-07-17T10:45:20.354393+00:00
+
+ ## Look, Listen + Learn TV
+ - [https://www.looklistenandlearn.org](https://www.looklistenandlearn.org)
+ - date_published: 2024-07-04T16:31:20.081792+00:00
+
+ ## LOOKOUT
+ - [https://www.lookoutphx.org](https://www.lookoutphx.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Loomio - better decisions together
+ - [https://loomio.org](https://loomio.org)
+ - date_published: 2024-05-09T08:39:26.859826+00:00
+
+ ## Looms4Lupus
+ - [https://looms4lupus.org](https://looms4lupus.org)
+ - date_published: 2024-06-28T12:07:50.630922+00:00
+
+ ## LoopdeLoop
+ - [http://www.loopdeloop.org](http://www.loopdeloop.org)
+ - date_published: 2024-07-17T23:16:45.731152+00:00
+
+ ## Loopring - zkRollup Layer 2 for Trading and Payment
+ - [https://loopring.org](https://loopring.org)
+ - date_published: 2024-06-16T16:39:31.457504+00:00
+
+ ## LoRaWAN® Accredited Professional Exam
+ - [https://accredited-professional.lora-alliance.org](https://accredited-professional.lora-alliance.org)
+ - date_published: 2024-07-09T07:41:07.995152+00:00
+
+ ## LoRa Alliance® Blog
+ - [https://blog.lora-alliance.org](https://blog.lora-alliance.org)
+ - date_published: 2024-07-03T02:02:47+00:00
+
+ ## LoRa Alliance - Homepage - LoRa Alliance®
+ - [https://lora-alliance.org](https://lora-alliance.org)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## LoRa Alliance - Login
+ - [https://members.lora-alliance.org](https://members.lora-alliance.org)
+ - date_published: 2024-07-09T07:41:11.626289+00:00
+
+ ## LoRa Alliance®
+ - [https://resources.lora-alliance.org](https://resources.lora-alliance.org)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Open World
+ - [https://lornamcampbell.org](https://lornamcampbell.org)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home
+ - [https://business.losaltoschamber.org](https://business.losaltoschamber.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home
+ - [https://losaltoschamber.org](https://losaltoschamber.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Los Altos History Museum | Los Altos, California
+ - [http://www.losaltoshistory.org](http://www.losaltoshistory.org)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Los Lobos - New album Gates Of Gold now available!
+ - [https://www.loslobos.org](https://www.loslobos.org)
+ - date_published: 2024-07-17T13:38:33.499086+00:00
+
+ ## Los Pueblos Más Bonitos de España - Pueblos con Encanto
+ - [https://www.lospueblosmasbonitosdeespana.org](https://www.lospueblosmasbonitosdeespana.org)
+ - date_published: 2024-07-08T12:52:50.458309+00:00
+
+ ## Lossless-music.org - download FLAC, WAV, APE
+ - [https://lossless-music.org](https://lossless-music.org)
+ - date_published: 2024-06-23T18:05:16.407672+00:00
+
+ ## LOST-BOY⋅ORG ,   𝓽he rust and stardust network
+ - [http://lost-boy.org](http://lost-boy.org)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## The Lost Cause | Cory Doctorow's craphound.com
+ - [http://lost-cause.org](http://lost-cause.org)
+ - date_published: 2024-01-27T15:33:20.962470+00:00
+
+ ## LostGrid - PostCSS Grid Framework
+ - [http://lostgrid.org](http://lostgrid.org)
+ - date_published: 2023-08-24T05:35:00+00:00
+
+ ## Louisiana Fire Chiefs Asssociation
+ - [https://www.louisianafirechiefs.org](https://www.louisianafirechiefs.org)
+ - date_published: 2024-05-04T10:12:15.060877+00:00
+
+ ## Fulfilling our Potential: Giving Day 2024
+ - [https://www.louisianatechgivingday.org](https://www.louisianatechgivingday.org)
+ - date_published: 2024-05-04T10:12:01.011394+00:00
+
+ ## LOUIS Libraries: Home: Overview
+ - [https://www.louislibraries.org](https://www.louislibraries.org)
+ - date_published: 2024-07-14T05:09:58.275092+00:00
+
+ ## LPM Store
+ - [https://shop.louisvillepublicmedia.org](https://shop.louisvillepublicmedia.org)
+ - date_published: 2024-05-08T09:45:57.949066+00:00
+
+ ## Louisville Zoo
+ - [https://louisvillezoo.org](https://louisvillezoo.org)
+ - date_published: 2024-07-03T18:43:47+00:00
+
+ ## biboumi, XMPP gateway to IRC
+ - [https://biboumi.louiz.org](https://biboumi.louiz.org)
+ - date_published: 2024-02-28T14:04:30+00:00
+
+ ## Biboumi – XMPP gateway to IRC — biboumi 8.4 documentation
+ - [https://doc.biboumi.louiz.org](https://doc.biboumi.louiz.org)
+ - date_published: 2020-12-28T23:02:33+00:00
+
+ ## LÖVE - Free 2D Game Engine
+ - [https://love2d.org](https://love2d.org)
+ - date_published: 2023-10-25T08:35:50.630389+00:00
+ - tags: ['open source', 'video game engine']
+
+ ## 我爱学中文手机应用 - 帮助海外华人的子女牢记每一个汉字！
+ - [https://www.lovechinese.org](https://www.lovechinese.org)
+ - date_published: 2024-06-21T10:50:38.876017+00:00
+
+ ## Lovell Brick Church Lovell, Maine Performing Arts Concerts Historic
+ - [https://lovellbrickchurch.org](https://lovellbrickchurch.org)
+ - date_published: 2019-03-25T11:03:40+00:00
+
+ ## 403 Message
+ - [http://links.lovemycreditunion.org](http://links.lovemycreditunion.org)
+ - date_published: 2024-07-10T04:09:13.394836+00:00
+
+ ## Home Page
+ - [https://rewards.lovemycreditunion.org](https://rewards.lovemycreditunion.org)
+ - date_published: 2024-07-10T04:25:34.878694+00:00
+
+ ## Home Page
+ - [http://www.lovemycreditunion.org](http://www.lovemycreditunion.org)
+ - date_published: 2024-07-10T04:55:09.972096+00:00
+
+ ## LoveTech
+ - [http://lovetech.org](http://lovetech.org)
+ - date_published: 2024-06-30T07:43:40.637818+00:00
+
+ ## Parhaat kasinot kokemuksia – bonukset ja muut edut
+ - [http://lovetotheworld.org](http://lovetotheworld.org)
+ - date_published: 2024-06-07T14:04:28+00:00
+
+ ## LoveYou2.org
+ - [https://loveyou2.org](https://loveyou2.org)
+ - date_published: 2024-05-07T16:56:36.470213+00:00
+
+ ## The Low Carbon Design Institute
+ - [https://lowcarbondesigninstitute.org](https://lowcarbondesigninstitute.org)
+ - date_published: 2024-06-26T22:28:58.160000+00:00
+
+ ## Lowcountry Food Bank | Feed. Advocate. Empower.
+ - [https://lowcountryfoodbank.org](https://lowcountryfoodbank.org)
+ - date_published: 2024-06-21T04:12:03.202423+00:00
+
+ ## Home 📚 Pollard Memorial Library
+ - [https://www.lowelllibrary.org](https://www.lowelllibrary.org)
+ - date_published: 2024-06-14T04:12:32.729564+00:00
+
+ ## Lowimpact.org - sustainable living info, courses, products & services
+ - [https://www.lowimpact.org](https://www.lowimpact.org)
+ - date_published: 2024-06-12T12:47:16.042809+00:00
+
+ ## Open-Source Silicon Designs | lowRISC
+ - [https://lowrisc.org](https://lowrisc.org)
+ - date_published: 2024-07-20T21:42:43.911818+00:00
+
+ ## Interpreter | Lowy Institute
+ - [http://www.lowyinterpreter.org](http://www.lowyinterpreter.org)
+ - date_published: 2024-07-03T17:11:03+00:00
+
+ ## Home | Libertarian Party
+ - [http://www.lp.org](http://www.lp.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Avulsos by Penz
+ - [http://www.lpenz.org](http://www.lpenz.org)
+ - date_published: 2023-07-30T00:00:00+00:00
+
+ ## The Law and Political Economy Project
+ - [https://lpeproject.org](https://lpeproject.org)
+ - date_published: 2024-02-24T18:19:33.317225+00:00
+
+ ## Homepage - Lucile Packard Foundation for Children's Health
+ - [https://lpfch.org](https://lpfch.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.lpi.org](https://www.lpi.org)
+ - date_published: 2024-01-09T03:41:18.717606+00:00
+ - tags: ['organisation', 'open source', 'linux']
+
+ ## Legal Resources, Law, Lawyers, Attorneys - Law and Policy Institutions Guide
+ - [http://www.lpig.org](http://www.lpig.org)
+ - date_published: 2020-04-04T17:23:02+00:00
+
+ ## Louisville Public Media
+ - [http://events.lpm.org](http://events.lpm.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## LPM Store
+ - [https://shop.lpm.org](https://shop.lpm.org)
+ - date_published: 2024-07-07T06:41:02.139504+00:00
+
+ ## Louisville Public Media
+ - [https://lpm.org](https://lpm.org)
+ - date_published: 2023-11-06T14:35:50.495843+00:00
+
+ ## LPython
+ - [https://dev.lpython.org](https://dev.lpython.org)
+ - date_published: 2023-09-17T05:05:46+00:00
+
+ ## https://lpython.org
+ - [https://lpython.org](https://lpython.org)
+ - date_published: 2023-10-25T21:39:41.946449+00:00
+
+ ## Wildlife Experience in the Heart of Chicago | Lincoln Park Zoo
+ - [https://www.lpzoo.org](https://www.lpzoo.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## LREC-Coling 2024 – The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre – Torino (Italia) 20-25 May, 2024
+ - [https://lrec-coling-2024.org](https://lrec-coling-2024.org)
+ - date_published: 2024-07-10T05:44:35.911089+00:00
+
+ ## LREC Conferences
+ - [http://www.lrec-conf.org](http://www.lrec-conf.org)
+ - date_published: 2023-05-30T09:40:46+00:00
+
+ ## The Long Riders Guild Academic Foundation
+ - [https://lrgaf.org](https://lrgaf.org)
+ - date_published: 2020-05-15T08:45:33+00:00
+
+ ## LRJC
+ - [https://www.lrjc.org](https://www.lrjc.org)
+ - date_published: 2024-05-06T16:18:35.856992+00:00
+
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [http://lronhubbard.org](http://lronhubbard.org)
+ - date_published: 2024-06-06T19:38:05+00:00
+
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [https://www.lronhubbard.org](https://www.lronhubbard.org)
+ - date_published: 2024-05-02T10:38:23.569220+00:00
+ - tags: ['scientology']
+
+ ## The Light Rail Transit Association | The Light Rail Transit Association
+ - [http://www.lrta.org](http://www.lrta.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## LSA
+ - [http://www.lsadc.org](http://www.lsadc.org)
+ - date_published: 2024-07-02T06:17:20.267722+00:00
+
+ ## The L-Space Web - A Terry Pratchett / Discworld Web® Site
+ - [https://www.lspace.org](https://www.lspace.org)
+ - date_published: 2023-11-16T07:01:44.475059+00:00
+ - tags: ['discworld', 'terry pratchett', 'fantasy']
+
+ ## Senior Living St Louis Metro, Central Missouri, & Central Illinois | LSS
+ - [https://www.lssliving.org](https://www.lssliving.org)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## LSST Informatics & Statistics Science Collaboration
+ - [https://issc.science.lsst.org](https://issc.science.lsst.org)
+ - date_published: 2024-07-03T19:56:30+00:00
+
+ ## Rubin Observatory
+ - [http://www.lsst.org](http://www.lsst.org)
+ - date_published: 2024-06-22T21:46:12+00:00
+
+ ## Home
+ - [https://lsstdesc.org](https://lsstdesc.org)
+ - date_published: 2024-07-08T10:46:27+00:00
+
+ ## Homepage
+ - [https://www.lstream.org](https://www.lstream.org)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Home Page
+ - [https://lsufoundation.org](https://lsufoundation.org)
+ - date_published: 2024-05-07T19:30:51.222062+00:00
+
+ ## Home > Lane Transit District
+ - [https://www.ltd.org](https://www.ltd.org)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Life Time Foundation
+ - [https://www.ltfoundation.org](https://www.ltfoundation.org)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## ltrace
+ - [http://ltrace.org](http://ltrace.org)
+ - date_published: 2019-07-19T21:20:33+00:00
+
+ ## LTTng: an open source tracing framework for Linux
+ - [https://lttng.org](https://lttng.org)
+ - date_published: 2024-07-12T15:04:13+00:00
+
+ ## The Programming Language Lua
+ - [https://lua.org](https://lua.org)
+ - date_published: 2024-04-28T06:06:48.516360+00:00
+
+ ## Coco — True C Coroutines for Lua
+ - [https://coco.luajit.org](https://coco.luajit.org)
+ - date_published: 2018-05-20T15:31:47+00:00
+
+ ## The LuaJIT Project
+ - [https://luajit.org](https://luajit.org)
+ - date_published: 2023-08-21T01:32:29+00:00
+
+ ## LuaRocks - The Lua package manager
+ - [https://luarocks.org](https://luarocks.org)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## LuaRT | Free and open source Windows programming framework for Lua
+ - [https://luart.org](https://luart.org)
+ - date_published: 2024-05-25T23:33:00.365791+00:00
+
+ ## Luau
+ - [https://luau-lang.org](https://luau-lang.org)
+ - date_published: 2024-04-28T02:51:21.982266+00:00
+
+ ## lua-users.org
+ - [https://lua-users.org](https://lua-users.org)
+ - date_published: 2021-12-05T12:13:57+00:00
+
+ ## Friends of the Lubbock Library
+ - [http://www.lubbockfol.org](http://www.lubbockfol.org)
+ - date_published: 2024-05-28T18:13:05+00:00
+
+ ## Lubomir Bourdev
+ - [http://www.lubomir.org](http://www.lubomir.org)
+ - date_published: 2023-02-28T05:58:53+00:00
+
+ ## Luca Mariot
+ - [https://lucamariot.org](https://lucamariot.org)
+ - date_published: 2024-01-14T15:48:55+00:00
+
+ ## Lucee Dev
+ - [https://dev.lucee.org](https://dev.lucee.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Accelerate your development with Lucee
+ - [http://lucee.org](http://lucee.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## The Lucid Manager
+ - [https://lucidmanager.org](https://lucidmanager.org)
+ - date_published: 2024-04-28T06:12:22.270046+00:00
+ - tags: ['personal']
+
+ ## Lucky Fin Project – Ten Fingers Are Overrated.
+ - [https://luckyfinproject.org](https://luckyfinproject.org)
+ - date_published: 2024-04-30T05:49:34.207363+00:00
+
+ ## Ludocity
+ - [http://ludocity.org](http://ludocity.org)
+ - date_published: 2022-07-03T18:50:41+00:00
+
+ ## Free Online Loudness Analyser | LUFS
+ - [https://lufs.org](https://lufs.org)
+ - date_published: 2024-06-22T12:57:03.990602+00:00
+
+ ## LUGBZ
+ - [https://www.lugbz.org](https://www.lugbz.org)
+ - date_published: 2024-07-21T05:51:08.075117+00:00
+
  ## LugRadio archive
  - [https://audio.lugradio.org](https://audio.lugradio.org)
  - date_published: 2005-12-16T00:21:00+00:00
@@ -3488,570 +4049,4 @@
  ## Library Genesis: Miner's Hut - Index page
  - [https://forum.mhut.org](https://forum.mhut.org)
  - date_published: 2024-05-06T00:00:00+00:00
-
- ## start [The Library Genesis Project Wiki]
- - [https://wiki.mhut.org](https://wiki.mhut.org)
- - date_published: 2024-05-06T15:11:50.491159+00:00
-
- ## Home - Miami AC
- - [https://www.miamiac.org](https://www.miamiac.org)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Home - The Miami Foundation
- - [https://miamifoundation.org](https://miamifoundation.org)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## MIGIS - Michigan GIS Professionals
- - [https://micamp.org](https://micamp.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## MICCAI
- - [http://www.miccai.org](http://www.miccai.org)
- - date_published: 2024-07-10T21:04:36+00:00
-
- ## Thinking Out Loud | Michael Ashcroft | Substack
- - [https://newsletter.michaelashcroft.org](https://newsletter.michaelashcroft.org)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## https://www.michaeleisen.org
- - [https://www.michaeleisen.org](https://www.michaeleisen.org)
- - date_published: 2024-01-09T03:41:41.235790+00:00
-
- ## The Michael J. Fox Foundation for Parkinson's Research
- - [https://give.michaeljfox.org](https://give.michaeljfox.org)
- - date_published: 2024-05-08T10:07:07.225805+00:00
-
- ## Fox Shop for Parkinson's Research
- - [https://shop.michaeljfox.org](https://shop.michaeljfox.org)
- - date_published: 2024-05-08T10:07:02.898143+00:00
-
- ## The Michael J. Fox Foundation for Parkinson's Research | Parkinson's Disease
- - [https://michaeljfox.org](https://michaeljfox.org)
- - date_published: 2023-10-25T21:42:04.712986+00:00
-
- ## Michael Nielsen
- - [https://michaelnielsen.org](https://michaelnielsen.org)
- - date_published: 2023-06-01T17:14:24+00:00
-
- ## I put things here so they are on the internet – Michael Weinberg
- - [https://michaelweinberg.org](https://michaelweinberg.org)
- - date_published: 2023-10-25T21:42:12.922202+00:00
-
- ## Michael Wimmer's home page
- - [https://www.michaelwimmer.org](https://www.michaelwimmer.org)
- - date_published: 2023-01-18T10:57:18+00:00
-
- ## State Bar of Michigan
- - [http://www.michbar.org](http://www.michbar.org)
- - date_published: 2024-06-15T04:35:35.829199+00:00
-
- ## Pure Michigan
- - [https://www.michigan.org](https://www.michigan.org)
- - date_published: 2024-06-14T23:31:11.311767+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.michiganbusiness.org](https://www.michiganbusiness.org)
- - date_published: 2024-06-29T21:50:39.296452+00:00
-
- ## Login
- - [https://members.michiganmasons.org](https://members.michiganmasons.org)
- - date_published: 2024-06-17T14:03:40.473979+00:00
-
- ## Michigan Masons - We Enhance Lives | Leading and Inspiring Men
- - [https://michiganmasons.org](https://michiganmasons.org)
- - date_published: 2024-04-24T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## [Home] | Michigan Medicine
- - [https://michiganmedicine.org](https://michiganmedicine.org)
- - date_published: 2024-05-08T10:12:28.931649+00:00
-
- ## Michigan Populist Blog
- - [http://www.michiganpopulist.org](http://www.michiganpopulist.org)
- - date_published: 2024-06-30T11:05:52.624687+00:00
-
- ## STATE OF OPP - Homepage
- - [http://stateofopportunity.michiganradio.org](http://stateofopportunity.michiganradio.org)
- - date_published: 2024-07-09T08:58:43.062817+00:00
-
- ## michiru.org ♆ deep sea embrace
- - [https://michiru.org](https://michiru.org)
- - date_published: 2024-06-20T21:25:47.621235+00:00
-
- ## MICRO: Home
- - [http://www.microarch.org](http://www.microarch.org)
- - date_published: 2024-04-08T22:08:58+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://www.microbeworld.org](http://www.microbeworld.org)
- - date_published: 2015-04-21T16:04:32+00:00
-
- ## Microbiology Society
- - [https://microbiologyresearch.org](https://microbiologyresearch.org)
- - date_published: 2023-10-25T21:42:27.306478+00:00
-
- ## Homepage
- - [https://microbiologysociety.org](https://microbiologysociety.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## micro:bit classroom
- - [https://classroom.microbit.org](https://classroom.microbit.org)
- - date_published: 2024-05-30T15:49:18+00:00
-
- ## Microsoft MakeCode for micro:bit
- - [https://makecode.microbit.org](https://makecode.microbit.org)
- - date_published: 2024-06-27T15:26:07.132521+00:00
-
- ## Micro:bit Educational Foundation
- - [https://microbit.org](https://microbit.org)
- - date_published: 2024-06-17T17:41:09+00:00
-
- ## micro:bit Python Editor
- - [https://python.microbit.org](https://python.microbit.org)
- - date_published: 2024-04-27T10:19:33+00:00
-
- ## Support
- - [https://support.microbit.org](https://support.microbit.org)
- - date_published: 2024-06-27T15:26:14.751352+00:00
-
- ## micro:bit developer community and technical resources
- - [https://tech.microbit.org](https://tech.microbit.org)
- - date_published: 2023-03-24T16:41:08+00:00
-
- ## microfeed
- - [https://www.microfeed.org](https://www.microfeed.org)
- - date_published: 2024-05-04T12:49:38.394405+00:00
-
- ## Microformats – building blocks for data-rich web pages
- - [https://microformats.org](https://microformats.org)
- - date_published: 2024-05-06T17:29:21.213729+00:00
-
- ## Micro Frontends - extending the microservice idea to frontend development
- - [https://micro-frontends.org](https://micro-frontends.org)
- - date_published: 2017-08-28T00:00:00+00:00
-
- ## microG Project
- - [https://microg.org](https://microg.org)
- - date_published: 2024-04-07T20:29:00.528822+00:00
- - tags: ['open source', 'google services']
-
- ## Micro-Manager
- - [https://micro-manager.org](https://micro-manager.org)
- - date_published: 2024-05-02T10:08:03.081668+00:00
-
- ## Micro Nano Technology Education Center - MNTEC
- - [https://micronanoeducation.org](https://micronanoeducation.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## microPublication - Get Your Data Out, Be Cited
- - [https://www.micropublication.org](https://www.micropublication.org)
- - date_published: 2024-06-30T04:49:50+00:00
-
- ## Overview — MicroPython latest documentation
- - [https://docs.micropython.org](https://docs.micropython.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## MicroPython Forum (Archive) - Forum
- - [http://forum.micropython.org](http://forum.micropython.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## MicroPython - Python for microcontrollers
- - [https://micropython.org](https://micropython.org)
- - date_published: 2024-04-28T04:12:53.602901+00:00
- - tags: ['microcontrollers', 'python']
-
- ## MicroPython - Python for microcontrollers
- - [https://store.micropython.org](https://store.micropython.org)
- - date_published: 2024-06-22T14:05:54.412252+00:00
-
- ## Home
- - [https://microschoolingcenter.org](https://microschoolingcenter.org)
- - date_published: 2024-07-12T20:31:04+00:00
-
- ## Christian Glantz - Dein Fliesen Experte
- - [http://www.microsymposia.org](http://www.microsymposia.org)
- - date_published: 2024-07-14T16:25:23.200799+00:00
-
- ## Miles A. Curry
- - [https://micurry.org](https://micurry.org)
- - date_published: 2023-12-05T14:38:00.304530+00:00
- - tags: ['personal']
-
- ## Science Fiction - Mid American Conventions
- - [http://www.midamericon.org](http://www.midamericon.org)
- - date_published: 2018-05-28T21:52:16+00:00
-
- ## MIDAO | Marshall Islands (RMI) DAO LLC
- - [https://www.midao.org](https://www.midao.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## midatlanticv6tf.org
- - [http://www.midatlanticv6tf.org](http://www.midatlanticv6tf.org)
- - date_published: 2024-07-07T01:24:50.053158+00:00
-
- ## MIDC | Maharashtra Industrial Development Corporation
- - [https://www.midcindia.org](https://www.midcindia.org)
- - date_published: 2024-07-12T14:22:07.432112+00:00
-
- ## 2018 ACM/IFIP International Middleware Conference – December 10-14th 2018 – Rennes, France
- - [http://2018.middleware-conference.org](http://2018.middleware-conference.org)
- - date_published: 2024-07-03T06:10:38.533936+00:00
-
- ## ACM/IFIP Middleware 2020
- - [https://2020.middleware-conference.org](https://2020.middleware-conference.org)
- - date_published: 2021-08-23T13:00:27+00:00
-
- ## MIDI.org – Expanding, promoting, and protecting MIDI technology for the benefit of artists and musicians around the world.
- - [https://midi.org](https://midi.org)
- - date_published: 2024-05-11T08:48:02.337825+00:00
-
- ## Midiaetnica | News Room Website
- - [http://www.midiaetnica.org](http://www.midiaetnica.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Mid Island Dahlia Society
- - [https://www.midislanddahlia.org](https://www.midislanddahlia.org)
- - date_published: 2024-07-04T13:03:28.041604+00:00
-
- ## MidnightBSD
- - [https://www.midnightbsd.org](https://www.midnightbsd.org)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## lists.midnight-commander.org Mailing Lists
- - [https://lists.midnight-commander.org](https://lists.midnight-commander.org)
- - date_published: 2024-07-08T10:45:30.010974+00:00
-
- ## Midnight Commander
- - [https://midnight-commander.org](https://midnight-commander.org)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## Midnight Sun ...a medieval adventure under a neversetting sun.
- - [https://midnightsun2.org](https://midnightsun2.org)
- - date_published: 2024-03-27T20:47:17.457875+00:00
- - tags: ['mud game']
-
- ## Midrash BEN ISH HAI
- - [http://www.midrash.org](http://www.midrash.org)
- - date_published: 2011-07-29T23:20:14+00:00
-
- ## Home
- - [https://midsouthpeace.org](https://midsouthpeace.org)
- - date_published: 2016-05-11T03:25:34+00:00
-
- ## USS Midway Aircraft Carrier | San Diego Museum | San Diego Tours
- - [https://www.midway.org](https://www.midway.org)
- - date_published: 2024-07-09T17:37:42.396852+00:00
-
- ## Home - Midway Contemporary Art
- - [https://www.midwayart.org](https://www.midwayart.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Midwest Access Coalition
- - [https://www.midwestaccesscoalition.org](https://www.midwestaccesscoalition.org)
- - date_published: 2024-07-05T10:50:53.826382+00:00
-
- ## Facebook
- - [http://midwestreprapfest.org](http://midwestreprapfest.org)
- - date_published: 2024-04-28T04:36:46.533488+00:00
-
- ## 美夫君志会【公式ホームページ】
- - [http://www.mifukushikai.org](http://www.mifukushikai.org)
- - date_published: 2021-01-14T06:25:36+00:00
-
- ## Homepage | Multilateral Investment Guarantee Agency | World Bank Group
- - [https://miga.org](https://miga.org)
- - date_published: 2024-05-12T07:30:54.761327+00:00
-
- ## Strona główna
- - [https://migam.org](https://migam.org)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Ommi
- - [https://omni-tlumacz.migam.org](https://omni-tlumacz.migam.org)
- - date_published: 2024-05-09T11:23:20+00:00
-
- ## Strona główna - tlumacz.migam.org
- - [https://tlumacz.migam.org](https://tlumacz.migam.org)
- - date_published: 2024-01-31T13:40:32+00:00
-
- ## Global Migration Data Portal
- - [https://migrationdataportal.org](https://migrationdataportal.org)
- - date_published: 2024-06-29T21:22:29.382573+00:00
-
- ## Migration Policy Institute
- - [https://www.migrationpolicy.org](https://www.migrationpolicy.org)
- - date_published: 2024-06-24T11:43:14+00:00
-
- ## Application development and writing · Informatika Mihelac
- - [http://source.mihelac.org](http://source.mihelac.org)
- - date_published: 2023-06-27T08:46:58+00:00
-
- ## 工业和信息化部工业文化发展中心
- - [http://www.miit-icdc.org](http://www.miit-icdc.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## MiiWiki
- - [https://miiwiki.org](https://miiwiki.org)
- - date_published: 2024-06-18T15:00:30+00:00
-
- ## Maynard Institute for Journalism Education
- - [http://www.mije.org](http://www.mije.org)
- - date_published: 2024-07-15T07:18:33.712974+00:00
-
- ## Mike Hulme
- - [http://mikehulme.org](http://mikehulme.org)
- - date_published: 2024-06-28T18:43:12.190984+00:00
-
- ## Mike Little: WordPress Specialist, co-founder of WordPress
- - [https://mikelittle.org](https://mikelittle.org)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Mike Lynch
- - [https://mikelynch.org](https://mikelynch.org)
- - date_published: 2024-02-08T21:15:49.518842+00:00
- - tags: ['personal']
-
- ## Electroacoustic
- - [https://music.mikelynch.org](https://music.mikelynch.org)
- - date_published: 2024-05-08T10:12:56.808759+00:00
-
- ## Social Media Distancing
- - [https://smd.mikelynch.org](https://smd.mikelynch.org)
- - date_published: 2020-11-07T06:59:10+00:00
-
- ## Dark Star Mike Oldfield Magazine
- - [http://www.mikeoldfield.org](http://www.mikeoldfield.org)
- - date_published: 2024-07-11T11:37:17.246789+00:00
-
- ## Home
- - [https://miktex.org](https://miktex.org)
- - date_published: 2024-06-22T09:46:45.072946+00:00
-
- ## Mikvah.org
- - [https://www.mikvah.org](https://www.mikvah.org)
- - date_published: 2024-06-27T08:00:18.815187+00:00
-
- ## Milaap: Free Crowdfunding for India | Best fundraising site for medical emergencies and social causes
- - [https://milaap.org](https://milaap.org)
- - date_published: 2024-07-09T18:47:08.470455+00:00
-
- ## The Miley Cyrus Foundation
- - [http://mileycyrusfoundation.org](http://mileycyrusfoundation.org)
- - date_published: 2024-06-03T17:56:16+00:00
-
- ## Militant Islam Monitor
- - [http://www.militantislammonitor.org](http://www.militantislammonitor.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Military Association of Atheists & Freethinkers
- - [http://militaryatheists.org](http://militaryatheists.org)
- - date_published: 2024-06-30T01:47:51.187069+00:00
-
- ## Home
- - [https://militaryfamilieslearningnetwork.org](https://militaryfamilieslearningnetwork.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Association of Military Musicians – Association of Military Musicians
- - [https://militarymusicians.org](https://militarymusicians.org)
- - date_published: 2024-05-12T05:26:42.531027+00:00
-
- ## HTML Meta Tag
- - [https://livechat.militaryonesourceconnect.org](https://livechat.militaryonesourceconnect.org)
- - date_published: 2023-05-03T18:05:13+00:00
-
- ## Military Poisons | WILPF US
- - [https://militarypoisons.org](https://militarypoisons.org)
- - date_published: 2023-10-25T21:42:31.932290+00:00
-
- ## Homepage
- - [http://www.militaryreligiousfreedom.org](http://www.militaryreligiousfreedom.org)
- - date_published: 2024-06-28T20:29:03+00:00
-
- ## Home
- - [https://milkeninstitute.org](https://milkeninstitute.org)
- - date_published: 2024-06-15T23:15:12.721060+00:00
-
- ## Milken Institute Review
- - [https://www.milkenreview.org](https://www.milkenreview.org)
- - date_published: 2024-07-08T10:31:52.819018+00:00
-
- ## Milkweed Editions
- - [https://milkweed.org](https://milkweed.org)
- - date_published: 2024-06-22T01:45:13+00:00
-
- ## MilkyTracker | News
- - [https://milkytracker.org](https://milkytracker.org)
- - date_published: 2024-05-08T10:28:54.960855+00:00
-
- ## data.millercenter.org
- - [https://data.millercenter.org](https://data.millercenter.org)
- - date_published: 2022-03-17T00:00:00+00:00
-
- ## Miller Center
- - [https://millercenter.org](https://millercenter.org)
- - date_published: 2024-05-09T06:36:19.156142+00:00
-
- ## James F. and Marion L. Miller Foundation  |  Arts & Education Grants in Oregon
- - [https://www.millerfound.org](https://www.millerfound.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Mill Marginalia – University of Alabama
- - [https://millmarginalia.org](https://millmarginalia.org)
- - date_published: 2024-06-17T18:18:04.657658+00:00
-
- ## Milwaukee Neighborhood News Service
- - [https://milwaukeenns.org](https://milwaukeenns.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home - Musical Instrument Museum
- - [https://mim.org](https://mim.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## MIMEDefang
- - [http://mimedefang.org](http://mimedefang.org)
- - date_published: 2024-05-04T21:02:45+00:00
-
- ## Learn to Code with Mimo: Python, JavaScript, HTML, CSS, and More
- - [https://mimo.org](https://mimo.org)
- - date_published: 2024-05-06T16:31:24.455433+00:00
-
- ## Homepage | Minamata Convention on Mercury
- - [https://minamataconvention.org](https://minamataconvention.org)
- - date_published: 2024-06-16T16:36:06+00:00
-
- ## Home | Minarca
- - [https://minarca.org](https://minarca.org)
- - date_published: 2024-04-26T19:20:28.081567+00:00
-
- ## home
- - [http://jack.minardi.org](http://jack.minardi.org)
- - date_published: 2015-06-29T13:13:38+00:00
-
- ## MINATEC
- - [https://www.minatec.org](https://www.minatec.org)
- - date_published: 2024-07-03T05:37:42.442158+00:00
-
- ## Min | A fast, minimal browser that protects your privacy
- - [https://minbrowser.org](https://minbrowser.org)
- - date_published: 2023-10-25T21:42:38.172126+00:00
-
- ## Monacan Nation Cultural Foundation
- - [https://www.minculturalfoundation.org](https://www.minculturalfoundation.org)
- - date_published: 2024-07-14T13:59:08.624958+00:00
-
- ## Cierpliwości...
- - [https://mindat.org](https://mindat.org)
- - date_published: 2024-05-08T10:22:17.887418+00:00
-
- ## Ed Fox meditation coach – Overcome fear, limitation, and challenge
- - [https://mindbodyawakening.org](https://mindbodyawakening.org)
- - date_published: 2023-12-12T23:23:50.149785+00:00
- - tags: ['personal']
-
- ## MindFreedom International (MFI) - Win human rights in mental health!
- - [https://mindfreedom.org](https://mindfreedom.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Welcome
- - [https://supporters.mindfreedom.org](https://supporters.mindfreedom.org)
- - date_published: 2024-06-21T19:43:30.151048+00:00
-
- ## Mindful
- - [https://www.mindful.org](https://www.mindful.org)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Home
- - [https://www.mindfulleader.org](https://www.mindfulleader.org)
- - date_published: 2024-07-08T13:36:21.302890+00:00
-
- ## Quiambaug/Mistuxet Valley: A History of a Valley and Its Two
-Ridges
- - [https://qb.mindhenge.org](https://qb.mindhenge.org)
- - date_published: 2024-06-13T22:00:05+00:00
-
- ## Minding The Campus — Reforming Our Universities
- - [https://mindingthecampus.org](https://mindingthecampus.org)
- - date_published: 2014-10-01T10:10:10+00:00
-
- ## MindKind
- - [https://www.mindkindstudy.org](https://www.mindkindstudy.org)
- - date_published: 2022-09-27T17:12:30+00:00
-
- ## Mind Makers
- - [https://mindmakersproject.org](https://mindmakersproject.org)
- - date_published: 2018-10-19T23:58:05+00:00
-
- ## Mindmap Maker
- - [https://app.mindmapmaker.org](https://app.mindmapmaker.org)
- - date_published: 2024-06-06T10:01:42+00:00
-
- ## MindMapTools
- - [http://www.mind-mapping.org](http://www.mind-mapping.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## lists.mindrot.org Mailing Lists
- - [https://lists.mindrot.org](https://lists.mindrot.org)
- - date_published: 2024-01-11T13:43:10.457170+00:00
-
- ## Minds aren't magic
- - [https://mindsarentmagic.org](https://mindsarentmagic.org)
- - date_published: 2024-05-07T16:01:41.652109+00:00
-
- ## The MINDS Foundation
- - [https://www.mindsfoundation.org](https://www.mindsfoundation.org)
- - date_published: 2024-07-21T09:34:01.826964+00:00
-
- ## Minecraft Servers | Minecraft Server List
- - [https://minecraftservers.org](https://minecraftservers.org)
- - date_published: 2023-10-25T11:18:19.441515+00:00
-
- ## Welcome to MineDojo’s documentation! — MineDojo 0.1.0 documentation
- - [https://docs.minedojo.org](https://docs.minedojo.org)
- - date_published: 2023-03-26T00:04:13+00:00
-
- ## MineDojo | Building Open-Ended Embodied Agents with
-        Internet-Scale Knowledge
- - [https://minedojo.org](https://minedojo.org)
- - date_published: 2023-03-26T00:04:32+00:00
-
- ## Voyager | An Open-Ended Embodied Agent with Large Language Models
- - [https://voyager.minedojo.org](https://voyager.minedojo.org)
- - date_published: 2023-10-25T21:43:00.475854+00:00
-
- ## Minghui.org 明慧网|法轮大法真相·法轮大法修炼
- - [https://minghui.org](https://minghui.org)
- - date_published: 2024-06-24T07:38:30.194371+00:00
-
- ## https://mingw.org
- - [https://mingw.org](https://mingw.org)
- - date_published: 2024-01-09T03:41:43.009235+00:00
-
- ## Mingw.org
- - [http://www70.mingw.org](http://www70.mingw.org)
- - date_published: 2024-05-08T10:15:48.707561+00:00
-
- ## MinGW-w64
- - [https://mingw-w64.org](https://mingw-w64.org)
- - date_published: 2023-10-30T14:03:46.137119+00:00
- - tags: ['compiler', 'open source']
-
- ## Minidisc Community Portal
- - [https://minidisc.org](https://minidisc.org)
- - date_published: 2019-05-24T02:03:35+00:00
-
- ## Minifeed
- - [https://minifeed.org](https://minifeed.org)
- - date_published: 2024-06-26T08:08:50.821996+00:00
-
- ## Manifesto for Minimalist Software Engineers
- - [https://minifesto.org](https://minifesto.org)
- - date_published: 2017-11-25T05:05:46+00:00
-
- ## Minifree Ltd – GNU+Linux laptops with Libreboot preinstalled, based on coreboot
- - [https://minifree.org](https://minifree.org)
- - date_published: 2023-10-25T21:43:09.325144+00:00
-
- ## Mininet: An Instant Virtual Network on Your Laptop (or Other PC) - Mininet
- - [http://mininet.org](http://mininet.org)
- - date_published: 2022-04-01T22:18:56+00:00
 

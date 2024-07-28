@@ -1,3 +1,84 @@
+ ## DAVID NEGRIN
+ - [https://davidnegrin.com](https://davidnegrin.com)
+ - date_published: 2024-06-20T19:25:07+00:00
+ - tags: ['personal']
+
+ ## davidnprogress
+ - [http://davidnprogress.com](http://davidnprogress.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## All posts
+ - [https://davidosomething.com](https://davidosomething.com)
+ - date_published: 2024-05-11T10:21:53.434427+00:00
+
+ ## DAVID PALMER STUDIO | Los Angeles artist David Palmer
+ - [https://davidpalmerstudio.com](https://davidpalmerstudio.com)
+ - date_published: 2023-08-17T21:14:22+00:00
+ - tags: ['personal']
+
+ ## David Pashley.com
+ - [https://www.davidpashley.com](https://www.davidpashley.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## David Penuela
+ - [http://davidpenuela.com](http://davidpenuela.com)
+ - date_published: 2022-05-18T09:48:01+00:00
+
+ ## David Pfau
+ - [http://davidpfau.com](http://davidpfau.com)
+ - date_published: 2024-07-11T20:23:32+00:00
+
+ ## Photographer in Paris, France, Italy, Canada, & the USA
+ - [http://www.davidphenry.com](http://www.davidphenry.com)
+ - date_published: 2006-06-24T00:00:00+00:00
+
+ ## Retired Software | David Pilling
+ - [https://davidpilling.com](https://davidpilling.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home - David Porkka
+ - [https://davidporkka.com](https://davidporkka.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+ - tags: ['personal']
+
+ ## David Revoy - Artist, Instructor, using only Free/Libre and Open-Source software since 2009.
+ - [https://www.davidrevoy.com](https://www.davidrevoy.com)
+ - date_published: 2023-11-01T20:29:59.322741+00:00
+
+ ## David R Munson, Photographer | Saitama, Japan
+ - [https://davidrmunson.com](https://davidrmunson.com)
+ - date_published: 2022-07-12T16:01:14+00:00
+ - tags: ['personal']
+
+ ## My name is David Roessli and I make websites on a Mac
+ - [https://davidroessli.com](https://davidroessli.com)
+ - date_published: 2024-07-10T06:16:22.474028+00:00
+
+ ## DRW Entertainment | International Concert and Tour Promoter
+ - [https://davidroywilliams.com](https://davidroywilliams.com)
+ - date_published: 2024-06-18T09:26:09.300858+00:00
+
+ ## David Rumsey Historical Map Collection
+| The Collection
+ - [https://www.davidrumsey.com](https://www.davidrumsey.com)
+ - date_published: 2024-06-22T00:00:04+00:00
+
+ ## David Rutland
+ - [https://davidrutland.com](https://davidrutland.com)
+ - date_published: 2024-05-02T12:51:17.553101+00:00
+
+ ## David Sansome
+ - [https://davidsansome.com](https://davidsansome.com)
+ - date_published: 2015-11-07T04:21:23+00:00
+
+ ## David Saylors David Saylors Photography
+ - [https://www.davidsaylors.com](https://www.davidsaylors.com)
+ - date_published: 2024-06-29T07:58:50.763700+00:00
+
+ ## David Schiesser
+ - [http://davidschiesser.com](http://davidschiesser.com)
+ - date_published: 2024-07-13T15:59:34.752718+00:00
+
  ## David Krueger
  - [https://www.davidscottkrueger.com](https://www.davidscottkrueger.com)
  - date_published: 2024-06-21T19:04:22+00:00
@@ -724,6 +805,10 @@
  ## D/code - The Ultimate Luxury Interiors Designers, Brands, Architects and Artists
  - [https://www.dcodeindia.com](https://www.dcodeindia.com)
  - date_published: 2024-06-26T08:40:26.616870+00:00
+
+ ## Award-winning Bristol Website & WordPress Developers | DCOE:D
+ - [https://dcoed.com](https://dcoed.com)
+ - date_published: 2024-07-25T00:00:00+00:00
 
  ## Washington DC Fountain Pen SUPERSHOW
  - [https://www.dcpenshow.com](https://www.dcpenshow.com)
@@ -2463,6 +2548,10 @@
  - [https://defiprime.com](https://defiprime.com)
  - date_published: 2024-07-04T09:58:01.500905+00:00
 
+ ## DeFi Pulse
+ - [https://defipulse.com](https://defipulse.com)
+ - date_published: 2024-07-27T06:22:57.763817+00:00
+
  ## DeFi Saver — Advanced DeFi Management
  - [https://defisaver.com](https://defisaver.com)
  - date_published: 2024-06-04T06:12:42.750963+00:00
@@ -3980,90 +4069,4 @@
  ## Derby City Weekend
  - [https://derbycityweekend.com](https://derbycityweekend.com)
  - date_published: 2024-05-07T12:48:25.372906+00:00
-
- ## Kentucky Derby Tickets - Kentucky Derby Packages | Derby Experiences
- - [https://derbyexperiences.com](https://derbyexperiences.com)
- - date_published: 2024-06-19T17:51:50.535277+00:00
-
- ## DerbyJS
- - [https://derbyjs.com](https://derbyjs.com)
- - date_published: 2024-05-14T04:00:00+00:00
-
- ## Derby Warehouse
- - [https://www.derbywarehouse.com](https://www.derbywarehouse.com)
- - date_published: 2024-07-13T13:18:24.523398+00:00
-
- ## Derek Eder
- - [http://derekeder.com](http://derekeder.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Derek Goodwin Photography | Headshot & Branding Photographer
- - [https://derekgoodwinphotography.com](https://derekgoodwinphotography.com)
- - date_published: 2024-05-10T06:27:49.651281+00:00
-
- ## derekgoodwin
- - [https://galleries.derekgoodwinphotography.com](https://galleries.derekgoodwinphotography.com)
- - date_published: 2024-05-10T06:27:52.208651+00:00
-
- ## Derek Hess Superhero + Overrated Artist
- - [http://derekhess.com](http://derekhess.com)
- - date_published: 2024-06-28T14:14:57.917739+00:00
-
- ## Derek Houck
- - [https://derekhouck.com](https://derekhouck.com)
- - date_published: 2023-12-19T02:59:18.608346+00:00
- - tags: ['personal']
-
- ## Derek Man Lui
- - [http://derekmanlui.com](http://derekmanlui.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Derek Palladino: Web Developer
- - [http://derekpalladino.com](http://derekpalladino.com)
- - date_published: 2024-03-10T16:47:23+00:00
-
- ## Derek Goodwin Photography | Headshot & Branding Photographer
- - [https://derekpashupagoodwin.com](https://derekpashupagoodwin.com)
- - date_published: 2023-11-29T17:08:37.949199+00:00
- - tags: ['personal']
-
- ## Derek Shirk / Design Leader
- - [https://derekshirk.com](https://derekshirk.com)
- - date_published: 2024-01-10T19:22:30.953376+00:00
-
- ## Derek Sivers
- - [https://dereksivers.com](https://dereksivers.com)
- - date_published: 2024-05-09T07:17:33.420604+00:00
-
- ## Derek's Wee Toys – A Wargamer's Blog
- - [http://dereksweetoys.com](http://dereksweetoys.com)
- - date_published: 2024-07-20T08:54:44.007407+00:00
-
- ## Derek Yu's Home on the Web
- - [https://derekyu.com](https://derekyu.com)
- - date_published: 2021-10-20T06:07:41+00:00
-
- ## Reformedish
- - [http://derekzrishmawy.com](http://derekzrishmawy.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## dergigi.com
- - [https://dergigi.com](https://dergigi.com)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Open Data Publishing & Open Data for Public Bodies | Derilinx
- - [https://derilinx.com](https://derilinx.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## deritrade
- - [https://app.deritrade.com](https://app.deritrade.com)
- - date_published: 2024-07-15T15:17:04+00:00
-
- ## Tech Innovations from Our Experts | Deriv Tech blog
- - [https://tech.deriv.com](https://tech.deriv.com)
- - date_published: 2024-05-30T13:10:54.725228+00:00
-
- ## www.derkreuzzug.com - the fists of doom
- - [https://www.derkreuzzug.com](https://www.derkreuzzug.com)
- - date_published: 1901-12-31T00:00:00+00:00
 

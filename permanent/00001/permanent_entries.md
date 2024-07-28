@@ -2493,6 +2493,10 @@
  - [https://namy.ai](https://namy.ai)
  - date_published: 2024-06-19T18:56:30.741653+00:00
 
+ ## nanosaur
+ - [http://nanosaur.ai](http://nanosaur.ai)
+ - date_published: 2024-07-27T02:48:01.494978+00:00
+
  ## Nansen | Onchain Analytics for Crypto Investors & Teams
  - [https://nansen.ai](https://nansen.ai)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4021,8 +4025,4 @@
  ## Center for AI Safety (CAIS)
  - [https://safe.ai](https://safe.ai)
  - date_published: 2024-06-25T00:00:00+00:00
-
- ## Sakana AI
- - [https://sakana.ai](https://sakana.ai)
- - date_published: 2024-06-13T06:40:32.283220+00:00
 

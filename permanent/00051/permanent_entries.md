@@ -1,3 +1,71 @@
+ ## CivicMapper | Modern geospatial technology solutions for solving problems in the natural and built environments
+ - [https://www.civicmapper.com](https://www.civicmapper.com)
+ - date_published: 2023-11-08T00:00:00+00:00
+
+ ## Social Studies Simulation | Civics Simulation | Civic Mirror
+ - [https://civicmirror.com](https://civicmirror.com)
+ - date_published: 2024-05-09T05:23:06.227117+00:00
+
+ ## Home
+ - [https://civicplus.com](https://civicplus.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Grand Junction, CO | Official Website
+ - [https://co-grandjunction.civicplus.com](https://co-grandjunction.civicplus.com)
+ - date_published: 2024-06-20T22:23:48.973908+00:00
+
+ ## Adams County, IN - Official Website | Official Website
+ - [http://in-adamscounty.civicplus.com](http://in-adamscounty.civicplus.com)
+ - date_published: 2024-07-21T02:43:13.928608+00:00
+
+ ## New Hanover County, NC | Official Website
+ - [https://nc-newhanovercounty.civicplus.com](https://nc-newhanovercounty.civicplus.com)
+ - date_published: 2024-05-07T13:57:46.774395+00:00
+
+ ## Ashland, OR | Official Website
+ - [https://or-ashland.civicplus.com](https://or-ashland.civicplus.com)
+ - date_published: 2024-06-17T12:32:37.822738+00:00
+
+ ## CivicSource.com – The Property Auction Authority®
+ - [https://www.civicsource.com](https://www.civicsource.com)
+ - date_published: 2024-06-15T03:18:12.774124+00:00
+
+ ## CIVIC
+ - [https://www.civicuk.com](https://www.civicuk.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## CivIdle
+ - [https://www.cividle.com](https://www.cividle.com)
+ - date_published: 2024-04-28T05:58:48.147900+00:00
+
+ ## Hawaii News: In-Depth Local News From Honolulu Civil Beat
+ - [http://www.civilbeat.com](http://www.civilbeat.com)
+ - date_published: 2024-07-15T06:01:19.074661+00:00
+
+ ## Home
+ - [https://civileats.com](https://civileats.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Civilian Reader
+ - [https://civilianreader.com](https://civilianreader.com)
+ - date_published: 2024-04-29T02:17:42.954344+00:00
+
+ ## Civil Maps | HD Maps and Localization
+ - [https://civilmaps.com](https://civilmaps.com)
+ - date_published: 2020-11-02T13:32:23+00:00
+
+ ## Civiqs
+ - [https://cdn.results.civiqs.com](https://cdn.results.civiqs.com)
+ - date_published: 2024-06-13T20:05:42+00:00
+
+ ## Civiqs
+ - [https://civiqs.com](https://civiqs.com)
+ - date_published: 2024-05-01T03:30:21.483473+00:00
+
+ ## 黑洞加速器免费安卓版本，黑洞加速器官方android安卓版本 - 黑洞加速器官方网站
+ - [https://www.civiside.com](https://www.civiside.com)
+ - date_published: 2024-05-12T01:47:57+00:00
+
  ## Civitas Student
  - [https://ensign.student.civitaslearning.com](https://ensign.student.civitaslearning.com)
  - date_published: 2024-07-11T00:22:32+00:00
@@ -3965,72 +4033,4 @@
  ## 中国出版集团有限公司
  - [http://cn.cnpubg.com](http://cn.cnpubg.com)
  - date_published: 2024-06-30T14:54:00.693981+00:00
-
- ## 中国出版集团
- - [http://www.cnpubg.com](http://www.cnpubg.com)
- - date_published: 2024-06-30T17:03:50.209988+00:00
-
- ## CNRS Innovation
- - [https://www.cnrsinnovation.com](https://www.cnrsinnovation.com)
- - date_published: 2024-07-03T04:24:45.691123+00:00
-
- ## CNS Business
- - [https://cnsbusiness.com](https://cnsbusiness.com)
- - date_published: 2024-05-08T04:42:37.924037+00:00
-
- ## Login - CasePortal by Courthouse News Service
- - [https://login.cnscaseportal.com](https://login.cnscaseportal.com)
- - date_published: 2024-07-04T15:33:38.721728+00:00
-
- ## CasePortal by Courthouse News Service
- - [https://search.cnscaseportal.com](https://search.cnscaseportal.com)
- - date_published: 2024-05-08T06:46:28.897647+00:00
-
- ## CasePortal by Courthouse News Service
- - [https://cnscaseportal.com](https://cnscaseportal.com)
- - date_published: 2024-05-08T06:46:02.441580+00:00
-
- ## CNS Library
- - [https://cnslibrary.com](https://cnslibrary.com)
- - date_published: 2024-05-08T04:37:23.257816+00:00
-
- ## CNS Local Life
- - [https://cnslocallife.com](https://cnslocallife.com)
- - date_published: 2024-05-08T04:37:08.074125+00:00
-
- ## Food Ingredients First | Food Industry News and Analysis
- - [https://fif.cnsmedia.com](https://fif.cnsmedia.com)
- - date_published: 2024-07-09T13:05:24.034086+00:00
-
- ## Nutrition Insight
- - [https://ni.cnsmedia.com](https://ni.cnsmedia.com)
- - date_published: 2024-07-09T13:05:51.485994+00:00
-
- ## Personal Care Insights
- - [https://pci.cnsmedia.com](https://pci.cnsmedia.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Packaging Insights
- - [https://pi.cnsmedia.com](https://pi.cnsmedia.com)
- - date_published: 2024-05-09T05:09:03.711489+00:00
-
- ## Front Page Featured | MRCTV
- - [https://cnsnews.com](https://cnsnews.com)
- - date_published: 2024-05-08T10:49:10.884725+00:00
-
- ## Front Page Featured | MRCTV
- - [http://www.cnsnews.com](http://www.cnsnews.com)
- - date_published: 2024-06-20T01:52:32+00:00
-
- ## 中新社图片网
- - [http://www.cnsphoto.com](http://www.cnsphoto.com)
- - date_published: 2023-11-24T09:06:35+00:00
-
- ## 上海证券报·中国证券网-权威 价值 专业-www.cnstock.com/
- - [https://m.cnstock.com](https://m.cnstock.com)
- - date_published: 2024-05-17T05:04:45+00:00
-
- ## 路演-上海证券报·中国证券网
- - [https://roadshow.cnstock.com](https://roadshow.cnstock.com)
- - date_published: 2024-06-30T15:17:19.947037+00:00
 

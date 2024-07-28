@@ -1,3 +1,7 @@
+ ## Write a Thank You Note - ThankYouNote.app
+ - [https://thankyounote.app](https://thankyounote.app)
+ - date_published: 2022-08-16T21:00:27+00:00
+
  ## thechat.app - Decentralized Web3 group chat
  - [https://thechat.app](https://thechat.app)
  - date_published: 2024-06-21T20:22:20.499267+00:00
@@ -4030,8 +4034,4 @@ October 2024 in Singapore
  ## VICAV - Vienna Corpus of Arabic Varieties
  - [https://vicav.acdh.oeaw.ac.at](https://vicav.acdh.oeaw.ac.at)
  - date_published: 2024-01-09T00:00:00+00:00
-
- ## Österreichische Akademie der Wissenschaften
- - [https://www.oeaw.ac.at](https://www.oeaw.ac.at)
- - date_published: 2024-06-16T22:24:07.269549+00:00
 

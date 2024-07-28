@@ -1,3 +1,228 @@
+ ## Time Travel Kitchen | Jolene Handy | Substack
+ - [https://timetravelkitchen.substack.com](https://timetravelkitchen.substack.com)
+ - date_published: 2024-07-04T04:40:19.935769+00:00
+
+ ## Intellectual Insights | Tim Robinson | Substack
+ - [https://timjrobinson.substack.com](https://timjrobinson.substack.com)
+ - date_published: 2024-05-06T18:31:19.669340+00:00
+
+ ## History of the Present | Timothy Garton Ash | Substack
+ - [https://timothygartonash.substack.com](https://timothygartonash.substack.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## It's all obvious or trivial except.... | Tim Worstall | Substack
+ - [https://timworstall.substack.com](https://timworstall.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Adulting Sucks | Tina Dubinsky | Substack
+ - [https://tinadubinsky.substack.com](https://tinadubinsky.substack.com)
+ - date_published: 2024-07-12T15:40:44.228725+00:00
+
+ ## Tiny Empires | JT | Substack
+ - [https://tinyempires.substack.com](https://tinyempires.substack.com)
+ - date_published: 2023-10-25T10:06:31.208743+00:00
+ - tags: ['substack']
+
+ ## Tjaart’s Substack | Substack
+ - [https://tjaart.substack.com](https://tjaart.substack.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## T.L.’s Posts and Podcasts | T.L. Davis | Substack
+ - [https://tldavis.substack.com](https://tldavis.substack.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## tldraw | Steve Ruiz | Substack
+ - [https://tldraw.substack.com](https://tldraw.substack.com)
+ - date_published: 2023-10-25T10:06:33.454002+00:00
+ - tags: ['substack']
+
+ ## Terry Mattingly -- Rational Sheep | tmatt | Substack
+ - [https://tmattingly.substack.com](https://tmattingly.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Modern Software Developer | Richard Donovan | Substack
+ - [https://tmsd.substack.com](https://tmsd.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## uTobian | Toby Rogers | Substack
+ - [https://tobyrogers.substack.com](https://tobyrogers.substack.com)
+ - date_published: 2024-06-15T08:50:41.605666+00:00
+
+ ## Eat More Electrons | Todd Moss | Substack
+ - [https://toddmoss.substack.com](https://toddmoss.substack.com)
+ - date_published: 2024-06-15T05:55:16.030611+00:00
+
+ ## Tombstone Tales | Sean Lindblad | Substack
+ - [https://tombstonetales.substack.com](https://tombstonetales.substack.com)
+ - date_published: 2024-06-21T18:25:58.608487+00:00
+
+ ## Oxymoron | Tom Greenwood | Substack
+ - [https://tomgreenwood.substack.com](https://tomgreenwood.substack.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Tilting At Windmills | Tom Knighton | Substack
+ - [https://tomknighton.substack.com](https://tomknighton.substack.com)
+ - date_published: 2024-01-09T01:45:38.631800+00:00
+
+ ## Tom Nelson | Substack
+ - [https://tomn.substack.com](https://tomn.substack.com)
+ - date_published: 2024-06-28T18:36:05.732146+00:00
+
+ ## Reasonable People | Tom Stafford | Substack
+ - [https://tomstafford.substack.com](https://tomstafford.substack.com)
+ - date_published: 2024-05-04T13:56:24.520866+00:00
+
+ ## The Tom the Dancing Bug Review | Ruben Bolling | Substack
+ - [https://tomthedancingbug.substack.com](https://tomthedancingbug.substack.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Fermentation | Substack
+ - [https://tomwark.substack.com](https://tomwark.substack.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Tools for Possibilities | Cool Tools Lab | Substack
+ - [https://toolsforpossibilities.substack.com](https://toolsforpossibilities.substack.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Top10VPN’s Week in Review | Substack
+ - [https://top10vpn.substack.com](https://top10vpn.substack.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Torture Chamber Small Talk | Loudt Darrow | Substack
+ - [https://torturechambersmalltalk.substack.com](https://torturechambersmalltalk.substack.com)
+ - date_published: 2023-10-25T10:06:43.996611+00:00
+ - tags: ['substack']
+
+ ## Totality of Evidence News | Just call me Jack | Substack
+ - [https://totalityofevidence.substack.com](https://totalityofevidence.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Total Rec | Substack
+ - [https://totallyrecommend.substack.com](https://totallyrecommend.substack.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Tracing Woodgrains | TracingWoodgrains | Substack
+ - [https://tracingwoodgrains.substack.com](https://tracingwoodgrains.substack.com)
+ - date_published: 2024-01-09T01:45:41.735689+00:00
+
+ ## Tracking People's Daily | Manoj Kewalramani | Substack
+ - [https://trackingpeoplesdaily.substack.com](https://trackingpeoplesdaily.substack.com)
+ - date_published: 2024-06-30T03:34:32.322055+00:00
+
+ ## Tradition and Sanity | Peter Kwasniewski | Substack
+ - [https://traditionsanity.substack.com](https://traditionsanity.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Life on the Trail | Allison Barr Allen | Substack
+ - [https://trailruncapital.substack.com](https://trailruncapital.substack.com)
+ - date_published: 2023-10-25T10:06:47.676757+00:00
+ - tags: ['substack']
+
+ ## Traipsing About | Dakota Gale | Substack
+ - [https://traipsingabout.substack.com](https://traipsingabout.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Transcend Loneliness | Pabalnok Vienišumą | Aurimas Aleksandras Nausėdas | Substack
+ - [https://transcendloneliness.substack.com](https://transcendloneliness.substack.com)
+ - date_published: 2024-06-01T05:05:54.368119+00:00
+
+ ## Transcend Newsletter | Alberto Arenaza | Substack
+ - [https://transcend.substack.com](https://transcend.substack.com)
+ - date_published: 2024-06-29T21:22:30.249364+00:00
+
+ ## Contemplations on the Tree of Woe | Substack
+ - [https://treeofwoe.substack.com](https://treeofwoe.substack.com)
+ - date_published: 2023-10-25T10:06:49.846572+00:00
+ - tags: ['substack']
+
+ ## Trevor Klee’s Newsletter | Substack
+ - [https://trevorklee.substack.com](https://trevorklee.substack.com)
+ - date_published: 2023-10-25T10:06:52.536361+00:00
+ - tags: ['substack']
+
+ ## trpplffct | Arjan Tupan | Substack
+ - [https://trippleeffect.substack.com](https://trippleeffect.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Tripsitter | Substack
+ - [https://tripsitter.substack.com](https://tripsitter.substack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Brain Farts | Trisha | Substack
+ - [https://trishareddy.substack.com](https://trishareddy.substack.com)
+ - date_published: 2024-04-28T01:43:43.234467+00:00
+
+ ## Trump Tyranny Tracker: Your Daily Reminder  | Olga Lautman | Substack
+ - [https://trumptyrannytracker.substack.com](https://trumptyrannytracker.substack.com)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Truth on the Streets by Kevin Dahlgren  | Substack
+ - [https://truthonthestreets.substack.com](https://truthonthestreets.substack.com)
+ - date_published: 2023-10-25T10:06:54.506330+00:00
+ - tags: ['substack']
+
+ ## Trying Truly | Substack
+ - [https://tryingtruly.substack.com](https://tryingtruly.substack.com)
+ - date_published: 2024-07-16T18:29:07.188490+00:00
+
+ ## Tucker Goodrich: yelling Stop | Substack
+ - [https://tuckergoodrich.substack.com](https://tuckergoodrich.substack.com)
+ - date_published: 2024-03-03T00:00:00+00:00
+
+ ## Turing Talks | Manish Shivanandhan | Substack
+ - [https://turingtalks.substack.com](https://turingtalks.substack.com)
+ - date_published: 2024-01-02T08:43:07.890129+00:00
+
+ ## twenty4two | Tim Gwynn Jones | Substack
+ - [https://twentyfourtwo.substack.com](https://twentyfourtwo.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The Twitter Files | Matt Taibbi | Substack
+ - [https://twitterfiles.substack.com](https://twitterfiles.substack.com)
+ - date_published: 2024-05-11T09:36:14.757829+00:00
+
+ ## Tyler’s Substack | Tyler Glaiel | Substack
+ - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
+ - date_published: 2023-10-25T10:06:56.239008+00:00
+ - tags: ['substack']
+
+ ## Type Classes | Chris Martin | Substack
+ - [https://typeclasses.substack.com](https://typeclasses.substack.com)
+ - date_published: 2023-10-25T10:06:58.858555+00:00
+ - tags: ['substack']
+
+ ## Monkeys on Typewriters | Arijit Chakravarty | Substack
+ - [http://typingmonkeys.substack.com](http://typingmonkeys.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## https://u4all.substack.com
+ - [https://u4all.substack.com](https://u4all.substack.com)
+ - date_published: 2024-02-08T18:06:49.384939+00:00
+
+ ## University of Chicago Free Speech Alliance | UChicago Free Speech | Substack
+ - [https://uchicagofreespeech.substack.com](https://uchicagofreespeech.substack.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## IEEE at UCLA Newsletter | Theo Zhang | Substack
+ - [https://uclaieeenewsletter.substack.com](https://uclaieeenewsletter.substack.com)
+ - date_published: 2024-06-20T12:57:12.860041+00:00
+
+ ## Ukrinform Newsletters | Ukrinform's Subscription | Substack
+ - [https://ukrinformsubscription.substack.com](https://ukrinformsubscription.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## УКРІНФОРМ: РОЗСИЛКА НОВИН | Substack
+ - [https://ukrinform.substack.com](https://ukrinform.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## This Beautiful Life | Ulrich Beinert | Substack
+ - [https://ulrichbeinert.substack.com](https://ulrichbeinert.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Uncaptured Media | Dan Cohen | Substack
+ - [https://uncaptured.substack.com](https://uncaptured.substack.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
  ## Unchained | Laura Shin | Substack
  - [https://unchainedcrypto.substack.com](https://unchainedcrypto.substack.com)
  - date_published: 2024-05-06T21:13:11.608800+00:00
@@ -3831,221 +4056,4 @@
  ## Home – Swiftless Tutorials - Various older tutorials and newer programming musings
  - [http://www.swiftless.com](http://www.swiftless.com)
  - date_published: 2024-06-23T19:18:06+00:00
-
- ## SwiftlyRush - Xcode Tips and Tricks, Building apps with Swift & SwiftUI
- - [https://www.swiftlyrush.com](https://www.swiftlyrush.com)
- - date_published: 2024-06-23T15:44:32.627245+00:00
-
- ## Swift Money® - Instant Payday Loans - 90% Approval & No Fees
- - [https://swiftmoney.com](https://swiftmoney.com)
- - date_published: 2024-07-13T09:41:12.102875+00:00
-
- ## Swift on Server - Swift on Server
- - [https://swiftonserver.com](https://swiftonserver.com)
- - date_published: 2024-06-19T12:12:47+00:00
-
- ## Swift Package Index
- - [https://swiftpackageindex.com](https://swiftpackageindex.com)
- - date_published: 2024-06-23T13:06:18+00:00
-
- ## Swiftpoint - Ergonomic Mice | Gaming Mice | Travel Mice | Apple's Mice
- - [https://www.swiftpoint.com](https://www.swiftpoint.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Swift Publisher — Desktop Publishing and Page Layout Software for Mac
- - [https://www.swiftpublisher.com](https://www.swiftpublisher.com)
- - date_published: 2024-01-05T04:48:32.094760+00:00
-
- ## Swift Quit - Automatic App Quitting On Mac
- - [https://swiftquit.com](https://swiftquit.com)
- - date_published: 2023-03-14T12:25:38+00:00
-
- ## SwiftRocks - By Bruno Rocha
- - [https://swiftrocks.com](https://swiftrocks.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Swift Senpai
- - [https://swiftsenpai.com](https://swiftsenpai.com)
- - date_published: 2024-06-23T15:21:02+00:00
-
- ## The SwiftUI Lab
- - [https://swiftui-lab.com](https://swiftui-lab.com)
- - date_published: 2023-10-30T00:00:00+00:00
-
- ## Swift Unboxed
- - [https://swiftunboxed.com](https://swiftunboxed.com)
- - date_published: 2018-08-15T00:00:00+00:00
-
- ## Swift Unwrap
- - [https://swiftunwrap.com](https://swiftunwrap.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Swift Weekly - A Free Swift Knowledge Letter
- - [https://swiftweekly.com](https://swiftweekly.com)
- - date_published: 2024-06-23T15:30:06.829210+00:00
-
- ## Home
- - [http://swiftwithmajid.com](http://swiftwithmajid.com)
- - date_published: 2024-06-18T13:01:18+00:00
-
- ## SwiftyLion - Blog on iOS and macOS Development
- - [https://swiftylion.com](https://swiftylion.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Swifty Nodes IT Solutions
- - [https://www.swiftynodes.com](https://www.swiftynodes.com)
- - date_published: 2024-07-03T21:36:49.899708+00:00
-
- ## Home - swiftyplace
- - [https://www.swiftyplace.com](https://www.swiftyplace.com)
- - date_published: 2019-11-26T12:22:54+00:00
-
- ## Order Food Online from India's Best Food Delivery Service | Swiggy
- - [https://swiggy.com](https://swiggy.com)
- - date_published: 2024-07-14T10:20:58.414142+00:00
-
- ## SWI Index
- - [https://swiindex.com](https://swiindex.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## South West Illinois News
- - [https://swillinoisnews.com](https://swillinoisnews.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Documentation - builder.swillkb.com
- - [http://builder-docs.swillkb.com](http://builder-docs.swillkb.com)
- - date_published: 2017-08-24T22:53:52+00:00
-
- ## Plate & Case Builder - swillkb
- - [http://builder.swillkb.com](http://builder.swillkb.com)
- - date_published: 2024-05-09T08:40:38.953278+00:00
-
- ## swillkb
- - [http://swillkb.com](http://swillkb.com)
- - date_published: 2017-03-01T17:52:07+00:00
-
- ## Gene Pool Swimbots
- - [http://www.swimbots.com](http://www.swimbots.com)
- - date_published: 2023-01-15T21:25:45+00:00
-
- ## Swimcloud
- - [https://www.swimcloud.com](https://www.swimcloud.com)
- - date_published: 2024-06-22T08:35:27.850037+00:00
-
- ## Swimming News | Swimming World
- - [https://swimmingworldmagazine.com](https://swimmingworldmagazine.com)
- - date_published: 2024-04-30T05:55:44.635110+00:00
-
- ## Welcome to the Swimply Store!
- - [https://shop.swimply.com](https://shop.swimply.com)
- - date_published: 2024-07-04T02:40:12.494646+00:00
-
- ## Swimply - Rent Private Pools, Courts, and More by the Hour - Pools Near Me
- - [https://swimply.com](https://swimply.com)
- - date_published: 2024-05-08T04:32:03.412187+00:00
-
- ## Swimply - Trust & Safety
- - [https://trustandsafety.swimply.com](https://trustandsafety.swimply.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Swindled - True Crime Podcast Exposing Greed - Listen Now
- - [https://swindledpodcast.com](https://swindledpodcast.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Mixed Signal ASIC Design Company - Swindon Silicon Systems
- - [https://www.swindonsilicon.com](https://www.swindonsilicon.com)
- - date_published: 2023-06-29T00:00:00+00:00
-
- ## Sarah Winifred Searle
- - [http://www.swinsea.com](http://www.swinsea.com)
- - date_published: 2024-06-22T14:51:43.704970+00:00
-
- ## Home - Steven Winter Associates, Inc.
- - [http://www.swinter.com](http://www.swinter.com)
- - date_published: 2024-07-08T15:59:21.086843+00:00
-
- ## Swipe File
- - [https://swipefile.com](https://swipefile.com)
- - date_published: 2024-05-06T13:59:57.576453+00:00
-
- ## Cierpliwości...
- - [https://community.swipefiles.com](https://community.swipefiles.com)
- - date_published: 2024-06-23T06:43:41.712502+00:00
-
- ## Swipe Files Job Board
- - [https://jobs.swipefiles.com](https://jobs.swipefiles.com)
- - date_published: 2024-06-23T06:43:58.160576+00:00
-
- ## Swipe Files | SaaS Marketing Newsletter & Community
- - [https://swipefiles.com](https://swipefiles.com)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Payment & Identity infrastructure for WEB3 projects
- - [https://swipelux.com](https://swipelux.com)
- - date_published: 2024-07-08T17:34:30.851680+00:00
-
- ## Sign in to Swipe Pages
- - [https://app.swipepages.com](https://app.swipepages.com)
- - date_published: 2024-06-25T23:30:30.510124+00:00
-
- ## Sign in to Swipe Pages
- - [https://scripts.swipepages.com](https://scripts.swipepages.com)
- - date_published: 2024-07-01T06:19:23.268339+00:00
-
- ## Swiper Games
- - [https://swipergames.com](https://swipergames.com)
- - date_published: 2024-04-30T07:59:01.405339+00:00
-
- ## Swiper Studio
- - [https://studio.swiperjs.com](https://studio.swiperjs.com)
- - date_published: 2024-06-19T21:54:42.807752+00:00
-
- ## Swiper - The Most Modern Mobile Touch Slider
- - [https://swiperjs.com](https://swiperjs.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Swire Coca-Cola, USA
- - [https://www.swirecc.com](https://www.swirecc.com)
- - date_published: 2024-07-12T19:51:53.180921+00:00
-
- ## SwirlAI Newsletter | Aurimas Griciūnas | Substack
- - [https://www.newsletter.swirlai.com](https://www.newsletter.swirlai.com)
- - date_published: 2024-05-07T09:14:10.627949+00:00
-
- ## Shared Worlds - Swirlds
- - [https://www.swirlds.com](https://www.swirlds.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home - Swirl Films
- - [http://www.swirlfilms.com](http://www.swirlfilms.com)
- - date_published: 2024-07-21T03:22:15.047251+00:00
-
- ## Swish Appeal, a women's basketball community
- - [https://www.swishappeal.com](https://www.swishappeal.com)
- - date_published: 2024-04-29T02:14:57.702417+00:00
-
- ## Book tickets online now and fly into the world
- - [https://swiss.com](https://swiss.com)
- - date_published: 2024-05-12T05:12:22.856076+00:00
- - tags: ['airline']
-
- ## Angular Switzerland
- - [https://swissangular.com](https://swissangular.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Swiss-Belhotel International | Book Online & Exclusive Deals
- - [https://www.swiss-belhotel.com](https://www.swiss-belhotel.com)
- - date_published: 2024-06-15T10:39:40.032555+00:00
-
- ## Swiss Communication Competence Center – Where Communication Dreams Come Through
- - [https://swiss-ccc.com](https://swiss-ccc.com)
- - date_published: 2024-03-24T10:49:58.549580+00:00
-
- ## Mobile, TV, Internet: Swisscom Residential Customers
- - [https://swisscom.com](https://swisscom.com)
- - date_published: 2024-07-10T03:15:17+00:00
-
- ## Swisscom Trust Services | Zertifizierter Vertrauensdienst in Europa
- - [https://trustservices.swisscom.com](https://trustservices.swisscom.com)
- - date_published: 2024-07-17T08:08:40+00:00
 

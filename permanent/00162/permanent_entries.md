@@ -1,3 +1,255 @@
+ ## pattern scissors cloth
+ - [https://patternscissorscloth.wordpress.com](https://patternscissorscloth.wordpress.com)
+ - date_published: 2024-07-10T03:38:08.547468+00:00
+
+ ## Patterns in Functional Programming
+ - [https://patternsinfp.wordpress.com](https://patternsinfp.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## PatternVault
+ - [https://patternvault.wordpress.com](https://patternvault.wordpress.com)
+ - date_published: 2024-07-10T03:37:03+00:00
+
+ ## patter
+ - [https://patthomson.wordpress.com](https://patthomson.wordpress.com)
+ - date_published: 2024-05-02T10:13:06.989147+00:00
+
+ ## Chatterbox, Reloaded
+ - [https://pauleveritt.wordpress.com](https://pauleveritt.wordpress.com)
+ - date_published: 2024-06-28T19:54:36+00:00
+
+ ## Private Site
+ - [http://pauliecannoli.wordpress.com](http://pauliecannoli.wordpress.com)
+ - date_published: 2024-07-03T21:50:59.594352+00:00
+
+ ## Paul W. Rankin
+ - [https://paulrankin.wordpress.com](https://paulrankin.wordpress.com)
+ - date_published: 2024-02-08T16:57:53.153788+00:00
+
+ ## Paul's Down-Home Page
+ - [https://paulrobichaux.wordpress.com](https://paulrobichaux.wordpress.com)
+ - date_published: 2024-05-06T22:40:49.018518+00:00
+
+ ## paul.tavares
+ - [http://paultavares.wordpress.com](http://paultavares.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## PAXsims
+ - [https://paxsims.wordpress.com](https://paxsims.wordpress.com)
+ - date_published: 2024-03-05T23:01:23.488715+00:00
+
+ ## Paolo D'Incau's Blog
+ - [https://pdincau.wordpress.com](https://pdincau.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Peace Requires Anarchy
+ - [http://peacerequiresanarchy.wordpress.com](http://peacerequiresanarchy.wordpress.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Pechorin's Journal
+ - [https://pechorinsjournal.wordpress.com](https://pechorinsjournal.wordpress.com)
+ - date_published: 2024-05-07T15:27:56.192518+00:00
+
+ ## Pedestrian Observations
+ - [https://pedestrianobservations.wordpress.com](https://pedestrianobservations.wordpress.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Perjalanan sebatang penis
+ - [http://peniscab.wordpress.com](http://peniscab.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## blog :: Date -> Maybe String
+ - [https://pepeiborra.wordpress.com](https://pepeiborra.wordpress.com)
+ - date_published: 2024-07-11T07:51:46.851355+00:00
+
+ ## Perfect-Style-Knower
+ - [https://perfectstyleknower.wordpress.com](https://perfectstyleknower.wordpress.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Pervasive Games: Theory and Design
+ - [https://pervasivegames.wordpress.com](https://pervasivegames.wordpress.com)
+ - date_published: 2024-05-09T05:24:45.134820+00:00
+
+ ## PETER JOHNSTON'S BLOG
+ - [http://peteajohnston.wordpress.com](http://peteajohnston.wordpress.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Pete Morin
+ - [https://petemorin.wordpress.com](https://petemorin.wordpress.com)
+ - date_published: 2024-01-30T19:31:10.858778+00:00
+
+ ## Peter Kellner. The Politics Counter
+ - [https://peterkellnerhome.wordpress.com](https://peterkellnerhome.wordpress.com)
+ - date_published: 2024-06-24T06:21:32.815720+00:00
+
+ ## Pete Warden's blog
+ - [https://petewarden.wordpress.com](https://petewarden.wordpress.com)
+ - date_published: 2024-05-06T23:13:08.565204+00:00
+
+ ## Petras.Text.Zeit.
+ - [http://petrastextzeit.wordpress.com](http://petrastextzeit.wordpress.com)
+ - date_published: 2024-06-30T04:13:58.383212+00:00
+
+ ## blog do pflkwy
+ - [http://pflkwy.wordpress.com](http://pflkwy.wordpress.com)
+ - date_published: 2024-06-30T04:14:21.302633+00:00
+
+ ## Pengfei's Notes
+ - [https://pfzhang.wordpress.com](https://pfzhang.wordpress.com)
+ - date_published: 2024-05-07T15:58:34.413329+00:00
+
+ ## Private Site
+ - [http://pgraycode.wordpress.com](http://pgraycode.wordpress.com)
+ - date_published: 2024-07-11T07:48:37.375428+00:00
+
+ ## Le Pharisien Libéré
+ - [http://pharisienlibere.wordpress.com](http://pharisienlibere.wordpress.com)
+ - date_published: 2024-07-02T09:49:47.471768+00:00
+
+ ## philadelphiaheights
+ - [https://philadelphiaheights.wordpress.com](https://philadelphiaheights.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## philiKON - a journal
+ - [https://philikon.wordpress.com](https://philikon.wordpress.com)
+ - date_published: 2024-06-28T20:08:19+00:00
+
+ ## Philip K. Dick Review
+ - [http://philipkdickreview.wordpress.com](http://philipkdickreview.wordpress.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Mathematical general relativity, compressible fluids, and more
+ - [https://philippelefloch.wordpress.com](https://philippelefloch.wordpress.com)
+ - date_published: 2024-05-07T15:58:23.128788+00:00
+
+ ## Philologastry
+ - [https://philologastry.wordpress.com](https://philologastry.wordpress.com)
+ - date_published: 2024-07-02T10:15:22.848557+00:00
+
+ ## CLMPS 2011 : Les évènements Grand Public
+ - [https://philosciences2011.wordpress.com](https://philosciences2011.wordpress.com)
+ - date_published: 2024-07-03T06:32:43.887067+00:00
+
+ ## PHILOSOPHY IN A TIME OF ERROR
+ - [http://philosophyinatimeoferror.wordpress.com](http://philosophyinatimeoferror.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## photo12art
+ - [http://photo12art.wordpress.com](http://photo12art.wordpress.com)
+ - date_published: 2024-07-16T16:44:48.722124+00:00
+
+ ## php security blog
+ - [https://phpsecurity.wordpress.com](https://phpsecurity.wordpress.com)
+ - date_published: 2024-06-26T21:46:37.713766+00:00
+
+ ## piaoyang
+ - [https://piaoyang0.wordpress.com](https://piaoyang0.wordpress.com)
+ - date_published: 2024-05-16T01:34:01.772549+00:00
+
+ ## (no title)
+ - [https://pichusuperlover.wordpress.com](https://pichusuperlover.wordpress.com)
+ - date_published: 2024-06-15T09:47:52.548647+00:00
+
+ ## Picnic at the Cathedral
+ - [http://picnicatthecathedral.wordpress.com](http://picnicatthecathedral.wordpress.com)
+ - date_published: 2024-07-16T16:33:39.068416+00:00
+
+ ## Picture this maths
+ - [https://picturethismaths.wordpress.com](https://picturethismaths.wordpress.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Climate Science: Roger Pielke Sr.
+ - [http://pielkeclimatesci.wordpress.com](http://pielkeclimatesci.wordpress.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## The Seuren Blog
+ - [http://pieterseuren.wordpress.com](http://pieterseuren.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## pigworker in a space
+ - [https://pigworker.wordpress.com](https://pigworker.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## PiKon
+ - [https://pikonic.wordpress.com](https://pikonic.wordpress.com)
+ - date_published: 2024-06-10T12:06:46.931805+00:00
+
+ ## PILEUS
+ - [http://pileusblog.wordpress.com](http://pileusblog.wordpress.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Pillow Lab Blog
+ - [https://pillowlab.wordpress.com](https://pillowlab.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Pink Iguana
+ - [https://pinkiguana2.wordpress.com](https://pinkiguana2.wordpress.com)
+ - date_published: 2024-05-07T16:15:45.010409+00:00
+
+ ## PINT OF FLAVORS
+ - [https://pintofflavors.wordpress.com](https://pintofflavors.wordpress.com)
+ - date_published: 2024-05-04T09:28:52.396834+00:00
+
+ ## Pissy Little Sausages
+ - [http://pissylittlesausages.wordpress.com](http://pissylittlesausages.wordpress.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## vladimir piskarev's blog
+ - [https://pisv.wordpress.com](https://pisv.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Pitter Potter Mad Gardener
+ - [http://pitterpottergardener.wordpress.com](http://pitterpottergardener.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Pixels, Too Many..
+ - [http://pixelstoomany.wordpress.com](http://pixelstoomany.wordpress.com)
+ - date_published: 2024-07-03T04:50:52.892277+00:00
+
+ ## MISSION LOG
+ - [http://pizzaplanettruck.wordpress.com](http://pizzaplanettruck.wordpress.com)
+ - date_published: 2024-06-07T16:43:39+00:00
+
+ ## Plague Gardening
+ - [http://plaguegardening.wordpress.com](http://plaguegardening.wordpress.com)
+ - date_published: 2024-07-11T15:27:34.612927+00:00
+
+ ## planardimension
+ - [http://planardimension.wordpress.com](http://planardimension.wordpress.com)
+ - date_published: 2024-06-30T04:25:30.116482+00:00
+
+ ## planet common sense
+ - [http://planetcommonsense.wordpress.com](http://planetcommonsense.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Planomenology
+ - [http://planomenology.wordpress.com](http://planomenology.wordpress.com)
+ - date_published: 2024-06-30T04:30:23.496474+00:00
+
+ ## Private P2
+ - [https://platform9p2.wordpress.com](https://platform9p2.wordpress.com)
+ - date_published: 2024-05-07T16:04:14.154223+00:00
+
+ ## Footnotes to Plato
+ - [https://platofootnote.wordpress.com](https://platofootnote.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Playing with models: quantitative exploration of life.
+ - [http://playingwithmodels.wordpress.com](http://playingwithmodels.wordpress.com)
+ - date_published: 2024-06-17T12:11:35.771168+00:00
+
+ ## Pawlicker's Pleroma Experiment Blog
+ - [https://pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com)
+ - date_published: 2023-11-23T05:04:00.178360+00:00
+
+ ## Pliu's Blog - Teaching and Learning Open Source Development
+ - [https://pliu.wordpress.com](https://pliu.wordpress.com)
+ - date_published: 2024-07-18T12:27:19.836948+00:00
+
+ ## Paul Jacobson's links
+ - [https://pljcbsn.wordpress.com](https://pljcbsn.wordpress.com)
+ - date_published: 2024-07-02T18:27:25+00:00
+
  ## Plucked from the Stacks
  - [http://pluckedfromthestacks.wordpress.com](http://pluckedfromthestacks.wordpress.com)
  - date_published: 2024-06-15T10:21:04+00:00
@@ -3764,258 +4016,4 @@
  ## WordPress.com
  - [https://vk3arh.wordpress.com](https://vk3arh.wordpress.com)
  - date_published: 2024-06-29T07:52:02.496719+00:00
-
- ## VK3ARR's SOTA Blog
- - [https://vk3arr.wordpress.com](https://vk3arr.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## vk3byd
- - [https://vk3byd.wordpress.com](https://vk3byd.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## vk3cat
- - [https://vk3cat.wordpress.com](https://vk3cat.wordpress.com)
- - date_published: 2024-06-29T07:52:12.890977+00:00
-
- ## VK3FQSO
- - [https://vk3fqso.wordpress.com](https://vk3fqso.wordpress.com)
- - date_published: 2024-06-29T07:52:18.672732+00:00
-
- ## VK3HN
- - [https://vk3hn.wordpress.com](https://vk3hn.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## vk3jbl
- - [https://vk3jbl.wordpress.com](https://vk3jbl.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## vk3pf
- - [https://vk3pf.wordpress.com](https://vk3pf.wordpress.com)
- - date_published: 2024-06-29T07:52:30.638330+00:00
-
- ## VK3YY
- - [https://vk3yy.wordpress.com](https://vk3yy.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## VK5HCF
- - [https://vk5hcf.wordpress.com](https://vk5hcf.wordpress.com)
- - date_published: 2024-06-29T07:47:57.538534+00:00
-
- ## VK5PAS
- - [https://vk5pas.wordpress.com](https://vk5pas.wordpress.com)
- - date_published: 2024-06-29T07:49:17+00:00
-
- ## Victoria Krakovna
- - [https://vkrakovna.wordpress.com](https://vkrakovna.wordpress.com)
- - date_published: 2024-06-21T03:24:12.474642+00:00
-
- ## the livingston review
- - [http://vlorbik.wordpress.com](http://vlorbik.wordpress.com)
- - date_published: 2024-06-30T08:22:33.225601+00:00
-
- ## v o c a g e e k s
- - [http://vocageeks.wordpress.com](http://vocageeks.wordpress.com)
- - date_published: 2024-07-08T09:42:17.515979+00:00
-
- ## vocalized/vocalised
- - [https://vocalised.wordpress.com](https://vocalised.wordpress.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Voltaire Foundation
- - [https://voltairefoundation.wordpress.com](https://voltairefoundation.wordpress.com)
- - date_published: 2024-06-17T18:37:02.375133+00:00
-
- ## Vuhavan's Blog
- - [https://vuhavan.wordpress.com](https://vuhavan.wordpress.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Wit Warrior
- - [https://vydave.wordpress.com](https://vydave.wordpress.com)
- - date_published: 2024-04-30T07:34:38.946308+00:00
-
- ## Turing Machine
- - [https://vzn1.wordpress.com](https://vzn1.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Vincent Zurczak's Blog
- - [https://vzurczak.wordpress.com](https://vzurczak.wordpress.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## W1PID's Outdoor Radio
- - [https://w1pid.wordpress.com](https://w1pid.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## W5pg's Blog
- - [https://w5pg.wordpress.com](https://w5pg.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## w6csn’s outdoor amateur radio
- - [https://w6csn.wordpress.com](https://w6csn.wordpress.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Walkaboutdoc's Blog
- - [http://walkaboutdoc.wordpress.com](http://walkaboutdoc.wordpress.com)
- - date_published: 2024-06-27T09:01:32.248044+00:00
-
- ## Walkingforcharlotte's Weblog
- - [http://walkingforcharlotte.wordpress.com](http://walkingforcharlotte.wordpress.com)
- - date_published: 2024-06-28T20:57:59.599287+00:00
-
- ## Walking the Coast of Great Britain
- - [https://walkingthecoastofgreatbritain.wordpress.com](https://walkingthecoastofgreatbritain.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Walknotes
- - [https://walknotescom.wordpress.com](https://walknotescom.wordpress.com)
- - date_published: 2024-07-17T05:26:57.235463+00:00
-
- ## Hannes van Eeden
- - [https://wanderingambivert.wordpress.com](https://wanderingambivert.wordpress.com)
- - date_published: 2024-07-09T14:07:52.180440+00:00
-
- ## Wanderstitch
- - [http://wanderstitch.wordpress.com](http://wanderstitch.wordpress.com)
- - date_published: 2024-07-10T03:35:37.803954+00:00
-
- ## Private Site
- - [https://warfantasy.wordpress.com](https://warfantasy.wordpress.com)
- - date_published: 2023-10-25T18:18:05.375450+00:00
-
- ## Wargaming Connection
- - [https://wargamingcommunity.wordpress.com](https://wargamingcommunity.wordpress.com)
- - date_published: 2024-05-09T05:25:51.393339+00:00
- - tags: ['wargames']
-
- ## At War With The Motorist
- - [https://waronthemotorist.wordpress.com](https://waronthemotorist.wordpress.com)
- - date_published: 2024-06-28T12:59:03.987942+00:00
-
- ## War on the Tabletop
- - [https://waronthetabletop.wordpress.com](https://waronthetabletop.wordpress.com)
- - date_published: 2024-06-18T23:31:27.176259+00:00
-
- ## Strona nie została znaleziona | Warszawy historia ukryta
- - [https://warszawyhistoriaukryta.files.wordpress.com](https://warszawyhistoriaukryta.files.wordpress.com)
- - date_published: 2024-07-19T21:56:15.407950+00:00
-
- ## Warszawy historia ukryta
- - [https://warszawyhistoriaukryta.wordpress.com](https://warszawyhistoriaukryta.wordpress.com)
- - date_published: 2024-07-19T21:56:07.867636+00:00
-
- ## War Views
- - [https://warviews.wordpress.com](https://warviews.wordpress.com)
- - date_published: 2024-06-29T03:56:17.053857+00:00
-
- ## Tamás Bunth
- - [https://wastack.wordpress.com](https://wastack.wordpress.com)
- - date_published: 2024-07-07T06:07:36.390907+00:00
-
- ## Watchdogs of Our Freedom
- - [http://watchdogsofourfreedom.wordpress.com](http://watchdogsofourfreedom.wordpress.com)
- - date_published: 2024-07-03T23:48:46.477223+00:00
-
- ## Watching the Deniers
- - [https://watchingthedeniers.wordpress.com](https://watchingthedeniers.wordpress.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Water for the Ages
- - [http://waterfortheages.wordpress.com](http://waterfortheages.wordpress.com)
- - date_published: 2024-07-11T15:53:07.045327+00:00
-
- ## Our Community
- - [https://waterlanternfestivalcom.wordpress.com](https://waterlanternfestivalcom.wordpress.com)
- - date_published: 2024-07-21T02:51:25.907595+00:00
-
- ## Watts Up With That?
- - [http://wattsupwiththat.wordpress.com](http://wattsupwiththat.wordpress.com)
- - date_published: 2024-06-25T18:26:48+00:00
-
- ## Too Many Books and Never Enough
- - [http://wayneandchristina.wordpress.com](http://wayneandchristina.wordpress.com)
- - date_published: 2024-05-29T17:57:30.012265+00:00
- - tags: ['personal']
-
- ## Eclipse Hints, Tips, and Random Musings
- - [https://waynebeaton.wordpress.com](https://waynebeaton.wordpress.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## waynemerry
- - [https://waynemerry.wordpress.com](https://waynemerry.wordpress.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## WB3GCK QRP Amateur Radio
- - [https://wb3gck.wordpress.com](https://wb3gck.wordpress.com)
- - date_published: 2024-06-29T07:48:35.880860+00:00
-
- ## Wb8icn's Blog
- - [https://wb8icn.wordpress.com](https://wb8icn.wordpress.com)
- - date_published: 2024-06-29T08:01:27.702947+00:00
-
- ## Warren's space
- - [https://wcoats.wordpress.com](https://wcoats.wordpress.com)
- - date_published: 2024-05-08T04:13:16.381858+00:00
-
- ## Yet Another Mathblog
- - [http://wdjoyner.wordpress.com](http://wdjoyner.wordpress.com)
- - date_published: 2024-06-30T08:38:09.650848+00:00
-
- ## Link in Bio
- - [https://wdotlink.wordpress.com](https://wdotlink.wordpress.com)
- - date_published: 2024-06-30T10:21:14+00:00
-
- ## Penelope's Weavings and Unpickings
- - [https://weavingsandunpickings.wordpress.com](https://weavingsandunpickings.wordpress.com)
- - date_published: 2024-06-24T10:17:31.833542+00:00
-
- ## Web Designers Sharing Point
- - [http://webpoint.wordpress.com](http://webpoint.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## RL WEB
- - [http://webrlorg.wordpress.com](http://webrlorg.wordpress.com)
- - date_published: 2024-06-18T22:09:24+00:00
-
- ## Webscienceprimer
- - [http://webscienceprimer.wordpress.com](http://webscienceprimer.wordpress.com)
- - date_published: 2024-07-20T19:42:18.006038+00:00
-
- ## The Wee Writing Lassie
- - [http://weewritinglassiehome.wordpress.com](http://weewritinglassiehome.wordpress.com)
- - date_published: 2024-06-26T07:33:11.658658+00:00
-
- ## Wehavekaosinthegarden
- - [http://wehavekaosinthegarden.wordpress.com](http://wehavekaosinthegarden.wordpress.com)
- - date_published: 2024-07-12T20:42:57.019901+00:00
-
- ## Dara Weinberg
- - [https://weinberg.wordpress.com](https://weinberg.wordpress.com)
- - date_published: 2024-07-08T13:49:47.948790+00:00
-
- ## Wellsy's World
- - [http://wellsy.wordpress.com](http://wellsy.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Werdna's Science Fiction
- - [http://werdnassciencefiction.wordpress.com](http://werdnassciencefiction.wordpress.com)
- - date_published: 2024-07-04T13:18:03.660692+00:00
-
- ## Werewolfandflump           UK Coast Path
- - [https://werewolfandflumpukcoastalpath.wordpress.com](https://werewolfandflumpukcoastalpath.wordpress.com)
- - date_published: 2024-06-30T01:44:46+00:00
-
- ## THE CONTRARIAN IMPULSE
- - [https://wesammikhail.wordpress.com](https://wesammikhail.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## A West End Whinger
- - [http://westendwhingers.wordpress.com](http://westendwhingers.wordpress.com)
- - date_published: 2024-07-02T05:46:55.060891+00:00
-
- ## West Hunter
- - [https://westhunt.wordpress.com](https://westhunt.wordpress.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## westi on wordpress
- - [https://westi.wordpress.com](https://westi.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
 

@@ -1,3 +1,119 @@
+ ## Homepage - Jazz da Gama
+ - [https://jazzdagama.com](https://jazzdagama.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## International Jazz Day | April 30, 2024
+ - [https://jazzday.com](https://jazzday.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+ - tags: ['music', 'jazz']
+
+ ## Forums - 
+		
+		New Orleans Jazz &amp; Heritage Festival
+ - [https://www.jazzfestforum.com](https://www.jazzfestforum.com)
+ - date_published: 2024-06-19T18:05:31.621490+00:00
+
+ ## Applicant Tracking System For Small to Medium Sized Businesses
+ - [https://info.jazzhr.com](https://info.jazzhr.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Applicant Tracking System For Small to Medium Sized Businesses
+ - [https://www.jazzhr.com](https://www.jazzhr.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Live Jazz Near Poznan - Jazz Near Me
+ - [https://www.jazznearyou.com](https://www.jazznearyou.com)
+ - date_published: 2024-07-03T15:49:49.545070+00:00
+
+ ## Improving Patients' Lives | Jazz Pharmaceuticals
+ - [https://www.jazzpharma.com](https://www.jazzpharma.com)
+ - date_published: 2024-06-29T21:28:16.084828+00:00
+
+ ## JAZZRADIO.com - enjoy great jazz music
+ - [http://www.jazzradio.com](http://www.jazzradio.com)
+ - date_published: 2024-07-20T05:50:13.881465+00:00
+
+ - [https://www.jazzsuite.com](https://www.jazzsuite.com)
+ - date_published: 2024-02-08T17:51:17.610524+00:00
+
+ ## Jazzwise
+ - [https://www.jazzwise.com](https://www.jazzwise.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Jazzz Media
+ - [http://www2.jazzzmedia.com](http://www2.jazzzmedia.com)
+ - date_published: 2021-02-24T17:40:15+00:00
+
+ ## William Casarin
+ - [http://jb55.com](http://jb55.com)
+ - date_published: 2021-11-06T00:00:00+00:00
+
+ ## Everyone Else is Crazy
+ - [http://blog.jbapple.com](http://blog.jbapple.com)
+ - date_published: 2024-02-21T00:07:54+00:00
+
+ ## Jesse's Website - Home Page
+ - [https://www.jbcse.com](https://www.jbcse.com)
+ - date_published: 2024-01-09T01:37:11.676633+00:00
+
+ ## JBC Soldering Stations, Irons and Rework equipment for electronics
+ - [https://www.jbctools.com](https://www.jbctools.com)
+ - date_published: 2024-06-17T01:58:05.058009+00:00
+
+ ## Jeremy Bernier
+ - [https://www.jbernier.com](https://www.jbernier.com)
+ - date_published: 2024-05-02T13:50:11.320783+00:00
+ - tags: ['personal']
+
+ ## The Journal of Blacks in Higher Education
+ - [https://jbhe.com](https://jbhe.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## GitHub - ArtifexSoftware/jbig2dec: This is a mirror: the canonical repo is: git.ghostscript.com/jbig2dec.git. This repo does not host releases, they are here: https://github.com/ArtifexSoftware/jbig2dec/tags
+ - [https://jbig2dec.com](https://jbig2dec.com)
+ - date_published: 2024-07-03T11:54:25.675714+00:00
+
+ ## J.B. Kaufman
+ - [http://www.jbkaufman.com](http://www.jbkaufman.com)
+ - date_published: 2024-07-02T10:27:35.260823+00:00
+
+ ## Boutique Officielle JBL – Enceintes, Casques, et plus !
+ - [https://fr.jbl.com](https://fr.jbl.com)
+ - date_published: 2024-07-09T19:41:19.069282+00:00
+
+ ## Oficjalny sklep JBL - głośniki Bluetooth, słuchawki i więcej!
+ - [https://www.jbl.com](https://www.jbl.com)
+ - date_published: 2024-06-20T09:11:07.955731+00:00
+
+ ## Jones & Bartlett Learning | Learning Resources and Tools
+ - [http://www.jblearning.com](http://www.jblearning.com)
+ - date_published: 2024-07-21T09:51:48.635029+00:00
+
+ ## JBL Professional
+ - [https://www.jblpro.com](https://www.jblpro.com)
+ - date_published: 2024-06-18T12:39:18.161507+00:00
+
+ ## Joe Bonamassa – Blues Titan
+ - [https://jbonamassa.com](https://jbonamassa.com)
+ - date_published: 2024-07-17T13:37:52.346935+00:00
+
+ ## Joseph Bonneau — index
+ - [https://jbonneau.com](https://jbonneau.com)
+ - date_published: 2024-04-05T05:27:34+00:00
+
+ ## Juraj's Blog
+ - [https://jborza.com](https://jborza.com)
+ - date_published: 2023-10-25T08:58:08.654807+00:00
+ - tags: ['personal']
+
+ ## Red Hat CodeReady Studio | Red Hat Developer
+ - [https://devstudio.jboss.com](https://devstudio.jboss.com)
+ - date_published: 2020-07-03T17:46:42+00:00
+
+ ## Hosted by one.com
+ - [http://jboye.com](http://jboye.com)
+ - date_published: 2023-05-09T06:46:29+00:00
+
  ## Jean-Baptiste Parré
  - [http://www.jbparre.com](http://www.jbparre.com)
  - date_published: 2024-07-13T16:27:06.382966+00:00
@@ -1549,10 +1665,6 @@
  ## Jesse F. Simon
  - [https://jessefsimon.com](https://jessefsimon.com)
  - date_published: 2024-07-26T04:58:04.239577+00:00
-
- ## Jesse F. Simon
- - [https://www.jessefsimon.com](https://www.jessefsimon.com)
- - date_published: 2023-12-13T11:22:18.478352+00:00
  - tags: ['personal']
 
  ## Jesse Hoogland
@@ -3988,116 +4100,4 @@
  ## Johnny Wander - Happy April Fools! :)
  - [https://johnnywander.com](https://johnnywander.com)
  - date_published: 2024-05-11T10:31:58.684610+00:00
-
- ## Johnny Webber 🔥 – some thoughts, some links
- - [https://johnnywebber.com](https://johnnywebber.com)
- - date_published: 2023-10-25T09:25:42.382699+00:00
- - tags: ['personal']
-
- ## John Otander
- - [https://johno.com](https://johno.com)
- - date_published: 2024-06-20T06:02:48.794731+00:00
-
- ## John Otander
- - [https://johnotander.com](https://johnotander.com)
- - date_published: 2024-05-02T15:01:47.494604+00:00
- - tags: ['personal']
-
- ## johnozed | He's a brawling, sprawling giant – on the make for fame and fortune and then some!
- - [http://johnozed.com](http://johnozed.com)
- - date_published: 2024-06-30T10:53:57.591907+00:00
-
- ## Introduction - John Parmentola
- - [https://johnparmentola.com](https://johnparmentola.com)
- - date_published: 2023-09-17T00:00:00+00:00
-
- ## JohnPaul Baric
- - [https://johnpaulbaric.com](https://johnpaulbaric.com)
- - date_published: 2023-12-31T21:20:13.421240+00:00
- - tags: ['personal']
-
- ## John Pistelli
- - [http://johnpistelli.com](http://johnpistelli.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## john provencher
- - [http://johnprovencher.com](http://johnprovencher.com)
- - date_published: 2024-07-13T15:30:57.288562+00:00
-
- ## John P. Weiss Artist and Writer
- - [https://johnpweiss.com](https://johnpweiss.com)
- - date_published: 2023-10-25T15:30:43.191667+00:00
-
- ## John Qian's blog
- - [https://blog.johnqian.com](https://blog.johnqian.com)
- - date_published: 2023-10-25T15:30:45.804332+00:00
-
- ## John Quiggin
- - [https://johnquiggin.com](https://johnquiggin.com)
- - date_published: 2024-07-08T09:17:15.544084+00:00
-
- ## John Rainsford: Homepage
- - [http://johnrainsford.com](http://johnrainsford.com)
- - date_published: 2024-05-07T18:50:21.709269+00:00
-
- ## John Rainsford
- - [http://v1.johnrainsford.com](http://v1.johnrainsford.com)
- - date_published: 2024-07-01T08:45:09.478485+00:00
-
- ## Meet John Rampton – Entrepreneur, Investor and Connector
- - [https://johnrampton.com](https://johnrampton.com)
- - date_published: 2024-05-10T03:55:50.763100+00:00
-
- ## John Redwood's Diary – For freedom and prosperity
- - [http://johnredwoodsdiary.com](http://johnredwoodsdiary.com)
- - date_published: 2024-06-18T11:13:03.584522+00:00
-
- ## John Reed Stark | Incident Response and Digital Compliance
- - [https://www.johnreedstark.com](https://www.johnreedstark.com)
- - date_published: 2023-10-25T15:30:48.365940+00:00
-
- ## John Refior's Website
- - [https://johnrefior.com](https://johnrefior.com)
- - date_published: 2024-05-09T08:06:32.769725+00:00
-
- ## John Resig - JavaScript Programming
- - [https://johnresig.com](https://johnresig.com)
- - date_published: 2024-05-06T00:00:00+00:00
- - tags: ['personal']
-
- ## John R. Leeman | Scientist by day, engineer by night, coder by birth…mad scientist at large
- - [https://johnrleeman.com](https://johnrleeman.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## John Robert Matz​
- - [http://johnrobertmatz.com](http://johnrobertmatz.com)
- - date_published: 2024-05-07T19:48:40+00:00
-
- ## Delusions of Adequacy
- - [https://johnsimonds.com](https://johnsimonds.com)
- - date_published: 2024-06-27T10:16:49.784643+00:00
-
- ## John Slipper - Web Developer
- - [https://www.johnslipper.com](https://www.johnslipper.com)
- - date_published: 2024-05-11T10:24:16.478172+00:00
-
- ## Awesome Web Dev Courses
- - [https://johnsmilga.com](https://johnsmilga.com)
- - date_published: 2024-05-04T05:25:43.581189+00:00
-
- ## John Smith by Roland Hughes
- - [https://johnsmith-book.com](https://johnsmith-book.com)
- - date_published: 2019-10-12T21:46:27+00:00
-
- ## John's Movies
- - [http://johnsmovies.com](http://johnsmovies.com)
- - date_published: 2020-03-30T15:20:53+00:00
-
- ## Johnson Lowe Gallery
- - [https://www.johnsonlowe.com](https://www.johnsonlowe.com)
- - date_published: 2024-06-24T04:49:26.846269+00:00
-
- ## johnson rare books & archives
- - [https://www.johnsonrarebooks.com](https://www.johnsonrarebooks.com)
- - date_published: 2024-07-11T19:54:30.015987+00:00
 

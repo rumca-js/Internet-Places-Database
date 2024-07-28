@@ -1,3 +1,63 @@
+ ## Mandala
+ - [http://mandala-biedrzyn.blogspot.com](http://mandala-biedrzyn.blogspot.com)
+ - date_published: 2024-06-26T22:15:34+00:00
+
+ ## Sacred Tarot
+ - [https://mandorlatarot.blogspot.com](https://mandorlatarot.blogspot.com)
+ - date_published: 2024-05-07T16:15:20.657216+00:00
+
+ ## Mandragora-rpg
+ - [http://mandragora-rpg.blogspot.com](http://mandragora-rpg.blogspot.com)
+ - date_published: 2024-03-14T06:35:31+00:00
+
+ ## Manhattan Unlocked Historical and Architectural Walking Tours
+ - [http://manhattanunlocked.blogspot.com](http://manhattanunlocked.blogspot.com)
+ - date_published: 2024-07-18T09:04:10+00:00
+
+ ## Manner of Man
+ - [https://mannerofman.blogspot.com](https://mannerofman.blogspot.com)
+ - date_published: 2024-02-20T10:18:44+00:00
+
+ ## Mannings on the Move
+ - [http://manningsonthemove.blogspot.com](http://manningsonthemove.blogspot.com)
+ - date_published: 2024-03-19T04:07:31+00:00
+
+ ## Manual Entry
+ - [http://manualentry.blogspot.com](http://manualentry.blogspot.com)
+ - date_published: 2024-07-04T05:46:43+00:00
+
+ ## Manuel Ferrer Perea
+ - [http://manuelferrerperea.blogspot.com](http://manuelferrerperea.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## Hagahot
+ - [http://manuscriptboy.blogspot.com](http://manuscriptboy.blogspot.com)
+ - date_published: 2024-06-18T13:30:36+00:00
+
+ ## maoaviation
+ - [http://maoaviation.blogspot.com](http://maoaviation.blogspot.com)
+ - date_published: 2024-02-20T23:13:42+00:00
+
+ ## Mapa del Sur
+ - [http://mapadelsur.blogspot.com](http://mapadelsur.blogspot.com)
+ - date_published: 2024-03-05T15:50:33+00:00
+
+ ## Map and Counters
+ - [http://mapandcounters.blogspot.com](http://mapandcounters.blogspot.com)
+ - date_published: 2024-07-04T06:08:53+00:00
+
+ ## Mariuz's Blog
+ - [https://mapopa.blogspot.com](https://mapopa.blogspot.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## The Map Scroll
+ - [http://mapscroll.blogspot.com](http://mapscroll.blogspot.com)
+ - date_published: 2024-06-19T09:17:17+00:00
+
+ ## Map Uganda
+ - [http://mapuganda.blogspot.com](http://mapuganda.blogspot.com)
+ - date_published: 2011-03-17T00:00:00+00:00
+
  ## Marathon Pundit
  - [https://marathonpundit.blogspot.com](https://marathonpundit.blogspot.com)
  - date_published: 2024-07-03T20:33:00+00:00
@@ -3961,64 +4021,4 @@
  ## POEMARGENS
  - [http://poemargens.blogspot.com](http://poemargens.blogspot.com)
  - date_published: 2024-07-11T22:34:42+00:00
-
- ## Poemas da Lusofonia
- - [http://poemasdalusofonia.blogspot.com](http://poemasdalusofonia.blogspot.com)
- - date_published: 2024-06-29T17:25:34+00:00
-
- ## Poemas Infantis
- - [http://poemas-infantis.blogspot.com](http://poemas-infantis.blogspot.com)
- - date_published: 2024-07-09T08:35:57+00:00
-
- ## Poesia Diversa
- - [http://poesiadiversidade.blogspot.com](http://poesiadiversidade.blogspot.com)
- - date_published: 2024-07-03T06:37:52+00:00
-
- ## Poesia dos Dias Úteis
- - [http://poesiadosdiasuteis-vcm.blogspot.com](http://poesiadosdiasuteis-vcm.blogspot.com)
- - date_published: 2022-03-21T00:00:00+00:00
-
- ## Poesia Incompleta
- - [http://poesia-incompleta.blogspot.com](http://poesia-incompleta.blogspot.com)
- - date_published: 2024-07-12T16:59:58+00:00
-
- ## A POESIA BRASILEIRA & SEUS AUTORES
- - [http://poesiamsicagentedanossaterra.blogspot.com](http://poesiamsicagentedanossaterra.blogspot.com)
- - date_published: 2024-07-11T18:25:19+00:00
-
- ## Poesia na alcova
- - [http://poesianaalcova.blogspot.com](http://poesianaalcova.blogspot.com)
- - date_published: 2024-07-11T22:55:02+00:00
-
- ## Poetas argentinos
- - [http://poetasaltuntun.blogspot.com](http://poetasaltuntun.blogspot.com)
- - date_published: 2024-07-11T18:03:52+00:00
-
- ## Poetas de Marte
- - [http://poetasdemarte.blogspot.com](http://poetasdemarte.blogspot.com)
- - date_published: 2024-07-06T08:12:53+00:00
-
- ## PAZ Y POESÍA NIDIA HERNÁNDEZ
- - [http://poetasportugalcaracas.blogspot.com](http://poetasportugalcaracas.blogspot.com)
- - date_published: 2024-03-13T02:31:54+00:00
-
- ## POETAS SIGLO XXI - ANTOLOGIA MUNDIAL + 20.000 POETAS: Editor: Fernando Sabido Sánchez #Poesía
- - [http://poetassigloveintiuno.blogspot.com](http://poetassigloveintiuno.blogspot.com)
- - date_published: 2024-07-11T22:34:50+00:00
-
- ## The Imaginary Journal of Poetic Economics
- - [https://poeticeconomics.blogspot.com](https://poeticeconomics.blogspot.com)
- - date_published: 2024-05-06T09:46:25+00:00
-
- ## Poets United
- - [http://poetryblogroll.blogspot.com](http://poetryblogroll.blogspot.com)
- - date_published: 2024-07-13T05:55:03+00:00
-
- ## Intersections -- Poetry with Mathematics
- - [https://poetrywithmathematics.blogspot.com](https://poetrywithmathematics.blogspot.com)
- - date_published: 2024-06-29T18:54:25+00:00
-
- ## Poisonous Monkeys
- - [https://poisonousmonkeysgames.blogspot.com](https://poisonousmonkeysgames.blogspot.com)
- - date_published: 2024-06-27T00:00:00+00:00
 

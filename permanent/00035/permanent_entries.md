@@ -1,3 +1,55 @@
+ ## Payara Server - Server Running
+ - [https://epub.bauermedia.com](https://epub.bauermedia.com)
+ - date_published: 2024-07-25T09:47:43.441089+00:00
+
+ ## Bauer Media Group
+ - [https://www.bauermedia.com](https://www.bauermedia.com)
+ - date_published: 2024-07-09T07:59:30.089469+00:00
+
+ ## Startseite - Bauer-Plus
+ - [https://www.bauer-plus.com](https://www.bauer-plus.com)
+ - date_published: 2024-07-25T09:47:46.191014+00:00
+
+ ## Bauertypes - Fabricantes, distribuidores y asesores tipográficos
+ - [https://bauertypes.com](https://bauertypes.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Greg Baugues
+ - [https://baugues.com](https://baugues.com)
+ - date_published: 2024-06-22T05:34:23.827910+00:00
+
+ ## Bauman Landscaping
+ - [http://www.baumanland.com](http://www.baumanland.com)
+ - date_published: 2024-07-04T17:20:26.925254+00:00
+
+ ## Baumer - Passion for Sensors | Baumer international
+ - [http://www.baumer.com](http://www.baumer.com)
+ - date_published: 2024-07-09T09:13:41.150300+00:00
+
+ ## BAUMHAUS
+ - [https://baumhausjapan.com](https://baumhausjapan.com)
+ - date_published: 2021-09-21T06:33:33+00:00
+
+ ## Bayern Munich News and Commentary
+ - [https://www.bavarianfootballworks.com](https://www.bavarianfootballworks.com)
+ - date_published: 2024-04-29T02:11:28.605106+00:00
+
+ ## Bavarian United Soccer Club
+ - [https://www.bavarianunited.com](https://www.bavarianunited.com)
+ - date_published: 2024-07-09T23:03:45.261919+00:00
+
+ ## bavatuesdays | a "b" blog
+ - [https://bavatuesdays.com](https://bavatuesdays.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## bavotasan.com
+ - [http://bavotasan.com](http://bavotasan.com)
+ - date_published: 2024-06-29T23:43:14.640134+00:00
+
+ ## Demos – A preview of Themes by bavotasan.com
+ - [http://demos.bavotasan.com](http://demos.bavotasan.com)
+ - date_published: 2024-06-29T23:43:02.156504+00:00
+
  ## Themes by bavotasan.com
  - [https://themes.bavotasan.com](https://themes.bavotasan.com)
  - date_published: 2024-05-07T14:41:46.030157+00:00
@@ -1719,6 +1771,10 @@
  ## BeginnersBook
  - [http://beginnersbook.com](http://beginnersbook.com)
  - date_published: 2024-07-17T14:42:32+00:00
+
+ ## LIL NAS X - J CHRIST
+ - [https://beginningisnear.com](https://beginningisnear.com)
+ - date_published: 2024-07-27T17:28:45.128299+00:00
 
  ## Countries Beginning with I – Deirdré Straughan on Italy, India, the Internet, the world, and now Australia
  - [https://beginningwithi.com](https://beginningwithi.com)
@@ -3978,60 +4034,4 @@
  ## BestForAndroid - Your Source For Everything Android
  - [https://bestforandroid.com](https://bestforandroid.com)
  - date_published: 2024-05-09T07:58:30.058645+00:00
-
- ## BestForAndroid APK Downloads
- - [https://download.bestforandroid.com](https://download.bestforandroid.com)
- - date_published: 2024-07-10T07:40:11.948995+00:00
-
- ## Best Forex Brokers UK - The most Reliable Companies 2024
- - [https://www.bestforexbrokersuk.com](https://www.bestforexbrokersuk.com)
- - date_published: 2024-06-17T19:00:54.108331+00:00
-
- ## Best for Puzzles - Puzzles, Fun and Games
- - [http://bestforpuzzles.com](http://bestforpuzzles.com)
- - date_published: 2019-11-19T16:06:52+00:00
-
- ## Sign Up Page
- - [https://coupon.bestfreecdn.com](https://coupon.bestfreecdn.com)
- - date_published: 2024-06-29T21:40:55.850229+00:00
-
- ## أفضل الألعاب
- - [https://www.bestgamesalltime.com](https://www.bestgamesalltime.com)
- - date_published: 2024-06-15T08:16:43.178412+00:00
-
- ## Home - Best HD Camera Helmet
- - [https://besthdhelmetcamera.com](https://besthdhelmetcamera.com)
- - date_published: 2020-09-17T10:26:38+00:00
-
- ## Bestia
- - [https://bestiala.com](https://bestiala.com)
- - date_published: 2024-06-29T11:00:16.484876+00:00
-
- ## Besticoder | Most Trusted Web/Mobile Development Agency
- - [https://sendbox.besticoder.com](https://sendbox.besticoder.com)
- - date_published: 2024-07-01T02:35:20+00:00
-
- ## Besticoder | Most Trusted Web/Mobile Development Agency
- - [https://besticoder.com](https://besticoder.com)
- - date_published: 2024-05-07T19:00:53.222366+00:00
-
- ## Official Marketing Site | Best of Coastal Mississippi
- - [https://www.bestinbiloxi.com](https://www.bestinbiloxi.com)
- - date_published: 2024-07-04T04:17:19.651965+00:00
-
- ## The New Best in Media / 2019
- - [http://www.bestinmedia.com](http://www.bestinmedia.com)
- - date_published: 2024-06-21T15:20:54+00:00
-
- ## Best in the PNW | Best in the PNW
- - [https://www.bestinthepnw.com](https://www.bestinthepnw.com)
- - date_published: 2024-04-29T02:57:56.666481+00:00
-
- ## Обучающий курс по разработке iOS+Swift приложений.
- - [https://bestkora.com](https://bestkora.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## หาติวเตอร์ หาครูสอนพิเศษ เรียนพิเศษตัวต่อตัว - BestKru
- - [https://bestkru.com](https://bestkru.com)
- - date_published: 2024-05-08T09:00:47.387067+00:00
 

@@ -1,3 +1,284 @@
+ ## U.S. Department of the Interior | Bureau of Indian Education
+ - [https://www.bie.edu](https://www.bie.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## PUBLIC COMPUTING LABS | Information Technology Services | Binghamton University
+ - [http://pods.binghamton.edu](http://pods.binghamton.edu)
+ - date_published: 2024-07-09T09:25:52.494786+00:00
+
+ ## Computer Science | Binghamton University
+ - [https://www.cs.binghamton.edu](https://www.cs.binghamton.edu)
+ - date_published: 2024-07-19T19:33:41.892729+00:00
+
+ ## Thomas J. Watson College of Engineering and Applied Science | Binghamton University
+ - [http://www.ws.binghamton.edu](http://www.ws.binghamton.edu)
+ - date_published: 2023-10-25T18:48:19.170626+00:00
+
+ ## Unbound Bible Project - Biola University
+ - [http://unbound.biola.edu](http://unbound.biola.edu)
+ - date_published: 2024-07-02T09:49:41.517042+00:00
+
+ ## Bloomsburg Foundation | Bloomsburg University Foundation
+ - [https://giving.bloomu.edu](https://giving.bloomu.edu)
+ - date_published: 2024-06-04T13:03:01+00:00
+
+ ## Boise State University
+ - [https://www.boisestate.edu](https://www.boisestate.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Bowdoin Library
+ - [http://library.bowdoin.edu](http://library.bowdoin.edu)
+ - date_published: 2023-10-27T00:00:00+00:00
+
+ ## Home | Bowie State
+ - [https://www.bowiestate.edu](https://www.bowiestate.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Brandeis University
+ - [https://www.brandeis.edu](https://www.brandeis.edu)
+ - date_published: 2024-06-22T06:18:32.633489+00:00
+
+ ## MaxGuides: Maxwell Library Homepage: Home
+ - [https://library.bridgew.edu](https://library.bridgew.edu)
+ - date_published: 2024-06-30T01:30:19.568744+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.libserv-prd.bridgew.edu](https://login.libserv-prd.bridgew.edu)
+ - date_published: 2024-06-30T01:27:42.798489+00:00
+
+ ## Bridgewater State University - Personal Home Pages
+ - [http://webhost.bridgew.edu](http://webhost.bridgew.edu)
+ - date_published: 2023-08-16T16:14:50+00:00
+
+ ## Brookings - Quality. Independence. Impact.
+ - [https://www.brookings.edu](https://www.brookings.edu)
+ - date_published: 2023-11-05T11:08:07.121051+00:00
+
+ ## Brooklyn Law School - Brooklyn Law School
+ - [https://www.brooklaw.edu](https://www.brooklaw.edu)
+ - date_published: 2024-06-22T09:37:19.750730+00:00
+
+ ## BC Knowledge for Employees – Find answers to your technical, academic and administrative questions.
+ - [https://employees.brooklyn.edu](https://employees.brooklyn.edu)
+ - date_published: 2024-07-04T16:57:41.933968+00:00
+
+ ## BC Knowledge for Students – Search for answers to your questions
+ - [https://students.brooklyn.edu](https://students.brooklyn.edu)
+ - date_published: 2024-07-03T21:55:14+00:00
+
+ ## Home - Brooklyn College
+ - [https://www.brooklyn.edu](https://www.brooklyn.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Undergraduate Admission | Brown University
+ - [https://admission.brown.edu](https://admission.brown.edu)
+ - date_published: 2024-05-09T05:07:33.655388+00:00
+
+ ## Admissions | Medical School | Brown University
+ - [https://admission.med.brown.edu](https://admission.med.brown.edu)
+ - date_published: 2024-05-09T05:07:44.577613+00:00
+
+ ## Brunonia
+ - [https://advancement.brown.edu](https://advancement.brown.edu)
+ - date_published: 2017-02-22T18:40:53+00:00
+
+ ## Alumni & Friends | Brown University
+ - [https://alumni-friends.brown.edu](https://alumni-friends.brown.edu)
+ - date_published: 2024-05-09T05:07:37.480610+00:00
+
+ ## Cube
+ - [https://app.icerm.brown.edu](https://app.icerm.brown.edu)
+ - date_published: 2024-07-20T22:29:27.304210+00:00
+
+ ## Applied Mathematics
+ - [https://appliedmath.brown.edu](https://appliedmath.brown.edu)
+ - date_published: 2024-06-30T07:10:33.076690+00:00
+
+ ## Undergraduate Admission | Brown University
+ - [https://apply.college.brown.edu](https://apply.college.brown.edu)
+ - date_published: 2024-07-08T20:54:02+00:00
+
+ ## Admissions
+ - [https://apply.professional.brown.edu](https://apply.professional.brown.edu)
+ - date_published: 2024-07-09T12:43:31+00:00
+
+ ## Brown CS: Awards
+ - [https://awards.cs.brown.edu](https://awards.cs.brown.edu)
+ - date_published: 2024-05-19T02:48:32.091909+00:00
+
+ ## Home
+ - [https://bbis.advancement.brown.edu](https://bbis.advancement.brown.edu)
+ - date_published: 2024-04-30T03:28:45.596355+00:00
+
+ ## Biology | Brown University
+ - [https://biology.brown.edu](https://biology.brown.edu)
+ - date_published: 2024-07-09T12:16:13+00:00
+
+ ## Division of Biology and Medicine | Brown University
+ - [https://biomedical.brown.edu](https://biomedical.brown.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Biostatistics | School of Public Health | Brown University
+ - [https://biostatistics.sph.brown.edu](https://biostatistics.sph.brown.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Brown CS: Brown CS Blog
+ - [https://blog.cs.brown.edu](https://blog.cs.brown.edu)
+ - date_published: 2024-05-06T21:47:37.403401+00:00
+
+ ## Brown University
+ - [https://brown.edu](https://brown.edu)
+ - date_published: 2024-04-30T03:28:56.747762+00:00
+
+ ## Alumni & Friends | Brown University
+ - [https://brunonia.brown.edu](https://brunonia.brown.edu)
+ - date_published: 2024-07-09T12:32:33+00:00
+
+ ## SP-Minimal
+ - [https://caps.cs.brown.edu](https://caps.cs.brown.edu)
+ - date_published: 2008-10-10T17:34:23+00:00
+
+ ## Computational Engineering | Brown University
+ - [https://computational.engineering.brown.edu](https://computational.engineering.brown.edu)
+ - date_published: 2024-07-09T12:54:16+00:00
+
+ ## Brown University Department of Computer Science
+ - [https://cs.brown.edu](https://cs.brown.edu)
+ - date_published: 2024-01-09T02:58:24.829394+00:00
+ - tags: ['university']
+
+ ## Design Engineering | Brown University
+ - [https://design.engineering.brown.edu](https://design.engineering.brown.edu)
+ - date_published: 2024-07-08T13:16:49+00:00
+
+ ## Directory | Brown University
+ - [https://directory.brown.edu](https://directory.brown.edu)
+ - date_published: 2024-04-30T03:28:51.807238+00:00
+
+ ## Office of Belonging, Equity, Diversity & Inclusion | Brown University
+ - [https://diversity.med.brown.edu](https://diversity.med.brown.edu)
+ - date_published: 2024-07-09T12:54:35.562302+00:00
+
+ ## ICERM Documentation
+ - [https://docs.icerm.brown.edu](https://docs.icerm.brown.edu)
+ - date_published: 2024-07-20T22:29:30.118822+00:00
+
+ ## Public Safety | Brown University
+ - [https://dps.brown.edu](https://dps.brown.edu)
+ - date_published: 2024-04-30T03:28:38.383047+00:00
+
+ ## IE Brown Executive MBA
+ - [https://emba.brown.edu](https://emba.brown.edu)
+ - date_published: 2024-07-09T12:54:09.619878+00:00
+
+ ## Engineering | Brown University
+ - [https://engineering.brown.edu](https://engineering.brown.edu)
+ - date_published: 2024-05-09T05:07:42.804191+00:00
+
+ ## Epidemiology | School of Public Health | Brown University
+ - [https://epidemiology.sph.brown.edu](https://epidemiology.sph.brown.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## https://esl.cs.brown.edu
+ - [https://esl.cs.brown.edu](https://esl.cs.brown.edu)
+ - date_published: 2022-08-13T19:49:36+00:00
+
+ ## Events | Brown University
+ - [https://events.brown.edu](https://events.brown.edu)
+ - date_published: 2024-04-30T03:28:53.525598+00:00
+
+ ## Financial Aid | Medical School | Brown University
+ - [https://finaid.med.brown.edu](https://finaid.med.brown.edu)
+ - date_published: 2024-07-09T12:54:29.033196+00:00
+
+ ## Giving
+ - [https://giving.brown.edu](https://giving.brown.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Graduate Programs | Brown University
+ - [https://graduateprograms.brown.edu](https://graduateprograms.brown.edu)
+ - date_published: 2024-05-09T05:07:34.895220+00:00
+
+ ## Graduate School | Brown University
+ - [https://graduateschool.brown.edu](https://graduateschool.brown.edu)
+ - date_published: 2024-05-09T05:07:51.086171+00:00
+
+ ## Brown Visual Computing
+ - [http://graphics.cs.brown.edu](http://graphics.cs.brown.edu)
+ - date_published: 2024-06-05T23:59:21+00:00
+
+ ## Healthy Brown | Brown University
+ - [https://healthy.brown.edu](https://healthy.brown.edu)
+ - date_published: 2024-05-09T05:07:52.565203+00:00
+
+ ## Watson Institute for International and Public Affairs
+ - [https://home.watson.brown.edu](https://home.watson.brown.edu)
+ - date_published: 2024-04-30T03:28:43.567311+00:00
+
+ ## Health Services, Policy & Practice | School of Public Health | Brown University
+ - [https://hspp.sph.brown.edu](https://hspp.sph.brown.edu)
+ - date_published: 2024-07-09T12:55:19+00:00
+
+ ## ICERM - Home
+ - [https://icerm.brown.edu](https://icerm.brown.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## OIT | Brown University
+ - [https://it.brown.edu](https://it.brown.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## OIT Service Center
+ - [https://ithelp.brown.edu](https://ithelp.brown.edu)
+ - date_published: 2024-07-22T07:25:36.263859+00:00
+
+ ## Brown University Library
+ - [https://library.brown.edu](https://library.brown.edu)
+ - date_published: 2024-07-09T12:54:49.052933+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://login.revproxy.brown.edu](https://login.revproxy.brown.edu)
+ - date_published: 2024-06-30T01:30:44.664837+00:00
+
+ ## The Warren Alpert Medical School of Brown University
+ - [https://med.brown.edu](https://med.brown.edu)
+ - date_published: 2024-07-09T12:39:42+00:00
+
+ ## The Warren Alpert Medical School of Brown University
+ - [https://medical.brown.edu](https://medical.brown.edu)
+ - date_published: 2024-07-09T12:39:42+00:00
+
+ ## Master of Public Health | School of Public Health | Brown University
+ - [https://mph.sph.brown.edu](https://mph.sph.brown.edu)
+ - date_published: 2024-07-09T12:55:12+00:00
+
+ ## MyAccount
+ - [https://myaccount.brown.edu](https://myaccount.brown.edu)
+ - date_published: 2024-07-22T07:25:34.356386+00:00
+
+ ## Home - myBrown
+ - [https://my.brown.edu](https://my.brown.edu)
+ - date_published: 2024-07-09T12:54:04.070829+00:00
+
+ ## Online Master of Public Health | School of Public Health | Brown University
+ - [https://onlinemph.sph.brown.edu](https://onlinemph.sph.brown.edu)
+ - date_published: 2024-07-09T12:31:19+00:00
+
+ ## Pandemic Center | School of Public Health | Brown University
+ - [https://pandemics.sph.brown.edu](https://pandemics.sph.brown.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Programming and Programming Languages
+ - [https://papl.cs.brown.edu](https://papl.cs.brown.edu)
+ - date_published: 2023-06-30T02:14:37+00:00
+
+ ## Prime | Brown University
+ - [https://prime.brown.edu](https://prime.brown.edu)
+ - date_published: 2024-07-09T12:54:18+00:00
+
+ ## School of Professional Studies | Brown University
+ - [https://professional.brown.edu](https://professional.brown.edu)
+ - date_published: 2024-05-09T05:07:39.351367+00:00
+
  ## SRC@Brown
  - [https://responsible.cs.brown.edu](https://responsible.cs.brown.edu)
  - date_published: 2023-11-14T16:35:37+00:00
@@ -3735,287 +4016,4 @@ Mellon University
  ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
  - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
  - date_published: 2022-07-01T02:01:20+00:00
-
- ## Institute for Social and Economic Research and Policy (ISERP)
- - [http://iserp.columbia.edu](http://iserp.columbia.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Columbia Journalism School
- - [http://journalism.columbia.edu](http://journalism.columbia.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Columbia Library Journals
- - [https://journals.library.columbia.edu](https://journals.library.columbia.edu)
- - date_published: 2024-06-29T06:05:37.864133+00:00
-
- ## Columbia Giving
- - [https://justsocieties.givenow.columbia.edu](https://justsocieties.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:45.595454+00:00
-
- ## The Kermit Project - Columbia University:
- Terminal Emulation, File Transfer, Scripting
- - [https://kermit.columbia.edu](https://kermit.columbia.edu)
- - date_published: 2024-05-08T09:12:36.452054+00:00
-
- ## Law, Rights, and Religion Project
- - [https://lawrightsreligion.law.columbia.edu](https://lawrightsreligion.law.columbia.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Libraries Home | Columbia University Libraries
- - [https://library.columbia.edu](https://library.columbia.edu)
- - date_published: 2024-04-30T03:55:42.681297+00:00
-
- ## Welcome to Augustus C. Long Health Sciences Library | Augustus C. Long Health Sciences Library
- - [https://library.cumc.columbia.edu](https://library.cumc.columbia.edu)
- - date_published: 2024-07-21T23:31:03+00:00
-
- ## Columbia Giving
- - [https://library.givenow.columbia.edu](https://library.givenow.columbia.edu)
- - date_published: 2024-07-22T05:45:12.080504+00:00
-
- ## Local News Lab - Brown Institute - Columbia University
- - [https://lnl.brown.columbia.edu](https://lnl.brown.columbia.edu)
- - date_published: 2023-10-24T00:00:00+00:00
-
- ## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date_published: 2023-10-25T18:49:57.691308+00:00
-
- ## Department of Mathematics at Columbia University - Welcome
- - [https://mail.math.columbia.edu](https://mail.math.columbia.edu)
- - date_published: 2024-06-30T09:08:04.555064+00:00
-
- ## Department of Mathematics at Columbia University - Welcome
- - [https://math.columbia.edu](https://math.columbia.edu)
- - date_published: 2024-05-07T15:56:49.200989+00:00
-
- ## Columbia University Authentication
- - [https://mice.cs.columbia.edu](https://mice.cs.columbia.edu)
- - date_published: 2024-04-30T03:57:06.698061+00:00
-
- ## Columbia Neighbors
- - [https://neighbors.columbia.edu](https://neighbors.columbia.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## State of the Planet - News from the Columbia Climate School
- - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
- - date_published: 2023-12-20T22:47:58.538909+00:00
-
- ## Columbia News
- - [https://news.columbia.edu](https://news.columbia.edu)
- - date_published: 2023-12-05T18:08:58.749533+00:00
-
- ## Home
- - [https://opportunities.columbia.edu](https://opportunities.columbia.edu)
- - date_published: 2024-07-22T05:55:26.522395+00:00
-
- ## Columbia University | Our Values
- - [https://ourvalues.columbia.edu](https://ourvalues.columbia.edu)
- - date_published: 2024-04-30T03:55:34.036752+00:00
-
- ## PaperBot: Learning to Design Real-World Tools Using Paper
- - [https://paperbot.cs.columbia.edu](https://paperbot.cs.columbia.edu)
- - date_published: 2024-06-25T17:16:50+00:00
-
- ## About PEERING |
-    
-    PEERING - The BGP Testbed
- - [https://peering.ee.columbia.edu](https://peering.ee.columbia.edu)
- - date_published: 2024-06-17T03:31:48.710343+00:00
-
- ## Physical Education and Recreation
- - [https://perec.columbia.edu](https://perec.columbia.edu)
- - date_published: 2024-06-28T19:31:59+00:00
-
- ## Columbia Plus
- - [https://plus.columbia.edu](https://plus.columbia.edu)
- - date_published: 2024-04-30T03:55:32.741149+00:00
-
- ## University Policies
- - [http://policylibrary.columbia.edu](http://policylibrary.columbia.edu)
- - date_published: 2024-07-12T21:11:59+00:00
-
- ## Political Science
- - [http://polisci.columbia.edu](http://polisci.columbia.edu)
- - date_published: 2024-06-11T14:55:51+00:00
-
- ## Power: Infrastructure in America
- - [https://power.buellcenter.columbia.edu](https://power.buellcenter.columbia.edu)
- - date_published: 2023-09-30T07:51:34+00:00
-
- ## Columbia Giving
- - [https://precisionmedicine.givenow.columbia.edu](https://precisionmedicine.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:48.692586+00:00
-
- ## Columbia University Pre-College Programs
- - [https://precollege.sps.columbia.edu](https://precollege.sps.columbia.edu)
- - date_published: 2024-04-30T03:49:20.102489+00:00
-
- ## HICCC ANNUAL REPORT 2023
- - [https://pubs.cancer.columbia.edu](https://pubs.cancer.columbia.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Columbia College
- - [http://rabi.columbia.edu](http://rabi.columbia.edu)
- - date_published: 2024-07-08T13:43:52+00:00
-
- ## The Real Estate Record: Home
- - [https://rerecord.library.columbia.edu](https://rerecord.library.columbia.edu)
- - date_published: 2024-05-07T15:03:49.432581+00:00
-
- ## RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects
- - [https://roboninja.cs.columbia.edu](https://roboninja.cs.columbia.edu)
- - date_published: 2023-05-01T06:28:22+00:00
-
- ## Columbia University Search
- - [http://search.columbia.edu](http://search.columbia.edu)
- - date_published: 2024-07-22T05:40:52.946583+00:00
-
- ## Columbia University Search
- - [https://search.sites.columbia.edu](https://search.sites.columbia.edu)
- - date_published: 2024-04-30T03:57:33.332050+00:00
-
- ## Socioeconomic Data and Applications Center | SEDAC
- - [https://sedac.ciesin.columbia.edu](https://sedac.ciesin.columbia.edu)
- - date_published: 2024-05-09T07:19:35.951462+00:00
-
- ## Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models
- - [https://semantic-abstraction.cs.columbia.edu](https://semantic-abstraction.cs.columbia.edu)
- - date_published: 2023-02-13T20:32:40+00:00
-
- ## Student Financial Services
- - [http://sfs.columbia.edu](http://sfs.columbia.edu)
- - date_published: 2024-07-02T17:35:03+00:00
-
- ## Columbia SIPA | School of International and Public Affairs
- - [https://sipa.columbia.edu](https://sipa.columbia.edu)
- - date_published: 2024-07-06T23:47:53.952042+00:00
-
- ## Columbia Sites
- - [https://sites.columbia.edu](https://sites.columbia.edu)
- - date_published: 2024-04-30T03:56:25.550837+00:00
-
- ## Department of Sociology
- - [https://sociology.columbia.edu](https://sociology.columbia.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Columbia University School of Professional Studies
- - [https://sps.columbia.edu](https://sps.columbia.edu)
- - date_published: 2024-02-24T18:08:00.655256+00:00
-
- ## Student Service Center
- - [https://ssc.columbia.edu](https://ssc.columbia.edu)
- - date_published: 2024-07-07T23:45:41+00:00
-
- ## Columbia Student Services Online - Log in
- - [https://ssol.columbia.edu](https://ssol.columbia.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Index—The Stacks project
- - [https://stacks.math.columbia.edu](https://stacks.math.columbia.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Department of Statistics
- - [https://stat.columbia.edu](https://stat.columbia.edu)
- - date_published: 2024-04-30T03:50:01.262083+00:00
-
- ## Special Year on Statistical Machine Learning - Columbia University in the City of New York
- - [http://statisticalml.stat.columbia.edu](http://statisticalml.stat.columbia.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Statistical Modeling, Causal Inference, and Social Science
- - [https://statmodeling.stat.columbia.edu](https://statmodeling.stat.columbia.edu)
- - date_published: 2023-10-25T18:50:02.076404+00:00
-
- ## Strategic Directions | Columbia University Libraries
- - [https://strategicdirections.library.columbia.edu](https://strategicdirections.library.columbia.edu)
- - date_published: 2024-07-22T05:45:16.579789+00:00
-
- ## CSSI | Center for Student Success and Intervention
- - [https://studentconduct.columbia.edu](https://studentconduct.columbia.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Columbia University Summer Session
- - [https://summer.sps.columbia.edu](https://summer.sps.columbia.edu)
- - date_published: 2024-04-30T03:49:21.172646+00:00
-
- ## Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection
- - [https://thermal.cs.columbia.edu](https://thermal.cs.columbia.edu)
- - date_published: 2020-03-27T00:00:00+00:00
-
- ## CUL Toolkit
- - [https://toolkit.library.columbia.edu](https://toolkit.library.columbia.edu)
- - date_published: 2023-03-02T17:04:33+00:00
-
- ## Columbia University School of Professional Studies Virtual Tour
- - [https://tour.sps.columbia.edu](https://tour.sps.columbia.edu)
- - date_published: 2023-03-25T15:43:02+00:00
-
- ## Columbia Transportation
- - [https://transportation.columbia.edu](https://transportation.columbia.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## WebHome < Main < TWiki
- - [https://twiki.nevis.columbia.edu](https://twiki.nevis.columbia.edu)
- - date_published: 2024-07-10T02:19:16.900161+00:00
-
- ## UMPNet: Universal Manipulation Policy Network for Articulated Objects
- - [https://ump-net.cs.columbia.edu](https://ump-net.cs.columbia.edu)
- - date_published: 2022-07-01T13:49:30+00:00
-
- ## Home | Columbia Undergraduate Admissions
- - [https://undergrad.admissions.columbia.edu](https://undergrad.admissions.columbia.edu)
- - date_published: 2024-04-30T03:57:04.900245+00:00
-
- ## University Life
- - [https://universitylife.columbia.edu](https://universitylife.columbia.edu)
- - date_published: 2024-07-08T14:55:07+00:00
-
- ## Undergraduate Research and Fellowships | Undergraduate Research and Fellowships
- - [https://urf.columbia.edu](https://urf.columbia.edu)
- - date_published: 2024-05-08T11:29:09.415255+00:00
-
- ## ViperGPT: Visual Inference via Python Execution for Reasoning
- - [https://viper.cs.columbia.edu](https://viper.cs.columbia.edu)
- - date_published: 2023-10-25T18:50:05.789837+00:00
-
- ## Visualizing Virality
- - [https://virality.brown.columbia.edu](https://virality.brown.columbia.edu)
- - date_published: 2024-07-01T20:07:09.922953+00:00
-
- ## Visitors Center
- - [https://visit.columbia.edu](https://visit.columbia.edu)
- - date_published: 2024-04-30T03:56:27.647910+00:00
-
- ## Columbia University in the City of New York
- - [https://www1.columbia.edu](https://www1.columbia.edu)
- - date_published: 2024-06-30T03:10:22+00:00
-
- ## Department of Computer Science, Columbia University
- - [http://www1.cs.columbia.edu](http://www1.cs.columbia.edu)
- - date_published: 2024-07-03T04:52:57.587346+00:00
-
- ## Home - Columbia GSAPP
- - [https://www.arch.columbia.edu](https://www.arch.columbia.edu)
- - date_published: 2024-05-08T11:43:48.142108+00:00
-
- ## Herbert Irving Comprehensive Cancer Center (HICCC) - New York
- - [https://www.cancer.columbia.edu](https://www.cancer.columbia.edu)
- - date_published: 2023-10-25T18:50:13.811298+00:00
-
- ## CAP
- - [http://www.cap.columbia.edu](http://www.cap.columbia.edu)
- - date_published: 2024-07-12T02:03:59+00:00
-
- ## Columbia College and Columbia Engineering
- - [https://www.cc-seas.columbia.edu](https://www.cc-seas.columbia.edu)
- - date_published: 2024-07-08T12:46:50+00:00
-
- ## CIESIN Columbia University
- - [http://www.ciesin.columbia.edu](http://www.ciesin.columbia.edu)
- - date_published: 2024-07-10T03:10:34.604667+00:00
-
- ## Columbia Climate School
- - [https://climate.columbia.edu](https://climate.columbia.edu)
- - date_published: 2024-04-30T03:49:11.585183+00:00
 

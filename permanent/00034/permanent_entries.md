@@ -1,3 +1,55 @@
+ ## Hubert Kostkiewicz
+ - [https://hubertkostkiewicz.bandcamp.com](https://hubertkostkiewicz.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## The One Above, by hubris.
+ - [http://hubrisband.bandcamp.com](http://hubrisband.bandcamp.com)
+ - date_published: 2024-07-10T06:53:13.329570+00:00
+
+ ## Hurly Burly for the Holidays Volume 26:  Hurly Burly Saves Christmas Again, by Hurly Burly and the Volcanic Fallout
+ - [https://hurlyburlyandthevolcanicfallout.bandcamp.com](https://hurlyburlyandthevolcanicfallout.bandcamp.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Hydroplane
+ - [https://hydroplaneband.bandcamp.com](https://hydroplaneband.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Bonjour Mon Amour, by Camille Bertault
+ - [https://iamcamillebertault.bandcamp.com](https://iamcamillebertault.bandcamp.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## PYLOT
+ - [https://iampylot.bandcamp.com](https://iampylot.bandcamp.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## I:Cube
+ - [https://icube.bandcamp.com](https://icube.bandcamp.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## I LIKE TRAINS
+ - [https://iliketrains.bandcamp.com](https://iliketrains.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Nenúfar, by IMMATERIÆ
+ - [https://immateriae.bandcamp.com](https://immateriae.bandcamp.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Merch from poppy
+ - [https://impoppy.bandcamp.com](https://impoppy.bandcamp.com)
+ - date_published: 2024-06-19T01:35:40.453221+00:00
+
+ ## Artists | Indigo Soul
+ - [https://indigosouluk.bandcamp.com](https://indigosouluk.bandcamp.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Infinity Shred
+ - [https://infinityshred.bandcamp.com](https://infinityshred.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## In Love With A Ghost
+ - [https://inlovewithaghost.bandcamp.com](https://inlovewithaghost.bandcamp.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## Kiki Mori, by Hinode Tapes
  - [https://instantclassic.bandcamp.com](https://instantclassic.bandcamp.com)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -3966,56 +4018,4 @@ rain or shine
  ## imgix - Image Processing On-Demand, Served By CDN
  - [https://images.bauerhosting.com](https://images.bauerhosting.com)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## Payara Server - Server Running
- - [https://epub.bauermedia.com](https://epub.bauermedia.com)
- - date_published: 2024-07-25T09:47:43.441089+00:00
-
- ## Bauer Media Group
- - [https://www.bauermedia.com](https://www.bauermedia.com)
- - date_published: 2024-07-09T07:59:30.089469+00:00
-
- ## Startseite - Bauer-Plus
- - [https://www.bauer-plus.com](https://www.bauer-plus.com)
- - date_published: 2024-07-25T09:47:46.191014+00:00
-
- ## Bauertypes - Fabricantes, distribuidores y asesores tipográficos
- - [https://bauertypes.com](https://bauertypes.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Greg Baugues
- - [https://baugues.com](https://baugues.com)
- - date_published: 2024-06-22T05:34:23.827910+00:00
-
- ## Bauman Landscaping
- - [http://www.baumanland.com](http://www.baumanland.com)
- - date_published: 2024-07-04T17:20:26.925254+00:00
-
- ## Baumer - Passion for Sensors | Baumer international
- - [http://www.baumer.com](http://www.baumer.com)
- - date_published: 2024-07-09T09:13:41.150300+00:00
-
- ## BAUMHAUS
- - [https://baumhausjapan.com](https://baumhausjapan.com)
- - date_published: 2021-09-21T06:33:33+00:00
-
- ## Bayern Munich News and Commentary
- - [https://www.bavarianfootballworks.com](https://www.bavarianfootballworks.com)
- - date_published: 2024-04-29T02:11:28.605106+00:00
-
- ## Bavarian United Soccer Club
- - [https://www.bavarianunited.com](https://www.bavarianunited.com)
- - date_published: 2024-07-09T23:03:45.261919+00:00
-
- ## bavatuesdays | a "b" blog
- - [https://bavatuesdays.com](https://bavatuesdays.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## bavotasan.com
- - [http://bavotasan.com](http://bavotasan.com)
- - date_published: 2024-06-29T23:43:14.640134+00:00
-
- ## Demos – A preview of Themes by bavotasan.com
- - [http://demos.bavotasan.com](http://demos.bavotasan.com)
- - date_published: 2024-06-29T23:43:02.156504+00:00
 

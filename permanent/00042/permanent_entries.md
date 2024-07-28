@@ -1,3 +1,63 @@
+ ## Poemas da Lusofonia
+ - [http://poemasdalusofonia.blogspot.com](http://poemasdalusofonia.blogspot.com)
+ - date_published: 2024-06-29T17:25:34+00:00
+
+ ## Poemas Infantis
+ - [http://poemas-infantis.blogspot.com](http://poemas-infantis.blogspot.com)
+ - date_published: 2024-07-09T08:35:57+00:00
+
+ ## Poesia Diversa
+ - [http://poesiadiversidade.blogspot.com](http://poesiadiversidade.blogspot.com)
+ - date_published: 2024-07-03T06:37:52+00:00
+
+ ## Poesia dos Dias Úteis
+ - [http://poesiadosdiasuteis-vcm.blogspot.com](http://poesiadosdiasuteis-vcm.blogspot.com)
+ - date_published: 2022-03-21T00:00:00+00:00
+
+ ## Poesia Incompleta
+ - [http://poesia-incompleta.blogspot.com](http://poesia-incompleta.blogspot.com)
+ - date_published: 2024-07-12T16:59:58+00:00
+
+ ## A POESIA BRASILEIRA & SEUS AUTORES
+ - [http://poesiamsicagentedanossaterra.blogspot.com](http://poesiamsicagentedanossaterra.blogspot.com)
+ - date_published: 2024-07-11T18:25:19+00:00
+
+ ## Poesia na alcova
+ - [http://poesianaalcova.blogspot.com](http://poesianaalcova.blogspot.com)
+ - date_published: 2024-07-11T22:55:02+00:00
+
+ ## Poetas argentinos
+ - [http://poetasaltuntun.blogspot.com](http://poetasaltuntun.blogspot.com)
+ - date_published: 2024-07-11T18:03:52+00:00
+
+ ## Poetas de Marte
+ - [http://poetasdemarte.blogspot.com](http://poetasdemarte.blogspot.com)
+ - date_published: 2024-07-06T08:12:53+00:00
+
+ ## PAZ Y POESÍA NIDIA HERNÁNDEZ
+ - [http://poetasportugalcaracas.blogspot.com](http://poetasportugalcaracas.blogspot.com)
+ - date_published: 2024-03-13T02:31:54+00:00
+
+ ## POETAS SIGLO XXI - ANTOLOGIA MUNDIAL + 20.000 POETAS: Editor: Fernando Sabido Sánchez #Poesía
+ - [http://poetassigloveintiuno.blogspot.com](http://poetassigloveintiuno.blogspot.com)
+ - date_published: 2024-07-11T22:34:50+00:00
+
+ ## The Imaginary Journal of Poetic Economics
+ - [https://poeticeconomics.blogspot.com](https://poeticeconomics.blogspot.com)
+ - date_published: 2024-05-06T09:46:25+00:00
+
+ ## Poets United
+ - [http://poetryblogroll.blogspot.com](http://poetryblogroll.blogspot.com)
+ - date_published: 2024-07-13T05:55:03+00:00
+
+ ## Intersections -- Poetry with Mathematics
+ - [https://poetrywithmathematics.blogspot.com](https://poetrywithmathematics.blogspot.com)
+ - date_published: 2024-06-29T18:54:25+00:00
+
+ ## Poisonous Monkeys
+ - [https://poisonousmonkeysgames.blogspot.com](https://poisonousmonkeysgames.blogspot.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## Polar Elephant
  - [https://polarelephant.blogspot.com](https://polarelephant.blogspot.com)
  - date_published: 2024-03-05T22:50:01+00:00
@@ -3959,67 +4019,4 @@
  ## tabletopwargamer
  - [http://tabletopwargamer.blogspot.com](http://tabletopwargamer.blogspot.com)
  - date_published: 2024-02-20T09:43:33+00:00
-
- ## Tabletop Workshop
- - [http://tabletopworkshop.blogspot.com](http://tabletopworkshop.blogspot.com)
- - date_published: 2024-03-05T04:39:28+00:00
-
- ## Ink Spots
- - [http://tachesdhuile.blogspot.com](http://tachesdhuile.blogspot.com)
- - date_published: 2024-05-29T09:13:08+00:00
-
- ## Tactical Miniatures Gaming
- - [http://tacticalminiaturesgaming.blogspot.com](http://tacticalminiaturesgaming.blogspot.com)
- - date_published: 2024-07-15T22:30:05+00:00
-
- ## Tagwrsa n Yils
- - [https://tagwrsa.blogspot.com](https://tagwrsa.blogspot.com)
- - date_published: 2024-07-02T06:02:35+00:00
-
- ## tahrikmili
- - [http://tahrikmili.blogspot.com](http://tahrikmili.blogspot.com)
- - date_published: 2024-07-04T09:45:57+00:00
-
- ## Tales From Farpoint
- - [https://talesfromfarpoint.blogspot.com](https://talesfromfarpoint.blogspot.com)
- - date_published: 2024-05-17T18:41:00+00:00
- - tags: ['fantasy', 'miniatures']
-
- ## Tales From GHQ
- - [https://talesfromghq.blogspot.com](https://talesfromghq.blogspot.com)
- - date_published: 2024-07-20T00:58:00+00:00
-
- ## Tales From the Big Board
- - [https://talesfromthebigboard.blogspot.com](https://talesfromthebigboard.blogspot.com)
- - date_published: 2024-05-17T17:56:00+00:00
- - tags: ['miniatures', 'wargames']
-
- ## Tales from the Cantwara sector
- - [https://talesfromthecantwarasector.blogspot.com](https://talesfromthecantwarasector.blogspot.com)
- - date_published: 2023-04-27T00:00:00+00:00
-
- ## Tales From the Inner Sphere
- - [https://talesfromtheinnersphere.blogspot.com](https://talesfromtheinnersphere.blogspot.com)
- - date_published: 2024-07-04T06:25:18+00:00
-
- ## Tales from the Maelstrom
- - [https://talesfromthemaelstrom.blogspot.com](https://talesfromthemaelstrom.blogspot.com)
- - date_published: 2024-05-17T19:30:00+00:00
- - tags: ['miniatures']
-
- ## Tales From The Typer
- - [http://talesfromthetyper.blogspot.com](http://talesfromthetyper.blogspot.com)
- - date_published: 2024-07-17T23:03:51+00:00
-
- ## Tales From Valon
- - [https://talesfromvalon.blogspot.com](https://talesfromvalon.blogspot.com)
- - date_published: 2021-01-10T00:00:00+00:00
-
- ## Tales of Colossus
- - [http://talesofcolossus.blogspot.com](http://talesofcolossus.blogspot.com)
- - date_published: 2024-03-23T18:30:23+00:00
-
- ## Tales of Mirth
- - [https://talesofmirth.blogspot.com](https://talesofmirth.blogspot.com)
- - date_published: 2024-07-14T21:01:49+00:00
 

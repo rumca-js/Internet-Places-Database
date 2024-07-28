@@ -1,3 +1,31 @@
+ ## 浙江气象局外网门户
+ - [http://zj.cma.gov.cn](http://zj.cma.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 中国气象局一体化政务服务平台
+ - [https://zwfw.cma.gov.cn](https://zwfw.cma.gov.cn)
+ - date_published: 2024-06-30T16:51:14.531989+00:00
+
+ ## 中国载人航天官方网站
+ - [http://www.cmse.gov.cn](http://www.cmse.gov.cn)
+ - date_published: 2024-06-30T23:21:57.178915+00:00
+
+ ## 国家认证认可监督管理委员会
+ - [https://www.cnca.gov.cn](https://www.cnca.gov.cn)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## 国家应急广播
+ - [http://www.cneb.gov.cn](http://www.cneb.gov.cn)
+ - date_published: 2024-06-30T06:47:22+00:00
+
+ ## 国家知识产权局专利代理师资格考试系统
+ - [https://agent.cnipa.gov.cn](https://agent.cnipa.gov.cn)
+ - date_published: 2024-06-04T16:00:01+00:00
+
+ ## 专利业务办理系统
+ - [http://cponline.cnipa.gov.cn](http://cponline.cnipa.gov.cn)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## 国家知识产权-公共服务网
  - [https://ggfw.cnipa.gov.cn](https://ggfw.cnipa.gov.cn)
  - date_published: 2024-06-22T12:10:43.322757+00:00
@@ -3973,32 +4001,4 @@
  ## 用户登录
  - [https://user.www.gov.cn](https://user.www.gov.cn)
  - date_published: 2024-06-30T18:21:02.901684+00:00
-
- ## 中国政府网_中央人民政府门户网站
- - [https://www.gov.cn](https://www.gov.cn)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## index
- - [https://zfwzgl.www.gov.cn](https://zfwzgl.www.gov.cn)
- - date_published: 2015-03-17T03:16:54+00:00
-
- ## 西安市秦岭生态环境保护管理局
- - [http://xaqlbhj.xa.gov.cn](http://xaqlbhj.xa.gov.cn)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 西安国家级民用航天产业基地
- - [http://xcaib.xa.gov.cn](http://xcaib.xa.gov.cn)
- - date_published: 2024-06-30T13:21:35.825387+00:00
-
- ## 项城市人民政府
- - [http://www.xiangcheng.gov.cn](http://www.xiangcheng.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 祥符区人民政府门户网站  开封市祥符区人民政府办公室
- - [http://www.xiangfuqu.gov.cn](http://www.xiangfuqu.gov.cn)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## 淅川县人民政府门户网
- - [http://www.xichuan.gov.cn](http://www.xichuan.gov.cn)
- - date_published: 2024-06-30T22:27:15.908564+00:00
 

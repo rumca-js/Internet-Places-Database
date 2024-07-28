@@ -1,3 +1,287 @@
+ ## U.S. Representative Randy Weber
+ - [https://weber.house.gov](https://weber.house.gov)
+ - date_published: 2024-06-27T14:12:18+00:00
+
+ ## United States Congressman Daniel Webster
+ - [https://webster.house.gov](https://webster.house.gov)
+ - date_published: 2024-06-27T14:18:41.887446+00:00
+
+ ## U.S. Representative Brad Wenstrup
+ - [https://wenstrup.house.gov](https://wenstrup.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Bruce Westerman
+ - [https://westerman.house.gov](https://westerman.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Jennifer Wexton
+ - [https://wexton.house.gov](https://wexton.house.gov)
+ - date_published: 2024-06-27T14:12:24+00:00
+
+ ## Representative Wild
+ - [https://wild.house.gov](https://wild.house.gov)
+ - date_published: 2024-06-27T14:13:09.439816+00:00
+
+ ## Congressman Roger Williams
+ - [https://williams.house.gov](https://williams.house.gov)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Congresswoman Frederica Wilson
+ - [https://wilson.house.gov](https://wilson.house.gov)
+ - date_published: 2024-06-27T14:15:28+00:00
+
+ ## U.S. Representative Rob Wittman
+ - [https://wittman.house.gov](https://wittman.house.gov)
+ - date_published: 2024-06-27T14:12:24+00:00
+
+ ## U.S. Congressman Steve Womack
+ - [https://womack.house.gov](https://womack.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - Rudy Yakym
+ - [https://yakym.house.gov](https://yakym.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congresswoman Young Kim
+ - [https://youngkim.house.gov](https://youngkim.house.gov)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Representative Ryan Zinke
+ - [https://zinke.house.gov](https://zinke.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## | house.gov
+ - [https://ziplook.house.gov](https://ziplook.house.gov)
+ - date_published: 2024-06-27T14:00:04+00:00
+
+ ## data.hrsa.gov Home Page
+ - [https://data.hrsa.gov](https://data.hrsa.gov)
+ - date_published: 2024-06-19T16:43:18.164701+00:00
+
+ ## Health Resources and Services Administration | HRSA
+ - [https://www.hrsa.gov](https://www.hrsa.gov)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## The NPDB - Home Page
+ - [https://www.npdb.hrsa.gov](https://www.npdb.hrsa.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Hudson, WI - Official Website | Official Website
+ - [https://hudsonwi.gov](https://hudsonwi.gov)
+ - date_published: 2024-06-19T07:32:11.881045+00:00
+
+ ## Redirect
+ - [https://huduser.gov](https://huduser.gov)
+ - date_published: 2021-05-01T21:31:18+00:00
+
+ ## Front Page
+ - [http://www.huntsvilleal.gov](http://www.huntsvilleal.gov)
+ - date_published: 2024-06-29T14:26:11.922121+00:00
+
+ ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
+ - [http://iarpa.gov](http://iarpa.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
+ - [https://www.iarpa.gov](https://www.iarpa.gov)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Internet Crime Complaint Center(IC3) | Home Page
+ - [http://ic3.gov](http://ic3.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+ - tags: ['internet crime complaint', 'fbi']
+
+ ## Internet Crime Complaint Center(IC3) | Home Page
+ - [https://www.ic3.gov](https://www.ic3.gov)
+ - date_published: 2023-10-25T11:20:35.175486+00:00
+
+ ## ICE
+ - [https://www.ice.gov](https://www.ice.gov)
+ - date_published: 2024-06-20T05:09:17+00:00
+
+ ## IdentityTheft.gov
+ - [https://identitytheft.gov](https://identitytheft.gov)
+ - date_published: 2024-05-08T02:51:45.802362+00:00
+
+ ## IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet
+ - [https://ignet.gov](https://ignet.gov)
+ - date_published: 2024-05-08T02:59:43.030807+00:00
+
+ - [https://ilga.gov](https://ilga.gov)
+ - date_published: 2024-01-09T03:30:40.556731+00:00
+
+ ## Home
+ - [https://budget.illinois.gov](https://budget.illinois.gov)
+ - date_published: 2024-05-11T08:11:39.852838+00:00
+
+ ## Illinois Capital Markets
+ - [https://capitalmarkets.illinois.gov](https://capitalmarkets.illinois.gov)
+ - date_published: 2024-07-13T18:47:16+00:00
+
+ ## Illinois Department of Central Management Services
+ - [https://cms.illinois.gov](https://cms.illinois.gov)
+ - date_published: 2024-07-13T18:42:40+00:00
+
+ ## Home
+ - [https://doit.illinois.gov](https://doit.illinois.gov)
+ - date_published: 2024-07-21T21:28:20+00:00
+
+ ## Home
+ - [https://gata.illinois.gov](https://gata.illinois.gov)
+ - date_published: 2024-07-13T18:47:32+00:00
+
+ ## JB Pritzker, Governor
+ - [https://gov.illinois.gov](https://gov.illinois.gov)
+ - date_published: 2024-07-03T15:31:45+00:00
+
+ ## Illinois Hospital Report Card
+ - [https://healthcarereportcard.illinois.gov](https://healthcarereportcard.illinois.gov)
+ - date_published: 2024-05-13T03:59:07.495555+00:00
+
+ ## Abraham Lincoln Presidential Library and Museum
+ - [https://presidentlincoln.illinois.gov](https://presidentlincoln.illinois.gov)
+ - date_published: 2024-07-19T23:39:30.496870+00:00
+
+ ## Ready Illinois
+ - [https://ready.illinois.gov](https://ready.illinois.gov)
+ - date_published: 2024-07-13T18:06:33+00:00
+
+ ## Chicago Metropolitan Agency for Planning
+ - [https://www.cmap.illinois.gov](https://www.cmap.illinois.gov)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Illinois
+ - [https://www.illinois.gov](https://www.illinois.gov)
+ - date_published: 2024-05-11T08:11:12.410526+00:00
+
+ ## Institute of Museum and Library Services
+ - [http://imls.gov](http://imls.gov)
+ - date_published: 2024-07-17T14:07:08.200299+00:00
+
+ ## Home | City of Bloomington, Indiana
+ - [https://bloomington.in.gov](https://bloomington.in.gov)
+ - date_published: 2024-05-11T11:03:23.511006+00:00
+
+ ## Indiana Election Results
+ - [https://enr.indianavoters.in.gov](https://enr.indianavoters.in.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://events.in.gov](https://events.in.gov)
+ - date_published: 2023-10-25T19:22:27.576944+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://forms.in.gov](https://forms.in.gov)
+ - date_published: 2024-07-21T02:49:26.080918+00:00
+
+ ## :: Indiana Voters ::
+ - [https://indianavoters.in.gov](https://indianavoters.in.gov)
+ - date_published: 2024-04-30T07:29:15.448230+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.campaignfinance.in.gov](http://www.campaignfinance.in.gov)
+ - date_published: 2024-07-21T02:48:24.818283+00:00
+
+ ## RAVEN - Overview
+ - [https://raven.inl.gov](https://raven.inl.gov)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Home | InsureKidsNow.gov
+ - [https://www.insurekidsnow.gov](https://www.insurekidsnow.gov)
+ - date_published: 2024-07-11T16:07:03+00:00
+
+ ## INTEL - Home
+ - [https://www.intel.gov](https://www.intel.gov)
+ - date_published: 2024-06-16T13:06:02+00:00
+
+ ## INTEL - Home
+ - [https://www.intelligence.gov](https://www.intelligence.gov)
+ - date_published: 2024-04-22T15:42:05+00:00
+
+ ## Join the Intelligence Community
+ - [https://www.intelligencecareers.gov](https://www.intelligencecareers.gov)
+ - date_published: 2024-07-03T14:04:41.050529+00:00
+
+ ## Home | Internet for All
+ - [https://internetforall.gov](https://internetforall.gov)
+ - date_published: 2024-07-05T17:32:02+00:00
+
+ ## National Invasive Species Information Center (NISIC)
+ - [https://www.invasivespeciesinfo.gov](https://www.invasivespeciesinfo.gov)
+ - date_published: 2024-05-01T08:03:00.672133+00:00
+
+ ## Home | Investor.gov
+ - [https://www.investor.gov](https://www.investor.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Iowa State Patrol Crash Reports
+ - [https://accidentreports.iowa.gov](https://accidentreports.iowa.gov)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Welcome - State of Iowa Directory
+ - [https://directory.iowa.gov](https://directory.iowa.gov)
+ - date_published: 2024-06-20T16:18:12+00:00
+
+ ## Iowa Department of Public Safety
+ - [https://dps.iowa.gov](https://dps.iowa.gov)
+ - date_published: 2024-05-12T05:10:45.214183+00:00
+
+ ## Iowa Department of Education Homepage
+ - [https://educate.iowa.gov](https://educate.iowa.gov)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## List Elections
+ - [https://electionresults.iowa.gov](https://electionresults.iowa.gov)
+ - date_published: 2024-06-11T21:08:03+00:00
+
+ ## Elections 101 - Official Elections Education Curriculum
+ - [https://elections101.iowa.gov](https://elections101.iowa.gov)
+ - date_published: 2015-07-15T20:42:22+00:00
+
+ ## Fast Track Filing
+ - [https://filings.sos.iowa.gov](https://filings.sos.iowa.gov)
+ - date_published: 2024-07-15T02:57:12.155873+00:00
+
+ ## Home | Fast Track Filing Resource Center
+ - [https://help.sos.iowa.gov](https://help.sos.iowa.gov)
+ - date_published: 2024-07-05T14:24:35+00:00
+
+ ## Health and Human Services
+ - [https://hhs.iowa.gov](https://hhs.iowa.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Iowa Businesses Against Trafficking | Iowa Secretary of State
+ - [https://ibat.iowa.gov](https://ibat.iowa.gov)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Welcome
+ - [http://iowa.gov](http://iowa.gov)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Missing Persons | Missing Person Information Clearinghouse
+ - [https://missingpersons.iowa.gov](https://missingpersons.iowa.gov)
+ - date_published: 2024-07-15T04:02:23+00:00
+
+ ## Iowa Precinct Election Officials
+ - [https://pollworker.iowa.gov](https://pollworker.iowa.gov)
+ - date_published: 2024-07-15T02:56:59.866593+00:00
+
+ ## Iowa Safe At Home
+ - [http://safeathome.iowa.gov](http://safeathome.iowa.gov)
+ - date_published: 2024-07-15T02:57:14.750026+00:00
+
+ ## Iowa Secretary of State - Paul D. Pate
+ - [https://sos.iowa.gov](https://sos.iowa.gov)
+ - date_published: 2024-05-12T04:52:50.693632+00:00
+
+ ## Voter Ready | A Guide To Voting In Iowa
+ - [https://voterready.iowa.gov](https://voterready.iowa.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Iowa Voter Education | Iowa Secretary of State
+ - [https://votingprocess.iowa.gov](https://votingprocess.iowa.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Welcome
  - [https://www.iowa.gov](https://www.iowa.gov)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -3734,289 +4018,4 @@
  ## Science.gov
  - [https://science.gov](https://science.gov)
  - date_published: 2023-12-06T00:11:16+00:00
-
- ## Senate 2021 Redistricting
- - [http://redistricting.scsenate.gov](http://redistricting.scsenate.gov)
- - date_published: 2024-06-19T18:11:10.087183+00:00
-
- ## South Carolina Legislature Online
- - [https://www.scstatehouse.gov](https://www.scstatehouse.gov)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Government | South Carolina Student Connection | United States
- - [http://www.studentconnection.scstatehouse.gov](http://www.studentconnection.scstatehouse.gov)
- - date_published: 2024-06-19T18:11:11.348870+00:00
-
- ## Home - SC Votes - South Carolina Election Commission
- - [https://scvotes.gov](https://scvotes.gov)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## A search engine by and for the federal government
- - [https://search.gov](https://search.gov)
- - date_published: 2024-07-19T17:43:44+00:00
- - tags: ['search engine']
-
- ## Online Information Resources - CityClerk | seattle.gov
- - [http://clerk.seattle.gov](http://clerk.seattle.gov)
- - date_published: 2024-06-29T07:18:39.828945+00:00
-
- ## The Consultant Connection
- - [https://consultants.seattle.gov](https://consultants.seattle.gov)
- - date_published: 2024-07-26T19:14:51.017022+00:00
-
- ## City of Seattle Open Data portal
- - [https://data.seattle.gov](https://data.seattle.gov)
- - date_published: 2024-07-26T19:14:55.355778+00:00
-
- ## Fire Line
- - [https://fireline.seattle.gov](https://fireline.seattle.gov)
- - date_published: 2024-07-26T19:14:56.846132+00:00
-
- ## Front Porch
- - [https://frontporch.seattle.gov](https://frontporch.seattle.gov)
- - date_published: 2024-07-26T19:15:04.230201+00:00
-
- ## Office of the Mayor
- - [https://harrell.seattle.gov](https://harrell.seattle.gov)
- - date_published: 2024-07-26T19:14:52.613825+00:00
-
- ## News.seattle.gov – News from the City of Seattle
- - [https://news.seattle.gov](https://news.seattle.gov)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Parkways
- - [https://parkways.seattle.gov](https://parkways.seattle.gov)
- - date_published: 2024-04-29T05:28:21.110159+00:00
-
- ## Powerlines
- - [https://powerlines.seattle.gov](https://powerlines.seattle.gov)
- - date_published: 2024-07-26T19:15:00.411618+00:00
-
- ## SDOT Blog
- - [https://sdotblog.seattle.gov](https://sdotblog.seattle.gov)
- - date_published: 2024-07-26T19:15:05.834359+00:00
-
- ## SPD Blotter
- - [https://spdblotter.seattle.gov](https://spdblotter.seattle.gov)
- - date_published: 2024-07-26T19:15:02.438104+00:00
-
- ## Seattle.gov Home
- - [https://seattle.gov](https://seattle.gov)
- - date_published: 2024-04-29T05:30:10.219273+00:00
-
- ## IAPD - Investment Adviser Public Disclosure - Homepage
- - [https://adviserinfo.sec.gov](https://adviserinfo.sec.gov)
- - date_published: 2024-06-28T21:07:43+00:00
-
- ## IAPD - Investment Adviser Public Disclosure - Homepage
- - [https://files.adviserinfo.sec.gov](https://files.adviserinfo.sec.gov)
- - date_published: 2024-05-17T22:05:20+00:00
-
- ## EDGAR OnlineForms Login
- - [https://www.onlineforms.edgarfiling.sec.gov](https://www.onlineforms.edgarfiling.sec.gov)
- - date_published: 2024-06-29T02:14:28+00:00
-
- ## SEC.gov | HOME
- - [https://www.sec.gov](https://www.sec.gov)
- - date_published: 2023-10-25T19:25:07.736929+00:00
-
- ## Home | United States Secret Service
- - [https://www.secretservice.gov](https://www.secretservice.gov)
- - date_published: 2024-07-03T14:10:14+00:00
-
- ## Section508.gov
- - [https://www.section508.gov](https://www.section508.gov)
- - date_published: 2024-07-19T01:37:03+00:00
-
- ## Home | Seminole County
- - [https://www.seminolecountyfl.gov](https://www.seminolecountyfl.gov)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## U.S. Senate
- - [http://senate.gov](http://senate.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## /home | United States Senate Committee on Appropriations
- - [https://www.appropriations.senate.gov](https://www.appropriations.senate.gov)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | United States Committee on Banking, Housing, and Urban Affairs
- - [https://www.banking.senate.gov](https://www.banking.senate.gov)
- - date_published: 2024-06-22T11:10:03.855441+00:00
-
- ## U.S. Senator Michael Bennet
- - [https://www.bennet.senate.gov](https://www.bennet.senate.gov)
- - date_published: 2024-05-04T09:46:20.198965+00:00
-
- ## Home - Biotech
- - [https://www.biotech.senate.gov](https://www.biotech.senate.gov)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Home - Senator Katie Britt
- - [https://www.britt.senate.gov](https://www.britt.senate.gov)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Home | U.S. Senate Committee On The Budget
- - [https://www.budget.senate.gov](https://www.budget.senate.gov)
- - date_published: 2024-07-08T14:09:58.522087+00:00
-
- ## Home | U.S. Senator Maria Cantwell of Washington
- - [https://www.cantwell.senate.gov](https://www.cantwell.senate.gov)
- - date_published: 2024-07-02T23:04:29.484052+00:00
-
- ## Senator Tom Carper
- - [https://www.carper.senate.gov](https://www.carper.senate.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | U.S. Senator for Pennsylvania
- - [https://www.casey.senate.gov](https://www.casey.senate.gov)
- - date_published: 2024-06-28T08:47:20.813742+00:00
-
- ## Home | U.S. Senator Susan Collins of Maine
- - [https://www.collins.senate.gov](https://www.collins.senate.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## U.S. Senate Committee on Commerce, Science, & Transportation
- - [https://www.commerce.senate.gov](https://www.commerce.senate.gov)
- - date_published: 2023-10-25T19:25:10.798994+00:00
-
- ## Home | Senator Cornyn
- - [https://cornyn.senate.gov](https://cornyn.senate.gov)
- - date_published: 2024-05-06T22:26:30.816686+00:00
-
- ## Senator Catherine Cortez Masto of Nevada
- - [https://www.cortezmasto.senate.gov](https://www.cortezmasto.senate.gov)
- - date_published: 2024-05-06T17:11:25.767356+00:00
-
- ## Home | U.S. Senator Cotton of Arkansas
- - [https://www.cotton.senate.gov](https://www.cotton.senate.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home | Senate Democratic Leadership
- - [https://www.democrats.senate.gov](https://www.democrats.senate.gov)
- - date_published: 2024-01-01T01:29:16.688384+00:00
-
- ## U.S. Senate Committee on Energy and Natural Resources
- - [https://www.energy.senate.gov](https://www.energy.senate.gov)
- - date_published: 2024-06-26T11:07:47.892554+00:00
-
- ## U.S. Senate Committee on Environment and Public Works
- - [https://epw.senate.gov](https://epw.senate.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Homepage - Kirsten Gillibrand | U.S. Senator for New York
- - [https://www.gillibrand.senate.gov](https://www.gillibrand.senate.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home | U.S. Senator Martin Heinrich of New Mexico
- - [https://www.heinrich.senate.gov](https://www.heinrich.senate.gov)
- - date_published: 2024-06-28T08:47:17.732042+00:00
-
- ## Home | Senate Committee on Health, Education, Labor and Pensions
- - [https://www.help.senate.gov](https://www.help.senate.gov)
- - date_published: 2023-10-25T19:25:12.573868+00:00
-
- ## Committee on Homeland Security & Governmental Affairs
- - [https://www.hsgac.senate.gov](https://www.hsgac.senate.gov)
- - date_published: 2023-10-25T19:25:16.853062+00:00
-
- ## U.S. Senate Select Committee on Intelligence
- - [https://intelligence.senate.gov](https://intelligence.senate.gov)
- - date_published: 2024-05-06T22:26:42.528979+00:00
-
- ## United States Joint Economic Committee
- - [https://www.jec.senate.gov](https://www.jec.senate.gov)
- - date_published: 2024-06-27T14:20:54.077159+00:00
-
- ## Home | United States Senate Committee on the Judiciary
- - [https://www.judiciary.senate.gov](https://www.judiciary.senate.gov)
- - date_published: 2023-10-25T19:25:20.250645+00:00
-
- ## Home | U.S. Senator Mark Kelly of Arizona
- - [https://www.kelly.senate.gov](https://www.kelly.senate.gov)
- - date_published: 2023-07-20T00:00:00+00:00
-
- ## Home |
- - [https://www.king.senate.gov](https://www.king.senate.gov)
- - date_published: 2024-06-28T08:47:14.554638+00:00
-
- - [https://www.klobuchar.senate.gov](https://www.klobuchar.senate.gov)
- - date_published: 2024-02-24T18:11:06.609059+00:00
-
- ## Home - Senator James Lankford
- - [https://www.lankford.senate.gov](https://www.lankford.senate.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Senator Cynthia Lummis
- - [https://lummis.senate.gov](https://lummis.senate.gov)
- - date_published: 2023-07-25T00:00:00+00:00
-
- ## Home | U.S. Senator Ed Markey of Massachusetts
- - [https://www.markey.senate.gov](https://www.markey.senate.gov)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home - Merkley
- - [https://merkley.senate.gov](https://merkley.senate.gov)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Georgia U.S. Senator Jon Ossoff
- - [https://www.ossoff.senate.gov](https://www.ossoff.senate.gov)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home | U.S. Senator Mike Rounds of South Dakota
- - [https://www.rounds.senate.gov](https://www.rounds.senate.gov)
- - date_published: 2024-06-28T08:47:07.561327+00:00
-
- ## Homepage - Senator Rubio
- - [https://www.rubio.senate.gov](https://www.rubio.senate.gov)
- - date_published: 2023-10-25T19:25:23.279421+00:00
-
- ## U.S. Senate
- - [https://www.senate.gov](https://www.senate.gov)
- - date_published: 2023-10-25T19:25:25.397474+00:00
-
- ## Home - J.D. Vance
- - [https://www.vance.senate.gov](https://www.vance.senate.gov)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home | U.S. Senator Elizabeth Warren of Massachusetts
- - [https://www.warren.senate.gov](https://www.warren.senate.gov)
- - date_published: 2023-10-25T19:25:26.821293+00:00
-
- ## Home | U.S. Senator Ron Wyden of Oregon
- - [https://www.wyden.senate.gov](https://www.wyden.senate.gov)
- - date_published: 2023-10-25T19:25:32.843708+00:00
- - tags: ['senator']
-
- ## Home - Senator Young
- - [https://www.young.senate.gov](https://www.young.senate.gov)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## City and County of San Francisco
- - [https://sf.gov](https://sf.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Public Login • Shelby County Intranet, TN • CivicEngage
- - [https://my.shelbycountytn.gov](https://my.shelbycountytn.gov)
- - date_published: 2024-06-15T03:18:54.348283+00:00
-
- ## Shelby County, TN - Official Website | Official Website
- - [https://shelbycountytn.gov](https://shelbycountytn.gov)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Shrewsbury, MA | Official Website
- - [http://www.shrewsbury-ma.gov](http://www.shrewsbury-ma.gov)
- - date_published: 2024-06-29T16:12:20.235361+00:00
-
- ## Shrewsbury Electric & Cable Operations | 100 Maple Avenue, Shrewsbury, MA, USA
- - [http://www.selco.shrewsburyma.gov](http://www.selco.shrewsburyma.gov)
- - date_published: 2024-06-29T15:41:36.421770+00:00
-
- ## Home | SIGPR
- - [https://www.sigpr.gov](https://www.sigpr.gov)
- - date_published: 2024-07-03T14:24:21.823182+00:00
-
- ## Welcome to SIGTARP | Office of the Special Inspector General for the Troubled Asset Relief Program
- - [https://www.sigtarp.gov](https://www.sigtarp.gov)
- - date_published: 2024-07-03T14:24:00.405541+00:00
 

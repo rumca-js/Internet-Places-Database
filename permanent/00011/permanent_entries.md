@@ -1,3 +1,19 @@
+ ## Commodore Computers: C64 VIC20 PET C128 Plus4 – 8 Bit PC's – Commodore: Inventor of the Personal Computer
+ - [https://www.commodore.ca](https://www.commodore.ca)
+ - date_published: 2024-07-14T12:26:40.418924+00:00
+
+ ## Mark Surman
+ - [http://marksurman.commons.ca](http://marksurman.commons.ca)
+ - date_published: 2024-07-07T10:29:26.629431+00:00
+
+ ## Life Insurance Quotes | Insurance Broker | Comox Valley BC
+ - [https://www.comoxvalleylifeinsurance.ca](https://www.comoxvalleylifeinsurance.ca)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Status | Alliance
+ - [https://www.computecanada.ca](https://www.computecanada.ca)
+ - date_published: 2022-04-01T00:00:00+00:00
+
  ## Centre for Digital Arts - Concordia University
  - [http://cda.concordia.ca](http://cda.concordia.ca)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -4035,20 +4051,4 @@
  ## The DMZ
  - [https://dmz.ryerson.ca](https://dmz.ryerson.ca)
  - date_published: 2024-07-09T00:00:00+00:00
-
- ## Software Analysis Research Group
- - [https://sarg.ryerson.ca](https://sarg.ryerson.ca)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Department of Electrical, Computer, And Biomedical Engineering - Toronto Metropolitan University
- - [https://www.ee.ryerson.ca](https://www.ee.ryerson.ca)
- - date_published: 2024-07-21T09:11:14.239689+00:00
-
- ## Toronto Metropolitan University Home
- - [https://ryerson.ca](https://ryerson.ca)
- - date_published: 2024-04-30T05:17:27.141666+00:00
-
- ## RYOBI Home
- - [https://www.ryobitools.ca](https://www.ryobitools.ca)
- - date_published: 2024-06-23T03:54:19.309926+00:00
 

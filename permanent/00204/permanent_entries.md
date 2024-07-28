@@ -1,3 +1,289 @@
+ ## MyBizColorado
+ - [https://mybiz.colorado.gov](https://mybiz.colorado.gov)
+ - date_published: 2024-05-08T03:06:12+00:00
+
+ ## CO myDMV
+ - [https://mydmv.colorado.gov](https://mydmv.colorado.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home | Colorado Office of Economic Development and International Trade
+ - [https://oedit.colorado.gov](https://oedit.colorado.gov)
+ - date_published: 2024-06-18T11:11:26+00:00
+
+ ## Home | Colorado State Internet Rules Portal
+ - [https://rulemaking.colorado.gov](https://rulemaking.colorado.gov)
+ - date_published: 2024-06-18T01:03:28+00:00
+
+ ## TRACER - Home
+ - [https://tracer.sos.colorado.gov](https://tracer.sos.colorado.gov)
+ - date_published: 2024-06-18T12:50:05.527058+00:00
+
+ ## Home | Colorado Department of the Treasury
+ - [https://treasury.colorado.gov](https://treasury.colorado.gov)
+ - date_published: 2024-06-18T00:24:47+00:00
+
+ ## Home | Colorado.gov
+ - [https://www.colorado.gov](https://www.colorado.gov)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Colorado Courts Livestreaming
+ - [https://live.coloradojudicial.gov](https://live.coloradojudicial.gov)
+ - date_published: 2024-05-02T12:52:27.483230+00:00
+
+ ## Colorado Secretary of State
+ - [https://coloradosos.gov](https://coloradosos.gov)
+ - date_published: 2024-06-17T22:49:37+00:00
+
+ ## City of Columbus, Ohio
+ - [https://www.columbus.gov](https://www.columbus.gov)
+ - date_published: 2024-07-01T07:27:47.994312+00:00
+
+ ## Department of Commerce
+ - [https://2001-2009.commerce.gov](https://2001-2009.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Department of Commerce
+ - [http://2010-2014.commerce.gov](http://2010-2014.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Assess Costs Everywhere
+ - [http://acetool.commerce.gov](http://acetool.commerce.gov)
+ - date_published: 2024-07-03T13:32:47.459901+00:00
+
+ ## Homepage
+ - [http://beta.commerce.gov](http://beta.commerce.gov)
+ - date_published: 2024-07-03T13:32:54.255960+00:00
+
+ ## Homepage
+ - [https://commerce.gov](https://commerce.gov)
+ - date_published: 2024-05-08T02:37:16.643330+00:00
+
+ ## Homepage
+ - [https://data.commerce.gov](https://data.commerce.gov)
+ - date_published: 2024-05-08T02:37:23.001708+00:00
+
+ ## Department of Commerce
+ - [http://dir.commerce.gov](http://dir.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Homepage
+ - [http://open.commerce.gov](http://open.commerce.gov)
+ - date_published: 2024-07-03T13:33:39.021420+00:00
+
+ ## U.S. Department of Commerce | Performance Data Pro
+ - [https://performance.commerce.gov](https://performance.commerce.gov)
+ - date_published: 2024-05-08T02:37:13.415421+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.commerce.gov](https://search.commerce.gov)
+ - date_published: 2024-05-08T02:42:21.546942+00:00
+
+ ## Tyler Data & Insights
+ - [https://uspto.data.commerce.gov](https://uspto.data.commerce.gov)
+ - date_published: 2024-06-29T19:41:52.408407+00:00
+
+ ## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date_published: 2023-10-25T19:19:12.540417+00:00
+
+ ## Bioguide Search
+ - [http://bioguide.congress.gov](http://bioguide.congress.gov)
+ - date_published: 2024-06-26T17:33:31+00:00
+
+ ## Congress.gov | Library of Congress
+ - [https://congress.gov](https://congress.gov)
+ - date_published: 2024-05-08T02:42:27.756636+00:00
+
+ ## Cierpliwości...
+ - [https://crsreports.congress.gov](https://crsreports.congress.gov)
+ - date_published: 2024-04-30T06:34:34.060310+00:00
+
+ ## consumer.gov
+ - [https://consumer.gov](https://consumer.gov)
+ - date_published: 2024-05-08T02:51:36.145053+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.consumerfinance.gov](https://search.consumerfinance.gov)
+ - date_published: 2024-05-08T02:42:30.762051+00:00
+
+ ## Consumer Financial Protection Bureau
+ - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
+ - date_published: 2023-10-25T19:19:22.686885+00:00
+
+ ## consumer.gov - homepage
+ - [https://consumidor.gov](https://consumidor.gov)
+ - date_published: 2024-07-03T15:08:47+00:00
+
+ ## U.S. Copyright Office | U.S. Copyright Office
+ - [https://copyright.gov](https://copyright.gov)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Search Result | DMCA Designated Agent Directory
+ - [https://dmca.copyright.gov](https://dmca.copyright.gov)
+ - date_published: 2024-07-01T18:33:10.662192+00:00
+
+ ## Licensing Overview | U.S. Copyright Office
+ - [https://licensing.copyright.gov](https://licensing.copyright.gov)
+ - date_published: 2024-05-08T02:42:35.727318+00:00
+
+ ## U.S. Copyright Office Public Records System
+ - [https://publicrecords.copyright.gov](https://publicrecords.copyright.gov)
+ - date_published: 2024-05-08T02:42:39.628970+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.copyright.gov](https://search.copyright.gov)
+ - date_published: 2024-05-08T02:42:33.048698+00:00
+
+ ## Coronavirus Disease 2019 (COVID-19)
+ - [https://coronavirus.gov](https://coronavirus.gov)
+ - date_published: 2020-02-11T00:00:00+00:00
+
+ ## Coventry, CT - Official Website | Official Website
+ - [https://coventry-ct.gov](https://coventry-ct.gov)
+ - date_published: 2024-07-01T23:21:29.922277+00:00
+
+ ## CPSC.gov
+ - [https://cpsc.gov](https://cpsc.gov)
+ - date_published: 2024-05-08T02:42:46.739376+00:00
+
+ ## Homepage | Office of Inspector General
+ - [https://oig.cpsc.gov](https://oig.cpsc.gov)
+ - date_published: 2024-04-24T16:42:45+00:00
+
+ ## Copyright Royalty Board
+ - [https://www.crb.gov](https://www.crb.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## U.S. Chemical Safety and Hazard Investigation Board | CSB
+ - [https://www.csb.gov](https://www.csb.gov)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## CSCE
+ - [http://www.csce.gov](http://www.csce.gov)
+ - date_published: 2024-06-28T20:53:18.479652+00:00
+
+ ## CT.GOV-Connecticut's Official State Website
+ - [https://portal.ct.gov](https://portal.ct.gov)
+ - date_published: 2024-06-15T17:45:11.585758+00:00
+
+ ## Connecticut General Assembly
+ - [http://www.cga.ct.gov](http://www.cga.ct.gov)
+ - date_published: 2024-06-26T21:41:08.286418+00:00
+
+ ## Connecticut Judicial Branch
+ - [http://www.jud.ct.gov](http://www.jud.ct.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## ¿Aún necesita seguro médico?
+ - [https://www.cuidadodesalud.gov](https://www.cuidadodesalud.gov)
+ - date_published: 2024-06-13T16:10:39+00:00
+
+ ## The Official Government Website of Cuyahoga County
+ - [https://www.cuyahogacounty.gov](https://www.cuyahogacounty.gov)
+ - date_published: 2024-06-20T12:59:06.142128+00:00
+
+ ## Darien, CT | Official Website
+ - [https://www.darienct.gov](https://www.darienct.gov)
+ - date_published: 2024-07-01T23:24:06.882734+00:00
+
+ ## api.data.gov
+ - [https://api.data.gov](https://api.data.gov)
+ - date_published: 2023-11-20T17:24:11+00:00
+
+ ## Data.gov Home - Data.gov
+ - [https://catalog.data.gov](https://catalog.data.gov)
+ - date_published: 2024-06-21T10:43:08.467100+00:00
+
+ ## Data.gov Home - Data.gov
+ - [https://data.gov](https://data.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | resources.data.gov
+ - [https://resources.data.gov](https://resources.data.gov)
+ - date_published: 2024-04-01T17:11:42+00:00
+
+ ## Welcome - Federal Data Strategy
+ - [https://strategy.data.gov](https://strategy.data.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Data Privacy Framework
+ - [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov)
+ - date_published: 2024-04-16T21:10:26+00:00
+
+ ## Home
+		 · DC Business Portal
+ - [https://business.dc.gov](https://business.dc.gov)
+ - date_published: 2024-06-29T15:22:34.678689+00:00
+
+ ## HELC
+ - [https://helc.osse.dc.gov](https://helc.osse.dc.gov)
+ - date_published: 2024-04-30T04:56:20.786151+00:00
+
+ ## Office of Attorney General for the District of Columbia | Attorney General Brian Schwalb
+ - [https://oag.dc.gov](https://oag.dc.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Open Data DC
+ - [https://opendata.dc.gov](https://opendata.dc.gov)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## DC3 | Electronic Malware Submission (EMS) Tool
+ - [https://ems.dc3on.gov](https://ems.dc3on.gov)
+ - date_published: 2024-01-25T18:06:45+00:00
+
+ ## Home
+ - [https://dea.gov](https://dea.gov)
+ - date_published: 2024-05-12T06:40:40.558591+00:00
+ - tags: ['government', 'dea']
+
+ ## DEA Museum Homepage | DEA Museum
+ - [https://museum.dea.gov](https://museum.dea.gov)
+ - date_published: 2024-05-12T06:40:34.800001+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.dea.gov](https://search.dea.gov)
+ - date_published: 2024-07-16T17:44:26.864115+00:00
+
+ ## Take Back Day
+ - [https://takebackday.dea.gov](https://takebackday.dea.gov)
+ - date_published: 2024-05-12T06:40:38.440674+00:00
+
+ ## Controlled Substance Ordering System Homepage
+ - [https://www.deaecom.gov](https://www.deaecom.gov)
+ - date_published: 2024-04-18T18:46:09+00:00
+
+ ## Home
+ - [https://business.defense.gov](https://business.defense.gov)
+ - date_published: 2024-05-08T02:44:25.812495+00:00
+
+ ## Home
+ - [https://comptroller.defense.gov](https://comptroller.defense.gov)
+ - date_published: 2024-05-08T02:44:28.228068+00:00
+
+ ## Home
+ - [https://data.defense.gov](https://data.defense.gov)
+ - date_published: 2024-07-03T13:48:40.315092+00:00
+
+ ## Chief Information Officer - U.S. Department of Defense
+ - [https://dodcio.defense.gov](https://dodcio.defense.gov)
+ - date_published: 2024-01-09T03:30:24.563437+00:00
+
+ ## Legacy Homepage
+ - [https://dod.defense.gov](https://dod.defense.gov)
+ - date_published: 2024-05-08T02:43:06.081378+00:00
+
+ ## Privacy, Civil Liberties and FOIA Directorate
+ - [https://dpcld.defense.gov](https://dpcld.defense.gov)
+ - date_published: 2024-05-08T02:43:40.510443+00:00
+
+ ## U.S. Department of Defense
+ - [https://media.defense.gov](https://media.defense.gov)
+ - date_published: 2023-10-25T19:19:33.802662+00:00
+
+ ## DoD Open Government
+ - [https://open.defense.gov](https://open.defense.gov)
+ - date_published: 2024-05-08T02:43:10.182653+00:00
+
  ## Home
  - [https://policy.defense.gov](https://policy.defense.gov)
  - date_published: 2024-05-08T02:44:29.529233+00:00
@@ -3742,288 +4028,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Ways and Means – Congressional Website
  - [https://waysandmeans.house.gov](https://waysandmeans.house.gov)
  - date_published: 2024-06-27T14:24:34.073218+00:00
-
- ## U.S. Representative Randy Weber
- - [https://weber.house.gov](https://weber.house.gov)
- - date_published: 2024-06-27T14:12:18+00:00
-
- ## United States Congressman Daniel Webster
- - [https://webster.house.gov](https://webster.house.gov)
- - date_published: 2024-06-27T14:18:41.887446+00:00
-
- ## U.S. Representative Brad Wenstrup
- - [https://wenstrup.house.gov](https://wenstrup.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Bruce Westerman
- - [https://westerman.house.gov](https://westerman.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congresswoman Jennifer Wexton
- - [https://wexton.house.gov](https://wexton.house.gov)
- - date_published: 2024-06-27T14:12:24+00:00
-
- ## Representative Wild
- - [https://wild.house.gov](https://wild.house.gov)
- - date_published: 2024-06-27T14:13:09.439816+00:00
-
- ## Congressman Roger Williams
- - [https://williams.house.gov](https://williams.house.gov)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Congresswoman Frederica Wilson
- - [https://wilson.house.gov](https://wilson.house.gov)
- - date_published: 2024-06-27T14:15:28+00:00
-
- ## U.S. Representative Rob Wittman
- - [https://wittman.house.gov](https://wittman.house.gov)
- - date_published: 2024-06-27T14:12:24+00:00
-
- ## U.S. Congressman Steve Womack
- - [https://womack.house.gov](https://womack.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home - Rudy Yakym
- - [https://yakym.house.gov](https://yakym.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congresswoman Young Kim
- - [https://youngkim.house.gov](https://youngkim.house.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Representative Ryan Zinke
- - [https://zinke.house.gov](https://zinke.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## | house.gov
- - [https://ziplook.house.gov](https://ziplook.house.gov)
- - date_published: 2024-06-27T14:00:04+00:00
-
- ## data.hrsa.gov Home Page
- - [https://data.hrsa.gov](https://data.hrsa.gov)
- - date_published: 2024-06-19T16:43:18.164701+00:00
-
- ## Health Resources and Services Administration | HRSA
- - [https://www.hrsa.gov](https://www.hrsa.gov)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## The NPDB - Home Page
- - [https://www.npdb.hrsa.gov](https://www.npdb.hrsa.gov)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Hudson, WI - Official Website | Official Website
- - [https://hudsonwi.gov](https://hudsonwi.gov)
- - date_published: 2024-06-19T07:32:11.881045+00:00
-
- ## Redirect
- - [https://huduser.gov](https://huduser.gov)
- - date_published: 2021-05-01T21:31:18+00:00
-
- ## Front Page
- - [http://www.huntsvilleal.gov](http://www.huntsvilleal.gov)
- - date_published: 2024-06-29T14:26:11.922121+00:00
-
- ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
- - [http://iarpa.gov](http://iarpa.gov)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
- - [https://www.iarpa.gov](https://www.iarpa.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Internet Crime Complaint Center(IC3) | Home Page
- - [http://ic3.gov](http://ic3.gov)
- - date_published: 2024-06-25T00:00:00+00:00
- - tags: ['internet crime complaint', 'fbi']
-
- ## Internet Crime Complaint Center(IC3) | Home Page
- - [https://www.ic3.gov](https://www.ic3.gov)
- - date_published: 2023-10-25T11:20:35.175486+00:00
-
- ## ICE
- - [https://www.ice.gov](https://www.ice.gov)
- - date_published: 2024-06-20T05:09:17+00:00
-
- ## IdentityTheft.gov
- - [https://identitytheft.gov](https://identitytheft.gov)
- - date_published: 2024-05-08T02:51:45.802362+00:00
-
- ## IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet
- - [https://ignet.gov](https://ignet.gov)
- - date_published: 2024-05-08T02:59:43.030807+00:00
-
- - [https://ilga.gov](https://ilga.gov)
- - date_published: 2024-01-09T03:30:40.556731+00:00
-
- ## Home
- - [https://budget.illinois.gov](https://budget.illinois.gov)
- - date_published: 2024-05-11T08:11:39.852838+00:00
-
- ## Illinois Capital Markets
- - [https://capitalmarkets.illinois.gov](https://capitalmarkets.illinois.gov)
- - date_published: 2024-07-13T18:47:16+00:00
-
- ## Illinois Department of Central Management Services
- - [https://cms.illinois.gov](https://cms.illinois.gov)
- - date_published: 2024-07-13T18:42:40+00:00
-
- ## Home
- - [https://doit.illinois.gov](https://doit.illinois.gov)
- - date_published: 2024-07-21T21:28:20+00:00
-
- ## Home
- - [https://gata.illinois.gov](https://gata.illinois.gov)
- - date_published: 2024-07-13T18:47:32+00:00
-
- ## JB Pritzker, Governor
- - [https://gov.illinois.gov](https://gov.illinois.gov)
- - date_published: 2024-07-03T15:31:45+00:00
-
- ## Illinois Hospital Report Card
- - [https://healthcarereportcard.illinois.gov](https://healthcarereportcard.illinois.gov)
- - date_published: 2024-05-13T03:59:07.495555+00:00
-
- ## Abraham Lincoln Presidential Library and Museum
- - [https://presidentlincoln.illinois.gov](https://presidentlincoln.illinois.gov)
- - date_published: 2024-07-19T23:39:30.496870+00:00
-
- ## Ready Illinois
- - [https://ready.illinois.gov](https://ready.illinois.gov)
- - date_published: 2024-07-13T18:06:33+00:00
-
- ## Chicago Metropolitan Agency for Planning
- - [https://www.cmap.illinois.gov](https://www.cmap.illinois.gov)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Illinois
- - [https://www.illinois.gov](https://www.illinois.gov)
- - date_published: 2024-05-11T08:11:12.410526+00:00
-
- ## Institute of Museum and Library Services
- - [http://imls.gov](http://imls.gov)
- - date_published: 2024-07-17T14:07:08.200299+00:00
-
- ## Home | City of Bloomington, Indiana
- - [https://bloomington.in.gov](https://bloomington.in.gov)
- - date_published: 2024-05-11T11:03:23.511006+00:00
-
- ## Indiana Election Results
- - [https://enr.indianavoters.in.gov](https://enr.indianavoters.in.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://events.in.gov](https://events.in.gov)
- - date_published: 2023-10-25T19:22:27.576944+00:00
-
- ## Attention Required! | Cloudflare
- - [https://forms.in.gov](https://forms.in.gov)
- - date_published: 2024-07-21T02:49:26.080918+00:00
-
- ## :: Indiana Voters ::
- - [https://indianavoters.in.gov](https://indianavoters.in.gov)
- - date_published: 2024-04-30T07:29:15.448230+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.campaignfinance.in.gov](http://www.campaignfinance.in.gov)
- - date_published: 2024-07-21T02:48:24.818283+00:00
-
- ## RAVEN - Overview
- - [https://raven.inl.gov](https://raven.inl.gov)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Home | InsureKidsNow.gov
- - [https://www.insurekidsnow.gov](https://www.insurekidsnow.gov)
- - date_published: 2024-07-11T16:07:03+00:00
-
- ## INTEL - Home
- - [https://www.intel.gov](https://www.intel.gov)
- - date_published: 2024-06-16T13:06:02+00:00
-
- ## INTEL - Home
- - [https://www.intelligence.gov](https://www.intelligence.gov)
- - date_published: 2024-04-22T15:42:05+00:00
-
- ## Join the Intelligence Community
- - [https://www.intelligencecareers.gov](https://www.intelligencecareers.gov)
- - date_published: 2024-07-03T14:04:41.050529+00:00
-
- ## Home | Internet for All
- - [https://internetforall.gov](https://internetforall.gov)
- - date_published: 2024-07-05T17:32:02+00:00
-
- ## National Invasive Species Information Center (NISIC)
- - [https://www.invasivespeciesinfo.gov](https://www.invasivespeciesinfo.gov)
- - date_published: 2024-05-01T08:03:00.672133+00:00
-
- ## Home | Investor.gov
- - [https://www.investor.gov](https://www.investor.gov)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Iowa State Patrol Crash Reports
- - [https://accidentreports.iowa.gov](https://accidentreports.iowa.gov)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Welcome - State of Iowa Directory
- - [https://directory.iowa.gov](https://directory.iowa.gov)
- - date_published: 2024-06-20T16:18:12+00:00
-
- ## Iowa Department of Public Safety
- - [https://dps.iowa.gov](https://dps.iowa.gov)
- - date_published: 2024-05-12T05:10:45.214183+00:00
-
- ## Iowa Department of Education Homepage
- - [https://educate.iowa.gov](https://educate.iowa.gov)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## List Elections
- - [https://electionresults.iowa.gov](https://electionresults.iowa.gov)
- - date_published: 2024-06-11T21:08:03+00:00
-
- ## Elections 101 - Official Elections Education Curriculum
- - [https://elections101.iowa.gov](https://elections101.iowa.gov)
- - date_published: 2015-07-15T20:42:22+00:00
-
- ## Fast Track Filing
- - [https://filings.sos.iowa.gov](https://filings.sos.iowa.gov)
- - date_published: 2024-07-15T02:57:12.155873+00:00
-
- ## Home | Fast Track Filing Resource Center
- - [https://help.sos.iowa.gov](https://help.sos.iowa.gov)
- - date_published: 2024-07-05T14:24:35+00:00
-
- ## Health and Human Services
- - [https://hhs.iowa.gov](https://hhs.iowa.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Iowa Businesses Against Trafficking | Iowa Secretary of State
- - [https://ibat.iowa.gov](https://ibat.iowa.gov)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Welcome
- - [http://iowa.gov](http://iowa.gov)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Missing Persons | Missing Person Information Clearinghouse
- - [https://missingpersons.iowa.gov](https://missingpersons.iowa.gov)
- - date_published: 2024-07-15T04:02:23+00:00
-
- ## Iowa Precinct Election Officials
- - [https://pollworker.iowa.gov](https://pollworker.iowa.gov)
- - date_published: 2024-07-15T02:56:59.866593+00:00
-
- ## Iowa Safe At Home
- - [http://safeathome.iowa.gov](http://safeathome.iowa.gov)
- - date_published: 2024-07-15T02:57:14.750026+00:00
-
- ## Iowa Secretary of State - Paul D. Pate
- - [https://sos.iowa.gov](https://sos.iowa.gov)
- - date_published: 2024-05-12T04:52:50.693632+00:00
-
- ## Voter Ready | A Guide To Voting In Iowa
- - [https://voterready.iowa.gov](https://voterready.iowa.gov)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Iowa Voter Education | Iowa Secretary of State
- - [https://votingprocess.iowa.gov](https://votingprocess.iowa.gov)
- - date_published: 2024-06-28T00:00:00+00:00
 
