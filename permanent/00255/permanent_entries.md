@@ -1,3 +1,253 @@
+ ## #CUNYTUESDAY 2023
+ - [https://www.cunytuesday.org](https://www.cunytuesday.org)
+ - date_published: 2024-07-22T04:54:27.446577+00:00
+
+ ## CUPA-HR - College and University Professional Association for Human Resources
+ - [https://www.cupahr.org](https://www.cupahr.org)
+ - date_published: 2024-07-02T11:43:43.465041+00:00
+
+ ## Cupertino Historical Society & Museum
+ - [https://cupertinomuseum.org](https://cupertinomuseum.org)
+ - date_published: 2024-06-18T20:25:46+00:00
+
+ ## Champaign Urbana Public Health District - 201 W. Kenyon Rd. Champaign - (217) 352-7961
+ - [https://www.c-uphd.org](https://www.c-uphd.org)
+ - date_published: 2024-07-21T22:38:09.751063+00:00
+
+ ## CU Presents | The best in the performing arts at CU Boulder
+ - [https://cupresents.org](https://cupresents.org)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## CUPS.org
+ - [https://www.cups.org](https://www.cups.org)
+ - date_published: 2022-05-25T00:00:00+00:00
+
+ ## Welcome | CuratedMC
+ - [https://curatedmc.org](https://curatedmc.org)
+ - date_published: 2024-06-21T22:51:46.424930+00:00
+
+ ## Curationist: Opening Cultures Together
+ - [https://www.curationist.org](https://www.curationist.org)
+ - date_published: 2024-07-06T20:49:49.976330+00:00
+
+ ## Independent Curators International (ICI)
+ - [https://curatorsintl.org](https://curatorsintl.org)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Charleston Urban Renewal Authority | Urban Planning Department  | 815 Quarrier Street, Charleston, WV, USA
+ - [http://curawv.org](http://curawv.org)
+ - date_published: 2024-07-15T10:48:54.612164+00:00
+
+ ## Cierpliwości...
+ - [https://www.cure4kids.org](https://www.cure4kids.org)
+ - date_published: 2024-06-29T23:38:30.489815+00:00
+
+ ## Cure DHDDS
+ - [https://curedhdds.org](https://curedhdds.org)
+ - date_published: 2024-06-28T19:34:49.196281+00:00
+
+ ## Cure Duchenne Muscular Dystrophy – CureDuchenne
+ - [https://cureduchenne.org](https://cureduchenne.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Curious Efficiency
+ - [https://www.curiousefficiency.org](https://www.curiousefficiency.org)
+ - date_published: 2019-03-16T06:06:00+00:00
+
+ ## curiousexpeditions
+ - [http://curiousexpeditions.org](http://curiousexpeditions.org)
+ - date_published: 2024-06-24T09:34:04.565893+00:00
+
+ ## Curlie
+ - [https://curlie.org](https://curlie.org)
+ - date_published: 2024-02-23T09:04:59+00:00
+ - tags: ['web1', 'internet', 'personal sites source', 'classic web']
+
+ ## Current - For people in public media
+ - [https://current.org](https://current.org)
+ - date_published: 2023-10-25T21:12:00.535305+00:00
+
+ ## Home ❧ Current Affairs
+ - [https://www.currentaffairs.org](https://www.currentaffairs.org)
+ - date_published: 2023-11-09T22:43:56.697894+00:00
+
+ ## current-news
+ - [http://www.current-news.org](http://www.current-news.org)
+ - date_published: 2024-06-27T06:44:35.422215+00:00
+
+ ## CCR Welcome | Center for Curriculum Redesign
+ - [http://curriculumredesign.org](http://curriculumredesign.org)
+ - date_published: 2024-01-22T15:11:31+00:00
+
+ ## Introduction to CurveCP
+ - [http://curvecp.org](http://curvecp.org)
+ - date_published: 2017-01-22T18:17:36+00:00
+
+ ## Custom concrete Embeds
+ - [http://customconcreteembeds.org](http://customconcreteembeds.org)
+ - date_published: 2024-07-15T04:28:21.450508+00:00
+
+ ## Customer Commons
+ - [http://customercommons.org](http://customercommons.org)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://attend.cuyahogalibrary.org](https://attend.cuyahogalibrary.org)
+ - date_published: 2024-06-27T17:33:52.850048+00:00
+
+ ## Cierpliwości...
+ - [https://cuyahogalibrary.org](https://cuyahogalibrary.org)
+ - date_published: 2024-06-27T17:33:13.240452+00:00
+
+ ## CVE Website
+ - [https://cve.org](https://cve.org)
+ - date_published: 2024-06-26T13:10:06+00:00
+
+ ## Page Redirection
+ - [http://www.cv-foundation.org](http://www.cv-foundation.org)
+ - date_published: 2024-06-10T13:23:22.595876+00:00
+
+ ## Workshop on Computer Vision with Humans in the Loop 2024
+ - [https://cvhl.org](https://cvhl.org)
+ - date_published: 2024-06-18T03:31:45+00:00
+
+ ## CVS GUI – A set of C++ front-end for cvs distributed under GPL.
+ - [https://cvsgui.org](https://cvsgui.org)
+ - date_published: 2024-03-04T12:06:02+00:00
+ - tags: ['control version system', 'desktop program', 'vcs', 'open source']
+
+ ## CVS Home
+ - [https://cvshome.org](https://cvshome.org)
+ - date_published: 2024-05-09T05:02:30.049214+00:00
+
+ ## CVSNT/CVS 2.x Client/Server downloads for Windows, Linux and Mac OS X
+ - [https://cvsnt.org](https://cvsnt.org)
+ - date_published: 2024-05-09T05:02:36.696118+00:00
+
+ ## CVTC
+ - [http://cvtcnyc.org](http://cvtcnyc.org)
+ - date_published: 2024-07-19T21:29:07.604306+00:00
+
+ ## Welcome to CVXPY 1.4 — CVXPY 1.4 documentation
+ - [https://www.cvxpy.org](https://www.cvxpy.org)
+ - date_published: 2024-04-28T01:58:14.991857+00:00
+
+ ## Communications Workers of America
+ - [https://cwa-union.org](https://cwa-union.org)
+ - date_published: 2024-06-20T23:53:05+00:00
+
+ ## California Water Environment Association | Champions of Wastewater
+ - [https://www.cwea.org](https://www.cwea.org)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Canadian Wildlife Federation
+ - [http://cwf-fcf.org](http://cwf-fcf.org)
+ - date_published: 2024-06-20T16:02:48.266888+00:00
+
+ ## The Commonwealth War Graves Commission | CWGC
+ - [https://www.cwgc.org](https://www.cwgc.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Carl's boring web pages
+ - [http://cworth.org](http://cworth.org)
+ - date_published: 1995-12-30T00:00:00+00:00
+
+ ## Caucus for Women in Statistics and Data Science – Supporting an Inclusive Statistics and Data Science Community
+ - [https://www.cwstat.org](https://www.cwstat.org)
+ - date_published: 2024-07-12T08:49:29.394379+00:00
+
+ ## Chat With The Designers (CWTD)
+ - [http://www.cwtd.org](http://www.cwtd.org)
+ - date_published: 2019-07-19T17:06:06+00:00
+
+ ## Tapestry - 3D Virtual Tours
+ - [https://tapestry.cyark.org](https://tapestry.cyark.org)
+ - date_published: 2024-06-20T09:08:51.174577+00:00
+
+ ## CyArk
+ - [https://www.cyark.org](https://www.cyark.org)
+ - date_published: 2024-05-04T08:28:50.178990+00:00
+
+ ## cyber1
+ - [http://cyber1.org](http://cyber1.org)
+ - date_published: 2024-07-15T06:01:23.905910+00:00
+
+ ## CyberArk Developer
+ - [https://discuss.cyberarkcommons.org](https://discuss.cyberarkcommons.org)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Cyberarts and Cyberculture Research Initiative
+ - [http://www.cyberartsweb.org](http://www.cyberartsweb.org)
+ - date_published: 2004-11-08T21:23:08+00:00
+
+ ## Home
+ - [https://www.cybercollective.org](https://www.cybercollective.org)
+ - date_published: 2024-01-14T17:10:11.879530+00:00
+
+ ## Catherine Daze's Blog â€“ sewing my own clothes
+ - [https://blog.cyberdaze.org](https://blog.cyberdaze.org)
+ - date_published: 2024-02-25T13:34:40.092050+00:00
+
+ ## https://www.cyberdemon.org
+ - [https://www.cyberdemon.org](https://www.cyberdemon.org)
+ - date_published: 2023-10-25T21:12:02.225294+00:00
+
+ ## HOME
+ - [https://cyberflorida.org](https://cyberflorida.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Cybergeography.org - 2023
+ - [http://www.cybergeography.org](http://www.cybergeography.org)
+ - date_published: 2023-04-04T09:34:24+00:00
+
+ ## Commonwealth Cyber Initiative
+ - [https://cyberinitiative.org](https://cyberinitiative.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## CyberOZ: Engineering The Future of Cybersecurity, IPv6 and AI
+ - [https://www.cyberoz.org](https://www.cyberoz.org)
+ - date_published: 2024-07-07T01:28:03.103266+00:00
+
+ ## https://cyberplayground.org
+ - [https://cyberplayground.org](https://cyberplayground.org)
+ - date_published: 2024-01-05T10:37:16.022792+00:00
+
+ ## Page Redirection
+ - [http://cyber-science.org](http://cyber-science.org)
+ - date_published: 2024-03-16T04:46:02+00:00
+
+ ## Home - Cyberselves
+ - [https://cyberselves.org](https://cyberselves.org)
+ - date_published: 2024-07-06T23:44:41.687138+00:00
+
+ ## Cyber Security News For Executives - CyberTalk
+ - [https://cybertalk.org](https://cybertalk.org)
+ - date_published: 2024-05-08T04:58:17.127437+00:00
+
+ ## :: Cybertelecom :: Federal Internet Law and Policy ::
+ - [https://www.cybertelecom.org](https://www.cybertelecom.org)
+ - date_published: 2017-06-12T21:37:34+00:00
+
+ ## CyberTipline Report
+ - [https://report.cybertip.org](https://report.cybertip.org)
+ - date_published: 2024-06-19T18:04:15.368493+00:00
+
+ ## CyBOK – The Cyber Security Body of Knowledge
+ - [https://www.cybok.org](https://www.cybok.org)
+ - date_published: 2024-06-28T22:09:08.325817+00:00
+
+ ## CycleStreets
+ - [https://www.cyclestreets.org](https://www.cyclestreets.org)
+ - date_published: 2020-02-22T15:32:02+00:00
+
+ ## OWASP CycloneDX Software Bill of Materials (SBOM) Standard
+ - [https://cyclonedx.org](https://cyclonedx.org)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Cyconet Blog
+ - [https://log.cyconet.org](https://log.cyconet.org)
+ - date_published: 2024-07-09T07:57:53.262619+00:00
+
  ## Związek Cyfrowa Polska
  - [http://cyfrowapolska.org](http://cyfrowapolska.org)
  - date_published: 2024-07-14T05:36:56.276879+00:00
@@ -3794,254 +4044,4 @@
  ## DotGNU Project
  - [http://www.dotgnu.org](http://www.dotgnu.org)
  - date_published: 2012-12-19T01:28:02+00:00
-
- ## Dot Net Curry -
- - [https://www.dotnetcurry.org](https://www.dotnetcurry.org)
- - date_published: 2024-06-15T16:55:55.785564+00:00
-
- ## .NET Foundation | .NET Foundation
- - [https://dotnetfoundation.org](https://dotnetfoundation.org)
- - date_published: 2023-10-25T21:15:11.977111+00:00
-
- ## .NET/FRINGE/ - An atypical conference for open-source .NET developers.
- - [http://2015.dotnetfringe.org](http://2015.dotnetfringe.org)
- - date_published: 2015-04-12T00:00:00+00:00
-
- ## .NET/FRINGE/ - An atypical conference for open-source .NET developers.
- - [http://2016.dotnetfringe.org](http://2016.dotnetfringe.org)
- - date_published: 2016-07-10T00:00:00+00:00
-
- ## .NET/FRINGE/ - An atypical conference for open-source .NET developers.
- - [http://2017.dotnetfringe.org](http://2017.dotnetfringe.org)
- - date_published: 2017-06-04T00:00:00+00:00
-
- ## .NET Fringe - An atypical conference for open-source .NET developers
- - [https://dotnetfringe.org](https://dotnetfringe.org)
- - date_published: 2018-03-13T20:54:09+00:00
-
- ## About dotsrc
- - [https://dotsrc.org](https://dotsrc.org)
- - date_published: 2023-11-21T00:00:00+00:00
-
- ## mirrors.dotsrc.org
- - [http://mirrors.dotsrc.org](http://mirrors.dotsrc.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## DOUBLE MERSENNE PRIME | A distributed math search
- - [https://doublemersennes.org](https://doublemersennes.org)
- - date_published: 2024-04-10T08:11:08.178949+00:00
- - tags: ['math']
-
- ## A Way with Words
- - [http://www.doubletongued.org](http://www.doubletongued.org)
- - date_published: 2024-04-29T03:19:13.121318+00:00
-
- ## Welcome - Doug Engelbart Institute
- - [https://www.dougengelbart.org](https://www.dougengelbart.org)
- - date_published: 2023-10-25T21:15:15.673050+00:00
-
- ## Dovecot manual — Dovecot documentation
- - [https://doc.dovecot.org](https://doc.dovecot.org)
- - date_published: 2024-06-13T04:53:45+00:00
-
- ## Dovecot | The Secure IMAP server
- - [https://dovecot.org](https://dovecot.org)
- - date_published: 2024-05-14T03:49:49.329164+00:00
-
- ## Dovecot community software repository
- - [https://repo.dovecot.org](https://repo.dovecot.org)
- - date_published: 2023-09-15T11:02:08+00:00
-
- ## Wiki has been closed
- - [https://wiki2.dovecot.org](https://wiki2.dovecot.org)
- - date_published: 2023-07-13T09:35:28+00:00
-
- ## Wiki has been closed
- - [https://wiki.dovecot.org](https://wiki.dovecot.org)
- - date_published: 2023-07-13T09:35:28+00:00
-
- ## Dovetail Impact Foundation
- - [https://dovetailimpact.org](https://dovetailimpact.org)
- - date_published: 2024-05-22T02:38:38.315599+00:00
-
- ## DOVE Transplant | Matching Kidney Donors with Veterans in Need
- - [https://dovetransplant.org](https://dovetransplant.org)
- - date_published: 2024-05-12T05:10:37.763565+00:00
-
- ## Home
- - [https://dowcreditunion.org](https://dowcreditunion.org)
- - date_published: 2024-05-09T07:35:08.432098+00:00
-
- ## Dow Credit Union
- - [https://ob.dowcreditunion.org](https://ob.dowcreditunion.org)
- - date_published: 2024-07-10T04:40:25.100623+00:00
-
- ## DLTKU - Download Game PC Gratis Offline Full Version Terbaru
- - [https://game.downloadtanku.org](https://game.downloadtanku.org)
- - date_published: 2024-07-14T13:20:35.906582+00:00
-
- ## Downtown Lafayette - Downtown Lafayette Unlimited
- - [https://www.downtownlafayette.org](https://www.downtownlafayette.org)
- - date_published: 2024-07-02T04:10:24.390909+00:00
-
- ## Home | Downtown Los Altos
- - [https://downtownlosaltos.org](https://downtownlosaltos.org)
- - date_published: 2015-03-12T14:07:46+00:00
-
- ## Doxygen homepage
- - [https://doxygen.org](https://doxygen.org)
- - date_published: 2024-05-08T11:03:31.290717+00:00
-
- ## dpaste
- - [https://dpaste.org](https://dpaste.org)
- - date_published: 2024-06-19T22:10:54.344450+00:00
-
- ## dpaste
- - [https://git.dpaste.org](https://git.dpaste.org)
- - date_published: 2024-05-01T04:02:44.084748+00:00
-
- ## about lore.dpaste.org
- - [https://lore.dpaste.org](https://lore.dpaste.org)
- - date_published: 2024-05-01T04:02:42.483127+00:00
-
- ## DPC Homepage - Digital Preservation Coalition
- - [http://www.dpconline.org](http://www.dpconline.org)
- - date_published: 2024-07-02T09:33:28+00:00
-
- ## DPDK
- - [http://core.dpdk.org](http://core.dpdk.org)
- - date_published: 2024-06-28T11:30:59+00:00
-
- ## Home - DPDK
- - [https://dpdk.org](https://dpdk.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## The Home of Developer Productivity Engineering (DPE)
- - [https://dpe.org](https://dpe.org)
- - date_published: 2024-03-21T19:56:15+00:00
-
- ## dprg.org - robots rule
- - [http://www.dprg.org](http://www.dprg.org)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## DQ institute – DQ Institute. All Rights Reserved
- - [https://dqinstitute.org](https://dqinstitute.org)
- - date_published: 2024-05-11T08:11:28.150910+00:00
-
- ## The Drabblecast
- - [https://www.drabblecast.org](https://www.drabblecast.org)
- - date_published: 2024-05-04T05:59:58.917667+00:00
-
- ## Dragonchat
- - [https://dragonchat.org](https://dragonchat.org)
- - date_published: 2024-06-23T19:03:01.846355+00:00
-
- ## The Dragon Award
- - [https://awards.dragoncon.org](https://awards.dragoncon.org)
- - date_published: 2024-07-17T13:23:07.375277+00:00
-
- ## Dragon Con Gaming
- - [https://gaming.dragoncon.org](https://gaming.dragoncon.org)
- - date_published: 2024-06-17T12:40:49.301070+00:00
-
- ## Dragon Con - Largest Multi-genre and Pop Culture Convention
- - [https://dragoncon.org](https://dragoncon.org)
- - date_published: 2024-07-17T13:23:05.127744+00:00
- - tags: ['convention', 'pop culture']
-
- ## DragonFlyBSD: DragonFly BSD
- - [https://www.dragonflybsd.org](https://www.dragonflybsd.org)
- - date_published: 2023-10-25T21:15:22.406789+00:00
-
- ## Dragon Quest Wiki
- - [https://dragon-quest.org](https://dragon-quest.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Join the DragonRuby Game Toolkit Discord Server!
- - [https://discord.dragonruby.org](https://discord.dragonruby.org)
- - date_published: 2024-05-07T19:01:14.529638+00:00
-
- ## DragonRuby | DragonRuby
- - [https://dragonruby.org](https://dragonruby.org)
- - date_published: 2024-05-07T19:01:15.914429+00:00
-
- ## DragonRuby Game Toolkit Tutorial
- - [https://fiddle.dragonruby.org](https://fiddle.dragonruby.org)
- - date_published: 2021-07-17T03:13:12+00:00
-
- ## Welcome to Dragonsfoot
- - [https://www.dragonsfoot.org](https://www.dragonsfoot.org)
- - date_published: 2024-07-14T20:37:12.860522+00:00
-
- ## Home — Dragora.org
- - [https://dragora.org](https://dragora.org)
- - date_published: 2024-04-19T18:00:07+00:00
-
- ## Meditation Retreats and Mountain Retreats | Drala Mountain Center
- - [https://www.dralamountain.org](https://www.dralamountain.org)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## D.R.A.S.T.I.C. Research – D.R.A.S.T.I.C. Research
- - [https://drasticresearch.org](https://drasticresearch.org)
- - date_published: 2023-10-25T21:15:25.874666+00:00
-
- ## Home
- - [https://drawdown.org](https://drawdown.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Drawing Machines
- - [https://drawingmachines.org](https://drawingmachines.org)
- - date_published: 2024-06-12T12:44:14+00:00
-
- ## Free online drawing tools, SVG editor, generators, png converter
- - [http://www.drawsvg.org](http://www.drawsvg.org)
- - date_published: 2024-07-20T13:18:24.395923+00:00
-
- ## Douay-Rheims Bible Online, Official Catholic Version with Search.
- - [http://drbo.org](http://drbo.org)
- - date_published: 2023-06-14T21:58:57+00:00
-
- ## DRD Team Development Builds • News
- - [http://devbuilds.drdteam.org](http://devbuilds.drdteam.org)
- - date_published: 2024-06-21T14:34:59.908298+00:00
-
- ## Doomseeker - Cross platform Doom server browser.
- - [http://doomseeker.drdteam.org](http://doomseeker.drdteam.org)
- - date_published: 2024-07-11T12:41:41.521769+00:00
-
- ## DRD Team • News
- - [https://drdteam.org](https://drdteam.org)
- - date_published: 2024-06-21T14:34:47.259036+00:00
-
- ## Home
- - [https://dreamchallenges.org](https://dreamchallenges.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## DreamLarge
- - [https://www.dreamlarge.org](https://www.dreamlarge.org)
- - date_published: 2024-07-13T17:11:35.129241+00:00
-
- ## dream shrine
- - [https://dreamshrine.org](https://dreamshrine.org)
- - date_published: 2024-04-19T03:25:25+00:00
-
- ## 【𝚍𝚛𝚎𝚊𝚖𝚜░𝚒𝚗░𝚍𝚒𝚐𝚒𝚝𝚊𝚕】
- - [https://dreamsindigital.org](https://dreamsindigital.org)
- - date_published: 2024-06-23T18:51:38.469898+00:00
-
- ## 92_lina | Recent Entries
- - [http://92-lina.dreamwidth.org](http://92-lina.dreamwidth.org)
- - date_published: 2024-06-30T08:10:29.180473+00:00
-
- ## adastrafanfic | Recent Entries
- - [https://adastrafanfic.dreamwidth.org](https://adastrafanfic.dreamwidth.org)
- - date_published: 2024-05-01T02:26:36.455142+00:00
-
- ## afrikate | Recent Entries
- - [https://afrikate.dreamwidth.org](https://afrikate.dreamwidth.org)
- - date_published: 2024-07-16T19:15:40.170252+00:00
-
- ## Discretion Advised
- - [https://anna-unfolding.dreamwidth.org](https://anna-unfolding.dreamwidth.org)
- - date_published: 2024-07-16T19:15:55.535757+00:00
 

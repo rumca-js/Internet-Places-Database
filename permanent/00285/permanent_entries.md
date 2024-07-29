@@ -1,3 +1,280 @@
+ ## | Warexpo #LepiejCięTuWidzieć
+ - [https://warexpo.pl](https://warexpo.pl)
+ - date_published: 2024-07-14T05:27:31.021100+00:00
+
+ ## WarnerBros.pl | Strona z filmami, grami i nie tylko od WB.
+ - [https://www.warnerbros.pl](https://www.warnerbros.pl)
+ - date_published: 2024-06-11T23:10:46+00:00
+
+ ## Strona główna | Warner TV Polska
+ - [https://warnertv.pl](https://warnertv.pl)
+ - date_published: 2024-06-16T01:36:25.954055+00:00
+
+ ## Największy Festiwal popkultury w Polsce - Warsaw Comic Con
+ - [https://warsawcomiccon.pl](https://warsawcomiccon.pl)
+ - date_published: 2024-04-07T17:44:31+00:00
+ - tags: ['convention', 'comics']
+
+ ## Warsaw Gallery Weekend
+ - [https://warsawgalleryweekend.pl](https://warsawgalleryweekend.pl)
+ - date_published: 2023-08-25T00:00:00+00:00
+
+ ## Warner Bros. Discovery w Polsce | Pressroom
+ - [https://prasa.wbdpoland.pl](https://prasa.wbdpoland.pl)
+ - date_published: 2024-06-16T01:39:15.589368+00:00
+
+ ## Strona Główna
+ - [https://wbdpoland.pl](https://wbdpoland.pl)
+ - date_published: 2024-05-01T05:14:52.728136+00:00
+
+ ## GRUPA WB - Nasza rzeczywistość to wasza przyszłość
+ - [https://www.wbgroup.pl](https://www.wbgroup.pl)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## WBJ
+ - [https://wbj.pl](https://wbj.pl)
+ - date_published: 2024-07-14T05:36:28.043549+00:00
+
+ ## Wielkopolskie Centrum Onkologii - Zakład opieki zdrowotnej, radioterapia, chemioterapia, immunoterapia, chirurgia onkologiczna, ginekologia onkologiczna.
+ - [https://wco.pl](https://wco.pl)
+ - date_published: 2023-10-25T22:32:40.813278+00:00
+
+ ## Wrocławskie Centrum Rozwoju Społecznego – strona główna
+ - [https://wcrs.pl](https://wcrs.pl)
+ - date_published: 2024-07-17T15:44:08.331482+00:00
+
+ ## Wrocławskie Centrum Sprawiedliwości Naprawczej – Wrocławskie Centrum Integracji
+ - [https://www.wcsn.pl](https://www.wcsn.pl)
+ - date_published: 2024-07-17T15:44:00.923828+00:00
+
+ ## Webankieta – twórz ankiety online i formularze
+ - [https://www.webankieta.pl](https://www.webankieta.pl)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Logowanie - Sargas
+ - [http://sargas.webd.pl](http://sargas.webd.pl)
+ - date_published: 2024-07-10T02:05:22.187122+00:00
+
+ ## Artemida - Wojownicy PBF
+ - [http://www.artemida.webd.pl](http://www.artemida.webd.pl)
+ - date_published: 2024-07-12T15:10:44.879487+00:00
+
+ ## Strona główna
+ - [http://www.ojci3c.webd.pl](http://www.ojci3c.webd.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## WebHelp
+ - [http://webhelp.pl](http://webhelp.pl)
+ - date_published: 2020-12-14T11:51:53+00:00
+
+ ## Error 403
+ - [http://hydrolog.weblider24.pl](http://hydrolog.weblider24.pl)
+ - date_published: 2024-07-13T14:02:54.409509+00:00
+
+ ## Wirtualna Polska - Wszystko co ważne - www.wp.pl
+ - [http://www.soulmaniak.webpark.pl](http://www.soulmaniak.webpark.pl)
+ - date_published: 2024-07-17T12:14:45.780400+00:00
+
+ ## Sprawdzanie pozycji w Google - monitoring pozycji WebPozycja
+ - [https://webpozycja.pl](https://webpozycja.pl)
+ - date_published: 2024-07-11T16:33:11.027159+00:00
+
+ ## Strona Start - Węglokoks Energia
+ - [https://weglokoksenergia.pl](https://weglokoksenergia.pl)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Weleda - W harmonii z człowiekiem i z naturą od pon - Weleda
+ - [https://www.weleda.pl](https://www.weleda.pl)
+ - date_published: 2024-07-19T20:47:42.407571+00:00
+
+ ## Well.pl - dobra strona życia. Miejsce ekskluzywnych treści
+ - [https://www.well.pl](https://www.well.pl)
+ - date_published: 2024-07-14T05:22:51.750320+00:00
+
+ ## KOSZULKI - WERYNAJS
+ - [http://www.werynajs.pl](http://www.werynajs.pl)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Internetowy sklep meblowy | Westwing
+ - [https://www.westwing.pl](https://www.westwing.pl)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## naprawa pc laptop
+ - [https://naprawapclaptop.wex.pl](https://naprawapclaptop.wex.pl)
+ - date_published: 2024-07-11T16:33:20.527305+00:00
+
+ ## www.ua.wex.pl
+ - [https://ua.wex.pl](https://ua.wex.pl)
+ - date_published: 2024-07-11T16:33:18.056920+00:00
+
+ ## Strona Główna - Wytwórnia Filmów Fabularnych we Wrocławiu
+ - [https://wffwroclaw.pl](https://wffwroclaw.pl)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Manager reklam
+ - [https://marketing.wfirma.pl](https://marketing.wfirma.pl)
+ - date_published: 2024-07-19T23:02:23.833384+00:00
+
+ ## Księgowość online dla samozatrudnionych, JGD, małych firm, spółek i biur rachunkowych - wFirma.pl
+ - [https://wfirma.pl](https://wfirma.pl)
+ - date_published: 2024-07-19T23:02:21.349831+00:00
+
+ ## WHAT IF Oficjalny sklep internetowy
+ - [https://sklep.whatif.pl](https://sklep.whatif.pl)
+ - date_published: 2024-05-08T03:18:51.089840+00:00
+
+ ## WHAT IF Artist Management
+ - [https://whatif.pl](https://whatif.pl)
+ - date_published: 2024-07-03T17:13:31.682517+00:00
+
+ ## whiblo
+ - [https://pgl.whiblo.pl](https://pgl.whiblo.pl)
+ - date_published: 2024-05-09T11:50:36+00:00
+
+ ## Magazyn WhiteMAD - moda, architektura, design w jednym miejscu
+ - [https://www.whitemad.pl](https://www.whitemad.pl)
+ - date_published: 2024-07-19T21:56:06.215651+00:00
+
+ ## White Tiger - Digital Partner
+ - [https://whitetiger.pl](https://whitetiger.pl)
+ - date_published: 2024-06-28T19:21:24.766007+00:00
+
+ ## Strona domeny whus.pl
+ - [http://egzystencja.whus.pl](http://egzystencja.whus.pl)
+ - date_published: 2024-06-29T22:26:20.604050+00:00
+
+ ## Wiadomoscihandlowe.pl – wszystko na temat rynku FMCG, handlu detalicznego i hurtowej sprzedaży żywności
+ - [https://www.wiadomoscihandlowe.pl](https://www.wiadomoscihandlowe.pl)
+ - date_published: 2024-06-25T21:31:08.547423+00:00
+
+ ## WideoTłumacz PZG
+ - [https://um-lodz.wideotlumacz.pl](https://um-lodz.wideotlumacz.pl)
+ - date_published: 2023-06-23T06:46:46+00:00
+
+ ## Portal katolicki - chrześcijański - WieczorModlitwy.pl
+ - [http://www.wieczormodlitwy.pl](http://www.wieczormodlitwy.pl)
+ - date_published: 2024-07-17T07:09:00.531677+00:00
+
+ ## Strona główna - Wielka Litera
+ - [https://wielkalitera.pl](https://wielkalitera.pl)
+ - date_published: 2023-11-13T12:56:33.137385+00:00
+ - tags: ['book publisher']
+
+ ## Wielki Wschód Polski
+ - [https://wielkiwschod.pl](https://wielkiwschod.pl)
+ - date_published: 2023-12-27T10:57:16+00:00
+ - tags: ['freemasonry']
+
+ ## Serwis Wielkopolskiego Regionalnego Programu Operacyjnego na lata 2014 - 2020
+ - [https://wrpo.wielkopolskie.pl](https://wrpo.wielkopolskie.pl)
+ - date_published: 2024-07-13T19:04:49.177456+00:00
+
+ ## Strona Główna - Konkurs fotograficzny UMWW
+ - [https://www.fotokonkurs.wielkopolskie.pl](https://www.fotokonkurs.wielkopolskie.pl)
+ - date_published: 2024-07-13T19:04:42+00:00
+
+ ## Koleje Wielkopolskie – bilety i rozkład pociągów
+ - [https://bilet.wielkopolskiebilety.pl](https://bilet.wielkopolskiebilety.pl)
+ - date_published: 2024-07-13T19:04:44.251547+00:00
+
+ ## Wielkopolska i okolice - Wielkopolskie Wici
+ - [https://www.wielkopolskiewici.pl](https://www.wielkopolskiewici.pl)
+ - date_published: 2024-07-13T19:04:23.325863+00:00
+
+ ## Księgarnia internetowa Vivelo.pl  Sklep online
+ - [https://wiemiwybieram.pl](https://wiemiwybieram.pl)
+ - date_published: 2024-07-09T17:51:48.171262+00:00
+
+ ## Więź. Wiara, kultura, społeczeństwo
+ - [https://wiez.pl](https://wiez.pl)
+ - date_published: 2023-10-25T22:32:44.916878+00:00
+
+ ## Mariusz Pietrzyk (wijet)
+ - [https://wijet.pl](https://wijet.pl)
+ - date_published: 2018-06-15T00:00:00+00:00
+
+ ## Biuro Rachunkowe Lublin – Biuro Rachunkowe Lublin
+ - [https://wiki.pl](https://wiki.pl)
+ - date_published: 2024-07-14T17:24:08.102939+00:00
+
+ ## Strona główna
+ - [https://mokzgierz.bip.wikom.pl](https://mokzgierz.bip.wikom.pl)
+ - date_published: 2024-06-28T19:20:57.104889+00:00
+
+ ## Strona główna - Wing Person
+ - [https://wingperson.pl](https://wingperson.pl)
+ - date_published: 2023-11-03T00:00:00+00:00
+
+ ## Facebook
+ - [http://winnica-uj.pl](http://winnica-uj.pl)
+ - date_published: 2024-07-15T06:35:09.497149+00:00
+
+ ## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
+ - [https://m.wirtualnemedia.pl](https://m.wirtualnemedia.pl)
+ - date_published: 2023-10-25T22:32:51.254215+00:00
+
+ ## Media, Reklama, Internet, PR, Telewizja, Radio - najnowsze wiadomości tylko na WirtualneMedia.pl
+ - [https://www.wirtualnemedia.pl](https://www.wirtualnemedia.pl)
+ - date_published: 2023-10-25T10:33:38.734555+00:00
+
+ ## Bramy, okna, drzwi i ogrodzenia dla domu
+ - [https://www.wisniowski.pl](https://www.wisniowski.pl)
+ - date_published: 2024-07-09T13:23:48.537901+00:00
+
+ ## Teatr Witkacy
+ - [https://sendy.witkacy.pl](https://sendy.witkacy.pl)
+ - date_published: 2024-07-09T13:23:02.268336+00:00
+
+ ## Teatr Witkacy w Zakopanem
+ - [https://witkacy.pl](https://witkacy.pl)
+ - date_published: 2024-05-09T05:11:56.363824+00:00
+
+ ## Wizard's World • Strona główna forum
+ - [http://forum.wizardsworld.pl](http://forum.wizardsworld.pl)
+ - date_published: 2024-07-12T15:11:51.757131+00:00
+
+ ## Wykaz forów
+ - [http://wizardsworld.pl](http://wizardsworld.pl)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Największy portal urodowy w Polsce - opinie o kosmetykach, trendy w makijażu i pielęgnacji
+ - [https://wizaz.pl](https://wizaz.pl)
+ - date_published: 2024-06-20T07:15:00.986533+00:00
+
+ ## WKB Lawyers – Strona główna
+ - [https://wkb.pl](https://wkb.pl)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Własny Kurs Online – lista oczekujących - Własny Kurs Online
+ - [https://wlasnykurs.pl](https://wlasnykurs.pl)
+ - date_published: 2024-01-29T12:31:26+00:00
+
+ ## Własny sklep online – Poznaj tajniki sprzedaży w internecie
+ - [https://www.wlasnyskleponline.pl](https://www.wlasnyskleponline.pl)
+ - date_published: 2024-07-10T02:22:58.840737+00:00
+
+ ## Strona Główna – Wielkopolska 112
+ - [https://wlkp112.pl](https://wlkp112.pl)
+ - date_published: 2023-10-30T13:20:56.991457+00:00
+
+ ## https://wlnp.pl
+ - [https://wlnp.pl](https://wlnp.pl)
+ - date_published: 2023-12-05T15:22:03+00:00
+ - tags: ['freemasonry']
+
+ ## Włóczęga.pl - sklep dla miłośników gór, lasów i podróży
+ - [https://wloczega.pl](https://wloczega.pl)
+ - date_published: 2023-12-28T11:15:02+00:00
+ - tags: ['shop']
+
+ ## Wirtualne Muzeum Ożarów Mazowiecki – Ożarowów Mazowiecki i okolice w cyfrowym przekazie
+ - [https://wmom.pl](https://wmom.pl)
+ - date_published: 2024-07-19T21:56:09.583552+00:00
+
+ ## Wirtualne Spacery 3D Matterport - WNĘTRZA 3D
+ - [https://wnetrza3d.pl](https://wnetrza3d.pl)
+ - date_published: 2024-07-01T00:00:00+00:00
+
  ## wnp.pl - portal gospodarczy: przemysł, biznes, finanse
  - [https://www.wnp.pl](https://www.wnp.pl)
  - date_published: 2023-10-25T22:32:58.519968+00:00
@@ -2413,6 +2690,10 @@
  - [http://www.bertrand.pt](http://www.bertrand.pt)
  - date_published: 2024-07-12T20:56:23.894001+00:00
 
+ ## Big Picture Films
+ - [http://www.bigpicturefilms.pt](http://www.bigpicturefilms.pt)
+ - date_published: 2024-07-28T15:28:53.588422+00:00
+
  ## Criação de Websites e Marketing Digital | BinaryBrigade
  - [https://binarybrigade.pt](https://binarybrigade.pt)
  - date_published: 2024-07-09T19:53:56.677741+00:00
@@ -3753,280 +4034,4 @@
  ## João Pescada - Freelance Frontend UI/UX Creative Developer (Javascript, React, Angular, Node, Laravel) in London UK
  - [https://pescada.pt](https://pescada.pt)
  - date_published: 2024-07-02T22:56:43+00:00
-
- ## A manutenção do construtor - Peugeot
- - [https://oficinasonline.peugeot.pt](https://oficinasonline.peugeot.pt)
- - date_published: 2024-06-19T08:44:17.913325+00:00
-
- ## phoenixNAP: Data Center, Dedicada Servers, Cloud, & Colocação
- - [https://phoenixnap.pt](https://phoenixnap.pt)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Pinterest
- - [https://www.pinterest.pt](https://www.pinterest.pt)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home
- - [http://www.placer.pt](http://www.placer.pt)
- - date_published: 2024-07-02T19:00:49.946457+00:00
-
- ## Compete2020
- - [http://www.poci-compete2020.pt](http://www.poci-compete2020.pt)
- - date_published: 2024-07-09T19:53:31.564932+00:00
-
- ## pocketbook
- - [https://pocketbook.pt](https://pocketbook.pt)
- - date_published: 2024-07-20T16:11:55.956883+00:00
-
- ## Início - ePortugal.gov.pt
- - [https://www.portaldocidadao.pt](https://www.portaldocidadao.pt)
- - date_published: 2024-07-09T20:10:21.412452+00:00
-
- ## Portal do Eleitor
- - [http://www.portaldoeleitor.pt](http://www.portaldoeleitor.pt)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Abre Horizontes - Porto Editora
- - [http://www.portoeditora.pt](http://www.portoeditora.pt)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home - PT2020
- - [https://www.portugal2020.pt](https://www.portugal2020.pt)
- - date_published: 2021-02-02T06:45:59+00:00
-
- ## Home - Portugal-a-Programar
- - [https://www.portugal-a-programar.pt](https://www.portugal-a-programar.pt)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Melhores casinos online em Portugal
- - [https://www.portugalcasino.pt](https://www.portugalcasino.pt)
- - date_published: 2019-02-18T16:24:49+00:00
-
- ## Grupo Editorial Presença
- - [http://www.presenca.pt](http://www.presenca.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Portuguese Space Agency
- - [https://ptspace.pt](https://ptspace.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Artéria - Lisboa contada por quem a tem no coração
- - [https://arteria.publico.pt](https://arteria.publico.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## page
- - [https://comunique.publico.pt](https://comunique.publico.pt)
- - date_published: 2020-12-04T15:31:07+00:00
-
- ## Público Imobiliário
- - [https://imobiliario.publico.pt](https://imobiliario.publico.pt)
- - date_published: 2024-07-12T20:41:12.465377+00:00
-
- ## Loja Público
- - [https://loja.publico.pt](https://loja.publico.pt)
- - date_published: 2024-07-12T20:40:58.970714+00:00
-
- ## PÚBLICO
- - [https://static.publico.pt](https://static.publico.pt)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home - Vozes de Gaia
- - [https://vozesdegaia.publico.pt](https://vozesdegaia.publico.pt)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## PÚBLICO
- - [https://publico.pt](https://publico.pt)
- - date_published: 2024-05-10T06:15:48.860838+00:00
-
- ## PyCon Portugal 2023 Website
- - [https://2023.pycon.pt](https://2023.pycon.pt)
- - date_published: 2023-12-11T16:53:35+00:00
-
- ## PyCon Portugal 2024 Website
- - [https://2024.pycon.pt](https://2024.pycon.pt)
- - date_published: 2024-07-01T03:52:46.992728+00:00
-
- ## quidnovi.pt
- - [http://www.quidnovi.pt](http://www.quidnovi.pt)
- - date_published: 2024-07-12T20:50:11.364936+00:00
-
- ## about
- - [https://quiteade.pt](https://quiteade.pt)
- - date_published: 2024-07-22T11:46:09.289770+00:00
-
- ## Rádio online gratuita e transmissāo de música online
- - [https://www.radio.pt](https://www.radio.pt)
- - date_published: 2024-07-01T10:56:05.344184+00:00
-
- ## Rafael Albuquerque (rafaqueque)
- - [http://rafael.pt](http://rafael.pt)
- - date_published: 2024-05-29T20:59:32.195771+00:00
-
- ## Ralph Lauren® PT | Promoção de verão até 50% de desconto
- - [https://www.ralphlauren.pt](https://www.ralphlauren.pt)
- - date_published: 2024-06-19T23:58:36.332096+00:00
-
- ## Rui Carlos Gonçalves
- - [https://rcgoncalves.pt](https://rcgoncalves.pt)
- - date_published: 2024-05-08T03:15:38.189196+00:00
-
- ## Record: Tudo sobre desporto. Futebol, mercado, modalidades, resultados e classificações
- - [http://www.record.pt](http://www.record.pt)
- - date_published: 2024-06-25T18:52:17.480524+00:00
-
- ## relampago
- - [http://www.relampago.pt](http://www.relampago.pt)
- - date_published: 2022-03-29T21:57:15+00:00
-
- ## Relógio D'Água - Editores
- - [http://www.relogiodagua.pt](http://www.relogiodagua.pt)
- - date_published: 2023-09-19T10:14:46+00:00
-
- ## Rentals.pt - Casas, apartamentos e alojamento para férias
- - [https://www.rentals.pt](https://www.rentals.pt)
- - date_published: 2024-06-10T06:55:50.883934+00:00
-
- ## CITROËN COMPRE O SEU VEÍCULO - Avaliação gratuita do seu veículo
- - [https://www.retoma-citroen.pt](https://www.retoma-citroen.pt)
- - date_published: 2024-07-12T06:30:31.446254+00:00
-
- ## Ricardo Bernardo
- - [http://ricardobernardo.pt](http://ricardobernardo.pt)
- - date_published: 2024-01-23T19:17:44+00:00
-
- ## Rock in Rio Academy 2024
- - [https://rockinrioacademy.pt](https://rockinrioacademy.pt)
- - date_published: 2024-06-10T06:57:21.870118+00:00
-
- ## Rock in Rio Lisboa
- - [https://rockinriolisboa.pt](https://rockinriolisboa.pt)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Roma Editora
- - [http://roma-editora.pt](http://roma-editora.pt)
- - date_published: 2024-07-12T20:49:40.038164+00:00
-
- ## ROOFTOP EVA – Your summer start here
- - [https://rooftop-eva.pt](https://rooftop-eva.pt)
- - date_published: 2024-07-07T05:54:28.859070+00:00
-
- ## Antena 1 - RTP
- - [https://antena1.rtp.pt](https://antena1.rtp.pt)
- - date_published: 2024-05-09T06:22:39.314246+00:00
-
- ## RTP Arena - Esports
- - [http://arena.rtp.pt](http://arena.rtp.pt)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## RTP Arquivos
- - [https://arquivos.rtp.pt](https://arquivos.rtp.pt)
- - date_published: 2024-05-09T06:22:41.568773+00:00
-
- ## IIS7
- - [http://docweb.rtp.pt](http://docweb.rtp.pt)
- - date_published: 2010-04-21T17:24:24+00:00
-
- ## RTP Ensina
- - [https://ensina.rtp.pt](https://ensina.rtp.pt)
- - date_published: 2024-05-09T06:22:44.030543+00:00
-
- ## Museu Virtual da RTP
- - [https://museu.rtp.pt](https://museu.rtp.pt)
- - date_published: 2024-05-09T06:22:47.291315+00:00
-
- ## RTP | Comercial
- - [https://publicidade.rtp.pt](https://publicidade.rtp.pt)
- - date_published: 2024-05-09T06:22:54.498005+00:00
-
- ## RDP África - RTP
- - [https://rdpafrica.rtp.pt](https://rdpafrica.rtp.pt)
- - date_published: 2024-05-09T06:22:59.735075+00:00
-
- ## RTP África
- - [https://rtpafrica.rtp.pt](https://rtpafrica.rtp.pt)
- - date_published: 2024-05-09T06:22:52.497659+00:00
-
- ## RTP - Rádio e Televisão de Portugal
- - [https://rtp.pt](https://rtp.pt)
- - date_published: 2024-03-09T22:52:42.458441+00:00
-
- ## Página Inicial | 20 Anos Beleza Real
- - [https://20anosdebelezareal.sabado.pt](https://20anosdebelezareal.sabado.pt)
- - date_published: 2024-07-12T20:30:33.183014+00:00
-
- ## Home | La Dolce Vita
- - [https://ladolcevita.sabado.pt](https://ladolcevita.sabado.pt)
- - date_published: 2024-07-12T20:30:48.530844+00:00
-
- ## (M)Eu, Verso | Saúde em Poesia
- - [https://meuverso.sabado.pt](https://meuverso.sabado.pt)
- - date_published: 2024-07-12T20:30:13.218448+00:00
-
- ## Respeito | Respeito
- - [https://respeitopelaagua.sabado.pt](https://respeitopelaagua.sabado.pt)
- - date_published: 2024-07-12T20:31:06.724629+00:00
-
- ## SÁBADO
- - [http://www.sabado.pt](http://www.sabado.pt)
- - date_published: 2024-06-25T18:52:58.455811+00:00
-
- ## Início
- - [https://21tv.sapo.pt](https://21tv.sapo.pt)
- - date_published: 2024-06-10T07:00:24.839276+00:00
-
- ## SAPO 24
- - [http://24.sapo.pt](http://24.sapo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## A espuma dos dias
- - [https://aespumadosdias.blogs.sapo.pt](https://aespumadosdias.blogs.sapo.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## A Gata Christie
- - [http://agatachristie.blogs.sapo.pt](http://agatachristie.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:59.167961+00:00
-
- ## Ainda Há Bilhetes
- - [https://aindahabilhetes.blogs.sapo.pt](https://aindahabilhetes.blogs.sapo.pt)
- - date_published: 2024-07-12T20:33:43.196818+00:00
-
- ## SAPO Alertas
- - [https://alertas.sapo.pt](https://alertas.sapo.pt)
- - date_published: 2024-06-10T06:58:14.808868+00:00
-
- ## Almadense - As notícias de Almada
- - [https://almadense.sapo.pt](https://almadense.sapo.pt)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Portugal Amanhã - Pensar o futuro do país.
- - [https://amanha.sapo.pt](https://amanha.sapo.pt)
- - date_published: 2024-06-10T06:57:34.691310+00:00
-
- ## Home - Amarante Magazine
- - [https://amarantemagazine.sapo.pt](https://amarantemagazine.sapo.pt)
- - date_published: 2024-06-10T06:57:38.520181+00:00
-
- ## Jornal A Nação - jornal online, íntegros e atuais.
- - [https://anacao.sapo.pt](https://anacao.sapo.pt)
- - date_published: 2024-06-10T06:59:43.854175+00:00
-
- ## antologia
- - [http://antologia.blogs.sapo.pt](http://antologia.blogs.sapo.pt)
- - date_published: 2024-07-12T21:01:48.446471+00:00
-
- ## Home
- - [https://aponte.sapo.pt](https://aponte.sapo.pt)
- - date_published: 2024-06-10T06:58:12.060982+00:00
-
- ## A Psique de Guilherme
- - [https://apsiquedeguilherme.blogs.sapo.pt](https://apsiquedeguilherme.blogs.sapo.pt)
- - date_published: 2024-07-12T20:29:53.682240+00:00
-
- ## Auto SAPO - Comprar e vender carros
- - [https://auto.sapo.pt](https://auto.sapo.pt)
- - date_published: 2024-06-10T06:58:09.547938+00:00
-
- ## A Voz de Évora - Imprensa Regional
- - [https://avozdeevora.sapo.pt](https://avozdeevora.sapo.pt)
- - date_published: 2024-06-10T07:00:16.278296+00:00
 

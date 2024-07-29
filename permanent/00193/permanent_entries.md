@@ -1,3 +1,171 @@
+ ## Peter Sheridan Dodds
+ - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
+ - date_published: 2023-09-11T20:10:44+00:00
+
+ ## University of Vermont ScholarWorks
+ - [http://scholarworks.uvm.edu](http://scholarworks.uvm.edu)
+ - date_published: 2024-07-02T12:28:08.536005+00:00
+
+ ## SFX Version 4 for Linux by Ex Libris
+ - [http://sfx.uvm.edu](http://sfx.uvm.edu)
+ - date_published: 2014-12-16T08:20:08+00:00
+
+ ## Silver Special Collections Library | Silver Special Collections Library
+ - [https://specialcollections.uvm.edu](https://specialcollections.uvm.edu)
+ - date_published: 2024-07-02T12:28:19.245882+00:00
+
+ ## Taras I.Lakoba - University Of Vermont
+ - [https://tlakoba.w3.uvm.edu](https://tlakoba.w3.uvm.edu)
+ - date_published: 2023-10-25T19:05:38.861859+00:00
+
+ ## Welcome | The UVM Bookstore
+ - [https://uvmbookstore.uvm.edu](https://uvmbookstore.uvm.edu)
+ - date_published: 2024-07-02T12:27:42.119097+00:00
+
+ ## UVM Homepage | The University of Vermont
+ - [https://uvmd10.drup2.uvm.edu](https://uvmd10.drup2.uvm.edu)
+ - date_published: 2024-07-02T12:27:40.062966+00:00
+
+ ## The University of Vermont
+ - [https://uvmd9.drup2.uvm.edu](https://uvmd9.drup2.uvm.edu)
+ - date_published: 2024-05-07T22:16:46.865139+00:00
+
+ ## The University of Vermont
+ - [https://uvmd9.uvm.edu](https://uvmd9.uvm.edu)
+ - date_published: 2024-05-07T22:16:08.189149+00:00
+
+ ## UVM Libraries Catalog
+ - [http://voyager.uvm.edu](http://voyager.uvm.edu)
+ - date_published: 2024-01-12T19:55:06+00:00
+
+ ## Home Page
+ - [https://www.alumni.uvm.edu](https://www.alumni.uvm.edu)
+ - date_published: 2024-05-07T22:16:44.573691+00:00
+
+ ## Larner College of Medicine at The University of Vermont
+ - [https://med.uvm.edu](https://med.uvm.edu)
+ - date_published: 2024-05-07T22:16:35.188877+00:00
+
+ ## https://www.uvm.edu
+ - [https://uvm.edu](https://uvm.edu)
+ - date_published: 2024-01-09T03:28:49.823820+00:00
+
+ ## News
+ - [http://ads-institute.uw.edu](http://ads-institute.uw.edu)
+ - date_published: 2020-11-17T05:45:28+00:00
+
+ ## College of Arts & Sciences | University of Washington
+ - [https://artsci.uw.edu](https://artsci.uw.edu)
+ - date_published: 2024-06-29T21:13:11+00:00
+
+ ## ArtsUW Events | Arts Events
+ - [https://artsevents.uw.edu](https://artsevents.uw.edu)
+ - date_published: 2024-07-02T13:43:35.865644+00:00
+
+ ## Default - AskUs
+ - [https://ask.lib.uw.edu](https://ask.lib.uw.edu)
+ - date_published: 2024-07-02T13:49:08.291911+00:00
+
+ ## Behavioral Data Science - Home
+ - [http://bdata.uw.edu](http://bdata.uw.edu)
+ - date_published: 2023-10-17T23:52:31+00:00
+
+ ## UW NetID sign-in
+ - [http://canvas.uw.edu](http://canvas.uw.edu)
+ - date_published: 2024-07-02T13:48:31.918662+00:00
+
+ ## Home page
+ - [https://ciso.uw.edu](https://ciso.uw.edu)
+ - date_published: 2024-06-16T09:31:37.044666+00:00
+
+ ## CJMD | Center for Journalism, Media & Democracy - UW Communications
+ - [https://cjmd.com.uw.edu](https://cjmd.com.uw.edu)
+ - date_published: 2024-07-21T07:18:45.118484+00:00
+
+ ## Communication Leadership Degrees
+ - [https://commlead.uw.edu](https://commlead.uw.edu)
+ - date_published: 2024-04-30T05:44:29.669517+00:00
+
+ ## Main Home
+ - [https://comotion.uw.edu](https://comotion.uw.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Department of Communication
+ - [https://com.uw.edu](https://com.uw.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## ConnectedLib
+ - [https://connectedlib.ischool.uw.edu](https://connectedlib.ischool.uw.edu)
+ - date_published: 2024-07-01T22:53:22.553368+00:00
+
+ ## UW Facilities Home | UW Facilities
+ - [https://cpd.uw.edu](https://cpd.uw.edu)
+ - date_published: 2024-07-02T13:46:59.216397+00:00
+
+ ## CREATE
+ - [https://create.uw.edu](https://create.uw.edu)
+ - date_published: 2024-07-02T13:32:38.296442+00:00
+
+ ## UW Center for Speech & Debate
+ - [https://csd.com.uw.edu](https://csd.com.uw.edu)
+ - date_published: 2024-07-21T07:18:41.956748+00:00
+
+ ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
+ - [https://cse.uw.edu](https://cse.uw.edu)
+ - date_published: 2024-07-01T19:52:49.242137+00:00
+
+ ## Campus Sustainability Fund | Campus Sustainability Fund (CSF)
+ - [https://csf.uw.edu](https://csf.uw.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Departments | University of Washington Tacoma Directory
+ - [https://directory.tacoma.uw.edu](https://directory.tacoma.uw.edu)
+ - date_published: 2024-07-02T07:27:38+00:00
+
+ ## UW Faculty/Staff/Student Directory
+ - [https://directory.uw.edu](https://directory.uw.edu)
+ - date_published: 2024-05-07T22:27:48.475503+00:00
+
+ ## HCI & Design at the University of Washington
+ - [http://dub.uw.edu](http://dub.uw.edu)
+ - date_published: 2024-06-27T21:54:25+00:00
+
+ ## Home – Your source for Workday support
+ - [https://employeehelp.workday.uw.edu](https://employeehelp.workday.uw.edu)
+ - date_published: 2024-05-07T22:27:55.830226+00:00
+
+ ## University of Washington College of Engineering
+ - [https://engr.uw.edu](https://engr.uw.edu)
+ - date_published: 2024-06-15T17:36:41.392027+00:00
+
+ ## Home
+ - [https://environment.uw.edu](https://environment.uw.edu)
+ - date_published: 2024-07-02T13:19:36+00:00
+
+ ## UW Facilities Home | UW Facilities
+ - [https://facilities.uw.edu](https://facilities.uw.edu)
+ - date_published: 2024-07-02T13:45:35.502419+00:00
+
+ ## Welcome to UW Finance | UW Finance
+ - [https://finance.uw.edu](https://finance.uw.edu)
+ - date_published: 2024-05-07T22:27:25.446993+00:00
+
+ ## UW Graduate School
+ - [https://grad.uw.edu](https://grad.uw.edu)
+ - date_published: 2024-07-02T13:33:02.348485+00:00
+
+ ## UW Sustainability
+ - [https://green.uw.edu](https://green.uw.edu)
+ - date_published: 2024-07-02T13:24:39+00:00
+
+ ## Library Guides
+ - [http://guides.lib.uw.edu](http://guides.lib.uw.edu)
+ - date_published: 2024-07-02T13:48:56.131305+00:00
+
+ ## Human Centered Design & Engineering
+ - [https://hcde.uw.edu](https://hcde.uw.edu)
+ - date_published: 2024-04-30T05:44:54.438685+00:00
+
  ## Housing & Food Services - UW HFS
  - [https://hfs.uw.edu](https://hfs.uw.edu)
  - date_published: 2024-05-07T22:27:30.814550+00:00
@@ -3831,175 +3999,4 @@
  ## Homepage - Wake Forest Pre-College Programs
  - [https://precollege.wfu.edu](https://precollege.wfu.edu)
  - date_published: 2024-06-28T12:24:06+00:00
-
- ## Prehealth @ WFU – Prehealth Professions @ WFU
- - [http://prehealth.wfu.edu](http://prehealth.wfu.edu)
- - date_published: 2024-07-01T06:39:22.392994+00:00
-
- ## Pre-Law Advising | Wake Forest University
- - [https://prelaw.wfu.edu](https://prelaw.wfu.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Office of the President | Wake Forest University
- - [https://president.wfu.edu](https://president.wfu.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Pre-Wall Street Career Track - Pre-Wall Street Career Track
- - [https://prewallstreetcareertrack.wfu.edu](https://prewallstreetcareertrack.wfu.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Provost Office Homepage - Office of the Provost
- - [https://provost.wfu.edu](https://provost.wfu.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Office of the University Registrar | Wake Forest University
- - [https://registrar.wfu.edu](https://registrar.wfu.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Research at Wake Forest University | Wake Forest University
- - [https://research.wfu.edu](https://research.wfu.edu)
- - date_published: 2024-06-29T11:20:26+00:00
-
- ## Staff Advisory Council - Staff Advisory Council
- - [https://sac.wfu.edu](https://sac.wfu.edu)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Deacon Health | Wake Forest University
- - [https://shs.wfu.edu](https://shs.wfu.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home - Social Media
- - [https://social.wfu.edu](https://social.wfu.edu)
- - date_published: 2024-05-07T22:28:45.337154+00:00
-
- ## Home Page
- - [https://sps.wfu.edu](https://sps.wfu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Wake Forest University Status
- - [https://status.is.wfu.edu](https://status.is.wfu.edu)
- - date_published: 2024-07-02T14:13:32.006500+00:00
-
- ## Student Employment | Wake Forest University
- - [https://studentemployment.wfu.edu](https://studentemployment.wfu.edu)
- - date_published: 2024-07-02T13:07:50+00:00
-
- ## WFU - Study Abroad | Engage in your world class experience. Study Abroad.
- - [https://studyabroad.wfu.edu](https://studyabroad.wfu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## About Us - Office of Wellbeing
- - [https://thrive.wfu.edu](https://thrive.wfu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Title IX and Sexual Misconduct - Title IX and Sexual Misconduct
- - [https://titleix.wfu.edu](https://titleix.wfu.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Wake Alert
- - [https://wakealert.wfu.edu](https://wakealert.wfu.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Wake Downtown | Wake Forest University
- - [https://wakedowntown.wfu.edu](https://wakedowntown.wfu.edu)
- - date_published: 2024-06-27T14:33:07+00:00
-
- ## Wake Alert
- - [https://wakeready.wfu.edu](https://wakeready.wfu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home - Wake Washington Center
- - [https://washington.wfu.edu](https://washington.wfu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Webcam | Wake Forest University
- - [https://webcam.wfu.edu](https://webcam.wfu.edu)
- - date_published: 2024-06-27T15:08:17+00:00
-
- ## Wake Forest University
- - [https://wfu.edu](https://wfu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## WFU | Wake Information Network
- - [https://win.wfu.edu](https://win.wfu.edu)
- - date_published: 2021-03-10T15:19:10+00:00
-
- ## ZSR Library - Wake Forest University
- - [https://zsr.wfu.edu](https://zsr.wfu.edu)
- - date_published: 2024-07-02T14:06:09.631775+00:00
-
- ## Western Governors University – Online College
- - [https://www.wgu.edu](https://www.wgu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Wheaton College Catalog < Wheaton College, IL
- - [https://catalog.wheaton.edu](https://catalog.wheaton.edu)
- - date_published: 2024-06-25T17:21:46+00:00
-
- ## TERMINALFOUR
- - [https://cms.wheaton.edu](https://cms.wheaton.edu)
- - date_published: 2024-06-29T21:38:46.216769+00:00
-
- ## Home
- - [https://go.wheaton.edu](https://go.wheaton.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home
- - [https://wheaton.edu](https://wheaton.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Explore Featured Collections | Whitman College
- - [https://arminda.whitman.edu](https://arminda.whitman.edu)
- - date_published: 2024-06-20T19:28:12+00:00
-
- ## How Do I + - How do I +
- - [https://asklibrarian.whitman.edu](https://asklibrarian.whitman.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Whitman College Blogs
- - [https://blogs.whitman.edu](https://blogs.whitman.edu)
- - date_published: 2024-07-02T14:17:34+00:00
-
- ## Events Calendar
-    
-    
-     - Events Calendar
- - [https://calendar.whitman.edu](https://calendar.whitman.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## 2024-2025 Catalog | Whitman College
- - [https://catalog.whitman.edu](https://catalog.whitman.edu)
- - date_published: 2024-06-25T16:22:07+00:00
-
- ## Whitman Connect
- - [https://connect.whitman.edu](https://connect.whitman.edu)
- - date_published: 2024-05-07T22:30:06.098501+00:00
-
- ## Admission & Aid
- - [https://engage.whitman.edu](https://engage.whitman.edu)
- - date_published: 2024-05-07T22:29:52.715851+00:00
-
- ## Penrose Library, Whitman College, Walla Walla, WA
- - [https://library.whitman.edu](https://library.whitman.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Whitman College
- - [https://whitman.edu](https://whitman.edu)
- - date_published: 2024-02-16T07:45:43.452013+00:00
-
- ## OBSIC
- - [https://obsic.whoi.edu](https://obsic.whoi.edu)
- - date_published: 2024-07-09T15:38:45+00:00
-
- ## Woods Hole Oceanographic Institution
- - [https://www.whoi.edu](https://www.whoi.edu)
- - date_published: 2024-07-01T21:24:32+00:00
-
- ## Home
- - [https://wcet.wiche.edu](https://wcet.wiche.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Blackboard Learn
- - [https://blackboard.wichita.edu](https://blackboard.wichita.edu)
- - date_published: 2004-07-07T04:30:52+00:00
 

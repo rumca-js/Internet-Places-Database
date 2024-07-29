@@ -1,3 +1,55 @@
+ ## 科技频道-中华网
+ - [https://m.tech.china.com](https://m.tech.china.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## 中华网—弘扬中华文化，共创全球华人精神家园
+ - [https://www.china.com](https://www.china.com)
+ - date_published: 2024-06-30T17:53:22.759968+00:00
+
+ ## China Books Review
+ - [https://chinabooksreview.com](https://chinabooksreview.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Business, Legal, Tax, Accounting, HR, Payroll News | China Briefing
+ - [https://www.china-briefing.com](https://www.china-briefing.com)
+ - date_published: 2024-04-29T03:12:08.916774+00:00
+
+ ## ChinaCarHistory
+ - [https://chinacarhistory.com](https://chinacarhistory.com)
+ - date_published: 2023-10-25T13:22:13.022336+00:00
+
+ ## 国家发展和改革委员会宏观经济杂志社理事会
+ - [http://www.chinacetm.com](http://www.chinacetm.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## 人民画报社韩文版월간 중국
+ - [http://www.chinacorea.com](http://www.chinacorea.com)
+ - date_published: 2024-06-18T02:15:31+00:00
+
+ ## 精选-重庆商报
+ - [http://www.chinacqsb.com](http://www.chinacqsb.com)
+ - date_published: 2017-07-07T00:00:00+00:00
+
+ ## EV Marketplace
+ - [https://marketplace.china-crunch.com](https://marketplace.china-crunch.com)
+ - date_published: 2024-05-08T04:30:08.785035+00:00
+
+ ## China Daily
+ - [http://www.chinadailyasia.com](http://www.chinadailyasia.com)
+ - date_published: 2024-04-30T06:26:06.404528+00:00
+
+ ## Global Edition
+ - [http://chinadailyglobal.com](http://chinadailyglobal.com)
+ - date_published: 2024-05-09T06:03:46.783948+00:00
+
+ ## Tungsten Dart - Tungsten Dart, Tungsten Alloy Dart Manufacturer and Supplier
+ - [http://www.chinadart.com](http://www.chinadart.com)
+ - date_published: 2021-12-16T08:27:48+00:00
+
+ ## 环境影响评价网
+ - [http://www.china-eia.com](http://www.china-eia.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## ChinaFile | China, Journalism, Current Affairs
  - [https://chinafile.com](https://chinafile.com)
  - date_published: 2024-01-31T00:00:00+00:00
@@ -1540,6 +1592,10 @@
  ## Chris Wu
  - [https://chriswu.com](https://chriswu.com)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## CHRIS YOUNG
+ - [https://www.chrisyoungcountry.com](https://www.chrisyoungcountry.com)
+ - date_published: 2024-07-28T03:57:45.020884+00:00
 
  ## Chris Zacharias
  - [https://blog.chriszacharias.com](https://blog.chriszacharias.com)
@@ -3999,60 +4055,4 @@
  ## City Water Heater – Get your hot water heater repaired or replaced fast
  - [https://citywaterheater.com](https://citywaterheater.com)
  - date_published: 2024-02-08T17:47:12.622764+00:00
-
- ## City Winery | Restaurant, Winery, Live Music & Event Venue
- - [https://citywinery.com](https://citywinery.com)
- - date_published: 2024-05-04T14:04:59.648457+00:00
-
- ## Instituto Distrital de Protección y Bienestar Animal - Ciudadano de 4 patas - Identificación por Microchips | Identificación por Microchips
- - [https://ciudadano4patas.com](https://ciudadano4patas.com)
- - date_published: 2024-06-11T23:44:39.040061+00:00
-
- ## Instituto Distrital de Protección y Bienestar Animal - Ciudadano de 4 patas - Identificación por Microchips | Identificación por Microchips
- - [http://www.ciudadano4patas.com](http://www.ciudadano4patas.com)
- - date_published: 2024-06-11T23:15:17.886904+00:00
-
- ## Inicio - Ciudad Empresarial Sarmiento Angulo
- - [http://ciudad-empresarial.com](http://ciudad-empresarial.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Civade.com
- - [https://www.civade.com](https://www.civade.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Civic Pass | trust, control and safety for digital identity
- - [https://civic.com](https://civic.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Public Portal • CivicClerk
- - [https://charlestonwv.civicclerk.com](https://charlestonwv.civicclerk.com)
- - date_published: 2024-07-15T05:15:18+00:00
-
- ## Public Portal • CivicClerk
- - [https://charlestonwv.portal.civicclerk.com](https://charlestonwv.portal.civicclerk.com)
- - date_published: 2024-07-15T05:15:18+00:00
-
- ## CIVIC
- - [https://apikeys.civiccomputing.com](https://apikeys.civiccomputing.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://stats.civiccomputing.com](https://stats.civiccomputing.com)
- - date_published: 2024-06-29T11:47:02.236487+00:00
-
- ## Voter Guide
- - [https://app.ipl.civicengine.com](https://app.ipl.civicengine.com)
- - date_published: 2024-06-10T19:18:29+00:00
-
- ## Civic Game Jam – We want better stories
- - [https://civicgamejam.com](https://civicgamejam.com)
- - date_published: 2024-05-06T06:33:21.197196+00:00
-
- ## Civic Impulse, LLC — The Intersection of Civics and Technology
- - [https://civicimpulse.com](https://civicimpulse.com)
- - date_published: 2016-11-26T22:30:29+00:00
-
- ## Web Posting Information
- - [https://cdnsm1-clradscript.civiclive.com](https://cdnsm1-clradscript.civiclive.com)
- - date_published: 2023-09-05T17:50:10+00:00
 

@@ -1,3 +1,171 @@
+ ## Columbia University Irving Medical Center
+ - [https://cumc.columbia.edu](https://cumc.columbia.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Columbia University Press Website | Home
+ - [https://cup.columbia.edu](https://cup.columbia.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Columbia University Data Science Institute
+ - [https://datascience.columbia.edu](https://datascience.columbia.edu)
+ - date_published: 2024-04-30T03:56:55.595507+00:00
+
+ ## Columbia Giving
+ - [https://datasociety.givenow.columbia.edu](https://datasociety.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:47.135844+00:00
+
+ ## The Roger Lehecka Double Discovery Center
+ - [https://ddc.college.columbia.edu](https://ddc.college.columbia.edu)
+ - date_published: 2024-04-30T03:56:48.123202+00:00
+
+ ## DextAIRity: Deformable Manipulation Can be a Breeze
+ - [https://dextairity.cs.columbia.edu](https://dextairity.cs.columbia.edu)
+ - date_published: 2023-02-28T20:29:15+00:00
+
+ ## Diffusion Models for Robotics Control
+ - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
+ - date_published: 2023-12-14T04:53:26+00:00
+
+ ## Columbia University: Directory
+ - [https://directory.columbia.edu](https://directory.columbia.edu)
+ - date_published: 2024-04-30T03:57:20.283569+00:00
+
+ ## CU Directory of Classes
+ - [https://doc.sis.columbia.edu](https://doc.sis.columbia.edu)
+ - date_published: 2024-07-22T05:55:39.070614+00:00
+
+ ## Find the nearest Columbia University Irving Medical Center Doctor near you | family physicians, pediatricians, surgeons
+ - [https://doctors.columbia.edu](https://doctors.columbia.edu)
+ - date_published: 2024-04-30T03:57:12.879681+00:00
+
+ ## Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
+ - [https://dreamitate.cs.columbia.edu](https://dreamitate.cs.columbia.edu)
+ - date_published: 2024-06-30T18:12:18+00:00
+
+ ## Learning 3D Dynamic Scene Representations for Robot Manipulation
+ - [https://dsr-net.cs.columbia.edu](https://dsr-net.cs.columbia.edu)
+ - date_published: 2022-10-12T21:54:27+00:00
+
+ ## Earth Day
+ - [https://earthday.columbia.edu](https://earthday.columbia.edu)
+ - date_published: 2024-04-30T03:49:15.495140+00:00
+
+ ## Department of Earth and Environmental Sciences
+ - [https://eesc.columbia.edu](https://eesc.columbia.edu)
+ - date_published: 2024-07-02T19:45:18+00:00
+
+ ## Home - Columbia Entrepreneurship
+ - [https://entrepreneurship.columbia.edu](https://entrepreneurship.columbia.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Equal Opportunity and Affirmative Action
+ - [https://eoaa.columbia.edu](https://eoaa.columbia.edu)
+ - date_published: 2024-04-30T03:55:44.508591+00:00
+
+ ## Columbia University Events Calendar
+ - [https://events.columbia.edu](https://events.columbia.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Facilities and Operations
+ - [http://facilities.columbia.edu](http://facilities.columbia.edu)
+ - date_published: 2024-07-05T18:15:22+00:00
+
+ ## Feedback
+ - [https://feedback.cul.columbia.edu](https://feedback.cul.columbia.edu)
+ - date_published: 2024-07-22T05:45:10.694920+00:00
+
+ ## Columbia University Libraries Finding Aids
+ - [https://findingaids.library.columbia.edu](https://findingaids.library.columbia.edu)
+ - date_published: 2024-07-02T10:27:36.749111+00:00
+
+ ## Users
+ - [https://forms.alumdev.columbia.edu](https://forms.alumdev.columbia.edu)
+ - date_published: 2024-04-30T03:48:21.638479+00:00
+
+ ## Columbia Giving
+ - [https://futureofneuroscience.givenow.columbia.edu](https://futureofneuroscience.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:43.708601+00:00
+
+ ## GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion
+ - [https://garmentnets.cs.columbia.edu](https://garmentnets.cs.columbia.edu)
+ - date_published: 2021-09-27T00:38:01+00:00
+
+ ## Government and Community Affairs | Office of Public Affairs
+ - [https://gca.columbia.edu](https://gca.columbia.edu)
+ - date_published: 2024-04-30T03:55:41.248565+00:00
+
+ ## Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis - Columbia Computer Vision Lab
+ - [https://gcd.cs.columbia.edu](https://gcd.cs.columbia.edu)
+ - date_published: 2024-07-21T19:30:39+00:00
+
+ ## pix2gestalt: Amodal Segmentation by Synthesizing Wholes
+ - [https://gestalt.cs.columbia.edu](https://gestalt.cs.columbia.edu)
+ - date_published: 2024-06-25T13:26:48+00:00
+
+ ## Why We Give
+ - [https://giftplanning.columbia.edu](https://giftplanning.columbia.edu)
+ - date_published: 2024-07-22T05:44:55.936992+00:00
+
+ ## Columbia Giving
+ - [https://givenow.columbia.edu](https://givenow.columbia.edu)
+ - date_published: 2024-04-30T03:57:10.913005+00:00
+
+ ## Homepage
+ - [https://giving.columbia.edu](https://giving.columbia.edu)
+ - date_published: 2024-04-30T03:55:48.094993+00:00
+
+ ## Columbia Giving Day 2024
+ - [http://givingday.columbia.edu](http://givingday.columbia.edu)
+ - date_published: 2024-07-22T05:31:41.174502+00:00
+
+ ## Columbia Global Centers
+ - [https://globalcenters.columbia.edu](https://globalcenters.columbia.edu)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Columbia Giving
+ - [https://globalsolutions.givenow.columbia.edu](https://globalsolutions.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:50.536044+00:00
+
+ ## Grossman Center
+ - [http://grossmancenter.columbia.edu](http://grossmancenter.columbia.edu)
+ - date_published: 2024-07-22T05:55:23.864020+00:00
+
+ ## School of General Studies
+ - [https://gs.columbia.edu](https://gs.columbia.edu)
+ - date_published: 2024-07-08T08:43:29+00:00
+
+ ## Columbia Health
+ - [http://health.columbia.edu](http://health.columbia.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Grades of Heat
+ - [https://heat.brown.columbia.edu](https://heat.brown.columbia.edu)
+ - date_published: 2023-09-18T17:33:36+00:00
+
+ ## Department of History - Columbia University
+ - [https://history.columbia.edu](https://history.columbia.edu)
+ - date_published: 2024-06-30T08:33:13+00:00
+
+ ## Library Hours and Locations Open Now | Columbia University Libraries
+ - [https://hours.library.columbia.edu](https://hours.library.columbia.edu)
+ - date_published: 2024-07-22T05:45:03.188025+00:00
+
+ ## The Hub
+ - [https://hub.zi.columbia.edu](https://hub.zi.columbia.edu)
+ - date_published: 2023-07-23T05:31:46+00:00
+
+ ## Learning the Predictability of the Future - Columbia Computer Vision
+ - [https://hyperfuture.cs.columbia.edu](https://hyperfuture.cs.columbia.edu)
+ - date_published: 2023-04-28T19:04:55+00:00
+
+ ## Error Page
+ - [https://internal.zi.columbia.edu](https://internal.zi.columbia.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
+ - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
+ - date_published: 2022-07-01T02:01:20+00:00
+
  ## Institute for Social and Economic Research and Policy (ISERP)
  - [http://iserp.columbia.edu](http://iserp.columbia.edu)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -3832,172 +4000,4 @@
  ## MachForm Admin Panel
  - [https://webforms.fiu.edu](https://webforms.fiu.edu)
  - date_published: 2024-04-30T04:14:47.420081+00:00
-
- ## Welcome to FIU
- - [https://welcome.fiu.edu](https://welcome.fiu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Knight Foundation School of Computing and Information Sciences
- - [http://www.cis.fiu.edu](http://www.cis.fiu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home | FCI
- - [https://www.fivecolleges.edu](https://www.fivecolleges.edu)
- - date_published: 2024-07-02T03:20:06.383023+00:00
-
- ## Home - Tallahassee State College
- - [https://www.tsc.fl.edu](https://www.tsc.fl.edu)
- - date_published: 2024-07-19T14:00:18+00:00
-
- ## Where history begins. | Flagler College
- - [http://www.flagler.edu](http://www.flagler.edu)
- - date_published: 2024-06-28T15:47:44+00:00
-
- ## State University System of Florida
- - [https://flbog.edu](https://flbog.edu)
- - date_published: 2024-04-30T04:16:15.757109+00:00
-
- ## Catalog of the Folger Shakespeare Library
- - [https://catalog.folger.edu](https://catalog.folger.edu)
- - date_published: 2024-06-29T10:01:54.851307+00:00
-
- ## Collation | Folger Shakespeare Library
- - [https://collation.folger.edu](https://collation.folger.edu)
- - date_published: 2024-05-07T10:20:20.322787+00:00
-
- ## Events | Folger Shakespeare Library
- - [https://events.folger.edu](https://events.folger.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Explore the Collection | Digital Collections
- - [https://luna.folger.edu](https://luna.folger.edu)
- - date_published: 2024-06-22T00:36:48+00:00
-
- ## Home | Folger Shakespeare Library
- - [https://folger.edu](https://folger.edu)
- - date_published: 2024-05-07T10:25:33.742212+00:00
-
- ## Fontbonne University – Soar Higher
- - [http://www.fontbonne.edu](http://www.fontbonne.edu)
- - date_published: 2024-07-15T06:04:12.731753+00:00
-
- ## Foothill College | Home - Foothill College
- - [https://foothill.edu](https://foothill.edu)
- - date_published: 2024-05-09T08:42:05.495631+00:00
-
- ## Fordham University Directory
- - [https://411.fordham.edu](https://411.fordham.edu)
- - date_published: 2024-06-24T10:00:58.718665+00:00
-
- ## Undergraduate Admission | Fordham
- - [https://admission.fordham.edu](https://admission.fordham.edu)
- - date_published: 2024-06-24T10:00:45.157268+00:00
-
- ## Fordham University
- - [http://curapersonalis.fordham.edu](http://curapersonalis.fordham.edu)
- - date_published: 2024-06-24T09:59:49.219234+00:00
-
- ## FLASH Archive
- - [https://ir.lawnet.fordham.edu](https://ir.lawnet.fordham.edu)
- - date_published: 2024-05-07T09:30:23.197658+00:00
-
- ## School of Law | Fordham School of Law
- - [http://law.fordham.edu](http://law.fordham.edu)
- - date_published: 2024-06-17T11:16:21.529005+00:00
-
- ## redirect
- - [http://lawlib1.lawnet.fordham.edu](http://lawlib1.lawnet.fordham.edu)
- - date_published: 2024-06-29T06:05:52.367247+00:00
-
- ## Fordham University
- - [https://myapps.web.fordham.edu](https://myapps.web.fordham.edu)
- - date_published: 2024-06-24T10:01:00.071664+00:00
-
- ## Login - CAS – Central Authentication Service
- - [https://my.fordham.edu](https://my.fordham.edu)
- - date_published: 2024-06-24T10:00:30.360638+00:00
-
- ## Fordham Now
- - [https://news.fordham.edu](https://news.fordham.edu)
- - date_published: 2024-06-24T10:00:56.881406+00:00
-
- ## Fordham Now
- - [https://now.fordham.edu](https://now.fordham.edu)
- - date_published: 2024-06-24T10:00:25.019330+00:00
-
- ## Computer and Information Science Department | Fordham
- - [https://www.cis.fordham.edu](https://www.cis.fordham.edu)
- - date_published: 2024-06-17T09:37:31.773554+00:00
-
- ## Fordham University
- - [https://www.fordham.edu](https://www.fordham.edu)
- - date_published: 2024-05-06T16:58:48.717846+00:00
-
- ## Fordham University Library
- - [https://www.library.fordham.edu](https://www.library.fordham.edu)
- - date_published: 2024-02-26T19:45:43+00:00
-
- ## FLC Alumni Home | Fort Lewis College | Durango, CO
- - [https://alumni.fortlewis.edu](https://alumni.fortlewis.edu)
- - date_published: 2024-07-15T07:39:17.575362+00:00
-
- ## Admission Portal
- - [https://apply.fortlewis.edu](https://apply.fortlewis.edu)
- - date_published: 2024-07-15T07:38:47.890726+00:00
-
- ## Career & Life Design Center | Fort Lewis College
- - [https://careers.fortlewis.edu](https://careers.fortlewis.edu)
- - date_published: 2024-07-15T07:38:58.510274+00:00
-
- ## Fort Lewis College - Acalog ACMS™
- - [https://catalog.fortlewis.edu](https://catalog.fortlewis.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Admission Portal
- - [https://connect.fortlewis.edu](https://connect.fortlewis.edu)
- - date_published: 2024-07-15T07:39:02.560324+00:00
-
- ## CAS - Central Authentication Service Login
- - [https://courses.fortlewis.edu](https://courses.fortlewis.edu)
- - date_published: 2024-07-15T07:39:24.322311+00:00
-
- ## Index
- - [http://faculty.fortlewis.edu](http://faculty.fortlewis.edu)
- - date_published: 2024-06-30T02:31:57.921031+00:00
-
- ## Fort Lewis College Foundation | Fort Lewis College | Durango, CO
- - [https://foundation.fortlewis.edu](https://foundation.fortlewis.edu)
- - date_published: 2024-07-15T07:39:21.305189+00:00
-
- ## Master's in Education Programs | Teacher Education | Fort Lewis College
- - [https://graduate.fortlewis.edu](https://graduate.fortlewis.edu)
- - date_published: 2024-07-15T07:39:27.554824+00:00
-
- ## John F. Reed Library, Fort Lewis College, Durango, CO
- - [https://library.fortlewis.edu](https://library.fortlewis.edu)
- - date_published: 2024-07-15T07:38:56.264584+00:00
-
- ## Service Discovery
- - [https://thefort.fortlewis.edu](https://thefort.fortlewis.edu)
- - date_published: 2024-07-15T07:39:03.974909+00:00
-
- ## Fort Lewis College WebOPUS
- - [https://webopus.fortlewis.edu](https://webopus.fortlewis.edu)
- - date_published: 2021-03-30T14:15:33+00:00
-
- ## Fort Lewis College in Durango, Colorado
- - [https://fortlewis.edu](https://fortlewis.edu)
- - date_published: 2024-05-12T05:45:25.753185+00:00
-
- ## Frostburg State University
- - [http://www.frostburg.edu](http://www.frostburg.edu)
- - date_published: 2024-07-02T03:24:53.901342+00:00
-
- ## Office of Research | FSU Office of Research
- - [https://about.research.fsu.edu](https://about.research.fsu.edu)
- - date_published: 2024-04-30T04:16:02.530144+00:00
-
- ## Academic Program Guide
- - [https://academic-guide.fsu.edu](https://academic-guide.fsu.edu)
- - date_published: 2024-07-14T18:24:51+00:00
 

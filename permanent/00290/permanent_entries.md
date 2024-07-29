@@ -1,3 +1,297 @@
+ ## App | Plural
+ - [https://app.plural.sh](https://app.plural.sh)
+ - date_published: 2024-05-14T03:31:33.131387+00:00
+
+ ## Loading…
+ - [https://directus.plural.sh](https://directus.plural.sh)
+ - date_published: 2024-05-14T03:31:35.006891+00:00
+
+ ## Docs | Plural
+ - [https://docs.plural.sh](https://docs.plural.sh)
+ - date_published: 2024-05-14T03:31:36.956773+00:00
+
+ ## Plural | Secure, self-hosted applications in your cloud
+ - [https://plural.sh](https://plural.sh)
+ - date_published: 2024-05-14T03:31:39.316963+00:00
+ - tags: ['self-host']
+
+ ## Pnut: A C to POSIX Shell Compiler you can Trust
+ - [https://pnut.sh](https://pnut.sh)
+ - date_published: 2024-07-24T00:22:04+00:00
+
+ ## Polar
+ - [https://blog.polar.sh](https://blog.polar.sh)
+ - date_published: 2024-01-09T03:46:59.844272+00:00
+
+ ## Polar – A creator platform for developers
+ - [https://polar.sh](https://polar.sh)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Startseite – Der Landesbeauftragte für politische Bildung in Schleswig-Holstein
+ - [https://www.politische-bildung.sh](https://www.politische-bildung.sh)
+ - date_published: 2024-07-09T14:08:33+00:00
+
+ ## welcome | osu!
+ - [https://osu.ppy.sh](https://osu.ppy.sh)
+ - date_published: 2023-11-12T22:06:36.000555+00:00
+
+ ## erock's devlog
+ - [https://erock.prose.sh](https://erock.prose.sh)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Exein - Pulsar | Pulsar
+ - [https://pulsar.sh](https://pulsar.sh)
+ - date_published: 2024-07-24T06:06:35.745659+00:00
+
+ ## Quira - Build & monetise your developer reputation
+ - [https://quira.sh](https://quira.sh)
+ - date_published: 2024-06-29T05:37:28.984465+00:00
+
+ ## Reach
+ - [https://docs.reach.sh](https://docs.reach.sh)
+ - date_published: 2023-05-15T16:52:23+00:00
+
+ ## Reach
+ - [https://reach.sh](https://reach.sh)
+ - date_published: 2023-04-13T00:00:00+00:00
+
+ ## Developer Roadmaps - roadmap.sh
+ - [https://roadmap.sh](https://roadmap.sh)
+ - date_published: 2023-10-25T22:38:53.579530+00:00
+
+ ## jrolfs - Overview
+ - [http://jamie.rolfs.sh](http://jamie.rolfs.sh)
+ - date_published: 2024-06-23T08:15:25.075432+00:00
+
+ ## regular reveries | Hrvoje Šimić | Substack
+ - [https://essays.shime.sh](https://essays.shime.sh)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Hrvoje Šimić
+ - [https://shime.sh](https://shime.sh)
+ - date_published: 2024-05-04T13:56:52.065773+00:00
+ - tags: ['personal']
+
+ ## simo.sh
+ - [https://simo.sh](https://simo.sh)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## https://skl.sh
+ - [https://skl.sh](https://skl.sh)
+ - date_published: 2024-01-18T21:57:15.621572+00:00
+
+ ## README.md - snips.sh
+ - [https://snips.sh](https://snips.sh)
+ - date_published: 2024-04-12T18:38:41.460701+00:00
+
+ ## Forgejo: Beyond coding. We forge.
+ - [https://forgejo.sny.sh](https://forgejo.sny.sh)
+ - date_published: 2024-04-30T02:13:36.647407+00:00
+
+ ## Sunny
+ - [https://sny.sh](https://sny.sh)
+ - date_published: 2023-12-27T18:12:17.238864+00:00
+ - tags: ['personal']
+
+ ## Simple incident management. Unlimited alerts and escalations.
+ - [https://spike.sh](https://spike.sh)
+ - date_published: 2024-07-22T12:47:09.230051+00:00
+
+ ## Status page on Spike.sh
+ - [https://statuspage.spike.sh](https://statuspage.spike.sh)
+ - date_published: 2024-07-02T20:05:03.030483+00:00
+
+ ## Saransh Grover
+ - [https://srn.sh](https://srn.sh)
+ - date_published: 2024-05-10T07:00:21.522833+00:00
+ - tags: ['personal']
+
+ ## listmonk - ssp.sp Newsletter List
+ - [https://list.ssp.sh](https://list.ssp.sh)
+ - date_published: 2024-05-10T05:39:42.151595+00:00
+
+ ## Now Page
+ - [https://now.ssp.sh](https://now.ssp.sh)
+ - date_published: 2024-01-02T10:20:47.042213+00:00
+
+ ## Data Engineering Blog
+ - [https://ssp.sh](https://ssp.sh)
+ - date_published: 2024-05-12T06:43:40.310040+00:00
+ - tags: ['personal']
+
+ ## Subscribe - ssp.sp Newsletter List
+ - [https://subscribe.ssp.sh](https://subscribe.ssp.sh)
+ - date_published: 2024-05-12T06:43:37.836944+00:00
+
+ ## Sta.sh
+ - [https://sta.sh](https://sta.sh)
+ - date_published: 2024-05-08T10:46:29.873751+00:00
+
+ ## Strike | Premium Pentesting & Compliance
+ - [https://strike.sh](https://strike.sh)
+ - date_published: 2024-07-13T06:51:18.887857+00:00
+
+ ## sure.sh
+ - [https://sure.sh](https://sure.sh)
+ - date_published: 2024-07-13T04:03:37.935972+00:00
+
+ ## Bruno Bevilaqua
+ - [https://bevilaqua.surge.sh](https://bevilaqua.surge.sh)
+ - date_published: 2024-07-23T23:41:03.719543+00:00
+
+ ## Bublé – the blazing fast, batteries-included ES2015 compiler
+ - [https://buble.surge.sh](https://buble.surge.sh)
+ - date_published: 2024-05-25T09:10:19.264530+00:00
+
+ ## cowtown
+ - [https://cowtown.surge.sh](https://cowtown.surge.sh)
+ - date_published: 2024-07-20T10:31:50.749534+00:00
+
+ ## рассказ
+ - [http://iditenahuy.surge.sh](http://iditenahuy.surge.sh)
+ - date_published: 2024-07-13T15:31:14.247812+00:00
+
+ ## Immer: Immutability made easy
+ - [https://immer.surge.sh](https://immer.surge.sh)
+ - date_published: 2024-05-06T13:05:09.408547+00:00
+
+ ## мне снился очень жёсткий сон
+ - [http://mnesnilsyaochenzhostkiyson.surge.sh](http://mnesnilsyaochenzhostkiyson.surge.sh)
+ - date_published: 2024-07-13T15:28:06.321879+00:00
+
+ ## North Carolina Regional Hackathon
+ - [https://ncrh.surge.sh](https://ncrh.surge.sh)
+ - date_published: 2024-06-20T15:19:53.107360+00:00
+
+ ## OpenType Features demo
+ - [http://open-type.surge.sh](http://open-type.surge.sh)
+ - date_published: 2024-06-29T11:59:24.705981+00:00
+
+ ## Memory Game vanilla javascript | PWA
+ - [https://pwa-memory-game.surge.sh](https://pwa-memory-game.surge.sh)
+ - date_published: 2024-06-03T11:19:43.016795+00:00
+
+ ## Splyt Light Interactive
+ - [https://splytlight.surge.sh](https://splytlight.surge.sh)
+ - date_published: 2024-05-06T23:12:11.139969+00:00
+
+ ## Surge
+ - [https://surge.sh](https://surge.sh)
+ - date_published: 2024-06-18T12:44:17.983632+00:00
+
+ ## Syscall.sh
+ - [https://syscall.sh](https://syscall.sh)
+ - date_published: 2024-07-21T07:13:39+00:00
+
+ ## Welcome to Tara's Website
+ - [https://tara.sh](https://tara.sh)
+ - date_published: 2024-06-21T07:41:10+00:00
+
+ ## Umami
+ - [https://stats.tbx.sh](https://stats.tbx.sh)
+ - date_published: 2024-07-02T18:35:38.556868+00:00
+
+ ## Temp.sh | Temporary File Upload
+ - [https://temp.sh](https://temp.sh)
+ - date_published: 2024-06-20T21:56:45.882805+00:00
+
+ ## Copy and Paste Text Art - textart.sh
+ - [https://textart.sh](https://textart.sh)
+ - date_published: 2024-01-20T04:27:47.502881+00:00
+
+ ## thoughts
+ - [https://thoughts.theden.sh](https://thoughts.theden.sh)
+ - date_published: 2023-11-26T09:06:04.933677+00:00
+
+ ## Working Notes
+ - [https://kb.thh.sh](https://kb.thh.sh)
+ - date_published: 2024-07-14T18:49:11.228230+00:00
+
+ ## Tristan Hils
+ - [https://thh.sh](https://thh.sh)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## تاينيش - مقصر روابط من كاريلينكس
+ - [https://ar.tini.sh](https://ar.tini.sh)
+ - date_published: 2024-07-20T14:20:43.648285+00:00
+
+ ## tini.sh – CarryLinks Link Verkürzer
+ - [https://de.tini.sh](https://de.tini.sh)
+ - date_published: 2024-07-20T14:21:06.805510+00:00
+
+ ## tini.sh - CarryLinks Link Shortener
+ - [https://en.tini.sh](https://en.tini.sh)
+ - date_published: 2024-07-20T15:08:42.398808+00:00
+
+ ## tini.sh - Acortador de enlaces CarryLinks
+ - [https://es.tini.sh](https://es.tini.sh)
+ - date_published: 2024-07-20T14:20:49.758138+00:00
+
+ ## tini.sh - Raccourcisseur de liens CarryLinks
+ - [https://fr.tini.sh](https://fr.tini.sh)
+ - date_published: 2024-07-20T14:20:55.720900+00:00
+
+ ## tini.sh - CarryLinks Link Shortener
+ - [https://tini.sh](https://tini.sh)
+ - date_published: 2024-05-20T02:46:57.181666+00:00
+ - tags: ['link service']
+
+ ## tldr pages
+ - [https://tldr.sh](https://tldr.sh)
+ - date_published: 2024-07-09T12:44:30+00:00
+
+ ## tmp.0ut
+ - [https://tmpout.sh](https://tmpout.sh)
+ - date_published: 2023-11-21T13:49:38.879677+00:00
+
+ ## Custom Domain by Bitly
+ - [https://s.trezy.sh](https://s.trezy.sh)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## ttm.sh
+ - [https://ttm.sh](https://ttm.sh)
+ - date_published: 2024-06-23T17:07:50.581383+00:00
+
+ ## Health Dashboard | Gatus
+ - [https://status.twin.sh](https://status.twin.sh)
+ - date_published: 2024-06-19T22:35:54.493190+00:00
+
+ ## Flourish | Data Visualization & Storytelling
+ - [https://flo.uri.sh](https://flo.uri.sh)
+ - date_published: 2024-04-28T01:43:22.974332+00:00
+
+ ## Vale.sh - A linter for prose
+ - [https://vale.sh](https://vale.sh)
+ - date_published: 2023-10-25T22:38:55.124011+00:00
+
+ ## I mishandle my smartphone in my nightmares - foobuzz
+ - [https://blog.valentin.sh](https://blog.valentin.sh)
+ - date_published: 2023-10-25T22:38:56.047581+00:00
+
+ ## Vansh Gandhi
+ - [https://van.sh](https://van.sh)
+ - date_published: 2024-06-30T05:52:48+00:00
+
+ ## Vercel Avatar
+ - [https://avatar.vercel.sh](https://avatar.vercel.sh)
+ - date_published: 2024-07-11T19:14:00.105601+00:00
+
+ ## verto.sh - Your Gateway to Open Source Collaboration
+ - [https://www.verto.sh](https://www.verto.sh)
+ - date_published: 2023-11-03T08:29:52.703892+00:00
+
+ ## Viem · TypeScript Interface for Ethereum
+ - [https://viem.sh](https://viem.sh)
+ - date_published: 2024-07-04T09:45:49.015768+00:00
+
+ ## VKC.sh | Veronica Explains – I'm a Linux and retro tech YouTuber/PeerTuber. This is my blog.
+ - [https://vkc.sh](https://vkc.sh)
+ - date_published: 2024-05-12T07:01:42.829211+00:00
+
+ ## vlt /vōlt/ - blog
+ - [https://blog.vlt.sh](https://blog.vlt.sh)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## vlt
  - [http://vlt.sh](http://vlt.sh)
  - date_published: 2024-06-23T06:11:07.419185+00:00
@@ -2932,6 +3226,10 @@
  - [http://dovolenka.invia.sk](http://dovolenka.invia.sk)
  - date_published: 2024-07-07T07:04:23.730346+00:00
 
+ ## BLUE LOCK THE MOVIE -EPISODE NAGI- - Itafilm
+ - [http://www.itafilm.sk](http://www.itafilm.sk)
+ - date_published: 2024-07-28T10:10:30.108483+00:00
+
  ## Jeep® Slovenská republika
  - [https://www.jeep.sk](https://www.jeep.sk)
  - date_published: 2024-06-16T20:11:23+00:00
@@ -3737,298 +4035,4 @@
  ## Blog
  - [https://blog.dendron.so](https://blog.dendron.so)
  - date_published: 2021-06-19T00:00:00+00:00
-
- ## Dendron
- - [https://dendron.so](https://dendron.so)
- - date_published: 2022-04-29T00:00:00+00:00
-
- ## Switchy: shorten, customize & track your links. Capture & retarget everyone who clicks.
- - [https://link.dendron.so](https://link.dendron.so)
- - date_published: 2024-06-22T23:29:49.770611+00:00
-
- ## Dendron
- - [https://wiki.dendron.so](https://wiki.dendron.so)
- - date_published: 2023-10-25T22:40:48.362194+00:00
-
- ## Documenso - The Open Source DocuSign Alternative
- - [https://documen.so](https://documen.so)
- - date_published: 2024-06-22T21:29:55.879352+00:00
-
- ## Welcome!
- - [https://dylib.so](https://dylib.so)
- - date_published: 2024-05-01T07:58:57.169446+00:00
-
- ## Embed.so - The video hosting platform for your business
- - [https://embed.so](https://embed.so)
- - date_published: 2024-03-05T00:34:51+00:00
-
- ## Customer Engagement for SaaS - Engage
- - [https://engage.so](https://engage.so)
- - date_published: 2024-04-28T01:56:44.282368+00:00
-
- ## Enzyme – The web3 community building the future.
- - [https://enzyme.so](https://enzyme.so)
- - date_published: 2024-06-19T21:26:16.110409+00:00
-
- ## Factura.so | Facturamos tus tickets de gasto
- - [https://factura.so](https://factura.so)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Fame - The B2B Podcast Agency
- - [https://www.fame.so](https://www.fame.so)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Notion to blog in minutes, along with SSL, analytics, and a lot more
- - [https://feather.so](https://feather.so)
- - date_published: 2024-05-04T12:14:41.614144+00:00
-
- ## Show HN: Firegraph.so – Create beautiful images of your graphs
- - [https://www.firegraph.so](https://www.firegraph.so)
- - date_published: 2024-05-28T18:21:07+00:00
-
- ## Flow
- - [https://www.flowapp.so](https://www.flowapp.so)
- - date_published: 2024-06-21T21:05:18.486742+00:00
-
- ## Gallery
- - [https://gallery.so](https://gallery.so)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## get.gems.so is a custom short domain
- - [http://get.gems.so](http://get.gems.so)
- - date_published: 2024-07-24T02:31:32.647862+00:00
-
- ## Glink
- - [https://glink.so](https://glink.so)
- - date_published: 2024-05-06T06:38:51.763894+00:00
-
- ## Grafika Google
- - [https://images.google.so](https://images.google.so)
- - date_published: 2024-07-20T07:41:14.574979+00:00
-
- ## Google
- - [https://www.google.so](https://www.google.so)
- - date_published: 2024-06-21T22:25:28.103291+00:00
-
- ## HelpKit – Build your Knowledge Base with the ease of Notion
- - [https://helpkit.so](https://helpkit.so)
- - date_published: 2024-06-15T15:08:55.472106+00:00
-
- ## Hints Sales AI Assistant | Hints AI
- - [https://hints.so](https://hints.so)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Hiro Docs
- - [https://docs.hiro.so](https://docs.hiro.so)
- - date_published: 2024-07-12T06:00:47.144284+00:00
-
- ## Stacks Explorer by Hiro
- - [https://explorer.hiro.so](https://explorer.hiro.so)
- - date_published: 2024-07-12T06:00:49.000156+00:00
-
- ## Ordinals — Hiro
- - [https://ordinals.hiro.so](https://ordinals.hiro.so)
- - date_published: 2024-07-12T06:00:43.901569+00:00
-
- ## Hiro Platform
- - [https://platform.hiro.so](https://platform.hiro.so)
- - date_published: 2024-07-12T06:00:46.012666+00:00
-
- ## Clarity Playground
- - [https://play.hiro.so](https://play.hiro.so)
- - date_published: 2024-07-12T06:00:42.506871+00:00
-
- ## Hiro Systems Status
- - [https://status.hiro.so](https://status.hiro.so)
- - date_published: 2024-07-12T06:00:41.038308+00:00
-
- ## Hiro – Developer tools for Bitcoin layers
- - [https://hiro.so](https://hiro.so)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Blog | Hydra
- - [https://blog.hydra.so](https://blog.hydra.so)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Overview | Hydra Columnar
- - [https://columnar.docs.hydra.so](https://columnar.docs.hydra.so)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Hydra
- - [https://dashboard.hydra.so](https://dashboard.hydra.so)
- - date_published: 2024-05-04T15:56:22.759013+00:00
-
- ## Overview | Hydra
- - [https://docs.hydra.so](https://docs.hydra.so)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Hydra - Fast Postgres Analytics ++
- - [https://hydra.so](https://hydra.so)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## i18n-proxy - Reverse Proxy with Automatic Translation, SEO-Oriented
- - [https://i18n.so](https://i18n.so)
- - date_published: 2024-07-13T11:42:07.755397+00:00
-
- ## Indexer - Google Indexing Tool
- - [https://indexer.so](https://indexer.so)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Instant Landing Page Builder for Shopify | All-visual, No-code
- - [https://instant.so](https://instant.so)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Julian Christian Anderson
- - [https://julian.so](https://julian.so)
- - date_published: 2022-01-01T00:00:00+00:00
-
- ## June Analytics
- - [https://analytics.june.so](https://analytics.june.so)
- - date_published: 2024-05-10T06:00:23.825444+00:00
-
- ## June Analytics
- - [https://app.june.so](https://app.june.so)
- - date_published: 2024-07-12T19:07:12.352549+00:00
-
- ## June Changelog
- - [https://changelog.june.so](https://changelog.june.so)
- - date_published: 2024-05-10T06:00:28.702898+00:00
-
- ## June Help Center
- - [https://help.june.so](https://help.june.so)
- - date_published: 2024-05-10T06:00:26.918376+00:00
-
- ## June - Product analytics for B2B SaaS
- - [https://june.so](https://june.so)
- - date_published: 2024-05-10T06:00:27.976854+00:00
-
- ## Auto-qualify your sign ups
- - [https://qualify.june.so](https://qualify.june.so)
- - date_published: 2024-05-10T06:00:24.371613+00:00
-
- ## June School
- - [https://school.june.so](https://school.june.so)
- - date_published: 2024-07-12T19:07:30.786523+00:00
-
- ## June for iOS
- - [https://widgets.june.so](https://widgets.june.so)
- - date_published: 2024-05-10T06:00:22.737083+00:00
-
- ## Juuso Autiosalo
- - [https://juu.so](https://juu.so)
- - date_published: 2024-07-01T11:58:31+00:00
-
- ## Keel - Move fast. Don't break things.
- - [https://keel.so](https://keel.so)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Kingdom - Play. Share. Connect.
- - [https://kingdom.so](https://kingdom.so)
- - date_published: 2024-07-02T20:13:45.210993+00:00
-
- ## Klu: AI Search Engine For Your Work Apps
- - [https://klu.so](https://klu.so)
- - date_published: 2024-07-24T02:31:38.240573+00:00
-
- ## Lazy • A capture tool for knowledge
- - [https://lazy.so](https://lazy.so)
- - date_published: 2024-05-04T14:01:54.892659+00:00
-
- ## Letter: Email for Designers
- - [https://letter.so](https://letter.so)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Light
- - [https://light.so](https://light.so)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## timeOS
- - [https://magical.so](https://magical.so)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Mapify: Transform anything to mind maps by AI, formerly Chatmind
- - [https://mapify.so](https://mapify.so)
- - date_published: 2024-07-13T20:04:13.416234+00:00
-
- ## Online appointment scheduling
- - [https://meetme.so](https://meetme.so)
- - date_published: 2024-06-05T11:41:27+00:00
-
- ## Metaschool - Become a Web3 Developer Today
- - [https://metaschool.so](https://metaschool.so)
- - date_published: 2024-06-04T06:12:41.765651+00:00
-
- ## MicroAngel | Eyal Toledano | Substack
- - [https://microangel.so](https://microangel.so)
- - date_published: 2024-06-21T11:52:49.667783+00:00
-
- ## Service Suspended
- - [https://mimosa.so](https://mimosa.so)
- - date_published: 2023-10-25T22:40:50.567686+00:00
-
- ## Morgen Calendar and Task Manager
- - [https://timeto.morgen.so](https://timeto.morgen.so)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Morgen Calendar and Task Manager
- - [https://www.morgen.so](https://www.morgen.so)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Morning: Customer Intelligence for Automations
- - [https://morning.so](https://morning.so)
- - date_published: 2024-07-02T20:43:11.653914+00:00
-
- ## Morph
- - [https://morph.so](https://morph.so)
- - date_published: 2024-06-26T17:55:16+00:00
-
- ## Notaku - Create your company essential websites with Notion
- - [https://notaku.so](https://notaku.so)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Your connected workspace for wiki, docs & projects | Notion
- - [https://affiliate.notion.so](https://affiliate.notion.so)
- - date_published: 2024-05-04T08:02:35.863639+00:00
-
- ## Notion Calendar
- - [https://calendar.notion.so](https://calendar.notion.so)
- - date_published: 2024-05-06T19:57:07.734295+00:00
-
- ## Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
- - [https://dev.notion.so](https://dev.notion.so)
- - date_published: 2024-07-16T18:57:44+00:00
-
- ## Notion
- - [https://file.notion.so](https://file.notion.so)
- - date_published: 2024-05-06T15:17:19.016236+00:00
-
- ## Your connected workspace for wiki, docs & projects | Notion
- - [https://notion.so](https://notion.so)
- - date_published: 2024-05-01T04:18:50.173855+00:00
- - tags: ['workspace suite']
-
- ## Notion Status
- - [https://status.notion.so](https://status.notion.so)
- - date_published: 2023-10-25T22:40:58.174104+00:00
-
- ## Panels: A community for indie comic artists.
- - [https://panels.so](https://panels.so)
- - date_published: 2024-07-02T20:43:37.779132+00:00
-
- ## Paragraph | all-in-one publishing & newsletter platform
- - [https://papyrus.so](https://papyrus.so)
- - date_published: 2024-07-02T20:16:15.180565+00:00
-
- ## Plane | Simple, extensible, open-source project management tool.
- - [https://app.plane.so](https://app.plane.so)
- - date_published: 2024-06-19T22:14:02.518447+00:00
-
- ## Plane Documentation - Plane
- - [https://docs.plane.so](https://docs.plane.so)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Plane - The open source project management tool
- - [https://plane.so](https://plane.so)
- - date_published: 2023-10-25T22:41:04.981097+00:00
- - tags: ['project managment software', 'jira']
 

@@ -1,3 +1,59 @@
+ ## City Winery | Restaurant, Winery, Live Music & Event Venue
+ - [https://citywinery.com](https://citywinery.com)
+ - date_published: 2024-05-04T14:04:59.648457+00:00
+
+ ## Instituto Distrital de Protección y Bienestar Animal - Ciudadano de 4 patas - Identificación por Microchips | Identificación por Microchips
+ - [https://ciudadano4patas.com](https://ciudadano4patas.com)
+ - date_published: 2024-06-11T23:44:39.040061+00:00
+
+ ## Instituto Distrital de Protección y Bienestar Animal - Ciudadano de 4 patas - Identificación por Microchips | Identificación por Microchips
+ - [http://www.ciudadano4patas.com](http://www.ciudadano4patas.com)
+ - date_published: 2024-06-11T23:15:17.886904+00:00
+
+ ## Inicio - Ciudad Empresarial Sarmiento Angulo
+ - [http://ciudad-empresarial.com](http://ciudad-empresarial.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Civade.com
+ - [https://www.civade.com](https://www.civade.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Civic Pass | trust, control and safety for digital identity
+ - [https://civic.com](https://civic.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Public Portal • CivicClerk
+ - [https://charlestonwv.civicclerk.com](https://charlestonwv.civicclerk.com)
+ - date_published: 2024-07-15T05:15:18+00:00
+
+ ## Public Portal • CivicClerk
+ - [https://charlestonwv.portal.civicclerk.com](https://charlestonwv.portal.civicclerk.com)
+ - date_published: 2024-07-15T05:15:18+00:00
+
+ ## CIVIC
+ - [https://apikeys.civiccomputing.com](https://apikeys.civiccomputing.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.civiccomputing.com](https://stats.civiccomputing.com)
+ - date_published: 2024-06-29T11:47:02.236487+00:00
+
+ ## Voter Guide
+ - [https://app.ipl.civicengine.com](https://app.ipl.civicengine.com)
+ - date_published: 2024-06-10T19:18:29+00:00
+
+ ## Civic Game Jam – We want better stories
+ - [https://civicgamejam.com](https://civicgamejam.com)
+ - date_published: 2024-05-06T06:33:21.197196+00:00
+
+ ## Civic Impulse, LLC — The Intersection of Civics and Technology
+ - [https://civicimpulse.com](https://civicimpulse.com)
+ - date_published: 2016-11-26T22:30:29+00:00
+
+ ## Web Posting Information
+ - [https://cdnsm1-clradscript.civiclive.com](https://cdnsm1-clradscript.civiclive.com)
+ - date_published: 2023-09-05T17:50:10+00:00
+
  ## CivicMapper | Modern geospatial technology solutions for solving problems in the natural and built environments
  - [https://www.civicmapper.com](https://www.civicmapper.com)
  - date_published: 2023-11-08T00:00:00+00:00
@@ -3978,59 +4034,4 @@
  ## Últimas noticias de Estados Unidos, Latinoamérica y el mundo, hoy | CNN en Español
  - [https://cnnespanol.cnn.com](https://cnnespanol.cnn.com)
  - date_published: 2024-05-07T12:49:05.892921+00:00
-
- ## Breaking News, Latest News and Videos | CNN
- - [https://edition.cnn.com](https://edition.cnn.com)
- - date_published: 2023-10-25T10:25:37.123636+00:00
-
- ## Breaking News, Latest News and Videos | CNN
- - [https://lite.cnn.com](https://lite.cnn.com)
- - date_published: 2023-10-25T10:25:40.608108+00:00
-
- ## Business News - Latest Headlines on CNN Business | CNN Business
- - [https://money.cnn.com](https://money.cnn.com)
- - date_published: 2023-10-25T10:25:51.898732+00:00
-
- - [https://rss.cnn.com](https://rss.cnn.com)
- - date_published: 2024-01-09T02:32:21.836666+00:00
-
- ## CNN Store | The Official CNN Store T-Shirts, Gifts, Mugs and More!
- - [https://store.cnn.com](https://store.cnn.com)
- - date_published: 2024-05-08T05:46:17.651213+00:00
-
- ## Breaking News, Latest News and Videos | CNN
- - [https://us.cnn.com](https://us.cnn.com)
- - date_published: 2024-01-02T12:59:15.005555+00:00
-
- ## CNN الاقتصادية: أخبار الاقتصاد، الاسواق المالية في الشرق الأوسط والعالم، تقارير، فيديو.
- - [https://cnnbusinessarabic.com](https://cnnbusinessarabic.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Últimas noticias de Estados Unidos, Latinoamérica y el mundo, hoy | CNN en Español
- - [https://cnnespanol.com](https://cnnespanol.com)
- - date_published: 2024-05-08T05:45:50.880375+00:00
-
- ## CNN- Philippines
- - [https://www.cnnphilippines.com](https://www.cnnphilippines.com)
- - date_published: 2023-12-09T13:18:35.980931+00:00
-
- ## CNN Store Support
- - [https://help.cnnstoresupport.com](https://help.cnnstoresupport.com)
- - date_published: 2024-07-04T08:49:40.951851+00:00
-
- ## ConnectOne Bank | Personal & Business Banking
- - [https://www.cnob.com](https://www.cnob.com)
- - date_published: 2024-07-10T04:39:27.313039+00:00
-
- ## 首页 - 中国歌剧舞剧院
- - [http://www.cnoddt.com](http://www.cnoddt.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## CNPA - California News Publishers Association
- - [https://cnpa.com](https://cnpa.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 中国出版集团有限公司
- - [http://cn.cnpubg.com](http://cn.cnpubg.com)
- - date_published: 2024-06-30T14:54:00.693981+00:00
 

@@ -1,3 +1,20 @@
+ ## ruk.ca
+ - [https://ruk.ca](https://ruk.ca)
+ - date_published: 2023-12-24T18:31:10.288244+00:00
+ - tags: ['personal']
+
+ ## rukapedia
+ - [https://wiki.ruk.ca](https://wiki.ruk.ca)
+ - date_published: 2024-04-30T05:03:31.732767+00:00
+
+ ## Russell’s Portfolio
+ - [https://russellmcwhae.ca](https://russellmcwhae.ca)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## The DMZ
+ - [https://dmz.ryerson.ca](https://dmz.ryerson.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Software Analysis Research Group
  - [https://sarg.ryerson.ca](https://sarg.ryerson.ca)
  - date_published: 1999-01-01T00:00:00+00:00
@@ -4013,20 +4030,4 @@
  ## Passport York Login
  - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
  - date_published: 2024-05-09T06:47:35.611383+00:00
-
- ## York University Psychology Clinic
- - [https://yupc.info.yorku.ca](https://yupc.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## AdChoices in Canada - Learn about the blue icon & your choices
- - [http://youradchoices.ca](http://youradchoices.ca)
- - date_published: 2024-06-15T03:45:09.750365+00:00
-
- ## Your Environment
- - [https://yourenvironment.ca](https://yourenvironment.ca)
- - date_published: 2024-05-06T23:34:02.979229+00:00
-
- ## Homepage
- - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
- - date_published: 2024-07-17T02:14:27+00:00
 

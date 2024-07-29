@@ -1,3 +1,164 @@
+ ## Fördertechnik Widani GmbH - Fördertechnik Widani GmbH
+ - [http://www.widani.de](http://www.widani.de)
+ - date_published: 2024-07-14T15:47:02.698776+00:00
+
+ ## Aktuelles - Wikimedia Deutschland Blog
+ - [https://blog.wikimedia.de](https://blog.wikimedia.de)
+ - date_published: 2024-06-21T12:04:38.664610+00:00
+
+ ## Wikimedia Deutschland
+ - [https://social.wikimedia.de](https://social.wikimedia.de)
+ - date_published: 2024-06-21T12:04:35.981228+00:00
+
+ ## Wenn jeder nur einen kleinen Beitrag leisten würde, wäre unsere Spendenkampagne in einer Stunde vorüber.
+ - [https://spenden.wikimedia.de](https://spenden.wikimedia.de)
+ - date_published: 2024-06-21T12:04:39.691383+00:00
+
+ ## Wikimedia Tech News
+ - [https://tech-news.wikimedia.de](https://tech-news.wikimedia.de)
+ - date_published: 2024-07-13T23:55:37.115228+00:00
+
+ ## Portal:Toolforge - Wikitech
+ - [http://tools.wikimedia.de](http://tools.wikimedia.de)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Wikimedia Deutschland – Wir befreien Wissen! - Wikimedia
+ - [https://www.wikimedia.de](https://www.wikimedia.de)
+ - date_published: 2023-05-02T09:25:52+00:00
+
+ ## Wikipedia, die freie Enzyklopädie
+ - [https://www.wikipedia.de](https://www.wikipedia.de)
+ - date_published: 2024-05-04T12:25:46.095318+00:00
+
+ ## WikiRaider.de
+ - [http://wikiraider.de](http://wikiraider.de)
+ - date_published: 2024-03-26T17:24:55+00:00
+
+ ## Page Redirection
+ - [https://application.wiley-vch.de](https://application.wiley-vch.de)
+ - date_published: 2024-05-11T09:35:51.001541+00:00
+
+ ## Wiley-VCH - Home
+ - [https://www.wiley-vch.de](https://www.wiley-vch.de)
+ - date_published: 2024-06-17T11:47:03+00:00
+
+ ## Willkommen beim Förderverein Wilhelminenaue e. V.
+ - [https://www.wilhelminenaue.de](https://www.wilhelminenaue.de)
+ - date_published: 2024-07-24T07:11:59.539562+00:00
+
+ ## Boris Wilhelms
+ - [https://blog.wille-zone.de](https://blog.wille-zone.de)
+ - date_published: 2022-10-25T19:00:45+00:00
+ - tags: ['personal']
+
+ ## Serialized Gedanken
+ - [https://valentin.willscher.de](https://valentin.willscher.de)
+ - date_published: 2023-12-25T08:33:59.217539+00:00
+
+ ## win31.de - Downloads, Links, Tips & Tricks für Windows 3.1x
+ - [http://www.win31.de](http://www.win31.de)
+ - date_published: 2019-06-17T17:50:54+00:00
+
+ ## Windenergie in Deutschland, Europa und der Welt - Windbranche.de
+ - [https://windbranche.de](https://windbranche.de)
+ - date_published: 2024-04-29T06:15:25.393073+00:00
+
+ ## WindEnergy Hamburg - the global on & offshore event
+ - [https://www.windenergyhamburg.de](https://www.windenergyhamburg.de)
+ - date_published: 2024-07-24T07:55:54.428118+00:00
+
+ ## WinFuture.de - Die ganze Welt der IT
+ - [http://winfuture.de](http://winfuture.de)
+ - date_published: 2024-07-24T05:28:16.374665+00:00
+
+ ## Home - winsener-anzeiger.de
+ - [https://www.winsener-anzeiger.de](https://www.winsener-anzeiger.de)
+ - date_published: 2024-07-24T07:41:07.857079+00:00
+
+ ## WINDOWS SERVER USER GROUP BERLIN – COMMUNITY
+ - [https://www.winsvr-berlin.de](https://www.winsvr-berlin.de)
+ - date_published: 2024-07-24T04:41:40.235964+00:00
+
+ ## Wintermeyer Consulting - Rails, Phoenix und WebPerformance
+ - [https://www.wintermeyer-consulting.de](https://www.wintermeyer-consulting.de)
+ - date_published: 2023-03-24T09:57:11+00:00
+
+ ## winterworks kids: 100% frustration free fun!
+ - [https://kids.winterworks.de](https://kids.winterworks.de)
+ - date_published: 2024-07-11T12:45:43.390022+00:00
+
+ ## winterworks: Pure game developing awesomeness!
+ - [https://winterworks.de](https://winterworks.de)
+ - date_published: 2024-05-09T09:10:10.481950+00:00
+
+ ## Auto & Technik
+ - [https://www.wired.de](https://www.wired.de)
+ - date_published: 2017-07-03T09:39:59+00:00
+
+ ## witcher's blog
+ - [https://wiredspace.de](https://wiredspace.de)
+ - date_published: 2023-06-21T00:00:00+00:00
+
+ ## wirmachenbunt - Interaktive Exponate und immersive Presentationen | Home
+ - [https://wirmachenbunt.de](https://wirmachenbunt.de)
+ - date_published: 2024-07-09T22:30:22.130327+00:00
+
+ ## wirsindschoener.de
+ - [http://wirsindschoener.de](http://wirsindschoener.de)
+ - date_published: 2024-07-13T15:48:53.831054+00:00
+
+ ## Traueranzeigen Zeitung Köln
+ - [https://www.wirtrauern.de](https://www.wirtrauern.de)
+ - date_published: 2024-07-24T05:45:20.608328+00:00
+
+ ## WirWunder
+ - [https://www.wirwunder.de](https://www.wirwunder.de)
+ - date_published: 2024-06-12T08:02:17+00:00
+
+ ## Allgemeinbildung | Wissenstest | Lexikon | Wörterbücher | Suche | wissen.de
+ - [http://wissen.de](http://wissen.de)
+ - date_published: 2024-06-29T04:00:08+00:00
+
+ ## wissenschaft.de - News
+ - [http://www.wissenschaft.de](http://www.wissenschaft.de)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Wissenschaft im Dialog
+ - [http://www.wissenschaft-im-dialog.de](http://www.wissenschaft-im-dialog.de)
+ - date_published: 2024-07-13T16:45:43.138625+00:00
+
+ ## Home - Wissenschaftliche Integrität
+ - [https://wissenschaftliche-integritaet.de](https://wissenschaftliche-integritaet.de)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Wissenschaft in die Schulen - WIS
+ - [http://www.wissenschaft-schulen.de](http://www.wissenschaft-schulen.de)
+ - date_published: 2024-07-24T04:46:49.975800+00:00
+
+ ## Die Wissenschaft für Zuhause‎
+ - [https://www.wissenschaft-shop.de](https://www.wissenschaft-shop.de)
+ - date_published: 2024-06-30T08:38:34.168576+00:00
+
+ ## Startseite
+ - [https://www.wissenschaftsrat.de](https://www.wissenschaftsrat.de)
+ - date_published: 2024-07-24T03:45:02.535880+00:00
+
+ ## Wissen Sie mehr?
+ - [https://www.wissen-sie-mehr.de](https://www.wissen-sie-mehr.de)
+ - date_published: 2024-05-14T15:09:07+00:00
+
+ ## Tagebücher der Wissenschaft
+ - [http://www.wissenslogs.de](http://www.wissenslogs.de)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Wissen vom Fass
+ - [https://wissenvomfass.de](https://wissenvomfass.de)
+ - date_published: 2024-04-29T06:02:32.861967+00:00
+
+ ## WISTA-Innovations- und Gründungszentrum CHIC - Services für Startups in Berlin Charlottenburg
+ - [https://charlottenburg.wista.de](https://charlottenburg.wista.de)
+ - date_published: 2024-07-24T07:16:03.370401+00:00
+
  ## Eventservice Berlin – Conventions - Der Kongressservice der WISTA
  - [https://conventions.wista.de](https://conventions.wista.de)
  - date_published: 2024-07-24T07:16:14.025867+00:00
@@ -3859,6 +4020,10 @@ Bibliotheken / Z39.50
  - [https://w3dhub.goat.cyberarm.dev](https://w3dhub.goat.cyberarm.dev)
  - date_published: 2024-07-01T09:32:41.988856+00:00
 
+ ## Enhanced Data | cybernetic.dev
+ - [https://cybernetic.dev](https://cybernetic.dev)
+ - date_published: 2024-07-28T03:58:19.973287+00:00
+
  ## Cyber - Fast and concurrent scripting.
  - [https://cyberscript.dev](https://cyberscript.dev)
  - date_published: 2023-10-25T18:37:09.369506+00:00
@@ -3890,175 +4055,4 @@ Bibliotheken / Z39.50
  ## Dana Ross — Engineering Leader, Full-Stack Developer, Certified Accessibility Professional
  - [https://danaross.dev](https://danaross.dev)
  - date_published: 2024-05-09T08:24:57.692036+00:00
-
- ## CV Daniël Krux
- - [https://danielkrux.dev](https://danielkrux.dev)
- - date_published: 2024-07-20T18:41:12.398545+00:00
-
- ## Home
- - [https://danielle-m.dev](https://danielle-m.dev)
- - date_published: 2024-05-11T10:07:50.906146+00:00
-
- ## Daniel Little Dev
- - [https://daniellittle.dev](https://daniellittle.dev)
- - date_published: 2024-06-01T05:05:51.788323+00:00
- - tags: ['personal']
-
- ## Dan Vega - Java Champion, Spring Developer Advocate, YouTuber and Lifelong Learner
- - [https://www.danvega.dev](https://www.danvega.dev)
- - date_published: 2024-01-21T00:00:00+00:00
- - tags: ['personal']
-
- ## A blog by Yosua Ian Sebastian
- - [https://darcien.dev](https://darcien.dev)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Darcien Home Lab Status
- - [https://status.darcien.dev](https://status.darcien.dev)
- - date_published: 2024-06-15T07:24:25.546591+00:00
-
- ## Dart - Dart API docs
- - [https://api.dart.dev](https://api.dart.dev)
- - date_published: 2024-06-23T10:42:02.712465+00:00
-
- ## Dart programming language
- - [https://dart.dev](https://dart.dev)
- - date_published: 2024-04-28T02:26:06.253045+00:00
-
- ## DartPad
- - [https://dartpad.dev](https://dartpad.dev)
- - date_published: 2024-04-29T07:44:11.474614+00:00
- - tags: ['dart', 'editor', 'flutter']
-
- ## Show HN: Darwin – Automate Your GitHub Project with AI
- - [https://darwin-ai.dev](https://darwin-ai.dev)
- - date_published: 2024-02-26T17:33:06+00:00
-
- ## dasdom.dev
- - [https://dasdom.dev](https://dasdom.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Osman Cea
- - [https://daslaf.dev](https://daslaf.dev)
- - date_published: 2024-05-09T08:25:50.170872+00:00
-
- ## dasun.dev - Laravel Developer
- - [https://www.dasun.dev](https://www.dasun.dev)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## dbdev | The Database Package Manager
- - [https://database.dev](https://database.dev)
- - date_published: 2023-10-25T18:37:10.874218+00:00
-
- ## Database Internals
- - [https://www.databass.dev](https://www.databass.dev)
- - date_published: 2024-07-19T20:46:41.376282+00:00
-
- ## DataOps.dev
- - [https://dataops.dev](https://dataops.dev)
- - date_published: 2024-07-12T17:58:16.037974+00:00
-
- ## DataShell - Develop data solutions like a software engineer would.
- - [https://datashell.dev](https://datashell.dev)
- - date_published: 2024-07-23T21:16:30.103908+00:00
-
- ## Redirecting…
- - [https://datatransferproject.dev](https://datatransferproject.dev)
- - date_published: 2023-04-27T18:18:50+00:00
-
- ## datawookie
- - [https://datawookie.dev](https://datawookie.dev)
- - date_published: 2024-06-27T03:17:34+00:00
-
- ## davidamos.dev - Ta strona jest na sprzedaż! - davidamos Zasoby i informacje.
- - [https://davidamos.dev](https://davidamos.dev)
- - date_published: 2024-01-09T02:57:06.453997+00:00
-
- ## David Capper
- - [https://davidcapper.dev](https://davidcapper.dev)
- - date_published: 2024-01-08T13:02:44.729428+00:00
-
- ## David Caron
- - [https://davidcaron.dev](https://davidcaron.dev)
- - date_published: 2024-06-28T20:11:27.496202+00:00
-
- ## ~/.didev
- - [https://davidisaksson.dev](https://davidisaksson.dev)
- - date_published: 2023-10-25T08:58:27.129547+00:00
- - tags: ['personal']
-
- ## David Nguyen
- - [https://davidnguyen.dev](https://davidnguyen.dev)
- - date_published: 2023-12-03T09:19:51.549979+00:00
- - tags: ['personal']
-
- ## David Parks
- - [https://davidparks.dev](https://davidparks.dev)
- - date_published: 2024-05-04T09:14:17.172846+00:00
-
- ## Mumbling about computers
- - [https://blog.davidv.dev](https://blog.davidv.dev)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Source Code
- - [https://blog.davidvarghese.dev](https://blog.davidvarghese.dev)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## David v.Knobelsdorff
-			– davidvonk.dev
- - [https://davidvonk.dev](https://davidvonk.dev)
- - date_published: 2022-04-14T00:00:00+00:00
-
- ## Dawit Mekonnen
- - [https://dawit.dev](https://dawit.dev)
- - date_published: 2024-05-11T10:09:28.503585+00:00
-
- ## DBOS - Transactional Serverless Platform for TypeScript
- - [https://www.dbos.dev](https://www.dbos.dev)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## RoR Debugbar
- - [https://debugbar.dev](https://debugbar.dev)
- - date_published: 2024-02-18T16:39:57+00:00
-
- ## Deklara
- - [https://deklara.dev](https://deklara.dev)
- - date_published: 2021-10-01T09:46:09+00:00
-
- ## Delba
- - [https://delba.dev](https://delba.dev)
- - date_published: 2024-07-02T19:01:49.839252+00:00
-
- ## Jakob Serlier's Personal Site
- - [https://delft.dev](https://delft.dev)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Not Found
- - [https://assets.den.dev](https://assets.den.dev)
- - date_published: 2024-04-29T07:34:38.360802+00:00
-
- ## PowerToys Awake
- - [https://awake.den.dev](https://awake.den.dev)
- - date_published: 2024-04-29T07:34:40.070657+00:00
-
- ## Hi, I'm Den :wave:
- - [https://den.dev](https://den.dev)
- - date_published: 2023-10-25T08:58:28.132514+00:00
- - tags: ['personal']
-
- ## deno bundle, as a service
- - [https://bundle.deno.dev](https://bundle.deno.dev)
- - date_published: 2024-06-17T16:23:42.056153+00:00
-
- ## David Sherret
- - [https://david.deno.dev](https://david.deno.dev)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## draw & share
- - [https://drawings.deno.dev](https://drawings.deno.dev)
- - date_published: 2024-07-06T21:20:39.961863+00:00
-
- ## Fresh Charts Examples
- - [https://fresh-charts.deno.dev](https://fresh-charts.deno.dev)
- - date_published: 2024-05-04T09:45:01.251969+00:00
 

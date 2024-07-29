@@ -1,3 +1,116 @@
+ ## CDN Riccardo Giorato
+ - [https://cdn.riccardogiorato.com](https://cdn.riccardogiorato.com)
+ - date_published: 2024-05-12T05:27:32.940600+00:00
+
+ ## mentomento: mentoring with Riccardo a Full Stack Engineer
+ - [https://mentomento.riccardogiorato.com](https://mentomento.riccardogiorato.com)
+ - date_published: 2024-05-12T05:27:30.345099+00:00
+
+ ## Riccardo Giorato: Blog, Experiments, Remote work, Newsletter and more!
+ - [https://riccardogiorato.com](https://riccardogiorato.com)
+ - date_published: 1920-01-01T00:00:00+00:00
+
+ ## Rice-Boy.com
+ - [https://rice-boy.com](https://rice-boy.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Rice History Corner
+ - [https://ricehistorycorner.com](https://ricehistorycorner.com)
+ - date_published: 2024-06-30T08:58:18+00:00
+
+ ## Rice University Athletics - Official Athletics Website
+ - [https://riceowls.com](https://riceowls.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - Richard Aboulafia
+ - [https://richardaboulafia.com](https://richardaboulafia.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Richard A Carter – Researcher and Digital Artist
+ - [http://richardacarter.com](http://richardacarter.com)
+ - date_published: 2024-06-22T14:48:41+00:00
+
+ ## Richard Ashcroft Official Store
+ - [https://store.richardashcroft.com](https://store.richardashcroft.com)
+ - date_published: 2024-06-25T17:08:08.869017+00:00
+
+ ## RichardBettridge.com
+ - [http://richardbettridge.com](http://richardbettridge.com)
+ - date_published: 2021-10-15T21:13:07+00:00
+
+ ## Richard Dawkins
+ - [https://richarddawkins.com](https://richarddawkins.com)
+ - date_published: 2024-07-03T16:05:42.934254+00:00
+
+ ## Richard Dawkins Tours – Reason Reignited
+ - [https://richarddawkinstour.com](https://richarddawkinstour.com)
+ - date_published: 2024-07-19T15:17:45.051678+00:00
+
+ ## Bézier Curves - and the logic behind them | Richard Ekwonye
+ - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
+ - date_published: 2023-10-25T16:51:18.543659+00:00
+
+ ## Richard Ekwonye
+ - [https://richardekwonye.com](https://richardekwonye.com)
+ - date_published: 2024-04-28T04:55:41.452351+00:00
+
+ ## Richard Hanania's Newsletter | Substack
+ - [https://www.richardhanania.com](https://www.richardhanania.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Richard Heinberg
+ - [https://richardheinberg.com](https://richardheinberg.com)
+ - date_published: 2024-07-13T09:32:09.768888+00:00
+
+ ## Homepage | RichardHerring.com
+ - [http://richardherring.com](http://richardherring.com)
+ - date_published: 2024-04-28T04:55:46.246898+00:00
+
+ ## Homepage | RichardHerring.com
+ - [https://www.richardherring.com](https://www.richardherring.com)
+ - date_published: 2024-02-13T17:35:46.763245+00:00
+ - tags: ['personal']
+
+ ## HelpFully IT - IT Support Consultancy
+ - [https://richardhickson.com](https://richardhickson.com)
+ - date_published: 2024-01-11T07:52:49.571068+00:00
+
+ ## Richard Imenes — I am a senior database administrator who som...
+ - [https://richardimenes.com](https://richardimenes.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## richardkramen.com
+ - [https://richardkramen.com](https://richardkramen.com)
+ - date_published: 2024-05-09T08:17:20.904051+00:00
+
+ ## |  |
+ - [http://www.richardlperri.com](http://www.richardlperri.com)
+ - date_published: 2019-06-17T23:33:10+00:00
+
+ ## Richard Lucas
+ - [https://richardlucas.com](https://richardlucas.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Tikun Olam תיקון עולם إصلاح العالم
+ - [http://www.richardsilverstein.com](http://www.richardsilverstein.com)
+ - date_published: 2024-06-19T20:27:40+00:00
+
+ ## A casual gourmet kitchen | Richardson’s Canal House
+ - [http://richardsonscanalhouse.com](http://richardsonscanalhouse.com)
+ - date_published: 2024-06-23T07:27:59+00:00
+
+ ## Wear The Best | RichardsonSports.com
+ - [https://richardsonsports.com](https://richardsonsports.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Richardson Wealth
+ - [https://www.richardsonwealth.com](https://www.richardsonwealth.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Richards Variety Store
+ - [https://www.richardsvarietystore.com](https://www.richardsvarietystore.com)
+ - date_published: 2024-05-02T09:44:48.738402+00:00
+
  ## Home - Richard Tardif Book Editor and Publisher -
  - [https://richardtardif.com](https://richardtardif.com)
  - date_published: 2024-02-20T00:00:00+00:00
@@ -3971,118 +4084,4 @@ Robertson County Sheriff's Office
  ## Rolling Stone Shop
  - [https://shop.rollingstone.com](https://shop.rollingstone.com)
  - date_published: 2024-04-28T05:41:18.734538+00:00
-
- ## Subscribe to Rolling Stone
- - [https://subscribe.rollingstone.com](https://subscribe.rollingstone.com)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## Rollo & Grady: Los Angeles Music Blog
- - [http://www.rollogrady.com](http://www.rollogrady.com)
- - date_published: 2024-06-18T09:28:05.171780+00:00
-
- ## RollOnFriday
- - [https://www.rollonfriday.com](https://www.rollonfriday.com)
- - date_published: 2024-06-14T17:05:35+00:00
-
- ## Rollo Press
- - [http://rollo-press.com](http://rollo-press.com)
- - date_published: 2024-07-13T15:03:39.116834+00:00
-
- ## Roll Or Don't
- - [https://rollordont.com](https://rollordont.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Rollout | Embedded Integrations for Self Serve
- - [https://rollout.com](https://rollout.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Rollsanity.com
- - [https://rollsanity.com](https://rollsanity.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Rolls-Royce Careers - Home
- - [https://careers.rolls-royce.com](https://careers.rolls-royce.com)
- - date_published: 2024-07-09T21:43:51.464181+00:00
-
- ## Home
- - [https://rolls-royce.com](https://rolls-royce.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Alabama Athletics - Official Athletics Website
- - [https://rolltide.com](https://rolltide.com)
- - date_published: 2024-06-17T09:36:29.820411+00:00
-
- ## Rollux chain blockchain explorer | Rollux
- - [https://explorer.rollux.com](https://explorer.rollux.com)
- - date_published: 2024-07-23T22:28:26.939067+00:00
-
- ## Account-Based Marketing (ABM) Platform | RollWorks
- - [https://www.rollworks.com](https://www.rollworks.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## 2omain 3030Ξ
- - [https://www.romainboboe.com](https://www.romainboboe.com)
- - date_published: 2023-12-12T13:08:31.619524+00:00
- - tags: ['personal']
-
- ## Romain Fabry
- - [https://romainfabry.com](https://romainfabry.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## RomanArmyTalk
- - [http://www.romanarmy.com](http://www.romanarmy.com)
- - date_published: 2024-06-24T10:51:57.783539+00:00
-
- ## RomanArmyTalk
- - [https://www.romanarmytalk.com](https://www.romanarmytalk.com)
- - date_published: 2024-07-20T07:56:58.376523+00:00
-
- ## RomanCart.com Remote Data Delivery Server
- - [https://remote.romancart.com](https://remote.romancart.com)
- - date_published: 2022-07-12T11:49:35+00:00
-
- ## Best Free Shopping Cart Software
- - [http://www.romancart.com](http://www.romancart.com)
- - date_published: 2024-06-18T07:51:42.876568+00:00
-
- ## Romance Writers of Australia | Promoting excellence in romantic fiction  Helping writers become published and maintain strong careers  Providing continuing support and development
- - [http://www.romanceaustralia.com](http://www.romanceaustralia.com)
- - date_published: 2024-07-04T13:15:23.852977+00:00
-
- ## Romance Fiction Has a History
- - [https://romancehistory.com](https://romancehistory.com)
- - date_published: 2024-06-26T18:28:07+00:00
-
- ## Romance in Color
- - [http://romanceincolor.com](http://romanceincolor.com)
- - date_published: 2024-07-01T03:21:31+00:00
-
- ## why is x stock dropping - romancenovelyourself.com
- - [http://romancenovelyourself.com](http://romancenovelyourself.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Romance Was Born
- - [https://www.romancewasborn.com](https://www.romancewasborn.com)
- - date_published: 2024-06-15T10:13:01.693054+00:00
-
- ## Romancing SaGa 2: Revenge of the Seven | SQUARE-ENIX
- - [http://romancingsaga2.com](http://romancingsaga2.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Frameword
- - [https://frameword.romanfink.com](https://frameword.romanfink.com)
- - date_published: 2024-07-13T03:34:37.077160+00:00
-
- ## Kandinsky theme
- - [https://kandinsky.romanfink.com](https://kandinsky.romanfink.com)
- - date_published: 2024-07-13T03:34:41.000876+00:00
-
- ## Roman Fink
- - [https://romanfink.com](https://romanfink.com)
- - date_published: 2024-05-10T06:18:59.527239+00:00
- - tags: ['personal']
-
- ## Premium Access - Romania Insider
- - [https://my.romania-insider.com](https://my.romania-insider.com)
- - date_published: 2024-05-11T08:51:52.477129+00:00
 

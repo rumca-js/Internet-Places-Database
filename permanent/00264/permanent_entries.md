@@ -1,3 +1,262 @@
+ ## libclc
+ - [https://libclc.llvm.org](https://libclc.llvm.org)
+ - date_published: 2022-07-22T17:00:21+00:00
+
+ ## The LLVM C Library — The LLVM C Library
+ - [https://libc.llvm.org](https://libc.llvm.org)
+ - date_published: 2024-05-23T17:55:34+00:00
+
+ ## "libc++abi" C++ Standard Library Support
+ - [https://libcxxabi.llvm.org](https://libcxxabi.llvm.org)
+ - date_published: 2022-07-22T17:00:21+00:00
+
+ ## “libc++” C++ Standard Library — libc++  documentation
+ - [https://libcxx.llvm.org](https://libcxx.llvm.org)
+ - date_published: 2024-05-08T09:43:31.026006+00:00
+
+ ## 🐛 LLDB
+ - [https://lldb.llvm.org](https://lldb.llvm.org)
+ - date_published: 2024-05-08T09:43:28.870955+00:00
+
+ ## LLD - The LLVM Linker — lld 19.0.0git documentation
+ - [https://lld.llvm.org](https://lld.llvm.org)
+ - date_published: 2024-05-08T09:43:50.979271+00:00
+
+ ## The LLVM Compiler Infrastructure Project
+ - [https://llvm.org](https://llvm.org)
+ - date_published: 2023-10-25T21:39:28.896311+00:00
+ - tags: ['compiler']
+
+ ## LNT - Overview
+ - [https://lnt.llvm.org](https://lnt.llvm.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## MLIR
+ - [https://mlir.llvm.org](https://mlir.llvm.org)
+ - date_published: 2024-05-08T09:43:37.239283+00:00
+
+ ## Welcome to the documentation of OpenMP in LLVM! — LLVM/OpenMP 19.0.0git documentation
+ - [https://openmp.llvm.org](https://openmp.llvm.org)
+ - date_published: 2024-05-08T09:43:52.460947+00:00
+
+ ## Polly - Polyhedral optimizations for LLVM
+ - [https://polly.llvm.org](https://polly.llvm.org)
+ - date_published: 2024-05-08T09:43:33.890788+00:00
+
+ ## Index of /
+ - [https://prereleases.llvm.org](https://prereleases.llvm.org)
+ - date_published: 2024-05-08T09:43:54.136974+00:00
+
+ ## Download LLVM releases
+ - [https://releases.llvm.org](https://releases.llvm.org)
+ - date_published: 2023-10-25T21:39:30.474866+00:00
+
+ ## LLVM Phabricator archive
+ - [https://reviews.llvm.org](https://reviews.llvm.org)
+ - date_published: 2023-12-14T07:29:19+00:00
+
+ ## VMKit: a substrate for virtual machines
+ - [http://vmkit.llvm.org](http://vmkit.llvm.org)
+ - date_published: 2024-07-01T06:14:02.085779+00:00
+
+ ## QuickStart — llvmpy
+ - [http://www.llvmpy.org](http://www.llvmpy.org)
+ - date_published: 2024-06-22T14:02:04+00:00
+
+ ## LLVM Weekly - a weekly newsletter covering developments in LLVM, Clang and more
+ - [https://llvmweekly.org](https://llvmweekly.org)
+ - date_published: 2024-05-08T09:43:49.442878+00:00
+
+ ## Cierpliwości...
+ - [https://lmcu.org](https://lmcu.org)
+ - date_published: 2024-05-09T07:36:22.713340+00:00
+
+ ## LMFDB - The L-functions and modular forms database
+ - [http://lmfdb.org](http://lmfdb.org)
+ - date_published: 2024-06-30T08:21:56.274682+00:00
+
+ ## LMFDB - The L-functions and modular forms database
+ - [https://www.lmfdb.org](https://www.lmfdb.org)
+ - date_published: 2024-05-07T15:55:20.415502+00:00
+
+ ## Leon Mika
+ - [https://lmika.org](https://lmika.org)
+ - date_published: 2024-05-04T14:14:53.171327+00:00
+ - tags: ['personal']
+
+ ## Loża-Matka "Kopernik"
+ - [https://lmkopernik.org](https://lmkopernik.org)
+ - date_published: 2023-12-05T15:16:55+00:00
+ - tags: ['freemasonry']
+
+ ## Attention Required! | Cloudflare
+ - [https://arena.lmsys.org](https://arena.lmsys.org)
+ - date_published: 2024-05-08T09:45:25.543993+00:00
+
+ ## Mistral AI launches Mixtral-Next
+ - [https://chat.lmsys.org](https://chat.lmsys.org)
+ - date_published: 2024-02-17T03:46:24+00:00
+
+ ## LMSYS Org
+ - [https://lmsys.org](https://lmsys.org)
+ - date_published: 2023-10-25T21:39:31.970567+00:00
+
+ ## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
+ - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
+ - date_published: 2023-10-25T21:39:33.956719+00:00
+
+ ## The Logfile Navigator
+ - [https://lnav.org](https://lnav.org)
+ - date_published: 2024-06-16T23:14:23+00:00
+ - tags: ['open source', 'logfile']
+
+ ## LNMP一键安装包  - CentOS/RadHat/Debian/Ubuntu下自动编译安装Nginx,PHP,MySQL,PHPMyAdmin
+ - [https://lnmp.org](https://lnmp.org)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Lnst Project
+ - [https://lnst-project.org](https://lnst-project.org)
+ - date_published: 2023-02-09T13:19:14+00:00
+
+ ## Home - Leave No Trace - Leave No Trace
+ - [https://lnt.org](https://lnt.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home - Library of America
+ - [https://cart.loa.org](https://cart.loa.org)
+ - date_published: 2024-05-08T09:45:37.838803+00:00
+
+ ## Library of America - Sign in
+ - [https://submemb.loa.org](https://submemb.loa.org)
+ - date_published: 2024-05-08T09:45:31.301754+00:00
+
+ ## Home - Library of America
+ - [https://loa.org](https://loa.org)
+ - date_published: 2024-02-06T12:42:50+00:00
+ - tags: ['books', 'reading']
+
+ ## Load balancing will never be your problem again | Loadbalancer.org
+ - [http://www.loadbalancer.org](http://www.loadbalancer.org)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## IATSE Local 44
+ - [https://local44.org](https://local44.org)
+ - date_published: 2024-06-19T07:55:28+00:00
+
+ ## UA Local 525
+ - [https://www.local525.org](https://www.local525.org)
+ - date_published: 2024-06-22T19:35:46.360903+00:00
+
+ ## Local Culture Creative | Full Service Marketing Agency
+ - [https://localculture.org](https://localculture.org)
+ - date_published: 2024-06-27T16:54:12.989929+00:00
+
+ ## Home - Local First
+ - [https://local-first.org](https://local-first.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Local Food Nodes
+ - [https://localfoodnodes.org](https://localfoodnodes.org)
+ - date_published: 2024-06-19T22:10:29.533191+00:00
+
+ ## Local Futures is a pioneer of the worldwide localization movement.
+ - [https://www.localfutures.org](https://www.localfutures.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Localgov Drupal Demo | Drush Site-Install
+ - [https://demo.localgovdrupal.org](https://demo.localgovdrupal.org)
+ - date_published: 2024-06-18T10:40:04.732034+00:00
+
+ ## LocalGov Drupal Docs
+ - [https://docs.localgovdrupal.org](https://docs.localgovdrupal.org)
+ - date_published: 2024-06-18T10:40:06.083425+00:00
+
+ ## Web publishing for Councils | LocalGov Drupal
+ - [https://localgovdrupal.org](https://localgovdrupal.org)
+ - date_published: 2024-05-02T12:28:53.856364+00:00
+
+ ## Local Harvest / Farmers Markets / Family Farms / CSA / Organic Food / Pick your Own
+ - [http://www.localharvest.org](http://www.localharvest.org)
+ - date_published: 2024-07-10T10:10:08.596937+00:00
+
+ ## Local Media Association | Local Media Foundation
+ - [https://localmedia.org](https://localmedia.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home
+ - [https://www.localnaturelab.org](https://www.localnaturelab.org)
+ - date_published: 2024-07-12T08:49:31.938028+00:00
+
+ ## Local News Matters
+ - [https://localnewsmatters.org](https://localnewsmatters.org)
+ - date_published: 2024-07-13T04:22:16+00:00
+
+ ## The Roadmap for Local News
+ - [https://localnewsroadmap.org](https://localnewsroadmap.org)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## LocalSend: Open-source, cross-platform file sharing to nearby devices
+ - [https://localsend.org](https://localsend.org)
+ - date_published: 2024-03-10T21:38:06+00:00
+ - tags: ['file send', 'open source']
+
+ ## Global Business Directory | Free Online Advertising | Local Business Listing
+ - [https://localstar.org](https://localstar.org)
+ - date_published: 2024-05-07T13:43:28.073352+00:00
+
+ ## Lockman Foundation - Home
+ - [http://www.lockman.org](http://www.lockman.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## SSDeV | Sportsfreunde der Sperrtechnik – Deutschland e.V.
+ - [http://www.lockpicking.org](http://www.lockpicking.org)
+ - date_published: 2024-07-16T19:26:10.863459+00:00
+
+ ## LOCKSS Documentation Portal — LOCKSS Documentation Portal
+ - [https://docs.lockss.org](https://docs.lockss.org)
+ - date_published: 2024-04-11T08:43:26+00:00
+
+ ## LOCKSS Program
+ - [https://lockss.org](https://lockss.org)
+ - date_published: 2024-05-09T06:40:19.234121+00:00
+
+ ## Lock Your Meds
+ - [https://www.lockyourmeds.org](https://www.lockyourmeds.org)
+ - date_published: 2024-06-12T20:39:52.333596+00:00
+ - tags: ['activism']
+
+ ## Locob Loco
+ - [http://www.locobloco.org](http://www.locobloco.org)
+ - date_published: 2024-06-27T15:01:48+00:00
+
+ ## LoCoBot · An Open Source Low Cost Robot
+ - [https://locobot.org](https://locobot.org)
+ - date_published: 2024-06-13T18:24:47.809401+00:00
+
+ ## Locura en Argentina
+ - [https://locuraenargentina.org](https://locuraenargentina.org)
+ - date_published: 2024-05-04T13:47:27.363094+00:00
+
+ ## Lode Vandevenne
+ - [https://lodev.org](https://lodev.org)
+ - date_published: 2020-12-28T01:04:13+00:00
+
+ ## Home – Loeys-Dietz Syndrome Foundation Canada - Loeys-Dietz Syndrome Foundation Canada
+ - [http://loeysdietzcanada.org](http://loeysdietzcanada.org)
+ - date_published: 2024-06-10T02:24:43+00:00
+
+ ## Home Page - The Loft Cinema
+ - [https://loftcinema.org](https://loftcinema.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Reva and David Logan Foundation - The Reva and David Logan Foundation
+ - [http://www.loganfdn.org](http://www.loganfdn.org)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Stokes Nature Center
+ - [https://logannature.org](https://logannature.org)
+ - date_published: 2024-07-13T07:35:21.349180+00:00
+
  ## Learning on Graphs Conference
  - [https://logconference.org](https://logconference.org)
  - date_published: 2024-06-16T13:46:33+00:00
@@ -3795,258 +4054,4 @@
  ## Metabunk
  - [https://www.metabunk.org](https://www.metabunk.org)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## MetaCartel
- - [https://www.metacartel.org](https://www.metacartel.org)
- - date_published: 2024-07-15T11:14:04.875857+00:00
-
- ## MetaChat
- - [http://metachat.org](http://metachat.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## The Comprehensive Perl Archive Network - www.cpan.org
- - [https://cpan.metacpan.org](https://cpan.metacpan.org)
- - date_published: 2024-07-07T09:42:02+00:00
-
- ## Search the CPAN - metacpan.org
- - [https://metacpan.org](https://metacpan.org)
- - date_published: 2024-04-28T03:12:27.920464+00:00
-
- ## CPAN Security Group
- - [https://security.metacpan.org](https://security.metacpan.org)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Home - mέta
- - [https://metacpc.org](https://metacpc.org)
- - date_published: 2021-02-26T09:04:56+00:00
-
- ## Join Outerbounds on Slack
- - [http://chat.metaflow.org](http://chat.metaflow.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Welcome to Metaflow | Metaflow Docs
- - [https://docs.metaflow.org](https://docs.metaflow.org)
- - date_published: 2024-05-28T09:15:32+00:00
-
- ## Metaflow - a framework for real-life ML, AI, and data science
- - [https://metaflow.org](https://metaflow.org)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Mr. Wolfe's META GEAR – …It's Just a Box!
- - [http://metagearsolid.org](http://metagearsolid.org)
- - date_published: 2024-07-17T17:03:19.571187+00:00
-
- ## MetaGer: Privacy Protected Search & Find
- - [https://metager.org](https://metager.org)
- - date_published: 2024-03-06T15:11:53+00:00
- - tags: ['search engine']
-
- ## Metagov
- - [https://metagov.org](https://metagov.org)
- - date_published: 2024-05-12T06:01:46.481445+00:00
-
- ## Home - Metamoderna
- - [https://metamoderna.org](https://metamoderna.org)
- - date_published: 2024-06-12T12:35:23.444915+00:00
-
- ## Index - Meta-MorphOS
- - [https://meta-morphos.org](https://meta-morphos.org)
- - date_published: 2023-12-11T18:29:54.465466+00:00
-
- ## The Metaphor Project – Framing Our Messages for Americans
- - [https://metaphorproject.org](https://metaphorproject.org)
- - date_published: 2024-02-08T16:36:43.350068+00:00
-
- ## Metabase
- - [https://metabase.metaproxy.org](https://metabase.metaproxy.org)
- - date_published: 2024-06-12T11:25:31.475245+00:00
-
- ## index
- - [https://www.metared.org](https://www.metared.org)
- - date_published: 2024-07-02T06:57:04+00:00
-
- ## Die Metareflektor-Luftoffensive
- - [http://www.metareflektor-luftoffensive.org](http://www.metareflektor-luftoffensive.org)
- - date_published: 2024-07-13T14:41:14.366139+00:00
-
- ## Metaspora
- - [https://metaspora.org](https://metaspora.org)
- - date_published: 2024-05-09T08:22:10.111457+00:00
-
- ## Metastable Homepage
- - [https://metastable.org](https://metastable.org)
- - date_published: 2023-12-02T04:46:18.679776+00:00
-
- ## metauni
- - [https://metauni.org](https://metauni.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## MVHS GUIDANCE
- - [https://meteacounseling.org](https://meteacounseling.org)
- - date_published: 2024-05-08T10:05:45.344450+00:00
-
- ## METEA MEDIA - Your World. Your Stories. Everyday.
- - [https://meteamedia.org](https://meteamedia.org)
- - date_published: 2023-10-25T21:41:57.632879+00:00
-
- ## Metea Unified 2.0
- - [https://meteaunified.org](https://meteaunified.org)
- - date_published: 2024-05-08T10:05:57.050360+00:00
-
- ## BEYOND the SKY               our dreams got bigger & bigger
- - [https://cid.meteorfall.org](https://cid.meteorfall.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home | The Meteoriks 2024
- - [https://2024.meteoriks.org](https://2024.meteoriks.org)
- - date_published: 2024-03-30T01:36:05+00:00
-
- ## Penetration Testing Tools
- - [https://meterpreter.org](https://meterpreter.org)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## MethaneSAT
- - [https://methanesat.org](https://methanesat.org)
- - date_published: 2024-03-01T09:12:57.922374+00:00
-
- ## METI International
- - [https://meti.org](https://meti.org)
- - date_published: 2024-02-08T22:01:54.449774+00:00
-
- ## MetLink - Royal Meteorological Society Home
- - [http://www.metlink.org](http://www.metlink.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Masthead Maine Photos
- - [https://photos.metln.org](https://photos.metln.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Home - Maine Trust for Local News
- - [https://metln.org](https://metln.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Met Custom Prints | Prints and Custom Framing From The Metropolitan Museum of Art
- - [https://customprints.metmuseum.org](https://customprints.metmuseum.org)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## The Metropolitan Museum of Art
- - [https://engage.metmuseum.org](https://engage.metmuseum.org)
- - date_published: 2024-05-08T10:06:24.167289+00:00
-
- ## Living Map
- - [https://maps.metmuseum.org](https://maps.metmuseum.org)
- - date_published: 2024-05-08T10:06:28.016379+00:00
-
- ## The Met Store | Gifts from The Metropolitan Museum of Art
- - [https://store.metmuseum.org](https://store.metmuseum.org)
- - date_published: 2024-05-08T10:06:26.845831+00:00
-
- ## The Metropolitan Museum of Art
- - [https://metmuseum.org](https://metmuseum.org)
- - date_published: 2023-11-13T13:45:57.754259+00:00
- - tags: ['museum']
-
- ## METR
- - [https://metr.org](https://metr.org)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Metro 911 of Kanawha County West Virginia
- - [https://www.metro911.org](https://www.metro911.org)
- - date_published: 2024-07-15T10:48:16.542449+00:00
-
- ## Metropolitan Abundance Project
- - [https://www.metroabundance.org](https://www.metroabundance.org)
- - date_published: 2024-06-28T13:16:21.462755+00:00
-
- ## Automated metros | UITP
- - [http://metroautomation.org](http://metroautomation.org)
- - date_published: 2024-06-28T13:29:09.461790+00:00
-
- ## metro | cincinnati : Introduction
- - [http://metro-cincinnati.org](http://metro-cincinnati.org)
- - date_published: 2024-06-28T13:46:33.257081+00:00
-
- ## Main Page
- - [https://www.metroidwiki.org](https://www.metroidwiki.org)
- - date_published: 2021-08-23T21:28:43+00:00
-
- ## Museum of Fine Arts Boston
- - [http://www.mfa.org](http://www.mfa.org)
- - date_published: 2024-06-24T09:17:25+00:00
-
- ## Index of /
- - [https://ftp.mfek.org](https://ftp.mfek.org)
- - date_published: 2024-01-18T16:40:06.576011+00:00
-
- ## Methuselah Foundation
- - [https://mfoundation.org](https://mfoundation.org)
- - date_published: 2024-07-15T07:31:44.525565+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.mfpe.org](https://www.mfpe.org)
- - date_published: 2024-07-09T16:45:56.239145+00:00
-
- ## Your Page Title
- - [http://mftech.org](http://mftech.org)
- - date_published: 2024-07-18T12:24:17.829500+00:00
-
- ## Michael Garland - Home Page
- - [http://mgarland.org](http://mgarland.org)
- - date_published: 2023-09-04T17:25:47+00:00
-
- ## NPCS Clinical Resources
- - [https://www.mghpcs.org](https://www.mghpcs.org)
- - date_published: 2024-07-07T08:06:06.052796+00:00
-
- ## MHacks
- - [https://mhacks.org](https://mhacks.org)
- - date_published: 2024-06-22T06:21:25.770996+00:00
-
- ## Mental Health America | Homepage
- - [https://www.mhanational.org](https://www.mhanational.org)
- - date_published: 2024-06-28T21:57:19+00:00
-
- ## Public Modules - Home    -
- - [https://members.mha-net.org](https://members.mha-net.org)
- - date_published: 2024-05-08T10:06:34.250591+00:00
-
- ## The Masonry Heater Association (MHA) Website
- - [https://mha-net.org](https://mha-net.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Misson Hill Arts Festival
- - [https://mhartsfest.org](https://mhartsfest.org)
- - date_published: 2024-06-22T16:41:21+00:00
-
- ## Masayuki Hatta
- - [https://www.mhatta.org](https://www.mhatta.org)
- - date_published: 2018-12-11T00:00:00+00:00
-
- ## Friends of the Mohawk-Hudson Bike-Hike Trail
- - [https://www.mhbht.org](https://www.mhbht.org)
- - date_published: 2024-06-28T13:14:27.251218+00:00
-
- ## MHC Healthcare – Quality Healthcare with a Heart
- - [https://mhchealthcare.org](https://mhchealthcare.org)
- - date_published: 2023-11-29T18:20:38.384729+00:00
-
- ## Home | MHC Healthcare | Marana - Tucson, AZ
- - [https://refills.mhchealthcare.org](https://refills.mhchealthcare.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## MHC Family Medicine Residency Program | Accredited Medical Residency Program in Tucson Arizona
- - [https://mhcresidency.org](https://mhcresidency.org)
- - date_published: 2024-05-08T10:06:56.821644+00:00
-
- ## Michael Herman
- - [https://mherman.org](https://mherman.org)
- - date_published: 2020-07-16T13:29:08+00:00
-
- ## MHGames » Games by Mika Halttunen
- - [http://www.mhgames.org](http://www.mhgames.org)
- - date_published: 2024-07-11T12:30:35.260070+00:00
-
- ## Library Genesis: Miner's Hut - Index page
- - [https://forum.mhut.org](https://forum.mhut.org)
- - date_published: 2024-05-06T00:00:00+00:00
 

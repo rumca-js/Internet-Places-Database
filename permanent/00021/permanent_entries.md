@@ -1,3 +1,27 @@
+ ## DOBERMAN®
+ - [https://doberman.co](https://doberman.co)
+ - date_published: 2024-06-29T08:46:35.381617+00:00
+
+ ## DocuSeal | Open Source Document Signing
+ - [https://cdn.docuseal.co](https://cdn.docuseal.co)
+ - date_published: 2024-05-09T09:13:28.639866+00:00
+
+ ## DocuSeal | Open Source Document Filling and Signing
+ - [https://console.docuseal.co](https://console.docuseal.co)
+ - date_published: 2024-07-11T13:53:17.592705+00:00
+
+ ## DocuSeal | Open Source Document Signing
+ - [https://docuseal.co](https://docuseal.co)
+ - date_published: 2024-05-09T09:13:26.368299+00:00
+
+ ## DodoLab
+ - [https://dodolab.co](https://dodolab.co)
+ - date_published: 2024-06-29T17:24:36.047521+00:00
+
+ ## Domino Sound
+ - [https://dominosound.co](https://dominosound.co)
+ - date_published: 2024-05-10T05:32:53.962238+00:00
+
  ## United Spinal Association
  - [https://abnbtwea.donorsupport.co](https://abnbtwea.donorsupport.co)
  - date_published: 2024-07-11T21:48:51.963569+00:00
@@ -1164,6 +1188,10 @@
  - [https://gkeenan.co](https://gkeenan.co)
  - date_published: 2023-12-18T01:35:50.923520+00:00
  - tags: ['personal']
+
+ ## Notes from Greg Kogan
+ - [https://gkogan.co](https://gkogan.co)
+ - date_published: 2024-07-28T03:58:48.673657+00:00
 
  ## Attention Required! | Cloudflare
  - [https://glasp.co](https://glasp.co)
@@ -4016,32 +4044,4 @@ It’s what you do.
  ## Pixel Pioneers - conferences, workshops, and advice for a better web
  - [https://pixelpioneers.co](https://pixelpioneers.co)
  - date_published: 2024-07-22T12:29:55.606330+00:00
-
- ## A 60-second meditation tool to help clear your mind
- - [https://www.pixelthoughts.co](https://www.pixelthoughts.co)
- - date_published: 2021-12-16T18:37:17+00:00
-
- ## Pixel Wrld of Roman Tesliuk
- - [https://www.pixelwrld.co](https://www.pixelwrld.co)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Emplifi: Your Go-to Customer Engagement & Social Media Marketing Platform
- - [https://photos.pixlee.co](https://photos.pixlee.co)
- - date_published: 2024-05-12T05:12:29.484869+00:00
-
- ## pixxel.co - Domain Name For Sale | Dan.com
- - [http://pixxel.co](http://pixxel.co)
- - date_published: 2024-06-24T05:08:36.787148+00:00
-
- ## Placehold | A simple, fast and free image placeholder service
- - [https://placehold.co](https://placehold.co)
- - date_published: 2024-06-16T03:30:50.570288+00:00
-
- ## Planetary | Digital Design & Product Engineering Studio in Brooklyn, NYC | Planetary
- - [https://planetary.co](https://planetary.co)
- - date_published: 2024-07-09T19:05:47.666066+00:00
-
- ## Plant22 - A creative co-working space in Amsterdam-West.
- - [http://plant22.co](http://plant22.co)
- - date_published: 2024-07-13T15:28:34.594710+00:00
 

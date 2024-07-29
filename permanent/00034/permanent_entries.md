@@ -1,3 +1,43 @@
+ ## Summer Nights, by Helynt
+ - [http://helynt.bandcamp.com](http://helynt.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Against a Wen, by Higora
+ - [https://higora.bandcamp.com](https://higora.bandcamp.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Hiraeth Records
+ - [https://hiraeth-records.bandcamp.com](https://hiraeth-records.bandcamp.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Holland Andrews
+ - [https://hollandandrews.bandcamp.com](https://hollandandrews.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Hollywood Burns
+ - [https://hollywoodburns.bandcamp.com](https://hollywoodburns.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Hot Snakes
+ - [https://hotsnakes.bandcamp.com](https://hotsnakes.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## House of Black Lanterns
+ - [https://houseofblacklanterns.bandcamp.com](https://houseofblacklanterns.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## HOW2MAKE RECORDS
+ - [https://how2make.bandcamp.com](https://how2make.bandcamp.com)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Howie Lee
+ - [https://howielee.bandcamp.com](https://howielee.bandcamp.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Harmonic Resonance Recordings
+ - [http://hrresonance.bandcamp.com](http://hrresonance.bandcamp.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
  ## Hubert Kostkiewicz
  - [https://hubertkostkiewicz.bandcamp.com](https://hubertkostkiewicz.bandcamp.com)
  - date_published: 2024-06-30T00:00:00+00:00
@@ -3976,46 +4016,4 @@ rain or shine
  ## Wargames | Battlespace Games
  - [https://www.battlespacegames.com](https://www.battlespacegames.com)
  - date_published: 2024-07-02T21:45:13.819920+00:00
-
- ## Battlestate Games Limited
- - [https://www.battlestategames.com](https://www.battlestategames.com)
- - date_published: 2024-03-13T09:44:59+00:00
-
- ## Lawrence Person's BattleSwarm Blog
- - [https://www.battleswarmblog.com](https://www.battleswarmblog.com)
- - date_published: 2024-07-03T22:26:04.002007+00:00
-
- ## BattleTech | The Game of Armored Combat
- - [https://battletech.com](https://battletech.com)
- - date_published: 2024-05-09T11:24:52+00:00
- - tags: ['mech', 'board game', 'miniatures', 'tabletop game', 'wargames']
-
- ## BattleTech | The Board Game of Armored Combat
- - [https://bg.battletech.com](https://bg.battletech.com)
- - date_published: 2024-05-27T08:24:45.552048+00:00
- - tags: ['board game']
-
- ## BattleTech Fiction – Dive into BattleTech Fiction
- - [https://fs.battletech.com](https://fs.battletech.com)
- - date_published: 2024-05-27T08:24:48.666027+00:00
-
- ## Baue Funeral Homes
- - [https://www.baue.com](https://www.baue.com)
- - date_published: 2024-05-04T06:11:32.905131+00:00
-
- ## Home of Hockey | BAUER
- - [https://www.bauer.com](https://www.bauer.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## BauerFinancial | We analyze banks and credit unions…. very carefully
- - [https://www.bauerfinancial.com](https://www.bauerfinancial.com)
- - date_published: 2024-07-08T08:58:44.762067+00:00
-
- ## BAUER Foundation Corp.
- - [https://bauerfoundations.com](https://bauerfoundations.com)
- - date_published: 2024-05-12T07:38:28.867155+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://images.bauerhosting.com](https://images.bauerhosting.com)
- - date_published: 2024-05-10T00:00:00+00:00
 

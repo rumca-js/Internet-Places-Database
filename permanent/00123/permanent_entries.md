@@ -1,3 +1,115 @@
+ ## CLIENT Portal
+ - [https://clients.regencytechnologies.com](https://clients.regencytechnologies.com)
+ - date_published: 2024-07-15T09:58:26.191821+00:00
+
+ ## Regenerate Change | A Recipe for Social Alchemy
+ - [https://regeneratechange.com](https://regeneratechange.com)
+ - date_published: 2024-06-12T12:39:47.553080+00:00
+
+ ## Regenerative Agriculture Summit Europe 2024
+ - [https://regenerativeagriculturesummit.com](https://regenerativeagriculturesummit.com)
+ - date_published: 2022-03-01T10:04:00+00:00
+
+ ## Regeneron Pharmaceuticals: Delivering Life-transforming Medicines
+ - [https://www.regeneron.com](https://www.regeneron.com)
+ - date_published: 2024-07-08T19:03:18+00:00
+
+ ## Home
+ - [https://regenesisgroup.com](https://regenesisgroup.com)
+ - date_published: 2024-07-03T17:50:14.253194+00:00
+
+ ## Regent Bed Collection
+ - [https://regentbedcollection.com](https://regentbedcollection.com)
+ - date_published: 2024-06-21T10:06:53.946433+00:00
+
+ ## REGENT | Coastal Travel. 100% Electric.
+ - [https://www.regentcraft.com](https://www.regentcraft.com)
+ - date_published: 2023-10-25T16:48:59.761531+00:00
+
+ ## regex101: build, test, and debug regex
+ - [https://regex101.com](https://regex101.com)
+ - date_published: 2024-04-29T05:01:12.054190+00:00
+
+ ## RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs
+ - [https://regexone.com](https://regexone.com)
+ - date_published: 2011-06-01T00:00:00+00:00
+
+ ## Regex Tester - Javascript, PCRE, PHP
+ - [https://regexpal.com](https://regexpal.com)
+ - date_published: 2024-05-11T06:56:23.386688+00:00
+
+ ## Regexper
+ - [https://regexper.com](https://regexper.com)
+ - date_published: 2020-09-05T00:00:00+00:00
+
+ ## RegExr: Learn, Build, & Test RegEx
+ - [https://regexr.com](https://regexr.com)
+ - date_published: 2023-12-11T12:26:25+00:00
+ - tags: ['online tool', 'regular expressions', 'code sandbox']
+
+ ## Regex Tester and Debugger Online - Javascript, PCRE, PHP
+ - [https://regextester.com](https://regextester.com)
+ - date_published: 2024-05-11T06:56:21.117282+00:00
+
+ - [https://reggaebubblers.com](https://reggaebubblers.com)
+ - date_published: 2024-02-08T16:43:47.932382+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://reggiewatts.com](http://reggiewatts.com)
+ - date_published: 2024-07-13T07:19:26.054546+00:00
+
+ ## Regina-operamathus.com: Berita Youtuber Indonesia & Selebgram Terbaru
+ - [https://content.regina-operamathus.com](https://content.regina-operamathus.com)
+ - date_published: 2024-07-07T02:50:57.334135+00:00
+
+ ## 404
+ - [http://www.regional-green.com](http://www.regional-green.com)
+ - date_published: 2024-06-20T14:58:01.256561+00:00
+
+ ## Home
+ - [https://www.regionalsan.com](https://www.regionalsan.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Careers at Regions Bank | Regions Bank jobs
+ - [https://careers.regions.com](https://careers.regions.com)
+ - date_published: 2024-06-16T09:19:37.075226+00:00
+
+ ## Commercial Check Image Archive
+ - [https://checkimage.regions.com](https://checkimage.regions.com)
+ - date_published: 2023-03-08T02:16:53+00:00
+
+ ## Regions Bank más cercano. | Cuenta de cheques, cuenta de ahorros, hipoteca, préstamos y más | Regions Bank más cercano.
+ - [https://espanol.regions.com](https://espanol.regions.com)
+ - date_published: 2024-06-16T09:19:49.434819+00:00
+
+ ## Regions | Regions Bank Visa Card Maintenance
+ - [https://intersect.regions.com](https://intersect.regions.com)
+ - date_published: 2024-06-16T09:19:58.705706+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://ir.regions.com](https://ir.regions.com)
+ - date_published: 2024-06-16T09:19:45.638368+00:00
+
+ ## Log in to Regions Online Banking | Regions Bank
+ - [https://login.regions.com](https://login.regions.com)
+ - date_published: 2023-12-06T02:17:10+00:00
+
+ ## Regions
+ - [https://mkt-ras-proxy-v3.api.regions.com](https://mkt-ras-proxy-v3.api.regions.com)
+ - date_published: 2024-06-16T09:19:40.020898+00:00
+
+ ## regionscommercialprod - Signing in...
+ - [https://onepass.regions.com](https://onepass.regions.com)
+ - date_published: 2024-06-16T09:19:33.441870+00:00
+
+ ## Log in to Regions Online Banking | Regions Bank
+ - [https://onlinebanking.regions.com](https://onlinebanking.regions.com)
+ - date_published: 2023-12-06T02:17:10+00:00
+
+ ## regionscommercialprod - Signing in...
+ - [https://onlineimagelockbox.regions.com](https://onlineimagelockbox.regions.com)
+ - date_published: 2024-06-16T09:19:31.285831+00:00
+
  ## Regions
  - [https://regions-rates-sys-proxy-v1.api.regions.com](https://regions-rates-sys-proxy-v1.api.regions.com)
  - date_published: 2024-06-16T09:19:59.914284+00:00
@@ -3943,117 +4055,4 @@
  ## Ricardo Martin-Brualla
  - [http://www.ricardomartinbrualla.com](http://www.ricardomartinbrualla.com)
  - date_published: 2024-01-09T03:51:54+00:00
-
- ## CDN Riccardo Giorato
- - [https://cdn.riccardogiorato.com](https://cdn.riccardogiorato.com)
- - date_published: 2024-05-12T05:27:32.940600+00:00
-
- ## mentomento: mentoring with Riccardo a Full Stack Engineer
- - [https://mentomento.riccardogiorato.com](https://mentomento.riccardogiorato.com)
- - date_published: 2024-05-12T05:27:30.345099+00:00
-
- ## Riccardo Giorato: Blog, Experiments, Remote work, Newsletter and more!
- - [https://riccardogiorato.com](https://riccardogiorato.com)
- - date_published: 1920-01-01T00:00:00+00:00
-
- ## Rice-Boy.com
- - [https://rice-boy.com](https://rice-boy.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Rice History Corner
- - [https://ricehistorycorner.com](https://ricehistorycorner.com)
- - date_published: 2024-06-30T08:58:18+00:00
-
- ## Rice University Athletics - Official Athletics Website
- - [https://riceowls.com](https://riceowls.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - Richard Aboulafia
- - [https://richardaboulafia.com](https://richardaboulafia.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Richard A Carter – Researcher and Digital Artist
- - [http://richardacarter.com](http://richardacarter.com)
- - date_published: 2024-06-22T14:48:41+00:00
-
- ## Richard Ashcroft Official Store
- - [https://store.richardashcroft.com](https://store.richardashcroft.com)
- - date_published: 2024-06-25T17:08:08.869017+00:00
-
- ## RichardBettridge.com
- - [http://richardbettridge.com](http://richardbettridge.com)
- - date_published: 2021-10-15T21:13:07+00:00
-
- ## Richard Dawkins
- - [https://richarddawkins.com](https://richarddawkins.com)
- - date_published: 2024-07-03T16:05:42.934254+00:00
-
- ## Richard Dawkins Tours – Reason Reignited
- - [https://richarddawkinstour.com](https://richarddawkinstour.com)
- - date_published: 2024-07-19T15:17:45.051678+00:00
-
- ## Bézier Curves - and the logic behind them | Richard Ekwonye
- - [https://blog.richardekwonye.com](https://blog.richardekwonye.com)
- - date_published: 2023-10-25T16:51:18.543659+00:00
-
- ## Richard Ekwonye
- - [https://richardekwonye.com](https://richardekwonye.com)
- - date_published: 2024-04-28T04:55:41.452351+00:00
-
- ## Richard Hanania's Newsletter | Substack
- - [https://www.richardhanania.com](https://www.richardhanania.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Richard Heinberg
- - [https://richardheinberg.com](https://richardheinberg.com)
- - date_published: 2024-07-13T09:32:09.768888+00:00
-
- ## Homepage | RichardHerring.com
- - [http://richardherring.com](http://richardherring.com)
- - date_published: 2024-04-28T04:55:46.246898+00:00
-
- ## Homepage | RichardHerring.com
- - [https://www.richardherring.com](https://www.richardherring.com)
- - date_published: 2024-02-13T17:35:46.763245+00:00
- - tags: ['personal']
-
- ## HelpFully IT - IT Support Consultancy
- - [https://richardhickson.com](https://richardhickson.com)
- - date_published: 2024-01-11T07:52:49.571068+00:00
-
- ## Richard Imenes — I am a senior database administrator who som...
- - [https://richardimenes.com](https://richardimenes.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## richardkramen.com
- - [https://richardkramen.com](https://richardkramen.com)
- - date_published: 2024-05-09T08:17:20.904051+00:00
-
- ## |  |
- - [http://www.richardlperri.com](http://www.richardlperri.com)
- - date_published: 2019-06-17T23:33:10+00:00
-
- ## Richard Lucas
- - [https://richardlucas.com](https://richardlucas.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Tikun Olam תיקון עולם إصلاح العالم
- - [http://www.richardsilverstein.com](http://www.richardsilverstein.com)
- - date_published: 2024-06-19T20:27:40+00:00
-
- ## A casual gourmet kitchen | Richardson’s Canal House
- - [http://richardsonscanalhouse.com](http://richardsonscanalhouse.com)
- - date_published: 2024-06-23T07:27:59+00:00
-
- ## Wear The Best | RichardsonSports.com
- - [https://richardsonsports.com](https://richardsonsports.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Richardson Wealth
- - [https://www.richardsonwealth.com](https://www.richardsonwealth.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Richards Variety Store
- - [https://www.richardsvarietystore.com](https://www.richardsvarietystore.com)
- - date_published: 2024-05-02T09:44:48.738402+00:00
 

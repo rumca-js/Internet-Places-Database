@@ -1,3 +1,51 @@
+ ## uma casa em beirute - poemas inéditos de sylvia beirute
+ - [http://sylviabeirute.blogspot.com](http://sylviabeirute.blogspot.com)
+ - date_published: 2024-06-30T09:03:05+00:00
+
+ ## Edelweiss
+ - [http://symbol-of-freedom.blogspot.com](http://symbol-of-freedom.blogspot.com)
+ - date_published: 2024-02-08T05:40:30+00:00
+
+ ## Blogger
+ - [http://symptomsofmadness.blogspot.com](http://symptomsofmadness.blogspot.com)
+ - date_published: 2024-07-15T09:27:13.948780+00:00
+
+ ## ΣΥΝΤΑΓΕΣ ΤΗΣ ΚΑΡΔΙΑΣ
+ - [https://syntageskardias.blogspot.com](https://syntageskardias.blogspot.com)
+ - date_published: 2024-06-09T05:45:57+00:00
+
+ ## sysadvent
+ - [https://sysadvent.blogspot.com](https://sysadvent.blogspot.com)
+ - date_published: 2024-05-06T20:30:49.092912+00:00
+
+ ## import sys / sys.exit()
+ - [http://sys-exit.blogspot.com](http://sys-exit.blogspot.com)
+ - date_published: 2024-04-17T05:53:07+00:00
+
+ ## Systematic-a
+ - [https://systematicrules.blogspot.com](https://systematicrules.blogspot.com)
+ - date_published: 2024-07-08T19:48:00+00:00
+
+ ## Terry Chen
+ - [http://t3rrychan.blogspot.com](http://t3rrychan.blogspot.com)
+ - date_published: 2024-03-08T06:47:51+00:00
+
+ ## Tabletop Apocalypse
+ - [https://tabletopapocalypse.blogspot.com](https://tabletopapocalypse.blogspot.com)
+ - date_published: 2024-05-31T10:20:52+00:00
+
+ ## Tabletop Wargames Blog
+ - [http://tabletopgamer.blogspot.com](http://tabletopgamer.blogspot.com)
+ - date_published: 2024-03-22T00:42:27+00:00
+
+ ## Ogilvie
+ - [http://tabletoptactician.blogspot.com](http://tabletoptactician.blogspot.com)
+ - date_published: 2024-07-05T21:14:08+00:00
+
+ ## tabletopwargamer
+ - [http://tabletopwargamer.blogspot.com](http://tabletopwargamer.blogspot.com)
+ - date_published: 2024-02-20T09:43:33+00:00
+
  ## Tabletop Workshop
  - [http://tabletopworkshop.blogspot.com](http://tabletopworkshop.blogspot.com)
  - date_published: 2024-03-05T04:39:28+00:00
@@ -3971,52 +4019,4 @@
  ## Unnatural History
  - [http://www.jongreenunnaturalhistory.blogspot.com](http://www.jongreenunnaturalhistory.blogspot.com)
  - date_published: 2024-03-21T18:56:21+00:00
-
- ## Nuevo Código Procesal Penal - Una Lectura Fácil
- - [http://www.joseguianderson.blogspot.com](http://www.joseguianderson.blogspot.com)
- - date_published: 2024-03-29T03:29:11+00:00
-
- ## Junkfood Science
- - [http://www.junkfoodscience.blogspot.com](http://www.junkfoodscience.blogspot.com)
- - date_published: 2024-03-05T07:44:44+00:00
-
- ## jurygeek
- - [http://www.jurygeek.blogspot.com](http://www.jurygeek.blogspot.com)
- - date_published: 2024-03-23T17:54:42+00:00
-
- ## keeptheflag
- - [https://www.keeptheflag.blogspot.com](https://www.keeptheflag.blogspot.com)
- - date_published: 2024-03-13T18:10:16+00:00
-
- ## KelliPundit
- - [http://www.kellipundit.blogspot.com](http://www.kellipundit.blogspot.com)
- - date_published: 2024-03-13T18:12:29+00:00
-
- ## Ken McCracken
- - [http://www.kenmccracken.blogspot.com](http://www.kenmccracken.blogspot.com)
- - date_published: 2024-02-08T16:31:43+00:00
-
- ## Kick to the Ego
- - [http://www.kicktotheego.blogspot.com](http://www.kicktotheego.blogspot.com)
- - date_published: 2024-02-28T15:24:02+00:00
-
- ## what life gives
- - [http://www.kingclancy.blogspot.com](http://www.kingclancy.blogspot.com)
- - date_published: 2024-03-21T14:25:37+00:00
-
- ## Blogger
- - [http://www.landofspices.blogspot.com](http://www.landofspices.blogspot.com)
- - date_published: 2024-07-02T10:02:30.414674+00:00
-
- ## langguj 5
- - [https://langguj.blogspot.com](https://langguj.blogspot.com)
- - date_published: 2024-02-08T11:08:18+00:00
-
- ## Law lessgal
- - [http://www.lawlessgal.blogspot.com](http://www.lawlessgal.blogspot.com)
- - date_published: 2024-03-13T10:56:56+00:00
-
- ## Blogger
- - [http://www.lawofnations.blogspot.com](http://www.lawofnations.blogspot.com)
- - date_published: 2024-06-27T08:57:22.896179+00:00
 

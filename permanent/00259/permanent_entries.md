@@ -1,3 +1,252 @@
+ ## Gisha
+ - [https://gisha.org](https://gisha.org)
+ - date_published: 2024-07-16T21:34:25.692312+00:00
+
+ ## Where are we watching? | Global Information Society Watch
+ - [https://www.giswatch.org](https://www.giswatch.org)
+ - date_published: 2024-05-25T05:39:24.826480+00:00
+
+ ## Fundación Secretariado Gitano
+ - [https://www.gitanos.org](https://www.gitanos.org)
+ - date_published: 2024-07-02T21:27:40.171012+00:00
+
+ ## git-cliff
+ - [https://git-cliff.org](https://git-cliff.org)
+ - date_published: 2024-06-26T10:36:58+00:00
+
+ ## Git for Windows
+ - [https://gitforwindows.org](https://gitforwindows.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## The most-comprehensive AI-powered DevSecOps platform
+ - [https://gitlab.org](https://gitlab.org)
+ - date_published: 2024-05-10T07:01:46.777755+00:00
+
+ ## GitLab Foundation
+ - [https://www.gitlabfoundation.org](https://www.gitlabfoundation.org)
+ - date_published: 2023-10-25T21:25:00.592742+00:00
+
+ ## GitList - An elegant and modern git repository viewer
+ - [http://gitlist.org](http://gitlist.org)
+ - date_published: 2022-01-15T05:26:26+00:00
+
+ ## GitNation Events - Giving Open Source a human face
+ - [https://gitnation.org](https://gitnation.org)
+ - date_published: 2024-05-06T13:26:07.659846+00:00
+
+ ## Public Home Page
+ - [https://info.gitnation.org](https://info.gitnation.org)
+ - date_published: 2024-06-20T07:00:49.892347+00:00
+
+ ## Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation
+ - [https://portal.gitnation.org](https://portal.gitnation.org)
+ - date_published: 2024-05-04T13:58:02.542463+00:00
+ - tags: ['conference', 'javascript']
+
+ ## gitorious valhalla
+ - [https://gitorious.org](https://gitorious.org)
+ - date_published: 2016-11-27T02:17:25+00:00
+
+ ## Git
+ - [https://git-scm.org](https://git-scm.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## gittup.org: [Wicked cool tagline.]
+ - [http://gittup.org](http://gittup.org)
+ - date_published: 2022-04-21T19:06:53+00:00
+
+ ## Find Best Charities To Donate | Charity Ratings, Reviews
+ - [https://give.org](https://give.org)
+ - date_published: 2024-05-08T07:33:02.894009+00:00
+
+ ## WBAI Online Donation Site by WBAI
+ - [https://give2wbai.org](https://give2wbai.org)
+ - date_published: 2024-05-29T06:59:50.501191+00:00
+
+ ## Welcome to Baylor College of Medicine
+ - [https://secure.givebcm.org](https://secure.givebcm.org)
+ - date_published: 2024-07-19T21:12:48+00:00
+
+ ## GiveCamp Memphis | Coding for Charity
+ - [https://givecampmemphis.org](https://givecampmemphis.org)
+ - date_published: 2024-05-08T06:02:32.098812+00:00
+
+ ## Best fundraising Ideas For non profit organizations | GIveCentral
+ - [https://www.givecentral.org](https://www.givecentral.org)
+ - date_published: 2024-07-04T17:01:38.049796+00:00
+
+ ## GiveDirect
+ - [https://www.givedirect.org](https://www.givedirect.org)
+ - date_published: 2024-06-27T06:29:48.445348+00:00
+
+ ## GiveDirectly: Send money to people living in poverty
+ - [https://community.givedirectly.org](https://community.givedirectly.org)
+ - date_published: 2024-06-21T11:40:31.011704+00:00
+
+ ## Give Now | GiveDirectly
+ - [https://donate.givedirectly.org](https://donate.givedirectly.org)
+ - date_published: 2024-05-10T05:58:32.596256+00:00
+
+ ## GiveDirectly: Send money to people living in poverty
+ - [https://givedirectly.org](https://givedirectly.org)
+ - date_published: 2024-05-06T23:00:05.602791+00:00
+
+ ## GiveDirectly: Send money directly to the extreme poor
+ - [https://live.givedirectly.org](https://live.givedirectly.org)
+ - date_published: 2024-05-10T05:58:38.194470+00:00
+
+ ## {{CONFIG.pageTags.opengraphTitle}}
+ - [https://giveforgoodnla.org](https://giveforgoodnla.org)
+ - date_published: 2024-05-04T10:12:17.478511+00:00
+
+ ## Give
+ - [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Give Lively
+ - [https://secure.givelively.org](https://secure.givelively.org)
+ - date_published: 2024-05-21T02:45:03.353239+00:00
+
+ ## Give Lively - A Free Fundraising Platform For Nonprofits
+ - [https://www.givelively.org](https://www.givelively.org)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## GiveMN
+ - [https://www.givemn.org](https://www.givemn.org)
+ - date_published: 2024-06-15T18:16:44.735642+00:00
+
+ ## Home Page
+ - [https://donate.givetoiowa.org](https://donate.givetoiowa.org)
+ - date_published: 2024-07-02T02:53:56.789667+00:00
+
+ ## Supporting Education - Morgan State University Foundation
+ - [http://www.givetomorgan.org](http://www.givetomorgan.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Shout: the UK's free, confidential and 24/7 mental health text service for crisis support
+ - [https://giveusashout.org](https://giveusashout.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Charity Reviews and Recommendations | GiveWell
+ - [http://blog.givewell.org](http://blog.givewell.org)
+ - date_published: 2024-04-29T04:44:10.203047+00:00
+
+ ## GiveWell
+ - [https://givewell.org](https://givewell.org)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Donate to GiveWell | GiveWell
+ - [https://secure.givewell.org](https://secure.givewell.org)
+ - date_published: 2024-05-12T07:28:50.705947+00:00
+
+ ## Giving Assistant - Shop &amp; Save With Promo Codes &amp; Coupons
+ - [https://givingassistant.org](https://givingassistant.org)
+ - date_published: 2024-06-21T17:25:48+00:00
+
+ ## https://givingbirthwithconfidence.org
+ - [https://givingbirthwithconfidence.org](https://givingbirthwithconfidence.org)
+ - date_published: 2024-02-08T22:08:41.766287+00:00
+
+ ## ReDI Donation Page-EN
+ - [https://redi-school.givingpage.org](https://redi-school.givingpage.org)
+ - date_published: 2024-07-22T09:26:29.077665+00:00
+
+ ## GivingTuesday
+ - [https://givingtuesday.org](https://givingtuesday.org)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## How Rich Am I?
+ - [https://howrichami.givingwhatwecan.org](https://howrichami.givingwhatwecan.org)
+ - date_published: 2024-07-12T18:54:35.397845+00:00
+
+ ## Giving What We Can
+ - [https://www.givingwhatwecan.org](https://www.givingwhatwecan.org)
+ - date_published: 2024-04-29T04:44:04.934117+00:00
+
+ ## Grand Junction, CO | Official Website
+ - [https://gjcity.org](https://gjcity.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Gulf Journal of Mathematics
+ - [http://gjom.org](http://gjom.org)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## The Greater Kanawha Valley Foundation
+ - [https://gkvf.org](https://gkvf.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## GLAAD
+ - [https://act.glaad.org](https://act.glaad.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GLAAD
+ - [https://give.glaad.org](https://give.glaad.org)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GLAAD
+ - [https://glaad.org](https://glaad.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Home - GLAD
+ - [https://www.glad.org](https://www.glad.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home | Gladstone Institutes
+ - [https://gladstone.org](https://gladstone.org)
+ - date_published: 2024-07-22T07:52:06+00:00
+
+ ## glandium.org
+ - [https://glandium.org](https://glandium.org)
+ - date_published: 2023-11-21T21:18:54.989187+00:00
+
+ ## Glasgow 2024, a Worldcon for Our Futures
+ - [https://glasgow2024.org](https://glasgow2024.org)
+ - date_published: 2023-02-24T23:49:47+00:00
+
+ ## Login -  Glasgow 2024 Worldcon
+ - [https://registration.glasgow2024.org](https://registration.glasgow2024.org)
+ - date_published: 2024-06-27T11:20:56.169212+00:00
+
+ ## Friends of Glasgow Necropolis
+ - [https://www.glasgownecropolis.org](https://www.glasgownecropolis.org)
+ - date_published: 2024-06-22T14:19:40.067805+00:00
+
+ ## City Cave Zen
+ - [https://glasgowzen.org](https://glasgowzen.org)
+ - date_published: 2024-06-27T08:55:38+00:00
+
+ ## Glasnost Linux
+ - [https://glasnost.org](https://glasnost.org)
+ - date_published: 2024-05-07T15:47:18.926456+00:00
+
+ ## glaucus
+ - [https://wiki.glaucuslinux.org](https://wiki.glaucuslinux.org)
+ - date_published: 2024-06-30T07:58:40.237299+00:00
+
+ ## glaucus - A simple and lightweight Linux® distribution based on musl libc and toybox
+ - [https://glaucuslinux.org](https://glaucuslinux.org)
+ - date_published: 2024-05-07T15:47:09.521415+00:00
+
+ ## Great Lakes Bioenergy Research Center
+ - [https://www.glbrc.org](https://www.glbrc.org)
+ - date_published: 2024-07-03T13:06:39.960874+00:00
+
+ ## Home - Great Lakes Colleges Association
+ - [http://glca.org](http://glca.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home - Great Lakes Colleges Association
+ - [https://www.glca.org](https://www.glca.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## argmin gravitas
+ - [https://gleech.org](https://gleech.org)
+ - date_published: 2024-02-22T09:50:12.772168+00:00
+
+ ## LEI Search
+ - [https://search.gleif.org](https://search.gleif.org)
+ - date_published: 2024-04-22T11:12:12+00:00
+
  ## Home – GLEIF
  - [https://www.gleif.org](https://www.gleif.org)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -3804,255 +4053,4 @@
  ## Heureka Labs
  - [https://www.heurekalabs.org](https://www.heurekalabs.org)
  - date_published: 2024-05-04T14:42:28.119707+00:00
-
- ## Hewlett Foundation
- - [https://hewlett.org](https://hewlett.org)
- - date_published: 2024-07-07T04:55:18.870130+00:00
-
- ## Color Hex Color Codes
- - [https://hexcolorcodes.org](https://hexcolorcodes.org)
- - date_published: 2024-05-08T02:10:06.201105+00:00
-
- ## Home | Heyday Road
- - [https://heydayroad.org](https://heydayroad.org)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Heyvasor – Heyvasor
- - [http://www.heyvasoruk.org](http://www.heyvasoruk.org)
- - date_published: 2024-06-23T05:43:33+00:00
-
- ## hezmatt.org
- - [https://www.hezmatt.org](https://www.hezmatt.org)
- - date_published: 2023-10-25T21:28:33.908256+00:00
-
- ## Home
- - [https://hfa-dearborn.org](https://hfa-dearborn.org)
- - date_published: 2024-05-11T08:07:11.253871+00:00
-
- ## HFAF | Freemasonry for Women
- - [https://hfaf.org](https://hfaf.org)
- - date_published: 2024-06-17T11:30:18+00:00
- - tags: ['freemasonry']
-
- ## Hanscom FCU MoneyWisdom Blog
- - [https://go.hfcu.org](https://go.hfcu.org)
- - date_published: 2024-07-09T04:45:04+00:00
-
- ## Personal & Business Banking, Home Equity, Car Loans & More - Hanscom Federal Credit Union
- - [https://online.hfcu.org](https://online.hfcu.org)
- - date_published: 2024-07-10T04:55:37.937273+00:00
-
- ## Personal & Business Banking, Home Equity, Car Loans & More - Hanscom Federal Credit Union
- - [https://hfcu.org](https://hfcu.org)
- - date_published: 2024-05-09T07:36:15.777370+00:00
-
- ## Hanscom FCU Charitable Foundation – Help Us Improve Lives
- - [https://hfcucharity.org](https://hfcucharity.org)
- - date_published: 2024-07-10T04:55:42.069358+00:00
-
- ## HFES Learning:  Home
- - [https://learn.hfes.org](https://learn.hfes.org)
- - date_published: 2024-07-02T13:35:11.675913+00:00
-
- ## Hispanic Family Foundation - Improving the lives of families in our community
- - [https://hffus.org](https://hffus.org)
- - date_published: 2023-08-22T00:00:00+00:00
-
- ## News and Events | HFIP | Hurricane Forecast Improvement Program
- - [http://www.hfip.org](http://www.hfip.org)
- - date_published: 2024-07-22T17:56:04.760523+00:00
-
- ## Houston Functional Programmers – "An elegant paradigm, for a more civilized age."
- - [https://hfpug.org](https://hfpug.org)
- - date_published: 2024-07-10T01:55:45.405078+00:00
-
- ## Hot Flash Relief
- - [http://hfrelief.org](http://hfrelief.org)
- - date_published: 2024-07-22T08:40:29.261399+00:00
-
- ## Human Frontier Science Program
- - [https://www.hfsp.org](https://www.hfsp.org)
- - date_published: 2024-06-17T07:20:09+00:00
-
- ## Find Local Lawyers and Law Firms Worldwide - HG.org Lawyers Directory
- - [https://hg.org](https://hg.org)
- - date_published: 2024-05-07T13:55:57.047961+00:00
-
- ## Attention Required! | Cloudflare
- - [https://hgacbuy.org](https://hgacbuy.org)
- - date_published: 2024-05-12T07:27:41.420478+00:00
-
- ## HHMI: Advancing Scientific Research & Education
- - [https://www.hhmi.org](https://www.hhmi.org)
- - date_published: 2024-06-15T06:31:14+00:00
-
- ## HIAS - Welcome the stranger. Protect the refugee.
- - [https://www.hias.org](https://www.hias.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## HibbittsDesign.org
- - [http://hibbittsdesign.org](http://hibbittsdesign.org)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## Overview | Grav CMS in Open Education and Publishing
- - [http://learn.hibbittsdesign.org](http://learn.hibbittsdesign.org)
- - date_published: 2024-07-03T01:53:42.456855+00:00
-
- ## The Hibbs Lupus Trust
- - [https://www.hibbslupustrust.org](https://www.hibbslupustrust.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Hibernate. Everything data.
- - [https://hibernate.org](https://hibernate.org)
- - date_published: 2024-06-06T13:56:43.694772+00:00
- - tags: ['databases', 'programming framework', 'java']
-
- ## BUDDY Chicago
- - [https://hi-buddy.org](https://hi-buddy.org)
- - date_published: 2024-06-30T02:10:42.522058+00:00
-
- ## Digital Writing, Digital Teaching
- - [http://hickstro.org](http://hickstro.org)
- - date_published: 2024-07-04T18:00:49.526573+00:00
-
- ## Hidden Brain Podcast
- - [https://hiddenbrain.org](https://hiddenbrain.org)
- - date_published: 2020-08-26T22:01:38+00:00
-
- ## Hidden City Philadelphia
- - [http://hiddencityphila.org](http://hiddencityphila.org)
- - date_published: 2024-06-28T13:46:19.659411+00:00
-
- ## Home - Public Ed Works
- - [http://www.highereducationworks.org](http://www.highereducationworks.org)
- - date_published: 2024-07-02T04:34:04.141169+00:00
-
- ## High Impact Athletes
- - [https://highimpactathletes.org](https://highimpactathletes.org)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## The Highlander - Highlander
- - [https://www.highlandernews.org](https://www.highlandernews.org)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## highlight.js
- - [https://highlightjs.org](https://highlightjs.org)
- - date_published: 2024-04-28T03:37:28.801019+00:00
-
- ## HALG
- - [http://highlightsofalgorithms.org](http://highlightsofalgorithms.org)
- - date_published: 2024-04-09T01:30:26+00:00
-
- ## Budget Hotels: Unlocking the Spirit and History of Regions
- - [https://highlinehistory.org](https://highlinehistory.org)
- - date_published: 2024-06-29T07:20:03.132943+00:00
-
- ## Highpoint Center for Printmaking
- - [https://www.highpointprintmaking.org](https://www.highpointprintmaking.org)
- - date_published: 2024-05-06T18:11:06.168642+00:00
-
- ## Home Page - High Stakes Foundation
- - [https://highstakesfoundation.org](https://highstakesfoundation.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home - Highwire Press
- - [http://home.highwire.org](http://home.highwire.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home - Highwire Press
- - [https://openathens-sp.highwire.org](https://openathens-sp.highwire.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Hiili CarbonTag
- - [https://carbontag.hiili.org](https://carbontag.hiili.org)
- - date_published: 2024-02-28T17:06:26+00:00
-
- ## A single source of truth
- - [https://hiili.org](https://hiili.org)
- - date_published: 2024-05-06T17:57:15.182321+00:00
- - tags: ['carbon data']
-
- ## Hikipedia
- - [https://hikipedia.org](https://hikipedia.org)
- - date_published: 2024-05-11T09:50:23.924574+00:00
-
- ## Hikipedia
- - [https://m.hikipedia.org](https://m.hikipedia.org)
- - date_published: 2024-07-14T06:54:51.378915+00:00
-
- ## Live Draw SGP - Live Singapore - Live Result SGP - Live SGP<
- - [http://hillbillyreport.org](http://hillbillyreport.org)
- - date_published: 2024-06-15T21:56:57+00:00
-
- ## Hill Buzz
- - [http://hillbuzz.org](http://hillbuzz.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Hillel is Here for You - Hillel International
- - [https://www.hillel.org](https://www.hillel.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## הלל ישראל | Hillel Israel
- - [https://hillelisrael.org](https://hillelisrael.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Home - Hillsborough Arts Council
- - [https://hillsborougharts.org](https://hillsborougharts.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Hillsborough County
- - [http://www.hillsboroughcounty.org](http://www.hillsboroughcounty.org)
- - date_published: 2024-06-19T17:49:21.564455+00:00
-
- ## The Most Popular Fair on Earth Since 1851! | Hillsdale County Fair | Hillsdale, MI
- - [https://hillsdalecountyfair.org](https://hillsdalecountyfair.org)
- - date_published: 2024-06-29T21:53:06.761689+00:00
-
- ## Home | Hillsdale CRC
- - [https://www.hillsdalecrc.org](https://www.hillsdalecrc.org)
- - date_published: 2024-06-29T21:53:10.245327+00:00
-
- ## Medical Care Facility | Hillsdale County Medical Care Facility | Hillsdale
- - [https://www.hillsdalemedicalcare.org](https://www.hillsdalemedicalcare.org)
- - date_published: 2024-06-29T21:53:08.286616+00:00
-
- ## Hill-Stead Museum - Impressionist Art - Sunken Garden Poetry
- - [https://www.hillstead.org](https://www.hillstead.org)
- - date_published: 2024-05-04T08:46:49.947876+00:00
-
- ## Hilti Foundation - Building a Better, Sustainable Future Worldwide
- - [http://www.hiltifoundation.org](http://www.hiltifoundation.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Die Berge des Himalaya
- - [https://himalaya-info.org](https://himalaya-info.org)
- - date_published: 2024-04-29T05:41:15.058929+00:00
-
- ## สล็อตเว็บตรง FAFA138 ปั่นสล็อต แตกง่าย ฝากถอน ทรูวอเลท ไม่มีขั้นต่ำ
- - [http://www.himalayanlanguages.org](http://www.himalayanlanguages.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## HiMate - Lerne neue Menschen & Kulturen in Berlin kennen
- - [https://himate.org](https://himate.org)
- - date_published: 2023-08-28T00:00:00+00:00
-
- ## HIMSS Global Health Conference & Exhibition | HIMSS
- - [https://www.himssconference.org](https://www.himssconference.org)
- - date_published: 2024-07-04T07:23:29+00:00
-
- ## Hindu American Foundation
- - [http://www.hinduamericanfoundation.org](http://www.hinduamericanfoundation.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## HI New York City Hostel - HI USA
- - [https://hinewyork.org](https://hinewyork.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## HIPC 2024 | IEEE International Conference on High Performance Computing, Data, and Analytics
- - [https://hipc.org](https://hipc.org)
- - date_published: 2024-07-13T14:16:51.724318+00:00
-
- ## Libertades + Redes - Hiperderecho
- - [https://hiperderecho.org](https://hiperderecho.org)
- - date_published: 2024-06-28T21:41:35.523022+00:00
 

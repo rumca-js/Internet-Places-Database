@@ -1,3 +1,171 @@
+ ## Career Center | Tufts University
+ - [https://careers.tufts.edu](https://careers.tufts.edu)
+ - date_published: 2024-07-01T21:39:51.927620+00:00
+
+ ## CARE: Sexual Misconduct Resources and Prevention - Home
+ - [http://care.tufts.edu](http://care.tufts.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Center for Engineering Education and Outreach
+ - [http://ceeo.tufts.edu](http://ceeo.tufts.edu)
+ - date_published: 2024-06-28T05:15:00+00:00
+
+ ## Home | Department of Chemistry
+ - [https://chem.tufts.edu](https://chem.tufts.edu)
+ - date_published: 2024-05-07T15:55:26.989351+00:00
+
+ ## Homepage | Government & Community Relations
+ - [https://communityrelations.tufts.edu](https://communityrelations.tufts.edu)
+ - date_published: 2024-07-01T05:06:12+00:00
+
+ ## Homepage | School of Dental Medicine
+ - [https://dental.tufts.edu](https://dental.tufts.edu)
+ - date_published: 2024-07-01T15:02:52+00:00
+
+ ## Welcome to the Tufts Online Directory
+ - [https://directory.tufts.edu](https://directory.tufts.edu)
+ - date_published: 2024-07-01T21:37:14.151520+00:00
+
+ ## Home - Distinction Awards
+ - [https://distinctionawards.tufts.edu](https://distinctionawards.tufts.edu)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Home - Office of the Vice Provost for Institutional Inclusive Excellence
+ - [https://diversity.tufts.edu](https://diversity.tufts.edu)
+ - date_published: 2024-07-01T21:36:47.590630+00:00
+
+ ## Tufts Digital Library
+ - [https://dl.tufts.edu](https://dl.tufts.edu)
+ - date_published: 2024-06-24T10:08:23.737005+00:00
+
+ ## Homepage | School of Engineering
+ - [https://engineering.tufts.edu](https://engineering.tufts.edu)
+ - date_published: 2024-05-07T20:38:51.388598+00:00
+
+ ## Events | Tufts University
+ - [https://events.tufts.edu](https://events.tufts.edu)
+ - date_published: 2024-05-07T20:38:42.621203+00:00
+
+ ## The Fletcher School: A Graduate School of International Affairs | The Fletcher School
+ - [https://fletcher.tufts.edu](https://fletcher.tufts.edu)
+ - date_published: 2024-07-01T20:02:28+00:00
+
+ ## Home Page | Global Tufts
+ - [https://global.tufts.edu](https://global.tufts.edu)
+ - date_published: 2024-06-30T21:55:03+00:00
+
+ ## Homepage | Gordon Institute
+ - [http://gordon.tufts.edu](http://gordon.tufts.edu)
+ - date_published: 2024-06-26T14:45:00+00:00
+
+ ## Web Communications - Go Script Manager
+ - [https://go.tufts.edu](https://go.tufts.edu)
+ - date_published: 2024-07-01T21:38:34.251400+00:00
+
+ ## Graduate School of Arts and Sciences and the School of Engineering
+ - [https://gradase.admissions.tufts.edu](https://gradase.admissions.tufts.edu)
+ - date_published: 2024-05-07T20:39:00.954490+00:00
+
+ ## Homepage | Graduate School of Biomedical Sciences
+ - [https://gsbs.tufts.edu](https://gsbs.tufts.edu)
+ - date_published: 2024-07-01T16:45:01+00:00
+
+ ## Tufts User Authentication
+ - [https://hrss.it.tufts.edu](https://hrss.it.tufts.edu)
+ - date_published: 2024-07-01T21:38:20.401255+00:00
+
+ ## Tufts User Authentication
+ - [https://hrss.uit.tufts.edu](https://hrss.uit.tufts.edu)
+ - date_published: 2024-07-01T21:38:32.877105+00:00
+
+ ## Home - Human Resources
+ - [https://hr.tufts.edu](https://hr.tufts.edu)
+ - date_published: 2024-07-01T21:38:12.344080+00:00
+
+ ## Welcome to Tufts Technology Services | Technology Services
+ - [https://it.tufts.edu](https://it.tufts.edu)
+ - date_published: 2024-07-01T21:38:37.820492+00:00
+
+ ## Tufts University Careers
+ - [http://jobs.hr.tufts.edu](http://jobs.hr.tufts.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Tufts University Careers
+ - [https://jobs.tufts.edu](https://jobs.tufts.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## JumboBeacon Files
+ - [https://jumbobeacon.tufts.edu](https://jumbobeacon.tufts.edu)
+ - date_published: 2024-06-12T20:34:16+00:00
+
+ ## Tufts University School of Medicine
+ - [https://medicine.tufts.edu](https://medicine.tufts.edu)
+ - date_published: 2024-07-01T20:34:25+00:00
+
+ ## Default Location
+ - [https://m.tufts.edu](https://m.tufts.edu)
+ - date_published: 2024-05-07T20:38:55.733489+00:00
+
+ ## Welcome to Tufts Now
+ - [https://now.tufts.edu](https://now.tufts.edu)
+ - date_published: 2024-02-24T18:07:27.412563+00:00
+
+ ## Friedman School of Nutrition Science and Policy |
+ - [https://nutrition.tufts.edu](https://nutrition.tufts.edu)
+ - date_published: 2024-07-01T21:33:56+00:00
+
+ ## Home - Office of Equal Opportunity
+ - [https://oeo.tufts.edu](https://oeo.tufts.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Homepage | Occupational Health Services
+ - [https://ohs.tufts.edu](https://ohs.tufts.edu)
+ - date_published: 2024-06-18T11:46:49+00:00
+
+ ## Tufts Engineering Online Programs
+ - [https://onlinesoe.tufts.edu](https://onlinesoe.tufts.edu)
+ - date_published: 2024-04-10T16:23:52+00:00
+
+ ## Operations Division | Access Tufts
+ - [https://operations.tufts.edu](https://operations.tufts.edu)
+ - date_published: 2024-06-29T09:19:49+00:00
+
+ ## Home - Office of the Provost and Senior Vice President
+ - [http://provost.tufts.edu](http://provost.tufts.edu)
+ - date_published: 2024-07-01T21:37:29.389069+00:00
+
+ ## Department of Public Safety
+ - [https://publicsafety.tufts.edu](https://publicsafety.tufts.edu)
+ - date_published: 2024-06-12T12:51:14+00:00
+
+ ## Home / EMS
+ - [https://reserve.tufts.edu](https://reserve.tufts.edu)
+ - date_published: 2024-07-01T21:38:09.028205+00:00
+
+ ## sites.tufts.edu - Tufts Self-Serve Blogs and Websites.
+ - [https://sites.tufts.edu](https://sites.tufts.edu)
+ - date_published: 2024-05-09T05:25:22.775054+00:00
+
+ ## SMFA at Tufts | School of the Museum of Fine Arts | Tufts University
+ - [https://smfa.tufts.edu](https://smfa.tufts.edu)
+ - date_published: 2024-07-01T21:37:48.488845+00:00
+
+ ## Tufts Solutions
+ - [https://solutions.tufts.edu](https://solutions.tufts.edu)
+ - date_published: 2024-06-30T20:01:22+00:00
+
+ ## Tufts University Status
+ - [https://status.it.tufts.edu](https://status.it.tufts.edu)
+ - date_published: 2024-07-01T21:38:25.210286+00:00
+
+ ## STEM Ambassadors | AS&E Students
+ - [http://stemdiversity.tufts.edu](http://stemdiversity.tufts.edu)
+ - date_published: 2024-06-28T23:28:13+00:00
+
+ ## Homepage | AS&E Students
+ - [https://students.tufts.edu](https://students.tufts.edu)
+ - date_published: 2024-05-07T20:38:57.562657+00:00
+
  ## Home - Talloires Network of Engaged Universities
  - [https://talloiresnetwork.tufts.edu](https://talloiresnetwork.tufts.edu)
  - date_published: 2024-07-22T08:06:20.398401+00:00
@@ -3856,172 +4024,4 @@
  ## Home - UCLA Chavez
  - [https://chavez.ucla.edu](https://chavez.ucla.edu)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## Homepage - CHIPTS - Center for HIV Identification, Prevention and Treatment Services
- - [https://chipts.ucla.edu](https://chipts.ucla.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home | Campus Human Resources
- - [https://chr.ucla.edu](https://chr.ucla.edu)
- - date_published: 2024-07-01T22:41:20+00:00
-
- ## Latin American Cities Initiative | Latin American Cities Initiative
- - [https://ciudades.luskin.ucla.edu](https://ciudades.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:22.044765+00:00
-
- ## UCLA Community
- - [https://community.ucla.edu](https://community.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UCLA COVID-19 Resources - Coronavirus information for the campus community
- - [https://covid-19.ucla.edu](https://covid-19.ucla.edu)
- - date_published: 2024-05-07T20:55:24.036838+00:00
-
- ## UCLA CTSI
- - [https://ctsi.ucla.edu](https://ctsi.ucla.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## UCLA Campus Directory
- - [https://directory.ucla.edu](https://directory.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UCLA Design Media Arts
- - [http://dma.ucla.edu](http://dma.ucla.edu)
- - date_published: 2024-06-19T15:49:49.566945+00:00
-
- ## UCLA Equity, Diversity & Inclusion
- - [https://equity.ucla.edu](https://equity.ucla.edu)
- - date_published: 2024-07-01T22:56:25.480533+00:00
-
- ## Welcome to Emeriti/Retirees Relations Center | Emeriti/Retirees Relations Center
- - [https://errc.ucla.edu](https://errc.ucla.edu)
- - date_published: 2024-06-26T17:08:49+00:00
-
- ## ETC – UCLA Experiential Technologies Center
- - [http://etc.ucla.edu](http://etc.ucla.edu)
- - date_published: 2024-07-09T18:44:52.457849+00:00
-
- ## Home | Events Office
- - [https://events.ucla.edu](https://events.ucla.edu)
- - date_published: 2024-07-01T22:55:02+00:00
-
- ## UCLA External Affairs
- - [https://externalaffairs.ucla.edu](https://externalaffairs.ucla.edu)
- - date_published: 2024-07-01T23:04:45.616948+00:00
-
- ## Index of /
- - [http://ficus-www.cs.ucla.edu](http://ficus-www.cs.ucla.edu)
- - date_published: 2024-06-20T17:26:28.223717+00:00
-
- ## Welcome First-Gen Bruins! | First to Go
- - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
- - date_published: 2024-06-29T06:13:31+00:00
-
- ## Home | Fowler Museum at UCLA
- - [https://fowler.ucla.edu](https://fowler.ucla.edu)
- - date_published: 2021-04-29T17:08:56+00:00
-
- ## Index of /
- - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## UCLA is responding to COVID-19
- - [https://giveto.ucla.edu](https://giveto.ucla.edu)
- - date_published: 2024-05-07T20:54:59.420873+00:00
-
- ## Giving to UCLA
- - [https://giving.ucla.edu](https://giving.ucla.edu)
- - date_published: 2024-05-07T20:55:32.392874+00:00
-
- ## Global Public Affairs
- - [https://global.luskin.ucla.edu](https://global.luskin.ucla.edu)
- - date_published: 2023-11-20T00:00:00+00:00
-
- ## GO ARTS UCLA
- - [https://goarts.ucla.edu](https://goarts.ucla.edu)
- - date_published: 2024-07-01T22:55:58.050491+00:00
-
- ## Home | The Berggruen Governance Index
- - [https://governance.luskin.ucla.edu](https://governance.luskin.ucla.edu)
- - date_published: 2024-07-01T23:06:51.812703+00:00
-
- ## UCLA Graduate Programs
- - [https://grad.ucla.edu](https://grad.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Hammer Museum | Hammer Museum
- - [https://hammer.ucla.edu](https://hammer.ucla.edu)
- - date_published: 2024-06-20T16:00:06+00:00
-
- ## Calendars
- - [https://happenings.ucla.edu](https://happenings.ucla.edu)
- - date_published: 2024-05-07T20:54:34.739703+00:00
-
- ## UCLA HARRT
- - [https://harrt.ucla.edu](https://harrt.ucla.edu)
- - date_published: 2024-07-01T23:06:21.096132+00:00
-
- ## Homepage of the UCLA Center for Health Policy Research
- - [https://healthpolicy.ucla.edu](https://healthpolicy.ucla.edu)
- - date_published: 2024-07-17T10:52:41+00:00
-
- ## Communities hold the power to shape their health and well-being | UCLA HHIPP
- - [http://hhipp.sites.luskin.ucla.edu](http://hhipp.sites.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:06.775582+00:00
-
- ## Housing & Hospitality
- - [https://housingandhospitality.ucla.edu](https://housingandhospitality.ucla.edu)
- - date_published: 2024-06-30T08:08:49.643178+00:00
-
- ## Home – UCLA Housing | Housing
- - [https://housing.ucla.edu](https://housing.ucla.edu)
- - date_published: 2024-07-01T22:38:01+00:00
-
- ## Careers Home | UCLA
- - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Humanities Division - UCLA
- - [http://humanities.ucla.edu](http://humanities.ucla.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - HumTech - UCLA
- - [https://humtech.ucla.edu](https://humtech.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Integrated Diagnostics IDx Shared Resource Portal - Home
- - [https://idx.medsch.ucla.edu](https://idx.medsch.ucla.edu)
- - date_published: 2024-06-07T21:58:40+00:00
-
- ## UCLA Study Abroad | International Education Office | University of California, Los Angeles
- - [https://ieo.ucla.edu](https://ieo.ucla.edu)
- - date_published: 2024-07-01T23:02:33.540862+00:00
-
- ## UCLA Luskin Center for Innovation | Informing effective and equitable environmental policy
- - [http://innovation.luskin.ucla.edu](http://innovation.luskin.ucla.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Institute for Research on Labor and Employment
- - [https://irle.ucla.edu](https://irle.ucla.edu)
- - date_published: 2024-05-07T20:55:11.391952+00:00
-
- ## Home - UCLA Institute of Transportation Studies
- - [https://its.ucla.edu](https://its.ucla.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UCLA Center for Neighborhood Knowledge
- - [https://knowledge.luskin.ucla.edu](https://knowledge.luskin.ucla.edu)
- - date_published: 2023-12-21T00:00:00+00:00
-
- ## LAERI@UCLA | The Los Angeles Education Research Institute
- - [https://laeri.luskin.ucla.edu](https://laeri.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:25.237557+00:00
-
- ## Engaging LA, Changing the World | LA Social Science
- - [https://lasocialscience.ucla.edu](https://lasocialscience.ucla.edu)
- - date_published: 2024-07-01T23:06:08.159487+00:00
-
- ## Latino Policy & Politics Institute
- - [https://latino.ucla.edu](https://latino.ucla.edu)
- - date_published: 2024-07-01T23:07:12.647596+00:00
 

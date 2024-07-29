@@ -1,3 +1,51 @@
+ ## plastic general
+ - [http://plasticgeneral.blogspot.com](http://plasticgeneral.blogspot.com)
+ - date_published: 2024-06-14T01:34:16+00:00
+
+ ## Plastic Legions
+ - [http://plasticlegions.blogspot.com](http://plasticlegions.blogspot.com)
+ - date_published: 2024-07-11T18:33:27+00:00
+
+ ## Plastic Sax
+ - [http://plasticsax.blogspot.com](http://plasticsax.blogspot.com)
+ - date_published: 2024-03-16T07:08:53+00:00
+
+ ## Playing at the World
+ - [http://playingattheworld.blogspot.com](http://playingattheworld.blogspot.com)
+ - date_published: 2024-07-11T18:35:41+00:00
+
+ ## Plucking The Yew
+ - [http://pluckingtheyew.blogspot.com](http://pluckingtheyew.blogspot.com)
+ - date_published: 2024-05-04T02:06:25+00:00
+
+ ## Plumber Jack
+ - [http://plumberjack.blogspot.com](http://plumberjack.blogspot.com)
+ - date_published: 2024-06-24T15:02:02+00:00
+
+ ## PlundeMordhe
+ - [http://plundemordhe.blogspot.com](http://plundemordhe.blogspot.com)
+ - date_published: 2024-07-04T05:28:06+00:00
+
+ ## NT Pod
+ - [http://podacre.blogspot.com](http://podacre.blogspot.com)
+ - date_published: 2024-06-27T09:27:41+00:00
+
+ ## pod street
+ - [http://podstreet.blogspot.com](http://podstreet.blogspot.com)
+ - date_published: 2024-03-13T01:37:09+00:00
+
+ ## Blogger
+ - [http://poediapoedia.blogspot.com](http://poediapoedia.blogspot.com)
+ - date_published: 2024-07-12T20:57:43.381125+00:00
+
+ ## Poema Dia
+ - [http://poemadia.blogspot.com](http://poemadia.blogspot.com)
+ - date_published: 2024-03-19T18:21:44+00:00
+
+ ## POEMARGENS
+ - [http://poemargens.blogspot.com](http://poemargens.blogspot.com)
+ - date_published: 2024-07-11T22:34:42+00:00
+
  ## Poemas da Lusofonia
  - [http://poemasdalusofonia.blogspot.com](http://poemasdalusofonia.blogspot.com)
  - date_published: 2024-06-29T17:25:34+00:00
@@ -3971,52 +4019,4 @@
  ## Sylva
  - [https://sylva-way2themes.blogspot.com](https://sylva-way2themes.blogspot.com)
  - date_published: 2024-03-05T12:30:09+00:00
-
- ## uma casa em beirute - poemas inéditos de sylvia beirute
- - [http://sylviabeirute.blogspot.com](http://sylviabeirute.blogspot.com)
- - date_published: 2024-06-30T09:03:05+00:00
-
- ## Edelweiss
- - [http://symbol-of-freedom.blogspot.com](http://symbol-of-freedom.blogspot.com)
- - date_published: 2024-02-08T05:40:30+00:00
-
- ## Blogger
- - [http://symptomsofmadness.blogspot.com](http://symptomsofmadness.blogspot.com)
- - date_published: 2024-07-15T09:27:13.948780+00:00
-
- ## ΣΥΝΤΑΓΕΣ ΤΗΣ ΚΑΡΔΙΑΣ
- - [https://syntageskardias.blogspot.com](https://syntageskardias.blogspot.com)
- - date_published: 2024-06-09T05:45:57+00:00
-
- ## sysadvent
- - [https://sysadvent.blogspot.com](https://sysadvent.blogspot.com)
- - date_published: 2024-05-06T20:30:49.092912+00:00
-
- ## import sys / sys.exit()
- - [http://sys-exit.blogspot.com](http://sys-exit.blogspot.com)
- - date_published: 2024-04-17T05:53:07+00:00
-
- ## Systematic-a
- - [https://systematicrules.blogspot.com](https://systematicrules.blogspot.com)
- - date_published: 2024-07-08T19:48:00+00:00
-
- ## Terry Chen
- - [http://t3rrychan.blogspot.com](http://t3rrychan.blogspot.com)
- - date_published: 2024-03-08T06:47:51+00:00
-
- ## Tabletop Apocalypse
- - [https://tabletopapocalypse.blogspot.com](https://tabletopapocalypse.blogspot.com)
- - date_published: 2024-05-31T10:20:52+00:00
-
- ## Tabletop Wargames Blog
- - [http://tabletopgamer.blogspot.com](http://tabletopgamer.blogspot.com)
- - date_published: 2024-03-22T00:42:27+00:00
-
- ## Ogilvie
- - [http://tabletoptactician.blogspot.com](http://tabletoptactician.blogspot.com)
- - date_published: 2024-07-05T21:14:08+00:00
-
- ## tabletopwargamer
- - [http://tabletopwargamer.blogspot.com](http://tabletopwargamer.blogspot.com)
- - date_published: 2024-02-20T09:43:33+00:00
 

@@ -1,3 +1,19 @@
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.ca](https://colorprinter.ca)
+ - date_published: 2024-02-04T18:52:43+00:00
+
+ ## Cometdust.ca Published web page entry point
+ - [http://cometdust.ca](http://cometdust.ca)
+ - date_published: 2024-07-04T13:31:21.291849+00:00
+
+ ## CRC - Home Page / Accueil
+ - [https://www.comiterepubliquecanada.ca](https://www.comiterepubliquecanada.ca)
+ - date_published: 2024-07-13T17:55:45+00:00
+
+ ## CRC - Home Page / Accueil
+ - [https://committeerepubliccanada.ca](https://committeerepubliccanada.ca)
+ - date_published: 2024-05-11T08:05:30.094739+00:00
+
  ## Commodore Computers: C64 VIC20 PET C128 Plus4 – 8 Bit PC's – Commodore: Inventor of the Personal Computer
  - [https://www.commodore.ca](https://www.commodore.ca)
  - date_published: 2024-07-14T12:26:40.418924+00:00
@@ -4034,21 +4050,4 @@
  - [https://cal.ruk.ca](https://cal.ruk.ca)
  - date_published: 2024-06-08T13:10:07.653599+00:00
  - tags: ['conference', 'personal']
-
- ## ruk.ca
- - [https://ruk.ca](https://ruk.ca)
- - date_published: 2023-12-24T18:31:10.288244+00:00
- - tags: ['personal']
-
- ## rukapedia
- - [https://wiki.ruk.ca](https://wiki.ruk.ca)
- - date_published: 2024-04-30T05:03:31.732767+00:00
-
- ## Russell’s Portfolio
- - [https://russellmcwhae.ca](https://russellmcwhae.ca)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## The DMZ
- - [https://dmz.ryerson.ca](https://dmz.ryerson.ca)
- - date_published: 2024-07-09T00:00:00+00:00
 

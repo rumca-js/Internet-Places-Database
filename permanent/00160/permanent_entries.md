@@ -1,3 +1,155 @@
+ ## Shrink's Views
+ - [http://askdheeraj.wordpress.com](http://askdheeraj.wordpress.com)
+ - date_published: 2024-07-02T09:02:26.555408+00:00
+
+ ## Kindahausen-106
+ - [https://asrisarinastiti.wordpress.com](https://asrisarinastiti.wordpress.com)
+ - date_published: 2024-05-07T15:15:36.134008+00:00
+
+ ## astronomyVIZ
+ - [https://astronomyviz.wordpress.com](https://astronomyviz.wordpress.com)
+ - date_published: 2024-06-07T09:55:04.617824+00:00
+
+ ## Asura Star
+ - [https://asurastar.wordpress.com](https://asurastar.wordpress.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## atadcomplicated
+ - [https://atadcomplicated.wordpress.com](https://atadcomplicated.wordpress.com)
+ - date_published: 2024-05-06T22:50:05.347789+00:00
+
+ ## atelier in the attic
+ - [https://atelierintheattic.wordpress.com](https://atelierintheattic.wordpress.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Setting the World on Fire one Flag at a Time
+ - [http://atgeflu.wordpress.com](http://atgeflu.wordpress.com)
+ - date_published: 2024-06-17T12:13:03.098372+00:00
+
+ ## Linguistic Atlas of Rif Berber
+ - [https://atlasrif.wordpress.com](https://atlasrif.wordpress.com)
+ - date_published: 2024-07-02T10:18:26.600258+00:00
+
+ ## Alas
+ - [https://atuyca.wordpress.com](https://atuyca.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Private Site
+ - [http://atypicallyspeaking.wordpress.com](http://atypicallyspeaking.wordpress.com)
+ - date_published: 2024-07-04T13:18:04.628856+00:00
+
+ ## Augie Peterson
+ - [https://augiepeterson.wordpress.com](https://augiepeterson.wordpress.com)
+ - date_published: 2024-07-19T20:14:14.055607+00:00
+
+ ## Mathematics in Australia
+ - [https://austmaths.wordpress.com](https://austmaths.wordpress.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Australian Aboriginal Languages Student Blog
+ - [https://australianlanguages.wordpress.com](https://australianlanguages.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Arieswriting
+ - [https://authorjennifersamson.wordpress.com](https://authorjennifersamson.wordpress.com)
+ - date_published: 2024-07-04T13:35:06.817806+00:00
+
+ ## Autistic Science Person
+ - [https://autisticsciencelady.wordpress.com](https://autisticsciencelady.wordpress.com)
+ - date_published: 2024-05-08T12:12:52.227435+00:00
+
+ ## Automattic
+ - [https://automattic.wordpress.com](https://automattic.wordpress.com)
+ - date_published: 2024-07-15T07:25:06.389782+00:00
+
+ ## Automorphic Forum
+ - [https://automorphicforum.wordpress.com](https://automorphicforum.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## dietrich.ayala
+ - [https://autonome.wordpress.com](https://autonome.wordpress.com)
+ - date_published: 2024-07-07T10:26:57.139951+00:00
+
+ ## Autonomous Mind
+ - [https://autonomousmind.wordpress.com](https://autonomousmind.wordpress.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Autotranslucence
+ - [https://autotranslucence.wordpress.com](https://autotranslucence.wordpress.com)
+ - date_published: 2024-05-10T06:32:28.970664+00:00
+
+ ## Ávalos...Te Recuerdo
+ - [https://avalosblog.wordpress.com](https://avalosblog.wordpress.com)
+ - date_published: 2024-05-09T05:35:53.995565+00:00
+
+ ## My contRibution
+ - [https://aviadklein.wordpress.com](https://aviadklein.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Awful Library Books
+ - [https://awfullibrarybooks.wordpress.com](https://awfullibrarybooks.wordpress.com)
+ - date_published: 2024-06-20T05:09:33+00:00
+
+ ## Meccanica Mekaniikka Mecanică
+ - [https://awp101.wordpress.com](https://awp101.wordpress.com)
+ - date_published: 2024-05-04T11:57:11.775047+00:00
+
+ ## a. w. walker
+ - [https://awwalkerdotcom.wordpress.com](https://awwalkerdotcom.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Hard Arithmetic
+ - [https://ayoucis.wordpress.com](https://ayoucis.wordpress.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Andy Zaidman's blog
+ - [http://azaidman.wordpress.com](http://azaidman.wordpress.com)
+ - date_published: 2024-07-07T10:18:39.779381+00:00
+
+ ## B & N's ridiculous journey
+ - [https://babsandnancy.wordpress.com](https://babsandnancy.wordpress.com)
+ - date_published: 2024-06-18T12:11:59.860401+00:00
+
+ ## Backlots
+ - [http://backlots.wordpress.com](http://backlots.wordpress.com)
+ - date_published: 2024-06-30T05:02:59.672916+00:00
+
+ ## Back to the Code
+ - [https://backtothecode.wordpress.com](https://backtothecode.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## some compact thoughts
+ - [https://backushome.wordpress.com](https://backushome.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Bad horror, Good times
+ - [http://badhorrorgoodtimes.wordpress.com](http://badhorrorgoodtimes.wordpress.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## The Bad Idea Blog
+ - [http://badidea.wordpress.com](http://badidea.wordpress.com)
+ - date_published: 2024-06-28T20:57:58.286235+00:00
+
+ ## BadLinguistics
+ - [https://badlinguistics.wordpress.com](https://badlinguistics.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## badnecklace.com
+ - [http://badnecklace.wordpress.com](http://badnecklace.wordpress.com)
+ - date_published: 2024-07-16T18:36:57+00:00
+
+ ## Private Site
+ - [http://badphysics.wordpress.com](http://badphysics.wordpress.com)
+ - date_published: 2024-06-30T08:27:02.965985+00:00
+
+ ## Bag of Anything
+ - [http://bagofanything.wordpress.com](http://bagofanything.wordpress.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## ballblog
+ - [http://ballblog.wordpress.com](http://ballblog.wordpress.com)
+ - date_published: 2024-06-30T04:14:26.065889+00:00
+
  ## Luca Ballerini
  - [https://balleriniluca.wordpress.com](https://balleriniluca.wordpress.com)
  - date_published: 2024-01-12T02:35:52.479740+00:00
@@ -3860,156 +4012,4 @@
  ## Photography Blog by GT
  - [http://gtphotographs.wordpress.com](http://gtphotographs.wordpress.com)
  - date_published: 2024-06-30T01:45:10.130868+00:00
-
- ## noTes
- - [http://guangbox.wordpress.com](http://guangbox.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Guerilla Programmer
- - [https://guerillaprogrammerdotcom.wordpress.com](https://guerillaprogrammerdotcom.wordpress.com)
- - date_published: 2024-05-04T08:57:24.693993+00:00
-
- ## Goerges Vlog
- - [http://gunlawsdontwork.wordpress.com](http://gunlawsdontwork.wordpress.com)
- - date_published: 2024-07-03T23:36:28.412396+00:00
-
- ## Gunpowder Meditation
- - [https://gunpowdermeditation.wordpress.com](https://gunpowdermeditation.wordpress.com)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Jens Gustedt's Blog
- - [https://gustedt.wordpress.com](https://gustedt.wordpress.com)
- - date_published: 2023-10-25T18:12:25.310910+00:00
-
- ## Guysoft's Weblog
- - [https://guysoft.wordpress.com](https://guysoft.wordpress.com)
- - date_published: 2024-07-10T03:05:45.071317+00:00
-
- ## gWHIZ
- - [http://gwhiz.wordpress.com](http://gwhiz.wordpress.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Good Workaround!
- - [https://gwrnd.wordpress.com](https://gwrnd.wordpress.com)
- - date_published: 2024-06-15T15:39:29.338396+00:00
-
- ## Hacking Eclipse Gyrex
- - [https://gyrex.wordpress.com](https://gyrex.wordpress.com)
- - date_published: 2024-07-18T12:21:04.011679+00:00
-
- ## Gyrovague
- - [https://gyrovaguedotcom.wordpress.com](https://gyrovaguedotcom.wordpress.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## De Haakse Zeedijk
- - [https://haaksezeedijk.wordpress.com](https://haaksezeedijk.wordpress.com)
- - date_published: 2024-05-04T09:10:42.278753+00:00
-
- ## Hacker Way
- - [https://hackerlaworg.wordpress.com](https://hackerlaworg.wordpress.com)
- - date_published: 2024-06-16T21:49:43.367985+00:00
-
- ## Izzy Dupree's
- - [https://haddock2009.wordpress.com](https://haddock2009.wordpress.com)
- - date_published: 2024-07-11T07:53:56.793441+00:00
-
- ## halfmuffled
- - [http://halfmuffled.wordpress.com](http://halfmuffled.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## halfthought
- - [https://halfthought.wordpress.com](https://halfthought.wordpress.com)
- - date_published: 2024-02-08T16:43:21.423616+00:00
-
- ## Hal Mueller's Blog
- - [https://halmueller.wordpress.com](https://halmueller.wordpress.com)
- - date_published: 2024-06-23T15:06:51.552847+00:00
-
- ## haluise
- - [http://haluise.wordpress.com](http://haluise.wordpress.com)
- - date_published: 2024-06-30T04:14:09.017963+00:00
-
- ## Hannah Hearth
- - [https://hannahhearth.wordpress.com](https://hannahhearth.wordpress.com)
- - date_published: 2024-07-03T22:40:05.098532+00:00
-
- ## Hannah Powell-Smith
- - [https://hannahpowellsmith.wordpress.com](https://hannahpowellsmith.wordpress.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Private Site
- - [http://hansrajt.wordpress.com](http://hansrajt.wordpress.com)
- - date_published: 2024-07-01T06:17:16.665048+00:00
-
- ## Haoyu's Cython Blog
- - [http://haoyugsoc.wordpress.com](http://haoyugsoc.wordpress.com)
- - date_published: 2024-06-22T21:41:59.495086+00:00
-
- ## Haquelebac
- - [http://haquelebac.wordpress.com](http://haquelebac.wordpress.com)
- - date_published: 2024-07-11T15:52:42.872297+00:00
-
- ## Hari Shanker R
- - [https://harishankerblog.wordpress.com](https://harishankerblog.wordpress.com)
- - date_published: 2024-07-16T16:57:44+00:00
-
- ## HarrieKD
- - [http://harriekd.wordpress.com](http://harriekd.wordpress.com)
- - date_published: 2024-07-15T09:14:40+00:00
-
- ## Portrait of the Mathematician
- - [http://harrisonbrown.wordpress.com](http://harrisonbrown.wordpress.com)
- - date_published: 2024-06-30T08:37:36.298270+00:00
-
- ## Heather's Paragraphs
- - [https://harthur.wordpress.com](https://harthur.wordpress.com)
- - date_published: 2023-10-25T18:12:31.192942+00:00
-
- ## The Haskell Web News
- - [https://haskellwebnews.wordpress.com](https://haskellwebnews.wordpress.com)
- - date_published: 2024-07-11T07:51:59.012592+00:00
-
- ## my love-haunted heart
- - [http://hauntedhearts.wordpress.com](http://hauntedhearts.wordpress.com)
- - date_published: 2024-07-02T06:31:54+00:00
-
- ## HazelJae Designs
- - [http://hazeljaedesigns.wordpress.com](http://hazeljaedesigns.wordpress.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## The World of Data | The wonders of data management,  professional excellence and work-life balance
- - [https://hdombrovskaya.wordpress.com](https://hdombrovskaya.wordpress.com)
- - date_published: 2023-10-25T18:12:38.767491+00:00
-
- ## the havens
- - [http://healingmagichands.wordpress.com](http://healingmagichands.wordpress.com)
- - date_published: 2024-07-01T06:01:43.945966+00:00
-
- ## Earth Mother Runner
- - [http://healingrunner71652512.wordpress.com](http://healingrunner71652512.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Healthy Algorithms
- - [http://healthyalgorithms.wordpress.com](http://healthyalgorithms.wordpress.com)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## How to create healthy human culture...
- - [https://healthyhumanculture.wordpress.com](https://healthyhumanculture.wordpress.com)
- - date_published: 2024-06-12T12:37:20.220502+00:00
-
- ## Heartspring Stanley
- - [http://heartspringstanley.wordpress.com](http://heartspringstanley.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## heavenali
- - [https://heavenali.wordpress.com](https://heavenali.wordpress.com)
- - date_published: 2024-06-30T05:57:01.124371+00:00
-
- ## Then Sings My Soul
- - [http://helegant.wordpress.com](http://helegant.wordpress.com)
- - date_published: 2024-06-30T01:43:15.044333+00:00
-
- ## Who groks in beauty?
- - [http://helger.wordpress.com](http://helger.wordpress.com)
- - date_published: 2024-06-30T11:09:46.204196+00:00
 

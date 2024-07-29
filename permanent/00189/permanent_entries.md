@@ -1,3 +1,171 @@
+ ## Homepage - CHIPTS - Center for HIV Identification, Prevention and Treatment Services
+ - [https://chipts.ucla.edu](https://chipts.ucla.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home | Campus Human Resources
+ - [https://chr.ucla.edu](https://chr.ucla.edu)
+ - date_published: 2024-07-01T22:41:20+00:00
+
+ ## Latin American Cities Initiative | Latin American Cities Initiative
+ - [https://ciudades.luskin.ucla.edu](https://ciudades.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:22.044765+00:00
+
+ ## UCLA Community
+ - [https://community.ucla.edu](https://community.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UCLA COVID-19 Resources - Coronavirus information for the campus community
+ - [https://covid-19.ucla.edu](https://covid-19.ucla.edu)
+ - date_published: 2024-05-07T20:55:24.036838+00:00
+
+ ## UCLA CTSI
+ - [https://ctsi.ucla.edu](https://ctsi.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## UCLA Campus Directory
+ - [https://directory.ucla.edu](https://directory.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## UCLA Design Media Arts
+ - [http://dma.ucla.edu](http://dma.ucla.edu)
+ - date_published: 2024-06-19T15:49:49.566945+00:00
+
+ ## UCLA Equity, Diversity & Inclusion
+ - [https://equity.ucla.edu](https://equity.ucla.edu)
+ - date_published: 2024-07-01T22:56:25.480533+00:00
+
+ ## Welcome to Emeriti/Retirees Relations Center | Emeriti/Retirees Relations Center
+ - [https://errc.ucla.edu](https://errc.ucla.edu)
+ - date_published: 2024-06-26T17:08:49+00:00
+
+ ## ETC – UCLA Experiential Technologies Center
+ - [http://etc.ucla.edu](http://etc.ucla.edu)
+ - date_published: 2024-07-09T18:44:52.457849+00:00
+
+ ## Home | Events Office
+ - [https://events.ucla.edu](https://events.ucla.edu)
+ - date_published: 2024-07-01T22:55:02+00:00
+
+ ## UCLA External Affairs
+ - [https://externalaffairs.ucla.edu](https://externalaffairs.ucla.edu)
+ - date_published: 2024-07-01T23:04:45.616948+00:00
+
+ ## Index of /
+ - [http://ficus-www.cs.ucla.edu](http://ficus-www.cs.ucla.edu)
+ - date_published: 2024-06-20T17:26:28.223717+00:00
+
+ ## Welcome First-Gen Bruins! | First to Go
+ - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
+ - date_published: 2024-06-29T06:13:31+00:00
+
+ ## Home | Fowler Museum at UCLA
+ - [https://fowler.ucla.edu](https://fowler.ucla.edu)
+ - date_published: 2021-04-29T17:08:56+00:00
+
+ ## Index of /
+ - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## UCLA is responding to COVID-19
+ - [https://giveto.ucla.edu](https://giveto.ucla.edu)
+ - date_published: 2024-05-07T20:54:59.420873+00:00
+
+ ## Giving to UCLA
+ - [https://giving.ucla.edu](https://giving.ucla.edu)
+ - date_published: 2024-05-07T20:55:32.392874+00:00
+
+ ## Global Public Affairs
+ - [https://global.luskin.ucla.edu](https://global.luskin.ucla.edu)
+ - date_published: 2023-11-20T00:00:00+00:00
+
+ ## GO ARTS UCLA
+ - [https://goarts.ucla.edu](https://goarts.ucla.edu)
+ - date_published: 2024-07-01T22:55:58.050491+00:00
+
+ ## Home | The Berggruen Governance Index
+ - [https://governance.luskin.ucla.edu](https://governance.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:06:51.812703+00:00
+
+ ## UCLA Graduate Programs
+ - [https://grad.ucla.edu](https://grad.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Hammer Museum | Hammer Museum
+ - [https://hammer.ucla.edu](https://hammer.ucla.edu)
+ - date_published: 2024-06-20T16:00:06+00:00
+
+ ## Calendars
+ - [https://happenings.ucla.edu](https://happenings.ucla.edu)
+ - date_published: 2024-05-07T20:54:34.739703+00:00
+
+ ## UCLA HARRT
+ - [https://harrt.ucla.edu](https://harrt.ucla.edu)
+ - date_published: 2024-07-01T23:06:21.096132+00:00
+
+ ## Homepage of the UCLA Center for Health Policy Research
+ - [https://healthpolicy.ucla.edu](https://healthpolicy.ucla.edu)
+ - date_published: 2024-07-17T10:52:41+00:00
+
+ ## Communities hold the power to shape their health and well-being | UCLA HHIPP
+ - [http://hhipp.sites.luskin.ucla.edu](http://hhipp.sites.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:06.775582+00:00
+
+ ## Housing & Hospitality
+ - [https://housingandhospitality.ucla.edu](https://housingandhospitality.ucla.edu)
+ - date_published: 2024-06-30T08:08:49.643178+00:00
+
+ ## Home – UCLA Housing | Housing
+ - [https://housing.ucla.edu](https://housing.ucla.edu)
+ - date_published: 2024-07-01T22:38:01+00:00
+
+ ## Careers Home | UCLA
+ - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home - Humanities Division - UCLA
+ - [http://humanities.ucla.edu](http://humanities.ucla.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - HumTech - UCLA
+ - [https://humtech.ucla.edu](https://humtech.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Integrated Diagnostics IDx Shared Resource Portal - Home
+ - [https://idx.medsch.ucla.edu](https://idx.medsch.ucla.edu)
+ - date_published: 2024-06-07T21:58:40+00:00
+
+ ## UCLA Study Abroad | International Education Office | University of California, Los Angeles
+ - [https://ieo.ucla.edu](https://ieo.ucla.edu)
+ - date_published: 2024-07-01T23:02:33.540862+00:00
+
+ ## UCLA Luskin Center for Innovation | Informing effective and equitable environmental policy
+ - [http://innovation.luskin.ucla.edu](http://innovation.luskin.ucla.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Institute for Research on Labor and Employment
+ - [https://irle.ucla.edu](https://irle.ucla.edu)
+ - date_published: 2024-05-07T20:55:11.391952+00:00
+
+ ## Home - UCLA Institute of Transportation Studies
+ - [https://its.ucla.edu](https://its.ucla.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## UCLA Center for Neighborhood Knowledge
+ - [https://knowledge.luskin.ucla.edu](https://knowledge.luskin.ucla.edu)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## LAERI@UCLA | The Los Angeles Education Research Institute
+ - [https://laeri.luskin.ucla.edu](https://laeri.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:25.237557+00:00
+
+ ## Engaging LA, Changing the World | LA Social Science
+ - [https://lasocialscience.ucla.edu](https://lasocialscience.ucla.edu)
+ - date_published: 2024-07-01T23:06:08.159487+00:00
+
+ ## Latino Policy & Politics Institute
+ - [https://latino.ucla.edu](https://latino.ucla.edu)
+ - date_published: 2024-07-01T23:07:12.647596+00:00
+
  ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
  - [https://law.ucla.edu](https://law.ucla.edu)
  - date_published: 2024-05-04T14:42:25.180876+00:00
@@ -3833,172 +4001,4 @@
  ## Home - UF Innovate
  - [https://innovate.research.ufl.edu](https://innovate.research.ufl.edu)
  - date_published: 2024-06-17T04:16:53.822673+00:00
-
- ## AdvancementHUB
- - [https://intranet.uff.ufl.edu](https://intranet.uff.ufl.edu)
- - date_published: 2024-07-02T02:19:57.569762+00:00
-
- ## Institutional Planning and Research
- - [https://ir.aa.ufl.edu](https://ir.aa.ufl.edu)
- - date_published: 2024-07-02T01:53:41+00:00
-
- ## Information Technology - University of Florida
- - [https://it.ufl.edu](https://it.ufl.edu)
- - date_published: 2024-07-02T02:07:49.776780+00:00
-
- ## Careers
- - [https://jobs.ufl.edu](https://jobs.ufl.edu)
- - date_published: 2024-07-02T02:11:23.301447+00:00
-
- ## Liao Lab »  » University of Florida
- - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
- - date_published: 2024-02-08T16:20:48.739035+00:00
-
- ## eLearning - University of Florida
- - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
- - date_published: 2024-07-02T02:19:19.447279+00:00
-
- ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
- - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:06.799717+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi-main-a2.sites.medinfo.ufl.edu](https://mbi-main-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:21:43+00:00
-
- ## McKnight Brain Institute » University of Florida
- - [https://mbi.ufl.edu](https://mbi.ufl.edu)
- - date_published: 2024-05-07T21:11:20.615371+00:00
-
- ## Forms & Requests
- - [https://mediaservices.clas.ufl.edu](https://mediaservices.clas.ufl.edu)
- - date_published: 2024-07-07T08:11:57.753234+00:00
-
- ## Mediasite
- - [https://mediasite.video.ufl.edu](https://mediasite.video.ufl.edu)
- - date_published: 2015-08-16T15:00:32+00:00
-
- ## Welcome to myUFL
- - [https://my.ufl.edu](https://my.ufl.edu)
- - date_published: 2022-12-01T23:07:50+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience-a2.sites.medinfo.ufl.edu](https://neuroscience-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:15:02+00:00
-
- ## Department of Neuroscience » College of Medicine » University of Florida
- - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
- - date_published: 2024-05-07T21:11:17.576118+00:00
-
- ## CLAS News
- - [https://news.clas.ufl.edu](https://news.clas.ufl.edu)
- - date_published: 2024-07-02T02:10:51.497253+00:00
-
- ## Current News
- - [https://news.drgator.ufl.edu](https://news.drgator.ufl.edu)
- - date_published: 2024-07-02T02:19:46.370243+00:00
-
- ## University of Florida Information Technology News – The official source for information technology related news at the University of Florida
- - [https://news.it.ufl.edu](https://news.it.ufl.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - News - University of Florida
- - [https://news.ufl.edu](https://news.ufl.edu)
- - date_published: 2024-01-04T17:18:14.446846+00:00
-
- ## ONE.UF
- - [https://one.ufl.edu](https://one.ufl.edu)
- - date_published: 2024-06-13T11:20:58+00:00
-
- ## InCommon Federation Discovery Service
- - [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu)
- - date_published: 2024-07-02T02:08:20.186571+00:00
-
- ## Home
- - [http://performingarts.ufl.edu](http://performingarts.ufl.edu)
- - date_published: 2024-07-02T02:19:17.573739+00:00
-
- ## Academic Integrity » College of Public Health and Health Professions » University of Florida
- - [https://phhp-academic-integrity.sites.medinfo.ufl.edu](https://phhp-academic-integrity.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T23:25:15+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp-main-new-a2.sites.medinfo.ufl.edu](https://phhp-main-new-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T21:31:26+00:00
-
- ## Fall 2023
- - [https://phhp-news.sites.medinfo.ufl.edu](https://phhp-news.sites.medinfo.ufl.edu)
- - date_published: 2024-07-02T02:10:36.550557+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://phhp-research-a2.sites.medinfo.ufl.edu](https://phhp-research-a2.sites.medinfo.ufl.edu)
- - date_published: 2024-07-01T20:37:08+00:00
-
- ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
- - [https://phhp.ufl.edu](https://phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:59.230316+00:00
-
- ## Directory » University of Florida
- - [https://phonebook.ufl.edu](https://phonebook.ufl.edu)
- - date_published: 2024-07-02T02:19:07.703974+00:00
-
- ## http://plaza.ufl.edu
- - [http://plaza.ufl.edu](http://plaza.ufl.edu)
- - date_published: 2006-05-26T17:00:41+00:00
-
- ## Regulation and Policy Hub
- - [https://policy.ufl.edu](https://policy.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## Privacy » University of Florida
- - [https://privacy.ufl.edu](https://privacy.ufl.edu)
- - date_published: 2024-05-07T21:11:12.619267+00:00
-
- ## Support Home Page
- - [https://publicrecords.ufl.edu](https://publicrecords.ufl.edu)
- - date_published: 2024-07-02T02:06:16.719156+00:00
-
- ## RecSports | University of Florida, Department of Recreation Sports
- - [https://recsports.ufl.edu](https://recsports.ufl.edu)
- - date_published: 2024-07-02T02:10:49.105837+00:00
-
- ## Regulation and Policy Hub
- - [https://regulations.ufl.edu](https://regulations.ufl.edu)
- - date_published: 2024-07-02T01:56:41+00:00
-
- ## UF Conduct and Concern Reporting
- - [https://report.ufl.edu](https://report.ufl.edu)
- - date_published: 2024-07-02T02:10:55.034023+00:00
-
- ## Research - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
- - [http://research.ifas.ufl.edu](http://research.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:40.362339+00:00
-
- ## Office of Research » College of Medicine » University of Florida
- - [https://research.med.ufl.edu](https://research.med.ufl.edu)
- - date_published: 2024-07-01T20:29:32+00:00
-
- ## Research Activities » College of Public Health and Health Professions » University of Florida
- - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
- - date_published: 2024-05-07T21:10:54.372575+00:00
-
- ## University of Florida Research
- - [https://research.ufl.edu](https://research.ufl.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Search » University of Florida
- - [https://search.ufl.edu](https://search.ufl.edu)
- - date_published: 2024-05-07T21:11:36.945840+00:00
-
- ## Information Security – University of Florida
- - [https://security.ufl.edu](https://security.ufl.edu)
- - date_published: 2024-05-07T21:10:52.267199+00:00
-
- ## Solutions For Your Life - Real Solutions for Real Life
- - [http://sfyl.ifas.ufl.edu](http://sfyl.ifas.ufl.edu)
- - date_published: 2024-06-16T22:50:19.568229+00:00
-
- ## Web Services » UF Health » University of Florida
- - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
- - date_published: 2024-05-07T21:11:23.235964+00:00
 

@@ -1,3 +1,31 @@
+ ## A 60-second meditation tool to help clear your mind
+ - [https://www.pixelthoughts.co](https://www.pixelthoughts.co)
+ - date_published: 2021-12-16T18:37:17+00:00
+
+ ## Pixel Wrld of Roman Tesliuk
+ - [https://www.pixelwrld.co](https://www.pixelwrld.co)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Emplifi: Your Go-to Customer Engagement & Social Media Marketing Platform
+ - [https://photos.pixlee.co](https://photos.pixlee.co)
+ - date_published: 2024-05-12T05:12:29.484869+00:00
+
+ ## pixxel.co - Domain Name For Sale | Dan.com
+ - [http://pixxel.co](http://pixxel.co)
+ - date_published: 2024-06-24T05:08:36.787148+00:00
+
+ ## Placehold | A simple, fast and free image placeholder service
+ - [https://placehold.co](https://placehold.co)
+ - date_published: 2024-06-16T03:30:50.570288+00:00
+
+ ## Planetary | Digital Design & Product Engineering Studio in Brooklyn, NYC | Planetary
+ - [https://planetary.co](https://planetary.co)
+ - date_published: 2024-07-09T19:05:47.666066+00:00
+
+ ## Plant22 - A creative co-working space in Amsterdam-West.
+ - [http://plant22.co](http://plant22.co)
+ - date_published: 2024-07-13T15:28:34.594710+00:00
+
  ## Play Everywhere | Play Everywhere
  - [https://playeverywhere.co](https://playeverywhere.co)
  - date_published: 2015-09-18T00:00:00+00:00
@@ -3406,6 +3434,10 @@
  - [https://culturaportal.sigephgs.com.co](https://culturaportal.sigephgs.com.co)
  - date_published: 2023-06-04T22:45:44+00:00
 
+ ## Sony Pictures Colombia | Homepage
+ - [https://www.sonypictures.com.co](https://www.sonypictures.com.co)
+ - date_published: 2024-07-28T04:00:06.009191+00:00
+
  ## The Guardian | Solución de biometría
  - [https://www.theguardian.com.co](https://www.theguardian.com.co)
  - date_published: 2024-07-19T00:00:00+00:00
@@ -3989,36 +4021,4 @@
  ## VIMEP
  - [https://vimep.unad.edu.co](https://vimep.unad.edu.co)
  - date_published: 2022-03-16T13:30:01+00:00
-
- ## Vicerrectoría de Relaciones Intersistémicas e Internacionales
- - [https://vinter.unad.edu.co](https://vinter.unad.edu.co)
- - date_published: 2022-08-20T02:41:14+00:00
-
- ## VISAE
- - [https://visae.unad.edu.co](https://visae.unad.edu.co)
- - date_published: 2021-04-23T17:03:43+00:00
-
- ## Universidad Nacional Abierta y a Distancia - UNAD de Colombia.  - Sitio oficial.
- - [https://www.unad.edu.co](https://www.unad.edu.co)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Institutional Repository of Universidad Nacional
- - [https://repositorio.unal.edu.co](https://repositorio.unal.edu.co)
- - date_published: 2024-07-02T09:12:36.006734+00:00
-
- ## Academia Institucional | Búsqueda de Profesores
- - [https://academia.uniandes.edu.co](https://academia.uniandes.edu.co)
- - date_published: 2021-06-15T23:35:38+00:00
-
- ## Mantenimiento Uniandes
- - [https://accesotemporalalcampus.uniandes.edu.co](https://accesotemporalalcampus.uniandes.edu.co)
- - date_published: 2024-05-06T21:59:17+00:00
-
- ## Facultad de Administración | Uniandes
- - [https://administracion.uniandes.edu.co](https://administracion.uniandes.edu.co)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Inicio | Universidad de los Andes
- - [https://apoyofinanciero.uniandes.edu.co](https://apoyofinanciero.uniandes.edu.co)
- - date_published: 2024-07-15T05:47:20+00:00
 

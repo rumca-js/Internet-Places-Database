@@ -1,3 +1,47 @@
+ ## From the Halls to the Shores
+ - [http://hallsofmontezumashoresoftripoli.blogspot.com](http://hallsofmontezumashoresoftripoli.blogspot.com)
+ - date_published: 2024-03-19T08:00:37+00:00
+
+ ## Hammorabi
+ - [http://hammorabi.blogspot.com](http://hammorabi.blogspot.com)
+ - date_published: 2024-06-16T17:39:45+00:00
+
+ ## A Hamsterish Hoard of Dungeons and Dragons
+ - [http://hamsterhoard.blogspot.com](http://hamsterhoard.blogspot.com)
+ - date_published: 2024-07-06T20:45:11+00:00
+
+ ## Hancock Hummer Histories
+ - [http://hancockhummerhistories.blogspot.com](http://hancockhummerhistories.blogspot.com)
+ - date_published: 2024-02-07T05:58:43+00:00
+
+ ## Handgrenadealiens Retro Dungeon.
+ - [http://handgrenadealiensretrodungeon.blogspot.com](http://handgrenadealiensretrodungeon.blogspot.com)
+ - date_published: 2024-03-14T04:24:18+00:00
+
+ ## The Hangar Bay
+ - [http://hangarbay.blogspot.com](http://hangarbay.blogspot.com)
+ - date_published: 2024-07-08T07:00:50+00:00
+
+ ## Jon Han's Blog
+ - [http://hanjon.blogspot.com](http://hanjon.blogspot.com)
+ - date_published: 2024-05-24T12:40:05+00:00
+
+ ## Hao's TechBlog
+ - [http://hao1990.blogspot.com](http://hao1990.blogspot.com)
+ - date_published: 2024-03-05T13:28:51+00:00
+
+ ## Can it happen here?
+ - [http://happening-here.blogspot.com](http://happening-here.blogspot.com)
+ - date_published: 2024-07-01T21:34:33+00:00
+
+ ## Happstack
+ - [http://happstack.blogspot.com](http://happstack.blogspot.com)
+ - date_published: 2024-02-08T19:44:46+00:00
+
+ ## Happy Trails
+ - [http://happytrails88.blogspot.com](http://happytrails88.blogspot.com)
+ - date_published: 2024-02-07T04:28:50+00:00
+
  ## Education Child
  - [http://haqueinblack.blogspot.com](http://haqueinblack.blogspot.com)
  - date_published: 2024-03-14T16:04:00+00:00
@@ -3828,6 +3872,10 @@
  - [http://madavid13.blogspot.com](http://madavid13.blogspot.com)
  - date_published: 2024-07-11T18:50:31+00:00
 
+ ## Mad Man with a Compiler
+ - [http://madcompiler.blogspot.com](http://madcompiler.blogspot.com)
+ - date_published: 2024-07-28T03:58:47.583634+00:00
+
  ## Blogger
  - [http://maddoxen.blogspot.com](http://maddoxen.blogspot.com)
  - date_published: 2024-07-20T21:14:45.603986+00:00
@@ -3969,52 +4017,4 @@
  ## Malacassa's Oldhammer Blog
  - [https://malacassaoldhammer.blogspot.com](https://malacassaoldhammer.blogspot.com)
  - date_published: 2024-07-12T00:00:00+00:00
-
- ## Malavon
- - [http://malavon.blogspot.com](http://malavon.blogspot.com)
- - date_published: 2024-03-19T10:05:09+00:00
-
- ## DuEnDe MiNiATurEs
- - [http://malditoduendeminiatures.blogspot.com](http://malditoduendeminiatures.blogspot.com)
- - date_published: 2024-07-04T05:48:32+00:00
-
- ## Blackwood Forest
- - [https://malfritz.blogspot.com](https://malfritz.blogspot.com)
- - date_published: 2024-04-27T19:41:42+00:00
-
- ## Robert Fisher: Thinking out loud (3.0)
- - [http://malirath.blogspot.com](http://malirath.blogspot.com)
- - date_published: 2024-07-13T05:57:30+00:00
-
- ## Malomil
- - [http://malomil.blogspot.com](http://malomil.blogspot.com)
- - date_published: 2024-07-11T22:47:16+00:00
-
- ## malung artwork
- - [http://malungcreative.blogspot.com](http://malungcreative.blogspot.com)
- - date_published: 2024-03-07T20:25:20+00:00
-
- ## malung-tv-news
- - [https://malung-tv-news.blogspot.com](https://malung-tv-news.blogspot.com)
- - date_published: 2024-05-06T23:49:24.648685+00:00
-
- ## Poemas - Maria Madalena III
- - [http://mamash2010.blogspot.com](http://mamash2010.blogspot.com)
- - date_published: 2024-03-13T10:18:28+00:00
-
- ## Nicola's MAME Ramblings
- - [https://mamelife.blogspot.com](https://mamelife.blogspot.com)
- - date_published: 2024-03-07T08:56:08+00:00
-
- ## The storyteller
- - [http://mammodouy.blogspot.com](http://mammodouy.blogspot.com)
- - date_published: 2024-04-21T18:36:55+00:00
-
- ## Managerial Econ
- - [https://managerialecon.blogspot.com](https://managerialecon.blogspot.com)
- - date_published: 2024-07-03T10:04:00+00:00
-
- ## Managing Miracles: Policy for the Network Society
- - [http://managingmiracles.blogspot.com](http://managingmiracles.blogspot.com)
- - date_published: 2024-03-19T21:19:14+00:00
 

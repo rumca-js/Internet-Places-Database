@@ -1,3 +1,301 @@
+ ## Turkmenistan Altyn Asyr
+ - [https://turkmenistan.gov.tm](https://turkmenistan.gov.tm)
+ - date_published: 2023-11-29T17:20:20.339321+00:00
+
+ ## Grafika Google
+ - [https://images.google.tm](https://images.google.tm)
+ - date_published: 2024-07-20T07:38:20.057094+00:00
+
+ ## Google
+ - [https://www.google.tm](https://www.google.tm)
+ - date_published: 2024-06-21T22:25:55.602524+00:00
+
+ ## Home
+ - [https://www.realites.com.tn](https://www.realites.com.tn)
+ - date_published: 2023-06-12T19:53:44+00:00
+
+ ## Pc gamer Tunisie l Matériels informatique
+ - [https://www.scoopgaming.com.tn](https://www.scoopgaming.com.tn)
+ - date_published: 2024-07-13T13:45:52.740734+00:00
+
+ ## Vente PC portable Tunisie, ordinateur de bureau - Tunisianet
+ - [https://www.tunisianet.com.tn](https://www.tunisianet.com.tn)
+ - date_published: 2024-07-13T13:33:15.051623+00:00
+
+ ## TAP
+ - [https://www.tap.info.tn](https://www.tap.info.tn)
+ - date_published: 2024-06-23T22:57:48.796324+00:00
+
+ ## Alfa Romeo Tunisie
+ - [https://www.alfaromeo.tn](https://www.alfaromeo.tn)
+ - date_published: 2023-05-09T12:58:45+00:00
+
+ ## Service Plan - Citroen
+ - [https://rendezvousenligne.citroen.tn](https://rendezvousenligne.citroen.tn)
+ - date_published: 2024-07-04T07:39:23.707160+00:00
+
+ ## Voitures neuves | Constructeur automobile | Citroën
+ - [https://citroen.tn](https://citroen.tn)
+ - date_published: 2024-05-08T05:30:43.105738+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.tn](https://www.citroenorigins.tn)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## Decathlon Tunisie: Vêtements de Sport Hommes Femmes & Enfants
+ - [https://www.decathlon.tn](https://www.decathlon.tn)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Deep AI — Leading Generative AI-powered Solutions for Business – At DeepAI Generative Solutions we are building the next enterprise search solutions fueled by NLP and Artificial Intelligence. Building on top of latest NLP research we leverage question answering & transfer learning to provide granular, semantic search results tailored to your domain.
+ - [https://deepai.tn](https://deepai.tn)
+ - date_published: 2024-06-19T07:39:06.098028+00:00
+
+ ## EF Education First | ef.tn
+ - [https://www.ef.tn](https://www.ef.tn)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## FIAT Tunisie | Site officiel | Découvrez la gamme
+ - [https://www.fiat-official.tn](https://www.fiat-official.tn)
+ - date_published: 2023-12-18T10:23:20+00:00
+
+ ## Fiat Professional Tunisie
+ - [https://www.fiatprofessional.tn](https://www.fiatprofessional.tn)
+ - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.tn](https://maps.google.tn)
+ - date_published: 2024-07-20T07:37:31.908489+00:00
+
+ ## Google
+ - [https://www.google.tn](https://www.google.tn)
+ - date_published: 2024-06-21T22:25:15.107864+00:00
+
+ ## https://ping.hz.tn
+ - [https://ping.hz.tn](https://ping.hz.tn)
+ - date_published: 2024-01-13T19:05:39.912572+00:00
+
+ ## Jeep® SUVs & Crossovers - Official Jeep Site
+ - [http://www.jeep.tn](http://www.jeep.tn)
+ - date_published: 2024-06-19T08:58:46.220776+00:00
+
+ ## Solutions de cybersécurité pour particuliers et entreprises | Kaspersky
+ - [https://www.kaspersky.tn](https://www.kaspersky.tn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Accueil | KIA
+ - [https://www.kia.tn](https://www.kia.tn)
+ - date_published: 2024-06-30T09:52:46.066128+00:00
+
+ ## Media Development Center – Media Development Center
+ - [https://mdc.tn](https://mdc.tn)
+ - date_published: 2024-07-21T06:10:36.213977+00:00
+
+ ## Media Development Center – Media Development Center
+ - [http://www.mdc.tn](http://www.mdc.tn)
+ - date_published: 2024-07-21T06:10:34.492498+00:00
+
+ ## Vente de matériel informatique et produits high-tech en Tunisie |  Livraison à domicile
+ - [https://www.mediavision.tn](https://www.mediavision.tn)
+ - date_published: 2024-07-13T13:34:57.770326+00:00
+
+ ## Accueil - Constructeur Automobile - Opel Tunisie
+ - [https://www.opel.tn](https://www.opel.tn)
+ - date_published: 2024-07-09T11:59:09+00:00
+
+ ## Index of /
+ - [http://www.persona.tn](http://www.persona.tn)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Proton: Privacy by default
+ - [https://pr.tn](https://pr.tn)
+ - date_published: 2024-07-08T11:49:41+00:00
+
+ ## Decathlon Tunisie Politique de recrutement
+ - [https://www.recrutementdecathlon.tn](https://www.recrutementdecathlon.tn)
+ - date_published: 2024-06-15T20:06:52.790938+00:00
+
+ ## Google
+ - [https://tn24.ween.tn](https://tn24.ween.tn)
+ - date_published: 2024-06-23T22:57:03.306416+00:00
+
+ ## The Wharton School
+ - [https://whr.tn](https://whr.tn)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Torrent Search Engine | 1337x.to
+ - [https://1337x.to](https://1337x.to)
+ - date_published: 2024-06-23T17:53:27.620921+00:00
+ - tags: ['torrent search engine']
+
+ ## 4PDA
+ - [https://4pda.to](https://4pda.to)
+ - date_published: 2024-05-14T03:30:00+00:00
+
+ ## Auth0 for developers - Quickly implement identity management
+ - [https://a0.to](https://a0.to)
+ - date_published: 2024-06-20T06:59:41.711758+00:00
+
+ ## Home | Across Protocol | Across Protocol
+ - [https://across.to](https://across.to)
+ - date_published: 2024-06-16T03:37:58.076005+00:00
+
+ ## What is Across? | V3 Developer Docs | Across Docs
+ - [https://docs.across.to](https://docs.across.to)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Alberto Bruschi |
+ - [https://alber.to](https://alber.to)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Watch Anime Online, Free Anime Streaming Online on Aniwatch.to Anime Website
+ - [https://aniwatch.to](https://aniwatch.to)
+ - date_published: 2023-10-25T13:12:13.844100+00:00
+ - tags: ['anime', 'video streaming']
+
+ ## Arto Bendiken
+ - [http://ar.to](http://ar.to)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Arrows – Collaborative customer onboarding, integrated with HubSpot.
+ - [https://arrows.to](https://arrows.to)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Geniuslink - URL Shortener for Creators and Affiliates
+ - [https://author.to](https://author.to)
+ - date_published: 2024-05-10T02:46:39.142792+00:00
+
+ ## Watch Full Movies in Great Quality for free on AZMovies | [AZMovies]
+ - [https://azm.to](https://azm.to)
+ - date_published: 2024-06-23T17:48:15.394116+00:00
+
+ ## Log in to your Bitrix24.Network account
+ - [https://b24.to](https://b24.to)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## The Bau Family Online News Feburary 21, 2002
+ - [https://bau.to](https://bau.to)
+ - date_published: 2024-05-01T04:11:33.680447+00:00
+
+ ## FB
+ - [https://benedet.to](https://benedet.to)
+ - date_published: 2017-05-01T16:57:12+00:00
+
+ ## Berto Yáñez
+ - [https://ber.to](https://ber.to)
+ - date_published: 2024-07-13T04:12:45.834346+00:00
+
+ ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
+ - [https://bio.to](https://bio.to)
+ - date_published: 2024-05-04T12:43:48.672490+00:00
+
+ ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
+ - [https://janellemonae.bio.to](https://janellemonae.bio.to)
+ - date_published: 2024-06-30T04:03:31+00:00
+
+ ## Boosty.to - a place where success turns into a stable income
+ - [https://boosty.to](https://boosty.to)
+ - date_published: 2024-06-01T22:22:12.563126+00:00
+
+ ## New HOME Page
+ - [https://btmedia.to](https://btmedia.to)
+ - date_published: 2024-07-01T08:59:36.245448+00:00
+
+ ## Best Cheap Replica Burberry, Scarf, Clothes, Wallet For Sale
+ - [https://burberry.to](https://burberry.to)
+ - date_published: 2024-05-01T04:28:56.617569+00:00
+
+ ## buycoffee.to - Zarabiaj na swojej twórczości w Internecie
+ - [https://buycoffee.to](https://buycoffee.to)
+ - date_published: 2023-12-11T16:53:40.349379+00:00
+ - tags: ['crowdfunding']
+
+ ## AAA Cheap Replica Christian Louboutin Red Bottom Shoes, Bags For Sale
+ - [https://christianlouboutin.to](https://christianlouboutin.to)
+ - date_published: 2024-06-12T13:11:05.280785+00:00
+
+ ## Chevereto - Image and Video Hosting Software
+ - [https://chv.to](https://chv.to)
+ - date_published: 2024-05-14T03:36:14.207162+00:00
+
+ ## Coindrop - Accept payments and donations 100% Free with Zero Fees
+ - [https://coindrop.to](https://coindrop.to)
+ - date_published: 2024-07-10T07:44:22.911440+00:00
+
+ ## Cpasbien - Telecharger avec Cpasbien Officiel Site
+ - [https://cpasbien.to](https://cpasbien.to)
+ - date_published: 2024-06-23T18:20:30.884901+00:00
+
+ ## Dub.co - Link Management for Modern Marketing Teams
+ - [https://d.to](https://d.to)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## @dansalvato
+ - [https://dansalva.to](https://dansalva.to)
+ - date_published: 2024-02-03T21:26:21.751341+00:00
+
+ ## Dashy | Dashy
+ - [https://dashy.to](https://dashy.to)
+ - date_published: 2024-04-08T19:27:48.997049+00:00
+ - tags: ['self-host', 'server administration', 'dashboard']
+
+ ## Demo Homelab
+ - [https://demo.dashy.to](https://demo.dashy.to)
+ - date_published: 2024-05-14T03:36:56.616091+00:00
+
+ ## Dashy
+ - [https://dev.dashy.to](https://dev.dashy.to)
+ - date_published: 2024-07-18T06:53:07.011696+00:00
+
+ ## DEV Community
+ - [https://dev.to](https://dev.to)
+ - date_published: 2023-10-25T11:33:22.959017+00:00
+ - tags: ['game development', 'software development', 'programming']
+
+ ## Introduction 👋 | Forem Docs
+ - [https://docs.dev.to](https://docs.dev.to)
+ - date_published: 2024-05-06T13:11:50.682637+00:00
+
+ ## media.dev.to (3333×1742)
+ - [https://media.dev.to](https://media.dev.to)
+ - date_published: 2024-07-20T02:33:54.986371+00:00
+
+ ## dona.to
+ - [https://dona.to](https://dona.to)
+ - date_published: 2021-06-23T16:07:40+00:00
+
+ ## Custom Domain by Bitly
+ - [https://dxc.to](https://dxc.to)
+ - date_published: 2024-05-04T14:16:11.523692+00:00
+
+ ## EasyList - Overview
+ - [https://easylist.to](https://easylist.to)
+ - date_published: 2024-01-16T22:35:12+00:00
+
+ ## Electronics, Cars, Fashion, Collectibles & More | eBay
+ - [https://ebay.to](https://ebay.to)
+ - date_published: 2024-05-08T12:05:47.603003+00:00
+
+ ## About eBay: Company Info, News, Careers, Investor Relations
+ - [https://ebayinc.to](https://ebayinc.to)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Elly Loel
+ - [https://elly.to](https://elly.to)
+ - date_published: 2024-07-01T08:44:21.369037+00:00
+
+ ## Every
+ - [https://every.to](https://every.to)
+ - date_published: 2023-10-25T22:46:14.453278+00:00
+
+ ## EXT Torrents - All torrents to All
+ - [https://ext.to](https://ext.to)
+ - date_published: 2024-01-24T14:38:46+00:00
+ - tags: ['piracy']
+
+ ## Home | eyeo
+ - [https://eyeo.to](https://eyeo.to)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## F95zone
  - [https://f95zone.to](https://f95zone.to)
  - date_published: 2024-06-23T00:00:00+00:00
@@ -3742,296 +4040,4 @@ Introduction
  ## METU | Course Syllabus
  - [https://odtusyllabus.metu.edu.tr](https://odtusyllabus.metu.edu.tr)
  - date_published: 2024-06-17T15:37:29.530579+00:00
-
- ## ÖGEM - Center for Advancing Learning and Teaching | Slogan is here
- - [https://ogem.metu.edu.tr](https://ogem.metu.edu.tr)
- - date_published: 2024-06-17T15:36:37.064215+00:00
-
- ## İŞ SAĞLIĞI VE GÜVENLİĞİ | OHS
- - [http://ohs.metu.edu.tr](http://ohs.metu.edu.tr)
- - date_published: 2024-06-17T15:28:52.978773+00:00
-
- ## METU Student Affairs Information System
- - [https://oibs.metu.edu.tr](https://oibs.metu.edu.tr)
- - date_published: 2024-06-17T15:28:55.700333+00:00
-
- ## Ana Sayfa | ODTÜ ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI
- - [https://oidb.metu.edu.tr](https://oidb.metu.edu.tr)
- - date_published: 2024-05-02T10:26:29.200991+00:00
-
- ## OpenMETU
- - [https://open.metu.edu.tr](https://open.metu.edu.tr)
- - date_published: 2024-06-17T15:36:12.661903+00:00
-
- ## Yeni Öğrenciler
- - [https://oryantasyon.ncc.metu.edu.tr](https://oryantasyon.ncc.metu.edu.tr)
- - date_published: 2024-06-14T13:07:46+00:00
-
- ## ÖĞRENCİ TEMSİLCİLERİ SEÇİMİ ve ÜNİVERSİTE SEÇİM KURULU
- - [https://otk.metu.edu.tr](https://otk.metu.edu.tr)
- - date_published: 2024-06-17T15:35:58.852502+00:00
-
- ## Proje Destek Ofisi
- - [https://pdo.metu.edu.tr](https://pdo.metu.edu.tr)
- - date_published: 2024-06-17T15:36:01.663337+00:00
-
- ## Telefon Defteri ODTÜ.
- - [https://phonebook.metu.edu.tr](https://phonebook.metu.edu.tr)
- - date_published: 2020-03-12T07:57:35+00:00
-
- ## METU | Portal
- - [https://portal.metu.edu.tr](https://portal.metu.edu.tr)
- - date_published: 2024-06-17T15:35:04.405603+00:00
-
- ## Program Yeterlilikleri Bilgi Paketi
- - [https://program.metu.edu.tr](https://program.metu.edu.tr)
- - date_published: 2024-06-17T15:36:53.563939+00:00
-
- ## Instant Location of Rings
- - [https://ring.metu.edu.tr](https://ring.metu.edu.tr)
- - date_published: 2024-06-17T15:36:48.403665+00:00
-
- ## ODTÜ SEM - ODTÜ Sürekli Eğitim Merkezi
- - [https://sem.metu.edu.tr](https://sem.metu.edu.tr)
- - date_published: 2024-06-17T15:37:23.461440+00:00
-
- ## METUSIS | METU Student Information System
- - [https://sis.metu.edu.tr](https://sis.metu.edu.tr)
- - date_published: 2024-06-17T15:36:00.167692+00:00
-
- ## ODTÜ Stratejik Planı
- - [https://sp.metu.edu.tr](https://sp.metu.edu.tr)
- - date_published: 2024-06-17T15:36:52.293912+00:00
-
- ## SAĞLIK VE REHBERLİK MERKEZİ | ODTÜ
- - [https://srm.metu.edu.tr](https://srm.metu.edu.tr)
- - date_published: 2024-06-17T15:36:35+00:00
-
- ## ODTÜ STUDENT PORTAL
- - [https://student.metu.edu.tr](https://student.metu.edu.tr)
- - date_published: 2024-06-17T15:36:41.227824+00:00
-
- ## ODTÜ Teknoloji Transfer Ofisi (TTO) – ODTÜ TTO
- - [http://tto.metu.edu.tr](http://tto.metu.edu.tr)
- - date_published: 2024-06-17T15:36:23.649230+00:00
-
- ## UYGULAMALI ETİK ARAŞTIRMA MERKEZİ
- - [https://ueam.metu.edu.tr](https://ueam.metu.edu.tr)
- - date_published: 2024-06-17T15:36:47.121465+00:00
-
- ## Matematik Bölümü, Mimar Sinan Güzel Sanatar Üniversitesi
- - [http://mat.msgsu.edu.tr](http://mat.msgsu.edu.tr)
- - date_published: 2018-09-14T10:42:42+00:00
-
- ## Basında ODTÜ
- - [https://basinda.odtu.edu.tr](https://basinda.odtu.edu.tr)
- - date_published: 2024-06-17T15:36:19.769512+00:00
-
- ## Sayılarla - ODTÜ
- - [http://ilkbakista.odtu.edu.tr](http://ilkbakista.odtu.edu.tr)
- - date_published: 2024-04-25T09:19:43+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI
- - [https://bidb.odu.edu.tr](https://bidb.odu.edu.tr)
- - date_published: 2024-06-17T15:58:29.280637+00:00
-
- ## Rektör - SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://about.sakarya.edu.tr](https://about.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:48.834807+00:00
-
- ## DSpace Home
- - [https://acikerisim.sakarya.edu.tr](https://acikerisim.sakarya.edu.tr)
- - date_published: 2024-05-02T10:26:51.817663+00:00
-
- ## Sakarya Üniversitesi |
- - [https://adalet.sakarya.edu.tr](https://adalet.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:36.480439+00:00
-
- ## Sakarya Üniversitesi |
- - [https://adamyo.sakarya.edu.tr](https://adamyo.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:10.632499+00:00
-
- ## Sakarya Üniversitesi Aday Öğrenci Bilgi Sistemi
- - [https://adayogrenci.sakarya.edu.tr](https://adayogrenci.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:27.901194+00:00
-
- ## Sakarya Üniversitesi |
- - [https://aiit.sakarya.edu.tr](https://aiit.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:04.263114+00:00
-
- ## Sakarya Üniversitesi | ARAŞTIRMA DEKANLIĞI
- - [https://ardek.sakarya.edu.tr](https://ardek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:57.918074+00:00
-
- ## Sakarya Üniversitesi | Bilimsel Araştırma Projeleri Koordinatörlüğü
- - [https://bapk.sakarya.edu.tr](https://bapk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:00.656868+00:00
-
- ## Sakarya Üniversitesi |
- - [http://baum.sakarya.edu.tr](http://baum.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:48.395856+00:00
-
- ## Sakarya Üniversitesi | Bilgisayar ve Bilişim Bilimleri Fakültesi
- - [https://bf.sakarya.edu.tr](https://bf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:38.456541+00:00
-
- ## Sakarya Üniversitesi | BİLİMSEL DERGİLER KOORDİNATÖRLÜĞÜ
- - [https://bidek.sakarya.edu.tr](https://bidek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:28.512872+00:00
-
- ## Request Rejected
- - [https://cdn0.sabis.sakarya.edu.tr](https://cdn0.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:41.731243+00:00
-
- ## Sakarya Üniversitesi |
- - [https://dhf.sakarya.edu.tr](https://dhf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:29.545366+00:00
-
- ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
- - [https://disiliskiler.sakarya.edu.tr](https://disiliskiler.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:45.846597+00:00
-
- ## Sakarya Üniversitesi | Devlet Konservatuarı
- - [https://dk.sakarya.edu.tr](https://dk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:11.993770+00:00
-
- ## Doç.Dr. Damla KÜÇÜK
- - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
- - date_published: 2024-02-08T16:57:51.601420+00:00
-
- ## Sakarya Üniversitesi | SENATO / ÜYK Kararları
- - [https://duyuru.sakarya.edu.tr](https://duyuru.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:56.246355+00:00
-
- ## Education Information System
- - [https://ebs.sakarya.edu.tr](https://ebs.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:08.979246+00:00
-
- ## Sakarya Üniversitesi | Eğitim Fakültesi
- - [https://ef.sakarya.edu.tr](https://ef.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:02.157821+00:00
-
- ## Sakarya Üniversitesi | Eğitim Bilimleri Enstitüsü
- - [https://egitim.sakarya.edu.tr](https://egitim.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:43.538224+00:00
-
- ## Sakarya Üniversitesi | ENGELSİZ YAŞAM VE DESTEK KOORDİNATÖRLÜĞÜ
- - [http://engelsiz.sakarya.edu.tr](http://engelsiz.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:05.542560+00:00
-
- ## Sakarya Üniversitesi | + KOORDİNATÖRLÜĞÜ
- - [https://erasmus.sakarya.edu.tr](https://erasmus.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:18.698156+00:00
-
- ## Sakarya Üniversitesi | Etik Kurulu
- - [https://etikkurulu.sakarya.edu.tr](https://etikkurulu.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:36.984382+00:00
-
- ## Sakarya Üniversitesi | EUA KURUMSAL DEĞERLENDİRME PROGRAMI
- - [https://eua.sakarya.edu.tr](https://eua.sakarya.edu.tr)
- - date_published: 2024-05-02T10:27:28.354578+00:00
-
- ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
- - [https://farabi.sakarya.edu.tr](https://farabi.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:07.599175+00:00
-
- ## Sakarya Üniversitesi | Fen Bilimleri Enstitüsü
- - [https://fbe.sakarya.edu.tr](https://fbe.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:24.595139+00:00
-
- ## Sakarya Üniversitesi |
- - [https://fen.sakarya.edu.tr](https://fen.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:45.253223+00:00
-
- ## Sakarya Üniversitesi | Fikri ve Sınai Mülkiyet Hakları Koordinatörlüğü
- - [https://fsmhk.sakarya.edu.tr](https://fsmhk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:20.249760+00:00
-
- ## Sakarya Üniversitesi |
- - [https://gsb.sakarya.edu.tr](https://gsb.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:32.479841+00:00
-
- ## Sakarya Üniversitesi Haber Sitesi - Sakarya Üniversitesi Geleceğinize Yöne Verin
- - [https://haber.sakarya.edu.tr](https://haber.sakarya.edu.tr)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://hesap.sabis.sakarya.edu.tr](https://hesap.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:46.824305+00:00
-
- ## Sakarya Üniversitesi | Hukuk Fakültesi
- - [https://hf.sakarya.edu.tr](https://hf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:30.099376+00:00
-
- ## Sakarya Üniversitesi | Hukuk Müşavirliği
- - [https://hukuk.sakarya.edu.tr](https://hukuk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:54.299246+00:00
-
- ## Sakarya Üniversitesi | İlahiyat Fakültesi
- - [https://if.sakarya.edu.tr](https://if.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:54.013774+00:00
-
- ## Sakarya Üniversitesi |
- - [https://ihale.sakarya.edu.tr](https://ihale.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:03.501412+00:00
-
- ## Sakarya Üniversitesi | Personel Dairesi Başkanlığı Personel Alım İlanları
- - [https://ilan.sakarya.edu.tr](https://ilan.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:57.639671+00:00
-
- ## Sakarya Üniversitesi | İletişim Fakültesi
- - [https://iletisim.sakarya.edu.tr](https://iletisim.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:39.941949+00:00
-
- ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
- - [https://ilko.sakarya.edu.tr](https://ilko.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:21.013429+00:00
-
- ## Sakarya University | International Office
- - [https://international.sakarya.edu.tr](https://international.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:02.281154+00:00
-
- ## Sakarya Üniversitesi | İş Sağlığı ve Güvenliği Koordinatörlüğü
- - [https://isgk.sakarya.edu.tr](https://isgk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:32.994697+00:00
-
- ## Sakarya Üniversitesi | İşletme Fakültesi
- - [https://islf.sakarya.edu.tr](https://islf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:47.107140+00:00
-
- ## Sakarya Üniversitesi |
- - [https://itbf.sakarya.edu.tr](https://itbf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:50.257935+00:00
-
- ## "Bugün ve Gelecekte Hep Birlikte"
- - [https://kariyer.sakarya.edu.tr](https://kariyer.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:52.325509+00:00
-
- ## Sakarya Üniversitesi |
- - [https://kultur.sakarya.edu.tr](https://kultur.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:35.356003+00:00
-
- ## Sakarya Üniversitesi | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
- - [https://kutuphane.sakarya.edu.tr](https://kutuphane.sakarya.edu.tr)
- - date_published: 2024-02-08T16:27:45.731706+00:00
-
- ## KURUMSAL YÖNETİM BİLGİ SİSTEMİ
- - [https://kybs.sabis.sakarya.edu.tr](https://kybs.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:55.421688+00:00
-
- ## KALİTE YÖNETİM BİLGİ SİSTEMİ
- - [https://kys.sakarya.edu.tr](https://kys.sakarya.edu.tr)
- - date_published: 2024-05-02T10:27:25.208119+00:00
-
- ## SABİS | Giriş Sayfası
- - [https://labyonetim.sabis.sakarya.edu.tr](https://labyonetim.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:08.594749+00:00
-
- ## Sakarya Üniversitesi |
- - [https://mediko.sakarya.edu.tr](https://mediko.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:16.063865+00:00
-
- ## Sakarya Üniversitesi Genel Yemek Menüsü
- - [http://menu.sabis.sakarya.edu.tr](http://menu.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:44+00:00
 

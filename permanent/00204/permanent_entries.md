@@ -1,3 +1,180 @@
+ ## Key West, FL | Official Website
+ - [https://www.cityofkeywest-fl.gov](https://www.cityofkeywest-fl.gov)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Portland, TN | Official Website
+ - [https://cityofportlandtn.gov](https://cityofportlandtn.gov)
+ - date_published: 2024-06-30T12:15:22.651961+00:00
+
+ ## Home
+ - [https://www.cityofsacramento.gov](https://www.cityofsacramento.gov)
+ - date_published: 2024-04-28T04:28:09.933157+00:00
+
+ ## City of Tombstone, Cochise County, Arizona – Official Website of the City of Tombstone
+ - [https://cityoftombstoneaz.gov](https://cityoftombstoneaz.gov)
+ - date_published: 2024-06-18T21:10:39+00:00
+
+ ## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date_published: 2023-11-12T13:04:34.470969+00:00
+
+ ## Texas' Official Unclaimed Property Site - Texas Comptroller - Texas.gov
+ - [https://claimittexas.gov](https://claimittexas.gov)
+ - date_published: 2024-06-26T17:19:13+00:00
+
+ ## CitizenAccess Change
+ - [https://citizenaccess.clarkcountynv.gov](https://citizenaccess.clarkcountynv.gov)
+ - date_published: 2023-02-08T18:35:39+00:00
+
+ ## Welcome to Clark County, NV - Home
+ - [https://files.clarkcountynv.gov](https://files.clarkcountynv.gov)
+ - date_published: 2024-06-19T18:03:43.388531+00:00
+
+ ## Welcome to Clark County, NV - Home
+ - [https://www.clarkcountynv.gov](https://www.clarkcountynv.gov)
+ - date_published: 2024-05-04T06:55:56.098651+00:00
+
+ ## Clayton County's Digital Equity Initiative | Clayton County Digital Equity
+ - [https://digitalequity.claytoncountyga.gov](https://digitalequity.claytoncountyga.gov)
+ - date_published: 2024-07-15T02:07:48.294692+00:00
+
+ ## Munis Self Service
+ - [https://munisselfservice.claytoncountyga.gov](https://munisselfservice.claytoncountyga.gov)
+ - date_published: 2020-02-07T20:43:43+00:00
+
+ ## Redirecting...
+ - [https://webtrac.claytoncountyga.gov](https://webtrac.claytoncountyga.gov)
+ - date_published: 2020-07-13T15:25:38+00:00
+
+ ## Home - Clayton County, Georgia
+ - [https://claytoncountyga.gov](https://claytoncountyga.gov)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## U.S. Climate Resilience Toolkit | U.S. Climate Resilience Toolkit
+ - [https://toolkit.climate.gov](https://toolkit.climate.gov)
+ - date_published: 2024-07-04T06:15:34+00:00
+
+ ## Climate.gov Home
+ - [https://climate.gov](https://climate.gov)
+ - date_published: 2024-04-29T05:34:28.220552+00:00
+
+ ## ClinicalTrials.gov
+ - [https://clinicaltrials.gov](https://clinicaltrials.gov)
+ - date_published: 2024-05-13T03:14:14.423376+00:00
+
+ ## Welcome to William J. Clinton Presidential Library and Museum | William J. Clinton Presidential Library and Museum
+ - [https://www.clintonlibrary.gov](https://www.clintonlibrary.gov)
+ - date_published: 2024-06-28T20:21:09+00:00
+
+ ## Home | cloud.gov
+ - [https://cloud.gov](https://cloud.gov)
+ - date_published: 2024-07-08T19:45:48+00:00
+
+ ## FDIC: Federal Deposit Insurance Corporation
+ - [https://fdic-search.app.cloud.gov](https://fdic-search.app.cloud.gov)
+ - date_published: 2024-05-08T02:47:15.061893+00:00
+
+ ## Touchpoints
+ - [https://touchpoints.app.cloud.gov](https://touchpoints.app.cloud.gov)
+ - date_published: 2024-05-08T02:45:11.198356+00:00
+
+ ## CMS Developer Tools
+ - [https://developer.cms.gov](https://developer.cms.gov)
+ - date_published: 2024-07-12T07:40:57.596503+00:00
+
+ ## Overview | CMS
+ - [https://innovation.cms.gov](https://innovation.cms.gov)
+ - date_published: 2024-07-11T22:13:23+00:00
+
+ ## Home | Open Payments Data - CMS
+ - [https://openpaymentsdata.cms.gov](https://openpaymentsdata.cms.gov)
+ - date_published: 2024-05-10T04:58:57.271494+00:00
+ - tags: ['open data']
+
+ ## CMS Enterprise Portal
+ - [https://portal.cms.gov](https://portal.cms.gov)
+ - date_published: 2024-05-10T04:59:03.141510+00:00
+
+ ## Agent Broker
+ - [https://www.agentbrokerfaq.cms.gov](https://www.agentbrokerfaq.cms.gov)
+ - date_published: 2023-07-13T07:40:59+00:00
+
+ ## Home - Centers for Medicare & Medicaid Services | CMS
+ - [https://cms.gov](https://cms.gov)
+ - date_published: 2024-05-10T04:59:00.906679+00:00
+
+ ## eGrants Login
+ - [https://egrants.cns.gov](https://egrants.cns.gov)
+ - date_published: 2024-06-15T06:14:44+00:00
+
+ ## Committee on National Security Systems
+ - [https://cnss.gov](https://cnss.gov)
+ - date_published: 2024-05-08T02:43:20.401054+00:00
+
+ ## code.gov
+ - [https://code.gov](https://code.gov)
+ - date_published: 2024-01-18T18:03:22+00:00
+
+ ## College Drinking Prevention
+ - [https://www.collegedrinkingprevention.gov](https://www.collegedrinkingprevention.gov)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home | Department of Labor & Employment
+ - [https://cdle.colorado.gov](https://cdle.colorado.gov)
+ - date_published: 2024-06-18T02:39:44+00:00
+
+ ## Home | Department of Public Health & Environment
+ - [https://cdphe.colorado.gov](https://cdphe.colorado.gov)
+ - date_published: 2024-06-22T18:12:26+00:00
+
+ ## Home | Colorado.gov
+ - [https://co.colorado.gov](https://co.colorado.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## COVID19 | Department of Public Health & Environment
+ - [https://covid19.colorado.gov](https://covid19.colorado.gov)
+ - date_published: 2024-06-18T03:00:11+00:00
+
+ ## Home | Governor's Dashboard
+ - [https://dashboard.colorado.gov](https://dashboard.colorado.gov)
+ - date_published: 2024-06-18T02:12:00+00:00
+
+ ## Colorado Information Marketplace | Colorado Information Marketplace | data.colorado.gov
+ - [https://data.colorado.gov](https://data.colorado.gov)
+ - date_published: 2024-05-02T12:52:12.140713+00:00
+
+ ## Home | DEMO CO
+ - [https://demo.colorado.gov](https://demo.colorado.gov)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home | Division of Homeland Security and Emergency Management
+ - [https://dhsem.colorado.gov](https://dhsem.colorado.gov)
+ - date_published: 2024-06-18T02:15:34+00:00
+
+ ## Home | Department of Revenue - Motor Vehicle
+ - [https://dmv.colorado.gov](https://dmv.colorado.gov)
+ - date_published: 2024-06-18T00:04:31+00:00
+
+ ## Home | The Department of Personnel & Administration
+ - [https://dpa.colorado.gov](https://dpa.colorado.gov)
+ - date_published: 2024-06-18T02:02:00+00:00
+
+ ## WCI Landing Page | Judicial Workforce Culture Initiative
+ - [https://judicialwci.colorado.gov](https://judicialwci.colorado.gov)
+ - date_published: 2024-05-02T12:51:55.003565+00:00
+
+ ## Home | Judicial Well-Being
+ - [https://judicialwellbeing.colorado.gov](https://judicialwellbeing.colorado.gov)
+ - date_published: 2024-06-18T01:31:08+00:00
+
+ ## Colorado General Assembly |
+ - [https://leg.colorado.gov](https://leg.colorado.gov)
+ - date_published: 2024-05-04T09:46:29.135871+00:00
+
+ ## Lieutenant Governor Dianne Primavera | Lt. Governors Office
+ - [https://ltgovernor.colorado.gov](https://ltgovernor.colorado.gov)
+ - date_published: 2024-06-18T01:36:37+00:00
+
  ## MyBizColorado
  - [https://mybiz.colorado.gov](https://mybiz.colorado.gov)
  - date_published: 2024-05-08T03:06:12+00:00
@@ -3852,180 +4029,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Congressman Steube – Representing Florida
  - [https://steube.house.gov](https://steube.house.gov)
  - date_published: 2024-06-27T14:17:45.343251+00:00
-
- ## Congresswoman Haley Stevens
- - [https://stevens.house.gov](https://stevens.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Representative Marilyn Strickland
- - [https://strickland.house.gov](https://strickland.house.gov)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Representative Dale Strong
- - [https://strong.house.gov](https://strong.house.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home - Summer Lee
- - [https://summerlee.house.gov](https://summerlee.house.gov)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Congressman Thomas Suozzi
- - [https://suozzi.house.gov](https://suozzi.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Representative Susie Lee
- - [https://susielee.house.gov](https://susielee.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Swalwell
- - [https://swalwell.house.gov](https://swalwell.house.gov)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home | U.S. Congresswoman Emilia Sykes
- - [https://sykes.house.gov](https://sykes.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Sylvia Garcia
- - [https://sylviagarcia.house.gov](https://sylviagarcia.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home | U.S. Congressman Mark Takano of California's 39th District
- - [https://takano.house.gov](https://takano.house.gov)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Representative Claudia Tenney
- - [https://tenney.house.gov](https://tenney.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | U.S. Congressman Shri Thanedar
- - [https://thanedar.house.gov](https://thanedar.house.gov)
- - date_published: 2024-06-27T14:17:31.132460+00:00
-
- ## Representative Thompson
- - [https://thompson.house.gov](https://thompson.house.gov)
- - date_published: 2024-06-27T14:13:06.197499+00:00
-
- ## Representative Tom Tiffany
- - [https://tiffany.house.gov](https://tiffany.house.gov)
- - date_published: 2024-06-27T14:01:59.554453+00:00
-
- ## Congressman William Timmons
- - [https://timmons.house.gov](https://timmons.house.gov)
- - date_published: 2024-06-27T14:23:43+00:00
-
- ## Congresswoman Dina Titus
- - [https://titus.house.gov](https://titus.house.gov)
- - date_published: 2024-05-06T17:11:50.911626+00:00
-
- ## Home - Rashida Tlaib
- - [https://tlaib.house.gov](https://tlaib.house.gov)
- - date_published: 2024-06-27T13:59:25.005625+00:00
-
- ## Representative Jill Tokuda
- - [https://tokuda.house.gov](https://tokuda.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## U.S. Representative Paul Tonko
- - [https://tonko.house.gov](https://tonko.house.gov)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home | U.S. Congresswoman Norma Torres of California's 35th District
- - [https://torres.house.gov](https://torres.house.gov)
- - date_published: 2024-06-27T14:17:12.277719+00:00
-
- ## U.S. Representative Lori Trahan
- - [https://trahan.house.gov](https://trahan.house.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Transportation and Infrastructure Committee
- - [https://transportation.house.gov](https://transportation.house.gov)
- - date_published: 2024-06-27T14:17:00+00:00
-
- ## U.S. Representative Trent Kelly
- - [https://trentkelly.house.gov](https://trentkelly.house.gov)
- - date_published: 2024-06-27T14:09:46+00:00
-
- ## Home - Congressman David Trone
- - [https://trone.house.gov](https://trone.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Representative Troy Carter
- - [https://troycarter.house.gov](https://troycarter.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Michael Turner
- - [https://turner.house.gov](https://turner.house.gov)
- - date_published: 2024-06-27T14:20:02.872036+00:00
-
- ## Representative Lauren Underwood
- - [https://underwood.house.gov](https://underwood.house.gov)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## OLRC Home
- - [https://uscode.house.gov](https://uscode.house.gov)
- - date_published: 2024-04-29T01:49:01.008343+00:00
-
- ## U.S. Congressman David Valadao
- - [https://valadao.house.gov](https://valadao.house.gov)
- - date_published: 2024-06-27T14:20:45+00:00
-
- ## U.S. Congressman Jefferson Van Drew
- - [https://vandrew.house.gov](https://vandrew.house.gov)
- - date_published: 2024-06-27T14:01:26+00:00
-
- ## United States Representative Beth Van Duyne
- - [https://vanduyne.house.gov](https://vanduyne.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Representative Derrick Van Orden
- - [https://vanorden.house.gov](https://vanorden.house.gov)
- - date_published: 2024-06-27T14:10:44.129403+00:00
-
- ## U.S. Congressman Juan Vargas | U.S. Congressman Juan Vargas Of Californias 52nd District
- - [https://vargas.house.gov](https://vargas.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Representative Gabe Vasquez
- - [https://vasquez.house.gov](https://vasquez.house.gov)
- - date_published: 2024-06-27T14:21:36.357695+00:00
-
- ## Congressman Marc Veasey
- - [https://veasey.house.gov](https://veasey.house.gov)
- - date_published: 2024-06-27T14:10:57.065447+00:00
-
- ## Congresswoman Nydia Velázquez
- - [https://velazquez.house.gov](https://velazquez.house.gov)
- - date_published: 2024-06-27T14:12:16.608776+00:00
-
- ## House Committee on Veterans' Affairs
- - [https://veterans.house.gov](https://veterans.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congresswoman Ann Wagner
- - [https://wagner.house.gov](https://wagner.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Tim Walberg
- - [https://walberg.house.gov](https://walberg.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## U.S. Representative Mike Waltz
- - [https://waltz.house.gov](https://waltz.house.gov)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Congresswoman Debbie Wasserman Schultz
- - [https://wassermanschultz.house.gov](https://wassermanschultz.house.gov)
- - date_published: 2024-06-27T14:21:56+00:00
-
- ## Representative Maxine Waters
- - [https://waters.house.gov](https://waters.house.gov)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Home
- - [https://watsoncoleman.house.gov](https://watsoncoleman.house.gov)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Ways and Means – Congressional Website
- - [https://waysandmeans.house.gov](https://waysandmeans.house.gov)
- - date_published: 2024-06-27T14:24:34.073218+00:00
 

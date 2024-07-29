@@ -1,3 +1,255 @@
+ ## Fundación Foro Suroccidente
+ - [https://forosuroccidente.org](https://forosuroccidente.org)
+ - date_published: 2024-06-12T03:12:43.827413+00:00
+
+ ## Forstalk - instagram profilime bakanlar
+ - [https://forstalk.org](https://forstalk.org)
+ - date_published: 2024-07-13T18:49:14.451379+00:00
+
+ ## Home - Forsyth
+ - [https://forsyth.org](https://forsyth.org)
+ - date_published: 2023-12-04T09:13:10.640249+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.fortbraggonline.org](https://www.fortbraggonline.org)
+ - date_published: 2024-07-10T04:53:49.891069+00:00
+
+ ## Forth Interest Group Home Page
+ - [http://www.forth.org](http://www.forth.org)
+ - date_published: 2023-10-25T21:21:50.066557+00:00
+
+ ## ForTheLoveofMentalHealth
+ - [https://fortheloveofmentalhealth.org](https://fortheloveofmentalhealth.org)
+ - date_published: 2024-07-14T15:19:18.277064+00:00
+
+ ## for Tomorrow | A long-term, multifaceted commitment to building a more sustainable world
+ - [https://fortomorrow.org](https://fortomorrow.org)
+ - date_published: 2023-10-25T21:21:57.633900+00:00
+
+ ## The Fortran Programming Language — Fortran Programming Language
+ - [https://fortran-lang.org](https://fortran-lang.org)
+ - date_published: 2023-10-25T21:21:58.660647+00:00
+ - tags: ['fortran', 'programming language']
+
+ ## Fortran Package Manager — Fortran Package Manager
+ - [https://fpm.fortran-lang.org](https://fpm.fortran-lang.org)
+ - date_published: 2024-05-01T04:32:40.887805+00:00
+
+ ## Fortran-lang/stdlib
+ - [https://stdlib.fortran-lang.org](https://stdlib.fortran-lang.org)
+ - date_published: 2024-05-01T04:32:53.902091+00:00
+
+ ## FortressOne QWTF Demo Archive
+ - [https://demos.fortressone.org](https://demos.fortressone.org)
+ - date_published: 2019-12-31T04:26:28+00:00
+
+ ## Join the FortressOne Discord Server!
+ - [https://discord.fortressone.org](https://discord.fortressone.org)
+ - date_published: 2024-05-02T09:43:54.685141+00:00
+
+ ## FortressOne - Quake Team Fortress Remastered
+ - [https://fortressone.org](https://fortressone.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+ - tags: ['video game', 'quake', 'open source']
+
+ ## FortressOne QWTF File Archive
+ - [https://maps.fortressone.org](https://maps.fortressone.org)
+ - date_published: 2024-03-26T13:48:14+00:00
+
+ ## Home - Fort Wayne Parks and Recreation
+ - [https://www.fortwayneparks.org](https://www.fortwayneparks.org)
+ - date_published: 2024-06-12T22:23:11.337945+00:00
+
+ ## Fort Worth Report | Non-Partisan, Nonprofit News
+ - [https://fortworthreport.org](https://fortworthreport.org)
+ - date_published: 2024-06-15T13:16:32+00:00
+
+ ## Home | Fort Worth Stockyards
+ - [http://www.fortworthstockyards.org](http://www.fortworthstockyards.org)
+ - date_published: 2024-06-20T19:19:29+00:00
+
+ ## Forum 18
+ - [http://www.forum18.org](http://www.forum18.org)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## 3DCenter Forum
+ - [http://www.forum-3dcenter.org](http://www.forum-3dcenter.org)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Forum Citoyen pour la RSE | Bienvenue sur le site du Forum Citoyen pour la RSE.
+ - [http://forumcitoyenpourlarse.org](http://forumcitoyenpourlarse.org)
+ - date_published: 2024-07-03T02:09:08.068666+00:00
+
+ ## Forum for the Future
+ - [https://www.forumforthefuture.org](https://www.forumforthefuture.org)
+ - date_published: 2024-06-20T03:51:30.866560+00:00
+
+ ## Home
+ - [https://www.forwarddatabank.org](https://www.forwarddatabank.org)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## FOSDEM24 - Previous FOSDEM Editions
+ - [https://archive.fosdem.org](https://archive.fosdem.org)
+ - date_published: 2023-10-25T21:22:00.131913+00:00
+
+ ## FOSDEM24 - Home
+ - [https://fosdem.org](https://fosdem.org)
+ - date_published: 2023-10-25T21:22:01.486923+00:00
+ - tags: ['open source', 'convention']
+
+ ## lists.fosdem.org Mailing Lists
+ - [https://lists.fosdem.org](https://lists.fosdem.org)
+ - date_published: 2024-07-14T03:15:20.212252+00:00
+
+ ## FOSDEM - video recordings
+ - [https://video.fosdem.org](https://video.fosdem.org)
+ - date_published: 2024-05-09T02:33:08.823511+00:00
+
+ ## FOSS4G Boston 2017
+ - [http://2017.foss4g.org](http://2017.foss4g.org)
+ - date_published: 2017-12-28T20:43:27+00:00
+
+ ## FOSS4G 2019 Bucharest
+ - [http://2019.foss4g.org](http://2019.foss4g.org)
+ - date_published: 2020-12-25T19:23:52+00:00
+
+ ## FOSS4G | Firenze 2022
+ - [https://2022.foss4g.org](https://2022.foss4g.org)
+ - date_published: 2024-07-08T12:49:43.805767+00:00
+
+ ## FOSS4G Europe 2024
+ - [https://2024.europe.foss4g.org](https://2024.europe.foss4g.org)
+ - date_published: 2024-07-16T07:15:54+00:00
+
+ ## FOSS4G NA 2024
+ - [https://foss4gna.org](https://foss4gna.org)
+ - date_published: 2024-06-21T01:54:29.608550+00:00
+
+ ## FOSS4G Perth 2024
+ - [https://foss4g-perth.org](https://foss4g-perth.org)
+ - date_published: 2024-07-01T04:04:57+00:00
+
+ ## FOSS and Crafts
+ - [https://fossandcrafts.org](https://fossandcrafts.org)
+ - date_published: 2023-10-25T21:22:03.037482+00:00
+
+ ## FOSSBilling - Free and open source hosting automation | FOSSBilling
+ - [https://fossbilling.org](https://fossbilling.org)
+ - date_published: 2024-06-19T22:11:46.606500+00:00
+
+ ## FOSSDLE Social - Mastodon
+ - [https://social.fossdle.org](https://social.fossdle.org)
+ - date_published: 2024-05-15T20:53:59.939848+00:00
+
+ - [https://fosshost.org](https://fosshost.org)
+ - date_published: 2024-01-09T03:39:31.584866+00:00
+
+ ## Fossies - The Fresh Open Source Software Archive
+ - [https://fossies.org](https://fossies.org)
+ - date_published: 2024-05-07T22:27:09+00:00
+
+ ## Fossify GitHub Page
+ - [https://www.fossify.org](https://www.fossify.org)
+ - date_published: 2024-01-15T18:29:40+00:00
+
+ ## Fossil: A Coherent Software Configuration Management System
+ - [https://fossil-scm.org](https://fossil-scm.org)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## | FOSSlife
+ - [https://fosslife.org](https://fosslife.org)
+ - date_published: 2024-06-21T13:42:31.652647+00:00
+
+ ## Fosstodon
+ - [https://fosstodon.org](https://fosstodon.org)
+ - date_published: 2023-10-24T20:13:36.118898+00:00
+ - tags: ['mastodon', 'open source']
+
+ ## Fosstodon Hub
+ - [https://hub.fosstodon.org](https://hub.fosstodon.org)
+ - date_published: 2023-10-25T21:22:06.810545+00:00
+ - tags: ['mastodon']
+
+ ## FOSS United Foundation
+ - [https://fossunited.org](https://fossunited.org)
+ - date_published: 2024-06-15T06:55:46.332925+00:00
+
+ ## Foster Care Old Page
+ - [https://foster-sf.org](https://foster-sf.org)
+ - date_published: 2024-02-16T20:31:55+00:00
+
+ ## FOTEGAL | Foro de Tesorerías Gubernamentales de América Latina
+ - [http://www.fotegal.org](http://www.fotegal.org)
+ - date_published: 2024-06-12T11:04:10.976275+00:00
+
+ ## Fotokino | Expositions, projections, ateliers et conférences dédiés aux arts visuels
+ - [https://fotokino.org](https://fotokino.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Ellenberger Architecture | Architectural practice in the California Bay Area, with experience in commercial, civic, healthcare, education, and residential projects.
+ - [https://www.fotuva.org](https://www.fotuva.org)
+ - date_published: 2024-01-09T03:39:38.501537+00:00
+
+ ## Foundance
+ - [https://app.foundance.org](https://app.foundance.org)
+ - date_published: 2024-06-16T04:17:20.485245+00:00
+
+ ## Foundation 2 Crisis Services
+ - [https://foundation2.org](https://foundation2.org)
+ - date_published: 2024-07-16T20:07:05.923176+00:00
+
+ ## Home – Center on Long-Term Risk
+ - [https://foundational-research.org](https://foundational-research.org)
+ - date_published: 2024-05-07T09:59:32.867779+00:00
+
+ ## Find Grants for Nonprofits | Foundation Directory | Candid
+ - [https://fconline.foundationcenter.org](https://fconline.foundationcenter.org)
+ - date_published: 2024-07-07T01:42:11.408480+00:00
+
+ ## Foundation Maps | Candid
+ - [https://maps.foundationcenter.org](https://maps.foundationcenter.org)
+ - date_published: 2024-07-07T01:42:03.467621+00:00
+
+ ## Foundation Center Dev
+ - [https://wordpressdev.foundationcenter.org](https://wordpressdev.foundationcenter.org)
+ - date_published: 2024-07-07T01:42:35.388107+00:00
+
+ ## FoundationDB
+ - [https://forums.foundationdb.org](https://forums.foundationdb.org)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## FoundationDB | Home
+ - [https://www.foundationdb.org](https://www.foundationdb.org)
+ - date_published: 2024-04-29T07:32:02.352669+00:00
+
+ ## Home - ICF Foundation
+ - [https://foundationoficf.org](https://foundationoficf.org)
+ - date_published: 2024-06-15T09:27:37.937576+00:00
+
+ ## Foundations of Digital Games (FDG) Conference Series
+ - [http://www.foundationsofdigitalgames.org](http://www.foundationsofdigitalgames.org)
+ - date_published: 2018-10-06T17:05:34+00:00
+
+ ## Found on the Web
+ - [https://foundontheweb.org](https://foundontheweb.org)
+ - date_published: 2024-05-04T07:41:05.022388+00:00
+
+ ## FoundSF
+ - [https://www.foundsf.org](https://www.foundsf.org)
+ - date_published: 2023-10-25T21:22:16.106715+00:00
+
+ ## Four Mile Historic Park | House museum & landmark in Denver, Colorado
+ - [https://www.fourmilepark.org](https://www.fourmilepark.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Davenport Veterans Memorial Park
+ - [https://fovmp.org](https://fovmp.org)
+ - date_published: 2024-04-25T15:30:47+00:00
+
+ ## The History of FoxPro
+ - [http://www.foxprohistory.org](http://www.foxprohistory.org)
+ - date_published: 2023-10-25T21:22:16.878309+00:00
+
  ## Foyer Vietnam
  - [http://www.foyer-vietnam.org](http://www.foyer-vietnam.org)
  - date_published: 2024-06-18T13:14:25+00:00
@@ -3820,253 +4072,4 @@ encryption
  ## Home - GISCorps - GIS Professionals Volunteering for a Better World
  - [https://www.giscorps.org](https://www.giscorps.org)
  - date_published: 2024-05-14T00:00:00+00:00
-
- ## Gisha
- - [https://gisha.org](https://gisha.org)
- - date_published: 2024-07-16T21:34:25.692312+00:00
-
- ## Where are we watching? | Global Information Society Watch
- - [https://www.giswatch.org](https://www.giswatch.org)
- - date_published: 2024-05-25T05:39:24.826480+00:00
-
- ## Fundación Secretariado Gitano
- - [https://www.gitanos.org](https://www.gitanos.org)
- - date_published: 2024-07-02T21:27:40.171012+00:00
-
- ## git-cliff
- - [https://git-cliff.org](https://git-cliff.org)
- - date_published: 2024-06-26T10:36:58+00:00
-
- ## Git for Windows
- - [https://gitforwindows.org](https://gitforwindows.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## The most-comprehensive AI-powered DevSecOps platform
- - [https://gitlab.org](https://gitlab.org)
- - date_published: 2024-05-10T07:01:46.777755+00:00
-
- ## GitLab Foundation
- - [https://www.gitlabfoundation.org](https://www.gitlabfoundation.org)
- - date_published: 2023-10-25T21:25:00.592742+00:00
-
- ## GitList - An elegant and modern git repository viewer
- - [http://gitlist.org](http://gitlist.org)
- - date_published: 2022-01-15T05:26:26+00:00
-
- ## GitNation Events - Giving Open Source a human face
- - [https://gitnation.org](https://gitnation.org)
- - date_published: 2024-05-06T13:26:07.659846+00:00
-
- ## Public Home Page
- - [https://info.gitnation.org](https://info.gitnation.org)
- - date_published: 2024-06-20T07:00:49.892347+00:00
-
- ## Open source technology conferences: JavaScript, React, Vue, NodeJS - GitNation
- - [https://portal.gitnation.org](https://portal.gitnation.org)
- - date_published: 2024-05-04T13:58:02.542463+00:00
- - tags: ['conference', 'javascript']
-
- ## gitorious valhalla
- - [https://gitorious.org](https://gitorious.org)
- - date_published: 2016-11-27T02:17:25+00:00
-
- ## Git
- - [https://git-scm.org](https://git-scm.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## gittup.org: [Wicked cool tagline.]
- - [http://gittup.org](http://gittup.org)
- - date_published: 2022-04-21T19:06:53+00:00
-
- ## Find Best Charities To Donate | Charity Ratings, Reviews
- - [https://give.org](https://give.org)
- - date_published: 2024-05-08T07:33:02.894009+00:00
-
- ## WBAI Online Donation Site by WBAI
- - [https://give2wbai.org](https://give2wbai.org)
- - date_published: 2024-05-29T06:59:50.501191+00:00
-
- ## Welcome to Baylor College of Medicine
- - [https://secure.givebcm.org](https://secure.givebcm.org)
- - date_published: 2024-07-19T21:12:48+00:00
-
- ## GiveCamp Memphis | Coding for Charity
- - [https://givecampmemphis.org](https://givecampmemphis.org)
- - date_published: 2024-05-08T06:02:32.098812+00:00
-
- ## Best fundraising Ideas For non profit organizations | GIveCentral
- - [https://www.givecentral.org](https://www.givecentral.org)
- - date_published: 2024-07-04T17:01:38.049796+00:00
-
- ## GiveDirect
- - [https://www.givedirect.org](https://www.givedirect.org)
- - date_published: 2024-06-27T06:29:48.445348+00:00
-
- ## GiveDirectly: Send money to people living in poverty
- - [https://community.givedirectly.org](https://community.givedirectly.org)
- - date_published: 2024-06-21T11:40:31.011704+00:00
-
- ## Give Now | GiveDirectly
- - [https://donate.givedirectly.org](https://donate.givedirectly.org)
- - date_published: 2024-05-10T05:58:32.596256+00:00
-
- ## GiveDirectly: Send money to people living in poverty
- - [https://givedirectly.org](https://givedirectly.org)
- - date_published: 2024-05-06T23:00:05.602791+00:00
-
- ## GiveDirectly: Send money directly to the extreme poor
- - [https://live.givedirectly.org](https://live.givedirectly.org)
- - date_published: 2024-05-10T05:58:38.194470+00:00
-
- ## {{CONFIG.pageTags.opengraphTitle}}
- - [https://giveforgoodnla.org](https://giveforgoodnla.org)
- - date_published: 2024-05-04T10:12:17.478511+00:00
-
- ## Give
- - [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Give Lively
- - [https://secure.givelively.org](https://secure.givelively.org)
- - date_published: 2024-05-21T02:45:03.353239+00:00
-
- ## Give Lively - A Free Fundraising Platform For Nonprofits
- - [https://www.givelively.org](https://www.givelively.org)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## GiveMN
- - [https://www.givemn.org](https://www.givemn.org)
- - date_published: 2024-06-15T18:16:44.735642+00:00
-
- ## Home Page
- - [https://donate.givetoiowa.org](https://donate.givetoiowa.org)
- - date_published: 2024-07-02T02:53:56.789667+00:00
-
- ## Supporting Education - Morgan State University Foundation
- - [http://www.givetomorgan.org](http://www.givetomorgan.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Shout: the UK's free, confidential and 24/7 mental health text service for crisis support
- - [https://giveusashout.org](https://giveusashout.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Charity Reviews and Recommendations | GiveWell
- - [http://blog.givewell.org](http://blog.givewell.org)
- - date_published: 2024-04-29T04:44:10.203047+00:00
-
- ## GiveWell
- - [https://givewell.org](https://givewell.org)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Donate to GiveWell | GiveWell
- - [https://secure.givewell.org](https://secure.givewell.org)
- - date_published: 2024-05-12T07:28:50.705947+00:00
-
- ## Giving Assistant - Shop &amp; Save With Promo Codes &amp; Coupons
- - [https://givingassistant.org](https://givingassistant.org)
- - date_published: 2024-06-21T17:25:48+00:00
-
- ## https://givingbirthwithconfidence.org
- - [https://givingbirthwithconfidence.org](https://givingbirthwithconfidence.org)
- - date_published: 2024-02-08T22:08:41.766287+00:00
-
- ## ReDI Donation Page-EN
- - [https://redi-school.givingpage.org](https://redi-school.givingpage.org)
- - date_published: 2024-07-22T09:26:29.077665+00:00
-
- ## GivingTuesday
- - [https://givingtuesday.org](https://givingtuesday.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## How Rich Am I?
- - [https://howrichami.givingwhatwecan.org](https://howrichami.givingwhatwecan.org)
- - date_published: 2024-07-12T18:54:35.397845+00:00
-
- ## Giving What We Can
- - [https://www.givingwhatwecan.org](https://www.givingwhatwecan.org)
- - date_published: 2024-04-29T04:44:04.934117+00:00
-
- ## Grand Junction, CO | Official Website
- - [https://gjcity.org](https://gjcity.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Gulf Journal of Mathematics
- - [http://gjom.org](http://gjom.org)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## The Greater Kanawha Valley Foundation
- - [https://gkvf.org](https://gkvf.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## GLAAD
- - [https://act.glaad.org](https://act.glaad.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## GLAAD
- - [https://give.glaad.org](https://give.glaad.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## GLAAD
- - [https://glaad.org](https://glaad.org)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Home - GLAD
- - [https://www.glad.org](https://www.glad.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Gladstone Institutes
- - [https://gladstone.org](https://gladstone.org)
- - date_published: 2024-07-22T07:52:06+00:00
-
- ## glandium.org
- - [https://glandium.org](https://glandium.org)
- - date_published: 2023-11-21T21:18:54.989187+00:00
-
- ## Glasgow 2024, a Worldcon for Our Futures
- - [https://glasgow2024.org](https://glasgow2024.org)
- - date_published: 2023-02-24T23:49:47+00:00
-
- ## Login -  Glasgow 2024 Worldcon
- - [https://registration.glasgow2024.org](https://registration.glasgow2024.org)
- - date_published: 2024-06-27T11:20:56.169212+00:00
-
- ## Friends of Glasgow Necropolis
- - [https://www.glasgownecropolis.org](https://www.glasgownecropolis.org)
- - date_published: 2024-06-22T14:19:40.067805+00:00
-
- ## City Cave Zen
- - [https://glasgowzen.org](https://glasgowzen.org)
- - date_published: 2024-06-27T08:55:38+00:00
-
- ## Glasnost Linux
- - [https://glasnost.org](https://glasnost.org)
- - date_published: 2024-05-07T15:47:18.926456+00:00
-
- ## glaucus
- - [https://wiki.glaucuslinux.org](https://wiki.glaucuslinux.org)
- - date_published: 2024-06-30T07:58:40.237299+00:00
-
- ## glaucus - A simple and lightweight Linux® distribution based on musl libc and toybox
- - [https://glaucuslinux.org](https://glaucuslinux.org)
- - date_published: 2024-05-07T15:47:09.521415+00:00
-
- ## Great Lakes Bioenergy Research Center
- - [https://www.glbrc.org](https://www.glbrc.org)
- - date_published: 2024-07-03T13:06:39.960874+00:00
-
- ## Home - Great Lakes Colleges Association
- - [http://glca.org](http://glca.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home - Great Lakes Colleges Association
- - [https://www.glca.org](https://www.glca.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## argmin gravitas
- - [https://gleech.org](https://gleech.org)
- - date_published: 2024-02-22T09:50:12.772168+00:00
-
- ## LEI Search
- - [https://search.gleif.org](https://search.gleif.org)
- - date_published: 2024-04-22T11:12:12+00:00
 

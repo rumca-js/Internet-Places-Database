@@ -1,3 +1,173 @@
+ ## Home
+ - [https://planetblue.umich.edu](https://planetblue.umich.edu)
+ - date_published: 2024-06-16T11:48:03.637548+00:00
+
+ ## PRBA | The Program for Research on Black Americans
+ - [https://prba.isr.umich.edu](https://prba.isr.umich.edu)
+ - date_published: 2024-02-08T17:48:53.662680+00:00
+
+ ## Office of the President
+ - [https://president.umich.edu](https://president.umich.edu)
+ - date_published: 2024-05-04T06:11:00.310049+00:00
+
+ ## University of Michigan Press
+ - [https://press.umich.edu](https://press.umich.edu)
+ - date_published: 2024-06-17T14:11:39+00:00
+
+ ## Procurement Services - University of Michigan | Finance Customer Care
+ - [https://procurement.umich.edu](https://procurement.umich.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Proxy Server Problem
+ - [https://proxy.lib.umich.edu](https://proxy.lib.umich.edu)
+ - date_published: 2024-06-30T01:28:39.049813+00:00
+
+ ## The Institute for Social Research Population Studies Center |
+ - [https://psc.isr.umich.edu](https://psc.isr.umich.edu)
+ - date_published: 2024-07-01T18:35:41+00:00
+
+ ## U-M Public Affairs
+ - [https://publicaffairs.vpcomm.umich.edu](https://publicaffairs.vpcomm.umich.edu)
+ - date_published: 2024-05-07T21:28:53.650630+00:00
+
+ ## Homepage | Law Quadrangle
+ - [https://quadrangle.law.umich.edu](https://quadrangle.law.umich.edu)
+ - date_published: 2024-06-19T14:14:57+00:00
+
+ ## Homepage | Law Quadrangle
+ - [https://quadrangle.michigan.law.umich.edu](https://quadrangle.michigan.law.umich.edu)
+ - date_published: 2024-06-25T18:12:17+00:00
+
+ ## U-M Library Digital Collections
+ - [http://quod.lib.umich.edu](http://quod.lib.umich.edu)
+ - date_published: 2024-06-30T04:28:05.711370+00:00
+
+ ## Research Center for Group Dynamics |
+ - [https://rcgd.isr.umich.edu](https://rcgd.isr.umich.edu)
+ - date_published: 2024-05-07T21:29:17.799449+00:00
+
+ ## The University Record
+ - [https://record.umich.edu](https://record.umich.edu)
+ - date_published: 2024-04-20T14:55:31.813935+00:00
+ - tags: ['university news']
+
+ ## Homepage
+ - [https://regents.umich.edu](https://regents.umich.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.engin.umich.edu](https://registrar.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:02+00:00
+
+ ## Equity, Civil Rights, and Title IX Offices
+ - [https://report.ecrt.umich.edu](https://report.ecrt.umich.edu)
+ - date_published: 2024-06-16T11:47:42.612426+00:00
+
+ ## University of Michigan Law School Scholarship Repository
+ - [https://repository.law.umich.edu](https://repository.law.umich.edu)
+ - date_published: 2023-10-25T19:02:35.321840+00:00
+
+ ## Office of Research
+ - [https://research.medicine.umich.edu](https://research.medicine.umich.edu)
+ - date_published: 2024-05-07T21:28:02.926633+00:00
+
+ ## Research to Serve the World
+ - [https://research.umich.edu](https://research.umich.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## LibCal -
+        University of Michigan Law Library
+ - [https://reservations.law.umich.edu](https://reservations.law.umich.edu)
+ - date_published: 2024-06-20T01:56:32.779144+00:00
+
+ ## Resilient Traveling
+ - [https://resilient-traveling.umich.edu](https://resilient-traveling.umich.edu)
+ - date_published: 2024-07-02T01:42:30+00:00
+
+ ## Michigan Robotics | University of Michigan
+ - [https://robotics.umich.edu](https://robotics.umich.edu)
+ - date_published: 2013-07-09T19:23:43+00:00
+
+ ## Home | Office of the Registrar
+ - [https://ro.umich.edu](https://ro.umich.edu)
+ - date_published: 2024-06-16T11:47:32+00:00
+
+ ## Resource Planning and Management – Home for Resource Planning and Management at the College of Engineering
+ - [https://rpm.engin.umich.edu](https://rpm.engin.umich.edu)
+ - date_published: 2024-07-02T03:53:16+00:00
+
+ ## U-M Safe Computing / safecomputing.umich.edu
+ - [https://safecomputing.umich.edu](https://safecomputing.umich.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Safety Abroad |  Safety Abroad
+ - [https://safetyabroad.umich.edu](https://safetyabroad.umich.edu)
+ - date_published: 2024-07-02T03:54:51.236979+00:00
+
+ ## CoE Safety
+ - [https://safety.engin.umich.edu](https://safety.engin.umich.edu)
+ - date_published: 2024-05-07T21:28:45.451956+00:00
+
+ ## Welcome | Sexual Assault Prevention and Awareness Center
+ - [https://sapac.umich.edu](https://sapac.umich.edu)
+ - date_published: 2024-06-26T16:51:16+00:00
+
+ ## Scalar
+ - [https://scalar.eecs.umich.edu](https://scalar.eecs.umich.edu)
+ - date_published: 2024-05-07T14:56:30.959795+00:00
+
+ ## U-M Library Search
+ - [https://search.lib.umich.edu](https://search.lib.umich.edu)
+ - date_published: 2024-06-13T11:34:05+00:00
+
+ ## Home
+ - [https://security.engin.umich.edu](https://security.engin.umich.edu)
+ - date_published: 2024-07-14T04:46:25.908300+00:00
+
+ ## Michigan Publishing Services
+ - [https://services.publishing.umich.edu](https://services.publishing.umich.edu)
+ - date_published: 2024-06-17T14:11:50+00:00
+
+ ## Sexual Misconduct Reporting & Resources | University of Michigan
+ - [https://sexualmisconduct.umich.edu](https://sexualmisconduct.umich.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Office of Budget and Planning
+ - [http://sitemaker.umich.edu](http://sitemaker.umich.edu)
+ - date_published: 2024-07-07T03:36:45+00:00
+
+ ## WordPress Websites – Offered by LSA Technology Services
+ - [https://sites.lsa.umich.edu](https://sites.lsa.umich.edu)
+ - date_published: 2024-03-22T20:49:48.942501+00:00
+
+ ## Home
+ - [http://socialmedia.umich.edu](http://socialmedia.umich.edu)
+ - date_published: 2024-07-02T03:48:31+00:00
+
+ ## University of Michigan Marsal Family School of Education
+ - [https://soe.umich.edu](https://soe.umich.edu)
+ - date_published: 2024-05-07T14:56:22.276920+00:00
+
+ ## Home | Standard Practice Guides - University of Michigan
+ - [https://spg.umich.edu](https://spg.umich.edu)
+ - date_published: 2024-07-02T03:49:21+00:00
+
+ ## U-M School of Public Health
+ - [https://sph.umich.edu](https://sph.umich.edu)
+ - date_published: 2024-06-16T11:47:37.412686+00:00
+
+ ## Survey Research Center
+ - [https://src.isr.umich.edu](https://src.isr.umich.edu)
+ - date_published: 2024-07-02T04:01:54+00:00
+
+ ## Stamps School of Art & Design at the University of Michigan
+ - [http://stamps.umich.edu](http://stamps.umich.edu)
+ - date_published: 2024-07-03T15:50:56+00:00
+
+ ## Strategic Vision - Michigan Engineering - University of Michigan
+ - [https://strategicvision.engin.umich.edu](https://strategicvision.engin.umich.edu)
+ - date_published: 2023-07-12T00:00:00+00:00
+
  ## Office of Student Affairs – Mission and location information for the Office of Student Affairs
  - [https://studentaffairs.engin.umich.edu](https://studentaffairs.engin.umich.edu)
  - date_published: 2024-07-02T03:52:28+00:00
@@ -3851,172 +4021,4 @@ Center for Information Technology Integration
  ## Català
  - [https://autoproteccio.upc.edu](https://autoproteccio.upc.edu)
  - date_published: 2024-02-28T00:00:00+00:00
-
- ## Bibliotècnica | La biblioteca digital de la UPC
- - [https://bibliotecnica.upc.edu](https://bibliotecnica.upc.edu)
- - date_published: 2024-07-02T05:35:01+00:00
-
- ## Home - BNN-UPC
- - [https://bnn.upc.edu](https://bnn.upc.edu)
- - date_published: 2023-05-03T00:00:00+00:00
-
- ## Empleo by Universia
- - [https://borsa.alumni.upc.edu](https://borsa.alumni.upc.edu)
- - date_published: 2024-06-28T08:12:20+00:00
-
- ## Inici - catedravanderlande.com
- - [https://catedravanderlande.upc.edu](https://catedravanderlande.upc.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Campus FPCAT-UPC de la Mobilitat Sostenible (Martorell)
- - [https://cms.upc.edu](https://cms.upc.edu)
- - date_published: 2024-07-02T05:36:31.004480+00:00
-
- ## Centre Universitari de la Visió de la Universitat Politècnica de Catalunya · Barcelona Tech
- - [https://cuv.upc.edu](https://cuv.upc.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Català
- - [https://diplomasenior.eseiaat.upc.edu](https://diplomasenior.eseiaat.upc.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## frontend
- - [https://directori.upc.edu](https://directori.upc.edu)
- - date_published: 2024-04-23T11:43:41+00:00
-
- ## Català
- - [https://doctorat.upc.edu](https://doctorat.upc.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Inicia la sessió
- - [http://eatic.upc.edu](http://eatic.upc.edu)
- - date_published: 2024-07-02T05:36:11.404670+00:00
-
- ## Català
- - [https://genweb.upc.edu](https://genweb.upc.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## HPCA 2016
- - [http://hpca22.ac.upc.edu](http://hpca22.ac.upc.edu)
- - date_published: 2024-07-17T05:43:29.716526+00:00
-
- ## Català
- - [https://ice.upc.edu](https://ice.upc.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Image Processing Group | Signal Theory and Communications Department
- - [https://imatge.upc.edu](https://imatge.upc.edu)
- - date_published: 2024-07-20T09:35:39.707787+00:00
-
- ## English
- - [https://ioc.upc.edu](https://ioc.upc.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## MT@UPC – Machine Translation group at UPC
- - [https://mt.cs.upc.edu](https://mt.cs.upc.edu)
- - date_published: 2024-04-28T04:06:39.585788+00:00
-
- ## Inicia la sessió
- - [https://peticions.utgcntic.upc.edu](https://peticions.utgcntic.upc.edu)
- - date_published: 2024-07-04T03:54:38.457784+00:00
-
- ## Prisma. Universitat Politècnica de Catalunya BarcelonaTech.
- - [https://prisma-nou.upc.edu](https://prisma-nou.upc.edu)
- - date_published: 2024-07-02T05:37:22.345154+00:00
-
- ## Català
- - [https://rdi.upc.edu](https://rdi.upc.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## /rdlab – Engaged with your research
- - [https://rdlab.cs.upc.edu](https://rdlab.cs.upc.edu)
- - date_published: 2024-07-04T03:54:34.135730+00:00
-
- ## English
- - [https://robotics.upc.edu](https://robotics.upc.edu)
- - date_published: 2024-05-07T21:46:15.027770+00:00
-
- ## Català
- - [https://serveiscientificotecnics.upc.edu](https://serveiscientificotecnics.upc.edu)
- - date_published: 2024-07-02T05:36:54.841498+00:00
-
- ## Cercador de Serveis TIC
- - [https://serveistic.upc.edu](https://serveistic.upc.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Català
- - [https://seuelectronica.upc.edu](https://seuelectronica.upc.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Català
- - [https://treballa.upc.edu](https://treballa.upc.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Català
- - [https://upcarts.upc.edu](https://upcarts.upc.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## English
- - [https://cs.upc.edu](https://cs.upc.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## UPC School | Màsters i postgraus | UPC Barcelona
- - [https://www.talent.upc.edu](https://www.talent.upc.edu)
- - date_published: 2024-07-02T05:37:13.903608+00:00
-
- ## UPC
- - [https://upc.edu](https://upc.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Zonavideo UPC
- - [https://zonavideo.upc.edu](https://zonavideo.upc.edu)
- - date_published: 2024-07-02T05:37:03.958328+00:00
-
- ## Study Abroad |
- - [https://abroad.seas.upenn.edu](https://abroad.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:07.637511+00:00
-
- ## Office of Academic Services |
- - [https://academics.seas.upenn.edu](https://academics.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:06.191214+00:00
-
- ## Web Accessibility at Penn | Web Accessibility at Penn
- - [https://accessibility.web-resources.upenn.edu](https://accessibility.web-resources.upenn.edu)
- - date_published: 2024-05-07T21:46:16.331829+00:00
-
- ## Penn WebLogin
- - [https://accounts.seas.upenn.edu](https://accounts.seas.upenn.edu)
- - date_published: 2024-07-02T10:31:43.980866+00:00
-
- ## CIS Advising Handbook
- - [https://advising.cis.upenn.edu](https://advising.cis.upenn.edu)
- - date_published: 2024-07-09T18:33:00+00:00
-
- ## AI2D
- - [https://ai2d.med.upenn.edu](https://ai2d.med.upenn.edu)
- - date_published: 2024-07-13T03:07:35.929063+00:00
-
- ## Artificial Intelligence (AI) Undergraduate Program
- - [https://ai.seas.upenn.edu](https://ai.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:28.921873+00:00
-
- ## Almanac | University of Pennsylvania
- - [https://almanac.upenn.edu](https://almanac.upenn.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home | Weitzman School of Design Alumni
- - [https://alumni.design.upenn.edu](https://alumni.design.upenn.edu)
- - date_published: 2024-07-08T15:07:46.154870+00:00
-
- ## Alumni - The Wharton School of the University of Pennsylvania
- - [https://alumni.wharton.upenn.edu](https://alumni.wharton.upenn.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home Page
- - [https://analytics.wharton.upenn.edu](https://analytics.wharton.upenn.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Penn’s Action Plan to Combat Antisemitism | Antisemitism Action Plan
- - [https://antisemitism-action-plan.upenn.edu](https://antisemitism-action-plan.upenn.edu)
- - date_published: 2024-07-02T06:09:33+00:00
 

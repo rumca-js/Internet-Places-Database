@@ -1,3 +1,171 @@
+ ## Salk Institute Identity Server
+ - [http://salkland.salk.edu](http://salkland.salk.edu)
+ - date_published: 2024-07-02T01:33:38.059151+00:00
+
+ ## Salk Streaming
+ - [https://streaming.salk.edu](https://streaming.salk.edu)
+ - date_published: 2024-07-01T16:40:53+00:00
+
+ ## Salk Institute for Biological Studies
+ - [https://salk.edu](https://salk.edu)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Carl Sandburg College - Acalog ACMS™
+ - [https://academiccatalog.sandburg.edu](https://academiccatalog.sandburg.edu)
+ - date_published: 2024-07-14T15:21:06.620418+00:00
+
+ ## Dates & deadlines
+ - [https://applications.sandburg.edu](https://applications.sandburg.edu)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Carl Sandburg College
+ - [https://www.sandburg.edu](https://www.sandburg.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## University of San Diego Home Pages
+ - [https://home.sandiego.edu](https://home.sandiego.edu)
+ - date_published: 2023-10-09T17:47:47+00:00
+
+ ## University of San Diego
+ - [http://www.sandiego.edu](http://www.sandiego.edu)
+ - date_published: 2024-06-17T11:14:46.151388+00:00
+
+ ## SANS.edu Internet Storm Center - SANS Internet Storm Center
+ - [https://isc.sans.edu](https://isc.sans.edu)
+ - date_published: 2023-10-25T18:57:24.482790+00:00
+
+ ## Cybersecurity Degree and Certificate Programs | SANS Technology Institute
+ - [https://www.sans.edu](https://www.sans.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Santa Fe Institute
+ - [https://santafe.edu](https://santafe.edu)
+ - date_published: 2023-12-02T04:06:17.286147+00:00
+
+ ## Homepage - Santa Barbara City College
+ - [https://www.sbcc.edu](https://www.sbcc.edu)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## St. Bonaventure University
+ - [http://www.sbu.edu](http://www.sbu.edu)
+ - date_published: 2024-06-28T14:07:00.612077+00:00
+
+ ## Welcome - CSCE 490/492 Capstone Computing Project Class
+ - [http://capstone.cse.sc.edu](http://capstone.cse.sc.edu)
+ - date_published: 2024-06-07T19:01:54+00:00
+
+ ## Jose M. Vidal
+ - [https://jmvidal.cse.sc.edu](https://jmvidal.cse.sc.edu)
+ - date_published: 2024-05-02T12:43:39+00:00
+
+ ## Molinaroli College of Engineering and Computing - Molinaroli College of Engineering and Computing | University of South Carolina
+ - [http://www.cec.sc.edu](http://www.cec.sc.edu)
+ - date_published: 2024-06-23T09:12:31.588669+00:00
+
+ ## News | My Computer Science and Engineering Department
+ - [http://www.cse.sc.edu](http://www.cse.sc.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## University of South Carolina
+ - [http://www.sc.edu](http://www.sc.edu)
+ - date_published: 2024-06-23T09:12:41.195798+00:00
+
+ ## USC Seismology - Home
+ - [http://www.seis.sc.edu](http://www.seis.sc.edu)
+ - date_published: 2018-04-09T19:45:42+00:00
+
+ ## SCI-Arc Channel
+ - [https://channel.sciarc.edu](https://channel.sciarc.edu)
+ - date_published: 2024-07-08T14:52:25.485898+00:00
+
+ ## HOME | My SCI-Arc
+ - [https://my.sciarc.edu](https://my.sciarc.edu)
+ - date_published: 2024-07-08T14:52:19.210550+00:00
+
+ ## SCI Arc - Institute of Architecture | Southern California | Enroll Now - SCI-Arc
+ - [https://sciarc.edu](https://sciarc.edu)
+ - date_published: 2024-05-08T11:43:32.948888+00:00
+
+ ## Home - Scripps Centennial
+ - [https://100.scripps.edu](https://100.scripps.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Scripps Research Education & Training
+ - [https://education.scripps.edu](https://education.scripps.edu)
+ - date_published: 2024-05-07T20:23:21.382890+00:00
+
+ ## Front Row Lecture Series - Scripps Research
+ - [https://frontrow.scripps.edu](https://frontrow.scripps.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Home - Scripps Research Magazine
+ - [https://magazine.scripps.edu](https://magazine.scripps.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Homepage
+ - [http://vina.scripps.edu](http://vina.scripps.edu)
+ - date_published: 2024-06-17T03:16:13.219295+00:00
+
+ ## Scripps Research
+ - [https://scripps.edu](https://scripps.edu)
+ - date_published: 2024-01-06T17:19:10.654645+00:00
+
+ ## File not found - 404 - Santa Clara University
+ - [https://assets.scu.edu](https://assets.scu.edu)
+ - date_published: 2024-05-07T20:23:28.216609+00:00
+
+ ## Event Calendar - Santa Clara University
+ - [https://events.scu.edu](https://events.scu.edu)
+ - date_published: 2024-05-07T20:23:29.559645+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://image.scu.edu](https://image.scu.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home - Santa Clara Magazine
+ - [https://magazine.scu.edu](https://magazine.scu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## TERMINALFOUR
+ - [https://t4.scu.edu](https://t4.scu.edu)
+ - date_published: 2024-05-07T20:23:27.614713+00:00
+
+ ## Santa Clara University: The Jesuit University in Silicon Valley
+ - [https://scu.edu](https://scu.edu)
+ - date_published: 2023-11-21T17:24:48.452481+00:00
+
+ ## San Diego Supercomputer Center
+ - [https://www.sdsc.edu](https://www.sdsc.edu)
+ - date_published: 2024-07-01T08:09:27+00:00
+
+ ## https://edoras.sdsu.edu
+ - [https://edoras.sdsu.edu](https://edoras.sdsu.edu)
+ - date_published: 2023-08-17T17:29:31+00:00
+
+ ## Welcome!
+ - [https://library2.sdsu.edu](https://library2.sdsu.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Welcome!
+ - [https://library.sdsu.edu](https://library.sdsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Department of Math & Statistics
+ - [https://math.sdsu.edu](https://math.sdsu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.sdsu.edu](https://www.sdsu.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Life-Changing Education in a World-Changing City
+ - [https://seattleu.edu](https://seattleu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Seattle University School of Law
+ - [http://www.law.seattleu.edu](http://www.law.seattleu.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
  ## Seton Hill University
  - [http://www.setonhill.edu](http://www.setonhill.edu)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -3846,172 +4014,4 @@
  ## Canvas - Tufts University
  - [https://canvas.tufts.edu](https://canvas.tufts.edu)
  - date_published: 2022-02-09T16:39:39+00:00
-
- ## Career Center | Tufts University
- - [https://careers.tufts.edu](https://careers.tufts.edu)
- - date_published: 2024-07-01T21:39:51.927620+00:00
-
- ## CARE: Sexual Misconduct Resources and Prevention - Home
- - [http://care.tufts.edu](http://care.tufts.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home | Center for Engineering Education and Outreach
- - [http://ceeo.tufts.edu](http://ceeo.tufts.edu)
- - date_published: 2024-06-28T05:15:00+00:00
-
- ## Home | Department of Chemistry
- - [https://chem.tufts.edu](https://chem.tufts.edu)
- - date_published: 2024-05-07T15:55:26.989351+00:00
-
- ## Homepage | Government & Community Relations
- - [https://communityrelations.tufts.edu](https://communityrelations.tufts.edu)
- - date_published: 2024-07-01T05:06:12+00:00
-
- ## Homepage | School of Dental Medicine
- - [https://dental.tufts.edu](https://dental.tufts.edu)
- - date_published: 2024-07-01T15:02:52+00:00
-
- ## Welcome to the Tufts Online Directory
- - [https://directory.tufts.edu](https://directory.tufts.edu)
- - date_published: 2024-07-01T21:37:14.151520+00:00
-
- ## Home - Distinction Awards
- - [https://distinctionawards.tufts.edu](https://distinctionawards.tufts.edu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Home - Office of the Vice Provost for Institutional Inclusive Excellence
- - [https://diversity.tufts.edu](https://diversity.tufts.edu)
- - date_published: 2024-07-01T21:36:47.590630+00:00
-
- ## Tufts Digital Library
- - [https://dl.tufts.edu](https://dl.tufts.edu)
- - date_published: 2024-06-24T10:08:23.737005+00:00
-
- ## Homepage | School of Engineering
- - [https://engineering.tufts.edu](https://engineering.tufts.edu)
- - date_published: 2024-05-07T20:38:51.388598+00:00
-
- ## Events | Tufts University
- - [https://events.tufts.edu](https://events.tufts.edu)
- - date_published: 2024-05-07T20:38:42.621203+00:00
-
- ## The Fletcher School: A Graduate School of International Affairs | The Fletcher School
- - [https://fletcher.tufts.edu](https://fletcher.tufts.edu)
- - date_published: 2024-07-01T20:02:28+00:00
-
- ## Home Page | Global Tufts
- - [https://global.tufts.edu](https://global.tufts.edu)
- - date_published: 2024-06-30T21:55:03+00:00
-
- ## Homepage | Gordon Institute
- - [http://gordon.tufts.edu](http://gordon.tufts.edu)
- - date_published: 2024-06-26T14:45:00+00:00
-
- ## Web Communications - Go Script Manager
- - [https://go.tufts.edu](https://go.tufts.edu)
- - date_published: 2024-07-01T21:38:34.251400+00:00
-
- ## Graduate School of Arts and Sciences and the School of Engineering
- - [https://gradase.admissions.tufts.edu](https://gradase.admissions.tufts.edu)
- - date_published: 2024-05-07T20:39:00.954490+00:00
-
- ## Homepage | Graduate School of Biomedical Sciences
- - [https://gsbs.tufts.edu](https://gsbs.tufts.edu)
- - date_published: 2024-07-01T16:45:01+00:00
-
- ## Tufts User Authentication
- - [https://hrss.it.tufts.edu](https://hrss.it.tufts.edu)
- - date_published: 2024-07-01T21:38:20.401255+00:00
-
- ## Tufts User Authentication
- - [https://hrss.uit.tufts.edu](https://hrss.uit.tufts.edu)
- - date_published: 2024-07-01T21:38:32.877105+00:00
-
- ## Home - Human Resources
- - [https://hr.tufts.edu](https://hr.tufts.edu)
- - date_published: 2024-07-01T21:38:12.344080+00:00
-
- ## Welcome to Tufts Technology Services | Technology Services
- - [https://it.tufts.edu](https://it.tufts.edu)
- - date_published: 2024-07-01T21:38:37.820492+00:00
-
- ## Tufts University Careers
- - [http://jobs.hr.tufts.edu](http://jobs.hr.tufts.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Tufts University Careers
- - [https://jobs.tufts.edu](https://jobs.tufts.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## JumboBeacon Files
- - [https://jumbobeacon.tufts.edu](https://jumbobeacon.tufts.edu)
- - date_published: 2024-06-12T20:34:16+00:00
-
- ## Tufts University School of Medicine
- - [https://medicine.tufts.edu](https://medicine.tufts.edu)
- - date_published: 2024-07-01T20:34:25+00:00
-
- ## Default Location
- - [https://m.tufts.edu](https://m.tufts.edu)
- - date_published: 2024-05-07T20:38:55.733489+00:00
-
- ## Welcome to Tufts Now
- - [https://now.tufts.edu](https://now.tufts.edu)
- - date_published: 2024-02-24T18:07:27.412563+00:00
-
- ## Friedman School of Nutrition Science and Policy |
- - [https://nutrition.tufts.edu](https://nutrition.tufts.edu)
- - date_published: 2024-07-01T21:33:56+00:00
-
- ## Home - Office of Equal Opportunity
- - [https://oeo.tufts.edu](https://oeo.tufts.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Homepage | Occupational Health Services
- - [https://ohs.tufts.edu](https://ohs.tufts.edu)
- - date_published: 2024-06-18T11:46:49+00:00
-
- ## Tufts Engineering Online Programs
- - [https://onlinesoe.tufts.edu](https://onlinesoe.tufts.edu)
- - date_published: 2024-04-10T16:23:52+00:00
-
- ## Operations Division | Access Tufts
- - [https://operations.tufts.edu](https://operations.tufts.edu)
- - date_published: 2024-06-29T09:19:49+00:00
-
- ## Home - Office of the Provost and Senior Vice President
- - [http://provost.tufts.edu](http://provost.tufts.edu)
- - date_published: 2024-07-01T21:37:29.389069+00:00
-
- ## Department of Public Safety
- - [https://publicsafety.tufts.edu](https://publicsafety.tufts.edu)
- - date_published: 2024-06-12T12:51:14+00:00
-
- ## Home / EMS
- - [https://reserve.tufts.edu](https://reserve.tufts.edu)
- - date_published: 2024-07-01T21:38:09.028205+00:00
-
- ## sites.tufts.edu - Tufts Self-Serve Blogs and Websites.
- - [https://sites.tufts.edu](https://sites.tufts.edu)
- - date_published: 2024-05-09T05:25:22.775054+00:00
-
- ## SMFA at Tufts | School of the Museum of Fine Arts | Tufts University
- - [https://smfa.tufts.edu](https://smfa.tufts.edu)
- - date_published: 2024-07-01T21:37:48.488845+00:00
-
- ## Tufts Solutions
- - [https://solutions.tufts.edu](https://solutions.tufts.edu)
- - date_published: 2024-06-30T20:01:22+00:00
-
- ## Tufts University Status
- - [https://status.it.tufts.edu](https://status.it.tufts.edu)
- - date_published: 2024-07-01T21:38:25.210286+00:00
-
- ## STEM Ambassadors | AS&E Students
- - [http://stemdiversity.tufts.edu](http://stemdiversity.tufts.edu)
- - date_published: 2024-06-28T23:28:13+00:00
-
- ## Homepage | AS&E Students
- - [https://students.tufts.edu](https://students.tufts.edu)
- - date_published: 2024-05-07T20:38:57.562657+00:00
 

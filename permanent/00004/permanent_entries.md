@@ -1526,6 +1526,10 @@
  - [https://static-tweet.vercel.app](https://static-tweet.vercel.app)
  - date_published: 2024-05-06T13:41:30.247552+00:00
 
+ ## Show HN: A football/soccer pass visualizer made with Three.js
+ - [https://statsbomb-3d-viz.vercel.app](https://statsbomb-3d-viz.vercel.app)
+ - date_published: 2024-07-28T20:45:17+00:00
+
  ## Zoo Store
  - [https://store-md18wp3n6-kittycad.vercel.app](https://store-md18wp3n6-kittycad.vercel.app)
  - date_published: 2024-07-22T10:35:06.863734+00:00
@@ -2709,6 +2713,10 @@
  - [https://www.sixt.com.ar](https://www.sixt.com.ar)
  - date_published: 2024-06-14T00:00:00+00:00
 
+ ## Sony Pictures Argentina | Homepage
+ - [http://www.sonypictures.com.ar](http://www.sonypictures.com.ar)
+ - date_published: 2024-07-02T00:00:00+00:00
+
  ## Sanatorio San Carlos – S. C. de Bariloche – Río Negro
  - [http://www.ssancarlos.com.ar](http://www.ssancarlos.com.ar)
  - date_published: 2024-06-28T12:11:24.944645+00:00
@@ -2744,6 +2752,10 @@
  ## Tripadvisor: más de mil millones de opiniones y aportes sobre hoteles, atracciones, restaurantes y más
  - [https://www.tripadvisor.com.ar](https://www.tripadvisor.com.ar)
  - date_published: 2024-06-23T09:27:08.623869+00:00
+
+ ## Home - UIP | United International Pictures
+ - [http://www.uip.com.ar](http://www.uip.com.ar)
+ - date_published: 2024-07-28T10:10:22.897160+00:00
 
  ## Perfil Elearning – Aprendé en Perfil
  - [https://elearning.usba.com.ar](https://elearning.usba.com.ar)
@@ -4022,16 +4034,4 @@ October 2024 in Singapore
  ## Mozarteum University Salzburg
  - [https://moz.ac.at](https://moz.ac.at)
  - date_published: 2024-05-11T07:02:57.274460+00:00
-
- ## Naturhistorisches Museum Wien - Naturhistorisches Museum Wien
- - [http://www.nhm-wien.ac.at](http://www.nhm-wien.ac.at)
- - date_published: 2024-06-24T09:35:30.216641+00:00
-
- ## Die Abteilung
- - [https://vawadioe.acdh.oeaw.ac.at](https://vawadioe.acdh.oeaw.ac.at)
- - date_published: 2024-07-12T05:20:26.682175+00:00
-
- ## VICAV - Vienna Corpus of Arabic Varieties
- - [https://vicav.acdh.oeaw.ac.at](https://vicav.acdh.oeaw.ac.at)
- - date_published: 2024-01-09T00:00:00+00:00
 

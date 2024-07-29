@@ -1,3 +1,179 @@
+ ## Research.gov - Homepage
+ - [https://www.research.gov](https://www.research.gov)
+ - date_published: 2010-01-15T00:00:00+00:00
+
+ ## Welcome | Historical Preservation & Heritage Commission
+ - [https://preservation.ri.gov](https://preservation.ri.gov)
+ - date_published: 2024-06-12T10:55:42+00:00
+
+ ## Welcome | Rhode Island Department of Environmental Management
+ - [http://www.dem.ri.gov](http://www.dem.ri.gov)
+ - date_published: 2024-06-14T19:05:23+00:00
+
+ ## Ridgefield CT |
+ - [https://www.ridgefieldct.gov](https://www.ridgefieldct.gov)
+ - date_published: 2024-07-01T20:33:58+00:00
+
+ ## Rochester, MN | Home
+ - [https://www.rochestermn.gov](https://www.rochestermn.gov)
+ - date_published: 2024-07-12T21:14:30+00:00
+
+ ## Ruidoso-NM.gov | Municipal Website of the Village of Ruidoso, NM
+ - [https://www.ruidoso-nm.gov](https://www.ruidoso-nm.gov)
+ - date_published: 2024-06-20T16:29:14.730165+00:00
+
+ ## Sacramento County Board of Supervisors Meetings
+ - [https://agendanet.saccounty.gov](https://agendanet.saccounty.gov)
+ - date_published: 2024-04-28T04:28:27.708351+00:00
+
+ ## Consolidated Utilities Billing & Services
+ - [https://sacutilities.saccounty.gov](https://sacutilities.saccounty.gov)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Iowa Safe and Sound | Iowa Safe+Sound
+ - [https://safeandsoundiowa.gov](https://safeandsoundiowa.gov)
+ - date_published: 2024-06-26T20:11:58+00:00
+
+ ## SafeOCS Reporting System
+ - [https://safeocs.gov](https://safeocs.gov)
+ - date_published: 2024-06-28T12:57:52.789435+00:00
+
+ ## Home - SaferProducts
+ - [https://saferproducts.gov](https://saferproducts.gov)
+ - date_published: 2024-05-08T02:42:42.184193+00:00
+
+ ## SAM.gov | Home
+ - [https://sam.gov](https://sam.gov)
+ - date_published: 2023-10-25T19:25:02.207175+00:00
+
+ ## SAM.gov | Home
+ - [http://www.sam.gov](http://www.sam.gov)
+ - date_published: 2024-06-14T03:25:42+00:00
+
+ ## SAMHSA DAS
+ - [https://datatools.samhsa.gov](https://datatools.samhsa.gov)
+ - date_published: 2024-06-05T21:08:33+00:00
+
+ ## SAMHSA DPT
+ - [https://dpt2.samhsa.gov](https://dpt2.samhsa.gov)
+ - date_published: 2020-12-09T13:12:14+00:00
+
+ ## FindTreatment.gov
+ - [https://findtreatment.samhsa.gov](https://findtreatment.samhsa.gov)
+ - date_published: 2024-05-12T06:40:36.468468+00:00
+
+ ## SAMHSA Publications and Digital Products
+ - [https://store.samhsa.gov](https://store.samhsa.gov)
+ - date_published: 2024-06-16T14:50:27.401756+00:00
+
+ ## SAMHSA - Substance Abuse and Mental Health Services Administration
+ - [https://www.samhsa.gov](https://www.samhsa.gov)
+ - date_published: 2024-05-04T09:00:22.403967+00:00
+
+ ## LAMMPS Molecular Dynamics Simulator
+ - [https://lammps.sandia.gov](https://lammps.sandia.gov)
+ - date_published: 2024-07-02T13:38:36+00:00
+
+ ## Sandia National Laboratories: Netlib Mirror
+ - [http://netlib.sandia.gov](http://netlib.sandia.gov)
+ - date_published: 2024-04-28T02:25:13.801301+00:00
+
+ ## Sandia National Laboratories: News Releases
+ - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
+ - date_published: 2023-10-25T19:25:05.661482+00:00
+
+ ## Sandia National Laboratories: Exceptional Service in the National Interest
+ - [http://sandia.gov](http://sandia.gov)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Sandia National Laboratories: Exceptional Service in the National Interest
+ - [https://www.sandia.gov](https://www.sandia.gov)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## City of San Diego Official Website
+ - [https://www.sandiego.gov](https://www.sandiego.gov)
+ - date_published: 2024-07-02T01:28:29+00:00
+
+ ## City of San José | Home
+ - [https://sanjoseca.gov](https://sanjoseca.gov)
+ - date_published: 2024-07-12T23:51:33+00:00
+
+ ## City of Sausalito | Home
+ - [https://www.sausalito.gov](https://www.sausalito.gov)
+ - date_published: 2024-07-06T01:26:21+00:00
+
+ ## SBA's Office of Advocacy
+ - [https://advocacy.sba.gov](https://advocacy.sba.gov)
+ - date_published: 2024-07-03T15:11:23.731749+00:00
+
+ ## Welcome - U.S. Small Business Administration (SBA) | Open Data
+ - [https://data.sba.gov](https://data.sba.gov)
+ - date_published: 2019-07-15T00:00:00+00:00
+
+ ## Small Business Administration
+ - [https://sba.gov](https://sba.gov)
+ - date_published: 2024-05-08T02:58:05.016050+00:00
+
+ ## SBIR.gov
+ - [https://www.sbir.gov](https://www.sbir.gov)
+ - date_published: 2024-07-03T14:03:35.238348+00:00
+
+ ## Home — South Carolina Department of Agriculture
+ - [https://agriculture.sc.gov](https://agriculture.sc.gov)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## ERROR: The request could not be satisfied
+ - [https://cg.sc.gov](https://cg.sc.gov)
+ - date_published: 2024-06-19T18:10:15.093675+00:00
+
+ ## ERROR: The request could not be satisfied
+ - [https://childadvocate.sc.gov](https://childadvocate.sc.gov)
+ - date_published: 2024-06-29T15:54:56.987267+00:00
+
+ ## ERROR: The request could not be satisfied
+ - [https://ddsn.sc.gov](https://ddsn.sc.gov)
+ - date_published: 2024-05-04T06:58:21.032014+00:00
+
+ ## ERROR: The request could not be satisfied
+ - [http://governor.sc.gov](http://governor.sc.gov)
+ - date_published: 2024-06-21T14:31:13.388616+00:00
+
+ ## MySCVotes Login
+ - [https://vrems.scvotes.sc.gov](https://vrems.scvotes.sc.gov)
+ - date_published: 2024-05-04T06:58:03.530727+00:00
+
+ ## Homepage | SCDHEC
+ - [http://www.dhec.sc.gov](http://www.dhec.sc.gov)
+ - date_published: 2024-06-29T15:43:25+00:00
+
+ ## ERROR: The request could not be satisfied
+ - [http://www.sc.gov](http://www.sc.gov)
+ - date_published: 2024-06-19T18:11:06.638806+00:00
+
+ ## Home | South Carolina State Library
+ - [http://www.statelibrary.sc.gov](http://www.statelibrary.sc.gov)
+ - date_published: 2024-06-18T11:42:58+00:00
+
+ ## Error: Active domain connection for this domain not found
+ - [https://blog.scdhec.gov](https://blog.scdhec.gov)
+ - date_published: 2024-06-29T15:54:57.686330+00:00
+
+ ## Homepage | SCDHEC
+ - [https://scdhec.gov](https://scdhec.gov)
+ - date_published: 2024-06-29T15:43:25+00:00
+
+ ## House 2021 Redistricting | Home
+ - [https://redistricting.schouse.gov](https://redistricting.schouse.gov)
+ - date_published: 2024-06-19T18:11:08.480491+00:00
+
+ ## Science.gov - Open Science Announcements from Federal Agencies
+ - [https://open.science.gov](https://open.science.gov)
+ - date_published: 2024-04-17T19:06:06+00:00
+
+ ## Science.gov
+ - [https://science.gov](https://science.gov)
+ - date_published: 2023-12-06T00:11:16+00:00
+
  ## Senate 2021 Redistricting
  - [http://redistricting.scsenate.gov](http://redistricting.scsenate.gov)
  - date_published: 2024-06-19T18:11:10.087183+00:00
@@ -3109,6 +3285,10 @@
  - [http://autotypos.gr](http://autotypos.gr)
  - date_published: 2024-06-17T01:45:38.053383+00:00
 
+ ## Σύγκριση τιμών σε χιλιάδες online καταστήματα
+ - [https://www.bestprice.gr](https://www.bestprice.gr)
+ - date_published: 2024-07-28T00:00:00+00:00
+
  ## Home
  - [https://biocomp.gr](https://biocomp.gr)
  - date_published: 2024-05-21T03:04:32.560178+00:00
@@ -3293,6 +3473,10 @@
  ## Euractiv Greece
  - [https://www.euractiv.gr](https://www.euractiv.gr)
  - date_published: 2024-05-02T09:58:46.532355+00:00
+
+ ## Feelgood Entertainment
+ - [http://www.feelgoodentertainment.gr](http://www.feelgoodentertainment.gr)
+ - date_published: 2024-07-28T04:00:23.019602+00:00
 
  ## Fiat | Μοντέλα, Χαρακτηριστικά, Πακέτα, Τιμές
  - [https://www.fiat.gr](https://www.fiat.gr)
@@ -3830,192 +4014,4 @@
  ## Public #1 για είδη τεχνολογίας, ψυχαγωγίας και οικιακές συσκευές!
  - [http://www.public.gr](http://www.public.gr)
  - date_published: 2024-06-13T07:56:53+00:00
-
- ## Queen.gr
- - [http://www.queen.gr](http://www.queen.gr)
- - date_published: 2024-06-25T18:51:10+00:00
-
- ## Radial - Web Design - Web Development - Digital Marketing
- - [https://radial.gr](https://radial.gr)
- - date_published: 2022-11-24T12:57:10+00:00
-
- ## Hello
- - [http://www.relevance.gr](http://www.relevance.gr)
- - date_published: 2017-02-17T16:00:44+00:00
-
- ## Reporters United
- - [https://www.reportersunited.gr](https://www.reportersunited.gr)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Retro4Fun - Greek Power
- - [https://www.retro4fun.gr](https://www.retro4fun.gr)
- - date_published: 2019-05-29T07:14:30+00:00
-
- ## Περιοδικό Retroid
- - [https://retroid.gr](https://retroid.gr)
- - date_published: 2024-04-20T20:38:53+00:00
- - tags: ['retro games', 'amiga']
-
- ## Retromaniax
- - [https://retromaniax.gr](https://retromaniax.gr)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Retro Planet
- - [https://retroplanet.gr](https://retroplanet.gr)
- - date_published: 2024-05-08T17:11:16.695871+00:00
- - tags: ['retro games', 'amiga']
-
- ## Κάνε subscribe στις αναμνήσεις σου
- - [https://retropolis.gr](https://retropolis.gr)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## reworks — International Music Festival
- - [https://reworks.gr](https://reworks.gr)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Τεστ Προσωπικότητας
- - [https://www.oca.scientology.gr](https://www.oca.scientology.gr)
- - date_published: 2024-06-17T16:40:45.516770+00:00
-
- ## Επίσημη Εκκλησία της Σαηεντολογίας: Λ. Ρον Χάμπαρντ, Διανοητική, Τι είναι η Σαηεντολογία;, Βιβλία, πεποιθήσεις, Ντέιβιντ Μισκάβιτς
- - [https://www.scientology.gr](https://www.scientology.gr)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Θρησκείας της Σαηεντολογίας – Υπόβαθρο, Θεολογία και Θρησκευτική Πρακτική
- - [https://www.scientologyreligion.gr](https://www.scientologyreligion.gr)
- - date_published: 2024-06-06T19:41:29.028850+00:00
-
- ## Συμβουλευτική σε Διαπραγματεύσεις σε Παγκόσμιο επίπεδο, Εκπαίδευση σε Διαπραγματεύσεις σε Παγκόσμιο επίπεδο | Scotwork Ελλάδα
- - [https://www.scotwork.gr](https://www.scotwork.gr)
- - date_published: 2024-06-18T09:42:02.690332+00:00
-
- ## Shape.gr
- - [http://www.shape.gr](http://www.shape.gr)
- - date_published: 2024-06-25T18:48:32+00:00
-
- ## Αρχική σελίδα - Shopflix Blog
- - [https://blog.shopflix.gr](https://blog.shopflix.gr)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## SHOPFLIX - Το MARKETPLACE όλης της Ελλάδας
- - [https://shopflix.gr](https://shopflix.gr)
- - date_published: 2024-05-10T07:00:48.542829+00:00
-
- ## Shopflix.gr - SHOPFLIX Tickets
- - [https://tickets.shopflix.gr](https://tickets.shopflix.gr)
- - date_published: 2024-07-13T02:58:52.862907+00:00
-
- ## Sivann's page
- - [http://www.sivann.gr](http://www.sivann.gr)
- - date_published: 2024-06-14T15:51:13.977209+00:00
-
- ## Skroutz Engineering
- - [https://engineering.skroutz.gr](https://engineering.skroutz.gr)
- - date_published: 2023-10-25T19:27:37.896244+00:00
-
- ## Ήχος και Εικόνα Petropoulos | soundimage.gr |
- - [https://www.soundimage.gr](https://www.soundimage.gr)
- - date_published: 2024-07-13T12:24:09+00:00
-
- ## SPARTOO | Παπούτσια, τσάντες και ρούχα | Δωρεάν μεταφορικά
- - [https://www.spartoo.gr](https://www.spartoo.gr)
- - date_published: 2024-06-12T11:13:01.566459+00:00
-
- ## Αγγελίες Ακινήτων - Αγγελίες Σπιτιών | Spitogatos
- - [https://www.spitogatos.gr](https://www.spitogatos.gr)
- - date_published: 2024-06-17T01:46:13.052144+00:00
-
- ## Αθλητικά Νέα & Ειδήσεις
- - [https://www.sportal.gr](https://www.sportal.gr)
- - date_published: 2024-06-17T01:44:56.537822+00:00
-
- ## squat.gr – squatting the blogs…
- - [http://squat.gr](http://squat.gr)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## SSmap - Sugarenia  and Stelabouras make a podcast
- - [https://www.ssmap.gr](https://www.ssmap.gr)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Star.gr | Ειδήσεις, Lifestyle Νέα, Επικαιρότητα
- - [https://www.star.gr](https://www.star.gr)
- - date_published: 2024-05-26T20:56:26.754893+00:00
- - tags: ['news']
-
- ## ΤΑ ΝΕΑ
- - [https://www.tanea.gr](https://www.tanea.gr)
- - date_published: 2024-07-12T17:37:26.441432+00:00
-
- ## Tasty Guide
- - [https://www.tasty-guide.gr](https://www.tasty-guide.gr)
- - date_published: 2024-07-12T17:01:17+00:00
-
- ## Taxiway | Τo μεγαλύτερο δίκτυο ταξί στην Ευρώπη
- - [https://taxiway.gr](https://taxiway.gr)
- - date_published: 2024-06-19T23:25:34.728386+00:00
-
- ## TEMU2016
- - [http://www.temu.gr](http://www.temu.gr)
- - date_published: 2024-07-07T01:25:04.506788+00:00
-
- ## Acropolis Museum | Tickets
- - [https://etickets.theacropolismuseum.gr](https://etickets.theacropolismuseum.gr)
- - date_published: 2024-06-01T04:38:23.510394+00:00
-
- ## Αρχική | Μουσείο Ακρόπολης | Επίσημος ιστοχώρος
- - [https://www.theacropolismuseum.gr](https://www.theacropolismuseum.gr)
- - date_published: 2023-11-13T13:51:11.767913+00:00
- - tags: ['museum']
-
- ## Acropolis Timeline
- - [https://xronologio.theacropolismuseum.gr](https://xronologio.theacropolismuseum.gr)
- - date_published: 2024-06-01T04:38:30.302391+00:00
-
- ## The Console Club - Video Games, PS5, XBox Series X, PS4, PS3, Wii, XBox One, XBox360, Retro Games, Nintendo, DS - The Console Club
- - [https://www.theconsoleclub.gr](https://www.theconsoleclub.gr)
- - date_published: 2024-07-13T13:34:49+00:00
-
- ## The Epoch Times - Αλήθεια και Παράδοση
- - [https://theepochtimes.gr](https://theepochtimes.gr)
- - date_published: 2024-05-06T16:44:27.546532+00:00
-
- ## Αρχική - The Green Tank
- - [https://thegreentank.gr](https://thegreentank.gr)
- - date_published: 2019-01-24T18:59:08+00:00
-
- ## trib.al
- - [http://therin.gr](http://therin.gr)
- - date_published: 2024-05-06T14:28:32.218899+00:00
-
- ## The TOC
- - [https://www.thetoc.gr](https://www.thetoc.gr)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## topgeargreece.gr
- - [https://topgeargreece.gr](https://topgeargreece.gr)
- - date_published: 2024-05-10T05:43:38.533794+00:00
-
- ## ΤΟ ΒΗΜΑ | Ειδήσεις και Ενημέρωση από την Ελλάδα και τον Κόσμο
- - [https://tovima.gr](https://tovima.gr)
- - date_published: 2024-05-10T05:45:56.698348+00:00
-
- ## Toyota Ελλάς | Πωλήσεις - Τιμές Νέων Αυτοκινήτων
- - [https://www.toyota.gr](https://www.toyota.gr)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Μεταγραφές, φήμες, αξίες αγοράς και νέα
- - [https://www.transfermarkt.gr](https://www.transfermarkt.gr)
- - date_published: 2024-07-24T06:23:11.789884+00:00
-
- ## TUC/MUSIC : Lab. of Distributed Multimedia Information Systems and Applications
- - [http://www.music.tuc.gr](http://www.music.tuc.gr)
- - date_published: 2024-07-24T05:51:36.625828+00:00
-
- ## Department of Mathematics
- - [https://en.math.uoa.gr](https://en.math.uoa.gr)
- - date_published: 2022-10-04T00:00:00+00:00
-
- ## Κέντρο Λειτουργίας και Διαχείρισης Δικτύου - ΕΚΠΑ - Προσωπικές Ιστοσελίδες
- - [http://users.uoa.gr](http://users.uoa.gr)
- - date_published: 2024-06-14T01:50:56.290509+00:00
 

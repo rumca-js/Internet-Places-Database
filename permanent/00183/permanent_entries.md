@@ -1,3 +1,172 @@
+ ## Harvard University Information Security
+ - [https://security.harvard.edu](https://security.harvard.edu)
+ - date_published: 2024-06-16T13:30:43+00:00
+
+ ## (no title)
+ - [https://shine.sph.harvard.edu](https://shine.sph.harvard.edu)
+ - date_published: 2024-07-14T14:36:26.704717+00:00
+
+ ## Science in the News
+ - [https://sitn.hms.harvard.edu](https://sitn.hms.harvard.edu)
+ - date_published: 2024-05-06T17:25:46.781359+00:00
+
+ ## Home | Society of Fellows
+ - [https://socfell.fas.harvard.edu](https://socfell.fas.harvard.edu)
+ - date_published: 2024-06-16T22:19:19.891582+00:00
+
+ ## Department of Sociology
+ - [https://sociology.fas.harvard.edu](https://sociology.fas.harvard.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Department of Statistics
+ - [https://statistics.fas.harvard.edu](https://statistics.fas.harvard.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HUIT Status
+ - [https://status.huit.harvard.edu](https://status.huit.harvard.edu)
+ - date_published: 2024-06-16T13:36:33.900124+00:00
+
+ ## Home | Dataverse Support
+ - [https://support.dataverse.harvard.edu](https://support.dataverse.harvard.edu)
+ - date_published: 2024-07-14T05:10:25.995779+00:00
+
+ ## Home | Harvard Trademark Program
+ - [https://trademark.harvard.edu](https://trademark.harvard.edu)
+ - date_published: 2024-04-30T04:46:02.480776+00:00
+
+ ## NASA/ADS
+ - [https://ui.adsabs.harvard.edu](https://ui.adsabs.harvard.edu)
+ - date_published: 2024-02-22T20:45:22+00:00
+
+ ## Undergraduate Research Scholars Program
+ - [https://urs.iq.harvard.edu](https://urs.iq.harvard.edu)
+ - date_published: 2024-07-14T14:36:24+00:00
+
+ ## Visual Computing Group
+ - [https://vcg.seas.harvard.edu](https://vcg.seas.harvard.edu)
+ - date_published: 2024-07-10T05:37:17.397336+00:00
+
+ ## Video.seas redirection
+ - [https://video.seas.harvard.edu](https://video.seas.harvard.edu)
+ - date_published: 2024-06-28T21:34:14+00:00
+
+ ## Weatherhead Center for International Affairs
+ - [https://wcfia.harvard.edu](https://wcfia.harvard.edu)
+ - date_published: 2024-04-30T04:46:13.887864+00:00
+
+ ## CampusPress at Harvard – WordPress-powered sites for the Harvard community
+ - [http://websites.harvard.edu](http://websites.harvard.edu)
+ - date_published: 2024-07-20T22:15:11+00:00
+
+ ## Dashboard - Harvard Wiki
+ - [https://wiki.harvard.edu](https://wiki.harvard.edu)
+ - date_published: 2024-06-15T13:02:25.934138+00:00
+
+ ## Berkman Klein Center Media Library
+ - [http://wilkins.law.harvard.edu](http://wilkins.law.harvard.edu)
+ - date_published: 2024-06-27T18:14:25.737799+00:00
+
+ ## Ash Center for Democratic Governance and Innovation
+ - [http://www.ash.harvard.edu](http://www.ash.harvard.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Countway Library
+ - [https://www.countway.harvard.edu](https://www.countway.harvard.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home - DF/HCC
+ - [http://www.dfhcc.harvard.edu](http://www.dfhcc.harvard.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://www-economist-com.ezp-prod1.hul.harvard.edu](https://www-economist-com.ezp-prod1.hul.harvard.edu)
+ - date_published: 2024-07-21T22:53:37.267520+00:00
+
+ ## Computer Science | Harvard John A. Paulson School of Engineering and Applied Sciences
+ - [https://www.eecs.harvard.edu](https://www.eecs.harvard.edu)
+ - date_published: 2023-10-25T18:52:07.507044+00:00
+
+ ## Harvard Faculty of Arts and Sciences
+ - [http://www.fas.harvard.edu](http://www.fas.harvard.edu)
+ - date_published: 2024-07-01T15:00:14+00:00
+
+ ## Home
+ - [https://www.gsd.harvard.edu](https://www.gsd.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Health Information and Medical Information - Harvard Health
+ - [https://www.health.harvard.edu](https://www.health.harvard.edu)
+ - date_published: 2023-10-25T18:52:11.043760+00:00
+
+ ## Harvard Kennedy School
+ - [https://hks.harvard.edu](https://hks.harvard.edu)
+ - date_published: 2024-05-09T07:03:39.411243+00:00
+
+ ## Harvard Museum of Natural History
+ - [http://www.hmnh.harvard.edu](http://www.hmnh.harvard.edu)
+ - date_published: 2024-06-24T09:25:23+00:00
+
+ ## Harvard University Press
+ - [https://hup.harvard.edu](https://hup.harvard.edu)
+ - date_published: 2024-05-08T08:44:54.987046+00:00
+
+ ## Institute for Quantitative Social Science
+ - [https://iq.harvard.edu](https://iq.harvard.edu)
+ - date_published: 2024-05-11T11:25:48.873885+00:00
+
+ ## Harvard Kennedy School
+ - [http://www.ksg.harvard.edu](http://www.ksg.harvard.edu)
+ - date_published: 2024-06-30T17:53:13+00:00
+
+ ## Harvard University Mathematics Department Cambridge MA
+ - [https://math.harvard.edu](https://math.harvard.edu)
+ - date_published: 2021-07-13T16:49:58+00:00
+
+ ## Homepage - Harvard University - Department of Molecular & Cellular Biology
+ - [http://www.mcb.harvard.edu](http://www.mcb.harvard.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Program on Institutional Investors at Harvard Law School
+ - [http://www.pii.law.harvard.edu](http://www.pii.law.harvard.edu)
+ - date_published: 2024-07-21T23:27:20.262086+00:00
+
+ ## Program on Law and Finance at Harvard Law School
+ - [http://www.plf.law.harvard.edu](http://www.plf.law.harvard.edu)
+ - date_published: 2024-07-21T23:27:07.773904+00:00
+
+ ## PON - Program on Negotiation at Harvard Law School
+ - [https://www.pon.harvard.edu](https://www.pon.harvard.edu)
+ - date_published: 2023-10-25T18:52:14.185371+00:00
+
+ ## Homepage | Project Zero
+ - [http://www.pz.harvard.edu](http://www.pz.harvard.edu)
+ - date_published: 2024-06-23T11:18:19.638727+00:00
+
+ ## Radcliffe Institute for Advanced Study at Harvard University
+ - [https://radcliffe.harvard.edu](https://radcliffe.harvard.edu)
+ - date_published: 2024-04-30T04:46:24.912098+00:00
+
+ ## Harvard RSI
+Action
+ - [https://www.rsi.deas.harvard.edu](https://www.rsi.deas.harvard.edu)
+ - date_published: 2004-02-19T03:53:59+00:00
+
+ ## Wyss Institute | Wyss Institute at Harvard
+ - [https://wyss.harvard.edu](https://wyss.harvard.edu)
+ - date_published: 2024-07-01T19:40:57.456018+00:00
+
+ ## Molecular Systems Lab Home
+ - [https://yin.hms.harvard.edu](https://yin.hms.harvard.edu)
+ - date_published: 2024-07-13T03:20:07.281060+00:00
+
+ ## Artificial Intelligence for Medicine and Science
+ - [https://zitniklab.hms.harvard.edu](https://zitniklab.hms.harvard.edu)
+ - date_published: 2024-06-23T20:28:05+00:00
+
+ ## Haverford Scholarship | Haverford College Research
+ - [https://scholarship.haverford.edu](https://scholarship.haverford.edu)
+ - date_published: 2024-07-02T10:48:28.894973+00:00
+
  ## Apply to the University of Hawaiʻi
  - [https://apply.hawaii.edu](https://apply.hawaii.edu)
  - date_published: 2024-04-30T04:49:22.754177+00:00
@@ -3842,172 +4011,4 @@ Data Services
  ## Festival Playhouse –  | Kalamazoo College
  - [https://festivalplayhouse.kzoo.edu](https://festivalplayhouse.kzoo.edu)
  - date_published: 2024-05-07T19:23:32.930640+00:00
-
- ## Film and Media Studies –  | Kalamazoo College
- - [https://filmandmediastudies.kzoo.edu](https://filmandmediastudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:21.062141+00:00
-
- ## Office of Financial Aid –  | Kalamazoo College
- - [https://finaid.kzoo.edu](https://finaid.kzoo.edu)
- - date_published: 2024-05-07T19:25:02.513515+00:00
-
- ## Fitness & Wellness Center –  | Kalamazoo College
- - [https://fitnesscenter.kzoo.edu](https://fitnesscenter.kzoo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Log in to Faculty Personnel Committee
- - [https://fpc.kzoo.edu](https://fpc.kzoo.edu)
- - date_published: 2024-05-07T19:22:24.888096+00:00
-
- ## French and Francophone Studies –  | Kalamazoo College
- - [https://french.kzoo.edu](https://french.kzoo.edu)
- - date_published: 2024-05-07T19:24:36.709196+00:00
-
- ## First Year Experience –  | Kalamazoo College
- - [https://fye.kzoo.edu](https://fye.kzoo.edu)
- - date_published: 2024-07-01T13:07:06.521166+00:00
-
- ## Gardens and Growing Spaces –  | Kalamazoo College
- - [https://gardens.kzoo.edu](https://gardens.kzoo.edu)
- - date_published: 2024-05-07T19:24:50.232506+00:00
-
- ## Department of German Studies –  | Kalamazoo College
- - [https://german.kzoo.edu](https://german.kzoo.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Global Crossroads –  | Kalamazoo College
- - [https://globalcrossroads.kzoo.edu](https://globalcrossroads.kzoo.edu)
- - date_published: 2024-05-07T19:22:29.079782+00:00
-
- ## Student Health Center –  | Kalamazoo College
- - [https://healthcenter.kzoo.edu](https://healthcenter.kzoo.edu)
- - date_published: 2024-05-07T19:21:36.379512+00:00
-
- ## HILL Project – Humanities Integrated Locational Learning –  | Kalamazoo College
- - [https://hill.kzoo.edu](https://hill.kzoo.edu)
- - date_published: 2024-05-07T19:24:19.761219+00:00
-
- ## History Department –  | Kalamazoo College
- - [https://history.kzoo.edu](https://history.kzoo.edu)
- - date_published: 2024-05-07T19:23:57.402201+00:00
-
- ## Log in to Hornet Hive
- - [https://hive.kzoo.edu](https://hive.kzoo.edu)
- - date_published: 2024-05-07T19:20:54.316236+00:00
-
- ## Homecoming and Reunions –  | Kalamazoo College
- - [https://homecoming.kzoo.edu](https://homecoming.kzoo.edu)
- - date_published: 2024-07-01T12:48:19.910931+00:00
-
- ## Kalamazoo College Hornet HQ - Ellucian Student Application
- - [https://hornethq.kzoo.edu](https://hornethq.kzoo.edu)
- - date_published: 2024-05-07T19:20:56.475717+00:00
-
- ## Kalamazoo College Athletics
- - [https://hornets.kzoo.edu](https://hornets.kzoo.edu)
- - date_published: 2024-05-07T19:21:09.425711+00:00
-
- ## Human Resources –  | Kalamazoo College
- - [https://hr.kzoo.edu](https://hr.kzoo.edu)
- - date_published: 2024-05-07T19:22:18.632001+00:00
-
- ## Institutional Assessment –  | Kalamazoo College
- - [https://ia.kzoo.edu](https://ia.kzoo.edu)
- - date_published: 2024-05-07T19:20:47.849753+00:00
-
- ## International and Area Studies –  | Kalamazoo College
- - [https://ias.kzoo.edu](https://ias.kzoo.edu)
- - date_published: 2024-05-07T19:24:54.522691+00:00
-
- ## Inclusive Excellence Initiatives –  | Kalamazoo College
- - [https://inclusiveexcellence.kzoo.edu](https://inclusiveexcellence.kzoo.edu)
- - date_published: 2024-05-07T19:20:34.033986+00:00
-
- ## The Index – The Student Newspaper of Kalamazoo College
- - [https://index.kzoo.edu](https://index.kzoo.edu)
- - date_published: 2024-05-07T19:24:38.235925+00:00
-
- ## Intercultural Student Life –  | Kalamazoo College
- - [https://intercultural.kzoo.edu](https://intercultural.kzoo.edu)
- - date_published: 2024-05-07T19:23:37.547180+00:00
-
- ## Intramural Sports –  | Kalamazoo College
- - [https://intramurals.kzoo.edu](https://intramurals.kzoo.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Institutional Review Board –  | Kalamazoo College
- - [https://irb.kzoo.edu](https://irb.kzoo.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Institutional Research –  | Kalamazoo College
- - [https://ir.kzoo.edu](https://ir.kzoo.edu)
- - date_published: 2024-05-07T19:21:41.665156+00:00
-
- ## Information Services –  | Kalamazoo College
- - [https://is.kzoo.edu](https://is.kzoo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Jewish Studies –  | Kalamazoo College
- - [https://jewishstudies.kzoo.edu](https://jewishstudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:18.804746+00:00
-
- ## Land Acknowledgment –  | Kalamazoo College
- - [https://land.kzoo.edu](https://land.kzoo.edu)
- - date_published: 2024-07-01T12:48:16.711916+00:00
-
- ## LandSea –  | Kalamazoo College
- - [https://landsea.kzoo.edu](https://landsea.kzoo.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Learning Commons –  | Kalamazoo College
- - [https://learningcommons.kzoo.edu](https://learningcommons.kzoo.edu)
- - date_published: 2024-05-07T19:23:22.437613+00:00
-
- ## Learning Support –  | Kalamazoo College
- - [https://learningsupport.kzoo.edu](https://learningsupport.kzoo.edu)
- - date_published: 2024-05-07T19:22:12.610474+00:00
-
- ## Resources for LGBTQAI+ Students –  | Kalamazoo College
- - [https://lgbtqaiplus.kzoo.edu](https://lgbtqaiplus.kzoo.edu)
- - date_published: 2024-05-07T19:22:31.049956+00:00
-
- ## Library –  | Kalamazoo College
- - [https://library.kzoo.edu](https://library.kzoo.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Mail and Copy Center –  | Kalamazoo College
- - [https://mailandcopy.kzoo.edu](https://mailandcopy.kzoo.edu)
- - date_published: 2024-05-07T19:24:15.465235+00:00
-
- ## Math Department –  | Kalamazoo College
- - [https://mathematics.kzoo.edu](https://mathematics.kzoo.edu)
- - date_published: 2024-05-07T19:21:21.736782+00:00
-
- ## Kalamazoo College Moodle
- - [https://moodle.kzoo.edu](https://moodle.kzoo.edu)
- - date_published: 2024-05-07T19:21:27.963153+00:00
-
- ## Math/Physics Center –  | Kalamazoo College
- - [https://mpc.kzoo.edu](https://mpc.kzoo.edu)
- - date_published: 2024-05-07T19:23:24.951429+00:00
-
- ## Music Department –  | Kalamazoo College
- - [https://music.kzoo.edu](https://music.kzoo.edu)
- - date_published: 2024-05-07T19:22:22.689215+00:00
-
- ## MyChart - Login Page
- - [https://mychart.kzoo.edu](https://mychart.kzoo.edu)
- - date_published: 2024-07-01T12:56:47.079707+00:00
-
- ## Office of Religious and Spiritual Life –  | Kalamazoo College
- - [https://orsl.kzoo.edu](https://orsl.kzoo.edu)
- - date_published: 2024-05-07T19:25:12.361773+00:00
-
- ## Outdoor Programs –  | Kalamazoo College
- - [https://outdoor.kzoo.edu](https://outdoor.kzoo.edu)
- - date_published: 2024-05-07T19:30:14.043520+00:00
-
- ## For Parents and Families –  | Kalamazoo College
- - [https://parents.kzoo.edu](https://parents.kzoo.edu)
- - date_published: 2024-01-09T00:00:00+00:00
 

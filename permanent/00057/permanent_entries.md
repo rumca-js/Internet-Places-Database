@@ -1,3 +1,67 @@
+ ## David LaMotte
+ - [https://www.davidlamotte.com](https://www.davidlamotte.com)
+ - date_published: 2024-01-04T22:42:04.799905+00:00
+ - tags: ['personal']
+
+ ## Home
+ - [https://www.davidlebovitz.com](https://www.davidlebovitz.com)
+ - date_published: 2022-01-18T22:56:39+00:00
+
+ ## David Levai's Digital Garden
+ - [https://davidlevai.com](https://davidlevai.com)
+ - date_published: 2024-05-11T10:05:31.946440+00:00
+
+ ## David Limbaugh
+ - [http://davidlimbaugh.com](http://davidlimbaugh.com)
+ - date_published: 2024-06-20T02:58:48.384829+00:00
+
+ ## David's blog -
+ - [https://davidlindelof.com](https://davidlindelof.com)
+ - date_published: 2024-06-28T20:19:46.935597+00:00
+
+ ## David Llop
+ - [https://davidllop.com](https://davidllop.com)
+ - date_published: 2024-05-11T10:24:54.852528+00:00
+ - tags: ['personal']
+
+ ## MixedMath: About
+ - [https://davidlowryduda.com](https://davidlowryduda.com)
+ - date_published: 2024-05-07T15:48:42.383695+00:00
+
+ ## Welcome - David Mach
+ - [https://davidmach.com](https://davidmach.com)
+ - date_published: 2024-05-07T15:44:25.080992+00:00
+ - tags: ['personal']
+
+ ## David Malki
+ - [https://davidmalki.com](https://davidmalki.com)
+ - date_published: 2024-06-16T21:24:49.918304+00:00
+
+ ## Home
+ - [https://davidmaslanka.com](https://davidmaslanka.com)
+ - date_published: 2024-07-16T17:26:58.491335+00:00
+
+ ## David McCandless
+ - [http://davidmccandless.com](http://davidmccandless.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## David Morales - Web Developer. Technical Instructor.
+ - [https://davidmles.com](https://davidmles.com)
+ - date_published: 2023-11-30T10:54:41+00:00
+
+ ## David Moscrop | Substack
+ - [https://www.davidmoscrop.com](https://www.davidmoscrop.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## This is David M. Perry – Journalist – Historian –  Speaker
+ - [https://www.davidmperry.com](https://www.davidmperry.com)
+ - date_published: 2024-05-02T10:21:10.799405+00:00
+
+ ## David Nebinski
+ - [https://davidnebinski.com](https://davidnebinski.com)
+ - date_published: 2023-12-08T08:33:25.745211+00:00
+ - tags: ['personal']
+
  ## DAVID NEGRIN
  - [https://davidnegrin.com](https://davidnegrin.com)
  - date_published: 2024-06-20T19:25:07+00:00
@@ -4008,65 +4072,4 @@
  ## Фотосток Depositphotos: стоковые картинки, фотографии, видео, музыка
  - [https://ru.depositphotos.com](https://ru.depositphotos.com)
  - date_published: 2024-05-11T07:11:33.566287+00:00
-
- ## Фотосток Depositphotos: Стокові фото, відео, музика роялті-фрі
- - [https://ua.depositphotos.com](https://ua.depositphotos.com)
- - date_published: 2024-05-02T10:43:51.552267+00:00
-
- ## Home page – EN - Depositphotos for Education
- - [https://with.depositphotos.com](https://with.depositphotos.com)
- - date_published: 2024-07-08T17:35:39.243144+00:00
-
- ## Show HN: Made a forum for depressed founders to confide
- - [https://depressedfounders.com](https://depressedfounders.com)
- - date_published: 2023-12-17T06:21:25+00:00
-
- ## depression comix
- - [https://www.depressioncomix.com](https://www.depressioncomix.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Depression Quest: An Interactive (non)Fiction About Living with Depression
- - [http://www.depressionquest.com](http://www.depressionquest.com)
- - date_published: 2014-09-12T00:15:43+00:00
-
- ## De Programmatica Ipsum – A magazine about programmers, code, and society. Written by humans since 2018.
- - [https://deprogrammaticaipsum.com](https://deprogrammaticaipsum.com)
- - date_published: 2024-03-04T09:39:26.593720+00:00
- - tags: ['programming articles']
-
- ## Full service digital agency - Pioneering tech/marketing - DEPT®
- - [https://www.deptagency.com](https://www.deptagency.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## DePumpoNET Cloud
- - [https://cloud.depumpo.com](https://cloud.depumpo.com)
- - date_published: 2024-07-02T21:00:54.644986+00:00
-
- ## Joe DePumpo | Full-Stack Web Developer
- - [https://joe.depumpo.com](https://joe.depumpo.com)
- - date_published: 2024-05-07T23:28:03.165734+00:00
-
- ## Workforce Management & Employee Scheduling Software — Deputy
- - [https://www.deputy.com](https://www.deputy.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Deque Systems: Web Accessibility Software, Services & Training
- - [https://deque.com](https://deque.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Derailleur Brew Works（ディレイラ ブリュー ワークス）
- - [https://derailleurbrewworks.com](https://derailleurbrewworks.com)
- - date_published: 2024-07-10T08:10:14.601314+00:00
-
- ## GEO HANDGUARDS  DERAILLEUR GUARD.COM
- - [https://www.derailleurguard.com](https://www.derailleurguard.com)
- - date_published: 2024-06-15T11:58:35.043749+00:00
-
- ## Vintage Computing
- - [https://deramp.com](https://deramp.com)
- - date_published: 2024-01-01T18:26:34+00:00
-
- ## Derby City Weekend
- - [https://derbycityweekend.com](https://derbycityweekend.com)
- - date_published: 2024-05-07T12:48:25.372906+00:00
 

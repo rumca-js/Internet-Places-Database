@@ -1,3 +1,302 @@
+ ## AIMM Research Group - NTU CMLab
+ - [http://www.cmlab.csie.ntu.edu.tw](http://www.cmlab.csie.ntu.edu.tw)
+ - date_published: 2023-03-02T14:13:56+00:00
+
+ ## 國立臺灣大學資訊工程學系
+ - [https://www.csie.ntu.edu.tw](https://www.csie.ntu.edu.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - CTLD x DLC
+ - [https://www.dlc.ntu.edu.tw](https://www.dlc.ntu.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## 國立臺灣大學 - 電機工程學系
+ - [https://ee.ntu.edu.tw](https://ee.ntu.edu.tw)
+ - date_published: 2024-05-11T10:26:32.434485+00:00
+
+ ## 國立臺灣大學生物資源暨農學院附設農業試驗場
+ - [https://www.farm.ntu.edu.tw](https://www.farm.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:06.712798+00:00
+
+ ## 未來大學開創未來 | Futurentu | 台北市
+ - [https://www.future.ntu.edu.tw](https://www.future.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:09.504854+00:00
+
+ ## 歡迎來到 國立臺灣大學圖書館 | 國立臺灣大學圖書館
+ - [https://www.lib.ntu.edu.tw](https://www.lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:31.663613+00:00
+
+ ## 國立臺灣大學 學校分部總辦事處網站
+ - [http://www.ntubca.ntu.edu.tw](http://www.ntubca.ntu.edu.tw)
+ - date_published: 2024-01-18T03:06:29+00:00
+
+ ## 國立臺灣大學
+ - [https://www.ntu.edu.tw](https://www.ntu.edu.tw)
+ - date_published: 2024-05-11T10:26:37.157139+00:00
+
+ ## NYCU CSIT Mirror Site
+ - [https://alpine.cs.nycu.edu.tw](https://alpine.cs.nycu.edu.tw)
+ - date_published: 2024-07-20T15:58:27.437749+00:00
+
+ ## 國際電腦漢字及異體字知識庫
+ - [http://chardb.iis.sinica.edu.tw](http://chardb.iis.sinica.edu.tw)
+ - date_published: 2024-07-12T05:06:01.916389+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [https://homepage.iis.sinica.edu.tw](https://homepage.iis.sinica.edu.tw)
+ - date_published: 2024-07-19T01:31:46+00:00
+
+ ## - niche computing science
+ - [https://scm.iis.sinica.edu.tw](https://scm.iis.sinica.edu.tw)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## 中央研究院 兩千年中西曆轉換
+ - [http://sinocal.sinica.edu.tw](http://sinocal.sinica.edu.tw)
+ - date_published: 2024-07-12T05:05:58.043521+00:00
+
+ ## Information
+ - [https://www2020.citi.sinica.edu.tw](https://www2020.citi.sinica.edu.tw)
+ - date_published: 2020-10-23T09:52:02+00:00
+
+ ## Institute of Astronomy & Astrophysics, Academia Sinica
+ - [https://www.asiaa.sinica.edu.tw](https://www.asiaa.sinica.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## {{($state.current.data.pageTitleZH)?$state.current.data.pageTitleZH+' - '+title.zh:title.zh}}
+ - [https://www.citi.sinica.edu.tw](https://www.citi.sinica.edu.tw)
+ - date_published: 2024-05-21T07:42:49+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [http://www.iis.sinica.edu.tw](http://www.iis.sinica.edu.tw)
+ - date_published: 2024-06-21T16:15:10+00:00
+
+ ## 影視及流行音樂產業局
+ - [https://www.bamid.gov.tw](https://www.bamid.gov.tw)
+ - date_published: 2024-07-03T23:04:10.640812+00:00
+
+ ## 外交部領事事務局全球資訊網
+ - [https://www.boca.gov.tw](https://www.boca.gov.tw)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## 首頁-衛生福利部疾病管制署
+ - [https://www.cdc.gov.tw](https://www.cdc.gov.tw)
+ - date_published: 2024-07-14T10:35:46.063737+00:00
+
+ ## 公務人員保障暨培訓委員會
+ - [http://www.csptc.gov.tw](http://www.csptc.gov.tw)
+ - date_published: 2024-06-17T16:56:43.750124+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://cfcmweb.cy.gov.tw](https://cfcmweb.cy.gov.tw)
+ - date_published: 2024-07-16T20:57:44.068550+00:00
+
+ ## 綠色生活
+ - [https://greenliving.epa.gov.tw](https://greenliving.epa.gov.tw)
+ - date_published: 2023-10-19T07:37:14+00:00
+
+ ## 行政院全球資訊網
+ - [https://www.ey.gov.tw](https://www.ey.gov.tw)
+ - date_published: 2024-06-17T16:48:03+00:00
+
+ ## 政府研究資訊系統 GRB
+ - [https://www.grb.gov.tw](https://www.grb.gov.tw)
+ - date_published: 2024-07-03T10:36:47+00:00
+
+ ## 哈客網
+ - [https://wiki.hakka.gov.tw](https://wiki.hakka.gov.tw)
+ - date_published: 2024-07-12T05:29:46.417411+00:00
+
+ ## 首頁-公共政策網路參與平臺
+ - [https://join.gov.tw](https://join.gov.tw)
+ - date_published: 2024-06-17T16:54:56.583309+00:00
+
+ ## 宜蘭博物館家族
+ - [http://families.lym.gov.tw](http://families.lym.gov.tw)
+ - date_published: 2024-06-17T16:56:38+00:00
+
+ ## 蘭陽博物館志工網站
+ - [http://volunteer.lym.gov.tw](http://volunteer.lym.gov.tw)
+ - date_published: 2024-06-17T16:57:08.900313+00:00
+
+ ## 蘭陽博物館
+ - [https://www.lym.gov.tw](https://www.lym.gov.tw)
+ - date_published: 2024-05-02T10:40:50.973302+00:00
+
+ ## Cierpliwości...
+ - [https://accessibility.moda.gov.tw](https://accessibility.moda.gov.tw)
+ - date_published: 2024-05-02T10:40:32.005882+00:00
+
+ ## 中華民國外交部全球資訊網
+ - [https://www.mofa.gov.tw](https://www.mofa.gov.tw)
+ - date_published: 2024-07-07T10:16:39.707813+00:00
+
+ ## 全國法規資料庫
+ - [http://law.moj.gov.tw](http://law.moj.gov.tw)
+ - date_published: 2024-07-12T17:23:26.967208+00:00
+
+ ## 法務部廉政署中文網
+ - [https://www.aac.moj.gov.tw](https://www.aac.moj.gov.tw)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## 行政院公報資訊網
+ - [https://gazette.nat.gov.tw](https://gazette.nat.gov.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 雙語資源網Bilingual Portal
+ - [https://bilingual.ndc.gov.tw](https://bilingual.ndc.gov.tw)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 臺灣女人 –  穿梭的記憶‧臺灣女性流轉年華
+ - [https://women.nmth.gov.tw](https://women.nmth.gov.tw)
+ - date_published: 2024-06-22T12:42:09.578615+00:00
+
+ ## 故宮典藏資料檢索
+ - [https://digitalarchive.npm.gov.tw](https://digitalarchive.npm.gov.tw)
+ - date_published: 2024-06-17T05:25:48+00:00
+
+ ## 故宮南院 | 喬木數位典藏資料庫
+ - [https://i-trees.npm.gov.tw](https://i-trees.npm.gov.tw)
+ - date_published: 2024-06-17T16:53:26.139410+00:00
+
+ ## 國立故宮博物院主管法規共用系統-最新訊息
+ - [https://law.npm.gov.tw](https://law.npm.gov.tw)
+ - date_published: 2024-05-02T10:40:16.228020+00:00
+
+ ## 國立故宮博物院南部院區
+ - [https://south.npm.gov.tw](https://south.npm.gov.tw)
+ - date_published: 2024-05-02T10:40:03.203961+00:00
+
+ ## 國立故宮博物院-國立故宮博物院
+ - [https://www.npm.gov.tw](https://www.npm.gov.tw)
+ - date_published: 2023-11-13T13:46:38.432750+00:00
+ - tags: ['museum']
+
+ ## 首頁 | 新北市立十三行博物館
+ - [http://www.sshm.ntpc.gov.tw](http://www.sshm.ntpc.gov.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 經濟部國際貿易署經貿資訊網
+ - [https://www.trade.gov.tw](https://www.trade.gov.tw)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 桃園市政府海岸及資源循環工程處
+ - [https://www.tyoca.gov.tw](https://www.tyoca.gov.tw)
+ - date_published: 2024-06-17T05:07:10+00:00
+
+ ## TWNIC 財團法人台灣網路資訊中心
+ - [https://www.twnic.net.tw](https://www.twnic.net.tw)
+ - date_published: 2024-07-07T10:15:51.171269+00:00
+
+ ## Homepage
+ - [https://www.ait.org.tw](https://www.ait.org.tw)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## BCSD TAIWAN
+ - [https://bcsd.org.tw](https://bcsd.org.tw)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## CSROC中華民國電腦學會
+ - [http://www.csroc.org.tw](http://www.csroc.org.tw)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## TaiwanICDF
+ - [https://www.icdf.org.tw](https://www.icdf.org.tw)
+ - date_published: 2024-07-14T18:59:01.677595+00:00
+
+ ## Institute for Information Industry(III)
+ - [https://web.iii.org.tw](https://web.iii.org.tw)
+ - date_published: 2024-07-07T10:14:19.737079+00:00
+
+ ## 財團法人陽明海運文化基金會
+ - [http://www.ocam.org.tw](http://www.ocam.org.tw)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## 人格測試
+ - [https://www.oca.scientology.org.tw](https://www.oca.scientology.org.tw)
+ - date_published: 2024-06-17T16:40:49.163698+00:00
+
+ ## 山達基教會：L. 羅恩 賀伯特、戴尼提、什麼是山達基？、書籍、信仰、大衛 密斯凱維吉
+ - [https://www.scientology.org.tw](https://www.scientology.org.tw)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## 山達基宗教：背景、理論和宗教實踐
+ - [https://www.scientologyreligion.org.tw](https://www.scientologyreligion.org.tw)
+ - date_published: 2024-06-06T19:41:35.098169+00:00
+
+ ## 財團法人台灣建築中心 - TABC台灣建築中心
+ - [https://www.tabc.org.tw](https://www.tabc.org.tw)
+ - date_published: 2022-10-06T09:05:21+00:00
+
+ ## 台灣流體傳動工業全球資訊網
+ - [https://www.tfpa.org.tw](https://www.tfpa.org.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 13
+ - [https://13h.tw](https://13h.tw)
+ - date_published: 2022-04-05T19:22:59+00:00
+
+ ## 20th Century Studios Taiwan | Official Website
+ - [https://www.20thcenturystudios.tw](https://www.20thcenturystudios.tw)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## AIdea
+ - [https://aidea-web.tw](https://aidea-web.tw)
+ - date_published: 2024-05-10T05:09:47.020373+00:00
+
+ ## Angular 中文文件
+ - [https://angular.tw](https://angular.tw)
+ - date_published: 2024-05-31T11:09:05.729061+00:00
+
+ ## Android 台灣中文網 智慧型手機 免費 遊戲下載 軟體下載 韌體下載 APP下載 刷機教程 -  APK.TW
+ - [https://apk.tw](https://apk.tw)
+ - date_published: 2024-06-29T17:56:49.294194+00:00
+
+ ## Apowersoft - 為您提供專業的商務辦公及日常生活的桌面軟體和線上應用
+ - [https://www.apowersoft.tw](https://www.apowersoft.tw)
+ - date_published: 2024-06-23T16:06:15.736776+00:00
+
+ ## Index of /
+ - [http://mirror.archlinux.tw](http://mirror.archlinux.tw)
+ - date_published: 2024-07-13T17:34:46.097959+00:00
+
+ ## Jasper | AI copilot for enterprise marketing teams
+ - [https://www.ata.tw](https://www.ata.tw)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## BARE: The Google Reader experience for your Twitter timeline.
+ - [https://bare.tw](https://bare.tw)
+ - date_published: 2024-07-20T03:10:14.193522+00:00
+
+ ## 戴尼提和山達基的教材
+ - [https://www.bridgepub.tw](https://www.bridgepub.tw)
+ - date_published: 2024-06-06T20:22:01.491687+00:00
+
+ ## Martin's website/blog thingy
+ - [https://clehaxze.tw](https://clehaxze.tw)
+ - date_published: 2024-06-22T07:00:36.332710+00:00
+ - tags: ['personal']
+
+ ## The 13th Asia Pacific Conference on Vision
+ - [https://apcv2017.conf.tw](https://apcv2017.conf.tw)
+ - date_published: 2024-07-13T11:54:24.697802+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://dcard.tw](http://dcard.tw)
+ - date_published: 2024-06-18T09:32:14.939306+00:00
+
+ ## DDraceNetwork
+ - [https://ddnet.tw](https://ddnet.tw)
+ - date_published: 2024-05-08T10:51:38.449214+00:00
+ - tags: ['open source', 'video game']
+
+ ## 迪卡儂 台灣官方網站 -  降價出清，低至6折，萬種商品，想買就買 - 超取$199 、宅配$499 免運
+ - [https://www.decathlon.tw](https://www.decathlon.tw)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## 戴尼提中文官方網站：購買L. 羅恩 賀伯特的著作，觀看戴尼提相關影片《戴尼提簡介》
+ - [https://www.dianetics.tw](https://www.dianetics.tw)
+ - date_published: 2024-06-17T16:42:22.000718+00:00
+
  ## DigiKey
  - [https://www.digikey.tw](https://www.digikey.tw)
  - date_published: 2024-05-01T05:02:16.567657+00:00
@@ -3718,300 +4017,4 @@
  ## Jobs at the University of Leeds
  - [https://jobs.leeds.ac.uk](https://jobs.leeds.ac.uk)
  - date_published: 2024-06-17T18:07:58.748001+00:00
-
- ## Leeds Arts and Humanities Research Institute | Fostering a culture of interdisciplinary research across and beyond the arts and humanities
- - [https://lahri.leeds.ac.uk](https://lahri.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:59.692204+00:00
-
- ## The Language Scholar
- - [https://languagescholar.leeds.ac.uk](https://languagescholar.leeds.ac.uk)
- - date_published: 2024-06-17T14:09:04.752085+00:00
-
- ## Leeds for Life
- - [https://leedsforlife.leeds.ac.uk](https://leedsforlife.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:24.189482+00:00
-
- ## Library Homepage
- - [https://library.leeds.ac.uk](https://library.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:55.989223+00:00
-
- ## Faculty of Medicine and Health
- - [http://medhealth.leeds.ac.uk](http://medhealth.leeds.ac.uk)
- - date_published: 2024-06-17T18:09:28.298831+00:00
-
- ## Faculty of Medicine and Health
- - [https://medicinehealth.leeds.ac.uk](https://medicinehealth.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:09.175072+00:00
-
- ## Sign in to your account
- - [https://minerva.leeds.ac.uk](https://minerva.leeds.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## VideoLeeds
- - [https://mymedia.leeds.ac.uk](https://mymedia.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:53.340522+00:00
-
- ## Sign in to your account
- - [http://office365.leeds.ac.uk](http://office365.leeds.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## OD&PL University of Leeds
- - [https://peopledevelopment.leeds.ac.uk](https://peopledevelopment.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:25.652991+00:00
-
- ## Postgraduate research opportunities
- - [https://phd.leeds.ac.uk](https://phd.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:53.054043+00:00
-
- ## Blackboard Learn
- - [http://portal.leeds.ac.uk](http://portal.leeds.ac.uk)
- - date_published: 2004-06-17T18:06:43+00:00
-
- ## PRiSM - Pedagogic Research in Mathematics and Physical Sciences | University of Leeds
- - [https://prism.leeds.ac.uk](https://prism.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:58.507235+00:00
-
- ## University of Leeds :: Jadu CMS Homepage
- - [https://production2.leeds.ac.uk](https://production2.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:20.519122+00:00
-
- ## Symplectic Elements
- - [https://publications.leeds.ac.uk](https://publications.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:40.798223+00:00
-
- ## University of Leeds : Haplo
- - [https://research.leeds.ac.uk](https://research.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:15.577884+00:00
-
- ## Student Education Service | University of Leeds
- - [https://ses.leeds.ac.uk](https://ses.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:45.568524+00:00
-
- ## Redirecting...
- - [https://studentservices.leeds.ac.uk](https://studentservices.leeds.ac.uk)
- - date_published: 2024-05-13T17:48:56+00:00
-
- ## Academic Life
- - [https://students.leeds.ac.uk](https://students.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:24.938110+00:00
-
- ## The Sustainability Service at the University of Leeds
- - [https://sustainability.leeds.ac.uk](https://sustainability.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:45.690291+00:00
-
- ## Virtual Tour - University of Leeds
- - [https://virtualcampustour.leeds.ac.uk](https://virtualcampustour.leeds.ac.uk)
- - date_published: 2021-11-30T09:44:51+00:00
-
- ## webprod2.leeds.ac.uk
- - [http://webprod3.leeds.ac.uk](http://webprod3.leeds.ac.uk)
- - date_published: 2011-07-08T13:36:18+00:00
-
- ## Wellbeing, Safety and Health | University of Leeds
- - [https://wsh.leeds.ac.uk](https://wsh.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:19.882909+00:00
-
- ## Home : The Astbury Centre for Structural Molecular Biology
- - [http://www.astbury.leeds.ac.uk](http://www.astbury.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:29.565901+00:00
-
- ## Faculty of Environment
- - [http://www.environment.leeds.ac.uk](http://www.environment.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:42.269653+00:00
-
- ## Faculty of Social Sciences - Site Homepage
- - [http://www.essl.leeds.ac.uk](http://www.essl.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:28.325868+00:00
-
- ## Faculty of Biological Sciences
- - [https://www.fbs.leeds.ac.uk](https://www.fbs.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:40.821847+00:00
-
- ## Health Sciences Outreach Team | Providing widening participation activities for the Faculty of Medicine and Health
- - [https://www.healthsciences.leeds.ac.uk](https://www.healthsciences.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:51.825236+00:00
-
- ## University of Leeds
- - [https://www.leeds.ac.uk](https://www.leeds.ac.uk)
- - date_published: 2023-10-25T22:48:46.915969+00:00
-
- ## Lifelong Learning Centre | University of Leeds
- - [http://www.llc.leeds.ac.uk](http://www.llc.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:34.785672+00:00
-
- ## School of Earth and Environment
- - [https://see.leeds.ac.uk](https://see.leeds.ac.uk)
- - date_published: 2024-05-07T15:00:53.438105+00:00
-
- ## Leeds Beckett University
- - [https://www.leedsbeckett.ac.uk](https://www.leedsbeckett.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## LIBF: Shape Your Future with Flexible, Online Education
- - [https://www.libf.ac.uk](https://www.libf.ac.uk)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## LIMS - London Institute for Mathematical Sciences
- - [https://lims.ac.uk](https://lims.ac.uk)
- - date_published: 2024-06-30T11:06:41.645922+00:00
-
- ## Lincoln Institute for Agri-Food Technology
- - [https://agrifoodtech.blogs.lincoln.ac.uk](https://agrifoodtech.blogs.lincoln.ac.uk)
- - date_published: 2024-07-12T08:53:52+00:00
-
- ## AgriFoRwArdS Students – An insight in to our AgriFoRwArdS students
- - [https://agriforwards-students.blogs.lincoln.ac.uk](https://agriforwards-students.blogs.lincoln.ac.uk)
- - date_published: 2024-07-12T08:55:52.645808+00:00
-
- ## Lincoln Centre for Autonomous Systems
- - [https://lcas.lincoln.ac.uk](https://lcas.lincoln.ac.uk)
- - date_published: 2024-05-10T05:10:14.167700+00:00
-
- ## University of Lincoln
- - [https://lincoln.ac.uk](https://lincoln.ac.uk)
- - date_published: 2024-07-10T16:36:29+00:00
-
- ## Alumni - Alumni - University of Liverpool
- - [https://alumni.liv.ac.uk](https://alumni.liv.ac.uk)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Alumni members' area landing page - The University of Liverpool
- - [https://alum.liverpool.ac.uk](https://alum.liverpool.ac.uk)
- - date_published: 2024-06-17T18:15:05.364095+00:00
-
- ## Sign In
- - [https://cachednewsfeeds.liverpool.ac.uk](https://cachednewsfeeds.liverpool.ac.uk)
- - date_published: 2024-06-17T18:09:32.189216+00:00
-
- ## Library
- - [http://libguides.liverpool.ac.uk](http://libguides.liverpool.ac.uk)
- - date_published: 2024-07-04T13:30:36.506263+00:00
-
- ## University of Liverpool News
- - [https://news.liverpool.ac.uk](https://news.liverpool.ac.uk)
- - date_published: 2024-01-06T10:10:17.822290+00:00
-
- ## Welcome - Strategic Framework 2031 - University of Liverpool
- - [https://strategy.liverpool.ac.uk](https://strategy.liverpool.ac.uk)
- - date_published: 2024-05-02T10:56:19.802704+00:00
-
- ## Student login - University of Liverpool
- - [https://student.liverpool.ac.uk](https://student.liverpool.ac.uk)
- - date_published: 2015-12-04T00:00:00+00:00
-
- ## The University of Liverpool
- - [https://www.liverpool.ac.uk](https://www.liverpool.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## London Mathematical Society - De Morgan Forum
- - [http://education.lms.ac.uk](http://education.lms.ac.uk)
- - date_published: 2021-03-16T13:50:03+00:00
-
- ## The London Mathematical Society | London Mathematical Society
- - [https://lms.ac.uk](https://lms.ac.uk)
- - date_published: 2024-06-17T14:35:54+00:00
-
- ## University of London Clubs and Societies
- - [https://clubs-societies.london.ac.uk](https://clubs-societies.london.ac.uk)
- - date_published: 2024-06-17T17:48:53.106441+00:00
-
- ## University of London Housing Services
- - [https://housing.london.ac.uk](https://housing.london.ac.uk)
- - date_published: 2024-06-17T17:48:59.521400+00:00
-
- ## Study with the University of London, anywhere in the world
- - [https://london.ac.uk](https://london.ac.uk)
- - date_published: 2024-06-17T16:52:03+00:00
-
- ## UoL MediaLibrary
- - [https://medialibrary.london.ac.uk](https://medialibrary.london.ac.uk)
- - date_published: 2024-06-17T17:48:56.265959+00:00
-
- ## Welcome - University of London
- - [https://my.london.ac.uk](https://my.london.ac.uk)
- - date_published: 2024-06-17T17:48:52.388060+00:00
-
- ## Directory of Research and Expertise | University of London
- - [https://research.london.ac.uk](https://research.london.ac.uk)
- - date_published: 2024-06-17T17:49:00.382390+00:00
-
- ## University of London
- - [https://www.alumni.london.ac.uk](https://www.alumni.london.ac.uk)
- - date_published: 2024-06-17T17:49:02.304643+00:00
-
- ## London Metropolitan University - London Metropolitan University
- - [https://www.londonmet.ac.uk](https://www.londonmet.ac.uk)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## LSE Blogs | Expert analysis & debate from LSE
- - [https://blogs.lse.ac.uk](https://blogs.lse.ac.uk)
- - date_published: 2023-10-25T22:48:48.518267+00:00
-
- ## Welcome to LSE Research Online - LSE Research Online
- - [http://eprints.lse.ac.uk](http://eprints.lse.ac.uk)
- - date_published: 2024-07-22T05:55:24.806556+00:00
-
- ## Home
- - [https://info.lse.ac.uk](https://info.lse.ac.uk)
- - date_published: 2024-05-09T05:38:09.000767+00:00
-
- ## LSE - Individual Web Pages for Taught Students
- - [http://personal.lse.ac.uk](http://personal.lse.ac.uk)
- - date_published: 2015-06-19T12:26:07+00:00
-
- ## LSE Press
- - [http://press.lse.ac.uk](http://press.lse.ac.uk)
- - date_published: 2024-05-09T05:38:18.940160+00:00
-
- ## Curious minds are Shaping the World. Join in. - Shaping the world
- - [https://shapingtheworld.lse.ac.uk](https://shapingtheworld.lse.ac.uk)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## STICERD - The Suntory and Toyota International Centres for Economics and Related Disciplines
- - [https://sticerd.lse.ac.uk](https://sticerd.lse.ac.uk)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## LSE Alumni - Community Home
- - [https://www.alumni.lse.ac.uk](https://www.alumni.lse.ac.uk)
- - date_published: 2024-05-09T05:38:12.080023+00:00
-
- ## LSE Home
- - [https://lse.ac.uk](https://lse.ac.uk)
- - date_published: 2024-03-06T15:28:43.124157+00:00
-
- ## Home | LSHTM Moodle
- - [https://ble.lshtm.ac.uk](https://ble.lshtm.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home - LSHTM Blogs
- - [https://blogs.lshtm.ac.uk](https://blogs.lshtm.ac.uk)
- - date_published: 2024-06-17T18:15:28.072245+00:00
-
- ## Home Page
- - [https://giftstore.lshtm.ac.uk](https://giftstore.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:41.190827+00:00
-
- ## Jobs at LSHTM
- - [https://jobs.lshtm.ac.uk](https://jobs.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:36.932987+00:00
-
- ## Home | Open Study at LSHTM
- - [http://open.lshtm.ac.uk](http://open.lshtm.ac.uk)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## The London School of Hygiene & Tropical Medicine | LSHTM
- - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
- - date_published: 2023-10-25T22:48:50.709213+00:00
-
- ## Search - Archives Hub
- - [http://archives.li.man.ac.uk](http://archives.li.man.ac.uk)
- - date_published: 1900-11-10T00:00:00+00:00
-
- ## Department of Computer Science - The University of Manchester
- - [http://www.cs.man.ac.uk](http://www.cs.man.ac.uk)
- - date_published: 2024-07-13T09:17:59.887656+00:00
-
- ## Welcome Page
- - [https://app.manchester.ac.uk](https://app.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:45.038121+00:00
 

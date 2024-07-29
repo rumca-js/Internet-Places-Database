@@ -1,3 +1,171 @@
+ ## AdvancementHUB
+ - [https://intranet.uff.ufl.edu](https://intranet.uff.ufl.edu)
+ - date_published: 2024-07-02T02:19:57.569762+00:00
+
+ ## Institutional Planning and Research
+ - [https://ir.aa.ufl.edu](https://ir.aa.ufl.edu)
+ - date_published: 2024-07-02T01:53:41+00:00
+
+ ## Information Technology - University of Florida
+ - [https://it.ufl.edu](https://it.ufl.edu)
+ - date_published: 2024-07-02T02:07:49.776780+00:00
+
+ ## Careers
+ - [https://jobs.ufl.edu](https://jobs.ufl.edu)
+ - date_published: 2024-07-02T02:11:23.301447+00:00
+
+ ## Liao Lab »  » University of Florida
+ - [https://liao.acb.med.ufl.edu](https://liao.acb.med.ufl.edu)
+ - date_published: 2024-02-08T16:20:48.739035+00:00
+
+ ## eLearning - University of Florida
+ - [https://lss.at.ufl.edu](https://lss.at.ufl.edu)
+ - date_published: 2024-07-02T02:19:19.447279+00:00
+
+ ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
+ - [https://mbi-cam.sites.medinfo.ufl.edu](https://mbi-cam.sites.medinfo.ufl.edu)
+ - date_published: 2024-05-07T21:11:06.799717+00:00
+
+ ## McKnight Brain Institute » University of Florida
+ - [https://mbi-main-a2.sites.medinfo.ufl.edu](https://mbi-main-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T21:21:43+00:00
+
+ ## McKnight Brain Institute » University of Florida
+ - [https://mbi.ufl.edu](https://mbi.ufl.edu)
+ - date_published: 2024-05-07T21:11:20.615371+00:00
+
+ ## Forms & Requests
+ - [https://mediaservices.clas.ufl.edu](https://mediaservices.clas.ufl.edu)
+ - date_published: 2024-07-07T08:11:57.753234+00:00
+
+ ## Mediasite
+ - [https://mediasite.video.ufl.edu](https://mediasite.video.ufl.edu)
+ - date_published: 2015-08-16T15:00:32+00:00
+
+ ## Welcome to myUFL
+ - [https://my.ufl.edu](https://my.ufl.edu)
+ - date_published: 2022-12-01T23:07:50+00:00
+
+ ## Department of Neuroscience » College of Medicine » University of Florida
+ - [https://neuroscience-a2.sites.medinfo.ufl.edu](https://neuroscience-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T20:15:02+00:00
+
+ ## Department of Neuroscience » College of Medicine » University of Florida
+ - [https://neuroscience.ufl.edu](https://neuroscience.ufl.edu)
+ - date_published: 2024-05-07T21:11:17.576118+00:00
+
+ ## CLAS News
+ - [https://news.clas.ufl.edu](https://news.clas.ufl.edu)
+ - date_published: 2024-07-02T02:10:51.497253+00:00
+
+ ## Current News
+ - [https://news.drgator.ufl.edu](https://news.drgator.ufl.edu)
+ - date_published: 2024-07-02T02:19:46.370243+00:00
+
+ ## University of Florida Information Technology News – The official source for information technology related news at the University of Florida
+ - [https://news.it.ufl.edu](https://news.it.ufl.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home - News - University of Florida
+ - [https://news.ufl.edu](https://news.ufl.edu)
+ - date_published: 2024-01-04T17:18:14.446846+00:00
+
+ ## ONE.UF
+ - [https://one.ufl.edu](https://one.ufl.edu)
+ - date_published: 2024-06-13T11:20:58+00:00
+
+ ## InCommon Federation Discovery Service
+ - [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu)
+ - date_published: 2024-07-02T02:08:20.186571+00:00
+
+ ## Home
+ - [http://performingarts.ufl.edu](http://performingarts.ufl.edu)
+ - date_published: 2024-07-02T02:19:17.573739+00:00
+
+ ## Academic Integrity » College of Public Health and Health Professions » University of Florida
+ - [https://phhp-academic-integrity.sites.medinfo.ufl.edu](https://phhp-academic-integrity.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T23:25:15+00:00
+
+ ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
+ - [https://phhp-main-new-a2.sites.medinfo.ufl.edu](https://phhp-main-new-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T21:31:26+00:00
+
+ ## Fall 2023
+ - [https://phhp-news.sites.medinfo.ufl.edu](https://phhp-news.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-02T02:10:36.550557+00:00
+
+ ## Research Activities » College of Public Health and Health Professions » University of Florida
+ - [https://phhp-research-a2.sites.medinfo.ufl.edu](https://phhp-research-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T20:37:08+00:00
+
+ ## College of Public Health & Health Professions » College of Public Health and Health Professions » University of Florida
+ - [https://phhp.ufl.edu](https://phhp.ufl.edu)
+ - date_published: 2024-05-07T21:10:59.230316+00:00
+
+ ## Directory » University of Florida
+ - [https://phonebook.ufl.edu](https://phonebook.ufl.edu)
+ - date_published: 2024-07-02T02:19:07.703974+00:00
+
+ ## http://plaza.ufl.edu
+ - [http://plaza.ufl.edu](http://plaza.ufl.edu)
+ - date_published: 2006-05-26T17:00:41+00:00
+
+ ## Regulation and Policy Hub
+ - [https://policy.ufl.edu](https://policy.ufl.edu)
+ - date_published: 2024-07-02T01:56:41+00:00
+
+ ## Privacy » University of Florida
+ - [https://privacy.ufl.edu](https://privacy.ufl.edu)
+ - date_published: 2024-05-07T21:11:12.619267+00:00
+
+ ## Support Home Page
+ - [https://publicrecords.ufl.edu](https://publicrecords.ufl.edu)
+ - date_published: 2024-07-02T02:06:16.719156+00:00
+
+ ## RecSports | University of Florida, Department of Recreation Sports
+ - [https://recsports.ufl.edu](https://recsports.ufl.edu)
+ - date_published: 2024-07-02T02:10:49.105837+00:00
+
+ ## Regulation and Policy Hub
+ - [https://regulations.ufl.edu](https://regulations.ufl.edu)
+ - date_published: 2024-07-02T01:56:41+00:00
+
+ ## UF Conduct and Concern Reporting
+ - [https://report.ufl.edu](https://report.ufl.edu)
+ - date_published: 2024-07-02T02:10:55.034023+00:00
+
+ ## Research - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://research.ifas.ufl.edu](http://research.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:40.362339+00:00
+
+ ## Office of Research » College of Medicine » University of Florida
+ - [https://research.med.ufl.edu](https://research.med.ufl.edu)
+ - date_published: 2024-07-01T20:29:32+00:00
+
+ ## Research Activities » College of Public Health and Health Professions » University of Florida
+ - [https://research.phhp.ufl.edu](https://research.phhp.ufl.edu)
+ - date_published: 2024-05-07T21:10:54.372575+00:00
+
+ ## University of Florida Research
+ - [https://research.ufl.edu](https://research.ufl.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Search » University of Florida
+ - [https://search.ufl.edu](https://search.ufl.edu)
+ - date_published: 2024-05-07T21:11:36.945840+00:00
+
+ ## Information Security – University of Florida
+ - [https://security.ufl.edu](https://security.ufl.edu)
+ - date_published: 2024-05-07T21:10:52.267199+00:00
+
+ ## Solutions For Your Life - Real Solutions for Real Life
+ - [http://sfyl.ifas.ufl.edu](http://sfyl.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:19.568229+00:00
+
+ ## Web Services » UF Health » University of Florida
+ - [https://sites.medinfo.ufl.edu](https://sites.medinfo.ufl.edu)
+ - date_published: 2024-05-07T21:11:23.235964+00:00
+
  ## studentinvolvement.ufl.edu | UF Student Involvement
  - [https://studentinvolvement.ufl.edu](https://studentinvolvement.ufl.edu)
  - date_published: 2024-07-02T02:10:59.617305+00:00
@@ -3834,174 +4002,4 @@
  ## Michigan Photography
  - [http://photography.umich.edu](http://photography.umich.edu)
  - date_published: 2024-07-02T00:18:21+00:00
-
- ## Home
- - [https://planetblue.umich.edu](https://planetblue.umich.edu)
- - date_published: 2024-06-16T11:48:03.637548+00:00
-
- ## PRBA | The Program for Research on Black Americans
- - [https://prba.isr.umich.edu](https://prba.isr.umich.edu)
- - date_published: 2024-02-08T17:48:53.662680+00:00
-
- ## Office of the President
- - [https://president.umich.edu](https://president.umich.edu)
- - date_published: 2024-05-04T06:11:00.310049+00:00
-
- ## University of Michigan Press
- - [https://press.umich.edu](https://press.umich.edu)
- - date_published: 2024-06-17T14:11:39+00:00
-
- ## Procurement Services - University of Michigan | Finance Customer Care
- - [https://procurement.umich.edu](https://procurement.umich.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Proxy Server Problem
- - [https://proxy.lib.umich.edu](https://proxy.lib.umich.edu)
- - date_published: 2024-06-30T01:28:39.049813+00:00
-
- ## The Institute for Social Research Population Studies Center |
- - [https://psc.isr.umich.edu](https://psc.isr.umich.edu)
- - date_published: 2024-07-01T18:35:41+00:00
-
- ## U-M Public Affairs
- - [https://publicaffairs.vpcomm.umich.edu](https://publicaffairs.vpcomm.umich.edu)
- - date_published: 2024-05-07T21:28:53.650630+00:00
-
- ## Homepage | Law Quadrangle
- - [https://quadrangle.law.umich.edu](https://quadrangle.law.umich.edu)
- - date_published: 2024-06-19T14:14:57+00:00
-
- ## Homepage | Law Quadrangle
- - [https://quadrangle.michigan.law.umich.edu](https://quadrangle.michigan.law.umich.edu)
- - date_published: 2024-06-25T18:12:17+00:00
-
- ## U-M Library Digital Collections
- - [http://quod.lib.umich.edu](http://quod.lib.umich.edu)
- - date_published: 2024-06-30T04:28:05.711370+00:00
-
- ## Research Center for Group Dynamics |
- - [https://rcgd.isr.umich.edu](https://rcgd.isr.umich.edu)
- - date_published: 2024-05-07T21:29:17.799449+00:00
-
- ## The University Record
- - [https://record.umich.edu](https://record.umich.edu)
- - date_published: 2024-04-20T14:55:31.813935+00:00
- - tags: ['university news']
-
- ## Homepage
- - [https://regents.umich.edu](https://regents.umich.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Office of the Registrar
- - [https://registrar.engin.umich.edu](https://registrar.engin.umich.edu)
- - date_published: 2024-07-02T03:53:02+00:00
-
- ## Equity, Civil Rights, and Title IX Offices
- - [https://report.ecrt.umich.edu](https://report.ecrt.umich.edu)
- - date_published: 2024-06-16T11:47:42.612426+00:00
-
- ## University of Michigan Law School Scholarship Repository
- - [https://repository.law.umich.edu](https://repository.law.umich.edu)
- - date_published: 2023-10-25T19:02:35.321840+00:00
-
- ## Office of Research
- - [https://research.medicine.umich.edu](https://research.medicine.umich.edu)
- - date_published: 2024-05-07T21:28:02.926633+00:00
-
- ## Research to Serve the World
- - [https://research.umich.edu](https://research.umich.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## LibCal -
-        University of Michigan Law Library
- - [https://reservations.law.umich.edu](https://reservations.law.umich.edu)
- - date_published: 2024-06-20T01:56:32.779144+00:00
-
- ## Resilient Traveling
- - [https://resilient-traveling.umich.edu](https://resilient-traveling.umich.edu)
- - date_published: 2024-07-02T01:42:30+00:00
-
- ## Michigan Robotics | University of Michigan
- - [https://robotics.umich.edu](https://robotics.umich.edu)
- - date_published: 2013-07-09T19:23:43+00:00
-
- ## Home | Office of the Registrar
- - [https://ro.umich.edu](https://ro.umich.edu)
- - date_published: 2024-06-16T11:47:32+00:00
-
- ## Resource Planning and Management – Home for Resource Planning and Management at the College of Engineering
- - [https://rpm.engin.umich.edu](https://rpm.engin.umich.edu)
- - date_published: 2024-07-02T03:53:16+00:00
-
- ## U-M Safe Computing / safecomputing.umich.edu
- - [https://safecomputing.umich.edu](https://safecomputing.umich.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Safety Abroad |  Safety Abroad
- - [https://safetyabroad.umich.edu](https://safetyabroad.umich.edu)
- - date_published: 2024-07-02T03:54:51.236979+00:00
-
- ## CoE Safety
- - [https://safety.engin.umich.edu](https://safety.engin.umich.edu)
- - date_published: 2024-05-07T21:28:45.451956+00:00
-
- ## Welcome | Sexual Assault Prevention and Awareness Center
- - [https://sapac.umich.edu](https://sapac.umich.edu)
- - date_published: 2024-06-26T16:51:16+00:00
-
- ## Scalar
- - [https://scalar.eecs.umich.edu](https://scalar.eecs.umich.edu)
- - date_published: 2024-05-07T14:56:30.959795+00:00
-
- ## U-M Library Search
- - [https://search.lib.umich.edu](https://search.lib.umich.edu)
- - date_published: 2024-06-13T11:34:05+00:00
-
- ## Home
- - [https://security.engin.umich.edu](https://security.engin.umich.edu)
- - date_published: 2024-07-14T04:46:25.908300+00:00
-
- ## Michigan Publishing Services
- - [https://services.publishing.umich.edu](https://services.publishing.umich.edu)
- - date_published: 2024-06-17T14:11:50+00:00
-
- ## Sexual Misconduct Reporting & Resources | University of Michigan
- - [https://sexualmisconduct.umich.edu](https://sexualmisconduct.umich.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Office of Budget and Planning
- - [http://sitemaker.umich.edu](http://sitemaker.umich.edu)
- - date_published: 2024-07-07T03:36:45+00:00
-
- ## WordPress Websites – Offered by LSA Technology Services
- - [https://sites.lsa.umich.edu](https://sites.lsa.umich.edu)
- - date_published: 2024-03-22T20:49:48.942501+00:00
-
- ## Home
- - [http://socialmedia.umich.edu](http://socialmedia.umich.edu)
- - date_published: 2024-07-02T03:48:31+00:00
-
- ## University of Michigan Marsal Family School of Education
- - [https://soe.umich.edu](https://soe.umich.edu)
- - date_published: 2024-05-07T14:56:22.276920+00:00
-
- ## Home | Standard Practice Guides - University of Michigan
- - [https://spg.umich.edu](https://spg.umich.edu)
- - date_published: 2024-07-02T03:49:21+00:00
-
- ## U-M School of Public Health
- - [https://sph.umich.edu](https://sph.umich.edu)
- - date_published: 2024-06-16T11:47:37.412686+00:00
-
- ## Survey Research Center
- - [https://src.isr.umich.edu](https://src.isr.umich.edu)
- - date_published: 2024-07-02T04:01:54+00:00
-
- ## Stamps School of Art & Design at the University of Michigan
- - [http://stamps.umich.edu](http://stamps.umich.edu)
- - date_published: 2024-07-03T15:50:56+00:00
-
- ## Strategic Vision - Michigan Engineering - University of Michigan
- - [https://strategicvision.engin.umich.edu](https://strategicvision.engin.umich.edu)
- - date_published: 2023-07-12T00:00:00+00:00
 

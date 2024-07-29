@@ -1,3 +1,295 @@
+ ## ÖGEM - Center for Advancing Learning and Teaching | Slogan is here
+ - [https://ogem.metu.edu.tr](https://ogem.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:37.064215+00:00
+
+ ## İŞ SAĞLIĞI VE GÜVENLİĞİ | OHS
+ - [http://ohs.metu.edu.tr](http://ohs.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:52.978773+00:00
+
+ ## METU Student Affairs Information System
+ - [https://oibs.metu.edu.tr](https://oibs.metu.edu.tr)
+ - date_published: 2024-06-17T15:28:55.700333+00:00
+
+ ## Ana Sayfa | ODTÜ ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI
+ - [https://oidb.metu.edu.tr](https://oidb.metu.edu.tr)
+ - date_published: 2024-05-02T10:26:29.200991+00:00
+
+ ## OpenMETU
+ - [https://open.metu.edu.tr](https://open.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:12.661903+00:00
+
+ ## Yeni Öğrenciler
+ - [https://oryantasyon.ncc.metu.edu.tr](https://oryantasyon.ncc.metu.edu.tr)
+ - date_published: 2024-06-14T13:07:46+00:00
+
+ ## ÖĞRENCİ TEMSİLCİLERİ SEÇİMİ ve ÜNİVERSİTE SEÇİM KURULU
+ - [https://otk.metu.edu.tr](https://otk.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:58.852502+00:00
+
+ ## Proje Destek Ofisi
+ - [https://pdo.metu.edu.tr](https://pdo.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:01.663337+00:00
+
+ ## Telefon Defteri ODTÜ.
+ - [https://phonebook.metu.edu.tr](https://phonebook.metu.edu.tr)
+ - date_published: 2020-03-12T07:57:35+00:00
+
+ ## METU | Portal
+ - [https://portal.metu.edu.tr](https://portal.metu.edu.tr)
+ - date_published: 2024-06-17T15:35:04.405603+00:00
+
+ ## Program Yeterlilikleri Bilgi Paketi
+ - [https://program.metu.edu.tr](https://program.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:53.563939+00:00
+
+ ## Instant Location of Rings
+ - [https://ring.metu.edu.tr](https://ring.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:48.403665+00:00
+
+ ## ODTÜ SEM - ODTÜ Sürekli Eğitim Merkezi
+ - [https://sem.metu.edu.tr](https://sem.metu.edu.tr)
+ - date_published: 2024-06-17T15:37:23.461440+00:00
+
+ ## METUSIS | METU Student Information System
+ - [https://sis.metu.edu.tr](https://sis.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:00.167692+00:00
+
+ ## ODTÜ Stratejik Planı
+ - [https://sp.metu.edu.tr](https://sp.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:52.293912+00:00
+
+ ## SAĞLIK VE REHBERLİK MERKEZİ | ODTÜ
+ - [https://srm.metu.edu.tr](https://srm.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:35+00:00
+
+ ## ODTÜ STUDENT PORTAL
+ - [https://student.metu.edu.tr](https://student.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:41.227824+00:00
+
+ ## ODTÜ Teknoloji Transfer Ofisi (TTO) – ODTÜ TTO
+ - [http://tto.metu.edu.tr](http://tto.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:23.649230+00:00
+
+ ## UYGULAMALI ETİK ARAŞTIRMA MERKEZİ
+ - [https://ueam.metu.edu.tr](https://ueam.metu.edu.tr)
+ - date_published: 2024-06-17T15:36:47.121465+00:00
+
+ ## Matematik Bölümü, Mimar Sinan Güzel Sanatar Üniversitesi
+ - [http://mat.msgsu.edu.tr](http://mat.msgsu.edu.tr)
+ - date_published: 2018-09-14T10:42:42+00:00
+
+ ## Basında ODTÜ
+ - [https://basinda.odtu.edu.tr](https://basinda.odtu.edu.tr)
+ - date_published: 2024-06-17T15:36:19.769512+00:00
+
+ ## Sayılarla - ODTÜ
+ - [http://ilkbakista.odtu.edu.tr](http://ilkbakista.odtu.edu.tr)
+ - date_published: 2024-04-25T09:19:43+00:00
+
+ ## T.C. ORDU ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI
+ - [https://bidb.odu.edu.tr](https://bidb.odu.edu.tr)
+ - date_published: 2024-06-17T15:58:29.280637+00:00
+
+ ## Rektör - SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://about.sakarya.edu.tr](https://about.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:48.834807+00:00
+
+ ## DSpace Home
+ - [https://acikerisim.sakarya.edu.tr](https://acikerisim.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:26:51.817663+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://adalet.sakarya.edu.tr](https://adalet.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:36.480439+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://adamyo.sakarya.edu.tr](https://adamyo.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:10.632499+00:00
+
+ ## Sakarya Üniversitesi Aday Öğrenci Bilgi Sistemi
+ - [https://adayogrenci.sakarya.edu.tr](https://adayogrenci.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:27.901194+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://aiit.sakarya.edu.tr](https://aiit.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:04.263114+00:00
+
+ ## Sakarya Üniversitesi | ARAŞTIRMA DEKANLIĞI
+ - [https://ardek.sakarya.edu.tr](https://ardek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:57.918074+00:00
+
+ ## Sakarya Üniversitesi | Bilimsel Araştırma Projeleri Koordinatörlüğü
+ - [https://bapk.sakarya.edu.tr](https://bapk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:00.656868+00:00
+
+ ## Sakarya Üniversitesi |
+ - [http://baum.sakarya.edu.tr](http://baum.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:57:48.395856+00:00
+
+ ## Sakarya Üniversitesi | Bilgisayar ve Bilişim Bilimleri Fakültesi
+ - [https://bf.sakarya.edu.tr](https://bf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:38.456541+00:00
+
+ ## Sakarya Üniversitesi | BİLİMSEL DERGİLER KOORDİNATÖRLÜĞÜ
+ - [https://bidek.sakarya.edu.tr](https://bidek.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:28.512872+00:00
+
+ ## Request Rejected
+ - [https://cdn0.sabis.sakarya.edu.tr](https://cdn0.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:41.731243+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://dhf.sakarya.edu.tr](https://dhf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:29.545366+00:00
+
+ ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
+ - [https://disiliskiler.sakarya.edu.tr](https://disiliskiler.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:45.846597+00:00
+
+ ## Sakarya Üniversitesi | Devlet Konservatuarı
+ - [https://dk.sakarya.edu.tr](https://dk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:11.993770+00:00
+
+ ## Doç.Dr. Damla KÜÇÜK
+ - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
+ - date_published: 2024-02-08T16:57:51.601420+00:00
+
+ ## Sakarya Üniversitesi | SENATO / ÜYK Kararları
+ - [https://duyuru.sakarya.edu.tr](https://duyuru.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:56.246355+00:00
+
+ ## Education Information System
+ - [https://ebs.sakarya.edu.tr](https://ebs.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:28:08.979246+00:00
+
+ ## Sakarya Üniversitesi | Eğitim Fakültesi
+ - [https://ef.sakarya.edu.tr](https://ef.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:02.157821+00:00
+
+ ## Sakarya Üniversitesi | Eğitim Bilimleri Enstitüsü
+ - [https://egitim.sakarya.edu.tr](https://egitim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:43.538224+00:00
+
+ ## Sakarya Üniversitesi | ENGELSİZ YAŞAM VE DESTEK KOORDİNATÖRLÜĞÜ
+ - [http://engelsiz.sakarya.edu.tr](http://engelsiz.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:05.542560+00:00
+
+ ## Sakarya Üniversitesi | + KOORDİNATÖRLÜĞÜ
+ - [https://erasmus.sakarya.edu.tr](https://erasmus.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:18.698156+00:00
+
+ ## Sakarya Üniversitesi | Etik Kurulu
+ - [https://etikkurulu.sakarya.edu.tr](https://etikkurulu.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:36.984382+00:00
+
+ ## Sakarya Üniversitesi | EUA KURUMSAL DEĞERLENDİRME PROGRAMI
+ - [https://eua.sakarya.edu.tr](https://eua.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:27:28.354578+00:00
+
+ ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
+ - [https://farabi.sakarya.edu.tr](https://farabi.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:07.599175+00:00
+
+ ## Sakarya Üniversitesi | Fen Bilimleri Enstitüsü
+ - [https://fbe.sakarya.edu.tr](https://fbe.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:24.595139+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://fen.sakarya.edu.tr](https://fen.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:45.253223+00:00
+
+ ## Sakarya Üniversitesi | Fikri ve Sınai Mülkiyet Hakları Koordinatörlüğü
+ - [https://fsmhk.sakarya.edu.tr](https://fsmhk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:20.249760+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://gsb.sakarya.edu.tr](https://gsb.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:32.479841+00:00
+
+ ## Sakarya Üniversitesi Haber Sitesi - Sakarya Üniversitesi Geleceğinize Yöne Verin
+ - [https://haber.sakarya.edu.tr](https://haber.sakarya.edu.tr)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
+ - [https://hesap.sabis.sakarya.edu.tr](https://hesap.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:57:46.824305+00:00
+
+ ## Sakarya Üniversitesi | Hukuk Fakültesi
+ - [https://hf.sakarya.edu.tr](https://hf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:30.099376+00:00
+
+ ## Sakarya Üniversitesi | Hukuk Müşavirliği
+ - [https://hukuk.sakarya.edu.tr](https://hukuk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:54.299246+00:00
+
+ ## Sakarya Üniversitesi | İlahiyat Fakültesi
+ - [https://if.sakarya.edu.tr](https://if.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:54.013774+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://ihale.sakarya.edu.tr](https://ihale.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:03.501412+00:00
+
+ ## Sakarya Üniversitesi | Personel Dairesi Başkanlığı Personel Alım İlanları
+ - [https://ilan.sakarya.edu.tr](https://ilan.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:57.639671+00:00
+
+ ## Sakarya Üniversitesi | İletişim Fakültesi
+ - [https://iletisim.sakarya.edu.tr](https://iletisim.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:39.941949+00:00
+
+ ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
+ - [https://ilko.sakarya.edu.tr](https://ilko.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:21.013429+00:00
+
+ ## Sakarya University | International Office
+ - [https://international.sakarya.edu.tr](https://international.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:02.281154+00:00
+
+ ## Sakarya Üniversitesi | İş Sağlığı ve Güvenliği Koordinatörlüğü
+ - [https://isgk.sakarya.edu.tr](https://isgk.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:32.994697+00:00
+
+ ## Sakarya Üniversitesi | İşletme Fakültesi
+ - [https://islf.sakarya.edu.tr](https://islf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:47.107140+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://itbf.sakarya.edu.tr](https://itbf.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:50.257935+00:00
+
+ ## "Bugün ve Gelecekte Hep Birlikte"
+ - [https://kariyer.sakarya.edu.tr](https://kariyer.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:52.325509+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://kultur.sakarya.edu.tr](https://kultur.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:40:35.356003+00:00
+
+ ## Sakarya Üniversitesi | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
+ - [https://kutuphane.sakarya.edu.tr](https://kutuphane.sakarya.edu.tr)
+ - date_published: 2024-02-08T16:27:45.731706+00:00
+
+ ## KURUMSAL YÖNETİM BİLGİ SİSTEMİ
+ - [https://kybs.sabis.sakarya.edu.tr](https://kybs.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:38:55.421688+00:00
+
+ ## KALİTE YÖNETİM BİLGİ SİSTEMİ
+ - [https://kys.sakarya.edu.tr](https://kys.sakarya.edu.tr)
+ - date_published: 2024-05-02T10:27:25.208119+00:00
+
+ ## SABİS | Giriş Sayfası
+ - [https://labyonetim.sabis.sakarya.edu.tr](https://labyonetim.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:08.594749+00:00
+
+ ## Sakarya Üniversitesi |
+ - [https://mediko.sakarya.edu.tr](https://mediko.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:39:16.063865+00:00
+
+ ## Sakarya Üniversitesi Genel Yemek Menüsü
+ - [http://menu.sabis.sakarya.edu.tr](http://menu.sabis.sakarya.edu.tr)
+ - date_published: 2024-06-17T15:41:44+00:00
+
  ## Sakarya Üniversitesi | MEVLANA KURUM KOORDİNATÖRLÜĞÜ
  - [https://mevlana.sakarya.edu.tr](https://mevlana.sakarya.edu.tr)
  - date_published: 2024-06-17T15:40:31.589281+00:00
@@ -3491,6 +3783,10 @@
  - [https://www.snowpeak.com.tw](https://www.snowpeak.com.tw)
  - date_published: 2024-07-15T06:46:42.549315+00:00
 
+ ## Sony Pictures Taiwan | 主頁 Homepage
+ - [http://www.sonypictures.com.tw](http://www.sonypictures.com.tw)
+ - date_published: 2024-04-12T00:00:00+00:00
+
  ## Directory of Taiwan | 台灣指南
  - [https://directory.taiwannews.com.tw](https://directory.taiwannews.com.tw)
  - date_published: 2024-05-02T10:39:47.994459+00:00
@@ -3746,303 +4042,4 @@
  ## 台大寫作教學中心 – AWEC
  - [https://www.awec.ntu.edu.tw](https://www.awec.ntu.edu.tw)
  - date_published: 2024-07-14T10:38:26.367696+00:00
-
- ## AIMM Research Group - NTU CMLab
- - [http://www.cmlab.csie.ntu.edu.tw](http://www.cmlab.csie.ntu.edu.tw)
- - date_published: 2023-03-02T14:13:56+00:00
-
- ## 國立臺灣大學資訊工程學系
- - [https://www.csie.ntu.edu.tw](https://www.csie.ntu.edu.tw)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - CTLD x DLC
- - [https://www.dlc.ntu.edu.tw](https://www.dlc.ntu.edu.tw)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## 國立臺灣大學 - 電機工程學系
- - [https://ee.ntu.edu.tw](https://ee.ntu.edu.tw)
- - date_published: 2024-05-11T10:26:32.434485+00:00
-
- ## 國立臺灣大學生物資源暨農學院附設農業試驗場
- - [https://www.farm.ntu.edu.tw](https://www.farm.ntu.edu.tw)
- - date_published: 2024-07-14T10:39:06.712798+00:00
-
- ## 未來大學開創未來 | Futurentu | 台北市
- - [https://www.future.ntu.edu.tw](https://www.future.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:09.504854+00:00
-
- ## 歡迎來到 國立臺灣大學圖書館 | 國立臺灣大學圖書館
- - [https://www.lib.ntu.edu.tw](https://www.lib.ntu.edu.tw)
- - date_published: 2024-07-14T10:38:31.663613+00:00
-
- ## 國立臺灣大學 學校分部總辦事處網站
- - [http://www.ntubca.ntu.edu.tw](http://www.ntubca.ntu.edu.tw)
- - date_published: 2024-01-18T03:06:29+00:00
-
- ## 國立臺灣大學
- - [https://www.ntu.edu.tw](https://www.ntu.edu.tw)
- - date_published: 2024-05-11T10:26:37.157139+00:00
-
- ## NYCU CSIT Mirror Site
- - [https://alpine.cs.nycu.edu.tw](https://alpine.cs.nycu.edu.tw)
- - date_published: 2024-07-20T15:58:27.437749+00:00
-
- ## 國際電腦漢字及異體字知識庫
- - [http://chardb.iis.sinica.edu.tw](http://chardb.iis.sinica.edu.tw)
- - date_published: 2024-07-12T05:06:01.916389+00:00
-
- ## 中央研究院 資訊科學研究所
- - [https://homepage.iis.sinica.edu.tw](https://homepage.iis.sinica.edu.tw)
- - date_published: 2024-07-19T01:31:46+00:00
-
- ## - niche computing science
- - [https://scm.iis.sinica.edu.tw](https://scm.iis.sinica.edu.tw)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## 中央研究院 兩千年中西曆轉換
- - [http://sinocal.sinica.edu.tw](http://sinocal.sinica.edu.tw)
- - date_published: 2024-07-12T05:05:58.043521+00:00
-
- ## Information
- - [https://www2020.citi.sinica.edu.tw](https://www2020.citi.sinica.edu.tw)
- - date_published: 2020-10-23T09:52:02+00:00
-
- ## Institute of Astronomy & Astrophysics, Academia Sinica
- - [https://www.asiaa.sinica.edu.tw](https://www.asiaa.sinica.edu.tw)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## {{($state.current.data.pageTitleZH)?$state.current.data.pageTitleZH+' - '+title.zh:title.zh}}
- - [https://www.citi.sinica.edu.tw](https://www.citi.sinica.edu.tw)
- - date_published: 2024-05-21T07:42:49+00:00
-
- ## 中央研究院 資訊科學研究所
- - [http://www.iis.sinica.edu.tw](http://www.iis.sinica.edu.tw)
- - date_published: 2024-06-21T16:15:10+00:00
-
- ## 影視及流行音樂產業局
- - [https://www.bamid.gov.tw](https://www.bamid.gov.tw)
- - date_published: 2024-07-03T23:04:10.640812+00:00
-
- ## 外交部領事事務局全球資訊網
- - [https://www.boca.gov.tw](https://www.boca.gov.tw)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## 首頁-衛生福利部疾病管制署
- - [https://www.cdc.gov.tw](https://www.cdc.gov.tw)
- - date_published: 2024-07-14T10:35:46.063737+00:00
-
- ## 公務人員保障暨培訓委員會
- - [http://www.csptc.gov.tw](http://www.csptc.gov.tw)
- - date_published: 2024-06-17T16:56:43.750124+00:00
-
- ## 403 - 禁止: 拒絕存取。
- - [https://cfcmweb.cy.gov.tw](https://cfcmweb.cy.gov.tw)
- - date_published: 2024-07-16T20:57:44.068550+00:00
-
- ## 綠色生活
- - [https://greenliving.epa.gov.tw](https://greenliving.epa.gov.tw)
- - date_published: 2023-10-19T07:37:14+00:00
-
- ## 行政院全球資訊網
- - [https://www.ey.gov.tw](https://www.ey.gov.tw)
- - date_published: 2024-06-17T16:48:03+00:00
-
- ## 政府研究資訊系統 GRB
- - [https://www.grb.gov.tw](https://www.grb.gov.tw)
- - date_published: 2024-07-03T10:36:47+00:00
-
- ## 哈客網
- - [https://wiki.hakka.gov.tw](https://wiki.hakka.gov.tw)
- - date_published: 2024-07-12T05:29:46.417411+00:00
-
- ## 首頁-公共政策網路參與平臺
- - [https://join.gov.tw](https://join.gov.tw)
- - date_published: 2024-06-17T16:54:56.583309+00:00
-
- ## 宜蘭博物館家族
- - [http://families.lym.gov.tw](http://families.lym.gov.tw)
- - date_published: 2024-06-17T16:56:38+00:00
-
- ## 蘭陽博物館志工網站
- - [http://volunteer.lym.gov.tw](http://volunteer.lym.gov.tw)
- - date_published: 2024-06-17T16:57:08.900313+00:00
-
- ## 蘭陽博物館
- - [https://www.lym.gov.tw](https://www.lym.gov.tw)
- - date_published: 2024-05-02T10:40:50.973302+00:00
-
- ## Cierpliwości...
- - [https://accessibility.moda.gov.tw](https://accessibility.moda.gov.tw)
- - date_published: 2024-05-02T10:40:32.005882+00:00
-
- ## 中華民國外交部全球資訊網
- - [https://www.mofa.gov.tw](https://www.mofa.gov.tw)
- - date_published: 2024-07-07T10:16:39.707813+00:00
-
- ## 全國法規資料庫
- - [http://law.moj.gov.tw](http://law.moj.gov.tw)
- - date_published: 2024-07-12T17:23:26.967208+00:00
-
- ## 法務部廉政署中文網
- - [https://www.aac.moj.gov.tw](https://www.aac.moj.gov.tw)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## 行政院公報資訊網
- - [https://gazette.nat.gov.tw](https://gazette.nat.gov.tw)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 雙語資源網Bilingual Portal
- - [https://bilingual.ndc.gov.tw](https://bilingual.ndc.gov.tw)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 臺灣女人 –  穿梭的記憶‧臺灣女性流轉年華
- - [https://women.nmth.gov.tw](https://women.nmth.gov.tw)
- - date_published: 2024-06-22T12:42:09.578615+00:00
-
- ## 故宮典藏資料檢索
- - [https://digitalarchive.npm.gov.tw](https://digitalarchive.npm.gov.tw)
- - date_published: 2024-06-17T05:25:48+00:00
-
- ## 故宮南院 | 喬木數位典藏資料庫
- - [https://i-trees.npm.gov.tw](https://i-trees.npm.gov.tw)
- - date_published: 2024-06-17T16:53:26.139410+00:00
-
- ## 國立故宮博物院主管法規共用系統-最新訊息
- - [https://law.npm.gov.tw](https://law.npm.gov.tw)
- - date_published: 2024-05-02T10:40:16.228020+00:00
-
- ## 國立故宮博物院南部院區
- - [https://south.npm.gov.tw](https://south.npm.gov.tw)
- - date_published: 2024-05-02T10:40:03.203961+00:00
-
- ## 國立故宮博物院-國立故宮博物院
- - [https://www.npm.gov.tw](https://www.npm.gov.tw)
- - date_published: 2023-11-13T13:46:38.432750+00:00
- - tags: ['museum']
-
- ## 首頁 | 新北市立十三行博物館
- - [http://www.sshm.ntpc.gov.tw](http://www.sshm.ntpc.gov.tw)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 經濟部國際貿易署經貿資訊網
- - [https://www.trade.gov.tw](https://www.trade.gov.tw)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 桃園市政府海岸及資源循環工程處
- - [https://www.tyoca.gov.tw](https://www.tyoca.gov.tw)
- - date_published: 2024-06-17T05:07:10+00:00
-
- ## TWNIC 財團法人台灣網路資訊中心
- - [https://www.twnic.net.tw](https://www.twnic.net.tw)
- - date_published: 2024-07-07T10:15:51.171269+00:00
-
- ## Homepage
- - [https://www.ait.org.tw](https://www.ait.org.tw)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## BCSD TAIWAN
- - [https://bcsd.org.tw](https://bcsd.org.tw)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## CSROC中華民國電腦學會
- - [http://www.csroc.org.tw](http://www.csroc.org.tw)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## TaiwanICDF
- - [https://www.icdf.org.tw](https://www.icdf.org.tw)
- - date_published: 2024-07-14T18:59:01.677595+00:00
-
- ## Institute for Information Industry(III)
- - [https://web.iii.org.tw](https://web.iii.org.tw)
- - date_published: 2024-07-07T10:14:19.737079+00:00
-
- ## 財團法人陽明海運文化基金會
- - [http://www.ocam.org.tw](http://www.ocam.org.tw)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## 人格測試
- - [https://www.oca.scientology.org.tw](https://www.oca.scientology.org.tw)
- - date_published: 2024-06-17T16:40:49.163698+00:00
-
- ## 山達基教會：L. 羅恩 賀伯特、戴尼提、什麼是山達基？、書籍、信仰、大衛 密斯凱維吉
- - [https://www.scientology.org.tw](https://www.scientology.org.tw)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## 山達基宗教：背景、理論和宗教實踐
- - [https://www.scientologyreligion.org.tw](https://www.scientologyreligion.org.tw)
- - date_published: 2024-06-06T19:41:35.098169+00:00
-
- ## 財團法人台灣建築中心 - TABC台灣建築中心
- - [https://www.tabc.org.tw](https://www.tabc.org.tw)
- - date_published: 2022-10-06T09:05:21+00:00
-
- ## 台灣流體傳動工業全球資訊網
- - [https://www.tfpa.org.tw](https://www.tfpa.org.tw)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## 13
- - [https://13h.tw](https://13h.tw)
- - date_published: 2022-04-05T19:22:59+00:00
-
- ## 20th Century Studios Taiwan | Official Website
- - [https://www.20thcenturystudios.tw](https://www.20thcenturystudios.tw)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## AIdea
- - [https://aidea-web.tw](https://aidea-web.tw)
- - date_published: 2024-05-10T05:09:47.020373+00:00
-
- ## Angular 中文文件
- - [https://angular.tw](https://angular.tw)
- - date_published: 2024-05-31T11:09:05.729061+00:00
-
- ## Android 台灣中文網 智慧型手機 免費 遊戲下載 軟體下載 韌體下載 APP下載 刷機教程 -  APK.TW
- - [https://apk.tw](https://apk.tw)
- - date_published: 2024-06-29T17:56:49.294194+00:00
-
- ## Apowersoft - 為您提供專業的商務辦公及日常生活的桌面軟體和線上應用
- - [https://www.apowersoft.tw](https://www.apowersoft.tw)
- - date_published: 2024-06-23T16:06:15.736776+00:00
-
- ## Index of /
- - [http://mirror.archlinux.tw](http://mirror.archlinux.tw)
- - date_published: 2024-07-13T17:34:46.097959+00:00
-
- ## Jasper | AI copilot for enterprise marketing teams
- - [https://www.ata.tw](https://www.ata.tw)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## BARE: The Google Reader experience for your Twitter timeline.
- - [https://bare.tw](https://bare.tw)
- - date_published: 2024-07-20T03:10:14.193522+00:00
-
- ## 戴尼提和山達基的教材
- - [https://www.bridgepub.tw](https://www.bridgepub.tw)
- - date_published: 2024-06-06T20:22:01.491687+00:00
-
- ## Martin's website/blog thingy
- - [https://clehaxze.tw](https://clehaxze.tw)
- - date_published: 2024-06-22T07:00:36.332710+00:00
- - tags: ['personal']
-
- ## The 13th Asia Pacific Conference on Vision
- - [https://apcv2017.conf.tw](https://apcv2017.conf.tw)
- - date_published: 2024-07-13T11:54:24.697802+00:00
-
- ## Attention Required! | Cloudflare
- - [http://dcard.tw](http://dcard.tw)
- - date_published: 2024-06-18T09:32:14.939306+00:00
-
- ## DDraceNetwork
- - [https://ddnet.tw](https://ddnet.tw)
- - date_published: 2024-05-08T10:51:38.449214+00:00
- - tags: ['open source', 'video game']
-
- ## 迪卡儂 台灣官方網站 -  降價出清，低至6折，萬種商品，想買就買 - 超取$199 、宅配$499 免運
- - [https://www.decathlon.tw](https://www.decathlon.tw)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## 戴尼提中文官方網站：購買L. 羅恩 賀伯特的著作，觀看戴尼提相關影片《戴尼提簡介》
- - [https://www.dianetics.tw](https://www.dianetics.tw)
- - date_published: 2024-06-17T16:42:22.000718+00:00
 

@@ -1,3 +1,207 @@
+ ## Introduction - mostly-adequate-guide
+ - [https://mostly-adequate.gitbook.io](https://mostly-adequate.gitbook.io)
+ - date_published: 2023-10-25T19:43:33.052682+00:00
+
+ ## GitBook
+ - [https://musicq.gitbook.io](https://musicq.gitbook.io)
+ - date_published: 2023-10-31T05:58:25.964810+00:00
+
+ ## Introduction | Nocturne
+ - [https://nocturne-xyz.gitbook.io](https://nocturne-xyz.gitbook.io)
+ - date_published: 2024-06-23T16:52:36.977661+00:00
+
+ ## Contexto | Guía de apertura de datos de cambio climático
+ - [https://open-data-charter.gitbook.io](https://open-data-charter.gitbook.io)
+ - date_published: 2024-06-12T12:16:30.312066+00:00
+
+ ## About | ProjectSend
+ - [https://projectsend.gitbook.io](https://projectsend.gitbook.io)
+ - date_published: 2024-05-14T04:06:00.346379+00:00
+
+ ## Home - Morrowind++
+ - [https://r-fuzzo.gitbook.io](https://r-fuzzo.gitbook.io)
+ - date_published: 2023-10-25T11:17:42.096564+00:00
+
+ ## GitBook
+ - [https://s0cm0nkey.gitbook.io](https://s0cm0nkey.gitbook.io)
+ - date_published: 2024-05-11T08:25:58.186000+00:00
+
+ ## ShmooCon Proceedings 2019 | 2019 ShmooCon Proceedings
+ - [https://shmoo.gitbook.io](https://shmoo.gitbook.io)
+ - date_published: 2024-06-03T08:18:45.546828+00:00
+
+ ## Introduction - 0xTriboulet
+ - [https://steve-s.gitbook.io](https://steve-s.gitbook.io)
+ - date_published: 2023-10-25T19:43:36.041961+00:00
+
+ ## GitBook
+ - [https://tiyo.gitbook.io](https://tiyo.gitbook.io)
+ - date_published: 2024-06-18T14:12:15+00:00
+
+ ## О сервисе Топ-100 | Рамблер/топ-100: Руководство разработчика
+ - [https://top-100-writer.gitbook.io](https://top-100-writer.gitbook.io)
+ - date_published: 2024-07-19T20:56:15.069088+00:00
+
+ ## 关于 UX 迷思 | UX 迷思 · 中文版
+ - [https://uxui.gitbook.io](https://uxui.gitbook.io)
+ - date_published: 2024-07-04T12:50:09.237679+00:00
+
+ ## Vaccines.gov Provider Resources | Vaccines.gov - Provider Resources
+ - [https://vaccine-resources.gitbook.io](https://vaccine-resources.gitbook.io)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Introduction | OPFN
+ - [https://vaporware.gitbook.io](https://vaporware.gitbook.io)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Intro | Vidazoo
+ - [https://vidazoo.gitbook.io](https://vidazoo.gitbook.io)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Knowledge-base
+ - [https://yoan-thirion.gitbook.io](https://yoan-thirion.gitbook.io)
+ - date_published: 2024-06-17T14:32:31.163999+00:00
+
+ ## Welcome | GitBook Documentation
+ - [https://gitbookio.gitbooks.io](https://gitbookio.gitbooks.io)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Page Not Found · GitBook (Legacy)
+ - [https://kelu124.gitbooks.io](https://kelu124.gitbooks.io)
+ - date_published: 2023-10-25T19:43:37.250130+00:00
+
+ ## Blog | Gitea Blog
+ - [https://blog.gitea.io](https://blog.gitea.io)
+ - date_published: 2023-10-25T19:43:39.096298+00:00
+
+ ## Code - Code
+ - [https://code.gitea.io](https://code.gitea.io)
+ - date_published: 2024-05-12T05:10:07.641099+00:00
+
+ ## Gitea
+ - [https://dl.gitea.io](https://dl.gitea.io)
+ - date_published: 2024-07-15T04:25:10.122280+00:00
+
+ ## Documentation | Gitea Documentation
+ - [https://docs.gitea.io](https://docs.gitea.io)
+ - date_published: 2024-04-29T07:13:37.030302+00:00
+
+ ## Gitea Official Website
+ - [https://gitea.io](https://gitea.io)
+ - date_published: 2024-04-29T07:13:34.933898+00:00
+
+ ## Gitea OSS Mastodon
+ - [https://social.gitea.io](https://social.gitea.io)
+ - date_published: 2024-05-09T04:56:02.220385+00:00
+
+ ## Gitea: Git with a cup of tea
+ - [https://try.gitea.io](https://try.gitea.io)
+ - date_published: 2024-05-09T04:56:03.410783+00:00
+
+ ## Sign in · GitLab
+ - [https://gitgud.io](https://gitgud.io)
+ - date_published: 2023-12-20T17:38:47.271579+00:00
+
+ ## Security Is Broken
+ - [https://00xbyte.github.io](https://00xbyte.github.io)
+ - date_published: 2023-12-22T11:55:33.098731+00:00
+
+ ## Dong Zhang
+ - [https://0nutation.github.io](https://0nutation.github.io)
+ - date_published: 2024-05-10T06:09:45.259718+00:00
+
+ ## Homepage
+ - [https://0x161e-swei.github.io](https://0x161e-swei.github.io)
+ - date_published: 2024-05-15T01:18:16+00:00
+
+ ## 0xd3vil
+ - [https://0xd3vil.github.io](https://0xd3vil.github.io)
+ - date_published: 2024-07-08T15:30:54+00:00
+
+ ## 0xInfection's Blog
+ - [https://0xinfection.github.io](https://0xinfection.github.io)
+ - date_published: 2024-07-25T18:07:32.204829+00:00
+
+ ## thin threads
+ - [https://10maurycy10.github.io](https://10maurycy10.github.io)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 152334H
+ - [https://152334h.github.io](https://152334h.github.io)
+ - date_published: 2023-10-25T19:43:39.775300+00:00
+
+ ## 16n
+ - [https://16n-faderbank.github.io](https://16n-faderbank.github.io)
+ - date_published: 2018-04-08T00:00:00+00:00
+
+ ## About Me
+ - [https://17zhangw.github.io](https://17zhangw.github.io)
+ - date_published: 2024-07-23T22:29:48.609645+00:00
+
+ ## Kai Yan’s Personal Website
+ - [https://289371298.github.io](https://289371298.github.io)
+ - date_published: 2024-06-13T05:15:46+00:00
+
+ ## 2 Brew
+ - [https://2brew.github.io](https://2brew.github.io)
+ - date_published: 2024-06-03T11:19:24.843662+00:00
+
+ ## Digital Design and Development Club (3DC)
+ - [https://3dcdsc.github.io](https://3dcdsc.github.io)
+ - date_published: 2021-05-08T14:30:38+00:00
+
+ ## Novel View Synthesis with Diffusion Models
+ - [https://3d-diffusion.github.io](https://3d-diffusion.github.io)
+ - date_published: 2023-10-25T19:43:40.520175+00:00
+
+ ## 3D Foundation Models Workshop
+ - [https://3dfm.github.io](https://3dfm.github.io)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 3dgv.github.io
+ - [https://3dgv.github.io](https://3dgv.github.io)
+ - date_published: 2021-12-08T05:50:22+00:00
+
+ ## 3D-in-the-Wild
+ - [https://3d-in-the-wild.github.io](https://3d-in-the-wild.github.io)
+ - date_published: 2024-07-24T05:50:12.049502+00:00
+
+ ## 3dlg-hcvc
+ - [https://3dlg-hcvc.github.io](https://3dlg-hcvc.github.io)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## 3D Moments from Near-Duplicate Photos
+ - [https://3d-moments.github.io](https://3d-moments.github.io)
+ - date_published: 2023-06-08T22:40:59+00:00
+
+ ## 3D Motion Magnification: Visualizing Subtle Motions with Time-Varying Neural Fields
+ - [https://3d-motion-magnification.github.io](https://3d-motion-magnification.github.io)
+ - date_published: 2023-09-12T02:08:06+00:00
+
+ ## Redirecting…
+ - [https://3dvconf.github.io](https://3dvconf.github.io)
+ - date_published: 2024-06-21T20:00:19+00:00
+
+ ## 3D Vision and Modeling Challenges in eCommerce
+ - [https://3dv-in-ecommerce.github.io](https://3dv-in-ecommerce.github.io)
+ - date_published: 2024-04-30T05:11:47.544754+00:00
+
+ ## 4DHOI 2023
+ - [https://4dhoi.github.io](https://4dhoi.github.io)
+ - date_published: 2023-08-14T09:30:48+00:00
+
+ ## Page Redirection
+ - [https://4dmodeller.github.io](https://4dmodeller.github.io)
+ - date_published: 2023-12-23T11:58:31.192102+00:00
+
+ ## 64k Scene | Gallery
+ - [https://64k-scene.github.io](https://64k-scene.github.io)
+ - date_published: 2024-04-09T15:34:43+00:00
+
+ ## https://9fans.github.io
+ - [https://9fans.github.io](https://9fans.github.io)
+ - date_published: 2024-01-09T03:32:47.070182+00:00
+
  ## Alexander Popov
  - [https://a13xp0p0v.github.io](https://a13xp0p0v.github.io)
  - date_published: 2023-02-01T00:00:00+00:00
@@ -3846,210 +4050,4 @@ for Articulated Avatars
  ## Frets On Fire X
  - [https://fofix.github.io](https://fofix.github.io)
  - date_published: 2023-01-01T15:48:22+00:00
-
- ## Redirecting…
- - [https://fontforge.github.io](https://fontforge.github.io)
- - date_published: 2023-01-01T06:09:39+00:00
-
- ## Format.JS | Format.JS
- - [https://formatjs.github.io](https://formatjs.github.io)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Forsaken Video Game
- - [https://forsakenx.github.io](https://forsakenx.github.io)
- - date_published: 2022-10-01T00:00:31+00:00
-
- ## Matthew Foxx - Portfolio and Blog
- - [https://foxxmd.github.io](https://foxxmd.github.io)
- - date_published: 2023-04-05T16:30:57+00:00
-
- ## FABIO PALOMBA | Assistant Professor
- - [https://fpalomba.github.io](https://fpalomba.github.io)
- - date_published: 2024-06-28T12:38:05+00:00
-
- ## Federico Perazzi
- - [https://fperazzi.github.io](https://fperazzi.github.io)
- - date_published: 2021-07-29T11:45:53+00:00
-
- ## Welcome!
- - [https://fpgaminer.github.io](https://fpgaminer.github.io)
- - date_published: 2013-03-29T00:00:00+00:00
-
- ## Fractaled Mind: Thoughts on Ruby and beyond
- - [https://fractaledmind.github.io](https://fractaledmind.github.io)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## The home page
- - [https://fractalfir.github.io](https://fractalfir.github.io)
- - date_published: 2023-10-25T19:45:40.600968+00:00
-
- ## fragglet.github.io
- - [https://fragglet.github.io](https://fragglet.github.io)
- - date_published: 2024-04-25T11:03:54.398288+00:00
- - tags: ['lha', 'dosbox', 'personal']
-
- ## Francis Engelmann
- - [http://francisengelmann.github.io](http://francisengelmann.github.io)
- - date_published: 2024-07-09T16:50:37+00:00
-
- ## Zhiyang (Frank) Dou
- - [https://frank-zy-dou.github.io](https://frank-zy-dou.github.io)
- - date_published: 2024-07-24T05:49:46.236148+00:00
-
- ## FRCSyn: Face Recognition Challenge in the Era of Synthetic Data
- - [https://frcsyn.github.io](https://frcsyn.github.io)
- - date_published: 2024-06-13T14:45:14+00:00
-
- ## Frederick Liu
- - [https://frederick0329.github.io](https://frederick0329.github.io)
- - date_published: 2024-01-16T01:47:31+00:00
-
- ## Frederik Warburg
- - [https://frederikwarburg.github.io](https://frederikwarburg.github.io)
- - date_published: 2024-05-26T18:17:27+00:00
-
- ## About me
- - [https://fredrikaverpil.github.io](https://fredrikaverpil.github.io)
- - date_published: 2024-06-01T14:46:23+00:00
-
- ## FreeCAD Development Blog
- - [https://freecad.github.io](https://freecad.github.io)
- - date_published: 2018-11-10T21:11:00+00:00
-
- ## Freedoom
- - [https://freedoom.github.io](https://freedoom.github.io)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Welcome to the FreeMiNT Project website
- - [https://freemint.github.io](https://freemint.github.io)
- - date_published: 2021-07-09T05:02:38+00:00
-
- ## FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation
- - [https://freeseg.github.io](https://freeseg.github.io)
- - date_published: 2023-04-20T14:08:33+00:00
-
- ## Dynamic View Synthesis from Dynamic Monocular Video
- - [https://free-view-video.github.io](https://free-view-video.github.io)
- - date_published: 2021-12-14T03:00:27+00:00
-
- ## Welcome to The GutHub!
- - [https://frguthmann.github.io](https://frguthmann.github.io)
- - date_published: 2024-06-25T11:53:39+00:00
-
- ## FriedrichRober.github.io
- - [https://friedrichrober.github.io](https://friedrichrober.github.io)
- - date_published: 2021-11-11T08:59:01+00:00
-
- ## New Frontiers in Learning, Control, and Dynamical Systems
- - [https://frontiers4lcd.github.io](https://frontiers4lcd.github.io)
- - date_published: 2023-07-27T07:00:50+00:00
-
- ## Welcome
- - [http://fruch.github.io](http://fruch.github.io)
- - date_published: 2022-06-29T19:25:20+00:00
-
- ## Frycos Security Diary | Blogging mainly
- - [https://frycos.github.io](https://frycos.github.io)
- - date_published: 2023-10-25T19:45:41.948422+00:00
-
- ## FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects
- - [https://fsd6d.github.io](https://fsd6d.github.io)
- - date_published: 2024-06-23T11:31:07+00:00
-
- ## F★ for the masses
- - [https://fstarlang.github.io](https://fstarlang.github.io)
- - date_published: 2019-04-17T00:00:00+00:00
-
- ## fungos' home
- - [https://fungos.github.io](https://fungos.github.io)
- - date_published: 2020-01-14T22:33:33+00:00
-
- ## CVPR 2019 Workshop: Computer Vision After 5 Years
- - [https://futurecv.github.io](https://futurecv.github.io)
- - date_published: 2019-06-09T19:30:06+00:00
-
- ## Fuzz4All: Universal Fuzzing with Large Language Models
- - [https://fuzz4all.github.io](https://fuzz4all.github.io)
- - date_published: 2024-01-30T19:41:37+00:00
-
- ## FUZZING'24 Workshop @ ISSTA
- - [https://fuzzingworkshop.github.io](https://fuzzingworkshop.github.io)
- - date_published: 2024-06-20T15:01:43+00:00
-
- ## FVC
- - [http://fvc-workshop.github.io](http://fvc-workshop.github.io)
- - date_published: 2021-06-25T16:38:52+00:00
-
- ## Fei Xia's Homepage - Senior Research Scientist at Google DeepMind - Robotics Team
- - [https://fxia22.github.io](https://fxia22.github.io)
- - date_published: 2024-03-19T07:03:23+00:00
-
- ## Fylux · Things
- - [https://fylux.github.io](https://fylux.github.io)
- - date_published: 2020-04-27T09:36:24+00:00
-
- ## GALA3D: Towards Text-to-3D Complex Scene Generation
- - [https://gala3d.github.io](https://gala3d.github.io)
- - date_published: 2024-02-20T04:05:02+00:00
-
- ## gambitph.github.com by gambitph
- - [https://gambitph.github.io](https://gambitph.github.io)
- - date_published: 2020-05-18T03:25:38+00:00
-
- ## Gamedev Framework (gf)
- - [https://gamedevframework.github.io](https://gamedevframework.github.io)
- - date_published: 2023-07-14T00:00:00+00:00
-
- ## Games on Whales
- - [https://games-on-whales.github.io](https://games-on-whales.github.io)
- - date_published: 2024-07-02T16:14:26+00:00
-
- ## GenAI Media Generation Challenge Workshop
- - [https://gamgc.github.io](https://gamgc.github.io)
- - date_published: 2024-06-17T21:50:05+00:00
-
- ## Gaochang Wu, 吴高昌
- - [https://gaochangwu.github.io](https://gaochangwu.github.io)
- - date_published: 2022-10-10T03:39:59+00:00
-
- ## Chen - Personal page
- - [https://gaochen315.github.io](https://gaochen315.github.io)
- - date_published: 2024-06-14T23:31:58+00:00
-
- ## About me
- - [https://gaojl19.github.io](https://gaojl19.github.io)
- - date_published: 2023-09-22T02:31:42+00:00
-
- ## Gaoxiang Luo
- - [https://gaoxiangluo.github.io](https://gaoxiangluo.github.io)
- - date_published: 2024-06-27T04:22:51+00:00
-
- ## Gaoyue Zhou
- - [https://gaoyuezhou.github.io](https://gaoyuezhou.github.io)
- - date_published: 2024-04-26T08:16:03+00:00
-
- ## Undeposited GAP packages
- - [https://gap-packages.github.io](https://gap-packages.github.io)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Garrett Baker
- - [https://garrettebaker.github.io](https://garrettebaker.github.io)
- - date_published: 2024-04-13T03:29:31+00:00
-
- ## Ardour
- - [https://garysferrao.github.io](https://garysferrao.github.io)
- - date_published: 2016-05-06T00:00:00+00:00
- - tags: ['personal']
-
- ## Gasuleg
- - [https://gasuleg.github.io](https://gasuleg.github.io)
- - date_published: 2017-08-19T00:00:00+00:00
-
- ## GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object
- - [https://gaussianobject.github.io](https://gaussianobject.github.io)
- - date_published: 2024-02-21T13:31:40+00:00
-
- ## Gavin Ray Blog
- - [https://gavinray97.github.io](https://gavinray97.github.io)
- - date_published: 2023-10-25T19:45:44.346786+00:00
 

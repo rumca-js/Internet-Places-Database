@@ -1,3 +1,171 @@
+ ## Film and Media Studies –  | Kalamazoo College
+ - [https://filmandmediastudies.kzoo.edu](https://filmandmediastudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:21.062141+00:00
+
+ ## Office of Financial Aid –  | Kalamazoo College
+ - [https://finaid.kzoo.edu](https://finaid.kzoo.edu)
+ - date_published: 2024-05-07T19:25:02.513515+00:00
+
+ ## Fitness & Wellness Center –  | Kalamazoo College
+ - [https://fitnesscenter.kzoo.edu](https://fitnesscenter.kzoo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Log in to Faculty Personnel Committee
+ - [https://fpc.kzoo.edu](https://fpc.kzoo.edu)
+ - date_published: 2024-05-07T19:22:24.888096+00:00
+
+ ## French and Francophone Studies –  | Kalamazoo College
+ - [https://french.kzoo.edu](https://french.kzoo.edu)
+ - date_published: 2024-05-07T19:24:36.709196+00:00
+
+ ## First Year Experience –  | Kalamazoo College
+ - [https://fye.kzoo.edu](https://fye.kzoo.edu)
+ - date_published: 2024-07-01T13:07:06.521166+00:00
+
+ ## Gardens and Growing Spaces –  | Kalamazoo College
+ - [https://gardens.kzoo.edu](https://gardens.kzoo.edu)
+ - date_published: 2024-05-07T19:24:50.232506+00:00
+
+ ## Department of German Studies –  | Kalamazoo College
+ - [https://german.kzoo.edu](https://german.kzoo.edu)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Global Crossroads –  | Kalamazoo College
+ - [https://globalcrossroads.kzoo.edu](https://globalcrossroads.kzoo.edu)
+ - date_published: 2024-05-07T19:22:29.079782+00:00
+
+ ## Student Health Center –  | Kalamazoo College
+ - [https://healthcenter.kzoo.edu](https://healthcenter.kzoo.edu)
+ - date_published: 2024-05-07T19:21:36.379512+00:00
+
+ ## HILL Project – Humanities Integrated Locational Learning –  | Kalamazoo College
+ - [https://hill.kzoo.edu](https://hill.kzoo.edu)
+ - date_published: 2024-05-07T19:24:19.761219+00:00
+
+ ## History Department –  | Kalamazoo College
+ - [https://history.kzoo.edu](https://history.kzoo.edu)
+ - date_published: 2024-05-07T19:23:57.402201+00:00
+
+ ## Log in to Hornet Hive
+ - [https://hive.kzoo.edu](https://hive.kzoo.edu)
+ - date_published: 2024-05-07T19:20:54.316236+00:00
+
+ ## Homecoming and Reunions –  | Kalamazoo College
+ - [https://homecoming.kzoo.edu](https://homecoming.kzoo.edu)
+ - date_published: 2024-07-01T12:48:19.910931+00:00
+
+ ## Kalamazoo College Hornet HQ - Ellucian Student Application
+ - [https://hornethq.kzoo.edu](https://hornethq.kzoo.edu)
+ - date_published: 2024-05-07T19:20:56.475717+00:00
+
+ ## Kalamazoo College Athletics
+ - [https://hornets.kzoo.edu](https://hornets.kzoo.edu)
+ - date_published: 2024-05-07T19:21:09.425711+00:00
+
+ ## Human Resources –  | Kalamazoo College
+ - [https://hr.kzoo.edu](https://hr.kzoo.edu)
+ - date_published: 2024-05-07T19:22:18.632001+00:00
+
+ ## Institutional Assessment –  | Kalamazoo College
+ - [https://ia.kzoo.edu](https://ia.kzoo.edu)
+ - date_published: 2024-05-07T19:20:47.849753+00:00
+
+ ## International and Area Studies –  | Kalamazoo College
+ - [https://ias.kzoo.edu](https://ias.kzoo.edu)
+ - date_published: 2024-05-07T19:24:54.522691+00:00
+
+ ## Inclusive Excellence Initiatives –  | Kalamazoo College
+ - [https://inclusiveexcellence.kzoo.edu](https://inclusiveexcellence.kzoo.edu)
+ - date_published: 2024-05-07T19:20:34.033986+00:00
+
+ ## The Index – The Student Newspaper of Kalamazoo College
+ - [https://index.kzoo.edu](https://index.kzoo.edu)
+ - date_published: 2024-05-07T19:24:38.235925+00:00
+
+ ## Intercultural Student Life –  | Kalamazoo College
+ - [https://intercultural.kzoo.edu](https://intercultural.kzoo.edu)
+ - date_published: 2024-05-07T19:23:37.547180+00:00
+
+ ## Intramural Sports –  | Kalamazoo College
+ - [https://intramurals.kzoo.edu](https://intramurals.kzoo.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Institutional Review Board –  | Kalamazoo College
+ - [https://irb.kzoo.edu](https://irb.kzoo.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Institutional Research –  | Kalamazoo College
+ - [https://ir.kzoo.edu](https://ir.kzoo.edu)
+ - date_published: 2024-05-07T19:21:41.665156+00:00
+
+ ## Information Services –  | Kalamazoo College
+ - [https://is.kzoo.edu](https://is.kzoo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Jewish Studies –  | Kalamazoo College
+ - [https://jewishstudies.kzoo.edu](https://jewishstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:18.804746+00:00
+
+ ## Land Acknowledgment –  | Kalamazoo College
+ - [https://land.kzoo.edu](https://land.kzoo.edu)
+ - date_published: 2024-07-01T12:48:16.711916+00:00
+
+ ## LandSea –  | Kalamazoo College
+ - [https://landsea.kzoo.edu](https://landsea.kzoo.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Learning Commons –  | Kalamazoo College
+ - [https://learningcommons.kzoo.edu](https://learningcommons.kzoo.edu)
+ - date_published: 2024-05-07T19:23:22.437613+00:00
+
+ ## Learning Support –  | Kalamazoo College
+ - [https://learningsupport.kzoo.edu](https://learningsupport.kzoo.edu)
+ - date_published: 2024-05-07T19:22:12.610474+00:00
+
+ ## Resources for LGBTQAI+ Students –  | Kalamazoo College
+ - [https://lgbtqaiplus.kzoo.edu](https://lgbtqaiplus.kzoo.edu)
+ - date_published: 2024-05-07T19:22:31.049956+00:00
+
+ ## Library –  | Kalamazoo College
+ - [https://library.kzoo.edu](https://library.kzoo.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Mail and Copy Center –  | Kalamazoo College
+ - [https://mailandcopy.kzoo.edu](https://mailandcopy.kzoo.edu)
+ - date_published: 2024-05-07T19:24:15.465235+00:00
+
+ ## Math Department –  | Kalamazoo College
+ - [https://mathematics.kzoo.edu](https://mathematics.kzoo.edu)
+ - date_published: 2024-05-07T19:21:21.736782+00:00
+
+ ## Kalamazoo College Moodle
+ - [https://moodle.kzoo.edu](https://moodle.kzoo.edu)
+ - date_published: 2024-05-07T19:21:27.963153+00:00
+
+ ## Math/Physics Center –  | Kalamazoo College
+ - [https://mpc.kzoo.edu](https://mpc.kzoo.edu)
+ - date_published: 2024-05-07T19:23:24.951429+00:00
+
+ ## Music Department –  | Kalamazoo College
+ - [https://music.kzoo.edu](https://music.kzoo.edu)
+ - date_published: 2024-05-07T19:22:22.689215+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.kzoo.edu](https://mychart.kzoo.edu)
+ - date_published: 2024-07-01T12:56:47.079707+00:00
+
+ ## Office of Religious and Spiritual Life –  | Kalamazoo College
+ - [https://orsl.kzoo.edu](https://orsl.kzoo.edu)
+ - date_published: 2024-05-07T19:25:12.361773+00:00
+
+ ## Outdoor Programs –  | Kalamazoo College
+ - [https://outdoor.kzoo.edu](https://outdoor.kzoo.edu)
+ - date_published: 2024-05-07T19:30:14.043520+00:00
+
+ ## For Parents and Families –  | Kalamazoo College
+ - [https://parents.kzoo.edu](https://parents.kzoo.edu)
+ - date_published: 2024-01-09T00:00:00+00:00
+
  ## Payroll –  | Kalamazoo College
  - [https://payroll.kzoo.edu](https://payroll.kzoo.edu)
  - date_published: 2024-07-01T13:08:46.292800+00:00
@@ -3835,172 +4003,4 @@
  ## National Defense University
  - [https://www.ndu.edu](https://www.ndu.edu)
  - date_published: 2024-07-03T13:48:41.778164+00:00
-
- ## Blackboard Learn
- - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
- - date_published: 2004-07-01T16:00:49+00:00
-
- ## Buffett Institute - Home
- - [http://buffettinstitute.nebraska.edu](http://buffettinstitute.nebraska.edu)
- - date_published: 2024-07-02T04:49:17.126924+00:00
-
- ## University of Nebraska System Office Employment Opportunities | Home
- - [https://careers.nebraska.edu](https://careers.nebraska.edu)
- - date_published: 2024-07-02T04:49:25+00:00
-
- ## ITS
- - [http://its.nebraska.edu](http://its.nebraska.edu)
- - date_published: 2024-07-02T04:55:02.863686+00:00
-
- ## MYRED
- - [https://myred.nebraska.edu](https://myred.nebraska.edu)
- - date_published: 2023-11-20T02:16:29+00:00
-
- ## University of Nebraska System
- - [https://nebraska.edu](https://nebraska.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## National Strategic Research Institute
- - [https://nsri.nebraska.edu](https://nsri.nebraska.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home
- - [https://nusupport.nebraska.edu](https://nusupport.nebraska.edu)
- - date_published: 2024-07-02T04:51:01.792615+00:00
-
- ## Home
- - [http://online.nebraska.edu](http://online.nebraska.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Nebraska Scholarly Commons | University of Nebraska Research
- - [https://scholarlycommons.nebraska.edu](https://scholarlycommons.nebraska.edu)
- - date_published: 2024-06-30T03:04:29.441964+00:00
-
- ## IT Status
- - [http://status.nebraska.edu](http://status.nebraska.edu)
- - date_published: 2024-07-02T04:55:22.457606+00:00
-
- ## TrueYou Self Service | Home
- - [https://trueyou.nebraska.edu](https://trueyou.nebraska.edu)
- - date_published: 2024-07-02T04:55:16.713655+00:00
-
- ## Request Rejected
- - [http://unit.nebraska.edu](http://unit.nebraska.edu)
- - date_published: 2024-07-02T04:55:17.983786+00:00
-
- ## Water for Food
- - [http://waterforfood.nebraska.edu](http://waterforfood.nebraska.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - Khoury College of Computer Sciences
- - [http://ccs.neu.edu](http://ccs.neu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Dark Patterns Research at Northeastern University · Dark Patterns Research at Northeastern University
- - [https://darkpatterns.ccs.neu.edu](https://darkpatterns.ccs.neu.edu)
- - date_published: 2021-09-01T00:00:00+00:00
-
- ## Select Your Destination – The Hubs
- - [http://myneu.neu.edu](http://myneu.neu.edu)
- - date_published: 2024-07-17T09:15:49+00:00
-
- ## Auditing Algorithms
- - [https://personalization.ccs.neu.edu](https://personalization.ccs.neu.edu)
- - date_published: 2024-05-28T18:15:37+00:00
-
- ## NEU PRL
- - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
- - date_published: 2024-05-07T19:48:15.637520+00:00
-
- ## Department of Electrical & Computer Engineering - Northeastern University
- - [https://ece.neu.edu](https://ece.neu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home - Northeastern University
- - [https://www.neu.edu](https://www.neu.edu)
- - date_published: 2024-07-11T10:33:29.575870+00:00
-
- ## NSHE
- - [https://nshe.nevada.edu](https://nshe.nevada.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - University of Nevada Press
- - [https://unpress.nevada.edu](https://unpress.nevada.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## A University in New York City | The New School
- - [https://www.newschool.edu](https://www.newschool.edu)
- - date_published: 2024-07-14T19:32:32.772395+00:00
-
- ## Nightingale College: Accredited Nursing School
- - [https://nightingale.edu](https://nightingale.edu)
- - date_published: 2024-06-15T04:48:15.637637+00:00
-
- ## Nightingale College: Accredited Nursing School
- - [http://www.nightingale.edu](http://www.nightingale.edu)
- - date_published: 2024-06-15T04:50:57.568196+00:00
-
- ## NIU College of Education
- - [https://cedu.news.niu.edu](https://cedu.news.niu.edu)
- - date_published: 2024-07-03T15:07:42.461673+00:00
-
- ## College of Engineering and Engineering Technology
- - [https://ceet.news.niu.edu](https://ceet.news.niu.edu)
- - date_published: 2024-07-03T15:06:28.288038+00:00
-
- ## College of Health and Human Sciences
- - [https://chhs.news.niu.edu](https://chhs.news.niu.edu)
- - date_published: 2024-07-03T15:06:26.629573+00:00
-
- ## College of Business
- - [https://cob.news.niu.edu](https://cob.news.niu.edu)
- - date_published: 2024-07-03T15:06:33.759391+00:00
-
- ## Directory - Northern Illinois University
- - [https://directory.niu.edu](https://directory.niu.edu)
- - date_published: 2024-07-03T15:06:31.946172+00:00
-
- ## Experts Guide | Northern Illinois University
- - [https://experts.niu.edu](https://experts.niu.edu)
- - date_published: 2022-06-02T14:42:06+00:00
-
- ## College of Law
- - [https://law.news.niu.edu](https://law.news.niu.edu)
- - date_published: 2024-07-03T15:06:44.017351+00:00
-
- ## Home | NIU Newsroom
- - [https://newsroom.niu.edu](https://newsroom.niu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Northern Illinois University - Your Future. Our Focus.
- - [https://niu.edu](https://niu.edu)
- - date_published: 2024-07-03T15:06:49.444960+00:00
-
- ## Homepage | Barbara and Leonard Littman Architecture and Design Library
- - [https://archlib.njit.edu](https://archlib.njit.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Ask Us - Ask the NJIT Library
- - [https://askthelibrary.njit.edu](https://askthelibrary.njit.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Strategic Events and Conference Services | Conference Services
- - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
- - date_published: 2024-05-07T19:46:38.297602+00:00
-
- ## NJIT Canvas | Canvas
- - [http://canvas.njit.edu](http://canvas.njit.edu)
- - date_published: 2024-06-30T19:43:43+00:00
-
- ## Welcome | Research Institutes, Centers and Specialized Laboratories
- - [https://centers.njit.edu](https://centers.njit.edu)
- - date_published: 2024-05-07T19:46:48.376683+00:00
-
- ## Admissions | New Jersey Institute of Technology
- - [https://connect.njit.edu](https://connect.njit.edu)
- - date_published: 2024-07-01T03:14:00+00:00
-
- ## LDI Courses Archive
- - [https://continuing.njit.edu](https://continuing.njit.edu)
- - date_published: 2024-05-07T19:46:53.330351+00:00
 

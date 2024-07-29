@@ -1,3 +1,171 @@
+ ## Bibliotècnica | La biblioteca digital de la UPC
+ - [https://bibliotecnica.upc.edu](https://bibliotecnica.upc.edu)
+ - date_published: 2024-07-02T05:35:01+00:00
+
+ ## Home - BNN-UPC
+ - [https://bnn.upc.edu](https://bnn.upc.edu)
+ - date_published: 2023-05-03T00:00:00+00:00
+
+ ## Empleo by Universia
+ - [https://borsa.alumni.upc.edu](https://borsa.alumni.upc.edu)
+ - date_published: 2024-06-28T08:12:20+00:00
+
+ ## Inici - catedravanderlande.com
+ - [https://catedravanderlande.upc.edu](https://catedravanderlande.upc.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Campus FPCAT-UPC de la Mobilitat Sostenible (Martorell)
+ - [https://cms.upc.edu](https://cms.upc.edu)
+ - date_published: 2024-07-02T05:36:31.004480+00:00
+
+ ## Centre Universitari de la Visió de la Universitat Politècnica de Catalunya · Barcelona Tech
+ - [https://cuv.upc.edu](https://cuv.upc.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Català
+ - [https://diplomasenior.eseiaat.upc.edu](https://diplomasenior.eseiaat.upc.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## frontend
+ - [https://directori.upc.edu](https://directori.upc.edu)
+ - date_published: 2024-04-23T11:43:41+00:00
+
+ ## Català
+ - [https://doctorat.upc.edu](https://doctorat.upc.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Inicia la sessió
+ - [http://eatic.upc.edu](http://eatic.upc.edu)
+ - date_published: 2024-07-02T05:36:11.404670+00:00
+
+ ## Català
+ - [https://genweb.upc.edu](https://genweb.upc.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## HPCA 2016
+ - [http://hpca22.ac.upc.edu](http://hpca22.ac.upc.edu)
+ - date_published: 2024-07-17T05:43:29.716526+00:00
+
+ ## Català
+ - [https://ice.upc.edu](https://ice.upc.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Image Processing Group | Signal Theory and Communications Department
+ - [https://imatge.upc.edu](https://imatge.upc.edu)
+ - date_published: 2024-07-20T09:35:39.707787+00:00
+
+ ## English
+ - [https://ioc.upc.edu](https://ioc.upc.edu)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## MT@UPC – Machine Translation group at UPC
+ - [https://mt.cs.upc.edu](https://mt.cs.upc.edu)
+ - date_published: 2024-04-28T04:06:39.585788+00:00
+
+ ## Inicia la sessió
+ - [https://peticions.utgcntic.upc.edu](https://peticions.utgcntic.upc.edu)
+ - date_published: 2024-07-04T03:54:38.457784+00:00
+
+ ## Prisma. Universitat Politècnica de Catalunya BarcelonaTech.
+ - [https://prisma-nou.upc.edu](https://prisma-nou.upc.edu)
+ - date_published: 2024-07-02T05:37:22.345154+00:00
+
+ ## Català
+ - [https://rdi.upc.edu](https://rdi.upc.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## /rdlab – Engaged with your research
+ - [https://rdlab.cs.upc.edu](https://rdlab.cs.upc.edu)
+ - date_published: 2024-07-04T03:54:34.135730+00:00
+
+ ## English
+ - [https://robotics.upc.edu](https://robotics.upc.edu)
+ - date_published: 2024-05-07T21:46:15.027770+00:00
+
+ ## Català
+ - [https://serveiscientificotecnics.upc.edu](https://serveiscientificotecnics.upc.edu)
+ - date_published: 2024-07-02T05:36:54.841498+00:00
+
+ ## Cercador de Serveis TIC
+ - [https://serveistic.upc.edu](https://serveistic.upc.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Català
+ - [https://seuelectronica.upc.edu](https://seuelectronica.upc.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Català
+ - [https://treballa.upc.edu](https://treballa.upc.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Català
+ - [https://upcarts.upc.edu](https://upcarts.upc.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## English
+ - [https://cs.upc.edu](https://cs.upc.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## UPC School | Màsters i postgraus | UPC Barcelona
+ - [https://www.talent.upc.edu](https://www.talent.upc.edu)
+ - date_published: 2024-07-02T05:37:13.903608+00:00
+
+ ## UPC
+ - [https://upc.edu](https://upc.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Zonavideo UPC
+ - [https://zonavideo.upc.edu](https://zonavideo.upc.edu)
+ - date_published: 2024-07-02T05:37:03.958328+00:00
+
+ ## Study Abroad |
+ - [https://abroad.seas.upenn.edu](https://abroad.seas.upenn.edu)
+ - date_published: 2024-07-02T10:32:07.637511+00:00
+
+ ## Office of Academic Services |
+ - [https://academics.seas.upenn.edu](https://academics.seas.upenn.edu)
+ - date_published: 2024-07-02T10:30:06.191214+00:00
+
+ ## Web Accessibility at Penn | Web Accessibility at Penn
+ - [https://accessibility.web-resources.upenn.edu](https://accessibility.web-resources.upenn.edu)
+ - date_published: 2024-05-07T21:46:16.331829+00:00
+
+ ## Penn WebLogin
+ - [https://accounts.seas.upenn.edu](https://accounts.seas.upenn.edu)
+ - date_published: 2024-07-02T10:31:43.980866+00:00
+
+ ## CIS Advising Handbook
+ - [https://advising.cis.upenn.edu](https://advising.cis.upenn.edu)
+ - date_published: 2024-07-09T18:33:00+00:00
+
+ ## AI2D
+ - [https://ai2d.med.upenn.edu](https://ai2d.med.upenn.edu)
+ - date_published: 2024-07-13T03:07:35.929063+00:00
+
+ ## Artificial Intelligence (AI) Undergraduate Program
+ - [https://ai.seas.upenn.edu](https://ai.seas.upenn.edu)
+ - date_published: 2024-07-07T09:23:28.921873+00:00
+
+ ## Almanac | University of Pennsylvania
+ - [https://almanac.upenn.edu](https://almanac.upenn.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home | Weitzman School of Design Alumni
+ - [https://alumni.design.upenn.edu](https://alumni.design.upenn.edu)
+ - date_published: 2024-07-08T15:07:46.154870+00:00
+
+ ## Alumni - The Wharton School of the University of Pennsylvania
+ - [https://alumni.wharton.upenn.edu](https://alumni.wharton.upenn.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Home Page
+ - [https://analytics.wharton.upenn.edu](https://analytics.wharton.upenn.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Penn’s Action Plan to Combat Antisemitism | Antisemitism Action Plan
+ - [https://antisemitism-action-plan.upenn.edu](https://antisemitism-action-plan.upenn.edu)
+ - date_published: 2024-07-02T06:09:33+00:00
+
  ## Admissions | Weitzman
  - [https://apply.design.upenn.edu](https://apply.design.upenn.edu)
  - date_published: 2024-07-08T13:42:22+00:00
@@ -3831,172 +3999,4 @@
  ## The University of Vermont -- WebAuth
  - [https://myuvm.uvm.edu](https://myuvm.uvm.edu)
  - date_published: 2024-05-07T22:16:20.017634+00:00
-
- ## Peter Sheridan Dodds
- - [https://pdodds.w3.uvm.edu](https://pdodds.w3.uvm.edu)
- - date_published: 2023-09-11T20:10:44+00:00
-
- ## University of Vermont ScholarWorks
- - [http://scholarworks.uvm.edu](http://scholarworks.uvm.edu)
- - date_published: 2024-07-02T12:28:08.536005+00:00
-
- ## SFX Version 4 for Linux by Ex Libris
- - [http://sfx.uvm.edu](http://sfx.uvm.edu)
- - date_published: 2014-12-16T08:20:08+00:00
-
- ## Silver Special Collections Library | Silver Special Collections Library
- - [https://specialcollections.uvm.edu](https://specialcollections.uvm.edu)
- - date_published: 2024-07-02T12:28:19.245882+00:00
-
- ## Taras I.Lakoba - University Of Vermont
- - [https://tlakoba.w3.uvm.edu](https://tlakoba.w3.uvm.edu)
- - date_published: 2023-10-25T19:05:38.861859+00:00
-
- ## Welcome | The UVM Bookstore
- - [https://uvmbookstore.uvm.edu](https://uvmbookstore.uvm.edu)
- - date_published: 2024-07-02T12:27:42.119097+00:00
-
- ## UVM Homepage | The University of Vermont
- - [https://uvmd10.drup2.uvm.edu](https://uvmd10.drup2.uvm.edu)
- - date_published: 2024-07-02T12:27:40.062966+00:00
-
- ## The University of Vermont
- - [https://uvmd9.drup2.uvm.edu](https://uvmd9.drup2.uvm.edu)
- - date_published: 2024-05-07T22:16:46.865139+00:00
-
- ## The University of Vermont
- - [https://uvmd9.uvm.edu](https://uvmd9.uvm.edu)
- - date_published: 2024-05-07T22:16:08.189149+00:00
-
- ## UVM Libraries Catalog
- - [http://voyager.uvm.edu](http://voyager.uvm.edu)
- - date_published: 2024-01-12T19:55:06+00:00
-
- ## Home Page
- - [https://www.alumni.uvm.edu](https://www.alumni.uvm.edu)
- - date_published: 2024-05-07T22:16:44.573691+00:00
-
- ## Larner College of Medicine at The University of Vermont
- - [https://med.uvm.edu](https://med.uvm.edu)
- - date_published: 2024-05-07T22:16:35.188877+00:00
-
- ## https://www.uvm.edu
- - [https://uvm.edu](https://uvm.edu)
- - date_published: 2024-01-09T03:28:49.823820+00:00
-
- ## News
- - [http://ads-institute.uw.edu](http://ads-institute.uw.edu)
- - date_published: 2020-11-17T05:45:28+00:00
-
- ## College of Arts & Sciences | University of Washington
- - [https://artsci.uw.edu](https://artsci.uw.edu)
- - date_published: 2024-06-29T21:13:11+00:00
-
- ## ArtsUW Events | Arts Events
- - [https://artsevents.uw.edu](https://artsevents.uw.edu)
- - date_published: 2024-07-02T13:43:35.865644+00:00
-
- ## Default - AskUs
- - [https://ask.lib.uw.edu](https://ask.lib.uw.edu)
- - date_published: 2024-07-02T13:49:08.291911+00:00
-
- ## Behavioral Data Science - Home
- - [http://bdata.uw.edu](http://bdata.uw.edu)
- - date_published: 2023-10-17T23:52:31+00:00
-
- ## UW NetID sign-in
- - [http://canvas.uw.edu](http://canvas.uw.edu)
- - date_published: 2024-07-02T13:48:31.918662+00:00
-
- ## Home page
- - [https://ciso.uw.edu](https://ciso.uw.edu)
- - date_published: 2024-06-16T09:31:37.044666+00:00
-
- ## CJMD | Center for Journalism, Media & Democracy - UW Communications
- - [https://cjmd.com.uw.edu](https://cjmd.com.uw.edu)
- - date_published: 2024-07-21T07:18:45.118484+00:00
-
- ## Communication Leadership Degrees
- - [https://commlead.uw.edu](https://commlead.uw.edu)
- - date_published: 2024-04-30T05:44:29.669517+00:00
-
- ## Main Home
- - [https://comotion.uw.edu](https://comotion.uw.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Department of Communication
- - [https://com.uw.edu](https://com.uw.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## ConnectedLib
- - [https://connectedlib.ischool.uw.edu](https://connectedlib.ischool.uw.edu)
- - date_published: 2024-07-01T22:53:22.553368+00:00
-
- ## UW Facilities Home | UW Facilities
- - [https://cpd.uw.edu](https://cpd.uw.edu)
- - date_published: 2024-07-02T13:46:59.216397+00:00
-
- ## CREATE
- - [https://create.uw.edu](https://create.uw.edu)
- - date_published: 2024-07-02T13:32:38.296442+00:00
-
- ## UW Center for Speech & Debate
- - [https://csd.com.uw.edu](https://csd.com.uw.edu)
- - date_published: 2024-07-21T07:18:41.956748+00:00
-
- ## Welcome to Paul G. Allen School of Computer Science & Engineering | Paul G. Allen School of Computer Science & Engineering
- - [https://cse.uw.edu](https://cse.uw.edu)
- - date_published: 2024-07-01T19:52:49.242137+00:00
-
- ## Campus Sustainability Fund | Campus Sustainability Fund (CSF)
- - [https://csf.uw.edu](https://csf.uw.edu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Departments | University of Washington Tacoma Directory
- - [https://directory.tacoma.uw.edu](https://directory.tacoma.uw.edu)
- - date_published: 2024-07-02T07:27:38+00:00
-
- ## UW Faculty/Staff/Student Directory
- - [https://directory.uw.edu](https://directory.uw.edu)
- - date_published: 2024-05-07T22:27:48.475503+00:00
-
- ## HCI & Design at the University of Washington
- - [http://dub.uw.edu](http://dub.uw.edu)
- - date_published: 2024-06-27T21:54:25+00:00
-
- ## Home – Your source for Workday support
- - [https://employeehelp.workday.uw.edu](https://employeehelp.workday.uw.edu)
- - date_published: 2024-05-07T22:27:55.830226+00:00
-
- ## University of Washington College of Engineering
- - [https://engr.uw.edu](https://engr.uw.edu)
- - date_published: 2024-06-15T17:36:41.392027+00:00
-
- ## Home
- - [https://environment.uw.edu](https://environment.uw.edu)
- - date_published: 2024-07-02T13:19:36+00:00
-
- ## UW Facilities Home | UW Facilities
- - [https://facilities.uw.edu](https://facilities.uw.edu)
- - date_published: 2024-07-02T13:45:35.502419+00:00
-
- ## Welcome to UW Finance | UW Finance
- - [https://finance.uw.edu](https://finance.uw.edu)
- - date_published: 2024-05-07T22:27:25.446993+00:00
-
- ## UW Graduate School
- - [https://grad.uw.edu](https://grad.uw.edu)
- - date_published: 2024-07-02T13:33:02.348485+00:00
-
- ## UW Sustainability
- - [https://green.uw.edu](https://green.uw.edu)
- - date_published: 2024-07-02T13:24:39+00:00
-
- ## Library Guides
- - [http://guides.lib.uw.edu](http://guides.lib.uw.edu)
- - date_published: 2024-07-02T13:48:56.131305+00:00
-
- ## Human Centered Design & Engineering
- - [https://hcde.uw.edu](https://hcde.uw.edu)
- - date_published: 2024-04-30T05:44:54.438685+00:00
 

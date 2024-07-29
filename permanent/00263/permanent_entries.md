@@ -1,3 +1,257 @@
+ ## Kosmorama
+ - [https://www.kosmorama.org](https://www.kosmorama.org)
+ - date_published: 2024-07-02T23:12:33+00:00
+
+ ## Home April 2023
+ - [https://www.kosmosjournal.org](https://www.kosmosjournal.org)
+ - date_published: 2024-06-12T12:51:26.037283+00:00
+
+ ## Origami by Michał Kosmulski
+ - [https://origami.kosmulski.org](https://origami.kosmulski.org)
+ - date_published: 2023-10-25T21:37:13.563028+00:00
+
+ ## Home
+ - [https://kotlinfoundation.org](https://kotlinfoundation.org)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Kotlin Discussions
+ - [https://discuss.kotlinlang.org](https://discuss.kotlinlang.org)
+ - date_published: 2024-04-29T07:04:05.148624+00:00
+
+ ## Kotlin Programming Language
+ - [https://kotlinlang.org](https://kotlinlang.org)
+ - date_published: 2023-12-11T12:12:45+00:00
+ - tags: ['programming language', 'kotlin']
+
+ ## Kotlin Playground: Edit, Run, Share Kotlin Code Online
+ - [https://play.kotlinlang.org](https://play.kotlinlang.org)
+ - date_published: 2024-07-08T09:38:47+00:00
+
+ ## kotlinlang #announcements
+ - [https://slack-chats.kotlinlang.org](https://slack-chats.kotlinlang.org)
+ - date_published: 2024-04-29T07:59:35.602523+00:00
+
+ ## Kotlin Playground: Edit, Run, Share Kotlin Code Online
+ - [http://try.kotlinlang.org](http://try.kotlinlang.org)
+ - date_published: 2024-07-08T09:38:47+00:00
+
+ ## Welcome to nginx!
+ - [http://www.kotnet.org](http://www.kotnet.org)
+ - date_published: 2018-11-09T05:37:43+00:00
+
+ ## KOTO RADIO
+ - [https://koto.org](https://koto.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## KOTO RADIO
+ - [http://www.koto.org](http://www.koto.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## kottke.org - home of fine hypertext products
+ - [https://bonus.kottke.org](https://bonus.kottke.org)
+ - date_published: 2024-05-08T09:19:46.110011+00:00
+
+ ## kottke.org feeds
+ - [http://feeds.kottke.org](http://feeds.kottke.org)
+ - date_published: 2024-02-26T14:57:12.364327+00:00
+
+ ## kottke.org - home of fine hypertext products
+ - [https://kottke.org](https://kottke.org)
+ - date_published: 2023-10-25T09:24:05.372537+00:00
+ - tags: ['personal']
+
+ ## Kourovka Notebook
+ - [https://kourovka-notebook.org](https://kourovka-notebook.org)
+ - date_published: 2024-06-30T11:21:59.981553+00:00
+
+ ## Kouzou Sakai Illustration
+ - [https://kouzou.org](https://kouzou.org)
+ - date_published: 2024-07-02T18:42:24.963276+00:00
+
+ ## Employer Health Plans | Kaiser Permanente Business
+ - [https://account.kp.org](https://account.kp.org)
+ - date_published: 2024-07-12T01:09:13+00:00
+
+ ## KPBS Producers Club
+ - [https://campaign.kpbs.org](https://campaign.kpbs.org)
+ - date_published: 2024-05-08T09:20:19.181539+00:00
+
+ ## CDP
+ - [https://donate.kpbs.org](https://donate.kpbs.org)
+ - date_published: 2024-07-05T10:51:22+00:00
+
+ ## KPBS Video
+ - [https://video.kpbs.org](https://video.kpbs.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## KPBS Homepage | KPBS Public Media
+ - [https://kpbs.org](https://kpbs.org)
+ - date_published: 2023-10-25T21:37:17.991746+00:00
+
+ ## Home - KPCW
+ - [https://www.kpcw.org](https://www.kpcw.org)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## KPFA | Community Powered Radio
+ - [https://kpfa.org](https://kpfa.org)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Login - Open Web Analytics
+ - [https://stats.kp-wiki.org](https://stats.kp-wiki.org)
+ - date_published: 2024-05-14T13:34:03.316624+00:00
+
+ ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
+ - [http://blogs.kqed.org](http://blogs.kqed.org)
+ - date_published: 2024-06-29T20:09:48.268775+00:00
+
+ ## Support public media
+ - [https://donate.kqed.org](https://donate.kqed.org)
+ - date_published: 2024-05-08T09:29:35.216845+00:00
+
+ ## HelpCenter
+ - [https://kqed-helpcenter.kqed.org](https://kqed-helpcenter.kqed.org)
+ - date_published: 2023-07-08T04:44:16+00:00
+
+ ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
+ - [https://kqed.org](https://kqed.org)
+ - date_published: 2024-05-08T09:29:15.538345+00:00
+
+ ## KQED Teach
+ - [https://teach.kqed.org](https://teach.kqed.org)
+ - date_published: 2024-05-04T09:32:09.445998+00:00
+
+ ## KQED Video
+ - [https://video.kqed.org](https://video.kqed.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
+ - [https://ww2.kqed.org](https://ww2.kqed.org)
+ - date_published: 2024-05-06T17:12:07.712129+00:00
+
+ ## Youth Media Challenges | KQED
+ - [https://youthmedia.kqed.org](https://youthmedia.kqed.org)
+ - date_published: 2024-06-25T15:50:37.753350+00:00
+
+ ## KRCL | Home
+ - [https://krcl.org](https://krcl.org)
+ - date_published: 2024-02-24T18:10:58.378179+00:00
+
+ ## Front Page | Krell Institute
+ - [https://www.krellinst.org](https://www.krellinst.org)
+ - date_published: 2024-06-14T00:52:38.809793+00:00
+
+ ## Kress Home | Samuel H. Kress Foundation
+ - [https://kressfoundation.org](https://kressfoundation.org)
+ - date_published: 2024-05-07T15:03:40.844729+00:00
+
+ ## Kresus - Gestionnaire de finances personnelles
+ - [https://kresus.org](https://kresus.org)
+ - date_published: 2024-05-18T14:03:50+00:00
+
+ ## KRFC 88.9 FM – Radio from Colorado, for Colorado and the world.
+ - [http://www.krfcfm.org](http://www.krfcfm.org)
+ - date_published: 2024-07-07T05:12:30.264399+00:00
+ - tags: ['radio station']
+
+ ## Home - krfnd
+ - [https://krfnd.org](https://krfnd.org)
+ - date_published: 2021-03-24T00:00:00+00:00
+
+ ## Форум Krinkels.org
+ - [https://krinkels.org](https://krinkels.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## KB
+ - [https://www.krisb.org](https://www.krisb.org)
+ - date_published: 2024-06-29T03:19:26.735698+00:00
+
+ ## Krita Fund | Digital Painting. Creative Freedom.
+ - [https://fund.krita.org](https://fund.krita.org)
+ - date_published: 2023-10-25T21:37:38.421533+00:00
+
+ ## Krita
+ - [https://krita.org](https://krita.org)
+ - date_published: 2023-10-25T08:33:48.431626+00:00
+ - tags: ['open source', 'image editor', 'desktop program']
+
+ ## Krusader - Twin panel file management for your desktop
+ - [https://krusader.org](https://krusader.org)
+ - date_published: 2023-10-30T13:59:36.700036+00:00
+ - tags: ['krusader', 'open source', 'desktop program']
+
+ ## Kryogenix Consulting
+ - [https://kryogenix.org](https://kryogenix.org)
+ - date_published: 2022-10-17T13:16:41+00:00
+ - tags: ['consulting', 'personal']
+
+ ## Kansas Judicial Center
+ - [https://www.kscourts.org](https://www.kscourts.org)
+ - date_published: 2024-07-13T23:19:26.964383+00:00
+
+ ## Home         - Kansas Historical Society
+ - [http://www.kshs.org](http://www.kshs.org)
+ - date_published: 2024-07-07T03:27:29.219779+00:00
+
+ ## KSI Research Inc.
+ - [https://ksiresearch.org](https://ksiresearch.org)
+ - date_published: 2017-02-16T01:40:26+00:00
+
+ ## KSJD - Homepage | KSJD
+ - [http://www.ksjd.org](http://www.ksjd.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## KSJS | Student Run 24/7 Ground Zero Radio
+ - [https://ksjs.org](https://ksjs.org)
+ - date_published: 2020-07-07T03:42:26+00:00
+
+ ## Welcome | Kansas State Legislature
+ - [http://kslegislature.org](http://kslegislature.org)
+ - date_published: 2024-07-13T23:20:38.775096+00:00
+
+ ## Welcome | Kansas State Legislature
+ - [https://www.kslegislature.org](https://www.kslegislature.org)
+ - date_published: 2024-07-01T12:37:56.580874+00:00
+
+ ## Page Redirection
+ - [http://www.kslegresearch.org](http://www.kslegresearch.org)
+ - date_published: 2016-04-27T14:30:15+00:00
+
+ ## KMEA ISW
+ - [https://isw.ksmea.org](https://isw.ksmea.org)
+ - date_published: 2024-07-15T06:08:48.218477+00:00
+
+ ## KMEA – Music is an integral, vibrant part of life.
+ - [https://ksmea.org](https://ksmea.org)
+ - date_published: 2024-05-12T05:27:09.634504+00:00
+
+ ## KMEA Members
+ - [https://members.ksmea.org](https://members.ksmea.org)
+ - date_published: 2024-07-15T06:08:46.142335+00:00
+
+ ## Kansas Museums Association | The Kansas Museums Association strengthens the Kansas museum community through education, communication and collaboration.
+ - [http://www.ksmuseums.org](http://www.ksmuseums.org)
+ - date_published: 2024-07-03T08:39:27+00:00
+
+ ## Kansas News Service - Homepage | KMUW
+ - [https://ksnewsservice.org](https://ksnewsservice.org)
+ - date_published: 2024-05-08T09:05:45.580976+00:00
+
+ ## Williamsburg Postcards
+ - [http://williamsburg.kspot.org](http://williamsburg.kspot.org)
+ - date_published: 2021-02-26T05:32:14+00:00
+
+ ## Lahore Science Mela – Khwarizmi Science Society
+ - [https://ksslsm.org](https://ksslsm.org)
+ - date_published: 2024-05-08T11:36:49.405853+00:00
+
+ ## Lån Uten Sikkerhet | Søk Beste (2022)
+ - [https://www.ksualumni.org](https://www.ksualumni.org)
+ - date_published: 2014-10-29T22:23:48+00:00
+
+ ## Home Page - Kansas State University Foundation
+ - [https://ksufoundation.org](https://ksufoundation.org)
+ - date_published: 2024-02-19T00:00:00+00:00
+
  ## KSUT Homepage | KSUT Public Radio
  - [https://www.ksut.org](https://www.ksut.org)
  - date_published: 2024-02-17T15:56:25.359714+00:00
@@ -1355,6 +1609,10 @@
  ## Lean Coffee | Start one in your city!
  - [http://leancoffee.org](http://leancoffee.org)
  - date_published: 2024-07-07T07:36:25.323493+00:00
+
+ ## LeanDojo: Theorem Proving in Lean Using LLMs
+ - [https://leandojo.org](https://leandojo.org)
+ - date_published: 2024-07-28T22:34:36+00:00
 
  ## Focused Research Organization — Lean FRO
  - [https://lean-fro.org](https://lean-fro.org)
@@ -3785,263 +4043,4 @@
  ## LLVM Lab Buildbots
  - [https://lab.llvm.org](https://lab.llvm.org)
  - date_published: 2022-11-13T18:41:05+00:00
-
- ## libclc
- - [https://libclc.llvm.org](https://libclc.llvm.org)
- - date_published: 2022-07-22T17:00:21+00:00
-
- ## The LLVM C Library — The LLVM C Library
- - [https://libc.llvm.org](https://libc.llvm.org)
- - date_published: 2024-05-23T17:55:34+00:00
-
- ## "libc++abi" C++ Standard Library Support
- - [https://libcxxabi.llvm.org](https://libcxxabi.llvm.org)
- - date_published: 2022-07-22T17:00:21+00:00
-
- ## “libc++” C++ Standard Library — libc++  documentation
- - [https://libcxx.llvm.org](https://libcxx.llvm.org)
- - date_published: 2024-05-08T09:43:31.026006+00:00
-
- ## 🐛 LLDB
- - [https://lldb.llvm.org](https://lldb.llvm.org)
- - date_published: 2024-05-08T09:43:28.870955+00:00
-
- ## LLD - The LLVM Linker — lld 19.0.0git documentation
- - [https://lld.llvm.org](https://lld.llvm.org)
- - date_published: 2024-05-08T09:43:50.979271+00:00
-
- ## The LLVM Compiler Infrastructure Project
- - [https://llvm.org](https://llvm.org)
- - date_published: 2023-10-25T21:39:28.896311+00:00
- - tags: ['compiler']
-
- ## LNT - Overview
- - [https://lnt.llvm.org](https://lnt.llvm.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MLIR
- - [https://mlir.llvm.org](https://mlir.llvm.org)
- - date_published: 2024-05-08T09:43:37.239283+00:00
-
- ## Welcome to the documentation of OpenMP in LLVM! — LLVM/OpenMP 19.0.0git documentation
- - [https://openmp.llvm.org](https://openmp.llvm.org)
- - date_published: 2024-05-08T09:43:52.460947+00:00
-
- ## Polly - Polyhedral optimizations for LLVM
- - [https://polly.llvm.org](https://polly.llvm.org)
- - date_published: 2024-05-08T09:43:33.890788+00:00
-
- ## Index of /
- - [https://prereleases.llvm.org](https://prereleases.llvm.org)
- - date_published: 2024-05-08T09:43:54.136974+00:00
-
- ## Download LLVM releases
- - [https://releases.llvm.org](https://releases.llvm.org)
- - date_published: 2023-10-25T21:39:30.474866+00:00
-
- ## LLVM Phabricator archive
- - [https://reviews.llvm.org](https://reviews.llvm.org)
- - date_published: 2023-12-14T07:29:19+00:00
-
- ## VMKit: a substrate for virtual machines
- - [http://vmkit.llvm.org](http://vmkit.llvm.org)
- - date_published: 2024-07-01T06:14:02.085779+00:00
-
- ## QuickStart — llvmpy
- - [http://www.llvmpy.org](http://www.llvmpy.org)
- - date_published: 2024-06-22T14:02:04+00:00
-
- ## LLVM Weekly - a weekly newsletter covering developments in LLVM, Clang and more
- - [https://llvmweekly.org](https://llvmweekly.org)
- - date_published: 2024-05-08T09:43:49.442878+00:00
-
- ## Cierpliwości...
- - [https://lmcu.org](https://lmcu.org)
- - date_published: 2024-05-09T07:36:22.713340+00:00
-
- ## LMFDB - The L-functions and modular forms database
- - [http://lmfdb.org](http://lmfdb.org)
- - date_published: 2024-06-30T08:21:56.274682+00:00
-
- ## LMFDB - The L-functions and modular forms database
- - [https://www.lmfdb.org](https://www.lmfdb.org)
- - date_published: 2024-05-07T15:55:20.415502+00:00
-
- ## Leon Mika
- - [https://lmika.org](https://lmika.org)
- - date_published: 2024-05-04T14:14:53.171327+00:00
- - tags: ['personal']
-
- ## Loża-Matka "Kopernik"
- - [https://lmkopernik.org](https://lmkopernik.org)
- - date_published: 2023-12-05T15:16:55+00:00
- - tags: ['freemasonry']
-
- ## Attention Required! | Cloudflare
- - [https://arena.lmsys.org](https://arena.lmsys.org)
- - date_published: 2024-05-08T09:45:25.543993+00:00
-
- ## Mistral AI launches Mixtral-Next
- - [https://chat.lmsys.org](https://chat.lmsys.org)
- - date_published: 2024-02-17T03:46:24+00:00
-
- ## LMSYS Org
- - [https://lmsys.org](https://lmsys.org)
- - date_published: 2023-10-25T21:39:31.970567+00:00
-
- ## Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | LMSYS Org
- - [https://vicuna.lmsys.org](https://vicuna.lmsys.org)
- - date_published: 2023-10-25T21:39:33.956719+00:00
-
- ## The Logfile Navigator
- - [https://lnav.org](https://lnav.org)
- - date_published: 2024-06-16T23:14:23+00:00
- - tags: ['open source', 'logfile']
-
- ## LNMP一键安装包  - CentOS/RadHat/Debian/Ubuntu下自动编译安装Nginx,PHP,MySQL,PHPMyAdmin
- - [https://lnmp.org](https://lnmp.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Lnst Project
- - [https://lnst-project.org](https://lnst-project.org)
- - date_published: 2023-02-09T13:19:14+00:00
-
- ## Home - Leave No Trace - Leave No Trace
- - [https://lnt.org](https://lnt.org)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home - Library of America
- - [https://cart.loa.org](https://cart.loa.org)
- - date_published: 2024-05-08T09:45:37.838803+00:00
-
- ## Library of America - Sign in
- - [https://submemb.loa.org](https://submemb.loa.org)
- - date_published: 2024-05-08T09:45:31.301754+00:00
-
- ## Home - Library of America
- - [https://loa.org](https://loa.org)
- - date_published: 2024-02-06T12:42:50+00:00
- - tags: ['books', 'reading']
-
- ## Load balancing will never be your problem again | Loadbalancer.org
- - [http://www.loadbalancer.org](http://www.loadbalancer.org)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## IATSE Local 44
- - [https://local44.org](https://local44.org)
- - date_published: 2024-06-19T07:55:28+00:00
-
- ## UA Local 525
- - [https://www.local525.org](https://www.local525.org)
- - date_published: 2024-06-22T19:35:46.360903+00:00
-
- ## Local Culture Creative | Full Service Marketing Agency
- - [https://localculture.org](https://localculture.org)
- - date_published: 2024-06-27T16:54:12.989929+00:00
-
- ## Home - Local First
- - [https://local-first.org](https://local-first.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Local Food Nodes
- - [https://localfoodnodes.org](https://localfoodnodes.org)
- - date_published: 2024-06-19T22:10:29.533191+00:00
-
- ## Local Futures is a pioneer of the worldwide localization movement.
- - [https://www.localfutures.org](https://www.localfutures.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Localgov Drupal Demo | Drush Site-Install
- - [https://demo.localgovdrupal.org](https://demo.localgovdrupal.org)
- - date_published: 2024-06-18T10:40:04.732034+00:00
-
- ## LocalGov Drupal Docs
- - [https://docs.localgovdrupal.org](https://docs.localgovdrupal.org)
- - date_published: 2024-06-18T10:40:06.083425+00:00
-
- ## Web publishing for Councils | LocalGov Drupal
- - [https://localgovdrupal.org](https://localgovdrupal.org)
- - date_published: 2024-05-02T12:28:53.856364+00:00
-
- ## Local Harvest / Farmers Markets / Family Farms / CSA / Organic Food / Pick your Own
- - [http://www.localharvest.org](http://www.localharvest.org)
- - date_published: 2024-07-10T10:10:08.596937+00:00
-
- ## Local Media Association | Local Media Foundation
- - [https://localmedia.org](https://localmedia.org)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home
- - [https://www.localnaturelab.org](https://www.localnaturelab.org)
- - date_published: 2024-07-12T08:49:31.938028+00:00
-
- ## Local News Matters
- - [https://localnewsmatters.org](https://localnewsmatters.org)
- - date_published: 2024-07-13T04:22:16+00:00
-
- ## The Roadmap for Local News
- - [https://localnewsroadmap.org](https://localnewsroadmap.org)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## LocalSend: Open-source, cross-platform file sharing to nearby devices
- - [https://localsend.org](https://localsend.org)
- - date_published: 2024-03-10T21:38:06+00:00
- - tags: ['file send', 'open source']
-
- ## Global Business Directory | Free Online Advertising | Local Business Listing
- - [https://localstar.org](https://localstar.org)
- - date_published: 2024-05-07T13:43:28.073352+00:00
-
- ## Lockman Foundation - Home
- - [http://www.lockman.org](http://www.lockman.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## SSDeV | Sportsfreunde der Sperrtechnik – Deutschland e.V.
- - [http://www.lockpicking.org](http://www.lockpicking.org)
- - date_published: 2024-07-16T19:26:10.863459+00:00
-
- ## LOCKSS Documentation Portal — LOCKSS Documentation Portal
- - [https://docs.lockss.org](https://docs.lockss.org)
- - date_published: 2024-04-11T08:43:26+00:00
-
- ## LOCKSS Program
- - [https://lockss.org](https://lockss.org)
- - date_published: 2024-05-09T06:40:19.234121+00:00
-
- ## Lock Your Meds
- - [https://www.lockyourmeds.org](https://www.lockyourmeds.org)
- - date_published: 2024-06-12T20:39:52.333596+00:00
- - tags: ['activism']
-
- ## Locob Loco
- - [http://www.locobloco.org](http://www.locobloco.org)
- - date_published: 2024-06-27T15:01:48+00:00
-
- ## LoCoBot · An Open Source Low Cost Robot
- - [https://locobot.org](https://locobot.org)
- - date_published: 2024-06-13T18:24:47.809401+00:00
-
- ## Locura en Argentina
- - [https://locuraenargentina.org](https://locuraenargentina.org)
- - date_published: 2024-05-04T13:47:27.363094+00:00
-
- ## Lode Vandevenne
- - [https://lodev.org](https://lodev.org)
- - date_published: 2020-12-28T01:04:13+00:00
-
- ## Home – Loeys-Dietz Syndrome Foundation Canada - Loeys-Dietz Syndrome Foundation Canada
- - [http://loeysdietzcanada.org](http://loeysdietzcanada.org)
- - date_published: 2024-06-10T02:24:43+00:00
-
- ## Home Page - The Loft Cinema
- - [https://loftcinema.org](https://loftcinema.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Reva and David Logan Foundation - The Reva and David Logan Foundation
- - [http://www.loganfdn.org](http://www.loganfdn.org)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Stokes Nature Center
- - [https://logannature.org](https://logannature.org)
- - date_published: 2024-07-13T07:35:21.349180+00:00
 

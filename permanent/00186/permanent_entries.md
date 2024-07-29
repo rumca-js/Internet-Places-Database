@@ -1,3 +1,171 @@
+ ## Home | NYU Tandon School of Engineering
+ - [http://poly.edu](http://poly.edu)
+ - date_published: 2024-06-11T12:36:42+00:00
+
+ ## École polytechnique, école d'ingénieur
+ - [https://portail.polytechnique.edu](https://portail.polytechnique.edu)
+ - date_published: 2024-06-30T09:24:18+00:00
+
+ ## École polytechnique, école d'ingénieur
+ - [https://www.polytechnique.edu](https://www.polytechnique.edu)
+ - date_published: 2024-06-22T09:46:14+00:00
+
+ ## Pomona College - Modern Campus Catalog™
+ - [https://catalog.pomona.edu](https://catalog.pomona.edu)
+ - date_published: 2024-07-04T12:56:56.305482+00:00
+
+ ## Page Redirection
+ - [https://cs.pomona.edu](https://cs.pomona.edu)
+ - date_published: 2014-05-29T23:19:28+00:00
+
+ ## The Doodle Lab | Pomona College
+ - [http://doodlelab.sites.pomona.edu](http://doodlelab.sites.pomona.edu)
+ - date_published: 2024-01-16T21:38:21+00:00
+
+ ## Home | Pomona College in Claremont, California - Pomona College
+ - [https://pomona.edu](https://pomona.edu)
+ - date_published: 2022-06-17T21:06:33+00:00
+
+ ## WVU Potomac State College | Academics | West Virginia University's Potomac State College Academics
+ - [https://academics.potomacstatecollege.edu](https://academics.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:56.225771+00:00
+
+ ## WVU Potomac State College | Admissions | Admissions and Aid
+ - [https://admissions.potomacstatecollege.edu](https://admissions.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:35.671849+00:00
+
+ ## Home | Alert Potomac State | West Virginia University
+ - [https://alert.potomacstatecollege.edu](https://alert.potomacstatecollege.edu)
+ - date_published: 2024-07-02T15:15:53.812446+00:00
+
+ ## Emergency | Potomac State Emergency | WVU Potomace State
+ - [https://emergency.potomacstatecollege.edu](https://emergency.potomacstatecollege.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
+ - [https://potomacstatecollege.edu](https://potomacstatecollege.edu)
+ - date_published: 2024-05-07T22:39:39.983878+00:00
+
+ ## WVU Potomac State College | Student Experience | Student Experience
+ - [https://studentexperience.potomacstatecollege.edu](https://studentexperience.potomacstatecollege.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## SUNY Potsdam Employment Site | Home
+ - [https://employment.potsdam.edu](https://employment.potsdam.edu)
+ - date_published: 2024-05-09T06:39:54.286746+00:00
+
+ ## SUNY Potsdam | SUNY Potsdam
+ - [https://www.potsdam.edu](https://www.potsdam.edu)
+ - date_published: 2024-07-09T20:24:33+00:00
+
+ ## Sign In
+ - [https://canvas.pratt.edu](https://canvas.pratt.edu)
+ - date_published: 2024-07-08T15:07:03.053984+00:00
+
+ ## Home | Pratt Academic Catalog
+ - [https://catalog.pratt.edu](https://catalog.pratt.edu)
+ - date_published: 2024-03-20T15:46:25+00:00
+
+ ## Admissions
+ - [https://connect.pratt.edu](https://connect.pratt.edu)
+ - date_published: 2024-07-08T15:07:17.835014+00:00
+
+ ## Pratt Institute Libraries
+ - [https://library.pratt.edu](https://library.pratt.edu)
+ - date_published: 2024-07-08T15:07:08.293842+00:00
+
+ ## Homepage
+ - [https://pratt.edu](https://pratt.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## talks.pratt.edu
+ - [https://talks.pratt.edu](https://talks.pratt.edu)
+ - date_published: 2024-07-08T15:07:12+00:00
+
+ ## Pardee RAND Graduate School
+ - [https://www.prgs.edu](https://www.prgs.edu)
+ - date_published: 2024-07-20T12:32:22.127316+00:00
+
+ ## 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions
+ - [https://3dmatch.cs.princeton.edu](https://3dmatch.cs.princeton.edu)
+ - date_published: 2018-03-24T06:35:48+00:00
+
+ ## Department of African American Studies
+ - [https://aas.princeton.edu](https://aas.princeton.edu)
+ - date_published: 2024-05-07T20:00:41.715109+00:00
+
+ ## Accessibility at Princeton
+ - [https://accessibility.princeton.edu](https://accessibility.princeton.edu)
+ - date_published: 2024-05-07T19:53:18.697025+00:00
+
+ ## Home Page - Andlinger Center for Energy and the Environment
+ - [https://acee.princeton.edu](https://acee.princeton.edu)
+ - date_published: 2024-07-01T17:17:23.205746+00:00
+
+ ## Princeton University Admission
+ - [https://admission.princeton.edu](https://admission.princeton.edu)
+ - date_published: 2024-05-07T20:00:21.559566+00:00
+
+ ## Princeton University | Advancement Data Privacy Policy
+ - [https://advancementdataprivacy.princeton.edu](https://advancementdataprivacy.princeton.edu)
+ - date_published: 2024-04-17T16:28:14+00:00
+
+ ## Princeton AI4ALL
+ - [https://ai4all.princeton.edu](https://ai4all.princeton.edu)
+ - date_published: 2024-06-22T09:45:38+00:00
+
+ ## Home | Princeton Alumni
+ - [https://alumni.princeton.edu](https://alumni.princeton.edu)
+ - date_published: 2024-05-07T20:00:16.724721+00:00
+
+ ## Effron Center for the Study of America
+ - [https://ams.princeton.edu](https://ams.princeton.edu)
+ - date_published: 2024-07-01T04:06:30+00:00
+
+ ## Annals of Mathematics | Annals of Mathematics, Journal
+ - [https://annals.math.princeton.edu](https://annals.math.princeton.edu)
+ - date_published: 2024-06-30T08:08:25.380274+00:00
+
+ ## Anthropology@Princeton
+ - [https://anthropology.princeton.edu](https://anthropology.princeton.edu)
+ - date_published: 2024-05-07T19:53:26.029148+00:00
+
+ ## Princeton University Admission
+ - [https://apply.princeton.edu](https://apply.princeton.edu)
+ - date_published: 2024-07-01T16:20:41+00:00
+
+ ## Princeton Mellon Initiative in Architecture, Urbanism & the Humanities
+ - [https://arc-hum.princeton.edu](https://arc-hum.princeton.edu)
+ - date_published: 2024-07-08T04:15:34+00:00
+
+ ## Home
+ - [https://arts.princeton.edu](https://arts.princeton.edu)
+ - date_published: 2024-07-01T17:24:49.828398+00:00
+
+ ## Anna Stilz
+ - [https://astilz.scholar.princeton.edu](https://astilz.scholar.princeton.edu)
+ - date_published: 2024-06-14T00:33:27+00:00
+
+ ## Kahneman-Treisman Center for Behavioral Science & Public Policy
+ - [https://behavioralpolicy.princeton.edu](https://behavioralpolicy.princeton.edu)
+ - date_published: 2024-04-29T03:20:00.721032+00:00
+
+ ## Home - Princeton University WordPress Service
+ - [https://blogs.princeton.edu](https://blogs.princeton.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Brazil LAB
+ - [https://brazillab.princeton.edu](https://brazillab.princeton.edu)
+ - date_published: 2024-07-01T04:52:01+00:00
+
+ ## Bridging Divides Initiative
+ - [https://bridgingdivides.princeton.edu](https://bridgingdivides.princeton.edu)
+ - date_published: 2024-06-16T05:06:30+00:00
+
+ ## Search Opportunities
+ - [https://careers.princeton.edu](https://careers.princeton.edu)
+ - date_published: 2024-05-07T20:00:19.564402+00:00
+
  ## Your Cart
  - [https://cart.press.princeton.edu](https://cart.press.princeton.edu)
  - date_published: 2024-05-07T19:54:37.253591+00:00
@@ -3840,172 +4008,4 @@
  ## Salk Institute for Biological Studies
  - [http://rolodex.salk.edu](http://rolodex.salk.edu)
  - date_published: 2024-07-02T01:33:51.832437+00:00
-
- ## Salk Institute Identity Server
- - [http://salkland.salk.edu](http://salkland.salk.edu)
- - date_published: 2024-07-02T01:33:38.059151+00:00
-
- ## Salk Streaming
- - [https://streaming.salk.edu](https://streaming.salk.edu)
- - date_published: 2024-07-01T16:40:53+00:00
-
- ## Salk Institute for Biological Studies
- - [https://salk.edu](https://salk.edu)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Carl Sandburg College - Acalog ACMS™
- - [https://academiccatalog.sandburg.edu](https://academiccatalog.sandburg.edu)
- - date_published: 2024-07-14T15:21:06.620418+00:00
-
- ## Dates & deadlines
- - [https://applications.sandburg.edu](https://applications.sandburg.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Carl Sandburg College
- - [https://www.sandburg.edu](https://www.sandburg.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## University of San Diego Home Pages
- - [https://home.sandiego.edu](https://home.sandiego.edu)
- - date_published: 2023-10-09T17:47:47+00:00
-
- ## University of San Diego
- - [http://www.sandiego.edu](http://www.sandiego.edu)
- - date_published: 2024-06-17T11:14:46.151388+00:00
-
- ## SANS.edu Internet Storm Center - SANS Internet Storm Center
- - [https://isc.sans.edu](https://isc.sans.edu)
- - date_published: 2023-10-25T18:57:24.482790+00:00
-
- ## Cybersecurity Degree and Certificate Programs | SANS Technology Institute
- - [https://www.sans.edu](https://www.sans.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home | Santa Fe Institute
- - [https://santafe.edu](https://santafe.edu)
- - date_published: 2023-12-02T04:06:17.286147+00:00
-
- ## Homepage - Santa Barbara City College
- - [https://www.sbcc.edu](https://www.sbcc.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## St. Bonaventure University
- - [http://www.sbu.edu](http://www.sbu.edu)
- - date_published: 2024-06-28T14:07:00.612077+00:00
-
- ## Welcome - CSCE 490/492 Capstone Computing Project Class
- - [http://capstone.cse.sc.edu](http://capstone.cse.sc.edu)
- - date_published: 2024-06-07T19:01:54+00:00
-
- ## Jose M. Vidal
- - [https://jmvidal.cse.sc.edu](https://jmvidal.cse.sc.edu)
- - date_published: 2024-05-02T12:43:39+00:00
-
- ## Molinaroli College of Engineering and Computing - Molinaroli College of Engineering and Computing | University of South Carolina
- - [http://www.cec.sc.edu](http://www.cec.sc.edu)
- - date_published: 2024-06-23T09:12:31.588669+00:00
-
- ## News | My Computer Science and Engineering Department
- - [http://www.cse.sc.edu](http://www.cse.sc.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## University of South Carolina
- - [http://www.sc.edu](http://www.sc.edu)
- - date_published: 2024-06-23T09:12:41.195798+00:00
-
- ## USC Seismology - Home
- - [http://www.seis.sc.edu](http://www.seis.sc.edu)
- - date_published: 2018-04-09T19:45:42+00:00
-
- ## SCI-Arc Channel
- - [https://channel.sciarc.edu](https://channel.sciarc.edu)
- - date_published: 2024-07-08T14:52:25.485898+00:00
-
- ## HOME | My SCI-Arc
- - [https://my.sciarc.edu](https://my.sciarc.edu)
- - date_published: 2024-07-08T14:52:19.210550+00:00
-
- ## SCI Arc - Institute of Architecture | Southern California | Enroll Now - SCI-Arc
- - [https://sciarc.edu](https://sciarc.edu)
- - date_published: 2024-05-08T11:43:32.948888+00:00
-
- ## Home - Scripps Centennial
- - [https://100.scripps.edu](https://100.scripps.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Scripps Research Education & Training
- - [https://education.scripps.edu](https://education.scripps.edu)
- - date_published: 2024-05-07T20:23:21.382890+00:00
-
- ## Front Row Lecture Series - Scripps Research
- - [https://frontrow.scripps.edu](https://frontrow.scripps.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home - Scripps Research Magazine
- - [https://magazine.scripps.edu](https://magazine.scripps.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Homepage
- - [http://vina.scripps.edu](http://vina.scripps.edu)
- - date_published: 2024-06-17T03:16:13.219295+00:00
-
- ## Scripps Research
- - [https://scripps.edu](https://scripps.edu)
- - date_published: 2024-01-06T17:19:10.654645+00:00
-
- ## File not found - 404 - Santa Clara University
- - [https://assets.scu.edu](https://assets.scu.edu)
- - date_published: 2024-05-07T20:23:28.216609+00:00
-
- ## Event Calendar - Santa Clara University
- - [https://events.scu.edu](https://events.scu.edu)
- - date_published: 2024-05-07T20:23:29.559645+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://image.scu.edu](https://image.scu.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Home - Santa Clara Magazine
- - [https://magazine.scu.edu](https://magazine.scu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## TERMINALFOUR
- - [https://t4.scu.edu](https://t4.scu.edu)
- - date_published: 2024-05-07T20:23:27.614713+00:00
-
- ## Santa Clara University: The Jesuit University in Silicon Valley
- - [https://scu.edu](https://scu.edu)
- - date_published: 2023-11-21T17:24:48.452481+00:00
-
- ## San Diego Supercomputer Center
- - [https://www.sdsc.edu](https://www.sdsc.edu)
- - date_published: 2024-07-01T08:09:27+00:00
-
- ## https://edoras.sdsu.edu
- - [https://edoras.sdsu.edu](https://edoras.sdsu.edu)
- - date_published: 2023-08-17T17:29:31+00:00
-
- ## Welcome!
- - [https://library2.sdsu.edu](https://library2.sdsu.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Welcome!
- - [https://library.sdsu.edu](https://library.sdsu.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Department of Math & Statistics
- - [https://math.sdsu.edu](https://math.sdsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- - [https://www.sdsu.edu](https://www.sdsu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Life-Changing Education in a World-Changing City
- - [https://seattleu.edu](https://seattleu.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Seattle University School of Law
- - [http://www.law.seattleu.edu](http://www.law.seattleu.edu)
- - date_published: 2024-03-15T00:00:00+00:00
 

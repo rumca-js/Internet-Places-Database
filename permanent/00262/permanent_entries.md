@@ -1,3 +1,253 @@
+ ## JAI - JMIR AI
+ - [https://ai.jmir.org](https://ai.jmir.org)
+ - date_published: 2024-06-16T19:36:55.000901+00:00
+
+ ## JBB - JMIR Bioinformatics and Biotechnology
+ - [https://bioinform.jmir.org](https://bioinform.jmir.org)
+ - date_published: 2024-06-16T19:37:09.271953+00:00
+
+ ## JBME - JMIR Biomedical Engineering
+ - [https://biomedeng.jmir.org](https://biomedeng.jmir.org)
+ - date_published: 2024-06-16T19:38:12.352557+00:00
+
+ ## JC - JMIR Cancer
+ - [https://cancer.jmir.org](https://cancer.jmir.org)
+ - date_published: 2024-06-16T19:38:44.697883+00:00
+
+ ## JCARD - JMIR Cardio
+ - [https://cardio.jmir.org](https://cardio.jmir.org)
+ - date_published: 2024-06-16T19:38:50.546418+00:00
+
+ ## JMIR Publications (JMIR), JMIR Career Center|Find Your Career Here
+ - [https://careers.jmir.org](https://careers.jmir.org)
+ - date_published: 2024-06-16T19:37:49.117094+00:00
+
+ ## JCh - JMIR Challenges
+ - [https://challenges.jmir.org](https://challenges.jmir.org)
+ - date_published: 2024-06-16T19:38:38.732389+00:00
+
+ ## JDATA - JMIR Data
+ - [https://data.jmir.org](https://data.jmir.org)
+ - date_published: 2024-06-16T19:37:11.914097+00:00
+
+ ## JDerm - JMIR Dermatology
+ - [https://derma.jmir.org](https://derma.jmir.org)
+ - date_published: 2024-06-16T19:38:55.465097+00:00
+
+ ## JD - JMIR Diabetes
+ - [https://diabetes.jmir.org](https://diabetes.jmir.org)
+ - date_published: 2024-06-16T19:38:58.193252+00:00
+
+ ## JFR - JMIR Formative Research
+ - [https://formative.jmir.org](https://formative.jmir.org)
+ - date_published: 2024-06-16T19:37:14.935643+00:00
+
+ ## JSG - JMIR Serious Games
+ - [https://games.jmir.org](https://games.jmir.org)
+ - date_published: 2024-06-16T19:38:23.954955+00:00
+
+ ## JHF - JMIR Human Factors
+ - [https://humanfactors.jmir.org](https://humanfactors.jmir.org)
+ - date_published: 2024-06-16T19:36:59.217359+00:00
+
+ ## JI - JMIR Infodemiology
+ - [https://infodemiology.jmir.org](https://infodemiology.jmir.org)
+ - date_published: 2024-06-16T19:38:47.414377+00:00
+
+ ## JoPM - Journal of Participatory Medicine
+ - [https://jopm.jmir.org](https://jopm.jmir.org)
+ - date_published: 2024-06-16T19:36:47.042098+00:00
+
+ ## JME - JMIR Medical Education
+ - [https://mededu.jmir.org](https://mededu.jmir.org)
+ - date_published: 2024-06-16T19:37:41.923595+00:00
+
+ ## JMI - JMIR Medical Informatics
+ - [https://medinform.jmir.org](https://medinform.jmir.org)
+ - date_published: 2024-05-01T07:32:27.908915+00:00
+
+ ## JMH - JMIR Mental Health
+ - [https://mental.jmir.org](https://mental.jmir.org)
+ - date_published: 2024-06-16T19:36:44.187944+00:00
+
+ ## JMU - JMIR mHealth and uHealth
+ - [https://mhealth.jmir.org](https://mhealth.jmir.org)
+ - date_published: 2024-06-16T19:38:41.704095+00:00
+
+ ## JNT - JMIR Neurotechnology
+ - [https://neuro.jmir.org](https://neuro.jmir.org)
+ - date_published: 2024-06-16T19:38:06.543295+00:00
+
+ ## JN - JMIR Nursing
+ - [https://nursing.jmir.org](https://nursing.jmir.org)
+ - date_published: 2024-06-16T19:38:30.139033+00:00
+
+ ## OJPHI - Online Journal of Public Health Informatics
+ - [https://ojphi.jmir.org](https://ojphi.jmir.org)
+ - date_published: 2024-06-16T19:38:15.585470+00:00
+
+ ## JPP - JMIR Pediatrics and Parenting
+ - [https://pediatrics.jmir.org](https://pediatrics.jmir.org)
+ - date_published: 2024-06-16T19:37:06.258915+00:00
+
+ ## JPop - JMIR Perioperative Medicine
+ - [https://periop.jmir.org](https://periop.jmir.org)
+ - date_published: 2024-06-16T19:36:52.496618+00:00
+
+ ## JP - JMIR Preprints
+ - [https://preprints.jmir.org](https://preprints.jmir.org)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## JPH - JMIR Public Health and Surveillance
+ - [https://publichealth.jmir.org](https://publichealth.jmir.org)
+ - date_published: 2024-06-16T19:38:36.356758+00:00
+
+ ## JRAT - JMIR Rehabilitation and Assistive Technologies
+ - [https://rehab.jmir.org](https://rehab.jmir.org)
+ - date_published: 2024-06-16T19:37:35.890855+00:00
+
+ ## JMIR - Journal of Medical Internet Research
+ - [https://www.jmir.org](https://www.jmir.org)
+ - date_published: 2024-06-16T19:38:26.971261+00:00
+
+ ## JMIRxBio - JMIRx Bio
+ - [https://xbio.jmir.org](https://xbio.jmir.org)
+ - date_published: 2024-06-16T19:37:02.416792+00:00
+
+ ## JMIRxMed - JMIRx Med
+ - [https://xmed.jmir.org](https://xmed.jmir.org)
+ - date_published: 2024-06-16T19:37:44.362626+00:00
+
+ ## JMIR XR - JMIR XR and Spatial Computing (JMXR)
+ - [https://xr.jmir.org](https://xr.jmir.org)
+ - date_published: 2024-06-16T19:38:09.231570+00:00
+
+ ## Journal of Machine Learning Research
+ - [https://jmlr.org](https://jmlr.org)
+ - date_published: 2024-05-11T11:25:23.803606+00:00
+
+ ## jmlynch.org
+ - [http://blog.jmlynch.org](http://blog.jmlynch.org)
+ - date_published: 2024-06-30T10:08:17.439841+00:00
+
+ ## MRM2023/IUMRS-ICA2023 | Advanced Materials Research Grand Meeting
+ - [https://mrm2023.jmru.org](https://mrm2023.jmru.org)
+ - date_published: 2024-07-16T22:02:42.644386+00:00
+
+ ## Don Norman's JND.org
+ - [https://jnd.org](https://jnd.org)
+ - date_published: 2024-04-29T02:48:44.667605+00:00
+ - tags: ['personal']
+
+ ## Journal of Neuroscience
+ - [https://www.jneurosci.org](https://www.jneurosci.org)
+ - date_published: 2023-12-07T08:21:12.636553+00:00
+
+ ## My Jewish National Fund | JNF
+ - [https://my.jnf.org](https://my.jnf.org)
+ - date_published: 2024-06-30T02:28:03.378812+00:00
+
+ ## JNS
+ - [https://crm.jns.org](https://crm.jns.org)
+ - date_published: 2024-05-08T08:59:40.052774+00:00
+
+ ## JNS.org
+ - [https://dev.jns.org](https://dev.jns.org)
+ - date_published: 2024-07-04T15:08:39+00:00
+
+ ## JNS.org
+ - [https://jns.org](https://jns.org)
+ - date_published: 2023-11-02T15:51:39.301436+00:00
+
+ ## 第42回日本神経科学大会／第62回日本神経化学会大会 | NEURO2019
+ - [https://neuro2019.jnss.org](https://neuro2019.jnss.org)
+ - date_published: 2019-09-11T01:51:00+00:00
+
+ ## Journal of Aesthetics & Protest
+ - [https://joaap.org](https://joaap.org)
+ - date_published: 2024-05-02T08:56:54+00:00
+
+ ## SVM-Light: Support Vector Machine
+ - [http://svmlight.joachims.org](http://svmlight.joachims.org)
+ - date_published: 2024-07-01T17:25:30.839224+00:00
+
+ ## The Job Guarantee Program
+ - [https://jobguarantee.org](https://jobguarantee.org)
+ - date_published: 2024-07-15T09:13:05.338623+00:00
+ - tags: ['job']
+
+ ## Job Guarantee
+ - [https://jobguaranteenow.org](https://jobguaranteenow.org)
+ - date_published: 2024-07-15T02:17:01+00:00
+
+ ## Joblint
+ - [https://joblint.org](https://joblint.org)
+ - date_published: 2023-03-13T16:51:20+00:00
+
+ ## Job's Daughters International
+ - [http://www.jobsdaughtersinternational.org](http://www.jobsdaughtersinternational.org)
+ - date_published: 2024-06-16T07:32:10+00:00
+
+ ## Jobs-to-be-Done | It's more than just Milkshakes. Get the latest on Jobs-to-be-Done here.
+ - [https://jobstobedone.org](https://jobstobedone.org)
+ - date_published: 2024-06-21T21:55:37.971223+00:00
+
+ ## 上代文学会
+ - [http://jodaibungakukai.org](http://jodaibungakukai.org)
+ - date_published: 2024-06-24T09:35:00+00:00
+
+ ## SOD.1%
+ - [http://sod.jodi.org](http://sod.jodi.org)
+ - date_published: 2021-12-28T16:03:27+00:00
+
+ ## %Location | http://wwwwwwwww.jodi.org
+ - [https://wwwwwwwww.jodi.org](https://wwwwwwwww.jodi.org)
+ - date_published: 2020-05-15T14:33:08+00:00
+
+ ## Joe Clark, Toronto (2023.12.23)
+ - [https://joeclark.org](https://joeclark.org)
+ - date_published: 2024-02-29T15:30:59+00:00
+
+ ## The View From North Central Idaho
+ - [http://blog.joehuffman.org](http://blog.joehuffman.org)
+ - date_published: 2024-07-03T23:46:47.758191+00:00
+
+ ## Author | Joelightfoot.org
+ - [https://www.joelightfoot.org](https://www.joelightfoot.org)
+ - date_published: 2024-06-12T12:47:14.952732+00:00
+
+ ## Blog - joeyrobert.org
+ - [https://joeyrobert.org](https://joeyrobert.org)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## JogAmp.org - Java graphics, audio, media and processing libraries exposing OpenAL, OpenGL (+FFmpeg) and OpenCL
+ - [https://jogamp.org](https://jogamp.org)
+ - date_published: 2023-08-18T17:31:05+00:00
+
+ ## Johannes Brahms
+ - [https://www.johannesbrahms.org](https://www.johannesbrahms.org)
+ - date_published: 2022-09-01T02:35:14+00:00
+
+ ## Johannes Vermeer: Complete Vermeer Paintings Analysis
+ - [https://www.johannesvermeer.org](https://www.johannesvermeer.org)
+ - date_published: 2024-06-26T14:11:27.394891+00:00
+
+ ## Michi's Blog
+ - [http://blog.mikael.johanssons.org](http://blog.mikael.johanssons.org)
+ - date_published: 2015-05-09T00:00:00+00:00
+
+ ## Banditry
+ - [http://www.johnband.org](http://www.johnband.org)
+ - date_published: 2024-06-18T02:10:59+00:00
+
+ ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
+ - [https://johncarterofmars.org](https://johncarterofmars.org)
+ - date_published: 2016-06-14T02:01:22+00:00
+
+ ## John and Heather Tobey
+ - [http://john-edwin-tobey.org](http://john-edwin-tobey.org)
+ - date_published: 2016-07-25T00:00:00+00:00
+
  ## John Ford
  - [http://blog.johnford.org](http://blog.johnford.org)
  - date_published: 2024-07-01T10:23:43+00:00
@@ -3809,258 +4059,4 @@ Hosted by Panix.com.
  ## 403 - Verboten: Zugriff verweigert.
  - [http://www.kosmopolito.org](http://www.kosmopolito.org)
  - date_published: 2024-06-27T08:46:34.663011+00:00
-
- ## Kosmorama
- - [https://www.kosmorama.org](https://www.kosmorama.org)
- - date_published: 2024-07-02T23:12:33+00:00
-
- ## Home April 2023
- - [https://www.kosmosjournal.org](https://www.kosmosjournal.org)
- - date_published: 2024-06-12T12:51:26.037283+00:00
-
- ## Origami by Michał Kosmulski
- - [https://origami.kosmulski.org](https://origami.kosmulski.org)
- - date_published: 2023-10-25T21:37:13.563028+00:00
-
- ## Home
- - [https://kotlinfoundation.org](https://kotlinfoundation.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Kotlin Discussions
- - [https://discuss.kotlinlang.org](https://discuss.kotlinlang.org)
- - date_published: 2024-04-29T07:04:05.148624+00:00
-
- ## Kotlin Programming Language
- - [https://kotlinlang.org](https://kotlinlang.org)
- - date_published: 2023-12-11T12:12:45+00:00
- - tags: ['programming language', 'kotlin']
-
- ## Kotlin Playground: Edit, Run, Share Kotlin Code Online
- - [https://play.kotlinlang.org](https://play.kotlinlang.org)
- - date_published: 2024-07-08T09:38:47+00:00
-
- ## kotlinlang #announcements
- - [https://slack-chats.kotlinlang.org](https://slack-chats.kotlinlang.org)
- - date_published: 2024-04-29T07:59:35.602523+00:00
-
- ## Kotlin Playground: Edit, Run, Share Kotlin Code Online
- - [http://try.kotlinlang.org](http://try.kotlinlang.org)
- - date_published: 2024-07-08T09:38:47+00:00
-
- ## Welcome to nginx!
- - [http://www.kotnet.org](http://www.kotnet.org)
- - date_published: 2018-11-09T05:37:43+00:00
-
- ## KOTO RADIO
- - [https://koto.org](https://koto.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## KOTO RADIO
- - [http://www.koto.org](http://www.koto.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## kottke.org - home of fine hypertext products
- - [https://bonus.kottke.org](https://bonus.kottke.org)
- - date_published: 2024-05-08T09:19:46.110011+00:00
-
- ## kottke.org feeds
- - [http://feeds.kottke.org](http://feeds.kottke.org)
- - date_published: 2024-02-26T14:57:12.364327+00:00
-
- ## kottke.org - home of fine hypertext products
- - [https://kottke.org](https://kottke.org)
- - date_published: 2023-10-25T09:24:05.372537+00:00
- - tags: ['personal']
-
- ## Kourovka Notebook
- - [https://kourovka-notebook.org](https://kourovka-notebook.org)
- - date_published: 2024-06-30T11:21:59.981553+00:00
-
- ## Kouzou Sakai Illustration
- - [https://kouzou.org](https://kouzou.org)
- - date_published: 2024-07-02T18:42:24.963276+00:00
-
- ## Employer Health Plans | Kaiser Permanente Business
- - [https://account.kp.org](https://account.kp.org)
- - date_published: 2024-07-12T01:09:13+00:00
-
- ## KPBS Producers Club
- - [https://campaign.kpbs.org](https://campaign.kpbs.org)
- - date_published: 2024-05-08T09:20:19.181539+00:00
-
- ## CDP
- - [https://donate.kpbs.org](https://donate.kpbs.org)
- - date_published: 2024-07-05T10:51:22+00:00
-
- ## KPBS Video
- - [https://video.kpbs.org](https://video.kpbs.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## KPBS Homepage | KPBS Public Media
- - [https://kpbs.org](https://kpbs.org)
- - date_published: 2023-10-25T21:37:17.991746+00:00
-
- ## Home - KPCW
- - [https://www.kpcw.org](https://www.kpcw.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## KPFA | Community Powered Radio
- - [https://kpfa.org](https://kpfa.org)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Login - Open Web Analytics
- - [https://stats.kp-wiki.org](https://stats.kp-wiki.org)
- - date_published: 2024-05-14T13:34:03.316624+00:00
-
- ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [http://blogs.kqed.org](http://blogs.kqed.org)
- - date_published: 2024-06-29T20:09:48.268775+00:00
-
- ## Support public media
- - [https://donate.kqed.org](https://donate.kqed.org)
- - date_published: 2024-05-08T09:29:35.216845+00:00
-
- ## HelpCenter
- - [https://kqed-helpcenter.kqed.org](https://kqed-helpcenter.kqed.org)
- - date_published: 2023-07-08T04:44:16+00:00
-
- ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://kqed.org](https://kqed.org)
- - date_published: 2024-05-08T09:29:15.538345+00:00
-
- ## KQED Teach
- - [https://teach.kqed.org](https://teach.kqed.org)
- - date_published: 2024-05-04T09:32:09.445998+00:00
-
- ## KQED Video
- - [https://video.kqed.org](https://video.kqed.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## KQED | News, Radio, Podcasts, TV | Public Media for Northern California
- - [https://ww2.kqed.org](https://ww2.kqed.org)
- - date_published: 2024-05-06T17:12:07.712129+00:00
-
- ## Youth Media Challenges | KQED
- - [https://youthmedia.kqed.org](https://youthmedia.kqed.org)
- - date_published: 2024-06-25T15:50:37.753350+00:00
-
- ## KRCL | Home
- - [https://krcl.org](https://krcl.org)
- - date_published: 2024-02-24T18:10:58.378179+00:00
-
- ## Front Page | Krell Institute
- - [https://www.krellinst.org](https://www.krellinst.org)
- - date_published: 2024-06-14T00:52:38.809793+00:00
-
- ## Kress Home | Samuel H. Kress Foundation
- - [https://kressfoundation.org](https://kressfoundation.org)
- - date_published: 2024-05-07T15:03:40.844729+00:00
-
- ## Kresus - Gestionnaire de finances personnelles
- - [https://kresus.org](https://kresus.org)
- - date_published: 2024-05-18T14:03:50+00:00
-
- ## KRFC 88.9 FM – Radio from Colorado, for Colorado and the world.
- - [http://www.krfcfm.org](http://www.krfcfm.org)
- - date_published: 2024-07-07T05:12:30.264399+00:00
- - tags: ['radio station']
-
- ## Home - krfnd
- - [https://krfnd.org](https://krfnd.org)
- - date_published: 2021-03-24T00:00:00+00:00
-
- ## Форум Krinkels.org
- - [https://krinkels.org](https://krinkels.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## KB
- - [https://www.krisb.org](https://www.krisb.org)
- - date_published: 2024-06-29T03:19:26.735698+00:00
-
- ## Krita Fund | Digital Painting. Creative Freedom.
- - [https://fund.krita.org](https://fund.krita.org)
- - date_published: 2023-10-25T21:37:38.421533+00:00
-
- ## Krita
- - [https://krita.org](https://krita.org)
- - date_published: 2023-10-25T08:33:48.431626+00:00
- - tags: ['open source', 'image editor', 'desktop program']
-
- ## Krusader - Twin panel file management for your desktop
- - [https://krusader.org](https://krusader.org)
- - date_published: 2023-10-30T13:59:36.700036+00:00
- - tags: ['krusader', 'open source', 'desktop program']
-
- ## Kryogenix Consulting
- - [https://kryogenix.org](https://kryogenix.org)
- - date_published: 2022-10-17T13:16:41+00:00
- - tags: ['consulting', 'personal']
-
- ## Kansas Judicial Center
- - [https://www.kscourts.org](https://www.kscourts.org)
- - date_published: 2024-07-13T23:19:26.964383+00:00
-
- ## Home         - Kansas Historical Society
- - [http://www.kshs.org](http://www.kshs.org)
- - date_published: 2024-07-07T03:27:29.219779+00:00
-
- ## KSI Research Inc.
- - [https://ksiresearch.org](https://ksiresearch.org)
- - date_published: 2017-02-16T01:40:26+00:00
-
- ## KSJD - Homepage | KSJD
- - [http://www.ksjd.org](http://www.ksjd.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## KSJS | Student Run 24/7 Ground Zero Radio
- - [https://ksjs.org](https://ksjs.org)
- - date_published: 2020-07-07T03:42:26+00:00
-
- ## Welcome | Kansas State Legislature
- - [http://kslegislature.org](http://kslegislature.org)
- - date_published: 2024-07-13T23:20:38.775096+00:00
-
- ## Welcome | Kansas State Legislature
- - [https://www.kslegislature.org](https://www.kslegislature.org)
- - date_published: 2024-07-01T12:37:56.580874+00:00
-
- ## Page Redirection
- - [http://www.kslegresearch.org](http://www.kslegresearch.org)
- - date_published: 2016-04-27T14:30:15+00:00
-
- ## KMEA ISW
- - [https://isw.ksmea.org](https://isw.ksmea.org)
- - date_published: 2024-07-15T06:08:48.218477+00:00
-
- ## KMEA – Music is an integral, vibrant part of life.
- - [https://ksmea.org](https://ksmea.org)
- - date_published: 2024-05-12T05:27:09.634504+00:00
-
- ## KMEA Members
- - [https://members.ksmea.org](https://members.ksmea.org)
- - date_published: 2024-07-15T06:08:46.142335+00:00
-
- ## Kansas Museums Association | The Kansas Museums Association strengthens the Kansas museum community through education, communication and collaboration.
- - [http://www.ksmuseums.org](http://www.ksmuseums.org)
- - date_published: 2024-07-03T08:39:27+00:00
-
- ## Kansas News Service - Homepage | KMUW
- - [https://ksnewsservice.org](https://ksnewsservice.org)
- - date_published: 2024-05-08T09:05:45.580976+00:00
-
- ## Williamsburg Postcards
- - [http://williamsburg.kspot.org](http://williamsburg.kspot.org)
- - date_published: 2021-02-26T05:32:14+00:00
-
- ## Lahore Science Mela – Khwarizmi Science Society
- - [https://ksslsm.org](https://ksslsm.org)
- - date_published: 2024-05-08T11:36:49.405853+00:00
-
- ## Lån Uten Sikkerhet | Søk Beste (2022)
- - [https://www.ksualumni.org](https://www.ksualumni.org)
- - date_published: 2014-10-29T22:23:48+00:00
-
- ## Home Page - Kansas State University Foundation
- - [https://ksufoundation.org](https://ksufoundation.org)
- - date_published: 2024-02-19T00:00:00+00:00
 

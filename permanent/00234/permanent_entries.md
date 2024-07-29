@@ -1,3 +1,238 @@
+ ## Home
+- Community Resource Guide
+ - [https://crg.amedd.army.mil](https://crg.amedd.army.mil)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Welcome! | DCS, G-9
+ - [https://dcsg9.army.mil](https://dcsg9.army.mil)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## U.S. Army Center of Military History
+ - [https://history.army.mil](https://history.army.mil)
+ - date_published: 2024-07-01T06:33:00+00:00
+
+ ## Army Garrisons :: U.S. Army Installation Management Command
+ - [https://home.army.mil](https://home.army.mil)
+ - date_published: 2024-05-07T22:28:14.835339+00:00
+
+ ## Welcome // 
+      ICAM Portal
+ - [https://icamportal.us.army.mil](https://icamportal.us.army.mil)
+ - date_published: 2024-07-15T03:43:21.290333+00:00
+
+ ## Home
+ - [https://medcoe.army.mil](https://medcoe.army.mil)
+ - date_published: 2024-05-12T05:00:36.748668+00:00
+
+ ## MyArmyBenefits | Official U.S. Army Military Benefits Website
+ - [https://myarmybenefits.us.army.mil](https://myarmybenefits.us.army.mil)
+ - date_published: 2024-07-15T03:44:13.157081+00:00
+
+ ## Welcome! | Readyarmy
+ - [https://ready.army.mil](https://ready.army.mil)
+ - date_published: 2024-07-02T14:02:30.540300+00:00
+
+ ## U.S. Army Recruiting Command
+ - [https://recruiting.army.mil](https://recruiting.army.mil)
+ - date_published: 2024-07-15T03:44:39.173148+00:00
+
+ ## Fort Sill | Fires Center of Excellence
+ - [https://sill-www.army.mil](https://sill-www.army.mil)
+ - date_published: 2024-07-15T03:43:40.751525+00:00
+
+ ## US Army Soldier For Life
+ - [https://soldierforlife.army.mil](https://soldierforlife.army.mil)
+ - date_published: 2024-05-12T05:26:44.574270+00:00
+
+ ## U.S. Army Training Doctrine and Command – Victory Starts Here
+ - [https://uat.tradoc.army.mil](https://uat.tradoc.army.mil)
+ - date_published: 2024-07-15T03:43:56.353912+00:00
+
+ ## US Army Combined Arms Center
+ - [http://usacac.army.mil](http://usacac.army.mil)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## CIMT
+ - [https://usacimt.tradoc.army.mil](https://usacimt.tradoc.army.mil)
+ - date_published: 2024-07-03T13:52:45+00:00
+
+ ## Mission - US Army Institute for Religious Leadership
+ - [https://usairl.tradoc.army.mil](https://usairl.tradoc.army.mil)
+ - date_published: 2023-10-27T00:00:00+00:00
+
+ ## Slate VX
+ - [https://vbo.army.mil](https://vbo.army.mil)
+ - date_published: 2024-07-12T21:21:53+00:00
+
+ ## The Official Home Page of the United States Army
+ - [https://www.army.mil](https://www.army.mil)
+ - date_published: 2023-12-25T20:06:41.547970+00:00
+
+ ## Directorate of Prevention, Resilience and Readiness
+ - [https://www.armyresilience.army.mil](https://www.armyresilience.army.mil)
+ - date_published: 2024-06-27T17:47:40+00:00
+
+ ## Army University Press
+ - [https://www.armyupress.army.mil](https://www.armyupress.army.mil)
+ - date_published: 2024-07-08T21:38:26.704274+00:00
+
+ ## ERDC
+ - [https://www.erdc.usace.army.mil](https://www.erdc.usace.army.mil)
+ - date_published: 2024-07-07T03:22:52.139590+00:00
+
+ ## IKN - Intelligence Knowledge Network
+ - [https://www.ikn.army.mil](https://www.ikn.army.mil)
+ - date_published: 2024-07-15T03:43:34+00:00
+
+ ## Home
+ - [https://www.inscom.army.mil](https://www.inscom.army.mil)
+ - date_published: 2024-05-12T05:00:39.924305+00:00
+
+ ## New York District, U.S. Army Corps of Engineers
+ - [https://www.nan.usace.army.mil](https://www.nan.usace.army.mil)
+ - date_published: 2024-06-28T13:14:13.177582+00:00
+
+ ## NCO Leadership Center of Excellence
+ - [https://www.ncolcoe.army.mil](https://www.ncolcoe.army.mil)
+ - date_published: 2024-07-15T03:43:43.724632+00:00
+
+ ## Records Management Directorate and Army Declassification Directorate
+ - [https://www.rmda.army.mil](https://www.rmda.army.mil)
+ - date_published: 2023-09-11T21:11:43+00:00
+
+ ## HOME
+ - [https://www.smdc.army.mil](https://www.smdc.army.mil)
+ - date_published: 2024-07-15T03:43:29.449532+00:00
+
+ ## Sacramento District, U.S. Army Corps of Engineers
+ - [https://www.spk.usace.army.mil](https://www.spk.usace.army.mil)
+ - date_published: 2024-07-09T11:47:27.437285+00:00
+
+ ## U.S. Army Training and Doctrine Command – Victory Starts Here
+ - [https://www.tradoc.army.mil](https://www.tradoc.army.mil)
+ - date_published: 2024-05-12T05:00:33.265148+00:00
+
+ ## Headquarters U.S. Army Corps of Engineers
+ - [https://www.usace.army.mil](https://www.usace.army.mil)
+ - date_published: 2024-06-17T09:07:38.135591+00:00
+
+ ## Home
+ - [https://www.usainscom.army.mil](https://www.usainscom.army.mil)
+ - date_published: 2024-07-15T03:44:47.177691+00:00
+
+ ## U.S. Army Reserve home
+ - [http://www.usar.army.mil](http://www.usar.army.mil)
+ - date_published: 2024-07-15T03:43:46.299700+00:00
+
+ ## Home
+ - [https://www.centcom.mil](https://www.centcom.mil)
+ - date_published: 2024-06-21T02:38:14.470944+00:00
+
+ ## https://www.cto.mil
+ - [https://www.cto.mil](https://www.cto.mil)
+ - date_published: 2024-01-09T03:34:26.715283+00:00
+
+ ## DoD Cyber Exchange – DoD Cyber Exchange
+ - [https://public.cyber.mil](https://public.cyber.mil)
+ - date_published: 2024-06-25T13:02:55+00:00
+
+ ## Home USCYBERCOM
+ - [http://www.cybercom.mil](http://www.cybercom.mil)
+ - date_published: 2024-07-03T13:37:30.869774+00:00
+
+ ## Home|AI for Critical Mineral Assessment Competition
+ - [https://criticalminerals.darpa.mil](https://criticalminerals.darpa.mil)
+ - date_published: 2024-06-22T07:51:45.467112+00:00
+
+ ## DARPA Triage Challenge
+ - [https://triagechallenge.darpa.mil](https://triagechallenge.darpa.mil)
+ - date_published: 2024-01-01T17:15:56+00:00
+
+ ## Defense Advanced Research Projects Agency
+ - [https://www.darpa.mil](https://www.darpa.mil)
+ - date_published: 2023-10-25T20:22:24.810237+00:00
+ - tags: ['survaillance', 'military']
+
+ ## Department of Defense Cyber Crime Center (DC3) > About DC3
+ - [https://www.dc3.mil](https://www.dc3.mil)
+ - date_published: 2024-05-08T02:44:09.422185+00:00
+
+ ## Defense Contract Audit Agency - Home
+ - [http://www.dcaa.mil](http://www.dcaa.mil)
+ - date_published: 2024-07-03T13:54:29.179437+00:00
+
+ ## Defense Digital Service
+ - [https://www.dds.mil](https://www.dds.mil)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## U.S. Department of Defense
+ - [http://www.defenselink.mil](http://www.defenselink.mil)
+ - date_published: 2024-06-20T02:54:17.098209+00:00
+
+ ## Defense Small Business Innovation Research / Small Business Technology Transfer
+ - [https://www.defensesbirsttr.mil](https://www.defensesbirsttr.mil)
+ - date_published: 2024-07-03T13:53:03.516917+00:00
+
+ ## Defense Finance Accounting Service (DFAS)
+ - [http://www.dfas.mil](http://www.dfas.mil)
+ - date_published: 2024-07-03T13:54:30.607691+00:00
+
+ ## DIMOC Home
+ - [https://www.dimoc.mil](https://www.dimoc.mil)
+ - date_published: 2024-05-08T02:44:18.741461+00:00
+
+ ## Site :: Missing Template
+ - [https://ice.disa.mil](https://ice.disa.mil)
+ - date_published: 2021-04-02T17:32:19+00:00
+
+ ## HOME
+ - [https://disa.mil](https://disa.mil)
+ - date_published: 2024-05-12T05:00:43.153264+00:00
+
+ ## Defense Innovation Unit
+ - [https://diu.mil](https://diu.mil)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## NAVY Forms Online
+ - [https://forms.documentservices.dla.mil](https://forms.documentservices.dla.mil)
+ - date_published: 2024-07-03T13:39:49.609836+00:00
+
+ ## Defense Standardization Program (DSP)
+ - [https://www.dsp.dla.mil](https://www.dsp.dla.mil)
+ - date_published: 2024-06-22T07:07:06.256353+00:00
+
+ ## Defense Media Activity - Home
+ - [https://www.dma.mil](https://www.dma.mil)
+ - date_published: 2024-07-03T13:47:59.016548+00:00
+
+ ## WEB.MIL - U.S. DEPARTMENT OF DEFENSE
+ - [https://www.web.dma.mil](https://www.web.dma.mil)
+ - date_published: 2024-05-08T02:43:41.940888+00:00
+
+ ## Defense Industrial Base (DIB) Cybersecurity Portal
+ - [https://dibnet.dod.mil](https://dibnet.dod.mil)
+ - date_published: 2024-05-08T02:43:03.317449+00:00
+
+ ## Defense Travel Management Office | Home
+ - [https://www.defensetravel.dod.mil](https://www.defensetravel.dod.mil)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## U.S. Department of Defense
+ - [http://www.dod.mil](http://www.dod.mil)
+ - date_published: 2024-07-03T13:49:13.120460+00:00
+
+ ## Defense Travel Management Office | Home
+ - [https://travel.dod.mil](https://travel.dod.mil)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.dodig.mil](https://www.dodig.mil)
+ - date_published: 2024-05-08T02:44:16.443319+00:00
+
+ ## Home
+ - [http://navalaviationnews.navylive.dodlive.mil](http://navalaviationnews.navylive.dodlive.mil)
+ - date_published: 2024-07-09T22:15:51.364712+00:00
+
  ## Blogs
  - [http://navylive.dodlive.mil](http://navylive.dodlive.mil)
  - date_published: 2024-07-22T09:23:41.506707+00:00
@@ -2519,6 +2754,10 @@
  - [https://socium.com.mx](https://socium.com.mx)
  - date_published: 2023-06-04T00:00:00+00:00
 
+ ## Sony Pictures Mexico | Homepage
+ - [http://www.sonypictures.com.mx](http://www.sonypictures.com.mx)
+ - date_published: 2024-07-28T10:10:05.840974+00:00
+
  ## SQUAD – Los creadores de Kerbal Space Program
  - [http://www.squad.com.mx](http://www.squad.com.mx)
  - date_published: 2024-06-23T01:53:24.698870+00:00
@@ -3496,6 +3735,10 @@
  - [https://www.scotwork.my](https://www.scotwork.my)
  - date_published: 2024-06-18T09:42:08.464444+00:00
 
+ ## Sony Pictures Malaysia | Homepage
+ - [https://www.sonypictures.my](https://www.sonypictures.my)
+ - date_published: 2024-07-28T03:59:34.066402+00:00
+
  ## Graphics Drawing Tablets, Pen Display Monitors | XP-PEN Malaysia Official Store
  - [https://www.storexppen.my](https://www.storexppen.my)
  - date_published: 2024-05-30T18:40:42.192241+00:00
@@ -3806,246 +4049,4 @@
  ## jackkelly.name
  - [http://jackkelly.name](http://jackkelly.name)
  - date_published: 2024-07-08T08:28:48.333049+00:00
-
- ## Biography
- - [https://mark.james.name](https://mark.james.name)
- - date_published: 2023-12-22T13:17:20+00:00
- - tags: ['personal']
-
- ## James F. Roberts IV - code and stuff
- - [https://jamesroberts.name](https://jamesroberts.name)
- - date_published: 2024-05-01T03:29:40.043076+00:00
-
- ## Home | janw.name
- - [https://janw.name](https://janw.name)
- - date_published: 2024-07-18T04:59:37+00:00
-
- ## Jason Weaver – User Interface Engineer
- - [http://jasonweaver.name](http://jasonweaver.name)
- - date_published: 2024-06-17T02:21:20.185525+00:00
-
- ## Congratulations! You have successfully set up your website!
- - [http://jeffersonian.name](http://jeffersonian.name)
- - date_published: 2024-07-03T23:56:45.020431+00:00
-
- ## Homepage · James Wilson
- - [https://jmw.name](https://jmw.name)
- - date_published: 2024-06-16T12:43:58.406568+00:00
-
- ## Joey's git repositories
- - [https://git.joeyh.name](https://git.joeyh.name)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Joey Hess
- - [https://joeyh.name](https://joeyh.name)
- - date_published: 2023-10-25T20:23:09.769836+00:00
-
- ## Victor Kropp
- - [https://victor.kropp.name](https://victor.kropp.name)
- - date_published: 2024-01-13T18:25:27.123934+00:00
-
- ## Kümmerleho weblog – Doma v Evropě a doma v Heilbronnu.
- - [https://cs.kuemmerle.name](https://cs.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Kümmerles weblog – Hjemme i Europa og hjemme i Heilbronn.
- - [https://da.kuemmerle.name](https://da.kuemmerle.name)
- - date_published: 2024-07-10T09:31:21.763516+00:00
-
- ## Το ιστολόγιο της Kümmerle – Στο σπίτι στην Ευρώπη και στο σπίτι στο Heilbronn.
- - [https://el.kuemmerle.name](https://el.kuemmerle.name)
- - date_published: 2024-07-10T09:31:12.714318+00:00
-
- ## Kümmerle's weblog – At home in Europe and at home in Heilbronn.
- - [https://en.kuemmerle.name](https://en.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Weblog de Kümmerle – En casa en Europa y en casa en Heilbronn.
- - [https://es.kuemmerle.name](https://es.kuemmerle.name)
- - date_published: 2024-07-10T09:31:10.435496+00:00
-
- ## Kümmerlen blogi – Kotona Euroopassa ja kotona Heilbronnissa.
- - [https://fi.kuemmerle.name](https://fi.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Le blog de Kümmerle – Chez moi en Europe et chez moi à Heilbronn.
- - [https://fr.kuemmerle.name](https://fr.kuemmerle.name)
- - date_published: 2024-07-10T09:31:06.463635+00:00
-
- ## Kümmerle weblogja – Otthon Európában és otthon Heilbronnban.
- - [https://hu.kuemmerle.name](https://hu.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Il weblog di Kümmerle – A casa in Europa ea casa a Heilbronn.
- - [https://it.kuemmerle.name](https://it.kuemmerle.name)
- - date_published: 2024-07-10T09:30:52.651592+00:00
-
- ## הבלוג של Kümmerle – בבית באירופה ובבית בהילברון.
- - [https://iw.kuemmerle.name](https://iw.kuemmerle.name)
- - date_published: 2024-07-10T09:30:58.258798+00:00
-
- ## Kümmerleのウェブログ–自宅はヨーロッパ、自宅はハイルブロン。
- - [https://ja.kuemmerle.name](https://ja.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Kümmerle의 웹로그 – 유럽의 집과 Heilbronn의 집.
- - [https://ko.kuemmerle.name](https://ko.kuemmerle.name)
- - date_published: 2024-07-10T09:31:19.135292+00:00
-
- ## Kümmerles Weblog – In Europa zu Hause und in Heilbronn daheim.
- - [https://kuemmerle.name](https://kuemmerle.name)
- - date_published: 2024-05-09T08:21:35.960330+00:00
-
- ## Kümmerle scriptor diariorum – Domi in Europa et in domo Heilbronnae.
- - [https://la.kuemmerle.name](https://la.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Kümmerles weblogg – Hjemme i Europa og hjemme i Heilbronn.
- - [https://no.kuemmerle.name](https://no.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Blog firmy Kümmerle – Jak u siebie w Europie i jak u siebie w Heilbronn.
- - [https://pl.kuemmerle.name](https://pl.kuemmerle.name)
- - date_published: 2024-07-10T09:30:56.286513+00:00
-
- ## Kümmerle's weblog – Em casa na Europa e em casa em Heilbronn.
- - [https://pt.kuemmerle.name](https://pt.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Blogul lui Kümmerle – Acasă în Europa și acasă în Heilbronn.
- - [https://ro.kuemmerle.name](https://ro.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Блог Кюммерле – Дома в Европе и дома в Хайльбронне.
- - [https://ru.kuemmerle.name](https://ru.kuemmerle.name)
- - date_published: 2024-07-10T09:31:22.953127+00:00
-
- ## Kümmerles webblogg – Hemma i Europa och hemma i Heilbronn.
- - [https://sv.kuemmerle.name](https://sv.kuemmerle.name)
- - date_published: 2024-07-10T09:31:02.819634+00:00
-
- ## Kümmerle'nin web günlüğü – Avrupa'da evde ve Heilbronn'da evde.
- - [https://tr.kuemmerle.name](https://tr.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Веблог Кюммерле – вдома в Європі та вдома в Хайльбронні.
- - [https://uk.kuemmerle.name](https://uk.kuemmerle.name)
- - date_published: 2024-07-10T09:31:03.932203+00:00
-
- ## Kümmerle ס וועבלאָג – אין שטוב אין אייראָפּע און אין שטוב אין העילבראָנן.
- - [https://yi.kuemmerle.name](https://yi.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Kümmerle 的博客——在歐洲的家中，在海爾布隆的家中。
- - [https://zh-tw.kuemmerle.name](https://zh-tw.kuemmerle.name)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Jan Leike
- - [https://jan.leike.name](https://jan.leike.name)
- - date_published: 2024-05-29T18:25:09+00:00
-
- ## PowWeb
- - [http://k.lenz.name](http://k.lenz.name)
- - date_published: 2024-04-27T05:18:08+00:00
-
- ## http://lucacardelli.name
- - [http://lucacardelli.name](http://lucacardelli.name)
- - date_published: 2023-10-25T20:23:13.013388+00:00
-
- ## Creative Name Ideas for Every Occasion | MakeMy.Name Generator
- - [http://makemy.name](http://makemy.name)
- - date_published: 2024-07-04T14:51:18.300706+00:00
-
- ## mapname - Name Your Way
- - [https://map.name](https://map.name)
- - date_published: 2024-01-09T03:34:34.207438+00:00
-
- ## Welcome
- - [https://roy.marples.name](https://roy.marples.name)
- - date_published: 2024-05-04T08:31:35.815900+00:00
-
- ## Martin Orr's Home Page
- - [http://www.martinorr.name](http://www.martinorr.name)
- - date_published: 2021-09-17T09:02:14+00:00
-
- ## Matthew Buchanan
- - [http://matthewbuchanan.name](http://matthewbuchanan.name)
- - date_published: 2024-06-15T23:45:38.723908+00:00
-
- ## Matthew Miner's Website
- - [https://matthewminer.name](https://matthewminer.name)
- - date_published: 2023-10-25T20:23:19.356965+00:00
-
- ## Pensées de Michel
- - [https://michel-slm.name](https://michel-slm.name)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## mimesia.name - mimesia Zasoby i informacje.
- - [http://join.mimesia.name](http://join.mimesia.name)
- - date_published: 2024-06-15T10:59:58+00:00
-
- ## Mackenzie Morgan
- - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
- - date_published: 2023-11-29T17:07:05.410622+00:00
- - tags: ['personal']
-
- ## Michael Terry
- - [http://mterry.name](http://mterry.name)
- - date_published: 2024-04-13T21:06:25+00:00
-
- ## Paul Mucur
- - [https://mudge.name](https://mudge.name)
- - date_published: 2023-11-20T00:00:00+00:00
-
- ## Nick Benton: Home
- - [http://nickbenton.name](http://nickbenton.name)
- - date_published: 2019-07-23T17:32:43+00:00
-
- ## Nick Morris
- - [https://nickmorris.name](https://nickmorris.name)
- - date_published: 2024-02-02T14:27:11.007543+00:00
-
- ## Nirav's Contemplations
- - [http://blog.nirav.name](http://blog.nirav.name)
- - date_published: 2024-07-11T18:02:46+00:00
-
- ## Nixie's workspace
- - [https://nixie.name](https://nixie.name)
- - date_published: 2024-07-10T07:28:47.573354+00:00
-
- ## Geoff Pado
- - [https://pado.name](https://pado.name)
- - date_published: 2024-04-01T09:10:49+00:00
-
- ## jani's home page
- - [https://patokallio.name](https://patokallio.name)
- - date_published: 2015-09-17T10:58:48+00:00
-
- ## Robert Penz Blog
- - [https://robert.penz.name](https://robert.penz.name)
- - date_published: 2024-06-19T22:56:07.798778+00:00
-
- ## Conversations
- - [https://alexey.radul.name](https://alexey.radul.name)
- - date_published: 2024-04-01T00:42:52+00:00
-
- ## Pablo Rauzy
- - [https://pablo.rauzy.name](https://pablo.rauzy.name)
- - date_published: 2024-06-14T20:44:50+00:00
-
- ## Home ← Mark Reid
- - [http://mark.reid.name](http://mark.reid.name)
- - date_published: 2024-03-27T01:33:38+00:00
-
- ## Geek Blight - Home
- - [https://rg3.name](https://rg3.name)
- - date_published: 2023-10-25T20:23:20.284813+00:00
-
- ## Christian Richardt
- - [https://richardt.name](https://richardt.name)
- - date_published: 2024-04-29T06:30:21.577965+00:00
-
- ## Jak2k's Website
- - [https://jak2k.schwanenberg.name](https://jak2k.schwanenberg.name)
- - date_published: 2024-07-01T03:46:51.401130+00:00
 

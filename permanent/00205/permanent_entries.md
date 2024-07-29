@@ -1,3 +1,179 @@
+ ## Congresswoman Haley Stevens
+ - [https://stevens.house.gov](https://stevens.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Representative Marilyn Strickland
+ - [https://strickland.house.gov](https://strickland.house.gov)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Representative Dale Strong
+ - [https://strong.house.gov](https://strong.house.gov)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home - Summer Lee
+ - [https://summerlee.house.gov](https://summerlee.house.gov)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Congressman Thomas Suozzi
+ - [https://suozzi.house.gov](https://suozzi.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Representative Susie Lee
+ - [https://susielee.house.gov](https://susielee.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Swalwell
+ - [https://swalwell.house.gov](https://swalwell.house.gov)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home | U.S. Congresswoman Emilia Sykes
+ - [https://sykes.house.gov](https://sykes.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Sylvia Garcia
+ - [https://sylviagarcia.house.gov](https://sylviagarcia.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home | U.S. Congressman Mark Takano of California's 39th District
+ - [https://takano.house.gov](https://takano.house.gov)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Representative Claudia Tenney
+ - [https://tenney.house.gov](https://tenney.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Shri Thanedar
+ - [https://thanedar.house.gov](https://thanedar.house.gov)
+ - date_published: 2024-06-27T14:17:31.132460+00:00
+
+ ## Representative Thompson
+ - [https://thompson.house.gov](https://thompson.house.gov)
+ - date_published: 2024-06-27T14:13:06.197499+00:00
+
+ ## Representative Tom Tiffany
+ - [https://tiffany.house.gov](https://tiffany.house.gov)
+ - date_published: 2024-06-27T14:01:59.554453+00:00
+
+ ## Congressman William Timmons
+ - [https://timmons.house.gov](https://timmons.house.gov)
+ - date_published: 2024-06-27T14:23:43+00:00
+
+ ## Congresswoman Dina Titus
+ - [https://titus.house.gov](https://titus.house.gov)
+ - date_published: 2024-05-06T17:11:50.911626+00:00
+
+ ## Home - Rashida Tlaib
+ - [https://tlaib.house.gov](https://tlaib.house.gov)
+ - date_published: 2024-06-27T13:59:25.005625+00:00
+
+ ## Representative Jill Tokuda
+ - [https://tokuda.house.gov](https://tokuda.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Representative Paul Tonko
+ - [https://tonko.house.gov](https://tonko.house.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home | U.S. Congresswoman Norma Torres of California's 35th District
+ - [https://torres.house.gov](https://torres.house.gov)
+ - date_published: 2024-06-27T14:17:12.277719+00:00
+
+ ## U.S. Representative Lori Trahan
+ - [https://trahan.house.gov](https://trahan.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Transportation and Infrastructure Committee
+ - [https://transportation.house.gov](https://transportation.house.gov)
+ - date_published: 2024-06-27T14:17:00+00:00
+
+ ## U.S. Representative Trent Kelly
+ - [https://trentkelly.house.gov](https://trentkelly.house.gov)
+ - date_published: 2024-06-27T14:09:46+00:00
+
+ ## Home - Congressman David Trone
+ - [https://trone.house.gov](https://trone.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Troy Carter
+ - [https://troycarter.house.gov](https://troycarter.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Michael Turner
+ - [https://turner.house.gov](https://turner.house.gov)
+ - date_published: 2024-06-27T14:20:02.872036+00:00
+
+ ## Representative Lauren Underwood
+ - [https://underwood.house.gov](https://underwood.house.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## OLRC Home
+ - [https://uscode.house.gov](https://uscode.house.gov)
+ - date_published: 2024-04-29T01:49:01.008343+00:00
+
+ ## U.S. Congressman David Valadao
+ - [https://valadao.house.gov](https://valadao.house.gov)
+ - date_published: 2024-06-27T14:20:45+00:00
+
+ ## U.S. Congressman Jefferson Van Drew
+ - [https://vandrew.house.gov](https://vandrew.house.gov)
+ - date_published: 2024-06-27T14:01:26+00:00
+
+ ## United States Representative Beth Van Duyne
+ - [https://vanduyne.house.gov](https://vanduyne.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Representative Derrick Van Orden
+ - [https://vanorden.house.gov](https://vanorden.house.gov)
+ - date_published: 2024-06-27T14:10:44.129403+00:00
+
+ ## U.S. Congressman Juan Vargas | U.S. Congressman Juan Vargas Of Californias 52nd District
+ - [https://vargas.house.gov](https://vargas.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Gabe Vasquez
+ - [https://vasquez.house.gov](https://vasquez.house.gov)
+ - date_published: 2024-06-27T14:21:36.357695+00:00
+
+ ## Congressman Marc Veasey
+ - [https://veasey.house.gov](https://veasey.house.gov)
+ - date_published: 2024-06-27T14:10:57.065447+00:00
+
+ ## Congresswoman Nydia Velázquez
+ - [https://velazquez.house.gov](https://velazquez.house.gov)
+ - date_published: 2024-06-27T14:12:16.608776+00:00
+
+ ## House Committee on Veterans' Affairs
+ - [https://veterans.house.gov](https://veterans.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Ann Wagner
+ - [https://wagner.house.gov](https://wagner.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Tim Walberg
+ - [https://walberg.house.gov](https://walberg.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## U.S. Representative Mike Waltz
+ - [https://waltz.house.gov](https://waltz.house.gov)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Congresswoman Debbie Wasserman Schultz
+ - [https://wassermanschultz.house.gov](https://wassermanschultz.house.gov)
+ - date_published: 2024-06-27T14:21:56+00:00
+
+ ## Representative Maxine Waters
+ - [https://waters.house.gov](https://waters.house.gov)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home
+ - [https://watsoncoleman.house.gov](https://watsoncoleman.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Ways and Means – Congressional Website
+ - [https://waysandmeans.house.gov](https://waysandmeans.house.gov)
+ - date_published: 2024-06-27T14:24:34.073218+00:00
+
  ## U.S. Representative Randy Weber
  - [https://weber.house.gov](https://weber.house.gov)
  - date_published: 2024-06-27T14:12:18+00:00
@@ -3842,180 +4018,4 @@
  ## NSF | Research.gov
  - [https://identity.research.gov](https://identity.research.gov)
  - date_published: 2024-03-12T14:00:36+00:00
-
- ## Research.gov - Homepage
- - [https://www.research.gov](https://www.research.gov)
- - date_published: 2010-01-15T00:00:00+00:00
-
- ## Welcome | Historical Preservation & Heritage Commission
- - [https://preservation.ri.gov](https://preservation.ri.gov)
- - date_published: 2024-06-12T10:55:42+00:00
-
- ## Welcome | Rhode Island Department of Environmental Management
- - [http://www.dem.ri.gov](http://www.dem.ri.gov)
- - date_published: 2024-06-14T19:05:23+00:00
-
- ## Ridgefield CT |
- - [https://www.ridgefieldct.gov](https://www.ridgefieldct.gov)
- - date_published: 2024-07-01T20:33:58+00:00
-
- ## Rochester, MN | Home
- - [https://www.rochestermn.gov](https://www.rochestermn.gov)
- - date_published: 2024-07-12T21:14:30+00:00
-
- ## Ruidoso-NM.gov | Municipal Website of the Village of Ruidoso, NM
- - [https://www.ruidoso-nm.gov](https://www.ruidoso-nm.gov)
- - date_published: 2024-06-20T16:29:14.730165+00:00
-
- ## Sacramento County Board of Supervisors Meetings
- - [https://agendanet.saccounty.gov](https://agendanet.saccounty.gov)
- - date_published: 2024-04-28T04:28:27.708351+00:00
-
- ## Consolidated Utilities Billing & Services
- - [https://sacutilities.saccounty.gov](https://sacutilities.saccounty.gov)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Iowa Safe and Sound | Iowa Safe+Sound
- - [https://safeandsoundiowa.gov](https://safeandsoundiowa.gov)
- - date_published: 2024-06-26T20:11:58+00:00
-
- ## SafeOCS Reporting System
- - [https://safeocs.gov](https://safeocs.gov)
- - date_published: 2024-06-28T12:57:52.789435+00:00
-
- ## Home - SaferProducts
- - [https://saferproducts.gov](https://saferproducts.gov)
- - date_published: 2024-05-08T02:42:42.184193+00:00
-
- ## SAM.gov | Home
- - [https://sam.gov](https://sam.gov)
- - date_published: 2023-10-25T19:25:02.207175+00:00
-
- ## SAM.gov | Home
- - [http://www.sam.gov](http://www.sam.gov)
- - date_published: 2024-06-14T03:25:42+00:00
-
- ## SAMHSA DAS
- - [https://datatools.samhsa.gov](https://datatools.samhsa.gov)
- - date_published: 2024-06-05T21:08:33+00:00
-
- ## SAMHSA DPT
- - [https://dpt2.samhsa.gov](https://dpt2.samhsa.gov)
- - date_published: 2020-12-09T13:12:14+00:00
-
- ## FindTreatment.gov
- - [https://findtreatment.samhsa.gov](https://findtreatment.samhsa.gov)
- - date_published: 2024-05-12T06:40:36.468468+00:00
-
- ## SAMHSA Publications and Digital Products
- - [https://store.samhsa.gov](https://store.samhsa.gov)
- - date_published: 2024-06-16T14:50:27.401756+00:00
-
- ## SAMHSA - Substance Abuse and Mental Health Services Administration
- - [https://www.samhsa.gov](https://www.samhsa.gov)
- - date_published: 2024-05-04T09:00:22.403967+00:00
-
- ## LAMMPS Molecular Dynamics Simulator
- - [https://lammps.sandia.gov](https://lammps.sandia.gov)
- - date_published: 2024-07-02T13:38:36+00:00
-
- ## Sandia National Laboratories: Netlib Mirror
- - [http://netlib.sandia.gov](http://netlib.sandia.gov)
- - date_published: 2024-04-28T02:25:13.801301+00:00
-
- ## Sandia National Laboratories: News Releases
- - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
- - date_published: 2023-10-25T19:25:05.661482+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [http://sandia.gov](http://sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [https://www.sandia.gov](https://www.sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## City of San Diego Official Website
- - [https://www.sandiego.gov](https://www.sandiego.gov)
- - date_published: 2024-07-02T01:28:29+00:00
-
- ## City of San José | Home
- - [https://sanjoseca.gov](https://sanjoseca.gov)
- - date_published: 2024-07-12T23:51:33+00:00
-
- ## City of Sausalito | Home
- - [https://www.sausalito.gov](https://www.sausalito.gov)
- - date_published: 2024-07-06T01:26:21+00:00
-
- ## SBA's Office of Advocacy
- - [https://advocacy.sba.gov](https://advocacy.sba.gov)
- - date_published: 2024-07-03T15:11:23.731749+00:00
-
- ## Welcome - U.S. Small Business Administration (SBA) | Open Data
- - [https://data.sba.gov](https://data.sba.gov)
- - date_published: 2019-07-15T00:00:00+00:00
-
- ## Small Business Administration
- - [https://sba.gov](https://sba.gov)
- - date_published: 2024-05-08T02:58:05.016050+00:00
-
- ## SBIR.gov
- - [https://www.sbir.gov](https://www.sbir.gov)
- - date_published: 2024-07-03T14:03:35.238348+00:00
-
- ## Home — South Carolina Department of Agriculture
- - [https://agriculture.sc.gov](https://agriculture.sc.gov)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://cg.sc.gov](https://cg.sc.gov)
- - date_published: 2024-06-19T18:10:15.093675+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://childadvocate.sc.gov](https://childadvocate.sc.gov)
- - date_published: 2024-06-29T15:54:56.987267+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://ddsn.sc.gov](https://ddsn.sc.gov)
- - date_published: 2024-05-04T06:58:21.032014+00:00
-
- ## ERROR: The request could not be satisfied
- - [http://governor.sc.gov](http://governor.sc.gov)
- - date_published: 2024-06-21T14:31:13.388616+00:00
-
- ## MySCVotes Login
- - [https://vrems.scvotes.sc.gov](https://vrems.scvotes.sc.gov)
- - date_published: 2024-05-04T06:58:03.530727+00:00
-
- ## Homepage | SCDHEC
- - [http://www.dhec.sc.gov](http://www.dhec.sc.gov)
- - date_published: 2024-06-29T15:43:25+00:00
-
- ## ERROR: The request could not be satisfied
- - [http://www.sc.gov](http://www.sc.gov)
- - date_published: 2024-06-19T18:11:06.638806+00:00
-
- ## Home | South Carolina State Library
- - [http://www.statelibrary.sc.gov](http://www.statelibrary.sc.gov)
- - date_published: 2024-06-18T11:42:58+00:00
-
- ## Error: Active domain connection for this domain not found
- - [https://blog.scdhec.gov](https://blog.scdhec.gov)
- - date_published: 2024-06-29T15:54:57.686330+00:00
-
- ## Homepage | SCDHEC
- - [https://scdhec.gov](https://scdhec.gov)
- - date_published: 2024-06-29T15:43:25+00:00
-
- ## House 2021 Redistricting | Home
- - [https://redistricting.schouse.gov](https://redistricting.schouse.gov)
- - date_published: 2024-06-19T18:11:08.480491+00:00
-
- ## Science.gov - Open Science Announcements from Federal Agencies
- - [https://open.science.gov](https://open.science.gov)
- - date_published: 2024-04-17T19:06:06+00:00
-
- ## Science.gov
- - [https://science.gov](https://science.gov)
- - date_published: 2023-12-06T00:11:16+00:00
 

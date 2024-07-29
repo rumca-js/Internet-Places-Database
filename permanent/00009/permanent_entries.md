@@ -1,3 +1,20 @@
+ ## Mobile games industry news, discussion, analysis, opinion, events, jobs, and more
+ - [https://www.pocketgamer.biz](https://www.pocketgamer.biz)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## - PoolParty Linked Data Server - Taxonomies, Thesauri, Vocabularies
+ - [https://authoring-docs-microsoft.poolparty.biz](https://authoring-docs-microsoft.poolparty.biz)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Publication Studio
+ - [https://www.publicationstudio.biz](https://www.publicationstudio.biz)
+ - date_published: 2018-06-26T00:00:00+00:00
+
+ ## Purdue University Online | Online Master's Degrees and Non-Credit Programs - 
+			 Purdue University Online -  Purdue University
+ - [https://purdue.biz](https://purdue.biz)
+ - date_published: 2024-07-01T17:47:14.572416+00:00
+
  ## Pushkins Prefers
  - [https://pushkinsprefers.biz](https://pushkinsprefers.biz)
  - date_published: 2024-05-02T11:54:08.605362+00:00
@@ -4069,20 +4086,4 @@ Educação
  ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
  - [https://www.marykay.com.br](https://www.marykay.com.br)
  - date_published: 2024-06-30T09:56:12.642405+00:00
-
- ## MASP - Exposição Virtual DEGAS
- - [https://www.maspdegas.com.br](https://www.maspdegas.com.br)
- - date_published: 2021-08-02T19:35:36+00:00
-
- ## Attention Required! | Cloudflare
- - [https://blog.mercadobitcoin.com.br](https://blog.mercadobitcoin.com.br)
- - date_published: 2024-06-16T14:16:58.017179+00:00
-
- ## Mercado Bitcoin - Status
- - [https://status.mercadobitcoin.com.br](https://status.mercadobitcoin.com.br)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Mercado Bitcoin
- - [https://suporte.mercadobitcoin.com.br](https://suporte.mercadobitcoin.com.br)
- - date_published: 2024-02-06T00:00:00+00:00
 

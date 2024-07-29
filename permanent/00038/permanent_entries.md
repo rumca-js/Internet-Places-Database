@@ -1,3 +1,47 @@
+ ## Blogger
+ - [http://anthropomorphe.blogspot.com](http://anthropomorphe.blogspot.com)
+ - date_published: 2024-06-24T09:53:28.765645+00:00
+
+ ## antigram
+ - [http://antigram.blogspot.com](http://antigram.blogspot.com)
+ - date_published: 2024-03-07T09:49:44+00:00
+
+ ## GREENIE WATCH
+ - [https://antigreen.blogspot.com](https://antigreen.blogspot.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Kakistocracy Report
+ - [http://antikakistocrat.blogspot.com](http://antikakistocrat.blogspot.com)
+ - date_published: 2024-03-05T05:38:10+00:00
+
+ ## of Pedantry
+ - [http://antiledo.blogspot.com](http://antiledo.blogspot.com)
+ - date_published: 2024-07-14T20:58:44+00:00
+
+ ## antipixi's hobby blog
+ - [http://antipixi.blogspot.com](http://antipixi.blogspot.com)
+ - date_published: 2024-03-13T09:18:06+00:00
+
+ ## The History of the Study of Antiquity through the Lens of Autobiography
+ - [http://antiqauto.blogspot.com](http://antiqauto.blogspot.com)
+ - date_published: 2024-03-13T20:27:36+00:00
+
+ ## ANT-LERRR
+ - [http://antlerrr.blogspot.com](http://antlerrr.blogspot.com)
+ - date_published: 2024-06-29T22:03:47+00:00
+
+ ## The Life of Antoninus Pius
+ - [http://antoninuspius.blogspot.com](http://antoninuspius.blogspot.com)
+ - date_published: 2024-05-20T19:02:50+00:00
+
+ ## Antonio Fatas on the Global Economy
+ - [http://antoniofatas.blogspot.com](http://antoniofatas.blogspot.com)
+ - date_published: 2024-07-04T06:09:45+00:00
+
+ ## AntonioR DevLog
+ - [https://antonior-software.blogspot.com](https://antonior-software.blogspot.com)
+ - date_published: 2024-05-09T08:59:04.045435+00:00
+
  ## RIDING THE WIND
  - [http://antonkrupicka.blogspot.com](http://antonkrupicka.blogspot.com)
  - date_published: 2024-06-19T11:50:20+00:00
@@ -3978,48 +4022,4 @@
  ## davetaylorminiatures
  - [http://davetaylorminiatures.blogspot.com](http://davetaylorminiatures.blogspot.com)
  - date_published: 2024-06-18T11:21:00+00:00
-
- ## Play With Capture The Flag
- - [https://david942j.blogspot.com](https://david942j.blogspot.com)
- - date_published: 2024-06-03T06:27:17.475813+00:00
-
- ## Getting from here to there
- - [http://davidaking.blogspot.com](http://davidaking.blogspot.com)
- - date_published: 2014-11-06T00:00:00+00:00
-
- ## Quark Soup by David Appell
- - [https://davidappell.blogspot.com](https://davidappell.blogspot.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## CONTRARY BRIN
- - [http://davidbrin.blogspot.com](http://davidbrin.blogspot.com)
- - date_published: 2024-07-18T20:46:00+00:00
-
- ## The Education of a Pulp Writer
- - [http://davidcranmer.blogspot.com](http://davidcranmer.blogspot.com)
- - date_published: 2024-07-03T20:23:42+00:00
-
- ## DCblog
- - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Ideas
- - [http://daviddfriedman.blogspot.com](http://daviddfriedman.blogspot.com)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Davide Moro
- - [http://davidemoro.blogspot.com](http://davidemoro.blogspot.com)
- - date_published: 2024-02-19T11:37:30+00:00
-
- ## Adventures in Europe
- - [http://davidinleeds.blogspot.com](http://davidinleeds.blogspot.com)
- - date_published: 2024-02-22T16:51:09+00:00
-
- ## Life, the Universe, and Everything
- - [http://davidlayton.blogspot.com](http://davidlayton.blogspot.com)
- - date_published: 2024-03-13T04:19:17+00:00
-
- ## David Maymudes's Weblog
- - [https://davidmaymudes.blogspot.com](https://davidmaymudes.blogspot.com)
- - date_published: 2024-03-13T02:18:26+00:00
 

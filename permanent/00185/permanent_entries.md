@@ -1,3 +1,171 @@
+ ## Blackboard Learn
+ - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
+ - date_published: 2004-07-01T16:00:49+00:00
+
+ ## Buffett Institute - Home
+ - [http://buffettinstitute.nebraska.edu](http://buffettinstitute.nebraska.edu)
+ - date_published: 2024-07-02T04:49:17.126924+00:00
+
+ ## University of Nebraska System Office Employment Opportunities | Home
+ - [https://careers.nebraska.edu](https://careers.nebraska.edu)
+ - date_published: 2024-07-02T04:49:25+00:00
+
+ ## ITS
+ - [http://its.nebraska.edu](http://its.nebraska.edu)
+ - date_published: 2024-07-02T04:55:02.863686+00:00
+
+ ## MYRED
+ - [https://myred.nebraska.edu](https://myred.nebraska.edu)
+ - date_published: 2023-11-20T02:16:29+00:00
+
+ ## University of Nebraska System
+ - [https://nebraska.edu](https://nebraska.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## National Strategic Research Institute
+ - [https://nsri.nebraska.edu](https://nsri.nebraska.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home
+ - [https://nusupport.nebraska.edu](https://nusupport.nebraska.edu)
+ - date_published: 2024-07-02T04:51:01.792615+00:00
+
+ ## Home
+ - [http://online.nebraska.edu](http://online.nebraska.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Nebraska Scholarly Commons | University of Nebraska Research
+ - [https://scholarlycommons.nebraska.edu](https://scholarlycommons.nebraska.edu)
+ - date_published: 2024-06-30T03:04:29.441964+00:00
+
+ ## IT Status
+ - [http://status.nebraska.edu](http://status.nebraska.edu)
+ - date_published: 2024-07-02T04:55:22.457606+00:00
+
+ ## TrueYou Self Service | Home
+ - [https://trueyou.nebraska.edu](https://trueyou.nebraska.edu)
+ - date_published: 2024-07-02T04:55:16.713655+00:00
+
+ ## Request Rejected
+ - [http://unit.nebraska.edu](http://unit.nebraska.edu)
+ - date_published: 2024-07-02T04:55:17.983786+00:00
+
+ ## Water for Food
+ - [http://waterforfood.nebraska.edu](http://waterforfood.nebraska.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - Khoury College of Computer Sciences
+ - [http://ccs.neu.edu](http://ccs.neu.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Dark Patterns Research at Northeastern University · Dark Patterns Research at Northeastern University
+ - [https://darkpatterns.ccs.neu.edu](https://darkpatterns.ccs.neu.edu)
+ - date_published: 2021-09-01T00:00:00+00:00
+
+ ## Select Your Destination – The Hubs
+ - [http://myneu.neu.edu](http://myneu.neu.edu)
+ - date_published: 2024-07-17T09:15:49+00:00
+
+ ## Auditing Algorithms
+ - [https://personalization.ccs.neu.edu](https://personalization.ccs.neu.edu)
+ - date_published: 2024-05-28T18:15:37+00:00
+
+ ## NEU PRL
+ - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
+ - date_published: 2024-05-07T19:48:15.637520+00:00
+
+ ## Department of Electrical & Computer Engineering - Northeastern University
+ - [https://ece.neu.edu](https://ece.neu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home - Northeastern University
+ - [https://www.neu.edu](https://www.neu.edu)
+ - date_published: 2024-07-11T10:33:29.575870+00:00
+
+ ## NSHE
+ - [https://nshe.nevada.edu](https://nshe.nevada.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home - University of Nevada Press
+ - [https://unpress.nevada.edu](https://unpress.nevada.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## A University in New York City | The New School
+ - [https://www.newschool.edu](https://www.newschool.edu)
+ - date_published: 2024-07-14T19:32:32.772395+00:00
+
+ ## Nightingale College: Accredited Nursing School
+ - [https://nightingale.edu](https://nightingale.edu)
+ - date_published: 2024-06-15T04:48:15.637637+00:00
+
+ ## Nightingale College: Accredited Nursing School
+ - [http://www.nightingale.edu](http://www.nightingale.edu)
+ - date_published: 2024-06-15T04:50:57.568196+00:00
+
+ ## NIU College of Education
+ - [https://cedu.news.niu.edu](https://cedu.news.niu.edu)
+ - date_published: 2024-07-03T15:07:42.461673+00:00
+
+ ## College of Engineering and Engineering Technology
+ - [https://ceet.news.niu.edu](https://ceet.news.niu.edu)
+ - date_published: 2024-07-03T15:06:28.288038+00:00
+
+ ## College of Health and Human Sciences
+ - [https://chhs.news.niu.edu](https://chhs.news.niu.edu)
+ - date_published: 2024-07-03T15:06:26.629573+00:00
+
+ ## College of Business
+ - [https://cob.news.niu.edu](https://cob.news.niu.edu)
+ - date_published: 2024-07-03T15:06:33.759391+00:00
+
+ ## Directory - Northern Illinois University
+ - [https://directory.niu.edu](https://directory.niu.edu)
+ - date_published: 2024-07-03T15:06:31.946172+00:00
+
+ ## Experts Guide | Northern Illinois University
+ - [https://experts.niu.edu](https://experts.niu.edu)
+ - date_published: 2022-06-02T14:42:06+00:00
+
+ ## College of Law
+ - [https://law.news.niu.edu](https://law.news.niu.edu)
+ - date_published: 2024-07-03T15:06:44.017351+00:00
+
+ ## Home | NIU Newsroom
+ - [https://newsroom.niu.edu](https://newsroom.niu.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Northern Illinois University - Your Future. Our Focus.
+ - [https://niu.edu](https://niu.edu)
+ - date_published: 2024-07-03T15:06:49.444960+00:00
+
+ ## Homepage | Barbara and Leonard Littman Architecture and Design Library
+ - [https://archlib.njit.edu](https://archlib.njit.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Ask Us - Ask the NJIT Library
+ - [https://askthelibrary.njit.edu](https://askthelibrary.njit.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Strategic Events and Conference Services | Conference Services
+ - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
+ - date_published: 2024-05-07T19:46:38.297602+00:00
+
+ ## NJIT Canvas | Canvas
+ - [http://canvas.njit.edu](http://canvas.njit.edu)
+ - date_published: 2024-06-30T19:43:43+00:00
+
+ ## Welcome | Research Institutes, Centers and Specialized Laboratories
+ - [https://centers.njit.edu](https://centers.njit.edu)
+ - date_published: 2024-05-07T19:46:48.376683+00:00
+
+ ## Admissions | New Jersey Institute of Technology
+ - [https://connect.njit.edu](https://connect.njit.edu)
+ - date_published: 2024-07-01T03:14:00+00:00
+
+ ## LDI Courses Archive
+ - [https://continuing.njit.edu](https://continuing.njit.edu)
+ - date_published: 2024-05-07T19:46:53.330351+00:00
+
  ## DANA
  - [http://dana.njit.edu](http://dana.njit.edu)
  - date_published: 2024-07-01T16:09:56.500915+00:00
@@ -3832,172 +4000,4 @@
  ## Point Park University
  - [http://www.pointpark.edu](http://www.pointpark.edu)
  - date_published: 2024-06-27T19:32:55+00:00
-
- ## Home | NYU Tandon School of Engineering
- - [http://poly.edu](http://poly.edu)
- - date_published: 2024-06-11T12:36:42+00:00
-
- ## École polytechnique, école d'ingénieur
- - [https://portail.polytechnique.edu](https://portail.polytechnique.edu)
- - date_published: 2024-06-30T09:24:18+00:00
-
- ## École polytechnique, école d'ingénieur
- - [https://www.polytechnique.edu](https://www.polytechnique.edu)
- - date_published: 2024-06-22T09:46:14+00:00
-
- ## Pomona College - Modern Campus Catalog™
- - [https://catalog.pomona.edu](https://catalog.pomona.edu)
- - date_published: 2024-07-04T12:56:56.305482+00:00
-
- ## Page Redirection
- - [https://cs.pomona.edu](https://cs.pomona.edu)
- - date_published: 2014-05-29T23:19:28+00:00
-
- ## The Doodle Lab | Pomona College
- - [http://doodlelab.sites.pomona.edu](http://doodlelab.sites.pomona.edu)
- - date_published: 2024-01-16T21:38:21+00:00
-
- ## Home | Pomona College in Claremont, California - Pomona College
- - [https://pomona.edu](https://pomona.edu)
- - date_published: 2022-06-17T21:06:33+00:00
-
- ## WVU Potomac State College | Academics | West Virginia University's Potomac State College Academics
- - [https://academics.potomacstatecollege.edu](https://academics.potomacstatecollege.edu)
- - date_published: 2024-07-02T15:15:56.225771+00:00
-
- ## WVU Potomac State College | Admissions | Admissions and Aid
- - [https://admissions.potomacstatecollege.edu](https://admissions.potomacstatecollege.edu)
- - date_published: 2024-07-02T15:15:35.671849+00:00
-
- ## Home | Alert Potomac State | West Virginia University
- - [https://alert.potomacstatecollege.edu](https://alert.potomacstatecollege.edu)
- - date_published: 2024-07-02T15:15:53.812446+00:00
-
- ## Emergency | Potomac State Emergency | WVU Potomace State
- - [https://emergency.potomacstatecollege.edu](https://emergency.potomacstatecollege.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## WVU Potomac State College | Keyser Campus  | WVU Potomac State College located in Keyser, WV
- - [https://potomacstatecollege.edu](https://potomacstatecollege.edu)
- - date_published: 2024-05-07T22:39:39.983878+00:00
-
- ## WVU Potomac State College | Student Experience | Student Experience
- - [https://studentexperience.potomacstatecollege.edu](https://studentexperience.potomacstatecollege.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## SUNY Potsdam Employment Site | Home
- - [https://employment.potsdam.edu](https://employment.potsdam.edu)
- - date_published: 2024-05-09T06:39:54.286746+00:00
-
- ## SUNY Potsdam | SUNY Potsdam
- - [https://www.potsdam.edu](https://www.potsdam.edu)
- - date_published: 2024-07-09T20:24:33+00:00
-
- ## Sign In
- - [https://canvas.pratt.edu](https://canvas.pratt.edu)
- - date_published: 2024-07-08T15:07:03.053984+00:00
-
- ## Home | Pratt Academic Catalog
- - [https://catalog.pratt.edu](https://catalog.pratt.edu)
- - date_published: 2024-03-20T15:46:25+00:00
-
- ## Admissions
- - [https://connect.pratt.edu](https://connect.pratt.edu)
- - date_published: 2024-07-08T15:07:17.835014+00:00
-
- ## Pratt Institute Libraries
- - [https://library.pratt.edu](https://library.pratt.edu)
- - date_published: 2024-07-08T15:07:08.293842+00:00
-
- ## Homepage
- - [https://pratt.edu](https://pratt.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## talks.pratt.edu
- - [https://talks.pratt.edu](https://talks.pratt.edu)
- - date_published: 2024-07-08T15:07:12+00:00
-
- ## Pardee RAND Graduate School
- - [https://www.prgs.edu](https://www.prgs.edu)
- - date_published: 2024-07-20T12:32:22.127316+00:00
-
- ## 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions
- - [https://3dmatch.cs.princeton.edu](https://3dmatch.cs.princeton.edu)
- - date_published: 2018-03-24T06:35:48+00:00
-
- ## Department of African American Studies
- - [https://aas.princeton.edu](https://aas.princeton.edu)
- - date_published: 2024-05-07T20:00:41.715109+00:00
-
- ## Accessibility at Princeton
- - [https://accessibility.princeton.edu](https://accessibility.princeton.edu)
- - date_published: 2024-05-07T19:53:18.697025+00:00
-
- ## Home Page - Andlinger Center for Energy and the Environment
- - [https://acee.princeton.edu](https://acee.princeton.edu)
- - date_published: 2024-07-01T17:17:23.205746+00:00
-
- ## Princeton University Admission
- - [https://admission.princeton.edu](https://admission.princeton.edu)
- - date_published: 2024-05-07T20:00:21.559566+00:00
-
- ## Princeton University | Advancement Data Privacy Policy
- - [https://advancementdataprivacy.princeton.edu](https://advancementdataprivacy.princeton.edu)
- - date_published: 2024-04-17T16:28:14+00:00
-
- ## Princeton AI4ALL
- - [https://ai4all.princeton.edu](https://ai4all.princeton.edu)
- - date_published: 2024-06-22T09:45:38+00:00
-
- ## Home | Princeton Alumni
- - [https://alumni.princeton.edu](https://alumni.princeton.edu)
- - date_published: 2024-05-07T20:00:16.724721+00:00
-
- ## Effron Center for the Study of America
- - [https://ams.princeton.edu](https://ams.princeton.edu)
- - date_published: 2024-07-01T04:06:30+00:00
-
- ## Annals of Mathematics | Annals of Mathematics, Journal
- - [https://annals.math.princeton.edu](https://annals.math.princeton.edu)
- - date_published: 2024-06-30T08:08:25.380274+00:00
-
- ## Anthropology@Princeton
- - [https://anthropology.princeton.edu](https://anthropology.princeton.edu)
- - date_published: 2024-05-07T19:53:26.029148+00:00
-
- ## Princeton University Admission
- - [https://apply.princeton.edu](https://apply.princeton.edu)
- - date_published: 2024-07-01T16:20:41+00:00
-
- ## Princeton Mellon Initiative in Architecture, Urbanism & the Humanities
- - [https://arc-hum.princeton.edu](https://arc-hum.princeton.edu)
- - date_published: 2024-07-08T04:15:34+00:00
-
- ## Home
- - [https://arts.princeton.edu](https://arts.princeton.edu)
- - date_published: 2024-07-01T17:24:49.828398+00:00
-
- ## Anna Stilz
- - [https://astilz.scholar.princeton.edu](https://astilz.scholar.princeton.edu)
- - date_published: 2024-06-14T00:33:27+00:00
-
- ## Kahneman-Treisman Center for Behavioral Science & Public Policy
- - [https://behavioralpolicy.princeton.edu](https://behavioralpolicy.princeton.edu)
- - date_published: 2024-04-29T03:20:00.721032+00:00
-
- ## Home - Princeton University WordPress Service
- - [https://blogs.princeton.edu](https://blogs.princeton.edu)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Brazil LAB
- - [https://brazillab.princeton.edu](https://brazillab.princeton.edu)
- - date_published: 2024-07-01T04:52:01+00:00
-
- ## Bridging Divides Initiative
- - [https://bridgingdivides.princeton.edu](https://bridgingdivides.princeton.edu)
- - date_published: 2024-06-16T05:06:30+00:00
-
- ## Search Opportunities
- - [https://careers.princeton.edu](https://careers.princeton.edu)
- - date_published: 2024-05-07T20:00:19.564402+00:00
 

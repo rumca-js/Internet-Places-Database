@@ -1,3 +1,147 @@
+ ## Statista R – Recognizing the Best
+ - [https://www.statista-research.com](https://www.statista-research.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Home - Statistically Relevant
+ - [https://statisticallyrelevant.com](https://statisticallyrelevant.com)
+ - date_published: 2023-10-25T17:15:58.229909+00:00
+
+ ## Statistics.com: Data Science, Analytics & Statistics Courses
+ - [http://statistics.com](http://statistics.com)
+ - date_published: 2024-06-27T15:25:21.079363+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://statisticsbyjim.com](https://statisticsbyjim.com)
+ - date_published: 2024-06-22T18:54:30.243751+00:00
+
+ ## Welcome — Statistics Done Wrong
+ - [https://statisticsdonewrong.com](https://statisticsdonewrong.com)
+ - date_published: 2019-01-31T15:57:50+00:00
+
+ ## StatisticsTimes.com | Collection of Statistics and charts
+ - [http://statisticstimes.com](http://statisticstimes.com)
+ - date_published: 2024-06-29T21:20:49.737309+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.com](https://www.statkraft.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Statkraft Ventures
+ - [https://www.statkraftventures.com](https://www.statkraftventures.com)
+ - date_published: 2023-11-07T00:00:00+00:00
+
+ ## An Introduction to Statistical Learning
+ - [https://www.statlearning.com](https://www.statlearning.com)
+ - date_published: 2024-06-20T05:36:28.772785+00:00
+
+ ## STAT - Reporting from the frontiers of health and medicine
+ - [https://www.statnews.com](https://www.statnews.com)
+ - date_published: 2023-10-25T10:46:15.019573+00:00
+
+ ## Sports Data - Sports AI, Technology, Data Feeds | Stats Perform
+ - [https://stats.com](https://stats.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Statsblogs.com – Just another WordPress site
+ - [http://www.statsblogs.com](http://www.statsblogs.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## STATSCORE | Sports data & stats provider
+ - [https://statscore.com](https://statscore.com)
+ - date_published: 2024-07-14T08:04:45.749167+00:00
+
+ ## Digital Marketing Agency in San Diego, Los Angeles and Southern California - Conversion Optimization | Stats Digital
+ - [https://statsdigital.com](https://statsdigital.com)
+ - date_published: 2024-04-29T01:49:08.866963+00:00
+
+ ## Statsig | The #1 Feature Management and Experimentation Platform
+ - [https://statsig.com](https://statsig.com)
+ - date_published: 2024-06-16T20:39:23.456905+00:00
+
+ ## Stat Significant | Daniel Parris | Substack
+ - [https://www.statsignificant.com](https://www.statsignificant.com)
+ - date_published: 2023-12-07T14:48:35.612575+00:00
+
+ ## Stats, Maps n Pix
+ - [https://www.statsmapsnpix.com](https://www.statsmapsnpix.com)
+ - date_published: 2023-10-25T17:16:02.812082+00:00
+
+ ## Stats Medic
+ - [https://www.statsmedic.com](https://www.statsmedic.com)
+ - date_published: 2024-05-04T13:45:04.949028+00:00
+
+ ## StatusCake - Log In
+ - [https://app.statuscake.com](https://app.statuscake.com)
+ - date_published: 2024-04-28T03:24:46.345345+00:00
+
+ ## StatusCake Developers Portal | StatusCake Developers Portal
+ - [https://developers.statuscake.com](https://developers.statuscake.com)
+ - date_published: 2024-05-01T22:13:41+00:00
+
+ ## StatusCake - Uptime monitoring, Page speed monitoring, and more
+ - [https://statuscake.com](https://statuscake.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Public Status Page for website downtime - StatusCake
+ - [http://uptime.statuscake.com](http://uptime.statuscake.com)
+ - date_published: 2024-06-11T11:36:50+00:00
+
+ ## Status page hosting with StatusCast
+ - [https://sophoscentral.statuscast.com](https://sophoscentral.statuscast.com)
+ - date_published: 2024-06-15T19:56:25+00:00
+
+ ## Status Pages & Incident Management
+ - [https://statuscast.com](https://statuscast.com)
+ - date_published: 2024-06-19T07:42:42.647328+00:00
+
+ ## Signin
+ - [https://auth.statused.com](https://auth.statused.com)
+ - date_published: 2024-05-11T07:02:38.103911+00:00
+
+ ## Show HN: I built a tool to get "Your app was approved/rejected " alerts on Slack
+ - [https://statused.com](https://statused.com)
+ - date_published: 2023-11-08T21:01:02+00:00
+
+ ## StatusGator
+ - [https://statusgator.com](https://statusgator.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Ayelads Premium Bootstrap 4 Landing https://ayelads.com/page Template
+ - [https://ayelads.com.statvoo.com](https://ayelads.com.statvoo.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Ctsp - CTSP Career Testing Services Pakistan CTSP
+ - [http://ctsp.com.pk.statvoo.com](http://ctsp.com.pk.statvoo.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Disability History Museum
+ - [https://disabilitymuseum.org.statvoo.com](https://disabilitymuseum.org.statvoo.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Jdp-pub.org valuation and analysis
+ - [https://jdp-pub.org.statvoo.com](https://jdp-pub.org.statvoo.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Metoffice.com valuation and analysis
+ - [https://metoffice.com.statvoo.com](https://metoffice.com.statvoo.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Ready for Digital Transformation with Aptean ERP Solutions Integrate all your business data into one system to automate processes, increase visibility, optimize efficiency and maximize profitability. Discover how, now.
+ - [https://osas.com.statvoo.com](https://osas.com.statvoo.com)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Dr. Randal S. Olson Full stack data scientist, artificial intelligence researcher, and consultant
+ - [https://randalolson.com.statvoo.com](https://randalolson.com.statvoo.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Repology Multiple package repositories analyzer
+ - [https://repology.org.statvoo.com](https://repology.org.statvoo.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Sistema Brasileiro de Televisão - SBT
+ - [http://sbt.com.br.statvoo.com](http://sbt.com.br.statvoo.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
  ## ShopRuger.com | ShopMarlin.com
  - [https://shopruger.com.statvoo.com](https://shopruger.com.statvoo.com)
  - date_published: 2024-01-10T00:00:00+00:00
@@ -3921,150 +4065,4 @@
  ## Software Development Services & Solutions Company – STX Next
  - [https://www.stxnext.com](https://www.stxnext.com)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## STYG
- - [https://stygmerch.com](https://stygmerch.com)
- - date_published: 2024-06-20T21:32:14.894240+00:00
-
- ## Style Arc
- - [https://www.stylearc.com](https://www.stylearc.com)
- - date_published: 2024-07-10T03:42:19.664488+00:00
-
- ## StyleCampaign
- - [https://stylecampaign.com](https://stylecampaign.com)
- - date_published: 2024-07-08T16:48:31+00:00
-
- ## StyleCaster
- - [https://stylecaster.com](https://stylecaster.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## styled-components
- - [https://styled-components.com](https://styled-components.com)
- - date_published: 2024-05-06T09:11:00.936594+00:00
-
- ## Style Driver
- - [https://styledriver.com](https://styledriver.com)
- - date_published: 2024-06-29T23:41:46.384897+00:00
-
- ## GitHub - styled-system/styled-system: ⬢ Style props for rapid UI development
- - [https://styled-system.com](https://styled-system.com)
- - date_published: 2024-05-06T13:50:03.317896+00:00
-
- ## Style for Wanderlust
- - [https://www.styleforwanderlust.com](https://www.styleforwanderlust.com)
- - date_published: 2024-06-26T11:43:27.064157+00:00
-
- ## StyleHint | Discover new ways to style yourself
- - [https://www.stylehint.com](https://www.stylehint.com)
- - date_published: 2024-07-04T16:49:49.507743+00:00
-
- ## Style Me Pretty
- - [https://www.stylemepretty.com](https://www.stylemepretty.com)
- - date_published: 2024-07-13T19:44:40.321332+00:00
-
- ## Download Free Responsive Website Templates | StyleShout
- - [https://styleshout.com](https://styleshout.com)
- - date_published: 2014-06-25T07:26:29+00:00
-
- ## stylewarning's screed
- - [https://www.stylewarning.com](https://www.stylewarning.com)
- - date_published: 2023-10-25T17:18:48.645431+00:00
-
- ## StyleX – Meta's styling library
- - [https://stylexjs.com](https://stylexjs.com)
- - date_published: 2023-12-05T22:14:05+00:00
-
- ## Stylify Your Blog
- - [https://stylifyyourblog.com](https://stylifyyourblog.com)
- - date_published: 2024-05-08T09:50:15.064637+00:00
-
- ## Stylitics: Inspirational Commerce
- - [http://stylitics.com](http://stylitics.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Stylus
- - [https://stylus-lang.com](https://stylus-lang.com)
- - date_published: 2024-05-04T13:56:12.480140+00:00
-
- ## Styons Software Consulting
- - [https://styonssoftware.com](https://styonssoftware.com)
- - date_published: 2024-07-23T23:32:34.600683+00:00
-
- ## GitHub - stypr/chall.stypr.com: Stereotyped Challenges (2014~2023)
- - [https://chall.stypr.com](https://chall.stypr.com)
- - date_published: 2024-06-19T22:50:09.073992+00:00
-
- ## Styra | OPA Academy
- - [https://academy.styra.com](https://academy.styra.com)
- - date_published: 2024-07-04T12:04:38.402308+00:00
-
- ## Styra Documentation | Styra Documentation
- - [https://docs.styra.com](https://docs.styra.com)
- - date_published: 2024-07-04T12:04:42.012696+00:00
-
- ## Styra
- - [https://portal.styra.com](https://portal.styra.com)
- - date_published: 2024-07-04T12:04:48.137170+00:00
-
- ## Styra
- - [https://registration.styra.com](https://registration.styra.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Styra Status
- - [https://status.styra.com](https://status.styra.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Styra
- - [https://styra.com](https://styra.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## StyreWeb - for lag og foreninger
- - [https://madinnorway.portal.styreweb.com](https://madinnorway.portal.styreweb.com)
- - date_published: 2024-06-21T19:42:50.936103+00:00
-
- ## Stytch – The most powerful identity platform built for developers
- - [https://stytch.com](https://stytch.com)
- - date_published: 2024-06-13T19:55:40+00:00
-
- ## SUADEO | Offrez la liberté !
- - [https://www.suadeo.com](https://www.suadeo.com)
- - date_published: 2024-05-01T07:42:52.878944+00:00
-
- ## sUAS News - The Business of Drones
- - [http://www.suasnews.com](http://www.suasnews.com)
- - date_published: 2024-07-09T22:01:10.877971+00:00
-
- ## Suavecito Pomade: Barber Approved & Barbershop Preferred Products
- - [https://suavecito.com](https://suavecito.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Suavecito Pomade: Barber Approved & Barbershop Preferred Products
- - [http://www.suavecito.com](http://www.suavecito.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Remade in L.A.
- - [https://suayla.com](https://suayla.com)
- - date_published: 2024-07-07T05:52:53.672552+00:00
-
- ## Sub2 Technologies - Digital Data Marketing Experts
- - [https://www.sub2tech.com](https://www.sub2tech.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## SUBA GAMES-
-            
-    DOWNLOAD FREE TO PLAY ONLINE GAMES,BEST CROSSFIRE,TOP MMO GAMES,TOP MMORPG,RTS,FPS
- - [https://subagames.com](https://subagames.com)
- - date_published: 2024-06-18T18:53:03.745849+00:00
-
- ## Subaru: Go Where the Love Takes You
- - [https://www.subaru.com](https://www.subaru.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Certified Collision Centers | Subaru
- - [http://www.subarucertifiedcollision.com](http://www.subarucertifiedcollision.com)
- - date_published: 2024-07-09T19:40:40+00:00
-
- ## Financing a Subaru | Subaru Motors Finance
- - [https://subarumotorsfinance.com](https://subarumotorsfinance.com)
- - date_published: 2024-07-04T04:18:57.532191+00:00
 

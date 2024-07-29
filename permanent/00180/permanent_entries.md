@@ -1,3 +1,172 @@
+ ## Home | Undergraduate Education
+ - [https://vcue.berkeley.edu](https://vcue.berkeley.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Visualization Lab | UC Berkeley
+ - [http://vis.berkeley.edu](http://vis.berkeley.edu)
+ - date_published: 2022-10-23T06:26:12+00:00
+
+ ## UC Berkeley Vision
+ - [https://vision-api.berkeley.edu](https://vision-api.berkeley.edu)
+ - date_published: 2024-07-22T07:36:41.861282+00:00
+
+ ## UC Berkeley Vision
+ - [https://vision.berkeley.edu](https://vision.berkeley.edu)
+ - date_published: 2024-04-30T03:25:52.728450+00:00
+
+ ## Home | Visitor Services
+ - [https://visit.berkeley.edu](https://visit.berkeley.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Voices
+ - [https://voices.berkeley.edu](https://voices.berkeley.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | Visiting Scholar & Postdoc Affairs
+ - [https://vspa.berkeley.edu](https://vspa.berkeley.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## UC Berkeley WarnMe Emergency Alert Service
+ - [http://warnme.berkeley.edu](http://warnme.berkeley.edu)
+ - date_published: 2024-07-22T07:42:14.452172+00:00
+
+ ## Home | Digital Accessibility
+ - [https://webaccess.berkeley.edu](https://webaccess.berkeley.edu)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Home | Web Platform Services
+ - [https://web.berkeley.edu](https://web.berkeley.edu)
+ - date_published: 2024-07-22T17:35:47+00:00
+
+ ## Wikis | EECS Wiki Server
+ - [https://wiki.eecs.berkeley.edu](https://wiki.eecs.berkeley.edu)
+ - date_published: 2024-04-30T03:27:43.570975+00:00
+
+ ## Index of /
+ - [http://www1.icsi.berkeley.edu](http://www1.icsi.berkeley.edu)
+ - date_published: 2024-04-28T03:26:46.953639+00:00
+
+ ## Home | EECS at UC Berkeley
+ - [https://www2.eecs.berkeley.edu](https://www2.eecs.berkeley.edu)
+ - date_published: 2024-04-30T03:26:00.185920+00:00
+
+ ## SIMS: School of Information Management and Systems,
+         UC Berkeley
+ - [http://www2.sims.berkeley.edu](http://www2.sims.berkeley.edu)
+ - date_published: 2008-05-20T21:26:47+00:00
+
+ ## CS Home - EECS at Berkeley
+ - [http://www.cs.berkeley.edu](http://www.cs.berkeley.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Department of Economics
+ - [https://www.econ.berkeley.edu](https://www.econ.berkeley.edu)
+ - date_published: 2024-06-22T05:45:40+00:00
+
+ ## Home - EECS at Berkeley
+ - [http://www.eecs.berkeley.edu](http://www.eecs.berkeley.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Gopnik Lab
+ - [http://www.gopniklab.berkeley.edu](http://www.gopniklab.berkeley.edu)
+ - date_published: 2024-06-22T08:13:10.885646+00:00
+
+ ## ICSI | ICSI
+ - [https://icsi.berkeley.edu](https://icsi.berkeley.edu)
+ - date_published: 2024-05-08T11:29:33.160545+00:00
+
+ ## UC Berkeley School of Information
+ - [https://ischool.berkeley.edu](https://ischool.berkeley.edu)
+ - date_published: 2024-04-30T03:19:44.162902+00:00
+
+ ## Home
+ - [https://www.law.berkeley.edu](https://www.law.berkeley.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Welcome to the UC Berkeley Library
+ - [https://lib.berkeley.edu](https://lib.berkeley.edu)
+ - date_published: 2024-04-30T03:19:39.667139+00:00
+
+ ## Open Computing Facility at UC Berkeley
+ - [https://www.ocf.berkeley.edu](https://www.ocf.berkeley.edu)
+ - date_published: 2024-05-04T15:35:19.410180+00:00
+
+ ## Space Sciences Lab
+ - [https://www.ssl.berkeley.edu](https://www.ssl.berkeley.edu)
+ - date_published: 2024-07-14T04:06:54.165634+00:00
+
+ ## Statistics at UC Berkeley | Department of Statistics
+ - [https://www.stat.berkeley.edu](https://www.stat.berkeley.edu)
+ - date_published: 2023-10-25T18:48:16.122861+00:00
+
+ ## VIP Lab
+ - [http://www-video.eecs.berkeley.edu](http://www-video.eecs.berkeley.edu)
+ - date_published: 2024-06-22T09:06:30.537459+00:00
+
+ ## Boston Conservatory at Berklee
+ - [https://bostonconservatory.berklee.edu](https://bostonconservatory.berklee.edu)
+ - date_published: 2024-06-21T13:59:48+00:00
+
+ ## OneLogin
+ - [https://canvas.berklee.edu](https://canvas.berklee.edu)
+ - date_published: 2024-06-12T05:31:51+00:00
+
+ ## Berklee College of Music
+ - [https://college.berklee.edu](https://college.berklee.edu)
+ - date_published: 2024-06-21T14:00:45+00:00
+
+ ## OneLogin
+ - [https://hub.berklee.edu](https://hub.berklee.edu)
+ - date_published: 2024-06-12T05:31:51+00:00
+
+ ## Welcome | The Library
+ - [https://library.berklee.edu](https://library.berklee.edu)
+ - date_published: 2024-06-21T13:55:46+00:00
+
+ ## Berklee NYC
+ - [https://nyc.berklee.edu](https://nyc.berklee.edu)
+ - date_published: 2024-06-21T13:24:34+00:00
+
+ ## Berklee Online - Master's and Bachelor's Music Degrees, Certificates, and Courses
+ - [https://online.berklee.edu](https://online.berklee.edu)
+ - date_published: 2024-06-21T14:02:04.173187+00:00
+
+ ## Berklee Summer Programs
+ - [https://summer.berklee.edu](https://summer.berklee.edu)
+ - date_published: 2024-06-21T13:59:50+00:00
+
+ ## Berklee Valencia
+ - [https://valencia.berklee.edu](https://valencia.berklee.edu)
+ - date_published: 2024-06-21T14:00:40+00:00
+
+ ## Berklee
+ - [https://www.berklee.edu](https://www.berklee.edu)
+ - date_published: 2024-05-04T12:48:28.793799+00:00
+
+ ## Private Liberal Arts College in Bethany, WV - Bethany College
+ - [http://www.bethanywv.edu](http://www.bethanywv.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Psychoanalysis and Mental Health Counseling Graduate Degrees - Boston Graduate School of Psychoanalysis
+ - [https://bgsp.edu](https://bgsp.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Welcome - The Institute of Counseling and Psychoanalytic Studies
+ - [https://nj.bgsp.edu](https://nj.bgsp.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Home - New York Graduate School of Psychoanalysis
+ - [https://nygsp.bgsp.edu](https://nygsp.bgsp.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## The Henry A. Wallace Police Crime Database
+ - [https://policecrime.bgsu.edu](https://policecrime.bgsu.edu)
+ - date_published: 2024-06-20T02:38:20.283087+00:00
+
+ ## Bowling Green State University: #1 Student Experience in Ohio
+ - [http://www.bgsu.edu](http://www.bgsu.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
  ## U.S. Department of the Interior | Bureau of Indian Education
  - [https://www.bie.edu](https://www.bie.edu)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -3848,172 +4017,4 @@ Mellon University
  ## Columbia University Information Technology
  - [https://cuit.columbia.edu](https://cuit.columbia.edu)
  - date_published: 2024-04-30T03:48:58.578784+00:00
-
- ## Columbia University Irving Medical Center
- - [https://cumc.columbia.edu](https://cumc.columbia.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Columbia University Press Website | Home
- - [https://cup.columbia.edu](https://cup.columbia.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Columbia University Data Science Institute
- - [https://datascience.columbia.edu](https://datascience.columbia.edu)
- - date_published: 2024-04-30T03:56:55.595507+00:00
-
- ## Columbia Giving
- - [https://datasociety.givenow.columbia.edu](https://datasociety.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:47.135844+00:00
-
- ## The Roger Lehecka Double Discovery Center
- - [https://ddc.college.columbia.edu](https://ddc.college.columbia.edu)
- - date_published: 2024-04-30T03:56:48.123202+00:00
-
- ## DextAIRity: Deformable Manipulation Can be a Breeze
- - [https://dextairity.cs.columbia.edu](https://dextairity.cs.columbia.edu)
- - date_published: 2023-02-28T20:29:15+00:00
-
- ## Diffusion Models for Robotics Control
- - [https://diffusion-policy.cs.columbia.edu](https://diffusion-policy.cs.columbia.edu)
- - date_published: 2023-12-14T04:53:26+00:00
-
- ## Columbia University: Directory
- - [https://directory.columbia.edu](https://directory.columbia.edu)
- - date_published: 2024-04-30T03:57:20.283569+00:00
-
- ## CU Directory of Classes
- - [https://doc.sis.columbia.edu](https://doc.sis.columbia.edu)
- - date_published: 2024-07-22T05:55:39.070614+00:00
-
- ## Find the nearest Columbia University Irving Medical Center Doctor near you | family physicians, pediatricians, surgeons
- - [https://doctors.columbia.edu](https://doctors.columbia.edu)
- - date_published: 2024-04-30T03:57:12.879681+00:00
-
- ## Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
- - [https://dreamitate.cs.columbia.edu](https://dreamitate.cs.columbia.edu)
- - date_published: 2024-06-30T18:12:18+00:00
-
- ## Learning 3D Dynamic Scene Representations for Robot Manipulation
- - [https://dsr-net.cs.columbia.edu](https://dsr-net.cs.columbia.edu)
- - date_published: 2022-10-12T21:54:27+00:00
-
- ## Earth Day
- - [https://earthday.columbia.edu](https://earthday.columbia.edu)
- - date_published: 2024-04-30T03:49:15.495140+00:00
-
- ## Department of Earth and Environmental Sciences
- - [https://eesc.columbia.edu](https://eesc.columbia.edu)
- - date_published: 2024-07-02T19:45:18+00:00
-
- ## Home - Columbia Entrepreneurship
- - [https://entrepreneurship.columbia.edu](https://entrepreneurship.columbia.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Equal Opportunity and Affirmative Action
- - [https://eoaa.columbia.edu](https://eoaa.columbia.edu)
- - date_published: 2024-04-30T03:55:44.508591+00:00
-
- ## Columbia University Events Calendar
- - [https://events.columbia.edu](https://events.columbia.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Facilities and Operations
- - [http://facilities.columbia.edu](http://facilities.columbia.edu)
- - date_published: 2024-07-05T18:15:22+00:00
-
- ## Feedback
- - [https://feedback.cul.columbia.edu](https://feedback.cul.columbia.edu)
- - date_published: 2024-07-22T05:45:10.694920+00:00
-
- ## Columbia University Libraries Finding Aids
- - [https://findingaids.library.columbia.edu](https://findingaids.library.columbia.edu)
- - date_published: 2024-07-02T10:27:36.749111+00:00
-
- ## Users
- - [https://forms.alumdev.columbia.edu](https://forms.alumdev.columbia.edu)
- - date_published: 2024-04-30T03:48:21.638479+00:00
-
- ## Columbia Giving
- - [https://futureofneuroscience.givenow.columbia.edu](https://futureofneuroscience.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:43.708601+00:00
-
- ## GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion
- - [https://garmentnets.cs.columbia.edu](https://garmentnets.cs.columbia.edu)
- - date_published: 2021-09-27T00:38:01+00:00
-
- ## Government and Community Affairs | Office of Public Affairs
- - [https://gca.columbia.edu](https://gca.columbia.edu)
- - date_published: 2024-04-30T03:55:41.248565+00:00
-
- ## Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis - Columbia Computer Vision Lab
- - [https://gcd.cs.columbia.edu](https://gcd.cs.columbia.edu)
- - date_published: 2024-07-21T19:30:39+00:00
-
- ## pix2gestalt: Amodal Segmentation by Synthesizing Wholes
- - [https://gestalt.cs.columbia.edu](https://gestalt.cs.columbia.edu)
- - date_published: 2024-06-25T13:26:48+00:00
-
- ## Why We Give
- - [https://giftplanning.columbia.edu](https://giftplanning.columbia.edu)
- - date_published: 2024-07-22T05:44:55.936992+00:00
-
- ## Columbia Giving
- - [https://givenow.columbia.edu](https://givenow.columbia.edu)
- - date_published: 2024-04-30T03:57:10.913005+00:00
-
- ## Homepage
- - [https://giving.columbia.edu](https://giving.columbia.edu)
- - date_published: 2024-04-30T03:55:48.094993+00:00
-
- ## Columbia Giving Day 2024
- - [http://givingday.columbia.edu](http://givingday.columbia.edu)
- - date_published: 2024-07-22T05:31:41.174502+00:00
-
- ## Columbia Global Centers
- - [https://globalcenters.columbia.edu](https://globalcenters.columbia.edu)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Columbia Giving
- - [https://globalsolutions.givenow.columbia.edu](https://globalsolutions.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:50.536044+00:00
-
- ## Grossman Center
- - [http://grossmancenter.columbia.edu](http://grossmancenter.columbia.edu)
- - date_published: 2024-07-22T05:55:23.864020+00:00
-
- ## School of General Studies
- - [https://gs.columbia.edu](https://gs.columbia.edu)
- - date_published: 2024-07-08T08:43:29+00:00
-
- ## Columbia Health
- - [http://health.columbia.edu](http://health.columbia.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Grades of Heat
- - [https://heat.brown.columbia.edu](https://heat.brown.columbia.edu)
- - date_published: 2023-09-18T17:33:36+00:00
-
- ## Department of History - Columbia University
- - [https://history.columbia.edu](https://history.columbia.edu)
- - date_published: 2024-06-30T08:33:13+00:00
-
- ## Library Hours and Locations Open Now | Columbia University Libraries
- - [https://hours.library.columbia.edu](https://hours.library.columbia.edu)
- - date_published: 2024-07-22T05:45:03.188025+00:00
-
- ## The Hub
- - [https://hub.zi.columbia.edu](https://hub.zi.columbia.edu)
- - date_published: 2023-07-23T05:31:46+00:00
-
- ## Learning the Predictability of the Future - Columbia Computer Vision
- - [https://hyperfuture.cs.columbia.edu](https://hyperfuture.cs.columbia.edu)
- - date_published: 2023-04-28T19:04:55+00:00
-
- ## Error Page
- - [https://internal.zi.columbia.edu](https://internal.zi.columbia.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
- - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
- - date_published: 2022-07-01T02:01:20+00:00
 

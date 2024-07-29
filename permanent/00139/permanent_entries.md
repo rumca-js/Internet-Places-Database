@@ -1,3 +1,149 @@
+ ## Rec Room | Substack
+ - [https://thespinoffrecroom.substack.com](https://thespinoffrecroom.substack.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## The Bulletin | The Spinoff | Substack
+ - [https://thespinoff.substack.com](https://thespinoff.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Weekend with Madeleine Chapman | The Weekend with Mad Chapman | Substack
+ - [https://thespinoffweekly.substack.com](https://thespinoffweekly.substack.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Wonkette's THE SPLIT | Rebecca Schoenkopf | Substack
+ - [https://thesplit.substack.com](https://thesplit.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## The Street Tree | Paul Wood | Substack
+ - [https://thestreettree.substack.com](https://thestreettree.substack.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## The Sword and the Sandwich | Talia Lavin | Substack
+ - [https://theswordandthesandwich.substack.com](https://theswordandthesandwich.substack.com)
+ - date_published: 2024-07-09T21:31:03.440832+00:00
+
+ ## The UnPopulist | Shikha Dalmia | Substack
+ - [https://theunpopulist.substack.com](https://theunpopulist.substack.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## The Upheaval | N.S. Lyons | Substack
+ - [https://theupheaval.substack.com](https://theupheaval.substack.com)
+ - date_published: 2024-07-04T01:28:39.741383+00:00
+
+ ## The VC Corner | Ruben Dominguez Ibar | Substack
+ - [https://thevccorner.substack.com](https://thevccorner.substack.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## The Walrus | Substack
+ - [https://thewalrusca.substack.com](https://thewalrusca.substack.com)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Walters File | Andy Walters | Substack
+ - [https://thewaltersfile.substack.com](https://thewaltersfile.substack.com)
+ - date_published: 2023-11-19T22:14:18.392857+00:00
+
+ ## The Why Axis | Christopher Ingraham | Substack
+ - [https://thewhyaxis.substack.com](https://thewhyaxis.substack.com)
+ - date_published: 2024-01-09T01:45:36.113692+00:00
+
+ ## The Wide 9 | Substack
+ - [https://thewide9.substack.com](https://thewide9.substack.com)
+ - date_published: 2024-07-03T22:56:02.501190+00:00
+
+ ## The Willful Writer | Will J Murphy | Substack
+ - [https://thewillfulwriter.substack.com](https://thewillfulwriter.substack.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## The Wonder Project | Dan Vekhter | Substack
+ - [https://thewonderproject.substack.com](https://thewonderproject.substack.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The Writing Life by Matt Taibbi | Substack
+ - [https://thewritinglife.substack.com](https://thewritinglife.substack.com)
+ - date_published: 2024-05-07T12:52:01.047742+00:00
+
+ ## ⚡️ The Zag | Chris Blahoot | Substack
+ - [https://thezag.substack.com](https://thezag.substack.com)
+ - date_published: 2024-07-16T17:42:20.811573+00:00
+
+ ## Don't Worry About the Vase | Substack
+ - [https://thezvi.substack.com](https://thezvi.substack.com)
+ - date_published: 2023-11-22T18:18:35.241169+00:00
+
+ ## Thing of Things | Ozy Brennan | Substack
+ - [https://thingofthings.substack.com](https://thingofthings.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## The Big Picture | Substack
+ - [https://thinkbigpicture.substack.com](https://thinkbigpicture.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## This is indexing. | Michelle Guiliano | Substack
+ - [https://thisisindexing.substack.com](https://thisisindexing.substack.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Craig’s Cabinet of Meagre Offerings | Craig Burgess | Substack
+ - [https://thisisnotvalue.substack.com](https://thisisnotvalue.substack.com)
+ - date_published: 2024-07-16T16:46:04.454524+00:00
+
+ ## This is the Top | Douglas A. Boneparth | Substack
+ - [https://thisisthetop.substack.com](https://thisisthetop.substack.com)
+ - date_published: 2024-05-06T15:16:59.382060+00:00
+
+ ## Unpacked | Viggy Balagopalakrishnan | Substack
+ - [https://thisisunpacked.substack.com](https://thisisunpacked.substack.com)
+ - date_published: 2023-12-17T00:30:40.265669+00:00
+
+ ## This Week in Africa | Jeffrey Paller | Substack
+ - [https://thisweekinafrica.substack.com](https://thisweekinafrica.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Think Clearly Newsletter | Mathias Jakobsen | Substack
+ - [https://thnkclrly.substack.com](https://thnkclrly.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Thoguhts | Akshay Raveendran | Substack
+ - [https://thoguhts.substack.com](https://thoguhts.substack.com)
+ - date_published: 2023-11-08T09:45:32.418742+00:00
+
+ ## Thomas Kidd’s Substack | Thomas S. Kidd | Substack
+ - [https://thomaskidd.substack.com](https://thomaskidd.substack.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## The Path Not Taken | Thomas Prosser | Substack
+ - [https://thomasprosser.substack.com](https://thomasprosser.substack.com)
+ - date_published: 2023-10-25T10:06:26.448291+00:00
+ - tags: ['substack']
+
+ ## Democracy Americana | Thomas Zimmer | Substack
+ - [https://thomaszimmer.substack.com](https://thomaszimmer.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Ideas Big & Simple | Thom Scott-Phillips | Substack
+ - [https://thomscottphillips.substack.com](https://thomscottphillips.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Thot's Thoughts | Nikhil Thota | Substack
+ - [https://thot.substack.com](https://thot.substack.com)
+ - date_published: 2024-05-12T06:17:29.138394+00:00
+
+ ## Throwanotherbearinthecanoe Newsletter | Elizabeth Bear | Substack
+ - [https://throwanotherbearinthecanoe.substack.com](https://throwanotherbearinthecanoe.substack.com)
+ - date_published: 2024-07-04T15:06:39.641553+00:00
+
+ ## The Anti-Fundamentalist | Tia Levings | Substack
+ - [https://tialevings.substack.com](https://tialevings.substack.com)
+ - date_published: 2024-07-02T09:43:15.368329+00:00
+
+ ## Software Design: Tidy First? | Kent Beck | Substack
+ - [https://tidyfirst.substack.com](https://tidyfirst.substack.com)
+ - date_published: 2023-10-25T10:06:29.035400+00:00
+ - tags: ['substack']
+
+ ## The Mycelium | Tijn Tjoelker | Substack
+ - [https://tijntjoelker.substack.com](https://tijntjoelker.substack.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
  ## Time Travel Kitchen | Jolene Handy | Substack
  - [https://timetravelkitchen.substack.com](https://timetravelkitchen.substack.com)
  - date_published: 2024-07-04T04:40:19.935769+00:00
@@ -3910,150 +4056,4 @@
  ## sweetFrog® Premium Frozen Yogurt
  - [http://www.sweetfrog.com](http://www.sweetfrog.com)
  - date_published: 2024-06-13T00:00:00+00:00
-
- ## sweetgreen | Inspiring healthier communities
- - [https://sweetgreen.com](https://sweetgreen.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Sweet Home 3D - Draw floor plans and arrange furniture freely
- - [https://www.sweethome3d.com](https://www.sweethome3d.com)
- - date_published: 2023-10-25T17:20:18.110245+00:00
-
- ## Home | sweet-home-nashville
- - [http://sweethomenashville.com](http://sweethomenashville.com)
- - date_published: 2024-06-27T08:46:10.021894+00:00
-
- ## sweetness-light.com
- - [https://sweetness-light.com](https://sweetness-light.com)
- - date_published: 2024-05-06T21:00:58.110096+00:00
-
- ## sweetness-light.com
- - [http://www.sweetness-light.com](http://www.sweetness-light.com)
- - date_published: 2024-06-27T06:40:57.238288+00:00
-
- ## SweetPaul Entertainment
- - [http://www.sweetpaul.com](http://www.sweetpaul.com)
- - date_published: 2024-06-02T10:52:21.133628+00:00
-
- ## SweetP Productions - Mac Privacy
- - [https://sweetpproductions.com](https://sweetpproductions.com)
- - date_published: 2024-06-20T11:09:50+00:00
-
- ## SweetProcess · Document Your Standard Operating Procedures With Ease
- - [https://www.sweetprocess.com](https://www.sweetprocess.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Modest Clothing - Cute Clothes for Women | Sweet Salt Clothing
- - [https://www.sweetsaltclothing.com](https://www.sweetsaltclothing.com)
- - date_published: 2024-07-17T03:10:04.112157+00:00
-
- ## Home
- - [https://sweetsandsnacks.com](https://sweetsandsnacks.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## SweetScape Software Inc - 010 Editor - Pro Text/Hex Editor | Edit 250+ Formats | Reverse Engineering
- - [https://www.sweetscape.com](https://www.sweetscape.com)
- - date_published: 2024-06-03T07:52:59.109099+00:00
- - tags: ['propietary', 'hex editor']
-
- ## Song lyrics from all kinds of music for all kinds of people.
- - [http://www.sweetslyrics.com](http://www.sweetslyrics.com)
- - date_published: 2024-06-20T05:20:05.934211+00:00
-
- ## Sweetspot
- - [http://console.sweetspotgov.com](http://console.sweetspotgov.com)
- - date_published: 2024-07-18T05:23:05.615365+00:00
-
- ## Introduction - Sweetspot
- - [http://docs.sweetspotgov.com](http://docs.sweetspotgov.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Sweet Tree Review
- - [https://www.sweettreereview.com](https://www.sweettreereview.com)
- - date_published: 2024-07-10T08:33:41.931300+00:00
-
- ## Sweetwater.com
- - [https://www.sweetwater.com](https://www.sweetwater.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Swell AI | Repurpose Audio or Video Content for Every Marketing Channel
- - [https://www.swellai.com](https://www.swellai.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Swell Type | Real California Fonts
- - [https://swelltype.com](https://swelltype.com)
- - date_published: 2024-06-15T10:17:04.846792+00:00
-
- ## ACM CCS 2019 – November 11-15, 2019, London, UK
- - [https://ccs19.swenjacobs.com](https://ccs19.swenjacobs.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Jonathan Swerdloff Esq.
- - [http://www.swerdloff.com](http://www.swerdloff.com)
- - date_published: 2024-07-13T10:25:32.486913+00:00
-
- ## Swetrix
- - [https://swetrix.com](https://swetrix.com)
- - date_published: 2024-06-19T22:12:59.005391+00:00
-
- ## サイエンスワールド
- - [http://www.sw-gifu.com](http://www.sw-gifu.com)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Home OG
- - [https://swiffer.com](https://swiffer.com)
- - date_published: 2024-06-11T09:34:24+00:00
-
- ## Swift and Memes - iOS good practices explained with memes
- - [http://swiftandmemes.com](http://swiftandmemes.com)
- - date_published: 2024-06-23T15:35:20.141705+00:00
-
- ## Swift And Painless
- - [https://swiftandpainless.com](https://swiftandpainless.com)
- - date_published: 2017-05-18T00:00:00+00:00
-
- ## Swift And Pizza - Pizza, Swift and Mandolino
- - [https://swiftandpizza.com](https://swiftandpizza.com)
- - date_published: 2024-06-22T16:34:47+00:00
-
- ## SwiftBeta - APRENDE a programar SWIFTUI en Español - CURSO de SwiftUI
- - [https://www.swiftbeta.com](https://www.swiftbeta.com)
- - date_published: 2024-06-23T15:04:53.322937+00:00
-
- ## Swift by Sundell
- - [https://swiftbysundell.com](https://swiftbysundell.com)
- - date_published: 2023-02-27T00:00:00+00:00
-
- ## Swift Communications – Great People Connecting Communities
- - [https://www.swiftcom.com](https://www.swiftcom.com)
- - date_published: 2024-07-15T11:42:41.510175+00:00
-
- ## SwiftConf | International Swift and iOS Conference
- - [https://swiftconf.com](https://swiftconf.com)
- - date_published: 2024-06-27T14:38:36.770056+00:00
-
- ## Swift Dev Journal – Articles for iOS and Mac Developers
- - [https://www.swiftdevjournal.com](https://www.swiftdevjournal.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Home - Uplift
- - [http://uplift.swiftideas.com](http://uplift.swiftideas.com)
- - date_published: 2024-07-16T22:15:34.086503+00:00
-
- ## Swift in Depth
- - [https://swiftindepth.com](https://swiftindepth.com)
- - date_published: 2024-03-13T14:48:08+00:00
-
- ## swiftInsta • Best and Fast Instagram Scraper API Provider
- - [https://swiftinsta.com](https://swiftinsta.com)
- - date_published: 2024-04-22T19:22:31+00:00
- - tags: ['web scraping service']
-
- ## Swiftjective-C
- - [https://swiftjectivec.com](https://swiftjectivec.com)
- - date_published: 2024-06-18T07:39:40.433581+00:00
-
- ## Home – Swiftless Tutorials - Various older tutorials and newer programming musings
- - [http://www.swiftless.com](http://www.swiftless.com)
- - date_published: 2024-06-23T19:18:06+00:00
 

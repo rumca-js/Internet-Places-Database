@@ -1,3 +1,267 @@
+ ## Python Control Systems Library — Python Control Systems Library 0.10.0 documentation
+ - [https://python-control.org](https://python-control.org)
+ - date_published: 2024-03-31T19:54:45+00:00
+
+ ## Python GUI
+ - [https://pythongui.org](https://pythongui.org)
+ - date_published: 2024-05-02T07:51:50.482415+00:00
+
+ ## PyPI Package and Documentation Storage
+ - [https://files.pythonhosted.org](https://files.pythonhosted.org)
+ - date_published: 2024-07-18T17:09:55.197895+00:00
+
+ ## PyPI Package and Documentation Storage
+ - [https://pythonhosted.org](https://pythonhosted.org)
+ - date_published: 2024-05-06T13:57:20.264149+00:00
+
+ ## HTTPX
+ - [https://www.python-httpx.org](https://www.python-httpx.org)
+ - date_published: 2024-02-21T13:08:18+00:00
+ - tags: ['python', 'programming library']
+
+ ## Python Institute - PROGRAM YOUR FUTURE
+ - [https://pythoninstitute.org](https://pythoninstitute.org)
+ - date_published: 2024-07-09T17:02:54.784234+00:00
+
+ ## Mouse Vs Python
+ - [https://www.blog.pythonlibrary.org](https://www.blog.pythonlibrary.org)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Wing Python IDE - Designed for Python
+ - [http://pythonology.org](http://pythonology.org)
+ - date_published: 2024-06-28T20:23:00.062462+00:00
+
+ ## Poetry - Python dependency management and packaging made easy
+ - [https://python-poetry.org](https://python-poetry.org)
+ - date_published: 2024-07-10T03:25:22.945509+00:00
+
+ ## The Eric Python IDE
+ - [http://eric-ide.python-projects.org](http://eric-ide.python-projects.org)
+ - date_published: 2024-06-28T20:22:53.485125+00:00
+
+ ## Requests: HTTP for Humans™ — Requests 2.31.0 documentation
+ - [https://docs.python-requests.org](https://docs.python-requests.org)
+ - date_published: 2024-05-06T06:38:15.118721+00:00
+
+ ## Home · San Diego Python
+ - [http://pythonsd.org](http://pythonsd.org)
+ - date_published: 2024-07-16T17:00:57.553726+00:00
+
+ ## python-telegram-bot
+ - [https://python-telegram-bot.org](https://python-telegram-bot.org)
+ - date_published: 2024-01-01T13:11:45+00:00
+
+ ## Python Software Verband e.V Homepage
+ - [https://python-verband.org](https://python-verband.org)
+ - date_published: 2024-03-20T07:26:09+00:00
+
+ ## PyTorch Forums
+ - [https://discuss.pytorch.org](https://discuss.pytorch.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## PyTorch
+ - [https://pytorch.org](https://pytorch.org)
+ - date_published: 2023-10-25T08:34:08.387489+00:00
+ - tags: ['python framework', 'machine learning']
+
+ ## PyTorch3D · A library for deep learning with 3D data
+ - [https://pytorch3d.org](https://pytorch3d.org)
+ - date_published: 2024-03-28T16:10:36+00:00
+
+ ## Pyvec, neziskovka české Python komunity
+ - [https://pyvec.org](https://pyvec.org)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## PyVideo.org
+ - [http://pyvideo.org](http://pyvideo.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## PyVista — PyVista 0.44.1 documentation
+ - [https://docs.pyvista.org](https://docs.pyvista.org)
+ - date_published: 2024-07-22T09:50:53.061344+00:00
+
+ ## Homepage — Examples 0.1.0 documentation
+ - [https://examples.pyviz.org](https://examples.pyviz.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Python tools for data visualization — PyViz 0.0.1 documentation
+ - [https://pyviz.org](https://pyviz.org)
+ - date_published: 2024-05-04T10:10:25.428274+00:00
+
+ ## PyWeek - Python Game Programming Challenge
+ - [https://pyweek.org](https://pyweek.org)
+ - date_published: 2024-07-11T11:11:31.292984+00:00
+
+ ## Platypus Zone Home
+ - [http://platypus.pz.org](http://platypus.pz.org)
+ - date_published: 2021-02-02T15:18:49+00:00
+
+ ## Worldspawn Archiv
+ - [https://cs.ws.q3df.org](https://cs.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archiv
+ - [https://de.ws.q3df.org](https://de.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Defrag World Cup 2021
+ - [https://dfwc.q3df.org](https://dfwc.q3df.org)
+ - date_published: 2024-06-12T21:08:50.360174+00:00
+
+ ## Worldspawn Archive
+ - [https://ee.ws.q3df.org](https://ee.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archive
+ - [https://en.ws.q3df.org](https://en.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+ - tags: ['quake']
+
+ ## Worldspawn Archive
+ - [https://es.ws.q3df.org](https://es.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archive
+ - [https://fi.ws.q3df.org](https://fi.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archive
+ - [https://fr.ws.q3df.org](https://fr.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archivio
+ - [https://it.ws.q3df.org](https://it.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn archyvas
+ - [https://lt.ws.q3df.org](https://lt.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn archief
+ - [https://nl.ws.q3df.org](https://nl.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archiwum
+ - [https://pl.ws.q3df.org](https://pl.ws.q3df.org)
+ - date_published: 2023-10-30T15:15:49.034470+00:00
+
+ ## q3df.org
+ - [https://q3df.org](https://q3df.org)
+ - date_published: 2024-06-12T21:07:14+00:00
+ - tags: ['quake', 'quake 3']
+
+ ## Worldspawn Архив
+ - [https://ru.ws.q3df.org](https://ru.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn arkiv
+ - [https://sv.ws.q3df.org](https://sv.ws.q3df.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Worldspawn Archive
+ - [https://ws.q3df.org](https://ws.q3df.org)
+ - date_published: 2023-10-28T20:31:03.999056+00:00
+ - tags: ['quake']
+
+ ## q3k
+ - [https://q3k.org](https://q3k.org)
+ - date_published: 2023-10-25T22:01:55.679629+00:00
+
+ ## Issues · qbittorrent/qBittorrent
+ - [https://bugs.qbittorrent.org](https://bugs.qbittorrent.org)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## qBittorrent official forums - Index page
+ - [https://forum.qbittorrent.org](https://forum.qbittorrent.org)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## GitHub - qbittorrent/qBittorrent: qBittorrent BitTorrent client
+ - [https://git.qbittorrent.org](https://git.qbittorrent.org)
+ - date_published: 2024-05-11T11:41:17.331606+00:00
+
+ ## qBittorrent Official Website
+ - [https://qbittorrent.org](https://qbittorrent.org)
+ - date_published: 2024-05-26T19:00:02+00:00
+ - tags: ['torrent client', 'file sharing']
+
+ ## Home
+ - [https://wiki.qbittorrent.org](https://wiki.qbittorrent.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Friends of Off-Road Cycling - QC Friends of Off Road Cycling Home
+ - [http://www.qcforc.org](http://www.qcforc.org)
+ - date_published: 2024-07-14T15:22:54.745064+00:00
+
+ ## ALT Website – Arabic Language Technologies Group
+ - [https://alt.qcri.org](https://alt.qcri.org)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Quad City Symphony Orchestra | QCSO
+ - [http://qcso.org](http://qcso.org)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## QED | A weekend of science, reason, and critical thinking | 19th-20th October 2024, Manchester UK
+ - [https://qedcon.org](https://qedcon.org)
+ - date_published: 2024-06-30T01:47:12.958929+00:00
+
+ ## Index of /
+ - [https://download.qemu.org](https://download.qemu.org)
+ - date_published: 2024-04-30T08:00:54.592643+00:00
+
+ ## KVM Forum 2023 :: pretalx
+ - [https://kvm-forum.qemu.org](https://kvm-forum.qemu.org)
+ - date_published: 2023-10-25T22:01:56.457833+00:00
+
+ ## QEMU
+ - [https://qemu.org](https://qemu.org)
+ - date_published: 2024-04-30T13:45:12+00:00
+ - tags: ['emulator', 'open source', 'emulation']
+
+ ## QEMU
+ - [https://wiki.qemu.org](https://wiki.qemu.org)
+ - date_published: 2024-05-07T15:29:29.169673+00:00
+
+ ## QEMU Advent Calendar 2023
+ - [http://qemu-advent-calendar.org](http://qemu-advent-calendar.org)
+ - date_published: 2024-05-27T09:44:29.772543+00:00
+
+ ## Home
+ - [https://qeprize.org](https://qeprize.org)
+ - date_published: 2024-07-21T09:42:29.537998+00:00
+
+ ## QGIS Plugins
+ - [https://plugins.qgis.org](https://plugins.qgis.org)
+ - date_published: 2024-07-15T06:19:14.896621+00:00
+
+ ## Welcome to the QGIS project!
+ - [https://qgis.org](https://qgis.org)
+ - date_published: 2024-07-01T05:14:04.180073+00:00
+
+ ## AusGamers News - AusGamers.com
+ - [http://ap.qgl.org](http://ap.qgl.org)
+ - date_published: 2024-06-28T19:03:28.422244+00:00
+
+ ## QHLAN2024
+ - [https://qhlan.org](https://qhlan.org)
+ - date_published: 2024-01-14T00:00:00+00:00
+ - tags: ['quake', 'convention']
+
+ ## QIR Alliance
+ - [https://www.qir-alliance.org](https://www.qir-alliance.org)
+ - date_published: 2023-08-04T18:57:30+00:00
+
+ ## Qiskit | IBM Quantum Computing
+ - [https://qiskit.org](https://qiskit.org)
+ - date_published: 2024-04-29T07:04:57.946144+00:00
+
+ ## DJ Adams
+ - [https://qmacro.org](https://qmacro.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home
+ - [https://www.qmsu.org](https://www.qmsu.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## (no title)
  - [https://qmucu.org](https://qmucu.org)
  - date_published: 2024-07-09T14:17:02.573485+00:00
@@ -3212,6 +3476,10 @@
  - [https://www.roadto30.org](https://www.roadto30.org)
  - date_published: 2024-06-24T11:39:05.220183+00:00
 
+ ## Robert Caro | Author of The Power Broker and The Years of Lyndon Johnson
+ - [https://www.robertcaro.org](https://www.robertcaro.org)
+ - date_published: 2024-07-21T00:00:00+00:00
+
  ## Robert-E-Howard: Electronic Amateur Press Association
  - [http://www.robert-e-howard.org](http://www.robert-e-howard.org)
  - date_published: 2011-07-18T14:48:44+00:00
@@ -3798,267 +4066,4 @@
  ## rpm.org - Home
  - [https://rpm.org](https://rpm.org)
  - date_published: 2024-05-04T15:45:05.907250+00:00
-
- ## Welcome to FAS2
- - [https://admin.rpmfusion.org](https://admin.rpmfusion.org)
- - date_published: 2024-07-14T03:12:50.909030+00:00
-
- ## Bugzilla Main Page
- - [https://bugzilla.rpmfusion.org](https://bugzilla.rpmfusion.org)
- - date_published: 2024-07-14T03:12:48.801530+00:00
-
- ## Index of /
- - [https://download0.rpmfusion.org](https://download0.rpmfusion.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Index of /
- - [https://download1.rpmfusion.org](https://download1.rpmfusion.org)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Ipsilon
- - [https://id.rpmfusion.org](https://id.rpmfusion.org)
- - date_published: 2024-07-14T03:12:55.531013+00:00
-
- ## Build System Info | koji
- - [https://koji.rpmfusion.org](https://koji.rpmfusion.org)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Available lists - Rpmfusion
- - [https://lists.rpmfusion.org](https://lists.rpmfusion.org)
- - date_published: 2024-07-14T03:12:56.572354+00:00
-
- ## RPM Fusion - RPM Fusion
- - [https://mirrors.rpmfusion.org](https://mirrors.rpmfusion.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## RPM Fusion Project Packages GIT repositories
- - [https://pkgs.rpmfusion.org](https://pkgs.rpmfusion.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## RPM Fusion - RPM Fusion
- - [https://rpmfusion.org](https://rpmfusion.org)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## The R Blog
- - [https://blog.r-project.org](https://blog.r-project.org)
- - date_published: 2024-05-13T11:53:16.803350+00:00
-
- ## The Comprehensive R Archive Network
- - [https://cloud.r-project.org](https://cloud.r-project.org)
- - date_published: 2024-03-04T19:47:19+00:00
-
- ## R Contributor Site
- - [https://contributor.r-project.org](https://contributor.r-project.org)
- - date_published: 2024-03-27T13:35:57+00:00
-
- ## The Comprehensive R Archive Network
- - [https://cran.r-project.org](https://cran.r-project.org)
- - date_published: 2024-04-28T13:07:09.483986+00:00
-
- ## R Developer Page
- - [https://developer.r-project.org](https://developer.r-project.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Overview
- - [https://journal.r-project.org](https://journal.r-project.org)
- - date_published: 2024-07-11T01:21:05+00:00
-
- ## Lattice: trellis graphics for R
- - [https://lattice.r-forge.r-project.org](https://lattice.r-forge.r-project.org)
- - date_published: 2024-07-01T05:32:56.542288+00:00
-
- ## lists.r-forge.r-project.org Mailing Lists
- - [https://lists.r-forge.r-project.org](https://lists.r-forge.r-project.org)
- - date_published: 2024-07-09T08:22:12.740673+00:00
-
- ## R-Forge: Welcome
- - [https://r-forge.r-project.org](https://r-forge.r-project.org)
- - date_published: 2024-07-09T07:59:04.865799+00:00
-
- ## R: The R Project for Statistical Computing
- - [https://r-project.org](https://r-project.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## RR0
- - [https://rr0.org](https://rr0.org)
- - date_published: 2024-04-28T03:56:17.539092+00:00
- - tags: ['ufo', 'paranormal']
-
- ## Road Runners Club of America, Inc.
- - [https://www.rrca.org](https://www.rrca.org)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Roy Rosenzweig Center for History and New Media – Democratizing history through digital media
- - [https://rrchnm.org](https://rrchnm.org)
- - date_published: 2024-07-03T19:44:43+00:00
-
- ## Sign in - Matomo
- - [https://stats.rrchnm.org](https://stats.rrchnm.org)
- - date_published: 2024-06-15T06:21:28.249593+00:00
-
- ## RRDtool - The Time Series Database
- - [http://www.rrdtool.org](http://www.rrdtool.org)
- - date_published: 2019-02-04T14:10:38+00:00
-
- ## Fallen Flag Railroad Photos
- - [https://www.rr-fallenflags.org](https://www.rr-fallenflags.org)
- - date_published: 2023-10-25T22:04:34.495586+00:00
-
- ## rr – record and replay debugger for C/C++
- - [https://rr-project.org](https://rr-project.org)
- - date_published: 2024-07-21T08:54:13+00:00
-
- ## Renaissance Society of America
- - [http://www.rsa.org](http://www.rsa.org)
- - date_published: 2024-06-24T09:21:08.969854+00:00
-
- ## POS4D >> Daftar Bandar Togel Online Resmi & Terpercaya
- - [http://rsac.org](http://rsac.org)
- - date_published: 2024-05-19T12:10:00+00:00
-
- ## POS4D >> Daftar Bandar Togel Online Resmi & Terpercaya
- - [https://www.rsac.org](https://www.rsac.org)
- - date_published: 2024-01-09T03:42:25.600628+00:00
-
- ## $HOME :: rsapkf.org
- - [https://rsapkf.org](https://rsapkf.org)
- - date_published: 2023-10-25T22:04:36.393939+00:00
-
- ## Education | Royal Society of Chemistry
- - [https://edu.rsc.org](https://edu.rsc.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## RSC Publishing Home – Chemical Science Journals, Books and Databases
- - [https://pubs.rsc.org](https://pubs.rsc.org)
- - date_published: 2023-10-25T22:04:39.470576+00:00
-
- ## The Royal Society of Chemistry
- - [https://www.rsc.org](https://www.rsc.org)
- - date_published: 2024-04-29T02:27:27.357188+00:00
-
- ## The Racial Slur Database
- - [http://www.rsdb.org](http://www.rsdb.org)
- - date_published: 2024-06-23T17:53:09.257012+00:00
-
- ## American RSDHope - Navigating the journey to wholeness
- - [http://www.rsdhope.org](http://www.rsdhope.org)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## SMERTEFORSKNINGSRESSURS
- :: Home
- - [http://www.rsdsa.org](http://www.rsdsa.org)
- - date_published: 2024-06-30T09:57:37.353825+00:00
-
- ## Accueil — Boutique en ligne RSF
- - [https://boutique.rsf.org](https://boutique.rsf.org)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Help us
- - [https://donate.rsf.org](https://donate.rsf.org)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Homepage
- - [https://prod.rsf.org](https://prod.rsf.org)
- - date_published: 2024-07-15T10:41:07.823130+00:00
-
- ## Homepage
- - [https://rsf.org](https://rsf.org)
- - date_published: 2023-11-04T05:27:56.792967+00:00
-
- ## RSF Resource for Journalists’ Safety
- - [https://training.rsf.org](https://training.rsf.org)
- - date_published: 2024-07-15T11:28:09.111946+00:00
-
- ## RSF: The Russell Sage Foundation Journal of the Social Sciences
- - [https://www.rsfjournal.org](https://www.rsfjournal.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Welcome to the Radio Society of Great Britain - Portal
- - [https://rsgb.org](https://rsgb.org)
- - date_published: 2024-06-18T06:33:02.563686+00:00
-
- ## The Remote Sensing and GIS Software Library (RSGISLib) — RSGISLib
- - [http://rsgislib.org](http://rsgislib.org)
- - date_published: 2024-01-29T10:13:12+00:00
-
- ## Github Chart API
- - [https://ghchart.rshah.org](https://ghchart.rshah.org)
- - date_published: 2024-04-28T01:41:08.067429+00:00
-
- ## RSNA Case Collection
- - [https://cases.rsna.org](https://cases.rsna.org)
- - date_published: 2024-02-22T16:59:32+00:00
-
- ## Home - Radiological Society of North America
- - [https://communities.rsna.org](https://communities.rsna.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## https://pubs.rsna.org
- - [https://pubs.rsna.org](https://pubs.rsna.org)
- - date_published: 2023-10-25T22:04:40.820372+00:00
-
- ## Untitled
- - [https://www2.rsna.org](https://www2.rsna.org)
- - date_published: 2015-10-05T16:31:22+00:00
-
- ## RSNA
- - [https://rsna.org](https://rsna.org)
- - date_published: 2024-05-10T05:10:10.192186+00:00
-
- ## Cierpliwości...
- - [http://radiographics.rsnajnls.org](http://radiographics.rsnajnls.org)
- - date_published: 2024-06-20T02:27:00.493242+00:00
-
- ## Cierpliwości...
- - [http://radiology.rsnajnls.org](http://radiology.rsnajnls.org)
- - date_published: 2024-06-20T02:28:03.078605+00:00
-
- ## rsnapshot | rsnapshot
- - [https://rsnapshot.org](https://rsnapshot.org)
- - date_published: 2024-04-29T05:15:46.312862+00:00
-
- ## r-spatial
- - [https://www.r-spatial.org](https://www.r-spatial.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## RSPCA Victoria | Ending Cruelty to All Animals
- - [http://www.rspcavic.org](http://www.rspcavic.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Premium, innovative watersport products made in Barcelona since 2010
- - [https://www.rspro.org](https://www.rspro.org)
- - date_published: 2024-05-08T04:28:59.567689+00:00
-
- - [http://feeds.rssboard.org](http://feeds.rssboard.org)
- - date_published: 2024-02-26T10:05:39.213735+00:00
-
- ## RSS Advisory Board
- - [https://rssboard.org](https://rssboard.org)
- - date_published: 2023-10-25T22:04:44.575114+00:00
- - tags: ['standards', 'rss']
-
- ## rss-bridge.org
- - [https://rss-bridge.org](https://rss-bridge.org)
- - date_published: 2023-10-25T22:04:41.853594+00:00
- - tags: ['rss']
-
- ## RSSOwl - Powerful RSS / RDF / Atom News Feed Reader
- - [http://www.rssowl.org](http://www.rssowl.org)
- - date_published: 2024-07-18T12:20:17.555242+00:00
-
- ## rst2pdf
- - [https://rst2pdf.org](https://rst2pdf.org)
- - date_published: 2024-06-05T20:11:46+00:00
-
- ## Home - R Street Institute
- - [https://www.rstreet.org](https://www.rstreet.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## The Research Technical Assistance Center - Research Technical Assistance Center
- - [https://www.rtachesn.org](https://www.rtachesn.org)
- - date_published: 2024-06-28T21:42:56.294507+00:00
-
- ## RTA Exchange | Constructing better agreements for sustainable development
- - [https://rtaexchange.org](https://rtaexchange.org)
- - date_published: 2023-07-24T09:45:29+00:00
 

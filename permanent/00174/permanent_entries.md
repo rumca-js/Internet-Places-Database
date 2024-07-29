@@ -1,3 +1,163 @@
+ ## TUM School of Computation, Information and Technology
+ - [http://www.rcs.ei.tum.de](http://www.rcs.ei.tum.de)
+ - date_published: 2024-07-12T16:27:12.293779+00:00
+
+ ## Home
+ - [https://www.sot.tum.de](https://www.sot.tum.de)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Startseite - TUM Community
+ - [http://www.together.tum.de](http://www.together.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.typo3.tum.de](https://www.typo3.tum.de)
+ - date_published: 2024-07-24T04:21:05.273718+00:00
+
+ ## Universitätsbibliothek der TUM |
+ - [https://ub.tum.de](https://ub.tum.de)
+ - date_published: 2024-04-29T06:56:50.124217+00:00
+
+ ## Startseite
+ - [https://www.zv.tum.de](https://www.zv.tum.de)
+ - date_published: 2024-04-29T06:56:36.119166+00:00
+
+ ## Startseite
+ - [https://tum4health.de](https://tum4health.de)
+ - date_published: 2024-04-29T06:57:01.568063+00:00
+
+ ## Universitätsklinikum Freiburg - Reha gGmbH | Universitätsklinikum Freiburg - Reha gGmbH
+ - [https://www.tumorbiologie-freiburg.de](https://www.tumorbiologie-freiburg.de)
+ - date_published: 2024-07-24T06:20:28.249072+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [http://www4.informatik.tu-muenchen.de](http://www4.informatik.tu-muenchen.de)
+ - date_published: 2024-07-04T11:18:00.036179+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [http://www.informatik.tu-muenchen.de](http://www.informatik.tu-muenchen.de)
+ - date_published: 2024-06-20T13:13:27.363586+00:00
+
+ ## Physics Department, TUM | Home
+ - [http://www.physik.tu-muenchen.de](http://www.physik.tu-muenchen.de)
+ - date_published: 2024-07-13T03:59:56.485781+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [http://www.tu-muenchen.de](http://www.tu-muenchen.de)
+ - date_published: 2024-07-13T03:59:51.430852+00:00
+
+ ## TUM Universitätsstiftung: gemeinsam die TUM fördern
+ - [https://www.tum-universitaetsstiftung.de](https://www.tum-universitaetsstiftung.de)
+ - date_published: 2024-04-29T06:57:08.865106+00:00
+
+ ## TUM Venture Labs x TUM Venture Labs
+ - [https://www.tum-venture-labs.de](https://www.tum-venture-labs.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Tunkl.de  |  IT-Consulting – SEA, E-Commerce und Online Marketing Consulting
+ - [https://tunkl.de](https://tunkl.de)
+ - date_published: 2024-01-01T03:39:24.415411+00:00
+
+ ## Der Kommunikationsclub | turi2
+ - [https://www.turi2.de](https://www.turi2.de)
+ - date_published: 2024-07-08T19:36:37.054747+00:00
+
+ ## Andreas Zwinkau
+ - [https://beza1e1.tuxen.de](https://beza1e1.tuxen.de)
+ - date_published: 2023-10-25T18:33:06.452394+00:00
+
+ ## groffstudio
+ - [https://groff.tuxproject.de](https://groff.tuxproject.de)
+ - date_published: 2024-07-10T06:32:24.726444+00:00
+
+ ## Stadtπrat
+ - [https://stadtrat.tuxproject.de](https://stadtrat.tuxproject.de)
+ - date_published: 2024-07-03T18:58:44+00:00
+
+ ## tuxproject.de :: Scheibe Wurst dazu?
+ - [https://tuxproject.de](https://tuxproject.de)
+ - date_published: 2024-05-09T07:49:05.827641+00:00
+
+ ## Tux-Tage – Menschen und Wissen vernetzen
+ - [https://www.tux-tage.de](https://www.tux-tage.de)
+ - date_published: 2024-04-29T20:15:26+00:00
+
+ ## Kevin James' neue Netflix-Serie ist eine Zeitreise (der schlechten Art)
+ - [https://www.tvdigital.de](https://www.tvdigital.de)
+ - date_published: 2024-06-25T22:09:00+00:00
+
+ ## Startseite - TV Movie star lounge
+ - [https://www.tvmovie-lounge.de](https://www.tvmovie-lounge.de)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## RTL+
+ - [https://www.tvnow.de](https://www.tvnow.de)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Das aktuelle Fernsehprogramm im Überblick von TV TODAY
+ - [https://tv-today.de](https://tv-today.de)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Hardware Testberichte, Computer, Overclocking, News und mehr - TweakPC
+ - [http://www.tweakpc.de](http://www.tweakpc.de)
+ - date_published: 2024-07-24T05:28:06.707421+00:00
+
+ ## OSGL
+ - [https://osgl.twelvepm.de](https://osgl.twelvepm.de)
+ - date_published: 2021-10-02T13:51:29+00:00
+
+ ## Imperialism Remake | An open source project.
+ - [https://remake.twelvepm.de](https://remake.twelvepm.de)
+ - date_published: 2024-05-09T08:56:14.895790+00:00
+
+ ## TWFigurines Miniature Painting Main Gallery
+ - [http://www.twfigurines.de](http://www.twfigurines.de)
+ - date_published: 2009-04-27T07:07:23+00:00
+
+ ## Offene Bildungsmaterialien auf twillo finden und teilen
+ - [https://www.twillo.de](https://www.twillo.de)
+ - date_published: 2022-04-08T12:14:13+00:00
+
+ ## Startseite - Verlag Hermann Schmidt
+ - [https://typografie.de](https://typografie.de)
+ - date_published: 2024-06-25T23:27:48.838524+00:00
+
+ ## A Pocket Guide to Master Every Day’s Typographic Adventures
+ - [https://typogui.de](https://typogui.de)
+ - date_published: 2024-04-29T07:17:26.057338+00:00
+
+ ## tz.de | News zu München, Stars, TV, der Welt des Sports und dem FC Bayern
+ - [http://www.tz.de](http://www.tz.de)
+ - date_published: 2024-07-12T05:14:10+00:00
+
+ ## University Alliance Ruhr
+ - [https://www.uaruhr.de](https://www.uaruhr.de)
+ - date_published: 2024-07-11T13:21:08+00:00
+
+ ## Universal Audio | Audio Interfaces | UAD Plug-Ins
+ - [https://www.uaudio.de](https://www.uaudio.de)
+ - date_published: 2024-07-24T06:52:05.012443+00:00
+
+ ## map.apps
+ - [https://gis.uba.de](https://gis.uba.de)
+ - date_published: 2024-04-29T06:57:33.414583+00:00
+
+ ## Metadatenkatalog des UBA
+ - [https://metadaten.uba.de](https://metadaten.uba.de)
+ - date_published: 2024-07-24T04:11:48.599340+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.infosis.uba.de](https://piwik.infosis.uba.de)
+ - date_published: 2024-07-24T04:06:37.401443+00:00
+
+ ## SNS Portal
+ - [https://sns.uba.de](https://sns.uba.de)
+ - date_published: 2024-04-29T06:57:37.177818+00:00
+
+ ## UFORDAT
+ - [https://ufordat.uba.de](https://ufordat.uba.de)
+ - date_published: 2024-04-29T06:57:57.262579+00:00
+
  ## IIS Windows Server
  - [https://webetox.uba.de](https://webetox.uba.de)
  - date_published: 2024-04-29T06:58:41.143646+00:00
@@ -3849,165 +4009,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Weierstrass Institute
  - [http://wias-berlin.de](http://wias-berlin.de)
  - date_published: 2024-06-30T08:22:06.756079+00:00
-
- ## Fördertechnik Widani GmbH - Fördertechnik Widani GmbH
- - [http://www.widani.de](http://www.widani.de)
- - date_published: 2024-07-14T15:47:02.698776+00:00
-
- ## Aktuelles - Wikimedia Deutschland Blog
- - [https://blog.wikimedia.de](https://blog.wikimedia.de)
- - date_published: 2024-06-21T12:04:38.664610+00:00
-
- ## Wikimedia Deutschland
- - [https://social.wikimedia.de](https://social.wikimedia.de)
- - date_published: 2024-06-21T12:04:35.981228+00:00
-
- ## Wenn jeder nur einen kleinen Beitrag leisten würde, wäre unsere Spendenkampagne in einer Stunde vorüber.
- - [https://spenden.wikimedia.de](https://spenden.wikimedia.de)
- - date_published: 2024-06-21T12:04:39.691383+00:00
-
- ## Wikimedia Tech News
- - [https://tech-news.wikimedia.de](https://tech-news.wikimedia.de)
- - date_published: 2024-07-13T23:55:37.115228+00:00
-
- ## Portal:Toolforge - Wikitech
- - [http://tools.wikimedia.de](http://tools.wikimedia.de)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Wikimedia Deutschland – Wir befreien Wissen! - Wikimedia
- - [https://www.wikimedia.de](https://www.wikimedia.de)
- - date_published: 2023-05-02T09:25:52+00:00
-
- ## Wikipedia, die freie Enzyklopädie
- - [https://www.wikipedia.de](https://www.wikipedia.de)
- - date_published: 2024-05-04T12:25:46.095318+00:00
-
- ## WikiRaider.de
- - [http://wikiraider.de](http://wikiraider.de)
- - date_published: 2024-03-26T17:24:55+00:00
-
- ## Page Redirection
- - [https://application.wiley-vch.de](https://application.wiley-vch.de)
- - date_published: 2024-05-11T09:35:51.001541+00:00
-
- ## Wiley-VCH - Home
- - [https://www.wiley-vch.de](https://www.wiley-vch.de)
- - date_published: 2024-06-17T11:47:03+00:00
-
- ## Willkommen beim Förderverein Wilhelminenaue e. V.
- - [https://www.wilhelminenaue.de](https://www.wilhelminenaue.de)
- - date_published: 2024-07-24T07:11:59.539562+00:00
-
- ## Boris Wilhelms
- - [https://blog.wille-zone.de](https://blog.wille-zone.de)
- - date_published: 2022-10-25T19:00:45+00:00
- - tags: ['personal']
-
- ## Serialized Gedanken
- - [https://valentin.willscher.de](https://valentin.willscher.de)
- - date_published: 2023-12-25T08:33:59.217539+00:00
-
- ## win31.de - Downloads, Links, Tips & Tricks für Windows 3.1x
- - [http://www.win31.de](http://www.win31.de)
- - date_published: 2019-06-17T17:50:54+00:00
-
- ## Windenergie in Deutschland, Europa und der Welt - Windbranche.de
- - [https://windbranche.de](https://windbranche.de)
- - date_published: 2024-04-29T06:15:25.393073+00:00
-
- ## WindEnergy Hamburg - the global on & offshore event
- - [https://www.windenergyhamburg.de](https://www.windenergyhamburg.de)
- - date_published: 2024-07-24T07:55:54.428118+00:00
-
- ## WinFuture.de - Die ganze Welt der IT
- - [http://winfuture.de](http://winfuture.de)
- - date_published: 2024-07-24T05:28:16.374665+00:00
-
- ## Home - winsener-anzeiger.de
- - [https://www.winsener-anzeiger.de](https://www.winsener-anzeiger.de)
- - date_published: 2024-07-24T07:41:07.857079+00:00
-
- ## WINDOWS SERVER USER GROUP BERLIN – COMMUNITY
- - [https://www.winsvr-berlin.de](https://www.winsvr-berlin.de)
- - date_published: 2024-07-24T04:41:40.235964+00:00
-
- ## Wintermeyer Consulting - Rails, Phoenix und WebPerformance
- - [https://www.wintermeyer-consulting.de](https://www.wintermeyer-consulting.de)
- - date_published: 2023-03-24T09:57:11+00:00
-
- ## winterworks kids: 100% frustration free fun!
- - [https://kids.winterworks.de](https://kids.winterworks.de)
- - date_published: 2024-07-11T12:45:43.390022+00:00
-
- ## winterworks: Pure game developing awesomeness!
- - [https://winterworks.de](https://winterworks.de)
- - date_published: 2024-05-09T09:10:10.481950+00:00
-
- ## Auto & Technik
- - [https://www.wired.de](https://www.wired.de)
- - date_published: 2017-07-03T09:39:59+00:00
-
- ## witcher's blog
- - [https://wiredspace.de](https://wiredspace.de)
- - date_published: 2023-06-21T00:00:00+00:00
-
- ## wirmachenbunt - Interaktive Exponate und immersive Presentationen | Home
- - [https://wirmachenbunt.de](https://wirmachenbunt.de)
- - date_published: 2024-07-09T22:30:22.130327+00:00
-
- ## wirsindschoener.de
- - [http://wirsindschoener.de](http://wirsindschoener.de)
- - date_published: 2024-07-13T15:48:53.831054+00:00
-
- ## Traueranzeigen Zeitung Köln
- - [https://www.wirtrauern.de](https://www.wirtrauern.de)
- - date_published: 2024-07-24T05:45:20.608328+00:00
-
- ## WirWunder
- - [https://www.wirwunder.de](https://www.wirwunder.de)
- - date_published: 2024-06-12T08:02:17+00:00
-
- ## Allgemeinbildung | Wissenstest | Lexikon | Wörterbücher | Suche | wissen.de
- - [http://wissen.de](http://wissen.de)
- - date_published: 2024-06-29T04:00:08+00:00
-
- ## wissenschaft.de - News
- - [http://www.wissenschaft.de](http://www.wissenschaft.de)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Wissenschaft im Dialog
- - [http://www.wissenschaft-im-dialog.de](http://www.wissenschaft-im-dialog.de)
- - date_published: 2024-07-13T16:45:43.138625+00:00
-
- ## Home - Wissenschaftliche Integrität
- - [https://wissenschaftliche-integritaet.de](https://wissenschaftliche-integritaet.de)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Wissenschaft in die Schulen - WIS
- - [http://www.wissenschaft-schulen.de](http://www.wissenschaft-schulen.de)
- - date_published: 2024-07-24T04:46:49.975800+00:00
-
- ## Die Wissenschaft für Zuhause‎
- - [https://www.wissenschaft-shop.de](https://www.wissenschaft-shop.de)
- - date_published: 2024-06-30T08:38:34.168576+00:00
-
- ## Startseite
- - [https://www.wissenschaftsrat.de](https://www.wissenschaftsrat.de)
- - date_published: 2024-07-24T03:45:02.535880+00:00
-
- ## Wissen Sie mehr?
- - [https://www.wissen-sie-mehr.de](https://www.wissen-sie-mehr.de)
- - date_published: 2024-05-14T15:09:07+00:00
-
- ## Tagebücher der Wissenschaft
- - [http://www.wissenslogs.de](http://www.wissenslogs.de)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Wissen vom Fass
- - [https://wissenvomfass.de](https://wissenvomfass.de)
- - date_published: 2024-04-29T06:02:32.861967+00:00
-
- ## WISTA-Innovations- und Gründungszentrum CHIC - Services für Startups in Berlin Charlottenburg
- - [https://charlottenburg.wista.de](https://charlottenburg.wista.de)
- - date_published: 2024-07-24T07:16:03.370401+00:00
 

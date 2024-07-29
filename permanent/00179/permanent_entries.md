@@ -1,3 +1,172 @@
+ ## Help
+ - [https://help.brick.do](https://help.brick.do)
+ - date_published: 2024-07-22T09:26:52.495321+00:00
+
+ ## Evgenia Karunus
+ - [https://lakesare.brick.do](https://lakesare.brick.do)
+ - date_published: 2023-10-25T18:46:17.838584+00:00
+
+ ## 디지털 시민 광장, 캠페인즈
+ - [https://campaigns.do](https://campaigns.do)
+ - date_published: 2024-07-03T02:56:04.505941+00:00
+
+ ## Capterra te ayuda a encontrar el software adecuado para tu empresa
+ - [https://www.capterra.do](https://www.capterra.do)
+ - date_published: 2024-07-20T19:26:53.166770+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.do](https://www.citroenorigins.do)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## Craft – The Future of Documents
+ - [https://craft.do](https://craft.do)
+ - date_published: 2024-05-15T02:44:49.229779+00:00
+
+ ## Craft AI Document Creator
+ - [https://creator.craft.do](https://creator.craft.do)
+ - date_published: 2024-06-21T23:54:25.363167+00:00
+
+ ## Craft — A fresh take on documents
+ - [https://docs.craft.do](https://docs.craft.do)
+ - date_published: 2024-06-10T08:04:37+00:00
+
+ ## Craft
+ - [https://support.craft.do](https://support.craft.do)
+ - date_published: 2024-07-18T23:14:28.643253+00:00
+
+ ## Daniel Immke’s Personal Website
+ - [https://daniel.do](https://daniel.do)
+ - date_published: 2023-10-25T18:46:19.691750+00:00
+
+ ## Eduardo Mucelli Rezende Oliveira
+ - [https://eduar.do](https://eduar.do)
+ - date_published: 2023-01-06T20:51:55+00:00
+
+ ## Yuliang Xiu 修宇亮
+ - [http://endless.do](http://endless.do)
+ - date_published: 2024-06-18T15:45:35+00:00
+
+ ## Fredo – San Francisco's half-assed thirst trapper
+ - [https://fre.do](https://fre.do)
+ - date_published: 2024-07-13T04:04:23.855297+00:00
+
+ ## Gather
+ - [https://gather.do](https://gather.do)
+ - date_published: 2024-05-09T06:17:05.765323+00:00
+
+ ## Give
+ - [https://give.do](https://give.do)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Guido X Jansen: Global Business & Technology Evangelist @ Spryker
+ - [https://gui.do](https://gui.do)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Hawaii Interactive - code, web & design
+ - [https://hawaii.do](https://hawaii.do)
+ - date_published: 2023-02-08T00:00:00+00:00
+
+ ## HUNDO  — Infrastructure for the New Economy
+ - [https://hun.do](https://hun.do)
+ - date_published: 2024-06-07T15:26:39+00:00
+
+ ## Ichido Blog
+ - [https://blog.ichi.do](https://blog.ichi.do)
+ - date_published: 2023-10-15T00:00:00+00:00
+
+ ## Ichido
+ - [https://ichi.do](https://ichi.do)
+ - date_published: 2024-01-09T02:57:52.397377+00:00
+
+ ## Ichido
+ - [https://metaverse.ichi.do](https://metaverse.ichi.do)
+ - date_published: 2024-04-30T02:48:04.170623+00:00
+
+ ## Become Playfully Purposeful - Intend app
+ - [https://intend.do](https://intend.do)
+ - date_published: 2024-06-21T20:07:29.651079+00:00
+
+ ## Jamendo Music | Free music downloads
+ - [http://jamen.do](http://jamen.do)
+ - date_published: 2024-07-10T09:43:43.717699+00:00
+
+ ## Jonas Downey | digital goods & greats
+ - [https://jonas.do](https://jonas.do)
+ - date_published: 2024-05-07T23:16:41.750462+00:00
+
+ ## umami
+ - [https://umami.journal.do](https://umami.journal.do)
+ - date_published: 2024-05-04T13:00:09.316736+00:00
+
+ ## LOS40 República Dominicana
+ - [https://www.los40.do](https://www.los40.do)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Alejandro Machado – Projects
+ - [https://alejandro.macha.do](https://alejandro.macha.do)
+ - date_published: 2019-07-22T13:49:42+00:00
+
+ ## Pronóstico del tiempo 14 días - Meteored
+ - [https://www.meteored.do](https://www.meteored.do)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## MiguelPimentel.do
+ - [https://miguelpimentel.do](https://miguelpimentel.do)
+ - date_published: 2024-06-01T04:50:36.379959+00:00
+ - tags: ['personal']
+
+ ## Distribuidor de Componentes Electrónicos - Mouser Electronics República Dominicana
+ - [https://www.mouser.do](https://www.mouser.do)
+ - date_published: 2024-07-01T20:56:33.582432+00:00
+
+ ## hello://nan.do/rossi {open for work}
+ - [https://nan.do](https://nan.do)
+ - date_published: 2024-02-12T14:44:03+00:00
+
+ ## nar.do - Nardo Leung's Production
+ - [https://nar.do](https://nar.do)
+ - date_published: 2024-04-05T09:12:15+00:00
+
+ ## AI Visual Sitemap Builder Tool, Website Planner, Architecture
+ - [https://octopus.do](https://octopus.do)
+ - date_published: 2024-06-20T13:38:31+00:00
+
+ ## Practice - Simple Client Management Software
+ - [https://practice.do](https://practice.do)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## The craft, without the cruft
+ - [https://riccar.do](https://riccar.do)
+ - date_published: 2022-05-30T00:00:00+00:00
+
+ ## rolan.do
+ - [https://rolan.do](https://rolan.do)
+ - date_published: 2019-01-24T17:37:53+00:00
+
+ ## Redirecting to Rottmann Ventures GmbH
+ - [https://rv.do](https://rv.do)
+ - date_published: 2022-12-05T14:30:09+00:00
+
+ ## Iglesia Oficial de Scientology: L. Ronald Hubbard, Dianética, ¿Qué es Scientology?, Libros, Creencias, David Miscavige
+ - [https://www.scientology.do](https://www.scientology.do)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Shadow -  Bot-Free AI Autopilot for Post-Meeting Tasks
+ - [https://www.shadow.do](https://www.shadow.do)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Join Slido: Enter #code to vote and ask questions
+ - [https://app.sli.do](https://app.sli.do)
+ - date_published: 2024-07-19T13:15:35+00:00
+
+ ## Slido - Audience Interaction Made Easy
+ - [https://www.sli.do](https://www.sli.do)
+ - date_published: 2024-07-02T23:42:01.302601+00:00
+
+ ## Something To Do
+ - [https://somethingto.do](https://somethingto.do)
+ - date_published: 2024-07-14T08:49:29.341081+00:00
+
  ## Terra.do: Climate Education, Green Skills, and Climate Careers
  - [https://www.terra.do](https://www.terra.do)
  - date_published: 2024-07-03T00:21:32+00:00
@@ -3837,173 +4006,4 @@
  ## Home | Research UC Berkeley
  - [https://vcresearch.berkeley.edu](https://vcresearch.berkeley.edu)
  - date_published: 2024-07-13T13:04:39.678634+00:00
-
- ## Home | Undergraduate Education
- - [https://vcue.berkeley.edu](https://vcue.berkeley.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Visualization Lab | UC Berkeley
- - [http://vis.berkeley.edu](http://vis.berkeley.edu)
- - date_published: 2022-10-23T06:26:12+00:00
-
- ## UC Berkeley Vision
- - [https://vision-api.berkeley.edu](https://vision-api.berkeley.edu)
- - date_published: 2024-07-22T07:36:41.861282+00:00
-
- ## UC Berkeley Vision
- - [https://vision.berkeley.edu](https://vision.berkeley.edu)
- - date_published: 2024-04-30T03:25:52.728450+00:00
-
- ## Home | Visitor Services
- - [https://visit.berkeley.edu](https://visit.berkeley.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Voices
- - [https://voices.berkeley.edu](https://voices.berkeley.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home | Visiting Scholar & Postdoc Affairs
- - [https://vspa.berkeley.edu](https://vspa.berkeley.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## UC Berkeley WarnMe Emergency Alert Service
- - [http://warnme.berkeley.edu](http://warnme.berkeley.edu)
- - date_published: 2024-07-22T07:42:14.452172+00:00
-
- ## Home | Digital Accessibility
- - [https://webaccess.berkeley.edu](https://webaccess.berkeley.edu)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Home | Web Platform Services
- - [https://web.berkeley.edu](https://web.berkeley.edu)
- - date_published: 2024-07-22T17:35:47+00:00
-
- ## Wikis | EECS Wiki Server
- - [https://wiki.eecs.berkeley.edu](https://wiki.eecs.berkeley.edu)
- - date_published: 2024-04-30T03:27:43.570975+00:00
-
- ## Index of /
- - [http://www1.icsi.berkeley.edu](http://www1.icsi.berkeley.edu)
- - date_published: 2024-04-28T03:26:46.953639+00:00
-
- ## Home | EECS at UC Berkeley
- - [https://www2.eecs.berkeley.edu](https://www2.eecs.berkeley.edu)
- - date_published: 2024-04-30T03:26:00.185920+00:00
-
- ## SIMS: School of Information Management and Systems,
-         UC Berkeley
- - [http://www2.sims.berkeley.edu](http://www2.sims.berkeley.edu)
- - date_published: 2008-05-20T21:26:47+00:00
-
- ## CS Home - EECS at Berkeley
- - [http://www.cs.berkeley.edu](http://www.cs.berkeley.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Department of Economics
- - [https://www.econ.berkeley.edu](https://www.econ.berkeley.edu)
- - date_published: 2024-06-22T05:45:40+00:00
-
- ## Home - EECS at Berkeley
- - [http://www.eecs.berkeley.edu](http://www.eecs.berkeley.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Gopnik Lab
- - [http://www.gopniklab.berkeley.edu](http://www.gopniklab.berkeley.edu)
- - date_published: 2024-06-22T08:13:10.885646+00:00
-
- ## ICSI | ICSI
- - [https://icsi.berkeley.edu](https://icsi.berkeley.edu)
- - date_published: 2024-05-08T11:29:33.160545+00:00
-
- ## UC Berkeley School of Information
- - [https://ischool.berkeley.edu](https://ischool.berkeley.edu)
- - date_published: 2024-04-30T03:19:44.162902+00:00
-
- ## Home
- - [https://www.law.berkeley.edu](https://www.law.berkeley.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Welcome to the UC Berkeley Library
- - [https://lib.berkeley.edu](https://lib.berkeley.edu)
- - date_published: 2024-04-30T03:19:39.667139+00:00
-
- ## Open Computing Facility at UC Berkeley
- - [https://www.ocf.berkeley.edu](https://www.ocf.berkeley.edu)
- - date_published: 2024-05-04T15:35:19.410180+00:00
-
- ## Space Sciences Lab
- - [https://www.ssl.berkeley.edu](https://www.ssl.berkeley.edu)
- - date_published: 2024-07-14T04:06:54.165634+00:00
-
- ## Statistics at UC Berkeley | Department of Statistics
- - [https://www.stat.berkeley.edu](https://www.stat.berkeley.edu)
- - date_published: 2023-10-25T18:48:16.122861+00:00
-
- ## VIP Lab
- - [http://www-video.eecs.berkeley.edu](http://www-video.eecs.berkeley.edu)
- - date_published: 2024-06-22T09:06:30.537459+00:00
-
- ## Boston Conservatory at Berklee
- - [https://bostonconservatory.berklee.edu](https://bostonconservatory.berklee.edu)
- - date_published: 2024-06-21T13:59:48+00:00
-
- ## OneLogin
- - [https://canvas.berklee.edu](https://canvas.berklee.edu)
- - date_published: 2024-06-12T05:31:51+00:00
-
- ## Berklee College of Music
- - [https://college.berklee.edu](https://college.berklee.edu)
- - date_published: 2024-06-21T14:00:45+00:00
-
- ## OneLogin
- - [https://hub.berklee.edu](https://hub.berklee.edu)
- - date_published: 2024-06-12T05:31:51+00:00
-
- ## Welcome | The Library
- - [https://library.berklee.edu](https://library.berklee.edu)
- - date_published: 2024-06-21T13:55:46+00:00
-
- ## Berklee NYC
- - [https://nyc.berklee.edu](https://nyc.berklee.edu)
- - date_published: 2024-06-21T13:24:34+00:00
-
- ## Berklee Online - Master's and Bachelor's Music Degrees, Certificates, and Courses
- - [https://online.berklee.edu](https://online.berklee.edu)
- - date_published: 2024-06-21T14:02:04.173187+00:00
-
- ## Berklee Summer Programs
- - [https://summer.berklee.edu](https://summer.berklee.edu)
- - date_published: 2024-06-21T13:59:50+00:00
-
- ## Berklee Valencia
- - [https://valencia.berklee.edu](https://valencia.berklee.edu)
- - date_published: 2024-06-21T14:00:40+00:00
-
- ## Berklee
- - [https://www.berklee.edu](https://www.berklee.edu)
- - date_published: 2024-05-04T12:48:28.793799+00:00
-
- ## Private Liberal Arts College in Bethany, WV - Bethany College
- - [http://www.bethanywv.edu](http://www.bethanywv.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Psychoanalysis and Mental Health Counseling Graduate Degrees - Boston Graduate School of Psychoanalysis
- - [https://bgsp.edu](https://bgsp.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Welcome - The Institute of Counseling and Psychoanalytic Studies
- - [https://nj.bgsp.edu](https://nj.bgsp.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Home - New York Graduate School of Psychoanalysis
- - [https://nygsp.bgsp.edu](https://nygsp.bgsp.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## The Henry A. Wallace Police Crime Database
- - [https://policecrime.bgsu.edu](https://policecrime.bgsu.edu)
- - date_published: 2024-06-20T02:38:20.283087+00:00
-
- ## Bowling Green State University: #1 Student Experience in Ohio
- - [http://www.bgsu.edu](http://www.bgsu.edu)
- - date_published: 2024-04-04T00:00:00+00:00
 

@@ -1,3 +1,64 @@
+ ## Фотосток Depositphotos: Стокові фото, відео, музика роялті-фрі
+ - [https://ua.depositphotos.com](https://ua.depositphotos.com)
+ - date_published: 2024-05-02T10:43:51.552267+00:00
+
+ ## Home page – EN - Depositphotos for Education
+ - [https://with.depositphotos.com](https://with.depositphotos.com)
+ - date_published: 2024-07-08T17:35:39.243144+00:00
+
+ ## Show HN: Made a forum for depressed founders to confide
+ - [https://depressedfounders.com](https://depressedfounders.com)
+ - date_published: 2023-12-17T06:21:25+00:00
+
+ ## depression comix
+ - [https://www.depressioncomix.com](https://www.depressioncomix.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Depression Quest: An Interactive (non)Fiction About Living with Depression
+ - [http://www.depressionquest.com](http://www.depressionquest.com)
+ - date_published: 2014-09-12T00:15:43+00:00
+
+ ## De Programmatica Ipsum – A magazine about programmers, code, and society. Written by humans since 2018.
+ - [https://deprogrammaticaipsum.com](https://deprogrammaticaipsum.com)
+ - date_published: 2024-03-04T09:39:26.593720+00:00
+ - tags: ['programming articles']
+
+ ## Full service digital agency - Pioneering tech/marketing - DEPT®
+ - [https://www.deptagency.com](https://www.deptagency.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## DePumpoNET Cloud
+ - [https://cloud.depumpo.com](https://cloud.depumpo.com)
+ - date_published: 2024-07-02T21:00:54.644986+00:00
+
+ ## Joe DePumpo | Full-Stack Web Developer
+ - [https://joe.depumpo.com](https://joe.depumpo.com)
+ - date_published: 2024-05-07T23:28:03.165734+00:00
+
+ ## Workforce Management & Employee Scheduling Software — Deputy
+ - [https://www.deputy.com](https://www.deputy.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Deque Systems: Web Accessibility Software, Services & Training
+ - [https://deque.com](https://deque.com)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Derailleur Brew Works（ディレイラ ブリュー ワークス）
+ - [https://derailleurbrewworks.com](https://derailleurbrewworks.com)
+ - date_published: 2024-07-10T08:10:14.601314+00:00
+
+ ## GEO HANDGUARDS  DERAILLEUR GUARD.COM
+ - [https://www.derailleurguard.com](https://www.derailleurguard.com)
+ - date_published: 2024-06-15T11:58:35.043749+00:00
+
+ ## Vintage Computing
+ - [https://deramp.com](https://deramp.com)
+ - date_published: 2024-01-01T18:26:34+00:00
+
+ ## Derby City Weekend
+ - [https://derbycityweekend.com](https://derbycityweekend.com)
+ - date_published: 2024-05-07T12:48:25.372906+00:00
+
  ## Kentucky Derby Tickets - Kentucky Derby Packages | Derby Experiences
  - [https://derbyexperiences.com](https://derbyexperiences.com)
  - date_published: 2024-06-19T17:51:50.535277+00:00
@@ -3978,64 +4039,4 @@ A blog about programming, distributed systems and others
  ## Difford's Guide - the home of discerning drinkers
  - [https://www.diffordsguide.com](https://www.diffordsguide.com)
  - date_published: 2024-06-29T10:06:34.471152+00:00
-
- ## DiffPlug Forum
- - [https://discuss.diffplug.com](https://discuss.diffplug.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Diffraction - Astronomy & Scientific Imaging Solutions
- - [https://diffractionlimited.com](https://diffractionlimited.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## DiffusionBee - Stable Diffusion App for AI Art
- - [https://diffusionbee.com](https://diffusionbee.com)
- - date_published: 2024-06-19T19:48:42.737655+00:00
-
- ## Home
- - [https://difluir.com](https://difluir.com)
- - date_published: 2015-09-24T14:02:04+00:00
-
- ## Temas Difluir
- - [https://themes.difluir.com](https://themes.difluir.com)
- - date_published: 2024-05-08T04:19:43.953010+00:00
-
- ## Higher Education Management Software  | Engage in the Modern Learner Revolution
- - [http://www.digarc.com](http://www.digarc.com)
- - date_published: 2024-07-01T14:41:03.055852+00:00
-
- ## Dig Deep Fitness
- - [https://www.digdeepfitness.com](https://www.digdeepfitness.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Think Outside the Bucket | Dig Different
- - [https://digdifferent.com](https://digdifferent.com)
- - date_published: 2024-06-26T23:18:42.020140+00:00
-
- ## Learn from commit history using AI | DigestDiff
- - [https://www.digestdiff.com](https://www.digestdiff.com)
- - date_published: 2024-06-19T18:55:41.645765+00:00
-
- ## Digestive Diseases Center | Gastroenterologists in Panama City
- - [https://www.digestivediseasescenter.com](https://www.digestivediseasescenter.com)
- - date_published: 2024-06-29T23:01:03.610947+00:00
-
- ## Digest Miami: Guide to Miami's best restaurants, chefs & culinary events.
- - [https://www.digestmiami.com](https://www.digestmiami.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## News and Trending Stories Around the Internet | Digg
- - [https://digg.com](https://digg.com)
- - date_published: 2024-04-29T19:09:15.789418+00:00
-
- ## News and Trending Stories Around the Internet | Digg
- - [https://go.digg.com](https://go.digg.com)
- - date_published: 2024-06-20T02:25:03.811035+00:00
-
- ## Digg - What the Internet is wearing right now
- - [https://merch.digg.com](https://merch.digg.com)
- - date_published: 2024-06-20T02:24:57.981397+00:00
-
- ## Digger by Ursula Vernon
- - [http://diggercomic.com](http://diggercomic.com)
- - date_published: 2024-04-28T02:06:23.865024+00:00
 

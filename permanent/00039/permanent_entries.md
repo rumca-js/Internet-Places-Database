@@ -1,3 +1,47 @@
+ ## Play With Capture The Flag
+ - [https://david942j.blogspot.com](https://david942j.blogspot.com)
+ - date_published: 2024-06-03T06:27:17.475813+00:00
+
+ ## Getting from here to there
+ - [http://davidaking.blogspot.com](http://davidaking.blogspot.com)
+ - date_published: 2014-11-06T00:00:00+00:00
+
+ ## Quark Soup by David Appell
+ - [https://davidappell.blogspot.com](https://davidappell.blogspot.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CONTRARY BRIN
+ - [http://davidbrin.blogspot.com](http://davidbrin.blogspot.com)
+ - date_published: 2024-07-18T20:46:00+00:00
+
+ ## The Education of a Pulp Writer
+ - [http://davidcranmer.blogspot.com](http://davidcranmer.blogspot.com)
+ - date_published: 2024-07-03T20:23:42+00:00
+
+ ## DCblog
+ - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## Ideas
+ - [http://daviddfriedman.blogspot.com](http://daviddfriedman.blogspot.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Davide Moro
+ - [http://davidemoro.blogspot.com](http://davidemoro.blogspot.com)
+ - date_published: 2024-02-19T11:37:30+00:00
+
+ ## Adventures in Europe
+ - [http://davidinleeds.blogspot.com](http://davidinleeds.blogspot.com)
+ - date_published: 2024-02-22T16:51:09+00:00
+
+ ## Life, the Universe, and Everything
+ - [http://davidlayton.blogspot.com](http://davidlayton.blogspot.com)
+ - date_published: 2024-03-13T04:19:17+00:00
+
+ ## David Maymudes's Weblog
+ - [https://davidmaymudes.blogspot.com](https://davidmaymudes.blogspot.com)
+ - date_published: 2024-03-13T02:18:26+00:00
+
  ## David's RPG
  - [http://davidsrpg.blogspot.com](http://davidsrpg.blogspot.com)
  - date_published: 2024-03-19T11:53:12+00:00
@@ -3972,48 +4016,4 @@
  ## Hall of Record
  - [https://hallofrecord.blogspot.com](https://hallofrecord.blogspot.com)
  - date_published: 2024-03-23T18:04:33+00:00
-
- ## From the Halls to the Shores
- - [http://hallsofmontezumashoresoftripoli.blogspot.com](http://hallsofmontezumashoresoftripoli.blogspot.com)
- - date_published: 2024-03-19T08:00:37+00:00
-
- ## Hammorabi
- - [http://hammorabi.blogspot.com](http://hammorabi.blogspot.com)
- - date_published: 2024-06-16T17:39:45+00:00
-
- ## A Hamsterish Hoard of Dungeons and Dragons
- - [http://hamsterhoard.blogspot.com](http://hamsterhoard.blogspot.com)
- - date_published: 2024-07-06T20:45:11+00:00
-
- ## Hancock Hummer Histories
- - [http://hancockhummerhistories.blogspot.com](http://hancockhummerhistories.blogspot.com)
- - date_published: 2024-02-07T05:58:43+00:00
-
- ## Handgrenadealiens Retro Dungeon.
- - [http://handgrenadealiensretrodungeon.blogspot.com](http://handgrenadealiensretrodungeon.blogspot.com)
- - date_published: 2024-03-14T04:24:18+00:00
-
- ## The Hangar Bay
- - [http://hangarbay.blogspot.com](http://hangarbay.blogspot.com)
- - date_published: 2024-07-08T07:00:50+00:00
-
- ## Jon Han's Blog
- - [http://hanjon.blogspot.com](http://hanjon.blogspot.com)
- - date_published: 2024-05-24T12:40:05+00:00
-
- ## Hao's TechBlog
- - [http://hao1990.blogspot.com](http://hao1990.blogspot.com)
- - date_published: 2024-03-05T13:28:51+00:00
-
- ## Can it happen here?
- - [http://happening-here.blogspot.com](http://happening-here.blogspot.com)
- - date_published: 2024-07-01T21:34:33+00:00
-
- ## Happstack
- - [http://happstack.blogspot.com](http://happstack.blogspot.com)
- - date_published: 2024-02-08T19:44:46+00:00
-
- ## Happy Trails
- - [http://happytrails88.blogspot.com](http://happytrails88.blogspot.com)
- - date_published: 2024-02-07T04:28:50+00:00
 
