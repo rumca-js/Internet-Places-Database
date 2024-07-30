@@ -1,3 +1,51 @@
+ ## pittbrownie
+ - [http://pittbrownie.blogspot.com](http://pittbrownie.blogspot.com)
+ - date_published: 2024-06-19T19:45:21+00:00
+
+ ## Pittsburgh Eats
+ - [http://pitteats.blogspot.com](http://pitteats.blogspot.com)
+ - date_published: 2024-07-08T09:07:18+00:00
+
+ ## Pittsblog
+ - [http://pittsblog.blogspot.com](http://pittsblog.blogspot.com)
+ - date_published: 2024-04-02T06:10:35+00:00
+
+ ## Blogger
+ - [http://pittsburghartscouncil.blogspot.com](http://pittsburghartscouncil.blogspot.com)
+ - date_published: 2024-06-28T14:35:43.098270+00:00
+
+ ## Pittsburgh's Future
+ - [http://pittsburghfuture.blogspot.com](http://pittsburghfuture.blogspot.com)
+ - date_published: 2024-03-13T13:33:59+00:00
+
+ ## Pixel
+ - [http://pixel-blossom.blogspot.com](http://pixel-blossom.blogspot.com)
+ - date_published: 2024-07-03T02:48:59+00:00
+
+ ## PlacesPeopleStuff with Character
+ - [https://placeswithcharacter.blogspot.com](https://placeswithcharacter.blogspot.com)
+ - date_published: 2024-06-22T15:53:00+00:00
+
+ ## a PLAGUE of ANGELS
+ - [http://plagueofangels.blogspot.com](http://plagueofangels.blogspot.com)
+ - date_published: 2024-03-23T18:02:48+00:00
+
+ ## PLANET ALGOL
+ - [http://planetalgol.blogspot.com](http://planetalgol.blogspot.com)
+ - date_published: 2024-07-13T06:25:53+00:00
+
+ ## PLANET ARES VI
+ - [http://planetares6.blogspot.com](http://planetares6.blogspot.com)
+ - date_published: 2024-07-13T06:19:40+00:00
+
+ ## Furahan Biology and Allied Matters
+ - [https://planetfuraha.blogspot.com](https://planetfuraha.blogspot.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Urban Planning Research
+ - [http://planningresearch.blogspot.com](http://planningresearch.blogspot.com)
+ - date_published: 2024-03-07T09:14:37+00:00
+
  ## plastic general
  - [http://plasticgeneral.blogspot.com](http://plasticgeneral.blogspot.com)
  - date_published: 2024-06-14T01:34:16+00:00
@@ -3971,52 +4019,4 @@
  ## Swords Against the Outer Dark
  - [http://swordandsanity.blogspot.com](http://swordandsanity.blogspot.com)
  - date_published: 2021-03-18T00:00:00+00:00
-
- ## SWORD & SHIELD
- - [http://swordandshieldrpg.blogspot.com](http://swordandshieldrpg.blogspot.com)
- - date_published: 2024-07-11T18:20:13+00:00
-
- ## Path of an Outcast
- - [http://swordmasterofhoeth.blogspot.com](http://swordmasterofhoeth.blogspot.com)
- - date_published: 2024-06-06T14:56:16+00:00
-
- ## Sword+1
- - [http://swordplusone.blogspot.com](http://swordplusone.blogspot.com)
- - date_published: 2024-07-08T08:08:44+00:00
-
- ## Uncle Matt's Blog
- - [http://swordsandwizardry.blogspot.com](http://swordsandwizardry.blogspot.com)
- - date_published: 2024-07-14T20:59:03+00:00
-
- ## Swords, Dragons, and Nerds
- - [http://swordsdragonsnerds.blogspot.com](http://swordsdragonsnerds.blogspot.com)
- - date_published: 2023-08-27T00:00:00+00:00
-
- ## Savage Swords of Athanor
- - [http://swordsofathanor.blogspot.com](http://swordsofathanor.blogspot.com)
- - date_published: 2024-07-15T09:05:45+00:00
-
- ## The Border Princes
- - [http://swordsofminaria.blogspot.com](http://swordsofminaria.blogspot.com)
- - date_published: 2024-07-14T19:57:45+00:00
-
- ## SW Virginia law blog
- - [http://swvalaw.blogspot.com](http://swvalaw.blogspot.com)
- - date_published: 2024-07-08T06:11:43+00:00
-
- ## Sybou's Lair
- - [http://sybouslair.blogspot.com](http://sybouslair.blogspot.com)
- - date_published: 2024-07-01T10:40:21+00:00
-
- ## Sydney - City and Suburbs
- - [https://sydney-city.blogspot.com](https://sydney-city.blogspot.com)
- - date_published: 2024-06-24T00:19:00+00:00
-
- ## Aeternal Realm of Sylvaeon
- - [https://sylvaeon.blogspot.com](https://sylvaeon.blogspot.com)
- - date_published: 2024-07-08T08:08:51+00:00
-
- ## Sylva
- - [https://sylva-way2themes.blogspot.com](https://sylva-way2themes.blogspot.com)
- - date_published: 2024-03-05T12:30:09+00:00
 

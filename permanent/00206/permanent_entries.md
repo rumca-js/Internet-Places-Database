@@ -1,3 +1,227 @@
+ ## CAEBAT OAS/VIBE
+ - [https://vibe.ornl.gov](https://vibe.ornl.gov)
+ - date_published: 2018-01-09T19:43:26+00:00
+
+ ## Home
+ - [https://www.olcf.ornl.gov](https://www.olcf.ornl.gov)
+ - date_published: 2024-05-01T08:47:23.868723+00:00
+
+ ## Oak Ridge National Laboratory: Solving the Big Problems | ORNL
+ - [https://www.ornl.gov](https://www.ornl.gov)
+ - date_published: 2023-10-25T19:25:00.286836+00:00
+
+ ## Home
+ - [https://osc.gov](https://osc.gov)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.osha.gov](https://search.osha.gov)
+ - date_published: 2024-07-03T14:07:59.412053+00:00
+
+ ## Home | Occupational Safety and Health Administration
+ - [https://osha.gov](https://osha.gov)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home | Office of Surface Mining Reclamation and Enforcement
+ - [https://www.osmre.gov](https://www.osmre.gov)
+ - date_published: 2024-06-14T21:20:00+00:00
+
+ ## Home | U.S. DOE Office of Science (SC)
+ - [https://science.osti.gov](https://science.osti.gov)
+ - date_published: 2011-02-08T09:19:00+00:00
+
+ ## Milestone Documents
+ - [https://www.ourdocuments.gov](https://www.ourdocuments.gov)
+ - date_published: 2021-04-09T16:12:47+00:00
+
+ ## Welcome to the Office of the Inspector General | Office of the Inspector General
+ - [https://cpboig.oversight.gov](https://cpboig.oversight.gov)
+ - date_published: 2024-07-03T00:18:53+00:00
+
+ ## Oversight.gov | All Federal Inspector General Reports In One Place
+ - [https://oversight.gov](https://oversight.gov)
+ - date_published: 2024-07-03T13:35:03.543065+00:00
+
+ ## Pandemic Oversight - Home | Pandemic Oversight
+ - [https://pandemic.oversight.gov](https://pandemic.oversight.gov)
+ - date_published: 2024-05-08T02:59:45.567726+00:00
+
+ ## Home | U.S. Department of Agriculture OIG
+ - [https://usdaoig.oversight.gov](https://usdaoig.oversight.gov)
+ - date_published: 2024-06-16T22:20:58+00:00
+
+ ## PA Dept. of Agriculture
+ - [https://agriculture.pa.gov](https://agriculture.pa.gov)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## DCNR Homepage
+ - [https://www.dcnr.pa.gov](https://www.dcnr.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Department of General Services
+ - [http://www.dgs.pa.gov](http://www.dgs.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Pennsylvania Department of Health programs, services and health information
+ - [https://www.health.pa.gov](https://www.health.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Home | Commonwealth of Pennsylvania
+ - [https://www.pa.gov](https://www.pa.gov)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Game Commission
+ - [https://www.pgc.pa.gov](https://www.pgc.pa.gov)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Official Website of the Center for Rural Pennsylvania
+ - [https://www.rural.pa.gov](https://www.rural.pa.gov)
+ - date_published: 2024-06-29T14:51:49.211398+00:00
+
+ ## Public Access to Court Electronic Records | PACER: Federal Court Records
+ - [http://www.pacer.gov](http://www.pacer.gov)
+ - date_published: 2024-04-14T00:00:00+00:00
+
+ ## Pandemic Oversight - Home | Pandemic Oversight
+ - [https://pandemicoversight.gov](https://pandemicoversight.gov)
+ - date_published: 2024-07-03T14:11:32+00:00
+
+ ## We Keep the Region Moving | Port Authority of New York and New Jersey
+ - [https://panynj.gov](https://panynj.gov)
+ - date_published: 2024-05-06T22:50:06.496310+00:00
+
+ ## PA State Senate
+ - [https://www.pasen.gov](https://www.pasen.gov)
+ - date_published: 2024-06-29T14:51:26.897712+00:00
+
+ ## PaymentAccuracy.gov
+ - [http://www.paymentaccuracy.gov](http://www.paymentaccuracy.gov)
+ - date_published: 2024-07-02T13:23:09+00:00
+
+ ## Home Page | Pension Benefit Guaranty Corporation
+ - [https://www.pbgc.gov](https://www.pbgc.gov)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Track the U.S. government's goals
+ - [https://www.performance.gov](https://www.performance.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## City of Philadelphia
+ - [http://phila.gov](http://phila.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Official Website of the City of Phoenix, Arizona
+ - [https://www.phoenix.gov](https://www.phoenix.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Pima County Public Library Classic Catalog
+ - [http://librarycatalog.pima.gov](http://librarycatalog.pima.gov)
+ - date_published: 2024-07-07T09:30:23.526058+00:00
+
+ ## Pima County Public Library
+ - [https://library.pima.gov](https://library.pima.gov)
+ - date_published: 2024-05-08T10:21:42.615885+00:00
+
+ ## Pitt County, NC | Official Website
+ - [https://www.pittcountync.gov](https://www.pittcountync.gov)
+ - date_published: 2024-06-29T22:48:08.301750+00:00
+
+ ## plainlanguage.gov | Home
+ - [http://www.plainlanguage.gov](http://www.plainlanguage.gov)
+ - date_published: 2022-08-24T00:00:00+00:00
+
+ ## PNNL Careers
+ - [https://careers.pnnl.gov](https://careers.pnnl.gov)
+ - date_published: 2024-07-07T02:09:16.519982+00:00
+
+ ## Pacific Northwest National Laboratory
+ - [https://info.pnnl.gov](https://info.pnnl.gov)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Pacific Northwest National Laboratory
+ - [https://pnnl.gov](https://pnnl.gov)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Log in | Portland Employees
+ - [https://employees.portland.gov](https://employees.portland.gov)
+ - date_published: 2024-06-20T23:43:04.425261+00:00
+
+ ## City of Portland, Oregon | Portland.gov
+ - [https://www.portland.gov](https://www.portland.gov)
+ - date_published: 2024-05-04T10:03:49.625546+00:00
+
+ ## Princeton Plasma Physics Laboratory
+ - [https://www.pppl.gov](https://www.pppl.gov)
+ - date_published: 2024-07-01T16:54:25+00:00
+
+ ## Welcome to the Presidio National Park Site (San Francisco)
+ - [https://www.presidio.gov](https://www.presidio.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Data Privacy Framework
+ - [https://www.privacyshield.gov](https://www.privacyshield.gov)
+ - date_published: 2024-05-08T11:32:32.074427+00:00
+
+ ## Project Safe Childhood
+ - [http://www.projectsafechildhood.gov](http://www.projectsafechildhood.gov)
+ - date_published: 2014-06-17T00:50:15+00:00
+
+ ## Protect Your Move | FMCSA
+ - [https://www.protectyourmove.gov](https://www.protectyourmove.gov)
+ - date_published: 2024-07-16T20:11:01+00:00
+
+ ## RaleighNC.gov
+ - [https://raleighnc.gov](https://raleighnc.gov)
+ - date_published: 2024-06-30T11:34:36+00:00
+
+ ## Read.gov | The Library of Congress
+ - [http://www.read.gov](http://www.read.gov)
+ - date_published: 2024-06-26T11:43:10.394176+00:00
+
+ ## Plan Ahead for Disasters | Ready.gov
+ - [http://ready.gov](http://ready.gov)
+ - date_published: 2024-07-01T21:50:51+00:00
+
+ ## Plan Ahead for Disasters | Ready.gov
+ - [https://www.ready.gov](https://www.ready.gov)
+ - date_published: 2024-05-08T02:44:35.015844+00:00
+
+ ## Home | readyalabama
+ - [http://www.readyalabama.gov](http://www.readyalabama.gov)
+ - date_published: 2024-07-01T21:51:04.483063+00:00
+
+ ## Plan. Prepare. Stay Informed. | Ready NC
+ - [https://readync.gov](https://readync.gov)
+ - date_published: 2024-05-07T13:57:42.492965+00:00
+
+ ## Ronald Reagan Presidential Library & Museum | Ronald Reagan
+ - [https://www.reaganlibrary.gov](https://www.reaganlibrary.gov)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Recalls.gov
+ - [http://www.recalls.gov](http://www.recalls.gov)
+ - date_published: 2023-11-03T23:01:19+00:00
+
+ ## Recreation.gov - Camping, Cabins, RVs, Permits, Passes & More
+ - [https://www.recreation.gov](https://www.recreation.gov)
+ - date_published: 2024-05-29T16:16:38+00:00
+
+ ## Regulations.gov
+ - [https://www.regulations.gov](https://www.regulations.gov)
+ - date_published: 2023-10-25T19:25:01.549850+00:00
+
+ ## Home
+ - [http://rentonwa.gov](http://rentonwa.gov)
+ - date_published: 2024-07-09T22:00:11.290137+00:00
+
+ ## @rgov/webapp
+ - [https://apps.research.gov](https://apps.research.gov)
+ - date_published: 2024-06-14T15:37:50+00:00
+
+ ## NSF | Research.gov
+ - [https://identity.research.gov](https://identity.research.gov)
+ - date_published: 2024-03-12T14:00:36+00:00
+
  ## Research.gov - Homepage
  - [https://www.research.gov](https://www.research.gov)
  - date_published: 2010-01-15T00:00:00+00:00
@@ -3786,232 +4010,4 @@
  ## Kudzu :: Analytics
  - [https://analytics.kudzu.gr](https://analytics.kudzu.gr)
  - date_published: 2021-09-13T09:10:41+00:00
-
- ## Kudzu Website
- - [https://kudzu.gr](https://kudzu.gr)
- - date_published: 2023-09-21T08:44:30+00:00
-
- ## Δωρεάν διαδικτυακά παιχνίδια - Lagged.gr
- - [https://lagged.gr](https://lagged.gr)
- - date_published: 2024-05-04T11:46:06.811836+00:00
-
- ## Lancom - Data Center & Cloud Service Provider
- - [https://www.lancom.gr](https://www.lancom.gr)
- - date_published: 2024-06-19T23:25:27.795022+00:00
-
- ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
- - [https://www.landrover.gr](https://www.landrover.gr)
- - date_published: 2024-07-09T17:14:32.447521+00:00
-
- ## Blog
-
-		🎤 Lexxman
- - [https://www.lexx.gr](https://www.lexx.gr)
- - date_published: 2023-10-25T19:27:32.020037+00:00
-
- ## Lidl Hellas – Κάθε μέρα αξίζει!
- - [https://www.lidl-hellas.gr](https://www.lidl-hellas.gr)
- - date_published: 2024-06-25T19:02:36.874264+00:00
-
- ## Home - Logistics & Transports
- - [https://logistics-expo.gr](https://logistics-expo.gr)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Λ. Ρον Χάμπαρντ – Ιδρυτής της Scientology και της Dianetics
- - [https://www.lronhubbard.gr](https://www.lronhubbard.gr)
- - date_published: 2024-06-06T19:38:58.159638+00:00
-
- ## Madame Figaro - Μόδα & Ομορφιά
- - [https://www.madamefigaro.gr](https://www.madamefigaro.gr)
- - date_published: 2024-07-12T17:14:26.111046+00:00
-
- ## malihu
-					 | web design
- - [http://manos.malihu.gr](http://manos.malihu.gr)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Mame.gr – To MAME στα ελληνικά !
- - [https://mame.gr](https://mame.gr)
- - date_published: 2024-05-22T11:12:29+00:00
-
- ## Υ.ΜΑ.Θ. | Υπουργείο Εσωτερικών (Τομέας Μακεδονίας και Θράκης)
- - [https://www.mathra.gr](https://www.mathra.gr)
- - date_published: 2024-06-19T23:25:50+00:00
-
- ## MATTLE.GR - A Dub.co Custom Domain
- - [http://mattle.gr](http://mattle.gr)
- - date_published: 2024-04-28T04:38:09.722557+00:00
-
- ## Mega Sprint Guard - Υπηρεσίες Ασφαλείας - Megaguard
- - [https://megaguard.gr](https://megaguard.gr)
- - date_published: 2024-06-18T00:11:08+00:00
-
- ## Forum - ΜέΡΑ25
- - [https://forum.mera25.gr](https://forum.mera25.gr)
- - date_published: 2024-07-03T03:15:42.747355+00:00
-
- ## Internal - For DiEM25 Members Only - ΜέΡΑ25
- - [https://i.mera25.gr](https://i.mera25.gr)
- - date_published: 2024-07-03T03:15:50.265036+00:00
-
- ## ΜέΡΑ25 - Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής
- - [https://mera25.gr](https://mera25.gr)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Arduino, ESP32, Processing,  Digital Arts, Συλλεκτικοί Υπολογιστές
- - [https://microdev.gr](https://microdev.gr)
- - date_published: 2024-04-29T09:26:46+00:00
- - tags: ['microcontrollers', 'esp32']
-
- ## ΥΠΑΑΤ - Αρχική Σελίδα
- - [http://www.minagric.gr](http://www.minagric.gr)
- - date_published: 2024-06-19T23:25:56+00:00
-
- ## Missbloom.gr
- - [https://www.missbloom.gr](https://www.missbloom.gr)
- - date_published: 2024-07-12T17:14:23.560399+00:00
-
- ## ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ
- - [http://www.mixanitouxronou.gr](http://www.mixanitouxronou.gr)
- - date_published: 2024-06-25T18:52:23.646067+00:00
-
- ## Moneyreview.gr
- - [http://moneyreview.gr](http://moneyreview.gr)
- - date_published: 2024-06-17T01:45:47.119205+00:00
-
- ## Summits Home - Money Review Summits
- - [https://summits.moneyreview.gr](https://summits.moneyreview.gr)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Moneyreview.gr
- - [https://www.moneyreview.gr](https://www.moneyreview.gr)
- - date_published: 2024-05-01T08:41:27.206554+00:00
-
- ## MusicHeaven - Μουσική Κοινότητα
- - [http://www.musicheaven.gr](http://www.musicheaven.gr)
- - date_published: 2024-06-30T07:08:46.667337+00:00
-
- ## Αρχική | Avis Leasing
- - [https://www.myavis.gr](https://www.myavis.gr)
- - date_published: 2024-07-12T17:37:09+00:00
-
- ## Εθνική Τράπεζα
- - [https://www.nbg.gr](https://www.nbg.gr)
- - date_published: 2024-06-19T23:25:11.281846+00:00
-
- ## Homepage
- - [https://www.neolaia.gr](https://www.neolaia.gr)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## New Era Publications International ApS
- - [http://www.newerapublications.gr](http://www.newerapublications.gr)
- - date_published: 2024-06-06T19:42:22.520745+00:00
-
- ## Ειδήσεις από την Ελλάδα και τον Κόσμο με εγκυρότητα - Newsbomb
- - [http://www.newsbomb.gr](http://www.newsbomb.gr)
- - date_published: 2024-06-25T18:52:22+00:00
-
- ## Τελευταία νέα και ειδήσεις από την Ελλάδα και τον Κόσμο - NewsIT
- - [http://www.newsit.gr](http://www.newsit.gr)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Nova - EON TV, ταχύτατο Fiber internet & απεριόριστη επικοινωνία
- - [https://nova.gr](https://nova.gr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## control systems lab | n.t.u.a.
- - [https://csl-ep.mech.ntua.gr](https://csl-ep.mech.ntua.gr)
- - date_published: 2024-06-16T22:06:00.209450+00:00
-
- ## Computer Vision, Speech Communication & Signal Processing Group
- - [http://cvsp.cs.ntua.gr](http://cvsp.cs.ntua.gr)
- - date_published: 2024-07-15T02:37:26.966884+00:00
-
- ## IVML -  Image Video & Multimedia Systems Laboratory
- - [http://image.ntua.gr](http://image.ntua.gr)
- - date_published: 2018-05-02T10:26:44+00:00
-
- ## Computing Systems Laboratory
- - [http://www.dsclab.ntua.gr](http://www.dsclab.ntua.gr)
- - date_published: 2024-06-27T14:44:09.570881+00:00
-
- ## ECE • Home
- - [https://www.ece.ntua.gr](https://www.ece.ntua.gr)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ
- - [https://www.ntua.gr](https://www.ntua.gr)
- - date_published: 2024-06-22T08:59:38+00:00
-
- ## Software Engineering Laboratory - N.T.U.A.
- - [http://www.softlab.ntua.gr](http://www.softlab.ntua.gr)
- - date_published: 2024-04-28T04:06:23.167761+00:00
-
- ## Nutricia - Παιδική & Βρεφική διατροφή
- - [https://www.nutricia.gr](https://www.nutricia.gr)
- - date_published: 2024-07-08T20:10:05.151554+00:00
-
- ## Software developers, Web Developers, Home - NXCODE
- - [https://nxcode.gr](https://nxcode.gr)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## MainPage
- - [https://okfn.gr](https://okfn.gr)
- - date_published: 2023-10-31T12:39:27+00:00
-
- ## Opel Ελλάδας | Νέα αυτοκίνητα | Οχήματα | Προσφορές
- - [https://www.opel.gr](https://www.opel.gr)
- - date_published: 2024-07-11T09:38:53+00:00
-
- ## OpenSky
- - [https://open-sky.gr](https://open-sky.gr)
- - date_published: 2021-04-25T08:29:23+00:00
-
- ## Αρχική Σελίδα - OTS - Έξυπνες πόλεις, Έξυπνη Στάθμευση, Smart Cities
- - [https://ots.gr](https://ots.gr)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Parallaxi Magazine - To free press περιοδικό της Θεσσαλονίκης
- - [https://parallaximag.gr](https://parallaximag.gr)
- - date_published: 2024-06-17T01:45:51.685453+00:00
-
- ## Παραπολιτικά | Ειδήσεις - Οι ειδήσεις από την Ελλάδα και τον κόσμο
- - [http://www.parapolitika.gr](http://www.parapolitika.gr)
- - date_published: 2024-06-25T18:51:46.897777+00:00
-
- ## Αρχική
- - [https://parthenonfrieze.gr](https://parthenonfrieze.gr)
- - date_published: 2024-06-01T04:38:34.132785+00:00
-
- ## Cierpliwości...
- - [http://www.patakis.gr](http://www.patakis.gr)
- - date_published: 2024-06-30T07:08:38.112695+00:00
-
- ## Pelagus Creative Web - Κατασκευή ιστοσελίδων Drupal
- - [https://www.pelagus.gr](https://www.pelagus.gr)
- - date_published: 2024-06-28T21:50:27.908358+00:00
-
- ## PERI Ελλάς, Μεταλλότυποι και Ικριώματα
- - [https://www.perihellas.gr](https://www.perihellas.gr)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## POPAGANDA - Η ΖΩΗ ΣΕ ΥΨΗΛΗ ΑΝΑΛΥΣΗ
- - [https://popaganda.gr](https://popaganda.gr)
- - date_published: 2024-06-17T01:45:48.883842+00:00
-
- ## Web Design, e-shops, User Experience Design, Single Page Redesign, User Interface Design, Front-End Development
- - [https://www.porcupine.gr](https://www.porcupine.gr)
- - date_published: 2024-05-27T10:55:09+00:00
-
- ## Poweruser
- - [https://poweruser.gr](https://poweruser.gr)
- - date_published: 2024-07-13T13:34:48.154256+00:00
-
- ## protothemanews.com | Protothema.gr news in english
- - [https://en.protothema.gr](https://en.protothema.gr)
- - date_published: 2023-10-25T19:27:36.235371+00:00
-
- ## Public #1 για είδη τεχνολογίας, ψυχαγωγίας και οικιακές συσκευές!
- - [http://www.public.gr](http://www.public.gr)
- - date_published: 2024-06-13T07:56:53+00:00
 

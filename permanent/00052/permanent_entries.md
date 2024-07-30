@@ -1,3 +1,68 @@
+ ## CnEVData
+ - [https://cnevdata.com](https://cnevdata.com)
+ - date_published: 2024-07-03T10:20:50.775024+00:00
+
+ ## Condé Nast Entertainment
+ - [https://player.cnevids.com](https://player.cnevids.com)
+ - date_published: 2024-06-13T18:57:17+00:00
+
+ ## CnEVPost - China EV news, data, insights and more
+ - [https://cdn.cnevpost.com](https://cdn.cnevpost.com)
+ - date_published: 2024-05-08T05:44:52.086817+00:00
+
+ ## CnEVPost - China EV news, data, insights and more
+ - [https://cnevpost.com](https://cnevpost.com)
+ - date_published: 2023-10-25T10:55:02.595046+00:00
+
+ ## CnEVPost Newsletter | Substack
+ - [https://newsletter.cnevpost.com](https://newsletter.cnevpost.com)
+ - date_published: 2024-05-08T05:45:04.570203+00:00
+
+ ## 铁合金在线 铁合金行业的专业门户网站
+ - [https://www.cnfeol.com](https://www.cnfeol.com)
+ - date_published: 2024-06-27T05:20:17.953560+00:00
+
+ ## Upcoming Auctions | Classical Numismatic Group
+ - [https://auctions.cngcoins.com](https://auctions.cngcoins.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## CNG-Ancient Greek, Roman, British Coins
+ - [https://cngcoins.com](https://cngcoins.com)
+ - date_published: 2024-05-07T14:42:21.689799+00:00
+
+ ## 荆楚网-湖北日报网-湖北新闻-湖北门户 权威发布
+ - [http://www.cnhubei.com](http://www.cnhubei.com)
+ - date_published: 2024-06-30T14:51:21.341003+00:00
+
+ ## CNMO-专业.有趣的科技新媒体
+ - [http://www.cnmo.com](http://www.cnmo.com)
+ - date_published: 2024-06-18T20:54:17.106851+00:00
+
+ ## 中国民族博物馆
+ - [http://www.cnmuseum.com](http://www.cnmuseum.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Breaking News, Latest News and Videos | CNN
+ - [https://amp.cnn.com](https://amp.cnn.com)
+ - date_published: 2023-11-06T15:59:27.176146+00:00
+
+ ## آخر الأخبار السياسية والرياضية والفنية وأحدث تقارير الفيديو - CNN Arabic
+ - [https://arabic.cnn.com](https://arabic.cnn.com)
+ - date_published: 2024-05-08T05:46:06.431971+00:00
+
+ ## Breaking News, Latest News and Videos | CNN
+ - [https://cnn.com](https://cnn.com)
+ - date_published: 2023-12-28T04:12:45.450357+00:00
+ - tags: ['news']
+
+ ## Portada
+ - [https://cnne-admin.cnn.com](https://cnne-admin.cnn.com)
+ - date_published: 2024-06-29T15:36:19.254577+00:00
+
+ ## Últimas noticias de Estados Unidos, Latinoamérica y el mundo, hoy | CNN en Español
+ - [https://cnnespanol.cnn.com](https://cnnespanol.cnn.com)
+ - date_published: 2024-05-07T12:49:05.892921+00:00
+
  ## Breaking News, Latest News and Videos | CNN
  - [https://edition.cnn.com](https://edition.cnn.com)
  - date_published: 2023-10-25T10:25:37.123636+00:00
@@ -1570,6 +1635,10 @@
  ## Homepage 2024
  - [https://www.codility.com](https://www.codility.com)
  - date_published: 2024-06-21T09:37:32.753729+00:00
+
+ ## Confessions of a Code Addict | Abhinav Upadhyay | Substack
+ - [https://blog.codingconfessions.com](https://blog.codingconfessions.com)
+ - date_published: 2024-01-29T00:00:00+00:00
 
  ## Coding Dodo - Odoo, Python & JavaScript Tutorials
  - [https://codingdodo.com](https://codingdodo.com)
@@ -3977,78 +4046,4 @@ Colyvan's Homepage
  ## ComicControl. -
  - [https://www.comicctrl.com](https://www.comicctrl.com)
  - date_published: 2024-07-14T10:50:45.533023+00:00
-
- ## ComicFury webcomic hosting - We host webcomics, for free (no ads either!) - Get your full-control webcomic hosting here
- - [https://comicfury.com](https://comicfury.com)
- - date_published: 2024-05-13T03:22:58.472628+00:00
-
- ## The Inexplicable Adventures of Bob! - Tuesday , May 21 , 2019
- - [https://bobadventures.comicgenesis.com](https://bobadventures.comicgenesis.com)
- - date_published: 2024-05-13T03:24:10.319781+00:00
-
- ## Comic Genesis - New Worlds. New Dreams.
- - [http://comicgenesis.com](http://comicgenesis.com)
- - date_published: 2024-05-13T03:24:16.110302+00:00
- - tags: ['web comics', 'comics']
-
- ## AND SHINE HEAVEN NOW
- - [https://hellsing.comicgenesis.com](https://hellsing.comicgenesis.com)
- - date_published: 2024-04-07T14:24:59.197515+00:00
- - tags: ['comics']
-
- ## Wereworld By Rann. Updated January 13, 2013
- - [http://wereworld.comicgenesis.com](http://wereworld.comicgenesis.com)
- - date_published: 2016-05-30T07:19:03+00:00
-
- ## ComicMix
- - [http://www.comicmix.com](http://www.comicmix.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Epic Fail – Epic Fail is a D&D webcomic; Epic Fail Funny Fantasy misadventure for Geeky Gamers
- - [https://comicofepicfail.com](https://comicofepicfail.com)
- - date_published: 2024-07-17T08:33:14.778917+00:00
-
- ## The Fun of Collecting Comics - Comic Rank
- - [http://www.comicrank.com](http://www.comicrank.com)
- - date_published: 2024-07-17T08:34:33.606021+00:00
-
- ## Explore - Comic Rocket webcomic list
- - [https://www.comic-rocket.com](https://www.comic-rocket.com)
- - date_published: 2024-07-17T08:23:02.566111+00:00
-
- ## ComicsAlliance - Comic book culture, news, humor and commentary.
- - [https://comicsalliance.com](https://comicsalliance.com)
- - date_published: 2024-05-13T03:38:37.240744+00:00
- - tags: ['comics']
-
- ## Home-2023 - The Beat
- - [https://comicsbeat.com](https://comicsbeat.com)
- - date_published: 2024-01-09T02:21:49.075270+00:00
-
- ## Comics Bookcase - Writing About Comics
- - [https://comicsbookcase.com](https://comicsbookcase.com)
- - date_published: 2024-05-13T03:38:41.135315+00:00
-
- ## Comics Comics
- - [https://comicscomicsmag.com](https://comicscomicsmag.com)
- - date_published: 2024-05-13T03:39:25.361806+00:00
- - tags: ['abandoned']
-
- ## The Comics Curmudgeon
- - [http://www.comicscurmudgeon.com](http://www.comicscurmudgeon.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## CG&T             -  CG&T
- - [https://comicsgamesandthings.com](https://comicsgamesandthings.com)
- - date_published: 2024-05-27T12:09:00+00:00
- - tags: ['tabletop games', 'wargames']
-
- ## Comics Grinder
- - [https://comicsgrinder.com](https://comicsgrinder.com)
- - date_published: 2024-02-06T00:00:00+00:00
- - tags: ['comics news']
-
- ## Home Page
- - [https://www.comicshoplocator.com](https://www.comicshoplocator.com)
- - date_published: 2024-06-28T00:00:00+00:00
 

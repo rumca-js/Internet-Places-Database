@@ -1,3 +1,51 @@
+ ## Hallelujah The Hills
+ - [https://hallelujahthehills.bandcamp.com](https://hallelujahthehills.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Merch from Hamish Hawk
+ - [https://hamishhawk.bandcamp.com](https://hamishhawk.bandcamp.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Radio Désert, by Harissa
+ - [https://harissa.bandcamp.com](https://harissa.bandcamp.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Bara To Yaju, by Haruomi Hosono, Cornelius
+ - [https://haruomihosono.bandcamp.com](https://haruomihosono.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Triptych: Part Two, by Harvestman
+ - [https://harvestman.bandcamp.com](https://harvestman.bandcamp.com)
+ - date_published: 2024-07-19T22:25:22.310671+00:00
+
+ ## VGM.XV, by white VHS
+ - [https://haydenwhite.bandcamp.com](https://haydenwhite.bandcamp.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Hazy Sour Cherry
+ - [https://hazysourcherry.bandcamp.com](https://hazysourcherry.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Hell's Logo's Pink, by Heaven For Real
+ - [https://heavenforreal.bandcamp.com](https://heavenforreal.bandcamp.com)
+ - date_published: 2024-06-15T03:58:06.729495+00:00
+
+ ## Heels & Souls Recordings
+ - [https://heelsandsouls.bandcamp.com](https://heelsandsouls.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Helado Negro
+ - [https://heladonegro.bandcamp.com](https://heladonegro.bandcamp.com)
+ - date_published: 2024-06-26T21:24:40.671466+00:00
+
+ ## Hello Records
+ - [https://hellorecordlabel.bandcamp.com](https://hellorecordlabel.bandcamp.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Hell Yeah Recordings
+ - [https://hellyeahrec.bandcamp.com](https://hellyeahrec.bandcamp.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
  ## Summer Nights, by Helynt
  - [http://helynt.bandcamp.com](http://helynt.bandcamp.com)
  - date_published: 2024-07-19T00:00:00+00:00
@@ -3968,52 +4016,4 @@ rain or shine
  ## The Battle of Lincoln Park
  - [http://battleoflincolnpark.com](http://battleoflincolnpark.com)
  - date_published: 2024-06-28T13:29:05.397887+00:00
-
- ## Artix Entertainment - Free to Play Online Browser Games
- - [http://portal.battleon.com](http://portal.battleon.com)
- - date_published: 2024-06-19T01:18:29.770018+00:00
-
- ## AdventureQuest - Home
- - [http://www.battleon.com](http://www.battleon.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## BattlePenguin
- - [https://battlepenguin.com](https://battlepenguin.com)
- - date_published: 2023-10-25T12:52:47.433510+00:00
-
- ## Battle Ram
- - [https://battleramblog.com](https://battleramblog.com)
- - date_published: 2024-07-03T11:03:31.097859+00:00
-
- ## Battle Rankings
- - [http://rankings.battlerankings.com](http://rankings.battlerankings.com)
- - date_published: 2024-06-19T15:08:04.489115+00:00
-
- ## Battle Realms
- - [https://battlerealms.com](https://battlerealms.com)
- - date_published: 2024-04-26T19:03:14+00:00
-
- ## a Houston Texans community
- - [http://www.battleredblog.com](http://www.battleredblog.com)
- - date_published: 2024-04-29T02:15:35.027278+00:00
-
- ## Battle Shapers
- - [https://www.battleshapers.com](https://www.battleshapers.com)
- - date_published: 2024-07-08T23:26:55.786850+00:00
-
- ## www.battlesmagazine.com 07-02-2024 23:36
- - [http://battlesmagazine.com](http://battlesmagazine.com)
- - date_published: 2024-07-02T21:36:52+00:00
- - tags: ['wargames']
-
- ## www.battlesmagazine.com 05-09-2024 07:23
- - [https://www.battlesmagazine.com](https://www.battlesmagazine.com)
- - date_published: 2024-05-09T05:23:07.431531+00:00
-
- - [https://blog.battlesnake.com](https://blog.battlesnake.com)
- - date_published: 2024-01-09T02:30:05.335999+00:00
-
- ## Wargames | Battlespace Games
- - [https://www.battlespacegames.com](https://www.battlespacegames.com)
- - date_published: 2024-07-02T21:45:13.819920+00:00
 

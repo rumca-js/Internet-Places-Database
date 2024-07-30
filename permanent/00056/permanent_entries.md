@@ -1,3 +1,78 @@
+ ## The D3 Graph Gallery – Simple charts made in d3.js
+ - [https://d3-graph-gallery.com](https://d3-graph-gallery.com)
+ - date_published: 2024-05-07T10:30:02.245538+00:00
+
+ ## D3 in Depth
+ - [https://d3indepth.com](https://d3indepth.com)
+ - date_published: 2024-05-16T14:18:07+00:00
+
+ ## Maximum Stats on Items - Diablo 3: Reaper of Souls - D3 Max Stats
+ - [https://d3maxstats.com](https://d3maxstats.com)
+ - date_published: 2024-06-12T21:13:41+00:00
+ - tags: ['diablo']
+
+ ## D3R - Web Design and Development
+ - [https://d3r.com](https://d3r.com)
+ - date_published: 2024-07-09T09:12:52.943225+00:00
+
+ ## Diablo 3 Resources
+ - [https://d3resource.com](https://d3resource.com)
+ - date_published: 2023-10-25T11:08:36.624986+00:00
+ - tags: ['diablo']
+
+ ## https://d3sanctuary.com
+ - [https://d3sanctuary.com](https://d3sanctuary.com)
+ - date_published: 2023-12-13T16:21:58.317851+00:00
+
+ ## Smart SOAR - The World's Leading Independent SOAR Platform
+ - [https://d3security.com](https://d3security.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## D3 SOAR Docs
+ - [https://docs.d3security.com](https://docs.d3security.com)
+ - date_published: 2024-07-16T20:50:13.738054+00:00
+
+ ## Casino Affiliate Guide Community Online Casino Affiliate Program
+ - [http://www.d4wstats.com](http://www.d4wstats.com)
+ - date_published: 2019-09-30T00:00:00+00:00
+ - tags: ['gambling']
+
+ ## D6 Combat - Geeking out about Tabletop Wargames and D&D
+ - [https://d6combat.com](https://d6combat.com)
+ - date_published: 2024-04-28T04:44:07.735311+00:00
+
+ ## D6 TEAM - indie app & game developer
+ - [https://d6team.com](https://d6team.com)
+ - date_published: 2024-05-08T17:19:52.226645+00:00
+
+ ## Davide A – Designer, Investor. Fewer, better things.
+ - [http://da5ide.com](http://da5ide.com)
+ - date_published: 2022-03-18T15:17:39+00:00
+
+ ## DAAily
+ - [https://daaily.com](https://daaily.com)
+ - date_published: 2024-05-11T11:09:31.615710+00:00
+
+ ## Daalder Culinair
+ - [https://daalderculinair.com](https://daalderculinair.com)
+ - date_published: 2024-07-03T06:44:04.220239+00:00
+
+ ## Data as a Product Podcast Network – Exploring what it means to treat data as a product
+ - [https://daappod.com](https://daappod.com)
+ - date_published: 2024-07-09T12:17:05.888757+00:00
+
+ ## Daar Communication Plc – Nigeria's Premiere Private Broadcast Network
+ - [https://daargroup.com](https://daargroup.com)
+ - date_published: 2024-06-17T16:29:53.834178+00:00
+
+ ## Daasity | ELT & Analytics for Consumer Brands
+ - [https://www.daasity.com](https://www.daasity.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Leading Web and Mobile App Development agency, Brighton - DabApps
+ - [https://www.dabapps.com](https://www.dabapps.com)
+ - date_published: 2024-07-22T17:34:51.320681+00:00
+
  ## dabblet.com
  - [http://dabblet.com](http://dabblet.com)
  - date_published: 2024-04-28T04:28:53.276787+00:00
@@ -3992,78 +4067,4 @@
  ## David Giard
  - [https://davidgiard.com](https://davidgiard.com)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## David Goggins
- - [https://davidgoggins.com](https://davidgoggins.com)
- - date_published: 2023-10-10T19:04:08+00:00
-
- ## Shop-David-Goggins
- - [https://shop.davidgoggins.com](https://shop.davidgoggins.com)
- - date_published: 2024-07-07T03:38:47.864165+00:00
-
- ## David Gomes
- - [https://davidgomes.com](https://davidgomes.com)
- - date_published: 2023-10-25T13:45:40.991424+00:00
-
- ## David Gomez-Maestre – Photographer
- - [http://davidgomezmaestre.com](http://davidgomezmaestre.com)
- - date_published: 2024-07-13T12:45:51+00:00
-
- ## About Me - David Gosset
- - [http://www.davidgosset.com](http://www.davidgosset.com)
- - date_published: 2021-11-03T20:09:30+00:00
-
- ## David Grudl
- - [https://davidgrudl.com](https://davidgrudl.com)
- - date_published: 2024-07-08T10:44:13.414804+00:00
-
- ## David Hamp-Gonsalves
- - [https://davidhampgonsalves.com](https://davidhampgonsalves.com)
- - date_published: 2023-10-25T13:45:47.026190+00:00
-
- ## The Official David Hasselhoff Website | Everything David To Hoffinity & Beyond!
- - [https://davidhasselhoffonline.com](https://davidhasselhoffonline.com)
- - date_published: 2023-11-13T09:52:52.903921+00:00
- - tags: ['celebrity', 'vip']
-
- ## David Hernandez Ministries
- - [http://www.davidhernandezministries.com](http://www.davidhernandezministries.com)
- - date_published: 2024-07-04T18:10:00.150356+00:00
-
- ## David Hillier freelance writer, journalist and copywriter | Home
- - [http://davidhillierwrites.com](http://davidhillierwrites.com)
- - date_published: 2024-07-13T14:56:35.011494+00:00
-
- ## David Hoang
- - [https://davidhoang.com](https://davidhoang.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## David Hoy WP
- - [https://davidhoywp.com](https://davidhoywp.com)
- - date_published: 2024-01-16T03:19:23.059473+00:00
-
- ## About - davidjenei.com
- - [https://davidjenei.com](https://davidjenei.com)
- - date_published: 2024-01-30T14:28:38+00:00
-
- ## David John Kaye | Deeptech Grant Writer and Business Designer
- - [https://davidjohnkaye.com](https://davidjohnkaye.com)
- - date_published: 2024-01-09T02:34:06.758516+00:00
- - tags: ['personal']
-
- ## Living and working on the web, with a British point of view.
- - [https://davidjohnmead.com](https://davidjohnmead.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## David Kerr Design - Hands-On Communication Solutions
- - [https://davidkerrdesign.com](https://davidkerrdesign.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## David Kohlbrenner
- - [http://davidkohlbrenner.com](http://davidkohlbrenner.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## David K. Seitz
- - [http://davidkseitz.com](http://davidkseitz.com)
- - date_published: 2024-07-06T19:23:18.341960+00:00
 

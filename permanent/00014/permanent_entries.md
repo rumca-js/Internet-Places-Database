@@ -1,3 +1,7 @@
+ ## Alle Immobilien
+ - [https://www.alle-immobilien.ch](https://www.alle-immobilien.ch)
+ - date_published: 2024-07-20T12:52:04+00:00
+
  ## Alliance | pour innover
  - [http://www.alliance-tt.ch](http://www.alliance-tt.ch)
  - date_published: 2024-07-16T21:26:27+00:00
@@ -4011,8 +4015,4 @@
  ## Bienvenue sur meute.ch
  - [http://www.meute.ch](http://www.meute.ch)
  - date_published: 2023-04-24T08:01:44+00:00
-
- ## Michel Egger
- - [https://www.michelegger.ch](https://www.michelegger.ch)
- - date_published: 2023-06-15T08:10:32+00:00
 

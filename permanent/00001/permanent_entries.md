@@ -1141,6 +1141,10 @@
  - [https://jaas.ai](https://jaas.ai)
  - date_published: 2024-05-23T02:48:01.556101+00:00
 
+ ## Jabali: an AI-native game engine
+ - [https://www.jabali.ai](https://www.jabali.ai)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## Online tutoring with the help of artificial intelligence
  - [https://www.jagoda.ai](https://www.jagoda.ai)
  - date_published: 2024-06-19T19:54:11.585874+00:00
@@ -4021,8 +4025,4 @@
  ## SaaStr AI Day | March 27, 2024
  - [https://www.saastr.ai](https://www.saastr.ai)
  - date_published: 2024-03-27T00:00:00+00:00
-
- ## Center for AI Safety (CAIS)
- - [https://safe.ai](https://safe.ai)
- - date_published: 2024-06-25T00:00:00+00:00
 

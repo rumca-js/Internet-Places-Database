@@ -1,3 +1,7 @@
+ ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
+ - [https://www.marykay.com.br](https://www.marykay.com.br)
+ - date_published: 2024-06-30T09:56:12.642405+00:00
+
  ## MASP - Exposição Virtual DEGAS
  - [https://www.maspdegas.com.br](https://www.maspdegas.com.br)
  - date_published: 2021-08-02T19:35:36+00:00
@@ -4018,8 +4022,4 @@
  ## Cochrane News - Daily Local News for Cochrane, Alberta
  - [https://www.cochranetoday.ca](https://www.cochranetoday.ca)
  - date_published: 2024-05-06T00:00:00+00:00
-
- ## Cocoon | Tailored for you
- - [https://www.cocoonapp.ca](https://www.cocoonapp.ca)
- - date_published: 2024-05-30T00:00:00+00:00
 

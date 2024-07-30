@@ -1,3 +1,7 @@
+ ## Cocoon | Tailored for you
+ - [https://www.cocoonapp.ca](https://www.cocoonapp.ca)
+ - date_published: 2024-05-30T00:00:00+00:00
+
  ## Colorprinter - Colorprinter©
  - [https://colorprinter.ca](https://colorprinter.ca)
  - date_published: 2024-02-04T18:52:43+00:00
@@ -4045,9 +4049,4 @@
  ## RSEQ - Sport.Éducation.Fierté
  - [http://www.rseq.ca](http://www.rseq.ca)
  - date_published: 2024-07-21T08:25:51.903526+00:00
-
- ## Crafting {:} a Life – A Charlottetown Unconference, June 2019
- - [https://cal.ruk.ca](https://cal.ruk.ca)
- - date_published: 2024-06-08T13:10:07.653599+00:00
- - tags: ['conference', 'personal']
 

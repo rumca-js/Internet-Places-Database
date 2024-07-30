@@ -1,3 +1,11 @@
+ ## Vicerrectoría de Desarrollo Regional y Proyección Comunitaria - VIDER
+ - [https://vider.unad.edu.co](https://vider.unad.edu.co)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## VIMEP
+ - [https://vimep.unad.edu.co](https://vimep.unad.edu.co)
+ - date_published: 2022-03-16T13:30:01+00:00
+
  ## Vicerrectoría de Relaciones Intersistémicas e Internacionales
  - [https://vinter.unad.edu.co](https://vinter.unad.edu.co)
  - date_published: 2022-08-20T02:41:14+00:00
@@ -4032,12 +4040,4 @@
  ## 404-阿里巴巴
  - [https://widget.1688.com](https://widget.1688.com)
  - date_published: 2024-03-29T00:00:00+00:00
-
- ## 1688五金工具市场
- - [https://wjgj.1688.com](https://wjgj.1688.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 全球领先的采购批发平台,批发网
- - [https://work.1688.com](https://work.1688.com)
- - date_published: 2024-07-09T10:59:53.316670+00:00
 

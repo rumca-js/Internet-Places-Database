@@ -1,3 +1,231 @@
+ ## Kudzu Website
+ - [https://kudzu.gr](https://kudzu.gr)
+ - date_published: 2023-09-21T08:44:30+00:00
+
+ ## Δωρεάν διαδικτυακά παιχνίδια - Lagged.gr
+ - [https://lagged.gr](https://lagged.gr)
+ - date_published: 2024-05-04T11:46:06.811836+00:00
+
+ ## Lancom - Data Center & Cloud Service Provider
+ - [https://www.lancom.gr](https://www.lancom.gr)
+ - date_published: 2024-06-19T23:25:27.795022+00:00
+
+ ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
+ - [https://www.landrover.gr](https://www.landrover.gr)
+ - date_published: 2024-07-09T17:14:32.447521+00:00
+
+ ## Blog
+
+		🎤 Lexxman
+ - [https://www.lexx.gr](https://www.lexx.gr)
+ - date_published: 2023-10-25T19:27:32.020037+00:00
+
+ ## Lidl Hellas – Κάθε μέρα αξίζει!
+ - [https://www.lidl-hellas.gr](https://www.lidl-hellas.gr)
+ - date_published: 2024-06-25T19:02:36.874264+00:00
+
+ ## Home - Logistics & Transports
+ - [https://logistics-expo.gr](https://logistics-expo.gr)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Λ. Ρον Χάμπαρντ – Ιδρυτής της Scientology και της Dianetics
+ - [https://www.lronhubbard.gr](https://www.lronhubbard.gr)
+ - date_published: 2024-06-06T19:38:58.159638+00:00
+
+ ## Madame Figaro - Μόδα & Ομορφιά
+ - [https://www.madamefigaro.gr](https://www.madamefigaro.gr)
+ - date_published: 2024-07-12T17:14:26.111046+00:00
+
+ ## malihu
+					 | web design
+ - [http://manos.malihu.gr](http://manos.malihu.gr)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Mame.gr – To MAME στα ελληνικά !
+ - [https://mame.gr](https://mame.gr)
+ - date_published: 2024-05-22T11:12:29+00:00
+
+ ## Υ.ΜΑ.Θ. | Υπουργείο Εσωτερικών (Τομέας Μακεδονίας και Θράκης)
+ - [https://www.mathra.gr](https://www.mathra.gr)
+ - date_published: 2024-06-19T23:25:50+00:00
+
+ ## MATTLE.GR - A Dub.co Custom Domain
+ - [http://mattle.gr](http://mattle.gr)
+ - date_published: 2024-04-28T04:38:09.722557+00:00
+
+ ## Mega Sprint Guard - Υπηρεσίες Ασφαλείας - Megaguard
+ - [https://megaguard.gr](https://megaguard.gr)
+ - date_published: 2024-06-18T00:11:08+00:00
+
+ ## Forum - ΜέΡΑ25
+ - [https://forum.mera25.gr](https://forum.mera25.gr)
+ - date_published: 2024-07-03T03:15:42.747355+00:00
+
+ ## Internal - For DiEM25 Members Only - ΜέΡΑ25
+ - [https://i.mera25.gr](https://i.mera25.gr)
+ - date_published: 2024-07-03T03:15:50.265036+00:00
+
+ ## ΜέΡΑ25 - Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής
+ - [https://mera25.gr](https://mera25.gr)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Arduino, ESP32, Processing,  Digital Arts, Συλλεκτικοί Υπολογιστές
+ - [https://microdev.gr](https://microdev.gr)
+ - date_published: 2024-04-29T09:26:46+00:00
+ - tags: ['microcontrollers', 'esp32']
+
+ ## ΥΠΑΑΤ - Αρχική Σελίδα
+ - [http://www.minagric.gr](http://www.minagric.gr)
+ - date_published: 2024-06-19T23:25:56+00:00
+
+ ## Missbloom.gr
+ - [https://www.missbloom.gr](https://www.missbloom.gr)
+ - date_published: 2024-07-12T17:14:23.560399+00:00
+
+ ## ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ
+ - [http://www.mixanitouxronou.gr](http://www.mixanitouxronou.gr)
+ - date_published: 2024-06-25T18:52:23.646067+00:00
+
+ ## Moneyreview.gr
+ - [http://moneyreview.gr](http://moneyreview.gr)
+ - date_published: 2024-06-17T01:45:47.119205+00:00
+
+ ## Summits Home - Money Review Summits
+ - [https://summits.moneyreview.gr](https://summits.moneyreview.gr)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Moneyreview.gr
+ - [https://www.moneyreview.gr](https://www.moneyreview.gr)
+ - date_published: 2024-05-01T08:41:27.206554+00:00
+
+ ## MusicHeaven - Μουσική Κοινότητα
+ - [http://www.musicheaven.gr](http://www.musicheaven.gr)
+ - date_published: 2024-06-30T07:08:46.667337+00:00
+
+ ## Αρχική | Avis Leasing
+ - [https://www.myavis.gr](https://www.myavis.gr)
+ - date_published: 2024-07-12T17:37:09+00:00
+
+ ## Εθνική Τράπεζα
+ - [https://www.nbg.gr](https://www.nbg.gr)
+ - date_published: 2024-06-19T23:25:11.281846+00:00
+
+ ## Homepage
+ - [https://www.neolaia.gr](https://www.neolaia.gr)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## New Era Publications International ApS
+ - [http://www.newerapublications.gr](http://www.newerapublications.gr)
+ - date_published: 2024-06-06T19:42:22.520745+00:00
+
+ ## Ειδήσεις από την Ελλάδα και τον Κόσμο με εγκυρότητα - Newsbomb
+ - [http://www.newsbomb.gr](http://www.newsbomb.gr)
+ - date_published: 2024-06-25T18:52:22+00:00
+
+ ## Τελευταία νέα και ειδήσεις από την Ελλάδα και τον Κόσμο - NewsIT
+ - [http://www.newsit.gr](http://www.newsit.gr)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Nova - EON TV, ταχύτατο Fiber internet & απεριόριστη επικοινωνία
+ - [https://nova.gr](https://nova.gr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## control systems lab | n.t.u.a.
+ - [https://csl-ep.mech.ntua.gr](https://csl-ep.mech.ntua.gr)
+ - date_published: 2024-06-16T22:06:00.209450+00:00
+
+ ## Computer Vision, Speech Communication & Signal Processing Group
+ - [http://cvsp.cs.ntua.gr](http://cvsp.cs.ntua.gr)
+ - date_published: 2024-07-15T02:37:26.966884+00:00
+
+ ## IVML -  Image Video & Multimedia Systems Laboratory
+ - [http://image.ntua.gr](http://image.ntua.gr)
+ - date_published: 2018-05-02T10:26:44+00:00
+
+ ## Computing Systems Laboratory
+ - [http://www.dsclab.ntua.gr](http://www.dsclab.ntua.gr)
+ - date_published: 2024-06-27T14:44:09.570881+00:00
+
+ ## ECE • Home
+ - [https://www.ece.ntua.gr](https://www.ece.ntua.gr)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ
+ - [https://www.ntua.gr](https://www.ntua.gr)
+ - date_published: 2024-06-22T08:59:38+00:00
+
+ ## Software Engineering Laboratory - N.T.U.A.
+ - [http://www.softlab.ntua.gr](http://www.softlab.ntua.gr)
+ - date_published: 2024-04-28T04:06:23.167761+00:00
+
+ ## Nutricia - Παιδική & Βρεφική διατροφή
+ - [https://www.nutricia.gr](https://www.nutricia.gr)
+ - date_published: 2024-07-08T20:10:05.151554+00:00
+
+ ## Software developers, Web Developers, Home - NXCODE
+ - [https://nxcode.gr](https://nxcode.gr)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## MainPage
+ - [https://okfn.gr](https://okfn.gr)
+ - date_published: 2023-10-31T12:39:27+00:00
+
+ ## Opel Ελλάδας | Νέα αυτοκίνητα | Οχήματα | Προσφορές
+ - [https://www.opel.gr](https://www.opel.gr)
+ - date_published: 2024-07-11T09:38:53+00:00
+
+ ## OpenSky
+ - [https://open-sky.gr](https://open-sky.gr)
+ - date_published: 2021-04-25T08:29:23+00:00
+
+ ## Αρχική Σελίδα - OTS - Έξυπνες πόλεις, Έξυπνη Στάθμευση, Smart Cities
+ - [https://ots.gr](https://ots.gr)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Parallaxi Magazine - To free press περιοδικό της Θεσσαλονίκης
+ - [https://parallaximag.gr](https://parallaximag.gr)
+ - date_published: 2024-06-17T01:45:51.685453+00:00
+
+ ## Παραπολιτικά | Ειδήσεις - Οι ειδήσεις από την Ελλάδα και τον κόσμο
+ - [http://www.parapolitika.gr](http://www.parapolitika.gr)
+ - date_published: 2024-06-25T18:51:46.897777+00:00
+
+ ## Αρχική
+ - [https://parthenonfrieze.gr](https://parthenonfrieze.gr)
+ - date_published: 2024-06-01T04:38:34.132785+00:00
+
+ ## Cierpliwości...
+ - [http://www.patakis.gr](http://www.patakis.gr)
+ - date_published: 2024-06-30T07:08:38.112695+00:00
+
+ ## Pelagus Creative Web - Κατασκευή ιστοσελίδων Drupal
+ - [https://www.pelagus.gr](https://www.pelagus.gr)
+ - date_published: 2024-06-28T21:50:27.908358+00:00
+
+ ## PERI Ελλάς, Μεταλλότυποι και Ικριώματα
+ - [https://www.perihellas.gr](https://www.perihellas.gr)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## POPAGANDA - Η ΖΩΗ ΣΕ ΥΨΗΛΗ ΑΝΑΛΥΣΗ
+ - [https://popaganda.gr](https://popaganda.gr)
+ - date_published: 2024-06-17T01:45:48.883842+00:00
+
+ ## Web Design, e-shops, User Experience Design, Single Page Redesign, User Interface Design, Front-End Development
+ - [https://www.porcupine.gr](https://www.porcupine.gr)
+ - date_published: 2024-05-27T10:55:09+00:00
+
+ ## Poweruser
+ - [https://poweruser.gr](https://poweruser.gr)
+ - date_published: 2024-07-13T13:34:48.154256+00:00
+
+ ## protothemanews.com | Protothema.gr news in english
+ - [https://en.protothema.gr](https://en.protothema.gr)
+ - date_published: 2023-10-25T19:27:36.235371+00:00
+
+ ## Public #1 για είδη τεχνολογίας, ψυχαγωγίας και οικιακές συσκευές!
+ - [http://www.public.gr](http://www.public.gr)
+ - date_published: 2024-06-13T07:56:53+00:00
+
  ## Queen.gr
  - [http://www.queen.gr](http://www.queen.gr)
  - date_published: 2024-06-25T18:51:10+00:00
@@ -991,6 +1219,10 @@
  ## Remix Guide
  - [https://remix.guide](https://remix.guide)
  - date_published: 2024-05-05T00:00:00+00:00
+
+ ## about_this_site [Self Hosting Manual]
+ - [https://self-hosting.guide](https://self-hosting.guide)
+ - date_published: 2024-07-29T23:10:30.519576+00:00
 
  ## Sellers.guide | Powered by Primis
  - [https://sellers.guide](https://sellers.guide)
@@ -3791,236 +4023,4 @@
  ## Generative Voice AI News and Research by PlayHT
  - [https://news.play.ht](https://news.play.ht)
  - date_published: 2023-10-25T19:28:24.482195+00:00
-
- ## AI Voice Generator: Realistic Text to Speech and AI Voiceover
- - [https://play.ht](https://play.ht)
- - date_published: 2024-04-29T03:26:30.700039+00:00
-
- ## The world's open source leader
- - [https://red.ht](https://red.ht)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## builds.sr.ht
- - [https://builds.sr.ht](https://builds.sr.ht)
- - date_published: 2024-05-14T03:32:04.416670+00:00
-
- ## git.sr.ht
- - [https://git.sr.ht](https://git.sr.ht)
- - date_published: 2023-12-31T14:27:47.547611+00:00
-
- ## lists.sr.ht
- - [https://lists.sr.ht](https://lists.sr.ht)
- - date_published: 2023-10-25T19:28:25.248561+00:00
-
- ## sourcehut docs - man.sr.ht
- - [https://man.sr.ht](https://man.sr.ht)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## meta.sr.ht
- - [https://meta.sr.ht](https://meta.sr.ht)
- - date_published: 2024-04-28T03:22:45.307013+00:00
-
- ## Statement regarding the ongoing SourceHut outage
- - [https://outage.sr.ht](https://outage.sr.ht)
- - date_published: 2024-01-12T10:26:28.064983+00:00
-
- ## paste.sr.ht
- - [https://paste.sr.ht](https://paste.sr.ht)
- - date_published: 2024-04-28T06:12:10.734339+00:00
-
- ## sourcehut hub
- - [https://sr.ht](https://sr.ht)
- - date_published: 2023-10-25T19:28:26.035376+00:00
-
- ## todo.sr.ht
- - [https://todo.sr.ht](https://todo.sr.ht)
- - date_published: 2024-05-14T03:32:00.923815+00:00
-
- ## about me
- - [https://thelig.ht](https://thelig.ht)
- - date_published: 2023-10-25T09:21:57.537936+00:00
- - tags: ['personal']
-
- ## Ultralight - Display Web Content Everywhere
- - [https://ultralig.ht](https://ultralig.ht)
- - date_published: 2024-04-28T05:58:49.971085+00:00
-
- ## zz.ht
- - [https://zz.ht](https://zz.ht)
- - date_published: 2024-06-23T17:52:40.778592+00:00
-
- ## Decathlon webáruház - 75 sport egy helyen
- - [http://www.decathlon.co.hu](http://www.decathlon.co.hu)
- - date_published: 2024-06-15T20:09:42.394640+00:00
-
- ## EF Education First | Magyarország
- - [https://www.ef.co.hu](https://www.ef.co.hu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## 20Y
- - [https://20y.hu](https://20y.hu)
- - date_published: 2024-02-22T13:05:20.229433+00:00
-
- ## 220volt.hu - fényképezőgépek és tartozékok áruháza
- - [http://www.220volt.hu](http://www.220volt.hu)
- - date_published: 2024-07-13T13:39:05+00:00
-
- ## PlayIT Store - Videójáték webáruház
- - [https://576kb.hu](https://576kb.hu)
- - date_published: 2024-06-15T03:29:48+00:00
-
- ## Abarth Magyarország
- - [https://www.abarth.hu](https://www.abarth.hu)
- - date_published: 2024-07-10T18:05:32+00:00
-
- ## ACE Telecom | Egyszerűen csak működik
- - [https://acetelecom.hu](https://acetelecom.hu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Adózóna - Adó, könyvelés, társadalombiztosítás, munkajog és cégjog egy helyen - jogszabályok, törvénymagyarázatok, kérdések és válaszok, kalkulátorok
- - [https://adozona.hu](https://adozona.hu)
- - date_published: 2024-05-13T03:08:40.744715+00:00
-
- ## Ads Interactive Media Group - a Google Certified Partner
- - [https://adsinteractive.hu](https://adsinteractive.hu)
- - date_published: 2024-06-25T21:30:33.204114+00:00
-
- ## Home
- - [https://advancedweb.hu](https://advancedweb.hu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Airbnb | Nyaralók, víkendházak, strandközeli házak és egyebek
- - [https://airbnb.hu](https://airbnb.hu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Akadémiai Kiadó
- - [https://akademiai.hu](https://akademiai.hu)
- - date_published: 2024-05-09T06:32:24.559810+00:00
-
- ## Redirecting...
- - [https://web.akademiai.hu](https://web.akademiai.hu)
- - date_published: 2024-05-09T06:32:19.593235+00:00
-
- ## Sportautó, SUV és crossover | Alfa Romeo
- - [https://www.alfaromeo.hu](https://www.alfaromeo.hu)
- - date_published: 2024-06-18T09:40:28+00:00
-
- ## Ambrits Tamás – fotógalériája
- - [https://www.ambrits.hu](https://www.ambrits.hu)
- - date_published: 2024-06-20T04:58:14.691009+00:00
-
- ## amiga.hu
- - [http://amiga.hu](http://amiga.hu)
- - date_published: 2024-07-08T19:30:11+00:00
-
- ## Apróhirdetés
- - [http://apro.amiga.hu](http://apro.amiga.hu)
- - date_published: 2024-07-08T19:12:21.304941+00:00
-
- ## Index of /
- - [http://amigamania.amigaspirit.hu](http://amigamania.amigaspirit.hu)
- - date_published: 2024-07-08T19:13:27.177922+00:00
- - tags: ['amiga mania']
-
- ## Index of /
- - [http://dh1.amigaspirit.hu](http://dh1.amigaspirit.hu)
- - date_published: 2024-07-08T19:38:36.920187+00:00
-
- ## amigaspirit.hu fórum
- - [http://forum.amigaspirit.hu](http://forum.amigaspirit.hu)
- - date_published: 2024-07-08T19:13:17.613118+00:00
-
- ## Amiga Klub – amigaspirit.hu - pegasos.hu Wiki
- - [http://klub.amigaspirit.hu](http://klub.amigaspirit.hu)
- - date_published: 2022-03-07T02:38:01+00:00
-
- ## amigaspirit.hu - pegasos.hu Wiki
- - [http://wiki.amigaspirit.hu](http://wiki.amigaspirit.hu)
- - date_published: 2022-03-07T02:38:01+00:00
-
- ## amigaspirit.hu
- - [http://amigaspirit.hu](http://amigaspirit.hu)
- - date_published: 2023-12-11T18:55:28.039900+00:00
- - tags: ['amiga']
-
- ## AmigaVilag.hu | AmigaVilag.hu | Internetes blog. Magyar elektro art portál!
- - [http://www.amigavilag.hu](http://www.amigavilag.hu)
- - date_published: 2024-07-08T19:38:09.982125+00:00
-
- ## Apowersoft - Multimédiás megoldások üzleti és mindennapi igényekre fejlesztve
- - [https://www.apowersoft.hu](https://www.apowersoft.hu)
- - date_published: 2024-06-23T16:06:03.364245+00:00
-
- ## AQUA Webáruház - Számíthatsz ránk!
- - [https://www.aqua.hu](https://www.aqua.hu)
- - date_published: 2024-06-17T05:43:14.297494+00:00
-
- ## Maintenance
- - [https://asvanytan.hu](https://asvanytan.hu)
- - date_published: 2023-08-16T12:46:04+00:00
-
- ## ATLAS FOR MEN - A kültéri ruházat és kiegészítők szakértője
- - [https://www.atlasformen.hu](https://www.atlasformen.hu)
- - date_published: 2024-05-29T10:08:22.409083+00:00
-
- ## Webtárhely, VPS, Domain, Szerver hosting • ATW.hu
- - [https://atw.hu](https://atw.hu)
- - date_published: 2024-06-06T11:48:04.723578+00:00
- - tags: ['vps', 'server hosting']
-
- ## Wolfenstein 3D HTML5
- - [http://wolf3d.atw.hu](http://wolf3d.atw.hu)
- - date_published: 2024-06-21T12:49:30+00:00
-
- ## Auchan Online
- - [https://www.auchan.hu](https://www.auchan.hu)
- - date_published: 2024-06-15T03:33:53.605185+00:00
-
- ## AUDI Magyarország
- - [https://wwww.audi.hu](https://wwww.audi.hu)
- - date_published: 2024-07-19T22:47:51.408780+00:00
-
- ## Index of /
- - [http://www.autobild.hu](http://www.autobild.hu)
- - date_published: 2024-07-24T22:35:22.443674+00:00
-
- ## autoDNA Partneri Program
- - [https://afilio.autodna.hu](https://afilio.autodna.hu)
- - date_published: 2024-07-13T19:19:56.385008+00:00
-
- ## autoDNA ügyfélszolgálat
- - [https://support.autodna.hu](https://support.autodna.hu)
- - date_published: 2024-07-13T19:19:22.282521+00:00
-
- ## Ismerje meg az autoDNA szolgáltatást
- - [https://autodna.hu](https://autodna.hu)
- - date_published: 2024-05-11T08:19:39.420356+00:00
-
- ## The Golden Road to Avonlea - fanpage for RTA fans
- - [http://avonlea.hu](http://avonlea.hu)
- - date_published: 2024-06-18T21:38:52.302290+00:00
-
- ## Balaton Piknik 2024
- - [https://balatonpiknik.hu](https://balatonpiknik.hu)
- - date_published: 2024-05-08T00:39:49.216287+00:00
-
- ## IU Webmaster redirect
- - [https://balintreczey.hu](https://balintreczey.hu)
- - date_published: 2022-11-10T09:17:11+00:00
-
- ## BAMA - Baranya vármegyei hírportál
- - [http://bama.hu](http://bama.hu)
- - date_published: 2024-06-01T05:14:17.650923+00:00
-
- ## Bankmonitor
- - [https://bankmonitor.hu](https://bankmonitor.hu)
- - date_published: 2024-05-13T03:09:52.565726+00:00
-
- ## Barba Negra
- - [https://www.barbanegra.hu](https://www.barbanegra.hu)
- - date_published: 2024-07-20T14:52:00.121304+00:00
-
- ## Danubius Média
- - [https://bdpstrock.hu](https://bdpstrock.hu)
- - date_published: 2024-07-18T20:26:41+00:00
 

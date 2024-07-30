@@ -1,3 +1,235 @@
+ ## AI Voice Generator: Realistic Text to Speech and AI Voiceover
+ - [https://play.ht](https://play.ht)
+ - date_published: 2024-04-29T03:26:30.700039+00:00
+
+ ## The world's open source leader
+ - [https://red.ht](https://red.ht)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## builds.sr.ht
+ - [https://builds.sr.ht](https://builds.sr.ht)
+ - date_published: 2024-05-14T03:32:04.416670+00:00
+
+ ## git.sr.ht
+ - [https://git.sr.ht](https://git.sr.ht)
+ - date_published: 2023-12-31T14:27:47.547611+00:00
+
+ ## lists.sr.ht
+ - [https://lists.sr.ht](https://lists.sr.ht)
+ - date_published: 2023-10-25T19:28:25.248561+00:00
+
+ ## sourcehut docs - man.sr.ht
+ - [https://man.sr.ht](https://man.sr.ht)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## meta.sr.ht
+ - [https://meta.sr.ht](https://meta.sr.ht)
+ - date_published: 2024-04-28T03:22:45.307013+00:00
+
+ ## Statement regarding the ongoing SourceHut outage
+ - [https://outage.sr.ht](https://outage.sr.ht)
+ - date_published: 2024-01-12T10:26:28.064983+00:00
+
+ ## paste.sr.ht
+ - [https://paste.sr.ht](https://paste.sr.ht)
+ - date_published: 2024-04-28T06:12:10.734339+00:00
+
+ ## sourcehut hub
+ - [https://sr.ht](https://sr.ht)
+ - date_published: 2023-10-25T19:28:26.035376+00:00
+
+ ## todo.sr.ht
+ - [https://todo.sr.ht](https://todo.sr.ht)
+ - date_published: 2024-05-14T03:32:00.923815+00:00
+
+ ## about me
+ - [https://thelig.ht](https://thelig.ht)
+ - date_published: 2023-10-25T09:21:57.537936+00:00
+ - tags: ['personal']
+
+ ## Ultralight - Display Web Content Everywhere
+ - [https://ultralig.ht](https://ultralig.ht)
+ - date_published: 2024-04-28T05:58:49.971085+00:00
+
+ ## zz.ht
+ - [https://zz.ht](https://zz.ht)
+ - date_published: 2024-06-23T17:52:40.778592+00:00
+
+ ## Decathlon webáruház - 75 sport egy helyen
+ - [http://www.decathlon.co.hu](http://www.decathlon.co.hu)
+ - date_published: 2024-06-15T20:09:42.394640+00:00
+
+ ## EF Education First | Magyarország
+ - [https://www.ef.co.hu](https://www.ef.co.hu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## 20Y
+ - [https://20y.hu](https://20y.hu)
+ - date_published: 2024-02-22T13:05:20.229433+00:00
+
+ ## 220volt.hu - fényképezőgépek és tartozékok áruháza
+ - [http://www.220volt.hu](http://www.220volt.hu)
+ - date_published: 2024-07-13T13:39:05+00:00
+
+ ## PlayIT Store - Videójáték webáruház
+ - [https://576kb.hu](https://576kb.hu)
+ - date_published: 2024-06-15T03:29:48+00:00
+
+ ## Abarth Magyarország
+ - [https://www.abarth.hu](https://www.abarth.hu)
+ - date_published: 2024-07-10T18:05:32+00:00
+
+ ## ACE Telecom | Egyszerűen csak működik
+ - [https://acetelecom.hu](https://acetelecom.hu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Adózóna - Adó, könyvelés, társadalombiztosítás, munkajog és cégjog egy helyen - jogszabályok, törvénymagyarázatok, kérdések és válaszok, kalkulátorok
+ - [https://adozona.hu](https://adozona.hu)
+ - date_published: 2024-05-13T03:08:40.744715+00:00
+
+ ## Ads Interactive Media Group - a Google Certified Partner
+ - [https://adsinteractive.hu](https://adsinteractive.hu)
+ - date_published: 2024-06-25T21:30:33.204114+00:00
+
+ ## Home
+ - [https://advancedweb.hu](https://advancedweb.hu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Airbnb | Nyaralók, víkendházak, strandközeli házak és egyebek
+ - [https://airbnb.hu](https://airbnb.hu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Akadémiai Kiadó
+ - [https://akademiai.hu](https://akademiai.hu)
+ - date_published: 2024-05-09T06:32:24.559810+00:00
+
+ ## Redirecting...
+ - [https://web.akademiai.hu](https://web.akademiai.hu)
+ - date_published: 2024-05-09T06:32:19.593235+00:00
+
+ ## Sportautó, SUV és crossover | Alfa Romeo
+ - [https://www.alfaromeo.hu](https://www.alfaromeo.hu)
+ - date_published: 2024-06-18T09:40:28+00:00
+
+ ## Ambrits Tamás – fotógalériája
+ - [https://www.ambrits.hu](https://www.ambrits.hu)
+ - date_published: 2024-06-20T04:58:14.691009+00:00
+
+ ## amiga.hu
+ - [http://amiga.hu](http://amiga.hu)
+ - date_published: 2024-07-08T19:30:11+00:00
+
+ ## Apróhirdetés
+ - [http://apro.amiga.hu](http://apro.amiga.hu)
+ - date_published: 2024-07-08T19:12:21.304941+00:00
+
+ ## Index of /
+ - [http://amigamania.amigaspirit.hu](http://amigamania.amigaspirit.hu)
+ - date_published: 2024-07-08T19:13:27.177922+00:00
+ - tags: ['amiga mania']
+
+ ## Index of /
+ - [http://dh1.amigaspirit.hu](http://dh1.amigaspirit.hu)
+ - date_published: 2024-07-08T19:38:36.920187+00:00
+
+ ## amigaspirit.hu fórum
+ - [http://forum.amigaspirit.hu](http://forum.amigaspirit.hu)
+ - date_published: 2024-07-08T19:13:17.613118+00:00
+
+ ## Amiga Klub – amigaspirit.hu - pegasos.hu Wiki
+ - [http://klub.amigaspirit.hu](http://klub.amigaspirit.hu)
+ - date_published: 2022-03-07T02:38:01+00:00
+
+ ## amigaspirit.hu - pegasos.hu Wiki
+ - [http://wiki.amigaspirit.hu](http://wiki.amigaspirit.hu)
+ - date_published: 2022-03-07T02:38:01+00:00
+
+ ## amigaspirit.hu
+ - [http://amigaspirit.hu](http://amigaspirit.hu)
+ - date_published: 2023-12-11T18:55:28.039900+00:00
+ - tags: ['amiga']
+
+ ## AmigaVilag.hu | AmigaVilag.hu | Internetes blog. Magyar elektro art portál!
+ - [http://www.amigavilag.hu](http://www.amigavilag.hu)
+ - date_published: 2024-07-08T19:38:09.982125+00:00
+
+ ## Apowersoft - Multimédiás megoldások üzleti és mindennapi igényekre fejlesztve
+ - [https://www.apowersoft.hu](https://www.apowersoft.hu)
+ - date_published: 2024-06-23T16:06:03.364245+00:00
+
+ ## AQUA Webáruház - Számíthatsz ránk!
+ - [https://www.aqua.hu](https://www.aqua.hu)
+ - date_published: 2024-06-17T05:43:14.297494+00:00
+
+ ## Maintenance
+ - [https://asvanytan.hu](https://asvanytan.hu)
+ - date_published: 2023-08-16T12:46:04+00:00
+
+ ## ATLAS FOR MEN - A kültéri ruházat és kiegészítők szakértője
+ - [https://www.atlasformen.hu](https://www.atlasformen.hu)
+ - date_published: 2024-05-29T10:08:22.409083+00:00
+
+ ## Webtárhely, VPS, Domain, Szerver hosting • ATW.hu
+ - [https://atw.hu](https://atw.hu)
+ - date_published: 2024-06-06T11:48:04.723578+00:00
+ - tags: ['vps', 'server hosting']
+
+ ## Wolfenstein 3D HTML5
+ - [http://wolf3d.atw.hu](http://wolf3d.atw.hu)
+ - date_published: 2024-06-21T12:49:30+00:00
+
+ ## Auchan Online
+ - [https://www.auchan.hu](https://www.auchan.hu)
+ - date_published: 2024-06-15T03:33:53.605185+00:00
+
+ ## AUDI Magyarország
+ - [https://wwww.audi.hu](https://wwww.audi.hu)
+ - date_published: 2024-07-19T22:47:51.408780+00:00
+
+ ## Index of /
+ - [http://www.autobild.hu](http://www.autobild.hu)
+ - date_published: 2024-07-24T22:35:22.443674+00:00
+
+ ## autoDNA Partneri Program
+ - [https://afilio.autodna.hu](https://afilio.autodna.hu)
+ - date_published: 2024-07-13T19:19:56.385008+00:00
+
+ ## autoDNA ügyfélszolgálat
+ - [https://support.autodna.hu](https://support.autodna.hu)
+ - date_published: 2024-07-13T19:19:22.282521+00:00
+
+ ## Ismerje meg az autoDNA szolgáltatást
+ - [https://autodna.hu](https://autodna.hu)
+ - date_published: 2024-05-11T08:19:39.420356+00:00
+
+ ## The Golden Road to Avonlea - fanpage for RTA fans
+ - [http://avonlea.hu](http://avonlea.hu)
+ - date_published: 2024-06-18T21:38:52.302290+00:00
+
+ ## Balaton Piknik 2024
+ - [https://balatonpiknik.hu](https://balatonpiknik.hu)
+ - date_published: 2024-05-08T00:39:49.216287+00:00
+
+ ## IU Webmaster redirect
+ - [https://balintreczey.hu](https://balintreczey.hu)
+ - date_published: 2022-11-10T09:17:11+00:00
+
+ ## BAMA - Baranya vármegyei hírportál
+ - [http://bama.hu](http://bama.hu)
+ - date_published: 2024-06-01T05:14:17.650923+00:00
+
+ ## Bankmonitor
+ - [https://bankmonitor.hu](https://bankmonitor.hu)
+ - date_published: 2024-05-13T03:09:52.565726+00:00
+
+ ## Barba Negra
+ - [https://www.barbanegra.hu](https://www.barbanegra.hu)
+ - date_published: 2024-07-20T14:52:00.121304+00:00
+
+ ## Danubius Média
+ - [https://bdpstrock.hu](https://bdpstrock.hu)
+ - date_published: 2024-07-18T20:26:41+00:00
+
  ## https://www.benyovszky.hu
  - [https://www.benyovszky.hu](https://www.benyovszky.hu)
  - date_published: 2024-02-08T17:57:51.449601+00:00
@@ -3682,6 +3914,10 @@
  - [http://www.greatplacetowork.ie](http://www.greatplacetowork.ie)
  - date_published: 2024-06-12T10:42:18.175682+00:00
 
+ ## Geological Survey Ireland
+ - [https://www.gsi.ie](https://www.gsi.ie)
+ - date_published: 2024-07-29T00:00:00+00:00
+
  ## Brain and Computation Lab, Hamilton Institute, National University of Ireland Maynooth
  - [http://www.bcl.hamilton.ie](http://www.bcl.hamilton.ie)
  - date_published: 2015-10-30T08:50:26+00:00
@@ -3782,236 +4018,4 @@
  ## Independent.ie
  - [https://www.independent.ie](https://www.independent.ie)
  - date_published: 2023-10-25T19:29:09.791542+00:00
-
- ## Home | Interactive Brokers Ireland
- - [https://www.interactivebrokers.ie](https://www.interactivebrokers.ie)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Interflora | Flower Delivery | Order Flowers Online
- - [https://www.interflora.ie](https://www.interflora.ie)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## The Iona Institute
- - [https://ionainstitute.ie](https://ionainstitute.ie)
- - date_published: 2023-10-25T19:29:12.803143+00:00
-
- ## IPA - Institute of Public Administration
- - [http://www.ipa.ie](http://www.ipa.ie)
- - date_published: 2024-06-20T21:31:41.717673+00:00
-
- ## Home
- - [https://www.irishacademicpress.ie](https://www.irishacademicpress.ie)
- - date_published: 2024-07-22T04:53:21.487611+00:00
-
- ## The Irish Economy
- - [http://www.irisheconomy.ie](http://www.irisheconomy.ie)
- - date_published: 2024-07-03T22:08:17.651642+00:00
-
- ## Ireland's Best Discount Codes &amp; Vouchers - June 2024
- - [https://discountcode.irishmirror.ie](https://discountcode.irishmirror.ie)
- - date_published: 2024-06-18T09:06:38.530593+00:00
-
- ## Irish Mirror: the latest news, showbiz, football and sport
- - [https://www.irishmirror.ie](https://www.irishmirror.ie)
- - date_published: 2024-05-02T12:09:31.365440+00:00
-
- ## Irish Statute Book
- - [https://www.irishstatutebook.ie](https://www.irishstatutebook.ie)
- - date_published: 2024-05-12T05:53:13.116265+00:00
-
- ## Iris Oifigiúil - Irish State News, featuring statutory announcments, public notices & official appointments.
- - [http://www.irisoifigiuil.ie](http://www.irisoifigiuil.ie)
- - date_published: 2024-07-15T09:31:35+00:00
-
- ## ISR
- - [https://www.isr.ie](https://www.isr.ie)
- - date_published: 2024-06-21T14:24:37+00:00
-
- ## Homepage - ITAA
- - [http://itaa.ie](http://itaa.ie)
- - date_published: 2024-07-15T04:53:08.124250+00:00
-
- ## Irish Universities Association | The Voice of Irish Universities
- - [https://www.iua.ie](https://www.iua.ie)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## iWish
- - [http://www.iwish.ie](http://www.iwish.ie)
- - date_published: 2024-06-20T21:30:27.816964+00:00
-
- ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.ie](https://www.jack-wolfskin.ie)
- - date_published: 2024-07-14T12:15:36.465736+00:00
-
- ## ITJamie - ramblings and stuff
- - [https://jam.ie](https://jam.ie)
- - date_published: 2021-06-20T00:00:00+00:00
-
- ## home - Jeep Ireland
- - [https://www.jeep.ie](https://www.jeep.ie)
- - date_published: 2015-07-12T14:50:38+00:00
-
- ## Justin's Linklog
- - [https://jmason.ie](https://jmason.ie)
- - date_published: 2024-07-09T07:02:09.698939+00:00
-
- ## Homepage
- - [https://www.joe.ie](https://www.joe.ie)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Tí Joe Wattys Bar & Seafood Restaurant | Aran Islands | Galway, Ireland
- - [https://www.joewattys.ie](https://www.joewattys.ie)
- - date_published: 2024-06-22T20:08:21.436412+00:00
-
- ## Johnnie Ingram
- - [https://johnn.ie](https://johnn.ie)
- - date_published: 2024-03-18T17:14:55+00:00
-
- ## Kathie Wu | Design & Front End Engineer
- - [https://kath.ie](https://kath.ie)
- - date_published: 2024-07-13T04:15:31.244059+00:00
-
- ## Kaylie Adams – Hello I am Kaylie Adams
- - [https://kayl.ie](https://kayl.ie)
- - date_published: 2024-07-13T04:26:44.661346+00:00
-
- ## Buy Books Online, Kennys Bookshop Ireland
- - [https://www.kennys.ie](https://www.kennys.ie)
- - date_published: 2024-06-21T12:55:06+00:00
-
- ## Kildare Nationalist
- - [https://kildare-nationalist.ie](https://kildare-nationalist.ie)
- - date_published: 2024-06-15T18:52:46.617991+00:00
-
- ## Web Design Kooba | Digital Agency | Dublin & Berlin
- - [https://www.kooba.ie](https://www.kooba.ie)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover Ireland
- - [https://www.landrover.ie](https://www.landrover.ie)
- - date_published: 2024-07-09T17:13:53.695257+00:00
-
- ## Laptops Direct - Laptops | PCs | Monitors | Tablets | Phones
- - [https://www.laptopsdirect.ie](https://www.laptopsdirect.ie)
- - date_published: 2024-07-04T03:11:59.580764+00:00
-
- ## Laurie Denness - laur.ie
- - [https://laur.ie](https://laur.ie)
- - date_published: 2024-07-13T04:14:51.995051+00:00
-
- ## Revised Acts
- - [https://revisedacts.lawreform.ie](https://revisedacts.lawreform.ie)
- - date_published: 2024-06-22T13:04:25.023151+00:00
-
- ## Welcome to the Law Reform Commission of Ireland
- - [http://www.lawreform.ie](http://www.lawreform.ie)
- - date_published: 2024-07-15T09:56:25.158119+00:00
-
- ## Home - LCi Lean Construction Ireland
- - [https://leanconstructionireland.ie](https://leanconstructionireland.ie)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Irish Left Archive Podcast (@ILAPodcast) • Activity
- - [https://podcast.leftarchive.ie](https://podcast.leftarchive.ie)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Homepage
- - [https://posts.leftarchive.ie](https://posts.leftarchive.ie)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Umami
- - [https://u.leftarchive.ie](https://u.leftarchive.ie)
- - date_published: 2024-07-18T05:33:57.055357+00:00
-
- ## Irish Left Archive
- - [https://www.leftarchive.ie](https://www.leftarchive.ie)
- - date_published: 2024-07-18T05:33:56+00:00
-
- ## Handcrafted Irish Design | The Leitrim Design House
- - [https://leitrimdesignhouse.ie](https://leitrimdesignhouse.ie)
- - date_published: 2024-07-10T08:10:53.781506+00:00
-
- ## Welcome to Leonie Mc Meel website
- - [https://leon.ie](https://leon.ie)
- - date_published: 2014-09-22T10:00:09+00:00
-
- ## Lero | Science Foundation Ireland Research Centre for Software
- - [http://lero.ie](http://lero.ie)
- - date_published: 2024-07-20T12:47:22+00:00
-
- ## Local Government Management Agency
- - [https://lgma.ie](https://lgma.ie)
- - date_published: 2024-06-20T21:31:23.311771+00:00
-
- ## Library Association Of Ireland – Representing libraries and librarianship in Ireland
- - [https://www.libraryassociation.ie](https://www.libraryassociation.ie)
- - date_published: 2024-01-09T03:31:54.503255+00:00
-
- ## ILAS
- - [https://www.licences.ie](https://www.licences.ie)
- - date_published: 2015-12-07T09:50:59+00:00
-
- ## Supermarkets - Special Offers, Super Savers & More - Lidl Ireland - www.lidl.ie
- - [https://www.lidl.ie](https://www.lidl.ie)
- - date_published: 2024-06-25T19:02:48.333934+00:00
-
- ## Front Page | Film in Limerick
- - [https://film.limerick.ie](https://film.limerick.ie)
- - date_published: 2024-07-01T08:31:54+00:00
-
- ## Welcome | Mount Saint Lawrence Cemetery
- - [http://mountsaintlawrence.limerick.ie](http://mountsaintlawrence.limerick.ie)
- - date_published: 2024-07-01T08:31:49.723373+00:00
-
- ## This is Limerick
- - [https://limerick.ie](https://limerick.ie)
- - date_published: 2024-05-07T18:49:17.139109+00:00
-
- ## Limerick Lace – The Past, the Present and the Future of Limerick lace
- - [http://limericklace.ie](http://limericklace.ie)
- - date_published: 2024-07-10T08:10:49.158239+00:00
-
- ## Limerick Local Studies – Preserving and Showcasing the Story of Limerick
- - [https://www.limericklocalstudies.ie](https://www.limericklocalstudies.ie)
- - date_published: 2024-07-01T08:31:52.621869+00:00
-
- ## Listowel Garden Centre
- - [http://listowelgardencentre.ie](http://listowelgardencentre.ie)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## LocalGov
- - [https://www.localgov.ie](https://www.localgov.ie)
- - date_published: 2023-02-23T09:20:32+00:00
-
- ## Local Government Jobs
- - [https://localgovernmentjobs.ie](https://localgovernmentjobs.ie)
- - date_published: 2024-06-20T21:31:58.874679+00:00
-
- ## Local Green Fees- Ireland's definitive green fee directory
- - [https://www.localgreenfees.ie](https://www.localgreenfees.ie)
- - date_published: 2024-07-12T17:59:34.071847+00:00
-
- ## Bunachar Logainmneacha na hÉireann
- - [http://logainm.ie](http://logainm.ie)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Meitheal Logainm.ie
- - [http://meitheal.logainm.ie](http://meitheal.logainm.ie)
- - date_published: 2018-02-06T00:00:00+00:00
-
- ## L'OmBré - Hair, Beauty & Laser
- - [http://www.lombre.ie](http://www.lombre.ie)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Look Alive / Cían Flynn
- - [https://lookalive.ie](https://lookalive.ie)
- - date_published: 2024-07-10T08:10:43.145152+00:00
-
- ## Home - Lovin.ie
- - [https://lovin.ie](https://lovin.ie)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## LUCAN PRESBYTERIAN CHURCH
- - [http://www.lpc.ie](http://www.lpc.ie)
- - date_published: 2024-07-13T19:41:23.511312+00:00
 

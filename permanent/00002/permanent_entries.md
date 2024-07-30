@@ -1,3 +1,7 @@
+ ## Center for AI Safety (CAIS)
+ - [https://safe.ai](https://safe.ai)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Sakana AI
  - [https://sakana.ai](https://sakana.ai)
  - date_published: 2024-06-13T06:40:32.283220+00:00
@@ -4024,8 +4028,4 @@ Creative Solutions
  ## Home | db8bot
  - [https://db8bot.app](https://db8bot.app)
  - date_published: 2024-07-14T10:17:23.066477+00:00
-
- ## DB-Views - Low-Code Cloud Database Frontend
- - [https://web.db-views.app](https://web.db-views.app)
- - date_published: 2023-07-23T00:00:00+00:00
 

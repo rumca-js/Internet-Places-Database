@@ -1,3 +1,216 @@
+ ## Virus Help Denmark - Amiga antivirus
+ - [http://vht-dk.dk](http://vht-dk.dk)
+ - date_published: 2021-09-23T07:52:20+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.dk](https://www.viagogo.dk)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.dk](https://www.victronenergy.dk)
+ - date_published: 2024-06-21T18:32:26+00:00
+
+ ## Nyheder om forskning og videnskab
+ - [https://videnskab.dk](https://videnskab.dk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Libre.vin – [Vin først, så natur]
+ - [https://www.vinhacker.dk](https://www.vinhacker.dk)
+ - date_published: 2024-01-22T18:19:36.906668+00:00
+
+ ## Virk
+ - [https://post.virk.dk](https://post.virk.dk)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Visa, en af de pålidelige ledere inden for digitale betalinger
+ - [https://visa.dk](https://visa.dk)
+ - date_published: 2024-05-12T03:59:08.726730+00:00
+
+ ## Hjemmeværnet
+ - [https://vistillerop.dk](https://vistillerop.dk)
+ - date_published: 2024-07-22T10:05:39.186989+00:00
+
+ ## Warner Bros. Discovery Danmarks presseside
+ - [https://presse.warnerbrosdiscovery.dk](https://presse.warnerbrosdiscovery.dk)
+ - date_published: 2024-06-29T15:37:55.239798+00:00
+
+ ## Watch Medier
+ - [https://watchmedier.dk](https://watchmedier.dk)
+ - date_published: 2024-07-22T17:53:48.310013+00:00
+
+ ## Gaming udstyr - Det bedste gaming udstyr hos WEBdanes
+ - [http://webdanes.dk](http://webdanes.dk)
+ - date_published: 2024-07-13T13:45:03.004862+00:00
+
+ ## Den Nationale Whistleblowerordning
+ - [https://whistleblower.dk](https://whistleblower.dk)
+ - date_published: 2024-04-30T02:34:31.241884+00:00
+
+ ## WISMO shop | Reservér din nye bil online
+ - [https://shop.wismo.dk](https://shop.wismo.dk)
+ - date_published: 2024-01-24T12:29:43+00:00
+
+ ## WISMO GØR DIT BILKØB NEMMERE | WISE MOBILITY
+ - [https://wismo.dk](https://wismo.dk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## WITTENSTEIN Danmark
+ - [https://www.wittenstein.dk](https://www.wittenstein.dk)
+ - date_published: 2024-07-15T04:10:00.685323+00:00
+
+ ## WODEN Sko • Køb WODEN Sneakers Online Her | WODEN
+ - [https://woden.dk](https://woden.dk)
+ - date_published: 2024-06-25T16:49:56.438875+00:00
+
+ ## Start - WWF’s Fiskeguide
+ - [https://fiskeguiden.wwf.dk](https://fiskeguiden.wwf.dk)
+ - date_published: 2024-07-03T02:29:38.493651+00:00
+
+ ## WWF Verdensnaturfondens Webshop | Bamser, tøj og meget mere.
+ - [https://shop.wwf.dk](https://shop.wwf.dk)
+ - date_published: 2024-07-03T02:29:52.061714+00:00
+
+ ## WWF Danmark | Verdens største uafhængige naturorganisation
+ - [https://wwf.dk](https://wwf.dk)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Velkommen til XL-BYG
+ - [https://www.xl-byg.dk](https://www.xl-byg.dk)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Yelp
+ - [https://m.yelp.dk](https://m.yelp.dk)
+ - date_published: 2024-07-01T07:10:15.733633+00:00
+
+ ## Yelp
+ - [https://yelp.dk](https://yelp.dk)
+ - date_published: 2024-07-01T07:05:54.417756+00:00
+
+ ## YouSee: Internet, tv og mobil
+ - [https://yousee.dk](https://yousee.dk)
+ - date_published: 2024-06-25T22:17:40.507111+00:00
+
+ ## Zetland
+ - [https://www.zetland.dk](https://www.zetland.dk)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.dk](https://www2.zoetis.dk)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## Hundefoder, kattemad & tilbehør til kæledyr billigt på zooplus.dk
+ - [https://www.zooplus.dk](https://www.zooplus.dk)
+ - date_published: 2024-06-16T06:27:51.930219+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.dm](https://maps.google.dm)
+ - date_published: 2024-07-20T07:38:31.393847+00:00
+
+ ## Google
+ - [https://www.google.dm](https://www.google.dm)
+ - date_published: 2024-06-21T22:25:25.232720+00:00
+
+ ## me.dm by Medium.com
+ - [https://me.dm](https://me.dm)
+ - date_published: 2024-05-01T05:42:33.983359+00:00
+
+ ## Audi República Dominicana | Vive el futuro de la movilidad premium
+ - [https://www.audi.com.do](https://www.audi.com.do)
+ - date_published: 2024-07-19T20:44:16+00:00
+
+ ## Chrysler
+ - [http://www.chrysler.com.do](http://www.chrysler.com.do)
+ - date_published: 2024-06-19T09:09:17.891723+00:00
+
+ ## Citroën República Dominicana: Automóviles Nuevos. Post Venta
+ - [https://www.citroen.com.do](https://www.citroen.com.do)
+ - date_published: 2023-12-11T16:03:59.081023+00:00
+
+ ## Dodge República Dominicana
+ - [https://www.dodge.com.do](https://www.dodge.com.do)
+ - date_published: 2024-06-19T08:57:01.835027+00:00
+
+ ## ESPN República Dominicana - Lo Último del Mundo Deportivo
+ - [https://www.espn.com.do](https://www.espn.com.do)
+ - date_published: 2024-05-02T09:41:26.565027+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.do](https://images.google.com.do)
+ - date_published: 2024-07-20T07:38:33.741901+00:00
+
+ ## Google
+ - [https://www.google.com.do](https://www.google.com.do)
+ - date_published: 2024-06-21T22:24:04.304136+00:00
+
+ ## IKEA Santo Domingo - Tienda online de muebles y decoración
+ - [https://www.ikea.com.do](https://www.ikea.com.do)
+ - date_published: 2024-07-19T23:50:51.984396+00:00
+
+ ## Mercado Libre República Dominicana - Envíos Gratis en el día
+ - [https://www.mercadolibre.com.do](https://www.mercadolibre.com.do)
+ - date_published: 2024-06-16T12:56:27.897435+00:00
+
+ ## Open... Operaciones y Entrenamiento
+ - [https://open.com.do](https://open.com.do)
+ - date_published: 2022-09-24T02:22:05+00:00
+
+ ## Camionetas RAM | Es temporada de Ram
+ - [http://www.ramtrucks.com.do](http://www.ramtrucks.com.do)
+ - date_published: 2024-06-19T09:10:50.902665+00:00
+
+ ## SANTILLANA
+ - [https://santillana.com.do](https://santillana.com.do)
+ - date_published: 2024-06-12T13:05:26.096169+00:00
+
+ ## Visa, un líder confiable en pagos digitales
+ - [https://visa.com.do](https://visa.com.do)
+ - date_published: 2024-05-12T04:00:04.501872+00:00
+
+ ## home
+ - [https://www.alfaromeo.do](https://www.alfaromeo.do)
+ - date_published: 2024-05-28T10:27:42+00:00
+
+ ## Alfredo Lopez
+ - [https://alfre.do](https://alfre.do)
+ - date_published: 2024-07-13T04:18:06.196261+00:00
+
+ ## A simple to do list for you and your team
+ - [https://any.do](https://any.do)
+ - date_published: 2024-06-16T09:30:40.564146+00:00
+
+ ## Organize your life and manage your team's work with Any.do
+ - [https://app.any.do](https://app.any.do)
+ - date_published: 2024-06-13T12:34:07+00:00
+
+ ## Any.do Help Center
+ - [https://support.any.do](https://support.any.do)
+ - date_published: 2024-05-01T06:43:05.474582+00:00
+
+ ## Organize your life and manage your team's work with Any.do
+ - [https://web.any.do](https://web.any.do)
+ - date_published: 2024-05-01T06:18:26.769621+00:00
+
+ ## Armand Cognetta
+ - [https://arman.do](https://arman.do)
+ - date_published: 2023-11-29T15:51:37.182223+00:00
+ - tags: ['personal']
+
+ ## Vim | Armand B. Cognetta III | Substack
+ - [https://writing.arman.do](https://writing.arman.do)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## bernar.do
+ - [https://bernar.do](https://bernar.do)
+ - date_published: 2024-07-13T04:14:57.211547+00:00
+
+ ## Blardo's Braindump
+ - [https://blar.do](https://blar.do)
+ - date_published: 2023-12-20T22:45:30.871318+00:00
+
+ ## Brick: Homepage
+ - [https://brick.do](https://brick.do)
+ - date_published: 2024-04-30T02:48:01.765172+00:00
+
  ## Help
  - [https://help.brick.do](https://help.brick.do)
  - date_published: 2024-07-22T09:26:52.495321+00:00
@@ -3794,216 +4007,4 @@
  ## UC Berkeley - Department of Philosophy
  - [http://philosophy.berkeley.edu](http://philosophy.berkeley.edu)
  - date_published: 2024-07-01T14:42:15.726657+00:00
-
- ## Home | Physics
- - [https://physics.berkeley.edu](https://physics.berkeley.edu)
- - date_published: 2024-07-08T15:32:04+00:00
-
- ## Privacy | Office of Ethics
- - [http://privacy.berkeley.edu](http://privacy.berkeley.edu)
- - date_published: 2024-07-22T07:48:14+00:00
-
- ## Ptolemy Project Home Page
- - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
- - date_published: 2023-10-25T18:48:03.786652+00:00
-
- ## Ptolemy Project Home Page
- - [https://ptolemy.eecs.berkeley.edu](https://ptolemy.eecs.berkeley.edu)
- - date_published: 2024-04-30T03:26:13.031871+00:00
-
- ## Communications & Public Affairs | Communications & Public Affairs
- - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
- - date_published: 2024-04-30T03:19:52.155020+00:00
-
- ## School of Public Health | University of California, Berkeley
- - [https://publichealth.berkeley.edu](https://publichealth.berkeley.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## RAD Lab
- - [http://radlab.cs.berkeley.edu](http://radlab.cs.berkeley.edu)
- - date_published: 2024-06-22T09:31:06+00:00
-
- ## Robotics and AI Lab @ BAIR
- - [https://rail.eecs.berkeley.edu](https://rail.eecs.berkeley.edu)
- - date_published: 2019-12-13T00:00:00+00:00
-
- ## Richard Allen
- - [http://rallen.berkeley.edu](http://rallen.berkeley.edu)
- - date_published: 2024-06-13T21:48:05+00:00
-
- ## Home
- - [https://recsports.berkeley.edu](https://recsports.berkeley.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home - Redwood Center for Theoretical Neuroscience
- - [https://redwood.berkeley.edu](https://redwood.berkeley.edu)
- - date_published: 2019-09-05T00:00:00+00:00
-
- ## Homepage - Office of the Registrar
- - [https://registrar.berkeley.edu](https://registrar.berkeley.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Undergraduate Research & Scholarships – University California, Berkeley
- - [https://research.berkeley.edu](https://research.berkeley.edu)
- - date_published: 2024-07-13T13:04:37.990596+00:00
-
- ## Welcome to Research IT | Research IT
- - [http://research-it.berkeley.edu](http://research-it.berkeley.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## RISE Camp – RISE Camp
- - [http://risecamp.berkeley.edu](http://risecamp.berkeley.edu)
- - date_published: 2024-06-22T10:19:05.935208+00:00
-
- ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
- - [https://rise.cs.berkeley.edu](https://rise.cs.berkeley.edu)
- - date_published: 2021-04-26T00:00:00+00:00
-
- ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
- - [http://riselab.cs.berkeley.edu](http://riselab.cs.berkeley.edu)
- - date_published: 2021-04-26T00:00:00+00:00
-
- ## Home | Risk Services
- - [http://riskservices.berkeley.edu](http://riskservices.berkeley.edu)
- - date_published: 2024-07-22T07:45:02+00:00
-
- ## Roorda Lab
- - [http://roorda.vision.berkeley.edu](http://roorda.vision.berkeley.edu)
- - date_published: 2017-04-18T19:12:58+00:00
-
- ## Home | Research, Teaching, and Learning
- - [https://rtl.berkeley.edu](https://rtl.berkeley.edu)
- - date_published: 2024-07-02T16:54:40+00:00
-
- ## UC Berkeley Sutardja Center for Entrepreneurship & Technology - Home - UC Berkeley Sutardja Center
- - [https://scet.berkeley.edu](https://scet.berkeley.edu)
- - date_published: 2023-06-07T00:00:00+00:00
-
- ## Home | Information Security Office
- - [https://security.berkeley.edu](https://security.berkeley.edu)
- - date_published: 2024-07-08T14:52:04+00:00
-
- ## UC Berkeley Seismology Lab
- - [http://seismo.berkeley.edu](http://seismo.berkeley.edu)
- - date_published: 2024-07-19T16:15:50+00:00
-
- ## SETI@home
- - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
- - date_published: 2023-10-25T18:48:06.909632+00:00
-
- ## SETI@home
- - [https://setiathome.ssl.berkeley.edu](https://setiathome.ssl.berkeley.edu)
- - date_published: 2024-04-30T03:27:57.598323+00:00
-
- ## Homepage
- - [https://simons.berkeley.edu](https://simons.berkeley.edu)
- - date_published: 2024-05-04T15:31:14.510826+00:00
-
- ## School of Information Sites • sites for the I School community
- - [https://sites.ischool.berkeley.edu](https://sites.ischool.berkeley.edu)
- - date_published: 2024-02-26T12:52:56.312090+00:00
-
- ## UC Berkeley Sky Computing – UC Berkeley Computer Science Dept
- - [https://sky.cs.berkeley.edu](https://sky.cs.berkeley.edu)
- - date_published: 2024-05-04T15:31:10.029141+00:00
-
- ## UC Berkeley SLICE Lab – UC Berkeley, Electrical Engineering and Computer Sciences Department
- - [https://slice.eecs.berkeley.edu](https://slice.eecs.berkeley.edu)
- - date_published: 2024-07-01T20:09:27.632339+00:00
-
- ## Snap! Build Your Own Blocks
- - [https://snap.berkeley.edu](https://snap.berkeley.edu)
- - date_published: 2024-04-30T03:18:17.219037+00:00
-
- ## Home | UC Berkeley Sociology Department
- - [http://sociology.berkeley.edu](http://sociology.berkeley.edu)
- - date_published: 2024-06-17T11:15:15.363073+00:00
-
- ## Socrates and Berkeley Scholars Web Hosting Services Have Been Retired | Web Platform Services
- - [http://socrates.berkeley.edu](http://socrates.berkeley.edu)
- - date_published: 2024-07-02T08:45:16+00:00
-
- ## The Soft Walls Project
- - [http://softwalls.eecs.berkeley.edu](http://softwalls.eecs.berkeley.edu)
- - date_published: 2013-12-17T00:00:00+00:00
-
- ## UC Berkeley Sponsored Projects
- - [https://spo.berkeley.edu](https://spo.berkeley.edu)
- - date_published: 2024-06-17T22:02:15+00:00
-
- ## Home | Staff Ombuds Office
- - [http://staffombuds.berkeley.edu](http://staffombuds.berkeley.edu)
- - date_published: 2024-07-22T07:02:15+00:00
-
- ## Statistics at UC Berkeley | Department of Statistics
- - [https://statistics.berkeley.edu](https://statistics.berkeley.edu)
- - date_published: 2024-07-22T07:42:41.429629+00:00
-
- ## Open Computing Facility Status
- - [https://status.ocf.berkeley.edu](https://status.ocf.berkeley.edu)
- - date_published: 2024-03-23T18:14:52+00:00
-
- ## Welcome | UCB Study Abroad
- - [https://studyabroad.berkeley.edu](https://studyabroad.berkeley.edu)
- - date_published: 2024-07-13T10:44:24+00:00
-
- ## Berkeley Summer Sessions | Berkeley Summer Sessions
- - [https://summer.berkeley.edu](https://summer.berkeley.edu)
- - date_published: 2024-07-10T17:19:03+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [http://sunsite.berkeley.edu](http://sunsite.berkeley.edu)
- - date_published: 2023-04-28T16:52:29+00:00
-
- ## supernode
- - [https://supernode.berkeley.edu](https://supernode.berkeley.edu)
- - date_published: 2024-05-24T00:14:24+00:00
-
- ## Home | Support Portal
- - [https://supportal.berkeley.edu](https://supportal.berkeley.edu)
- - date_published: 2024-07-22T07:35:48+00:00
-
- ## Home | Swarm Lab
- - [http://swarmlab.eecs.berkeley.edu](http://swarmlab.eecs.berkeley.edu)
- - date_published: 2024-07-22T06:45:49+00:00
-
- ## Information Technology
- - [https://technology.berkeley.edu](https://technology.berkeley.edu)
- - date_published: 2024-07-02T17:43:18+00:00
-
- ## anthrohub - Search Results - Digital Collections
- - [http://techreports.lib.berkeley.edu](http://techreports.lib.berkeley.edu)
- - date_published: 2024-07-02T13:34:33.530623+00:00
-
- ## Home - Terner Center
- - [https://ternercenter.berkeley.edu](https://ternercenter.berkeley.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home | Thriving
- - [https://thriving.berkeley.edu](https://thriving.berkeley.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Home | The Third World Liberation Front
- - [https://twlf.berkeley.edu](https://twlf.berkeley.edu)
- - date_published: 2024-07-22T06:35:48+00:00
-
- ## Home | Berkeley UCPD
- - [https://ucpd.berkeley.edu](https://ucpd.berkeley.edu)
- - date_published: 2024-07-22T07:43:40+00:00
-
- ## Home | University of California Undergraduate Experience Survey
- - [https://ucues.berkeley.edu](https://ucues.berkeley.edu)
- - date_published: 2024-07-22T06:54:25+00:00
-
- ## University Health Services
- - [https://uhs.berkeley.edu](https://uhs.berkeley.edu)
- - date_published: 2024-04-30T03:19:15.085528+00:00
-
- ## Undocumented Student Program: The University of California at Berkeley
- - [https://undocu.berkeley.edu](https://undocu.berkeley.edu)
- - date_published: 2015-05-10T00:00:00+00:00
-
- ## Home | Research UC Berkeley
- - [https://vcresearch.berkeley.edu](https://vcresearch.berkeley.edu)
- - date_published: 2024-07-13T13:04:39.678634+00:00
 

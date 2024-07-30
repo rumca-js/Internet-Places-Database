@@ -1,3 +1,211 @@
+ ## Search Home | Ilmenauer Discovery Tool
+ - [https://find.bibliothek.tu-ilmenau.de](https://find.bibliothek.tu-ilmenau.de)
+ - date_published: 2006-03-09T00:00:00+00:00
+
+ ## Sign In
+ - [https://intranet.tu-ilmenau.de](https://intranet.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:37:46.880504+00:00
+
+ ## Mobility Online
+ - [https://mobility.tu-ilmenau.de](https://mobility.tu-ilmenau.de)
+ - date_published: 2020-05-28T09:14:43+00:00
+
+ ## Log in to the site | Moodle an der TU Ilmenau
+ - [https://moodle.tu-ilmenau.de](https://moodle.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:37:56.983130+00:00
+
+ ## Open Timetables
+ - [https://opentimetable.tu-ilmenau.de](https://opentimetable.tu-ilmenau.de)
+ - date_published: 2019-06-18T14:44:00+00:00
+
+ ## Weiterleitung
+ - [https://os.tu-ilmenau.de](https://os.tu-ilmenau.de)
+ - date_published: 2021-10-15T12:14:35+00:00
+
+ ## Webmail TU Ilmenau :: Willkommen bei  Webmail TU Ilmenau
+ - [https://webmail.tu-ilmenau.de](https://webmail.tu-ilmenau.de)
+ - date_published: 2024-06-19T15:39:02+00:00
+
+ ## PATONLandespatentzentrum Thüringen | Technische Universität Ilmenau
+ - [https://www.paton.tu-ilmenau.de](https://www.paton.tu-ilmenau.de)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Startseite | Technische Universität Ilmenau
+ - [https://www.tu-ilmenau.de](https://www.tu-ilmenau.de)
+ - date_published: 2024-05-04T06:26:49.778793+00:00
+
+ ## TU Ilmenau Shop - TU Ilmenau Shop
+ - [http://tu-ilmenau-shop.de](http://tu-ilmenau-shop.de)
+ - date_published: 2024-06-19T15:37:53.565783+00:00
+
+ ## Tulpar Notebook | Notebooks für Performance-Fans
+ - [https://www.tulparnotebook.de](https://www.tulparnotebook.de)
+ - date_published: 2024-06-22T15:05:52.268044+00:00
+
+ ## Home
+ - [https://algo2019.ak.in.tum.de](https://algo2019.ak.in.tum.de)
+ - date_published: 2024-06-30T09:23:50+00:00
+
+ ## Page has moved
+ - [http://campar.in.tum.de](http://campar.in.tum.de)
+ - date_published: 2023-10-24T08:13:14+00:00
+
+ ## Loading
+ - [https://campus.tum.de](https://campus.tum.de)
+ - date_published: 2024-04-29T06:57:12.485784+00:00
+
+ ## pAIge - TUM MGT Chatbot
+ - [https://chat.it.tum.de](https://chat.it.tum.de)
+ - date_published: 2024-07-24T04:20:36.152399+00:00
+
+ ## Computational Imaging and Inverse Problems - Home
+ - [https://ciip.in.tum.de](https://ciip.in.tum.de)
+ - date_published: 2024-06-21T19:53:44+00:00
+
+ ## Chair for Database Systems
+ - [https://db.in.tum.de](https://db.in.tum.de)
+ - date_published: 2024-05-29T01:37:53.244255+00:00
+
+ ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
+ - [https://dse.in.tum.de](https://dse.in.tum.de)
+ - date_published: 2024-05-04T15:27:57.079929+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://in.tum.de](http://in.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Isabelle
+ - [https://isabelle.in.tum.de](https://isabelle.in.tum.de)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://kaldir.vc.in.tum.de](https://kaldir.vc.in.tum.de)
+ - date_published: 2024-07-24T05:49:04.535775+00:00
+
+ ## TUM Living
+ - [https://living.tum.de](https://living.tum.de)
+ - date_published: 2024-07-24T04:20:45.036772+00:00
+
+ ## mediaTUM - Media and Publication Server
+ - [https://mediatum.ub.tum.de](https://mediatum.ub.tum.de)
+ - date_published: 2024-06-22T19:11:45.157411+00:00
+
+ ## Standorte - NavigaTUM
+ - [https://nav.tum.de](https://nav.tum.de)
+ - date_published: 2024-04-29T06:57:11.219692+00:00
+
+ ## TUM OPAC
+ - [https://opac.ub.tum.de](https://opac.ub.tum.de)
+ - date_published: 2024-07-24T04:20:55.749187+00:00
+
+ ## Home | Online Shop | Technische Universität München
+ - [https://shop.tum.de](https://shop.tum.de)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## The Entrepreneurial University - TUM
+ - [https://tum.de](https://tum.de)
+ - date_published: 2024-04-29T06:56:29.965799+00:00
+
+ ## Systems Research Group | Department of Computer Science // TUM School of Computation, Information and Technology
+ - [https://web.dse.in.tum.de](https://web.dse.in.tum.de)
+ - date_published: 2024-06-22T09:36:53.585696+00:00
+
+ ## Startseite
+ - [https://web.tum.de](https://web.tum.de)
+ - date_published: 2024-07-24T04:20:52.882846+00:00
+
+ ## Login - BayernCollab
+ - [https://wiki.tum.de](https://wiki.tum.de)
+ - date_published: 2024-04-29T06:57:07.882141+00:00
+
+ ## Startseite
+ - [https://www.chancengleichheit.tum.de](https://www.chancengleichheit.tum.de)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [https://www.cit.tum.de](https://www.cit.tum.de)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Startseite - TUM Community
+ - [https://www.community.tum.de](https://www.community.tum.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Department of Computer Science - TUM School of Computation, Information and Technology - Department of Computer Science
+ - [https://www.cs.cit.tum.de](https://www.cs.cit.tum.de)
+ - date_published: 2023-10-25T18:33:05.751862+00:00
+
+ ## MDCO_Home
+ - [https://www.dualcareer.tum.de](https://www.dualcareer.tum.de)
+ - date_published: 2024-04-29T06:57:00.323508+00:00
+
+ ## TUM Center for Educational Technologies
+ - [https://www.edtech.tum.de](https://www.edtech.tum.de)
+ - date_published: 2024-07-24T04:21:42.615077+00:00
+
+ ## TUM School of Engineering and Design (ED)
+ - [https://www.ed.tum.de](https://www.ed.tum.de)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [http://www.ei.tum.de](http://www.ei.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Startseite
+ - [http://www.emeriti-of-excellence.tum.de](http://www.emeriti-of-excellence.tum.de)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Effektive Förderung: Unterstützung für die Technische Universität München
+ - [https://www.fundraising.tum.de](https://www.fundraising.tum.de)
+ - date_published: 2024-04-29T06:56:54.029375+00:00
+
+ ## Promovieren an der Technischen Universität München
+ - [https://www.gs.tum.de](https://www.gs.tum.de)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.international.tum.de](https://www.international.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## TUM School of Computation, Information and Technology
+ - [https://www.in.tum.de](https://www.in.tum.de)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## TUM Institute for LifeLong Learning - Executive & Professional Education
+ - [https://www.lll.tum.de](https://www.lll.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.ls.tum.de](https://www.ls.tum.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Startseite der TUM School of Medicine and Health | TUM School of Medicine and Health
+ - [https://med.tum.de](https://med.tum.de)
+ - date_published: 2024-04-29T06:57:06.066785+00:00
+
+ ## Uniting Management and Technology | TUM School of Management
+ - [https://mgt.tum.de](https://mgt.tum.de)
+ - date_published: 2024-04-29T06:56:57.887730+00:00
+
+ ## Startseite
+ - [https://www.mh.tum.de](https://www.mh.tum.de)
+ - date_published: 2024-07-24T04:20:11.803466+00:00
+
+ ## MRI TUM
+ - [https://www.mri.tum.de](https://www.mri.tum.de)
+ - date_published: 2024-07-24T04:20:13.800634+00:00
+
+ ## Startseite
+ - [https://www.nat.tum.de](https://www.nat.tum.de)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Professoren an der Technischen Universität München (TUM) - Akademische Exzellenz
+ - [https://www.professoren.tum.de](https://www.professoren.tum.de)
+ - date_published: 2024-04-29T06:56:38.550596+00:00
+
+ ## Home
+ - [https://www.prolehre.tum.de](https://www.prolehre.tum.de)
+ - date_published: 2024-04-29T06:56:41.969327+00:00
+
  ## TUM School of Computation, Information and Technology
  - [http://www.rcs.ei.tum.de](http://www.rcs.ei.tum.de)
  - date_published: 2024-07-12T16:27:12.293779+00:00
@@ -3798,215 +4006,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## WELT Shop | Alle Produkte immer mit WELTplus
  - [https://shop.welt.de](https://shop.welt.de)
  - date_published: 2024-07-24T03:30:11.643401+00:00
-
- ## Themenwelten - Sonderthemen - Die Welt - Die Welt
- - [https://sonderthemen.welt.de](https://sonderthemen.welt.de)
- - date_published: 2024-04-29T07:03:18.869891+00:00
-
- ## Sport-Ergebnisse & Tabellen
- - [https://sportdaten.welt.de](https://sportdaten.welt.de)
- - date_published: 2024-04-29T07:03:05.806285+00:00
-
- ## Nachrichten, Hintergründe, Videos & News-Ticker - WELT
- - [https://static.up.welt.de](https://static.up.welt.de)
- - date_published: 2024-04-29T07:03:27.353297+00:00
-
- ## Unternehmen - WELT
- - [https://unternehmen.welt.de](https://unternehmen.welt.de)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## WELT - Aktuelle Nachrichten, News, Hintergründe & Videos
- - [https://welt.de](https://welt.de)
- - date_published: 2024-07-12T00:00:00+00:00
- - tags: ['news', 'german news']
-
- ## Das aktuelle Wetter und 5-Tage Wettervorhersage für Deutschland
- - [https://wetter.welt.de](https://wetter.welt.de)
- - date_published: 2024-04-29T07:02:56.301706+00:00
-
- ## Fehler
- - [https://whoami-web.prod.ps.welt.de](https://whoami-web.prod.ps.welt.de)
- - date_published: 2024-04-29T07:03:24.425259+00:00
-
- ## WELT - Zeitung
- - [https://zeitung.welt.de](https://zeitung.welt.de)
- - date_published: 2024-04-29T07:03:21.882065+00:00
-
- ## Welt-Aids-Tag am 01.12. | Leben mit HIV / Welt-AIDS-Tag
- - [https://welt-aids-tag.de](https://welt-aids-tag.de)
- - date_published: 2024-05-16T02:45:51.972851+00:00
-
- ## Stefan Weltge, professor of discrete mathematics, Munich
- - [https://weltge.de](https://weltge.de)
- - date_published: 2023-08-26T06:47:45+00:00
-
- ## WELTKUNST | Das Kunstmagazin der ZEIT
- - [https://www.weltkunst.de](https://www.weltkunst.de)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Wendik Pumpen Service: Startseite
- - [https://www.wendik.de](https://www.wendik.de)
- - date_published: 2024-05-10T04:00:02.089418+00:00
-
- ## wer kennt den BESTEN - Über 100 Mio. Bewertungen aus 52 Portalen
- - [https://www.werkenntdenbesten.de](https://www.werkenntdenbesten.de)
- - date_published: 2024-07-10T05:51:28.019978+00:00
-
- ## Holen und Bringen – Werkleitz Festival 2018
- - [http://hub.werkleitz.de](http://hub.werkleitz.de)
- - date_published: 2024-03-27T09:21:02+00:00
-
- ## Modell und Ruine – Werkleitz Festival 2019
- - [https://modell-und-ruine.werkleitz.de](https://modell-und-ruine.werkleitz.de)
- - date_published: 2024-05-04T19:23:09+00:00
-
- ## move ON | Zentrum für Medienkunst
- - [http://move-on.werkleitz.de](http://move-on.werkleitz.de)
- - date_published: 2024-07-13T14:18:37.357287+00:00
-
- ## Nicht Mehr Noch Nicht | Nicht mehr, noch nicht — Werkleitz Festival 2017
- - [http://nicht-mehr-noch-nicht.werkleitz.de](http://nicht-mehr-noch-nicht.werkleitz.de)
- - date_published: 2024-01-22T10:23:10+00:00
-
- ## Trans-Positionen | Zentrum für Medienkunst
- - [http://trans-positionen.werkleitz.de](http://trans-positionen.werkleitz.de)
- - date_published: 2024-03-27T11:19:29+00:00
-
- ## Werkleitz Gesellschaft
- - [http://werkleitz.de](http://werkleitz.de)
- - date_published: 2024-07-13T14:18:35.060716+00:00
-
- ## Aktuell – Werkschau Konstanz
- - [http://werkschau-konstanz.de](http://werkschau-konstanz.de)
- - date_published: 2024-07-05T20:34:42+00:00
-
- ## Nachrichten aus Eschwege und der Region - Werra-Rundschau
- - [https://www.werra-rundschau.de](https://www.werra-rundschau.de)
- - date_published: 2024-07-24T07:40:42.709758+00:00
-
- ## Mastodon
- - [https://fedi.wersdoerfer.de](https://fedi.wersdoerfer.de)
- - date_published: 2024-06-22T14:05:31.781764+00:00
-
- ## Home - WerteLabor
- - [http://wertelabor.de](http://wertelabor.de)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Manufaktur für Camping-Vans
- - [https://westfalia-mobil.de](https://westfalia-mobil.de)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Lotto online spielen – staatlich, sicher bei WestLotto.de - WestLotto.de
- - [https://westlotto.de](https://westlotto.de)
- - date_published: 2024-07-24T04:42:47.853439+00:00
-
- ## Ihr Möbel & Interior Online-Shop | Westwing
- - [https://www.westwing.de](https://www.westwing.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Wette auf die Zukunft
- - [https://wetteaufdiezukunft.de](https://wetteaufdiezukunft.de)
- - date_published: 2022-06-03T07:58:34+00:00
-
- ## Wetter - Wettervorhersage - Wetterbericht - wetter.de
- - [https://www.wetter.de](https://www.wetter.de)
- - date_published: 2024-06-25T18:09:30.241251+00:00
-
- ## Home | Wetterauer Zeitung
- - [https://www.wetterauer-zeitung.de](https://www.wetterauer-zeitung.de)
- - date_published: 2024-07-24T07:41:56.294990+00:00
-
- ## Wettervorhersage, Regenradar, aktuelles Wetter - WetterKontor
- - [https://www.wetterkontor.de](https://www.wetterkontor.de)
- - date_published: 2024-07-24T03:30:27.362770+00:00
-
- ## Wetter in Deutschland | wetterlabs.de
- - [https://wetterlabs.de](https://wetterlabs.de)
- - date_published: 2024-05-02T10:30:08.449303+00:00
-
- ## API
- - [https://api-app.wetteronline.de](https://api-app.wetteronline.de)
- - date_published: 2024-02-20T08:25:53+00:00
-
- ## WetterDisplay online kaufen
- - [https://shop.wetteronline.de](https://shop.wetteronline.de)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## WetterOnline GmbH - wo.wetteronline.de
- - [https://wo.wetteronline.de](https://wo.wetteronline.de)
- - date_published: 2023-06-21T00:00:00+00:00
-
- ## Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline
- - [https://wetteronline.de](https://wetteronline.de)
- - date_published: 2024-05-07T13:25:19.135988+00:00
-
- ## The Weather Network - Weather forecasts, maps, news and videos
- - [https://www.wetterplus.de](https://www.wetterplus.de)
- - date_published: 2024-05-06T17:20:05.063104+00:00
-
- ## Home page wetterzentrale.de
- - [https://www.wetterzentrale.de](https://www.wetterzentrale.de)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Sportwetten in Deutschland 2024 | Kalender, Vorhersagen, Quoten, Wettanbieter
- - [https://www.wettscheinplus.de](https://www.wettscheinplus.de)
- - date_published: 2024-06-19T08:56:15+00:00
-
- ## Wirtschaftsförderung Bremen – Starten Sie mit uns | WFB
- - [https://www.wfb-bremen.de](https://www.wfb-bremen.de)
- - date_published: 2024-07-04T12:03:30+00:00
-
- ## Welcome to wfs-Apps!
- - [https://www.wfs-apps.de](https://www.wfs-apps.de)
- - date_published: 2019-02-07T15:43:07+00:00
-
- ## [erfahrungen, meinungen, halluzinationen]
- - [http://www.wgdd.de](http://www.wgdd.de)
- - date_published: 2024-06-05T12:57:14+00:00
-
- ## Features - wger
- - [https://wger.de](https://wger.de)
- - date_published: 2024-04-08T19:31:22.733511+00:00
- - tags: ['workout manager']
-
- ## whatheco.de – Discussions on software, design, and software design.
- - [https://whatheco.de](https://whatheco.de)
- - date_published: 2023-10-25T18:33:46.115321+00:00
-
- ## Sign in - Matomo
- - [https://t.whats-up.de](https://t.whats-up.de)
- - date_published: 2024-05-10T06:33:59.559701+00:00
-
- ## Main - WHDLoad MantisBT
- - [https://mantis.whdload.de](https://mantis.whdload.de)
- - date_published: 2024-01-09T02:56:25.035953+00:00
-
- ## WHDLoad
- - [https://whdload.de](https://whdload.de)
- - date_published: 2024-01-09T02:56:26.610993+00:00
- - tags: ['amiga']
-
- ## Whisky.de Treffpunkt feiner Geister - Whisky.de
- - [https://www.whisky.de](https://www.whisky.de)
- - date_published: 2024-07-10T06:32:33.122161+00:00
-
- ## Whistleblower-Netzwerk
- - [https://whistleblower-net.de](https://whistleblower-net.de)
- - date_published: 2024-05-06T23:56:01.877058+00:00
-
- ## wiit.whistleport.de
- - [https://wiit.whistleport.de](https://wiit.whistleport.de)
- - date_published: 2024-07-04T18:00:17.105672+00:00
-
- ## WHUDAT
- - [https://whudat.de](https://whudat.de)
- - date_published: 2024-05-11T11:10:00.657860+00:00
-
- ## WI 2024 – JMU Würzburg
- - [https://wi2024.de](https://wi2024.de)
- - date_published: 2024-07-24T03:40:21.187098+00:00
-
- ## Weierstrass Institute
- - [http://wias-berlin.de](http://wias-berlin.de)
- - date_published: 2024-06-30T08:22:06.756079+00:00
 

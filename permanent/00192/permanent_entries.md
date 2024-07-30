@@ -1,3 +1,215 @@
+ ## Sign in to your account
+ - [https://office.uoregon.edu](https://office.uoregon.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Welcome | One Stop Student Resources
+ - [https://onestop.uoregon.edu](https://onestop.uoregon.edu)
+ - date_published: 2024-05-07T21:46:05.369896+00:00
+
+ ## UO Onward | University of Oregon
+ - [https://onward.uoregon.edu](https://onward.uoregon.edu)
+ - date_published: 2024-07-02T05:34:04+00:00
+
+ ## ORAAL Home | Online Resources for African American Language
+ - [https://oraal.uoregon.edu](https://oraal.uoregon.edu)
+ - date_published: 2024-07-02T05:55:52.294955+00:00
+
+ ## Historic Oregon Newspapers
+ - [https://oregonnews.uoregon.edu](https://oregonnews.uoregon.edu)
+ - date_published: 2024-07-02T05:22:48.626269+00:00
+
+ ## Oregon Quarterly | University of Oregon
+ - [https://oregonquarterly.uoregon.edu](https://oregonquarterly.uoregon.edu)
+ - date_published: 2024-05-07T21:45:56.478014+00:00
+
+ ## UO Student Orientation
+ - [http://orientation.uoregon.edu](http://orientation.uoregon.edu)
+ - date_published: 2024-07-01T07:57:32+00:00
+
+ ## Home | Outdoor Program
+ - [https://outdoorprogram.uoregon.edu](https://outdoorprogram.uoregon.edu)
+ - date_published: 2024-07-02T05:35:17.431545+00:00
+
+ ## University of Oregon
+ - [https://pages.uoregon.edu](https://pages.uoregon.edu)
+ - date_published: 2024-06-30T02:31:56+00:00
+
+ ## Police Department | University of Oregon
+ - [http://police.uoregon.edu](http://police.uoregon.edu)
+ - date_published: 2024-06-14T21:21:31+00:00
+
+ ## Political Science | Social Sciences
+ - [http://polisci.uoregon.edu](http://polisci.uoregon.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## School of Planning, Public Policy and Management | University of Oregon
+ - [https://pppm.uoregon.edu](https://pppm.uoregon.edu)
+ - date_published: 2024-07-08T13:50:04+00:00
+
+ ## Office of the President | University of Oregon
+ - [https://president.uoregon.edu](https://president.uoregon.edu)
+ - date_published: 2024-05-07T21:45:55.335576+00:00
+
+ ## Office of the Provost | University of Oregon
+ - [https://provost.uoregon.edu](https://provost.uoregon.edu)
+ - date_published: 2024-07-02T04:46:58+00:00
+
+ ## Office of Public Records | Public Records
+ - [http://publicrecords.uoregon.edu](http://publicrecords.uoregon.edu)
+ - date_published: 2024-07-02T05:24:24+00:00
+
+ ## Home | PE and Rec
+ - [https://rec.uoregon.edu](https://rec.uoregon.edu)
+ - date_published: 2024-07-01T07:45:26+00:00
+
+ ## Office of the Registrar | University of Oregon | Office of the Registrar
+ - [https://registrar.uoregon.edu](https://registrar.uoregon.edu)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Research and Innovation Homepage
+ - [https://research.uoregon.edu](https://research.uoregon.edu)
+ - date_published: 2024-05-07T21:45:11.427508+00:00
+
+ ## Safety and Risk Services | University of Oregon
+ - [https://safety.uoregon.edu](https://safety.uoregon.edu)
+ - date_published: 2024-05-07T21:45:38.691847+00:00
+
+ ## Welcome | Help for Victims and Survivors
+ - [http://safe.uoregon.edu](http://safe.uoregon.edu)
+ - date_published: 2024-07-01T07:58:08+00:00
+
+ ## School of Computer and Data Sciences | University of Oregon
+ - [https://scds.uoregon.edu](https://scds.uoregon.edu)
+ - date_published: 2024-07-24T07:02:34.359613+00:00
+
+ ## Scholars' Bank Home
+ - [https://scholarsbank.uoregon.edu](https://scholarsbank.uoregon.edu)
+ - date_published: 2024-07-02T10:01:46.817844+00:00
+
+ ## University of Oregon | EM Secure Services
+ - [https://secureservices.uoregon.edu](https://secureservices.uoregon.edu)
+ - date_published: 2024-07-02T05:24:49.671881+00:00
+
+ ## Home
+ - [https://service.uoregon.edu](https://service.uoregon.edu)
+ - date_published: 2024-05-07T21:46:03.266193+00:00
+
+ ## SOJC Faculty and Staff – Information for faculty and staff in the School of Journalism and Communication
+ - [https://sojcemployee.uoregon.edu](https://sojcemployee.uoregon.edu)
+ - date_published: 2024-07-02T05:22:24.890205+00:00
+
+ ## SOJC Student – Resources for new and current students in the School of Journalism and Communication
+ - [https://sojcstudent.uoregon.edu](https://sojcstudent.uoregon.edu)
+ - date_published: 2024-07-02T05:22:28+00:00
+
+ ## UO Summer Program for Undergraduate Research | UO SPUR in Life Sciences
+ - [http://spur.uoregon.edu](http://spur.uoregon.edu)
+ - date_published: 2024-07-02T04:36:13+00:00
+
+ ## UO Division of Student Life
+ - [http://studentlife.uoregon.edu](http://studentlife.uoregon.edu)
+ - date_published: 2024-07-02T05:15:53+00:00
+
+ ## UO Testing Center
+ - [https://testing.uoregon.edu](https://testing.uoregon.edu)
+ - date_published: 2024-07-02T05:26:08.972410+00:00
+
+ ## In the Field, On the Field | University of Oregon
+ - [https://thefield.uoregon.edu](https://thefield.uoregon.edu)
+ - date_published: 2024-06-15T00:25:22+00:00
+
+ ## UO Ticket Office: Save on tickets to the hottest shows.
+ - [https://tickets.uoregon.edu](https://tickets.uoregon.edu)
+ - date_published: 2024-07-01T19:49:17+00:00
+
+ ## University Tour: Home
+ - [https://tourmaps.uoregon.edu](https://tourmaps.uoregon.edu)
+ - date_published: 2024-07-02T05:23:55.521666+00:00
+
+ ## Site Landing Page | Transportation Services
+ - [https://transportation.uoregon.edu](https://transportation.uoregon.edu)
+ - date_published: 2024-07-02T05:35:38.551822+00:00
+
+ ## The Board of Trustees | University of Oregon
+ - [http://trustees.uoregon.edu](http://trustees.uoregon.edu)
+ - date_published: 2024-07-02T04:44:43+00:00
+
+ ## Undergraduate Education and Student Success | University of Oregon
+ - [https://uess.uoregon.edu](https://uess.uoregon.edu)
+ - date_published: 2024-05-07T21:45:46.172264+00:00
+
+ ## Undergraduate Research Symposium | Undergraduate Research and Distinguished Scholarships
+ - [https://undergradsymposium.uoregon.edu](https://undergradsymposium.uoregon.edu)
+ - date_published: 2024-06-28T22:12:47+00:00
+
+ ## Sign in to Outlook
+ - [https://uomail.uoregon.edu](https://uomail.uoregon.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Media Relations | University of Oregon
+ - [https://uonews.uoregon.edu](https://uonews.uoregon.edu)
+ - date_published: 2024-05-07T21:45:24.028011+00:00
+
+ ## University of Oregon
+ - [https://uoregon.edu](https://uoregon.edu)
+ - date_published: 2024-05-07T21:44:52.856971+00:00
+
+ ## Student Employment Enhancement
+ - [https://uosee.uoregon.edu](https://uosee.uoregon.edu)
+ - date_published: 2024-07-02T05:25:13.558916+00:00
+
+ ## Undergraduate Research and Distinguished Scholarships | University of Oregon
+ - [https://urds.uoregon.edu](https://urds.uoregon.edu)
+ - date_published: 2024-06-28T22:01:25+00:00
+
+ ## Undergraduate Research | UO Research and Innovation
+ - [https://urop.uoregon.edu](https://urop.uoregon.edu)
+ - date_published: 2024-07-02T05:35:22.569066+00:00
+
+ ## Why UO | Why UO
+ - [https://viewbook.uoregon.edu](https://viewbook.uoregon.edu)
+ - date_published: 2024-07-02T05:24:51.252949+00:00
+
+ ## Virtual Visits | Virtual
+ - [https://virtual.uoregon.edu](https://virtual.uoregon.edu)
+ - date_published: 2024-07-02T05:24:42.503863+00:00
+
+ ## UO Campus Visits
+ - [https://visit.uoregon.edu](https://visit.uoregon.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## University of Oregon Webmail :: Welcome to University of Oregon Webmail
+ - [https://webmail.uoregon.edu](https://webmail.uoregon.edu)
+ - date_published: 2024-07-02T05:21:49+00:00
+
+ ## Computer Science | School of Computer and Data Sciences
+ - [https://cs.uoregon.edu](https://cs.uoregon.edu)
+ - date_published: 2024-04-29T06:15:55.298651+00:00
+
+ ## ALBCOM - Home
+ - [http://albcom.lsi.upc.edu](http://albcom.lsi.upc.edu)
+ - date_published: 2024-06-30T11:19:51.120989+00:00
+
+ ## Català
+ - [https://alumni.upc.edu](https://alumni.upc.edu)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## English
+ - [https://arv.phd.upc.edu](https://arv.phd.upc.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Campus Virtual UPC: Opció d'autenticació | CAMPUS VIRTUAL UPC
+ - [https://atenea.upc.edu](https://atenea.upc.edu)
+ - date_published: 2024-07-02T05:36:27.762127+00:00
+
+ ## English
+ - [https://audeco.ioc.upc.edu](https://audeco.ioc.upc.edu)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Català
+ - [https://autoproteccio.upc.edu](https://autoproteccio.upc.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
  ## Bibliotècnica | La biblioteca digital de la UPC
  - [https://bibliotecnica.upc.edu](https://bibliotecnica.upc.edu)
  - date_published: 2024-07-02T05:35:01+00:00
@@ -3787,216 +3999,4 @@
  ## Career Services | University of Texas Permian Basin
  - [https://careers.utpb.edu](https://careers.utpb.edu)
  - date_published: 2024-07-14T04:05:48.171208+00:00
-
- ## UTPB Complaint Management - UTPB IRD
- - [https://complaints.utpb.edu](https://complaints.utpb.edu)
- - date_published: 2024-07-14T04:05:25.836053+00:00
-
- ## La Cuenca Pérmica de la Universidad de Texas | Inicio UTPB
- - [https://es.utpb.edu](https://es.utpb.edu)
- - date_published: 2024-07-14T04:05:27.492616+00:00
-
- ## MyUTPB
- - [https://my.utpb.edu](https://my.utpb.edu)
- - date_published: 2024-07-14T04:06:07.405050+00:00
-
- ## Home - JBS Public Leadership Institute
- - [https://shepperdleadership.utpb.edu](https://shepperdleadership.utpb.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## The University of Texas Permian Basin | UTPB Home
- - [https://utpb.edu](https://utpb.edu)
- - date_published: 2024-05-11T09:19:48.754579+00:00
-
- ## Home | UTRGV
- - [http://www.utrgv.edu](http://www.utrgv.edu)
- - date_published: 2024-06-18T15:41:21+00:00
-
- ## | UTSA Libraries
- - [http://lib.utsa.edu](http://lib.utsa.edu)
- - date_published: 2024-06-14T04:12:00.505478+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.libweb.lib.utsa.edu](https://login.libweb.lib.utsa.edu)
- - date_published: 2024-06-30T01:19:22.689242+00:00
-
- ## Welcome to The University of Texas at San Antonio | UTSA
- - [https://utsa.edu](https://utsa.edu)
- - date_published: 2024-07-14T09:53:53.626734+00:00
-
- ## Welcome to The University of Texas at San Antonio | UTSA
- - [http://www.utsa.edu](http://www.utsa.edu)
- - date_published: 2024-07-02T11:49:30.281792+00:00
-
- ## Homepage - Union Theological Seminary
- - [https://utsnyc.edu](https://utsnyc.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home - The University of Tennessee Southern
- - [https://utsouthern.edu](https://utsouthern.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Faculty and Staff Directory - UT Southwestern
- - [https://directory.utsouthwestern.edu](https://directory.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:37.820857+00:00
-
- ## Development and Alumni Relations - UT Southwestern Medical Center
- - [https://donate.utsouthwestern.edu](https://donate.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:15.485989+00:00
-
- ## Development and Alumni Relations - UT Southwestern Medical Center
- - [https://engage.utsouthwestern.edu](https://engage.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:44.784015+00:00
-
- ## Events Calendar
- - [https://events.utsouthwestern.edu](https://events.utsouthwestern.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Careers at University of Texas Southwestern Medical Center
- - [https://jobs.utsouthwestern.edu](https://jobs.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:33.769466+00:00
-
- ## Main Site: Homepage | UT Southwestern, Dallas, Texas
- - [https://labs.utsouthwestern.edu](https://labs.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:32.091321+00:00
-
- ## UT Southwestern Medical Center Library
- - [https://library.utsouthwestern.edu](https://library.utsouthwestern.edu)
- - date_published: 2022-08-30T13:32:13+00:00
-
- ## MyChart - Login Page
- - [https://mychart.utsouthwestern.edu](https://mychart.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:29.612650+00:00
-
- ## Faculty Directory - UT Southwestern, Dallas, Texas
- - [https://profiles.utsouthwestern.edu](https://profiles.utsouthwestern.edu)
- - date_published: 2024-05-07T22:15:27.000443+00:00
-
- ## Media Technology Web Streaming - UT Southwestern, Dallas, Texas
- - [https://streaming.utsouthwestern.edu](https://streaming.utsouthwestern.edu)
- - date_published: 2018-03-12T22:05:58+00:00
-
- ## Home
- - [https://utsouthwestern.edu](https://utsouthwestern.edu)
- - date_published: 2023-11-07T23:09:54.425580+00:00
-
- ## The University of Texas System Home
- - [https://cms.utsystem.edu](https://cms.utsystem.edu)
- - date_published: 2024-07-01T22:35:36+00:00
-
- ## UT Share: Sign Out Notice
- - [https://dacs-prd.utshare.utsystem.edu](https://dacs-prd.utshare.utsystem.edu)
- - date_published: 2022-03-21T13:52:15+00:00
-
- ## UT Share: Sign Out Notice
- - [https://dahr-prd.utshare.utsystem.edu](https://dahr-prd.utshare.utsystem.edu)
- - date_published: 2022-03-21T13:52:16+00:00
-
- ## Home
- - [http://data.utsystem.edu](http://data.utsystem.edu)
- - date_published: 2024-07-02T11:49:38.278108+00:00
-
- ## Home | SeekUT
- - [https://seekut.utsystem.edu](https://seekut.utsystem.edu)
- - date_published: 2024-07-02T11:49:57.636169+00:00
-
- ## Home
- - [https://utsystem.edu](https://utsystem.edu)
- - date_published: 2024-05-07T22:11:54.765761+00:00
-
- ## Index Page
- - [https://zahr-prd-candidate-ada.utshare.utsystem.edu](https://zahr-prd-candidate-ada.utshare.utsystem.edu)
- - date_published: 2023-06-10T17:54:51+00:00
-
- ## The University of Texas at Tyler | UT Tyler
- - [http://www.uttyler.edu](http://www.uttyler.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Undergraduate Admission
- - [https://admission.utulsa.edu](https://admission.utulsa.edu)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## University of Tulsa - Modern Campus Catalog™
- - [https://bulletin.utulsa.edu](https://bulletin.utulsa.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.utulsa.edu](https://calendar.utulsa.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## LibGuides: Library Homepage: McFarlin Homepage
- - [https://libraries.utulsa.edu](https://libraries.utulsa.edu)
- - date_published: 2024-07-14T20:36:18.734665+00:00
-
- ## Home | The University of Tulsa
- - [https://online.utulsa.edu](https://online.utulsa.edu)
- - date_published: 2024-07-12T18:48:12+00:00
-
- ## Sign in to your account
- - [https://sso.utulsa.edu](https://sso.utulsa.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## The University of Tulsa
- - [https://utulsa.edu](https://utulsa.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Admissions | | The University of Vermont
- - [https://admissions.uvm.edu](https://admissions.uvm.edu)
- - date_published: 2024-05-07T22:16:11.053453+00:00
-
- ## Frequently Asked Questions: Home - LibAnswers
- - [https://askalibrarian.uvm.edu](https://askalibrarian.uvm.edu)
- - date_published: 2024-07-02T12:28:10.413735+00:00
-
- ## The University of Vermont
- - [https://bb.uvm.edu](https://bb.uvm.edu)
- - date_published: 2024-02-23T16:58:52+00:00
-
- ## Login - UVM Brightspace
- - [https://brightspace.uvm.edu](https://brightspace.uvm.edu)
- - date_published: 2024-07-02T12:29:46.941800+00:00
-
- ## Chris Danforth
- - [https://cdanfort.w3.uvm.edu](https://cdanfort.w3.uvm.edu)
- - date_published: 2024-05-19T23:34:51+00:00
-
- ## THE UNIVERSITY OF VERMONT LIBRARIES | Digital Collections
- - [https://cdi.uvm.edu](https://cdi.uvm.edu)
- - date_published: 2024-07-02T12:28:25+00:00
-
- ## The University of Vermont
- - [https://content.uvm.edu](https://content.uvm.edu)
- - date_published: 2024-07-02T12:27:37+00:00
-
- ## Dana Health Sciences Library | Dana Health Sciences Library
- - [https://dana.uvm.edu](https://dana.uvm.edu)
- - date_published: 2024-07-02T12:28:32.097131+00:00
-
- ## The University of Vermont -- WebAuth
- - [https://go.uvm.edu](https://go.uvm.edu)
- - date_published: 2024-07-02T12:29:18.919688+00:00
-
- ## IIS Windows Server
- - [https://illiad.uvm.edu](https://illiad.uvm.edu)
- - date_published: 2019-06-14T16:07:30+00:00
-
- ## UVM Professional and Continuing Education - University of Vermont
- - [https://learn.uvm.edu](https://learn.uvm.edu)
- - date_published: 2023-03-27T17:19:15+00:00
-
- ## Howe Library | Howe Library
- - [https://library.uvm.edu](https://library.uvm.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [https://login.ezproxy.uvm.edu](https://login.ezproxy.uvm.edu)
- - date_published: 2024-07-02T12:28:23.936048+00:00
-
- ## The University of Vermont -- WebAuth
- - [https://mail.uvm.edu](https://mail.uvm.edu)
- - date_published: 2024-07-02T12:29:45.468024+00:00
-
- ## The University of Vermont -- WebAuth
- - [https://myuvm.uvm.edu](https://myuvm.uvm.edu)
- - date_published: 2024-05-07T22:16:20.017634+00:00
 

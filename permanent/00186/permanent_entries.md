@@ -1,3 +1,215 @@
+ ## Find People at the University of Pittsburgh
+ - [https://find.pitt.edu](https://find.pitt.edu)
+ - date_published: 2024-05-07T19:53:08.948896+00:00
+
+ ## Home | School of Law
+ - [http://jurist.law.pitt.edu](http://jurist.law.pitt.edu)
+ - date_published: 2024-06-20T03:13:09.945094+00:00
+
+ ## myPitt | All Campuses
+ - [https://my.pitt.edu](https://my.pitt.edu)
+ - date_published: 2024-05-07T19:53:15.799910+00:00
+
+ ## Home
+ - [http://pitt.edu](http://pitt.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Pitt Magazine
+ - [https://pittmag.pitt.edu](https://pittmag.pitt.edu)
+ - date_published: 2024-07-01T13:31:26+00:00
+
+ ## Home | School of Public Health
+ - [https://publichealth.pitt.edu](https://publichealth.pitt.edu)
+ - date_published: 2024-07-01T16:58:07.109232+00:00
+
+ ## Scholarship@PITT LAW
+ - [https://scholarship.law.pitt.edu](https://scholarship.law.pitt.edu)
+ - date_published: 2024-07-02T10:48:13.424947+00:00
+
+ ## University of Pittsburgh: Error HTTP 403 - Forbidden
+ - [https://sites.pitt.edu](https://sites.pitt.edu)
+ - date_published: 2023-10-25T18:56:45.029939+00:00
+
+ ## Homepage | University of Pittsburgh at Bradford
+ - [https://upb.pitt.edu](https://upb.pitt.edu)
+ - date_published: 2024-07-01T16:59:24.069682+00:00
+
+ ## Home | Academics
+ - [https://www.academics.pitt.edu](https://www.academics.pitt.edu)
+ - date_published: 2024-07-01T16:58:33.495202+00:00
+
+ ## Pittsburgh Center for Artificial Intelligence Innovation in Medical Imaging | University of Pittsburgh
+ - [https://www.aimi.pitt.edu](https://www.aimi.pitt.edu)
+ - date_published: 2024-07-12T04:22:33+00:00
+
+ ## Kenneth P. Dietrich School of Arts & Sciences | University of Pittsburgh | University of Pittsburgh
+ - [https://www.as.pitt.edu](https://www.as.pitt.edu)
+ - date_published: 2024-07-01T16:38:00+00:00
+
+ ## Home | Dietrich Arts & Sciences Undergraduate Studies
+ - [https://www.asundergrad.pitt.edu](https://www.asundergrad.pitt.edu)
+ - date_published: 2024-06-14T15:04:09.425314+00:00
+
+ ## Joseph M. Katz Graduate School of Business at the University of Pittsburgh
+ - [https://www.business.pitt.edu](https://www.business.pitt.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Center for Philosophy of Science - Home
+ - [https://www.centerphilsci.pitt.edu](https://www.centerphilsci.pitt.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Center for Governance and Markets | University of Pittsburgh
+ - [https://www.cgm.pitt.edu](https://www.cgm.pitt.edu)
+ - date_published: 2024-07-22T03:29:36+00:00
+
+ ## Home | College of General Studies | University of Pittsburgh
+ - [https://www.cgs.pitt.edu](https://www.cgs.pitt.edu)
+ - date_published: 2024-07-01T16:38:17+00:00
+
+ ## Office of | University of Pittsburgh
+ - [https://www.community.pitt.edu](https://www.community.pitt.edu)
+ - date_published: 2024-07-01T16:43:11+00:00
+
+ ## Home | CONCEPT Research Lab
+ - [https://conceptlab.pitt.edu](https://conceptlab.pitt.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Home | School of Dental Medicine
+ - [https://www.dental.pitt.edu](https://www.dental.pitt.edu)
+ - date_published: 2024-07-01T12:45:31+00:00
+
+ ## Home | Office for Equity, Diversity, and Inclusion  | University of Pittsburgh
+ - [https://www.diversity.pitt.edu](https://www.diversity.pitt.edu)
+ - date_published: 2024-07-01T16:59:06+00:00
+
+ ## Homepage - University of Pittsburgh School of Education
+ - [https://www.education.pitt.edu](https://www.education.pitt.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## University of Pittsburgh Swanson School of Engineering SSoE Home
+ - [https://www.engineering.pitt.edu](https://www.engineering.pitt.edu)
+ - date_published: 2024-07-01T16:58:29.630714+00:00
+
+ ## Home | Greensburg
+ - [http://www.greensburg.pitt.edu](http://www.greensburg.pitt.edu)
+ - date_published: 2024-07-01T16:59:20.439390+00:00
+
+ ## Home | Graduate School of Public and International Affairs
+ - [https://www.gspia.pitt.edu](https://www.gspia.pitt.edu)
+ - date_published: 2024-07-01T16:58:11.560495+00:00
+
+ ## Home | Health Sciences | University of Pittsburgh
+ - [http://www.health.pitt.edu](http://www.health.pitt.edu)
+ - date_published: 2024-06-27T11:33:13+00:00
+
+ ## Home | Honors College
+ - [https://www.honors.pitt.edu](https://www.honors.pitt.edu)
+ - date_published: 2024-07-01T16:57:59.923564+00:00
+
+ ## History and Philosophy of Science | University of Pittsburgh
+ - [http://www.hps.pitt.edu](http://www.hps.pitt.edu)
+ - date_published: 2024-07-01T09:04:00+00:00
+
+ ## OIE - Office of Innovation and Entrepreneurship
+ - [https://www.innovation.pitt.edu](https://www.innovation.pitt.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## University of Pittsburgh Johnstown | University of Pittsburgh
+ - [https://www.johnstown.pitt.edu](https://www.johnstown.pitt.edu)
+ - date_published: 2024-07-01T16:58:44+00:00
+
+ ## Home | Talent Center: Careers at Pitt | University of Pittsburgh
+ - [https://www.join.pitt.edu](https://www.join.pitt.edu)
+ - date_published: 2024-07-01T16:58:17+00:00
+
+ ## Home | School of Law
+ - [https://www.law.pitt.edu](https://www.law.pitt.edu)
+ - date_published: 2024-07-01T16:58:51.243785+00:00
+
+ ## Home |  LGBTQIA+
+ - [https://www.lgbtq.pitt.edu](https://www.lgbtq.pitt.edu)
+ - date_published: 2024-07-01T16:59:17.353223+00:00
+
+ ## School of Medicine | University of Pittsburgh
+ - [https://www.medschool.pitt.edu](https://www.medschool.pitt.edu)
+ - date_published: 2024-07-01T16:58:03+00:00
+
+ ## School of Nursing | University of Pittsburgh
+ - [https://www.nursing.pitt.edu](https://www.nursing.pitt.edu)
+ - date_published: 2024-07-01T16:37:08+00:00
+
+ ## Office of the Provost | University of Pittsburgh
+ - [https://www.personaled.pitt.edu](https://www.personaled.pitt.edu)
+ - date_published: 2024-07-01T14:21:45+00:00
+
+ ## Home | School of Pharmacy
+ - [https://www.pharmacy.pitt.edu](https://www.pharmacy.pitt.edu)
+ - date_published: 2024-07-01T16:59:18.815395+00:00
+
+ ## Home
+ - [https://www.pitt.edu](https://www.pitt.edu)
+ - date_published: 2024-05-07T19:53:13.603363+00:00
+
+ ## Robert Henderson Language Media Center | University of Pittsburgh
+ - [http://www.polyglot.pitt.edu](http://www.polyglot.pitt.edu)
+ - date_published: 2024-06-14T15:04:23.050357+00:00
+
+ ## School of Computing and Information | University of Pittsburgh
+ - [https://www.sci.pitt.edu](https://www.sci.pitt.edu)
+ - date_published: 2024-07-01T16:58:19+00:00
+
+ ## School of Health and Rehabilitation Sciences | University of Pittsburgh | University of Pittsburgh School of Health and Rehabilitation Sciences
+ - [https://www.shrs.pitt.edu](https://www.shrs.pitt.edu)
+ - date_published: 2024-07-01T16:56:52+00:00
+
+ ## School of Social Work | University of Pittsburgh
+ - [https://www.socialwork.pitt.edu](https://www.socialwork.pitt.edu)
+ - date_published: 2024-07-01T16:41:47+00:00
+
+ ## Home - Pitt Sustainability
+ - [https://www.sustainable.pitt.edu](https://www.sustainable.pitt.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Information Technology | University of Pittsburgh
+ - [https://www.technology.pitt.edu](https://www.technology.pitt.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Titusville | University of Pittsburgh
+ - [https://www.titusville.pitt.edu](https://www.titusville.pitt.edu)
+ - date_published: 2024-07-01T13:15:43+00:00
+
+ ## Home | Campus Tour
+ - [https://www.tour.pitt.edu](https://www.tour.pitt.edu)
+ - date_published: 2024-07-01T16:51:50+00:00
+
+ ## CloudFlare Error | SUNY Plattsburgh
+ - [http://www.plattsburgh.edu](http://www.plattsburgh.edu)
+ - date_published: 2024-07-11T15:11:15.276312+00:00
+
+ ## Practising Law Institute Continuing Legal Education Programs, Webcasts and Publications
+ - [http://www.pli.edu](http://www.pli.edu)
+ - date_published: 2024-07-14T11:56:34.333333+00:00
+
+ ## PLU | Pacific Lutheran University
+ - [http://www.plu.edu](http://www.plu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Admissions - Purdue University Northwest
+ - [https://discover.pnw.edu](https://discover.pnw.edu)
+ - date_published: 2024-07-01T17:46:09.049801+00:00
+
+ ## Purdue University Northwest
+ - [https://mypnw.pnw.edu](https://mypnw.pnw.edu)
+ - date_published: 2024-07-01T17:46:21.707987+00:00
+
+ ## Homepage - Purdue University Northwest
+ - [https://pnw.edu](https://pnw.edu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Point Park University
+ - [http://www.pointpark.edu](http://www.pointpark.edu)
+ - date_published: 2024-06-27T19:32:55+00:00
+
  ## Home | NYU Tandon School of Engineering
  - [http://poly.edu](http://poly.edu)
  - date_published: 2024-06-11T12:36:42+00:00
@@ -3796,216 +4008,4 @@
  ## Rutgers Special Collection
  - [https://specialcollection.rutgers.edu](https://specialcollection.rutgers.edu)
  - date_published: 2024-06-04T00:00:00+00:00
-
- ## User account | Staff Resources
- - [https://staff.libraries.rutgers.edu](https://staff.libraries.rutgers.edu)
- - date_published: 2024-07-14T23:44:25.233590+00:00
-
- ## Statewide | Rutgers Statewide Partnerships
- - [https://statewide.rutgers.edu](https://statewide.rutgers.edu)
- - date_published: 2024-06-27T21:01:18+00:00
-
- ## Home | Rutgers Newark Student Affairs
- - [https://studentaffairs.newark.rutgers.edu](https://studentaffairs.newark.rutgers.edu)
- - date_published: 2024-05-12T04:30:35.332981+00:00
-
- ## Resources Available for Student Success | Success
- - [https://success.rutgers.edu](https://success.rutgers.edu)
- - date_published: 2024-07-01T18:40:22.147839+00:00
-
- ## Summer Session
- - [https://summer.camden.rutgers.edu](https://summer.camden.rutgers.edu)
- - date_published: 2024-07-01T19:01:25.069861+00:00
-
- ## Welcome to Rutgers University | Rutgers University
- - [https://summer.newark.rutgers.edu](https://summer.newark.rutgers.edu)
- - date_published: 2024-05-07T20:23:08.467912+00:00
-
- ## Home | Summer Session New Brunswick
- - [https://summersession.rutgers.edu](https://summersession.rutgers.edu)
- - date_published: 2024-05-07T20:22:49.846391+00:00
-
- ## Summer Session
- - [https://summersessions.camden.rutgers.edu](https://summersessions.camden.rutgers.edu)
- - date_published: 2024-05-07T20:22:33.394763+00:00
-
- ## Rutgers University Foundation
- - [https://support.rutgers.edu](https://support.rutgers.edu)
- - date_published: 2024-05-07T20:22:41.342792+00:00
-
- ## Enterprise infrastructure services - Information Technology
- - [https://tdtools.rutgers.edu](https://tdtools.rutgers.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Technology Guides - Information Technology
- - [https://techguides.rutgers.edu](https://techguides.rutgers.edu)
- - date_published: 2024-07-01T18:41:05.650536+00:00
-
- ## Homepage | Rutgers myTech@Newark|Rutgers University
- - [https://tls.newark.rutgers.edu](https://tls.newark.rutgers.edu)
- - date_published: 2024-07-14T23:44:54.473561+00:00
-
- ## Home | Teaching and Learning with Technology
- - [https://tlt.rutgers.edu](https://tlt.rutgers.edu)
- - date_published: 2024-05-07T20:08:35.246788+00:00
-
- ## Media Productions (Formerly iTV Studio) | Rutgers University
- - [https://tvstudio.rutgers.edu](https://tvstudio.rutgers.edu)
- - date_published: 2024-06-27T20:59:36+00:00
-
- ## Home - Two-step Login - Two-step Login
- - [https://twostep.rutgers.edu](https://twostep.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage | University Ethics and Compliance | Rutgers University
- - [https://uec.rutgers.edu](https://uec.rutgers.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Rutgers University Human Resources Home | uhr.rutgers.edu
- - [https://uhr.rutgers.edu](https://uhr.rutgers.edu)
- - date_published: 2024-05-07T20:09:55.148092+00:00
-
- ## Office of Urban Extension and Engagement
- - [https://urbanextension.rutgers.edu](https://urbanextension.rutgers.edu)
- - date_published: 2024-03-22T19:57:13+00:00
-
- ## Welcome to the Rutgers–Camden Office of Military & Veterans Affairs | Office of Military & Veterans Affairs
- - [https://veterans.camden.rutgers.edu](https://veterans.camden.rutgers.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Office of Veteran and Military Programs and Services
- - [https://veterans.rutgers.edu](https://veterans.rutgers.edu)
- - date_published: 2024-07-01T10:51:54+00:00
-
- ## WebReg | Home Page
- - [http://webreg.rutgers.edu](http://webreg.rutgers.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Legacy ACS Services | Enterprise Application Services
- - [https://www.acs.rutgers.edu](https://www.acs.rutgers.edu)
- - date_published: 2022-04-18T00:00:00+00:00
-
- ## Home
- - [http://www.cs.rutgers.edu](http://www.cs.rutgers.edu)
- - date_published: 2024-06-22T08:37:32+00:00
-
- ## Rutgers University, Electrical & Computer Engineering
- - [https://www.ece.rutgers.edu](https://www.ece.rutgers.edu)
- - date_published: 2024-05-28T22:18:11.288636+00:00
-
- ## Home | Rutgers University Libraries
- - [https://libraries.rutgers.edu](https://libraries.rutgers.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## SASN Home
- - [https://ncas.rutgers.edu](https://ncas.rutgers.edu)
- - date_published: 2024-05-07T20:10:01.142648+00:00
-
- ## SAS Honors Program
- - [http://www.sashonors.rutgers.edu](http://www.sashonors.rutgers.edu)
- - date_published: 2024-07-01T18:45:24+00:00
-
- ## Enterprise infrastructure services - Information Technology
- - [http://www.td.rutgers.edu](http://www.td.rutgers.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Under construction
- - [https://www.ugadmissions.rutgers.edu](https://www.ugadmissions.rutgers.edu)
- - date_published: 2024-07-14T23:44:03.692756+00:00
-
- ## Sabancı University myWeb Service
- - [https://myweb.sabanciuniv.edu](https://myweb.sabanciuniv.edu)
- - date_published: 2024-06-17T11:10:49.001145+00:00
-
- ## Ana sayfa | Sabancı Üniversitesi
- - [http://www.sabanciuniv.edu](http://www.sabanciuniv.edu)
- - date_published: 2024-07-07T22:06:06+00:00
-
- ## Home - SAE New Zealand
- - [https://auckland.sae.edu](https://auckland.sae.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## SAE - the leading global specialist in creative media education
- - [https://belgrade.sae.edu](https://belgrade.sae.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## SAE Institute Canada - Find the right audio education for you here.
- - [https://canada.sae.edu](https://canada.sae.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## SAE México | Instituto Especializado | Medios Creativos Digitales
- - [https://colombia.sae.edu](https://colombia.sae.edu)
- - date_published: 2022-03-02T14:09:43+00:00
-
- ## SAE - the leading global specialist in creative media education
- - [https://dubai.sae.edu](https://dubai.sae.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## SAE Indonesia - Perguruan Tinggi & Pelatihan Media Kreatif
- - [https://indonesia.sae.edu](https://indonesia.sae.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## SAE - the leading global specialist in creative media education
- - [https://jordan.sae.edu](https://jordan.sae.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## SAE México | Instituto Especializado | Medios Creativos Digitales
- - [https://mexico.sae.edu](https://mexico.sae.edu)
- - date_published: 2022-03-02T14:09:43+00:00
-
- ## SAE Institute USA - Audio, Film, Entertainment Business Education
- - [https://usa.sae.edu](https://usa.sae.edu)
- - date_published: 2024-07-12T21:28:02.446621+00:00
-
- ## SAE Institute - Choose your region
- - [https://www.sae.edu](https://www.sae.edu)
- - date_published: 2024-06-03T08:47:58+00:00
-
- ## Universidad del Sagrado Corazón | En Sagrado tenemos un lugar para ti.
- - [http://www.sagrado.edu](http://www.sagrado.edu)
- - date_published: 2024-07-04T09:42:16.459440+00:00
-
- ## Be at the Center of Creativity | SAIC Continuing Education
- - [http://continuingstudies.saic.edu](http://continuingstudies.saic.edu)
- - date_published: 2024-07-22T02:25:32+00:00
-
- ## SAIC Microsites
- - [https://forms.saic.edu](https://forms.saic.edu)
- - date_published: 2014-07-03T00:00:00+00:00
-
- ## Admissions & Financial Aid | School of the Art Institute of Chicago
- - [https://go.saic.edu](https://go.saic.edu)
- - date_published: 2024-07-21T20:20:07+00:00
-
- ## School of the Art Institute of Chicago
- - [https://saic.edu](https://saic.edu)
- - date_published: 2024-04-30T03:10:41.863491+00:00
-
- ## Home
- - [http://www.sais-jhu.edu](http://www.sais-jhu.edu)
- - date_published: 2024-07-22T17:06:26+00:00
-
- ## Salem State University | A Proud Massachusetts Public University
- - [http://salemstate.edu](http://salemstate.edu)
- - date_published: 2024-06-24T07:27:56+00:00
-
- ## Salisbury University, Universities in Maryland
- - [http://www.salisbury.edu](http://www.salisbury.edu)
- - date_published: 2024-07-02T03:25:25.342185+00:00
-
- ## Home
- - [https://campaign.salk.edu](https://campaign.salk.edu)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Spring 2024 - Inside Salk
- - [http://inside.salk.edu](http://inside.salk.edu)
- - date_published: 2024-07-02T01:33:43.212184+00:00
-
- ## Outlook
- - [https://owa.salk.edu](https://owa.salk.edu)
- - date_published: 2024-07-02T01:33:45.128816+00:00
-
- ## Salk Institute for Biological Studies
- - [http://rolodex.salk.edu](http://rolodex.salk.edu)
- - date_published: 2024-07-02T01:33:51.832437+00:00
 

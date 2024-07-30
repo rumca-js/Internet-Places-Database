@@ -1,3 +1,8 @@
+ ## Crafting {:} a Life – A Charlottetown Unconference, June 2019
+ - [https://cal.ruk.ca](https://cal.ruk.ca)
+ - date_published: 2024-06-08T13:10:07.653599+00:00
+ - tags: ['conference', 'personal']
+
  ## ruk.ca
  - [https://ruk.ca](https://ruk.ca)
  - date_published: 2023-12-24T18:31:10.288244+00:00
@@ -4026,8 +4031,4 @@
  ## Passport York Login
  - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
  - date_published: 2024-07-08T23:02:02.959783+00:00
-
- ## Passport York Login
- - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
- - date_published: 2024-05-09T06:47:35.611383+00:00
 

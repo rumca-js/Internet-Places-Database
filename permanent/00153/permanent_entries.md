@@ -1,3 +1,199 @@
+ ## Uptodown.com
+ - [https://it.uptodown.com](https://it.uptodown.com)
+ - date_published: 2024-07-14T11:48:40.620785+00:00
+
+ ## ポイ活メダル (Android)
+ - [https://jp-digimerce-cranejp1.uptodown.com](https://jp-digimerce-cranejp1.uptodown.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Uptodown.com
+ - [https://jp.uptodown.com](https://jp.uptodown.com)
+ - date_published: 2024-07-14T11:50:04.057531+00:00
+
+ ## Jurit Malam: Kost 1000 Pintu (Android)
+ - [https://jurit-malam-kost-1000-pintu.uptodown.com](https://jurit-malam-kost-1000-pintu.uptodown.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Krece (Android)
+ - [https://krece.uptodown.com](https://krece.uptodown.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Krispy Kreme (Android)
+ - [https://krispy-kreme.uptodown.com](https://krispy-kreme.uptodown.com)
+ - date_published: 2024-07-14T11:48:27.729446+00:00
+
+ ## Uptodown.com
+ - [https://kr.uptodown.com](https://kr.uptodown.com)
+ - date_published: 2024-07-14T11:47:41.262413+00:00
+
+ ## Lama Ludo (Android)
+ - [https://lama-ludo-ludoandchatroom.uptodown.com](https://lama-ludo-ludoandchatroom.uptodown.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Legend of Mushroom (Android)
+ - [https://legend-of-mushroom.uptodown.com](https://legend-of-mushroom.uptodown.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## App Oficial de LALIGA (Android)
+ - [https://liga-de-futbol-profesional.uptodown.com](https://liga-de-futbol-profesional.uptodown.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Likee (Android)
+ - [https://like.uptodown.com](https://like.uptodown.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## LiveScore: Live Sports Scores (Android)
+ - [https://livescore.uptodown.com](https://livescore.uptodown.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Magisk Manager (Android)
+ - [https://magisk-manager.uptodown.com](https://magisk-manager.uptodown.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Max: Stream HBO, TV, & Movies (Android)
+ - [https://max-stream-hbo-tv-and-movies.uptodown.com](https://max-stream-hbo-tv-and-movies.uptodown.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## MercadoLibre (Android)
+ - [https://mercadolibre.uptodown.com](https://mercadolibre.uptodown.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Messenger Lite (Android)
+ - [https://messenger-lite.uptodown.com](https://messenger-lite.uptodown.com)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## Microsoft Edge (Android)
+ - [https://microsoft-edge.uptodown.com](https://microsoft-edge.uptodown.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Microsoft Excel (Android)
+ - [https://microsoft-excel-preview.uptodown.com](https://microsoft-excel-preview.uptodown.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Microsoft 365 (Office) (Android)
+ - [https://microsoft-office-word-excel-powerpoint-and-more.uptodown.com](https://microsoft-office-word-excel-powerpoint-and-more.uptodown.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Microsoft PowerPoint (Android)
+ - [https://microsoft-powerpoint.uptodown.com](https://microsoft-powerpoint.uptodown.com)
+ - date_published: 2024-07-14T11:50:17.129589+00:00
+
+ ## Microsoft Word (Android)
+ - [https://microsoft-word-preview.uptodown.com](https://microsoft-word-preview.uptodown.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Monster Box 2 (Android)
+ - [https://monster-box-2.uptodown.com](https://monster-box-2.uptodown.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Monster Super League (Android)
+ - [https://monster-super-league.uptodown.com](https://monster-super-league.uptodown.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Muscle Car Stunts (Android)
+ - [https://muscle-car-stunts-2020.uptodown.com](https://muscle-car-stunts-2020.uptodown.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## National Bubble Superman (Android)
+ - [https://national-bubble-superman.uptodown.com](https://national-bubble-superman.uptodown.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Need for Speed: Assemble (Android)
+ - [https://need-for-speed-assemble.uptodown.com](https://need-for-speed-assemble.uptodown.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Netflix (Android TV) (Android)
+ - [https://netflix-inc-netflix.uptodown.com](https://netflix-inc-netflix.uptodown.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Netflix (Android)
+ - [https://netflix.uptodown.com](https://netflix.uptodown.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## NewPipe (Android)
+ - [https://newpipe.uptodown.com](https://newpipe.uptodown.com)
+ - date_published: 2024-07-14T11:46:49.719397+00:00
+
+ ## noplace (Android)
+ - [https://noplace.uptodown.com](https://noplace.uptodown.com)
+ - date_published: 2024-07-14T11:50:47.086636+00:00
+
+ ## Onefootball (Android)
+ - [https://onefootball.uptodown.com](https://onefootball.uptodown.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Online Soccer Manager (Android)
+ - [https://online-soccer-manager.uptodown.com](https://online-soccer-manager.uptodown.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Otherworld Three Kingdoms (Android)
+ - [https://otherworld-three-kingdoms.uptodown.com](https://otherworld-three-kingdoms.uptodown.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Palworld (Android)
+ - [https://palworld.uptodown.com](https://palworld.uptodown.com)
+ - date_published: 2024-07-14T11:49:39.405488+00:00
+
+ ## Pandroid (Android)
+ - [https://pandroid.uptodown.com](https://pandroid.uptodown.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Pinterest (Android)
+ - [https://pinterest.uptodown.com](https://pinterest.uptodown.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Pixel Shimeji - Desktop Pet (Android)
+ - [https://pixel-shimeji-desktop-pet.uptodown.com](https://pixel-shimeji-desktop-pet.uptodown.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Pocket Mortys (Android)
+ - [https://pocket-mortys.uptodown.com](https://pocket-mortys.uptodown.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Poikatsu Jigsaw (Android)
+ - [https://poikatsu-jigsaw.uptodown.com](https://poikatsu-jigsaw.uptodown.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Pokémon Café ReMix (Android)
+ - [https://pokemon-cafe-mix.uptodown.com](https://pokemon-cafe-mix.uptodown.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Pokemon Duel (Android)
+ - [https://pokemon-duel.uptodown.com](https://pokemon-duel.uptodown.com)
+ - date_published: 2024-07-14T11:47:51.167912+00:00
+
+ ## Pokémon Masters (Android)
+ - [https://pokemon-masters.uptodown.com](https://pokemon-masters.uptodown.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Pokemon Quest (Android)
+ - [https://pokemon-quest.uptodown.com](https://pokemon-quest.uptodown.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Pokémon Sleep (Android)
+ - [https://pokemon-sleep.uptodown.com](https://pokemon-sleep.uptodown.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## JCC Pokémon Live (Android)
+ - [https://pokemon-tcg-live.uptodown.com](https://pokemon-tcg-live.uptodown.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## JCC Pokémon Online (Android)
+ - [https://pokemon-trading-card-game-online.uptodown.com](https://pokemon-trading-card-game-online.uptodown.com)
+ - date_published: 2024-07-14T11:47:38.486472+00:00
+
+ ## Pokémon UNITE (Android)
+ - [https://pokemon-unite.uptodown.com](https://pokemon-unite.uptodown.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## PUBG MOBILE (Android)
+ - [https://pubg-mobile.uptodown.com](https://pubg-mobile.uptodown.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## QuickShortcutMaker (Android)
+ - [https://quickshortcutmaker.uptodown.com](https://quickshortcutmaker.uptodown.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
  ## BeSoccer (Android)
  - [https://resultados-de-futbol.uptodown.com](https://resultados-de-futbol.uptodown.com)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -558,6 +754,10 @@
  ## Uruguay Video Games
  - [https://uruguayvideogames.com](https://uruguayvideogames.com)
  - date_published: 2024-06-26T21:56:10.566409+00:00
+
+ ## Apax Partners
+ - [http://www.apax.us.com](http://www.apax.us.com)
+ - date_published: 2024-07-29T17:03:20.730568+00:00
 
  ## Attention Required! | Cloudflare
  - [https://cylex.us.com](https://cylex.us.com)
@@ -3830,206 +4030,4 @@
  ## Discover Stellinart, a unique collaboration
  - [https://www.stellinart.vaonis.com](https://www.stellinart.vaonis.com)
  - date_published: 2019-12-18T00:00:00+00:00
-
- ## The most innovative smart telescopes
- - [http://www.vaonis.com](http://www.vaonis.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Vape Juice | The #1 Online Vape Shop - Cheap Vape Juice Prices
- - [https://vapejuice.com](https://vapejuice.com)
- - date_published: 2024-04-29T05:43:39.692333+00:00
-
- ## Best Online Vape Shop USA - Ecigs, Vape Mods, Kits & E-liquids | Vapesourcing
- - [https://vapesourcing.com](https://vapesourcing.com)
- - date_published: 2024-04-29T05:43:54.220149+00:00
-
- ## China's Source for Wholesale Disposable Vapes | Vapessell
- - [https://www.vapessell.com](https://www.vapessell.com)
- - date_published: 2024-06-29T19:41:58.016499+00:00
-
- ## Vape Wholesale Distribution USA - Best Prices Vaping Supplies And E-Liquid
- - [https://vapewholesaleusa.com](https://vapewholesaleusa.com)
- - date_published: 2024-04-29T05:43:42.529878+00:00
-
- ## Vaping News Network - Vapingnn.com
- - [https://vapingnn.com](https://vapingnn.com)
- - date_published: 2021-09-28T22:55:08+00:00
-
- ## Vaping Underground Forums - An Ecig and Vaping Forum
- - [http://vapingunderground.com](http://vapingunderground.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## vapor.com Canada
- - [https://canada.vapor.com](https://canada.vapor.com)
- - date_published: 2024-05-06T21:33:15.334197+00:00
-
- ## The best place online to buy vaporizers and glass  - vapor.com
- - [https://vapor.com](https://vapor.com)
- - date_published: 2024-05-06T21:33:12.355217+00:00
-
- ## Vapor Boss | Online Vape Shop - E-liquids, Vapes, E-juice, Salt Nic
- - [https://vaporboss.com](https://vaporboss.com)
- - date_published: 2024-04-29T05:43:46.066741+00:00
-
- ## VapourSynth | The future home of VapourSynth… 3000!
- - [https://vapoursynth.com](https://vapoursynth.com)
- - date_published: 2024-05-06T21:33:28.122948+00:00
-
- ## iOS, Mobile & Engineering | VaraniOS
- - [https://varanios.com](https://varanios.com)
- - date_published: 2024-06-23T14:36:08.313388+00:00
-
- ## Ledige stillinger hos Arkitektskolen Aarhus
- - [https://aarch.varbi.com](https://aarch.varbi.com)
- - date_published: 2024-07-08T15:05:46.096333+00:00
-
- ## Space born, Earth bound • Varda Space Industries
- - [https://www.varda.com](https://www.varda.com)
- - date_published: 2024-06-27T05:32:51.339979+00:00
-
- ## Variable Font Course with Typearture
- - [https://www.variablefontcourse.com](https://www.variablefontcourse.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Variance Charts
- - [http://variancecharts.com](http://variancecharts.com)
- - date_published: 2016-01-11T02:39:48+00:00
-
- ## Variantes : Boutique Spécialiste du Jeu de Société et du Jeu d'échecs située à Paris - Variantes
- - [https://www.variantes.com](https://www.variantes.com)
- - date_published: 2024-02-08T18:00:45.195519+00:00
-
- ## varia Pulse
- - [https://variapulse.com](https://variapulse.com)
- - date_published: 2024-01-08T00:13:21.167973+00:00
-
- ## Variety Events
- - [https://events.variety.com](https://events.variety.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Variety Archive
- - [https://read-archive.variety.com](https://read-archive.variety.com)
- - date_published: 2024-05-06T21:33:46.233636+00:00
-
- ## Variety
- - [https://read.variety.com](https://read.variety.com)
- - date_published: 2024-05-06T21:33:31.633197+00:00
-
- ## Variety
- - [https://variety.com](https://variety.com)
- - date_published: 2023-10-25T10:17:55.128799+00:00
-
- ## Variety
- - [http://www.variety.com](http://www.variety.com)
- - date_published: 2024-06-20T02:59:46.362428+00:00
-
- ## Luminate Film & TV: Entertainment Data • Research Tools • Industry Directory • Film in Development • TV & Streaming Pilots • Ratings & Box Office
- - [https://www.varietyinsight.com](https://www.varietyinsight.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Hållbart spelande | Utan spelpaus
- - [http://varifrank.com](http://varifrank.com)
- - date_published: 2024-06-27T09:10:06.902072+00:00
-
- ## Brian Whitman
- - [https://notes.variogram.com](https://notes.variogram.com)
- - date_published: 2023-10-25T17:55:33.688023+00:00
-
- ## Various and Sundry - An Assortment of Thoughts about Programming and More
- - [http://variousandsundry.com](http://variousandsundry.com)
- - date_published: 2024-06-22T15:56:47.744848+00:00
-
- ## Various Consequences
- - [http://www.variousconsequences.com](http://www.variousconsequences.com)
- - date_published: 2024-06-28T14:00:37+00:00
-
- ## Plastikkarten Hersteller • VARIUSCARD • Made in AUSTRIA
- - [https://www.variuscard.com](https://www.variuscard.com)
- - date_published: 2022-08-23T00:00:00+00:00
-
- ## VARIUS SYSTEMS
- - [https://igor.variussystems.com](https://igor.variussystems.com)
- - date_published: 2024-06-28T21:51:59.037047+00:00
-
- ## Varney's Restaurant
- - [https://varneysrestaurant.com](https://varneysrestaurant.com)
- - date_published: 2024-07-19T03:25:58.423435+00:00
-
- ## Varnish Software Documentation
- - [https://docs.varnish-software.com](https://docs.varnish-software.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Resources
- - [https://info.varnish-software.com](https://info.varnish-software.com)
- - date_published: 2024-04-12T11:10:20+00:00
-
- ## Home page EMEA
- - [https://www.varnish-software.com](https://www.varnish-software.com)
- - date_published: 2024-02-07T17:14:55+00:00
-
- ## Varo
- - [https://www.varomoney.com](https://www.varomoney.com)
- - date_published: 2024-06-23T10:02:08.556548+00:00
-
- ## Varonis Brand Guidelines | Media kit
- - [https://brand.varonis.com](https://brand.varonis.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Varonis Careers
- - [https://careers.varonis.com](https://careers.varonis.com)
- - date_published: 2024-07-23T22:41:42.027278+00:00
-
- ## Varonis Help Center
- - [https://help.varonis.com](https://help.varonis.com)
- - date_published: 2024-07-23T22:41:47.582690+00:00
-
- ## Varonis: Automated Data Security | DSPM | AI
- - [https://info.varonis.com](https://info.varonis.com)
- - date_published: 2024-07-23T22:41:40.179101+00:00
-
- ## MyVaronis - Login
- - [https://my.varonis.com](https://my.varonis.com)
- - date_published: 2024-07-23T22:41:43.161222+00:00
-
- ## Varonis: Automated Data Security | DSPM | AI
- - [https://varonis.com](https://varonis.com)
- - date_published: 2024-04-29T07:31:35.672842+00:00
-
- ## Varsity Maine: Portland Press Herald/CentralMaine.com
- - [https://www.varsitymaine.com](https://www.varsitymaine.com)
- - date_published: 2024-06-29T05:16:34.486975+00:00
-
- ## VARTA - Empowering Independence | VARTA AG
- - [https://www.varta-ag.com](https://www.varta-ag.com)
- - date_published: 2024-06-10T13:06:57.137914+00:00
-
- ## Varun Pant
- - [https://varunpant.com](https://varunpant.com)
- - date_published: 2023-02-11T20:01:00+00:00
- - tags: ['personal']
-
- ## Varvet
- - [https://varvet.com](https://varvet.com)
- - date_published: 2024-05-10T05:59:15.849710+00:00
-
- ## varvis® - Focus on diagnostics, we process the data
- - [https://www.varvis.com](https://www.varvis.com)
- - date_published: 2024-06-12T08:56:43+00:00
-
- ## Jutawantoto Situs Bo Togel Online Bandar Toto Terpercaya 2024
- - [https://varvy.com](https://varvy.com)
- - date_published: 2024-07-04T04:07:36.596503+00:00
-
- ## Electronic Signature, Cloud Authentication, Mobile App Security | OneSpan
- - [http://vasco.com](http://vasco.com)
- - date_published: 2024-07-03T06:18:55.307624+00:00
-
- ## Vashishtha Kapoor | Blogger, Technical Writer, WP Dev & SysAdmin
- - [https://vashishthakapoor.com](https://vashishthakapoor.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Virtual Servers with the Best Administration ➡️ VPS Centre | Váš-Hosting
- - [https://www.vas-hosting.com](https://www.vas-hosting.com)
- - date_published: 2024-06-11T13:52:45.149697+00:00
- - tags: ['server hosting']
 

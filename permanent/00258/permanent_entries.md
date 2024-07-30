@@ -1,3 +1,272 @@
+ ## Folklorist
+ - [https://folklorist.org](https://folklorist.org)
+ - date_published: 2024-06-19T02:45:53.960655+00:00
+
+ ## Folk Stories
+ - [https://folkstories.org](https://folkstories.org)
+ - date_published: 2019-11-18T16:41:24+00:00
+
+ ## Follow the Crypto
+ - [https://www.followthecrypto.org](https://www.followthecrypto.org)
+ - date_published: 2024-07-12T19:29:21+00:00
+
+ ## Home - FollowTheMoney.org
+ - [https://www.followthemoney.org](https://www.followthemoney.org)
+ - date_published: 2024-05-23T21:22:52+00:00
+
+ ## Home - Folly Theater
+ - [https://follytheater.org](https://follytheater.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Fondation Arthritis - Recherche & Rhumatismes
+ - [https://fondation-arthritis.org](https://fondation-arthritis.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Fondation CNRS: Pour une recherche ambitieuse et libre
+ - [https://fondation-cnrs.org](https://fondation-cnrs.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Faire un don à notre Fondation
+ - [https://dons.fondationdefrance.org](https://dons.fondationdefrance.org)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Fondation de France |
+ - [https://espacefondateur.fondationdefrance.org](https://espacefondateur.fondationdefrance.org)
+ - date_published: 2024-07-12T05:14:03+00:00
+
+ ## Impôt sur la Fortune Immobilière (IFI) - Fondation de France
+ - [https://ifi.fondationdefrance.org](https://ifi.fondationdefrance.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Fondation de France : fondation de toutes les causes
+ - [https://fondationdefrance.org](https://fondationdefrance.org)
+ - date_published: 2024-05-10T04:31:54.948959+00:00
+
+ ## Accueil - Fondation de l’ICM
+ - [https://fondationicm.org](https://fondationicm.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Accueil | Fondation Université Paris Cité
+ - [https://fondation-uparis.org](https://fondation-uparis.org)
+ - date_published: 2024-07-02T22:32:07+00:00
+
+ ## Fondazione il Fatto Quotidiano
+ - [https://www.fondazioneilfattoquotidiano.org](https://www.fondazioneilfattoquotidiano.org)
+ - date_published: 2024-07-15T03:15:50.287967+00:00
+
+ ## ERICH LINDENBERG - ART FOUNDATION
+ - [http://www.fondazionelindenberg.org](http://www.fondazionelindenberg.org)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Home - Fondazione Sviluppo Sostenibile
+ - [https://www.fondazionesvilupposostenibile.org](https://www.fondazionesvilupposostenibile.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Fonds pour une presse libre
+ - [https://fondspresselibre.org](https://fondspresselibre.org)
+ - date_published: 2024-07-09T07:02:41.469233+00:00
+
+ ## FoneSpy – Best Phone Spy Apps without Permission
+ - [https://fonespy.org](https://fonespy.org)
+ - date_published: 2024-05-09T08:05:57.364484+00:00
+
+ ## FontForge
+ - [https://fontforge.org](https://fontforge.org)
+ - date_published: 2023-01-01T06:09:39+00:00
+
+ ## Font Library
+ - [https://fontlibrary.org](https://fontlibrary.org)
+ - date_published: 2024-06-16T11:31:57.526993+00:00
+
+ ## foobar2000
+ - [https://foobar2000.org](https://foobar2000.org)
+ - date_published: 2023-11-01T08:41:06.699661+00:00
+ - tags: ['media player', 'desktop program', 'music player']
+
+ ## Food & Friends | Delivering hope, one meal at a time.
+ - [https://foodandfriends.org](https://foodandfriends.org)
+ - date_published: 2024-06-29T15:22:14.626709+00:00
+
+ ## Food Bank For New York City | One Mission. Five Boroughs. Feed All.
+ - [https://www.foodbanknyc.org](https://www.foodbanknyc.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home
+ - [https://foodrevolution.org](https://foodrevolution.org)
+ - date_published: 2018-07-11T00:53:26+00:00
+
+ ## FoodTalk
+ - [https://foodtalk.org](https://foodtalk.org)
+ - date_published: 2024-07-02T02:23:55.402749+00:00
+
+ ## foodwatch International
+ - [https://www.foodwatch.org](https://www.foodwatch.org)
+ - date_published: 2024-07-03T16:01:12.839091+00:00
+
+ ## Foodwise : Education. Farmers markets. Community.
+ - [https://foodwise.org](https://foodwise.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Daniel Stone
+ - [https://www.fooishbar.org](https://www.fooishbar.org)
+ - date_published: 2018-07-29T00:00:00+00:00
+
+ ## Home | Mohammed Sameer's
+ - [http://foolab.org](http://foolab.org)
+ - date_published: 2024-07-09T08:05:05.093309+00:00
+
+ ## FoolControl: Phear the penguin
+ - [https://foolcontrol.org](https://foolcontrol.org)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## The Motley Fool Foundation – Financial Freedom for all
+ - [https://foolfoundation.org](https://foolfoundation.org)
+ - date_published: 2024-06-15T02:55:39.321119+00:00
+
+ ## Foone Wiki
+ - [http://foone.org](http://foone.org)
+ - date_published: 2023-04-24T00:00:00+00:00
+
+ ## Foone Wiki
+ - [https://wiki.foone.org](https://wiki.foone.org)
+ - date_published: 2023-04-24T00:00:00+00:00
+
+ ## How many planets does it take to sustain your lifestyle?
+ - [https://footprintcalculator.org](https://footprintcalculator.org)
+ - date_published: 2024-01-22T16:17:08+00:00
+
+ ## Open Data Platform
+ - [https://data.footprintnetwork.org](https://data.footprintnetwork.org)
+ - date_published: 2023-08-26T14:22:10+00:00
+
+ ## Food Footprint Platform
+ - [https://food.footprintnetwork.org](https://food.footprintnetwork.org)
+ - date_published: 2023-07-09T15:25:58+00:00
+
+ ## Earth Overshoot Day home - #MoveTheDate
+ - [https://overshoot.footprintnetwork.org](https://overshoot.footprintnetwork.org)
+ - date_published: 2024-05-08T11:21:59.008106+00:00
+
+ ## Home - Global Footprint Network
+ - [https://footprintnetwork.org](https://footprintnetwork.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Friends of the Oakland Public Library
+ - [https://fopl.org](https://fopl.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## FORCE11 – The Future of Research Communications and e-Scholarship
+ - [https://www.force11.org](https://www.force11.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Backbone
+ - [https://backbone.forcrowd.org](https://backbone.forcrowd.org)
+ - date_published: 2019-07-29T18:50:38+00:00
+
+ ## forCrowd
+ - [https://forcrowd.org](https://forcrowd.org)
+ - date_published: 2024-03-29T14:48:16+00:00
+
+ ## Global Goals Fund
+ - [https://globalgoalsfund.forcrowd.org](https://globalgoalsfund.forcrowd.org)
+ - date_published: 2018-10-15T18:58:40+00:00
+
+ ## Wealth Framework
+ - [https://wealth.forcrowd.org](https://wealth.forcrowd.org)
+ - date_published: 2018-12-08T09:44:11+00:00
+
+ ## The Darlie Routier Case: A Tragic and Controversial Case of Maternal Filicide
+ - [http://fordarlieroutier.org](http://fordarlieroutier.org)
+ - date_published: 2024-06-15T19:51:58+00:00
+
+ ## Ford Foundation Homepage - Ford Foundation
+ - [https://www.fordfound.org](https://www.fordfound.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Ford Foundation Homepage - Ford Foundation
+ - [http://fordfoundation.org](http://fordfoundation.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Ford Foundation Homepage - Ford Foundation
+ - [https://www.fordfoundation.org](https://www.fordfoundation.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Homepage | Ford Philanthropy
+ - [https://www.fordfund.org](https://www.fordfund.org)
+ - date_published: 2024-05-04T06:43:23.689383+00:00
+
+ ## The Thomas B. Fordham Institute
+ - [https://fordhaminstitute.org](https://fordhaminstitute.org)
+ - date_published: 2024-06-28T18:40:45+00:00
+
+ ## Homepage | Ford Philanthropy
+ - [https://www.fordphilanthropy.org](https://www.fordphilanthropy.org)
+ - date_published: 2024-06-18T12:48:26+00:00
+
+ ## Forecasting Research Institute
+ - [https://forecastingresearch.org](https://forecastingresearch.org)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Forensic Architecture
+ - [https://forensic-architecture.org](https://forensic-architecture.org)
+ - date_published: 2024-01-24T09:11:40.343367+00:00
+
+ ## Foresight Institute - Catalyzing Transformative Technologies
+ - [https://foresight.org](https://foresight.org)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Foresight Institute - Catalyzing Transformative Technologies
+ - [http://www.foresight.org](http://www.foresight.org)
+ - date_published: 2024-06-27T05:04:48+00:00
+
+ ## Continuing Care Retirement Community - Durham NC | The Forest at Duke
+ - [https://forestduke.org](https://forestduke.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Forethought Foundation
+ - [https://www.forethought.org](https://www.forethought.org)
+ - date_published: 2024-06-21T11:38:58.268235+00:00
+
+ ## ForgeFed
+ - [https://forgefed.org](https://forgefed.org)
+ - date_published: 2023-10-25T21:21:36.586257+00:00
+
+ ## Forgejo – Beyond coding. We forge.
+ - [https://forgejo.org](https://forgejo.org)
+ - date_published: 2023-10-25T21:21:37.400053+00:00
+
+ ## Forgejo Demo [FOR TESTING ONLY, ALL DATA CAN BE WIPED OUT AT ANY TIME]
+ - [https://next.forgejo.org](https://next.forgejo.org)
+ - date_published: 2024-06-19T22:10:18.722892+00:00
+
+ ## Software Forge Performance Index
+ - [https://forgeperf.org](https://forgeperf.org)
+ - date_published: 2023-10-25T21:21:47.839606+00:00
+
+ ## Form-Based Codes Institute - Fostering Time-tested Urban Form
+ - [http://formbasedcodes.org](http://formbasedcodes.org)
+ - date_published: 2024-06-28T13:26:22.510047+00:00
+
+ ## FORMED | On-Demand Catholic Movies, Audio Books, Podcasts & More
+ - [https://formed.org](https://formed.org)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Formik
+ - [https://formik.org](https://formik.org)
+ - date_published: 2024-06-23T03:54:11.183378+00:00
+
+ ## Fornaxis
+ - [https://fornaxis.org](https://fornaxis.org)
+ - date_published: 2014-07-03T00:00:00+00:00
+
+ ## Support Your Beavers
+ - [https://give.fororegonstate.org](https://give.fororegonstate.org)
+ - date_published: 2024-06-16T22:24:38.157395+00:00
+
+ ## Oregon State University Foundation & Alumni Association Homepage
+ - [https://www.fororegonstate.org](https://www.fororegonstate.org)
+ - date_published: 2024-06-16T22:24:58.519360+00:00
+
  ## Fundación Foro Suroccidente
  - [https://forosuroccidente.org](https://forosuroccidente.org)
  - date_published: 2024-06-12T03:12:43.827413+00:00
@@ -3798,278 +4067,4 @@ encryption
  ## Stars77 > Your Next Level Skill Development In Your Hand
  - [https://ghanacbc.org](https://ghanacbc.org)
  - date_published: 2024-07-18T05:22:12+00:00
-
- ## GH Archive
- - [https://www.gharchive.org](https://www.gharchive.org)
- - date_published: 2024-05-06T09:08:04.770332+00:00
-
- ## ghazali.org – a virtual online library
- - [http://www.ghazali.org](http://www.ghazali.org)
- - date_published: 2024-07-02T05:39:54.130873+00:00
-
- ## Ghidra
- - [https://ghidra-sre.org](https://ghidra-sre.org)
- - date_published: 2021-06-30T16:14:31+00:00
- - tags: ['reverse engineering', 'nsa', 'windows']
-
- ## Paulo Ghiraldelli
- - [http://ghiraldelli.org](http://ghiraldelli.org)
- - date_published: 2024-07-01T06:41:17+00:00
-
- ## Home - GHLF.org
- - [https://www.ghlf.org](https://www.ghlf.org)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Ghost: Sign up
- - [https://account.ghost.org](https://account.ghost.org)
- - date_published: 2024-04-28T02:41:35.828118+00:00
-
- ## Building ActivityPub
- - [https://activitypub.ghost.org](https://activitypub.ghost.org)
- - date_published: 2024-04-23T09:37:27.234801+00:00
-
- ## Ghost
- - [https://careers.ghost.org](https://careers.ghost.org)
- - date_published: 2017-07-25T00:00:00+00:00
-
- ## e.ghost.org
- - [https://e.ghost.org](https://e.ghost.org)
- - date_published: 2024-07-09T17:41:26.735538+00:00
-
- ## Ghost Forum
- - [https://forum.ghost.org](https://forum.ghost.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Ghost: Independent technology for modern publishing
- - [https://ghost.org](https://ghost.org)
- - date_published: 2024-03-28T06:50:16+00:00
- - tags: ['online publishing', 'open source', 'cms', 'self-host']
-
- ## Ghost Help Center
- - [https://help.ghost.org](https://help.ghost.org)
- - date_published: 2024-06-29T09:48:40.099089+00:00
-
- ## Static
- - [https://static.ghost.org](https://static.ghost.org)
- - date_published: 2024-04-28T00:24:28.510120+00:00
-
- ## Ghost Status
- - [https://status.ghost.org](https://status.ghost.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Ghostarchive, a website archive
- - [https://ghostarchive.org](https://ghostarchive.org)
- - date_published: 2024-01-04T15:22:03+00:00
- - tags: ['internet archive']
-
- ## - Index page
- - [https://forums.ghostbsd.org](https://forums.ghostbsd.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## A simple, elegant desktop BSD Operating System | GhostBSD
- - [https://ghostbsd.org](https://ghostbsd.org)
- - date_published: 2024-05-11T08:20:20.791407+00:00
- - tags: ['operating system']
-
- ## Solutions de défiscalisation | ghostinthewire.org
- - [http://ghostinthewire.org](http://ghostinthewire.org)
- - date_published: 2024-06-30T04:30:19.394211+00:00
-
- ## GHSA | Governors Highway Safety Association
- - [https://www.ghsa.org](https://www.ghsa.org)
- - date_published: 2023-10-25T21:24:45.901586+00:00
-
- ## Cyber Security Certifications | GIAC Certifications
- - [https://www.giac.org](https://www.giac.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Science is Cool : Les actions scolaires scientifiques du campus GIANT
- - [http://www.giantatschool.org](http://www.giantatschool.org)
- - date_published: 2024-07-03T05:37:37.184400+00:00
-
- ## GIANT campus
- - [https://giant-grenoble.org](https://giant-grenoble.org)
- - date_published: 2024-05-08T00:27:01.865279+00:00
-
- ## For expertise in digital preservation
- - [http://www.giaretta.org](http://www.giaretta.org)
- - date_published: 2024-07-17T03:05:11.255870+00:00
-
- ## Gibberfish Social
- - [https://social.gibberfish.org](https://social.gibberfish.org)
- - date_published: 2024-07-10T07:29:23.669063+00:00
-
- ## Gibbon - The Flexible School Platform
- - [https://gibbonedu.org](https://gibbonedu.org)
- - date_published: 2024-05-21T04:09:31+00:00
-
- ## Marek Gibney
- - [https://www.gibney.org](https://www.gibney.org)
- - date_published: 2023-10-25T21:24:48.576733+00:00
-
- ## GIC Homepage
- - [https://www.gic.org](https://www.gic.org)
- - date_published: 2024-06-23T07:54:00+00:00
-
- ## Global Indigenous Data Alliance
- - [https://www.gida-global.org](https://www.gida-global.org)
- - date_published: 2024-06-28T22:10:12.033016+00:00
-
- ## gifcities.org by Internet Archive – search for GIFs scraped off geocities sites
- - [https://gifcities.org](https://gifcities.org)
- - date_published: 2024-02-26T00:46:08+00:00
- - tags: ['old internet', 'geocities']
-
- ## giffmex.org/home —
- - [https://giffmex.org](https://giffmex.org)
- - date_published: 2024-06-06T15:34:54+00:00
-
- ## Home
- - [https://giffords.org](https://giffords.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Gift of Jazz Home Page | Colorado Jazz Nonprofit since 1995
- - [http://www.giftofjazz.org](http://www.giftofjazz.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Cornell Lab of Ornithology Planned Giving :: Welcome to Gift Planning
- - [https://birds.cornell.giftplans.org](https://birds.cornell.giftplans.org)
- - date_published: 2024-07-12T17:08:37.793969+00:00
-
- ## The Cleveland Museum of Art Planned Giving :: Welcome
- - [https://clevelandart.giftplans.org](https://clevelandart.giftplans.org)
- - date_published: 2024-07-02T09:02:08.319880+00:00
-
- ## Environmental Defense Fund Planned Giving :: Welcome to Planned Giving
- - [https://edf.giftplans.org](https://edf.giftplans.org)
- - date_published: 2024-05-12T07:37:50.346195+00:00
-
- ## Northwell Health Foundation | Gift Planning :: Welcome to Gift Planning
- - [https://northwell.giftplans.org](https://northwell.giftplans.org)
- - date_published: 2024-07-01T16:28:27.758125+00:00
-
- ## Santa Fe Institute Planned Giving :: Gift Planning
- - [https://santafe.giftplans.org](https://santafe.giftplans.org)
- - date_published: 2024-05-07T20:23:15.254397+00:00
-
- ## Swarthmore College Gift Planning :: Gift Planning
- - [https://swarthmore.giftplans.org](https://swarthmore.giftplans.org)
- - date_published: 2024-07-01T20:48:38.876786+00:00
-
- ## The University of Alabama Planned Giving :: Planned Giving
- - [https://ua.giftplans.org](https://ua.giftplans.org)
- - date_published: 2024-07-01T22:02:52.127310+00:00
-
- ## The University of Houston Planned Giving :: Planned Giving
- - [https://uh.giftplans.org](https://uh.giftplans.org)
- - date_published: 2024-07-02T02:26:10.375715+00:00
-
- ## UNM Planned Giving :: Welcome to Gift Planning
- - [https://unmfund.giftplans.org](https://unmfund.giftplans.org)
- - date_published: 2024-07-02T05:05:47.119148+00:00
-
- ## Gigafact: Making facts ubiquitous and accessible to all
- - [https://gigafact.org](https://gigafact.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## GIGA！無料通信
- - [https://www.gigafree.org](https://www.gigafree.org)
- - date_published: 2024-04-30T06:13:14+00:00
-
- ## Global Investigative Journalism Network
- - [https://gijn.org](https://gijn.org)
- - date_published: 2023-10-25T21:24:56.514394+00:00
-
- ## Home
- - [https://gilcrease.org](https://gilcrease.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Giles Turnbull's website
- - [https://gilest.org](https://gilest.org)
- - date_published: 2024-01-10T02:57:57.538118+00:00
-
- ## Igor Gilitschenski
- - [https://www.gilitschenski.org](https://www.gilitschenski.org)
- - date_published: 2020-11-02T00:00:00+00:00
-
- ## Gill Foundation
- - [https://gillfoundation.org](https://gillfoundation.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Home - TJ Owens Gilroy Early College Academy 2022
- - [https://geca.gilroyunified.org](https://geca.gilroyunified.org)
- - date_published: 2024-07-02T20:13:26.871808+00:00
-
- ## GIMP Developer - GIMP Development
- - [https://developer.gimp.org](https://developer.gimp.org)
- - date_published: 2024-05-12T04:41:33.571629+00:00
-
- ## GIMP Documentation
- - [https://docs.gimp.org](https://docs.gimp.org)
- - date_published: 2024-07-15T01:25:06+00:00
-
- ## GIMP
- - [https://gimp.org](https://gimp.org)
- - date_published: 2024-05-04T09:29:02.915500+00:00
- - tags: ['open source', 'desktop program', 'image editor']
-
- ## GIMP scripts and patterns and stuff...
- - [https://www.gimphelp.org](https://www.gimphelp.org)
- - date_published: 2021-04-05T19:03:54+00:00
-
- ## gingerBill
- - [https://www.gingerbill.org](https://www.gingerbill.org)
- - date_published: 2023-10-25T21:24:58.962507+00:00
-
- ## Gio UI
- - [https://gioui.org](https://gioui.org)
- - date_published: 2024-05-01T08:44:59.670726+00:00
-
- ## Home - GIPLATFORM
- - [https://giplatform.org](https://giplatform.org)
- - date_published: 2022-04-02T15:57:19+00:00
-
- ## Girls' Angle: A Math Club for Girls
- - [http://www.girlsangle.org](http://www.girlsangle.org)
- - date_published: 2024-06-30T09:29:52.601499+00:00
-
- ## The Lower Eastside Girls Club of NY • Joy, Power & Possibility
- - [https://www.girlsclub.org](https://www.girlsclub.org)
- - date_published: 2024-07-09T19:03:54.167603+00:00
-
- ## Homepage - Germany
- - [https://germany.girlsintech.org](https://germany.girlsintech.org)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Home - Girls in Tech
- - [https://girlsintech.org](https://girlsintech.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://jobs.girlsintech.org](https://jobs.girlsintech.org)
- - date_published: 2024-06-15T20:05:51.913360+00:00
-
- ## The Girls in Tech Shop
- - [https://shop.girlsintech.org](https://shop.girlsintech.org)
- - date_published: 2024-06-15T20:06:01.957232+00:00
-
- ## Homepage - spain
- - [https://spain.girlsintech.org](https://spain.girlsintech.org)
- - date_published: 2023-05-02T00:00:00+00:00
-
- ## Girls Learn International –
- - [https://girlslearn.org](https://girlslearn.org)
- - date_published: 2024-07-19T02:55:34.240638+00:00
-
- ## Home | Girls Who Drone
- - [http://www.girlswhodrone.org](http://www.girlswhodrone.org)
- - date_published: 2024-06-20T12:54:41.967737+00:00
-
- ## GISAID - gisaid.org
- - [https://gisaid.org](https://gisaid.org)
- - date_published: 2024-06-15T18:57:29.308641+00:00
-
- ## Home - GISCorps - GIS Professionals Volunteering for a Better World
- - [https://www.giscorps.org](https://www.giscorps.org)
- - date_published: 2024-05-14T00:00:00+00:00
 

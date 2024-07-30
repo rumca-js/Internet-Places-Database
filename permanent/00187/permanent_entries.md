@@ -1,3 +1,215 @@
+ ## User account | Staff Resources
+ - [https://staff.libraries.rutgers.edu](https://staff.libraries.rutgers.edu)
+ - date_published: 2024-07-14T23:44:25.233590+00:00
+
+ ## Statewide | Rutgers Statewide Partnerships
+ - [https://statewide.rutgers.edu](https://statewide.rutgers.edu)
+ - date_published: 2024-06-27T21:01:18+00:00
+
+ ## Home | Rutgers Newark Student Affairs
+ - [https://studentaffairs.newark.rutgers.edu](https://studentaffairs.newark.rutgers.edu)
+ - date_published: 2024-05-12T04:30:35.332981+00:00
+
+ ## Resources Available for Student Success | Success
+ - [https://success.rutgers.edu](https://success.rutgers.edu)
+ - date_published: 2024-07-01T18:40:22.147839+00:00
+
+ ## Summer Session
+ - [https://summer.camden.rutgers.edu](https://summer.camden.rutgers.edu)
+ - date_published: 2024-07-01T19:01:25.069861+00:00
+
+ ## Welcome to Rutgers University | Rutgers University
+ - [https://summer.newark.rutgers.edu](https://summer.newark.rutgers.edu)
+ - date_published: 2024-05-07T20:23:08.467912+00:00
+
+ ## Home | Summer Session New Brunswick
+ - [https://summersession.rutgers.edu](https://summersession.rutgers.edu)
+ - date_published: 2024-05-07T20:22:49.846391+00:00
+
+ ## Summer Session
+ - [https://summersessions.camden.rutgers.edu](https://summersessions.camden.rutgers.edu)
+ - date_published: 2024-05-07T20:22:33.394763+00:00
+
+ ## Rutgers University Foundation
+ - [https://support.rutgers.edu](https://support.rutgers.edu)
+ - date_published: 2024-05-07T20:22:41.342792+00:00
+
+ ## Enterprise infrastructure services - Information Technology
+ - [https://tdtools.rutgers.edu](https://tdtools.rutgers.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Technology Guides - Information Technology
+ - [https://techguides.rutgers.edu](https://techguides.rutgers.edu)
+ - date_published: 2024-07-01T18:41:05.650536+00:00
+
+ ## Homepage | Rutgers myTech@Newark|Rutgers University
+ - [https://tls.newark.rutgers.edu](https://tls.newark.rutgers.edu)
+ - date_published: 2024-07-14T23:44:54.473561+00:00
+
+ ## Home | Teaching and Learning with Technology
+ - [https://tlt.rutgers.edu](https://tlt.rutgers.edu)
+ - date_published: 2024-05-07T20:08:35.246788+00:00
+
+ ## Media Productions (Formerly iTV Studio) | Rutgers University
+ - [https://tvstudio.rutgers.edu](https://tvstudio.rutgers.edu)
+ - date_published: 2024-06-27T20:59:36+00:00
+
+ ## Home - Two-step Login - Two-step Login
+ - [https://twostep.rutgers.edu](https://twostep.rutgers.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Homepage | University Ethics and Compliance | Rutgers University
+ - [https://uec.rutgers.edu](https://uec.rutgers.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Rutgers University Human Resources Home | uhr.rutgers.edu
+ - [https://uhr.rutgers.edu](https://uhr.rutgers.edu)
+ - date_published: 2024-05-07T20:09:55.148092+00:00
+
+ ## Office of Urban Extension and Engagement
+ - [https://urbanextension.rutgers.edu](https://urbanextension.rutgers.edu)
+ - date_published: 2024-03-22T19:57:13+00:00
+
+ ## Welcome to the Rutgers–Camden Office of Military & Veterans Affairs | Office of Military & Veterans Affairs
+ - [https://veterans.camden.rutgers.edu](https://veterans.camden.rutgers.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Office of Veteran and Military Programs and Services
+ - [https://veterans.rutgers.edu](https://veterans.rutgers.edu)
+ - date_published: 2024-07-01T10:51:54+00:00
+
+ ## WebReg | Home Page
+ - [http://webreg.rutgers.edu](http://webreg.rutgers.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Legacy ACS Services | Enterprise Application Services
+ - [https://www.acs.rutgers.edu](https://www.acs.rutgers.edu)
+ - date_published: 2022-04-18T00:00:00+00:00
+
+ ## Home
+ - [http://www.cs.rutgers.edu](http://www.cs.rutgers.edu)
+ - date_published: 2024-06-22T08:37:32+00:00
+
+ ## Rutgers University, Electrical & Computer Engineering
+ - [https://www.ece.rutgers.edu](https://www.ece.rutgers.edu)
+ - date_published: 2024-05-28T22:18:11.288636+00:00
+
+ ## Home | Rutgers University Libraries
+ - [https://libraries.rutgers.edu](https://libraries.rutgers.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## SASN Home
+ - [https://ncas.rutgers.edu](https://ncas.rutgers.edu)
+ - date_published: 2024-05-07T20:10:01.142648+00:00
+
+ ## SAS Honors Program
+ - [http://www.sashonors.rutgers.edu](http://www.sashonors.rutgers.edu)
+ - date_published: 2024-07-01T18:45:24+00:00
+
+ ## Enterprise infrastructure services - Information Technology
+ - [http://www.td.rutgers.edu](http://www.td.rutgers.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Under construction
+ - [https://www.ugadmissions.rutgers.edu](https://www.ugadmissions.rutgers.edu)
+ - date_published: 2024-07-14T23:44:03.692756+00:00
+
+ ## Sabancı University myWeb Service
+ - [https://myweb.sabanciuniv.edu](https://myweb.sabanciuniv.edu)
+ - date_published: 2024-06-17T11:10:49.001145+00:00
+
+ ## Ana sayfa | Sabancı Üniversitesi
+ - [http://www.sabanciuniv.edu](http://www.sabanciuniv.edu)
+ - date_published: 2024-07-07T22:06:06+00:00
+
+ ## Home - SAE New Zealand
+ - [https://auckland.sae.edu](https://auckland.sae.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## SAE - the leading global specialist in creative media education
+ - [https://belgrade.sae.edu](https://belgrade.sae.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## SAE Institute Canada - Find the right audio education for you here.
+ - [https://canada.sae.edu](https://canada.sae.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## SAE México | Instituto Especializado | Medios Creativos Digitales
+ - [https://colombia.sae.edu](https://colombia.sae.edu)
+ - date_published: 2022-03-02T14:09:43+00:00
+
+ ## SAE - the leading global specialist in creative media education
+ - [https://dubai.sae.edu](https://dubai.sae.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## SAE Indonesia - Perguruan Tinggi & Pelatihan Media Kreatif
+ - [https://indonesia.sae.edu](https://indonesia.sae.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## SAE - the leading global specialist in creative media education
+ - [https://jordan.sae.edu](https://jordan.sae.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## SAE México | Instituto Especializado | Medios Creativos Digitales
+ - [https://mexico.sae.edu](https://mexico.sae.edu)
+ - date_published: 2022-03-02T14:09:43+00:00
+
+ ## SAE Institute USA - Audio, Film, Entertainment Business Education
+ - [https://usa.sae.edu](https://usa.sae.edu)
+ - date_published: 2024-07-12T21:28:02.446621+00:00
+
+ ## SAE Institute - Choose your region
+ - [https://www.sae.edu](https://www.sae.edu)
+ - date_published: 2024-06-03T08:47:58+00:00
+
+ ## Universidad del Sagrado Corazón | En Sagrado tenemos un lugar para ti.
+ - [http://www.sagrado.edu](http://www.sagrado.edu)
+ - date_published: 2024-07-04T09:42:16.459440+00:00
+
+ ## Be at the Center of Creativity | SAIC Continuing Education
+ - [http://continuingstudies.saic.edu](http://continuingstudies.saic.edu)
+ - date_published: 2024-07-22T02:25:32+00:00
+
+ ## SAIC Microsites
+ - [https://forms.saic.edu](https://forms.saic.edu)
+ - date_published: 2014-07-03T00:00:00+00:00
+
+ ## Admissions & Financial Aid | School of the Art Institute of Chicago
+ - [https://go.saic.edu](https://go.saic.edu)
+ - date_published: 2024-07-21T20:20:07+00:00
+
+ ## School of the Art Institute of Chicago
+ - [https://saic.edu](https://saic.edu)
+ - date_published: 2024-04-30T03:10:41.863491+00:00
+
+ ## Home
+ - [http://www.sais-jhu.edu](http://www.sais-jhu.edu)
+ - date_published: 2024-07-22T17:06:26+00:00
+
+ ## Salem State University | A Proud Massachusetts Public University
+ - [http://salemstate.edu](http://salemstate.edu)
+ - date_published: 2024-06-24T07:27:56+00:00
+
+ ## Salisbury University, Universities in Maryland
+ - [http://www.salisbury.edu](http://www.salisbury.edu)
+ - date_published: 2024-07-02T03:25:25.342185+00:00
+
+ ## Home
+ - [https://campaign.salk.edu](https://campaign.salk.edu)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Spring 2024 - Inside Salk
+ - [http://inside.salk.edu](http://inside.salk.edu)
+ - date_published: 2024-07-02T01:33:43.212184+00:00
+
+ ## Outlook
+ - [https://owa.salk.edu](https://owa.salk.edu)
+ - date_published: 2024-07-02T01:33:45.128816+00:00
+
+ ## Salk Institute for Biological Studies
+ - [http://rolodex.salk.edu](http://rolodex.salk.edu)
+ - date_published: 2024-07-02T01:33:51.832437+00:00
+
  ## Salk Institute Identity Server
  - [http://salkland.salk.edu](http://salkland.salk.edu)
  - date_published: 2024-07-02T01:33:38.059151+00:00
@@ -3802,216 +4014,4 @@
  ## Home - Grand Challenges
  - [https://grandchallenges.tennessee.edu](https://grandchallenges.tennessee.edu)
  - date_published: 2024-02-05T00:00:00+00:00
-
- ## University of Tennessee System Human Resources
- - [https://hr.tennessee.edu](https://hr.tennessee.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Equity and Diversity - Equity and Diversity
- - [https://ide.tennessee.edu](https://ide.tennessee.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## - Institutional Effectiveness
- - [https://ie.tennessee.edu](https://ie.tennessee.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home - Institute for Public Service
- - [http://ips.tennessee.edu](http://ips.tennessee.edu)
- - date_published: 2024-07-02T12:17:08.373815+00:00
-
- ## UT System News
- - [https://news.tennessee.edu](https://news.tennessee.edu)
- - date_published: 2024-07-02T12:16:10.270666+00:00
-
- ## UT Tower - Offices of the University of Tennessee System
- - [https://offices.tennessee.edu](https://offices.tennessee.edu)
- - date_published: 2024-07-02T12:16:21.800182+00:00
-
- ## Home — Our Tennessee
- - [https://our.tennessee.edu](https://our.tennessee.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Payroll, Benefits and Retirement - Payroll, Benefits and Retirement
- - [http://payroll.tennessee.edu](http://payroll.tennessee.edu)
- - date_published: 2022-10-19T00:00:00+00:00
-
- ## Strategic Plan - Strategic Plan
- - [https://plan.tennessee.edu](https://plan.tennessee.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## UT System Policy Website - UT System Policies
- - [https://policy.tennessee.edu](https://policy.tennessee.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Office of the President | University of Tennessee
- - [https://president.tennessee.edu](https://president.tennessee.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Research at the University of Tennessee - University of Tennessee
- - [https://research.tennessee.edu](https://research.tennessee.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Safety at the University of Tennessee
- - [https://safety.tennessee.edu](https://safety.tennessee.edu)
- - date_published: 2022-06-07T00:00:00+00:00
-
- ## Department of Technology Solutions
- - [https://techsolutions.tennessee.edu](https://techsolutions.tennessee.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## The University of Tennessee System
- - [https://tennessee.edu](https://tennessee.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## UT Board of Trustees
- - [https://trustees.tennessee.edu](https://trustees.tennessee.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UT Gardens - The State Botanical Garden of Tennessee | UT Gardens - The State Botanical Garden of Tennessee
- - [https://utgardens.tennessee.edu](https://utgardens.tennessee.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Institute of Agriculture | UTIA
- - [http://utia.tennessee.edu](http://utia.tennessee.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home (2022) - University of Tennessee Research Foundation
- - [https://utrf.tennessee.edu](https://utrf.tennessee.edu)
- - date_published: 2022-12-07T11:30:15+00:00
-
- ## Tilburg University Research Portal
- - [https://research.tilburguniversity.edu](https://research.tilburguniversity.edu)
- - date_published: 2024-06-19T23:59:45.550112+00:00
-
- ## Tilburg University: Responsible and Enterprising Thinkers | Tilburg University
- - [https://www.tilburguniversity.edu](https://www.tilburguniversity.edu)
- - date_published: 2024-05-04T07:17:20.074869+00:00
-
- ## Thomas Jefferson School of Law in San Diego
- - [http://www.tjsl.edu](http://www.tjsl.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## TMC Houston | Leader in Collaborative Medicine and Research
- - [http://www.tmc.edu](http://www.tmc.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Tennessee State University
- - [https://www.tnstate.edu](https://www.tnstate.edu)
- - date_published: 2024-07-01T15:47:29.714961+00:00
-
- ## Tennessee Tech University
- - [https://www.tntech.edu](https://www.tntech.edu)
- - date_published: 2024-07-01T15:47:31.582292+00:00
-
- ## UofT Machine Learning
- - [http://learning.cs.toronto.edu](http://learning.cs.toronto.edu)
- - date_published: 2018-10-19T17:38:44+00:00
-
- ## Webmail - Department of Mathematics, University of Toronto
- - [https://mail.math.toronto.edu](https://mail.math.toronto.edu)
- - date_published: 2008-01-04T00:00:00+00:00
-
- ## UofT CS Robotics Group
- - [https://robotics.cs.toronto.edu](https://robotics.cs.toronto.edu)
- - date_published: 2023-11-21T18:34:43+00:00
-
- ## Department of Computer Science, University of Toronto
- - [https://web.cs.toronto.edu](https://web.cs.toronto.edu)
- - date_published: 2024-05-07T20:38:31.367334+00:00
-
- ## Department of Computer Science, University of Toronto
- - [https://cs.toronto.edu](https://cs.toronto.edu)
- - date_published: 2023-10-25T18:59:33.196200+00:00
-
- ## Home | Dynamic Graphics Project
- - [https://www.dgp.toronto.edu](https://www.dgp.toronto.edu)
- - date_published: 2013-06-12T13:33:58+00:00
-
- ## Engineering Computing Facility (ECF) - Current Engineering Undergraduates
- - [http://www.ecf.toronto.edu](http://www.ecf.toronto.edu)
- - date_published: 2016-06-22T17:54:12+00:00
-
- ## The Computer Engineering Research Group
- - [https://www.eecg.toronto.edu](https://www.eecg.toronto.edu)
- - date_published: 2018-08-16T23:56:55+00:00
-
- ## Department of Mathematics | University of Toronto
- - [https://www.math.toronto.edu](https://www.math.toronto.edu)
- - date_published: 2024-05-10T06:24:33.776589+00:00
-
- ## The Matter Lab
- - [https://www.matter.toronto.edu](https://www.matter.toronto.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## myTU | Towson University
- - [https://inside.towson.edu](https://inside.towson.edu)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Towson University | Maryland’s University of Opportunities
- - [https://www.towson.edu](https://www.towson.edu)
- - date_published: 2024-06-24T04:45:51.385944+00:00
-
- ## Trinity College
- - [https://www.trincoll.edu](https://www.trincoll.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Trine University | Home
- - [http://www.trine.edu](http://www.trine.edu)
- - date_published: 2024-07-01T17:42:17.900853+00:00
-
- ## Home - Pickler Memorial Library
- - [http://library.truman.edu](http://library.truman.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Perception and Learning Systems, PALS @ TTIC
- - [https://pals.ttic.edu](https://pals.ttic.edu)
- - date_published: 2024-04-30T03:57:29.826420+00:00
-
- ## TTIC
- - [https://www.ttic.edu](https://www.ttic.edu)
- - date_published: 2024-04-28T04:06:55.247231+00:00
-
- ## The Vietnam Center and Sam Johnson Vietnam Archive, Texas Tech University
- - [http://www.vietnam.ttu.edu](http://www.vietnam.ttu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home | Access Tufts
- - [https://access.tufts.edu](https://access.tufts.edu)
- - date_published: 2024-05-07T20:38:46.446850+00:00
-
- ## Tufts University
- - [https://admissions.tufts.edu](https://admissions.tufts.edu)
- - date_published: 2024-05-07T20:39:11.355750+00:00
-
- ## Home
- - [https://alumniandfriends.tufts.edu](https://alumniandfriends.tufts.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Welcome to Tufts Announcements | Tufts Announcements
- - [https://announcements.tufts.edu](https://announcements.tufts.edu)
- - date_published: 2024-06-29T02:40:47+00:00
-
- ## Home | Office of the Secretary of the Faculty - Arts, Sciences, and Engineering
- - [https://asefaculty.tufts.edu](https://asefaculty.tufts.edu)
- - date_published: 2024-06-28T16:50:23+00:00
-
- ## Graduate School of Arts and Sciences and the School of Engineering
- - [https://asegrad.tufts.edu](https://asegrad.tufts.edu)
- - date_published: 2024-05-07T20:38:53.277004+00:00
-
- ## Home Page
- - [http://ase.tufts.edu](http://ase.tufts.edu)
- - date_published: 2024-06-24T06:43:38+00:00
-
- ## Homepage | School of Arts and Sciences
- - [https://as.tufts.edu](https://as.tufts.edu)
- - date_published: 2024-06-21T13:49:04+00:00
-
- ## Visit Tufts
- - [http://campusmaps.tufts.edu](http://campusmaps.tufts.edu)
- - date_published: 2024-07-01T18:15:53+00:00
-
- ## Canvas - Tufts University
- - [https://canvas.tufts.edu](https://canvas.tufts.edu)
- - date_published: 2022-02-09T16:39:39+00:00
 

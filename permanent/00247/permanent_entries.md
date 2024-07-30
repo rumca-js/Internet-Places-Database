@@ -1,3 +1,268 @@
+ ## ThiemeMeulenhoff | Samen leren vernieuwen
+ - [https://www.thiememeulenhoff.nl](https://www.thiememeulenhoff.nl)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Think Productive : Time Management Training | Email Training
+ - [https://thinkproductive.nl](https://thinkproductive.nl)
+ - date_published: 2021-08-11T00:00:00+00:00
+
+ ## a portrait of Tenochtitlan
+ - [https://tenochtitlan.thomaskole.nl](https://tenochtitlan.thomaskole.nl)
+ - date_published: 2023-11-01T08:44:08.042150+00:00
+
+ ## Portfolio
+ - [https://thomaskole.nl](https://thomaskole.nl)
+ - date_published: 2024-07-19T22:33:53.843516+00:00
+
+ ## Thom Wiggers
+ - [https://thomwiggers.nl](https://thomwiggers.nl)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Toetsingscommissie Inzet Bevoegdheden (TIB) Inlichtingen- en Veiligheidsdiensten (IVD) | TIB-IVD
+ - [https://www.tib-ivd.nl](https://www.tib-ivd.nl)
+ - date_published: 2024-06-17T03:30:47.915448+00:00
+
+ ## TBNL
+ - [https://www.tibobeijen.nl](https://www.tibobeijen.nl)
+ - date_published: 2024-05-24T05:28:46+00:00
+
+ ## tijmensmeulders.nl
+ - [https://tijmensmeulders.nl](https://tijmensmeulders.nl)
+ - date_published: 2024-07-13T14:26:17.200950+00:00
+
+ ## Tim Boelaars
+ - [http://timboelaars.nl](http://timboelaars.nl)
+ - date_published: 2024-07-14T12:57:58.327351+00:00
+
+ ## Innovation for life | TNO
+ - [https://tno.nl](https://tno.nl)
+ - date_published: 2024-07-03T08:21:00+00:00
+
+ ## Todon.nl
+ - [https://todon.nl](https://todon.nl)
+ - date_published: 2024-07-01T10:28:57.425013+00:00
+
+ ## Toernooi.nl
+ - [https://www.toernooi.nl](https://www.toernooi.nl)
+ - date_published: 2024-07-14T08:49:11.604212+00:00
+
+ ## TOEVAL GEZOCHT
+ - [http://www.toevalgezocht.nl](http://www.toevalgezocht.nl)
+ - date_published: 2024-07-13T14:29:42.652417+00:00
+
+ ## ToeZine - Verdieping voor professionals in toezicht en handhaving
+ - [https://www.toezine.nl](https://www.toezine.nl)
+ - date_published: 2022-07-05T07:19:09+00:00
+
+ ## Mastodon
+ - [https://tootspace.nl](https://tootspace.nl)
+ - date_published: 2024-06-18T15:44:04.244247+00:00
+
+ ## Wil jij het beste voor je huisdier? Bezoek dan top10voorjehuisdier.nl
+ - [https://top10voorjehuisdier.nl](https://top10voorjehuisdier.nl)
+ - date_published: 2024-07-02T22:59:09.240013+00:00
+
+ ## Check de site van TopGear Nederland
+ - [http://www.topgear.nl](http://www.topgear.nl)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Topicus - Impact met IT | IT-bedrijf in Deventer | software
+ - [https://topicus.nl](https://topicus.nl)
+ - date_published: 2024-07-20T21:46:40.936410+00:00
+
+ ## TOTO Dart Kings
+ - [https://totodartkings.nl](https://totodartkings.nl)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Toyota | Officiële website voor Nederland
+ - [https://www.toyota.nl](https://www.toyota.nl)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Traffic Today - Het marketingbureau op het gebied van online
+ - [https://www.traffictoday.nl](https://www.traffictoday.nl)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## TrailBlazers | Software-ontwikkelaars - Trailblazers
+ - [https://www.trailblazers.nl](https://www.trailblazers.nl)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Trancity | Stad, stedelijke ontwikkeling en publiek domein
+ - [http://trancity.nl](http://trancity.nl)
+ - date_published: 2024-07-07T09:48:04+00:00
+
+ ## Voetbaltransfers, transfergeruchten, marktwaarden & nieuws
+ - [https://www.transfermarkt.nl](https://www.transfermarkt.nl)
+ - date_published: 2024-07-24T06:23:35.462551+00:00
+
+ ## TransIP - Reserved domain
+ - [https://reserved.transip.nl](https://reserved.transip.nl)
+ - date_published: 2024-03-04T08:41:05+00:00
+
+ ## Hosting Provider | Domeinen Webhosting VPS. Own it / TransIP
+ - [https://transip.nl](https://transip.nl)
+ - date_published: 2024-06-30T09:36:31.122859+00:00
+
+ ## Toonaangevend in buitenverblijven en constructiehout | Trendhout
+ - [https://www.trendhout.nl](https://www.trendhout.nl)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Trifork Amsterdam
+ - [https://trifork.nl](https://trifork.nl)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Triodos Bank | Een van de duurzaamste banken ter wereld
+ - [https://www.triodos.nl](https://www.triodos.nl)
+ - date_published: 2024-06-16T05:59:24.002831+00:00
+
+ ## tripadvisor.nl
+ - [https://www.tripadvisor.nl](https://www.tripadvisor.nl)
+ - date_published: 2024-06-23T09:18:44.535257+00:00
+
+ ## Trustoo - Vind de beste bedrijven voor jou
+ - [https://trustoo.nl](https://trustoo.nl)
+ - date_published: 2024-07-20T15:31:30.678077+00:00
+
+ ## T-shaped
+ - [https://t-shaped.nl](https://t-shaped.nl)
+ - date_published: 2024-02-12T15:27:48.344767+00:00
+ - tags: ['personal']
+
+ ## Log In ‹ Tommy van der Vorst — WordPress
+ - [https://wp.t-shaped.nl](https://wp.t-shaped.nl)
+ - date_published: 2024-05-25T02:54:07.450088+00:00
+
+ ## Home - Collegerama
+ - [https://collegerama.tudelft.nl](https://collegerama.tudelft.nl)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Computer Graphics and Visualization
+ - [https://graphics.tudelft.nl](https://graphics.tudelft.nl)
+ - date_published: 2024-06-23T18:23:30.304813+00:00
+
+ ## The Game Trace Archive
+ - [http://gta.st.ewi.tudelft.nl](http://gta.st.ewi.tudelft.nl)
+ - date_published: 2024-06-22T08:06:56.712242+00:00
+
+ ## Home - TU Delft Campus Map
+ - [https://iamap.tudelft.nl](https://iamap.tudelft.nl)
+ - date_published: 2024-07-07T10:04:59+00:00
+
+ ## TU Delft OPEN Journals
+ - [https://journals.open.tudelft.nl](https://journals.open.tudelft.nl)
+ - date_published: 2024-05-31T11:19:25.953857+00:00
+
+ ## Organisatie
+ - [https://microelectronics.tudelft.nl](https://microelectronics.tudelft.nl)
+ - date_published: 2024-07-16T22:47:53.718657+00:00
+
+ ## TU Delft Programming Languages
+ - [http://pl.ewi.tudelft.nl](http://pl.ewi.tudelft.nl)
+ - date_published: 2023-02-22T00:00:00+00:00
+
+ ## Proceedings
+ - [https://proceedings.open.tudelft.nl](https://proceedings.open.tudelft.nl)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## TU Delft Research Portal
+ - [https://pure.tudelft.nl](https://pure.tudelft.nl)
+ - date_published: 2024-07-16T23:00:59.818535+00:00
+
+ ## DEOS: Radar Altimeter Database System
+ - [http://rads.tudelft.nl](http://rads.tudelft.nl)
+ - date_published: 2005-05-27T07:52:39+00:00
+
+ ## Home | TU Delft Repositories
+ - [https://repository.tudelft.nl](https://repository.tudelft.nl)
+ - date_published: 2024-04-28T03:39:24.889575+00:00
+
+ ## TU Delft
+ - [http://tudelft.nl](http://tudelft.nl)
+ - date_published: 2024-06-16T21:15:40.306108+00:00
+
+ ## Software Technology
+ - [http://www.st.ewi.tudelft.nl](http://www.st.ewi.tudelft.nl)
+ - date_published: 2024-07-07T10:18:26.936075+00:00
+
+ ## TU Delft
+ - [https://www.tudelft.nl](https://www.tudelft.nl)
+ - date_published: 2024-04-28T03:30:19.458438+00:00
+
+ ## Home - TU Delft Campus Map
+ - [https://map.tudelftcampus.nl](https://map.tudelftcampus.nl)
+ - date_published: 2024-06-23T12:05:13+00:00
+
+ ## TU/e Education Guide
+ - [https://educationguide.tue.nl](https://educationguide.tue.nl)
+ - date_published: 2024-06-19T23:59:52.142183+00:00
+
+ ## ERNSI Workshop 2019
+ - [https://ernsi2019.tue.nl](https://ernsi2019.tue.nl)
+ - date_published: 2024-07-15T02:58:28.967688+00:00
+
+ ## TUe Image Bank
+ - [http://imagebank.tue.nl](http://imagebank.tue.nl)
+ - date_published: 2024-06-19T23:59:50.696192+00:00
+
+ ## Sign in to your account
+ - [https://intranet.tue.nl](https://intranet.tue.nl)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home page
+ - [https://purefaq.tue.nl](https://purefaq.tue.nl)
+ - date_published: 2002-11-01T13:35:47+00:00
+
+ ## Sign in to your account
+ - [https://pure.tue.nl](https://pure.tue.nl)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Eindhoven University of Technology research portal
+ - [https://research.tue.nl](https://research.tue.nl)
+ - date_published: 2024-05-04T07:17:12.431449+00:00
+
+ ## Home
+ - [https://www.cursor.tue.nl](https://www.cursor.tue.nl)
+ - date_published: 2024-06-19T23:59:55.035683+00:00
+
+ ## Eindhoven University of Technology
+ - [https://www.tue.nl](https://www.tue.nl)
+ - date_published: 2024-05-04T07:17:22.890250+00:00
+
+ ## Mathematics and Computer Science
+ - [https://www.win.tue.nl](https://www.win.tue.nl)
+ - date_published: 2024-04-28T04:00:47.213923+00:00
+
+ ## Tupalo.com - Telefoonnummers, kaarten en recensies voor restaurants, cafés, salons, winkels
+ - [https://www.tupalo.nl](https://www.tupalo.nl)
+ - date_published: 2024-06-29T19:12:16.820461+00:00
+
+ ## Twan van Laarhoven's homepage
+ - [http://twanvl.nl](http://twanvl.nl)
+ - date_published: 2024-07-11T07:54:52.957291+00:00
+
+ ## Twan van Laarhoven's homepage
+ - [https://www.twanvl.nl](https://www.twanvl.nl)
+ - date_published: 2024-05-04T07:17:23.822211+00:00
+
+ ## Home - Tweede golf
+ - [https://tweedegolf.nl](https://tweedegolf.nl)
+ - date_published: 2023-10-25T20:46:41.997807+00:00
+
+ ## Debat Direct
+ - [https://debatgemist.tweedekamer.nl](https://debatgemist.tweedekamer.nl)
+ - date_published: 2024-03-25T11:07:22+00:00
+
+ ## Tweede Kamer Tour
+ - [https://ontdek.tweedekamer.nl](https://ontdek.tweedekamer.nl)
+ - date_published: 2023-11-01T06:49:39+00:00
+
+ ## De open data van de Tweede Kamer | Open Data Portaal
+ - [https://opendata.tweedekamer.nl](https://opendata.tweedekamer.nl)
+ - date_published: 2024-07-16T22:53:53.874729+00:00
+
+ ## Loading...
+ - [https://pwk.tweedekamer.nl](https://pwk.tweedekamer.nl)
+ - date_published: 2024-07-16T22:53:54.600559+00:00
+
  ## Homepage Werken bij de Tweede Kamer | Werken bij | Tweede Kamer der Staten-Generaal
  - [https://werkenbij.tweedekamer.nl](https://werkenbij.tweedekamer.nl)
  - date_published: 2024-07-16T22:53:52.755569+00:00
@@ -3777,269 +4042,4 @@ marginalia.nu
  ## projects.kwon.nyc
  - [https://projects.kwon.nyc](https://projects.kwon.nyc)
  - date_published: 2024-02-12T15:27:28.692313+00:00
-
- ## Home
- - [http://labud.nyc](http://labud.nyc)
- - date_published: 2024-07-08T22:29:45.549857+00:00
-
- ## Lily Ray: NYC Based SEO Professional, DJ, & Drummer 😏
- - [https://lilyray.nyc](https://lilyray.nyc)
- - date_published: 2023-11-02T09:00:26.721068+00:00
- - tags: ['seo']
-
- ## Mastodon NYC
- - [https://masto.nyc](https://masto.nyc)
- - date_published: 2024-05-10T05:58:15.748718+00:00
-
- ## masto.nyc status
- - [https://status.masto.nyc](https://status.masto.nyc)
- - date_published: 2024-07-12T18:52:56.410158+00:00
-
- ## Mutual Aid NYC – Mutual Aid Groups and Resources for New York City
- - [https://mutualaid.nyc](https://mutualaid.nyc)
- - date_published: 2024-07-09T19:03:06.732404+00:00
-
- ## #NFTNYC2024 | Official Event Experiences
- - [https://app.nft.nyc](https://app.nft.nyc)
- - date_published: 2024-06-16T05:01:08.516312+00:00
-
- ## Postcards from #NFTNYC2024
- - [https://postcards.nft.nyc](https://postcards.nft.nyc)
- - date_published: 2024-06-16T05:00:35.723611+00:00
-
- ## NFTNYC
- - [https://shop.nft.nyc](https://shop.nft.nyc)
- - date_published: 2024-06-16T05:01:05.206147+00:00
-
- ## Collect Swag and Merch NFTs | NFT.NYC 2021
- - [https://swag.nft.nyc](https://swag.nft.nyc)
- - date_published: 2024-06-16T05:01:03.011891+00:00
-
- ## REGISTER NOW for #NFTNYC2024 | The Leading Annual Non-Fungible Token Event
- - [https://www.nft.nyc](https://www.nft.nyc)
- - date_published: 2024-05-01T05:40:41.397941+00:00
-
- ## .nyc Domain Name Extension - Official Website
- - [http://www.nic.nyc](http://www.nic.nyc)
- - date_published: 2024-06-27T04:00:33.379936+00:00
-
- ## NYC Open Data Week – Celebrating NYC Open Data at dozens of virtual and in-person events across the city!
- - [https://www.open-data.nyc](https://www.open-data.nyc)
- - date_published: 2024-06-27T03:59:55.941884+00:00
-
- ## Orbital
- - [https://orbital.nyc](https://orbital.nyc)
- - date_published: 2024-07-21T05:00:54.249195+00:00
-
- ## OUTLIER — A MATERIAL DIFFERENCE
- - [https://outlier.nyc](https://outlier.nyc)
- - date_published: 2024-06-23T05:56:27.875538+00:00
-
- ## Patrick Lee | An Introduction to Patrick
- - [https://patricklee.nyc](https://patricklee.nyc)
- - date_published: 2023-06-03T00:00:00+00:00
-
- ## NYC Paid Creative Internships
- - [http://payinterns.nyc](http://payinterns.nyc)
- - date_published: 2020-12-04T22:44:23+00:00
-
- ## Rainmaker - One app, everything DeFi
- - [https://www.rainmaker.nyc](https://www.rainmaker.nyc)
- - date_published: 2024-06-23T16:52:20.570985+00:00
-
- ## SavoirFaire©. Holistic creative studio based in NYC.
- - [https://savoirfaire.nyc](https://savoirfaire.nyc)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## scatter
- - [http://scatter.nyc](http://scatter.nyc)
- - date_published: 2024-07-10T11:20:31.247851+00:00
-
- ## Schizophrenic.NYC Mental Health Clothing Brand
- - [https://www.schizophrenic.nyc](https://www.schizophrenic.nyc)
- - date_published: 2013-10-16T15:53:45+00:00
-
- ## NYC School of Data – a community conference for NYC's #civicdesign, #civictech and #opendata communities
- - [https://schoolofdata.nyc](https://schoolofdata.nyc)
- - date_published: 2024-06-27T03:59:52.640796+00:00
-
- ## Web Design & SEO Company NYC | Scriptable Solutions NYC
- - [https://www.scriptablesolutions.nyc](https://www.scriptablesolutions.nyc)
- - date_published: 2024-05-04T08:18:12.185948+00:00
-
- ## Small Editions
- - [https://smalleditions.nyc](https://smalleditions.nyc)
- - date_published: 2024-07-04T01:58:18.115725+00:00
-
- ## SSHH – 516 East 6th Street New York, NY 10009
- - [http://sshh.nyc](http://sshh.nyc)
- - date_published: 2024-07-13T15:48:26.395578+00:00
-
- ## Tech Action Working Group
- - [http://techaction.nyc](http://techaction.nyc)
- - date_published: 2021-02-18T06:10:37+00:00
-
- ## NYC Tech Talent Pipeline
- - [https://www.techtalentpipeline.nyc](https://www.techtalentpipeline.nyc)
- - date_published: 2024-06-23T06:09:17.979164+00:00
-
- ## THE CITY - NYC News
- - [https://www.thecity.nyc](https://www.thecity.nyc)
- - date_published: 2023-10-25T20:49:08.995182+00:00
-
- ## Urban Future Lab
- - [https://www.ufl.nyc](https://www.ufl.nyc)
- - date_published: 2024-07-04T11:50:27.380954+00:00
-
- ## New York Urbanism
- - [http://www.urb.nyc](http://www.urb.nyc)
- - date_published: 2020-02-10T02:15:08+00:00
-
- ## VMG
- - [https://vmg.nyc](https://vmg.nyc)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Find My Poll Site/View Sample Ballot
- - [https://findmypollsite.vote.nyc](https://findmypollsite.vote.nyc)
- - date_published: 2024-06-19T05:11:49.047503+00:00
-
- ## Home | NYC Board of Elections
- - [https://vote.nyc](https://vote.nyc)
- - date_published: 2024-06-27T00:18:59+00:00
-
- ## International Conference on Autonomous Agents and Multi-Agent Systems 2020 |
- - [https://aamas2020.conference.auckland.ac.nz](https://aamas2020.conference.auckland.ac.nz)
- - date_published: 2024-07-11T14:30:59.573731+00:00
-
- ## Welcome - The University of Auckland
- - [https://auckland.ac.nz](https://auckland.ac.nz)
- - date_published: 2024-07-24T03:07:00.981072+00:00
-
- ## The University of Auckland Login Service
- - [https://canvas.auckland.ac.nz](https://canvas.auckland.ac.nz)
- - date_published: 2024-04-29T07:05:23.824602+00:00
-
- ## Course Outlines - University of Auckland
- - [https://courseoutline.auckland.ac.nz](https://courseoutline.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:31.953380+00:00
-
- ## The University of Auckland Login Service
- - [https://formspace.auckland.ac.nz](https://formspace.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:47.445137+00:00
-
- ## Future Student Guide
- - [https://guide.auckland.ac.nz](https://guide.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:15.278814+00:00
-
- ## Access the identity management system - The University of Auckland
- - [https://iam.auckland.ac.nz](https://iam.auckland.ac.nz)
- - date_published: 2024-07-24T03:07:13.376477+00:00
-
- ## Home
- - [https://learningessentials.auckland.ac.nz](https://learningessentials.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:53.710960+00:00
-
- ## Password Management
- - [https://password.auckland.ac.nz](https://password.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:48.852508+00:00
-
- ## ResearchHub
- - [https://research-hub.auckland.ac.nz](https://research-hub.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:40.138770+00:00
-
- ## ResearchSpace Home
- - [https://researchspace.auckland.ac.nz](https://researchspace.auckland.ac.nz)
- - date_published: 2024-04-29T07:04:53.998415+00:00
-
- ## University of Auckland Events
- - [https://unievents.auckland.ac.nz](https://unievents.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:19.931241+00:00
-
- ## Arts - The University of Auckland
- - [http://www.arts.auckland.ac.nz](http://www.arts.auckland.ac.nz)
- - date_published: 2024-06-23T02:40:55+00:00
-
- ## University Calendar - The University of Auckland
- - [https://www.calendar.auckland.ac.nz](https://www.calendar.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:39.029586+00:00
-
- ## The University of Auckland Login Service
- - [http://www.concursolutions.auckland.ac.nz](http://www.concursolutions.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:37.336797+00:00
-
- ## School of Computer Science - The University of Auckland
- - [https://cs.auckland.ac.nz](https://cs.auckland.ac.nz)
- - date_published: 2024-04-29T07:05:05.801421+00:00
-
- ## The University of Auckland Login Service
- - [https://www.hr.auckland.ac.nz](https://www.hr.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:55.925591+00:00
-
- ## Te Tumu Herenga | Libraries and Learning Services - The University of Auckland
- - [https://www.library.auckland.ac.nz](https://www.library.auckland.ac.nz)
- - date_published: 2024-06-29T16:12:18+00:00
-
- ## nzepc - new zealand electronic poetry centre
- - [http://www.nzepc.auckland.ac.nz](http://www.nzepc.auckland.ac.nz)
- - date_published: 2024-07-04T06:19:42.858217+00:00
-
- ## Online Learning & Study at Auckland’s Premier University
- - [https://www.online.auckland.ac.nz](https://www.online.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:50.548735+00:00
-
- ## The University of Auckland Login Service
- - [https://www.sciencestaff.auckland.ac.nz](https://www.sciencestaff.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:24.335388+00:00
-
- ## The University of Auckland Login Service
- - [https://www.staff.auckland.ac.nz](https://www.staff.auckland.ac.nz)
- - date_published: 2024-07-24T03:15:24.510383+00:00
-
- ## The University of Auckland Login Service
- - [http://www.student.auckland.ac.nz](http://www.student.auckland.ac.nz)
- - date_published: 2024-07-24T03:14:59.457663+00:00
-
- ## Browse Course Catalogue
- - [https://www.student.guest.auckland.ac.nz](https://www.student.guest.auckland.ac.nz)
- - date_published: 2024-07-24T03:16:14.343164+00:00
-
- ## The University of Auckland Login Service
- - [http://mail.aucklanduni.ac.nz](http://mail.aucklanduni.ac.nz)
- - date_published: 2024-07-24T03:15:05.173473+00:00
-
- ## Ngutu Kākā Gallery - AUT
- - [http://www.stpaulst.aut.ac.nz](http://www.stpaulst.aut.ac.nz)
- - date_published: 2024-07-14T13:05:19.719881+00:00
-
- ## Computer Science and Software Engineering department | University of Canterbury
- - [http://www.cosc.canterbury.ac.nz](http://www.cosc.canterbury.ac.nz)
- - date_published: 2024-06-22T21:09:03+00:00
-
- ## The Dodd-Walls Centre | We aim to produce the next generation of light sources for scientific and industrial applications
- - [https://www.doddwalls.ac.nz](https://www.doddwalls.ac.nz)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Auckland ICT Graduate School | In a collaboration between the University of Auckland and the University of Waikato, we've created two postgraduate programmes to develop smart, industry-ready ICT graduates who will meet this need.
- - [http://www.ictgraduateschool.ac.nz](http://www.ictgraduateschool.ac.nz)
- - date_published: 2024-07-24T03:15:31.577820+00:00
-
- ## Home
- - [https://macdiarmid.ac.nz](https://macdiarmid.ac.nz)
- - date_published: 2018-12-24T22:10:58+00:00
-
- ## Massey University of New Zealand - Te Kunenga ki Pūrehuroa
- - [https://www.massey.ac.nz](https://www.massey.ac.nz)
- - date_published: 2024-06-17T14:09:32.400020+00:00
-
- ## The University of Auckland Login Service
- - [https://www.myaucklanduni.ac.nz](https://www.myaucklanduni.ac.nz)
- - date_published: 2024-07-24T03:15:14.169239+00:00
-
- ## Department of Anatomy Home, Department of Anatomy | University of Otago
- - [http://anatomy.otago.ac.nz](http://anatomy.otago.ac.nz)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Blogging: University of Otago | University of Otago
- - [https://blogs.otago.ac.nz](https://blogs.otago.ac.nz)
- - date_published: 2024-06-19T16:53:57.788168+00:00
 

@@ -1,3 +1,216 @@
+ ## University of Kansas Medical Center
+ - [https://www.kumc.edu](https://www.kumc.edu)
+ - date_published: 2024-07-01T12:35:40.463773+00:00
+
+ ## Home of the Kutztown University Research Commons
+ - [https://research.library.kutztown.edu](https://research.library.kutztown.edu)
+ - date_published: 2024-07-02T10:48:37.331167+00:00
+
+ ## Kutztown University
+ - [https://www.kutztown.edu](https://www.kutztown.edu)
+ - date_published: 2024-07-09T17:16:44.114611+00:00
+
+ ## Accessibility at K –  | Kalamazoo College
+ - [https://access.kzoo.edu](https://access.kzoo.edu)
+ - date_published: 2024-05-07T19:24:30.279103+00:00
+
+ ## Arcus Center Radical Futures Now Podcast –  | Kalamazoo College
+ - [http://acsjlradicalfutures.kzoo.edu](http://acsjlradicalfutures.kzoo.edu)
+ - date_published: 2024-07-01T14:31:48.756964+00:00
+
+ ## Admission –  | Kalamazoo College
+ - [https://admission.kzoo.edu](https://admission.kzoo.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Advising –  | Kalamazoo College
+ - [https://advising.kzoo.edu](https://advising.kzoo.edu)
+ - date_published: 2024-05-07T19:22:03.340633+00:00
+
+ ## African Studies –  | Kalamazoo College
+ - [https://africanstudies.kzoo.edu](https://africanstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:24:27.952564+00:00
+
+ ## American Studies –  | Kalamazoo College
+ - [https://americanstudies.kzoo.edu](https://americanstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:30.207816+00:00
+
+ ## Anthropology and Sociology –  | Kalamazoo College
+ - [https://anso.kzoo.edu](https://anso.kzoo.edu)
+ - date_published: 2024-05-07T19:22:50.972691+00:00
+
+ ## Alcohol and Other Drugs – Education, Prevention, and Intervention –  | Kalamazoo College
+ - [https://aod.kzoo.edu](https://aod.kzoo.edu)
+ - date_published: 2024-05-07T19:23:08.531810+00:00
+
+ ## Admission –  | Kalamazoo College
+ - [https://apply.kzoo.edu](https://apply.kzoo.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Arabic –  | Kalamazoo College
+ - [https://arabic.kzoo.edu](https://arabic.kzoo.edu)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Lillian Anderson Arboretum –  | Kalamazoo College
+ - [https://arboretum.kzoo.edu](https://arboretum.kzoo.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## College Archives –  | Kalamazoo College
+ - [https://archives.kzoo.edu](https://archives.kzoo.edu)
+ - date_published: 2024-05-07T19:23:11.169551+00:00
+
+ ## Arcus Center for Social Justice Leadership –  | Kalamazoo College
+ - [https://arcuscenter.kzoo.edu](https://arcuscenter.kzoo.edu)
+ - date_published: 2024-05-07T19:24:52.364476+00:00
+
+ ## Art and Art History –  | Kalamazoo College
+ - [https://art.kzoo.edu](https://art.kzoo.edu)
+ - date_published: 2024-05-07T19:22:26.978143+00:00
+
+ ## Black Faculty and Staff Association –  | Kalamazoo College
+ - [https://bafsa.kzoo.edu](https://bafsa.kzoo.edu)
+ - date_published: 2024-05-07T19:21:24.545397+00:00
+
+ ## Student Accounts –  | Kalamazoo College
+ - [https://billing.kzoo.edu](https://billing.kzoo.edu)
+ - date_published: 2024-05-07T19:23:13.966047+00:00
+
+ ## Biology –  | Kalamazoo College
+ - [https://biology.kzoo.edu](https://biology.kzoo.edu)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Room Reservations –  | Kalamazoo College
+ - [https://bookaroom.kzoo.edu](https://bookaroom.kzoo.edu)
+ - date_published: 2024-05-07T19:24:13.323399+00:00
+
+ ## BrandK –  | Kalamazoo College
+ - [https://brandk.kzoo.edu](https://brandk.kzoo.edu)
+ - date_published: 2024-05-07T19:24:10.909125+00:00
+
+ ## DSpace
+ - [https://cache.kzoo.edu](https://cache.kzoo.edu)
+ - date_published: 2024-02-27T07:26:20+00:00
+
+ ## Campus Safety –  | Kalamazoo College
+ - [https://campussafety.kzoo.edu](https://campussafety.kzoo.edu)
+ - date_published: 2024-05-07T19:23:30.879105+00:00
+
+ ## Center for Career and Professional Development –  | Kalamazoo College
+ - [https://career.kzoo.edu](https://career.kzoo.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Careers in Health –  | Kalamazoo College
+ - [https://careersinhealth.kzoo.edu](https://careersinhealth.kzoo.edu)
+ - date_published: 2024-05-07T19:22:56.389888+00:00
+
+ ## The Cauldron – Kalamazoo's annual literary and visual arts magazine –  | Kalamazoo College
+ - [https://cauldron.kzoo.edu](https://cauldron.kzoo.edu)
+ - date_published: 2024-05-07T19:21:55.073843+00:00
+
+ ## Center for Civic Engagement –  | Kalamazoo College
+ - [https://cce.kzoo.edu](https://cce.kzoo.edu)
+ - date_published: 2024-05-07T19:25:04.811810+00:00
+
+ ## Center for Complex Systems Studies –  | Kalamazoo College
+ - [https://ccss.kzoo.edu](https://ccss.kzoo.edu)
+ - date_published: 2024-05-07T19:22:01.068287+00:00
+
+ ## Department of Chemistry and Biochemistry –  | Kalamazoo College
+ - [https://chemistry.kzoo.edu](https://chemistry.kzoo.edu)
+ - date_published: 2024-05-07T19:22:40.957290+00:00
+
+ ## Center for International Programs –  | Kalamazoo College
+ - [https://cip.kzoo.edu](https://cip.kzoo.edu)
+ - date_published: 2024-05-07T19:21:49.147558+00:00
+
+ ## Classics –  | Kalamazoo College
+ - [https://classics.kzoo.edu](https://classics.kzoo.edu)
+ - date_published: 2024-05-07T19:24:05.747587+00:00
+
+ ## Commencement –  | Kalamazoo College
+ - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
+ - date_published: 2024-02-08T17:31:34.676457+00:00
+
+ ## Computer Science –  | Kalamazoo College
+ - [https://computerscience.kzoo.edu](https://computerscience.kzoo.edu)
+ - date_published: 2024-05-07T19:23:50.796434+00:00
+
+ ## Copyright at K –  | Kalamazoo College
+ - [https://copyright.kzoo.edu](https://copyright.kzoo.edu)
+ - date_published: 2024-05-07T19:24:17.499264+00:00
+
+ ## Counseling Center –  | Kalamazoo College
+ - [https://counseling.kzoo.edu](https://counseling.kzoo.edu)
+ - date_published: 2024-05-07T19:21:33.332935+00:00
+
+ ## COVID-19 Information –  | Kalamazoo College
+ - [https://covid.kzoo.edu](https://covid.kzoo.edu)
+ - date_published: 2024-05-07T19:30:16.485068+00:00
+
+ ## Critical Ethnic Studies –  | Kalamazoo College
+ - [https://criticalethnicstudies.kzoo.edu](https://criticalethnicstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:24:26.268394+00:00
+
+ ## Critical Theory Concentration –  | Kalamazoo College
+ - [https://criticaltheory.kzoo.edu](https://criticaltheory.kzoo.edu)
+ - date_published: 2024-05-07T19:21:19.374102+00:00
+
+ ## DEI – Diversity, Equity and Inclusion Initiatives at K –  | Kalamazoo College
+ - [https://dei.kzoo.edu](https://dei.kzoo.edu)
+ - date_published: 2024-05-07T19:23:43.222020+00:00
+ - tags: ['dei']
+
+ ## Disability Services for Students –  | Kalamazoo College
+ - [https://disabilities.kzoo.edu](https://disabilities.kzoo.edu)
+ - date_published: 2024-05-07T19:24:47.880874+00:00
+
+ ## East Asian Studies –  | Kalamazoo College
+ - [https://eas.kzoo.edu](https://eas.kzoo.edu)
+ - date_published: 2024-05-07T19:22:10.135714+00:00
+
+ ## Economics and Business –  | Kalamazoo College
+ - [https://econbusn.kzoo.edu](https://econbusn.kzoo.edu)
+ - date_published: 2024-05-07T19:22:20.551036+00:00
+
+ ## EMS Redirect
+ - [https://ems.kzoo.edu](https://ems.kzoo.edu)
+ - date_published: 2023-10-16T19:08:29+00:00
+
+ ## English –  | Kalamazoo College
+ - [https://english.kzoo.edu](https://english.kzoo.edu)
+ - date_published: 2024-05-07T19:21:57.626281+00:00
+
+ ## Environmental Studies –  | Kalamazoo College
+ - [https://environmentalstudies.kzoo.edu](https://environmentalstudies.kzoo.edu)
+ - date_published: 2024-05-07T19:30:23.723753+00:00
+
+ ## Environmental Stewardship Center –  | Kalamazoo College
+ - [https://envirostewardship.kzoo.edu](https://envirostewardship.kzoo.edu)
+ - date_published: 2024-05-07T19:24:21.709206+00:00
+
+ ## Educational Policies Committee –  | Kalamazoo College
+ - [https://epc.kzoo.edu](https://epc.kzoo.edu)
+ - date_published: 2024-05-07T19:22:59.036045+00:00
+
+ ## Facilities Management –  | Kalamazoo College
+ - [https://facilities.kzoo.edu](https://facilities.kzoo.edu)
+ - date_published: 2024-05-07T19:22:15.602461+00:00
+
+ ## Faculty Grant Assistance –  | Kalamazoo College
+ - [https://facultygrants.kzoo.edu](https://facultygrants.kzoo.edu)
+ - date_published: 2024-05-07T19:22:53.435750+00:00
+
+ ## Log in to Faculty Development Committee
+ - [https://fdc.kzoo.edu](https://fdc.kzoo.edu)
+ - date_published: 2024-05-07T19:21:46.604098+00:00
+
+ ## Grants, Scholarships and Fellowships –  | Kalamazoo College
+ - [https://fellowships.kzoo.edu](https://fellowships.kzoo.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Festival Playhouse –  | Kalamazoo College
+ - [https://festivalplayhouse.kzoo.edu](https://festivalplayhouse.kzoo.edu)
+ - date_published: 2024-05-07T19:23:32.930640+00:00
+
  ## Film and Media Studies –  | Kalamazoo College
  - [https://filmandmediastudies.kzoo.edu](https://filmandmediastudies.kzoo.edu)
  - date_published: 2024-05-07T19:30:21.062141+00:00
@@ -3791,216 +4004,4 @@
  ## NC State Extension
  - [https://www.ces.ncsu.edu](https://www.ces.ncsu.edu)
  - date_published: 2024-06-16T22:36:43.243508+00:00
-
- ## College of Engineering
- - [https://www.engr.ncsu.edu](https://www.engr.ncsu.edu)
- - date_published: 2024-07-01T15:53:54.317607+00:00
-
- ## Home | NC State University Libraries
- - [http://www.lib.ncsu.edu](http://www.lib.ncsu.edu)
- - date_published: 2024-06-20T06:59:37.542313+00:00
-
- ## North Carolina State University
- - [https://www.ncsu.edu](https://www.ncsu.edu)
- - date_published: 2024-04-28T03:37:43.019973+00:00
-
- ## NCURA Home
- - [http://ncura.edu](http://ncura.edu)
- - date_published: 2024-07-22T02:41:46.568585+00:00
-
- ## College of Arts & Letters
- - [https://al.nd.edu](https://al.nd.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home
- - [https://churchlifejournal.nd.edu](https://churchlifejournal.nd.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Cushwa Center
- - [http://cushwa.nd.edu](http://cushwa.nd.edu)
- - date_published: 2024-06-25T13:05:17+00:00
-
- ## Directory | University of Notre Dame
- - [https://directory.nd.edu](https://directory.nd.edu)
- - date_published: 2024-02-06T21:20:42+00:00
-
- ## du Lac: A Guide to Student Life
- - [https://dulac.nd.edu](https://dulac.nd.edu)
- - date_published: 2024-05-31T15:47:32+00:00
-
- ## Emergency Information
- - [https://emergency.nd.edu](https://emergency.nd.edu)
- - date_published: 2024-05-07T19:45:38.368524+00:00
-
- ## Notre Dame Events
- - [https://events.nd.edu](https://events.nd.edu)
- - date_published: 2024-05-07T19:45:46.179696+00:00
-
- ## Giving to Notre Dame
- - [https://giving.nd.edu](https://giving.nd.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Human Resources
- - [http://hr.nd.edu](http://hr.nd.edu)
- - date_published: 2024-07-01T13:22:10+00:00
-
- ## Service Discovery
- - [https://inside.nd.edu](https://inside.nd.edu)
- - date_published: 2024-06-16T10:39:07.297352+00:00
-
- ## Notre Dame Application Portal
- - [https://jobs.nd.edu](https://jobs.nd.edu)
- - date_published: 2024-06-16T10:38:55+00:00
-
- ## Home | The Law School | University of Notre Dame
- - [https://law.nd.edu](https://law.nd.edu)
- - date_published: 2024-06-28T17:31:05+00:00
-
- ## Department of Mathematics
- - [http://math.nd.edu](http://math.nd.edu)
- - date_published: 2024-06-28T04:00:03+00:00
-
- ## Product Page - Notre Dame Service Portal
- - [https://mobile.nd.edu](https://mobile.nd.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Join myNotreDame
- - [https://my.nd.edu](https://my.nd.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## University of Notre Dame
- - [http://nd.edu](http://nd.edu)
- - date_published: 2024-07-01T15:56:33.102793+00:00
-
- ## Notre Dame Fire Department
- - [https://ndfd.nd.edu](https://ndfd.nd.edu)
- - date_published: 2024-05-02T15:47:14+00:00
-
- ## Notre Dame Philosophical Reviews
- - [https://ndpr.nd.edu](https://ndpr.nd.edu)
- - date_published: 2024-05-07T16:16:12.105690+00:00
-
- ## Home
- - [https://ndworks.nd.edu](https://ndworks.nd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date_published: 2023-10-25T18:55:35.076777+00:00
-
- ## Office of Information Technology
- - [http://oit.nd.edu](http://oit.nd.edu)
- - date_published: 2024-06-28T19:01:34+00:00
-
- ## Office of Public Affairs and Communications
- - [https://opac.nd.edu](https://opac.nd.edu)
- - date_published: 2024-01-18T19:52:55+00:00
-
- ## Home
- - [https://performingarts.nd.edu](https://performingarts.nd.edu)
- - date_published: 2024-07-01T15:56:20.551173+00:00
-
- ## Home // Department of Philosophy // University of Notre Dame
- - [https://philosophy.nd.edu](https://philosophy.nd.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Notre Dame Police Department
- - [https://police.nd.edu](https://police.nd.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home // Department of Political Science // University of Notre Dame
- - [https://politicalscience.nd.edu](https://politicalscience.nd.edu)
- - date_published: 2024-06-28T19:49:24+00:00
-
- ## Office of the Registrar
- - [https://registrar.nd.edu](https://registrar.nd.edu)
- - date_published: 2024-06-06T13:38:12+00:00
-
- ## Risk Management and Safety
- - [https://riskmanagement.nd.edu](https://riskmanagement.nd.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Campus Safety and University Operations
- - [https://safetyandoperations.nd.edu](https://safetyandoperations.nd.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Search Notre Dame | University of Notre Dame
- - [https://search.nd.edu](https://search.nd.edu)
- - date_published: 2024-01-02T13:51:28+00:00
-
- ## static.nd.edu | University of Notre Dame
- - [https://static.nd.edu](https://static.nd.edu)
- - date_published: 2018-04-17T16:10:09+00:00
-
- ## Stories
- - [https://stories.nd.edu](https://stories.nd.edu)
- - date_published: 2024-05-07T19:45:24.023439+00:00
-
- ## Technology Ethics Center
- - [https://techethics.nd.edu](https://techethics.nd.edu)
- - date_published: 2024-07-12T13:47:58+00:00
-
- ## Campus Tour
- - [https://tour.nd.edu](https://tour.nd.edu)
- - date_published: 2024-03-22T20:36:56+00:00
-
- ## University of Notre Dame
- - [https://www.nd.edu](https://www.nd.edu)
- - date_published: 2024-05-01T06:30:44.719090+00:00
-
- ## Home | University of Notre Dame | University of Notre Dame
- - [https://wwwnd.nd.edu](https://wwwnd.nd.edu)
- - date_published: 2024-06-14T17:56:44+00:00
-
- ## Homepage | North Dakota State College of Science (NDSCS) | Wahpeton/Fargo
- - [https://www.ndscs.edu](https://www.ndscs.edu)
- - date_published: 2024-07-01T15:37:46+00:00
-
- ## Career and Advising Center - North Dakota State University
- - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
- - date_published: 2024-05-07T19:46:04.013334+00:00
-
- ## Career and Advising Center - North Dakota State University
- - [https://career.ndsu.edu](https://career.ndsu.edu)
- - date_published: 2024-07-01T16:01:34.483513+00:00
-
- ## IT Knowledge Base
- - [https://kb.ndsu.edu](https://kb.ndsu.edu)
- - date_published: 2024-07-01T16:02:13.033419+00:00
-
- ## | NDSU Libraries
- - [https://library.ndsu.edu](https://library.ndsu.edu)
- - date_published: 2024-05-07T19:45:50.428351+00:00
-
- ## - myNDSU| North Dakota State University
- - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
- - date_published: 2024-05-07T19:46:13.913614+00:00
-
- ## NDSU - North Dakota State University
- - [https://ndsu.edu](https://ndsu.edu)
- - date_published: 2023-10-25T18:55:39.000458+00:00
-
- ## Home
- - [https://capstone.ndu.edu](https://capstone.ndu.edu)
- - date_published: 2024-06-22T07:07:08.838470+00:00
-
- ## Center for Applied Strategic Learning
- - [http://casl.ndu.edu](http://casl.ndu.edu)
- - date_published: 2024-07-08T21:39:19.622264+00:00
-
- ## Home
- - [https://cic.ndu.edu](https://cic.ndu.edu)
- - date_published: 2024-05-08T02:44:04.388879+00:00
-
- ## Institute for National Strategic Studies (INSS)
- - [https://inss.ndu.edu](https://inss.ndu.edu)
- - date_published: 2024-07-07T04:55:16.136208+00:00
-
- ## Center for the Study of Weapons of Mass Destruction > Home
- - [https://wmdcenter.ndu.edu](https://wmdcenter.ndu.edu)
- - date_published: 2024-06-17T10:48:04.873119+00:00
-
- ## National Defense University
- - [https://www.ndu.edu](https://www.ndu.edu)
- - date_published: 2024-07-03T13:48:41.778164+00:00
 

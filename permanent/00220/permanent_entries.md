@@ -1,3 +1,239 @@
+ ## Other Tales Interactive - itch.io
+ - [https://othertales.itch.io](https://othertales.itch.io)
+ - date_published: 2024-06-22T14:52:47.346709+00:00
+
+ ## Otsoga - itch.io
+ - [https://otsoga.itch.io](https://otsoga.itch.io)
+ - date_published: 2024-07-11T23:03:36.040731+00:00
+
+ ## Ottersoft - itch.io
+ - [https://ottersoft.itch.io](https://ottersoft.itch.io)
+ - date_published: 2024-07-11T18:29:03.159840+00:00
+
+ ## OwenTheBell - itch.io
+ - [https://owenthebell.itch.io](https://owenthebell.itch.io)
+ - date_published: 2024-06-22T14:59:09.347070+00:00
+
+ ## PACCHI STUDIO - itch.io
+ - [https://pacchistudio.itch.io](https://pacchistudio.itch.io)
+ - date_published: 2024-05-10T04:01:53.171239+00:00
+
+ ## paintbucketgames - itch.io
+ - [https://paintbucketgames.itch.io](https://paintbucketgames.itch.io)
+ - date_published: 2024-06-22T14:48:54.202986+00:00
+
+ ## PAK-9 - itch.io
+ - [https://pak-9.itch.io](https://pak-9.itch.io)
+ - date_published: 2024-07-11T23:28:08.738620+00:00
+
+ ## PaleBlueSean - itch.io
+ - [https://palebluesean.itch.io](https://palebluesean.itch.io)
+ - date_published: 2024-07-11T23:03:52.061859+00:00
+
+ ## papadar - itch.io
+ - [https://papadar.itch.io](https://papadar.itch.io)
+ - date_published: 2024-05-10T04:10:00.164360+00:00
+
+ ## Paranoid Cactus - itch.io
+ - [https://paranoidcactus.itch.io](https://paranoidcactus.itch.io)
+ - date_published: 2024-07-11T23:28:18.004698+00:00
+
+ ## ParkG - itch.io
+ - [https://parkg.itch.io](https://parkg.itch.io)
+ - date_published: 2024-05-10T04:03:59.089145+00:00
+
+ ## Patchwork Doll Games - itch.io
+ - [https://patchydollgames.itch.io](https://patchydollgames.itch.io)
+ - date_published: 2024-07-02T23:49:37.870809+00:00
+
+ ## Patchy Illusion Team - itch.io
+ - [https://patchy-illusion-team.itch.io](https://patchy-illusion-team.itch.io)
+ - date_published: 2024-06-22T14:46:57.532838+00:00
+
+ ## Paulette - itch.io
+ - [https://paulette.itch.io](https://paulette.itch.io)
+ - date_published: 2024-06-22T14:50:27.242912+00:00
+
+ ## PennyBlake - itch.io
+ - [https://pennyblake.itch.io](https://pennyblake.itch.io)
+ - date_published: 2024-05-10T04:10:13.586502+00:00
+
+ ## Peter Februar - itch.io
+ - [https://peter-februar.itch.io](https://peter-februar.itch.io)
+ - date_published: 2024-05-06T06:34:14.379130+00:00
+
+ ## Philip Jensen - itch.io
+ - [https://philipjensen.itch.io](https://philipjensen.itch.io)
+ - date_published: 2024-06-22T13:37:52.853982+00:00
+
+ ## Philnemba - itch.io
+ - [https://philnemba.itch.io](https://philnemba.itch.io)
+ - date_published: 2024-06-22T14:50:43.084752+00:00
+
+ ## Voice of the Phoenix - itch.io
+ - [https://phoenixfemme.itch.io](https://phoenixfemme.itch.io)
+ - date_published: 2024-07-11T23:18:21.191468+00:00
+
+ ## pianoman373 - itch.io
+ - [https://pianoman373.itch.io](https://pianoman373.itch.io)
+ - date_published: 2024-07-11T23:28:12.306880+00:00
+
+ ## Pierrec - itch.io
+ - [https://pierrec.itch.io](https://pierrec.itch.io)
+ - date_published: 2024-05-06T06:34:16.325717+00:00
+
+ ## Piesuprawny - itch.io
+ - [https://piesuprawny.itch.io](https://piesuprawny.itch.io)
+ - date_published: 2024-05-10T04:01:43.225016+00:00
+
+ ## PIGEON GIRL - itch.io
+ - [https://pigeon-girl.itch.io](https://pigeon-girl.itch.io)
+ - date_published: 2024-06-22T15:04:19.699472+00:00
+
+ ## pi_memorizer - itch.io
+ - [https://pi-memorizer.itch.io](https://pi-memorizer.itch.io)
+ - date_published: 2024-07-01T11:13:47.823242+00:00
+
+ ## Pirate Gonzalez Games - itch.io
+ - [https://pirategonzalezgames.itch.io](https://pirategonzalezgames.itch.io)
+ - date_published: 2024-07-11T23:17:26.948912+00:00
+
+ ## pri ✨ - itch.io
+ - [https://pitygacio.itch.io](https://pitygacio.itch.io)
+ - date_published: 2024-05-06T06:33:22.508043+00:00
+
+ ## Pixelbyte Studios - itch.io
+ - [https://pixelbyte.itch.io](https://pixelbyte.itch.io)
+ - date_published: 2024-07-11T23:14:40.780620+00:00
+
+ ## PixelForest - itch.io
+ - [https://pixelforest.itch.io](https://pixelforest.itch.io)
+ - date_published: 2024-07-11T11:37:38.175853+00:00
+
+ ## Pixels x Paper @ Babycastles - itch.io
+ - [https://pixelsxpaper.itch.io](https://pixelsxpaper.itch.io)
+ - date_published: 2024-06-22T14:43:38.916523+00:00
+
+ ## Pixel Trash - itch.io
+ - [https://pixel-trash.itch.io](https://pixel-trash.itch.io)
+ - date_published: 2024-05-10T04:04:00.481098+00:00
+
+ ## PizWiz - itch.io
+ - [https://pizwiz.itch.io](https://pizwiz.itch.io)
+ - date_published: 2024-06-18T16:23:22.209686+00:00
+
+ ## Plague - itch.io
+ - [https://plagueonhumanity.itch.io](https://plagueonhumanity.itch.io)
+ - date_published: 2024-06-22T14:50:41.159581+00:00
+
+ ## Paul Lawitzki - itch.io
+ - [https://plaw.itch.io](https://plaw.itch.io)
+ - date_published: 2024-04-28T02:00:35.396187+00:00
+
+ ## Wildfire Games - itch.io
+ - [https://play0ad.itch.io](https://play0ad.itch.io)
+ - date_published: 2024-05-09T06:49:35.431883+00:00
+
+ ## PlayMedusa - itch.io
+ - [https://playmedusa.itch.io](https://playmedusa.itch.io)
+ - date_published: 2024-05-10T04:01:27.986466+00:00
+
+ ## PLAY NOW - itch.io
+ - [https://play-now.itch.io](https://play-now.itch.io)
+ - date_published: 2024-05-09T09:10:43.838901+00:00
+
+ ## Plus One Exp - itch.io
+ - [https://plusoneexp.itch.io](https://plusoneexp.itch.io)
+ - date_published: 2024-07-11T23:15:20.212048+00:00
+
+ ## Pol Clarissou - itch.io
+ - [https://polclarissou.itch.io](https://polclarissou.itch.io)
+ - date_published: 2024-06-22T14:52:25.999911+00:00
+
+ ## Polyducks - itch.io
+ - [https://polyducks.itch.io](https://polyducks.itch.io)
+ - date_published: 2024-06-17T12:40:43.724903+00:00
+
+ ## Giorgio Pomettini - itch.io
+ - [https://pomettini.itch.io](https://pomettini.itch.io)
+ - date_published: 2024-05-07T23:46:44.755693+00:00
+
+ ## ponett - itch.io
+ - [https://ponett.itch.io](https://ponett.itch.io)
+ - date_published: 2024-06-22T14:47:05.922870+00:00
+
+ ## popcannibal - itch.io
+ - [https://popcannibal.itch.io](https://popcannibal.itch.io)
+ - date_published: 2024-07-11T23:03:58.176299+00:00
+
+ ## Powerhoof - itch.io
+ - [https://powerhoof.itch.io](https://powerhoof.itch.io)
+ - date_published: 2024-05-06T06:34:02.089507+00:00
+
+ ## presskit - itch.io
+ - [https://presskit.itch.io](https://presskit.itch.io)
+ - date_published: 2024-06-15T23:17:12.915650+00:00
+
+ ## Travis D. Hill - itch.io
+ - [https://presspotgames.itch.io](https://presspotgames.itch.io)
+ - date_published: 2024-06-22T13:37:27.395012+00:00
+
+ ## prikarin - itch.io
+ - [https://prikarin.itch.io](https://prikarin.itch.io)
+ - date_published: 2024-07-11T23:04:16.062772+00:00
+
+ ## prim4t - itch.io
+ - [https://prim4t.itch.io](https://prim4t.itch.io)
+ - date_published: 2024-07-02T18:36:35.097019+00:00
+
+ ## René - itch.io
+ - [https://primaerfunktion.itch.io](https://primaerfunktion.itch.io)
+ - date_published: 2024-06-22T14:37:11.895301+00:00
+
+ ## Priority Interrupt - itch.io
+ - [https://priorityinterrupt.itch.io](https://priorityinterrupt.itch.io)
+ - date_published: 2024-07-11T12:45:37.612276+00:00
+
+ ## Prismatic Realms, Inc. - itch.io
+ - [https://prismaticrealms.itch.io](https://prismaticrealms.itch.io)
+ - date_published: 2024-07-11T18:28:38.284185+00:00
+
+ ## ProbableTrain - itch.io
+ - [https://probabletrain.itch.io](https://probabletrain.itch.io)
+ - date_published: 2024-06-22T14:45:53.309343+00:00
+
+ ## prophet goddess - itch.io
+ - [https://prophetgoddess.itch.io](https://prophetgoddess.itch.io)
+ - date_published: 2024-06-22T15:02:11.906872+00:00
+
+ ## BigMaxine - itch.io
+ - [https://prsmaticwolf.itch.io](https://prsmaticwolf.itch.io)
+ - date_published: 2024-06-19T02:26:04.862971+00:00
+
+ ## Psytronik Software - itch.io
+ - [https://psytronik.itch.io](https://psytronik.itch.io)
+ - date_published: 2024-05-10T04:03:40.882986+00:00
+
+ ## BLA? - itch.io
+ - [https://pumpkinclowning.itch.io](https://pumpkinclowning.itch.io)
+ - date_published: 2024-06-18T16:23:05.953214+00:00
+
+ ## pumpkin spike - itch.io
+ - [https://pumpkin-spike.itch.io](https://pumpkin-spike.itch.io)
+ - date_published: 2024-07-11T23:01:27.053325+00:00
+
+ ## Punkitt - itch.io
+ - [https://punkitt.itch.io](https://punkitt.itch.io)
+ - date_published: 2024-06-22T14:47:25.778398+00:00
+
+ ## Мальва - itch.io
+ - [https://purple-mallow.itch.io](https://purple-mallow.itch.io)
+ - date_published: 2024-06-22T15:04:28.269626+00:00
+
+ ## pvigier - itch.io
+ - [https://pvigier.itch.io](https://pvigier.itch.io)
+ - date_published: 2024-05-04T15:25:46.385680+00:00
+
  ## Dreamy Pyon - itch.io
  - [https://pyonkotchi.itch.io](https://pyonkotchi.itch.io)
  - date_published: 2024-06-22T14:47:07.951491+00:00
@@ -3793,247 +4029,4 @@
  ## Mantiks
  - [https://en.blog.mantiks.io](https://en.blog.mantiks.io)
  - date_published: 2024-05-21T12:23:50.613579+00:00
-
- ## Mantiks - Home
- - [https://mantiks.io](https://mantiks.io)
- - date_published: 2024-07-20T17:55:54.284593+00:00
-
- ## Map Genie | Awesome Interactive Game Maps
- - [https://mapgenie.io](https://mapgenie.io)
- - date_published: 2023-11-13T13:33:59.935262+00:00
- - tags: ['video games', 'game maps']
-
- ## Maple Media
- - [https://maplemedia.io](https://maplemedia.io)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## The easiest way to make maps
- - [https://mapstack.io](https://mapstack.io)
- - date_published: 2024-06-20T20:46:09.251425+00:00
-
- ## MARBLEX - 3.0 Universe
- - [https://www.marblex.io](https://www.marblex.io)
- - date_published: 2024-07-14T22:11:15.031053+00:00
-
- ## Eine Wohnung für Marcel
- - [https://eine.wohnung.fuer.marcel.io](https://eine.wohnung.fuer.marcel.io)
- - date_published: 2024-05-09T10:55:49+00:00
-
- ## marcel.io
- - [https://marcel.io](https://marcel.io)
- - date_published: 2024-02-07T16:46:13.591201+00:00
- - tags: ['personal']
-
- ## Plausible · Web analytics
- - [https://stats.marcel.io](https://stats.marcel.io)
- - date_published: 2024-05-06T06:42:15.405294+00:00
-
- ## Call Analytics - Login
- - [https://rw1.marchex.io](https://rw1.marchex.io)
- - date_published: 2024-06-25T16:09:13.015677+00:00
-
- ## Home
- - [https://marcus.io](https://marcus.io)
- - date_published: 2024-01-06T00:00:00+00:00
-
- ## maria.io - The Nordics' Leading Startup Campus
- - [https://maria.io](https://maria.io)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Maria Altyeva
- - [https://mariacodes.io](https://mariacodes.io)
- - date_published: 2022-11-27T21:32:36+00:00
-
- ## marimo
- - [https://docs.marimo.io](https://docs.marimo.io)
- - date_published: 2024-02-29T18:41:04.409763+00:00
-
- ## marimo | a next-generation Python notebook
- - [https://marimo.io](https://marimo.io)
- - date_published: 2024-03-08T22:47:30.070901+00:00
-
- ## MarketCI | Landing
- - [https://marketci.io](https://marketci.io)
- - date_published: 2024-04-28T06:08:51.391309+00:00
-
- ## Home - Marketing School Podcast
- - [https://marketingschool.io](https://marketingschool.io)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## MarketPlan
- - [https://marketplan.io](https://marketplan.io)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## MarkUp
- - [https://app.markup.io](https://app.markup.io)
- - date_published: 2024-07-02T08:16:37+00:00
-
- ## Marten
- - [https://martendb.io](https://martendb.io)
- - date_published: 2024-04-28T03:09:05.092828+00:00
-
- ## Martial Arts Software for 2024: Students, Attendance and More!
- - [https://martialarts.io](https://martialarts.io)
- - date_published: 2024-06-17T02:23:35.300977+00:00
-
- ## Pierre de la Martinière: front-end developer, amongst other things
- - [https://martpie.io](https://martpie.io)
- - date_published: 2024-07-20T05:51:03.723605+00:00
-
- ## martyna.io - Private Site Access
- - [https://martyna.io](https://martyna.io)
- - date_published: 2024-02-09T22:22:36.968074+00:00
- - tags: ['personal']
-
- ## Mask Network Legal Documents
- - [https://legal.mask.io](https://legal.mask.io)
- - date_published: 2024-03-25T06:19:21+00:00
-
- ## Mask Network — Your Portal To The New, Open Internet.
- - [https://mask.io](https://mask.io)
- - date_published: 2024-05-12T06:01:43.192021+00:00
-
- ## News — The Portal to the New, Open Internet.
- - [https://news.mask.io](https://news.mask.io)
- - date_published: 2024-07-15T11:13:24.751833+00:00
-
- ## Stake | Mask Network — Your Portal To The New, Open Internet.
- - [https://stake.mask.io](https://stake.mask.io)
- - date_published: 2024-07-15T11:13:36.012763+00:00
-
- ## Mask Network Forum
- - [https://we.mask.io](https://we.mask.io)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Massive Gaming
- - [https://massivegaming.io](https://massivegaming.io)
- - date_published: 2024-05-31T10:05:29+00:00
-
- ## Mastering JS
- - [https://masteringjs.io](https://masteringjs.io)
- - date_published: 2024-05-06T14:15:00.899010+00:00
-
- ## Mastering Laravel
- - [https://masteringlaravel.io](https://masteringlaravel.io)
- - date_published: 2024-05-04T11:49:59.957165+00:00
-
- ## Masto Reader
- - [https://mastoreader.io](https://mastoreader.io)
- - date_published: 2023-09-17T22:51:17+00:00
- - tags: ['mastodon']
-
- ## Material Design
- - [https://m2.material.io](https://m2.material.io)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Material Design
- - [https://m3.material.io](https://m3.material.io)
- - date_published: 2024-04-28T02:37:31.019108+00:00
-
- ## Material Design
- - [https://material.io](https://material.io)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Materialized View | Chris Riccomini | Substack
- - [https://materializedview.io](https://materializedview.io)
- - date_published: 2023-12-22T18:37:31.093475+00:00
-
- ## MATR1X
- - [https://matr1x.io](https://matr1x.io)
- - date_published: 2024-06-14T10:51:33+00:00
-
- ## Mats3 - Mats3: Message-based Asynchronous Transactional Staged Stateless Services
- - [https://mats3.io](https://mats3.io)
- - date_published: 2023-09-01T08:51:48+00:00
-
- ## MatsSocket
- - [https://matssocket.io](https://matssocket.io)
- - date_published: 2023-01-03T23:08:42+00:00
-
- ## Shiki
- - [https://shiki.matsu.io](https://shiki.matsu.io)
- - date_published: 2023-10-25T20:00:40.369206+00:00
-
- ## matter.io is now available for purchase.
- - [https://matter.io](https://matter.io)
- - date_published: 2024-05-07T15:58:59.686836+00:00
-
- ## Thoughts on building & selling software
- - [https://www.matthensley.io](https://www.matthensley.io)
- - date_published: 2024-01-17T14:36:18.006834+00:00
-
- ## Hi there! - matthieu.io
- - [https://matthieu.io](https://matthieu.io)
- - date_published: 2023-10-25T08:49:39.454595+00:00
- - tags: ['personal']
-
- ## Mattie B — They/them. Software consultant and developer. Hope...
- - [https://mattiebee.io](https://mattiebee.io)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Matt Jennings
- - [https://mattjennings.io](https://mattjennings.io)
- - date_published: 2024-05-11T10:22:54.226810+00:00
-
- ## The Arena Group – Where the Action is
- - [https://maven.io](https://maven.io)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Choose a language · MAVLink Developer Guide
- - [https://mavlink.io](https://mavlink.io)
- - date_published: 2024-06-10T12:25:26.167415+00:00
-
- ## Going to latest docs
- - [https://mavsdk.mavlink.io](https://mavsdk.mavlink.io)
- - date_published: 2024-06-10T12:25:25.673931+00:00
-
- ## Redirecting to latest version of document (main)
- - [http://mavsdk.io](http://mavsdk.io)
- - date_published: 2024-06-10T12:25:06.543828+00:00
-
- ## Thomas Maximini
- - [https://maxi.io](https://maxi.io)
- - date_published: 2024-05-11T10:21:20.604181+00:00
-
- ## MAXLAB.IO | Canadian Computer Vision Company
- - [https://maxlab.io](https://maxlab.io)
- - date_published: 2023-10-25T20:00:42.506555+00:00
-
- ## mayari 🌙✨
- - [https://mayari.io](https://mayari.io)
- - date_published: 2024-06-22T20:37:44.364201+00:00
-
- ## https://www.mayerowitz.io
- - [https://mayerowitz.io](https://mayerowitz.io)
- - date_published: 2023-10-26T23:41:55.043352+00:00
- - tags: ['personal']
-
- ## MBition
- - [https://mbition.io](https://mbition.io)
- - date_published: 2024-05-06T23:31:49.784144+00:00
-
- ## McGaw | Unblock Your Growth
- - [http://mcgaw.io](http://mcgaw.io)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## MDB
- - [https://ascensus-mdb-new.mdbgo.io](https://ascensus-mdb-new.mdbgo.io)
- - date_published: 2022-08-23T07:51:54+00:00
-
- ## assets | meain
- - [https://assets.meain.io](https://assets.meain.io)
- - date_published: 2024-06-22T20:37:50.829715+00:00
-
- ## meain/blog
- - [https://blog.meain.io](https://blog.meain.io)
- - date_published: 2023-10-25T08:59:26.694324+00:00
- - tags: ['personal']
-
- ## meain
- - [https://meain.io](https://meain.io)
- - date_published: 2023-12-18T09:07:44+00:00
-
- ## Mealie
- - [https://demo.mealie.io](https://demo.mealie.io)
- - date_published: 2024-05-14T03:37:16.243288+00:00
 

@@ -1,3 +1,7 @@
+ ## Michel Egger
+ - [https://www.michelegger.ch](https://www.michelegger.ch)
+ - date_published: 2023-06-15T08:10:32+00:00
+
  ## Michelle Gisin - Home
  - [https://www.michellegisin.ch](https://www.michellegisin.ch)
  - date_published: 2024-06-16T09:05:54.566023+00:00
@@ -4022,8 +4026,4 @@ Fakultät | Universität Basel
  ## Encuentra tu auto nuevo, marca francesa |Peugeot Chile
  - [http://www.peugeot.cl](http://www.peugeot.cl)
  - date_published: 2024-06-18T16:37:54+00:00
-
- ## Pinterest
- - [https://www.pinterest.cl](https://www.pinterest.cl)
- - date_published: 2024-04-22T00:00:00+00:00
 

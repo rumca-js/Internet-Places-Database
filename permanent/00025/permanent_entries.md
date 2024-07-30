@@ -1,3 +1,11 @@
+ ## Aave Document Hub | Hub
+ - [https://docs.aave.com](https://docs.aave.com)
+ - date_published: 2024-04-29T07:33:42.912734+00:00
+
+ ## Aave
+ - [https://governance.aave.com](https://governance.aave.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
  ## ACI
  - [https://www.aavechan.com](https://www.aavechan.com)
  - date_published: 2024-06-16T05:15:04.266534+00:00
@@ -4035,12 +4043,4 @@
  ## Plausible · Web analytics
  - [https://analytics.adaures.com](https://analytics.adaures.com)
  - date_published: 2024-07-03T04:24:07.884253+00:00
-
- ## Ad Aures HRM
- - [https://hrm.adaures.com](https://hrm.adaures.com)
- - date_published: 2024-07-03T04:24:06.874522+00:00
-
- ## Effortlessly transform your content to audio
- - [https://play.ad-auris.com](https://play.ad-auris.com)
- - date_published: 2024-06-17T00:00:00+00:00
 

@@ -1,3 +1,215 @@
+ ## Admissions
+ - [https://admissions.fiu.edu](https://admissions.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Medina Aquarius Program
+ - [https://aquarius.fiu.edu](https://aquarius.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Events Calendar - Florida International University
+ - [https://calendar.fiu.edu](https://calendar.fiu.edu)
+ - date_published: 2024-04-30T04:15:01.587208+00:00
+
+ ## Florida International University - Campus Maps
+ - [https://campusmaps.fiu.edu](https://campusmaps.fiu.edu)
+ - date_published: 2024-04-30T04:14:57.859721+00:00
+
+ ## FIU Canvas
+ - [https://canvas.fiu.edu](https://canvas.fiu.edu)
+ - date_published: 2024-04-30T04:14:50.043009+00:00
+
+ ## College of Communication, Architecture + The Arts
+ - [http://carta.fiu.edu](http://carta.fiu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Florida International University Catalog
+ - [https://catalog.fiu.edu](https://catalog.fiu.edu)
+ - date_published: 2024-07-22T04:16:13.532903+00:00
+
+ ## Division of Academic &amp; Student Affairs
+ - [https://dasa.fiu.edu](https://dasa.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## digicdn.fiu.edu
+ - [https://digicdn.fiu.edu](https://digicdn.fiu.edu)
+ - date_published: 2021-12-21T22:08:10+00:00
+
+ ## Web Design &amp; Development Services at FIU
+ - [https://digicomm.fiu.edu](https://digicomm.fiu.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## FIU Discovery
+ - [https://discovery.fiu.edu](https://discovery.fiu.edu)
+ - date_published: 2024-07-22T04:17:41.451413+00:00
+
+ ## DocuSign at FIU - FIU DocuSign
+ - [https://docusign.fiu.edu](https://docusign.fiu.edu)
+ - date_published: 2024-07-22T04:16:40.326809+00:00
+
+ ## eCollections | Florida International University College of Law
+ - [https://ecollections.law.fiu.edu](https://ecollections.law.fiu.edu)
+ - date_published: 2024-07-14T23:30:15.535739+00:00
+
+ ## Center for Community Impact and Public Purpose
+ - [https://engagement.fiu.edu](https://engagement.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Redirect
+ - [https://faculty.fiu.edu](https://faculty.fiu.edu)
+ - date_published: 2018-03-23T16:28:29+00:00
+
+ ## Florida International University in Miami, FL
+ - [https://fiu.edu](https://fiu.edu)
+ - date_published: 2024-07-22T04:01:54+00:00
+
+ ## Florida International University Online
+ - [https://fiuonline.fiu.edu](https://fiuonline.fiu.edu)
+ - date_published: 2024-07-22T04:17:36.245697+00:00
+
+ ## Phillip & Patricia Frost Art Museum
+ - [https://frost.fiu.edu](https://frost.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Foundation
+ - [https://give.fiu.edu](https://give.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Global Learning
+ - [https://goglobal.fiu.edu](https://goglobal.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Jack D. Gordon Institute for Public Policy
+ - [https://gordoninstitute.fiu.edu](https://gordoninstitute.fiu.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home - University Graduate School
+ - [http://gradschool.fiu.edu](http://gradschool.fiu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Chaplin School of Hospitality &amp; Tourism Management
+ - [http://hospitality.fiu.edu](http://hospitality.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## System Status - AskIT Service Portal
+ - [https://italerts.fiu.edu](https://italerts.fiu.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## FIU Division of Information Technology - FIU's central technology service provider
+ - [https://it.fiu.edu](https://it.fiu.edu)
+ - date_published: 2024-07-17T21:31:12+00:00
+
+ ## Jewish Museum of Florida
+ - [https://jmof.fiu.edu](https://jmof.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Center for Leadership Homepage
+ - [https://lead.fiu.edu](https://lead.fiu.edu)
+ - date_published: 2024-07-21T06:15:19+00:00
+
+ ## FIU Libraries
+ - [https://library.fiu.edu](https://library.fiu.edu)
+ - date_published: 2024-07-22T04:15:35.404753+00:00
+
+ ## Please wait...
+ - [https://mail.fiu.edu](https://mail.fiu.edu)
+ - date_published: 2024-04-30T04:14:46.164256+00:00
+
+ ## My FIU
+ - [https://my.fiu.edu](https://my.fiu.edu)
+ - date_published: 2020-09-06T10:47:51+00:00
+
+ ## Network
+ - [https://network.fiu.edu](https://network.fiu.edu)
+ - date_published: 2024-07-22T04:15:44.033210+00:00
+
+ ## FIU News - Florida International University
+ - [https://news.fiu.edu](https://news.fiu.edu)
+ - date_published: 2023-10-30T12:42:14.738633+00:00
+
+ ## Home
+ - [https://onestop.fiu.edu](https://onestop.fiu.edu)
+ - date_published: 2024-04-30T04:14:51.211245+00:00
+
+ ## FIU | Login
+ - [https://onlineforms.fiu.edu](https://onlineforms.fiu.edu)
+ - date_published: 2024-07-22T04:17:02.746590+00:00
+
+ ## Google to Microsoft 365 Migration |
+ - [http://panthermail.fiu.edu](http://panthermail.fiu.edu)
+ - date_published: 2024-07-22T04:15:02.307972+00:00
+
+ ## Parking &amp; Transportation
+ - [https://parking.fiu.edu](https://parking.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Phonebook
+ - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
+ - date_published: 2024-04-30T04:15:03.150013+00:00
+
+ ## University Police Department
+ - [https://police.fiu.edu](https://police.fiu.edu)
+ - date_published: 2024-07-17T15:44:16+00:00
+
+ ## Search | P&P Library
+ - [https://policies.fiu.edu](https://policies.fiu.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Presidential Search
+ - [https://presidentialsearch.fiu.edu](https://presidentialsearch.fiu.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Index Page
+ - [https://pslinks.fiu.edu](https://pslinks.fiu.edu)
+ - date_published: 2024-06-07T00:42:51+00:00
+
+ ## Panthers Protecting Panthers
+ - [https://repopulation.fiu.edu](https://repopulation.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Report a Concern
+ - [https://report.fiu.edu](https://report.fiu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home - Research
+ - [http://research.fiu.edu](http://research.fiu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Request a Space |
+ - [https://reservespace.fiu.edu](https://reservespace.fiu.edu)
+ - date_published: 2024-06-07T22:44:44.235939+00:00
+
+ ## Home - ShopFIU
+ - [https://shop.fiu.edu](https://shop.fiu.edu)
+ - date_published: 2024-07-22T04:15:32.660844+00:00
+
+ ## Steven J. Green School of International &amp; Public Affairs
+ - [https://sipa.fiu.edu](https://sipa.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Social Media
+ - [http://social.fiu.edu](http://social.fiu.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Robert Stempel College of Public Health &amp; Social Work
+ - [https://stempel.fiu.edu](https://stempel.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Strategic Communications, Government and External Affairs
+ - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Division of Academic &amp; Student Affairs
+ - [http://studentaffairs.fiu.edu](http://studentaffairs.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Transfer &amp; Transition Services
+ - [https://transfer.fiu.edu](https://transfer.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## MachForm Admin Panel
+ - [https://webforms.fiu.edu](https://webforms.fiu.edu)
+ - date_published: 2024-04-30T04:14:47.420081+00:00
+
  ## Welcome to FIU
  - [https://welcome.fiu.edu](https://welcome.fiu.edu)
  - date_published: 2024-05-22T00:00:00+00:00
@@ -3797,217 +4009,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Project Implicit
  - [https://implicit.harvard.edu](https://implicit.harvard.edu)
  - date_published: 2024-06-15T18:40:21.830267+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://internal.accessibility.huit.harvard.edu](https://internal.accessibility.huit.harvard.edu)
- - date_published: 2024-07-21T23:19:20.697512+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://intranet.huit.harvard.edu](https://intranet.huit.harvard.edu)
- - date_published: 2024-06-16T13:36:27.224638+00:00
-
- ## The Institute of Politics at Harvard University
- - [http://iop.harvard.edu](http://iop.harvard.edu)
- - date_published: 2024-07-10T00:02:07.058226+00:00
-
- ## HLS Journals – HLS Journals
- - [https://journals.law.harvard.edu](https://journals.law.harvard.edu)
- - date_published: 2024-06-30T04:00:41.779983+00:00
-
- ## Kempner Institute
- - [https://kempnerinstitute.harvard.edu](https://kempnerinstitute.harvard.edu)
- - date_published: 2024-07-11T14:31:22+00:00
-
- ## Welcome to HarvardKey
- - [https://key.harvard.edu](https://key.harvard.edu)
- - date_published: 2024-07-21T23:18:37.519529+00:00
-
- ## Kreiman Lab
- - [https://klab.tch.harvard.edu](https://klab.tch.harvard.edu)
- - date_published: 2024-04-25T23:44:08+00:00
-
- ## Harvard Kennedy School
- - [http://ksgaccman.harvard.edu](http://ksgaccman.harvard.edu)
- - date_published: 2024-06-27T06:28:35+00:00
-
- ## Harvard Kennedy School
- - [http://ksghome.harvard.edu](http://ksghome.harvard.edu)
- - date_published: 2024-07-03T21:57:07+00:00
-
- ## Home - Harvard Law School
- - [http://law.harvard.edu](http://law.harvard.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Harvard & the Legacy of Slavery | Radcliffe Institute for Advanced Study at Harvard University
- - [https://legacyofslavery.harvard.edu](https://legacyofslavery.harvard.edu)
- - date_published: 2024-07-21T23:12:56.976823+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://liaisons.accessibility.huit.harvard.edu](https://liaisons.accessibility.huit.harvard.edu)
- - date_published: 2024-07-21T23:19:16.691833+00:00
-
- ## Harvard Library Calendars -
-        Harvard Library
- - [https://libcal.library.harvard.edu](https://libcal.library.harvard.edu)
- - date_published: 2024-07-21T22:53:39.195556+00:00
-
- ## library.harvard
- - [https://library.harvard.edu](https://library.harvard.edu)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Harvard Divinity School Library
- - [https://library.hds.harvard.edu](https://library.hds.harvard.edu)
- - date_published: 2024-07-02T11:57:49+00:00
-
- ## The Library Innovation Lab at Harvard University
- - [http://librarylab.law.harvard.edu](http://librarylab.law.harvard.edu)
- - date_published: 2024-07-02T21:27:44+00:00
-
- ## HMS LINCS Project
- - [http://lincs.hms.harvard.edu](http://lincs.hms.harvard.edu)
- - date_published: 2024-06-20T15:40:09.438774+00:00
-
- ## Home
- - [http://logic.harvard.edu](http://logic.harvard.edu)
- - date_published: 2024-06-15T13:02:28.058605+00:00
-
- ## Home | Center for Astrophysics
- - [https://lweb.cfa.harvard.edu](https://lweb.cfa.harvard.edu)
- - date_published: 2023-10-25T18:51:56.891134+00:00
-
- ## Lyme Wellness Initiative Harvard Health Publishing
- - [https://lyme.health.harvard.edu](https://lyme.health.harvard.edu)
- - date_published: 2024-02-05T16:23:53+00:00
-
- ## James Mickens
- - [https://mickens.seas.harvard.edu](https://mickens.seas.harvard.edu)
- - date_published: 2024-07-18T04:39:43+00:00
-
- ## HKS Misinformation Review
- - [https://misinforeview.hks.harvard.edu](https://misinforeview.hks.harvard.edu)
- - date_published: 2024-03-13T10:53:23.464434+00:00
-
- ## my.harvard
- - [https://my.harvard.edu](https://my.harvard.edu)
- - date_published: 2024-04-30T04:47:29.696404+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://my.hds.harvard.edu](https://my.hds.harvard.edu)
- - date_published: 2024-07-02T12:18:26.582809+00:00
-
- ## Na (Lina) Li 黎娜
- - [https://nali.seas.harvard.edu](https://nali.seas.harvard.edu)
- - date_published: 2024-05-04T15:43:50.597405+00:00
-
- ## Harvard Gazette – Official news from Harvard University covering innovation in teaching, learning, and research
- - [https://news.harvard.edu](https://news.harvard.edu)
- - date_published: 2023-10-25T11:22:32.692394+00:00
-
- ## Nieman Foundation for Journalism at Harvard
- - [https://nieman.harvard.edu](https://nieman.harvard.edu)
- - date_published: 2024-05-08T10:50:13.873435+00:00
-
- ## Harvard NLP
- - [http://nlp.seas.harvard.edu](http://nlp.seas.harvard.edu)
- - date_published: 2018-04-03T00:00:00+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://now.gsd.harvard.edu](https://now.gsd.harvard.edu)
- - date_published: 2024-06-22T11:46:26.089253+00:00
-
- ## The Nutrition Source
- - [https://nutritionsource.hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu)
- - date_published: 2024-07-09T06:43:37.498122+00:00
-
- ## Home | Harvard OSC
- - [https://osc.hul.harvard.edu](https://osc.hul.harvard.edu)
- - date_published: 2020-05-18T18:24:22+00:00
-
- ## Home
- - [https://ostransition.hwp.harvard.edu](https://ostransition.hwp.harvard.edu)
- - date_published: 2024-07-14T20:38:03.952189+00:00
-
- ## Program on Corporate Governance
- - [https://pcg.law.harvard.edu](https://pcg.law.harvard.edu)
- - date_published: 2024-04-30T04:43:55.632088+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [http://people.fas.harvard.edu](http://people.fas.harvard.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## Harvard Mathematics Department : Home page
- - [https://people.math.harvard.edu](https://people.math.harvard.edu)
- - date_published: 2021-07-13T16:49:58+00:00
-
- ## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://people.seas.harvard.edu](https://people.seas.harvard.edu)
- - date_published: 2023-10-25T18:52:00.075501+00:00
-
- ## The Petrie-Flom Center for Health Law Policy, Biotechnology,
- - [https://petrieflom.law.harvard.edu](https://petrieflom.law.harvard.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Department of Philosophy
- - [https://philosophy.fas.harvard.edu](https://philosophy.fas.harvard.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://portal.my.harvard.edu](https://portal.my.harvard.edu)
- - date_published: 2024-07-21T23:10:24.355185+00:00
-
- ## Harvard University Privacy Tools Project
- - [https://privacytools.seas.harvard.edu](https://privacytools.seas.harvard.edu)
- - date_published: 2024-06-23T11:08:37+00:00
-
- ## Profiles Research Networking Software
- - [http://profiles.catalyst.harvard.edu](http://profiles.catalyst.harvard.edu)
- - date_published: 2024-07-02T01:50:10.780215+00:00
-
- ## Home | Projects at Harvard
- - [https://projects.iq.harvard.edu](https://projects.iq.harvard.edu)
- - date_published: 2024-05-12T03:55:01.349670+00:00
-
- ## Office of the Provost
- - [http://provost.harvard.edu](http://provost.harvard.edu)
- - date_published: 2024-07-21T23:00:09+00:00
-
- ## Department of Psychology
- - [https://psychology.fas.harvard.edu](https://psychology.fas.harvard.edu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Home | Center for Astrophysics | Harvard & Smithsonian
- - [https://pweb.cfa.harvard.edu](https://pweb.cfa.harvard.edu)
- - date_published: 2024-04-30T04:46:10.416653+00:00
-
- ## rafalab
- - [https://rafalab.dfci.harvard.edu](https://rafalab.dfci.harvard.edu)
- - date_published: 2024-02-24T18:03:46+00:00
-
- ## Real Colegio Complutense
- - [https://rcc.harvard.edu](https://rcc.harvard.edu)
- - date_published: 2024-06-24T09:47:45+00:00
-
- ## FAS Registrar's Office
- - [https://registrar.fas.harvard.edu](https://registrar.fas.harvard.edu)
- - date_published: 2024-07-01T15:10:08+00:00
-
- ## Find A Researcher at Massachusetts General Hospital
- - [https://researchers.mgh.harvard.edu](https://researchers.mgh.harvard.edu)
- - date_published: 2024-05-08T10:03:09.286878+00:00
-
- ## Risk Management & Audit Services
- - [https://rmas.fad.harvard.edu](https://rmas.fad.harvard.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Homepage - The Salata Institute
- - [https://salatainstitute.harvard.edu](https://salatainstitute.harvard.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home | Scholars at Harvard
- - [https://scholar.harvard.edu](https://scholar.harvard.edu)
- - date_published: 2023-10-25T18:52:02.303424+00:00
-
- ## Home Page | Harvard John A. Paulson School of Engineering and Applied Sciences
- - [https://seas.harvard.edu](https://seas.harvard.edu)
- - date_published: 2023-10-25T18:52:04.448986+00:00
 

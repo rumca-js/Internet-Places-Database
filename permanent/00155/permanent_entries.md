@@ -1,3 +1,207 @@
+ ## Patrick Sauerwein | @virtual_patrick
+ - [https://virtualpatrick.com](https://virtualpatrick.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Home - Virtual Playtesting
+ - [https://virtualplaytesting.com](https://virtualplaytesting.com)
+ - date_published: 2020-12-22T19:22:13+00:00
+
+ ## Virtual Reality Oasis
+ - [https://virtualrealityoasis.com](https://virtualrealityoasis.com)
+ - date_published: 2023-11-27T16:12:28+00:00
+ - tags: ['virtual reality']
+
+ ## the virtual roadside
+ - [http://www.virtualroadside.com](http://www.virtualroadside.com)
+ - date_published: 2024-07-04T14:42:00.990819+00:00
+
+ ## Virtual Sanity
+ - [https://www.virtualsanity.com](https://www.virtualsanity.com)
+ - date_published: 2019-11-16T00:00:00+00:00
+
+ ## Spatula City - Welcome
+ - [http://www.virtualspatula.com](http://www.virtualspatula.com)
+ - date_published: 2024-07-04T14:51:07.708787+00:00
+
+ ## Virtual Uncle - VR, XR, AR Curated News & Releases
+ - [https://virtualuncle.com](https://virtualuncle.com)
+ - date_published: 2023-10-25T17:57:29.714238+00:00
+ - tags: ['virtual reality', 'tech news']
+
+ ## Join the Virtual Working Summit 2022! Hybrid & Risk - Virtual Working Summit
+ - [http://virtualworkingsummit.com](http://virtualworkingsummit.com)
+ - date_published: 2024-07-12T23:53:11.929848+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.virtuaza.com](https://matomo.virtuaza.com)
+ - date_published: 2024-05-12T06:26:24.714319+00:00
+
+ ## Home | Virtuaza
+ - [https://virtuaza.com](https://virtuaza.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Virtue - The Agency Powered by VICE
+ - [https://www.virtueworldwide.com](https://www.virtueworldwide.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Cost-Effective IT Solutions | VirtuITSystems - Managed IT Support and Services
+ - [https://virtuitsystems.com](https://virtuitsystems.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Omni by Virtuix | The leading and most popular VR treadmill
+ - [http://www.virtuix.com](http://www.virtuix.com)
+ - date_published: 2024-04-29T02:30:15.616813+00:00
+
+ ## World's Best Luxury Travel Advisors and Hotels | Virtuoso
+ - [https://www.virtuoso.com](https://www.virtuoso.com)
+ - date_published: 2024-06-29T20:53:45.448344+00:00
+
+ ## Virtuous Review Static Source
+ - [https://css.virtuousreviews.com](https://css.virtuousreviews.com)
+ - date_published: 2017-11-15T22:55:22+00:00
+
+ ## Virtuous Review Static Source
+ - [https://images.virtuousreviews.com](https://images.virtuousreviews.com)
+ - date_published: 2017-11-15T22:56:06+00:00
+
+ ## Virtuous Review Static Source
+ - [https://js.virtuousreviews.com](https://js.virtuousreviews.com)
+ - date_published: 2017-11-15T22:56:40+00:00
+
+ ## Virtuous Review Static Source
+ - [https://static.virtuousreviews.com](https://static.virtuousreviews.com)
+ - date_published: 2017-11-15T23:38:00+00:00
+
+ ## Virtuous Reviews API
+ - [https://webapi.virtuousreviews.com](https://webapi.virtuousreviews.com)
+ - date_published: 2024-07-04T07:49:03.379955+00:00
+
+ ## Ratings & Reviews For Best Products & Services- Virtuousreviews
+ - [https://www.virtuousreviews.com](https://www.virtuousreviews.com)
+ - date_published: 2024-07-04T07:48:58.934462+00:00
+
+ ## Virtuozzo Documentation
+ - [https://docs.virtuozzo.com](https://docs.virtuozzo.com)
+ - date_published: 2024-07-02T15:08:00+00:00
+
+ ## Virtuozzo | the leading cloud platform for CSPs MSPs & hosts
+ - [http://virtuozzo.com](http://virtuozzo.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Virtuozzo | the leading cloud platform for CSPs MSPs & hosts
+ - [https://www.virtuozzo.com](https://www.virtuozzo.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Virtusales Publishing Solutions | Publishing Software Supplier
+ - [https://www.virtusales.com](https://www.virtusales.com)
+ - date_published: 2024-06-20T12:15:51.667802+00:00
+
+ ## Home - Trusted Mobile, IoT, MVNO and Private 5G since 2001
+ - [https://virtuser.com](https://virtuser.com)
+ - date_published: 2021-06-10T08:39:00+00:00
+
+ ## VirtusLab - build and sustain a competitive edge
+ - [https://lp.virtuslab.com](https://lp.virtuslab.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Scala Survey Results 2023 | Scala Survey Results 2023
+ - [https://scalasurvey2023.virtuslab.com](https://scalasurvey2023.virtuslab.com)
+ - date_published: 2024-06-16T23:56:58.514020+00:00
+
+ ## VirtusLab - build and sustain a competitive edge
+ - [https://virtuslab.com](https://virtuslab.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Virus Comix Online Empire
+ - [https://viruscomix.com](https://viruscomix.com)
+ - date_published: 2020-10-28T15:22:33+00:00
+ - tags: ['interesting', 'personal']
+
+ ## Virus, the Beauty of the Beast
+ - [http://viruspatterns.com](http://viruspatterns.com)
+ - date_published: 2017-07-22T14:36:58+00:00
+
+ ## VirusShare.com
+ - [https://virusshare.com](https://virusshare.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## VirusSign
+ - [http://www.virussign.com](http://www.virussign.com)
+ - date_published: 2024-07-14T21:16:30.237988+00:00
+
+ ## VirusTotal Blog
+ - [https://blog.virustotal.com](https://blog.virustotal.com)
+ - date_published: 2024-05-01T07:11:46.115189+00:00
+
+ ## VirusTotal
+ - [http://virustotal.com](http://virustotal.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## VirusTotal
+ - [https://www.virustotal.com](https://www.virustotal.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://ae.review.visa.com](https://ae.review.visa.com)
+ - date_published: 2024-07-14T12:52:18+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://africa.visa.com](https://africa.visa.com)
+ - date_published: 2024-05-12T03:59:06.109326+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://bd.visa.com](https://bd.visa.com)
+ - date_published: 2024-05-12T03:58:40.147031+00:00
+
+ ## Visa – лидер цифровых оплат, которому доверяют
+ - [https://by.visa.com](https://by.visa.com)
+ - date_published: 2024-05-12T03:58:48.786469+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://caribbean.visa.com](https://caribbean.visa.com)
+ - date_published: 2024-05-12T04:00:17.244166+00:00
+
+ ## Visa – лидер цифровых оплат, которому доверяют
+ - [https://cis.visa.com](https://cis.visa.com)
+ - date_published: 2024-05-12T03:59:20.047203+00:00
+
+ ## Visa Corporate: A world leader in digital payments
+ - [https://corporate.visa.com](https://corporate.visa.com)
+ - date_published: 2024-07-14T03:41:12+00:00
+
+ ## Visa, lider u digitalnim plaćanjima
+ - [https://hr.review.visa.com](https://hr.review.visa.com)
+ - date_published: 2024-07-10T14:32:37+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://myanmar.visa.com](https://myanmar.visa.com)
+ - date_published: 2024-05-12T03:58:50.977213+00:00
+
+ ## Visa Navigate
+ - [https://navigate.visa.com](https://navigate.visa.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Visa Partner
+ - [https://partner.visa.com](https://partner.visa.com)
+ - date_published: 2024-07-14T21:03:12.547947+00:00
+
+ ## Visa, zaufany partner w płatnościach cyfrowych
+ - [https://promotions.visa.com](https://promotions.visa.com)
+ - date_published: 2024-07-14T03:05:44+00:00
+
+ ## Pouzdani lider u digitalnim plaćanjima
+ - [https://rs.visa.com](https://rs.visa.com)
+ - date_published: 2024-05-12T03:59:13.036950+00:00
+
+ ## Visa
+ - [https://secure.checkout.visa.com](https://secure.checkout.visa.com)
+ - date_published: 2024-05-01T07:19:13.746027+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://usa.visa.com](https://usa.visa.com)
+ - date_published: 2024-05-12T03:58:24.916076+00:00
+
  ## Visa, zaufany partner w płatnościach cyfrowych
  - [https://visa.com](https://visa.com)
  - date_published: 2023-01-01T00:00:00+00:00
@@ -3844,205 +4048,4 @@
  ## #1 Platform for Audience Engagement
  - [https://api.vuukle.com](https://api.vuukle.com)
  - date_published: 2021-08-16T00:00:00+00:00
-
- ## #1 Platform for Audience Engagement
- - [https://cdn.vuukle.com](https://cdn.vuukle.com)
- - date_published: 2021-08-16T00:00:00+00:00
-
- ## Welcome to Vuukle!
- - [https://image.vuukle.com](https://image.vuukle.com)
- - date_published: 2022-11-09T08:54:59+00:00
-
- ## Vuukle Social
- - [https://news.vuukle.com](https://news.vuukle.com)
- - date_published: 2024-02-06T12:57:48+00:00
-
- ## #1 Platform for Audience Engagement
- - [https://vuukle.com](https://vuukle.com)
- - date_published: 2021-08-16T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://vuurr.com](https://vuurr.com)
- - date_published: 2024-07-02T20:45:29.872431+00:00
-
- ## Vuze Forums
- - [https://forum.vuze.com](https://forum.vuze.com)
- - date_published: 2024-06-25T16:06:39.652530+00:00
-
- ## Vuze Bittorrent Client - The Most Powerful Bittorrent Software on Earth
- - [https://www.vuze.com](https://www.vuze.com)
- - date_published: 2024-05-11T11:41:45.599808+00:00
-
- ## Redirecting...
- - [https://url.vuzevpn.com](https://url.vuzevpn.com)
- - date_published: 2024-06-25T16:06:36.922183+00:00
-
- ## Victorville Daily Press: Local News, Politics & Sports in Victorville, CA
- - [https://www.vvdailypress.com](https://www.vvdailypress.com)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## Albany
- - [http://www.vvisions.com](http://www.vvisions.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Buy Instagram Likes Trial: FREE 10-50 Real IG Likes⋆Instant
- - [https://vvslikes.com](https://vvslikes.com)
- - date_published: 2024-06-19T21:57:35.119571+00:00
-
- ## Volkswagen DriverGear
- - [https://drivergear.vw.com](https://drivergear.vw.com)
- - date_published: 2024-06-29T14:21:57.241571+00:00
-
- ## Official Media Site - Volkswagen US Media Site
- - [https://media.vw.com](https://media.vw.com)
- - date_published: 2024-05-07T11:03:48.516476+00:00
-
- ## Newsroom
- - [http://newsroom.vw.com](http://newsroom.vw.com)
- - date_published: 2024-06-28T23:10:49+00:00
-
- ## VW Parts, Accessories, and DriverGear - Volkswagen of America Online Store
- - [https://parts.vw.com](https://parts.vw.com)
- - date_published: 2024-05-07T11:03:43.253907+00:00
-
- ## VW.com | Official Home of Volkswagen Cars & SUVs
- - [https://vw.com](https://vw.com)
- - date_published: 2023-10-25T18:10:11.961099+00:00
- - tags: ['car producer', 'company']
-
- ## Home Page
- - [https://vwcorporatefleet.com](https://vwcorporatefleet.com)
- - date_published: 2024-05-07T11:04:08.082958+00:00
-
- ## Redirecting...
- - [https://vwcourtsettlement.com](https://vwcourtsettlement.com)
- - date_published: 2021-11-19T19:20:40+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://vwcredit.com](https://vwcredit.com)
- - date_published: 2024-05-07T11:03:39.344572+00:00
-
- ## Innovation and Engineering Center California
- - [https://vwiecc.com](https://vwiecc.com)
- - date_published: 2024-07-12T07:21:17.470311+00:00
-
- ## VWO | Digital Experience Optimization
- - [https://affiliates.vwo.com](https://affiliates.vwo.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## VWO - Application
- - [https://app.vwo.com](https://app.vwo.com)
- - date_published: 2024-05-08T09:50:24.576448+00:00
-
- ## VWO
- - [https://help.vwo.com](https://help.vwo.com)
- - date_published: 2024-07-04T15:33:09.464689+00:00
-
- ## VWO | Digital Experience Optimization
- - [https://vwo.com](https://vwo.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Please sign in
- - [https://certs.vwpartnerprogram.com](https://certs.vwpartnerprogram.com)
- - date_published: 2024-06-29T14:22:05.652143+00:00
-
- ## Home
- - [https://vwpartnerprogram.com](https://vwpartnerprogram.com)
- - date_published: 2024-05-07T11:03:56.023626+00:00
-
- ## Official Volkswagen Owners Resource | Genuine VW Service and Parts
- - [https://vwserviceandparts.com](https://vwserviceandparts.com)
- - date_published: 2024-05-07T11:03:50.081706+00:00
-
- ## WP Themes - Best Professional WordPress Themes and Templates
- - [https://www.vwthemes.com](https://www.vwthemes.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Volkswagen Tire Center
- - [https://www.vwtirestore.com](https://www.vwtirestore.com)
- - date_published: 2024-06-29T14:21:59.143884+00:00
-
- ## Home - VX Company
- - [https://vxcompany.com](https://vxcompany.com)
- - date_published: 2024-07-20T13:18:01+00:00
-
- ## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
- - [https://api.vxtwitter.com](https://api.vxtwitter.com)
- - date_published: 2024-05-07T11:04:15.623291+00:00
-
- ## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
- - [https://vxtwitter.com](https://vxtwitter.com)
- - date_published: 2024-01-06T02:26:04.304605+00:00
-
- ## Vyer Viewer
- - [https://app.vyer.com](https://app.vyer.com)
- - date_published: 2024-05-07T11:04:19.006824+00:00
-
- ## Effektiv drift och förvaltning | Vyer Technologies AB | Sweden
- - [https://vyer.com](https://vyer.com)
- - date_published: 2023-11-29T14:19:39.041120+00:00
-
- ## World Places Map Directory - VYMaps
- - [https://vymaps.com](https://vymaps.com)
- - date_published: 2024-05-07T13:43:21.832368+00:00
-
- ## Video Animation Software for Businesses | Vyond
- - [https://www.vyond.com](https://www.vyond.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Dacast Backoffice
- - [https://app.vzaar.com](https://app.vzaar.com)
- - date_published: 2024-05-06T16:13:47.392497+00:00
-
- ## 加载中...
- - [https://wx.vzan.com](https://wx.vzan.com)
- - date_published: 2024-06-25T03:14:46+00:00
-
- ## Oakland Personal Injury Lawyers
- - [https://www.vzlawfirm.com](https://www.vzlawfirm.com)
- - date_published: 2024-06-28T10:01:54+00:00
-
- ## The Hive
- - [https://vzqk50.com](https://vzqk50.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Carbon offsetting with V-ZUG
- - [https://co2.vzug.com](https://co2.vzug.com)
- - date_published: 2024-06-19T15:39:52.654091+00:00
-
- ## Vytautas Žurauskas
- - [https://www.vzurauskas.com](https://www.vzurauskas.com)
- - date_published: 2021-07-24T11:23:15+00:00
-
- ## Verizon: Wireless, Internet, TV and Phone Services | Official Site
- - [https://mobile.vzw.com](https://mobile.vzw.com)
- - date_published: 2024-05-09T06:03:07.631329+00:00
-
- ## Citrix Gateway
- - [https://m-sit.vzw.com](https://m-sit.vzw.com)
- - date_published: 2024-06-09T08:00:01+00:00
-
- ## MyBusiness
- - [https://scache1.vzw.com](https://scache1.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## MyBusiness
- - [https://scache2.vzw.com](https://scache2.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## MyBusiness
- - [https://scache3.vzw.com](https://scache3.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## MyBusiness
- - [https://scache.vzw.com](https://scache.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## Verizon: Wireless, Internet, TV and Phone Services | Official Site
- - [https://www.vzw.com](https://www.vzw.com)
- - date_published: 2024-04-29T04:14:39.892921+00:00
-
- ## bmn's MGS stuff
- - [http://www.w00ty.com](http://www.w00ty.com)
- - date_published: 2024-06-29T08:16:00.494886+00:00
 

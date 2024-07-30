@@ -1,3 +1,51 @@
+ ## Mainstream Isn't So Bad...Is It?
+ - [http://mainstreamisntsobad.blogspot.com](http://mainstreamisntsobad.blogspot.com)
+ - date_published: 2024-03-23T18:02:45+00:00
+
+ ## MAIWAND DAY
+ - [http://maiwandday.blogspot.com](http://maiwandday.blogspot.com)
+ - date_published: 2024-07-19T00:02:14+00:00
+
+ ## majenq
+ - [https://majenq.blogspot.com](https://majenq.blogspot.com)
+ - date_published: 2024-06-29T07:25:27+00:00
+
+ ## Musings of Majorly
+ - [https://majorlyhot.blogspot.com](https://majorlyhot.blogspot.com)
+ - date_published: 2024-03-13T02:00:55+00:00
+
+ ## Major Philosophy
+ - [http://majorphilosophy.blogspot.com](http://majorphilosophy.blogspot.com)
+ - date_published: 2024-02-07T16:48:03+00:00
+
+ ## Major Thomas Foolery's War Room
+ - [http://majorthomasfoolery.blogspot.com](http://majorthomasfoolery.blogspot.com)
+ - date_published: 2024-07-13T16:33:56+00:00
+
+ ## m(ake) 1
+ - [http://make1.blogspot.com](http://make1.blogspot.com)
+ - date_published: 2006-04-14T00:00:00+00:00
+
+ ## Makes My Brain Itch
+ - [http://makesmybrainitch.blogspot.com](http://makesmybrainitch.blogspot.com)
+ - date_published: 2024-06-01T06:23:19+00:00
+
+ ## Make Votes Equal
+ - [https://makevotesequal.blogspot.com](https://makevotesequal.blogspot.com)
+ - date_published: 2024-04-23T10:09:05+00:00
+
+ ## Blogger
+ - [https://makingformacragge.blogspot.com](https://makingformacragge.blogspot.com)
+ - date_published: 2024-06-18T23:41:44.922279+00:00
+
+ ## Open Sourced
+ - [http://makkalot-opensource.blogspot.com](http://makkalot-opensource.blogspot.com)
+ - date_published: 2024-02-08T02:21:15+00:00
+
+ ## Malacassa's Oldhammer Blog
+ - [https://malacassaoldhammer.blogspot.com](https://malacassaoldhammer.blogspot.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
  ## Malavon
  - [http://malavon.blogspot.com](http://malavon.blogspot.com)
  - date_published: 2024-03-19T10:05:09+00:00
@@ -3973,52 +4021,4 @@
  ## Pits Perilous
  - [http://pitsperilous.blogspot.com](http://pitsperilous.blogspot.com)
  - date_published: 2024-07-14T20:59:40+00:00
-
- ## pittbrownie
- - [http://pittbrownie.blogspot.com](http://pittbrownie.blogspot.com)
- - date_published: 2024-06-19T19:45:21+00:00
-
- ## Pittsburgh Eats
- - [http://pitteats.blogspot.com](http://pitteats.blogspot.com)
- - date_published: 2024-07-08T09:07:18+00:00
-
- ## Pittsblog
- - [http://pittsblog.blogspot.com](http://pittsblog.blogspot.com)
- - date_published: 2024-04-02T06:10:35+00:00
-
- ## Blogger
- - [http://pittsburghartscouncil.blogspot.com](http://pittsburghartscouncil.blogspot.com)
- - date_published: 2024-06-28T14:35:43.098270+00:00
-
- ## Pittsburgh's Future
- - [http://pittsburghfuture.blogspot.com](http://pittsburghfuture.blogspot.com)
- - date_published: 2024-03-13T13:33:59+00:00
-
- ## Pixel
- - [http://pixel-blossom.blogspot.com](http://pixel-blossom.blogspot.com)
- - date_published: 2024-07-03T02:48:59+00:00
-
- ## PlacesPeopleStuff with Character
- - [https://placeswithcharacter.blogspot.com](https://placeswithcharacter.blogspot.com)
- - date_published: 2024-06-22T15:53:00+00:00
-
- ## a PLAGUE of ANGELS
- - [http://plagueofangels.blogspot.com](http://plagueofangels.blogspot.com)
- - date_published: 2024-03-23T18:02:48+00:00
-
- ## PLANET ALGOL
- - [http://planetalgol.blogspot.com](http://planetalgol.blogspot.com)
- - date_published: 2024-07-13T06:25:53+00:00
-
- ## PLANET ARES VI
- - [http://planetares6.blogspot.com](http://planetares6.blogspot.com)
- - date_published: 2024-07-13T06:19:40+00:00
-
- ## Furahan Biology and Allied Matters
- - [https://planetfuraha.blogspot.com](https://planetfuraha.blogspot.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Urban Planning Research
- - [http://planningresearch.blogspot.com](http://planningresearch.blogspot.com)
- - date_published: 2024-03-07T09:14:37+00:00
 

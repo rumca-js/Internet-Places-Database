@@ -1,3 +1,219 @@
+ ## Alumni Personal & Career Development Center | Wake Forest University
+ - [https://alumni.opcd.wfu.edu](https://alumni.opcd.wfu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Alumni | Wake Forest University
+ - [https://alumni.wfu.edu](https://alumni.wfu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Wake Forest University
+ - [https://apply.admissions.wfu.edu](https://apply.admissions.wfu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://apply.business.wfu.edu](https://apply.business.wfu.edu)
+ - date_published: 2024-07-02T14:15:18.055671+00:00
+
+ ## Center for Global Programs and Studies
+ - [https://apply.studyabroad.wfu.edu](https://apply.studyabroad.wfu.edu)
+ - date_published: 2024-07-02T14:15:01.855633+00:00
+
+ ## Wake The Arts—the Arts are alive at Wake Forest University.
+ - [https://arts.wfu.edu](https://arts.wfu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home < Wake Forest University
+ - [https://bulletin.wfu.edu](https://bulletin.wfu.edu)
+ - date_published: 2024-02-08T16:51:06.053971+00:00
+
+ ## Home
+ - [https://business.wfu.edu](https://business.wfu.edu)
+ - date_published: 2024-07-01T06:40:08.093920+00:00
+
+ ## Division of Campus Life | Wake Forest University
+ - [https://campuslife.wfu.edu](https://campuslife.wfu.edu)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Campus Recreation - Campus Recreation
+ - [https://campusrec.wfu.edu](https://campusrec.wfu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Center for Market Readiness and Employment Wake Forest University
+ - [https://career.business.wfu.edu](https://career.business.wfu.edu)
+ - date_published: 2024-07-01T06:39:17.827082+00:00
+
+ ## Office of Personal & Career Development | Wake Forest University
+ - [https://career.opcd.wfu.edu](https://career.opcd.wfu.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Log In ‹ Chairs & Directors Resources — WordPress
+ - [https://chairs.college.wfu.edu](https://chairs.college.wfu.edu)
+ - date_published: 2024-07-02T14:15:55.552948+00:00
+
+ ## Who We Are - Office of the Chaplain
+ - [https://chaplain.wfu.edu](https://chaplain.wfu.edu)
+ - date_published: 2024-07-01T20:12:42+00:00
+
+ ## Home - Wake Forest University Charlotte Center
+ - [https://charlotte.wfu.edu](https://charlotte.wfu.edu)
+ - date_published: 2024-06-30T22:55:21+00:00
+
+ ## Undergraduate College - Undergraduate College
+ - [https://college.wfu.edu](https://college.wfu.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Campus Health
+ - [https://coronavirus.wfu.edu](https://coronavirus.wfu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## University Counseling Center - University Counseling Center
+ - [https://counselingcenter.wfu.edu](https://counselingcenter.wfu.edu)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Divinity Board of Visitors | Wake Forest University
+ - [https://dbov.divinity.wfu.edu](https://dbov.divinity.wfu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Office of Diversity & Inclusion | Wake Forest University
+ - [https://diversity.wfu.edu](https://diversity.wfu.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Wake Forest University School of Divinity - Home
+ - [https://divinity.wfu.edu](https://divinity.wfu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Center for Entrepreneurship - Center for Entrepreneurship
+ - [https://entrepreneurship.wfu.edu](https://entrepreneurship.wfu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Events Calendar - Wake Forest University Events
+ - [https://events.wfu.edu](https://events.wfu.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home - Faculty Senate
+ - [https://facultysenate.wfu.edu](https://facultysenate.wfu.edu)
+ - date_published: 2024-06-30T17:47:54+00:00
+
+ ## Home - The Faith COMPASS Center
+ - [https://faithcompass.wfu.edu](https://faithcompass.wfu.edu)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Financial Aid | Wake Forest School of Law
+ - [https://financialaid.law.wfu.edu](https://financialaid.law.wfu.edu)
+ - date_published: 2024-07-02T14:05:23.224543+00:00
+
+ ## Student Financial Aid | Wake Forest University
+ - [https://financialaid.wfu.edu](https://financialaid.wfu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Giving Opportunities - New | Giving Opportunities | Wake Forest University
+ - [https://giving.wfu.edu](https://giving.wfu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Global Wake Forest - Global Wake Forest
+ - [https://global.wfu.edu](https://global.wfu.edu)
+ - date_published: 2024-06-27T17:06:26+00:00
+
+ ## Graduate School of Arts & Sciences | Wake Forest University
+ - [https://graduate.wfu.edu](https://graduate.wfu.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Graduate Student Association | Wake Forest University
+ - [https://gsa.graduate.wfu.edu](https://gsa.graduate.wfu.edu)
+ - date_published: 2023-03-06T00:00:00+00:00
+
+ ## Welcome - Human Resources
+ - [https://hr.wfu.edu](https://hr.wfu.edu)
+ - date_published: 2024-05-07T22:29:03.306091+00:00
+
+ ## Wake Forest University Pre-College - Summer Immersion Program
+ - [https://immersion.summer.wfu.edu](https://immersion.summer.wfu.edu)
+ - date_published: 2024-06-30T19:04:48+00:00
+
+ ## Home | Inside WFU - news for the Wake Forest community
+ - [https://inside.wfu.edu](https://inside.wfu.edu)
+ - date_published: 2024-06-30T19:42:36+00:00
+
+ ## Graduate School of Arts & Sciences | Wake Forest University
+ - [http://internal.graduate.wfu.edu](http://internal.graduate.wfu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home - Information Systems
+ - [https://is.wfu.edu](https://is.wfu.edu)
+ - date_published: 2024-07-01T17:19:52+00:00
+
+ ## Wake Forest Law
+ - [https://law.wfu.edu](https://law.wfu.edu)
+ - date_published: 2024-07-01T06:39:02+00:00
+
+ ## The Program for Leadership and Character at Wake Forest University
+ - [https://leadershipandcharacter.wfu.edu](https://leadershipandcharacter.wfu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Wake Forest Magazine | The alumni magazine of Wake Forest University
+ - [https://magazine.wfu.edu](https://magazine.wfu.edu)
+ - date_published: 2024-06-28T06:12:35+00:00
+
+ ## Campus Map | Wake Forest University
+ - [https://map.wfu.edu](https://map.wfu.edu)
+ - date_published: 2024-07-01T04:49:09+00:00
+
+ ## Home - Mentoring Resource Center
+ - [https://mentoring.opcd.wfu.edu](https://mentoring.opcd.wfu.edu)
+ - date_published: 2024-06-29T17:31:09+00:00
+
+ ## Sign in - Google Accounts
+ - [https://netpartner.powerfaids.deacnet.wfu.edu](https://netpartner.powerfaids.deacnet.wfu.edu)
+ - date_published: 2024-07-02T14:05:20.168259+00:00
+
+ ## Wake Forest News | Wake Forest University
+ - [https://news.wfu.edu](https://news.wfu.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Office of Personal & Career Development | Wake Forest University
+ - [https://opcd.wfu.edu](https://opcd.wfu.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Pro Humanitate - Our Motto Means More
+ - [https://ourmottomeansmore.wfu.edu](https://ourmottomeansmore.wfu.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Campus Health
+ - [https://ourwayforward.wfu.edu](https://ourwayforward.wfu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Parents & Families | Wake Forest University
+ - [https://parents.wfu.edu](https://parents.wfu.edu)
+ - date_published: 2024-06-28T18:19:27+00:00
+
+ ## Home - Transportation and Parking Services
+ - [https://parking.wfu.edu](https://parking.wfu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Professional Development Center - Human Resources
+ - [http://pdc.wfu.edu](http://pdc.wfu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## People Search - Wake Forest University
+ - [https://peoplesearch.wfu.edu](https://peoplesearch.wfu.edu)
+ - date_published: 2024-07-02T14:05:33.877608+00:00
+
+ ## Philosophy | Wake Forest University
+ - [http://philosophy.wfu.edu](http://philosophy.wfu.edu)
+ - date_published: 2024-06-23T09:42:11.571785+00:00
+
+ ## University Police | Wake Forest University
+ - [https://police.wfu.edu](https://police.wfu.edu)
+ - date_published: 2024-07-01T18:21:58+00:00
+
+ ## Policy Listing - University Policy Library
+ - [https://policy.wfu.edu](https://policy.wfu.edu)
+ - date_published: 2024-07-01T14:12:10+00:00
+
+ ## Homepage - Wake Forest Pre-College Programs
+ - [https://precollege.wfu.edu](https://precollege.wfu.edu)
+ - date_published: 2024-06-28T12:24:06+00:00
+
  ## Prehealth @ WFU – Prehealth Professions @ WFU
  - [http://prehealth.wfu.edu](http://prehealth.wfu.edu)
  - date_published: 2024-07-01T06:39:22.392994+00:00
@@ -3842,222 +4058,4 @@
  ## Pop | R2Extra | ERR
  - [https://r2extra.err.ee](https://r2extra.err.ee)
  - date_published: 2024-05-07T22:55:00.333932+00:00
-
- ## Raadio 4 | ERR
- - [https://r4.err.ee](https://r4.err.ee)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Raadio Tallinn | ERR
- - [https://raadiotallinn.err.ee](https://raadiotallinn.err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## новости
- - [https://rus.err.ee](https://rus.err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## uudised
- - [https://services.err.ee](https://services.err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## sport
- - [https://sport.err.ee](https://sport.err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## uudised
- - [https://uudised.err.ee](https://uudised.err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Pop | R2Extra | ERR
- - [https://veebiraadio.err.ee](https://veebiraadio.err.ee)
- - date_published: 2024-05-07T22:54:40.385139+00:00
-
- ## Vikerraadio | ERR
- - [https://vikerraadio.err.ee](https://vikerraadio.err.ee)
- - date_published: 2024-05-07T22:53:00.046580+00:00
-
- ## uudised
- - [https://www.err.ee](https://www.err.ee)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Esther2024
- - [https://esther.ee](https://esther.ee)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Eesti Turvaettevõtete Liit ja ETEL koolituskeskus
- - [https://etel.ee](https://etel.ee)
- - date_published: 2024-07-02T16:50:29.095316+00:00
-
- ## Fiat EST
- - [https://www.fiat.ee](https://www.fiat.ee)
- - date_published: 2024-06-17T13:40:37+00:00
-
- ## Fiat Professional Eesti | Ärisõidukid
- - [https://www.fiatprofessional.ee](https://www.fiatprofessional.ee)
- - date_published: 2015-07-12T12:50:38+00:00
-
- ## Bussireisid läbi Euroopa | FlixBus
- - [https://www.flixbus.ee](https://www.flixbus.ee)
- - date_published: 2024-06-28T10:10:26+00:00
-
- ## Foku
- - [http://foku.ee](http://foku.ee)
- - date_published: 2024-07-13T15:11:20.157402+00:00
-
- ## page.dealership.request.title | Ford Eesti
- - [https://www.ford.ee](https://www.ford.ee)
- - date_published: 2024-06-19T16:59:55.928690+00:00
-
- ## Forus Iseteenindus
- - [https://enet.forus.ee](https://enet.forus.ee)
- - date_published: 2024-07-02T16:50:28.292840+00:00
-
- ## Forus – kõik kinnisvaraga seotud teenused ühest kohast
- - [https://forus.ee](https://forus.ee)
- - date_published: 2023-08-28T05:51:33+00:00
-
- ## Found ee
- - [https://found.ee](https://found.ee)
- - date_published: 2024-02-24T14:01:40+00:00
-
- ## Avaleht
- - [https://www.franklincovey.ee](https://www.franklincovey.ee)
- - date_published: 2024-06-23T02:30:30.405514+00:00
-
- ## Homepage
- - [https://www.gemius.ee](https://www.gemius.ee)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.ee](https://maps.google.ee)
- - date_published: 2024-07-20T07:36:02.013474+00:00
-
- ## Google
- - [https://www.google.ee](https://www.google.ee)
- - date_published: 2024-06-20T21:13:04.973106+00:00
-
- ## Esileht GreenDice - Kvaliteetne digimaailm igale eestlasele!
- - [https://greendice.ee](https://greendice.ee)
- - date_published: 2021-08-24T09:43:38+00:00
-
- ## Gurmee Catering - Catering ja peokorraldus
- - [https://www.gurmeecatering.ee](https://www.gurmeecatering.ee)
- - date_published: 2024-03-11T13:08:48+00:00
-
- ## Halberd - Corporate Advisory & Partnerships
- - [https://halberd.ee](https://halberd.ee)
- - date_published: 2024-05-09T08:27:11.646677+00:00
-
- ## Handler : Kodu
- - [https://handler.ee](https://handler.ee)
- - date_published: 2024-03-26T11:48:15+00:00
-
- ## Harmet
- - [https://harmet.ee](https://harmet.ee)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Harmet Metall - Metallkonstruktsioonide nagu erinevad kande- ja piirdeelemendid, toestus- ning alusraamid jm, tootmine
- - [https://harmetal.ee](https://harmetal.ee)
- - date_published: 2024-07-02T16:59:58.057988+00:00
-
- ## Avaleht | Haridus- ja Noorteamet
- - [https://harno.ee](https://harno.ee)
- - date_published: 2024-07-02T22:48:11.766711+00:00
-
- ## Haze Booth
- - [https://haz.ee](https://haz.ee)
- - date_published: 2023-10-25T19:07:04.320998+00:00
-
- ## Harmet Bathroom
- - [https://hbr.ee](https://hbr.ee)
- - date_published: 2024-07-02T16:59:56.480246+00:00
-
- ## Harmet Construction | Harmet Construction
- - [https://www.hcs.ee](https://www.hcs.ee)
- - date_published: 2024-07-02T16:59:55.415612+00:00
-
- ## Henri Aunin
- - [https://hen.ee](https://hen.ee)
- - date_published: 2024-06-14T14:47:26.376751+00:00
- - tags: ['personal']
-
- ## Avaleht
- - [https://www.hilti.ee](https://www.hilti.ee)
- - date_published: 2024-06-20T07:27:05.825548+00:00
-
- ## Veebilehekülg suletud
- - [https://hitsa.ee](https://hitsa.ee)
- - date_published: 2022-10-27T08:45:17+00:00
-
- ## Avaleht | Haridus- ja Teadusministeerium
- - [https://www.hm.ee](https://www.hm.ee)
- - date_published: 2024-07-13T18:44:28.055818+00:00
-
- ## Harmet Building | Modular Building
- - [https://www.hmb.ee](https://www.hmb.ee)
- - date_published: 2024-07-02T16:59:59.298279+00:00
-
- ## Logi sisse Hostingerisse
- - [https://auth.hostinger.ee](https://auth.hostinger.ee)
- - date_published: 2024-07-13T16:43:17.296158+00:00
-
- ## Sinule loodud majutusplatvorm - tule veebi Hostingeri abil
- - [https://hostinger.ee](https://hostinger.ee)
- - date_published: 2024-05-11T07:50:29.899805+00:00
-
- ## Tere tulemast! – Eesti Inimõiguste Keskus
- - [https://humanrights.ee](https://humanrights.ee)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Tipptasemel uuringud sõltumatult mõttekojalt | IBS
- - [https://www.ibs.ee](https://www.ibs.ee)
- - date_published: 2024-07-01T11:52:28.472558+00:00
-
- ## Kahjuabi
- - [https://kahjud.iizi.ee](https://kahjud.iizi.ee)
- - date_published: 2024-06-13T06:47:49+00:00
-
- ## IKEA - mööbel, kodusisustus ja inspiratsioon sinu koju  | IKEA Eesti
- - [https://www.ikea.ee](https://www.ikea.ee)
- - date_published: 2024-07-19T23:51:05.861515+00:00
-
- ## Keskkonnaagentuur | ILM
- - [https://www.ilmateenistus.ee](https://www.ilmateenistus.ee)
- - date_published: 2024-04-28T02:23:05.590462+00:00
-
- ## Lauri Elias uses
- - [https://indoorsman.ee](https://indoorsman.ee)
- - date_published: 2024-06-08T13:59:33+00:00
-
- ## Avaleht - IseTegija.ee
- - [https://isetegija.ee](https://isetegija.ee)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Itaku — Online Art Community
- - [https://itaku.ee](https://itaku.ee)
- - date_published: 2024-05-08T10:45:09.750757+00:00
-
- ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.ee](https://www.jack-wolfskin.ee)
- - date_published: 2024-07-14T12:15:54.062053+00:00
-
- ## Jakarta® EE | Cloud Native Enterprise Java | Java EE | the Eclipse Foundation | The Eclipse Foundation
- - [https://jakarta.ee](https://jakarta.ee)
- - date_published: 2023-10-25T19:07:06.974394+00:00
-
- ## Eclipse Starter for Jakarta EE
- - [https://start.jakarta.ee](https://start.jakarta.ee)
- - date_published: 2024-05-07T22:55:14.962428+00:00
-
- ## Jakarta Blogs
- - [https://jakartablogs.ee](https://jakartablogs.ee)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home | Jamie(.ee) Cole
- - [https://jamie.ee](https://jamie.ee)
- - date_published: 2023-12-20T01:00:10.771518+00:00
- - tags: ['personal']
-
- ## Jeep® Eesti
- - [https://www.jeep.ee](https://www.jeep.ee)
- - date_published: 2015-07-12T12:50:38+00:00
 

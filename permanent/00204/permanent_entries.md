@@ -1,3 +1,229 @@
+ ## Homepage
+ - [https://www.cabq.gov](https://www.cabq.gov)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Campus Drug Prevention Homepage | Campus Drug Prevention
+ - [https://campusdrugprevention.gov](https://campusdrugprevention.gov)
+ - date_published: 2024-05-12T06:40:29.958826+00:00
+
+ ## Cancer Intervention and Surveillance Modeling Network (CISNET) | SRP/DCCPS/NCI/NIH
+ - [https://cisnet.cancer.gov](https://cisnet.cancer.gov)
+ - date_published: 2024-04-15T10:14:07+00:00
+
+ ## Support Home Page
+ - [https://livehelp.cancer.gov](https://livehelp.cancer.gov)
+ - date_published: 2024-05-08T02:36:23.883952+00:00
+
+ ## National Cancer Plan - Everyone Has a Role
+ - [https://nationalcancerplan.cancer.gov](https://nationalcancerplan.cancer.gov)
+ - date_published: 2024-05-08T02:36:27.335657+00:00
+
+ ## Comprehensive Cancer Information
+ - [https://static.cancer.gov](https://static.cancer.gov)
+ - date_published: 2024-05-08T02:36:25.268853+00:00
+
+ ## Comprehensive Cancer Information
+ - [https://webapis.cancer.gov](https://webapis.cancer.gov)
+ - date_published: 2024-07-01T21:16:10+00:00
+
+ ## Comprehensive Cancer Information - NCI
+ - [https://cancer.gov](https://cancer.gov)
+ - date_published: 2023-10-25T19:18:18.579854+00:00
+
+ ## Town and Village of Canton, New York – The St. Lawrence County Seat
+ - [https://cantonny.gov](https://cantonny.gov)
+ - date_published: 2024-05-09T06:39:52.018382+00:00
+
+ ## Congressional Budget Office
+ - [http://cbo.gov](http://cbo.gov)
+ - date_published: 2024-06-27T14:00:28+00:00
+
+ ## Congressional Budget Office
+ - [https://www.cbo.gov](https://www.cbo.gov)
+ - date_published: 2023-11-25T17:09:06.156821+00:00
+
+ ## Border Wait Times
+ - [https://bwt.cbp.gov](https://bwt.cbp.gov)
+ - date_published: 2023-09-06T17:33:45+00:00
+
+ ## careers
+ - [https://careers.cbp.gov](https://careers.cbp.gov)
+ - date_published: 2023-07-13T13:24:31+00:00
+
+ ## U.S. Customs and Border Protection
+ - [https://www.cbp.gov](https://www.cbp.gov)
+ - date_published: 2024-04-30T06:34:12.035240+00:00
+
+ ## Copyright Claims Board
+ - [https://ccb.gov](https://ccb.gov)
+ - date_published: 2024-05-08T02:42:40.874177+00:00
+
+ ## Welcome - eCCB
+ - [https://dockets.ccb.gov](https://dockets.ccb.gov)
+ - date_published: 2024-07-03T13:35:34.090383+00:00
+
+ ## CDC Archives
+ - [https://archive.cdc.gov](https://archive.cdc.gov)
+ - date_published: 2024-04-29T03:11:59.302109+00:00
+
+ ## CDC Blogs | Blogs | CDC
+ - [https://blogs.cdc.gov](https://blogs.cdc.gov)
+ - date_published: 2024-07-03T13:23:06.791325+00:00
+
+ ## Centers for Disease Control and Prevention
+ - [http://cdc.gov](http://cdc.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Data | Centers for Disease Control and Prevention
+ - [https://data.cdc.gov](https://data.cdc.gov)
+ - date_published: 2024-06-17T02:22:53.768357+00:00
+
+ ## Emergency Preparedness and Response | CDC
+ - [https://emergency.cdc.gov](https://emergency.cdc.gov)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## National Environmental Public Health Tracking Network
+ - [https://ephtracking.cdc.gov](https://ephtracking.cdc.gov)
+ - date_published: 2024-05-08T02:36:34.765155+00:00
+
+ ## Centros para el Control y la Prevención de Enfermedades
+ - [https://espanol.cdc.gov](https://espanol.cdc.gov)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Careers Home | Careers at CDC | CDC
+ - [https://jobs.cdc.gov](https://jobs.cdc.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home - Public Health Image Library(PHIL)
+ - [https://phil.cdc.gov](https://phil.cdc.gov)
+ - date_published: 2024-05-08T02:36:40.355041+00:00
+
+ ## Welcome to CDC stacks
+ - [https://stacks.cdc.gov](https://stacks.cdc.gov)
+ - date_published: 2024-07-03T12:54:33+00:00
+
+ ## Public Health Media Library
+ - [https://t.cdc.gov](https://t.cdc.gov)
+ - date_published: 2019-12-16T00:00:00+00:00
+
+ ## No-Cost COVID-19 Testing​
+ - [https://testinglocator.cdc.gov](https://testinglocator.cdc.gov)
+ - date_published: 2024-06-27T04:01:20.906742+00:00
+
+ ## Public Health Media Library
+ - [https://tools.cdc.gov](https://tools.cdc.gov)
+ - date_published: 2019-12-16T00:00:00+00:00
+
+ ## Centers for Disease Control and Prevention
+ - [https://www.cdc.gov](https://www.cdc.gov)
+ - date_published: 2023-10-25T19:18:20.513066+00:00
+
+ ## CDC Works 24/7
+ - [https://wwwnc.cdc.gov](https://wwwnc.cdc.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | Community Development Financial Institutions Fund
+ - [https://www.cdfifund.gov](https://www.cdfifund.gov)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CDO
+ - [https://www.cdo.gov](https://www.cdo.gov)
+ - date_published: 2024-06-18T16:33:10+00:00
+
+ ## Congressional-Executive Commission on China
+ - [https://www.cecc.gov](https://www.cecc.gov)
+ - date_published: 2024-06-29T00:01:37+00:00
+
+ ## CENDI - Home
+ - [https://www.cendi.gov](https://www.cendi.gov)
+ - date_published: 2023-02-06T15:05:55+00:00
+
+ ## Developers
+ - [https://api.census.gov](https://api.census.gov)
+ - date_published: 2024-06-04T13:18:07.029000+00:00
+
+ ## Census.gov
+ - [https://census.gov](https://census.gov)
+ - date_published: 2024-05-07T13:57:50.256000+00:00
+
+ ## Explore Census Data
+ - [https://data.census.gov](https://data.census.gov)
+ - date_published: 2024-07-03T07:34:49.766023+00:00
+
+ ## Public Comments - CFTC
+ - [https://comments.cftc.gov](https://comments.cftc.gov)
+ - date_published: 2024-05-08T02:37:04.721465+00:00
+
+ ## Commodity Futures Trading Commission | CFTC
+ - [https://forms.cftc.gov](https://forms.cftc.gov)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Commodity Futures Trading Commission | CFTC
+ - [https://cftc.gov](https://cftc.gov)
+ - date_published: 2023-10-25T19:18:30.878793+00:00
+
+ ## Challenge.Gov
+ - [https://www.challenge.gov](https://www.challenge.gov)
+ - date_published: 2024-03-05T14:55:26+00:00
+
+ ## Charleston, SC - Official Website | Official Website
+ - [https://www.charleston-sc.gov](https://www.charleston-sc.gov)
+ - date_published: 2024-06-21T04:12:07.188220+00:00
+
+ ## Welcome To Charleston, West Virginia
+ - [https://charlestonwv.gov](https://charlestonwv.gov)
+ - date_published: 2024-05-12T05:59:35.613603+00:00
+
+ ## City of Charlotte, NC
+ - [https://charlottenc.gov](https://charlottenc.gov)
+ - date_published: 2024-05-07T12:50:46.039292+00:00
+
+ ## CHCO | Chief Human Capital Officers Council
+ - [https://chcoc.gov](https://chcoc.gov)
+ - date_published: 2024-07-03T13:36:57.181478+00:00
+
+ ## English
+ - [https://www.chicago.gov](https://www.chicago.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Child Welfare Information Gateway | Child Welfare Information Gateway
+ - [http://childwelfare.gov](http://childwelfare.gov)
+ - date_published: 2024-07-11T19:43:45+00:00
+
+ ## We are the Nation's first line of defense - CIA
+ - [https://cia.gov](https://cia.gov)
+ - date_published: 2023-10-25T19:18:37.730570+00:00
+ - tags: ['central intelligence agency', 'cia', 'government']
+
+ ## The Digital Services Playbook — from the U.S. Digital Service
+ - [http://playbook.cio.gov](http://playbook.cio.gov)
+ - date_published: 2020-08-11T23:47:22+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.cio.gov](https://search.cio.gov)
+ - date_published: 2024-07-03T13:37:11.903063+00:00
+
+ ## Home
+ - [https://www.cio.gov](https://www.cio.gov)
+ - date_published: 2024-05-08T02:43:05.016067+00:00
+
+ ## Home Page | CISA
+ - [https://cisa.gov](https://cisa.gov)
+ - date_published: 2024-07-12T16:24:22.378524+00:00
+ - tags: ['cyber defender agency', 'cybersecurity']
+
+ ## Home | NICCS
+ - [https://niccs.cisa.gov](https://niccs.cisa.gov)
+ - date_published: 2023-10-25T19:18:39.523763+00:00
+
+ ## Home Page | CISA
+ - [https://us-cert.cisa.gov](https://us-cert.cisa.gov)
+ - date_published: 2024-05-04T15:13:11.228927+00:00
+
+ ## Homepage | Boston.gov
+ - [http://www.cityofboston.gov](http://www.cityofboston.gov)
+ - date_published: 2024-07-01T16:21:39+00:00
+
  ## Key West, FL | Official Website
  - [https://www.cityofkeywest-fl.gov](https://www.cityofkeywest-fl.gov)
  - date_published: 2024-05-13T00:00:00+00:00
@@ -3804,229 +4030,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Representative Delia Ramirez
  - [https://ramirez.house.gov](https://ramirez.house.gov)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Congressman Jamie Raskin
- - [https://raskin.house.gov](https://raskin.house.gov)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Republican Policy
- - [https://republicanpolicy.house.gov](https://republicanpolicy.house.gov)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Committee on Education & the Workforce | Republicans
- - [https://republicans-edlabor.house.gov](https://republicans-edlabor.house.gov)
- - date_published: 2024-07-07T05:04:00+00:00
-
- ## U.S. House Committee on Oversight and Accountability
- - [https://republicans-oversight.house.gov](https://republicans-oversight.house.gov)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## House Majority Whip Tom Emmer
- - [https://republicanwhip.house.gov](https://republicanwhip.house.gov)
- - date_published: 2024-06-27T14:00:48+00:00
-
- ## Home | U.S. Congressman Guy Reschenthaler
- - [https://reschenthaler.house.gov](https://reschenthaler.house.gov)
- - date_published: 2024-06-27T14:10:59.411613+00:00
-
- ## Home - Torres
- - [https://ritchietorres.house.gov](https://ritchietorres.house.gov)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Congressman Robert Garcia
- - [https://robertgarcia.house.gov](https://robertgarcia.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congresswoman Robin Kelly
- - [https://robinkelly.house.gov](https://robinkelly.house.gov)
- - date_published: 2024-06-27T14:23:12.089047+00:00
-
- ## U.S. Representative Matt Rosendale
- - [https://rosendale.house.gov](https://rosendale.house.gov)
- - date_published: 2024-06-27T14:01:33+00:00
-
- ## Representative Deborah Ross
- - [https://ross.house.gov](https://ross.house.gov)
- - date_published: 2024-06-27T14:02:40.366825+00:00
-
- ## U.S. Representative David Rouzer
- - [https://rouzer.house.gov](https://rouzer.house.gov)
- - date_published: 2024-06-27T14:21:17+00:00
-
- ## Representative Chip Roy
- - [https://roy.house.gov](https://roy.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home | U.S. Congressman Ruben Gallego
- - [https://rubengallego.house.gov](https://rubengallego.house.gov)
- - date_published: 2024-06-27T14:17:28.022447+00:00
-
- ## Congressman Raul Ruiz
- - [https://ruiz.house.gov](https://ruiz.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## House of Representatives Committee on Rules
- - [https://rules.house.gov](https://rules.house.gov)
- - date_published: 2023-11-14T19:59:35.907324+00:00
-
- ## Congressman Michael Rulli
- - [https://rulli.house.gov](https://rulli.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Congressman C.A. Dutch Ruppersberger
- - [https://ruppersberger.house.gov](https://ruppersberger.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman John Rutherford
- - [https://rutherford.house.gov](https://rutherford.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Gregorio Kilili Camacho Sablan
- - [https://sablan.house.gov](https://sablan.house.gov)
- - date_published: 2024-06-27T14:00:39.435596+00:00
-
- ## Representative Maria Salazar
- - [https://salazar.house.gov](https://salazar.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Representative Andrea Salinas
- - [https://salinas.house.gov](https://salinas.house.gov)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home | U.S. Congresswoman Sara Jacobs Of California's 51st District
- - [https://sarajacobs.house.gov](https://sarajacobs.house.gov)
- - date_published: 2024-06-27T14:17:37.914612+00:00
-
- ## Congressman John Sarbanes
- - [https://sarbanes.house.gov](https://sarbanes.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Steve Scalise
- - [https://scalise.house.gov](https://scalise.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## U.S. Congresswoman Mary Gay Scanlon
- - [https://scanlon.house.gov](https://scanlon.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Congresswoman Jan Schakowsky
- - [https://schakowsky.house.gov](https://schakowsky.house.gov)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home
- - [https://schiff.house.gov](https://schiff.house.gov)
- - date_published: 2024-06-27T14:14:10.003010+00:00
-
- ## Congressman Brad Schneider
- - [https://schneider.house.gov](https://schneider.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Representative Hillary Scholten
- - [https://scholten.house.gov](https://scholten.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Kim Schrier
- - [https://schrier.house.gov](https://schrier.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Congressman Schweikert – Arizona's 1st District
- - [https://schweikert.house.gov](https://schweikert.house.gov)
- - date_published: 2024-06-27T14:01:14.209421+00:00
-
- ## House Committee on Science Space & Tech - Republicans
- - [http://science.house.gov](http://science.house.gov)
- - date_published: 2024-06-23T13:24:45.316515+00:00
-
- ## United States Congressman Scott Peters
- - [https://scottpeters.house.gov](https://scottpeters.house.gov)
- - date_published: 2024-06-27T14:12:08.964046+00:00
-
- ## | house.gov
- - [https://search.house.gov](https://search.house.gov)
- - date_published: 2024-06-27T14:02:37.034070+00:00
-
- ## Select Committee on the CCP
- - [https://selectcommitteeontheccp.house.gov](https://selectcommitteeontheccp.house.gov)
- - date_published: 2023-11-27T12:22:06+00:00
- - tags: ['america', 'china']
-
- ## United States Congressman Pete Sessions
- - [https://sessions.house.gov](https://sessions.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## U.S. Congresswoman Terri Sewell
- - [https://sewell.house.gov](https://sewell.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Congressman Brad Sherman
- - [https://sherman.house.gov](https://sherman.house.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Congresswoman Mikie Sherrill
- - [https://sherrill.house.gov](https://sherrill.house.gov)
- - date_published: 2024-06-27T14:09:35.350245+00:00
-
- ## Representative Shontel Brown
- - [https://shontelbrown.house.gov](https://shontelbrown.house.gov)
- - date_published: 2024-06-27T14:00:40.277938+00:00
-
- ## U.S. Congressman Mike Simpson - 2nd District of Idaho
- - [https://simpson.house.gov](https://simpson.house.gov)
- - date_published: 2024-06-27T14:20:35+00:00
-
- ## Representative Elissa Slotkin
- - [https://slotkin.house.gov](https://slotkin.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## House Committee on Small Business
- - [https://smallbusiness.house.gov](https://smallbusiness.house.gov)
- - date_published: 2024-06-27T14:00:20+00:00
-
- ## Congressman Lloyd Smucker
- - [https://smucker.house.gov](https://smucker.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Representative Eric Sorensen
- - [https://sorensen.house.gov](https://sorensen.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Congressman Darren Soto
- - [https://soto.house.gov](https://soto.house.gov)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Home - Abigail Spanberger
- - [https://spanberger.house.gov](https://spanberger.house.gov)
- - date_published: 2024-06-27T14:14:02.835856+00:00
-
- ## Representative Victoria Spartz
- - [https://spartz.house.gov](https://spartz.house.gov)
- - date_published: 2024-06-27T14:21:30.828662+00:00
-
- ## Congresswoman Melanie Stansbury | Representing New Mexico's First Congressional District
- - [https://stansbury.house.gov](https://stansbury.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Greg Stanton
- - [https://stanton.house.gov](https://stanton.house.gov)
- - date_published: 2024-06-27T14:01:36.675722+00:00
-
- ## Representative Pete Stauber
- - [https://stauber.house.gov](https://stauber.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Representative Michelle Steel
- - [https://steel.house.gov](https://steel.house.gov)
- - date_published: 2024-06-27T13:59:31.930612+00:00
-
- ## Congresswoman Elise Stefanik
- - [https://stefanik.house.gov](https://stefanik.house.gov)
- - date_published: 2024-06-27T14:00:31.966280+00:00
-
- ## Representative Bryan Steil
- - [https://steil.house.gov](https://steil.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Steube – Representing Florida
- - [https://steube.house.gov](https://steube.house.gov)
- - date_published: 2024-06-27T14:17:45.343251+00:00
 

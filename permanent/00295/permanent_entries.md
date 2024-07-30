@@ -1,3 +1,311 @@
+ ## MNA售票網
+ - [https://ticket.mna.com.tw](https://ticket.mna.com.tw)
+ - date_published: 2024-06-16T02:13:51.232468+00:00
+
+ ## Taiwan Mynavi 台灣日商.日本正職.打工度假。免費赴日就職服務，日本工作，日本打工
+ - [https://www.mynavi-taiwan.com.tw](https://www.mynavi-taiwan.com.tw)
+ - date_published: 2024-06-24T01:33:52.729841+00:00
+
+ ## 新視野網頁設計，只做最划算的高CP值網站
+ - [https://www.newscan.com.tw](https://www.newscan.com.tw)
+ - date_published: 2024-07-04T09:39:17.078497+00:00
+
+ ## OpenTable・餐廳訂位｜餐廳・隨時一鍵訂位
+ - [https://www.opentable.com.tw](https://www.opentable.com.tw)
+ - date_published: 2024-06-30T12:08:43.530983+00:00
+
+ ## 普羅森科技｜桌面型光固化3D列印機｜8K高解析度｜CP值超高輕鬆好上手
+ - [https://phrozen3d.com.tw](https://phrozen3d.com.tw)
+ - date_published: 2024-05-08T12:29:52.545937+00:00
+
+ ## Prolific Technology Inc. (USB to UART / RS232 / Serial)
+ - [https://www.prolific.com.tw](https://www.prolific.com.tw)
+ - date_published: 2024-05-12T06:12:37.284090+00:00
+
+ ## 最佳VPN資金可以購買-最快的VPN服務| PureVPN
+ - [https://www.purevpn.com.tw](https://www.purevpn.com.tw)
+ - date_published: 2021-03-31T09:06:52+00:00
+
+ ## QNAP 網路商城｜線上購買NAS ｜QNAP Store Taiwan
+ - [https://store.qnap.com.tw](https://store.qnap.com.tw)
+ - date_published: 2024-05-21T02:52:17.145568+00:00
+
+ ## Ralph Lauren® 台灣官方網站 | 美國時尚服裝品牌
+ - [https://www.ralphlauren.com.tw](https://www.ralphlauren.com.tw)
+ - date_published: 2024-06-19T23:58:22.971519+00:00
+
+ ## SilverStone
+ - [https://www.silverstonetek.com.tw](https://www.silverstonetek.com.tw)
+ - date_published: 2024-07-04T09:29:13.204523+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.tw](https://www.skyscanner.com.tw)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## 雪諾必克*Snow Peak
+ - [https://www.snowpeak.com.tw](https://www.snowpeak.com.tw)
+ - date_published: 2024-07-15T06:46:42.549315+00:00
+
+ ## Sony Pictures Taiwan | 主頁 Homepage
+ - [http://www.sonypictures.com.tw](http://www.sonypictures.com.tw)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Directory of Taiwan | 台灣指南
+ - [https://directory.taiwannews.com.tw](https://directory.taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:47.994459+00:00
+
+ ## Taiwan News - Voice of the People, Bridge to the World
+ - [https://taiwannews.com.tw](https://taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:51.243016+00:00
+
+ ## Welcome to TATUNG-OKUMA CO.,LTD
+ - [https://www.tatung-okuma.com.tw](https://www.tatung-okuma.com.tw)
+ - date_published: 2019-10-28T07:26:32+00:00
+
+ ## Terasic Inc. - Expertise in FPGA/ASIC Design
+ - [https://terasic.com.tw](https://terasic.com.tw)
+ - date_published: 2024-05-07T15:42:59.769265+00:00
+
+ ## Toshiba Electronic Components Taiwan Corporation- Hard Disk Drive Division-Client Hard Disk Drive,Enterprise Hard Disk Drive, External Hard Disk Drive, SSD
+ - [http://www.sdd.toshiba.com.tw](http://www.sdd.toshiba.com.tw)
+ - date_published: 2024-07-15T03:28:10.678894+00:00
+
+ ## Tripadvisor： 超過 10 億則飯店、景點和餐廳及更多內容的評論
+ - [https://www.tripadvisor.com.tw](https://www.tripadvisor.com.tw)
+ - date_published: 2024-06-23T09:27:01.079491+00:00
+
+ ## TSMC - Starting Page
+ - [https://supplyonline.tsmc.com.tw](https://supplyonline.tsmc.com.tw)
+ - date_published: 2020-12-22T01:46:33+00:00
+
+ ## TSMC - Starting Page
+ - [https://supply.tsmc.com.tw](https://supply.tsmc.com.tw)
+ - date_published: 2020-12-22T02:47:18+00:00
+
+ ## TWCA - 臺灣網路認證 - 為資安把關，提供SSL憑證、身分識別、電子簽署等網路安全機制
+ - [https://www.twca.com.tw](https://www.twca.com.tw)
+ - date_published: 2024-06-21T15:23:12.147780+00:00
+
+ ## forward
+ - [https://emops.twse.com.tw](https://emops.twse.com.tw)
+ - date_published: 2019-05-31T09:47:58+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://visa.com.tw](https://visa.com.tw)
+ - date_published: 2024-05-12T03:59:40.742905+00:00
+
+ ## Vogue Taiwan
+ - [https://vogue.com.tw](https://vogue.com.tw)
+ - date_published: 2024-05-07T10:58:39.629872+00:00
+
+ ## wicca
+ - [http://www.wicca.com.tw](http://www.wicca.com.tw)
+ - date_published: 2024-06-20T02:53:30+00:00
+
+ ## LCD Display, LCD Display Modules, Display LCD, LCD Panel Manufacturer, Supplier
+ - [https://www.winstar.com.tw](https://www.winstar.com.tw)
+ - date_published: 2024-06-20T17:30:54.372028+00:00
+
+ ## Professional PMOLED Display Manufacturer - WiseChip Semiconductor Inc.
+ - [https://www.wisechip.com.tw](https://www.wisechip.com.tw)
+ - date_published: 2024-06-20T17:33:20.856803+00:00
+
+ ## 智略市場研究
+ - [https://www.wmr.com.tw](https://www.wmr.com.tw)
+ - date_published: 2024-06-17T16:54:04.604001+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.tw](https://m.yelp.com.tw)
+ - date_published: 2024-07-01T06:42:13.043604+00:00
+
+ ## Yelp
+ - [https://yelp.com.tw](https://yelp.com.tw)
+ - date_published: 2024-07-01T06:42:08.129585+00:00
+
+ ## 元大銀行
+ - [https://www.yuantabank.com.tw](https://www.yuantabank.com.tw)
+ - date_published: 2024-06-21T15:22:59.543481+00:00
+
+ ## 教育部《重編國語辭典修訂本》2021
+ - [http://dict.revised.moe.edu.tw](http://dict.revised.moe.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 教育部臺灣客語辭典
+ - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
+ - date_published: 2024-07-12T05:30:17.720490+00:00
+
+ ## Index of /
+ - [http://alpine.ccns.ncku.edu.tw](http://alpine.ccns.ncku.edu.tw)
+ - date_published: 2024-07-20T15:58:32.401826+00:00
+
+ ## Wiki - 成功大學資工系(所) Wiki 系統
+ - [http://wiki.csie.ncku.edu.tw](http://wiki.csie.ncku.edu.tw)
+ - date_published: 2024-06-22T12:41:42.514452+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [https://www.ncku.edu.tw](https://www.ncku.edu.tw)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 故宮電子報
+ - [https://enews.npm.edu.tw](https://enews.npm.edu.tw)
+ - date_published: 2024-05-02T10:40:24.527107+00:00
+
+ ## 故宮線上學校
+ - [https://ipalace.npm.edu.tw](https://ipalace.npm.edu.tw)
+ - date_published: 2024-01-20T01:20:58+00:00
+
+ ## 清代檔案檢索系統-首頁
+ - [https://qingarchives.npm.edu.tw](https://qingarchives.npm.edu.tw)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## 國立故宮博物院 網路線上報名系統
+ - [https://signup.npm.edu.tw](https://signup.npm.edu.tw)
+ - date_published: 2024-06-17T16:53:51.428522+00:00
+
+ ## Home - CGV | NTHU
+ - [https://cgv.cs.nthu.edu.tw](https://cgv.cs.nthu.edu.tw)
+ - date_published: 2024-06-22T07:30:50.710895+00:00
+
+ ## Home - 台大國際事務處
+ - [https://admissions.ntu.edu.tw](https://admissions.ntu.edu.tw)
+ - date_published: 2023-12-13T00:00:00+00:00
+
+ ## 臺大生輔組官方網站
+ - [https://advisory.ntu.edu.tw](https://advisory.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:05.006429+00:00
+
+ ## 臺大電機之友 | 台大電機之友http://alumni.ee.ntu.edu.tw，於2001年八月一日正式啟用。為提供本系和已畢業系友的聯繫管道及系友間的資訊交流、報導系上的近況、協助提供系友求才或求職資訊。
+ - [http://alumni.ee.ntu.edu.tw](http://alumni.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:21.837099+00:00
+
+ ## 校園公佈欄
+ - [https://ann.cc.ntu.edu.tw](https://ann.cc.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:52.399748+00:00
+
+ ## 國立臺灣大學藝文中心
+ - [https://arts.ntu.edu.tw](https://arts.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:38.028652+00:00
+
+ ## 國立臺灣大學 學務處 | 學生職業生涯發展中心
+ - [https://career.ntu.edu.tw](https://career.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:49.174887+00:00
+
+ ## NTU D-School – D School
+ - [https://dschool.ntu.edu.tw](https://dschool.ntu.edu.tw)
+ - date_published: 2024-07-09T23:40:41+00:00
+
+ ## 我要訂閱臺灣大學電子報
+ - [https://epaper.ntu.edu.tw](https://epaper.ntu.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Document
+ - [https://event.ntu.edu.tw](https://event.ntu.edu.tw)
+ - date_published: 2020-09-22T08:20:24+00:00
+
+ ## 臺大總務處 Office of General Affairs, NTU
+ - [https://ga.ntu.edu.tw](https://ga.ntu.edu.tw)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## æè´èºå¤§
+ - [https://giving.ntu.edu.tw](https://giving.ntu.edu.tw)
+ - date_published: 2024-07-12T01:05:32+00:00
+
+ ## 台大電機所
+ - [https://graduate.ee.ntu.edu.tw](https://graduate.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:55.352313+00:00
+
+ ## 國立臺灣大學重點科技研究學院
+ - [https://gsat.ntu.edu.tw](https://gsat.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:41.283527+00:00
+
+ ## Lab Spotlight, National Taiwan University | Lab Search
+ - [https://labspotlight.ntu.edu.tw](https://labspotlight.ntu.edu.tw)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 國立臺灣大學 管理學院
+ - [https://management.ntu.edu.tw](https://management.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:33.486173+00:00
+
+ ## 首頁 - 臺大博物館群
+ - [https://museums.ntu.edu.tw](https://museums.ntu.edu.tw)
+ - date_published: 2021-08-18T06:49:26+00:00
+
+ ## myNTU臺大人入口網
+ - [https://my.ntu.edu.tw](https://my.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:55.761073+00:00
+
+ ## NTU Online臺大課程網(46)
+ - [https://nol.ntu.edu.tw](https://nol.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:31.137010+00:00
+
+ ## :: NTU BEATS – Official Quarterly of National Taiwan University ::
+ - [https://ntubeats.ntu.edu.tw](https://ntubeats.ntu.edu.tw)
+ - date_published: 2024-06-30T23:49:29+00:00
+
+ ## NTU HIGHLIGHTS
+ - [https://ntuhighlights.ntu.edu.tw](https://ntuhighlights.ntu.edu.tw)
+ - date_published: 2024-07-04T07:07:24+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://ntuweb.cloud.ntu.edu.tw](https://ntuweb.cloud.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:54.338742+00:00
+
+ ## 2023 NTU INTERNATIONAL MENTORSHIP PROGRAM 臺大國際引路人計畫
+ - [https://oiainternship.ntu.edu.tw](https://oiainternship.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:49.564971+00:00
+
+ ## 首頁
+ - [https://ord.ntu.edu.tw](https://ord.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:46.302313+00:00
+
+ ## View
+ - [https://pe.ntu.edu.tw](https://pe.ntu.edu.tw)
+ - date_published: 2022-10-04T02:37:10+00:00
+
+ ## 臺大出版中心
+ - [https://press.ntu.edu.tw](https://press.ntu.edu.tw)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## DSpace-CRIS
+ - [https://scholars.lib.ntu.edu.tw](https://scholars.lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:35.302191+00:00
+
+ ## åç«èºç£å¤§å­¸ç§æ¸å®¤
+ - [https://sec.ntu.edu.tw](https://sec.ntu.edu.tw)
+ - date_published: 2024-07-10T09:08:54+00:00
+
+ ## NTU Speech Processing Laboratory
+ - [https://speech.ee.ntu.edu.tw](https://speech.ee.ntu.edu.tw)
+ - date_published: 2016-01-11T04:01:47+00:00
+
+ ## NTU 永續辦公室
+ - [https://sustainable.ntu.edu.tw](https://sustainable.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:27.440683+00:00
+
+ ## åç«èºç£å¤§å­¸ç³»çµ±
+ - [https://triangle.ntu.edu.tw](https://triangle.ntu.edu.tw)
+ - date_published: 2024-07-11T07:01:30+00:00
+
+ ## èºå¤§è¨ªå®¢ä¸­å¿
+ - [https://visitorcenter.ntu.edu.tw](https://visitorcenter.ntu.edu.tw)
+ - date_published: 2024-07-10T03:33:10+00:00
+
+ ## VISION & LEARNING LAB
+ - [http://vllab.ee.ntu.edu.tw](http://vllab.ee.ntu.edu.tw)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## 國立臺灣大學 - 電機工程學系
+ - [https://web.ee.ntu.edu.tw](https://web.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:39.005166+00:00
+
+ ## 臺大校友中心
+ - [https://www.alumni.ntu.edu.tw](https://www.alumni.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:59.102565+00:00
+
+ ## 台大寫作教學中心 – AWEC
+ - [https://www.awec.ntu.edu.tw](https://www.awec.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:26.367696+00:00
+
  ## AIMM Research Group - NTU CMLab
  - [http://www.cmlab.csie.ntu.edu.tw](http://www.cmlab.csie.ntu.edu.tw)
  - date_published: 2023-03-02T14:13:56+00:00
@@ -3707,314 +4015,4 @@
  ## Welcome to eActivities | eActivities
  - [https://eactivities.union.ic.ac.uk](https://eactivities.union.ic.ac.uk)
  - date_published: 2024-06-17T18:03:41.478581+00:00
-
- ## EuroSys 2016
- - [http://eurosys16.doc.ic.ac.uk](http://eurosys16.doc.ic.ac.uk)
- - date_published: 2024-07-13T12:11:56.447264+00:00
-
- ## Imperial Computer Vision & Learning Lab (ICVL)
- - [http://icvl.ee.ic.ac.uk](http://icvl.ee.ic.ac.uk)
- - date_published: 2024-04-29T06:29:48.056694+00:00
-
- ## SAIL - Home
- - [https://sail.doc.ic.ac.uk](https://sail.doc.ic.ac.uk)
- - date_published: 2024-03-25T14:20:25+00:00
-
- ## SAIL - Home
- - [https://vas.doc.ic.ac.uk](https://vas.doc.ic.ac.uk)
- - date_published: 2024-03-25T14:20:25+00:00
-
- ## eVoting | Imperial College Union
- - [https://vote.union.ic.ac.uk](https://vote.union.ic.ac.uk)
- - date_published: 2024-06-17T18:03:39.844835+00:00
-
- ## Department of Computing | Department of Computing, Imperial College London
- - [http://wp.doc.ic.ac.uk](http://wp.doc.ic.ac.uk)
- - date_published: 2024-06-17T14:48:42.177112+00:00
-
- ## Department of Computing
- - [https://www.doc.ic.ac.uk](https://www.doc.ic.ac.uk)
- - date_published: 2024-05-02T10:22:26.394809+00:00
-
- ## ICMP Records
- - [https://idp.icmp.ac.uk](https://idp.icmp.ac.uk)
- - date_published: 2023-08-24T15:10:22+00:00
-
- ## Donate - Institute of Cancer Research
- - [https://support.icr.ac.uk](https://support.icr.ac.uk)
- - date_published: 2024-05-02T10:54:32.914062+00:00
-
- ## The Institute of Cancer Research, London
- - [https://www.icr.ac.uk](https://www.icr.ac.uk)
- - date_published: 2023-11-03T11:36:33.556794+00:00
-
- ## Spiral: Home
- - [https://spiral.imperial.ac.uk](https://spiral.imperial.ac.uk)
- - date_published: 2023-10-25T22:48:39.774318+00:00
-
- ## TERMINALFOUR
- - [https://t4-cms.imperial.ac.uk](https://t4-cms.imperial.ac.uk)
- - date_published: 2024-05-02T10:55:00.203271+00:00
-
- ## Imperial College London
- - [http://www3.imperial.ac.uk](http://www3.imperial.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Imperial College London
- - [https://wwwf.imperial.ac.uk](https://wwwf.imperial.ac.uk)
- - date_published: 2024-05-02T10:54:54.525764+00:00
-
- ## Imperial College London
- - [https://www.imperial.ac.uk](https://www.imperial.ac.uk)
- - date_published: 2023-10-25T22:48:43.072561+00:00
-
- ## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
- - [https://intarch.ac.uk](https://intarch.ac.uk)
- - date_published: 2023-10-25T22:48:44.581467+00:00
- - tags: ['archaeology']
-
- ## Jisc
- - [http://www.intute.ac.uk](http://www.intute.ac.uk)
- - date_published: 2024-06-28T21:09:17.506258+00:00
-
- ## Welcome to Digital Education Resource Archive (DERA) - Digital Education Resource Archive (DERA)
- - [https://dera.ioe.ac.uk](https://dera.ioe.ac.uk)
- - date_published: 2024-05-07T10:13:20.710879+00:00
-
- ## Homepage | Jisc community
- - [https://community.jisc.ac.uk](https://community.jisc.ac.uk)
- - date_published: 2024-07-10T10:11:15.286447+00:00
-
- ## Jisc
- - [https://jisc.ac.uk](https://jisc.ac.uk)
- - date_published: 2024-07-08T16:36:43.292971+00:00
-
- ## JISCMail
- - [https://www.jiscmail.ac.uk](https://www.jiscmail.ac.uk)
- - date_published: 2024-07-09T10:35:35.816952+00:00
-
- ## Jobs | Job Search | Job Vacancies on jobs.ac.uk
- - [https://www.jobs.ac.uk](https://www.jobs.ac.uk)
- - date_published: 2024-06-17T10:59:00.008621+00:00
-
- ## King's Blogs – Blogs at King's College London
- - [http://blogs.kcl.ac.uk](http://blogs.kcl.ac.uk)
- - date_published: 2024-06-17T11:03:46.189087+00:00
-
- ## Centre for the Study of Governance & Society
- - [https://csgs.kcl.ac.uk](https://csgs.kcl.ac.uk)
- - date_published: 2017-11-21T18:03:17+00:00
-
- ## Error
- - [https://insaph.kcl.ac.uk](https://insaph.kcl.ac.uk)
- - date_published: 2024-06-24T10:09:01.070419+00:00
-
- ## Intranet Home
- - [https://internal.kcl.ac.uk](https://internal.kcl.ac.uk)
- - date_published: 2024-05-02T10:55:19.445036+00:00
-
- ## King's College London
- - [https://kcl.ac.uk](https://kcl.ac.uk)
- - date_published: 2024-05-02T10:55:13.171423+00:00
-
- ## Password resets and management | King’s IT | King’s College London
- - [http://kclpword.kcl.ac.uk](http://kclpword.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:07.276447+00:00
-
- ## Sign in to your account
- - [https://keats.kcl.ac.uk](https://keats.kcl.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## King's College London
- - [https://myselection.kcl.ac.uk](https://myselection.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:29.214603+00:00
-
- ## Faculty of Natural, Mathematical & Engineering Sciences | King’s College London
- - [https://nms.kcl.ac.uk](https://nms.kcl.ac.uk)
- - date_published: 2024-07-03T03:25:22.826840+00:00
-
- ## PaperCut Login for King's College London
- - [https://printing.kcl.ac.uk](https://printing.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:28.358064+00:00
-
- ## Home
-		 · Student Services Online
- - [https://self-service.kcl.ac.uk](https://self-service.kcl.ac.uk)
- - date_published: 2024-05-02T10:55:15.597909+00:00
-
- ## Department of Mathematics | King’s College London
- - [http://www.mth.kcl.ac.uk](http://www.mth.kcl.ac.uk)
- - date_published: 2024-06-30T08:50:40.853111+00:00
-
- ## Home
- - [https://www.keele.ac.uk](https://www.keele.ac.uk)
- - date_published: 2024-06-22T07:13:29.517136+00:00
-
- ## Blogs at Kent – Showcasing groundbreaking work at Kent
- - [https://blogs.kent.ac.uk](https://blogs.kent.ac.uk)
- - date_published: 2024-07-24T04:42:13.492242+00:00
-
- ## Jobs at the University of Kent
- - [https://jobs.kent.ac.uk](https://jobs.kent.ac.uk)
- - date_published: 2024-07-24T04:42:07.292114+00:00
-
- ## Welcome to Kent Academic Repository - Kent Academic Repository
- - [https://kar.kent.ac.uk](https://kar.kent.ac.uk)
- - date_published: 2024-06-26T21:47:16.859414+00:00
-
- ## Research at Kent - University of Kent
- - [https://research.kent.ac.uk](https://research.kent.ac.uk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Sign in to your account
- - [https://staff.kent.ac.uk](https://staff.kent.ac.uk)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Home
- - [http://www.cs.kent.ac.uk](http://www.cs.kent.ac.uk)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## We stand for ambition. Yours
- - [https://kent.ac.uk](https://kent.ac.uk)
- - date_published: 2024-04-29T06:47:04.840011+00:00
-
- ## Kent and Medway Medical School
- - [https://kmms.ac.uk](https://kmms.ac.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home - Lancaster University
- - [https://www.lancaster.ac.uk](https://www.lancaster.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## AuroraWatch UK · AuroraWatch UK
- - [https://aurorawatch.lancs.ac.uk](https://aurorawatch.lancs.ac.uk)
- - date_published: 2020-09-30T11:56:45+00:00
-
- ## UCREL Corpus Application Server
- - [http://corpora.lancs.ac.uk](http://corpora.lancs.ac.uk)
- - date_published: 2021-03-18T09:48:04+00:00
-
- ## UCREL NLP Group
- - [http://ucrel.lancs.ac.uk](http://ucrel.lancs.ac.uk)
- - date_published: 2024-02-15T16:52:11+00:00
-
- ## Lancaster University | Just another WordPress site
- - [http://wp.lancs.ac.uk](http://wp.lancs.ac.uk)
- - date_published: 2024-07-12T16:51:36.934252+00:00
-
- ## Loughborough University
- - [https://www.lboro.ac.uk](https://www.lboro.ac.uk)
- - date_published: 2024-07-01T12:05:51+00:00
-
- ## Leverhulme Centre for the Future of Intelligence: Home
- - [http://lcfi.ac.uk](http://lcfi.ac.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home
- - [https://citizen.le.ac.uk](https://citizen.le.ac.uk)
- - date_published: 2024-06-16T22:51:20.290342+00:00
-
- ## A Leading UK University | University of Leicester
- - [https://le.ac.uk](https://le.ac.uk)
- - date_published: 2024-05-01T08:04:50.520357+00:00
-
- ## Sign in · Learning on Screen
- - [https://login.learningonscreen.ac.uk](https://login.learningonscreen.ac.uk)
- - date_published: 2024-06-17T17:24:36.013532+00:00
-
- ## Accommodation
- - [https://accommodation.leeds.ac.uk](https://accommodation.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:51.640737+00:00
-
- ## Faculty of Arts, Humanities and Cultures
- - [https://ahc.leeds.ac.uk](https://ahc.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:04.060735+00:00
-
- ## Faculty of Biological Sciences
- - [https://biologicalsciences.leeds.ac.uk](https://biologicalsciences.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:22.940723+00:00
-
- ## Leeds University Business School
- - [https://business.leeds.ac.uk](https://business.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:16.620406+00:00
-
- ## Centre for Excellence in Language Teaching
- - [https://celt.leeds.ac.uk](https://celt.leeds.ac.uk)
- - date_published: 2024-06-17T14:09:21.825359+00:00
-
- ## Communications and Engagement | University communications and engagement team:  find advice, approved suppliers and templates for communications
- - [https://comms.leeds.ac.uk](https://comms.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:12.681841+00:00
-
- ## University of Leeds Conferences and Events
- - [https://conferencesandevents.leeds.ac.uk](https://conferencesandevents.leeds.ac.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Course Search | University of Leeds
- - [https://courses.leeds.ac.uk](https://courses.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:02.222664+00:00
-
- ## Data protection at the University
- - [https://dataprotection.leeds.ac.uk](https://dataprotection.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:21.211707+00:00
-
- ## Digital Education Systems Help | University of Leeds Digital Education Systems
- - [https://desystemshelp.leeds.ac.uk](https://desystemshelp.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:16.646857+00:00
-
- ## Faculty of Environment
- - [https://environment.leeds.ac.uk](https://environment.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:59.660078+00:00
-
- ## Faculty of Engineering and Physical Sciences
- - [https://eps.leeds.ac.uk](https://eps.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:12.006645+00:00
-
- ## Equality & Inclusion Unit (E&IU) - Equality and Inclusion Unit
- - [https://equality.leeds.ac.uk](https://equality.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:05.200596+00:00
-
- ## Faculty of Social Sciences - Site Homepage
- - [https://essl.leeds.ac.uk](https://essl.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:13.529579+00:00
-
- ## FSS Professional Support Services
- - [https://essl-staff.leeds.ac.uk](https://essl-staff.leeds.ac.uk)
- - date_published: 2024-06-17T18:09:04.710247+00:00
-
- ## Estates and Facilities - University of Leeds
- - [https://estates.leeds.ac.uk](https://estates.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:22.633344+00:00
-
- ## Resources | Library | University of Leeds
- - [https://explore.library.leeds.ac.uk](https://explore.library.leeds.ac.uk)
- - date_published: 2022-10-04T13:43:49+00:00
-
- ## Facilities Directorate - University of Leeds
- - [https://facilitiesdirectorate.leeds.ac.uk](https://facilitiesdirectorate.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:10.428209+00:00
-
- ## Forstaff main index
- - [https://forstaff.leeds.ac.uk](https://forstaff.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:06.762153+00:00
-
- ## Great Food at Leeds - University of Leeds
- - [https://gfal.leeds.ac.uk](https://gfal.leeds.ac.uk)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Human Resources  Homepage
- - [https://hr.leeds.ac.uk](https://hr.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:05.638582+00:00
-
- ## Insurance
- - [https://insurance.leeds.ac.uk](https://insurance.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:13.843897+00:00
-
- ## IT Self Service - University of Leeds IT
- - [https://it.leeds.ac.uk](https://it.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:43.242119+00:00
-
- ## Jobs at the University of Leeds
- - [https://jobs.leeds.ac.uk](https://jobs.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:58.748001+00:00
 

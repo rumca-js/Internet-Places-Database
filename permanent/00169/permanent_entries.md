@@ -1,3 +1,213 @@
+ ## Bundesamt für Naturschutz (BfN)
+ - [https://www.bfn.de](https://www.bfn.de)
+ - date_published: 2024-07-09T11:00:20+00:00
+
+ ## Startseite
+ - [https://bfs.de](https://bfs.de)
+ - date_published: 2024-07-24T22:36:19.220653+00:00
+
+ ## DORIS - Digitales Online Repositorium und Informations-System: Zur Startseite
+ - [https://doris.bfs.de](https://doris.bfs.de)
+ - date_published: 2024-04-29T05:49:37.992319+00:00
+
+ ## IMIS3[GIS] - BfS - Bundesamt für Strahlenschutz
+ - [https://geoportal.bfs.de](https://geoportal.bfs.de)
+ - date_published: 2024-04-29T05:49:39.994050+00:00
+
+ ## ODL-Info  -  Startseite
+ - [https://odlinfo.bfs.de](https://odlinfo.bfs.de)
+ - date_published: 2024-04-29T05:49:37.221919+00:00
+
+ ## IMIS3[GIS] - BfS - Bundesamt für Strahlenschutz
+ - [https://imis.bfs.de](https://imis.bfs.de)
+ - date_published: 2024-04-29T05:49:39.048299+00:00
+
+ ## Bibliothekskatalog
+ - [https://recherche.bibkatalog.de](https://recherche.bibkatalog.de)
+ - date_published: 2024-07-24T03:32:37.956518+00:00
+
+ ## Virtusales GmbH | Verlagssoftware | Kronstadter Str. 4, Munich, Germany
+ - [https://www.biblio3.de](https://www.biblio3.de)
+ - date_published: 2024-06-20T12:15:49.968962+00:00
+
+ ## chez @heibie – Ein privates Blog über München, Mobilitätswende und DiesDasDinge
+ - [https://bielinski.de](https://bielinski.de)
+ - date_published: 2024-07-10T08:05:10.908115+00:00
+
+ ## Bier mit Verantwortung – bier
+ - [https://www.bierbewusstgeniessen.de](https://www.bierbewusstgeniessen.de)
+ - date_published: 2024-06-11T13:27:52+00:00
+
+ ## Startseite | BigBrotherAwards
+ - [https://bigbrotherawards.de](https://bigbrotherawards.de)
+ - date_published: 2024-06-28T21:50:39.022518+00:00
+
+ ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
+ - [https://www.bigcommerce.de](https://www.bigcommerce.de)
+ - date_published: 2024-07-08T12:40:29.789591+00:00
+
+ ## stream.bigfm.de - Livestream - bigFM 2000er
+ - [https://stream.bigfm.de](https://stream.bigfm.de)
+ - date_published: 2024-07-01T10:56:52.318759+00:00
+
+ ## Big Time Monkey - Das affige Point-&-Click-Adventure
+ - [http://www.bigtimemonkey.de](http://www.bigtimemonkey.de)
+ - date_published: 2024-04-28T02:00:41.105553+00:00
+
+ ## bikerouter.de
+ - [https://bikerouter.de](https://bikerouter.de)
+ - date_published: 2024-07-24T17:42:16.094267+00:00
+
+ ## BikeYoke - Cutting the Bullshit. Seit 2016.
+ - [https://www.bikeyoke.de](https://www.bikeyoke.de)
+ - date_published: 2024-06-15T11:56:53.992300+00:00
+
+ ## Aktuelle Nachrichten | BILD.de
+ - [https://bild.de](https://bild.de)
+ - date_published: 2023-10-29T18:16:15.369094+00:00
+ - tags: ['german news']
+
+ ## BILDplus Shop Hardware Bundle BILDplus
+ - [https://bildplusshop.bild.de](https://bildplusshop.bild.de)
+ - date_published: 2024-07-19T22:54:52.582037+00:00
+
+ ## Bild-Bußgeldcheck - Einspruch gegen Bußgeld, Punkte und Fahrverbot
+ - [https://bussgeldcheck.bild.de](https://bussgeldcheck.bild.de)
+ - date_published: 2024-04-29T05:50:48.757286+00:00
+
+ ## Abo Kündigung
+ - [https://cancellation.prod.ps.bild.de](https://cancellation.prod.ps.bild.de)
+ - date_published: 2024-04-29T05:50:19.492858+00:00
+
+ ## IOAM
+ - [https://data-861bbf2127.bild.de](https://data-861bbf2127.bild.de)
+ - date_published: 2024-04-29T05:55:55.299127+00:00
+
+ ## IOAM
+ - [https://data-bb21a2f11b.bild.de](https://data-bb21a2f11b.bild.de)
+ - date_published: 2024-04-29T05:49:53.409996+00:00
+
+ ## BILD ePaper
+ - [https://epaper.bild.de](https://epaper.bild.de)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Online Führerscheintest
+ - [https://fahrschule.bild.de](https://fahrschule.bild.de)
+ - date_published: 2024-04-29T05:50:18.082942+00:00
+
+ ## Fehler
+ - [https://fonti.prod.ps.bild.de](https://fonti.prod.ps.bild.de)
+ - date_published: 2024-07-24T03:23:28.948697+00:00
+
+ ## bild slotmachine
+ - [https://gluecksdreh.bild.de](https://gluecksdreh.bild.de)
+ - date_published: 2024-04-29T05:50:37.598085+00:00
+
+ ## Kostenlose Gutscheine für alle Top-Online-Shops - BILD
+ - [https://gutscheine.bild.de](https://gutscheine.bild.de)
+ - date_published: 2024-04-29T05:50:03.502164+00:00
+
+ ## Fehler 404 invalid url
+ - [https://hds.ak.token.bild.de](https://hds.ak.token.bild.de)
+ - date_published: 2024-04-29T05:50:05.624408+00:00
+
+ ## Hey_ Ihr Helfer mit KI
+ - [https://hey.bild.de](https://hey.bild.de)
+ - date_published: 2024-04-29T05:50:00.492442+00:00
+
+ ## Der große IQ-Trainer
+ - [https://iqtest.bild.de](https://iqtest.bild.de)
+ - date_published: 2024-04-29T05:55:52.269493+00:00
+
+ ## BILD Jobs Stellenmarkt
+ - [https://jobs.bild.de](https://jobs.bild.de)
+ - date_published: 2024-04-29T05:50:44.837748+00:00
+
+ ## Login - oculus - Axel Springer
+ - [https://marketing.bild.de](https://marketing.bild.de)
+ - date_published: 2024-04-29T05:50:49.716403+00:00
+
+ ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
+ - [https://marktplatz.bild.de](https://marktplatz.bild.de)
+ - date_published: 2024-04-29T05:50:31.050510+00:00
+
+ ## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date_published: 2023-10-29T18:15:30.206767+00:00
+ - tags: ['news']
+
+ ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
+ - [https://m.sport.bild.de](https://m.sport.bild.de)
+ - date_published: 2024-04-29T05:55:54.730835+00:00
+
+ ## {bdeTitle}
+ - [https://m.wetter.bild.de](https://m.wetter.bild.de)
+ - date_published: 2024-04-29T05:50:12.924192+00:00
+
+ ## Bild PLAY | Der innovative Video Feed
+ - [https://play.bild.de](https://play.bild.de)
+ - date_published: 2024-04-29T05:50:18.940780+00:00
+
+ ## Fehler
+ - [https://rosetta.prod.ps.bild.de](https://rosetta.prod.ps.bild.de)
+ - date_published: 2024-04-29T05:50:22.057313+00:00
+
+ ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
+ - [https://shop.bild.de](https://shop.bild.de)
+ - date_published: 2024-07-24T20:15:07.165079+00:00
+
+ ## Kostenlose Onlinegames: Jetzt gratis online spielen
+ - [https://spiele.bild.de](https://spiele.bild.de)
+ - date_published: 2024-04-29T05:49:45.914739+00:00
+
+ ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
+ - [https://sportbild.bild.de](https://sportbild.bild.de)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
+ - [https://sport.bild.de](https://sport.bild.de)
+ - date_published: 2024-04-29T05:49:59.043688+00:00
+
+ ## Bild Sportwetten
+ - [https://sportwetten.bild.de](https://sportwetten.bild.de)
+ - date_published: 2024-04-29T05:50:11.324451+00:00
+
+ ## Wetter
+ - [https://wetter.bild.de](https://wetter.bild.de)
+ - date_published: 2024-04-29T05:50:46.850712+00:00
+
+ ## Wissenstest: Testen Sie Ihre Allgemeinbildung
+ - [https://wissenstest.bild.de](https://wissenstest.bild.de)
+ - date_published: 2024-07-24T20:15:15.345957+00:00
+
+ ## BILDblog
+ - [http://www.bildblog.de](http://www.bildblog.de)
+ - date_published: 2024-07-25T08:54:00+00:00
+
+ ## Persönliche Servicewelt
+ - [https://service.bildconnect.de](https://service.bildconnect.de)
+ - date_published: 2024-07-24T20:13:52.645561+00:00
+
+ ## BILDconnect
+ - [https://bildconnect.de](https://bildconnect.de)
+ - date_published: 2024-04-29T05:50:33.759534+00:00
+
+ ## Moodle-System des Bildungsservers Sachsen-Anhalt
+ - [https://moodle.bildung-lsa.de](https://moodle.bildung-lsa.de)
+ - date_published: 2015-10-22T00:00:00+00:00
+
+ ## Topic: Unterrichtszeiten | Sekundarschule "Saale-Elster-Auen" Schkopau | Sek Schkopau
+ - [https://www.sks-schkopau.bildung-lsa.de](https://www.sks-schkopau.bildung-lsa.de)
+ - date_published: 2024-05-10T06:54:36.727069+00:00
+
+ ## Bildungsurlaub Approval Home
+ - [https://bildungsurlaub-approval.de](https://bildungsurlaub-approval.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Finde jetzt das beste Angebot für Deinen TV-Empfang
+ - [https://www.billiger-fernsehen.de](https://www.billiger-fernsehen.de)
+ - date_published: 2024-06-16T10:12:19.268627+00:00
+
  ## BILLY BOY - Kondome und mehr
  - [https://www.billy-boy.de](https://www.billy-boy.de)
  - date_published: 2019-06-07T10:15:50+00:00
@@ -3810,213 +4020,4 @@ Heinsohn
  ## Immobilie und Finanzierung mit der DKB Grund
  - [https://www.dkb-grund.de](https://www.dkb-grund.de)
  - date_published: 2024-06-16T06:01:20+00:00
-
- ## German Cancer Research Center
- - [https://dkfz.de](https://dkfz.de)
- - date_published: 2024-07-24T07:49:02.924102+00:00
-
- ## DKTK – Deutsches Konsortium für Translationale Krebsforschung
- - [https://dktk.dkfz.de](https://dktk.dkfz.de)
- - date_published: 2024-04-29T06:03:35.743335+00:00
-
- ## Sign In
- - [http://intra.dktk.dkfz.de](http://intra.dktk.dkfz.de)
- - date_published: 2024-07-24T07:48:46.349454+00:00
-
- ## MiTO
- - [https://mito.dkfz.de](https://mito.dkfz.de)
- - date_published: 2024-07-24T07:55:04.579144+00:00
-
- ## German Cancer Research Center
- - [https://dkfz-heidelberg.de](https://dkfz-heidelberg.de)
- - date_published: 2024-04-29T06:03:22.832404+00:00
-
- ## Deine Stammzellspende hilft
- - [https://www.dkms.de](https://www.dkms.de)
- - date_published: 2024-07-19T14:18:24+00:00
-
- ## Sign in · GitLab
- - [https://gitlab.dkrz.de](https://gitlab.dkrz.de)
- - date_published: 2024-07-04T08:19:06.508910+00:00
-
- ## DKRZ - Partner der Klimaforschung
- - [https://www.dkrz.de](https://www.dkrz.de)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Hardy's Themenseite
- - [https://dl1glh.de](https://dl1glh.de)
- - date_published: 2024-05-09T04:20:48.529794+00:00
- - tags: ['personal']
-
- ## Deutschlandfunk - Alles von Relevanz
- - [https://dlf.de](https://dlf.de)
- - date_published: 2024-06-18T15:37:49+00:00
-
- ## Dlf Podcastfinder
- - [https://dlf-podcastfinder.de](https://dlf-podcastfinder.de)
- - date_published: 2024-07-17T08:08:37.023833+00:00
-
- ## electronic library -
- - [https://elib.dlr.de](https://elib.dlr.de)
- - date_published: 2024-04-29T07:10:54.114021+00:00
-
- ## | DLR Projektträger
- - [https://projekttraeger.dlr.de](https://projekttraeger.dlr.de)
- - date_published: 2024-07-12T12:14:44+00:00
-
- ## New release of the IMPC webportal
- - [http://swaciweb.dlr.de](http://swaciweb.dlr.de)
- - date_published: 2017-04-05T00:00:00+00:00
-
- ## Deutsches Zentrum für Luft- und Raumfahrt
- - [https://www.dlr.de](https://www.dlr.de)
- - date_published: 2024-06-16T22:07:26.411647+00:00
-
- ## DLUG - Düsseldorfer Linux User Group - Home
- - [https://dlug.de](https://dlug.de)
- - date_published: 2024-04-27T18:19:56+00:00
-
- ## Bleibt echt | DMAX | Kostenlos DMAX Sendungen in der Mediathek sehen.
- - [https://dmax.de](https://dmax.de)
- - date_published: 2024-05-07T12:49:49.573418+00:00
-
- ## Der Morgendliche Blick aus dem Schlafzimmerfenster
- - [https://dmbadsf.de](https://dmbadsf.de)
- - date_published: 2024-05-07T23:07:26.480541+00:00
-
- ## Sign in - Matomo
- - [https://matomo.dmscn.de](https://matomo.dmscn.de)
- - date_published: 2024-07-11T23:39:53.716475+00:00
-
- ## Startseite
- - [https://dnb.de](https://dnb.de)
- - date_published: 2024-07-24T03:55:13.112897+00:00
-
- ## Mailinglisten auf lists.dnb.de
- - [https://lists.dnb.de](https://lists.dnb.de)
- - date_published: 2024-07-24T03:55:15.439783+00:00
-
- ## Home of Gerwin Klein
- - [https://doclsf.de](https://doclsf.de)
- - date_published: 2023-10-12T21:40:24+00:00
-
- ## Documentation As Code
- - [https://docs-as-co.de](https://docs-as-co.de)
- - date_published: 2024-07-24T06:05:40.944227+00:00
-
- ## documenta
- - [http://www.documenta.de](http://www.documenta.de)
- - date_published: 2024-07-13T14:40:20.477550+00:00
-
- ## documenta 14
- - [http://documenta14.de](http://documenta14.de)
- - date_published: 2024-07-13T14:56:08.588530+00:00
-
- ## documenta archiv
- - [http://www.documenta-archiv.de](http://www.documenta-archiv.de)
- - date_published: 2024-07-13T14:32:00.214375+00:00
-
- ## documenta-bauhaus.de - Ta strona jest na sprzedaż! - documenta bauhaus Zasoby i informacje.
- - [https://www.documenta-bauhaus.de](https://www.documenta-bauhaus.de)
- - date_published: 2024-07-13T14:40:24+00:00
-
- ## documenta fifteen
- - [https://documenta-fifteen.de](https://documenta-fifteen.de)
- - date_published: 2024-07-13T16:00:24.184719+00:00
-
- ## Start | Dörenberg Klinik
- - [https://www.doerenberg-klinik.de](https://www.doerenberg-klinik.de)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Home
- - [https://dog-feeding.de](https://dog-feeding.de)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## DOGK - der Deutsche Obst und Gemüse Kongress
- - [https://www.dogkongress.de](https://www.dogkongress.de)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Natürliche Ergänzungen für Hunde - Dog-Native
- - [https://dog-native.de](https://dog-native.de)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Do it at Leipzig
- - [http://www.doitatleipzig.de](http://www.doitatleipzig.de)
- - date_published: 2024-07-14T02:09:35.667624+00:00
-
- ## DokChess als Beispiel für arc42
- - [http://www.dokchess.de](http://www.dokchess.de)
- - date_published: 2024-05-02T07:10:27+00:00
-
- ## Domain - Domain News - Domain Ratgeber - Domain Maketing - Domain Recht - Domain Alliance
- - [https://www.domainalliance.de](https://www.domainalliance.de)
- - date_published: 2024-07-15T02:19:57.127896+00:00
-
- ## Buy & sell domains safely | Domainname.de
- - [http://www.domainname.de](http://www.domainname.de)
- - date_published: 2024-07-02T22:45:18.113648+00:00
-
- ## domain-recht.de: Das Blog rund um Domainnamen
- - [https://domain-recht.de](https://domain-recht.de)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Domain Name Interface
- - [https://domainreselling.de](https://domainreselling.de)
- - date_published: 2024-06-16T15:20:38.899447+00:00
-
- ## Domain | Mail | Webspace | .de nur 99 Cent/M & 1000 MB Speicherplatz, FTP und keine Einrichtungsgebühren. Internationale Domains optional gegen Aufpreis bestellbar
- - [https://domainunion.de](https://domainunion.de)
- - date_published: 2024-05-12T04:41:21.895573+00:00
-
- ## Home
- - [http://domoritz.de](http://domoritz.de)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Torsten Hartmann
- - [https://blog.donswelt.de](https://blog.donswelt.de)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## DOPPELTES-BERLIN
- - [http://www.doppeltes-berlin.de](http://www.doppeltes-berlin.de)
- - date_published: 2024-07-13T14:29:48.993403+00:00
-
- ## realtime.at - Domain catched
- - [http://doppeltim.de](http://doppeltim.de)
- - date_published: 2024-06-22T15:01:33.557062+00:00
-
- ## DoReCo - Dortmunder Retro Computer
- - [https://doreco.de](https://doreco.de)
- - date_published: 2023-12-08T14:27:18+00:00
-
- ## rslight - rocksolid
- - [http://pi-dach.dorfdsl.de](http://pi-dach.dorfdsl.de)
- - date_published: 2024-07-18T06:25:35.068304+00:00
-
- ## Das Luft- und Raumfahrtmuseum am Bodensee | Dornier Museum Friedrichshafen
- - [https://www.dorniermuseum.de](https://www.dorniermuseum.de)
- - date_published: 2024-07-15T04:50:47.175645+00:00
-
- ## DDC - .NET Developer Conference | Jetzt anmelden
- - [http://dotnet-developer-conference.de](http://dotnet-developer-conference.de)
- - date_published: 2024-07-24T17:41:47.683299+00:00
-
- ## DDC - .NET Developer Conference | Jetzt anmelden
- - [https://www.dotnet-developer-conference.de](https://www.dotnet-developer-conference.de)
- - date_published: 2024-05-04T08:11:14.655913+00:00
-
- ## dotnetpro | das Entwickler Magazin für Profis
- - [http://dotnetpro.de](http://dotnetpro.de)
- - date_published: 2024-07-24T17:41:55.108660+00:00
-
- ## Das Produkt-Netzwerk für Kommunikationsprofis
- - [https://sso.dpa-id.de](https://sso.dpa-id.de)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Support
- - [https://service.dpa-infocom.de](https://service.dpa-infocom.de)
- - date_published: 2024-05-06T17:31:16.557158+00:00
-
- ## Willkommen bei der Deutschen Physikalischen Gesellschaft e. V.
- - [https://www.dpg-physik.de](https://www.dpg-physik.de)
- - date_published: 2024-07-01T05:47:15.131655+00:00
 

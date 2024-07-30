@@ -1,3 +1,51 @@
+ ## SWORD & SHIELD
+ - [http://swordandshieldrpg.blogspot.com](http://swordandshieldrpg.blogspot.com)
+ - date_published: 2024-07-11T18:20:13+00:00
+
+ ## Path of an Outcast
+ - [http://swordmasterofhoeth.blogspot.com](http://swordmasterofhoeth.blogspot.com)
+ - date_published: 2024-06-06T14:56:16+00:00
+
+ ## Sword+1
+ - [http://swordplusone.blogspot.com](http://swordplusone.blogspot.com)
+ - date_published: 2024-07-08T08:08:44+00:00
+
+ ## Uncle Matt's Blog
+ - [http://swordsandwizardry.blogspot.com](http://swordsandwizardry.blogspot.com)
+ - date_published: 2024-07-14T20:59:03+00:00
+
+ ## Swords, Dragons, and Nerds
+ - [http://swordsdragonsnerds.blogspot.com](http://swordsdragonsnerds.blogspot.com)
+ - date_published: 2023-08-27T00:00:00+00:00
+
+ ## Savage Swords of Athanor
+ - [http://swordsofathanor.blogspot.com](http://swordsofathanor.blogspot.com)
+ - date_published: 2024-07-15T09:05:45+00:00
+
+ ## The Border Princes
+ - [http://swordsofminaria.blogspot.com](http://swordsofminaria.blogspot.com)
+ - date_published: 2024-07-14T19:57:45+00:00
+
+ ## SW Virginia law blog
+ - [http://swvalaw.blogspot.com](http://swvalaw.blogspot.com)
+ - date_published: 2024-07-08T06:11:43+00:00
+
+ ## Sybou's Lair
+ - [http://sybouslair.blogspot.com](http://sybouslair.blogspot.com)
+ - date_published: 2024-07-01T10:40:21+00:00
+
+ ## Sydney - City and Suburbs
+ - [https://sydney-city.blogspot.com](https://sydney-city.blogspot.com)
+ - date_published: 2024-06-24T00:19:00+00:00
+
+ ## Aeternal Realm of Sylvaeon
+ - [https://sylvaeon.blogspot.com](https://sylvaeon.blogspot.com)
+ - date_published: 2024-07-08T08:08:51+00:00
+
+ ## Sylva
+ - [https://sylva-way2themes.blogspot.com](https://sylva-way2themes.blogspot.com)
+ - date_published: 2024-03-05T12:30:09+00:00
+
  ## uma casa em beirute - poemas inéditos de sylvia beirute
  - [http://sylviabeirute.blogspot.com](http://sylviabeirute.blogspot.com)
  - date_published: 2024-06-30T09:03:05+00:00
@@ -3971,52 +4019,4 @@
  ## HISTOLOGION
  - [http://www.histologion.blogspot.com](http://www.histologion.blogspot.com)
  - date_published: 2024-05-27T06:01:46+00:00
-
- ## Histomat: Adventures in Historical Materialism
- - [http://www.histomatist.blogspot.com](http://www.histomatist.blogspot.com)
- - date_published: 2024-06-13T13:32:35+00:00
-
- ## Hose Monster Blog
- - [http://www.hosemonster.blogspot.com](http://www.hosemonster.blogspot.com)
- - date_published: 2024-02-28T18:38:29+00:00
-
- ## Iceland Eyes: an Original Icelandic Photojournal Since 2004
- - [http://www.icelandeyes.blogspot.com](http://www.icelandeyes.blogspot.com)
- - date_published: 2017-07-17T00:00:00+00:00
-
- ## IndieFaith
- - [http://www.indiefaith.blogspot.com](http://www.indiefaith.blogspot.com)
- - date_published: 2024-03-21T12:37:50+00:00
-
- ## Ink and Thunder
- - [http://www.inkandthunder.blogspot.com](http://www.inkandthunder.blogspot.com)
- - date_published: 2024-07-14T18:41:31+00:00
-
- ## Ironies
- - [https://www.ironies.blogspot.com](https://www.ironies.blogspot.com)
- - date_published: 2024-02-28T13:52:34+00:00
-
- ## Ivan Greenberg
- - [http://www.ivangreenberg.blogspot.com](http://www.ivangreenberg.blogspot.com)
- - date_published: 2024-03-19T11:20:58+00:00
-
- ## Little Red's Recovery Room
- - [http://www.jasperbernes.blogspot.com](http://www.jasperbernes.blogspot.com)
- - date_published: 2024-03-30T02:35:16+00:00
-
- ## The Perpetual Three-Dot Column
- - [https://www.jessewalker.blogspot.com](https://www.jessewalker.blogspot.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Joe. My. God.
- - [http://www.joemygod.blogspot.com](http://www.joemygod.blogspot.com)
- - date_published: 2024-04-16T18:21:41+00:00
-
- ## MAYBE BLOGGING WILL HELP
- - [http://www.johnporcellino.blogspot.com](http://www.johnporcellino.blogspot.com)
- - date_published: 2024-07-11T18:11:29+00:00
-
- ## Unnatural History
- - [http://www.jongreenunnaturalhistory.blogspot.com](http://www.jongreenunnaturalhistory.blogspot.com)
- - date_published: 2024-03-21T18:56:21+00:00
 

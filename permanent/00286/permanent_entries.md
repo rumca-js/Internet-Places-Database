@@ -1,3 +1,304 @@
+ ## Comprar ou arrendar casa, apartamento e outros imóveis | JLL
+ - [https://residential.jll.pt](https://residential.jll.pt)
+ - date_published: 2024-06-25T16:23:09.805420+00:00
+
+ ## Global Media Group -
+ - [https://invoice.jn.pt](https://invoice.jn.pt)
+ - date_published: 2024-07-12T21:24:21.834021+00:00
+
+ ## Welcome to nginx!
+ - [https://previous-assets.jn.pt](https://previous-assets.jn.pt)
+ - date_published: 2018-12-04T14:52:24+00:00
+
+ ## Publicidade - JN
+ - [https://publicidade.jn.pt](https://publicidade.jn.pt)
+ - date_published: 2024-07-12T21:24:15.362933+00:00
+
+ ## Welcome to WildFly Application Server 8
+ - [https://quiosque.jn.pt](https://quiosque.jn.pt)
+ - date_published: 2014-11-20T22:43:22+00:00
+
+ ## Jornal de Notícias
+ - [https://jn.pt](https://jn.pt)
+ - date_published: 2024-05-10T06:16:41.978312+00:00
+
+ ## Página Inicial | Jogo da Bolsa
+ - [http://jogodabolsa.jornaldenegocios.pt](http://jogodabolsa.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:19.934788+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://www.jornaldenegocios.pt](http://www.jornaldenegocios.pt)
+ - date_published: 2024-06-25T18:53:12.382199+00:00
+
+ ## A Revista Must do Jornal de Negócios
+ - [https://www.must.jornaldenegocios.pt](https://www.must.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:41.089236+00:00
+
+ ## Segurança cibernética Kaspersky para particulares e empresas  | Kaspersky
+ - [https://www.kaspersky.pt](https://www.kaspersky.pt)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Kia Portugal | Descubra a gama de carros Kia aqui
+ - [https://kia.pt](https://kia.pt)
+ - date_published: 2024-07-08T16:34:21+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.pt](https://www.konecranes.pt)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## KULTGAMES
+ - [https://kultgames.pt](https://kultgames.pt)
+ - date_published: 2024-07-02T13:05:45.702286+00:00
+ - tags: ['shop', 'wargames', 'toys']
+
+ ## Lancia: o carro urbano com classe | Site oficial | Lancia PT
+ - [http://www.lancia.pt](http://www.lancia.pt)
+ - date_published: 2024-04-23T11:10:25+00:00
+
+ ## Land Rover. Veículos 4x4 e SUV Sofisticados
+ - [https://www.landrover.pt](https://www.landrover.pt)
+ - date_published: 2024-07-09T17:15:03.558825+00:00
+
+ ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
+ - [https://www.languagetrainers.pt](https://www.languagetrainers.pt)
+ - date_published: 2024-07-02T09:21:08.290410+00:00
+
+ ## Lidl Portugal - lidl.pt
+ - [https://www.lidl.pt](https://www.lidl.pt)
+ - date_published: 2024-06-25T19:02:20.647944+00:00
+
+ ## Vogue Portugal and GQ Portugal official online store
+ - [https://shop.light-house.pt](https://shop.light-house.pt)
+ - date_published: 2024-06-18T07:24:24.444353+00:00
+
+ ## Agenda Cultural de Lisboa - Descubra a parte mais interessante da cidade
+ - [http://www.lisboacultural.pt](http://www.lisboacultural.pt)
+ - date_published: 2024-07-12T20:50:10.640552+00:00
+
+ ## CCL - Centro de Congressos de Lisboa
+ - [https://ccl.lisbonvenues.pt](https://ccl.lisbonvenues.pt)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## livroscotovia.pt
+ - [http://www.livroscotovia.pt](http://www.livroscotovia.pt)
+ - date_published: 2024-07-12T20:48:18.299542+00:00
+
+ ## L. Ron Hubbard — Fundador de Scientology e Dianetics
+ - [http://www.lronhubbard.pt](http://www.lronhubbard.pt)
+ - date_published: 2024-06-06T19:38:21.226274+00:00
+
+ ## MAIDOT - Software House com Desenvolvimento Web à Medida
+ - [https://www.maidot.pt](https://www.maidot.pt)
+ - date_published: 2024-07-02T22:20:22.246359+00:00
+
+ ## www.make-it-in-germany.com/pt
+ - [https://www.make-it-in-germany.pt](https://www.make-it-in-germany.pt)
+ - date_published: 2024-07-13T17:32:17.094482+00:00
+
+ ## Mary Kay Portugal
+ - [https://www.marykay.pt](https://www.marykay.pt)
+ - date_published: 2024-06-30T09:56:07.217271+00:00
+
+ ## Maserati PT Official Website - Automóveis de luxo italianos
+ - [http://www.maserati.pt](http://www.maserati.pt)
+ - date_published: 2024-07-12T05:10:01+00:00
+
+ ## Mastodon (PT)
+ - [https://masto.pt](https://masto.pt)
+ - date_published: 2024-06-23T17:08:55.196272+00:00
+
+ ## Máxima: Moda, beleza, lifestyle e comportamento
+ - [http://www.maxima.pt](http://www.maxima.pt)
+ - date_published: 2024-06-25T18:51:41.608290+00:00
+
+ ## Bem-vindos à Mazak Portugal | Página Inicial | Mazak Portugal
+ - [http://www.mazakeu.pt](http://www.mazakeu.pt)
+ - date_published: 2024-07-16T17:31:42.890425+00:00
+
+ ## Medialivre
+ - [http://quiosque.medialivre.pt](http://quiosque.medialivre.pt)
+ - date_published: 2024-07-12T20:30:35.075948+00:00
+
+ ## Página Inicial | Medialivre Boost Solutions
+ - [https://www.medialivreboostsolutions.pt](https://www.medialivreboostsolutions.pt)
+ - date_published: 2024-07-12T20:30:51.437146+00:00
+
+ ## Medicare | Plano de Saúde eleito Escolha do Consumidor
+ - [https://www.medicare.pt](https://www.medicare.pt)
+ - date_published: 2024-07-14T10:19:48.680455+00:00
+
+ ## MEO Blueticket | Bilhetes para espetáculos e eventos
+ - [https://blueticket.meo.pt](https://blueticket.meo.pt)
+ - date_published: 2024-06-10T06:58:01.236907+00:00
+
+ ## MEO - 5G, TV, Net, Telefone, Telemóveis, Eletricidade e Saúde
+ - [https://www.meo.pt](https://www.meo.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Meteorologia marítima - Previsões marítimas gratuitas para 15 dias - METEO CONSULT MARINE
+ - [https://maritima.meteoconsult.pt](https://maritima.meteoconsult.pt)
+ - date_published: 2024-06-21T09:01:00.203431+00:00
+
+ ## Meteorologia França - Previsões METEOROLOGIA DETALHADAS para 15 dias - METEO CONSULT
+ - [https://pro.meteoconsult.pt](https://pro.meteoconsult.pt)
+ - date_published: 2024-05-08T00:38:10.903322+00:00
+
+ ## Seguros de Vida e Acidentes Pessoais - Metlife
+ - [https://www.metlife.pt](https://www.metlife.pt)
+ - date_published: 2024-07-19T16:50:27+00:00
+
+ ## Mobpro
+ - [https://mobpro.pt](https://mobpro.pt)
+ - date_published: 2024-06-25T18:50:25.902337+00:00
+
+ ## MOCHE - Net móvel 5G, gigas, chamadas, SMS e roupa streetwear
+ - [https://www.moche.pt](https://www.moche.pt)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Mulheres à Obra - Comunidade de Empreendedorismo Feminino
+ - [https://www.mulheresaobra.pt](https://www.mulheresaobra.pt)
+ - date_published: 2024-06-19T18:25:55.961958+00:00
+
+ ## Página inicial
+ - [http://www.museudearteantiga.pt](http://www.museudearteantiga.pt)
+ - date_published: 2024-07-04T15:15:44.266103+00:00
+
+ ## Museu do Aljube
+ - [https://www.museudoaljube.pt](https://www.museudoaljube.pt)
+ - date_published: 2024-05-04T13:34:48.830766+00:00
+
+ ## Mycorp®
+ - [http://www.mycorp.pt](http://www.mycorp.pt)
+ - date_published: 2022-06-22T11:13:47+00:00
+
+ ## Página Inicial | Media Trends
+ - [https://mediatrends.negocios.pt](https://mediatrends.negocios.pt)
+ - date_published: 2024-07-12T20:30:57.336857+00:00
+
+ ## New Era Publications International ApS
+ - [http://www.newerapublications.pt](http://www.newerapublications.pt)
+ - date_published: 2024-06-06T19:42:34.080259+00:00
+
+ ## Capas - Jornal 'Nascer do Sol' e 'i'
+ - [https://capas.newsplex.pt](https://capas.newsplex.pt)
+ - date_published: 2024-07-12T20:31:16.736295+00:00
+
+ ## Site oficial da Nintendo Ibérica
+ - [https://www.nintendo.pt](https://www.nintendo.pt)
+ - date_published: 2024-05-06T15:46:50.860153+00:00
+
+ ## bem-vindo - Nmotor
+ - [https://nmotor.pt](https://nmotor.pt)
+ - date_published: 2024-07-16T17:37:02+00:00
+
+ ## Novo Atalho -  O caminho mais económico para as suas compras em tecnologia.
+ - [https://www.novoatalho.pt](https://www.novoatalho.pt)
+ - date_published: 2024-07-13T13:39:47.403974+00:00
+
+ ## N-TV
+ - [http://www.n-tv.pt](http://www.n-tv.pt)
+ - date_published: 2024-06-25T18:51:56.812183+00:00
+
+ ## Golden Eagle – Smart Living in Nature
+ - [https://goldeneagle.nxsoft.pt](https://goldeneagle.nxsoft.pt)
+ - date_published: 2024-06-25T16:32:25.133225+00:00
+
+ ## Observador – Notícias, Opinião, Especiais, Explicadores e Newsletters
+ - [https://observador.pt](https://observador.pt)
+ - date_published: 2024-06-18T07:42:22.375773+00:00
+
+ ## Leya
+ - [http://www.oficinadolivro.pt](http://www.oficinadolivro.pt)
+ - date_published: 2024-07-12T20:49:38.600830+00:00
+
+ ## O Jogo
+ - [http://www.ojogo.pt](http://www.ojogo.pt)
+ - date_published: 2024-06-25T18:52:52.974531+00:00
+
+ ## Jornalismo de proximidade
+ - [https://omirante.pt](https://omirante.pt)
+ - date_published: 2024-07-12T21:24:53.905505+00:00
+
+ ## Nothing found for  404
+ - [http://www.viaoptima.online.pt](http://www.viaoptima.online.pt)
+ - date_published: 2013-12-16T13:20:07+00:00
+
+ ## onlinecurriculo.pt FAQ
+ - [https://help.onlinecurriculo.pt](https://help.onlinecurriculo.pt)
+ - date_published: 2024-06-22T22:19:09.905145+00:00
+
+ ## Crie o seu Currículo Vencedor de Vagas - (Grátis) Criador de Currículos
+ - [https://onlinecurriculo.pt](https://onlinecurriculo.pt)
+ - date_published: 2024-05-06T09:21:33.033344+00:00
+
+ ## OPEL | SITE OFICIAL | O FUTURO É DE TODOS
+ - [https://www.opel.pt](https://www.opel.pt)
+ - date_published: 2024-07-11T09:14:09+00:00
+
+ ## Openbank | Banco Online e Digital do Grupo Santander
+ - [https://www.openbank.pt](https://www.openbank.pt)
+ - date_published: 2024-06-14T11:30:16+00:00
+
+ ## Lodo Ostraria - Espaço gastronômico na cidade algarvia de Faro
+ - [https://ostrarialodo.pt](https://ostrarialodo.pt)
+ - date_published: 2018-01-15T00:00:00+00:00
+
+ ## contentpass
+ - [https://cp.otempo.pt](https://cp.otempo.pt)
+ - date_published: 2024-06-25T17:31:01.558716+00:00
+
+ ## Descubra a app Otempo.pt
+ - [https://descobre-app.otempo.pt](https://descobre-app.otempo.pt)
+ - date_published: 2022-11-23T10:43:42+00:00
+
+ ## O Tempo
+ - [https://www.otempo.pt](https://www.otempo.pt)
+ - date_published: 2024-05-06T17:25:23.029213+00:00
+
+ ## Pages24 presented by Marktplatz-Mittelstand.de
+ - [https://www.pages24.pt](https://www.pages24.pt)
+ - date_published: 2022-03-07T13:51:42+00:00
+
+ ## A Página Negra de Manuel S. Fonseca
+ - [https://paginanegra.pt](https://paginanegra.pt)
+ - date_published: 2024-07-12T20:34:11+00:00
+
+ ## Palpito Portugal - Participe em Inquéritos Remunerados Online
+ - [https://palpito.pt](https://palpito.pt)
+ - date_published: 2021-05-30T17:08:16+00:00
+
+ ## Index of /
+ - [https://www.papelariafernandes.pt](https://www.papelariafernandes.pt)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## ARTV | canal parlamento
+ - [https://canal.parlamento.pt](https://canal.parlamento.pt)
+ - date_published: 2024-06-28T21:50:59.149142+00:00
+
+ ## Assembleia da República
+ - [https://www.parlamento.pt](https://www.parlamento.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## PASC-CC
+ - [https://pasc.pt](https://pasc.pt)
+ - date_published: 2024-07-20T14:13:07+00:00
+
+ ## Home - Perfect Portugal
+ - [https://perfectportugal.pt](https://perfectportugal.pt)
+ - date_published: 2024-05-06T17:17:11.527367+00:00
+
+ ## PERI Portugal Cofragem Andaime Engenharia
+ - [https://www.peri.pt](https://www.peri.pt)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## 3CX Webclient
+ - [https://don.pescada.pt](https://don.pescada.pt)
+ - date_published: 2023-12-16T12:16:19+00:00
+
+ ## João Pescada - Freelance Frontend UI/UX Creative Developer (Javascript, React, Angular, Node, Laravel) in London UK
+ - [https://pescada.pt](https://pescada.pt)
+ - date_published: 2024-07-02T22:56:43+00:00
+
  ## A manutenção do construtor - Peugeot
  - [https://oficinasonline.peugeot.pt](https://oficinasonline.peugeot.pt)
  - date_published: 2024-06-19T08:44:17.913325+00:00
@@ -3736,308 +4037,4 @@
  ## Acasa - Compartimentul pentru Management Universitar
  - [https://muniv.utcluj.ro](https://muniv.utcluj.ro)
  - date_published: 2024-06-22T11:55:44+00:00
-
- ## PRO INVENT
- - [http://proinvent.utcluj.ro](http://proinvent.utcluj.ro)
- - date_published: 2023-10-17T11:50:26+00:00
-
- ## Home - Technical University of Cluj-Napoca Research
- - [http://research.utcluj.ro](http://research.utcluj.ro)
- - date_published: 2024-06-22T11:55:52+00:00
-
- ## Think outside the box - SAS UTCN
- - [https://sas.utcluj.ro](https://sas.utcluj.ro)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Acasa - Extensia Universitara Satu Mare
- - [https://satumare.utcluj.ro](https://satumare.utcluj.ro)
- - date_published: 2022-07-07T20:09:00+00:00
-
- ## Acasa - Facultatea de Stiinte
- - [http://stiinte.utcluj.ro](http://stiinte.utcluj.ro)
- - date_published: 2024-06-22T11:56:36.615924+00:00
-
- ## Universitatea TehnicÄ din Cluj-Napoca
- - [https://utcluj.ro](https://utcluj.ro)
- - date_published: 2024-06-22T11:56:44.702996+00:00
-
- ## Universitatea Tehnica Cluj - Napoca
- - [https://viziteaza.utcluj.ro](https://viziteaza.utcluj.ro)
- - date_published: 2019-01-29T16:01:11+00:00
-
- ## Departamentul de Informatica
- - [https://websinu.utcluj.ro](https://websinu.utcluj.ro)
- - date_published: 2024-06-22T11:56:15.738232+00:00
-
- ## Acasă - Extensia Universitara Zalau
- - [https://zalau.utcluj.ro](https://zalau.utcluj.ro)
- - date_published: 2024-04-15T20:08:00+00:00
-
- ## Utilaje pentru gradina si gospodarii - utilaria.ro
- - [https://utilaria.ro](https://utilaria.ro)
- - date_published: 2024-06-12T02:33:25.135709+00:00
-
- ## Acasa - UVT
- - [https://www.uvt.ro](https://www.uvt.ro)
- - date_published: 2023-09-08T10:00:39+00:00
-
- ## Victron Energy
- - [https://www.victronenergy.ro](https://www.victronenergy.ro)
- - date_published: 2024-06-21T18:32:19+00:00
-
- ## Consultant digital / Growth hacker - Viorel Mocanu
- - [https://viorelmocanu.ro](https://viorelmocanu.ro)
- - date_published: 2021-06-24T00:00:00+00:00
-
- ## Visa, un lider global in plati digital
- - [https://visa.ro](https://visa.ro)
- - date_published: 2024-05-12T03:59:37.386971+00:00
-
- ## Vlad Ilie | Software Engineer · Work with NodeJS, WordPress, Neo4j
- - [https://vladilie.ro](https://vladilie.ro)
- - date_published: 2024-05-11T10:09:30.335557+00:00
-
- ## Vocaroo | Online voice recorder
- - [https://voca.ro](https://voca.ro)
- - date_published: 2024-04-27T06:50:41+00:00
-
- ## Vodafone
- - [https://factura.vodafone.ro](https://factura.vodafone.ro)
- - date_published: 2024-06-29T13:40:43.365248+00:00
-
- ## Vodafone: Tehnologie | Telefonie | Televiziune și Internet | Gadgeturi | Oferte la portare
- - [https://vodafone.ro](https://vodafone.ro)
- - date_published: 2024-05-07T10:57:39.841960+00:00
-
- ## Vodafone Televiziune şi Internet Fix
- - [https://zoom.vodafone.ro](https://zoom.vodafone.ro)
- - date_published: 2024-06-29T13:40:42.829346+00:00
-
- ## Volution Notes
- - [https://notes.volution.ro](https://notes.volution.ro)
- - date_published: 2023-10-25T22:35:41.081523+00:00
-
- ## Web2Unu Blog - All things webby
- - [http://web2unu.ro](http://web2unu.ro)
- - date_published: 2024-07-09T08:21:33.404896+00:00
-
- ## Servere VPS SSD in Romania la preturi foarte mici | VPS Cloud Hosting
- - [http://www.webland.ro](http://www.webland.ro)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## WITTENSTEIN România
- - [https://www.wittenstein.ro](https://www.wittenstein.ro)
- - date_published: 2024-07-15T04:10:28.808860+00:00
-
- ## WWF Romania | Construim un viitor în care oamenii trăiesc în armonie cu natura
- - [https://wwf.ro](https://wwf.ro)
- - date_published: 2024-05-08T00:00:26.754812+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ro](https://www2.zoetis.ro)
- - date_published: 2024-06-27T09:52:47+00:00
-
- ## Hrană şi accesorii pentru animale de companie la zooplus
- - [https://www.zooplus.ro](https://www.zooplus.ro)
- - date_published: 2024-06-16T06:27:45.976821+00:00
-
- ## 11ty Rocks!
- - [https://11ty.rocks](https://11ty.rocks)
- - date_published: 2024-07-22T12:50:52.892006+00:00
-
- ## SocialHub - ActivityPub Special Interest Group
- - [https://socialhub.activitypub.rocks](https://socialhub.activitypub.rocks)
- - date_published: 2023-10-25T22:35:43.833065+00:00
-
- ## AMATEUR(DOT)ROCKS
- - [http://amateur.rocks](http://amateur.rocks)
- - date_published: 2024-07-13T15:03:24.796936+00:00
-
- ## Bitcoin builds a better world.
- - [https://bitcoin.rocks](https://bitcoin.rocks)
- - date_published: 2024-06-25T18:33:20+00:00
-
- ## brew's site
- - [https://brew.rocks](https://brew.rocks)
- - date_published: 2024-07-05T04:54:45+00:00
-
- ## Caesar
- - [https://caesar.rocks](https://caesar.rocks)
- - date_published: 2024-07-10T14:40:04+00:00
-
- ## Mastodon
- - [https://climatejustice.rocks](https://climatejustice.rocks)
- - date_published: 2023-10-25T22:35:44.523941+00:00
-
- ## Rebrandly
- - [https://cloudinary.rocks](https://cloudinary.rocks)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Akkoma
- - [https://cofe.rocks](https://cofe.rocks)
- - date_published: 2024-07-15T06:33:01.728768+00:00
-
- ## Episodes
- - [https://contravariance.rocks](https://contravariance.rocks)
- - date_published: 2022-03-02T11:02:02+00:00
-
- ## contrib.rocks
- - [https://contrib.rocks](https://contrib.rocks)
- - date_published: 2024-04-29T04:46:37.221998+00:00
-
- ## Dangerzone
- - [https://dangerzone.rocks](https://dangerzone.rocks)
- - date_published: 2024-05-11T08:50:05.273647+00:00
- - tags: ['online tool']
-
- ## Home - doipjs
- - [https://doip.rocks](https://doip.rocks)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## NameBridge
- - [https://namebridge.earlybird.rocks](https://namebridge.earlybird.rocks)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## flipping.rocks
- - [https://flipping.rocks](https://flipping.rocks)
- - date_published: 2024-05-08T06:01:05.933865+00:00
-
- ## FromScratch - auto saving scratchpad
- - [https://fromscratch.rocks](https://fromscratch.rocks)
- - date_published: 2023-01-02T10:31:56+00:00
-
- ## Gabe Rocks!
- - [https://gabe.rocks](https://gabe.rocks)
- - date_published: 2024-05-29T07:54:27.472983+00:00
- - tags: ['personal']
-
- ## Nikita Galaiko
- - [https://galaiko.rocks](https://galaiko.rocks)
- - date_published: 2024-06-26T04:05:37+00:00
-
- ## glamorous - React component styling solved 💄
- - [https://glamorous.rocks](https://glamorous.rocks)
- - date_published: 2024-06-21T20:33:13.402492+00:00
-
- ## در جست‌وجوی آزادی
- - [https://gnu.rocks](https://gnu.rocks)
- - date_published: 2024-03-06T16:18:40+00:00
-
- ## Game That Tune Radio
- - [https://gtt.rocks](https://gtt.rocks)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Huazhe Xu
- - [http://hxu.rocks](http://hxu.rocks)
- - date_published: 2024-06-04T02:20:15+00:00
-
- ## IndieAuth Rocks!
- - [https://indieauth.rocks](https://indieauth.rocks)
- - date_published: 2024-07-12T02:17:39.878523+00:00
-
- ## inspectIT Ocelot - Collecting performance, tracing and business data from your Java application
- - [http://www.inspectit.rocks](http://www.inspectit.rocks)
- - date_published: 2024-06-23T10:43:22.979928+00:00
-
- ## Jenna’s Side | Jenna McCarthy | Substack
- - [https://jennasside.rocks](https://jennasside.rocks)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Invidious
- - [https://invidious.jing.rocks](https://invidious.jing.rocks)
- - date_published: 2024-06-22T13:21:49.982252+00:00
-
- ## Index of /
- - [https://repo.jing.rocks](https://repo.jing.rocks)
- - date_published: 2024-07-20T05:17:29.738549+00:00
-
- ## Mastodon (jkpg.rocks)
- - [https://jkpg.rocks](https://jkpg.rocks)
- - date_published: 2024-07-10T08:09:07.987840+00:00
-
- ## Piped
- - [https://piped.kavin.rocks](https://piped.kavin.rocks)
- - date_published: 2023-10-27T12:07:46.258588+00:00
-
- ## KOReader Document Viewer for E Ink devices
- - [https://koreader.rocks](https://koreader.rocks)
- - date_published: 2024-04-10T23:56:56+00:00
- - tags: ['ebook reader']
-
- ## La Tana
- - [https://blog.latana.rocks](https://blog.latana.rocks)
- - date_published: 2024-04-19T15:34:13.966840+00:00
- - tags: ['personal']
-
- ## Legacy Code Rocks - Explore the world of modernizing existing software applications
- - [https://legacycode.rocks](https://legacycode.rocks)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## LYNNVANDER
- - [https://lynnvander.rocks](https://lynnvander.rocks)
- - date_published: 2024-06-19T01:12:31.675465+00:00
-
- ## masnun.rocks() · Abu Ashraf Masnun
- - [http://masnun.rocks](http://masnun.rocks)
- - date_published: 2017-05-02T12:59:26+00:00
-
- ## Mercure.rocks: Real-time APIs Made Easy
- - [https://mercure.rocks](https://mercure.rocks)
- - date_published: 2024-07-10T06:54:39.220415+00:00
-
- ## UX first SaaS and Fintech | Merge Development
- - [https://merge.rocks](https://merge.rocks)
- - date_published: 2024-04-29T07:31:54.691178+00:00
-
- ## Muki
- - [https://www.muki.rocks](https://www.muki.rocks)
- - date_published: 2022-10-24T11:48:05+00:00
-
- ## ASP.NET Hacker
- - [https://asp.net-hacker.rocks](https://asp.net-hacker.rocks)
- - date_published: 2024-02-26T08:49:48+00:00
-
- ## Home | nivo
- - [https://nivo.rocks](https://nivo.rocks)
- - date_published: 2024-06-21T20:09:49.049956+00:00
-
- ## Noise Rocks Git
- - [https://git.noise.rocks](https://git.noise.rocks)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## kro
- - [https://noise.rocks](https://noise.rocks)
- - date_published: 2024-05-09T08:12:04.425221+00:00
-
- ## Nene Valley Rock Festival | Rock, blues, prog - Sept 5th-8th ¦ Grimsthorpe Castle
- - [https://www.nvrf.rocks](https://www.nvrf.rocks)
- - date_published: 2024-05-02T12:38:28.823597+00:00
-
- ## Ouroboros
- - [https://ouroboros.rocks](https://ouroboros.rocks)
- - date_published: 2023-10-25T22:35:45.758626+00:00
-
- ## outline – Consulting
- - [https://outline.rocks](https://outline.rocks)
- - date_published: 2024-03-26T16:29:45+00:00
-
- ## Pēteris Ņikiforovs
- - [https://peteris.rocks](https://peteris.rocks)
- - date_published: 2016-12-09T00:00:00+00:00
-
- ## PicoShare
- - [https://demo.pico.rocks](https://demo.pico.rocks)
- - date_published: 2024-06-19T22:12:30.638074+00:00
-
- ## PicoShare
- - [https://pico.rocks](https://pico.rocks)
- - date_published: 2024-06-19T22:11:28.591074+00:00
-
- ## Welcome to your Strapi app
- - [https://strapi.plarium.rocks](https://strapi.plarium.rocks)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## RockBox - Index
- - [https://rawkbawx.rocks](https://rawkbawx.rocks)
- - date_published: 2024-06-23T17:51:29.611719+00:00
 

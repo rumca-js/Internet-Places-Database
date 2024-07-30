@@ -1,3 +1,11 @@
+ ## Pisano | Homepage
+ - [https://www.pisano.co](https://www.pisano.co)
+ - date_published: 2024-06-18T13:03:47+00:00
+
+ ## Pixel Pioneers - conferences, workshops, and advice for a better web
+ - [https://pixelpioneers.co](https://pixelpioneers.co)
+ - date_published: 2024-07-22T12:29:55.606330+00:00
+
  ## A 60-second meditation tool to help clear your mind
  - [https://www.pixelthoughts.co](https://www.pixelthoughts.co)
  - date_published: 2021-12-16T18:37:17+00:00
@@ -4013,12 +4021,4 @@
  ## Bienvenidos a TVUNADVirtual - TV en Red
  - [https://tvunadvirtual.unad.edu.co](https://tvunadvirtual.unad.edu.co)
  - date_published: 2021-09-09T00:00:48+00:00
-
- ## Vicerrectoría de Desarrollo Regional y Proyección Comunitaria - VIDER
- - [https://vider.unad.edu.co](https://vider.unad.edu.co)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## VIMEP
- - [https://vimep.unad.edu.co](https://vimep.unad.edu.co)
- - date_published: 2022-03-16T13:30:01+00:00
 

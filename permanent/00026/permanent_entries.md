@@ -1,3 +1,11 @@
+ ## Ad Aures HRM
+ - [https://hrm.adaures.com](https://hrm.adaures.com)
+ - date_published: 2024-07-03T04:24:06.874522+00:00
+
+ ## Effortlessly transform your content to audio
+ - [https://play.ad-auris.com](https://play.ad-auris.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
  ## Ada URL
  - [https://ada-url.com](https://ada-url.com)
  - date_published: 2024-06-17T03:14:42.022828+00:00
@@ -4022,12 +4030,4 @@
  ## AAGC - Unlocking The Future of AI Agents | Homepage
  - [https://aiagentschallenge.com](https://aiagentschallenge.com)
  - date_published: 2024-05-10T05:11:05.300608+00:00
-
- ## AI Alignment
- - [https://ai-alignment.com](https://ai-alignment.com)
- - date_published: 2024-06-21T11:38:15.259713+00:00
-
- ## Home | AI & Partners
- - [https://www.ai-and-partners.com](https://www.ai-and-partners.com)
- - date_published: 2024-06-16T04:16:23.176057+00:00
 

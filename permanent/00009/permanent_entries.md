@@ -1,3 +1,7 @@
+ ## PlaneBase
+ - [http://planebase.biz](http://planebase.biz)
+ - date_published: 2024-07-09T22:21:45.253832+00:00
+
  ## Mobile games industry news, discussion, analysis, opinion, events, jobs, and more
  - [https://www.pocketgamer.biz](https://www.pocketgamer.biz)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -4082,8 +4086,4 @@ Educação
  ## Márcia Piovesan - Home
  - [https://marciapiovesan.com.br](https://marciapiovesan.com.br)
  - date_published: 2024-07-11T17:33:17.337170+00:00
-
- ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
- - [https://www.marykay.com.br](https://www.marykay.com.br)
- - date_published: 2024-06-30T09:56:12.642405+00:00
 

@@ -1,3 +1,215 @@
+ ## College of Engineering
+ - [https://www.engr.ncsu.edu](https://www.engr.ncsu.edu)
+ - date_published: 2024-07-01T15:53:54.317607+00:00
+
+ ## Home | NC State University Libraries
+ - [http://www.lib.ncsu.edu](http://www.lib.ncsu.edu)
+ - date_published: 2024-06-20T06:59:37.542313+00:00
+
+ ## North Carolina State University
+ - [https://www.ncsu.edu](https://www.ncsu.edu)
+ - date_published: 2024-04-28T03:37:43.019973+00:00
+
+ ## NCURA Home
+ - [http://ncura.edu](http://ncura.edu)
+ - date_published: 2024-07-22T02:41:46.568585+00:00
+
+ ## College of Arts & Letters
+ - [https://al.nd.edu](https://al.nd.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home
+ - [https://churchlifejournal.nd.edu](https://churchlifejournal.nd.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Cushwa Center
+ - [http://cushwa.nd.edu](http://cushwa.nd.edu)
+ - date_published: 2024-06-25T13:05:17+00:00
+
+ ## Directory | University of Notre Dame
+ - [https://directory.nd.edu](https://directory.nd.edu)
+ - date_published: 2024-02-06T21:20:42+00:00
+
+ ## du Lac: A Guide to Student Life
+ - [https://dulac.nd.edu](https://dulac.nd.edu)
+ - date_published: 2024-05-31T15:47:32+00:00
+
+ ## Emergency Information
+ - [https://emergency.nd.edu](https://emergency.nd.edu)
+ - date_published: 2024-05-07T19:45:38.368524+00:00
+
+ ## Notre Dame Events
+ - [https://events.nd.edu](https://events.nd.edu)
+ - date_published: 2024-05-07T19:45:46.179696+00:00
+
+ ## Giving to Notre Dame
+ - [https://giving.nd.edu](https://giving.nd.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Human Resources
+ - [http://hr.nd.edu](http://hr.nd.edu)
+ - date_published: 2024-07-01T13:22:10+00:00
+
+ ## Service Discovery
+ - [https://inside.nd.edu](https://inside.nd.edu)
+ - date_published: 2024-06-16T10:39:07.297352+00:00
+
+ ## Notre Dame Application Portal
+ - [https://jobs.nd.edu](https://jobs.nd.edu)
+ - date_published: 2024-06-16T10:38:55+00:00
+
+ ## Home | The Law School | University of Notre Dame
+ - [https://law.nd.edu](https://law.nd.edu)
+ - date_published: 2024-06-28T17:31:05+00:00
+
+ ## Department of Mathematics
+ - [http://math.nd.edu](http://math.nd.edu)
+ - date_published: 2024-06-28T04:00:03+00:00
+
+ ## Product Page - Notre Dame Service Portal
+ - [https://mobile.nd.edu](https://mobile.nd.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Join myNotreDame
+ - [https://my.nd.edu](https://my.nd.edu)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## University of Notre Dame
+ - [http://nd.edu](http://nd.edu)
+ - date_published: 2024-07-01T15:56:33.102793+00:00
+
+ ## Notre Dame Fire Department
+ - [https://ndfd.nd.edu](https://ndfd.nd.edu)
+ - date_published: 2024-05-02T15:47:14+00:00
+
+ ## Notre Dame Philosophical Reviews
+ - [https://ndpr.nd.edu](https://ndpr.nd.edu)
+ - date_published: 2024-05-07T16:16:12.105690+00:00
+
+ ## Home
+ - [https://ndworks.nd.edu](https://ndworks.nd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Notre Dame News | University of Notre Dame
+ - [https://news.nd.edu](https://news.nd.edu)
+ - date_published: 2023-10-25T18:55:35.076777+00:00
+
+ ## Office of Information Technology
+ - [http://oit.nd.edu](http://oit.nd.edu)
+ - date_published: 2024-06-28T19:01:34+00:00
+
+ ## Office of Public Affairs and Communications
+ - [https://opac.nd.edu](https://opac.nd.edu)
+ - date_published: 2024-01-18T19:52:55+00:00
+
+ ## Home
+ - [https://performingarts.nd.edu](https://performingarts.nd.edu)
+ - date_published: 2024-07-01T15:56:20.551173+00:00
+
+ ## Home // Department of Philosophy // University of Notre Dame
+ - [https://philosophy.nd.edu](https://philosophy.nd.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Notre Dame Police Department
+ - [https://police.nd.edu](https://police.nd.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home // Department of Political Science // University of Notre Dame
+ - [https://politicalscience.nd.edu](https://politicalscience.nd.edu)
+ - date_published: 2024-06-28T19:49:24+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.nd.edu](https://registrar.nd.edu)
+ - date_published: 2024-06-06T13:38:12+00:00
+
+ ## Risk Management and Safety
+ - [https://riskmanagement.nd.edu](https://riskmanagement.nd.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Campus Safety and University Operations
+ - [https://safetyandoperations.nd.edu](https://safetyandoperations.nd.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Search Notre Dame | University of Notre Dame
+ - [https://search.nd.edu](https://search.nd.edu)
+ - date_published: 2024-01-02T13:51:28+00:00
+
+ ## static.nd.edu | University of Notre Dame
+ - [https://static.nd.edu](https://static.nd.edu)
+ - date_published: 2018-04-17T16:10:09+00:00
+
+ ## Stories
+ - [https://stories.nd.edu](https://stories.nd.edu)
+ - date_published: 2024-05-07T19:45:24.023439+00:00
+
+ ## Technology Ethics Center
+ - [https://techethics.nd.edu](https://techethics.nd.edu)
+ - date_published: 2024-07-12T13:47:58+00:00
+
+ ## Campus Tour
+ - [https://tour.nd.edu](https://tour.nd.edu)
+ - date_published: 2024-03-22T20:36:56+00:00
+
+ ## University of Notre Dame
+ - [https://www.nd.edu](https://www.nd.edu)
+ - date_published: 2024-05-01T06:30:44.719090+00:00
+
+ ## Home | University of Notre Dame | University of Notre Dame
+ - [https://wwwnd.nd.edu](https://wwwnd.nd.edu)
+ - date_published: 2024-06-14T17:56:44+00:00
+
+ ## Homepage | North Dakota State College of Science (NDSCS) | Wahpeton/Fargo
+ - [https://www.ndscs.edu](https://www.ndscs.edu)
+ - date_published: 2024-07-01T15:37:46+00:00
+
+ ## Career and Advising Center - North Dakota State University
+ - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
+ - date_published: 2024-05-07T19:46:04.013334+00:00
+
+ ## Career and Advising Center - North Dakota State University
+ - [https://career.ndsu.edu](https://career.ndsu.edu)
+ - date_published: 2024-07-01T16:01:34.483513+00:00
+
+ ## IT Knowledge Base
+ - [https://kb.ndsu.edu](https://kb.ndsu.edu)
+ - date_published: 2024-07-01T16:02:13.033419+00:00
+
+ ## | NDSU Libraries
+ - [https://library.ndsu.edu](https://library.ndsu.edu)
+ - date_published: 2024-05-07T19:45:50.428351+00:00
+
+ ## - myNDSU| North Dakota State University
+ - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
+ - date_published: 2024-05-07T19:46:13.913614+00:00
+
+ ## NDSU - North Dakota State University
+ - [https://ndsu.edu](https://ndsu.edu)
+ - date_published: 2023-10-25T18:55:39.000458+00:00
+
+ ## Home
+ - [https://capstone.ndu.edu](https://capstone.ndu.edu)
+ - date_published: 2024-06-22T07:07:08.838470+00:00
+
+ ## Center for Applied Strategic Learning
+ - [http://casl.ndu.edu](http://casl.ndu.edu)
+ - date_published: 2024-07-08T21:39:19.622264+00:00
+
+ ## Home
+ - [https://cic.ndu.edu](https://cic.ndu.edu)
+ - date_published: 2024-05-08T02:44:04.388879+00:00
+
+ ## Institute for National Strategic Studies (INSS)
+ - [https://inss.ndu.edu](https://inss.ndu.edu)
+ - date_published: 2024-07-07T04:55:16.136208+00:00
+
+ ## Center for the Study of Weapons of Mass Destruction > Home
+ - [https://wmdcenter.ndu.edu](https://wmdcenter.ndu.edu)
+ - date_published: 2024-06-17T10:48:04.873119+00:00
+
+ ## National Defense University
+ - [https://www.ndu.edu](https://www.ndu.edu)
+ - date_published: 2024-07-03T13:48:41.778164+00:00
+
  ## Blackboard Learn
  - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
  - date_published: 2004-07-01T16:00:49+00:00
@@ -3788,216 +4000,4 @@
  ## ULS Digital Collections  | Digital Pitt
  - [https://digital.library.pitt.edu](https://digital.library.pitt.edu)
  - date_published: 2024-06-20T15:40:42+00:00
-
- ## Find People at the University of Pittsburgh
- - [https://find.pitt.edu](https://find.pitt.edu)
- - date_published: 2024-05-07T19:53:08.948896+00:00
-
- ## Home | School of Law
- - [http://jurist.law.pitt.edu](http://jurist.law.pitt.edu)
- - date_published: 2024-06-20T03:13:09.945094+00:00
-
- ## myPitt | All Campuses
- - [https://my.pitt.edu](https://my.pitt.edu)
- - date_published: 2024-05-07T19:53:15.799910+00:00
-
- ## Home
- - [http://pitt.edu](http://pitt.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Pitt Magazine
- - [https://pittmag.pitt.edu](https://pittmag.pitt.edu)
- - date_published: 2024-07-01T13:31:26+00:00
-
- ## Home | School of Public Health
- - [https://publichealth.pitt.edu](https://publichealth.pitt.edu)
- - date_published: 2024-07-01T16:58:07.109232+00:00
-
- ## Scholarship@PITT LAW
- - [https://scholarship.law.pitt.edu](https://scholarship.law.pitt.edu)
- - date_published: 2024-07-02T10:48:13.424947+00:00
-
- ## University of Pittsburgh: Error HTTP 403 - Forbidden
- - [https://sites.pitt.edu](https://sites.pitt.edu)
- - date_published: 2023-10-25T18:56:45.029939+00:00
-
- ## Homepage | University of Pittsburgh at Bradford
- - [https://upb.pitt.edu](https://upb.pitt.edu)
- - date_published: 2024-07-01T16:59:24.069682+00:00
-
- ## Home | Academics
- - [https://www.academics.pitt.edu](https://www.academics.pitt.edu)
- - date_published: 2024-07-01T16:58:33.495202+00:00
-
- ## Pittsburgh Center for Artificial Intelligence Innovation in Medical Imaging | University of Pittsburgh
- - [https://www.aimi.pitt.edu](https://www.aimi.pitt.edu)
- - date_published: 2024-07-12T04:22:33+00:00
-
- ## Kenneth P. Dietrich School of Arts & Sciences | University of Pittsburgh | University of Pittsburgh
- - [https://www.as.pitt.edu](https://www.as.pitt.edu)
- - date_published: 2024-07-01T16:38:00+00:00
-
- ## Home | Dietrich Arts & Sciences Undergraduate Studies
- - [https://www.asundergrad.pitt.edu](https://www.asundergrad.pitt.edu)
- - date_published: 2024-06-14T15:04:09.425314+00:00
-
- ## Joseph M. Katz Graduate School of Business at the University of Pittsburgh
- - [https://www.business.pitt.edu](https://www.business.pitt.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## The Center for Philosophy of Science - Home
- - [https://www.centerphilsci.pitt.edu](https://www.centerphilsci.pitt.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home | Center for Governance and Markets | University of Pittsburgh
- - [https://www.cgm.pitt.edu](https://www.cgm.pitt.edu)
- - date_published: 2024-07-22T03:29:36+00:00
-
- ## Home | College of General Studies | University of Pittsburgh
- - [https://www.cgs.pitt.edu](https://www.cgs.pitt.edu)
- - date_published: 2024-07-01T16:38:17+00:00
-
- ## Office of | University of Pittsburgh
- - [https://www.community.pitt.edu](https://www.community.pitt.edu)
- - date_published: 2024-07-01T16:43:11+00:00
-
- ## Home | CONCEPT Research Lab
- - [https://conceptlab.pitt.edu](https://conceptlab.pitt.edu)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Home | School of Dental Medicine
- - [https://www.dental.pitt.edu](https://www.dental.pitt.edu)
- - date_published: 2024-07-01T12:45:31+00:00
-
- ## Home | Office for Equity, Diversity, and Inclusion  | University of Pittsburgh
- - [https://www.diversity.pitt.edu](https://www.diversity.pitt.edu)
- - date_published: 2024-07-01T16:59:06+00:00
-
- ## Homepage - University of Pittsburgh School of Education
- - [https://www.education.pitt.edu](https://www.education.pitt.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## University of Pittsburgh Swanson School of Engineering SSoE Home
- - [https://www.engineering.pitt.edu](https://www.engineering.pitt.edu)
- - date_published: 2024-07-01T16:58:29.630714+00:00
-
- ## Home | Greensburg
- - [http://www.greensburg.pitt.edu](http://www.greensburg.pitt.edu)
- - date_published: 2024-07-01T16:59:20.439390+00:00
-
- ## Home | Graduate School of Public and International Affairs
- - [https://www.gspia.pitt.edu](https://www.gspia.pitt.edu)
- - date_published: 2024-07-01T16:58:11.560495+00:00
-
- ## Home | Health Sciences | University of Pittsburgh
- - [http://www.health.pitt.edu](http://www.health.pitt.edu)
- - date_published: 2024-06-27T11:33:13+00:00
-
- ## Home | Honors College
- - [https://www.honors.pitt.edu](https://www.honors.pitt.edu)
- - date_published: 2024-07-01T16:57:59.923564+00:00
-
- ## History and Philosophy of Science | University of Pittsburgh
- - [http://www.hps.pitt.edu](http://www.hps.pitt.edu)
- - date_published: 2024-07-01T09:04:00+00:00
-
- ## OIE - Office of Innovation and Entrepreneurship
- - [https://www.innovation.pitt.edu](https://www.innovation.pitt.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## University of Pittsburgh Johnstown | University of Pittsburgh
- - [https://www.johnstown.pitt.edu](https://www.johnstown.pitt.edu)
- - date_published: 2024-07-01T16:58:44+00:00
-
- ## Home | Talent Center: Careers at Pitt | University of Pittsburgh
- - [https://www.join.pitt.edu](https://www.join.pitt.edu)
- - date_published: 2024-07-01T16:58:17+00:00
-
- ## Home | School of Law
- - [https://www.law.pitt.edu](https://www.law.pitt.edu)
- - date_published: 2024-07-01T16:58:51.243785+00:00
-
- ## Home |  LGBTQIA+
- - [https://www.lgbtq.pitt.edu](https://www.lgbtq.pitt.edu)
- - date_published: 2024-07-01T16:59:17.353223+00:00
-
- ## School of Medicine | University of Pittsburgh
- - [https://www.medschool.pitt.edu](https://www.medschool.pitt.edu)
- - date_published: 2024-07-01T16:58:03+00:00
-
- ## School of Nursing | University of Pittsburgh
- - [https://www.nursing.pitt.edu](https://www.nursing.pitt.edu)
- - date_published: 2024-07-01T16:37:08+00:00
-
- ## Office of the Provost | University of Pittsburgh
- - [https://www.personaled.pitt.edu](https://www.personaled.pitt.edu)
- - date_published: 2024-07-01T14:21:45+00:00
-
- ## Home | School of Pharmacy
- - [https://www.pharmacy.pitt.edu](https://www.pharmacy.pitt.edu)
- - date_published: 2024-07-01T16:59:18.815395+00:00
-
- ## Home
- - [https://www.pitt.edu](https://www.pitt.edu)
- - date_published: 2024-05-07T19:53:13.603363+00:00
-
- ## Robert Henderson Language Media Center | University of Pittsburgh
- - [http://www.polyglot.pitt.edu](http://www.polyglot.pitt.edu)
- - date_published: 2024-06-14T15:04:23.050357+00:00
-
- ## School of Computing and Information | University of Pittsburgh
- - [https://www.sci.pitt.edu](https://www.sci.pitt.edu)
- - date_published: 2024-07-01T16:58:19+00:00
-
- ## School of Health and Rehabilitation Sciences | University of Pittsburgh | University of Pittsburgh School of Health and Rehabilitation Sciences
- - [https://www.shrs.pitt.edu](https://www.shrs.pitt.edu)
- - date_published: 2024-07-01T16:56:52+00:00
-
- ## School of Social Work | University of Pittsburgh
- - [https://www.socialwork.pitt.edu](https://www.socialwork.pitt.edu)
- - date_published: 2024-07-01T16:41:47+00:00
-
- ## Home - Pitt Sustainability
- - [https://www.sustainable.pitt.edu](https://www.sustainable.pitt.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Information Technology | University of Pittsburgh
- - [https://www.technology.pitt.edu](https://www.technology.pitt.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Titusville | University of Pittsburgh
- - [https://www.titusville.pitt.edu](https://www.titusville.pitt.edu)
- - date_published: 2024-07-01T13:15:43+00:00
-
- ## Home | Campus Tour
- - [https://www.tour.pitt.edu](https://www.tour.pitt.edu)
- - date_published: 2024-07-01T16:51:50+00:00
-
- ## CloudFlare Error | SUNY Plattsburgh
- - [http://www.plattsburgh.edu](http://www.plattsburgh.edu)
- - date_published: 2024-07-11T15:11:15.276312+00:00
-
- ## Practising Law Institute Continuing Legal Education Programs, Webcasts and Publications
- - [http://www.pli.edu](http://www.pli.edu)
- - date_published: 2024-07-14T11:56:34.333333+00:00
-
- ## PLU | Pacific Lutheran University
- - [http://www.plu.edu](http://www.plu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Admissions - Purdue University Northwest
- - [https://discover.pnw.edu](https://discover.pnw.edu)
- - date_published: 2024-07-01T17:46:09.049801+00:00
-
- ## Purdue University Northwest
- - [https://mypnw.pnw.edu](https://mypnw.pnw.edu)
- - date_published: 2024-07-01T17:46:21.707987+00:00
-
- ## Homepage - Purdue University Northwest
- - [https://pnw.edu](https://pnw.edu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Point Park University
- - [http://www.pointpark.edu](http://www.pointpark.edu)
- - date_published: 2024-06-27T19:32:55+00:00
 
