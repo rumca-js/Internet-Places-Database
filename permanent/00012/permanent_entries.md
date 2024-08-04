@@ -1,3 +1,19 @@
+ ## Home | Royal Roads University
+ - [https://www.royalroads.ca](https://www.royalroads.ca)
+ - date_published: 2024-05-01T07:10:49.520351+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.rsagroup.ca](https://www.rsagroup.ca)
+ - date_published: 2024-07-11T17:16:06.458418+00:00
+
+ ## The Royal Society of Canada
+ - [https://rsc-src.ca](https://rsc-src.ca)
+ - date_published: 2024-04-30T05:11:46.408983+00:00
+
+ ## RSEQ - Sport.Éducation.Fierté
+ - [http://www.rseq.ca](http://www.rseq.ca)
+ - date_published: 2024-07-21T08:25:51.903526+00:00
+
  ## Crafting {:} a Life – A Charlottetown Unconference, June 2019
  - [https://cal.ruk.ca](https://cal.ruk.ca)
  - date_published: 2024-06-08T13:10:07.653599+00:00
@@ -4015,20 +4031,4 @@
  ## Homepage - YFile
  - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
  - date_published: 2024-04-30T05:32:00.155249+00:00
-
- ## Welcome to York University! Bienvenue à l'Université York! - York International
- - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## York University | Right the Future
- - [https://yorku.ca](https://yorku.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## YUBlog | YUBlog
- - [https://yublog.students.yorku.ca](https://yublog.students.yorku.ca)
- - date_published: 2024-07-21T07:58:03.781085+00:00
-
- ## Passport York Login
- - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
- - date_published: 2024-07-08T23:02:02.959783+00:00
 

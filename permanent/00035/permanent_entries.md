@@ -1,3 +1,130 @@
+ ## Batman News
+ - [https://batman-news.com](https://batman-news.com)
+ - date_published: 2024-05-07T18:48:11.981947+00:00
+ - tags: ['batman']
+
+ ## BATMAN NOTES
+ - [https://batmannotes.com](https://batmannotes.com)
+ - date_published: 2024-07-11T16:23:41+00:00
+ - tags: ['batman']
+
+ ## Comics Bookcase - Writing About Comics
+ - [https://batmansbookcase.com](https://batmansbookcase.com)
+ - date_published: 2024-07-17T10:42:47.011516+00:00
+
+ ## Baton Rouge
+ - [http://m.baton-rouge.com](http://m.baton-rouge.com)
+ - date_published: 2024-05-23T14:33:34+00:00
+
+ ## Baton Rouge
+ - [https://baton-rouge.com](https://baton-rouge.com)
+ - date_published: 2024-05-08T09:32:09.400669+00:00
+
+ ## Baton Rouge Post - Covers Local Baton Rouge News & Louisiana
+ - [http://www.batonrougepost.com](http://www.batonrougepost.com)
+ - date_published: 2024-07-13T22:56:54.717146+00:00
+
+ ## Bats Near Me
+ - [https://www.batsnearme.com](https://www.batsnearme.com)
+ - date_published: 2024-06-15T04:10:12.888803+00:00
+
+ ## (think)
+ - [https://batsov.com](https://batsov.com)
+ - date_published: 2023-10-25T12:52:45.171392+00:00
+
+ ## John Battelle's Search Blog Thoughts on the intersection of tech, business, and society.
+ - [https://battellemedia.com](https://battellemedia.com)
+ - date_published: 2024-05-01T04:13:29.496665+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.batteriesplus.com](https://www.batteriesplus.com)
+ - date_published: 2024-06-29T23:12:17.009818+00:00
+
+ ## Home Page - Battery Ventures
+ - [https://battery.com](https://battery.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Startseite – Battery Ventures
+ - [https://de.battery.com](https://de.battery.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Page d'accueil - Battery Ventures
+ - [https://fr.battery.com](https://fr.battery.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Battery Explore
+ - [https://future.battery.com](https://future.battery.com)
+ - date_published: 2024-06-23T06:54:34.242807+00:00
+
+ ## Jobs at Battery Ventures Companies | Battery Ventures
+ - [https://jobs.battery.com](https://jobs.battery.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## an Atlanta Braves community
+ - [http://www.batterypower.com](http://www.batterypower.com)
+ - date_published: 2024-04-29T02:04:39.360494+00:00
+
+ ## Battery Power Tips Resources for Battery Technology and Innovation - Battery Power Tips
+ - [https://batterypowertips.com](https://batterypowertips.com)
+ - date_published: 2024-06-17T08:34:59.123735+00:00
+
+ ## Battery University Homepage
+ - [https://batteryuniversity.com](https://batteryuniversity.com)
+ - date_published: 2019-09-14T00:12:00+00:00
+
+ ## Home - Battle Armor Designs
+ - [https://battlearmordesigns.com](https://battlearmordesigns.com)
+ - date_published: 2024-07-12T13:23:37+00:00
+
+ ## Dave The Web Guy
+ - [http://www.battleblog.com](http://www.battleblog.com)
+ - date_published: 2024-06-28T12:55:07.683194+00:00
+ - tags: ['personal']
+
+ ## Battleborn - 2K
+ - [https://battleborn.com](https://battleborn.com)
+ - date_published: 2024-06-11T11:50:18+00:00
+
+ ## Battle Born Batteries | Reliable Lithium-Ion Batteries
+ - [https://battlebornbatteries.com](https://battlebornbatteries.com)
+ - date_published: 2024-06-22T18:40:29+00:00
+
+ ## BattleBots
+ - [https://battlebots.com](https://battlebots.com)
+ - date_published: 2024-06-23T03:18:39.433751+00:00
+
+ ## Battle Bros Events | Food Festivals and Craft Fairs
+ - [https://www.battlebrosevents.com](https://www.battlebrosevents.com)
+ - date_published: 2024-06-22T19:55:14.727966+00:00
+
+ ## BattleCore Arena | Free-to-play | Ubisoft Connect, Steam, Epic Game Store
+ - [https://battlecorearena.com](https://battlecorearena.com)
+ - date_published: 2024-06-27T10:50:24.806927+00:00
+
+ ## Home - battlefieldearth
+ - [http://battlefieldearth.com](http://battlefieldearth.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Battle for Libraries
+ - [https://www.battleforlibraries.com](https://www.battleforlibraries.com)
+ - date_published: 2023-10-25T12:52:46.273749+00:00
+
+ ## Battle for the Net
+ - [https://www.battleforthenet.com](https://www.battleforthenet.com)
+ - date_published: 2024-06-23T16:23:43.248055+00:00
+
+ ## Battlefy
+ - [https://battlefy.com](https://battlefy.com)
+ - date_published: 2024-06-28T23:38:21+00:00
+
+ ## BattleMetrics
+ - [https://www.battlemetrics.com](https://www.battlemetrics.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The Battle of Lincoln Park
+ - [http://battleoflincolnpark.com](http://battleoflincolnpark.com)
+ - date_published: 2024-06-28T13:29:05.397887+00:00
+
  ## Artix Entertainment - Free to Play Online Browser Games
  - [http://portal.battleon.com](http://portal.battleon.com)
  - date_published: 2024-06-19T01:18:29.770018+00:00
@@ -3325,6 +3452,10 @@
  - [https://berlinletters.com](https://berlinletters.com)
  - date_published: 2024-05-06T18:10:44.279845+00:00
 
+ ## Berlin VS Amazon – Fight the Tower!
+ - [https://berlinvsamazon.com](https://berlinvsamazon.com)
+ - date_published: 2024-08-02T18:01:19.550189+00:00
+
  ## Wine, Liquor, and Beer Store in Lexington, MA 02420
  - [http://www.bermansfinewines.com](http://www.bermansfinewines.com)
  - date_published: 2024-07-13T10:57:26.538007+00:00
@@ -3908,132 +4039,4 @@
  ## Hotel Palermo Tower Buenos Aires - new 2024 prices, reviews, book now
  - [https://palermo-tower.bestbuenosaireshotels.com](https://palermo-tower.bestbuenosaireshotels.com)
  - date_published: 2024-07-02T06:47:31.952027+00:00
-
- ## Hotel Palladio Hotel Buenos Aires - Mgallery Buenos Aires - new 2024 prices, reviews, book now
- - [https://palladio-hotel-buenos-aires-mgallery-by-sofitel.bestbuenosaireshotels.com](https://palladio-hotel-buenos-aires-mgallery-by-sofitel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:39:32.450205+00:00
-
- ## Hotel Marriott Buenos Aires - new 2024 prices, reviews, book now
- - [https://panamericano.bestbuenosaireshotels.com](https://panamericano.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:48:05.310555+00:00
-
- ## Hotel Park Royal City Buenos Aires - new 2024 prices, reviews, book now
- - [https://park-royal-buenos-aires.bestbuenosaireshotels.com](https://park-royal-buenos-aires.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:50:59.529584+00:00
-
- ## Hotel Park Silver Obelisco Buenos Aires - new 2024 prices, reviews, book now
- - [https://park-silver-obelisco.bestbuenosaireshotels.com](https://park-silver-obelisco.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:40:27.160296+00:00
-
- ## Hotel Park Tower, A Luxury Collection Hotel Buenos Aires - new 2024 prices, reviews, book now
- - [https://park-tower.bestbuenosaireshotels.com](https://park-tower.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:52:07.332790+00:00
-
- ## Hostel Play Hostel Soho Buenos Aires - new 2024 prices, reviews, book now
- - [https://play-hostel-buenos-aires.bestbuenosaireshotels.com](https://play-hostel-buenos-aires.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:39:41.950813+00:00
-
- ## Apartment Poetry Building Recoleta Buenos Aires - new 2024 prices, reviews, book now
- - [https://poetry-building.bestbuenosaireshotels.com](https://poetry-building.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:47:08.047381+00:00
-
- ## Hotel Pop Buenos Aires - new 2024 prices, reviews, book now
- - [https://pop-hotel.bestbuenosaireshotels.com](https://pop-hotel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:46:58.631956+00:00
-
- ## Inn De Las Aguilas Hotel Boutique Ezeiza - new 2024 prices, reviews, book now
- - [https://posada-de-las-aguilas-hotel-boutique.bestbuenosaireshotels.com](https://posada-de-las-aguilas-hotel-boutique.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:54:23.331098+00:00
-
- ## Hotel Presidente Buenos Aires - new 2024 prices, reviews, book now
- - [https://presidente-buenos-aires.bestbuenosaireshotels.com](https://presidente-buenos-aires.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:54:52.802104+00:00
-
- ## Hotel Promenade Buenos Aires - new 2024 prices, reviews, book now
- - [https://promenade-hotel.bestbuenosaireshotels.com](https://promenade-hotel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:41:19.750993+00:00
-
- ## Hotel Hr Plaza Luxor Buenos Aires - new 2024 prices, reviews, book now
- - [https://reconquista-plaza.bestbuenosaireshotels.com](https://reconquista-plaza.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:54:47.826678+00:00
-
- ## Hotel Regal Pacific Puerto Madero Buenos Aires - new 2024 prices, reviews, book now
- - [https://regal-pacific.bestbuenosaireshotels.com](https://regal-pacific.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:39:52.150433+00:00
-
- ## Hotel Regis Orho Buenos Aires - new 2024 prices, reviews, book now
- - [https://regis-orho.bestbuenosaireshotels.com](https://regis-orho.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:54:33.653159+00:00
-
- ## Hostel Reina Madre Buenos Aires - new 2024 prices, reviews, book now
- - [https://reina-madre-hostel.bestbuenosaireshotels.com](https://reina-madre-hostel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:40:02.122332+00:00
-
- ## Hotel Rendez Vous Hotel Buenos Aires - new 2024 prices, reviews, book now
- - [https://rendez-vous-hotel-buenos-aires.bestbuenosaireshotels.com](https://rendez-vous-hotel-buenos-aires.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:52:51.844843+00:00
-
- ## Hotel Htl 9 De Julio Bsas Buenos Aires - new 2024 prices, reviews, book now
- - [https://room-mate-carlos.bestbuenosaireshotels.com](https://room-mate-carlos.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:47:55.320387+00:00
-
- ## Hotel Ch Le Petit Parc Buenos Aires - new 2024 prices, reviews, book now
- - [https://salles-hotel.bestbuenosaireshotels.com](https://salles-hotel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:48:09.981725+00:00
-
- ## Hotel San Telmo Suites Buenos Aires - new 2024 prices, reviews, book now
- - [https://san-telmo-luxury-suites.bestbuenosaireshotels.com](https://san-telmo-luxury-suites.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:53:20.147187+00:00
-
- ## Hotel Selina Palermo Buenos Aires - new 2024 prices, reviews, book now
- - [https://selina-palermo.bestbuenosaireshotels.com](https://selina-palermo.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:55:55.081211+00:00
-
- ## Hotel Libertad Hotel Buenos Aires - new 2024 prices, reviews, book now
- - [https://serena-buenos-aires.bestbuenosaireshotels.com](https://serena-buenos-aires.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:51:45.314781+00:00
-
- ## Hotel Sheraton Buenos Aires Hotel & Convention Center Buenos Aires - new 2024 prices, reviews, book now
- - [https://sheraton-buenos-aires-hotel-convention-center.bestbuenosaireshotels.com](https://sheraton-buenos-aires-hotel-convention-center.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:48:43.012149+00:00
-
- ## Hotel Sofitel Buenos Aires - new 2024 prices, reviews, book now
- - [https://sofitel-buenos-aires.bestbuenosaireshotels.com](https://sofitel-buenos-aires.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:54:38.377308+00:00
-
- ## Apartment Palermo Buenos Aires - new 2024 prices, reviews, book now
- - [https://soho-point-palermo.bestbuenosaireshotels.com](https://soho-point-palermo.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:49:50.558896+00:00
-
- ## Hotel Tango De Mayo Buenos Aires - new 2024 prices, reviews, book now
- - [https://tango-de-mayo-hotel.bestbuenosaireshotels.com](https://tango-de-mayo-hotel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:55:23.026138+00:00
-
- ## Hotel Sofitel Buenos Aires Recoleta Buenos Aires - new 2024 prices, reviews, book now
- - [https://the-brick-hotel-buenos-aires-mgallery-by-sofitel.bestbuenosaireshotels.com](https://the-brick-hotel-buenos-aires-mgallery-by-sofitel.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:41:00.558162+00:00
-
- ## Hotel Ulises Recoleta Suites Buenos Aires - new 2024 prices, reviews, book now
- - [https://ulises-recoleta-suites.bestbuenosaireshotels.com](https://ulises-recoleta-suites.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:49:26.097960+00:00
-
- ## Hotel Unique Executive Buenos Aires - new 2024 prices, reviews, book now
- - [https://unique-executive-central.bestbuenosaireshotels.com](https://unique-executive-central.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:40:17.656038+00:00
-
- ## Hotel Suma Recoleta Buenos Aires - new 2024 prices, reviews, book now
- - [https://unique-luxury-park-plaza.bestbuenosaireshotels.com](https://unique-luxury-park-plaza.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:52:36.832558+00:00
-
- ## Hotel M Concept Buenos Aires - new 2024 prices, reviews, book now
- - [https://unique-palacio-san-telmo.bestbuenosaireshotels.com](https://unique-palacio-san-telmo.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:53:06.157249+00:00
-
- ## Hotel Urbanica The Buenos Aires - new 2024 prices, reviews, book now
- - [https://urbanica-suites.bestbuenosaireshotels.com](https://urbanica-suites.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:53:48.711187+00:00
-
- ## Aparthotel Up Viamonte Buenos Aires - new 2024 prices, reviews, book now
- - [https://viamonte-buenos-aires-apart.bestbuenosaireshotels.com](https://viamonte-buenos-aires-apart.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:48:00.478547+00:00
 

@@ -1,3 +1,15 @@
+ ## PRH
+ - [https://selfservice.penguinrandomhouse.biz](https://selfservice.penguinrandomhouse.biz)
+ - date_published: 2024-03-27T14:37:18+00:00
+
+ ## penguinrandomhouse.biz
+ - [https://penguinrandomhouse.biz](https://penguinrandomhouse.biz)
+ - date_published: 2023-02-08T20:14:20+00:00
+
+ ## Pinterest Community
+ - [https://community.pinterest.biz](https://community.pinterest.biz)
+ - date_published: 2024-06-28T17:27:05.812206+00:00
+
  ## PlaneBase
  - [http://planebase.biz](http://planebase.biz)
  - date_published: 2024-07-09T22:21:45.253832+00:00
@@ -2951,6 +2963,10 @@ Educação
  - [https://www.allog.com.br](https://www.allog.com.br)
  - date_published: 2024-05-15T00:00:00+00:00
 
+ ## Editora Alta Books – O seu portal de conhecimento
+ - [http://www.altabooks.com.br](http://www.altabooks.com.br)
+ - date_published: 2024-08-02T18:45:04.442765+00:00
+
  ## Altruísmo Eficaz
  - [https://altruismoeficaz.com.br](https://altruismoeficaz.com.br)
  - date_published: 2024-06-29T22:26:31.275309+00:00
@@ -4070,20 +4086,4 @@ Educação
  ## MaisCuidado
  - [https://admin.maiscuidado.com.br](https://admin.maiscuidado.com.br)
  - date_published: 2024-06-03T23:46:17+00:00
-
- ## Mais Novela
- - [https://maisnovela.com.br](https://maisnovela.com.br)
- - date_published: 2024-07-11T17:33:20.706587+00:00
-
- ## Home - Manequim
- - [https://manequim.com.br](https://manequim.com.br)
- - date_published: 2024-07-11T17:33:24.129126+00:00
-
- ## Mapa Múndi Blog
- - [http://www.mapamundiblog.com.br](http://www.mapamundiblog.com.br)
- - date_published: 2024-07-03T23:08:24+00:00
-
- ## Márcia Piovesan - Home
- - [https://marciapiovesan.com.br](https://marciapiovesan.com.br)
- - date_published: 2024-07-11T17:33:17.337170+00:00
 

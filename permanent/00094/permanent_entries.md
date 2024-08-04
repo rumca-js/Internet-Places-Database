@@ -1,3 +1,193 @@
+ ## Blueprint
+ - [https://blueprint.laravelshift.com](https://blueprint.laravelshift.com)
+ - date_published: 2024-02-21T14:28:29+00:00
+
+ ## Laravel Shift
+ - [https://laravelshift.com](https://laravelshift.com)
+ - date_published: 2024-05-02T12:28:17.568654+00:00
+
+ ## Code snippets, tips and tricks for Laravel PHP framework
+ - [https://laravel-tricks.com](https://laravel-tricks.com)
+ - date_published: 2024-06-18T10:24:04.651313+00:00
+
+ ## Laravel Up & Running - An O'Reilly book from Matt Stauffer
+ - [https://laravelupandrunning.com](https://laravelupandrunning.com)
+ - date_published: 2024-06-18T10:24:11.724321+00:00
+
+ ## Lara Zeus | filamentphp free and premium plugin, and open source laravel packages
+ - [https://larazeus.com](https://larazeus.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## LARB Pub Lab | Reassembling publishing | Incubating ideas from the LA Review of Books Publishing Workshop
+ - [https://larbpublab.com](https://larbpublab.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## L'Arca degli Esposti
+ - [https://larcadegliesposti.com](https://larcadegliesposti.com)
+ - date_published: 2024-07-09T20:40:49.871613+00:00
+
+ ## home - larch lab
+ - [https://www.larchlab.com](https://www.larchlab.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## LARCHMONT VILLAGE WINE, SPIRITS & CHEESE
+ - [https://www.larchmontvillagewine.com](https://www.larchmontvillagewine.com)
+ - date_published: 2024-06-20T16:56:59.519110+00:00
+
+ ## Lardera Coffee | Try Samples | Free Shipping with $49
+ - [https://www.lardera.com](https://www.lardera.com)
+ - date_published: 2024-06-29T18:09:48.205911+00:00
+
+ ## La REcyclerie
+ - [http://www.larecyclerie.com](http://www.larecyclerie.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Lares Labs
+ - [https://labs.lares.com](https://labs.lares.com)
+ - date_published: 2024-02-11T14:35:07.711728+00:00
+ - tags: ['tech news']
+
+ ## Lares - Empowering Organizations to Maximize Their Security Potential
+ - [https://lares.com](https://lares.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Large Print Poems
+ - [https://largeprintpoems.com](https://largeprintpoems.com)
+ - date_published: 2024-07-10T03:09:16.510511+00:00
+
+ ## Larian Merch Store
+ - [https://apac.merch.larian.com](https://apac.merch.larian.com)
+ - date_published: 2024-05-04T11:56:10.877993+00:00
+
+ ## Larian Merch Store
+ - [https://eu.merch.larian.com](https://eu.merch.larian.com)
+ - date_published: 2024-05-04T11:55:56.841345+00:00
+
+ ## Larian Studios forums - Forums powered by UBB.threads
+ - [http://forums.larian.com](http://forums.larian.com)
+ - date_published: 2024-06-21T02:27:16.574730+00:00
+
+ ## Homepage - Larian Studios
+ - [https://larian.com](https://larian.com)
+ - date_published: 2023-11-04T19:14:56.784693+00:00
+ - tags: ['dungeons and dragons', 'video game developer', 'baldurs gate']
+
+ ## Larian Merch Store
+ - [https://merch.larian.com](https://merch.larian.com)
+ - date_published: 2024-05-04T11:56:13.119119+00:00
+
+ ## Larian Merch Store
+ - [https://us.merch.larian.com](https://us.merch.larian.com)
+ - date_published: 2024-05-04T11:56:14.893503+00:00
+
+ ## Homepage - Larian Studios
+ - [http://www.larian.com](http://www.larian.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Lariat Data
+ - [https://app.lariatdata.com](https://app.lariatdata.com)
+ - date_published: 2024-05-04T11:56:34.449498+00:00
+
+ ## Lariat Data
+ - [https://www.lariatdata.com](https://www.lariatdata.com)
+ - date_published: 2023-10-25T15:41:19.402858+00:00
+
+ ## Larienna's Library Main/Welcome to Larienna's Library
+ - [https://lariennalibrary.com](https://lariennalibrary.com)
+ - date_published: 2024-07-11T12:27:51.930568+00:00
+
+ ## Wizardry Legacy : Main / Welcome : browse
+ - [https://wl.lariennalibrary.com](https://wl.lariennalibrary.com)
+ - date_published: 2024-05-09T09:07:45.947151+00:00
+
+ ## LA RIOJA - Noticias y actualidad de La Rioja, Logroño y comarcas
+ - [https://www.larioja.com](https://www.larioja.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## LARISSA LODEN | Jewelry Minneapolis | Minnesota
+ - [https://larissaloden.com](https://larissaloden.com)
+ - date_published: 2024-07-03T15:51:35.016827+00:00
+
+ ## Default page
+ - [http://www.larissaslife.com](http://www.larissaslife.com)
+ - date_published: 2024-07-04T13:44:17.447840+00:00
+
+ ## Lark & Key | Fine Art and Handmade Ceramics Inspired by Nature
+ - [http://www.larkandkey.com](http://www.larkandkey.com)
+ - date_published: 2024-07-15T03:17:52.943962+00:00
+
+ ## Larklind.com – The 7-Minute Friday
+ - [https://larklind.com](https://larklind.com)
+ - date_published: 2024-04-03T06:23:00.672974+00:00
+ - tags: ['personal']
+
+ ## Lark | Productivity Superapp for Chat, Meetings, Docs & Projects
+ - [https://www.larksuite.com](https://www.larksuite.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Chuck Larntz & Dominique Jones
+ - [http://www.larntz.com](http://www.larntz.com)
+ - date_published: 2024-07-17T10:43:25.165050+00:00
+
+ ## EIR Japan – 時事新報
+ - [https://eir.larouchejapan.com](https://eir.larouchejapan.com)
+ - date_published: 2024-05-11T08:05:59.449794+00:00
+
+ ## ANUMedical
+ - [http://larouchejapan.com](http://larouchejapan.com)
+ - date_published: 2023-02-28T12:58:13+00:00
+
+ ## Homepage | The LaRouche Organization
+ - [https://laroucheorganization.com](https://laroucheorganization.com)
+ - date_published: 2024-05-11T08:06:37.496719+00:00
+
+ ## Promethean PAC
+ - [https://action.larouchepac.com](https://action.larouchepac.com)
+ - date_published: 2024-07-13T17:57:57.402098+00:00
+
+ ## Promethean PAC Archive
+ - [http://larouchepac.com](http://larouchepac.com)
+ - date_published: 2024-07-13T17:56:03.877018+00:00
+
+ ## Pizza Time
+ - [http://arabic.larouchepub.com](http://arabic.larouchepub.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 全球策略信息 – 全球策略信息
+ - [https://chinese.larouchepub.com](https://chinese.larouchepub.com)
+ - date_published: 2024-05-11T08:06:15.714154+00:00
+
+ - [https://larouchepub.com](https://larouchepub.com)
+ - date_published: 2024-03-18T22:26:27.124063+00:00
+
+ ## LaRouche Publications Store
+ - [https://store.larouchepub.com](https://store.larouchepub.com)
+ - date_published: 2024-05-11T08:05:28.005666+00:00
+
+ ## Main - Larry Ackerman
+ - [https://larryackerman.com](https://larryackerman.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Larry Brown Sports
+ - [http://larrybrownsports.com](http://larrybrownsports.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Larry Elder for President 2024 - We've Got a Country to Save!
+ - [https://www.larryelder.com](https://www.larryelder.com)
+ - date_published: 2024-05-06T20:58:05.493062+00:00
+
+ ## Larry Jordan | Apple Final Cut Pro and Adobe Premiere Pro webinars, training and tutorials.
+ - [https://larryjordan.com](https://larryjordan.com)
+ - date_published: 2023-10-25T15:41:23.332035+00:00
+
+ ## Larry Laudan - Philosophy of Science - Official Site
+ - [https://larrylaudan.com](https://larrylaudan.com)
+ - date_published: 2023-11-22T00:00:00+00:00
+
+ ## LarrysWorld.com – Larry Magid's blog on tech reviews, news and policies
+ - [https://larrysworld.com](https://larrysworld.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
  ## Larry Xu
  - [http://www.larryxu.com](http://www.larryxu.com)
  - date_published: 2023-11-19T08:51:59+00:00
@@ -171,6 +361,10 @@
  ## Home
  - [https://lastmovieoutpost.com](https://lastmovieoutpost.com)
  - date_published: 2024-02-26T08:39:12.532389+00:00
+
+ ## lastname.com - Ta strona jest na sprzedaż! - lastname Zasoby i informacje.
+ - [https://lastname.com](https://lastname.com)
+ - date_published: 2024-07-30T03:42:58.769138+00:00
 
  ## LastPass Admin Console
  - [https://admin.lastpass.com](https://admin.lastpass.com)
@@ -1777,6 +1971,10 @@ Chamber Music, Symphony
  ## Landing Page Builder for Lead Generation
  - [https://leadpages.com](https://leadpages.com)
  - date_published: 2024-06-22T06:32:18.269762+00:00
+
+ ## Try Leadpages Free for 14 Days
+ - [https://lp.leadpages.com](https://lp.leadpages.com)
+ - date_published: 2024-07-30T04:21:03.966004+00:00
 
  ## Leadpages Login | Log in to your Leadpages account
  - [https://my.leadpages.com](https://my.leadpages.com)
@@ -3842,204 +4040,4 @@ Chamber Music, Symphony
  ## Rural Holiday Accommodation In France - Le Moulin De Pensol
  - [https://lemoulindepensol.com](https://lemoulindepensol.com)
  - date_published: 2024-03-28T00:00:00+00:00
-
- ## Lemoyne
- - [http://lemoyneproject.com](http://lemoyneproject.com)
- - date_published: 2022-04-10T22:13:45+00:00
-
- ## Lena Amuat, Fotografie
- - [https://lenaamuat.com](https://lenaamuat.com)
- - date_published: 2024-06-19T16:18:18.373055+00:00
-
- ## Lena Amuat, Fotografie
- - [http://www.lenaamuat.com](http://www.lenaamuat.com)
- - date_published: 2024-06-19T16:18:42.715885+00:00
-
- ## Lenaic G. • Artiste • Art Contemporain • Peinture • Perpignan, 66 - France
- - [http://www.lenaicg.com](http://www.lenaicg.com)
- - date_published: 2024-07-04T05:22:39.727793+00:00
-
- ## LENA SINGLA ~ Surf artist
- - [https://lenasingla.com](https://lenasingla.com)
- - date_published: 2024-02-25T18:17:01.905111+00:00
-
- ## 冷板凳碎语
- - [https://memos.lenband.com](https://memos.lenband.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## The Daily Telegram: Local News, Politics & Sports in Adrian, MI
- - [http://cm.lenconnect.com](http://cm.lenconnect.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Help Center - The Daily Telegram
- - [https://help.lenconnect.com](https://help.lenconnect.com)
- - date_published: 2024-07-09T10:33:08.246916+00:00
-
- ## Newsletters | The Daily Telegram
- - [https://profile.lenconnect.com](https://profile.lenconnect.com)
- - date_published: 2024-07-09T10:33:06.973398+00:00
-
- ## The Daily Telegram: Local News, Politics & Sports in Adrian, MI
- - [https://lenconnect.com](https://lenconnect.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## California business directory
- - [https://lencr.com](https://lencr.com)
- - date_published: 2024-05-07T13:45:18.347918+00:00
-
- ## LendEDU | Educated Financial Decisions
- - [https://lendedu.com](https://lendedu.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Outerspace - title
- - [https://t.lendedu.com](https://t.lendedu.com)
- - date_published: 2024-07-01T17:12:24.202775+00:00
-
- ## Microsoft Azure App Service - Welcome
- - [https://ecommerce.lendfirm.com](https://ecommerce.lendfirm.com)
- - date_published: 2021-04-22T03:01:50+00:00
-
- ## Bridge & Rental Loans for Real Estate Investors I Kiavi
- - [http://www.lendinghome.com](http://www.lendinghome.com)
- - date_published: 2024-06-30T05:20:31+00:00
-
- ## LendingTree Careers
- - [http://careers.lendingtree.com](http://careers.lendingtree.com)
- - date_published: 2024-06-21T11:19:26+00:00
-
- ## Home | Credit Cards
- - [https://creditcards.lendingtree.com](https://creditcards.lendingtree.com)
- - date_published: 2024-06-21T03:09:36.265439+00:00
-
- ## Investor Relations | LendingTree, Inc.
- - [https://investors.lendingtree.com](https://investors.lendingtree.com)
- - date_published: 2024-05-04T12:15:58.955283+00:00
-
- ## When banks compete, you win.
- - [http://lendingtree.com](http://lendingtree.com)
- - date_published: 2024-06-20T21:38:20+00:00
-
- ## LendingTree Spring | Enroll
- - [https://link.lendingtree.com](https://link.lendingtree.com)
- - date_published: 2024-06-04T09:59:28+00:00
-
- ## LendingTree
- - [https://my.lendingtree.com](https://my.lendingtree.com)
- - date_published: 2024-06-18T09:58:45+00:00
-
- ## Powered By
- - [https://poweredby.lendingtree.com](https://poweredby.lendingtree.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Newsroom
- - [https://press.lendingtree.com](https://press.lendingtree.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Loan Officer Reviews | Find a Loan Officer Near You | LendingTree
- - [https://reviews.lendingtree.com](https://reviews.lendingtree.com)
- - date_published: 2024-06-21T03:09:13+00:00
-
- ## LendingTree
- - [https://spring.lendingtree.com](https://spring.lendingtree.com)
- - date_published: 2024-05-04T12:15:40.456089+00:00
-
- ## LendingTree: You Win
- - [https://www.lendingtree.com](https://www.lendingtree.com)
- - date_published: 2023-10-25T15:44:50.204528+00:00
-
- ## Navy Federal Credit Union - Private Student Loans - LendKey
- - [https://navyfederal.lendkey.com](https://navyfederal.lendkey.com)
- - date_published: 2024-06-16T12:33:17.126030+00:00
-
- ## Australia Home | Lendlease
- - [https://lendlease.com](https://lendlease.com)
- - date_published: 2024-07-08T10:14:52.004169+00:00
-
- ## Lene Saile
- - [https://lenesaile.com](https://lenesaile.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## LENET | IT Support for Businesses | Cloud Support Management
- - [http://lenet.com](http://lenet.com)
- - date_published: 2024-07-16T05:14:18+00:00
-
- ## A Very Jason Lengstorf Website — Powered By Boops!
- - [https://lengstorf.com](https://lengstorf.com)
- - date_published: 2024-05-06T13:28:49.480107+00:00
- - tags: ['personal', 'interesting page design']
-
- ## Le Nguyen Academy
- - [https://www.lenguyenacademy.com](https://www.lenguyenacademy.com)
- - date_published: 2024-06-23T17:02:52.082129+00:00
-
- ## Home | LennarDigital
- - [https://www.lennardigital.com](https://www.lennardigital.com)
- - date_published: 2024-06-29T21:09:23.222262+00:00
-
- ## Lenny Bruno Farms
- - [https://lennybrunofarms.com](https://lennybrunofarms.com)
- - date_published: 2024-07-19T03:25:46.347681+00:00
-
- ## Lenny Gale
- - [https://lennygale.com](https://lennygale.com)
- - date_published: 2024-01-09T08:54:46.549587+00:00
- - tags: ['personal']
-
- ## Lenny Leiter
- - [http://lennyleiter.com](http://lennyleiter.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Lenny Rachitsky
- - [https://www.lennyrachitsky.com](https://www.lennyrachitsky.com)
- - date_published: 2024-05-06T14:12:44.337922+00:00
-
- ## Hiring with Lenny's Talent Team
- - [https://www.lennysjobs.com](https://www.lennysjobs.com)
- - date_published: 2024-06-23T10:55:36.876969+00:00
-
- ## Lenny's Newsletter | Lenny Rachitsky | Substack
- - [https://www.lennysnewsletter.com](https://www.lennysnewsletter.com)
- - date_published: 2023-10-25T09:40:14.932048+00:00
- - tags: ['substack']
-
- ## Lenny's Podcast
- - [https://lennyspodcast.com](https://lennyspodcast.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Lenos
- - [https://lenos.com](https://lenos.com)
- - date_published: 2024-07-03T18:19:32.522607+00:00
-
- ## Home - Data Center Support - Lenovo Support PL
- - [https://datacentersupport.lenovo.com](https://datacentersupport.lenovo.com)
- - date_published: 2024-05-04T12:17:11.882480+00:00
-
- ## LenovoEDU Community - Connecting Students with Education Technology
- - [https://education.lenovo.com](https://education.lenovo.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## English Community-Lenovo Community
- - [https://forums.lenovo.com](https://forums.lenovo.com)
- - date_published: 2024-05-04T12:16:41.646163+00:00
-
- ## Investor Relations | Lenovo
- - [https://investor.lenovo.com](https://investor.lenovo.com)
- - date_published: 2024-05-04T12:16:48.563143+00:00
-
- ## Jobs at Lenovo
- - [https://jobs.lenovo.com](https://jobs.lenovo.com)
- - date_published: 2024-05-04T12:16:51.375314+00:00
-
- ## Document
- - [https://knola.lenovo.com](https://knola.lenovo.com)
- - date_published: 2021-11-16T00:00:00+00:00
-
- ## Oficjalna witryna Lenovo® | Laptopy, tablety, komputery, urządzenia inteligentne, telefony i Data Center
- - [https://lenovo.com](https://lenovo.com)
- - date_published: 2024-03-12T00:00:00+00:00
- - tags: ['company']
-
- ## Home - Mobile Support - Lenovo Support PL
- - [https://lenovomobilesupport.lenovo.com](https://lenovomobilesupport.lenovo.com)
- - date_published: 2024-06-21T11:20:42.340523+00:00
 

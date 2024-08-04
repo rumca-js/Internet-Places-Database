@@ -1,3 +1,190 @@
+ ## https://lib.jasperplayer.com
+ - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
+ - date_published: 2023-12-12T08:41:31.534121+00:00
+
+ ## Home
+ - [https://community.jaspersoft.com](https://community.jaspersoft.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Embedded Analytics & Reporting Platform | Jaspersoft
+ - [https://jaspersoft.com](https://jaspersoft.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Santam Switch
+ - [https://jasure.com](https://jasure.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## The global hub for automotive market intelligence and analysis
+ - [https://jato.com](https://jato.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ - [https://java.com](https://java.com)
+ - date_published: 2024-07-08T11:53:26+00:00
+ - tags: ['programming language']
+
+ ## Welcome To The Java Advent Calendar - JVM Advent
+ - [https://www.javaadvent.com](https://www.javaadvent.com)
+ - date_published: 2023-10-25T15:27:22.352791+00:00
+
+ ## Best Programming Online Video Courses - Java Code Geeks
+ - [https://courses.javacodegeeks.com](https://courses.javacodegeeks.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Java Code Geeks Deals
+ - [https://deals.javacodegeeks.com](https://deals.javacodegeeks.com)
+ - date_published: 2024-06-22T07:45:55.201779+00:00
+
+ ## Java Code Geeks
+ - [https://examples.javacodegeeks.com](https://examples.javacodegeeks.com)
+ - date_published: 2024-06-22T07:45:57.625003+00:00
+
+ ## Java Code Geeks
+ - [https://www.javacodegeeks.com](https://www.javacodegeeks.com)
+ - date_published: 2024-05-04T15:13:09.078434+00:00
+
+ ## Explore, Learn, and Master Industry-Standard Patterns
+ - [https://java-design-patterns.com](https://java-design-patterns.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## The Java GUI programming resources and its open source friends - PHP, Apache, MySQL database, Java GUI, Java visual web applications, NetBeans IDE etc
+ - [https://www.javaguicodexample.com](https://www.javaguicodexample.com)
+ - date_published: 2019-01-29T01:55:30+00:00
+
+ ## Java House | Home
+ - [https://www.javahouseafrica.com](https://www.javahouseafrica.com)
+ - date_published: 2024-07-15T07:16:13.452927+00:00
+
+ ## Javal Nanda
+ - [https://javalnanda.com](https://javalnanda.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Javamex: Java tutorials and performance information
+ - [https://www.javamex.com](https://www.javamex.com)
+ - date_published: 2021-01-20T20:37:24+00:00
+
+ ## Java Playground
+ - [https://java-playground.com](https://java-playground.com)
+ - date_published: 2023-10-25T15:27:20.226781+00:00
+ - tags: ['online tool']
+
+ ## JavaRanch - A friendly Place for Java Greenhorns
+ - [https://javaranch.com](https://javaranch.com)
+ - date_published: 2024-07-15T11:41:03.595164+00:00
+
+ ## Learn JavaScript Online - Courses for Beginners - javascript.com
+ - [https://javascript.com](https://javascript.com)
+ - date_published: 2024-05-11T10:37:40.785662+00:00
+ - tags: ['tutorials', 'javascript']
+
+ ## JavaScript 30
+ - [https://javascript30.com](https://javascript30.com)
+ - date_published: 2024-05-06T13:27:07.461781+00:00
+
+ ## JavaScript Air | Kent C. Dodds
+ - [http://audio.javascriptair.com](http://audio.javascriptair.com)
+ - date_published: 2024-07-14T11:15:54.386498+00:00
+
+ ## ‎JavaScript Air on Apple Podcasts
+ - [http://itunes.javascriptair.com](http://itunes.javascriptair.com)
+ - date_published: 2024-07-14T11:10:49.924426+00:00
+
+ ## JavaScript Air
+ - [https://javascriptair.com](https://javascriptair.com)
+ - date_published: 2016-11-02T00:00:00+00:00
+
+ ## Suggest a JavaScript Air Topic/Guest
+ - [http://suggest.javascriptair.com](http://suggest.javascriptair.com)
+ - date_published: 2024-07-14T11:10:51.835403+00:00
+
+ ## Before you continue to YouTube
+ - [http://video.javascriptair.com](http://video.javascriptair.com)
+ - date_published: 2024-07-14T11:15:52.301230+00:00
+
+ ## Formation JavaScript de Zéro
+ - [https://www.javascriptdezero.com](https://www.javascriptdezero.com)
+ - date_published: 2024-07-14T10:18:56.383188+00:00
+
+ ## JavaScript-FX
+ - [http://www.javascript-fx.com](http://www.javascript-fx.com)
+ - date_published: 2024-06-02T10:52:55.124103+00:00
+
+ ## JavaScript Jam, a podcast/community for JS developers
+ - [https://javascriptjam.com](https://javascriptjam.com)
+ - date_published: 2024-06-23T01:32:21.825216+00:00
+
+ ## JavaScriptLandia
+ - [https://javascriptlandia.com](https://javascriptlandia.com)
+ - date_published: 2023-10-02T00:22:47+00:00
+
+ ## JavaScriptMN
+ - [https://javascriptmn.com](https://javascriptmn.com)
+ - date_published: 2024-06-27T01:37:28+00:00
+
+ ## donejs - donejs
+ - [https://javascriptmvc.com](https://javascriptmvc.com)
+ - date_published: 2019-10-18T14:53:30+00:00
+
+ - [https://javascriptobfuscator.com](https://javascriptobfuscator.com)
+ - date_published: 2024-05-24T09:12:33+00:00
+ - tags: ['programming', 'obfuscator', 'javascript']
+
+ ## 🎰 Mostbet: التسجيل والمكافآت للاعبين من المغرب 🇲🇦
+ - [http://www.javascript-page.com](http://www.javascript-page.com)
+ - date_published: 2024-06-23T18:30:32.860390+00:00
+
+ ## Blog - Jack Franklin
+ - [http://javascriptplayground.com](http://javascriptplayground.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## JavaScript Podcast
+ - [https://javascript-podcast.com](https://javascript-podcast.com)
+ - date_published: 2024-06-22T23:47:36.810668+00:00
+
+ ## JavaScript Quiz
+ - [https://javascriptquiz.com](https://javascriptquiz.com)
+ - date_published: 2020-08-23T00:00:00+00:00
+
+ ## JavaScript Today Blog
+ - [https://blog.javascripttoday.com](https://blog.javascripttoday.com)
+ - date_published: 2024-06-22T05:34:28.048411+00:00
+
+ ## JavaScript Weekly: The JavaScript Email Newsletter
+ - [https://javascriptweekly.com](https://javascriptweekly.com)
+ - date_published: 2024-05-06T13:16:45.637438+00:00
+ - tags: ['javascript', 'tech news']
+
+ ## NYJavaSIG
+ - [https://www.javasig.com](https://www.javasig.com)
+ - date_published: 2024-07-01T05:18:52.498166+00:00
+
+ ## Tutorials - Javatpoint
+ - [https://www.javatpoint.com](https://www.javatpoint.com)
+ - date_published: 2024-07-21T02:06:59.957565+00:00
+
+ ## Java Software Development Tutorials and Videos
+ - [https://www.java-tv.com](https://www.java-tv.com)
+ - date_published: 2024-06-16T12:32:52+00:00
+
+ ## Java information, news, and how-to advice
+ - [https://www.javaworld.com](https://www.javaworld.com)
+ - date_published: 2024-07-09T12:16:18.662986+00:00
+
+ ## Age Verification JavBus - JavBus
+ - [https://www.javbus.com](https://www.javbus.com)
+ - date_published: 2024-06-23T18:01:15.701030+00:00
+
+ ## Jávea.com - Actualidad y Noticias en Xàbia
+ - [https://www.javea.com](https://www.javea.com)
+ - date_published: 2019-12-13T10:41:02+00:00
+
+ ## Javelin Strategy & Research | Experts in Digital Financial Advisory Services
+ - [https://javelinstrategy.com](https://javelinstrategy.com)
+ - date_published: 2024-05-09T04:34:10.108237+00:00
+
+ ## Tiquetes baratos, hoteles y paquetes turísticos en línea
+ - [https://www.javeturismo.com](https://www.javeturismo.com)
+ - date_published: 2024-06-12T03:19:45.722944+00:00
+
  ## javideveloper_
  - [http://javideveloper.com](http://javideveloper.com)
  - date_published: 2024-06-19T04:35:56.751167+00:00
@@ -100,10 +287,6 @@
  ## jaydinitto.com | I write stories about otherworldly wonders.
  - [https://jaydinitto.com](https://jaydinitto.com)
  - date_published: 2024-07-29T04:30:02.700777+00:00
-
- ## jaydinitto.com | I write stories about otherworldly wonders.
- - [https://www.jaydinitto.com](https://www.jaydinitto.com)
- - date_published: 2023-11-29T15:45:37.063935+00:00
  - tags: ['personal']
 
  ## Jay Fields' Thoughts
@@ -1601,7 +1784,7 @@
  - tags: ['personal']
 
  ## JeremyJahns.com
- - [http://www.jeremyjahns.com](http://www.jeremyjahns.com)
+ - [http://jeremyjahns.com](http://jeremyjahns.com)
  - date_published: 2024-03-02T09:28:58+00:00
  - tags: ['movies']
 
@@ -3011,6 +3194,10 @@
  - [https://us.jkp.com](https://us.jkp.com)
  - date_published: 2024-07-20T18:06:54.152491+00:00
 
+ ## Home of JKP Application Development Services, Excel consultant
+ - [http://www.jkp-ads.com](http://www.jkp-ads.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
  ## Home - J.K. Rowling
  - [https://jkrowling.com](https://jkrowling.com)
  - date_published: 2024-06-21T18:28:12+00:00
@@ -3913,191 +4100,4 @@
  ## Jo Freeman: Feminist Scholar and Author
  - [https://www.jofreeman.com](https://www.jofreeman.com)
  - date_published: 2024-01-09T02:40:43.568798+00:00
-
- ## O2 Joggler Forum - Index page
- - [https://www.jogglerwiki.com](https://www.jogglerwiki.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Show HN: I made a split keyboard for large palms
- - [https://jogmekeebs.com](https://jogmekeebs.com)
- - date_published: 2024-07-04T07:11:29+00:00
-
- ## Jogos de apostas » Como jogar e bônus exclusivos!
- - [https://jogosdeapostas.com](https://jogosdeapostas.com)
- - date_published: 2024-07-15T11:43:22+00:00
-
- ## Hacker indépendant
- - [https://johackim.com](https://johackim.com)
- - date_published: 2024-05-09T08:18:30.004288+00:00
-
- ## Design & Code &c – Johan Ahlbäck
- - [http://johanahlback.com](http://johanahlback.com)
- - date_published: 2021-10-03T09:35:52+00:00
-
- ## Johan
- - [http://johanbrook.com](http://johanbrook.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Johan Friedner | Portfolio
- - [https://johanfriedner.com](https://johanfriedner.com)
- - date_published: 2023-12-15T21:23:21+00:00
-
- ## Johanna Öst – Paintings, prints, comics etc.
- - [https://johannaost.com](https://johannaost.com)
- - date_published: 2024-07-14T08:47:58.216278+00:00
-
- ## Website Johannes Brandl
- - [https://www.johannesbrandl.com](https://www.johannesbrandl.com)
- - date_published: 2023-08-10T00:00:00+00:00
-
- ## Johannes Haage
- - [https://www.johanneshaage.com](https://www.johanneshaage.com)
- - date_published: 2024-01-10T23:53:13.723781+00:00
-
- ## Fontsampler WordPress plugin – Showcasing the Fontsampler WordPress plugin
- - [http://fontsampler.johannesneumeier.com](http://fontsampler.johannesneumeier.com)
- - date_published: 2024-06-29T11:56:25.137380+00:00
-
- ## Johannes T. Evans
- - [https://johannestevans.com](https://johannestevans.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## The artwork of Johan Potma
- - [https://johanpotma.com](https://johanpotma.com)
- - date_published: 1998-01-01T00:00:00+00:00
-
- ## Luxury Hotels, Spas and Villas - Condé Nast Johansens
- - [https://www.johansens.com](https://www.johansens.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Gift Shop Home - Condé Nast Johansens Gift Shop
- - [https://www.johansensguides.com](https://www.johansensguides.com)
- - date_published: 2024-06-18T07:20:16.870100+00:00
-
- ## Johan Tibell
- - [https://blog.johantibell.com](https://blog.johantibell.com)
- - date_published: 2024-03-14T10:23:59+00:00
-
- ## Johnathan at Limbo
- - [https://johnathanbi.com](https://johnathanbi.com)
- - date_published: 2023-10-25T15:30:08.552189+00:00
-
- ## Johnathan Nader
- - [https://johnathannader.com](https://johnathannader.com)
- - date_published: 2023-10-25T15:30:10.394938+00:00
-
- ## John August
- - [https://johnaugust.com](https://johnaugust.com)
- - date_published: 2024-04-28T01:59:49.733727+00:00
-
- ## John Balaban
- - [https://johnbalaban.com](https://johnbalaban.com)
- - date_published: 2024-05-07T10:44:28.152048+00:00
-
- ## John S. Baras
- - [https://johnbaras.com](https://johnbaras.com)
- - date_published: 2024-05-04T15:19:53.645932+00:00
-
- ## Bald Faced Truth by John Canzano | Substack
- - [https://www.johncanzano.com](https://www.johncanzano.com)
- - date_published: 2023-12-06T19:21:06.131877+00:00
-
- ## John Cleese Live Tour
- - [https://www.johncleeselive.com](https://www.johncleeselive.com)
- - date_published: 2023-10-30T10:56:21.749252+00:00
- - tags: ['comedy', 'satire']
-
- ## John Codeos | Blog with Free iOS & Android Development Tutorials
- - [https://johncodeos.com](https://johncodeos.com)
- - date_published: 2024-06-23T15:37:42.548186+00:00
-
- ## Triks dan Tips Bermain Slot Online Gampang Menang
- - [https://johncolemanblog.com](https://johncolemanblog.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## John Coleman Burroughs
- - [https://johncolemanburroughs.com](https://johncolemanburroughs.com)
- - date_published: 2016-06-14T02:01:57+00:00
-
- ## { john coulthart }
- - [https://www.johncoulthart.com](https://www.johncoulthart.com)
- - date_published: 2024-06-10T14:48:01+00:00
-
- ## John Cox Art
- - [http://www.johncoxart.com](http://www.johncoxart.com)
- - date_published: 2019-08-21T19:34:21+00:00
-
- ## Johnday's Blog
- - [https://www.johndayblog.com](https://www.johndayblog.com)
- - date_published: 2024-06-30T09:06:10+00:00
-
- ## Expert consulting in applied mathematics & data privacy
- - [https://johndcook.com](https://johndcook.com)
- - date_published: 2016-01-27T21:31:37+00:00
-
- ## John December johndecember.com Communications Media Photography Writing
- - [https://johndecember.com](https://johndecember.com)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## John Deere (johndeerecustomer.) - Sign In
- - [https://signin.johndeere.com](https://signin.johndeere.com)
- - date_published: 2024-06-15T21:10:09.280911+00:00
-
- ## The Furrow: Summer 2024
- - [http://johndeerefurrow.com](http://johndeerefurrow.com)
- - date_published: 2024-06-15T21:09:11.477328+00:00
-
- ## Shop.Deere.Com | Shop genuine John Deere parts & merchandise
- - [https://www.johndeerestore.com](https://www.johndeerestore.com)
- - date_published: 2024-06-15T21:10:24.092671+00:00
-
- ## John Deere - Technical Information Bookstore
- - [https://www.johndeeretechinfo.com](https://www.johndeeretechinfo.com)
- - date_published: 2024-05-01T04:31:38.994677+00:00
-
- ## John Derbyshire
- - [https://www.johnderbyshire.com](https://www.johnderbyshire.com)
- - date_published: 2024-06-22T01:19:13+00:00
-
- ## John Derian Company Inc
- - [http://www.johnderian.com](http://www.johnderian.com)
- - date_published: 2024-06-24T09:50:54.291073+00:00
-
- ## Work - John D. Nilles
- - [https://johndnilles.com](https://johndnilles.com)
- - date_published: 2024-04-10T04:34:52.841798+00:00
- - tags: ['personal', 'filmmaker']
-
- ## John Doherty
- - [https://www.johnfdoherty.com](https://www.johnfdoherty.com)
- - date_published: 2023-12-17T20:59:27.398614+00:00
- - tags: ['personal']
-
- ## John Fial – Software Engineer, Developer, Human
- - [https://www.johnfial.com](https://www.johnfial.com)
- - date_published: 2024-01-16T17:04:24.566102+00:00
-
- ## JOHN FRUSCIANTE
- - [https://www.johnfrusciante.com](https://www.johnfrusciante.com)
- - date_published: 2024-06-18T23:00:39.780354+00:00
-
- ## John Furey
- - [https://johnfurey.com](https://johnfurey.com)
- - date_published: 2024-07-04T06:06:40.047360+00:00
-
- ## John Garvens - Salesforce Revenue Cloud Expert & Salesforce Career Coach
- - [https://www.johngarvens.com](https://www.johngarvens.com)
- - date_published: 2024-01-02T03:35:31.713348+00:00
-
- ## John-George Sample | Software Engineer
- - [https://www.johngeorgesample.com](https://www.johngeorgesample.com)
- - date_published: 2024-06-23T06:02:25.094838+00:00
-
- ## Official Website - John Glashan, Artist and Cartoonist
- - [http://www.johnglashan.com](http://www.johnglashan.com)
- - date_published: 2024-06-28T13:53:05+00:00
-
- ## Invest, Insure, and Retire with John Hancock
- - [https://www.johnhancock.com](https://www.johnhancock.com)
- - date_published: 2024-06-18T19:01:57+00:00
 

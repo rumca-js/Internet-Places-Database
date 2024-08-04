@@ -1,3 +1,170 @@
+ ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
+ - [https://giorgiopretto.com](https://giorgiopretto.com)
+ - date_published: 2024-05-04T08:01:11.171591+00:00
+ - tags: ['personal']
+
+ ## Ultime notizie: news del giorno e ultim’ora | Giornalettismo
+ - [https://www.giornalettismo.com](https://www.giornalettismo.com)
+ - date_published: 2024-07-10T09:44:51.849068+00:00
+
+ ## Join us - giosg
+ - [https://careers.giosg.com](https://careers.giosg.com)
+ - date_published: 2024-06-25T23:09:35.067263+00:00
+
+ ## Welcome - Get started - Giosg for Developers
+ - [https://docs.giosg.com](https://docs.giosg.com)
+ - date_published: 2024-06-13T06:42:46+00:00
+
+ ## Log in | giosg
+ - [https://service.giosg.com](https://service.giosg.com)
+ - date_published: 1997-07-26T00:00:00+00:00
+
+ ## Help Center
+ - [https://support.giosg.com](https://support.giosg.com)
+ - date_published: 2024-06-21T07:22:51+00:00
+
+ ## Connect with Customers in Only Meaningful Interactions⼁giosg
+ - [https://www.giosg.com](https://www.giosg.com)
+ - date_published: 2024-05-06T18:03:15.080806+00:00
+
+ ## Log in | giosg
+ - [https://3305.clients.giosgusercontent.com](https://3305.clients.giosgusercontent.com)
+ - date_published: 1997-07-26T00:00:00+00:00
+
+ ## GioCities
+ - [https://blog.giovanh.com](https://blog.giovanh.com)
+ - date_published: 2023-10-25T14:44:19.226981+00:00
+
+ ## unofficial-homestuck-collection
+ - [https://homestuck.giovanh.com](https://homestuck.giovanh.com)
+ - date_published: 2024-05-04T08:01:14.141041+00:00
+
+ ## whoami
+ - [https://www.giovanniapruzzese.com](https://www.giovanniapruzzese.com)
+ - date_published: 2024-06-21T12:20:11+00:00
+
+ ## The most feature rich custom GPT directory available
+ - [https://gipeties.com](https://gipeties.com)
+ - date_published: 2024-07-13T09:15:20.028842+00:00
+
+ ## GIPHY - Be Animated
+ - [https://giphy.com](https://giphy.com)
+ - date_published: 2023-10-25T11:35:31.306073+00:00
+ - tags: ['memes', 'images']
+
+ ## GIPHY
+ - [https://support.giphy.com](https://support.giphy.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Ready Made Cocktails & Cocktail Gifts | Cocktails on Tap
+ - [http://giraffecocktails.com](http://giraffecocktails.com)
+ - date_published: 2024-06-18T07:43:48.680000+00:00
+
+ ## Giraffe Foods - Custom Sauces – Sauce Manufacturer
+ - [http://www.giraffefoods.com](http://www.giraffefoods.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## GIRAFFES? GIRAFFES!
+ - [http://www.giraffesgiraffes.com](http://www.giraffesgiraffes.com)
+ - date_published: 2024-06-22T21:42:21.467546+00:00
+
+ ## Home
+ - [https://www.giriman.com](https://www.giriman.com)
+ - date_published: 2024-05-04T15:29:55.405970+00:00
+
+ ## Free online girl games on Girl Games Now
+ - [http://www.girlgamesnow.com](http://www.girlgamesnow.com)
+ - date_published: 2024-03-13T18:14:13+00:00
+
+ ## Girl Genius Online Comics
+ - [https://www.girlgeniusonline.com](https://www.girlgeniusonline.com)
+ - date_published: 2024-04-28T02:55:46.207696+00:00
+
+ ## GirlieMac! Blog
+ - [https://girliemac.com](https://girliemac.com)
+ - date_published: 2021-09-22T23:49:57+00:00
+ - tags: ['personal']
+
+ ## Home - Girl On The Right
+ - [http://www.girlontheright.com](http://www.girlontheright.com)
+ - date_published: 2021-08-08T00:00:00+00:00
+
+ ## アニメ「ガールズバンドクライ」公式サイト
+ - [https://girls-band-cry.com](https://girls-band-cry.com)
+ - date_published: 2024-06-15T16:27:33+00:00
+
+ ## Girls games - Play free online games for girls at girlsgogames.com
+ - [https://www.girlsgogames.com](https://www.girlsgogames.com)
+ - date_published: 2024-07-20T02:43:16.276470+00:00
+
+ ## Welcome to Rebel's Guide to Project Management
+ - [https://www.girlsguidetopm.com](https://www.girlsguidetopm.com)
+ - date_published: 2021-12-20T05:16:32+00:00
+
+ ## Girls Make Games
+ - [https://www.girlsmakegames.com](https://www.girlsmakegames.com)
+ - date_published: 2024-07-08T08:43:45.702761+00:00
+
+ ## Home
+ - [https://girlswhocode.com](https://girlswhocode.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## HQ | Girls Who Code
+ - [https://hq.girlswhocode.com](https://hq.girlswhocode.com)
+ - date_published: 2024-06-18T07:43:05+00:00
+
+ ## Girls Who Code Girls
+ - [https://www.girlswhocodegirls.com](https://www.girlswhocodegirls.com)
+ - date_published: 2022-12-08T11:23:32+00:00
+
+ ## Girls Who Hack
+ - [https://girlswhohack.com](https://girlswhohack.com)
+ - date_published: 2024-01-22T09:45:12+00:00
+
+ ## Girls With Slingshots
+ - [http://www.girlswithslingshots.com](http://www.girlswithslingshots.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Giro Sport Design | Giro.com
+ - [https://www.giro.com](https://www.giro.com)
+ - date_published: 2024-06-15T11:59:47.785440+00:00
+
+ ## Gisgraphy leaflet geocoder plugin demo
+ - [https://services.gisgraphy.com](https://services.gisgraphy.com)
+ - date_published: 2024-06-20T12:17:07.702308+00:00
+
+ ## Home
+ - [https://gislounge.com](https://gislounge.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## GIS Management Consulting Services+
+ - [http://www.gismcs.com](http://www.gismcs.com)
+ - date_published: 2024-07-20T18:27:50.596847+00:00
+
+ ## Gisoku Budo - musings of an amputee martial artist
+ - [http://www.gisoku-budo.com](http://www.gisoku-budo.com)
+ - date_published: 2024-04-28T04:41:48.439487+00:00
+
+ ## World leader in online GIS data tools for economic development
+ - [https://www.gisplanning.com](https://www.gisplanning.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Gistdoc
+ - [https://gistdoc.com](https://gistdoc.com)
+ - date_published: 2024-07-20T00:04:28.214146+00:00
+
+ ## GIS user technology news
+ - [http://gisuser.com](http://gisuser.com)
+ - date_published: 2024-07-09T14:35:40.950392+00:00
+
+ ## DNS points to prohibited IP | git18n.com | Cloudflare
+ - [https://git18n.com](https://git18n.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Gitana : écurie de course au large fondée par le Baron Benjamin de Rothschild
+ - [http://www.gitana-team.com](http://www.gitana-team.com)
+ - date_published: 2024-06-17T12:26:40.116021+00:00
+
  ## Gitblit
  - [https://www.gitblit.com](https://www.gitblit.com)
  - date_published: 2022-12-19T20:28:47+00:00
@@ -446,6 +613,7 @@
  ## GitKraken Legendary Git Tools | GitKraken
  - [https://gitkraken.com](https://gitkraken.com)
  - date_published: 2024-07-02T00:00:00+00:00
+ - tags: ['git', 'project management', 'proprietary', 'monetization', 'subscription']
 
  ## GitKraken Help Center | Support & Documentation
  - [https://help.gitkraken.com](https://help.gitkraken.com)
@@ -3872,169 +4040,4 @@
  ## Unread: An RSS Reader
  - [https://www.goldenhillsoftware.com](https://www.goldenhillsoftware.com)
  - date_published: 2024-06-12T18:13:28+00:00
-
- ## オンラインカジノの概要
- - [http://www.goldenkudo.com](http://www.goldenkudo.com)
- - date_published: 2020-06-26T06:15:43+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.goldenpondwealth.com](https://www.goldenpondwealth.com)
- - date_published: 2024-07-12T22:57:44.744092+00:00
-
- ## Golden Retriever Guide | Golden Retriever Information
- - [http://www.golden-retriever-guide.com](http://www.golden-retriever-guide.com)
- - date_published: 2011-01-13T00:00:00+00:00
-
- ## Goldenslot: สล็อตออนไลน์ โบนัส 8% จากการฝากทุกครั้งหลังจากลงทะเบียน
- - [https://golden-slot.com](https://golden-slot.com)
- - date_published: 2024-06-10T10:48:03+00:00
-
- ## Golden Software | 2D & 3D Data Modeling and Mapping Software
- - [https://www.goldensoftware.com](https://www.goldensoftware.com)
- - date_published: 2021-12-13T21:12:01+00:00
-
- ## Locksmith Service | Golden State Lock & Safe Inc. | Burbank, CA
- - [https://goldenstatelock.com](https://goldenstatelock.com)
- - date_published: 2024-03-05T16:08:59.529274+00:00
-
- ## a Golden State Warriors community
- - [http://www.goldenstateofmind.com](http://www.goldenstateofmind.com)
- - date_published: 2024-04-29T02:05:21.211954+00:00
-
- ## Pop-Up Magazine: Love Stories
- - [http://goldenstaterecord.com](http://goldenstaterecord.com)
- - date_published: 2023-05-06T00:00:00+00:00
-
- ## Home :: Golden West Telecommunications
- - [http://www.goldenwest.com](http://www.goldenwest.com)
- - date_published: 2024-06-29T16:21:04.832646+00:00
-
- ## DevOps Solutions | Agile Solutions | Goldfinger Holdings, Inc.
- - [https://www.goldfingerholdings.com](https://www.goldfingerholdings.com)
- - date_published: 2024-06-29T22:43:25.516813+00:00
-
- ## GoldFire Studios - Indie Game Developer
- - [https://goldfirestudios.com](https://goldfirestudios.com)
- - date_published: 2024-07-20T18:52:02.996789+00:00
-
- ## العاب جمع الذهب
- - [https://www.goldgamez.com](https://www.goldgamez.com)
- - date_published: 2024-06-15T08:22:28.543866+00:00
-
- ## Goldhawk Interactive
- - [https://www.goldhawkinteractive.com](https://www.goldhawkinteractive.com)
- - date_published: 2024-05-23T11:31:05+00:00
- - tags: ['xenonauts', 'video games']
-
- ## Goldin+Senneby
- - [https://goldinsenneby.com](https://goldinsenneby.com)
- - date_published: 2024-05-08T00:40:56.793663+00:00
-
- ## Submitting...
- - [https://www.goldman.com](https://www.goldman.com)
- - date_published: 2024-05-04T08:19:55.596987+00:00
-
- ## Denver Divorce Attorney - Goldman Law, LLC
- - [http://www.goldmanlaw303.com](http://www.goldmanlaw303.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Maitland Personal Injury Lawyer
- - [https://www.goldmanlawpa.com](https://www.goldmanlawpa.com)
- - date_published: 2024-06-24T03:10:20+00:00
-
- ## Goldman Sachs
- - [http://goldmansachs.com](http://goldmansachs.com)
- - date_published: 2024-07-06T19:19:33.425141+00:00
-
- ## Home
- - [https://privatewealth.goldmansachs.com](https://privatewealth.goldmansachs.com)
- - date_published: 2024-05-04T08:19:51.142071+00:00
-
- ## Goldman Sachs
- - [https://www.goldmansachs.com](https://www.goldmansachs.com)
- - date_published: 2023-10-25T11:29:34.688123+00:00
-
- ## Goldman Sachs BDC, Inc. Homepage
- - [https://www.goldmansachsbdc.com](https://www.goldmansachsbdc.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Goldmoney
- - [https://www.goldmoney.com](https://www.goldmoney.com)
- - date_published: 2024-06-19T10:43:20+00:00
-
- ## Goldmunds Welt
- - [https://www.goldmundswelt.com](https://www.goldmundswelt.com)
- - date_published: 2024-07-04T05:54:53+00:00
-
- ## GoldNerds - All the gold and silver companies on the ASX
- - [http://www.goldnerds.com](http://www.goldnerds.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Gold Peak - Real Brewed Tea Beverages | Coca-Cola US
- - [https://goldpeakbeverages.com](https://goldpeakbeverages.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## GoldPoster | Movie Posters and Trailers
- - [https://www.goldposter.com](https://www.goldposter.com)
- - date_published: 2024-06-29T18:04:07.661136+00:00
-
- ## Goldspot Pens: Fountain Pens, Inks and Notebooks
- - [https://goldspot.com](https://goldspot.com)
- - date_published: 2024-06-29T20:27:47.914639+00:00
-
- ## New and Used Cars and Trucks for sale near Victoria. Auto news and reviews – Goldstream News Gazette
- - [https://autos.goldstreamgazette.com](https://autos.goldstreamgazette.com)
- - date_published: 2024-06-29T11:43:34.805872+00:00
-
- ## Today's Home: Goldstream Real Estate
- - [https://homes.goldstreamgazette.com](https://homes.goldstreamgazette.com)
- - date_published: 2024-06-29T11:43:32.419685+00:00
-
- ## Welcome to the Goldstream News Gazette
- - [https://goldstreamgazette.com](https://goldstreamgazette.com)
- - date_published: 2024-05-07T10:43:14.493195+00:00
-
- ## Gold Tone Musical Instruments
- - [https://goldtone.com](https://goldtone.com)
- - date_published: 2024-07-22T12:29:21.189392+00:00
-
- ## Gold Tone Music Group
- - [https://goldtonemusicgroup.com](https://goldtonemusicgroup.com)
- - date_published: 2024-04-30T02:02:29.323224+00:00
-
- ## Sana Creative Studio - Northland Web, Graphic Design, Marketing
- - [http://www.goldtreedesign.com](http://www.goldtreedesign.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Goldwin Official Website - Europe
- - [https://www.goldwin-global.com](https://www.goldwin-global.com)
- - date_published: 2024-07-13T16:28:36.163925+00:00
-
- ## Go Leeward - Speakers Who Educate, Motivate & Inspire
- - [https://goleeward.com](https://goleeward.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Manage Projects Easily - Simple & powerful | Goleko.com
- - [https://goleko.com](https://goleko.com)
- - date_published: 2024-07-04T07:16:30+00:00
-
- ## Kontaktní formulář pro hlášení HAVARIJNÍ SITUACE
- - [https://error.golemos.com](https://error.golemos.com)
- - date_published: 2024-07-01T10:12:45.851874+00:00
-
- ## Homepage New
- - [https://golf.com](https://golf.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Golf Betting Masters
- - [https://golfbettingmasters.com](https://golfbettingmasters.com)
- - date_published: 2024-05-12T05:32:15.997286+00:00
-
- ## Davenport Golf | Davenport, IA
- - [http://www.golfdavenport.com](http://www.golfdavenport.com)
- - date_published: 2024-07-14T15:17:57+00:00
-
- ## Welcome to the Complete Golf Digest Archive
- - [https://archive.golfdigest.com](https://archive.golfdigest.com)
- - date_published: 2024-06-29T15:39:33.835607+00:00
 

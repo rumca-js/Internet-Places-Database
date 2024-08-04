@@ -1,3 +1,19 @@
+ ## Mais Novela
+ - [https://maisnovela.com.br](https://maisnovela.com.br)
+ - date_published: 2024-07-11T17:33:20.706587+00:00
+
+ ## Home - Manequim
+ - [https://manequim.com.br](https://manequim.com.br)
+ - date_published: 2024-07-11T17:33:24.129126+00:00
+
+ ## Mapa Múndi Blog
+ - [http://www.mapamundiblog.com.br](http://www.mapamundiblog.com.br)
+ - date_published: 2024-07-03T23:08:24+00:00
+
+ ## Márcia Piovesan - Home
+ - [https://marciapiovesan.com.br](https://marciapiovesan.com.br)
+ - date_published: 2024-07-11T17:33:17.337170+00:00
+
  ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
  - [https://www.marykay.com.br](https://www.marykay.com.br)
  - date_published: 2024-06-30T09:56:12.642405+00:00
@@ -543,10 +559,6 @@
  ## Slackjeff ☠️
  - [https://slackjeff.com.br](https://slackjeff.com.br)
  - date_published: 2024-06-03T11:26:38+00:00
-
- ## Aurora Store
- - [https://aurora-store.softonic.com.br](https://aurora-store.softonic.com.br)
- - date_published: 2024-04-29T05:13:25.623250+00:00
 
  ## Notícias e análises de app, os melhores downloads - Softonic
  - [https://www.softonic.com.br](https://www.softonic.com.br)
@@ -4010,16 +4022,4 @@
  ## CNMC - Le Conseil national des musulmans Canadiens
  - [https://cnmc.ca](https://cnmc.ca)
  - date_published: 2024-06-13T17:07:16+00:00
-
- ## Town of Cochrane
- - [https://www.cochrane.ca](https://www.cochrane.ca)
- - date_published: 2024-06-27T09:00:11+00:00
-
- ## Cochrane News - Daily Local News for Cochrane, Alberta
- - [https://www.cochraneeagle.ca](https://www.cochraneeagle.ca)
- - date_published: 2024-04-28T05:10:01.422489+00:00
-
- ## Cochrane News - Daily Local News for Cochrane, Alberta
- - [https://www.cochranetoday.ca](https://www.cochranetoday.ca)
- - date_published: 2024-05-06T00:00:00+00:00
 

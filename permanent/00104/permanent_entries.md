@@ -1,3 +1,213 @@
+ ## minidisct.com
+ - [http://www.minidisct.com](http://www.minidisct.com)
+ - date_published: 2024-07-06T20:52:31.498922+00:00
+
+ ## Minify JavaScript - Free JavaScript Compressor
+ - [https://minifyjavascript.com](https://minifyjavascript.com)
+ - date_published: 2018-10-14T18:48:16+00:00
+
+ ## mini-itx.com - news
+ - [https://www.mini-itx.com](https://www.mini-itx.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Mini JS
+ - [https://mini-js.com](https://mini-js.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Mini: The Minimal Language
+ - [https://minilanguage.com](https://minilanguage.com)
+ - date_published: 2023-10-25T16:04:29.104260+00:00
+
+ ## minimal changes
+ - [https://minimalchanges.com](https://minimalchanges.com)
+ - date_published: 2023-10-20T00:00:00+00:00
+
+ ## minimal hn
+ - [http://minimalhn.com](http://minimalhn.com)
+ - date_published: 2018-05-07T22:38:25+00:00
+
+ ## Minimalism Life - Crafting a simpler life with less
+ - [https://minimalism.com](https://minimalism.com)
+ - date_published: 2024-04-29T06:00:29.283782+00:00
+
+ ## Minimalissimo – Minimalism in Design
+ - [https://minimalissimo.com](https://minimalissimo.com)
+ - date_published: 2024-04-29T06:00:31.208891+00:00
+
+ ## minimalist phone - reduce your screen time
+ - [https://www.minimalistphone.com](https://www.minimalistphone.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Minimates Central
+ - [http://minimatescentral.com](http://minimatescentral.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Minima pixel font | Minimatype
+ - [http://minimatype.com](http://minimatype.com)
+ - date_published: 2020-01-06T19:51:55+00:00
+
+ ## Max Woolf's Blog
+ - [https://minimaxir.com](https://minimaxir.com)
+ - date_published: 2023-10-25T16:04:30.326063+00:00
+
+ ## Mini Misfits
+ - [https://minimisfits.com](https://minimisfits.com)
+ - date_published: 2024-05-01T02:17:10.431139+00:00
+
+ ## Mini Moog Factory
+ - [https://minimoogmodeld.com](https://minimoogmodeld.com)
+ - date_published: 2024-07-09T10:15:50.863906+00:00
+
+ ## Home | Minimum
+ - [https://www.minimum.com](https://www.minimum.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Minimum Competence - Daily Legal News Podcast | Andrew Leahey 🦣 | Substack
+ - [https://www.minimumcomp.com](https://www.minimumcomp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## MINING.COM - No 1 source of global mining news and opinion
+ - [https://www.mining.com](https://www.mining.com)
+ - date_published: 2023-10-25T16:04:41.697139+00:00
+
+ ## Home
+ - [https://www.mining-technology.com](https://www.mining-technology.com)
+ - date_published: 2024-04-28T05:11:18.487039+00:00
+
+ ## Mining the Social Web
+ - [http://miningthesocialweb.com](http://miningthesocialweb.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Minion Masters Official Game Site
+ - [https://minionmastersthegame.com](https://minionmastersthegame.com)
+ - date_published: 2024-04-26T09:11:00+00:00
+
+ ## Blog • miniOrange
+ - [https://blog.miniorange.com](https://blog.miniorange.com)
+ - date_published: 2024-07-18T06:28:56.425458+00:00
+
+ ## Never miss out on the latest events by staying connected with us
+ - [https://events.miniorange.com](https://events.miniorange.com)
+ - date_published: 2024-07-18T06:29:07.193530+00:00
+
+ ## Frequently Asked Questions - Knowledge Base - miniOrange
+ - [https://faq.miniorange.com](https://faq.miniorange.com)
+ - date_published: 2024-07-18T06:29:06.189499+00:00
+
+ ## miniOrange forum - Community forum
+ - [https://forum.miniorange.com](https://forum.miniorange.com)
+ - date_published: 2019-03-13T00:00:00+00:00
+
+ ## Identity and Access Management
+ - [https://idp.miniorange.com](https://idp.miniorange.com)
+ - date_published: 2024-07-18T06:28:53.337493+00:00
+
+ ## miniOrange - Secure It Right
+ - [http://miniorange.com](http://miniorange.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Single sign on (SSO) | 2FA | Social Login | Plugins
+ - [https://plugins.miniorange.com](https://plugins.miniorange.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## miniOrange - Secure It Right
+ - [https://www.miniorange.com](https://www.miniorange.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## NO BULLSHIT TEXTBOOKS
+ - [https://minireference.com](https://minireference.com)
+ - date_published: 2024-06-01T04:51:15.845032+00:00
+ - tags: ['book']
+
+ ## MinisBarter.com - Miniature wargaming marketplace
+ - [https://minisbarter.com](https://minisbarter.com)
+ - date_published: 2023-10-25T11:11:29.320355+00:00
+ - tags: ['tabletop games', 'digital marketplace']
+
+ ## minisforum
+ - [https://minisforum.com](https://minisforum.com)
+ - date_published: 2024-05-20T18:30:58+00:00
+
+ ## Official Refurbished Minisforum
+ - [https://refurbished.minisforum.com](https://refurbished.minisforum.com)
+ - date_published: 2024-07-20T15:15:41.953783+00:00
+
+ ## Minisforum
+ - [https://store.minisforum.com](https://store.minisforum.com)
+ - date_published: 2024-05-20T09:39:29.044773+00:00
+
+ ## MinisGallery
+ - [https://minisgallery.com](https://minisgallery.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## minisocial
+ - [https://minisocial.com](https://minisocial.com)
+ - date_published: 2024-07-09T19:03:44.514098+00:00
+
+ ## Ministry of Testing
+ - [https://www.ministryoftesting.com](https://www.ministryoftesting.com)
+ - date_published: 2024-07-02T20:31:14.407404+00:00
+
+ ## Church Volunteer Scheduling Software | Ministry Scheduler Pro
+ - [https://ministryschedulerpro.com](https://ministryschedulerpro.com)
+ - date_published: 2024-07-01T20:41:51.950112+00:00
+
+ ## Minitab Blog
+ - [https://blog.minitab.com](https://blog.minitab.com)
+ - date_published: 2024-06-16T03:34:20+00:00
+
+ ## Data Analysis, Statistical & Process Improvement Tools | Minitab
+ - [https://info.minitab.com](https://info.minitab.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Data Analysis, Statistical & Process Improvement Tools | Minitab
+ - [https://it.minitab.com](https://it.minitab.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Data Analysis, Statistical & Process Improvement Tools | Minitab
+ - [https://www.minitab.com](https://www.minitab.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Mini Tokyo 3D
+ - [https://minitokyo3d.com](https://minitokyo3d.com)
+ - date_published: 2023-10-25T08:25:12.186869+00:00
+
+ ## MiniTool Software | One-stop Solution for Disk Management, Data Care, and Video Editing
+ - [https://www.minitool.com](https://www.minitool.com)
+ - date_published: 2024-06-17T17:52:14+00:00
+
+ ## Animal reproduction technologies  | Minitube
+ - [https://www.minitube.com](https://www.minitube.com)
+ - date_published: 2023-11-27T13:33:12+00:00
+
+ ## Home
+ - [http://content.miniwargaming.com](http://content.miniwargaming.com)
+ - date_published: 2024-06-18T09:43:28.372666+00:00
+
+ ## MiniWarGaming - Warhammer 40K | Age of Sigmar | Battle Reports | Narrative Campaigns
+ - [https://miniwargaming.com](https://miniwargaming.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The MiniWarGaming Forge - 3D Printed Miniatures and Terrain
+ - [https://miniwargamingforge.com](https://miniwargamingforge.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Elements of AI for Business
+ - [https://www.minnalearn.com](https://www.minnalearn.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Minna Leunig
+ - [http://www.minnaleunig.com](http://www.minnaleunig.com)
+ - date_published: 2024-07-04T03:37:03.941676+00:00
+
+ ## Minneapolis Towing and Roadside Assistance - Emergency - 24/7 - Truck
+ - [https://minneapolistowingmn.com](https://minneapolistowingmn.com)
+ - date_published: 2017-07-22T12:11:38+00:00
+
+ ## Connect one on one with experts on Minnect
+ - [https://app.minnect.com](https://app.minnect.com)
+ - date_published: 2024-07-03T18:35:14.263814+00:00
+
  ## Minnesota Brown
  - [http://minnesotabrown.com](http://minnesotabrown.com)
  - date_published: 2024-07-09T20:26:09.373153+00:00
@@ -548,7 +758,7 @@
  ## Miro | The Visual Workspace for Innovation
  - [https://miro.com](https://miro.com)
  - date_published: 2024-02-14T21:45:05+00:00
- - tags: ['project management']
+ - tags: ['online tool', 'project management']
 
  ## Miro Status
  - [https://status.miro.com](https://status.miro.com)
@@ -3387,6 +3597,7 @@ MLB Auctions
  ## monday.com | A new way of working
  - [https://monday.com](https://monday.com)
  - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['project management']
 
  ## monday.com Status
  - [https://status.monday.com](https://status.monday.com)
@@ -3832,214 +4043,4 @@ MLB Auctions
  ## Thu Nguyen-Phuoc - Work
  - [https://www.monkeyoverflow.com](https://www.monkeyoverflow.com)
  - date_published: 2024-06-22T07:32:12.880211+00:00
-
- ## Welcome to monkeypolice.com - the website of a visual designer
- - [http://monkeypolice.com](http://monkeypolice.com)
- - date_published: 2020-11-17T13:10:10+00:00
-
- ## Monkey's Audio - a fast and powerful lossless audio compressor
- - [https://monkeysaudio.com](https://monkeysaudio.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home | MonkeySoft Solutions
- - [https://monkeysoftsolutions.com](https://monkeysoftsolutions.com)
- - date_published: 2024-04-29T02:19:06.344721+00:00
-
- ## Honeybees Home
- - [https://mdahmus.monkeysystems.com](https://mdahmus.monkeysystems.com)
- - date_published: 2023-10-26T08:46:58+00:00
-
- ## Monkey Theatre | Agenzia di comunicazione
- - [https://www.monkey-theatre.com](https://www.monkey-theatre.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Monkeytype | A minimalistic, customizable typing test
- - [https://monkeytype.com](https://monkeytype.com)
- - date_published: 2024-07-03T15:35:42+00:00
-
- ## Michael Burkhardt’s Weblog
- - [https://mihobu.monkeywalk.com](https://mihobu.monkeywalk.com)
- - date_published: 2023-12-02T10:26:19.578888+00:00
- - tags: ['personal']
-
- ## Monkfield Reptile | Reptile and Livefood Wholesaler
- - [https://www.monkfieldreptile.com](https://www.monkfieldreptile.com)
- - date_published: 2024-06-24T05:22:31.534877+00:00
-
- ## Media.Monks
- - [https://media.monks.com](https://media.monks.com)
- - date_published: 2024-06-25T23:04:13+00:00
-
- ## Jobs at Monk's Hill Ventures Companies | Monk's Hill Ventures
- - [https://jobs.monkshill.com](https://jobs.monkshill.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Monk's Hill Ventures
- - [https://www.monkshill.com](https://www.monkshill.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Monnel Espiritu | When life gives you Le Mon. . .
- - [https://monnelespiritu.com](https://monnelespiritu.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Monochrome Watches | An Online Magazine Dedicated To Fine Watches
- - [https://monochrome-watches.com](https://monochrome-watches.com)
- - date_published: 2023-10-25T16:06:25.829565+00:00
- - tags: ['watchmaking', 'watches']
-
- ## MONOCHROME Watches Shop - The Online Store For Watch Accessories
- - [https://shop.monochrome-watches.com](https://shop.monochrome-watches.com)
- - date_published: 2024-06-27T06:00:57.522845+00:00
-
- ## Monocle Ipsum
- - [http://www.monocleipsum.com](http://www.monocleipsum.com)
- - date_published: 2024-06-26T07:18:28.799967+00:00
-
- ## MonoDevelop | MonoDevelop
- - [https://www.monodevelop.com](https://www.monodevelop.com)
- - date_published: 2023-10-25T16:06:27.432727+00:00
-
- ## Modular Productivity Tool for Creative Pros
- - [https://monogramcc.com](https://monogramcc.com)
- - date_published: 2024-05-02T12:50:34.181058+00:00
-
- ## Monogram Store - A modular, freeform Creative Console
- - [https://store.monogramcc.com](https://store.monogramcc.com)
- - date_published: 2024-06-18T12:41:12.698965+00:00
-
- ## Project Management Software for Architects and Engineers – Monograph
- - [https://monograph.com](https://monograph.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home
- - [https://monokai.com](https://monokai.com)
- - date_published: 2024-07-02T08:20:52+00:00
-
- ## IAM and Orchestration | Monokee
- - [https://monokee.com](https://monokee.com)
- - date_published: 2024-07-22T11:22:36.625232+00:00
-
- ## Monokh - Software, Tech, Web
- - [https://monokh.com](https://monokh.com)
- - date_published: 2021-07-25T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://careers.monolithgrowth.com](https://careers.monolithgrowth.com)
- - date_published: 2024-06-21T21:36:08.835562+00:00
-
- ## Monolith Growth Consulting | Growth Marketing Agency
- - [https://monolithgrowth.com](https://monolithgrowth.com)
- - date_published: 2023-06-29T00:00:00+00:00
-
- ## Monologue London | Online Store
- - [https://www.monologuelondon.com](https://www.monologuelondon.com)
- - date_published: 2024-07-24T08:00:11.978679+00:00
-
- ## MONOMYTO
- - [https://monomyto.com](https://monomyto.com)
- - date_published: 2024-05-12T06:56:44.429807+00:00
-
- ## Cierpliwości...
- - [http://monoprice.com](http://monoprice.com)
- - date_published: 2024-06-20T17:13:13.377536+00:00
-
- ## Home | Mono
- - [https://www.mono-project.com](https://www.mono-project.com)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## モノタロウ：採用情報：TOP
- - [https://recruit.monotaro.com](https://recruit.monotaro.com)
- - date_published: 2024-06-05T00:48:40+00:00
-
- ## Monotote Plugin
- - [https://plugin1.monotote.com](https://plugin1.monotote.com)
- - date_published: 2024-06-18T22:23:08+00:00
-
- ## Font & Technology Specialists | Monotype.
- - [https://cms-dev.monotype.com](https://cms-dev.monotype.com)
- - date_published: 2024-06-29T11:57:20+00:00
-
- ## Font & Technology Specialists | Monotype.
- - [https://cms-prod.monotype.com](https://cms-prod.monotype.com)
- - date_published: 2024-06-29T11:57:11+00:00
-
- ## Font Pairing Generator
- - [https://pairing.monotype.com](https://pairing.monotype.com)
- - date_published: 2023-02-14T03:15:00+00:00
-
- ## Monotype Fonts Help Center
- - [https://support.monotype.com](https://support.monotype.com)
- - date_published: 2024-06-29T11:57:38.385939+00:00
-
- ## Font & Technology Specialists | Monotype.
- - [https://monotype.com](https://monotype.com)
- - date_published: 2024-05-07T10:45:01.633359+00:00
-
- ## Monotype 모노타입 | 브랜드의 시작은 서체로부터
- - [https://kr.monotype-asia.com](https://kr.monotype-asia.com)
- - date_published: 2024-06-29T11:57:26.066606+00:00
-
- ## Monotype 蒙納丨你的品牌 從字體開始 | 全球領先字體技術、方案與授權服務
- - [https://zh.monotype-asia.com](https://zh.monotype-asia.com)
- - date_published: 2024-06-29T11:57:19.463071+00:00
-
- ## All-in-One Font Manager | Unlimited Fonts | Monotype Fonts
- - [https://www.monotypefonts.com](https://www.monotypefonts.com)
- - date_published: 2024-06-18T12:56:49.457726+00:00
-
- ## MonoVM: Premier Virtual Machine Hosting for Seamless Cloud Experience
- - [https://monovm.com](https://monovm.com)
- - date_published: 2018-12-20T09:18:13+00:00
-
- ## Exhaust Removal Systems | Monoxivent Source Capture
- - [https://monoxivent.com](https://monoxivent.com)
- - date_published: 2024-07-14T15:20:01.246499+00:00
-
- ## Monroe Evening News: Local News, Politics & Sports in Monroe, MI
- - [https://www.monroenews.com](https://www.monroenews.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## routage-en-ligne.com
- - [http://www.monroutage.com](http://www.monroutage.com)
- - date_published: 2022-10-03T07:39:34+00:00
-
- ## Home
- - [https://monseyscoop.com](https://monseyscoop.com)
- - date_published: 2024-05-06T17:28:04.634320+00:00
-
- ## Monsieur l’Agent
- - [http://www.monsieurlagent.com](http://www.monsieurlagent.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Monsta X Official Store
- - [https://shop.monstax-us.com](https://shop.monstax-us.com)
- - date_published: 2024-06-30T12:33:03.110970+00:00
-
- ## Home
- - [https://hiring.monster.com](https://hiring.monster.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Monster Jobs - Job Search, Career Advice & Hiring Resources | Monster.com
- - [https://www.monster.com](https://www.monster.com)
- - date_published: 2024-05-01T06:58:03.654099+00:00
-
- ## MOnSter 6502
- - [https://monster6502.com](https://monster6502.com)
- - date_published: 2023-10-25T16:06:28.942526+00:00
-
- ## Monster Breeder
- - [http://monsterbreeder.com](http://monsterbreeder.com)
- - date_published: 2018-11-08T18:05:06+00:00
-
- ## Login - OptinMonster App
- - [https://app.monstercampaigns.com](https://app.monstercampaigns.com)
- - date_published: 2024-04-28T06:07:27.283435+00:00
-
- ## Monstercat
- - [https://www.monstercat.com](https://www.monstercat.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Monster Energy | Napoje energetyczne, kawa, herbata i soki
- - [http://www.monsterenergy.com](http://www.monsterenergy.com)
- - date_published: 2024-06-17T09:23:20.916562+00:00
 

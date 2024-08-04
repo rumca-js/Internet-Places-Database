@@ -1,3 +1,15 @@
+ ## Town of Cochrane
+ - [https://www.cochrane.ca](https://www.cochrane.ca)
+ - date_published: 2024-06-27T09:00:11+00:00
+
+ ## Cochrane News - Daily Local News for Cochrane, Alberta
+ - [https://www.cochraneeagle.ca](https://www.cochraneeagle.ca)
+ - date_published: 2024-04-28T05:10:01.422489+00:00
+
+ ## Cochrane News - Daily Local News for Cochrane, Alberta
+ - [https://www.cochranetoday.ca](https://www.cochranetoday.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Cocoon | Tailored for you
  - [https://www.cocoonapp.ca](https://www.cocoonapp.ca)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -3542,6 +3554,10 @@
  - [https://polarismusicprize.ca](https://polarismusicprize.ca)
  - date_published: 2024-06-12T00:00:00+00:00
 
+ ## | Canadian Centre for Policy Alternatives
+ - [https://www.policyalternatives.ca](https://www.policyalternatives.ca)
+ - date_published: 2024-08-02T18:01:09.429086+00:00
+
  ## The School of Public Policy
  - [https://www.policyschool.ca](https://www.policyschool.ca)
  - date_published: 2016-02-15T19:05:29+00:00
@@ -4033,20 +4049,4 @@
  ## Policies, procedures, guidelines, directives & bylaws | Royal Roads University
  - [https://policies.royalroads.ca](https://policies.royalroads.ca)
  - date_published: 2024-06-15T02:17:31+00:00
-
- ## Home | Royal Roads University
- - [https://www.royalroads.ca](https://www.royalroads.ca)
- - date_published: 2024-05-01T07:10:49.520351+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.rsagroup.ca](https://www.rsagroup.ca)
- - date_published: 2024-07-11T17:16:06.458418+00:00
-
- ## The Royal Society of Canada
- - [https://rsc-src.ca](https://rsc-src.ca)
- - date_published: 2024-04-30T05:11:46.408983+00:00
-
- ## RSEQ - Sport.Éducation.Fierté
- - [http://www.rseq.ca](http://www.rseq.ca)
- - date_published: 2024-07-21T08:25:51.903526+00:00
 

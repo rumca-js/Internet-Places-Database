@@ -1,3 +1,7 @@
+ ## ficc.ai
+ - [https://pricing.ficc.ai](https://pricing.ficc.ai)
+ - date_published: 2024-07-03T16:15:49.490682+00:00
+
  ## Fiddler AI – AI Observability, ML Model Monitoring, LLM Monitoring, and Explainable AI
  - [https://www.fiddler.ai](https://www.fiddler.ai)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -4021,8 +4025,4 @@
  ## Sai (saizai)
  - [https://s.ai](https://s.ai)
  - date_published: 2024-07-13T04:16:32.332042+00:00
-
- ## SaaStr AI Day | March 27, 2024
- - [https://www.saastr.ai](https://www.saastr.ai)
- - date_published: 2024-03-27T00:00:00+00:00
 

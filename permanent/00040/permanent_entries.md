@@ -1,3 +1,136 @@
+ ## The Grumpologist
+ - [https://grumpologist.blogspot.com](https://grumpologist.blogspot.com)
+ - date_published: 2024-03-13T22:47:43+00:00
+
+ ## Grumpy Old Twat
+ - [http://grumpyoldtwat.blogspot.com](http://grumpyoldtwat.blogspot.com)
+ - date_published: 2024-04-19T13:04:28+00:00
+
+ ## Grumpy Painting Git
+ - [https://grumpypaintinggit.blogspot.com](https://grumpypaintinggit.blogspot.com)
+ - date_published: 2021-08-21T00:00:00+00:00
+
+ ## It's Grymn Out There.
+ - [http://grymnoutthere.blogspot.com](http://grymnoutthere.blogspot.com)
+ - date_published: 2024-02-19T01:54:33+00:00
+
+ ## Gryphon Scratches
+ - [http://gryphonscratches.blogspot.com](http://gryphonscratches.blogspot.com)
+ - date_published: 2024-03-08T20:00:39+00:00
+
+ ## GSoC 2013 - Communicating with Mobile Devices
+ - [http://gsoc2013cwithmobiledevices.blogspot.com](http://gsoc2013cwithmobiledevices.blogspot.com)
+ - date_published: 2024-03-05T23:51:39+00:00
+
+ ## sugarbot
+ - [http://gsoc-sugarbot.blogspot.com](http://gsoc-sugarbot.blogspot.com)
+ - date_published: 2008-12-16T21:01:00+00:00
+
+ ## Guardsman-A-Day
+ - [http://guardsman-a-day.blogspot.com](http://guardsman-a-day.blogspot.com)
+ - date_published: 2024-06-17T12:27:20+00:00
+
+ ## Tennessee Guerilla Women
+ - [http://guerillawomentn.blogspot.com](http://guerillawomentn.blogspot.com)
+ - date_published: 2024-03-23T18:14:04+00:00
+
+ ## Andy's Wargaming Blog
+ - [http://guitarheroandy.blogspot.com](http://guitarheroandy.blogspot.com)
+ - date_published: 2024-07-11T18:12:48+00:00
+
+ ## Guan Gui （Chinese Name: 桂冠）
+ - [http://guiuestc.blogspot.com](http://guiuestc.blogspot.com)
+ - date_published: 2006-07-11T00:00:00+00:00
+
+ ## The Gun Blog Black List
+ - [http://gunblogblacklist.blogspot.com](http://gunblogblacklist.blogspot.com)
+ - date_published: 2024-07-03T14:00:00+00:00
+
+ ## Gun Blogger Rendezvous
+ - [http://gunbloggers.blogspot.com](http://gunbloggers.blogspot.com)
+ - date_published: 2024-03-19T03:16:59+00:00
+
+ ## Gun Geek Rants
+ - [http://gungeekrants.blogspot.com](http://gungeekrants.blogspot.com)
+ - date_published: 2024-03-28T05:16:54+00:00
+
+ ## guninthehouse
+ - [http://guninthehouse.blogspot.com](http://guninthehouse.blogspot.com)
+ - date_published: 2024-03-08T06:26:54+00:00
+
+ ## Gunners wargaming
+ - [https://gunnerswargamming.blogspot.com](https://gunnerswargamming.blogspot.com)
+ - date_published: 2024-07-19T11:06:34+00:00
+
+ ## GunShowOnTheNet
+ - [http://gunshowonthenet.blogspot.com](http://gunshowonthenet.blogspot.com)
+ - date_published: 2024-07-02T06:04:50+00:00
+
+ ## GUN WATCH
+ - [http://gunwatch.blogspot.com](http://gunwatch.blogspot.com)
+ - date_published: 2024-07-01T21:16:00+00:00
+
+ ## My Love of Dreaming
+ - [http://guodskrap.blogspot.com](http://guodskrap.blogspot.com)
+ - date_published: 2024-03-19T09:00:18+00:00
+
+ ## Gurney Journey
+ - [http://gurneyjourney.blogspot.com](http://gurneyjourney.blogspot.com)
+ - date_published: 2024-04-21T15:27:36.293364+00:00
+ - tags: ['personal']
+
+ ## Mereka yang telah mengajarku
+ - [http://guru2iscab.blogspot.com](http://guru2iscab.blogspot.com)
+ - date_published: 2024-02-20T14:21:14+00:00
+
+ ## Gus Van Horn
+ - [https://gusvanhorn.blogspot.com](https://gusvanhorn.blogspot.com)
+ - date_published: 2024-05-04T07:45:47.559682+00:00
+
+ ## Blogger
+ - [http://guyaneseterror.blogspot.com](http://guyaneseterror.blogspot.com)
+ - date_published: 2024-06-27T06:49:59.537906+00:00
+
+ ## 3 gware
+ - [http://gware.blogspot.com](http://gware.blogspot.com)
+ - date_published: 2024-03-08T14:57:17+00:00
+
+ ## Shane's Workshop
+ - [http://gwarts-stuff.blogspot.com](http://gwarts-stuff.blogspot.com)
+ - date_published: 2024-03-14T05:34:22+00:00
+
+ ## The Gygaxian Bag of Holding
+ - [http://gygaxianbagofholding.blogspot.com](http://gygaxianbagofholding.blogspot.com)
+ - date_published: 2012-03-15T00:21:00+00:00
+
+ ## gyre&gimble
+ - [http://gyregimble.blogspot.com](http://gyregimble.blogspot.com)
+ - date_published: 2024-03-13T00:58:45+00:00
+
+ ## HAA 195m Elizabeth Mrema
+ - [http://haa195elizabethmrema.blogspot.com](http://haa195elizabethmrema.blogspot.com)
+ - date_published: 2024-02-19T12:42:54+00:00
+
+ ## Hacking Cisco
+ - [http://hackingcisco.blogspot.com](http://hackingcisco.blogspot.com)
+ - date_published: 2024-03-05T04:43:17+00:00
+
+ ## Absolute Zero
+ - [http://hackosphere.blogspot.com](http://hackosphere.blogspot.com)
+ - date_published: 2024-03-07T07:33:47+00:00
+
+ ## Hack & Slash
+ - [http://hackslashmaster.blogspot.com](http://hackslashmaster.blogspot.com)
+ - date_published: 2024-07-12T21:58:00+00:00
+
+ ## Flashcove's cay
+ - [https://hafer2ken.blogspot.com](https://hafer2ken.blogspot.com)
+ - date_published: 2024-07-13T06:06:21+00:00
+
+ ## meilleut culture au moyen orient arabe
+ - [http://hafez-of-arabia.blogspot.com](http://hafez-of-arabia.blogspot.com)
+ - date_published: 2024-02-20T13:19:53+00:00
+
  ## PINXIT
  - [https://hagenpinxit.blogspot.com](https://hagenpinxit.blogspot.com)
  - date_published: 2024-06-16T07:08:16+00:00
@@ -3884,138 +4017,4 @@
  ## Machine Vision 4 Users
  - [http://machinevision4users.blogspot.com](http://machinevision4users.blogspot.com)
  - date_published: 2024-06-11T23:52:06+00:00
-
- ## Typecasting in China
- - [http://machopolitan.blogspot.com](http://machopolitan.blogspot.com)
- - date_published: 2024-01-04T23:59:21+00:00
-
- ## MacPhee's Miniature Men
- - [http://macpheesminiaturemen.blogspot.com](http://macpheesminiaturemen.blogspot.com)
- - date_published: 2024-07-17T10:53:18+00:00
-
- ## Old Battleshed Diaries
- - [http://macrminiadventures.blogspot.com](http://macrminiadventures.blogspot.com)
- - date_published: 2023-11-15T15:43:31+00:00
-
- ## Macro Musings Blog
- - [http://macromarketmusings.blogspot.com](http://macromarketmusings.blogspot.com)
- - date_published: 2024-06-15T11:05:33+00:00
-
- ## Mac's Little Friends
- - [http://macslittlefriends.blogspot.com](http://macslittlefriends.blogspot.com)
- - date_published: 2024-06-05T06:34:25+00:00
-
- ## James Strachan's Blog
- - [http://macstrac.blogspot.com](http://macstrac.blogspot.com)
- - date_published: 2024-03-14T03:28:32+00:00
-
- ## NOTURNO
- - [http://madalena-noturno.blogspot.com](http://madalena-noturno.blogspot.com)
- - date_published: 2024-03-14T05:43:33+00:00
-
- ## Anna Chen: Madam Miaow Says
- - [http://madammiaow.blogspot.com](http://madammiaow.blogspot.com)
- - date_published: 2024-06-14T14:19:00+00:00
-
- ## Mike's Amazing RPG Fun Pad
- - [http://madavid13.blogspot.com](http://madavid13.blogspot.com)
- - date_published: 2024-07-11T18:50:31+00:00
-
- ## Mad Man with a Compiler
- - [http://madcompiler.blogspot.com](http://madcompiler.blogspot.com)
- - date_published: 2024-07-28T03:58:47.583634+00:00
-
- ## Blogger
- - [http://maddoxen.blogspot.com](http://maddoxen.blogspot.com)
- - date_published: 2024-07-20T21:14:45.603986+00:00
-
- ## MADDENED FOWL
- - [http://mad-duck-training.blogspot.com](http://mad-duck-training.blogspot.com)
- - date_published: 2024-06-13T03:58:38+00:00
-
- ## Maddy's Ramblings
- - [https://maddy06.blogspot.com](https://maddy06.blogspot.com)
- - date_published: 2023-10-25T09:09:39.571727+00:00
- - tags: ['personal']
-
- ## The Life Aquatic with The Queen of Drama and The Shellac of North America
- - [http://madeleinewithshellac.blogspot.com](http://madeleinewithshellac.blogspot.com)
- - date_published: 2024-02-08T10:11:02+00:00
-
- ## Madhouse Society
- - [http://madhousesociety.blogspot.com](http://madhousesociety.blogspot.com)
- - date_published: 2024-06-16T17:39:16+00:00
-
- ## Code, Articles, Discussion on Microsoft Technologies
- - [https://madhurahuja.blogspot.com](https://madhurahuja.blogspot.com)
- - date_published: 2006-07-11T00:00:00+00:00
-
- ## Hard-Edge Painting
- - [http://madmalthus.blogspot.com](http://madmalthus.blogspot.com)
- - date_published: 2024-03-20T13:18:37+00:00
-
- ## Mäd Meiers Architecture Quest
- - [http://madmeierslife.blogspot.com](http://madmeierslife.blogspot.com)
- - date_published: 2024-03-05T10:00:41+00:00
-
- ## Mad Minerva 2.0
- - [http://madminerva.blogspot.com](http://madminerva.blogspot.com)
- - date_published: 2024-06-15T06:00:18+00:00
-
- ## Mad Padre
- - [http://madpadre.blogspot.com](http://madpadre.blogspot.com)
- - date_published: 2024-07-19T23:46:32+00:00
-
- ## The Mad Padre's Wargames Page
- - [http://madpadrewargames.blogspot.com](http://madpadrewargames.blogspot.com)
- - date_published: 2024-07-05T06:14:42+00:00
-
- ## Mad Robot Miniatures
- - [http://madrobotminiatures.blogspot.com](http://madrobotminiatures.blogspot.com)
- - date_published: 2024-07-10T06:55:51+00:00
-
- ## Kevin's Miniatures & Hobby Table
- - [http://mageknightkevin.blogspot.com](http://mageknightkevin.blogspot.com)
- - date_published: 2024-07-13T10:30:00+00:00
-
- ## Maggie's Notebook
- - [http://maggiesnotebook.blogspot.com](http://maggiesnotebook.blogspot.com)
- - date_published: 2024-03-14T02:50:06+00:00
-
- ## Magic, maths and money
- - [http://magic-maths-money.blogspot.com](http://magic-maths-money.blogspot.com)
- - date_published: 2024-03-13T15:11:15+00:00
-
- ## MaGie Miniature Painting
- - [http://magie-miniatures.blogspot.com](http://magie-miniatures.blogspot.com)
- - date_published: 2024-06-28T02:59:41+00:00
-
- ## + Figs-Freak +
- - [http://magiler.blogspot.com](http://magiler.blogspot.com)
- - date_published: 2024-03-14T05:20:33+00:00
-
- ## Magnus' Folly
- - [http://magnusfolly.blogspot.com](http://magnusfolly.blogspot.com)
- - date_published: 2024-03-19T08:46:54+00:00
-
- ## Mag Paper - DEMO
- - [https://mag-paper-demo.blogspot.com](https://mag-paper-demo.blogspot.com)
- - date_published: 2024-02-08T20:23:51+00:00
-
- ## Magpie and Old Lead
- - [http://magpieandoldlead.blogspot.com](http://magpieandoldlead.blogspot.com)
- - date_published: 2024-06-19T09:32:29+00:00
-
- ## SAVE OR DIE!
- - [http://mahney.blogspot.com](http://mahney.blogspot.com)
- - date_published: 2024-07-09T04:47:06+00:00
-
- ## main is usually a function
- - [https://mainisusuallyafunction.blogspot.com](https://mainisusuallyafunction.blogspot.com)
- - date_published: 2023-10-25T09:09:43.541835+00:00
- - tags: ['personal']
-
- ## mainly macro
- - [https://mainlymacro.blogspot.com](https://mainlymacro.blogspot.com)
- - date_published: 2024-07-08T07:41:00+00:00
 

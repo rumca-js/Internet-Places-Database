@@ -1,3 +1,244 @@
+ ## The Press Democrat
+ - [https://newsletter.pressdemocrat.com](https://newsletter.pressdemocrat.com)
+ - date_published: 2024-05-07T09:15:46.981059+00:00
+
+ ## Newsstand Locator Map
+ - [https://newsstand.pressdemocrat.com](https://newsstand.pressdemocrat.com)
+ - date_published: 2023-11-30T20:15:35+00:00
+
+ ## Privacy Policy
+ - [https://privacy.pressdemocrat.com](https://privacy.pressdemocrat.com)
+ - date_published: 2022-03-18T23:35:06+00:00
+
+ ## Press Democrat Special Sections
+ - [https://specialsections.pressdemocrat.com](https://specialsections.pressdemocrat.com)
+ - date_published: 2024-05-07T09:16:00.033115+00:00
+
+ ## https://www.pressdemocrat.com
+ - [https://pressdemocrat.com](https://pressdemocrat.com)
+ - date_published: 2023-11-01T08:42:56.938211+00:00
+
+ ## PressDisplay.com - Digital Newspaper & Magazine Subscriptions
+ - [https://www.pressdisplay.com](https://www.pressdisplay.com)
+ - date_published: 2024-07-12T17:09:21.156290+00:00
+
+ ## Tomorrow's Technician University
+ - [http://s37322.p525.sites.pressdns.com](http://s37322.p525.sites.pressdns.com)
+ - date_published: 2024-07-13T23:42:25.837042+00:00
+
+ ## VELCRO® Brand Fastening Solutions | Velcro Companies
+ - [https://s41512.p802.sites.pressdns.com](https://s41512.p802.sites.pressdns.com)
+ - date_published: 2024-06-27T13:33:13.253943+00:00
+
+ ## Home - 150 | #CreativeImpact
+ - [https://s44751.p1713.sites.pressdns.com](https://s44751.p1713.sites.pressdns.com)
+ - date_published: 2023-02-28T00:00:00+00:00
+
+ ## The Teaching Professor
+ - [https://s45271.p609.sites.pressdns.com](https://s45271.p609.sites.pressdns.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## France Medias Monde
+ - [https://www.pressefmm.com](https://www.pressefmm.com)
+ - date_published: 2024-05-04T06:59:24.337140+00:00
+
+ ## Subscription Panel
+ - [https://checkout.pressenterprise.com](https://checkout.pressenterprise.com)
+ - date_published: 2024-05-07T09:17:08.426742+00:00
+
+ ## Sign In with MNG
+ - [https://enewspaper.pressenterprise.com](https://enewspaper.pressenterprise.com)
+ - date_published: 2024-05-07T09:16:28.483836+00:00
+
+ ## Press Enterprise
+ - [https://pressenterprise.com](https://pressenterprise.com)
+ - date_published: 2023-12-08T17:29:18.211069+00:00
+
+ ## Pressfolios
+ - [https://mattmcclearn.pressfolios.com](https://mattmcclearn.pressfolios.com)
+ - date_published: 2024-05-06T16:48:03.892379+00:00
+
+ ## BlueConic: Log In
+ - [https://bc.pressherald.com](https://bc.pressherald.com)
+ - date_published: 2024-06-28T22:20:51.540186+00:00
+
+ ## Maine Voices Live - A Portland Press Herald Signature Event
+ - [http://mainevoices.pressherald.com](http://mainevoices.pressherald.com)
+ - date_published: 2024-06-29T05:14:59.908374+00:00
+
+ ## Sign In with Auth0
+ - [http://newspaper.pressherald.com](http://newspaper.pressherald.com)
+ - date_published: 2024-06-29T05:15:58.813548+00:00
+
+ ## Press Herald
+ - [https://pressherald.com](https://pressherald.com)
+ - date_published: 2024-05-07T09:17:22.089331+00:00
+
+ ## Press Herald
+ - [https://puzzles.pressherald.com](https://puzzles.pressherald.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Press Hook - AI-Driven Media Relations & PR Platform - Press Hook
+ - [https://www.presshook.com](https://www.presshook.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Academy of Art University
+ - [https://cdn-academywww.pressidium.com](https://cdn-academywww.pressidium.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## RestorePrivacy | Your online privacy resource center
+ - [https://cdn-resprivacy.pressidium.com](https://cdn-resprivacy.pressidium.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Transifex | The best platform to continuously localize any digital content
+ - [https://7gdrhmqdxblg-u503.pressidiumcdn.com](https://7gdrhmqdxblg-u503.pressidiumcdn.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## California Fireworks Newswire:
+ - [https://ca-fireworks.presskit247.com](https://ca-fireworks.presskit247.com)
+ - date_published: 2024-07-06T19:15:43.940672+00:00
+
+ ## PressMaximum
+ - [https://pressmaximum.com](https://pressmaximum.com)
+ - date_published: 2019-05-09T00:00:00+00:00
+
+ ## pressofatlanticcity.com | Read breaking news for Atlantic City, and the Atlantic County area of New Jersey. The latest weather, crime, politics, and more.
+ - [http://www.pressofatlanticcity.com](http://www.pressofatlanticcity.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Domain recognized - Presspage
+ - [https://client.presspage.com](https://client.presspage.com)
+ - date_published: 2023-09-25T09:58:29+00:00
+
+ ## Corporate PR Newsroom Tools - Digital Newsroom Software - Presspage
+ - [https://go.presspage.com](https://go.presspage.com)
+ - date_published: 2024-07-12T19:18:46.579925+00:00
+
+ ## Presspage Knowledge Base
+ - [https://help.presspage.com](https://help.presspage.com)
+ - date_published: 2024-07-12T19:18:38.034114+00:00
+
+ ## PressPage - Please login
+ - [https://manager.presspage.com](https://manager.presspage.com)
+ - date_published: 2024-05-07T19:52:44.630162+00:00
+
+ ## Presspage Newsrooms
+ - [http://status.presspage.com](http://status.presspage.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Corporate PR Newsroom Tools - Digital Newsroom Software - Presspage
+ - [https://presspage.com](https://presspage.com)
+ - date_published: 2024-05-10T06:01:30.824275+00:00
+
+ ## PressPatron account
+ - [https://dashboard.presspatron.com](https://dashboard.presspatron.com)
+ - date_published: 2024-05-06T18:29:58.073050+00:00
+
+ ## Home | PressPatron
+ - [https://www.presspatron.com](https://www.presspatron.com)
+ - date_published: 2024-06-26T08:48:47.220789+00:00
+
+ ## Shop - AFROPUNK
+ - [https://afropunk.presspressmerch.com](https://afropunk.presspressmerch.com)
+ - date_published: 2024-07-02T09:04:13.805632+00:00
+
+ ## Casaeditorialeltiempo
+ - [https://casaeditorialeltiempo.pressreader.com](https://casaeditorialeltiempo.pressreader.com)
+ - date_published: 2024-06-11T23:30:17.095455+00:00
+
+ ## The Denver Gazette
+ - [https://denvergazette.pressreader.com](https://denvergazette.pressreader.com)
+ - date_published: 2024-06-15T22:18:28.163320+00:00
+
+ ## Times Colonist E-edition
+ - [https://digitaltimescolonist.pressreader.com](https://digitaltimescolonist.pressreader.com)
+ - date_published: 2024-06-27T12:54:38.421954+00:00
+
+ ## Standard Digital Edition
+ - [https://eveningstandard.pressreader.com](https://eveningstandard.pressreader.com)
+ - date_published: 2024-06-17T06:39:36.776239+00:00
+
+ ## Financial Times
+ - [https://ft.pressreader.com](https://ft.pressreader.com)
+ - date_published: 2024-04-25T21:07:53.359794+00:00
+
+ ## Globe2Go, the digital newspaper replica of The Globe and Mail
+ - [https://globe2go.pressreader.com](https://globe2go.pressreader.com)
+ - date_published: 2024-05-06T16:48:14.297999+00:00
+
+ ## The Japan Times
+ - [https://japantimes.pressreader.com](https://japantimes.pressreader.com)
+ - date_published: 2024-06-24T02:02:59.630391+00:00
+
+ ## Η Καθημερινή ePaper
+ - [https://kathimerini.pressreader.com](https://kathimerini.pressreader.com)
+ - date_published: 2024-06-17T01:37:05.027034+00:00
+
+ ## Lethbridge Herald e-Edition
+ - [http://lethbridgeherald.pressreader.com](http://lethbridgeherald.pressreader.com)
+ - date_published: 2024-06-27T12:55:43.290340+00:00
+
+ ## Medicine Hat News
+ - [http://medicinehatnews.pressreader.com](http://medicinehatnews.pressreader.com)
+ - date_published: 2024-06-27T12:56:15.541531+00:00
+
+ ## New York Post
+ - [https://nypost.pressreader.com](https://nypost.pressreader.com)
+ - date_published: 2024-06-27T06:31:52.034011+00:00
+
+ ## PressReader.com - Digital Newspaper & Magazine Subscriptions
+ - [https://pressreader.com](https://pressreader.com)
+ - date_published: 2024-04-26T07:16:02+00:00
+ - tags: ['monetization', 'magazine service']
+
+ ## Prince George Citizen
+ - [https://princegeorgecitizen.pressreader.com](https://princegeorgecitizen.pressreader.com)
+ - date_published: 2024-06-27T12:57:32.022821+00:00
+
+ ## The Gazette E-Edition
+ - [https://thecoloradospringsgazette.pressreader.com](https://thecoloradospringsgazette.pressreader.com)
+ - date_published: 2024-07-12T16:50:11.645840+00:00
+
+ ## The National
+ - [https://thenational.pressreader.com](https://thenational.pressreader.com)
+ - date_published: 2024-05-06T17:10:46.567030+00:00
+
+ ## The Spec Referrer
+ - [https://thespecepaper.pressreader.com](https://thespecepaper.pressreader.com)
+ - date_published: 2024-05-06T14:30:55.517345+00:00
+
+ ## The Hamilton Spectator
+ - [https://thespec.pressreader.com](https://thespec.pressreader.com)
+ - date_published: 2024-05-06T14:31:02.036412+00:00
+
+ ## Toronto Star Referrer
+ - [https://thestarepaper.pressreader.com](https://thestarepaper.pressreader.com)
+ - date_published: 2024-05-06T14:31:10.816613+00:00
+
+ ## The Union
+ - [https://theunion.pressreader.com](https://theunion.pressreader.com)
+ - date_published: 2024-07-29T17:03:38.360495+00:00
+
+ ## Toronto Star Classroom Connection
+ - [https://torontostarnie.pressreader.com](https://torontostarnie.pressreader.com)
+ - date_published: 2024-06-23T13:34:57.191617+00:00
+
+ ## Toronto Star ePaper
+ - [https://torontostar.pressreader.com](https://torontostar.pressreader.com)
+ - date_published: 2024-05-06T14:31:26.117705+00:00
+
+ ## Welcome - Press Up
+ - [https://pressupinc.com](https://pressupinc.com)
+ - date_published: 2024-06-20T22:15:25.742860+00:00
+
+ ## Press Ups - Simple WordPress Exercises - Press Ups
+ - [https://press-ups.com](https://press-ups.com)
+ - date_published: 2024-07-17T05:34:56.054907+00:00
+
+ ## Stylus Distribution Bookstore
+ - [https://styluspub.presswarehouse.com](https://styluspub.presswarehouse.com)
+ - date_published: 2024-07-08T18:53:38.205422+00:00
+
  ## PrestaShop Addons Marketplace - Modules, Themes & Support
  - [https://addons.prestashop.com](https://addons.prestashop.com)
  - date_published: 2024-07-02T21:21:38.585411+00:00
@@ -3789,248 +4030,4 @@
  - [http://www.psproms.com](http://www.psproms.com)
  - date_published: 2024-06-01T11:03:37.802846+00:00
  - tags: ['emulation', 'video game roms', 'playstation']
-
- ## Ultimate Amiga
- - [http://www.pspuae.com](http://www.pspuae.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Optical tracking systems | PS-tech
- - [https://www.ps-tech.com](https://www.ps-tech.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## PSTR studio | Premium Fine Art
- - [https://www.pstrstudio.com](https://www.pstrstudio.com)
- - date_published: 2024-07-24T08:01:44.447577+00:00
-
- ## PS4 news, PS4 Pro news and PlayStation views
- - [https://psu.com](https://psu.com)
- - date_published: 2024-05-04T11:59:54.170701+00:00
- - tags: ['playstation', 'video game news']
-
- ## The Playstation Datacenter - PS1, PS2 & PSP games databases with covers,
-      cheats, screens, etc.
- - [http://psxdatacenter.com](http://psxdatacenter.com)
- - date_published: 2024-05-26T07:55:54.348069+00:00
-
- ## PSX-Place
- - [https://psx-place.com](https://psx-place.com)
- - date_published: 2023-10-25T09:34:56.045667+00:00
- - tags: ['hardware hacking', 'playstation portable', 'reverse engineering']
-
- ## OSF
- - [https://psyarxiv.com](https://psyarxiv.com)
- - date_published: 2024-01-09T02:47:12.632800+00:00
-
- ## Attention Required! | Cloudflare
- - [http://psychbrief.com](http://psychbrief.com)
- - date_published: 2024-07-06T23:45:00.544174+00:00
-
- ## MyFinance: Intelligent Monetization
- - [https://inline.psychcentral.com](https://inline.psychcentral.com)
- - date_published: 2024-06-22T06:58:57.024468+00:00
-
- ## Mental disorders and mental illness
- - [https://psychcentral.com](https://psychcentral.com)
- - date_published: 2024-05-04T14:59:34.348083+00:00
-
- ## Psychedelic Information Theory: Home Page
- - [https://psychedelic-information-theory.com](https://psychedelic-information-theory.com)
- - date_published: 2024-05-07T10:00:18.991952+00:00
-
- ## Psychedelic Science Review
- - [https://psychedelicreview.com](https://psychedelicreview.com)
- - date_published: 2023-10-25T16:41:56.377800+00:00
-
- ## Psychedelic Times
- - [https://psychedelictimes.com](https://psychedelictimes.com)
- - date_published: 2024-06-21T13:37:55+00:00
-
- ## Psychestudy
- - [https://www.psychestudy.com](https://www.psychestudy.com)
- - date_published: 2023-08-24T17:08:21+00:00
-
- ## Comprehensive Psychiatric Care Specialists
- - [https://www.psychiatriccarespecialists.com](https://www.psychiatriccarespecialists.com)
- - date_published: 2024-07-13T11:58:15.360646+00:00
-
- ## Home
- - [https://psychiatryadvisor.com](https://psychiatryadvisor.com)
- - date_published: 2024-05-17T02:44:11.195143+00:00
-
- ## psychoactive .com
- - [https://www.psychoactive.com](https://www.psychoactive.com)
- - date_published: 2023-09-23T12:28:30+00:00
-
- ## Home - Psychoclast Software
- - [http://psychoclast.com](http://psychoclast.com)
- - date_published: 2021-09-22T04:11:16+00:00
-
- ## Therapists Glasgow, Counselling Psychologists | MAPP Psychology
- - [https://www.psychologyscotland.com](https://www.psychologyscotland.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Psychology Today: Health, Help, Happiness + Find a Therapist
- - [https://cdn2.psychologytoday.com](https://cdn2.psychologytoday.com)
- - date_published: 2023-10-25T16:42:01.070092+00:00
-
- ## Psychology Today: Health, Help, Happiness + Find a Therapist
- - [https://cdn.psychologytoday.com](https://cdn.psychologytoday.com)
- - date_published: 2024-05-07T09:44:19.831592+00:00
- - tags: ['psychology']
-
- ## Join Psychology Today
- - [https://join.psychologytoday.com](https://join.psychologytoday.com)
- - date_published: 2024-05-07T09:44:16.592153+00:00
-
- ## Psychology Today: Professional Login
- - [https://member.psychologytoday.com](https://member.psychologytoday.com)
- - date_published: 2024-05-07T09:44:22.212250+00:00
-
- ## CDS Global : w1.buysub.com
- - [https://subscribe.psychologytoday.com](https://subscribe.psychologytoday.com)
- - date_published: 2024-05-07T09:44:24.671979+00:00
-
- ## Psychology Today: Health, Help, Happiness + Find a Therapist
- - [https://psychologytoday.com](https://psychologytoday.com)
- - date_published: 2023-10-25T16:42:05.464319+00:00
-
- ## ᐉ Psychological Tests – The Best Psychological Online Quizzes
- - [https://psycho-tests.com](https://psycho-tests.com)
- - date_published: 2024-05-04T12:17:53.972136+00:00
-
- ## TestYourself by PsychTests: Tests and quizzes on personality, IQ, love/relationships, career, health and attitudes/lifestyle.
- - [http://psychtests.com](http://psychtests.com)
- - date_published: 2024-06-30T06:35:02.749548+00:00
-
- ## TestYourself by PsychTests: Tests and quizzes on personality, IQ, love/relationships, career, health and attitudes/lifestyle.
- - [https://testyourself.psychtests.com](https://testyourself.psychtests.com)
- - date_published: 2024-06-30T06:35:00.724206+00:00
-
- ## Psyclone Media Inc. | WELCOME | psyclonemediainc.com
- - [http://psyclonemediainc.com](http://psyclonemediainc.com)
- - date_published: 2024-06-27T06:41:59.812308+00:00
-
- ## The Psy-Fi Blog
- - [http://www.psyfitec.com](http://www.psyfitec.com)
- - date_published: 2024-07-05T06:11:25+00:00
-
- ## Transplant & Emulate
- - [https://psykicko.com](https://psykicko.com)
- - date_published: 2012-09-22T16:04:10+00:00
-
- ## Psykinematix: Visual Psychophysics Made Easy on macOS
- - [https://www.psykinematix.com](https://www.psykinematix.com)
- - date_published: 2024-07-13T11:54:17.191791+00:00
-
- ## About Psyonix | Psyonix
- - [https://psyonix.com](https://psyonix.com)
- - date_published: 2024-05-13T03:56:04.242770+00:00
-
- ## Suspended Domain
- - [https://psytown.com](https://psytown.com)
- - date_published: 2016-11-22T08:07:01+00:00
-
- ## Psytrance Guide
- - [https://psytranceguide.com](https://psytranceguide.com)
- - date_published: 2023-10-25T11:13:51.201935+00:00
-
- ## PSYOP PSYOPS PSYWAR Psychological Operations Psychological Warfare
- - [https://psywarrior.com](https://psywarrior.com)
- - date_published: 2023-10-25T16:42:06.293643+00:00
-
- ## Dynamic Periodic Table
- - [https://old.ptable.com](https://old.ptable.com)
- - date_published: 2020-08-25T21:15:56+00:00
-
- ## Periodic Table - Ptable
- - [https://ptable.com](https://ptable.com)
- - date_published: 2022-10-12T18:15:00+00:00
-
- ## Port Townsend Aero Museum Aviation
- - [http://www.ptaeromuseum.com](http://www.ptaeromuseum.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## PTC Store | Product Search | PTC
- - [https://store.ptc.com](https://store.ptc.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## eSupport | PTC
- - [https://support.ptc.com](https://support.ptc.com)
- - date_published: 2024-06-28T11:05:46.372528+00:00
-
- ## Global Leader in Product Lifecycle Management Software | PTC
- - [https://www.ptc.com](https://www.ptc.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Welcome to Catalyst Group ...
- - [https://ptere.com](https://ptere.com)
- - date_published: 2018-07-03T10:29:42+00:00
-
- ## Featured Apps and Games for Windows, Mac and Android
- - [http://ptf.com](http://ptf.com)
- - date_published: 2024-07-11T12:31:55.277588+00:00
-
- ## Machine Vision – Area Scan Cameras | Teledyne FLIR
- - [https://www.ptgrey.com](https://www.ptgrey.com)
- - date_published: 2024-06-17T04:59:29.486472+00:00
-
- ## Photo stitching software 360 degree Panorama image software - PTGui Stitching Software
- - [https://www.ptgui.com](https://www.ptgui.com)
- - date_published: 2024-06-23T11:03:20.370480+00:00
-
- ## Pavel Timofeev
- - [https://ptimofeev.com](https://ptimofeev.com)
- - date_published: 2023-07-04T00:00:00+00:00
-
- ## Press Trust Of India
- - [http://www.ptinews.com](http://www.ptinews.com)
- - date_published: 2024-06-19T05:03:41+00:00
-
- ## Portugal. The Man l Official Store
- - [https://ptmmercado.com](https://ptmmercado.com)
- - date_published: 2024-05-06T23:43:09.811287+00:00
-
- ## Home
- - [https://ptmoney.com](https://ptmoney.com)
- - date_published: 2024-01-16T17:03:51.125006+00:00
-
- ## Pioneer Network
- - [https://ptnnow.com](https://ptnnow.com)
- - date_published: 2024-06-25T16:04:36.141516+00:00
-
- ## pTools - Market Information Solutions
- - [http://www.ptools.com](http://www.ptools.com)
- - date_published: 2024-06-20T21:30:25.387002+00:00
-
- ## Ptrace Security GmbH - Hands-On Workshops for Ethical Hackers
- - [https://ptrace-security.com](https://ptrace-security.com)
- - date_published: 2024-04-04T06:42:23+00:00
-
- ## ptrchm
- - [https://ptrchm.com](https://ptrchm.com)
- - date_published: 2023-12-17T17:43:33.561774+00:00
-
- ## Inner Machinations of a Starfish
- - [https://blog.ptrkstr.com](https://blog.ptrkstr.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## PtrSecVerify - Security Services
- - [https://ptrsecverify.com](https://ptrsecverify.com)
- - date_published: 2024-04-28T02:41:57.201011+00:00
-
- ## PT SWARM
- - [https://swarm.ptsecurity.com](https://swarm.ptsecurity.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Peter T. Shaw
- - [https://www.ptshaw.com](https://www.ptshaw.com)
- - date_published: 2024-06-04T00:27:44+00:00
-
- ## Patterson Thuente Has Joined Husch Blackwell - Patterson Thuente IP
- - [http://ptslaw.com](http://ptslaw.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## PT SportSuite | Digital Media Ecosystems for Sports
- - [https://ptsportsuite.com](https://ptsportsuite.com)
- - date_published: 2024-07-04T00:00:00+00:00
 

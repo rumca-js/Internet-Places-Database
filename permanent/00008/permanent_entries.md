@@ -1,3 +1,15 @@
+ ## Doccle Help Center
+ - [https://help.doccle.be](https://help.doccle.be)
+ - date_published: 2014-05-02T00:00:00+00:00
+
+ ## Doccle
+ - [https://id.doccle.be](https://id.doccle.be)
+ - date_published: 2024-07-12T06:07:12.194206+00:00
+
+ ## Doccle
+ - [https://launch.doccle.be](https://launch.doccle.be)
+ - date_published: 2024-07-12T06:07:14.907610+00:00
+
  ## 🖌️ dragon's artistic endeavours
  - [https://art.dragon-vi.be](https://art.dragon-vi.be)
  - date_published: 2024-06-06T23:19:58+00:00
@@ -4020,16 +4032,4 @@ La LUSS est la fédération francophone des associations de patients et de proch
  ## All the latest news about the business of PC Games | PC Games Insider
  - [https://www.pcgamesinsider.biz](https://www.pcgamesinsider.biz)
  - date_published: 2024-06-18T16:12:58.416794+00:00
-
- ## PRH
- - [https://selfservice.penguinrandomhouse.biz](https://selfservice.penguinrandomhouse.biz)
- - date_published: 2024-03-27T14:37:18+00:00
-
- ## penguinrandomhouse.biz
- - [https://penguinrandomhouse.biz](https://penguinrandomhouse.biz)
- - date_published: 2023-02-08T20:14:20+00:00
-
- ## Pinterest Community
- - [https://community.pinterest.biz](https://community.pinterest.biz)
- - date_published: 2024-06-28T17:27:05.812206+00:00
 
