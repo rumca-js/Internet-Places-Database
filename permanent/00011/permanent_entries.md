@@ -1,3 +1,7 @@
+ ## CNMC - Le Conseil national des musulmans Canadiens
+ - [https://cnmc.ca](https://cnmc.ca)
+ - date_published: 2024-06-13T17:07:16+00:00
+
  ## Town of Cochrane
  - [https://www.cochrane.ca](https://www.cochrane.ca)
  - date_published: 2024-06-27T09:00:11+00:00
@@ -4045,8 +4049,4 @@
  ## Welcome to the website for Our People | Royal Roads University - Our People
  - [https://ourpeople.royalroads.ca](https://ourpeople.royalroads.ca)
  - date_published: 2024-05-22T00:00:00+00:00
-
- ## Policies, procedures, guidelines, directives & bylaws | Royal Roads University
- - [https://policies.royalroads.ca](https://policies.royalroads.ca)
- - date_published: 2024-06-15T02:17:31+00:00
 

@@ -1,3 +1,7 @@
+ ## AWOL - The Ancient World Online
+ - [https://ancientworldonline.blogspot.com](https://ancientworldonline.blogspot.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
  ## Blogger
  - [http://ancthist-nsgill.blogspot.com](http://ancthist-nsgill.blogspot.com)
  - date_published: 2024-06-24T10:16:31.495895+00:00
@@ -4017,8 +4021,4 @@
  ## daily timewaster
  - [https://dailytimewaster.blogspot.com](https://dailytimewaster.blogspot.com)
  - date_published: 2024-07-01T08:47:55+00:00
-
- ## Dalauppror
- - [https://dalauppror.blogspot.com](https://dalauppror.blogspot.com)
- - date_published: 2024-04-14T17:15:00+00:00
 

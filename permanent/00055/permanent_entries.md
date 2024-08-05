@@ -1,3 +1,15 @@
+ ## The only cross-lingual plagiarism checker - Crossplag
+ - [https://crossplag.com](https://crossplag.com)
+ - date_published: 2023-12-08T00:00:00+00:00
+
+ ## CROSS PLANES
+ - [http://www.crossplanes.com](http://www.crossplanes.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## crossresults.com - we wrangle data so you don't have to
+ - [https://www.crossresults.com](https://www.crossresults.com)
+ - date_published: 2024-06-15T11:52:14.946469+00:00
+
  ## Cross River | API-Based Financial Solutions for Business
  - [https://www.crossriver.com](https://www.crossriver.com)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -4034,16 +4046,4 @@
  ## Home | Cypress Cove Nudist Resort
  - [https://www.cypresscoveresort.com](https://www.cypresscoveresort.com)
  - date_published: 2024-06-27T16:52:34.062357+00:00
-
- ## Cypress Grove Goat Cheese | Nationwide Shipping
- - [https://www.cypressgrovecheese.com](https://www.cypressgrovecheese.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Cypress Ridge Golf Course | Topeka, KS
- - [https://cypressridgegc.com](https://cypressridgegc.com)
- - date_published: 2024-07-01T12:37:47.323043+00:00
-
- ## Cyprus Daily News Briefing - CyprusBeat
- - [https://cyprusbeat.com](https://cyprusbeat.com)
- - date_published: 2024-04-28T00:00:00+00:00
 

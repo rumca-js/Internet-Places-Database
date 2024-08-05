@@ -1,3 +1,47 @@
+ - [http://mail.smtp2go.com](http://mail.smtp2go.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## SMTP2GO: Reliable & Scalable Email Delivery Service
+ - [https://smtp2go.com](https://smtp2go.com)
+ - date_published: 2018-04-26T00:00:00+00:00
+ - tags: ['proprietary', 'monetization', 'email']
+
+ ## Send emails via cloud SMTP | SMTPeter
+ - [https://www.smtpeter.com](https://www.smtpeter.com)
+ - date_published: 2024-05-04T15:49:52.377417+00:00
+
+ ## SmtpJS.com - Send Email from JavaScript
+ - [https://smtpjs.com](https://smtpjs.com)
+ - date_published: 2024-03-15T10:08:39+00:00
+
+ ## Presse adh
+ - [https://adh-fotos.smugmug.com](https://adh-fotos.smugmug.com)
+ - date_published: 2024-07-24T03:42:20.352469+00:00
+
+ ## OSU_Alumni Tours
+ - [https://alumnitours.smugmug.com](https://alumnitours.smugmug.com)
+ - date_published: 2024-07-01T16:53:43.180352+00:00
+
+ ## SmugMug API
+ - [https://api.smugmug.com](https://api.smugmug.com)
+ - date_published: 2024-06-17T03:01:47.717548+00:00
+
+ ## BarbarasPhotoCreations
+ - [https://barbarasphotocreations.smugmug.com](https://barbarasphotocreations.smugmug.com)
+ - date_published: 2024-06-30T23:22:12.514486+00:00
+
+ ## Carroll Media
+ - [https://catholicstandard.smugmug.com](https://catholicstandard.smugmug.com)
+ - date_published: 2024-07-04T16:59:18.255379+00:00
+
+ ## Department of Computer Science, ETH Zurich
+ - [https://csateth.smugmug.com](https://csateth.smugmug.com)
+ - date_published: 2024-04-30T06:03:14.954082+00:00
+
+ ## EarthScope Consortium
+ - [https://earthscope.smugmug.com](https://earthscope.smugmug.com)
+ - date_published: 2024-07-10T02:21:15.637588+00:00
+
  ## Eph Alum
  - [https://ephalum.smugmug.com](https://ephalum.smugmug.com)
  - date_published: 2024-07-02T14:20:05.954191+00:00
@@ -1598,10 +1642,6 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://www.softminkyblankets.com](https://www.softminkyblankets.com)
  - date_published: 2024-04-03T00:00:00+00:00
 
- ## Amazon Appstore
- - [https://amazonappstore.en.softonic.com](https://amazonappstore.en.softonic.com)
- - date_published: 2024-04-29T05:11:04.517905+00:00
-
  ## Ampere Meter : Battery Chargin
  - [https://ampere-meter-battery-chargin.en.softonic.com](https://ampere-meter-battery-chargin.en.softonic.com)
  - date_published: 2024-04-21T00:00:00+00:00
@@ -1615,16 +1655,8 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - date_published: 2024-03-13T00:00:00+00:00
 
  ## Aurora Store
- - [https://aurora-store.de.softonic.com](https://aurora-store.de.softonic.com)
- - date_published: 2024-04-29T05:11:35.469989+00:00
-
- ## Aurora Store
  - [https://aurora-store.en.softonic.com](https://aurora-store.en.softonic.com)
  - date_published: 2024-02-08T18:16:27.788227+00:00
-
- ## Softonic best
- - [https://best.en.softonic.com](https://best.en.softonic.com)
- - date_published: 2024-04-29T05:05:39.165396+00:00
 
  ## causeit pro
  - [https://causeit-pro.en.softonic.com](https://causeit-pro.en.softonic.com)
@@ -1634,53 +1666,17 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://chrome.en.softonic.com](https://chrome.en.softonic.com)
  - date_published: 2024-03-12T00:00:00+00:00
 
- ## FAQs – Softonic Corporate
- - [https://dev-support.softonic.com](https://dev-support.softonic.com)
- - date_published: 2024-04-29T05:11:08.166420+00:00
-
  ## Downloader by AFTVnews
  - [https://downloader-by-aftvnews.en.softonic.com](https://downloader-by-aftvnews.en.softonic.com)
  - date_published: 2024-03-11T00:00:00+00:00
-
- ## App news and reviews, best software downloads and discovery - Softonic
- - [https://en.softonic.com](https://en.softonic.com)
- - date_published: 2024-04-29T05:05:30.429846+00:00
-
- ## Free PDF online Tools | Softonic
- - [https://free-pdf-tools.en.softonic.com](https://free-pdf-tools.en.softonic.com)
- - date_published: 2024-04-29T05:05:40.679483+00:00
-
- ## Free Wifi Password - Connect
- - [https://free-wifi-password-connect.en.softonic.com](https://free-wifi-password-connect.en.softonic.com)
- - date_published: 2024-04-29T05:10:51.712231+00:00
-
- ## FAQs – Softonic Corporate
- - [https://get-support.softonic.com](https://get-support.softonic.com)
- - date_published: 2024-04-29T05:05:46.922897+00:00
-
- ## Googlefier
- - [https://googlefier.en.softonic.com](https://googlefier.en.softonic.com)
- - date_published: 2024-04-29T05:05:19.220454+00:00
 
  ## HappyMod
  - [https://happymod-bk5.en.softonic.com](https://happymod-bk5.en.softonic.com)
  - date_published: 2024-04-17T00:00:00+00:00
 
- ## Softonic Corporate
- - [https://hello.softonic.com](https://hello.softonic.com)
- - date_published: 2024-04-29T05:05:16.789026+00:00
-
- ## HideX: Calculator Lock
- - [https://hidex-calculator-lock.en.softonic.com](https://hidex-calculator-lock.en.softonic.com)
- - date_published: 2024-04-29T05:10:54.018384+00:00
-
  ## Octopus - Gamepad Mouse Keyboard Keymapper
  - [https://octopus-gaming-with-peripherals.en.softonic.com](https://octopus-gaming-with-peripherals.en.softonic.com)
  - date_published: 2024-04-16T00:00:00+00:00
-
- ## Palmstore
- - [https://palmstore.en.softonic.com](https://palmstore.en.softonic.com)
- - date_published: 2024-04-29T05:11:16.980106+00:00
 
  ## Peak Antivirus - clean  file
  - [https://peak-antivirus-clean-file.en.softonic.com](https://peak-antivirus-clean-file.en.softonic.com)
@@ -1718,14 +1714,6 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://softonic.com](https://softonic.com)
  - date_published: 2024-04-29T05:12:07.730251+00:00
 
- ## Wiadomości, recenzje aplikacji, najlepsze programy do pobrania - Softonic
- - [https://www.softonic.com](https://www.softonic.com)
- - date_published: 2024-04-29T05:12:07.730251+00:00
-
- ## Yalp Store
- - [https://yalp-store.en.softonic.com](https://yalp-store.en.softonic.com)
- - date_published: 2024-04-29T05:05:45.597659+00:00
-
  ## 1.1.1.1 w/ WARP
  - [https://1111-w-warp.softonic-ar.com](https://1111-w-warp.softonic-ar.com)
  - date_published: 2024-07-31T00:00:00+00:00
@@ -1741,6 +1729,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## 3uTools
  - [https://3utools.softonic-ar.com](https://3utools.softonic-ar.com)
  - date_published: 2024-07-31T00:00:00+00:00
+
+ ## AAStore
+ - [https://aastore.softonic-ar.com](https://aastore.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:31.770341+00:00
 
  ## Adobe Illustrator CC
  - [https://adobe-illustrator.softonic-ar.com](https://adobe-illustrator.softonic-ar.com)
@@ -1769,6 +1761,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## Al Quran Free - Al Quran Islam
  - [https://al-quran-free-al-quran-islam.softonic-ar.com](https://al-quran-free-al-quran-islam.softonic-ar.com)
  - date_published: 2024-08-03T16:56:40.954497+00:00
+
+ ## Amazon Appstore
+ - [https://amazonappstore.softonic-ar.com](https://amazonappstore.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:25.979895+00:00
 
  ## AMule
  - [https://amule.softonic-ar.com](https://amule.softonic-ar.com)
@@ -1810,6 +1806,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://apk-editor-community.softonic-ar.com](https://apk-editor-community.softonic-ar.com)
  - date_published: 2024-01-26T00:00:00+00:00
 
+ ## AppChina
+ - [https://appchina.softonic-ar.com](https://appchina.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:17.036225+00:00
+
  ## Apple Developer
  - [https://apple-developer.softonic-ar.com](https://apple-developer.softonic-ar.com)
  - date_published: 2024-06-16T00:00:00+00:00
@@ -1837,6 +1837,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## AutoCAD
  - [https://autocad.softonic-ar.com](https://autocad.softonic-ar.com)
  - date_published: 2024-08-03T16:50:54.283316+00:00
+
+ ## Automatic Call Recorder
+ - [https://auto-call-recorder-2019.softonic-ar.com](https://auto-call-recorder-2019.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:52.363805+00:00
 
  ## Auto-GPT
  - [https://auto-gpt.softonic-ar.com](https://auto-gpt.softonic-ar.com)
@@ -1934,6 +1938,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://dall-e.softonic-ar.com](https://dall-e.softonic-ar.com)
  - date_published: 2024-08-03T16:59:07.171203+00:00
 
+ ## DarkTunnel - SSH DNSTT V2Ray
+ - [https://darktunnel-ssh-dnstt-v2ray.softonic-ar.com](https://darktunnel-ssh-dnstt-v2ray.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:14.101966+00:00
+
  ## Deluge
  - [https://deluge.softonic-ar.com](https://deluge.softonic-ar.com)
  - date_published: 2024-07-14T15:55:41.861866+00:00
@@ -2018,6 +2026,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://facemagic-ai-face-editor.softonic-ar.com](https://facemagic-ai-face-editor.softonic-ar.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
+ ## F-Droid
+ - [https://f-droid.softonic-ar.com](https://f-droid.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:28.669020+00:00
+
  ## FIFA Mobile: FIFA World Cup™
  - [https://fifa-soccer.softonic-ar.com](https://fifa-soccer.softonic-ar.com)
  - date_published: 2024-07-27T00:00:00+00:00
@@ -2082,6 +2094,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://frostwire.softonic-ar.com](https://frostwire.softonic-ar.com)
  - date_published: 2024-06-12T00:00:00+00:00
 
+ ## FTTH
+ - [https://ftth.softonic-ar.com](https://ftth.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:59.635557+00:00
+
  ## GMANGA
  - [https://gmanga.softonic-ar.com](https://gmanga.softonic-ar.com)
  - date_published: 2024-03-26T00:00:00+00:00
@@ -2097,6 +2113,14 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## Google Earth
  - [https://google-earth.softonic-ar.com](https://google-earth.softonic-ar.com)
  - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Googlefier
+ - [https://googlefier.softonic-ar.com](https://googlefier.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:40.494429+00:00
+
+ ## Google Play
+ - [https://google-play-store.softonic-ar.com](https://google-play-store.softonic-ar.com)
+ - date_published: 2024-07-20T00:00:00+00:00
 
  ## Google
  - [https://google.softonic-ar.com](https://google.softonic-ar.com)
@@ -2149,6 +2173,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## Halo Hermina
  - [https://halo-hermina.softonic-ar.com](https://halo-hermina.softonic-ar.com)
  - date_published: 2024-08-01T00:00:00+00:00
+
+ ## HDMI Auto Opener TV
+ - [https://hdmi-auto-opener-tv.softonic-ar.com](https://hdmi-auto-opener-tv.softonic-ar.com)
+ - date_published: 2024-07-29T00:00:00+00:00
 
  ## HD Movies 2024 All MovieBox
  - [https://hd-movies-2024-all-moviebox-1zc.softonic-ar.com](https://hd-movies-2024-all-moviebox-1zc.softonic-ar.com)
@@ -2233,6 +2261,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## iTunes
  - [https://itunes.softonic-ar.com](https://itunes.softonic-ar.com)
  - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Jio Apps Store
+ - [https://jio-apps-store.softonic-ar.com](https://jio-apps-store.softonic-ar.com)
+ - date_published: 2024-08-04T21:34:04.674336+00:00
 
  ## Kids Games: Safety Education
  - [https://kids-games-safety-education.softonic-ar.com](https://kids-games-safety-education.softonic-ar.com)
@@ -2414,6 +2446,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://pale-moon.softonic-ar.com](https://pale-moon.softonic-ar.com)
  - date_published: 2024-07-14T16:01:32.417587+00:00
 
+ ## Palmstore
+ - [https://palmstore.softonic-ar.com](https://palmstore.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:24.264441+00:00
+
  ## PAYEER
  - [https://payeer.softonic-ar.com](https://payeer.softonic-ar.com)
  - date_published: 2024-08-03T16:55:10.396094+00:00
@@ -2474,6 +2510,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://retaliate.softonic-ar.com](https://retaliate.softonic-ar.com)
  - date_published: 2024-07-30T00:00:00+00:00
 
+ ## ارقام اليمن - كاشف ارقام اليمن
+ - [https://rk-m-lymn-k-shf-rk-m-lymn.softonic-ar.com](https://rk-m-lymn-k-shf-rk-m-lymn.softonic-ar.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
  ## RNI Films
  - [https://rni-films.softonic-ar.com](https://rni-films.softonic-ar.com)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -2502,9 +2542,17 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://rollz-hecate-ediciones.softonic-ar.com](https://rollz-hecate-ediciones.softonic-ar.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
+ ## Galaxy Apps
+ - [https://samsung-galaxy-apps.softonic-ar.com](https://samsung-galaxy-apps.softonic-ar.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
  ## Samsung Smart Switch
  - [https://samsung-smart-switch.softonic-ar.com](https://samsung-smart-switch.softonic-ar.com)
  - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sataliteio Map With Zoom
+ - [https://sataliteio-map-with-zoom.softonic-ar.com](https://sataliteio-map-with-zoom.softonic-ar.com)
+ - date_published: 2024-07-26T00:00:00+00:00
 
  ## Shape Screw Jam - Wood Nuts
  - [https://shape-screw-jam-wood-nuts.softonic-ar.com](https://shape-screw-jam-wood-nuts.softonic-ar.com)
@@ -2581,6 +2629,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## SuperSU
  - [https://supersu.softonic-ar.com](https://supersu.softonic-ar.com)
  - date_published: 2024-08-03T16:47:08.037686+00:00
+
+ ## Swit VPN:Safe Simple
+ - [https://swit-vpn-safe-simple.softonic-ar.com](https://swit-vpn-safe-simple.softonic-ar.com)
+ - date_published: 2024-07-26T00:00:00+00:00
 
  ## سينمانا شبكتي لجميع الشبكات
  - [https://synm-n-shbkty-lgmyaa-lshbk-t.softonic-ar.com](https://synm-n-shbkty-lgmyaa-lshbk-t.softonic-ar.com)
@@ -2686,6 +2738,14 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://ultraviewer.softonic-ar.com](https://ultraviewer.softonic-ar.com)
  - date_published: 2024-07-02T00:00:00+00:00
 
+ ## Ultra VPN - Pro Max Plus
+ - [https://ultra-vpn-pro-max-plus.softonic-ar.com](https://ultra-vpn-pro-max-plus.softonic-ar.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Unit Converter
+ - [https://unit-converter-ctv.softonic-ar.com](https://unit-converter-ctv.softonic-ar.com)
+ - date_published: 2024-08-04T21:33:36.057292+00:00
+
  ## Url Video Player
  - [https://url-video-player.softonic-ar.com](https://url-video-player.softonic-ar.com)
  - date_published: 2024-04-15T00:00:00+00:00
@@ -2713,6 +2773,10 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## Voicemod
  - [https://voicemod.softonic-ar.com](https://voicemod.softonic-ar.com)
  - date_published: 2024-07-08T00:00:00+00:00
+
+ ## VPN Indonesia - Turbo Proxy
+ - [https://vpn-indonesia-turbo-proxy.softonic-ar.com](https://vpn-indonesia-turbo-proxy.softonic-ar.com)
+ - date_published: 2024-07-29T00:00:00+00:00
 
  ## VPN - Unlimited Best VPN Proxy
  - [https://vpn-unlimited-best-vpn-proxy.softonic-ar.com](https://vpn-unlimited-best-vpn-proxy.softonic-ar.com)
@@ -2790,9 +2854,17 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  - [https://zanti.softonic-ar.com](https://zanti.softonic-ar.com)
  - date_published: 2024-08-03T16:52:49.102822+00:00
 
+ ## ZArchiver Donate
+ - [https://zarchiver-donate.softonic-ar.com](https://zarchiver-donate.softonic-ar.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## ZEDGE Wallpapers
  - [https://zedge-wallpapers.softonic-ar.com](https://zedge-wallpapers.softonic-ar.com)
  - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Zong Tools GFX
+ - [https://zong-tools-gfx.softonic-ar.com](https://zong-tools-gfx.softonic-ar.com)
+ - date_published: 2024-07-26T00:00:00+00:00
 
  ## Zoom Meetings
  - [https://zoom.softonic-ar.com](https://zoom.softonic-ar.com)
@@ -3941,76 +4013,4 @@ colourful and environmentally friendly packaging. We recommend our packaging sol
  ## VidMate
  - [https://vidmate-pxj.softonic-id.com](https://vidmate-pxj.softonic-id.com)
  - date_published: 2024-08-03T15:10:21.903468+00:00
-
- ## Viewster – Movies, TV & Anime
- - [https://viewster-free-movies-on-demand.softonic-id.com](https://viewster-free-movies-on-demand.softonic-id.com)
- - date_published: 2024-08-03T15:02:12.762153+00:00
-
- ## Viggle
- - [https://viggle.softonic-id.com](https://viggle.softonic-id.com)
- - date_published: 2024-08-03T15:09:54.639223+00:00
-
- ## Voicemod
- - [https://voicemod.softonic-id.com](https://voicemod.softonic-id.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Vuze
- - [https://vuze.softonic-id.com](https://vuze.softonic-id.com)
- - date_published: 2024-05-11T11:47:01.481333+00:00
-
- ## kakaopage - webtoon Romantis
- - [https://webcomics-premium-webtoon.softonic-id.com](https://webcomics-premium-webtoon.softonic-id.com)
- - date_published: 2024-08-03T15:00:10.083874+00:00
-
- ## WhatsApp Beta
- - [https://whatsapp-beta.softonic-id.com](https://whatsapp-beta.softonic-id.com)
- - date_published: 2024-08-03T15:04:11.906378+00:00
-
- ## WhatsApp
- - [https://whatsapp.softonic-id.com](https://whatsapp.softonic-id.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## WhatsFake - Create Fake Chats
- - [https://whatsfake-create-fake-chats.softonic-id.com](https://whatsfake-create-fake-chats.softonic-id.com)
- - date_published: 2024-08-03T15:07:00.466949+00:00
-
- ## Wheelie Challenge
- - [https://wheelie-challenge.softonic-id.com](https://wheelie-challenge.softonic-id.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Winamp
- - [https://winamp-lite.softonic-id.com](https://winamp-lite.softonic-id.com)
- - date_published: 2024-08-03T15:00:48.574150+00:00
-
- ## WinBox
- - [https://winbox.softonic-id.com](https://winbox.softonic-id.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Windows Defender
- - [https://windows-defender.softonic-id.com](https://windows-defender.softonic-id.com)
- - date_published: 2024-08-03T15:11:10.106066+00:00
-
- ## Wink-Video Retouching Tool
- - [https://wink-video-retouching-tool.softonic-id.com](https://wink-video-retouching-tool.softonic-id.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## WinRAR
- - [https://winrar.softonic-id.com](https://winrar.softonic-id.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Wish VPN  Private proxy
- - [https://wish-vpn-private-proxy.softonic-id.com](https://wish-vpn-private-proxy.softonic-id.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Woohoo!
- - [https://woohoo-puzzle-game-gray-swan-games.softonic-id.com](https://woohoo-puzzle-game-gray-swan-games.softonic-id.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Berita dan ulasan aplikasi, unduhan dan pencarian perangkat lunak terbaik - Softonic
- - [https://softonic-id.com](https://softonic-id.com)
- - date_published: 2024-04-29T05:13:16.589465+00:00
-
- ## XAMPP
- - [https://xampp.softonic-id.com](https://xampp.softonic-id.com)
- - date_published: 2024-08-03T15:01:11.624803+00:00
 

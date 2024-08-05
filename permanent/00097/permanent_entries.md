@@ -1,3 +1,35 @@
+ ## Древнее и средневековое искусство Европы и Византии
+ - [https://uchitelj.livejournal.com](https://uchitelj.livejournal.com)
+ - date_published: 2024-06-21T14:36:08.376419+00:00
+
+ ## Shut up and calculate
+ - [http://udod.livejournal.com](http://udod.livejournal.com)
+ - date_published: 2024-06-30T08:10:36.862883+00:00
+
+ ## udrepper
+ - [https://udrepper.livejournal.com](https://udrepper.livejournal.com)
+ - date_published: 2024-07-07T04:02:49.558505+00:00
+
+ ## uglynoob
+ - [https://uglynoob.livejournal.com](https://uglynoob.livejournal.com)
+ - date_published: 2024-06-21T14:42:51.556269+00:00
+
+ ## ulaca
+ - [https://ulaca.livejournal.com](https://ulaca.livejournal.com)
+ - date_published: 2024-07-04T16:42:27.146004+00:00
+
+ ## unix_jedi
+ - [http://unix-jedi.livejournal.com](http://unix-jedi.livejournal.com)
+ - date_published: 2024-07-03T23:37:03.939723+00:00
+
+ ## valeryman
+ - [https://valeryman.livejournal.com](https://valeryman.livejournal.com)
+ - date_published: 2024-06-21T14:56:32.291307+00:00
+
+ ## veritykindle
+ - [http://veritykindle.livejournal.com](http://veritykindle.livejournal.com)
+ - date_published: 2024-06-30T08:12:41.815965+00:00
+
  ## Postironic Brain
  - [https://verlaine.livejournal.com](https://verlaine.livejournal.com)
  - date_published: 2024-07-04T16:42:21.942565+00:00
@@ -3986,36 +4018,4 @@
  ## North New Hyde Park New York - North New Hyde Park LongIsland.com
  - [https://northnewhydepark.longisland.com](https://northnewhydepark.longisland.com)
  - date_published: 2024-02-09T00:00:00+00:00
-
- ## North Patchogue New York - North Patchogue LongIsland.com
- - [https://northpatchogue.longisland.com](https://northpatchogue.longisland.com)
- - date_published: 2024-05-04T13:29:15.671308+00:00
-
- ## Northport New York - Northport LongIsland.com
- - [https://northport.longisland.com](https://northport.longisland.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## North Valley Stream New York - North Valley Stream LongIsland.com
- - [https://northvalleystream.longisland.com](https://northvalleystream.longisland.com)
- - date_published: 2024-05-04T13:14:56.939401+00:00
-
- ## North Woodmere New York - North Woodmere LongIsland.com
- - [https://northwoodmere.longisland.com](https://northwoodmere.longisland.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Oakdale New York - Oakdale LongIsland.com
- - [https://oakdale.longisland.com](https://oakdale.longisland.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Ocean Beach New York - Ocean Beach LongIsland.com
- - [https://oceanbeach.longisland.com](https://oceanbeach.longisland.com)
- - date_published: 2024-05-04T13:18:49.242124+00:00
-
- ## Oceanside New York - Oceanside LongIsland.com
- - [https://oceanside.longisland.com](https://oceanside.longisland.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Old Bethpage New York - Old Bethpage LongIsland.com
- - [https://oldbethpage.longisland.com](https://oldbethpage.longisland.com)
- - date_published: 2024-04-02T00:00:00+00:00
 

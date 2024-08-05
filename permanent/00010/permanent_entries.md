@@ -1,3 +1,7 @@
+ ## MaisCuidado
+ - [https://admin.maiscuidado.com.br](https://admin.maiscuidado.com.br)
+ - date_published: 2024-06-03T23:46:17+00:00
+
  ## Mais Novela
  - [https://maisnovela.com.br](https://maisnovela.com.br)
  - date_published: 2024-07-11T17:33:20.706587+00:00
@@ -561,7 +565,7 @@
  - date_published: 2024-06-03T11:26:38+00:00
 
  ## Notícias e análises de app, os melhores downloads - Softonic
- - [https://www.softonic.com.br](https://www.softonic.com.br)
+ - [https://softonic.com.br](https://softonic.com.br)
  - date_published: 2024-04-29T05:11:24.988286+00:00
 
  ## Seja o líder que faz o projeto de software fluir com harmonia | Software Zen
@@ -4018,8 +4022,4 @@
  ## Home - Canadian Nuclear Laboratories
  - [https://www.cnl.ca](https://www.cnl.ca)
  - date_published: 2024-07-24T07:27:52.343793+00:00
-
- ## CNMC - Le Conseil national des musulmans Canadiens
- - [https://cnmc.ca](https://cnmc.ca)
- - date_published: 2024-06-13T17:07:16+00:00
 

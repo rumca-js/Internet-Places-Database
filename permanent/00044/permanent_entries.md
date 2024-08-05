@@ -1,3 +1,7 @@
+ ## Billlls Idle Mind
+ - [http://www.billllsidlemind.blogspot.com](http://www.billllsidlemind.blogspot.com)
+ - date_published: 2024-07-03T10:06:00+00:00
+
  ## Blithering Idiot
  - [http://www.blidiot.blogspot.com](http://www.blidiot.blogspot.com)
  - date_published: 2024-06-15T06:00:32+00:00
@@ -4049,8 +4053,4 @@
  ## Home - BOL - World's No.1 Media Group
  - [https://bolmediagroup.com](https://bolmediagroup.com)
  - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home - BOL - World's No.1 Media Group
- - [https://www.bolnetwork.com](https://www.bolnetwork.com)
- - date_published: 2024-07-03T00:00:00+00:00
 

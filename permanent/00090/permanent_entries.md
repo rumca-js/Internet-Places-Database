@@ -1,3 +1,33 @@
+ ## The Adventures of Accordion Guy in the 21st Century
+ - [https://www.joeydevilla.com](https://www.joeydevilla.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Joey Elsisi
+ - [https://joeyelsisi.com](https://joeyelsisi.com)
+ - date_published: 2023-05-13T00:46:22+00:00
+
+ ## Joseph William Yoder - Software Architect, Developer, Entrepreneur
+ - [https://joeyoder.com](https://joeyoder.com)
+ - date_published: 2024-05-08T09:32:30.230439+00:00
+
+ ## Joey Paniello – Software Engineer
+ - [http://joeypaniello.com](http://joeypaniello.com)
+ - date_published: 2024-07-19T23:27:06.287715+00:00
+
+ ## JOEY Restaurants | The Ultimate in Casual Dining
+ - [https://joeyrestaurants.com](https://joeyrestaurants.com)
+ - date_published: 2024-07-19T17:32:30.772926+00:00
+
+ ## Joe Zim's JavaScript Corner
+ - [http://www.joezimjs.com](http://www.joezimjs.com)
+ - date_published: 2020-05-27T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Jo Freeman: Feminist Scholar and Author
+ - [https://www.jofreeman.com](https://www.jofreeman.com)
+ - date_published: 2024-01-09T02:40:43.568798+00:00
+
  ## O2 Joggler Forum - Index page
  - [https://www.jogglerwiki.com](https://www.jogglerwiki.com)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -4044,33 +4074,4 @@
  ## OMF:BG Message Board - Information
  - [http://omf.justinoakley.com](http://omf.justinoakley.com)
  - date_published: 2024-06-18T22:38:59.335735+00:00
-
- ## justinobeirne.com
- - [https://www.justinobeirne.com](https://www.justinobeirne.com)
- - date_published: 2023-10-25T15:33:49.714161+00:00
-
- ## Justin Ouellette
- - [http://justinouellette.com](http://justinouellette.com)
- - date_published: 2024-07-13T14:45:52.209251+00:00
-
- ## Justin Pinkney
- - [https://justinpinkney.com](https://justinpinkney.com)
- - date_published: 2024-01-02T15:36:17.739923+00:00
-
- ## Justin Pot – I can explain.
- - [https://justinpot.com](https://justinpot.com)
- - date_published: 2024-06-17T03:32:30.572995+00:00
-
- ## Justin Riddle, Ph.D.
- - [https://justin-riddle.com](https://justin-riddle.com)
- - date_published: 2024-05-07T10:00:40.890323+00:00
- - tags: ['personal']
-
- ## Home
- - [https://www.justinsalamon.com](https://www.justinsalamon.com)
- - date_published: 2024-07-20T17:56:43.407969+00:00
-
- ## Justin S Barrett
- - [https://justinsbarrett.com](https://justinsbarrett.com)
- - date_published: 2024-01-04T03:32:10.454006+00:00
 

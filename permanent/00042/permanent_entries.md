@@ -1,3 +1,7 @@
+ ## Philotep's 1/72 Minis Kingdom
+ - [https://philotepsfigures.blogspot.com](https://philotepsfigures.blogspot.com)
+ - date_published: 2024-07-19T12:37:35+00:00
+
  ## Phil's Wargames Stuff
  - [http://philportway.blogspot.com](http://philportway.blogspot.com)
  - date_published: 2024-07-14T17:53:58+00:00
@@ -4016,8 +4020,4 @@
  ## The Great Raven
  - [https://suebursztynski.blogspot.com](https://suebursztynski.blogspot.com)
  - date_published: 2024-06-23T04:12:27+00:00
-
- ## Sugar Cordova
- - [http://sugarcordova.blogspot.com](http://sugarcordova.blogspot.com)
- - date_published: 2024-07-03T02:22:49+00:00
 

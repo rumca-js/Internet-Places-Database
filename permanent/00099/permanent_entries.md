@@ -1,3 +1,35 @@
+ ## Mac's Tavern - Home
+ - [https://macstavern.com](https://macstavern.com)
+ - date_published: 2024-07-03T09:40:37.819712+00:00
+
+ ## Web Development | Software Development | Website Development | Web Design Company | Website Designing Company India » MacSyn InfoTech
+ - [http://www.macsyn.com](http://www.macsyn.com)
+ - date_published: 2024-06-23T01:50:58.425497+00:00
+
+ ## Mac Treasure | Curated List of macOS Apps
+ - [https://mactreasure.com](https://mactreasure.com)
+ - date_published: 2024-07-14T09:08:52.259622+00:00
+
+ ## MacUpdate
+ - [https://download.macupdate.com](https://download.macupdate.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## MacUpdate
+ - [https://member.macupdate.com](https://member.macupdate.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## MacUpdate
+ - [https://www.macupdate.com](https://www.macupdate.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Macworld - News, Tips & Reviews from the Apple Experts
+ - [https://www.macworld.com](https://www.macworld.com)
+ - date_published: 2023-10-25T09:34:02.695903+00:00
+
+ ## macwright.com
+ - [https://macwright.com](https://macwright.com)
+ - date_published: 2024-01-02T03:36:28.516471+00:00
+
  ## Macy’s– Official Site
  - [http://macys.com](http://macys.com)
  - date_published: 2024-04-29T04:48:00.357051+00:00
@@ -4011,37 +4043,4 @@
  ## Code @ MarcoCantu
  - [http://code.marcocantu.com](http://code.marcocantu.com)
  - date_published: 2024-06-21T22:38:59.079674+00:00
-
- ## marcocantu.com-Home
- - [https://www.marcocantu.com](https://www.marcocantu.com)
- - date_published: 2024-05-04T14:18:02.170782+00:00
-
- ## Marco Castorina Blog and Portfolio
- - [https://marcocastorina.com](https://marcocastorina.com)
- - date_published: 2023-01-01T00:00:00+00:00
-
- ## Marco Cevoli
- - [https://marcocevoli.com](https://marcocevoli.com)
- - date_published: 2023-11-29T14:53:51.157547+00:00
- - tags: ['personal']
-
- ## Home | Marco Heine - Freelance Web Developer
- - [https://marcoheine.com](https://marcoheine.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Marco Ieni
- - [https://www.marcoieni.com](https://www.marcoieni.com)
- - date_published: 2024-05-02T13:42:47.450133+00:00
-
- ## Distributed Marketing & DAM Solutions | MarcomCentral
- - [https://marcom.com](https://marcom.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Panconesi
- - [http://www.marcopanconesi.com](http://www.marcopanconesi.com)
- - date_published: 2021-04-21T00:00:00+00:00
-
- ## Marc O'Polo Online Shop - Latest Fashion & Accessoires | MARC O’POLO
- - [https://www.marc-o-polo.com](https://www.marc-o-polo.com)
- - date_published: 2024-06-16T00:00:00+00:00
 

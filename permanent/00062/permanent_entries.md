@@ -1,3 +1,19 @@
+ ## Eater New Orleans
+ - [https://nola.eater.com](https://nola.eater.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Eater NY
+ - [https://ny.eater.com](https://ny.eater.com)
+ - date_published: 2024-05-01T08:13:03.024515+00:00
+
+ ## Eater Portland
+ - [https://pdx.eater.com](https://pdx.eater.com)
+ - date_published: 2024-05-01T08:12:30.489410+00:00
+
+ ## Eater Philly
+ - [https://philly.eater.com](https://philly.eater.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
  ## Eater Phoenix
  - [https://phoenix.eater.com](https://phoenix.eater.com)
  - date_published: 2024-05-01T08:13:25.163728+00:00
@@ -4026,20 +4042,4 @@
  - [https://www.elegantthemes.com](https://www.elegantthemes.com)
  - date_published: 2023-12-13T15:44:07.450174+00:00
  - tags: ['wordpress']
-
- ## ELEGOO AU
- - [https://au.elegoo.com](https://au.elegoo.com)
- - date_published: 2024-05-01T08:44:50.600768+00:00
-
- ## ELEGOO CA
- - [https://ca.elegoo.com](https://ca.elegoo.com)
- - date_published: 2024-05-01T08:44:39.736597+00:00
-
- ## ELEGOO: Best Consumer Level 3D Printers, Materials and STEM Products
- - [https://eu.elegoo.com](https://eu.elegoo.com)
- - date_published: 2024-05-01T08:44:24.350720+00:00
-
- ## ELEGOO: Best Consumer Level 3D Printers, Materials and STEM Products
- - [https://jp.elegoo.com](https://jp.elegoo.com)
- - date_published: 2024-06-17T02:11:46.227111+00:00
 

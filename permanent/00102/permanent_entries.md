@@ -1,3 +1,35 @@
+ ## Medium – Where good ideas find you.
+ - [https://link.medium.com](https://link.medium.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Lissi – Medium
+ - [https://lissi-id.medium.com](https://lissi-id.medium.com)
+ - date_published: 2024-06-15T16:44:12.284032+00:00
+
+ ## Liza Donnelly – Medium
+ - [https://lizadonnelly.medium.com](https://lizadonnelly.medium.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Ming – Medium
+ - [https://lmy.medium.com](https://lmy.medium.com)
+ - date_published: 2023-10-25T10:21:20.575852+00:00
+
+ ## Logan Kilpatrick – Medium
+ - [https://logankilpatrick.medium.com](https://logankilpatrick.medium.com)
+ - date_published: 2023-10-25T10:21:22.786994+00:00
+
+ ## Jeremy Wagstaff – Medium
+ - [https://loosewire.medium.com](https://loosewire.medium.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## taha aka "lordx64" – Medium
+ - [https://lordx64.medium.com](https://lordx64.medium.com)
+ - date_published: 2024-07-04T12:32:50.470001+00:00
+
+ ## Laurent Renard – Medium
+ - [https://lorenzofox3.medium.com](https://lorenzofox3.medium.com)
+ - date_published: 2024-05-09T06:07:52.757392+00:00
+
  ## Low-tech Lab Montreal – Medium
  - [https://lowtechmtl.medium.com](https://lowtechmtl.medium.com)
  - date_published: 2024-02-08T17:06:48.169531+00:00
@@ -4005,36 +4037,4 @@
  ## MetLife Investment Management
  - [https://investments.metlife.com](https://investments.metlife.com)
  - date_published: 2024-07-19T16:44:42+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.metlife.com](https://investor.metlife.com)
- - date_published: 2024-07-19T16:53:21.950565+00:00
-
- ## MyBenefits - Startup Page
- - [https://mybenefits.metlife.com](https://mybenefits.metlife.com)
- - date_published: 2024-05-18T04:47:08+00:00
-
- ## Log in
- - [https://mypets.metlife.com](https://mypets.metlife.com)
- - date_published: 2024-07-19T16:52:40.756964+00:00
-
- ## Login
- - [https://online.metlife.com](https://online.metlife.com)
- - date_published: 2024-07-19T16:52:39.272320+00:00
-
- ## Login
- - [https://qa4.phoenix.ead.metlife.com](https://qa4.phoenix.ead.metlife.com)
- - date_published: 2024-07-19T16:52:50.471861+00:00
-
- ## SBR - Startup Page
- - [https://sbr.metlife.com](https://sbr.metlife.com)
- - date_published: 2024-06-22T03:37:12+00:00
-
- ## MetLife 2023 Sustainability Report | MetLife
- - [https://sustainabilityreport.metlife.com](https://sustainabilityreport.metlife.com)
- - date_published: 2024-07-19T16:43:51+00:00
-
- ## Insurance and Employee Benefits | MetLife
- - [https://metlife.com](https://metlife.com)
- - date_published: 2024-04-29T04:12:33.725793+00:00
 

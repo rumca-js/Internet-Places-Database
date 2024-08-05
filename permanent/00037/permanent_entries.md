@@ -1,3 +1,7 @@
+ ## ビットコイン取引所【bitFlyer Lightning】
+ - [https://lightning.bitflyer.com](https://lightning.bitflyer.com)
+ - date_published: 2024-06-16T08:07:10.008566+00:00
+
  ## BitFolk :: No-Nonsense VPS Hosting
  - [http://bitfolk.com](http://bitfolk.com)
  - date_published: 2024-07-09T08:14:16.313941+00:00
@@ -4056,8 +4060,4 @@
  ## Ancient World Bloggers Group (AWBG)
  - [https://ancientworldbloggers.blogspot.com](https://ancientworldbloggers.blogspot.com)
  - date_published: 2024-05-13T10:04:42+00:00
-
- ## AWOL - The Ancient World Online
- - [https://ancientworldonline.blogspot.com](https://ancientworldonline.blogspot.com)
- - date_published: 2024-05-05T00:00:00+00:00
 

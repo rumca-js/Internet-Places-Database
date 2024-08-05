@@ -1,3 +1,7 @@
+ ## Dalauppror
+ - [https://dalauppror.blogspot.com](https://dalauppror.blogspot.com)
+ - date_published: 2024-04-14T17:15:00+00:00
+
  ## Daled Amos
  - [http://daledamos.blogspot.com](http://daledamos.blogspot.com)
  - date_published: 2024-06-25T22:03:03+00:00
@@ -4011,8 +4015,4 @@
  ## GroundZeroArt
  - [https://groundzeroart.blogspot.com](https://groundzeroart.blogspot.com)
  - date_published: 2024-06-06T07:27:32.677987+00:00
-
- ## Grudgingly Read
- - [http://grudginglyread.blogspot.com](http://grudginglyread.blogspot.com)
- - date_published: 2024-05-11T00:27:30+00:00
 

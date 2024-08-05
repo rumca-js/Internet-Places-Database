@@ -1,3 +1,11 @@
+ ## Comeet Help Center
+ - [https://help.comeet.com](https://help.comeet.com)
+ - date_published: 2024-07-04T03:39:04.903751+00:00
+
+ ## The Applicant Tracking System That Hiring Mangers Love - Comeet
+ - [https://comeet.com](https://comeet.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
  ## Consumer Privacy Act
  - [https://calprivacy.comenity.com](https://calprivacy.comenity.com)
  - date_published: 2023-07-11T05:05:09+00:00
@@ -4033,12 +4041,4 @@ Real Estate Supercenter
  ## Corante – The Latest News & Trends
  - [https://many.corante.com](https://many.corante.com)
  - date_published: 2024-05-11T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [https://pipeline.corante.com](https://pipeline.corante.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Corante – The Latest News & Trends
- - [http://www.corante.com](http://www.corante.com)
- - date_published: 2024-05-28T00:00:00+00:00
 

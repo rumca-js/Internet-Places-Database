@@ -1,3 +1,7 @@
+ ## Venir en aide aux plus démuni·e·s, sans discrimination. - Fondation Mère Sofia
+ - [https://www.meresofia.ch](https://www.meresofia.ch)
+ - date_published: 2024-04-18T00:00:00+00:00
+
  ## Home
  - [https://mesh.ch](https://mesh.ch)
  - date_published: 2024-03-21T00:00:00+00:00
@@ -4022,8 +4026,4 @@ Fakultät | Universität Basel
  ## Inicio
  - [https://nrao.cl](https://nrao.cl)
  - date_published: 2024-06-05T00:00:00+00:00
-
- ## Home - AURA Observatory in Chile
- - [https://observatorioaura.cl](https://observatorioaura.cl)
- - date_published: 2024-07-01T07:00:48+00:00
 

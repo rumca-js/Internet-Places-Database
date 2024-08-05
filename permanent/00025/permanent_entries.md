@@ -1,3 +1,7 @@
+ ## Aaron Parecki
+ - [https://aaronparecki.com](https://aaronparecki.com)
+ - date_published: 2024-02-06T20:37:40.097647+00:00
+
  ## LINQ to Fail
  - [https://www.aaron-powell.com](https://www.aaron-powell.com)
  - date_published: 2023-10-25T08:57:54.880761+00:00
@@ -4040,8 +4044,4 @@
  ## Adam Wolpert
  - [http://adamwolpert.com](http://adamwolpert.com)
  - date_published: 2024-04-04T22:30:31+00:00
-
- ## Home - Ada Palmer
- - [https://www.adapalmer.com](https://www.adapalmer.com)
- - date_published: 2024-01-25T00:00:00+00:00
 

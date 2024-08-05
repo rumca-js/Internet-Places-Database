@@ -1,3 +1,11 @@
+ ## Capcom Mobile GamesCAPCOM MOBILE
+ - [https://us.capcommobile.com](https://us.capcommobile.com)
+ - date_published: 2024-07-02T06:43:13+00:00
+
+ ## オンラインクレーンゲーム「カプコンネットキャッチャー カプとれ」 - UFOキャッチャーをネットやアプリで楽しめる -
+ - [https://capcom-netcatcher.com](https://capcom-netcatcher.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Capcom News
  - [http://capcom-unity.com](http://capcom-unity.com)
  - date_published: 2024-06-18T20:09:35.667119+00:00
@@ -4034,12 +4042,4 @@
  ## cdnjs Status
  - [https://status.cdnjs.com](https://status.cdnjs.com)
  - date_published: 2024-04-21T00:00:00+00:00
-
- ## cdnjs Swag Store
- - [https://swag.cdnjs.com](https://swag.cdnjs.com)
- - date_published: 2019-10-24T17:42:45+00:00
-
- ## Canadian Money Tracker :: Main
- - [http://cdn-money.com](http://cdn-money.com)
- - date_published: 2024-06-23T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## The Best Remote Design Jobs from Top Remote Companies - DesignRemotely
+ - [https://designremotely.co](https://designremotely.co)
+ - date_published: 2024-05-12T07:47:24.050328+00:00
+
  ## Detail – Capture The Conversation
  - [https://detail.co](https://detail.co)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4041,8 +4045,4 @@ It’s what you do.
  ## Business Aviation News | Business Airport International Magazine | MAG
  - [https://s44876.pcdn.co](https://s44876.pcdn.co)
  - date_published: 2024-07-14T07:23:52.201025+00:00
-
- ## Business Jet Interiors | Private Plane & Aviation News | Magazine | MAG
- - [https://s45166.pcdn.co](https://s45166.pcdn.co)
- - date_published: 2024-06-15T05:30:06.156374+00:00
 

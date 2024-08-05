@@ -1,3 +1,23 @@
+ ## Gadling
+ - [https://gadling.com](https://gadling.com)
+ - date_published: 2024-04-27T14:41:10.098193+00:00
+
+ ## Professor | Gad Saad
+ - [https://www.gadsaad.com](https://www.gadsaad.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Gadsden Times: Local News, Politics & Sports in Gadsden, AL
+ - [https://cm.gadsdentimes.com](https://cm.gadsdentimes.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Help Center - Gadsden Times
+ - [https://help.gadsdentimes.com](https://help.gadsdentimes.com)
+ - date_published: 2024-07-12T18:23:16.399695+00:00
+
+ ## Newsletters | Gadsden Times
+ - [https://profile.gadsdentimes.com](https://profile.gadsdentimes.com)
+ - date_published: 2024-07-12T18:23:20.018913+00:00
+
  ## Gadsden Times: Local News, Politics & Sports in Gadsden, AL
  - [https://gadsdentimes.com](https://gadsdentimes.com)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -4042,25 +4062,4 @@
  ## Clippa
  - [https://editor.gemoo.com](https://editor.gemoo.com)
  - date_published: 2024-07-17T03:32:21+00:00
-
- ## Gemoo - Your One-Stop Platform to Create, Edit, and Share Videos
- - [https://gemoo.com](https://gemoo.com)
- - date_published: 2024-05-15T02:44:58.404036+00:00
-
- ## Gems of War – Match 3 Puzzle RPG from the Developers of Puzzle Quest
- - [http://www.gemsofwar.com](http://www.gemsofwar.com)
- - date_published: 2024-07-12T22:23:08.115145+00:00
-
- ## Gem State Comic Con
- - [https://gemstatecomiccon.com](https://gemstatecomiccon.com)
- - date_published: 2024-04-06T00:00:00+00:00
- - tags: ['convention', 'comics']
-
- ## Gemstone Publishing
- - [http://www.gemstonepub.com](http://www.gemstonepub.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## SqueakSource3
- - [https://ss3.gemtalksystems.com](https://ss3.gemtalksystems.com)
- - date_published: 2024-07-19T15:22:51.107149+00:00
 

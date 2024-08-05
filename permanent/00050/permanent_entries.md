@@ -1,3 +1,11 @@
+ ## Shop Chick-fil-A
+ - [https://shop.chick-fil-a.com](https://shop.chick-fil-a.com)
+ - date_published: 2024-05-08T05:02:58.589861+00:00
+
+ ## Chicken Sandwiches, Waffle Potato Fries, Salads & More | Chick-fil-A
+ - [https://chick-fil-a.com](https://chick-fil-a.com)
+ - date_published: 2023-10-25T13:22:05.954894+00:00
+
  ## NameBright - Coming Soon
  - [http://chicklitreviews.com](http://chicklitreviews.com)
  - date_published: 2024-05-08T06:33:49.111429+00:00
@@ -4050,12 +4058,4 @@ cpc直得科技股份有限公司、直線運動、線性滑軌、滾子型線�
  ## CoStar AH
  - [https://images1.cityfeet.com](https://images1.cityfeet.com)
  - date_published: 2024-06-24T17:51:07+00:00
-
- ## CityFeet: Commercial Real Estate for Sale & Lease
- - [https://cityfeet.com](https://cityfeet.com)
- - date_published: 2024-05-12T07:41:31.947847+00:00
-
- ## CityFibre | The Full Fibre Broadband Network
- - [https://cityfibre.com](https://cityfibre.com)
- - date_published: 2024-06-18T07:57:56.736764+00:00
 

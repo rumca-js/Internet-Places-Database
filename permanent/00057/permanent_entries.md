@@ -1,3 +1,15 @@
+ ## David A. Windham
+ - [https://davidawindham.com](https://davidawindham.com)
+ - date_published: 2024-02-02T14:28:46.222312+00:00
+
+ ## David Barr Kirtley – Science fiction author and podcaster
+ - [http://www.davidbarrkirtley.com](http://www.davidbarrkirtley.com)
+ - date_published: 2024-06-30T10:35:26.893461+00:00
+
+ ## davidbau.com
+ - [http://davidbau.com](http://davidbau.com)
+ - date_published: 2023-10-25T13:45:23.165762+00:00
+
  ## David Bellavia | House to House
  - [http://davidbellavia.com](http://davidbellavia.com)
  - date_published: 2024-06-27T08:57:57.823810+00:00
@@ -4068,16 +4080,4 @@
  ## Homepage
  - [https://www.denver7.com](https://www.denver7.com)
  - date_published: 2023-11-06T03:55:12.502837+00:00
-
- ## Denver Broncos
- - [https://www.denverbroncos.com](https://www.denverbroncos.com)
- - date_published: 2024-06-21T22:50:43.319022+00:00
-
- ## Home - Bellco Theatre
- - [http://denverconvention.com](http://denverconvention.com)
- - date_published: 2024-07-02T03:03:09.518256+00:00
-
- ## Subscribe to Denver Gazette
- - [https://checkout.denvergazette.com](https://checkout.denvergazette.com)
- - date_published: 2024-04-30T00:00:00+00:00
 

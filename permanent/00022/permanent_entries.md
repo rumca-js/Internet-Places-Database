@@ -1,3 +1,7 @@
+ ## Business Jet Interiors | Private Plane & Aviation News | Magazine | MAG
+ - [https://s45166.pcdn.co](https://s45166.pcdn.co)
+ - date_published: 2024-06-15T05:30:06.156374+00:00
+
  ## The Teaching Professor
  - [https://s45271.pcdn.co](https://s45271.pcdn.co)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -4017,8 +4021,4 @@
  ## Zona Amazonia - ZOCC / Universidad Nacional Abierta y a Distancia UNAD
  - [https://amazonia.unad.edu.co](https://amazonia.unad.edu.co)
  - date_published: 2022-06-01T18:23:13+00:00
-
- ## Plataforma Aurea, Universidad Abierta y a Distancia - UNAD - Colombia
- - [https://aurea.unad.edu.co](https://aurea.unad.edu.co)
- - date_published: 2024-06-12T03:13:55.023746+00:00
 

@@ -1,3 +1,24 @@
+ ## Cibervigilancia Ciberinteligencia OSINT - Comunidad GINSEG
+ - [https://www.ginseg.com](https://www.ginseg.com)
+ - date_published: 2024-06-21T23:56:24.205264+00:00
+
+ ## Giochi online e non solo – A quale gioco vuoi giocare oggi?
+ - [https://giochinet.com](https://giochinet.com)
+ - date_published: 2024-06-19T21:58:00.662343+00:00
+
+ ## Giovanni Dicanio's Blog
+ - [https://giodicanio.com](https://giodicanio.com)
+ - date_published: 2024-01-11T05:10:09.506308+00:00
+
+ ## Gioel Gio – Creative action researcher
+ - [https://gioelgio.com](https://gioelgio.com)
+ - date_published: 2024-01-15T08:33:12.975028+00:00
+ - tags: ['personal']
+
+ ## giorgialupi
+ - [http://giorgialupi.com](http://giorgialupi.com)
+ - date_published: 2024-07-10T11:20:25.268095+00:00
+
  ## Hi, I’m Giorgio. | Giorgio Pretto - UX Designer
  - [https://giorgiopretto.com](https://giorgiopretto.com)
  - date_published: 2024-05-04T08:01:11.171591+00:00
@@ -220,10 +241,18 @@
  - [https://gitbutler.com](https://gitbutler.com)
  - date_published: 2024-02-13T17:40:46.878154+00:00
 
+ ## The first Developer-Friendly Software Engineering Intelligence platform - GitClear
+ - [https://gitclear.com](https://gitclear.com)
+ - date_published: 2024-08-04T21:19:05+00:00
+ - tags: ['proprietary', 'github', 'analytics']
+
+ ## GitClear
+ - [https://support.gitclear.com](https://support.gitclear.com)
+ - date_published: 2017-08-08T00:00:00+00:00
+
  ## The first Developer-Friendly Analytics tool - GitClear
  - [https://www.gitclear.com](https://www.gitclear.com)
  - date_published: 2023-10-25T14:44:24.167415+00:00
- - tags: ['proprietary', 'github', 'analytics']
 
  ## Level Up Coding
  - [https://levelup.gitconnected.com](https://levelup.gitconnected.com)
@@ -4013,31 +4042,4 @@
  ## Golden Globes
  - [https://goldenglobes.com](https://goldenglobes.com)
  - date_published: 2024-01-08T06:39:34.817882+00:00
-
- ## Golden Goblin Press and the ENnies! - Golden Goblin Press
- - [https://www.goldengoblinpress.com](https://www.goldengoblinpress.com)
- - date_published: 2024-07-02T08:50:50.036407+00:00
-
- ## Oakland University Athletics - Official Athletics Website
- - [https://goldengrizzlies.com](https://goldengrizzlies.com)
- - date_published: 2024-06-22T10:42:40+00:00
-
- ## Oakland University Athletics - Official Athletics Website
- - [http://www.goldengrizzlies.com](http://www.goldengrizzlies.com)
- - date_published: 2024-06-22T10:42:40+00:00
-
- ## Golden-Hotels
- - [http://www.golden-gryphon.com](http://www.golden-gryphon.com)
- - date_published: 2024-07-09T07:57:35.440753+00:00
-
- - [https://www.goldengryphon.com](https://www.goldengryphon.com)
- - date_published: 2024-02-08T16:51:50.715556+00:00
-
- ## Golden Hearts Games
- - [https://www.goldenheartsgames.com](https://www.goldenheartsgames.com)
- - date_published: 2024-07-02T15:33:08+00:00
-
- ## Unread: An RSS Reader
- - [https://www.goldenhillsoftware.com](https://www.goldenhillsoftware.com)
- - date_published: 2024-06-12T18:13:28+00:00
 

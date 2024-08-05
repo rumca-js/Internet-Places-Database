@@ -1,3 +1,7 @@
+ ## Grudgingly Read
+ - [http://grudginglyread.blogspot.com](http://grudginglyread.blogspot.com)
+ - date_published: 2024-05-11T00:27:30+00:00
+
  ## The Grumpologist
  - [https://grumpologist.blogspot.com](https://grumpologist.blogspot.com)
  - date_published: 2024-03-13T22:47:43+00:00
@@ -4013,8 +4017,4 @@
  ## Social Media, Data Mining & Machine Learning
  - [http://machine-learning.blogspot.com](http://machine-learning.blogspot.com)
  - date_published: 2024-04-27T01:05:07+00:00
-
- ## Machine Vision 4 Users
- - [http://machinevision4users.blogspot.com](http://machinevision4users.blogspot.com)
- - date_published: 2024-06-11T23:52:06+00:00
 

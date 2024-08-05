@@ -1,3 +1,7 @@
+ ## 国家税务总局上海市税务局
+ - [http://shanghai.chinatax.gov.cn](http://shanghai.chinatax.gov.cn)
+ - date_published: 2024-06-30T18:54:33.812386+00:00
+
  ## 国家税务总局深圳市税务局
  - [https://shenzhen.chinatax.gov.cn](https://shenzhen.chinatax.gov.cn)
  - date_published: 2024-06-30T00:00:00+00:00
@@ -3997,8 +4001,4 @@
  ## 天津市发展和改革委员会
  - [http://fzgg.tj.gov.cn](http://fzgg.tj.gov.cn)
  - date_published: 2024-06-25T00:00:00+00:00
-
- ## 天津市规划和自然资源局
- - [http://ghhzrzy.tj.gov.cn](http://ghhzrzy.tj.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
 

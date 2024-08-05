@@ -2145,6 +2145,10 @@
  - [https://eth.boston](https://eth.boston)
  - date_published: 2024-06-16T03:32:47.629917+00:00
 
+ ## Open Source Farming Robot
+ - [https://farm.bot](https://farm.bot)
+ - date_published: 2024-08-03T23:37:52+00:00
+
  ## Show HN: Gobble Bot
  - [https://gobble.bot](https://gobble.bot)
  - date_published: 2023-12-03T12:57:13+00:00
@@ -4082,8 +4086,4 @@ Educação
  ## John Deere MachineFinder Used Equipment
  - [https://www.machinefinder.com.br](https://www.machinefinder.com.br)
  - date_published: 2024-06-15T21:09:32.666441+00:00
-
- ## MaisCuidado
- - [https://admin.maiscuidado.com.br](https://admin.maiscuidado.com.br)
- - date_published: 2024-06-03T23:46:17+00:00
 

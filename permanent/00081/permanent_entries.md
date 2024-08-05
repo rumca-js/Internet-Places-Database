@@ -1,3 +1,31 @@
+ ## HAL Resources – Home
+ - [http://hbgresources.com](http://hbgresources.com)
+ - date_published: 2020-07-29T17:53:58+00:00
+
+ ## HAL Resources – Home
+ - [https://www.hbgresources.com](https://www.hbgresources.com)
+ - date_published: 2020-07-29T17:53:58+00:00
+
+ ## HBG Author Portal
+ - [https://authorportal.hbgusa.com](https://authorportal.hbgusa.com)
+ - date_published: 2024-04-19T14:39:37+00:00
+
+ ## IIS Windows Server
+ - [https://hbi-webftpxfer2.hbi.com](https://hbi-webftpxfer2.hbi.com)
+ - date_published: 2023-02-15T21:47:30+00:00
+
+ ## hbish.com - Ben Shi
+ - [https://hbish.com](https://hbish.com)
+ - date_published: 2024-05-11T10:19:49.271902+00:00
+
+ ## hbisustains.com |
+ - [https://hbisustains.com](https://hbisustains.com)
+ - date_published: 2024-06-17T16:25:41.803927+00:00
+
+ ## Empower the innovators
+ - [https://www.hbkworld.com](https://www.hbkworld.com)
+ - date_published: 2024-06-15T05:30:55.898231+00:00
+
  ## HBL – Harry Binswanger's moderated discussion list  for Objectivists
  - [https://www.hbletter.com](https://www.hbletter.com)
  - date_published: 2024-06-20T04:01:20+00:00
@@ -4013,32 +4041,4 @@
  ## Hidden Mountain
  - [http://hidden-mountain.com](http://hidden-mountain.com)
  - date_published: 2024-07-13T15:30:33.733666+00:00
-
- ## Hidden Remote - Best TV Shows, Movie News, Streaming & Updates
- - [https://hiddenremote.com](https://hiddenremote.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## The shape of a theorem
- - [https://hidden-shapes.com](https://hidden-shapes.com)
- - date_published: 2023-09-27T15:26:28+00:00
-
- ## Welcome to HiddenSongs.com!
- - [https://hiddensongs.com](https://hiddensongs.com)
- - date_published: 2024-07-17T23:15:47.525559+00:00
-
- ## Home
- - [https://www.hiddenvariable.com](https://www.hiddenvariable.com)
- - date_published: 2024-06-18T22:39:57.686899+00:00
-
- ## hidell brooks gallery
- - [https://www.hidellbrooks.com](https://www.hidellbrooks.com)
- - date_published: 2024-05-04T14:18:50.984988+00:00
-
- ## Hide My IP - Affiliate Program
- - [https://affiliate.hide-my-ip.com](https://affiliate.hide-my-ip.com)
- - date_published: 2024-06-03T06:37:51.785745+00:00
-
- ## Hide My IP - Hide Your IP, Surf Anonymously, and Access Blocked Websites
- - [http://www.hide-my-ip.com](http://www.hide-my-ip.com)
- - date_published: 2024-06-03T06:37:46.400621+00:00
 

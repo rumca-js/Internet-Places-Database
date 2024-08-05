@@ -1,3 +1,15 @@
+ ## Cypress Grove Goat Cheese | Nationwide Shipping
+ - [https://www.cypressgrovecheese.com](https://www.cypressgrovecheese.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Cypress Ridge Golf Course | Topeka, KS
+ - [https://cypressridgegc.com](https://cypressridgegc.com)
+ - date_published: 2024-07-01T12:37:47.323043+00:00
+
+ ## Cyprus Daily News Briefing - CyprusBeat
+ - [https://cyprusbeat.com](https://cyprusbeat.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
  ## Cyprus Mail
  - [https://cyprus-mail.com](https://cyprus-mail.com)
  - date_published: 2023-11-23T13:54:27.955298+00:00
@@ -4052,16 +4064,4 @@
  ## Gogs
  - [https://code.davidawindham.com](https://code.davidawindham.com)
  - date_published: 2024-04-21T00:00:00+00:00
-
- ## David A. Windham
- - [https://davidawindham.com](https://davidawindham.com)
- - date_published: 2024-02-02T14:28:46.222312+00:00
-
- ## David Barr Kirtley – Science fiction author and podcaster
- - [http://www.davidbarrkirtley.com](http://www.davidbarrkirtley.com)
- - date_published: 2024-06-30T10:35:26.893461+00:00
-
- ## davidbau.com
- - [http://davidbau.com](http://davidbau.com)
- - date_published: 2023-10-25T13:45:23.165762+00:00
 

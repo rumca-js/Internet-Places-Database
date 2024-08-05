@@ -1,3 +1,31 @@
+ ## Firearms, Ammunition & Accessories Media - Guns and Ammo
+ - [http://forums.gunsandammo.com](http://forums.gunsandammo.com)
+ - date_published: 2024-07-04T01:07:50+00:00
+
+ ## Gunshow - Thanks bye.
+ - [https://gunshowcomic.com](https://gunshowcomic.com)
+ - date_published: 2024-05-11T10:32:18.762984+00:00
+
+ ## gunshowonthenet.com
+ - [http://gunshowonthenet.com](http://gunshowonthenet.com)
+ - date_published: 2024-07-03T23:39:36.080908+00:00
+
+ ## Guns in the News
+ - [https://gunsinthenews.com](https://gunsinthenews.com)
+ - date_published: 2024-05-01T16:48:20+00:00
+
+ ## Guns Save Life
+ - [http://gunssavelife.com](http://gunssavelife.com)
+ - date_published: 2024-07-03T23:25:43.677436+00:00
+
+ ## NFA Gun Trust Lawyer Blog
+ - [http://www.guntrustlawyer.com](http://www.guntrustlawyer.com)
+ - date_published: 2023-03-27T00:00:00+00:00
+
+ ## Gunung Capital - Transformational Investing For A Sustainable Green Future
+ - [https://gunungcapital.com](https://gunungcapital.com)
+ - date_published: 2022-11-06T19:09:38+00:00
+
  ## 蒼き雷霆(アームドブルー)ガンヴォルト│ポータルサイト
  - [http://gunvolt.com](http://gunvolt.com)
  - date_published: 2023-01-13T03:17:14+00:00
@@ -4024,32 +4052,4 @@
  ## Hachette Academic & Library – Adult Library Home
  - [https://www.hbglibrary.com](https://www.hbglibrary.com)
  - date_published: 2020-07-21T14:30:15+00:00
-
- ## HAL Resources – Home
- - [http://hbgresources.com](http://hbgresources.com)
- - date_published: 2020-07-29T17:53:58+00:00
-
- ## HAL Resources – Home
- - [https://www.hbgresources.com](https://www.hbgresources.com)
- - date_published: 2020-07-29T17:53:58+00:00
-
- ## HBG Author Portal
- - [https://authorportal.hbgusa.com](https://authorportal.hbgusa.com)
- - date_published: 2024-04-19T14:39:37+00:00
-
- ## IIS Windows Server
- - [https://hbi-webftpxfer2.hbi.com](https://hbi-webftpxfer2.hbi.com)
- - date_published: 2023-02-15T21:47:30+00:00
-
- ## hbish.com - Ben Shi
- - [https://hbish.com](https://hbish.com)
- - date_published: 2024-05-11T10:19:49.271902+00:00
-
- ## hbisustains.com |
- - [https://hbisustains.com](https://hbisustains.com)
- - date_published: 2024-06-17T16:25:41.803927+00:00
-
- ## Empower the innovators
- - [https://www.hbkworld.com](https://www.hbkworld.com)
- - date_published: 2024-06-15T05:30:55.898231+00:00
 

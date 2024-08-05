@@ -1,3 +1,11 @@
+ ## Corante – The Latest News & Trends
+ - [https://pipeline.corante.com](https://pipeline.corante.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Corante – The Latest News & Trends
+ - [http://www.corante.com](http://www.corante.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
  ## Cora SEO - Save 25% - Lifetime Discount
  - [https://corasoftwarereview.com](https://corasoftwarereview.com)
  - date_published: 2024-06-18T06:08:10.849453+00:00
@@ -3793,6 +3801,10 @@
  - [https://croatiahonestly.com](https://croatiahonestly.com)
  - date_published: 2024-05-06T20:17:08.002869+00:00
 
+ ## Croatia Week
+ - [https://www.croatiaweek.com](https://www.croatiaweek.com)
+ - date_published: 2024-08-04T21:32:04.436274+00:00
+
  ## www.ORBIS.hr - Internet usluge
  - [http://www.crobanner.com](http://www.crobanner.com)
  - date_published: 2006-01-02T11:46:04+00:00
@@ -4047,16 +4059,4 @@
  ## Off The Grid Living - Off The Grid Living
  - [https://crossmyt.com](https://crossmyt.com)
  - date_published: 2024-05-07T15:41:44.858042+00:00
-
- ## The only cross-lingual plagiarism checker - Crossplag
- - [https://crossplag.com](https://crossplag.com)
- - date_published: 2023-12-08T00:00:00+00:00
-
- ## CROSS PLANES
- - [http://www.crossplanes.com](http://www.crossplanes.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## crossresults.com - we wrangle data so you don't have to
- - [https://www.crossresults.com](https://www.crossresults.com)
- - date_published: 2024-06-15T11:52:14.946469+00:00
 

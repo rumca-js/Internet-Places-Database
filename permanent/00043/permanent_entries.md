@@ -1,3 +1,7 @@
+ ## Sugar Cordova
+ - [http://sugarcordova.blogspot.com](http://sugarcordova.blogspot.com)
+ - date_published: 2024-07-03T02:22:49+00:00
+
  ## [GSOC 2015] Sugarizing Paris 2015
  - [http://sugarizingparis2015.blogspot.com](http://sugarizingparis2015.blogspot.com)
  - date_published: 2024-02-19T12:01:21+00:00
@@ -4015,8 +4019,4 @@
  ## Bewitching Book Tours
  - [http://www.bewitchingbooktours.blogspot.com](http://www.bewitchingbooktours.blogspot.com)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Billlls Idle Mind
- - [http://www.billllsidlemind.blogspot.com](http://www.billllsidlemind.blogspot.com)
- - date_published: 2024-07-03T10:06:00+00:00
 

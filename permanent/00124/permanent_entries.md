@@ -1,3 +1,47 @@
+ ## Home - Rewriting The Rules
+ - [https://www.rewriting-the-rules.com](https://www.rewriting-the-rules.com)
+ - date_published: 2024-06-24T10:20:05.712707+00:00
+
+ ## Rex Black Inc
+ - [https://www.rexblack.com](https://www.rexblack.com)
+ - date_published: 2024-07-02T17:51:33.804969+00:00
+
+ ## Rex Computing
+ - [http://rexcomputing.com](http://rexcomputing.com)
+ - date_published: 2024-05-29T17:18:15+00:00
+
+ ## Regex Tutorial—From Regex 101 to Advanced Regex
+ - [http://www.rexegg.com](http://www.rexegg.com)
+ - date_published: 2021-12-24T18:48:50+00:00
+
+ ## https://rexresearch.com
+ - [https://rexresearch.com](https://rexresearch.com)
+ - date_published: 2024-01-09T02:47:54.239076+00:00
+
+ ## Innovative Software, die Mittelstand & Konzerne begeistert
+ - [https://www.rexx-systems.com](https://www.rexx-systems.com)
+ - date_published: 2020-09-28T19:22:46+00:00
+
+ ## Reykjavik Raincoats
+ - [https://www.reykjavikraincoats.com](https://www.reykjavikraincoats.com)
+ - date_published: 2024-05-06T15:12:06.868558+00:00
+
+ ## Reza
+ - [http://www.rezab.com](http://www.rezab.com)
+ - date_published: 2024-03-23T18:18:10+00:00
+
+ ## Mayawalk Tours Reservations
+ - [https://mayawalk.rezdy.com](https://mayawalk.rezdy.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home - Jon Evans
+ - [http://www.rezendi.com](http://www.rezendi.com)
+ - date_published: 2023-04-01T00:03:30+00:00
+
+ ## Rezilion | Automated Software Supply Chain Security Platform
+ - [https://www.rezilion.com](https://www.rezilion.com)
+ - date_published: 2024-07-22T17:22:59.043327+00:00
+
  ## Rezolutions Design – Shopify E-Commerce Professional Developers
  - [https://rezolutionsdesign.com](https://rezolutionsdesign.com)
  - date_published: 2024-06-22T05:06:00+00:00
@@ -4035,48 +4079,4 @@ Robertson County Sheriff's Office
  ## Roger Molas - iOS Tricks and Findings
  - [https://blog.rogermolas.com](https://blog.rogermolas.com)
  - date_published: 2020-03-21T09:40:36+00:00
-
- ## Roger Pearse's pages
- - [https://www.roger-pearse.com](https://www.roger-pearse.com)
- - date_published: 2018-04-21T15:57:54+00:00
-
- ## Roger Pielke Jr.
- - [http://rogerpielkejr.com](http://rogerpielkejr.com)
- - date_published: 2024-06-15T09:05:00.506980+00:00
-
- ## Roger Russell, McIntosh Lab., Scripto and Norma Pencils and leads
- - [http://www.roger-russell.com](http://www.roger-russell.com)
- - date_published: 2021-05-20T13:55:21+00:00
-
- ## Mobile, Internet, TV, Home Monitoring, Home phone - Rogers
- - [https://www.rogers.com](https://www.rogers.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Mobile, Internet, TV, Home Monitoring, Home phone - Rogers
- - [https://www.rogers-assets.com](https://www.rogers-assets.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Rogers Bank credit cards. Cash back rewards and more | Rogers Bank
- - [https://www.rogersbank.com](https://www.rogersbank.com)
- - date_published: 2024-06-16T06:01:11.653492+00:00
-
- ## Roger Schank
- - [https://www.rogerschank.com](https://www.rogerschank.com)
- - date_published: 2023-10-25T16:53:33.728783+00:00
-
- ## HOME
- - [http://www.roger-scruton.com](http://www.roger-scruton.com)
- - date_published: 2024-06-23T09:40:58+00:00
-
- ## Roger Shuy - Research Professor of Linguistics
- - [http://www.rogershuy.com](http://www.rogershuy.com)
- - date_published: 2024-07-02T09:41:35.833657+00:00
-
- ## Personal site of Roger Stringer | Roger Stringer
- - [https://rogerstringer.com](https://rogerstringer.com)
- - date_published: 2024-01-15T14:06:35.096845+00:00
-
- ## rogersubirana.com see you soon
- - [http://www.rogersubirana.com](http://www.rogersubirana.com)
- - date_published: 2020-12-28T09:34:55+00:00
 

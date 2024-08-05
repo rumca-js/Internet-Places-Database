@@ -1,3 +1,7 @@
+ ## Home - Ada Palmer
+ - [https://www.adapalmer.com](https://www.adapalmer.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
  ## Home - adaptAI
  - [https://www.adaptai.com](https://www.adaptai.com)
  - date_published: 2024-07-12T00:00:00+00:00
@@ -4029,8 +4033,4 @@
         احمد حقیقی
  - [https://ahmadhaghighi.com](https://ahmadhaghighi.com)
  - date_published: 2023-07-17T18:04:03+00:00
-
- ## Ahmed Chrediy
- - [https://ahmedchrediy.com](https://ahmedchrediy.com)
- - date_published: 2024-07-04T01:59:39.874633+00:00
 

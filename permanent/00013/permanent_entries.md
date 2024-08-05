@@ -1,3 +1,7 @@
+ ## Homepage - YFile
+ - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
+ - date_published: 2024-04-30T05:32:00.155249+00:00
+
  ## Welcome to York University! Bienvenue à l'Université York! - York International
  - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -4022,8 +4026,4 @@
  ## Alex Schroeder’s Diary
  - [https://alexschroeder.ch](https://alexschroeder.ch)
  - date_published: 2024-05-09T00:00:00+00:00
-
- ## Code repositories
- - [https://src.alexschroeder.ch](https://src.alexschroeder.ch)
- - date_published: 2024-06-30T21:23:06.218757+00:00
 

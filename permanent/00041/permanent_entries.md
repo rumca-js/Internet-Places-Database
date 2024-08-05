@@ -1,3 +1,7 @@
+ ## Machine Vision 4 Users
+ - [http://machinevision4users.blogspot.com](http://machinevision4users.blogspot.com)
+ - date_published: 2024-06-11T23:52:06+00:00
+
  ## Typecasting in China
  - [http://machopolitan.blogspot.com](http://machopolitan.blogspot.com)
  - date_published: 2024-01-04T23:59:21+00:00
@@ -4018,8 +4022,4 @@
  ## The Power of Language: Philosophy and Society
  - [https://philosophyreaders.blogspot.com](https://philosophyreaders.blogspot.com)
  - date_published: 2024-06-11T03:07:44+00:00
-
- ## Philotep's 1/72 Minis Kingdom
- - [https://philotepsfigures.blogspot.com](https://philotepsfigures.blogspot.com)
- - date_published: 2024-07-19T12:37:35+00:00
 

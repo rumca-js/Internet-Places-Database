@@ -1,3 +1,7 @@
+ ## OFFICIAL SITE | BATHTUBS OVER BROADWAY documentary
+ - [https://www.bathtubsoverbroadway.com](https://www.bathtubsoverbroadway.com)
+ - date_published: 2024-07-04T16:16:08.808260+00:00
+
  ## Batman News
  - [https://batman-news.com](https://batman-news.com)
  - date_published: 2024-05-07T18:48:11.981947+00:00
@@ -4035,8 +4039,4 @@
  ## Apartment Palermo Soho Square Buenos Aires - new 2024 prices, reviews, book now
  - [https://palermo-soho-square.bestbuenosaireshotels.com](https://palermo-soho-square.bestbuenosaireshotels.com)
  - date_published: 2024-07-02T06:49:54.769658+00:00
-
- ## Hotel Palermo Tower Buenos Aires - new 2024 prices, reviews, book now
- - [https://palermo-tower.bestbuenosaireshotels.com](https://palermo-tower.bestbuenosaireshotels.com)
- - date_published: 2024-07-02T06:47:31.952027+00:00
 

@@ -1,3 +1,7 @@
+ ## Policies, procedures, guidelines, directives & bylaws | Royal Roads University
+ - [https://policies.royalroads.ca](https://policies.royalroads.ca)
+ - date_published: 2024-06-15T02:17:31+00:00
+
  ## Home | Royal Roads University
  - [https://www.royalroads.ca](https://www.royalroads.ca)
  - date_published: 2024-05-01T07:10:49.520351+00:00
@@ -4027,8 +4031,4 @@
  ## Research and Innovation | York University
  - [http://www.research.yorku.ca](http://www.research.yorku.ca)
  - date_published: 2024-04-26T00:00:00+00:00
-
- ## Homepage - YFile
- - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
- - date_published: 2024-04-30T05:32:00.155249+00:00
 

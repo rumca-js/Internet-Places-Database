@@ -1,3 +1,35 @@
+ ## Laravel Daily
+ - [https://laraveldaily.com](https://laraveldaily.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Livewire | Livewire
+ - [https://laravel-livewire.com](https://laravel-livewire.com)
+ - date_published: 2024-05-04T05:59:11.572097+00:00
+
+ ## Laravel Mix
+ - [https://laravel-mix.com](https://laravel-mix.com)
+ - date_published: 2024-07-14T00:30:15+00:00
+
+ ## Laravel News
+ - [https://feed.laravel-news.com](https://feed.laravel-news.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date_published: 2023-10-25T15:41:11.614231+00:00
+
+ ## Laravel News Podcast
+ - [https://podcast.laravel-news.com](https://podcast.laravel-news.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Laravel Newsletter
+ - [https://laravelnewsletter.com](https://laravelnewsletter.com)
+ - date_published: 2024-07-19T20:00:06.171128+00:00
+
+ ## The Laravel Podcast
+ - [https://laravelpodcast.com](https://laravelpodcast.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## Blueprint
  - [https://blueprint.laravelshift.com](https://blueprint.laravelshift.com)
  - date_published: 2024-02-21T14:28:29+00:00
@@ -4008,36 +4040,4 @@ Chamber Music, Symphony
  ## The Audio Programmer
  - [https://theaudioprogrammer.lemonsqueezy.com](https://theaudioprogrammer.lemonsqueezy.com)
  - date_published: 2024-07-12T08:47:02.183555+00:00
-
- ## The Computer Science Book | Learn computer science the easy way for self-taught developers
- - [https://thecomputersciencebook.lemonsqueezy.com](https://thecomputersciencebook.lemonsqueezy.com)
- - date_published: 2023-02-22T00:00:00+00:00
-
- ## ThemeX Studio
- - [https://themex.lemonsqueezy.com](https://themex.lemonsqueezy.com)
- - date_published: 2024-07-24T06:39:11.939283+00:00
-
- ## Uneed
- - [https://uneed.lemonsqueezy.com](https://uneed.lemonsqueezy.com)
- - date_published: 2024-07-12T17:05:25.065257+00:00
-
- ## voxweave
- - [https://voxweave.lemonsqueezy.com](https://voxweave.lemonsqueezy.com)
- - date_published: 2024-04-30T15:43:28.381160+00:00
-
- ## wasmgroundup.com / Dubroy & Guerra GbR
- - [https://wasmgroundup.lemonsqueezy.com](https://wasmgroundup.lemonsqueezy.com)
- - date_published: 2024-06-16T21:16:00.768903+00:00
-
- ## Zero To Production In Rust - An Introduction To Backend Development
- - [https://zero2prod.lemonsqueezy.com](https://zero2prod.lemonsqueezy.com)
- - date_published: 2024-06-21T18:57:56.188143+00:00
-
- ## Lemonway - Le paiement simplifié pour votre marketplace
- - [https://www.lemonway.com](https://www.lemonway.com)
- - date_published: 2024-06-15T20:06:15+00:00
-
- ## Rural Holiday Accommodation In France - Le Moulin De Pensol
- - [https://lemoulindepensol.com](https://lemoulindepensol.com)
- - date_published: 2024-03-28T00:00:00+00:00
 

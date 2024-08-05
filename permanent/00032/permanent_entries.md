@@ -1,3 +1,7 @@
+ ## Omniflux
+ - [http://atelieromniflux.com](http://atelieromniflux.com)
+ - date_published: 2024-06-26T11:31:19.771835+00:00
+
  ## Les Ateliers Frappaz
  - [https://www.ateliers-frappaz.com](https://www.ateliers-frappaz.com)
  - date_published: 2024-02-08T16:35:52.726166+00:00
@@ -4039,8 +4043,4 @@
  ## Axel Scheffler's official website | Home
  - [http://axelscheffler.com](http://axelscheffler.com)
  - date_published: 2024-06-18T11:28:23.896700+00:00
-
- ## Axel Springer Karriere - Axel Springer Karriere
- - [https://career.axelspringer.com](https://career.axelspringer.com)
- - date_published: 2024-04-29T05:50:38.664259+00:00
 

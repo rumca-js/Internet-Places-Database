@@ -1,3 +1,7 @@
+ ## BoF INSIGHTS
+ - [https://shop.businessoffashion.com](https://shop.businessoffashion.com)
+ - date_published: 2024-06-27T06:14:15.392168+00:00
+
  ## The Business of Fashion
  - [https://www.businessoffashion.com](https://www.businessoffashion.com)
  - date_published: 2024-05-06T00:00:00+00:00
@@ -3562,6 +3566,10 @@
  - [http://www.candidthemes.com](http://www.candidthemes.com)
  - date_published: 2018-02-20T09:46:52+00:00
 
+ ## Show HN: Candix, a confidential, reverse recruiting platform
+ - [https://candix.com](https://candix.com)
+ - date_published: 2024-08-04T12:15:37+00:00
+
  ## Candlelight Concerts: Official Tickets
  - [https://candlelightexperience.com](https://candlelightexperience.com)
  - date_published: 2024-06-26T11:53:56+00:00
@@ -4037,12 +4045,4 @@
  ## Test Page for the HTTP Server on Fedora
  - [https://capcommobile.com](https://capcommobile.com)
  - date_published: 2021-03-26T17:49:58+00:00
-
- ## Capcom Mobile GamesCAPCOM MOBILE
- - [https://us.capcommobile.com](https://us.capcommobile.com)
- - date_published: 2024-07-02T06:43:13+00:00
-
- ## オンラインクレーンゲーム「カプコンネットキャッチャー カプとれ」 - UFOキャッチャーをネットやアプリで楽しめる -
- - [https://capcom-netcatcher.com](https://capcom-netcatcher.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

@@ -1,3 +1,47 @@
+ ## Roger Pearse's pages
+ - [https://www.roger-pearse.com](https://www.roger-pearse.com)
+ - date_published: 2018-04-21T15:57:54+00:00
+
+ ## Roger Pielke Jr.
+ - [http://rogerpielkejr.com](http://rogerpielkejr.com)
+ - date_published: 2024-06-15T09:05:00.506980+00:00
+
+ ## Roger Russell, McIntosh Lab., Scripto and Norma Pencils and leads
+ - [http://www.roger-russell.com](http://www.roger-russell.com)
+ - date_published: 2021-05-20T13:55:21+00:00
+
+ ## Mobile, Internet, TV, Home Monitoring, Home phone - Rogers
+ - [https://www.rogers.com](https://www.rogers.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Mobile, Internet, TV, Home Monitoring, Home phone - Rogers
+ - [https://www.rogers-assets.com](https://www.rogers-assets.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Rogers Bank credit cards. Cash back rewards and more | Rogers Bank
+ - [https://www.rogersbank.com](https://www.rogersbank.com)
+ - date_published: 2024-06-16T06:01:11.653492+00:00
+
+ ## Roger Schank
+ - [https://www.rogerschank.com](https://www.rogerschank.com)
+ - date_published: 2023-10-25T16:53:33.728783+00:00
+
+ ## HOME
+ - [http://www.roger-scruton.com](http://www.roger-scruton.com)
+ - date_published: 2024-06-23T09:40:58+00:00
+
+ ## Roger Shuy - Research Professor of Linguistics
+ - [http://www.rogershuy.com](http://www.rogershuy.com)
+ - date_published: 2024-07-02T09:41:35.833657+00:00
+
+ ## Personal site of Roger Stringer | Roger Stringer
+ - [https://rogerstringer.com](https://rogerstringer.com)
+ - date_published: 2024-01-15T14:06:35.096845+00:00
+
+ ## rogersubirana.com see you soon
+ - [http://www.rogersubirana.com](http://www.rogersubirana.com)
+ - date_published: 2020-12-28T09:34:55+00:00
+
  ## Digital product innovation in charities | Roger Swannell
  - [https://rogerswannell.com](https://rogerswannell.com)
  - date_published: 2023-12-31T21:21:28.894147+00:00
@@ -4039,48 +4083,4 @@ Consulting
  ## Best Full-Stack SaaS Boilerplate and Starter Kit - SaaSBold
  - [https://saasbold.com](https://saasbold.com)
  - date_published: 2024-05-09T08:38:23.481962+00:00
-
- ## SaaS Bookshelf - Best Books for SaaS Founders & Entrepreneurs
- - [https://saasbookshelf.com](https://saasbookshelf.com)
- - date_published: 2022-12-04T18:20:23+00:00
-
- ## SaaS Business Ideas - Explore Free Ideas Online for Entrepreneurs
- - [https://saasbusinessideas.com](https://saasbusinessideas.com)
- - date_published: 2024-06-20T07:17:35.943692+00:00
-
- ## SaaS Chatbots - AI Customer Support Chatbots
- - [https://saaschatbots.com](https://saaschatbots.com)
- - date_published: 2024-06-20T07:24:30.198046+00:00
-
- ## Welcome to nginx!
- - [https://sensors.saasexch.com](https://sensors.saasexch.com)
- - date_published: 2022-04-15T11:15:31+00:00
-
- ## SaasFrontends - Remix, React, Svelte and Vue SaaS boilerplates.
- - [https://saasfrontends.com](https://saasfrontends.com)
- - date_published: 2024-07-10T11:13:20.252368+00:00
-
- ## React SaasFrontend
- - [https://sandbox.react.saasfrontends.com](https://sandbox.react.saasfrontends.com)
- - date_published: 2024-07-10T11:13:54.914540+00:00
-
- ## Svelte SaasFrontend
- - [https://sandbox.svelte.saasfrontends.com](https://sandbox.svelte.saasfrontends.com)
- - date_published: 2024-07-10T11:14:56.069878+00:00
-
- ## Vue2 SaasFrontend
- - [https://sandbox.vue2.saasfrontends.com](https://sandbox.vue2.saasfrontends.com)
- - date_published: 2024-07-10T11:13:54.074465+00:00
-
- ## Vue3 SaasFrontend
- - [https://sandbox.vue3.saasfrontends.com](https://sandbox.vue3.saasfrontends.com)
- - date_published: 2024-07-10T11:13:39.181674+00:00
-
- ## SaaS Gems | SaaS Directory Network
- - [https://saasgems.com](https://saasgems.com)
- - date_published: 2024-06-20T07:23:49.193575+00:00
-
- ## SaaS Hammer Documents | SaaS Hammer Documents
- - [https://docs.saashammer.com](https://docs.saashammer.com)
- - date_published: 2024-04-28T06:08:36.172910+00:00
 

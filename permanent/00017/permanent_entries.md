@@ -1,4 +1,8 @@
  ## China Radio International
+ - [http://bulgarian.cri.cn](http://bulgarian.cri.cn)
+ - date_published: 2024-06-30T20:50:05.603578+00:00
+
+ ## China Radio International
  - [http://cambodian.cri.cn](http://cambodian.cri.cn)
  - date_published: 2024-06-30T20:51:22.366194+00:00
 
@@ -2543,7 +2547,7 @@
  - date_published: 2024-07-30T00:00:00+00:00
 
  ## 应用新闻和评论、最佳软件下载量和发现 - Softonic
- - [https://www.softonic.cn](https://www.softonic.cn)
+ - [https://softonic.cn](https://softonic.cn)
  - date_published: 2024-04-29T05:11:12.402689+00:00
 
  ## xMule
@@ -4009,8 +4013,4 @@ _中国网
  ## 益美益阳_中国网
  - [http://ymyy.china.com.cn](http://ymyy.china.com.cn)
  - date_published: 2024-06-21T08:33:53+00:00
-
- ## 大运河
- - [http://yunhe.china.com.cn](http://yunhe.china.com.cn)
- - date_published: 2024-03-19T07:35:55+00:00
 

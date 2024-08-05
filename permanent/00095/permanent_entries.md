@@ -1,3 +1,35 @@
+ ## The Computer Science Book | Learn computer science the easy way for self-taught developers
+ - [https://thecomputersciencebook.lemonsqueezy.com](https://thecomputersciencebook.lemonsqueezy.com)
+ - date_published: 2023-02-22T00:00:00+00:00
+
+ ## ThemeX Studio
+ - [https://themex.lemonsqueezy.com](https://themex.lemonsqueezy.com)
+ - date_published: 2024-07-24T06:39:11.939283+00:00
+
+ ## Uneed
+ - [https://uneed.lemonsqueezy.com](https://uneed.lemonsqueezy.com)
+ - date_published: 2024-07-12T17:05:25.065257+00:00
+
+ ## voxweave
+ - [https://voxweave.lemonsqueezy.com](https://voxweave.lemonsqueezy.com)
+ - date_published: 2024-04-30T15:43:28.381160+00:00
+
+ ## wasmgroundup.com / Dubroy & Guerra GbR
+ - [https://wasmgroundup.lemonsqueezy.com](https://wasmgroundup.lemonsqueezy.com)
+ - date_published: 2024-06-16T21:16:00.768903+00:00
+
+ ## Zero To Production In Rust - An Introduction To Backend Development
+ - [https://zero2prod.lemonsqueezy.com](https://zero2prod.lemonsqueezy.com)
+ - date_published: 2024-06-21T18:57:56.188143+00:00
+
+ ## Lemonway - Le paiement simplifié pour votre marketplace
+ - [https://www.lemonway.com](https://www.lemonway.com)
+ - date_published: 2024-06-15T20:06:15+00:00
+
+ ## Rural Holiday Accommodation In France - Le Moulin De Pensol
+ - [https://lemoulindepensol.com](https://lemoulindepensol.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
  ## Lemoyne
  - [http://lemoyneproject.com](http://lemoyneproject.com)
  - date_published: 2022-04-10T22:13:45+00:00
@@ -4041,36 +4073,4 @@
  ## CIKA303 Situs Link Judi Online Yang Resmi Dan Mudah Sensasional
  - [https://likeastore.com](https://likeastore.com)
  - date_published: 2024-06-15T15:53:26.869293+00:00
-
- ## Label | Occitanie | Like Flying Crows
- - [http://www.likeflyingcrows.com](http://www.likeflyingcrows.com)
- - date_published: 2024-07-10T06:52:56.276639+00:00
-
- ## The Missing Papers · Sang Park
- - [https://docs.likejazz.com](https://docs.likejazz.com)
- - date_published: 2024-05-17T06:05:03.252122+00:00
-
- ## ParksNotes
- - [http://likejazz.com](http://likejazz.com)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## LikeKnob - Simple, privacy-friendly Like Button
- - [https://likeknob.com](https://likeknob.com)
- - date_published: 2024-04-28T03:07:41.277426+00:00
-
- ## LIKELIHOOD OF CONFUSION™ by lawyer Ron Coleman
- - [http://www.likelihoodofconfusion.com](http://www.likelihoodofconfusion.com)
- - date_published: 2024-06-20T02:57:20.554812+00:00
-
- ## Unbiased Romance Reviews: Your Guide to the Best Reads
- - [http://likesbooks.com](http://likesbooks.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Unbiased Romance Reviews: Your Guide to the Best Reads
- - [http://www.likesbooks.com](http://www.likesbooks.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Home
- - [https://www.likethewindmagazine.com](https://www.likethewindmagazine.com)
- - date_published: 2024-03-04T00:00:00+00:00
 

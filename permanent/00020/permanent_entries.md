@@ -1,3 +1,7 @@
+ ## 天津市规划和自然资源局
+ - [http://ghhzrzy.tj.gov.cn](http://ghhzrzy.tj.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## 天津市工业和信息化局
  - [http://gyxxh.tj.gov.cn](http://gyxxh.tj.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -4015,8 +4019,4 @@
  ## Designing Futures | Joshua Newton | Substack
  - [https://designingfutures.co](https://designingfutures.co)
  - date_published: 2024-04-30T05:42:49.714768+00:00
-
- ## The Best Remote Design Jobs from Top Remote Companies - DesignRemotely
- - [https://designremotely.co](https://designremotely.co)
- - date_published: 2024-05-12T07:47:24.050328+00:00
 

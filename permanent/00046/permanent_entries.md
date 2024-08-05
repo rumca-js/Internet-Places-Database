@@ -1,3 +1,7 @@
+ ## Brevo Community
+ - [https://community.brevo.com](https://community.brevo.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
  ## Brevo Conversations
  - [https://conversations-widget.brevo.com](https://conversations-widget.brevo.com)
  - date_published: 2024-05-06T06:42:00.659266+00:00
@@ -4048,8 +4052,4 @@
  ## Business News This Week | Business News Weekly
  - [http://businessnewsthisweek.com](http://businessnewsthisweek.com)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## BoF INSIGHTS
- - [https://shop.businessoffashion.com](https://shop.businessoffashion.com)
- - date_published: 2024-06-27T06:14:15.392168+00:00
 
