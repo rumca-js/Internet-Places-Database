@@ -1,3 +1,134 @@
+ ## Jogo do Tiger Fortune ᐈ Fortune Tiger PG Soft【Site Oficial】
+ - [https://jogo-tiger-fortune.com.br](https://jogo-tiger-fortune.com.br)
+ - date_published: 2023-09-22T15:01:30+00:00
+
+ ## Jo Nakashima
+ - [https://jonakashima.com.br](https://jonakashima.com.br)
+ - date_published: 2024-05-02T09:39:51.879042+00:00
+ - tags: ['origami', 'personal']
+
+ ## Jonas Galvez
+ - [https://hire.jonasgalvez.com.br](https://hire.jonasgalvez.com.br)
+ - date_published: 2024-05-24T05:16:21.080512+00:00
+
+ ## J.P. Morgan Brasil | Sobre nós
+ - [https://www.jpmorgan.com.br](https://www.jpmorgan.com.br)
+ - date_published: 2024-06-14T19:31:31+00:00
+
+ ## Justos: Seguro Auto Mensal
+ - [https://justos.com.br](https://justos.com.br)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## KaBuM! | Maior E-commerce de Tecnologia e Games da América Latina
+ - [https://www.kabum.com.br](https://www.kabum.com.br)
+ - date_published: 2024-07-13T13:39:39.607132+00:00
+
+ ## Cibersegurança para residências e empresas | Kaspersky
+ - [https://www.kaspersky.com.br](https://www.kaspersky.com.br)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Feira | Koelnmesse Brasil
+ - [https://www.koelnmesse.com.br](https://www.koelnmesse.com.br)
+ - date_published: 2024-06-26T15:11:12+00:00
+
+ ## Home
+ - [https://kokku.com.br](https://kokku.com.br)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.com.br](https://www.konecranes.com.br)
+ - date_published: 2024-06-20T23:13:18.773028+00:00
+
+ ## Kovi | Aluguel de carros sem aprovação de crédito
+ - [https://www.kovi.com.br](https://www.kovi.com.br)
+ - date_published: 2024-06-19T08:26:32+00:00
+
+ ## Kube Arquitetura - Varejo Elevado ao Cubo
+ - [http://kubearquitetura.com.br](http://kubearquitetura.com.br)
+ - date_published: 2022-05-19T13:36:06+00:00
+
+ ## Jogos Online Grátis - Lagged.com.br
+ - [https://lagged.com.br](https://lagged.com.br)
+ - date_published: 2024-05-04T11:46:07.653485+00:00
+
+ ## Landerson Gomes - Delphi, Android e Tecnologia
+ - [https://landersongomes.com.br](https://landersongomes.com.br)
+ - date_published: 2024-06-17T03:35:37.511081+00:00
+
+ ## Land Rover. Veículos 4x4 e SUVs de Luxo
+ - [https://www.landrover.com.br](https://www.landrover.com.br)
+ - date_published: 2024-07-09T17:13:12.193124+00:00
+
+ ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
+ - [https://www.languagetrainersbrasil.com.br](https://www.languagetrainersbrasil.com.br)
+ - date_published: 2024-07-02T09:21:25.824085+00:00
+
+ ## LexisNexis Risk Solutions | Transforme sua tomada de decisão de risco
+ - [https://risk.lexisnexis.com.br](https://risk.lexisnexis.com.br)
+ - date_published: 2024-06-16T17:26:20.136282+00:00
+
+ ## Homepage
+ - [https://liverampbrasil.com.br](https://liverampbrasil.com.br)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Livraria Cultura: Experiências que transformam
+ - [http://www.livrariacultura.com.br](http://www.livrariacultura.com.br)
+ - date_published: 2024-06-20T05:22:05.083853+00:00
+
+ ## Grupo Editorial Record
+ - [https://livrosbestbusiness.com.br](https://livrosbestbusiness.com.br)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## LkSvn
+ - [https://lksvn.com.br](https://lksvn.com.br)
+ - date_published: 2021-04-30T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Hospedagem de Site com Domínio Grátis - Locaweb
+ - [https://www.locaweb.com.br](https://www.locaweb.com.br)
+ - date_published: 2024-06-22T21:22:57.442362+00:00
+
+ ## LojaDoMecanico.com.br - Maior Loja de Máquinas e Ferramentas do Brasil
+ - [https://www.lojadomecanico.com.br](https://www.lojadomecanico.com.br)
+ - date_published: 2024-06-19T08:25:12.911368+00:00
+
+ ## Loja Editora Petra
+ - [https://www.lojaeditorapetra.com.br](https://www.lojaeditorapetra.com.br)
+ - date_published: 2024-05-10T07:03:20.738014+00:00
+ - tags: ['books', 'shop']
+
+ ## Loja da Editora Trama
+ - [https://www.lojaeditoratrama.com.br](https://www.lojaeditoratrama.com.br)
+ - date_published: 2024-05-10T07:03:24.470610+00:00
+
+ ## Fauna
+ - [https://www.lojafauna.com.br](https://www.lojafauna.com.br)
+ - date_published: 2024-07-03T02:16:11.550966+00:00
+
+ ## Editora Girassol
+ - [https://www.lojagirassolbrasil.com.br](https://www.lojagirassolbrasil.com.br)
+ - date_published: 2024-07-03T02:16:16.033382+00:00
+
+ ## Criar loja virtual  I Venda online com a Loja Integrada
+ - [https://www.lojaintegrada.com.br](https://www.lojaintegrada.com.br)
+ - date_published: 2024-05-07T14:20:48+00:00
+
+ ## Universal Music Store - Produtos Oficiais
+ - [https://www.lojaqueen.com.br](https://www.lojaqueen.com.br)
+ - date_published: 2024-06-30T23:38:55.871138+00:00
+
+ ## Loja Oficial Warner Bros
+ - [https://www.lojawarnerbros.com.br](https://www.lojawarnerbros.com.br)
+ - date_published: 2024-06-29T15:12:21.338179+00:00
+
+ ## Lolja - Vista o Extraordinário
+ - [https://lolja.com.br](https://lolja.com.br)
+ - date_published: 2024-07-17T16:57:43.859138+00:00
+
+ ## John Deere MachineFinder Used Equipment
+ - [https://www.machinefinder.com.br](https://www.machinefinder.com.br)
+ - date_published: 2024-06-15T21:09:32.666441+00:00
+
  ## MaisCuidado
  - [https://admin.maiscuidado.com.br](https://admin.maiscuidado.com.br)
  - date_published: 2024-06-03T23:46:17+00:00
@@ -93,6 +224,10 @@
  ## Under Construction
  - [http://www.msxhost.com.br](http://www.msxhost.com.br)
  - date_published: 2018-10-16T22:52:24+00:00
+
+ ## Mulher
+ - [https://www.mulher.com.br](https://www.mulher.com.br)
+ - date_published: 2024-08-05T16:05:03.190287+00:00
 
  ## Musa Rara
  - [http://www.musarara.com.br](http://www.musarara.com.br)
@@ -656,6 +791,10 @@
  - [https://talitaoliveira.com.br](https://talitaoliveira.com.br)
  - date_published: 2024-05-11T10:05:09.578532+00:00
 
+ ## Tá Saudável
+ - [https://www.tasaudavel.com.br](https://www.tasaudavel.com.br)
+ - date_published: 2024-08-05T16:07:54.582416+00:00
+
  ## Team Liquid Brazil | Loja
  - [https://loja.teamliquid.com.br](https://loja.teamliquid.com.br)
  - date_published: 2024-07-09T11:33:13.396767+00:00
@@ -995,6 +1134,10 @@
  ## YouTube
  - [https://youtube.com.br](https://youtube.com.br)
  - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Zappeando
+ - [https://www.zappeando.com.br](https://www.zappeando.com.br)
+ - date_published: 2024-08-05T00:00:00+00:00
 
  ## Zeenix
  - [https://zeenix.com.br](https://zeenix.com.br)
@@ -2778,6 +2921,10 @@
  - [https://ammonitecoatings.ca](https://ammonitecoatings.ca)
  - date_published: 2024-06-10T00:00:00+00:00
 
+ ## Ancestry® | Genealogy, Family Trees & Family History Records
+ - [https://www.ancestry.ca](https://www.ancestry.ca)
+ - date_published: 2024-07-24T04:03:20+00:00
+
  ## anderegg.ca | Something (slightly) less boring than nothing.
  - [https://anderegg.ca](https://anderegg.ca)
  - date_published: 2023-10-25T12:03:20.730751+00:00
@@ -3385,6 +3532,11 @@
  - [https://www.bosch-home.ca](https://www.bosch-home.ca)
  - date_published: 2024-06-16T21:36:38.612906+00:00
 
+ ## Headphones, Speakers, Wearables | Bose | Feel More, Do More
+        Bose
+ - [https://www.bose.ca](https://www.bose.ca)
+ - date_published: 2024-08-05T21:31:07.414418+00:00
+
  ## Spa Détente au Vieux-Port de Montréal | Bota Bota, spa-sur-l’eau
  - [http://botabota.ca](http://botabota.ca)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -3764,6 +3916,10 @@
  - [https://www.caut.ca](https://www.caut.ca)
  - date_published: 2024-07-20T03:31:44+00:00
 
+ ## Modern Furniture Store & Contemporary Home Decor for Canada | CB2 Canada
+ - [https://www.cb2.ca](https://www.cb2.ca)
+ - date_published: 2024-08-05T22:42:06.163847+00:00
+
  ## CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
  - [https://cbc.ca](https://cbc.ca)
  - date_published: 2024-06-15T21:05:27.624030+00:00
@@ -3868,158 +4024,4 @@
  - [https://choly.ca](https://choly.ca)
  - date_published: 2024-03-25T14:06:24+00:00
  - tags: ['devlog', 'personal']
-
- ## Alemany and Jensen Family Mastodon
- - [https://mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca)
- - date_published: 2024-06-23T17:15:02.754829+00:00
-
- ## Chris Penner's FP
- - [https://chrispenner.ca](https://chrispenner.ca)
- - date_published: 2020-12-10T04:13:07+00:00
-
- ## Home Page | Christmas Cheer Board
- - [https://www.christmascheerboard.ca](https://www.christmascheerboard.ca)
- - date_published: 2024-06-19T09:54:25+00:00
-
- ## Discover Chrysler Canada | Chrysler Canada
- - [https://www.chrysler.ca](https://www.chrysler.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Personal Banking and Financial Services | CIBC
- - [https://www.cibc.ca](https://www.cibc.ca)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## CIBL 101,5 FM Montréal
- - [https://www.cibl1015.ca](https://www.cibl1015.ca)
- - date_published: 2024-07-01T10:07:05.843530+00:00
-
- ## Home - CIFAR
- - [https://cifar.ca](https://cifar.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## CIFST | Canadian Institute of Food Science & Technology
- - [https://cifst.ca](https://cifst.ca)
- - date_published: 2024-05-01T07:56:02.118511+00:00
-
- ## Canadian Institute for Health Information | CIHI
- - [https://www.cihi.ca](https://www.cihi.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Your Health System | CIHI
- - [https://yourhealthsystem.cihi.ca](https://yourhealthsystem.cihi.ca)
- - date_published: 2024-06-22T15:55:03.262223+00:00
-
- ## Law Directory Canada - Cinch Law Canada
- - [https://cinchlaw.ca](https://cinchlaw.ca)
- - date_published: 2024-06-29T17:53:57.908903+00:00
-
- ## Canadian Investor Protection Fund
- - [https://www.cipf.ca](https://www.cipf.ca)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Centre for International Policy Studies – Canada's leading centre for analysis and debate of international affairs.
- - [https://www.cips-cepi.ca](https://www.cips-cepi.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Canadian Internet Registration Authority | CIRA
- - [https://cira.ca](https://cira.ca)
- - date_published: 2024-06-16T06:39:52.870868+00:00
-
- ## Circos – Circular Visualization
- - [https://circos.ca](https://circos.ca)
- - date_published: 2024-07-09T11:44:40+00:00
-
- ## Homepage
- - [http://www.ciro.ca](http://www.ciro.ca)
- - date_published: 2022-10-12T19:35:27+00:00
-
- ## Cision: PR Software & Marketing Platform
- - [https://www.cision.ca](https://www.cision.ca)
- - date_published: 2024-06-29T01:32:57+00:00
-
- ## The Citizen Lab - University of Toronto
- - [https://citizenlab.ca](https://citizenlab.ca)
- - date_published: 2023-10-25T12:09:16.663748+00:00
- - tags: ['human rights', 'privacy']
-
- ## Breaking News | Top Local Stories | CityNews Calgary
- - [https://calgary.citynews.ca](https://calgary.citynews.ca)
- - date_published: 2024-01-14T14:56:16.599498+00:00
- - tags: ['canada', 'news']
-
- ## Breaking News | Top Local Stories | CityNews Montreal
- - [https://montreal.citynews.ca](https://montreal.citynews.ca)
- - date_published: 2023-11-05T06:28:16.282544+00:00
-
- ## Breaking News | Top Local Stories | CityNews Toronto
- - [https://toronto.citynews.ca](https://toronto.citynews.ca)
- - date_published: 2023-12-04T13:48:22.408481+00:00
-
- ## Breaking News | Top Local Stories | CityNews Vancouver
- - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
- - date_published: 2023-12-23T07:31:06.657092+00:00
-
- ## Canadian Crossword Puzzles
- - [http://www.classicanadianxwords.ca](http://www.classicanadianxwords.ca)
- - date_published: 2019-10-01T19:22:00+00:00
-
- ## TORSTAR Classroom Connection
- - [https://www.classroomconnection.ca](https://www.classroomconnection.ca)
- - date_published: 2024-05-06T14:31:08.747813+00:00
-
- ## Top 5 Top 5 Toronto Cleaning for 2020 | Cleaning.ca Plumbers and Plumbing Contractors for 2020 | Cleaning.ca
- - [http://www.cleaning.ca](http://www.cleaning.ca)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Canada's #1 Glasses and Contact Lenses Store | Clearly
- - [https://clearly.ca](https://clearly.ca)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Learn about the Climate Change discussion | Climate Change 101
- - [http://www.climatechange101.ca](http://www.climatechange101.ca)
- - date_published: 2024-06-15T09:05:08.951304+00:00
-
- ## Canadian Climate Institute: Climate Change Canada Policy Research
- - [https://climateinstitute.ca](https://climateinstitute.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Who are we? - Climate Realists of British Columbia
- - [https://climaterealists.ca](https://climaterealists.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Closets for 2020 | Closets.ca Plumbers and Plumbing Contractors for 2020 | Closets.ca
- - [http://www.closets.ca](http://www.closets.ca)
- - date_published: 2024-06-29T17:33:41.537766+00:00
-
- ## Clothing in Canada, Canada
- - [http://www.clothing.ca](http://www.clothing.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Workload-Optimized Cloud Services - IaaS | Hypertec Cloud
- - [https://cloud.ca](https://cloud.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Clubs in Canada, Canada
- - [http://www.clubs.ca](http://www.clubs.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## CMAJ
- - [https://www.cmaj.ca](https://www.cmaj.ca)
- - date_published: 2023-10-25T10:45:45.207661+00:00
-
- ## Welcome to CMRRA
- - [https://www.cmrra.ca](https://www.cmrra.ca)
- - date_published: 2024-07-04T18:43:57.114262+00:00
-
- ## CN - Transportation Services - Rail Shipping, Intermodal, trucking, warehousing and international transportation
- - [https://www.cn.ca](https://www.cn.ca)
- - date_published: 2024-06-19T09:55:44.749736+00:00
-
- ## Stronger Canadian Health Care System | Canadian Nurses Foundation
- - [https://cnf-fiic.ca](https://cnf-fiic.ca)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home - Canadian Nuclear Laboratories
- - [https://www.cnl.ca](https://www.cnl.ca)
- - date_published: 2024-07-24T07:27:52.343793+00:00
 

@@ -1,4 +1,8 @@
  ## ficc.ai
+ - [https://ficc.ai](https://ficc.ai)
+ - date_published: 2024-05-08T03:06:29.340276+00:00
+
+ ## ficc.ai
  - [https://pricing.ficc.ai](https://pricing.ficc.ai)
  - date_published: 2024-07-03T16:15:49.490682+00:00
 
@@ -1802,6 +1806,10 @@
  ## LinTO, framework open-source de technologies vocales
  - [https://linto.ai](https://linto.ai)
  - date_published: 2023-12-13T14:50:44+00:00
+
+ ## Lionize AI - The Only AI-Powered Influencer Marketing Platform
+ - [https://lionize.ai](https://lionize.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
 
  ## Lippincott PLAY
  - [https://lippincott.ai](https://lippincott.ai)
@@ -4017,12 +4025,4 @@
  ## Rusher.AI | The AI Copilot for Modern Marketers
  - [https://rusher.ai](https://rusher.ai)
  - date_published: 2024-06-14T08:59:26.894377+00:00
-
- ## RXRX
- - [https://www.rxrx.ai](https://www.rxrx.ai)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Sai (saizai)
- - [https://s.ai](https://s.ai)
- - date_published: 2024-07-13T04:16:32.332042+00:00
 

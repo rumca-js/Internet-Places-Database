@@ -1,3 +1,52 @@
+ ## Tasmota - #1 Software for Smart Home Integration
+ - [https://tasmota.app](https://tasmota.app)
+ - date_published: 2023-01-26T11:15:23+00:00
+
+ ## Hardened foundation for your web apps.
+ - [https://beta.tauri.app](https://beta.tauri.app)
+ - date_published: 2024-02-23T21:18:24.945566+00:00
+
+ ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
+ - [https://tauri.app](https://tauri.app)
+ - date_published: 2023-10-25T11:49:16.037626+00:00
+ - tags: ['software development platform']
+
+ ## Tauri 2.0
+ - [https://v2.tauri.app](https://v2.tauri.app)
+ - date_published: 2024-08-02T23:32:46.789938+00:00
+
+ ## Taurine
+ - [https://taurine.app](https://taurine.app)
+ - date_published: 2023-09-24T00:23:47+00:00
+
+ ## Taylor's Version
+ - [https://taylorsversion.app](https://taylorsversion.app)
+ - date_published: 2024-07-23T23:43:00.273168+00:00
+
+ ## teachyourselfmath
+ - [https://teachyourselfmath.app](https://teachyourselfmath.app)
+ - date_published: 2024-01-24T06:49:02.414761+00:00
+
+ ## Team, Assemble!
+ - [https://teamassemble.app](https://teamassemble.app)
+ - date_published: 2024-07-14T18:47:30.749847+00:00
+
+ ## Team Video - Video Conferencing
+ - [https://teamvideo.app](https://teamvideo.app)
+ - date_published: 2021-04-27T00:00:00+00:00
+
+ ## Find your dream Canadian tech job
+ - [https://www.techjobscanada.app](https://www.techjobscanada.app)
+ - date_published: 2024-04-28T04:30:40.131321+00:00
+
+ ## Introduction | Terrastories Support Materials
+ - [https://docs.terrastories.app](https://docs.terrastories.app)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Explore Terrastories
+ - [https://explore.terrastories.app](https://explore.terrastories.app)
+ - date_published: 2024-07-15T11:14:27.219508+00:00
+
  ## Home - Terrastories
  - [https://terrastories.app](https://terrastories.app)
  - date_published: 2024-04-11T00:00:00+00:00
@@ -21,6 +70,10 @@
  ## The Companion
  - [https://www.thecompanion.app](https://www.thecompanion.app)
  - date_published: 2023-10-25T11:49:20.174746+00:00
+
+ ## Shopify App — Installation
+ - [https://s.themescientist.app](https://s.themescientist.app)
+ - date_published: 2024-08-05T20:14:39.961706+00:00
 
  ## The Operator – Slack private channel access made easy
  - [https://theoperator.app](https://theoperator.app)
@@ -2373,6 +2426,10 @@
  - [https://www.eltrecetv.com.ar](https://www.eltrecetv.com.ar)
  - date_published: 2024-07-01T15:57:00+00:00
 
+ ## Empresas | Equifax
+ - [https://www.soluciones.equifax.com.ar](https://www.soluciones.equifax.com.ar)
+ - date_published: 2024-08-05T22:08:01.472485+00:00
+
  ## ESPN Argentina - Lo Último del Mundo Deportivo
  - [https://www.espn.com.ar](https://www.espn.com.ar)
  - date_published: 2024-05-02T09:41:40.532528+00:00
@@ -3978,60 +4035,4 @@ October 2024 in Singapore
  ## Home
  - [https://fwf.ac.at](https://fwf.ac.at)
  - date_published: 2024-05-07T21:01:43.544614+00:00
-
- ## Home
- - [https://www.hmdw.ac.at](https://www.hmdw.ac.at)
- - date_published: 2024-07-04T17:27:49+00:00
-
- ## Josephinum – Sammlungen der Medizinischen Universität Wien | Josephinum
- - [http://www.josephinum.ac.at](http://www.josephinum.ac.at)
- - date_published: 2024-06-24T09:45:47.655085+00:00
-
- ## ESMira
- - [https://demo-esmira.kl.ac.at](https://demo-esmira.kl.ac.at)
- - date_published: 2024-06-19T22:23:03.016363+00:00
-
- ## ESMira
- - [https://esmira.kl.ac.at](https://esmira.kl.ac.at)
- - date_published: 2024-06-19T22:13:37.125912+00:00
-
- ## Max Perutz Labs • Catalyzing Discovery­ in Mechanistic Biomedicine
- - [https://www.maxperutzlabs.ac.at](https://www.maxperutzlabs.ac.at)
- - date_published: 2024-07-01T05:48:10.371178+00:00
-
- ## Universitätsbibliothek | ub.mdw
- - [https://bibliothek.mdw.ac.at](https://bibliothek.mdw.ac.at)
- - date_published: 2024-07-04T17:27:46.404697+00:00
-
- ## Home | mdw - Universität für Musik und darstellende Kunst Wien
- - [https://mdw.ac.at](https://mdw.ac.at)
- - date_published: 2024-05-08T07:05:23.971727+00:00
-
- ## mdw Mediathek
- - [https://mediathek.mdw.ac.at](https://mediathek.mdw.ac.at)
- - date_published: 2024-07-04T17:27:56.280392+00:00
-
- ## Loading
- - [https://online.mdw.ac.at](https://online.mdw.ac.at)
- - date_published: 2024-03-25T10:25:10+00:00
-
- ## Grundlagen · Ružake gila
- - [https://ruzakegila.mdw.ac.at](https://ruzakegila.mdw.ac.at)
- - date_published: 2024-07-04T17:28:01.023861+00:00
-
- ## Bauprojekte | MedUni Wien
- - [https://bauprojekte.meduniwien.ac.at](https://bauprojekte.meduniwien.ac.at)
- - date_published: 2024-05-09T06:25:58.899953+00:00
-
- ## Ethik, Sammlungen und Geschichte der Medizin | MedUni Wien
- - [https://ethik-geschichte.meduniwien.ac.at](https://ethik-geschichte.meduniwien.ac.at)
- - date_published: 2024-07-08T22:42:05.440473+00:00
-
- ## login_ubmuw
- - [https://login.ez.srv.meduniwien.ac.at](https://login.ez.srv.meduniwien.ac.at)
- - date_published: 2024-07-09T20:13:03.867274+00:00
-
- ## Med Uni Wien (UMW)
- - [https://repositorium.meduniwien.ac.at](https://repositorium.meduniwien.ac.at)
- - date_published: 2024-07-09T20:13:03.048637+00:00
 

@@ -1,3 +1,192 @@
+ ## Home | Becoming YU | York University
+ - [https://becomingyu.yorku.ca](https://becomingyu.yorku.ca)
+ - date_published: 2024-07-21T07:57:53.361490+00:00
+
+ ## WordPress at York |
+ - [https://blog.yorku.ca](https://blog.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## 2024-2025 Academic Calendar | Academic Calendars | York University
+ - [https://calendars.students.yorku.ca](https://calendars.students.yorku.ca)
+ - date_published: 2024-07-21T08:03:28.530189+00:00
+
+ ## Calumet College
+ - [http://calumet.yorku.ca](http://calumet.yorku.ca)
+ - date_published: 2024-07-21T08:04:47.828687+00:00
+
+ ## Career Centre | We help connect York University students and new graduates with career opportunities!
+ - [https://careers.yorku.ca](https://careers.yorku.ca)
+ - date_published: 2024-05-09T06:47:47.200130+00:00
+
+ ## University Information Technology (UIT) | Something goes here....
+ - [http://computing.yorku.ca](http://computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Homepage
+ - [https://continue.yorku.ca](https://continue.yorku.ca)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Student Counselling, Health & Well-being | Division of Students | York University
+ - [https://counselling.students.yorku.ca](https://counselling.students.yorku.ca)
+ - date_published: 2024-07-09T21:37:03.374255+00:00
+
+ ## Passport York Login
+ - [https://coursestatus.yorku.ca](https://coursestatus.yorku.ca)
+ - date_published: 2024-07-09T21:37:05.659224+00:00
+
+ ## Current Students | Division of Students | York University
+ - [https://currentstudents.yorku.ca](https://currentstudents.yorku.ca)
+ - date_published: 2024-04-30T05:32:23.896619+00:00
+
+ ## Organizational Unit and Designate List
+ - [http://designates.apps06.yorku.ca](http://designates.apps06.yorku.ca)
+ - date_published: 2024-07-21T08:03:45.097874+00:00
+
+ ## York University - Shibboleth - Loading Session Information
+ - [https://eclass.yorku.ca](https://eclass.yorku.ca)
+ - date_published: 2024-04-30T05:32:18.223282+00:00
+
+ ## Upcoming Events at York University
+ - [https://events.yorku.ca](https://events.yorku.ca)
+ - date_published: 2024-03-12T17:42:35.149483+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.students.yorku.ca](https://forms.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:11.379215+00:00
+
+ ## Your Future Starts Here | Future Students | York University
+ - [https://futurestudents.yorku.ca](https://futurestudents.yorku.ca)
+ - date_published: 2024-04-30T05:31:58.274621+00:00
+
+ ## Google Apps at York
+ - [https://google.info.yorku.ca](https://google.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Welcome to the Snowden Digital Surveillance Archive · Snowden Archive
+ - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
+ - date_published: 2024-05-29T08:29:45+00:00
+ - tags: ['surveillance', 'edward snowden']
+
+ ## Information Security at York | UIT Information Security York University
+ - [https://infosec.yorku.ca](https://infosec.yorku.ca)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Your Suggestions are Welcome | University Information Technology (UIT)
+ - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Las Nubes Project - Las Nubes Project
+ - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## York University Library Home - York University Libraries
+ - [https://library.yorku.ca](https://library.yorku.ca)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Passport York Login
+ - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:21.138746+00:00
+
+ ## Winter 2024 - The York University Magazine
+ - [https://magazine.yorku.ca](https://magazine.yorku.ca)
+ - date_published: 2024-04-30T05:32:16.159127+00:00
+
+ ## Moodle
+ - [https://moodle.yorku.ca](https://moodle.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Passport York Login
+ - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:19.297449+00:00
+
+ ## News | York University
+ - [https://news.yorku.ca](https://news.yorku.ca)
+ - date_published: 2024-04-30T05:32:10.631393+00:00
+
+ ## OSAP (Ontario Student Assistance Program) | OSAP | York University
+ - [http://osap.students.yorku.ca](http://osap.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:32.808693+00:00
+
+ ## OSAP (Ontario Student Assistance Program) | OSAP | York University
+ - [https://osap.yorku.ca](https://osap.yorku.ca)
+ - date_published: 2024-07-21T07:57:34.441566+00:00
+
+ ## University Information Technology (UIT) | Something goes here....
+ - [https://passportyork.yorku.ca](https://passportyork.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Classics in the History of Psychology
+ - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
+ - date_published: 2024-01-06T17:40:41.073576+00:00
+
+ ## Passport York Login
+ - [https://psychology.blog.yorku.ca](https://psychology.blog.yorku.ca)
+ - date_published: 2024-07-21T08:04:39.553865+00:00
+
+ ## Registrar's Office - Home | Registrar's Office | York University
+ - [https://registrar.yorku.ca](https://registrar.yorku.ca)
+ - date_published: 2024-07-09T21:36:57.398233+00:00
+
+ ## Welcome! - Centre for Human Rights, Equity and Inclusion
+ - [https://rights.info.yorku.ca](https://rights.info.yorku.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Canada’s #1 Business School | Schulich School of Business
+ - [https://schulich.yorku.ca](https://schulich.yorku.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## York Search Results - York University
+ - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Secretariat Policies
+ - [https://secretariat-policies.info.yorku.ca](https://secretariat-policies.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Student Financial Services - Home | Student Financial Services | York University
+ - [https://sfs.yorku.ca](https://sfs.yorku.ca)
+ - date_published: 2024-04-30T05:32:28.949793+00:00
+
+ ## Faculty & Staff Services | University Information Technology (UIT)
+ - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Current Students | Division of Students | York University
+ - [https://students.yorku.ca](https://students.yorku.ca)
+ - date_published: 2024-07-21T07:57:23.196380+00:00
+
+ ## UPSA
+ - [http://upsa.club.yorku.ca](http://upsa.club.yorku.ca)
+ - date_published: 2024-07-21T08:04:42.456648+00:00
+
+ ## WordPress at York
+ - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## William van Wijngaarden – Lasers and Physics will blow your mind
+ - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
+ - date_published: 2024-06-15T09:13:48+00:00
+
+ ## Homepage | Electrical Engineering and Computer Science
+ - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Change the World Now | Glendon Campus | York University
+ - [https://www.glendon.yorku.ca](https://www.glendon.yorku.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Osgoode Hall Law School – York University
+ - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Department of Psychology
+ - [https://www.psych.yorku.ca](https://www.psych.yorku.ca)
+ - date_published: 2024-04-30T05:31:55.441536+00:00
+
+ ## Research and Innovation | York University
+ - [http://www.research.yorku.ca](http://www.research.yorku.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## Homepage - YFile
  - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
  - date_published: 2024-04-30T05:32:00.155249+00:00
@@ -2463,6 +2652,10 @@
  - [https://www.fgkj.cc](https://www.fgkj.cc)
  - date_published: 2024-05-07T00:00:00+00:00
 
+ ## Followup Software
+ - [https://followup.cc](https://followup.cc)
+ - date_published: 2024-08-05T23:58:46.060751+00:00
+
  ## Forest - Stay focused, be present
  - [https://www.forestapp.cc](https://www.forestapp.cc)
  - date_published: 2024-05-17T02:25:18+00:00
@@ -3834,196 +4027,4 @@
  ## BFS OnlineRechner
  - [https://lik-app.bfs.admin.ch](https://lik-app.bfs.admin.ch)
  - date_published: 2024-06-26T06:36:12+00:00
-
- ## Maps of Switzerland - Swiss Confederation - map.geo.admin.ch
- - [https://map.geo.admin.ch](https://map.geo.admin.ch)
- - date_published: 2024-07-16T09:30:09+00:00
-
- ## Startseite
- - [https://www.admin.ch](https://www.admin.ch)
- - date_published: 2024-05-02T13:26:49.656242+00:00
-
- ## Bundesamt für Gesundheit BAG
- - [https://www.bag.admin.ch](https://www.bag.admin.ch)
- - date_published: 2024-07-16T22:16:43.518954+00:00
-
- ## Bundesamt für Kultur
- - [https://www.bak.admin.ch](https://www.bak.admin.ch)
- - date_published: 2024-04-30T06:00:07.295934+00:00
-
- ## Schweizerisches Bundesarchiv BAR
- - [https://www.bar.admin.ch](https://www.bar.admin.ch)
- - date_published: 2024-07-16T22:16:37.439380+00:00
-
- ## Bundesamt für Bauten und Logistik
- - [https://www.bbl.admin.ch](https://www.bbl.admin.ch)
- - date_published: 2024-07-16T22:16:19.395956+00:00
-
- ## Bundesamt für Statistik
- - [https://www.bfs.admin.ch](https://www.bfs.admin.ch)
- - date_published: 2024-05-12T07:17:04.137605+00:00
-
- ## Bundesamt für Informatik und Telekommunikation BIT
- - [https://www.bit.admin.ch](https://www.bit.admin.ch)
- - date_published: 2024-07-16T22:16:26.021813+00:00
-
- ## Startseite
- - [https://www.bk.admin.ch](https://www.bk.admin.ch)
- - date_published: 2024-05-12T07:24:37.110619+00:00
-
- ## Bundesamt für Lebensmittelsicherheit und Veterinärwesen
- - [https://www.blv.admin.ch](https://www.blv.admin.ch)
- - date_published: 2024-07-13T17:43:06.529272+00:00
-
- ## BSV-Online
- - [https://www.bsv.admin.ch](https://www.bsv.admin.ch)
- - date_published: 2024-07-16T22:16:51.398712+00:00
-
- ## Rechtliches
- - [http://www.disclaimer.admin.ch](http://www.disclaimer.admin.ch)
- - date_published: 2024-07-21T06:26:37.969789+00:00
-
- ## Gleichstellung der Geschlechter in allen Lebensbereichen
- - [https://www.ebg.admin.ch](https://www.ebg.admin.ch)
- - date_published: 2024-07-16T22:14:38+00:00
-
- ## Eidgenössisches Departement für auswärtige Angelegenheiten EDA
- - [http://www.eda.admin.ch](http://www.eda.admin.ch)
- - date_published: 2024-06-17T15:43:04.922800+00:00
-
- ## Eidgenössisches Departement des Innern
- - [https://www.edi.admin.ch](https://www.edi.admin.ch)
- - date_published: 2024-06-18T14:29:50.071937+00:00
-
- ## Startseite
- - [https://www.edoeb.admin.ch](https://www.edoeb.admin.ch)
- - date_published: 2024-06-17T13:21:21.343528+00:00
-
- ## EFD Startseite
- - [http://www.efd.admin.ch](http://www.efd.admin.ch)
- - date_published: 2024-06-18T14:29:53.504409+00:00
-
- ## Startseite - EFK
- - [http://www.efk.admin.ch](http://www.efk.admin.ch)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## index
- - [https://www.efv.admin.ch](https://www.efv.admin.ch)
- - date_published: 2024-07-16T22:16:17.841930+00:00
-
- ## Startseite EJPD
- - [http://www.ejpd.admin.ch](http://www.ejpd.admin.ch)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Eidgenössisches Personalamt
- - [https://www.epa.admin.ch](https://www.epa.admin.ch)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Eidgenössische Steuerverwaltung ESTV
- - [https://www.estv.admin.ch](https://www.estv.admin.ch)
- - date_published: 2024-07-16T22:16:16.095202+00:00
-
- ## Experimentelle Statistiken des BFS
- - [https://www.experimental.bfs.admin.ch](https://www.experimental.bfs.admin.ch)
- - date_published: 2024-07-16T22:16:54.280420+00:00
-
- ## Bundesamt für Zoll und Grenzsicherheit
- - [http://www.ezv.admin.ch](http://www.ezv.admin.ch)
- - date_published: 2024-07-16T22:16:24.006351+00:00
-
- ## Fedlex
- - [https://fedlex.admin.ch](https://fedlex.admin.ch)
- - date_published: 2024-05-12T07:23:52.798993+00:00
-
- ## Startseite - MeteoSchweiz
- - [https://www.meteoschweiz.admin.ch](https://www.meteoschweiz.admin.ch)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Homepage - MeteoSwiss
- - [https://www.meteoswiss.admin.ch](https://www.meteoswiss.admin.ch)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Startseite
- - [https://www.plurilingua.admin.ch](https://www.plurilingua.admin.ch)
- - date_published: 2024-07-16T22:15:14+00:00
-
- ## Im Brennpunkt
- - [https://www.sbfi.admin.ch](https://www.sbfi.admin.ch)
- - date_published: 2024-06-16T22:07:22.700220+00:00
-
- ## Staatssekretariat für internationale Finanzfragen SIF - Startseite
- - [https://www.sif.admin.ch](https://www.sif.admin.ch)
- - date_published: 2024-07-16T22:16:12.893996+00:00
-
- ## eStaKa
- - [https://www.staatskalender.admin.ch](https://www.staatskalender.admin.ch)
- - date_published: 2023-11-08T17:00:49+00:00
-
- ## Startseite
- - [https://www.stelle.admin.ch](https://www.stelle.admin.ch)
- - date_published: 2024-06-18T14:24:23.639863+00:00
-
- ## Startseite
- - [https://www.uvek.admin.ch](https://www.uvek.admin.ch)
- - date_published: 2024-06-18T14:29:51.990919+00:00
-
- ## Das VBS – Sicherheit für die Schweiz
- - [https://www.vbs.admin.ch](https://www.vbs.admin.ch)
- - date_published: 2024-06-18T14:25:18+00:00
-
- ## Startseite Internet WBF
- - [http://www.wbf.admin.ch](http://www.wbf.admin.ch)
- - date_published: 2024-06-18T14:24:26.391044+00:00
-
- ## Login
- - [https://mov.adorsaz.ch](https://mov.adorsaz.ch)
- - date_published: 2024-07-10T07:54:43.199450+00:00
-
- ## Preisgekrönte Entgeltabrechnungsdienste und HR-Software | ADP Schweiz
- - [https://www.adp.ch](https://www.adp.ch)
- - date_published: 2024-06-16T10:08:37.851142+00:00
-
- ## Welcome to Advance Ticket
- - [https://www.advance-ticket.ch](https://www.advance-ticket.ch)
- - date_published: 2023-04-06T15:35:22+00:00
-
- ## AGEPoly
- - [https://agepoly.ch](https://agepoly.ch)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## AIM | Alternative Information Network
- - [http://www.aimpress.ch](http://www.aimpress.ch)
- - date_published: 2013-02-25T10:37:37+00:00
-
- ## Airbnb | Locations de vacances, cabanes, maisons de plage, etc.
- - [https://fr.airbnb.ch](https://fr.airbnb.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Airbnb | Case vacanze, baite, case sulla spiaggia e molto altro ancora
- - [https://it.airbnb.ch](https://it.airbnb.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Airbnb | Ferienwohnungen, Blockhütten, Häuser in Strandnähe & mehr
- - [https://airbnb.ch](https://airbnb.ch)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Schweizerischer Akkreditierungsrat | Conseil suisse d'accréditation
- - [https://akkreditierungsrat.ch](https://akkreditierungsrat.ch)
- - date_published: 2024-06-22T06:50:23.778080+00:00
-
- ## Javier Alberich
- - [https://alberi.ch](https://alberi.ch)
- - date_published: 2009-01-22T10:45:29+00:00
-
- ## Computer
- - [https://www.alcom.ch](https://www.alcom.ch)
- - date_published: 2024-07-20T20:59:55.224253+00:00
-
- ## ALDI SUISSE - Mehr fürs Leben
- - [https://www.aldi-suisse.ch](https://www.aldi-suisse.ch)
- - date_published: 2024-07-12T22:52:48.184115+00:00
-
- ## Alex Schroeder’s Diary
- - [https://alexschroeder.ch](https://alexschroeder.ch)
- - date_published: 2024-05-09T00:00:00+00:00
 

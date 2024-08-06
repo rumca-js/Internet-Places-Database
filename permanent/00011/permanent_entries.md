@@ -1,3 +1,157 @@
+ ## Alemany and Jensen Family Mastodon
+ - [https://mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca)
+ - date_published: 2024-06-23T17:15:02.754829+00:00
+
+ ## Chris Penner's FP
+ - [https://chrispenner.ca](https://chrispenner.ca)
+ - date_published: 2020-12-10T04:13:07+00:00
+
+ ## Home Page | Christmas Cheer Board
+ - [https://www.christmascheerboard.ca](https://www.christmascheerboard.ca)
+ - date_published: 2024-06-19T09:54:25+00:00
+
+ ## Discover Chrysler Canada | Chrysler Canada
+ - [https://www.chrysler.ca](https://www.chrysler.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Personal Banking and Financial Services | CIBC
+ - [https://www.cibc.ca](https://www.cibc.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## CIBL 101,5 FM Montréal
+ - [https://www.cibl1015.ca](https://www.cibl1015.ca)
+ - date_published: 2024-07-01T10:07:05.843530+00:00
+
+ ## Home - CIFAR
+ - [https://cifar.ca](https://cifar.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## CIFST | Canadian Institute of Food Science & Technology
+ - [https://cifst.ca](https://cifst.ca)
+ - date_published: 2024-05-01T07:56:02.118511+00:00
+
+ ## Canadian Institute for Health Information | CIHI
+ - [https://www.cihi.ca](https://www.cihi.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Your Health System | CIHI
+ - [https://yourhealthsystem.cihi.ca](https://yourhealthsystem.cihi.ca)
+ - date_published: 2024-06-22T15:55:03.262223+00:00
+
+ ## Law Directory Canada - Cinch Law Canada
+ - [https://cinchlaw.ca](https://cinchlaw.ca)
+ - date_published: 2024-06-29T17:53:57.908903+00:00
+
+ ## Canadian Investor Protection Fund
+ - [https://www.cipf.ca](https://www.cipf.ca)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Centre for International Policy Studies – Canada's leading centre for analysis and debate of international affairs.
+ - [https://www.cips-cepi.ca](https://www.cips-cepi.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Canadian Internet Registration Authority | CIRA
+ - [https://cira.ca](https://cira.ca)
+ - date_published: 2024-06-16T06:39:52.870868+00:00
+
+ ## Circos – Circular Visualization
+ - [https://circos.ca](https://circos.ca)
+ - date_published: 2024-07-09T11:44:40+00:00
+
+ ## Homepage
+ - [http://www.ciro.ca](http://www.ciro.ca)
+ - date_published: 2022-10-12T19:35:27+00:00
+
+ ## Cision: PR Software & Marketing Platform
+ - [https://www.cision.ca](https://www.cision.ca)
+ - date_published: 2024-06-29T01:32:57+00:00
+
+ ## The Citizen Lab - University of Toronto
+ - [https://citizenlab.ca](https://citizenlab.ca)
+ - date_published: 2023-10-25T12:09:16.663748+00:00
+ - tags: ['human rights', 'privacy']
+
+ ## Breaking News | Top Local Stories | CityNews Calgary
+ - [https://calgary.citynews.ca](https://calgary.citynews.ca)
+ - date_published: 2024-01-14T14:56:16.599498+00:00
+ - tags: ['canada', 'news']
+
+ ## Breaking News | Top Local Stories | CityNews Montreal
+ - [https://montreal.citynews.ca](https://montreal.citynews.ca)
+ - date_published: 2023-11-05T06:28:16.282544+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Toronto
+ - [https://toronto.citynews.ca](https://toronto.citynews.ca)
+ - date_published: 2023-12-04T13:48:22.408481+00:00
+
+ ## Breaking News | Top Local Stories | CityNews Vancouver
+ - [https://vancouver.citynews.ca](https://vancouver.citynews.ca)
+ - date_published: 2023-12-23T07:31:06.657092+00:00
+
+ ## Canadian Crossword Puzzles
+ - [http://www.classicanadianxwords.ca](http://www.classicanadianxwords.ca)
+ - date_published: 2019-10-01T19:22:00+00:00
+
+ ## TORSTAR Classroom Connection
+ - [https://www.classroomconnection.ca](https://www.classroomconnection.ca)
+ - date_published: 2024-05-06T14:31:08.747813+00:00
+
+ ## Top 5 Top 5 Toronto Cleaning for 2020 | Cleaning.ca Plumbers and Plumbing Contractors for 2020 | Cleaning.ca
+ - [http://www.cleaning.ca](http://www.cleaning.ca)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Canada's #1 Glasses and Contact Lenses Store | Clearly
+ - [https://clearly.ca](https://clearly.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Learn about the Climate Change discussion | Climate Change 101
+ - [http://www.climatechange101.ca](http://www.climatechange101.ca)
+ - date_published: 2024-06-15T09:05:08.951304+00:00
+
+ ## Canadian Climate Institute: Climate Change Canada Policy Research
+ - [https://climateinstitute.ca](https://climateinstitute.ca)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Who are we? - Climate Realists of British Columbia
+ - [https://climaterealists.ca](https://climaterealists.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Top 5 Top 5 Toronto Closets for 2020 | Closets.ca Plumbers and Plumbing Contractors for 2020 | Closets.ca
+ - [http://www.closets.ca](http://www.closets.ca)
+ - date_published: 2024-06-29T17:33:41.537766+00:00
+
+ ## Clothing in Canada, Canada
+ - [http://www.clothing.ca](http://www.clothing.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Workload-Optimized Cloud Services - IaaS | Hypertec Cloud
+ - [https://cloud.ca](https://cloud.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Clubs in Canada, Canada
+ - [http://www.clubs.ca](http://www.clubs.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## CMAJ
+ - [https://www.cmaj.ca](https://www.cmaj.ca)
+ - date_published: 2023-10-25T10:45:45.207661+00:00
+
+ ## Welcome to CMRRA
+ - [https://www.cmrra.ca](https://www.cmrra.ca)
+ - date_published: 2024-07-04T18:43:57.114262+00:00
+
+ ## CN - Transportation Services - Rail Shipping, Intermodal, trucking, warehousing and international transportation
+ - [https://www.cn.ca](https://www.cn.ca)
+ - date_published: 2024-06-19T09:55:44.749736+00:00
+
+ ## Stronger Canadian Health Care System | Canadian Nurses Foundation
+ - [https://cnf-fiic.ca](https://cnf-fiic.ca)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Home - Canadian Nuclear Laboratories
+ - [https://www.cnl.ca](https://www.cnl.ca)
+ - date_published: 2024-07-24T07:27:52.343793+00:00
+
  ## CNMC - Le Conseil national des musulmans Canadiens
  - [https://cnmc.ca](https://cnmc.ca)
  - date_published: 2024-06-13T17:07:16+00:00
@@ -133,6 +287,14 @@
  ## Canadian Public Transit Discussion Board
  - [https://cptdb.ca](https://cptdb.ca)
  - date_published: 2024-06-28T00:00:00+00:00
+
+ ## craigslist | canada
+ - [https://toronto.craigslist.ca](https://toronto.craigslist.ca)
+ - date_published: 2024-08-05T20:41:10+00:00
+
+ ## Modern Furniture Store, Kitchen & Home Decor Canada | Crate & Barrel Canada
+ - [https://www.crateandbarrel.ca](https://www.crateandbarrel.ca)
+ - date_published: 2024-08-05T22:42:08.940719+00:00
 
  ## analytics.crea.ca - /
  - [https://analytics.crea.ca](https://analytics.crea.ca)
@@ -745,6 +907,10 @@
  ## EP&T Magazine
  - [https://www.ept.ca](https://www.ept.ca)
  - date_published: 2024-06-17T00:36:29+00:00
+
+ ## Check & Monitor Your Credit Report and Credit Score | Equifax
+ - [https://www.consumer.equifax.ca](https://www.consumer.equifax.ca)
+ - date_published: 2024-08-05T22:08:26.417494+00:00
 
  ## Eric Daigle
  - [https://www.ericdaigle.ca](https://www.ericdaigle.ca)
@@ -1568,6 +1734,10 @@
  - [https://homesforheroesfoundation.ca](https://homesforheroesfoundation.ca)
  - date_published: 2024-05-06T20:02:15.098299+00:00
 
+ ## Hoover Canada
+ - [https://www.hoover.ca](https://www.hoover.ca)
+ - date_published: 2024-08-05T22:31:23.283167+00:00
+
  ## HOME En - HOP TECH
  - [https://hoptech.ca](https://hoptech.ca)
  - date_published: 2024-04-29T04:46:24.920472+00:00
@@ -2141,6 +2311,10 @@
  - [http://www.lawyer-canada.ca](http://www.lawyer-canada.ca)
  - date_published: 2024-06-03T00:00:00+00:00
 
+ ## Application development, games, websites | Leadhouse Innovation
+ - [https://leadhouse.ca](https://leadhouse.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## Company | Leatt® | Protective Neck Braces, Body Armour & Sports Gear |
  - [https://leatt-canada.ca](https://leatt-canada.ca)
  - date_published: 2024-06-15T12:00:22.254440+00:00
@@ -2236,6 +2410,10 @@
  ## Top 5 Top 5 Toronto Limos for 2020 | Limos.ca Plumbers and Plumbing Contractors for 2020 | Limos.ca
  - [http://www.limos.ca](http://www.limos.ca)
  - date_published: 2024-06-29T17:35:25.508397+00:00
+
+ ## Liquid I.V. - Fueling Life's Adventures
+ - [https://www.liquid-iv.ca](https://www.liquid-iv.ca)
+ - date_published: 2024-08-05T19:45:59.114223+00:00
 
  ## livier.ca
  - [http://www.livier.ca](http://www.livier.ca)
@@ -3871,182 +4049,4 @@
  ## The Peak
  - [http://readthepeak.ca](http://readthepeak.ca)
  - date_published: 2024-06-17T12:28:46.159768+00:00
-
- ## Attention Required! | Cloudflare
- - [https://reddeerhospitallottery.ca](https://reddeerhospitallottery.ca)
- - date_published: 2024-05-06T20:02:06.428925+00:00
-
- ## Real Estate, Homes for Sale, MLS Listings, Agents | Redfin
- - [https://www.redfin.ca](https://www.redfin.ca)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Red Room Recordings – Where Music Meets Magic
- - [https://www.redroomrecordings.ca](https://www.redroomrecordings.ca)
- - date_published: 2024-01-17T04:43:07.775376+00:00
- - tags: ['personal']
-
- ## Airline Tickets | Vacation Packages | Cruises & Last Minute Deals | Red Tag Vacations
- - [https://www.redtag.ca](https://www.redtag.ca)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Reece Martin
- - [https://reecemartin.ca](https://reecemartin.ca)
- - date_published: 2024-06-26T13:01:13.386821+00:00
-
- ## REEL CANADA
- - [https://reelcanada.ca](https://reelcanada.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Jonathan Reinink - Web designer & developer
- - [https://reinink.ca](https://reinink.ca)
- - date_published: 2024-07-09T13:36:13.745685+00:00
-
- ## Remote Pixel | Thanks
- - [https://www.remotepixel.ca](https://www.remotepixel.ca)
- - date_published: 2024-05-29T20:59:07.160132+00:00
-
- ## Top 5 Top 5 Toronto Renovations 2020 | Renovations.ca Plumbers and Plumbing Contractors for 2020 | Renovations.ca
- - [http://www.renovations.ca](http://www.renovations.ca)
- - date_published: 2024-06-29T17:33:33.774041+00:00
-
- ## Home - Research Impact Canada
- - [http://researchimpact.ca](http://researchimpact.ca)
- - date_published: 2024-07-21T08:34:30.569385+00:00
-
- ## Primary Access Node
- - [https://reservedbits.ca](https://reservedbits.ca)
- - date_published: 2023-07-09T11:08:21+00:00
-
- ## Retired, And Now What
- - [http://retiredandnowwhat.ca](http://retiredandnowwhat.ca)
- - date_published: 2024-06-20T12:04:40.461836+00:00
-
- ## Retro Rewind - Retro Computer Parts
- - [https://retrorewind.ca](https://retrorewind.ca)
- - date_published: 2024-06-14T02:21:39.320884+00:00
- - tags: ['amiga', 'shop']
-
- ## MLS® Listings: Real Estate for Sale & Rent in Canada
- - [https://www.rew.ca](https://www.rew.ca)
- - date_published: 2024-06-27T12:51:57.454178+00:00
-
- ## CRA
- - [https://rheum.ca](https://rheum.ca)
- - date_published: 2023-10-25T02:27:27+00:00
-
- ## Home - The Ride Fair Coalition
- - [https://ridefair.ca](https://ridefair.ca)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## The FOX Shop Canada | Official FOX Factory Store
- - [https://shop.ridefox.ca](https://shop.ridefox.ca)
- - date_published: 2024-06-15T12:00:13.397540+00:00
-
- ## Bike Frame Protection Kits. Wrap Your Ride with RideWrap™.
- - [https://www.ridewrap.ca](https://www.ridewrap.ca)
- - date_published: 2024-06-15T12:00:44.427312+00:00
-
- ## Ridge CA
- - [https://ridgewallet.ca](https://ridgewallet.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## mani's lair
- - [https://riemani.ca](https://riemani.ca)
- - date_published: 2024-07-20T18:24:33.371636+00:00
-
- ## Home
- - [http://riotheatre.ca](http://riotheatre.ca)
- - date_published: 2024-07-03T03:54:36.821425+00:00
-
- ## Rob Carrick - Globe and Mail Personal Finance Columnist
- - [http://www.robcarrick.ca](http://www.robcarrick.ca)
- - date_published: 2024-06-24T08:06:59.220593+00:00
-
- ## Home | Canadian Robotics Council
- - [https://www.roboticscouncil.ca](https://www.roboticscouncil.ca)
- - date_published: 2024-06-10T13:07:29.823327+00:00
-
- ## Rogue Wave Coffee Co | Edmonton Coffee Roaster
- - [https://roguewavecoffee.ca](https://roguewavecoffee.ca)
- - date_published: 2024-05-08T09:06:31.366868+00:00
-
- ## Log in — Rogue Wave Coffee Wholesale
- - [https://wholesale.roguewavecoffee.ca](https://wholesale.roguewavecoffee.ca)
- - date_published: 2024-07-07T03:37:11.733368+00:00
-
- ## Hollywood Cres Toronto Canada
- - [http://weather.rongrimes.ca](http://weather.rongrimes.ca)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## rongrimes
- - [https://www.rongrimes.ca](https://www.rongrimes.ca)
- - date_published: 2024-01-09T00:11:46.895827+00:00
-
- ## Roofing in Toronto, the GTA & Across Canada | Roofing.ca by N49
- - [http://www.roofing.ca](http://www.roofing.ca)
- - date_published: 2024-06-29T17:35:04.017259+00:00
-
- ## one of those things
- - [https://archive.rosano.ca](https://archive.rosano.ca)
- - date_published: 2024-07-02T19:19:56.020658+00:00
-
- ## Emoji Log
- - [https://emojilog.rosano.ca](https://emojilog.rosano.ca)
- - date_published: 2024-06-03T11:21:14.034494+00:00
-
- ## Fleeting Arrivals
- - [https://fleetingarrivals.rosano.ca](https://fleetingarrivals.rosano.ca)
- - date_published: 2024-07-02T19:19:59.459214+00:00
-
- ## Hyperdraft
- - [https://hyperdraft.rosano.ca](https://hyperdraft.rosano.ca)
- - date_published: 2024-06-03T11:19:41.330247+00:00
-
- ## Idiomatic
- - [https://idiomatic.rosano.ca](https://idiomatic.rosano.ca)
- - date_published: 2024-06-17T20:31:51+00:00
-
- ## Joybox
- - [https://joybox.rosano.ca](https://joybox.rosano.ca)
- - date_published: 2024-06-03T11:18:42.942296+00:00
-
- ## Kommit
- - [https://kommit.rosano.ca](https://kommit.rosano.ca)
- - date_published: 2024-06-03T11:20:33.482633+00:00
-
- ## MassageTXT
- - [https://massagetxt.rosano.ca](https://massagetxt.rosano.ca)
- - date_published: 2023-12-20T11:18:35+00:00
-
- ## Rosano
- - [https://rosano.ca](https://rosano.ca)
- - date_published: 2024-05-07T23:15:13.207855+00:00
-
- ## Sharesnip
- - [https://sharesnip.rosano.ca](https://sharesnip.rosano.ca)
- - date_published: 2023-12-20T11:44:53+00:00
-
- ## Welcome
- - [https://static.rosano.ca](https://static.rosano.ca)
- - date_published: 2024-03-03T21:57:14+00:00
-
- ## Strolling
- - [https://strolling.rosano.ca](https://strolling.rosano.ca)
- - date_published: 2024-07-02T19:20:03.383193+00:00
-
- ## Utopia / Rosano
- - [https://utopia.rosano.ca](https://utopia.rosano.ca)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Welcome to RRU Library! | Royal Roads University Library
- - [https://library.royalroads.ca](https://library.royalroads.ca)
- - date_published: 2024-06-16T11:11:50+00:00
-
- ## MyAdmin
- - [https://myadmin.royalroads.ca](https://myadmin.royalroads.ca)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Welcome to the website for Our People | Royal Roads University - Our People
- - [https://ourpeople.royalroads.ca](https://ourpeople.royalroads.ca)
- - date_published: 2024-05-22T00:00:00+00:00
 

@@ -3654,6 +3654,10 @@ Welcome
  - [https://paypal.eightfold.ai](https://paypal.eightfold.ai)
  - date_published: 2024-06-21T23:51:26.438830+00:00
 
+ ## Sign in to your account
+ - [https://qualcomm.eightfold.ai](https://qualcomm.eightfold.ai)
+ - date_published: 2024-08-05T00:00:00+00:00
+
  ## Puppetry is the easiest way to create videos with talking AI Avatars
  - [https://art.elbo.ai](https://art.elbo.ai)
  - date_published: 2024-06-19T19:39:24.201202+00:00
@@ -4025,8 +4029,4 @@ Welcome
  ## fforward
  - [https://www.fforward.ai](https://www.fforward.ai)
  - date_published: 2023-10-25T11:38:47.866433+00:00
-
- ## ficc.ai
- - [https://ficc.ai](https://ficc.ai)
- - date_published: 2024-05-08T03:06:29.340276+00:00
 

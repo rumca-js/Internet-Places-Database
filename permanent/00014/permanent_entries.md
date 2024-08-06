@@ -1,3 +1,195 @@
+ ## Maps of Switzerland - Swiss Confederation - map.geo.admin.ch
+ - [https://map.geo.admin.ch](https://map.geo.admin.ch)
+ - date_published: 2024-07-16T09:30:09+00:00
+
+ ## Startseite
+ - [https://www.admin.ch](https://www.admin.ch)
+ - date_published: 2024-05-02T13:26:49.656242+00:00
+
+ ## Bundesamt für Gesundheit BAG
+ - [https://www.bag.admin.ch](https://www.bag.admin.ch)
+ - date_published: 2024-07-16T22:16:43.518954+00:00
+
+ ## Bundesamt für Kultur
+ - [https://www.bak.admin.ch](https://www.bak.admin.ch)
+ - date_published: 2024-04-30T06:00:07.295934+00:00
+
+ ## Schweizerisches Bundesarchiv BAR
+ - [https://www.bar.admin.ch](https://www.bar.admin.ch)
+ - date_published: 2024-07-16T22:16:37.439380+00:00
+
+ ## Bundesamt für Bauten und Logistik
+ - [https://www.bbl.admin.ch](https://www.bbl.admin.ch)
+ - date_published: 2024-07-16T22:16:19.395956+00:00
+
+ ## Bundesamt für Statistik
+ - [https://www.bfs.admin.ch](https://www.bfs.admin.ch)
+ - date_published: 2024-05-12T07:17:04.137605+00:00
+
+ ## Bundesamt für Informatik und Telekommunikation BIT
+ - [https://www.bit.admin.ch](https://www.bit.admin.ch)
+ - date_published: 2024-07-16T22:16:26.021813+00:00
+
+ ## Startseite
+ - [https://www.bk.admin.ch](https://www.bk.admin.ch)
+ - date_published: 2024-05-12T07:24:37.110619+00:00
+
+ ## Bundesamt für Lebensmittelsicherheit und Veterinärwesen
+ - [https://www.blv.admin.ch](https://www.blv.admin.ch)
+ - date_published: 2024-07-13T17:43:06.529272+00:00
+
+ ## BSV-Online
+ - [https://www.bsv.admin.ch](https://www.bsv.admin.ch)
+ - date_published: 2024-07-16T22:16:51.398712+00:00
+
+ ## Rechtliches
+ - [http://www.disclaimer.admin.ch](http://www.disclaimer.admin.ch)
+ - date_published: 2024-07-21T06:26:37.969789+00:00
+
+ ## Gleichstellung der Geschlechter in allen Lebensbereichen
+ - [https://www.ebg.admin.ch](https://www.ebg.admin.ch)
+ - date_published: 2024-07-16T22:14:38+00:00
+
+ ## Eidgenössisches Departement für auswärtige Angelegenheiten EDA
+ - [http://www.eda.admin.ch](http://www.eda.admin.ch)
+ - date_published: 2024-06-17T15:43:04.922800+00:00
+
+ ## Eidgenössisches Departement des Innern
+ - [https://www.edi.admin.ch](https://www.edi.admin.ch)
+ - date_published: 2024-06-18T14:29:50.071937+00:00
+
+ ## Startseite
+ - [https://www.edoeb.admin.ch](https://www.edoeb.admin.ch)
+ - date_published: 2024-06-17T13:21:21.343528+00:00
+
+ ## EFD Startseite
+ - [http://www.efd.admin.ch](http://www.efd.admin.ch)
+ - date_published: 2024-06-18T14:29:53.504409+00:00
+
+ ## Startseite - EFK
+ - [http://www.efk.admin.ch](http://www.efk.admin.ch)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## index
+ - [https://www.efv.admin.ch](https://www.efv.admin.ch)
+ - date_published: 2024-07-16T22:16:17.841930+00:00
+
+ ## Startseite EJPD
+ - [http://www.ejpd.admin.ch](http://www.ejpd.admin.ch)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Eidgenössisches Personalamt
+ - [https://www.epa.admin.ch](https://www.epa.admin.ch)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Eidgenössische Steuerverwaltung ESTV
+ - [https://www.estv.admin.ch](https://www.estv.admin.ch)
+ - date_published: 2024-07-16T22:16:16.095202+00:00
+
+ ## Experimentelle Statistiken des BFS
+ - [https://www.experimental.bfs.admin.ch](https://www.experimental.bfs.admin.ch)
+ - date_published: 2024-07-16T22:16:54.280420+00:00
+
+ ## Bundesamt für Zoll und Grenzsicherheit
+ - [http://www.ezv.admin.ch](http://www.ezv.admin.ch)
+ - date_published: 2024-07-16T22:16:24.006351+00:00
+
+ ## Fedlex
+ - [https://fedlex.admin.ch](https://fedlex.admin.ch)
+ - date_published: 2024-05-12T07:23:52.798993+00:00
+
+ ## Startseite - MeteoSchweiz
+ - [https://www.meteoschweiz.admin.ch](https://www.meteoschweiz.admin.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Homepage - MeteoSwiss
+ - [https://www.meteoswiss.admin.ch](https://www.meteoswiss.admin.ch)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.plurilingua.admin.ch](https://www.plurilingua.admin.ch)
+ - date_published: 2024-07-16T22:15:14+00:00
+
+ ## Im Brennpunkt
+ - [https://www.sbfi.admin.ch](https://www.sbfi.admin.ch)
+ - date_published: 2024-06-16T22:07:22.700220+00:00
+
+ ## Staatssekretariat für internationale Finanzfragen SIF - Startseite
+ - [https://www.sif.admin.ch](https://www.sif.admin.ch)
+ - date_published: 2024-07-16T22:16:12.893996+00:00
+
+ ## eStaKa
+ - [https://www.staatskalender.admin.ch](https://www.staatskalender.admin.ch)
+ - date_published: 2023-11-08T17:00:49+00:00
+
+ ## Startseite
+ - [https://www.stelle.admin.ch](https://www.stelle.admin.ch)
+ - date_published: 2024-06-18T14:24:23.639863+00:00
+
+ ## Startseite
+ - [https://www.uvek.admin.ch](https://www.uvek.admin.ch)
+ - date_published: 2024-06-18T14:29:51.990919+00:00
+
+ ## Das VBS – Sicherheit für die Schweiz
+ - [https://www.vbs.admin.ch](https://www.vbs.admin.ch)
+ - date_published: 2024-06-18T14:25:18+00:00
+
+ ## Startseite Internet WBF
+ - [http://www.wbf.admin.ch](http://www.wbf.admin.ch)
+ - date_published: 2024-06-18T14:24:26.391044+00:00
+
+ ## Login
+ - [https://mov.adorsaz.ch](https://mov.adorsaz.ch)
+ - date_published: 2024-07-10T07:54:43.199450+00:00
+
+ ## Preisgekrönte Entgeltabrechnungsdienste und HR-Software | ADP Schweiz
+ - [https://www.adp.ch](https://www.adp.ch)
+ - date_published: 2024-06-16T10:08:37.851142+00:00
+
+ ## Welcome to Advance Ticket
+ - [https://www.advance-ticket.ch](https://www.advance-ticket.ch)
+ - date_published: 2023-04-06T15:35:22+00:00
+
+ ## AGEPoly
+ - [https://agepoly.ch](https://agepoly.ch)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## AIM | Alternative Information Network
+ - [http://www.aimpress.ch](http://www.aimpress.ch)
+ - date_published: 2013-02-25T10:37:37+00:00
+
+ ## Airbnb | Locations de vacances, cabanes, maisons de plage, etc.
+ - [https://fr.airbnb.ch](https://fr.airbnb.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Case vacanze, baite, case sulla spiaggia e molto altro ancora
+ - [https://it.airbnb.ch](https://it.airbnb.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Ferienwohnungen, Blockhütten, Häuser in Strandnähe & mehr
+ - [https://airbnb.ch](https://airbnb.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Schweizerischer Akkreditierungsrat | Conseil suisse d'accréditation
+ - [https://akkreditierungsrat.ch](https://akkreditierungsrat.ch)
+ - date_published: 2024-06-22T06:50:23.778080+00:00
+
+ ## Javier Alberich
+ - [https://alberi.ch](https://alberi.ch)
+ - date_published: 2009-01-22T10:45:29+00:00
+
+ ## Computer
+ - [https://www.alcom.ch](https://www.alcom.ch)
+ - date_published: 2024-07-20T20:59:55.224253+00:00
+
+ ## ALDI SUISSE - Mehr fürs Leben
+ - [https://www.aldi-suisse.ch](https://www.aldi-suisse.ch)
+ - date_published: 2024-07-12T22:52:48.184115+00:00
+
+ ## Alex Schroeder’s Diary
+ - [https://alexschroeder.ch](https://alexschroeder.ch)
+ - date_published: 2024-05-09T00:00:00+00:00
+
  ## Code repositories
  - [https://src.alexschroeder.ch](https://src.alexschroeder.ch)
  - date_published: 2024-06-30T21:23:06.218757+00:00
@@ -3822,197 +4014,4 @@
  ## Glasfaser-Anschluss für Privatpersonen
  - [https://litexchange.ch](https://litexchange.ch)
  - date_published: 2024-04-30T06:00:32.686394+00:00
-
- ## Ticketcorner Live Club
- - [https://www.live-club.ch](https://www.live-club.ch)
- - date_published: 2024-07-20T14:53:27.917420+00:00
-
- ## io.livecode.ch
- - [http://io.livecode.ch](http://io.livecode.ch)
- - date_published: 2024-07-07T05:27:05.070711+00:00
-
- ## Livit AG - Real Estate Management
- - [https://www.livit.ch](https://www.livit.ch)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## git.LMAO.ch
- - [https://git.lmao.ch](https://git.lmao.ch)
- - date_published: 2024-07-10T06:15:20.255587+00:00
-
- ## Home - Ludovic Mermod
- - [https://lmermod.ch](https://lmermod.ch)
- - date_published: 2024-04-30T06:02:15.274945+00:00
-
- ## Erfolg für KMU in der digitalen Welt - localsearch
- - [https://www.localsearch.ch](https://www.localsearch.ch)
- - date_published: 2023-11-20T13:32:20+00:00
-
- ## Hof Lochstadol Staldenried • Bergbauernhof Familie Hitz
- - [https://lochstadol.ch](https://lochstadol.ch)
- - date_published: 2024-07-10T07:44:57.518373+00:00
-
- ## LONGLAKE
- - [https://longlake.ch](https://longlake.ch)
- - date_published: 2024-07-15T12:25:46.904605+00:00
-
- ## Offres d'emploi | Loterie Romande
- - [https://job.loro.ch](https://job.loro.ch)
- - date_published: 2024-07-21T06:27:04.813732+00:00
-
- ## Rapport annuel 2023 de la Loterie Romande
- - [https://ra.loro.ch](https://ra.loro.ch)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Page d'accueil | Loterie Romande
- - [https://loro.ch](https://loro.ch)
- - date_published: 2024-04-30T06:00:04.024684+00:00
-
- ## LS Partner – Patentanwaltskanzlei in Basel
- - [https://www.lspartner.ch](https://www.lspartner.ch)
- - date_published: 2024-06-19T15:39:44.293177+00:00
-
- ## home
- - [https://luck-cbs.ch](https://luck-cbs.ch)
- - date_published: 2024-06-17T15:59:02+00:00
-
- ## Home page - Lugano Eventi
- - [https://luganoeventi.ch](https://luganoeventi.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Homepage | Lugano Region
- - [https://luganoturismo.ch](https://luganoturismo.ch)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Global
- - [https://boersenundmaerkte.lukb.ch](https://boersenundmaerkte.lukb.ch)
- - date_published: 2024-07-21T06:37:33.115902+00:00
-
- ## LUKB E-Banking Login
- - [https://ebanking.lukb.ch](https://ebanking.lukb.ch)
- - date_published: 2024-06-18T14:58:10+00:00
-
- ## Luzerner Kantonalbank – führend, solide, persönlich
- - [https://lukb.ch](https://lukb.ch)
- - date_published: 2024-04-30T05:58:31.210695+00:00
-
- ## Amateurfunk ist unsere Passion – Lutz-Electronics, Grindel, Schweiz
- - [https://lutz-electronics.ch](https://lutz-electronics.ch)
- - date_published: 2024-06-28T22:46:54.592201+00:00
-
- ## Luzerner Zeitung | Nachrichten Luzern & Zentralschweiz
- - [http://www.luzernerzeitung.ch](http://www.luzernerzeitung.ch)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Agentur für Tourismusmarketing- Mabeo GmbH
- - [http://www.mabeo.ch](http://www.mabeo.ch)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## MB&F M.A.D.Gallery e-shop
- - [https://shop.madgallery.ch](https://shop.madgallery.ch)
- - date_published: 2024-07-09T08:43:20.774121+00:00
-
- ## La Maison de la Bible Suisse - votre librairie chrétienne
- - [https://maisonbible.ch](https://maisonbible.ch)
- - date_published: 2024-07-08T12:20:33.948866+00:00
-
- ## Home FR | À venir maison emilie
- - [https://maisonemilie.ch](https://maisonemilie.ch)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Maison Shift
- - [https://maisonshift.ch](https://maisonshift.ch)
- - date_published: 2024-05-06T18:10:50.760547+00:00
-
- ## MAMCO Genève
- - [https://mamco.ch](https://mamco.ch)
- - date_published: 2024-05-07T12:51:47.788635+00:00
-
- ## Manido Studios  / Branding & Immobilien - marketing Agentur / Zurich
- - [http://manido.ch](http://manido.ch)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Marcus Fischer
- - [https://mapmap.ch](https://mapmap.ch)
- - date_published: 2024-06-22T07:01:51.192608+00:00
-
- ## Home
- - [https://marcelhauri.ch](https://marcelhauri.ch)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Marcel Waldvogel
- - [https://marcel-waldvogel.ch](https://marcel-waldvogel.ch)
- - date_published: 2024-06-23T17:15:18.050079+00:00
-
- ## Mario Winkler Company
- - [http://mariowinkler.ch](http://mariowinkler.ch)
- - date_published: 2019-05-13T21:33:52+00:00
-
- ## Markus Mächler
- - [http://markusmaechler.ch](http://markusmaechler.ch)
- - date_published: 2023-09-09T09:48:50+00:00
-
- ## Markustinner – Design, Music, Plugins
- - [http://www.markustinner.ch](http://www.markustinner.ch)
- - date_published: 2024-06-24T05:18:18.170323+00:00
-
- ## Martin Grandjean | Digital humanities, Data visualization, Network analysis
- - [http://www.martingrandjean.ch](http://www.martingrandjean.ch)
- - date_published: 2024-07-14T13:14:53.500810+00:00
-
- ## Methods & Tools Editor Blog
- - [http://blog.martinig.ch](http://blog.martinig.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Martinig & Associates | Home
- - [https://www.martinig.ch](https://www.martinig.ch)
- - date_published: 2024-06-23T06:48:02.342865+00:00
-
- ## Martin Richi Photography
- - [http://martinrichi.ch](http://martinrichi.ch)
- - date_published: 2018-12-14T00:00:00+00:00
-
- ## Maserati Schweiz – Luxus-SUVs, Sportwagen & mehr | Maserati CH
- - [http://www.maserati.ch](http://www.maserati.ch)
- - date_published: 2024-07-12T04:56:38+00:00
-
- ## Pasar Jalan Petaling
- - [https://www.maurits.ch](https://www.maurits.ch)
- - date_published: 2023-10-25T08:43:18.862210+00:00
- - tags: ['personal']
-
- ## Gilbert Maystre
- - [https://gilbert.maystre.ch](https://gilbert.maystre.ch)
- - date_published: 2024-02-23T00:26:46+00:00
-
- ## Home page
- - [http://mclean.ch](http://mclean.ch)
- - date_published: 2020-06-06T14:00:00+00:00
-
- ## MDes Basel
- - [http://mdesbasel.ch](http://mdesbasel.ch)
- - date_published: 2024-07-13T14:59:48.773552+00:00
-
- ## MDTURP | MDTURP
- - [https://blog.mdturp.ch](https://blog.mdturp.ch)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Willkommen bei MediaMarkt Schweiz
- - [https://www.mediamarkt.ch](https://www.mediamarkt.ch)
- - date_published: 2024-07-13T13:39:11.250633+00:00
-
- ## Media One Contact - 1# Régie publicitaire Radio en Suisse Romande
- - [https://www.mediaone.ch](https://www.mediaone.ch)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Urgences Vaud by medigo - Les urgences à portée de main
- - [https://medigo.ch](https://medigo.ch)
- - date_published: 2024-04-30T05:59:25.869431+00:00
-
- ## Welcome in MPZ
- - [https://meinungsplatz.ch](https://meinungsplatz.ch)
- - date_published: 2024-06-25T22:24:35.815349+00:00
-
- ## Unterhaltungs- & Haushaltselektronik | melectronics
- - [https://www.melectronics.ch](https://www.melectronics.ch)
- - date_published: 2024-05-30T00:00:00+00:00
 

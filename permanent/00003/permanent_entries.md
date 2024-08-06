@@ -1,3 +1,16 @@
+ ## DataPulse - Simple, fun & lightweight web analytics solution
+ - [https://datapulse.app](https://datapulse.app)
+ - date_published: 2024-06-16T20:49:07.461191+00:00
+
+ ## Dateforce | Salesforce, but for dating
+ - [https://dateforce.app](https://dateforce.app)
+ - date_published: 2023-10-25T11:45:57.324167+00:00
+ - tags: ['dating']
+
+ ## Day One Journal
+ - [https://www.dayone.app](https://www.dayone.app)
+ - date_published: 2024-06-27T13:24:09.037578+00:00
+
  ## Home | db8bot
  - [https://db8bot.app](https://db8bot.app)
  - date_published: 2024-07-14T10:17:23.066477+00:00
@@ -109,6 +122,10 @@
  ## Dream Voyage - Unlock the Mysteries of Your Dreams
  - [https://dreamore.app](https://dreamore.app)
  - date_published: 2024-06-19T19:55:29.506273+00:00
+
+ ## DropScout | Save Money on Amazon with Price Alerts!
+ - [https://www.dropscout.app](https://www.dropscout.app)
+ - date_published: 2024-08-05T20:58:40.227959+00:00
 
  ## Dropshare Apps - upload anything anywhere on macOS and iOS
  - [https://dropshare.app](https://dropshare.app)
@@ -826,9 +843,37 @@
  - [https://www.homerow.app](https://www.homerow.app)
  - date_published: 2023-10-25T11:46:50.039169+00:00
 
+ ## Welcome to the Web API documentation 👋 | Homey Web API
+ - [https://api.developer.homey.app](https://api.developer.homey.app)
+ - date_published: 2024-08-05T22:57:14.988272+00:00
+
+ ## Welcome to the Apps SDK documentation 👋 | Homey Apps SDK
+ - [https://apps.developer.homey.app](https://apps.developer.homey.app)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Homey Community Forum
+ - [https://community.homey.app](https://community.homey.app)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Homey - Get the app
+ - [https://get.homey.app](https://get.homey.app)
+ - date_published: 2024-01-25T16:16:43+00:00
+
  ## Homey - A Better Smart Home
  - [https://homey.app](https://homey.app)
  - date_published: 2024-04-29T04:04:01.939925+00:00
+
+ ## My Homey
+ - [https://my.homey.app](https://my.homey.app)
+ - date_published: 2024-08-05T12:36:28+00:00
+
+ ## Homey Status
+ - [https://status.homey.app](https://status.homey.app)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Homey Support
+ - [https://support.homey.app](https://support.homey.app)
+ - date_published: 2024-08-05T22:58:10.178108+00:00
 
  ## Hondana: Virtual Bookshelf & Community
  - [https://hondana.app](https://hondana.app)
@@ -2729,6 +2774,10 @@
  - [https://nowtracker.app](https://nowtracker.app)
  - date_published: 2024-06-30T06:03:56.607868+00:00
 
+ ## Nozbe
+ - [https://nozbe.app](https://nozbe.app)
+ - date_published: 2024-08-05T17:59:05.218398+00:00
+
  ## Beautiful calculator for Mac
  - [https://numi.app](https://numi.app)
  - date_published: 2024-07-24T07:59:46.533075+00:00
@@ -3992,53 +4041,4 @@
  ## Discover Things You Enjoy For Your Mood With AI
  - [https://taranify.app](https://taranify.app)
  - date_published: 2024-06-27T10:52:46.492628+00:00
-
- ## Tasmota - #1 Software for Smart Home Integration
- - [https://tasmota.app](https://tasmota.app)
- - date_published: 2023-01-26T11:15:23+00:00
-
- ## Hardened foundation for your web apps.
- - [https://beta.tauri.app](https://beta.tauri.app)
- - date_published: 2024-02-23T21:18:24.945566+00:00
-
- ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
- - [https://tauri.app](https://tauri.app)
- - date_published: 2023-10-25T11:49:16.037626+00:00
- - tags: ['software development platform']
-
- ## Tauri 2.0
- - [https://v2.tauri.app](https://v2.tauri.app)
- - date_published: 2024-08-02T23:32:46.789938+00:00
-
- ## Taurine
- - [https://taurine.app](https://taurine.app)
- - date_published: 2023-09-24T00:23:47+00:00
-
- ## Taylor's Version
- - [https://taylorsversion.app](https://taylorsversion.app)
- - date_published: 2024-07-23T23:43:00.273168+00:00
-
- ## teachyourselfmath
- - [https://teachyourselfmath.app](https://teachyourselfmath.app)
- - date_published: 2024-01-24T06:49:02.414761+00:00
-
- ## Team, Assemble!
- - [https://teamassemble.app](https://teamassemble.app)
- - date_published: 2024-07-14T18:47:30.749847+00:00
-
- ## Team Video - Video Conferencing
- - [https://teamvideo.app](https://teamvideo.app)
- - date_published: 2021-04-27T00:00:00+00:00
-
- ## Find your dream Canadian tech job
- - [https://www.techjobscanada.app](https://www.techjobscanada.app)
- - date_published: 2024-04-28T04:30:40.131321+00:00
-
- ## Introduction | Terrastories Support Materials
- - [https://docs.terrastories.app](https://docs.terrastories.app)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Explore Terrastories
- - [https://explore.terrastories.app](https://explore.terrastories.app)
- - date_published: 2024-07-15T11:14:27.219508+00:00
 
