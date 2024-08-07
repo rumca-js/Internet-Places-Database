@@ -1,3 +1,163 @@
+ ## Contrax.app
+ - [https://contrax.app](https://contrax.app)
+ - date_published: 2024-06-03T11:18:08.746229+00:00
+
+ ## ControlR
+ - [https://app.controlr.app](https://app.controlr.app)
+ - date_published: 2024-06-15T18:49:58+00:00
+
+ ## ControlR
+ - [https://controlr.app](https://controlr.app)
+ - date_published: 2024-06-15T18:49:58+00:00
+
+ ## ControlR
+ - [https://us-nw.controlr.app](https://us-nw.controlr.app)
+ - date_published: 2024-06-15T18:49:58+00:00
+
+ ## Browse, organise, search and switch tabs with one simple shortcut
+ - [https://controlspace.app](https://controlspace.app)
+ - date_published: 2024-05-02T11:41:43.845843+00:00
+
+ ## Open-Source-Projekt Corona-Warn-App
+ - [https://www.coronawarn.app](https://www.coronawarn.app)
+ - date_published: 2024-05-14T15:44:08+00:00
+
+ ## Free English and Tagalog Grammar Checker
+ - [https://corrector.app](https://corrector.app)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Countdoku - Multiplayer Sudoku
+ - [https://countdoku.app](https://countdoku.app)
+ - date_published: 2024-06-30T06:57:24.271582+00:00
+
+ ## Count the Hours
+ - [https://www.countthehours.app](https://www.countthehours.app)
+ - date_published: 2023-10-25T11:45:56.370816+00:00
+
+ ## AI Cover Letters, Examples & Templates - coverletter.app
+ - [https://coverletter.app](https://coverletter.app)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## COVID Shield
+ - [https://covidshield.app](https://covidshield.app)
+ - date_published: 2020-09-08T14:12:22+00:00
+
+ ## Expiry Tracking Fridge, Pantry and Recipes Manager App, Grocery Shopping List • CozZo Smart Kitchen App
+ - [https://cozzo.app](https://cozzo.app)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## CreateLogo | AI logo generator
+ - [https://createlogo.app](https://createlogo.app)
+ - date_published: 2024-06-14T08:55:58.325305+00:00
+
+ ## TalkingHead
+ - [https://assistant.creatus.app](https://assistant.creatus.app)
+ - date_published: 2024-02-06T14:07:15+00:00
+
+ ## Running and monitoring cron jobs | Cronly
+ - [https://cronly.app](https://cronly.app)
+ - date_published: 2024-06-16T23:01:54.069448+00:00
+
+ ## Crouton
+ - [https://crouton.app](https://crouton.app)
+ - date_published: 2024-02-01T22:30:32+00:00
+
+ ## CriticalPath: Mobile app profiler with synchronized video of app UI
+ - [https://crpath.app](https://crpath.app)
+ - date_published: 2024-02-28T20:52:32+00:00
+
+ ## CryptoPunks
+ - [https://cryptopunks.app](https://cryptopunks.app)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## HTML + CSS
+ - [https://445zww.csb.app](https://445zww.csb.app)
+ - date_published: 2024-06-23T16:07:56.979273+00:00
+
+ ## Static Template
+ - [https://66rvj.csb.app](https://66rvj.csb.app)
+ - date_published: 2024-07-14T07:38:26.686703+00:00
+
+ ## Sandbox - CodeSandbox
+ - [https://6r7d5m.csb.app](https://6r7d5m.csb.app)
+ - date_published: 2024-07-12T06:01:04.614309+00:00
+
+ ## React App
+ - [https://6vmc1n.csb.app](https://6vmc1n.csb.app)
+ - date_published: 2024-05-06T21:26:24.258629+00:00
+
+ ## CodeSandbox
+ - [https://75jqhf.csb.app](https://75jqhf.csb.app)
+ - date_published: 2024-06-30T03:12:53.006276+00:00
+
+ ## Venatus Sandbox
+ - [https://cwn77d.csb.app](https://cwn77d.csb.app)
+ - date_published: 2024-06-25T21:37:13.010738+00:00
+
+ ## Static Template
+ - [https://fgj2bc.csb.app](https://fgj2bc.csb.app)
+ - date_published: 2024-06-25T21:36:06.885352+00:00
+
+ ## Theremeeeeeen
+ - [https://i12tq.csb.app](https://i12tq.csb.app)
+ - date_published: 2024-07-02T19:31:35.762549+00:00
+
+ ## Sandbox - CodeSandbox
+ - [https://k5hplq.csb.app](https://k5hplq.csb.app)
+ - date_published: 2024-07-02T17:17:54.216000+00:00
+
+ ## Static Template
+ - [https://n8ngnc.csb.app](https://n8ngnc.csb.app)
+ - date_published: 2024-06-16T08:06:11.547243+00:00
+
+ ## HTML + CSS
+ - [https://pl3f69-5000.csb.app](https://pl3f69-5000.csb.app)
+ - date_published: 2024-06-29T08:54:25.889225+00:00
+
+ ## Static Template
+ - [https://q14t91.csb.app](https://q14t91.csb.app)
+ - date_published: 2024-06-16T05:46:11.027244+00:00
+
+ ## Static Template
+ - [https://r119dt.csb.app](https://r119dt.csb.app)
+ - date_published: 2024-06-23T06:41:35.221055+00:00
+
+ ## A universe of stevie
+ - [https://rqv4n.csb.app](https://rqv4n.csb.app)
+ - date_published: 2024-07-02T19:31:37.375918+00:00
+
+ ## Static Template
+ - [https://s7lhjd.csb.app](https://s7lhjd.csb.app)
+ - date_published: 2024-07-04T12:33:49.067102+00:00
+
+ ## Hello! 👋😽
+ - [https://zx9l7.csb.app](https://zx9l7.csb.app)
+ - date_published: 2024-07-02T19:31:38.547453+00:00
+
+ ## Cuanto App
+ - [https://cuanto.app](https://cuanto.app)
+ - date_published: 2024-07-12T20:15:11.368186+00:00
+
+ ## join the cult 😈
+ - [https://cult.app](https://cult.app)
+ - date_published: 2024-07-17T13:51:20.681846+00:00
+
+ ## Cycle | Your feedback hub, on autopilot
+ - [https://www.cycle.app](https://www.cycle.app)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## CYNCROCITY
+ - [https://cyncrocity.app](https://cyncrocity.app)
+ - date_published: 2024-06-19T21:05:43.609986+00:00
+
+ ## Umami
+ - [https://web-analytics.danielroelfs.app](https://web-analytics.danielroelfs.app)
+ - date_published: 2024-05-09T07:43:24.619656+00:00
+
+ ## Dataloop
+ - [https://www.dataloop.app](https://www.dataloop.app)
+ - date_published: 2024-07-14T23:16:15.671819+00:00
+
  ## DataPulse - Simple, fun & lightweight web analytics solution
  - [https://datapulse.app](https://datapulse.app)
  - date_published: 2024-06-16T20:49:07.461191+00:00
@@ -540,6 +700,10 @@
  ## Foundation
  - [https://foundation.app](https://foundation.app)
  - date_published: 2024-04-30T15:44:18.621471+00:00
+
+ ## My Framer Site
+ - [https://giant-clicks-989582.framer.app](https://giant-clicks-989582.framer.app)
+ - date_published: 2024-04-30T00:00:00+00:00
 
  ## Framework | Sustainability
  - [https://perfect-hiring-822947.framer.app](https://perfect-hiring-822947.framer.app)
@@ -1504,6 +1668,10 @@
  - [https://mava.app](https://mava.app)
  - date_published: 2024-04-26T00:00:00+00:00
 
+ ## Meco: The #1 newsletter aggregator | Declutter your inbox
+ - [https://www.meco.app](https://www.meco.app)
+ - date_published: 2024-07-25T00:00:00+00:00
+
  ## MeetSpace - Home
  - [https://meetspace.app](https://meetspace.app)
  - date_published: 2024-05-08T12:18:20.114776+00:00
@@ -1846,6 +2014,10 @@
  - [https://bookmark-divider.netlify.app](https://bookmark-divider.netlify.app)
  - date_published: 2024-07-02T18:43:40.284445+00:00
 
+ ## Winnie Bosibori
+ - [https://bosibori.netlify.app](https://bosibori.netlify.app)
+ - date_published: 2024-08-06T23:37:24.850204+00:00
+
  ## Catbot Chat
  - [https://botcat.netlify.app](https://botcat.netlify.app)
  - date_published: 2024-07-22T17:11:11.762691+00:00
@@ -1975,6 +2147,10 @@
  ## Developers Folders
  - [https://devicons.netlify.app](https://devicons.netlify.app)
  - date_published: 2024-07-02T18:28:21.019644+00:00
+
+ ## Devon Persing
+ - [https://devonpersing.netlify.app](https://devonpersing.netlify.app)
+ - date_published: 2024-08-06T23:38:58.095583+00:00
 
  ## Bingus Bwamp’s Emporium of Enchanted Stones
  - [https://dnd-lamp-store.netlify.app](https://dnd-lamp-store.netlify.app)
@@ -2125,6 +2301,10 @@
  - [https://jhey.netlify.app](https://jhey.netlify.app)
  - date_published: 2024-07-22T12:29:56.681289+00:00
 
+ ## Jialin Wu Homepage
+ - [https://jialinwu.netlify.app](https://jialinwu.netlify.app)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## JOJX
  - [https://jojx.netlify.app](https://jojx.netlify.app)
  - date_published: 2024-06-20T07:57:24.075417+00:00
@@ -2204,6 +2384,10 @@
  ## Massif Press
  - [https://massif-press.netlify.app](https://massif-press.netlify.app)
  - date_published: 2024-07-14T17:26:53.721310+00:00
+
+ ## The Art of Not Asking Why
+ - [https://master--taonaw-blog.netlify.app](https://master--taonaw-blog.netlify.app)
+ - date_published: 2024-08-06T19:22:13.487915+00:00
 
  ## Math Riddles | Quiz App
  - [https://mathriddles.netlify.app](https://mathriddles.netlify.app)
@@ -2475,6 +2659,10 @@
  ## Shahid Shaikh - UI Developer
  - [https://shahid-v2.netlify.app](https://shahid-v2.netlify.app)
  - date_published: 2024-07-02T19:01:48.355769+00:00
+
+ ## sb-website-widgets
+ - [https://shopbox-app.netlify.app](https://shopbox-app.netlify.app)
+ - date_published: 2024-08-06T10:44:23.518538+00:00
 
  ## Siddharth Roy
  - [https://siddharthroy.netlify.app](https://siddharthroy.netlify.app)
@@ -3851,194 +4039,4 @@
  ## Spectrolite
  - [https://spectrolite.app](https://spectrolite.app)
  - date_published: 2023-10-25T11:48:58.865948+00:00
-
- ## Welcome to Asm-Editor
- - [https://asm-editor.specy.app](https://asm-editor.specy.app)
- - date_published: 2023-10-25T11:49:02.976604+00:00
- - tags: ['online tool', 'programming ide', 'm68k', 'asm-editor', 'assembly']
-
- ## Specy
- - [https://specy.app](https://specy.app)
- - date_published: 2024-07-11T15:42:53.270688+00:00
-
- ## speedscope
- - [https://speedscope.app](https://speedscope.app)
- - date_published: 2024-01-12T17:59:26+00:00
-
- ## SpellBox - AI programming assistant
- - [https://spellbox.app](https://spellbox.app)
- - date_published: 2024-06-19T20:54:53.002663+00:00
-
- ## Splitfocus – Discover great photography
- - [https://splitfocus.app](https://splitfocus.app)
- - date_published: 2024-07-09T19:05:34.007490+00:00
-
- ## AI Face Swap Online | Anakin.ai
- - [https://www.spreadai.app](https://www.spreadai.app)
- - date_published: 2024-06-19T19:03:56.021247+00:00
-
- ## SQL Genius - SQL AI generator - Translate English to SQL Query
- - [https://sqlgenius.app](https://sqlgenius.app)
- - date_published: 2024-01-11T02:10:43+00:00
-
- ## SQLite Viewer Web
- - [https://alpha.sqliteviewer.app](https://alpha.sqliteviewer.app)
- - date_published: 2024-06-14T09:17:47.544921+00:00
-
- ## SQLite Viewer Web App
- - [https://sqliteviewer.app](https://sqliteviewer.app)
- - date_published: 2024-06-14T09:17:12+00:00
- - tags: ['online tool', 'sqllite']
-
- ## Squoosh
- - [https://squoosh.app](https://squoosh.app)
- - date_published: 2024-06-18T09:25:50.273289+00:00
-
- ## Stacky - Create micro websites with QR codes
- - [https://stacky.app](https://stacky.app)
- - date_published: 2024-07-02T20:15:48.537819+00:00
-
- ## Stemstr
- - [https://stemstr.app](https://stemstr.app)
- - date_published: 2024-06-15T22:34:21.119193+00:00
-
- ## Show HN: I built a tool for repeatable checklists
- - [https://steplist.app](https://steplist.app)
- - date_published: 2024-05-02T14:21:59+00:00
-
- ## StepsApp
- - [https://steps.app](https://steps.app)
- - date_published: 2024-07-10T11:59:59+00:00
-
- ## Please don’t theme our apps
- - [https://stopthemingmy.app](https://stopthemingmy.app)
- - date_published: 2023-10-25T11:49:07.204497+00:00
-
- ## https://store.app
- - [https://store.app](https://store.app)
- - date_published: 2023-10-24T20:06:24.975812+00:00
-
- ## Shopify App — Login
- - [https://cf.storeify.app](https://cf.storeify.app)
- - date_published: 2024-07-09T13:18:51.250144+00:00
-
- ## Shopify App — Login
- - [https://sl.storeify.app](https://sl.storeify.app)
- - date_published: 2024-07-16T23:46:32.898528+00:00
-
- ## Store Leads
- - [https://storeleads.app](https://storeleads.app)
- - date_published: 2024-05-13T02:40:46.387100+00:00
-
- ## StoryCapsule
- - [https://storycapsule.app](https://storycapsule.app)
- - date_published: 2024-05-06T21:20:02.129499+00:00
-
- ## StoryCatcher® for iOS ~ What's your story?
- - [https://storycatcher.app](https://storycatcher.app)
- - date_published: 2024-05-06T20:17:56.760550+00:00
-
- ## Book Planning & Writer's Block Cure in One App
- - [https://storypath.app](https://storypath.app)
- - date_published: 2024-06-19T19:36:05.047718+00:00
-
- ## Interaktive Geschichten für Kinder und Jugendliche
- - [https://www.story-world.app](https://www.story-world.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## https://nl-compare.streamlit.app
- - [https://nl-compare.streamlit.app](https://nl-compare.streamlit.app)
- - date_published: 2024-01-30T23:17:28.574256+00:00
-
- ## StreetComplete
- - [https://streetcomplete.app](https://streetcomplete.app)
- - date_published: 2024-05-11T11:32:38.406145+00:00
-
- ## Show HN: I made a Note-Taking app for people who keep texting themselves
- - [https://strflow.app](https://strflow.app)
- - date_published: 2024-07-10T11:54:35+00:00
-
- ## Strongify Easy Workout Tracker
- - [https://strongify.app](https://strongify.app)
- - date_published: 2023-11-22T00:00:00+00:00
-
- ## Structpad - notepad-database hybrid
- - [https://structpad.app](https://structpad.app)
- - date_published: 2023-10-25T11:49:13.505963+00:00
-
- ## Studyable - AI Homework Help & Flash Cards
- - [https://studyable.app](https://studyable.app)
- - date_published: 2024-06-19T20:38:05.241325+00:00
-
- ## Subbi - Subscriptions Manager
- - [https://subbi.app](https://subbi.app)
- - date_published: 2024-07-14T09:33:38.486709+00:00
-
- ## Sublime
- - [https://sublime.app](https://sublime.app)
- - date_published: 2024-05-12T05:40:38.314509+00:00
-
- ## Subtxt - Write a Better Story
- - [https://subtxt.app](https://subtxt.app)
- - date_published: 2024-06-19T19:26:53.865337+00:00
-
- ## Summarify AI For YouTube Powered By ChatGPT | Summarify
- - [https://summarify.app](https://summarify.app)
- - date_published: 2024-06-19T19:35:09.224988+00:00
-
- ## sunforest.app | parked domain
- - [https://sunforest.app](https://sunforest.app)
- - date_published: 2024-07-09T19:28:43.420061+00:00
-
- ## Superkey
- - [https://superkey.app](https://superkey.app)
- - date_published: 2024-06-18T11:35:47.035289+00:00
-
- ## Supernotes | The best collaborative note-taking app
- - [https://supernotes.app](https://supernotes.app)
- - date_published: 2024-02-22T13:05:18.857072+00:00
-
- ## Surfable.app
- - [https://surfable.app](https://surfable.app)
- - date_published: 2024-07-04T04:23:44.051876+00:00
-
- ## svgl
- - [https://svgl.app](https://svgl.app)
- - date_published: 2024-05-09T09:14:46.297079+00:00
-
- ## Swift Shift | Manage your mac's windows like a pro
- - [https://swiftshift.app](https://swiftshift.app)
- - date_published: 2024-07-10T07:39:58.968756+00:00
-
- ## SwipeWell | Swipe File Software
- - [https://swipewell.app](https://swipewell.app)
- - date_published: 2024-06-23T06:43:43.895285+00:00
-
- ## Syncly – Surface real customer pains from everyday customer communication
- - [https://syncly.app](https://syncly.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Synctify – Sync a music drop with a time in the real world
- - [https://synctify.app](https://synctify.app)
- - date_published: 2023-12-31T15:05:32+00:00
-
- ## SynthMind AI
- - [https://synthmind.app](https://synthmind.app)
- - date_published: 2024-06-09T04:07:51+00:00
-
- ## Infinite Mac
- - [https://system6.app](https://system6.app)
- - date_published: 2024-05-08T08:45:23.629527+00:00
-
- ## Infinite Mac
- - [https://system7.app](https://system7.app)
- - date_published: 2024-05-08T08:45:14.154595+00:00
-
- ## Private group chat and collaboration
- - [https://tap.app](https://tap.app)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Discover Things You Enjoy For Your Mood With AI
- - [https://taranify.app](https://taranify.app)
- - date_published: 2024-06-27T10:52:46.492628+00:00
 

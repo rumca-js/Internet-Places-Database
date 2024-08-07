@@ -1,3 +1,129 @@
+ ## ReWorked.ai-Harnessing AI To Find High Quality Leads
+ - [https://reworked.ai](https://reworked.ai)
+ - date_published: 2024-05-08T06:36:21+00:00
+ - tags: ['artificial intelligence', 'scoring system']
+
+ ## Rezi - The Leading AI Resume Builder trusted by 2,359,071 users
+ - [https://www.rezi.ai](https://www.rezi.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## DANAGG | Situs Taruhan Judi Online Paling Aman Terpercaya Saat Ini
+ - [https://www.rideos.ai](https://www.rideos.ai)
+ - date_published: 2024-07-12T07:25:43.445663+00:00
+
+ ## Riku.AI | Build AI Apps with no-code in minutes
+ - [https://riku.ai](https://riku.ai)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Home - RIOS
+ - [https://www.rios.ai](https://www.rios.ai)
+ - date_published: 2024-04-03T00:00:00+00:00
+ - tags: ['artificial intelligence', 'robotics']
+
+ ## roadstar.ai
+ - [http://roadstar.ai](http://roadstar.ai)
+ - date_published: 2024-07-12T07:31:26.553519+00:00
+
+ ## ROASTED
+ - [https://www.roastedby.ai](https://www.roastedby.ai)
+ - date_published: 2023-10-25T11:42:22.672027+00:00
+
+ ## RoboCasa
+ - [https://robocasa.ai](https://robocasa.ai)
+ - date_published: 2024-06-11T21:55:12+00:00
+
+ ## Roboflow Blog
+ - [https://blog.roboflow.ai](https://blog.roboflow.ai)
+ - date_published: 2024-04-28T05:21:59.150389+00:00
+
+ ## Roboflow: Computer vision tools for developers and enterprises
+ - [https://roboflow.ai](https://roboflow.ai)
+ - date_published: 2024-04-28T05:22:32.381547+00:00
+
+ ## RoboSense | World Leader in LiDAR and Perception Solutions
+ - [http://www.robosense.ai](http://www.robosense.ai)
+ - date_published: 2024-07-12T07:23:20.259443+00:00
+
+ ## robosuite
+ - [https://robosuite.ai](https://robosuite.ai)
+ - date_published: 2024-02-22T08:17:43+00:00
+
+ ## robotec.ai - AI-enabled technologies for mobility
+ - [https://www.robotec.ai](https://www.robotec.ai)
+ - date_published: 2024-07-13T06:37:41.922786+00:00
+
+ ## Roboto
+ - [https://app.roboto.ai](https://app.roboto.ai)
+ - date_published: 2024-07-11T22:04:31+00:00
+
+ ## Roboto | Docs
+ - [https://docs.roboto.ai](https://docs.roboto.ai)
+ - date_published: 2024-07-11T21:59:25+00:00
+
+ ## Roboto | Sandbox
+ - [https://sandbox.roboto.ai](https://sandbox.roboto.ai)
+ - date_published: 2024-01-03T17:04:57+00:00
+
+ ## Roboto AI – Your Copilot for Robotics Data
+ - [https://roboto.ai](https://roboto.ai)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Robovision
+ - [https://robovision.ai](https://robovision.ai)
+ - date_published: 2024-06-02T15:35:32+00:00
+
+ ## Robust.AI
+ - [https://robust.ai](https://robust.ai)
+ - date_published: 2024-04-28T05:29:14.209448+00:00
+
+ ## LLM Driven Testing Copilot | Test Case Generation & Code Scanning
+ - [https://roost.ai](https://roost.ai)
+ - date_published: 2024-07-22T17:43:18+00:00
+
+ ## ROQ.dev - Data & api layer for SaaS apps
+ - [https://www.roq.ai](https://www.roq.ai)
+ - date_published: 2023-11-29T00:00:00+00:00
+
+ ## Play and Create Games on Rosebud — AI-Powered Game Development
+ - [https://play.rosebud.ai](https://play.rosebud.ai)
+ - date_published: 2024-01-04T16:18:49.176689+00:00
+
+ ## Rosebud AI: Build Games at the Speed of Thought. AI Powered Game Development.
+ - [https://www.rosebud.ai](https://www.rosebud.ai)
+ - date_published: 2024-01-04T16:19:02.132824+00:00
+
+ ## Roshi - Custom Lessons in Seconds
+ - [https://www.roshi.ai](https://www.roshi.ai)
+ - date_published: 2024-06-19T20:11:59.756521+00:00
+
+ ## Rossum - Registration
+ - [https://app.rossum.ai](https://app.rossum.ai)
+ - date_published: 2024-04-22T07:50:29+00:00
+
+ ## AI Document Processing For Transactional Workflows
+ - [https://rossum.ai](https://rossum.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Rossum Status
+ - [https://status.rossum.ai](https://status.rossum.ai)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## What's new in Rossum
+ - [https://updates.rossum.ai](https://updates.rossum.ai)
+ - date_published: 2024-06-23T11:17:28.641444+00:00
+
+ ## Meet Rowsie: Your AI Assistant for Excel Modeling
+ - [https://rowsie.ai](https://rowsie.ai)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## RTutor 0.98
+ - [http://rtutor.ai](http://rtutor.ai)
+ - date_published: 2024-06-19T20:38:38.314157+00:00
+
+ ## Rusher.AI | The AI Copilot for Modern Marketers
+ - [https://rusher.ai](https://rusher.ai)
+ - date_published: 2024-06-14T08:59:26.894377+00:00
+
  ## RXRX
  - [https://www.rxrx.ai](https://www.rxrx.ai)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -29,6 +155,10 @@
  ## SalesStack powering Ghost, The first AI Sales Representative
  - [https://salesstack.ai](https://salesstack.ai)
  - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Home | Samaya AI
+ - [https://samaya.ai](https://samaya.ai)
+ - date_published: 2024-08-06T20:43:08.013487+00:00
 
  ## SambaNova Systems | Revolutionize AI Workloads
  - [https://sambanova.ai](https://sambanova.ai)
@@ -123,6 +253,10 @@
  - [https://www.seaart.ai](https://www.seaart.ai)
  - date_published: 2024-05-15T00:00:00+00:00
 
+ ## Best Sales Lead Software | Seamless.AI
+ - [https://seamless.ai](https://seamless.ai)
+ - date_published: 2024-08-02T00:00:00+00:00
+
  ## searchable.ai
  - [https://www.searchable.ai](https://www.searchable.ai)
  - date_published: 2024-06-19T18:56:27.989488+00:00
@@ -157,7 +291,7 @@
 
  ## Oops! | Securiti.AI
  - [https://cdn-prod.securiti.ai](https://cdn-prod.securiti.ai)
- - date_published: 2024-04-29T02:41:39.706364+00:00
+ - date_published: 2021-03-02T18:33:20+00:00
 
  ## Securiti.ai
  - [https://privacy-central.securiti.ai](https://privacy-central.securiti.ai)
@@ -1034,6 +1168,10 @@
  - [https://www.themultiverse.ai](https://www.themultiverse.ai)
  - date_published: 2024-06-19T20:03:16.281962+00:00
 
+ ## The Rundown AI
+ - [http://therundown.ai](http://therundown.ai)
+ - date_published: 2024-08-06T05:44:22+00:00
+
  ## Camel AGI
  - [https://camelagi.thesamur.ai](https://camelagi.thesamur.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -1177,6 +1315,10 @@
  ## 斗象科技 - 让安全无法撼动
  - [https://www.tophant.ai](https://www.tophant.ai)
  - date_published: 2024-07-13T16:57:21.635115+00:00
+
+ ## Topic Intelligence
+ - [https://platform.topicintelligence.ai](https://platform.topicintelligence.ai)
+ - date_published: 2024-08-02T14:13:51+00:00
 
  ## Free Online AI Video Editor for Video Creation | TopView
  - [https://www.topview.ai](https://www.topview.ai)
@@ -2168,6 +2310,10 @@ Creative Solutions
  - [https://www.zencall.ai](https://www.zencall.ai)
  - date_published: 2024-05-30T00:00:00+00:00
 
+ ## Introducing Zencoder, your mindful AI coding agent
+ - [https://zencoder.ai](https://zencoder.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
  ## Zenen AI - Creative AI That Understands Human-like Conversations
  - [https://zenen.ai](https://zenen.ai)
  - date_published: 2023-02-21T01:59:02+00:00
@@ -2179,6 +2325,10 @@ Creative Solutions
  ## Zeni AI Bookkeeping | Automated Accounting For Your Business
  - [https://www.zeni.ai](https://www.zeni.ai)
  - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Zeni: The #1 AI Bookkeeping Software | Automated Accounting
+ - [http://zeni.ai](http://zeni.ai)
+ - date_published: 2024-08-05T00:00:00+00:00
 
  ## Master Prompt Engineering | ZenPrompts
  - [https://www.zenprompts.ai](https://www.zenprompts.ai)
@@ -3481,6 +3631,10 @@ Creative Solutions
  - [https://www.bargpt.app](https://www.bargpt.app)
  - date_published: 2024-04-02T00:00:00+00:00
 
+ ## Barista Bot | Coffee Ordering AI
+ - [https://baristabot.app](https://baristabot.app)
+ - date_published: 2024-04-19T16:01:00+00:00
+
  ## Bear
  - [https://bear.app](https://bear.app)
  - date_published: 2024-05-04T14:03:16.127978+00:00
@@ -3496,6 +3650,10 @@ Creative Solutions
  ## Bearable Symptom Tracker App | Pain & Mental Health Journal
  - [https://bearable.app](https://bearable.app)
  - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Beatmapper
+ - [https://beatmapper.app](https://beatmapper.app)
+ - date_published: 2023-11-20T03:27:41+00:00
 
  ## Bigcapital | Core Accounting Software
  - [https://bigcapital.app](https://bigcapital.app)
@@ -3556,6 +3714,10 @@ Creative Solutions
  ## Borogove
  - [https://snippets.borogove.app](https://snippets.borogove.app)
  - date_published: 2023-10-09T18:33:16+00:00
+
+ ## Braavos - a StarkNet Wallet
+ - [https://braavos.app](https://braavos.app)
+ - date_published: 2024-07-31T00:00:00+00:00
 
  ## Asisten AI - Brainy Buddy
  - [https://brainybuddy.app](https://brainybuddy.app)
@@ -3867,164 +4029,4 @@ Creative Solutions
  ## Title management for the modern book publisher | Consonance
  - [https://consonance.app](https://consonance.app)
  - date_published: 2024-04-29T07:49:48.991612+00:00
-
- ## Contrax.app
- - [https://contrax.app](https://contrax.app)
- - date_published: 2024-06-03T11:18:08.746229+00:00
-
- ## ControlR
- - [https://app.controlr.app](https://app.controlr.app)
- - date_published: 2024-06-15T18:49:58+00:00
-
- ## ControlR
- - [https://controlr.app](https://controlr.app)
- - date_published: 2024-06-15T18:49:58+00:00
-
- ## ControlR
- - [https://us-nw.controlr.app](https://us-nw.controlr.app)
- - date_published: 2024-06-15T18:49:58+00:00
-
- ## Browse, organise, search and switch tabs with one simple shortcut
- - [https://controlspace.app](https://controlspace.app)
- - date_published: 2024-05-02T11:41:43.845843+00:00
-
- ## Open-Source-Projekt Corona-Warn-App
- - [https://www.coronawarn.app](https://www.coronawarn.app)
- - date_published: 2024-05-14T15:44:08+00:00
-
- ## Free English and Tagalog Grammar Checker
- - [https://corrector.app](https://corrector.app)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Countdoku - Multiplayer Sudoku
- - [https://countdoku.app](https://countdoku.app)
- - date_published: 2024-06-30T06:57:24.271582+00:00
-
- ## Count the Hours
- - [https://www.countthehours.app](https://www.countthehours.app)
- - date_published: 2023-10-25T11:45:56.370816+00:00
-
- ## AI Cover Letters, Examples & Templates - coverletter.app
- - [https://coverletter.app](https://coverletter.app)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## COVID Shield
- - [https://covidshield.app](https://covidshield.app)
- - date_published: 2020-09-08T14:12:22+00:00
-
- ## Expiry Tracking Fridge, Pantry and Recipes Manager App, Grocery Shopping List • CozZo Smart Kitchen App
- - [https://cozzo.app](https://cozzo.app)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## CreateLogo | AI logo generator
- - [https://createlogo.app](https://createlogo.app)
- - date_published: 2024-06-14T08:55:58.325305+00:00
-
- ## TalkingHead
- - [https://assistant.creatus.app](https://assistant.creatus.app)
- - date_published: 2024-02-06T14:07:15+00:00
-
- ## Running and monitoring cron jobs | Cronly
- - [https://cronly.app](https://cronly.app)
- - date_published: 2024-06-16T23:01:54.069448+00:00
-
- ## Crouton
- - [https://crouton.app](https://crouton.app)
- - date_published: 2024-02-01T22:30:32+00:00
-
- ## CriticalPath: Mobile app profiler with synchronized video of app UI
- - [https://crpath.app](https://crpath.app)
- - date_published: 2024-02-28T20:52:32+00:00
-
- ## CryptoPunks
- - [https://cryptopunks.app](https://cryptopunks.app)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## HTML + CSS
- - [https://445zww.csb.app](https://445zww.csb.app)
- - date_published: 2024-06-23T16:07:56.979273+00:00
-
- ## Static Template
- - [https://66rvj.csb.app](https://66rvj.csb.app)
- - date_published: 2024-07-14T07:38:26.686703+00:00
-
- ## Sandbox - CodeSandbox
- - [https://6r7d5m.csb.app](https://6r7d5m.csb.app)
- - date_published: 2024-07-12T06:01:04.614309+00:00
-
- ## React App
- - [https://6vmc1n.csb.app](https://6vmc1n.csb.app)
- - date_published: 2024-05-06T21:26:24.258629+00:00
-
- ## CodeSandbox
- - [https://75jqhf.csb.app](https://75jqhf.csb.app)
- - date_published: 2024-06-30T03:12:53.006276+00:00
-
- ## Venatus Sandbox
- - [https://cwn77d.csb.app](https://cwn77d.csb.app)
- - date_published: 2024-06-25T21:37:13.010738+00:00
-
- ## Static Template
- - [https://fgj2bc.csb.app](https://fgj2bc.csb.app)
- - date_published: 2024-06-25T21:36:06.885352+00:00
-
- ## Theremeeeeeen
- - [https://i12tq.csb.app](https://i12tq.csb.app)
- - date_published: 2024-07-02T19:31:35.762549+00:00
-
- ## Sandbox - CodeSandbox
- - [https://k5hplq.csb.app](https://k5hplq.csb.app)
- - date_published: 2024-07-02T17:17:54.216000+00:00
-
- ## Static Template
- - [https://n8ngnc.csb.app](https://n8ngnc.csb.app)
- - date_published: 2024-06-16T08:06:11.547243+00:00
-
- ## HTML + CSS
- - [https://pl3f69-5000.csb.app](https://pl3f69-5000.csb.app)
- - date_published: 2024-06-29T08:54:25.889225+00:00
-
- ## Static Template
- - [https://q14t91.csb.app](https://q14t91.csb.app)
- - date_published: 2024-06-16T05:46:11.027244+00:00
-
- ## Static Template
- - [https://r119dt.csb.app](https://r119dt.csb.app)
- - date_published: 2024-06-23T06:41:35.221055+00:00
-
- ## A universe of stevie
- - [https://rqv4n.csb.app](https://rqv4n.csb.app)
- - date_published: 2024-07-02T19:31:37.375918+00:00
-
- ## Static Template
- - [https://s7lhjd.csb.app](https://s7lhjd.csb.app)
- - date_published: 2024-07-04T12:33:49.067102+00:00
-
- ## Hello! 👋😽
- - [https://zx9l7.csb.app](https://zx9l7.csb.app)
- - date_published: 2024-07-02T19:31:38.547453+00:00
-
- ## Cuanto App
- - [https://cuanto.app](https://cuanto.app)
- - date_published: 2024-07-12T20:15:11.368186+00:00
-
- ## join the cult 😈
- - [https://cult.app](https://cult.app)
- - date_published: 2024-07-17T13:51:20.681846+00:00
-
- ## Cycle | Your feedback hub, on autopilot
- - [https://www.cycle.app](https://www.cycle.app)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## CYNCROCITY
- - [https://cyncrocity.app](https://cyncrocity.app)
- - date_published: 2024-06-19T21:05:43.609986+00:00
-
- ## Umami
- - [https://web-analytics.danielroelfs.app](https://web-analytics.danielroelfs.app)
- - date_published: 2024-05-09T07:43:24.619656+00:00
-
- ## Dataloop
- - [https://www.dataloop.app](https://www.dataloop.app)
- - date_published: 2024-07-14T23:16:15.671819+00:00
 

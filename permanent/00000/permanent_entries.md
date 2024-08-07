@@ -71,6 +71,10 @@
  - [https://strangespecial.disco.ac](https://strangespecial.disco.ac)
  - date_published: 2024-06-26T22:55:34.897510+00:00
 
+ ## XMEMES CTO
+ - [https://xmemes.drr.ac](https://xmemes.drr.ac)
+ - date_published: 2024-07-31T08:23:37+00:00
+
  ## The University of Edinburgh
  - [https://edin.ac](https://edin.ac)
  - date_published: 2024-05-02T10:53:52.088689+00:00
@@ -342,6 +346,10 @@
  ## MBZUAI - Mohamed bin Zayed University of Artificial Intelligence
  - [https://mbzuai.ac.ae](https://mbzuai.ac.ae)
  - date_published: 2024-05-24T00:00:00+00:00
+
+ ## 3M Science. Applied to Life. | 3M United Arab Emirates
+ - [https://www.3mae.ae](https://www.3mae.ae)
+ - date_published: 2024-08-06T10:39:01.342170+00:00
 
  ## adidas Official Website | adidas United Arab Emirates
  - [https://www.adidas.ae](https://www.adidas.ae)
@@ -1643,6 +1651,18 @@
  - [http://algebraic.ai](http://algebraic.ai)
  - date_published: 2023-01-24T14:43:54+00:00
 
+ ## Kaleido: Pluralistic Values, Rights, and Duties
+ - [https://kaleido.allen.ai](https://kaleido.allen.ai)
+ - date_published: 2023-09-12T16:50:13+00:00
+
+ ## Satlas
+ - [https://satlas.allen.ai](https://satlas.allen.ai)
+ - date_published: 2024-07-31T21:20:33+00:00
+
+ ## WildChat
+ - [https://wildchat.allen.ai](https://wildchat.allen.ai)
+ - date_published: 2024-06-26T22:10:15+00:00
+
  ## Aloud - dubbing for everyone
  - [https://aloud.ai](https://aloud.ai)
  - date_published: 2024-06-29T22:47:05.566410+00:00
@@ -1666,6 +1686,10 @@
  ## Login -  AlwaysOn
  - [https://app.alwayson.ai](https://app.alwayson.ai)
  - date_published: 2024-07-07T08:33:28.890415+00:00
+
+ ## Alysio.ai | GTM Performance Platform for Sales Teams
+ - [https://www.alysio.ai](https://www.alysio.ai)
+ - date_published: 2024-08-05T00:00:00+00:00
 
  ## Open Source Python ETL
  - [https://amphi.ai](https://amphi.ai)
@@ -2635,6 +2659,10 @@ Welcome
  - date_published: 2023-10-25T11:37:09.565971+00:00
 
  ## Conversation Intelligence for Sales | ZoomInfo + Chorus
+ - [https://chorus.ai](https://chorus.ai)
+ - date_published: 2024-08-06T21:09:06.160679+00:00
+
+ ## Conversation Intelligence for Sales | ZoomInfo + Chorus
  - [https://www.chorus.ai](https://www.chorus.ai)
  - date_published: 2024-06-16T19:11:19.350688+00:00
 
@@ -2739,6 +2767,10 @@ Welcome
  ## Cloudevo | Growth Marketing Agency
  - [https://cloudevo.ai](https://cloudevo.ai)
  - date_published: 2023-04-28T13:33:39+00:00
+
+ ## Homepage | CloudKeeper
+ - [https://www.cloudkeeper.ai](https://www.cloudkeeper.ai)
+ - date_published: 2024-08-06T10:37:10+00:00
 
  ## AI Safety Initiative: Pioneering AI Compliance & Safety | CSA
  - [https://cloudsecurityalliance.ai](https://cloudsecurityalliance.ai)
@@ -2863,6 +2895,10 @@ Welcome
  ## Context by Cohere
  - [https://txt.cohere.ai](https://txt.cohere.ai)
  - date_published: 2023-10-25T11:37:29.613810+00:00
+
+ ## Coho AI | Make App Engagement Easy
+ - [https://www.coho.ai](https://www.coho.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
 
  ## CoinScreener
  - [https://www.coinscreener.ai](https://www.coinscreener.ai)
@@ -3386,9 +3422,17 @@ Welcome
  - [https://detangle.ai](https://detangle.ai)
  - date_published: 2023-10-25T11:38:15.628900+00:00
 
+ ## Distributed Deep Learning and Hyperparameter Tuning Platform
+ - [https://determined.ai](https://determined.ai)
+ - date_published: 2024-07-17T00:00:00+00:00
+
  ## Local AI LLMs | Test AI models on your system | Opera Browser
  - [https://www.devicetest.ai](https://www.devicetest.ai)
  - date_published: 2024-06-14T08:06:42+00:00
+
+ ## DevRev AgentOS | Your Copilot For Software
+ - [https://devrev.ai](https://devrev.ai)
+ - date_published: 2024-07-16T00:00:00+00:00
 
  ## Devtron - The Software Delivery Platform for Kubernetes Applications
  - [https://devtron.ai](https://devtron.ai)
@@ -3573,6 +3617,10 @@ Welcome
  ## Durable - Custom Software: Designed by you, Built by Generative AI.
  - [https://durable.ai](https://durable.ai)
  - date_published: 2024-05-29T16:52:40+00:00
+
+ ## DevRev AgentOS | Your Copilot For Software
+ - [https://dvrv.ai](https://dvrv.ai)
+ - date_published: 2024-07-16T00:00:00+00:00
 
  ## Dyna.Ai | Empower Work, Enrich Life
  - [https://www.dynatech.ai](https://www.dynatech.ai)
@@ -3822,6 +3870,10 @@ Welcome
  - [https://exactly.ai](https://exactly.ai)
  - date_published: 2024-07-10T01:49:20.350621+00:00
 
+ ## #1 Conversational Marketing and Sales Platform - Exceed.ai
+ - [https://exceed.ai](https://exceed.ai)
+ - date_published: 2021-05-26T06:35:42+00:00
+
  ## ExcelMaster.ai
  - [https://excelmaster.ai](https://excelmaster.ai)
  - date_published: 2024-06-14T08:56:48.374464+00:00
@@ -3906,6 +3958,10 @@ Welcome
  - [https://www.factory.ai](https://www.factory.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## Faethm by Pearson
+ - [https://www.faethm.ai](https://www.faethm.ai)
+ - date_published: 2024-08-06T04:52:23+00:00
+
  ## Welcome to Faiss Documentation — Faiss  documentation
  - [https://faiss.ai](https://faiss.ai)
  - date_published: 2024-05-11T07:39:27.056441+00:00
@@ -3973,60 +4029,4 @@ Welcome
  ## FedML - The Production AI Platform for Federated Learning at Scale
  - [https://fedml.ai](https://fedml.ai)
  - date_published: 2024-05-11T01:53:07+00:00
-
- ## Realtime Feature Store for Machine Learning | Fennel
- - [https://fennel.ai](https://fennel.ai)
- - date_published: 2023-10-25T11:38:43.141732+00:00
-
- ## Fera - Fera Admin Sign In
- - [https://admin.fera.ai](https://admin.fera.ai)
- - date_published: 2024-07-04T17:58:03.258647+00:00
-
- ## Fera - Sign In
- - [https://app-cdn.fera.ai](https://app-cdn.fera.ai)
- - date_published: 2024-07-04T17:57:57.723295+00:00
-
- ## Fera - Sign In
- - [https://app.fera.ai](https://app.fera.ai)
- - date_published: 2024-07-04T17:57:52.971651+00:00
-
- ## Fera - Sign In
- - [https://cdn.fera.ai](https://cdn.fera.ai)
- - date_published: 2024-05-08T07:14:23.713356+00:00
-
- ## Fera Help Center
- - [https://help.fera.ai](https://help.fera.ai)
- - date_published: 2024-07-04T17:58:07.754486+00:00
-
- ## Fera - Partner Sign In
- - [https://partners.fera.ai](https://partners.fera.ai)
- - date_published: 2024-07-04T17:58:04.956594+00:00
-
- ## Fera Status
- - [https://status.fera.ai](https://status.fera.ai)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Fera - Reviews App for Shopify
- - [https://www.fera.ai](https://www.fera.ai)
- - date_published: 2024-07-04T17:58:00.304306+00:00
-
- ## Ferret | Relationship Intelligence in your pocket
- - [https://www.ferret.ai](https://www.ferret.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fetch AI: Open platform to build AI Apps & Services
- - [https://fetch.ai](https://fetch.ai)
- - date_published: 2024-06-16T16:35:54.006348+00:00
-
- ## Feynman
- - [https://dashboard.feynman.ai](https://dashboard.feynman.ai)
- - date_published: 2024-07-13T09:15:24.111482+00:00
-
- ## Feynman AI
- - [https://feynman.ai](https://feynman.ai)
- - date_published: 2024-05-11T06:55:59.200865+00:00
-
- ## fforward
- - [https://www.fforward.ai](https://www.fforward.ai)
- - date_published: 2023-10-25T11:38:47.866433+00:00
 

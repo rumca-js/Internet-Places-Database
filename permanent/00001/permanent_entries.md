@@ -1,3 +1,59 @@
+ ## Realtime Feature Store for Machine Learning | Fennel
+ - [https://fennel.ai](https://fennel.ai)
+ - date_published: 2023-10-25T11:38:43.141732+00:00
+
+ ## Fera - Fera Admin Sign In
+ - [https://admin.fera.ai](https://admin.fera.ai)
+ - date_published: 2024-07-04T17:58:03.258647+00:00
+
+ ## Fera - Sign In
+ - [https://app-cdn.fera.ai](https://app-cdn.fera.ai)
+ - date_published: 2024-07-04T17:57:57.723295+00:00
+
+ ## Fera - Sign In
+ - [https://app.fera.ai](https://app.fera.ai)
+ - date_published: 2024-07-04T17:57:52.971651+00:00
+
+ ## Fera - Sign In
+ - [https://cdn.fera.ai](https://cdn.fera.ai)
+ - date_published: 2024-05-08T07:14:23.713356+00:00
+
+ ## Fera Help Center
+ - [https://help.fera.ai](https://help.fera.ai)
+ - date_published: 2024-07-04T17:58:07.754486+00:00
+
+ ## Fera - Partner Sign In
+ - [https://partners.fera.ai](https://partners.fera.ai)
+ - date_published: 2024-07-04T17:58:04.956594+00:00
+
+ ## Fera Status
+ - [https://status.fera.ai](https://status.fera.ai)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Fera - Reviews App for Shopify
+ - [https://www.fera.ai](https://www.fera.ai)
+ - date_published: 2024-07-04T17:58:00.304306+00:00
+
+ ## Ferret | Relationship Intelligence in your pocket
+ - [https://www.ferret.ai](https://www.ferret.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Fetch AI: Open platform to build AI Apps & Services
+ - [https://fetch.ai](https://fetch.ai)
+ - date_published: 2024-06-16T16:35:54.006348+00:00
+
+ ## Feynman
+ - [https://dashboard.feynman.ai](https://dashboard.feynman.ai)
+ - date_published: 2024-07-13T09:15:24.111482+00:00
+
+ ## Feynman AI
+ - [https://feynman.ai](https://feynman.ai)
+ - date_published: 2024-05-11T06:55:59.200865+00:00
+
+ ## fforward
+ - [https://www.fforward.ai](https://www.fforward.ai)
+ - date_published: 2023-10-25T11:38:47.866433+00:00
+
  ## ficc.ai
  - [https://ficc.ai](https://ficc.ai)
  - date_published: 2024-05-08T03:06:29.340276+00:00
@@ -50,6 +106,10 @@
  - [https://firstlight.ai](https://firstlight.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## AI-Driven Intelligence
+ - [https://fiscalnote.ai](https://fiscalnote.ai)
+ - date_published: 2024-08-06T21:27:16.169599+00:00
+
  ## Autonomous vehicle development and safety assurance platform
  - [https://five.ai](https://five.ai)
  - date_published: 2024-04-08T00:00:00+00:00
@@ -69,6 +129,10 @@
  ## Flamel.ai - The Social Media Hub for Multi-Location Brands
  - [https://flamel.ai](https://flamel.ai)
  - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Show HN: I built a serverless data API builder – no storage, low latency
+ - [https://fleak.ai](https://fleak.ai)
+ - date_published: 2024-08-06T15:49:07+00:00
 
  ## Fletch | Live ahead of cyberthreats
  - [https://fletch.ai](https://fletch.ai)
@@ -1008,8 +1072,24 @@
  - [https://www.innoq.ai](https://www.innoq.ai)
  - date_published: 2024-07-07T00:00:00+00:00
 
+ ## InOrbit Connect
+ - [https://connect.inorbit.ai](https://connect.inorbit.ai)
+ - date_published: 2024-08-06T23:24:18+00:00
+
+ ## InOrbit - RobOps @ scale
+ - [https://control.inorbit.ai](https://control.inorbit.ai)
+ - date_published: 2024-08-06T23:24:21.562946+00:00
+
+ ## Developer Portal Overview - Sept 2022
+ - [https://developer.inorbit.ai](https://developer.inorbit.ai)
+ - date_published: 2024-08-04T19:14:29+00:00
+
+ ## Robot Directory
+ - [https://directory.inorbit.ai](https://directory.inorbit.ai)
+ - date_published: 2024-08-06T23:24:15+00:00
+
  ## InOrbit
- - [https://www.inorbit.ai](https://www.inorbit.ai)
+ - [https://inorbit.ai](https://inorbit.ai)
  - date_published: 2024-04-28T05:22:51.383424+00:00
 
  ## IN SCHOOL — business knowledge from Silicon Valley
@@ -1059,6 +1139,10 @@
  ## Instantly.ai - Sales Engagement & Lead Intelligence
  - [https://instantly.ai](https://instantly.ai)
  - date_published: 2024-06-19T19:35:16.338059+00:00
+
+ ## Embed 250+ of integration in your app in minutes
+ - [https://integry.ai](https://integry.ai)
+ - date_published: 2024-07-17T00:00:00+00:00
 
  ## Intellecs.ai
  - [https://www.intellecs.ai](https://www.intellecs.ai)
@@ -1192,7 +1276,7 @@
 
  ## Try to impeach this? Challenge accepted!
  - [https://try-to-impeach-this.jetpack.ai](https://try-to-impeach-this.jetpack.ai)
- - date_published: 2024-04-29T02:30:12.597510+00:00
+ - date_published: 2020-02-22T16:41:48+00:00
 
  ## Jiahao Li
  - [https://jiahao.ai](https://jiahao.ai)
@@ -1533,6 +1617,10 @@
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Kwaai
+ - [https://kwaai.ai](https://kwaai.ai)
+ - date_published: 2024-08-06T09:26:06.263219+00:00
+
+ ## Kwaai
  - [https://www.kwaai.ai](https://www.kwaai.ai)
  - date_published: 2024-06-30T04:48:52.606682+00:00
 
@@ -1612,6 +1700,10 @@
  ## Lavo Life Sciences
  - [https://www.lavo.ai](https://www.lavo.ai)
  - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Lazy Lions
+ - [https://lazylions.ai](https://lazylions.ai)
+ - date_published: 2024-08-06T16:25:43.366144+00:00
 
  ## Low-code development community - LCDP.ai 牧言低代码平台开发者及用户社区
  - [https://community.lcdp.ai](https://community.lcdp.ai)
@@ -2239,6 +2331,10 @@
  - [https://meya.ai](https://meya.ai)
  - date_published: 2020-01-07T11:14:28+00:00
 
+ ## Magellan AI — Podcast advertising analytics
+ - [https://mgln.ai](https://mgln.ai)
+ - date_published: 2024-08-05T00:00:00+00:00
+
  ## MgrWorkbench.ai
  - [https://www.mgrworkbench.ai](https://www.mgrworkbench.ai)
  - date_published: 2024-06-19T20:07:40.810712+00:00
@@ -2441,6 +2537,10 @@
  - [https://wiki.mutable.ai](https://wiki.mutable.ai)
  - date_published: 2024-01-08T19:01:50.485594+00:00
 
+ ## Webchat Stage - ALICE
+ - [https://widget.myalice.ai](https://widget.myalice.ai)
+ - date_published: 2023-06-21T11:25:10+00:00
+
  ## Anima: AI Friend
  - [https://myanima.ai](https://myanima.ai)
  - date_published: 2024-06-19T19:54:28+00:00
@@ -2639,6 +2739,10 @@
  - [https://status.nomic.ai](https://status.nomic.ai)
  - date_published: 2024-07-14T22:29:28.819589+00:00
 
+ ## Nooks | AI Powered Parallel Dialer and Virtual Salesfloor
+ - [https://www.nooks.ai](https://www.nooks.ai)
+ - date_published: 2024-08-05T00:00:00+00:00
+
  ## NOOZ AI
  - [https://nooz.ai](https://nooz.ai)
  - date_published: 2023-12-12T20:12:10+00:00
@@ -2804,6 +2908,10 @@
  - [https://openart.ai](https://openart.ai)
  - date_published: 2023-10-25T11:41:08.932333+00:00
 
+ ## OpenDAN - Empower Open-source AI OS & Apps | Unite Minds for a Transparent AI Ecosystem
+ - [https://www.opendan.ai](https://www.opendan.ai)
+ - date_published: 2024-08-06T09:28:25.736045+00:00
+
  ## OpenDoc AI - Next Gen AI for Productivity
  - [https://www.opendoc.ai](https://www.opendoc.ai)
  - date_published: 2024-06-19T20:57:13.788435+00:00
@@ -2896,6 +3004,10 @@
  ## outdraw.ai
  - [https://outdraw.ai](https://outdraw.ai)
  - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Outlier
+ - [https://app.outlier.ai](https://app.outlier.ai)
+ - date_published: 2024-08-06T11:40:59.185229+00:00
 
  ## Outline
  - [https://outline.ai](https://outline.ai)
@@ -3218,6 +3330,14 @@
  ## Plato
  - [https://platoeducation.ai](https://platoeducation.ai)
  - date_published: 2023-10-25T11:41:28.231604+00:00
+
+ ## PLAUD NOTE: ChatGPT Empowered AI Voice Recorder | PLAUD
+ - [https://www.plaud.ai](https://www.plaud.ai)
+ - date_published: 2024-08-06T19:31:02.602197+00:00
+
+ ## PlayAI
+ - [https://play.ai](https://play.ai)
+ - date_published: 2024-08-06T05:41:38.629250+00:00
 
  ## Player Two
  - [https://app.playertwo.ai](https://app.playertwo.ai)
@@ -3903,126 +4023,4 @@
  ## Reworkd status
  - [https://status.reworkd.ai](https://status.reworkd.ai)
  - date_published: 2024-07-19T04:49:02.535365+00:00
-
- ## ReWorked.ai-Harnessing AI To Find High Quality Leads
- - [https://reworked.ai](https://reworked.ai)
- - date_published: 2024-05-08T06:36:21+00:00
- - tags: ['artificial intelligence', 'scoring system']
-
- ## Rezi - The Leading AI Resume Builder trusted by 2,359,071 users
- - [https://www.rezi.ai](https://www.rezi.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## DANAGG | Situs Taruhan Judi Online Paling Aman Terpercaya Saat Ini
- - [https://www.rideos.ai](https://www.rideos.ai)
- - date_published: 2024-07-12T07:25:43.445663+00:00
-
- ## Riku.AI | Build AI Apps with no-code in minutes
- - [https://riku.ai](https://riku.ai)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Home - RIOS
- - [https://www.rios.ai](https://www.rios.ai)
- - date_published: 2024-04-03T00:00:00+00:00
- - tags: ['artificial intelligence', 'robotics']
-
- ## roadstar.ai
- - [http://roadstar.ai](http://roadstar.ai)
- - date_published: 2024-07-12T07:31:26.553519+00:00
-
- ## ROASTED
- - [https://www.roastedby.ai](https://www.roastedby.ai)
- - date_published: 2023-10-25T11:42:22.672027+00:00
-
- ## RoboCasa
- - [https://robocasa.ai](https://robocasa.ai)
- - date_published: 2024-06-11T21:55:12+00:00
-
- ## Roboflow Blog
- - [https://blog.roboflow.ai](https://blog.roboflow.ai)
- - date_published: 2024-04-28T05:21:59.150389+00:00
-
- ## Roboflow: Computer vision tools for developers and enterprises
- - [https://roboflow.ai](https://roboflow.ai)
- - date_published: 2024-04-28T05:22:32.381547+00:00
-
- ## RoboSense | World Leader in LiDAR and Perception Solutions
- - [http://www.robosense.ai](http://www.robosense.ai)
- - date_published: 2024-07-12T07:23:20.259443+00:00
-
- ## robosuite
- - [https://robosuite.ai](https://robosuite.ai)
- - date_published: 2024-02-22T08:17:43+00:00
-
- ## robotec.ai - AI-enabled technologies for mobility
- - [https://www.robotec.ai](https://www.robotec.ai)
- - date_published: 2024-07-13T06:37:41.922786+00:00
-
- ## Roboto
- - [https://app.roboto.ai](https://app.roboto.ai)
- - date_published: 2024-07-11T22:04:31+00:00
-
- ## Roboto | Docs
- - [https://docs.roboto.ai](https://docs.roboto.ai)
- - date_published: 2024-07-11T21:59:25+00:00
-
- ## Roboto | Sandbox
- - [https://sandbox.roboto.ai](https://sandbox.roboto.ai)
- - date_published: 2024-01-03T17:04:57+00:00
-
- ## Roboto AI – Your Copilot for Robotics Data
- - [https://roboto.ai](https://roboto.ai)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Robovision
- - [https://robovision.ai](https://robovision.ai)
- - date_published: 2024-06-02T15:35:32+00:00
-
- ## Robust.AI
- - [http://robust.ai](http://robust.ai)
- - date_published: 2024-04-28T05:29:14.209448+00:00
-
- ## LLM Driven Testing Copilot | Test Case Generation & Code Scanning
- - [https://roost.ai](https://roost.ai)
- - date_published: 2024-07-22T17:43:18+00:00
-
- ## Play and Create Games on Rosebud — AI-Powered Game Development
- - [https://play.rosebud.ai](https://play.rosebud.ai)
- - date_published: 2024-01-04T16:18:49.176689+00:00
-
- ## Rosebud AI: Build Games at the Speed of Thought. AI Powered Game Development.
- - [https://www.rosebud.ai](https://www.rosebud.ai)
- - date_published: 2024-01-04T16:19:02.132824+00:00
-
- ## Roshi - Custom Lessons in Seconds
- - [https://www.roshi.ai](https://www.roshi.ai)
- - date_published: 2024-06-19T20:11:59.756521+00:00
-
- ## Rossum - Registration
- - [https://app.rossum.ai](https://app.rossum.ai)
- - date_published: 2024-04-22T07:50:29+00:00
-
- ## AI Document Processing For Transactional Workflows
- - [https://rossum.ai](https://rossum.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Rossum Status
- - [https://status.rossum.ai](https://status.rossum.ai)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## What's new in Rossum
- - [https://updates.rossum.ai](https://updates.rossum.ai)
- - date_published: 2024-06-23T11:17:28.641444+00:00
-
- ## Meet Rowsie: Your AI Assistant for Excel Modeling
- - [https://rowsie.ai](https://rowsie.ai)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## RTutor 0.98
- - [http://rtutor.ai](http://rtutor.ai)
- - date_published: 2024-06-19T20:38:38.314157+00:00
-
- ## Rusher.AI | The AI Copilot for Modern Marketers
- - [https://rusher.ai](https://rusher.ai)
- - date_published: 2024-06-14T08:59:26.894377+00:00
 
