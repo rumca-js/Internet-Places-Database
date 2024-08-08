@@ -1,3 +1,52 @@
+ ## Home - Responsible AI
+ - [https://www.responsible.ai](https://www.responsible.ai)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## The best AI Resume Builder in the world trusted by 1.4M+
+ - [https://www.resumebuild.ai](https://www.resumebuild.ai)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## ResumeFilter
+ - [https://resumefilter.ai](https://resumefilter.ai)
+ - date_published: 2024-06-22T22:36:49.869234+00:00
+
+ ## revid.ai - Create viral short videos, fast.
+ - [https://www.revid.ai](https://www.revid.ai)
+ - date_published: 2024-06-23T14:22:44.100008+00:00
+
+ ## ReviewWriter.AI
+ - [https://www.reviewwriter.ai](https://www.reviewwriter.ai)
+ - date_published: 2023-07-18T22:00:27+00:00
+
+ ## Revocalize AI – Studio-Level AI Voice Generation Toolkit
+ - [https://www.revocalize.ai](https://www.revocalize.ai)
+ - date_published: 2024-06-19T19:54:58.945606+00:00
+
+ ## revrite.ai | Context aware, powerful paraphrasing tool with rich text, multilanguage support
+ - [https://www.revrite.ai](https://www.revrite.ai)
+ - date_published: 2024-06-19T19:08:57.533102+00:00
+
+ ## Rewind Help Center
+ - [https://help.rewind.ai](https://help.rewind.ai)
+ - date_published: 2024-07-20T18:05:14.960234+00:00
+
+ ## Rewind
+ - [https://rewind.ai](https://rewind.ai)
+ - date_published: 2024-05-14T00:00:00+00:00
+ - tags: ['artificial intelligence']
+
+ ## AgentGPT
+ - [https://agentgpt.reworkd.ai](https://agentgpt.reworkd.ai)
+ - date_published: 2023-10-25T11:42:17.286240+00:00
+
+ ## Reworkd AI
+ - [https://reworkd.ai](https://reworkd.ai)
+ - date_published: 2024-05-15T18:05:11.652845+00:00
+
+ ## Reworkd status
+ - [https://status.reworkd.ai](https://status.reworkd.ai)
+ - date_published: 2024-07-19T04:49:02.535365+00:00
+
  ## ReWorked.ai-Harnessing AI To Find High Quality Leads
  - [https://reworked.ai](https://reworked.ai)
  - date_published: 2024-05-08T06:36:21+00:00
@@ -1260,6 +1309,10 @@
  - [https://www.timecomplexity.ai](https://www.timecomplexity.ai)
  - date_published: 2024-06-19T20:04:20.936965+00:00
 
+ ## Planning optimization made easy - Timefold
+ - [https://timefold.ai](https://timefold.ai)
+ - date_published: 2024-08-07T15:11:03.095068+00:00
+
  ## Supercharge your
  - [https://www.timemaster.ai](https://www.timemaster.ai)
  - date_published: 2020-10-06T00:00:00+00:00
@@ -1371,6 +1424,10 @@
  ## Trinka: AI Writing and Grammar Checker Tool
  - [https://www.trinka.ai](https://www.trinka.ai)
  - date_published: 2024-06-19T12:44:09+00:00
+
+ ## Tripo AI for Web
+ - [https://www.tripo3d.ai](https://www.tripo3d.ai)
+ - date_published: 2024-07-31T07:13:30+00:00
 
  ## The Trojan Detection Challenge - Trojan Detection Challenge
  - [https://2022.trojandetection.ai](https://2022.trojandetection.ai)
@@ -2214,6 +2271,26 @@ Creative Solutions
  - [https://yank.ai](https://yank.ai)
  - date_published: 2024-04-02T02:59:23+00:00
 
+ ## Redirecting
+ - [https://docs.fabric.ydata.ai](https://docs.fabric.ydata.ai)
+ - date_published: 2024-07-16T00:25:15+00:00
+
+ ## Redirecting
+ - [https://docs.profiling.ydata.ai](https://docs.profiling.ydata.ai)
+ - date_published: 2024-07-15T20:47:45+00:00
+
+ ## Redirecting
+ - [https://docs.synthetic.ydata.ai](https://docs.synthetic.ydata.ai)
+ - date_published: 2024-05-07T19:49:02+00:00
+
+ ## Docs
+ - [https://docs.ydata.ai](https://docs.ydata.ai)
+ - date_published: 2024-06-21T08:48:36+00:00
+
+ ## Build better datasets for AI with synthetic data
+ - [https://fabric.ydata.ai](https://fabric.ydata.ai)
+ - date_published: 2024-08-07T19:47:34.191256+00:00
+
  ## YData data quality for Data Science | Synthetic data Data-Centric AI
  - [https://ydata.ai](https://ydata.ai)
  - date_published: 2024-04-28T02:52:42.235759+00:00
@@ -2425,6 +2502,10 @@ Creative Solutions
  ## Personale - Vodafone
  - [https://portal.abcom.al](https://portal.abcom.al)
  - date_published: 2024-06-29T13:40:07+00:00
+
+ ## AFTO
+ - [https://www.afto.al](https://www.afto.al)
+ - date_published: 2024-08-07T11:54:12.993864+00:00
 
  ## Video Game Store - PS5, PS4, Xbox S/X, Xbox One, PC, Switch and Toys
  - [https://albagame.al](https://albagame.al)
@@ -2753,6 +2834,10 @@ Creative Solutions
  ## Instagram
  - [https://instagr.am](https://instagr.am)
  - date_published: 2024-05-08T05:17:31.028770+00:00
+
+ ## Situation Normal All Fucked Up
+ - [https://jank.am](https://jank.am)
+ - date_published: 2023-09-07T14:06:02+00:00
 
  ## Kopiti.am
  - [https://kopiti.am](https://kopiti.am)
@@ -3944,89 +4029,4 @@ Creative Solutions
  ## Cmd J — ChatGPT extension for Google, StackOverflow, Gmail
  - [https://cmdj.app](https://cmdj.app)
  - date_published: 2023-03-21T18:37:33+00:00
-
- ## Cmd J – ChatGPT for Chrome
- - [https://install.cmdj.app](https://install.cmdj.app)
- - date_published: 2024-06-19T19:10:04.477105+00:00
-
- ## Create code documentation using AI | CodexAtlas
- - [https://codedocumentation.app](https://codedocumentation.app)
- - date_published: 2024-06-19T09:30:24.755588+00:00
-
- ## codefund.app
- - [https://codefund.app](https://codefund.app)
- - date_published: 2024-05-06T21:42:14.099150+00:00
-
- ## Show HN: CodeRev.app – Code Review as Interview
- - [https://coderev.app](https://coderev.app)
- - date_published: 2024-02-19T11:46:49+00:00
-
- ## Crypto Tracker Trusted by 1 Million People Worldwide
- - [https://coinstats.app](https://coinstats.app)
- - date_published: 2024-07-03T10:45:02.219103+00:00
-
- ## ColorHub.app
- - [https://www.colorhub.app](https://www.colorhub.app)
- - date_published: 2024-07-14T09:43:32.376488+00:00
-
- ## ColorMagic | AI Color Palette Generator
- - [https://colormagic.app](https://colormagic.app)
- - date_published: 2024-06-19T19:19:07.523354+00:00
-
- ## Columns — checklists arranged in columns
- - [http://columns.app](http://columns.app)
- - date_published: 2024-07-08T14:19:58.472607+00:00
-
- ## Comentario Demo
- - [https://demo.comentario.app](https://demo.comentario.app)
- - date_published: 2024-05-05T11:53:32.531441+00:00
-
- ## https://docs.comentario.app/en/
- - [https://docs.comentario.app](https://docs.comentario.app)
- - date_published: 2024-05-05T11:53:31.791677+00:00
-
- ## Comentario
- - [https://edge.comentario.app](https://edge.comentario.app)
- - date_published: 2024-06-22T14:19:26.866677+00:00
-
- ## DiscussBot
- - [https://comments.app](https://comments.app)
- - date_published: 2024-07-10T07:15:59.517823+00:00
-
- ## Developers Community and Resources | Commerce Layer
- - [https://slack.commercelayer.app](https://slack.commercelayer.app)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
- - [https://compressx.app](https://compressx.app)
- - date_published: 2024-04-10T06:32:18+00:00
- - tags: ['propietary', 'monetization']
-
- ## Welcome to CompressX | CompressX Documentation
- - [https://docs.compressx.app](https://docs.compressx.app)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Concepts App • Infinite, Flexible Sketching
- - [https://concepts.app](https://concepts.app)
- - date_published: 2024-07-12T17:42:42.787151+00:00
-
- ## Consensus - Evidence-Based Answers, Faster
- - [https://consensus.app](https://consensus.app)
- - date_published: 2023-10-25T11:45:54.897673+00:00
-
- ## console.app
- - [http://console.app](http://console.app)
- - date_published: 2024-04-28T01:59:59.092251+00:00
-
- ## Consonance user community
- - [https://community.consonance.app](https://community.consonance.app)
- - date_published: 2024-07-23T21:35:29.378916+00:00
-
- ## Sign in | Consonance
- - [https://web.consonance.app](https://web.consonance.app)
- - date_published: 2024-07-23T21:35:28.271611+00:00
-
- ## Title management for the modern book publisher | Consonance
- - [https://consonance.app](https://consonance.app)
- - date_published: 2024-04-29T07:49:48.991612+00:00
 

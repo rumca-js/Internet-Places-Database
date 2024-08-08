@@ -100,6 +100,10 @@
  - [https://ikennd.ac](https://ikennd.ac)
  - date_published: 2024-05-13T15:03:31+00:00
 
+ ## inaccessible.ac
+ - [https://inaccessible.ac](https://inaccessible.ac)
+ - date_published: 2024-08-07T21:02:08.523927+00:00
+
  ## ISC E-journals
  - [https://ecc.isc.ac](https://ecc.isc.ac)
  - date_published: 2024-07-09T21:17:23.395954+00:00
@@ -152,6 +156,10 @@
  ## Tecnología Apple | Apple Coding Academy
  - [https://acoding.academy](https://acoding.academy)
  - date_published: 2024-05-09T00:00:00+00:00
+
+ ## AI for Sustainable Development Goals (AI4SDGs) Think Tank
+ - [https://ai-for-sdgs.academy](https://ai-for-sdgs.academy)
+ - date_published: 2024-08-07T15:56:41.499009+00:00
 
  ## Alcor Academy
  - [https://alcor.academy](https://alcor.academy)
@@ -548,7 +556,7 @@
  - date_published: 2024-05-04T00:00:00+00:00
 
  ## Gulf Today
- - [http://gulftoday.ae](http://gulftoday.ae)
+ - [https://gulftoday.ae](https://gulftoday.ae)
  - date_published: 2024-04-28T03:43:32.550636+00:00
 
  ## Power Tools, Fasteners and Software for Construction - Hilti Emirates
@@ -741,7 +749,7 @@
  - date_published: 2024-05-06T17:10:51.069529+00:00
 
  ## WAM
- - [http://www.wam.ae](http://www.wam.ae)
+ - [https://www.wam.ae](https://www.wam.ae)
  - date_published: 2024-04-28T03:44:05.281372+00:00
 
  ## What's On
@@ -882,6 +890,10 @@
  ## NAC – Northern Air Cargo
  - [https://www.nac.aero](https://www.nac.aero)
  - date_published: 2024-07-15T00:00:00+00:00
+
+ ## NATA - National Air Transportation Association
+ - [https://www.nata.aero](https://www.nata.aero)
+ - date_published: 2024-08-07T00:00:00+00:00
 
  ## NATS
  - [https://www.nats.aero](https://www.nats.aero)
@@ -1209,6 +1221,10 @@
  - [https://super-tajny-headless-cms.bravenew.agency](https://super-tajny-headless-cms.bravenew.agency)
  - date_published: 2024-06-05T00:00:00+00:00
 
+ ## causal agency
+ - [https://git.causal.agency](https://git.causal.agency)
+ - date_published: 2024-07-26T00:00:00+00:00
+
  ## Index of /
  - [https://text.causal.agency](https://text.causal.agency)
  - date_published: 2023-12-26T19:22:32.249924+00:00
@@ -1337,6 +1353,10 @@
  - [https://www.magecloud.agency](https://www.magecloud.agency)
  - date_published: 2024-06-26T00:00:00+00:00
 
+ ## MagicSpace SEO - Best SEO Company in Switzerland - MagicSpace SEO
+ - [https://magicspace.agency](https://magicspace.agency)
+ - date_published: 2024-07-10T00:00:00+00:00
+
  ## Craft CMS Web Design & Development Agency in the UK - Mutual
  - [https://www.mutual.agency](https://www.mutual.agency)
  - date_published: 2024-07-02T19:45:33.332109+00:00
@@ -1368,6 +1388,10 @@
  ## Bespoke 360° web and mobile app services - Safran
  - [https://www.safran.agency](https://www.safran.agency)
  - date_published: 2024-07-14T19:46:22.247757+00:00
+
+ ## Home · The Self Agency
+ - [https://self.agency](https://self.agency)
+ - date_published: 2024-08-07T20:42:18.847870+00:00
 
  ## SHRIMPTON AGENCY  - Shrimpton Agency
  - [https://shrimpton.agency](https://shrimpton.agency)
@@ -2662,10 +2686,6 @@ Welcome
  - [https://chorus.ai](https://chorus.ai)
  - date_published: 2024-08-06T21:09:06.160679+00:00
 
- ## Conversation Intelligence for Sales | ZoomInfo + Chorus
- - [https://www.chorus.ai](https://www.chorus.ai)
- - date_published: 2024-06-16T19:11:19.350688+00:00
-
  ## What is Chronon? — Chronon
  - [https://chronon.ai](https://chronon.ai)
  - date_published: 2024-03-26T02:20:28+00:00
@@ -3083,6 +3103,10 @@ Welcome
  ## Corvidae
  - [https://corvidae.ai](https://corvidae.ai)
  - date_published: 2021-06-15T10:52:01+00:00
+
+ ## Covariant | Powering the future of automation, today
+ - [https://covariant.ai](https://covariant.ai)
+ - date_published: 2024-08-07T15:24:59.626504+00:00
 
  ## Write Powerful Cover Letters, Master Interviews & Negotiate Like a Pro using AI | CoverDoc.ai
  - [https://coverdoc.ai](https://coverdoc.ai)
@@ -3510,6 +3534,10 @@ Welcome
  - [https://dmlr.ai](https://dmlr.ai)
  - date_published: 2024-07-16T12:52:17+00:00
 
+ ## DocsBot AI - Custom chatbots from your documentation
+ - [https://docsbot.ai](https://docsbot.ai)
+ - date_published: 2024-08-07T19:33:30.894256+00:00
+
  ## Doctrina | AI Education Suite
  - [https://www.doctrina.ai](https://www.doctrina.ai)
  - date_published: 2024-06-19T20:39:41.183748+00:00
@@ -3561,6 +3589,10 @@ Welcome
  ## Show HN: Create a portrait painting from one photo
  - [https://drawbert.ai](https://drawbert.ai)
  - date_published: 2024-06-17T14:13:58+00:00
+
+ ## Draw Things: AI-assisted Image Generation
+ - [https://drawthings.ai](https://drawthings.ai)
+ - date_published: 2024-08-07T18:00:13.409320+00:00
 
  ## Dreamcard.ai
  - [https://dreamcard.ai](https://dreamcard.ai)
@@ -3697,6 +3729,10 @@ Welcome
  ## MLP - Sign In
  - [https://mlp.eightfold.ai](https://mlp.eightfold.ai)
  - date_published: 2024-06-27T10:41:23.319055+00:00
+
+ ## NTT DATA Services - Sign In
+ - [https://nttdata.eightfold.ai](https://nttdata.eightfold.ai)
+ - date_published: 2024-08-07T19:34:58.841663+00:00
 
  ## Submit Form
  - [https://paypal.eightfold.ai](https://paypal.eightfold.ai)
@@ -3993,40 +4029,4 @@ Welcome
  ## Faros AI | The AI-Native Engineering Intelligence Platform | A single pane view across velocity, quality, goals, and more!
  - [https://www.faros.ai](https://www.faros.ai)
  - date_published: 2024-06-19T04:45:26.258140+00:00
-
- ## Practical Deep Learning for Coders - Practical Deep Learning
- - [https://course.fast.ai](https://course.fast.ai)
- - date_published: 2023-10-25T11:38:36.146725+00:00
-
- ## fast.ai - fast.ai—Making neural nets uncool again
- - [http://fast.ai](http://fast.ai)
- - date_published: 2024-02-29T06:55:23+00:00
-
- ## nbdev – Create delightful software with Jupyter Notebooks
- - [https://nbdev.fast.ai](https://nbdev.fast.ai)
- - date_published: 2023-10-25T11:38:37.601075+00:00
-
- ## Rachel Thomas, PhD - an AI researcher going back to school for immunology
- - [https://rachel.fast.ai](https://rachel.fast.ai)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## fast.ai - fast.ai—Making neural nets uncool again
- - [https://www.fast.ai](https://www.fast.ai)
- - date_published: 2023-10-25T11:38:41.151336+00:00
-
- ## FastBots | Login
- - [https://app.fastbots.ai](https://app.fastbots.ai)
- - date_published: 2024-07-06T21:52:06.663238+00:00
-
- ## Ai Customer Service ChatBots Trained On Your Custom Data
- - [https://fastbots.ai](https://fastbots.ai)
- - date_published: 2024-06-14T09:00:13.596852+00:00
-
- ## Show HN: Real-time image generation with SDXL Lightning
- - [https://fastsdxl.ai](https://fastsdxl.ai)
- - date_published: 2024-02-22T22:52:46+00:00
-
- ## FedML - The Production AI Platform for Federated Learning at Scale
- - [https://fedml.ai](https://fedml.ai)
- - date_published: 2024-05-11T01:53:07+00:00
 

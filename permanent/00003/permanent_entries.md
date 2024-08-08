@@ -1,3 +1,88 @@
+ ## Cmd J – ChatGPT for Chrome
+ - [https://install.cmdj.app](https://install.cmdj.app)
+ - date_published: 2024-06-19T19:10:04.477105+00:00
+
+ ## Create code documentation using AI | CodexAtlas
+ - [https://codedocumentation.app](https://codedocumentation.app)
+ - date_published: 2024-06-19T09:30:24.755588+00:00
+
+ ## codefund.app
+ - [https://codefund.app](https://codefund.app)
+ - date_published: 2024-05-06T21:42:14.099150+00:00
+
+ ## Show HN: CodeRev.app – Code Review as Interview
+ - [https://coderev.app](https://coderev.app)
+ - date_published: 2024-02-19T11:46:49+00:00
+
+ ## Crypto Tracker Trusted by 1 Million People Worldwide
+ - [https://coinstats.app](https://coinstats.app)
+ - date_published: 2024-07-03T10:45:02.219103+00:00
+
+ ## ColorHub.app
+ - [https://www.colorhub.app](https://www.colorhub.app)
+ - date_published: 2024-07-14T09:43:32.376488+00:00
+
+ ## ColorMagic | AI Color Palette Generator
+ - [https://colormagic.app](https://colormagic.app)
+ - date_published: 2024-06-19T19:19:07.523354+00:00
+
+ ## Columns — checklists arranged in columns
+ - [http://columns.app](http://columns.app)
+ - date_published: 2024-07-08T14:19:58.472607+00:00
+
+ ## Comentario Demo
+ - [https://demo.comentario.app](https://demo.comentario.app)
+ - date_published: 2024-05-05T11:53:32.531441+00:00
+
+ ## https://docs.comentario.app/en/
+ - [https://docs.comentario.app](https://docs.comentario.app)
+ - date_published: 2024-05-05T11:53:31.791677+00:00
+
+ ## Comentario
+ - [https://edge.comentario.app](https://edge.comentario.app)
+ - date_published: 2024-06-22T14:19:26.866677+00:00
+
+ ## DiscussBot
+ - [https://comments.app](https://comments.app)
+ - date_published: 2024-07-10T07:15:59.517823+00:00
+
+ ## Developers Community and Resources | Commerce Layer
+ - [https://slack.commercelayer.app](https://slack.commercelayer.app)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
+ - [https://compressx.app](https://compressx.app)
+ - date_published: 2024-04-10T06:32:18+00:00
+ - tags: ['propietary', 'monetization']
+
+ ## Welcome to CompressX | CompressX Documentation
+ - [https://docs.compressx.app](https://docs.compressx.app)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Concepts App • Infinite, Flexible Sketching
+ - [https://concepts.app](https://concepts.app)
+ - date_published: 2024-07-12T17:42:42.787151+00:00
+
+ ## Consensus - Evidence-Based Answers, Faster
+ - [https://consensus.app](https://consensus.app)
+ - date_published: 2023-10-25T11:45:54.897673+00:00
+
+ ## console.app
+ - [https://console.app](https://console.app)
+ - date_published: 2022-09-07T05:30:31+00:00
+
+ ## Consonance user community
+ - [https://community.consonance.app](https://community.consonance.app)
+ - date_published: 2024-07-23T21:35:29.378916+00:00
+
+ ## Sign in | Consonance
+ - [https://web.consonance.app](https://web.consonance.app)
+ - date_published: 2024-07-23T21:35:28.271611+00:00
+
+ ## Title management for the modern book publisher | Consonance
+ - [https://consonance.app](https://consonance.app)
+ - date_published: 2024-04-29T07:49:48.991612+00:00
+
  ## Contrax.app
  - [https://contrax.app](https://contrax.app)
  - date_published: 2024-06-03T11:18:08.746229+00:00
@@ -382,6 +467,10 @@
  ## Rebrandly
  - [https://elodin.app](https://elodin.app)
  - date_published: 2022-07-05T08:14:45+00:00
+
+ ## EmailEngine documentation
+ - [https://api.emailengine.app](https://api.emailengine.app)
+ - date_published: 2023-08-28T11:35:21+00:00
 
  ## EmailEngine Blog
  - [https://docs.emailengine.app](https://docs.emailengine.app)
@@ -814,6 +903,10 @@
  - [https://getwhisky.app](https://getwhisky.app)
  - date_published: 2023-11-26T14:33:19+00:00
 
+ ## Xray - Native Test Management for Jira
+ - [https://www.getxray.app](https://www.getxray.app)
+ - date_published: 2024-08-04T13:00:47+00:00
+
  ## giscus
  - [https://giscus.app](https://giscus.app)
  - date_published: 2024-04-30T02:10:38.158091+00:00
@@ -1164,6 +1257,10 @@
  - [https://wfu.interviewprep.app](https://wfu.interviewprep.app)
  - date_published: 2024-07-01T06:40:00+00:00
 
+ ## Invitation 🎉
+ - [https://invitation.app](https://invitation.app)
+ - date_published: 2024-08-07T20:30:11.523192+00:00
+
  ## IronIQ LLC
  - [https://ironiq.app](https://ironiq.app)
  - date_published: 2024-05-16T18:03:31+00:00
@@ -1237,6 +1334,10 @@
  - [https://kanjitalk7.app](https://kanjitalk7.app)
  - date_published: 2024-05-08T08:45:20.501830+00:00
 
+ ## Keplr Wallet | Your Interchain Gateway
+ - [https://www.keplr.app](https://www.keplr.app)
+ - date_published: 2024-07-31T00:00:00+00:00
+
  ## Home
  - [https://kftray.app](https://kftray.app)
  - date_published: 2024-04-29T07:35:14.361341+00:00
@@ -1276,6 +1377,10 @@
  ## Umami
  - [https://umami-maurice.koyeb.app](https://umami-maurice.koyeb.app)
  - date_published: 2024-04-29T06:25:50.745749+00:00
+
+ ## KREAd
+ - [https://kread.app](https://kread.app)
+ - date_published: 2024-05-09T14:33:35+00:00
 
  ## Kreya
  - [https://kreya.app](https://kreya.app)
@@ -1627,6 +1732,10 @@
  - [https://mailpilot.app](https://mailpilot.app)
  - date_published: 2023-09-30T00:00:00+00:00
 
+ ## MajorM - MongoDB GUI
+ - [https://majorm.app](https://majorm.app)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Stop making Linux distributions, make applications instead
  - [https://makealinux.app](https://makealinux.app)
  - date_published: 2023-11-30T13:49:51+00:00
@@ -1817,6 +1926,10 @@
  ## Museo
  - [https://museo.app](https://museo.app)
  - date_published: 2024-07-02T21:03:54.024411+00:00
+
+ ## MusicThread
+ - [https://musicthread.app](https://musicthread.app)
+ - date_published: 2024-08-07T20:00:02.639760+00:00
 
  ## Plausible · Web analytics
  - [https://analytics.mxroute.app](https://analytics.mxroute.app)
@@ -2381,6 +2494,18 @@
  - [https://main--matter-website-e45df7.netlify.app](https://main--matter-website-e45df7.netlify.app)
  - date_published: 2024-06-27T13:24:03.938752+00:00
 
+ ## Marten
+ - [https://marten-docs-v4.netlify.app](https://marten-docs-v4.netlify.app)
+ - date_published: 2024-08-07T18:46:41.553768+00:00
+
+ ## Marten
+ - [https://marten-docs-v5.netlify.app](https://marten-docs-v5.netlify.app)
+ - date_published: 2024-08-07T18:46:45.016402+00:00
+
+ ## Marten
+ - [https://marten-docs-v6.netlify.app](https://marten-docs-v6.netlify.app)
+ - date_published: 2024-08-07T18:46:45.822915+00:00
+
  ## Massif Press
  - [https://massif-press.netlify.app](https://massif-press.netlify.app)
  - date_published: 2024-07-14T17:26:53.721310+00:00
@@ -2768,6 +2893,14 @@
  - [https://threat-level-tennis.netlify.app](https://threat-level-tennis.netlify.app)
  - date_published: 2024-07-14T07:53:23.032238+00:00
 
+ ## Tickbird Co.
+ - [https://tickbird.netlify.app](https://tickbird.netlify.app)
+ - date_published: 2024-08-07T14:13:26.243012+00:00
+
+ ## Tingle Li
+ - [https://tinglok.netlify.app](https://tinglok.netlify.app)
+ - date_published: 2024-08-07T16:36:35.099079+00:00
+
  ## John's Blog
  - [https://toha-guides.netlify.app](https://toha-guides.netlify.app)
  - date_published: 2024-01-05T00:00:00+00:00
@@ -2892,6 +3025,10 @@
  ## Yanbo Xu's Homepage
  - [https://yanbo-xu.netlify.app](https://yanbo-xu.netlify.app)
  - date_published: 2024-06-22T10:02:00.126505+00:00
+
+ ## Yifan Wang
+ - [https://yifita.netlify.app](https://yifita.netlify.app)
+ - date_published: 2024-08-07T16:08:29.523051+00:00
 
  ## YUJUN CAI
  - [https://yujuncai.netlify.app](https://yujuncai.netlify.app)
@@ -3506,6 +3643,10 @@
  - [https://questbook.app](https://questbook.app)
  - date_published: 2024-06-16T03:35:09.808881+00:00
 
+ ## Questlog - Your personal game tracker
+ - [https://questlog.app](https://questlog.app)
+ - date_published: 2024-08-07T00:00:00+00:00
+
  ## Quicklang
  - [https://www.quicklang.app](https://www.quicklang.app)
  - date_published: 2024-07-05T00:00:00+00:00
@@ -3541,6 +3682,10 @@
  ## Railway Blog
  - [https://blog.railway.app](https://blog.railway.app)
  - date_published: 2023-10-25T11:24:27.926224+00:00
+
+ ## Umami
+ - [https://d3-umami.up.railway.app](https://d3-umami.up.railway.app)
+ - date_published: 2024-08-07T22:05:00.666060+00:00
 
  ## Railway Docs
  - [https://docs.railway.app](https://docs.railway.app)
@@ -3894,149 +4039,4 @@
  ## Code Shrew
  - [https://shrew.app](https://shrew.app)
  - date_published: 2024-07-12T17:42:01.232844+00:00
-
- ## Newsroom • Sidetrack
- - [https://blog.sidetrack.app](https://blog.sidetrack.app)
- - date_published: 2024-06-23T15:08:11.349556+00:00
-
- ## Signet App – Your digital identity and security of communications at your palm
- - [https://signet.app](https://signet.app)
- - date_published: 2023-06-26T21:31:40+00:00
-
- ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
- - [https://www.sindri.app](https://www.sindri.app)
- - date_published: 2024-06-04T21:21:46+00:00
-
- ## Sitter Pro: Hassle-Free Care - Sitter Pro
- - [https://sitter.app](https://sitter.app)
- - date_published: 2018-10-15T00:00:00+00:00
-
- ## Sizzy — The browser for web developers
- - [https://sizzy.app](https://sizzy.app)
- - date_published: 2024-06-15T03:54:49+00:00
-
- ## SketchMe.App
- - [https://www.sketchme.app](https://www.sketchme.app)
- - date_published: 2024-07-10T00:02:32.347134+00:00
-
- ## SkyFeed
- - [https://skyfeed.app](https://skyfeed.app)
- - date_published: 2024-05-02T13:43:24.763590+00:00
-
- ## Slant it - Screen recordings to catchy 3D videos in minutes
- - [https://slantit.app](https://slantit.app)
- - date_published: 2024-05-01T02:57:40.601612+00:00
-
- ## Slater | AI Custom Code Tool For Webflow Projects
- - [https://slater.app](https://slater.app)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Feedback | Academia.edu
- - [https://665a80a1d207b.sleekplan.app](https://665a80a1d207b.sleekplan.app)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Feedback | Playtronica
- - [https://playtronica.sleekplan.app](https://playtronica.sleekplan.app)
- - date_published: 2024-05-11T08:47:57.819194+00:00
-
- ## SleepEasy Website Monitor | Proactive monitoring for your site's most important user flows.
- - [https://www.sleepeasy.app](https://www.sleepeasy.app)
- - date_published: 2024-02-09T00:43:13.667002+00:00
-
- ## the smallest app studio
- - [https://smallest.app](https://smallest.app)
- - date_published: 2024-02-21T17:56:13.597364+00:00
-
- ## Grocery App
- - [https://smartgrocery.app](https://smartgrocery.app)
- - date_published: 2022-08-12T01:13:29+00:00
-
- ## Snapclear | Upscale and Remove Image Background Offline
- - [https://www.snapclear.app](https://www.snapclear.app)
- - date_published: 2024-07-19T16:23:25.658567+00:00
-
- ## Photo Editor Online - AI Editing Photo Free - SnapEdit.App
- - [https://snapedit.app](https://snapedit.app)
- - date_published: 2024-06-19T19:26:12.195912+00:00
-
- ## Snapjot • Screenshot Organizer
- - [https://snapjot.app](https://snapjot.app)
- - date_published: 2023-12-06T02:13:26+00:00
-
- ## snippet generator
- - [https://snippet-generator.app](https://snippet-generator.app)
- - date_published: 2024-06-23T06:14:36.817703+00:00
-
- ## Snoop | Track spending, save money & budget | Money management app
- - [https://snoop.app](https://snoop.app)
- - date_published: 2024-07-08T09:30:43+00:00
-
- ## Snowpixel App
- - [https://snowpixel.app](https://snowpixel.app)
- - date_published: 2024-04-11T19:45:39+00:00
-
- ## Sock - The simplest way to earn yield on your crypto
- - [https://www.sock.app](https://www.sock.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Football - scores, schedule & odds | Sofascore
- - [https://api.sofascore.app](https://api.sofascore.app)
- - date_published: 2024-06-18T06:24:31.834934+00:00
-
- ## AI Recipe Generator
- - [https://ai-recipes.softr.app](https://ai-recipes.softr.app)
- - date_published: 2023-02-12T00:00:00+00:00
-
- ## Home
- - [https://startify.softr.app](https://startify.softr.app)
- - date_published: 2023-09-04T00:00:00+00:00
-
- ## soketi
- - [https://soketi.app](https://soketi.app)
- - date_published: 2024-06-19T22:08:57.323278+00:00
-
- ## SolarAssets | Micro-Investments in Photovoltaic Projects
- - [https://solarassets.app](https://solarassets.app)
- - date_published: 2024-05-10T07:01:27.220472+00:00
-
- ## Solid Movies
- - [https://solid-movies.app](https://solid-movies.app)
- - date_published: 2024-06-23T03:22:51.413659+00:00
-
- ## Soon: Fully Automated Crypto Investing
- - [https://www.soon.app](https://www.soon.app)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Soupault: A static website management tool
- - [https://soupault.app](https://soupault.app)
- - date_published: 2024-03-23T02:19:13+00:00
- - tags: ['static websites']
-
- ## Space Capsule
- - [https://spacecapsule.app](https://spacecapsule.app)
- - date_published: 2024-06-22T06:22:34.279205+00:00
-
- ## SparkLoop
- - [https://dash.sparkloop.app](https://dash.sparkloop.app)
- - date_published: 2024-04-28T06:24:15.100391+00:00
-
- ## SparkLoop
- - [https://js.sparkloop.app](https://js.sparkloop.app)
- - date_published: 2024-05-02T12:58:16.744885+00:00
-
- ## Proof
- - [https://proof.sparkloop.app](https://proof.sparkloop.app)
- - date_published: 2024-06-19T06:58:35.450662+00:00
-
- ## Spartacus
- - [https://spartacus.app](https://spartacus.app)
- - date_published: 2024-05-08T09:58:04.953286+00:00
-
- ## Speakle
- - [https://speakle.app](https://speakle.app)
- - date_published: 2024-05-18T02:48:01.004735+00:00
-
- ## Spectrolite
- - [https://spectrolite.app](https://spectrolite.app)
- - date_published: 2023-10-25T11:48:58.865948+00:00
 
