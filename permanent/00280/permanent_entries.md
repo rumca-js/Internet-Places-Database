@@ -1,191 +1,3 @@
- ## Oxford Journal of Law and Religion | Oxford Academic
- - [http://ojlr.oxfordjournals.org](http://ojlr.oxfordjournals.org)
- - date_published: 2024-06-28T20:53:47.725019+00:00
-
- ## Parliamentary Affairs | Oxford Academic
- - [http://pa.oxfordjournals.org](http://pa.oxfordjournals.org)
- - date_published: 2024-08-07T14:21:11.883782+00:00
-
- ## The Quarterly Journal of Mathematics | Oxford Academic
- - [http://qjmath.oxfordjournals.org](http://qjmath.oxfordjournals.org)
- - date_published: 2024-06-30T09:13:04.307127+00:00
-
- ## Science and Mathematics
- - [http://science-and-mathematics-careernetwork.oxfordjournals.org](http://science-and-mathematics-careernetwork.oxfordjournals.org)
- - date_published: 2024-07-11T12:55:57.376547+00:00
-
- ## Journals | Oxford Academic
- - [https://www.oxfordjournals.org](https://www.oxfordjournals.org)
- - date_published: 2024-05-06T22:14:49.916659+00:00
-
- ## Oxford Literary Festival March 16 - 24 2024 | Oxford Literary Festival
- - [https://oxfordliteraryfestival.org](https://oxfordliteraryfestival.org)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Oxford Mindfulness Foundation - Online Training Courses
- - [https://www.oxfordmindfulness.org](https://www.oxfordmindfulness.org)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Home - University of Oxford North American Office
- - [http://www.oxfordna.org](http://www.oxfordna.org)
- - date_published: 2024-06-17T18:47:28.666664+00:00
-
- ## University of Oxford China Office
- - [http://www.oxforduchina.org](http://www.oxforduchina.org)
- - date_published: 2024-06-17T18:47:30.654390+00:00
-
- ## University of Oxford Japan Office | オックスフォード大学日本事務所
- - [http://oxfordujapan.org](http://oxfordujapan.org)
- - date_published: 2024-06-17T18:47:26.533604+00:00
-
- ## Home
- - [https://www.oxford-union.org](https://www.oxford-union.org)
- - date_published: 2024-07-03T22:19:18.319177+00:00
-
- ## OXID Forge – Die Knowledge Base rund um den OXID eShop
- - [https://oxidforge.org](https://oxidforge.org)
- - date_published: 2024-06-19T22:20:43.106883+00:00
-
- ## Attorneys - Oyez Attorney Directory
- - [https://lawyers.oyez.org](https://lawyers.oyez.org)
- - date_published: 2024-05-07T13:49:21.627983+00:00
-
- ## {{meta.pageTitle}}
- - [https://www.oyez.org](https://www.oyez.org)
- - date_published: 2024-05-17T14:17:45+00:00
-
- ## OzCHI 2024
- - [http://www.ozchi.org](http://www.ozchi.org)
- - date_published: 2024-06-25T06:07:05+00:00
-
- ## git.ozlabs.org Git
- - [http://git.ozlabs.org](http://git.ozlabs.org)
- - date_published: 2024-06-26T09:18:44.025043+00:00
-
- ## jeremy kerr
- - [http://jk.ozlabs.org](http://jk.ozlabs.org)
- - date_published: 2024-07-07T04:00:24.898579+00:00
-
- ## lists.ozlabs.org Mailing Lists
- - [https://lists.ozlabs.org](https://lists.ozlabs.org)
- - date_published: 2024-07-07T04:00:27.551091+00:00
-
- ## Project List - Patchwork
- - [https://patchwork.ozlabs.org](https://patchwork.ozlabs.org)
- - date_published: 2024-07-14T03:14:45.970728+00:00
-
- ## Yaboot
- - [http://yaboot.ozlabs.org](http://yaboot.ozlabs.org)
- - date_published: 2021-02-08T09:17:37+00:00
-
- ## Journal: Sky Stories
- - [http://ozone-journal.org](http://ozone-journal.org)
- - date_published: 2024-06-30T04:28:25.841750+00:00
-
- ## Coming Soon
- - [http://ozwords.org](http://ozwords.org)
- - date_published: 2024-01-23T09:34:12+00:00
-
- ## P01✨
-CREATIVE CODER & 
-TECHNICAL SPEAKER — @p01
- - [http://www.p01.org](http://www.p01.org)
- - date_published: 2023-08-05T17:12:01+00:00
-
- ## Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us
- - [https://p2p.org](https://p2p.org)
- - date_published: 2024-07-04T17:16:37.622397+00:00
-
- ## p2p13 -
- - [http://p2p13.org](http://p2p13.org)
- - date_published: 2024-03-17T15:17:30+00:00
-
- ## Home | p2panda
- - [https://p2panda.org](https://p2panda.org)
- - date_published: 2023-10-25T21:55:36.083870+00:00
-
- ## p2p-conference.org
- - [http://www.p2p-conference.org](http://www.p2p-conference.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## P4 – Language Consortium
- - [https://p4.org](https://p4.org)
- - date_published: 2024-07-01T19:36:55.898541+00:00
-
- ## home | p5.js
- - [https://archive.p5js.org](https://archive.p5js.org)
- - date_published: 2024-07-03T02:51:17+00:00
-
- ## p5.js Web Editor
- - [https://editor.p5js.org](https://editor.p5js.org)
- - date_published: 2024-04-29T07:48:20.238609+00:00
- - tags: ['javascript library']
-
- ## home | p5.js
- - [https://p5js.org](https://p5js.org)
- - date_published: 2024-04-25T17:09:05+00:00
- - tags: ['graphic experiences', 'javascript library', 'game development']
-
- ## Hummus and Magnets
- - [https://h14s.p5r.org](https://h14s.p5r.org)
- - date_published: 2023-10-25T21:55:43.963463+00:00
-
- ## p5.xr
- - [https://p5xr.org](https://p5xr.org)
- - date_published: 2024-04-29T07:48:05.858018+00:00
-
- ## Pa11y
- - [https://pa11y.org](https://pa11y.org)
- - date_published: 2023-12-13T10:21:04+00:00
-
- ## PAARA - Home Page
- - [https://paara.org](https://paara.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Pablo Picasso: 150 Famous Paintings, Bio & Quotes by Picasso
- - [https://www.pablopicasso.org](https://www.pablopicasso.org)
- - date_published: 2024-06-26T14:11:28.487215+00:00
-
- ## pablotron.org
- - [https://pablotron.org](https://pablotron.org)
- - date_published: 2023-10-25T21:55:47.144745+00:00
-
- ## Mastering Gacor Slots
- - [http://pabstlovers.org](http://pabstlovers.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Pennsylvania State Capitol  - Official Site
- - [http://www.pacapitol.org](http://www.pacapitol.org)
- - date_published: 2024-06-29T14:51:22.774806+00:00
-
- ## Home Page - Pacers Foundation
- - [https://pacersfoundation.org](https://pacersfoundation.org)
- - date_published: 2024-07-15T00:00:12.944299+00:00
-
- ## Pachyderm
- - [https://pachydermjournal.org](https://pachydermjournal.org)
- - date_published: 2024-07-04T10:35:40.908932+00:00
-
- ## Pacific CBPR Home
- - [https://www.pacificcbpr.org](https://www.pacificcbpr.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Pacific Coast Collaborative | Helping the pacific coast
- - [https://pacificcoastcollaborative.org](https://pacificcoastcollaborative.org)
- - date_published: 2024-07-20T19:15:33.073075+00:00
-
- ## Non-Profit Legal Defense Organization - Pacific Justice Institute
- - [http://www.pacificjustice.org](http://www.pacificjustice.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Pacific Science Center
- - [https://pacificsciencecenter.org](https://pacificsciencecenter.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Pacific Institute | Advancing Water Resilience
- - [http://pacinst.org](http://pacinst.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
  ## Send Care Packages | Packages From Home
  - [http://www.packagesfromhome.org](http://www.packagesfromhome.org)
  - date_published: 2024-07-09T22:58:45.835930+00:00
@@ -1743,6 +1555,10 @@ TECHNICAL SPEAKER — @p01
  - [https://performous.org](https://performous.org)
  - date_published: 2024-04-21T19:16:43+00:00
 
+ ## Home
+ - [https://period.org](https://period.org)
+ - date_published: 2024-08-08T17:53:08.857486+00:00
+
  ## Periodic System of The Elements
  - [https://periodicsystem.org](https://periodicsystem.org)
  - date_published: 2024-06-15T10:56:53.824599+00:00
@@ -1775,6 +1591,10 @@ TECHNICAL SPEAKER — @p01
  ## Perl Mailing Lists - lists.perl.org
  - [https://lists.perl.org](https://lists.perl.org)
  - date_published: 2024-05-30T13:20:07.817779+00:00
+
+ ## PAUSE: The CPAN back stage entrance
+ - [https://pause.perl.org](https://pause.perl.org)
+ - date_published: 2024-08-08T21:56:47.003344+00:00
 
  ## perl5.git.perl.org Git
  - [https://perl5.git.perl.org](https://perl5.git.perl.org)
@@ -2016,6 +1836,10 @@ TECHNICAL SPEAKER — @p01
  - [https://www.pfenninger.org](https://www.pfenninger.org)
  - date_published: 2024-06-22T21:32:28.759695+00:00
 
+ ## q.pfiffer.org - Home
+ - [http://q.pfiffer.org](http://q.pfiffer.org)
+ - date_published: 2024-01-08T00:00:00+00:00
+
  ## lists.pfir.org Mailing Lists
  - [https://lists.pfir.org](https://lists.pfir.org)
  - date_published: 2024-05-07T11:01:25.067521+00:00
@@ -2177,6 +2001,10 @@ TECHNICAL SPEAKER — @p01
  - [http://www.pharmcas.org](http://www.pharmcas.org)
  - date_published: 2024-07-02T01:36:28.339316+00:00
 
+ ## Pharo books
+ - [http://books.pharo.org](http://books.pharo.org)
+ - date_published: 2024-05-16T00:00:00+00:00
+
  ## index · styled with h5ai 0.22.1 (http://larsjung.de/h5ai/)
  - [https://files.pharo.org](https://files.pharo.org)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -2186,7 +2014,7 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-04-26T18:52:37.714537+00:00
 
  ## Pharo MOOC: Live Object Programming in Pharo
- - [http://mooc.pharo.org](http://mooc.pharo.org)
+ - [https://mooc.pharo.org](https://mooc.pharo.org)
  - date_published: 2024-04-26T18:52:39.968667+00:00
 
  ## Pharo - Welcome to Pharo!
@@ -2195,7 +2023,7 @@ TECHNICAL SPEAKER — @p01
  - tags: ['programming language', 'pharo', 'open source']
 
  ## Pharo - Welcome to Pharo!
- - [http://www.pharo.org](http://www.pharo.org)
+ - [https://www.pharo.org](https://www.pharo.org)
  - date_published: 2024-04-26T18:52:31.932833+00:00
 
  ## Phenomenal World
@@ -2560,6 +2388,10 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-05-06T13:03:40.349703+00:00
  - tags: ['famous person', 'art', 'paintings', 'piet mondrian']
 
+ ## Lukas Pietzschmann
+ - [https://lukas.pietzschmann.org](https://lukas.pietzschmann.org)
+ - date_published: 2024-08-08T09:47:30+00:00
+
  ## Partners In Health - Injustice has a Cure
  - [https://donate.pih.org](https://donate.pih.org)
  - date_published: 2024-06-18T21:58:35+00:00
@@ -2661,6 +2493,10 @@ TECHNICAL SPEAKER — @p01
  - [http://www.pinellascounty.org](http://www.pinellascounty.org)
  - date_published: 2024-01-01T00:00:00+00:00
 
+ ## Home - Pine Tree Society
+ - [https://pinetreesociety.org](https://pinetreesociety.org)
+ - date_published: 2024-08-05T00:00:00+00:00
+
  ## www.pingwho.org – Parce que le monde est Open Source !
  - [https://www.pingwho.org](https://www.pingwho.org)
  - date_published: 2024-07-08T11:02:31.427329+00:00
@@ -2696,6 +2532,10 @@ TECHNICAL SPEAKER — @p01
  ## Pioneer Works Store
  - [https://store.pioneerworks.org](https://store.pioneerworks.org)
  - date_published: 2024-05-12T04:31:59.170632+00:00
+
+ ## Pipe and Tabor – The home of The Taborers Society
+ - [http://www.pipeandtabor.org](http://www.pipeandtabor.org)
+ - date_published: 2024-08-08T03:27:11.069291+00:00
 
  ## Pipe Organ Database
  - [https://www.pipeorgandatabase.org](https://www.pipeorgandatabase.org)
@@ -2883,13 +2723,113 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-01-23T07:55:19.488082+00:00
 
  ## Packages for Linux and Unix
+ - [https://adelie.pkgs.org](https://adelie.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://almalinux.pkgs.org](https://almalinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
  - [https://alpine.pkgs.org](https://alpine.pkgs.org)
  - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://altlinux.pkgs.org](https://altlinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://amazonlinux.pkgs.org](https://amazonlinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://archlinux.pkgs.org](https://archlinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://centos.pkgs.org](https://centos.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://debian.pkgs.org](https://debian.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://fedora.pkgs.org](https://fedora.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://freebsd.pkgs.org](https://freebsd.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://kaos.pkgs.org](https://kaos.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://mageia.pkgs.org](https://mageia.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://mint.pkgs.org](https://mint.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://netbsd.pkgs.org](https://netbsd.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://openmandriva.pkgs.org](https://openmandriva.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://opensuse.pkgs.org](https://opensuse.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://openwrt.pkgs.org](https://openwrt.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://oraclelinux.pkgs.org](https://oraclelinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://pclinuxos.pkgs.org](https://pclinuxos.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
 
  ## Packages for Linux and Unix
  - [https://pkgs.org](https://pkgs.org)
  - date_published: 2024-04-04T00:00:00+00:00
  - tags: ['app store', 'linux']
+
+ ## Packages for Linux and Unix
+ - [https://rhel.pkgs.org](https://rhel.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://rockylinux.pkgs.org](https://rockylinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://slackware.pkgs.org](https://slackware.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://solus.pkgs.org](https://solus.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://ubuntu.pkgs.org](https://ubuntu.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://voidlinux.pkgs.org](https://voidlinux.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Packages for Linux and Unix
+ - [https://wolfi.pkgs.org](https://wolfi.pkgs.org)
+ - date_published: 2024-08-08T00:00:00+00:00
 
  ## pkgsrc
  - [https://pkgsrc.org](https://pkgsrc.org)
@@ -3023,6 +2963,10 @@ TECHNICAL SPEAKER — @p01
  - [https://planeteclipse.org](https://planeteclipse.org)
  - date_published: 2024-06-27T00:00:00+00:00
 
+ ## Zooniverse
+ - [http://www.planetfour.org](http://www.planetfour.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## Planet illumos
  - [https://planetillumos.org](https://planetillumos.org)
  - date_published: 2024-06-30T21:30:03+00:00
@@ -3030,6 +2974,10 @@ TECHNICAL SPEAKER — @p01
  ## Planet KDE
  - [http://planetkde.org](http://planetkde.org)
  - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Planet Libre
+ - [http://www.planet-libre.org](http://www.planet-libre.org)
+ - date_published: 2024-08-08T10:57:38.640295+00:00
 
  ## PlanetMath.org
  - [http://planetmath.org](http://planetmath.org)
@@ -3504,6 +3452,10 @@ TECHNICAL SPEAKER — @p01
  - [https://pmiclimate.org](https://pmiclimate.org)
  - date_published: 2024-06-25T00:00:00+00:00
 
+ ## PMKVY
+ - [https://pmkvyofficial.org](https://pmkvyofficial.org)
+ - date_published: 2024-08-08T13:46:36.747770+00:00
+
  ## Patchogue-Medford Library
  - [http://www.pmlib.org](http://www.pmlib.org)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -3830,10 +3782,6 @@ TECHNICAL SPEAKER — @p01
  - date_published: 2024-06-03T11:19:06.613285+00:00
 
  ## Poly/ML Home Page
- - [http://polyml.org](http://polyml.org)
- - date_published: 2023-10-06T19:57:57+00:00
-
- ## Poly/ML Home Page
  - [https://polyml.org](https://polyml.org)
  - date_published: 2023-10-06T19:57:57+00:00
 
@@ -4050,4 +3998,52 @@ TECHNICAL SPEAKER — @p01
  ## Positive Coaching Alliance
  - [https://positivecoach.org](https://positivecoach.org)
  - date_published: 2024-07-15T02:03:50.272680+00:00
+
+ ## positive-health.local
+ - [http://positivehealthresearch.org](http://positivehealthresearch.org)
+ - date_published: 2024-07-15T06:45:58+00:00
+
+ ## Positive Resource Connection - Educating, Testing, and Preventing HIV
+ - [https://positiveresourceconnection.org](https://positiveresourceconnection.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Posixcafe Who's asking
+ - [https://posixcafe.org](https://posixcafe.org)
+ - date_published: 2024-01-02T07:05:14.763954+00:00
+
+ ## Possibility Now
+ - [https://possibilitynow.org](https://possibilitynow.org)
+ - date_published: 2024-06-12T12:50:44.528829+00:00
+
+ ## Post Alley
+ - [https://postalley.org](https://postalley.org)
+ - date_published: 2024-05-07T15:10:43.568613+00:00
+
+ ## Post Carbon Institute
+ - [https://www.postcarbon.org](https://www.postcarbon.org)
+ - date_published: 2024-06-12T12:38:11.991679+00:00
+
+ ## PostCSS - a tool for transforming CSS with JavaScript
+ - [https://postcss.org](https://postcss.org)
+ - date_published: 2024-06-21T22:25:05+00:00
+
+ ## Poster House
+ - [https://posterhouse.org](https://posterhouse.org)
+ - date_published: 2024-05-12T06:13:39.643360+00:00
+
+ ## Poster House Shop
+ - [https://shop.posterhouse.org](https://shop.posterhouse.org)
+ - date_published: 2024-07-15T12:11:39.093938+00:00
+
+ ## The Postfix Home Page
+ - [https://www.postfix.org](https://www.postfix.org)
+ - date_published: 2024-03-29T08:54:00+00:00
+
+ ## PostgresML | You know Postgres. Now you know machine learning
+ - [https://postgresml.org](https://postgresml.org)
+ - date_published: 2023-10-25T21:59:00.170278+00:00
+
+ ## PostgresOpen | PostgreSQL Conference
+ - [https://2019.postgresopen.org](https://2019.postgresopen.org)
+ - date_published: 2019-09-13T20:51:54+00:00
 

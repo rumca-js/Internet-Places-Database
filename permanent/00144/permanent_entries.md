@@ -1,36 +1,3 @@
- ## Michael Darby in Australia | Substack
- - [https://stophumansacrifice.substack.com](https://stophumansacrifice.substack.com)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## Story Cauldron | Jackie Dana | Substack
- - [https://storycauldron.substack.com](https://storycauldron.substack.com)
- - date_published: 2024-07-26T03:33:35.624292+00:00
-
- ## The Story Rules Project | Erin O'Connor | Substack
- - [https://storyrulesproject.substack.com](https://storyrulesproject.substack.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Strange Earth Dispatches | David Guillas | Substack
- - [https://strangeearth.substack.com](https://strangeearth.substack.com)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## STRAT_SCRAPS | Alex Morris | Substack
- - [https://stratscraps.substack.com](https://stratscraps.substack.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Data Streaming Journey | Yaroslav Tkachenko | Substack
- - [https://streamingdata.substack.com](https://streamingdata.substack.com)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Series Business (fka Strikegeist) | Richard Rushfield | Substack
- - [https://strikegeist.substack.com](https://strikegeist.substack.com)
- - date_published: 2024-05-06T16:16:02.228213+00:00
-
- ## Science Fictions | Stuart Ritchie | Substack
- - [https://stuartritchie.substack.com](https://stuartritchie.substack.com)
- - date_published: 2023-10-25T10:04:31.154160+00:00
- - tags: ['substack']
-
  ## Studio Kirkland | Matt & Erika Kirkland | Substack
  - [https://studiokirkland.substack.com](https://studiokirkland.substack.com)
  - date_published: 2024-05-05T00:00:00+00:00
@@ -172,6 +139,10 @@
  ## A Little Thing That Helps | Tara Schuster | Substack
  - [https://taraschuster.substack.com](https://taraschuster.substack.com)
  - date_published: 2024-01-29T00:00:00+00:00
+
+ ## The Data Science and AI Newsletter | LunarTech | Substack
+ - [https://tatevaslanyan.substack.com](https://tatevaslanyan.substack.com)
+ - date_published: 2024-08-08T21:35:17.111340+00:00
 
  ## Tatsuya's Comics | Tatsuya Ishida | Substack
  - [https://tatsuyaishida.substack.com](https://tatsuyaishida.substack.com)
@@ -374,6 +345,10 @@
  ## The Cookie Castle News | Pat Condelli The Cookie Queen | Substack
  - [https://thecookiequeen.substack.com](https://thecookiequeen.substack.com)
  - date_published: 2024-03-02T00:00:00+00:00
+
+ ## The Crude Chronicles | Substack
+ - [https://thecrudechronicles.substack.com](https://thecrudechronicles.substack.com)
+ - date_published: 2024-04-05T00:00:00+00:00
 
  ## The Culture We Deserve | Jessa Crispin | Substack
  - [https://theculturewedeserve.substack.com](https://theculturewedeserve.substack.com)
@@ -979,6 +954,10 @@
  - [https://tryingtruly.substack.com](https://tryingtruly.substack.com)
  - date_published: 2024-07-16T18:29:07.188490+00:00
 
+ ## tsCreativ | Thor | Substack
+ - [https://tscreativ.substack.com](https://tscreativ.substack.com)
+ - date_published: 2024-08-08T16:54:29.451085+00:00
+
  ## Tucker Goodrich: yelling Stop | Substack
  - [https://tuckergoodrich.substack.com](https://tuckergoodrich.substack.com)
  - date_published: 2024-03-03T00:00:00+00:00
@@ -1139,6 +1118,10 @@
  - [https://vicegax.substack.com](https://vicegax.substack.com)
  - date_published: 2024-06-23T15:45:34.665582+00:00
 
+ ## Normcore Tech | Vicki Boykis | Substack
+ - [https://vicki.substack.com](https://vicki.substack.com)
+ - date_published: 2024-08-08T19:20:53.096384+00:00
+
  ## Diary of a Serial Hostess  | Victoria de la Maza | Substack
  - [https://victoriadelamaza.substack.com](https://victoriadelamaza.substack.com)
  - date_published: 2024-04-15T00:00:00+00:00
@@ -1220,6 +1203,14 @@
  ## Recalibrating | Callum Wanderloots | Substack
  - [https://wanderloots.substack.com](https://wanderloots.substack.com)
  - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Waqas’ Musings | Waqas Sheikh | Substack
+ - [https://waqaswrites.substack.com](https://waqaswrites.substack.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Tai Chi & Me | Warner Blake | Substack
+ - [https://warnerblake.substack.com](https://warnerblake.substack.com)
+ - date_published: 2024-08-08T20:56:54.167393+00:00
 
  ## Galaxy Brain | Charlie Warzel | Substack
  - [https://warzel.substack.com](https://warzel.substack.com)
@@ -1431,6 +1422,10 @@
  ## Wristwatch Review Weekly | WristwatchReview | Substack
  - [https://wristwatch.substack.com](https://wristwatch.substack.com)
  - date_published: 2024-02-29T00:00:00+00:00
+
+ ## WTI Realist’s Newsletter | WTIRealist | Substack
+ - [https://wtirealist.substack.com](https://wtirealist.substack.com)
+ - date_published: 2024-08-08T20:09:04.007028+00:00
 
  ## Why wasn't I consulted? | daria | Substack
  - [https://wwic.substack.com](https://wwic.substack.com)
@@ -1835,6 +1830,10 @@
  ## Learn to become more influential - SUE Behavioul Design Academy
  - [https://suebehaviouraldesign.com](https://suebehaviouraldesign.com)
  - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Sue Foley: One Guitar Woman ~ A Tribute to the Female Pioneers of Guitar
+ - [http://suefoley.com](http://suefoley.com)
+ - date_published: 2024-08-04T00:00:00+00:00
 
  ## Sufficient Velocity
  - [https://forums.sufficientvelocity.com](https://forums.sufficientvelocity.com)
@@ -2342,6 +2341,10 @@
  - [https://sun.com](https://sun.com)
  - date_published: 2024-03-28T00:01:34+00:00
 
+ ## Attention Required! | Cloudflare
+ - [http://sun-4488.com](http://sun-4488.com)
+ - date_published: 2024-08-08T19:52:11.595462+00:00
+
  ## Sun Art
  - [https://www.sunartretail.com](https://www.sunartretail.com)
  - date_published: 2024-07-09T11:02:32.447860+00:00
@@ -2431,8 +2434,8 @@
  - date_published: 2024-01-06T00:00:00+00:00
 
  ## Ha - H'm. The Hornblower Page
- - [https://www.hornblower.sundrymemes.com](https://www.hornblower.sundrymemes.com)
- - date_published: 2024-04-25T19:31:52+00:00
+ - [https://hornblower.sundrymemes.com](https://hornblower.sundrymemes.com)
+ - date_published: 2009-04-18T10:32:39+00:00
  - tags: ['book', 'hornblower']
 
  ## Fan-Yun Sun
@@ -3301,6 +3304,10 @@
  - [http://www.supernova2007.com](http://www.supernova2007.com)
  - date_published: 2024-08-06T09:05:54.012095+00:00
 
+ ## Supernova Themes: Fast and SEO-Optimized WordPress Theme
+ - [http://supernovathemes.com](http://supernovathemes.com)
+ - date_published: 2024-03-26T05:57:04+00:00
+
  ## Home - SuperOps
  - [https://community.superops.com](https://community.superops.com)
  - date_published: 2024-07-12T00:00:00+00:00
@@ -3767,6 +3774,10 @@
  - [http://surriel.com](http://surriel.com)
  - date_published: 2024-07-07T04:04:11+00:00
 
+ ## The Best Architecture and Design-Driven Shows
+ - [http://surroundpodcasts.com](http://surroundpodcasts.com)
+ - date_published: 2024-08-08T00:05:51+00:00
+
  ## SursockHouse
  - [https://sursockhouse.com](https://sursockhouse.com)
  - date_published: 2023-10-25T17:19:53.345575+00:00
@@ -4053,16 +4064,4 @@
  ## Supported products | SUSE Documentation
  - [https://documentation.suse.com](https://documentation.suse.com)
  - date_published: 2024-04-25T21:07:52.529743+00:00
-
- ## All Products
- - [https://download.suse.com](https://download.suse.com)
- - date_published: 2024-05-23T02:49:00.771094+00:00
-
- ## Rancher Labs
- - [https://forums.suse.com](https://forums.suse.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Password Settings
- - [https://idp-portal.suse.com](https://idp-portal.suse.com)
- - date_published: 2024-02-20T13:44:38+00:00
 

@@ -1,155 +1,3 @@
- ## Bridget Gordon
- - [https://bridgetgordonwrites.squarespace.com](https://bridgetgordonwrites.squarespace.com)
- - date_published: 2024-05-08T03:32:13.611963+00:00
-
- ## Bridget Hunt
- - [https://bridget-hunt-x6dc.squarespace.com](https://bridget-hunt-x6dc.squarespace.com)
- - date_published: 2024-05-08T03:32:17.146235+00:00
-
- ## SEO Copywriter and Blog Strategist — Stéphanie McGuirt
- - [https://brightspotcopywriting.squarespace.com](https://brightspotcopywriting.squarespace.com)
- - date_published: 2024-05-08T03:44:50.793172+00:00
-
- ## A La Bapsi
- - [https://britney-win.squarespace.com](https://britney-win.squarespace.com)
- - date_published: 2024-05-01T02:59:21.885565+00:00
-
- ## SHE Media
- - [https://bronze-amethyst-4d7a.squarespace.com](https://bronze-amethyst-4d7a.squarespace.com)
- - date_published: 2024-08-06T21:24:32.320824+00:00
-
- ## Pitcairn Island Immigration
- - [https://bronze-collie-gtj8.squarespace.com](https://bronze-collie-gtj8.squarespace.com)
- - date_published: 2024-05-12T06:31:59.794438+00:00
-
- ## Tom Goddard
- - [https://bronze-violet-b6pm.squarespace.com](https://bronze-violet-b6pm.squarespace.com)
- - date_published: 2024-05-06T18:13:40.448455+00:00
-
- ## Bruce Steinberg Design
- - [https://bruce-steinberg.squarespace.com](https://bruce-steinberg.squarespace.com)
- - date_published: 2024-06-28T14:46:35.445861+00:00
-
- ## Reimagine Communities Summit
- - [https://bryan-tamayo-ygh9.squarespace.com](https://bryan-tamayo-ygh9.squarespace.com)
- - date_published: 2024-06-15T15:24:28.769962+00:00
-
- ## SECOND WIND TRAIL RUNNING
- - [https://buffalo-chiton-eant.squarespace.com](https://buffalo-chiton-eant.squarespace.com)
- - date_published: 2024-04-29T02:59:30.254443+00:00
-
- ## MaxPacks
- - [https://bulldog-ray-3d66.squarespace.com](https://bulldog-ray-3d66.squarespace.com)
- - date_published: 2024-06-21T19:59:31.216613+00:00
-
- ## barrel+blaze
- - [https://bullfrog-aqua-k3nr.squarespace.com](https://bullfrog-aqua-k3nr.squarespace.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Craig Sikora
- - [https://bullfrog-dory-c9ck.squarespace.com](https://bullfrog-dory-c9ck.squarespace.com)
- - date_published: 2024-05-08T06:48:51.184497+00:00
-
- ## The Earn & Invest Podcast
- - [https://bumblebee-bugle-rwjz.squarespace.com](https://bumblebee-bugle-rwjz.squarespace.com)
- - date_published: 2024-06-29T20:21:20.880354+00:00
-
- ## adapt.ing
- - [https://burgundy-rust-knxx.squarespace.com](https://burgundy-rust-knxx.squarespace.com)
- - date_published: 2024-07-12T17:43:43.621400+00:00
-
- ## Burnett Music
- - [https://burnettmusic.squarespace.com](https://burnettmusic.squarespace.com)
- - date_published: 2024-05-10T05:12:35.604969+00:00
-
- ## HackerNoon Business Publishing and Advertising Options
- - [https://business-hackernoon.squarespace.com](https://business-hackernoon.squarespace.com)
- - date_published: 2024-07-17T16:19:33.205643+00:00
-
- ## South London Warlords
- - [https://buttercup-krill-xg6m.squarespace.com](https://buttercup-krill-xg6m.squarespace.com)
- - date_published: 2024-07-20T07:55:13.641900+00:00
-
- ## facepunch
- - [https://butterfly-bat-n3a7.squarespace.com](https://butterfly-bat-n3a7.squarespace.com)
- - date_published: 2024-07-08T17:19:49.588427+00:00
-
- ## The Clean Energy Education & Empowerment (C3E) Initiative
- - [https://c3e.squarespace.com](https://c3e.squarespace.com)
- - date_published: 2024-07-01T15:15:42.368855+00:00
-
- ## C3 Metrics
- - [https://c3metrics.squarespace.com](https://c3metrics.squarespace.com)
- - date_published: 2024-06-25T22:34:51.534251+00:00
-
- ## Fallout 4 : Capital Wasteland
- - [https://c4cw.squarespace.com](https://c4cw.squarespace.com)
- - date_published: 2024-06-18T06:59:15.448905+00:00
-
- ## Cake Duel
- - [https://cakeduel.squarespace.com](https://cakeduel.squarespace.com)
- - date_published: 2024-06-28T20:36:44.490377+00:00
-
- ## Calca - The Text Editor that Loves Math
- - [http://calca.squarespace.com](http://calca.squarespace.com)
- - date_published: 2024-07-08T15:54:21.564403+00:00
-
- ## California Peace Coalition
- - [https://californiapeacecoalition.squarespace.com](https://californiapeacecoalition.squarespace.com)
- - date_published: 2024-07-14T22:24:14.896037+00:00
-
- ## Calligraph: A full service literary agency
- - [https://calligraphliterary.squarespace.com](https://calligraphliterary.squarespace.com)
- - date_published: 2024-06-30T01:46:37.282218+00:00
-
- ## Julie Zigoris
- - [https://calliope-chiton-2ghc.squarespace.com](https://calliope-chiton-2ghc.squarespace.com)
- - date_published: 2024-08-06T05:27:26.111988+00:00
-
- ## Phantogram
- - [https://calliope-tambourine-wy3l.squarespace.com](https://calliope-tambourine-wy3l.squarespace.com)
- - date_published: 2024-05-09T06:53:18.911550+00:00
-
- ## Cal McKim
- - [https://cal-mckim-b976.squarespace.com](https://cal-mckim-b976.squarespace.com)
- - date_published: 2024-05-08T04:18:04.297176+00:00
-
- ## Candice Poon
- - [https://candice-poon.squarespace.com](https://candice-poon.squarespace.com)
- - date_published: 2024-05-08T04:20:12.699039+00:00
-
- ## Project Subway NYCProject Subway NYC
- - [http://candy-chan-8mex.squarespace.com](http://candy-chan-8mex.squarespace.com)
- - date_published: 2024-07-10T02:57:09.160525+00:00
-
- ## Capcom Mobile GamesCAPCOM MOBILE
- - [https://capcommobile.squarespace.com](https://capcommobile.squarespace.com)
- - date_published: 2024-07-02T15:46:25.816764+00:00
-
- ## delodi
- - [https://caper-chicken-pppa.squarespace.com](https://caper-chicken-pppa.squarespace.com)
- - date_published: 2024-07-12T20:12:12.908201+00:00
-
- ## WFMJ Digital
- - [https://caper-falcon-8x6e.squarespace.com](https://caper-falcon-8x6e.squarespace.com)
- - date_published: 2024-06-29T20:44:21.195489+00:00
-
- ## #OpenDND
- - [https://caper-jellyfish-56ak.squarespace.com](https://caper-jellyfish-56ak.squarespace.com)
- - date_published: 2024-05-08T00:42:49.582245+00:00
-
- ## The Catholic Diocese of Shreveport
- - [https://caper-sponge-rxe8.squarespace.com](https://caper-sponge-rxe8.squarespace.com)
- - date_published: 2024-06-20T23:55:59.056386+00:00
-
- ## There I Ruined It
- - [https://capybera-clarinet-hskt.squarespace.com](https://capybera-clarinet-hskt.squarespace.com)
- - date_published: 2024-06-28T08:36:10.165056+00:00
-
- ## CARBON FIBRE LTD.
- - [https://carbon-fibre-main.squarespace.com](https://carbon-fibre-main.squarespace.com)
- - date_published: 2024-07-13T02:12:43.323122+00:00
-
  ## RIT Certified
  - [https://cardioid-blackbird-ytpy.squarespace.com](https://cardioid-blackbird-ytpy.squarespace.com)
  - date_published: 2024-05-14T00:00:00+00:00
@@ -545,6 +393,10 @@
  ## Baltimore Public Media
  - [https://cowbell-tambourine-fpn6.squarespace.com](https://cowbell-tambourine-fpn6.squarespace.com)
  - date_published: 2024-07-15T02:34:06.938217+00:00
+
+ ## Manor Lords
+ - [https://crane-giraffe-rxeb.squarespace.com](https://crane-giraffe-rxeb.squarespace.com)
+ - date_published: 2024-08-08T22:03:10.926810+00:00
 
  ## Focusing on the creative applications of music and sound
  - [https://creativeaudio.squarespace.com](https://creativeaudio.squarespace.com)
@@ -1522,6 +1374,10 @@
  - [https://harp-nectarine-5tep.squarespace.com](https://harp-nectarine-5tep.squarespace.com)
  - date_published: 2024-07-03T20:43:12.502648+00:00
 
+ ## Wordorigins.org
+ - [https://harp-rectangle-dw3r.squarespace.com](https://harp-rectangle-dw3r.squarespace.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
  ## HARRIET BROWN
  - [https://harriet-brown.squarespace.com](https://harriet-brown.squarespace.com)
  - date_published: 2024-05-07T18:34:07.920235+00:00
@@ -2354,6 +2210,10 @@
  ## Product Leaders
  - [https://marlin-minnow-k38e.squarespace.com](https://marlin-minnow-k38e.squarespace.com)
  - date_published: 2024-06-09T20:48:00.092978+00:00
+
+ ## Felix Stocker
+ - [https://marsilius-1999.squarespace.com](https://marsilius-1999.squarespace.com)
+ - date_published: 2024-07-28T00:00:00+00:00
 
  ## Spark Innovation – Martin Ferfers
  - [https://martin-ferfers-af6j.squarespace.com](https://martin-ferfers-af6j.squarespace.com)
@@ -3190,6 +3050,10 @@
  - [https://reed-wolverine-rkrm.squarespace.com](https://reed-wolverine-rkrm.squarespace.com)
  - date_published: 2024-07-04T15:28:35.916748+00:00
 
+ ## AstilleroVerde
+ - [https://reindeer-goldfish-7xt8.squarespace.com](https://reindeer-goldfish-7xt8.squarespace.com)
+ - date_published: 2024-08-08T11:31:59.752384+00:00
+
  ## Loud Numbers: Turning Data into Sound and Music
  - [https://reindeer-horse-h2h2.squarespace.com](https://reindeer-horse-h2h2.squarespace.com)
  - date_published: 2024-07-12T20:03:29.320301+00:00
@@ -4003,4 +3867,140 @@
  ## Joshua Humpfer - Hochzeitsfotografie
  - [https://toucan-lion-9cpm.squarespace.com](https://toucan-lion-9cpm.squarespace.com)
  - date_published: 2024-07-13T19:26:40.132926+00:00
+
+ ## Transfer Co. Food Hall — Raleigh's Food Hall, Market & Gathering Place
+ - [https://transfer-co-food-hall.squarespace.com](https://transfer-co-food-hall.squarespace.com)
+ - date_published: 2024-06-30T11:33:30.216073+00:00
+
+ ## TransitMatters
+ - [https://transitmatters.squarespace.com](https://transitmatters.squarespace.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Travel Hungry: Great Tastes From Stuttgart & Beyond
+ - [https://travelhungry.squarespace.com](https://travelhungry.squarespace.com)
+ - date_published: 2024-04-30T07:12:38.591786+00:00
+
+ ## Travis Hellstrom
+ - [https://travishellstrom.squarespace.com](https://travishellstrom.squarespace.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Travis Knight
+ - [https://travis-knight-7usn.squarespace.com](https://travis-knight-7usn.squarespace.com)
+ - date_published: 2024-05-06T20:17:39.382982+00:00
+
+ ## World of Reel
+ - [https://triangle-dalmatian-9pks.squarespace.com](https://triangle-dalmatian-9pks.squarespace.com)
+ - date_published: 2024-05-07T16:10:12.911249+00:00
+
+ ## SFI Press
+ - [https://triceratops-fiddle-k5cw.squarespace.com](https://triceratops-fiddle-k5cw.squarespace.com)
+ - date_published: 2024-05-09T06:38:59.311834+00:00
+
+ ## Spiegel & Grau
+ - [https://triceratops-fiddle-x4z2.squarespace.com](https://triceratops-fiddle-x4z2.squarespace.com)
+ - date_published: 2024-07-14T05:00:20.581510+00:00
+
+ ## Trista Harris
+ - [https://trista-harris.squarespace.com](https://trista-harris.squarespace.com)
+ - date_published: 2024-07-07T09:19:38.970216+00:00
+
+ ## Tropical MBA | Official Podcast for Location Independent Entrepreneurs
+ - [https://tropicalmba.squarespace.com](https://tropicalmba.squarespace.com)
+ - date_published: 2024-05-10T02:46:50.820500+00:00
+
+ ## Zobia Alvi
+ - [https://trout-tortoise-tdtn.squarespace.com](https://trout-tortoise-tdtn.squarespace.com)
+ - date_published: 2024-05-07T19:00:21.671804+00:00
+
+ ## Pineapple Street Studios
+ - [https://trumpet-coconut-kzks.squarespace.com](https://trumpet-coconut-kzks.squarespace.com)
+ - date_published: 2024-07-12T21:52:36.218568+00:00
+
+ ## Art of Porkchop
+ - [https://trumpet-echidna-eewf.squarespace.com](https://trumpet-echidna-eewf.squarespace.com)
+ - date_published: 2024-06-18T13:37:06.773998+00:00
+
+ ## Rittman Analytics
+ - [https://trumpet-maroon-65wz.squarespace.com](https://trumpet-maroon-65wz.squarespace.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Tsipa Swan  ∆  Soul Coach
+ - [https://tsipa-swan.squarespace.com](https://tsipa-swan.squarespace.com)
+ - date_published: 2024-05-06T20:30:04.239258+00:00
+
+ ## Georgina Voss
+ - [https://tuatara-okra-asw8.squarespace.com](https://tuatara-okra-asw8.squarespace.com)
+ - date_published: 2024-06-26T22:14:49.473474+00:00
+
+ ## Open Robotics
+ - [https://tuba-puma-ksd5.squarespace.com](https://tuba-puma-ksd5.squarespace.com)
+ - date_published: 2024-05-08T11:17:02.281461+00:00
+
+ ## Christine Ma-Kellams
+ - [https://tulip-hexahedron-zsmj.squarespace.com](https://tulip-hexahedron-zsmj.squarespace.com)
+ - date_published: 2024-08-06T11:39:23.149267+00:00
+
+ ## The Orwell Festival
+ - [https://tuna-hypersphere-67wn.squarespace.com](https://tuna-hypersphere-67wn.squarespace.com)
+ - date_published: 2024-06-27T17:02:02.539354+00:00
+
+ ## SYPartners
+ - [https://tunny-iris-ylp4.squarespace.com](https://tunny-iris-ylp4.squarespace.com)
+ - date_published: 2024-06-15T19:16:35.506202+00:00
+
+ ## Safe As Milk - Premium Shopify themes
+ - [https://tunny-tambourine-ge2n.squarespace.com](https://tunny-tambourine-ge2n.squarespace.com)
+ - date_published: 2024-06-27T02:36:28.859355+00:00
+
+ ## Reclaim Philadelphia
+ - [https://turbot-chrysalis-eagp.squarespace.com](https://turbot-chrysalis-eagp.squarespace.com)
+ - date_published: 2024-06-23T16:30:04.777521+00:00
+
+ ## Homeless World Cup
+ - [https://turbot-clover-3a7z.squarespace.com](https://turbot-clover-3a7z.squarespace.com)
+ - date_published: 2024-07-04T17:04:37.482609+00:00
+
+ ## Axate
+ - [https://turbot-hexahedron-g6sk.squarespace.com](https://turbot-hexahedron-g6sk.squarespace.com)
+ - date_published: 2024-06-25T22:52:54.630819+00:00
+
+ ## Warner Bros. Discovery
+ - [https://turnerentertainment.squarespace.com](https://turnerentertainment.squarespace.com)
+ - date_published: 2024-06-15T06:02:23.217944+00:00
+
+ ## David Nebinski
+ - [https://turquoise-tulip-9cd2.squarespace.com](https://turquoise-tulip-9cd2.squarespace.com)
+ - date_published: 2024-05-10T05:33:07.807757+00:00
+
+ ## Embark Studios
+ - [https://turtle-gazelle-8yyy.squarespace.com](https://turtle-gazelle-8yyy.squarespace.com)
+ - date_published: 2024-06-22T10:07:16.801371+00:00
+
+ ## Twenty Thousand Hertz - The stories behind the world's most recognizable and interesting sounds.
+ - [https://twentythousandhertz.squarespace.com](https://twentythousandhertz.squarespace.com)
+ - date_published: 2024-06-23T09:31:26.275664+00:00
+
+ ## Tyler Fischer
+ - [https://tyler-fischer.squarespace.com](https://tyler-fischer.squarespace.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Tyson Yen Music
+ - [https://tyson-yen.squarespace.com](https://tyson-yen.squarespace.com)
+ - date_published: 2024-07-17T13:20:55.043081+00:00
+
+ ## Cristine Chen
+ - [https://ukulele-ellipse-n5bm.squarespace.com](https://ukulele-ellipse-n5bm.squarespace.com)
+ - date_published: 2024-05-10T05:33:28.421574+00:00
+
+ ## Unfold — Toolkit for Storytellers
+ - [https://unfold-stories.squarespace.com](https://unfold-stories.squarespace.com)
+ - date_published: 2024-06-26T22:05:16.090308+00:00
+
+ ## Universal-Sci
+ - [https://universal-sci.squarespace.com](https://universal-sci.squarespace.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Uptown Columbus
+ - [https://uptowncolumbusga.squarespace.com](https://uptowncolumbusga.squarespace.com)
+ - date_published: 2024-06-30T12:30:53.585811+00:00
 

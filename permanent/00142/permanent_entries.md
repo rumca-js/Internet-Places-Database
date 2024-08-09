@@ -1,74 +1,3 @@
- ## Stuart McMillen comics - home page of cartoonist Stuart McMillen
- - [https://www.stuartmcmillen.com](https://www.stuartmcmillen.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Stuart Memo
- - [https://stuartmemo.com](https://stuartmemo.com)
- - date_published: 2024-05-29T20:59:55.977019+00:00
- - tags: ['interesting page design', 'personal']
-
- ## Welcome to FastComet Cloud Hosting
- - [https://stuartnoggle.com](https://stuartnoggle.com)
- - date_published: 2024-02-09T00:15:30.774671+00:00
- - tags: ['personal']
-
- ## Digital Digressions by Stuart Sierra – From programming to everything else
- - [https://stuartsierra.com](https://stuartsierra.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## SELECT WORK | Stuartwhitemix Copy
- - [https://www.stuartwhitemix.com](https://www.stuartwhitemix.com)
- - date_published: 2024-08-05T18:08:01.091805+00:00
-
- ## Stubb's BBQ
- - [https://www.stubbsaustin.com](https://www.stubbsaustin.com)
- - date_published: 2024-07-10T11:00:30.327287+00:00
-
- ## Buy sports, concert and theater tickets on StubHub!
- - [https://checkout.stubhub.com](https://checkout.stubhub.com)
- - date_published: 2024-07-12T13:10:57.976518+00:00
-
- ## StubHub - Buy & Sell Concert, Sport & Theatre Tickets
- - [https://my.stubhub.com](https://my.stubhub.com)
- - date_published: 2024-07-12T13:11:00.666993+00:00
-
- ## Buy sports, concert and theater tickets on StubHub!
- - [https://stubhub.com](https://stubhub.com)
- - date_published: 2024-05-10T05:15:59.530048+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://media.stubhubstatic.com](https://media.stubhubstatic.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - stubio
- - [http://stu-b-io.com](http://stu-b-io.com)
- - date_published: 2020-03-10T00:49:07+00:00
-
- ## Stuck In Customs Store
- - [https://store.stuckincustoms.com](https://store.stuckincustoms.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Stuck in Customs – Trey Ratcliff's Travel Photography blog with daily inspiration to motivate you!
- - [https://stuckincustoms.com](https://stuckincustoms.com)
- - date_published: 2024-05-10T06:33:07.753286+00:00
- - tags: ['personal']
-
- ## Stuck in the Rockies | Home
- - [https://stuckintherockies.com](https://stuckintherockies.com)
- - date_published: 2024-06-20T02:43:11+00:00
-
- ## ClearCost
- - [https://uga.studentaidcalculator.com](https://uga.studentaidcalculator.com)
- - date_published: 2024-06-26T18:07:22+00:00
-
- ## Student App Centre
- - [https://www.studentappcentre.com](https://www.studentappcentre.com)
- - date_published: 2024-06-20T17:17:56.946490+00:00
-
- ## Student Beans
- - [https://accounts.studentbeans.com](https://accounts.studentbeans.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
  ## ANKER | Student Beans iD
  - [https://anker-us.connect.studentbeans.com](https://anker-us.connect.studentbeans.com)
  - date_published: 2024-06-18T16:18:33.954738+00:00
@@ -291,7 +220,7 @@
  - date_published: 2024-05-04T07:01:34.518707+00:00
 
  ## WordPress Themes by StudioPress
- - [https://www.studiopress.com](https://www.studiopress.com)
+ - [https://studiopress.com](https://studiopress.com)
  - date_published: 2024-04-28T01:53:15.899091+00:00
 
  ## Home - studioriley
@@ -710,8 +639,8 @@
  - date_published: 2024-08-05T16:34:18.597349+00:00
 
  ## sub.blue
- - [http://www.subblue.com](http://www.subblue.com)
- - date_published: 2024-04-28T01:53:09.839590+00:00
+ - [http://subblue.com](http://subblue.com)
+ - date_published: 2018-09-30T09:40:09+00:00
 
  ## Sub Club Podcast
  - [https://subclub.com](https://subclub.com)
@@ -875,6 +804,10 @@
  - [https://hiddenriverartssubmissions.submittable.com](https://hiddenriverartssubmissions.submittable.com)
  - date_published: 2024-07-16T21:36:10.000908+00:00
 
+ ## Overseas Press Club of America Submission Manager
+ - [https://overseaspressclubofamerica.submittable.com](https://overseaspressclubofamerica.submittable.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
  ## OWASP Foundation Submission Manager
  - [https://owasp.submittable.com](https://owasp.submittable.com)
  - date_published: 2024-07-09T17:39:03.149772+00:00
@@ -890,6 +823,10 @@
  ## Rattle Submission Manager
  - [https://rattle.submittable.com](https://rattle.submittable.com)
  - date_published: 2024-07-22T10:20:38.061161+00:00
+
+ ## Report for America Submission Manager
+ - [https://reportforamerica.submittable.com](https://reportforamerica.submittable.com)
+ - date_published: 2024-08-08T23:40:40.185232+00:00
 
  ## SIGCHI Submission Manager
  - [https://sigchi.submittable.com](https://sigchi.submittable.com)
@@ -4117,4 +4054,65 @@
  ## Gav’s Substack | Substack
  - [https://gav246.substack.com](https://gav246.substack.com)
  - date_published: 2024-06-21T18:25:57.236988+00:00
+
+ ## Africa Watch | Grieve Chelwa | Substack
+ - [https://gchelwa.substack.com](https://gchelwa.substack.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## The Geek Way | Andrew McAfee | Substack
+ - [https://geekway.substack.com](https://geekway.substack.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Gee! you think too much | Gee the Riot | Substack
+ - [https://geetheriot.substack.com](https://geetheriot.substack.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## https://generallyintelligent.substack.com
+ - [https://generallyintelligent.substack.com](https://generallyintelligent.substack.com)
+ - date_published: 2023-12-05T17:46:50.096294+00:00
+
+ ## General Proximity | Armand B. Cognetta III | Substack
+ - [https://generalproximity.substack.com](https://generalproximity.substack.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## General Robots | Benjie Holson | Substack
+ - [https://generalrobots.substack.com](https://generalrobots.substack.com)
+ - date_published: 2023-10-25T11:46:22.101723+00:00
+ - tags: ['substack']
+
+ ## Generating Conversation | Joseph E. Gonzalez | Substack
+ - [https://generatingconversation.substack.com](https://generatingconversation.substack.com)
+ - date_published: 2023-10-25T17:19:03.436504+00:00
+
+ ## Generative Light | Substack
+ - [https://generativelight.substack.com](https://generativelight.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Geopolitical Economy Report | Ben Norton | Substack
+ - [https://geopoliticaleconomy.substack.com](https://geopoliticaleconomy.substack.com)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## Anglo Reaction | George Francis | Substack
+ - [https://georgefrancis.substack.com](https://georgefrancis.substack.com)
+ - date_published: 2024-05-02T15:02:16.886596+00:00
+
+ ## dev/random/ | Substack
+ - [https://georgemandis.substack.com](https://georgemandis.substack.com)
+ - date_published: 2024-05-06T15:11:58.448429+00:00
+
+ ## Gerry_O'C’s Substack | Substack
+ - [https://gerryoc.substack.com](https://gerryoc.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## BRIGHT | Lisa De Pasquale | Substack
+ - [https://getbright.substack.com](https://getbright.substack.com)
+ - date_published: 2024-02-18T00:00:00+00:00
+
+ ## Get Together | Substack
+ - [https://gettogether.substack.com](https://gettogether.substack.com)
+ - date_published: 2024-06-22T23:32:18.416086+00:00
+
+ ## Alex Ghiculescu's Newsletter | Substack
+ - [https://ghiculescu.substack.com](https://ghiculescu.substack.com)
+ - date_published: 2024-01-09T01:40:25.488363+00:00
 

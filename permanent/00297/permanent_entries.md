@@ -1,711 +1,3 @@
- ## Word Finder for Scrabble & Words with Friends
- - [https://wordfinder.pro](https://wordfinder.pro)
- - date_published: 2024-07-09T08:23:39.383753+00:00
-
- ## World Data Pro – World Data Pro – WordPress
- - [https://worlddata.pro](https://worlddata.pro)
- - date_published: 2024-06-22T21:21:30.783557+00:00
-
- ## WordPress Maintenance: Keep Your Site Secure, Fast and High-Performing
- - [https://wp-maintenance.pro](https://wp-maintenance.pro)
- - date_published: 2024-07-14T09:43:29.145909+00:00
-
- ## WP-Translations | We translate WordPress for You
- - [https://wp-translations.pro](https://wp-translations.pro)
- - date_published: 2024-07-14T08:43:58.324990+00:00
-
- ## Home
- - [https://xometry.pro](https://xometry.pro)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Я ЕБУ - смотреть порно ролики. Онлайн сайт секса и HD порно!
- - [https://www.yaeby.pro](https://www.yaeby.pro)
- - date_published: 2024-07-02T22:29:32.823387+00:00
-
- ## Professor Casey Fiesler
- - [https://casey.prof](https://casey.prof)
- - date_published: 2024-01-03T21:02:40+00:00
-
- ## Prof. Emily R.D. Murphy
- - [https://emily.prof](https://emily.prof)
- - date_published: 2024-07-12T17:43:53.043372+00:00
-
- ## Hats off to higher education
- - [https://get.prof](https://get.prof)
- - date_published: 2024-05-10T05:46:57.765089+00:00
-
- ## a big list of good news from 2016
- - [http://2016.promo](http://2016.promo)
- - date_published: 2019-01-31T08:36:42+00:00
-
- ## Ofertas en Dominios, Promociones y Cupones - Sered 2024
- - [https://sered.promo](https://sered.promo)
- - date_published: 2024-07-13T20:23:58.804298+00:00
-
- ## Home | ENGINEERING RECIPES
- - [http://config.properties](http://config.properties)
- - date_published: 2021-12-02T20:42:29+00:00
-
- ## Real Estate Brokerage Company, Homes for Sale | Get Properties
- - [https://get.properties](https://get.properties)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Apache Guacamole™
- - [https://guacamole.properties](https://guacamole.properties)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## .Security Domain Names | .Security
- - [https://go.protection](https://go.protection)
- - date_published: 2024-06-17T07:44:06.762916+00:00
-
- ## Account Suspended
- - [https://crc.iugaza.edu.ps](https://crc.iugaza.edu.ps)
- - date_published: 2024-06-16T15:32:37.954546+00:00
-
- ## Citroen Palestine : Auto and new car for sale
- - [https://www.citroen.ps](https://www.citroen.ps)
- - date_published: 2023-12-11T16:04:18.957968+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.ps](https://www.citroenorigins.ps)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Grafika Google
- - [https://images.google.ps](https://images.google.ps)
- - date_published: 2024-07-20T07:38:17.090824+00:00
-
- ## Google
- - [https://www.google.ps](https://www.google.ps)
- - date_published: 2024-06-21T22:23:44.238172+00:00
-
- ## Meetup | Find Local Groups, Events, and Activities Near You
- - [https://meetu.ps](https://meetu.ps)
- - date_published: 2024-07-04T12:26:57.812855+00:00
-
- ## Andrew Phelps
- - [https://phel.ps](https://phel.ps)
- - date_published: 2024-07-13T04:27:18.754272+00:00
-
- ## Tri.ps  | The URL Shortener for the Travel Industry
- - [https://tri.ps](https://tri.ps)
- - date_published: 2024-07-01T07:36:23.658549+00:00
-
- ## الشركة المتحدة لتجارة السيارات
- - [https://www.umt.ps](https://www.umt.ps)
- - date_published: 2024-07-19T22:44:33.455906+00:00
-
- ## Palestinian News & Information Agency-WAFA
- - [http://english.wafa.ps](http://english.wafa.ps)
- - date_published: 2024-06-15T10:54:27.851628+00:00
-
- ## وكالة الانباء والمعلومات الفلسطينية - وفا
- - [http://www.wafa.ps](http://www.wafa.ps)
- - date_published: 2024-06-27T09:31:46.263484+00:00
-
- ## 3M Science. Applied to Life. | 3M Portugal
- - [https://www.3m.com.pt](https://www.3m.com.pt)
- - date_published: 2024-08-06T10:38:43.806230+00:00
-
- ## Hotel em Cascais | Farol Hotel  5 estrelas em Cascais | Portugal
- - [https://farol.com.pt](https://farol.com.pt)
- - date_published: 2024-06-25T16:22:25.633021+00:00
-
- ## Magnólia | Paisagismo - Urbanismo
- - [http://www.magnolia.com.pt](http://www.magnolia.com.pt)
- - date_published: 2024-07-12T20:47:56.536392+00:00
-
- ## Media Smart - Media Smart
- - [https://mediasmart.com.pt](https://mediasmart.com.pt)
- - date_published: 2021-02-02T00:00:00+00:00
-
- ## Chat ao vivo | Software de apoio ao cliente
- - [https://www.providesupport.com.pt](https://www.providesupport.com.pt)
- - date_published: 2024-07-01T15:16:20+00:00
-
- ## Garden pools
- - [http://www.quasi.com.pt](http://www.quasi.com.pt)
- - date_published: 2024-07-12T20:49:10.963254+00:00
-
- ## Zoetis
- - [https://www2.zoetis.com.pt](https://www2.zoetis.com.pt)
- - date_published: 2024-06-27T09:52:47+00:00
-
- ## EF Education First | Portugal
- - [https://www.ef.edu.pt](https://www.ef.edu.pt)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## MAPi
- - [https://mapi.map.edu.pt](https://mapi.map.edu.pt)
- - date_published: 2024-07-03T16:46:43.031151+00:00
-
- ## Início - ePortugal.gov.pt
- - [https://eportugal.gov.pt](https://eportugal.gov.pt)
- - date_published: 2024-08-07T22:48:04.244829+00:00
-
- ## Eleições - Resultados dos Escrutínios Provisórios
- - [https://eleicoes.mai.gov.pt](https://eleicoes.mai.gov.pt)
- - date_published: 2024-05-09T06:25:20.648893+00:00
-
- ## Eleições Europeias 2024
- - [https://www.europeias2024.mai.gov.pt](https://www.europeias2024.mai.gov.pt)
- - date_published: 2024-06-06T15:31:53+00:00
-
- ## Eleições Legislativas 2024
- - [https://www.legislativas2024.mai.gov.pt](https://www.legislativas2024.mai.gov.pt)
- - date_published: 2024-03-10T21:56:34.754258+00:00
-
- ## Consulta dos cadernos de recenseamento
- - [https://www.recenseamento.mai.gov.pt](https://www.recenseamento.mai.gov.pt)
- - date_published: 2024-07-09T20:10:30.120498+00:00
-
- ## Portal da SGMAI
- - [http://www.sg.mai.gov.pt](http://www.sg.mai.gov.pt)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Instituto Diplomático
- - [https://idi.mne.gov.pt](https://idi.mne.gov.pt)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Governo de Portugal
- - [http://www.portugal.gov.pt](http://www.portugal.gov.pt)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Início - LPCDR - Liga Portuguesa contra as Doenças Reumáticas
- - [https://www.lpcdr.org.pt](https://www.lpcdr.org.pt)
- - date_published: 2024-06-28T12:05:13.491672+00:00
-
- ## Vitor M. de Sousa Pereira | 0x1
- - [https://0x1.pt](https://0x1.pt)
- - date_published: 2023-10-25T22:34:15.009100+00:00
-
- ## Site oficial da Abarth Cars | Abarth PT
- - [https://www.abarth.pt](https://www.abarth.pt)
- - date_published: 2024-05-16T16:35:09+00:00
-
- ## A BOLA - Homepage | Abola.pt | Abola.pt
- - [http://www.abola.pt](http://www.abola.pt)
- - date_published: 2024-06-10T06:57:48.932537+00:00
-
- ## Nova home
- - [https://www.acad-ciencias.pt](https://www.acad-ciencias.pt)
- - date_published: 2024-08-07T13:22:08.273796+00:00
-
- ## Automóvel Club de Portugal | ACP
- - [https://acp.pt](https://acp.pt)
- - date_published: 2024-06-28T22:08:51.932811+00:00
-
- ## Adao Bar
- - [https://adaobar.pt](https://adaobar.pt)
- - date_published: 2024-07-07T05:54:12.608980+00:00
-
- ## adidas Loja oficial Portugal | Roupa desportiva
- - [https://www.adidas.pt](https://www.adidas.pt)
- - date_published: 2024-07-14T12:13:55.920466+00:00
-
- ## Início | ADSP
- - [https://adsp.pt](https://adsp.pt)
- - date_published: 2024-06-28T22:08:47.685755+00:00
-
- ## Airbnb | Alojamentos para férias, cabanas, casas de praia e muito mais
- - [https://airbnb.pt](https://airbnb.pt)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Alfa Romeo Site Oficial | Berlinas & SUV | Alfa Romeo PT
- - [https://www.alfaromeo.pt](https://www.alfaromeo.pt)
- - date_published: 2024-06-12T08:59:11+00:00
-
- ## Altice Portugal - juntos para liderar o Futuro
- - [https://www.altice.pt](https://www.altice.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## ambar: Produtos de escritório e material escolar
- - [http://www.ambar.pt](http://www.ambar.pt)
- - date_published: 2024-07-12T20:56:42.075361+00:00
-
- ## Mensagem de Lisboa - O novo jornal digital da cidade
- - [https://amensagem.pt](https://amensagem.pt)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Antígona Editores Refractários
- - [http://www.antigona.pt](http://www.antigona.pt)
- - date_published: 2024-07-12T20:48:07.631834+00:00
-
- ## APAN - Associação Portuguesa de Anunciantes
- - [https://apan.pt](https://apan.pt)
- - date_published: 2024-07-02T22:20:25.053962+00:00
-
- ## APDSI – Associação para a Promoção e Desenvolvimento da Sociedade da Informação
- - [http://apdsi.pt](http://apdsi.pt)
- - date_published: 2024-06-28T22:09:38.166774+00:00
-
- ## Main Home - Aperitivo Bar
- - [https://aperitivofaro.pt](https://aperitivofaro.pt)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Architectural Affairs
- - [https://bookshop.architecturalaffairs.pt](https://bookshop.architecturalaffairs.pt)
- - date_published: 2024-07-04T01:41:54.151821+00:00
-
- ## LeYa Educação - homepage
- - [http://www.asa.pt](http://www.asa.pt)
- - date_published: 2024-07-12T20:49:25.619751+00:00
-
- ## Assírio &amp; Alvim
- - [http://www.assirio.pt](http://www.assirio.pt)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Audi Portugal » Descubra todos os modelos
- - [https://www.audi.pt](https://www.audi.pt)
- - date_published: 2024-07-19T22:44:46.088198+00:00
-
- ## Autónoma Academy | Escola de Pós Graduações da UAL
- - [https://academy.autonoma.pt](https://academy.autonoma.pt)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Axians
- - [https://www.axians.pt](https://www.axians.pt)
- - date_published: 2024-06-28T22:09:02+00:00
-
- ## Columbus Culinary Bar
- - [https://barcolumbus.pt](https://barcolumbus.pt)
- - date_published: 2019-05-05T11:22:27+00:00
-
- ## Bertrand Livreiros - livraria Online
- - [http://www.bertrand.pt](http://www.bertrand.pt)
- - date_published: 2024-07-12T20:56:23.894001+00:00
-
- ## Big Picture Films
- - [http://www.bigpicturefilms.pt](http://www.bigpicturefilms.pt)
- - date_published: 2024-07-28T15:28:53.588422+00:00
-
- ## Criação de Websites e Marketing Digital | BinaryBrigade
- - [https://binarybrigade.pt](https://binarybrigade.pt)
- - date_published: 2024-07-09T19:53:56.677741+00:00
-
- ## Bitdefender - Líder global em software de segurança cibernética
- - [https://www.bitdefender.pt](https://www.bitdefender.pt)
- - date_published: 2024-07-20T02:26:34.721276+00:00
-
- ## Autocarro ou viagem partilhada? A tua escolha de viagens a preços baixos. | BlaBlaCar
- - [https://www.blablacar.pt](https://www.blablacar.pt)
- - date_published: 2024-06-15T01:00:36.189780+00:00
-
- ## Blitz
- - [https://blitz.pt](https://blitz.pt)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## a procura do colofão
- - [http://12x25.blogspot.pt](http://12x25.blogspot.pt)
- - date_published: 2024-07-04T05:42:12+00:00
-
- ## A Ágora
- - [http://aagora.blogspot.pt](http://aagora.blogspot.pt)
- - date_published: 2024-07-11T18:49:57+00:00
-
- ## Poéticas ao acaso
- - [http://alico-poeticasaoacaso.blogspot.pt](http://alico-poeticasaoacaso.blogspot.pt)
- - date_published: 2024-03-19T07:37:01+00:00
-
- ## Alma Tua
- - [http://almatua.blogspot.pt](http://almatua.blogspot.pt)
- - date_published: 2024-07-03T06:47:12+00:00
-
- ## AMADEU BAPTISTA
- - [http://amadeubaptista.blogspot.pt](http://amadeubaptista.blogspot.pt)
- - date_published: 2024-07-11T18:03:07+00:00
-
- ## Blogger
- - [http://andrelitteris.blogspot.pt](http://andrelitteris.blogspot.pt)
- - date_published: 2024-07-12T21:12:28.179628+00:00
-
- ## A Odisséia de Penélope
- - [http://aodisseiadepenelope.blogspot.pt](http://aodisseiadepenelope.blogspot.pt)
- - date_published: 2024-03-13T01:46:13+00:00
-
- ## AROS Playground
- - [http://arosgamer.blogspot.pt](http://arosgamer.blogspot.pt)
- - date_published: 2024-03-13T08:56:51+00:00
-
- ## Do trapézio, sem rede
- - [http://arspoetica-lp.blogspot.pt](http://arspoetica-lp.blogspot.pt)
- - date_published: 2024-06-13T04:00:16+00:00
-
- ## O Fim
- - [http://artedofim.blogspot.pt](http://artedofim.blogspot.pt)
- - date_published: 2024-07-12T01:46:07+00:00
-
- ## Baú de Guardados
- - [http://badeguardados.blogspot.pt](http://badeguardados.blogspot.pt)
- - date_published: 2024-06-22T05:35:29+00:00
-
- ## Barcaças
- - [http://barcacas.blogspot.pt](http://barcacas.blogspot.pt)
- - date_published: 2024-03-19T12:36:39+00:00
-
- ## BLOGUINHO DE POESIA
- - [http://bloguinhodepoesia.blogspot.pt](http://bloguinhodepoesia.blogspot.pt)
- - date_published: 2024-03-19T04:03:10+00:00
-
- ## búhobranca
- - [http://buhobranca.blogspot.pt](http://buhobranca.blogspot.pt)
- - date_published: 2024-03-05T13:59:15+00:00
-
- ## Cantochao Blog
- - [http://cantochao.blogspot.pt](http://cantochao.blogspot.pt)
- - date_published: 2024-07-04T06:08:23+00:00
-
- ## Casa de Cacela
- - [http://casa-de-cacela.blogspot.pt](http://casa-de-cacela.blogspot.pt)
- - date_published: 2015-10-26T00:00:00+00:00
-
- ## Causa Nossa
- - [https://causa-nossa.blogspot.pt](https://causa-nossa.blogspot.pt)
- - date_published: 2024-07-11T22:38:31+00:00
-
- ## cores e outros amores
- - [http://coreseoutrosamores.blogspot.pt](http://coreseoutrosamores.blogspot.pt)
- - date_published: 2024-03-14T03:00:06+00:00
-
- ## CORPO DE POEMA
- - [http://corpodepoema.blogspot.pt](http://corpodepoema.blogspot.pt)
- - date_published: 2024-07-09T10:27:59+00:00
-
- ## Válvula de Escape
- - [http://crisdesouzavalvuladeescape.blogspot.pt](http://crisdesouzavalvuladeescape.blogspot.pt)
- - date_published: 2024-03-13T01:51:14+00:00
-
- ## Volúpia Casual
- - [http://curcino.blogspot.pt](http://curcino.blogspot.pt)
- - date_published: 2024-07-04T06:48:01+00:00
-
- ## dente surrealista
- - [http://dentesurrealista.blogspot.pt](http://dentesurrealista.blogspot.pt)
- - date_published: 2024-03-14T11:15:53+00:00
-
- ## Blogger
- - [http://deterdeondeseir.blogspot.pt](http://deterdeondeseir.blogspot.pt)
- - date_published: 2024-07-12T21:12:36.618297+00:00
-
- ## sinfonia para homens bons
- - [http://dianasan.blogspot.pt](http://dianasan.blogspot.pt)
- - date_published: 2024-07-04T05:54:59+00:00
-
- ## DIVAS & CONTRABAIXOS
- - [http://divasecontrabaixos.blogspot.pt](http://divasecontrabaixos.blogspot.pt)
- - date_published: 2024-07-11T18:56:35+00:00
-
- ## BAR DO BARDO
- - [http://dobardo.blogspot.pt](http://dobardo.blogspot.pt)
- - date_published: 2024-07-05T12:05:14+00:00
-
- ## doce de lira
- - [http://docedelira.blogspot.pt](http://docedelira.blogspot.pt)
- - date_published: 2024-05-24T19:40:10+00:00
-
- ## LACAIO DA POESIA
- - [http://domingosbarroso.blogspot.pt](http://domingosbarroso.blogspot.pt)
- - date_published: 2024-07-03T01:41:48+00:00
-
- ## A espessura do tempo
- - [http://domingosmota.blogspot.pt](http://domingosmota.blogspot.pt)
- - date_published: 2024-07-12T16:05:08+00:00
-
- ## Voz
- - [http://driaguida.blogspot.pt](http://driaguida.blogspot.pt)
- - date_published: 2024-06-07T07:20:20+00:00
-
- ## Na distração eu viro pó...
- - [http://editandoasaudade.blogspot.pt](http://editandoasaudade.blogspot.pt)
- - date_published: 2024-07-12T00:20:41+00:00
-
- ## Entresaber-nos
- - [http://entresaber-nos.blogspot.pt](http://entresaber-nos.blogspot.pt)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Dardo
- - [http://esteeodardo.blogspot.pt](http://esteeodardo.blogspot.pt)
- - date_published: 2024-03-19T22:04:05+00:00
-
- ## rascunho
- - [http://etnosabores.blogspot.pt](http://etnosabores.blogspot.pt)
- - date_published: 2024-03-14T04:07:44+00:00
-
- ## exercícios de esquecimento
- - [http://exerciciosdeesquecimento.blogspot.pt](http://exerciciosdeesquecimento.blogspot.pt)
- - date_published: 2023-07-18T05:10:52+00:00
-
- ## Feita em versos
- - [http://feitaemversos.blogspot.pt](http://feitaemversos.blogspot.pt)
- - date_published: 2024-03-13T17:30:18+00:00
-
- ## HF diante do espelho
- - [http://fernandeshercilia.blogspot.pt](http://fernandeshercilia.blogspot.pt)
- - date_published: 2024-06-29T13:48:48+00:00
-
- ## Filacteras Maravilhosas
- - [http://filacteras.blogspot.pt](http://filacteras.blogspot.pt)
- - date_published: 2024-06-27T23:41:19+00:00
-
- ## O FILÓSOFO E O FANFARRÃO
- - [http://filofanfa.blogspot.pt](http://filofanfa.blogspot.pt)
- - date_published: 2024-02-07T06:35:10+00:00
-
- ## Blogger
- - [http://fredcaju.blogspot.pt](http://fredcaju.blogspot.pt)
- - date_published: 2024-07-12T20:59:20.912911+00:00
-
- ## (F)utilidades
- - [http://f-utilidades.blogspot.pt](http://f-utilidades.blogspot.pt)
- - date_published: 2024-03-22T03:56:03+00:00
-
- ## Haicai e Não Machuca
- - [http://haicaienaomachuca.blogspot.pt](http://haicaienaomachuca.blogspot.pt)
- - date_published: 2024-07-04T06:25:36+00:00
-
- ## haikainosventos
- - [http://haikainosventos.blogspot.pt](http://haikainosventos.blogspot.pt)
- - date_published: 2024-03-14T03:26:20+00:00
-
- ## Imagens com Texto
- - [http://imagenscomtexto.blogspot.pt](http://imagenscomtexto.blogspot.pt)
- - date_published: 2024-07-12T00:41:00+00:00
-
- ## Jorge Elias Neto
- - [http://jeliasneto.blogspot.pt](http://jeliasneto.blogspot.pt)
- - date_published: 2024-03-14T08:50:26+00:00
-
- ## diferentes egos
- - [http://joaoimenes.blogspot.pt](http://joaoimenes.blogspot.pt)
- - date_published: 2024-03-20T13:13:23+00:00
-
- ## JUPITER 88
- - [http://jupiter88poetry.blogspot.pt](http://jupiter88poetry.blogspot.pt)
- - date_published: 2024-07-04T06:06:51+00:00
-
- ## Skylover
- - [http://kerryoconnorpoems.blogspot.pt](http://kerryoconnorpoems.blogspot.pt)
- - date_published: 2024-04-02T06:11:22+00:00
-
- ## Kyrie Eleison
- - [http://kyrieeleison-jcm.blogspot.pt](http://kyrieeleison-jcm.blogspot.pt)
- - date_published: 2024-07-11T23:03:25+00:00
-
- ## LINDA GRAAL
- - [http://lindagraal.blogspot.pt](http://lindagraal.blogspot.pt)
- - date_published: 2024-07-05T05:57:56+00:00
-
- ## Los 7 ahorcados
- - [http://los7ahorcados.blogspot.pt](http://los7ahorcados.blogspot.pt)
- - date_published: 2024-03-13T03:10:18+00:00
-
- ## Luís Filipe Cristóvão
- - [http://luisfilipecristovao.blogspot.pt](http://luisfilipecristovao.blogspot.pt)
- - date_published: 2024-07-04T06:39:39+00:00
-
- ## mainieri's
- - [http://mainieri.blogspot.pt](http://mainieri.blogspot.pt)
- - date_published: 2024-06-28T06:06:36+00:00
-
- ## MAR ARÁVEL
- - [http://mararavel.blogspot.pt](http://mararavel.blogspot.pt)
- - date_published: 2024-07-02T10:07:58+00:00
-
- ## itinerário
- - [http://marciaslmaia.blogspot.pt](http://marciaslmaia.blogspot.pt)
- - date_published: 2024-03-05T13:12:38+00:00
-
- ## Literal-mente
- - [http://mariapaulaalvim.blogspot.pt](http://mariapaulaalvim.blogspot.pt)
- - date_published: 2024-03-22T00:41:24+00:00
-
- ## Milonga
- - [http://milongalamuria.blogspot.pt](http://milongalamuria.blogspot.pt)
- - date_published: 2024-03-21T01:36:51+00:00
-
- ## Praia de Bote
- - [http://mindelosempre.blogspot.pt](http://mindelosempre.blogspot.pt)
- - date_published: 2024-07-05T21:18:08+00:00
-
- ## Fases da Lua
- - [http://minervaisa.blogspot.pt](http://minervaisa.blogspot.pt)
- - date_published: 2024-04-12T05:14:27+00:00
-
- ## Rascunhos...
- - [http://mirtesrodrigues.blogspot.pt](http://mirtesrodrigues.blogspot.pt)
- - date_published: 2024-06-25T07:43:50+00:00
-
- ## Momentos Arrepiados Pelo Vento
- - [http://momentosarrepiadospelovento.blogspot.pt](http://momentosarrepiadospelovento.blogspot.pt)
- - date_published: 2015-08-24T00:00:00+00:00
-
- ## monstros antigos
- - [http://monstrosantigos.blogspot.pt](http://monstrosantigos.blogspot.pt)
- - date_published: 2024-06-22T05:30:26+00:00
-
- ## Morcegos & olhimancos
- - [http://morcegoseolhimancos.blogspot.pt](http://morcegoseolhimancos.blogspot.pt)
- - date_published: 2024-07-11T22:57:50+00:00
-
- ## Das páginas rasuradas...
- - [http://mrodriguesssalles.blogspot.pt](http://mrodriguesssalles.blogspot.pt)
- - date_published: 2024-02-08T11:30:43+00:00
-
- ## Mundo Pessoa
- - [https://mundopessoa.blogspot.pt](https://mundopessoa.blogspot.pt)
- - date_published: 2024-03-05T08:02:12+00:00
-
- ## Sangra...
- - [http://naverve.blogspot.pt](http://naverve.blogspot.pt)
- - date_published: 2024-03-13T11:22:18+00:00
-
- ## a poema
- - [http://ninaarizzi.blogspot.pt](http://ninaarizzi.blogspot.pt)
- - date_published: 2024-07-04T06:02:42+00:00
-
- ## no rastro da poesia...
- - [http://norastrodapoesia.blogspot.pt](http://norastrodapoesia.blogspot.pt)
- - date_published: 2024-03-13T02:57:15+00:00
-
- ## o brilho o mar  o bálsamo
- - [http://obrilhomar.blogspot.pt](http://obrilhomar.blogspot.pt)
- - date_published: 2024-02-20T01:32:05+00:00
-
- ## Olhares(in)Vãos
- - [http://olharemversoseinversos.blogspot.pt](http://olharemversoseinversos.blogspot.pt)
- - date_published: 2024-05-24T19:40:35+00:00
-
- ## Ortografia do olhar
- - [http://ortografiadoolhar.blogspot.pt](http://ortografiadoolhar.blogspot.pt)
- - date_published: 2024-07-12T16:46:48+00:00
-
- ## Caleidoscópios
- - [http://oscaleidoscopios.blogspot.pt](http://oscaleidoscopios.blogspot.pt)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## desenhar palavras
- - [http://pensacontra.blogspot.pt](http://pensacontra.blogspot.pt)
- - date_published: 2024-03-13T17:17:38+00:00
-
- ## Poems Found in Translation
- - [http://poemsintranslation.blogspot.pt](http://poemsintranslation.blogspot.pt)
- - date_published: 2024-07-11T22:49:55+00:00
-
- ## Poesia Veneno Antimonotonia
- - [http://poesiaantimonotonia.blogspot.pt](http://poesiaantimonotonia.blogspot.pt)
- - date_published: 2024-03-13T11:11:32+00:00
-
- ## Poesia: Falsidade Ideológica
- - [http://poesiafalsidadeideologica.blogspot.pt](http://poesiafalsidadeideologica.blogspot.pt)
- - date_published: 2024-03-05T07:13:39+00:00
-
- ## POESIA RETRÔ
- - [http://poesiaretro.blogspot.pt](http://poesiaretro.blogspot.pt)
- - date_published: 2024-07-11T22:50:50+00:00
-
- ## "POESIAS SOLTAS"
- - [http://poesiasecasos.blogspot.pt](http://poesiasecasos.blogspot.pt)
- - date_published: 2024-06-23T14:18:15+00:00
-
- ## Poesias Misticas e Esotericas
- - [http://poesiasmisticaseesotericas.blogspot.pt](http://poesiasmisticaseesotericas.blogspot.pt)
- - date_published: 2024-07-04T05:31:52+00:00
-
- ## Blogger
- - [http://poeticaria-ensaiodaspalavras.blogspot.pt](http://poeticaria-ensaiodaspalavras.blogspot.pt)
- - date_published: 2024-07-12T21:03:48.052085+00:00
-
- ## Blogger
- - [http://portaparalugarnenhum.blogspot.pt](http://portaparalugarnenhum.blogspot.pt)
- - date_published: 2024-07-12T20:59:43.338674+00:00
-
- ## Tudo o que eu puder ouvir
- - [http://proginprogress.blogspot.pt](http://proginprogress.blogspot.pt)
- - date_published: 2024-07-11T22:47:14+00:00
-
- ## Prosa & Glosa
- - [http://prosaeglosa.blogspot.pt](http://prosaeglosa.blogspot.pt)
- - date_published: 2024-07-11T18:32:46+00:00
-
- ## Quase Poemas
- - [http://quasepoemas.blogspot.pt](http://quasepoemas.blogspot.pt)
- - date_published: 2024-07-06T20:43:58+00:00
-
- ## Restos de Colecção
- - [http://restosdecoleccao.blogspot.pt](http://restosdecoleccao.blogspot.pt)
- - date_published: 2024-07-11T22:56:04+00:00
-
- ## ROSE  DIAS / POEMAS/ TEXTOS
- - [http://rosejd.blogspot.pt](http://rosejd.blogspot.pt)
- - date_published: 2024-03-19T09:18:46+00:00
-
- ## Ostrzeżenie dotyczące treści o charakterze kontrowersyjnym
- - [http://ru666.blogspot.pt](http://ru666.blogspot.pt)
- - date_published: 2024-07-12T20:57:32.987771+00:00
-
- ## Sentidos e Direções
- - [http://sentedire.blogspot.pt](http://sentedire.blogspot.pt)
- - date_published: 2024-07-01T10:37:24+00:00
-
- ## simulacropoetico
- - [http://simulacropoetico.blogspot.pt](http://simulacropoetico.blogspot.pt)
- - date_published: 2024-03-08T12:54:43+00:00
-
- ## Poetas Vivos
- - [http://sociopoetasvivos.blogspot.pt](http://sociopoetasvivos.blogspot.pt)
- - date_published: 2024-03-19T10:52:11+00:00
-
- ## Sopa de Poesia
- - [http://sopadepoesia.blogspot.pt](http://sopadepoesia.blogspot.pt)
- - date_published: 2024-07-03T03:40:17+00:00
-
- ## SPIRITUALS DO ORVALHO
- - [http://spiritualsdoorvalho.blogspot.pt](http://spiritualsdoorvalho.blogspot.pt)
- - date_published: 2024-07-03T01:58:57+00:00
-
- ## Volúveis.Voláteis
- - [http://tudoqpuderbyblabla.blogspot.pt](http://tudoqpuderbyblabla.blogspot.pt)
- - date_published: 2024-07-01T10:44:27+00:00
-
- ## Vale das Sombras
- - [http://valedassombras.blogspot.pt](http://valedassombras.blogspot.pt)
- - date_published: 2024-03-13T04:52:23+00:00
-
- ## poesia de vieira calado
- - [http://vieiracalado-poesia.blogspot.pt](http://vieiracalado-poesia.blogspot.pt)
- - date_published: 2024-05-13T10:03:46+00:00
-
- ## Gotas de Poesias e Outras Essências
- - [http://vita-gotasdepoesia.blogspot.pt](http://vita-gotasdepoesia.blogspot.pt)
- - date_published: 2024-07-04T10:18:32+00:00
-
- ## Cavaleiro Vilão
- - [http://vivaosabout.blogspot.pt](http://vivaosabout.blogspot.pt)
- - date_published: 2024-07-04T06:39:38+00:00
-
- ## BMC Software
- - [https://www.bmcsoftware.pt](https://www.bmcsoftware.pt)
- - date_published: 2024-06-22T09:06:53+00:00
-
- ## Biblioteca Nacional de Portugal
- - [http://www.bn.pt](http://www.bn.pt)
- - date_published: 2024-07-12T20:55:37+00:00
-
- ## Boavista Golf & Spa - Lagos, Algarve
- - [https://www.boavistaresort.pt](https://www.boavistaresort.pt)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Eletrodomésticos Bosch: conheça a qualidade, confiança e precisão.
- - [https://www.bosch-home.pt](https://www.bosch-home.pt)
- - date_published: 2024-06-16T21:35:29.209317+00:00
-
- ## Homepage - Braver Group
- - [https://braver.pt](https://braver.pt)
- - date_published: 2023-12-04T00:00:00+00:00
-
- ## Apoio Brother
- - [https://apoio.brother.pt](https://apoio.brother.pt)
- - date_published: 2024-06-17T21:02:53.164435+00:00
-
  ## Brother At Your Side
  - [https://atyourside.brother.pt](https://atyourside.brother.pt)
  - date_published: 2024-06-17T21:02:52.231028+00:00
@@ -1125,6 +417,10 @@
  ## Trailers, Livestreams e Entrevistas de Videojogos | Gamereactor Portugal
  - [https://www.gamereactor.pt](https://www.gamereactor.pt)
  - date_published: 2024-07-17T13:05:42.461830+00:00
+
+ ## Descubra os melhores apps para expandir sua empresa
+ - [https://www.getapp.pt](https://www.getapp.pt)
+ - date_published: 2024-08-08T18:07:22.344794+00:00
 
  ## Fotografias de stock, imagens criativas e vetores royalty-free | Imagens de notícias, moda e entretenimento - Getty Images
  - [https://www.gettyimages.pt](https://www.gettyimages.pt)
@@ -1574,6 +870,10 @@
  ## Capas - Jornal 'Nascer do Sol' e 'i'
  - [https://capas.newsplex.pt](https://capas.newsplex.pt)
  - date_published: 2024-07-12T20:31:16.736295+00:00
+
+ ## Nickelodeon Portugal
+ - [https://www.nickelodeon.pt](https://www.nickelodeon.pt)
+ - date_published: 2024-08-08T00:00:00+00:00
 
  ## Site oficial da Nintendo Ibérica
  - [https://www.nintendo.pt](https://www.nintendo.pt)
@@ -2794,6 +2094,10 @@
  - [https://www.dolphin.pub](https://www.dolphin.pub)
  - date_published: 2024-03-17T00:00:00+00:00
 
+ ## Doug Jones
+ - [https://doug.pub](https://doug.pub)
+ - date_published: 2024-08-01T19:07:24+00:00
+
  ## Encyclopedia MDPI | Scholarly Community
  - [https://encyclopedia.pub](https://encyclopedia.pub)
  - date_published: 2024-04-09T00:00:00+00:00
@@ -3077,6 +2381,10 @@
  ## Packlist
  - [https://xdcc2.jav.pw](https://xdcc2.jav.pw)
  - date_published: 2024-06-23T17:51:26.331403+00:00
+
+ ## ~jscd
+ - [https://jscd.pw](https://jscd.pw)
+ - date_published: 2024-03-09T19:49:44+00:00
 
  ## Justus Perlwitz
  - [https://www.justus.pw](https://www.justus.pw)
@@ -3629,6 +2937,10 @@
  - [https://guif.re](https://guif.re)
  - date_published: 2024-04-06T13:05:26+00:00
 
+ ## Welcome at habedieehre!
+ - [https://www.habedieeh.re](https://www.habedieeh.re)
+ - date_published: 2024-03-29T10:09:31+00:00
+
  ## loser gospel
  - [https://hachiwa.re](https://hachiwa.re)
  - date_published: 2024-07-21T04:32:19.417360+00:00
@@ -3644,6 +2956,10 @@
  ## InfoLibre::Linux
  - [https://infolib.re](https://infolib.re)
  - date_published: 2024-07-08T10:56:25.060551+00:00
+
+ ## Jachère
+ - [https://jache.re](https://jache.re)
+ - date_published: 2024-08-06T10:36:48+00:00
 
  ## Jeep® SUVs & Crossovers - Site officiel de Jeep® Réunion
  - [http://www.jeep.re](http://www.jeep.re)
@@ -4027,4 +3343,693 @@
  ## Award-winning speakers in premium design | Transparent
  - [https://transpa.rent](https://transpa.rent)
  - date_published: 2024-07-24T08:00:27.043261+00:00
+
+ ## UTexas.Rent – Austin's Best Housing for Students
+ - [https://utexas.rent](https://utexas.rent)
+ - date_published: 2024-08-06T07:14:33.470536+00:00
+
+ ## ABM Report | Comprehensive Reporting on the Account Based Marketing
+ - [https://abm.report](https://abm.report)
+ - date_published: 2023-11-20T10:40:29+00:00
+
+ ## Trust Center
+ - [https://trust.anduin.report](https://trust.anduin.report)
+ - date_published: 2024-07-15T06:21:56.351351+00:00
+
+ ## api.report - Domain Name For Sale | Dan.com
+ - [http://api.report](http://api.report)
+ - date_published: 2024-06-29T06:00:42.620673+00:00
+
+ ## The Brutalist Report
+ - [https://brutalist.report](https://brutalist.report)
+ - date_published: 2024-04-06T00:00:00+00:00
+ - tags: ['brutalist', 'news headlines']
+
+ ## Reporting API Demos
+ - [https://canhas.report](https://canhas.report)
+ - date_published: 2024-06-15T15:52:48.265690+00:00
+
+ ## SpaceNews
+ - [https://cislunar.report](https://cislunar.report)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## crank.report
+ - [https://crank.report](https://crank.report)
+ - date_published: 2024-05-09T08:21:18.260212+00:00
+
+ ## The Earthbound Report – Good lives on our one planet
+ - [https://earthbound.report](https://earthbound.report)
+ - date_published: 2023-10-25T22:35:16.577499+00:00
+
+ ## FCC Report - Databases of FCC Filings
+ - [https://fcc.report](https://fcc.report)
+ - date_published: 2024-06-18T17:37:59.743206+00:00
+
+ ## Business insight & educational resources to governance, risk and compliance professionals
+ - [https://gdpr.report](https://gdpr.report)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Welcome to GFW.Report
+ - [https://gfw.report](https://gfw.report)
+ - date_published: 2023-10-25T22:35:18.341709+00:00
+
+ ## The Jacob Wolf Report
+ - [https://www.jacobwolf.report](https://www.jacobwolf.report)
+ - date_published: 2023-10-25T22:35:24.763431+00:00
+
+ ## M32 CONNECT
+ - [https://m32.report](https://m32.report)
+ - date_published: 2024-06-07T02:26:51+00:00
+
+ ## Log In ‹ M32 Knowledge Base — WordPress
+ - [https://support.m32.report](https://support.m32.report)
+ - date_published: 2024-06-25T18:10:00.934161+00:00
+
+ ## OMB Form Search
+ - [https://omb.report](https://omb.report)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## PFAS.report
+ - [https://pfas.report](https://pfas.report)
+ - date_published: 2023-10-25T22:35:27.408855+00:00
+
+ ## The tools your team need to combat brand impersonation - phish.report
+ - [https://phish.report](https://phish.report)
+ - date_published: 2024-05-07T23:37:58.921279+00:00
+
+ ## I mapped almost every USA traffic death in the 21st century
+ - [https://roadway.report](https://roadway.report)
+ - date_published: 2024-07-19T23:16:46+00:00
+
+ ## sec.report
+ - [https://sec.report](https://sec.report)
+ - date_published: 2024-06-29T21:22:49.303710+00:00
+
+ ## SpeakUp
+ - [https://beyondgravity.speakup.report](https://beyondgravity.speakup.report)
+ - date_published: 2024-07-26T05:22:30.526763+00:00
+
+ ## SpeakUp
+ - [https://eutelsat.speakup.report](https://eutelsat.speakup.report)
+ - date_published: 2024-06-28T08:32:31+00:00
+
+ ## SpeakUp
+ - [https://nexans.speakup.report](https://nexans.speakup.report)
+ - date_published: 2024-06-28T08:32:31+00:00
+
+ ## SpeakUp
+ - [https://pia.speakup.report](https://pia.speakup.report)
+ - date_published: 2024-06-25T12:20:44+00:00
+
+ ## The Mobile Report
+ - [https://tmo.report](https://tmo.report)
+ - date_published: 2024-04-15T21:17:21.538797+00:00
+ - tags: ['mobile news', 'tech news']
+
+ ## US Patent and Tradmark Search
+ - [https://uspto.report](https://uspto.report)
+ - date_published: 2023-10-25T22:35:29.022272+00:00
+ - tags: ['patents']
+
+ ## Plausible · Web analytics
+ - [https://ens.v3x.report](https://ens.v3x.report)
+ - date_published: 2024-08-06T07:38:33.462341+00:00
+
+ ## We Think | WeThink is the newest name in UK opinion polling
+ - [https://wethink.report](https://wethink.report)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home
+ - [https://worldhappiness.report](https://worldhappiness.report)
+ - date_published: 2024-06-12T12:48:56.146925+00:00
+
+ ## 1.1 About | Blink
+ - [https://docs.blink.rest](https://docs.blink.rest)
+ - date_published: 2024-06-19T22:36:27.572580+00:00
+
+ ## index - powered by h5ai v0.30.0 (https://larsjung.de/h5ai/)
+ - [https://derg.rest](https://derg.rest)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Grant Forrest
+ - [https://gfor.rest](https://gfor.rest)
+ - date_published: 2024-07-22T17:11:18.552308+00:00
+
+ ## Grim Green Forest
+ - [https://grimgreenfo.rest](https://grimgreenfo.rest)
+ - date_published: 2024-06-15T19:44:10.945791+00:00
+
+ ## Insomnia
+ - [https://app.insomnia.rest](https://app.insomnia.rest)
+ - date_published: 2024-06-22T06:28:00.529218+00:00
+
+ ## Insomnia Docs
+ - [https://docs.insomnia.rest](https://docs.insomnia.rest)
+ - date_published: 2024-06-22T06:27:59.318171+00:00
+
+ ## The Collaborative API Development Platform
+ - [https://insomnia.rest](https://insomnia.rest)
+ - date_published: 2024-05-04T14:46:22.509294+00:00
+
+ ## Koios API Documentation
+ - [https://api.koios.rest](https://api.koios.rest)
+ - date_published: 2024-05-11T01:59:02+00:00
+
+ ## fade
+ - [https://fade.nya.rest](https://fade.nya.rest)
+ - date_published: 2023-10-25T15:28:37+00:00
+
+ ## Sheet API | Turn your Sheets into APIs
+ - [https://sheetapi.rest](https://sheetapi.rest)
+ - date_published: 2024-08-07T06:20:38.849223+00:00
+
+ ## Unplugged | Digital Detox Cabins in Nature
+ - [https://unplugged.rest](https://unplugged.rest)
+ - date_published: 2024-06-21T11:09:05.447737+00:00
+
+ ## 🎙Bitcoin.Review Podcast
+ - [https://bitcoin.review](https://bitcoin.review)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Color.review - Colors that look and work great for everyone
+ - [https://color.review](https://color.review)
+ - date_published: 2024-07-18T15:24:51.937710+00:00
+
+ ## Hausdrache.review – Produkttests, Rezepte und Basteleien aus dem Alltag eines Hausdrachens
+ - [https://hausdrache.review](https://hausdrache.review)
+ - date_published: 2024-08-08T19:33:50.749172+00:00
+
+ ## the html review
+ - [https://thehtml.review](https://thehtml.review)
+ - date_published: 2023-10-25T22:35:30.506682+00:00
+
+ ## Wealth & Poverty Review
+ - [http://wealthandpoverty.review](http://wealthandpoverty.review)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Accent | Accent
+ - [https://www.accent.reviews](https://www.accent.reviews)
+ - date_published: 2023-12-01T15:42:02+00:00
+
+ ## bagel reviews
+ - [https://bagel.reviews](https://bagel.reviews)
+ - date_published: 2024-07-09T19:00:57.768554+00:00
+
+ ## Book Marks: The book review aggregator
+ - [https://bookmarks.reviews](https://bookmarks.reviews)
+ - date_published: 2024-03-19T14:12:19+00:00
+ - tags: ['book reviews']
+
+ ## Best Online Casinos Canada | Top Sites in July 2024
+ - [https://casinoscanada.reviews](https://casinoscanada.reviews)
+ - date_published: 2024-07-17T04:40:21.809167+00:00
+
+ ## Get More 5-Star iTunes Reviews
+ - [http://getpodcast.reviews](http://getpodcast.reviews)
+ - date_published: 2024-06-22T23:30:03.708706+00:00
+
+ ## Mine My Reviews - Review mining made easy | Senja
+ - [https://www.minemy.reviews](https://www.minemy.reviews)
+ - date_published: 2024-06-17T01:28:38.959456+00:00
+
+ ## Paul Moore
+ - [https://paul.reviews](https://paul.reviews)
+ - date_published: 2024-05-19T02:40:13.298565+00:00
+
+ ## N.Rich | The Most Agile Account-Based GTM Platform
+ - [https://n.rich](https://n.rich)
+ - date_published: 2024-05-06T17:49:20.686145+00:00
+
+ ## RICOH360 Blog
+ - [https://www.thetalab.ricoh](https://www.thetalab.ricoh)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## ask.rip - A safe place for anonymous questions
+ - [https://ask.rip](https://ask.rip)
+ - date_published: 2024-07-02T20:17:30.856958+00:00
+
+ ## Home - chompie at the bits
+ - [https://chompie.rip](https://chompie.rip)
+ - date_published: 2023-10-25T22:35:32.464203+00:00
+
+ ## Computers Are Bad
+ - [https://computer.rip](https://computer.rip)
+ - date_published: 2023-10-25T22:35:34.176138+00:00
+
+ ## Conc(re)te
+ - [http://concrete.rip](http://concrete.rip)
+ - date_published: 2024-07-13T15:49:47.473169+00:00
+
+ ## DRiP
+ - [https://d.rip](https://d.rip)
+ - date_published: 2024-06-22T23:22:47.150892+00:00
+
+ ## highquality.rip
+ - [https://highquality.rip](https://highquality.rip)
+ - date_published: 2018-10-07T22:33:10+00:00
+
+ ## RIP HTTP
+ - [http://http.rip](http://http.rip)
+ - date_published: 2023-10-25T08:35:34.775189+00:00
+
+ ## home - evergreen
+ - [https://itsevergreen.rip](https://itsevergreen.rip)
+ - date_published: 2022-05-09T20:28:06+00:00
+
+ ## evergreen
+ - [https://shop.itsevergreen.rip](https://shop.itsevergreen.rip)
+ - date_published: 2023-12-22T00:00:00+00:00
+
+ ## A new home
+ - [https://krautchan.rip](https://krautchan.rip)
+ - date_published: 2022-11-03T09:21:14+00:00
+
+ ## NIST Computer Security Resource Center | CSRC
+ - [https://csrc.nist.rip](https://csrc.nist.rip)
+ - date_published: 2024-05-08T07:04:07.308799+00:00
+
+ ## River dot rip
+ - [https://river.rip](https://river.rip)
+ - date_published: 2024-05-13T00:43:21+00:00
+
+ ## 468 720 (+1 250) військових втратила російська армія станом на сьогодні - 30 квітня 2024
+ - [https://russianwarship.rip](https://russianwarship.rip)
+ - date_published: 2024-05-01T05:43:30.430573+00:00
+
+ ## Scribe
+ - [https://scribe.rip](https://scribe.rip)
+ - date_published: 2023-10-25T22:35:39.461506+00:00
+
+ ## Homepage
+ - [https://thread.seam.rip](https://thread.seam.rip)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## ARISE, YE SKELETON KING!
+ - [https://skeletonking.rip](https://skeletonking.rip)
+ - date_published: 2024-08-05T16:33:19.498048+00:00
+
+ ## 🔥 welcome to the house of spiders 🔥
+ - [https://spiders.rip](https://spiders.rip)
+ - date_published: 2024-02-15T16:22:01+00:00
+
+ ## Sunnyside Reapers - Sunnyside Reapers
+ - [https://ssr.rip](https://ssr.rip)
+ - date_published: 2024-05-06T21:15:59.981129+00:00
+
+ ## Tomb Log
+ - [https://tomblog.rip](https://tomblog.rip)
+ - date_published: 2016-01-01T00:00:00+00:00
+
+ ## $WHATLAB.RIP$
+ - [https://whatlab.rip](https://whatlab.rip)
+ - date_published: 2023-02-28T15:48:05+00:00
+
+ ## _ is a Wyvern
+ - [https://is-a.wyvern.rip](https://is-a.wyvern.rip)
+ - date_published: 2024-07-10T08:34:56.262024+00:00
+
+ ## 3M Science. Applied to Life.™ | 3M Romania
+ - [https://www.3m.com.ro](https://www.3m.com.ro)
+ - date_published: 2024-08-06T10:38:55.975916+00:00
+
+ ## Airbnb | Case de vacanță, cabane, case pe plajă și multe altele
+ - [https://airbnb.com.ro](https://airbnb.com.ro)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Dyson Romania | Site oficial
+ - [https://www.dyson.com.ro](https://www.dyson.com.ro)
+ - date_published: 2024-07-07T01:57:06.767510+00:00
+
+ ## Site-ul oficial Fiat Romania - Mașini noi, promoții și mobilitate
+ - [https://www.fiat.com.ro](https://www.fiat.com.ro)
+ - date_published: 2024-06-07T15:28:49+00:00
+
+ ## pocketbook
+ - [https://pocketbook.com.ro](https://pocketbook.com.ro)
+ - date_published: 2024-07-20T16:13:11.919691+00:00
+
+ ## Constructor Website Gratuit — Soluția pentru Crearea unui Website — uCoz
+ - [https://www.ucoz.com.ro](https://www.ucoz.com.ro)
+ - date_published: 2024-07-13T21:02:44.310533+00:00
+
+ ## ADZ-Online - Startseite
+ - [https://adz.ro](https://adz.ro)
+ - date_published: 2024-07-12T03:32:28.882636+00:00
+
+ ## alexand.ro
+ - [https://alexand.ro](https://alexand.ro)
+ - date_published: 2020-10-13T08:47:19+00:00
+
+ ## Alexandru Mărășteanu - Inginer Software
+ - [http://alexei.ro](http://alexei.ro)
+ - date_published: 2024-07-16T17:01:25.970975+00:00
+
+ ## Home - Site oficial Alfa Romeo
+ - [https://www.alfaromeo.ro](https://www.alfaromeo.ro)
+ - date_published: 2024-06-18T13:22:38+00:00
+
+ ## Alvaro
+ - [https://alva.ro](https://alva.ro)
+ - date_published: 2023-12-20T20:48:38+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://anpc.ro](https://anpc.ro)
+ - date_published: 2024-05-07T10:11:22.137888+00:00
+
+ ## Despre noi
+ - [https://reclamatiisal.anpc.ro](https://reclamatiisal.anpc.ro)
+ - date_published: 2024-06-29T09:05:39.663508+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://sesizari1.anpc.ro](https://sesizari1.anpc.ro)
+ - date_published: 2024-06-29T09:05:46.014996+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://sesizari.anpc.ro](https://sesizari.anpc.ro)
+ - date_published: 2024-06-29T09:05:42.700173+00:00
+
+ ## A.N.S.V.S.A.
+ - [http://www.ansvsa.ro](http://www.ansvsa.ro)
+ - date_published: 2024-07-13T17:43:50.793510+00:00
+
+ ## Supravegherea spațiului public românesc
+ - [https://cctv.apti.ro](https://cctv.apti.ro)
+ - date_published: 2023-07-29T12:48:55+00:00
+
+ ## Asociația pentru Tehnologie și Internet | Susținem o lume digitală liberă prin promovarea vieții private, libertății de exprimare și a tehnologiilor deschise pe Internet.
+ - [https://apti.ro](https://apti.ro)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.arnia.ro](https://www.arnia.ro)
+ - date_published: 2024-07-10T08:52:46+00:00
+
+ ## ARTmania Festival – Transylvania – Sibiu
+ - [https://www.artmaniafestival.ro](https://www.artmaniafestival.ro)
+ - date_published: 2024-06-19T14:56:10.589833+00:00
+
+ ## Antena Sport
+ - [https://as.ro](https://as.ro)
+ - date_published: 2024-07-12T15:22:46+00:00
+
+ ## Home
+ - [https://www.fabiz.ase.ro](https://www.fabiz.ase.ro)
+ - date_published: 2024-06-16T04:06:22.529341+00:00
+
+ ## Asociația P.A.T.R.U.
+ - [http://asociatiapatru.ro](http://asociatiapatru.ro)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Audi România » Aflați detaliile despre modelele disponibile și ofertele aferente
+ - [http://www.audi.ro](http://www.audi.ro)
+ - date_published: 2024-07-19T22:43:50.556517+00:00
+
+ ## Știri auto, teste auto, mașini noi, teste comparative, accesorii auto
+ - [https://www.auto-bild.ro](https://www.auto-bild.ro)
+ - date_published: 2024-07-24T21:32:06.909545+00:00
+
+ ## Programul de afiliere autoDNA
+ - [https://afilio.autodna.ro](https://afilio.autodna.ro)
+ - date_published: 2024-07-13T19:19:44.847509+00:00
+
+ ## Centrul de ajutor autoDNA
+ - [https://support.autodna.ro](https://support.autodna.ro)
+ - date_published: 2024-07-13T19:19:16.865188+00:00
+
+ ## Faceți cunoștință cu serviciul autoDNA
+ - [https://autodna.ro](https://autodna.ro)
+ - date_published: 2024-05-11T08:19:31.032065+00:00
+
+ ## Awesome Projects
+ - [https://www.awesomeprojects.ro](https://www.awesomeprojects.ro)
+ - date_published: 2024-06-16T14:56:45.293655+00:00
+
+ ## Bacania Veche - Bacania Veche este o poveste despre gusturi nealterate, de la tara, despre arome autentice si mancare sanatoasa. Descopera pravalia si bistro Bacania Veche.
+ - [https://bacaniaveche.ro](https://bacaniaveche.ro)
+ - date_published: 2024-07-14T14:47:49.498396+00:00
+
+ ## Banca Transilvania. Bank for Entrepreneurs
+ - [https://en.bancatransilvania.ro](https://en.bancatransilvania.ro)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Owlet BBC BASIC Editor
+ - [https://bbcmic.ro](https://bbcmic.ro)
+ - date_published: 2024-01-17T05:11:30.033411+00:00
+
+ ## VirtualBeeb - BBC Micro 3D simulation
+ - [https://virtual.bbcmic.ro](https://virtual.bbcmic.ro)
+ - date_published: 2021-12-01T00:00:00+00:00
+
+ ## Biblioteca Centrală Universitară "Lucian Blaga" Cluj-Napoca |
+ - [http://www.bcucluj.ro](http://www.bcucluj.ro)
+ - date_published: 2024-06-23T08:14:30+00:00
+
+ ## Horus303 > Daftar Horus303 Situs Slot Gacor Tingkat Kemenangan Tertinggi
+ - [https://horus303.bercon.ro](https://horus303.bercon.ro)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Sboku99 > Daftar Sboku99 Situs Slot Gacor Tingkat Kemenangan Tertinggi
+ - [https://sboku99.bercon.ro](https://sboku99.bercon.ro)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Sukses303 > Daftar Sukses303 Situs Slot Gacor Tingkat Kemenangan Tertinggi
+ - [https://sukses303.bercon.ro](https://sukses303.bercon.ro)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## BEREA OFICIALĂ A REDACȚIEI TIMES NEW ROMAN
+ - [https://bereatnr.ro](https://bereatnr.ro)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Bitdefender - Lider global software de securitate cibernetică
+ - [https://www.bitdefender.ro](https://www.bitdefender.ro)
+ - date_published: 2024-07-20T02:26:46.575962+00:00
+
+ ## Curse cu mașina sau cu autobuzul la prețuri mici. | BlaBlaCar
+ - [https://www.blablacar.ro](https://www.blablacar.ro)
+ - date_published: 2024-06-15T01:00:52.366419+00:00
+
+ ## python-catalin
+ - [http://python-catalin.blogspot.ro](http://python-catalin.blogspot.ro)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## TOP 20 Casino Online în 2024 - Cazinouri Online Noi Romania
+ - [https://www.bogdancazino.ro](https://www.bogdancazino.ro)
+ - date_published: 2024-06-19T12:14:58+00:00
+
+ ## Electrocasnice Bosch: experimentează sustenabilitatea, calitatea și precizia.
+ - [https://www.bosch-home.ro](https://www.bosch-home.ro)
+ - date_published: 2024-06-16T21:35:51.747457+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.ro](https://atyourside.brother.ro)
+ - date_published: 2024-06-17T21:02:07.009141+00:00
+
+ ## Imprimante pentru birou | Soluții pentru afaceri | Brother
+ - [https://www.brother.ro](https://www.brother.ro)
+ - date_published: 2024-05-02T11:24:48.335638+00:00
+
+ ## Muzeul Naţional Brukenthal
+ - [http://www.brukenthalmuseum.ro](http://www.brukenthalmuseum.ro)
+ - date_published: 2024-06-24T09:50:15+00:00
+
+ ## bruno claro / há boatos
+ - [https://brunocla.ro](https://brunocla.ro)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Capodopere
+ - [http://www.capodopere2019.ro](http://www.capodopere2019.ro)
+ - date_published: 2024-08-06T19:19:24+00:00
+
+ ## Decathlon Recrutare | Decathlon – Cariere pentru oameni activi!
+ - [https://cariere-decathlon.ro](https://cariere-decathlon.ro)
+ - date_published: 2024-06-15T20:23:14.977925+00:00
+
+ ## Cărțile pe față - Prima pagină
+ - [https://cartilepefata.ro](https://cartilepefata.ro)
+ - date_published: 2024-07-14T08:43:56.368507+00:00
+
+ ## Top 45 Cazinouri Online România 2024 ᐈ Lista Cazinouri Online
+ - [https://casinohex.ro](https://casinohex.ro)
+ - date_published: 2024-07-16T19:15:31+00:00
+
+ ## Chaox is based
+ - [https://chaox.ro](https://chaox.ro)
+ - date_published: 2024-01-14T09:29:46+00:00
+
+ ## Ty3r0X's Lair
+ - [https://ty3r0x.chaox.ro](https://ty3r0x.chaox.ro)
+ - date_published: 2023-04-01T14:58:49+00:00
+
+ ## Întreţinerea constructor - Citroen
+ - [https://programare-service-online.citroen.ro](https://programare-service-online.citroen.ro)
+ - date_published: 2024-05-10T04:43:02.725141+00:00
+
+ ## Citroën România | Automobile & Autoutilitare
+ - [https://citroen.ro](https://citroen.ro)
+ - date_published: 2023-12-11T16:01:02.901260+00:00
+
+ ## CityPodcast.ro  | Prima Retea de Podcast-uri din Romania
+ - [https://www.citypodcast.ro](https://www.citypodcast.ro)
+ - date_published: 2024-07-09T06:43:48.990309+00:00
+
+ ## Gazeta SF – Science fiction pe pâine!
+ - [http://fanzin.clubsf.ro](http://fanzin.clubsf.ro)
+ - date_published: 2024-07-04T13:32:28.857168+00:00
+
+ ## CNCAN » CNCAN
+ - [http://www.cncan.ro](http://www.cncan.ro)
+ - date_published: 2024-06-30T23:08:14.531727+00:00
+
+ ## Angajează freelanceri și găsește proiecte freelance în mediul online
+ - [https://www.freelancer.co.ro](https://www.freelancer.co.ro)
+ - date_published: 2024-06-16T12:00:08.625861+00:00
+
+ ## Your IT Conference - Codecamp
+ - [https://codecamp.ro](https://codecamp.ro)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.ro](https://colorprinter.ro)
+ - date_published: 2024-02-04T18:52:48+00:00
+
+ ## HOME
+ - [http://computergames.ro](http://computergames.ro)
+ - date_published: 2024-06-23T17:44:41+00:00
+
+ ## Verificare Firme Online - Lista Firme din Romania | Confidas
+ - [http://www.confidas.ro](http://www.confidas.ro)
+ - date_published: 2024-07-13T17:25:57.418897+00:00
+
+ ## CORE Design - Agenție de web development creativ si design digital, Romania
+ - [https://www.coredesign.ro](https://www.coredesign.ro)
+ - date_published: 2024-06-28T05:35:17+00:00
+
+ ## Crama Rasova
+ - [https://www.cramarasova.ro](https://www.cramarasova.ro)
+ - date_published: 2024-06-16T04:04:40.171027+00:00
+
+ ## CrazyGames - Jocuri gratuite online pe CrazyGames.ro
+ - [https://crazygames.ro](https://crazygames.ro)
+ - date_published: 2024-05-08T06:50:51.209708+00:00
+
+ ## Creative Broadcast
+ - [https://creativebroadcast.ro](https://creativebroadcast.ro)
+ - date_published: 2022-06-04T17:06:10+00:00
+
+ ## Colțul de internet al lui ThinkRoot
+ - [https://crism.ro](https://crism.ro)
+ - date_published: 2024-08-06T06:15:09+00:00
+
+ ## Cristina Chipurici – Spun povești care merită învățate
+ - [https://cristinachipurici.ro](https://cristinachipurici.ro)
+ - date_published: 2024-04-03T06:29:44.982769+00:00
+ - tags: ['personal']
+
+ ## Cristina Oțel
+ - [https://www.cristinaotel.ro](https://www.cristinaotel.ro)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## crypto.ro - Stiri despre Bitcoin si alte criptomonede
+ - [http://crypto.ro](http://crypto.ro)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Cryptonita.ro - Sursa Ta de Crypto Knowledge | Stiri Criptomonede | Pret & Curs Monede Virtuale
+ - [https://cryptonita.ro](https://cryptonita.ro)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Redactează un CV de succes - Creator de CV-uri (gratuit)
+ - [https://cvapp.ro](https://cvapp.ro)
+ - date_published: 2024-05-06T09:21:30.799354+00:00
+
+ ## CVapp.ro
+ - [https://help.cvapp.ro](https://help.cvapp.ro)
+ - date_published: 2024-06-22T22:18:43.955519+00:00
+
+ ## Welcome · Dan Cătălin Burzo
+ - [https://danburzo.ro](https://danburzo.ro)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Darius Lupșa
+ - [https://dariuslupsa.ro](https://dariuslupsa.ro)
+ - date_published: 2023-09-24T16:42:12+00:00
+
+ ## RESPONSABILITATE SOCIALĂ DECATHLON ROMÂNIA
+ - [https://csr.decathlon.ro](https://csr.decathlon.ro)
+ - date_published: 2024-06-15T20:23:28.547912+00:00
+
+ ## Decathlon | Magazinul tău de echipamente și articole sportive
+ - [https://decathlon.ro](https://decathlon.ro)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Sfaturi Decathlon: Articole cu Informatii Sportive, Nutritie ...
+ - [https://sfaturi.decathlon.ro](https://sfaturi.decathlon.ro)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Homepage
+ - [https://support.decathlon.ro](https://support.decathlon.ro)
+ - date_published: 2024-06-15T20:23:16.413188+00:00
+
+ ## Dental House – Welcome to the family!
+ - [https://dentalhouse.ro](https://dentalhouse.ro)
+ - date_published: 2024-07-17T07:50:10.346872+00:00
+
+ ## dexonline
+ - [http://dexonline.ro](http://dexonline.ro)
+ - date_published: 2024-06-30T07:23:51.578056+00:00
+
+ ## Digi24 - Stiri - Informația la putere!
+ - [https://www.digi24.ro](https://www.digi24.ro)
+ - date_published: 2023-12-28T01:24:07.795811+00:00
+
+ ## DigiKey Home
+ - [https://www.digikey.ro](https://www.digikey.ro)
+ - date_published: 2024-05-01T05:03:01.399334+00:00
+
+ ## Digital Nature
+ - [http://digitalnature.ro](http://digitalnature.ro)
+ - date_published: 2024-04-29T04:18:10.889878+00:00
+
+ ## Web design premium. Aplicații online complexe. Proiecte GIS.
+ - [https://www.directdesign.ro](https://www.directdesign.ro)
+ - date_published: 2024-06-17T11:28:42.684752+00:00
+
+ ## Disney România | Disney oficial
+ - [https://disney.ro](https://disney.ro)
+ - date_published: 2024-06-16T01:51:00.062238+00:00
+
+ ## dmyt.ro
+ - [https://dmyt.ro](https://dmyt.ro)
+ - date_published: 2024-07-13T04:04:08.436127+00:00
+
+ ## dorinlazar.ro
+ - [https://dorinlazar.ro](https://dorinlazar.ro)
+ - date_published: 2023-10-25T22:35:40.022074+00:00
+
+ ## Prezentare generală a problemei
+ - [https://downdetector.ro](https://downdetector.ro)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Acasă - Duracell
+ - [https://www.duracell.ro](https://www.duracell.ro)
+ - date_published: 2024-07-22T07:22:42+00:00
+
+ ## EF Education First | România
+ - [https://www.ef.ro](https://www.ef.ro)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Homepage
+ - [http://www.elearning.ro](http://www.elearning.ro)
+ - date_published: 2022-05-12T13:02:59+00:00
+
+ ## elefant.ro - mallul online al familiei tale! • Branduri de top, preturi excelente • Peste 500.000 de produse pentru tine!
+ - [https://www.elefant.ro](https://www.elefant.ro)
+ - date_published: 2024-07-11T10:51:23.936802+00:00
+
+ ## Un curs introductiv disponibil gratuit online despre inteligența artificială pentrunespecialiști
+ - [https://www.elementsofai.ro](https://www.elementsofai.ro)
+ - date_published: 2024-07-01T08:47:09.737873+00:00
+
+ ## eMAG.ro - Căutarea nu se oprește niciodată
+ - [https://www.emag.ro](https://www.emag.ro)
+ - date_published: 2024-06-15T03:29:28.104552+00:00
 

@@ -183,7 +183,7 @@
 
  ## The Bash Guide
  - [https://guide.bash.academy](https://guide.bash.academy)
- - date_published: 2024-04-25T10:50:47+00:00
+ - date_published: 2023-10-16T14:40:54+00:00
  - tags: ['bash']
 
  ## DDD Academy - Domain-Driven Design courses
@@ -467,6 +467,10 @@
  - [https://www.dari.ae](https://www.dari.ae)
  - date_published: 2024-08-02T18:03:19.100768+00:00
 
+ ## david.ae
+ - [https://david.ae](https://david.ae)
+ - date_published: 2024-08-08T15:34:58.335427+00:00
+
  ## DBWC | Dubai Business Women Council
  - [https://www.dbwc.ae](https://www.dbwc.ae)
  - date_published: 2024-07-22T17:32:21.302920+00:00
@@ -534,6 +538,10 @@
  ## أفضل دليل في السعودية : اعثر على جميع المواقع
  - [http://fullybooked.ae](http://fullybooked.ae)
  - date_published: 2023-08-04T00:00:00+00:00
+
+ ## Discover the Best Apps on GetApp United Arab Emirates to Grow Your Business
+ - [https://www.getapp.ae](https://www.getapp.ae)
+ - date_published: 2024-08-08T18:06:55.440290+00:00
 
  ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
  - [https://www.gettyimages.ae](https://www.gettyimages.ae)
@@ -728,6 +736,10 @@
  - [https://trapezegroup.ae](https://trapezegroup.ae)
  - date_published: 2024-05-07T00:00:00+00:00
 
+ ## الرئيسة | البوابة الرسمية لحكومة الإمارات العربية المتحدة
+ - [https://u.ae](https://u.ae)
+ - date_published: 2024-08-08T11:34:59.221081+00:00
+
  ## UAE Research Map
  - [https://uaeresearchmap.ae](https://uaeresearchmap.ae)
  - date_published: 2024-04-29T06:41:08+00:00
@@ -747,10 +759,6 @@
  ## WAM
  - [https://wam.ae](https://wam.ae)
  - date_published: 2024-05-06T17:10:51.069529+00:00
-
- ## WAM
- - [https://www.wam.ae](https://www.wam.ae)
- - date_published: 2024-04-28T03:44:05.281372+00:00
 
  ## What's On
  - [https://whatson.ae](https://whatson.ae)
@@ -1501,6 +1509,10 @@
  ## Actionize - Custom GPT Actions made easy
  - [http://actionize.ai](http://actionize.ai)
  - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Activeloop (YC S18): Hiring Senior C++ Engineers to Scale Database for AI
+ - [https://careers.activeloop.ai](https://careers.activeloop.ai)
+ - date_published: 2024-08-08T14:49:27+00:00
 
  ## Activeloop
  - [https://learn.activeloop.ai](https://learn.activeloop.ai)
@@ -4017,16 +4029,4 @@ Welcome
  ## FAR AI
  - [https://far.ai](https://far.ai)
  - date_published: 2024-04-17T00:00:00+00:00
-
- ## Adversarial policies in Go
- - [https://goattack.far.ai](https://goattack.far.ai)
- - date_published: 2024-06-21T11:28:03.025262+00:00
-
- ## Projects and Ramblings
- - [https://www.farley.ai](https://www.farley.ai)
- - date_published: 2023-12-16T04:39:04.636256+00:00
-
- ## Faros AI | The AI-Native Engineering Intelligence Platform | A single pane view across velocity, quality, goals, and more!
- - [https://www.faros.ai](https://www.faros.ai)
- - date_published: 2024-06-19T04:45:26.258140+00:00
 

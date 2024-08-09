@@ -1,19 +1,3 @@
- ## The Rare Village Foundation -Resources for Rare Families
- - [https://give.rarevillage.org](https://give.rarevillage.org)
- - date_published: 2024-06-28T19:34:51+00:00
-
- ## The Rare Village Foundation -Resources for Rare Families
- - [https://rarevillage.org](https://rarevillage.org)
- - date_published: 2024-06-28T19:34:54+00:00
-
- ## Rari Mainnet blockchain explorer | Blockscout
- - [https://mainnet.explorer.rarichain.org](https://mainnet.explorer.rarichain.org)
- - date_published: 2024-06-22T05:47:04.768219+00:00
-
- ## Raspberry Pi Datasheets
- - [https://datasheets.raspberrypi.org](https://datasheets.raspberrypi.org)
- - date_published: 2021-10-15T15:43:48+00:00
-
  ## Code Editor | Raspberry Pi
  - [https://editor.raspberrypi.org](https://editor.raspberrypi.org)
  - date_published: 2024-07-02T17:17:32.064002+00:00
@@ -262,10 +246,6 @@
  ## The Reactive Manifesto
  - [https://reactivemanifesto.org](https://reactivemanifesto.org)
  - date_published: 2024-08-07T16:23:35.839200+00:00
-
- ## The Reactive Manifesto
- - [https://www.reactivemanifesto.org](https://www.reactivemanifesto.org)
- - date_published: 2024-07-24T03:17:32.743036+00:00
 
  ## React – A JavaScript library for building user interfaces
  - [https://17.reactjs.org](https://17.reactjs.org)
@@ -1450,7 +1430,11 @@
  - date_published: 2024-07-02T21:15:53+00:00
 
  ## Home Page - Report for America
- - [https://www.reportforamerica.org](https://www.reportforamerica.org)
+ - [https://images.reportforamerica.org](https://images.reportforamerica.org)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home Page - Report for America
+ - [https://reportforamerica.org](https://reportforamerica.org)
  - date_published: 2024-04-24T00:00:00+00:00
 
  ## Show HN: Report Phone Spam – Shut down robocallers and text spammers
@@ -2363,6 +2347,10 @@
  - [http://risdmuseum.org](http://risdmuseum.org)
  - date_published: 2024-07-13T10:02:39+00:00
 
+ ## Home - Rise Against Hunger India
+ - [https://www.riseagainsthungerindia.org](https://www.riseagainsthungerindia.org)
+ - date_published: 2024-08-08T13:41:18.934879+00:00
+
  ## #RiseUp4Rojava – Smash Turkish Fascim
  - [https://riseup4rojava.org](https://riseup4rojava.org)
  - date_published: 2024-06-23T13:44:05.000056+00:00
@@ -2594,7 +2582,7 @@
  - date_published: 2024-05-01T00:00:00+00:00
 
  ## Arkadiusz Robiński | Strona Arkadiusza Robińskiego. Wrzucam tu artykuły na różne tematy związane z szeroko pojętą informatyką. Jest tu też podstrona o układzie klawiatury Polski Międzynarodowy.
- - [http://robinski.org](http://robinski.org)
+ - [https://robinski.org](https://robinski.org)
  - date_published: 2024-04-25T18:37:01+00:00
  - tags: ['personal']
 
@@ -3334,6 +3322,10 @@
  - [https://www.rsfjournal.org](https://www.rsfjournal.org)
  - date_published: 2024-06-01T00:00:00+00:00
 
+ ## RSG
+ - [http://r-s-g.org](http://r-s-g.org)
+ - date_published: 2015-09-22T20:35:08+00:00
+
  ## Welcome to the Radio Society of Great Britain - Portal
  - [https://rsgb.org](https://rsgb.org)
  - date_published: 2024-06-18T06:33:02.563686+00:00
@@ -3344,7 +3336,7 @@
 
  ## Github Chart API
  - [https://ghchart.rshah.org](https://ghchart.rshah.org)
- - date_published: 2024-04-28T01:41:08.067429+00:00
+ - date_published: 2023-07-20T06:58:10+00:00
 
  ## RSNA Case Collection
  - [https://cases.rsna.org](https://cases.rsna.org)
@@ -4040,6 +4032,10 @@
  - [https://sacscoc.org](https://sacscoc.org)
  - date_published: 2024-03-25T00:00:00+00:00
 
+ ## Consolidated Utilities Billing & Services
+ - [http://www.sacutilities.org](http://www.sacutilities.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## South African Depression and Anxiety Group
  - [https://www.sadag.org](https://www.sadag.org)
  - date_published: 2024-07-17T04:08:13+00:00
@@ -4047,4 +4043,8 @@
  ## The Mission of SAE International is to advance mobility knowledge and solutions
  - [https://www.sae.org](https://www.sae.org)
  - date_published: 2023-10-25T22:05:23.612089+00:00
+
+ ## 中国汽车工程学会
+ - [https://www.sae-china.org](https://www.sae-china.org)
+ - date_published: 2024-03-13T00:00:00+00:00
 

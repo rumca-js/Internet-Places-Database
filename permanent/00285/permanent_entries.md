@@ -1,3 +1,47 @@
+ ## MediaWell
+ - [https://mediawell.ssrc.org](https://mediawell.ssrc.org)
+ - date_published: 2024-07-16T23:47:11.105379+00:00
+
+ ## Research AMP | Social Science Research Council
+ - [https://ramp.ssrc.org](https://ramp.ssrc.org)
+ - date_published: 2023-10-25T00:00:00+00:00
+
+ ## SSRC The Immanent Frame | Secularism, religion, and the public sphere
+ - [https://tif.ssrc.org](https://tif.ssrc.org)
+ - date_published: 2024-07-17T13:03:38+00:00
+
+ ## Social Science Research Council | Research to solve problems
+ - [https://ssrc.org](https://ssrc.org)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## SSRSA | الجمعية السعودية لأمراض الروماتيزم
+ - [https://www.ssrsa.org](https://www.ssrsa.org)
+ - date_published: 2024-06-28T12:10:15.939906+00:00
+
+ ## Home - Schenectady-Saratoga Symphony Orchestra
+ - [https://sssony.org](https://sssony.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Stable Quarters Horse Farm
+ - [https://stablequarters.org](https://stablequarters.org)
+ - date_published: 2024-06-24T03:35:58.697744+00:00
+
+ ## Stackage Server
+ - [https://stackage.org](https://stackage.org)
+ - date_published: 2024-05-08T00:13:43.790842+00:00
+
+ ## Stacks Foundation | Activating the Bitcoin Economy
+ - [https://stacks.org](https://stacks.org)
+ - date_published: 2024-04-30T06:30:41.169664+00:00
+
+ ## StackStorm Exchange
+ - [https://exchange.stackstorm.org](https://exchange.stackstorm.org)
+ - date_published: 2022-01-12T22:17:52+00:00
+
+ ## root.meta.title
+ - [https://stacspec.org](https://stacspec.org)
+ - date_published: 2024-06-18T16:05:06.425093+00:00
+
  ## Stagecoach
  - [https://www.stagecoachfdn.org](https://www.stagecoachfdn.org)
  - date_published: 2024-07-01T05:43:20.437791+00:00
@@ -530,6 +574,10 @@
  ## Stéphane Graber's website
  - [https://stgraber.org](https://stgraber.org)
  - date_published: 2023-10-25T22:11:13.024939+00:00
+
+ ## The personal website of Stefan Huber
+ - [http://www.sthu.org](http://www.sthu.org)
+ - date_published: 2024-07-27T11:07:45+00:00
 
  ## Startseite | Stifterverband
  - [https://stifterverband.org](https://stifterverband.org)
@@ -1163,6 +1211,10 @@
  - [https://subsurface-divelog.org](https://subsurface-divelog.org)
  - date_published: 2024-05-12T06:53:38.700815+00:00
 
+ ## autistici.org
+ - [https://subvertising.org](https://subvertising.org)
+ - date_published: 2019-08-18T17:07:55+00:00
+
  ## Home | Successif
  - [https://successif.org](https://successif.org)
  - date_published: 2024-05-08T09:58:07.167867+00:00
@@ -1339,6 +1391,10 @@
  - [http://www.sumtersheriff.org](http://www.sumtersheriff.org)
  - date_published: 2024-02-26T00:00:00+00:00
 
+ ## Home Page
+ - [https://search.sunbiz.org](https://search.sunbiz.org)
+ - date_published: 2024-08-08T18:06:44.904069+00:00
+
  ## Sunburst project
  - [https://sunburst-project.org](https://sunburst-project.org)
  - date_published: 2024-05-28T22:29:07+00:00
@@ -1386,6 +1442,10 @@
  ## Sunshine Community Health Center | Quality and Affordable Health Care
  - [https://www.sunshineclinic.org](https://www.sunshineclinic.org)
  - date_published: 2024-06-15T04:48:32.553489+00:00
+
+ ## MFS «jardines del sol»
+ - [https://sunshinegardens.org](https://sunshinegardens.org)
+ - date_published: 2024-08-08T03:07:09.759147+00:00
 
  ## SunSketcher
  - [https://sunsketcher.org](https://sunsketcher.org)
@@ -1485,7 +1545,7 @@
  - date_published: 2024-02-21T00:00:00+00:00
 
  ## Super Gaijin Ultra Gamer - Japanese Gaming - Gaijin Style
- - [http://www.supergaijinultragamer.org](http://www.supergaijinultragamer.org)
+ - [https://supergaijinultragamer.org](https://supergaijinultragamer.org)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## SuperHappyDevHouse / FrontPage
@@ -1680,6 +1740,10 @@
  ## Suwannee County Clerk of the Circuit Court
  - [https://www.suwgov.org](https://www.suwgov.org)
  - date_published: 2024-07-03T14:33:53.758969+00:00
+
+ ## svbck.org
+ - [https://svbck.org](https://svbck.org)
+ - date_published: 2024-08-01T07:30:46+00:00
 
  ## HOME | sv-chamber-coalition
  - [http://svchambercoalition.org](http://svchambercoalition.org)
@@ -2005,7 +2069,7 @@
  - date_published: 2024-06-30T10:08:11.000009+00:00
 
  ## shmups.system11.org - Index page
- - [http://shmups.system11.org](http://shmups.system11.org)
+ - [https://shmups.system11.org](https://shmups.system11.org)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## Systematic Paris-Region, Pôle européen des Deep Tech
@@ -2060,7 +2124,7 @@
  - date_published: 2016-06-29T09:54:20+00:00
 
  ## SZI database | subduction initiation
- - [https://www.szidatabase.org](https://www.szidatabase.org)
+ - [https://szidatabase.org](https://szidatabase.org)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## helyesiras.szotar.org
@@ -2389,6 +2453,10 @@ by technology
  ## Home Page
  - [https://tapersafer.org](https://tapersafer.org)
  - date_published: 2024-06-21T19:43:44.203334+00:00
+
+ ## The Art of PostgreSQL
+ - [https://tapoueh.org](https://tapoueh.org)
+ - date_published: 2021-12-14T00:00:00+00:00
 
  ## Index of /
  - [http://files.tapr.org](http://files.tapr.org)
@@ -2898,6 +2966,10 @@ by technology
  - [https://vikimedio.telegramo.org](https://vikimedio.telegramo.org)
  - date_published: 2024-07-12T02:33:28.885010+00:00
 
+ ## Home Page - Telegraph Business Improvement District
+ - [https://www.telegraphberkeley.org](https://www.telegraphberkeley.org)
+ - date_published: 2024-08-08T20:34:41.520378+00:00
+
  ## Telegraph-History
  - [http://www.telegraph-history.org](http://www.telegraph-history.org)
  - date_published: 2023-01-20T20:46:02+00:00
@@ -3314,6 +3386,10 @@ by technology
  - [https://etvendowment.thankyou4caring.org](https://etvendowment.thankyou4caring.org)
  - date_published: 2024-07-22T08:52:27.972827+00:00
 
+ ## Thanos Apollo
+ - [https://thanosapollo.org](https://thanosapollo.org)
+ - date_published: 2024-08-07T14:05:07+00:00
+
  ## Home - That's AI
  - [https://thats-ai.org](https://thats-ai.org)
  - date_published: 2024-05-12T07:24:06.236087+00:00
@@ -3329,6 +3405,10 @@ by technology
  ## 1A | Speak Freely
  - [https://the1a.org](https://the1a.org)
  - date_published: 2024-05-01T00:00:00+00:00
+
+ ## The 71 Percent
+ - [https://www.the71percent.org](https://www.the71percent.org)
+ - date_published: 2024-08-08T17:51:03.781081+00:00
 
  ## The 74 – America's Education News Source
  - [https://www.the74million.org](https://www.the74million.org)
@@ -3878,6 +3958,14 @@ by technology
  - [https://thegreenwebfoundation.org](https://thegreenwebfoundation.org)
  - date_published: 2024-04-24T00:00:00+00:00
 
+ ## Home - The Ground Truth Project
+ - [https://annualreport.thegroundtruthproject.org](https://annualreport.thegroundtruthproject.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## The GroundTruth Project
+ - [https://thegroundtruthproject.org](https://thegroundtruthproject.org)
+ - date_published: 2024-08-08T18:14:39+00:00
+
  ## Home - The Global Warming Policy Foundation
  - [https://thegwpf.org](https://thegwpf.org)
  - date_published: 2021-08-31T22:18:22+00:00
@@ -3889,6 +3977,10 @@ by technology
  ## Homepage
  - [https://thehappiestbaby.org](https://thehappiestbaby.org)
  - date_published: 2024-02-08T21:46:13.261258+00:00
+
+ ## The Hastings Center -- Health, Science, and Technology Ethics
+ - [https://www.thehastingscenter.org](https://www.thehastingscenter.org)
+ - date_published: 2024-08-07T00:00:00+00:00
 
  ## The Henry Ford Gift Shop – Museum, Greenfield Village & Rouge Factory - The Henry Ford
  - [https://giftshop.thehenryford.org](https://giftshop.thehenryford.org)
@@ -3950,98 +4042,4 @@ by technology
  ## Home - The Hospitalist
  - [https://www.the-hospitalist.org](https://www.the-hospitalist.org)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## The Hospital Leader: Official Blog of the Society of Hospital Medicine
- - [http://thehospitalleader.org](http://thehospitalleader.org)
- - date_published: 2024-06-28T12:39:06.779999+00:00
-
- ## National Domestic Violence Hotline
- - [https://www.thehotline.org](https://www.thehotline.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## The House I Live in - Justice Reimagined
- - [http://www.thehouseilivein.org](http://www.thehouseilivein.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## The Hub Project
- - [https://thehubproject.org](https://thehubproject.org)
- - date_published: 2024-06-19T16:59:06.694980+00:00
-
- ## The Hugo Awards
- - [https://thehugoawards.org](https://thehugoawards.org)
- - date_published: 2024-01-23T13:58:38+00:00
- - tags: ['fantasy books', 'science-fiction', 'awards', 'book reviews', 'fantasy']
-
- ## Guidance for Self-organising Teams | The Hum
- - [https://thehum.org](https://thehum.org)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## TheHumanist.com
- - [http://thehumanist.org](http://thehumanist.org)
- - date_published: 2024-05-15T03:03:28.419353+00:00
-
- ## Hume Initiative
- - [https://thehumeinitiative.org](https://thehumeinitiative.org)
- - date_published: 2024-07-11T14:23:12.289997+00:00
-
- ## Home - International Association of Chiefs of Police
- - [https://engage.theiacp.org](https://engage.theiacp.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## IACPlearn:  Home
- - [http://learn.theiacp.org](http://learn.theiacp.org)
- - date_published: 2024-06-29T07:19:32.727421+00:00
-
- ## Police Jobs – IACP Career Center Home
- - [https://policecareers.theiacp.org](https://policecareers.theiacp.org)
- - date_published: 2024-06-29T07:19:30.659513+00:00
-
- ## Shaping the Future of the Policing Profession® | International Association of Chiefs of Police
- - [https://theiacp.org](https://theiacp.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Theia - Cloud and Desktop IDE Platform
- - [https://theia-ide.org](https://theia-ide.org)
- - date_published: 2024-06-14T13:58:03+00:00
-
- ## Theia — Theia Vision Library
- - [http://www.theia-sfm.org](http://www.theia-sfm.org)
- - date_published: 2016-10-27T23:53:57+00:00
-
- ## International Council of Design
- - [https://www.theicod.org](https://www.theicod.org)
- - date_published: 2024-07-12T17:52:01.936220+00:00
-
- ## IET Digital Library: Home
- - [https://digital-library.theiet.org](https://digital-library.theiet.org)
- - date_published: 2024-05-07T21:01:03.486456+00:00
-
- ## Homepage | E+T Magazine
- - [https://eandt.theiet.org](https://eandt.theiet.org)
- - date_published: 2023-10-25T10:52:21.940865+00:00
-
- ## Home | The Institute of Internal Auditors | The IIA
- - [http://theiia.org](http://theiia.org)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## The Imaginative Conservative
- - [https://theimaginativeconservative.org](https://theimaginativeconservative.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## The Indigenous Foundation
- - [https://www.theindigenousfoundation.org](https://www.theindigenousfoundation.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## The Infosphere, the Futurama Wiki
- - [http://theinfosphere.org](http://theinfosphere.org)
- - date_published: 2023-09-25T22:00:35+00:00
- - tags: ['futurama']
-
- ## Inner Compass Initiative
- - [https://www.theinnercompass.org](https://www.theinnercompass.org)
- - date_published: 2024-06-21T19:41:21.063035+00:00
-
- ## The Inning Club
- - [https://theinningclub.org](https://theinningclub.org)
- - date_published: 2023-10-30T18:18:44+00:00
 

@@ -1,7 +1,3 @@
- ## 中国汽车工程学会
- - [https://www.sae-china.org](https://www.sae-china.org)
- - date_published: 2024-03-13T00:00:00+00:00
-
  ## Second Amendment Foundation
  - [http://www.saf.org](http://www.saf.org)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -379,6 +375,10 @@
  - [https://rsync.samba.org](https://rsync.samba.org)
  - date_published: 2024-05-08T09:16:58.342787+00:00
 
+ ## Sambhali Trust
+ - [https://www.sambhali.org](https://www.sambhali.org)
+ - date_published: 2024-08-08T17:51:57.286847+00:00
+
  ## Home
  - [https://www.same.org](https://www.same.org)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -390,6 +390,10 @@
  ## Sam Harris | Home of the Making Sense Podcast
  - [https://www.samharris.org](https://www.samharris.org)
  - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Samic - سمیک
+ - [https://samic.org](https://samic.org)
+ - date_published: 2024-08-08T15:08:04.687988+00:00
 
  ## MARIOTOTO | Agen Situs Toto Asli & Situs Togel Terpercaya
  - [http://www.samods.org](http://www.samods.org)
@@ -801,6 +805,10 @@
  ## About - Steel Bank Common Lisp
  - [https://sbcl.org](https://sbcl.org)
  - date_published: 2023-10-25T22:06:10.407198+00:00
+
+ ## Songs of the West |
+ - [http://www.sbgsongs.org](http://www.sbgsongs.org)
+ - date_published: 2024-08-08T03:39:44.444011+00:00
 
  ## Home : BioSync
  - [https://biosync.sbkb.org](https://biosync.sbkb.org)
@@ -1313,6 +1321,10 @@
  - [https://www.scholarsapply.org](https://www.scholarsapply.org)
  - date_published: 2024-07-10T04:07:46.532974+00:00
 
+ ## Scholarship opportunities for students - Scholarships360
+ - [https://scholarships360.org](https://scholarships360.org)
+ - date_published: 2024-03-21T00:00:00+00:00
+
  ## The Scholar's Stage
  - [https://scholars-stage.org](https://scholars-stage.org)
  - date_published: 2023-10-25T22:06:28.586955+00:00
@@ -1720,8 +1732,12 @@
  - [http://scipy-lectures.org](http://scipy-lectures.org)
  - date_published: 2023-06-30T18:22:25+00:00
 
+ ## Paper Submission System - Home
+ - [https://papersubmission.scirp.org](https://papersubmission.scirp.org)
+ - date_published: 2024-08-08T17:03:59.610139+00:00
+
  ## SCIRP Open Access
- - [https://www.scirp.org](https://www.scirp.org)
+ - [https://scirp.org](https://scirp.org)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## SciStarter - SciStarter
@@ -1763,6 +1779,10 @@
  ## ICAART, 17th Int'l. Conf. on Agents and Artificial Intelligence
  - [https://icaart.scitevents.org](https://icaart.scitevents.org)
  - date_published: 2024-06-19T07:39:56.922225+00:00
+
+ ## ICEIS, 27th Int'l. Conf. on Enterprise Information Systems
+ - [https://iceis.scitevents.org](https://iceis.scitevents.org)
+ - date_published: 2024-08-08T21:18:49.172073+00:00
 
  ## ICPRAM, 14th Int'l. Conf. on Pattern Recognition Applications and Methods
  - [https://icpram.scitevents.org](https://icpram.scitevents.org)
@@ -2332,6 +2352,10 @@
  ## Search Atlas: Visualizing Divergent Search Results Across Geopolitical Borders
  - [https://searchatlas.org](https://searchatlas.org)
  - date_published: 2021-07-13T22:54:04+00:00
+
+ ## Search for Planet
+ - [https://searchforplanet.org](https://searchforplanet.org)
+ - date_published: 2024-08-08T15:11:49.225534+00:00
 
  ## Searchfox
  - [https://searchfox.org](https://searchfox.org)
@@ -3243,7 +3267,7 @@
  - date_published: 2023-11-06T12:05:51+00:00
 
  ## Association for Computing Machinery
- - [http://www.sfbayacm.org](http://www.sfbayacm.org)
+ - [https://sfbayacm.org](https://sfbayacm.org)
  - date_published: 2024-04-28T01:54:50.587780+00:00
 
  ## San Francisco Botanical Garden at Gardens of Golden Gate Park
@@ -4012,29 +4036,4 @@
  ## Shtetl - Haredi Free Press
  - [https://www.shtetl.org](https://www.shtetl.org)
  - date_published: 2023-10-25T10:53:52.750732+00:00
-
- ## 书格
- - [http://shuge.org](http://shuge.org)
- - date_published: 2024-05-22T08:00:51+00:00
-
- ## Shutter
- - [http://shutter-project.org](http://shutter-project.org)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Digiclub
- - [https://www.shuttleworthfoundation.org](https://www.shuttleworthfoundation.org)
- - date_published: 2024-06-21T20:00:27.318595+00:00
-
- ## Home
- — Shweta Narayan
- - [https://shwetanarayan.org](https://shwetanarayan.org)
- - date_published: 2021-05-03T07:45:03+00:00
-
- ## SIAM: Society for Industrial and Applied Mathematics
- - [https://archive.siam.org](https://archive.siam.org)
- - date_published: 2024-05-09T04:52:55.255308+00:00
-
- ## 2024 Travel Awards Program - Program Application and Nominator Portal
- - [https://awards.siam.org](https://awards.siam.org)
- - date_published: 2024-06-30T11:21:05.965279+00:00
 

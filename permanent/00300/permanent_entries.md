@@ -1,812 +1,3 @@
- ## Airbnb | Semesterbostäder, stugor, strandhus med mera
- - [https://airbnb.se](https://airbnb.se)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Akademibokhandeln – Handla online eller reservera i butik!
- - [https://www.akademibokhandeln.se](https://www.akademibokhandeln.se)
- - date_published: 2024-06-21T22:19:11.180099+00:00
-
- ## Alance AB
- - [https://alance.se](https://alance.se)
- - date_published: 2024-03-26T14:28:48+00:00
-
- ## Home
- - [http://www.alanif.se](http://www.alanif.se)
- - date_published: 2024-07-10T02:40:40+00:00
-
- ## Aleph.se
- - [http://aleph.se](http://aleph.se)
- - date_published: 2017-04-02T19:44:29+00:00
-
- ## Välkommen till Alfa Romeo Sveriges officiella hemsida | SUV, Crossover, Sportbilar | Alfa Romeo Sverige
- - [https://www.alfaromeo.se](https://www.alfaromeo.se)
- - date_published: 2024-06-03T14:59:28+00:00
-
- ## Alfasoft | Software, Solutions and Services for Science and Technology
- - [https://shop.alfasoft.se](https://shop.alfasoft.se)
- - date_published: 2024-07-09T18:03:35.163810+00:00
-
- ## Allas.se – hälsa, relationer, mat & dryck och nyheter
- - [https://www.allas.se](https://www.allas.se)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Aller.se – Aller Media
- - [https://www.aller.se](https://www.aller.se)
- - date_published: 2024-07-07T07:38:44.365295+00:00
-
- ## Logga in | Aller Media-konto
- - [https://login.allermedia.se](https://login.allermedia.se)
- - date_published: 2024-07-07T07:45:28.463322+00:00
-
- ## Svenska namn - namnbetydelse, statistik namnförslag
- - [https://svenskanamn.alltforforaldrar.se](https://svenskanamn.alltforforaldrar.se)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Allt om Mat – recept som fungerar
- - [http://www.alltommat.se](http://www.alltommat.se)
- - date_published: 2023-01-31T00:00:00+00:00
-
- ## Astrid Lindgren Memorial Award
- - [https://alma.se](https://alma.se)
- - date_published: 2024-07-10T14:19:14+00:00
-
- ## Public Signup
- - [https://alrt.se](https://alrt.se)
- - date_published: 2024-06-19T06:02:55.278884+00:00
-
- ## Altinget - Allt om politik: altinget.se
- - [https://www.altinget.se](https://www.altinget.se)
- - date_published: 2024-06-29T04:23:06.583012+00:00
-
- ## Allt om WordPress
- - [http://alxmedia.se](http://alxmedia.se)
- - date_published: 2024-07-20T15:41:56.909562+00:00
-
- ## Amazon.se Associates Central
- - [https://affiliate-program.amazon.se](https://affiliate-program.amazon.se)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Amazon Brand Protection: Protect the Brand You Built
- - [https://brandservices.amazon.se](https://brandservices.amazon.se)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Sell on Amazon SE | Build Your Online Presence
- - [https://sell.amazon.se](https://sell.amazon.se)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Amazon.se: Låga priser på Elektronik, Böcker, Sportutrustning & mer
- - [https://www.amazon.se](https://www.amazon.se)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Amber Teahouse
- - [https://amber-teahou.se](https://amber-teahou.se)
- - date_published: 2024-07-08T21:11:26+00:00
-
- ## AmiDog's Software
- - [http://www.amidog.se](http://www.amidog.se)
- - date_published: 2008-06-27T19:21:53+00:00
-
- ## Safir - Nyheter
- - [https://safir.amigaos.se](https://safir.amigaos.se)
- - date_published: 2024-01-09T03:46:31.075082+00:00
-
- ## Ancestry® | Släktforskning, släktträd och släkthistorisk information
- - [https://www.ancestry.se](https://www.ancestry.se)
- - date_published: 2024-05-28T22:28:13+00:00
-
- ## Anders Björk - webbstrategi, interaktionsdesign, SEO med mera
- - [https://anders-bjork.se](https://anders-bjork.se)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Anders Norén
- - [https://andersnoren.se](https://andersnoren.se)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Anna’s Archive
- - [https://annas-archive.se](https://annas-archive.se)
- - date_published: 2024-06-13T16:25:28+00:00
- - tags: ['internet archive', 'open source', 'internet library']
-
- ## Antagning.se - Anmälan till högskola och universitet
- - [https://www.antagning.se](https://www.antagning.se)
- - date_published: 2024-05-01T07:28:39.898817+00:00
-
- ## Apex SEO AB - Premium Sökmotoroptimering
- - [https://apexseo.se](https://apexseo.se)
- - date_published: 2024-05-08T10:01:49.152065+00:00
-
- ## Apowersoft - Multimedialösningar för företag och dagliga behov
- - [https://www.apowersoft.se](https://www.apowersoft.se)
- - date_published: 2024-06-23T16:06:25.350156+00:00
-
- ## AQ Group - a global manufacturer of components and systems for industrial customers with high demands.
- - [http://aqg.se](http://aqg.se)
- - date_published: 2024-07-01T11:29:55.616201+00:00
-
- ## arbetsformedlingen.se
- - [https://arbetsformedlingen.se](https://arbetsformedlingen.se)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The page is temporarily unavailable
- - [https://ciam-konto.arbetsformedlingen.se](https://ciam-konto.arbetsformedlingen.se)
- - date_published: 2024-07-07T07:36:31.992651+00:00
-
- ## Arcade Dreams | Arkadspel och Flipper för privat och företag!
- - [https://arcadedreams.se](https://arcadedreams.se)
- - date_published: 2024-07-20T20:59:48.181175+00:00
-
- ## Arcsin
- - [http://arcsin.se](http://arcsin.se)
- - date_published: 2023-02-25T19:46:31+00:00
-
- ## Arcsin Web Templates: Free Website Templates & WordPress Themes
- - [http://templates.arcsin.se](http://templates.arcsin.se)
- - date_published: 2023-11-14T22:21:18+00:00
-
- ## Arrocco.se – Bitcoin casinos 2022
- - [https://www.arrocco.se](https://www.arrocco.se)
- - date_published: 2024-07-22T10:52:50.711605+00:00
-
- ## Arvika Nyheter - senaste lokala nyheterna från Arvika och Eda
- - [https://www.arvikanyheter.se](https://www.arvikanyheter.se)
- - date_published: 2024-06-29T04:23:13.796113+00:00
-
- ## Bästa e-handelsplattformen – Skalbar, prisvärd och funktionsrik e-handel från Askås
- - [https://www.askas.se](https://www.askas.se)
- - date_published: 2024-06-16T11:30:21.813574+00:00
-
- ## Startsida - Astrid Lindgrens Näs
- - [https://astridlindgrensnas.se](https://astridlindgrensnas.se)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Entry Event Shop
- - [https://biljett.astridlindgrensnas.se](https://biljett.astridlindgrensnas.se)
- - date_published: 2023-05-04T07:30:44+00:00
-
- ## Astrid Lindgrens Värld
- - [https://astridlindgrensvarld.se](https://astridlindgrensvarld.se)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Entry Event Shop
- - [https://biljett.astridlindgrensvarld.se](https://biljett.astridlindgrensvarld.se)
- - date_published: 2024-05-06T12:40:36+00:00
-
- ## Astrid Lindgrens Värld - Stugbokning och familjepaket - Välkommen till Vimmerby
- - [https://boka.astridlindgrensvarld.se](https://boka.astridlindgrensvarld.se)
- - date_published: 2024-07-10T14:21:33.035267+00:00
-
- ## Astrid Lindgrens Vimmerby AB - Astrid Lindgrens Vimmerby AB
- - [https://jobb.astridlindgrensvarld.se](https://jobb.astridlindgrensvarld.se)
- - date_published: 2024-07-10T14:21:34.295768+00:00
-
- ## Sweden Rock Postershop
- - [https://swedenrockpostershop.atta45.se](https://swedenrockpostershop.atta45.se)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Audi Sverige
- - [https://www.audi.se](https://www.audi.se)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Autodesk empowers innovators everywhere to make the new possible
- - [https://www.autodesk.se](https://www.autodesk.se)
- - date_published: 2024-04-25T05:00:03+00:00
-
- ## Automatonen
- - [https://automatonen.se](https://automatonen.se)
- - date_published: 2024-06-21T22:19:06.429943+00:00
-
- ## Välkommen till Avanza | Avanza
- - [https://www.avanza.se](https://www.avanza.se)
- - date_published: 2024-05-01T06:56:28.471271+00:00
-
- ## axbom - digital etik och omtänksam design
- - [https://axbom.se](https://axbom.se)
- - date_published: 2024-07-04T08:26:09.740819+00:00
-
- ## ayla~nonsense
- - [https://aylanonsen.se](https://aylanonsen.se)
- - date_published: 2024-06-22T15:00:12.082664+00:00
-
- ## Personliga Presenter | Designa egna fotopresenter online
- - [https://www.bagsoflove.se](https://www.bagsoflove.se)
- - date_published: 2024-06-17T12:18:42.759059+00:00
-
- ## Bahnhof - Internet med sekretess
- - [https://bahnhof.se](https://bahnhof.se)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Start - Barlingshult
- - [https://barlingshult.se](https://barlingshult.se)
- - date_published: 2022-06-14T00:00:00+00:00
-
- ## Start - Svenska barnboksinstitutet
- - [https://barnboksinstitutet.se](https://barnboksinstitutet.se)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Svenska barnboksinstitutet
- - [http://press.barnboksinstitutet.se](http://press.barnboksinstitutet.se)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Barnebys: en onlineauktions sökmotor för konst, antikviteter och samlarföremål!
- - [https://www.barnebys.se](https://www.barnebys.se)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Hem - Beckmans
- - [https://www.beckmans.se](https://www.beckmans.se)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## A strategic design and branding studio based in Stockholm, Sweden
- - [https://bedow.se](https://bedow.se)
- - date_published: 2024-07-12T16:38:08.404870+00:00
-
- ## Webbyrå, reklambyrå, fotograf - Bee Thalin Layout & foto | Allt under samma tak!
- - [https://beethalin.se](https://beethalin.se)
- - date_published: 2024-07-07T07:47:45.752270+00:00
-
- ## Beetroot
- - [https://beetroot.se](https://beetroot.se)
- - date_published: 2024-07-20T13:31:24+00:00
-
- ## Utrustning för Klättring, Bergsport & Outdoor | Bergfreunde.se
- - [https://www.bergfreunde.se](https://www.bergfreunde.se)
- - date_published: 2024-07-14T12:11:23.224160+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.bettingonlinesverige.se](https://www.bettingonlinesverige.se)
- - date_published: 2024-06-20T16:25:17.627140+00:00
-
- ## Svenska barnboksinstitutet catalog
- - [https://barnboksinstitutet.bibkat.se](https://barnboksinstitutet.bibkat.se)
- - date_published: 2024-07-10T14:21:57.839959+00:00
-
- ## E-handel för företag — förenklat. | BigCommerce
- - [https://www.bigcommerce.se](https://www.bigcommerce.se)
- - date_published: 2024-07-08T12:40:35.283457+00:00
-
- ## BIKEID
- - [https://bikeid.se](https://bikeid.se)
- - date_published: 2024-07-24T08:00:45.828674+00:00
-
- ## Binero - Svenska molntjänster
- - [https://www.binero.se](https://www.binero.se)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.biostock.se](https://www.biostock.se)
- - date_published: 2024-07-03T09:55:59.629299+00:00
-
- ## Bitcoinkurshistorik.se
- - [https://bitcoinkurshistorik.se](https://bitcoinkurshistorik.se)
- - date_published: 2024-07-22T10:58:21.588487+00:00
-
- ## Bitdefender - global ledare inom programvara för cybersäkerhet
- - [https://www.bitdefender.se](https://www.bitdefender.se)
- - date_published: 2024-07-20T02:26:22.545250+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://j.bksn.se](https://j.bksn.se)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Blocket
- - [https://www.blocket.se](https://www.blocket.se)
- - date_published: 2024-06-16T11:30:17.934249+00:00
-
- ## Epsilon's Amiga Blog
- - [http://amigax1000.blogspot.se](http://amigax1000.blogspot.se)
- - date_published: 2020-10-18T00:00:00+00:00
-
- ## In The Games Of Madness
- - [http://frictionalgames.blogspot.se](http://frictionalgames.blogspot.se)
- - date_published: 2024-07-09T05:52:56+00:00
-
- ## Startsida - Blooc
- - [https://blooc.se](https://blooc.se)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Ge ut din bok och e-bok med BoD och sälj den i bokhandeln - bod.se
- - [https://www.bod.se](https://www.bod.se)
- - date_published: 2024-07-08T13:06:02.596166+00:00
-
- ## Bohusläningen | Nyheter från Uddevalla, Munkedal, Lysekil & Sotenäs
- - [https://www.bohuslaningen.se](https://www.bohuslaningen.se)
- - date_published: 2024-06-29T03:00:20+00:00
-
- ## Boka din skönhetsbehandling online | Bokadirekt
- - [https://bokadirekt.se](https://bokadirekt.se)
- - date_published: 2024-07-07T07:47:43.493532+00:00
-
- ## Logga in – Bonnier News
- - [https://id.bonniernews.se](https://id.bonniernews.se)
- - date_published: 2024-06-17T18:22:18.757269+00:00
-
- ## Mitt konto - Bonnier News
- - [https://konto.bonniernews.se](https://konto.bonniernews.se)
- - date_published: 2024-06-14T12:11:51+00:00
-
- ## Bonnier News
- - [https://www.bonniernews.se](https://www.bonniernews.se)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Högkvalitativa och hållbara hushållsprodukter och vitvaror | Bosch
- - [https://www.bosch-home.se](https://www.bosch-home.se)
- - date_published: 2024-06-16T21:36:08.317609+00:00
-
- ## Digital-TV, TV-abonnemang och bredband via fiber
- - [https://www.boxer.se](https://www.boxer.se)
- - date_published: 2024-06-16T16:26:02.178758+00:00
-
- ## Bredbandskollen - Bredbandskollen är ett enkelt sätt för dig att mäta din internethastighet och få hjälp att förbättra den.
- - [https://www.bredbandskollen.se](https://www.bredbandskollen.se)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Brother Online
- - [https://atyourside.brother.se](https://atyourside.brother.se)
- - date_published: 2024-06-17T21:02:18.863106+00:00
-
- ## Brother Partner Portal
- - [https://partners.brother.se](https://partners.brother.se)
- - date_published: 2024-06-17T21:02:24.327493+00:00
-
- ## Kontorsskrivare | Företagslösningar | Brother
- - [https://www.brother.se](https://www.brother.se)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Blog | Jonas Brusman
- - [https://jonas.brusman.se](https://jonas.brusman.se)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Start page
- - [https://www.business-sweden.se](https://www.business-sweden.se)
- - date_published: 2024-07-09T16:54:09+00:00
-
- ## bzero.se
- - [https://www.bzero.se](https://www.bzero.se)
- - date_published: 2023-12-29T15:34:40.092154+00:00
-
- ## Capterra Sverige hjälper dig att hitta rätt programvara för ditt företag
- - [https://www.capterra.se](https://www.capterra.se)
- - date_published: 2024-07-20T19:26:45.262786+00:00
-
- ## Casino Online - Guide till bäst svenska casinon med Casivo™
- - [https://www.casivo.se](https://www.casivo.se)
- - date_published: 2024-05-24T20:29:47.082954+00:00
- - tags: ['gambling', 'casino']
-
- ## CDON | Det mesta av det bästa till ett bra pris
- - [https://cdon.se](https://cdon.se)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## CERT-SE - Sveriges nationella CSIRT
- - [https://www.cert.se](https://www.cert.se)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Chalmers tekniska högskola
- - [http://chalmers.se](http://chalmers.se)
- - date_published: 2024-07-20T12:05:10.952385+00:00
-
- ## Chalmers Publication Library (CPL): Förstasida
- - [http://publications.lib.chalmers.se](http://publications.lib.chalmers.se)
- - date_published: 2022-11-25T08:49:30+00:00
-
- ## Chalmers tekniska högskola
- - [https://www.chalmers.se](https://www.chalmers.se)
- - date_published: 2023-10-25T11:23:40.727663+00:00
-
- ## Matematiska vetenskaper
- - [http://www.math.chalmers.se](http://www.math.chalmers.se)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## donationer & välgörenhet - Charity.se
- - [http://charity.se](http://charity.se)
- - date_published: 2024-06-29T22:25:55.166903+00:00
-
- ## Allt om Chat Control 2.0
- - [https://chatcontrol.se](https://chatcontrol.se)
- - date_published: 2024-05-06T23:55:58.623153+00:00
- - tags: ['chat control']
-
- ## Cinemateket
- - [http://www.cinemateket.se](http://www.cinemateket.se)
- - date_published: 2024-07-02T23:03:46.920843+00:00
-
- ## GDPR
- - [https://gdpr.cision.se](https://gdpr.cision.se)
- - date_published: 2024-06-29T05:31:28+00:00
-
- ## Cision - Global ledare inom verktyg för PR och IR
- - [https://www.cision.se](https://www.cision.se)
- - date_published: 2024-06-29T00:29:38+00:00
-
- ## Välkommen till CITROËN - Modeller och Kampanjer - Citroën.se
- - [https://citroen.se](https://citroen.se)
- - date_published: 2024-05-10T04:45:19.261880+00:00
-
- ## Bygg din Citroën |
- - [https://konfigurator.citroen.se](https://konfigurator.citroen.se)
- - date_published: 2024-05-10T04:45:16.179143+00:00
-
- ## Citroen Leasing
- - [https://leasing.citroen.se](https://leasing.citroen.se)
- - date_published: 2024-05-10T04:45:20.355370+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.se](https://www.citroenorigins.se)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## ClassPass | Book Fitness Classes & Salon Appointments
- - [https://classpass.se](https://classpass.se)
- - date_published: 2024-07-13T02:25:09.421281+00:00
-
- ## Clew
- - [https://clew.se](https://clew.se)
- - date_published: 2024-06-10T07:06:23.101110+00:00
- - tags: ['search engine']
-
- ## STREAMCOUNT
- - [https://analytics.codigo.se](https://analytics.codigo.se)
- - date_published: 2024-05-11T08:02:37.743027+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.se](https://colorprinter.se)
- - date_published: 2021-05-02T21:17:56+00:00
-
- ## Astrid Lindgrens Värld - Stugbokning och familjepaket - Välkommen till Vimmerby
- - [https://iframealv.comers.se](https://iframealv.comers.se)
- - date_published: 2024-07-10T14:21:43.618580+00:00
-
- ## Comviq - Billigt, enkelt, schysst!
- - [https://www.comviq.se](https://www.comviq.se)
- - date_published: 2024-06-16T16:25:58.136390+00:00
-
- ## Konecranes
- - [https://konecranes.connectmarketing.se](https://konecranes.connectmarketing.se)
- - date_published: 2024-06-20T23:15:43.346210+00:00
-
- ## Convertiser Platform
- - [https://converti.se](https://converti.se)
- - date_published: 2024-05-10T04:12:47.520953+00:00
-
- ## Corren, Östgöta Correspondenten
- - [https://corren.se](https://corren.se)
- - date_published: 2024-06-29T04:22:13.031205+00:00
-
- ## Crafoordska stiftelsen - Grundad av Holger Crafoord 1980
- - [https://www.crafoord.se](https://www.crafoord.se)
- - date_published: 2024-02-08T22:09:07.290463+00:00
-
- ## CrazyGames - Gratis Onlinespel på CrazyGames.se
- - [https://crazygames.se](https://crazygames.se)
- - date_published: 2024-05-08T06:51:46.279022+00:00
-
- ## Välkommen till Creative Commons Sverige - CC Sweden
- - [https://creativecommons.se](https://creativecommons.se)
- - date_published: 2023-10-29T00:00:00+00:00
-
- ## Crisp's Blog - from the Crisp Consultants
- - [https://blog.crisp.se](https://blog.crisp.se)
- - date_published: 2024-05-04T14:10:33.627222+00:00
-
- ## Med vår hjälp blomstrar hållbara företag
- - [https://crisp.se](https://crisp.se)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Centrala studiestödsnämnden
- - [https://www.csn.se](https://www.csn.se)
- - date_published: 2024-05-01T06:31:26.414976+00:00
-
- ## Bli au pair i USA | Cultural Care
- - [https://www.culturalcare.se](https://www.culturalcare.se)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## curl
- - [https://curl.se](https://curl.se)
- - date_published: 2023-10-25T22:37:05.022651+00:00
- - tags: ['page downloader', 'open source']
-
- ## Skapa ditt jobb-vinnande cv
- - [https://cvkungen.se](https://cvkungen.se)
- - date_published: 2024-05-06T09:20:53.742032+00:00
-
- ## CVkungen.se FAQ
- - [https://help.cvkungen.se](https://help.cvkungen.se)
- - date_published: 2024-06-22T22:10:52.588648+00:00
-
- ## Home
- - [https://cyberfortress.se](https://cyberfortress.se)
- - date_published: 2024-06-29T06:04:16.338209+00:00
-
- ## Dagens Arbete
- - [https://da.se](https://da.se)
- - date_published: 2023-10-31T14:57:36.906065+00:00
-
- ## Dagen: en tidning på kristen grund – nyheter, debatt, kultur
- - [https://www.dagen.se](https://www.dagen.se)
- - date_published: 2024-06-29T04:21:39+00:00
-
- ## dagensse
- - [https://www.dagens.se](https://www.dagens.se)
- - date_published: 2024-05-01T03:29:18.754979+00:00
-
- ## Dagens Arena
- - [https://www.dagensarena.se](https://www.dagensarena.se)
- - date_published: 2024-06-29T04:22:39.032462+00:00
-
- ## Daniel Bruce
- - [https://danielbruce.se](https://danielbruce.se)
- - date_published: 2023-07-16T16:40:09+00:00
- - tags: ['personal']
-
- ## datagubbe.se
- - [https://datagubbe.se](https://datagubbe.se)
- - date_published: 2023-10-25T22:37:06.570837+00:00
- - tags: ['hobby page', 'amiga', 'personal', 'commodore']
-
- ## DataJuristen
- - [https://www.datajurist.se](https://www.datajurist.se)
- - date_published: 2024-06-28T20:44:18+00:00
-
- ## Datamuseet – Datorernas fascinerande historia
- - [http://www.datamuseet.se](http://www.datamuseet.se)
- - date_published: 2024-08-07T02:43:34.348302+00:00
-
- ## Datasaab
- - [https://datasaab.se](https://datasaab.se)
- - date_published: 2024-04-28T05:00:27.983648+00:00
-
- ## Dataskuggan
- - [https://dataskuggan.se](https://dataskuggan.se)
- - date_published: 2024-07-04T08:26:07.969887+00:00
-
- ## Dataspelsbranschen
- - [https://dataspelsbranschen.se](https://dataspelsbranschen.se)
- - date_published: 2024-07-17T13:41:47.921243+00:00
-
- ## We make applications for people
- - [https://datenstrom.se](https://datenstrom.se)
- - date_published: 2024-07-10T09:01:57+00:00
-
- ## Deadnet Internet Services
- - [http://www.deadnet.se](http://www.deadnet.se)
- - date_published: 2023-12-28T16:13:35+00:00
-
- ## Decathlon I  Världens största sportkedja
- - [https://www.decathlon.se](https://www.decathlon.se)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Onlinemäklare | Lågt courtage | Investera | Mäklare DEGIRO
- - [https://www.degiro.se](https://www.degiro.se)
- - date_published: 2024-05-31T14:31:33+00:00
-
- ## DevSum - Developer Conference in Sweden
- - [http://www.devsum.se](http://www.devsum.se)
- - date_published: 2024-06-15T16:17:47.174744+00:00
-
- ## Datorföreningen vid LU & LTH - Välkommen
- - [https://dflund.se](https://dflund.se)
- - date_published: 2024-05-08T09:17:34.577920+00:00
-
- ## Join the Datorföreningen vid LU & LTH Discord Server!
- - [https://discord.dflund.se](https://discord.dflund.se)
- - date_published: 2024-07-03T17:20:00+00:00
-
- ## Datorföreningen vid LU & LTH - git
- - [https://git.dflund.se](https://git.dflund.se)
- - date_published: 2024-07-07T04:17:02.964653+00:00
-
- ## DF Webmail :: Welcome to DF Webmail
- - [https://mail.dflund.se](https://mail.dflund.se)
- - date_published: 2024-07-07T04:17:08+00:00
-
- ## :DFRI – Föreningen för Digitala Fri- och Rättigheter
- - [https://dfri.se](https://dfri.se)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Dagens industri - Di.se nyhetssajt
- - [https://www.di.se](https://www.di.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Dianetik: Hur tanken påverkar kroppen
- - [https://www.dianetics.se](https://www.dianetics.se)
- - date_published: 2024-06-17T16:42:29.909614+00:00
-
- ## DICE - We exist to push the boundaries of creative entertainment
- - [https://dice.se](https://dice.se)
- - date_published: 2023-11-06T11:01:20.422931+00:00
- - tags: ['video game developer', 'battlefield', 'pinball', 'amiga']
-
- ## DigiKey Home
- - [https://www.digikey.se](https://www.digikey.se)
- - date_published: 2024-05-01T05:04:46.659128+00:00
-
- ## Digitala lektioner | En öppen lärarresurs
- - [https://digitalalektioner.se](https://digitalalektioner.se)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Digital Sense | The digital marketing book of 2017 by Travis Wright & Chris J Snook
- - [http://digitalsen.se](http://digitalsen.se)
- - date_published: 2024-07-04T10:10:57.493876+00:00
-
- ## DigitaltMuseum
- - [https://digitaltmuseum.se](https://digitaltmuseum.se)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## CDON | Välkommen till CDON!
- - [https://www.discshop.se](https://www.discshop.se)
- - date_published: 2024-06-17T05:43:07.956736+00:00
-
- ## Disney Sverige | Den officiella webbplatsen för Disney-filmer
- - [https://www.disney.se](https://www.disney.se)
- - date_published: 2024-05-01T05:25:55.853985+00:00
-
- ## David Marby
- - [https://dmarby.se](https://dmarby.se)
- - date_published: 2024-05-08T19:27:46+00:00
-
- ## Arkivet - DN.se
- - [https://arkivet.dn.se](https://arkivet.dn.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## DN Granskar
- - [https://dngranskar.dn.se](https://dngranskar.dn.se)
- - date_published: 2024-06-17T18:21:52.773764+00:00
-
- ## DN.Erbjudanden
- - [https://erbjudanden.dn.se](https://erbjudanden.dn.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## eDN
- - [https://etidning.dn.se](https://etidning.dn.se)
- - date_published: 2024-06-17T18:21:57.810887+00:00
-
- ## Logga in – Bonnier News
- - [https://id.dn.se](https://id.dn.se)
- - date_published: 2024-06-17T18:22:04.270859+00:00
-
- ## Annonsera hos Dagens Nyheter
- - [https://kampanj.dn.se](https://kampanj.dn.se)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Prenumerera - DN.se
- - [https://prenumerera.dn.se](https://prenumerera.dn.se)
- - date_published: 2024-06-17T18:22:09.038905+00:00
-
- ## DN Skola - Dagens Nyheter till elever - DN.se
- - [https://skola.www.dn.se](https://skola.www.dn.se)
- - date_published: 2024-06-17T18:22:16.855396+00:00
-
- ## Dagens Nyheter – senaste nyheterna från Sverige och världen
- - [https://www.dn.se](https://www.dn.se)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## DNB Sverige | Företag
- - [https://www.dnb.se](https://www.dnb.se)
- - date_published: 2024-06-15T21:06:03+00:00
-
- ## Inleed Docsign
- - [https://docsign.se](https://docsign.se)
- - date_published: 2024-06-16T17:36:17.071162+00:00
-
- ## Dooer
- - [https://dooer.se](https://dooer.se)
- - date_published: 2024-04-30T13:04:52+00:00
-
- ## Statusöversikt
- - [https://downdetector.se](https://downdetector.se)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Johan Driessen
- - [https://johan.driessen.se](https://johan.driessen.se)
- - date_published: 2023-08-23T00:00:00+00:00
- - tags: ['personal', 'retro games']
-
- ## Driftinformation från Loopia
- - [https://www.driftbloggen.se](https://www.driftbloggen.se)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.se](https://www.duracell.se)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Dysons officiella webbplats  | Dyson.se
- - [https://www.dyson.se](https://www.dyson.se)
- - date_published: 2024-07-07T01:56:15.112931+00:00
-
- ## Easyrig - Saving backs since 1994
- - [http://easyrig.se](http://easyrig.se)
- - date_published: 2019-03-06T08:30:41+00:00
-
- ## Data center - sustainable and pioneering | EcoDataCenter
- - [https://ecodatacenter.se](https://ecodatacenter.se)
- - date_published: 2024-06-16T05:21:42+00:00
-
- ## EF Education First | Sverige
- - [https://www.ef.se](https://www.ef.se)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Sweden - eFinancialCareers
- - [https://www.efinancialcareers.se](https://www.efinancialcareers.se)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Ehrsson lab - Karolinska Institutet
- - [http://www.ehrssonlab.se](http://www.ehrssonlab.se)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Stiftelsen Ekskäret
- - [http://ekskaret.se](http://ekskaret.se)
- - date_published: 2024-06-12T12:39:23.074205+00:00
-
- ## Ekuriren, Eskilstuna-Kuriren
- - [https://ekuriren.se](https://ekuriren.se)
- - date_published: 2024-06-29T04:24:38.826712+00:00
-
- ## Elbilsveckan
- - [https://elbilsveckan.se](https://elbilsveckan.se)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Elektrubadur – Elektrubadur
- - [https://elektrubadur.se](https://elektrubadur.se)
- - date_published: 2023-05-28T00:00:00+00:00
-
- ## En gratis online-kurs om grunderna i artificiell intelligens
- - [https://www.elementsofai.se](https://www.elementsofai.se)
- - date_published: 2024-07-01T08:46:51.620015+00:00
-
- ## Elgiganten - Hemelektronik & teknik till låga priser!
- - [https://www.elgiganten.se](https://www.elgiganten.se)
- - date_published: 2024-07-13T13:35:46.991518+00:00
-
- ## Anna Kubel | ELLE.se
- - [https://annakubel.elle.se](https://annakubel.elle.se)
- - date_published: 2024-06-24T07:09:29+00:00
-
- ## Brita Zackari | ELLE.se
- - [https://brita.elle.se](https://brita.elle.se)
- - date_published: 2023-11-07T11:55:22+00:00
-
- ## Catarina Königs matblogg | ELLE.se
- - [https://catarinakonig.elle.se](https://catarinakonig.elle.se)
- - date_published: 2024-07-07T07:35:00+00:00
-
- ## Anna Johansson | ELLE.se
- - [https://consciouskitchenstories.elle.se](https://consciouskitchenstories.elle.se)
- - date_published: 2024-06-30T05:24:59+00:00
-
- ## Sofia Hassani | Elle.se
- - [https://curlsfirst.elle.se](https://curlsfirst.elle.se)
- - date_published: 2024-06-24T04:00:00+00:00
-
- ## Ditte Svanfeldt  | ELLE.se
- - [https://dittesvanfeldt.elle.se](https://dittesvanfeldt.elle.se)
- - date_published: 2024-07-06T20:38:18+00:00
-
- ## Elin Grubes vinblogg | ELLE.se
- - [https://elingrube.elle.se](https://elingrube.elle.se)
- - date_published: 2024-07-04T14:56:00+00:00
-
- ## Elsa Billgren | ELLE.se
- - [https://elsa.elle.se](https://elsa.elle.se)
- - date_published: 2024-07-07T03:00:00+00:00
-
- ## Emelie Törling | ELLE.se
- - [https://emelietorling.elle.se](https://emelietorling.elle.se)
- - date_published: 2024-07-05T10:03:12+00:00
-
- ## Emily Slotte | ELLE.se
- - [https://emilyslotte.elle.se](https://emilyslotte.elle.se)
- - date_published: 2024-04-24T06:53:25+00:00
-
- ## Flora Wiström | ELLE.se
- - [https://flora.elle.se](https://flora.elle.se)
- - date_published: 2024-07-07T04:00:00+00:00
-
- ## Frida Fahrmans blogg på Elle.se
- - [https://fridafahrman.elle.se](https://fridafahrman.elle.se)
- - date_published: 2024-07-01T08:29:33+00:00
-
- ## Frida Lund | ELLE.se
- - [https://fridalund.elle.se](https://fridalund.elle.se)
- - date_published: 2024-07-06T04:30:00+00:00
-
  ## Gabriella Skog | ELLE.se
  - [https://gabriellaskog.elle.se](https://gabriellaskog.elle.se)
  - date_published: 2024-07-05T20:39:27+00:00
@@ -1135,6 +326,10 @@
  - [https://shop.glesys.se](https://shop.glesys.se)
  - date_published: 2024-06-16T11:30:23.334574+00:00
 
+ ## gluecko.se
+ - [https://gluecko.se](https://gluecko.se)
+ - date_published: 2024-08-07T18:21:40+00:00
+
  ## Grafika Google
  - [https://images.google.se](https://images.google.se)
  - date_published: 2024-07-20T07:39:03.212515+00:00
@@ -1206,6 +401,10 @@
  ## Guldbaggen 2025
  - [https://guldbaggen.se](https://guldbaggen.se)
  - date_published: 2024-06-04T00:00:00+00:00
+
+ ## gunnar.se
+ - [https://gunnar.se](https://gunnar.se)
+ - date_published: 2024-08-08T11:52:25+00:00
 
  ## Gurumeditation.se – Teknik och gaming
  - [http://www.gurumeditation.se](http://www.gurumeditation.se)
@@ -1546,6 +745,10 @@
  - [https://johanedlund.se](https://johanedlund.se)
  - date_published: 2024-05-09T08:05:13.798710+00:00
 
+ ## Ditt & datt
+ - [https://www.johanl.se](https://www.johanl.se)
+ - date_published: 2024-08-07T17:51:43+00:00
+
  ## coral
  - [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
  - date_published: 2024-05-25T10:00:11.940996+00:00
@@ -1666,6 +869,10 @@
  ## Klokskap i Väst AB
  - [http://klokskap.se](http://klokskap.se)
  - date_published: 2024-06-21T13:47:13.845499+00:00
+
+ ## Knackeriet Coworking Space - Old Town - Stockholm
+ - [http://knackeriet.se](http://knackeriet.se)
+ - date_published: 2024-05-22T00:00:00+00:00
 
  ## Knowits it-konsulter säkerställer digital transformation
  - [http://knowit.se](http://knowit.se)
@@ -1803,6 +1010,10 @@
  - [https://www.lensway.se](https://www.lensway.se)
  - date_published: 2024-06-29T00:00:00+00:00
 
+ ## Leftfield Records
+ - [http://www.lftfld.se](http://www.lftfld.se)
+ - date_published: 2022-03-30T09:17:19+00:00
+
  ## Lidl Sverige - Högsta kvalitet till branschens bästa pris
  - [https://www.lidl.se](https://www.lidl.se)
  - date_published: 2024-06-25T19:02:09.589098+00:00
@@ -1911,6 +1122,10 @@
  - [http://www.df.lth.se](http://www.df.lth.se)
  - date_published: 2024-05-24T21:22:28+00:00
 
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://www.adk.lu.se](http://www.adk.lu.se)
+ - date_published: 2022-09-15T06:54:55+00:00
+
  ## Home
  - [https://www.lunduniversity.lu.se](https://www.lunduniversity.lu.se)
  - date_published: 2024-05-27T15:01:18.689644+00:00
@@ -1918,6 +1133,10 @@
  ## compchem
  - [https://www.teokem.lu.se](https://www.teokem.lu.se)
  - date_published: 2024-06-29T03:19:07.117504+00:00
+
+ ## lublin.se
+ - [https://lublin.se](https://lublin.se)
+ - date_published: 2024-05-20T08:29:21+00:00
 
  ## L U M I S E T
  - [http://lumiset.se](http://lumiset.se)
@@ -2186,6 +1405,10 @@
  ## Nicepixel - the masters of pixel art
  - [https://nicepixel.se](https://nicepixel.se)
  - date_published: 2024-05-01T00:27:27.816897+00:00
+
+ ## Nickelodeon Sweden
+ - [https://www.nickelodeon.se](https://www.nickelodeon.se)
+ - date_published: 2024-08-08T00:00:00+00:00
 
  ## Digital expert Niklas Bengtsson - Bloggen om SEO
  - [https://niklasbengtsson.se](https://niklasbengtsson.se)
@@ -2798,8 +2021,32 @@
  - [https://gronradio.sm7dlf.se](https://gronradio.sm7dlf.se)
  - date_published: 2021-07-19T00:00:00+00:00
 
+ ## SMHI AQUA
+ - [https://aqua.smhi.se](https://aqua.smhi.se)
+ - date_published: 2024-04-05T12:26:52+00:00
+
+ ## SMHI Pro
+ - [https://pro.smhi.se](https://pro.smhi.se)
+ - date_published: 2024-03-06T08:36:22+00:00
+
+ ## Timbr
+ - [https://timbr.smhi.se](https://timbr.smhi.se)
+ - date_published: 2023-11-02T08:59:15+00:00
+
+ ## SMHI Pro
+ - [https://vaderlarm.smhi.se](https://vaderlarm.smhi.se)
+ - date_published: 2024-03-06T08:36:22+00:00
+
+ ## Vattenwebb | SMHI
+ - [http://vattenwebb.smhi.se](http://vattenwebb.smhi.se)
+ - date_published: 2024-08-08T21:22:18+00:00
+
+ ## SMHI Vinterväg
+ - [https://vintervag.smhi.se](https://vintervag.smhi.se)
+ - date_published: 2024-08-08T21:22:42.566037+00:00
+
  ## Väder Väderprognoser Klimat- & Vädertjänster i Sverige | SMHI
- - [https://www.smhi.se](https://www.smhi.se)
+ - [https://smhi.se](https://smhi.se)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Supertext - The only chat you need
@@ -2814,341 +2061,25 @@
  - [https://sn.se](https://sn.se)
  - date_published: 2024-06-29T04:23:25.804484+00:00
 
- ## Microsoft Access Database Engine 2010 Redistributable (64-bit)
- - [https://10254-4-75452796.softonic.se](https://10254-4-75452796.softonic.se)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## 17 Mile Drive Audio Tour Guide
- - [https://17-mile-drive-audio-tour-guide.softonic.se](https://17-mile-drive-audio-tour-guide.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## MP4 Youtube Video Downloader
- - [https://2071-4-75803781.softonic.se](https://2071-4-75803781.softonic.se)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## 2N Helios IP Eye
- - [https://2n-helios-ip-eye.softonic.se](https://2n-helios-ip-eye.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## 4k Video Downloader
- - [https://4k-video-downloader.softonic.se](https://4k-video-downloader.softonic.se)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## A1 Website Search Engine
- - [https://a1-website-search-engine.softonic.se](https://a1-website-search-engine.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Aarya Editz
- - [https://aarya-editz.softonic.se](https://aarya-editz.softonic.se)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Adobe Air
- - [https://adobe-air.softonic.se](https://adobe-air.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## AI Writer
- - [https://ai-writer.softonic.se](https://ai-writer.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Alpha Wood Font
- - [https://alpha-wood-font.softonic.se](https://alpha-wood-font.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Amex Taiwan
- - [https://amex-taiwan.softonic.se](https://amex-taiwan.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Anatomy 3D Organs
- - [https://anatomy-3d-organs.softonic.se](https://anatomy-3d-organs.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## AnyCam
- - [https://anycam.softonic.se](https://anycam.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## App Lock - Applock Fingerprint
- - [https://app-lock-applock-fingerprint.softonic.se](https://app-lock-applock-fingerprint.softonic.se)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## ARTE
- - [https://arte.softonic.se](https://arte.softonic.se)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Athan Salaty
- - [https://athan.softonic.se](https://athan.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Aurora Store
- - [https://aurora-store.softonic.se](https://aurora-store.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Auto Proxy - Free Telegram Proxy
- - [https://auto-proxy-free-telegram-proxy.softonic.se](https://auto-proxy-free-telegram-proxy.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Avatar World: City Life
- - [https://avatar-world-city-life.softonic.se](https://avatar-world-city-life.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## AVCLabs Video Blur AI
- - [https://avclabs-video-blur-ai.softonic.se](https://avclabs-video-blur-ai.softonic.se)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Aviator Hack - Aviator Signal
- - [https://aviator-hack-aviator-signal.softonic.se](https://aviator-hack-aviator-signal.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Balabolka
- - [https://balabolka.softonic.se](https://balabolka.softonic.se)
- - date_published: 2024-07-23T00:00:00+00:00
-
  ## Barbie Project Friendship
  - [https://barbie-project-friendship.softonic.se](https://barbie-project-friendship.softonic.se)
  - date_published: 2024-08-02T00:00:00+00:00
-
- ## Bass Booster Volume Equalizer
- - [https://bass-booster-volume-equalizer.softonic.se](https://bass-booster-volume-equalizer.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## BeFit Lite
- - [https://befit-lite.softonic.se](https://befit-lite.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Ben 10 Mods Melon Playground
- - [https://ben-10-mods-melon-playground.softonic.se](https://ben-10-mods-melon-playground.softonic.se)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## BIGO LIVE-Live Stream Go Live
- - [https://bigo-live-live-broadcasting.softonic.se](https://bigo-live-live-broadcasting.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
 
  ## bilibili - HD Anime Videos
  - [https://bilibili-hd-anime-videos.softonic.se](https://bilibili-hd-anime-videos.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## bitAIM- AI Aim assistance for carrom pool
- - [https://bitaim-ai-aim-assistance-for-carrom-pool.softonic.se](https://bitaim-ai-aim-assistance-for-carrom-pool.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Bit Che
- - [https://bit-che.softonic.se](https://bit-che.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## BitComet
- - [https://bitcomet.softonic.se](https://bitcomet.softonic.se)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Biznext
- - [https://biznext.softonic.se](https://biznext.softonic.se)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Black Friday Ads 2018
- - [https://black-friday-2016-ads.softonic.se](https://black-friday-2016-ads.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Bluebird
- - [https://bluebird.softonic.se](https://bluebird.softonic.se)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## BRC Gas Equipment: LPG/CNG Stations and workshops
- - [https://brc-gas-equipment-lpg-cng-stations-and-workshops.softonic.se](https://brc-gas-equipment-lpg-cng-stations-and-workshops.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Brightly - Fix Dark Photos
- - [https://brightly-fix-dark-photos.softonic.se](https://brightly-fix-dark-photos.softonic.se)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Burglar Alarm... Free!
- - [https://burglar-alarm-free.softonic.se](https://burglar-alarm-free.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
  ## 챌린저스 - 뷰티 득템 앱
  - [https://caelrinjeoseu-byuti-deugtem-aeb.softonic.se](https://caelrinjeoseu-byuti-deugtem-aeb.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## Camera for iphone 13 Pro - iOS 15 Camera Effect
- - [https://camera-for-iphone-13-pro-ios-15-camera-effect.softonic.se](https://camera-for-iphone-13-pro-ios-15-camera-effect.softonic.se)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Candy Cash
- - [https://candy-cash.softonic.se](https://candy-cash.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Canon LBP2900b driver
- - [https://canon-lbp2900b-driver.softonic.se](https://canon-lbp2900b-driver.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Cars: Fast as Lightning
- - [https://cars-fast-as-lightning.softonic.se](https://cars-fast-as-lightning.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Chamet -Live Video Chat  Meet
- - [https://chamet-live-video-chat-meet.softonic.se](https://chamet-live-video-chat-meet.softonic.se)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Cheats for The Sims FreePlay
- - [https://cheats-for-the-sims-freeplay.softonic.se](https://cheats-for-the-sims-freeplay.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Chrome Beta
- - [https://chrome-beta.softonic.se](https://chrome-beta.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Chrome OS Flex
- - [https://chrome-os-flex.softonic.se](https://chrome-os-flex.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Google Chrome
- - [https://chrome.softonic.se](https://chrome.softonic.se)
- - date_published: 2024-06-10T00:00:00+00:00
 
  ## Circl - Comparateur de courses
  - [https://circl-comparateur-de-courses.softonic.se](https://circl-comparateur-de-courses.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## Class 11th Biology NCERT Book
- - [https://class-11th-biology-ncert-book.softonic.se](https://class-11th-biology-ncert-book.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## ClonMax
- - [https://clonmax.softonic.se](https://clonmax.softonic.se)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Clozure CL
- - [https://clozure-cl.softonic.se](https://clozure-cl.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Cofeshow
- - [https://cofeshow.softonic.se](https://cofeshow.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## EML to Outlook Transfer
- - [https://convert-eml-to-outlook.softonic.se](https://convert-eml-to-outlook.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## CSS Wizard
- - [https://css-wizard.softonic.se](https://css-wizard.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Dana Now-Dana Credit Online
- - [https://dana-now-dana-credit-online.softonic.se](https://dana-now-dana-credit-online.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Darkmatte - Flat Dark Icon Pack
- - [https://darkmatte-flat-dark-icon-pack.softonic.se](https://darkmatte-flat-dark-icon-pack.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Debonairs Pizza Zambia
- - [https://debonairs-pizza-zambia.softonic.se](https://debonairs-pizza-zambia.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## DesktopReader for Quora
- - [https://desktopreader-for-quora.softonic.se](https://desktopreader-for-quora.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Dezor helper
- - [https://dezor-helper.softonic.se](https://dezor-helper.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Diigo Web Collector - Capture and Annotate
- - [https://diigo-web-collector-capture-and-annotate.softonic.se](https://diigo-web-collector-capture-and-annotate.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## DinuAI
- - [https://dinuai.softonic.se](https://dinuai.softonic.se)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## DNA Launcher - iOS, Minimalism
- - [https://dna-launcher-ios-minimalism.softonic.se](https://dna-launcher-ios-minimalism.softonic.se)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Dream League Soccer 2019
- - [https://dream-league-soccer-2017.softonic.se](https://dream-league-soccer-2017.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## duoCo Strip
- - [https://duoco-strip.softonic.se](https://duoco-strip.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Двигатель скутера Stels Skif
- - [https://dvigatel-skutera-stels-skif.softonic.se](https://dvigatel-skutera-stels-skif.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Earthsim
- - [https://earthsim.softonic.se](https://earthsim.softonic.se)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## eFootball PES 2021 Season Update
- - [https://efootball-pes-2021-season-update.softonic.se](https://efootball-pes-2021-season-update.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## El peliculero
- - [https://el-peliculero.softonic.se](https://el-peliculero.softonic.se)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Elsi - Smart Voice Assistant
- - [https://elsi-smart-voice-assistant.softonic.se](https://elsi-smart-voice-assistant.softonic.se)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## England Wallpaper
- - [https://england-wallpaper.softonic.se](https://england-wallpaper.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Eniro På sjön
- - [https://eniro-paa-sjoen.softonic.se](https://eniro-paa-sjoen.softonic.se)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Episodes Lite
- - [https://episodes-lite.softonic.se](https://episodes-lite.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
  ## Escape Game: Rainy Day House
  - [https://escape-game-rainy-day-house.softonic.se](https://escape-game-rainy-day-house.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## Etcher
- - [https://etcher.softonic.se](https://etcher.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Excire Foto Light
- - [https://excire-foto-light.softonic.se](https://excire-foto-light.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## ExpressVPN Keys: Password Manager
- - [https://expressvpn-keys-password-manager.softonic.se](https://expressvpn-keys-password-manager.softonic.se)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## FControl
- - [https://fcontrol.softonic.se](https://fcontrol.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## FFF Panel Hack Fire FFH4X Hac
- - [https://fff-panel-hack-fire-ffh4x-hac.softonic.se](https://fff-panel-hack-fire-ffh4x-hac.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## FINAL FANTASY VII EVER CRISIS
- - [https://final-fantasy-7-ever-crisis.softonic.se](https://final-fantasy-7-ever-crisis.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## FinMex - Dinero Rápido
- - [https://finmex-dinero-rapido.softonic.se](https://finmex-dinero-rapido.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Firefox Send
- - [https://firefox-send.softonic.se](https://firefox-send.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Flit Shopping
- - [https://flit-shopping.softonic.se](https://flit-shopping.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## فیلتر شکن پرسرعت قوی اندروید
- - [https://f-ltr-sh-n-rsraat-ko-ndro-d-nmy.softonic.se](https://f-ltr-sh-n-rsraat-ko-ndro-d-nmy.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Flyover Country
- - [https://flyover-country.softonic.se](https://flyover-country.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
 
  ## Food and Calorie Finder
  - [https://food-and-calorie-finder.softonic.se](https://food-and-calorie-finder.softonic.se)
@@ -3166,30 +2097,6 @@
  - [https://formula-1-widgets.softonic.se](https://formula-1-widgets.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## Freedom to
- - [https://freedom-to.softonic.se](https://freedom-to.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Free VPN
- - [https://free-vpn.softonic.se](https://free-vpn.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Free ZIP Password Recovery
- - [https://free-zip-password-recovery.softonic.se](https://free-zip-password-recovery.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Fronter
- - [https://fronter.softonic.se](https://fronter.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## FrostWire
- - [https://frostwire.softonic.se](https://frostwire.softonic.se)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Fruit Sorter
- - [https://fruit-sorter.softonic.se](https://fruit-sorter.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
  ## فیلتر شکن قوی پرسرعت Tiger VPN
  - [https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic.se](https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
@@ -3198,277 +2105,33 @@
  - [https://galatea-addictive-stories.softonic.se](https://galatea-addictive-stories.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## GAMA 567 - Matka Play Online
- - [https://gama-567-matka-play-online.softonic.se](https://gama-567-matka-play-online.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Gama 567 Matka Result Apps
- - [https://gama-567-matka-result-apps.softonic.se](https://gama-567-matka-result-apps.softonic.se)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## GarageBuy
- - [https://garagebuy.softonic.se](https://garagebuy.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## GarageSale
- - [https://garagesale-basic.softonic.se](https://garagesale-basic.softonic.se)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## GFX Tool  Games Booster
- - [https://gfx-tool-games-booster.softonic.se](https://gfx-tool-games-booster.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## GFX Tool Pro for BGM  PUB
- - [https://gfx-tool-pro-for-bgm-pub.softonic.se](https://gfx-tool-pro-for-bgm-pub.softonic.se)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Ghostbusters Wallpaper
- - [https://ghostbusters.softonic.se](https://ghostbusters.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## GPS Arrow Navigator LITE
- - [https://gps-arrow-navigator-lite.softonic.se](https://gps-arrow-navigator-lite.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## GPX to KMZ / KML converter
- - [https://gpx-to-kmz-kml-converter.softonic.se](https://gpx-to-kmz-kml-converter.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Grabit
- - [https://grabit.softonic.se](https://grabit.softonic.se)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Grand Theft Auto: San Andreas
- - [https://grand-theft-auto-san-andreas-game.softonic.se](https://grand-theft-auto-san-andreas-game.softonic.se)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Grand Theft Auto: Vice City
- - [https://grand-theft-auto-vice-city.softonic.se](https://grand-theft-auto-vice-city.softonic.se)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Green Screen AI
- - [https://green-screen-ai.softonic.se](https://green-screen-ai.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## GTA5 iPhone Wallpapers
- - [https://gta5-iphone-wallpapers.softonic.se](https://gta5-iphone-wallpapers.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
  ## GTA San Andreas Cheat Codes
  - [https://gta-san-andreas-cheat-codes.softonic.se](https://gta-san-andreas-cheat-codes.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## Grand Theft Auto V
- - [https://gta-v.softonic.se](https://gta-v.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Gujarati Bhajan Book - ગુજરાતી ભજન ડાયરી
- - [https://gujarati-bhajan-book.softonic.se](https://gujarati-bhajan-book.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## HappyMod
- - [https://happymod-bk5.softonic.se](https://happymod-bk5.softonic.se)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Happy New Year 2010 Wallpaper
- - [https://happy-new-year-2010-wallpaper.softonic.se](https://happy-new-year-2010-wallpaper.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Happy New Year Wallpaper
- - [https://happy-new-year-wallpaper2.softonic.se](https://happy-new-year-wallpaper2.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Harmony OS
- - [https://harmony-os.softonic.se](https://harmony-os.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Hasleo BitLocker Anywhere For Mac
- - [https://hasleo-bitlocker-anywhere-for-mac.softonic.se](https://hasleo-bitlocker-anywhere-for-mac.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## HD Movies 2024 All MovieBox
- - [https://hd-movies-2024-all-moviebox-3p6.softonic.se](https://hd-movies-2024-all-moviebox-3p6.softonic.se)
- - date_published: 2024-08-03T16:41:10.204416+00:00
-
- ## Heart - 3D Atlas of Anatomy Lite
- - [https://heart-3d-atlas-of-anatomy-lite.softonic.se](https://heart-3d-atlas-of-anatomy-lite.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Himnario LLDM
- - [https://himnario-lldm.softonic.se](https://himnario-lldm.softonic.se)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## 洪城乐骑行
- - [https://hong-cheng-le-qi-xing.softonic.se](https://hong-cheng-le-qi-xing.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Hot Stickers Adultos
- - [https://hot-stickers-adultos.softonic.se](https://hot-stickers-adultos.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## HP LaserJet M1005 Multifunction Printer drivers
- - [https://hp-laserjet-m1005-multifunction-printer-drivers.softonic.se](https://hp-laserjet-m1005-multifunction-printer-drivers.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## HP PSC 1410 All-in-One Printer drivers
- - [https://hp-psc-1410-all-in-one-printer-drivers.softonic.se](https://hp-psc-1410-all-in-one-printer-drivers.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## IconBurglar
- - [https://iconburglar.softonic.se](https://iconburglar.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
 
  ## Illuvium
  - [https://illuvium.softonic.se](https://illuvium.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## Install Disk Creator
- - [https://install-disk-creator.softonic.se](https://install-disk-creator.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
  ## Intergalactic
  - [https://intergalactic.softonic.se](https://intergalactic.softonic.se)
  - date_published: 2024-07-31T00:00:00+00:00
-
- ## Internet Download Manager
- - [https://internet-download-manager.softonic.se](https://internet-download-manager.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Internet Explorer 11 for Windows 7
- - [https://internet-explorer-11-windows-7.softonic.se](https://internet-explorer-11-windows-7.softonic.se)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Internet Explorer 9
- - [https://internet-explorer-9.softonic.se](https://internet-explorer-9.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## iOS 11
- - [https://ios-11.softonic.se](https://ios-11.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## iOS 16
- - [https://ios-16.softonic.se](https://ios-16.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## IP Camera Viewer
- - [https://ip-camera-viewer.softonic.se](https://ip-camera-viewer.softonic.se)
- - date_published: 2024-03-06T00:00:00+00:00
 
  ## Jeep Rally Hill Offroad
  - [https://jeep-rally-hill-offroad.softonic.se](https://jeep-rally-hill-offroad.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## Jenny Mod Minecraft
- - [https://jenny-mod-minecraft.softonic.se](https://jenny-mod-minecraft.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Jester AI - Caption Writer
- - [https://jester-ai-caption-writer.softonic.se](https://jester-ai-caption-writer.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Keyboard iOS 16 - Emojis
- - [https://keyboard-ios-16-emojis.softonic.se](https://keyboard-ios-16-emojis.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
  ## Kids Games: Safety Education
  - [https://kids-games-safety-education.softonic.se](https://kids-games-safety-education.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## 戦国炎舞 -KIZNA-
- - [https://kizna.softonic.se](https://kizna.softonic.se)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Knee Pro III with Animations
- - [https://knee-pro-iii-with-animations.softonic.se](https://knee-pro-iii-with-animations.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Krisp
- - [https://krisp.softonic.se](https://krisp.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Kuromi  My Melody Wallpapers
- - [https://kuromi-my-melody-wallpapers.softonic.se](https://kuromi-my-melody-wallpapers.softonic.se)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Laboratorio Celular
- - [https://laboratorio-celular.softonic.se](https://laboratorio-celular.softonic.se)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Launcher iOS 16
- - [https://launcher-ios-13.softonic.se](https://launcher-ios-13.softonic.se)
- - date_published: 2024-06-21T00:00:00+00:00
 
  ## LedBanner-sign lampboard app
  - [https://ledbanner-sign-lampboard-app.softonic.se](https://ledbanner-sign-lampboard-app.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## LengBear 777 - Khmer Games
- - [https://lengbear-777-khmer-games.softonic.se](https://lengbear-777-khmer-games.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## LEO Privacy
- - [https://leo-privacy.softonic.se](https://leo-privacy.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## LG TV Plus
- - [https://lg-tv-plus.softonic.se](https://lg-tv-plus.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Li789 Fishing
- - [https://li789-fishing.softonic.se](https://li789-fishing.softonic.se)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## LibreOffice Vanilla 7.2
- - [https://libreoffice-vanilla-72.softonic.se](https://libreoffice-vanilla-72.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## LicenseCrawler
- - [https://licensecrawler.softonic.se](https://licensecrawler.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Liftoff
- - [https://liftoff.softonic.se](https://liftoff.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
  ## Linkito
  - [https://linkito.softonic.se](https://linkito.softonic.se)
  - date_published: 2024-08-02T00:00:00+00:00
-
- ## Links Taxis Grimsby
- - [https://links-taxis-grimsby.softonic.se](https://links-taxis-grimsby.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Live Football TV HD
- - [https://live-football-tv-hd-kr1.softonic.se](https://live-football-tv-hd-kr1.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Live Video Call - Free Girls Video Call
- - [https://live-video-call-free-girls-video-call.softonic.se](https://live-video-call-free-girls-video-call.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## الجوكر 1
- - [https://ljwkr-1.softonic.se](https://ljwkr-1.softonic.se)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## LMC8.4 - Google Camera
- - [https://lmc.softonic.se](https://lmc.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## LuckyWire
- - [https://luckywire.softonic.se](https://luckywire.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## macOS Monterey
- - [https://macos-monterey.softonic.se](https://macos-monterey.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## macOS Sonoma
- - [https://macos-sonoma.softonic.se](https://macos-sonoma.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## MacX Video Converter Pro
- - [https://macx-video-converter-pro.softonic.se](https://macx-video-converter-pro.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
 
  ## Man Run 3D: Merge Cube 2048
  - [https://man-run-3d-merge-cube-2048.softonic.se](https://man-run-3d-merge-cube-2048.softonic.se)
@@ -3478,313 +2141,49 @@
  - [https://match-masters-rewards-mgo.softonic.se](https://match-masters-rewards-mgo.softonic.se)
  - date_published: 2024-07-31T00:00:00+00:00
 
- ## Megawords
- - [https://megawords.softonic.se](https://megawords.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## 美颜大师 - 修身美白大眼瘦脸
- - [https://mei-yan-da-shi-xiu-shen-mei-bai-da-yan-shou-lian.softonic.se](https://mei-yan-da-shi-xiu-shen-mei-bai-da-yan-shou-lian.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## MenuMate
- - [https://menumate.softonic.se](https://menumate.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Metodo de Guitarra I
- - [https://metodo-de-guitarra-i.softonic.se](https://metodo-de-guitarra-i.softonic.se)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Microsoft Office 2007 Service Pack 3
- - [https://microsoft-office-2007-service-pack-3.softonic.se](https://microsoft-office-2007-service-pack-3.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
  ## Microsoft Teams
  - [https://microsoft-teams.softonic.se](https://microsoft-teams.softonic.se)
  - date_published: 2024-07-31T00:00:00+00:00
-
- ## Microsoft Word
- - [https://microsoft-word.softonic.se](https://microsoft-word.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## miku2go
- - [https://miku2go.softonic.se](https://miku2go.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Minecraft: Java & Bedrock Edition
- - [https://minecraft.softonic.se](https://minecraft.softonic.se)
- - date_published: 2024-07-18T00:00:00+00:00
 
  ## Mini Fighter Arena Simulator
  - [https://mini-fighter-arena-simulator.softonic.se](https://mini-fighter-arena-simulator.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## mlMac
- - [https://mlmac.softonic.se](https://mlmac.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
  ## MoneyMe for windows
  - [https://moneyme-for-windows.softonic.se](https://moneyme-for-windows.softonic.se)
  - date_published: 2024-07-12T00:00:00+00:00
-
- ## MotoGP Wallpapers - Notch
- - [https://motogp-wallpapers-notch.softonic.se](https://motogp-wallpapers-notch.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Mozilla Firefox
- - [https://mozilla-firefox.softonic.se](https://mozilla-firefox.softonic.se)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Mozilla Stumbler
- - [https://mozilla-stumbler.softonic.se](https://mozilla-stumbler.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## mStocks+
- - [https://mstocks.softonic.se](https://mstocks.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Music Healing
- - [https://music-healing.softonic.se](https://music-healing.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## MyCashi  ماي كاشي
- - [https://mycashi-my-kshy.softonic.se](https://mycashi-my-kshy.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Naga Fishing World
- - [https://naga-fishing-world.softonic.se](https://naga-fishing-world.softonic.se)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS
- - [https://naruto-x-boruto-ultimate-ninja-storm-connections.softonic.se](https://naruto-x-boruto-ultimate-ninja-storm-connections.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Nature Wallpaper
- - [https://nature-wallpaper.softonic.se](https://nature-wallpaper.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
 
  ## Neverness to Everness
  - [https://neverness-to-everness.softonic.se](https://neverness-to-everness.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## Norton Power Eraser
- - [https://norton-power-eraser.softonic.se](https://norton-power-eraser.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Noticias virtuales
- - [https://noticias-virtuales.softonic.se](https://noticias-virtuales.softonic.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## OneSwarm
- - [https://oneswarm.softonic.se](https://oneswarm.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## OnlineFamily.Norton
- - [https://onlinefamily-norton.softonic.se](https://onlinefamily-norton.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Oppa VPN
- - [https://oppa-vpn.softonic.se](https://oppa-vpn.softonic.se)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## OS14 Launcher App Lib i OS14
- - [https://os14-launcher-app-lib-i-os14.softonic.se](https://os14-launcher-app-lib-i-os14.softonic.se)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Otter: Transcribe Voice Notes
- - [https://otter-voice-meeting-notes.softonic.se](https://otter-voice-meeting-notes.softonic.se)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Pack Avatares Toi
- - [https://pack-avatares-toi.softonic.se](https://pack-avatares-toi.softonic.se)
- - date_published: 2024-06-14T00:00:00+00:00
-
  ## Panel Legend
  - [https://panel-legend.softonic.se](https://panel-legend.softonic.se)
  - date_published: 2024-02-01T00:00:00+00:00
-
- ## Parkfy
- - [https://parkfy.softonic.se](https://parkfy.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## PDF Reader for Windows 7
- - [https://pdf-reader-for-windows-7.softonic.se](https://pdf-reader-for-windows-7.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Free PDF reader
- - [https://pdf-reader.softonic.se](https://pdf-reader.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Pensum: universities careers and subjects
- - [https://pensum-universities-careers-and-subjects.softonic.se](https://pensum-universities-careers-and-subjects.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Perfect Keylogger for Mac Lite
- - [https://perfect-keylogger-for-mac-lite.softonic.se](https://perfect-keylogger-for-mac-lite.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
 
  ## Perimeter 81
  - [https://perimeter-81.softonic.se](https://perimeter-81.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
 
- ## Personal AI
- - [https://personal-ai.softonic.se](https://personal-ai.softonic.se)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Petzbe: No Humans Allowed
- - [https://petzbe-no-humans-allowed.softonic.se](https://petzbe-no-humans-allowed.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## 프로주선자 for 바닐라브릿지
- - [https://peurojuseonja-for-banilrabeurisji.softonic.se](https://peurojuseonja-for-banilrabeurisji.softonic.se)
- - date_published: 2024-03-21T00:00:00+00:00
-
  ## Picasa
  - [https://picasa.softonic.se](https://picasa.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## Pink Video Chat: 18 Live Chat
- - [https://pink-video-chat-18-live-chat.softonic.se](https://pink-video-chat-18-live-chat.softonic.se)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Pixel Car Racing: Blocky Crash
- - [https://pixel-car-racing-blocky-crash.softonic.se](https://pixel-car-racing-blocky-crash.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Playlist Maker for Spotify
- - [https://playlist-maker-for-spotify.softonic.se](https://playlist-maker-for-spotify.softonic.se)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## POF - Free Dating App
- - [https://pof-free-online-dating.softonic.se](https://pof-free-online-dating.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Profile Switcher
- - [https://profile-switcher.softonic.se](https://profile-switcher.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Puffin Web Browser
- - [https://puffin-web-browser.softonic.se](https://puffin-web-browser.softonic.se)
- - date_published: 2024-04-12T00:00:00+00:00
 
  ## qBittorrent
  - [https://qbittorrent.softonic.se](https://qbittorrent.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
 
- ## Quick VPN - Unlimited VPN
- - [https://quick-vpn-unlimited-vpn.softonic.se](https://quick-vpn-unlimited-vpn.softonic.se)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Radio Frequency Detector
- - [https://radio-frequency-detector.softonic.se](https://radio-frequency-detector.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Ranch Rush 2 Premium Edition
- - [https://ranch-rush-2-premium-edition.softonic.se](https://ranch-rush-2-premium-edition.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## RDM+ Desktop Lite
- - [https://rdm-desktop-lite.softonic.se](https://rdm-desktop-lite.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
  ## Realtek HD Audio Drivers x64
  - [https://realtek-hd-audio-drivers-x64.softonic.se](https://realtek-hd-audio-drivers-x64.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## ResolutionTab
- - [https://resolutiontab.softonic.se](https://resolutiontab.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Retaliate
- - [https://retaliate.softonic.se](https://retaliate.softonic.se)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Rhyme Finder
- - [https://rhyme-finder.softonic.se](https://rhyme-finder.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Roblox
- - [https://roblox-mobile.softonic.se](https://roblox-mobile.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## ROBLOX
- - [https://roblox.softonic.se](https://roblox.softonic.se)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Ruby 9 - Fishing Arcade Game
- - [https://ruby-9-fishing-arcade-game.softonic.se](https://ruby-9-fishing-arcade-game.softonic.se)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Ruok FF Auto Headshot
- - [https://ruok-ff-auto-headshot.softonic.se](https://ruok-ff-auto-headshot.softonic.se)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Salaat Time
- - [https://salaat-time.softonic.se](https://salaat-time.softonic.se)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Sandboxie
- - [https://sandboxie.softonic.se](https://sandboxie.softonic.se)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Santa Claus Icons
- - [https://santa-claus-icons.softonic.se](https://santa-claus-icons.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## SCHOOLBOY RUNAWAY - STEALTH
- - [https://schoolboy-runaway-stealth.softonic.se](https://schoolboy-runaway-stealth.softonic.se)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Screen Cut – Screenshot app
- - [https://screen-cut-screenshot-app.softonic.se](https://screen-cut-screenshot-app.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Screeny
- - [https://screeny.softonic.se](https://screeny.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Shareit
- - [https://shareit.softonic.se](https://shareit.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
 
  ## Shutter Island Wallpaper
  - [https://shutter-island-wallpaper.softonic.se](https://shutter-island-wallpaper.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
 
- ## Simontok
- - [https://simontok.softonic.se](https://simontok.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
  ## Skins Maker for Roblux
  - [https://skins-maker-for-roblux.softonic.se](https://skins-maker-for-roblux.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## SkySwings
- - [https://skyswings.softonic.se](https://skyswings.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## SnapDish AI Food Camera  Recipes
- - [https://snapdish-ai-food-camera-recipes.softonic.se](https://snapdish-ai-food-camera-recipes.softonic.se)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## SocksDroid
- - [https://socksdroid.softonic.se](https://socksdroid.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Soundflower
- - [https://soundflower.softonic.se](https://soundflower.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Speakapedia
- - [https://speakapedia.softonic.se](https://speakapedia.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Speed Reading III
- - [https://speed-reading-iii.softonic.se](https://speed-reading-iii.softonic.se)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Splinter Cell: Pandora Tomorrow
- - [https://splinter-cell-pandora-tomorrow-1.softonic.se](https://splinter-cell-pandora-tomorrow-1.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
 
  ## Splitgate 2 Companion
  - [https://splitgate-2-companion.softonic.se](https://splitgate-2-companion.softonic.se)
@@ -3794,53 +2193,9 @@
  - [https://sports-sports-netflix.softonic.se](https://sports-sports-netflix.softonic.se)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## Stack Menu
- - [https://stack-menu.softonic.se](https://stack-menu.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
  ## Starlike
  - [https://starlike.softonic.se](https://starlike.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## Stash.ai
- - [https://stash-ai.softonic.se](https://stash-ai.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Status Barred
- - [https://status-barred.softonic.se](https://status-barred.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Steampunk Weather Widget
- - [https://steampunk-weather-widget.softonic.se](https://steampunk-weather-widget.softonic.se)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Stellar Data Recovery Free
- - [https://stellar-data-recovery-free.softonic.se](https://stellar-data-recovery-free.softonic.se)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Data Recovery Premium
- - [https://stellar-data-recovery-premium.softonic.se](https://stellar-data-recovery-premium.softonic.se)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Data Recovery Technician
- - [https://stellar-data-recovery-technician.softonic.se](https://stellar-data-recovery-technician.softonic.se)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Photo Recovery Free
- - [https://stellar-photo-recovery-free.softonic.se](https://stellar-photo-recovery-free.softonic.se)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Repair for Photo
- - [https://stellar-repair-for-photo.softonic.se](https://stellar-repair-for-photo.softonic.se)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Svenska Folkbibeln Swedish Bible
- - [https://svenska-folkbibeln-swedish-bible.softonic.se](https://svenska-folkbibeln-swedish-bible.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Syrinx
- - [https://syrinx.softonic.se](https://syrinx.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
 
  ## Tatami
  - [https://tatami.softonic.se](https://tatami.softonic.se)
@@ -3850,149 +2205,17 @@
  - [https://taxsoft-2013.softonic.se](https://taxsoft-2013.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
 
- ## Tera Term
- - [https://tera-term.softonic.se](https://tera-term.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Thanksgiving for iMessage Stickers
- - [https://thanksgiving-for-imessage-stickers.softonic.se](https://thanksgiving-for-imessage-stickers.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## The Simpsons Icons
- - [https://the-simpsons-icons.softonic.se](https://the-simpsons-icons.softonic.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Tib e Nabvi se Ilaj in Urdu -  طب نبوی ﷺ  سےعلاج
- - [https://tib-e-nabvi-se-ilaj-in-urdu-tb-nbo-s-aal-g.softonic.se](https://tib-e-nabvi-se-ilaj-in-urdu-tb-nbo-s-aal-g.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Time Bandit – Part 1: Appendages of the Machine
- - [https://time-bandit-part-1-appendages-of-the-machine.softonic.se](https://time-bandit-part-1-appendages-of-the-machine.softonic.se)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## Timetracker
- - [https://timetracker.softonic.se](https://timetracker.softonic.se)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## Toca Kitchen Sushi Restaurant
- - [https://toca-kitchen-sushi.softonic.se](https://toca-kitchen-sushi.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Todos Los PEES Para Android
- - [https://todos-los-pees-para-android.softonic.se](https://todos-los-pees-para-android.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Topaz Photo AI
- - [https://topaz-photo-ai.softonic.se](https://topaz-photo-ai.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
  ## Topaz Video AI
  - [https://topaz-video-ai.softonic.se](https://topaz-video-ai.softonic.se)
  - date_published: 2024-03-06T00:00:00+00:00
-
- ## Torque App - OBD2 Car Check Pro
- - [https://torque-app-obd2-car-check-pro.softonic.se](https://torque-app-obd2-car-check-pro.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## TubeMate 2
- - [https://tubemate-2.softonic.se](https://tubemate-2.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Tululoo Game Maker
- - [https://tululoo-game-maker.softonic.se](https://tululoo-game-maker.softonic.se)
- - date_published: 2024-06-16T00:00:00+00:00
 
  ## Twelve AM Co
  - [https://twelve-am-co.softonic.se](https://twelve-am-co.softonic.se)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## TwitterBar
- - [https://twitterbar-mac.softonic.se](https://twitterbar-mac.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## X (Twitter)
- - [https://twitter.softonic.se](https://twitter.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## UC Browser Mini
- - [https://uc-browser-mini.softonic.se](https://uc-browser-mini.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Usagi-Doshi Wallpaper
- - [https://usagi-doshi-wallpaper.softonic.se](https://usagi-doshi-wallpaper.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## uTorrent
- - [https://utorrent.softonic.se](https://utorrent.softonic.se)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## V2Box - V2ray Client
- - [https://v2box-v2ray-client.softonic.se](https://v2box-v2ray-client.softonic.se)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## V2Lite - Fast And Unlimited
- - [https://v2lite-fast-and-unlimited.softonic.se](https://v2lite-fast-and-unlimited.softonic.se)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Vespa Connectivity
- - [https://vespa-connectivity.softonic.se](https://vespa-connectivity.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Videotone: Video Ringtones App
- - [https://videotone-video-ringtones-app.softonic.se](https://videotone-video-ringtones-app.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## VirtueDesktops
- - [https://virtuedesktops.softonic.se](https://virtuedesktops.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## VLC for Windows 10
- - [https://vlc-windows-10.softonic.se](https://vlc-windows-10.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
  ## Voloco
  - [https://voloco-auto-voice-tune-harmonizer-and-karaoke.softonic.se](https://voloco-auto-voice-tune-harmonizer-and-karaoke.softonic.se)
  - date_published: 2024-07-31T00:00:00+00:00
-
- ## VPN  TOR Browser and Ad Block
- - [https://vpn-browser-tor-powered-unlimited-vpn.softonic.se](https://vpn-browser-tor-powered-unlimited-vpn.softonic.se)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## 轻蜂加速器 - VPN加速神器
- - [https://vpn-dyc.softonic.se](https://vpn-dyc.softonic.se)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Vuze
- - [https://vuze.softonic.se](https://vuze.softonic.se)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Wattpad
- - [https://wattpad.softonic.se](https://wattpad.softonic.se)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Webbla
- - [https://webbla.softonic.se](https://webbla.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## WhatsApp Beta
- - [https://whatsapp-beta.softonic.se](https://whatsapp-beta.softonic.se)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Wikibot — A Wikipedia Articles Reader
- - [https://wikibot-a-wikipedia-articles-reader.softonic.se](https://wikibot-a-wikipedia-articles-reader.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Wilcom Truesizer
- - [https://wilcom-truesizer.softonic.se](https://wilcom-truesizer.softonic.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Windows 10
- - [https://windows-10.softonic.se](https://windows-10.softonic.se)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Windows Media Player HTML5 Extension for Chrome
- - [https://windows-media-player-html5-extension-for-chrome.softonic.se](https://windows-media-player-html5-extension-for-chrome.softonic.se)
- - date_published: 2024-02-15T00:00:00+00:00
 
  ## Woohoo!
  - [https://woohoo-puzzle-game-gray-swan-games.softonic.se](https://woohoo-puzzle-game-gray-swan-games.softonic.se)
@@ -4002,19 +2225,1812 @@
  - [https://softonic.se](https://softonic.se)
  - date_published: 2024-04-29T05:12:50.324885+00:00
 
- ## Xbox Game Bar
- - [https://xbox-game-bar.softonic.se](https://xbox-game-bar.softonic.se)
- - date_published: 2024-02-16T00:00:00+00:00
+ ## YouCam Makeup: Selfie Editor
+ - [https://youcam-makeup.softonic.se](https://youcam-makeup.softonic.se)
+ - date_published: 2024-08-01T00:00:00+00:00
 
- ## Xmarks Sync
- - [https://xmarks-bookmark-synchronizer-foxmarks.softonic.se](https://xmarks-bookmark-synchronizer-foxmarks.softonic.se)
- - date_published: 2024-02-20T00:00:00+00:00
+ ## FILM, NEW MEDIA & ART - SOLARIS FILMPRODUKTION
+ - [http://www.solarisfilm.se](http://www.solarisfilm.se)
+ - date_published: 2024-06-17T09:15:10.367997+00:00
 
- ## Xml Config File For Gcam
- - [https://xml-config-file-for-gcam.softonic.se](https://xml-config-file-for-gcam.softonic.se)
+ ## Hitta Svenska Solcellsföretag - Solenergiexperten
+ - [https://solcellsforetag.se](https://solcellsforetag.se)
+ - date_published: 2023-08-28T12:40:59+00:00
+
+ ## Webbyrå i Göteborg - Solvd WooCommerce & Wordpress
+ - [http://solvd.se](http://solvd.se)
+ - date_published: 2023-11-13T00:00:00+00:00
+
+ ## Sony Pictures Sweden | Homepage
+ - [https://www.sonypictures.se](https://www.sonypictures.se)
+ - date_published: 2024-07-28T03:59:49.925831+00:00
+
+ ## Sopra Steria | Global partner inom digital transformation
+ - [https://www.soprasteria.se](https://www.soprasteria.se)
+ - date_published: 2024-07-04T12:16:41.661592+00:00
+
+ ## Soundproof – Composer & sound designer
+ - [http://www.soundproof.se](http://www.soundproof.se)
+ - date_published: 2024-06-17T09:14:54.918163+00:00
+
+ ## SPARTOO | Skor, väskor och kläder | Fri frakt
+ - [https://www.spartoo.se](https://www.spartoo.se)
+ - date_published: 2024-06-12T11:12:36.952489+00:00
+
+ ## Gratis Spel - Spela gratisspel online på spela.se
+ - [https://www.spela.se](https://www.spela.se)
+ - date_published: 2024-07-20T02:43:54.634526+00:00
+
+ ## Spel & Sånt: The video game store with the happiest customers
+ - [https://www.spelochsant.se](https://www.spelochsant.se)
+ - date_published: 2024-07-20T20:57:56.594179+00:00
+
+ ## Spelpappan Jimmy Wilhelmsson – Grävande artiklar om datorspel, rollspel, brädspel, nördböcker och serier.
+ - [https://spelpappan.se](https://spelpappan.se)
+ - date_published: 2023-10-25T22:37:31.118951+00:00
+
+ ## Språknämnden
+ - [http://www.spraknamnden.se](http://www.spraknamnden.se)
+ - date_published: 2024-07-02T09:34:32.473416+00:00
+
+ ## Institutet för språk och folkminnen
+ - [http://www.sprakradet.se](http://www.sprakradet.se)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## T-shirt med tryck, trycka t-shirts | Spreadshirt
+ - [https://www.spreadshirt.se](https://www.spreadshirt.se)
+ - date_published: 2024-06-18T10:20:11.056037+00:00
+
+ ## Parked at Loopia
+ - [http://www.staples.se](http://www.staples.se)
+ - date_published: 2024-08-05T21:53:44.385986+00:00
+
+ ## Mediemyndigheten
+ - [https://statensmedierad.se](https://statensmedierad.se)
+ - date_published: 2024-05-07T23:41:04.102188+00:00
+
+ ## Statkraft  | Statkraft
+ - [https://www.statkraft.se](https://www.statkraft.se)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Statkraft Varme | Överskottsenergi och fjärrvärme i Sverige
+ - [https://www.statkraftvarme.se](https://www.statkraftvarme.se)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Stena Fastigheter
+ - [https://www.stenafastigheter.se](https://www.stenafastigheter.se)
+ - date_published: 2024-07-13T19:45:24.301809+00:00
+
+ ## Joina vårt StickerApp team | Lediga tjänster - StickerApp
+ - [https://jobbahososs.stickerapp.se](https://jobbahososs.stickerapp.se)
+ - date_published: 2024-07-22T09:35:01.957198+00:00
+
+ ## Gör klistermärken, etiketter & dekaler!
+ - [https://stickerapp.se](https://stickerapp.se)
+ - date_published: 2024-04-30T02:46:32.856271+00:00
+
+ ## Stödlinjen för spelare och anhöriga
+ - [https://stodlinjen.se](https://stodlinjen.se)
+ - date_published: 2024-07-22T10:51:46.410005+00:00
+
+ ## STRATO | Tänkt och gjort.
+ - [https://www.strato.se](https://www.strato.se)
+ - date_published: 2024-06-13T05:46:04+00:00
+
+ ## Studio Allsvenskan
+ - [http://studioallsvenskan.se](http://studioallsvenskan.se)
+ - date_published: 2024-04-19T10:12:59+00:00
+
+ ## Study in Sweden - Live and learn the Swedish way ✌️
+ - [https://cms.studyinsweden.se](https://cms.studyinsweden.se)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Study in Sweden - Live and learn the Swedish way ✌️
+ - [https://studyinsweden.se](https://studyinsweden.se)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Heminredning, inredning, inspiration - StyleRoom
+ - [https://styleroom.se](https://styleroom.se)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Stockholms universitet
+ - [https://www.su.se](https://www.su.se)
+ - date_published: 2023-10-25T11:23:47.766606+00:00
+
+ ## Nyheter - SUGA
+ - [http://suga.se](http://suga.se)
+ - date_published: 2024-06-09T01:49:45+00:00
+
+ ## Mastodon @ SUNET
+ - [https://mastodon.acc.sunet.se](https://mastodon.acc.sunet.se)
+ - date_published: 2024-05-11T09:34:05.486644+00:00
+
+ ## Sunet Social
+ - [https://social.sunet.se](https://social.sunet.se)
+ - date_published: 2024-06-22T21:43:08.183062+00:00
+
+ ## Sunet
+ - [https://sunet.se](https://sunet.se)
+ - date_published: 2024-06-22T21:42:55.769548+00:00
+
+ ## Login
+ - [https://app.suntcontent.se](https://app.suntcontent.se)
+ - date_published: 2024-06-25T22:27:39.893866+00:00
+
+ ## Superprof - Nätverket för privatlärare
+ - [https://www.superprof.se](https://www.superprof.se)
+ - date_published: 2024-06-15T01:27:48.542163+00:00
+
+ ## Sveriges kvalitetssajt för nyheter
+ - [https://www.svd.se](https://www.svd.se)
+ - date_published: 2024-06-17T01:30:28.857491+00:00
+
+ ## Svenska Akademien
+ - [https://www.svenskaakademien.se](https://www.svenskaakademien.se)
+ - date_published: 2024-06-20T02:44:52.770804+00:00
+
+ ## Domännamns Registrering & Webbhotell - Svenska Domäner
+ - [https://www.svenskadomaner.se](https://www.svenskadomaner.se)
+ - date_published: 2024-07-27T03:06:18.552689+00:00
+
+ ## Svenskarna och internet | Internetstiftelsen
+ - [https://svenskarnaochinternet.se](https://svenskarnaochinternet.se)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## För dig som älskar kungligt och kändisar | Svensk Damtidning
+ - [https://www.svenskdam.se](https://www.svenskdam.se)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Svensk Filmdatabas – den bästa källan om svensk film
+ - [http://www.svenskfilmdatabas.se](http://www.svenskfilmdatabas.se)
+ - date_published: 2023-01-04T18:23:06+00:00
+
+ ## Hem - Svensk Reumatologisk Förening
+ - [https://svenskreumatologi.se](https://svenskreumatologi.se)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Start
+ - [https://www.svensktidskrift.se](https://www.svensktidskrift.se)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## www.sverigeskonsumenter.se - Sveriges Konsumenter
+ - [https://www.sverigeskonsumenter.se](https://www.sverigeskonsumenter.se)
+ - date_published: 2024-07-09T21:17:42.589869+00:00
+
+ ## Sveriges Radio | Var med och ge röst åt fler röster
+ - [https://karriar.sverigesradio.se](https://karriar.sverigesradio.se)
+ - date_published: 2024-05-11T08:02:36.966413+00:00
+
+ ## Sveriges Radio - lokala och rikstäckande radiokanaler
+ - [https://sverigesradio.se](https://sverigesradio.se)
+ - date_published: 2023-10-25T22:37:32.906094+00:00
+ - tags: ['radio']
+
+ ## Hej 👋 Hur kan vi hjälpa dig? | SVT Kontakt
+ - [https://kontakt.svt.se](https://kontakt.svt.se)
+ - date_published: 2024-07-09T19:45:51.486164+00:00
+
+ ## SVT Nyhetsbrev - Tips om serier, recept och dokumentärer
+ - [https://nyhetsbrev.svt.se](https://nyhetsbrev.svt.se)
+ - date_published: 2024-07-09T19:45:50+00:00
+
+ ## SVT Nyheter
+ - [http://svt.se](http://svt.se)
+ - date_published: 2024-07-02T09:34:46.379567+00:00
+
+ ## Valkompass EU-valet 2024 | SVT Nyheter
+ - [https://valkompass.svt.se](https://valkompass.svt.se)
+ - date_published: 2024-05-09T06:21:40.167874+00:00
+
+ ## Valresultat 2024 för Sverige i EU-valet
+ - [https://valresultat.svt.se](https://valresultat.svt.se)
+ - date_published: 2024-06-18T11:13:09+00:00
+
+ ## SVT Nyheter
+ - [https://www.svt.se](https://www.svt.se)
+ - date_published: 2023-11-28T17:41:44.561880+00:00
+
+ ## Nyhetsbrev | SVT Play
+ - [https://nyhetsbrev.svtplay.se](https://nyhetsbrev.svtplay.se)
+ - date_published: 2024-05-09T06:21:39.445237+00:00
+
+ ## SVT Play
+ - [https://svtplay.se](https://svtplay.se)
+ - date_published: 2024-03-09T20:33:02.211211+00:00
+
+ ## SwebbTube
+ - [https://swebbtube.se](https://swebbtube.se)
+ - date_published: 2024-07-03T18:46:36.470814+00:00
+
+ ## Swebbtv shop – Merch, böcker och annat
+ - [https://butik.swebbtv.se](https://butik.swebbtv.se)
+ - date_published: 2024-07-03T18:46:40.351650+00:00
+
+ ## Nyheter Swebbtv
+ - [https://nyheter.swebbtv.se](https://nyheter.swebbtv.se)
+ - date_published: 2024-07-03T18:46:27.131503+00:00
+
+ ## Swebbtv
+ - [https://swebbtv.se](https://swebbtv.se)
+ - date_published: 2024-07-03T18:47:58.384522+00:00
+
+ ## Swedbank och Sparbankerna
+ - [https://online.swedbank.se](https://online.swedbank.se)
+ - date_published: 2024-06-16T10:50:39.220726+00:00
+
+ ## Privat
+ - [https://www.swedbank.se](https://www.swedbank.se)
+ - date_published: 2024-05-01T06:31:24.673443+00:00
+
+ ## أهلاً بكم في موقع السويد الرسمي - ar.sweden.se
+ - [https://ar.sweden.se](https://ar.sweden.se)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Hej! Welcome to sweden.se – the official website of Sweden
+ - [https://cms.sweden.se](https://cms.sweden.se)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Start | Sweden
+ - [https://identity.sweden.se](https://identity.sweden.se)
+ - date_published: 2023-10-25T22:37:34.022899+00:00
+
+ ## Официальный сайт Швеции на русском языке - ru.sweden.se
+ - [https://ru.sweden.se](https://ru.sweden.se)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Hej! Welcome to sweden.se – the official website of Sweden
+ - [https://sweden.se](https://sweden.se)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Startsida
+ - [https://www.swedenabroad.se](https://www.swedenabroad.se)
+ - date_published: 2024-07-09T17:22:12+00:00
+
+ ## The C++ user groups of Sweden
+ - [http://www.swedencpp.se](http://www.swedencpp.se)
+ - date_published: 2024-07-07T01:41:24.577059+00:00
+
+ ## Sweden Solar System
+ - [http://www.swedensolarsystem.se](http://www.swedensolarsystem.se)
+ - date_published: 2024-06-20T02:57:09.849091+00:00
+
+ ## Swipnet - arkiverat för IIS Internetmuseum
+ - [http://home.swipnet.se](http://home.swipnet.se)
+ - date_published: 2024-06-17T02:21:21.746981+00:00
+
+ ## Sydsvenskan
+ - [https://www.sydsvenskan.se](https://www.sydsvenskan.se)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Välkommen till Systembolaget
+ - [https://www.systembolaget.se](https://www.systembolaget.se)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Start -  t12t
+ - [https://www.t12t.se](https://www.t12t.se)
+ - date_published: 2024-04-19T06:12:57+00:00
+
+ ## Tackfilm - Gör en tackfilm Radiotjänst
+ - [http://en.tackfilm.se](http://en.tackfilm.se)
+ - date_published: 2020-03-05T08:06:05+00:00
+
+ ## Tandblekning hemma | Stor guide & Bäst i Test 2024
+ - [https://tandblekningbutiken.se](https://tandblekningbutiken.se)
+ - date_published: 2024-05-08T10:01:34.202482+00:00
+
+ ## tätatät®
+ - [https://www.tatatat.se](https://www.tatatat.se)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Custom Domain by Bitly
+ - [https://tclr.se](https://tclr.se)
+ - date_published: 2024-05-06T20:27:26.742641+00:00
+
+ ## TDH.se | Thord D. Hedengren ⚡️
+ - [https://tdh.se](https://tdh.se)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## The Tech Arena 2024 » Tech Arena
+ - [https://techarena.se](https://techarena.se)
+ - date_published: 2024-06-25T08:36:30+00:00
+
+ ## Techarenan: Entrepreneurship and Innovation Platform
+ - [https://techarenan.se](https://techarenan.se)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Mobiltelefoner, abonnemang, bredband, tv & streaming - Tele2
+ - [http://www.tele2.se](http://www.tele2.se)
+ - date_published: 2024-06-16T16:25:59.993742+00:00
+
+ ## Streama filmer, serier och dokumentärer på Tele2 Play - Tele2 Play
+ - [https://www.tele2play.se](https://www.tele2play.se)
+ - date_published: 2024-06-16T16:26:03.620706+00:00
+
+ ## 5g löken är här. - Telia
+ - [https://5g-loken.telia.se](https://5g-loken.telia.se)
+ - date_published: 2024-06-16T09:07:24.599232+00:00
+
+ ## Telia
+ - [https://press.telia.se](https://press.telia.se)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## BlueConic: Log In
+ - [https://t944.telia.se](https://t944.telia.se)
+ - date_published: 2024-06-16T09:07:23.741913+00:00
+
+ ## 5G typ överallt. Det är Telia.
+ - [https://telia.se](https://telia.se)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Telia Webbshop
+ - [https://webbshop.telia.se](https://webbshop.telia.se)
+ - date_published: 2024-06-16T09:07:27.448022+00:00
+
+ ## Telia som nätägare
+ - [https://www.natet.telia.se](https://www.natet.telia.se)
+ - date_published: 2024-04-18T11:25:55+00:00
+
+ ## Testarna.se - Hitta produkterna som är bäst i test år 2023
+ - [https://www.testarna.se](https://www.testarna.se)
+ - date_published: 2024-07-22T10:50:35.114341+00:00
+
+ ## Tester - Bäst i test & Testvinnare från Testfakta
+ - [https://testfakta.se](https://testfakta.se)
+ - date_published: 2024-05-08T10:01:16.405718+00:00
+
+ ## Login | Prenly
+ - [https://content.textalk.se](https://content.textalk.se)
+ - date_published: 2024-06-24T07:35:09.983548+00:00
+
+ ## Starta webshop med e-handelsplattformen Abicart från Textalk
+ - [https://shop.textalk.se](https://shop.textalk.se)
+ - date_published: 2024-05-08T05:32:52.248466+00:00
+
+ ## Textalk - e-tidningar, e-handel & webshop för alla
+ - [https://textalk.se](https://textalk.se)
+ - date_published: 2024-07-04T07:51:50.591522+00:00
+
+ ## The Local - Sweden's news in English
+ - [https://thelocal.se](https://thelocal.se)
+ - date_published: 2023-10-25T22:37:36.940875+00:00
+ - tags: ['sweden news']
+
+ ## Homepage
+ - [https://www.thenorthface.se](https://www.thenorthface.se)
+ - date_published: 2024-07-12T07:36:14.884889+00:00
+
+ ## Therion | therion
+ - [https://therion.se](https://therion.se)
+ - date_published: 2024-07-01T14:18:50+00:00
+ - tags: ['music band']
+
+ ## the Swedish Times
+ - [https://theswedishtimes.se](https://theswedishtimes.se)
+ - date_published: 2024-01-09T03:46:48.677501+00:00
+
+ ## Things by Björk
+ - [http://www.thingsbybjork.se](http://www.thingsbybjork.se)
+ - date_published: 2022-07-09T13:15:09+00:00
+
+ ## 【Billiga resor】Sök flyg, hotell, charter & sista minuten - Ticket.se
+ - [https://www.ticket.se](https://www.ticket.se)
+ - date_published: 2024-07-09T12:17:48.250135+00:00
+
+ ## Frihetligt gröna nyheter - Nyhetsmagasinet Syre
+ - [https://tidningensyre.se](https://tidningensyre.se)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Tillitis TKey Developer Handbook
+ - [https://dev.tillitis.se](https://dev.tillitis.se)
+ - date_published: 2023-12-25T18:51:42.187765+00:00
+
+ ## Tillitis – Tillitis – The creator of TKey, the open source USB security key alternative.
+ - [https://www.tillitis.se](https://www.tillitis.se)
+ - date_published: 2023-10-25T22:37:38.676725+00:00
+
+ ## Tillväxtverket
+ - [https://www.tillvaxtverket.se](https://www.tillvaxtverket.se)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## B2 Cloud Storage: Low Cost, High Performance Object Storage
+ - [https://f2.toyhou.se](https://f2.toyhou.se)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Toyhouse
+ - [https://toyhou.se](https://toyhou.se)
+ - date_published: 2024-05-08T10:43:55.522136+00:00
+
+ ## Toyota Sverige – Nya bilar, återförsäljare, service.
+ - [https://www.toyota.se](https://www.toyota.se)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Förarprov - Bokning
+ - [https://fp.trafikverket.se](https://fp.trafikverket.se)
+ - date_published: 2024-07-22T02:10:53.391301+00:00
+
+ ## Train & Rail
+ - [https://www.trainrail.se](https://www.trainrail.se)
+ - date_published: 2024-06-28T12:52:53.901568+00:00
+
+ ## Portalen för Transportforskning
+ - [https://transportportal.se](https://transportportal.se)
+ - date_published: 2024-03-25T15:27:16+00:00
+
+ ## Tripadvisor: Över en miljard omdömen och inlägg om hotell, sevärdheter, restauranger och mer därtill
+ - [https://www.tripadvisor.se](https://www.tripadvisor.se)
+ - date_published: 2024-06-23T09:26:46.429263+00:00
+
+ ## Bilen
+ - [https://bilen.trygghansa.se](https://bilen.trygghansa.se)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Familjen
+ - [https://familjen.trygghansa.se](https://familjen.trygghansa.se)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Hemmet
+ - [https://hemmet.trygghansa.se](https://hemmet.trygghansa.se)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Trygg-Hansa Försäkringar - Trygghet för livet
+ - [https://trygghansa.se](https://trygghansa.se)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Trygg Hansa Säkerhetsshop | Säkerhetsprodukter
+ - [https://www.trygghansashop.se](https://www.trygghansashop.se)
+ - date_published: 2024-07-12T06:51:40.128680+00:00
+
+ ## TT Nyhetsbyrån - Sveriges nationella nyhetsbyrå sedan 1921 - Nyheter - bild
+ - [https://tt.se](https://tt.se)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Via TT
+ - [https://via.tt.se](https://via.tt.se)
+ - date_published: 2024-05-06T22:56:53.718348+00:00
+
+ ## Tidningsutgivarna - Mediehusens branschorganisation
+ - [https://tu.se](https://tu.se)
+ - date_published: 2024-06-29T04:22:49.594633+00:00
+
+ ## Välkommen till Tupalo
+ - [https://www.tupalo.se](https://www.tupalo.se)
+ - date_published: 2024-06-29T19:12:18.431727+00:00
+
+ ## At your secret service
+ - [https://tutus.se](https://tutus.se)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## TV4 Play | Hela Sveriges streamingtjänst
+ - [https://tv4play.se](https://tv4play.se)
+ - date_published: 2024-07-14T09:23:02.210502+00:00
+
+ ## Tyda - lexikon, översättningar och synonymer
+ - [http://tyda.se](http://tyda.se)
+ - date_published: 2024-07-02T09:34:41.390239+00:00
+
+ ## UC - Ledande på affärs- och kreditinformation
+ - [https://uc.se](https://uc.se)
+ - date_published: 2024-05-07T23:55:18.165522+00:00
+
+ ## Startsida
+ - [https://uhr.se](https://uhr.se)
+ - date_published: 2024-06-16T17:38:02.172768+00:00
+
+ ## Startsida
+ - [http://www.uhr.se](http://www.uhr.se)
+ - date_published: 2024-06-16T17:38:00.604144+00:00
+
+ ## UI.se
+ - [https://www.ui.se](https://www.ui.se)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Index of /
+ - [http://ftp.acc.umu.se](http://ftp.acc.umu.se)
+ - date_published: 2023-08-01T18:18:03+00:00
+
+ ## Mastodon @ UMU
+ - [https://mastodon.acc.umu.se](https://mastodon.acc.umu.se)
+ - date_published: 2024-07-08T12:57:00.723440+00:00
+
+ ## Academic Computer Club in Umeå
+ - [https://www.acc.umu.se](https://www.acc.umu.se)
+ - date_published: 2024-05-08T11:18:54.825896+00:00
+
+ ## Institutionen för datavetenskap
+ - [https://www.cs.umu.se](https://www.cs.umu.se)
+ - date_published: 2024-05-12T05:22:45.537225+00:00
+
+ ## Umeå universitet
+ - [https://umu.se](https://umu.se)
+ - date_published: 2024-05-09T06:33:33.467593+00:00
+
+ ## under orion | under orion
+ - [https://underorion.se](https://underorion.se)
+ - date_published: 2023-10-25T22:37:39.888127+00:00
+
+ ## Försvarsunderrättelsedomstolen | Startsida
+ - [https://www.undom.se](https://www.undom.se)
+ - date_published: 2009-12-01T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://assets.univer.se](https://assets.univer.se)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Dennis Muensterer
+ - [https://dnnsmnstrr.univer.se](https://dnnsmnstrr.univer.se)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Design sites with no code | Universe Website Builder
+ - [https://univer.se](https://univer.se)
  - date_published: 2024-04-27T00:00:00+00:00
 
- ## XNXubd VPN Browser
- - [https://xnxubd-vpn-browser.softonic.se](https://xnxubd-vpn-browser.softonic.se)
+ ## Universityadmissions.se - Apply to Swedish universities
+ - [https://www.universityadmissions.se](https://www.universityadmissions.se)
+ - date_published: 2024-06-16T17:38:03.237421+00:00
+
+ ## UNT, Upsala Nya Tidning
+ - [https://unt.se](https://unt.se)
+ - date_published: 2024-06-29T04:24:46.297408+00:00
+
+ ## Uppsala kommun – Uppsala.se - Uppsala kommun
+ - [https://www.uppsala.se](https://www.uppsala.se)
+ - date_published: 2024-06-17T10:32:20.337227+00:00
+
+ ## Battery2030+ - Battery 2030+
+ - [https://battery.uprize.se](https://battery.uprize.se)
+ - date_published: 2024-05-07T23:30:31.045699+00:00
+
+ ## ECOOP 2014
+ - [http://ecoop14.it.uu.se](http://ecoop14.it.uu.se)
+ - date_published: 2024-07-14T16:31:07.476638+00:00
+
+ ## ITiCSE 2014
+ - [http://iticse2014.it.uu.se](http://iticse2014.it.uu.se)
+ - date_published: 2024-07-03T07:10:35.370006+00:00
+
+ ## Kontakt och organisation
+ 
+ - Uppsala universitet
+ - [http://katalog.uu.se](http://katalog.uu.se)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Mål och regler - Uppsala universitet
+ - [https://regler.uu.se](https://regler.uu.se)
+ - date_published: 2022-02-10T00:00:00+00:00
+
+ ## Uppsala universitet
+ - [https://uu.se](https://uu.se)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Information om Gemensam webbinloggning - Uppsala universitet
+ - [https://weblogin.uu.se](https://weblogin.uu.se)
+ - date_published: 2024-03-07T11:26:04+00:00
+
+ ## Astronomy and Space Physics
+ 
+ - Uppsala University
+ - [http://www.astro.uu.se](http://www.astro.uu.se)
+ - date_published: 2024-06-22T12:03:59.031271+00:00
+
+ ## Engelska institutionen
+ 
+ - Uppsala universitet
+ - [http://www.engelska.uu.se](http://www.engelska.uu.se)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Evolutionsmuseet
+ 
+ - Uppsala universitet
+ - [http://www.evolutionsmuseet.uu.se](http://www.evolutionsmuseet.uu.se)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Gustavianum
+ 
+ - Uppsala universitet
+ - [http://www.gustavianum.uu.se](http://www.gustavianum.uu.se)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Department of Information Technology - Department of Information Technology - Uppsala University
+ - [https://it.uu.se](https://it.uu.se)
+ - date_published: 2024-04-29T06:00:47.702190+00:00
+
+ ## Lediga jobb - Uppsala universitet
+ - [https://www.jobb.uu.se](https://www.jobb.uu.se)
+ - date_published: 2023-12-19T14:18:23+00:00
+
+ ## Institutionen för fysik och astronomi - Institutionen för fysik och astronomi - Uppsala universitet
+ - [https://www.physics.uu.se](https://www.physics.uu.se)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## UX designer i Göteborg (frilans) – UX Mind
+ - [https://uxmind.se](https://uxmind.se)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Familie van der Ven
+ - [https://vanderven.se](https://vanderven.se)
+ - date_published: 2023-10-29T11:49:51+00:00
+
+ ## Vape - Sveriges mest besökta ecigg & vapes butik online med låga priser.
+ - [https://vape.se](https://vape.se)
+ - date_published: 2022-08-11T08:01:51+00:00
+
+ ## Vape online - Sveriges främsta utbud på Vape juice & produkter
+ - [https://www.vapehuset.se](https://www.vapehuset.se)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## FAQ Vasamuseet
+ - [https://faq.vasamuseet.se](https://faq.vasamuseet.se)
+ - date_published: 2024-07-19T22:12:54.026505+00:00
+
+ ## Vasamuseet
+ - [https://vasamuseet.se](https://vasamuseet.se)
+ - date_published: 2023-11-13T13:50:44.430060+00:00
+ - tags: ['museum']
+
+ ## Government services for businesses
+ - [https://verksamt.se](https://verksamt.se)
+ - date_published: 2022-11-17T13:24:30+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.se](https://www.viagogo.se)
  - date_published: 2024-07-12T00:00:00+00:00
+
+ ## En streamingtjänst – obegränsad underhållning | Viaplay
+ - [https://viaplay.se](https://viaplay.se)
+ - date_published: 2024-07-03T07:08:22+00:00
+
+ ## Biltester, bilnyheter, bilforum och test av rostskydd, däck, billjus och andra produkter. | Vi Bilägare
+ - [https://www.vibilagare.se](https://www.vibilagare.se)
+ - date_published: 2023-10-25T22:37:43.874042+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.se](https://www.victronenergy.se)
+ - date_published: 2024-06-21T18:32:03+00:00
+
+ ## Viivilla.se - kök, badrum, trädgård, uppvärmning, inredning
+ - [https://viivilla.se](https://viivilla.se)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## ViktVäktarnas Viktminskningsprogram För Bättre Hälsa | ViktVäktarna Sverige
+ - [https://www.viktvaktarna.se](https://www.viktvaktarna.se)
+ - date_published: 2024-06-23T10:58:25.885847+00:00
+
+ ## Vi lagar mat – Av och med Helena & Thord.
+ - [https://vilagarmat.se](https://vilagarmat.se)
+ - date_published: 2024-06-21T22:19:25.955429+00:00
+
+ ## Din målare i Stockholm | Ett måleri att lita på - Vi Målar
+ - [https://www.vimalar.se](https://www.vimalar.se)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Mitt Vimla
+ - [https://mitt.vimla.se](https://mitt.vimla.se)
+ - date_published: 2024-06-10T00:47:57+00:00
+
+ ## Startsida
+ - [https://vimla.se](https://vimla.se)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Visa, en av de pålitliga ledarna inom digitala betalningar.
+ - [https://visa.se](https://visa.se)
+ - date_published: 2024-05-12T04:00:14.389542+00:00
+
+ ## Sveriges upplevelseguide - Visit Sweden
+ - [https://visitsweden.se](https://visitsweden.se)
+ - date_published: 2024-05-07T10:49:54.012171+00:00
+
+ ## Köp din blender från Vitamix Sverige med snabb leverans
+ - [https://vitamixsverige.se](https://vitamixsverige.se)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## VoF – Vetenskap och Folkbildning
+ - [https://www.vof.se](https://www.vof.se)
+ - date_published: 2023-12-23T14:02:33.444509+00:00
+
+ ## Voxagon Blog
+ - [https://blog.voxagon.se](https://blog.voxagon.se)
+ - date_published: 2023-06-01T00:00:00+00:00
+
+ ## Teleoperation software for remote control of vehicles, machines and robots
+ - [https://voysys.se](https://voysys.se)
+ - date_published: 2024-05-09T08:37:53.487522+00:00
+
+ ## Vrak  - Vrak – Museum of Wrecks
+ - [http://www.vrakmuseum.se](http://www.vrakmuseum.se)
+ - date_published: 2024-07-19T22:12:41.382968+00:00
+
+ ## VTI catalog
+ - [https://bibliotek.vti.se](https://bibliotek.vti.se)
+ - date_published: 2024-06-28T13:00:11.932746+00:00
+
+ ## Cykelcentrum
+ - [http://cykelcentrum.vti.se](http://cykelcentrum.vti.se)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## VTI:s nationella projektdatabas catalog
+ - [https://projektdatabas.vti.se](https://projektdatabas.vti.se)
+ - date_published: 2024-06-28T13:00:11.073316+00:00
+
+ ## vti.se
+ - [https://www.vti.se](https://www.vti.se)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Index | Wavy
+ - [http://wavy.se](http://wavy.se)
+ - date_published: 2024-07-13T15:14:39.866605+00:00
+
+ ## Webbdagarna – Sveriges ledande event om digitala affärer
+ - [https://webbdagarna.se](https://webbdagarna.se)
+ - date_published: 2023-10-23T00:00:00+00:00
+
+ ## Webbkameror.se - Livekameror, webbkameror, live, livestreaming, väder, Golf, Skidor, Trafik, Djur, Bygge, Konst, Konstnärer, Film, Filmer, Sveriges väder, vädret, temp, vind, prognos, väderprognos, temperatur, webcam, temperaturer, Webbkamera, webkamera, webbkameror, webkameror, webcamera, webcameras, webcams, sverigeväder,
+ - [https://webbkameror.se](https://webbkameror.se)
+ - date_published: 2024-05-08T10:20:55.893301+00:00
+
+ ## Webbriktlinjer 
+ 
+ |
+ Digg
+ - [https://webbriktlinjer.se](https://webbriktlinjer.se)
+ - date_published: 2024-07-09T21:17:54.343936+00:00
+
+ ## WebP Cloud Services Blog
+ - [https://blog.webp.se](https://blog.webp.se)
+ - date_published: 2023-10-25T22:37:45.007507+00:00
+
+ ## Websupport - Domännamn och webbhotell för din hemsida
+ - [https://websupport.se](https://websupport.se)
+ - date_published: 2024-06-30T01:38:01+00:00
+
+ ## weinholt.se
+ - [https://weinholt.se](https://weinholt.se)
+ - date_published: 2024-07-21T17:01:51+00:00
+
+ ## whorehau.se :: home
+ - [https://whorehau.se](https://whorehau.se)
+ - date_published: 2024-06-23T17:45:52.487713+00:00
+
+ ## Wikibase
+ - [http://wikiba.se](http://wikiba.se)
+ - date_published: 2024-07-06T23:47:12.156907+00:00
+
+ ## Yingyu’s Blog
+ - [https://wingu.se](https://wingu.se)
+ - date_published: 2023-12-21T14:45:10.691382+00:00
+
+ ## WITTENSTEIN Sverige
+ - [https://www.wittenstein.se](https://www.wittenstein.se)
+ - date_published: 2024-07-15T04:10:04.119182+00:00
+
+ ## Vem Vi Är - Lär Känna Oss Bättre | Wixo.se
+ - [https://wixo.se](https://wixo.se)
+ - date_published: 2024-08-07T21:26:30.940512+00:00
+
+ ## WPSE
+ - [https://wpse.se](https://wpse.se)
+ - date_published: 2024-06-21T22:19:19.574067+00:00
+
+ ## Agera - WWF
+ - [https://agera.wwf.se](https://agera.wwf.se)
+ - date_published: 2024-07-03T02:36:56.338867+00:00
+
+ ## Gör skillnad - WWF
+ - [https://jobb.wwf.se](https://jobb.wwf.se)
+ - date_published: 2024-07-03T02:36:48.362233+00:00
+
+ ## Hem
+ - [https://startainsamling.wwf.se](https://startainsamling.wwf.se)
+ - date_published: 2024-05-31T07:53:23+00:00
+
+ ## Världsnaturfonden WWF
+ - [https://wwf.se](https://wwf.se)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## 60-årspresent - Presenttips & idéer på 60-årspresenter
+ - [https://www.xn--60-rspresent-vcb.se](https://www.xn--60-rspresent-vcb.se)
+ - date_published: 2024-05-17T14:05:52+00:00
+
+ ## Badrumsrenovering Göteborg | Renovera Badrumet till bra pris
+ - [https://xn--badrumsrenoveringargteborg-vvc.se](https://xn--badrumsrenoveringargteborg-vvc.se)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Blind Höna
+ - [http://xn--blindhna-s4a.se](http://xn--blindhna-s4a.se)
+ - date_published: 2024-07-02T06:34:09.718318+00:00
+
+ ## Utländska Casino - med Trustly, BankID & Swish
+ - [https://xn--casinonutanspelgrns-wwb.se](https://xn--casinonutanspelgrns-wwb.se)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Casino utan Svensk Licens » Spel utan Spelpaus 2024
+ - [https://xn--casinoutangrnser-6nb.se](https://xn--casinoutangrnser-6nb.se)
+ - date_published: 2024-07-20T23:11:10.643763+00:00
+
+ ## Elektrikern' | Elinstallation & 24/7 Jour Elektriker Stockholm
+ - [https://xn--elektrikeristockholmsln-h8b.se](https://xn--elektrikeristockholmsln-h8b.se)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Bästa Kebab Restaurangen i Göteborg - Hem
+ - [https://xn--gteborgkebab-4ib.se](https://xn--gteborgkebab-4ib.se)
+ - date_published: 2015-06-10T00:00:00+00:00
+
+ ## Köksrenovering Stockholm - Vi hjälper dig att ta skapa ditt drömkök!
+ - [https://xn--kksrenoveringstockholmsln-8ec67b.se](https://xn--kksrenoveringstockholmsln-8ec67b.se)
+ - date_published: 2024-05-08T10:01:14.947860+00:00
+
+ ## Smslån 2021 - Hitta smslån utan UC på minuten - Jämför direkt
+ - [https://xn--lnat-qoa.se](https://xn--lnat-qoa.se)
+ - date_published: 2024-07-22T10:58:28.163517+00:00
+
+ ## Rörmokare Göteborg | VVS-företag & Rörjour 24/7
+ - [https://xn--rrmokarengteborg-mwbj.se](https://xn--rrmokarengteborg-mwbj.se)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Xpeedio - Vi är ledande specialister inom IT-infrastruktur
+ - [https://xpeedio.se](https://xpeedio.se)
+ - date_published: 2024-06-16T09:16:46.563679+00:00
+
+ ## Olle Brickarp, UI Designer & Frontend developer
+ - [http://yay.se](http://yay.se)
+ - date_published: 2024-07-19T23:11:41.409018+00:00
+
+ ## Yelp
+ - [https://m.yelp.se](https://m.yelp.se)
+ - date_published: 2024-07-01T07:11:04.651793+00:00
+
+ ## Yelp
+ - [https://yelp.se](https://yelp.se)
+ - date_published: 2024-07-01T07:08:25.386040+00:00
+
+ ## YIP - The International Youth Initiative Program
+ - [https://yip.se](https://yip.se)
+ - date_published: 2020-09-27T19:27:35+00:00
+
+ ## Yopass: Share Secrets Securely
+ - [https://yopass.se](https://yopass.se)
+ - date_published: 2024-06-19T22:35:52.990852+00:00
+
+ ## Yrgo, högre yrkesutbildning Göteborg
+ - [https://yrgo.se](https://yrgo.se)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## ZAGO AB - Shopify Plus partner in Sweden
+ - [https://www.zago.se](https://www.zago.se)
+ - date_published: 2024-08-08T17:21:06.803751+00:00
+
+ ## Z63
+ - [http://zerosixthree.se](http://zerosixthree.se)
+ - date_published: 2024-06-29T10:47:55.351209+00:00
+
+ ## Ziran
+      
+      - Home
+ - [https://ziran.se](https://ziran.se)
+ - date_published: 2024-01-24T13:28:10+00:00
+
+ ## Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.
+ - [https://z-library.se](https://z-library.se)
+ - date_published: 2023-09-20T14:05:55+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.se](https://www2.zoetis.se)
+ - date_published: 2024-06-27T09:52:50+00:00
+
+ ## Djuraffär Online, Djurfoder & Djurtillbehör | zooplus.se
+ - [https://www.zooplus.se](https://www.zooplus.se)
+ - date_published: 2024-06-16T06:27:27.076789+00:00
+
+ ## Karl Zylinski
+ - [https://zylinski.se](https://zylinski.se)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Kontra Application Security Training
+ - [https://application.security](https://application.security)
+ - date_published: 2024-06-19T22:43:15.162969+00:00
+
+ ## Enterprise Application Security (AppSec) Solution - Backslash
+ - [https://www.backslash.security](https://www.backslash.security)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## chrome.security
+ - [https://chrome.security](https://chrome.security)
+ - date_published: 2024-05-11T09:25:36.829366+00:00
+
+ ## DevOps Security
+ - [https://checklist.devops.security](https://checklist.devops.security)
+ - date_published: 2024-04-08T09:11:05+00:00
+
+ ## DSPM: Data Security at the Speed of Cloud | Dig Security
+ - [https://www.dig.security](https://www.dig.security)
+ - date_published: 2023-10-25T22:37:47.275606+00:00
+
+ ## Dryrun Security | Get An Automated Security Buddy
+ - [https://dryrun.security](https://dryrun.security)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## .Security Domain Names | .Security
+ - [https://go.security](https://go.security)
+ - date_published: 2024-06-17T07:44:18.346195+00:00
+
+ ## Honest Security
+ - [https://honest.security](https://honest.security)
+ - date_published: 2024-05-04T09:56:27.085750+00:00
+
+ ## Impart Security | Integrated API Security
+ - [https://www.impart.security](https://www.impart.security)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## End-to-end LLM Cybersecurity Solutions | Lasso
+ - [https://lasso.security](https://lasso.security)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home
+ - [https://rtx.meta.security](https://rtx.meta.security)
+ - date_published: 2024-06-12T18:54:07.782126+00:00
+
+ ## Myrror Security - Myrror Security
+ - [https://myrror.security](https://myrror.security)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Runtime application security and observability | Oligo Security
+ - [https://www.oligo.security](https://www.oligo.security)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Industry-Leading Cloud Security Solution | Orca Security
+ - [https://orca.security](https://orca.security)
+ - date_published: 2024-06-16T19:10:30.763386+00:00
+
+ ## Active Application Security Posture Management (ASPM) - OX Security
+ - [https://www.ox.security](https://www.ox.security)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Phoenix Security Prioritize vulnerabilities from code to cloud
+ - [https://phoenix.security](https://phoenix.security)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Positive Security - IT Security Research & Consulting
+ - [https://positive.security](https://positive.security)
+ - date_published: 2023-10-25T22:37:48.281104+00:00
+
+ ## Sublime Security - Cloud email security that’s not a black box
+ - [https://sublime.security](https://sublime.security)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## 925 services
+ - [https://925.services](https://925.services)
+ - date_published: 2024-07-13T16:11:59.249818+00:00
+
+ ## AKM Services–your ethically-minded digital partner
+ - [https://akm.services](https://akm.services)
+ - date_published: 2024-05-09T08:26:14.190635+00:00
+
+ ## Book Time with Me
+ - [https://cal.services](https://cal.services)
+ - date_published: 2024-02-01T16:39:43+00:00
+
+ ## Boost and protect your digital business | EBRAND
+ - [http://www.ebrand.services](http://www.ebrand.services)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## eID-Services
+ - [https://eid.services](https://eid.services)
+ - date_published: 2024-01-25T10:32:35+00:00
+
+ ## A cloud platform to enrich services made with Ergo Framework.
+ - [https://cloud.ergo.services](https://cloud.ergo.services)
+ - date_published: 2023-10-25T22:37:54.772238+00:00
+
+ ## Jasette FACiLe
+ - [https://jasette.facil.services](https://jasette.facil.services)
+ - date_published: 2024-07-10T08:18:52.798214+00:00
+
+ ## FITC Services – Not Your Typical Event Services
+ - [http://fitc.services](http://fitc.services)
+ - date_published: 2024-08-06T17:44:30.520858+00:00
+
+ ## AI Therapy
+ - [https://heartfelt.services](https://heartfelt.services)
+ - date_published: 2024-06-14T08:55:49.160500+00:00
+
+ ## Sign in - Hedengren Services
+ - [https://analytics.hedengren.services](https://analytics.hedengren.services)
+ - date_published: 2024-06-21T22:19:24.561202+00:00
+
+ ## Registrar Portal
+ - [https://registrar.identitydigital.services](https://registrar.identitydigital.services)
+ - date_published: 2024-06-16T05:51:23.784023+00:00
+
+ ## Trk Error
+ - [https://srv.isy-teamblue.services](https://srv.isy-teamblue.services)
+ - date_published: 2024-06-16T09:30:07.542882+00:00
+
+ ## Constant Contact Login
+ - [https://app-3qncnjs1vk.marketingautomation.services](https://app-3qncnjs1vk.marketingautomation.services)
+ - date_published: 2024-07-04T17:43:47.794926+00:00
+
+ ## Constant Contact Login
+ - [https://app-3qnm65yh1y.marketingautomation.services](https://app-3qnm65yh1y.marketingautomation.services)
+ - date_published: 2024-06-25T18:10:17.724932+00:00
+
+ ## Constant Contact Login
+ - [https://app-3qnuw2d08o.marketingautomation.services](https://app-3qnuw2d08o.marketingautomation.services)
+ - date_published: 2024-06-29T08:54:45.719472+00:00
+
+ ## Constant Contact Login
+ - [https://cst2.marketingautomation.services](https://cst2.marketingautomation.services)
+ - date_published: 2024-06-12T11:03:44.555420+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qn39v11dq.marketingautomation.services](https://koi-3qn39v11dq.marketingautomation.services)
+ - date_published: 2024-07-09T09:23:06.096412+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qn7fj4d0g.marketingautomation.services](https://koi-3qn7fj4d0g.marketingautomation.services)
+ - date_published: 2024-06-16T20:48:58.009883+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnc1sqzuw.marketingautomation.services](https://koi-3qnc1sqzuw.marketingautomation.services)
+ - date_published: 2024-07-14T07:13:48.252048+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qncb87j66.marketingautomation.services](https://koi-3qncb87j66.marketingautomation.services)
+ - date_published: 2024-06-17T10:15:59.358951+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qncnjs1vk.marketingautomation.services](https://koi-3qncnjs1vk.marketingautomation.services)
+ - date_published: 2024-07-04T17:43:48.739766+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qne0o6z5k.marketingautomation.services](https://koi-3qne0o6z5k.marketingautomation.services)
+ - date_published: 2024-04-30T06:45:00.070988+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnf3z7vgc.marketingautomation.services](https://koi-3qnf3z7vgc.marketingautomation.services)
+ - date_published: 2024-06-30T02:01:21.530428+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qni6zqwyi.marketingautomation.services](https://koi-3qni6zqwyi.marketingautomation.services)
+ - date_published: 2024-07-03T12:33:02.400198+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qniw5y7du.marketingautomation.services](https://koi-3qniw5y7du.marketingautomation.services)
+ - date_published: 2024-07-04T10:10:58.781784+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnjjhfm98.marketingautomation.services](https://koi-3qnjjhfm98.marketingautomation.services)
+ - date_published: 2024-06-21T21:53:57.338747+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnkfqs3t8.marketingautomation.services](https://koi-3qnkfqs3t8.marketingautomation.services)
+ - date_published: 2024-06-12T03:21:00.006757+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnlmpryu0.marketingautomation.services](https://koi-3qnlmpryu0.marketingautomation.services)
+ - date_published: 2024-07-10T03:57:01.785986+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnlwr8bxm.marketingautomation.services](https://koi-3qnlwr8bxm.marketingautomation.services)
+ - date_published: 2024-05-01T05:13:44.331469+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnm65yh1y.marketingautomation.services](https://koi-3qnm65yh1y.marketingautomation.services)
+ - date_published: 2024-06-25T18:10:14.609896+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnmlwp860.marketingautomation.services](https://koi-3qnmlwp860.marketingautomation.services)
+ - date_published: 2024-07-07T05:55:03.158651+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnp5h1rg8.marketingautomation.services](https://koi-3qnp5h1rg8.marketingautomation.services)
+ - date_published: 2024-06-17T20:16:18.905803+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnqqv4r1o.marketingautomation.services](https://koi-3qnqqv4r1o.marketingautomation.services)
+ - date_published: 2024-07-08T11:29:47.925527+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnqs7irs0.marketingautomation.services](https://koi-3qnqs7irs0.marketingautomation.services)
+ - date_published: 2024-06-29T21:12:10.711011+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qntml6nhq.marketingautomation.services](https://koi-3qntml6nhq.marketingautomation.services)
+ - date_published: 2024-07-22T05:02:03.409412+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qnv3y3kw6.marketingautomation.services](https://koi-3qnv3y3kw6.marketingautomation.services)
+ - date_published: 2024-06-16T20:33:29.457549+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3qs88ukvpw.marketingautomation.services](https://koi-3qs88ukvpw.marketingautomation.services)
+ - date_published: 2024-07-22T05:30:40.068453+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3ry4qivm38.marketingautomation.services](https://koi-3ry4qivm38.marketingautomation.services)
+ - date_published: 2024-06-23T07:42:13.222866+00:00
+
+ ## Constant Contact Login
+ - [https://koi-3rzg8lzrmc.marketingautomation.services](https://koi-3rzg8lzrmc.marketingautomation.services)
+ - date_published: 2024-06-17T14:01:39.208874+00:00
+
+ ## a7'th Layer
+ - [https://mouse.services](https://mouse.services)
+ - date_published: 2023-07-22T04:01:46+00:00
+
+ ## PrivateBin
+ - [https://bin.nixnet.services](https://bin.nixnet.services)
+ - date_published: 2024-07-10T09:56:38+00:00
+
+ ## Home
+ - [https://docs.nixnet.services](https://docs.nixnet.services)
+ - date_published: 2024-07-02T20:48:57.704018+00:00
+
+ ## Forgejo
+ - [https://git.nixnet.services](https://git.nixnet.services)
+ - date_published: 2024-07-02T20:48:58.612621+00:00
+
+ ## NixNet
+ - [https://nixnet.services](https://nixnet.services)
+ - date_published: 2023-10-16T02:25:32+00:00
+
+ ## Etherpad
+ - [https://notes.nixnet.services](https://notes.nixnet.services)
+ - date_published: 2024-07-10T09:56:37.630891+00:00
+
+ ## HedgeDoc - Ideas grow better together
+ - [https://pad.nixnet.services](https://pad.nixnet.services)
+ - date_published: 2024-07-10T09:56:13.616440+00:00
+
+ ## Make your polls - Framadate
+ - [https://poll.nixnet.services](https://poll.nixnet.services)
+ - date_published: 2024-07-10T09:56:11.483860+00:00
+
+ ## RSS-Bridge
+ - [https://rss.nixnet.services](https://rss.nixnet.services)
+ - date_published: 2024-07-10T09:56:30.604885+00:00
+
+ ## Scribe
+ - [https://scribe.nixnet.services](https://scribe.nixnet.services)
+ - date_published: 2022-09-24T00:00:00+00:00
+
+ ## searx
+ - [https://searx.nixnet.services](https://searx.nixnet.services)
+ - date_published: 2024-07-10T09:56:40.587969+00:00
+
+ ## NixNet Upload
+ - [https://up.nixnet.services](https://up.nixnet.services)
+ - date_published: 2024-07-10T09:56:10.523565+00:00
+
+ ## Welcome to wallabag! – wallabag
+ - [https://wallabag.nixnet.services](https://wallabag.nixnet.services)
+ - date_published: 2024-07-10T09:56:36.303686+00:00
+
+ ## satzinger.services - EM's tech
+ - [https://satzinger.services](https://satzinger.services)
+ - date_published: 2024-07-01T21:11:44+00:00
+
+ ## Web3 Infrastructure | Web3 Devops | TechOps
+ - [https://techops.services](https://techops.services)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## X-TRA GEAR.SERVICES
+ - [http://xtragear.services](http://xtragear.services)
+ - date_published: 2023-05-19T12:46:50+00:00
+
+ ## zotan.services status
+ - [https://status.zotan.services](https://status.zotan.services)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Kofi Gumbs
+ - [https://kofi.sexy](https://kofi.sexy)
+ - date_published: 2023-10-25T22:37:55.939601+00:00
+
+ ## Mercury
+ - [https://mercury.sexy](https://mercury.sexy)
+ - date_published: 2012-01-13T00:00:00+00:00
+
+ ## Our GNU/Lord and GNU/Savior is 100% sexy!
+ - [https://rms.sexy](https://rms.sexy)
+ - date_published: 2024-06-23T18:08:27.343014+00:00
+
+ ## terminal.sexy - Terminal Color Scheme Designer
+ - [https://terminal.sexy](https://terminal.sexy)
+ - date_published: 2017-05-22T21:51:46+00:00
+
+ ## 1-Net
+ - [https://1-net.com.sg](https://1-net.com.sg)
+ - date_published: 2024-07-04T04:06:06.463401+00:00
+
+ ## 3M Science. Applied to Life. 3M Singapore
+ - [https://www.3m.com.sg](https://www.3m.com.sg)
+ - date_published: 2024-08-06T10:41:31.634148+00:00
+
+ ## adidas Official Website | adidas Singapore
+ - [https://www.adidas.com.sg](https://www.adidas.com.sg)
+ - date_published: 2024-07-14T12:13:36.892816+00:00
+
+ ## Airbnb | Holiday rentals, cabins, beach houses & more
+ - [https://www.airbnb.com.sg](https://www.airbnb.com.sg)
+ - date_published: 2024-06-02T00:00:00+00:00
+ - tags: ['travel']
+
+ ## Alfa Romeo Singapore - Official Website
+ - [https://www.alfaromeo.com.sg](https://www.alfaromeo.com.sg)
+ - date_published: 2024-06-06T10:26:06+00:00
+
+ ## Sell on Amazon Singapore | Sell Globally from Singapore
+ - [https://sell.amazon.com.sg](https://sell.amazon.com.sg)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Amazon.sg: Shop Online for Electronics, Computers, Books, Toys, DVDs, Baby, Grocery, & more
+ - [http://www.amazon.com.sg](http://www.amazon.com.sg)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Official Website | Audi Singapore
+ - [http://www.audi.com.sg](http://www.audi.com.sg)
+ - date_published: 2024-07-19T20:24:35+00:00
+
+ ## CAS 360 Singapore by BGL | Leading company secretarial software
+ - [https://www.bglcorp.com.sg](https://www.bglcorp.com.sg)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Best Aircon Servicing Singapore - Cheap Repair & Cleaning :) Billy
+ - [https://www.billyaircon.com.sg](https://www.billyaircon.com.sg)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Quality, Sustainable Home Appliances | Bosch
+ - [https://www.bosch-home.com.sg](https://www.bosch-home.com.sg)
+ - date_published: 2024-06-16T21:36:16.854931+00:00
+
+ ## Brother Singapore Blog
+ - [http://blog.brother.com.sg](http://blog.brother.com.sg)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Welcome to Brother Singapore
+ - [https://www.brother.com.sg](https://www.brother.com.sg)
+ - date_published: 2024-05-02T11:26:13.202448+00:00
+
+ ## https://www.businesstimes.com.sg
+ - [https://www.businesstimes.com.sg](https://www.businesstimes.com.sg)
+ - date_published: 2023-10-25T22:37:56.906260+00:00
+
+ ## Welcome to By The Bay | The Workplace, Community and Experience of the Future
+ - [https://bythebay.com.sg](https://bythebay.com.sg)
+ - date_published: 2024-05-06T13:17:49.694170+00:00
+
+ ## Capterra helps you find the right software for your business
+ - [https://www.capterra.com.sg](https://www.capterra.com.sg)
+ - date_published: 2024-07-19T18:05:17.219326+00:00
+
+ ## Credit Cards | Home Loan | Deposits | Investments - Citibank Singapore
+ - [https://www.citibank.com.sg](https://www.citibank.com.sg)
+ - date_published: 2024-06-11T08:55:09+00:00
+
+ ## Citizen Singapore - Japanese Watch Technology
+ - [https://citizen.com.sg](https://citizen.com.sg)
+ - date_published: 2019-12-03T00:00:00+00:00
+
+ ## CITROËN Singapore : Passenger Cars and Commercial Vehicles
+ - [https://citroen.com.sg](https://citroen.com.sg)
+ - date_published: 2023-12-11T16:01:42.984836+00:00
+
+ ## Citylink
+ - [https://citylink.com.sg](https://citylink.com.sg)
+ - date_published: 2024-05-06T13:12:18.996165+00:00
+
+ ## Buy Furniture Online | Crate and Barrel Singapore
+ - [https://www.crateandbarrel.com.sg](https://www.crateandbarrel.com.sg)
+ - date_published: 2024-08-05T22:44:26.384545+00:00
+
+ ## DBS Bank | Singapore
+ - [https://www.dbs.com.sg](https://www.dbs.com.sg)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Careers at Deliveroo - Discover a career full of possibility
+ - [https://careers.deliveroo.com.sg](https://careers.deliveroo.com.sg)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Disney.sg | The official home for all things Disney
+ - [http://www.disney.com.sg](http://www.disney.com.sg)
+ - date_published: 2024-06-16T02:02:58.648599+00:00
+
+ ## Singapore City Tours | BIG BUS & DUCK (previously DUCK & HiPPO) tours
+ - [https://ducktours.com.sg](https://ducktours.com.sg)
+ - date_published: 2024-06-23T10:44:25.711289+00:00
+
+ ## Dyson Singapore | Official Site
+ - [https://www.dyson.com.sg](https://www.dyson.com.sg)
+ - date_published: 2024-07-07T01:56:29.260002+00:00
+
+ ## eBay shopping cart
+ - [https://cart.ebay.com.sg](https://cart.ebay.com.sg)
+ - date_published: 2024-06-16T23:32:11.371392+00:00
+
+ ## Electronics, Cars, Fashion, Collectibles & More | eBay
+ - [https://mesg.ebay.com.sg](https://mesg.ebay.com.sg)
+ - date_published: 2024-06-16T23:32:14.973040+00:00
+
+ ## Electronics, Cars, Fashion, Collectibles & More | eBay
+ - [https://pages.ebay.com.sg](https://pages.ebay.com.sg)
+ - date_published: 2024-06-16T23:32:18.672983+00:00
+
+ ## Home | Seller Centre
+ - [https://sellercentre.ebay.com.sg](https://sellercentre.ebay.com.sg)
+ - date_published: 2024-06-16T23:32:07.384260+00:00
+
+ ## Security Measure
+ - [https://signin.ebay.com.sg](https://signin.ebay.com.sg)
+ - date_published: 2024-06-16T23:32:17.016535+00:00
+
+ ## Electronics, Cars, Fashion, Collectibles & More | eBay
+ - [https://www.ebay.com.sg](https://www.ebay.com.sg)
+ - date_published: 2024-05-01T08:16:10.944839+00:00
+
+ ## Epic Water Filters | American-made | Certified against NSF/ANSI Stds
+ - [https://epicwaterfilters.com.sg](https://epicwaterfilters.com.sg)
+ - date_published: 2024-06-27T16:12:20.978903+00:00
+
+ ## ESPN Singapore - Serving Sports Fans. Anytime. Anywhere.
+ - [https://www.espn.com.sg](https://www.espn.com.sg)
+ - date_published: 2024-05-02T09:41:42.566688+00:00
+
+ ## Fuels, Motor Oil, Fuel Cards & More | Esso Singapore
+ - [https://www.esso.com.sg](https://www.esso.com.sg)
+ - date_published: 2024-07-17T16:37:36.344240+00:00
+
+ ## Experian – Business Data, Analytics and Marketing Services
+ - [https://www.experian.com.sg](https://www.experian.com.sg)
+ - date_published: 2024-06-25T21:32:50.316958+00:00
+
+ ## Fiat Professional - Commercial Vehicle in Singapore | Quality Service & Affordable Repairs
+ - [https://www.fiatprofessional.com.sg](https://www.fiatprofessional.com.sg)
+ - date_published: 2024-06-19T09:08:30.902140+00:00
+
+ ## Food Republic Singapore
+ - [https://foodrepublic.com.sg](https://foodrepublic.com.sg)
+ - date_published: 2024-05-06T14:12:02.373947+00:00
+
+ ## FranklinCovey
+ - [https://www.franklincovey.com.sg](https://www.franklincovey.com.sg)
+ - date_published: 2024-06-23T02:29:19.348176+00:00
+
+ ## Friends of the Gardens
+ - [https://friends.gardensbythebay.com.sg](https://friends.gardensbythebay.com.sg)
+ - date_published: 2024-06-23T07:58:34.089023+00:00
+
+ ## Gardens by the Bay
+ - [https://gardensbythebay.com.sg](https://gardensbythebay.com.sg)
+ - date_published: 2024-06-23T01:01:07+00:00
+
+ ## Gardens by the Bay eShop
+ - [https://shop.gardensbythebay.com.sg](https://shop.gardensbythebay.com.sg)
+ - date_published: 2024-06-23T07:58:25.256312+00:00
+
+ ## Artist,
+Designer And Teacher, Garie Sims', Architectural, Interior Design,
+Polymer Clay classes, clay Miniature, Clay Animation, Art Drawing,
+Cartoon, Illustration, kid's Play Clay workshop, Music And Clay tool
+Art Product Supply
+ - [https://www.garieinternational.com.sg](https://www.garieinternational.com.sg)
+ - date_published: 1998-01-01T00:00:00+00:00
+
+ ## Garmin Singapore
+ - [https://www.garmin.com.sg](https://www.garmin.com.sg)
+ - date_published: 2024-05-04T07:27:33.855125+00:00
+
+ ## GIC
+ - [https://gic.com.sg](https://gic.com.sg)
+ - date_published: 2024-07-08T10:02:12.212919+00:00
+
+ ## 欢 迎 进 入 八 方 文 化 创 作 室 网 页
+ - [https://www.globalpublishing.com.sg](https://www.globalpublishing.com.sg)
+ - date_published: 2024-06-29T04:05:41.342559+00:00
+
+ ## Home - Global Scanning Solutions
+ - [https://globalscanningsolutions.com.sg](https://globalscanningsolutions.com.sg)
+ - date_published: 2024-07-17T07:36:02.730889+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.sg](https://images.google.com.sg)
+ - date_published: 2024-07-20T07:37:54.085392+00:00
+
+ ## Google Scholar
+ - [https://scholar.google.com.sg](https://scholar.google.com.sg)
+ - date_published: 2024-05-04T15:14:56.647736+00:00
+
+ ## Google
+ - [https://www.google.com.sg](https://www.google.com.sg)
+ - date_published: 2024-06-12T11:18:34.270686+00:00
+
+ ## Singapore GOURMETbus
+ - [https://www.gourmetbus.com.sg](https://www.gourmetbus.com.sg)
+ - date_published: 2024-06-23T10:44:30.307481+00:00
+
+ ## Great Place To Work SG
+ - [https://www.greatplacetowork.com.sg](https://www.greatplacetowork.com.sg)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Female Gynaecologist & Obstetrician | GynaeMD Women's Clinic Clementi
+ - [https://www.gynaemdclementi.com.sg](https://www.gynaemdclementi.com.sg)
+ - date_published: 2024-02-08T16:45:20.302134+00:00
+
+ ## Homepage
+ - [https://www.hilti.com.sg](https://www.hilti.com.sg)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
+ - [https://hired.com.sg](https://hired.com.sg)
+ - date_published: 2024-05-07T22:57:33.833613+00:00
+
+ ## HomePage
+ - [https://www.icicibank.com.sg](https://www.icicibank.com.sg)
+ - date_published: 2024-06-07T19:13:55+00:00
+
+ ## Income Insurance | Top Insurance and Financial Planning Company in Singapore
+ - [https://www.income.com.sg](https://www.income.com.sg)
+ - date_published: 2024-07-08T10:02:14.791920+00:00
+
+ ## InfoMagic Pte Ltd
+ - [https://infomagic.com.sg](https://infomagic.com.sg)
+ - date_published: 2024-05-07T15:33:38.779554+00:00
+
+ ## Home | Interactive Brokers Singapore Pte. Ltd.
+ - [https://www.interactivebrokers.com.sg](https://www.interactivebrokers.com.sg)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Jeep® Singapore SUV & Crossover Cars | Sports Utility Vehicle | Official Jeep®  Site
+ - [https://www.jeep.com.sg](https://www.jeep.com.sg)
+ - date_published: 2024-06-19T08:40:18.323937+00:00
+
+ ## Jobs in Singapore - Search Job Vacancies - Career | Jobstreet
+ - [https://www.jobstreet.com.sg](https://www.jobstreet.com.sg)
+ - date_published: 2024-07-12T18:28:50.309999+00:00
+
+ ## JUMBO SEAFOOD - Order online for delivery & pickup!
+ - [https://order.jumboseafood.com.sg](https://order.jumboseafood.com.sg)
+ - date_published: 2024-06-23T02:04:02.106440+00:00
+
+ ## JUMBO Seafood
+ - [https://www.jumboseafood.com.sg](https://www.jumboseafood.com.sg)
+ - date_published: 2024-05-06T13:19:38.472321+00:00
+
+ ## JUMBO Signatures
+ - [https://www.jumbosignatures.com.sg](https://www.jumbosignatures.com.sg)
+ - date_published: 2024-06-23T02:04:13.997587+00:00
+
+ ## Kok Kee Wonton Noodles – One of the Best Wonton Noodles in Singapore
+ - [https://kokkeewontonnoodle.com.sg](https://kokkeewontonnoodle.com.sg)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.com.sg](https://www.konecranes.com.sg)
+ - date_published: 2024-06-20T23:12:11.797450+00:00
+
+ ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover Singapore
+ - [https://www.landrover.com.sg](https://www.landrover.com.sg)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Love Afare
+ - [https://www.loveafare.com.sg](https://www.loveafare.com.sg)
+ - date_published: 2024-06-23T02:03:56.005588+00:00
+
+ ## Homepage| Maserati SG
+ - [http://www.maserati.com.sg](http://www.maserati.com.sg)
+ - date_published: 2024-07-12T06:12:18+00:00
+
+ ## Welcome to Mazak
+ - [http://www.mazak.com.sg](http://www.mazak.com.sg)
+ - date_published: 2024-07-16T17:31:52.399743+00:00
+
+ ## Marina Bay Financial Centre | MBFC
+ - [https://www.mbfc.com.sg](https://www.mbfc.com.sg)
+ - date_published: 2022-09-29T00:00:00+00:00
+
+ ## Method Media — A Leading Web Agency in Singapore
+ - [https://method.com.sg](https://method.com.sg)
+ - date_published: 2024-06-23T01:53:10.657365+00:00
+
+ ## NCS Singapore | Digital and Technology Services | NCS SG
+ - [https://www.ncs.com.sg](https://www.ncs.com.sg)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Leading Cloud Business Software Suite in Singapore | NetSuite
+ - [https://www.netsuite.com.sg](https://www.netsuite.com.sg)
+ - date_published: 2024-06-27T16:23:42.246105+00:00
+
+ ## Ng Ah Sio Bak Kut Teh
+ - [https://www.ngahsio.com.sg](https://www.ngahsio.com.sg)
+ - date_published: 2024-06-23T02:04:24.303716+00:00
+
+ ## National Healthcare Group (NHG)
+ - [https://corp.nhg.com.sg](https://corp.nhg.com.sg)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Opel Singapore - Opel new cars, vans & commercial vehicles, Opel offers, Opel news
+ - [https://www.opel.com.sg](https://www.opel.com.sg)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## One Raffles Quay | ORQ
+ - [https://www.orq.com.sg](https://www.orq.com.sg)
+ - date_published: 2020-11-10T00:00:00+00:00
+
+ ## Pentacle Ideation | Creative Communications Boutique
+ - [http://pentacle.com.sg](http://pentacle.com.sg)
+ - date_published: 2024-06-22T20:09:54+00:00
+
+ ## Pilot Pen - Quality Writing Instrument Manufacturer
+ - [https://www.pilotpen.com.sg](https://www.pilotpen.com.sg)
+ - date_published: 2024-05-01T07:55:29.936205+00:00
+
+ ## Ralph Lauren® Singapore | Official Online Store
+ - [https://www.ralphlauren.com.sg](https://www.ralphlauren.com.sg)
+ - date_published: 2024-06-19T23:58:11.521266+00:00
+
+ ## Singapore River Cruise – Singapore River Cruise
+ - [https://rivercruise.com.sg](https://rivercruise.com.sg)
+ - date_published: 2024-06-20T14:16:52.009482+00:00
+
+ ## RQAM Raffles Quay Asset Management Pte Ltd
+ - [https://www.rqam.com.sg](https://www.rqam.com.sg)
+ - date_published: 2024-06-20T03:55:41+00:00
+
+ ## Home
+ - [https://www.schwab.com.sg](https://www.schwab.com.sg)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## HOME
+ - [https://www.singaporeexpo.com.sg](https://www.singaporeexpo.com.sg)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Singapore Pools - Legal Lottery and Sports Betting
+ - [http://www.singaporepools.com.sg](http://www.singaporepools.com.sg)
+ - date_published: 2024-05-30T09:29:38+00:00
+
+ ## Singapore Health Services - Singapore Hospitals and Doctors | SingHealth
+ - [https://www.singhealth.com.sg](https://www.singhealth.com.sg)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SIXT Car Rental Company in Singapore
+ - [https://www.sixt.com.sg](https://www.sixt.com.sg)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.sg](https://www.skyscanner.com.sg)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Sony Pictures Singapore | Homepage
+ - [https://www.sonypictures.com.sg](https://www.sonypictures.com.sg)
+ - date_published: 2024-07-28T10:10:37.415819+00:00
+
+ ## Home | SPH Media
+ - [https://www.sph.com.sg](https://www.sph.com.sg)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## TopGear
+ - [https://topgear.com.sg](https://topgear.com.sg)
+ - date_published: 2024-07-12T17:11:16.350668+00:00
+
+ ## TOG - Toy Or Game | Online Store
+ - [https://toyorgame.com.sg](https://toyorgame.com.sg)
+ - date_published: 2024-07-13T13:34:04.918079+00:00
+
+ ## tripadvisor.com.sg
+ - [https://www.tripadvisor.com.sg](https://www.tripadvisor.com.sg)
+ - date_published: 2024-06-23T09:02:45.007825+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://visa.com.sg](https://visa.com.sg)
+ - date_published: 2024-05-12T04:00:11.702032+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.sg](https://m.yelp.com.sg)
+ - date_published: 2024-07-01T07:11:16.271537+00:00
+
+ ## Yelp
+ - [https://yelp.com.sg](https://yelp.com.sg)
+ - date_published: 2024-07-01T07:08:59.769480+00:00
+
+ ## Home
+ - A*STAR OAR
+ - [http://oar.a-star.edu.sg](http://oar.a-star.edu.sg)
+ - date_published: 2024-07-12T16:23:06.740817+00:00
+
+ ## Home - A*STAR Research
+ - [https://research.a-star.edu.sg](https://research.a-star.edu.sg)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## A*STAR
+ - [https://a-star.edu.sg](https://a-star.edu.sg)
+ - date_published: 2024-05-10T05:30:56.518342+00:00
+
+ ## Bioinformatics Institute - Featured On Influenza Initiative
+ - [http://www.bii.a-star.edu.sg](http://www.bii.a-star.edu.sg)
+ - date_published: 2024-06-15T18:58:05.273840+00:00
+
+ ## Home
+ - [https://www.rsc.a-star.edu.sg](https://www.rsc.a-star.edu.sg)
+ - date_published: 2024-07-12T16:23:29.651788+00:00
+
+ ## Curtin Singapore
+ - [https://curtin.edu.sg](https://curtin.edu.sg)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.digipen.edu.sg](https://www.digipen.edu.sg)
+ - date_published: 2024-07-14T10:32:00+00:00
+
+ ## for.edu.sg
+ - [https://for.edu.sg](https://for.edu.sg)
+ - date_published: 2024-03-21T09:34:06+00:00
+
+ ## Institute of Technical Education
+ - [https://www.ite.edu.sg](https://www.ite.edu.sg)
+ - date_published: 2024-07-20T09:43:57.556244+00:00
+
+ ## LASALLE College of the Arts
+ - [https://www.lasalle.edu.sg](https://www.lasalle.edu.sg)
+ - date_published: 2024-07-18T12:43:02+00:00
+
+ ## Life Childcare | A ministry of Life Care Society
+ - [http://www.lifechildcare.edu.sg](http://www.lifechildcare.edu.sg)
+ - date_published: 2024-06-23T02:01:51.872380+00:00
+
+ ## Management Development and Consultancy | MDIS
+ - [https://mdc.edu.sg](https://mdc.edu.sg)
+ - date_published: 2024-07-03T05:40:55.264129+00:00
+
+ ## Blackboard Learn
+ - [https://elearning.mdis.edu.sg](https://elearning.mdis.edu.sg)
+ - date_published: 2004-07-03T05:40:57+00:00
+
+ ## Study in Singapore With MDIS | Private Education Institution in Singapore
+ - [https://mdis.edu.sg](https://mdis.edu.sg)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Nanyang Academy of Fine Arts (NAFA)
+ - [https://www.nafa.edu.sg](https://www.nafa.edu.sg)
+ - date_published: 2024-07-20T09:43:38.240959+00:00
+
+ ## Early Childhood Education & Training Courses for Educators | NIEC
+ - [https://www.niec.edu.sg](https://www.niec.edu.sg)
+ - date_published: 2024-07-20T09:43:45.909474+00:00
+
+ ## Ngee Ann CET Academy
+ - [https://www.cet.np.edu.sg](https://www.cet.np.edu.sg)
+ - date_published: 2024-07-20T09:43:05.548448+00:00
+
+ ## Ngee Ann Polytechnic (NP)
+ - [https://np.edu.sg](https://np.edu.sg)
+ - date_published: 2024-05-18T02:43:18.709302+00:00
+
+ ## Home | NTU Singapore
+ - [https://dr.ntu.edu.sg](https://dr.ntu.edu.sg)
+ - date_published: 2024-06-23T08:59:43.530665+00:00
+
+ ## Nanyang Technological University
+ - [https://personal.ntu.edu.sg](https://personal.ntu.edu.sg)
+ - date_published: 2024-08-07T14:57:23.122740+00:00
+
+ ## Nanyang Technological University
+ - [https://www3.ntu.edu.sg](https://www3.ntu.edu.sg)
+ - date_published: 2024-06-23T20:20:21.361933+00:00
+
+ ## Home
+ - [https://www.ntu.edu.sg](https://www.ntu.edu.sg)
+ - date_published: 2023-11-18T13:29:25.952064+00:00
+
+ ## Apply for Jobs at National University of Singapore
+ - [https://careers.nus.edu.sg](https://careers.nus.edu.sg)
+ - date_published: 2024-06-17T10:47:17.676938+00:00
+
+ ## DSpace Angular :: Home
+ - [https://dl.comp.nus.edu.sg](https://dl.comp.nus.edu.sg)
+ - date_published: 2024-06-26T23:23:35.921542+00:00
+
+ ## NUS School of Computing Calendar of Events
+ - [https://events.comp.nus.edu.sg](https://events.comp.nus.edu.sg)
+ - date_published: 2024-06-26T23:23:39.086419+00:00
+
+ ## Institute for Mathematical Event Archives
+ - [https://imsarchives.nus.edu.sg](https://imsarchives.nus.edu.sg)
+ - date_published: 2022-05-26T04:35:25+00:00
+
+ ## https://medicine.nus.edu.sg
+ - [https://medicine.nus.edu.sg](https://medicine.nus.edu.sg)
+ - date_published: 2023-11-16T13:52:13.001107+00:00
+
+ ## Home | ScholarBank@NUS
+ - [http://scholarbank.nus.edu.sg](http://scholarbank.nus.edu.sg)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home - NUS Computing
+ - [https://www.comp.nus.edu.sg](https://www.comp.nus.edu.sg)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Welcome to Nanyang Polytechnic!
+ - [https://www.nyp.edu.sg](https://www.nyp.edu.sg)
+ - date_published: 2024-07-19T17:26:10+00:00
+
+ ## Nanyang Polytechnic - 12c
+ - [https://eae.polytechnic.edu.sg](https://eae.polytechnic.edu.sg)
+ - date_published: 2024-05-15T09:45:00+00:00
+
+ ## Republic Polytechnic – Think you know us? We’re so much more!
+ - [https://www.rp.edu.sg](https://www.rp.edu.sg)
+ - date_published: 2024-07-20T09:43:33.529338+00:00
+
+ ## Singapore Institute of Technology: University of Applied Learning
+ - [https://www.singaporetech.edu.sg](https://www.singaporetech.edu.sg)
+ - date_published: 2024-07-20T09:15:51+00:00
+
+ ## SMU Research Data Repository (RDR) - Browse
+ - [https://researchdata.smu.edu.sg](https://researchdata.smu.edu.sg)
+ - date_published: 2024-06-15T21:23:33.697449+00:00
+
+ ## Singapore Polytechnic
+ - [https://www.sp.edu.sg](https://www.sp.edu.sg)
+ - date_published: 2024-07-20T09:44:00.170163+00:00
+
+ ## Singapore University of Social Sciences | SUSS
+ - [https://www.suss.edu.sg](https://www.suss.edu.sg)
+ - date_published: 2024-07-20T09:41:50+00:00
+
+ ## Careers at SUTD
+ - [https://careers.sutd.edu.sg](https://careers.sutd.edu.sg)
+ - date_published: 2024-07-12T16:29:36.638119+00:00
+
+ ## HOME
+ - [https://istd.sutd.edu.sg](https://istd.sutd.edu.sg)
+ - date_published: 2024-05-10T05:32:24.398898+00:00
+
+ ## Home - iTrust
+ - [https://itrust.sutd.edu.sg](https://itrust.sutd.edu.sg)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Singapore University of Technology and Design
+ - [https://sutd.edu.sg](https://sutd.edu.sg)
+ - date_published: 2024-05-10T05:32:00.393823+00:00
+
+ ## Singapore University of Technology and Design
+ - [https://www.sutd.edu.sg](https://www.sutd.edu.sg)
+ - date_published: 2024-07-12T16:28:27.023129+00:00
+
+ ## Home | Temasek Polytechnic
+ - [https://www.tp.edu.sg](https://www.tp.edu.sg)
+ - date_published: 2024-05-04T15:14:09.325240+00:00
+
+ ## Accounting and Corporate Regulatory Authority
+ - [https://www.acra.gov.sg](https://www.acra.gov.sg)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Age Well SG
+ - [https://www.agewellsg.gov.sg](https://www.agewellsg.gov.sg)
+ - date_published: 2024-05-17T02:28:19+00:00
+
+ ## Cierpliwości...
+ - [https://ask.gov.sg](https://ask.gov.sg)
+ - date_published: 2024-06-20T14:41:42.741016+00:00
+
+ ## OTMS Public Portal
+ - [https://otms.bca.gov.sg](https://otms.bca.gov.sg)
+ - date_published: 2024-06-20T14:14:06.114120+00:00
+
+ ## Building and Construction Authority (BCA)
+ - [https://www1.bca.gov.sg](https://www1.bca.gov.sg)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Landing Page - BCA LEAP
+ - [https://www2.bca.gov.sg](https://www2.bca.gov.sg)
+ - date_published: 2024-06-20T14:13:58.740868+00:00
+
+ ## Civil Aviation Authority of Singapore (CAAS)
+ - [https://www.caas.gov.sg](https://www.caas.gov.sg)
+ - date_published: 2024-06-21T19:10:08.780772+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://classified-data.gov.sg](https://classified-data.gov.sg)
+ - date_published: 2024-06-12T06:02:38.440735+00:00
+
+ ## Corppass - Login
+ - [https://www.corppass.gov.sg](https://www.corppass.gov.sg)
+ - date_published: 2024-06-20T14:13:13.051074+00:00
 

@@ -1,3 +1,47 @@
+ ## Chief Tools, Building, deploying and monitoring your applications.
+ - [https://chief.app](https://chief.app)
+ - date_published: 2024-06-19T09:30:17.283513+00:00
+
+ ## Chronophoto
+ - [https://www.chronophoto.app](https://www.chronophoto.app)
+ - date_published: 2023-10-25T11:45:47.691138+00:00
+
+ ## CityHunt | Providing Tourists With Local App Information
+ - [https://cityhunt.app](https://cityhunt.app)
+ - date_published: 2024-07-12T17:39:25+00:00
+
+ ## Clean Share
+ - [https://cleanshare.app](https://cleanshare.app)
+ - date_published: 2024-03-19T09:49:59+00:00
+
+ ## Show HN: A keyboard-centric clipboard history app for macOS
+ - [https://clipbook.app](https://clipbook.app)
+ - date_published: 2024-06-11T16:40:12+00:00
+
+ ## CloudClarity | Azure Governance, Bulk Tagging and Live Cost Allocation
+ - [https://portal.cloudclarity.app](https://portal.cloudclarity.app)
+ - date_published: 2024-04-11T03:01:07+00:00
+
+ ## Cloudlift Shopify Apps
+ - [https://assets.cloudlift.app](https://assets.cloudlift.app)
+ - date_published: 2024-06-27T15:41:00.786169+00:00
+
+ ## ClubHopr
+ - [https://clubhopr.app](https://clubhopr.app)
+ - date_published: 2023-10-25T11:45:50.679185+00:00
+
+ ## Log in | CMDC
+ - [https://stocknotifier.cmdcbv.app](https://stocknotifier.cmdcbv.app)
+ - date_published: 2024-07-14T03:22:18.911073+00:00
+
+ ## Cmder | Console Emulator
+ - [https://cmder.app](https://cmder.app)
+ - date_published: 2024-07-23T22:48:13.266299+00:00
+
+ ## Cmd J — ChatGPT extension for Google, StackOverflow, Gmail
+ - [https://cmdj.app](https://cmdj.app)
+ - date_published: 2023-03-21T18:37:33+00:00
+
  ## Cmd J – ChatGPT for Chrome
  - [https://install.cmdj.app](https://install.cmdj.app)
  - date_published: 2024-06-19T19:10:04.477105+00:00
@@ -805,6 +849,10 @@
  ## Free Talk
  - [https://freetalk.app](https://freetalk.app)
  - date_published: 2024-07-03T08:28:46.052393+00:00
+
+ ## Fridge Finder
+ - [https://fridgefinder.app](https://fridgefinder.app)
+ - date_published: 2023-06-27T23:39:56+00:00
 
  ## Find the perfect fundraising advisor for your startup
  - [https://www.fundraisingadvisors.app](https://www.fundraisingadvisors.app)
@@ -1643,6 +1691,14 @@
  - [https://log4u.app](https://log4u.app)
  - date_published: 2024-06-08T00:00:00+00:00
 
+ ## Loox Shopify Reviews App - Product Reviews & Referrals
+ - [http://loox.app](http://loox.app)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Loox - Status Page
+ - [https://status.loox.app](https://status.loox.app)
+ - date_published: 2024-08-08T16:36:52.398539+00:00
+
  ## Show HN: I created an app for you to be a more unpredictable romantic partner
  - [https://lovefuel.app](https://lovefuel.app)
  - date_published: 2024-05-12T19:14:39+00:00
@@ -1915,6 +1971,14 @@
  - [https://muffinterm.app](https://muffinterm.app)
  - date_published: 2024-05-08T04:06:32.485774+00:00
 
+ ## Home
+ - [https://burak.mulayim.app](https://burak.mulayim.app)
+ - date_published: 2024-08-08T15:26:32.318189+00:00
+
+ ## @remotion/web
+ - [https://app.multi.app](https://app.multi.app)
+ - date_published: 2024-06-24T07:39:09+00:00
+
  ## Multi— Multiplayer Collaboration for MacOS
  - [https://multi.app](https://multi.app)
  - date_published: 2024-04-25T00:00:00+00:00
@@ -1991,6 +2055,10 @@
  - [https://nerv.app](https://nerv.app)
  - date_published: 2024-01-01T22:14:48.864192+00:00
 
+ ## 11ty Netlify Jumpstart
+ - [https://11ty-netlify-jumpstart.netlify.app](https://11ty-netlify-jumpstart.netlify.app)
+ - date_published: 2024-08-08T22:54:14.635043+00:00
+
  ## 2021 Color for CSS Cafe - Talk by Adam Argyle
  - [https://2021-css-cafe.netlify.app](https://2021-css-cafe.netlify.app)
  - date_published: 2024-04-30T02:02:30.031440+00:00
@@ -2006,6 +2074,10 @@
  ## Hover Conf 2021 - Whats New In CSS
  - [https://2021-hover-conf-new-in-css.netlify.app](https://2021-hover-conf-new-in-css.netlify.app)
  - date_published: 2024-04-30T02:02:41.304652+00:00
+
+ ## renderer or something
+ - [https://3d-renderer.netlify.app](https://3d-renderer.netlify.app)
+ - date_published: 2024-08-08T23:10:04.965278+00:00
 
  ## Our Dad makes pizza
  - [https://5c4dcafe738cbdee3952eae8--ourdadmakespizza.netlify.app](https://5c4dcafe738cbdee3952eae8--ourdadmakespizza.netlify.app)
@@ -2390,6 +2462,10 @@
  - [https://ilf-site-analytics.netlify.app](https://ilf-site-analytics.netlify.app)
  - date_published: 2024-06-26T08:03:26.755243+00:00
 
+ ## Indian Chatrooms on Decentralized Networks
+ - [https://indiachat.netlify.app](https://indiachat.netlify.app)
+ - date_published: 2024-08-08T15:21:05.053664+00:00
+
  ## In-Game Photography
  - [https://ingame-photography.netlify.app](https://ingame-photography.netlify.app)
  - date_published: 2024-07-02T18:28:12.459898+00:00
@@ -2446,6 +2522,10 @@
  - [https://klaviyo-marketing-site-us.netlify.app](https://klaviyo-marketing-site-us.netlify.app)
  - date_published: 2024-07-03T12:23:20.101167+00:00
 
+ ## LaunchDarkly: Feature Flags, Feature Management, and Experimentation
+ - [https://launchdarkly-com.netlify.app](https://launchdarkly-com.netlify.app)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## Linear easing generator
  - [https://linear-easing-generator.netlify.app](https://linear-easing-generator.netlify.app)
  - date_published: 2024-06-23T03:51:35.839244+00:00
@@ -2469,6 +2549,10 @@
  ## Design System
  - [https://lwjds.netlify.app](https://lwjds.netlify.app)
  - date_published: 2024-07-20T22:17:56.592213+00:00
+
+ ## Weekly Statistics Dashboard
+ - [https://lwj-modcss.netlify.app](https://lwj-modcss.netlify.app)
+ - date_published: 2024-08-08T22:54:12.566516+00:00
 
  ## macOS Cursors
  - [https://mac-cursors.netlify.app](https://mac-cursors.netlify.app)
@@ -2615,6 +2699,10 @@
  ## Obie - Fast, accurate support for teams
  - [https://obieai.netlify.app](https://obieai.netlify.app)
  - date_published: 2024-07-10T10:36:54.171826+00:00
+
+ ## Object-Fit Focal Point
+ - [https://objectfit-focalpoint.netlify.app](https://objectfit-focalpoint.netlify.app)
+ - date_published: 2024-08-08T22:54:26.824996+00:00
 
  ## Home - Odyssey Center
  - [https://odyssey-center.netlify.app](https://odyssey-center.netlify.app)
@@ -2901,6 +2989,14 @@
  - [https://tinglok.netlify.app](https://tinglok.netlify.app)
  - date_published: 2024-08-07T16:36:35.099079+00:00
 
+ ## React App
+ - [https://tmdb-load-more.netlify.app](https://tmdb-load-more.netlify.app)
+ - date_published: 2024-08-08T17:49:48.504231+00:00
+
+ ## React App
+ - [https://tmdb-viewer.netlify.app](https://tmdb-viewer.netlify.app)
+ - date_published: 2024-08-08T17:48:53.007786+00:00
+
  ## John's Blog
  - [https://toha-guides.netlify.app](https://toha-guides.netlify.app)
  - date_published: 2024-01-05T00:00:00+00:00
@@ -3041,6 +3137,10 @@
  ## Netron
  - [https://netron.app](https://netron.app)
  - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Let customers edit their orders | OrderEditing
+ - [https://f67f-184-175-34-174.ngrok-free.app](https://f67f-184-175-34-174.ngrok-free.app)
+ - date_published: 2024-08-08T16:33:40.613958+00:00
 
  ## Niagara Launcher Help Page
  - [https://help.niagaralauncher.app](https://help.niagaralauncher.app)
@@ -3610,6 +3710,10 @@
  - [https://proxyman.app](https://proxyman.app)
  - date_published: 2024-07-15T07:51:38+00:00
 
+ ## Public App - local news videos
+ - [https://public.app](https://public.app)
+ - date_published: 2024-08-08T14:13:12.805460+00:00
+
  ## Pulse Browser - A better Firefox fork
  - [https://pulsebrowser.app](https://pulsebrowser.app)
  - date_published: 2023-10-25T11:48:31.094675+00:00
@@ -3934,109 +4038,4 @@
  ## Rydeen
  - [https://rydeen.app](https://rydeen.app)
  - date_published: 2024-06-03T11:21:06.056570+00:00
-
- ## Sasage | 撮影採寸原稿
- - [https://www.sasage.app](https://www.sasage.app)
- - date_published: 2024-07-14T14:13:34.712284+00:00
-
- ## Satyrn
- - [https://satyrn.app](https://satyrn.app)
- - date_published: 2024-07-07T17:59:31+00:00
-
- ## Savepad - Join the Waitlist!
- - [https://savepad.app](https://savepad.app)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Online Book Writing Software now with AI Writing Assistant
- - [https://sceneone.app](https://sceneone.app)
- - date_published: 2024-06-19T20:03:38.704975+00:00
-
- ## sci.app | A window to Science
- - [https://sci.app](https://sci.app)
- - date_published: 2024-05-10T06:40:41.329753+00:00
-
- ## ScienceGate : Academic Search Engine
- - [https://www.sciencegate.app](https://www.sciencegate.app)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Buy ScreenMemory
- - [https://screenmemory.app](https://screenmemory.app)
- - date_published: 2024-05-04T09:32:23.602650+00:00
-
- ## Scrypted Network Video Recorder
- - [https://demo.scrypted.app](https://demo.scrypted.app)
- - date_published: 2024-07-01T10:04:02+00:00
-
- ## Scrypted Documentation
- - [https://developer.scrypted.app](https://developer.scrypted.app)
- - date_published: 2023-08-26T23:51:15+00:00
-
- ## Scrypted | Scrypted Docs
- - [https://docs.scrypted.app](https://docs.scrypted.app)
- - date_published: 2024-05-14T04:02:08.467387+00:00
-
- ## Scrypted Cloud
- - [https://home.scrypted.app](https://home.scrypted.app)
- - date_published: 2024-05-14T04:02:09.834278+00:00
-
- ## Scrypted Scripts
- - [https://scripts.scrypted.app](https://scripts.scrypted.app)
- - date_published: 2024-05-07T19:39:50+00:00
-
- ## Scrypted
- - [https://scrypted.app](https://scrypted.app)
- - date_published: 2023-07-12T21:24:56+00:00
- - tags: ['alexa', 'smart home', 'video streaming', 'google home']
-
- ## sc-type
- - [https://sctype.app](https://sctype.app)
- - date_published: 2019-08-01T00:00:00+00:00
-
- ## SearchBot for Discord
- - [https://searchbot.app](https://searchbot.app)
- - date_published: 2024-07-23T23:26:44.568978+00:00
-
- ## Seatsurfing
- - [https://seatsurfing.app](https://seatsurfing.app)
- - date_published: 2024-05-23T20:09:17+00:00
-
- ## Show HN: Seedling – A Decentralised Medium
- - [https://seedling-d.app](https://seedling-d.app)
- - date_published: 2024-01-05T22:54:58+00:00
-
- ## ServicePlanner :: Ministry & Field Service App
- - [https://serviceplanner.app](https://serviceplanner.app)
- - date_published: 2024-07-09T15:51:29.287371+00:00
-
- ## Every mountain, building and tree shadow in the world simulated for any time
- - [https://shademap.app](https://shademap.app)
- - date_published: 2024-05-31T05:09:24+00:00
-
- ## AI with Brain Inside Google Sheets
- - [https://sheetai.app](https://sheetai.app)
- - date_published: 2024-06-19T21:11:38.165510+00:00
-
- ## Ayame Labo
- - [https://ayame-labo.shiguredo.app](https://ayame-labo.shiguredo.app)
- - date_published: 2024-07-23T23:16:54.785993+00:00
-
- ## Sora Labo
- - [https://sora-labo.shiguredo.app](https://sora-labo.shiguredo.app)
- - date_published: 2024-07-23T23:15:44.688373+00:00
-
- ## ShinyTracker
- - [https://shinytracker.app](https://shinytracker.app)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## https://go.shop.app
- - [https://go.shop.app](https://go.shop.app)
- - date_published: 2024-02-24T09:57:16.776865+00:00
-
- ## Weryfikowanie połączenia...
- - [https://shop.app](https://shop.app)
- - date_published: 2024-04-28T03:00:17.300790+00:00
-
- ## Code Shrew
- - [https://shrew.app](https://shrew.app)
- - date_published: 2024-07-12T17:42:01.232844+00:00
 

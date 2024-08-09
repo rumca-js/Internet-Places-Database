@@ -1,691 +1,3 @@
- ## Sway: Create and share interactive reports, presentations, personal stories, and more.
- - [https://sway.cloud.microsoft](https://sway.cloud.microsoft)
- - date_published: 2024-07-19T04:17:13.088257+00:00
-
- ## Azure status
- - [https://azure.status.microsoft](https://azure.status.microsoft)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## U.S. Air Force Legal Assistance (AFLASS)
- - [https://aflegalassistance.law.af.mil](https://aflegalassistance.law.af.mil)
- - date_published: 2024-07-03T22:50:19.189016+00:00
-
- ## Armed Forces Legal Assistance (AFLA)
- - [https://legalassistance.law.af.mil](https://legalassistance.law.af.mil)
- - date_published: 2024-06-20T23:51:22+00:00
-
- ## Sixteenth Air Force (Air Forces Cyber) > Home
- - [https://www.16af.af.mil](https://www.16af.af.mil)
- - date_published: 2024-07-16T23:00:12.806273+00:00
-
- ## Second Air Force > Home
- - [https://www.2af.aetc.af.mil](https://www.2af.aetc.af.mil)
- - date_published: 2024-07-20T21:12:31.542093+00:00
-
- ## 419th Fighter Wing > Home
- - [https://www.419fw.afrc.af.mil](https://www.419fw.afrc.af.mil)
- - date_published: 2024-06-21T00:01:21.935076+00:00
-
- ## 920th Rescue Wing > Home
- - [https://www.920rqw.afrc.af.mil](https://www.920rqw.afrc.af.mil)
- - date_published: 2024-07-16T23:00:51.540543+00:00
-
- ## Home
- - [https://www.acc.af.mil](https://www.acc.af.mil)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Air Education and Training Command > Home
- - [https://www.aetc.af.mil](https://www.aetc.af.mil)
- - date_published: 2024-05-22T13:55:19.794379+00:00
-
- ## Air Force Global Strike Command AFSTRAT-AIR > Home
- - [https://www.afgsc.af.mil](https://www.afgsc.af.mil)
- - date_published: 2024-06-21T00:00:31.385912+00:00
-
- ## Air Force Historical Support Division > Home
- - [https://www.afhistory.af.mil](https://www.afhistory.af.mil)
- - date_published: 2024-07-03T13:50:28.518034+00:00
-
- ## Home
- - [https://www.afinspectorgeneral.af.mil](https://www.afinspectorgeneral.af.mil)
- - date_published: 2024-06-21T00:00:56.574490+00:00
-
- ## AFLCMC
- - [https://www.aflcmc.af.mil](https://www.aflcmc.af.mil)
- - date_published: 2024-06-21T00:01:19.805069+00:00
-
- ## Home page of Air Force Materiel Command
- - [https://www.afmc.af.mil](https://www.afmc.af.mil)
- - date_published: 2024-06-21T00:00:54.856222+00:00
-
- ## The Official Home Page of the U.S. Air Force
- - [https://www.af.mil](https://www.af.mil)
- - date_published: 2024-05-08T02:44:21.703710+00:00
-
- ## Home
- - [http://www.afpc.af.mil](http://www.afpc.af.mil)
- - date_published: 2024-07-03T13:50:54.678305+00:00
-
- ## Air Force Reserve Command
- - [https://www.afrc.af.mil](https://www.afrc.af.mil)
- - date_published: 2024-06-21T00:00:27.107311+00:00
-
- ## Air Force Research Laboratory
- - [https://www.afrl.af.mil](https://www.afrl.af.mil)
- - date_published: 2024-07-08T17:35:56.699425+00:00
-
- ## Air Force Sustainment Center
- - [https://www.afsc.af.mil](https://www.afsc.af.mil)
- - date_published: 2024-06-21T00:01:00.589400+00:00
-
- ## The Official Home Page of the AFMS
- - [https://www.airforcemedicine.af.mil](https://www.airforcemedicine.af.mil)
- - date_published: 2024-07-03T13:50:35.440084+00:00
-
- ## Department of the Air Force Office of Small Business > Home
- - [https://www.airforcesmallbiz.af.mil](https://www.airforcesmallbiz.af.mil)
- - date_published: 2024-07-03T13:49:16.016962+00:00
-
- ## Airman Magazine
- - [https://www.airmanmagazine.af.mil](https://www.airmanmagazine.af.mil)
- - date_published: 2024-07-03T13:50:57.181975+00:00
-
- ## Altus Air Force Base
- - [https://www.altus.af.mil](https://www.altus.af.mil)
- - date_published: 2024-07-20T21:12:36.371570+00:00
-
- ## Air Mobility Command
- - [https://www.amc.af.mil](https://www.amc.af.mil)
- - date_published: 2024-07-03T22:49:58.594560+00:00
-
- ## Home of Air National Guard
- - [https://www.ang.af.mil](https://www.ang.af.mil)
- - date_published: 2024-06-21T00:00:48.920788+00:00
-
- ## Air Force Basic Military Training
- - [http://www.basictraining.af.mil](http://www.basictraining.af.mil)
- - date_published: 2024-07-20T21:12:26.889550+00:00
-
- ## Columbus Air Force Base 14th Flying Training Wing Home
- - [https://www.columbus.af.mil](https://www.columbus.af.mil)
- - date_published: 2024-07-20T21:13:24.626687+00:00
-
- ## Air Force Compliance Division > Home
- - [https://www.compliance.af.mil](https://www.compliance.af.mil)
- - date_published: 2024-06-21T00:00:44.888784+00:00
-
- ## Creech Air Force Base > Home
- - [https://www.creech.af.mil](https://www.creech.af.mil)
- - date_published: 2024-05-06T17:12:11.128798+00:00
-
- ## U.S. Air Force Doctrine > Home
- - [https://www.doctrine.af.mil](https://www.doctrine.af.mil)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Edwards Air Force Base - Home
- - [https://www.edwards.af.mil](https://www.edwards.af.mil)
- - date_published: 2024-04-18T15:00:26.611700+00:00
- - tags: ['aerospace', 'avionic']
-
- ## Eglin Air Force Base > Home
- - [https://www.eglin.af.mil](https://www.eglin.af.mil)
- - date_published: 2024-07-13T11:26:31.224615+00:00
-
- ## Home
- - [http://www.e-publishing.af.mil](http://www.e-publishing.af.mil)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## U.S. Air Force Expeditionary Center > Home
- - [http://www.expeditionarycenter.af.mil](http://www.expeditionarycenter.af.mil)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Air Force Compliance Division > Home
- - [https://www.foia.af.mil](https://www.foia.af.mil)
- - date_published: 2024-07-20T21:13:07.208459+00:00
-
- ## Home
- - [https://www.gosere.af.mil](https://www.gosere.af.mil)
- - date_published: 2024-07-20T21:13:21.492228+00:00
-
- ## Home page of Hill Air Force Base
- - [https://www.hill.af.mil](https://www.hill.af.mil)
- - date_published: 2024-05-04T10:12:36.004277+00:00
-
- ## Holloman Air Force Base > Home
- - [https://www.holloman.af.mil](https://www.holloman.af.mil)
- - date_published: 2024-07-20T21:12:53.600714+00:00
-
- ## Air Force Housing
- - [https://www.housing.af.mil](https://www.housing.af.mil)
- - date_published: 2024-07-03T22:50:05.116893+00:00
-
- ## Keesler Air Force Base
- - [https://www.keesler.af.mil](https://www.keesler.af.mil)
- - date_published: 2024-07-20T21:13:26.935929+00:00
-
- ## Kirtland Air Force Base > Home
- - [https://www.kirtland.af.mil](https://www.kirtland.af.mil)
- - date_published: 2024-07-20T21:12:40.151290+00:00
-
- ## Home
- - [https://www.laughlin.af.mil](https://www.laughlin.af.mil)
- - date_published: 2024-07-20T21:13:30.232094+00:00
-
- ## Air Force Learning Professionals
- - [https://www.learningprofessionals.af.mil](https://www.learningprofessionals.af.mil)
- - date_published: 2024-07-20T21:12:33.627892+00:00
-
- ## Los Angeles Air Force Base
- - [http://www.losangeles.af.mil](http://www.losangeles.af.mil)
- - date_published: 2024-06-23T13:26:21.740813+00:00
-
- ## Home of the 56th Fighter Wing
- - [https://www.luke.af.mil](https://www.luke.af.mil)
- - date_published: 2024-07-20T21:12:22.566534+00:00
-
- ## Maxwell Air Force Base
- - [https://www.maxwell.af.mil](https://www.maxwell.af.mil)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home of the Air Force Bands
- - [https://www.music.af.mil](https://www.music.af.mil)
- - date_published: 2024-07-03T22:50:03.072440+00:00
-
- ## AF
- - [https://www.my.af.mil](https://www.my.af.mil)
- - date_published: 2023-03-15T13:27:26+00:00
-
- ## National Museum of the USAF
- - [http://www.nationalmuseum.af.mil](http://www.nationalmuseum.af.mil)
- - date_published: 2024-07-03T13:50:30.850161+00:00
-
- ## Home
- - [https://www.osi.af.mil](https://www.osi.af.mil)
- - date_published: 2024-06-21T00:01:18.033521+00:00
-
- ## Home
- - [https://www.recruiting.af.mil](https://www.recruiting.af.mil)
- - date_published: 2024-07-20T21:13:08.715119+00:00
-
- ## Home
- - [https://www.resilience.af.mil](https://www.resilience.af.mil)
- - date_published: 2024-06-21T00:00:43.188431+00:00
-
- ## Shaw Air Force Base > Home
- - [http://www.shaw.af.mil](http://www.shaw.af.mil)
- - date_published: 2024-06-17T11:44:21.683156+00:00
-
- ## Sheppard Air Force Base > Home
- - [https://www.sheppard.af.mil](https://www.sheppard.af.mil)
- - date_published: 2024-07-20T21:13:10.973272+00:00
-
- ## Home
- - [https://www.trademark.af.mil](https://www.trademark.af.mil)
- - date_published: 2024-07-03T13:51:33.997237+00:00
-
- ## Travis Air Force Base > Home
- - [https://www.travis.af.mil](https://www.travis.af.mil)
- - date_published: 2024-05-08T04:16:36.714687+00:00
-
- ## Air Force Academy Homepage
- - [http://www.usafa.af.mil](http://www.usafa.af.mil)
- - date_published: 2024-07-14T17:51:38.002881+00:00
-
- ## Wright-Patterson AFB > Home
- - [http://www.wpafb.af.mil](http://www.wpafb.af.mil)
- - date_published: 2024-07-01T19:50:52.472037+00:00
-
- ## United States Africa Command
- - [http://www.africom.mil](http://www.africom.mil)
- - date_published: 2024-07-03T13:37:26.902006+00:00
-
- ## Home
- - [https://www.ah.mil](https://www.ah.mil)
- - date_published: 2024-07-03T13:49:54.526810+00:00
-
- ## CDAO - Chief Digital and Artificial Intelligence Office
- - [https://www.ai.mil](https://www.ai.mil)
- - date_published: 2024-05-08T02:44:03.065054+00:00
-
- ## NIM-Aviation Homepage
- - [https://www.airdomainintelligence.mil](https://www.airdomainintelligence.mil)
- - date_published: 2023-10-25T20:22:13.913036+00:00
-
- ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
- - [https://forms.osi.apps.mil](https://forms.osi.apps.mil)
- - date_published: 2024-07-03T13:48:37.726728+00:00
-
- ## Sign in to Outlook
- - [https://webmail.apps.mil](https://webmail.apps.mil)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home
- - [https://achh.army.mil](https://achh.army.mil)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Administrative Publications, United States Army Training and Doctrine Command (TRADOC)
- - [https://adminpubs.tradoc.army.mil](https://adminpubs.tradoc.army.mil)
- - date_published: 2024-06-18T17:45:06+00:00
-
- ## US Army Environmental Command Home Page
- - [https://aec.army.mil](https://aec.army.mil)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Army Sustainment University
- - [https://alu.army.mil](https://alu.army.mil)
- - date_published: 2024-07-15T03:43:31.406964+00:00
-
- ## Army Medical Department Civilian Corps
- - [https://ameddciviliancorps.amedd.army.mil](https://ameddciviliancorps.amedd.army.mil)
- - date_published: 2024-07-02T18:25:27+00:00
-
- ## Swagger Lume API
- - [https://api.army.mil](https://api.army.mil)
- - date_published: 2024-07-03T13:36:30.842734+00:00
-
- ## Army Publishing Directorate
- - [https://armypubs.army.mil](https://armypubs.army.mil)
- - date_published: 2024-01-09T03:34:24.337515+00:00
-
- ## Home
-- Community Resource Guide
- - [https://crg.amedd.army.mil](https://crg.amedd.army.mil)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Welcome! | DCS, G-9
- - [https://dcsg9.army.mil](https://dcsg9.army.mil)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## U.S. Army Center of Military History
- - [https://history.army.mil](https://history.army.mil)
- - date_published: 2024-07-01T06:33:00+00:00
-
- ## Army Garrisons :: U.S. Army Installation Management Command
- - [https://home.army.mil](https://home.army.mil)
- - date_published: 2024-05-07T22:28:14.835339+00:00
-
- ## Welcome // 
-      ICAM Portal
- - [https://icamportal.us.army.mil](https://icamportal.us.army.mil)
- - date_published: 2024-07-15T03:43:21.290333+00:00
-
- ## Home
- - [https://medcoe.army.mil](https://medcoe.army.mil)
- - date_published: 2024-05-12T05:00:36.748668+00:00
-
- ## MyArmyBenefits | Official U.S. Army Military Benefits Website
- - [https://myarmybenefits.us.army.mil](https://myarmybenefits.us.army.mil)
- - date_published: 2024-07-15T03:44:13.157081+00:00
-
- ## Welcome! | Readyarmy
- - [https://ready.army.mil](https://ready.army.mil)
- - date_published: 2024-07-02T14:02:30.540300+00:00
-
- ## U.S. Army Recruiting Command
- - [https://recruiting.army.mil](https://recruiting.army.mil)
- - date_published: 2024-07-15T03:44:39.173148+00:00
-
- ## Fort Sill | Fires Center of Excellence
- - [https://sill-www.army.mil](https://sill-www.army.mil)
- - date_published: 2024-07-15T03:43:40.751525+00:00
-
- ## US Army Soldier For Life
- - [https://soldierforlife.army.mil](https://soldierforlife.army.mil)
- - date_published: 2024-05-12T05:26:44.574270+00:00
-
- ## U.S. Army Training Doctrine and Command – Victory Starts Here
- - [https://uat.tradoc.army.mil](https://uat.tradoc.army.mil)
- - date_published: 2024-07-15T03:43:56.353912+00:00
-
- ## US Army Combined Arms Center
- - [http://usacac.army.mil](http://usacac.army.mil)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## CIMT
- - [https://usacimt.tradoc.army.mil](https://usacimt.tradoc.army.mil)
- - date_published: 2024-07-03T13:52:45+00:00
-
- ## Mission - US Army Institute for Religious Leadership
- - [https://usairl.tradoc.army.mil](https://usairl.tradoc.army.mil)
- - date_published: 2023-10-27T00:00:00+00:00
-
- ## Slate VX
- - [https://vbo.army.mil](https://vbo.army.mil)
- - date_published: 2024-07-12T21:21:53+00:00
-
- ## The Official Home Page of the United States Army
- - [https://www.army.mil](https://www.army.mil)
- - date_published: 2023-12-25T20:06:41.547970+00:00
-
- ## Directorate of Prevention, Resilience and Readiness
- - [https://www.armyresilience.army.mil](https://www.armyresilience.army.mil)
- - date_published: 2024-06-27T17:47:40+00:00
-
- ## Army University Press
- - [https://www.armyupress.army.mil](https://www.armyupress.army.mil)
- - date_published: 2024-07-08T21:38:26.704274+00:00
-
- ## ERDC
- - [https://www.erdc.usace.army.mil](https://www.erdc.usace.army.mil)
- - date_published: 2024-07-07T03:22:52.139590+00:00
-
- ## HRC Homepage
- - [https://www.hrc.army.mil](https://www.hrc.army.mil)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## IKN - Intelligence Knowledge Network
- - [https://www.ikn.army.mil](https://www.ikn.army.mil)
- - date_published: 2024-07-15T03:43:34+00:00
-
- ## Home
- - [https://www.inscom.army.mil](https://www.inscom.army.mil)
- - date_published: 2024-05-12T05:00:39.924305+00:00
-
- ## New York District, U.S. Army Corps of Engineers
- - [https://www.nan.usace.army.mil](https://www.nan.usace.army.mil)
- - date_published: 2024-06-28T13:14:13.177582+00:00
-
- ## NCO Leadership Center of Excellence
- - [https://www.ncolcoe.army.mil](https://www.ncolcoe.army.mil)
- - date_published: 2024-07-15T03:43:43.724632+00:00
-
- ## Records Management Directorate and Army Declassification Directorate
- - [https://www.rmda.army.mil](https://www.rmda.army.mil)
- - date_published: 2023-09-11T21:11:43+00:00
-
- ## HOME
- - [https://www.smdc.army.mil](https://www.smdc.army.mil)
- - date_published: 2024-07-15T03:43:29.449532+00:00
-
- ## Sacramento District, U.S. Army Corps of Engineers
- - [https://www.spk.usace.army.mil](https://www.spk.usace.army.mil)
- - date_published: 2024-07-09T11:47:27.437285+00:00
-
- ## U.S. Army Training and Doctrine Command – Victory Starts Here
- - [https://www.tradoc.army.mil](https://www.tradoc.army.mil)
- - date_published: 2024-05-12T05:00:33.265148+00:00
-
- ## Headquarters U.S. Army Corps of Engineers
- - [https://www.usace.army.mil](https://www.usace.army.mil)
- - date_published: 2024-06-17T09:07:38.135591+00:00
-
- ## Home
- - [https://www.usainscom.army.mil](https://www.usainscom.army.mil)
- - date_published: 2024-07-15T03:44:47.177691+00:00
-
- ## U.S. Army Reserve home
- - [http://www.usar.army.mil](http://www.usar.army.mil)
- - date_published: 2024-07-15T03:43:46.299700+00:00
-
- ## Home
- - [https://www.centcom.mil](https://www.centcom.mil)
- - date_published: 2024-06-21T02:38:14.470944+00:00
-
- ## https://www.cto.mil
- - [https://www.cto.mil](https://www.cto.mil)
- - date_published: 2024-01-09T03:34:26.715283+00:00
-
- ## DoD Cyber Exchange – DoD Cyber Exchange
- - [https://public.cyber.mil](https://public.cyber.mil)
- - date_published: 2024-06-25T13:02:55+00:00
-
- ## Home USCYBERCOM
- - [http://www.cybercom.mil](http://www.cybercom.mil)
- - date_published: 2024-07-03T13:37:30.869774+00:00
-
- ## Home|AI for Critical Mineral Assessment Competition
- - [https://criticalminerals.darpa.mil](https://criticalminerals.darpa.mil)
- - date_published: 2024-06-22T07:51:45.467112+00:00
-
- ## DARPA Triage Challenge
- - [https://triagechallenge.darpa.mil](https://triagechallenge.darpa.mil)
- - date_published: 2024-01-01T17:15:56+00:00
-
- ## Defense Advanced Research Projects Agency
- - [https://www.darpa.mil](https://www.darpa.mil)
- - date_published: 2023-10-25T20:22:24.810237+00:00
- - tags: ['survaillance', 'military']
-
- ## Department of Defense Cyber Crime Center (DC3) > About DC3
- - [https://www.dc3.mil](https://www.dc3.mil)
- - date_published: 2024-05-08T02:44:09.422185+00:00
-
- ## Defense Contract Audit Agency - Home
- - [http://www.dcaa.mil](http://www.dcaa.mil)
- - date_published: 2024-07-03T13:54:29.179437+00:00
-
- ## Defense Digital Service
- - [https://www.dds.mil](https://www.dds.mil)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## U.S. Department of Defense
- - [http://www.defenselink.mil](http://www.defenselink.mil)
- - date_published: 2024-06-20T02:54:17.098209+00:00
-
- ## Defense Small Business Innovation Research / Small Business Technology Transfer
- - [https://www.defensesbirsttr.mil](https://www.defensesbirsttr.mil)
- - date_published: 2024-07-03T13:53:03.516917+00:00
-
- ## Defense Finance Accounting Service (DFAS)
- - [http://www.dfas.mil](http://www.dfas.mil)
- - date_published: 2024-07-03T13:54:30.607691+00:00
-
- ## DIMOC Home
- - [https://www.dimoc.mil](https://www.dimoc.mil)
- - date_published: 2024-05-08T02:44:18.741461+00:00
-
- ## Site :: Missing Template
- - [https://ice.disa.mil](https://ice.disa.mil)
- - date_published: 2021-04-02T17:32:19+00:00
-
- ## HOME
- - [https://disa.mil](https://disa.mil)
- - date_published: 2024-05-12T05:00:43.153264+00:00
-
- ## Defense Innovation Unit
- - [https://diu.mil](https://diu.mil)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## NAVY Forms Online
- - [https://forms.documentservices.dla.mil](https://forms.documentservices.dla.mil)
- - date_published: 2024-07-03T13:39:49.609836+00:00
-
- ## Defense Standardization Program (DSP)
- - [https://www.dsp.dla.mil](https://www.dsp.dla.mil)
- - date_published: 2024-06-22T07:07:06.256353+00:00
-
- ## Defense Media Activity - Home
- - [https://www.dma.mil](https://www.dma.mil)
- - date_published: 2024-07-03T13:47:59.016548+00:00
-
- ## WEB.MIL - U.S. DEPARTMENT OF DEFENSE
- - [https://www.web.dma.mil](https://www.web.dma.mil)
- - date_published: 2024-05-08T02:43:41.940888+00:00
-
- ## Defense Industrial Base (DIB) Cybersecurity Portal
- - [https://dibnet.dod.mil](https://dibnet.dod.mil)
- - date_published: 2024-05-08T02:43:03.317449+00:00
-
- ## Defense Travel Management Office | Home
- - [https://www.defensetravel.dod.mil](https://www.defensetravel.dod.mil)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## U.S. Department of Defense
- - [http://www.dod.mil](http://www.dod.mil)
- - date_published: 2024-07-03T13:49:13.120460+00:00
-
- ## Defense Travel Management Office | Home
- - [https://travel.dod.mil](https://travel.dod.mil)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://www.dodig.mil](https://www.dodig.mil)
- - date_published: 2024-05-08T02:44:16.443319+00:00
-
- ## Home
- - [http://navalaviationnews.navylive.dodlive.mil](http://navalaviationnews.navylive.dodlive.mil)
- - date_published: 2024-07-09T22:15:51.364712+00:00
-
- ## Blogs
- - [http://navylive.dodlive.mil](http://navylive.dodlive.mil)
- - date_published: 2024-07-22T09:23:41.506707+00:00
-
- ## Defense POW/MIA Accounting Agency (DPAA)
- - [http://www.dpaa.mil](http://www.dpaa.mil)
- - date_published: 2024-07-03T13:54:37.771107+00:00
-
- ## Defense Security Cooperation Agency | Defense Security Cooperation Agency
- - [http://www.dsca.mil](http://www.dsca.mil)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Page Redirection
- - [https://apps.dtic.mil](https://apps.dtic.mil)
- - date_published: 2023-10-25T20:22:26.297274+00:00
-
- ## Defense Technical Information Center
- - [https://discover.dtic.mil](https://discover.dtic.mil)
- - date_published: 2024-07-15T03:01:51.753048+00:00
-
- ## R&E Gateway Search
- - [http://www.dtic.mil](http://www.dtic.mil)
- - date_published: 2024-04-28T03:51:33.980213+00:00
-
- ## Home
- - [https://www.dtra.mil](https://www.dtra.mil)
- - date_published: 2024-06-17T10:48:56.447494+00:00
-
- ## United States European Command
- - [https://www.eucom.mil](https://www.eucom.mil)
- - date_published: 2024-07-03T13:37:49.225226+00:00
-
- ## MHS Home
- - [https://health.mil](https://health.mil)
- - date_published: 2024-02-26T01:50:21.938439+00:00
-
- ## Home
- - [https://hpc.mil](https://hpc.mil)
- - date_published: 2024-07-09T08:21:15+00:00
-
- ## CJTF-OIR HOME
- - [https://www.inherentresolve.mil](https://www.inherentresolve.mil)
- - date_published: 2024-07-16T23:23:55.449564+00:00
-
- ## Joint Base San Antonio
- - [http://www.jbsa.mil](http://www.jbsa.mil)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Official Website of the Joint Chiefs of Staff
- - [https://www.jcs.mil](https://www.jcs.mil)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## JKO LMS
- - [https://jkodirect.jten.mil](https://jkodirect.jten.mil)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## 3rd Marine Aircraft Wing
- - [http://www.3rdmaw.marines.mil](http://www.3rdmaw.marines.mil)
- - date_published: 2024-06-29T21:39:51.273397+00:00
-
- ## Assistant Commandant of the Marine Corps
- - [https://www.acmc.marines.mil](https://www.acmc.marines.mil)
- - date_published: 2024-07-03T13:38:33.088697+00:00
-
- ## Marine Corps Logistics Base Albany
- - [http://www.albany.marines.mil](http://www.albany.marines.mil)
- - date_published: 2024-07-03T13:40:11.499688+00:00
-
- ## AR, Headquarters, U.S. Marine Corps
- - [https://www.ar.marines.mil](https://www.ar.marines.mil)
- - date_published: 2024-07-03T13:39:09.253721+00:00
-
- ## Marine Corps Aviation
- - [https://www.aviation.marines.mil](https://www.aviation.marines.mil)
- - date_published: 2024-07-03T13:39:55.115193+00:00
-
- ## Communication Directorate
- - [https://www.cd.marines.mil](https://www.cd.marines.mil)
- - date_published: 2024-07-03T13:39:38.702308+00:00
-
- ## Commandant of the Marine Corps
- - [http://www.cmc.marines.mil](http://www.cmc.marines.mil)
- - date_published: 2024-07-03T13:39:41.117720+00:00
-
- ## DMCS Home
- - [https://www.dmcs.marines.mil](https://www.dmcs.marines.mil)
- - date_published: 2024-07-03T13:39:13.253290+00:00
-
- ## Home
- - [https://www.hmx-1.marines.mil](https://www.hmx-1.marines.mil)
- - date_published: 2024-07-03T13:39:02.025716+00:00
-
- ## Headquarters Marine Corps
- - [https://www.hqmc.marines.mil](https://www.hqmc.marines.mil)
- - date_published: 2024-05-08T02:43:08.782033+00:00
-
- ## Installations and Logistics - Headquarters Marine Corps
- - [https://www.iandl.marines.mil](https://www.iandl.marines.mil)
- - date_published: 2024-07-03T13:38:55.292935+00:00
-
- ## II Marine Expeditionary Force
- - [https://www.iimef.marines.mil](https://www.iimef.marines.mil)
- - date_published: 2024-06-20T14:59:26.241622+00:00
-
- ## Deputy Commandant for Information
- - [https://www.information.marines.mil](https://www.information.marines.mil)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Marines.mil - Official website of the United States Marine Corps
- - [https://www.marines.mil](https://www.marines.mil)
- - date_published: 2023-10-25T20:22:30.689838+00:00
-
- ## Marine Corps Installations West
- - [http://www.mciwest.marines.mil](http://www.mciwest.marines.mil)
- - date_published: 2024-06-29T21:39:31.277888+00:00
-
- ## Marine Corps Logistics Base Barstow
- - [https://www.mclbbarstow.marines.mil](https://www.mclbbarstow.marines.mil)
- - date_published: 2024-06-17T10:29:19.656205+00:00
-
- ## Environmental Management System
- - [http://www.miramar-ems.marines.mil](http://www.miramar-ems.marines.mil)
- - date_published: 2024-06-29T21:39:28.836142+00:00
-
- ## Marine Corps Air Station Miramar
- - [https://www.miramar.marines.mil](https://www.miramar.marines.mil)
- - date_published: 2024-05-07T14:16:33.743259+00:00
-
- ## Plans, Policies & Operations
- - [https://www.ppo.marines.mil](https://www.ppo.marines.mil)
- - date_published: 2024-07-03T13:39:11.616316+00:00
-
- ## Sergeant Major of the Marine Corps
- - [http://www.smmc.marines.mil](http://www.smmc.marines.mil)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Home
- - [https://www.trademark.marines.mil](https://www.trademark.marines.mil)
- - date_published: 2024-07-03T13:40:15.460368+00:00
-
- ## MC&FP Office of Communications & Outreach
- - [https://apps.militaryonesource.mil](https://apps.militaryonesource.mil)
- - date_published: 2024-07-20T21:11:41.319152+00:00
-
- ## MC&FP Office of Communications & Outreach
- - [https://auth.militaryonesource.mil](https://auth.militaryonesource.mil)
- - date_published: 2024-05-22T13:55:03.299132+00:00
-
- ## Stories from the Military Spouse Community | Blog Brigade
- - [https://blog-brigade.militaryonesource.mil](https://blog-brigade.militaryonesource.mil)
- - date_published: 2024-07-20T21:11:08.590641+00:00
-
- ## EFMP & Me: The Exceptional Family Member Program Resource
- - [https://efmpandme.militaryonesource.mil](https://efmpandme.militaryonesource.mil)
- - date_published: 2024-07-20T21:11:18.639492+00:00
-
- ## EFMP | Education Directory for Children with Special Needs
- - [https://efmpeducationdirectory.militaryonesource.mil](https://efmpeducationdirectory.militaryonesource.mil)
- - date_published: 2024-07-20T21:11:34.895156+00:00
-
  ## MilitaryINSTALLATIONS: U.S. DOD Military Base & Installation Info
  - [https://installations.militaryonesource.mil](https://installations.militaryonesource.mil)
  - date_published: 2024-04-18T17:04:51+00:00
@@ -1333,6 +645,10 @@
  - [https://www.appintheair.mobi](https://www.appintheair.mobi)
  - date_published: 2024-04-25T13:20:00+00:00
 
+ ## Ask PAi - NPCI Chatbot powered by CoRover
+ - [https://npci.corover.mobi](https://npci.corover.mobi)
+ - date_published: 2024-08-01T15:31:10+00:00
+
  ## Digital East
  - [https://dessy.digitaleast.mobi](https://dessy.digitaleast.mobi)
  - date_published: 2024-06-18T10:30:36+00:00
@@ -1491,6 +807,10 @@
  - [https://darnell.moe](https://darnell.moe)
  - date_published: 2024-05-07T19:08:15.381139+00:00
 
+ ## Dejavu's Blog
+ - [https://blog.dejavu.moe](https://blog.dejavu.moe)
+ - date_published: 2024-08-08T15:20:47.507923+00:00
+
  ## ARRIVING AT DOKODEMO V3
  - [https://dokode.moe](https://dokode.moe)
  - date_published: 2024-03-20T14:56:15+00:00
@@ -1617,6 +937,10 @@
  ## moe
  - [https://pixelfed.moe](https://pixelfed.moe)
  - date_published: 2023-09-25T00:00:00+00:00
+
+ ## 春希のブログ
+ - [https://blog.plr.moe](https://blog.plr.moe)
+ - date_published: 2024-01-18T00:00:00+00:00
 
  ## FuwaFuwa DokiDoki
  - [https://kokoro.pyonpyon.moe](https://kokoro.pyonpyon.moe)
@@ -2896,6 +2220,10 @@
  - [https://www.forbes.com.mx](https://www.forbes.com.mx)
  - date_published: 2024-06-17T16:25:44+00:00
 
+ ## Descubre las mejores aplicaciones para hacer crecer tu negocio
+ - [https://www.getapp.com.mx](https://www.getapp.com.mx)
+ - date_published: 2024-08-08T18:07:06.839312+00:00
+
  ## Fotos de stock libres de derechos, imágenes creativas y vectores | Imágenes de noticias, moda y espectáculos - Getty Images
  - [https://www.gettyimages.com.mx](https://www.gettyimages.com.mx)
  - date_published: 2024-06-20T01:48:52.986123+00:00
@@ -3256,6 +2584,10 @@
  ## Museo de las Momias de Guanajuato
  - [http://www.momiasdeguanajuato.gob.mx](http://www.momiasdeguanajuato.gob.mx)
  - date_published: 2018-10-13T16:19:37+00:00
+
+ ## gob.mx
+ - [https://www.gob.mx](https://www.gob.mx)
+ - date_published: 2024-06-06T17:04:00+00:00
 
  ## Amazon México - About Amazon México
  - [https://www.aboutamazon.mx](https://www.aboutamazon.mx)
@@ -4036,4 +3368,685 @@
  ## Disney.my | The official home for all things Disney
  - [http://www.disney.my](http://www.disney.my)
  - date_published: 2024-06-16T02:00:49.418099+00:00
+
+ ## Gambaran penuh status
+ - [https://downdetector.my](https://downdetector.my)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Gaming Chair | Best Gaming Chair Brand For Gamers | DXRacer Malaysia
+ - [https://www.dxracer.my](https://www.dxracer.my)
+ - date_published: 2024-07-03T12:26:20.396177+00:00
+
+ ## Dyson Malaysia | Official Site | Shop
+ - [https://www.dyson.my](https://www.dyson.my)
+ - date_published: 2024-07-07T01:57:41.789345+00:00
+
+ ## Find the right property in Malaysia, New Homes, resale, buy and rent
+ - [https://www.edgeprop.my](https://www.edgeprop.my)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Finance Jobs, Banking and Tech Jobs - Malaysia - eFinancialCareers
+ - [https://www.efinancialcareers.my](https://www.efinancialcareers.my)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Malaysia Property - 1,273 Condos & Houses For Sale | FazWaz.my
+ - [https://www.fazwaz.my](https://www.fazwaz.my)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## HamRadio.My - Ham Radio, Fun Facts, Open Source Software, Tech Insights, Product Reviews
+ - [https://hamradio.my](https://hamradio.my)
+ - date_published: 2024-07-20T16:10:18.034479+00:00
+
+ ## Teng Wei Herr | HERR Studio
+ - [https://www.herr.my](https://www.herr.my)
+ - date_published: 2024-05-04T08:03:41.177837+00:00
+
+ ## Log masuk ke Hostinger
+ - [https://auth.hostinger.my](https://auth.hostinger.my)
+ - date_published: 2024-07-13T16:42:52.842847+00:00
+
+ ## The Hosting Platform Made For You - Go Online With Hostinger
+ - [https://hostinger.my](https://hostinger.my)
+ - date_published: 2024-05-11T07:50:19.671814+00:00
+
+ ## HR.my Unlimited Employees. Free for Life.
+ - [https://hr.my](https://hr.my)
+ - date_published: 2024-04-16T03:27:45+00:00
+
+ ## energy chains, polymer bearings, flexible cable, &amp; linear slides
+ - [https://www.igus.my](https://www.igus.my)
+ - date_published: 2024-08-06T23:12:49.572506+00:00
+
+ ## Show HN: Internet Speed Test
+ - [https://internetspeed.my](https://internetspeed.my)
+ - date_published: 2023-11-03T02:20:07+00:00
+
+ ## Home
+ - [https://conference.ipv6forummalaysia.my](https://conference.ipv6forummalaysia.my)
+ - date_published: 2024-07-07T00:03:27.851991+00:00
+
+ ## IPv6 Forum Malaysia
+ - [https://ipv6forummalaysia.my](https://ipv6forummalaysia.my)
+ - date_published: 2024-07-06T23:59:40.929765+00:00
+
+ ## Front - Jeremy Malcolm
+ - [https://jere.my](https://jere.my)
+ - date_published: 2024-07-13T04:16:49.774579+00:00
+
+ ## Home - Joturl
+ - [https://jo.my](https://jo.my)
+ - date_published: 2024-06-12T01:01:44+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.my](https://www.konecranes.my)
+ - date_published: 2024-06-20T23:15:26.419153+00:00
+
+ ## Malaysia Digital Economy Corporation
+ - [https://mdec.my](https://mdec.my)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Malaysia Website Awards 2024
+ - [https://www.mwa.my](https://www.mwa.my)
+ - date_published: 2024-06-20T05:47:06.261398+00:00
+
+ ## ERP System Malaysia | Cloud Based Best ERP Software Malaysia
+ - [https://netsense.my](https://netsense.my)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Bus Tickets Online, Ferry Tickets | Malaysia’s #1 Bus Booking Platform
+ - [https://www.redbus.my](https://www.redbus.my)
+ - date_published: 2024-06-16T15:51:51.609788+00:00
+
+ ## RFI - Actualités, info, news en direct - Radio France Internationale
+ - [https://rfi.my](https://rfi.my)
+ - date_published: 2024-05-08T00:39:04.666587+00:00
+
+ ## Global Negotiation Skills Training & Consultancy | Scotwork Malaysia
+ - [https://www.scotwork.my](https://www.scotwork.my)
+ - date_published: 2024-06-18T09:42:08.464444+00:00
+
+ ## Sephora Malaysia
+ - [https://www.sephora.my](https://www.sephora.my)
+ - date_published: 2024-08-05T20:31:01.078640+00:00
+
+ ## Sony Pictures Malaysia | Homepage
+ - [https://www.sonypictures.my](https://www.sonypictures.my)
+ - date_published: 2024-07-28T03:59:34.066402+00:00
+
+ ## Graphics Drawing Tablets, Pen Display Monitors | XP-PEN Malaysia Official Store
+ - [https://www.storexppen.my](https://www.storexppen.my)
+ - date_published: 2024-05-30T18:40:42.192241+00:00
+
+ ## Home
+ - [https://thesun.my](https://thesun.my)
+ - date_published: 2023-11-22T12:09:43.286815+00:00
+
+ ## theSun | Daily News | Malaysia English News | World News
+ - [https://www.thesundaily.my](https://www.thesundaily.my)
+ - date_published: 2024-06-27T15:41:35.110833+00:00
+
+ ## Football transfers, rumours, market values and news
+ - [https://www.transfermarkt.my](https://www.transfermarkt.my)
+ - date_published: 2024-07-24T06:29:27.307238+00:00
+
+ ## Sistem eCOOPUSMA | USM
+ - [https://ecoopusma.kk.usm.my](https://ecoopusma.kk.usm.my)
+ - date_published: 2024-06-19T02:38:14.391914+00:00
+
+ ## Homepage UTM | Welcome to Universiti Teknologi Malaysia | Official Web Portal of Universiti Teknologi Malaysia
+ - [http://www.utm.my](http://www.utm.my)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Yelp
+ - [https://en.m.yelp.my](https://en.m.yelp.my)
+ - date_published: 2024-07-01T07:10:40.906414+00:00
+
+ ## Yelp
+ - [https://en.yelp.my](https://en.yelp.my)
+ - date_published: 2024-07-01T07:07:29.040348+00:00
+
+ ## Yelp
+ - [https://ms.m.yelp.my](https://ms.m.yelp.my)
+ - date_published: 2024-07-01T06:43:29.487794+00:00
+
+ ## Yelp
+ - [https://ms.yelp.my](https://ms.yelp.my)
+ - date_published: 2024-07-01T06:43:24.652967+00:00
+
+ ## Home - HUTAN
+ - [https://www.hutan.org.my](https://www.hutan.org.my)
+ - date_published: 2023-06-02T00:00:00+00:00
+
+ ## Home - Continuing Professional Development
+ - [https://cpd.malaysianbar.org.my](https://cpd.malaysianbar.org.my)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## INSAF  - The Journal of the Malaysian Bar
+ - [https://insaf.malaysianbar.org.my](https://insaf.malaysianbar.org.my)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Malaysian Bar - Find a Job
+ - [https://jobs.malaysianbar.org.my](https://jobs.malaysianbar.org.my)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Malaysian Bar - Find A Lawyer
+ - [https://legaldirectory.malaysianbar.org.my](https://legaldirectory.malaysianbar.org.my)
+ - date_published: 2024-06-05T06:30:44.514221+00:00
+ - tags: ['web spam']
+
+ ## Malaysian Bar
+ - [https://login.malaysianbar.org.my](https://login.malaysianbar.org.my)
+ - date_published: 2024-06-05T07:16:01.728502+00:00
+
+ ## Malaysian Bar
+ - [https://malaysianbar.org.my](https://malaysianbar.org.my)
+ - date_published: 2024-06-05T07:15:25+00:00
+ - tags: ['web spam']
+
+ ## Welcome to WWF-Malaysia
+ - [https://wwf.org.my](https://wwf.org.my)
+ - date_published: 2024-05-07T23:58:20.125528+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.co.mz](https://maps.google.co.mz)
+ - date_published: 2024-07-20T07:41:20.391457+00:00
+
+ ## Google
+ - [https://www.google.co.mz](https://www.google.co.mz)
+ - date_published: 2024-06-21T22:25:34.328209+00:00
+
+ ## Land Rover | Explore os Veículos 4x4 e SUV Sofisticados | Land Rover
+ - [https://www.landrover.co.mz](https://www.landrover.co.mz)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Palpito - Participe em Pesquisas Remuneradas em Moçambique
+ - [https://palpito.co.mz](https://palpito.co.mz)
+ - date_published: 2021-05-30T17:08:16+00:00
+
+ ## Meu Portal
+ - [https://meuportal.vm.co.mz](https://meuportal.vm.co.mz)
+ - date_published: 2022-12-14T11:32:34+00:00
+
+ ## Início | Vodacom Moçambique
+ - [https://vm.co.mz](https://vm.co.mz)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.co.mz](https://www2.zoetis.co.mz)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## WWF Moçambique 15 Anos Protegendo o Nosso Capital Natural
+ - [https://wwf.org.mz](https://wwf.org.mz)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.na](https://images.google.com.na)
+ - date_published: 2024-07-20T07:37:42.162561+00:00
+
+ ## Google
+ - [https://www.google.com.na](https://www.google.com.na)
+ - date_published: 2024-06-21T22:24:05.694751+00:00
+
+ ## Police warn parents, caregivers not to leave children alone with cattle herders
+ - [https://www.namibian.com.na](https://www.namibian.com.na)
+ - date_published: 2024-07-15T07:59:14.487342+00:00
+
+ ## Are.na
+ - [http://api.are.na](http://api.are.na)
+ - date_published: 2024-07-12T05:42:14.514356+00:00
+
+ ## Are.na
+ - [https://are.na](https://are.na)
+ - date_published: 2024-05-09T06:19:18.771114+00:00
+
+ ## dev.are.na
+ - [https://dev.are.na](https://dev.are.na)
+ - date_published: 2024-05-10T04:31:07.975716+00:00
+
+ ## Welcome | help.are.na
+ - [https://help.are.na](https://help.are.na)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Are.na
+ - [https://sander.are.na](https://sander.are.na)
+ - date_published: 2024-07-12T05:42:17.533731+00:00
+
+ ## Are.na Store  
+      —
+      Are.na Store
+ - [https://store.are.na](https://store.are.na)
+ - date_published: 2024-05-10T04:31:09.253746+00:00
+
+ ## Home Page | nbc
+ - [http://www.nbc.na](http://www.nbc.na)
+ - date_published: 2024-06-19T18:12:37.905843+00:00
+
+ ## Namibia University of Science and Technology - Mirrors
+ - [http://download.nust.na](http://download.nust.na)
+ - date_published: 2024-05-26T06:16:02.654282+00:00
+
+ ## Andrew Ayer
+ - [https://www.agwa.name](https://www.agwa.name)
+ - date_published: 2023-10-25T08:51:41.011645+00:00
+ - tags: ['personal']
+
+ ## Kartik Agaram
+ - [https://akkartik.name](https://akkartik.name)
+ - date_published: 2023-10-25T08:51:43.133745+00:00
+ - tags: ['personal']
+
+ - [http://feeds.akkartik.name](http://feeds.akkartik.name)
+ - date_published: 2024-02-26T08:30:35.776907+00:00
+
+ ## NIL: .to write(1) ~ help:about – Glossolalia about technology by @aknin
+ - [https://tech.blog.aknin.name](https://tech.blog.aknin.name)
+ - date_published: 2024-06-28T20:05:24.614071+00:00
+
+ ## Home
+ - [https://amirmasoudabdol.name](https://amirmasoudabdol.name)
+ - date_published: 2024-02-25T14:46:18.550347+00:00
+
+ ## Under Construction
+ - [https://daniel.benoy.name](https://daniel.benoy.name)
+ - date_published: 2023-04-30T16:33:56+00:00
+
+ ## Guido Berhörster — Home
+ - [https://guido.berhoerster.name](https://guido.berhoerster.name)
+ - date_published: 2023-11-19T09:05:30+00:00
+
+ ## Bill Sullivan
+ - [https://billsullivan.name](https://billsullivan.name)
+ - date_published: 2024-05-11T10:23:17.138856+00:00
+
+ ## Book Like A Boss - Login
+ - [https://bookme.name](https://bookme.name)
+ - date_published: 2024-07-19T16:53:28.445393+00:00
+
+ ## Bran van der Meer
+ - [https://bran.name](https://bran.name)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## Erik’s Ponderings
+ - [https://blog.bruchez.name](https://blog.bruchez.name)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## cabel.name
+ - [https://cabel.name](https://cabel.name)
+ - date_published: 2020-04-15T05:09:26+00:00
+
+ ## Celti Burroughs
+ - [https://celti.name](https://celti.name)
+ - date_published: 2022-06-26T20:57:37+00:00
+
+ ## Chris Down, Linux SRE
+ - [https://chrisdown.name](https://chrisdown.name)
+ - date_published: 2024-01-07T09:18:35.832838+00:00
+ - tags: ['personal']
+
+ ## Éric COLAS, psychologue, psychothérapeute, psychanalyste, à Fontenay-aux-roses
+ - [https://colas.name](https://colas.name)
+ - date_published: 2017-06-11T00:00:00+00:00
+
+ ## Colin Cogle
+ - [https://colincogle.name](https://colincogle.name)
+ - date_published: 2023-11-16T09:28:41.834795+00:00
+
+ ## Mastodon
+ - [https://mastodon.colincogle.name](https://mastodon.colincogle.name)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Andrea Corbellini
+ - [https://andrea.corbellini.name](https://andrea.corbellini.name)
+ - date_published: 2023-10-25T09:22:47.663172+00:00
+ - tags: ['personal']
+
+ ## csl.name
+ - [https://csl.name](https://csl.name)
+ - date_published: 2024-06-03T06:26:47.670354+00:00
+
+ ## The Dan MacKinlay stable of variably-well-consider’d enterprises - Welcome to Dan’s brain
+ - [https://danmackinlay.name](https://danmackinlay.name)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Daniel Näslund
+ - [https://dannas.name](https://dannas.name)
+ - date_published: 2024-06-01T04:57:31.231675+00:00
+ - tags: ['personal']
+
+ ## David Anguita. Independent software consultant. Freelancer. Ruby, Rails, Elixir, JavaScript.
+ - [https://davidanguita.name](https://davidanguita.name)
+ - date_published: 2024-01-11T20:49:00.100772+00:00
+ - tags: ['personal']
+
+ ## David Walsh Blog
+ - [https://davidwalsh.name](https://davidwalsh.name)
+ - date_published: 2024-02-06T00:00:00+00:00
+ - tags: ['blog', 'personal']
+
+ ## T.D.N.
+ - [https://account.the.domain.name](https://account.the.domain.name)
+ - date_published: 2024-06-17T02:40:03.864710+00:00
+
+ ## Domain Name Intelligence & Expired Domains for Online Marketing - The.Domain.Name
+ - [https://the.domain.name](https://the.domain.name)
+ - date_published: 2021-04-15T13:40:21+00:00
+
+ ## Douglas Meyer
+ - [https://douglas-meyer.name](https://douglas-meyer.name)
+ - date_published: 2022-01-30T16:46:45+00:00
+
+ ## Neil Fraser
+ - [https://neil.fraser.name](https://neil.fraser.name)
+ - date_published: 2023-10-25T08:51:49.598464+00:00
+ - tags: ['personal']
+
+ ## Filius - Startseite
+ - [https://freischlad.name](https://freischlad.name)
+ - date_published: 2024-07-03T18:01:15.516337+00:00
+
+ ## Gano.name homepage
+ - [https://www.gano.name](https://www.gano.name)
+ - date_published: 2019-02-24T04:53:19+00:00
+
+ ## RGB — Home
+ - [http://richard.gazdik.name](http://richard.gazdik.name)
+ - date_published: 2024-05-08T06:30:40.592591+00:00
+
+ ## Hal Daumé III - about me
+ - [http://hal3.name](http://hal3.name)
+ - date_published: 2024-05-12T10:53:02+00:00
+
+ ## andrew.hedges.name
+ - [http://andrew.hedges.name](http://andrew.hedges.name)
+ - date_published: 2024-05-29T20:57:10.047852+00:00
+ - tags: ['personal']
+
+ ## Nathan Ho
+ - [https://nathan.ho.name](https://nathan.ho.name)
+ - date_published: 2023-12-20T22:45:42.744081+00:00
+ - tags: ['personal']
+
+ ## Humus
+ - [http://www.humus.name](http://www.humus.name)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## < H X A 7 2 4 1 >
+ - [https://www.hxa.name](https://www.hxa.name)
+ - date_published: 2023-11-22T12:01:38+00:00
+ - tags: ['personal']
+
+ ## Blog :: Ivan Smirnov
+ - [https://blog.ivansmirnov.name](https://blog.ivansmirnov.name)
+ - date_published: 2024-05-25T12:34:06.380039+00:00
+ - tags: ['personal']
+
+ ## jackkelly.name
+ - [http://jackkelly.name](http://jackkelly.name)
+ - date_published: 2024-07-08T08:28:48.333049+00:00
+
+ ## Biography
+ - [https://mark.james.name](https://mark.james.name)
+ - date_published: 2023-12-22T13:17:20+00:00
+ - tags: ['personal']
+
+ ## James F. Roberts IV - code and stuff
+ - [https://jamesroberts.name](https://jamesroberts.name)
+ - date_published: 2024-05-01T03:29:40.043076+00:00
+
+ ## Home | janw.name
+ - [https://janw.name](https://janw.name)
+ - date_published: 2024-07-18T04:59:37+00:00
+
+ ## Jason Weaver – User Interface Engineer
+ - [http://jasonweaver.name](http://jasonweaver.name)
+ - date_published: 2024-06-17T02:21:20.185525+00:00
+
+ ## Jean-Michaël Celerier
+ - [https://jcelerier.name](https://jcelerier.name)
+ - date_published: 2024-08-08T15:17:07.478421+00:00
+
+ ## Congratulations! You have successfully set up your website!
+ - [http://jeffersonian.name](http://jeffersonian.name)
+ - date_published: 2024-07-03T23:56:45.020431+00:00
+
+ ## Homepage · James Wilson
+ - [https://jmw.name](https://jmw.name)
+ - date_published: 2024-06-16T12:43:58.406568+00:00
+
+ ## Joey's git repositories
+ - [https://git.joeyh.name](https://git.joeyh.name)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Joey Hess
+ - [https://joeyh.name](https://joeyh.name)
+ - date_published: 2023-10-25T20:23:09.769836+00:00
+
+ ## Victor Kropp
+ - [https://victor.kropp.name](https://victor.kropp.name)
+ - date_published: 2024-01-13T18:25:27.123934+00:00
+
+ ## Kümmerleho weblog – Doma v Evropě a doma v Heilbronnu.
+ - [https://cs.kuemmerle.name](https://cs.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Kümmerles weblog – Hjemme i Europa og hjemme i Heilbronn.
+ - [https://da.kuemmerle.name](https://da.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:21.763516+00:00
+
+ ## Το ιστολόγιο της Kümmerle – Στο σπίτι στην Ευρώπη και στο σπίτι στο Heilbronn.
+ - [https://el.kuemmerle.name](https://el.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:12.714318+00:00
+
+ ## Kümmerle's weblog – At home in Europe and at home in Heilbronn.
+ - [https://en.kuemmerle.name](https://en.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Weblog de Kümmerle – En casa en Europa y en casa en Heilbronn.
+ - [https://es.kuemmerle.name](https://es.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:10.435496+00:00
+
+ ## Kümmerlen blogi – Kotona Euroopassa ja kotona Heilbronnissa.
+ - [https://fi.kuemmerle.name](https://fi.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Le blog de Kümmerle – Chez moi en Europe et chez moi à Heilbronn.
+ - [https://fr.kuemmerle.name](https://fr.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:06.463635+00:00
+
+ ## Kümmerle weblogja – Otthon Európában és otthon Heilbronnban.
+ - [https://hu.kuemmerle.name](https://hu.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Il weblog di Kümmerle – A casa in Europa ea casa a Heilbronn.
+ - [https://it.kuemmerle.name](https://it.kuemmerle.name)
+ - date_published: 2024-07-10T09:30:52.651592+00:00
+
+ ## הבלוג של Kümmerle – בבית באירופה ובבית בהילברון.
+ - [https://iw.kuemmerle.name](https://iw.kuemmerle.name)
+ - date_published: 2024-07-10T09:30:58.258798+00:00
+
+ ## Kümmerleのウェブログ–自宅はヨーロッパ、自宅はハイルブロン。
+ - [https://ja.kuemmerle.name](https://ja.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Kümmerle의 웹로그 – 유럽의 집과 Heilbronn의 집.
+ - [https://ko.kuemmerle.name](https://ko.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:19.135292+00:00
+
+ ## Kümmerles Weblog – In Europa zu Hause und in Heilbronn daheim.
+ - [https://kuemmerle.name](https://kuemmerle.name)
+ - date_published: 2024-05-09T08:21:35.960330+00:00
+
+ ## Kümmerle scriptor diariorum – Domi in Europa et in domo Heilbronnae.
+ - [https://la.kuemmerle.name](https://la.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Kümmerles weblogg – Hjemme i Europa og hjemme i Heilbronn.
+ - [https://no.kuemmerle.name](https://no.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Blog firmy Kümmerle – Jak u siebie w Europie i jak u siebie w Heilbronn.
+ - [https://pl.kuemmerle.name](https://pl.kuemmerle.name)
+ - date_published: 2024-07-10T09:30:56.286513+00:00
+
+ ## Kümmerle's weblog – Em casa na Europa e em casa em Heilbronn.
+ - [https://pt.kuemmerle.name](https://pt.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Blogul lui Kümmerle – Acasă în Europa și acasă în Heilbronn.
+ - [https://ro.kuemmerle.name](https://ro.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Блог Кюммерле – Дома в Европе и дома в Хайльбронне.
+ - [https://ru.kuemmerle.name](https://ru.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:22.953127+00:00
+
+ ## Kümmerles webblogg – Hemma i Europa och hemma i Heilbronn.
+ - [https://sv.kuemmerle.name](https://sv.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:02.819634+00:00
+
+ ## Kümmerle'nin web günlüğü – Avrupa'da evde ve Heilbronn'da evde.
+ - [https://tr.kuemmerle.name](https://tr.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Веблог Кюммерле – вдома в Європі та вдома в Хайльбронні.
+ - [https://uk.kuemmerle.name](https://uk.kuemmerle.name)
+ - date_published: 2024-07-10T09:31:03.932203+00:00
+
+ ## Kümmerle ס וועבלאָג – אין שטוב אין אייראָפּע און אין שטוב אין העילבראָנן.
+ - [https://yi.kuemmerle.name](https://yi.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Kümmerle 的博客——在歐洲的家中，在海爾布隆的家中。
+ - [https://zh-tw.kuemmerle.name](https://zh-tw.kuemmerle.name)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Jan Leike
+ - [https://jan.leike.name](https://jan.leike.name)
+ - date_published: 2024-05-29T18:25:09+00:00
+
+ ## PowWeb
+ - [http://k.lenz.name](http://k.lenz.name)
+ - date_published: 2024-04-27T05:18:08+00:00
+
+ ## http://lucacardelli.name
+ - [http://lucacardelli.name](http://lucacardelli.name)
+ - date_published: 2023-10-25T20:23:13.013388+00:00
+
+ ## Creative Name Ideas for Every Occasion | MakeMy.Name Generator
+ - [http://makemy.name](http://makemy.name)
+ - date_published: 2024-07-04T14:51:18.300706+00:00
+
+ ## mapname - Name Your Way
+ - [https://map.name](https://map.name)
+ - date_published: 2024-01-09T03:34:34.207438+00:00
+
+ ## Welcome
+ - [https://roy.marples.name](https://roy.marples.name)
+ - date_published: 2024-05-04T08:31:35.815900+00:00
+
+ ## Martin Orr's Home Page
+ - [http://www.martinorr.name](http://www.martinorr.name)
+ - date_published: 2021-09-17T09:02:14+00:00
+
+ ## Matthew Buchanan
+ - [http://matthewbuchanan.name](http://matthewbuchanan.name)
+ - date_published: 2024-06-15T23:45:38.723908+00:00
+
+ ## Matthew Miner's Website
+ - [https://matthewminer.name](https://matthewminer.name)
+ - date_published: 2023-10-25T20:23:19.356965+00:00
+
+ ## Pensées de Michel
+ - [https://michel-slm.name](https://michel-slm.name)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## mimesia.name - mimesia Zasoby i informacje.
+ - [http://join.mimesia.name](http://join.mimesia.name)
+ - date_published: 2024-06-15T10:59:58+00:00
+
+ ## Mackenzie Morgan
+ - [https://mackenzie.morgan.name](https://mackenzie.morgan.name)
+ - date_published: 2023-11-29T17:07:05.410622+00:00
+ - tags: ['personal']
+
+ ## Michael Terry
+ - [http://mterry.name](http://mterry.name)
+ - date_published: 2024-04-13T21:06:25+00:00
+
+ ## Paul Mucur
+ - [https://mudge.name](https://mudge.name)
+ - date_published: 2023-11-20T00:00:00+00:00
+
+ ## Nick Benton: Home
+ - [http://nickbenton.name](http://nickbenton.name)
+ - date_published: 2019-07-23T17:32:43+00:00
+
+ ## Nick Morris
+ - [https://nickmorris.name](https://nickmorris.name)
+ - date_published: 2024-02-02T14:27:11.007543+00:00
+
+ ## Nirav's Contemplations
+ - [http://blog.nirav.name](http://blog.nirav.name)
+ - date_published: 2024-07-11T18:02:46+00:00
+
+ ## Nixie's workspace
+ - [https://nixie.name](https://nixie.name)
+ - date_published: 2024-07-10T07:28:47.573354+00:00
+
+ ## Jimmy Ofisia — climate conscious graphic designer from Surabaya, Indonesia
+ - [https://jimmy.ofisia.name](https://jimmy.ofisia.name)
+ - date_published: 2024-08-06T05:01:35.121675+00:00
+
+ ## Geoff Pado
+ - [https://pado.name](https://pado.name)
+ - date_published: 2024-04-01T09:10:49+00:00
+
+ ## jani's home page
+ - [https://patokallio.name](https://patokallio.name)
+ - date_published: 2015-09-17T10:58:48+00:00
+
+ ## Robert Penz Blog
+ - [https://robert.penz.name](https://robert.penz.name)
+ - date_published: 2024-06-19T22:56:07.798778+00:00
+
+ ## Index :: Simon Zelazny's Blog
+ - [https://pzel.name](https://pzel.name)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Conversations
+ - [https://alexey.radul.name](https://alexey.radul.name)
+ - date_published: 2024-04-01T00:42:52+00:00
+
+ ## Pablo Rauzy
+ - [https://pablo.rauzy.name](https://pablo.rauzy.name)
+ - date_published: 2024-06-14T20:44:50+00:00
+
+ ## Home ← Mark Reid
+ - [http://mark.reid.name](http://mark.reid.name)
+ - date_published: 2024-03-27T01:33:38+00:00
+
+ ## Geek Blight - Home
+ - [https://rg3.name](https://rg3.name)
+ - date_published: 2023-10-25T20:23:20.284813+00:00
+
+ ## Christian Richardt
+ - [https://richardt.name](https://richardt.name)
+ - date_published: 2024-04-29T06:30:21.577965+00:00
+
+ ## Jak2k's Website
+ - [https://jak2k.schwanenberg.name](https://jak2k.schwanenberg.name)
+ - date_published: 2024-07-01T03:46:51.401130+00:00
+
+ ## Craft CMS and Shopify Web Developer - Simon Davies Digital
+ - [https://simon-davies.name](https://simon-davies.name)
+ - date_published: 2024-05-07T23:10:27.778911+00:00
+
+ ## Андрей Синкевич
+ - [https://andrew.sinkevitch.name](https://andrew.sinkevitch.name)
+ - date_published: 2022-06-19T18:50:04+00:00
+
+ ## Sean Whitton
+ - [https://spwhitton.name](https://spwhitton.name)
+ - date_published: 2024-04-16T00:00:00+00:00
 

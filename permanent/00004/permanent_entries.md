@@ -1,3 +1,112 @@
+ ## Sasage | 撮影採寸原稿
+ - [https://www.sasage.app](https://www.sasage.app)
+ - date_published: 2024-07-14T14:13:34.712284+00:00
+
+ ## Satyrn
+ - [https://satyrn.app](https://satyrn.app)
+ - date_published: 2024-07-07T17:59:31+00:00
+
+ ## Savepad - Join the Waitlist!
+ - [https://savepad.app](https://savepad.app)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Online Book Writing Software now with AI Writing Assistant
+ - [https://sceneone.app](https://sceneone.app)
+ - date_published: 2024-06-19T20:03:38.704975+00:00
+
+ ## sci.app | A window to Science
+ - [https://sci.app](https://sci.app)
+ - date_published: 2024-05-10T06:40:41.329753+00:00
+
+ ## ScienceGate : Academic Search Engine
+ - [https://www.sciencegate.app](https://www.sciencegate.app)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Buy ScreenMemory
+ - [https://screenmemory.app](https://screenmemory.app)
+ - date_published: 2024-05-04T09:32:23.602650+00:00
+
+ ## Scrypted Network Video Recorder
+ - [https://demo.scrypted.app](https://demo.scrypted.app)
+ - date_published: 2024-07-01T10:04:02+00:00
+
+ ## Scrypted Documentation
+ - [https://developer.scrypted.app](https://developer.scrypted.app)
+ - date_published: 2023-08-26T23:51:15+00:00
+
+ ## Scrypted | Scrypted Docs
+ - [https://docs.scrypted.app](https://docs.scrypted.app)
+ - date_published: 2024-05-14T04:02:08.467387+00:00
+
+ ## Scrypted Cloud
+ - [https://home.scrypted.app](https://home.scrypted.app)
+ - date_published: 2024-05-14T04:02:09.834278+00:00
+
+ ## Scrypted Scripts
+ - [https://scripts.scrypted.app](https://scripts.scrypted.app)
+ - date_published: 2024-05-07T19:39:50+00:00
+
+ ## Scrypted
+ - [https://scrypted.app](https://scrypted.app)
+ - date_published: 2023-07-12T21:24:56+00:00
+ - tags: ['alexa', 'smart home', 'video streaming', 'google home']
+
+ ## sc-type
+ - [https://sctype.app](https://sctype.app)
+ - date_published: 2019-08-01T00:00:00+00:00
+
+ ## SearchBot for Discord
+ - [https://searchbot.app](https://searchbot.app)
+ - date_published: 2024-07-23T23:26:44.568978+00:00
+
+ ## Seatsurfing
+ - [https://seatsurfing.app](https://seatsurfing.app)
+ - date_published: 2024-05-23T20:09:17+00:00
+
+ ## Show HN: Seedling – A Decentralised Medium
+ - [https://seedling-d.app](https://seedling-d.app)
+ - date_published: 2024-01-05T22:54:58+00:00
+
+ ## ServicePlanner :: Ministry & Field Service App
+ - [https://serviceplanner.app](https://serviceplanner.app)
+ - date_published: 2024-07-09T15:51:29.287371+00:00
+
+ ## Every mountain, building and tree shadow in the world simulated for any time
+ - [https://shademap.app](https://shademap.app)
+ - date_published: 2024-05-31T05:09:24+00:00
+
+ ## Shape Divider App
+ - [https://www.shapedivider.app](https://www.shapedivider.app)
+ - date_published: 2021-10-29T15:06:45+00:00
+
+ ## AI with Brain Inside Google Sheets
+ - [https://sheetai.app](https://sheetai.app)
+ - date_published: 2024-06-19T21:11:38.165510+00:00
+
+ ## Ayame Labo
+ - [https://ayame-labo.shiguredo.app](https://ayame-labo.shiguredo.app)
+ - date_published: 2024-07-23T23:16:54.785993+00:00
+
+ ## Sora Labo
+ - [https://sora-labo.shiguredo.app](https://sora-labo.shiguredo.app)
+ - date_published: 2024-07-23T23:15:44.688373+00:00
+
+ ## ShinyTracker
+ - [https://shinytracker.app](https://shinytracker.app)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## https://go.shop.app
+ - [https://go.shop.app](https://go.shop.app)
+ - date_published: 2024-02-24T09:57:16.776865+00:00
+
+ ## Weryfikowanie połączenia...
+ - [https://shop.app](https://shop.app)
+ - date_published: 2024-04-28T03:00:17.300790+00:00
+
+ ## Code Shrew
+ - [https://shrew.app](https://shrew.app)
+ - date_published: 2024-07-12T17:42:01.232844+00:00
+
  ## Newsroom • Sidetrack
  - [https://blog.sidetrack.app](https://blog.sidetrack.app)
  - date_published: 2024-06-23T15:08:11.349556+00:00
@@ -534,6 +643,10 @@
  - [https://trash.app](https://trash.app)
  - date_published: 2020-12-19T06:58:23+00:00
 
+ ## GPT-4 LLM simulates people well enough to replicate social science experiments
+ - [https://www.treatmenteffect.app](https://www.treatmenteffect.app)
+ - date_published: 2024-08-07T21:30:36+00:00
+
  ## Treeverse
  - [https://treeverse.app](https://treeverse.app)
  - date_published: 2024-05-09T04:38:48.254295+00:00
@@ -741,6 +854,10 @@
  ## Travel with the 49 Euro ticket
  - [https://49travel.vercel.app](https://49travel.vercel.app)
  - date_published: 2023-10-25T11:49:45.612462+00:00
+
+ ## Airbnb Clone
+ - [https://abproject-sclone.vercel.app](https://abproject-sclone.vercel.app)
+ - date_published: 2024-08-08T00:00:00+00:00
 
  ## acon
  - [https://aconlin.vercel.app](https://aconlin.vercel.app)
@@ -1265,6 +1382,10 @@
  - [https://ga-marketing-navigation-production.vercel.app](https://ga-marketing-navigation-production.vercel.app)
  - date_published: 2024-06-26T22:51:15.443713+00:00
 
+ ## Real-World Democracy Education
+ - [https://generationcitizen-prod.vercel.app](https://generationcitizen-prod.vercel.app)
+ - date_published: 2024-08-08T17:53:48.169339+00:00
+
  ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
  - [https://getavatar.vercel.app](https://getavatar.vercel.app)
  - date_published: 2018-10-20T01:46:40+00:00
@@ -1464,6 +1585,10 @@
  - [https://link-book.vercel.app](https://link-book.vercel.app)
  - date_published: 2023-10-25T11:50:29.441703+00:00
 
+ ## JavaScript Loading Patterns
+ - [https://loading-patterns.vercel.app](https://loading-patterns.vercel.app)
+ - date_published: 2024-08-08T17:49:50.527605+00:00
+
  ## Hello Luna
  - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
  - date_published: 2023-10-25T08:36:44.066507+00:00
@@ -1585,9 +1710,17 @@
  - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
  - date_published: 2024-06-19T06:57:50.743139+00:00
 
+ ## Next.js Page Rendering • Demo
+ - [https://nextjs-rendering-jet.vercel.app](https://nextjs-rendering-jet.vercel.app)
+ - date_published: 2024-08-08T17:49:51.651927+00:00
+
  ## Nextra – Next.js Static Site Generator – Nextra
  - [https://nextra.vercel.app](https://nextra.vercel.app)
  - date_published: 2024-06-15T02:03:04.197742+00:00
+
+ ## Next.js App Router + React Server Components Demo
+ - [https://next-rsc-hn.vercel.app](https://next-rsc-hn.vercel.app)
+ - date_published: 2024-08-08T17:49:47.099315+00:00
 
  ## NgChat
  - [https://ng-chat-v.vercel.app](https://ng-chat-v.vercel.app)
@@ -1596,6 +1729,10 @@
  ## Developer experience, reimagined | Stripe
  - [https://ngdx-microsite-p17umhyxp-stripe.vercel.app](https://ngdx-microsite-p17umhyxp-stripe.vercel.app)
  - date_published: 2024-07-24T02:34:45.166929+00:00
+
+ ## Nikhil Henry
+ - [https://nikhilhenry.vercel.app](https://nikhilhenry.vercel.app)
+ - date_published: 2024-08-08T15:07:38.641841+00:00
 
  ## Northendlab | Astro Blog Theme
  - [https://northendlab-light-astro.vercel.app](https://northendlab-light-astro.vercel.app)
@@ -1668,6 +1805,10 @@
  ## Oxide Computer Company
  - [https://oxide-computer-r2180hjcp-oxidecomputer.vercel.app](https://oxide-computer-r2180hjcp-oxidecomputer.vercel.app)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Palora - Strongest password Generator ever!
+ - [https://palora.vercel.app](https://palora.vercel.app)
+ - date_published: 2024-08-08T15:25:29.473082+00:00
 
  ## Pathfinding Visualizer
  - [https://pathfinding-visualizer-nu.vercel.app](https://pathfinding-visualizer-nu.vercel.app)
@@ -1785,6 +1926,14 @@
  ## Show HN: Ragdoll Studio (fka Arthas.AI) is the FOSS alternative to character.ai
  - [https://ragdoll-studio.vercel.app](https://ragdoll-studio.vercel.app)
  - date_published: 2024-03-31T05:43:15+00:00
+
+ ## Moed
+ - [https://rapidapi-blahiis-projects.vercel.app](https://rapidapi-blahiis-projects.vercel.app)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Moed
+ - [https://rapidapis.vercel.app](https://rapidapis.vercel.app)
+ - date_published: 2024-06-13T00:00:00+00:00
 
  ## Raycast Merch
  - [https://raycast-swag-store-99oohduqx-raycastapp.vercel.app](https://raycast-swag-store-99oohduqx-raycastapp.vercel.app)
@@ -2298,6 +2447,10 @@
  - [https://wallaroo.app](https://wallaroo.app)
  - date_published: 2024-01-05T22:33:22+00:00
 
+ ## Protect Your Crypto | Wallet Guard
+ - [https://www.walletguard.app](https://www.walletguard.app)
+ - date_published: 2024-07-18T00:00:00+00:00
+
  ## NOW Wallet - best app for crypto assets by ChangeNOW
  - [https://walletnow.app](https://walletnow.app)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -2707,6 +2860,10 @@
  - [https://reim.ar](https://reim.ar)
  - date_published: 2024-05-07T23:22:31.288342+00:00
 
+ ## Blog de Thalskarth
+ - [https://blog.thalskarth.ar](https://blog.thalskarth.ar)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Departamento de Matematica - Bienvenidos al (antiguo) portal del Departamento de Matemática
  - [http://cms.dm.uba.ar](http://cms.dm.uba.ar)
  - date_published: 2021-10-21T21:36:44+00:00
@@ -2864,6 +3021,10 @@
  ## Experian Argentina | datos de negocio, análisis y servicios de marketing www.experian.com.ar
  - [https://www.experian.com.ar](https://www.experian.com.ar)
  - date_published: 2024-06-25T21:31:47.031160+00:00
+
+ ## txt.fabio.com.ar
+ - [https://txt.fabio.com.ar](https://txt.fabio.com.ar)
+ - date_published: 2024-08-08T15:11:57.839605+00:00
 
  ## Sitio web oficial del Grupo Ferrero | Grupo Ferrero
  - [https://www.ferrero.com.ar](https://www.ferrero.com.ar)
@@ -3606,6 +3767,10 @@
  - [https://ethblock.art](https://ethblock.art)
  - date_published: 2024-06-16T03:35:51.367269+00:00
 
+ ## index.html · Ferale.art
+ - [https://ferale.art](https://ferale.art)
+ - date_published: 2024-08-08T03:08:36.815400+00:00
+
  ## Dołącz do nas - Związek Zawodowy Filmowców
  - [https://filmowcy.art](https://filmowcy.art)
  - date_published: 2024-07-14T18:17:25.706353+00:00
@@ -3859,174 +4024,4 @@
  ## PRIM4T – Web, Design and other stuff…
  - [https://prim4t.art](https://prim4t.art)
  - date_published: 2024-05-07T23:12:06.859728+00:00
-
- ## Procreate
- - [https://folio.procreate.art](https://folio.procreate.art)
- - date_published: 2024-06-29T06:06:18.623573+00:00
-
- ## Procreate® – Sketch, Paint, Create.
- - [https://procreate.art](https://procreate.art)
- - date_published: 2024-05-04T14:02:09.430854+00:00
- - tags: ['desktop program', 'graphics']
-
- ## Prohibition Daily
- - [https://daily.prohibition.art](https://daily.prohibition.art)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Homepage
- - [https://pst.art](https://pst.art)
- - date_published: 2024-07-22T06:53:59.014436+00:00
-
- ## Home - Public Prompts
- - [https://publicprompts.art](https://publicprompts.art)
- - date_published: 2024-06-19T18:55:04.158081+00:00
-
- ## Qartist
- - [https://qartist.art](https://qartist.art)
- - date_published: 2024-07-02T18:36:36.666150+00:00
-
- ## Quick QR Art - QR Code AI Art Generator
- - [https://quickqr.art](https://quickqr.art)
- - date_published: 2024-06-19T20:11:39.351978+00:00
-
- ## Quill
- - [https://quill.art](https://quill.art)
- - date_published: 2024-02-16T23:19:02+00:00
-
- ## Ewan Rose Creations
- - [https://www.rosecreative.art](https://www.rosecreative.art)
- - date_published: 2024-06-27T04:51:40.128393+00:00
-
- ## L’Art du Menuisier.
- - [https://roubo.art](https://roubo.art)
- - date_published: 2022-04-07T21:20:04+00:00
-
- ## Running Dog – An online arts publication
- - [https://rundog.art](https://rundog.art)
- - date_published: 2021-04-28T00:00:00+00:00
-
- ## saba Feleke
- - [https://sabafeleke.art](https://sabafeleke.art)
- - date_published: 2024-04-03T06:24:25.571383+00:00
- - tags: ['personal']
-
- ## SEESPACE
- - [https://seespace.art](https://seespace.art)
- - date_published: 2024-05-09T08:17:53.292157+00:00
-
- ## Home – Sheezy.Art
- - [https://sheezy.art](https://sheezy.art)
- - date_published: 2024-07-10T07:19:09.759396+00:00
-
- ## Skykristal - Digital Artist
- - [https://skykristal.art](https://skykristal.art)
- - date_published: 2024-05-29T07:54:29.067892+00:00
- - tags: ['interesting page design', 'personal']
-
- ## Solvency
- - [https://www.solvency.art](https://www.solvency.art)
- - date_published: 2024-07-20T21:54:55.734459+00:00
-
- ## Space2inspire
- - [https://space2inspire.art](https://space2inspire.art)
- - date_published: 2024-06-17T16:27:13.204475+00:00
-
- ## 3D model-viewer embed
- - [https://indrasawarehouse.public.spaceid.art](https://indrasawarehouse.public.spaceid.art)
- - date_published: 2024-06-27T19:27:03+00:00
-
- ## sparklefart
- - [https://theshark-smellslike.sparklef.art](https://theshark-smellslike.sparklef.art)
- - date_published: 2024-07-15T06:32:46.191098+00:00
-
- ## Stalwart Labs
- - [https://stalw.art](https://stalw.art)
- - date_published: 2024-04-08T19:30:54.373072+00:00
- - tags: ['self-host', 'e-mail server']
-
- ## Steven's Web Thoughts
- - [https://stevenbas.art](https://stevenbas.art)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## ‎Art of the Movies
- - [https://p9gx00hq.tapc.art](https://p9gx00hq.tapc.art)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## teamLab
- - [https://www.teamlab.art](https://www.teamlab.art)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## teia
- - [https://lists.teia.art](https://lists.teia.art)
- - date_published: 2024-06-14T11:22:24.044127+00:00
-
- ## teia
- - [https://teia.art](https://teia.art)
- - date_published: 2024-04-30T15:43:59.640599+00:00
-
- ## Teshie F. | Hello!
- - [https://teshief.art](https://teshief.art)
- - date_published: 2024-05-06T15:04:25.967385+00:00
-
- ## Themes
- - [https://themeplaza.art](https://themeplaza.art)
- - date_published: 2024-07-11T16:20:54.019785+00:00
-
- ## ThioJoe - Digital Art Portfolio
- - [https://thiojoe.art](https://thiojoe.art)
- - date_published: 2024-03-02T19:56:25.310354+00:00
- - tags: ['youtuber']
-
- ## ThumbnailMaker - #1 AI thumbnail maker!
- - [https://thumbnailmaker.art](https://thumbnailmaker.art)
- - date_published: 2024-06-19T20:04:46.849198+00:00
-
- ## Tom Stuart
- - [https://tomstu.art](https://tomstu.art)
- - date_published: 2024-04-30T06:27:46.162561+00:00
- - tags: ['blog', 'personal']
-
- ## Tony's stash of textual information
- - [https://blog.tonyshouse.art](https://blog.tonyshouse.art)
- - date_published: 2024-05-03T00:00:00+00:00
-
- - [https://tonyshouse.art](https://tonyshouse.art)
- - date_published: 2024-04-03T12:49:27.043405+00:00
- - tags: ['personal']
-
- ## Toonies
- - [https://www.toonies.art](https://www.toonies.art)
- - date_published: 2024-08-06T16:27:30.176861+00:00
-
- ## TRAFO | TRAFOSTACJA SZTUKI
- - [http://trafo.art](http://trafo.art)
- - date_published: 2024-07-20T17:55:18.386690+00:00
-
- ## https://travelgpt.art
- - [https://travelgpt.art](https://travelgpt.art)
- - date_published: 2024-01-09T02:23:42.162820+00:00
-
- ## $TRUMPUNK | WELCOME TO TRUMP PUNK ART (TRUMPUNK)
- - [https://trumpunk.art](https://trumpunk.art)
- - date_published: 2024-08-05T08:49:57+00:00
-
- ## Get Your Idea to Market in Hours, not Weeks | TurboStart
- - [https://turbost.art](https://turbost.art)
- - date_published: 2024-07-09T06:04:09.761784+00:00
-
- ## Головна / VOLOSHYN GALLERY
- - [https://voloshyngallery.art](https://voloshyngallery.art)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## wargaluk · art – Home
- - [https://wargaluk.art](https://wargaluk.art)
- - date_published: 2024-07-02T20:33:20.659447+00:00
-
- ## Wasongo's Gallery
- - [https://wasongo.art](https://wasongo.art)
- - date_published: 2024-05-09T08:41:34.615694+00:00
-
- ## Home | Will Carhart
- - [https://willcarh.art](https://willcarh.art)
- - date_published: 2024-03-13T00:00:00+00:00
 

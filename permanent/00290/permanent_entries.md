@@ -1,3 +1,163 @@
+ ## Wikiteka
+ - [https://eu.wikisource.org](https://eu.wikisource.org)
+ - date_published: 2024-06-11T12:31:08+00:00
+
+ ## Wikisource
+ - [https://fat.wikisource.org](https://fat.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## ویکی‌نبشته
+ - [https://fa.wikisource.org](https://fa.wikisource.org)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Wikisource
+ - [https://ff.wikisource.org](https://ff.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikiaineisto
+ - [https://fi.wikisource.org](https://fi.wikisource.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikiheimild
+ - [https://fo.wikisource.org](https://fo.wikisource.org)
+ - date_published: 2024-06-11T12:31:09+00:00
+
+ ## Wikisource
+ - [https://fr.m.wikisource.org](https://fr.m.wikisource.org)
+ - date_published: 2024-06-29T16:30:55+00:00
+
+ ## Wikisource
+ - [https://frr.wikisource.org](https://frr.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://fr.wikisource.org](https://fr.wikisource.org)
+ - date_published: 2024-05-07T14:42:28.901068+00:00
+
+ ## Wikisource
+ - [https://fur.wikisource.org](https://fur.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://gan.wikisource.org](https://gan.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://ga.wikisource.org](https://ga.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://gl.wikisource.org](https://gl.wikisource.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wikisource
+ - [https://gom.wikisource.org](https://gom.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://gor.wikisource.org](https://gor.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://got.wikisource.org](https://got.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://gpe.wikisource.org](https://gpe.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://gur.wikisource.org](https://gur.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## વિકિસ્રોત
+ - [https://gu.wikisource.org](https://gu.wikisource.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Wikisource
+ - [https://gv.wikisource.org](https://gv.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://ha.wikisource.org](https://ha.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## ויקיטקסט
+ - [https://he.wikisource.org](https://he.wikisource.org)
+ - date_published: 2024-06-15T06:00:38+00:00
+
+ ## विकिस्रोत
+ - [https://hi.wikisource.org](https://hi.wikisource.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Wikizvor
+ - [https://hr.wikisource.org](https://hr.wikisource.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Wikisòrs
+ - [https://ht.wikisource.org](https://ht.wikisource.org)
+ - date_published: 2024-06-27T17:27:24+00:00
+
+ ## Wikiforrás
+ - [https://hu.wikisource.org](https://hu.wikisource.org)
+ - date_published: 2024-06-11T12:31:12+00:00
+
+ ## Վիքիդարան՝ ազատ գրադարան
+ - [https://hy.wikisource.org](https://hy.wikisource.org)
+ - date_published: 2024-06-11T12:31:40+00:00
+
+ ## Wikisource
+ - [https://hyw.wikisource.org](https://hyw.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisumber bahasa Indonesia
+ - [https://id.wikisource.org](https://id.wikisource.org)
+ - date_published: 2024-06-11T12:31:40+00:00
+
+ ## Wikisource
+ - [https://ie.wikisource.org](https://ie.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://igl.wikisource.org](https://igl.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikisource
+ - [https://ig.wikisource.org](https://ig.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
+ ## Wikiheimild
+ - [https://is.wikisource.org](https://is.wikisource.org)
+ - date_published: 2024-06-11T12:31:42+00:00
+
+ ## Wikisource
+ - [https://it.m.wikisource.org](https://it.m.wikisource.org)
+ - date_published: 2024-07-13T10:36:16+00:00
+
+ ## Wikisource
+ - [https://it.wikisource.org](https://it.wikisource.org)
+ - date_published: 2024-05-11T11:24:55.386644+00:00
+
+ ## Wikisource
+ - [https://ja.wikisource.org](https://ja.wikisource.org)
+ - date_published: 2024-06-11T12:31:42+00:00
+
+ ## Wikisumber, kapustakan mardika
+ - [https://jv.wikisource.org](https://jv.wikisource.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## Wikisource
+ - [https://kaa.wikisource.org](https://kaa.wikisource.org)
+ - date_published: 2024-06-04T08:08:05+00:00
+
+ ## Wikisource
+ - [https://ka.wikisource.org](https://ka.wikisource.org)
+ - date_published: 2024-06-29T14:16:10+00:00
+
+ ## Wikisource
+ - [https://kbd.wikisource.org](https://kbd.wikisource.org)
+ - date_published: 2024-07-03T13:48:39+00:00
+
  ## Wikisource
  - [https://kcg.wikisource.org](https://kcg.wikisource.org)
  - date_published: 2024-07-03T13:48:39+00:00
@@ -1930,6 +2090,10 @@
  - [http://www.williampennfoundation.org](http://www.williampennfoundation.org)
  - date_published: 2024-06-19T01:32:31+00:00
 
+ ## William Scott CBE RA (1913-1989) – British Artist
+ - [http://www.williamscott.org](http://www.williamscott.org)
+ - date_published: 2024-08-08T19:37:51.732462+00:00
+
  ## Willow Specifications - Willow
  - [https://willowprotocol.org](https://willowprotocol.org)
  - date_published: 2024-01-17T14:03:21.090496+00:00
@@ -2143,6 +2307,10 @@
  ## National Disabled Veterans Winter Sports Clinic
  - [https://www.wintersportsclinic.org](https://www.wintersportsclinic.org)
  - date_published: 2024-07-09T22:51:12.769603+00:00
+
+ ## WiPSCE
+ - [https://www.wipsce.org](https://www.wipsce.org)
+ - date_published: 2024-08-08T23:36:13.317043+00:00
 
  ## wirechan – home
  - [https://wirechan.org](https://wirechan.org)
@@ -2621,7 +2789,7 @@
  - date_published: 2024-07-12T15:53:37.504459+00:00
 
  ## Wordorigins.org
- - [http://www.wordorigins.org](http://www.wordorigins.org)
+ - [https://wordorigins.org](https://wordorigins.org)
  - date_published: 2024-04-26T00:00:00+00:00
 
  ## Blog Tool, Publishing Platform, and CMS - WordPress.org Afrikaans
@@ -3844,173 +4012,4 @@
  ## World Shipping Council
  - [http://www.worldshipping.org](http://www.worldshipping.org)
  - date_published: 2024-06-19T00:00:00+00:00
-
- ## WorldSkills - Follow your passion, improve your economic prospects, make society better
- - [https://worldskills.org](https://worldskills.org)
- - date_published: 2024-07-22T10:33:39.338769+00:00
-
- ## Home page
- - [https://worldsteel.org](https://worldsteel.org)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## World Time API: Simple JSON/plain-text API to obtain the current
-  time in, and related data about, a timezone.
- - [http://worldtimeapi.org](http://worldtimeapi.org)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## World Usability Day – Make Life Easy.
- - [http://www.worldusabilityday.org](http://www.worldusabilityday.org)
- - date_published: 2023-11-08T00:00:00+00:00
-
- ## Home - World War I Centennial site
- - [https://www.worldwar1centennial.org](https://www.worldwar1centennial.org)
- - date_published: 2024-07-10T10:42:38+00:00
-
- ## Home | World Water Council
- - [https://worldwatercouncil.org](https://worldwatercouncil.org)
- - date_published: 2024-04-28T02:13:48.294704+00:00
-
- ## SWIC3.0 - 404
- - [http://severe.worldweather.org](http://severe.worldweather.org)
- - date_published: 2024-03-31T14:50:46+00:00
-
- ## Worldwide Cancer Research Weekly Lottery  | Home page
- - [https://lottery.worldwidecancerresearch.org](https://lottery.worldwidecancerresearch.org)
- - date_published: 2024-05-11T08:04:58.099611+00:00
-
- ## Be a Curestarter | Cancer Cures | Worldwide Cancer Research
- - [https://worldwidecancerresearch.org](https://worldwidecancerresearch.org)
- - date_published: 2024-03-18T22:26:20.767736+00:00
-
- ## WorldWideScience.org | WorldWideScience
- - [https://worldwidescience.org](https://worldwidescience.org)
- - date_published: 2023-06-30T19:07:04+00:00
-
- ## World Wide Words: Welcome!
- - [http://www.worldwidewords.org](http://www.worldwidewords.org)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## fyia | Pages | WWF
- - [http://fyia.worldwildlife.org](http://fyia.worldwildlife.org)
- - date_published: 2024-07-02T20:42:13.624948+00:00
-
- ## WWFGifts – Symbolic Animal Adoptions, T-Shirts, Socks and More from WWF
- - [https://gifts.worldwildlife.org](https://gifts.worldwildlife.org)
- - date_published: 2024-05-01T08:04:14.390444+00:00
-
- ## WWF - Endangered Species Conservation | World Wildlife Fund
- - [https://worldwildlife.org](https://worldwildlife.org)
- - date_published: 2024-05-08T11:28:18.439635+00:00
-
- ## Wormatlas Homepage
- - [https://www.wormatlas.org](https://www.wormatlas.org)
- - date_published: 2023-12-15T20:49:53+00:00
-
- ## Straightforward file sharing - wormhol.org
- - [https://wormhol.org](https://wormhol.org)
- - date_published: 2023-11-01T10:49:58+00:00
-
- ## wort Archive
- - [https://archive.wortfm.org](https://archive.wortfm.org)
- - date_published: 2024-07-04T13:14:29.660208+00:00
-
- ## wort Archive
- - [https://stream.wortfm.org](https://stream.wortfm.org)
- - date_published: 2024-07-04T13:14:19.014056+00:00
-
- ## WORT-FM | Community Radio | Madison WI
- - [https://wortfm.org](https://wortfm.org)
- - date_published: 2024-05-08T06:33:17.175934+00:00
-
- ## The Prison Industry Corporate Database
- - [https://data.worthrises.org](https://data.worthrises.org)
- - date_published: 2024-05-14T03:19:59.572569+00:00
-
- ## Worth Rises
- - [https://worthrises.org](https://worthrises.org)
- - date_published: 2024-04-08T15:09:54.553127+00:00
-
- ## WOSU News | WOSU News
- - [https://news.wosu.org](https://news.wosu.org)
- - date_published: 2023-12-22T19:25:47.692968+00:00
-
- ## WOSU Public Media
- - [https://www.wosu.org](https://www.wosu.org)
- - date_published: 2024-07-20T21:46:10.999185+00:00
-
- ## Wheel of Time MUD - the free, multiplayer Wheel of Time game
- - [https://wotmud.org](https://wotmud.org)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## WoTMUD Archives
- - [https://wotmudarchives.org](https://wotmudarchives.org)
- - date_published: 2022-02-11T23:04:41+00:00
-
- ## WoTUG Home
- - [https://wotug.org](https://wotug.org)
- - date_published: 2024-05-09T07:44:26.062851+00:00
-
- ## Wowbrary - Newest Books, Movies, and Music at your Library
- - [https://www.wowbrary.org](https://www.wowbrary.org)
- - date_published: 2024-05-29T05:28:04.424998+00:00
-
- ## Officially Woz | A Free Exchange of Information
- - [http://woz.org](http://woz.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## WordPress Packagist: Manage your plugins and themes with Composer
- - [https://wpackagist.org](https://wpackagist.org)
- - date_published: 2024-06-23T03:50:44.928836+00:00
-
- ## CWPA | Home Page
- - [https://wpacouncil.org](https://wpacouncil.org)
- - date_published: 2024-06-21T20:36:44.424263+00:00
-
- ## Our Community is open to all who use WordPress. Beginner or Expert - join us! - WP Africa
- - [https://wpafrica.org](https://wpafrica.org)
- - date_published: 2024-05-12T05:42:50.778963+00:00
-
- ## Redirecting…
- - [http://v2.wp-api.org](http://v2.wp-api.org)
- - date_published: 2019-03-14T14:42:09+00:00
-
- ## WPATH World Professional Association for Transgender Health
- - [https://www.wpath.org](https://www.wpath.org)
- - date_published: 2024-06-30T01:12:42.610332+00:00
-
- ## WP Attorney
- - [http://wpattorney.org](http://wpattorney.org)
- - date_published: 2024-07-04T18:00:40.954620+00:00
-
- ## Green Haven is a one-stop shop for the garden and vegetable garden
- - [https://wpcafe.org](https://wpcafe.org)
- - date_published: 2023-06-29T16:30:23+00:00
-
- ## WP-CLI | WP-CLI
- - [http://wp-cli.org](http://wp-cli.org)
- - date_published: 2024-04-15T13:51:11+00:00
-
- ## WPE
- - [https://wpewebkit.org](https://wpewebkit.org)
- - date_published: 2024-05-30T20:17:36+00:00
-
- ## Bejelentkezés ‹ Nyílt Web Alapítvány — WordPress
- - [http://dokumentacio.wphu.org](http://dokumentacio.wphu.org)
- - date_published: 2024-06-23T09:15:05.881582+00:00
-
- ## Home
- - [https://wpln.org](https://wpln.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## WPML - The WordPress Multilingual Plugin
- - [https://cdn.wpml.org](https://cdn.wpml.org)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## WPML - The WordPress Multilingual Plugin
- - [https://wpml.org](https://wpml.org)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## WPMU DEV - Your All-in-One WordPress Platform
- - [https://premium.wpmudev.org](https://premium.wpmudev.org)
- - date_published: 2024-06-14T00:00:00+00:00
 

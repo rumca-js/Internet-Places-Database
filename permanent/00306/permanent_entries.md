@@ -1,1578 +1,3 @@
- ## METU CPC – Career Planning Application and Research Center
- - [https://kpm.metu.edu.tr](https://kpm.metu.edu.tr)
- - date_published: 2024-06-17T15:36:33.378544+00:00
-
- ## Kişisel Verileri Koruma Kanunu Komisyonu | Birim hakkinda kisa aciklama
- - [https://kvkk.metu.edu.tr](https://kvkk.metu.edu.tr)
- - date_published: 2024-06-17T15:29:06.908847+00:00
-
- ## METU Library | Good libraries make us great!
- - [https://lib.metu.edu.tr](https://lib.metu.edu.tr)
- - date_published: 2024-06-17T15:36:50.867473+00:00
-
- ## METU Library | Good libraries make us great!
- - [https://library.metu.edu.tr](https://library.metu.edu.tr)
- - date_published: 2024-06-17T15:36:42.972742+00:00
-
- ## ODTÜ Harita
- - [https://map.metu.edu.tr](https://map.metu.edu.tr)
- - date_published: 2024-06-17T15:36:15.340030+00:00
-
- ## Anı Ağacı | ODTÜ
- - [http://memoriam.metu.edu.tr](http://memoriam.metu.edu.tr)
- - date_published: 2024-06-17T15:35:55.302267+00:00
-
- ## Merkezi Laboratuvar
- - [https://merlab.metu.edu.tr](https://merlab.metu.edu.tr)
- - date_published: 2024-06-17T15:35:52+00:00
-
- ## METU - Middle East Technical University
- - [https://metu.edu.tr](https://metu.edu.tr)
- - date_published: 2024-05-02T10:26:44.206432+00:00
-
- ## METU Mail Service
- - [https://metumail.metu.edu.tr](https://metumail.metu.edu.tr)
- - date_published: 2022-08-22T00:00:00+00:00
-
- ## ODTÜ Mezunlar Ofisi – ODTÜ'lüler her yerde, hep birlikte…
- - [https://mezun.metu.edu.tr](https://mezun.metu.edu.tr)
- - date_published: 2024-06-17T15:36:27.039452+00:00
-
- ## MATEMATİK VE FEN BİLİMLERİ EĞİTİMİ BÖLÜMÜ
- - [https://mse.metu.edu.tr](https://mse.metu.edu.tr)
- - date_published: 2024-02-08T21:48:53.202116+00:00
-
- ## METU Northern Cyprus Campus | NORTHERN CYPRUS CAMPUS
- - [http://ncc.metu.edu.tr](http://ncc.metu.edu.tr)
- - date_published: 2024-06-17T15:28:46.744433+00:00
-
- ## Middle East Technical University OpenCourseWare
- - [https://ocw.metu.edu.tr](https://ocw.metu.edu.tr)
- - date_published: 2024-06-17T15:36:38+00:00
-
- ## ODTUCLASS 2020-2021 SUMMER
- - [https://odtuclass2020sum.metu.edu.tr](https://odtuclass2020sum.metu.edu.tr)
- - date_published: 2024-06-17T15:29:07+00:00
-
- ## ODTUCLASS 2021-2022 FALL
- - [https://odtuclass2021f.metu.edu.tr](https://odtuclass2021f.metu.edu.tr)
- - date_published: 2024-06-17T15:29:12+00:00
-
- ## ODTUCLASS 2021-2022 SPRING
- - [https://odtuclass2021s.metu.edu.tr](https://odtuclass2021s.metu.edu.tr)
- - date_published: 2024-06-17T15:29:13+00:00
-
- ## ODTUCLASS 2021-2022 SUMMER
- - [https://odtuclass2021sum.metu.edu.tr](https://odtuclass2021sum.metu.edu.tr)
- - date_published: 2024-06-17T15:29:08+00:00
-
- ## ODTUCLASS 2022-2023 FALL
- - [https://odtuclass2022f.metu.edu.tr](https://odtuclass2022f.metu.edu.tr)
- - date_published: 2024-06-17T15:29:17+00:00
-
- ## ODTUCLASS 2022-2023 SPRING
- - [https://odtuclass2022s.metu.edu.tr](https://odtuclass2022s.metu.edu.tr)
- - date_published: 2024-06-17T15:29:10+00:00
-
- ## ODTUCLASS 2022-2023 SUMMER
- - [https://odtuclass2022sum.metu.edu.tr](https://odtuclass2022sum.metu.edu.tr)
- - date_published: 2024-06-17T15:29:14+00:00
-
- ## ODTUCLASS 2023-2024 FALL
- - [https://odtuclass2023f.metu.edu.tr](https://odtuclass2023f.metu.edu.tr)
- - date_published: 2024-06-17T15:29:11+00:00
-
- ## ODTUCLASS 2023-2024 SPRING
- - [https://odtuclass2023s.metu.edu.tr](https://odtuclass2023s.metu.edu.tr)
- - date_published: 2024-06-17T15:29:09+00:00
-
- ## ODTUCLASS 2023-2024 SPRING
- - [https://odtuclass.metu.edu.tr](https://odtuclass.metu.edu.tr)
- - date_published: 2024-05-02T10:26:41.785216+00:00
-
- ## ODTULU
- - [https://odtulu.metu.edu.tr](https://odtulu.metu.edu.tr)
- - date_published: 2024-06-17T15:36:28.669707+00:00
-
- ## armongate
- - [https://odtupass.metu.edu.tr](https://odtupass.metu.edu.tr)
- - date_published: 2024-05-31T11:35:10+00:00
-
- ## METU | Course Syllabus
- - [https://odtusyllabus.metu.edu.tr](https://odtusyllabus.metu.edu.tr)
- - date_published: 2024-06-17T15:37:29.530579+00:00
-
- ## ÖGEM - Center for Advancing Learning and Teaching | Slogan is here
- - [https://ogem.metu.edu.tr](https://ogem.metu.edu.tr)
- - date_published: 2024-06-17T15:36:37.064215+00:00
-
- ## İŞ SAĞLIĞI VE GÜVENLİĞİ | OHS
- - [http://ohs.metu.edu.tr](http://ohs.metu.edu.tr)
- - date_published: 2024-06-17T15:28:52.978773+00:00
-
- ## METU Student Affairs Information System
- - [https://oibs.metu.edu.tr](https://oibs.metu.edu.tr)
- - date_published: 2024-06-17T15:28:55.700333+00:00
-
- ## Ana Sayfa | ODTÜ ÖĞRENCİ İŞLERİ DAİRE BAŞKANLIĞI
- - [https://oidb.metu.edu.tr](https://oidb.metu.edu.tr)
- - date_published: 2024-05-02T10:26:29.200991+00:00
-
- ## OpenMETU
- - [https://open.metu.edu.tr](https://open.metu.edu.tr)
- - date_published: 2024-06-17T15:36:12.661903+00:00
-
- ## Yeni Öğrenciler
- - [https://oryantasyon.ncc.metu.edu.tr](https://oryantasyon.ncc.metu.edu.tr)
- - date_published: 2024-06-14T13:07:46+00:00
-
- ## ÖĞRENCİ TEMSİLCİLERİ SEÇİMİ ve ÜNİVERSİTE SEÇİM KURULU
- - [https://otk.metu.edu.tr](https://otk.metu.edu.tr)
- - date_published: 2024-06-17T15:35:58.852502+00:00
-
- ## Proje Destek Ofisi
- - [https://pdo.metu.edu.tr](https://pdo.metu.edu.tr)
- - date_published: 2024-06-17T15:36:01.663337+00:00
-
- ## Telefon Defteri ODTÜ.
- - [https://phonebook.metu.edu.tr](https://phonebook.metu.edu.tr)
- - date_published: 2020-03-12T07:57:35+00:00
-
- ## METU | Portal
- - [https://portal.metu.edu.tr](https://portal.metu.edu.tr)
- - date_published: 2024-06-17T15:35:04.405603+00:00
-
- ## Program Yeterlilikleri Bilgi Paketi
- - [https://program.metu.edu.tr](https://program.metu.edu.tr)
- - date_published: 2024-06-17T15:36:53.563939+00:00
-
- ## Instant Location of Rings
- - [https://ring.metu.edu.tr](https://ring.metu.edu.tr)
- - date_published: 2024-06-17T15:36:48.403665+00:00
-
- ## ODTÜ SEM - ODTÜ Sürekli Eğitim Merkezi
- - [https://sem.metu.edu.tr](https://sem.metu.edu.tr)
- - date_published: 2024-06-17T15:37:23.461440+00:00
-
- ## METUSIS | METU Student Information System
- - [https://sis.metu.edu.tr](https://sis.metu.edu.tr)
- - date_published: 2024-06-17T15:36:00.167692+00:00
-
- ## ODTÜ Stratejik Planı
- - [https://sp.metu.edu.tr](https://sp.metu.edu.tr)
- - date_published: 2024-06-17T15:36:52.293912+00:00
-
- ## SAĞLIK VE REHBERLİK MERKEZİ | ODTÜ
- - [https://srm.metu.edu.tr](https://srm.metu.edu.tr)
- - date_published: 2024-06-17T15:36:35+00:00
-
- ## ODTÜ STUDENT PORTAL
- - [https://student.metu.edu.tr](https://student.metu.edu.tr)
- - date_published: 2024-06-17T15:36:41.227824+00:00
-
- ## ODTÜ Teknoloji Transfer Ofisi (TTO) – ODTÜ TTO
- - [http://tto.metu.edu.tr](http://tto.metu.edu.tr)
- - date_published: 2024-06-17T15:36:23.649230+00:00
-
- ## UYGULAMALI ETİK ARAŞTIRMA MERKEZİ
- - [https://ueam.metu.edu.tr](https://ueam.metu.edu.tr)
- - date_published: 2024-06-17T15:36:47.121465+00:00
-
- ## Matematik Bölümü, Mimar Sinan Güzel Sanatar Üniversitesi
- - [http://mat.msgsu.edu.tr](http://mat.msgsu.edu.tr)
- - date_published: 2018-09-14T10:42:42+00:00
-
- ## Basında ODTÜ
- - [https://basinda.odtu.edu.tr](https://basinda.odtu.edu.tr)
- - date_published: 2024-06-17T15:36:19.769512+00:00
-
- ## Sayılarla - ODTÜ
- - [http://ilkbakista.odtu.edu.tr](http://ilkbakista.odtu.edu.tr)
- - date_published: 2024-04-25T09:19:43+00:00
-
- ## T.C. ORDU ÜNİVERSİTESİ BİLGİ İŞLEM DAİRE BAŞKANLIĞI
- - [https://bidb.odu.edu.tr](https://bidb.odu.edu.tr)
- - date_published: 2024-06-17T15:58:29.280637+00:00
-
- ## Rektör - SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://about.sakarya.edu.tr](https://about.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:48.834807+00:00
-
- ## DSpace Home
- - [https://acikerisim.sakarya.edu.tr](https://acikerisim.sakarya.edu.tr)
- - date_published: 2024-05-02T10:26:51.817663+00:00
-
- ## Sakarya Üniversitesi |
- - [https://adalet.sakarya.edu.tr](https://adalet.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:36.480439+00:00
-
- ## Sakarya Üniversitesi |
- - [https://adamyo.sakarya.edu.tr](https://adamyo.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:10.632499+00:00
-
- ## Sakarya Üniversitesi Aday Öğrenci Bilgi Sistemi
- - [https://adayogrenci.sakarya.edu.tr](https://adayogrenci.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:27.901194+00:00
-
- ## Sakarya Üniversitesi |
- - [https://aiit.sakarya.edu.tr](https://aiit.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:04.263114+00:00
-
- ## Sakarya Üniversitesi | ARAŞTIRMA DEKANLIĞI
- - [https://ardek.sakarya.edu.tr](https://ardek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:57.918074+00:00
-
- ## Sakarya Üniversitesi | Bilimsel Araştırma Projeleri Koordinatörlüğü
- - [https://bapk.sakarya.edu.tr](https://bapk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:00.656868+00:00
-
- ## Sakarya Üniversitesi |
- - [http://baum.sakarya.edu.tr](http://baum.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:48.395856+00:00
-
- ## Sakarya Üniversitesi | Bilgisayar ve Bilişim Bilimleri Fakültesi
- - [https://bf.sakarya.edu.tr](https://bf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:38.456541+00:00
-
- ## Sakarya Üniversitesi | BİLİMSEL DERGİLER KOORDİNATÖRLÜĞÜ
- - [https://bidek.sakarya.edu.tr](https://bidek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:28.512872+00:00
-
- ## Request Rejected
- - [https://cdn0.sabis.sakarya.edu.tr](https://cdn0.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:41.731243+00:00
-
- ## Sakarya Üniversitesi |
- - [https://dhf.sakarya.edu.tr](https://dhf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:29.545366+00:00
-
- ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
- - [https://disiliskiler.sakarya.edu.tr](https://disiliskiler.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:45.846597+00:00
-
- ## Sakarya Üniversitesi | Devlet Konservatuarı
- - [https://dk.sakarya.edu.tr](https://dk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:11.993770+00:00
-
- ## Doç.Dr. Damla KÜÇÜK
- - [https://dkucuk.sakarya.edu.tr](https://dkucuk.sakarya.edu.tr)
- - date_published: 2024-02-08T16:57:51.601420+00:00
-
- ## Sakarya Üniversitesi | SENATO / ÜYK Kararları
- - [https://duyuru.sakarya.edu.tr](https://duyuru.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:56.246355+00:00
-
- ## Education Information System
- - [https://ebs.sakarya.edu.tr](https://ebs.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:08.979246+00:00
-
- ## Sakarya Üniversitesi | Eğitim Fakültesi
- - [https://ef.sakarya.edu.tr](https://ef.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:02.157821+00:00
-
- ## Sakarya Üniversitesi | Eğitim Bilimleri Enstitüsü
- - [https://egitim.sakarya.edu.tr](https://egitim.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:43.538224+00:00
-
- ## Sakarya Üniversitesi | ENGELSİZ YAŞAM VE DESTEK KOORDİNATÖRLÜĞÜ
- - [http://engelsiz.sakarya.edu.tr](http://engelsiz.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:05.542560+00:00
-
- ## Sakarya Üniversitesi | + KOORDİNATÖRLÜĞÜ
- - [https://erasmus.sakarya.edu.tr](https://erasmus.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:18.698156+00:00
-
- ## Sakarya Üniversitesi | Etik Kurulu
- - [https://etikkurulu.sakarya.edu.tr](https://etikkurulu.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:36.984382+00:00
-
- ## Sakarya Üniversitesi | EUA KURUMSAL DEĞERLENDİRME PROGRAMI
- - [https://eua.sakarya.edu.tr](https://eua.sakarya.edu.tr)
- - date_published: 2024-05-02T10:27:28.354578+00:00
-
- ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
- - [https://farabi.sakarya.edu.tr](https://farabi.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:07.599175+00:00
-
- ## Sakarya Üniversitesi | Fen Bilimleri Enstitüsü
- - [https://fbe.sakarya.edu.tr](https://fbe.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:24.595139+00:00
-
- ## Sakarya Üniversitesi |
- - [https://fen.sakarya.edu.tr](https://fen.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:45.253223+00:00
-
- ## Sakarya Üniversitesi | Fikri ve Sınai Mülkiyet Hakları Koordinatörlüğü
- - [https://fsmhk.sakarya.edu.tr](https://fsmhk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:20.249760+00:00
-
- ## Sakarya Üniversitesi |
- - [https://gsb.sakarya.edu.tr](https://gsb.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:32.479841+00:00
-
- ## Sakarya Üniversitesi Haber Sitesi - Sakarya Üniversitesi Geleceğinize Yöne Verin
- - [https://haber.sakarya.edu.tr](https://haber.sakarya.edu.tr)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://hesap.sabis.sakarya.edu.tr](https://hesap.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:46.824305+00:00
-
- ## Sakarya Üniversitesi | Hukuk Fakültesi
- - [https://hf.sakarya.edu.tr](https://hf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:30.099376+00:00
-
- ## Sakarya Üniversitesi | Hukuk Müşavirliği
- - [https://hukuk.sakarya.edu.tr](https://hukuk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:54.299246+00:00
-
- ## Sakarya Üniversitesi | İlahiyat Fakültesi
- - [https://if.sakarya.edu.tr](https://if.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:54.013774+00:00
-
- ## Sakarya Üniversitesi |
- - [https://ihale.sakarya.edu.tr](https://ihale.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:03.501412+00:00
-
- ## Sakarya Üniversitesi | Personel Dairesi Başkanlığı Personel Alım İlanları
- - [https://ilan.sakarya.edu.tr](https://ilan.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:57.639671+00:00
-
- ## Sakarya Üniversitesi | İletişim Fakültesi
- - [https://iletisim.sakarya.edu.tr](https://iletisim.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:39.941949+00:00
-
- ## Sakarya Üniversitesi | İletişim Koordinatörlüğü
- - [https://ilko.sakarya.edu.tr](https://ilko.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:21.013429+00:00
-
- ## Sakarya University | International Office
- - [https://international.sakarya.edu.tr](https://international.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:02.281154+00:00
-
- ## Sakarya Üniversitesi | İş Sağlığı ve Güvenliği Koordinatörlüğü
- - [https://isgk.sakarya.edu.tr](https://isgk.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:32.994697+00:00
-
- ## Sakarya Üniversitesi | İşletme Fakültesi
- - [https://islf.sakarya.edu.tr](https://islf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:47.107140+00:00
-
- ## Sakarya Üniversitesi |
- - [https://itbf.sakarya.edu.tr](https://itbf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:50.257935+00:00
-
- ## "Bugün ve Gelecekte Hep Birlikte"
- - [https://kariyer.sakarya.edu.tr](https://kariyer.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:52.325509+00:00
-
- ## Sakarya Üniversitesi |
- - [https://kultur.sakarya.edu.tr](https://kultur.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:35.356003+00:00
-
- ## Sakarya Üniversitesi | Kütüphane ve Dokümantasyon Dairesi Başkanlığı
- - [https://kutuphane.sakarya.edu.tr](https://kutuphane.sakarya.edu.tr)
- - date_published: 2024-02-08T16:27:45.731706+00:00
-
- ## KURUMSAL YÖNETİM BİLGİ SİSTEMİ
- - [https://kybs.sabis.sakarya.edu.tr](https://kybs.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:55.421688+00:00
-
- ## KALİTE YÖNETİM BİLGİ SİSTEMİ
- - [https://kys.sakarya.edu.tr](https://kys.sakarya.edu.tr)
- - date_published: 2024-05-02T10:27:25.208119+00:00
-
- ## SABİS | Giriş Sayfası
- - [https://labyonetim.sabis.sakarya.edu.tr](https://labyonetim.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:08.594749+00:00
-
- ## Sakarya Üniversitesi |
- - [https://mediko.sakarya.edu.tr](https://mediko.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:16.063865+00:00
-
- ## Sakarya Üniversitesi Genel Yemek Menüsü
- - [http://menu.sabis.sakarya.edu.tr](http://menu.sabis.sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:44+00:00
-
- ## Sakarya Üniversitesi | MEVLANA KURUM KOORDİNATÖRLÜĞÜ
- - [https://mevlana.sakarya.edu.tr](https://mevlana.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:31.589281+00:00
-
- ## Mezun İlişkileri Koordinatörlüğü
- - [https://mezun.sakarya.edu.tr](https://mezun.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:59.557964+00:00
-
- ## Sakarya Üniversitesi | Mühendislik Fakültesi - Sakarya Üniversitesi
- - [https://mf.sakarya.edu.tr](https://mf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:46.248316+00:00
-
- ## Sakarya Üniversitesi | Öğrenci Dekanlığı
- - [https://ogrdek.sakarya.edu.tr](https://ogrdek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:17.376721+00:00
-
- ## Sakarya Üniversitesi | Öğrenci İşleri Dairesi Başkanlığı
- - [https://ogrisl.sakarya.edu.tr](https://ogrisl.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:59.178758+00:00
-
- ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
- - [https://ogr.sakarya.edu.tr](https://ogr.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:16.876365+00:00
-
- ## Sakarya Üniversitesi | ÖĞRENCİ SENATOSU
- - [https://ogrsen.sakarya.edu.tr](https://ogrsen.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:45.859486+00:00
-
- ## SAÜ Öğrenci İşleri- SSS
- - [https://ogrwebmail.sakarya.edu.tr](https://ogrwebmail.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:01.744892+00:00
-
- ## Sakarya Üniversitesi | Ortadoğu Enstitüsü
- - [https://ortadogu.sakarya.edu.tr](https://ortadogu.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:21.574026+00:00
-
- ## SABİS Rehber :: Sakarya Üniversitesi Bilgi Sistemi
- - [https://rehber.sakarya.edu.tr](https://rehber.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:06.582414+00:00
-
- ## SABİS - Sakarya Üniversitesi Bilgi Sistemi
- - [https://sabis.sakarya.edu.tr](https://sabis.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:42.307900+00:00
-
- ## Sakarya Üniversitesi | Sağlık Bilimleri Enstitüsü
- - [https://sagbil.sakarya.edu.tr](https://sagbil.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:03.740314+00:00
-
- ## Sakarya Üniversitesi | Sağlık Bilimleri Fakültesi
- - [https://saglikbilimleri.sakarya.edu.tr](https://saglikbilimleri.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:40.268459+00:00
-
- ## Sakarya Üniversitesi | Geleceğinize Yön Verin | SAÜ
- - [https://sakarya.edu.tr](https://sakarya.edu.tr)
- - date_published: 2024-06-17T15:41:43.489769+00:00
-
- ## Sakarya Üniversitesi - TÜRKİYE
- - [https://sanalkampus.sakarya.edu.tr](https://sanalkampus.sakarya.edu.tr)
- - date_published: 2020-11-27T09:11:01+00:00
-
- ## Sakarya Üniversitesi | Kurumsal Analiz ve Kalite Geliştirme Koordinatörlüğü
- - [https://saudek.sakarya.edu.tr](https://saudek.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:44.599982+00:00
-
- ## Sakarya Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi | sausem.sakarya.edu.tr
- - [https://sausem.sakarya.edu.tr](https://sausem.sakarya.edu.tr)
- - date_published: 2024-06-14T14:03:47+00:00
-
- ## SAÜ Vakfı Özel Okulları – Köklü Geçmiş, Güçlü Gelecek
- - [https://sauvakfiokullari.sakarya.edu.tr](https://sauvakfiokullari.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:26.933873+00:00
-
- ## Sakarya Üniversitesi Yayınları
- - [https://sauyayinlari.sakarya.edu.tr](https://sauyayinlari.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:52.755361+00:00
-
- ## Sakarya Üniversitesi | SOSYAL BİLİMLER ENSTİTÜSÜ
- - [https://sbe.sakarya.edu.tr](https://sbe.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:22.709774+00:00
-
- ## Sakarya Üniversitesi | Siyasal Bilgiler Fakültesi
- - [https://sbf.sakarya.edu.tr](https://sbf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:55.077803+00:00
-
- ## Ana Sayfa - Sakarya Şehir Hafızası - Sakarya'nın Dijital Hafızası
- - [https://sehirhafizasi.sakarya.edu.tr](https://sehirhafizasi.sakarya.edu.tr)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Sakarya Üniversitesi | Sakarya Enerji teknolojileri Takımı
- - [https://sett.sakarya.edu.tr](https://sett.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:18.969969+00:00
-
- ## Sakarya Üniversitesi |
- - [https://shmyo.sakarya.edu.tr](https://shmyo.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:57.754015+00:00
-
- ## Sakarya Üniversitesi | Sıfır Atık Koordinatörlüğü
- - [https://sifiratik.sakarya.edu.tr](https://sifiratik.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:30.808592+00:00
-
- ## Sakarya Üniversitesi |
- - [https://sks.sakarya.edu.tr](https://sks.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:06.955583+00:00
-
- ## Sakarya Üniversitesi | Sivil Savunma Uzmanlığı
- - [https://ssu.sakarya.edu.tr](https://ssu.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:13.026189+00:00
-
- ## Sakarya Üniversitesi | Sanat Tasarım ve Mimarlık Fakültesi
- - [https://stmf.sakarya.edu.tr](https://stmf.sakarya.edu.tr)
- - date_published: 2024-06-17T15:38:35.878930+00:00
-
- ## Sakarya Üniversitesi – Uluslararası Öğrenci Merkezi
- - [https://studyatsau.sakarya.edu.tr](https://studyatsau.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:40.096442+00:00
-
- ## Sakarya Üniversitesi – Uluslararası Öğrenci Merkezi
- - [https://studyinsau.sakarya.edu.tr](https://studyinsau.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:38.263561+00:00
-
- ## SABİS | Sakarya Üniversitesi Bilgi Sistemi
- - [https://survey.sabis.sakarya.edu.tr](https://survey.sabis.sakarya.edu.tr)
- - date_published: 2024-05-02T10:26:55.751850+00:00
-
- ## Sakarya Üniversitesi | Sustainable Development Goals
- - [https://sustain.sakarya.edu.tr](https://sustain.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:47.471351+00:00
-
- ## Sakarya Üniversitesi |
- - [https://td.sakarya.edu.tr](https://td.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:48.764178+00:00
-
- ## Sakarya Üniversitesi | Teknik Eğitim Fakültesi
- - [https://tef.sakarya.edu.tr](https://tef.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:14.387894+00:00
-
- ## Sakarya Üniversitesi | Tıp Fakültesi
- - [https://tip.sakarya.edu.tr](https://tip.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:34.511395+00:00
-
- ## Sakarya Üniversitesi | Topluma Katkı ve Sürdürülebilirlik Koordinatörlüğü
- - [https://tokas.sakarya.edu.tr](https://tokas.sakarya.edu.tr)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Sakarya Üniversitesi | Türk Dili Öğretimi Uygulama ve Araştırma Merkezi
- - [https://tomer.sakarya.edu.tr](https://tomer.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:42.846291+00:00
-
- ## Sakarya Üniversitesi | DIŞ İLİŞKİLER OFİSİ ( Farabi, Mevlana)
- - [http://www.disiliskiler.sakarya.edu.tr](http://www.disiliskiler.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:53.680410+00:00
-
- ## Sakarya Üniversitesi Etkinlik Takvimi
- - [https://www.etkinlik.sakarya.edu.tr](https://www.etkinlik.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:51.884613+00:00
-
- ## Sakarya Üniversitesi | FARABİ KURUM KOORDİNATÖRLÜĞÜ
- - [http://www.farabi.sakarya.edu.tr](http://www.farabi.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:57.629475+00:00
-
- ## SAÜ :: İç Denetim Koordinatörlüğü
- - [http://www.icdenetim.sakarya.edu.tr](http://www.icdenetim.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:37.785457+00:00
-
- ## Sakarya Üniversitesi | Stratejik Planlama ve Kalite Yönetim Sistemleri Şube Müdürlüğü
- - [http://www.kalite.sakarya.edu.tr](http://www.kalite.sakarya.edu.tr)
- - date_published: 2024-06-17T15:54:02.437048+00:00
-
- ## Sakarya Üniversitesi | MEVLANA KURUM KOORDİNATÖRLÜĞÜ
- - [http://www.mevlana.sakarya.edu.tr](http://www.mevlana.sakarya.edu.tr)
- - date_published: 2024-06-17T15:57:55.932131+00:00
-
- ## Sakarya Üniversitesi | Kurumsal Analiz ve Kalite Geliştirme Koordinatörlüğü
- - [http://www.saudek.sakarya.edu.tr](http://www.saudek.sakarya.edu.tr)
- - date_published: 2024-06-17T15:54:04.217765+00:00
-
- ## Sakarya Üniversitesi | Yayın Komisyonu Başkanlığı
- - [https://yayin.sakarya.edu.tr](https://yayin.sakarya.edu.tr)
- - date_published: 2024-05-02T10:28:50.552794+00:00
-
- ## Sakarya Üniversitesi |
- - [https://ydyo.sakarya.edu.tr](https://ydyo.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:59.315671+00:00
-
- ## Sakarya Üniversitesi | GreenMetric | Green Campus
- - [https://yesilkampus.sakarya.edu.tr](https://yesilkampus.sakarya.edu.tr)
- - date_published: 2024-06-17T15:39:53.322974+00:00
-
- ## Sakarya Üniversitesi |
- - [https://yurt.sakarya.edu.tr](https://yurt.sakarya.edu.tr)
- - date_published: 2024-06-17T15:40:23.442316+00:00
-
- ## Süleyman Demirel Üniversitesi
- - [http://www.sdu.edu.tr](http://www.sdu.edu.tr)
- - date_published: 2024-07-22T08:55:38.423937+00:00
-
- ## Cep Kütüphanem – Kütüphane ve Dokümantasyon Daire Başkanlığı
- - [https://kddb.sinop.edu.tr](https://kddb.sinop.edu.tr)
- - date_published: 2024-06-14T07:54:49+00:00
-
- ## Aday Öğrenci - SBTÜ
- - [https://adayogrenci.sivas.edu.tr](https://adayogrenci.sivas.edu.tr)
- - date_published: 2024-05-02T10:28:56.376890+00:00
-
- ## PROJELER OFİSİ GENEL KOORDİNATÖRLÜĞÜ - Anasayfa
- - [http://bap.sivas.edu.tr](http://bap.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:04.672201+00:00
-
- ## BİLGİ İŞLEM DAİRE BAŞKANLIĞI - Anasayfa
- - [http://bidb.sivas.edu.tr](http://bidb.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:46.297453+00:00
-
- ## SBTU Covid19 Komisyonu - Anasayfa
- - [http://covid19.sivas.edu.tr](http://covid19.sivas.edu.tr)
- - date_published: 2024-06-17T16:09:18.871298+00:00
-
- ## Döner Sermaye İşletme Müdürlüğü  - Anasayfa
- - [http://dsim.sivas.edu.tr](http://dsim.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:42.340757+00:00
-
- ## DIŞ KAYNAKLI PROJE TAKİP SİSTEMİ
- - [https://form.sivas.edu.tr](https://form.sivas.edu.tr)
- - date_published: 2024-06-17T16:08:48.198500+00:00
-
- ## Genel Sekreterlik - Anasayfa
- - [https://genelsekreterlik.sivas.edu.tr](https://genelsekreterlik.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:05.906720+00:00
-
- ## Havacılık ve Uzay Bilimleri Fakültesi
- - [https://havacilik.sivas.edu.tr](https://havacilik.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:26.025272+00:00
-
- ## AMASMA - Anasayfa
- - [http://hukukm.sivas.edu.tr](http://hukukm.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:28.785509+00:00
-
- ## İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI - Anasayfa
- - [http://imid.sivas.edu.tr](http://imid.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:18.150062+00:00
-
- ## Kalite Koordinatörlüğü - Anasayfa
- - [https://kalite.sivas.edu.tr](https://kalite.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:01.531008+00:00
-
- ## Kampüs Kart
- - [https://kampuskart.sivas.edu.tr](https://kampuskart.sivas.edu.tr)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Kariyer Merkezi - Anasayfa
- - [https://kariyer.sivas.edu.tr](https://kariyer.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:14.392298+00:00
-
- ## Kütüphane ve Dokümantasyon Daire Başkanlığı - Anasayfa
- - [http://kutuphane.sivas.edu.tr](http://kutuphane.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:41.146967+00:00
-
- ## LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ - Anasayfa
- - [http://lee.sivas.edu.tr](http://lee.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:16.445597+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.sivas.edu.tr](https://mail.sivas.edu.tr)
- - date_published: 2024-05-02T10:29:11.347839+00:00
-
- ## Mühendislik ve Doğa Bilimleri Fakültesi
- - [https://muhendislik.sivas.edu.tr](https://muhendislik.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:09.437419+00:00
-
- ## ORTAK DERSLER BÖLÜM BAŞKANLIĞI - Anasayfa
- - [https://odb.sivas.edu.tr](https://odb.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:44.823060+00:00
-
- ## Öğrenci İşleri Daire Başkanlığı - Anasayfa
- - [http://oidb.sivas.edu.tr](http://oidb.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:02.941754+00:00
-
- ## PERSONEL DAİRE BAŞKANLIĞI - Anasayfa
- - [https://personel.sivas.edu.tr](https://personel.sivas.edu.tr)
- - date_published: 2024-05-02T10:29:03.007416+00:00
-
- ## Anasayfa
- - [https://sem.sivas.edu.tr](https://sem.sivas.edu.tr)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Anasayfa
- - [https://sivas.edu.tr](https://sivas.edu.tr)
- - date_published: 2024-05-02T10:28:58.209897+00:00
-
- ## SAĞLIK, KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI - Anasayfa
- - [http://sks.sivas.edu.tr](http://sks.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:27.844943+00:00
-
- ## Strateji Geliştirme Daire Başkanlığı - Anasayfa
- - [http://strateji.sivas.edu.tr](http://strateji.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:43.819168+00:00
-
- ## Prospective Student - SBTÜ
- - [https://student.sivas.edu.tr](https://student.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:11.241635+00:00
-
- ## Sivas Bilim ve Teknoloji Üniversitesi
- - [https://ubys.sivas.edu.tr](https://ubys.sivas.edu.tr)
- - date_published: 2024-05-02T10:29:15.433716+00:00
-
- ## Uzaktan Eğitim Uygulama ve Araştırma Merkezi - Anasayfa
- - [https://uzem.sivas.edu.tr](https://uzem.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:22.690726+00:00
-
- ## YAPI İŞLERİ TEKNİK DAİRE BAŞKANLIĞI - Anasayfa
- - [http://yapi.sivas.edu.tr](http://yapi.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:24.545872+00:00
-
- ## YABANCI DÄ°LLER YĂśKSEKOKULU - Anasayfa
- - [https://ydyo.sivas.edu.tr](https://ydyo.sivas.edu.tr)
- - date_published: 2022-01-01T00:00:00+00:00
-
- ## Tarım Bilimleri ve Teknolojileri Fakültesi
- - [http://ziraat.sivas.edu.tr](http://ziraat.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:47.673988+00:00
-
- ## Trakya Üniversitesi Merkez Kütüphanesi
- - [https://katalog.trakya.edu.tr](https://katalog.trakya.edu.tr)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Trakya Üniversitesi Rektörlüğü
- - [http://www.trakya.edu.tr](http://www.trakya.edu.tr)
- - date_published: 2024-06-24T09:53:38.555820+00:00
-
- ## T.C. Aile ve Sosyal Hizmetler Bakanlığı
- - [https://www.aile.gov.tr](https://www.aile.gov.tr)
- - date_published: 2024-06-17T15:10:24.277452+00:00
-
- ## Anasayfa - Alo 176
- - [http://www.alo176.gov.tr](http://www.alo176.gov.tr)
- - date_published: 2024-06-20T08:42:37.202257+00:00
-
- ## Toplu Katalog Tarama
- - [http://katalog.ayk.gov.tr](http://katalog.ayk.gov.tr)
- - date_published: 2024-05-02T10:27:23.380719+00:00
-
- ## AYK – Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
- - [https://www.ayk.gov.tr](https://www.ayk.gov.tr)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Bilgi Teknolojileri ve İletişim Kurumu
- - [https://www.btk.gov.tr](https://www.btk.gov.tr)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Akademi
- - [https://www.btkakademi.gov.tr](https://www.btkakademi.gov.tr)
- - date_published: 2024-06-17T16:09:00.474817+00:00
-
- ## Türkiye Cumhuriyeti Cumhurbaşkanlığı Dijital Dönüşüm Ofisi - Anasayfa
- - [https://cbddo.gov.tr](https://cbddo.gov.tr)
- - date_published: 2024-06-17T15:00:01.880384+00:00
-
- ## Uzaktan Eğitim Kapısı
- - [https://uzaktanegitimkapisi.cbiko.gov.tr](https://uzaktanegitimkapisi.cbiko.gov.tr)
- - date_published: 2024-06-17T16:09:02.088704+00:00
-
- ## CİMER - T.C. Cumhurbaşkanlığı İletişim Merkezi
- - [http://cimer.gov.tr](http://cimer.gov.tr)
- - date_published: 2024-06-17T15:18:19.976244+00:00
-
- ## CİMER - T.C. Cumhurbaşkanlığı İletişim Merkezi
- - [https://www.cimer.gov.tr](https://www.cimer.gov.tr)
- - date_published: 2024-06-17T16:08:40.166626+00:00
-
- ## T.C. Çalışma ve Sosyal Güvenlik Bakanlığı
- - [https://www.csgb.gov.tr](https://www.csgb.gov.tr)
- - date_published: 2024-06-17T16:08:38.550098+00:00
-
- ## KÜTÜPHANELER VE YAYIMLAR GENEL MÜDÜRLÜĞÜ
- - [https://earsiv.gov.tr](https://earsiv.gov.tr)
- - date_published: 2024-06-17T15:57:23.966421+00:00
-
- ## Yönlendiriliyorsunuz Lütfen Bekleyin.
- - [https://cdn.e-devlet.gov.tr](https://cdn.e-devlet.gov.tr)
- - date_published: 2024-02-27T14:25:18+00:00
-
- ## e-insan
- - [https://einsan.gov.tr](https://einsan.gov.tr)
- - date_published: 2023-10-03T14:26:02+00:00
-
- ## Kütüphaneler ve Yayımlar Genel Müdürlüğü catalog
- - [https://koha.ekutuphane.gov.tr](https://koha.ekutuphane.gov.tr)
- - date_published: 2024-05-02T10:28:41.066905+00:00
-
- ## e-Devlet Kapısı
- - [https://etbis.eticaret.gov.tr](https://etbis.eticaret.gov.tr)
- - date_published: 2024-04-28T05:24:33.963396+00:00
-
- ## T.C. Kamu Görevlileri Etik Kurulu
- - [http://etik.gov.tr](http://etik.gov.tr)
- - date_published: 2024-06-17T16:09:04.479902+00:00
-
- ## İnsan Kaynaklarının Geliştirilmesi Program Otoritesi – Gelişen Hayatlar Değişen Türkiye
- - [http://www.ikg.gov.tr](http://www.ikg.gov.tr)
- - date_published: 2024-06-17T15:56:42.002238+00:00
-
- ## ilan.gov.tr - Türkiye'nin İlan Portalı
- - [https://ilan.gov.tr](https://ilan.gov.tr)
- - date_published: 2023-06-16T05:56:59+00:00
-
- ## Türkiye Cumhuriyeti Isparta Valiliği
- - [http://isparta.gov.tr](http://isparta.gov.tr)
- - date_published: 2024-06-17T15:26:44+00:00
-
- ## T.C. Dışişleri Bakanlığı Konsolosluk İşlemleri
- - [https://www.konsolosluk.gov.tr](https://www.konsolosluk.gov.tr)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Kültür Varlıkları ve Müzeler Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
- - [https://kvmgm.ktb.gov.tr](https://kvmgm.ktb.gov.tr)
- - date_published: 2024-05-04T08:26:42.291050+00:00
-
- ## Kütüphaneler ve Yayımlar Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
- - [https://kygm.ktb.gov.tr](https://kygm.ktb.gov.tr)
- - date_published: 2024-06-17T15:57:36+00:00
-
- ## Mobil uygulamalar - T.C. Kültür ve Turizm Bakanlığı
- - [https://mobil.ktb.gov.tr](https://mobil.ktb.gov.tr)
- - date_published: 2024-06-17T15:57:22.218537+00:00
-
- ## T.C. Kültür ve Turizm Bakanlığı
- - [http://www.kultur.gov.tr](http://www.kultur.gov.tr)
- - date_published: 2024-06-17T15:57:59.909165+00:00
-
- ## Kültür Varlıkları ve Müzeler Genel Müdürlüğü - T.C. Kültür ve Turizm Bakanlığı
- - [http://www.kulturvarliklari.gov.tr](http://www.kulturvarliklari.gov.tr)
- - date_published: 2024-06-20T08:42:38+00:00
- - tags: ['travel', 'turkey']
-
- ## KİŞİSEL VERİLERİ KORUMA KURUMU | KVKK | Kişisel Verileri Koruma Kurumu Başkanlığı
- - [https://www.kvkk.gov.tr](https://www.kvkk.gov.tr)
- - date_published: 2024-06-17T16:08:35.957307+00:00
-
- ## Mevzuat Bilgi Sistemi
- - [https://www.mevzuat.gov.tr](https://www.mevzuat.gov.tr)
- - date_published: 2024-05-02T10:25:53.224305+00:00
-
- ## Meteoroloji Genel Müdürlüğü - Deprem Bölgesi Tahmini
- - [https://afet.mgm.gov.tr](https://afet.mgm.gov.tr)
- - date_published: 2023-03-16T06:15:01+00:00
-
- ## Hezarfen
- - [https://hezarfen.mgm.gov.tr](https://hezarfen.mgm.gov.tr)
- - date_published: 2024-08-07T22:46:04.390570+00:00
-
- ## INFORMAL CONFERENCE OF SOUTH-EAST EUROPEAN
-NMHSs DIRECTORS
- - [http://iceed.mgm.gov.tr](http://iceed.mgm.gov.tr)
- - date_published: 2024-08-07T22:45:47.057288+00:00
-
- ## İslam Ülkeleri Meteoroloji Servisleri
- - [http://ic.mgm.gov.tr](http://ic.mgm.gov.tr)
- - date_published: 2024-08-07T22:47:47.901145+00:00
-
- ## Meteoroloji Genel Müdürlüğü
- - [https://mevbis.mgm.gov.tr](https://mevbis.mgm.gov.tr)
- - date_published: 2022-05-12T06:17:44+00:00
-
- ## Piri Reis Denizcilik Sayfaları - 3 Günlük Tahmin
- - [https://pirireis.mgm.gov.tr](https://pirireis.mgm.gov.tr)
- - date_published: 2024-08-07T22:46:07.389801+00:00
-
- ## Zimbra Web Client Sign In
- - [https://posta.mgm.gov.tr](https://posta.mgm.gov.tr)
- - date_published: 2024-08-07T22:46:05.636813+00:00
-
- ## Meteorolojinin Sesi Radyosu
- - [http://radyo.mgm.gov.tr](http://radyo.mgm.gov.tr)
- - date_published: 2024-08-07T22:45:59.753023+00:00
-
- ## Tarımsal Hava Tahmini
- - [https://tarim.mgm.gov.tr](https://tarim.mgm.gov.tr)
- - date_published: 2024-08-07T12:54:13+00:00
-
- ## UZALMET 2023
- - [https://uzalmet.mgm.gov.tr](https://uzalmet.mgm.gov.tr)
- - date_published: 2023-12-05T07:34:49+00:00
-
- ## SDS West Asia
- - [https://wdcc.mgm.gov.tr](https://wdcc.mgm.gov.tr)
- - date_published: 2024-08-07T22:46:10.264887+00:00
-
- ## Eastern Mediterranean Climate Center - EMCC
- - [http://www.emcc.mgm.gov.tr](http://www.emcc.mgm.gov.tr)
- - date_published: 2024-08-07T22:46:08.796333+00:00
-
- ## Meteoroloji Genel Müdürlüğü
- - [https://mgm.gov.tr](https://mgm.gov.tr)
- - date_published: 2024-04-28T02:22:41.637724+00:00
-
- ## Milli Kütüphane | National Library of Turkey
- - [http://www.millikutuphane.gov.tr](http://www.millikutuphane.gov.tr)
- - date_published: 2024-06-17T15:57:42.301680+00:00
-
- ## Anasayfa | Milli Kütüphane
- - [https://dijital-kutuphane.mkutup.gov.tr](https://dijital-kutuphane.mkutup.gov.tr)
- - date_published: 2024-06-17T15:57:44.167976+00:00
-
- ## Kaşif || Milli Kütüphane Otomasyonu Okuyucu Tarama Modülü- National Library of Turkey
- - [https://kasif.mkutup.gov.tr](https://kasif.mkutup.gov.tr)
- - date_published: 2024-06-17T15:57:25.585805+00:00
-
- ## Konuşan Kitaplik | Milli Kütüphane | Sesli Kitaplar
- - [https://konusankitaplik.mkutup.gov.tr](https://konusankitaplik.mkutup.gov.tr)
- - date_published: 2024-06-17T15:57:45.690321+00:00
-
- ## Login - Taş Plaklar
- - [https://tasplaklar.mkutup.gov.tr](https://tasplaklar.mkutup.gov.tr)
- - date_published: 2024-06-17T15:57:31.793879+00:00
-
- ## T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı
- - [https://www.osym.gov.tr](https://www.osym.gov.tr)
- - date_published: 2024-06-17T16:08:17.862271+00:00
-
- ## Anasayfa | Rami Kütüphanesi
- - [https://ramikutuphanesi.gov.tr](https://ramikutuphanesi.gov.tr)
- - date_published: 2024-06-17T15:57:33.821500+00:00
-
- ## T.C. Resmî Gazete
- - [http://www.resmigazete.gov.tr](http://www.resmigazete.gov.tr)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## T.C. Sağlık Bakanlığı
- - [https://lutfikirdareah.saglik.gov.tr](https://lutfikirdareah.saglik.gov.tr)
- - date_published: 2024-06-28T12:07:09.992632+00:00
-
- ## T.C. Sanayi ve Teknoloji Bakanlığı
- - [https://www.sanayi.gov.tr](https://www.sanayi.gov.tr)
- - date_published: 2024-05-29T08:01:19+00:00
-
- ## Spor Toto Teşkilat Başkanlığı
- - [http://sportoto.gov.tr](http://sportoto.gov.tr)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Study in Türkiye
- - [https://studyinturkey.gov.tr](https://studyinturkey.gov.tr)
- - date_published: 2024-05-02T10:25:20.250143+00:00
-
- ## Study in Türkiye
- - [https://www.studyinturkiye.gov.tr](https://www.studyinturkiye.gov.tr)
- - date_published: 2024-06-17T15:10:38.519268+00:00
-
- ## T.C.CUMHURBAŞKANLIĞI : Anasayfa
- - [https://www.tccb.gov.tr](https://www.tccb.gov.tr)
- - date_published: 2024-06-17T14:59:59.149278+00:00
-
- ## Ulusal Toplu Katalog - Tarama
- - [https://www.toplukatalog.gov.tr](https://www.toplukatalog.gov.tr)
- - date_published: 2024-05-02T10:28:48.267143+00:00
-
- ## TRDizin – TRDizin
- - [https://app.trdizin.gov.tr](https://app.trdizin.gov.tr)
- - date_published: 2024-06-17T15:56:57.238633+00:00
-
- ## TRDizin – TRDizin
- - [https://trdizin.gov.tr](https://trdizin.gov.tr)
- - date_published: 2024-06-17T15:27:34.245115+00:00
-
- ## Ana Sayfa - Türk Ulusal Bilim e-Altyapısı
- - [https://portal.truba.gov.tr](https://portal.truba.gov.tr)
- - date_published: 2024-06-17T15:56:54.225424+00:00
-
- ## ARBİS - Araştırmacı Bilgi Sistemi
- - [https://arbis.tubitak.gov.tr](https://arbis.tubitak.gov.tr)
- - date_published: 2024-05-02T10:25:39.528705+00:00
-
- ## | TÜBİMER
- - [https://tubimer.tubitak.gov.tr](https://tubimer.tubitak.gov.tr)
- - date_published: 2024-06-17T15:27:24.219075+00:00
-
- ## TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
- - [https://tubitak.gov.tr](https://tubitak.gov.tr)
- - date_published: 2024-07-08T16:08:44+00:00
-
- ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
- - [https://ulakbim.tubitak.gov.tr](https://ulakbim.tubitak.gov.tr)
- - date_published: 2024-06-17T15:57:15.300855+00:00
-
- ## e-Devlet Kapısı
- - [https://giris.turkiye.gov.tr](https://giris.turkiye.gov.tr)
- - date_published: 2024-06-17T03:48:46.370717+00:00
-
- ## e-Devlet Kapısı Devletin Kısayolu | www.türkiye.gov.tr
- - [https://turkiye.gov.tr](https://turkiye.gov.tr)
- - date_published: 2024-08-07T22:46:12.172442+00:00
-
- ## e-Devlet Kapısı Devletin Kısayolu | www.türkiye.gov.tr
- - [https://www.turkiye.gov.tr](https://www.turkiye.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Türkiye Bursları
- - [https://turkiyeburslari.gov.tr](https://turkiyeburslari.gov.tr)
- - date_published: 2024-06-17T15:10:26.418720+00:00
-
- ## TURNAPortal
- - [https://turnaportal.ua.gov.tr](https://turnaportal.ua.gov.tr)
- - date_published: 2024-06-13T13:52:09+00:00
-
- ## Ulusal Ajans
- - [https://ua.gov.tr](https://ua.gov.tr)
- - date_published: 2024-06-17T15:02:03.211379+00:00
-
- ## ÜAK
-            
-            
-            Ana Sayfa
- - [http://www.uak.gov.tr](http://www.uak.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Açık Veri Açık Bilim – Açık Veri Açık Bilim
- - [https://acikveri.ulakbim.gov.tr](https://acikveri.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:56:52.433924+00:00
-
- ## Aperta - Türkiye Açık Arşivi
- - [https://aperta.ulakbim.gov.tr](https://aperta.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:57:16.744639+00:00
-
- ## Harman Türkiye Akademik Arşivi
- - [https://arsiv.ulakbim.gov.tr](https://arsiv.ulakbim.gov.tr)
- - date_published: 2024-06-04T07:04:55+00:00
-
- ## Cahit Arf Bilgi Merkezi
- - [https://cabim.ulakbim.gov.tr](https://cabim.ulakbim.gov.tr)
- - date_published: 2024-05-02T10:28:35.258103+00:00
-
- ## TÜBİTAK ULAKBİM Etkinlikleri · Ulakbim Etkinlikler Sayfası (Indico)
- - [https://etkinlik.ulakbim.gov.tr](https://etkinlik.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:57:18.548849+00:00
-
- ## Harman Türkiye Akademik Arşivi
- - [https://harman.ulakbim.gov.tr](https://harman.ulakbim.gov.tr)
- - date_published: 2024-06-04T07:04:55+00:00
-
- ## Üniversite Veri Portalı
- - [https://veri.ulakbim.gov.tr](https://veri.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:57:12.574671+00:00
-
- ## ULUSAL AKADEMİK AĞ ve BİLGİ MERKEZİ
- - [https://www.ulakbim.gov.tr](https://www.ulakbim.gov.tr)
- - date_published: 2024-06-17T15:57:00.982884+00:00
-
- ## YÜKSEKÖĞRETİM KURULU
- - [https://akademik.yok.gov.tr](https://akademik.yok.gov.tr)
- - date_published: 2024-05-02T10:26:50.302804+00:00
-
- ## YÖK
-            
-            
-            AnaSayfa
- - [https://burs.yok.gov.tr](https://burs.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://covid19.yok.gov.tr](https://covid19.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Yükseköğretim Bilgi Yönetim Sistemi
- - [https://istatistik.yok.gov.tr](https://istatistik.yok.gov.tr)
- - date_published: 2024-06-17T15:27:25.004889+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://kadincalismalari.yok.gov.tr](https://kadincalismalari.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://odul.yok.gov.tr](https://odul.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK Okul Tanima Sistemi
- - [https://okultanima.yok.gov.tr](https://okultanima.yok.gov.tr)
- - date_published: 2024-06-17T15:10:42.985089+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://oyp.yok.gov.tr](https://oyp.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Ulusal Tez Merkezi | Anasayfa
- - [https://tez.yok.gov.tr](https://tez.yok.gov.tr)
- - date_published: 2024-05-02T10:25:55.267456+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [https://uluslararasi.yok.gov.tr](https://uluslararasi.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## YÖK
-            
-            
-            Ana Sayfa
- - [http://www.yok.gov.tr](http://www.yok.gov.tr)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Yükseköğretim Program Atlası
- - [https://yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr)
- - date_published: 2024-06-17T15:10:40.080702+00:00
-
- ## Yükseköğretim Bilgi Sistemi
- - [https://yoksis.yok.gov.tr](https://yoksis.yok.gov.tr)
- - date_published: 2024-05-02T10:25:40.424402+00:00
-
- ## Yükseköğretim Kalite Kurulu, Yüksek Öğretim Kalite Kurulu Web Sitesi, Higher Education Quality Council Web Site, Higher Education Quality Council of Turkey
- - [https://yokak.gov.tr](https://yokak.gov.tr)
- - date_published: 2024-06-17T15:10:50.544291+00:00
-
- ## Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
- - [https://www.ytb.gov.tr](https://www.ytb.gov.tr)
- - date_published: 2024-06-17T15:10:44.149260+00:00
-
- ## www.make-it-in-germany.com/tr
- - [https://www.make-it-in-germany.info.tr](https://www.make-it-in-germany.info.tr)
- - date_published: 2024-07-13T17:32:28.641639+00:00
-
- ## Open Information Technologies
- - [https://open.info.tr](https://open.info.tr)
- - date_published: 2024-04-25T09:03:53+00:00
-
- ## Saat Kaç? - SaatKac.info.tr
- - [https://saatkac.info.tr](https://saatkac.info.tr)
- - date_published: 2024-05-06T15:13:40.882036+00:00
-
- ## T.C. MİLLÎ EĞİTİM BAKANLIĞI KONYA / SELÇUKLU / Adil Karaağaç Mesleki ve Teknik Anadolu Lisesi
- - [https://akatl.meb.k12.tr](https://akatl.meb.k12.tr)
- - date_published: 2024-07-02T19:30:49.465501+00:00
-
- ## Barkod's Basement
- - [https://b4rkod.net.tr](https://b4rkod.net.tr)
- - date_published: 2024-05-06T15:10:40.776166+00:00
-
- ## Git repository browser
- - [https://git.b4rkod.net.tr](https://git.b4rkod.net.tr)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Ana Sayfa - TRT Kariyer
- - [https://kariyer.trt.net.tr](https://kariyer.trt.net.tr)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## AdımODTÜ
- - [https://adimodtu.org.tr](https://adimodtu.org.tr)
- - date_published: 2024-06-17T15:36:49.392829+00:00
-
- ## IIS 10.0 Detailed Error - 403.0 - ModSecurity Action
- - [https://ankos.org.tr](https://ankos.org.tr)
- - date_published: 2024-06-17T15:00:31.762450+00:00
-
- ## ASİL Derneği | Asil Yardımlaşma Derneği
- - [https://asildernegi.org.tr](https://asildernegi.org.tr)
- - date_published: 2024-07-09T11:38:15.493056+00:00
-
- ## ANADOLU ÜNİVERSİTELER BİRLİĞİ - Anasayfa
- - [https://aub.org.tr](https://aub.org.tr)
- - date_published: 2024-06-17T16:05:30.186225+00:00
-
- ## Creative Commons Türkiye
- - [http://creativecommons.org.tr](http://creativecommons.org.tr)
- - date_published: 2024-07-08T20:19:30.269199+00:00
-
- ## Çocuk Sağlığı ve Hastalıkları Dergisi
- - [https://www.cshd.org.tr](https://www.cshd.org.tr)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Home
- - [https://dergipark.org.tr](https://dergipark.org.tr)
- - date_published: 2024-06-17T15:27:36.933827+00:00
-
- ## GNOME Türkiye
- - [https://gnome.org.tr](https://gnome.org.tr)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## Güvenli Net
- - [https://www.guvenlinet.org.tr](https://www.guvenlinet.org.tr)
- - date_published: 2023-03-14T10:13:48+00:00
-
- ## TSELAK
- - [https://tselak.labkar.org.tr](https://tselak.labkar.org.tr)
- - date_published: 2024-06-17T15:54:37.514962+00:00
-
- ## OSD - Anasayfa
- - [https://www.osd.org.tr](https://www.osd.org.tr)
- - date_published: 2024-08-07T23:00:29.775758+00:00
-
- ## Özgür Yazılım Derneği
- - [https://oyd.org.tr](https://oyd.org.tr)
- - date_published: 2024-07-23T23:43:32.252963+00:00
-
- ## Turkish Journal of Cardiovascular Nursing
- - [https://khd.tkd.org.tr](https://khd.tkd.org.tr)
- - date_published: 2024-07-08T16:36:12.479985+00:00
-
- ## TSE
- - [https://basvuru.tse.org.tr](https://basvuru.tse.org.tr)
- - date_published: 2024-06-17T15:54:40.001658+00:00
-
- ## TSE
- - [https://www.tse.org.tr](https://www.tse.org.tr)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## TÜRKİYE SATRANÇ FEDERASYONU
- - [http://superlig.tsf.org.tr](http://superlig.tsf.org.tr)
- - date_published: 2024-07-20T04:11:20+00:00
-
- ## WWF
- - [https://destek.wwf.org.tr](https://destek.wwf.org.tr)
- - date_published: 2024-07-03T03:00:24.288793+00:00
-
- ## Ana Sayfa
- - [https://wwf.org.tr](https://wwf.org.tr)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## TÜRKÇE YETERLİK SINAVI
- - [https://tys.yee.org.tr](https://tys.yee.org.tr)
- - date_published: 2024-06-17T15:10:30.426089+00:00
-
- ## Capterra işletmeniz için doğru yazılımı bulmanıza yardımcı olur
- - [https://www.capterra.web.tr](https://www.capterra.web.tr)
- - date_published: 2024-07-20T19:26:06.590330+00:00
-
- ## Arızalara genel bakış
- - [https://downdetector.web.tr](https://downdetector.web.tr)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Size Özel Hosting Platformu - Hostinger ile Online Ol
- - [https://www.hostinger.web.tr](https://www.hostinger.web.tr)
- - date_published: 2024-07-12T08:58:34+00:00
-
- ## Axo | The New Standard for Trading
- - [https://www.axo.trade](https://www.axo.trade)
- - date_published: 2024-06-16T05:04:21.736346+00:00
-
- ## Composer – Automated trading platform.
- - [https://app.composer.trade](https://app.composer.trade)
- - date_published: 2024-07-12T15:18:45+00:00
-
- ## Composer – Investing. Built Better.
- - [https://composer.trade](https://composer.trade)
- - date_published: 2024-05-10T06:14:49.942203+00:00
-
- ## Drift | Perpetual Swaps on Solana
- - [https://www.drift.trade](https://www.drift.trade)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Inter Protocol
- - [https://inter.trade](https://inter.trade)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Asia's Largest Web3 Gaming Ecosystem
- - [https://www.jump.trade](https://www.jump.trade)
- - date_published: 2024-06-16T04:33:38.873654+00:00
-
- ## Perpetuals DEX with Aggregated Liquidity
- - [https://app.logx.trade](https://app.logx.trade)
- - date_published: 2024-06-16T04:34:55.537231+00:00
-
- ## Raposa Trend Following
- - [https://raposa.trade](https://raposa.trade)
- - date_published: 2024-04-28T06:09:05.653011+00:00
-
- ## 4170 Trading
- - [https://www.4170.trading](https://www.4170.trading)
- - date_published: 2024-07-21T22:10:16.691161+00:00
-
- ## Loading
- - [https://partners.acronis.training](https://partners.acronis.training)
- - date_published: 2024-06-20T16:17:34+00:00
-
- ## Sign in
- - [https://kiku.aws.training](https://kiku.aws.training)
- - date_published: 2024-06-20T13:06:23+00:00
-
- ## AWS training and certification
- - [https://www.aws.training](https://www.aws.training)
- - date_published: 2024-05-04T15:49:04.950474+00:00
-
- ## Container Training
- - [https://container.training](https://container.training)
- - date_published: 2023-10-25T22:47:15.680138+00:00
-
- ## Docker Orchestration Workshop
- - [https://lisa16t1.container.training](https://lisa16t1.container.training)
- - date_published: 2024-05-02T10:29:23.930792+00:00
-
- ## Deploying and Scaling Microservices with Docker and Kubernetes
- - [https://osseu17.container.training](https://osseu17.container.training)
- - date_published: 2024-05-02T10:29:19.385632+00:00
-
- ## Getting started with Kubernetes and container orchestration
- - [https://pycon2019.container.training](https://pycon2019.container.training)
- - date_published: 2024-05-02T10:29:22.063453+00:00
-
- ## Introduction to Docker and Containers
- - [https://qconsf2017intro.container.training](https://qconsf2017intro.container.training)
- - date_published: 2024-05-02T10:29:20.778958+00:00
-
- ## Getting Started With Kubernetes and Container Orchestration
- - [https://qconuk2019.container.training](https://qconuk2019.container.training)
- - date_published: 2024-05-02T10:29:17.410417+00:00
-
- ## Cierpliwości...
- - [https://data-flair.training](https://data-flair.training)
- - date_published: 2024-06-03T06:29:21.724760+00:00
-
- ## Jamstack.Training
- - [https://jamstack.training](https://jamstack.training)
- - date_published: 2024-06-17T19:26:13.594901+00:00
-
- ## Ringzer0 Training BOOTSTRAP24 February 2024
- - [https://archive.ringzer0.training](https://archive.ringzer0.training)
- - date_published: 2024-02-22T02:29:17+00:00
-
- ## Ringzer0
- - [https://ringzer0.training](https://ringzer0.training)
- - date_published: 2024-05-07T10:15:02.452193+00:00
-
- ## Home - Scos Training
- - [https://scos.training](https://scos.training)
- - date_published: 2015-01-08T08:52:20+00:00
-
- ## Home - SeriousplayTraining
- - [http://seriousplay.training](http://seriousplay.training)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## voidstarsec.training
- - [http://voidstarsec.training](http://voidstarsec.training)
- - date_published: 2024-05-06T13:42:26+00:00
-
- ## Alabama's Official Travel Guide
- - [https://alabama.travel](https://alabama.travel)
- - date_published: 2024-07-03T15:07:51+00:00
-
- ## Homepage - Damanhur Welcome Center
- - [https://damanhur.travel](https://damanhur.travel)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Dolny Śląsk
- - [https://dolnyslask.travel](https://dolnyslask.travel)
- - date_published: 2024-05-12T05:13:20.287633+00:00
-
- ## Inicio | El Salvador
- - [https://elsalvador.travel](https://elsalvador.travel)
- - date_published: 2022-02-14T17:53:04+00:00
-
- ## Heroes Travel Award | World Tourism Network
- - [https://heroes.travel](https://heroes.travel)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Hoku | The best trip planner to organize travel with friends
- - [https://hoku.travel](https://hoku.travel)
- - date_published: 2023-10-25T22:47:19.285427+00:00
-
- ## International Climate & Tourism Partners
- - [https://ictp.travel](https://ictp.travel)
- - date_published: 2024-07-14T14:08:08.991702+00:00
-
- ## Page has moved
- - [http://www.indonesia.travel](http://www.indonesia.travel)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Home | IZI Travel
- - [https://izi.travel](https://izi.travel)
- - date_published: 2024-07-01T21:38:44+00:00
-
- ## JNTO - Official Tourism Guide for Japan Travel
- - [https://www.japan.travel](https://www.japan.travel)
- - date_published: 2024-06-30T06:56:26.598451+00:00
-
- ## Kujawsko-pomorskie.travel
- - [https://kujawsko-pomorskie.travel](https://kujawsko-pomorskie.travel)
- - date_published: 2024-05-12T05:12:51.964596+00:00
-
- ## Lodz.Travel
- - [https://lodz.travel](https://lodz.travel)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Meili
- - [https://search-ux.meili.travel](https://search-ux.meili.travel)
- - date_published: 2024-05-12T05:11:07.239369+00:00
-
- ## Newmarket Holidays - Escorted Tours, Holidays and Cruises
- - [http://www.newmarket.travel](http://www.newmarket.travel)
- - date_published: 2024-07-17T05:24:26.513772+00:00
-
- ## Paducah Convention & Visitors Bureau | Paducah
- - [https://www.paducah.travel](https://www.paducah.travel)
- - date_published: 2024-02-08T22:17:47.446693+00:00
-
- ## Podkarpackie travel
- - [https://podkarpackie.travel](https://podkarpackie.travel)
- - date_published: 2024-07-15T04:52:09+00:00
-
- ## Roame.Travel | Limited time award travel deals | Award flight search & booking
- - [https://roame.travel](https://roame.travel)
- - date_published: 2024-07-29T16:24:55.826299+00:00
-
- ## Sorted Travel - Find the best places to fly to
- - [https://sorted.travel](https://sorted.travel)
- - date_published: 2024-05-09T04:35:48.676995+00:00
-
- ## Home - Pacific Tourism Organisation
- - [https://southpacificislands.travel](https://southpacificislands.travel)
- - date_published: 2024-07-16T17:43:16.978531+00:00
-
- ## Login – Tab.
- - [https://account.tab.travel](https://account.tab.travel)
- - date_published: 2024-06-29T11:19:02.364420+00:00
-
- ## Register – Tab.
- - [https://apply.tab.travel](https://apply.tab.travel)
- - date_published: 2024-06-29T11:18:47.119704+00:00
-
- ## Home | Get more direct bookings and take payments easily
- - [https://book.tab.travel](https://book.tab.travel)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Get more direct bookings and take payments easily
- - [https://business.tab.travel](https://business.tab.travel)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Inicio | Consigue más reservas directas y acepta pagos fácilmente
- - [https://es.business.tab.travel](https://es.business.tab.travel)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Augmenter le nombre de réservations directes et accepter les paiements facilement
- - [https://fr.business.tab.travel](https://fr.business.tab.travel)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Homepage
- - [https://jobs.tab.travel](https://jobs.tab.travel)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Log in to your listing on The Guide
- - [https://listing.tab.travel](https://listing.tab.travel)
- - date_published: 2024-06-29T11:19:01.217185+00:00
-
- ## Página inicial | Obter mais reservas directas e aceitar pagamentos facilmente
- - [https://pt.business.tab.travel](https://pt.business.tab.travel)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Tab Support
- - [https://support.tab.travel](https://support.tab.travel)
- - date_published: 2024-06-29T11:18:54.728914+00:00
-
- ## Find & book any tourism business with The Guide
- - [https://theguide.tab.travel](https://theguide.tab.travel)
- - date_published: 2024-06-29T11:18:57.772671+00:00
-
- ## Home | Get more direct bookings and take payments easily
- - [https://tab.travel](https://tab.travel)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## The Beat - a travel business newsletter
- - [https://thebeat.travel](https://thebeat.travel)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Wanderlab at Tripadvisor | Tripadvisor’s Creative Studio
- - [https://wanderlab.travel](https://wanderlab.travel)
- - date_published: 2024-06-23T09:27:34.037782+00:00
-
- ## World Tourism Network (WTN)
- - [https://wtn.travel](https://wtn.travel)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Yucatán.Travel - Descubre el color de Yucatán | Inicio
- - [http://www.yucatan.travel](http://www.yucatan.travel)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Meet. Feel. Explore - Zadar Tourist Board
- - [https://zadar.travel](https://zadar.travel)
- - date_published: 2024-05-13T14:43:40+00:00
-
- ## 3M Science. Applied to Life. | 3M Trinidad & Tobago
- - [https://www.3m.com.tt](https://www.3m.com.tt)
- - date_published: 2024-08-06T10:37:44.739897+00:00
-
- ## Audi Trinidad & Tobago | Experience the future of premium mobility
- - [http://www.audi.com.tt](http://www.audi.com.tt)
- - date_published: 2024-07-19T20:45:21+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.com.tt](https://visa.com.tt)
- - date_published: 2024-05-12T03:59:43.138670+00:00
-
- ## Will Scott – Web Hacker
- - [http://wills.co.tt](http://wills.co.tt)
- - date_published: 2024-06-16T03:58:45.788830+00:00
-
- ## Visit Tobago | Beaches, Romance & Weddings, Eco Adventure, Culture
- - [https://www.visittobago.gov.tt](https://www.visittobago.gov.tt)
- - date_published: 2024-07-20T05:55:13.367893+00:00
-
- ## Audi Trinidad & Tobago | Experience the future of premium mobility
- - [https://www.audi.tt](https://www.audi.tt)
- - date_published: 2024-07-19T20:45:21+00:00
-
- ## Anthony Birkett
- - [https://birke.tt](https://birke.tt)
- - date_published: 2023-08-28T14:01:27+00:00
-
- ## Contact Andrew Burnett
- - [https://burne.tt](https://burne.tt)
- - date_published: 2024-04-07T18:07:05+00:00
-
- ## Dropbox.com
- - [https://db.tt](https://db.tt)
- - date_published: 2024-05-10T06:49:02.587310+00:00
-
- ## Dust
- - [https://blog.dust.tt](https://blog.dust.tt)
- - date_published: 2024-05-02T10:29:32.745768+00:00
-
- ## Dust Documentation
- - [https://docs.dust.tt](https://docs.dust.tt)
- - date_published: 2024-05-02T10:29:31.633463+00:00
-
- ## Dust - Secure AI assistant with your company's knowledge
- - [https://dust.tt](https://dust.tt)
- - date_published: 2023-10-25T22:47:21.135871+00:00
-
- ## Karbon Based
- - [https://garre.tt](https://garre.tt)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.tt](https://maps.google.tt)
- - date_published: 2024-07-20T07:36:24.154787+00:00
-
- ## Google
- - [https://www.google.tt](https://www.google.tt)
- - date_published: 2024-06-21T22:25:32.277468+00:00
-
- ## Public Notebook
- - [https://notebook.hew.tt](https://notebook.hew.tt)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## IFTTT - Automate business & home
- - [https://ift.tt](https://ift.tt)
- - date_published: 2024-07-18T17:12:34.816396+00:00
-
- ## Texts Joins Automattic
- - [https://ma.tt](https://ma.tt)
- - date_published: 2023-10-25T08:56:15.066408+00:00
- - tags: ['personal']
-
- ## pra.tt
- - [https://pra.tt](https://pra.tt)
- - date_published: 2024-07-13T04:16:40+00:00
-
- ## presco.tt
- - [https://presco.tt](https://presco.tt)
- - date_published: 2024-07-13T04:04:10.406128+00:00
-
- ## Workspace loading…
- - [https://futuresplus.trade.tt](https://futuresplus.trade.tt)
- - date_published: 2024-07-20T03:41:33.888313+00:00
-
- ## Take stories with you. - Wattpad
- - [https://my.w.tt](https://my.w.tt)
- - date_published: 2024-06-19T15:09:36.798171+00:00
-
- ## Wattpad - Where stories live
- - [https://w.tt](https://w.tt)
- - date_published: 2024-05-08T06:04:10.600147+00:00
-
  ## Home
  - [https://wi.tt](https://wi.tt)
  - date_published: 2023-12-22T20:06:34+00:00
@@ -1730,6 +155,10 @@ NMHSs DIRECTORS
  ## Classic Shop - ansis.tv
  - [http://www.ansis.tv](http://www.ansis.tv)
  - date_published: 2013-08-06T20:13:19+00:00
+
+ ## Answers.tv Subscription
+ - [https://www.answers.tv](https://www.answers.tv)
+ - date_published: 2024-08-08T15:37:44.213331+00:00
 
  ## Antalya Haber | Antalya Haberler | Antalya Son Dakika Haberleri
  - [https://antalyahaber.tv](https://antalyahaber.tv)
@@ -1951,6 +380,10 @@ NMHSs DIRECTORS
  ## Index of /
  - [https://login.canalnet.tv](https://login.canalnet.tv)
  - date_published: 2021-03-31T00:00:00+00:00
+
+ ## Canal U | Explorer Comprendre Partager
+ - [http://www.canal-u.tv](http://www.canal-u.tv)
+ - date_published: 2024-08-08T19:07:21+00:00
 
  ## Capped.TV - Turning Fruit into Juice
  - [http://capped.tv](http://capped.tv)
@@ -3119,6 +1552,10 @@ NMHSs DIRECTORS
  - [https://www.socialstudios.tv](https://www.socialstudios.tv)
  - date_published: 2024-06-23T07:57:31+00:00
 
+ ## software-architektur.tv
+ - [https://software-architektur.tv](https://software-architektur.tv)
+ - date_published: 2024-08-07T06:35:26+00:00
+
  ## Join the Sonarr Discord Server!
  - [https://discord.sonarr.tv](https://discord.sonarr.tv)
  - date_published: 2024-05-20T02:46:30.084784+00:00
@@ -4043,4 +2480,1547 @@ NMHSs DIRECTORS
  ## 新視野網頁設計，只做最划算的高CP值網站
  - [https://www.newscan.com.tw](https://www.newscan.com.tw)
  - date_published: 2024-07-04T09:39:17.078497+00:00
+
+ ## OpenTable・餐廳訂位｜餐廳・隨時一鍵訂位
+ - [https://www.opentable.com.tw](https://www.opentable.com.tw)
+ - date_published: 2024-06-30T12:08:43.530983+00:00
+
+ ## 普羅森科技｜桌面型光固化3D列印機｜8K高解析度｜CP值超高輕鬆好上手
+ - [https://phrozen3d.com.tw](https://phrozen3d.com.tw)
+ - date_published: 2024-05-08T12:29:52.545937+00:00
+
+ ## Prolific Technology Inc. (USB to UART / RS232 / Serial)
+ - [https://www.prolific.com.tw](https://www.prolific.com.tw)
+ - date_published: 2024-05-12T06:12:37.284090+00:00
+
+ ## 最佳VPN資金可以購買-最快的VPN服務| PureVPN
+ - [https://www.purevpn.com.tw](https://www.purevpn.com.tw)
+ - date_published: 2021-03-31T09:06:52+00:00
+
+ ## QNAP 網路商城｜線上購買NAS ｜QNAP Store Taiwan
+ - [https://store.qnap.com.tw](https://store.qnap.com.tw)
+ - date_published: 2024-05-21T02:52:17.145568+00:00
+
+ ## Ralph Lauren® 台灣官方網站 | 美國時尚服裝品牌
+ - [https://www.ralphlauren.com.tw](https://www.ralphlauren.com.tw)
+ - date_published: 2024-06-19T23:58:22.971519+00:00
+
+ ## SilverStone
+ - [https://www.silverstonetek.com.tw](https://www.silverstonetek.com.tw)
+ - date_published: 2024-07-04T09:29:13.204523+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.tw](https://www.skyscanner.com.tw)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## 雪諾必克*Snow Peak
+ - [https://www.snowpeak.com.tw](https://www.snowpeak.com.tw)
+ - date_published: 2024-07-15T06:46:42.549315+00:00
+
+ ## Sony Pictures Taiwan | 主頁 Homepage
+ - [http://www.sonypictures.com.tw](http://www.sonypictures.com.tw)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Directory of Taiwan | 台灣指南
+ - [https://directory.taiwannews.com.tw](https://directory.taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:47.994459+00:00
+
+ ## Taiwan News - Voice of the People, Bridge to the World
+ - [https://taiwannews.com.tw](https://taiwannews.com.tw)
+ - date_published: 2024-05-02T10:39:51.243016+00:00
+
+ ## Welcome to TATUNG-OKUMA CO.,LTD
+ - [https://www.tatung-okuma.com.tw](https://www.tatung-okuma.com.tw)
+ - date_published: 2019-10-28T07:26:32+00:00
+
+ ## Terasic Inc. - Expertise in FPGA/ASIC Design
+ - [https://terasic.com.tw](https://terasic.com.tw)
+ - date_published: 2024-05-07T15:42:59.769265+00:00
+
+ ## Toshiba Electronic Components Taiwan Corporation- Hard Disk Drive Division-Client Hard Disk Drive,Enterprise Hard Disk Drive, External Hard Disk Drive, SSD
+ - [http://www.sdd.toshiba.com.tw](http://www.sdd.toshiba.com.tw)
+ - date_published: 2024-07-15T03:28:10.678894+00:00
+
+ ## Tripadvisor： 超過 10 億則飯店、景點和餐廳及更多內容的評論
+ - [https://www.tripadvisor.com.tw](https://www.tripadvisor.com.tw)
+ - date_published: 2024-06-23T09:27:01.079491+00:00
+
+ ## TSMC - Starting Page
+ - [https://supplyonline.tsmc.com.tw](https://supplyonline.tsmc.com.tw)
+ - date_published: 2020-12-22T01:46:33+00:00
+
+ ## TSMC - Starting Page
+ - [https://supply.tsmc.com.tw](https://supply.tsmc.com.tw)
+ - date_published: 2020-12-22T02:47:18+00:00
+
+ ## TWCA - 臺灣網路認證 - 為資安把關，提供SSL憑證、身分識別、電子簽署等網路安全機制
+ - [https://www.twca.com.tw](https://www.twca.com.tw)
+ - date_published: 2024-06-21T15:23:12.147780+00:00
+
+ ## forward
+ - [https://emops.twse.com.tw](https://emops.twse.com.tw)
+ - date_published: 2019-05-31T09:47:58+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://visa.com.tw](https://visa.com.tw)
+ - date_published: 2024-05-12T03:59:40.742905+00:00
+
+ ## Vogue Taiwan
+ - [https://vogue.com.tw](https://vogue.com.tw)
+ - date_published: 2024-05-07T10:58:39.629872+00:00
+
+ ## wicca
+ - [http://www.wicca.com.tw](http://www.wicca.com.tw)
+ - date_published: 2024-06-20T02:53:30+00:00
+
+ ## LCD Display, LCD Display Modules, Display LCD, LCD Panel Manufacturer, Supplier
+ - [https://www.winstar.com.tw](https://www.winstar.com.tw)
+ - date_published: 2024-06-20T17:30:54.372028+00:00
+
+ ## Professional PMOLED Display Manufacturer - WiseChip Semiconductor Inc.
+ - [https://www.wisechip.com.tw](https://www.wisechip.com.tw)
+ - date_published: 2024-06-20T17:33:20.856803+00:00
+
+ ## 智略市場研究
+ - [https://www.wmr.com.tw](https://www.wmr.com.tw)
+ - date_published: 2024-06-17T16:54:04.604001+00:00
+
+ ## Yelp
+ - [https://m.yelp.com.tw](https://m.yelp.com.tw)
+ - date_published: 2024-07-01T06:42:13.043604+00:00
+
+ ## Yelp
+ - [https://yelp.com.tw](https://yelp.com.tw)
+ - date_published: 2024-07-01T06:42:08.129585+00:00
+
+ ## 元大銀行
+ - [https://www.yuantabank.com.tw](https://www.yuantabank.com.tw)
+ - date_published: 2024-06-21T15:22:59.543481+00:00
+
+ ## 教育部《重編國語辭典修訂本》2021
+ - [http://dict.revised.moe.edu.tw](http://dict.revised.moe.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 教育部臺灣客語辭典
+ - [https://hakkadict.moe.edu.tw](https://hakkadict.moe.edu.tw)
+ - date_published: 2024-07-12T05:30:17.720490+00:00
+
+ ## Index of /
+ - [http://alpine.ccns.ncku.edu.tw](http://alpine.ccns.ncku.edu.tw)
+ - date_published: 2024-07-20T15:58:32.401826+00:00
+
+ ## Wiki - 成功大學資工系(所) Wiki 系統
+ - [http://wiki.csie.ncku.edu.tw](http://wiki.csie.ncku.edu.tw)
+ - date_published: 2024-06-22T12:41:42.514452+00:00
+
+ ## NCKU, National Cheng Kung University  - NCKU, 國立成功大學 National Cheng Kung University
+ - [https://www.ncku.edu.tw](https://www.ncku.edu.tw)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 故宮電子報
+ - [https://enews.npm.edu.tw](https://enews.npm.edu.tw)
+ - date_published: 2024-05-02T10:40:24.527107+00:00
+
+ ## 故宮線上學校
+ - [https://ipalace.npm.edu.tw](https://ipalace.npm.edu.tw)
+ - date_published: 2024-01-20T01:20:58+00:00
+
+ ## 清代檔案檢索系統-首頁
+ - [https://qingarchives.npm.edu.tw](https://qingarchives.npm.edu.tw)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## 國立故宮博物院 網路線上報名系統
+ - [https://signup.npm.edu.tw](https://signup.npm.edu.tw)
+ - date_published: 2024-06-17T16:53:51.428522+00:00
+
+ ## Home - CGV | NTHU
+ - [https://cgv.cs.nthu.edu.tw](https://cgv.cs.nthu.edu.tw)
+ - date_published: 2024-06-22T07:30:50.710895+00:00
+
+ ## Home - 台大國際事務處
+ - [https://admissions.ntu.edu.tw](https://admissions.ntu.edu.tw)
+ - date_published: 2023-12-13T00:00:00+00:00
+
+ ## 臺大生輔組官方網站
+ - [https://advisory.ntu.edu.tw](https://advisory.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:05.006429+00:00
+
+ ## 臺大電機之友 | 台大電機之友http://alumni.ee.ntu.edu.tw，於2001年八月一日正式啟用。為提供本系和已畢業系友的聯繫管道及系友間的資訊交流、報導系上的近況、協助提供系友求才或求職資訊。
+ - [http://alumni.ee.ntu.edu.tw](http://alumni.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:21.837099+00:00
+
+ ## 校園公佈欄
+ - [https://ann.cc.ntu.edu.tw](https://ann.cc.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:52.399748+00:00
+
+ ## 國立臺灣大學藝文中心
+ - [https://arts.ntu.edu.tw](https://arts.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:38.028652+00:00
+
+ ## 國立臺灣大學 學務處 | 學生職業生涯發展中心
+ - [https://career.ntu.edu.tw](https://career.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:49.174887+00:00
+
+ ## NTU D-School – D School
+ - [https://dschool.ntu.edu.tw](https://dschool.ntu.edu.tw)
+ - date_published: 2024-07-09T23:40:41+00:00
+
+ ## 我要訂閱臺灣大學電子報
+ - [https://epaper.ntu.edu.tw](https://epaper.ntu.edu.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Document
+ - [https://event.ntu.edu.tw](https://event.ntu.edu.tw)
+ - date_published: 2020-09-22T08:20:24+00:00
+
+ ## 臺大總務處 Office of General Affairs, NTU
+ - [https://ga.ntu.edu.tw](https://ga.ntu.edu.tw)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## æè´èºå¤§
+ - [https://giving.ntu.edu.tw](https://giving.ntu.edu.tw)
+ - date_published: 2024-07-12T01:05:32+00:00
+
+ ## 台大電機所
+ - [https://graduate.ee.ntu.edu.tw](https://graduate.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:55.352313+00:00
+
+ ## 國立臺灣大學重點科技研究學院
+ - [https://gsat.ntu.edu.tw](https://gsat.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:41.283527+00:00
+
+ ## Lab Spotlight, National Taiwan University | Lab Search
+ - [https://labspotlight.ntu.edu.tw](https://labspotlight.ntu.edu.tw)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## 國立臺灣大學 管理學院
+ - [https://management.ntu.edu.tw](https://management.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:33.486173+00:00
+
+ ## 首頁 - 臺大博物館群
+ - [https://museums.ntu.edu.tw](https://museums.ntu.edu.tw)
+ - date_published: 2021-08-18T06:49:26+00:00
+
+ ## myNTU臺大人入口網
+ - [https://my.ntu.edu.tw](https://my.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:55.761073+00:00
+
+ ## NTU Online臺大課程網(46)
+ - [https://nol.ntu.edu.tw](https://nol.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:31.137010+00:00
+
+ ## :: NTU BEATS – Official Quarterly of National Taiwan University ::
+ - [https://ntubeats.ntu.edu.tw](https://ntubeats.ntu.edu.tw)
+ - date_published: 2024-06-30T23:49:29+00:00
+
+ ## NTU HIGHLIGHTS
+ - [https://ntuhighlights.ntu.edu.tw](https://ntuhighlights.ntu.edu.tw)
+ - date_published: 2024-07-04T07:07:24+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://ntuweb.cloud.ntu.edu.tw](https://ntuweb.cloud.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:54.338742+00:00
+
+ ## 2023 NTU INTERNATIONAL MENTORSHIP PROGRAM 臺大國際引路人計畫
+ - [https://oiainternship.ntu.edu.tw](https://oiainternship.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:49.564971+00:00
+
+ ## 首頁
+ - [https://ord.ntu.edu.tw](https://ord.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:46.302313+00:00
+
+ ## View
+ - [https://pe.ntu.edu.tw](https://pe.ntu.edu.tw)
+ - date_published: 2022-10-04T02:37:10+00:00
+
+ ## 臺大出版中心
+ - [https://press.ntu.edu.tw](https://press.ntu.edu.tw)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## DSpace-CRIS
+ - [https://scholars.lib.ntu.edu.tw](https://scholars.lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:35.302191+00:00
+
+ ## åç«èºç£å¤§å­¸ç§æ¸å®¤
+ - [https://sec.ntu.edu.tw](https://sec.ntu.edu.tw)
+ - date_published: 2024-07-10T09:08:54+00:00
+
+ ## NTU Speech Processing Laboratory
+ - [https://speech.ee.ntu.edu.tw](https://speech.ee.ntu.edu.tw)
+ - date_published: 2016-01-11T04:01:47+00:00
+
+ ## NTU 永續辦公室
+ - [https://sustainable.ntu.edu.tw](https://sustainable.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:27.440683+00:00
+
+ ## åç«èºç£å¤§å­¸ç³»çµ±
+ - [https://triangle.ntu.edu.tw](https://triangle.ntu.edu.tw)
+ - date_published: 2024-07-11T07:01:30+00:00
+
+ ## èºå¤§è¨ªå®¢ä¸­å¿
+ - [https://visitorcenter.ntu.edu.tw](https://visitorcenter.ntu.edu.tw)
+ - date_published: 2024-07-10T03:33:10+00:00
+
+ ## VISION & LEARNING LAB
+ - [http://vllab.ee.ntu.edu.tw](http://vllab.ee.ntu.edu.tw)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## 國立臺灣大學 - 電機工程學系
+ - [https://web.ee.ntu.edu.tw](https://web.ee.ntu.edu.tw)
+ - date_published: 2024-07-14T10:35:39.005166+00:00
+
+ ## 臺大校友中心
+ - [https://www.alumni.ntu.edu.tw](https://www.alumni.ntu.edu.tw)
+ - date_published: 2024-07-14T10:37:59.102565+00:00
+
+ ## 台大寫作教學中心 – AWEC
+ - [https://www.awec.ntu.edu.tw](https://www.awec.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:26.367696+00:00
+
+ ## AIMM Research Group - NTU CMLab
+ - [http://www.cmlab.csie.ntu.edu.tw](http://www.cmlab.csie.ntu.edu.tw)
+ - date_published: 2023-03-02T14:13:56+00:00
+
+ ## 國立臺灣大學資訊工程學系
+ - [https://www.csie.ntu.edu.tw](https://www.csie.ntu.edu.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home - CTLD x DLC
+ - [https://www.dlc.ntu.edu.tw](https://www.dlc.ntu.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## 國立臺灣大學 - 電機工程學系
+ - [https://ee.ntu.edu.tw](https://ee.ntu.edu.tw)
+ - date_published: 2024-05-11T10:26:32.434485+00:00
+
+ ## 國立臺灣大學生物資源暨農學院附設農業試驗場
+ - [https://www.farm.ntu.edu.tw](https://www.farm.ntu.edu.tw)
+ - date_published: 2024-07-14T10:39:06.712798+00:00
+
+ ## 未來大學開創未來 | Futurentu | 台北市
+ - [https://www.future.ntu.edu.tw](https://www.future.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:09.504854+00:00
+
+ ## 歡迎來到 國立臺灣大學圖書館 | 國立臺灣大學圖書館
+ - [https://www.lib.ntu.edu.tw](https://www.lib.ntu.edu.tw)
+ - date_published: 2024-07-14T10:38:31.663613+00:00
+
+ ## 國立臺灣大學 學校分部總辦事處網站
+ - [http://www.ntubca.ntu.edu.tw](http://www.ntubca.ntu.edu.tw)
+ - date_published: 2024-01-18T03:06:29+00:00
+
+ ## 國立臺灣大學
+ - [https://www.ntu.edu.tw](https://www.ntu.edu.tw)
+ - date_published: 2024-05-11T10:26:37.157139+00:00
+
+ ## NYCU CSIT Mirror Site
+ - [https://alpine.cs.nycu.edu.tw](https://alpine.cs.nycu.edu.tw)
+ - date_published: 2024-07-20T15:58:27.437749+00:00
+
+ ## 國際電腦漢字及異體字知識庫
+ - [http://chardb.iis.sinica.edu.tw](http://chardb.iis.sinica.edu.tw)
+ - date_published: 2024-07-12T05:06:01.916389+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [https://homepage.iis.sinica.edu.tw](https://homepage.iis.sinica.edu.tw)
+ - date_published: 2024-07-19T01:31:46+00:00
+
+ ## - niche computing science
+ - [https://scm.iis.sinica.edu.tw](https://scm.iis.sinica.edu.tw)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## 中央研究院 兩千年中西曆轉換
+ - [http://sinocal.sinica.edu.tw](http://sinocal.sinica.edu.tw)
+ - date_published: 2024-07-12T05:05:58.043521+00:00
+
+ ## Information
+ - [https://www2020.citi.sinica.edu.tw](https://www2020.citi.sinica.edu.tw)
+ - date_published: 2020-10-23T09:52:02+00:00
+
+ ## Institute of Astronomy & Astrophysics, Academia Sinica
+ - [https://www.asiaa.sinica.edu.tw](https://www.asiaa.sinica.edu.tw)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## {{($state.current.data.pageTitleZH)?$state.current.data.pageTitleZH+' - '+title.zh:title.zh}}
+ - [https://www.citi.sinica.edu.tw](https://www.citi.sinica.edu.tw)
+ - date_published: 2024-05-21T07:42:49+00:00
+
+ ## 中央研究院 資訊科學研究所
+ - [http://www.iis.sinica.edu.tw](http://www.iis.sinica.edu.tw)
+ - date_published: 2024-06-21T16:15:10+00:00
+
+ ## 影視及流行音樂產業局
+ - [https://www.bamid.gov.tw](https://www.bamid.gov.tw)
+ - date_published: 2024-07-03T23:04:10.640812+00:00
+
+ ## 外交部領事事務局全球資訊網
+ - [https://www.boca.gov.tw](https://www.boca.gov.tw)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## 首頁-衛生福利部疾病管制署
+ - [https://www.cdc.gov.tw](https://www.cdc.gov.tw)
+ - date_published: 2024-07-14T10:35:46.063737+00:00
+
+ ## 公務人員保障暨培訓委員會
+ - [http://www.csptc.gov.tw](http://www.csptc.gov.tw)
+ - date_published: 2024-06-17T16:56:43.750124+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [https://cfcmweb.cy.gov.tw](https://cfcmweb.cy.gov.tw)
+ - date_published: 2024-07-16T20:57:44.068550+00:00
+
+ ## 綠色生活
+ - [https://greenliving.epa.gov.tw](https://greenliving.epa.gov.tw)
+ - date_published: 2023-10-19T07:37:14+00:00
+
+ ## 行政院全球資訊網
+ - [https://www.ey.gov.tw](https://www.ey.gov.tw)
+ - date_published: 2024-06-17T16:48:03+00:00
+
+ ## 政府研究資訊系統 GRB
+ - [https://www.grb.gov.tw](https://www.grb.gov.tw)
+ - date_published: 2024-07-03T10:36:47+00:00
+
+ ## 哈客網
+ - [https://wiki.hakka.gov.tw](https://wiki.hakka.gov.tw)
+ - date_published: 2024-07-12T05:29:46.417411+00:00
+
+ ## 首頁-公共政策網路參與平臺
+ - [https://join.gov.tw](https://join.gov.tw)
+ - date_published: 2024-06-17T16:54:56.583309+00:00
+
+ ## 宜蘭博物館家族
+ - [http://families.lym.gov.tw](http://families.lym.gov.tw)
+ - date_published: 2024-06-17T16:56:38+00:00
+
+ ## 蘭陽博物館志工網站
+ - [http://volunteer.lym.gov.tw](http://volunteer.lym.gov.tw)
+ - date_published: 2024-06-17T16:57:08.900313+00:00
+
+ ## 蘭陽博物館
+ - [https://www.lym.gov.tw](https://www.lym.gov.tw)
+ - date_published: 2024-05-02T10:40:50.973302+00:00
+
+ ## Cierpliwości...
+ - [https://accessibility.moda.gov.tw](https://accessibility.moda.gov.tw)
+ - date_published: 2024-05-02T10:40:32.005882+00:00
+
+ ## 中華民國外交部全球資訊網
+ - [https://www.mofa.gov.tw](https://www.mofa.gov.tw)
+ - date_published: 2024-07-07T10:16:39.707813+00:00
+
+ ## 全國法規資料庫
+ - [http://law.moj.gov.tw](http://law.moj.gov.tw)
+ - date_published: 2024-07-12T17:23:26.967208+00:00
+
+ ## 法務部廉政署中文網
+ - [https://www.aac.moj.gov.tw](https://www.aac.moj.gov.tw)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## 行政院公報資訊網
+ - [https://gazette.nat.gov.tw](https://gazette.nat.gov.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 雙語資源網Bilingual Portal
+ - [https://bilingual.ndc.gov.tw](https://bilingual.ndc.gov.tw)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 臺灣女人 –  穿梭的記憶‧臺灣女性流轉年華
+ - [https://women.nmth.gov.tw](https://women.nmth.gov.tw)
+ - date_published: 2024-06-22T12:42:09.578615+00:00
+
+ ## 故宮典藏資料檢索
+ - [https://digitalarchive.npm.gov.tw](https://digitalarchive.npm.gov.tw)
+ - date_published: 2024-06-17T05:25:48+00:00
+
+ ## 故宮南院 | 喬木數位典藏資料庫
+ - [https://i-trees.npm.gov.tw](https://i-trees.npm.gov.tw)
+ - date_published: 2024-06-17T16:53:26.139410+00:00
+
+ ## 國立故宮博物院主管法規共用系統-最新訊息
+ - [https://law.npm.gov.tw](https://law.npm.gov.tw)
+ - date_published: 2024-05-02T10:40:16.228020+00:00
+
+ ## 國立故宮博物院南部院區
+ - [https://south.npm.gov.tw](https://south.npm.gov.tw)
+ - date_published: 2024-05-02T10:40:03.203961+00:00
+
+ ## 國立故宮博物院-國立故宮博物院
+ - [https://www.npm.gov.tw](https://www.npm.gov.tw)
+ - date_published: 2023-11-13T13:46:38.432750+00:00
+ - tags: ['museum']
+
+ ## 首頁 | 新北市立十三行博物館
+ - [http://www.sshm.ntpc.gov.tw](http://www.sshm.ntpc.gov.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 經濟部國際貿易署經貿資訊網
+ - [https://www.trade.gov.tw](https://www.trade.gov.tw)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 桃園市政府海岸及資源循環工程處
+ - [https://www.tyoca.gov.tw](https://www.tyoca.gov.tw)
+ - date_published: 2024-06-17T05:07:10+00:00
+
+ ## TWNIC 財團法人台灣網路資訊中心
+ - [https://www.twnic.net.tw](https://www.twnic.net.tw)
+ - date_published: 2024-07-07T10:15:51.171269+00:00
+
+ ## Homepage
+ - [https://www.ait.org.tw](https://www.ait.org.tw)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## BCSD TAIWAN
+ - [https://bcsd.org.tw](https://bcsd.org.tw)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## CSROC中華民國電腦學會
+ - [http://www.csroc.org.tw](http://www.csroc.org.tw)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## TaiwanICDF
+ - [https://www.icdf.org.tw](https://www.icdf.org.tw)
+ - date_published: 2024-07-14T18:59:01.677595+00:00
+
+ ## Institute for Information Industry(III)
+ - [https://web.iii.org.tw](https://web.iii.org.tw)
+ - date_published: 2024-07-07T10:14:19.737079+00:00
+
+ ## 財團法人陽明海運文化基金會
+ - [http://www.ocam.org.tw](http://www.ocam.org.tw)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## 人格測試
+ - [https://www.oca.scientology.org.tw](https://www.oca.scientology.org.tw)
+ - date_published: 2024-06-17T16:40:49.163698+00:00
+
+ ## 山達基教會：L. 羅恩 賀伯特、戴尼提、什麼是山達基？、書籍、信仰、大衛 密斯凱維吉
+ - [https://www.scientology.org.tw](https://www.scientology.org.tw)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## 山達基宗教：背景、理論和宗教實踐
+ - [https://www.scientologyreligion.org.tw](https://www.scientologyreligion.org.tw)
+ - date_published: 2024-06-06T19:41:35.098169+00:00
+
+ ## 財團法人台灣建築中心 - TABC台灣建築中心
+ - [https://www.tabc.org.tw](https://www.tabc.org.tw)
+ - date_published: 2022-10-06T09:05:21+00:00
+
+ ## 台灣流體傳動工業全球資訊網
+ - [https://www.tfpa.org.tw](https://www.tfpa.org.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 13
+ - [https://13h.tw](https://13h.tw)
+ - date_published: 2022-04-05T19:22:59+00:00
+
+ ## 20th Century Studios Taiwan | Official Website
+ - [https://www.20thcenturystudios.tw](https://www.20thcenturystudios.tw)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## @jihchi
+ - [https://987.tw](https://987.tw)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## AIdea
+ - [https://aidea-web.tw](https://aidea-web.tw)
+ - date_published: 2024-05-10T05:09:47.020373+00:00
+
+ ## Angular 中文文件
+ - [https://angular.tw](https://angular.tw)
+ - date_published: 2024-05-31T11:09:05.729061+00:00
+
+ ## Android 台灣中文網 智慧型手機 免費 遊戲下載 軟體下載 韌體下載 APP下載 刷機教程 -  APK.TW
+ - [https://apk.tw](https://apk.tw)
+ - date_published: 2024-06-29T17:56:49.294194+00:00
+
+ ## Apowersoft - 為您提供專業的商務辦公及日常生活的桌面軟體和線上應用
+ - [https://www.apowersoft.tw](https://www.apowersoft.tw)
+ - date_published: 2024-06-23T16:06:15.736776+00:00
+
+ ## Index of /
+ - [http://mirror.archlinux.tw](http://mirror.archlinux.tw)
+ - date_published: 2024-07-13T17:34:46.097959+00:00
+
+ ## Jasper | AI copilot for enterprise marketing teams
+ - [https://www.ata.tw](https://www.ata.tw)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## BARE: The Google Reader experience for your Twitter timeline.
+ - [https://bare.tw](https://bare.tw)
+ - date_published: 2024-07-20T03:10:14.193522+00:00
+
+ ## 戴尼提和山達基的教材
+ - [https://www.bridgepub.tw](https://www.bridgepub.tw)
+ - date_published: 2024-06-06T20:22:01.491687+00:00
+
+ ## Martin's website/blog thingy
+ - [https://clehaxze.tw](https://clehaxze.tw)
+ - date_published: 2024-06-22T07:00:36.332710+00:00
+ - tags: ['personal']
+
+ ## The 13th Asia Pacific Conference on Vision
+ - [https://apcv2017.conf.tw](https://apcv2017.conf.tw)
+ - date_published: 2024-07-13T11:54:24.697802+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://dcard.tw](http://dcard.tw)
+ - date_published: 2024-06-18T09:32:14.939306+00:00
+
+ ## DDraceNetwork
+ - [https://ddnet.tw](https://ddnet.tw)
+ - date_published: 2024-05-08T10:51:38.449214+00:00
+ - tags: ['open source', 'video game']
+
+ ## 迪卡儂 台灣官方網站 -  降價出清，低至6折，萬種商品，想買就買 - 超取$199 、宅配$499 免運
+ - [https://www.decathlon.tw](https://www.decathlon.tw)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## 戴尼提中文官方網站：購買L. 羅恩 賀伯特的著作，觀看戴尼提相關影片《戴尼提簡介》
+ - [https://www.dianetics.tw](https://www.dianetics.tw)
+ - date_published: 2024-06-17T16:42:22.000718+00:00
+
+ ## DigiKey
+ - [https://www.digikey.tw](https://www.digikey.tw)
+ - date_published: 2024-05-01T05:02:16.567657+00:00
+
+ ## 狀態概覽
+ - [https://downdetector.tw](https://downdetector.tw)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Needs authentication
+ - [https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw](https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw)
+ - date_published: 2024-07-18T22:33:30.746625+00:00
+
+ ## 電競椅 | 家用遊戲椅 | 辦公人體工學椅 | DXRacer
+ - [https://www.dxracer.tw](https://www.dxracer.tw)
+ - date_published: 2024-07-03T12:26:08.197060+00:00
+
+ ## Antivirus and Internet Security Solutions
+ - [http://www.eset.tw](http://www.eset.tw)
+ - date_published: 2024-06-16T06:24:43.548025+00:00
+
+ ## 哇哇3C日誌
+ - [https://ez3c.tw](https://ez3c.tw)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## HTTP Server Test Page powered by CentOS-WebPanel.com
+ - [https://www.fng.tw](https://www.fng.tw)
+ - date_published: 2021-12-21T23:22:40+00:00
+
+ ## Focus Taiwan - CNA English News
+ - [https://focustaiwan.tw](https://focustaiwan.tw)
+ - date_published: 2023-10-25T09:38:54.908021+00:00
+ - tags: ['taiwan news']
+
+ ## CNA Berita Bahasa Indonesia
+ - [https://indonesia.focustaiwan.tw](https://indonesia.focustaiwan.tw)
+ - date_published: 2024-07-16T20:57:00+00:00
+
+ ## フォーカス台湾 - 中央社日本語版
+ - [https://japan.focustaiwan.tw](https://japan.focustaiwan.tw)
+ - date_published: 2024-05-12T07:10:27.558537+00:00
+
+ ## iPhone和Android數據恢復，Mac清潔，免費PDF壓縮器| FoneDog
+ - [https://www.fonedog.tw](https://www.fonedog.tw)
+ - date_published: 2024-06-17T01:35:21+00:00
+
+ ## 山達基內部──<br/>毫無保留的故事
+ - [https://www.freedommag.tw](https://www.freedommag.tw)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Fur Times    獸時報 | 歡迎各位來到 Fur Times 獸時報官方網站！
+ - [https://furtimes.tw](https://furtimes.tw)
+ - date_published: 2024-06-30T06:02:40.462735+00:00
+
+ ## g0v 台灣零時政府
+ - [https://g0v.tw](https://g0v.tw)
+ - date_published: 2024-05-05T06:14:26+00:00
+
+ ## 首頁
+ - [http://www.gousa.tw](http://www.gousa.tw)
+ - date_published: 2024-06-18T18:23:02+00:00
+
+ ## HitPaw 免費線上圖片編輯
+ - [https://online.hitpaw.tw](https://online.hitpaw.tw)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## HPX 輕鬆聚
+ - [https://www.hpx.tw](https://www.hpx.tw)
+ - date_published: 2024-07-04T12:49:56.340321+00:00
+
+ ## 姆明台灣官方商城｜MOOMIN TW ONLINE
+ - [https://iam-moomin.tw](https://iam-moomin.tw)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## The 26th Conference of the International Linear Algebra Society
+ - [https://ilas2025.tw](https://ilas2025.tw)
+ - date_published: 2024-03-10T03:04:16+00:00
+
+ ## Warung168 🐣 Link Game Cek Khodam Online Terbaru
+ - [https://ipv6launch.tw](https://ipv6launch.tw)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Google 翻譯修好了沒？ Has Google Fixed Translate Yet?
+ - [https://isgooglefixed.tw](https://isgooglefixed.tw)
+ - date_published: 2023-10-25T22:47:54.521774+00:00
+ - tags: ['google translate']
+
+ ## kjelly — Cloud engineering, Automation, Networking, Container...
+ - [https://blog.kjelly.tw](https://blog.kjelly.tw)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## Kuro's Blog
+ - [https://kuro.tw](https://kuro.tw)
+ - date_published: 2022-04-14T11:17:49+00:00
+
+ ## Land Rover。四輪傳動車輛與奢華 SUV
+ - [https://www.landrover.tw](https://www.landrover.tw)
+ - date_published: 2024-07-09T17:14:29.332190+00:00
+
+ ## 羅技 Logi 網路旗艦店
+ - [https://store.logitech.tw](https://store.logitech.tw)
+ - date_published: 2024-07-03T16:45:09.686001+00:00
+
+ ## L. 羅恩 賀伯特：Scientology與Dianetics的創始人
+ - [http://www.lronhubbard.tw](http://www.lronhubbard.tw)
+ - date_published: 2024-06-06T19:38:29.316801+00:00
+
+ ## 瑪莎拉蒂官網 - 意大利瑪莎拉蒂豪華轎車-新款轎車 | Maserati TW
+ - [http://www.maserati.tw](http://www.maserati.tw)
+ - date_published: 2024-07-12T05:40:55+00:00
+
+ ## ::: Medialand  Strategy x Digital x Creative x Media :::
+ - [https://medialand.tw](https://medialand.tw)
+ - date_published: 2024-05-11T10:26:07.827983+00:00
+
+ ## Homepage
+ - [https://www.mediatek.tw](https://www.mediatek.tw)
+ - date_published: 2024-07-12T16:26:20.565005+00:00
+
+ ## MOOMIN台灣官方網站
+ - [https://moomin.tw](https://moomin.tw)
+ - date_published: 2024-07-02T08:52:14+00:00
+
+ ## 半導體與電子元件代理商 - 貿澤電子Mouser Electronics 臺灣
+ - [https://www.mouser.tw](https://www.mouser.tw)
+ - date_published: 2024-07-01T20:57:00.453643+00:00
+
+ ## 403 - 禁止: 拒絕存取。
+ - [http://awards.ndm.tw](http://awards.ndm.tw)
+ - date_published: 2024-07-14T10:33:47.709154+00:00
+
+ ## NeoNetwork
+ - [https://neocloud.tw](https://neocloud.tw)
+ - date_published: 2024-05-09T07:50:27.270019+00:00
+
+ ## Newtalk新聞 | Newtalk新聞
+ - [https://newtalk.tw](https://newtalk.tw)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## 任天堂官方網站(台灣)
+ - [https://www.nintendo.tw](https://www.nintendo.tw)
+ - date_published: 2023-03-14T05:24:59+00:00
+
+ ## 點心娛樂 - 娛樂平台
+ - [https://nmn.tw](https://nmn.tw)
+ - date_published: 2024-06-16T02:13:52+00:00
+
+ ## Opel TW | 德藝放閃，新世代專屬德國車，就此啟動
+ - [https://www.opel.tw](https://www.opel.tw)
+ - date_published: 2024-07-09T23:01:44+00:00
+
+ ## Taiwan Public Holidays - PublicHolidays.tw
+ - [https://publicholidays.tw](https://publicholidays.tw)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Pwnable.tw
+ - [https://pwnable.tw](https://pwnable.tw)
+ - date_published: 2024-06-19T22:41:56.472868+00:00
+
+ ## Ruby Conf Taiwan 2023
+ - [https://2023.rubyconf.tw](https://2023.rubyconf.tw)
+ - date_published: 2024-04-02T06:05:40+00:00
+
+ ## sci-hub.tw
+ - [https://sci-hub.tw](https://sci-hub.tw)
+ - date_published: 2024-04-29T04:44:49.425409+00:00
+
+ ## TAICCA 文化內容策進院
+ - [https://taicca.tw](https://taicca.tw)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Taiwan Beats
+ - [https://taiwanbeats.tw](https://taiwanbeats.tw)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## 偽基百科
+ - [https://m.uncyclopedia.tw](https://m.uncyclopedia.tw)
+ - date_published: 2024-07-14T06:13:04.416224+00:00
+
+ ## 偽基百科
+ - [https://uncyclopedia.tw](https://uncyclopedia.tw)
+ - date_published: 2024-05-11T09:39:54.723240+00:00
+
+ ## vTaiwan
+ - [https://info.vtaiwan.tw](https://info.vtaiwan.tw)
+ - date_published: 2023-12-13T09:24:35+00:00
+
+ ## WITTENSTEIN Taiwan
+ - [https://www.wittenstein.tw](https://www.wittenstein.tw)
+ - date_published: 2024-07-15T04:09:58.575469+00:00
+
+ ## Wondershare Account Center
+ - [https://accounts.wondershare.tw](https://accounts.wondershare.tw)
+ - date_published: 2024-07-13T20:28:30.524067+00:00
+
+ ## Wondershare Filmora - 易於使用的影片剪輯軟體
+ - [https://filmora.wondershare.tw](https://filmora.wondershare.tw)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Wondershare PDFelement | All-in-one PDF Editor
+ - [https://pdf.wondershare.tw](https://pdf.wondershare.tw)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Wondershare的幫助中心
+ - [https://support.wondershare.tw](https://support.wondershare.tw)
+ - date_published: 2024-07-13T20:28:32.517696+00:00
+
+ ## Wondershare Virbo -在幾分鐘內產生引人入勝的 AI 影片！
+ - [https://virbo.wondershare.tw](https://virbo.wondershare.tw)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Wondershare 官方網站：創造力、生產力、公用程式
+ - [https://wondershare.tw](https://wondershare.tw)
+ - date_published: 2024-05-11T08:34:28.981950+00:00
+
+ ## Michael 'Six' Silberman
+ - [https://wtf.tw](https://wtf.tw)
+ - date_published: 2023-10-25T22:47:55.846949+00:00
+
+ ## XPPen 繪圖顯示器 | 繪圖板，繪圖更靈敏 | XPPen
+ - [https://www.xppen.tw](https://www.xppen.tw)
+ - date_published: 2024-05-30T18:42:46.137956+00:00
+
+ ## Custom Domain by Bitly
+ - [https://yji.tw](https://yji.tw)
+ - date_published: 2024-06-28T17:36:33+00:00
+
+ ## Zendesk： 完整的客戶服務解決方案
+ - [https://www.zendesk.tw](https://www.zendesk.tw)
+ - date_published: 2020-10-15T12:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.tw](https://www2.zoetis.tw)
+ - date_published: 2024-06-27T09:52:45+00:00
+
+ ## Alexander Rapp
+ - [https://alexander.co.tz](https://alexander.co.tz)
+ - date_published: 2023-08-24T18:31:11+00:00
+
+ ## Grafika Google
+ - [https://images.google.co.tz](https://images.google.co.tz)
+ - date_published: 2024-07-20T07:38:41.786291+00:00
+
+ ## Google
+ - [https://www.google.co.tz](https://www.google.co.tz)
+ - date_published: 2024-06-21T22:22:58.790655+00:00
+
+ ## mcl - Home
+ - [https://mcl.co.tz](https://mcl.co.tz)
+ - date_published: 2024-06-17T17:22:44.960711+00:00
+
+ ## Mwananchi
+ - [https://www.mwananchi.co.tz](https://www.mwananchi.co.tz)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Mwanaspoti
+ - [https://www.mwanaspoti.co.tz](https://www.mwanaspoti.co.tz)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Swahilihub – Swahili Hub – Kitovu Cha Kiswahili
+ - [https://swahilihub.co.tz](https://swahilihub.co.tz)
+ - date_published: 2024-06-17T17:22:53.849825+00:00
+
+ ## The Citizen
+ - [https://www.thecitizen.co.tz](https://www.thecitizen.co.tz)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Welcome to Vodacom Tanzania
+ - [https://vodacom.co.tz](https://vodacom.co.tz)
+ - date_published: 2024-05-07T10:57:53.068593+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.co.tz](https://www2.zoetis.co.tz)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Ministry of Agriculture
+ - [https://www.kilimo.go.tz](https://www.kilimo.go.tz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Login
+ - [https://apps.tsn.go.tz](https://apps.tsn.go.tz)
+ - date_published: 2024-06-12T02:31:37.847647+00:00
+
+ ## Login
+ - [https://circulation.tsn.go.tz](https://circulation.tsn.go.tz)
+ - date_published: 2024-06-12T02:13:58.771636+00:00
+
+ ## Guest Visitor
+ - [https://epaper.tsn.go.tz](https://epaper.tsn.go.tz)
+ - date_published: 2024-06-12T02:15:11.555514+00:00
+
+ ## VERITAS |
+      Voluntary Education and Relief Initiative for Tanzanian Society
+ - [https://veritas.or.tz](https://veritas.or.tz)
+ - date_published: 2024-05-08T09:57:58.050416+00:00
+
+ ## 3М Наука. Втілена в життя.™
+ - [https://www.3m.com.ua](https://www.3m.com.ua)
+ - date_published: 2024-08-06T10:39:05.964100+00:00
+
+ ## Airbnb | Помешкання для відпустки, зруби, будинки на пляжі тощо
+ - [https://airbnb.com.ua](https://airbnb.com.ua)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Комплексная разработка сайтов | AMOSK
+ - [https://amosk.com.ua](https://amosk.com.ua)
+ - date_published: 2020-07-22T00:00:00+00:00
+
+ ## Army SOS is reinforcing Ukraine’s defense capabilities. You can help too!
+ - [https://armysos.com.ua](https://armysos.com.ua)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## BlaBlaCar - пошук надійних попутників | BlaBlaCar
+ - [https://www.blablacar.com.ua](https://www.blablacar.com.ua)
+ - date_published: 2024-06-15T01:00:43.559671+00:00
+
+ ## Побутова техніка Bosch: відчуйте якість, надійність і точність.
+ - [https://www.bosch-home.com.ua](https://www.bosch-home.com.ua)
+ - date_published: 2024-06-16T21:35:26.985239+00:00
+
+ ## Кафедра біотехнології і мікробіології - Національний університет харчових технологій
+ - [http://btmb.com.ua](http://btmb.com.ua)
+ - date_published: 2024-06-17T16:59:52.845433+00:00
+
+ ## Cataloxy   - каталог фірм та організацій, безкоштовне створення сайтів-візиток в Украине
+ - [https://www.cataloxy.com.ua](https://www.cataloxy.com.ua)
+ - date_published: 2024-06-29T19:39:31.651627+00:00
+
+ ## Новини спорту на Чемпіоні ▷ спорт сьогодні онлайн
+ - [https://champion.com.ua](https://champion.com.ua)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## CrazyGames – Безкоштовні онлайн ігри на CrazyGames.com.ua
+ - [https://crazygames.com.ua](https://crazygames.com.ua)
+ - date_published: 2024-05-08T06:51:54.019473+00:00
+
+ ## Веб-студія DForce в Україні | SEO, Розробка, Дизайн
+ - [https://dforce.com.ua](https://dforce.com.ua)
+ - date_published: 2024-05-12T04:55:30.610474+00:00
+
+ ## Dyson.com.ua
+ - [https://www.dyson.com.ua](https://www.dyson.com.ua)
+ - date_published: 2024-07-07T01:56:52.404742+00:00
+
+ ## Новини дня
+ - [https://www.epochtimes.com.ua](https://www.epochtimes.com.ua)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Економічна правда
+ - [https://www.epravda.com.ua](https://www.epravda.com.ua)
+ - date_published: 2024-05-02T10:41:25.084453+00:00
+
+ ## Європейська правда
+ - [https://eurointegration.com.ua](https://eurointegration.com.ua)
+ - date_published: 2024-06-17T16:57:36.419540+00:00
+
+ ## EU-navigator
+ - [https://navigator.eurointegration.com.ua](https://navigator.eurointegration.com.ua)
+ - date_published: 2024-04-09T14:19:46+00:00
+
+ ## Видавництво Фоліо.  Офіційний сайт та інтернет-магазин.
+ - [https://folio.com.ua](https://folio.com.ua)
+ - date_published: 2024-06-17T15:44:47.448680+00:00
+
+ ## Головна
+ - [https://foodandmood.com.ua](https://foodandmood.com.ua)
+ - date_published: 2024-08-07T23:15:10.140932+00:00
+
+ ## FranklinCovey Ukraine | The ultimate competitive advantage
+ - [https://www.franklincovey.com.ua](https://www.franklincovey.com.ua)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Наймайте фрілансерів та знаходьте роботу для фрілансу онлайн
+ - [https://www.freelancer.com.ua](https://www.freelancer.com.ua)
+ - date_published: 2024-06-16T12:00:16.491691+00:00
+
+ ## GizChina.Com.Ua - Офіційна українська версія GizChina
+ - [https://gizchina.com.ua](https://gizchina.com.ua)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Головна - Скарбниця Національного музею історії України
+ - [https://goldenukr.com.ua](https://goldenukr.com.ua)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Голос України - газета Верховної Ради України
+ - [http://www.golos.com.ua](http://www.golos.com.ua)
+ - date_published: 2024-06-17T17:10:55.769413+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.ua](https://images.google.com.ua)
+ - date_published: 2024-07-20T07:38:08.391162+00:00
+
+ ## Google
+ - [https://www.google.com.ua](https://www.google.com.ua)
+ - date_published: 2024-06-17T16:59:04.624712+00:00
+
+ ## Web Hosting and domain name, from only for 1.99€ | Hostico
+ - [https://hostico.com.ua](https://hostico.com.ua)
+ - date_published: 2024-06-16T14:57:04.279823+00:00
+
+ ## Увійдіть до Hostinger
+ - [https://auth.hostinger.com.ua](https://auth.hostinger.com.ua)
+ - date_published: 2024-07-13T16:43:52.807085+00:00
+
+ ## Хостинг від Hostinger Україна - Розмістіть сайт від 29₴/міс
+ - [https://hostinger.com.ua](https://hostinger.com.ua)
+ - date_published: 2024-05-11T07:50:44.220946+00:00
+
+ ## Exhibitions in Kyiv
+ - [https://www.iec-expo.com.ua](https://www.iec-expo.com.ua)
+ - date_published: 2024-06-15T21:19:27+00:00
+
+ ## energy chains, polymer bearings, flexible cable, &amp; linear slides
+ - [https://www.igus.com.ua](https://www.igus.com.ua)
+ - date_published: 2024-08-06T23:12:33.033003+00:00
+
+ ## Удобный ТАТУ Магазин Украины INKED. Все для Тату в Киеве: оборудование, инструменты
+ - [https://inked.com.ua](https://inked.com.ua)
+ - date_published: 2024-05-08T09:02:45.195144+00:00
+
+ ## Interfax-Ukraine - news from Ukraine and the world
+ - [https://en.interfax.com.ua](https://en.interfax.com.ua)
+ - date_published: 2024-02-28T13:12:33.772179+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://interfax.com.ua](https://interfax.com.ua)
+ - date_published: 2024-05-02T10:41:31.084008+00:00
+
+ ## Історична правда
+ - [https://www.istpravda.com.ua](https://www.istpravda.com.ua)
+ - date_published: 2024-05-02T10:41:23.060881+00:00
+
+ ## Jeep® SUVs & Crossovers - Official Jeep Site
+ - [https://www.jeep-official.com.ua](https://www.jeep-official.com.ua)
+ - date_published: 2024-06-19T09:08:17.098921+00:00
+
+ ## Интернет магазин автозапчастей Jparts - подбор запчастей по vin коду онлайн, купить автозапчасти в Киеве и Одессе на сайте jparts.com.ua
+ - [https://jparts.com.ua](https://jparts.com.ua)
+ - date_published: 2024-07-20T11:32:56.696847+00:00
+
+ ## Домашня сторінка КМІС
+ - [https://kiis.com.ua](https://kiis.com.ua)
+ - date_published: 2024-05-09T06:32:16.742874+00:00
+
+ ## Погода в Україні та світі
+ - [https://meteofor.com.ua](https://meteofor.com.ua)
+ - date_published: 2024-06-17T17:20:08.859526+00:00
+
+ ## Nexinsight - Data Marketplace & Insight Tracker
+ - [https://nexinsight.com.ua](https://nexinsight.com.ua)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Ntema – технологии качества – NTema - технологии качества
+ - [https://ntema.com.ua](https://ntema.com.ua)
+ - date_published: 2024-07-09T08:37:19.479649+00:00
+
+ ## Network Tools - сетевое и WiFi оборудование в Киеве и Украине. Продажа и доставка.
+ - [https://ntools.com.ua](https://ntools.com.ua)
+ - date_published: 2024-07-09T08:37:23.886748+00:00
+
+ ## Все для татуажа в Украине, Киеве. Интернет магазин оборудования, материалов для перманентного макияжа
+ - [https://pmpro.com.ua](https://pmpro.com.ua)
+ - date_published: 2024-05-08T09:02:41.465817+00:00
+
+ ## PocketBook
+ - [https://pocketbook.com.ua](https://pocketbook.com.ua)
+ - date_published: 2024-07-20T16:13:06.373431+00:00
+
+ ## Погода & Радар Україна
+ - [https://pogodairadar.com.ua](https://pogodairadar.com.ua)
+ - date_published: 2024-05-07T13:25:14.492211+00:00
+
+ ## Платіжна система Portmone.com — оплати онлайн в Україні
+ - [https://www.portmone.com.ua](https://www.portmone.com.ua)
+ - date_published: 2024-06-17T17:13:03.207817+00:00
+
+ ## Блоги - Українська правда
+ - [https://blogs.pravda.com.ua](https://blogs.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:21.345623+00:00
+
+ ## Клуб УП
+ - [https://cabinet.pravda.com.ua](https://cabinet.pravda.com.ua)
+ - date_published: 2024-06-17T16:58:58.454241+00:00
+
+ ## Українська правда
+ - [https://club.pravda.com.ua](https://club.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:38.662458+00:00
+
+ ## Доступ до правди
+ - [https://dostup.pravda.com.ua](https://dostup.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:19.404639+00:00
+
+ ## Політичний ФОРУМ - Головна форума - Форум Української Правди
+ - [https://forum.pravda.com.ua](https://forum.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:15.787851+00:00
+
+ ## УП. Життя - новини про здоров'я, психологія та соціум
+ - [https://life.pravda.com.ua](https://life.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:14.359297+00:00
+
+ ## Промокоди на знижку до 60% ❤ Вигідні акції, бонуси та купони • Promokod.pravda.com.ua
+ - [https://promokod.pravda.com.ua](https://promokod.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:41.535039+00:00
+
+ ## РўР°Р±Р»РѕID
+ - [https://tabloid.pravda.com.ua](https://tabloid.pravda.com.ua)
+ - date_published: 2024-05-02T10:41:17.848192+00:00
+
+ ## Українська правда
+ - [https://www.pravda.com.ua](https://www.pravda.com.ua)
+ - date_published: 2023-10-31T19:10:45.452974+00:00
+ - tags: ['ukraine news']
+
+ ## Cierpliwości...
+ - [https://rozetka.com.ua](https://rozetka.com.ua)
+ - date_published: 2024-06-30T09:28:00.293698+00:00
+
+ ## Консультации и тренинги по переговором по всему миру | Scotwork Украина
+ - [https://www.scotwork.com.ua](https://www.scotwork.com.ua)
+ - date_published: 2024-06-18T09:42:48.593833+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgsgroup.com.ua](https://www.sgsgroup.com.ua)
+ - date_published: 2024-06-26T10:38:36.419892+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.com.ua](https://www.skyscanner.com.ua)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## #StandWithUkraine - Support Ukraine against Russian Aggression
+ - [https://standwithukraine.com.ua](https://standwithukraine.com.ua)
+ - date_published: 2024-07-10T01:55:56.839192+00:00
+
+ ## Superprof — спільнота репетиторів
+ - [https://www.superprof.com.ua](https://www.superprof.com.ua)
+ - date_published: 2024-06-15T01:27:35.406321+00:00
+
+ ## Ігрові автомати на гроші онлайн - Кращі гральні слоти в Україні
+ - [https://svitua.com.ua](https://svitua.com.ua)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Безкоштовні психологічні консультації. Ваша підтримка поруч!
+ - [https://tellme.com.ua](https://tellme.com.ua)
+ - date_published: 2024-07-01T10:48:34+00:00
+
+ ## Головні новини України - THE-NEWS.com.ua
+ - [https://the-news.com.ua](https://the-news.com.ua)
+ - date_published: 2023-11-03T17:12:53.092066+00:00
+
+ ## Онлайн казино Украины 2024 ⇒ ТОП рейтинг онлайн казино на реальные деньги
+ - [https://ua1.com.ua](https://ua1.com.ua)
+ - date_published: 2024-06-28T18:37:30.849686+00:00
+
+ ## Лікування в Україні: клініки, готелі, тури, лікування хронічних захворювань в Україні - UaMedTours - UAmedTOURS
+ - [https://uamedtours.com.ua](https://uamedtours.com.ua)
+ - date_published: 2024-07-08T13:58:51.097067+00:00
+
+ ## Хостинг Україна - купити хостинг в Україні
+ - [https://www.ukraine.com.ua](https://www.ukraine.com.ua)
+ - date_published: 2024-05-01T06:34:26.284162+00:00
+
+ ## Провідний інформаційний сайт в пакувальній індустрії | ІАЦ  Упаковка
+ - [http://www.upakjour.com.ua](http://www.upakjour.com.ua)
+ - date_published: 2024-06-17T17:06:35.310810+00:00
+
+ ## Україна За кермом ᐉ тест-драйви, автоновини, огляди
+ - [https://uzr.com.ua](https://uzr.com.ua)
+ - date_published: 2024-08-07T22:59:31+00:00
+
+ ## Тренажер з правопису української мови. Вправи онлайн (on-line).
+ - [http://webpen.com.ua](http://webpen.com.ua)
+ - date_published: 2023-07-21T19:56:15+00:00
+
+ ## Workfit - приложение для поиска фитнес тренера | UA
+ - [https://workfit.com.ua](https://workfit.com.ua)
+ - date_published: 2022-08-04T00:00:00+00:00
+
+ ## DSpace Repository :: Home
+ - [https://ir.kneu.edu.ua](https://ir.kneu.edu.ua)
+ - date_published: 2024-05-07T18:21:53.889327+00:00
+
+ ## Львівський національний університет ветеринарної медицини та біотехнологій імені С. З. Ґжицького
+ - [http://vstup.lvet.edu.ua](http://vstup.lvet.edu.ua)
+ - date_published: 2024-07-09T07:28:38.321245+00:00
+
+ ## Факультет АКС НУХТ
+ - [http://acs.nuft.edu.ua](http://acs.nuft.edu.ua)
+ - date_published: 2024-06-17T16:59:49.888824+00:00
+
+ ## Кафедра БПБВ
+ - [http://bpbv.nuft.edu.ua](http://bpbv.nuft.edu.ua)
+ - date_published: 2024-06-17T17:06:32.862180+00:00
+
+ ## НАЦІОНАЛЬНИЙ УНІВЕРСИТЕТ ХАРЧОВИХ ТЕХНОЛОГІЙ
+ - [https://cde.nuft.edu.ua](https://cde.nuft.edu.ua)
+ - date_published: 2024-05-02T10:42:17.269443+00:00
+
+ ## eNUFTIR :: Репозитарій НУХТ :: Головна
+ - [https://dspace.nuft.edu.ua](https://dspace.nuft.edu.ua)
+ - date_published: 2024-05-02T10:42:25.273704+00:00
+
+ ## ННІ ЕіУ – Навчально-науковий інститут економіки і управління НУХТ
+ - [http://eiu.nuft.edu.ua](http://eiu.nuft.edu.ua)
+ - date_published: 2024-06-17T17:05:56.363330+00:00
+
+ ## ЕХП НУХТ
+ - [http://expert.nuft.edu.ua](http://expert.nuft.edu.ua)
+ - date_published: 2024-06-17T17:06:30.323705+00:00
+
+ ## ПІДГОТОВЧЕ ВІДДІЛЕННЯ
+ - [https://fdo.nuft.edu.ua](https://fdo.nuft.edu.ua)
+ - date_published: 2024-05-02T10:42:15.931219+00:00
+
+ ## ГРС НУХТ
+ - [http://grs.nuft.edu.ua](http://grs.nuft.edu.ua)
+ - date_published: 2024-06-17T16:59:33.603243+00:00
+
+ ## hlib.nuft.edu.ua
+ - [http://hlib.nuft.edu.ua](http://hlib.nuft.edu.ua)
+ - date_published: 2024-06-17T17:06:02.978254+00:00
+
+ ## Національний університет харчових технологій | НУХТ
+ - [https://nmu.nuft.edu.ua](https://nmu.nuft.edu.ua)
+ - date_published: 2023-10-31T14:16:18+00:00
+
+ ## nniti.nuft.edu.ua
+ - [http://nniti.nuft.edu.ua](http://nniti.nuft.edu.ua)
+ - date_published: 2024-06-17T17:06:18.422322+00:00
+
+ ## Національний університет харчових технологій
+ - [https://nuft.edu.ua](https://nuft.edu.ua)
+ - date_published: 2024-02-08T16:28:36.617149+00:00
+
+ ## Gmail
+ - [https://webmail.nuft.edu.ua](https://webmail.nuft.edu.ua)
+ - date_published: 2024-05-02T10:41:48.832679+00:00
+
+ ## Університет Короля Данила
+ - [https://ukd.edu.ua](https://ukd.edu.ua)
+ - date_published: 2024-07-05T11:45:05+00:00
+
+ ## Навчальні посібники Вінницького національного технічного університету. Каталоги та пошук
+ - [https://posibnyky.vntu.edu.ua](https://posibnyky.vntu.edu.ua)
+ - date_published: 2024-05-03T08:38:15+00:00
+
+ ## Національний банк України
+ - [https://bank.gov.ua](https://bank.gov.ua)
+ - date_published: 2024-05-01T05:43:21.169124+00:00
+
+ ## Мікросайти та мобільні застосунки
+ - [https://events.bank.gov.ua](https://events.bank.gov.ua)
+ - date_published: 2024-06-16T05:25:14.654679+00:00
+
+ ## Гаразд – це безкоштовна онлайн-платформа для підвищення рівня фінансової грамотності
+ - [https://harazd.bank.gov.ua](https://harazd.bank.gov.ua)
+ - date_published: 2024-06-16T05:25:24.443777+00:00
+
+ ## Музей грошей Національного банку України
+ - [https://museum.bank.gov.ua](https://museum.bank.gov.ua)
+ - date_published: 2024-06-16T05:25:37.418838+00:00
+
+ ## Power Banking
+ - [https://power.bank.gov.ua](https://power.bank.gov.ua)
+ - date_published: 2024-06-16T05:25:50.943689+00:00
+
+ ## Центр фінансових знань “Талан”
+ - [https://talan.bank.gov.ua](https://talan.bank.gov.ua)
+ - date_published: 2024-06-16T05:25:44.831591+00:00
+
+ ## Web Chat
+ - [https://webchat.bank.gov.ua](https://webchat.bank.gov.ua)
+ - date_published: 2024-06-16T05:25:17.631994+00:00
+
+ ## Конституційний Суд України | Офіційний вебсайт
+ - [https://ccu.gov.ua](https://ccu.gov.ua)
+ - date_published: 2024-06-17T16:14:26+00:00
+
+ ## HTTP Server Test Page powered by CentOS
+ - [https://sv1.ccu.gov.ua](https://sv1.ccu.gov.ua)
+ - date_published: 2021-07-03T13:48:21+00:00
+
+ ## CERT-UA
+ - [https://cert.gov.ua](https://cert.gov.ua)
+ - date_published: 2024-04-29T02:59:46.702609+00:00
+
+ ## Портал відкритих даних
+ - [http://data.gov.ua](http://data.gov.ua)
+ - date_published: 2021-01-26T00:00:00+00:00
+
+ ## Дія. Платформа Центрів
+ - [https://center.diia.gov.ua](https://center.diia.gov.ua)
+ - date_published: 2024-06-17T17:10:02.104599+00:00
+
+ ## Дія — Державні послуги онлайн
+ - [https://diia.gov.ua](https://diia.gov.ua)
+ - date_published: 2024-06-17T17:08:25.600846+00:00
+
+ ## Офіційний сайт
+ - [https://dmsu.gov.ua](https://dmsu.gov.ua)
+ - date_published: 2024-06-17T17:06:08.007204+00:00
+
+ ## Державна служба України з питань праці - Державна служба України з питань праці
+ - [https://dsp.gov.ua](https://dsp.gov.ua)
+ - date_published: 2024-06-17T17:10:10.054539+00:00
+
+ ## Реєстри | ЄДИНА ДЕРЖАВНА ЕЛЕКТРОННА БАЗА з питань ОСВІТИ
+ - [https://info.edbo.gov.ua](https://info.edbo.gov.ua)
+ - date_published: 2024-06-17T17:07:37.684730+00:00
+
+ ## Заклади вищої освіти | Реєстр суб'єктів освітньої діяльності
+ - [https://registry.edbo.gov.ua](https://registry.edbo.gov.ua)
+ - date_published: 2024-05-02T10:41:54.729551+00:00
+
+ ## Головне управління розвідки МО України
+ - [https://gur.gov.ua](https://gur.gov.ua)
+ - date_published: 2024-07-01T10:30:08+00:00
+
+ ## Інститут модернізації змісту освіти
+ - [https://imzo.gov.ua](https://imzo.gov.ua)
+ - date_published: 2024-06-17T17:09:58.981266+00:00
+
+ ## Електронна бібліотека
+ - [https://lib.imzo.gov.ua](https://lib.imzo.gov.ua)
+ - date_published: 2024-06-17T17:10:12.832413+00:00
+
+ ## European integration portal
+ - [https://eu-ua.kmu.gov.ua](https://eu-ua.kmu.gov.ua)
+ - date_published: 2024-06-17T17:08:28.846745+00:00
+
+ ## Електронні петиції до Кабінету Міністрів України
+ - [https://petition.kmu.gov.ua](https://petition.kmu.gov.ua)
+ - date_published: 2023-08-30T21:00:01+00:00
+
+ ## Кабінет Міністрів України - Головна
+ - [https://www.kmu.gov.ua](https://www.kmu.gov.ua)
+ - date_published: 2024-05-02T10:42:04.299791+00:00
+
+ ## Безоплатна правнича допомога
+ - [https://legalaid.gov.ua](https://legalaid.gov.ua)
+ - date_published: 2019-05-08T09:59:33+00:00
+
+ ## Міністерство економіки України
+ - [http://www.me.gov.ua](http://www.me.gov.ua)
+ - date_published: 2024-06-17T17:08:40.945731+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://czechia.mfa.gov.ua](https://czechia.mfa.gov.ua)
+ - date_published: 2024-07-17T08:37:26.215317+00:00
+
+ ## Міністерство
+ - [http://www.mil.gov.ua](http://www.mil.gov.ua)
+ - date_published: 2024-06-15T21:19:10.140758+00:00
+
+ ## Національний проєкт з медіаграмотності Міністерства культури та інформаційної політики
+ - [https://filter.mkip.gov.ua](https://filter.mkip.gov.ua)
+ - date_published: 2024-07-15T02:17:03+00:00
+
+ ## Міністерство освіти і науки України - Головна
+ - [https://mon.gov.ua](https://mon.gov.ua)
+ - date_published: 2024-05-02T10:42:27.016861+00:00
+
+ ## | Головна
+ - [https://numo.mon.gov.ua](https://numo.mon.gov.ua)
+ - date_published: 2024-06-17T17:10:04.156572+00:00
+
+ ## Cierpliwości...
+ - [https://moz.gov.ua](https://moz.gov.ua)
+ - date_published: 2024-06-17T17:13:11.775016+00:00
+
+ ## Національне агентство України з питань державної служби - Головна
+ - [https://nads.gov.ua](https://nads.gov.ua)
+ - date_published: 2024-06-17T17:08:05.246896+00:00
+
+ ## Уповноважений Верховної Ради України з прав людини - Головна
+ - [http://www.ombudsman.gov.ua](http://www.ombudsman.gov.ua)
+ - date_published: 2024-06-17T17:10:34.149085+00:00
+
+ ## Електронні петиції — Офіційне інтернет-представництво Президента України
+ - [https://petition.president.gov.ua](https://petition.president.gov.ua)
+ - date_published: 2024-05-02T10:42:34.003714+00:00
+
+ ## Офіційне інтернет-представництво Президента України
+ - [https://president.gov.ua](https://president.gov.ua)
+ - date_published: 2024-06-17T17:10:51.754134+00:00
+
+ ## Головна | Фотобанк
+ - [https://fotobank.rada.gov.ua](https://fotobank.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:00.969315+00:00
+
+ ## Glory to Ukraine - charitable foundation
+ - [https://glory2ukraine.rada.gov.ua](https://glory2ukraine.rada.gov.ua)
+ - date_published: 2024-03-13T15:01:21+00:00
+
+ ## Електронний кабінет громадянина
+ - [http://itd.rada.gov.ua](http://itd.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:03.383101+00:00
+
+ ## Бібліотечні ресурси
+ - [http://lib.rada.gov.ua](http://lib.rada.gov.ua)
+ - date_published: 2024-06-17T17:10:50.290112+00:00
+
+ ## Освітній центр
+ - [https://osvita.rada.gov.ua](https://osvita.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:02.169185+00:00
+
+ ## Офіційний портал Верховної Ради України
+ - [http://rada.gov.ua](http://rada.gov.ua)
+ - date_published: 2024-06-17T17:08:00.457907+00:00
+
+ ## Дослідницька служба Верховної Ради України
+ - [https://research.rada.gov.ua](https://research.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:04.571356+00:00
+
+ ## Äèðåêö³ÿ Òåëåðàä³îïðîãðàì Âåðõîâíî¿ Ðàäè Óêðà¿íè
+ - [http://tv.rada.gov.ua](http://tv.rada.gov.ua)
+ - date_published: 2023-11-24T14:55:18+00:00
+
+ ## Управління кадрів
+ - [https://vrkadry.rada.gov.ua](https://vrkadry.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:13.182205+00:00
+
+ ## Управління з питань звернень громадян
+ - [http://vzvernen.rada.gov.ua](http://vzvernen.rada.gov.ua)
+ - date_published: 2024-06-17T17:10:59.081958+00:00
+
+ ## Офіційний портал Верховної Ради України
+ - [https://www.rada.gov.ua](https://www.rada.gov.ua)
+ - date_published: 2024-05-02T10:42:37.501581+00:00
+
+ ## Про Реєстр НПА
+ - [https://www.reestrnpa.gov.ua](https://www.reestrnpa.gov.ua)
+ - date_published: 2024-05-02T10:41:57.724310+00:00
+
+ ## Рада національної безпеки і оборони України
+ - [https://rnbo.gov.ua](https://rnbo.gov.ua)
+ - date_published: 2024-05-12T16:18:33.036674+00:00
+
+ ## Spending - Єдиний веб-портал використання публічних коштів
+ - [https://spending.gov.ua](https://spending.gov.ua)
+ - date_published: 2024-06-17T17:08:21.885992+00:00
+
+ ## Головна сторінка  :: Служба безпеки України
+ - [https://ssu.gov.ua](https://ssu.gov.ua)
+ - date_published: 2024-08-07T15:00:40.581853+00:00
+
+ ## Study in Ukraine – Ukrainian State Center for International Education
+ - [http://studyinukraine.gov.ua](http://studyinukraine.gov.ua)
+ - date_published: 2024-06-17T17:06:15.807527+00:00
+
+ ## Державна податкова служба України
+ - [https://tax.gov.ua](https://tax.gov.ua)
+ - date_published: 2024-06-17T17:10:07.613469+00:00
+
+ ## Кабінет учасника
+ - [https://my.testportal.gov.ua](https://my.testportal.gov.ua)
+ - date_published: 2024-06-17T17:09:15.239058+00:00
+
+ ## Pisa Ukraine - дослідження заради якості освіти
+ - [http://pisa.testportal.gov.ua](http://pisa.testportal.gov.ua)
+ - date_published: 2024-06-17T17:10:05.191771+00:00
+
+ ## Український центр оцінювання якості освіти
+ - [https://testportal.gov.ua](https://testportal.gov.ua)
+ - date_published: 2024-05-02T10:42:14.808737+00:00
+
+ ## Міністерство цифрової трансформації України
+ - [https://thedigital.gov.ua](https://thedigital.gov.ua)
+ - date_published: 2024-07-08T11:34:34.499313+00:00
+
+ ## UNITED24 - The initiative of the President of Ukraine
+ - [https://u24.gov.ua](https://u24.gov.ua)
+ - date_published: 2024-04-28T05:56:38.894735+00:00
+
+ ## Український інститут національної пам'яті - офіційний веб-сайт
+ - [https://uinp.gov.ua](https://uinp.gov.ua)
+ - date_published: 2024-07-15T03:14:18.439344+00:00
+
+ ## Урядовий контактний центр »
+ - [https://ukc.gov.ua](https://ukc.gov.ua)
+ - date_published: 2024-06-17T17:08:16.691717+00:00
+
+ ## Головна
+ - [https://apostille.in.ua](https://apostille.in.ua)
+ - date_published: 2024-06-17T17:06:20.713122+00:00
+
+ ## Арсен Мосійчук
+ - [https://arsenmosiichuk.in.ua](https://arsenmosiichuk.in.ua)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Благодійний фонд "Повернись живим" - допомoга ЗСУ
+ - [https://www.comebackalive.in.ua](https://www.comebackalive.in.ua)
+ - date_published: 2024-06-27T12:48:30.940238+00:00
+
+ ## Home — Debiania
+ - [https://blog.debiania.in.ua](https://blog.debiania.in.ua)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## ВСЕУКРАЇНСЬКИЙ ПРОЄКТ З ПРОФОРІЄНТАЦІЇ  ТА ПОБУДОВИ КАР’ЄРИ
+ - [https://hryoutest.in.ua](https://hryoutest.in.ua)
+ - date_published: 2024-06-17T17:10:18.311014+00:00
+
+ ## Розробка та просування сайтів в Україні – веб студія «Jam»
+ - [https://jam.in.ua](https://jam.in.ua)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Міжнародний центр математики в Україні
+ - [https://mathcentre.in.ua](https://mathcentre.in.ua)
+ - date_published: 2024-07-13T03:06:43.039550+00:00
+
+ ## Militarnyi
+ - [https://mil.in.ua](https://mil.in.ua)
+ - date_published: 2024-01-03T16:08:05.494735+00:00
+
+ ## moyamova.in.ua
+ - [https://www.moyamova.in.ua](https://www.moyamova.in.ua)
+ - date_published: 2024-06-17T17:10:14.277377+00:00
+
+ ## Home
+ - [http://nuft.in.ua](http://nuft.in.ua)
+ - date_published: 2024-06-17T17:07:47.373489+00:00
+
+ ## Home
+ - [https://www.nuft.in.ua](https://www.nuft.in.ua)
+ - date_published: 2024-05-02T10:41:52.911389+00:00
+
+ ## Онлайн казино Украины топ рейтинг казино на деньги 2024
+ - [https://onlinecasino.in.ua](https://onlinecasino.in.ua)
+ - date_published: 2024-06-21T21:03:01.101993+00:00
+
+ ## Казино онлайн України – Рейтинг топ online casino від Prointernet
+ - [https://www.prointernet.in.ua](https://www.prointernet.in.ua)
+ - date_published: 2024-06-17T16:57:23+00:00
+
+ ## Обійми Дощу / Obiymy Doschu
+ - [https://rain.in.ua](https://rain.in.ua)
+ - date_published: 2024-06-26T22:40:45.605600+00:00
+
+ ## Благодійний фонд "Повернись живим" - допомoга ЗСУ
+ - [https://savelife.in.ua](https://savelife.in.ua)
+ - date_published: 2024-05-02T10:42:41.618877+00:00
+
+ ## Освіта під загрозою
+ - [https://saveschools.in.ua](https://saveschools.in.ua)
+ - date_published: 2024-06-03T00:00:00+00:00
 

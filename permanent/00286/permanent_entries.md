@@ -1,3 +1,97 @@
+ ## The Hospital Leader: Official Blog of the Society of Hospital Medicine
+ - [http://thehospitalleader.org](http://thehospitalleader.org)
+ - date_published: 2024-06-28T12:39:06.779999+00:00
+
+ ## National Domestic Violence Hotline
+ - [https://www.thehotline.org](https://www.thehotline.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## The House I Live in - Justice Reimagined
+ - [http://www.thehouseilivein.org](http://www.thehouseilivein.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## The Hub Project
+ - [https://thehubproject.org](https://thehubproject.org)
+ - date_published: 2024-06-19T16:59:06.694980+00:00
+
+ ## The Hugo Awards
+ - [https://thehugoawards.org](https://thehugoawards.org)
+ - date_published: 2024-01-23T13:58:38+00:00
+ - tags: ['fantasy books', 'science-fiction', 'awards', 'book reviews', 'fantasy']
+
+ ## Guidance for Self-organising Teams | The Hum
+ - [https://thehum.org](https://thehum.org)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## TheHumanist.com
+ - [http://thehumanist.org](http://thehumanist.org)
+ - date_published: 2024-05-15T03:03:28.419353+00:00
+
+ ## Hume Initiative
+ - [https://thehumeinitiative.org](https://thehumeinitiative.org)
+ - date_published: 2024-07-11T14:23:12.289997+00:00
+
+ ## Home - International Association of Chiefs of Police
+ - [https://engage.theiacp.org](https://engage.theiacp.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## IACPlearn:  Home
+ - [http://learn.theiacp.org](http://learn.theiacp.org)
+ - date_published: 2024-06-29T07:19:32.727421+00:00
+
+ ## Police Jobs – IACP Career Center Home
+ - [https://policecareers.theiacp.org](https://policecareers.theiacp.org)
+ - date_published: 2024-06-29T07:19:30.659513+00:00
+
+ ## Shaping the Future of the Policing Profession® | International Association of Chiefs of Police
+ - [https://theiacp.org](https://theiacp.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Theia - Cloud and Desktop IDE Platform
+ - [https://theia-ide.org](https://theia-ide.org)
+ - date_published: 2024-06-14T13:58:03+00:00
+
+ ## Theia — Theia Vision Library
+ - [http://www.theia-sfm.org](http://www.theia-sfm.org)
+ - date_published: 2016-10-27T23:53:57+00:00
+
+ ## International Council of Design
+ - [https://www.theicod.org](https://www.theicod.org)
+ - date_published: 2024-07-12T17:52:01.936220+00:00
+
+ ## IET Digital Library: Home
+ - [https://digital-library.theiet.org](https://digital-library.theiet.org)
+ - date_published: 2024-05-07T21:01:03.486456+00:00
+
+ ## Homepage | E+T Magazine
+ - [https://eandt.theiet.org](https://eandt.theiet.org)
+ - date_published: 2023-10-25T10:52:21.940865+00:00
+
+ ## Home | The Institute of Internal Auditors | The IIA
+ - [http://theiia.org](http://theiia.org)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## The Imaginative Conservative
+ - [https://theimaginativeconservative.org](https://theimaginativeconservative.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## The Indigenous Foundation
+ - [https://www.theindigenousfoundation.org](https://www.theindigenousfoundation.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## The Infosphere, the Futurama Wiki
+ - [http://theinfosphere.org](http://theinfosphere.org)
+ - date_published: 2023-09-25T22:00:35+00:00
+ - tags: ['futurama']
+
+ ## Inner Compass Initiative
+ - [https://www.theinnercompass.org](https://www.theinnercompass.org)
+ - date_published: 2024-06-21T19:41:21.063035+00:00
+
+ ## The Inning Club
+ - [https://theinningclub.org](https://theinningclub.org)
+ - date_published: 2023-10-30T18:18:44+00:00
+
  ## The Innovation Project by The Henry Ford
  - [https://theinnovationproject.org](https://theinnovationproject.org)
  - date_published: 2024-05-11T08:07:37.300433+00:00
@@ -133,10 +227,6 @@
  - date_published: 2023-11-07T18:14:10.457841+00:00
 
  ## The Media Project
- - [http://themediaproject.org](http://themediaproject.org)
- - date_published: 2024-04-28T04:29:53.901599+00:00
-
- ## The Media Project
  - [https://themediaproject.org](https://themediaproject.org)
  - date_published: 2024-04-28T04:29:56.990114+00:00
 
@@ -183,6 +273,10 @@
  ## The Morning News
  - [https://themorningnews.org](https://themorningnews.org)
  - date_published: 2024-05-06T20:12:54.675781+00:00
+
+ ## The Morris Ring
+ - [http://www.themorrisring.org](http://www.themorrisring.org)
+ - date_published: 2024-08-08T00:00:00+00:00
 
  ## The Moth Shop
  - [https://store.themoth.org](https://store.themoth.org)
@@ -847,7 +941,7 @@
  - date_published: 2024-04-24T10:46:46.135201+00:00
 
  ## Thinker | A Milanote Alternative with Whiteboards, Kanbans and More
- - [https://www.thinkerapp.org](https://www.thinkerapp.org)
+ - [https://thinkerapp.org](https://thinkerapp.org)
  - date_published: 2024-04-24T10:46:48.042302+00:00
 
  ## Think Global Health
@@ -893,6 +987,10 @@
  ## Third Way
  - [https://www.thirdway.org](https://www.thirdway.org)
  - date_published: 2024-07-01T15:47:33.587265+00:00
+
+ ## World's Largest Youth Water Organization
+ - [http://www.thirstproject.org](http://www.thirstproject.org)
+ - date_published: 2024-08-08T17:50:54.311002+00:00
 
  ## THIRTEEN Thank-You Gifts - THIRTEEN
  - [http://support.thirteen.org](http://support.thirteen.org)
@@ -1904,6 +2002,10 @@ of Life Web Project
  - [https://tommorris.org](https://tommorris.org)
  - date_published: 2024-06-26T00:00:00+00:00
 
+ ## Tommy Palmer
+ - [https://www.tommyp.org](https://www.tommyp.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## Tom of Finland Foundation
  - [https://www.tomoffinland.org](https://www.tomoffinland.org)
  - date_published: 2024-07-07T05:51:53.676258+00:00
@@ -1983,6 +2085,10 @@ of Life Web Project
  ## ZoneStamp! - Timezone converter for online events.
  - [https://zonestamp.toolforge.org](https://zonestamp.toolforge.org)
  - date_published: 2023-11-15T12:38:43+00:00
+
+ ## Homepage - Mopo
+ - [https://www.tools-for-energy-system-modelling.org](https://www.tools-for-energy-system-modelling.org)
+ - date_published: 2023-06-12T08:07:13+00:00
 
  ## Toorcamp
  - [https://toorcamp.org](https://toorcamp.org)
@@ -2396,6 +2502,10 @@ of Life Web Project
  ## Tradeoffs
  - [https://tradeoffs.org](https://tradeoffs.org)
  - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Traditional Song Forum – Find out about folk song
+ - [http://www.tradsong.org](http://www.tradsong.org)
+ - date_published: 2024-08-08T03:38:27.246857+00:00
 
  ## FrontPage - Projet de traduction Traduc.org
  - [http://traduc.org](http://traduc.org)
@@ -2991,6 +3101,10 @@ of Life Web Project
  - [https://truthinaccounting.org](https://truthinaccounting.org)
  - date_published: 2024-07-03T19:02:15+00:00
 
+ ## Truth Initiative: inspiring lives free from smoking, vaping, and nicotine
+ - [https://truthinitiative.org](https://truthinitiative.org)
+ - date_published: 2024-08-08T17:48:43+00:00
+
  ## Truthout | Fearless Independent News & Analysis
  - [http://www.truth-out.org](http://www.truth-out.org)
  - date_published: 2024-06-27T06:47:04.896848+00:00
@@ -3074,6 +3188,10 @@ of Life Web Project
  ## Home - TSCI - Tuberous Sclerosis Complex International
  - [https://tscinternational.org](https://tscinternational.org)
  - date_published: 2019-02-08T00:00:00+00:00
+
+ ## tsdh.org
+ - [https://tsdh.org](https://tsdh.org)
+ - date_published: 2024-01-19T20:06:50+00:00
 
  ## What is TSDoc? | TSDoc
  - [https://tsdoc.org](https://tsdoc.org)
@@ -3290,6 +3408,10 @@ of Life Web Project
  - [https://www.turismotorino.org](https://www.turismotorino.org)
  - date_published: 2024-02-24T18:11:10.500178+00:00
 
+ ## Home
+ - [https://www.turkeyanalyst.org](https://www.turkeyanalyst.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Turkish Festival | Turkish Festival - Washington DC
  - [https://www.turkishfestival.org](https://www.turkishfestival.org)
  - date_published: 2024-06-29T15:22:25.172074+00:00
@@ -3453,6 +3575,10 @@ of Life Web Project
  ## XMoto
  - [https://xmoto.tuxfamily.org](https://xmoto.tuxfamily.org)
  - date_published: 2024-05-09T09:08:46.744094+00:00
+
+ ## Tux Machines
+ - [https://news.tuxmachines.org](https://news.tuxmachines.org)
+ - date_published: 2024-08-08T11:31:15+00:00
 
  ## Tux Machines
  - [http://tuxmachines.org](http://tuxmachines.org)
@@ -3764,8 +3890,12 @@ of Life Web Project
  - [https://uaf-snap.org](https://uaf-snap.org)
  - date_published: 2020-08-17T00:00:00+00:00
 
+ ## Index of /
+ - [https://static.uahirise.org](https://static.uahirise.org)
+ - date_published: 2024-08-08T18:25:42.932377+00:00
+
  ## HiRISE | High Resolution Imaging Science Experiment
- - [http://www.uahirise.org](http://www.uahirise.org)
+ - [https://uahirise.org](https://uahirise.org)
  - date_published: 2024-04-27T00:00:00+00:00
 
  ## Little Rock Public Radio
@@ -3927,132 +4057,4 @@ http://754r.ucbtest.org
  ## UCI Foundation – To realize the brilliant future referenced in the University of California, Irvine’s strategic plan by mobilizing support, creating partnerships and offering transformative guidance.
  - [http://www.ucifoundation.org](http://www.ucifoundation.org)
  - date_published: 2024-07-09T22:32:00.013063+00:00
-
- ## Home |  UCI Health | Orange County, CA
- - [https://www.ucihealth.org](https://www.ucihealth.org)
- - date_published: 2024-05-09T06:50:34.746245+00:00
-
- ## Home |  UCI Health | Orange County, CA
- - [http://www.ucirvinehealth.org](http://www.ucirvinehealth.org)
- - date_published: 2024-07-01T22:49:35.265217+00:00
-
- ## UCLA Foundation - Home
- - [https://www.uclafoundation.org](https://www.uclafoundation.org)
- - date_published: 2024-07-01T23:04:52.391875+00:00
-
- ## Home - UCLA Health 加州大学洛杉矶分校医疗系统
- - [https://cn.uclahealth.org](https://cn.uclahealth.org)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## UCLA Health Connect
- - [https://connect.uclahealth.org](https://connect.uclahealth.org)
- - date_published: 2024-06-30T12:35:06.502735+00:00
-
- ## Patient Education
- - [https://healthinfo.uclahealth.org](https://healthinfo.uclahealth.org)
- - date_published: 2024-05-07T16:30:14.434395+00:00
-
- ## Home - UCLA
- - [https://mena.uclahealth.org](https://mena.uclahealth.org)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## UCLA Health: Center for High Quality Health Care Services
- - [https://www.uclahealth.org](https://www.uclahealth.org)
- - date_published: 2023-10-25T22:16:04.259788+00:00
-
- ## UCLA Health Careers - Home page
- - [https://www.uclahealthcareers.org](https://www.uclahealthcareers.org)
- - date_published: 2024-06-30T12:35:11.320156+00:00
-
- ## UCLGBTIA
- - [http://www.uclgbtia.org](http://www.uclgbtia.org)
- - date_published: 2024-03-19T04:48:27+00:00
-
- ## uClibc++ C++ library
- - [https://cxx.uclibc.org](https://cxx.uclibc.org)
- - date_published: 2024-07-06T23:25:04.052201+00:00
-
- ## Home - UChicagoMedicine
- - [https://ucmdonorgallery.org](https://ucmdonorgallery.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Ukrainian Canadian Research & Documentation Centre (UCRDC)
- - [http://www.ucrdc.org](http://www.ucrdc.org)
- - date_published: 2024-07-04T15:45:38+00:00
-
- ## UCR Health - Bringing Health Home
- - [https://www.ucrhealth.org](https://www.ucrhealth.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home
- - [https://www.ucscout.org](https://www.ucscout.org)
- - date_published: 2024-07-01T23:54:13.635228+00:00
-
- ## The UCSD Guardian
- - [https://ucsdguardian.org](https://ucsdguardian.org)
- - date_published: 2024-07-13T03:43:16.597978+00:00
-
- ## UCSF Benioff Children's Hospitals
- - [https://give.ucsfbenioffchildrens.org](https://give.ucsfbenioffchildrens.org)
- - date_published: 2024-07-01T22:12:40+00:00
-
- ## Home - UCSF Pediatrics
- - [https://medconnection.ucsfbenioffchildrens.org](https://medconnection.ucsfbenioffchildrens.org)
- - date_published: 2024-07-02T01:50:53.286559+00:00
-
- ## UCSF Benioff Children's Hospitals | Home
- - [https://ucsfbenioffchildrens.org](https://ucsfbenioffchildrens.org)
- - date_published: 2024-05-07T21:08:36.127313+00:00
-
- ## Home | UCSF Dental Center
- - [https://ucsfdentalcenter.org](https://ucsfdentalcenter.org)
- - date_published: 2024-05-07T21:09:18.789352+00:00
-
- ## Home - UCSF MedConnection
- - [https://medconnection.ucsfhealth.org](https://medconnection.ucsfhealth.org)
- - date_published: 2024-07-02T01:41:23.595349+00:00
-
- ## UCSF Health
- - [https://ucsfhealth.org](https://ucsfhealth.org)
- - date_published: 2024-05-07T21:08:04.741862+00:00
-
- ## Home
- - [https://infectioncontrol.ucsfmedicalcenter.org](https://infectioncontrol.ucsfmedicalcenter.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## UCSF Medical Center Pathway Home
- - [https://pathway.ucsfmedicalcenter.org](https://pathway.ucsfmedicalcenter.org)
- - date_published: 2024-07-02T01:41:25.929759+00:00
-
- ## Welcome
- - [https://volunteering.ucsfmedicalcenter.org](https://volunteering.ucsfmedicalcenter.org)
- - date_published: 2024-07-02T01:52:06+00:00
-
- ## The Equation - Union of Concerned Scientists
- - [https://blog.ucsusa.org](https://blog.ucsusa.org)
- - date_published: 2023-10-25T22:16:07.751665+00:00
-
- ## Union of Concerned Scientists
- - [https://www.ucsusa.org](https://www.ucsusa.org)
- - date_published: 2024-07-19T15:50:21.640556+00:00
-
- ## Master of Translational Medicine - MTM UC Berkeley & UCSF
- - [https://uctranslationalmedicine.org](https://uctranslationalmedicine.org)
- - date_published: 2024-07-02T01:53:19.914219+00:00
-
- ## University Credit Union Homepage
- - [https://www.ucu.org](https://www.ucu.org)
- - date_published: 2024-07-01T22:19:58.051490+00:00
-
- ## Accueil - UDICE
- - [http://www.udice.org](http://www.udice.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UDOO Single Board Computer | X86 & ARM Powerful Arduino Mini PC
- - [http://www.udoo.org](http://www.udoo.org)
- - date_published: 2024-07-09T09:44:00.477893+00:00
-
- ## Home - UEFA Foundation
- - [https://uefafoundation.org](https://uefafoundation.org)
- - date_published: 2024-07-04T17:31:24.616328+00:00
 

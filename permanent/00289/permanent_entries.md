@@ -1,3 +1,163 @@
+ ## मुख्य पृष्ठ - Wn/ne - Wikimedia Incubator
+ - [https://ne.wikinews.org](https://ne.wikinews.org)
+ - date_published: 2024-06-28T03:45:40+00:00
+
+ ## Olayama - Wn/nia - Wikimedia Incubator
+ - [https://nia.wikinews.org](https://nia.wikinews.org)
+ - date_published: 2024-06-28T05:00:41+00:00
+
+ ## Wikinieuws
+ - [https://nl.wikinews.org](https://nl.wikinews.org)
+ - date_published: 2024-07-07T05:04:15+00:00
+
+ ## Novial Wikinews - Wikimedia Incubator
+ - [https://nov.wikinews.org](https://nov.wikinews.org)
+ - date_published: 2024-07-12T03:04:17.618890+00:00
+
+ ## Wikinytt
+ - [https://no.wikinews.org](https://no.wikinews.org)
+ - date_published: 2024-07-07T05:04:15+00:00
+
+ ## ପ୍ରଧାନ ପୃଷ୍ଠା - Wn/or - Wikimedia Incubator
+ - [https://or.wikinews.org](https://or.wikinews.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Pangasinan Wikinews - Wikimedia Incubator
+ - [https://pag.wikinews.org](https://pag.wikinews.org)
+ - date_published: 2024-07-12T05:15:24.358981+00:00
+
+ ## Pampanga Wikinews - Wikimedia Incubator
+ - [https://pam.wikinews.org](https://pam.wikinews.org)
+ - date_published: 2024-07-12T05:03:56.556005+00:00
+
+ ## Papiamento Wikinews - Wikimedia Incubator
+ - [https://pap.wikinews.org](https://pap.wikinews.org)
+ - date_published: 2024-07-12T05:02:11.227992+00:00
+
+ ## ਮੁੱਖ ਪੰਨਾ - Wn/pa - Wikimedia Incubator
+ - [https://pa.wikinews.org](https://pa.wikinews.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Pali Wikinews - Wikimedia Incubator
+ - [https://pi.wikinews.org](https://pi.wikinews.org)
+ - date_published: 2024-07-12T04:11:48.958610+00:00
+
+ ## Wikinews
+ - [https://pl.wikinews.org](https://pl.wikinews.org)
+ - date_published: 2024-07-07T08:22:28.022864+00:00
+
+ ## لومړی مخ - Wn/ps - Wikimedia Incubator
+ - [https://ps.wikinews.org](https://ps.wikinews.org)
+ - date_published: 2024-06-28T02:42:45+00:00
+
+ ## Wikinotícias
+ - [https://pt.wikinews.org](https://pt.wikinews.org)
+ - date_published: 2024-06-18T14:22:18+00:00
+
+ ## Wn/qu - Wikimedia Incubator
+ - [https://qu.wikinews.org](https://qu.wikinews.org)
+ - date_published: 2024-06-28T05:32:38+00:00
+
+ ## Wikiștiri
+ - [https://ro.wikinews.org](https://ro.wikinews.org)
+ - date_published: 2024-07-07T05:04:17+00:00
+
+ ## Викиновости, свободный источник новостей
+ - [https://ru.m.wikinews.org](https://ru.m.wikinews.org)
+ - date_published: 2024-07-11T18:04:21+00:00
+
+ ## Викиновости, свободный источник новостей
+ - [https://ru.wikinews.org](https://ru.wikinews.org)
+ - date_published: 2024-05-10T03:54:50.119234+00:00
+
+ ## Intangiriro - Wn/rw - Wikimedia Incubator
+ - [https://rw.wikinews.org](https://rw.wikinews.org)
+ - date_published: 2024-06-28T02:31:01+00:00
+
+ ## Сүрүн сирэй - Wn/sah - Wikimedia Incubator
+ - [https://sah.wikinews.org](https://sah.wikinews.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ - Wn/sat - Wikimedia Incubator
+ - [https://sat.wikinews.org](https://sat.wikinews.org)
+ - date_published: 2024-06-28T02:42:09+00:00
+
+ ## Pàggina principali - Wn/scn - Wikimedia Incubator
+ - [https://scn.wikinews.org](https://scn.wikinews.org)
+ - date_published: 2024-06-28T04:15:14+00:00
+
+ ## Main Page - Wn/sco - Wikimedia Incubator
+ - [https://sco.wikinews.org](https://sco.wikinews.org)
+ - date_published: 2024-06-28T05:27:13+00:00
+
+ ## Wikinews
+ - [https://sd.wikinews.org](https://sd.wikinews.org)
+ - date_published: 2024-06-23T05:15:24+00:00
+
+ ## Sango Wikinews - Wikimedia Incubator
+ - [https://sg.wikinews.org](https://sg.wikinews.org)
+ - date_published: 2024-07-12T05:02:57.005891+00:00
+
+ ## Tachelhit Wikinews - Wikimedia Incubator
+ - [https://shi.wikinews.org](https://shi.wikinews.org)
+ - date_published: 2024-07-12T02:35:50.563953+00:00
+
+ ## ၼႃႈႁူဝ်ႁႅၵ်ႈ - Wn/shn - Wikimedia Incubator
+ - [https://shn.wikinews.org](https://shn.wikinews.org)
+ - date_published: 2024-07-11T01:38:59+00:00
+
+ ## Serbo-Croatian Wikinews - Wikimedia Incubator
+ - [https://sh.wikinews.org](https://sh.wikinews.org)
+ - date_published: 2024-07-12T03:00:06.687737+00:00
+
+ ## මුල් පිටුව - Wn/si - Wikimedia Incubator
+ - [https://si.wikinews.org](https://si.wikinews.org)
+ - date_published: 2024-06-28T02:45:46+00:00
+
+ ## پہلا پرت - Wn/skr - Wikimedia Incubator
+ - [https://skr.wikinews.org](https://skr.wikinews.org)
+ - date_published: 2024-06-28T04:44:44+00:00
+
+ ## Wikinews:Hlavná stránka - Wn/sk - Wikimedia Incubator
+ - [https://sk.wikinews.org](https://sk.wikinews.org)
+ - date_published: 2024-06-28T02:48:02+00:00
+
+ ## Glavna stran - Wn/sl - Wikimedia Incubator
+ - [https://sl.wikinews.org](https://sl.wikinews.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Bogga Hore - Wn/so - Wikimedia Incubator
+ - [https://so.wikinews.org](https://so.wikinews.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wikilajme
+ - [https://sq.wikinews.org](https://sq.wikinews.org)
+ - date_published: 2024-07-07T05:04:19+00:00
+
+ ## Викиновости
+ - [https://sr.wikinews.org](https://sr.wikinews.org)
+ - date_published: 2024-07-07T05:04:19+00:00
+
+ ## Swati Wikinews - Wikimedia Incubator
+ - [https://ss.wikinews.org](https://ss.wikinews.org)
+ - date_published: 2024-07-12T03:04:54.837299+00:00
+
+ ## Southern Sotho Wikinews - Wikimedia Incubator
+ - [https://st.wikinews.org](https://st.wikinews.org)
+ - date_published: 2024-07-12T02:49:40.904977+00:00
+
+ ## Sundanese Wikinews - Wikimedia Incubator
+ - [https://su.wikinews.org](https://su.wikinews.org)
+ - date_published: 2024-07-12T04:50:42.939153+00:00
+
+ ## Wikinews
+ - [https://sv.wikinews.org](https://sv.wikinews.org)
+ - date_published: 2024-07-07T05:04:20+00:00
+
+ ## விக்கிசெய்தி
+ - [https://ta.wikinews.org](https://ta.wikinews.org)
+ - date_published: 2024-07-07T05:04:21+00:00
+
  ## Tulu Wikinews - Wikimedia Incubator
  - [https://tcy.wikinews.org](https://tcy.wikinews.org)
  - date_published: 2024-07-12T02:50:11.224265+00:00
@@ -3840,164 +4000,4 @@
  ## Vikitekstid
  - [https://et.wikisource.org](https://et.wikisource.org)
  - date_published: 2024-06-11T12:31:08+00:00
-
- ## Wikiteka
- - [https://eu.wikisource.org](https://eu.wikisource.org)
- - date_published: 2024-06-11T12:31:08+00:00
-
- ## Wikisource
- - [https://fat.wikisource.org](https://fat.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## ویکی‌نبشته
- - [https://fa.wikisource.org](https://fa.wikisource.org)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Wikisource
- - [https://ff.wikisource.org](https://ff.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikiaineisto
- - [https://fi.wikisource.org](https://fi.wikisource.org)
- - date_published: 2024-06-11T12:31:09+00:00
-
- ## Wikiheimild
- - [https://fo.wikisource.org](https://fo.wikisource.org)
- - date_published: 2024-06-11T12:31:09+00:00
-
- ## Wikisource
- - [https://fr.m.wikisource.org](https://fr.m.wikisource.org)
- - date_published: 2024-06-29T16:30:55+00:00
-
- ## Wikisource
- - [https://frr.wikisource.org](https://frr.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://fr.wikisource.org](https://fr.wikisource.org)
- - date_published: 2024-05-07T14:42:28.901068+00:00
-
- ## Wikisource
- - [https://fur.wikisource.org](https://fur.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://gan.wikisource.org](https://gan.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ga.wikisource.org](https://ga.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://gl.wikisource.org](https://gl.wikisource.org)
- - date_published: 2024-06-11T12:31:10+00:00
-
- ## Wikisource
- - [https://gom.wikisource.org](https://gom.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://gor.wikisource.org](https://gor.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://got.wikisource.org](https://got.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://gpe.wikisource.org](https://gpe.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://gur.wikisource.org](https://gur.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## વિકિસ્રોત
- - [https://gu.wikisource.org](https://gu.wikisource.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Wikisource
- - [https://gv.wikisource.org](https://gv.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ha.wikisource.org](https://ha.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## ויקיטקסט
- - [https://he.wikisource.org](https://he.wikisource.org)
- - date_published: 2024-06-15T06:00:38+00:00
-
- ## विकिस्रोत
- - [https://hi.wikisource.org](https://hi.wikisource.org)
- - date_published: 2024-06-11T12:31:12+00:00
-
- ## Wikizvor
- - [https://hr.wikisource.org](https://hr.wikisource.org)
- - date_published: 2024-06-11T12:31:12+00:00
-
- ## Wikisòrs
- - [https://ht.wikisource.org](https://ht.wikisource.org)
- - date_published: 2024-06-27T17:27:24+00:00
-
- ## Wikiforrás
- - [https://hu.wikisource.org](https://hu.wikisource.org)
- - date_published: 2024-06-11T12:31:12+00:00
-
- ## Վիքիդարան՝ ազատ գրադարան
- - [https://hy.wikisource.org](https://hy.wikisource.org)
- - date_published: 2024-06-11T12:31:40+00:00
-
- ## Wikisource
- - [https://hyw.wikisource.org](https://hyw.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisumber bahasa Indonesia
- - [https://id.wikisource.org](https://id.wikisource.org)
- - date_published: 2024-06-11T12:31:40+00:00
-
- ## Wikisource
- - [https://ie.wikisource.org](https://ie.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://igl.wikisource.org](https://igl.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ig.wikisource.org](https://ig.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikiheimild
- - [https://is.wikisource.org](https://is.wikisource.org)
- - date_published: 2024-06-11T12:31:42+00:00
-
- ## Wikisource
- - [https://it.m.wikisource.org](https://it.m.wikisource.org)
- - date_published: 2024-07-13T10:36:16+00:00
-
- ## Wikisource
- - [https://it.wikisource.org](https://it.wikisource.org)
- - date_published: 2024-05-11T11:24:55.386644+00:00
-
- ## Wikisource
- - [https://ja.wikisource.org](https://ja.wikisource.org)
- - date_published: 2024-06-11T12:31:42+00:00
-
- ## Wikisumber, kapustakan mardika
- - [https://jv.wikisource.org](https://jv.wikisource.org)
- - date_published: 2024-06-11T12:31:43+00:00
-
- ## Wikisource
- - [https://kaa.wikisource.org](https://kaa.wikisource.org)
- - date_published: 2024-06-04T08:08:05+00:00
-
- ## Wikisource
- - [https://ka.wikisource.org](https://ka.wikisource.org)
- - date_published: 2024-06-29T14:16:10+00:00
-
- ## Wikisource
- - [https://kbd.wikisource.org](https://kbd.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
 

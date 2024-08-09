@@ -1,326 +1,402 @@
- ## ITIM VPN
- - [https://itim-vpn-cbw.softonic-th.com](https://itim-vpn-cbw.softonic-th.com)
- - date_published: 2024-08-03T16:18:11.384850+00:00
+ ## On-Premises True Private Cloud — SoftIron
+ - [https://softiron.com](https://softiron.com)
+ - date_published: 2024-06-30T23:52:20.241178+00:00
 
- ## iTunes
- - [https://itunes.softonic-th.com](https://itunes.softonic-th.com)
- - date_published: 2024-02-12T00:00:00+00:00
+ ## IBM Cloud
+ - [http://www.softlayer.com](http://www.softlayer.com)
+ - date_published: 2024-08-06T22:58:18+00:00
 
- ## Kazaa Lite Resurrection
- - [https://kazaa-lite-resurrection.softonic-th.com](https://kazaa-lite-resurrection.softonic-th.com)
- - date_published: 2024-07-14T16:04:01.861400+00:00
+ ## SoftLedger: Cloud Accounting Software & API
+ - [https://softledger.com](https://softledger.com)
+ - date_published: 2024-07-11T16:51:37.736471+00:00
 
- ## KOPLAYER MAC
- - [https://koplayer-mac.softonic-th.com](https://koplayer-mac.softonic-th.com)
- - date_published: 2024-08-04T22:10:25.697194+00:00
+ ## Softletter Home - Softletter
+ - [http://www.softletter.com](http://www.softletter.com)
+ - date_published: 2023-10-23T10:44:47+00:00
 
- ## Krisp
- - [https://krisp.softonic-th.com](https://krisp.softonic-th.com)
- - date_published: 2024-08-04T22:21:57.844298+00:00
+ ## Customer portal Noventiq Holdings plc
+ - [https://support.ecommerce.softline.com](https://support.ecommerce.softline.com)
+ - date_published: 2024-06-18T08:14:10.646032+00:00
 
- ## LightShot
- - [https://lightshot.softonic-th.com](https://lightshot.softonic-th.com)
- - date_published: 2024-08-04T22:20:20.364983+00:00
+ ## SoftMany: How To, Best of & Download Windows/Android/MAC
+ - [https://softmany.com](https://softmany.com)
+ - date_published: 2024-05-17T02:54:33.768821+00:00
+
+ ## The Original Soft Minky Blanket | Minky Couture Blankets
+ - [https://www.softminkyblankets.com](https://www.softminkyblankets.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Wiadomości, recenzje aplikacji, najlepsze programy do pobrania - Softonic
+ - [https://softonic.com](https://softonic.com)
+ - date_published: 2024-04-29T05:12:07.730251+00:00
+
+ ## 1.1.1.1 w/ WARP
+ - [https://1111-w-warp.softonic-ar.com](https://1111-w-warp.softonic-ar.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## 3uTools
+ - [https://3utools.softonic-ar.com](https://3utools.softonic-ar.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Boom Planet
+ - [https://boom-planet.softonic-ar.com](https://boom-planet.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 챌린저스 - 뷰티 득템 앱
+ - [https://caelrinjeoseu-byuti-deugtem-aeb.softonic-ar.com](https://caelrinjeoseu-byuti-deugtem-aeb.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Center Parcs
+ - [https://center-parcs.softonic-ar.com](https://center-parcs.softonic-ar.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Crochet.Land
+ - [https://crochet-land.softonic-ar.com](https://crochet-land.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## デジラアプリ ～auのデータ残量確認とデータチャージ～
+ - [https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic-ar.com](https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## FaceMagic - AI Face Editor
+ - [https://facemagic-ai-face-editor.softonic-ar.com](https://facemagic-ai-face-editor.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Football Story (by fructus temporum)
+ - [https://football-story-fructus-temporum.softonic-ar.com](https://football-story-fructus-temporum.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Forgotten Mines
+ - [https://forgotten-mines.softonic-ar.com](https://forgotten-mines.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Halo Hermina
+ - [https://halo-hermina.softonic-ar.com](https://halo-hermina.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Illuvium
+ - [https://illuvium.softonic-ar.com](https://illuvium.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Kids Games: Safety Education
+ - [https://kids-games-safety-education.softonic-ar.com](https://kids-games-safety-education.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Kwai
+ - [https://kwai.softonic-ar.com](https://kwai.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Lilja and Natsuka Painting Lies
+ - [https://lilja-and-natsuka-painting-lies.softonic-ar.com](https://lilja-and-natsuka-painting-lies.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Lottó - Getspá
+ - [https://lotto-getspa.softonic-ar.com](https://lotto-getspa.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Med Mox
+ - [https://med-mox.softonic-ar.com](https://med-mox.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Microsoft Edge
+ - [https://microsoft-edge.softonic-ar.com](https://microsoft-edge.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## MoneyMe for windows
+ - [https://moneyme-for-windows.softonic-ar.com](https://moneyme-for-windows.softonic-ar.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## MozzartBet Macedonia
+ - [https://mozzartbet-macedonia.softonic-ar.com](https://mozzartbet-macedonia.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Pair Horror
+ - [https://pair-horror.softonic-ar.com](https://pair-horror.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Pochemeow Pro
+ - [https://pochemeow.softonic-ar.com](https://pochemeow.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Rock Paper Scissors ULTIMATE
+ - [https://rock-paper-scissors-ultimate.softonic-ar.com](https://rock-paper-scissors-ultimate.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Roia
+ - [https://roia.softonic-ar.com](https://roia.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## RollZ (by Hecate Ediciones)
+ - [https://rollz-hecate-ediciones.softonic-ar.com](https://rollz-hecate-ediciones.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Shape Screw Jam - Wood Nuts
+ - [https://shape-screw-jam-wood-nuts.softonic-ar.com](https://shape-screw-jam-wood-nuts.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## SportPesa Tanzania
+ - [https://sportpesa-tanzania.softonic-ar.com](https://sportpesa-tanzania.softonic-ar.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Sports Sports NETFLIX
+ - [https://sports-sports-netflix.softonic-ar.com](https://sports-sports-netflix.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Tavern Talk
+ - [https://tavern-talk.softonic-ar.com](https://tavern-talk.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Telegram
+ - [https://telegram.softonic-ar.com](https://telegram.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Ultra VPN - Pro Max Plus
+ - [https://ultra-vpn-pro-max-plus.softonic-ar.com](https://ultra-vpn-pro-max-plus.softonic-ar.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Video Star
+ - [https://video-star-1.softonic-ar.com](https://video-star-1.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Woohoo!
+ - [https://woohoo-puzzle-game-gray-swan-games.softonic-ar.com](https://woohoo-puzzle-game-gray-swan-games.softonic-ar.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## أخبار التطبيقات وتقييماتها، تنزيل أفضل البرامج واكتشافها - Softonic
+ - [https://softonic-ar.com](https://softonic-ar.com)
+ - date_published: 2024-04-29T05:12:42.234894+00:00
+
+ ## 1.1.1.1 w/ WARP
+ - [https://1111-w-warp.softonic-id.com](https://1111-w-warp.softonic-id.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Barbie Project Friendship
+ - [https://barbie-project-friendship.softonic-id.com](https://barbie-project-friendship.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Betway - Sport Betting
+ - [https://betway-sport-betting.softonic-id.com](https://betway-sport-betting.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 챌린저스 - 뷰티 득템 앱
+ - [https://caelrinjeoseu-byuti-deugtem-aeb.softonic-id.com](https://caelrinjeoseu-byuti-deugtem-aeb.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## デジラアプリ ～auのデータ残量確認とデータチャージ～
+ - [https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic-id.com](https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Dominos Jamaica
+ - [https://dominos-jamaica.softonic-id.com](https://dominos-jamaica.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## ES File Explorer/Manager PRO
+ - [https://es-file-explorer-manager-pro-1.softonic-id.com](https://es-file-explorer-manager-pro-1.softonic-id.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## FaceMagic - AI Face Editor
+ - [https://facemagic-ai-face-editor.softonic-id.com](https://facemagic-ai-face-editor.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Football Story (by fructus temporum)
+ - [https://football-story-fructus-temporum.softonic-id.com](https://football-story-fructus-temporum.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Forgotten Mines
+ - [https://forgotten-mines.softonic-id.com](https://forgotten-mines.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## فیلتر شکن قوی پرسرعت Tiger VPN
+ - [https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic-id.com](https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## GoPartner
+ - [https://gopartner.softonic-id.com](https://gopartner.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Halo Hermina
+ - [https://halo-hermina.softonic-id.com](https://halo-hermina.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Illuvium
+ - [https://illuvium.softonic-id.com](https://illuvium.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Linkito
+ - [https://linkito.softonic-id.com](https://linkito.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Microsoft Edge
+ - [https://microsoft-edge.softonic-id.com](https://microsoft-edge.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Microsoft Teams
+ - [https://microsoft-teams.softonic-id.com](https://microsoft-teams.softonic-id.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## MoneyMe for windows
+ - [https://moneyme-for-windows.softonic-id.com](https://moneyme-for-windows.softonic-id.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## MozzartBet Macedonia
+ - [https://mozzartbet-macedonia.softonic-id.com](https://mozzartbet-macedonia.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Neverness to Everness
+ - [https://neverness-to-everness.softonic-id.com](https://neverness-to-everness.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Pair Horror
+ - [https://pair-horror.softonic-id.com](https://pair-horror.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Pochemeow Pro
+ - [https://pochemeow.softonic-id.com](https://pochemeow.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Rock Paper Scissors ULTIMATE
+ - [https://rock-paper-scissors-ultimate.softonic-id.com](https://rock-paper-scissors-ultimate.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Roia
+ - [https://roia.softonic-id.com](https://roia.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## RollZ (by Hecate Ediciones)
+ - [https://rollz-hecate-ediciones.softonic-id.com](https://rollz-hecate-ediciones.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Shanghai Tile - Mahjong Match
+ - [https://shanghai-tile-mahjong-match.softonic-id.com](https://shanghai-tile-mahjong-match.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Shopee 6.6 Super Sale
+ - [https://shopee-6-6-super-sale.softonic-id.com](https://shopee-6-6-super-sale.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Splitgate 2 Companion
+ - [https://splitgate-2-companion.softonic-id.com](https://splitgate-2-companion.softonic-id.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## SportPesa Tanzania
+ - [https://sportpesa-tanzania.softonic-id.com](https://sportpesa-tanzania.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Sports Sports NETFLIX
+ - [https://sports-sports-netflix.softonic-id.com](https://sports-sports-netflix.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Tavern Talk
+ - [https://tavern-talk.softonic-id.com](https://tavern-talk.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Woohoo!
+ - [https://woohoo-puzzle-game-gray-swan-games.softonic-id.com](https://woohoo-puzzle-game-gray-swan-games.softonic-id.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Berita dan ulasan aplikasi, unduhan dan pencarian perangkat lunak terbaik - Softonic
+ - [https://softonic-id.com](https://softonic-id.com)
+ - date_published: 2024-04-29T05:13:16.589465+00:00
+
+ ## 指尖捕鱼-全民欢乐真人捕鱼游戏
+ - [https://zhi-jian-bu-yu-quan-min-huan-le-zhen-ren-bu-yu-you-xi.softonic-id.com](https://zhi-jian-bu-yu-quan-min-huan-le-zhen-ren-bu-yu-you-xi.softonic-id.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 1.1.1.1 w/ WARP
+ - [https://1111-w-warp.softonic-th.com](https://1111-w-warp.softonic-th.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## 3uTools
+ - [https://3utools.softonic-th.com](https://3utools.softonic-th.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Anders: The Dark Coast
+ - [https://anders-the-dark-coast.softonic-th.com](https://anders-the-dark-coast.softonic-th.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## أوقات الصلاة الجزائر بدون نت
+ - [https://awqt-lslat-ljzy-r-bdwn-nt.softonic-th.com](https://awqt-lslat-ljzy-r-bdwn-nt.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Barbie Project Friendship
+ - [https://barbie-project-friendship.softonic-th.com](https://barbie-project-friendship.softonic-th.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## 챌린저스 - 뷰티 득템 앱
+ - [https://caelrinjeoseu-byuti-deugtem-aeb.softonic-th.com](https://caelrinjeoseu-byuti-deugtem-aeb.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Crochet.Land
+ - [https://crochet-land.softonic-th.com](https://crochet-land.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## デジラアプリ ～auのデータ残量確認とデータチャージ～
+ - [https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic-th.com](https://deziraapuri-aunodetacan-liang-que-ren-todetachiyazi.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## 抖音精选
+ - [https://dou-yin-jing-xuan.softonic-th.com](https://dou-yin-jing-xuan.softonic-th.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## FaceMagic - AI Face Editor
+ - [https://facemagic-ai-face-editor.softonic-th.com](https://facemagic-ai-face-editor.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Football Story (by fructus temporum)
+ - [https://football-story-fructus-temporum.softonic-th.com](https://football-story-fructus-temporum.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Forgotten Mines
+ - [https://forgotten-mines.softonic-th.com](https://forgotten-mines.softonic-th.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## FreeStyle LibreLink  KW
+ - [https://freestyle-librelink-kw.softonic-th.com](https://freestyle-librelink-kw.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## فیلتر شکن قوی پرسرعت Tiger VPN
+ - [https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic-th.com](https://fyltr-shkhn-qwy-prsr-t-tiger-vpn.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Illuvium
+ - [https://illuvium.softonic-th.com](https://illuvium.softonic-th.com)
+ - date_published: 2024-08-01T00:00:00+00:00
 
  ## Lilja and Natsuka Painting Lies
  - [https://lilja-and-natsuka-painting-lies.softonic-th.com](https://lilja-and-natsuka-painting-lies.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## LINE for Chrome
- - [https://line-for-chrome.softonic-th.com](https://line-for-chrome.softonic-th.com)
- - date_published: 2024-08-04T22:11:32.907661+00:00
-
- ## LINE for iPad
- - [https://line-for-ipad.softonic-th.com](https://line-for-ipad.softonic-th.com)
- - date_published: 2024-08-04T22:10:58.414349+00:00
-
- ## LineFree Icons
- - [https://linefree-icons.softonic-th.com](https://linefree-icons.softonic-th.com)
- - date_published: 2024-08-04T22:10:50.301154+00:00
-
- ## LINE PLAY - Your Avatar World
- - [https://line-play-3.softonic-th.com](https://line-play-3.softonic-th.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## LINE
- - [https://line.softonic-th.com](https://line.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Lively Wallpaper
- - [https://lively-wallpaper.softonic-th.com](https://lively-wallpaper.softonic-th.com)
- - date_published: 2024-08-04T22:10:39.381557+00:00
-
- ## LocalCooling
- - [https://localcooling.softonic-th.com](https://localcooling.softonic-th.com)
- - date_published: 2024-08-04T22:11:58.349264+00:00
-
- ## LuckyWire
- - [https://luckywire.softonic-th.com](https://luckywire.softonic-th.com)
- - date_published: 2024-07-14T16:03:31.248453+00:00
-
- ## Mac App Store
- - [https://mac-app-store.softonic-th.com](https://mac-app-store.softonic-th.com)
- - date_published: 2024-08-04T22:20:26.865341+00:00
-
- ## macOS Big Sur
- - [https://macosbigsur.softonic-th.com](https://macosbigsur.softonic-th.com)
- - date_published: 2024-08-04T22:20:57.996538+00:00
-
- ## MathType
- - [https://math-type.softonic-th.com](https://math-type.softonic-th.com)
- - date_published: 2024-08-04T22:11:36.180200+00:00
-
- ## MathType
- - [https://mathtype.softonic-th.com](https://mathtype.softonic-th.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## MBBS Year I by WAGmob
- - [https://mbbs-year-i-by-wagmob.softonic-th.com](https://mbbs-year-i-by-wagmob.softonic-th.com)
- - date_published: 2024-08-04T22:10:04.601076+00:00
-
- ## McAfee AntiVirus Plus
- - [https://mcafee-antivirus-plus.softonic-th.com](https://mcafee-antivirus-plus.softonic-th.com)
- - date_published: 2024-08-04T22:19:44.000714+00:00
-
- ## MegaDownloader
- - [https://megadownloader.softonic-th.com](https://megadownloader.softonic-th.com)
- - date_published: 2024-07-14T16:04:14.702414+00:00
-
- ## Messenger Lite: Free Calls  Messages
- - [https://messenger-lite.softonic-th.com](https://messenger-lite.softonic-th.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## microG
- - [https://microg.softonic-th.com](https://microg.softonic-th.com)
- - date_published: 2024-08-04T22:18:34.179832+00:00
-
  ## Microsoft Edge
  - [https://microsoft-edge.softonic-th.com](https://microsoft-edge.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
-
- ## Microsoft Excel
- - [https://microsoft-excel.softonic-th.com](https://microsoft-excel.softonic-th.com)
- - date_published: 2024-08-04T22:19:33.807096+00:00
-
- ## Microsoft PowerPoint
- - [https://microsoft-powerpoint.softonic-th.com](https://microsoft-powerpoint.softonic-th.com)
- - date_published: 2024-08-04T22:19:13.381072+00:00
 
  ## Microsoft Teams
  - [https://microsoft-teams.softonic-th.com](https://microsoft-teams.softonic-th.com)
  - date_published: 2024-07-31T00:00:00+00:00
 
- ## Microsoft Word
- - [https://microsoft-word.softonic-th.com](https://microsoft-word.softonic-th.com)
- - date_published: 2024-08-04T22:19:04.173928+00:00
-
- ## Minecraft
- - [https://minecraft-pocket-edition.softonic-th.com](https://minecraft-pocket-edition.softonic-th.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Minecraft: Java & Bedrock Edition
- - [https://minecraft.softonic-th.com](https://minecraft.softonic-th.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Scratch
- - [https://mit-scratch.softonic-th.com](https://mit-scratch.softonic-th.com)
- - date_published: 2024-08-04T22:20:18.753329+00:00
-
- ## M Money
- - [https://m-money.softonic-th.com](https://m-money.softonic-th.com)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Mods  Spins for Coin Master
- - [https://mods-spins-for-coin-master.softonic-th.com](https://mods-spins-for-coin-master.softonic-th.com)
- - date_published: 2024-08-04T22:09:55.830136+00:00
-
  ## MoneyMe for windows
  - [https://moneyme-for-windows.softonic-th.com](https://moneyme-for-windows.softonic-th.com)
  - date_published: 2024-07-12T00:00:00+00:00
-
- ## Morpheus
- - [https://morpheus.softonic-th.com](https://morpheus.softonic-th.com)
- - date_published: 2024-07-14T16:03:40.581069+00:00
-
- ## MotoGP Wallpapers - Notch
- - [https://motogp-wallpapers-notch.softonic-th.com](https://motogp-wallpapers-notch.softonic-th.com)
- - date_published: 2024-08-04T22:21:40.413948+00:00
-
- ## Mozilla Firefox
- - [https://mozilla-firefox.softonic-th.com](https://mozilla-firefox.softonic-th.com)
- - date_published: 2024-07-24T00:00:00+00:00
 
  ## MozzartBet Macedonia
  - [https://mozzartbet-macedonia.softonic-th.com](https://mozzartbet-macedonia.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## Nature Wallpaper
- - [https://nature-wallpaper.softonic-th.com](https://nature-wallpaper.softonic-th.com)
- - date_published: 2024-08-04T22:20:15.699563+00:00
-
- ## Neat Download Manager
- - [https://neat-download-manager.softonic-th.com](https://neat-download-manager.softonic-th.com)
- - date_published: 2024-08-04T22:09:57.409607+00:00
-
- ## Need for Speed Underground 2
- - [https://need-for-speed-underground-2.softonic-th.com](https://need-for-speed-underground-2.softonic-th.com)
- - date_published: 2024-08-04T22:21:26.368088+00:00
-
- ## Netcut
- - [https://netcut.softonic-th.com](https://netcut.softonic-th.com)
- - date_published: 2024-08-04T22:11:51.465041+00:00
-
- ## Netflix
- - [https://netflix.softonic-th.com](https://netflix.softonic-th.com)
- - date_published: 2024-08-04T22:11:43.737905+00:00
-
  ## Neverness to Everness
  - [https://neverness-to-everness.softonic-th.com](https://neverness-to-everness.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## Obs Studio
- - [https://obs-studio.softonic-th.com](https://obs-studio.softonic-th.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Oculus - Meta Quest
- - [https://oculus.softonic-th.com](https://oculus.softonic-th.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## OnePlus Games
- - [https://oneplus-games.softonic-th.com](https://oneplus-games.softonic-th.com)
- - date_published: 2024-08-04T22:09:34.176903+00:00
-
- ## OnlyFans - Daily Affirmation
- - [https://onlyfans-daily-affirmation.softonic-th.com](https://onlyfans-daily-affirmation.softonic-th.com)
- - date_published: 2024-08-04T22:18:11.871168+00:00
-
- ## OnlyFans
- - [https://onlyfans.softonic-th.com](https://onlyfans.softonic-th.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Opera Mini - fast web browser
- - [https://opera-mini.softonic-th.com](https://opera-mini.softonic-th.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## OPPO Clone Phone
- - [https://oppo-clone-phone.softonic-th.com](https://oppo-clone-phone.softonic-th.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## OPPO Store
- - [https://oppo-store.softonic-th.com](https://oppo-store.softonic-th.com)
- - date_published: 2024-08-03T16:18:41.308404+00:00
-
- ## Overcooked 2
- - [https://overcooked-2.softonic-th.com](https://overcooked-2.softonic-th.com)
- - date_published: 2024-08-04T22:11:37.827317+00:00
 
  ## Pair Horror
  - [https://pair-horror.softonic-th.com](https://pair-horror.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## Palmstore
- - [https://palmstore.softonic-th.com](https://palmstore.softonic-th.com)
- - date_published: 2024-08-03T16:18:08.900785+00:00
-
- ## Perimeter 81
- - [https://perimeter-81.softonic-th.com](https://perimeter-81.softonic-th.com)
- - date_published: 2024-08-04T22:18:16.513836+00:00
-
- ## PGSharp
- - [https://pgsharp.softonic-th.com](https://pgsharp.softonic-th.com)
- - date_published: 2024-08-03T16:17:47.740295+00:00
-
- ## Pitu
- - [https://pitu.softonic-th.com](https://pitu.softonic-th.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Pixel Car Racing: Blocky Crash
- - [https://pixel-car-racing-blocky-crash.softonic-th.com](https://pixel-car-racing-blocky-crash.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Play Services Info
- - [https://play-services-info.softonic-th.com](https://play-services-info.softonic-th.com)
- - date_published: 2024-07-26T00:00:00+00:00
-
  ## Pochemeow Pro
  - [https://pochemeow.softonic-th.com](https://pochemeow.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## Pokm VPN - STR IP MAX
- - [https://pokm-vpn-str-ip-max.softonic-th.com](https://pokm-vpn-str-ip-max.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Private Credit-ยมเงนดวน
- - [https://private-credit-ymengndwn.softonic-th.com](https://private-credit-ymengndwn.softonic-th.com)
- - date_published: 2024-08-04T22:17:05.543333+00:00
-
- ## Procreate
- - [https://procreate.softonic-th.com](https://procreate.softonic-th.com)
- - date_published: 2024-08-04T22:19:35.735185+00:00
-
- ## Psiphon Browser
- - [https://psiphon-browser.softonic-th.com](https://psiphon-browser.softonic-th.com)
- - date_published: 2024-08-04T22:17:49.628786+00:00
-
- ## Puffin Web Browser
- - [https://puffin-web-browser.softonic-th.com](https://puffin-web-browser.softonic-th.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Pure Tuber -Video  Audio Play
- - [https://pure-tuber-video-audio-play.softonic-th.com](https://pure-tuber-video-audio-play.softonic-th.com)
- - date_published: 2024-08-04T22:19:11.829454+00:00
-
- ## Pusher Mobile Push Notifications API
- - [https://pusher-mobile-push-notifications-api.softonic-th.com](https://pusher-mobile-push-notifications-api.softonic-th.com)
- - date_published: 2024-08-04T22:20:31.385845+00:00
-
- ## PuTTY
- - [https://putty.softonic-th.com](https://putty.softonic-th.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## qBittorrent
- - [https://qbittorrent.softonic-th.com](https://qbittorrent.softonic-th.com)
- - date_published: 2024-07-14T16:03:54.404385+00:00
-
  ## Qjob - Helyi szakemberek
  - [https://qjob-helyi-szakemberek.softonic-th.com](https://qjob-helyi-szakemberek.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## Quake Live Wallpaper
- - [https://quake-live-wallpaper.softonic-th.com](https://quake-live-wallpaper.softonic-th.com)
- - date_published: 2024-08-04T22:21:23.266837+00:00
-
- ## Quick Math - Mental Arithmetic
- - [https://quick-math-mental-arithmetic.softonic-th.com](https://quick-math-mental-arithmetic.softonic-th.com)
- - date_published: 2024-08-04T22:17:46.402726+00:00
-
- ## QuickShortcutMaker
- - [https://quickshortcutmaker.softonic-th.com](https://quickshortcutmaker.softonic-th.com)
- - date_published: 2024-08-04T22:19:37.236467+00:00
-
- ## RACHA VPN
- - [https://racha-vpn.softonic-th.com](https://racha-vpn.softonic-th.com)
- - date_published: 2024-08-04T22:20:17.358622+00:00
-
- ## Relax and Rest Guided Meditations
- - [https://relax-and-rest-guided-meditations.softonic-th.com](https://relax-and-rest-guided-meditations.softonic-th.com)
- - date_published: 2024-08-04T22:09:38.994062+00:00
-
- ## Remini - Photo Enhancer
- - [https://remini-photo-enhancer.softonic-th.com](https://remini-photo-enhancer.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Retaliate
- - [https://retaliate.softonic-th.com](https://retaliate.softonic-th.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## ROBLOX
- - [https://roblox.softonic-th.com](https://roblox.softonic-th.com)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Roblox Studio
- - [https://roblox-studio.softonic-th.com](https://roblox-studio.softonic-th.com)
- - date_published: 2024-08-04T22:10:07.720350+00:00
 
  ## Rock Paper Scissors ULTIMATE
  - [https://rock-paper-scissors-ultimate.softonic-th.com](https://rock-paper-scissors-ultimate.softonic-th.com)
@@ -330,93 +406,13 @@
  - [https://rollz-hecate-ediciones.softonic-th.com](https://rollz-hecate-ediciones.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## Safari
- - [https://safari.softonic-th.com](https://safari.softonic-th.com)
- - date_published: 2024-08-04T22:20:22.066639+00:00
-
- ## Samsung Finance
- - [https://samsung-finance.softonic-th.com](https://samsung-finance.softonic-th.com)
- - date_published: 2024-08-04T22:19:47.391046+00:00
-
- ## Galaxy Apps
- - [https://samsung-galaxy-apps.softonic-th.com](https://samsung-galaxy-apps.softonic-th.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Samsung Smart Switch
- - [https://samsung-smart-switch.softonic-th.com](https://samsung-smart-switch.softonic-th.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Sandboxie
- - [https://sandboxie.softonic-th.com](https://sandboxie.softonic-th.com)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Settings Database Editor
- - [https://settings-database-editor.softonic-th.com](https://settings-database-editor.softonic-th.com)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Shan Standard Keyboard
- - [https://shan-standard-keyboard.softonic-th.com](https://shan-standard-keyboard.softonic-th.com)
- - date_published: 2024-08-03T16:18:17.334640+00:00
-
  ## Shape Screw Jam - Wood Nuts
  - [https://shape-screw-jam-wood-nuts.softonic-th.com](https://shape-screw-jam-wood-nuts.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## SHAREit
- - [https://shareit.softonic-th.com](https://shareit.softonic-th.com)
- - date_published: 2024-08-04T22:10:27.168087+00:00
-
- ## ShareMe for PC
- - [https://shareme.softonic-th.com](https://shareme.softonic-th.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Shell Recharge Asia
- - [https://shell-recharge-asia.softonic-th.com](https://shell-recharge-asia.softonic-th.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
  ## 失落星环
  - [https://shi-luo-xing-huan.softonic-th.com](https://shi-luo-xing-huan.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## Simple Sticky Notes
- - [https://simple-sticky-notes.softonic-th.com](https://simple-sticky-notes.softonic-th.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## SketchUp Make
- - [https://sketchup-make.softonic-th.com](https://sketchup-make.softonic-th.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## SketchUp
- - [https://sketchup.softonic-th.com](https://sketchup.softonic-th.com)
- - date_published: 2024-08-04T22:20:35.234423+00:00
-
- ## SKY VPN
- - [https://sky-vpn.softonic-th.com](https://sky-vpn.softonic-th.com)
- - date_published: 2024-08-04T22:11:39.788071+00:00
-
- ## SnapTube Video
- - [https://snaptube-free-music-tube-player.softonic-th.com](https://snaptube-free-music-tube-player.softonic-th.com)
- - date_published: 2024-08-04T22:21:34.207495+00:00
-
- ## Solo VPN - One Tap Free Proxy
- - [https://solo-vpn-one-tap-free-proxy.softonic-th.com](https://solo-vpn-one-tap-free-proxy.softonic-th.com)
- - date_published: 2024-08-04T22:17:13.200190+00:00
-
- ## SoMud
- - [https://somud.softonic-th.com](https://somud.softonic-th.com)
- - date_published: 2024-07-14T16:04:05.671777+00:00
-
- ## Speed Download
- - [https://speed-download.softonic-th.com](https://speed-download.softonic-th.com)
- - date_published: 2024-08-04T22:09:29.360474+00:00
-
- ## Speedometer
- - [https://speedometer-g25.softonic-th.com](https://speedometer-g25.softonic-th.com)
- - date_published: 2024-08-04T22:11:13.852339+00:00
-
- ## Speedometer GPS
- - [https://speedometer-gps.softonic-th.com](https://speedometer-gps.softonic-th.com)
- - date_published: 2024-08-03T16:18:21.076826+00:00
 
  ## SportPesa Tanzania
  - [https://sportpesa-tanzania.softonic-th.com](https://sportpesa-tanzania.softonic-th.com)
@@ -426,245 +422,29 @@
  - [https://sports-sports-netflix.softonic-th.com](https://sports-sports-netflix.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## SPSS
- - [https://spss.softonic-th.com](https://spss.softonic-th.com)
- - date_published: 2024-08-04T22:11:42.096906+00:00
-
- ## Stellar Data Recovery Free
- - [https://stellar-data-recovery-free.softonic-th.com](https://stellar-data-recovery-free.softonic-th.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Data Recovery Premium
- - [https://stellar-data-recovery-premium.softonic-th.com](https://stellar-data-recovery-premium.softonic-th.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Data Recovery
- - [https://stellar-data-recovery.softonic-th.com](https://stellar-data-recovery.softonic-th.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Data Recovery Technician
- - [https://stellar-data-recovery-technician.softonic-th.com](https://stellar-data-recovery-technician.softonic-th.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Photo Recovery Free
- - [https://stellar-photo-recovery-free.softonic-th.com](https://stellar-photo-recovery-free.softonic-th.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Stellar Repair for Photo
- - [https://stellar-repair-for-photo.softonic-th.com](https://stellar-repair-for-photo.softonic-th.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## SuperSU
- - [https://supersu.softonic-th.com](https://supersu.softonic-th.com)
- - date_published: 2024-08-04T22:10:41.105345+00:00
-
- ## TapTap
- - [https://taptap.softonic-th.com](https://taptap.softonic-th.com)
- - date_published: 2024-08-04T22:17:31.933551+00:00
-
  ## Tavern Talk
  - [https://tavern-talk.softonic-th.com](https://tavern-talk.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
-
- ## TeamViewer
- - [https://teamviewer.softonic-th.com](https://teamviewer.softonic-th.com)
- - date_published: 2024-02-28T00:00:00+00:00
 
  ## Telegram
  - [https://telegram.softonic-th.com](https://telegram.softonic-th.com)
  - date_published: 2024-08-02T00:00:00+00:00
 
- ## Thanksgiving for iMessage Stickers
- - [https://thanksgiving-for-imessage-stickers.softonic-th.com](https://thanksgiving-for-imessage-stickers.softonic-th.com)
- - date_published: 2024-08-04T22:18:58.995628+00:00
-
- ## The Simpsons Icons
- - [https://the-simpsons-icons.softonic-th.com](https://the-simpsons-icons.softonic-th.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## The Sims
- - [https://the-sims-3-mac.softonic-th.com](https://the-sims-3-mac.softonic-th.com)
- - date_published: 2024-08-04T22:09:48.863788+00:00
-
  ## Thú Kỳ Huyền 3D Mobile
  - [https://thu-ky-huyen-3d-mobile.softonic-th.com](https://thu-ky-huyen-3d-mobile.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
-
- ## tigerVPN
- - [https://tigervpn.softonic-th.com](https://tigervpn.softonic-th.com)
- - date_published: 2024-08-04T22:17:25.348431+00:00
-
- ## TMT Welfare
- - [https://tmt-welfare.softonic-th.com](https://tmt-welfare.softonic-th.com)
- - date_published: 2024-08-04T22:18:45.699342+00:00
-
- ## Toca Kitchen Sushi Restaurant
- - [https://toca-kitchen-sushi.softonic-th.com](https://toca-kitchen-sushi.softonic-th.com)
- - date_published: 2024-08-04T22:18:42.254867+00:00
-
- ## Toca Life World: Build stories
- - [https://toca-life-world.softonic-th.com](https://toca-life-world.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Topaz Photo AI
- - [https://topaz-photo-ai.softonic-th.com](https://topaz-photo-ai.softonic-th.com)
- - date_published: 2024-08-04T22:11:07.410608+00:00
-
- ## Topaz Video AI
- - [https://topaz-video-ai.softonic-th.com](https://topaz-video-ai.softonic-th.com)
- - date_published: 2024-08-04T22:22:01.000385+00:00
-
- ## Torrent RT Free
- - [https://torrent-rt-free.softonic-th.com](https://torrent-rt-free.softonic-th.com)
- - date_published: 2024-07-14T16:03:42.593705+00:00
-
- ## Traffic D - Pro
- - [https://traffic-d-pro.softonic-th.com](https://traffic-d-pro.softonic-th.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Transmission
- - [https://transmission.softonic-th.com](https://transmission.softonic-th.com)
- - date_published: 2024-08-04T22:11:28.636615+00:00
-
- ## Tribler
- - [https://tribler.softonic-th.com](https://tribler.softonic-th.com)
- - date_published: 2024-07-14T16:03:48.120830+00:00
-
- ## TrueMoney Wallet
- - [https://truemoney-wallet.softonic-th.com](https://truemoney-wallet.softonic-th.com)
- - date_published: 2024-08-04T22:09:54.007142+00:00
-
- ## TubeMate 2
- - [https://tubemate-2.softonic-th.com](https://tubemate-2.softonic-th.com)
- - date_published: 2024-08-04T22:20:04.976239+00:00
-
- ## TubeMate
- - [https://tubemate.softonic-th.com](https://tubemate.softonic-th.com)
- - date_published: 2024-08-04T22:17:58.159440+00:00
-
- ## Tutuapp
- - [https://tutuapp.softonic-th.com](https://tutuapp.softonic-th.com)
- - date_published: 2024-08-04T22:18:18.016018+00:00
-
- ## UltraViewer
- - [https://ultraviewer.softonic-th.com](https://ultraviewer.softonic-th.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Uptodown
- - [https://uptodown.softonic-th.com](https://uptodown.softonic-th.com)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## uTorrent Alpha
- - [https://utorrent-alpha.softonic-th.com](https://utorrent-alpha.softonic-th.com)
- - date_published: 2024-07-14T16:04:16.515801+00:00
-
- ## uTorrent
- - [https://utorrent.softonic-th.com](https://utorrent.softonic-th.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## uTorrent Web
- - [https://utorrent-web.softonic-th.com](https://utorrent-web.softonic-th.com)
- - date_published: 2024-07-14T16:03:44.681314+00:00
-
- ## Vanced Tube Music Streamer
- - [https://vanced-tube-music-streamer.softonic-th.com](https://vanced-tube-music-streamer.softonic-th.com)
- - date_published: 2024-08-04T22:18:10.069607+00:00
 
  ## Vega - AI Chat App
  - [https://vega-ai-chat-app.softonic-th.com](https://vega-ai-chat-app.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## VirtualBox
- - [https://virtualbox-mac.softonic-th.com](https://virtualbox-mac.softonic-th.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## VLC media player
- - [https://vlc-media-player.softonic-th.com](https://vlc-media-player.softonic-th.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## VoiceLab - change your voice
- - [https://voicelab-change-your-voice.softonic-th.com](https://voicelab-change-your-voice.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Voicemod
- - [https://voicemod.softonic-th.com](https://voicemod.softonic-th.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## VPN Easy
- - [https://vpn-easy.softonic-th.com](https://vpn-easy.softonic-th.com)
- - date_published: 2024-08-04T22:21:05.044941+00:00
-
- ## VPN QuickClient
- - [https://vpn-quickclient.softonic-th.com](https://vpn-quickclient.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Vuze
- - [https://vuze.softonic-th.com](https://vuze.softonic-th.com)
- - date_published: 2024-05-11T11:48:04.754733+00:00
-
- ## WeChat
- - [https://wechat.softonic-th.com](https://wechat.softonic-th.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## WeDJ for iPhone
- - [https://wedj-for-iphone.softonic-th.com](https://wedj-for-iphone.softonic-th.com)
- - date_published: 2024-08-04T22:10:19.114915+00:00
-
- ## WeDJ
- - [https://wedj.softonic-th.com](https://wedj.softonic-th.com)
- - date_published: 2024-07-27T00:00:00+00:00
-
- ## Wifi Password(ROOT)
- - [https://wifi-password-root.softonic-th.com](https://wifi-password-root.softonic-th.com)
- - date_published: 2024-08-04T22:11:15.678953+00:00
-
- ## Windows Defender
- - [https://windows-defender.softonic-th.com](https://windows-defender.softonic-th.com)
- - date_published: 2024-08-04T22:21:56.551636+00:00
-
- ## WinRAR
- - [https://winrar.softonic-th.com](https://winrar.softonic-th.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
  ## WordBrain - Word puzzle game
  - [https://wordbrain-word-puzzle-game.softonic-th.com](https://wordbrain-word-puzzle-game.softonic-th.com)
  - date_published: 2024-08-01T00:00:00+00:00
 
- ## WowKit
- - [https://wowkit.softonic-th.com](https://wowkit.softonic-th.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
  ## ข่าวและรีวิวเกี่ยวกับแอพ ตลอดจนการดาวน์โหลดและค้นหาซอฟต์แวร์ที่ดีที่สุด - Softonic
  - [https://softonic-th.com](https://softonic-th.com)
  - date_published: 2024-04-29T05:05:22.848850+00:00
-
- ## XBoost - GameSpace
- - [https://xboost-gamespace.softonic-th.com](https://xboost-gamespace.softonic-th.com)
- - date_published: 2024-08-04T22:18:39.154880+00:00
-
- ## Security
- - [https://xiaomi-security.softonic-th.com](https://xiaomi-security.softonic-th.com)
- - date_published: 2024-08-04T22:18:52.598033+00:00
-
- ## Yandere Simulator
- - [https://yandere-simulator.softonic-th.com](https://yandere-simulator.softonic-th.com)
- - date_published: 2024-08-04T22:20:53.031063+00:00
-
- ## YT3 Music Downloader
- - [https://yt3-music-downloader.softonic-th.com](https://yt3-music-downloader.softonic-th.com)
- - date_published: 2024-08-04T22:09:52.318017+00:00
-
- ## YT Vanced
- - [https://yt-vanced.softonic-th.com](https://yt-vanced.softonic-th.com)
- - date_published: 2024-08-04T22:10:33.807743+00:00
-
- ## ZokoCloud
- - [https://zokocloud.softonic-th.com](https://zokocloud.softonic-th.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Zoom Meetings
- - [https://zoom.softonic-th.com](https://zoom.softonic-th.com)
- - date_published: 2024-08-04T22:20:32.949765+00:00
 
  ## Softpaz: Windows Software | Themes | Games | Wallpapers
  - [https://softpaz.com](https://softpaz.com)
@@ -747,7 +527,7 @@
  - date_published: 2024-06-22T09:14:13.032665+00:00
 
  ## Business Software Reviews from Software Advice®
- - [https://www.softwareadvice.com](https://www.softwareadvice.com)
+ - [https://softwareadvice.com](https://softwareadvice.com)
  - date_published: 2024-04-27T07:12:15.072704+00:00
 
  ## Software AG Blog Homepage - Software AG
@@ -981,6 +761,10 @@
  ## Software Testing Magazine
  - [https://www.softwaretestingmagazine.com](https://www.softwaretestingmagazine.com)
  - date_published: 2016-03-05T08:36:53+00:00
+
+ ## سایت bet90 فارسی
+ - [http://softwareufabet.com](http://softwareufabet.com)
+ - date_published: 2024-08-08T11:50:55.761514+00:00
 
  ## Software Walker
  - [https://softwarewalker.com](https://softwarewalker.com)
@@ -1256,7 +1040,7 @@
  - date_published: 2022-05-27T19:18:21+00:00
 
  ## Solar Energy News
- - [https://www.solardaily.com](https://www.solardaily.com)
+ - [https://solardaily.com](https://solardaily.com)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## Solar Eclipse Timer App
@@ -1266,6 +1050,10 @@
  ## Home - Solar Foods
  - [https://solarfoods.com](https://solarfoods.com)
  - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Careers - Solar Industries India Limited"
+ - [https://careers.solargroup.com](https://careers.solargroup.com)
+ - date_published: 2024-08-07T07:56:11+00:00
 
  ## Home - Solar Industries India Limited
  - [https://solargroup.com](https://solargroup.com)
@@ -1601,6 +1389,10 @@
  ## Solutionaries
  - [https://www.solutionariesnetwork.com](https://www.solutionariesnetwork.com)
  - date_published: 2024-06-20T23:53:48.378450+00:00
+
+ ## SolveBio
+ - [https://www.solvebio.com](https://www.solvebio.com)
+ - date_published: 2023-08-22T18:38:10+00:00
 
  ## Solveig Sørbø
  - [https://solveigsorbo.com](https://solveigsorbo.com)
@@ -2595,6 +2387,10 @@
  - [http://www.sophiehoulden.com](http://www.sophiehoulden.com)
  - date_published: 2024-06-22T14:48:09.933391+00:00
 
+ ## Sophie Leetmaa
+ - [https://sophieleetmaa.com](https://sophieleetmaa.com)
+ - date_published: 2024-07-07T09:19:21+00:00
+
  ## Diese Webseite befindet sich im Aufbau
  - [http://sophieschweighart.com](http://sophieschweighart.com)
  - date_published: 2023-10-20T17:16:27+00:00
@@ -2775,6 +2571,10 @@
  ## Sotergreco
  - [https://sotergreco.com](https://sotergreco.com)
  - date_published: 2024-05-12T00:00:00+00:00
+
+ ## sothawo
+ - [https://www.sothawo.com](https://www.sothawo.com)
+ - date_published: 2024-05-18T15:18:54+00:00
 
  ## Sotheby's | Home
  - [https://shared.sothebys.com](https://shared.sothebys.com)
@@ -2989,6 +2789,10 @@
  - [https://www.soundlining.com](https://www.soundlining.com)
  - date_published: 2024-07-22T04:53:17.414383+00:00
 
+ ## Soundlister.com - the place to find audio professionals
+ - [http://soundlister.com](http://soundlister.com)
+ - date_published: 2024-08-08T20:58:10+00:00
+
  ## Soundly Caring
  - [https://soundlycaring.com](https://soundlycaring.com)
  - date_published: 2024-05-04T07:56:14.535993+00:00
@@ -3104,6 +2908,10 @@
  ## SoundStage! Xperience | SoundStageXperience.com - Latest
  - [https://soundstagexperience.com](https://soundstagexperience.com)
  - date_published: 2024-04-29T05:26:57.464302+00:00
+
+ ## The Sound Story Network
+ - [https://soundstorynetwork.com](https://soundstorynetwork.com)
+ - date_published: 2024-08-08T23:02:27.379373+00:00
 
  ## Soundtoys: Plug-in Some Attitude.
  - [https://www.soundtoys.com](https://www.soundtoys.com)
@@ -3442,6 +3250,10 @@
  ## Southland Beer
  - [https://www.southlandbeer.com](https://www.southlandbeer.com)
  - date_published: 2024-06-20T16:57:12.705923+00:00
+
+ ## Contemporary art galleries and studios in South East London
+ - [http://www.southlondonartmap.com](http://www.southlondonartmap.com)
+ - date_published: 2024-08-08T19:38:06.358511+00:00
 
  ## Drug and Alcohol Outpatient Treatment Center In Austin, TX
  - [https://southmeadowsrecovery.com](https://southmeadowsrecovery.com)
@@ -3862,7 +3674,7 @@
  - date_published: 2024-06-23T15:06:01.476399+00:00
 
  ## Space Business and Industry News at SpaceMart.com
- - [https://www.spacemart.com](https://www.spacemart.com)
+ - [https://spacemart.com](https://spacemart.com)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## Space News Advertising, Defense News Advertising, Environment News Advertising, Energy News Advertising
@@ -3978,7 +3790,7 @@
  - date_published: 2024-04-15T00:00:00+00:00
 
  ## Military Space News, Nuclear Weapons, Missile Defense
- - [https://www.spacewar.com](https://www.spacewar.com)
+ - [https://spacewar.com](https://spacewar.com)
  - date_published: 2024-04-28T00:00:00+00:00
 
  ## SpaceWeather.com -- News and information about meteor showers, solar flares, auroras, and near-Earth asteroids
@@ -4037,4 +3849,195 @@
  ## Official SpaceX Store
  - [https://shop.spacex.com](https://shop.spacex.com)
  - date_published: 2024-06-06T00:00:00+00:00
+
+ ## SpaceX
+ - [https://spacex.com](https://spacex.com)
+ - date_published: 2023-10-25T17:09:21.854731+00:00
+ - tags: ['space flight']
+
+ ## ✶ Documentation ✶ | Space X-Chimp. Docs
+ - [https://docs.spacexchimp.com](https://docs.spacexchimp.com)
+ - date_published: 2017-06-26T00:00:00+00:00
+
+ ## STATUS
+ - [https://status.spacexchimp.com](https://status.spacexchimp.com)
+ - date_published: 2024-07-14T02:09:16.733132+00:00
+
+ ## Space X-Chimp
+ - [https://spacexchimp.com](https://spacexchimp.com)
+ - date_published: 2017-06-26T00:00:00+00:00
+
+ ## Spacinov | Spacinov
+ - [https://spacinov.com](https://spacinov.com)
+ - date_published: 2024-05-11T07:26:08.404193+00:00
+
+ ## Spacivox - A New Horizon For Customer Interactions
+ - [https://www.spacivox.com](https://www.spacivox.com)
+ - date_published: 2024-07-13T12:52:50.257353+00:00
+
+ ## Rafal Spacjer blog
+ - [https://www.spacjer.com](https://www.spacjer.com)
+ - date_published: 2018-03-02T00:00:00+00:00
+
+ ## Spadea Lignana Franchise Attorneys | Experienced Franchise Lawyers
+ - [https://www.spadealaw.com](https://www.spadealaw.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Engaging Blogs and Insights | Spade In America
+ - [https://spadeinamerica.com](https://spadeinamerica.com)
+ - date_published: 2024-08-07T21:30:12.761490+00:00
+
+ ## TOUR 2023 | SPAG HEDDY 2023
+ - [https://www.spagheddy.com](https://www.spagheddy.com)
+ - date_published: 2023-11-13T09:56:19.744929+00:00
+ - tags: ['music band']
+
+ ## SpaghettETH Map
+ - [https://spaghett-eth.com](https://spaghett-eth.com)
+ - date_published: 2024-06-16T04:59:45.466424+00:00
+
+ ## Top Quality Guitar Tools & Accessories | Spaghetti Guitar
+ - [https://spaghettiguitartools.com](https://spaghettiguitartools.com)
+ - date_published: 2024-08-07T21:28:02.359730+00:00
+
+ ## Latest Spanish News, Events and Sport - Spain in English
+ - [https://spainenglish.com](https://spainenglish.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Zero Credibility | Slava Akhmechet | Substack
+ - [https://www.spakhm.com](https://www.spakhm.com)
+ - date_published: 2023-10-25T17:09:24.192822+00:00
+
+ ## Access the Portal – Blocklist Tester | Spamhaus
+ - [https://blt.spamhaus.com](https://blt.spamhaus.com)
+ - date_published: 2024-07-10T03:49:36.063141+00:00
+
+ ## Leaders in IP and domain reputation data | Spamhaus Technology
+ - [https://www.spamhaus.com](https://www.spamhaus.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Spandana Gella -
+ - [http://spandanagella.com](http://spandanagella.com)
+ - date_published: 2024-06-16T21:50:25.510648+00:00
+
+ ## Spandidos Publications
+ - [https://www.spandidos-publications.com](https://www.spandidos-publications.com)
+ - date_published: 2023-12-03T06:58:09.412844+00:00
+
+ ## Collision Repair Equipment - Spanesi
+ - [https://www.spanesi.com](https://www.spanesi.com)
+ - date_published: 2024-07-09T21:21:32.921561+00:00
+
+ ## SpanishDictionary.com
+ - [https://www.spanishdict.com](https://www.spanishdict.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Spannr - Longevity News & Insights
+ - [https://spannr.com](https://spannr.com)
+ - date_published: 2023-10-25T17:09:26.064802+00:00
+
+ ## Sparanoid
+ - [http://sparanoid.com](http://sparanoid.com)
+ - date_published: 2021-06-27T16:36:27+00:00
+
+ ## Signin
+ - [https://app.spare5.com](https://app.spare5.com)
+ - date_published: 2024-05-01T06:25:15.464873+00:00
+
+ ## Spare - Microtransit and ADA-Paratransit Platform
+ - [https://sparelabs.com](https://sparelabs.com)
+ - date_published: 2024-07-08T16:13:17.295405+00:00
+
+ ## Sparemint Design: Web site design and development
+ - [http://sparemint.com](http://sparemint.com)
+ - date_published: 2024-05-09T20:09:20.645097+00:00
+
+ ## About Spare Time Labs
+ - [http://sparetimelabs.com](http://sparetimelabs.com)
+ - date_published: 2024-07-12T22:07:02.479188+00:00
+
+ ## Sparist
+ - [https://sparist.com](https://sparist.com)
+ - date_published: 2018-12-31T17:03:04+00:00
+
+ ## Spark Advisors
+ - [https://www.sparkadvisors.com](https://www.sparkadvisors.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sparkart
+ - [https://www.sparkart.com](https://www.sparkart.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Spark, Bang, Buzz and Other Good Stuff.
+ - [http://www.sparkbangbuzz.com](http://www.sparkbangbuzz.com)
+ - date_published: 2024-05-29T20:58:40.820214+00:00
+ - tags: ['personal']
+
+ ## Apache Spark 3.5 Tutorial with Examples
+ - [https://sparkbyexamples.com](https://sparkbyexamples.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Spark Capital
+ - [https://www.sparkcapital.com](https://www.sparkcapital.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Customer Acquisition For B2B SaaS | Spark Creative Technologies
+ - [https://www.sparkcreativetechnologies.com](https://www.sparkcreativetechnologies.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Spark | Digital Design & Development Agency
+ - [https://sparkdsg.com](https://sparkdsg.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Spark Edition Newsletter
+ - [https://sparkedition.com](https://sparkedition.com)
+ - date_published: 2024-04-28T05:59:52.589753+00:00
+
+ ## Blog | SparkFabrik
+ - [https://blog.sparkfabrik.com](https://blog.sparkfabrik.com)
+ - date_published: 2024-06-27T00:24:47+00:00
+
+ ## https://careers.sparkfabrik.com/it/
+ - [https://careers.sparkfabrik.com](https://careers.sparkfabrik.com)
+ - date_published: 2024-04-09T14:34:30+00:00
+
+ ## SparkFabrik Playbook
+ - [https://playbook.sparkfabrik.com](https://playbook.sparkfabrik.com)
+ - date_published: 2024-06-28T10:53:46.233044+00:00
+
+ ## https://tech.sparkfabrik.com/en/
+ - [https://tech.sparkfabrik.com](https://tech.sparkfabrik.com)
+ - date_published: 2024-06-24T10:21:07+00:00
+
+ ## SparkFabrik - DevOps, Kubernetes, Agile Web Development, Cloud Native, Drupal Experts, Drupal Consultancy, Angular Development | SparkFabrik
+ - [https://sparkfabrik.com](https://sparkfabrik.com)
+ - date_published: 2024-05-06T22:31:29.849924+00:00
+
+ ## Home | Spark Foundry
+ - [https://www.sparkfoundryww.com](https://www.sparkfoundryww.com)
+ - date_published: 2024-06-25T23:15:54.985563+00:00
+
+ ## SparkFun À La Carte - À La Carte - SparkFun Electronics
+ - [https://alc.sparkfun.com](https://alc.sparkfun.com)
+ - date_published: 2024-04-29T05:35:39.357735+00:00
+
+ ## SparkFun Forum - SparkFun Electronics Forum
+ - [https://forum.sparkfun.com](https://forum.sparkfun.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Learn at SparkFun Electronics - SparkFun Learn
+ - [https://learn.sparkfun.com](https://learn.sparkfun.com)
+ - date_published: 2023-10-25T17:09:28.626320+00:00
+
+ ## SparkFun Electronics
+ - [https://sparkfun.com](https://sparkfun.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## SparkFun Education - Maker Education
+ - [https://sparkfuneducation.com](https://sparkfuneducation.com)
+ - date_published: 2024-04-29T05:35:49.923160+00:00
+
+ ## Sparkgeo provides geospatial expertise to tech companies.
+ - [https://sparkgeo.com](https://sparkgeo.com)
+ - date_published: 2024-05-08T11:28:46.676965+00:00
 
