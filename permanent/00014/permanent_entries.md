@@ -1,3 +1,251 @@
+ ## Ben's Personal Wiki
+ - [https://wiki.bolte.cc](https://wiki.bolte.cc)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Benjamin Bouvier's world
+ - [https://bouvier.cc](https://bouvier.cc)
+ - date_published: 2024-07-05T08:21:59+00:00
+
+ ## AI Campaign Toolkit
+ - [https://aitoolkit.brandresponse.cc](https://aitoolkit.brandresponse.cc)
+ - date_published: 2024-07-03T01:54:04.977795+00:00
+
+ ## We move people to act on the most important issues of our time
+ - [https://brandresponse.cc](https://brandresponse.cc)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Brett Shavers – Holen Sie sich attraktive deutsche Flyer Designs
+ - [http://brettshavers.cc](http://brettshavers.cc)
+ - date_published: 2023-08-29T00:00:00+00:00
+
+ ## Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams
+ - [https://www.budgetflow.cc](https://www.budgetflow.cc)
+ - date_published: 2024-08-07T11:56:02+00:00
+
+ ## Business Directory Blog | Digital Marketing Topics
+ - [https://blog.businessdirectory.cc](https://blog.businessdirectory.cc)
+ - date_published: 2024-06-29T19:26:21.440179+00:00
+
+ ## Home Global - Global Business Directory
+ - [https://businessdirectory.cc](https://businessdirectory.cc)
+ - date_published: 2022-09-11T00:00:00+00:00
+
+ ## Home | USA Business Directory
+ - [https://usa.businessdirectory.cc](https://usa.businessdirectory.cc)
+ - date_published: 2022-09-17T00:00:00+00:00
+
+ ## Ars Technica
+ - [https://arstechnica.buzzing.cc](https://arstechnica.buzzing.cc)
+ - date_published: 2024-07-16T17:58:11.154344+00:00
+
+ ## Reddit 热门提问
+ - [https://ask.buzzing.cc](https://ask.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Hacker News 问答
+ - [https://askhn.buzzing.cc](https://askhn.buzzing.cc)
+ - date_published: 2024-07-16T17:56:02.793088+00:00
+
+ ## 大西洋周刊
+ - [https://atlantic.buzzing.cc](https://atlantic.buzzing.cc)
+ - date_published: 2024-07-16T18:01:07.595031+00:00
+
+ ## BBC
+ - [https://bbc.buzzing.cc](https://bbc.buzzing.cc)
+ - date_published: 2024-07-16T18:00:23.276745+00:00
+
+ ## Bear Blog
+ - [https://bearblog.buzzing.cc](https://bearblog.buzzing.cc)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Big Think
+ - [https://bigthink.buzzing.cc](https://bigthink.buzzing.cc)
+ - date_published: 2024-07-16T18:03:49.419937+00:00
+
+ ## 彭博社最新报道
+ - [https://bloombergnew.buzzing.cc](https://bloombergnew.buzzing.cc)
+ - date_published: 2024-07-16T17:58:48.590687+00:00
+
+ ## 全球突发新闻
+ - [https://breaking.buzzing.cc](https://breaking.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Business Insider
+ - [https://businessinsider.buzzing.cc](https://businessinsider.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 中国话题
+ - [https://china.buzzing.cc](https://china.buzzing.cc)
+ - date_published: 2024-07-16T18:04:10.852562+00:00
+
+ ## 加密货币国外热门讨论
+ - [https://crypto.buzzing.cc](https://crypto.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 精神食粮
+ - [https://depth.buzzing.cc](https://depth.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Dev.to 热门
+ - [https://dev.buzzing.cc](https://dev.buzzing.cc)
+ - date_published: 2024-07-16T17:57:57.380709+00:00
+
+ ## 经济学人
+ - [https://economist.buzzing.cc](https://economist.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 经济学人最新报道
+ - [https://economistnew.buzzing.cc](https://economistnew.buzzing.cc)
+ - date_published: 2024-07-16T18:00:30.675605+00:00
+
+ ## 国外女权主义讨论
+ - [https://feminism.buzzing.cc](https://feminism.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 国外财经新闻
+ - [https://finance.buzzing.cc](https://finance.buzzing.cc)
+ - date_published: 2024-07-16T17:59:11.639036+00:00
+
+ ## 金融时报
+ - [https://ft.buzzing.cc](https://ft.buzzing.cc)
+ - date_published: 2024-07-16T18:01:45.468066+00:00
+
+ ## 谷歌全球新闻
+ - [https://googlenews.buzzing.cc](https://googlenews.buzzing.cc)
+ - date_published: 2024-07-16T18:01:38.540182+00:00
+
+ ## Hacker News 热门
+ - [https://hn.buzzing.cc](https://hn.buzzing.cc)
+ - date_published: 2024-07-16T17:55:21.321187+00:00
+
+ ## Hacker News 首页
+ - [https://hnfront.buzzing.cc](https://hnfront.buzzing.cc)
+ - date_published: 2024-07-16T18:00:38.693269+00:00
+
+ ## Hacker News 最新提交
+ - [https://hnnew.buzzing.cc](https://hnnew.buzzing.cc)
+ - date_published: 2024-05-12T06:42:14.113999+00:00
+
+ ## Buzzing
+ - [https://i.buzzing.cc](https://i.buzzing.cc)
+ - date_published: 2024-07-16T17:54:46.378972+00:00
+
+ ## Linux
+ - [https://linux.buzzing.cc](https://linux.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 生活科学
+ - [https://livescience.buzzing.cc](https://livescience.buzzing.cc)
+ - date_published: 2024-07-16T17:55:11.524297+00:00
+
+ ## Lobste 最新提交
+ - [https://lobste.buzzing.cc](https://lobste.buzzing.cc)
+ - date_published: 2024-07-16T18:02:15.453017+00:00
+
+ ## 自然杂志
+ - [https://nature.buzzing.cc](https://nature.buzzing.cc)
+ - date_published: 2024-07-16T18:00:59.670155+00:00
+
+ ## 国外新闻头条
+ - [https://news.buzzing.cc](https://news.buzzing.cc)
+ - date_published: 2024-07-16T17:57:45.030059+00:00
+
+ ## 纽约客
+ - [https://newyorker.buzzing.cc](https://newyorker.buzzing.cc)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## 纽约时报热门
+ - [https://nytimes.buzzing.cc](https://nytimes.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Product Hunt 热门
+ - [https://ph.buzzing.cc](https://ph.buzzing.cc)
+ - date_published: 2024-07-16T18:03:38.177559+00:00
+
+ ## phys.org 最新
+ - [https://phys.buzzing.cc](https://phys.buzzing.cc)
+ - date_published: 2024-07-16T17:55:54.125731+00:00
+
+ ## 政客(Politico)
+ - [https://politico.buzzing.cc](https://politico.buzzing.cc)
+ - date_published: 2024-07-16T17:56:23.326362+00:00
+
+ ## Quora 热门回答
+ - [https://quora.buzzing.cc](https://quora.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Reddit 热门
+ - [https://reddit.buzzing.cc](https://reddit.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Reddit中国小组
+ - [https://redditchina.buzzing.cc](https://redditchina.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 路透社
+ - [https://reuters.buzzing.cc](https://reuters.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 路透社最新报道
+ - [https://reutersnew.buzzing.cc](https://reutersnew.buzzing.cc)
+ - date_published: 2024-07-16T18:02:07.698817+00:00
+
+ ## Science Alert 杂志
+ - [https://sciencealert.buzzing.cc](https://sciencealert.buzzing.cc)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Show HN
+ - [https://showhn.buzzing.cc](https://showhn.buzzing.cc)
+ - date_published: 2024-07-16T18:03:58.397778+00:00
+
+ ## 业余项目分享交流
+ - [https://sideproject.buzzing.cc](https://sideproject.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 天空新闻
+ - [https://sky.buzzing.cc](https://sky.buzzing.cc)
+ - date_published: 2024-07-16T17:59:50.356477+00:00
+
+ ## 国外股市热门
+ - [https://stocks.buzzing.cc](https://stocks.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 国外科技头条
+ - [https://tech.buzzing.cc](https://tech.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 卫报
+ - [https://theguardian.buzzing.cc](https://theguardian.buzzing.cc)
+ - date_published: 2024-07-16T18:02:43.669596+00:00
+
+ ## 下饭视频
+ - [https://videos.buzzing.cc](https://videos.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Reddit新闻小组
+ - [https://worldnews.buzzing.cc](https://worldnews.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## 华尔街日报热门
+ - [https://wsj.buzzing.cc](https://wsj.buzzing.cc)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Buzzing
+ - [https://buzzing.cc](https://buzzing.cc)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## 雅虎财经
+ - [https://yahoo.buzzing.cc](https://yahoo.buzzing.cc)
+ - date_published: 2024-07-16T17:56:43.287283+00:00
+
+ ## Carlos Molina Barriga
+ - [https://carlosmolina.cc](https://carlosmolina.cc)
+ - date_published: 2024-06-16T23:02:41.814971+00:00
+
+ ## CEIT Development CC
+ - [http://www.ceit.cc](http://www.ceit.cc)
+ - date_published: 2024-06-20T07:31:03.362088+00:00
+
  ## Chardon, OH - Official Website | Official Website
  - [https://www.chardon.cc](https://www.chardon.cc)
  - date_published: 2024-07-04T08:03:00.414888+00:00
@@ -1349,6 +1597,10 @@
  - [https://bootcamp.uxdesign.cc](https://bootcamp.uxdesign.cc)
  - date_published: 2023-10-25T12:11:44.625622+00:00
 
+ ## UX Collective 🇧🇷
+ - [https://brasil.uxdesign.cc](https://brasil.uxdesign.cc)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## UX Essays
  - [https://essays.uxdesign.cc](https://essays.uxdesign.cc)
  - date_published: 2024-06-21T22:06:54.297218+00:00
@@ -2572,7 +2824,7 @@
  - date_published: 2024-06-10T00:00:00+00:00
 
  ## Sergio Camalich | Maker of Stuff
- - [https://www.camali.ch](https://www.camali.ch)
+ - [https://camali.ch](https://camali.ch)
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Canal9
@@ -3768,256 +4020,4 @@
  ## Fellay Lab - Human Genomics of Infection and Immunity
  - [https://fellay-lab.epfl.ch](https://fellay-lab.epfl.ch)
  - date_published: 2024-05-04T15:31:39.728539+00:00
-
- ## EPFL FRIBOURG
- - [http://fribourg.epfl.ch](http://fribourg.epfl.ch)
- - date_published: 2024-07-16T22:23:36+00:00
-
- ## Funweb – Site du cours "Internet & Code pour les Filles" du Service des Promotions des Sciences de l'EPFL
- - [http://funweb.epfl.ch](http://funweb.epfl.ch)
- - date_published: 2024-05-12T07:17:10.848755+00:00
-
- ## Education
- - [http://futuretudiant.epfl.ch](http://futuretudiant.epfl.ch)
- - date_published: 2024-07-16T18:01:15+00:00
-
- ## Gene Expression Core Facility
- - [https://gecf.epfl.ch](https://gecf.epfl.ch)
- - date_published: 2024-05-12T07:24:13.593877+00:00
-
- ## GECFTools
- - [https://gecftools.epfl.ch](https://gecftools.epfl.ch)
- - date_published: 2023-10-24T14:24:53+00:00
-
- ## EPFL Geneva
- - [http://geneva.epfl.ch](http://geneva.epfl.ch)
- - date_published: 2024-07-16T22:29:25+00:00
-
- ## Géoportail
- - [http://geoportail.epfl.ch](http://geoportail.epfl.ch)
- - date_published: 2024-07-16T22:04:47.970583+00:00
-
- ## GMF
- - [http://gmf.epfl.ch](http://gmf.epfl.ch)
- - date_published: 2024-07-16T22:33:18.869832+00:00
-
- ## Go EPFL
- - [https://go.epfl.ch](https://go.epfl.ch)
- - date_published: 2024-04-30T06:02:03.662321+00:00
-
- ## Welcome to the Histology Core Facility
- - [https://hcf.epfl.ch](https://hcf.epfl.ch)
- - date_published: 2024-05-12T07:17:13.521939+00:00
-
- ## Aide en ligne Gestion du temps de travail et des Absences
- - [https://help-absences.epfl.ch](https://help-absences.epfl.ch)
- - date_published: 2024-07-16T22:33:45+00:00
-
- ## Aide Infoscience
- - [http://help-infoscience.epfl.ch](http://help-infoscience.epfl.ch)
- - date_published: 2024-07-14T15:03:10+00:00
-
- ## Aide plan.epfl.ch
- - [http://help-plan.epfl.ch](http://help-plan.epfl.ch)
- - date_published: 2024-07-16T22:04:50+00:00
-
- ## AIPAI in Rome, “General States of Industrial Heritage”
- - [https://heritage-beijing-2022.epfl.ch](https://heritage-beijing-2022.epfl.ch)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Projets passés du IAGS
- - [http://iags.epfl.ch](http://iags.epfl.ch)
- - date_published: 2024-07-16T22:29:48+00:00
-
- ## Institute of Bioengineering
- - [http://ibi.epfl.ch](http://ibi.epfl.ch)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## School of Computer and Communication Sciences
- - [https://ic.epfl.ch](https://ic.epfl.ch)
- - date_published: 2024-07-16T22:23:12+00:00
-
- ## ic-people.epfl.ch
- - [https://ic-people.epfl.ch](https://ic-people.epfl.ch)
- - date_published: 2024-05-24T06:44:54+00:00
-
- ## EPFL Center for Imaging - Nurturing advanced imaging at EPFL
- - [https://imaging.epfl.ch](https://imaging.epfl.ch)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Sustainable Resilient Value Chains
- - [https://iml.epfl.ch](https://iml.epfl.ch)
- - date_published: 2023-09-21T00:00:00+00:00
-
- ## Engineering Industry Day March 14th, 2024
- - [https://industryday.epfl.ch](https://industryday.epfl.ch)
- - date_published: 2024-07-16T22:47:54.809944+00:00
-
- ## Qui sommes-nous
- - [http://information.epfl.ch](http://information.epfl.ch)
- - date_published: 2024-07-16T22:23:55+00:00
-
- ## Faire un formulaire web
- - [https://inform.epfl.ch](https://inform.epfl.ch)
- - date_published: 2024-07-16T22:23:06+00:00
-
- ## Infoscience
- - [https://infoscience.epfl.ch](https://infoscience.epfl.ch)
- - date_published: 2024-05-11T11:33:45.474635+00:00
-
- ## Login for the service Infoscience Exports
- - [https://infoscience-exports.epfl.ch](https://infoscience-exports.epfl.ch)
- - date_published: 2024-07-14T15:03:07.589219+00:00
-
- ## Inside
- - [https://inside.epfl.ch](https://inside.epfl.ch)
- - date_published: 2024-05-12T07:14:06.681733+00:00
-
- ## Affaires internationales
- - [http://international.epfl.ch](http://international.epfl.ch)
- - date_published: 2024-07-16T22:29:13+00:00
-
- ## VPN error
- - [https://intranet-ic.epfl.ch](https://intranet-ic.epfl.ch)
- - date_published: 2024-05-12T07:16:37.246321+00:00
-
- ## start [IPG Doc]
- - [https://ipgdoc.epfl.ch](https://ipgdoc.epfl.ch)
- - date_published: 2024-05-12T07:14:59.147320+00:00
-
- ## Information Processing Group
- - [http://ipg.epfl.ch](http://ipg.epfl.ch)
- - date_published: 2024-07-16T22:17:30+00:00
-
- ## IS-Academia
- - [https://isa.epfl.ch](https://isa.epfl.ch)
- - date_published: 2024-05-12T07:17:02.386752+00:00
-
- ## Login for the service NMR - Services and requests
- - [https://isic-nmr.epfl.ch](https://isic-nmr.epfl.ch)
- - date_published: 2024-05-12T07:16:46.492194+00:00
-
- ## Login for the service ISIC Reservation website
- - [https://isic-reservation.epfl.ch](https://isic-reservation.epfl.ch)
- - date_published: 2024-05-12T07:15:02.200048+00:00
-
- ## Service Portal - Services & Support
- - [https://it.epfl.ch](https://it.epfl.ch)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## LACAL
- - [https://lacal.epfl.ch](https://lacal.epfl.ch)
- - date_published: 2024-07-04T18:42:42.903845+00:00
-
- ## LAMP – Programming Methods Laboratory
- - [https://lamp.epfl.ch](https://lamp.epfl.ch)
- - date_published: 2024-07-04T03:53:15+00:00
-
- ## LAMP – Programming Methods Laboratory
- - [https://lampwww.epfl.ch](https://lampwww.epfl.ch)
- - date_published: 2024-05-08T04:47:22.619856+00:00
-
- ## Laboratory of Advanced Separations
- - [https://las.epfl.ch](https://las.epfl.ch)
- - date_published: 2024-05-12T07:17:39.157305+00:00
-
- ## AudioVisual Communications Laboratory
- - [https://lcav.epfl.ch](https://lcav.epfl.ch)
- - date_published: 2024-06-22T10:29:18+00:00
-
- ## LEPA
- - [https://lepa.epfl.ch](https://lepa.epfl.ch)
- - date_published: 2024-05-12T07:23:47.943599+00:00
-
- ## Solar Energy and Building Physics Laboratory LESO-PB
- - [https://leso2.epfl.ch](https://leso2.epfl.ch)
- - date_published: 2023-01-27T00:00:00+00:00
-
- ## LFIM
- - [https://lfim.epfl.ch](https://lfim.epfl.ch)
- - date_published: 2024-05-12T07:15:34.398405+00:00
-
- ## Geometric Computing Laboratory
- - [http://lgg.epfl.ch](http://lgg.epfl.ch)
- - date_published: 2024-06-21T07:01:39+00:00
-
- ## Bibliothèque de l’EPFL
- - [http://library.epfl.ch](http://library.epfl.ch)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Laboratory of Intelligent Systems
- - [http://lis.epfl.ch](http://lis.epfl.ch)
- - date_published: 2024-06-23T10:32:12+00:00
-
- ## Living Archives
- - [https://livingarchives.epfl.ch](https://livingarchives.epfl.ch)
- - date_published: 2024-05-12T07:15:48.130793+00:00
-
- ## LMER
- - [https://lmer.epfl.ch](https://lmer.epfl.ch)
- - date_published: 2024-05-12T07:14:29.020950+00:00
-
- ## Laboratory of Nanochemistry
- - [https://lnce.epfl.ch](https://lnce.epfl.ch)
- - date_published: 2024-05-12T07:24:10.207885+00:00
-
- ## EPFL | Les dossiers de l'actu
- - [https://longread.epfl.ch](https://longread.epfl.ch)
- - date_published: 2024-05-12T07:24:15.584154+00:00
-
- ## DCL –  Distributed Computing Laboratory - Home
- - [http://lpdwww.epfl.ch](http://lpdwww.epfl.ch)
- - date_published: 2024-07-16T22:48:21.468823+00:00
-
- ## LSMO – Laboratory of Molecular Simulation
- - [https://lsmo.epfl.ch](https://lsmo.epfl.ch)
- - date_published: 2024-05-12T07:24:27.270109+00:00
-
- ## LSS 2022 – EPFL School of Life Sciences Symposium 2022
- - [https://lss2022.epfl.ch](https://lss2022.epfl.ch)
- - date_published: 2024-07-16T22:33:51.556771+00:00
-
- ## Graduation Day – Magistrale
- - [https://magistrale.epfl.ch](https://magistrale.epfl.ch)
- - date_published: 2024-07-16T22:34:43.505995+00:00
-
- ## Initiative MAKE
- - [https://make.epfl.ch](https://make.epfl.ch)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## EPFL - PLAN
- - [https://map.epfl.ch](https://map.epfl.ch)
- - date_published: 2024-05-12T07:14:55.666598+00:00
-
- ## Master's studies
- - [http://master.epfl.ch](http://master.epfl.ch)
- - date_published: 2024-07-16T13:17:32+00:00
-
- ## Mediacom
- - [http://mediacom.epfl.ch](http://mediacom.epfl.ch)
- - date_published: 2024-07-10T08:31:41+00:00
-
- ## News & Media
- - [http://medias.epfl.ch](http://medias.epfl.ch)
- - date_published: 2024-07-16T11:33:19+00:00
-
- ## Media Library - EPFL
- - [http://mediatheque.epfl.ch](http://mediatheque.epfl.ch)
- - date_published: 2024-07-16T22:23:52.108035+00:00
-
- ## Memento EPFL | EPFL - EPFL
- - [https://memento.epfl.ch](https://memento.epfl.ch)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Middle East: help and support
- - [https://middleeast.epfl.ch](https://middleeast.epfl.ch)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## MoleculARweb
- - [https://molecularweb.epfl.ch](https://molecularweb.epfl.ch)
- - date_published: 2023-08-16T09:07:08+00:00
-
- ## MOOCs Catalogue
- - [http://moocs.epfl.ch](http://moocs.epfl.ch)
- - date_published: 2024-07-16T22:29:27+00:00
 

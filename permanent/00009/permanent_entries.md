@@ -1,3 +1,136 @@
+ ## mediapool – Inszenierungen – Veranstaltungen – Ausstellungen
+ - [https://mediapool.berlin](https://mediapool.berlin)
+ - date_published: 2024-07-09T14:14:39.894231+00:00
+
+ ## THE MERGE | Developer experience conference
+ - [https://merge.berlin](https://merge.berlin)
+ - date_published: 2024-05-04T08:02:13.388674+00:00
+
+ ## mobilize.berlin - Mobilizon
+ - [https://mobilize.berlin](https://mobilize.berlin)
+ - date_published: 2024-07-09T22:30:42.697616+00:00
+
+ ## Protocol Berg - Berlin
+ - [https://protocol.berlin](https://protocol.berlin)
+ - date_published: 2023-09-15T00:00:00+00:00
+
+ ## Protocol Berg
+ - [https://speak.protocol.berlin](https://speak.protocol.berlin)
+ - date_published: 2024-06-16T03:58:36.955445+00:00
+
+ ## ETHBerlin
+ - [https://tickets.protocol.berlin](https://tickets.protocol.berlin)
+ - date_published: 2024-06-16T03:59:05.403304+00:00
+
+ ## Q BERLIN
+ - [http://q.berlin](http://q.berlin)
+ - date_published: 2024-07-13T14:49:56.620096+00:00
+
+ ## React Day Berlin, December 13 & 16, 2024
+ - [https://reactday.berlin](https://reactday.berlin)
+ - date_published: 2024-06-22T23:47:39.840526+00:00
+
+ ## Saftladen Indie Games Collective
+ - [https://saftladen.berlin](https://saftladen.berlin)
+ - date_published: 2024-05-06T06:35:01.662724+00:00
+
+ ## Stadt.Land.Tech
+ - [https://www.smartcountry.berlin](https://www.smartcountry.berlin)
+ - date_published: 2024-07-17T00:23:03+00:00
+
+ ## Jeffrey Paul
+ - [https://sneak.berlin](https://sneak.berlin)
+ - date_published: 2024-06-01T05:06:05.436918+00:00
+ - tags: ['personal']
+
+ ## sneak (@sneak@sneak.berlin)
+ - [https://s.sneak.berlin](https://s.sneak.berlin)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Live Event Kooperationen mit SUBSATNZ.BERLIN
+ - [https://substanz.berlin](https://substanz.berlin)
+ - date_published: 2024-06-22T13:11:31.585503+00:00
+
+ ## Microsoft Teams User Group Berlin
+ - [https://teamsusergroup.berlin](https://teamsusergroup.berlin)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## toot.BERLIN
+ - [https://toot.berlin](https://toot.berlin)
+ - date_published: 2024-06-16T16:08:15.162795+00:00
+
+ ## Technische Universität Berlin
+ - [https://tu.berlin](https://tu.berlin)
+ - date_published: 2024-04-29T06:56:04.938790+00:00
+
+ ## Typostammtisch Berlin
+ - [https://typostammtisch.berlin](https://typostammtisch.berlin)
+ - date_published: 2024-07-13T23:52:14.168541+00:00
+
+ ## Volksbühne am Rosa-Luxemburg-Platz
+ - [https://volksbuehne.berlin](https://volksbuehne.berlin)
+ - date_published: 2024-05-11T07:40:59.295364+00:00
+
+ ## Meilleur Casino en Ligne - Découvrez les Top Sites de Jeux d'Argent
+ - [https://casinoenlignefrance.best](https://casinoenlignefrance.best)
+ - date_published: 2024-06-21T21:03:35.322883+00:00
+
+ ## Nеjlеpší сеskе оnlinе саsinа - Zábаvа s Čеskými Нráči 2024
+ - [https://ceskecasino.best](https://ceskecasino.best)
+ - date_published: 2024-06-21T20:56:32.154715+00:00
+
+ ## emma best
+ - [https://emma.best](https://emma.best)
+ - date_published: 2024-07-05T06:30:30+00:00
+
+ ## Free Online OCR Converter – Convert Image & PDF to Text
+ - [https://www.ocr.best](https://www.ocr.best)
+ - date_published: 2024-06-19T20:37:51.886281+00:00
+
+ ## Show HN: I made a free app to calibrate your turntable by simply playing a song
+ - [https://grooved.okat.best](https://grooved.okat.best)
+ - date_published: 2024-05-28T14:23:28+00:00
+
+ ## A launch platform for your products
+ - [https://uneed.best](https://uneed.best)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Webstar projets numériques | Création de site Internet
+ - [https://webstar.best](https://webstar.best)
+ - date_published: 2024-08-08T15:40:49.311017+00:00
+
+ ## Best Buy: Expert Service. Unbeatable Price.
+ - [http://nic.bestbuy](http://nic.bestbuy)
+ - date_published: 2022-09-16T22:20:50+00:00
+
+ ## BAROBET
+ - [https://7days.bet](https://7days.bet)
+ - date_published: 2024-07-23T13:58:15+00:00
+
+ ## betting.bet - Betting | Free Bets | Betting Tips | Odds | News
+ - [https://betting.bet](https://betting.bet)
+ - date_published: 2024-06-29T05:35:33.527798+00:00
+
+ ## Black Diamond Casino
+ - [https://blackdiamond-casino.bet](https://blackdiamond-casino.bet)
+ - date_published: 2024-06-21T22:53:00.711978+00:00
+
+ ## Data Bet - Tech-Savvy Esports Data Provider and more
+ - [https://data.bet](https://data.bet)
+ - date_published: 2024-06-20T14:18:02.120507+00:00
+
+ ## Fastest Payout Casinos reviewed by Fast.bet
+ - [https://www.fast.bet](https://www.fast.bet)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Gclub Casino เว็บพนันออนไลน์อันดับ 1 ของไทย
+ - [https://gclub.bet](https://gclub.bet)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## บาคาร่าออนไลน์เกมที่นิยมมากที่สุด เว็บบาคาร่ารวมครบจบทุกค่าย
+ - [https://playbaccarat.bet](https://playbaccarat.bet)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Best Betting Sites
  - [https://www.sure.bet](https://www.sure.bet)
  - date_published: 2024-06-19T21:59:33.781307+00:00
@@ -2111,7 +2244,7 @@
  - date_published: 2024-06-02T00:00:00+00:00
 
  ## The Prism | Gurwinder | Substack
- - [https://www.gurwinder.blog](https://www.gurwinder.blog)
+ - [https://gurwinder.blog](https://gurwinder.blog)
  - date_published: 2024-04-20T00:00:00+00:00
 
  ## Haikal Kushahrin
@@ -3952,137 +4085,4 @@
  ## Fundep - Portal de Compras
  - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
  - date_published: 2024-07-13T18:16:13.127252+00:00
-
- ## Programa de Pós-graduação em Ciência da Computação
- - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
- - date_published: 2024-07-13T18:19:47.272373+00:00
-
- ## Processo Seletivo - Física - UFMG
- - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
- - date_published: 2024-07-13T18:18:48.387870+00:00
-
- ## SGSED - Sistema de Encargos Didáticos
- - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:42.754957+00:00
-
- ## SSO - minhaUFMG
- - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
- - date_published: 2024-07-13T18:04:07.578049+00:00
-
- ## Início - Portal da Transparência da FUNDEP
- - [https://transparencia.fundep.ufmg.br](https://transparencia.fundep.ufmg.br)
- - date_published: 2024-07-13T18:15:59.430159+00:00
-
- ## .
- - [https://tupi.fisica.ufmg.br](https://tupi.fisica.ufmg.br)
- - date_published: 2024-05-11T08:09:15.884426+00:00
-
- ## UFMG
- - [https://ufmg.br](https://ufmg.br)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Sign in to your account
- - [http://webmail2.fundep.ufmg.br](http://webmail2.fundep.ufmg.br)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## DTI - Diretoria de Tecnologia da Informação - UFMG
- - [http://www.cecom.ufmg.br](http://www.cecom.ufmg.br)
- - date_published: 2024-07-13T18:18:31.222033+00:00
-
- ## Physics Department - UFMG - Departamento
- - [https://www.fisica.ufmg.br](https://www.fisica.ufmg.br)
- - date_published: 2024-05-11T08:08:36.475825+00:00
-
- ## Fundep
- - [https://fundep.ufmg.br](https://fundep.ufmg.br)
- - date_published: 2024-05-11T08:09:00.660884+00:00
-
- ## Universidade Federal de Minas Gerais
- - [https://icex.ufmg.br](https://icex.ufmg.br)
- - date_published: 2024-05-11T08:09:23.781459+00:00
-
- ## LabCri – Laboratório de Cristalografia da UFMG
- - [http://www.labcri.ufmg.br](http://www.labcri.ufmg.br)
- - date_published: 2024-05-11T08:08:20.604803+00:00
-
- ## Departamento de Matematica – ICEx – UFMG – Site do departamento de matemática da Universidade Federal de Minas Gerais
- - [https://www.mat.ufmg.br](https://www.mat.ufmg.br)
- - date_published: 2024-07-13T18:19:38.114316+00:00
-
- ## Faculdade de Medicina da UFMG
- - [https://www.medicina.ufmg.br](https://www.medicina.ufmg.br)
- - date_published: 2024-07-13T18:16:06.566915+00:00
-
- ## MOM. Morar de Outras Maneiras.
- - [https://www.mom.arq.ufmg.br](https://www.mom.arq.ufmg.br)
- - date_published: 2022-04-22T19:07:25+00:00
-
- ## OBSERVATÓRIO ASTRONÔMICO FREI ROSÁRIO
- - [https://www.observatorio.ufmg.br](https://www.observatorio.ufmg.br)
- - date_published: 2024-05-11T08:09:08.436766+00:00
-
- ## Programa de Pós-Graduação em Química - UFMG
- - [http://www.ppg.qui.ufmg.br](http://www.ppg.qui.ufmg.br)
- - date_published: 2024-07-13T18:19:41.262753+00:00
-
- ## PHP 7.4.33 - phpinfo()
- - [http://xivec.fisica.ufmg.br](http://xivec.fisica.ufmg.br)
- - date_published: 2024-07-13T18:18:38.672031+00:00
-
- ## ITU2021 | ML5G PHY
- - [https://ai5gchallenge.ufpa.br](https://ai5gchallenge.ufpa.br)
- - date_published: 2022-03-23T12:17:23+00:00
-
- ## CIn UFPE
- - [https://portal.cin.ufpe.br](https://portal.cin.ufpe.br)
- - date_published: 2024-07-23T21:52:26.634221+00:00
-
- ## Pós-Grad. Acadêmico
- - [https://secpos.cin.ufpe.br](https://secpos.cin.ufpe.br)
- - date_published: 2024-07-23T21:53:25.433175+00:00
-
- ## PPG Profissional
- - [https://secposprof.cin.ufpe.br](https://secposprof.cin.ufpe.br)
- - date_published: 2024-07-23T21:51:45.747844+00:00
-
- ## CIn UFPE
- - [https://cin.ufpe.br](https://cin.ufpe.br)
- - date_published: 2024-04-29T07:46:51.033400+00:00
-
- ## Universidade Federal de Pernambuco - UFPE
- - [https://www.ufpe.br](https://www.ufpe.br)
- - date_published: 2024-07-23T21:53:20.830805+00:00
-
- ## Index of /
- - [http://alpinelinux.c3sl.ufpr.br](http://alpinelinux.c3sl.ufpr.br)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Redes de Computadores e aplicações na
-Educação
- - [http://penta2.ufrgs.br](http://penta2.ufrgs.br)
- - date_published: 2022-11-30T19:56:07+00:00
-
- ## CINTED – Interdisciplinary Center for New Technologies in Education
- - [http://www.cinted.ufrgs.br](http://www.cinted.ufrgs.br)
- - date_published: 2024-06-15T17:37:34.079834+00:00
-
- ## ESPIE 2009 - CINTED/UFRGS
- - [http://www.espie.cinted.ufrgs.br](http://www.espie.cinted.ufrgs.br)
- - date_published: 2017-12-22T13:18:34+00:00
-
- ## Gondwana | Review of the Geological Map of Gondwana - IGCP-628 - Revisão do Mapa geológico do Gondwana
- - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
- - date_published: 2021-07-08T14:46:14+00:00
-
- ## Universidade Federal de São Carlos — Universidade Federal de Sao Carlos
- - [http://www.ufscar.br](http://www.ufscar.br)
- - date_published: 2024-07-22T08:54:08.061213+00:00
-
- ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
- - [https://eventos.ufu.br](https://eventos.ufu.br)
- - date_published: 2024-05-10T06:57:17.711249+00:00
-
- ## Bibliotecas
- - [http://www.bibliotecas.ufu.br](http://www.bibliotecas.ufu.br)
- - date_published: 2024-07-13T02:25:56.738430+00:00
 

@@ -1715,6 +1715,10 @@
  - [https://alphawatch.ai](https://alphawatch.ai)
  - date_published: 2024-04-20T00:00:00+00:00
 
+ ## [公式]alt｜パーソナル人工知能を中心としたAI活用・LLM開発・DX推進｜Personal Artificial Intelligence[株式会社オルツ]
+ - [https://alt.ai](https://alt.ai)
+ - date_published: 2024-08-10T23:29:48.560662+00:00
+
  ## Professional AI Voice Changer Software and Services | Altered
  - [https://www.altered.ai](https://www.altered.ai)
  - date_published: 2024-04-16T00:00:00+00:00
@@ -2057,7 +2061,7 @@
  - date_published: 2024-06-13T09:16:31+00:00
 
  ## Avo Automation | Quality Assurance with Automated Testing | Click Now
- - [https://www.avoautomation.ai](https://www.avoautomation.ai)
+ - [https://avoautomation.ai](https://avoautomation.ai)
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## Generate Custom AI avatar - avtrs.ai
@@ -2624,6 +2628,10 @@
  ## ChatFans | AI powered Chatbots for Fans of Celebrities & Influencers
  - [https://www.chatfans.ai](https://www.chatfans.ai)
  - date_published: 2024-06-19T20:04:31.446896+00:00
+
+ ## Persnet: Create Custom GPT AI Chatbots
+ - [https://chatgptonline.ai](https://chatgptonline.ai)
+ - date_published: 2024-08-10T22:17:53.814744+00:00
 
  ## ChatGPT Writer - Write emails, messages, and more using AI
  - [https://chatgptwriter.ai](https://chatgptwriter.ai)
@@ -3386,9 +3394,21 @@ Welcome
  - [https://deep-image.ai](https://deep-image.ai)
  - date_published: 2024-06-07T09:29:24+00:00
 
+ ## DeepLearning.AI
+ - [https://community.deeplearning.ai](https://community.deeplearning.ai)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://learn.deeplearning.ai](https://learn.deeplearning.ai)
+ - date_published: 2024-08-10T22:45:12.029450+00:00
+
  ## Home
  - [https://read.deeplearning.ai](https://read.deeplearning.ai)
  - date_published: 2024-04-22T00:00:00+00:00
+
+ ## DeepLearning.AI: Start or Advance Your Career in AI
+ - [https://wordpress.deeplearning.ai](https://wordpress.deeplearning.ai)
+ - date_published: 2024-08-07T00:00:00+00:00
 
  ## DeepLearning.AI: Start or Advance Your Career in AI
  - [https://www.deeplearning.ai](https://www.deeplearning.ai)
@@ -4009,24 +4029,4 @@ Welcome
  ## Faethm by Pearson
  - [https://www.faethm.ai](https://www.faethm.ai)
  - date_published: 2024-08-06T04:52:23+00:00
-
- ## Welcome to Faiss Documentation — Faiss  documentation
- - [https://faiss.ai](https://faiss.ai)
- - date_published: 2024-05-11T07:39:27.056441+00:00
-
- ## fal
- - [https://blog.fal.ai](https://blog.fal.ai)
- - date_published: 2024-07-12T03:56:30.679072+00:00
-
- ## Fantasy.ai
- - [https://fantasy.ai](https://fantasy.ai)
- - date_published: 2024-05-30T10:30:10+00:00
-
- ## FantasyGF.ai - Best AI Girlfriend App - Start Chatting
- - [https://fantasygf.ai](https://fantasygf.ai)
- - date_published: 2024-06-27T10:52:30.192218+00:00
-
- ## FAR AI
- - [https://far.ai](https://far.ai)
- - date_published: 2024-04-17T00:00:00+00:00
 

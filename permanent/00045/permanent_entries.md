@@ -1,3 +1,492 @@
+ ## Words and what not
+ - [https://ultimategerardm.blogspot.com](https://ultimategerardm.blogspot.com)
+ - date_published: 2024-07-13T10:15:49+00:00
+
+ ## ultravanillasmurf
+ - [http://ultravanillasmurf.blogspot.com](http://ultravanillasmurf.blogspot.com)
+ - date_published: 2024-07-11T22:46:14+00:00
+
+ ## Umbrella Blog
+ - [http://umbrellog.blogspot.com](http://umbrellog.blogspot.com)
+ - date_published: 2023-11-16T15:48:40+00:00
+
+ ## Um pouco de poesia
+ - [http://umpoucodepoesia-msframos.blogspot.com](http://umpoucodepoesia-msframos.blogspot.com)
+ - date_published: 2024-04-17T03:38:41+00:00
+
+ ## The fall of the world's own optimist
+ - [http://unamccormack.blogspot.com](http://unamccormack.blogspot.com)
+ - date_published: 2024-03-09T00:46:50+00:00
+
+ ## Blogger
+ - [http://unblogdeminiatures.blogspot.com](http://unblogdeminiatures.blogspot.com)
+ - date_published: 2024-07-20T07:54:14.845039+00:00
+
+ ## An Un-canny Ontology
+ - [http://un-cannyontology.blogspot.com](http://un-cannyontology.blogspot.com)
+ - date_published: 2024-04-27T06:28:46+00:00
+
+ ## Uncle Doug's Bunker of Vintage Horror Paperbacks
+ - [http://uncledougsbunkerofhorror.blogspot.com](http://uncledougsbunkerofhorror.blogspot.com)
+ - date_published: 2024-07-03T02:10:11+00:00
+
+ ## UNCLE EDDIE'S THEORY CORNER
+ - [http://uncleeddiestheorycorner.blogspot.com](http://uncleeddiestheorycorner.blogspot.com)
+ - date_published: 2024-07-13T05:53:25+00:00
+
+ ## Uncle Matt's Place
+ - [http://unclemattsplace.blogspot.com](http://unclemattsplace.blogspot.com)
+ - date_published: 2024-03-14T03:19:45+00:00
+
+ ## Blogger
+ - [http://undeniabledilemma.blogspot.com](http://undeniabledilemma.blogspot.com)
+ - date_published: 2024-07-13T10:41:10.656939+00:00
+
+ ## Under A Blood Red Sky
+ - [http://underabloodredsky-future.blogspot.com](http://underabloodredsky-future.blogspot.com)
+ - date_published: 2024-07-11T18:15:14+00:00
+
+ ## The Underdark Gazette is Closing on January 2, 2012!
+ - [http://underdarkgazette.blogspot.com](http://underdarkgazette.blogspot.com)
+ - date_published: 2024-03-30T20:32:46+00:00
+
+ ## Mind the Gap
+ - [http://underlap.blogspot.com](http://underlap.blogspot.com)
+ - date_published: 2024-03-14T01:56:50+00:00
+
+ ## Underpaintings
+ - [http://underpaintings.blogspot.com](http://underpaintings.blogspot.com)
+ - date_published: 2024-07-26T12:01:15+00:00
+
+ ## Understanding Society
+ - [https://understandingsociety.blogspot.com](https://understandingsociety.blogspot.com)
+ - date_published: 2023-10-25T09:18:50.492120+00:00
+ - tags: ['personal']
+
+ ## Notes From Under the Kyak
+ - [http://underthekyak.blogspot.com](http://underthekyak.blogspot.com)
+ - date_published: 2024-07-04T09:22:17+00:00
+
+ ## Value Investing Japan
+ - [https://undervaluedjapan.blogspot.com](https://undervaluedjapan.blogspot.com)
+ - date_published: 2023-10-25T14:21:40.695288+00:00
+
+ ## Une heure de peine...
+ - [http://uneheuredepeine.blogspot.com](http://uneheuredepeine.blogspot.com)
+ - date_published: 2024-06-12T07:18:53+00:00
+
+ ## Unemployed Negativity
+ - [http://unemployednegativity.blogspot.com](http://unemployednegativity.blogspot.com)
+ - date_published: 2024-06-29T22:41:29+00:00
+
+ ## Unfashionably Shiny
+ - [http://unfashionablyshiny.blogspot.com](http://unfashionablyshiny.blogspot.com)
+ - date_published: 2024-07-11T18:09:46+00:00
+
+ ## Cave of the Dice Chucker
+ - [http://unfrozencavemandicechucker.blogspot.com](http://unfrozencavemandicechucker.blogspot.com)
+ - date_published: 2024-07-13T10:14:36+00:00
+
+ ## UNICASE
+ - [http://unicase.blogspot.com](http://unicase.blogspot.com)
+ - date_published: 2024-03-08T22:58:53+00:00
+
+ ## Uni Minuto Especializaciones
+ - [https://uniminutoespecializaciones.blogspot.com](https://uniminutoespecializaciones.blogspot.com)
+ - date_published: 2024-05-14T02:07:35+00:00
+
+ ## Unite All Action
+ - [http://uniteallaction.blogspot.com](http://uniteallaction.blogspot.com)
+ - date_published: 2024-05-21T20:01:36+00:00
+
+ ## unit-perspective
+ - [http://unit-perspective.blogspot.com](http://unit-perspective.blogspot.com)
+ - date_published: 2024-03-14T10:26:01+00:00
+
+ ## Unity Before Heresy
+ - [http://unityb4heresy.blogspot.com](http://unityb4heresy.blogspot.com)
+ - date_published: 2024-05-16T11:31:35+00:00
+
+ ## univatty
+ - [http://univatty.blogspot.com](http://univatty.blogspot.com)
+ - date_published: 2024-03-08T16:22:59+00:00
+
+ ## Unizor - Creative Mind through Art of Mathematics
+ - [https://unizor.blogspot.com](https://unizor.blogspot.com)
+ - date_published: 2024-06-29T20:18:08+00:00
+
+ ## Unlocked Wordhoard
+ - [http://unlocked-wordhoard.blogspot.com](http://unlocked-wordhoard.blogspot.com)
+ - date_published: 2024-06-24T09:05:07+00:00
+
+ ## Unofficial CD32 Ports
+ - [https://unofficial-cd32-ports.blogspot.com](https://unofficial-cd32-ports.blogspot.com)
+ - date_published: 2024-02-26T14:21:33.747411+00:00
+
+ ## stuff...11
+ - [http://unoriginalmuse.blogspot.com](http://unoriginalmuse.blogspot.com)
+ - date_published: 2024-03-13T17:17:08+00:00
+
+ ## Unqualified Reservations
+ - [https://unqualified-reservations.blogspot.com](https://unqualified-reservations.blogspot.com)
+ - date_published: 2024-04-19T19:41:03+00:00
+
+ ## Unremitting Verse
+ - [http://unremittingverse.blogspot.com](http://unremittingverse.blogspot.com)
+ - date_published: 2024-03-13T02:43:03+00:00
+
+ ## unrepentant
+ - [http://unrepentant.blogspot.com](http://unrepentant.blogspot.com)
+ - date_published: 2024-02-08T05:59:42+00:00
+
+ ## Loopback Mountain
+ - [http://unroutable.blogspot.com](http://unroutable.blogspot.com)
+ - date_published: 2024-06-20T17:50:49+00:00
+
+ ## Unspoken Cinema
+ - [https://unspokencinema.blogspot.com](https://unspokencinema.blogspot.com)
+ - date_published: 2024-06-23T04:59:31+00:00
+
+ ## Untimately
+ - [http://untimately.blogspot.com](http://untimately.blogspot.com)
+ - date_published: 2024-02-20T11:57:28+00:00
+
+ ## Once More Unto the Breach!
+ - [http://unto-the-breach.blogspot.com](http://unto-the-breach.blogspot.com)
+ - date_published: 2024-07-08T21:07:47+00:00
+
+ ## Upper Left
+ - [http://upper-left.blogspot.com](http://upper-left.blogspot.com)
+ - date_published: 2024-04-18T17:04:17+00:00
+
+ ## Gay & Lesbian Books Reviews
+ - [http://up_yours.blogspot.com](http://up_yours.blogspot.com)
+ - date_published: 2024-02-28T23:09:09+00:00
+
+ ## Urban bytes
+ - [http://urbanbytes.blogspot.com](http://urbanbytes.blogspot.com)
+ - date_published: 2024-03-13T03:29:54+00:00
+
+ ## URBAN DESIGN BRAZIL
+ - [http://urbandesignbrazil.blogspot.com](http://urbandesignbrazil.blogspot.com)
+ - date_published: 2024-03-13T06:50:32+00:00
+
+ ## Blogger
+ - [http://urbandirection.blogspot.com](http://urbandirection.blogspot.com)
+ - date_published: 2024-06-28T13:45:47.287068+00:00
+
+ ## The Urban Feminist
+ - [http://urbanfeminist.blogspot.com](http://urbanfeminist.blogspot.com)
+ - date_published: 2024-03-05T17:21:34+00:00
+
+ ## URbanfoto
+ - [http://urbanfoto.blogspot.com](http://urbanfoto.blogspot.com)
+ - date_published: 2024-03-07T06:18:35+00:00
+
+ ## Urban kchoze
+ - [http://urbankchoze.blogspot.com](http://urbankchoze.blogspot.com)
+ - date_published: 2024-06-21T07:10:06+00:00
+
+ ## Rebuilding Place in the Urban Space
+ - [http://urbanplacesandspaces.blogspot.com](http://urbanplacesandspaces.blogspot.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Blogger
+ - [http://urbantransit.blogspot.com](http://urbantransit.blogspot.com)
+ - date_published: 2024-06-28T12:53:29.095439+00:00
+
+ ## Urban Wildlife Jottings
+ - [http://urbanwildlifejottings.blogspot.com](http://urbanwildlifejottings.blogspot.com)
+ - date_published: 2024-05-14T13:49:12+00:00
+
+ ## The Beginning
+ - [http://uridiumauthor.blogspot.com](http://uridiumauthor.blogspot.com)
+ - date_published: 2024-06-23T00:56:42+00:00
+
+ ## US Chess Discussion
+ - [http://uschess.blogspot.com](http://uschess.blogspot.com)
+ - date_published: 2024-04-25T18:19:20+00:00
+
+ ## USD Law
+ - [http://usdlaw.blogspot.com](http://usdlaw.blogspot.com)
+ - date_published: 2023-11-15T18:27:13+00:00
+
+ ## US History Teachers Blog
+ - [http://ushistoryeducatorblog.blogspot.com](http://ushistoryeducatorblog.blogspot.com)
+ - date_published: 2024-06-26T17:23:00+00:00
+
+ ## ex cathedra
+ - [http://usmalesf.blogspot.com](http://usmalesf.blogspot.com)
+ - date_published: 2024-06-11T17:57:38+00:00
+
+ ## Usme Innova
+ - [https://usmeinnova.blogspot.com](https://usmeinnova.blogspot.com)
+ - date_published: 2024-06-12T10:44:37.151077+00:00
+
+ ## Religion in American History
+ - [https://usreligion.blogspot.com](https://usreligion.blogspot.com)
+ - date_published: 2024-05-06T23:48:36.941517+00:00
+
+ ## uSuthu! uSuthu!
+ - [http://usuthu1879.blogspot.com](http://usuthu1879.blogspot.com)
+ - date_published: 2024-07-03T03:01:14+00:00
+
+ ## United States vs. Fincher
+ - [http://usvfincher.blogspot.com](http://usvfincher.blogspot.com)
+ - date_published: 2024-06-29T17:48:01+00:00
+
+ ## Utah Arch
+ - [https://utaharch.blogspot.com](https://utaharch.blogspot.com)
+ - date_published: 2024-03-19T12:14:37+00:00
+
+ ## What's Happening in Toronto Linguistics
+ - [http://utlinguistics.blogspot.com](http://utlinguistics.blogspot.com)
+ - date_published: 2024-07-19T07:00:00+00:00
+
+ ## Blogger
+ - [http://utrecht-pics.blogspot.com](http://utrecht-pics.blogspot.com)
+ - date_published: 2024-06-20T03:51:22.297853+00:00
+
+ ## today
+ - [http://uv-today.blogspot.com](http://uv-today.blogspot.com)
+ - date_published: 2015-02-08T00:00:00+00:00
+
+ ## uxHH Radio
+ - [https://uxhh-radio.blogspot.com](https://uxhh-radio.blogspot.com)
+ - date_published: 2024-07-24T05:38:24.403870+00:00
+
+ ## V8 JavaScript engine
+ - [https://v8project.blogspot.com](https://v8project.blogspot.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Vagabond Scholar
+ - [http://vagabondscholar.blogspot.com](http://vagabondscholar.blogspot.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Vagabond's Wargaming Blog
+ - [http://vagabondswargamingblog.blogspot.com](http://vagabondswargamingblog.blogspot.com)
+ - date_published: 2024-07-11T22:34:48+00:00
+
+ ## Valknut Painting
+ - [http://valknutpainting.blogspot.com](http://valknutpainting.blogspot.com)
+ - date_published: 2024-04-13T12:38:24+00:00
+
+ ## valleetrails
+ - [http://valleetrails.blogspot.com](http://valleetrails.blogspot.com)
+ - date_published: 2024-02-20T17:21:43+00:00
+
+ ## Valley Economy
+ - [https://valleyecon.blogspot.com](https://valleyecon.blogspot.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Valley of Blue Snails
+ - [http://valleyofbluesnails.blogspot.com](http://valleyofbluesnails.blogspot.com)
+ - date_published: 2024-07-08T21:07:28+00:00
+
+ ## Val Systems
+ - [https://val-systems.blogspot.com](https://val-systems.blogspot.com)
+ - date_published: 2024-03-05T07:00:28+00:00
+
+ ## Valzhalla
+ - [http://valzhalla.blogspot.com](http://valzhalla.blogspot.com)
+ - date_published: 2024-03-13T05:07:22+00:00
+
+ ## Vampifan's World of the Undead
+ - [http://vampifansworldoftheundead.blogspot.com](http://vampifansworldoftheundead.blogspot.com)
+ - date_published: 2024-07-19T23:45:44+00:00
+
+ ## Blogger
+ - [https://vampirewire.blogspot.com](https://vampirewire.blogspot.com)
+ - date_published: 2024-05-08T06:33:39.474765+00:00
+
+ ## vancian magic
+ - [http://vancianmagic.blogspot.com](http://vancianmagic.blogspot.com)
+ - date_published: 2024-02-20T18:09:49+00:00
+
+ ## Van Gogh's Chair
+ - [http://vangoghschair.blogspot.com](http://vangoghschair.blogspot.com)
+ - date_published: 2024-03-05T06:46:12+00:00
+
+ ## Vanhaa Vasarointia
+ - [http://vanhaavasarointia.blogspot.com](http://vanhaavasarointia.blogspot.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Mobil dan Motor adalah Komoditas Utama Otomotif
+ - [http://vanishingamerican.blogspot.com](http://vanishingamerican.blogspot.com)
+ - date_published: 2024-05-27T06:02:59+00:00
+
+ ## Jeremiah's Vanishing New York
+ - [http://vanishingnewyork.blogspot.com](http://vanishingnewyork.blogspot.com)
+ - date_published: 2024-04-07T06:31:16+00:00
+
+ ## vaporware: interactive fiction
+ - [https://vaporwareif.blogspot.com](https://vaporwareif.blogspot.com)
+ - date_published: 2023-11-16T06:39:29+00:00
+
+ ## The Varcan Cluster
+ - [http://varcancluster.blogspot.com](http://varcancluster.blogspot.com)
+ - date_published: 2024-06-12T14:36:47+00:00
+
+ ## Varchilde's Vault
+ - [http://varchildesvault.blogspot.com](http://varchildesvault.blogspot.com)
+ - date_published: 2024-06-12T06:27:36+00:00
+
+ ## Varco dimensionale
+ - [https://varcodimensionale.blogspot.com](https://varcodimensionale.blogspot.com)
+ - date_published: 2024-05-17T14:39:57.459546+00:00
+
+ ## Vargold: The Wolf-Time
+ - [https://vargold.blogspot.com](https://vargold.blogspot.com)
+ - date_published: 2024-03-14T06:14:52+00:00
+
+ ## Variable Variability
+ - [http://variable-variability.blogspot.com](http://variable-variability.blogspot.com)
+ - date_published: 2024-06-27T21:54:05+00:00
+
+ ## Vaults of Nagoh
+ - [http://vaultsofnagoh.blogspot.com](http://vaultsofnagoh.blogspot.com)
+ - date_published: 2024-07-08T21:08:45+00:00
+
+ ## vazambam
+ - [http://vazambam.blogspot.com](http://vazambam.blogspot.com)
+ - date_published: 2024-07-19T23:46:10+00:00
+
+ ## VB
+ - [http://vbforyou.blogspot.com](http://vbforyou.blogspot.com)
+ - date_published: 2024-03-14T09:44:54+00:00
+
+ ## The Adventures of VE3FI
+ - [http://ve3clq.blogspot.com](http://ve3clq.blogspot.com)
+ - date_published: 2024-06-27T13:29:07+00:00
+
+ ## VE7SL - Steve - Amateur Radio Blog
+ - [http://ve7sl.blogspot.com](http://ve7sl.blogspot.com)
+ - date_published: 2024-06-25T23:11:08+00:00
+
+ ## VE9KK the world of CW
+ - [https://ve9kk.blogspot.com](https://ve9kk.blogspot.com)
+ - date_published: 2024-06-27T17:32:34+00:00
+
+ ## The Veggie Patch Re-imagined
+ - [https://veggiepatchreimagined.blogspot.com](https://veggiepatchreimagined.blogspot.com)
+ - date_published: 2024-03-13T16:38:36+00:00
+
+ ## Velo Mondial
+ - [https://velomondial.blogspot.com](https://velomondial.blogspot.com)
+ - date_published: 2024-04-28T22:17:01+00:00
+
+ ## A geek's interests
+ - [http://velonis.blogspot.com](http://velonis.blogspot.com)
+ - date_published: 2004-02-29T00:00:00+00:00
+
+ ## Velvel on National Affairs
+ - [http://velvelonnationalaffairs.blogspot.com](http://velvelonnationalaffairs.blogspot.com)
+ - date_published: 2024-02-03T15:29:46+00:00
+
+ ## Velvet Glove, Iron Fist
+ - [https://velvetgloveironfist.blogspot.com](https://velvetgloveironfist.blogspot.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## venangago-go
+ - [http://venangago-go.blogspot.com](http://venangago-go.blogspot.com)
+ - date_published: 2024-03-14T01:49:02+00:00
+
+ ## Vendemmiatori Implacabili
+ - [http://vendemmiatori-implacabili.blogspot.com](http://vendemmiatori-implacabili.blogspot.com)
+ - date_published: 2024-07-04T06:08:42+00:00
+
+ ## The Truth
+ - [http://venjanztruth.blogspot.com](http://venjanztruth.blogspot.com)
+ - date_published: 2024-06-24T06:29:43+00:00
+
+ ## Venom's den
+ - [http://venomsden.blogspot.com](http://venomsden.blogspot.com)
+ - date_published: 2024-07-04T05:40:00+00:00
+
+ ## Vera's Particular Sketchblog
+ - [http://verabee.blogspot.com](http://verabee.blogspot.com)
+ - date_published: 2024-03-13T20:35:05+00:00
+
+ ## Englisc songcræft
+ - [http://verbascientiae.blogspot.com](http://verbascientiae.blogspot.com)
+ - date_published: 2024-03-08T07:00:39+00:00
+
+ ## The Occasional Gamer
+ - [http://verbilgerbil.blogspot.com](http://verbilgerbil.blogspot.com)
+ - date_published: 2024-03-05T10:33:55+00:00
+
+ ## Vermont Vintage Typewriter
+ - [http://vermontvintagetypewriter.blogspot.com](http://vermontvintagetypewriter.blogspot.com)
+ - date_published: 2024-03-14T17:31:06+00:00
+
+ ## Vern's Stories
+ - [https://vernsstories.blogspot.com](https://vernsstories.blogspot.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Verok's Official Blog
+ - [https://verokster.blogspot.com](https://verokster.blogspot.com)
+ - date_published: 2024-03-19T18:20:42+00:00
+
+ ## Vertical Carnival Dispatches
+ - [http://verticalcarnival.blogspot.com](http://verticalcarnival.blogspot.com)
+ - date_published: 2024-06-19T17:07:34+00:00
+
+ ## Video games on fire !
+ - [https://vg0f.blogspot.com](https://vg0f.blogspot.com)
+ - date_published: 2024-06-23T09:43:00+00:00
+
+ ## Weinig Wol
+ - [https://vgmwwzdd.blogspot.com](https://vgmwwzdd.blogspot.com)
+ - date_published: 2024-04-03T16:32:39+00:00
+
+ ## Carioca que ama o Brasil e estado do Rio de Janeiro. Valorizando sua Cultura e Natureza.
+ - [https://viagenspelobrasilerio.blogspot.com](https://viagenspelobrasilerio.blogspot.com)
+ - date_published: 2024-06-24T09:11:42+00:00
+
+ ## Vice Squad
+ - [http://vicesquad.blogspot.com](http://vicesquad.blogspot.com)
+ - date_published: 2024-02-28T06:21:20+00:00
+
+ ## Vichy Democrats
+ - [http://vichydems.blogspot.com](http://vichydems.blogspot.com)
+ - date_published: 2024-03-23T18:08:43+00:00
+
+ ## Vickie's Adventures
+ - [http://vickiesueadventures.blogspot.com](http://vickiesueadventures.blogspot.com)
+ - date_published: 2024-03-19T09:13:24+00:00
+
+ ## VICTOJRE
+ - [http://victojre.blogspot.com](http://victojre.blogspot.com)
+ - date_published: 2024-07-03T02:23:08+00:00
+
+ ## The Victorian Peeper
+ - [https://victorianpeeper.blogspot.com](https://victorianpeeper.blogspot.com)
+ - date_published: 2024-05-25T18:53:51+00:00
+
+ ## Victorine Writes
+ - [http://victorinewrites.blogspot.com](http://victorinewrites.blogspot.com)
+ - date_published: 2024-07-04T05:42:17+00:00
+
+ ## Viewing the Eclipse
+ - [http://viewingtheeclipse.blogspot.com](http://viewingtheeclipse.blogspot.com)
+ - date_published: 2024-03-19T03:28:10+00:00
+
+ ## Viking Observer
+ - [http://viking-observer.blogspot.com](http://viking-observer.blogspot.com)
+ - date_published: 2024-04-30T07:59:01+00:00
+
+ ## Viking Pundit
+ - [http://vikingpundit.blogspot.com](http://vikingpundit.blogspot.com)
+ - date_published: 2024-06-27T07:06:46+00:00
+
+ ## Viktor's War Room
+ - [https://viktorswarroom.blogspot.com](https://viktorswarroom.blogspot.com)
+ - date_published: 2024-06-03T17:38:38+00:00
+
+ ## Blogger
+ - [http://vimsu99.blogspot.com](http://vimsu99.blogspot.com)
+ - date_published: 2024-07-02T10:05:01.191719+00:00
+
  ## YANUB: yet another (nearly) useless blog
  - [https://vince-debian.blogspot.com](https://vince-debian.blogspot.com)
  - date_published: 2024-07-06T20:05:06+00:00
@@ -1371,6 +1860,10 @@
  - [http://www.icelandeyes.blogspot.com](http://www.icelandeyes.blogspot.com)
  - date_published: 2017-07-17T00:00:00+00:00
 
+ ## ILLUSTRATION ART
+ - [http://www.illustrationart.blogspot.com](http://www.illustrationart.blogspot.com)
+ - date_published: 2024-08-10T16:28:45+00:00
+
  ## IndieFaith
  - [http://www.indiefaith.blogspot.com](http://www.indiefaith.blogspot.com)
  - date_published: 2024-03-21T12:37:50+00:00
@@ -1786,6 +2279,10 @@
  ## Virginia Shooting Sports Association
  - [http://www.virginiashootingsportsassociation.blogspot.com](http://www.virginiashootingsportsassociation.blogspot.com)
  - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Virtual Gouache Land
+ - [http://www.virtualgouacheland.blogspot.com](http://www.virtualgouacheland.blogspot.com)
+ - date_published: 2024-07-25T09:08:21+00:00
 
  ## OTOMOTIFMANIA
  - [http://www.voice4fact.blogspot.com](http://www.voice4fact.blogspot.com)
@@ -3524,531 +4021,4 @@
  ## Homepage | British Journal of Ophthalmology
  - [https://bjo.bmj.com](https://bjo.bmj.com)
  - date_published: 2024-06-21T00:00:00+00:00
-
- ## Homepage | BJSM
- - [https://bjsm.bmj.com](https://bjsm.bmj.com)
- - date_published: 2023-10-25T10:36:52.375517+00:00
-
- ## BJSM Live Concussion in Sport Webinar
- - [https://bjsmlive.bmj.com](https://bjsmlive.bmj.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## BMJ Blogs  BMJ Blogs - Insights and opinion on the latest news and research
- - [https://blogs.bmj.com](https://blogs.bmj.com)
- - date_published: 2023-10-25T10:36:56.482885+00:00
-
- ## The BMJ headless CMS chicken – The BMJ headless CMS chicken
- - [https://bmj-chicken.bmj.com](https://bmj-chicken.bmj.com)
- - date_published: 2024-07-03T15:32:31.115994+00:00
-
- ## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://bmj.com](https://bmj.com)
- - date_published: 2024-05-08T03:01:20.944060+00:00
- - tags: ['science journal']
-
- ## Discover the latest clinical knowledge and opinion | BMJ Journals
- - [https://bmjjournals-chicken.bmj.com](https://bmjjournals-chicken.bmj.com)
- - date_published: 2024-05-08T03:01:44.815204+00:00
-
- ## Homepage | BMJ Leader
- - [https://bmjleader.bmj.com](https://bmjleader.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | BMJ Medicine
- - [https://bmjmedicine.bmj.com](https://bmjmedicine.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | BMJ Oncology
- - [https://bmjoncology.bmj.com](https://bmjoncology.bmj.com)
- - date_published: 2023-10-25T13:07:13.553869+00:00
-
- ## Homepage | BMJ Open
- - [https://bmjopen.bmj.com](https://bmjopen.bmj.com)
- - date_published: 2023-11-21T13:29:50.036206+00:00
-
- ## Homepage | BMJ Open Gastroenterology
- - [https://bmjopengastro.bmj.com](https://bmjopengastro.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | BMJ Open Quality
- - [https://bmjopenquality.bmj.com](https://bmjopenquality.bmj.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Homepage | BMJ Open Respiratory Research
- - [https://bmjopenrespres.bmj.com](https://bmjopenrespres.bmj.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage | BMJ Open Sport & Exercise Medicine
- - [https://bmjopensem.bmj.com](https://bmjopensem.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | BMJ Open Ophthalmology
- - [https://bmjophth.bmj.com](https://bmjophth.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | BMJ Paediatrics Open
- - [https://bmjpaedsopen.bmj.com](https://bmjpaedsopen.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | BMJ Public Health
- - [https://bmjpublichealth.bmj.com](https://bmjpublichealth.bmj.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## BMJ  Careers  |  jobs  |  Choose  from  996  live  vacancies
- - [https://careers.bmj.com](https://careers.bmj.com)
- - date_published: 2024-05-08T03:01:19.366544+00:00
-
- ## Homepage | BMJ Case Reports
- - [https://casereports.bmj.com](https://casereports.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home
- - [https://clinicalintelligence.bmj.com](https://clinicalintelligence.bmj.com)
- - date_published: 2024-07-03T15:26:33.108331+00:00
-
- ## Home - BMJ Group
- - [http://company.bmj.com](http://company.bmj.com)
- - date_published: 2024-02-21T10:27:02+00:00
-
- ## Homepage | Considerations In Medicine
- - [https://considerations.bmj.com](https://considerations.bmj.com)
- - date_published: 2024-07-03T15:23:48.730016+00:00
-
- ## Search 16 UK medical courses on BMJ Careers Course finder
- - [https://coursefinder.bmj.com](https://coursefinder.bmj.com)
- - date_published: 2024-07-03T15:32:17.348182+00:00
-
- ## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://doc2doc.bmj.com](https://doc2doc.bmj.com)
- - date_published: 2024-05-08T03:01:23.041777+00:00
-
- ## Homepage | BMJ Open Diabetes Research & Care
- - [http://drc.bmj.com](http://drc.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | Drug and Therapeutics Bulletin
- - [https://dtb.bmj.com](https://dtb.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Homepage | BMJ Evidence-Based Medicine
- - [https://ebm.bmj.com](https://ebm.bmj.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Homepage | BMJ Mental Health
- - [https://ebmh.bmj.com](https://ebmh.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | Evidence Based Nursing
- - [https://ebn.bmj.com](https://ebn.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Homepage | eGastroenterology
- - [https://egastroenterology.bmj.com](https://egastroenterology.bmj.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Homepage | European Journal of Hospital Pharmacy (EJHP)
- - [https://ejhp.bmj.com](https://ejhp.bmj.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Why am I here?
- - [https://emails.bmj.com](https://emails.bmj.com)
- - date_published: 2020-12-23T19:02:09+00:00
-
- ## Homepage | EMJ
- - [https://emj.bmj.com](https://emj.bmj.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Homepage | ADC Education & Practice
- - [https://ep.bmj.com](https://ep.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Homepage | Frontline Gastroenterology
- - [https://fg.bmj.com](https://fg.bmj.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Homepage | Family Medicine and Community Health
- - [https://fmch.bmj.com](https://fmch.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | ADC Fetal & Neonatal Edition
- - [https://fn.bmj.com](https://fn.bmj.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Digital Health & Innovation Conference - BMJ Future Health
- - [https://futurehealth.bmj.com](https://futurehealth.bmj.com)
- - date_published: 2024-07-03T15:26:41.827753+00:00
-
- ## Homepage | BMJ Global Health
- - [https://gh.bmj.com](https://gh.bmj.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Homepage | Gynecology and Obstetrics Clinical Medicine
- - [https://gocm.bmj.com](https://gocm.bmj.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Homepage | General Psychiatry
- - [https://gpsych.bmj.com](https://gpsych.bmj.com)
- - date_published: 2023-12-06T08:54:41.995826+00:00
-
- ## Helping Doctors Make Better Decisions
- - [https://group.bmj.com](https://group.bmj.com)
- - date_published: 2024-05-08T03:01:16.581238+00:00
-
- ## Homepage | Gut
- - [https://gut.bmj.com](https://gut.bmj.com)
- - date_published: 2023-12-27T03:06:16.958407+00:00
-
- ## Homepage | Gut
- - [https://gut-frontend.bmj.com](https://gut-frontend.bmj.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## BMJ
-            
-        
-            Health
-            
-        
-            Careers
-            
-        
-            |
-            
-        
-            jobs
-            
-        
-            |
-            
-        
-            Choose
-            
-        
-            from
-            
-        
-            6,053
-            
-        
-            live
-            
-        
-            vacancies
- - [https://healthjobs.bmj.com](https://healthjobs.bmj.com)
- - date_published: 2024-07-03T15:32:06.793017+00:00
-
- ## Homepage | Heart
- - [http://heart.bmj.com](http://heart.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## BMJ Hosted (Intended for Healthcare Professionals)
- - [http://hosted.bmj.com](http://hosted.bmj.com)
- - date_published: 2024-07-03T15:32:22.900779+00:00
-
- ## Gut
- - [https://hosted-gut.bmj.com](https://hosted-gut.bmj.com)
- - date_published: 2024-05-08T03:01:38.345464+00:00
-
- ## JNNP
- - [https://hosted-jnnp.bmj.com](https://hosted-jnnp.bmj.com)
- - date_published: 2024-07-12T17:36:05.424908+00:00
-
- ## Homepage | International Journal of Gynecological Cancer
- - [https://ijgc.bmj.com](https://ijgc.bmj.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## BMJ Impact Analytics I Only impact tool dedicated to health care
- - [https://impactanalytics.bmj.com](https://impactanalytics.bmj.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://info.bmj.com](https://info.bmj.com)
- - date_published: 2024-07-03T15:26:34.982588+00:00
-
- ## Homepage | BMJ Health & Care Informatics
- - [https://informatics.bmj.com](https://informatics.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | Injury Prevention
- - [https://injuryprevention.bmj.com](https://injuryprevention.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | BMJ Innovations
- - [https://innovations.bmj.com](https://innovations.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## International Forum on Quality and Safety in Healthcare
- - [https://internationalforum.bmj.com](https://internationalforum.bmj.com)
- - date_published: 2016-09-05T09:24:28+00:00
-
- ## Journal of the American Medical Informatics Association | Oxford Academic
- - [http://jamia.bmj.com](http://jamia.bmj.com)
- - date_published: 2024-07-01T03:20:36.103064+00:00
-
- ## Homepage | Journal of Clinical Pathology
- - [https://jcp.bmj.com](https://jcp.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | Journal of Epidemiology and Community Health (JECH)
- - [https://jech.bmj.com](https://jech.bmj.com)
- - date_published: 2023-11-02T01:27:19.579767+00:00
-
- ## Home Page: Journal of ISAKOS
- - [https://jisakos.bmj.com](https://jisakos.bmj.com)
- - date_published: 2024-07-03T15:33:30.622231+00:00
-
- ## Homepage | The Journal for ImmunoTherapy of Cancer
- - [https://jitc.bmj.com](https://jitc.bmj.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage | JME
- - [http://jme.bmj.com](http://jme.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | Journal of Medical Genetics
- - [https://jmg.bmj.com](https://jmg.bmj.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Homepage | Journal of NeuroInterventional Surgery
- - [https://jnis.bmj.com](https://jnis.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | Journal of Neurology, Neurosurgery and Psychiatry (JNNP)
- - [https://jnnp.bmj.com](https://jnnp.bmj.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## BMJ  Careers  |  jobs  |  Choose  from  996  live  vacancies
- - [https://jobs.bmj.com](https://jobs.bmj.com)
- - date_published: 2024-05-08T03:01:50.129289+00:00
-
- ## Jobs and careers with BMJ Group
- - [https://jobsearch.bmj.com](https://jobsearch.bmj.com)
- - date_published: 2024-07-03T15:26:43.913500+00:00
-
- ## Discover the latest clinical knowledge and opinion | BMJ Journals
- - [https://journals.bmj.com](https://journals.bmj.com)
- - date_published: 2024-05-08T03:00:26.524172+00:00
-
- ## BMJ Learning: Online Courses for Healthcare Professionals
- - [http://learning.bmj.com](http://learning.bmj.com)
- - date_published: 2024-06-27T08:51:51+00:00
-
- ## Homepage | Lupus Science & Medicine
- - [https://lupus.bmj.com](https://lupus.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## BMJ clinical CPD courses for GPs, Physicians and Nurses.
- - [http://masterclasses.bmj.com](http://masterclasses.bmj.com)
- - date_published: 2024-07-03T15:32:25.417082+00:00
-
- ## Homepage | BMJ Mental Health
- - [https://mentalhealth.bmj.com](https://mentalhealth.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Homepage | Medical Humanities
- - [https://mh.bmj.com](https://mh.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Homepage | BMJ Military Health
- - [https://militaryhealth.bmj.com](https://militaryhealth.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## BMJ My Account - Sign in
- - [https://myaccount.bmj.com](https://myaccount.bmj.com)
- - date_published: 2024-05-08T03:00:54.563195+00:00
-
- ## Homepage | BMJ Neurology Open
- - [https://neurologyopen.bmj.com](https://neurologyopen.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## BMJ Learning: Online Courses for Healthcare Professionals
- - [https://new-learning.bmj.com](https://new-learning.bmj.com)
- - date_published: 2024-06-27T08:51:51+00:00
-
- ## Homepage | BMJ Nutrition, Prevention & Health
- - [https://nutrition.bmj.com](https://nutrition.bmj.com)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Homepage | Occupational and Environmental Medicine (OEM)
- - [https://oem.bmj.com](https://oem.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Medical Exam Revision from BMJ OnExamination
- - [http://onexamination.bmj.com](http://onexamination.bmj.com)
- - date_published: 2024-07-03T15:32:08.382450+00:00
-
- ## Open access at BMJ | BMJ
- - [https://openaccess.bmj.com](https://openaccess.bmj.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Homepage | Open Heart
- - [http://openheart.bmj.com](http://openheart.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | Practical Neurology
- - [https://pn.bmj.com](https://pn.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## promotions.bmj.com Managed WordPress Site – A sweet Managed WordPress Site.
- - [http://promotions.bmj.com](http://promotions.bmj.com)
- - date_published: 2024-06-28T12:38:21.087358+00:00
-
- ## Homepage | BMJ Quality & Safety
- - [https://qualitysafety.bmj.com](https://qualitysafety.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | Regional Anesthesia & Pain Medicine
- - [https://rapm.bmj.com](https://rapm.bmj.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## BMJ Careers | Recruiter Services
- - [https://recruiter.bmj.com](https://recruiter.bmj.com)
- - date_published: 2024-07-03T15:24:07.661247+00:00
-
- ## Homepage | RMD Open | A leading rheumatology journal from EULAR & BMJ
- - [https://rmdopen.bmj.com](https://rmdopen.bmj.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - Research to Publication
- - [https://rtop.bmj.com](https://rtop.bmj.com)
- - date_published: 2024-07-03T15:32:03.527226+00:00
-
- ## Homepage | BMJ Surgery, Interventions, & Health Technologies
- - [https://sit.bmj.com](https://sit.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | BMJ Supportive & Palliative Care
- - [https://spcare.bmj.com](https://spcare.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Homepage | BMJ Sexual & Reproductive Health
- - [https://srh.bmj.com](https://srh.bmj.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## BMJ Author Hub - BMJ Author Hub
- - [https://stg-authors.bmj.com](https://stg-authors.bmj.com)
- - date_published: 2024-07-03T15:24:33.050782+00:00
-
- ## BJSM Live Concussion and Physiotherapy Webinars
- - [https://stg-bjsmlive.bmj.com](https://stg-bjsmlive.bmj.com)
- - date_published: 2024-07-03T15:26:10.571203+00:00
-
- ## Homepage | Sexually Transmitted Infections (STI)
- - [https://sti.bmj.com](https://sti.bmj.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Homepage | Stroke and Vascular Neurology
- - [https://svn.bmj.com](https://svn.bmj.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Home - The BMJ Awards
- - [http://thebmjawards.bmj.com](http://thebmjawards.bmj.com)
- - date_published: 2024-07-03T15:32:29.379705+00:00
-
- ## The BMJ: Leading Medical Research, News, Education, Opinion
- - [https://thebmj-frontend.bmj.com](https://thebmj-frontend.bmj.com)
- - date_published: 2024-07-03T07:49:14.446387+00:00
-
- ## Homepage | Thorax
- - [https://thorax.bmj.com](https://thorax.bmj.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Homepage | Tobacco Control
- - [https://tobaccocontrol.bmj.com](https://tobaccocontrol.bmj.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Homepage | Trauma Surgery & Acute Care Open
- - [http://tsaco.bmj.com](http://tsaco.bmj.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Homepage | World Journal of Pediatric Surgery
- - [https://wjps.bmj.com](https://wjps.bmj.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home - BMJ Group
- - [https://bmjgroup.com](https://bmjgroup.com)
- - date_published: 2024-02-21T10:27:02+00:00
-
- ## BMNT | Rise above the status quo
- - [http://www.bmnt.com](http://www.bmnt.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## About Us: Learn More on BMO in the United States - BMO
- - [https://about-us.bmo.com](https://about-us.bmo.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## BMO Alto – Online-Only Banking for Savings Accounts & CDs
- - [https://alto.bmo.com](https://alto.bmo.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## BMO Alto
- - [https://bank.alto.bmo.com](https://bank.alto.bmo.com)
- - date_published: 2024-06-17T14:44:49+00:00
-
- ## Country Selector - BMO
- - [https://bmo.com](https://bmo.com)
- - date_published: 2024-06-16T14:35:46.172792+00:00
-
- ## Commercial
- - [https://commercial.bmo.com](https://commercial.bmo.com)
- - date_published: 2024-06-16T14:36:03.390704+00:00
-
- ## BMO Careers | Jobs at BMO
- - [https://jobs.bmo.com](https://jobs.bmo.com)
- - date_published: 2023-10-30T00:00:00+00:00
-
- ## News Releases
- - [https://newsroom.bmo.com](https://newsroom.bmo.com)
- - date_published: 2003-01-10T00:00:00+00:00
-
- ## Branch & ATM Locations - BMO
- - [https://usbranchlocator.bmo.com](https://usbranchlocator.bmo.com)
- - date_published: 2024-06-16T14:35:56.500179+00:00
-
- ## BMO
- - [https://usdigital.bmo.com](https://usdigital.bmo.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## BMO Mortgage Specialist: Find a Specialist Near You - BMO
- - [https://usmortgagelocator.bmo.com](https://usmortgagelocator.bmo.com)
- - date_published: 2024-06-16T14:35:36.739106+00:00
-
- ## BMO Wealth Management - BMO Wealth Management
- - [https://uswealth.bmo.com](https://uswealth.bmo.com)
- - date_published: 2024-06-16T14:35:42.845606+00:00
-
- ## Online Banking for Business - Sign in
- - [https://www23.bmo.com](https://www23.bmo.com)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Best Movies Of All Time| Bmoat
- - [https://bmoat.com](https://bmoat.com)
- - date_published: 2024-07-23T23:33:02.130436+00:00
-
- ## BMO Capital Markets
- - [https://www.bmocm.com](https://www.bmocm.com)
- - date_published: 2024-06-16T14:35:28.846380+00:00
-
- ## BMO Family Office - Logon Page
- - [https://client.bmofamilyoffice.com](https://client.bmofamilyoffice.com)
- - date_published: 2024-06-16T14:35:58.393666+00:00
-
- ## BMO Flex Rewards
- - [http://www.bmoflexrewards.com](http://www.bmoflexrewards.com)
- - date_published: 2024-06-16T14:35:22.866092+00:00
-
- ## BMO Global Asset Management | Home
- - [https://www.bmogam.com](https://www.bmogam.com)
- - date_published: 2024-06-16T14:22:57+00:00
-
- ## BMO U.S. - Personal & Business Banking, Lending & Investing
- - [https://www.bmoharris.com](https://www.bmoharris.com)
- - date_published: 2024-05-01T07:00:45.902127+00:00
-
- ## Attention Required! | Cloudflare
- - [https://bmoreart.com](https://bmoreart.com)
- - date_published: 2024-05-06T16:19:05.976237+00:00
-
- ## (Basic) Bookmarks
- - [https://bmrks.com](https://bmrks.com)
- - date_published: 2024-05-09T06:18:58.180700+00:00
 

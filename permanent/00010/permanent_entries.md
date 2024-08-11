@@ -1,3 +1,136 @@
+ ## Programa de Pós-graduação em Ciência da Computação
+ - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
+ - date_published: 2024-07-13T18:19:47.272373+00:00
+
+ ## Processo Seletivo - Física - UFMG
+ - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:48.387870+00:00
+
+ ## SGSED - Sistema de Encargos Didáticos
+ - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:42.754957+00:00
+
+ ## SSO - minhaUFMG
+ - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
+ - date_published: 2024-07-13T18:04:07.578049+00:00
+
+ ## Início - Portal da Transparência da FUNDEP
+ - [https://transparencia.fundep.ufmg.br](https://transparencia.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:15:59.430159+00:00
+
+ ## .
+ - [https://tupi.fisica.ufmg.br](https://tupi.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:15.884426+00:00
+
+ ## UFMG
+ - [https://ufmg.br](https://ufmg.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Sign in to your account
+ - [http://webmail2.fundep.ufmg.br](http://webmail2.fundep.ufmg.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## DTI - Diretoria de Tecnologia da Informação - UFMG
+ - [http://www.cecom.ufmg.br](http://www.cecom.ufmg.br)
+ - date_published: 2024-07-13T18:18:31.222033+00:00
+
+ ## Physics Department - UFMG - Departamento
+ - [https://www.fisica.ufmg.br](https://www.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:36.475825+00:00
+
+ ## Fundep
+ - [https://fundep.ufmg.br](https://fundep.ufmg.br)
+ - date_published: 2024-05-11T08:09:00.660884+00:00
+
+ ## Universidade Federal de Minas Gerais
+ - [https://icex.ufmg.br](https://icex.ufmg.br)
+ - date_published: 2024-05-11T08:09:23.781459+00:00
+
+ ## LabCri – Laboratório de Cristalografia da UFMG
+ - [http://www.labcri.ufmg.br](http://www.labcri.ufmg.br)
+ - date_published: 2024-05-11T08:08:20.604803+00:00
+
+ ## Departamento de Matematica – ICEx – UFMG – Site do departamento de matemática da Universidade Federal de Minas Gerais
+ - [https://www.mat.ufmg.br](https://www.mat.ufmg.br)
+ - date_published: 2024-07-13T18:19:38.114316+00:00
+
+ ## Faculdade de Medicina da UFMG
+ - [https://www.medicina.ufmg.br](https://www.medicina.ufmg.br)
+ - date_published: 2024-07-13T18:16:06.566915+00:00
+
+ ## MOM. Morar de Outras Maneiras.
+ - [https://www.mom.arq.ufmg.br](https://www.mom.arq.ufmg.br)
+ - date_published: 2022-04-22T19:07:25+00:00
+
+ ## OBSERVATÓRIO ASTRONÔMICO FREI ROSÁRIO
+ - [https://www.observatorio.ufmg.br](https://www.observatorio.ufmg.br)
+ - date_published: 2024-05-11T08:09:08.436766+00:00
+
+ ## Programa de Pós-Graduação em Química - UFMG
+ - [http://www.ppg.qui.ufmg.br](http://www.ppg.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:41.262753+00:00
+
+ ## PHP 7.4.33 - phpinfo()
+ - [http://xivec.fisica.ufmg.br](http://xivec.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:38.672031+00:00
+
+ ## ITU2021 | ML5G PHY
+ - [https://ai5gchallenge.ufpa.br](https://ai5gchallenge.ufpa.br)
+ - date_published: 2022-03-23T12:17:23+00:00
+
+ ## CIn UFPE
+ - [https://portal.cin.ufpe.br](https://portal.cin.ufpe.br)
+ - date_published: 2024-07-23T21:52:26.634221+00:00
+
+ ## Pós-Grad. Acadêmico
+ - [https://secpos.cin.ufpe.br](https://secpos.cin.ufpe.br)
+ - date_published: 2024-07-23T21:53:25.433175+00:00
+
+ ## PPG Profissional
+ - [https://secposprof.cin.ufpe.br](https://secposprof.cin.ufpe.br)
+ - date_published: 2024-07-23T21:51:45.747844+00:00
+
+ ## CIn UFPE
+ - [https://cin.ufpe.br](https://cin.ufpe.br)
+ - date_published: 2024-04-29T07:46:51.033400+00:00
+
+ ## Universidade Federal de Pernambuco - UFPE
+ - [https://www.ufpe.br](https://www.ufpe.br)
+ - date_published: 2024-07-23T21:53:20.830805+00:00
+
+ ## Index of /
+ - [http://alpinelinux.c3sl.ufpr.br](http://alpinelinux.c3sl.ufpr.br)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Redes de Computadores e aplicações na
+Educação
+ - [http://penta2.ufrgs.br](http://penta2.ufrgs.br)
+ - date_published: 2022-11-30T19:56:07+00:00
+
+ ## CINTED – Interdisciplinary Center for New Technologies in Education
+ - [http://www.cinted.ufrgs.br](http://www.cinted.ufrgs.br)
+ - date_published: 2024-06-15T17:37:34.079834+00:00
+
+ ## ESPIE 2009 - CINTED/UFRGS
+ - [http://www.espie.cinted.ufrgs.br](http://www.espie.cinted.ufrgs.br)
+ - date_published: 2017-12-22T13:18:34+00:00
+
+ ## Gondwana | Review of the Geological Map of Gondwana - IGCP-628 - Revisão do Mapa geológico do Gondwana
+ - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
+ - date_published: 2021-07-08T14:46:14+00:00
+
+ ## Universidade Federal de São Carlos — Universidade Federal de Sao Carlos
+ - [http://www.ufscar.br](http://www.ufscar.br)
+ - date_published: 2024-07-22T08:54:08.061213+00:00
+
+ ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
+ - [https://eventos.ufu.br](https://eventos.ufu.br)
+ - date_published: 2024-05-10T06:57:17.711249+00:00
+
+ ## Bibliotecas
+ - [http://www.bibliotecas.ufu.br](http://www.bibliotecas.ufu.br)
+ - date_published: 2024-07-13T02:25:56.738430+00:00
+
  ## Início | Comunica UFU
  - [http://www.comunica.ufu.br](http://www.comunica.ufu.br)
  - date_published: 2024-07-13T02:25:51.710302+00:00
@@ -1090,6 +1223,10 @@
  - [https://fabricioperuzzo.com.br](https://fabricioperuzzo.com.br)
  - date_published: 2023-12-23T07:30:31.973271+00:00
  - tags: ['personal']
+
+ ## Factorial | Software de RH e DP
+ - [https://factorialhr.com.br](https://factorialhr.com.br)
+ - date_published: 2024-08-10T23:22:07.002577+00:00
 
  ## Faro editorial
  - [https://faroeditorial.com.br](https://faroeditorial.com.br)
@@ -3879,141 +4016,4 @@
  ## The Welby Family's Blogs
  - [https://wel.by](https://wel.by)
  - date_published: 2024-07-13T04:13:15.094318+00:00
-
- ## Мобильный оператор life:)
- - [http://life.com.by](http://life.com.by)
- - date_published: 2024-07-13T14:57:23.640595+00:00
-
- ## Главная | Министерство связи и информатизации Республики Беларусь
- - [https://www.mpt.gov.by](https://www.mpt.gov.by)
- - date_published: 2024-06-30T03:40:15.572113+00:00
-
- ## Official website | Official Internet Portal of the President of the Republic of Belarus
- - [https://president.gov.by](https://president.gov.by)
- - date_published: 2024-06-29T22:50:44+00:00
-
- ## Anwar Tours | Tour Operator | Belize
- - [https://anwartours.bz](https://anwartours.bz)
- - date_published: 2024-05-06T22:41:11.214787+00:00
-
- ## דיגיטלר – Library
- - [https://digitaler.cld.bz](https://digitaler.cld.bz)
- - date_published: 2024-07-13T07:31:56.545477+00:00
-
- ## STACK – Library
- - [https://stack.cld.bz](https://stack.cld.bz)
- - date_published: 2024-06-16T17:23:03.102241+00:00
-
- ## Discover Belize with Belize Exotic Adventures – Belize Tours, Cave Tubing, Rainforest Tours, ATV Tours, Zipline Tours, Mayan Temples and Ruins
- - [https://www.discoverbelize.bz](https://www.discoverbelize.bz)
- - date_published: 2024-06-28T11:39:33.980240+00:00
-
- ## Homepage@c.dup.bz
- - [https://c.dup.bz](https://c.dup.bz)
- - date_published: 2024-04-14T18:18:59.553952+00:00
- - tags: ['probably personal', 'weird']
-
- ## Homepage@staging.stream.dup.bz
- - [https://staging.stream.dup.bz](https://staging.stream.dup.bz)
- - date_published: 2024-07-20T14:31:29.404612+00:00
-
- ## Homepage@stream.dup.bz
- - [https://stream.dup.bz](https://stream.dup.bz)
- - date_published: 2024-05-20T02:48:19.758502+00:00
-
- ## Khaled Abou Alfa
- - [https://www.kaa.bz](https://www.kaa.bz)
- - date_published: 2024-07-06T17:58:57+00:00
-
- ## URL Shortener
- - [http://lnk.bz](http://lnk.bz)
- - date_published: 2024-07-08T19:38:19.758366+00:00
-
- ## Login - Single Sign On | Manning Publications
- - [https://mng.bz](https://mng.bz)
- - date_published: 2024-04-29T02:58:40.081880+00:00
-
- ## -=:[ From the mind of Michael Walden ]:=-
- - [https://mw.rat.bz](https://mw.rat.bz)
- - date_published: 2024-02-10T00:00:00+00:00
- - tags: ['personal', 'blog']
-
- ## Custom Domain by Bitly
- - [https://samg.bz](https://samg.bz)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Sergio Benitez - Who Am I?
- - [https://sergio.bz](https://sergio.bz)
- - date_published: 2024-06-04T05:44:26+00:00
-
- ## Erfolgreich auf Google werden - trustfactory.de
- - [https://trustfactory.bz](https://trustfactory.bz)
- - date_published: 2022-05-17T04:49:53+00:00
-
- ## UFA888 แทงบอลออนไลน์ UFABET สมัครใหม่รับ 1000 บาท ยูฟ่า888
- - [https://www.ufa888.bz](https://www.ufa888.bz)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
- - [https://airbnb.com.bz](https://airbnb.com.bz)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Google
- - [https://google.com.bz](https://google.com.bz)
- - date_published: 2024-05-07T15:58:52.542039+00:00
-
- ## Grafika Google
- - [https://images.google.com.bz](https://images.google.com.bz)
- - date_published: 2024-07-20T07:37:47.738185+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.com.bz](https://visa.com.bz)
- - date_published: 2024-05-12T04:00:08.752250+00:00
-
- ## Blog.ash.bzh
- - [https://blog.ash.bzh](https://blog.ash.bzh)
- - date_published: 2024-07-13T23:53:55.055026+00:00
-
- ## Mastodon e brezhoneg
- - [https://mastodon.fedi.bzh](https://mastodon.fedi.bzh)
- - date_published: 2024-06-23T17:14:24.103105+00:00
-
- ## https://ewen.korr.bzh/br/
- - [https://ewen.korr.bzh](https://ewen.korr.bzh)
- - date_published: 2024-05-08T08:10:54+00:00
-
- ## SMS BZH – SMS BZH
- - [https://sms.bzh](https://sms.bzh)
- - date_published: 2024-05-09T08:05:12.517856+00:00
-
- ## Stripe Checkout
- - [http://try.sms.bzh](http://try.sms.bzh)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Yes We Dev - Agence web : conseil et développement sur mesure
- - [https://yeswedev.bzh](https://yeswedev.bzh)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Yuna - Services Informatiques et Solutions Numériques Durables
- - [https://yuna.bzh](https://yuna.bzh)
- - date_published: 2024-03-21T15:22:26+00:00
-
- - [https://www.reddit.c](https://www.reddit.c)
- - date_published: 2024-01-08T13:04:16.215952+00:00
-
- ## id. associates • Software • Web Development
- - [https://www.idassociates.ab.ca](https://www.idassociates.ab.ca)
- - date_published: 2024-07-11T17:18:05.663520+00:00
-
- ## The Alberta Seed Guide
- - [https://www.seed.ab.ca](https://www.seed.ab.ca)
- - date_published: 2024-07-01T15:54:25.245422+00:00
-
- ## Burgess Shale Geoscience Foundation - Guided Fossil Hikes - Yoho Park
- - [https://burgess-shale.bc.ca](https://burgess-shale.bc.ca)
- - date_published: 2024-05-07T22:31:27.804758+00:00
-
- ## Air Quality Subscription Service - BC Air Quality - Province of British Columbia
- - [https://aqss.nrs.gov.bc.ca](https://aqss.nrs.gov.bc.ca)
- - date_published: 2024-02-08T17:46:08.256903+00:00
 

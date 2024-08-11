@@ -1,3 +1,23 @@
+ ## Welcome to Faiss Documentation — Faiss  documentation
+ - [https://faiss.ai](https://faiss.ai)
+ - date_published: 2024-05-11T07:39:27.056441+00:00
+
+ ## fal
+ - [https://blog.fal.ai](https://blog.fal.ai)
+ - date_published: 2024-07-12T03:56:30.679072+00:00
+
+ ## Fantasy.ai
+ - [https://fantasy.ai](https://fantasy.ai)
+ - date_published: 2024-05-30T10:30:10+00:00
+
+ ## FantasyGF.ai - Best AI Girlfriend App - Start Chatting
+ - [https://fantasygf.ai](https://fantasygf.ai)
+ - date_published: 2024-06-27T10:52:30.192218+00:00
+
+ ## FAR AI
+ - [https://far.ai](https://far.ai)
+ - date_published: 2024-04-17T00:00:00+00:00
+
  ## Adversarial policies in Go
  - [https://goattack.far.ai](https://goattack.far.ai)
  - date_published: 2024-06-21T11:28:03.025262+00:00
@@ -1280,6 +1300,10 @@
  ## - IVEX.AI
  - [https://ivex.ai](https://ivex.ai)
  - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Generative chatbots for higher education, healthcare and government.
+ - [https://ivy.ai](https://ivy.ai)
+ - date_published: 2024-08-10T23:24:22.715723+00:00
 
  ## Remember Recall Reuse Your Knowledge | iWeaver AI Memory Tool
  - [https://www.iweaver.ai](https://www.iweaver.ai)
@@ -3931,7 +3955,7 @@
  - date_published: 2024-06-19T19:56:26.767775+00:00
 
  ## Red Bumerang | AI-Powered Web Research Agent
- - [https://www.redbumerang.ai](https://www.redbumerang.ai)
+ - [https://redbumerang.ai](https://redbumerang.ai)
  - date_published: 2024-04-22T19:26:33+00:00
  - tags: ['web scraping service']
 
@@ -3998,28 +4022,4 @@
  ## Remail - Write 10x faster with AI
  - [https://remail.ai](https://remail.ai)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Remesh AI Insights Platform
- - [https://www.remesh.ai](https://www.remesh.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Remini Web | Photo Enhancer
- - [https://app.remini.ai](https://app.remini.ai)
- - date_published: 2024-06-13T09:06:54+00:00
-
- ## Remini - AI Photo Enhancer
- - [https://remini.ai](https://remini.ai)
- - date_published: 2024-06-17T11:42:28.771027+00:00
-
- ## Background Remover | Create Transparent Background
- - [https://removal.ai](https://removal.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Rephrase.ai: Convert Text into Engaging AI Videos in Minutes
- - [https://www.rephrase.ai](https://www.rephrase.ai)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Replicate
- - [https://replicate.ai](https://replicate.ai)
- - date_published: 2024-03-28T00:00:00+00:00
 
