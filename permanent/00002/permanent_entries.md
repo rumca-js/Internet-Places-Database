@@ -1,3 +1,76 @@
+ ## Dover - Generate Customized Recruiting Emails
+ - [https://recruitingemails.ai](https://recruitingemails.ai)
+ - date_published: 2024-06-19T19:56:26.767775+00:00
+
+ ## Red Bumerang | AI-Powered Web Research Agent
+ - [https://redbumerang.ai](https://redbumerang.ai)
+ - date_published: 2024-04-22T19:26:33+00:00
+ - tags: ['web scraping service']
+
+ ## Reface – AI Face Swap App & Video Face Swaps
+ - [https://hey.reface.ai](https://hey.reface.ai)
+ - date_published: 2023-12-15T00:00:00+00:00
+
+ ## Powerful AI coding assistant that combines completion, refactoring, chat, and more - Refact.ai
+ - [https://refact.ai](https://refact.ai)
+ - date_published: 2023-10-25T11:42:01.412473+00:00
+
+ ## Refraction AI
+ - [https://refraction.ai](https://refraction.ai)
+ - date_published: 2024-07-12T07:19:51.847202+00:00
+
+ ## Regex.ai - Artificial Intelligence Regular Expression Generator
+ - [https://regex.ai](https://regex.ai)
+ - date_published: 2023-10-25T11:42:08.349741+00:00
+
+ ## Regie.ai: Generative AI for Sales Teams
+ - [https://www.regie.ai](https://www.regie.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## REimagine Home: AI-powered Interior Design Ideas
+ - [https://www.reimaginehome.ai](https://www.reimaginehome.ai)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## RejuveAI | decentralized token-based system
+ - [https://rejuve.ai](https://rejuve.ai)
+ - date_published: 2024-06-16T05:02:57.016264+00:00
+
+ ## Reka Playground
+ - [https://chat.reka.ai](https://chat.reka.ai)
+ - date_published: 2024-07-09T15:53:59.058786+00:00
+
+ ## Reka AI API
+ - [https://platform.reka.ai](https://platform.reka.ai)
+ - date_published: 2024-07-09T15:53:54.265673+00:00
+
+ ## Reka AI
+ - [https://reka.ai](https://reka.ai)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Reka Core showcase
+ - [https://showcase.reka.ai](https://showcase.reka.ai)
+ - date_published: 2024-07-09T15:53:48.918607+00:00
+
+ ## Relari Blog
+ - [https://blog.relari.ai](https://blog.relari.ai)
+ - date_published: 2024-07-08T22:19:04.620943+00:00
+
+ ## Welcome!
+ - [https://docs.relari.ai](https://docs.relari.ai)
+ - date_published: 2024-05-09T06:03:31.718479+00:00
+
+ ## Relari.ai
+ - [https://relari.ai](https://relari.ai)
+ - date_published: 2024-03-08T15:45:20.667037+00:00
+
+ ## Release.ai
+ - [https://release.ai](https://release.ai)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Remail - Write 10x faster with AI
+ - [https://remail.ai](https://remail.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Remesh AI Insights Platform
  - [https://www.remesh.ai](https://www.remesh.ai)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -238,7 +311,7 @@
  - date_published: 2024-07-13T04:16:32.332042+00:00
 
  ## SaaStr AI Day | March 27, 2024
- - [https://www.saastr.ai](https://www.saastr.ai)
+ - [https://saastr.ai](https://saastr.ai)
  - date_published: 2024-03-27T00:00:00+00:00
 
  ## Center for AI Safety (CAIS)
@@ -1401,6 +1474,10 @@
  - [https://docs.together.ai](https://docs.together.ai)
  - date_published: 2024-02-29T00:00:00+00:00
 
+ ## Help Center
+ - [https://support.together.ai](https://support.together.ai)
+ - date_published: 2024-08-11T12:06:20.031277+00:00
+
  ## Together AI
  - [https://together.ai](https://together.ai)
  - date_published: 2023-10-25T11:44:34.809336+00:00
@@ -1440,6 +1517,10 @@
  ## Topic Intelligence
  - [https://platform.topicintelligence.ai](https://platform.topicintelligence.ai)
  - date_published: 2024-08-02T14:13:51+00:00
+
+ ## Topic Intelligence™ - Unlock your growth
+ - [https://topicintelligence.ai](https://topicintelligence.ai)
+ - date_published: 2024-08-11T07:06:02.639696+00:00
 
  ## Free Online AI Video Editor for Video Creation | TopView
  - [https://www.topview.ai](https://www.topview.ai)
@@ -1704,6 +1785,10 @@
  - [https://www.union.ai](https://www.union.ai)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## The Customizable No-Code Platform for Risk & Compliance Operations | Unit21
+ - [https://www.unit21.ai](https://www.unit21.ai)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## AI News & Robotics News - Unite.AI
  - [https://www.unite.ai](https://www.unite.ai)
  - date_published: 2023-10-25T11:00:48.637068+00:00
@@ -1806,6 +1891,10 @@
  - [https://blog.vapi.ai](https://blog.vapi.ai)
  - date_published: 2024-04-18T20:32:41.201360+00:00
  - tags: ['artificial intelligence', 'voice assistant']
+
+ ## Introduction - Vapi
+ - [https://docs.vapi.ai](https://docs.vapi.ai)
+ - date_published: 2024-08-11T02:59:36.918706+00:00
 
  ## Vapi
  - [https://vapi.ai](https://vapi.ai)
@@ -2519,6 +2608,10 @@ Creative Solutions
  - [https://zipchat.ai](https://zipchat.ai)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## Welcome to Zipy ai | Zipy
+ - [https://docs.zipy.ai](https://docs.zipy.ai)
+ - date_published: 2024-05-29T00:00:00+00:00
+
  ## ZipZip
  - [https://chat.zipzip.ai](https://chat.zipzip.ai)
  - date_published: 2024-05-06T20:27:34.712196+00:00
@@ -2721,12 +2814,16 @@ Creative Solutions
  - [https://niha.al](https://niha.al)
  - date_published: 2024-07-13T04:12:51.838606+00:00
 
+ ## #APPS2024 – Albanian Power Platform Summit
+ - [https://powerplatformsummit.al](https://powerplatformsummit.al)
+ - date_published: 2024-08-11T17:43:47.880013+00:00
+
  ## Rafal Stapinski
  - [https://raf.al](https://raf.al)
  - date_published: 2024-07-13T04:12:15.537263+00:00
 
  ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
- - [https://www.realestate.al](https://www.realestate.al)
+ - [https://realestate.al](https://realestate.al)
  - date_published: 2024-02-08T22:20:07.666981+00:00
 
  ## Samal Shrikant
@@ -2810,6 +2907,10 @@ Creative Solutions
  ## Abraham Williams
  - [https://abrah.am](https://abrah.am)
  - date_published: 2024-03-10T22:41:31+00:00
+
+ ## Agronetto Армения – онлайн площадка по продаже сельхозтехники и запчастей
+ - [https://agronetto.am](https://agronetto.am)
+ - date_published: 2024-08-11T15:41:29.207731+00:00
 
  ## Airbnb | Վարձով հանգստի տներ, տնակներ, լողափնյա տներ և այլն
  - [https://airbnb.am](https://airbnb.am)
@@ -3767,6 +3868,10 @@ Creative Solutions
  - [https://azimutt.app](https://azimutt.app)
  - date_published: 2024-06-19T22:21:49+00:00
 
+ ## Bally Live
+ - [https://applink.ballylive.app](https://applink.ballylive.app)
+ - date_published: 2023-03-28T21:55:08+00:00
+
  ## BananaBin
  - [https://bananabin.app](https://bananabin.app)
  - date_published: 2024-07-02T13:34:04+00:00
@@ -3924,109 +4029,4 @@ Creative Solutions
  ## Hey, I'm imgproxy!
  - [https://cdn.bsky.app](https://cdn.bsky.app)
  - date_published: 2024-06-15T04:24:02.451274+00:00
-
- ## Bluesky Documentation | Bluesky
- - [https://docs.bsky.app](https://docs.bsky.app)
- - date_published: 2024-06-18T00:31:46+00:00
-
- ## Bluesky Embed
- - [https://embed.bsky.app](https://embed.bsky.app)
- - date_published: 2024-07-04T02:55:25.988557+00:00
-
- ## Bluesky
- - [https://staging.bsky.app](https://staging.bsky.app)
- - date_published: 2024-04-28T05:29:44.625996+00:00
-
- ## Budge - Get Out of Credit Card Debt Quickly
- - [http://www.budge.app](http://www.budge.app)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Budgetbuilder.app - An Easy Web Based Budgeting Tool
- - [https://budgetbuilder.app](https://budgetbuilder.app)
- - date_published: 2024-06-13T14:09:16.383988+00:00
-
- ## Budibase
- - [https://account.budibase.app](https://account.budibase.app)
- - date_published: 2024-05-14T03:35:49.198094+00:00
-
- ## Shopify Bundles App | Bundler
- - [https://bundler.app](https://bundler.app)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## CallApp - Free Caller ID & Phone Call Blocker app
- - [https://call.app](https://call.app)
- - date_published: 2024-06-20T16:42:30+00:00
-
- ## capitalyse-website-nuxtjs
- - [https://capitalyse.app](https://capitalyse.app)
- - date_published: 2024-04-25T08:13:45.023998+00:00
-
- ## Cierpliwości...
- - [https://cara.app](https://cara.app)
- - date_published: 2024-06-05T19:54:21+00:00
- - tags: ['art gallery', 'art community']
-
- ## CareAR Portal
- - [https://carear.app](https://carear.app)
- - date_published: 2024-04-13T00:44:30+00:00
-
- ## https://carina.app
- - [https://carina.app](https://carina.app)
- - date_published: 2023-10-25T11:45:43.807234+00:00
-
- ## Carteiro para Android
- - [https://carteiro.app](https://carteiro.app)
- - date_published: 2024-07-02T20:49:42.831211+00:00
-
- ## Manifest - Effortless Backends
- - [https://case.app](https://case.app)
- - date_published: 2024-06-19T22:13:16.244927+00:00
-
- ## Cash App - Do more with your money
- - [https://cash.app](https://cash.app)
- - date_published: 1907-01-01T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://click.cash.app](https://click.cash.app)
- - date_published: 2024-06-14T16:39:52.990061+00:00
-
- ## Home
- - [https://code.cash.app](https://code.cash.app)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Cash App Status
- - [https://status.cash.app](https://status.cash.app)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## CatalogIt HUB
- - [https://hub.catalogit.app](https://hub.catalogit.app)
- - date_published: 2024-05-17T20:01:07+00:00
-
- ## Show HN: Causal 2.0 – Modern Financial Planning for Startups
- - [https://causal.app](https://causal.app)
- - date_published: 2024-03-19T14:06:25+00:00
-
- ## Causal University
- - [https://docs.causal.app](https://docs.causal.app)
- - date_published: 2024-02-10T00:00:00+00:00
-
- ## Models - Causal
- - [https://my.causal.app](https://my.causal.app)
- - date_published: 2024-05-11T08:36:06.682341+00:00
-
- ## Cecil · Your content driven static site generator.
- - [https://cecil.app](https://cecil.app)
- - date_published: 2024-05-08T00:15:38.167932+00:00
-
- ## 🌳 Links · Stay the owner of your links
- - [https://links.cecil.app](https://links.cecil.app)
- - date_published: 2024-05-08T00:15:36.801595+00:00
-
- ## 🖼️ Photo Stream · Your personal photo gallery
- - [https://photo-stream.cecil.app](https://photo-stream.cecil.app)
- - date_published: 2024-07-03T04:24:02.479988+00:00
-
- ## 🎙️ Staticast · The easiest way to publish your podcast
- - [https://staticast.cecil.app](https://staticast.cecil.app)
- - date_published: 2024-07-03T04:23:59.137873+00:00
 

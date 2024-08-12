@@ -1,3 +1,139 @@
+ ## Raycast Music
+ - [https://raycast-music.app](https://raycast-music.app)
+ - date_published: 2024-02-10T00:00:00+00:00
+
+ ## readflow
+ - [https://readflow.app](https://readflow.app)
+ - date_published: 2024-06-19T22:21:35.751758+00:00
+
+ ## Read Manga Online
+ - [https://readmanga.app](https://readmanga.app)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Rectangles
+ - [https://rectangles.app](https://rectangles.app)
+ - date_published: 2024-07-23T23:32:49.875653+00:00
+
+ ## Reeder 5
+ - [https://reeder.app](https://reeder.app)
+ - date_published: 2023-04-12T12:59:25+00:00
+
+ ## Reflame
+ - [https://reflame.app](https://reflame.app)
+ - date_published: 2023-10-25T11:48:32.422376+00:00
+
+ ## Reflect Notes
+ - [https://reflect.app](https://reflect.app)
+ - date_published: 2023-10-25T11:48:33.629478+00:00
+
+ ## Reflection.app — Your guided journal for wellness and growth.
+ - [https://www.reflection.app](https://www.reflection.app)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Refrakt
+ - [https://refrakt.app](https://refrakt.app)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## DSA & NATSEC ASIA 2024
+ - [https://dsanatsecasia2024oem.regevent.app](https://dsanatsecasia2024oem.regevent.app)
+ - date_published: 2024-05-03T01:42:59+00:00
+
+ ## Home - Relai
+ - [https://relai.app](https://relai.app)
+ - date_published: 2023-03-21T08:59:42+00:00
+
+ ## Mobile test automation tool | Repeato
+ - [https://repeato.app](https://repeato.app)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## DIPLOMATIC
+ - [https://diplomatic-docs.replit.app](https://diplomatic-docs.replit.app)
+ - date_published: 2024-07-14T10:32:34.710493+00:00
+
+ ## Repl Bio
+ - [https://ornella.replit.app](https://ornella.replit.app)
+ - date_published: 2024-04-28T04:38:06.201263+00:00
+
+ ## Replit Partnerships
+ - [https://partnerships-form-util.replit.app](https://partnerships-form-util.replit.app)
+ - date_published: 2024-04-28T04:38:19.545080+00:00
+
+ ## Fatal Force Database entry 8171: Jason Neal Puckett
+ - [https://police-shooting-sampler.replit.app](https://police-shooting-sampler.replit.app)
+ - date_published: 2024-06-30T09:51:01.947193+00:00
+
+ ## Replo - Shopify pages without the dev time
+ - [https://www.replo.app](https://www.replo.app)
+ - date_published: 2024-07-04T02:08:18.450127+00:00
+
+ ## Reporty - Get Shopify Order Notifications & Reports in Slack
+ - [https://reporty.app](https://reporty.app)
+ - date_published: 2024-06-23T02:59:25.371789+00:00
+
+ ## Reproof | The collaborate writing app for creativity.
+ - [https://reproof.app](https://reproof.app)
+ - date_published: 2023-10-25T11:48:46.496389+00:00
+
+ ## ResearchBuddy - Automatic Literature Reviews - Login
+ - [https://researchbuddy.app](https://researchbuddy.app)
+ - date_published: 2024-06-19T21:20:51.217006+00:00
+
+ ## Responsively App - A Web Developer's Browser
+ - [https://responsively.app](https://responsively.app)
+ - date_published: 2024-07-14T08:19:34.985278+00:00
+
+ ## Reviewbunny - Pull request reminders for teams
+ - [https://reviewbunny.app](https://reviewbunny.app)
+ - date_published: 2024-05-06T21:28:54.955912+00:00
+
+ ## Revoicer - Emotion-based Text To Speech
+ - [https://revoicer.app](https://revoicer.app)
+ - date_published: 2024-06-29T22:55:26.713147+00:00
+
+ ## Rhithm
+ - [https://portal.rhithm.app](https://portal.rhithm.app)
+ - date_published: 2024-07-11T08:29:34+00:00
+
+ ## Riter
+ - [https://riter.app](https://riter.app)
+ - date_published: 2024-06-19T21:35:00.176901+00:00
+
+ ## Rive - Editor
+ - [https://editor.rive.app](https://editor.rive.app)
+ - date_published: 2024-05-11T08:50:36.223132+00:00
+
+ ## Introduction | Rive Guide
+ - [https://help.rive.app](https://help.rive.app)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Rive - Build interactive motion graphics that run anywhere
+ - [https://rive.app](https://rive.app)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## DreamTavern: AI Character Chat
+ - [https://www.rizzgpt.app](https://www.rizzgpt.app)
+ - date_published: 2024-06-19T21:25:50.289759+00:00
+
+ ## Read Manga Online
+ - [https://rmanga.app](https://rmanga.app)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## RolePlai - Advanced Ai RolePlay Chatbots
+ - [https://roleplai.app](https://roleplai.app)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Checkout
+ - [https://ecom.roller.app](https://ecom.roller.app)
+ - date_published: 2024-06-17T01:19:54+00:00
+
+ ## Roon
+ - [https://roon.app](https://roon.app)
+ - date_published: 2024-06-30T05:28:32.098266+00:00
+
+ ## Rossum - Registration
+ - [https://rossum.app](https://rossum.app)
+ - date_published: 2024-04-22T07:50:29+00:00
+
  ## RSS Feed Generator, Create RSS feeds from URL
  - [https://rss.app](https://rss.app)
  - date_published: 2024-05-08T04:28:39.540191+00:00
@@ -118,6 +254,10 @@
  ## Show HN: Seedling – A Decentralised Medium
  - [https://seedling-d.app](https://seedling-d.app)
  - date_published: 2024-01-05T22:54:58+00:00
+
+ ## Sequels - SQL Notebook for macOS
+ - [https://sequels.app](https://sequels.app)
+ - date_published: 2024-08-11T17:24:41.099190+00:00
 
  ## ServicePlanner :: Ministry & Field Service App
  - [https://serviceplanner.app](https://serviceplanner.app)
@@ -450,6 +590,22 @@
  - [https://superkey.app](https://superkey.app)
  - date_published: 2024-06-18T11:35:47.035289+00:00
 
+ ## Supernotes Community
+ - [https://community.supernotes.app](https://community.supernotes.app)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Introduction - Supernotes
+ - [https://developer.supernotes.app](https://developer.supernotes.app)
+ - date_published: 2024-08-11T16:55:09.459393+00:00
+
+ ## Supernotes Help
+ - [https://help.supernotes.app](https://help.supernotes.app)
+ - date_published: 2024-08-11T16:55:07.937873+00:00
+
+ ## Supernotes
+ - [https://my.supernotes.app](https://my.supernotes.app)
+ - date_published: 2024-08-11T16:55:04.370026+00:00
+
  ## Supernotes | The best collaborative note-taking app
  - [https://supernotes.app](https://supernotes.app)
  - date_published: 2024-02-22T13:05:18.857072+00:00
@@ -510,10 +666,18 @@
  - [https://beta.tauri.app](https://beta.tauri.app)
  - date_published: 2024-02-23T21:18:24.945566+00:00
 
+ ## create-tauri-app
+ - [https://create.tauri.app](https://create.tauri.app)
+ - date_published: 2024-08-11T16:34:54.975030+00:00
+
  ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
  - [https://tauri.app](https://tauri.app)
  - date_published: 2023-10-25T11:49:16.037626+00:00
  - tags: ['software development platform']
+
+ ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
+ - [https://v1.tauri.app](https://v1.tauri.app)
+ - date_published: 2024-08-11T16:34:54.183121+00:00
 
  ## Tauri 2.0
  - [https://v2.tauri.app](https://v2.tauri.app)
@@ -670,6 +834,10 @@
  ## Best IIT JEE NEET Coaching
  - [https://toppersacademy.app](https://toppersacademy.app)
  - date_published: 2024-04-15T00:00:00+00:00
+
+ ## To To-Do - List Schedule Planner
+ - [https://totodo.app](https://totodo.app)
+ - date_published: 2024-08-11T09:06:50.329769+00:00
 
  ## やさしいDX - DX時代の情報共有プラットフォームづくりを、できる範囲からちいさく始めたい「あなた」が、まわりを巻き込み「一歩目を踏み出す」ことをゴールとした情報発信をおこないます。
  - [https://blog.toyokumo.app](https://blog.toyokumo.app)
@@ -1002,6 +1170,10 @@
 
  ## Arbitrum — The Future of Ethereum
  - [https://arbitrum-website-lgoh9pful-offchain-labs.vercel.app](https://arbitrum-website-lgoh9pful-offchain-labs.vercel.app)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Arbitrum — The Future of Ethereum
+ - [https://arbitrum-website-opct2n3n6-offchain-labs.vercel.app](https://arbitrum-website-opct2n3n6-offchain-labs.vercel.app)
  - date_published: 2024-03-28T00:00:00+00:00
 
  ## Artist Finder
@@ -1640,6 +1812,10 @@
  ## JavaScript Loading Patterns
  - [https://loading-patterns.vercel.app](https://loading-patterns.vercel.app)
  - date_published: 2024-08-08T17:49:50.527605+00:00
+
+ ## localfirst.fm - A podcast about local-first software development.
+ - [https://localfirst-r06no9ylu-schickling-pro.vercel.app](https://localfirst-r06no9ylu-schickling-pro.vercel.app)
+ - date_published: 2024-07-23T00:00:00+00:00
 
  ## Hello Luna
  - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
@@ -2331,6 +2507,10 @@
  - [https://visitagain.vercel.app](https://visitagain.vercel.app)
  - date_published: 2024-07-02T20:50:22.224329+00:00
 
+ ## Visitor Badge
+ - [https://visitor-badge.vercel.app](https://visitor-badge.vercel.app)
+ - date_published: 2024-08-11T22:07:22.428491+00:00
+
  ## Vizionova - Build Intelligent Map Diagramming
  - [https://vizionova.vercel.app](https://vizionova.vercel.app)
  - date_published: 2024-06-19T19:19:06.685652+00:00
@@ -2795,6 +2975,10 @@
  - [https://web.xpeer.app](https://web.xpeer.app)
  - date_published: 2024-06-12T10:25:38+00:00
 
+ ## All-in-one workspace for your creative journey • xTiles
+ - [https://xtiles.app](https://xtiles.app)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Blog
  - [https://blog.xumm.app](https://blog.xumm.app)
  - date_published: 2024-06-20T00:00:00+00:00
@@ -2948,6 +3132,10 @@
  ## adidas Argentina Tienda Oficial | Zapatillas y Ropa deportiva
  - [https://www.adidas.com.ar](https://www.adidas.com.ar)
  - date_published: 2024-07-14T12:14:05.882563+00:00
+
+ ## Agronetto Argentina : un mercado en línea para maquinaria agrícola y recambios
+ - [https://agronetto.com.ar](https://agronetto.com.ar)
+ - date_published: 2024-08-11T15:41:08.665581+00:00
 
  ## Airbnb | Alojamientos para vacaciones, cabañas, casas en la playa y más
  - [https://airbnb.com.ar](https://airbnb.com.ar)
@@ -3398,6 +3586,10 @@
  - [https://www.psafinance.com.ar](https://www.psafinance.com.ar)
  - date_published: 2024-05-24T23:14:24+00:00
 
+ ## RadioTV AN24 – Despertando Conciencias
+ - [https://www.radioan24.com.ar](https://www.radioan24.com.ar)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## ralsina.com.ar
  - [http://nikola.ralsina.com.ar](http://nikola.ralsina.com.ar)
  - date_published: 2024-06-27T17:00:51.828365+00:00
@@ -3830,202 +4022,4 @@
  ## index.html · Ferale.art
  - [https://ferale.art](https://ferale.art)
  - date_published: 2024-08-08T03:08:36.815400+00:00
-
- ## Dołącz do nas - Związek Zawodowy Filmowców
- - [https://filmowcy.art](https://filmowcy.art)
- - date_published: 2024-07-14T18:17:25.706353+00:00
-
- ## finews.art: Home
- - [https://www.finews.art](https://www.finews.art)
- - date_published: 2024-07-22T17:47:31+00:00
-
- ## For the Wall | AI Generated Wall Art | forthewall.art
- - [https://forthewall.art](https://forthewall.art)
- - date_published: 2024-06-19T20:50:16.499803+00:00
-
- ## Francesca Sciandra
- - [https://francescasciandra.art](https://francescasciandra.art)
- - date_published: 2024-04-03T06:29:25.051254+00:00
- - tags: ['personal']
-
- ## GabJo Art
- - [https://gabjo.art](https://gabjo.art)
- - date_published: 2024-05-07T23:00:19.629152+00:00
-
- ## Gemini Quickstart!
- - [https://geminiquickst.art](https://geminiquickst.art)
- - date_published: 2023-09-25T20:37:05+00:00
-
- ## Genuary 2024: Generative Art / Creative Coding Month
- - [https://genuary.art](https://genuary.art)
- - date_published: 2023-12-31T14:09:15+00:00
-
- ## Mantra
- - [https://glyphe.art](https://glyphe.art)
- - date_published: 2023-11-29T17:10:47.669540+00:00
- - tags: ['personal']
-
- ## Goldsmiths CCA
- - [https://goldsmithscca.art](https://goldsmithscca.art)
- - date_published: 2024-06-27T16:54:43.641363+00:00
-
- ## home — hazelrah
- - [https://hazelrah.art](https://hazelrah.art)
- - date_published: 2020-07-24T08:39:47+00:00
-
- ## HotConvo
- - [https://hotconvo.art](https://hotconvo.art)
- - date_published: 2023-11-22T12:17:56+00:00
-
- ## ICE - THE 3D ENVIRONMENT CONFERENCE
- - [https://www.ice.art](https://www.ice.art)
- - date_published: 2024-07-24T05:52:57.745554+00:00
-
- ## home | the pizzeria
- - [https://icecreampizzer.art](https://icecreampizzer.art)
- - date_published: 2024-07-21T04:33:02.993640+00:00
-
- ## SnapDress: Dress up in a snap!
- - [https://snapdress.image2image.art](https://snapdress.image2image.art)
- - date_published: 2024-06-14T07:27:29+00:00
-
- ## ImagineArt AI Art Generator | Free AI Image Generator
- - [https://www.imagine.art](https://www.imagine.art)
- - date_published: 2024-06-19T19:50:48.342662+00:00
-
- ## InkBlot Art Platform for creators by creators.
- - [https://inkblot.art](https://inkblot.art)
- - date_published: 2023-10-29T15:56:39+00:00
-
- ## iooner.ART - Innovative problems to existing solutions
- - [https://iooner.art](https://iooner.art)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Jan Vítek
- - [https://www.janvitek.art](https://www.janvitek.art)
- - date_published: 2024-07-01T10:23:31.094913+00:00
-
- ## Digital Art by Jörn Meyer
- - [https://joern.art](https://joern.art)
- - date_published: 2024-08-07T20:27:21.324623+00:00
-
- ## John Peart
- - [https://johnpe.art](https://johnpe.art)
- - date_published: 2024-05-12T05:43:12.180188+00:00
- - tags: ['personal']
-
- ## Julia Stoschek Foundation
- - [https://jsfoundation.art](https://jsfoundation.art)
- - date_published: 2024-07-04T01:57:01.705758+00:00
-
- ## Juan Silva
- - [https://juansilva.art](https://juansilva.art)
- - date_published: 2024-02-26T08:26:28.279964+00:00
-
- ## Kidz Fun Art - Make drawing fun
- - [https://kidzfun.art](https://kidzfun.art)
- - date_published: 2024-05-07T15:41:07.994191+00:00
-
- ## Kreyda | UX/UI design & development
- - [https://www.kreyda.art](https://www.kreyda.art)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Laboratoria.art
- - [https://laboratoria.art](https://laboratoria.art)
- - date_published: 2024-05-06T22:12:16.517408+00:00
-
- ## Lexica
- - [https://lexica.art](https://lexica.art)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Liao Qian 廖倩
- - [https://liaoqian.art](https://liaoqian.art)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Show HN: I made a pixel art editor for Windows desktop
- - [https://www.lightcube.art](https://www.lightcube.art)
- - date_published: 2024-05-30T09:28:33+00:00
- - tags: ['pixel art']
-
- ## N.E.Lilly – The intermittent journal of Nathan E. Lilly
- - [https://journal.lilly.art](https://journal.lilly.art)
- - date_published: 2024-07-08T09:45:55.483846+00:00
-
- ## Lucas
- - [https://lucas.art](https://lucas.art)
- - date_published: 2024-06-07T08:34:39.335167+00:00
- - tags: ['personal']
-
- ## Martín Bonadeo
- - [https://www.martinbonadeo.art](https://www.martinbonadeo.art)
- - date_published: 2019-03-02T15:15:30+00:00
-
- ## Mar Williams Art
- - [https://marwilliams.art](https://marwilliams.art)
- - date_published: 2024-02-05T17:23:15.778256+00:00
-
- ## Masterworks
- - [https://www.masterworks.art](https://www.masterworks.art)
- - date_published: 2024-01-24T20:54:06.806591+00:00
-
- ## Mastodon.ART
- - [https://mastodon.art](https://mastodon.art)
- - date_published: 2024-04-07T14:24:47.816310+00:00
-
- ## Mervi Eskelinen | Artist, illustrator and content creator
- - [https://mervi.art](https://mervi.art)
- - date_published: 2024-02-13T18:07:49.947136+00:00
- - tags: ['personal']
-
- ## Michael Horn | Michael Horn Art and Immersion
- - [https://www.michaelhorn.art](https://www.michaelhorn.art)
- - date_published: 2024-07-11T13:54:12.550051+00:00
-
- ## MINIMAL LOVE
- - [https://minimal-love.art](https://minimal-love.art)
- - date_published: 2023-12-06T22:24:57+00:00
-
- ## Digitale Sammlung des Museum Kurhaus Kleve
- - [https://sammlung.mkk.art](https://sammlung.mkk.art)
- - date_published: 2024-07-13T14:33:33.681459+00:00
-
- ## Museum Kurhaus Kleve
- - [https://www.mkk.art](https://www.mkk.art)
- - date_published: 2024-07-13T14:33:26.031804+00:00
-
- ## Home
- - [https://namisa.art](https://namisa.art)
- - date_published: 2024-02-27T19:46:48+00:00
-
- ## Places - NEWEAST
- - [https://neweast.art](https://neweast.art)
- - date_published: 2024-07-01T08:05:48.177346+00:00
-
- ## Nicholas Kole
- - [https://www.nicholaskole.art](https://www.nicholaskole.art)
- - date_published: 2024-06-21T19:59:36.354223+00:00
-
- ## niklasgoeke.com - Lessons from life outside the comfort zone
- - [https://nik.art](https://nik.art)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## New Masters Academy's Beyond the Frame
- - [https://blog.nma.art](https://blog.nma.art)
- - date_published: 2024-06-21T19:59:48.291655+00:00
-
- ## NMA Coaching Program
- - [https://coaching.nma.art](https://coaching.nma.art)
- - date_published: 2024-06-21T19:59:47.079968+00:00
-
- ## New Masters Academy | Live Classes
- - [https://live.nma.art](https://live.nma.art)
- - date_published: 2024-06-14T06:10:23+00:00
-
- ## New Masters Academy
- - [https://nma.art](https://nma.art)
- - date_published: 2024-06-18T16:16:49.524477+00:00
-
- ## nonkiru.art
- - [https://nonkiru.art](https://nonkiru.art)
- - date_published: 2024-04-30T02:56:29+00:00
 
