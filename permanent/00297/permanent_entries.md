@@ -1,3 +1,222 @@
+ ## Audi Pakistan
+ - [http://www.audi.com.pk](http://www.audi.com.pk)
+ - date_published: 2024-07-19T20:41:59+00:00
+
+ ## Daily Pakistan - Latest Urdu News & Daily Newspaper
+ - [https://dailypakistan.com.pk](https://dailypakistan.com.pk)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Daily Pakistan | The Online English Newspaper Of Pakistan | Latest Breaking News , Pakistan News Urdu | epaper
+ - [https://en.dailypakistan.com.pk](https://en.dailypakistan.com.pk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.pk](https://images.google.com.pk)
+ - date_published: 2024-07-20T07:36:52.685123+00:00
+
+ ## Google
+ - [https://www.google.com.pk](https://www.google.com.pk)
+ - date_published: 2024-06-21T22:24:54.830744+00:00
+
+ ## Daily Jang: Latest News, Breaking News Pakistan, Entertainment, Sports, Urdu News, English News
+ - [http://www.jang.com.pk](http://www.jang.com.pk)
+ - date_published: 2024-06-27T09:25:46+00:00
+
+ ## Latest News, Today's Paper and Daily ePaper – The Nation
+ - [http://nation.com.pk](http://nation.com.pk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Oxford University Press Pakistan
+ - [https://oup.com.pk](https://oup.com.pk)
+ - date_published: 2024-08-12T00:02:21.901709+00:00
+
+ ## Paradigm Shift | A Global Politics Publication & Knowledge Hub
+ - [https://www.paradigmshift.com.pk](https://www.paradigmshift.com.pk)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ - [https://ptv-news.com.pk](https://ptv-news.com.pk)
+ - date_published: 2024-01-09T03:43:33.649877+00:00
+
+ ## Welcome to nginx!
+ - [http://www.puzzle.com.pk](http://www.puzzle.com.pk)
+ - date_published: 2020-12-12T19:29:06+00:00
+
+ ## TheNews Epaper- e.thenews.com.pk
+ - [https://e.thenews.com.pk](https://e.thenews.com.pk)
+ - date_published: 2024-08-11T15:25:27.020238+00:00
+
+ ## The News International: Latest News Breaking, Pakistan News
+ - [https://thenews.com.pk](https://thenews.com.pk)
+ - date_published: 2024-02-24T09:56:21.764672+00:00
+
+ ## Food Tribune
+ - [https://food.tribune.com.pk](https://food.tribune.com.pk)
+ - date_published: 2024-07-19T19:59:06.273728+00:00
+
+ ## International News, Latest News, Breaking News  | The Express Tribune
+ - [https://tribune.com.pk](https://tribune.com.pk)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Zong 4G Pakistan | Telecommunications | 4G In Affordable Price
+ - [https://www.zong.com.pk](https://www.zong.com.pk)
+ - date_published: 2024-06-11T08:12:53+00:00
+
+ ## Barani Institute of Information Technology
+ - [http://biit.edu.pk](http://biit.edu.pk)
+ - date_published: 2024-07-10T08:19:29.396067+00:00
+
+ ## Portal-Attendence
+ - [https://cms.cust.edu.pk](https://cms.cust.edu.pk)
+ - date_published: 2024-02-08T22:15:51.370802+00:00
+
+ ## Institute of Space Technology, Islamabad.
+ - [https://www.ist.edu.pk](https://www.ist.edu.pk)
+ - date_published: 2024-06-26T11:49:21.138776+00:00
+
+ ## Home - Information Technology University
+ - [https://itu.edu.pk](https://itu.edu.pk)
+ - date_published: 2024-07-06T22:45:16.015778+00:00
+
+ ## Circular Plastic Institute
+ - [https://cpi.ksbl.edu.pk](https://cpi.ksbl.edu.pk)
+ - date_published: 2024-08-11T21:52:20.289962+00:00
+
+ ## Karachi School of Business and Leadership. KSBL - Karachi School of Business & Leadership
+ - [https://ksbl.edu.pk](https://ksbl.edu.pk)
+ - date_published: 2024-02-08T22:09:44.147353+00:00
+
+ ## Dept. of International Relations, University of Karachi
+ - [https://kuird.edu.pk](https://kuird.edu.pk)
+ - date_published: 2023-07-25T09:11:59+00:00
+
+ ## Welcome to Admission | Admission
+ - [https://admission.lums.edu.pk](https://admission.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:34+00:00
+
+ ## LUMS Online Admission
+ - [https://admissions.lums.edu.pk](https://admissions.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:34.934258+00:00
+
+ ## Welcome to Alumni | Alumni
+ - [https://alumni.lums.edu.pk](https://alumni.lums.edu.pk)
+ - date_published: 2024-07-08T14:09:21+00:00
+
+ ## LUMS - Academic Report 2024
+ - [https://ar2024.lums.edu.pk](https://ar2024.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:40.329256+00:00
+
+ ## Centre for Continuing Education Studies
+ - [https://ces.lums.edu.pk](https://ces.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:38.193304+00:00
+
+ ## Connect Login
+ - [https://connect.lums.edu.pk](https://connect.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:48.792446+00:00
+
+ ## Welcome to Financial Aid | Financial Aid
+ - [https://financial-aid.lums.edu.pk](https://financial-aid.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to Giving | Giving
+ - [https://giving.lums.edu.pk](https://giving.lums.edu.pk)
+ - date_published: 2024-07-08T14:09:23+00:00
+
+ ## Welcome to HR | HR
+ - [https://hr.lums.edu.pk](https://hr.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to International | International
+ - [https://international.lums.edu.pk](https://international.lums.edu.pk)
+ - date_published: 2024-07-08T14:09:21+00:00
+
+ ## Welcome to Library | Library
+ - [https://library.lums.edu.pk](https://library.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to LUMS | LUMS
+ - [https://lums.edu.pk](https://lums.edu.pk)
+ - date_published: 2024-07-08T14:06:29+00:00
+
+ ## Welcome to MGSHSS | MGSHSS
+ - [https://mgshss.lums.edu.pk](https://mgshss.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to LUMS - NOP Centre | LUMS - NOP Centre
+ - [https://nop.lums.edu.pk](https://nop.lums.edu.pk)
+ - date_published: 2024-07-08T14:07:54+00:00
+
+ ## Welcome to OR | OR
+ - [https://or.lums.edu.pk](https://or.lums.edu.pk)
+ - date_published: 2024-07-08T14:18:23+00:00
+
+ ## Welcome to Office of Students Affairs | Office of Students Affairs
+ - [https://osa.lums.edu.pk](https://osa.lums.edu.pk)
+ - date_published: 2024-07-04T07:36:05+00:00
+
+ ## LUMS - Online Payment
+ - [https://pay.lums.edu.pk](https://pay.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:06.144026+00:00
+
+ ## Welcome to Office of the Provost | Office of the Provost
+ - [https://provost.lums.edu.pk](https://provost.lums.edu.pk)
+ - date_published: 2024-07-08T11:37:56+00:00
+
+ ## Welcome to REDC
+ - [https://redc.lums.edu.pk](https://redc.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:20.774441+00:00
+
+ ## Welcome to SAHSOL | SAHSOL
+ - [https://sahsol.lums.edu.pk](https://sahsol.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:44.026335+00:00
+
+ ## Welcome to SBASSE | SBASSE
+ - [http://sbasse.lums.edu.pk](http://sbasse.lums.edu.pk)
+ - date_published: 2024-07-08T14:08:05+00:00
+
+ ## Welcome to SDSB | SDSB
+ - [https://sdsb.lums.edu.pk](https://sdsb.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:04+00:00
+
+ ## Welcome to SOE | SOE
+ - [https://soe.lums.edu.pk](https://soe.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:06+00:00
+
+ ## Welcome to VC Office | VC Office
+ - [https://vc.lums.edu.pk](https://vc.lums.edu.pk)
+ - date_published: 2024-07-08T11:51:59+00:00
+
+ ## Cierpliwości...
+ - [https://seecs.nust.edu.pk](https://seecs.nust.edu.pk)
+ - date_published: 2024-05-04T15:28:25.365834+00:00
+
+ ## SAIMS – Sir AdamJee Institute of Management Sciences
+ - [https://saims.edu.pk](https://saims.edu.pk)
+ - date_published: 2024-06-12T11:43:58.226004+00:00
+
+ ## Home page
+ - [https://www.pta.gov.pk](https://www.pta.gov.pk)
+ - date_published: 2024-01-09T03:43:44.494290+00:00
+
+ ## NCGSA — National Center of GIS and Space Application
+ - [https://ncgsa.org.pk](https://ncgsa.org.pk)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Pakistan Aeronautical Complex Kamra - 403.shtml
+ - [http://pac.org.pk](http://pac.org.pk)
+ - date_published: 2024-07-09T22:02:28.119320+00:00
+
+ ## Pakrheumatology | Home
+ - [http://www.pakrheumatology.org.pk](http://www.pakrheumatology.org.pk)
+ - date_published: 2024-04-24T15:59:36+00:00
+
+ ## Arab News PK
+ - [http://arabnews.pk](http://arabnews.pk)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Arab News PK
+ - [https://www.arabnews.pk](https://www.arabnews.pk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## Status overview
  - [https://downdetector.pk](https://downdetector.pk)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -574,10 +793,6 @@
  ## Portal informacyjny miasta Rybnik - www.rybnik.com.pl
  - [https://rybnik.com.pl](https://rybnik.com.pl)
  - date_published: 2024-08-11T16:52:05+00:00
-
- ## Portal informacyjny miasta Rybnik - www.rybnik.com.pl
- - [https://www.rybnik.com.pl](https://www.rybnik.com.pl)
- - date_published: 2024-08-11T16:46:04+00:00
 
  ## SCHRONISKA i HOTELE PTTK „KARPATY” Sp. z o.o.
  - [https://www.schroniska-pttk.com.pl](https://www.schroniska-pttk.com.pl)
@@ -2026,6 +2241,10 @@
  - [http://www.karta.org.pl](http://www.karta.org.pl)
  - date_published: 2024-07-09T07:27:25.716537+00:00
 
+ ## Stowarzyszenie Klon/Jawor
+ - [http://www.klon.org.pl](http://www.klon.org.pl)
+ - date_published: 2024-06-11T08:33:54+00:00
+
  ## Związek Polskiego Leasingu
  - [http://www.leasing.org.pl](http://www.leasing.org.pl)
  - date_published: 2024-07-14T05:24:13.101977+00:00
@@ -2751,6 +2970,10 @@
  - [https://archiwumosiatynskiego.pl](https://archiwumosiatynskiego.pl)
  - date_published: 2024-04-07T14:02:31.482357+00:00
  - tags: ['poland', 'society activism']
+
+ ## Ardant.pl - Lampy i Oświetlenie - sklep internetowy
+ - [https://ardant.pl](https://ardant.pl)
+ - date_published: 2024-06-18T00:00:00+00:00
 
  ## Arena Gorzów - Hala Sportowo-Widowiskowa
  - [https://arenagorzow.pl](https://arenagorzow.pl)
@@ -3885,237 +4108,4 @@
  ## Authenticate Please!
  - [https://cockpit.cloudtechnologies.pl](https://cockpit.cloudtechnologies.pl)
  - date_published: 2024-06-25T22:26:32.135834+00:00
-
- ## CloudTechnologies
- - [https://www.cloudtechnologies.pl](https://www.cloudtechnologies.pl)
- - date_published: 2024-05-06T17:57:43.440416+00:00
-
- ## clu. Agencja internetowa
- - [https://clu.pl](https://clu.pl)
- - date_published: 2024-06-17T04:21:56.450035+00:00
-
- ## CluePR - komunikacja bez granic
- - [https://cluepr.pl](https://cluepr.pl)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## ANDROID.COM.PL - społeczność entuzjastów technologii
- - [https://and.co.pl](https://and.co.pl)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Coca-Cola Polska
- - [https://www.coca-cola.pl](https://www.coca-cola.pl)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Drogeria internetowa: kosmetyki online - sklep Cocolita.pl
- - [https://www.cocolita.pl](https://www.cocolita.pl)
- - date_published: 2024-06-20T07:15:26.663559+00:00
-
- ## code::dive
- - [https://codedive.pl](https://codedive.pl)
- - date_published: 2023-11-15T10:24:55+00:00
-
- ## Software House - Budujemy serwisy internetowe - Codeq
- - [https://codeq.pl](https://codeq.pl)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Gynvael's Blog
- - [https://gynvael.coldwind.pl](https://gynvael.coldwind.pl)
- - date_published: 2024-03-30T00:00:00+00:00
- - tags: ['personal']
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.pl](https://colorprinter.pl)
- - date_published: 2021-05-02T21:17:10+00:00
-
- ## Homepage
- - [https://www.columnamedica.pl](https://www.columnamedica.pl)
- - date_published: 2024-06-26T13:45:25.522819+00:00
-
- ## Praca w IT | Dołącz do Comarch i postaw na rozwój!
- - [https://kariera.comarch.pl](https://kariera.comarch.pl)
- - date_published: 2024-05-12T04:00:54.130496+00:00
-
- ## Sklep Comarch - oprogramowanie dla firm
- - [https://sklep.comarch.pl](https://sklep.comarch.pl)
- - date_published: 2024-05-12T04:00:51.561983+00:00
-
- ## Comarch Społeczność ERP
- - [https://spolecznosc.comarch.pl](https://spolecznosc.comarch.pl)
- - date_published: 2024-04-12T11:08:52+00:00
-
- ## Usługi, systemy informatyczne i obsługa firm - opieka, rozwiązania IT - COMARCH SA
- - [https://comarch.pl](https://comarch.pl)
- - date_published: 2024-03-28T07:14:22+00:00
- - tags: ['it corpo']
-
- ## Comarch e-Sklep – Twój własny sklep internetowy od lidera rynku IT
- - [https://www.comarchesklep.pl](https://www.comarchesklep.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home » Commerzbank
- - [https://lodz.commerzbank.pl](https://lodz.commerzbank.pl)
- - date_published: 2024-06-20T05:53:31.474959+00:00
-
- ## Comparic – Portal finansowy - kursy walut, notowania akcji, biznes w Polsce
- - [https://comparic.pl](https://comparic.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Computerworld - Wiadomości IT, biznes IT, praca w IT, konferencje
- - [https://www.computerworld.pl](https://www.computerworld.pl)
- - date_published: 2023-10-25T22:26:31.404697+00:00
-
- ## Welcome to ConfrontJS - ConfrontJS
- - [https://confrontjs.pl](https://confrontjs.pl)
- - date_published: 2024-06-20T07:00:27.190737+00:00
-
- ## Dostęp do sprzedaży online – Zalando Connected Retail
- - [https://www.connectedretail.pl](https://www.connectedretail.pl)
- - date_published: 2024-06-16T16:12:24.436706+00:00
-
- ## Conrad Electronic | All parts of success
- - [https://www.conrad.pl](https://www.conrad.pl)
- - date_published: 2023-10-28T20:22:09.990341+00:00
- - tags: ['electronic', 'shop']
-
- ## Centrum Ochrony Praw Chrześcijan
- - [https://copch.pl](https://copch.pl)
- - date_published: 2023-11-27T12:36:24+00:00
- - tags: ['organization', 'christian']
-
- ## Producent mocowań do modułów i dystrybutor renomowanych marek
- - [https://corab.pl](https://corab.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Cowzdrowiu
- - [https://cowzdrowiu.pl](https://cowzdrowiu.pl)
- - date_published: 2023-10-25T22:26:33.140596+00:00
-
- ## Centrum Pomocy Osobom Poszkodowanym
- - [https://cpop.pl](https://cpop.pl)
- - date_published: 2024-05-09T05:06:02.305603+00:00
-
- ## Serwis programistyczny C++
- - [https://cpp0x.pl](https://cpp0x.pl)
- - date_published: 2024-03-04T10:50:59+00:00
- - tags: ['tutorials', 'programming', 'cources']
-
- ## Wypadki - artykuły i filmy z wypadków
- - [http://www.crashfans.pl](http://www.crashfans.pl)
- - date_published: 2024-07-11T16:33:35.302338+00:00
-
- ## Darmowe Gry Online na CrazyGames | Zagraj Teraz!
- - [https://crazygames.pl](https://crazygames.pl)
- - date_published: 2024-05-08T06:51:55.940807+00:00
-
- ## Creative Commons Polska
- - [https://creativecommons.pl](https://creativecommons.pl)
- - date_published: 2024-07-08T20:19:42.212010+00:00
-
- ## Bank Credit Agricole
- - [https://www.credit-agricole.pl](https://www.credit-agricole.pl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## CRIDO
- - [https://crido.pl](https://crido.pl)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Strona główna - CRIME + INVESTIGATION
- - [https://crimeinvestigation.pl](https://crimeinvestigation.pl)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Cross-Play | Gramy międzygeneracyjnie!
- - [https://cross-play.pl](https://cross-play.pl)
- - date_published: 2023-12-13T15:12:15.627209+00:00
- - tags: ['video games']
-
- ## Crystal Launcher - Strona główna
- - [https://crystal-launcher.pl](https://crystal-launcher.pl)
- - date_published: 2024-04-09T17:45:19+00:00
- - tags: ['video game launcher', 'minecraft']
-
- ## Homepage | Hotel Crystal Mountain
- - [https://www.crystal-mountain.pl](https://www.crystal-mountain.pl)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Adiee5 Productions
- - [http://adiee5.ct8.pl](http://adiee5.ct8.pl)
- - date_published: 2023-10-09T19:48:20+00:00
-
- ## Emudreams(1996)
- - [https://emudreams.ct8.pl](https://emudreams.ct8.pl)
- - date_published: 2024-06-14T15:52:38.472232+00:00
- - tags: ['emulation']
-
- ## Ctrl+Code
- - [https://ctrlcode.pl](https://ctrlcode.pl)
- - date_published: 2024-03-20T11:51:40+00:00
- - tags: ['learning', 'programming']
-
- ## alfavox CallPage
- - [https://callpage.cuk.pl](https://callpage.cuk.pl)
- - date_published: 2020-12-10T18:44:28+00:00
-
- ## Porównywarka ubezpieczeń OC i AC — CUK Ubezpieczenia
- - [https://cuk.pl](https://cuk.pl)
- - date_published: 2024-02-29T00:00:00+00:00
- - tags: ['car insurance']
-
- ## Ubezpieczenie na życie online w kilka minut. Bezpieczna przyszłość bliskich.
- - [https://lifeup.cuk.pl](https://lifeup.cuk.pl)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## CUK - Strefa Klienta
- - [https://strefaklienta.cuk.pl](https://strefaklienta.cuk.pl)
- - date_published: 2024-05-09T05:11:06.701991+00:00
-
- ## CUK | eMeetings
- - [https://video.cuk.pl](https://video.cuk.pl)
- - date_published: 2022-03-23T19:34:15+00:00
-
- - [https://w.cuk.pl](https://w.cuk.pl)
- - date_published: 2024-03-05T10:11:06+00:00
-
- ## Au Pair w USA | Cultural Care
- - [https://www.culturalcare.pl](https://www.culturalcare.pl)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Culture.pl EN | Polish culture: literature, art, film, design, language, cuisine & more! | Culture.pl
- - [https://culture.pl](https://culture.pl)
- - date_published: 2023-10-25T10:14:36.451684+00:00
-
- ## textowo
- - [http://textowo.cupsell.pl](http://textowo.cupsell.pl)
- - date_published: 2024-08-06T22:35:47.377048+00:00
-
- ## Nadrukomania - Dziecięce, Damskie, Męskie, Dodatki
- - [http://twojelogo.cupsell.pl](http://twojelogo.cupsell.pl)
- - date_published: 2024-08-06T22:28:38.668391+00:00
-
- ## Stwórz CV, dzieki któremu znajdziesz wymarzoną pracę
- - [https://cveasy.pl](https://cveasy.pl)
- - date_published: 2024-05-06T09:21:14.631564+00:00
-
- ## CVeasy.pl FAQ
- - [https://help.cveasy.pl](https://help.cveasy.pl)
- - date_published: 2024-06-22T22:12:08.358804+00:00
-
- ## Strona główna | CyberDefence24
- - [https://cyberdefence24.pl](https://cyberdefence24.pl)
- - date_published: 2023-10-25T22:26:39.035498+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s149.cyber-folks.pl](https://s149.cyber-folks.pl)
- - date_published: 2022-04-26T13:39:09+00:00
-
- ## cyber_Folks - logowanie do panelu administratora
- - [https://s168.cyber-folks.pl](https://s168.cyber-folks.pl)
- - date_published: 2022-04-26T12:43:00+00:00
-
- ## hosting | domeny | e-marketing
- - [https://cyberfolks.pl](https://cyberfolks.pl)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## cyber_Folks Investors
- - [https://investors.cyberfolks.pl](https://investors.cyberfolks.pl)
- - date_published: 2024-06-17T00:00:00+00:00
 

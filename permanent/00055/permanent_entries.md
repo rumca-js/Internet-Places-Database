@@ -1,3 +1,87 @@
+ ## Coding Quests | Learn to code games
+ - [https://codingquests.com](https://codingquests.com)
+ - date_published: 2024-06-20T15:12:54.505769+00:00
+
+ ## Coding Shiksha
+ - [https://codingshiksha.com](https://codingshiksha.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Simon Brown
+ - [http://www.codingthearchitecture.com](http://www.codingthearchitecture.com)
+ - date_published: 2024-05-17T13:29:13+00:00
+
+ ## Coding the Past - learn social data science in R and Python.
+ - [https://www.codingthepast.com](https://www.codingthepast.com)
+ - date_published: 2024-06-23T12:54:02+00:00
+
+ ## Coding VC | Leo Polovets | Substack
+ - [https://www.codingvc.com](https://www.codingvc.com)
+ - date_published: 2023-10-25T13:29:03.799383+00:00
+
+ ## Coding with Empathy
+ - [https://codingwithempathy.com](https://codingwithempathy.com)
+ - date_published: 2024-05-12T05:30:49.789309+00:00
+
+ ## Coding with Intelligence | Rick Lamers | Substack
+ - [https://codingwithintelligence.com](https://codingwithintelligence.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Coding with Jesse
+ - [https://codingwithjesse.com](https://codingwithjesse.com)
+ - date_published: 2024-05-07T23:24:53.839036+00:00
+
+ ## Coding With Vera
+ - [https://codingwithvera.com](https://codingwithvera.com)
+ - date_published: 2024-06-23T15:03:27.389546+00:00
+
+ ## Software Consulting | Custom Solutions | ZEAL
+ - [https://www.codingzeal.com](https://www.codingzeal.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Codio | The Hands-On Platform for Computing & Tech Skills Education
+ - [https://www.codio.com](https://www.codio.com)
+ - date_published: 2024-06-30T02:12:39+00:00
+
+ ## Web & App Agentur Wien
+ - [https://codista.com](https://codista.com)
+ - date_published: 2024-05-11T10:54:15.740673+00:00
+
+ ## CODi Worldwide
+ - [https://www.codiworldwide.com](https://www.codiworldwide.com)
+ - date_published: 2024-06-29T14:35:32.330679+00:00
+
+ ## CODOFORUM - Free PHP Forum Software Script
+ - [http://codoforum.com](http://codoforum.com)
+ - date_published: 2024-06-28T18:17:53.552785+00:00
+
+ ## Committee for Open Debate on the Holocaust
+ - [https://codoh.com](https://codoh.com)
+ - date_published: 2024-06-26T10:57:01.670620+00:00
+
+ ## codonaft
+ - [https://codonaft.com](https://codonaft.com)
+ - date_published: 2019-02-05T00:00:00+00:00
+
+ ## Blog @ Codonomics
+ - [https://blog.codonomics.com](https://blog.codonomics.com)
+ - date_published: 2024-05-06T13:28:57.293275+00:00
+
+ ## Connor Dowd
+ - [https://codowd.com](https://codowd.com)
+ - date_published: 2024-07-23T23:43:13.702220+00:00
+
+ ## Codrops - Fueling web creativity
+ - [http://www.codrops.com](http://www.codrops.com)
+ - date_published: 2024-06-15T01:14:23.005330+00:00
+
+ ## Codrut Gaspar
+ - [https://codrutgaspar.com](https://codrutgaspar.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Codus Operandi
+ - [https://www.codusoperandi.com](https://www.codusoperandi.com)
+ - date_published: 2024-05-06T14:12:11.023679+00:00
+
  ## New Pandemics
  - [http://codychandler.com](http://codychandler.com)
  - date_published: 2024-07-13T15:27:39.771431+00:00
@@ -3958,87 +4042,4 @@ Real Estate Supercenter
  ## jika rataan data diatas adalah 2 nilai m sama dengan【confa11y.com】
  - [https://www.confa11y.com](https://www.confa11y.com)
  - date_published: 2024-04-30T00:00:00+00:00
-
- ## Confab: The content strategy conference – Apr 30–May 3, 2023
- - [https://confabevents.com](https://confabevents.com)
- - date_published: 2023-11-17T00:00:00+00:00
-
- ## Conference Code of Conduct
- - [http://confcodeofconduct.com](http://confcodeofconduct.com)
- - date_published: 2024-06-17T19:27:48.542035+00:00
-
- ## Confectionery
- - [https://confectioneryapp.com](https://confectioneryapp.com)
- - date_published: 2024-05-06T21:28:56.940283+00:00
-
- ## Confectionery News - Chocolate industry, Candy industry
- - [https://www.confectionerynews.com](https://www.confectionerynews.com)
- - date_published: 2024-06-19T03:15:32.772424+00:00
-
- ## Academic Events Worldwide | Conal Conference Alerts
- - [http://www.conferencealerts.com](http://www.conferencealerts.com)
- - date_published: 2024-06-24T10:07:42.485040+00:00
-
- ## Home - Conference Catalysts
- - [https://conferencecatalysts.com](https://conferencecatalysts.com)
- - date_published: 2021-08-18T20:10:55+00:00
-
- ## Fleet Europe I conference & events
- - [https://www.conference-fleeteurope.com](https://www.conference-fleeteurope.com)
- - date_published: 2024-06-19T15:11:47.554574+00:00
-
- ## Home | Conference Oxford
- - [https://conference-oxford.com](https://conference-oxford.com)
- - date_published: 2024-06-17T18:24:26+00:00
-
- ## Full Program
- - [https://61dac.conference-program.com](https://61dac.conference-program.com)
- - date_published: 2024-08-06T06:55:00.662579+00:00
-
- ## SC23 Schedule
- - [https://sc23.conference-program.com](https://sc23.conference-program.com)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Conference Management Software | COMS
- - [http://www.conference-service.com](http://www.conference-service.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Bienvenido
- - [http://www.conferenciasyformacion.com](http://www.conferenciasyformacion.com)
- - date_published: 2019-06-12T15:28:03+00:00
-
- ## Confessions of a Nomad
- - [http://www.confessions-of-a-nomad.com](http://www.confessions-of-a-nomad.com)
- - date_published: 2024-06-30T05:03:46.798121+00:00
-
- ## Homepage - The Forge
- - [http://www.confettispecialfx.com](http://www.confettispecialfx.com)
- - date_published: 2024-07-03T04:53:11.661788+00:00
-
- - [https://aaas.confex.com](https://aaas.confex.com)
- - date_published: 2024-02-24T18:22:26.397111+00:00
-
- ## AMS supported meetings
- - [https://ams.confex.com](https://ams.confex.com)
- - date_published: 2024-07-08T14:13:21.913342+00:00
-
- ## Geological Society of America
- - [https://gsa.confex.com](https://gsa.confex.com)
- - date_published: 2015-04-27T17:44:28+00:00
-
- ## Homepage
- - [https://conffab.com](https://conffab.com)
- - date_published: 2024-06-26T22:29:07.787666+00:00
-
- ## Confiant | Creative Verification for Digital Ads
- - [https://app.confiant.com](https://app.confiant.com)
- - date_published: 2024-05-08T06:27:38.023416+00:00
-
- ## Confiant
- - [https://blog.confiant.com](https://blog.confiant.com)
- - date_published: 2024-05-08T06:27:43.816974+00:00
-
- ## Malvertising Attack Matrix
- - [https://matrix.confiant.com](https://matrix.confiant.com)
- - date_published: 2024-02-13T14:51:31+00:00
 

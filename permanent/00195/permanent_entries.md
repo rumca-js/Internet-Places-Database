@@ -1,3 +1,164 @@
+ ## CSE Intranet Site
+ - [https://intranet.cse.msu.edu](https://intranet.cse.msu.edu)
+ - date_published: 2024-06-22T10:17:01.468707+00:00
+
+ ## Log in | College of Engineering Intranet
+ - [https://intranet.egr.msu.edu](https://intranet.egr.msu.edu)
+ - date_published: 2024-06-22T10:16:37.241183+00:00
+
+ ## - Michigan State University
+ - [https://involve.msu.edu](https://involve.msu.edu)
+ - date_published: 2024-07-01T15:42:47.324315+00:00
+
+ ## Home | SLE Employment
+ - [https://jobs.rhs.msu.edu](https://jobs.rhs.msu.edu)
+ - date_published: 2024-07-01T15:02:09+00:00
+
+ ## Home | SLE Employment
+ - [https://jobs.sle.msu.edu](https://jobs.sle.msu.edu)
+ - date_published: 2024-05-07T19:38:22.225443+00:00
+
+ ## The Gender and Sexuality Campus Center | Michigan State University
+ - [http://lbgtrc.msu.edu](http://lbgtrc.msu.edu)
+ - date_published: 2022-09-06T20:15:37+00:00
+
+ ## Enviroweather - Weather for IPM decisions in Michigan
+ - [https://legacy.enviroweather.msu.edu](https://legacy.enviroweather.msu.edu)
+ - date_published: 2024-07-01T12:57:10.941888+00:00
+
+ ## Home | Live On - Michigan State University
+ - [https://liveon.msu.edu](https://liveon.msu.edu)
+ - date_published: 2024-05-07T19:38:48.453283+00:00
+
+ ## Home
+ - [https://maflt.cal.msu.edu](https://maflt.cal.msu.edu)
+ - date_published: 2024-07-01T12:27:48.191234+00:00
+
+ ## MOSAIC: The Multicultural Unity Center | Michigan State University
+ - [https://mosaic.msu.edu](https://mosaic.msu.edu)
+ - date_published: 2023-08-24T15:08:22+00:00
+
+ ## MSU Bakers
+ - [https://msubakers.msu.edu](https://msubakers.msu.edu)
+ - date_published: 2024-07-01T15:43:16.659771+00:00
+
+ ## Home Page | MSU Tennis Center
+ - [https://msutennis.msu.edu](https://msutennis.msu.edu)
+ - date_published: 2024-05-07T19:38:39.592860+00:00
+
+ ## https://msutoday.msu.edu
+ - [https://msutoday.msu.edu](https://msutoday.msu.edu)
+ - date_published: 2023-12-23T11:36:25.043855+00:00
+
+ ## Home
+ - [https://nssc.msu.edu](https://nssc.msu.edu)
+ - date_published: 2024-06-22T10:17:11.201268+00:00
+
+ ## Office of Cultural & Academic Transitions
+ - [https://ocat.msu.edu](https://ocat.msu.edu)
+ - date_published: 2024-07-01T15:43:09.232769+00:00
+
+ ## Home | Office of Student Support & Accountability
+ - [https://ossa.msu.edu](https://ossa.msu.edu)
+ - date_published: 2024-07-01T15:42:49.936170+00:00
+
+ ## TRIO Student Support Services Program
+ - [http://oss.msu.edu](http://oss.msu.edu)
+ - date_published: 2024-06-22T10:17:05.340195+00:00
+
+ ## Spartan Family Connections | Student Life & Engagement
+ - [https://parents.msu.edu](https://parents.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Prevention, Outreach and Education Department | Michigan State University
+ - [https://poe.msu.edu](https://poe.msu.edu)
+ - date_published: 2024-07-01T15:41:19.424924+00:00
+
+ ## Office of the President | Michigan State University
+ - [https://president.msu.edu](https://president.msu.edu)
+ - date_published: 2024-07-01T15:42:48.550983+00:00
+
+ ## Recreational Sports and Fitness Services | Michigan State University
+ - [http://recsports.msu.edu](http://recsports.msu.edu)
+ - date_published: 2024-05-31T15:07:48+00:00
+
+ ## MSU RO:
+    Office of the Registrar - Michigan State University
+ - [https://reg.msu.edu](https://reg.msu.edu)
+ - date_published: 2024-06-22T10:16:50.077945+00:00
+
+ ## Home Page | Student Life & Engagement
+ - [https://rhs.msu.edu](https://rhs.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Welcome to MSU Scholarships
+ - [https://scholarships.msu.edu](https://scholarships.msu.edu)
+ - date_published: 2024-05-14T23:20:27+00:00
+
+ ## Michigan State University shop.msu.edu
+ - [https://shop.msu.edu](https://shop.msu.edu)
+ - date_published: 2024-06-22T10:16:48.418099+00:00
+
+ ## Home Page | Student Life & Engagement
+ - [https://sle.msu.edu](https://sle.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Home | Spartan Cash
+ - [https://spartancash.msu.edu](https://spartancash.msu.edu)
+ - date_published: 2024-05-07T19:38:41.505141+00:00
+
+ ## Office of Spartan Experiences | Michigan State University
+ - [https://spartanexperiences.msu.edu](https://spartanexperiences.msu.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Spartan Spirit Shop
+ - [https://spartanspiritshop.msu.edu](https://spartanspiritshop.msu.edu)
+ - date_published: 2024-07-01T15:43:13.366023+00:00
+
+ ## Spartan Life Welcome Letter | Office of Spartan Experiences | Michigan State University
+ - [http://splife.studentlife.msu.edu](http://splife.studentlife.msu.edu)
+ - date_published: 2024-01-19T20:50:11+00:00
+
+ ## Home Page | Student Life & Engagement
+ - [https://studentaffairs.msu.edu](https://studentaffairs.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Office of Spartan Experiences | Michigan State University
+ - [https://studentlife.msu.edu](https://studentlife.msu.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## MSU Student Parent Resource Center
+ - [http://studentparents.msu.edu](http://studentparents.msu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Michigan State University Tours | Experience MSU
+ - [https://tour.msu.edu](https://tour.msu.edu)
+ - date_published: 2024-07-01T15:43:23.490694+00:00
+
+ ## University Health and Wellbeing | Michigan State University
+ - [https://uhw.msu.edu](https://uhw.msu.edu)
+ - date_published: 2024-07-01T15:43:15.211636+00:00
+
+ ## Home | MSU Union
+ - [https://union.msu.edu](https://union.msu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Universal Search Tool | Michigan State University
+ - [https://u.search.msu.edu](https://u.search.msu.edu)
+ - date_published: 2024-06-22T10:16:53.091388+00:00
+
+ ## Home | Student Veterans Resource Center
+ - [https://veterans.msu.edu](https://veterans.msu.edu)
+ - date_published: 2024-07-01T15:02:24+00:00
+
+ ## Women*s Student Services | Michigan State University
+ - [https://wss.msu.edu](https://wss.msu.edu)
+ - date_published: 2023-09-13T17:51:24+00:00
+
+ ## College of Agriculture & Natural Resources
+ - [https://www.canr.msu.edu](https://www.canr.msu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
  ## The Center - MSU Engineering Careers Start Here - East Lansing
  - [https://www.careers.egr.msu.edu](https://www.careers.egr.msu.edu)
  - date_published: 2024-06-22T10:16:51.650570+00:00
@@ -3841,164 +4002,4 @@
  ## Department of Engineering Education
  - [https://eed.osu.edu](https://eed.osu.edu)
  - date_published: 2016-03-08T09:33:00+00:00
-
- ## College of Education and Human Ecology
- - [http://ehe.osu.edu](http://ehe.osu.edu)
- - date_published: 2024-06-29T09:07:14.647181+00:00
-
- ## Home | Environmental Health and Safety
- - [https://ehs.osu.edu](https://ehs.osu.edu)
- - date_published: 2024-07-17T03:37:27.974764+00:00
-
- ## Microsoft 365
- - [https://email.osu.edu](https://email.osu.edu)
- - date_published: 2022-11-29T22:09:42+00:00
-
- ## Outreach and Engagement, The Ohio State University
- - [https://engage.osu.edu](https://engage.osu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## COLLEGE OF ENGINEERING
- - [https://engineering.osu.edu](https://engineering.osu.edu)
- - date_published: 2014-02-03T10:53:00+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://eprotocol.osu.edu](https://eprotocol.osu.edu)
- - date_published: 2024-07-17T03:37:50.285181+00:00
-
- ## Home | Institutional Equity
- - [https://equity.osu.edu](https://equity.osu.edu)
- - date_published: 2024-07-01T16:53:40.489856+00:00
-
- ## College of Engineering Engineering Research Administration
- - [https://era.osu.edu](https://era.osu.edu)
- - date_published: 2018-04-27T08:19:00+00:00
-
- ## The Enterprise for Research, Innovation and Knowledge
- - [https://erik.osu.edu](https://erik.osu.edu)
- - date_published: 2024-05-12T07:44:06.899584+00:00
-
- ## Intercultural English Language Programs - Homepage
- - [https://esl.ehe.osu.edu](https://esl.ehe.osu.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Engineering Technology Services (ETS)
- - [https://ets.osu.edu](https://ets.osu.edu)
- - date_published: 2023-07-26T10:19:00+00:00
-
- ## Home | OSU Extension
- - [https://extension.osu.edu](https://extension.osu.edu)
- - date_published: 2024-07-17T01:40:14+00:00
-
- ## Veterinary Extension | Veterinary Extension
- - [https://extension.vet.osu.edu](https://extension.vet.osu.edu)
- - date_published: 2024-07-17T03:42:51.617565+00:00
-
- ## Department of Food, Agricultural and Biological Engineering | FABE
- - [http://fabe.osu.edu](http://fabe.osu.edu)
- - date_published: 2024-07-17T01:21:41+00:00
-
- ## Home | Office of Faculty Affairs
- - [https://faculty.osu.edu](https://faculty.osu.edu)
- - date_published: 2024-07-17T03:50:53.046535+00:00
-
- ## Home | First Year Seminars
- - [https://firstyearseminars.osu.edu](https://firstyearseminars.osu.edu)
- - date_published: 2024-05-07T19:51:20.656861+00:00
-
- ## Foods for Health | The Ohio State University
- - [https://foodsforhealth.osu.edu](https://foodsforhealth.osu.edu)
- - date_published: 2024-07-17T03:37:22.754828+00:00
-
- ## Foundation Relations | The Ohio State University
- - [https://foundationrelations.osu.edu](https://foundationrelations.osu.edu)
- - date_published: 2024-07-01T16:53:53.754076+00:00
-
- ## Home
- - [https://giveto.osu.edu](https://giveto.osu.edu)
- - date_published: 2024-07-01T16:53:47.329304+00:00
-
- ## College of Engineering Global Engineering
- - [https://global.engineering.osu.edu](https://global.engineering.osu.edu)
- - date_published: 2014-06-21T11:26:00+00:00
-
- ## Home | Global Water Institute
- - [https://globalwater.osu.edu](https://globalwater.osu.edu)
- - date_published: 2024-07-17T03:37:20.068817+00:00
-
- ## Home | The Goldberg Center
- - [https://goldbergcenter.osu.edu](https://goldbergcenter.osu.edu)
- - date_published: 2024-05-12T07:29:49.051269+00:00
-
- ## go.osu.edu Create Shortened URLs
- - [https://go.osu.edu](https://go.osu.edu)
- - date_published: 2024-05-07T19:51:22.252604+00:00
-
- ## Graduate and Professional Admissions | The Ohio State University
- - [https://gpadmissions.osu.edu](https://gpadmissions.osu.edu)
- - date_published: 2024-01-24T20:02:54+00:00
-
- ## Home | Graduate School
- - [https://gradsch.osu.edu](https://gradsch.osu.edu)
- - date_published: 2024-05-12T07:44:22.743757+00:00
-
- ## Ohio State Optometry Services
- - [https://greatvision.osu.edu](https://greatvision.osu.edu)
- - date_published: 2024-05-12T07:43:33.074900+00:00
-
- ## Resources for Alumni Volunteers
- - [https://groups.alumni.osu.edu](https://groups.alumni.osu.edu)
- - date_published: 2024-07-01T16:53:44.931332+00:00
-
- ## Ohio State | Gene Therapy Institute |
- - [https://gti.osu.edu](https://gti.osu.edu)
- - date_published: 2024-07-17T03:37:21.492750+00:00
-
- ## Research Guides
- - [https://guides.osu.edu](https://guides.osu.edu)
- - date_published: 2024-07-17T03:37:51.971187+00:00
-
- ## Ohio State Health & Discovery | Health, wellness and innovation news
- - [https://health.osu.edu](https://health.osu.edu)
- - date_published: 2024-07-01T16:54:02.869385+00:00
-
- ## help.osu.edu
- - [https://help.osu.edu](https://help.osu.edu)
- - date_published: 2024-04-12T14:05:15+00:00
-
- ## Housing and Residence Education
- - [https://housing.osu.edu](https://housing.osu.edu)
- - date_published: 2024-05-12T07:44:00.222217+00:00
-
- ## ServiceNow
- - [https://hrconnection.osu.edu](https://hrconnection.osu.edu)
- - date_published: 2024-07-17T03:50:44.535464+00:00
-
- ## Human Resources at Ohio State
- - [https://hr.osu.edu](https://hr.osu.edu)
- - date_published: 2024-05-12T07:44:44.428985+00:00
-
- ## Home | Health Sciences Library
- - [https://hsl.osu.edu](https://hsl.osu.edu)
- - date_published: 2024-07-15T23:19:10+00:00
-
- ## Home | History Teaching Institute
- - [https://hti.osu.edu](https://hti.osu.edu)
- - date_published: 2024-07-16T23:32:44.762272+00:00
-
- ## Home
- - [https://idi.osu.edu](https://idi.osu.edu)
- - date_published: 2019-10-24T00:00:00+00:00
-
- ## Institute for Materials and Manufacturing Research | Gateway to Ohio State's materials-allied research enterprise.
- - [http://imr.osu.edu](http://imr.osu.edu)
- - date_published: 2024-07-17T03:37:18.048118+00:00
-
- ## Log In | Inventions
- - [https://innovate.osu.edu](https://innovate.osu.edu)
- - date_published: 2024-07-17T03:38:21.592822+00:00
-
- ## Inspire 2023 - Inspire
- - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
- - date_published: 2023-03-13T04:17:09+00:00
 

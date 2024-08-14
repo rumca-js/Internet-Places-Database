@@ -1,3 +1,112 @@
+ ## Global Catastrophic Risks
+ - [https://global-catastrophic-risks.com](https://global-catastrophic-risks.com)
+ - date_published: 2024-06-29T22:26:23.159899+00:00
+
+ ## Futurist Keynote Speaker - Patrick Dixon
+ - [http://www.globalchange.com](http://www.globalchange.com)
+ - date_published: 2024-06-29T22:33:23+00:00
+
+ ## Cierpliwości...
+ - [https://globalcomix.com](https://globalcomix.com)
+ - date_published: 2024-07-02T13:41:41+00:00
+
+ ## Home - Global Construction Review
+ - [https://www.globalconstructionreview.com](https://www.globalconstructionreview.com)
+ - date_published: 2024-02-24T10:09:18.292494+00:00
+
+ ## GCN Insurance
+ - [https://insurance.globalcyclingnetwork.com](https://insurance.globalcyclingnetwork.com)
+ - date_published: 2024-07-09T19:54:37.931770+00:00
+
+ ## GCN Shop | Official Global Cycling Network Store
+ - [https://shop.globalcyclingnetwork.com](https://shop.globalcyclingnetwork.com)
+ - date_published: 2024-07-09T19:54:40.966819+00:00
+
+ ## GCN Cycling News, Racing Results, Training, Tech & Guides
+ - [https://globalcyclingnetwork.com](https://globalcyclingnetwork.com)
+ - date_published: 2024-05-09T06:23:11.436965+00:00
+
+ ## Home - GlobalData
+ - [https://careers.globaldata.com](https://careers.globaldata.com)
+ - date_published: 2024-06-27T13:53:17.816286+00:00
+
+ ## Home - GlobalData
+ - [https://globaldata.com](https://globaldata.com)
+ - date_published: 2024-05-06T21:43:18.346430+00:00
+
+ ## Home - GlobalData
+ - [https://hot-topics.globaldata.com](https://hot-topics.globaldata.com)
+ - date_published: 2024-06-27T13:53:16.033422+00:00
+
+ ## GlobalData - Enabling smart business decisions through smart data
+ - [https://investors.globaldata.com](https://investors.globaldata.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Login GlobalData
+ - [https://logincn.globaldata.com](https://logincn.globaldata.com)
+ - date_published: 2024-07-08T21:25:49.716337+00:00
+
+ ## Login GlobalData
+ - [https://login.globaldata.com](https://login.globaldata.com)
+ - date_published: 2024-06-27T13:53:19.540017+00:00
+
+ ## Report Store - GlobalData
+ - [https://store.globaldata.com](https://store.globaldata.com)
+ - date_published: 2024-07-08T18:12:41.656124+00:00
+
+ ## GlobalData Marketing Solutions
+ - [https://www.globaldatamarketingsolutions.com](https://www.globaldatamarketingsolutions.com)
+ - date_published: 2024-06-27T13:53:00.693586+00:00
+
+ ## "To Save Us From Hell" + Global Dispatches | Mark Leon Goldberg | Substack
+ - [https://globaldispatchespodcast.com](https://globaldispatchespodcast.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Environment, Land & Resources | Latham & Watkins
+ - [https://www.globalelr.com](https://www.globalelr.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## GlobalFact 11
+ - [https://www.globalfact11.com](https://www.globalfact11.com)
+ - date_published: 2024-05-08T11:50:09.018061+00:00
+
+ ## World Organization of Family Doctors (WONCA)
+ - [https://www.globalfamilydoctor.com](https://www.globalfamilydoctor.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Global Financial Regulatory Blog | Latham & Watkins Law Firm
+ - [https://www.globalfinregblog.com](https://www.globalfinregblog.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Global Fintech Series: Top Fintech News, Insights and Analysis
+ - [http://globalfintechseries.com](http://globalfintechseries.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Global Firepower Index
+ - [https://globalfirepower.com](https://globalfirepower.com)
+ - date_published: 2024-04-16T19:04:36+00:00
+ - tags: ['political science', 'military']
+
+ ## Home
+ - [https://globalfleet.com](https://globalfleet.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Global Fleet Marketplace
+ - [https://marketplace.globalfleet.com](https://marketplace.globalfleet.com)
+ - date_published: 2024-03-21T17:58:06+00:00
+
+ ## Global Food Partners - Home
+ - [https://globalfoodpartners.com](https://globalfoodpartners.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Civil Service & Public Sector News | Global Government Forum
+ - [https://www.globalgovernmentforum.com](https://www.globalgovernmentforum.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Global Ground Support - An AirT Company
+ - [https://globalgroundsupport.com](https://globalgroundsupport.com)
+ - date_published: 2023-10-25T14:45:38.412506+00:00
+
  ## Global Healing | Vegan, Organic Vitamins & Supplements
  - [https://globalhealing.com](https://globalhealing.com)
  - date_published: 2024-06-22T23:20:59.936784+00:00
@@ -1169,6 +1278,10 @@
  ## home - Gnashing Teeth Publishing
  - [https://gnashingteethpublishing.com](https://gnashingteethpublishing.com)
  - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Gniezno24.com - serwis informacyjny Gniezna i powiatu gnieźnieńskiego
+ - [https://gniezno24.com](https://gniezno24.com)
+ - date_published: 2024-08-12T05:01:22.035236+00:00
 
  ## GNL - A Christian Video Platform for the Good News
  - [https://gnli.com](https://gnli.com)
@@ -3931,119 +4044,4 @@ Homebrew Video Game Depot
  - [https://podcasts.google.com](https://podcasts.google.com)
  - date_published: 2023-10-25T11:31:17.486510+00:00
  - tags: ['podcasts']
-
- ## About | Google Podcasts Manager
- - [https://podcastsmanager.google.com](https://podcastsmanager.google.com)
- - date_published: 2024-07-17T08:47:19.842951+00:00
-
- ## Privacy & Terms – Google
- - [https://policies.google.com](https://policies.google.com)
- - date_published: 2024-02-24T09:58:53.252783+00:00
-
- ## Sign in - Google Accounts
- - [https://postmaster.google.com](https://postmaster.google.com)
- - date_published: 2024-06-27T17:22:11.286319+00:00
-
- ## Sign in - Google Accounts
- - [http://practicesets.classroom.google.com](http://practicesets.classroom.google.com)
- - date_published: 2024-06-19T05:00:16.497785+00:00
-
- ## Google Safety Center - Stay Safer Online
- - [https://privacy.google.com](https://privacy.google.com)
- - date_published: 2024-05-07T14:30:17.290760+00:00
-
- ## Google Product Forums
- - [https://productforums.google.com](https://productforums.google.com)
- - date_published: 2024-05-04T08:29:18.602653+00:00
-
- ## Programmable Search Engine by Google
- - [https://programmablesearchengine.google.com](https://programmablesearchengine.google.com)
- - date_published: 2024-04-27T08:26:28.911529+00:00
-
- ## rapid.corp.google.com - Google Single Sign On: Sign into corp
- - [https://rapid.corp.google.com](https://rapid.corp.google.com)
- - date_published: 2024-04-28T01:59:06.459936+00:00
-
- ## Google Research - Explore Our Latest Research in Science and AI
- - [https://research.google.com](https://research.google.com)
- - date_published: 2024-05-04T15:16:05.269181+00:00
-
- ## Google Safe Browsing
- - [https://safebrowsing.google.com](https://safebrowsing.google.com)
- - date_published: 2024-03-12T05:08:00+00:00
-
- ## Google Scholar
- - [https://scholar.google.com](https://scholar.google.com)
- - date_published: 2023-10-25T11:31:18.931237+00:00
-
- ## Apps Script – Google Apps Script
- - [https://script.google.com](https://script.google.com)
- - date_published: 2024-03-12T06:00:00+00:00
-
- ## scriptz.corp.google.com - Google Single Sign On: Sign into corp
- - [https://scriptz.corp.google.com](https://scriptz.corp.google.com)
- - date_published: 2024-04-28T01:59:07.304486+00:00
-
- ## Google
- - [https://search.google.com](https://search.google.com)
- - date_published: 2023-12-06T08:08:53+00:00
- - tags: ['google', 'search engine']
-
- ## Google Account
- - [https://security.google.com](https://security.google.com)
- - date_published: 2024-04-28T03:22:48.517854+00:00
-
- ## Google
- - [https://services.google.com](https://services.google.com)
- - date_published: 2024-04-27T08:02:42.807397+00:00
-
- ## Google Sites: Sign-in
- - [https://sites.google.com](https://sites.google.com)
- - date_published: 2023-10-25T11:31:20.231134+00:00
-
- ## Google Sheets: Sign-in
- - [http://spreadsheets.google.com](http://spreadsheets.google.com)
- - date_published: 2024-06-15T18:39:59.541877+00:00
-
- ## Stadia
- - [https://stadia.google.com](https://stadia.google.com)
- - date_published: 2023-10-25T11:31:25.844268+00:00
- - tags: ['abandonware']
-
- ## Start, build, grow: Tools, resources and support programs for startups - Google for Startups
- - [https://startup.google.com](https://startup.google.com)
- - date_published: 2024-06-19T08:08:00+00:00
-
- ## static.corp.google.com - Google Single Sign On: Sign into corp
- - [https://static.corp.google.com](https://static.corp.google.com)
- - date_published: 2024-06-20T09:12:12.305794+00:00
-
- ## Google Cloud Service Health
- - [https://status.cloud.google.com](https://status.cloud.google.com)
- - date_published: 2023-10-25T11:31:27.950150+00:00
-
- ## Sign in - Google Accounts
- - [https://storage.cloud.google.com](https://storage.cloud.google.com)
- - date_published: 2024-05-10T04:11:09.225167+00:00
-
- ## Before you continue
- - [https://store.google.com](https://store.google.com)
- - date_published: 2024-05-02T10:38:05.763334+00:00
- - tags: ['app store']
-
- ## Google Help
- - [https://support.google.com](https://support.google.com)
- - date_published: 2023-10-25T11:31:32.624882+00:00
-
- ## Google Surveys Sunset - Google Surveys Help
- - [https://surveys.google.com](https://surveys.google.com)
- - date_published: 2024-06-27T15:06:39.447642+00:00
-
- ## Google Analytics
- - [https://tagmanager.google.com](https://tagmanager.google.com)
- - date_published: 2024-05-04T06:25:50.280795+00:00
-
- ## Sign in - Google Accounts
- - [https://takeout.google.com](https://takeout.google.com)
- - date_published: 2024-05-07T15:27:20.555426+00:00
 

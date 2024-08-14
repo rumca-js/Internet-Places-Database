@@ -1,3 +1,11 @@
+ ## Home - Silver Trak Digital
+ - [https://www.silvertrak.com.au](https://www.silvertrak.com.au)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster AU
+ - [https://simonandschuster.com.au](https://simonandschuster.com.au)
+ - date_published: 2024-02-27T00:00:00+00:00
+
  ## Simple – Advertising, Brand, Digital Agency - Adelaide
  - [https://clients.simple.com.au](https://clients.simple.com.au)
  - date_published: 2024-07-09T17:25:31.365045+00:00
@@ -2169,6 +2177,10 @@
  - [https://www.westernsydney.edu.au](https://www.westernsydney.edu.au)
  - date_published: 2023-12-13T23:33:27.899804+00:00
 
+ ## Australian Border Force Website
+ - [https://www.abf.gov.au](https://www.abf.gov.au)
+ - date_published: 2024-08-12T00:00:00+00:00
+
  ## Australian Bureau of Statistics
  - [https://www.abs.gov.au](https://www.abs.gov.au)
  - date_published: 2024-01-25T00:00:00+00:00
@@ -2250,7 +2262,7 @@
 
  ## https://www.careers.asio.gov.au
  - [https://www.careers.asio.gov.au](https://www.careers.asio.gov.au)
- - date_published: 2024-02-07T16:59:38.137223+00:00
+ - date_published: 2010-01-29T00:23:01+00:00
 
  ## Redirect
  - [https://onlineservices.ato.gov.au](https://onlineservices.ato.gov.au)
@@ -2295,6 +2307,10 @@
  ## Centrelink - About us - Services Australia
  - [https://centrelink.gov.au](https://centrelink.gov.au)
  - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Cyber and Infrastructure Security Centre Website
+ - [https://www.cisc.gov.au](https://www.cisc.gov.au)
+ - date_published: 2024-08-12T00:00:00+00:00
 
  ## Homepage
  - [https://classification.gov.au](https://classification.gov.au)
@@ -2401,6 +2417,18 @@
  - [https://www.healthdirect.gov.au](https://www.healthdirect.gov.au)
  - date_published: 2024-06-12T06:03:15.930317+00:00
 
+ ## Immigration and citizenship Website
+ - [https://immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Ministers for the  of Home Affairs Website
+ - [https://minister.homeaffairs.gov.au](https://minister.homeaffairs.gov.au)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Department of Home Affairs Website
+ - [https://www.homeaffairs.gov.au](https://www.homeaffairs.gov.au)
+ - date_published: 2024-08-12T00:00:00+00:00
+
  ## Home
  - [https://humanrights.gov.au](https://humanrights.gov.au)
  - date_published: 2024-07-07T06:56:45+00:00
@@ -2438,7 +2466,7 @@
  - date_published: 2024-05-28T06:12:00+00:00
 
  ## Australian National Security Website
- - [https://www.nationalsecurity.gov.au](https://www.nationalsecurity.gov.au)
+ - [https://nationalsecurity.gov.au](https://nationalsecurity.gov.au)
  - date_published: 2024-02-07T00:00:00+00:00
 
  ## Horizon | The Royal Australian Navy's professional development platform
@@ -3399,6 +3427,10 @@
  - [http://joy.org.au](http://joy.org.au)
  - date_published: 2024-07-16T00:00:00+00:00
 
+ ## Kairos Prison Ministry Australia
+ - [http://www.kairos.org.au](http://www.kairos.org.au)
+ - date_published: 2024-08-12T05:00:00.390131+00:00
+
  ## The Port Macquarie Koala Hospital | Koala Conservation Australia Ltd
  - [https://www.koalahospital.org.au](https://www.koalahospital.org.au)
  - date_published: 2024-06-23T17:17:43.676207+00:00
@@ -3482,6 +3514,10 @@
  ## Neilson Foundation | Australia
  - [https://www.neilson.org.au](https://www.neilson.org.au)
  - date_published: 2024-06-20T08:44:27.461267+00:00
+
+ ## Newcastle Anglican | Christian Community Services in NSW
+ - [https://www.newcastleanglican.org.au](https://www.newcastleanglican.org.au)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## Next Wave
  - [https://nextwave.org.au](https://nextwave.org.au)
@@ -3618,6 +3654,10 @@
  ## Triple R 102.7FM, Melbourne Independent Radio
  - [https://www.rrr.org.au](https://www.rrr.org.au)
  - date_published: 2024-05-04T15:58:34.358275+00:00
+
+ ## Disability Services & Care | Newcastle & NSW | Samaritans
+ - [http://www.samaritans.org.au](http://www.samaritans.org.au)
+ - date_published: 2020-09-16T00:55:41+00:00
 
  ## Freemasons South Australia and The Northern Territory Inc.
  - [https://www.santfreemasons.org.au](https://www.santfreemasons.org.au)
@@ -3977,44 +4017,4 @@
  ## Gilded Audio
  - [https://www.gilded.audio](https://www.gilded.audio)
  - date_published: 2024-07-13T03:47:22.393440+00:00
-
- ## Forum
- - [https://forum.hise.audio](https://forum.hise.audio)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## HISE - The open source toolkit for building virtual instruments and audio effects
- - [http://www.hise.audio](http://www.hise.audio)
- - date_published: 2024-06-12T22:26:59+00:00
-
- ## Wie Wat Bewaart (@wiewatbewaart) • Activity
- - [https://podcast.horens.audio](https://podcast.horens.audio)
- - date_published: 2024-07-01T10:38:30.740878+00:00
-
- ## Hunchpig
- - [http://hunchpig.audio](http://hunchpig.audio)
- - date_published: 2019-11-05T18:40:11+00:00
-
- ## Lidarr
- - [https://lidarr.audio](https://lidarr.audio)
- - date_published: 2024-05-14T03:32:09.235900+00:00
-
- ## North Meets South Web Podcast
- - [https://northmeetssouth.audio](https://northmeetssouth.audio)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Centova Cast
- - [https://cdn4.onstream.audio](https://cdn4.onstream.audio)
- - date_published: 2024-07-09T18:22:20.825211+00:00
-
- ## Funkwhale
- - [https://open.audio](https://open.audio)
- - date_published: 2023-12-12T13:26:14+00:00
-
- ## insert credit
- - [https://insertcredit.podcast.audio](https://insertcredit.podcast.audio)
- - date_published: 2024-07-01T10:38:19.518793+00:00
-
- ## Pulsar Audio | High-end audio software
- - [https://pulsar.audio](https://pulsar.audio)
- - date_published: 2024-05-27T00:00:00+00:00
 

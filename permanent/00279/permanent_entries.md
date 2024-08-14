@@ -1,3 +1,195 @@
+ ## mageia-app-db
+ - [https://madb.mageia.org](https://madb.mageia.org)
+ - date_published: 2024-05-11T08:03:25.678256+00:00
+
+ ## mognase doc
+ - [https://nav.mageia.org](https://nav.mageia.org)
+ - date_published: 2024-06-23T12:32:17.261818+00:00
+
+ ## Planet Mageia (English)
+ - [https://planet.mageia.org](https://planet.mageia.org)
+ - date_published: 2024-06-30T21:28:33.432306+00:00
+
+ ## ViewVC Repository Listing
+ - [https://svnweb.mageia.org](https://svnweb.mageia.org)
+ - date_published: 2024-05-06T14:25:27.127679+00:00
+
+ ## Mageia wiki
+ - [https://wiki.mageia.org](https://wiki.mageia.org)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Home of the Mageia project
+ - [https://mageia.org](https://mageia.org)
+ - date_published: 2024-05-08T09:17:02.829366+00:00
+
+ ## Magical Moon Farm & Foundation
+ - [https://www.magicalmoon.org](https://www.magicalmoon.org)
+ - date_published: 2024-05-07T15:28:17.343070+00:00
+
+ ## JudgeApps | Home
+ - [https://apps.magicjudges.org](https://apps.magicjudges.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home | MAG
+ - [https://maginternational.org](https://maginternational.org)
+ - date_published: 2024-05-12T06:31:15.812860+00:00
+
+ ## Observatory Magna Charta Universitatum
+ - [https://www.magna-charta.org](https://www.magna-charta.org)
+ - date_published: 2024-04-29T06:59:06.093065+00:00
+
+ ## HOME | Magnify Mentoring
+ - [https://www.magnifymentoring.org](https://www.magnifymentoring.org)
+ - date_published: 2024-06-21T11:39:26.662708+00:00
+
+ ## Magpie Guide: Welcome
+ - [https://magpie-lang.org](https://magpie-lang.org)
+ - date_published: 2013-01-02T04:31:44+00:00
+
+ ## Home | MAG
+ - [https://www.mag-us.org](https://www.mag-us.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## magzDB | Вся периодика мира
+ - [https://magzdb.org](https://magzdb.org)
+ - date_published: 2024-05-06T15:11:49.566976+00:00
+
+ ## Maheso Naturally Where we Provide Meaningful Value
+ - [https://maheso-naturally.org](https://maheso-naturally.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Welcome - Colorado MahlerFest
+ - [https://mahlerfest.org](https://mahlerfest.org)
+ - date_published: 2018-10-22T23:14:57+00:00
+
+ ## Home | Mahoosuc Land Trust, Bethel Maine
+ - [https://www.mahoosuc.org](https://www.mahoosuc.org)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Mahoro Network Status Service Monitoring
+ - [https://status.mahoro-net.org](https://status.mahoro-net.org)
+ - date_published: 2024-08-07T23:00:21.786650+00:00
+
+ ## MAHRP – Maldives Association of Human Resources Professionals
+ - [https://mahrp.org](https://mahrp.org)
+ - date_published: 2024-05-10T06:33:51.299681+00:00
+
+ ## mailb.org
+ - [https://mailb.org](https://mailb.org)
+ - date_published: 2023-07-18T14:52:29+00:00
+
+ ## mailbox.org Helpdesk
+ - [https://help.mailbox.org](https://help.mailbox.org)
+ - date_published: 2024-07-02T17:14:31.791204+00:00
+
+ ## Knowledge Base
+ - [https://kb.mailbox.org](https://kb.mailbox.org)
+ - date_published: 2024-05-01T07:12:30.379788+00:00
+
+ ## mailbox.org | Login
+ - [https://login.mailbox.org](https://login.mailbox.org)
+ - date_published: 2024-05-08T09:50:48.088404+00:00
+
+ ## Secure e-mail for private and business customers | mailbox.org
+ - [https://mailbox.org](https://mailbox.org)
+ - date_published: 2023-10-25T21:40:11.120497+00:00
+
+ ## Sign in - Matomo
+ - [https://numbers.mailbox.org](https://numbers.mailbox.org)
+ - date_published: 2024-07-07T07:05:01.134371+00:00
+
+ ## Package Selection
+ - [https://register.mailbox.org](https://register.mailbox.org)
+ - date_published: 2024-05-08T09:50:46.639586+00:00
+
+ ## COMMON.title_bmbo
+ - [https://setup.mailbox.org](https://setup.mailbox.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## mailbox.org-Mastodon
+ - [https://social.mailbox.org](https://social.mailbox.org)
+ - date_published: 2024-05-08T09:50:47.600523+00:00
+
+ ## mailbox.org Status-Übersicht
+ - [https://status.mailbox.org](https://status.mailbox.org)
+ - date_published: 2024-07-07T07:05:04.933231+00:00
+
+ ## mailbox.org Support
+ - [https://userforum-en.mailbox.org](https://userforum-en.mailbox.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Mailman Suite — Mailman Suite 3.3 documentation
+ - [https://docs.mailman3.org](https://docs.mailman3.org)
+ - date_published: 2024-06-10T19:11:14+00:00
+
+ ## List Index - lists.mailman3.org
+ - [https://lists.mailman3.org](https://lists.mailman3.org)
+ - date_published: 2024-06-19T22:21:26.299516+00:00
+
+ ## Mail Me Back
+ - [https://mailmeback.org](https://mailmeback.org)
+ - date_published: 2023-12-05T19:09:11+00:00
+
+ ## piler open source email archiving
+ - [https://www.mailpiler.org](https://www.mailpiler.org)
+ - date_published: 2024-06-16T16:19:38.743027+00:00
+
+ ## Mailr | Ruby On Rails open source webmail
+ - [http://mailr.org](http://mailr.org)
+ - date_published: 2024-06-17T02:16:51+00:00
+
+ ## Homepage - Maimonides Foundation
+ - [https://www.maimonides-foundation.org](https://www.maimonides-foundation.org)
+ - date_published: 2024-06-15T10:28:18.156978+00:00
+
+ ## Maine State Bar Association
+ - [https://www.mainebar.org](https://www.mainebar.org)
+ - date_published: 2024-06-24T11:15:05.100394+00:00
+
+ ## Home - Maine Education Association
+ - [https://maineea.org](https://maineea.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## MaineGeneral Health | Augusta, ME | MaineGeneral
+ - [https://www.mainegeneral.org](https://www.mainegeneral.org)
+ - date_published: 2024-07-12T22:57:50.814019+00:00
+
+ ## Maine House Republicans
+ - [http://mainehousegop.org](http://mainehousegop.org)
+ - date_published: 2023-04-24T00:00:00+00:00
+
+ ## Home - Maine Indoor Air Quality Council
+ - [https://maineindoorair.org](https://maineindoorair.org)
+ - date_published: 2023-03-17T00:00:00+00:00
+
+ ## Maine State Legislature - Home
+ - [https://mainelegislature.org](https://mainelegislature.org)
+ - date_published: 2023-10-25T21:40:12.533641+00:00
+
+ ## Maine Library Association - Home
+ - [https://www.mainelibraries.org](https://www.mainelibraries.org)
+ - date_published: 2024-07-20T22:39:49.861041+00:00
+
+ ## Maine Narrow Gauge Railroad Co. & Museum
+ - [https://mainenarrowgauge.org](https://mainenarrowgauge.org)
+ - date_published: 2023-01-06T21:15:48+00:00
+
+ ## Maine Policy Institute
+ - [http://mainepolicy.org](http://mainepolicy.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Maine Policy Institute
+ - [https://www.mainepolicy.org](https://www.mainepolicy.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Maine Press Association | On the Record since 1864
+ - [https://mainepressassociation.org](https://mainepressassociation.org)
+ - date_published: 2024-06-29T05:16:47.760185+00:00
+
+ ## Maine Public | Home | Maine Public
+ - [https://www.mainepublic.org](https://www.mainepublic.org)
+ - date_published: 2024-07-29T04:29:57.071514+00:00
+
  ## Maine Senate Democrats | Fighting for Mainers
  - [http://www.mainesenate.org](http://www.mainesenate.org)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -37,6 +229,10 @@
  ## Major League Cyber
  - [https://majorleaguecyber.org](https://majorleaguecyber.org)
  - date_published: 2024-04-30T06:46:56.195451+00:00
+
+ ## Em defesa da democracia, contra a corrupção
+ - [http://makaangola.org](http://makaangola.org)
+ - date_published: 2024-08-12T04:35:03.011904+00:00
 
  ## MAK Center for Art and Architecture
  - [https://www.makcenter.org](https://www.makcenter.org)
@@ -1046,10 +1242,6 @@
  ## Canada/USA Mathcamp
  - [https://mathcamp.org](https://mathcamp.org)
  - date_published: 2024-08-11T22:23:19.605590+00:00
-
- ## Canada/USA Mathcamp
- - [https://www.mathcamp.org](https://www.mathcamp.org)
- - date_published: 2024-06-30T08:05:36.358320+00:00
 
  ## MathCell
  - [https://mathcell.org](https://mathcell.org)
@@ -3862,203 +4054,4 @@ Ridges
  - [https://mit-license.org](https://mit-license.org)
  - date_published: 2024-06-14T09:17:46.715022+00:00
  - tags: ['license']
-
- ## MIT License
- - [http://rem.mit-license.org](http://rem.mit-license.org)
- - date_published: 2024-07-17T04:55:44.027223+00:00
-
- ## miTLS, Triple Handshake, SMACK, FREAK, Logjam, and SLOTH
- - [https://mitls.org](https://mitls.org)
- - date_published: 2024-07-14T04:47:02.473422+00:00
-
- ## Stellar : Message of the Day
- - [http://mitmodelcities.org](http://mitmodelcities.org)
- - date_published: 2024-06-20T03:48:23.651202+00:00
-
- ## mitmproxy - an interactive HTTPS proxy
- - [https://mitmproxy.org](https://mitmproxy.org)
- - date_published: 2023-10-25T21:43:42.450770+00:00
-
- ## mitmproxy/mitmproxy · Discussions
- - [https://slack.mitmproxy.org](https://slack.mitmproxy.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## MIT Policy Hackathon
- - [https://www.mitpolicyhackathon.org](https://www.mitpolicyhackathon.org)
- - date_published: 2024-05-04T15:41:21.528065+00:00
-
- ## Journals Gateway | MIT Press
- - [https://mitpressjournals.org](https://mitpressjournals.org)
- - date_published: 2024-04-28T03:42:20.214688+00:00
-
- ## MITRE ATT&CK®
- - [https://attack.mitre.org](https://attack.mitre.org)
- - date_published: 2024-05-12T16:18:26.607260+00:00
-
- ## CAPEC - 
-Common Attack Pattern Enumeration and Classification (CAPEC™)
- - [http://capec.mitre.org](http://capec.mitre.org)
- - date_published: 2024-07-14T21:17:43.145515+00:00
-
- ## Careers at MITRE | MITRE jobs
- - [https://careers.mitre.org](https://careers.mitre.org)
- - date_published: 2024-07-01T15:10:03.558027+00:00
-
- ## CVE - Common Vulnerabilities and Exposures (CVE)
- - [https://cveform.mitre.org](https://cveform.mitre.org)
- - date_published: 2024-05-06T20:15:42.195853+00:00
-
- ## CVE -
-
-CVE
- - [https://cve.mitre.org](https://cve.mitre.org)
- - date_published: 2023-10-25T21:43:44.813392+00:00
- - tags: ['cybersecurity', 'vulnerabilities']
-
- ## CWE - 
-Common Weakness Enumeration
- - [https://cwe.mitre.org](https://cwe.mitre.org)
- - date_published: 2023-10-25T21:43:47.269871+00:00
-
- ## Embedded Capture the Flag (eCTF) |
- - [https://ectf.mitre.org](https://ectf.mitre.org)
- - date_published: 2024-04-28T04:00:06.324071+00:00
-
- ## MAEC - Malware Attribute Enumeration and Characterization | MAEC Project Documentation
- - [http://maec.mitre.org](http://maec.mitre.org)
- - date_published: 2022-10-22T03:53:43+00:00
-
- ## Making Security Measurable
- - [http://measurablesecurity.mitre.org](http://measurablesecurity.mitre.org)
- - date_published: 2024-07-09T12:29:11.973320+00:00
-
- ## MITRE | Solving Problems for Safer World
- - [https://mitre.org](https://mitre.org)
- - date_published: 2024-06-27T16:00:11+00:00
- - tags: ['cybersecurity', 'activism']
-
- ## MPN Support | Frequently Asked Questions
- - [https://mpn.mitre.org](https://mpn.mitre.org)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## OVAL 
-- Open Vulnerability and Assessment Language
- - [https://oval.mitre.org](https://oval.mitre.org)
- - date_published: 2024-05-09T05:03:02.368455+00:00
-
- ## MITRE | Solving Problems for Safer World
- - [https://register.mitre.org](https://register.mitre.org)
- - date_published: 2024-07-09T12:29:22+00:00
-
- ## MITRE Corporation - Sign In
- - [https://remote.mitre.org](https://remote.mitre.org)
- - date_published: 2024-07-01T15:10:08.935274+00:00
-
- ## A Tech Foundation for Public Good - MITRE Engenuity
- - [https://mitre-engenuity.org](https://mitre-engenuity.org)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Maine Indian Tribal-State Commission
- - [https://mitsc.org](https://mitsc.org)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Stellar : Message of the Day
- - [http://mitscifab.org](http://mitscifab.org)
- - date_published: 2024-06-20T04:09:59.383584+00:00
-
- ## Students for Open and Universal Learning
- - [https://mitsoul.org](https://mitsoul.org)
- - date_published: 2024-05-07T19:33:34.066843+00:00
-
- ## Mitsuba 3 - A Retargetable Forward and Inverse Renderer
- - [http://www.mitsuba-renderer.org](http://www.mitsuba-renderer.org)
- - date_published: 2024-05-30T21:14:12.512549+00:00
-
- ## Stellar : Message of the Day
- - [http://miturbanventures.org](http://miturbanventures.org)
- - date_published: 2024-06-20T04:16:03.449794+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.mivu.org](http://www.mivu.org)
- - date_published: 2024-07-02T04:24:31.862403+00:00
-
- ## MiXiT
- - [https://mixitconf.org](https://mixitconf.org)
- - date_published: 2024-06-23T12:32:52.408886+00:00
-
- ## Mixxx - Free DJ Mixing Software App
- - [https://www.mixxx.org](https://www.mixxx.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## 宮城資料ネット NPO法人宮城歴史資料保全ネットワーク
- - [http://miyagi-shiryounet.org](http://miyagi-shiryounet.org)
- - date_published: 2024-07-12T18:09:09.278675+00:00
-
- ## Mizar Home Page
- - [https://mizar.org](https://mizar.org)
- - date_published: 2023-11-15T12:24:17+00:00
-
- ## Police Department | Mount Juliet, TN
- - [http://www.mjpd.org](http://www.mjpd.org)
- - date_published: 2024-06-30T12:06:15.054793+00:00
-
- ## The Museum Of Jurassic Technology
- - [http://www.mjt.org](http://www.mjt.org)
- - date_published: 2023-10-25T16:32:05+00:00
-
- ## MkDocs
- - [https://www.mkdocs.org](https://www.mkdocs.org)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Milwaukee Film | Enriching Lives & Building Community Through Film
- - [https://mkefilm.org](https://mkefilm.org)
- - date_published: 2024-07-03T03:54:40.839255+00:00
-
- ## mkjose
- - [https://mkjose.org](https://mkjose.org)
- - date_published: 2020-04-08T04:55:42+00:00
-
- ## mkjwk - JSON Web Key Generator
- - [https://mkjwk.org](https://mkjwk.org)
- - date_published: 2023-02-23T01:10:19+00:00
-
- ## Welcome to MkLinux.org
- - [https://mklinux.org](https://mklinux.org)
- - date_published: 2024-01-09T03:41:47.847919+00:00
-
- ## Mktemp
- - [http://www.mktemp.org](http://www.mktemp.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## ML4ALL - A machine learning conference for the rest of us.
- - [http://ml4all.org](http://ml4all.org)
- - date_published: 2019-04-28T00:00:00+00:00
-
- ## ML4Good - AI Safety Bootcamps and Talent Pipelines
- - [https://www.ml4good.org](https://www.ml4good.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## MLA Home
- - [http://www.mla.org](http://www.mla.org)
- - date_published: 2024-06-24T10:09:05.561222+00:00
-
- ## Maison des Lanceurs d'Alerte – Seuls, ils osent alerter. Ensemble, soutenons-les !
- - [https://mlalerte.org](https://mlalerte.org)
- - date_published: 2024-05-06T23:57:37.491735+00:00
-
- ## Soutenez la Maison des Lanceurs d'Alerte
- - [https://soutenir.mlalerte.org](https://soutenir.mlalerte.org)
- - date_published: 2024-06-28T22:10:35.784084+00:00
-
- ## MLA : Public Home Page
- - [https://mlanet.org](https://mlanet.org)
- - date_published: 2024-05-12T04:53:51.324500+00:00
-
- ## ML Collective
- - [https://mlcollective.org](https://mlcollective.org)
- - date_published: 2024-06-29T05:58:19.453934+00:00
-
- ## MLCommons | Better AI for Everyone
- - [https://mlcommons.org](https://mlcommons.org)
- - date_published: 2024-07-19T00:00:00+00:00
 

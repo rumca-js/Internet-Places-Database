@@ -1,3 +1,151 @@
+ ## Artificial Intelligence Academic Programs and Machine Learning Academic Programs, AI-ML Training through cutting-edge research as well as strong industry collaborations offered by IIT Bombay.
+ - [https://www.minds.iitb.ac.in](https://www.minds.iitb.ac.in)
+ - date_published: 2024-03-19T08:58:35+00:00
+
+ ## Centre For Atmospheric Sciences (CAS) :: IIT Delhi
+ - [https://cas.iitd.ac.in](https://cas.iitd.ac.in)
+ - date_published: 2024-07-08T13:10:05.281339+00:00
+
+ ## Convocation 2023, IIT Delhi
+ - [https://convocation.iitd.ac.in](https://convocation.iitd.ac.in)
+ - date_published: 2024-06-22T09:14:56.967927+00:00
+
+ ## CS Theory @IITD
+ - [https://cstheory.iitd.ac.in](https://cstheory.iitd.ac.in)
+ - date_published: 2024-02-08T11:34:33+00:00
+
+ ## Home Page : IIT Delhi
+ - [https://home.iitd.ac.in](https://home.iitd.ac.in)
+ - date_published: 2024-07-04T10:25:12.979845+00:00
+
+ ## PhD Programme@CSE/SIT
+ - [http://phd.cse.iitd.ac.in](http://phd.cse.iitd.ac.in)
+ - date_published: 2024-06-06T10:42:47+00:00
+
+ ## Department of Computer Science and Engineering, IIT Delhi
+ - [https://www.cse.iitd.ac.in](https://www.cse.iitd.ac.in)
+ - date_published: 2024-05-04T15:26:32.945675+00:00
+
+ ## Home Page : IIT Delhi
+ - [http://www.iitd.ac.in](http://www.iitd.ac.in)
+ - date_published: 2024-06-22T09:14:52.689160+00:00
+
+ ## Indian Institute of Technology Guwahati
+ - [http://www.iitg.ac.in](http://www.iitg.ac.in)
+ - date_published: 2024-07-10T05:44:29.239585+00:00
+
+ ## Home
+ - [http://www.iith.ac.in](http://www.iith.ac.in)
+ - date_published: 2024-06-22T12:51:03+00:00
+
+ ## IITJ-Indian Institute of Technology Jodhpur
+ - [http://home.iitj.ac.in](http://home.iitj.ac.in)
+ - date_published: 2024-08-07T15:23:59.300389+00:00
+
+ ## IITJ-Indian Institute of Technology Jodhpur
+ - [https://iitj.ac.in](https://iitj.ac.in)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## CSE - IIT Kanpur
+ - [https://www.cse.iitk.ac.in](https://www.cse.iitk.ac.in)
+ - date_published: 2024-06-20T09:19:18+00:00
+
+ ## IIT Kanpur
+ - [https://www.iitk.ac.in](https://www.iitk.ac.in)
+ - date_published: 2024-06-22T10:00:29.156567+00:00
+
+ ## National Digital Library of India (NDLI)
+ - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Centre for Responsible AI
+ - [https://cerai.iitm.ac.in](https://cerai.iitm.ac.in)
+ - date_published: 2024-08-06T11:00:25+00:00
+
+ ## Cryo-EM
+ - [http://cryoem.iitm.ac.in](http://cryoem.iitm.ac.in)
+ - date_published: 2024-06-16T23:35:29.012980+00:00
+
+ ## Wadhwani School of Data Science & AI
+ - [https://dsai.iitm.ac.in](https://dsai.iitm.ac.in)
+ - date_published: 2024-06-16T23:35:12.043525+00:00
+
+ ## Department of Engineering Design, Indian Institute of Technology Madras
+ - [https://ed.iitm.ac.in](https://ed.iitm.ac.in)
+ - date_published: 2024-05-01T08:17:12.179261+00:00
+
+ ## Faculty Recruitment Portal
+ - [https://facapp.iitm.ac.in](https://facapp.iitm.ac.in)
+ - date_published: 2024-04-08T05:18:41+00:00
+
+ ## Office of Global Engagement | IITM
+ - [https://ge.iitm.ac.in](https://ge.iitm.ac.in)
+ - date_published: 2024-06-16T23:35:16.062248+00:00
+
+ ## Endowment Fund Raising | Joy of Giving | Fund on Research Projects
+ - [https://joyofgiving.alumni.iitm.ac.in](https://joyofgiving.alumni.iitm.ac.in)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Department of Medical Sciences & Technology, Indian Institute of Technology Madras | Bringing Engineering to Life
+ - [https://mst.iitm.ac.in](https://mst.iitm.ac.in)
+ - date_published: 2024-06-16T23:35:37.522060+00:00
+
+ ## Women's forum
+ - [https://womensforum.iitm.ac.in](https://womensforum.iitm.ac.in)
+ - date_published: 2024-06-16T23:35:20.838395+00:00
+
+ ## Department of Computer Science & Engineering
+ - [http://www.cse.iitm.ac.in](http://www.cse.iitm.ac.in)
+ - date_published: 2024-07-04T10:25:16.234812+00:00
+
+ ## Indian Institute of Technology Madras
+ - [https://www.iitm.ac.in](https://www.iitm.ac.in)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Academic Information System
+ - [https://academics.iitr.ac.in](https://academics.iitr.ac.in)
+ - date_published: 2024-06-21T12:37:32+00:00
+
+ ## IIS Windows Server
+ - [https://almamater.iitr.ac.in](https://almamater.iitr.ac.in)
+ - date_published: 2020-10-04T13:55:43+00:00
+
+ ## DORA Office
+ - [https://alumni.iitr.ac.in](https://alumni.iitr.ac.in)
+ - date_published: 2024-06-21T11:25:40+00:00
+
+ ## BIS Corner – IIT Roorkee
+ - [https://biscorner.iitr.ac.in](https://biscorner.iitr.ac.in)
+ - date_published: 2024-06-22T11:41:06.732911+00:00
+
+ ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
+ - [http://dinc.iitr.ac.in](http://dinc.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:33.386378+00:00
+
+ ## Academic Documents Request | IITR
+ - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
+ - date_published: 2024-06-21T06:55:42+00:00
+
+ ## EICT Academy - eict.iitr.ac.in
+ - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home | Expectations IIT Roorkee
+ - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
+ - date_published: 2021-10-31T11:12:36+00:00
+
+ ## Finance & Accounts Office, IITR
+ - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:28.888432+00:00
+
+ ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
+ - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:06.639736+00:00
+
+ ## GNEC IITR
+ - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:22.309314+00:00
+
  ## i-Connect
  - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
  - date_published: 2024-06-22T11:31:26.941083+00:00
@@ -935,10 +1083,6 @@ MINISTRY OF CONSUMER AFFAIRS, FOOD & PUBLIC DISTRIBUTION
  ## Meteorological & Oceanographic Satellite Data Archival Centre | Space Applications Centre, ISRO
  - [https://mosdac.gov.in](https://mosdac.gov.in)
  - date_published: 2024-08-11T08:32:56+00:00
-
- ## Meteorological & Oceanographic Satellite Data Archival Centre | Space Applications Centre, ISRO
- - [https://www.mosdac.gov.in](https://www.mosdac.gov.in)
- - date_published: 2024-06-18T00:00:00+00:00
 
  ## National AIDS Control Organization | MoHFW | GoI
  - [http://naco.gov.in](http://naco.gov.in)
@@ -3882,149 +4026,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Professional Speakers Association of India | PSAI
  - [https://www.psai.in](https://www.psai.in)
  - date_published: 2024-07-11T12:59:51+00:00
-
- ## Sibi - Home
- - [https://psibi.in](https://psibi.in)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://publicholidays.in](https://publicholidays.in)
- - date_published: 2024-05-10T05:45:11.199545+00:00
-
- ## PursueTech – PCB Manufacturing Firm
- - [https://pursuetech.in](https://pursuetech.in)
- - date_published: 2024-06-17T02:00:00.887883+00:00
-
- ## QR Code Scanner
- - [https://qrcodescan.in](https://qrcodescan.in)
- - date_published: 2024-06-03T11:18:25.717148+00:00
- - tags: ['qr code']
-
- ## Qualys Security and Compliance Suite Login
- - [https://qualysguard.qg1.apps.qualys.in](https://qualysguard.qg1.apps.qualys.in)
- - date_published: 2024-05-29T07:06:27+00:00
-
- ## Quillpad - Typing in Indian Languages has never been easier
- - [https://quillpad.in](https://quillpad.in)
- - date_published: 2021-05-26T05:45:41+00:00
-
- ## Radio City - India's First FM Radio | Videos | Podcasts | Photos
- - [https://www.radiocity.in](https://www.radiocity.in)
- - date_published: 2024-08-08T13:42:03.231228+00:00
-
- ## Love Tips, Relationship Advice and Romantic Love Stories - Ishq.com
- - [http://www.radioishq.in](http://www.radioishq.in)
- - date_published: 2024-07-17T10:13:26+00:00
-
- ## RAIOT
- - [http://www.raiot.in](http://www.raiot.in)
- - date_published: 2024-04-03T10:52:27+00:00
-
- ## Ram Madhav - Ram Madhav
- - [https://www.rammadhav.in](https://www.rammadhav.in)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Ranium Systems — Web and mobile applications development
- - [https://ranium.in](https://ranium.in)
- - date_published: 2024-07-20T17:54:28.695405+00:00
-
- ## Ratik — Software Eng. + Artist
- - [https://ratik.in](https://ratik.in)
- - date_published: 2024-05-07T23:16:10.523433+00:00
-
- ## Ravi's Blog
- - [https://ravidwivedi.in](https://ravidwivedi.in)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Reader's Digest India - Articles on Health, True Stories, Humor, Personality, Opinion, Facts, Fiction, Interview
- - [http://subscription.readersdigest.in](http://subscription.readersdigest.in)
- - date_published: 2024-07-17T10:18:33+00:00
-
- ## Reader's Digest India - Articles on Health, True Stories, Humor, Personality, Opinion, Facts, Fiction, Interview
- - [https://readersdigest.in](https://readersdigest.in)
- - date_published: 2024-05-13T03:27:38.867030+00:00
-
- ## Receive SMS Online
- - [https://receivesmsonline.in](https://receivesmsonline.in)
- - date_published: 2024-06-23T18:20:26.209105+00:00
-
- ## redBus Blog
- - [http://blog.redbus.in](http://blog.redbus.in)
- - date_published: 2024-06-16T15:50:46.073919+00:00
-
- ## Online Bus Ticket Booking with Best Offers and Lowest Price - redBus
- - [https://m.redbus.in](https://m.redbus.in)
- - date_published: 2024-06-16T15:51:12.610868+00:00
-
- ## redBus Bus Registration | Be a redBus Partner
- - [https://onboardvendor.redbus.in](https://onboardvendor.redbus.in)
- - date_published: 2024-04-23T09:53:47+00:00
-
- ## Online Bus Ticket Booking with Best Offers and Lowest Price - redBus
- - [https://www.redbus.in](https://www.redbus.in)
- - date_published: 2024-05-01T07:11:41.627410+00:00
-
- ## Open Proxy Project - Realtime Best Proxy Servers
- - [https://opp.redsoc.in](https://opp.redsoc.in)
- - date_published: 2024-06-03T20:01:24.730748+00:00
-
- ## Remark - send more humane emails, using AI
- - [https://remarkai.in](https://remarkai.in)
- - date_published: 2023-10-25T19:31:36.865009+00:00
-
- ## Repair Phone - Repair your Mobile Phone or Tablet Instantly
- - [https://www.repairphone.in](https://www.repairphone.in)
- - date_published: 2024-07-02T19:01:59.846432+00:00
-
- ## Reqres - A hosted REST-API ready to respond to your AJAX requests
- - [https://reqres.in](https://reqres.in)
- - date_published: 2014-10-18T00:00:00+00:00
-
- ## RequestBin — A modern request bin to collect, inspect and debug HTTP requests and webhooks - Pipedream
- - [http://requestb.in](http://requestb.in)
- - date_published: 2024-06-15T17:06:57.009791+00:00
-
- ## Projects — Reshma Teelar
- - [https://reshmateelar.in](https://reshmateelar.in)
- - date_published: 2021-03-10T02:44:36+00:00
-
- ## RFSYS TECHNOLOGIES PVT LTD
- - [https://rfsys.in](https://rfsys.in)
- - date_published: 2024-06-17T01:59:42.966553+00:00
-
- ## Regional Grand Lodge of Eastern India - under the Grand Lodge of India
- - [http://www.rgleast.in](http://www.rgleast.in)
- - date_published: 2024-06-17T14:03:47.385909+00:00
-
- ## Rhosigma: Igniting Innovation in Electronic Products Tech!
- - [https://rhosigma.in](https://rhosigma.in)
- - date_published: 2024-06-17T01:56:51.874394+00:00
-
- ## Ridge Chin
- - [https://work.ridgech.in](https://work.ridgech.in)
- - date_published: 2024-07-04T01:56:46.790972+00:00
-
- ## RIOD – Charge Anywhere, Anytime
- - [https://riod.in](https://riod.in)
- - date_published: 2024-06-17T01:56:38.065500+00:00
-
- ## Dr. Rahul Kala – Dr. Rahul Kala | Assoc. Prof., IIITM Gwalior | Robotics & AI
- - [http://rkala.in](http://rkala.in)
- - date_published: 2024-07-13T04:41:51.782671+00:00
-
- ## 🏡
- - [https://rnjn.in](https://rnjn.in)
- - date_published: 2023-10-25T19:31:37.730186+00:00
-
- ## Cierpliwości...
- - [https://robu.in](https://robu.in)
- - date_published: 2024-06-10T12:25:16.985499+00:00
-
- ## India's Top Online Roulette Guide - Roulette Rajah
- - [https://rouletterajah.in](https://rouletterajah.in)
- - date_published: 2024-08-07T21:31:26.570431+00:00
-
- ## royalcasino.in
- - [https://royalcasino.in](https://royalcasino.in)
- - date_published: 2024-07-17T04:42:49.618159+00:00
 

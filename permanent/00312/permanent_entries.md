@@ -1,3 +1,299 @@
+ ## Мультимаркет Аврора ➤ Доступні товари для всієї сім'ї   | Мультимаркет Аврора
+ - [https://avrora.ua](https://avrora.ua)
+ - date_published: 2024-06-30T09:28:21.452077+00:00
+
+ ## Бабель | Розповідаємо про політику, культуру і суспільство в Україні. Останні новини детально і неупереджено
+ - [https://babel.ua](https://babel.ua)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Пекельце – курйозні новини з України та всього світу | Бабель
+ - [https://pekeltse.babel.ua](https://pekeltse.babel.ua)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Bitcoin Magazine Україна - новини біткоїна, курс біткоїна до долара, секрети майнінгу - експерти
+ - [https://bitcoinmagazine.ua](https://bitcoinmagazine.ua)
+ - date_published: 2024-07-01T09:01:54.650576+00:00
+
+ ## Brother Srbija | At Your Side
+ - [https://www.brother.ua](https://www.brother.ua)
+ - date_published: 2024-06-17T20:18:47.422322+00:00
+
+ ## Business Ukraine magazine
+ - [https://businessukraine.ua](https://businessukraine.ua)
+ - date_published: 2024-03-20T06:32:58.721692+00:00
+
+ ## Головна - Американська торговельна палата в Україні
+ - [https://chamber.ua](https://chamber.ua)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Склад авто CITROЁN в Україні
+ - [https://cars.citroen.ua](https://cars.citroen.ua)
+ - date_published: 2024-05-02T10:43:10.126792+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://citroen.ua](https://citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://configuratorpro.citroen.ua](https://configuratorpro.citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://info.citroen.ua](https://info.citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## bebyx: сайт Артема Бебика
+ - [https://bebyx.co.ua](https://bebyx.co.ua)
+ - date_published: 2023-10-22T20:27:44+00:00
+
+ ## Андрій Головін – Блог | Персональний блог Андрія Головіна. По трохи про все.
+ - [https://blog.andygol.co.ua](https://blog.andygol.co.ua)
+ - date_published: 2023-10-25T22:48:03.655543+00:00
+
+ ## Афіша подій у Києві 2018 | Придбати квитки на Концерт.юа
+ - [https://concert.ua](https://concert.ua)
+ - date_published: 2024-06-29T13:56:30.709192+00:00
+
+ ## Креді Агріколь Банк - ТОП-3 найнадійніших в Україні | Credit Agricole Bank
+ - [https://credit-agricole.ua](https://credit-agricole.ua)
+ - date_published: 2024-06-26T10:39:31.311844+00:00
+
+ ## Decathlon Ukraine - спорт для всіх: якість від новачка до профі
+ - [https://www.decathlon.ua](https://www.decathlon.ua)
+ - date_published: 2024-06-15T20:09:11.004430+00:00
+
+ ## Делві Національна мережа сімейних маркетів
+ - [https://www.delvi.ua](https://www.delvi.ua)
+ - date_published: 2024-06-30T09:28:38.263944+00:00
+
+ ## Головна
+ - [https://dengi.ua](https://dengi.ua)
+ - date_published: 2009-12-31T22:00:00+00:00
+
+ ## Інтернет провайдер Домонет в місті Київ
+ - [https://domonet.ua](https://domonet.ua)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Здай кров - врятуй життя!
+ - [https://donor.ua](https://donor.ua)
+ - date_published: 2024-07-08T17:33:46.180853+00:00
+
+ ## DOU
+ - [https://dou.ua](https://dou.ua)
+ - date_published: 2024-07-09T12:28:03.751380+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://www.duracell.ua](https://www.duracell.ua)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Elmir.ua
+ - [https://elmir.ua](https://elmir.ua)
+ - date_published: 2024-07-13T13:39:37.811501+00:00
+
+ ## EPAM | Унікальні можливості роботи для ІТ-професіоналів та молодих спеціалістів
+ - [https://careers.epam.ua](https://careers.epam.ua)
+ - date_published: 2024-07-04T12:20:44.236945+00:00
+
+ ## Епіцентр • Національна мережа торговельних центрів
+ - [https://epicentrk.ua](https://epicentrk.ua)
+ - date_published: 2024-06-30T09:28:32.681278+00:00
+
+ ## ESET - офіційний сайт. Антивірусні програми Ісет в Україні.
+ - [http://eset.ua](http://eset.ua)
+ - date_published: 2024-06-16T06:24:54.966762+00:00
+
+ ## Ferrero Україна
+ - [https://www.ferrero.ua](https://www.ferrero.ua)
+ - date_published: 2024-06-19T08:31:44.211597+00:00
+
+ ## FIAT - офіційний сайт Fiat Україна
+ - [https://www.fiat.ua](https://www.fiat.ua)
+ - date_published: 2024-06-06T08:23:30+00:00
+
+ ## Дилер комерційних автомобілей Fiat в Україні | Fiatprofessional
+ - [https://www.fiatprofessional.ua](https://www.fiatprofessional.ua)
+ - date_published: 2015-07-12T12:50:38+00:00
+
+ ## Автобусні подорожі Європою | FlixBus
+ - [https://www.flixbus.ua](https://www.flixbus.ua)
+ - date_published: 2024-06-28T10:10:09+00:00
+
+ ## Football.ua - Новини футболу - Футбол онлайн - Результати матчів, трансляції — football.ua
+ - [https://football.ua](https://football.ua)
+ - date_published: 2024-08-07T23:14:27.185277+00:00
+
+ ## Forbes.ua | Бізнес, мільярдери, новини, фінанси, інвестиції, компанії
+ - [https://forbes.ua](https://forbes.ua)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Офіційний сайт Ford. | Ласкаво просимо в світ Ford в Україні
+ - [http://www.ford.ua](http://www.ford.ua)
+ - date_published: 2024-06-19T16:59:52.512627+00:00
+
+ ## Funduk.ua: геймерський інтернет магазин №1 в Україні
+ - [https://funduk.ua](https://funduk.ua)
+ - date_published: 2024-07-13T13:47:20.703693+00:00
+
+ ## Погода в Украине и мире
+ - [https://www.gismeteo.ua](https://www.gismeteo.ua)
+ - date_published: 2024-05-02T10:43:38.666862+00:00
+
+ ## Афіша Києва: афіша всіх заходів в Києві - Gloss.ua
+ - [https://gloss.ua](https://gloss.ua)
+ - date_published: 2024-08-07T23:12:25+00:00
+
+ ## Homepage
+ - [https://www.hilti.ua](https://www.hilti.ua)
+ - date_published: 2024-06-20T07:26:39.807644+00:00
+
+ ## --- bodqhrohro homepage ---
+ - [https://bodqhrohro.ho.ua](https://bodqhrohro.ho.ua)
+ - date_published: 2024-05-07T15:04:27.716095+00:00
+
+ ## ho.ua: Доступ заборонений
+ - [http://ufj.ho.ua](http://ufj.ho.ua)
+ - date_published: 2024-06-17T17:06:21.787870+00:00
+
+ ## Ukrainian Journal of Food Science
+ - [http://ukrfoodscience.ho.ua](http://ukrfoodscience.ho.ua)
+ - date_published: 2024-06-17T08:37:30+00:00
+
+ ## Hotline - порівняти ціни в інтернет-магазинах України
+ - [https://hotline.ua](https://hotline.ua)
+ - date_published: 2024-07-20T14:51:44.236029+00:00
+
+ ## Hummel – бренд спортивного одягу - Hummel
+ - [https://www.hummel.ua](https://www.hummel.ua)
+ - date_published: 2019-02-08T11:13:19+00:00
+
+ ## Блоги - I.UA
+ - [https://blog.i.ua](https://blog.i.ua)
+ - date_published: 2024-08-07T23:14:49.164280+00:00
+
+ ## Безкоштовні оголошення
+ - [https://board.i.ua](https://board.i.ua)
+ - date_published: 2024-08-07T23:15:07.556713+00:00
+
+ ## Вітальні листівки з Днем народження, з Новим роком, 1 квітня, пасхальні та інші види листівок.
+ - [https://cards.i.ua](https://cards.i.ua)
+ - date_published: 2024-08-07T23:15:20.914508+00:00
+
+ ## Каталог українських сайтів
+ - [https://catalog.i.ua](https://catalog.i.ua)
+ - date_published: 2024-08-07T23:15:09.005840+00:00
+
+ ## Рецепти. Кулінарні рецепти з фото: перші і другі блюда, салати, випічка, десерти, коктейлі - I.ua.
+ - [https://cook.i.ua](https://cook.i.ua)
+ - date_published: 2024-08-07T23:15:35.308171+00:00
+
+ ## Файлообмінник та зберігання файлів онлайн
+ - [https://files.i.ua](https://files.i.ua)
+ - date_published: 2024-08-07T23:14:57.334505+00:00
+
+ ## Курс валют і конвертер валют : курс долара, курс євро і курс рубля в обмінниках українських банків
+ - [https://finance.i.ua](https://finance.i.ua)
+ - date_published: 2024-08-07T23:15:25.850682+00:00
+
+ ## Гороскопи на сьогодні і завтра. Гороскоп на кожен день - I.UA
+ - [https://goroskop.i.ua](https://goroskop.i.ua)
+ - date_published: 2024-08-07T23:15:19.811208+00:00
+
+ ## Групи - I.UA
+ - [https://group.i.ua](https://group.i.ua)
+ - date_published: 2024-08-07T23:15:36.149411+00:00
+
+ ## Допомога - I.UA
+ - [http://help.i.ua](http://help.i.ua)
+ - date_published: 2024-08-07T23:14:34.974988+00:00
+
+ ## І.UA - твоя пошта
+ - [https://i.ua](https://i.ua)
+ - date_published: 2024-04-28T02:11:22.576845+00:00
+
+ ## Работа в Киеве и Украине
+ - [http://job.i.ua](http://job.i.ua)
+ - date_published: 2024-08-07T23:14:32.874818+00:00
+
+ ## Кіно, афіша кінотеатрів, прем'єри нових фільмів, розклад сеансів в кінотеатрах Києва і України
+ - [https://kino.i.ua](https://kino.i.ua)
+ - date_published: 2024-08-07T23:15:33.184893+00:00
+
+ ## Закладки - I.UA
+ - [https://links.i.ua](https://links.i.ua)
+ - date_published: 2024-08-07T23:14:58.272441+00:00
+
+ ## Знайомства - I.UA
+ - [https://love.i.ua](https://love.i.ua)
+ - date_published: 2024-08-07T23:15:01.733247+00:00
+
+ ## Пошта - електронна пошта з доменами @i.ua, @ua.fm і @email.ua, створіть e-mail адресу
+ - [https://mail.i.ua](https://mail.i.ua)
+ - date_published: 2024-08-07T23:14:44.942950+00:00
+
+ ## Карта Києва онлайн
+ - [https://map.i.ua](https://map.i.ua)
+ - date_published: 2024-08-07T23:15:06.553839+00:00
+
+ ## Пошта - електронна пошта з доменами @i.ua, @ua.fm і @email.ua, створіть e-mail адресу
+ - [https://mbox.i.ua](https://mbox.i.ua)
+ - date_published: 2024-08-07T23:15:03.171533+00:00
+
+ ## Музика онлайн 🎧 Слухати музику безкоштовно без реєстрацій
+ - [https://music.i.ua](https://music.i.ua)
+ - date_published: 2024-08-07T23:14:44.035224+00:00
+
+ ## Народ - I.UA
+ - [https://narod.i.ua](https://narod.i.ua)
+ - date_published: 2024-08-07T23:15:22.539913+00:00
+
+ ## Новини України та світу онлайн
+ - [https://news.i.ua](https://news.i.ua)
+ - date_published: 2024-08-07T23:14:46.365530+00:00
+
+ ## Шпалери для робочого столу, wallpapers, ви можете скачати шпалери безкоштовно
+ - [https://oboi.i.ua](https://oboi.i.ua)
+ - date_published: 2024-08-07T23:14:39.719264+00:00
+
+ ## Паспорт - I.UA
+ - [https://org.i.ua](https://org.i.ua)
+ - date_published: 2024-08-07T23:14:40.591967+00:00
+
+ ## Питання і відповіді. Постав своє питання і отримай відповіді!
+ - [https://otvet.i.ua](https://otvet.i.ua)
+ - date_published: 2024-08-07T23:15:05.658776+00:00
+
+ ## Паспорт - I.UA
+ - [https://passport.i.ua](https://passport.i.ua)
+ - date_published: 2024-08-07T23:15:17.357843+00:00
+
+ ## Перекладач онлайн. Переклад: англійська, російська, українська і інші мови. Онлайн перекладач текстів
+ - [https://perevod.i.ua](https://perevod.i.ua)
+ - date_published: 2024-08-07T23:15:04.432184+00:00
+
+ ## Фото - I.UA
+ - [https://photo.i.ua](https://photo.i.ua)
+ - date_published: 2024-08-07T23:14:47.777489+00:00
+
+ ## Приколи - картинки, відео приколи, смішні історії та анекдоти
+ - [https://prikol.i.ua](https://prikol.i.ua)
+ - date_published: 2024-08-07T23:15:30.182239+00:00
+
+ ## Радіо онлайн - слухай безкоштовно в хорошій якості
+ - [https://radio.i.ua](https://radio.i.ua)
+ - date_published: 2024-08-07T23:15:18.412150+00:00
+
+ ## RSS - I.UA
+ - [https://rss.i.ua](https://rss.i.ua)
+ - date_published: 2024-08-07T23:14:54.068019+00:00
+
+ ## I.UA — твоя пошта
+ - [https://touch.i.ua](https://touch.i.ua)
+ - date_published: 2024-08-07T23:15:28.129203+00:00
+
+ ## Телепрограма. Програма телепередач. ТБ програма онлайн на сьогодні, тиждень - I.UA
+ - [https://tv.i.ua](https://tv.i.ua)
+ - date_published: 2024-08-07T23:14:50.354111+00:00
+
  ## Відео приколи, безкоштовне відео, у нас можна дивитися відео онлайн
  - [https://video.i.ua](https://video.i.ua)
  - date_published: 2024-08-07T23:14:31.869362+00:00
@@ -3712,300 +4008,4 @@
  ## Welcome to the Oxford DTP in Environmental Research
  - [https://envres.web.ox.ac.uk](https://envres.web.ox.ac.uk)
  - date_published: 2024-06-16T09:33:54+00:00
-
- ## https://eodg.atm.ox.ac.uk
- - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
- - date_published: 2024-01-09T03:48:15.383262+00:00
-
- ## Energy and Power Group, Department of Engineering Science, University of Oxford
- - [https://epg.eng.ox.ac.uk](https://epg.eng.ox.ac.uk)
- - date_published: 2024-06-17T19:00:06.029015+00:00
-
- ## Home
- - [https://estates.admin.ox.ac.uk](https://estates.admin.ox.ac.uk)
- - date_published: 2024-06-14T08:40:44+00:00
-
- ## Wadham College
- - [https://events.wadham.ox.ac.uk](https://events.wadham.ox.ac.uk)
- - date_published: 2024-06-17T18:32:56.981997+00:00
-
- ## Linguistics at Oxford –
- - [https://explore.ling-phil.ox.ac.uk](https://explore.ling-phil.ox.ac.uk)
- - date_published: 2024-06-17T18:57:01.579291+00:00
-
- ## Home
- - [https://finance.admin.ox.ac.uk](https://finance.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:32:16+00:00
-
- ## Home
- - [https://focus.admin.ox.ac.uk](https://focus.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:55:28+00:00
-
- ## Home
- - [https://foxtalbot.bodleian.ox.ac.uk](https://foxtalbot.bodleian.ox.ac.uk)
- - date_published: 2015-04-22T15:00:37+00:00
-
- ## Kellogg College Giving Day 2024
- - [https://givingday.kellogg.ox.ac.uk](https://givingday.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:16.415296+00:00
-
- ## Home
- - [https://glam.web.ox.ac.uk](https://glam.web.ox.ac.uk)
- - date_published: 2024-05-02T10:57:33.164842+00:00
-
- ## Home
- - [https://globalcapitalism.history.ox.ac.uk](https://globalcapitalism.history.ox.ac.uk)
- - date_published: 2024-05-29T01:37:51.785684+00:00
-
- ## GO Lab
- - [https://golab.bsg.ox.ac.uk](https://golab.bsg.ox.ac.uk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home
- - [http://governance.admin.ox.ac.uk](http://governance.admin.ox.ac.uk)
- - date_published: 2024-06-14T09:43:18+00:00
-
- ## Home
- - [https://governance.web.ox.ac.uk](https://governance.web.ox.ac.uk)
- - date_published: 2024-06-17T09:01:24+00:00
-
- ## hallmarkscampaign | Forged by the Hall
- - [https://hallmarkscampaign.seh.ox.ac.uk](https://hallmarkscampaign.seh.ox.ac.uk)
- - date_published: 2024-06-17T18:36:03.939423+00:00
-
- ## Home - Kellogg Student Handbook
- - [http://handbook.kellogg.ox.ac.uk](http://handbook.kellogg.ox.ac.uk)
- - date_published: 2024-06-17T18:45:08.709662+00:00
-
- ## Home
- - [https://help.it.ox.ac.uk](https://help.it.ox.ac.uk)
- - date_published: 2024-06-13T19:26:43+00:00
-
- ## BRAHMS: Oxford
- - [https://herbaria.plants.ox.ac.uk](https://herbaria.plants.ox.ac.uk)
- - date_published: 2024-06-17T18:19:15.365249+00:00
-
- ## Home - Keble College
- - [https://heritage.keble.ox.ac.uk](https://heritage.keble.ox.ac.uk)
- - date_published: 2020-04-23T00:00:00+00:00
-
- ## Welcome
- - [https://hoa.web.ox.ac.uk](https://hoa.web.ox.ac.uk)
- - date_published: 2024-06-17T10:40:39+00:00
-
- ## Home
- - [https://hr.admin.ox.ac.uk](https://hr.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:31:13+00:00
-
- ## Home
- - [https://hr.web.ox.ac.uk](https://hr.web.ox.ac.uk)
- - date_published: 2024-06-15T22:46:52+00:00
-
- ## Home
- - [https://hsm.ox.ac.uk](https://hsm.ox.ac.uk)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Hub Home - Wolfson Hub
- - [https://hub.wolf.ox.ac.uk](https://hub.wolf.ox.ac.uk)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## IBME – Institute of Biomedical Engineering
- - [https://ibme.ox.ac.uk](https://ibme.ox.ac.uk)
- - date_published: 2024-06-17T19:00:11.835991+00:00
-
- ## Welcome
- - [https://imcc.web.ox.ac.uk](https://imcc.web.ox.ac.uk)
- - date_published: 2024-06-12T02:28:26+00:00
-
- ## Oxford University Innovation Ltd.
- - [https://innovation.ox.ac.uk](https://innovation.ox.ac.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.bioch.ox.ac.uk](https://intranet.bioch.ox.ac.uk)
- - date_published: 2024-06-17T18:34:03.424189+00:00
-
- ## Intranet login | ChCh Intranet | ChCh Intranet
- - [https://intranet.chch.ox.ac.uk](https://intranet.chch.ox.ac.uk)
- - date_published: 2024-06-17T18:33:54.860073+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.cs.ox.ac.uk](https://intranet.cs.ox.ac.uk)
- - date_published: 2024-05-02T10:58:34.840211+00:00
-
- ## Sign in to your account
- - [https://intranet.hertford.ox.ac.uk](https://intranet.hertford.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.lmh.ox.ac.uk](https://intranet.lmh.ox.ac.uk)
- - date_published: 2024-06-17T18:34:23.663474+00:00
-
- ## Merton Intranet - not logged in home | Merton Intranet
- - [https://intranet.merton.ox.ac.uk](https://intranet.merton.ox.ac.uk)
- - date_published: 2024-06-17T18:35:42.490775+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.ndorms.ox.ac.uk](https://intranet.ndorms.ox.ac.uk)
- - date_published: 2024-06-17T18:45:22.756863+00:00
-
- ## Sign In
- - [https://intranet.nuff.ox.ac.uk](https://intranet.nuff.ox.ac.uk)
- - date_published: 2024-06-15T04:38:09.696455+00:00
-
- ## Sign in to your account
- - [https://intranet.oii.ox.ac.uk](https://intranet.oii.ox.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Faculty of Asian and Middle Eastern Studies Intranet - Faculty of Asian and Middle Eastern Intranet
- - [http://intranet.orient.ox.ac.uk](http://intranet.orient.ox.ac.uk)
- - date_published: 2024-06-17T18:45:52.872046+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.ouce.ox.ac.uk](https://intranet.ouce.ox.ac.uk)
- - date_published: 2024-06-17T18:58:12.723018+00:00
-
- ## Log in | Pathology Intranet
- - [https://intranet.path.ox.ac.uk](https://intranet.path.ox.ac.uk)
- - date_published: 2024-06-17T18:57:47.862456+00:00
-
- ## Welcome | Pembroke Intranet
- - [https://intranet.pmb.ox.ac.uk](https://intranet.pmb.ox.ac.uk)
- - date_published: 2024-06-17T18:33:25.582962+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.politics.ox.ac.uk](https://intranet.politics.ox.ac.uk)
- - date_published: 2024-06-29T21:18:42.500848+00:00
-
- ## Login | ODID Intranet
- - [https://intranet.qeh.ox.ac.uk](https://intranet.qeh.ox.ac.uk)
- - date_published: 2024-06-17T18:37:09.885662+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://intranet.st-hughs.ox.ac.uk](https://intranet.st-hughs.ox.ac.uk)
- - date_published: 2024-06-17T18:32:40.022169+00:00
-
- ## Trinity College Intranet
- - [https://intranet.trinity.ox.ac.uk](https://intranet.trinity.ox.ac.uk)
- - date_published: 2023-07-31T16:24:07+00:00
-
- ## Home
- - [https://invisibleeast.web.ox.ac.uk](https://invisibleeast.web.ox.ac.uk)
- - date_published: 2024-06-17T18:45:43.854756+00:00
-
- ## Home
- - [https://it.museums.ox.ac.uk](https://it.museums.ox.ac.uk)
- - date_published: 2024-06-13T19:33:31+00:00
-
- ## Junior Common Room – Worcester College
- - [https://jcr.worc.ox.ac.uk](https://jcr.worc.ox.ac.uk)
- - date_published: 2024-06-17T18:34:58+00:00
-
- ## Jerugroup
- - [https://jerugroup.eng.ox.ac.uk](https://jerugroup.eng.ox.ac.uk)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Restricted access | Jesus College Oxford
- - [https://jesuscollegeintranet.web.ox.ac.uk](https://jesuscollegeintranet.web.ox.ac.uk)
- - date_published: 2024-06-17T18:46:01+00:00
-
- ## Home
- - [https://jobs.ox.ac.uk](https://jobs.ox.ac.uk)
- - date_published: 2024-06-16T04:59:53+00:00
-
- ## Home
- - [https://l4dc.web.ox.ac.uk](https://l4dc.web.ox.ac.uk)
- - date_published: 2024-06-20T22:20:18+00:00
-
- ## Home
- - [https://learningzone.oumnh.ox.ac.uk](https://learningzone.oumnh.ox.ac.uk)
- - date_published: 2024-06-13T19:43:16+00:00
-
- ## Professional services and University administration
- - [http://legal.admin.ox.ac.uk](http://legal.admin.ox.ac.uk)
- - date_published: 2024-06-13T09:23:19+00:00
-
- ## Oxford LibGuides: Subject and Research Guides: Home
- - [https://libguides.bodleian.ox.ac.uk](https://libguides.bodleian.ox.ac.uk)
- - date_published: 2024-06-17T18:18:15.892668+00:00
-
- ## Home | Lincoln College Oxford
- - [https://lincoln.ox.ac.uk](https://lincoln.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Login to Canvas - University of Oxford
- - [https://login.canvas.ox.ac.uk](https://login.canvas.ox.ac.uk)
- - date_published: 2024-06-17T18:20:07.402335+00:00
-
- ## Homepage | Laudato Si' Research Institute
- - [https://lsri.campion.ox.ac.uk](https://lsri.campion.ox.ac.uk)
- - date_published: 2024-06-17T18:35:13.076545+00:00
-
- ## Interactive Map
- - [http://maps.ox.ac.uk](http://maps.ox.ac.uk)
- - date_published: 2022-10-09T04:28:19+00:00
-
- ## Worcester College MCR – Welcome to Worcester MCR
- - [https://mcr.worc.ox.ac.uk](https://mcr.worc.ox.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://meals.oriel.ox.ac.uk](https://meals.oriel.ox.ac.uk)
- - date_published: 2024-06-17T18:31:55.336788+00:00
-
- ## IIS Windows Server
- - [http://meals.rpc.ox.ac.uk](http://meals.rpc.ox.ac.uk)
- - date_published: 2024-04-02T10:36:24+00:00
-
- ## SSO Login Service - Loading Session Information
- - [https://mediapub.it.ox.ac.uk](https://mediapub.it.ox.ac.uk)
- - date_published: 2024-06-17T18:20:29.524552+00:00
-
- ## Medieval Manuscripts in Oxford Libraries
- - [https://medieval.bodleian.ox.ac.uk](https://medieval.bodleian.ox.ac.uk)
- - date_published: 2024-08-06T19:19:27.259075+00:00
-
- ## HMC - Members
- - [https://members.hmc.ox.ac.uk](https://members.hmc.ox.ac.uk)
- - date_published: 2024-06-17T18:58:41.932291+00:00
-
- ## Home - Migration Observatory
- - [https://migrationobservatory.ox.ac.uk](https://migrationobservatory.ox.ac.uk)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Oxford Applied and Theoretical Machine Learning Group - OATML
- - [https://oatml.cs.ox.ac.uk](https://oatml.cs.ox.ac.uk)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home
- - [https://occupationalhealth.admin.ox.ac.uk](https://occupationalhealth.admin.ox.ac.uk)
- - date_published: 2024-06-13T19:34:44+00:00
-
- ## Oxford e-Research Centre, Department of Engineering Science at Oxford
- - [https://oerc.ox.ac.uk](https://oerc.ox.ac.uk)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home
- - [https://oess.web.ox.ac.uk](https://oess.web.ox.ac.uk)
- - date_published: 2024-06-16T16:15:45+00:00
-
- ## Online Support
- - [https://onlinesupport.conted.ox.ac.uk](https://onlinesupport.conted.ox.ac.uk)
- - date_published: 2024-06-17T18:20:24.634155+00:00
-
- ## Open access at Oxford University
- - [http://openaccess.ox.ac.uk](http://openaccess.ox.ac.uk)
- - date_published: 2024-06-13T19:27:52+00:00
-
- ## OPIG
- - [https://opig.stats.ox.ac.uk](https://opig.stats.ox.ac.uk)
- - date_published: 2024-06-17T18:58:25.856767+00:00
-
- ## ORA - Oxford University Research Archive
- - [http://ora.ouls.ox.ac.uk](http://ora.ouls.ox.ac.uk)
- - date_published: 2024-06-22T14:01:05.541923+00:00
-
- ## ORA - Oxford University Research Archive
- - [https://ora.ox.ac.uk](https://ora.ox.ac.uk)
- - date_published: 2024-05-08T09:46:31.226845+00:00
 

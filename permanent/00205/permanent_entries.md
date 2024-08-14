@@ -1,3 +1,151 @@
+ ## WVUToday Archive
+ - [http://wvutoday-archive.wvu.edu](http://wvutoday-archive.wvu.edu)
+ - date_published: 2023-01-06T19:05:52+00:00
+
+ ## WVU Today | Home
+ - [https://wvutoday.wvu.edu](https://wvutoday.wvu.edu)
+ - date_published: 2024-05-07T22:40:35.214056+00:00
+
+ ## Veterans | Home
+ - [https://wvuveterans.wvu.edu](https://wvuveterans.wvu.edu)
+ - date_published: 2024-05-07T22:40:16.198468+00:00
+
+ ## Access | Home
+ - [https://www.access.wvu.edu](https://www.access.wvu.edu)
+ - date_published: 2024-07-02T15:21:37.399121+00:00
+
+ ## Arts & Entertainment | Home
+ - [https://www.events.wvu.edu](https://www.events.wvu.edu)
+ - date_published: 2024-07-02T15:28:18.665685+00:00
+
+ ## Honors College | Home
+ - [https://www.honors.wvu.edu](https://www.honors.wvu.edu)
+ - date_published: 2023-10-17T00:00:00+00:00
+
+ ## WVU Health
+ - [https://www.hsc.wvu.edu](https://www.hsc.wvu.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | U92 the Moose | West Virginia University
+ - [https://www.u92.wvu.edu](https://www.u92.wvu.edu)
+ - date_published: 2024-07-02T15:28:57.072155+00:00
+
+ ## West Virginia University
+ - [https://www.wvu.edu](https://www.wvu.edu)
+ - date_published: 2024-05-07T22:39:50.408279+00:00
+
+ ## WVU Tech Admissions | Admissions Home
+ - [https://admissions.wvutech.edu](https://admissions.wvutech.edu)
+ - date_published: 2024-05-07T22:40:09.650600+00:00
+
+ ## Home | WVU Tech Career Services | West Virginia University Institute of Technology
+ - [https://careerservices.wvutech.edu](https://careerservices.wvutech.edu)
+ - date_published: 2024-07-02T15:21:03.602578+00:00
+
+ ## Dining | Home
+ - [https://dining.wvutech.edu](https://dining.wvutech.edu)
+ - date_published: 2024-07-02T15:20:31.275756+00:00
+
+ ## Emergency | WVU Tech Emergency | WVU Tech
+ - [https://emergency.wvutech.edu](https://emergency.wvutech.edu)
+ - date_published: 2023-12-10T00:00:00+00:00
+
+ ## Home | WVU Tech Financial Aid | West Virginia University Institute of Technology
+ - [http://finaid.wvutech.edu](http://finaid.wvutech.edu)
+ - date_published: 2024-07-02T15:19:21.511272+00:00
+
+ ## WVU Tech Housing | Home
+ - [https://housing.wvutech.edu](https://housing.wvutech.edu)
+ - date_published: 2024-07-02T15:20:52.116032+00:00
+
+ ## WVU Tech Police | Home
+ - [https://police.wvutech.edu](https://police.wvutech.edu)
+ - date_published: 2024-07-02T15:20:59.472886+00:00
+
+ ## Home | Student Success Center  | West Virginia University Institute of Technology
+ - [https://studentsuccesscenter.wvutech.edu](https://studentsuccesscenter.wvutech.edu)
+ - date_published: 2024-07-02T15:20:43.469361+00:00
+
+ ## Home | Students | West Virginia University Institute of Technology
+ - [https://students.wvutech.edu](https://students.wvutech.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Registrar Home | WVU Tech Registrar | West Virginia University Institute of Technology
+ - [http://techregistrar.wvutech.edu](http://techregistrar.wvutech.edu)
+ - date_published: 2024-07-02T15:20:57.268981+00:00
+
+ ## WVU Tech | Home
+ - [https://wvutech.edu](https://wvutech.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home | Academic Advising & Student Achievement Center | Western Washington University
+ - [https://aasac.wwu.edu](https://aasac.wwu.edu)
+ - date_published: 2024-07-01T21:00:40+00:00
+
+ ## Home | Admissions | Western Washington University
+ - [https://admissions.wwu.edu](https://admissions.wwu.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## AlumnIQ
+ - [https://alumniq.wwu.edu](https://alumniq.wwu.edu)
+ - date_published: 2024-05-07T22:40:58.271087+00:00
+
+ ## Home | The Foundation for WWU & Alumni | Western Washington University
+ - [https://alumni.wwu.edu](https://alumni.wwu.edu)
+ - date_published: 2024-07-02T15:42:43+00:00
+
+ ## Home | Admissions | Western Washington University
+ - [https://apply.wwu.edu](https://apply.wwu.edu)
+ - date_published: 2024-06-28T19:20:43+00:00
+
+ ## Associated Students Associated Students of WWU
+ - [http://as.wwu.edu](http://as.wwu.edu)
+ - date_published: 2024-07-02T15:35:09.650469+00:00
+
+ ## Home | ATUS | Western Washington University
+ - [https://atus.wwu.edu](https://atus.wwu.edu)
+ - date_published: 2024-07-02T15:42:51.211551+00:00
+
+ ## Home | Basic Needs Hub | Western Washington University
+ - [https://basicneeds.wwu.edu](https://basicneeds.wwu.edu)
+ - date_published: 2024-06-27T19:21:41+00:00
+
+ ## Business Services | Business Services | Western Washington University
+ - [https://business-services.wwu.edu](https://business-services.wwu.edu)
+ - date_published: 2024-06-27T20:37:34+00:00
+
+ ## Calendar Home | Events Calendar | Western Washington University
+ - [https://calendar.wwu.edu](https://calendar.wwu.edu)
+ - date_published: 2024-05-07T22:41:00.868845+00:00
+
+ ## Home | Campus Recreation | Western Washington University
+ - [https://campusrec.wwu.edu](https://campusrec.wwu.edu)
+ - date_published: 2024-06-27T22:48:01+00:00
+
+ ## Home | Career Services Center | Western Washington University
+ - [https://careercenter.wwu.edu](https://careercenter.wwu.edu)
+ - date_published: 2024-07-02T09:12:28+00:00
+
+ ## Western Washington University - Modern Campus Catalog™
+ - [https://catalog.wwu.edu](https://catalog.wwu.edu)
+ - date_published: 2024-07-02T15:32:51.146758+00:00
+
+ ## Western CEDAR
+ - [https://cedar.wwu.edu](https://cedar.wwu.edu)
+ - date_published: 2024-07-02T15:36:04.567419+00:00
+
+ ## Home | College of Fine and Performing Arts | Western Washington University
+ - [https://cfpa.wwu.edu](https://cfpa.wwu.edu)
+ - date_published: 2024-07-02T15:32:15+00:00
+
+ ## Home | College of Humanities and Social Sciences | Western Washington University
+ - [https://chss.wwu.edu](https://chss.wwu.edu)
+ - date_published: 2024-07-02T15:34:34+00:00
+
+ ## Home | Center for Instructional Innovation and Assessment | Western Washington University
+ - [https://cii.wwu.edu](https://cii.wwu.edu)
+ - date_published: 2024-06-27T19:25:42+00:00
+
  ## Home | Civil Rights and Title IX Compliance | Western Washington University
  - [https://crtc.wwu.edu](https://crtc.wwu.edu)
  - date_published: 2024-06-28T18:58:04+00:00
@@ -3918,153 +4066,4 @@
  ## Infraestructuras - Ayuntamiento de Córdoba - Inicio
  - [https://infraestructuras.cordoba.es](https://infraestructuras.cordoba.es)
  - date_published: 2024-05-07T23:00:53.268968+00:00
-
- ## Inicio - Planneo Córdoba Joven
- - [https://juventud.cordoba.es](https://juventud.cordoba.es)
- - date_published: 2024-05-07T23:01:09.356541+00:00
-
- ## Suscríbase a nuestras listas de correo
- - [https://listas.cordoba.es](https://listas.cordoba.es)
- - date_published: 2024-07-02T17:43:03.283969+00:00
-
- ## Movilidad, Accesibilidad y Transporte - Inicio
- - [https://movilidad.cordoba.es](https://movilidad.cordoba.es)
- - date_published: 2024-05-07T23:00:51.650999+00:00
-
- ## Oficina Virtual - Ayuntamiento de Córdoba - Inicio
- - [https://oficinavirtual.cordoba.es](https://oficinavirtual.cordoba.es)
- - date_published: 2024-05-07T23:00:37.802882+00:00
-
- ## Web de la Delegación de Participación Ciudadana de Córdoba
- - [https://participa.cordoba.es](https://participa.cordoba.es)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Inicio - Patios de Córdoba
- - [http://patios.cordoba.es](http://patios.cordoba.es)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Plan de Movilidad Urbana Sostenible de Córdoba
- - [https://pmus.cordoba.es](https://pmus.cordoba.es)
- - date_published: 2014-11-10T12:20:44+00:00
-
- ## Plataforma de solicitud de espacios, materiales y actividades | Delegación de participación Ciudadana
- - [https://recursosparticipa.cordoba.es](https://recursosparticipa.cordoba.es)
- - date_published: 2024-07-02T17:44:04.013568+00:00
-
- ## Salud Publica - Ayto. de Córdoba
- - [https://saludpublica.cordoba.es](https://saludpublica.cordoba.es)
- - date_published: 2024-05-07T23:01:16.227639+00:00
-
- ## Sede electrónica Ayuntamiento de Córdoba
- - [https://sede.cordoba.es](https://sede.cordoba.es)
- - date_published: 2024-05-07T23:01:10.904570+00:00
-
- ## Servicios Sociales Municipales - Servicios Sociales Municipales en Córdoba, España
- - [https://ssm.cordoba.es](https://ssm.cordoba.es)
- - date_published: 2024-05-07T23:00:44.432284+00:00
-
- ## Oficina Virtual Tributaria del Ayuntamiento de Córdoba
- - [https://tributos.cordoba.es](https://tributos.cordoba.es)
- - date_published: 2024-07-01T03:38:49.804374+00:00
-
- ## Ayuntamiento de Córdoba - Inicio
- - [https://cordoba.es](https://cordoba.es)
- - date_published: 2024-02-08T16:32:56.611931+00:00
-
- ## Página de inicio
- - [https://zoo.cordoba.es](https://zoo.cordoba.es)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Córdoba Estética
- - [http://www.cordoba2016.es](http://www.cordoba2016.es)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Corneilles
- - [https://corneill.es](https://corneill.es)
- - date_published: 2024-08-07T21:01:57.666230+00:00
-
- ## Corporación Voz de Galicia | Primer grupo multimedia de la comunidad
- - [https://corporacionvoz.es](https://corporacionvoz.es)
- - date_published: 2024-06-15T19:05:40.478002+00:00
-
- ## Bienvenido a Correos.es - El Portal Online de Correos
- - [https://www.correos.es](https://www.correos.es)
- - date_published: 2024-06-12T11:15:13.817567+00:00
-
- ## Cortes de Aragón - Parlamento: Cortes de Aragón - Parlamento
- - [https://www.cortesaragon.es](https://www.cortesaragon.es)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Concello da Coruña
- - [https://www.coruna.es](https://www.coruna.es)
- - date_published: 2024-06-22T22:21:16+00:00
-
- ## Cosmere.es - Cosmere
- - [https://cosmere.es](https://cosmere.es)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## CostaCoders.es Community
- - [https://costacoders.es](https://costacoders.es)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Creactivities - A chatbot that exercises your creative muscles
- - [https://creactiviti.es](https://creactiviti.es)
- - date_published: 2023-10-25T19:07:58.865084+00:00
-
- ## Critic|all — International Conference on Architectural Design and Criticism
- - [http://criticall.es](http://criticall.es)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## CRUPV Inicio - Conferencia de Rectores y Rectoras de las Universidades Públicas Valencianas (CRUPV)
- - [https://crupv.es](https://crupv.es)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Consejo Superior de Investigaciones Científicas
- - [https://www.csic.es](https://www.csic.es)
- - date_published: 2024-06-16T22:23:58.659745+00:00
-
- ## Institut Botànic de Barcelona - Centre mixt CSIC
- - [https://www.ibb.csic.es](https://www.ibb.csic.es)
- - date_published: 2024-06-16T22:23:09.346839+00:00
-
- ## CSS Guidelines (2.2.5) – High-level advice and guidelines for writing sane, manageable, scalable CSS
- - [https://cssguidelin.es](https://cssguidelin.es)
- - date_published: 2022-09-01T10:44:37+00:00
-
- ## ctrlz
- - [https://ctrlz.es](https://ctrlz.es)
- - date_published: 2024-05-09T08:25:28.249882+00:00
-
- ## fedi.ctrlz.es - GoToSocial
- - [https://fedi.ctrlz.es](https://fedi.ctrlz.es)
- - date_published: 2024-07-10T10:01:31.266687+00:00
-
- ## Umami
- - [https://umami.ctrlz.es](https://umami.ctrlz.es)
- - date_published: 2024-07-10T10:01:32.089278+00:00
-
- ## Ctxt.es
- - [https://ctxt.es](https://ctxt.es)
- - date_published: 2024-07-10T06:12:37.797508+00:00
-
- ## CARITOGEL > Situs Slot Gacor Toto Togel Online Mudah Menang Terbaru Hari Ini
- - [https://cualsitiodecitas.es](https://cualsitiodecitas.es)
- - date_published: 2024-05-11T10:50:31.270966+00:00
-
- ## Hazte au pair en Estados Unidos | Cultural Care
- - [https://www.culturalcare.es](https://www.culturalcare.es)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Currículum Online. Crea tu CV de forma profesional y fácil
- - [https://cvapp.es](https://cvapp.es)
- - date_published: 2024-05-06T09:21:27.009070+00:00
-
- ## Cvapp.es FAQ
- - [https://help.cvapp.es](https://help.cvapp.es)
- - date_published: 2024-06-22T22:18:33.204314+00:00
-
- ## Danny de Vries
- - [https://dandevri.es](https://dandevri.es)
- - date_published: 2024-05-07T23:16:05.704073+00:00
- - tags: ['personal']
 

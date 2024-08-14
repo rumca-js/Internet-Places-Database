@@ -1,3 +1,87 @@
+ ## Home
+ - [https://eu.desertsun.com](https://eu.desertsun.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Help Center - The Desert Sun
+ - [https://help.desertsun.com](https://help.desertsun.com)
+ - date_published: 2024-05-01T04:47:53.490499+00:00
+
+ ## Unsupported EU page
+ - [https://login.desertsun.com](https://login.desertsun.com)
+ - date_published: 2024-06-15T22:36:23.479703+00:00
+
+ ## Newsletters | The Desert Sun
+ - [https://profile.desertsun.com](https://profile.desertsun.com)
+ - date_published: 2024-05-01T04:47:52.040922+00:00
+
+ ## Unsupported EU page
+ - [https://subscribe.desertsun.com](https://subscribe.desertsun.com)
+ - date_published: 2024-06-15T22:36:18.704517+00:00
+
+ ## Products Archive - DES FORMES DE COMPENSATION
+ - [http://desformesdecompensation.com](http://desformesdecompensation.com)
+ - date_published: 2024-07-13T15:30:36.341862+00:00
+
+ ## D. E. Shaw group
+ - [https://www.deshaw.com](https://www.deshaw.com)
+ - date_published: 2024-07-07T03:23:07.386042+00:00
+
+ ## D. E. Shaw Research
+ - [http://www.deshawresearch.com](http://www.deshawresearch.com)
+ - date_published: 1951-03-29T00:00:00+00:00
+
+ ## Max Desiatov
+ - [https://desiatov.com](https://desiatov.com)
+ - date_published: 2023-02-16T18:30:56+00:00
+
+ ## Desiderata - Desiderata Poem - Desiderata Prints
+ - [https://www.desiderata.com](https://www.desiderata.com)
+ - date_published: 2018-07-03T20:25:30+00:00
+
+ ## Geoffrey Dorne Design : atelier de design graphique engagé
+ - [http://designandhuman.com](http://designandhuman.com)
+ - date_published: 2024-01-15T05:53:45+00:00
+
+ ## D&R Web Site -  Loading: Please Wait
+ - [https://static.designandreuse.com](https://static.designandreuse.com)
+ - date_published: 2013-03-18T06:32:25+00:00
+
+ ## Designatives
+ - [https://www.designatives.com](https://www.designatives.com)
+ - date_published: 2024-03-07T12:19:06+00:00
+
+ ## Engineered Solutions for a World in Motion - Designatronics Inc.
+ - [https://www.designatronics.com](https://www.designatronics.com)
+ - date_published: 2024-07-20T11:00:50.008989+00:00
+
+ ## Design Better Learning – Make learning that really works.
+ - [https://designbetterlearning.com](https://designbetterlearning.com)
+ - date_published: 2024-05-06T21:25:24.713868+00:00
+
+ ## Design Better | The Curiosity Department | Substack
+ - [https://designbetterpodcast.com](https://designbetterpodcast.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Design Bombs
+ - [http://www.designbombs.com](http://www.designbombs.com)
+ - date_published: 2024-07-20T03:55:33+00:00
+
+ ## designboom | architecture & design magazine
+ - [https://designboom.com](https://designboom.com)
+ - date_published: 2024-05-01T04:48:13.742123+00:00
+
+ ## designboom ad system
+ - [https://grinx.designboom.com](https://grinx.designboom.com)
+ - date_published: 2024-05-01T04:48:12.187289+00:00
+
+ ## Designbooth — Visual communication and corporate identity
+ - [https://designbooth.com](https://designbooth.com)
+ - date_published: 2024-06-21T15:05:53.883536+00:00
+
+ ## Home Page
+ - [https://www.designbygeometry.com](https://www.designbygeometry.com)
+ - date_published: 2024-07-03T18:04:29.588645+00:00
+
  ## Design By Humans Blog
  - [https://blog.designbyhumans.com](https://blog.designbyhumans.com)
  - date_published: 2024-05-01T04:48:22.297803+00:00
@@ -269,10 +353,6 @@
  ## Design Source Guide - Canadian Interiors
  - [https://designsourceguide.com](https://designsourceguide.com)
  - date_published: 2024-08-11T07:52:21.646909+00:00
-
- ## Design Source Guide - Canadian Interiors
- - [https://www.designsourceguide.com](https://www.designsourceguide.com)
- - date_published: 2024-08-11T07:52:16.915606+00:00
 
  ## Design Spells · Design details that feel like magic
  - [https://www.designspells.com](https://www.designspells.com)
@@ -1599,10 +1679,6 @@
  ## Sign in - Matomo
  - [https://stats.deveryware.com](https://stats.deveryware.com)
  - date_published: 2024-08-12T00:00:41.093553+00:00
-
- ## ChapsVision CyberGov
- - [https://www.deveryware.com](https://www.deveryware.com)
- - date_published: 2024-02-08T00:00:00+00:00
 
  ## About Devex
  - [https://about.devex.com](https://about.devex.com)
@@ -3958,81 +4034,4 @@ A blog about programming, distributed systems and others
  ## Electronic Component and Engineering Solution Forum - TechForum │ DigiKey
  - [https://forum.digikey.com](https://forum.digikey.com)
  - date_published: 2024-05-01T00:00:00+00:00
-
- ## DigiKey Home
- - [https://info.digikey.com](https://info.digikey.com)
- - date_published: 2024-05-01T05:04:14.761098+00:00
-
- ## DigiKey - Electronic Components Distributor
- - [https://www.digikey.com](https://www.digikey.com)
- - date_published: 2023-10-25T13:52:05.828216+00:00
- - tags: ['electronic parts']
-
- ## DIGILENT Email Marketing
- - [https://ac.digilent.com](https://ac.digilent.com)
- - date_published: 2024-05-01T05:10:52.156164+00:00
-
- ## Digilent Cloud
- - [https://cloud.digilent.com](https://cloud.digilent.com)
- - date_published: 2024-05-01T05:10:43.873085+00:00
-
- ## Digilent – Start Smart, Build Brilliant.
- - [https://digilent.com](https://digilent.com)
- - date_published: 2023-10-25T13:52:09.931723+00:00
-
- ## Digilent Forum
- - [https://forum.digilent.com](https://forum.digilent.com)
- - date_published: 2024-05-01T05:10:40.599616+00:00
-
- ## Digilent – Start Smart, Build Brilliant.
- - [https://store.digilentinc.com](https://store.digilentinc.com)
- - date_published: 2024-05-22T14:09:50.085808+00:00
-
- ## Digital Library
- - [http://digi-libris.com](http://digi-libris.com)
- - date_published: 2024-07-08T14:09:06.526840+00:00
-
- ## Digilityx - Agence de conseil  & Start-up Studio
- - [http://www.digilityx.com](http://www.digilityx.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Digital Insurance Events Redirect
- - [https://conference.dig-in.com](https://conference.dig-in.com)
- - date_published: 2024-07-01T09:13:08.599912+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.digindemo.com](https://www.digindemo.com)
- - date_published: 2024-07-10T04:06:17.104034+00:00
-
- ## Seasonal, fresh, healthy food | DIG
- - [https://www.diginn.com](https://www.diginn.com)
- - date_published: 2024-07-20T16:34:11.194106+00:00
-
- ## DigiPen Game Studios
- - [https://www.digipengamestudios.com](https://www.digipengamestudios.com)
- - date_published: 2024-07-14T10:34:13.366441+00:00
-
- ## Home - Digipesa
- - [https://digipesa.com](https://digipesa.com)
- - date_published: 2024-06-16T05:13:40.839610+00:00
-
- ## Home | Digital Purpose
- - [https://digipurpose.com](https://digipurpose.com)
- - date_published: 2023-06-22T09:15:49+00:00
-
- ## DigiSomni | Metaverse Development
- - [https://digisomni.com](https://digisomni.com)
- - date_published: 2024-07-11T12:54:59.878594+00:00
-
- ## Karriere bei Digistore24
- - [https://careers.digistore24.com](https://careers.digistore24.com)
- - date_published: 2024-06-20T02:21:27.076215+00:00
-
- ## Digistore24-Developers
- - [https://dev.digistore24.com](https://dev.digistore24.com)
- - date_published: 2024-06-20T02:21:13.903947+00:00
-
- ## Digistore24
- - [https://digistore24.com](https://digistore24.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

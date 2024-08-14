@@ -1,3 +1,133 @@
+ ## BBC Science Focus Magazine - science, nature, technology, Q&As
+ - [https://sciencefocus.com](https://sciencefocus.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## ScienceFriday.com
+ - [https://sciencefriday.com](https://sciencefriday.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Science Friday Store
+ - [https://sciencefridaystore.com](https://sciencefridaystore.com)
+ - date_published: 2024-04-29T02:29:01.629768+00:00
+
+ ## Science Gallery Melbourne
+ - [https://melbourne.sciencegallery.com](https://melbourne.sciencegallery.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Science Heroes News
+ - [https://scienceheroes.com](https://scienceheroes.com)
+ - date_published: 2024-07-07T07:19:20+00:00
+
+ ## Science Fiction Essay Examples - Only The Best to Spark Your Inspiration! | WOWESSAYS™
+ - [http://scienceinmyfiction.com](http://scienceinmyfiction.com)
+ - date_published: 2020-02-25T00:00:00+00:00
+
+ ## Science Integrity Digest
+ - [https://scienceintegritydigest.com](https://scienceintegritydigest.com)
+ - date_published: 2024-05-04T06:41:53.853349+00:00
+
+ ## Science is Weird
+ - [https://scienceisweird.com](https://scienceisweird.com)
+ - date_published: 2024-05-08T09:58:00.187015+00:00
+ - tags: ['education', 'science']
+
+ ## ScienceLogic - AIOps and IT Infrastructure Monitoring Platform
+ - [https://sciencelogic.com](https://sciencelogic.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Science Mastodon
+ - [https://sciencemastodon.com](https://sciencemastodon.com)
+ - date_published: 2024-04-30T05:57:44.155281+00:00
+
+ ## Science of Copywriting – Weekly Hints and Tips for Copywriters
+ - [https://scienceofcopywriting.com](https://scienceofcopywriting.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## The Science of Doom
+ - [https://scienceofdoom.com](https://scienceofdoom.com)
+ - date_published: 2024-05-07T15:17:13.416319+00:00
+ - tags: ['global warming', 'climate change']
+
+ ## Private Site
+ - [https://scienceofmom.com](https://scienceofmom.com)
+ - date_published: 2024-06-17T10:27:31.868666+00:00
+
+ ## Coming Soon
+ - [http://beta.scienceofrunning.com](http://beta.scienceofrunning.com)
+ - date_published: 2016-05-05T03:19:55+00:00
+
+ ## About ScienceOpen
+ - [https://about.scienceopen.com](https://about.scienceopen.com)
+ - date_published: 2024-06-17T18:04:25.387093+00:00
+
+ ## ScienceOpen Blog
+ - [http://blog.scienceopen.com](http://blog.scienceopen.com)
+ - date_published: 2024-06-17T18:04:15.525646+00:00
+
+ ## Home - ScienceOpen
+ - [https://home.scienceopen.com](https://home.scienceopen.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## ScienceOpen
+ - [https://scienceopen.com](https://scienceopen.com)
+ - date_published: 2024-06-17T18:04:33.648598+00:00
+
+ ## UCL Open
+ - [https://ucl.scienceopen.com](https://ucl.scienceopen.com)
+ - date_published: 2024-06-17T18:04:10.978411+00:00
+
+ ## Science and medical images, photos, illustrations, video footage - Science Photo Library
+ - [http://www.sciencephoto.com](http://www.sciencephoto.com)
+ - date_published: 2024-06-24T07:44:25+00:00
+
+ ## Science Shot: Professional Insights, Unique Perspectives.
+ - [https://www.scienceshot.com](https://www.scienceshot.com)
+ - date_published: 2023-12-29T20:02:33.354446+00:00
+
+ ## Science Speak Home Page
+ - [https://sciencespeak.com](https://sciencespeak.com)
+ - date_published: 2019-09-30T02:03:22+00:00
+
+ ## ScienceSwitch – Exploring the Depths of Curiosity
+ - [https://scienceswitch.com](https://scienceswitch.com)
+ - date_published: 2023-10-25T16:59:08.691306+00:00
+
+ ## 技術セミナーの開催・書籍出版　サイエンス＆テクノロジー＜Ｓ＆Ｔ＞
+ - [https://www.science-t.com](https://www.science-t.com)
+ - date_published: 2024-06-22T10:57:29.275393+00:00
+
+ ## Science The World – Science The World: An Engineering Education Research Group
+ - [http://sciencetheworld.com](http://sciencetheworld.com)
+ - date_published: 2024-05-13T03:26:25.576854+00:00
+
+ ## ScienceWatch.com - Clarivate
+ - [http://archive.sciencewatch.com](http://archive.sciencewatch.com)
+ - date_published: 2024-06-19T16:57:31.098919+00:00
+
+ ## Science X Network :: Phys.org, Medical Xpress, Tech Xplore
+ - [https://sciencex.com](https://sciencex.com)
+ - date_published: 2024-05-04T14:59:52.423796+00:00
+
+ ## Sciencing
+ - [https://sciencing.com](https://sciencing.com)
+ - date_published: 2024-05-06T13:17:16.149680+00:00
+ - tags: ['science news']
+
+ - [https://intapi.sciendo.com](https://intapi.sciendo.com)
+ - date_published: 2024-02-24T09:58:14.488510+00:00
+
+ ## Sciendo
+ - [https://sciendo.com](https://sciendo.com)
+ - date_published: 2024-05-08T16:50:11.696264+00:00
+
+ ## Scienmag | Science Magazine : Latest Discoveries in Cancer, Medicine,
+ - [https://scienmag.com](https://scienmag.com)
+ - date_published: 2024-05-07T22:44:23.762091+00:00
+
+ ## Scientech Technologies - Education, Training, Testing Instrument and Renewable Solutions
+ - [https://www.scientechworld.com](https://www.scientechworld.com)
+ - date_published: 2024-06-17T01:57:42.829031+00:00
+
  ## 2nd International Conference on Dermatology and Cosmetology
  - [https://www.dermatology.scientexconference.com](https://www.dermatology.scientexconference.com)
  - date_published: 2024-05-09T05:39:59.905013+00:00
@@ -3935,135 +4065,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## Kew Gardens From Kew Gardens
  - [https://kewgardens.seetickets.com](https://kewgardens.seetickets.com)
  - date_published: 2024-06-17T20:13:30.617427+00:00
-
- ## Laughterama From Laughterama
- - [https://laughterama.seetickets.com](https://laughterama.seetickets.com)
- - date_published: 2024-06-17T20:13:45.612755+00:00
-
- ## BILLETTERIE LE PRINTEMPS DE BOURGES CREDIT MUTUEL
- - [https://leprintempsdebourges.seetickets.com](https://leprintempsdebourges.seetickets.com)
- - date_published: 2024-05-08T00:39:31.197982+00:00
-
- ## Les Vieilles Charrues 2024 Billetterie Officielle : Pass, places et billets
- - [https://lesvieillescharrues.seetickets.com](https://lesvieillescharrues.seetickets.com)
- - date_published: 2024-07-20T14:53:58.349170+00:00
-
- ## MOTOCULTOR 2023 Billetterie Officielle : Pass, places et billets
- - [https://motocultor.seetickets.com](https://motocultor.seetickets.com)
- - date_published: 2024-05-20T06:33:29.688375+00:00
-
- ## El Fantasma de la Ópera Desde Musical El Fantasma De La Opera
- - [https://musicalelfantasmadelaopera.seetickets.com](https://musicalelfantasmadelaopera.seetickets.com)
- - date_published: 2024-07-04T03:14:05.349540+00:00
-
- ## See Tickets - Music, Theatre and Event Tickets
- - [https://naturalezaencendidabilbao.seetickets.com](https://naturalezaencendidabilbao.seetickets.com)
- - date_published: 2024-07-04T03:14:09.067469+00:00
-
- ## See Tickets - Music, Theatre and Event Tickets
- - [https://seetickets.com](https://seetickets.com)
- - date_published: 2024-06-17T20:44:23+00:00
- - tags: ['events', 'tickets']
-
- ## Festival Solidays
- - [https://solidays.seetickets.com](https://solidays.seetickets.com)
- - date_published: 2024-07-20T14:54:04.937519+00:00
-
- ## See Tickets - Music, Theatre and Event Tickets
- - [https://songkick.seetickets.com](https://songkick.seetickets.com)
- - date_published: 2024-05-02T11:21:22.193103+00:00
-
- ## Ticket Options
- - [https://starsofthespectrum.seetickets.com](https://starsofthespectrum.seetickets.com)
- - date_published: 2024-06-24T05:33:56.333275+00:00
-
- ## The British Library - Ticket Options
- - [https://thebritishlibrary.seetickets.com](https://thebritishlibrary.seetickets.com)
- - date_published: 2024-06-18T11:40:22.735119+00:00
-
- ## Buy Tickets
- - [https://zsllondonzoo.seetickets.com](https://zsllondonzoo.seetickets.com)
- - date_published: 2024-06-17T20:13:46.347900+00:00
-
- ## SeeYA Technology_视涯技术
- - [https://seeya-tech.com](https://seeya-tech.com)
- - date_published: 2024-05-11T07:18:23.691231+00:00
-
- ## HITS
- - [https://hits.seeyoufarm.com](https://hits.seeyoufarm.com)
- - date_published: 2024-05-11T07:04:14.957232+00:00
-
- ## SeforimDeals.com
- - [https://seforimdeals.com](https://seforimdeals.com)
- - date_published: 2024-05-25T04:34:42.193507+00:00
-
- ## Job Opportunities
- - [https://careers.sega.com](https://careers.sega.com)
- - date_published: 2024-07-17T12:24:28.907928+00:00
-
- ## Like a Dragon: Infinite Wealth
- - [https://infinitewealth.sega.com](https://infinitewealth.sega.com)
- - date_published: 2024-03-18T21:33:02+00:00
-
- ## Like A Dragon
- - [https://likeadragon.sega.com](https://likeadragon.sega.com)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## SEGA SignUp Form
- - [https://newsletter.sega.com](https://newsletter.sega.com)
- - date_published: 2023-03-22T16:58:04+00:00
-
- ## Home | SEGA Privacy Hub
- - [https://privacy.sega.com](https://privacy.sega.com)
- - date_published: 2024-05-13T03:57:56.972716+00:00
-
- ## Samba de Amigo
- - [https://sambadeamigo.sega.com](https://sambadeamigo.sega.com)
- - date_published: 2024-03-25T21:49:42+00:00
-
- ## SEGA
- - [https://sega.com](https://sega.com)
- - date_published: 2024-05-13T03:57:56.119609+00:00
- - tags: ['total war', 'video game developer', 'sonic', 'persona']
-
- ## SEGA Shop | The Official Shop of SEGA
- - [https://shop.sega.com](https://shop.sega.com)
- - date_published: 2024-05-13T03:58:01.591744+00:00
-
- ## Sonic Rumble | SEGA
- - [https://sonicrumble.sega.com](https://sonicrumble.sega.com)
- - date_published: 2024-05-13T03:57:43.619150+00:00
- - tags: ['sonic', 'video game']
-
- ## SEGA Support
- - [https://support.sega.com](https://support.sega.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Like a Dragon: Infinite Wealth
- - [http://yakuza.sega.com](http://yakuza.sega.com)
- - date_published: 2024-03-18T21:33:02+00:00
-
- ## SEGADriven
- - [https://segadriven.com](https://segadriven.com)
- - date_published: 2024-05-13T03:57:46.003089+00:00
-
- ## segagagadomain.com
- - [https://segagagadomain.com](https://segagagadomain.com)
- - date_published: 2024-04-28T04:41:30.799396+00:00
-
- ## on.code && such
- - [https://ylan.segal-family.com](https://ylan.segal-family.com)
- - date_published: 2024-07-23T23:27:10.239265+00:00
-
- ## Indigo Pearl PressXtra.Net
- - [https://sega-press.com](https://sega-press.com)
- - date_published: 2024-06-28T18:58:02.646758+00:00
-
- ## Suspended!
- - [http://www.segarcadia.com](http://www.segarcadia.com)
- - date_published: 2024-08-07T08:54:40.832345+00:00
-
- ## Justin Ahinon
- - [https://segbedji.com](https://segbedji.com)
- - date_published: 2024-01-15T14:06:16.038608+00:00
 

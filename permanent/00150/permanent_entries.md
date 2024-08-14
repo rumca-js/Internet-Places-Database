@@ -1,3 +1,159 @@
+ ## Texas Gun Talk - The Premier Texas Gun Forum
+ - [http://www.texasguntalk.com](http://www.texasguntalk.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Texas Hill Country
+ - [http://texashillcountry.com](http://texashillcountry.com)
+ - date_published: 2024-07-10T11:00:38.114516+00:00
+
+ ## Border Programs Team
+ - [https://texashomelandsecurity.com](https://texashomelandsecurity.com)
+ - date_published: 2024-05-10T05:17:21.205250+00:00
+
+ ## Texas Institute for Property Rights
+ - [https://texasipr.com](https://texasipr.com)
+ - date_published: 2024-06-20T04:20:19.667455+00:00
+
+ ## TexasJet : Home
+ - [http://texasjet.com](http://texasjet.com)
+ - date_published: 2024-06-15T15:17:33.493505+00:00
+
+ ## BlueConic: Log In
+ - [https://5103c0n1c.texasmonthly.com](https://5103c0n1c.texasmonthly.com)
+ - date_published: 2024-05-06T16:11:39.808010+00:00
+
+ ## Texas Monthly – The National Magazine of Texas
+ - [https://accounts.texasmonthly.com](https://accounts.texasmonthly.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://img.texasmonthly.com](https://img.texasmonthly.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Texas Monthly Newsstand
+ - [https://store.texasmonthly.com](https://store.texasmonthly.com)
+ - date_published: 2024-05-06T16:11:35.302512+00:00
+
+ ## Texas Monthly Studio
+ - [https://studio.texasmonthly.com](https://studio.texasmonthly.com)
+ - date_published: 2024-05-06T16:11:42.533556+00:00
+
+ ## CDS Global : w1.buysub.com
+ - [https://subscribe.texasmonthly.com](https://subscribe.texasmonthly.com)
+ - date_published: 2024-05-06T16:11:36.531518+00:00
+
+ ## CDS Global : w1.buysub.com
+ - [https://subscription.texasmonthly.com](https://subscription.texasmonthly.com)
+ - date_published: 2024-05-06T16:11:38.252394+00:00
+
+ ## Texas Monthly – The National Magazine of Texas
+ - [https://www.texasmonthly.com](https://www.texasmonthly.com)
+ - date_published: 2023-10-25T11:06:35.427848+00:00
+
+ ## Home | Texas Press Association
+ - [http://www.texaspress.com](http://www.texaspress.com)
+ - date_published: 2024-06-15T15:31:30.184728+00:00
+
+ ## Public Notices Texas State | Texas State Press Association
+ - [https://texaspublicnotices.com](https://texaspublicnotices.com)
+ - date_published: 2024-05-01T03:43:05.719931+00:00
+
+ ## Texas Rattlers The Texas Rattlers are a team in the Professional Bull Riders (PBR) Team Series Championship. The se
+ - [https://texasrattlers.com](https://texasrattlers.com)
+ - date_published: 2024-07-11T21:15:10+00:00
+
+ ## Texas Snowbird Vacation Rentals by Owner | Winter Texans, TX Monthly and Multi-Month Offseason Homes, Condos, Villas, Apartments and more - Warm Winter Rentals in October, November, December, January, February, March and April Rentals on the American Snowbird Network
+ - [http://www.texassnowbird.com](http://www.texassnowbird.com)
+ - date_published: 2024-07-14T12:34:36.273250+00:00
+
+ ## BBQ Grills & Outdoor Kitchens | Texas Star Grill Shop
+ - [https://texasstargrillshop.com](https://texasstargrillshop.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Texas Student Media
+ - [https://texasstudentmedia.com](https://texasstudentmedia.com)
+ - date_published: 2024-08-06T07:14:28.299202+00:00
+
+ ## Full Service Accounting Firm, Weslaco CPA | Gonzalez & Arrambide, Inc.
+ - [https://www.texas-tax-cpa.com](https://www.texas-tax-cpa.com)
+ - date_published: 2024-06-22T06:08:34.798053+00:00
+
+ ## Texas Treats | Buy Custom Gift Boxes & Texas Foods Online
+ - [https://texastreats.com](https://texastreats.com)
+ - date_published: 2024-07-04T06:34:59.488966+00:00
+
+ ## Texas Trust CU Theatre at Grand Prairie
+ - [https://texastrustcutheatre.com](https://texastrustcutheatre.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Texas Tuition Promise Fund
+ - [https://www.texastuitionpromisefund.com](https://www.texastuitionpromisefund.com)
+ - date_published: 2024-07-12T13:47:16.763407+00:00
+
+ ## TexElec
+ - [https://texelec.com](https://texelec.com)
+ - date_published: 2024-05-13T06:18:29.932761+00:00
+
+ ## Business the Texas Way | Texas Precious Metals
+ - [http://www.texmetals.com](http://www.texmetals.com)
+ - date_published: 2024-06-29T13:24:28.784728+00:00
+
+ ## Homepage - Texoma FC
+ - [https://www.texomafc.com](https://www.texomafc.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Text Platform | Chat framework for innovative teams
+ - [https://platform.text.com](https://platform.text.com)
+ - date_published: 2024-07-08T20:34:20.310986+00:00
+
+ ## Text - AI-powered technology for customer service software
+ - [https://text.com](https://text.com)
+ - date_published: 2024-06-18T11:05:56.048786+00:00
+
+ ## Text2Infographic
+ - [https://text2infographic.com](https://text2infographic.com)
+ - date_published: 2024-06-14T08:52:02.214645+00:00
+
+ ## textarea please
+ - [https://textareaplease.com](https://textareaplease.com)
+ - date_published: 2024-07-23T23:42:57.860560+00:00
+
+ ## CUNY City College of New York Online Bookstore
+ - [http://ccny.textbookx.com](http://ccny.textbookx.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## University of California Santa Cruz Online Bookstore
+ - [https://ucsc.textbookx.com](https://ucsc.textbookx.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Plain English Text Analyzer Tool - Textbuddy.com
+ - [https://textbuddy.com](https://textbuddy.com)
+ - date_published: 2024-06-19T18:49:54.488396+00:00
+
+ ## TextCaster - Log In
+ - [https://my.textcaster.com](https://my.textcaster.com)
+ - date_published: 2024-05-07T14:04:58.877507+00:00
+
+ ## Text Control: Digital Document Processing Components for Developers of Web, Mobile, Cloud and Desktop Applications
+ - [https://www.textcontrol.com](https://www.textcontrol.com)
+ - date_published: 2024-07-03T20:02:53.791861+00:00
+
+ ## TextCortex: One AI copilot that truly gets you.
+ - [https://textcortex.com](https://textcortex.com)
+ - date_published: 2024-06-19T19:49:54.678652+00:00
+
+ ## Mass Text Messaging & Calling | Text-Em-All
+ - [https://www.text-em-all.com](https://www.text-em-all.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Travel Weekly - July 1, 2024 - page1
+ - [https://travelweekly.texterity.com](https://travelweekly.texterity.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## TextExpander – Productivity App | Text Expander
+ - [https://auth.textexpander.com](https://auth.textexpander.com)
+ - date_published: 2024-06-20T16:22:29+00:00
+
  ## TextExpander – Productivity App | Text Expander
  - [https://snippets.textexpander.com](https://snippets.textexpander.com)
  - date_published: 2024-06-20T16:22:26+00:00
@@ -2235,7 +2391,7 @@
  - date_published: 2024-07-04T04:55:30.456039+00:00
 
  ## The Climate Brink | Andrew Dessler | Substack
- - [https://www.theclimatebrink.com](https://www.theclimatebrink.com)
+ - [https://theclimatebrink.com](https://theclimatebrink.com)
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## Be the planet’s turning point
@@ -2893,10 +3049,6 @@
  ## CVF Open Access
  - [https://openaccess.thecvf.com](https://openaccess.thecvf.com)
  - date_published: 2024-04-28T03:26:58.860663+00:00
-
- ## The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer vision
- - [http://thecvf.com](http://thecvf.com)
- - date_published: 2024-02-16T00:00:00+00:00
 
  ## Home | WACV 2021
  - [https://wacv2021.thecvf.com](https://wacv2021.thecvf.com)
@@ -3889,157 +4041,4 @@ Foods | Vegan Egg Protein
  ## The Film Stage
  - [https://thefilmstage.com](https://thefilmstage.com)
  - date_published: 2023-12-22T03:37:59.659840+00:00
-
- ## The Final Experiment - Antarctica
- - [https://www.the-final-experiment.com](https://www.the-final-experiment.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## The Final Hop
- - [https://www.thefinalhop.com](https://www.thefinalhop.com)
- - date_published: 2023-10-25T17:32:53.667976+00:00
-
- ## The Finance Data | Banking and Finance B2B News Portal | Magazine
- - [http://thefinancedata.com](http://thefinancedata.com)
- - date_published: 2023-06-07T06:03:01+00:00
-
- ## Reviews On Investing, Budgets, Insurance & Money Apps – Finance Twins
- - [https://thefinancetwins.com](https://thefinancetwins.com)
- - date_published: 2024-06-23T21:22:21+00:00
-
- ## Home - The Financial Bodyguard Blog Site
- - [https://thefinancialbodyguard.com](https://thefinancialbodyguard.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://thefinancialbrand.com](https://thefinancialbrand.com)
- - date_published: 2024-06-23T10:02:20.653070+00:00
-
- ## The Financial Diet
- - [https://join.thefinancialdiet.com](https://join.thefinancialdiet.com)
- - date_published: 2024-06-24T07:59:16.178709+00:00
-
- ## Home - The Financial Diet
- - [https://thefinancialdiet.com](https://thefinancialdiet.com)
- - date_published: 2023-10-25T17:32:55.918295+00:00
-
- ## The Destination for Fintech News & Intel — The Financial Revolutionist
- - [https://thefinancialrevolutionist.com](https://thefinancialrevolutionist.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home - Chris Skinner's blog
- - [https://thefinanser.com](https://thefinanser.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## The Fincher Analyst
- - [https://thefincheranalyst.com](https://thefincheranalyst.com)
- - date_published: 2024-06-19T06:42:54+00:00
- - tags: ['david fincher', 'fan page', 'fight club']
-
- ## The Finish Studio
- - [https://www.thefinishstudio.com](https://www.thefinishstudio.com)
- - date_published: 2024-06-21T21:18:25.321505+00:00
-
- ## The Financial Technology Revolution | The Fintech Mag
- - [https://thefintechmag.com](https://thefintechmag.com)
- - date_published: 2024-07-11T10:30:25.335568+00:00
-
- ## Fintech News & Reviews Daily | The Fintech Times
- - [https://thefintechtimes.com](https://thefintechtimes.com)
- - date_published: 2023-10-25T17:32:58.805761+00:00
-
- ## The Firearm Blog - Firearms not Politics
- - [https://www.thefirearmblog.com](https://www.thefirearmblog.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## The Firearms Forum
- - [https://www.thefirearmsforum.com](https://www.thefirearmsforum.com)
- - date_published: 2024-07-04T00:00:41+00:00
-
- ## The Firing Line
- - [https://thefiringline.com](https://thefiringline.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## The First Epidemic
- - [https://www.thefirstepidemic.com](https://www.thefirstepidemic.com)
- - date_published: 2024-07-21T23:12:33.622313+00:00
-
- ## The First Gen Mentor
- - [https://www.thefirstgenmentor.com](https://www.thefirstgenmentor.com)
- - date_published: 2024-06-19T23:07:26.613140+00:00
-
- ## The First News - entertaining, engaging and informative news on Poland
- - [https://www.thefirstnews.com](https://www.thefirstnews.com)
- - date_published: 2023-12-20T11:04:56.371713+00:00
-
- ## The Fiscal Times
- - [https://www.thefiscaltimes.com](https://www.thefiscaltimes.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Fisherman's Village Music Fest 2024
- - [https://www.thefishermansvillage.com](https://www.thefishermansvillage.com)
- - date_published: 2024-07-09T15:14:12.234041+00:00
-
- ## The Fishermen & the Priestess
- - [https://thefishermenandthepriestess.com](https://thefishermenandthepriestess.com)
- - date_published: 2023-04-10T04:32:01+00:00
-
- ## Home - The Financial Independence Show
- - [https://thefishow.com](https://thefishow.com)
- - date_published: 2024-05-07T09:32:06.519467+00:00
-
- ## The Fitzwilliam | Fitzwilliam Staff | Substack
- - [https://www.thefitzwilliam.com](https://www.thefitzwilliam.com)
- - date_published: 2023-10-25T17:33:02.110637+00:00
-
- ## The Five Connections – Award Winning Book – The People You Need To Discover To Grow and Scale Your Business by Simon Hedley
- - [https://www.thefiveconnections.com](https://www.thefiveconnections.com)
- - date_published: 2024-08-05T23:12:47.683835+00:00
-
- ## The Flag Corp
- - [https://www.theflagcorp.com](https://www.theflagcorp.com)
- - date_published: 2024-07-08T13:05:54+00:00
-
- ## Flat Earth Sun & Moon Clock App - The Flat Earth Clock App
- - [https://theflatearthclockapp.com](https://theflatearthclockapp.com)
- - date_published: 2024-07-03T18:35:43.055450+00:00
-
- ## The Flat Earth Podcast – DITRH
- - [https://theflatearthpodcast.com](https://theflatearthpodcast.com)
- - date_published: 2024-05-08T03:34:32.454572+00:00
-
- ## Flip Houses Like a Girl
- - [https://podcast.theflipstress.com](https://podcast.theflipstress.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## How to Start Flipping Houses in Any Market
- - [https://theflipstress.com](https://theflipstress.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## TheFlooringidea -
- - [https://cdn-0.theflooringidea.com](https://cdn-0.theflooringidea.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## TheFlooringidea -
- - [https://theflooringidea.com](https://theflooringidea.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home - The Florida Scoop
- - [https://thefloridascoop.com](https://thefloridascoop.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Flow Space
- - [https://www.theflowspace.com](https://www.theflowspace.com)
- - date_published: 2024-08-06T21:13:41.975648+00:00
-
- ## The Focus Course
- - [https://thefocuscourse.com](https://thefocuscourse.com)
- - date_published: 2024-06-19T23:38:34.690363+00:00
-
- ## Home page - The Fold Line
- - [https://thefoldline.com](https://thefoldline.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## The Folk Music Podcast
- - [https://thefolkmusicpodcast.com](https://thefolkmusicpodcast.com)
- - date_published: 2024-08-08T03:45:12.300644+00:00
 

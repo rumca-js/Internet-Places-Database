@@ -1,3 +1,163 @@
+ ## Lieutenant Governor Dianne Primavera | Lt. Governors Office
+ - [https://ltgovernor.colorado.gov](https://ltgovernor.colorado.gov)
+ - date_published: 2024-06-18T01:36:37+00:00
+
+ ## MyBizColorado
+ - [https://mybiz.colorado.gov](https://mybiz.colorado.gov)
+ - date_published: 2024-05-08T03:06:12+00:00
+
+ ## CO myDMV
+ - [https://mydmv.colorado.gov](https://mydmv.colorado.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home | Colorado Office of Economic Development and International Trade
+ - [https://oedit.colorado.gov](https://oedit.colorado.gov)
+ - date_published: 2024-06-18T11:11:26+00:00
+
+ ## Home | Colorado State Internet Rules Portal
+ - [https://rulemaking.colorado.gov](https://rulemaking.colorado.gov)
+ - date_published: 2024-06-18T01:03:28+00:00
+
+ ## TRACER - Home
+ - [https://tracer.sos.colorado.gov](https://tracer.sos.colorado.gov)
+ - date_published: 2024-06-18T12:50:05.527058+00:00
+
+ ## Home | Colorado Department of the Treasury
+ - [https://treasury.colorado.gov](https://treasury.colorado.gov)
+ - date_published: 2024-06-18T00:24:47+00:00
+
+ ## Home | Colorado.gov
+ - [https://www.colorado.gov](https://www.colorado.gov)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Colorado Courts Livestreaming
+ - [https://live.coloradojudicial.gov](https://live.coloradojudicial.gov)
+ - date_published: 2024-05-02T12:52:27.483230+00:00
+
+ ## Colorado Secretary of State
+ - [https://coloradosos.gov](https://coloradosos.gov)
+ - date_published: 2024-06-17T22:49:37+00:00
+
+ ## City of Columbus, Ohio
+ - [https://www.columbus.gov](https://www.columbus.gov)
+ - date_published: 2024-07-01T07:27:47.994312+00:00
+
+ ## Department of Commerce
+ - [https://2001-2009.commerce.gov](https://2001-2009.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Department of Commerce
+ - [http://2010-2014.commerce.gov](http://2010-2014.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Assess Costs Everywhere
+ - [http://acetool.commerce.gov](http://acetool.commerce.gov)
+ - date_published: 2024-07-03T13:32:47.459901+00:00
+
+ ## Homepage
+ - [http://beta.commerce.gov](http://beta.commerce.gov)
+ - date_published: 2024-07-03T13:32:54.255960+00:00
+
+ ## Homepage
+ - [https://commerce.gov](https://commerce.gov)
+ - date_published: 2024-05-08T02:37:16.643330+00:00
+
+ ## Homepage
+ - [https://data.commerce.gov](https://data.commerce.gov)
+ - date_published: 2024-05-08T02:37:23.001708+00:00
+
+ ## Department of Commerce
+ - [http://dir.commerce.gov](http://dir.commerce.gov)
+ - date_published: 2016-06-06T21:22:55+00:00
+
+ ## Homepage
+ - [http://open.commerce.gov](http://open.commerce.gov)
+ - date_published: 2024-07-03T13:33:39.021420+00:00
+
+ ## U.S. Department of Commerce | Performance Data Pro
+ - [https://performance.commerce.gov](https://performance.commerce.gov)
+ - date_published: 2024-05-08T02:37:13.415421+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.commerce.gov](https://search.commerce.gov)
+ - date_published: 2024-05-08T02:42:21.546942+00:00
+
+ ## Tyler Data & Insights
+ - [https://uspto.data.commerce.gov](https://uspto.data.commerce.gov)
+ - date_published: 2024-06-29T19:41:52.408407+00:00
+
+ ## Congress.gov API
+ - [https://api.congress.gov](https://api.congress.gov)
+ - date_published: 2023-10-25T19:19:12.540417+00:00
+
+ ## Bioguide Search
+ - [http://bioguide.congress.gov](http://bioguide.congress.gov)
+ - date_published: 2024-06-26T17:33:31+00:00
+
+ ## Congress.gov | Library of Congress
+ - [https://congress.gov](https://congress.gov)
+ - date_published: 2024-05-08T02:42:27.756636+00:00
+
+ ## Cierpliwości...
+ - [https://crsreports.congress.gov](https://crsreports.congress.gov)
+ - date_published: 2024-04-30T06:34:34.060310+00:00
+
+ ## consumer.gov
+ - [https://consumer.gov](https://consumer.gov)
+ - date_published: 2024-05-08T02:51:36.145053+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.consumerfinance.gov](https://search.consumerfinance.gov)
+ - date_published: 2024-05-08T02:42:30.762051+00:00
+
+ ## Consumer Financial Protection Bureau
+ - [https://www.consumerfinance.gov](https://www.consumerfinance.gov)
+ - date_published: 2023-10-25T19:19:22.686885+00:00
+
+ ## consumer.gov - homepage
+ - [https://consumidor.gov](https://consumidor.gov)
+ - date_published: 2024-07-03T15:08:47+00:00
+
+ ## U.S. Copyright Office | U.S. Copyright Office
+ - [https://copyright.gov](https://copyright.gov)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Search Result | DMCA Designated Agent Directory
+ - [https://dmca.copyright.gov](https://dmca.copyright.gov)
+ - date_published: 2024-07-01T18:33:10.662192+00:00
+
+ ## Licensing Overview | U.S. Copyright Office
+ - [https://licensing.copyright.gov](https://licensing.copyright.gov)
+ - date_published: 2024-05-08T02:42:35.727318+00:00
+
+ ## U.S. Copyright Office Public Records System
+ - [https://publicrecords.copyright.gov](https://publicrecords.copyright.gov)
+ - date_published: 2024-05-08T02:42:39.628970+00:00
+
+ ## We're sorry - something went wrong. 403
+ - [https://search.copyright.gov](https://search.copyright.gov)
+ - date_published: 2024-05-08T02:42:33.048698+00:00
+
+ ## Coronavirus Disease 2019 (COVID-19)
+ - [https://coronavirus.gov](https://coronavirus.gov)
+ - date_published: 2020-02-11T00:00:00+00:00
+
+ ## Coventry, CT - Official Website | Official Website
+ - [https://coventry-ct.gov](https://coventry-ct.gov)
+ - date_published: 2024-07-01T23:21:29.922277+00:00
+
+ ## Find COVID-19 guidance for your community
+ - [https://www.covid.gov](https://www.covid.gov)
+ - date_published: 2023-12-05T01:05:13+00:00
+
+ ## CPSC.gov
+ - [https://cpsc.gov](https://cpsc.gov)
+ - date_published: 2024-05-08T02:42:46.739376+00:00
+
+ ## Homepage | Office of Inspector General
+ - [https://oig.cpsc.gov](https://oig.cpsc.gov)
+ - date_published: 2024-04-24T16:42:45+00:00
+
  ## Copyright Royalty Board
  - [https://www.crb.gov](https://www.crb.gov)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3868,164 +4028,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Representative Gabe Vasquez
  - [https://vasquez.house.gov](https://vasquez.house.gov)
  - date_published: 2024-06-27T14:21:36.357695+00:00
-
- ## Congressman Marc Veasey
- - [https://veasey.house.gov](https://veasey.house.gov)
- - date_published: 2024-06-27T14:10:57.065447+00:00
-
- ## Congresswoman Nydia Velázquez
- - [https://velazquez.house.gov](https://velazquez.house.gov)
- - date_published: 2024-06-27T14:12:16.608776+00:00
-
- ## House Committee on Veterans' Affairs
- - [https://veterans.house.gov](https://veterans.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congresswoman Ann Wagner
- - [https://wagner.house.gov](https://wagner.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Tim Walberg
- - [https://walberg.house.gov](https://walberg.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## U.S. Representative Mike Waltz
- - [https://waltz.house.gov](https://waltz.house.gov)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Congresswoman Debbie Wasserman Schultz
- - [https://wassermanschultz.house.gov](https://wassermanschultz.house.gov)
- - date_published: 2024-06-27T14:21:56+00:00
-
- ## Representative Maxine Waters
- - [https://waters.house.gov](https://waters.house.gov)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Home
- - [https://watsoncoleman.house.gov](https://watsoncoleman.house.gov)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Ways and Means – Congressional Website
- - [https://waysandmeans.house.gov](https://waysandmeans.house.gov)
- - date_published: 2024-06-27T14:24:34.073218+00:00
-
- ## U.S. Representative Randy Weber
- - [https://weber.house.gov](https://weber.house.gov)
- - date_published: 2024-06-27T14:12:18+00:00
-
- ## United States Congressman Daniel Webster
- - [https://webster.house.gov](https://webster.house.gov)
- - date_published: 2024-06-27T14:18:41.887446+00:00
-
- ## U.S. Representative Brad Wenstrup
- - [https://wenstrup.house.gov](https://wenstrup.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Bruce Westerman
- - [https://westerman.house.gov](https://westerman.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congresswoman Jennifer Wexton
- - [https://wexton.house.gov](https://wexton.house.gov)
- - date_published: 2024-06-27T14:12:24+00:00
-
- ## Representative Wild
- - [https://wild.house.gov](https://wild.house.gov)
- - date_published: 2024-06-27T14:13:09.439816+00:00
-
- ## Congressman Roger Williams
- - [https://williams.house.gov](https://williams.house.gov)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Congresswoman Frederica Wilson
- - [https://wilson.house.gov](https://wilson.house.gov)
- - date_published: 2024-06-27T14:15:28+00:00
-
- ## U.S. Representative Rob Wittman
- - [https://wittman.house.gov](https://wittman.house.gov)
- - date_published: 2024-06-27T14:12:24+00:00
-
- ## U.S. Congressman Steve Womack
- - [https://womack.house.gov](https://womack.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home - Rudy Yakym
- - [https://yakym.house.gov](https://yakym.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congresswoman Young Kim
- - [https://youngkim.house.gov](https://youngkim.house.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Representative Ryan Zinke
- - [https://zinke.house.gov](https://zinke.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## | house.gov
- - [https://ziplook.house.gov](https://ziplook.house.gov)
- - date_published: 2024-06-27T14:00:04+00:00
-
- ## data.hrsa.gov Home Page
- - [https://data.hrsa.gov](https://data.hrsa.gov)
- - date_published: 2024-06-19T16:43:18.164701+00:00
-
- ## Health Resources and Services Administration | HRSA
- - [https://www.hrsa.gov](https://www.hrsa.gov)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## The NPDB - Home Page
- - [https://www.npdb.hrsa.gov](https://www.npdb.hrsa.gov)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Hudson, WI - Official Website | Official Website
- - [https://hudsonwi.gov](https://hudsonwi.gov)
- - date_published: 2024-06-19T07:32:11.881045+00:00
-
- ## Redirect
- - [https://huduser.gov](https://huduser.gov)
- - date_published: 2021-05-01T21:31:18+00:00
-
- ## Front Page
- - [http://www.huntsvilleal.gov](http://www.huntsvilleal.gov)
- - date_published: 2024-06-29T14:26:11.922121+00:00
-
- ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
- - [http://iarpa.gov](http://iarpa.gov)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
- - [https://www.iarpa.gov](https://www.iarpa.gov)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Internet Crime Complaint Center(IC3) | Home Page
- - [http://ic3.gov](http://ic3.gov)
- - date_published: 2024-06-25T00:00:00+00:00
- - tags: ['internet crime complaint', 'fbi']
-
- ## Internet Crime Complaint Center(IC3) | Home Page
- - [https://www.ic3.gov](https://www.ic3.gov)
- - date_published: 2023-10-25T11:20:35.175486+00:00
-
- ## ICE
- - [https://www.ice.gov](https://www.ice.gov)
- - date_published: 2024-06-20T05:09:17+00:00
-
- ## IdentityTheft.gov
- - [https://identitytheft.gov](https://identitytheft.gov)
- - date_published: 2024-05-08T02:51:45.802362+00:00
-
- ## IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet
- - [https://ignet.gov](https://ignet.gov)
- - date_published: 2024-05-08T02:59:43.030807+00:00
-
- - [https://ilga.gov](https://ilga.gov)
- - date_published: 2024-01-09T03:30:40.556731+00:00
-
- ## Home
- - [https://budget.illinois.gov](https://budget.illinois.gov)
- - date_published: 2024-05-11T08:11:39.852838+00:00
-
- ## Illinois Capital Markets
- - [https://capitalmarkets.illinois.gov](https://capitalmarkets.illinois.gov)
- - date_published: 2024-07-13T18:47:16+00:00
 

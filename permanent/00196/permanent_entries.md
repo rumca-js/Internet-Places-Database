@@ -1,3 +1,163 @@
+ ## College of Education and Human Ecology
+ - [http://ehe.osu.edu](http://ehe.osu.edu)
+ - date_published: 2024-06-29T09:07:14.647181+00:00
+
+ ## Home | Environmental Health and Safety
+ - [https://ehs.osu.edu](https://ehs.osu.edu)
+ - date_published: 2024-07-17T03:37:27.974764+00:00
+
+ ## Microsoft 365
+ - [https://email.osu.edu](https://email.osu.edu)
+ - date_published: 2022-11-29T22:09:42+00:00
+
+ ## Outreach and Engagement, The Ohio State University
+ - [https://engage.osu.edu](https://engage.osu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## COLLEGE OF ENGINEERING
+ - [https://engineering.osu.edu](https://engineering.osu.edu)
+ - date_published: 2014-02-03T10:53:00+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://eprotocol.osu.edu](https://eprotocol.osu.edu)
+ - date_published: 2024-07-17T03:37:50.285181+00:00
+
+ ## Home | Institutional Equity
+ - [https://equity.osu.edu](https://equity.osu.edu)
+ - date_published: 2024-07-01T16:53:40.489856+00:00
+
+ ## College of Engineering Engineering Research Administration
+ - [https://era.osu.edu](https://era.osu.edu)
+ - date_published: 2018-04-27T08:19:00+00:00
+
+ ## The Enterprise for Research, Innovation and Knowledge
+ - [https://erik.osu.edu](https://erik.osu.edu)
+ - date_published: 2024-05-12T07:44:06.899584+00:00
+
+ ## Intercultural English Language Programs - Homepage
+ - [https://esl.ehe.osu.edu](https://esl.ehe.osu.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Engineering Technology Services (ETS)
+ - [https://ets.osu.edu](https://ets.osu.edu)
+ - date_published: 2023-07-26T10:19:00+00:00
+
+ ## Home | OSU Extension
+ - [https://extension.osu.edu](https://extension.osu.edu)
+ - date_published: 2024-07-17T01:40:14+00:00
+
+ ## Veterinary Extension | Veterinary Extension
+ - [https://extension.vet.osu.edu](https://extension.vet.osu.edu)
+ - date_published: 2024-07-17T03:42:51.617565+00:00
+
+ ## Department of Food, Agricultural and Biological Engineering | FABE
+ - [http://fabe.osu.edu](http://fabe.osu.edu)
+ - date_published: 2024-07-17T01:21:41+00:00
+
+ ## Home | Office of Faculty Affairs
+ - [https://faculty.osu.edu](https://faculty.osu.edu)
+ - date_published: 2024-07-17T03:50:53.046535+00:00
+
+ ## Home | First Year Seminars
+ - [https://firstyearseminars.osu.edu](https://firstyearseminars.osu.edu)
+ - date_published: 2024-05-07T19:51:20.656861+00:00
+
+ ## Foods for Health | The Ohio State University
+ - [https://foodsforhealth.osu.edu](https://foodsforhealth.osu.edu)
+ - date_published: 2024-07-17T03:37:22.754828+00:00
+
+ ## Foundation Relations | The Ohio State University
+ - [https://foundationrelations.osu.edu](https://foundationrelations.osu.edu)
+ - date_published: 2024-07-01T16:53:53.754076+00:00
+
+ ## Home
+ - [https://giveto.osu.edu](https://giveto.osu.edu)
+ - date_published: 2024-07-01T16:53:47.329304+00:00
+
+ ## College of Engineering Global Engineering
+ - [https://global.engineering.osu.edu](https://global.engineering.osu.edu)
+ - date_published: 2014-06-21T11:26:00+00:00
+
+ ## Home | Global Water Institute
+ - [https://globalwater.osu.edu](https://globalwater.osu.edu)
+ - date_published: 2024-07-17T03:37:20.068817+00:00
+
+ ## Home | The Goldberg Center
+ - [https://goldbergcenter.osu.edu](https://goldbergcenter.osu.edu)
+ - date_published: 2024-05-12T07:29:49.051269+00:00
+
+ ## go.osu.edu Create Shortened URLs
+ - [https://go.osu.edu](https://go.osu.edu)
+ - date_published: 2024-05-07T19:51:22.252604+00:00
+
+ ## Graduate and Professional Admissions | The Ohio State University
+ - [https://gpadmissions.osu.edu](https://gpadmissions.osu.edu)
+ - date_published: 2024-01-24T20:02:54+00:00
+
+ ## Home | Graduate School
+ - [https://gradsch.osu.edu](https://gradsch.osu.edu)
+ - date_published: 2024-05-12T07:44:22.743757+00:00
+
+ ## Ohio State Optometry Services
+ - [https://greatvision.osu.edu](https://greatvision.osu.edu)
+ - date_published: 2024-05-12T07:43:33.074900+00:00
+
+ ## Resources for Alumni Volunteers
+ - [https://groups.alumni.osu.edu](https://groups.alumni.osu.edu)
+ - date_published: 2024-07-01T16:53:44.931332+00:00
+
+ ## Ohio State | Gene Therapy Institute |
+ - [https://gti.osu.edu](https://gti.osu.edu)
+ - date_published: 2024-07-17T03:37:21.492750+00:00
+
+ ## Research Guides
+ - [https://guides.osu.edu](https://guides.osu.edu)
+ - date_published: 2024-07-17T03:37:51.971187+00:00
+
+ ## Ohio State Health & Discovery | Health, wellness and innovation news
+ - [https://health.osu.edu](https://health.osu.edu)
+ - date_published: 2024-07-01T16:54:02.869385+00:00
+
+ ## help.osu.edu
+ - [https://help.osu.edu](https://help.osu.edu)
+ - date_published: 2024-04-12T14:05:15+00:00
+
+ ## Housing and Residence Education
+ - [https://housing.osu.edu](https://housing.osu.edu)
+ - date_published: 2024-05-12T07:44:00.222217+00:00
+
+ ## ServiceNow
+ - [https://hrconnection.osu.edu](https://hrconnection.osu.edu)
+ - date_published: 2024-07-17T03:50:44.535464+00:00
+
+ ## Human Resources at Ohio State
+ - [https://hr.osu.edu](https://hr.osu.edu)
+ - date_published: 2024-05-12T07:44:44.428985+00:00
+
+ ## Home | Health Sciences Library
+ - [https://hsl.osu.edu](https://hsl.osu.edu)
+ - date_published: 2024-07-15T23:19:10+00:00
+
+ ## Home | History Teaching Institute
+ - [https://hti.osu.edu](https://hti.osu.edu)
+ - date_published: 2024-07-16T23:32:44.762272+00:00
+
+ ## Home
+ - [https://idi.osu.edu](https://idi.osu.edu)
+ - date_published: 2019-10-24T00:00:00+00:00
+
+ ## Institute for Materials and Manufacturing Research | Gateway to Ohio State's materials-allied research enterprise.
+ - [http://imr.osu.edu](http://imr.osu.edu)
+ - date_published: 2024-07-17T03:37:18.048118+00:00
+
+ ## Log In | Inventions
+ - [https://innovate.osu.edu](https://innovate.osu.edu)
+ - date_published: 2024-07-17T03:38:21.592822+00:00
+
+ ## Inspire 2023 - Inspire
+ - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
+ - date_published: 2023-03-13T04:17:09+00:00
+
  ## Involved Living
  - [http://involvedliving.osu.edu](http://involvedliving.osu.edu)
  - date_published: 2024-07-17T03:38:13.640228+00:00
@@ -3846,164 +4006,4 @@
  ## Bicentennial Commencement 2024 | Rensselaer Polytechnic Institute
  - [https://commencement.rpi.edu](https://commencement.rpi.edu)
  - date_published: 2024-07-01T14:02:52+00:00
-
- ## Campus Directory | Rensselaer Polytechnic Institute
- - [https://directory.rpi.edu](https://directory.rpi.edu)
- - date_published: 2024-07-01T18:29:10.735930+00:00
-
- ## Information Technology and Services | Rensselaer Polytechnic Institute
- - [https://dotcio.rpi.edu](https://dotcio.rpi.edu)
- - date_published: 2024-07-01T17:37:01+00:00
-
- ## Environmental Health & Safety | Rensselaer Polytechnic Institute
- - [https://ehs.rpi.edu](https://ehs.rpi.edu)
- - date_published: 2024-07-01T14:42:29+00:00
-
- ## EMPAC — The Experimental Media and Performing Arts Center at Rensselaer Polytechnic Institute. | Experimental Media and Performing Arts Center (EMPAC)
- - [https://empac.rpi.edu](https://empac.rpi.edu)
- - date_published: 2024-07-01T18:28:40+00:00
-
- ## School of Engineering | Rensselaer Polytechnic Institute
- - [https://eng.rpi.edu](https://eng.rpi.edu)
- - date_published: 2024-07-01T16:55:48+00:00
-
- ## Every Day Matters – World-Changing. Ground Breaking. Boundary Pushing.
- - [https://everydaymatters.rpi.edu](https://everydaymatters.rpi.edu)
- - date_published: 2024-05-07T20:08:24.201330+00:00
-
- ## Rensselaer at Work | Rensselaer Polytechnic Institute
- - [https://ewp.rpi.edu](https://ewp.rpi.edu)
- - date_published: 2024-07-01T18:28:39.643908+00:00
-
- ## Faculty | Rensselaer Polytechnic Institute
- - [https://faculty.rpi.edu](https://faculty.rpi.edu)
- - date_published: 2024-07-01T18:06:47+00:00
-
- ## Division of Finance | Rensselaer Polytechnic Institute
- - [https://finance.rpi.edu](https://finance.rpi.edu)
- - date_published: 2024-07-01T14:38:44+00:00
-
- ## Institute Advancement | Rensselaer Giving
- - [http://giving.rpi.edu](http://giving.rpi.edu)
- - date_published: 2024-07-01T18:27:21.987514+00:00
-
- ## Home Page | GO
- - [https://go.rpi.edu](https://go.rpi.edu)
- - date_published: 2024-07-01T16:06:23+00:00
-
- ## Graduate Education | Rensselaer Polytechnic Institute
- - [https://graduate.rpi.edu](https://graduate.rpi.edu)
- - date_published: 2024-07-01T18:06:34+00:00
-
- ## Library Guides
- - [https://guides.lib.rpi.edu](https://guides.lib.rpi.edu)
- - date_published: 2024-07-01T18:29:52.085888+00:00
-
- ## The School of Humanities, Arts, and Social Sciences | Rensselaer Polytechnic Institute
- - [https://hass.rpi.edu](https://hass.rpi.edu)
- - date_published: 2024-07-01T14:52:02+00:00
-
- ## Human Resources | Rensselaer Polytechnic Institute
- - [https://hr.rpi.edu](https://hr.rpi.edu)
- - date_published: 2024-07-01T15:15:20+00:00
-
- ## RPInfo | RPI INFO
- - [https://info.rpi.edu](https://info.rpi.edu)
- - date_published: 2024-05-07T20:08:30.896036+00:00
-
- ## DotCIO - IT Services and Support Center
- - [https://itssc.rpi.edu](https://itssc.rpi.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Lally School of Management | RPI's Business School
- - [https://lallyschool.rpi.edu](https://lallyschool.rpi.edu)
- - date_published: 2024-07-01T17:41:30+00:00
-
- ## Rensselaer Libraries | Rensselaer Polytechnic Institute
- - [https://library.rpi.edu](https://library.rpi.edu)
- - date_published: 2024-07-01T18:27:32+00:00
-
- ## Blackboard Learn
- - [https://lms.rpi.edu](https://lms.rpi.edu)
- - date_published: 2004-07-01T18:29:57+00:00
-
- ## Rensselaer News | News & Events
- - [https://news.rpi.edu](https://news.rpi.edu)
- - date_published: 2023-10-24T20:05:28.211262+00:00
-
- ## Policy Library | Rensselaer Polytechnic Institute
- - [https://policy.rpi.edu](https://policy.rpi.edu)
- - date_published: 2024-05-07T20:08:28.528231+00:00
-
- ## Procurement Services | Rensselaer Polytechnic Institute
- - [https://procurement.rpi.edu](https://procurement.rpi.edu)
- - date_published: 2024-07-01T17:54:38+00:00
-
- ## Office of the Provost | Rensselaer Polytechnic Institute
- - [https://provost.rpi.edu](https://provost.rpi.edu)
- - date_published: 2024-07-01T18:01:42+00:00
-
- ## Public Safety | Rensselaer Polytechnic Institute
- - [https://publicsafety.rpi.edu](https://publicsafety.rpi.edu)
- - date_published: 2024-07-01T18:29:17+00:00
-
- ## Campus Recreation
- - [http://recreation.union.rpi.edu](http://recreation.union.rpi.edu)
- - date_published: 2024-07-01T18:29:28.502102+00:00
-
- ## Office for Research | Rensselaer Polytechnic Institute
- - [https://research.rpi.edu](https://research.rpi.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ROTC | Rensselaer Polytechnic Institute
- - [https://rotc.rpi.edu](https://rotc.rpi.edu)
- - date_published: 2024-07-01T18:24:25+00:00
-
- ## Rensselaer Polytechnic Institute
- - [https://rpi.edu](https://rpi.edu)
- - date_published: 2024-05-07T20:08:25.719125+00:00
-
- ## RPInfo | RPI INFO
- - [http://rpinfo.rpi.edu](http://rpinfo.rpi.edu)
- - date_published: 2024-07-01T18:28:13.345096+00:00
-
- ## Home | Office of Community Engagement and Communications
- - [https://scer.rpi.edu](https://scer.rpi.edu)
- - date_published: 2024-05-07T20:08:27.436933+00:00
-
- ## School of Science at Rensselaer | Science at Rensselaer
- - [https://science.rpi.edu](https://science.rpi.edu)
- - date_published: 2024-07-01T18:28:03+00:00
-
- ## Sexual Misconduct / Title IX | Rensselaer Polytechnic Institute
- - [https://sexualviolence.rpi.edu](https://sexualviolence.rpi.edu)
- - date_published: 2024-05-07T20:08:31.984995+00:00
-
- ## RPI Student Government
- - [https://sg.rpi.edu](https://sg.rpi.edu)
- - date_published: 2024-07-01T18:29:08.254752+00:00
-
- ## Redirect to Banner 8 SIS Login Page
- - [http://sis.rpi.edu](http://sis.rpi.edu)
- - date_published: 2023-01-31T18:25:44+00:00
-
- ## Student Living and Learning | Rensselaer Polytechnic Institute
- - [https://sll.rpi.edu](https://sll.rpi.edu)
- - date_published: 2024-07-01T18:25:40+00:00
-
- ## Student Health and Wellness | Rensselaer Polytechnic Institute
- - [http://studenthealth.rpi.edu](http://studenthealth.rpi.edu)
- - date_published: 2024-07-01T18:29:19+00:00
-
- ## The Division of Student Life | RPI INFO
- - [http://studentlife.rpi.edu](http://studentlife.rpi.edu)
- - date_published: 2024-07-01T18:27:27.973906+00:00
-
- ## Student Success | Rensselaer Polytechnic Institute
- - [https://success.studentlife.rpi.edu](https://success.studentlife.rpi.edu)
- - date_published: 2024-07-01T18:26:51+00:00
-
- ## Summer@Rensselaer | Rensselaer Polytechnic Institute
- - [https://summer.rpi.edu](https://summer.rpi.edu)
- - date_published: 2024-07-01T18:21:53+00:00
 

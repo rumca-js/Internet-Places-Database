@@ -1,3 +1,197 @@
+ ## The Future of Freedom Foundation – Advancing an Uncompromising Case for Libertarianism
+ - [http://fff.org](http://fff.org)
+ - date_published: 2020-02-10T20:02:50+00:00
+
+ ## konsoleH :: Login
+ - [http://acta.ffii.org](http://acta.ffii.org)
+ - date_published: 2024-07-13T16:30:56.564012+00:00
+
+ ## konsoleH :: Login
+ - [http://action.ffii.org](http://action.ffii.org)
+ - date_published: 2024-07-13T16:32:31.876448+00:00
+
+ ## konsoleH :: Login
+ - [http://de.ffii.org](http://de.ffii.org)
+ - date_published: 2024-07-13T16:32:00.694935+00:00
+
+ ## konsoleH :: Login
+ - [http://eupat.ffii.org](http://eupat.ffii.org)
+ - date_published: 2024-07-13T16:32:45.374110+00:00
+
+ ## FFII | Foundation for a Free Information Infrastructure information on software patents, enforcement of IP, trade agreements
+ - [https://ffii.org](https://ffii.org)
+ - date_published: 2023-10-25T21:20:31.744673+00:00
+ - tags: ['patents', 'standards']
+
+ ## konsoleH :: Login
+ - [http://gauss.ffii.org](http://gauss.ffii.org)
+ - date_published: 2024-07-13T16:33:05.925620+00:00
+
+ ## konsoleH :: Login
+ - [http://press.ffii.org](http://press.ffii.org)
+ - date_published: 2024-07-13T16:32:30.495350+00:00
+
+ ## konsoleH :: Login
+ - [https://swpat.ffii.org](https://swpat.ffii.org)
+ - date_published: 2024-05-12T05:14:27.870302+00:00
+
+ ## Patented Webshop
+ - [https://webshop.ffii.org](https://webshop.ffii.org)
+ - date_published: 2021-02-17T18:11:12+00:00
+
+ ## Foundation for a Free Information Infrastructure
+ - [http://www.ffii.org](http://www.ffii.org)
+ - date_published: 2024-05-30T14:50:11.443896+00:00
+
+ ## Forest Fire Lookout Association
+ - [http://ffla.org](http://ffla.org)
+ - date_published: 2024-07-12T19:35:33+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://www.ffm-montreal.org](http://www.ffm-montreal.org)
+ - date_published: 2024-07-10T11:03:15.310363+00:00
+
+ ## FFmpeg coverage
+ - [http://coverage.ffmpeg.org](http://coverage.ffmpeg.org)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## FATE
+ - [https://fate.ffmpeg.org](https://fate.ffmpeg.org)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## FFmpeg
+ - [https://ffmpeg.org](https://ffmpeg.org)
+ - date_published: 2023-10-25T21:20:33.094820+00:00
+ - tags: ['video codec']
+
+ ## FFmpeg
+ - [https://lists.ffmpeg.org](https://lists.ffmpeg.org)
+ - date_published: 2024-05-12T06:59:07.227680+00:00
+
+ ## Index of /
+ - [https://samples.ffmpeg.org](https://samples.ffmpeg.org)
+ - date_published: 2012-02-11T00:00:00+00:00
+
+ ## FFmpeg
+ - [https://trac.ffmpeg.org](https://trac.ffmpeg.org)
+ - date_published: 2024-05-12T06:58:15.003665+00:00
+
+ ## Freedom From Religion Foundation
+ - [https://ffrf.org](https://ffrf.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Final Fantasy Shrine Forums
+ - [http://gh.ffshrine.org](http://gh.ffshrine.org)
+ - date_published: 2024-07-11T20:55:08.317067+00:00
+
+ ## Foundation For The Carolinas
+ - [https://www.fftc.org](https://www.fftc.org)
+ - date_published: 2024-05-04T14:19:28.707870+00:00
+
+ ## Signalement de contenus numériques illicites | FFTELECOMS
+ - [https://signalement.fftelecoms.org](https://signalement.fftelecoms.org)
+ - date_published: 2024-06-25T22:25:51.587434+00:00
+
+ ## Fight for the Future Education Fund
+ - [https://fftfef.org](https://fftfef.org)
+ - date_published: 2024-05-12T06:08:22.157451+00:00
+
+ ## FFTW Home Page
+ - [https://www.fftw.org](https://www.fftw.org)
+ - date_published: 2021-09-15T13:46:42+00:00
+
+ ## Fungi Foundation
+ - [https://www.ffungi.org](https://www.ffungi.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Fast Forward - Scaling Tech Nonprofits To Create Positive Social Impact
+ - [https://www.ffwd.org](https://www.ffwd.org)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Family Health Centers of Southwest Florida
+ - [http://www.fhcswf.org](http://www.fhcswf.org)
+ - date_published: 2024-07-03T14:36:03.994399+00:00
+
+ ## Loomio
+ - [https://groups.f-hub.org](https://groups.f-hub.org)
+ - date_published: 2024-07-11T12:16:08.200703+00:00
+
+ ## International Federation of Film Archives
+ - [https://fiafnet.org](https://fiafnet.org)
+ - date_published: 2024-04-30T06:00:16.839242+00:00
+
+ ## Hosted By One.com | Webhosting made simple
+ - [http://www.ficloud.org](http://www.ficloud.org)
+ - date_published: 2024-07-07T01:28:21.067523+00:00
+
+ ## FictionBook
+ - [http://fictionbook.org](http://fictionbook.org)
+ - date_published: 2013-01-10T13:57:46+00:00
+
+ ## FIDA Kenya | Federation of Women Lawyers in Kenya
+ - [https://www.fida-kenya.org](https://www.fida-kenya.org)
+ - date_published: 2024-07-07T04:55:44.181087+00:00
+
+ ## Inicio | Fideicomiso EA
+ - [https://www.fideicomisoarquitectura.org](https://www.fideicomisoarquitectura.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## International Federation for Human Rights
+ - [https://www.fidh.org](https://www.fidh.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Boop.
+ - [http://www.fidius.org](http://www.fidius.org)
+ - date_published: 2022-05-02T15:27:56+00:00
+
+ ## FIDO Alliance
+ - [https://fidoalliance.org](https://fidoalliance.org)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## FidoNet
+ - [http://www.fidonet.org](http://www.fidonet.org)
+ - date_published: 2024-02-26T21:08:25+00:00
+
+ ## Fidus Writer | a semantic word processor for academics
+ - [https://www.fiduswriter.org](https://www.fiduswriter.org)
+ - date_published: 2024-07-08T14:08:58.927798+00:00
+
+ ## Field Foundation of Illinois
+ - [https://fieldfoundation.org](https://fieldfoundation.org)
+ - date_published: 2024-07-22T04:41:03.409163+00:00
+
+ ## Explore the World at the Field - Field Museum
+ - [http://www.fieldmuseum.org](http://www.fieldmuseum.org)
+ - date_published: 2024-07-22T09:09:40.959932+00:00
+
+ ## Field of Vision
+ - [https://fieldofvision.org](https://fieldofvision.org)
+ - date_published: 2024-06-24T11:00:27.700441+00:00
+
+ ## Field Radio – For Ham Radio Enthusiasts
+ - [http://www.fieldradio.org](http://www.fieldradio.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Field School of Charlottesville
+ - [https://fieldschoolcv.org](https://fieldschoolcv.org)
+ - date_published: 2024-07-12T23:47:53.224953+00:00
+
+ ## LSU Surpasses $1.5 Billion Fierce for the Future Campaign Goal Three Years Early
+ - [http://fierceforthefuturecampaign.org](http://fierceforthefuturecampaign.org)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Supporting Professional Football Players Worldwide - FIFPRO World Players' Union
+ - [https://fifpro.org](https://fifpro.org)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Fifth Estate - Radical publishing since 1965
+ - [https://www.fifthestate.org](https://www.fifthestate.org)
+ - date_published: 2023-10-25T21:20:45.587600+00:00
+
+ ## Baraboo WI Lawyers | Sauk County Attorneys Practicing Criminal Defense, Divorce and Family Law, Civil Litigation | Wisconsin Dells Lake Delton Office | Adams, Juneau, and Columbia County, WI | Englund & Associates Law Office LLC
+ - [https://www.fiftythree.org](https://www.fiftythree.org)
+ - date_published: 2024-01-09T03:39:29.033483+00:00
+
  ## Money Matters by Farmers Insurance Federal Credit Union
  - [https://blog.figfcu.org](https://blog.figfcu.org)
  - date_published: 2024-07-10T04:57:32.947066+00:00
@@ -2602,10 +2796,6 @@ Archive
  - date_published: 2024-01-04T00:00:00+00:00
  - tags: ['compiler', 'open source', 'pascal']
 
- ## Lazarus Homepage
- - [https://www.lazarus.freepascal.org](https://www.lazarus.freepascal.org)
- - date_published: 2024-02-28T00:00:00+00:00
-
  ## Accueil
  - [https://freepatriot.org](https://freepatriot.org)
  - date_published: 2024-06-15T23:44:33.462446+00:00
@@ -3866,199 +4056,4 @@ encryption
  ## Mastodon G3L
  - [https://m.g3l.org](https://m.g3l.org)
  - date_published: 2024-07-08T10:50:43.376571+00:00
-
- ## Home
- - [https://gab.org](https://gab.org)
- - date_published: 2024-07-22T03:47:11.779806+00:00
-
- ## Gabarro
- - [https://gabarro.org](https://gabarro.org)
- - date_published: 2024-01-09T03:40:26.087667+00:00
-
- ## Home  | GABBF
- - [https://gabbf.org](https://gabbf.org)
- - date_published: 2024-06-17T16:13:26.885888+00:00
-
- ## Home
- - [http://www.gabio.org](http://www.gabio.org)
- - date_published: 2024-06-18T13:08:41.151378+00:00
-
- ## GabMus's Dev Log
- - [https://gabmus.org](https://gabmus.org)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## HydraPaper
- - [https://hydrapaper.gabmus.org](https://hydrapaper.gabmus.org)
- - date_published: 2022-05-29T06:27:37+00:00
-
- ## Gab's Notes
- - [https://gabnotes.org](https://gabnotes.org)
- - date_published: 2024-07-23T23:39:33.298447+00:00
-
- ## Gabrielino-Tongva Indian Tribe – A California Indian Tribe know as San Gabriel Band of Mission Indians
- - [https://gabrielinotribe.org](https://gabrielinotribe.org)
- - date_published: 2024-05-04T14:43:14.014898+00:00
-
- ## Gabrielino-Tongva Indian Tribe – A California Indian Tribe know as San Gabriel Band of Mission Indians
- - [http://www.gabrielinotribe.org](http://www.gabrielinotribe.org)
- - date_published: 2024-06-22T06:06:46.125607+00:00
-
- ## Gabriella Coleman
- - [https://gabriellacoleman.org](https://gabriellacoleman.org)
- - date_published: 2024-07-09T08:04:46.452509+00:00
-
- ## The site of the retirees of CERN and ESO – GAC – EPA
- - [https://gac-epa.org](https://gac-epa.org)
- - date_published: 2024-07-21T06:34:22.114724+00:00
-
- ## Gadgetbridge for android
- - [https://gadgetbridge.org](https://gadgetbridge.org)
- - date_published: 2023-10-25T21:23:47.950756+00:00
-
- ## Georgia Association of Educators (GAE) | Georgia Association of Educators
- - [https://gae.org](https://gae.org)
- - date_published: 2024-07-09T16:45:28.475192+00:00
-
- ## GAfutures.org | Georgia Student Finance Commission
- - [https://www.gafutures.org](https://www.gafutures.org)
- - date_published: 2024-07-22T02:14:14.099417+00:00
-
- ## GA-HERO
- - [http://ga-hero.org](http://ga-hero.org)
- - date_published: 2024-08-06T17:39:36.596500+00:00
-
- ## GAIN - Group for Autism, Insurance, Investment and Neurodiversity
- - [https://gaintogether.org](https://gaintogether.org)
- - date_published: 2024-04-05T21:55:17+00:00
-
- ## Gaithersburg Book Festival
- - [https://gaithersburgbookfestival.org](https://gaithersburgbookfestival.org)
- - date_published: 2024-05-18T00:00:00+00:00
- - tags: ['festival', 'books']
-
- ## Explore projects · GitLab
- - [https://dev.gajim.org](https://dev.gajim.org)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Gajim
- - [https://gajim.org](https://gajim.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Galactica Demo
- - [https://galactica.org](https://galactica.org)
- - date_published: 2023-10-25T21:23:49.587771+00:00
-
- ## Galactic Anthropology
- - [https://galacticanthropology.org](https://galacticanthropology.org)
- - date_published: 2024-02-08T16:34:29.619962+00:00
-
- ## Galactic Journey
- - [https://galacticjourney.org](https://galacticjourney.org)
- - date_published: 2024-05-08T06:36:59.576405+00:00
-
- ## GALA Global
- - [https://www.gala-global.org](https://www.gala-global.org)
- - date_published: 2024-06-27T14:52:39.908197+00:00
-
- ## Galapagos Science Center – GSC
- - [https://www.galapagosscience.org](https://www.galapagosscience.org)
- - date_published: 2024-07-01T02:54:11.895952+00:00
-
- ## Galaxy Swapper | Official Site | Download Now!
- - [https://galaxy-swapper.org](https://galaxy-swapper.org)
- - date_published: 2024-03-30T20:18:18+00:00
-
- ## Galène videoconference server
- - [https://galene.org](https://galene.org)
- - date_published: 2023-10-27T12:06:39.811505+00:00
-
- ## GalliumOS – A fast and lightweight Linux distro for ChromeOS devices
- - [https://galliumos.org](https://galliumos.org)
- - date_published: 2024-06-30T09:07:39.410268+00:00
-
- ## GAMA: THE GAME MANUFACTURERS ASSOCIATION
- - [http://gama.org](http://gama.org)
- - date_published: 2024-06-18T06:58:12.867369+00:00
-
- ## GAMA: THE GAME MANUFACTURERS ASSOCIATION
- - [https://www.gama.org](https://www.gama.org)
- - date_published: 2024-05-08T03:02:54.012914+00:00
-
- ## Gamberi Fantasy  » Gamberi statici
- - [http://fantasy.gamberi.org](http://fantasy.gamberi.org)
- - date_published: 2024-07-20T07:08:22.644947+00:00
-
- ## GambleAware®: Gambling Help & Gambling Addiction
- - [https://www.gambleaware.org](https://www.gambleaware.org)
- - date_published: 2024-07-12T11:31:47+00:00
-
- ## Gamblers Anonymous
- - [https://www.gamblersanonymous.org](https://www.gamblersanonymous.org)
- - date_published: 2024-07-14T14:14:31+00:00
-
- ## Welcome to The Alderney Gambling Control Commission
- - [https://www.gamblingcontrol.org](https://www.gamblingcontrol.org)
- - date_published: 2024-06-18T06:58:05.375085+00:00
-
- ## MA Gambling Helpline
- - [https://gamblinghelplinema.org](https://gamblinghelplinema.org)
- - date_published: 2024-04-29T02:15:20.805534+00:00
-
- ## Gambling Therapy - Practical advice and support for problem gambling
- - [http://gamblingtherapy.org](http://gamblingtherapy.org)
- - date_published: 2024-06-20T16:25:07.351988+00:00
-
- ## Artificial Intelligence and Games – A Springer Textbook | By Georgios N. Yannakakis and Julian Togelius
- - [http://gameaibook.org](http://gameaibook.org)
- - date_published: 2024-06-22T08:06:58.601530+00:00
-
- ## Join the Star Citizen Polska / Game Armada Discord Server!
- - [http://discord.gamearmada.org](http://discord.gamearmada.org)
- - date_published: 2024-08-10T02:21:29+00:00
-
- ## Game Armada / Star Citizen Polska - największa polska społeczność Star Citizen PL
- - [https://gamearmada.org](https://gamearmada.org)
- - date_published: 2024-04-19T00:00:00+00:00
- - tags: ['star citizen', 'video game']
-
- ## Main Menu - Demian's Gamebook Web Page
- - [https://gamebooks.org](https://gamebooks.org)
- - date_published: 2024-07-01T14:24:17+00:00
-
- ## GameBrew's Message Domain
- - [https://forums.gamebrew.org](https://forums.gamebrew.org)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## GameBrew - SWITCH PS4 PS5 PS3 VITA PSP WII DS 3DS XBOX - Latest Homebrews, Apps, Games, Emulators and More
- - [https://gamebrew.org](https://gamebrew.org)
- - date_published: 2023-11-25T04:19:34.708741+00:00
- - tags: ['video game homebrew', 'reverse engineering']
-
- ## gamecity.org at Directnic
- - [http://gamecity.org](http://gamecity.org)
- - date_published: 2024-06-16T21:22:26.766185+00:00
-
- ## The Complete Guide to Video Game Design
- - [https://gamedesigning.org](https://gamedesigning.org)
- - date_published: 2018-01-08T23:50:29+00:00
- - tags: ['video game design', 'education', 'tutorial']
-
- ## Game Gate
- - [https://gamegate.org](https://gamegate.org)
- - date_published: 2024-07-19T17:34:09.328318+00:00
-
- ## GameHacking.org Forums - 
-		
-		Forums
- - [https://forum.gamehacking.org](https://forum.gamehacking.org)
- - date_published: 2024-05-11T08:32:40.608717+00:00
-
- ## GameHacking.org | Home
- - [https://gamehacking.org](https://gamehacking.org)
- - date_published: 1999-03-19T00:00:00+00:00
- - tags: ['game hacking']
-
- ## I Am Error
- - [https://iamerror.gamehacking.org](https://iamerror.gamehacking.org)
- - date_published: 2024-05-11T08:32:57.607948+00:00
 

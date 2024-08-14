@@ -1,3 +1,197 @@
+ ## jwz.org
+ - [https://jwz.org](https://jwz.org)
+ - date_published: 2024-06-20T01:00:05+00:00
+ - tags: ['blog', 'personal', 'interesting page design']
+
+ ## 江西省统一战线网
+ - [http://www.jxtyzx.org](http://www.jxtyzx.org)
+ - date_published: 2024-06-30T20:41:04.275538+00:00
+
+ ## Jyotirgamya
+ - [https://jyotirgamya.org](https://jyotirgamya.org)
+ - date_published: 2024-03-08T16:31:42.318651+00:00
+
+ ## Home
+ - [https://jython.org](https://jython.org)
+ - date_published: 2024-04-29T09:11:05.336033+00:00
+
+ ## iustin - homepage
+ - [https://k1024.org](https://k1024.org)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## K12 Accountability Home
+ - [http://k12accountability.org](http://k12accountability.org)
+ - date_published: 2024-01-02T21:29:15+00:00
+
+ ## K–12 Computer Science Framework
+ - [https://k12cs.org](https://k12cs.org)
+ - date_published: 2024-07-13T18:45:54.622262+00:00
+
+ ## Knowledge 4 All Foundation Ltd.
+ - [https://k4all.org](https://k4all.org)
+ - date_published: 2024-06-30T07:22:48.835968+00:00
+
+ ## FARS - Foothills Amateur Radio Society
+ - [https://fars.k6ya.org](https://fars.k6ya.org)
+ - date_published: 2024-05-09T08:41:47.043348+00:00
+
+ ## Become a Programmer with an AI Bot in 6 Months!
+ - [https://kaalama.org](https://kaalama.org)
+ - date_published: 2024-06-17T02:55:15+00:00
+
+ ## Kaessmann Lab
+ - [https://apps.kaessmannlab.org](https://apps.kaessmannlab.org)
+ - date_published: 2024-07-07T01:58:05.532337+00:00
+
+ ## The Kafka Project | Home
+ - [http://www.kafka.org](http://www.kafka.org)
+ - date_published: 2024-05-06T21:59:20.464048+00:00
+
+ ## Kafkadesk
+ - [https://kafkadesk.org](https://kafkadesk.org)
+ - date_published: 2024-06-21T14:07:48+00:00
+
+ ## Kafka Society of America
+ - [http://www.kafkasocietyofamerica.org](http://www.kafkasocietyofamerica.org)
+ - date_published: 2024-06-27T15:45:56.386514+00:00
+
+ ## Kafka Summit
+ - [https://kafka-summit.org](https://kafka-summit.org)
+ - date_published: 2024-06-28T20:38:43.806531+00:00
+
+ ## Kafuka Boards
+ - [http://board.kafuka.org](http://board.kafuka.org)
+ - date_published: 2024-07-08T10:35:58.437048+00:00
+
+ ## Kagi Feedback
+ - [https://kagifeedback.org](https://kagifeedback.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Brewster Kahle's Blog
+ - [https://brewster.kahle.org](https://brewster.kahle.org)
+ - date_published: 2024-04-03T06:53:25.017448+00:00
+ - tags: ['personal']
+
+ ## KAICIID | King Abdullah Bin Abdulaziz International Centre for Interreligious and Intercultural Dialogue
+ - [https://www.kaiciid.org](https://www.kaiciid.org)
+ - date_published: 2024-06-14T04:37:20+00:00
+
+ ## Kaido Wellbeing Challenges
+ - [https://kaido.org](https://kaido.org)
+ - date_published: 2024-07-09T18:05:36.023349+00:00
+
+ ## Kaigi on Rails 2024
+ - [https://kaigionrails.org](https://kaigionrails.org)
+ - date_published: 2024-07-02T20:44:31.901994+00:00
+
+ ## kaikki.org digital archive and data
+ - [https://kaikki.org](https://kaikki.org)
+ - date_published: 2024-05-12T04:47:21.023445+00:00
+
+ ## We’re transforming health and health care – find out how
+ - [https://about.kaiserpermanente.org](https://about.kaiserpermanente.org)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Employer Health Plans | Kaiser Permanente Business
+ - [https://business.kaiserpermanente.org](https://business.kaiserpermanente.org)
+ - date_published: 2024-07-12T01:09:54+00:00
+
+ ## Atención y cobertura personalizadas justo a su medida | Kaiser Permanente
+ - [https://espanol.kaiserpermanente.org](https://espanol.kaiserpermanente.org)
+ - date_published: 2024-07-14T03:53:23.354835+00:00
+
+ ## Affordable Care Act: Obamacare & Health Reform Facts | Kaiser Permanente
+ - [https://healthreform.kaiserpermanente.org](https://healthreform.kaiserpermanente.org)
+ - date_published: 2010-03-23T00:00:00+00:00
+
+ ## Custom Care & Coverage Just For You | Kaiser Permanente
+ - [https://healthy.kaiserpermanente.org](https://healthy.kaiserpermanente.org)
+ - date_published: 2024-06-23T06:33:11.821090+00:00
+
+ ## Custom Care & Coverage Just For You | Kaiser Permanente
+ - [https://kaiserpermanente.org](https://kaiserpermanente.org)
+ - date_published: 2024-05-11T09:18:01.620656+00:00
+
+ ## semantics etc.
+ - [http://kaivonfintel.org](http://kaivonfintel.org)
+ - date_published: 2024-07-02T09:18:29.406081+00:00
+
+ ## kajt.org
+ - [http://www.kajt.org](http://www.kajt.org)
+ - date_published: 2024-06-11T13:59:45+00:00
+
+ ## NPR News For Aspen And The Valley | Aspen Public Radio
+ - [http://kajx.org](http://kajx.org)
+ - date_published: 2024-07-07T05:12:27.458392+00:00
+
+ ## Kakoune - Official site
+ - [https://kakoune.org](https://kakoune.org)
+ - date_published: 2023-10-25T21:35:52.995500+00:00
+
+ ## KalDer Ankara | Türkiye Kalite Derneği
+ - [http://ankara.kalder.org](http://ankara.kalder.org)
+ - date_published: 2024-06-17T15:42:14.591230+00:00
+
+ ## KalDer Bursa| Türkiye Kalite Derneği
+ - [http://bursa.kalder.org](http://bursa.kalder.org)
+ - date_published: 2024-06-17T15:42:12.369780+00:00
+
+ ## KalDer Eskişehir | Türkiye Kalite Derneği
+ - [http://eskisehir.kalder.org](http://eskisehir.kalder.org)
+ - date_published: 2024-06-17T15:42:16.304795+00:00
+
+ ## KalDer İzmir | Türkiye Kalite Derneği
+ - [http://izmir.kalder.org](http://izmir.kalder.org)
+ - date_published: 2024-06-17T15:42:08.099686+00:00
+
+ ## KalDer | Türkiye Kalite Derneği
+ - [https://kalder.org](https://kalder.org)
+ - date_published: 2024-06-17T15:41:58.610087+00:00
+
+ ## Kaldi ASR
+ - [https://kaldi-asr.org](https://kaldi-asr.org)
+ - date_published: 2017-10-03T20:58:25+00:00
+
+ ## سوبر مُجيب | سؤال وجواب
+ - [https://kal-el.org](https://kal-el.org)
+ - date_published: 2024-02-08T16:32:04.706189+00:00
+
+ ## Index of /
+ - [http://archive-4.kali.org](http://archive-4.kali.org)
+ - date_published: 2024-07-07T03:26:22.524086+00:00
+
+ ## Index of /
+ - [http://archive.kali.org](http://archive.kali.org)
+ - date_published: 2024-07-07T03:26:16.286470+00:00
+
+ ## Kali ARM Statistics
+ - [https://arm.kali.org](https://arm.kali.org)
+ - date_published: 2024-05-08T09:04:46.219217+00:00
+
+ ## Kali Continuous Integration
+ - [https://autopkgtest.kali.org](https://autopkgtest.kali.org)
+ - date_published: 2024-05-08T09:04:47.485638+00:00
+
+ ## My View - Kali Linux Bug Tracker
+ - [https://bugs.kali.org](https://bugs.kali.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Index of /
+ - [https://cdimage.kali.org](https://cdimage.kali.org)
+ - date_published: 2024-06-14T22:04:30.098655+00:00
+
+ ## Join the Kali Linux & Friends Discord Server!
+ - [https://discord.kali.org](https://discord.kali.org)
+ - date_published: 2024-05-08T09:04:43.220834+00:00
+
+ ## Kali Linux Forums
+ - [https://forums.kali.org](https://forums.kali.org)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Index of /
+ - [https://http.kali.org](https://http.kali.org)
+ - date_published: 2024-05-08T09:04:44.083246+00:00
+
  ## Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution
  - [https://kali.org](https://kali.org)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -3854,199 +4048,4 @@ Hosted by Panix.com.
  ## Philanthropies
  - [https://ldsphilanthropies.org](https://ldsphilanthropies.org)
  - date_published: 2024-04-30T03:32:16.947662+00:00
-
- ## Cierpliwości...
- - [https://leadcounsel.org](https://leadcounsel.org)
- - date_published: 2024-05-07T13:27:05.304269+00:00
-
- ## Lead Elimination | We are working to reduce lead poisoning and improve the health, wellbeing, and potential of children worldwide.
- - [https://leadelimination.org](https://leadelimination.org)
- - date_published: 2024-06-18T13:18:12+00:00
-
- ## LEA-DER.org | Law Enforcement Agencies – Development/Engineering/Research
- - [https://www.lea-der.org](https://www.lea-der.org)
- - date_published: 2024-07-02T22:01:39.241799+00:00
-
- ## Leader in Me | Educational & Student Leadership Programs & Curriculum
- - [https://www.leaderinme.org](https://www.leaderinme.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Leadership Development Lab
- - [http://www.leadershipdevelopmentlab.org](http://www.leadershipdevelopmentlab.org)
- - date_published: 2024-04-30T05:30:03.851098+00:00
-
- ## Home - Leadership Foundations
- - [https://www.leadershipfoundations.org](https://www.leadershipfoundations.org)
- - date_published: 2024-07-08T16:54:28.818922+00:00
-
- ## Global Lead Pollution Map
- - [https://leadpollution.org](https://leadpollution.org)
- - date_published: 2024-05-22T18:27:16+00:00
-
- ## LEADx: Scale and Sustain Leadership Development
- - [https://leadx.org](https://leadx.org)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## LEADx Mobile App
- - [https://mobile.leadx.org](https://mobile.leadx.org)
- - date_published: 2024-05-08T09:34:20.884760+00:00
-
- ## LEAF – [Lafayette Electronic Arts Festival]
- - [https://leafcolorado.org](https://leafcolorado.org)
- - date_published: 2024-06-21T17:26:36+00:00
-
- ## The League of Entropy
- - [https://leagueofentropy.org](https://leagueofentropy.org)
- - date_published: 2024-07-10T01:54:08.583529+00:00
-
- ## Leah Neukirchen - leah2
- - [https://leahneukirchen.org](https://leahneukirchen.org)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Lea-Linux
- - [https://lea-linux.org](https://lea-linux.org)
- - date_published: 2024-05-06T14:20:18.353073+00:00
-
- ## Lean Blog
- - [http://www.leanblog.org](http://www.leanblog.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Lean Coffee | Start one in your city!
- - [http://leancoffee.org](http://leancoffee.org)
- - date_published: 2024-07-07T07:36:25.323493+00:00
-
- ## LeanDojo: Theorem Proving in Lean Using LLMs
- - [https://leandojo.org](https://leandojo.org)
- - date_published: 2024-07-28T22:34:36+00:00
-
- ## Focused Research Organization — Lean FRO
- - [https://lean-fro.org](https://lean-fro.org)
- - date_published: 2024-04-29T06:15:59.677196+00:00
-
- ## Lean Impact
- - [https://www.leanimpact.org](https://www.leanimpact.org)
- - date_published: 2024-06-21T21:56:41.621009+00:00
-
- ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
- - [https://cdn-static.leanin.org](https://cdn-static.leanin.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
- - [https://leanin.org](https://leanin.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Lean In Store
- - [https://shop.leanin.org](https://shop.leanin.org)
- - date_published: 2024-06-23T01:31:54.886281+00:00
-
- ## Lean In Girls | Girls Leadership Program
- - [https://leaningirls.org](https://leaningirls.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Programming Language and Theorem Prover — Lean
- - [https://lean-lang.org](https://lean-lang.org)
- - date_published: 2024-04-29T06:15:56.514317+00:00
-
- ## Lean 4 Web
- - [https://live.lean-lang.org](https://live.lean-lang.org)
- - date_published: 2024-05-07T15:57:13.078779+00:00
-
- ## Loogle!
- - [https://loogle.lean-lang.org](https://loogle.lean-lang.org)
- - date_published: 2024-04-29T06:16:20.387794+00:00
- - tags: ['open source', 'application']
-
- ## Site is undergoing maintenance
- - [http://alumni.leapafrica.org](http://alumni.leapafrica.org)
- - date_published: 2024-07-14T12:42:02.314864+00:00
-
- ## LEAP Africa
- - [https://leapafrica.org](https://leapafrica.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## learnwithleapafrica
- - [http://learn.leapafrica.org](http://learn.leapafrica.org)
- - date_published: 2024-07-14T12:35:45.304928+00:00
-
- ## Social Innovators Programme & Awards
- - [https://sipa.leapafrica.org](https://sipa.leapafrica.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## LeapChat
- - [https://www.leapchat.org](https://www.leapchat.org)
- - date_published: 2023-03-07T19:56:19+00:00
-
- ## Leapfrog
- - [https://www.leapfroggroup.org](https://www.leapfroggroup.org)
- - date_published: 2024-07-19T04:40:14.213312+00:00
-
- ## California Agriculture in the Classroom
- - [https://learnaboutag.org](https://learnaboutag.org)
- - date_published: 2024-07-08T11:54:29.925239+00:00
-
- ## Learn About Electronics - Home Page
- - [https://learnabout-electronics.org](https://learnabout-electronics.org)
- - date_published: 2023-10-25T21:38:15.033617+00:00
-
- ## The World's First AI-Native Coding Bootcamp - LEARN Academy
- - [https://www.learnacademy.org](https://www.learnacademy.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## BCHS software stack: BSD, C, httpd, SQLite
- - [https://learnbchs.org](https://learnbchs.org)
- - date_published: 2020-05-11T14:51:49+00:00
-
- ## Learn C - Free
-    Interactive C Tutorial
- - [http://www.learn-c.org](http://www.learn-c.org)
- - date_published: 2024-06-22T21:15:01+00:00
-
- ## Learn Code the Hard Way
- - [https://learncodethehardway.org](https://learncodethehardway.org)
- - date_published: 2024-02-28T01:19:33+00:00
-
- ## Learn C++
- - [https://learncplusplus.org](https://learncplusplus.org)
- - date_published: 2024-05-02T07:51:42.877800+00:00
-
- ## Learn Datalog Today!
- - [https://www.learndatalogtoday.org](https://www.learndatalogtoday.org)
- - date_published: 2013-01-01T00:00:00+00:00
-
- ## Learn Delphi
- - [https://learndelphi.org](https://learndelphi.org)
- - date_published: 2017-11-17T15:19:40+00:00
- - tags: ['programming language', 'delphi']
-
- ## Cierpliwości...
- - [https://learner.org](https://learner.org)
- - date_published: 2024-05-07T15:55:17.518248+00:00
-
- ## Institute of General Semantics - Home
- - [http://learn-gs.org](http://learn-gs.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Learn How To Learn - Learn How To Learn
- - [https://learnhowtolearn.org](https://learnhowtolearn.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Learning4You – Courseware for Mastery
- - [https://learning4you.org](https://learning4you.org)
- - date_published: 2024-07-03T19:05:43.467924+00:00
-
- ## Learning4You – Courseware for Mastery
- - [http://www.learning4you.org](http://www.learning4you.org)
- - date_published: 2024-07-03T19:05:30.528205+00:00
-
- ## Kolibri
- - [https://kolibridemo.learningequality.org](https://kolibridemo.learningequality.org)
- - date_published: 2024-07-06T23:47:48.366388+00:00
-
- ## Home | Learning Equality
- - [https://learningequality.org](https://learningequality.org)
- - date_published: 2024-07-06T23:47:46.957405+00:00
-
- ## Home - Zarlengo Foundation Learning Evaluation Center
- - [https://learningevaluationcenter.org](https://learningevaluationcenter.org)
- - date_published: 2024-02-05T00:00:00+00:00
 

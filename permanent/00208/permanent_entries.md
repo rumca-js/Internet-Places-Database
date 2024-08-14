@@ -1,3 +1,155 @@
+ ## Evoke 2022 | August 5th
+      to 7th 2022 | Demoparty in Cologne, Germany
+ - [https://2022.evoke.eu](https://2022.evoke.eu)
+ - date_published: 2024-06-11T12:48:29+00:00
+
+ ## Evoke 2024: 16th-18th August 2024
+ - [https://2024.evoke.eu](https://2024.evoke.eu)
+ - date_published: 2024-06-12T08:45:37+00:00
+
+ ## Evoke 2024: 16th-18th August 2024
+ - [https://www.evoke.eu](https://www.evoke.eu)
+ - date_published: 2024-05-02T07:51:14.418626+00:00
+
+ ## the bad sleep – misplaced items
+ - [https://excus.eu](https://excus.eu)
+ - date_published: 2024-08-08T15:11:12.033054+00:00
+
+ ## Exiobase - Home
+ - [https://www.exiobase.eu](https://www.exiobase.eu)
+ - date_published: 2024-07-04T08:18:57+00:00
+
+ ## Home | Experts Live Europe
+ - [https://www.expertslive.eu](https://www.expertslive.eu)
+ - date_published: 2024-08-11T17:43:49.761268+00:00
+
+ ## Home - Eye Care Foundation English
+ - [https://eyecarefoundation.eu](https://eyecarefoundation.eu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Facing Facts
+ - [https://facingfacts.eu](https://facingfacts.eu)
+ - date_published: 2024-04-30T05:47:59.426271+00:00
+
+ ## Facing Facts Online
+ - [https://www.facingfactsonline.eu](https://www.facingfactsonline.eu)
+ - date_published: 2024-07-21T07:07:03+00:00
+
+ ## Sign in ・ Cloudflare Access
+ - [https://plausible.fangamer.eu](https://plausible.fangamer.eu)
+ - date_published: 2024-06-21T11:07:54.694342+00:00
+
+ ## Fangamer Europe - Video game shirts, books, prints, and more.
+ - [https://www.fangamer.eu](https://www.fangamer.eu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## MyFANUC
+ - [https://my.fanuc.eu](https://my.fanuc.eu)
+ - date_published: 2024-05-07T23:46:08.039781+00:00
+
+ ## FANUC Portal
+ - [https://portal.fanuc.eu](https://portal.fanuc.eu)
+ - date_published: 2024-05-07T23:46:02.591619+00:00
+
+ ## FANUC | The Factory Automation Company - Fanuc
+ - [https://fanuc.eu](https://fanuc.eu)
+ - date_published: 2023-11-27T15:45:02+00:00
+ - tags: ['robotics']
+
+ ## FASA- Packaging Technology since 1959
+ - [http://www.fasa.eu](http://www.fasa.eu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## My portal
+		 -
+ campo.fau.de
+ - [https://campo.fau.eu](https://campo.fau.eu)
+ - date_published: 2024-05-09T05:10:48.840919+00:00
+
+ ## FAU Erlangen-Nürnberg
+ - [https://fau.eu](https://fau.eu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Student Advice Center
+ - [https://ibz.fau.eu](https://ibz.fau.eu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Meinstudium (english)
+ - [https://meinstudium.fau.eu](https://meinstudium.fau.eu)
+ - date_published: 2024-05-09T05:10:42.368314+00:00
+
+ ## Chair for Quantum Theory
+ - [https://www.quantumtheory.nat.fau.eu](https://www.quantumtheory.nat.fau.eu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Faculty of Engineering
+ - [https://www.tf.fau.eu](https://www.tf.fau.eu)
+ - date_published: 2024-05-29T06:57:02+00:00
+
+ ## Home
+ - [http://hlt.fbk.eu](http://hlt.fbk.eu)
+ - date_published: 2024-07-02T09:47:02.528966+00:00
+
+ ## Homepage
+ - [https://www.fbk.eu](https://www.fbk.eu)
+ - date_published: 2024-06-15T15:55:03.852806+00:00
+
+ ## https://www.feadin.eu/en/
+ - [https://www.feadin.eu](https://www.feadin.eu)
+ - date_published: 2024-03-23T11:12:22+00:00
+
+ ## Home | LMS Federica
+ - [https://lms.federica.eu](https://lms.federica.eu)
+ - date_published: 2024-07-04T09:44:54+00:00
+
+ ## https://federicoleva.eu/en/
+ - [https://federicoleva.eu](https://federicoleva.eu)
+ - date_published: 2024-07-13T23:54:15.152305+00:00
+
+ ## Felix Reda
+ - [https://felixreda.eu](https://felixreda.eu)
+ - date_published: 2024-04-17T14:37:07.590738+00:00
+
+ ## Thijs Feryn - Technical Evangelist, international conference speaker and published author
+ - [https://feryn.eu](https://feryn.eu)
+ - date_published: 2024-07-08T16:13:29.630339+00:00
+
+ ## Home - European Festivals Association - European Festivals Association
+ - [https://www.festivalfinder.eu](https://www.festivalfinder.eu)
+ - date_published: 2023-11-23T00:00:00+00:00
+
+ ## fettblog.eu | TypeScript, JavaScript, Rust
+ - [https://fettblog.eu](https://fettblog.eu)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Holistic Security for Data and IT Systems
+ - [https://ff-sec.eu](https://ff-sec.eu)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## fi-compass | Financial instruments under EU shared management
+ - [https://www.fi-compass.eu](https://www.fi-compass.eu)
+ - date_published: 2024-07-01T01:20:38+00:00
+
+ ## Filmphotography.eu - Alles Wissenswerte über analoge Fotografie
+ - [https://filmphotography.eu](https://filmphotography.eu)
+ - date_published: 2024-05-07T15:33:24.701264+00:00
+
+ ## kleines Filmröllchen’s webbed site
+ - [https://filmroellchen.eu](https://filmroellchen.eu)
+ - date_published: 2024-07-08T10:44:15+00:00
+
+ ## Filson Europe | The American Heritage Outerwear, Clothing, Bags & More
+ - [https://roe.filson.eu](https://roe.filson.eu)
+ - date_published: 2024-05-04T06:00:41.348275+00:00
+
+ ## Filson Europe | The American Heritage Outerwear, Clothing, Bags & More
+ - [https://uk.filson.eu](https://uk.filson.eu)
+ - date_published: 2024-05-04T06:00:46.063228+00:00
+
+ ## Filson Europe | The American Heritage Outerwear, Clothing, Bags & More
+ - [https://www.filson.eu](https://www.filson.eu)
+ - date_published: 2024-05-04T06:00:37.018296+00:00
+
  ## FishChoice – Your personal fish calculator
  - [https://www.fishchoice.eu](https://www.fishchoice.eu)
  - date_published: 2024-08-07T22:48:25.729240+00:00
@@ -3892,153 +4044,4 @@ Portal
  - [https://xnux.eu](https://xnux.eu)
  - date_published: 2024-06-01T04:55:29.705190+00:00
  - tags: ['linux']
-
- ## O lar do xogón
- - [https://xogon.eu](https://xogon.eu)
- - date_published: 2024-05-09T08:04:40.573607+00:00
-
- ## Xometry Europe – Manufacturing Services: CNC, Sheet Metal, 3D Printing, Injection Moulding
- - [https://xometry.eu](https://xometry.eu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## ignormatyk – blogito ergo sum
- - [https://xpil.eu](https://xpil.eu)
- - date_published: 2024-07-03T06:30:15.602760+00:00
-
- ## XTDMUSIC.EU
- - [https://xtdmusic.eu](https://xtdmusic.eu)
- - date_published: 2024-05-08T17:09:30.066110+00:00
- - tags: ['amiga', 'personal']
-
- ## Home - Yanis Varoufakis
- - [https://yanisvaroufakis.eu](https://yanisvaroufakis.eu)
- - date_published: 2024-05-08T00:00:47.026177+00:00
-
- ## The Perl and Raku Conference in Amsterdam 2020 - Cancelled
- - [https://act.yapc.eu](https://act.yapc.eu)
- - date_published: 2024-05-30T13:11:00.742449+00:00
-
- ## Property Management Software for Europe
- - [https://www.yardi.eu](https://www.yardi.eu)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## EDOmame
- - [https://edo.yarmo.eu](https://edo.yarmo.eu)
- - date_published: 2024-03-30T15:57:30+00:00
-
- ## Yarmo
- - [https://faircamp.yarmo.eu](https://faircamp.yarmo.eu)
- - date_published: 2023-11-11T15:19:53+00:00
-
- ## yarmo's website
- - [https://yarmo.eu](https://yarmo.eu)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Play You Don't Know Jack® DE
- - [https://de.ydkj.eu](https://de.ydkj.eu)
- - date_published: 2024-07-01T10:43:51.203384+00:00
-
- ## Yerun - Young European Research Universities Network
- - [https://yerun.eu](https://yerun.eu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## yfood - Healthy nutrition. In every situation.
- - [https://en.yfood.eu](https://en.yfood.eu)
- - date_published: 2024-06-22T15:06:11.997996+00:00
-
- ## The Yojik Website
- - [https://fsi-languages.yojik.eu](https://fsi-languages.yojik.eu)
- - date_published: 2022-11-13T14:28:39+00:00
-
- ## Etherpad Lite
- - [https://yopad.eu](https://yopad.eu)
- - date_published: 2022-12-19T14:44:45+00:00
-
- ## WYouMoveeMove Europe
- - [https://youmoveeurope.eu](https://youmoveeurope.eu)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Home - Young Friends of the Earth Europe
- - [https://youngfoee.eu](https://youngfoee.eu)
- - date_published: 2024-07-03T02:06:43.764837+00:00
-
- ## Your Online Choices | EDAA
- - [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu)
- - date_published: 2021-04-23T13:19:20+00:00
-
- ## Your Online Choices | EDAA
- - [http://youronlinechoices.eu](http://youronlinechoices.eu)
- - date_published: 2021-04-23T13:19:20+00:00
-
- ## notes from out there.
- - [https://notes.z428.eu](https://notes.z428.eu)
- - date_published: 2024-07-07T05:00:33+00:00
-
- ## z80cpu.eu
- - [https://z80cpu.eu](https://z80cpu.eu)
- - date_published: 2024-05-09T06:56:20.208982+00:00
-
- ## ZBW - Startseite
- - [https://www.zbw.eu](https://www.zbw.eu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Zdenka Architecture & Design
- - [http://www.zdenka.eu](http://www.zdenka.eu)
- - date_published: 2019-06-06T20:22:57+00:00
-
- ## Homepage
- - [https://workat.zivver.eu](https://workat.zivver.eu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Zoho Desk | Top Rated Customer Service Help Desk Software
- - [https://desk.zoho.eu](https://desk.zoho.eu)
- - date_published: 2024-05-06T21:33:02.301875+00:00
-
- ## Zoho SalesIQ | The Customer Engagement Platform For Your Business
- - [https://salesiq.zoho.eu](https://salesiq.zoho.eu)
- - date_published: 2023-09-21T11:13:50+00:00
-
- ## Zoho Accounts
- - [https://zia.zoho.eu](https://zia.zoho.eu)
- - date_published: 2024-07-18T14:58:56.847661+00:00
-
- ## Form Builder | Create Free Online Forms - Zoho Forms
- - [https://forms.zohopublic.eu](https://forms.zohopublic.eu)
- - date_published: 2024-01-25T07:08:01+00:00
-
- ## Zoho SalesIQ | The Customer Engagement Platform For Your Business
- - [https://salesiq.zohopublic.eu](https://salesiq.zohopublic.eu)
- - date_published: 2023-09-21T11:13:50+00:00
-
- ## Career Portal
- - [https://alexanderdanielsglobal.zohorecruit.eu](https://alexanderdanielsglobal.zohorecruit.eu)
- - date_published: 2024-07-08T18:32:49.939776+00:00
-
- ## Jobs at Dexerto
- - [https://dexerto.zohorecruit.eu](https://dexerto.zohorecruit.eu)
- - date_published: 2024-06-15T23:26:18.814631+00:00
-
- ## ZoneID API
- - [https://api.zone.eu](https://api.zone.eu)
- - date_published: 2024-07-13T09:56:07.678369+00:00
-
- ## help.zone.eu - Kui siit vastust ei leia, siis info@zone.ee aitab ikka :-)
- - [https://help.zone.eu](https://help.zone.eu)
- - date_published: 2024-07-13T09:56:14.649164+00:00
-
- ## Zone Webadmin
- - [https://my.zone.eu](https://my.zone.eu)
- - date_published: 2024-07-13T09:55:44.300749+00:00
-
- ## Zone.eu Infrastructure status page
- - [https://status.zone.eu](https://status.zone.eu)
- - date_published: 2024-07-13T09:56:22.332611+00:00
-
- ## support.zone.eu - If you can't find the answer here, then info@zone.eu will help :-)
- - [https://support.zone.eu](https://support.zone.eu)
- - date_published: 2024-07-20T06:09:19.485758+00:00
-
- ## Zone Webmail
- - [https://webmail.zone.eu](https://webmail.zone.eu)
- - date_published: 2024-04-05T08:46:12+00:00
 

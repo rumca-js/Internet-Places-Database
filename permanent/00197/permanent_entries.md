@@ -1,3 +1,163 @@
+ ## Campus Directory | Rensselaer Polytechnic Institute
+ - [https://directory.rpi.edu](https://directory.rpi.edu)
+ - date_published: 2024-07-01T18:29:10.735930+00:00
+
+ ## Information Technology and Services | Rensselaer Polytechnic Institute
+ - [https://dotcio.rpi.edu](https://dotcio.rpi.edu)
+ - date_published: 2024-07-01T17:37:01+00:00
+
+ ## Environmental Health & Safety | Rensselaer Polytechnic Institute
+ - [https://ehs.rpi.edu](https://ehs.rpi.edu)
+ - date_published: 2024-07-01T14:42:29+00:00
+
+ ## EMPAC — The Experimental Media and Performing Arts Center at Rensselaer Polytechnic Institute. | Experimental Media and Performing Arts Center (EMPAC)
+ - [https://empac.rpi.edu](https://empac.rpi.edu)
+ - date_published: 2024-07-01T18:28:40+00:00
+
+ ## School of Engineering | Rensselaer Polytechnic Institute
+ - [https://eng.rpi.edu](https://eng.rpi.edu)
+ - date_published: 2024-07-01T16:55:48+00:00
+
+ ## Every Day Matters – World-Changing. Ground Breaking. Boundary Pushing.
+ - [https://everydaymatters.rpi.edu](https://everydaymatters.rpi.edu)
+ - date_published: 2024-05-07T20:08:24.201330+00:00
+
+ ## Rensselaer at Work | Rensselaer Polytechnic Institute
+ - [https://ewp.rpi.edu](https://ewp.rpi.edu)
+ - date_published: 2024-07-01T18:28:39.643908+00:00
+
+ ## Faculty | Rensselaer Polytechnic Institute
+ - [https://faculty.rpi.edu](https://faculty.rpi.edu)
+ - date_published: 2024-07-01T18:06:47+00:00
+
+ ## Division of Finance | Rensselaer Polytechnic Institute
+ - [https://finance.rpi.edu](https://finance.rpi.edu)
+ - date_published: 2024-07-01T14:38:44+00:00
+
+ ## Institute Advancement | Rensselaer Giving
+ - [http://giving.rpi.edu](http://giving.rpi.edu)
+ - date_published: 2024-07-01T18:27:21.987514+00:00
+
+ ## Home Page | GO
+ - [https://go.rpi.edu](https://go.rpi.edu)
+ - date_published: 2024-07-01T16:06:23+00:00
+
+ ## Graduate Education | Rensselaer Polytechnic Institute
+ - [https://graduate.rpi.edu](https://graduate.rpi.edu)
+ - date_published: 2024-07-01T18:06:34+00:00
+
+ ## Library Guides
+ - [https://guides.lib.rpi.edu](https://guides.lib.rpi.edu)
+ - date_published: 2024-07-01T18:29:52.085888+00:00
+
+ ## The School of Humanities, Arts, and Social Sciences | Rensselaer Polytechnic Institute
+ - [https://hass.rpi.edu](https://hass.rpi.edu)
+ - date_published: 2024-07-01T14:52:02+00:00
+
+ ## Human Resources | Rensselaer Polytechnic Institute
+ - [https://hr.rpi.edu](https://hr.rpi.edu)
+ - date_published: 2024-07-01T15:15:20+00:00
+
+ ## RPInfo | RPI INFO
+ - [https://info.rpi.edu](https://info.rpi.edu)
+ - date_published: 2024-05-07T20:08:30.896036+00:00
+
+ ## DotCIO - IT Services and Support Center
+ - [https://itssc.rpi.edu](https://itssc.rpi.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Lally School of Management | RPI's Business School
+ - [https://lallyschool.rpi.edu](https://lallyschool.rpi.edu)
+ - date_published: 2024-07-01T17:41:30+00:00
+
+ ## Rensselaer Libraries | Rensselaer Polytechnic Institute
+ - [https://library.rpi.edu](https://library.rpi.edu)
+ - date_published: 2024-07-01T18:27:32+00:00
+
+ ## Blackboard Learn
+ - [https://lms.rpi.edu](https://lms.rpi.edu)
+ - date_published: 2004-07-01T18:29:57+00:00
+
+ ## Rensselaer News | News & Events
+ - [https://news.rpi.edu](https://news.rpi.edu)
+ - date_published: 2023-10-24T20:05:28.211262+00:00
+
+ ## Policy Library | Rensselaer Polytechnic Institute
+ - [https://policy.rpi.edu](https://policy.rpi.edu)
+ - date_published: 2024-05-07T20:08:28.528231+00:00
+
+ ## Procurement Services | Rensselaer Polytechnic Institute
+ - [https://procurement.rpi.edu](https://procurement.rpi.edu)
+ - date_published: 2024-07-01T17:54:38+00:00
+
+ ## Office of the Provost | Rensselaer Polytechnic Institute
+ - [https://provost.rpi.edu](https://provost.rpi.edu)
+ - date_published: 2024-07-01T18:01:42+00:00
+
+ ## Public Safety | Rensselaer Polytechnic Institute
+ - [https://publicsafety.rpi.edu](https://publicsafety.rpi.edu)
+ - date_published: 2024-07-01T18:29:17+00:00
+
+ ## Campus Recreation
+ - [http://recreation.union.rpi.edu](http://recreation.union.rpi.edu)
+ - date_published: 2024-07-01T18:29:28.502102+00:00
+
+ ## Office for Research | Rensselaer Polytechnic Institute
+ - [https://research.rpi.edu](https://research.rpi.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ROTC | Rensselaer Polytechnic Institute
+ - [https://rotc.rpi.edu](https://rotc.rpi.edu)
+ - date_published: 2024-07-01T18:24:25+00:00
+
+ ## Rensselaer Polytechnic Institute
+ - [https://rpi.edu](https://rpi.edu)
+ - date_published: 2024-05-07T20:08:25.719125+00:00
+
+ ## RPInfo | RPI INFO
+ - [http://rpinfo.rpi.edu](http://rpinfo.rpi.edu)
+ - date_published: 2024-07-01T18:28:13.345096+00:00
+
+ ## Home | Office of Community Engagement and Communications
+ - [https://scer.rpi.edu](https://scer.rpi.edu)
+ - date_published: 2024-05-07T20:08:27.436933+00:00
+
+ ## School of Science at Rensselaer | Science at Rensselaer
+ - [https://science.rpi.edu](https://science.rpi.edu)
+ - date_published: 2024-07-01T18:28:03+00:00
+
+ ## Sexual Misconduct / Title IX | Rensselaer Polytechnic Institute
+ - [https://sexualviolence.rpi.edu](https://sexualviolence.rpi.edu)
+ - date_published: 2024-05-07T20:08:31.984995+00:00
+
+ ## RPI Student Government
+ - [https://sg.rpi.edu](https://sg.rpi.edu)
+ - date_published: 2024-07-01T18:29:08.254752+00:00
+
+ ## Redirect to Banner 8 SIS Login Page
+ - [http://sis.rpi.edu](http://sis.rpi.edu)
+ - date_published: 2023-01-31T18:25:44+00:00
+
+ ## Student Living and Learning | Rensselaer Polytechnic Institute
+ - [https://sll.rpi.edu](https://sll.rpi.edu)
+ - date_published: 2024-07-01T18:25:40+00:00
+
+ ## Student Health and Wellness | Rensselaer Polytechnic Institute
+ - [http://studenthealth.rpi.edu](http://studenthealth.rpi.edu)
+ - date_published: 2024-07-01T18:29:19+00:00
+
+ ## The Division of Student Life | RPI INFO
+ - [http://studentlife.rpi.edu](http://studentlife.rpi.edu)
+ - date_published: 2024-07-01T18:27:27.973906+00:00
+
+ ## Student Success | Rensselaer Polytechnic Institute
+ - [https://success.studentlife.rpi.edu](https://success.studentlife.rpi.edu)
+ - date_published: 2024-07-01T18:26:51+00:00
+
+ ## Summer@Rensselaer | Rensselaer Polytechnic Institute
+ - [https://summer.rpi.edu](https://summer.rpi.edu)
+ - date_published: 2024-07-01T18:21:53+00:00
+
  ## The Arch | Rensselaer Polytechnic Institute
  - [https://the-arch.rpi.edu](https://the-arch.rpi.edu)
  - date_published: 2024-07-01T15:17:06+00:00
@@ -3847,164 +4007,4 @@
  ## Give to St. Thomas
  - [https://give.stthomas.edu](https://give.stthomas.edu)
  - date_published: 2024-07-10T13:38:02+00:00
-
- ## Homepage - Newsroom | University of St. Thomas
- - [https://news.stthomas.edu](https://news.stthomas.edu)
- - date_published: 2021-06-30T22:53:43+00:00
-
- ## Home
- - [https://www.stthomas.edu](https://www.stthomas.edu)
- - date_published: 2024-08-06T17:15:20+00:00
-
- ## This is Saint Vincent
- - [http://www.stvincent.edu](http://www.stvincent.edu)
- - date_published: 2024-06-20T15:09:27+00:00
-
- ## Suffolk University in Boston - Suffolk University
- - [https://boston.suffolk.edu](https://boston.suffolk.edu)
- - date_published: 2024-06-17T04:04:28.950785+00:00
-
- ## Sign In
- - [https://canvas.suffolk.edu](https://canvas.suffolk.edu)
- - date_published: 2024-06-17T04:04:34.336462+00:00
-
- ## Events Calendar
- - [https://events.suffolk.edu](https://events.suffolk.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Graduate Admission | Suffolk University | Boston, MA
- - [https://grad.suffolk.edu](https://grad.suffolk.edu)
- - date_published: 2024-06-17T04:04:08.192541+00:00
-
- ## waprodB
- - [https://waprod.suffolk.edu](https://waprod.suffolk.edu)
- - date_published: 2019-01-28T17:54:00+00:00
-
- ## Suffolk University in Boston - Suffolk University
- - [https://www.suffolk.edu](https://www.suffolk.edu)
- - date_published: 2024-05-02T07:57:05.260421+00:00
-
- ## Aveda Institute Fort Myers | Esthetician School | Be Aveda
- - [http://www.sunstate.edu](http://www.sunstate.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## State University of New York Press
- - [http://www.sunypress.edu](http://www.sunypress.edu)
- - date_published: 2024-06-28T13:14:08+00:00
-
- ## HOME | Department of Computer Science
- - [http://www.cs.sunysb.edu](http://www.cs.sunysb.edu)
- - date_published: 2024-07-15T11:29:37.402361+00:00
-
- ## Stony Brook Mathematics Department and Institute for Mathematical Sciences | Mathematics Department and the Institute for Mathematical Sciences
- - [http://www.math.sunysb.edu](http://www.math.sunysb.edu)
- - date_published: 2024-06-30T08:23:43.299043+00:00
-
- ## Stony Brook University
- - [http://www.sunysb.edu](http://www.sunysb.edu)
- - date_published: 2024-06-23T20:38:32.041303+00:00
-
- ## Shahjalal University of Science & Technology
- - [http://www.sust.edu](http://www.sust.edu)
- - date_published: 2024-07-02T19:03:03.926347+00:00
-
- ## Home - SVA MFA Interaction Design
- - [http://interactiondesign.sva.edu](http://interactiondesign.sva.edu)
- - date_published: 2023-04-04T11:57:26+00:00
-
- ## Swarthmore College - ITS Blog -
- - [http://blogs.swarthmore.edu](http://blogs.swarthmore.edu)
- - date_published: 2024-07-02T06:18:36.268401+00:00
-
- ## The Bulletin
- - [https://bulletin.swarthmore.edu](https://bulletin.swarthmore.edu)
- - date_published: 2020-11-17T12:56:32+00:00
-
- ## Swat Central - Swarthmore College Calendar
- - [http://calendar.swarthmore.edu](http://calendar.swarthmore.edu)
- - date_published: 2024-03-07T20:02:14+00:00
-
- ## Swarthmore College: Campus Map
- - [https://campusmap.swarthmore.edu](https://campusmap.swarthmore.edu)
- - date_published: 2019-05-17T19:02:30+00:00
-
- ## Swarthmore College - Acalog ACMS™
- - [https://catalog.swarthmore.edu](https://catalog.swarthmore.edu)
- - date_published: 2024-05-07T20:37:39.743064+00:00
-
- ## classifieds.swarthmore.edu
- - [https://classifieds.swarthmore.edu](https://classifieds.swarthmore.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Giving
- - [https://lifechanging.swarthmore.edu](https://lifechanging.swarthmore.edu)
- - date_published: 2020-10-13T18:57:53+00:00
-
- ## The Scott Arboretum of Swarthmore College - Swarthmore, PA
- - [https://scott-dev.domains.swarthmore.edu](https://scott-dev.domains.swarthmore.edu)
- - date_published: 2024-07-01T20:49:01.731805+00:00
-
- ## Swarthmore Campus & Community Store
- - [https://store.swarthmore.edu](https://store.swarthmore.edu)
- - date_published: 2024-05-07T20:37:28.387822+00:00
-
- ## Swat Central - Swarthmore College Calendar
- - [https://swatcentral.swarthmore.edu](https://swatcentral.swarthmore.edu)
- - date_published: 2024-03-07T20:02:14+00:00
-
- ## Swarthmore College - ITS Blog -
- - [http://weblogs.swarthmore.edu](http://weblogs.swarthmore.edu)
- - date_published: 2024-08-11T12:50:46.042080+00:00
-
- ## Works: Scholarship, Research, & Creative Expression at Swarthmore College
- - [https://works.swarthmore.edu](https://works.swarthmore.edu)
- - date_published: 2024-07-02T10:48:33.082765+00:00
-
- ## Computer Science
- - [https://www.cs.swarthmore.edu](https://www.cs.swarthmore.edu)
- - date_published: 2016-06-28T19:44:24+00:00
-
- ## Swarthmore Home :: Swarthmore College
- - [https://swarthmore.edu](https://swarthmore.edu)
- - date_published: 2024-05-07T20:32:18.035941+00:00
-
- ## Southwestern Law School - Los Angeles
- - [https://www.swlaw.edu](https://www.swlaw.edu)
- - date_published: 2024-06-14T22:59:38+00:00
-
- ## UT Southwestern Medical Center
- - [https://profileplus.swmed.edu](https://profileplus.swmed.edu)
- - date_published: 2014-05-05T19:03:43+00:00
-
- ## St. Xavier's College (Autonomous), Kolkata
- - [http://www.sxccal.edu](http://www.sxccal.edu)
- - date_published: 2024-07-02T21:15:52+00:00
-
- ## Institutional Effectiveness - IE – Syracuse University
- - [http://assessment.syr.edu](http://assessment.syr.edu)
- - date_published: 2024-07-01T20:50:42.989102+00:00
-
- ## Blackboard Learn
- - [https://blackboard.syr.edu](https://blackboard.syr.edu)
- - date_published: 2004-07-01T20:49:36+00:00
-
- ## Home - Campus Framework – Syracuse University
- - [https://campusframework.syr.edu](https://campusframework.syr.edu)
- - date_published: 2024-02-08T22:03:40.531573+00:00
-
- ## Center for Learning and Student Success (CLASS) - Center for Learning and Student Success  – Syracuse University
- - [https://class.syr.edu](https://class.syr.edu)
- - date_published: 2024-07-01T20:50:29.375691+00:00
-
- ## Syracuse University - Acalog ACMS™
- - [http://coursecatalog.syr.edu](http://coursecatalog.syr.edu)
- - date_published: 2024-07-01T20:50:26.684172+00:00
-
- ## Now Loading...
- - [http://directory.syr.edu](http://directory.syr.edu)
- - date_published: 2014-10-28T13:24:58+00:00
-
- ## Center for Disability Resources
- - [https://disabilityresources.syr.edu](https://disabilityresources.syr.edu)
- - date_published: 2024-07-01T20:50:34.987352+00:00
 

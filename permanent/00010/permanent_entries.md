@@ -1,3 +1,43 @@
+ ## يونس بن عمارة
+ - [https://youdo.blog](https://youdo.blog)
+ - date_published: 2024-05-06T13:46:38.200533+00:00
+
+ ## ℤ→ℤ
+ - [https://ztoz.blog](https://ztoz.blog)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Who’s Afraid of The Blues
+ - [https://afraid.blue](https://afraid.blue)
+ - date_published: 2022-12-23T13:31:45+00:00
+
+ ## Documentation
+ - [https://atproto.blue](https://atproto.blue)
+ - date_published: 2024-06-16T18:23:16+00:00
+
+ ## Home - Blue Foundation
+ - [https://www.bluefoundation.blue](https://www.bluefoundation.blue)
+ - date_published: 2023-12-16T01:36:04+00:00
+
+ ## banshee's web corner
+ - [https://banshee.bouvardia.blue](https://banshee.bouvardia.blue)
+ - date_published: 2024-04-19T00:11:24+00:00
+
+ ## deck.blue
+ - [https://deck.blue](https://deck.blue)
+ - date_published: 2024-05-02T13:43:30.287593+00:00
+
+ ## Textz // ethical.blue Magazine // Cybersecurity clarified.
+ - [https://ethical.blue](https://ethical.blue)
+ - date_published: 2024-08-06T22:20:47.716775+00:00
+
+ ## gemlog.blue
+ - [https://gemlog.blue](https://gemlog.blue)
+ - date_published: 2024-07-10T08:52:11.454437+00:00
+
+ ## Look At Blue
+ - [http://lookat.blue](http://lookat.blue)
+ - date_published: 2017-08-27T17:16:56+00:00
+
  ## Mackenzie Davidson
  - [http://mackenzie.blue](http://mackenzie.blue)
  - date_published: 2024-07-13T15:13:54.457281+00:00
@@ -2591,6 +2631,10 @@ Educação
  - [http://www.polaristec.com.br](http://www.polaristec.com.br)
  - date_published: 2014-02-17T17:07:30+00:00
 
+ ## Porta Lá Fricas – Blog das Irmãs Frica
+ - [http://www.portalafricas.com.br](http://www.portalafricas.com.br)
+ - date_published: 2024-08-12T04:29:39.190379+00:00
+
  ## Aliança | e-Commerce
  - [https://www.portalcabotagem.com.br](https://www.portalcabotagem.com.br)
  - date_published: 2024-05-27T17:22:50+00:00
@@ -3975,48 +4019,4 @@ Educação
  ## Secretaria Municipal da Educação
  - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
  - date_published: 2024-06-12T11:18:18.932345+00:00
-
- ## Fala Curitiba - Prefeitura de Curitiba
- - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:10.734623+00:00
-
- ## Gabinete do Prefeito - Prefeitura de Curitiba
- - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:53.608945+00:00
-
- ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
- - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:21.324685+00:00
-
- ## Guia - Prefeitura de Curitiba
- - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:49.203800+00:00
-
- ## Home Page - ICICore.Servidor
- - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:23.930507+00:00
-
- ## IMAP
- - [http://imap.curitiba.pr.gov.br](http://imap.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:11.734092+00:00
-
- ## Consulta Externa de Atos
- - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:27.832937+00:00
-
- ## mid-guia.curitiba.pr.gov.br - /
- - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:43.588967+00:00
-
- ## mid-servidor.curitiba.pr.gov.br - /
- - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:19:55.374914+00:00
-
- ## Turismo - Prefeitura de Curitiba
- - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:52.463670+00:00
-
- ## Orçamento e Planejamento
- - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:01.327323+00:00
 

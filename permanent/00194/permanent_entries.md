@@ -1,3 +1,163 @@
+ ## Pradžia
+ - [https://bendrabuciai.ktu.edu](https://bendrabuciai.ktu.edu)
+ - date_published: 2024-07-01T11:24:05.276622+00:00
+
+ ## Bibliotekos paslaugos
+ - [https://biblioteka.ktu.edu](https://biblioteka.ktu.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Apie
+ - [https://biomedicina.ktu.edu](https://biomedicina.ktu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## About
+ - [https://biomedicine.ktu.edu](https://biomedicine.ktu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home
+ - [https://business.ktu.edu](https://business.ktu.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Home
+ - [https://centenary.ktu.edu](https://centenary.ktu.edu)
+ - date_published: 2023-11-06T00:00:00+00:00
+
+ ## Home
+ - [https://compsystems.ktu.edu](https://compsystems.ktu.edu)
+ - date_published: 2023-06-22T00:00:00+00:00
+
+ ## Home
+ - [https://csci.ktu.edu](https://csci.ktu.edu)
+ - date_published: 2023-12-20T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://ctf.ktu.edu](https://ctf.ktu.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Pradžia
+ - [https://dicentras.ktu.edu](https://dicentras.ktu.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Pradžia
+ - [https://dormitory.ktu.edu](https://dormitory.ktu.edu)
+ - date_published: 2023-12-22T00:00:00+00:00
+
+ ## ECIU University
+ - [https://eciu-en.ktu.edu](https://eciu-en.ktu.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Apie ECIU universitetą
+ - [https://eciu.ktu.edu](https://eciu.ktu.edu)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Home
+ - [https://edulab-en.ktu.edu](https://edulab-en.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Pradžia
+ - [https://edulab.ktu.edu](https://edulab.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Pradinis
+ - [https://eef.ktu.edu](https://eef.ktu.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Pradžia
+ - [https://emeritus.ktu.edu](https://emeritus.ktu.edu)
+ - date_published: 2024-05-07T19:17:49.924180+00:00
+
+ ## Home
+ - [https://en.ktu.edu](https://en.ktu.edu)
+ - date_published: 2023-12-25T16:53:53.461151+00:00
+
+ ## Pradinis puslapis
+ - [https://evf.ktu.edu](https://evf.ktu.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://fcea.ktu.edu](https://fcea.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://fct.ktu.edu](https://fct.ktu.edu)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Home
+ - [https://feee.ktu.edu](https://feee.ktu.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [https://fi.ktu.edu](https://fi.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Home
+ - [https://fmed.ktu.edu](https://fmed.ktu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://fmns.ktu.edu](https://fmns.ktu.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Research
+ - [https://food.ktu.edu](https://food.ktu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Home
+ - [https://fssah.ktu.edu](https://fssah.ktu.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://if.ktu.edu](https://if.ktu.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://ktu.edu](https://ktu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Pradžia
+ - [https://leidykla.ktu.edu](https://leidykla.ktu.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Library Services
+ - [https://library.ktu.edu](https://library.ktu.edu)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Mokslas
+ - [https://maistas.ktu.edu](https://maistas.ktu.edu)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Research
+ - [https://materials.ktu.edu](https://materials.ktu.edu)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Research
+ - [https://mechatronics.ktu.edu](https://mechatronics.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Mokslas
+ - [https://mechatronika.ktu.edu](https://mechatronika.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Mokslas
+ - [https://medziagos.ktu.edu](https://medziagos.ktu.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Pradinis puslapis
+ - [https://mgmf.ktu.edu](https://mgmf.ktu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Pradžia
+ - [https://midf.ktu.edu](https://midf.ktu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## KTU kviečia mokyklas atrasti technologijų pasaulį!
+ - [https://mokykloms.ktu.edu](https://mokykloms.ktu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Prisijungti
+ - [http://moodle.ktu.edu](http://moodle.ktu.edu)
+ - date_published: 2024-07-01T11:54:14.466148+00:00
+
  ## Home
  - [https://museum.ktu.edu](https://museum.ktu.edu)
  - date_published: 2024-03-05T00:00:00+00:00
@@ -3843,165 +4003,4 @@
  ## Institutional Diversity and Inclusion | Michigan State University
  - [https://inclusion.msu.edu](https://inclusion.msu.edu)
  - date_published: 2024-07-01T11:26:27+00:00
-
- ## CSE Intranet Site
- - [https://intranet.cse.msu.edu](https://intranet.cse.msu.edu)
- - date_published: 2024-06-22T10:17:01.468707+00:00
-
- ## Log in | College of Engineering Intranet
- - [https://intranet.egr.msu.edu](https://intranet.egr.msu.edu)
- - date_published: 2024-06-22T10:16:37.241183+00:00
-
- ## - Michigan State University
- - [https://involve.msu.edu](https://involve.msu.edu)
- - date_published: 2024-07-01T15:42:47.324315+00:00
-
- ## Home | SLE Employment
- - [https://jobs.rhs.msu.edu](https://jobs.rhs.msu.edu)
- - date_published: 2024-07-01T15:02:09+00:00
-
- ## Home | SLE Employment
- - [https://jobs.sle.msu.edu](https://jobs.sle.msu.edu)
- - date_published: 2024-05-07T19:38:22.225443+00:00
-
- ## The Gender and Sexuality Campus Center | Michigan State University
- - [http://lbgtrc.msu.edu](http://lbgtrc.msu.edu)
- - date_published: 2022-09-06T20:15:37+00:00
-
- ## Enviroweather - Weather for IPM decisions in Michigan
- - [https://legacy.enviroweather.msu.edu](https://legacy.enviroweather.msu.edu)
- - date_published: 2024-07-01T12:57:10.941888+00:00
-
- ## Home | Live On - Michigan State University
- - [https://liveon.msu.edu](https://liveon.msu.edu)
- - date_published: 2024-05-07T19:38:48.453283+00:00
-
- ## Home
- - [https://maflt.cal.msu.edu](https://maflt.cal.msu.edu)
- - date_published: 2024-07-01T12:27:48.191234+00:00
-
- ## MOSAIC: The Multicultural Unity Center | Michigan State University
- - [https://mosaic.msu.edu](https://mosaic.msu.edu)
- - date_published: 2023-08-24T15:08:22+00:00
-
- ## MSU Bakers
- - [https://msubakers.msu.edu](https://msubakers.msu.edu)
- - date_published: 2024-07-01T15:43:16.659771+00:00
-
- ## Home Page | MSU Tennis Center
- - [https://msutennis.msu.edu](https://msutennis.msu.edu)
- - date_published: 2024-05-07T19:38:39.592860+00:00
-
- ## https://msutoday.msu.edu
- - [https://msutoday.msu.edu](https://msutoday.msu.edu)
- - date_published: 2023-12-23T11:36:25.043855+00:00
-
- ## Home
- - [https://nssc.msu.edu](https://nssc.msu.edu)
- - date_published: 2024-06-22T10:17:11.201268+00:00
-
- ## Office of Cultural & Academic Transitions
- - [https://ocat.msu.edu](https://ocat.msu.edu)
- - date_published: 2024-07-01T15:43:09.232769+00:00
-
- ## Home | Office of Student Support & Accountability
- - [https://ossa.msu.edu](https://ossa.msu.edu)
- - date_published: 2024-07-01T15:42:49.936170+00:00
-
- ## TRIO Student Support Services Program
- - [http://oss.msu.edu](http://oss.msu.edu)
- - date_published: 2024-06-22T10:17:05.340195+00:00
-
- ## Spartan Family Connections | Student Life & Engagement
- - [https://parents.msu.edu](https://parents.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Prevention, Outreach and Education Department | Michigan State University
- - [https://poe.msu.edu](https://poe.msu.edu)
- - date_published: 2024-07-01T15:41:19.424924+00:00
-
- ## Office of the President | Michigan State University
- - [https://president.msu.edu](https://president.msu.edu)
- - date_published: 2024-07-01T15:42:48.550983+00:00
-
- ## Recreational Sports and Fitness Services | Michigan State University
- - [http://recsports.msu.edu](http://recsports.msu.edu)
- - date_published: 2024-05-31T15:07:48+00:00
-
- ## MSU RO:
-    Office of the Registrar - Michigan State University
- - [https://reg.msu.edu](https://reg.msu.edu)
- - date_published: 2024-06-22T10:16:50.077945+00:00
-
- ## Home Page | Student Life & Engagement
- - [https://rhs.msu.edu](https://rhs.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Welcome to MSU Scholarships
- - [https://scholarships.msu.edu](https://scholarships.msu.edu)
- - date_published: 2024-05-14T23:20:27+00:00
-
- ## Michigan State University shop.msu.edu
- - [https://shop.msu.edu](https://shop.msu.edu)
- - date_published: 2024-06-22T10:16:48.418099+00:00
-
- ## Home Page | Student Life & Engagement
- - [https://sle.msu.edu](https://sle.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Home | Spartan Cash
- - [https://spartancash.msu.edu](https://spartancash.msu.edu)
- - date_published: 2024-05-07T19:38:41.505141+00:00
-
- ## Office of Spartan Experiences | Michigan State University
- - [https://spartanexperiences.msu.edu](https://spartanexperiences.msu.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Spartan Spirit Shop
- - [https://spartanspiritshop.msu.edu](https://spartanspiritshop.msu.edu)
- - date_published: 2024-07-01T15:43:13.366023+00:00
-
- ## Spartan Life Welcome Letter | Office of Spartan Experiences | Michigan State University
- - [http://splife.studentlife.msu.edu](http://splife.studentlife.msu.edu)
- - date_published: 2024-01-19T20:50:11+00:00
-
- ## Home Page | Student Life & Engagement
- - [https://studentaffairs.msu.edu](https://studentaffairs.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Office of Spartan Experiences | Michigan State University
- - [https://studentlife.msu.edu](https://studentlife.msu.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## MSU Student Parent Resource Center
- - [http://studentparents.msu.edu](http://studentparents.msu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Michigan State University Tours | Experience MSU
- - [https://tour.msu.edu](https://tour.msu.edu)
- - date_published: 2024-07-01T15:43:23.490694+00:00
-
- ## University Health and Wellbeing | Michigan State University
- - [https://uhw.msu.edu](https://uhw.msu.edu)
- - date_published: 2024-07-01T15:43:15.211636+00:00
-
- ## Home | MSU Union
- - [https://union.msu.edu](https://union.msu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Universal Search Tool | Michigan State University
- - [https://u.search.msu.edu](https://u.search.msu.edu)
- - date_published: 2024-06-22T10:16:53.091388+00:00
-
- ## Home | Student Veterans Resource Center
- - [https://veterans.msu.edu](https://veterans.msu.edu)
- - date_published: 2024-07-01T15:02:24+00:00
-
- ## Women*s Student Services | Michigan State University
- - [https://wss.msu.edu](https://wss.msu.edu)
- - date_published: 2023-09-13T17:51:24+00:00
-
- ## College of Agriculture & Natural Resources
- - [https://www.canr.msu.edu](https://www.canr.msu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
 

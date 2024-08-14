@@ -1,3 +1,191 @@
+ ## Kristiania University College
+ - [https://kristiania.academia.edu](https://kristiania.academia.edu)
+ - date_published: 2024-04-30T02:49:23.792549+00:00
+
+ ## KU Leuven
+ - [https://kuleuven.academia.edu](https://kuleuven.academia.edu)
+ - date_published: 2024-04-30T02:49:18.740787+00:00
+
+ ## University of Leeds
+ - [https://leeds.academia.edu](https://leeds.academia.edu)
+ - date_published: 2024-04-30T03:01:13.277686+00:00
+
+ ## University of Leicester
+ - [https://leicester.academia.edu](https://leicester.academia.edu)
+ - date_published: 2024-04-30T02:55:56.252594+00:00
+
+ ## London School of Economics and Political Science
+ - [http://lse.academia.edu](http://lse.academia.edu)
+ - date_published: 2024-06-18T11:21:42.097485+00:00
+
+ ## Louisiana State University
+ - [https://lsu.academia.edu](https://lsu.academia.edu)
+ - date_published: 2024-04-30T02:59:34.788657+00:00
+
+ ## University of Hawaii at Manoa
+ - [https://manoa-hawaii.academia.edu](https://manoa-hawaii.academia.edu)
+ - date_published: 2024-04-30T02:58:49.746898+00:00
+
+ ## Marquette University
+ - [https://marquette.academia.edu](https://marquette.academia.edu)
+ - date_published: 2024-04-30T02:58:52.326578+00:00
+
+ ## Marymount University
+ - [https://marymount.academia.edu](https://marymount.academia.edu)
+ - date_published: 2024-07-14T05:10:49.574153+00:00
+
+ ## Pontifical University, Saint Patrick's College, Maynooth, Co. Kildare, Ireland
+ - [https://maynoothcollege.academia.edu](https://maynoothcollege.academia.edu)
+ - date_published: 2024-04-30T03:02:03.712597+00:00
+
+ ## McGill University
+ - [http://mcgill.academia.edu](http://mcgill.academia.edu)
+ - date_published: 2024-06-17T11:11:49.689404+00:00
+
+ ## Macquarie University
+ - [https://mq.academia.edu](https://mq.academia.edu)
+ - date_published: 2024-04-30T02:56:10.953944+00:00
+
+ ## Newcastle University
+ - [https://newcastle.academia.edu](https://newcastle.academia.edu)
+ - date_published: 2024-04-30T03:01:06.129645+00:00
+
+ ## Nord University
+ - [https://nord.academia.edu](https://nord.academia.edu)
+ - date_published: 2024-04-30T02:55:39.100884+00:00
+
+ ## Northumbria University
+ - [https://northumbria.academia.edu](https://northumbria.academia.edu)
+ - date_published: 2024-06-28T20:40:21.290997+00:00
+
+ ## University of Nottingham
+ - [https://nottingham.academia.edu](https://nottingham.academia.edu)
+ - date_published: 2024-04-30T03:02:27.738966+00:00
+
+ ## New York University
+ - [https://nyu.academia.edu](https://nyu.academia.edu)
+ - date_published: 2024-04-30T02:57:34.763015+00:00
+
+ ## The Open University
+ - [http://open.academia.edu](http://open.academia.edu)
+ - date_published: 2024-06-24T10:23:47.035330+00:00
+
+ ## University of Oxford
+ - [https://oxford.academia.edu](https://oxford.academia.edu)
+ - date_published: 2024-04-30T02:57:15.147449+00:00
+
+ ## Princeton University
+ - [https://princeton.academia.edu](https://princeton.academia.edu)
+ - date_published: 2024-08-10T22:34:02.601048+00:00
+
+ ## Queen's University Belfast
+ - [https://qub.academia.edu](https://qub.academia.edu)
+ - date_published: 2024-04-30T02:55:42.776796+00:00
+
+ ## Rochester Institute of Technology
+ - [http://rit.academia.edu](http://rit.academia.edu)
+ - date_published: 2024-07-13T23:29:12.820913+00:00
+
+ ## Rensselaer Polytechnic Institute
+ - [https://rpi.academia.edu](https://rpi.academia.edu)
+ - date_published: 2024-04-30T02:58:27.745751+00:00
+
+ ## University of Salerno
+ - [https://salerno.academia.edu](https://salerno.academia.edu)
+ - date_published: 2024-07-19T23:09:49.222504+00:00
+
+ ## Seton Hall University
+ - [https://setonhall.academia.edu](https://setonhall.academia.edu)
+ - date_published: 2024-04-30T02:50:00.275448+00:00
+
+ ## Simon Fraser University
+ - [https://sfu.academia.edu](https://sfu.academia.edu)
+ - date_published: 2024-04-30T02:49:27.709317+00:00
+
+ ## SISSA
+ - [https://sissa.academia.edu](https://sissa.academia.edu)
+ - date_published: 2024-04-30T02:50:12.558158+00:00
+
+ ## San Jose State University
+ - [https://sjsu.academia.edu](https://sjsu.academia.edu)
+ - date_published: 2024-04-30T02:56:15.318008+00:00
+
+ ## Sorbonne University
+ - [https://sorbonne-fr.academia.edu](https://sorbonne-fr.academia.edu)
+ - date_published: 2024-04-30T02:56:05.674739+00:00
+
+ ## University of Southampton
+ - [https://soton.academia.edu](https://soton.academia.edu)
+ - date_published: 2024-04-30T03:02:09.123743+00:00
+
+ ## University of St Andrews
+ - [https://st-andrews.academia.edu](https://st-andrews.academia.edu)
+ - date_published: 2024-04-30T02:56:19.257668+00:00
+
+ ## Suleyman Demirel University
+ - [https://suleyman-demirel.academia.edu](https://suleyman-demirel.academia.edu)
+ - date_published: 2024-04-30T03:02:01.776177+00:00
+
+ ## Cierpliwości...
+ - [https://support.academia.edu](https://support.academia.edu)
+ - date_published: 2024-04-30T02:59:53.441415+00:00
+
+ ## The University of Sydney
+ - [https://sydney.academia.edu](https://sydney.academia.edu)
+ - date_published: 2024-04-30T06:47:19.141540+00:00
+
+ ## Syracuse University
+ - [https://syr.academia.edu](https://syr.academia.edu)
+ - date_published: 2024-08-07T20:18:11.786645+00:00
+
+ ## Universitat de Barcelona
+ - [https://ub.academia.edu](https://ub.academia.edu)
+ - date_published: 2024-06-24T09:53:17.923720+00:00
+
+ ## University of Calgary
+ - [https://ucalgary.academia.edu](https://ucalgary.academia.edu)
+ - date_published: 2024-04-30T03:01:00.526211+00:00
+
+ ## University of California, Irvine
+ - [https://uci.academia.edu](https://uci.academia.edu)
+ - date_published: 2024-04-30T02:57:47.316172+00:00
+
+ ## University of California, Los Angeles
+ - [https://ucla.academia.edu](https://ucla.academia.edu)
+ - date_published: 2024-04-30T02:49:48.893438+00:00
+
+ ## University College London
+ - [https://ucl.academia.edu](https://ucl.academia.edu)
+ - date_published: 2024-04-30T03:02:49.387494+00:00
+
+ ## University of Connecticut
+ - [https://uconn.academia.edu](https://uconn.academia.edu)
+ - date_published: 2024-04-30T03:01:50.676175+00:00
+
+ ## University of California, Riverside
+ - [https://ucriverside.academia.edu](https://ucriverside.academia.edu)
+ - date_published: 2024-05-07T13:46:38.061452+00:00
+
+ ## University of Suffolk
+ - [https://ucs.academia.edu](https://ucs.academia.edu)
+ - date_published: 2024-06-24T10:53:04.894256+00:00
+
+ ## University of California, Santa Cruz
+ - [https://ucsc.academia.edu](https://ucsc.academia.edu)
+ - date_published: 2024-04-30T02:56:00.401201+00:00
+
+ ## UFSCar - Federal University of São Carlos
+ - [https://ufscar.academia.edu](https://ufscar.academia.edu)
+ - date_published: 2024-04-30T03:02:37.031230+00:00
+
+ ## University of Gdansk
+ - [https://ug.academia.edu](https://ug.academia.edu)
+ - date_published: 2024-04-30T02:58:45.746908+00:00
+
+ ## University of Illinois at Chicago
+ - [https://uic.academia.edu](https://uic.academia.edu)
+ - date_published: 2024-04-30T02:59:08.106014+00:00
+
  ## The University of Iowa
  - [https://uiowa.academia.edu](https://uiowa.academia.edu)
  - date_published: 2024-04-30T02:57:52.159238+00:00
@@ -286,10 +474,6 @@
  ## University at Albany - State University of New York
  - [https://albany.edu](https://albany.edu)
  - date_published: 2024-08-11T22:43:41+00:00
-
- ## University at Albany - State University of New York
- - [https://www.albany.edu](https://www.albany.edu)
- - date_published: 2024-06-29T14:49:42+00:00
 
  ## Department of Atmospheric and Environmental Sciences | University at Albany
  - [http://www.atmos.albany.edu](http://www.atmos.albany.edu)
@@ -3127,10 +3311,6 @@
  - [http://www2.sims.berkeley.edu](http://www2.sims.berkeley.edu)
  - date_published: 2008-05-20T21:26:47+00:00
 
- ## CS Home - EECS at Berkeley
- - [https://www.cs.berkeley.edu](https://www.cs.berkeley.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
  ## Home | CSUA
  - [https://www.csua.berkeley.edu](https://www.csua.berkeley.edu)
  - date_published: 2024-08-07T15:54:40.805067+00:00
@@ -3138,10 +3318,6 @@
  ## Department of Economics
  - [https://www.econ.berkeley.edu](https://www.econ.berkeley.edu)
  - date_published: 2024-06-22T05:45:40+00:00
-
- ## Home - EECS at Berkeley
- - [https://www.eecs.berkeley.edu](https://www.eecs.berkeley.edu)
- - date_published: 2024-02-13T00:00:00+00:00
 
  ## Gopnik Lab
  - [http://www.gopniklab.berkeley.edu](http://www.gopniklab.berkeley.edu)
@@ -3828,180 +4004,4 @@
  ## School of Nursing
  - [https://nursing.buffalo.edu](https://nursing.buffalo.edu)
  - date_published: 2024-03-01T00:00:00+00:00
-
- ## OASIS – Operations research for Advancing Sustainable Infrastructure Systems
- - [http://oasis.eng.buffalo.edu](http://oasis.eng.buffalo.edu)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## IIS Windows Server
- - [https://pacs.buffalo.edu](https://pacs.buffalo.edu)
- - date_published: 2021-02-16T15:27:23+00:00
-
- ## UB School of Pharmacy and Pharmaceutical Sciences
- - [http://pharmacy.buffalo.edu](http://pharmacy.buffalo.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## School of Public Health and Health Professions
- - [https://publichealth.buffalo.edu](https://publichealth.buffalo.edu)
- - date_published: 2024-04-30T03:31:24.441502+00:00
-
- ## UB Office of the Registrar
- - [https://registrar.buffalo.edu](https://registrar.buffalo.edu)
- - date_published: 2024-04-30T03:31:06.394801+00:00
-
- ## Research Guides
- - [https://research.lib.buffalo.edu](https://research.lib.buffalo.edu)
- - date_published: 2024-07-22T07:13:13.422146+00:00
-
- ## Search - University at Buffalo
- - [https://search.buffalo.edu](https://search.buffalo.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## University at Buffalo School of Social Work
- - [https://socialwork.buffalo.edu](https://socialwork.buffalo.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tesserae
- - [http://tesserae.caset.buffalo.edu](http://tesserae.caset.buffalo.edu)
- - date_published: 2021-11-08T18:39:29+00:00
-
- ## Computer Science [ and Engineering ] Timeline
- - [https://timeline.cse.buffalo.edu](https://timeline.cse.buffalo.edu)
- - date_published: 2022-01-28T21:26:15+00:00
-
- ## TPDP - redirecting
- - [https://tpdp.cse.buffalo.edu](https://tpdp.cse.buffalo.edu)
- - date_published: 2020-01-28T20:16:48+00:00
-
- ## AEM Sign In
- - [https://ubcms-author.buffalo.edu](https://ubcms-author.buffalo.edu)
- - date_published: 2024-08-11T09:59:02.645351+00:00
-
- ## Undergraduate Admissions at the University at Buffalo, The State University of New York
- - [https://ubconnect.buffalo.edu](https://ubconnect.buffalo.edu)
- - date_published: 2024-07-22T07:20:06.242889+00:00
-
- ## Login - University at Buffalo
- - [https://ublearns.buffalo.edu](https://ublearns.buffalo.edu)
- - date_published: 2024-07-22T07:18:41.563487+00:00
-
- ## School of Management
- - [https://ubmgtconnect.buffalo.edu](https://ubmgtconnect.buffalo.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## University at Buffalo SMBS - SMBS Home
- - [https://ubmm.med.buffalo.edu](https://ubmm.med.buffalo.edu)
- - date_published: 2024-08-08T23:41:57.515844+00:00
-
- ## School of Engineering and Applied Sciences
- - [https://ubseasconnect.buffalo.edu](https://ubseasconnect.buffalo.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## UB WordPress
- - [http://ubwp.buffalo.edu](http://ubwp.buffalo.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Undergraduate Education
- - [https://undergrad.buffalo.edu](https://undergrad.buffalo.edu)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## University at Buffalo
- - [http://wings.buffalo.edu](http://wings.buffalo.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## CASet :: University at Buffalo ::
- - [https://www.caset.buffalo.edu](https://www.caset.buffalo.edu)
- - date_published: 2024-08-06T17:28:56.783135+00:00
-
- ## Department of Chemical and Biological Engineering
- - [http://www.cbe.buffalo.edu](http://www.cbe.buffalo.edu)
- - date_published: 2024-08-09T20:08:48+00:00
-
- ## Welcome to CEDAR
- - [https://cedar.buffalo.edu](https://cedar.buffalo.edu)
- - date_published: 2023-12-11T19:56:29+00:00
-
- ## Center for Cognitive Science
- - [https://cogsci.buffalo.edu](https://cogsci.buffalo.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## School of Law
- - [https://law.buffalo.edu](https://law.buffalo.edu)
- - date_published: 2024-05-07T10:05:18.014673+00:00
-
- ## Research and Economic Development
- - [https://research.buffalo.edu](https://research.buffalo.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Home
- - [https://www.sa.buffalo.edu](https://www.sa.buffalo.edu)
- - date_published: 2015-01-22T07:12:35+00:00
-
- ## University at Buffalo School of Social Work
- - [http://www.social-work.buffalo.edu](http://www.social-work.buffalo.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## University at Buffalo Portal | Home
- - [https://www.ubjobs.buffalo.edu](https://www.ubjobs.buffalo.edu)
- - date_published: 2024-04-30T03:29:59.258733+00:00
-
- ## Butler University
- - [https://butler.edu](https://butler.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Digital Commons @ Butler University | Butler University Research
- - [https://digitalcommons.butler.edu](https://digitalcommons.butler.edu)
- - date_published: 2024-08-08T22:56:02.506228+00:00
-
- ## Butler University
- - [https://give.butler.edu](https://give.butler.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Baldwin Wallace University
- - [http://www.bw.edu](http://www.bw.edu)
- - date_published: 2024-06-28T14:35:19.701506+00:00
-
- ## Home - Academic Calendar
- - [https://academiccalendar.byu.edu](https://academiccalendar.byu.edu)
- - date_published: 2024-05-12T07:42:27.974659+00:00
-
- ## Account Creation
- - [https://accountcreation.byu.edu](https://accountcreation.byu.edu)
- - date_published: 2024-07-16T21:01:30+00:00
-
- ## Account Creation
- - [https://accountcreation-dev.byu.edu](https://accountcreation-dev.byu.edu)
- - date_published: 2024-07-16T20:44:42+00:00
-
- ## Password Reset & Account Recovery
- - [https://accountrecovery.byu.edu](https://accountrecovery.byu.edu)
- - date_published: 2024-06-20T16:44:03+00:00
-
- ## Password Reset & Account Recovery
- - [https://accountrecovery-dev.byu.edu](https://accountrecovery-dev.byu.edu)
- - date_published: 2024-07-01T08:08:55+00:00
-
- ## Adobe
- - [https://adobe.byu.edu](https://adobe.byu.edu)
- - date_published: 2024-07-17T03:06:06.213291+00:00
-
- ## Home
- - [https://advisement.byu.edu](https://advisement.byu.edu)
- - date_published: 2024-07-17T03:08:21.044507+00:00
-
- ## Aims Home
- - [https://aims.byu.edu](https://aims.byu.edu)
- - date_published: 2024-04-30T03:32:15.141700+00:00
-
- ## BYU | Email Alias Manager
- - [https://alias.byu.edu](https://alias.byu.edu)
- - date_published: 2024-07-17T03:06:09.138839+00:00
-
- ## Home page
- - [https://alumni.byu.edu](https://alumni.byu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Homepage
- - [https://alumnicareers.byu.edu](https://alumnicareers.byu.edu)
- - date_published: 2024-08-11T11:23:05.434719+00:00
 

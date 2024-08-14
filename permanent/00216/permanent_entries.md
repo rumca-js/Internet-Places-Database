@@ -1,3 +1,163 @@
+ ## Congressman Marc Veasey
+ - [https://veasey.house.gov](https://veasey.house.gov)
+ - date_published: 2024-06-27T14:10:57.065447+00:00
+
+ ## Congresswoman Nydia Velázquez
+ - [https://velazquez.house.gov](https://velazquez.house.gov)
+ - date_published: 2024-06-27T14:12:16.608776+00:00
+
+ ## House Committee on Veterans' Affairs
+ - [https://veterans.house.gov](https://veterans.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Ann Wagner
+ - [https://wagner.house.gov](https://wagner.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Tim Walberg
+ - [https://walberg.house.gov](https://walberg.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## U.S. Representative Mike Waltz
+ - [https://waltz.house.gov](https://waltz.house.gov)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Congresswoman Debbie Wasserman Schultz
+ - [https://wassermanschultz.house.gov](https://wassermanschultz.house.gov)
+ - date_published: 2024-06-27T14:21:56+00:00
+
+ ## Representative Maxine Waters
+ - [https://waters.house.gov](https://waters.house.gov)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home
+ - [https://watsoncoleman.house.gov](https://watsoncoleman.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Ways and Means – Congressional Website
+ - [https://waysandmeans.house.gov](https://waysandmeans.house.gov)
+ - date_published: 2024-06-27T14:24:34.073218+00:00
+
+ ## U.S. Representative Randy Weber
+ - [https://weber.house.gov](https://weber.house.gov)
+ - date_published: 2024-06-27T14:12:18+00:00
+
+ ## United States Congressman Daniel Webster
+ - [https://webster.house.gov](https://webster.house.gov)
+ - date_published: 2024-06-27T14:18:41.887446+00:00
+
+ ## U.S. Representative Brad Wenstrup
+ - [https://wenstrup.house.gov](https://wenstrup.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Bruce Westerman
+ - [https://westerman.house.gov](https://westerman.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Jennifer Wexton
+ - [https://wexton.house.gov](https://wexton.house.gov)
+ - date_published: 2024-06-27T14:12:24+00:00
+
+ ## Representative Wild
+ - [https://wild.house.gov](https://wild.house.gov)
+ - date_published: 2024-06-27T14:13:09.439816+00:00
+
+ ## Congressman Roger Williams
+ - [https://williams.house.gov](https://williams.house.gov)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Congresswoman Frederica Wilson
+ - [https://wilson.house.gov](https://wilson.house.gov)
+ - date_published: 2024-06-27T14:15:28+00:00
+
+ ## U.S. Representative Rob Wittman
+ - [https://wittman.house.gov](https://wittman.house.gov)
+ - date_published: 2024-06-27T14:12:24+00:00
+
+ ## U.S. Congressman Steve Womack
+ - [https://womack.house.gov](https://womack.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - Rudy Yakym
+ - [https://yakym.house.gov](https://yakym.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congresswoman Young Kim
+ - [https://youngkim.house.gov](https://youngkim.house.gov)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Representative Ryan Zinke
+ - [https://zinke.house.gov](https://zinke.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## | house.gov
+ - [https://ziplook.house.gov](https://ziplook.house.gov)
+ - date_published: 2024-06-27T14:00:04+00:00
+
+ ## data.hrsa.gov Home Page
+ - [https://data.hrsa.gov](https://data.hrsa.gov)
+ - date_published: 2024-06-19T16:43:18.164701+00:00
+
+ ## Health Resources and Services Administration | HRSA
+ - [https://www.hrsa.gov](https://www.hrsa.gov)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## The NPDB - Home Page
+ - [https://www.npdb.hrsa.gov](https://www.npdb.hrsa.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Hudson, WI - Official Website | Official Website
+ - [https://hudsonwi.gov](https://hudsonwi.gov)
+ - date_published: 2024-06-19T07:32:11.881045+00:00
+
+ ## Redirect
+ - [https://huduser.gov](https://huduser.gov)
+ - date_published: 2021-05-01T21:31:18+00:00
+
+ ## Front Page
+ - [http://www.huntsvilleal.gov](http://www.huntsvilleal.gov)
+ - date_published: 2024-06-29T14:26:11.922121+00:00
+
+ ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
+ - [http://iarpa.gov](http://iarpa.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## IARPA - Intelligence Advanced Research projects Activity - Office of the Director of National Intelligence
+ - [https://www.iarpa.gov](https://www.iarpa.gov)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Internet Crime Complaint Center(IC3) | Home Page
+ - [http://ic3.gov](http://ic3.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+ - tags: ['internet crime complaint', 'fbi']
+
+ ## Internet Crime Complaint Center(IC3) | Home Page
+ - [https://www.ic3.gov](https://www.ic3.gov)
+ - date_published: 2023-10-25T11:20:35.175486+00:00
+
+ ## ICE
+ - [https://www.ice.gov](https://www.ice.gov)
+ - date_published: 2024-06-20T05:09:17+00:00
+
+ ## IdentityTheft.gov
+ - [https://identitytheft.gov](https://identitytheft.gov)
+ - date_published: 2024-05-08T02:51:45.802362+00:00
+
+ ## IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet
+ - [https://ignet.gov](https://ignet.gov)
+ - date_published: 2024-05-08T02:59:43.030807+00:00
+
+ - [https://ilga.gov](https://ilga.gov)
+ - date_published: 2024-01-09T03:30:40.556731+00:00
+
+ ## Home
+ - [https://budget.illinois.gov](https://budget.illinois.gov)
+ - date_published: 2024-05-11T08:11:39.852838+00:00
+
+ ## Illinois Capital Markets
+ - [https://capitalmarkets.illinois.gov](https://capitalmarkets.illinois.gov)
+ - date_published: 2024-07-13T18:47:16+00:00
+
  ## Illinois Department of Central Management Services
  - [https://cms.illinois.gov](https://cms.illinois.gov)
  - date_published: 2024-07-13T18:42:40+00:00
@@ -3858,164 +4018,4 @@
  ## Read.gov | The Library of Congress
  - [http://www.read.gov](http://www.read.gov)
  - date_published: 2024-06-26T11:43:10.394176+00:00
-
- ## Plan Ahead for Disasters | Ready.gov
- - [http://ready.gov](http://ready.gov)
- - date_published: 2024-07-01T21:50:51+00:00
-
- ## Plan Ahead for Disasters | Ready.gov
- - [https://www.ready.gov](https://www.ready.gov)
- - date_published: 2024-05-08T02:44:35.015844+00:00
-
- ## Home | readyalabama
- - [http://www.readyalabama.gov](http://www.readyalabama.gov)
- - date_published: 2024-07-01T21:51:04.483063+00:00
-
- ## Plan. Prepare. Stay Informed. | Ready NC
- - [https://readync.gov](https://readync.gov)
- - date_published: 2024-05-07T13:57:42.492965+00:00
-
- ## Ronald Reagan Presidential Library & Museum | Ronald Reagan
- - [https://www.reaganlibrary.gov](https://www.reaganlibrary.gov)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Recalls.gov
- - [http://www.recalls.gov](http://www.recalls.gov)
- - date_published: 2023-11-03T23:01:19+00:00
-
- ## Recreation.gov - Camping, Cabins, RVs, Permits, Passes & More
- - [https://www.recreation.gov](https://www.recreation.gov)
- - date_published: 2024-05-29T16:16:38+00:00
-
- ## Regulations.gov
- - [https://www.regulations.gov](https://www.regulations.gov)
- - date_published: 2023-10-25T19:25:01.549850+00:00
-
- ## Home
- - [http://rentonwa.gov](http://rentonwa.gov)
- - date_published: 2024-07-09T22:00:11.290137+00:00
-
- ## ReproductiveRights.gov - Know Your Rights: Reproductive Health Care
- - [https://reproductiverights.gov](https://reproductiverights.gov)
- - date_published: 2024-07-08T20:46:49+00:00
-
- ## @rgov/webapp
- - [https://apps.research.gov](https://apps.research.gov)
- - date_published: 2024-06-14T15:37:50+00:00
-
- ## NSF | Research.gov
- - [https://identity.research.gov](https://identity.research.gov)
- - date_published: 2024-03-12T14:00:36+00:00
-
- ## Research.gov - Homepage
- - [https://research.gov](https://research.gov)
- - date_published: 2010-01-15T00:00:00+00:00
-
- ## Research.gov - Homepage
- - [https://www.research.gov](https://www.research.gov)
- - date_published: 2010-01-15T00:00:00+00:00
-
- ## Welcome | Historical Preservation & Heritage Commission
- - [https://preservation.ri.gov](https://preservation.ri.gov)
- - date_published: 2024-06-12T10:55:42+00:00
-
- ## Welcome | Rhode Island Department of Environmental Management
- - [http://www.dem.ri.gov](http://www.dem.ri.gov)
- - date_published: 2024-06-14T19:05:23+00:00
-
- ## Ridgefield CT |
- - [https://www.ridgefieldct.gov](https://www.ridgefieldct.gov)
- - date_published: 2024-07-01T20:33:58+00:00
-
- ## Rochester, MN | Home
- - [https://www.rochestermn.gov](https://www.rochestermn.gov)
- - date_published: 2024-07-12T21:14:30+00:00
-
- ## Ruidoso-NM.gov | Municipal Website of the Village of Ruidoso, NM
- - [https://www.ruidoso-nm.gov](https://www.ruidoso-nm.gov)
- - date_published: 2024-06-20T16:29:14.730165+00:00
-
- ## Sacramento County Board of Supervisors Meetings
- - [https://agendanet.saccounty.gov](https://agendanet.saccounty.gov)
- - date_published: 2024-04-28T04:28:27.708351+00:00
-
- ## Home
- - [https://assets.saccounty.gov](https://assets.saccounty.gov)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## My Utilities
- - [https://myutilities.saccounty.gov](https://myutilities.saccounty.gov)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Personnel Services Department
- - [https://personnel.saccounty.gov](https://personnel.saccounty.gov)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Consolidated Utilities Billing & Services
- - [https://sacutilities.saccounty.gov](https://sacutilities.saccounty.gov)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Sacramento County, California
- - [https://www.saccounty.gov](https://www.saccounty.gov)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Iowa Safe and Sound | Iowa Safe+Sound
- - [https://safeandsoundiowa.gov](https://safeandsoundiowa.gov)
- - date_published: 2024-06-26T20:11:58+00:00
-
- ## SafeOCS Reporting System
- - [https://safeocs.gov](https://safeocs.gov)
- - date_published: 2024-06-28T12:57:52.789435+00:00
-
- ## Home - SaferProducts
- - [https://saferproducts.gov](https://saferproducts.gov)
- - date_published: 2024-05-08T02:42:42.184193+00:00
-
- ## SAM.gov | Home
- - [https://sam.gov](https://sam.gov)
- - date_published: 2023-10-25T19:25:02.207175+00:00
-
- ## SAM.gov | Home
- - [http://www.sam.gov](http://www.sam.gov)
- - date_published: 2024-06-14T03:25:42+00:00
-
- ## SAMHSA DAS
- - [https://datatools.samhsa.gov](https://datatools.samhsa.gov)
- - date_published: 2024-06-05T21:08:33+00:00
-
- ## SAMHSA DPT
- - [https://dpt2.samhsa.gov](https://dpt2.samhsa.gov)
- - date_published: 2020-12-09T13:12:14+00:00
-
- ## FindTreatment.gov
- - [https://findtreatment.samhsa.gov](https://findtreatment.samhsa.gov)
- - date_published: 2024-05-12T06:40:36.468468+00:00
-
- ## SAMHSA Publications and Digital Products
- - [https://store.samhsa.gov](https://store.samhsa.gov)
- - date_published: 2024-06-16T14:50:27.401756+00:00
-
- ## SAMHSA - Substance Abuse and Mental Health Services Administration
- - [https://www.samhsa.gov](https://www.samhsa.gov)
- - date_published: 2024-05-04T09:00:22.403967+00:00
-
- ## LAMMPS Molecular Dynamics Simulator
- - [https://lammps.sandia.gov](https://lammps.sandia.gov)
- - date_published: 2024-07-02T13:38:36+00:00
-
- ## Sandia National Laboratories: Netlib Mirror
- - [https://netlib.sandia.gov](https://netlib.sandia.gov)
- - date_published: 2024-04-28T02:25:13.801301+00:00
-
- ## Sandia National Laboratories: News Releases
- - [https://newsreleases.sandia.gov](https://newsreleases.sandia.gov)
- - date_published: 2023-10-25T19:25:05.661482+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [http://sandia.gov](http://sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Sandia National Laboratories: Exceptional Service in the National Interest
- - [https://www.sandia.gov](https://www.sandia.gov)
- - date_published: 2024-01-16T00:00:00+00:00
 

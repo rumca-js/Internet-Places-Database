@@ -1,3 +1,56 @@
+ ## App Store
+ - [https://apps.apple.com](https://apps.apple.com)
+ - date_published: 2023-10-24T20:11:39.065389+00:00
+ - tags: ['gatekeeper', 'app store']
+
+ ## Error
+ - [https://apptrailers.itunes.apple.com](https://apptrailers.itunes.apple.com)
+ - date_published: 2024-07-04T06:32:47.942541+00:00
+
+ ## Apple Books for Authors
+ - [https://authors.apple.com](https://authors.apple.com)
+ - date_published: 2023-10-25T11:30:48.517357+00:00
+
+ ## Apple - iTunes - Auto Link Maker
+ - [https://autolinkmaker.itunes.apple.com](https://autolinkmaker.itunes.apple.com)
+ - date_published: 2020-09-19T17:17:21+00:00
+
+ ## Apple Books
+ - [https://books.apple.com](https://books.apple.com)
+ - date_published: 2024-04-30T06:18:55.516849+00:00
+
+ ## Feedback Assistant
+ - [https://bugreport.apple.com](https://bugreport.apple.com)
+ - date_published: 2024-05-12T05:45:53.552452+00:00
+
+ ## Apple Business Connect
+ - [https://businessconnect.apple.com](https://businessconnect.apple.com)
+ - date_published: 2024-07-21T05:02:38+00:00
+
+ ## Apple Card
+ - [https://card.apple.com](https://card.apple.com)
+ - date_published: 2024-04-30T06:28:27.705883+00:00
+
+ ## Contact Apple Store
+ - [https://contactretail.apple.com](https://contactretail.apple.com)
+ - date_published: 2024-06-21T22:38:43.328157+00:00
+
+ ## Apple Developer
+ - [https://developer.apple.com](https://developer.apple.com)
+ - date_published: 2023-10-25T11:30:50.627048+00:00
+
+ ## Sign In - Apple
+ - [https://digital-legacy-account.apple.com](https://digital-legacy-account.apple.com)
+ - date_published: 2024-06-29T13:12:06.614206+00:00
+
+ ## Digital Legacy
+ - [https://digital-legacy.apple.com](https://digital-legacy.apple.com)
+ - date_published: 2024-05-07T10:47:37.173207+00:00
+
+ ## Official Apple Support Community
+ - [https://discussions.apple.com](https://discussions.apple.com)
+ - date_published: 2023-10-25T11:30:52.811386+00:00
+
  ## Education Community - Apple Education Community
  - [https://education.apple.com](https://education.apple.com)
  - date_published: 2024-06-19T02:42:49.423742+00:00
@@ -3993,58 +4046,4 @@
  ## ArrowType
  - [https://arrowtype.com](https://arrowtype.com)
  - date_published: 2024-05-07T10:44:43.620632+00:00
-
- ## LONG ISLAND RAIL ROAD HISTORY, Online Museum of Long Island 
-Rail Road and Photo Gallery
- - [http://arrts-arrchives.com](http://arrts-arrchives.com)
- - date_published: 2024-06-07T20:14:50+00:00
-
- ## Home
- - [https://www.arscars.com](https://www.arscars.com)
- - date_published: 2024-07-08T10:47:47.799647+00:00
-
- ## Home
- - [http://www.arseblog.com](http://www.arseblog.com)
- - date_published: 2024-06-18T11:09:23.293509+00:00
-
- ## Arsenal FC Official Website | Home | Arsenal.com
- - [https://arsenal.com](https://arsenal.com)
- - date_published: 2024-07-03T11:31:22+00:00
-
- ## Arsen Kolyba Design Portfolio
- - [https://www.arsenkolyba.com](https://www.arsenkolyba.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Javier González "Arsies", Miniature Painter
- - [https://arsiesweb.com](https://arsiesweb.com)
- - date_published: 2024-07-11T18:26:39+00:00
-
- ## Ars Technica
- - [https://arstechnica.com](https://arstechnica.com)
- - date_published: 2023-10-25T09:31:54.681247+00:00
- - tags: ['tech news']
-
- ## Page not found | Ars Technica
- - [https://feeds.arstechnica.com](https://feeds.arstechnica.com)
- - date_published: 2024-01-09T02:29:55.686277+00:00
-
- ## Ars Technica Videos
- - [https://video.arstechnica.com](https://video.arstechnica.com)
- - date_published: 2024-06-20T02:59:08.716401+00:00
-
- ## Art.com | Wall Art, Framed Prints, Canvas Paintings & Decor for Sale Online
- - [http://ar.art.com](http://ar.art.com)
- - date_published: 2024-07-16T16:34:11.797129+00:00
-
- ## ART19
- - [https://art19.com](https://art19.com)
- - date_published: 2024-05-06T13:03:52.793971+00:00
-
- ## ART19: Welcome to the Business of Podcasting
- - [https://rss.art19.com](https://rss.art19.com)
- - date_published: 2024-04-29T04:19:46.636241+00:00
-
- ## Art 4 Now Online Store
- - [https://art4now.com](https://art4now.com)
- - date_published: 2024-05-09T00:00:00+00:00
 

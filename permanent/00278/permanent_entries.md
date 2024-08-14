@@ -1,3 +1,198 @@
+ ## Cierpliwości...
+ - [https://leadcounsel.org](https://leadcounsel.org)
+ - date_published: 2024-05-07T13:27:05.304269+00:00
+
+ ## Lead Elimination | We are working to reduce lead poisoning and improve the health, wellbeing, and potential of children worldwide.
+ - [https://leadelimination.org](https://leadelimination.org)
+ - date_published: 2024-06-18T13:18:12+00:00
+
+ ## LEA-DER.org | Law Enforcement Agencies – Development/Engineering/Research
+ - [https://www.lea-der.org](https://www.lea-der.org)
+ - date_published: 2024-07-02T22:01:39.241799+00:00
+
+ ## Leader in Me | Educational & Student Leadership Programs & Curriculum
+ - [https://www.leaderinme.org](https://www.leaderinme.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Leadership Development Lab
+ - [http://www.leadershipdevelopmentlab.org](http://www.leadershipdevelopmentlab.org)
+ - date_published: 2024-04-30T05:30:03.851098+00:00
+
+ ## Home - Leadership Foundations
+ - [https://www.leadershipfoundations.org](https://www.leadershipfoundations.org)
+ - date_published: 2024-07-08T16:54:28.818922+00:00
+
+ ## Global Lead Pollution Map
+ - [https://leadpollution.org](https://leadpollution.org)
+ - date_published: 2024-05-22T18:27:16+00:00
+
+ ## LEADx: Scale and Sustain Leadership Development
+ - [https://leadx.org](https://leadx.org)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## LEADx Mobile App
+ - [https://mobile.leadx.org](https://mobile.leadx.org)
+ - date_published: 2024-05-08T09:34:20.884760+00:00
+
+ ## LEAF – [Lafayette Electronic Arts Festival]
+ - [https://leafcolorado.org](https://leafcolorado.org)
+ - date_published: 2024-06-21T17:26:36+00:00
+
+ ## The League of Entropy
+ - [https://leagueofentropy.org](https://leagueofentropy.org)
+ - date_published: 2024-07-10T01:54:08.583529+00:00
+
+ ## Leah Neukirchen - leah2
+ - [https://leahneukirchen.org](https://leahneukirchen.org)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Lea-Linux
+ - [https://lea-linux.org](https://lea-linux.org)
+ - date_published: 2024-05-06T14:20:18.353073+00:00
+
+ ## Lean Blog
+ - [http://www.leanblog.org](http://www.leanblog.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Lean Coffee | Start one in your city!
+ - [http://leancoffee.org](http://leancoffee.org)
+ - date_published: 2024-07-07T07:36:25.323493+00:00
+
+ ## LeanDojo: Theorem Proving in Lean Using LLMs
+ - [https://leandojo.org](https://leandojo.org)
+ - date_published: 2024-07-28T22:34:36+00:00
+
+ ## Focused Research Organization — Lean FRO
+ - [https://lean-fro.org](https://lean-fro.org)
+ - date_published: 2024-04-29T06:15:59.677196+00:00
+
+ ## Lean Impact
+ - [https://www.leanimpact.org](https://www.leanimpact.org)
+ - date_published: 2024-06-21T21:56:41.621009+00:00
+
+ ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
+ - [https://cdn-static.leanin.org](https://cdn-static.leanin.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Fostering Women’s Leadership & Workplace Inclusion | Lean In
+ - [https://leanin.org](https://leanin.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Lean In Store
+ - [https://shop.leanin.org](https://shop.leanin.org)
+ - date_published: 2024-06-23T01:31:54.886281+00:00
+
+ ## Lean In Girls | Girls Leadership Program
+ - [https://leaningirls.org](https://leaningirls.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Programming Language and Theorem Prover — Lean
+ - [https://lean-lang.org](https://lean-lang.org)
+ - date_published: 2024-04-29T06:15:56.514317+00:00
+
+ ## Lean 4 Web
+ - [https://live.lean-lang.org](https://live.lean-lang.org)
+ - date_published: 2024-05-07T15:57:13.078779+00:00
+
+ ## Loogle!
+ - [https://loogle.lean-lang.org](https://loogle.lean-lang.org)
+ - date_published: 2024-04-29T06:16:20.387794+00:00
+ - tags: ['open source', 'application']
+
+ ## Site is undergoing maintenance
+ - [http://alumni.leapafrica.org](http://alumni.leapafrica.org)
+ - date_published: 2024-07-14T12:42:02.314864+00:00
+
+ ## LEAP Africa
+ - [https://leapafrica.org](https://leapafrica.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## learnwithleapafrica
+ - [http://learn.leapafrica.org](http://learn.leapafrica.org)
+ - date_published: 2024-07-14T12:35:45.304928+00:00
+
+ ## Social Innovators Programme & Awards
+ - [https://sipa.leapafrica.org](https://sipa.leapafrica.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## LeapChat
+ - [https://www.leapchat.org](https://www.leapchat.org)
+ - date_published: 2023-03-07T19:56:19+00:00
+
+ ## Leapfrog
+ - [https://www.leapfroggroup.org](https://www.leapfroggroup.org)
+ - date_published: 2024-07-19T04:40:14.213312+00:00
+
+ ## California Agriculture in the Classroom
+ - [https://learnaboutag.org](https://learnaboutag.org)
+ - date_published: 2024-07-08T11:54:29.925239+00:00
+
+ ## Learn About Electronics - Home Page
+ - [https://learnabout-electronics.org](https://learnabout-electronics.org)
+ - date_published: 2023-10-25T21:38:15.033617+00:00
+
+ ## The World's First AI-Native Coding Bootcamp - LEARN Academy
+ - [https://www.learnacademy.org](https://www.learnacademy.org)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## BCHS software stack: BSD, C, httpd, SQLite
+ - [https://learnbchs.org](https://learnbchs.org)
+ - date_published: 2020-05-11T14:51:49+00:00
+
+ ## Learn C - Free
+    Interactive C Tutorial
+ - [http://www.learn-c.org](http://www.learn-c.org)
+ - date_published: 2024-06-22T21:15:01+00:00
+
+ ## Learn Code the Hard Way
+ - [https://learncodethehardway.org](https://learncodethehardway.org)
+ - date_published: 2024-02-28T01:19:33+00:00
+
+ ## Learn C++
+ - [https://learncplusplus.org](https://learncplusplus.org)
+ - date_published: 2024-05-02T07:51:42.877800+00:00
+
+ ## Learn Datalog Today!
+ - [https://www.learndatalogtoday.org](https://www.learndatalogtoday.org)
+ - date_published: 2013-01-01T00:00:00+00:00
+
+ ## Learn Delphi
+ - [https://learndelphi.org](https://learndelphi.org)
+ - date_published: 2017-11-17T15:19:40+00:00
+ - tags: ['programming language', 'delphi']
+
+ ## Cierpliwości...
+ - [https://learner.org](https://learner.org)
+ - date_published: 2024-05-07T15:55:17.518248+00:00
+
+ ## Institute of General Semantics - Home
+ - [http://learn-gs.org](http://learn-gs.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Learn How To Learn - Learn How To Learn
+ - [https://learnhowtolearn.org](https://learnhowtolearn.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Learning4You – Courseware for Mastery
+ - [https://learning4you.org](https://learning4you.org)
+ - date_published: 2024-07-03T19:05:43.467924+00:00
+
+ ## Learning4You – Courseware for Mastery
+ - [http://www.learning4you.org](http://www.learning4you.org)
+ - date_published: 2024-07-03T19:05:30.528205+00:00
+
+ ## Kolibri
+ - [https://kolibridemo.learningequality.org](https://kolibridemo.learningequality.org)
+ - date_published: 2024-07-06T23:47:48.366388+00:00
+
+ ## Home | Learning Equality
+ - [https://learningequality.org](https://learningequality.org)
+ - date_published: 2024-07-06T23:47:46.957405+00:00
+
+ ## Home - Zarlengo Foundation Learning Evaluation Center
+ - [https://learningevaluationcenter.org](https://learningevaluationcenter.org)
+ - date_published: 2024-02-05T00:00:00+00:00
+
  ## Learning for Real
  - [https://www.learningforreal.org](https://www.learningforreal.org)
  - date_published: 2024-06-27T17:22:00.495687+00:00
@@ -3846,196 +4041,4 @@
  ## Mageia Identity Management
  - [https://identity.mageia.org](https://identity.mageia.org)
  - date_published: 2024-06-23T12:32:17.873192+00:00
-
- ## mageia-app-db
- - [https://madb.mageia.org](https://madb.mageia.org)
- - date_published: 2024-05-11T08:03:25.678256+00:00
-
- ## mognase doc
- - [https://nav.mageia.org](https://nav.mageia.org)
- - date_published: 2024-06-23T12:32:17.261818+00:00
-
- ## Planet Mageia (English)
- - [https://planet.mageia.org](https://planet.mageia.org)
- - date_published: 2024-06-30T21:28:33.432306+00:00
-
- ## ViewVC Repository Listing
- - [https://svnweb.mageia.org](https://svnweb.mageia.org)
- - date_published: 2024-05-06T14:25:27.127679+00:00
-
- ## Mageia wiki
- - [https://wiki.mageia.org](https://wiki.mageia.org)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Home of the Mageia project
- - [https://mageia.org](https://mageia.org)
- - date_published: 2024-05-08T09:17:02.829366+00:00
-
- ## Magical Moon Farm & Foundation
- - [https://www.magicalmoon.org](https://www.magicalmoon.org)
- - date_published: 2024-05-07T15:28:17.343070+00:00
-
- ## JudgeApps | Home
- - [https://apps.magicjudges.org](https://apps.magicjudges.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home | MAG
- - [https://maginternational.org](https://maginternational.org)
- - date_published: 2024-05-12T06:31:15.812860+00:00
-
- ## Observatory Magna Charta Universitatum
- - [https://www.magna-charta.org](https://www.magna-charta.org)
- - date_published: 2024-04-29T06:59:06.093065+00:00
-
- ## HOME | Magnify Mentoring
- - [https://www.magnifymentoring.org](https://www.magnifymentoring.org)
- - date_published: 2024-06-21T11:39:26.662708+00:00
-
- ## Magpie Guide: Welcome
- - [https://magpie-lang.org](https://magpie-lang.org)
- - date_published: 2013-01-02T04:31:44+00:00
-
- ## Home | MAG
- - [https://www.mag-us.org](https://www.mag-us.org)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## magzDB | Вся периодика мира
- - [https://magzdb.org](https://magzdb.org)
- - date_published: 2024-05-06T15:11:49.566976+00:00
-
- ## Maheso Naturally Where we Provide Meaningful Value
- - [https://maheso-naturally.org](https://maheso-naturally.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Welcome - Colorado MahlerFest
- - [https://mahlerfest.org](https://mahlerfest.org)
- - date_published: 2018-10-22T23:14:57+00:00
-
- ## Home | Mahoosuc Land Trust, Bethel Maine
- - [https://www.mahoosuc.org](https://www.mahoosuc.org)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Mahoro Network Status Service Monitoring
- - [https://status.mahoro-net.org](https://status.mahoro-net.org)
- - date_published: 2024-08-07T23:00:21.786650+00:00
-
- ## MAHRP – Maldives Association of Human Resources Professionals
- - [https://mahrp.org](https://mahrp.org)
- - date_published: 2024-05-10T06:33:51.299681+00:00
-
- ## mailb.org
- - [https://mailb.org](https://mailb.org)
- - date_published: 2023-07-18T14:52:29+00:00
-
- ## mailbox.org Helpdesk
- - [https://help.mailbox.org](https://help.mailbox.org)
- - date_published: 2024-07-02T17:14:31.791204+00:00
-
- ## Knowledge Base
- - [https://kb.mailbox.org](https://kb.mailbox.org)
- - date_published: 2024-05-01T07:12:30.379788+00:00
-
- ## mailbox.org | Login
- - [https://login.mailbox.org](https://login.mailbox.org)
- - date_published: 2024-05-08T09:50:48.088404+00:00
-
- ## Secure e-mail for private and business customers | mailbox.org
- - [https://mailbox.org](https://mailbox.org)
- - date_published: 2023-10-25T21:40:11.120497+00:00
-
- ## Sign in - Matomo
- - [https://numbers.mailbox.org](https://numbers.mailbox.org)
- - date_published: 2024-07-07T07:05:01.134371+00:00
-
- ## Package Selection
- - [https://register.mailbox.org](https://register.mailbox.org)
- - date_published: 2024-05-08T09:50:46.639586+00:00
-
- ## COMMON.title_bmbo
- - [https://setup.mailbox.org](https://setup.mailbox.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## mailbox.org-Mastodon
- - [https://social.mailbox.org](https://social.mailbox.org)
- - date_published: 2024-05-08T09:50:47.600523+00:00
-
- ## mailbox.org Status-Übersicht
- - [https://status.mailbox.org](https://status.mailbox.org)
- - date_published: 2024-07-07T07:05:04.933231+00:00
-
- ## mailbox.org Support
- - [https://userforum-en.mailbox.org](https://userforum-en.mailbox.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Mailman Suite — Mailman Suite 3.3 documentation
- - [https://docs.mailman3.org](https://docs.mailman3.org)
- - date_published: 2024-06-10T19:11:14+00:00
-
- ## List Index - lists.mailman3.org
- - [https://lists.mailman3.org](https://lists.mailman3.org)
- - date_published: 2024-06-19T22:21:26.299516+00:00
-
- ## Mail Me Back
- - [https://mailmeback.org](https://mailmeback.org)
- - date_published: 2023-12-05T19:09:11+00:00
-
- ## piler open source email archiving
- - [https://www.mailpiler.org](https://www.mailpiler.org)
- - date_published: 2024-06-16T16:19:38.743027+00:00
-
- ## Mailr | Ruby On Rails open source webmail
- - [http://mailr.org](http://mailr.org)
- - date_published: 2024-06-17T02:16:51+00:00
-
- ## Homepage - Maimonides Foundation
- - [https://www.maimonides-foundation.org](https://www.maimonides-foundation.org)
- - date_published: 2024-06-15T10:28:18.156978+00:00
-
- ## Maine State Bar Association
- - [https://www.mainebar.org](https://www.mainebar.org)
- - date_published: 2024-06-24T11:15:05.100394+00:00
-
- ## Home - Maine Education Association
- - [https://maineea.org](https://maineea.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## MaineGeneral Health | Augusta, ME | MaineGeneral
- - [https://www.mainegeneral.org](https://www.mainegeneral.org)
- - date_published: 2024-07-12T22:57:50.814019+00:00
-
- ## Maine House Republicans
- - [http://mainehousegop.org](http://mainehousegop.org)
- - date_published: 2023-04-24T00:00:00+00:00
-
- ## Home - Maine Indoor Air Quality Council
- - [https://maineindoorair.org](https://maineindoorair.org)
- - date_published: 2023-03-17T00:00:00+00:00
-
- ## Maine State Legislature - Home
- - [https://mainelegislature.org](https://mainelegislature.org)
- - date_published: 2023-10-25T21:40:12.533641+00:00
-
- ## Maine Library Association - Home
- - [https://www.mainelibraries.org](https://www.mainelibraries.org)
- - date_published: 2024-07-20T22:39:49.861041+00:00
-
- ## Maine Narrow Gauge Railroad Co. & Museum
- - [https://mainenarrowgauge.org](https://mainenarrowgauge.org)
- - date_published: 2023-01-06T21:15:48+00:00
-
- ## Maine Policy Institute
- - [http://mainepolicy.org](http://mainepolicy.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Maine Policy Institute
- - [https://www.mainepolicy.org](https://www.mainepolicy.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Maine Press Association | On the Record since 1864
- - [https://mainepressassociation.org](https://mainepressassociation.org)
- - date_published: 2024-06-29T05:16:47.760185+00:00
-
- ## Maine Public | Home | Maine Public
- - [https://www.mainepublic.org](https://www.mainepublic.org)
- - date_published: 2024-07-29T04:29:57.071514+00:00
 

@@ -1,3 +1,75 @@
+ ## penmachinedad
+ - [https://penmachinedad.blogspot.com](https://penmachinedad.blogspot.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## Here, There, and Everywhere
+ - [http://penrodpostings.blogspot.com](http://penrodpostings.blogspot.com)
+ - date_published: 2024-07-11T18:04:17+00:00
+
+ ## Right Wing Extreme
+ - [http://peoplesrepublicofamerica.blogspot.com](http://peoplesrepublicofamerica.blogspot.com)
+ - date_published: 2024-03-06T20:03:29+00:00
+
+ ## People them with Monsters
+ - [http://peoplethemwithmonsters.blogspot.com](http://peoplethemwithmonsters.blogspot.com)
+ - date_published: 2024-07-13T06:05:28+00:00
+
+ ## Peplers In Rye
+ - [http://peplers.blogspot.com](http://peplers.blogspot.com)
+ - date_published: 2024-05-10T20:37:09+00:00
+
+ ## Putz Blog
+ - [http://peputz.blogspot.com](http://peputz.blogspot.com)
+ - date_published: 2024-06-25T09:03:13+00:00
+
+ ## Adrian Cockcroft's Blog
+ - [https://perfcap.blogspot.com](https://perfcap.blogspot.com)
+ - date_published: 2024-07-17T05:54:05+00:00
+
+ ## Performance Juridique
+ - [http://performancejuridique.blogspot.com](http://performancejuridique.blogspot.com)
+ - date_published: 2024-03-22T00:56:53+00:00
+
+ ## A Walk On The Natural Side
+ - [http://perhapsallnatural.blogspot.com](http://perhapsallnatural.blogspot.com)
+ - date_published: 2024-06-07T14:50:59+00:00
+
+ ## ΠΕΡΙΓΛΩΣΣΙΟ
+ - [http://periglwssio.blogspot.com](http://periglwssio.blogspot.com)
+ - date_published: 2024-03-25T06:09:19+00:00
+
+ ## Perki Bremen
+ - [http://perkibremen2009.blogspot.com](http://perkibremen2009.blogspot.com)
+ - date_published: 2024-03-08T04:09:22+00:00
+
+ ## Basilea ton Romaion
+ - [http://perriscooley.blogspot.com](http://perriscooley.blogspot.com)
+ - date_published: 2024-03-05T13:59:46+00:00
+
+ ## Persepolis Fortification Archive Project
+ - [http://persepolistablets.blogspot.com](http://persepolistablets.blogspot.com)
+ - date_published: 2024-03-13T10:34:14+00:00
+
+ ## Perth Daily Photo
+ - [http://perthdailyphoto.blogspot.com](http://perthdailyphoto.blogspot.com)
+ - date_published: 2024-07-17T10:53:36+00:00
+
+ ## Location-based Games - gaming in physical space
+ - [http://pervasivegames.blogspot.com](http://pervasivegames.blogspot.com)
+ - date_published: 2024-03-14T08:10:36+00:00
+
+ ## The Pervocracy
+ - [http://pervocracy.blogspot.com](http://pervocracy.blogspot.com)
+ - date_published: 2024-06-09T05:45:46+00:00
+
+ ## Peter's Principles
+ - [https://peterbypost.blogspot.com](https://peterbypost.blogspot.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Peter Eisentraut's Blog
+ - [http://petereisentraut.blogspot.com](http://petereisentraut.blogspot.com)
+ - date_published: 2024-05-24T09:34:31+00:00
+
  ## Peter H. Cropes
  - [https://peterhcropes.blogspot.com](https://peterhcropes.blogspot.com)
  - date_published: 2024-02-20T01:44:31+00:00
@@ -1309,6 +1381,10 @@
  ## Ramblings from Oz
  - [http://ramblingsfromoz.blogspot.com](http://ramblingsfromoz.blogspot.com)
  - date_published: 2024-02-19T00:00:00+00:00
+
+ ## The Ramblings of a Chicagoan
+ - [http://ramblingsofachicagoan.blogspot.com](http://ramblingsofachicagoan.blogspot.com)
+ - date_published: 2023-11-16T12:20:32+00:00
 
  ## Ramblings of a Gentleman Gamer
  - [http://ramblingsofagentlemangamer.blogspot.com](http://ramblingsofagentlemangamer.blogspot.com)
@@ -3942,80 +4018,4 @@
  ## Stæfcræft & Vyākaraṇa
  - [https://staefcraeft.blogspot.com](https://staefcraeft.blogspot.com)
  - date_published: 2024-05-07T21:55:05.928126+00:00
-
- ## Standard Hirelings
- - [http://standardhirelings.blogspot.com](http://standardhirelings.blogspot.com)
- - date_published: 2024-03-13T21:15:58+00:00
-
- ## Stand by Liberty
- - [https://standbyliberty.blogspot.com](https://standbyliberty.blogspot.com)
- - date_published: 2024-02-20T13:31:55+00:00
-
- ## Standing - Looking
- - [http://standinglooking.blogspot.com](http://standinglooking.blogspot.com)
- - date_published: 2024-07-04T05:29:58+00:00
-
- ## Standing Small
- - [http://standing-small.blogspot.com](http://standing-small.blogspot.com)
- - date_published: 2024-07-04T05:50:21+00:00
-
- ## Didcot Wargames Club
- - [http://standwargaming.blogspot.com](http://standwargaming.blogspot.com)
- - date_published: 2024-06-17T08:07:10+00:00
-
- ## Staring At Empty Pages
- - [http://staringatemptypages.blogspot.com](http://staringatemptypages.blogspot.com)
- - date_published: 2024-03-07T17:47:02+00:00
-
- ## Starport Crash
- - [http://starportcrash.blogspot.com](http://starportcrash.blogspot.com)
- - date_published: 2024-03-13T13:07:07+00:00
-
- ## Lessons Learned
- - [https://startuplessonslearned.blogspot.com](https://startuplessonslearned.blogspot.com)
- - date_published: 2024-05-01T03:28:58.432848+00:00
-
- ## Star Wars - '77 - '80 Collector's Blog
- - [http://starwars77-80.blogspot.com](http://starwars77-80.blogspot.com)
- - date_published: 2024-07-06T05:36:04+00:00
-
- ## Statutory Construction Zone
- - [http://statconblog.blogspot.com](http://statconblog.blogspot.com)
- - date_published: 2024-02-28T13:37:48+00:00
-
- ## zzz
- - [http://statconsultant.blogspot.com](http://statconsultant.blogspot.com)
- - date_published: 2024-02-20T13:29:07+00:00
-
- ## *State ofthe Art-Novel InFlowTech 1Gearturbine RotaryTurbo 2Imploturbocompressor From Macro to Micro
- - [https://stateoftheartnovelinflowtech.blogspot.com](https://stateoftheartnovelinflowtech.blogspot.com)
- - date_published: 2024-03-30T09:16:27+00:00
-
- ## staticfraction noise rock
- - [http://staticfraction.blogspot.com](http://staticfraction.blogspot.com)
- - date_published: 2024-06-29T07:37:24+00:00
-
- ## Station WTFO
- - [http://stationwtfo.blogspot.com](http://stationwtfo.blogspot.com)
- - date_published: 2024-06-08T17:41:36+00:00
-
- ## The StatMT Blog
- - [http://statmt.blogspot.com](http://statmt.blogspot.com)
- - date_published: 2024-02-20T18:51:40+00:00
-
- ## stealth of nations
- - [http://stealthofnations.blogspot.com](http://stealthofnations.blogspot.com)
- - date_published: 2024-03-14T10:14:20+00:00
-
- ## Modeling Steam Era Freight Cars
- - [http://steamerafreightcars.blogspot.com](http://steamerafreightcars.blogspot.com)
- - date_published: 2024-03-14T04:08:23+00:00
-
- ## Steam Powered Fish
- - [http://steampoweredfish.blogspot.com](http://steampoweredfish.blogspot.com)
- - date_published: 2024-05-11T13:34:19+00:00
-
- ## COMICBOOK OUTLAW
- - [http://steamrobo.blogspot.com](http://steamrobo.blogspot.com)
- - date_published: 2024-07-13T06:15:47+00:00
 

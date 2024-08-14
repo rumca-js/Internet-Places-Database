@@ -1,3 +1,197 @@
+ ## pocketbook
+ - [https://pocketbook.co.dk](https://pocketbook.co.dk)
+ - date_published: 2024-07-20T16:11:53.165703+00:00
+
+ ## ColorMatch - the best color scheme generators
+ - [http://colormatch.dk](http://colormatch.dk)
+ - date_published: 2021-03-24T00:00:00+00:00
+
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.dk](https://colorprinter.dk)
+ - date_published: 2021-05-02T21:13:56+00:00
+
+ ## Copenhagen Research Platform
+ - [https://carp.computerome.dk](https://carp.computerome.dk)
+ - date_published: 2024-07-24T03:18:16.389876+00:00
+
+ ## CONCITO - Danmarks grønne tænketank
+ - [https://concito.dk](https://concito.dk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Det foretrukne tilmeldingssystem til alle slags events
+ - [https://www.conferencemanager.dk](https://www.conferencemanager.dk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Contour Design - Ergonomiske mus i eksklusivt design
+ - [https://contourdesign.dk](https://contourdesign.dk)
+ - date_published: 2024-08-08T22:09:16.509960+00:00
+
+ ## Coolshop | Online shopping gjort nemt, sjovt og cool
+ - [https://www.coolshop.dk](https://www.coolshop.dk)
+ - date_published: 2024-07-20T20:59:27.869507+00:00
+
+ ## Home - COPENHELL
+ - [https://www.copenhell.dk](https://www.copenhell.dk)
+ - date_published: 2024-07-17T11:17:36.194823+00:00
+
+ ## Hundetilbehør & Hundeudstyr | Vi Har Alt til Hunde → Tryk Her
+ - [https://cotonshoppen.dk](https://cotonshoppen.dk)
+ - date_published: 2024-06-15T21:40:15.809639+00:00
+
+ ## CrazyGames - Gratis Online Spil på CrazyGames.dk
+ - [https://crazygames.dk](https://crazygames.dk)
+ - date_published: 2024-05-08T06:51:40.058929+00:00
+
+ ## Creative Time Studio
+ - [https://creativetime.dk](https://creativetime.dk)
+ - date_published: 2023-11-29T17:10:54.198669+00:00
+ - tags: ['personal']
+
+ ## [CSDb] - The Commodore 64 Scene Database
+ - [https://csdb.dk](https://csdb.dk)
+ - date_published: 2023-10-25T11:17:26.783143+00:00
+ - tags: ['demoscene', 'commodore', 'social forum']
+
+ ## CSIS Rest Assured
+ - [https://www.csis.dk](https://www.csis.dk)
+ - date_published: 2024-07-02T23:26:06+00:00
+
+ ## Cujo Sound - By Bjørn Jacobsen - Sound Design for video games and film
+ - [http://cujo.dk](http://cujo.dk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Cujo Sound - By Bjørn Jacobsen - Sound Design for video games and film
+ - [https://www.cujo.dk](https://www.cujo.dk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Bliv au pair i USA | Cultural Care
+ - [https://www.culturalcare.dk](https://www.culturalcare.dk)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Opret dit jobvindende CV - (Gratis) Skabelon
+ - [https://cv.dk](https://cv.dk)
+ - date_published: 2024-05-06T09:21:02.532549+00:00
+
+ ## CV.dk FAQ
+ - [https://help.cv.dk](https://help.cv.dk)
+ - date_published: 2024-06-22T22:11:18.497798+00:00
+
+ ## Hjem
+ - [https://cyberfortress.dk](https://cyberfortress.dk)
+ - date_published: 2024-06-29T06:03:31.563394+00:00
+
+ ## Forside - d3aconference.dk
+ - [https://d3aconference.dk](https://d3aconference.dk)
+ - date_published: 2024-06-22T08:47:35.744589+00:00
+
+ ## Daarbak Redoffice A/S
+ - [http://www.daarbak.dk](http://www.daarbak.dk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Dagens.dk - Nyheder 24 timer i døgnet
+ - [https://www.dagens.dk](https://www.dagens.dk)
+ - date_published: 2024-05-01T03:29:33.928655+00:00
+
+ ## Daniel Laursen – UX Specialist & experience enthusiast.
+ - [https://daniellaursen.dk](https://daniellaursen.dk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Welcome to the Danish Film
+ - [https://www.danishfilms.dk](https://www.danishfilms.dk)
+ - date_published: 2024-04-08T07:22:13+00:00
+
+ ## Danmark på film
+ - [https://www.danmarkpaafilm.dk](https://www.danmarkpaafilm.dk)
+ - date_published: 2024-07-02T22:27:37+00:00
+
+ ## danmarkshistorien.dk | Aarhus Universitet
+ - [http://danmarkshistorien.dk](http://danmarkshistorien.dk)
+ - date_published: 2024-07-22T10:18:50.615555+00:00
+
+ ## Danmarks Vilde Haver - WWF Danmark
+ - [https://danmarksvildehaver.dk](https://danmarksvildehaver.dk)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Privatkunde | Danske Bank
+ - [http://www.danskebank.dk](http://www.danskebank.dk)
+ - date_published: 2024-07-17T11:17:58.056679+00:00
+
+ ## Dansk Erhverv
+ - [https://www.danskerhverv.dk](https://www.danskerhverv.dk)
+ - date_published: 2024-08-08T20:10:32.528668+00:00
+
+ ## Forside - Sammenslutningen af Danske Småøer
+ - [https://danske-smaaoer.dk](https://danske-smaaoer.dk)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Datadyst
+ - [https://datadysten.dk](https://datadysten.dk)
+ - date_published: 2024-02-12T12:42:09+00:00
+
+ ## Dansk Datahistorisk Forening | Dataarkæologerne
+ - [https://datamuseum.dk](https://datamuseum.dk)
+ - date_published: 2024-07-14T13:19:40.077725+00:00
+
+ ## Datatilsynet
+ - [https://datatilsynet.dk](https://datatilsynet.dk)
+ - date_published: 2024-07-22T10:14:02.371105+00:00
+
+ ## Datavirke
+ - [https://datavirke.dk](https://datavirke.dk)
+ - date_published: 2023-10-25T18:45:02.904442+00:00
+
+ ## DCC Energi - Vi bruger vores energi på energi
+ - [https://www.dccenergi.dk](https://www.dccenergi.dk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## DDC – Danish Design Center
+ - [https://ddc.dk](https://ddc.dk)
+ - date_published: 2024-05-06T19:59:40.663790+00:00
+
+ ## Home - DDSA
+ - [https://ddsa.dk](https://ddsa.dk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Online børsmægler | Lave gebyrer | Handel | Mægler DEGIRO
+ - [https://www.degiro.dk](https://www.degiro.dk)
+ - date_published: 2024-05-31T14:26:55+00:00
+
+ ## DeiC | Danish e-Infrastructure Consortium
+ - [https://www.deic.dk](https://www.deic.dk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Forside
+ - [http://detvetsund.dk](http://detvetsund.dk)
+ - date_published: 2024-08-11T06:39:58.196592+00:00
+
+ ## Danmarks Frie Forskningsfond
+ - [https://dff.dk](https://dff.dk)
+ - date_published: 2024-05-20T13:53:34.704299+00:00
+
+ ## DFI | Det Danske Filminstitut
+ - [https://dfi.dk](https://dfi.dk)
+ - date_published: 2024-05-07T23:42:36.559583+00:00
+
+ ## David Heinemeier Hansson (DHH)
+ - [https://dhh.dk](https://dhh.dk)
+ - date_published: 2024-05-07T23:01:48.127992+00:00
+
+ ## Dianetik: Den Moderne Videnskab om Mental Sundhed
+ - [https://www.dianetics.dk](https://www.dianetics.dk)
+ - date_published: 2024-06-17T16:42:13.314842+00:00
+
+ ## DigiKey Electronics
+ - [https://www.digikey.dk](https://www.digikey.dk)
+ - date_published: 2024-05-01T05:03:46.165347+00:00
+
+ ## Digitaliseringsstyrelsen
+ - [https://digst.dk](https://digst.dk)
+ - date_published: 2024-07-22T10:17:26.913182+00:00
+
+ ## Tilgængelighedserklæring
+ - [https://edit.was.digst.dk](https://edit.was.digst.dk)
+ - date_published: 2024-07-02T23:12:15.328827+00:00
+
  ## Tilgængelighedserklæring
  - [https://was.digst.dk](https://was.digst.dk)
  - date_published: 2024-07-22T10:07:10.047280+00:00
@@ -1891,10 +2085,6 @@
  ## Psykiatrien i Region Midtjylland
  - [https://www.psykiatrien.rm.dk](https://www.psykiatrien.rm.dk)
  - date_published: 2024-08-06T00:00:00+00:00
-
- ## Region Midtjylland
- - [https://www.rm.dk](https://www.rm.dk)
- - date_published: 2024-06-10T00:00:00+00:00
 
  ## Regional Udvikling - Region Midtjylland
  - [https://www.ru.rm.dk](https://www.ru.rm.dk)
@@ -3821,192 +4011,4 @@
  ## University of Kent
  - [https://kent.academia.edu](https://kent.academia.edu)
  - date_published: 2024-04-30T02:57:21.779779+00:00
-
- ## Kristiania University College
- - [https://kristiania.academia.edu](https://kristiania.academia.edu)
- - date_published: 2024-04-30T02:49:23.792549+00:00
-
- ## KU Leuven
- - [https://kuleuven.academia.edu](https://kuleuven.academia.edu)
- - date_published: 2024-04-30T02:49:18.740787+00:00
-
- ## University of Leeds
- - [https://leeds.academia.edu](https://leeds.academia.edu)
- - date_published: 2024-04-30T03:01:13.277686+00:00
-
- ## University of Leicester
- - [https://leicester.academia.edu](https://leicester.academia.edu)
- - date_published: 2024-04-30T02:55:56.252594+00:00
-
- ## London School of Economics and Political Science
- - [http://lse.academia.edu](http://lse.academia.edu)
- - date_published: 2024-06-18T11:21:42.097485+00:00
-
- ## Louisiana State University
- - [https://lsu.academia.edu](https://lsu.academia.edu)
- - date_published: 2024-04-30T02:59:34.788657+00:00
-
- ## University of Hawaii at Manoa
- - [https://manoa-hawaii.academia.edu](https://manoa-hawaii.academia.edu)
- - date_published: 2024-04-30T02:58:49.746898+00:00
-
- ## Marquette University
- - [https://marquette.academia.edu](https://marquette.academia.edu)
- - date_published: 2024-04-30T02:58:52.326578+00:00
-
- ## Marymount University
- - [https://marymount.academia.edu](https://marymount.academia.edu)
- - date_published: 2024-07-14T05:10:49.574153+00:00
-
- ## Pontifical University, Saint Patrick's College, Maynooth, Co. Kildare, Ireland
- - [https://maynoothcollege.academia.edu](https://maynoothcollege.academia.edu)
- - date_published: 2024-04-30T03:02:03.712597+00:00
-
- ## McGill University
- - [http://mcgill.academia.edu](http://mcgill.academia.edu)
- - date_published: 2024-06-17T11:11:49.689404+00:00
-
- ## Macquarie University
- - [https://mq.academia.edu](https://mq.academia.edu)
- - date_published: 2024-04-30T02:56:10.953944+00:00
-
- ## Newcastle University
- - [https://newcastle.academia.edu](https://newcastle.academia.edu)
- - date_published: 2024-04-30T03:01:06.129645+00:00
-
- ## Nord University
- - [https://nord.academia.edu](https://nord.academia.edu)
- - date_published: 2024-04-30T02:55:39.100884+00:00
-
- ## Northumbria University
- - [https://northumbria.academia.edu](https://northumbria.academia.edu)
- - date_published: 2024-06-28T20:40:21.290997+00:00
-
- ## University of Nottingham
- - [https://nottingham.academia.edu](https://nottingham.academia.edu)
- - date_published: 2024-04-30T03:02:27.738966+00:00
-
- ## New York University
- - [https://nyu.academia.edu](https://nyu.academia.edu)
- - date_published: 2024-04-30T02:57:34.763015+00:00
-
- ## The Open University
- - [http://open.academia.edu](http://open.academia.edu)
- - date_published: 2024-06-24T10:23:47.035330+00:00
-
- ## University of Oxford
- - [https://oxford.academia.edu](https://oxford.academia.edu)
- - date_published: 2024-04-30T02:57:15.147449+00:00
-
- ## Princeton University
- - [https://princeton.academia.edu](https://princeton.academia.edu)
- - date_published: 2024-08-10T22:34:02.601048+00:00
-
- ## Queen's University Belfast
- - [https://qub.academia.edu](https://qub.academia.edu)
- - date_published: 2024-04-30T02:55:42.776796+00:00
-
- ## Rochester Institute of Technology
- - [http://rit.academia.edu](http://rit.academia.edu)
- - date_published: 2024-07-13T23:29:12.820913+00:00
-
- ## Rensselaer Polytechnic Institute
- - [https://rpi.academia.edu](https://rpi.academia.edu)
- - date_published: 2024-04-30T02:58:27.745751+00:00
-
- ## University of Salerno
- - [https://salerno.academia.edu](https://salerno.academia.edu)
- - date_published: 2024-07-19T23:09:49.222504+00:00
-
- ## Seton Hall University
- - [https://setonhall.academia.edu](https://setonhall.academia.edu)
- - date_published: 2024-04-30T02:50:00.275448+00:00
-
- ## Simon Fraser University
- - [https://sfu.academia.edu](https://sfu.academia.edu)
- - date_published: 2024-04-30T02:49:27.709317+00:00
-
- ## SISSA
- - [https://sissa.academia.edu](https://sissa.academia.edu)
- - date_published: 2024-04-30T02:50:12.558158+00:00
-
- ## San Jose State University
- - [https://sjsu.academia.edu](https://sjsu.academia.edu)
- - date_published: 2024-04-30T02:56:15.318008+00:00
-
- ## Sorbonne University
- - [https://sorbonne-fr.academia.edu](https://sorbonne-fr.academia.edu)
- - date_published: 2024-04-30T02:56:05.674739+00:00
-
- ## University of Southampton
- - [https://soton.academia.edu](https://soton.academia.edu)
- - date_published: 2024-04-30T03:02:09.123743+00:00
-
- ## University of St Andrews
- - [https://st-andrews.academia.edu](https://st-andrews.academia.edu)
- - date_published: 2024-04-30T02:56:19.257668+00:00
-
- ## Suleyman Demirel University
- - [https://suleyman-demirel.academia.edu](https://suleyman-demirel.academia.edu)
- - date_published: 2024-04-30T03:02:01.776177+00:00
-
- ## Cierpliwości...
- - [https://support.academia.edu](https://support.academia.edu)
- - date_published: 2024-04-30T02:59:53.441415+00:00
-
- ## The University of Sydney
- - [https://sydney.academia.edu](https://sydney.academia.edu)
- - date_published: 2024-04-30T06:47:19.141540+00:00
-
- ## Syracuse University
- - [https://syr.academia.edu](https://syr.academia.edu)
- - date_published: 2024-08-07T20:18:11.786645+00:00
-
- ## Universitat de Barcelona
- - [https://ub.academia.edu](https://ub.academia.edu)
- - date_published: 2024-06-24T09:53:17.923720+00:00
-
- ## University of Calgary
- - [https://ucalgary.academia.edu](https://ucalgary.academia.edu)
- - date_published: 2024-04-30T03:01:00.526211+00:00
-
- ## University of California, Irvine
- - [https://uci.academia.edu](https://uci.academia.edu)
- - date_published: 2024-04-30T02:57:47.316172+00:00
-
- ## University of California, Los Angeles
- - [https://ucla.academia.edu](https://ucla.academia.edu)
- - date_published: 2024-04-30T02:49:48.893438+00:00
-
- ## University College London
- - [https://ucl.academia.edu](https://ucl.academia.edu)
- - date_published: 2024-04-30T03:02:49.387494+00:00
-
- ## University of Connecticut
- - [https://uconn.academia.edu](https://uconn.academia.edu)
- - date_published: 2024-04-30T03:01:50.676175+00:00
-
- ## University of California, Riverside
- - [https://ucriverside.academia.edu](https://ucriverside.academia.edu)
- - date_published: 2024-05-07T13:46:38.061452+00:00
-
- ## University of Suffolk
- - [https://ucs.academia.edu](https://ucs.academia.edu)
- - date_published: 2024-06-24T10:53:04.894256+00:00
-
- ## University of California, Santa Cruz
- - [https://ucsc.academia.edu](https://ucsc.academia.edu)
- - date_published: 2024-04-30T02:56:00.401201+00:00
-
- ## UFSCar - Federal University of São Carlos
- - [https://ufscar.academia.edu](https://ufscar.academia.edu)
- - date_published: 2024-04-30T03:02:37.031230+00:00
-
- ## University of Gdansk
- - [https://ug.academia.edu](https://ug.academia.edu)
- - date_published: 2024-04-30T02:58:45.746908+00:00
-
- ## University of Illinois at Chicago
- - [https://uic.academia.edu](https://uic.academia.edu)
- - date_published: 2024-04-30T02:59:08.106014+00:00
 

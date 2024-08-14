@@ -1,3 +1,7 @@
+ ## ChatGPT for Gmail Free Chrome Extension | EzMail.AI
+ - [https://www.ezmail.ai](https://www.ezmail.ai)
+ - date_published: 2024-06-19T20:55:08.292418+00:00
+
  ## FabFab AI
  - [https://fabfab.ai](https://fabfab.ai)
  - date_published: 2024-03-11T15:19:44+00:00
@@ -4017,8 +4021,4 @@
  ## RECOVA: Every Bounce Is A 2nd Chance
  - [https://recova.ai](https://recova.ai)
  - date_published: 2024-03-28T00:00:00+00:00
-
- ## Recraft: Generative AI Design Tool
- - [https://www.recraft.ai](https://www.recraft.ai)
- - date_published: 2024-06-18T00:00:00+00:00
 

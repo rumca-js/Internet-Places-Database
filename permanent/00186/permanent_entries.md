@@ -1,3 +1,202 @@
+ ## Developer In Making
+ - [https://shankarmadeshvaran.hashnode.dev](https://shankarmadeshvaran.hashnode.dev)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Shaunak Sen's Blog
+ - [https://shaunaksen.hashnode.dev](https://shaunaksen.hashnode.dev)
+ - date_published: 2024-04-30T07:42:35.038637+00:00
+ - tags: ['personal']
+
+ ## SoNiC-HeRE
+ - [https://sonichere.hashnode.dev](https://sonichere.hashnode.dev)
+ - date_published: 2024-05-11T09:06:13.977387+00:00
+
+ ## Steel Rods
+ - [https://steelrods.hashnode.dev](https://steelrods.hashnode.dev)
+ - date_published: 2023-11-12T13:46:14.283644+00:00
+ - tags: ['personal']
+
+ ## Learned to Share
+ - [https://tanmaysarkar.hashnode.dev](https://tanmaysarkar.hashnode.dev)
+ - date_published: 2024-06-01T04:55:17.869008+00:00
+
+ ## Techlatest Blogs
+ - [https://techlatest.hashnode.dev](https://techlatest.hashnode.dev)
+ - date_published: 2024-06-01T04:54:48.827485+00:00
+
+ ## Varol Aksoy | iOS Development
+ - [https://varol.hashnode.dev](https://varol.hashnode.dev)
+ - date_published: 2024-06-23T15:44:00.838541+00:00
+
+ ## Show HN: Hashquery, a Python library for defining reusable analysis
+ - [https://hashquery.dev](https://hashquery.dev)
+ - date_published: 2024-04-23T14:31:12+00:00
+ - tags: ['programming library', 'python', 'data analysis']
+
+ ## Hathora
+ - [https://blog.hathora.dev](https://blog.hathora.dev)
+ - date_published: 2024-03-16T00:26:26.846171+00:00
+
+ ## Hathora Console
+ - [https://console.hathora.dev](https://console.hathora.dev)
+ - date_published: 2024-08-09T03:30:04.258737+00:00
+
+ ## Hathora | Server Orchestration for Multiplayer Games
+ - [https://hathora.dev](https://hathora.dev)
+ - date_published: 2024-04-23T10:08:25+00:00
+ - tags: ['server hosting', 'online service']
+
+ ## Plausible · Web analytics
+ - [https://analytics.hay-kot.dev](https://analytics.hay-kot.dev)
+ - date_published: 2024-07-18T06:54:07.212698+00:00
+
+ ## HDC – Handcrafted web development meets cutting-edge AI
+ - [https://hdc.dev](https://hdc.dev)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Headless UI
+ - [https://headlessui.dev](https://headlessui.dev)
+ - date_published: 2024-04-30T02:20:07.294350+00:00
+
+ ## HedgeDoc 2 Docs
+ - [https://docs.hedgedoc.dev](https://docs.hedgedoc.dev)
+ - date_published: 2024-07-18T08:21:34.697861+00:00
+
+ ## HedgeDoc
+ - [https://hedgedoc.dev](https://hedgedoc.dev)
+ - date_published: 2024-07-18T08:21:31.880975+00:00
+
+ ## home
+ - [https://home.hedy.dev](https://home.hedy.dev)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## HEIR: Homomorphic Encryption Intermediate Representation
+ - [http://heir.dev](http://heir.dev)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Helen Chong | Front-End Web Developer
+ - [https://helenchong.dev](https://helenchong.dev)
+ - date_published: 2024-07-21T15:26:20+00:00
+
+ ## Helius - Solana's Leading RPC & API Platform
+ - [http://helius.dev](http://helius.dev)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Hellō World
+ - [https://blog.hello.dev](https://blog.hello.dev)
+ - date_published: 2024-05-07T19:03:36.473998+00:00
+
+ ## Hellō Playground
+ - [https://playground.hello.dev](https://playground.hello.dev)
+ - date_published: 2024-05-07T19:03:28.926733+00:00
+
+ ## hello.dev | hello.dev
+ - [https://hello.dev](https://hello.dev)
+ - date_published: 2024-05-07T19:03:26.406304+00:00
+
+ ## Welcome - hello, yes. I'm Thomas Michael Semmler: CSS Developer, Designer & Developer from Vienna, Austria
+ - [https://helloyes.dev](https://helloyes.dev)
+ - date_published: 2024-05-06T22:19:09.005545+00:00
+
+ ## Helpful Dev | Helpful Dev
+ - [https://helpful.dev](https://helpful.dev)
+ - date_published: 2024-06-19T04:36:11.647740+00:00
+
+ ## Henrique Vicente
+ - [https://henvic.dev](https://henvic.dev)
+ - date_published: 2023-10-25T09:21:40.457532+00:00
+ - tags: ['personal']
+
+ ## hermes/README.md at main · facebook/hermes
+ - [https://hermesengine.dev](https://hermesengine.dev)
+ - date_published: 2024-05-06T13:56:30.682943+00:00
+
+ ## Herodotus
+ - [https://herodotus.dev](https://herodotus.dev)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Heroicons
+ - [https://heroicons.dev](https://heroicons.dev)
+ - date_published: 2024-06-27T11:46:52.020452+00:00
+
+ ## HiGHS - High-performance parallel linear optimization software
+ - [https://highs.dev](https://highs.dev)
+ - date_published: 2024-05-18T13:17:18+00:00
+
+ ## Build better business applications, faster, with Hilla
+ - [https://hilla.dev](https://hilla.dev)
+ - date_published: 2024-04-30T00:28:58.130696+00:00
+
+ ## Intro
+ - [https://hiranyey.dev](https://hiranyey.dev)
+ - date_published: 2023-10-25T18:38:20.773984+00:00
+
+ ## Histoire controls
+ - [https://controls.histoire.dev](https://controls.histoire.dev)
+ - date_published: 2024-04-29T07:46:54.786866+00:00
+
+ ## Histoire | Histoire
+ - [https://histoire.dev](https://histoire.dev)
+ - date_published: 2023-10-25T18:38:21.786006+00:00
+
+ ## Concurrency Models Demystified | DEV World 2024 Conference Deck | Harish Kandala
+ - [https://devworld24.hkandala.dev](https://devworld24.hkandala.dev)
+ - date_published: 2024-06-23T08:31:24.045583+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://hoanganh.dev](https://hoanganh.dev)
+ - date_published: 2024-05-11T10:17:50.204655+00:00
+
+ ## Hocus | Automated Self-Hosted Dev Environments
+ - [https://hocus.dev](https://hocus.dev)
+ - date_published: 2023-10-25T18:38:23.102654+00:00
+ - tags: ['self-host']
+
+ ## PostHog
+ - [https://phog.hocus.dev](https://phog.hocus.dev)
+ - date_published: 2023-07-07T00:00:00+00:00
+
+ ## Homarr Demo
+ - [https://demo.homarr.dev](https://demo.homarr.dev)
+ - date_published: 2024-05-14T03:46:23.271083+00:00
+
+ ## Homarr documentation
+ - [https://homarr.dev](https://homarr.dev)
+ - date_published: 2024-04-08T19:28:57.512411+00:00
+ - tags: ['self-host', 'server administration']
+
+ ## Umami
+ - [https://umami.homarr.dev](https://umami.homarr.dev)
+ - date_published: 2024-05-14T03:46:22.779870+00:00
+
+ ## honnibal.dev
+ - [https://honnibal.dev](https://honnibal.dev)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Hono - Ultrafast web framework for the Edges
+ - [https://hono.dev](https://hono.dev)
+ - date_published: 2024-04-29T07:30:37.261287+00:00
+
+ ## hoop.dev - Protect access to customer data. Anywhere.
+ - [https://hoop.dev](https://hoop.dev)
+ - date_published: 2023-10-25T18:38:24.467829+00:00
+
+ ## Hoop
+ - [https://use.hoop.dev](https://use.hoop.dev)
+ - date_published: 2024-04-29T07:47:04.897395+00:00
+
+ ## horrific.dev
+ - [https://horrific.dev](https://horrific.dev)
+ - date_published: 2022-08-12T05:44:08+00:00
+
+ ## Horrific.Dev Mastodon
+ - [https://is.a.horrific.dev](https://is.a.horrific.dev)
+ - date_published: 2024-07-02T20:47:08.616493+00:00
+
+ ## hotio.dev
+ - [https://hotio.dev](https://hotio.dev)
+ - date_published: 2024-05-14T03:32:08.303055+00:00
+
  ## Hotwire Discussion
  - [https://discuss.hotwired.dev](https://discuss.hotwired.dev)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -3889,202 +4088,4 @@
  ## Richie Dev
  - [https://richie.dev](https://richie.dev)
  - date_published: 2024-06-21T09:25:04.889526+00:00
-
- ## Rida F'kih — Developer & Designer
- - [https://next.rida.dev](https://next.rida.dev)
- - date_published: 2024-04-30T02:13:25.307878+00:00
-
- ## Rida F'kih — Developer & Designer
- - [https://rida.dev](https://rida.dev)
- - date_published: 2024-07-22T12:04:53.249971+00:00
- - tags: ['personal']
-
- ## RisingWave
- - [https://risingwave.dev](https://risingwave.dev)
- - date_published: 2024-04-28T05:08:12.497113+00:00
-
- ## River Phillips
- - [https://www.riverphillips.dev](https://www.riverphillips.dev)
- - date_published: 2023-11-07T19:56:32.446810+00:00
-
- ## Rizwan - iOS Developer
- - [https://blog.rizwan.dev](https://blog.rizwan.dev)
- - date_published: 2024-05-11T10:08:07.281450+00:00
-
- ## Rizwan - iOS Developer
- - [https://rizwan.dev](https://rizwan.dev)
- - date_published: 2024-06-23T15:46:57.043751+00:00
-
- ## Overview - Practical third-party library sandboxing with RLBox
- - [https://rlbox.dev](https://rlbox.dev)
- - date_published: 2024-03-05T09:40:41+00:00
-
- ## rmkit
- - [https://rmkit.dev](https://rmkit.dev)
- - date_published: 2023-10-25T18:41:23.340976+00:00
-
- ## Jason Beggs
- - [https://roasted.dev](https://roasted.dev)
- - date_published: 2024-06-19T09:30:05.041897+00:00
-
- ## Robusta
- - [https://home.robusta.dev](https://home.robusta.dev)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Rocicorp, LLC
- - [https://rocicorp.dev](https://rocicorp.dev)
- - date_published: 2023-10-27T11:57:00.995943+00:00
-
- ## roe.dev
- - [https://mastodon.roe.dev](https://mastodon.roe.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Daniel Roe
- - [https://roe.dev](https://roe.dev)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://v.roe.dev](https://v.roe.dev)
- - date_published: 2024-04-30T02:13:42.332510+00:00
-
- ## illuminati
- - [https://illuminati.rohitagarwal.dev](https://illuminati.rohitagarwal.dev)
- - date_published: 2024-04-30T02:13:50.804262+00:00
-
- ## Rohit's Programming Notes
- - [https://notes.rohitagarwal.dev](https://notes.rohitagarwal.dev)
- - date_published: 2024-04-30T02:13:48.570975+00:00
-
- ## ./
- - [https://rohitagarwal.dev](https://rohitagarwal.dev)
- - date_published: 2024-02-25T14:02:26.120894+00:00
-
- ## Romain Guy
- - [https://romainguy.dev](https://romainguy.dev)
- - date_published: 2024-05-07T09:28:54.635365+00:00
- - tags: ['personal']
-
- ## dpromanko
- - [https://romanko.dev](https://romanko.dev)
- - date_published: 2024-05-07T23:13:42.299146+00:00
-
- ## ronin-rb
- - [https://merch.ronin-rb.dev](https://merch.ronin-rb.dev)
- - date_published: 2024-04-30T02:14:25.313080+00:00
-
- ## Ronin
- - [https://ronin-rb.dev](https://ronin-rb.dev)
- - date_published: 2023-10-25T18:41:29.801869+00:00
-
- ## Home
- - [https://ronvaisman.dev](https://ronvaisman.dev)
- - date_published: 2024-08-06T23:39:04.414781+00:00
-
- ## Auke
- - [https://roorda.dev](https://roorda.dev)
- - date_published: 2021-07-15T08:21:23+00:00
-
- ## ROT256 : Cryptography & Other Random Bits.
- - [https://rot256.dev](https://rot256.dev)
- - date_published: 2023-10-25T18:41:30.428116+00:00
-
- ## ROTO - Software Engineer
- - [https://roto.dev](https://roto.dev)
- - date_published: 2024-05-11T10:22:14.307357+00:00
-
- ## Rot | Secure Secrets Management for the Modern Sysadmin
- - [https://rotx.dev](https://rotx.dev)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Royce Hsu — Web Person, Musician
- - [https://roycifer.dev](https://roycifer.dev)
- - date_published: 2024-04-28T05:53:38.565341+00:00
- - tags: ['personal']
-
- ## RPGGen: Tabletop role-playing game generator web directory
- - [https://rpggen.dev](https://rpggen.dev)
- - date_published: 2024-01-09T14:11:25+00:00
- - tags: ['tabletop games', 'online tool']
-
- ## Rsbuild
- - [https://rsbuild.dev](https://rsbuild.dev)
- - date_published: 2024-07-07T03:05:42.694613+00:00
-
- ## Rsdoctor
- - [https://rsdoctor.dev](https://rsdoctor.dev)
- - date_published: 2024-07-07T03:05:39.590240+00:00
-
- ## Rspack
- - [https://rspack.dev](https://rspack.dev)
- - date_published: 2024-05-08T09:01:28.167877+00:00
-
- ## Rspress
- - [https://rspress.dev](https://rspress.dev)
- - date_published: 2024-07-07T03:05:41.750386+00:00
-
- ## {rtfmplease.dev}
- - [https://rtfmplease.dev](https://rtfmplease.dev)
- - date_published: 2021-09-30T14:10:57+00:00
-
- ## Rubén Rodríguez
- - [https://www.rubenr.dev](https://www.rubenr.dev)
- - date_published: 2024-05-11T10:11:07.904484+00:00
- - tags: ['personal']
-
- ## RubyQuiz
- - [https://rubyquiz.dev](https://rubyquiz.dev)
- - date_published: 2024-08-06T20:16:47.341058+00:00
-
- ## ruflas
- - [https://ruflas.dev](https://ruflas.dev)
- - date_published: 2023-12-03T09:19:05.397560+00:00
- - tags: ['personal']
-
- ## Introduction - Runed
- - [https://runed.dev](https://runed.dev)
- - date_published: 2024-07-14T09:42:52.626238+00:00
-
- ## R packages by ffverse
- - [https://ffverse.r-universe.dev](https://ffverse.r-universe.dev)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## R packages by nflverse
- - [https://nflverse.r-universe.dev](https://nflverse.r-universe.dev)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Runme
- - [https://app.runme.dev](https://app.runme.dev)
- - date_published: 2024-04-30T02:14:28.028116+00:00
-
- ## Home  •  RUNME
- - [https://docs.runme.dev](https://docs.runme.dev)
- - date_published: 2024-04-30T02:14:27.587649+00:00
-
- ## Runme turns your documentation into interactive runbooks
- - [https://runme.dev](https://runme.dev)
- - date_published: 2023-10-25T18:41:31.705501+00:00
-
- ## G'day Champion
- - [https://assets.runno.dev](https://assets.runno.dev)
- - date_published: 2023-08-27T22:01:33+00:00
-
- ## Runno
- - [https://runno.dev](https://runno.dev)
- - date_published: 2023-10-25T18:41:32.158796+00:00
-
- ## Detect, label, format and enrich code
- - [https://codedetectionapi.runtime.dev](https://codedetectionapi.runtime.dev)
- - date_published: 2022-03-08T00:00:00+00:00
-
- ## runtimeterror
- - [https://runtimeterror.dev](https://runtimeterror.dev)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Upptime Terror
- - [https://status.runtimeterror.dev](https://status.runtimeterror.dev)
- - date_published: 2024-07-17T01:30:51+00:00
-
- ## Rust for JavaScript Developers
- - [https://rustforjs.dev](https://rustforjs.dev)
- - date_published: 2024-06-23T06:18:21.272317+00:00
 

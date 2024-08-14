@@ -1,3 +1,199 @@
+ ## The Newcomer's Guide to Robert E. Howard
+ - [http://rehguide.wordpress.com](http://rehguide.wordpress.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Private Site
+ - [https://reinerp.wordpress.com](https://reinerp.wordpress.com)
+ - date_published: 2024-07-11T07:52:48.222578+00:00
+
+ ## Release the margins!
+ - [https://releasethemargins.wordpress.com](https://releasethemargins.wordpress.com)
+ - date_published: 2024-07-18T17:23:34.617763+00:00
+
+ ## Religion Compass
+ - [https://religioncompass.wordpress.com](https://religioncompass.wordpress.com)
+ - date_published: 2024-05-06T23:49:13.072192+00:00
+
+ ## Remnant of Giants
+ - [https://remnantofgiants.wordpress.com](https://remnantofgiants.wordpress.com)
+ - date_published: 2024-06-28T21:07:43.356449+00:00
+
+ ## Private Site
+ - [http://renalfailure.wordpress.com](http://renalfailure.wordpress.com)
+ - date_published: 2024-07-01T06:00:36.685680+00:00
+
+ ## Collectors Connection
+ - [https://renz15.wordpress.com](https://renz15.wordpress.com)
+ - date_published: 2024-05-07T15:28:05.747506+00:00
+
+ ## reperiendi
+ - [http://reperiendi.wordpress.com](http://reperiendi.wordpress.com)
+ - date_published: 2024-06-27T23:30:38+00:00
+
+ ## Replacing Textbooks
+ - [https://replacingtextbooks.wordpress.com](https://replacingtextbooks.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Replicability-Index
+ - [https://replicationindex.wordpress.com](https://replicationindex.wordpress.com)
+ - date_published: 2024-06-23T09:59:06.045158+00:00
+
+ ## The Reinvigorated Programmer
+ - [https://reprog.wordpress.com](https://reprog.wordpress.com)
+ - date_published: 2024-01-04T05:09:13.524593+00:00
+
+ ## (no title)
+ - [https://rerightinghistorymj.wordpress.com](https://rerightinghistorymj.wordpress.com)
+ - date_published: 2024-05-06T23:31:35.745810+00:00
+
+ ## Research Remix
+ - [http://researchremix.wordpress.com](http://researchremix.wordpress.com)
+ - date_published: 2024-06-30T10:05:26.267031+00:00
+
+ ## res gerendae
+ - [https://resgerendae.wordpress.com](https://resgerendae.wordpress.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Natural History
+ - [https://retrieverman.wordpress.com](https://retrieverman.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## RetroGamersGalaxy
+ - [http://retrogamersgalaxy.wordpress.com](http://retrogamersgalaxy.wordpress.com)
+ - date_published: 2024-08-07T08:53:12.154501+00:00
+
+ ## RetroMod World
+ - [https://retromodsblog.wordpress.com](https://retromodsblog.wordpress.com)
+ - date_published: 2024-07-14T12:20:31.916169+00:00
+
+ ## Adam's Vintage Computer Restorations
+ - [https://retrorepairsandrefurbs.wordpress.com](https://retrorepairsandrefurbs.wordpress.com)
+ - date_published: 2024-04-28T04:44:46.439112+00:00
+
+ ## Reverse Code
+ - [https://reversec0de.wordpress.com](https://reversec0de.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Revista Comunicar
+ - [http://revistacomunicar.wordpress.com](http://revistacomunicar.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## rgrunber
+ - [https://rgrunber.wordpress.com](https://rgrunber.wordpress.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Deep Thoughts by Raymond Hettinger
+ - [https://rhettinger.wordpress.com](https://rhettinger.wordpress.com)
+ - date_published: 2024-06-20T06:01:32+00:00
+
+ ## Rice Program Council
+ - [https://riceprogramcouncilsite.wordpress.com](https://riceprogramcouncilsite.wordpress.com)
+ - date_published: 2024-06-29T17:53:17+00:00
+
+ ## Whizzbang1698
+ - [http://rich1698.wordpress.com](http://rich1698.wordpress.com)
+ - date_published: 2024-07-17T10:44:56.183951+00:00
+
+ ## Private Site
+ - [http://richandshari.wordpress.com](http://richandshari.wordpress.com)
+ - date_published: 2024-07-24T06:07:29.820233+00:00
+
+ ## Global Justice in the 21st Century
+ - [http://richardfalk.wordpress.com](http://richardfalk.wordpress.com)
+ - date_published: 2024-06-15T09:03:46.469382+00:00
+
+ ## Re’s Judicata
+ - [http://richardresjudicata.wordpress.com](http://richardresjudicata.wordpress.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Richard Wilson's blog
+ - [https://richardwilsonauthor.wordpress.com](https://richardwilsonauthor.wordpress.com)
+ - date_published: 2024-05-06T23:48:57.081738+00:00
+
+ ## WWC
+ - [https://richde.wordpress.com](https://richde.wordpress.com)
+ - date_published: 2024-05-07T16:15:16.232986+00:00
+
+ ## paint.net blog
+ - [https://rickbrewster.wordpress.com](https://rickbrewster.wordpress.com)
+ - date_published: 2024-07-14T23:57:21.061124+00:00
+
+ ## Rigorous Trivialities
+ - [https://rigtriv.wordpress.com](https://rigtriv.wordpress.com)
+ - date_published: 2024-05-07T16:15:34.707379+00:00
+
+ ## A Lively Experiment
+ - [http://rihs.wordpress.com](http://rihs.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Rik Mayall Scrapbook
+ - [https://rikmayallscrapbook.wordpress.com](https://rikmayallscrapbook.wordpress.com)
+ - date_published: 2024-07-22T10:34:13.966058+00:00
+
+ ## Riley Murray
+ - [https://rileyjmurray.wordpress.com](https://rileyjmurray.wordpress.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## words from sweden
+ - [https://rinse.wordpress.com](https://rinse.wordpress.com)
+ - date_published: 2024-05-07T21:55:41.590520+00:00
+
+ ## ripituc
+ - [https://ripituc.wordpress.com](https://ripituc.wordpress.com)
+ - date_published: 2024-07-03T09:40:10.062817+00:00
+
+ ## Ritshek Gautam
+ - [https://ritshekgautam.wordpress.com](https://ritshekgautam.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Confluence
+ - [http://riverdaughter.wordpress.com](http://riverdaughter.wordpress.com)
+ - date_published: 2024-06-27T10:20:39.374553+00:00
+
+ ## Gödel's Lost Letter and P=NP
+ - [https://rjlipton.wordpress.com](https://rjlipton.wordpress.com)
+ - date_published: 2024-05-07T15:48:55.260630+00:00
+
+ ## Private Site
+ - [https://r-login.wordpress.com](https://r-login.wordpress.com)
+ - date_published: 2023-12-11T16:34:27.567200+00:00
+
+ ## Road Less Tested
+ - [https://roadlesstested.wordpress.com](https://roadlesstested.wordpress.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Rob's Blog
+ - [http://robafretwell.wordpress.com](http://robafretwell.wordpress.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## roberthstiver
+ - [https://roberthstiver.wordpress.com](https://roberthstiver.wordpress.com)
+ - date_published: 2024-05-01T03:03:24.235065+00:00
+
+ ## Thoughts of undetermined usefulness
+ - [https://robertmh.wordpress.com](https://robertmh.wordpress.com)
+ - date_published: 2024-05-19T02:44:05.467630+00:00
+
+ ## robertscribbler
+ - [https://robertscribbler.wordpress.com](https://robertscribbler.wordpress.com)
+ - date_published: 2024-06-29T01:39:31+00:00
+
+ ## Private Site
+ - [http://robinaltman.wordpress.com](http://robinaltman.wordpress.com)
+ - date_published: 2024-07-01T06:02:13.305171+00:00
+
+ ## Hidden assumptions
+ - [https://robwilson1.wordpress.com](https://robwilson1.wordpress.com)
+ - date_published: 2024-06-30T11:06:07+00:00
+
+ ## Rock drum
+ - [https://rockdrum.wordpress.com](https://rockdrum.wordpress.com)
+ - date_published: 2024-07-13T23:53:05.988042+00:00
+
+ ## Rocky Mountain Navy Gamer
+ - [http://rockymountainnavy.wordpress.com](http://rockymountainnavy.wordpress.com)
+ - date_published: 2024-07-09T14:08:01.905267+00:00
+
  ## Rocky Mountain Synthesizer Meet
  - [https://rockymountainsynth.wordpress.com](https://rockymountainsynth.wordpress.com)
  - date_published: 2024-06-21T23:49:52.626594+00:00
@@ -1229,6 +1425,10 @@
  ## #StopElsevier
  - [https://stopelsevier.wordpress.com](https://stopelsevier.wordpress.com)
  - date_published: 2024-08-11T02:42:06.358893+00:00
+
+ ## stopgazdeschiste39-Collectif Jurassien-
+ - [http://stopgazdeschiste39.wordpress.com](http://stopgazdeschiste39.wordpress.com)
+ - date_published: 2024-08-12T04:28:42.645623+00:00
 
  ## (no title)
  - [https://storageservers.wordpress.com](https://storageservers.wordpress.com)
@@ -3817,205 +4017,4 @@
  ## yo252yo
  - [https://yo252yo.wordpress.com](https://yo252yo.wordpress.com)
  - date_published: 2024-05-06T15:10:56.237195+00:00
-
- ## Y o h a n c a
- - [https://yohancacom.wordpress.com](https://yohancacom.wordpress.com)
- - date_published: 2024-05-07T18:33:18.761437+00:00
-
- ## Yokosuka Sasebo Japan
- - [https://yokosukasasebojapan.wordpress.com](https://yokosukasasebojapan.wordpress.com)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Yo Mama For Obama
- - [http://yomamaforobama.wordpress.com](http://yomamaforobama.wordpress.com)
- - date_published: 2024-06-27T06:47:51.616541+00:00
-
- ## Alternate Seat of TYR
- - [https://yorksranter.wordpress.com](https://yorksranter.wordpress.com)
- - date_published: 2024-06-08T11:35:20.904067+00:00
-
- ## يونس بن عمارة
- - [https://younesleeyoungae.wordpress.com](https://younesleeyoungae.wordpress.com)
- - date_published: 2024-06-23T07:55:21+00:00
-
- ## Babelingua
- - [http://youngrabines.wordpress.com](http://youngrabines.wordpress.com)
- - date_published: 2024-07-02T06:36:07.164431+00:00
-
- ## yourBarnabas.com
- - [https://yourbarnabas.wordpress.com](https://yourbarnabas.wordpress.com)
- - date_published: 2024-05-07T18:35:21.659488+00:00
-
- ## Your Dungeon Is Suck.
- - [https://yourdungeonissuck.wordpress.com](https://yourdungeonissuck.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Yufei Zhao
- - [https://yufeizhao.wordpress.com](https://yufeizhao.wordpress.com)
- - date_published: 2024-05-07T15:57:48.364770+00:00
- - tags: ['personal']
-
- ## Yume No Sekai
- - [https://yumenosekaiorg.wordpress.com](https://yumenosekaiorg.wordpress.com)
- - date_published: 2024-06-21T13:56:48.305231+00:00
-
- ## Zachary Shahan
- - [https://zacharyshahan.wordpress.com](https://zacharyshahan.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The ramblings of a systems admin
- - [https://zag4me.wordpress.com](https://zag4me.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## My share of Rheumatology
- - [http://zandbelt.wordpress.com](http://zandbelt.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Zappis Welt
- - [https://zappi.wordpress.com](https://zappi.wordpress.com)
- - date_published: 2024-07-16T17:46:50.787127+00:00
-
- ## Zbędnik niekulturalny
- - [https://zbednik.wordpress.com](https://zbednik.wordpress.com)
- - date_published: 2024-05-07T15:30:31.587670+00:00
-
- ## Site Title
- - [https://zdrjson.wordpress.com](https://zdrjson.wordpress.com)
- - date_published: 2024-05-07T18:32:19.226265+00:00
-
- ## New-Zeeealand !
- - [http://zeeealand.wordpress.com](http://zeeealand.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Zehira-blog
- - [https://zehirablog.wordpress.com](https://zehirablog.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## ein Maler malt die Welt nicht, wie sie ist - sondern wie er sie sieht
- - [http://zeichenschatten.wordpress.com](http://zeichenschatten.wordpress.com)
- - date_published: 2024-06-30T04:14:15.123626+00:00
-
- ## Lynn Haraldson, Author and Writing Mentor
- - [https://zenbagladydotcom.wordpress.com](https://zenbagladydotcom.wordpress.com)
- - date_published: 2024-05-07T18:50:58.494052+00:00
-
- ## Zen Musings
- - [http://zenmusings.wordpress.com](http://zenmusings.wordpress.com)
- - date_published: 2024-07-01T14:43:20.936170+00:00
-
- ## ZEN Document Review
- - [https://zeroerrornumerics.wordpress.com](https://zeroerrornumerics.wordpress.com)
- - date_published: 2024-06-16T21:52:08.853900+00:00
-
- ## From zero to zygote
- - [https://zerotozygote.wordpress.com](https://zerotozygote.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Da's recipes on Emacs, IT, and more
- - [https://zhangda.wordpress.com](https://zhangda.wordpress.com)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Zhenghe's Blog
- - [https://zhenghezhang.wordpress.com](https://zhenghezhang.wordpress.com)
- - date_published: 2024-05-07T15:56:11.493637+00:00
-
- ## ZhouEdu.net
- - [https://zhouedu.wordpress.com](https://zhouedu.wordpress.com)
- - date_published: 2024-07-10T08:20:05.944386+00:00
-
- ## Ziko's Blog
- - [https://zikoblog.wordpress.com](https://zikoblog.wordpress.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Zing-Ming
- - [https://zingming.wordpress.com](https://zingming.wordpress.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## Private Site
- - [http://zinjanthropus.wordpress.com](http://zinjanthropus.wordpress.com)
- - date_published: 2024-07-02T06:10:04.749414+00:00
-
- ## Zion in Ulthos
- - [https://zionius.wordpress.com](https://zionius.wordpress.com)
- - date_published: 2024-05-08T06:35:25.661133+00:00
-
- ## StealthFlation
- - [https://zirpqe.wordpress.com](https://zirpqe.wordpress.com)
- - date_published: 2024-07-01T09:15:25.347446+00:00
-
- ## Zoe Winters, Paranormal Romance Author
- - [http://zoewinters.wordpress.com](http://zoewinters.wordpress.com)
- - date_published: 2024-07-04T14:05:54.443638+00:00
-
- ## Zompist's E-Z rant page
- - [https://zompist.wordpress.com](https://zompist.wordpress.com)
- - date_published: 2024-05-09T05:38:56.105165+00:00
-
- ## ZONA LIBRE RADIO 1
- - [https://zonalibreradio1.wordpress.com](https://zonalibreradio1.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Undefined Behavior
- - [http://zpconn.wordpress.com](http://zpconn.wordpress.com)
- - date_published: 2024-06-30T08:44:55.676685+00:00
-
- ## Enumeratively Relevant
- - [http://zungnh.wordpress.com](http://zungnh.wordpress.com)
- - date_published: 2024-06-30T11:18:16.875856+00:00
-
- ## zunguzungu
- - [http://zunguzungu.wordpress.com](http://zunguzungu.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Zwinglius Redivivus
- - [https://zwingliusredivivus.wordpress.com](https://zwingliusredivivus.wordpress.com)
- - date_published: 2024-05-06T23:49:20.424942+00:00
-
- ## zwischenzugs
- - [https://zwischenzugs.wordpress.com](https://zwischenzugs.wordpress.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## 28th March 2024
- - [http://zythophile.wordpress.com](http://zythophile.wordpress.com)
- - date_published: 2024-07-02T06:36:05.514812+00:00
-
- ## Mixotricha
- - [http://zyxo.wordpress.com](http://zyxo.wordpress.com)
- - date_published: 2024-06-22T09:18:41+00:00
-
- ## Welcome
- - [https://wordpressriverthemes.com](https://wordpressriverthemes.com)
- - date_published: 2021-10-22T00:00:00+00:00
-
- ## WordReference Word of the Day
- - [https://daily.wordreference.com](https://daily.wordreference.com)
- - date_published: 2024-06-30T10:18:25+00:00
-
- ## WordReference Forums
- - [https://forum.wordreference.com](https://forum.wordreference.com)
- - date_published: 2023-12-21T17:17:26.978086+00:00
-
- ## WordReference.com word lists
- - [https://lists.wordreference.com](https://lists.wordreference.com)
- - date_published: 2024-06-30T10:22:21.199020+00:00
-
- ## English to French, Italian, German & Spanish Dictionary - WordReference.com
- - [https://wordreference.com](https://wordreference.com)
- - date_published: 2024-05-07T16:04:43.953058+00:00
-
- ## WordRidden
- - [http://wordridden.com](http://wordridden.com)
- - date_published: 2024-06-15T03:59:21.419780+00:00
-
- ## WordsAreDelicious.com is available at DomainMarket.com
- - [http://wordsaredelicious.com](http://wordsaredelicious.com)
- - date_published: 2024-05-07T21:56:21.382764+00:00
-
- ## Translate your documents faster and better thanks to Artificial Intelligence
- - [https://pro.wordscope.com](https://pro.wordscope.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## WordSeed - Amplify Your Brand
- - [https://www.wordseed.com](https://www.wordseed.com)
- - date_published: 2024-07-13T11:43:30.137762+00:00
 

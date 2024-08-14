@@ -1,3 +1,205 @@
+ ## Login
+ - [https://konto.deutsches-schulportal.de](https://konto.deutsches-schulportal.de)
+ - date_published: 2024-08-08T20:12:03.978965+00:00
+
+ ## Deutsches Spionagemuseum Berlin | Deutschlands einziges Spy Museum
+ - [https://www.deutsches-spionagemuseum.de](https://www.deutsches-spionagemuseum.de)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## deutsche-startups.de - News zu Startups, Venture Capital und digitalen Jobs
+ - [https://www.deutsche-startups.de](https://www.deutsche-startups.de)
+ - date_published: 2024-06-25T21:22:26.690259+00:00
+
+ ## Wir fördern und stärken Engagement und Ehrenamt - Deutsche Stiftung für Engagement und Ehrenamt
+ - [https://www.deutsche-stiftung-engagement-und-ehrenamt.de](https://www.deutsche-stiftung-engagement-und-ehrenamt.de)
+ - date_published: 2020-10-30T10:03:22+00:00
+
+ ## Deutsche Weinstraße - Urlaub in der Pfalz
+ - [https://www.deutscheweinstrasse-pfalz.de](https://www.deutscheweinstrasse-pfalz.de)
+ - date_published: 2024-08-11T10:07:29.325434+00:00
+
+ ## DZG – Deutsche Zentren der Gesundheitsforschung
+ - [https://deutschezentren.de](https://deutschezentren.de)
+ - date_published: 2024-05-11T11:49:08.754163+00:00
+
+ ## interactive.deutschland.de
+ - [https://interactive.deutschland.de](https://interactive.deutschland.de)
+ - date_published: 2020-07-02T08:39:05+00:00
+
+ ## deutschland.de - Your link to Germany
+ - [https://deutschland.de](https://deutschland.de)
+ - date_published: 2023-10-25T18:29:41.108581+00:00
+ - tags: ['german news']
+
+ ## Deutschlandfunk - Alles von Relevanz.
+ - [https://www.deutschlandfunk.de](https://www.deutschlandfunk.de)
+ - date_published: 2024-05-02T13:35:06.052476+00:00
+
+ ## Deutschlandfunk Kultur
+ - [http://deutschlandfunkkultur.de](http://deutschlandfunkkultur.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Deutschlandfunk Kultur
+ - [https://www.deutschlandfunkkultur.de](https://www.deutschlandfunkkultur.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Deutschlandfunk Nova: Es ist kompliziert. Dazu guter Pop.
+ - [https://www.deutschlandfunknova.de](https://www.deutschlandfunknova.de)
+ - date_published: 2024-06-18T15:38:57.303720+00:00
+
+ ## Deutschlandradio Denkfabrik
+ - [https://denkfabrik.deutschlandradio.de](https://denkfabrik.deutschlandradio.de)
+ - date_published: 2024-06-18T15:38:44+00:00
+
+ ## Deutschlandradio Startseite
+ - [https://deutschlandradio.de](https://deutschlandradio.de)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Startseite - BMBF Deutschlandstipendium
+ - [https://www.deutschlandstipendium.de](https://www.deutschlandstipendium.de)
+ - date_published: 2024-05-25T09:40:25.184565+00:00
+
+ ## Home
+ - [https://developer-media.de](https://developer-media.de)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## developer media jobs - Der Stellenmarkt für Entwickler
+ - [https://jobs.developer-media.de](https://jobs.developer-media.de)
+ - date_published: 2024-06-20T07:09:48.985167+00:00
+
+ ## DWX - Developer Week für Softwareentwickler | Jetzt anmelden!
+ - [http://developer-week.de](http://developer-week.de)
+ - date_published: 2024-07-24T17:42:09.172108+00:00
+
+ ## DWX - Developer Week für Softwareentwickler | Jetzt anmelden!
+ - [https://www.developer-week.de](https://www.developer-week.de)
+ - date_published: 2024-06-19T07:15:23+00:00
+
+ ## DEVK Versicherungen – Wir machen Ihr Problem zu unserem
+ - [https://www.devk.de](https://www.devk.de)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Home | DEWA Gartenbau - Garten & Landschaftsbau in Lübeck
+ - [https://www.dewa-gartenbau.de](https://www.dewa-gartenbau.de)
+ - date_published: 2024-07-13T05:27:32.788771+00:00
+
+ ## Christoph Berg - df7cb.de
+ - [https://www.df7cb.de](https://www.df7cb.de)
+ - date_published: 2024-05-21T19:12:05+00:00
+
+ ## index
+ - [https://www.dfb.de](https://www.dfb.de)
+ - date_published: 2014-03-19T15:03:57+00:00
+
+ ## elan Portal
+ - [https://elan.dfg.de](https://elan.dfg.de)
+ - date_published: 2024-07-24T03:43:29.446993+00:00
+
+ ## GEPRIS Historisch | DFG
+ - [https://gepris-historisch.dfg.de](https://gepris-historisch.dfg.de)
+ - date_published: 2024-07-24T03:43:27.891565+00:00
+
+ ## DFG RIsources - Portal für Forschungsinfrastrukturen
+ - [https://risources.dfg.de](https://risources.dfg.de)
+ - date_published: 2024-07-24T03:43:30.374751+00:00
+
+ ## DFG - Deutsche Forschungsgemeinschaft
+ - [https://dfg.de](https://dfg.de)
+ - date_published: 2024-04-29T07:01:01.427473+00:00
+
+ ## Startseite - Deutscher Fruchthandelsverband e.V.
+ - [https://dfhv.de](https://dfhv.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Aktuelle Stellenangebote | DFKI
+ - [https://jobs.dfki.de](https://jobs.dfki.de)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Home —
+    Multimedia Analysis and Data Mining Research Group
+ - [http://madm.dfki.de](http://madm.dfki.de)
+ - date_published: 2024-07-02T13:34:28.998296+00:00
+
+ ## Sign in - Matomo
+ - [https://webstat-kl.dfki.de](https://webstat-kl.dfki.de)
+ - date_published: 2024-07-24T06:00:21.416021+00:00
+
+ ## KI für den Menschen – Intelligente Lösungen für die Wissensgesellschaft
+ - [https://dfki.de](https://dfki.de)
+ - date_published: 2024-04-29T06:29:29.682193+00:00
+
+ ## KI für den Menschen – Intelligente Lösungen für die Wissensgesellschaft
+ - [https://www-live.dfki.de](https://www-live.dfki.de)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Startseite
+ - [https://robotik.dfki-bremen.de](https://robotik.dfki-bremen.de)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Pexip Connect for Web
+ - [https://conf.dfn.de](https://conf.dfn.de)
+ - date_published: 2024-07-01T16:29:25+00:00
+
+ ## Create your own polls - Terminplaner 4.1
+ - [https://terminplaner2.dfn.de](https://terminplaner2.dfn.de)
+ - date_published: 2024-05-08T12:15:13.693660+00:00
+
+ ## Create and share meeting polls | DFN-Terminplaner
+ - [https://terminplaner6.dfn.de](https://terminplaner6.dfn.de)
+ - date_published: 2024-07-08T17:20:39.788808+00:00
+
+ ## Create your own polls - Terminplaner 4.1
+ - [https://terminplaner.dfn.de](https://terminplaner.dfn.de)
+ - date_published: 2024-07-24T03:40:31.009224+00:00
+
+ ## Startseite - DFN
+ - [http://www.dfn.de](http://www.dfn.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Forschung, Beratung und Dienstleistung für mehr Sicherheit im Internet
+ - [https://www.dfn-cert.de](https://www.dfn-cert.de)
+ - date_published: 2024-08-10T15:30:04+00:00
+
+ ## Wir sind der Deutsche Gewerkschaftsbund
+ - [https://www.dgb.de](https://www.dgb.de)
+ - date_published: 2024-07-24T03:30:52.921456+00:00
+
+ ## DGN - Spezialist für Telematikinfrastruktur & qualifizierte Signatur
+ - [https://www.dgn.de](https://www.dgn.de)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Deutsche Gesellschaft für Rheumatologie e.V.
+ - [https://dgrh.de](https://dgrh.de)
+ - date_published: 2024-06-28T10:55:05+00:00
+
+ ## Deutsche Gesellschaft für Sonnenenergie e.V.: Aktuell
+ - [http://www.dgs.de](http://www.dgs.de)
+ - date_published: 2024-08-07T23:52:24.474535+00:00
+
+ ## Online-Suche
+ - [https://diva-online.dguv.de](https://diva-online.dguv.de)
+ - date_published: 2024-07-24T04:54:53.820504+00:00
+
+ ## Home DE
+ - [https://www.dhb.de](https://www.dhb.de)
+ - date_published: 2024-06-16T06:01:46.264971+00:00
+
+ ## pppj
+ - [http://pppj2013.dhbw.de](http://pppj2013.dhbw.de)
+ - date_published: 2024-07-14T16:31:04.632378+00:00
+
+ ## Startseite
+ - [https://www.dhbw.de](https://www.dhbw.de)
+ - date_published: 2024-07-02T18:43:47.578164+00:00
+
+ ## DK0TE - Duale Hochschule Baden-Württemberg Ravensburg Campus Friedrichshafen
+ - [https://dk0te.dhbw-ravensburg.de](https://dk0te.dhbw-ravensburg.de)
+ - date_published: 2024-07-11T15:23:37.720674+00:00
+
+ ## DHBW Stuttgart | Duales Bachelor-Studium
+ - [https://www.dhbw-stuttgart.de](https://www.dhbw-stuttgart.de)
+ - date_published: 2024-07-04T18:40:18.396705+00:00
+
  ## DHL Privatkunden - Paketversand und Paketempfang mit DHL
  - [https://www.dhl.de](https://www.dhl.de)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -2723,10 +2925,6 @@
  - [https://freundeskreis-charite.de](https://freundeskreis-charite.de)
  - date_published: 2024-02-13T00:00:00+00:00
 
- ## Unterstützen Sie die Charité & fördern Sie die Arbeit der Charité
- - [https://www.freundeskreis-charite.de](https://www.freundeskreis-charite.de)
- - date_published: 2024-02-13T00:00:00+00:00
-
  ## Home | freundin.de
  - [http://www.freundin.de](http://www.freundin.de)
  - date_published: 2024-07-03T01:44:39.911243+00:00
@@ -3818,200 +4016,4 @@
  ## Google Books
  - [https://books.google.de](https://books.google.de)
  - date_published: 2024-05-07T15:33:22.698320+00:00
-
- ## Programmable Search Engine by Google
- - [https://cse.google.de](https://cse.google.de)
- - date_published: 2024-06-14T08:08:00+00:00
-
- ## Google
- - [https://google.de](https://google.de)
- - date_published: 2024-06-18T12:08:29.171268+00:00
-
- ## Grafika Google
- - [https://images.google.de](https://images.google.de)
- - date_published: 2024-07-20T07:37:46.554744+00:00
-
- ## Google Scholar
- - [https://scholar.google.de](https://scholar.google.de)
- - date_published: 2024-04-29T06:20:30.427484+00:00
-
- ## Gorilla Sun
- - [https://gorillasun.de](https://gorillasun.de)
- - date_published: 2023-10-25T18:30:51.098785+00:00
-
- ## Gotisch-Projekte
- - [http://www.gotica.de](http://www.gotica.de)
- - date_published: 2002-05-02T00:00:00+00:00
-
- ## GoTo: Software für Geschäftskommunikation und IT-Support
- - [https://www.goto.de](https://www.goto.de)
- - date_published: 2024-06-19T05:12:20.969878+00:00
-
- ## Beglaubigung OpenPGP-Schlüssel
- - [https://pgp.governikus.de](https://pgp.governikus.de)
- - date_published: 2023-10-25T18:30:54.264820+00:00
-
- ## Herzlich Willkommen... - Governikus Portal
- - [https://portal.governikus.de](https://portal.governikus.de)
- - date_published: 2024-08-11T04:24:39.304629+00:00
-
- ## Startseite
- - [https://governikus.de](https://governikus.de)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## GPS Radler ✓ Der Blog über GPS Navigation am Fahrrad
- - [https://gpsradler.de](https://gpsradler.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## GQ: Mode, Kultur und Stil
- - [https://labelfinder.gq-magazin.de](https://labelfinder.gq-magazin.de)
- - date_published: 2024-06-15T21:06:11.559039+00:00
-
- ## GQ: Mode, Kultur und Stil
- - [https://www.gq-magazin.de](https://www.gq-magazin.de)
- - date_published: 2024-05-02T11:53:52.394312+00:00
-
- ## Svelte-Motion
- - [https://svelte-motion.gradientdescent.de](https://svelte-motion.gradientdescent.de)
- - date_published: 2021-06-21T15:44:31+00:00
-
- ## Saarbrücken Graduate School of Computer Science | Saarland University
- - [https://graduateschool-computerscience.de](https://graduateschool-computerscience.de)
- - date_published: 2024-04-29T06:29:27.017133+00:00
-
- ## Grand Hall Zollverein GmbH - Ein einzigartiger Ort für unvergessliche Ereignisse
- - [https://www.grand-hall.de](https://www.grand-hall.de)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Graser-Grundschule Bayreuth als zentrale Innenstadtschule
- - [https://www.graserschule.de](https://www.graserschule.de)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Gravelmaps – your tracks. your adventure. your maps.
- - [https://gravelmaps.de](https://gravelmaps.de)
- - date_published: 2024-08-10T19:41:09+00:00
-
- ## Experten für Arbeitsplatzkultur und Arbeitgeberattraktivität
- - [http://www.greatplacetowork.de](http://www.greatplacetowork.de)
- - date_published: 2024-06-12T10:42:11.750081+00:00
-
- ## Greenatic
- - [http://www.greenatic.de](http://www.greenatic.de)
- - date_published: 2024-07-24T06:38:22.598843+00:00
-
- ## greenbytes GmbH
- - [http://greenbytes.de](http://greenbytes.de)
- - date_published: 2024-08-02T23:36:10.457215+00:00
-
- ## Finde nachhaltige Produkte & Dienstleistungen | Green Companion
- - [https://greencompanion.de](https://greencompanion.de)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Green ICT - Nachhaltige IT und Kommunikationstechnik
- - [https://greenict.de](https://greenict.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Green Software Development Manifesto
- - [https://www.greenmanifesto.de](https://www.greenmanifesto.de)
- - date_published: 2024-07-18T00:03:24+00:00
-
- ## Griesel Sekt
- - [https://www.griesel-sekt.de](https://www.griesel-sekt.de)
- - date_published: 2024-07-01T10:14:25.063521+00:00
-
- ## HOME - GROB AIRCRAFT SE
- - [http://www.grob-aircraft.de](http://www.grob-aircraft.de)
- - date_published: 2024-07-09T22:14:03.407435+00:00
-
- ## Grönauer Infos
- - [https://groenauer-infos.de](https://groenauer-infos.de)
- - date_published: 2023-11-16T18:10:42.478283+00:00
-
- ## Gewerbeverein Groß Grönau – Internetpräsenz des Gewerbevereins Groß Grönau
- - [http://www.groenau-gewerbe.de](http://www.groenau-gewerbe.de)
- - date_published: 2024-07-13T05:26:55.842781+00:00
-
- ## Startseite - Gemeinde Groß Grönau
- - [https://gross-groenau.de](https://gross-groenau.de)
- - date_published: 2024-05-11T05:40:17.487728+00:00
-
- ## Gründerwettbewerb - Wichtige Informationen und Beispiele
- - [https://gruenderwettbewerb.de](https://gruenderwettbewerb.de)
- - date_published: 2024-04-29T06:31:06.654278+00:00
-
- ## www.gruendungsradar.de
- - [https://gruendungsradar.de](https://gruendungsradar.de)
- - date_published: 2024-04-29T07:01:28.100812+00:00
-
- ## Grüner beschaffen – Grüner beschaffen
- - [https://gruener-beschaffen.de](https://gruener-beschaffen.de)
- - date_published: 2024-05-19T02:41:35.012174+00:00
-
- ## GrumpyOldMan
- - [https://grumpyoldman.de](https://grumpyoldman.de)
- - date_published: 2024-07-02T18:02:32.745652+00:00
-
- ## Netzwerk Grundeinkommen - Startseite
- - [https://www.grundeinkommen.de](https://www.grundeinkommen.de)
- - date_published: 2014-10-26T13:32:51+00:00
-
- ## Der richtige Partner für Ihr Business | GS1 Germany
- - [https://www.gs1-germany.de](https://www.gs1-germany.de)
- - date_published: 2024-06-19T23:22:50.299562+00:00
-
- ## ChemInfo
- - [https://www.gsbl.de](https://www.gsbl.de)
- - date_published: 2024-07-24T04:07:20.875594+00:00
-
- ## WebHome < Main < JOIN2 Wiki
- - [https://join2-wiki.gsi.de](https://join2-wiki.gsi.de)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Aktuelles
- - [https://www.gsi.de](https://www.gsi.de)
- - date_published: 2011-06-01T11:06:34+00:00
-
- ## GTAI – Invest in Germany
- - [https://gtai.de](https://gtai.de)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Grand Theft Auto Fanpage: Alle Infos zum berühmten Game
- - [http://www.gtanext.de](http://www.gtanext.de)
- - date_published: 2022-01-30T22:00:00+00:00
-
- ## Welcome to GTA-XTREME - 🌇 GTA-XTREME
- - [http://www.gta-xtreme.de](http://www.gta-xtreme.de)
- - date_published: 2023-12-05T13:36:27+00:00
-
- ## GTGRAPHICS
- - [https://gtgraphics.de](https://gtgraphics.de)
- - date_published: 2024-06-29T06:13:18.304813+00:00
-
- ## Gran Turismo Tempel
- - [http://www.gttempel.de](http://www.gttempel.de)
- - date_published: 2024-07-20T21:29:06.867253+00:00
-
- ## Stuff by Maurice
- - [http://guegan.de](http://guegan.de)
- - date_published: 2024-07-11T12:32:07.882362+00:00
-
- ## Web App - Unavailable
- - [http://www.guidetocsharp.de](http://www.guidetocsharp.de)
- - date_published: 2024-07-14T22:40:46.874755+00:00
-
- ## Home
- - [https://www.guinnessworldrecords.de](https://www.guinnessworldrecords.de)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Das Forum für Gitarre & Bass
- - [https://www.guitarworld.de](https://www.guitarworld.de)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Fehler 404
- - [https://sso.guj.de](https://sso.guj.de)
- - date_published: 2024-04-29T02:28:53.386712+00:00
-
- ## Personaldienstleister: IT, Engineering, Life Science
- - [https://www.gulp.de](https://www.gulp.de)
- - date_published: 2000-01-01T00:00:00+00:00
 

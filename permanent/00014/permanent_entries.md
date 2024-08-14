@@ -1,3 +1,43 @@
+ ## AI Safety Camp
+ - [https://aisafety.camp](https://aisafety.camp)
+ - date_published: 2024-05-04T12:17:46.253900+00:00
+
+ ## APCSCamp 2023 程式設計培訓營
+ - [https://apcs.camp](https://apcs.camp)
+ - date_published: 2023-08-01T16:42:28+00:00
+
+ ## Corbin.Camp
+ - [https://corbin.camp](https://corbin.camp)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## deco.cx - Build high-performance Web Apps 10x faster | deco.cx
+ - [https://deco.camp](https://deco.camp)
+ - date_published: 2024-07-19T19:38:25.715418+00:00
+
+ ## International Hacking & Cyber Security Community - DefCamp 2024
+ - [https://def.camp](https://def.camp)
+ - date_published: 2024-06-21T11:58:10.659942+00:00
+
+ ## Dice.camp
+ - [https://dice.camp](https://dice.camp)
+ - date_published: 2024-05-12T05:41:48.220110+00:00
+
+ ## Friend Camp
+ - [https://friend.camp](https://friend.camp)
+ - date_published: 2024-05-06T19:58:34.209137+00:00
+
+ ## Micro Camp: a virtual gathering of the Micro.blog community
+ - [https://micro.camp](https://micro.camp)
+ - date_published: 2024-05-04T07:00:21.898447+00:00
+
+ ## Home - MOCA2024
+ - [https://moca.camp](https://moca.camp)
+ - date_published: 2024-06-20T16:14:02+00:00
+
+ ## OpenCat Forum | Petoi LLC | United States
+ - [https://petoi.camp](https://petoi.camp)
+ - date_published: 2024-05-11T09:24:50.843560+00:00
+
  ## White Christian Family - The white Christian family is the foundation of Western civilization
  - [https://saints.camp](https://saints.camp)
  - date_published: 2024-03-12T00:00:00+00:00
@@ -3986,44 +4026,4 @@
  ## Home | CERN
  - [https://cern.ch](https://cern.ch)
  - date_published: 2024-04-30T05:57:39.966832+00:00
-
- ## Home | CERN Open Hardware Licence
- - [https://cern-ohl.web.cern.ch](https://cern-ohl.web.cern.ch)
- - date_published: 2024-07-07T08:38:10.895181+00:00
-
- ## CernVM
- - [https://cernvm.cern.ch](https://cernvm.cern.ch)
- - date_published: 2023-10-25T12:13:02.528440+00:00
-
- ## Dr Sue Cheatham
- - [https://cheatham.web.cern.ch](https://cheatham.web.cern.ch)
- - date_published: 2019-08-08T11:12:25+00:00
-
- ## CERN Long Term Collections | CERN Long Term Collections
- - [https://clt.web.cern.ch](https://clt.web.cern.ch)
- - date_published: 2024-07-21T06:34:22.932887+00:00
-
- ## Sign in to CERN
- - [http://cmsdoc.cern.ch](http://cmsdoc.cern.ch)
- - date_published: 2024-06-30T08:14:34.294514+00:00
-
- ## Sign in to CERN
- - [http://cms.web.cern.ch](http://cms.web.cern.ch)
- - date_published: 2024-06-30T08:14:18.940771+00:00
-
- ## Terms of Use for CERN Audiovisual Media | Copyright and terms of use of CERN content
- - [https://copyright.web.cern.ch](https://copyright.web.cern.ch)
- - date_published: 2024-04-30T05:57:59.148456+00:00
-
- ## Welcome to the CERN Council | CERN Council
- - [https://council.web.cern.ch](https://council.web.cern.ch)
- - date_published: 2024-07-15T14:16:46+00:00
-
- ## Sign in to CERN
- - [https://discourse.web.cern.ch](https://discourse.web.cern.ch)
- - date_published: 2024-07-21T06:40:03.425022+00:00
-
- ## Welcome! | Diversity & Inclusion Programme
- - [http://diversity-and-inclusion.web.cern.ch](http://diversity-and-inclusion.web.cern.ch)
- - date_published: 2024-07-21T06:34:33.761444+00:00
 

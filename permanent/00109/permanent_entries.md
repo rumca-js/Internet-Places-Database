@@ -1,3 +1,135 @@
+ ## MindTake Research
+ - [http://research.mindtake.com](http://research.mindtake.com)
+ - date_published: 2024-06-25T22:18:43+00:00
+
+ ## MindTake Research
+ - [https://www.mindtake.com](https://www.mindtake.com)
+ - date_published: 2024-05-06T18:01:01.404896+00:00
+
+ ## Home
+ - [https://www.mindtickle.com](https://www.mindtickle.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## MindTime – The Best Tools for Understanding People
+ - [https://mindtime.com](https://mindtime.com)
+ - date_published: 2024-05-08T05:14:18.562207+00:00
+
+ ## MindTime Cards – The Mind in a Box
+ - [https://mindtimecards.com](https://mindtimecards.com)
+ - date_published: 2024-07-04T06:06:36.805217+00:00
+
+ ## MindTime Tools – Measuring individual differences
+ - [https://mindtimetools.com](https://mindtimetools.com)
+ - date_published: 2024-07-04T06:06:38.783077+00:00
+
+ ## Knowledge Management
+ - [https://mindtouch.com](https://mindtouch.com)
+ - date_published: 2024-06-29T09:11:25.627953+00:00
+
+ ## Mindume.com
+ - [https://mindume.com](https://mindume.com)
+ - date_published: 2024-08-11T11:36:22.226506+00:00
+
+ ## The Mindvalley Show With Vishen Lakhiani | Listen Now - The Mindvalley Podcast With Vishen Lakhiani | Listen Now
+ - [https://podcast.mindvalley.com](https://podcast.mindvalley.com)
+ - date_published: 2024-08-05T20:53:02.324489+00:00
+
+ ## Mindway Design
+ - [http://www.mindway-design.com](http://www.mindway-design.com)
+ - date_published: 2024-06-30T12:47:07.546050+00:00
+
+ ## Mindwendel
+ - [https://www.mindwendel.com](https://www.mindwendel.com)
+ - date_published: 2024-06-19T22:26:53.907830+00:00
+
+ ## Mindwhirl 2023 - One Page
+ - [https://www.mindwhirl.com](https://www.mindwhirl.com)
+ - date_published: 2023-10-01T00:00:00+00:00
+
+ ## AI-Powered Requirements Management Software for development teams
+ - [https://www.mindygem.com](https://www.mindygem.com)
+ - date_published: 2024-06-19T19:21:57.445001+00:00
+
+ ## Mindy Indy
+ - [https://www.mindyindy.com](https://www.mindyindy.com)
+ - date_published: 2024-07-17T10:29:53.299729+00:00
+
+ ## Mind Your Money - Yanely Espinal
+ - [https://www.mindyourmoneybook.com](https://www.mindyourmoneybook.com)
+ - date_published: 2023-07-06T00:00:00+00:00
+
+ ## Minea
+ - [https://app.minea.com](https://app.minea.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Minea - Adspy leader for Ecommerce and Dropshipping products
+ - [https://en.minea.com](https://en.minea.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Minecraft Experience
+ - [https://www.minecraftexperience.com](https://www.minecraftexperience.com)
+ - date_published: 2024-06-18T21:17:06.704387+00:00
+
+ ## Minecraft Legends Mods | Best MC Legends Mods
+ - [https://minecraftlegendsmods.com](https://minecraftlegendsmods.com)
+ - date_published: 2024-07-10T12:44:06+00:00
+ - tags: ['video game mods']
+
+ ## Minecraft Maps: Free Downloads for Java & Bedrock Edition
+ - [https://minecraftmaps.com](https://minecraftmaps.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+ - tags: ['minecraft maps']
+
+ ## Minecraft Mods | Mods for Minecraft
+ - [https://www.minecraftmods.com](https://www.minecraftmods.com)
+ - date_published: 2023-10-25T11:09:27.371524+00:00
+ - tags: ['minecraft', 'video game mods']
+
+ ## Minecraft PE / Bedrock Mods | MCPE Mods | MCPEDL Mods
+ - [https://minecraftpemod.com](https://minecraftpemod.com)
+ - date_published: 2024-07-07T11:46:48+00:00
+
+ ## Minecraft Servers - Minecraft Server List
+ - [https://minecraft-server-list.com](https://minecraft-server-list.com)
+ - date_published: 2023-10-25T11:09:25.967048+00:00
+
+ ## Minecraft Serwery. Lista Serwerów Minecraft. Spis Prywatnych Serwerów
+ - [http://minecraft-serwery.com](http://minecraft-serwery.com)
+ - date_published: 2024-07-10T02:06:11.560903+00:00
+
+ ## Minecraft Official Shop | Clothing, Accessories, and Plush Gifts
+ - [https://minecraftshop.com](https://minecraftshop.com)
+ - date_published: 2024-06-18T15:24:41.726557+00:00
+
+ ## https://www.minecraftskins.com
+ - [https://www.minecraftskins.com](https://www.minecraftskins.com)
+ - date_published: 2023-10-30T15:19:29.516955+00:00
+ - tags: ['minecraft']
+
+ ## Minecraft Skins | Skins for Minecraft
+ - [https://minecraftskinshub.com](https://minecraftskinshub.com)
+ - date_published: 2024-07-07T02:12:56+00:00
+
+ ## Home
+ - [https://minecraftspeedrunning.com](https://minecraftspeedrunning.com)
+ - date_published: 2024-07-07T11:47:59+00:00
+
+ ## Minecraft Station - Minecraft tips, tricks, and error solutions
+ - [https://minecraftstation.com](https://minecraftstation.com)
+ - date_published: 2023-10-24T00:00:00+00:00
+
+ ## Gate Proxy
+ - [https://gate.minekube.com](https://gate.minekube.com)
+ - date_published: 2024-07-01T20:33:22.708252+00:00
+
+ ## Minerva Systems
+ - [http://www.minervaclassics.com](http://www.minervaclassics.com)
+ - date_published: 2022-05-01T02:29:04+00:00
+
+ ## Minerva Project
+ - [https://minervaproject.com](https://minervaproject.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Mine Safety Disclosures
  - [http://minesafetydisclosures.com](http://minesafetydisclosures.com)
  - date_published: 2024-06-29T21:22:37.593085+00:00
@@ -206,10 +338,6 @@
  ## Training Program - miniOrange Training
  - [https://training.miniorange.com](https://training.miniorange.com)
  - date_published: 2022-12-09T05:56:15+00:00
-
- ## miniOrange - Secure It Right
- - [https://www.miniorange.com](https://www.miniorange.com)
- - date_published: 2024-02-23T00:00:00+00:00
 
  ## NO BULLSHIT TEXTBOOKS
  - [https://minireference.com](https://minireference.com)
@@ -2431,10 +2559,6 @@ MLB Auctions
  - [https://mobile-cuisine.com](https://mobile-cuisine.com)
  - date_published: 2024-02-07T00:00:00+00:00
 
- ## Mobile Cuisine: Serving the Food Industry Since 2010
- - [https://www.mobile-cuisine.com](https://www.mobile-cuisine.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
  ## Mobile Dealer
  - [https://p.mobile-dealer.com](https://p.mobile-dealer.com)
  - date_published: 2024-06-26T10:21:47+00:00
@@ -2450,6 +2574,10 @@ MLB Auctions
  ## Top Resident Experience App | Zego Mobile Doorman
  - [https://mobiledoorman.com](https://mobiledoorman.com)
  - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Homepage - MEF
+ - [http://www.mobileecosystemforum.com](http://www.mobileecosystemforum.com)
+ - date_published: 2024-07-26T00:00:00+00:00
 
  ## Space_Gecko - Portfolio | GraphicRiver
  - [https://mobilegamegraphics.com](https://mobilegamegraphics.com)
@@ -3919,128 +4047,4 @@ MLB Auctions
  ## Jon Christopher - Web Developer, Product Builder
  - [http://mondaybynoon.com](http://mondaybynoon.com)
  - date_published: 2024-02-16T00:00:00+00:00
-
- ## The Monday Kickoff
- - [https://mondaykickoff.com](https://mondaykickoff.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Welcome to the Monday Magazine
- - [https://www.mondaymag.com](https://www.mondaymag.com)
- - date_published: 2024-06-28T23:27:40+00:00
-
- ## Monday May Jewelry
- - [https://mondaymayjewelry.com](https://mondaymayjewelry.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Home
- - [https://academy.mondaymorninghaskell.com](https://academy.mondaymorninghaskell.com)
- - date_published: 2024-07-11T07:53:06.035459+00:00
-
- ## Monday Note
- - [https://mondaynote.com](https://mondaynote.com)
- - date_published: 2023-10-25T16:06:02.801355+00:00
-
- ## monday spaces - create, share, and modify workspaces
- - [https://mondayspaces.com](https://mondayspaces.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## index
- - [https://heav.mondecitronne.com](https://heav.mondecitronne.com)
- - date_published: 2024-06-23T18:50:13.026631+00:00
-
- ## johnvertisement — advertisement via john
- - [https://john.mondecitronne.com](https://john.mondecitronne.com)
- - date_published: 2022-09-01T00:00:00+00:00
-
- ## Le Monde diplomatique kurdî - rojnamegerîya navneteweyî, hizra azad.
- - [https://ku.mondediplo.com](https://ku.mondediplo.com)
- - date_published: 2024-07-17T07:22:59+00:00
-
- ## Le Monde diplomatique English edition
- - [http://mondediplo.com](http://mondediplo.com)
- - date_published: 2024-06-20T04:15:47+00:00
-
- ## Mondelēz International, Inc.
- - [https://www.mondelezinternational.com](https://www.mondelezinternational.com)
- - date_published: 2024-07-03T20:05:40+00:00
-
- ## Home
- - [https://www.mondorobot.com](https://www.mondorobot.com)
- - date_published: 2024-06-17T12:26:09.518661+00:00
-
- ## On-chain fiat
- - [https://monerium.com](https://monerium.com)
- - date_published: 2024-06-11T13:53:17+00:00
-
- ## Monetizely - Learn to Make Money With AI
- - [https://monetizely.com](https://monetizely.com)
- - date_published: 2022-12-04T23:20:23+00:00
-
- ## MonetizeNow
- - [https://app.monetizeplatform.com](https://app.monetizeplatform.com)
- - date_published: 2024-06-17T22:00:40+00:00
-
- ## Money: Create Richer Lives for Everyone | Money
- - [https://money.com](https://money.com)
- - date_published: 2023-10-25T10:52:33.649820+00:00
-
- ## Money Official Site – Finance News & Advice Since 1972
- - [http://www.money.com](http://www.money.com)
- - date_published: 2024-06-19T06:56:20.454374+00:00
-
- ## Money20/20 Europe in Amsterdam | 3 - 5 June 2025
- - [https://europe.money2020.com](https://europe.money2020.com)
- - date_published: 2024-07-01T09:13:06.164109+00:00
-
- ## Money20/20 USA in Las Vegas | October 27-30, 2024
- - [https://us.money2020.com](https://us.money2020.com)
- - date_published: 2024-07-01T09:12:47.389937+00:00
-
- ## Money20/20 | Fintech Events and Conferences 2024
- - [https://www.money2020.com](https://www.money2020.com)
- - date_published: 2024-07-08T17:35:20.356636+00:00
-
- ## Business/Market News in Bangla: Personal Finance News in Bengali
- - [https://bangla.money9.com](https://bangla.money9.com)
- - date_published: 2024-07-14T02:05:32.072606+00:00
-
- ## Money9
- - [https://datacoin.money9.com](https://datacoin.money9.com)
- - date_published: 2024-07-14T02:05:18.959122+00:00
-
- ## Business/Market News in Gujarati: Personal Finance News in Gujarati
- - [https://gujarati.money9.com](https://gujarati.money9.com)
- - date_published: 2024-07-14T02:05:27.180543+00:00
-
- ## Business/Market News in Hindi: Personal Finance News in Hindi
- - [https://hindi.money9.com](https://hindi.money9.com)
- - date_published: 2024-07-14T02:05:23.941050+00:00
-
- ## Gumlet- Media Optimization
- - [https://images.money9.com](https://images.money9.com)
- - date_published: 2024-07-14T02:05:20.700461+00:00
-
- ## Business/Market News in Kannada: Personal Finance News in Kannada
- - [https://kannada.money9.com](https://kannada.money9.com)
- - date_published: 2024-07-14T02:04:51.577922+00:00
-
- ## Business/Market News in Marathi: Personal Finance News in Marathi
- - [https://marathi.money9.com](https://marathi.money9.com)
- - date_published: 2024-07-14T02:05:34.280821+00:00
-
- ## Business/Market News: Personal Finance News
- - [https://money9.com](https://money9.com)
- - date_published: 2024-05-11T08:51:14.588461+00:00
-
- ## Business/Market News in Telugu: Personal Finance News in Telugu
- - [https://telugu.money9.com](https://telugu.money9.com)
- - date_published: 2024-07-14T02:05:16.318115+00:00
-
- ## New Home Page - Money Alignment Academy
- - [https://moneyalignmentacademy.com](https://moneyalignmentacademy.com)
- - date_published: 2023-07-18T16:31:13+00:00
-
- ## Bad Credit Car, Van & Motorbike Finance | Loans - Moneybarn
- - [https://www.moneybarn.com](https://www.moneybarn.com)
- - date_published: 2024-07-01T00:00:00+00:00
 

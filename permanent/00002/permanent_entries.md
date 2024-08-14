@@ -1,3 +1,7 @@
+ ## Recraft: Generative AI Design Tool
+ - [https://www.recraft.ai](https://www.recraft.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Dover - Generate Customized Recruiting Emails
  - [https://recruitingemails.ai](https://recruitingemails.ai)
  - date_published: 2024-06-19T19:56:26.767775+00:00
@@ -4025,8 +4029,4 @@ Creative Solutions
  - [https://bsky.app](https://bsky.app)
  - date_published: 2023-10-24T20:12:24.937402+00:00
  - tags: ['social platform']
-
- ## Hey, I'm imgproxy!
- - [https://cdn.bsky.app](https://cdn.bsky.app)
- - date_published: 2024-06-15T04:24:02.451274+00:00
 

@@ -1,3 +1,151 @@
+ ## Servicio de  Calidad
+ - [https://calidad.umh.es](https://calidad.umh.es)
+ - date_published: 2024-06-16T22:27:19.611458+00:00
+
+ ## Campus Virtual de la Universidad Miguel Hernández
+ - [https://campus.umh.es](https://campus.umh.es)
+ - date_published: 2024-06-16T22:29:38+00:00
+
+ ## System Dashboard - UMH
+ - [https://cau.umh.es](https://cau.umh.es)
+ - date_published: 2024-06-16T22:27:42.774017+00:00
+
+ ## Servicio de Comunicación, Marketing y Atención al Estudiantado
+ - [https://comunicacion.umh.es](https://comunicacion.umh.es)
+ - date_published: 2024-06-16T22:27:41.748517+00:00
+
+ ## Con la empresa UMH
+ - [https://conlaempresa.umh.es](https://conlaempresa.umh.es)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Consejo Social
+ - [https://consejosocial.umh.es](https://consejosocial.umh.es)
+ - date_published: 2024-06-16T22:29:20.383738+00:00
+
+ ## Plan de Continuidad UMH |
+ - [https://covid-19.umh.es](https://covid-19.umh.es)
+ - date_published: 2024-06-16T22:27:52.788983+00:00
+
+ ## Cultura umh
+ - [https://cultura.umh.es](https://cultura.umh.es)
+ - date_published: 2024-06-16T22:28:40.776024+00:00
+
+ ## Oficina de Campus Saludables y Deportes
+ - [https://deportes.umh.es](https://deportes.umh.es)
+ - date_published: 2024-06-16T22:27:35.986747+00:00
+
+ ## Editorial UMH | Editorial Universidad Miguel Hernández de Elche
+ - [https://editorial.umh.es](https://editorial.umh.es)
+ - date_published: 2024-06-16T22:28:23.788077+00:00
+
+ ## | UmhX
+ - [http://edx.umh.es](http://edx.umh.es)
+ - date_published: 2024-06-16T22:27:09.704243+00:00
+
+ ## Servicio de Gestión de Estudios
+ - [https://estudios.umh.es](https://estudios.umh.es)
+ - date_published: 2024-06-16T22:27:11.009055+00:00
+
+ ## Curso Fundamentos IA usando Python | Universidad Miguel Hernández de Elche
+ - [https://fiaup.umh.es](https://fiaup.umh.es)
+ - date_published: 2024-06-16T22:28:27.934602+00:00
+
+ ## Futuroestudiante | UMH - Universidad Miguel Hernández de Elche
+ - [https://futuroestudiante.umh.es](https://futuroestudiante.umh.es)
+ - date_published: 2024-06-14T11:31:02+00:00
+
+ ## HRS4R. Estrategia de Recursos Humanos para Investigadores
+ - [http://hrs4r.edu.umh.es](http://hrs4r.edu.umh.es)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Unidad de Igualdad
+ - [https://igualdad.umh.es](https://igualdad.umh.es)
+ - date_published: 2024-06-16T22:29:35.530301+00:00
+
+ ## Home - Internacionalización y Cooperación
+ - [https://internacional.umh.es](https://internacional.umh.es)
+ - date_published: 2024-06-16T22:28:19.770510+00:00
+
+ ## Masters UMH | Universidad Miguel Hernández de Elche
+ - [https://masters.umh.es](https://masters.umh.es)
+ - date_published: 2024-06-16T22:28:18.392973+00:00
+
+ ## Portal de Mecenazgo de la Universidad Miguel Hérnandez[:ca]Mecenas[:en]Mecenas | Colabora con nuestras campañas desde 1 euro
+ - [https://mecenazgo.umh.es](https://mecenazgo.umh.es)
+ - date_published: 2024-06-16T22:27:24.257216+00:00
+
+ ## Observatorio Ocupacional UMH
+ - [https://observatorio.umh.es](https://observatorio.umh.es)
+ - date_published: 2024-06-16T22:27:48.379509+00:00
+
+ ## Open Course Ware UMH | Universidad Miguel Hernández de Elche
+ - [http://ocw.umh.es](http://ocw.umh.es)
+ - date_published: 2024-06-16T22:28:03.026882+00:00
+
+ ## Oficina de Datos
+ - [https://oficinadatos.umh.es](https://oficinadatos.umh.es)
+ - date_published: 2024-06-16T22:27:26.183712+00:00
+
+ ## Oficina de Investigación Responsable
+ - [https://oir.umh.es](https://oir.umh.es)
+ - date_published: 2024-06-16T22:28:58.578317+00:00
+
+ ## Servicio de Gestión de la Investigación – OTRI
+ - [https://otri.umh.es](https://otri.umh.es)
+ - date_published: 2024-06-16T22:29:36.828089+00:00
+
+ ## Patrimonio Cultural UMH | Universidad Miguel Hernández de Elche
+ - [https://patrimoniocultural.umh.es](https://patrimoniocultural.umh.es)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Plan Estratégico UMH 2022 - 2025 | Universidad Miguel Hernández de Elche
+ - [https://planestrategico.umh.es](https://planestrategico.umh.es)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Podcast UMH | Universidad Miguel Hernández de Elche
+ - [http://podcast.edu.umh.es](http://podcast.edu.umh.es)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## G Suite UMH – Portal de G Suite de la Universidad Miguel Hernández
+ - [http://portal.goumh.umh.es](http://portal.goumh.umh.es)
+ - date_published: 2024-06-16T22:29:13.647448+00:00
+
+ ## Office 365 UMH – Portal de Office 365 en la Universidad Miguel Hernández
+ - [http://portal.miumh.umh.es](http://portal.miumh.umh.es)
+ - date_published: 2024-06-16T22:28:55.129194+00:00
+
+ ## Radio UMH
+ - [https://radio.umh.es](https://radio.umh.es)
+ - date_published: 2024-06-16T22:28:31.106919+00:00
+
+ ## Research.umh.es
+ - [http://research.umh.es](http://research.umh.es)
+ - date_published: 2022-03-01T11:25:26+00:00
+
+ ## RESPONSABILIDAD SOCIAL UMH
+ - [https://responsabilidadsocial.umh.es](https://responsabilidadsocial.umh.es)
+ - date_published: 2024-06-16T22:27:38.972710+00:00
+
+ ## Servicio de Apoyo Técnico a la Docencia y a la Investigación
+ - [https://satdi.umh.es](https://satdi.umh.es)
+ - date_published: 2024-06-16T22:28:04.789982+00:00
+
+ ## Secretaría General
+ - [https://secretariageneral.umh.es](https://secretariageneral.umh.es)
+ - date_published: 2024-06-16T22:29:30.255442+00:00
+
+ ## Sede – Universidad Miguel Hernández de Elche
+ - [https://sede.umh.es](https://sede.umh.es)
+ - date_published: 2024-06-16T22:29:46.598934+00:00
+
+ ## Tienda virtual UMH |
+ - [https://tienda.umh.es](https://tienda.umh.es)
+ - date_published: 2024-06-16T22:27:45.863497+00:00
+
+ ## Transparencia UMH | Web de transparecia universitaria - Universidad Miguel Hernández de Elche
+ - [http://transparencia.umh.es](http://transparencia.umh.es)
+ - date_published: 2024-06-16T22:29:24.387179+00:00
+
  ## Universidad Miguel Hernández - Servicio de Autentificación Centralizada
  - [https://universite.umh.es](https://universite.umh.es)
  - date_published: 2024-06-16T22:29:26.528183+00:00
@@ -3884,156 +4032,4 @@
  ## Login · Everlaw
  - [https://app.everlaw.eu](https://app.everlaw.eu)
  - date_published: 2024-06-16T07:41:52.560517+00:00
-
- ## Evoke 2022 | August 5th
-      to 7th 2022 | Demoparty in Cologne, Germany
- - [https://2022.evoke.eu](https://2022.evoke.eu)
- - date_published: 2024-06-11T12:48:29+00:00
-
- ## Evoke 2024: 16th-18th August 2024
- - [https://2024.evoke.eu](https://2024.evoke.eu)
- - date_published: 2024-06-12T08:45:37+00:00
-
- ## Evoke 2024: 16th-18th August 2024
- - [https://www.evoke.eu](https://www.evoke.eu)
- - date_published: 2024-05-02T07:51:14.418626+00:00
-
- ## the bad sleep – misplaced items
- - [https://excus.eu](https://excus.eu)
- - date_published: 2024-08-08T15:11:12.033054+00:00
-
- ## Exiobase - Home
- - [https://www.exiobase.eu](https://www.exiobase.eu)
- - date_published: 2024-07-04T08:18:57+00:00
-
- ## Home | Experts Live Europe
- - [https://www.expertslive.eu](https://www.expertslive.eu)
- - date_published: 2024-08-11T17:43:49.761268+00:00
-
- ## Home - Eye Care Foundation English
- - [https://eyecarefoundation.eu](https://eyecarefoundation.eu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Facing Facts
- - [https://facingfacts.eu](https://facingfacts.eu)
- - date_published: 2024-04-30T05:47:59.426271+00:00
-
- ## Facing Facts Online
- - [https://www.facingfactsonline.eu](https://www.facingfactsonline.eu)
- - date_published: 2024-07-21T07:07:03+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://plausible.fangamer.eu](https://plausible.fangamer.eu)
- - date_published: 2024-06-21T11:07:54.694342+00:00
-
- ## Fangamer Europe - Video game shirts, books, prints, and more.
- - [https://www.fangamer.eu](https://www.fangamer.eu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## MyFANUC
- - [https://my.fanuc.eu](https://my.fanuc.eu)
- - date_published: 2024-05-07T23:46:08.039781+00:00
-
- ## FANUC Portal
- - [https://portal.fanuc.eu](https://portal.fanuc.eu)
- - date_published: 2024-05-07T23:46:02.591619+00:00
-
- ## FANUC | The Factory Automation Company - Fanuc
- - [https://fanuc.eu](https://fanuc.eu)
- - date_published: 2023-11-27T15:45:02+00:00
- - tags: ['robotics']
-
- ## FASA- Packaging Technology since 1959
- - [http://www.fasa.eu](http://www.fasa.eu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## My portal
-		 -
- campo.fau.de
- - [https://campo.fau.eu](https://campo.fau.eu)
- - date_published: 2024-05-09T05:10:48.840919+00:00
-
- ## FAU Erlangen-Nürnberg
- - [https://fau.eu](https://fau.eu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Student Advice Center
- - [https://ibz.fau.eu](https://ibz.fau.eu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Meinstudium (english)
- - [https://meinstudium.fau.eu](https://meinstudium.fau.eu)
- - date_published: 2024-05-09T05:10:42.368314+00:00
-
- ## Chair for Quantum Theory
- - [https://www.quantumtheory.nat.fau.eu](https://www.quantumtheory.nat.fau.eu)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Faculty of Engineering
- - [https://www.tf.fau.eu](https://www.tf.fau.eu)
- - date_published: 2024-05-29T06:57:02+00:00
-
- ## Home
- - [http://hlt.fbk.eu](http://hlt.fbk.eu)
- - date_published: 2024-07-02T09:47:02.528966+00:00
-
- ## Homepage
- - [https://www.fbk.eu](https://www.fbk.eu)
- - date_published: 2024-06-15T15:55:03.852806+00:00
-
- ## https://www.feadin.eu/en/
- - [https://www.feadin.eu](https://www.feadin.eu)
- - date_published: 2024-03-23T11:12:22+00:00
-
- ## Home | LMS Federica
- - [https://lms.federica.eu](https://lms.federica.eu)
- - date_published: 2024-07-04T09:44:54+00:00
-
- ## https://federicoleva.eu/en/
- - [https://federicoleva.eu](https://federicoleva.eu)
- - date_published: 2024-07-13T23:54:15.152305+00:00
-
- ## Felix Reda
- - [https://felixreda.eu](https://felixreda.eu)
- - date_published: 2024-04-17T14:37:07.590738+00:00
-
- ## Thijs Feryn - Technical Evangelist, international conference speaker and published author
- - [https://feryn.eu](https://feryn.eu)
- - date_published: 2024-07-08T16:13:29.630339+00:00
-
- ## Home - European Festivals Association - European Festivals Association
- - [https://www.festivalfinder.eu](https://www.festivalfinder.eu)
- - date_published: 2023-11-23T00:00:00+00:00
-
- ## fettblog.eu | TypeScript, JavaScript, Rust
- - [https://fettblog.eu](https://fettblog.eu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Holistic Security for Data and IT Systems
- - [https://ff-sec.eu](https://ff-sec.eu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## fi-compass | Financial instruments under EU shared management
- - [https://www.fi-compass.eu](https://www.fi-compass.eu)
- - date_published: 2024-07-01T01:20:38+00:00
-
- ## Filmphotography.eu - Alles Wissenswerte über analoge Fotografie
- - [https://filmphotography.eu](https://filmphotography.eu)
- - date_published: 2024-05-07T15:33:24.701264+00:00
-
- ## kleines Filmröllchen’s webbed site
- - [https://filmroellchen.eu](https://filmroellchen.eu)
- - date_published: 2024-07-08T10:44:15+00:00
-
- ## Filson Europe | The American Heritage Outerwear, Clothing, Bags & More
- - [https://roe.filson.eu](https://roe.filson.eu)
- - date_published: 2024-05-04T06:00:41.348275+00:00
-
- ## Filson Europe | The American Heritage Outerwear, Clothing, Bags & More
- - [https://uk.filson.eu](https://uk.filson.eu)
- - date_published: 2024-05-04T06:00:46.063228+00:00
-
- ## Filson Europe | The American Heritage Outerwear, Clothing, Bags & More
- - [https://www.filson.eu](https://www.filson.eu)
- - date_published: 2024-05-04T06:00:37.018296+00:00
 

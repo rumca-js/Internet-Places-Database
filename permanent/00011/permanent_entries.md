@@ -1,3 +1,47 @@
+ ## Fala Curitiba - Prefeitura de Curitiba
+ - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:10.734623+00:00
+
+ ## Gabinete do Prefeito - Prefeitura de Curitiba
+ - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:53.608945+00:00
+
+ ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
+ - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:21.324685+00:00
+
+ ## Guia - Prefeitura de Curitiba
+ - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:49.203800+00:00
+
+ ## Home Page - ICICore.Servidor
+ - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:23.930507+00:00
+
+ ## IMAP
+ - [http://imap.curitiba.pr.gov.br](http://imap.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:11.734092+00:00
+
+ ## Consulta Externa de Atos
+ - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:27.832937+00:00
+
+ ## mid-guia.curitiba.pr.gov.br - /
+ - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:43.588967+00:00
+
+ ## mid-servidor.curitiba.pr.gov.br - /
+ - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:19:55.374914+00:00
+
+ ## Turismo - Prefeitura de Curitiba
+ - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:52.463670+00:00
+
+ ## Orçamento e Planejamento
+ - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:01.327323+00:00
+
  ## Portal dos Conselhos
  - [http://portaldosconselhos.curitiba.pr.gov.br](http://portaldosconselhos.curitiba.pr.gov.br)
  - date_published: 2024-06-12T11:18:05.549511+00:00
@@ -3982,49 +4026,4 @@
  ## Golf Canada
  - [https://ch.golfcanada.ca](https://ch.golfcanada.ca)
  - date_published: 2024-07-09T19:05:38.313363+00:00
-
- ## Golf Canada - Official
- - [http://www.golfcanada.ca](http://www.golfcanada.ca)
- - date_published: 2021-01-26T15:34:42+00:00
-
- ## GoLife: Affordable Term Life Insurance
- - [https://golife.ca](https://golife.ca)
- - date_published: 2024-08-07T11:51:42.098198+00:00
-
- ## Home – Good Food Link - Good Food Link
- - [https://goodfoodlink.ca](https://goodfoodlink.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Google Books
- - [https://books.google.ca](https://books.google.ca)
- - date_published: 2024-05-09T09:11:56.709627+00:00
-
- ## Google
- - [https://google.ca](https://google.ca)
- - date_published: 2024-05-09T03:50:47.157676+00:00
-
- ## Grafika Google
- - [https://images.google.ca](https://images.google.ca)
- - date_published: 2024-07-20T07:36:53.671516+00:00
-
- ## Zanim przejdziesz do Map Google
- - [http://maps.google.ca](http://maps.google.ca)
- - date_published: 2024-06-17T10:57:54.928418+00:00
-
- ## Google Scholar
- - [https://scholar.google.ca](https://scholar.google.ca)
- - date_published: 2024-04-30T05:11:39.221331+00:00
-
- ## Before you continue
- - [https://translate.google.ca](https://translate.google.ca)
- - date_published: 2024-05-09T02:33:53.713226+00:00
-
- ## Go Ravens - Carleton University
- - [https://goravens.ca](https://goravens.ca)
- - date_published: 2024-07-08T16:37:09.290588+00:00
-
- ## GotW.ca Home Page
- - [http://www.gotw.ca](http://www.gotw.ca)
- - date_published: 2023-10-25T08:42:56.028814+00:00
- - tags: ['personal']
 

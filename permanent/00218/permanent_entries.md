@@ -1,3 +1,156 @@
+ ## Υ.ΜΑ.Θ. | Υπουργείο Εσωτερικών (Τομέας Μακεδονίας και Θράκης)
+ - [https://www.mathra.gr](https://www.mathra.gr)
+ - date_published: 2024-06-19T23:25:50+00:00
+
+ ## MATTLE.GR - A Dub.co Custom Domain
+ - [https://mattle.gr](https://mattle.gr)
+ - date_published: 2024-04-28T04:38:09.722557+00:00
+
+ ## Mega Sprint Guard - Υπηρεσίες Ασφαλείας - Megaguard
+ - [https://megaguard.gr](https://megaguard.gr)
+ - date_published: 2024-06-18T00:11:08+00:00
+
+ ## Forum - ΜέΡΑ25
+ - [https://forum.mera25.gr](https://forum.mera25.gr)
+ - date_published: 2024-07-03T03:15:42.747355+00:00
+
+ ## Internal - For DiEM25 Members Only - ΜέΡΑ25
+ - [https://i.mera25.gr](https://i.mera25.gr)
+ - date_published: 2024-07-03T03:15:50.265036+00:00
+
+ ## ΜέΡΑ25 - Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής
+ - [https://mera25.gr](https://mera25.gr)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Arduino, ESP32, Processing,  Digital Arts, Συλλεκτικοί Υπολογιστές
+ - [https://microdev.gr](https://microdev.gr)
+ - date_published: 2024-04-29T09:26:46+00:00
+ - tags: ['microcontrollers', 'esp32']
+
+ ## Γενικό Επιτελείο Εθνικής Άμυνας (ΓΕΕΘΑ) - Επίσημη Ιστοσελίδα
+ - [https://geetha.mil.gr](https://geetha.mil.gr)
+ - date_published: 2024-08-07T22:43:56.908905+00:00
+
+ ## ΥΠΑΑΤ - Αρχική Σελίδα
+ - [http://www.minagric.gr](http://www.minagric.gr)
+ - date_published: 2024-06-19T23:25:56+00:00
+
+ ## Missbloom.gr
+ - [https://www.missbloom.gr](https://www.missbloom.gr)
+ - date_published: 2024-07-12T17:14:23.560399+00:00
+
+ ## ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ
+ - [http://www.mixanitouxronou.gr](http://www.mixanitouxronou.gr)
+ - date_published: 2024-06-25T18:52:23.646067+00:00
+
+ ## Moneyreview.gr
+ - [http://moneyreview.gr](http://moneyreview.gr)
+ - date_published: 2024-06-17T01:45:47.119205+00:00
+
+ ## Summits Home - Money Review Summits
+ - [https://summits.moneyreview.gr](https://summits.moneyreview.gr)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Moneyreview.gr
+ - [https://www.moneyreview.gr](https://www.moneyreview.gr)
+ - date_published: 2024-05-01T08:41:27.206554+00:00
+
+ ## MusicHeaven - Μουσική Κοινότητα
+ - [http://www.musicheaven.gr](http://www.musicheaven.gr)
+ - date_published: 2024-06-30T07:08:46.667337+00:00
+
+ ## Αρχική | Avis Leasing
+ - [https://www.myavis.gr](https://www.myavis.gr)
+ - date_published: 2024-07-12T17:37:09+00:00
+
+ ## Εθνική Τράπεζα
+ - [https://www.nbg.gr](https://www.nbg.gr)
+ - date_published: 2024-06-19T23:25:11.281846+00:00
+
+ ## Homepage
+ - [https://www.neolaia.gr](https://www.neolaia.gr)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## New Era Publications International ApS
+ - [http://www.newerapublications.gr](http://www.newerapublications.gr)
+ - date_published: 2024-06-06T19:42:22.520745+00:00
+
+ ## Ειδήσεις από την Ελλάδα και τον Κόσμο με εγκυρότητα - Newsbomb
+ - [http://www.newsbomb.gr](http://www.newsbomb.gr)
+ - date_published: 2024-06-25T18:52:22+00:00
+
+ ## Τελευταία νέα και ειδήσεις από την Ελλάδα και τον Κόσμο - NewsIT
+ - [http://www.newsit.gr](http://www.newsit.gr)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Nova - EON TV, ταχύτατο Fiber internet & απεριόριστη επικοινωνία
+ - [https://nova.gr](https://nova.gr)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## control systems lab | n.t.u.a.
+ - [https://csl-ep.mech.ntua.gr](https://csl-ep.mech.ntua.gr)
+ - date_published: 2024-06-16T22:06:00.209450+00:00
+
+ ## Computer Vision, Speech Communication & Signal Processing Group
+ - [http://cvsp.cs.ntua.gr](http://cvsp.cs.ntua.gr)
+ - date_published: 2024-07-15T02:37:26.966884+00:00
+
+ ## IVML -  Image Video & Multimedia Systems Laboratory
+ - [http://image.ntua.gr](http://image.ntua.gr)
+ - date_published: 2018-05-02T10:26:44+00:00
+
+ ## NTUA CS
+ - [http://www.cs.ntua.gr](http://www.cs.ntua.gr)
+ - date_published: 2022-01-13T13:27:42+00:00
+
+ ## Computing Systems Laboratory
+ - [http://www.dsclab.ntua.gr](http://www.dsclab.ntua.gr)
+ - date_published: 2024-06-27T14:44:09.570881+00:00
+
+ ## ECE • Home
+ - [https://www.ece.ntua.gr](https://www.ece.ntua.gr)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ
+ - [https://www.ntua.gr](https://www.ntua.gr)
+ - date_published: 2024-06-22T08:59:38+00:00
+
+ ## Σχολή Εφαρμοσμένων Μαθηματικών και Φυσικών Επιστημών - ΣΕΜΦΕ
+ - [http://www.semfe.ntua.gr](http://www.semfe.ntua.gr)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Software Engineering Laboratory - N.T.U.A.
+ - [http://softlab.ntua.gr](http://softlab.ntua.gr)
+ - date_published: 2012-06-07T10:49:04+00:00
+
+ ## Nutricia - Παιδική & Βρεφική διατροφή
+ - [https://www.nutricia.gr](https://www.nutricia.gr)
+ - date_published: 2024-07-08T20:10:05.151554+00:00
+
+ ## Software developers, Web Developers, Home - NXCODE
+ - [https://nxcode.gr](https://nxcode.gr)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## MainPage
+ - [https://okfn.gr](https://okfn.gr)
+ - date_published: 2023-10-31T12:39:27+00:00
+
+ ## Opel Ελλάδας | Νέα αυτοκίνητα | Οχήματα | Προσφορές
+ - [https://www.opel.gr](https://www.opel.gr)
+ - date_published: 2024-07-11T09:38:53+00:00
+
+ ## OpenSky
+ - [https://open-sky.gr](https://open-sky.gr)
+ - date_published: 2021-04-25T08:29:23+00:00
+
+ ## COSMOTE EMAIL :: Welcome to COSMOTE EMAIL
+ - [https://otenet.gr](https://otenet.gr)
+ - date_published: 2024-08-11T21:38:49+00:00
+
+ ## Αρχική Σελίδα - OTS - Έξυπνες πόλεις, Έξυπνη Στάθμευση, Smart Cities
+ - [https://ots.gr](https://ots.gr)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## Parallaxi Magazine - To free press περιοδικό της Θεσσαλονίκης
  - [https://parallaximag.gr](https://parallaximag.gr)
  - date_published: 2024-06-17T01:45:51.685453+00:00
@@ -3866,156 +4019,4 @@
  ## DOOR | Društvo za oblikovanje održivog razvoja
  - [https://door.hr](https://door.hr)
  - date_published: 2024-07-14T07:37:58.600782+00:00
-
- ## Status overview
- - [https://downdetector.hr](https://downdetector.hr)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.hr](https://www.duracell.hr)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Dyson Hrvatska | Službeno web-mjesto
- - [https://www.dyson.hr](https://www.dyson.hr)
- - date_published: 2024-07-07T01:55:59.692292+00:00
-
- ## Home - Hotels in Croatia
- - [https://ehotel.hr](https://ehotel.hr)
- - date_published: 2024-05-01T07:57:07.700900+00:00
-
- ## eKupi.hr - Vaša Internet trgovina | Vaša internet trgovina | Početna
- - [https://www.ekupi.hr](https://www.ekupi.hr)
- - date_published: 2024-06-15T03:28:05.891308+00:00
-
- ## Entrio.hr - Ulaznice za koncerte, festivale i događanja
- - [https://www.entrio.hr](https://www.entrio.hr)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## George
- - [https://george.erstebank.hr](https://george.erstebank.hr)
- - date_published: 2024-06-15T23:16:35+00:00
-
- ## Erste NetBanking
- - [https://netbanking.erstebank.hr](https://netbanking.erstebank.hr)
- - date_published: 2024-06-16T10:51:21.906214+00:00
-
- ## Građanstvo
- - [https://www.erstebank.hr](https://www.erstebank.hr)
- - date_published: 2024-05-01T06:31:46.979544+00:00
-
- ## Naslovnica
- - [https://www.ersteleasing.hr](https://www.ersteleasing.hr)
- - date_published: 2024-06-16T10:51:20.760633+00:00
-
- ## Naslovnica
- - [http://www.ersteprivatebanking.hr](http://www.ersteprivatebanking.hr)
- - date_published: 2024-06-16T10:51:18.185768+00:00
-
- ## - Učinkoviti ljudski potencijali
- - [http://www.esf.hr](http://www.esf.hr)
- - date_published: 2024-06-28T21:40:23.179466+00:00
-
- ## europazagradane.hr
- - [http://europazagradane.hr](http://europazagradane.hr)
- - date_published: 2024-06-28T21:40:24.116499+00:00
-
- ## Ulaznice za koncerte, sport, kulturne i ostale događaje ~ Kupi ulaznice na Eventim
- - [https://www.eventim.hr](https://www.eventim.hr)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Home - Fest d.o.o.
- - [https://fest.hr](https://fest.hr)
- - date_published: 2017-02-01T00:00:00+00:00
-
- ## Fiat Hrvatska
- - [https://www.fiat.hr](https://www.fiat.hr)
- - date_published: 2024-06-07T22:07:07+00:00
-
- ## Početna - Fiat Professional
- - [https://www.fiatprofessional.hr](https://www.fiatprofessional.hr)
- - date_published: 2015-07-12T14:50:38+00:00
-
- ## Flatio - Short, mid and long-term rentals for digital nomads
- - [https://www.flatio.hr](https://www.flatio.hr)
- - date_published: 2024-06-25T17:39:16.388101+00:00
-
- ## Jeftina putovanja autobusom | FlixBus
- - [https://www.flixbus.hr](https://www.flixbus.hr)
- - date_published: 2024-06-28T10:09:44+00:00
-
- ## Floralis
- - [http://www.floralis.hr](http://www.floralis.hr)
- - date_published: 2024-06-20T01:33:03+00:00
-
- ## Metelgrad
- - [https://library.foi.hr](https://library.foi.hr)
- - date_published: 2024-08-07T22:35:05.096415+00:00
-
- ## Ford Hrvatska | Ford Hrvatska
- - [http://www.ford.hr](http://www.ford.hr)
- - date_published: 2024-06-19T16:59:34.749574+00:00
-
- ## FranklinCovey: The World's Most Trusted Leadership Company
- - [https://www.franklincovey.hr](https://www.franklincovey.hr)
- - date_published: 2022-05-09T00:00:00+00:00
-
- ## FRIGOPLUS // WEBSHOP
- - [http://webshop.frigo-plus.hr](http://webshop.frigo-plus.hr)
- - date_published: 2024-06-29T08:56:05.532277+00:00
-
- ## Frigo Plus – Smart and Natural Cooling
- - [https://frigo-plus.hr](https://frigo-plus.hr)
- - date_published: 2024-05-07T10:04:59.445109+00:00
-
- ## Go2Digital | Digitalno vanjsko oglašavanje
- - [https://www.go2digital.hr](https://www.go2digital.hr)
- - date_published: 2024-07-22T12:00:39.857997+00:00
-
- ## Edukatalog Gonga
- - [https://edu.gong.hr](https://edu.gong.hr)
- - date_published: 2024-06-28T21:40:29.123692+00:00
-
- ## Gong
- - [https://gong.hr](https://gong.hr)
- - date_published: 2022-08-31T10:30:48+00:00
-
- ## PRO-FACT
- - [https://pro-fact.gong.hr](https://pro-fact.gong.hr)
- - date_published: 2022-03-25T11:50:21+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.hr](https://maps.google.hr)
- - date_published: 2024-07-20T07:41:27.172306+00:00
-
- ## Google
- - [https://www.google.hr](https://www.google.hr)
- - date_published: 2024-06-21T22:24:49.053343+00:00
-
- ## Naslovna
- - [https://udruge.gov.hr](https://udruge.gov.hr)
- - date_published: 2024-06-28T21:40:30.065721+00:00
-
- ## Početna stranica
- - [https://www.hilti.hr](https://www.hilti.hr)
- - date_published: 2024-06-20T07:27:29.886864+00:00
-
- ## Lawyers | Hrdalo & Krnic Law Firm | Zagreb
- - [https://www.hkod.hr](https://www.hkod.hr)
- - date_published: 2024-06-16T04:19:50.701120+00:00
-
- ## Prijavite se na Hostinger
- - [https://auth.hostinger.hr](https://auth.hostinger.hr)
- - date_published: 2024-07-13T16:42:23.985231+00:00
-
- ## Hosting Platforma Stvorena Za Vas - Krenite Online Uz Hostinger
- - [https://hostinger.hr](https://hostinger.hr)
- - date_published: 2024-05-11T07:50:07.167981+00:00
-
- ## Emisije na zahtjev - HRT
- - [https://enz.hrt.hr](https://enz.hrt.hr)
- - date_published: 2024-02-22T21:01:22.502514+00:00
-
- ## Glas Hrvatske - HRT
- - [https://glashrvatske.hrt.hr](https://glashrvatske.hrt.hr)
- - date_published: 2024-08-11T16:54:11.928523+00:00
 

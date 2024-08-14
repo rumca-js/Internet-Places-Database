@@ -1,3 +1,151 @@
+ ## Department of Sociology - The University of Utah
+ - [https://soc.utah.edu](https://soc.utah.edu)
+ - date_published: 2024-07-02T11:27:27.242229+00:00
+
+ ## Student Success Coaches - The University of Utah
+ - [https://ssc.utah.edu](https://ssc.utah.edu)
+ - date_published: 2024-05-07T22:10:34.896061+00:00
+
+ ## Student Affairs - The University of Utah
+ - [https://studentaffairs.utah.edu](https://studentaffairs.utah.edu)
+ - date_published: 2024-07-02T11:18:12.316010+00:00
+
+ ## Student Health Center - The University of Utah
+ - [https://studenthealth.utah.edu](https://studenthealth.utah.edu)
+ - date_published: 2024-07-02T11:33:08.148675+00:00
+
+ ## Student Success Coaches - The University of Utah
+ - [https://studentsuccess.utah.edu](https://studentsuccess.utah.edu)
+ - date_published: 2024-07-02T11:42:40.088613+00:00
+
+ ## Student University Development Opportunity (SUDO) - Student University Development Opportunity - The University of Utah
+ - [https://sudo.utah.edu](https://sudo.utah.edu)
+ - date_published: 2024-07-14T05:11:19.298276+00:00
+
+ ## CSBS Computing - Support - CSBS - The University of Utah
+ - [https://support.csbs.utah.edu](https://support.csbs.utah.edu)
+ - date_published: 2024-07-02T11:27:18.733098+00:00
+
+ ## Kahlert School of Computing – IT Support
+ - [https://support.cs.utah.edu](https://support.cs.utah.edu)
+ - date_published: 2024-05-07T22:10:43.202892+00:00
+
+ ## Sign In
+ - [http://support.med.utah.edu](http://support.med.utah.edu)
+ - date_published: 2024-07-02T11:29:08.498264+00:00
+
+ ## Sustainability
+ - [https://sustainability.utah.edu](https://sustainability.utah.edu)
+ - date_published: 2024-07-02T11:18:10.153751+00:00
+
+ ## University of Utah - Portal
+ - [https://system.apps.utah.edu](https://system.apps.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## TA Application Portal - School of Computing - University of Utah - School of Computing - TA Portal
+ - [https://ta.cs.utah.edu](https://ta.cs.utah.edu)
+ - date_published: 2024-05-07T22:10:21.937589+00:00
+
+ ## Utah Center for Inclusive Computing – Just another COE Research & Staff MultiSite Install Sites site
+ - [https://ucic.cs.utah.edu](https://ucic.cs.utah.edu)
+ - date_published: 2024-05-07T22:10:25.410286+00:00
+
+ ## UGive
+ - [https://ugive.app.utah.edu](https://ugive.app.utah.edu)
+ - date_published: 2023-11-10T23:09:42+00:00
+
+ ## Home
+ - [http://ulink.utah.edu](http://ulink.utah.edu)
+ - date_published: 2024-07-02T11:33:32.697570+00:00
+
+ ## UNews
+ - [https://unews.utah.edu](https://unews.utah.edu)
+ - date_published: 2024-07-02T11:21:07.616598+00:00
+
+ ## University of Utah Student Union - A. Ray Olpin University Union
+ - [https://union.utah.edu](https://union.utah.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## University of Utah Health Academic Medical Center
+ - [https://uofuhealth.utah.edu](https://uofuhealth.utah.edu)
+ - date_published: 2024-07-02T05:26:17+00:00
+
+ ## Kahlert School of Computing
+ - [https://users.cs.utah.edu](https://users.cs.utah.edu)
+ - date_published: 2024-01-12T03:16:30.394085+00:00
+
+ ## Office of Undergraduate Studies - The University of Utah
+ - [https://us.utah.edu](https://us.utah.edu)
+ - date_published: 2024-07-02T11:31:52.001539+00:00
+
+ ## The University of Utah
+ - [https://utah.edu](https://utah.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Ute Proud
+ - [https://uteproud.utah.edu](https://uteproud.utah.edu)
+ - date_published: 2024-07-02T11:18:45.560019+00:00
+
+ ## Archaeological Center - The University of Utah
+ - [https://uuac.utah.edu](https://uuac.utah.edu)
+ - date_published: 2024-07-02T11:27:16.566885+00:00
+
+ ## Center for Campus Wellness - Student Affairs - The University of Utah
+ - [https://wellness.utah.edu](https://wellness.utah.edu)
+ - date_published: 2024-05-07T22:10:51.182376+00:00
+
+ ## The Wilkes Center for Climate Science & Policy
+ - [https://wilkescenter.utah.edu](https://wilkescenter.utah.edu)
+ - date_published: 2024-07-02T11:41:44.188636+00:00
+
+ ## Women’s Resource Center - The University of Utah
+ - [http://womenscenter.utah.edu](http://womenscenter.utah.edu)
+ - date_published: 2024-07-02T11:30:31.114469+00:00
+
+ ## Home - Biomedical Engineering at the University of Utah
+ - [http://www.bioen.utah.edu](http://www.bioen.utah.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## School of Biological Sciences
+ - [http://www.biology.utah.edu](http://www.biology.utah.edu)
+ - date_published: 2024-07-02T11:41:56.711271+00:00
+
+ ## Home - Biomedical Engineering at the University of Utah
+ - [https://www.bme.utah.edu](https://www.bme.utah.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## John and Marcia Price College of Engineering IT Support | CADE, Student Computing Labs and Network Support
+ - [http://www.cade.utah.edu](http://www.cade.utah.edu)
+ - date_published: 2024-07-02T11:31:07.368312+00:00
+
+ ## B.S. Computer Engineering
+ - [http://www.ce.utah.edu](http://www.ce.utah.edu)
+ - date_published: 2024-07-02T11:29:53.256609+00:00
+
+ ## Department of Chemistry - The University of Utah
+ - [http://www.chem.utah.edu](http://www.chem.utah.edu)
+ - date_published: 2024-07-02T11:36:32.636221+00:00
+
+ ## Homepage - Chemical Engineering | University of Utah
+ - [https://www.che.utah.edu](https://www.che.utah.edu)
+ - date_published: 2024-07-02T11:30:00.260709+00:00
+
+ ## Home Page - Civil & Environmental Engineering
+ - [http://www.civil.utah.edu](http://www.civil.utah.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## College of Mines and Earth Sciences - The University of Utah
+ - [https://www.cmes.utah.edu](https://www.cmes.utah.edu)
+ - date_published: 2024-07-02T11:41:52.717733+00:00
+
+ ## The John and Marcia Price College of Engineering
+ - [https://www.coe.utah.edu](https://www.coe.utah.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Kahlert School of Computing – School of Computing at The University of Utah
+ - [https://www.cs.utah.edu](https://www.cs.utah.edu)
+ - date_published: 2023-10-25T19:04:49.477291+00:00
+
  ## Homepage - Electrical & Computer Engineering | University of Utah
  - [http://www.ece.utah.edu](http://www.ece.utah.edu)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -3850,152 +3998,4 @@
  ## Commitment to Privacy
  - [https://wilder.vcu.edu](https://wilder.vcu.edu)
  - date_published: 2024-07-02T12:47:00.512936+00:00
-
- ## Commitment to Privacy
- - [https://womenshealth.vcu.edu](https://womenshealth.vcu.edu)
- - date_published: 2024-07-02T12:50:33.385635+00:00
-
- ## Commitment to Privacy
- - [https://womensnetwork.vcu.edu](https://womensnetwork.vcu.edu)
- - date_published: 2024-07-02T12:57:38.951465+00:00
-
- ## Commitment to Privacy
- - [https://workforce.vcu.edu](https://workforce.vcu.edu)
- - date_published: 2024-07-02T12:49:29.642643+00:00
-
- ## Commitment to Privacy
- - [https://worldstudies.vcu.edu](https://worldstudies.vcu.edu)
- - date_published: 2024-07-02T12:47:05.023316+00:00
-
- ## Commitment to Privacy
- - [https://writing.vcu.edu](https://writing.vcu.edu)
- - date_published: 2024-07-02T12:50:45.827304+00:00
-
- ## Commitment to Privacy
- - [http://www.create.lab.vcu.edu](http://www.create.lab.vcu.edu)
- - date_published: 2024-07-02T12:44:08.130001+00:00
-
- ## Commitment to Privacy
- - [https://www.ctcce.vcu.edu](https://www.ctcce.vcu.edu)
- - date_published: 2024-07-02T12:58:05.683936+00:00
-
- ## Commitment to Privacy
- - [https://germanstories.vcu.edu](https://germanstories.vcu.edu)
- - date_published: 2024-05-07T22:22:31.206514+00:00
-
- ## Commitment to Privacy
- - [https://library.vcu.edu](https://library.vcu.edu)
- - date_published: 2024-05-07T22:23:09.110392+00:00
-
- ## Award-winning cancer care in Virginia
- - [https://www.massey.vcu.edu](https://www.massey.vcu.edu)
- - date_published: 2024-07-02T13:03:16.359407+00:00
-
- ## Commitment to Privacy
- - [http://www.nsfp.vcu.edu](http://www.nsfp.vcu.edu)
- - date_published: 2024-07-02T12:47:30.618725+00:00
-
- ## Commitment to Privacy
- - [https://opds.vcu.edu](https://opds.vcu.edu)
- - date_published: 2024-05-07T22:23:33.140061+00:00
-
- ## VCU TelegRAM
- - [https://www.telegram.vcu.edu](https://www.telegram.vcu.edu)
- - date_published: 2024-07-02T12:48:07.721563+00:00
-
- ## Commitment to Privacy
- - [https://youfirst.vcu.edu](https://youfirst.vcu.edu)
- - date_published: 2024-07-02T12:50:16.722416+00:00
-
- ## Digital Repository - Villanova University Charles Widger School of Law
- - [https://digitalcommons.law.villanova.edu](https://digitalcommons.law.villanova.edu)
- - date_published: 2024-07-02T10:48:18.170655+00:00
-
- ## Homepage | 25Live Information Portal
- - [https://25live.virginia.edu](https://25live.virginia.edu)
- - date_published: 2024-07-03T14:37:02+00:00
-
- ## Home | UVA Accessibility
- - [https://accessibility.virginia.edu](https://accessibility.virginia.edu)
- - date_published: 2024-05-09T06:36:08.768724+00:00
-
- ## Office of Undergraduate Admission | The Office of Undergraduate Admission
- - [https://admission.virginia.edu](https://admission.virginia.edu)
- - date_published: 2024-06-14T13:40:46+00:00
-
- ## Home – UVA Facilities Management Annual Report 2023
- - [https://annualreport.fm.virginia.edu](https://annualreport.fm.virginia.edu)
- - date_published: 2024-03-07T16:29:28+00:00
-
- ## The University of Virginia
- - [https://applycentral.virginia.edu](https://applycentral.virginia.edu)
- - date_published: 2024-06-27T12:05:50+00:00
-
- ## UVA Facilities Management Apprenticeship Program – Home
- - [https://apprenticeship.fm.virginia.edu](https://apprenticeship.fm.virginia.edu)
- - date_published: 2024-06-06T19:52:53+00:00
-
- ## Department of Art |
- - [https://art.as.virginia.edu](https://art.as.virginia.edu)
- - date_published: 2024-07-08T12:37:22+00:00
-
- ## Home
- - [https://as.virginia.edu](https://as.virginia.edu)
- - date_published: 2024-03-11T22:06:48.813698+00:00
-
- ## Frank Batten School of Leadership & Public Policy - Home
- - [https://batten.virginia.edu](https://batten.virginia.edu)
- - date_published: 2024-08-06T05:45:44.714564+00:00
-
- ## Home
- - [https://blog.radiology.virginia.edu](https://blog.radiology.virginia.edu)
- - date_published: 2024-05-06T21:28:32.329381+00:00
-
- ## Biochemistry and Molecular Genetics | innovative basic science research that uncovers biochemical and genetic mechanisms of diseases
- - [https://bmg.med.virginia.edu](https://bmg.med.virginia.edu)
- - date_published: 2024-06-27T12:39:42.640450+00:00
-
- ## UVACanvas
- - [https://canvas.virginia.edu](https://canvas.virginia.edu)
- - date_published: 2024-06-13T15:48:59+00:00
-
- ## Homepage | UVA Clery Act
- - [http://cleryact.virginia.edu](http://cleryact.virginia.edu)
- - date_published: 2024-07-06T00:35:06+00:00
-
- ## Undergraduate, U.Va.
- - [https://college.as.virginia.edu](https://college.as.virginia.edu)
- - date_published: 2024-05-09T06:36:22.713210+00:00
-
- ## Home | University Communications
- - [https://communications.virginia.edu](https://communications.virginia.edu)
- - date_published: 2024-07-09T20:52:02.950026+00:00
-
- ## School of Nursing Community
- - [https://community.nursing.virginia.edu](https://community.nursing.virginia.edu)
- - date_published: 2024-06-27T12:41:27.499774+00:00
-
- ## Coronavirus & COVID-19: Testing & Resources | UVA Health
- - [https://coronavirus.virginia.edu](https://coronavirus.virginia.edu)
- - date_published: 2024-07-02T13:13:48+00:00
-
- ## Center for Public Health Genomics - University of Virginia School of Medicine
- - [http://cphg.virginia.edu](http://cphg.virginia.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## NetBadge Message - Loading Session Information
- - [https://customerportal.fm.virginia.edu](https://customerportal.fm.virginia.edu)
- - date_published: 2024-07-02T13:14:30.808816+00:00
-
- ## Home Page | Division for Diversity, Equity, and Inclusion
- - [https://dei.virginia.edu](https://dei.virginia.edu)
- - date_published: 2024-06-28T13:42:42+00:00
-
- ## Home – Diversity, Equity, and Inclusion – UVA Facilities Management
- - [https://diversity.fm.virginia.edu](https://diversity.fm.virginia.edu)
- - date_published: 2024-06-07T18:30:01+00:00
-
- ## email.healthsystem.virginia.edu
- - [https://email.healthsystem.virginia.edu](https://email.healthsystem.virginia.edu)
- - date_published: 2024-06-27T12:39:20.948379+00:00
 

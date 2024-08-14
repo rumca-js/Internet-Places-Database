@@ -1,3 +1,326 @@
+ ## Home | School of Information Technology
+ - [http://www.sit.uct.ac.za](http://www.sit.uct.ac.za)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home | UCT Libraries
+ - [http://www.specialcollections.uct.ac.za](http://www.specialcollections.uct.ac.za)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.sss.uct.ac.za](http://www.sss.uct.ac.za)
+ - date_published: 2024-07-17T04:10:08+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.staff.uct.ac.za](http://www.staff.uct.ac.za)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Stay and Connect
+ - [http://www.stayandconnect.uct.ac.za](http://www.stayandconnect.uct.ac.za)
+ - date_published: 2024-07-17T04:09:59+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.students.uct.ac.za](http://www.students.uct.ac.za)
+ - date_published: 2024-07-17T03:51:36+00:00
+
+ ## University of Cape Town research repository - Browse
+ - [https://zivahub.uct.ac.za](https://zivahub.uct.ac.za)
+ - date_published: 2024-06-15T21:23:35.508545+00:00
+
+ ## UJ the University of Johannesburg Gauteng South Africa
+ - [https://www.uj.ac.za](https://www.uj.ac.za)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## UP | University of Pretoria
+ - [http://www.up.ac.za](http://www.up.ac.za)
+ - date_published: 2024-07-22T07:09:58+00:00
+
+ ## Loading Development Manager
+ - [https://devman.wits.ac.za](https://devman.wits.ac.za)
+ - date_published: 2018-04-20T18:14:57+00:00
+
+ ## The Wits Shop – Shop online for Wits University Branded Merchandise, Gifts and Accessories.
+ - [https://shop.wits.ac.za](https://shop.wits.ac.za)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Wits Centenary
+ - [https://wits100.wits.ac.za](https://wits100.wits.ac.za)
+ - date_published: 2024-05-02T13:55:57.893226+00:00
+
+ ## Home - Wits University
+ - [https://www.wits.ac.za](https://www.wits.ac.za)
+ - date_published: 2023-10-28T22:55:25.000926+00:00
+
+ ## 3M Science. Applied to Life. | 3M South Africa
+ - [https://www.3m.co.za](https://www.3m.co.za)
+ - date_published: 2024-08-06T10:41:07.961471+00:00
+
+ ## 4aKid - Baby & Toddler Shop, Toy Shop, South Africa
+ - [https://4akid.co.za](https://4akid.co.za)
+ - date_published: 2024-06-21T10:53:26.900623+00:00
+
+ ## adidas Official Website | adidas South Africa
+ - [https://www.adidas.co.za](https://www.adidas.co.za)
+ - date_published: 2024-07-14T12:13:33.652463+00:00
+
+ ## African Pilot magazine - now Africa's most popular aviation publication
+ - [http://www.africanpilot.co.za](http://www.africanpilot.co.za)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Lexicography | African Association for Lexicography
+ - [https://www.afrilex.co.za](https://www.afrilex.co.za)
+ - date_published: 2024-07-02T09:44:47.187503+00:00
+
+ ## Agronetto South Africa – an online marketplace for farm equipment and spare parts
+ - [https://agronetto.co.za](https://agronetto.co.za)
+ - date_published: 2024-08-11T15:40:46.688595+00:00
+
+ ## Airbnb | Vacation rentals, cabins, beach houses, & more
+ - [https://airbnb.co.za](https://airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UAirbnb | Iindawo eziqeshisayo zeholide, izindlu zamaplanga, izindlu ezingaselwandle, nokungakumbi
+ - [https://xh.airbnb.co.za](https://xh.airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbnb | Izindawo eziqashisayo zamaholide, izindlu ezakhiwe ngamapulangwe, izindlu ezingasebhishi, nokunye
+ - [https://zu.airbnb.co.za](https://zu.airbnb.co.za)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Airbus | Pioneering sustainable aerospace
+ - [http://www.airbushelicopters.co.za](http://www.airbushelicopters.co.za)
+ - date_published: 2021-06-11T00:00:00+00:00
+
+ ## Alfa Romeo official website ׀ Alfa Romeo South Africa
+ - [http://www.alfaromeo.co.za](http://www.alfaromeo.co.za)
+ - date_published: 2024-05-28T09:48:59+00:00
+
+ ## All Bursaries for 2024 Funding in South Africa
+ - [https://allbursaries.co.za](https://allbursaries.co.za)
+ - date_published: 2017-11-13T09:05:47+00:00
+
+ ## Amazon Brand Protection: Protect the Brand You Built
+ - [https://brandservices.amazon.co.za](https://brandservices.amazon.co.za)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## AMS homepage
+ - [https://www.angloms.co.za](https://www.angloms.co.za)
+ - date_published: 2024-08-11T04:06:38.879545+00:00
+
+ ## Arthritis Kids – Arthritis Kids South Africa
+ - [https://arthritiskids.co.za](https://arthritiskids.co.za)
+ - date_published: 2024-06-28T11:54:37.413491+00:00
+
+ ## Audi South Africa | Luxury and Premium Cars | Audi Car Models
+ - [https://www.audi.co.za](https://www.audi.co.za)
+ - date_published: 2024-07-19T20:27:17+00:00
+
+ ## Barely Normal | Hardly Strange - Barely Normal
+ - [https://barelynormal.co.za](https://barelynormal.co.za)
+ - date_published: 2024-01-09T19:17:05.832477+00:00
+
+ ## Official Google Africa Blog
+ - [http://google-africa.blogspot.co.za](http://google-africa.blogspot.co.za)
+ - date_published: 2024-08-12T04:31:54.636768+00:00
+
+ ## https://brooker.co.za
+ - [https://brooker.co.za](https://brooker.co.za)
+ - date_published: 2023-10-19T00:46:28+00:00
+ - tags: ['personal', 'blog']
+
+ ## Welcome to Brother South Africa
+ - [https://brother.co.za](https://brother.co.za)
+ - date_published: 2024-05-02T11:28:43.011671+00:00
+
+ ## Brother Dealer Portal :: Login
+ - [https://dealerportal.brother.co.za](https://dealerportal.brother.co.za)
+ - date_published: 2024-06-17T21:11:09.366162+00:00
+
+ ## Brutech | Your Bru in High Performance Gaming Desktops, Prebuilts & More
+ - [https://www.brutech.co.za](https://www.brutech.co.za)
+ - date_published: 2024-07-13T13:46:52.869406+00:00
+
+ ## BT Games – South Africas Favourite Online Gaming Store
+ - [https://www.btgames.co.za](https://www.btgames.co.za)
+ - date_published: 2024-06-14T20:25:09+00:00
+
+ ## Business Insider Polska
+ - [https://www.businessinsider.co.za](https://www.businessinsider.co.za)
+ - date_published: 2023-10-25T23:05:39.649325+00:00
+
+ ## BusinessTech – Business Technology news and views
+ - [https://businesstech.co.za](https://businesstech.co.za)
+ - date_published: 2024-03-18T22:26:03.441300+00:00
+
+ ## BusinessTech | Company Hub
+ - [https://companies.businesstech.co.za](https://companies.businesstech.co.za)
+ - date_published: 2024-05-11T08:04:23.451771+00:00
+
+ ## Business Talk with Michael Avery
+ - [https://talk.businesstech.co.za](https://talk.businesstech.co.za)
+ - date_published: 2024-05-11T08:04:21.489612+00:00
+
+ ## Capterra helps you find the right software for your business
+ - [https://www.capterra.co.za](https://www.capterra.co.za)
+ - date_published: 2024-07-19T18:05:12.170818+00:00
+
+ ## Made Mighty - Cat phones South Africa
+ - [https://catphones.co.za](https://catphones.co.za)
+ - date_published: 2024-05-08T04:35:58.945461+00:00
+
+ ## Channon Perry
+ - [https://chan.co.za](https://chan.co.za)
+ - date_published: 2023-01-04T10:28:43+00:00
+ - tags: ['personal']
+
+ ## Christine Powell VA + Design - Christine Powell
+ - [https://christinepowell.co.za](https://christinepowell.co.za)
+ - date_published: 2023-11-29T14:42:11.739232+00:00
+ - tags: ['personal']
+
+ ## Home - Chronon - Publishing and eCommerce
+ - [https://chronon.co.za](https://chronon.co.za)
+ - date_published: 2017-01-09T07:31:32+00:00
+
+ ## Selecta
+ - [https://selecta.ciaran.co.za](https://selecta.ciaran.co.za)
+ - date_published: 2023-10-25T23:05:40.383815+00:00
+
+ ## The Citizen | More News, Your Way
+ - [https://www.citizen.co.za](https://www.citizen.co.za)
+ - date_published: 2024-06-16T14:42:47+00:00
+
+ ## Citizen Watches SA | Official Distributor | Online Store South Africa
+ - [https://citizenwatchsa.co.za](https://citizenwatchsa.co.za)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## New Cars, and Servicing | Automotive |  Citroën South Africa.
+ - [https://citroen.co.za](https://citroen.co.za)
+ - date_published: 2024-05-08T05:30:53.026904+00:00
+
+ ## Vehicle Webstore | Citroën South Africa – Discover all the new Citroën vehicles available for purchase quickly at attractive prices within our network of dealers.
+ - [https://citroensouthafrica.co.za](https://citroensouthafrica.co.za)
+ - date_published: 2024-07-04T07:40:38.206033+00:00
+
+ ## Clipping Point
+ - [http://www.clippingpointmedia.co.za](http://www.clippingpointmedia.co.za)
+ - date_published: 2024-07-12T17:13:47.916139+00:00
+
+ ## Commspace API
+ - [https://apidocs.commspace.co.za](https://apidocs.commspace.co.za)
+ - date_published: 2022-08-16T08:55:42+00:00
+
+ ## Sign in
+ - [https://app.commspace.co.za](https://app.commspace.co.za)
+ - date_published: 2024-08-08T22:25:51.026865+00:00
+
+ ## Commspace Help Center
+ - [https://help.commspace.co.za](https://help.commspace.co.za)
+ - date_published: 2024-08-08T22:25:50.244890+00:00
+
+ ## Commspace
+ - [https://status.commspace.co.za](https://status.commspace.co.za)
+ - date_published: 2024-08-08T22:25:52.008160+00:00
+
+ ## Home - Commspace
+ - [https://commspace.co.za](https://commspace.co.za)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Corion Capital – Multi-strategy investments
+ - [https://www.corion.co.za](https://www.corion.co.za)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Customer Help | Tech Solutions | FAQ's | Computing Problems | Car and Automotive Repairs
+ - [https://customerhelp.co.za](https://customerhelp.co.za)
+ - date_published: 2024-07-15T10:04:08+00:00
+
+ ## Daily Maverick - South African news, opinion and investigations
+ - [https://www.dailymaverick.co.za](https://www.dailymaverick.co.za)
+ - date_published: 2024-07-03T12:06:19.565424+00:00
+
+ ## Decathlon South Africa - Making sport accessible
+ - [https://www.decathlon.co.za](https://www.decathlon.co.za)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Decathlon Pro South Africa
+ - [https://decathlonpro.co.za](https://decathlonpro.co.za)
+ - date_published: 2024-06-15T20:23:09.983606+00:00
+
+ ## Decathlon South Africa - Making sport accessible
+ - [http://www.decathlon-sports.co.za](http://www.decathlon-sports.co.za)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Home - defenceWeb
+ - [https://www.defenceweb.co.za](https://www.defenceweb.co.za)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## AI Site Generation
+ - [http://aisitegeneration.devsoft.co.za](http://aisitegeneration.devsoft.co.za)
+ - date_published: 2024-07-04T07:09:30.807034+00:00
+
+ ## Devsoft Full Stack IOT
+ - [https://devsoft.co.za](https://devsoft.co.za)
+ - date_published: 2024-05-08T05:22:12.077314+00:00
+
+ ## LED Indicator
+ - [https://ledindicator.devsoft.co.za](https://ledindicator.devsoft.co.za)
+ - date_published: 2024-07-04T07:09:37.070283+00:00
+
+ ## DigiKey Home
+ - [https://www.digikey.co.za](https://www.digikey.co.za)
+ - date_published: 2024-05-01T05:04:42.162292+00:00
+
+ ## Disney South Africa | The Official Home For All Things Disney
+ - [https://disney.co.za](https://disney.co.za)
+ - date_published: 2024-06-16T01:51:07.156133+00:00
+
+ ## Status overview
+ - [https://downdetector.co.za](https://downdetector.co.za)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## DPD Laser
+ - [https://my.dpdl.co.za](https://my.dpdl.co.za)
+ - date_published: 2023-07-21T14:37:23+00:00
+
+ ## DPD Laser
+ - [https://qr.dpdl.co.za](https://qr.dpdl.co.za)
+ - date_published: 2023-07-21T14:37:23+00:00
+
+ ## DPDL Unity
+ - [https://unity.dpdl.co.za](https://unity.dpdl.co.za)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## DPD Laser | Your Delivery Experts
+ - [https://www.dpdlaser.co.za](https://www.dpdlaser.co.za)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Home | Dream Beds & Home
+ - [https://dreambeds.co.za](https://dreambeds.co.za)
+ - date_published: 2016-06-20T07:48:11+00:00
+
+ ## Buy Gaming PCs, Computer Components, Laptops & more | dreamwaretech.co.za
+ - [https://www.dreamwaretech.co.za](https://www.dreamwaretech.co.za)
+ - date_published: 2018-12-12T00:00:00+00:00
+
+ ## Duracell Batteries South Africa | The World’s #1 Consumer Battery Company
+ - [https://www.duracell.co.za](https://www.duracell.co.za)
+ - date_published: 2024-07-22T07:23:11+00:00
+
+ ## Party Venues
+ - [https://durbanpartyvenues.co.za](https://durbanpartyvenues.co.za)
+ - date_published: 2024-07-04T07:09:38.505443+00:00
+
+ ## Dyson South Africa | Official Site | Shop
+ - [https://www.dyson.co.za](https://www.dyson.co.za)
+ - date_published: 2024-07-07T01:57:53.741991+00:00
+
+ ## Finance Jobs, Banking and Tech Jobs - South Africa - eFinancialCareers
+ - [https://www.efinancialcareers.co.za](https://www.efinancialcareers.co.za)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Environment News South Africa
+ - [https://www.environment.co.za](https://www.environment.co.za)
+ - date_published: 2024-07-15T09:30:42+00:00
+
  ## Global Data Centers and Colocation for Enterprise Networks | Equinix South Africa
  - [https://www.equinix.co.za](https://www.equinix.co.za)
  - date_published: 2024-01-04T00:00:00+00:00
@@ -153,6 +476,10 @@
  ## Distribution and circulation manager | iSizwe Distributors
  - [https://isizwedistributors.co.za](https://isizwedistributors.co.za)
  - date_published: 2024-05-04T06:41:10.768922+00:00
+
+ ## ITWeb | Business Technology Media Community
+ - [http://www.itweb.co.za](http://www.itweb.co.za)
+ - date_published: 2024-08-12T04:31:02.863774+00:00
 
  ## Ian's notes
  - [https://ivdl.co.za](https://ivdl.co.za)
@@ -1254,6 +1581,10 @@
  ## The Sunday Mail | The Leading Family Newspaper in Zimbabwe
  - [https://www.sundaymail.co.zw](https://www.sundaymail.co.zw)
  - date_published: 2024-06-18T17:15:19+00:00
+
+ ## Techzim
+ - [http://www.techzim.co.zw](http://www.techzim.co.zw)
+ - date_published: 2024-08-12T04:29:48+00:00
 
  ## The Zimbabwe Sphere
  - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)

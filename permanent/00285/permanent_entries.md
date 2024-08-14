@@ -1,3 +1,206 @@
+ ## Philosophy Now | a magazine of ideas
+ - [https://philosophynow.org](https://philosophynow.org)
+ - date_published: 2023-10-25T21:57:18.587433+00:00
+
+ ## Philosophy Talk
+ - [http://www.philosophytalk.org](http://www.philosophytalk.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## auth.philpapers.org
+ - [https://auth.philpapers.org](https://auth.philpapers.org)
+ - date_published: 2024-05-08T11:36:07.567792+00:00
+
+ ## PhilPapers: Online Research in Philosophy
+ - [https://philpapers.org](https://philpapers.org)
+ - date_published: 2023-10-25T21:57:21.323401+00:00
+
+ ## Philwidgets
+ - [https://widgets.philpapers.org](https://widgets.philpapers.org)
+ - date_published: 2024-05-08T11:36:17.294620+00:00
+
+ ## The online community for philosophers - PhilPeople
+ - [https://philpeople.org](https://philpeople.org)
+ - date_published: 2024-05-07T10:00:06.014505+00:00
+ - tags: ['philosophy']
+
+ ## PhilPapers Survey 2020
+ - [https://survey2020.philpeople.org](https://survey2020.philpeople.org)
+ - date_published: 2024-05-08T11:36:15.232561+00:00
+
+ ## Home | philtel
+ - [https://philtel.org](https://philtel.org)
+ - date_published: 2023-10-25T21:57:22.366695+00:00
+
+ ## APA Journal Survey Project - List of Journals
+ - [https://apasurvey.philx.org](https://apasurvey.philx.org)
+ - date_published: 2024-07-08T14:35:22.947461+00:00
+
+ ## PHINEO
+ - [https://www.phineo.org](https://www.phineo.org)
+ - date_published: 2024-07-09T14:08:39.218677+00:00
+
+ ## Public Health and Medical Professionals for Transparency - Public Health and Medical Professionals for Transparency
+ - [https://phmpt.org](https://phmpt.org)
+ - date_published: 2023-10-25T21:57:24.440849+00:00
+
+ ## PhobosLab
+ - [https://phoboslab.org](https://phoboslab.org)
+ - date_published: 2023-10-25T21:57:26.861092+00:00
+ - tags: ['video game developer', 'personal']
+
+ ## Home
+ - [https://www.phoenixchildrens.org](https://www.phoenixchildrens.org)
+ - date_published: 2024-07-09T23:04:31.961742+00:00
+
+ ## Phoenix Framework
+ - [https://phoenixframework.org](https://phoenixframework.org)
+ - date_published: 2023-10-25T21:57:28.415760+00:00
+
+ ## Phoenix Public Library
+ - [https://www.phoenixpubliclibrary.org](https://www.phoenixpubliclibrary.org)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Phoenix Zoo
+ - [https://www.phoenixzoo.org](https://www.phoenixzoo.org)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Phone Story - Android/iPhone game by Molleindustria
+ - [https://phonestory.org](https://phonestory.org)
+ - date_published: 2024-01-19T23:39:59+00:00
+
+ ## Phorum | Open Source PHP Forum Software
+ - [https://phorum.org](https://phorum.org)
+ - date_published: 2024-05-07T09:31:58.515546+00:00
+
+ ## Photography Ethics Centre
+ - [https://www.photoethics.org](https://www.photoethics.org)
+ - date_published: 2024-07-02T23:18:17.909790+00:00
+
+ ## Future Photonics Hub | Our goals | Lead research | Integrate processes
+ - [https://photonicshubuk.org](https://photonicshubuk.org)
+ - date_published: 2024-06-07T18:55:55+00:00
+
+ ## Homepage
+ - [https://www.photonicssociety.org](https://www.photonicssociety.org)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## dl.photoprism.org
+ - [https://dl.photoprism.org](https://dl.photoprism.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://photoprism.org](https://photoprism.org)
+ - date_published: 2024-06-19T22:29:46.731841+00:00
+
+ ## Photo Retoucher. Professional Digital Photo Restoration Software.
+ - [https://photoretoucher.org](https://photoretoucher.org)
+ - date_published: 2024-07-19T04:34:38.620614+00:00
+
+ ## Free backgrounds for Google Slides and PowerPoint templates | Photy.org
+ - [https://photy.org](https://photy.org)
+ - date_published: 2024-05-08T12:00:13.800329+00:00
+
+ ## PHP Best Practices: a short, practical guide for common and confusing PHP tasks
+ - [https://phpbestpractices.org](https://phpbestpractices.org)
+ - date_published: 2021-07-26T00:00:00+00:00
+
+ ## blog.phpdev
+ - [https://blog.phpdeveloper.org](https://blog.phpdeveloper.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## phpDocumentor
+ - [https://docs.phpdoc.org](https://docs.phpdoc.org)
+ - date_published: 2024-05-12T06:38:00.801846+00:00
+
+ ## Home
+ - [https://www.phpdoc.org](https://www.phpdoc.org)
+ - date_published: 2024-05-12T06:32:25.252880+00:00
+
+ ## PHP-FIG — PHP Framework Interop Group - PHP-FIG
+ - [https://www.php-fig.org](https://www.php-fig.org)
+ - date_published: 2024-05-12T06:32:23.210166+00:00
+
+ ## phpList.org
+ - [https://www.phplist.org](https://www.phplist.org)
+ - date_published: 2024-06-19T22:08:43.017702+00:00
+
+ ## Find Bugs Without Writing Tests
+ - [https://phpstan.org](https://phpstan.org)
+ - date_published: 2024-07-19T11:38:35+00:00
+
+ ## PHPTAL :: Introduction
+ - [https://phptal.org](https://phptal.org)
+ - date_published: 2024-05-12T06:32:33.439936+00:00
+
+ ## phpwcms 1.10.2 – Open Source Content Management System [CMS]
+ - [http://www.phpwcms.org](http://www.phpwcms.org)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## .:: Phrack Magazine ::.
+ - [http://phrack.org](http://phrack.org)
+ - date_published: 2023-10-25T21:57:28.936079+00:00
+ - tags: ['tech magazine']
+
+ ## Refresh
+ - [https://www.phrma.org](https://www.phrma.org)
+ - date_published: 2024-06-17T04:20:35.087869+00:00
+
+ ## Index of /
+ - [https://phylactery.org](https://phylactery.org)
+ - date_published: 2024-01-09T03:41:59.415418+00:00
+
+ ## International Society for Phylogenetic Nomenclature
+ - [http://phylonames.org](http://phylonames.org)
+ - date_published: 2023-04-06T00:00:00+00:00
+
+ ## Phys.org - News and Articles on Science and Technology
+ - [https://phys.org](https://phys.org)
+ - date_published: 2023-10-25T10:12:05.871783+00:00
+
+ ## Home
+ - [https://www.physicianfamilymedia.org](https://www.physicianfamilymedia.org)
+ - date_published: 2024-07-09T14:53:11+00:00
+
+ ## Physicians for Civil Defense
+ - [https://www.physiciansforcivildefense.org](https://www.physiciansforcivildefense.org)
+ - date_published: 2024-05-04T09:34:16.326772+00:00
+
+ ## PhysicsOpenLab – Modern DIY Physics Laboratory for Science Enthusiasts
+ - [https://physicsopenlab.org](https://physicsopenlab.org)
+ - date_published: 2023-10-25T21:57:38.923394+00:00
+
+ ## Recent activities (of the last week ) | PhysicsOverflow
+ - [https://physicsoverflow.org](https://physicsoverflow.org)
+ - date_published: 2024-07-19T02:51:21.963990+00:00
+
+ ## Physics Today | AIP Publishing
+ - [http://blogs.physicstoday.org](http://blogs.physicstoday.org)
+ - date_published: 2024-06-17T12:16:58.663913+00:00
+
+ ## https://journals.physiology.org
+ - [https://journals.physiology.org](https://journals.physiology.org)
+ - date_published: 2023-10-25T21:57:39.337860+00:00
+
+ ## PhysioNet
+ - [https://physionet.org](https://physionet.org)
+ - date_published: 2024-06-23T07:56:13.192541+00:00
+
+ ## PhysLab | Physics for a change
+ - [https://physlab.org](https://physlab.org)
+ - date_published: 2023-10-25T21:57:42.153348+00:00
+
+ ## Homepage
+ - [https://www.physoc.org](https://www.physoc.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## PhysPort: Supporting physics teaching with research-based resources
+ - [https://www.physport.org](https://www.physport.org)
+ - date_published: 2024-06-30T04:18:31.286982+00:00
+
+ ## PhysTEC | PhysTEC
+ - [https://www.phystec.org](https://www.phystec.org)
+ - date_published: 2024-06-30T04:18:37.418141+00:00
+
  ## Piano Day 2024 - Welcome
  - [https://www.pianoday.org](https://www.pianoday.org)
  - date_published: 2024-06-15T03:49:30+00:00
@@ -369,7 +572,7 @@
  - [http://www.pixelmonkey.org](http://www.pixelmonkey.org)
  - date_published: 2024-06-27T15:05:37.115253+00:00
 
- ## Show HN: Pixeltune, a nicer chiptune and VGM player
+ ## Pixeltune ― online MIDI and video game music (VGM) player
  - [https://pixeltune.org](https://pixeltune.org)
  - date_published: 2024-08-11T19:42:18+00:00
 
@@ -3829,206 +4032,4 @@
  ## ncte.org
  - [https://publicationsncte.org](https://publicationsncte.org)
  - date_published: 2024-05-07T10:11:51.683769+00:00
-
- ## Homepage - Public Books
- - [https://publicbooks.org](https://publicbooks.org)
- - date_published: 2023-10-25T22:00:55.631572+00:00
-
- ## Public Design Corps
- - [https://publicdesigncorps.org](https://publicdesigncorps.org)
- - date_published: 2024-07-08T14:53:35.576986+00:00
-
- ## Public Domain Manifesto
- - [http://www.publicdomainmanifesto.org](http://www.publicdomainmanifesto.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## The Public Domain Review – Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web
- - [https://publicdomainreview.org](https://publicdomainreview.org)
- - date_published: 2023-10-25T22:00:57.723285+00:00
-
- ## The Public Domain Review
- - [https://sendy.publicdomainreview.org](https://sendy.publicdomainreview.org)
- - date_published: 2024-05-08T12:00:12.369683+00:00
-
- ## Royalty-free vector clip art, svg files and graphics | Public domain vectors
- - [https://publicdomainvectors.org](https://publicdomainvectors.org)
- - date_published: 2023-12-06T12:52:35+00:00
- - tags: ['image assets']
-
- ## Home
- - [https://www.publicgardens.org](https://www.publicgardens.org)
- - date_published: 2024-06-18T21:48:55+00:00
-
- ## Homepage - Public Health Watch
- - [https://publichealthwatch.org](https://publichealthwatch.org)
- - date_published: 2023-12-19T05:58:20.462407+00:00
-
- ## Index of /
- - [https://public-inbox.org](https://public-inbox.org)
- - date_published: 2021-09-13T00:00:00+00:00
-
- ## Home - Initiative for Digital Public Infrastructure
- - [https://publicinfrastructure.org](https://publicinfrastructure.org)
- - date_published: 2023-10-25T22:00:59.372808+00:00
-
- ## Home
- - [https://apps.publicintegrity.org](https://apps.publicintegrity.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Model Legislation Tracker | Center for Public Integrity
- - [https://model-legislation.apps.publicintegrity.org](https://model-legislation.apps.publicintegrity.org)
- - date_published: 2024-05-08T12:00:51.910520+00:00
-
- ## Home
- - [https://publicintegrity.org](https://publicintegrity.org)
- - date_published: 2023-12-10T14:15:23.504603+00:00
-
- ## Home
- - [http://www.publicintegrity.org](http://www.publicintegrity.org)
- - date_published: 2024-06-27T09:13:54+00:00
-
- ## Home - The Public Interest Network
- - [https://publicinterestnetwork.org](https://publicinterestnetwork.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Registrar Portal
- - [https://registrar.publicinterestregistry.org](https://registrar.publicinterestregistry.org)
- - date_published: 2024-07-01T05:13:50.020661+00:00
-
- ## Home
- - [https://publicknowledge.org](https://publicknowledge.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Future Home of matomo.publicknowledgeproject.org
- - [https://matomo.publicknowledgeproject.org](https://matomo.publicknowledgeproject.org)
- - date_published: 2024-06-17T19:21:31.069141+00:00
-
- ## Community toolbox
- - [https://code.publiclab.org](https://code.publiclab.org)
- - date_published: 2021-03-30T21:15:05+00:00
-
- ## 🎈 Public Lab: a DIY environmental science community
- - [https://publiclab.org](https://publiclab.org)
- - date_published: 2024-05-09T04:11:24.380381+00:00
-
- ## 🎈 Public Lab: a DIY environmental science community
- - [http://publiclaboratory.org](http://publiclaboratory.org)
- - date_published: 2024-06-20T03:47:37.487247+00:00
-
- ## Public Media Market
- - [https://publicmediamarket.org](https://publicmediamarket.org)
- - date_published: 2024-05-08T10:01:58.324965+00:00
-
- ## Public News Service | News in the Public Interest
- - [https://www.publicnewsservice.org](https://www.publicnewsservice.org)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Public Philosophy Week
- - [https://www.publicphilosophyweek.org](https://www.publicphilosophyweek.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## American Public Media
- - [https://americanpublicmedia.publicradio.org](https://americanpublicmedia.publicradio.org)
- - date_published: 2024-05-08T10:57:27.686571+00:00
-
- ## Composers Datebook®
- - [http://composersdatebook.publicradio.org](http://composersdatebook.publicradio.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Support Minnesota Public Radio Today! | American Public Media
- - [https://contribute.publicradio.org](https://contribute.publicradio.org)
- - date_published: 2024-05-08T10:02:03.473403+00:00
-
- ## Calendar: Writer's Almanac 2014
- - [http://writersalmanac.publicradio.org](http://writersalmanac.publicradio.org)
- - date_published: 2024-06-24T10:04:42.693857+00:00
-
- ## Public Radio Custom Travel
- - [https://www.publicradiocustomtravel.org](https://www.publicradiocustomtravel.org)
- - date_published: 2024-07-07T10:34:25.309174+00:00
-
- ## Public Radio Tulsa Homepage
- - [https://www.publicradiotulsa.org](https://www.publicradiotulsa.org)
- - date_published: 2024-03-27T21:51:21.817005+00:00
-
- ## Public Seminar Home Page - Public Seminar
- - [https://publicseminar.org](https://publicseminar.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## PublicSource: Pittsburgh, Allegheny County news that matters
- - [http://publicsource.org](http://publicsource.org)
- - date_published: 2024-06-28T14:14:54+00:00
-
- ## Home - PublicSpace
- - [https://www.publicspace.org](https://www.publicspace.org)
- - date_published: 2024-07-14T23:28:48.724554+00:00
-
- ## Public Suffix List
- - [https://publicsuffix.org](https://publicsuffix.org)
- - date_published: 2024-06-17T07:28:18+00:00
-
- ## Home
- - [https://publictheater.org](https://publictheater.org)
- - date_published: 2024-06-20T11:44:28.797276+00:00
-
- ## Public Transportation
- - [http://www.publictransportation.org](http://www.publictransportation.org)
- - date_published: 2024-06-16T22:25:18+00:00
-
- ## Home Page - AAP
- - [https://publishers.org](https://publishers.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Publishers for Palestine
- - [https://publishersforpalestine.org](https://publishersforpalestine.org)
- - date_published: 2023-12-03T05:58:10.182044+00:00
- - tags: ['palestine']
-
- ## PubMedInfo - niewygodne informacje i komunikaty - Chcesz podejmować świadome decyzje na temat szczepień? Dowiedz się tego co jest pomijane w debacie na temat szczepień, aby móc takie decyzje podejmować.
- - [https://pubmedinfo.org](https://pubmedinfo.org)
- - date_published: 2023-10-25T22:01:02.466312+00:00
-
- ## AfricArXiv
- - [https://africarxiv.pubpub.org](https://africarxiv.pubpub.org)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Artificial Communication
- - [https://artificial-communication.pubpub.org](https://artificial-communication.pubpub.org)
- - date_published: 2024-07-01T15:25:03.745203+00:00
-
- ## https://assets.pubpub.org
- - [https://assets.pubpub.org](https://assets.pubpub.org)
- - date_published: 2024-01-23T19:09:02.082157+00:00
-
- ## Bulletin of the AAS
- - [https://baas.pubpub.org](https://baas.pubpub.org)
- - date_published: 2024-08-11T15:10:44.625306+00:00
-
- ## Bee XML Journal
- - [https://beexml.pubpub.org](https://beexml.pubpub.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The MIT Press - open access @ PubPub
- - [https://bookbook.pubpub.org](https://bookbook.pubpub.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Digital Scholarship at the British Library
- - [https://britishlibrary.pubpub.org](https://britishlibrary.pubpub.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Contours Collaborations: Border Crossings in Art and Humanities
- - [https://contours.pubpub.org](https://contours.pubpub.org)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Cryptoeconomic Systems
- - [https://cryptoeconomicsystems.pubpub.org](https://cryptoeconomicsystems.pubpub.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Data & Analytics for Good
- - [https://data-for-good.pubpub.org](https://data-for-good.pubpub.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Design Justice
- - [https://design-justice.pubpub.org](https://design-justice.pubpub.org)
- - date_published: 2024-07-01T00:00:00+00:00
 

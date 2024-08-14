@@ -1,3 +1,172 @@
+ ## PUMA Group
+ - [https://pumagroup.tumblr.com](https://pumagroup.tumblr.com)
+ - date_published: 2016-10-06T00:00:00+00:00
+
+ ## chaotic good, bitch!
+ - [https://punkbarbarian.tumblr.com](https://punkbarbarian.tumblr.com)
+ - date_published: 2024-06-27T04:36:14.493122+00:00
+
+ ## punkitt blog zone
+ - [https://punkitt-is-here.tumblr.com](https://punkitt-is-here.tumblr.com)
+ - date_published: 2024-06-27T02:59:18.833636+00:00
+
+ ## Devious Jack
+ - [https://punkrorschach.tumblr.com](https://punkrorschach.tumblr.com)
+ - date_published: 2024-07-08T09:30:42.658092+00:00
+
+ ## The Real
+Puppy95©️
+ - [https://puppy95.tumblr.com](https://puppy95.tumblr.com)
+ - date_published: 2024-06-27T03:31:01.930835+00:00
+
+ ## Pure Numbers Daily Blog
+ - [https://purenumbers.tumblr.com](https://purenumbers.tumblr.com)
+ - date_published: 2024-06-30T08:25:53.323295+00:00
+
+ ## so we fell in love a little bit
+ - [https://purlturtle.tumblr.com](https://purlturtle.tumblr.com)
+ - date_published: 2024-05-06T20:33:47.038686+00:00
+
+ ## Tumblr
+ - [http://pushthemovement.tumblr.com](http://pushthemovement.tumblr.com)
+ - date_published: 2024-06-27T08:58:21.610509+00:00
+
+ ## queer dreams
+ - [https://puttingwingsonwords.tumblr.com](https://puttingwingsonwords.tumblr.com)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## glory to the resistance!
+ - [https://pyaasa.tumblr.com](https://pyaasa.tumblr.com)
+ - date_published: 2024-06-27T03:17:10.286843+00:00
+
+ ## Why do I even try
+ - [http://pybun.tumblr.com](http://pybun.tumblr.com)
+ - date_published: 2024-07-12T22:07:44.162600+00:00
+
+ ## PyTennessee 2017
+ - [https://pytennessee.tumblr.com](https://pytennessee.tumblr.com)
+ - date_published: 2024-06-28T20:11:10.436885+00:00
+
+ ## qrbits
+ - [https://qrbits.tumblr.com](https://qrbits.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Quadball Consent
+ - [https://quadballconsent.tumblr.com](https://quadballconsent.tumblr.com)
+ - date_published: 2024-05-06T20:42:16.593565+00:00
+
+ ## Quantum Artist
+ - [http://quantumartist.tumblr.com](http://quantumartist.tumblr.com)
+ - date_published: 2024-07-12T23:27:29.844003+00:00
+
+ ## This Insignificant Pride Of Mine
+ - [https://queenoftheantz.tumblr.com](https://queenoftheantz.tumblr.com)
+ - date_published: 2024-06-27T04:17:00.407222+00:00
+
+ ## most beautiful broom in a broomcloset of brooms
+ - [https://queenofthepassiveaggressive.tumblr.com](https://queenofthepassiveaggressive.tumblr.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Queer Anarchism
+ - [https://queeranarchism.tumblr.com](https://queeranarchism.tumblr.com)
+ - date_published: 2024-06-26T10:11:01.329027+00:00
+
+ ## Tumblr
+ - [https://queersona.tumblr.com](https://queersona.tumblr.com)
+ - date_published: 2024-06-27T02:57:56.986281+00:00
+
+ ## Queis Theme
+ - [http://queis-theme.tumblr.com](http://queis-theme.tumblr.com)
+ - date_published: 2024-06-27T04:31:38.065811+00:00
+
+ ## eggstra cheesy?
+ - [https://quesadilla-day.tumblr.com](https://quesadilla-day.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Quiddity
+ - [https://quiddity-jones.tumblr.com](https://quiddity-jones.tumblr.com)
+ - date_published: 2024-06-18T17:55:53.508194+00:00
+
+ ## www.daltonfinancialnews.com
+ - [http://quimstick.tumblr.com](http://quimstick.tumblr.com)
+ - date_published: 2024-07-11T14:04:15.988973+00:00
+
+ ## Dinosaur Comics!
+ - [https://qwantzfeed.tumblr.com](https://qwantzfeed.tumblr.com)
+ - date_published: 2024-05-13T03:26:08.748995+00:00
+
+ ## Qwertystop
+ - [https://qwertystop.tumblr.com](https://qwertystop.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Rachelskirts || Tumblr
+ - [http://rachelskirts.tumblr.com](http://rachelskirts.tumblr.com)
+ - date_published: 2015-08-17T00:00:00+00:00
+
+ ## Rand Adams
+ - [http://r-adams.tumblr.com](http://r-adams.tumblr.com)
+ - date_published: 2024-07-13T02:44:00.609121+00:00
+
+ ## Radio Free Andrew
+ - [http://radiofreeandrew.tumblr.com](http://radiofreeandrew.tumblr.com)
+ - date_published: 2014-04-08T00:00:00+00:00
+
+ ## Good Night, and Good Luck
+ - [https://radiofreederry.tumblr.com](https://radiofreederry.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## the ragbag
+ - [https://ragbag.tumblr.com](https://ragbag.tumblr.com)
+ - date_published: 2024-07-02T06:02:21.171583+00:00
+
+ ## i am reginald reagan aka RAGIN' RAYGUNS
+ - [https://raginrayguns.tumblr.com](https://raginrayguns.tumblr.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Rails Girls
+ - [https://railsgirls.tumblr.com](https://railsgirls.tumblr.com)
+ - date_published: 2024-07-03T06:18:58.852032+00:00
+
+ ## Tumblr
+ - [https://railway-covidae.tumblr.com](https://railway-covidae.tumblr.com)
+ - date_published: 2024-06-27T03:05:55.843224+00:00
+
+ ## Rainbowfic
+ - [https://rainbowfic.tumblr.com](https://rainbowfic.tumblr.com)
+ - date_published: 2024-07-02T08:58:52.021853+00:00
+
+ ## Like in the Sky.
+ - [https://rainbowrowell.tumblr.com](https://rainbowrowell.tumblr.com)
+ - date_published: 2024-07-17T09:58:23.129397+00:00
+
+ ## Coming Soon to a Roadside Ditch Near You!
+ - [https://ramshacklefey.tumblr.com](https://ramshacklefey.tumblr.com)
+ - date_published: 2024-07-11T22:10:56.218364+00:00
+
+ ## *muffled ribbits*
+ - [https://ranch-dressing-flavored-frog.tumblr.com](https://ranch-dressing-flavored-frog.tumblr.com)
+ - date_published: 2024-06-27T05:15:56.101299+00:00
+
+ ## they paint the world full of shadows
+ - [https://random-brushstrokes.tumblr.com](https://random-brushstrokes.tumblr.com)
+ - date_published: 2024-06-27T04:16:14.270672+00:00
+
+ ## Random Shopper
+ - [https://randomshopper.tumblr.com](https://randomshopper.tumblr.com)
+ - date_published: 2024-04-30T06:18:38.832941+00:00
+
+ ## None Fandom, Left Airplanes
+ - [https://randomslasher.tumblr.com](https://randomslasher.tumblr.com)
+ - date_published: 2024-05-06T20:30:56.463971+00:00
+
+ ## Randomy Random Things
+ - [https://randomyrandomthings.tumblr.com](https://randomyrandomthings.tumblr.com)
+ - date_published: 2024-06-03T13:01:42.666240+00:00
+
+ ## Tumblr
+ - [https://rare-basement.tumblr.com](https://rare-basement.tumblr.com)
+ - date_published: 2024-07-17T09:58:17.554707+00:00
+
  ## rarestarwars
  - [https://rarestarwars.tumblr.com](https://rarestarwars.tumblr.com)
  - date_published: 2016-01-23T00:00:00+00:00
@@ -1104,6 +1273,10 @@
  ## Heehoo Peanut
  - [https://spooky-bard.tumblr.com](https://spooky-bard.tumblr.com)
  - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Spudart
+ - [https://spudart.tumblr.com](https://spudart.tumblr.com)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## spyderqueen
  - [https://spyderqueen.tumblr.com](https://spyderqueen.tumblr.com)
@@ -3842,178 +4015,4 @@ Students
  ## Tuto et Formation Photoshop, After Effects, Photo, Lightroom, PHP en vidéo
  - [https://fr.tuto.com](https://fr.tuto.com)
  - date_published: 2024-05-01T01:56:41.276839+00:00
-
- ## Sign in - Matomo
- - [https://stats.tuto.com](https://stats.tuto.com)
- - date_published: 2024-06-15T01:05:10.302438+00:00
-
- ## Tutorial Republic - Online Web Development Tutorials
- - [https://tutorialrepublic.com](https://tutorialrepublic.com)
- - date_published: 2024-05-07T19:54:07.981779+00:00
-
- ## Online Tutorials, Courses, and eBooks Library | Tutorialspoint
- - [https://tutorialspoint.com](https://tutorialspoint.com)
- - date_published: 2024-05-08T07:03:45.846713+00:00
-
- ## Tutorialzine
- - [https://tutorialzine.com](https://tutorialzine.com)
- - date_published: 2022-07-11T16:47:38+00:00
-
- ## TutoTOONS Kids Games Studio & Publisher - Official Website
- - [https://tutotoons.com](https://tutotoons.com)
- - date_published: 2024-07-01T11:50:58.782690+00:00
-
- ## Tuts 4 You
- - [https://forum.tuts4you.com](https://forum.tuts4you.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Business Courses and Tutorials | Envato Tuts+
- - [https://business.tutsplus.com](https://business.tutsplus.com)
- - date_published: 2024-06-21T20:01:46.929312+00:00
-
- ## 3D & Motion Graphics Courses and Tutorials | Envato Tuts+
- - [https://cgi.tutsplus.com](https://cgi.tutsplus.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Code Courses and Tutorials | Envato Tuts+
- - [https://code.tutsplus.com](https://code.tutsplus.com)
- - date_published: 2024-05-12T06:32:13.646423+00:00
-
- ## Computer Skills Courses and Tutorials | Envato Tuts+
- - [https://computers.tutsplus.com](https://computers.tutsplus.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Design & Illustration Courses and Tutorials | Envato Tuts+
- - [https://design.tutsplus.com](https://design.tutsplus.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Game Development Courses and Tutorials | Envato Tuts+
- - [https://gamedevelopment.tutsplus.com](https://gamedevelopment.tutsplus.com)
- - date_published: 2024-08-07T18:58:52.729910+00:00
-
- ## Free Courses, Tutorials, Tips & Tricks with Envato Tuts+
- - [https://hub.tutsplus.com](https://hub.tutsplus.com)
- - date_published: 2024-05-11T10:26:15.816745+00:00
-
- ## Music & Audio Courses and Tutorials | Envato Tuts+
- - [https://music.tutsplus.com](https://music.tutsplus.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Video Courses and Tutorials | Envato Tuts+
- - [https://photography.tutsplus.com](https://photography.tutsplus.com)
- - date_published: 2024-06-21T20:01:54.372110+00:00
-
- ## Free Courses, Tutorials, Tips & Tricks with Envato Tuts+
- - [https://tutsplus.com](https://tutsplus.com)
- - date_published: 2024-05-11T10:26:23.221468+00:00
-
- ## Web Design Courses and Tutorials | Envato Tuts+
- - [https://webdesign.tutsplus.com](https://webdesign.tutsplus.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Code Courses and Tutorials | Envato Tuts+
- - [http://wp.tutsplus.com](http://wp.tutsplus.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Tutto calcio femminile, TCF: il calcio femminile raccontato dagli esperti del settore - Tutto Calcio Femminile
- - [https://www.tuttocalciofemminile.com](https://www.tuttocalciofemminile.com)
- - date_published: 2024-08-08T21:40:32+00:00
-
- ## Tuttur.com | İddaa | Bahis | Spor Toto | Milli Piyango | TJK At Yarışı
- - [https://tuttur.com](https://tuttur.com)
- - date_published: 2024-07-10T06:55:14.072679+00:00
-
- ## Home Page - Risktec - Risk Assessment and Management
- - [http://www.risktec.tuv.com](http://www.risktec.tuv.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## TUV NORD Worldwide
- - [http://www.tuv-nord.com](http://www.tuv-nord.com)
- - date_published: 2024-07-02T22:32:00+00:00
-
- ## tuvpn.com
- - [http://blog.tuvpn.com](http://blog.tuvpn.com)
- - date_published: 2024-07-09T18:45:45.630214+00:00
-
- ## https://www.tuvsud.com
- - [https://www.tuvsud.com](https://www.tuvsud.com)
- - date_published: 2023-12-25T09:44:01.489281+00:00
- - tags: ['automotive', 'certificate']
-
- ## Wrocław • Wiadomości wydarzenia informacje imprezy inwestycje • tuwroclaw.com
- - [https://tuwroclaw.com](https://tuwroclaw.com)
- - date_published: 2024-08-11T16:49:05+00:00
-
- ## Hostnet: De grootste domeinnaam- en hostingprovider van Nederland.
- - [http://www.t-ux.com](http://www.t-ux.com)
- - date_published: 2024-07-18T04:49:44.194495+00:00
-
- ## Tuxbrain.com
- - [https://tuxbrain.com](https://tuxbrain.com)
- - date_published: 2024-07-19T16:35:55.717572+00:00
-
- ## Tuxcare | Changelog
- - [http://changelog.tuxcare.com](http://changelog.tuxcare.com)
- - date_published: 2023-01-26T09:37:52+00:00
-
- ## CVE dashboard by TuxСare
- - [https://cve.tuxcare.com](https://cve.tuxcare.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Home
- - [https://tuxcare.com](https://tuxcare.com)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## TuxDigital
- - [https://tuxdigital.com](https://tuxdigital.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## RetroChallenge
- - [http://retrochallenge.tuxdriver.com](http://retrochallenge.tuxdriver.com)
- - date_published: 2024-06-28T23:17:21+00:00
-
- ## Index of /
- - [https://os.tuxedocomputers.com](https://os.tuxedocomputers.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## TUXEDO Computers
- - [https://tuxedocomputers.com](https://tuxedocomputers.com)
- - date_published: 2024-06-16T02:39:14.603411+00:00
- - tags: ['linux', 'laptop']
-
- ## Tuxedo Labs
- - [https://www.tuxedolabs.com](https://www.tuxedolabs.com)
- - date_published: 2024-04-29T09:42:06+00:00
-
- ## TuxPhones - Linux phones, tablets and portable devices
- - [https://tuxphones.com](https://tuxphones.com)
- - date_published: 2023-10-25T17:50:19.263654+00:00
-
- ## Brain Dump — Geoff's Technical Notebook
- - [https://geoff.tuxpup.com](https://geoff.tuxpup.com)
- - date_published: 2023-10-25T17:50:20.921936+00:00
-
- ## Tuxedo Puppy Heavy Industries
- - [https://www.tuxpup.com](https://www.tuxpup.com)
- - date_published: 2023-12-24T13:59:53+00:00
-
- ## Accueil | TV5MONDE Afrique
- - [https://afrique.tv5monde.com](https://afrique.tv5monde.com)
- - date_published: 2024-06-17T15:15:58+00:00
-
- ## Apprendre le français FLE gratuitement, cours de français avec TV5MONDE
- - [https://apprendre.tv5monde.com](https://apprendre.tv5monde.com)
- - date_published: 2024-05-02T10:27:21.926604+00:00
-
- ## Bibliothèque Numérique TV5MONDE
- - [http://bibliothequenumerique.tv5monde.com](http://bibliothequenumerique.tv5monde.com)
- - date_published: 2024-06-17T15:42:58.533061+00:00
-
- ## Culture
- - [https://culture.tv5monde.com](https://culture.tv5monde.com)
- - date_published: 2024-06-17T15:42:13+00:00
-
- ## Dictée d'Archibald : dictée en français en ligne
- - [http://dictee.tv5monde.com](http://dictee.tv5monde.com)
- - date_published: 2024-06-17T15:44:04.894883+00:00
 

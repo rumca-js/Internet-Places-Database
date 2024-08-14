@@ -1,3 +1,157 @@
+ ## O semestre que falta na sua faculdade em ciência da computação
+ - [https://missing-semester-pt.github.io](https://missing-semester-pt.github.io)
+ - date_published: 2022-10-04T10:57:21+00:00
+
+ ## Пропущенный семестр курса по компьютерным наукам (Computer Science)
+ - [https://missing-semester-rus.github.io](https://missing-semester-rus.github.io)
+ - date_published: 2024-04-08T09:45:32+00:00
+
+ ## Hiç Anlatılmamış Bilgisayar Bilimleri Döneminiz
+ - [https://missing-semester-tr.github.io](https://missing-semester-tr.github.io)
+ - date_published: 2022-10-19T20:43:11+00:00
+
+ ## Kì Học Bị Thiếu Của Giáo Trình Khoa Học Máy Tính
+ - [https://missing-semester-vn.github.io](https://missing-semester-vn.github.io)
+ - date_published: 2022-09-29T08:15:47+00:00
+
+ ## The Missing Semester of Your CS Education
+ - [https://missing-semester-zh-hant.github.io](https://missing-semester-zh-hant.github.io)
+ - date_published: 2021-03-27T09:05:17+00:00
+
+ ## Page Redirection
+ - [https://mister-devel.github.io](https://mister-devel.github.io)
+ - date_published: 2019-01-17T05:33:08+00:00
+
+ ## Mist
+ - [https://mist-project.github.io](https://mist-project.github.io)
+ - date_published: 2023-10-25T19:49:50.638949+00:00
+
+ ## Mitchell Wortsman
+ - [https://mitchellnw.github.io](https://mitchellnw.github.io)
+ - date_published: 2024-02-05T18:39:41+00:00
+
+ - [https://mitenmit.github.io](https://mitenmit.github.io)
+ - date_published: 2024-02-02T08:24:44.653241+00:00
+
+ ## Michael Tschannen
+ - [https://mitscha.github.io](https://mitscha.github.io)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## miyuki's blog
+ - [https://miyuki.github.io](https://miyuki.github.io)
+ - date_published: 2017-10-14T21:05:51+00:00
+
+ ## Minjune Hwang
+ - [https://mj-hwang.github.io](https://mj-hwang.github.io)
+ - date_published: 2024-04-25T08:24:58+00:00
+
+ ## Matthias Minderer
+ - [https://mjlm.github.io](https://mjlm.github.io)
+ - date_published: 2024-05-04T11:54:04+00:00
+
+ ## Michael Van Leeuwen | Redirect
+ - [https://mjvl.github.io](https://mjvl.github.io)
+ - date_published: 2024-06-06T13:56:39.589698+00:00
+ - tags: ['personal']
+
+ ## Khafizi Noh
+ - [https://mkfizi.github.io](https://mkfizi.github.io)
+ - date_published: 2023-11-16T12:01:29+00:00
+
+ ## Mick Marchan
+ - [https://mkmarchan.github.io](https://mkmarchan.github.io)
+ - date_published: 2023-08-01T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Matt Korostoff
+ - [https://mkorostoff.github.io](https://mkorostoff.github.io)
+ - date_published: 2022-07-06T19:09:20+00:00
+
+ ## Max Kreminski
+ - [https://mkremins.github.io](https://mkremins.github.io)
+ - date_published: 2024-01-31T06:27:13.874780+00:00
+
+ ## Symposium on Machine Learning for Autonomous Driving
+ - [https://ml4ad.github.io](https://ml4ad.github.io)
+ - date_published: 2023-12-16T08:11:10+00:00
+
+ ## ML4Eng @ NeurIPS 2020
+ - [https://ml4eng.github.io](https://ml4eng.github.io)
+ - date_published: 2021-01-24T22:01:24+00:00
+
+ ## Repositories
+ - [https://mlochbaum.github.io](https://mlochbaum.github.io)
+ - date_published: 2023-10-19T16:08:01+00:00
+
+ ## ML@Purdue
+ - [https://ml-purdue.github.io](https://ml-purdue.github.io)
+ - date_published: 2024-03-03T17:19:11+00:00
+
+ ## ML Speech Group @ BIU: Home
+ - [https://mlspeech.github.io](https://mlspeech.github.io)
+ - date_published: 2019-11-24T16:29:37+00:00
+
+ ## Visual Explanations of Core Machine Learning Concepts
+ - [https://mlu-explain.github.io](https://mlu-explain.github.io)
+ - date_published: 2023-06-16T15:59:59+00:00
+
+ ## Sirius Business
+ - [https://mmalmi.github.io](https://mmalmi.github.io)
+ - date_published: 2021-09-27T00:00:00+00:00
+
+ ## Michael's Notebook
+ - [https://mnielsen.github.io](https://mnielsen.github.io)
+ - date_published: 2024-05-08T05:51:35.389533+00:00
+
+ ## Michael Niemeyer
+ - [https://m-niemeyer.github.io](https://m-niemeyer.github.io)
+ - date_published: 2024-03-24T15:55:32+00:00
+
+ ## home
+ - [https://mnky9800n.github.io](https://mnky9800n.github.io)
+ - date_published: 2023-10-25T08:49:23.910775+00:00
+ - tags: ['personal']
+
+ ## Mnpn
+ - [https://mnpn.github.io](https://mnpn.github.io)
+ - date_published: 2023-10-25T19:49:53.566169+00:00
+
+ ## Moritz Firsching
+ - [https://mo271.github.io](https://mo271.github.io)
+ - date_published: 2024-07-02T14:36:50+00:00
+
+ ## Learning bimanual mobile manipulation with low-cost whole-body teleoperation
+ - [https://mobile-aloha.github.io](https://mobile-aloha.github.io)
+ - date_published: 2024-01-05T03:42:01+00:00
+
+ ## MobileNeRF
+ - [https://mobile-nerf.github.io](https://mobile-nerf.github.io)
+ - date_published: 2023-06-02T03:29:29+00:00
+
+ ## MobileOrg
+ - [https://mobileorg.github.io](https://mobileorg.github.io)
+ - date_published: 2020-09-19T20:00:29+00:00
+
+ ## Mobius Labs
+ - [https://mobiusml.github.io](https://mobiusml.github.io)
+ - date_published: 2024-03-29T17:02:24.753439+00:00
+
+ ## https://mode80.github.io
+ - [https://mode80.github.io](https://mode80.github.io)
+ - date_published: 2024-01-09T03:32:52.514211+00:00
+
+ ## About Modularity
+ - [https://modularity-conference.github.io](https://modularity-conference.github.io)
+ - date_published: 2024-03-26T19:15:22+00:00
+
+ ## Home
+ - [https://mohamedrezk122.github.io](https://mohamedrezk122.github.io)
+ - date_published: 2023-07-18T00:00:00+00:00
+
+ ## Mohamed’s Corner
+ - [https://mohamexiety.github.io](https://mohamexiety.github.io)
+ - date_published: 2023-08-28T18:23:57+00:00
+
  ## Home
  - [https://mohitsharma0690.github.io](https://mohitsharma0690.github.io)
  - date_published: 2024-01-27T00:00:00+00:00
@@ -3885,159 +4039,4 @@
  ## Alexey Evseev
  - [https://st4lk.github.io](https://st4lk.github.io)
  - date_published: 2024-06-16T19:01:00+00:00
-
- ## Stack Overflow OSS
- - [https://stackexchange.github.io](https://stackexchange.github.io)
- - date_published: 2022-05-27T21:16:35+00:00
-
- ## Autonomous Systems Laboratory
- - [https://stanfordasl.github.io](https://stanfordasl.github.io)
- - date_published: 2024-05-08T01:03:01+00:00
-
- ## Redirecting ...
- - [https://stanford-cs161.github.io](https://stanford-cs161.github.io)
- - date_published: 2024-02-08T17:36:20.210209+00:00
-
- ## Computing & Society @ Stanford
- - [https://stanford-cscs.github.io](https://stanford-cscs.github.io)
- - date_published: 2022-09-15T18:39:09+00:00
-
- ## https://stanforddatascience.github.io
- - [https://stanforddatascience.github.io](https://stanforddatascience.github.io)
- - date_published: 2023-11-12T20:45:27.941454+00:00
-
- ## CS278 Assign 2
- - [https://stanfordhci.github.io](https://stanfordhci.github.io)
- - date_published: 2024-04-18T22:45:07+00:00
-
- ## Stanford NLP Group   | Software Summary
- - [https://stanfordnlp.github.io](https://stanfordnlp.github.io)
- - date_published: 2020-03-25T18:06:23+00:00
-
- ## Stanford-ORB: Real-World 3D Object Inverse Rendering Benchmark
- - [https://stanfordorb.github.io](https://stanfordorb.github.io)
- - date_published: 2024-01-31T09:13:26+00:00
-
- ## Marko Stanić
- - [https://staniks.github.io](https://staniks.github.io)
- - date_published: 2024-06-13T06:40:33.677843+00:00
- - tags: ['personal']
-
- ## Stan Lazic homepage
- - [https://stanlazic.github.io](https://stanlazic.github.io)
- - date_published: 2024-05-01T20:49:29+00:00
-
- ## Stardust: GPU-based Visualization Library
- - [https://stardustjs.github.io](https://stardustjs.github.io)
- - date_published: 2019-02-19T00:42:27+00:00
-
- ## Welcome to the world of Statecharts
- - [https://statecharts.github.io](https://statecharts.github.io)
- - date_published: 2021-10-30T23:43:22+00:00
-
- ## Statping-ng - Monitor your Web Services
- - [https://statping-ng.github.io](https://statping-ng.github.io)
- - date_published: 2023-09-24T20:06:19+00:00
- - tags: ['monitor', 'self-host', 'web services']
-
- ## stb-gaming.github.io
- - [https://stb-gaming.github.io](https://stb-gaming.github.io)
- - date_published: 2024-02-06T10:22:18+00:00
-
- ## stdnoerr's blog
- - [https://stdnoerr.github.io](https://stdnoerr.github.io)
- - date_published: 2022-09-01T14:35:49+00:00
- - tags: ['personal']
-
- ## Stefantastic
- - [http://stefanavey.github.io](http://stefanavey.github.io)
- - date_published: 2023-01-14T18:12:43+00:00
-
- ## Stefania Druga
- - [https://stefania11.github.io](https://stefania11.github.io)
- - date_published: 2024-05-08T23:26:16+00:00
-
- ## academicpages is a ready-to-fork GitHub Pages template for academic personal websites
- - [https://stellaludai.github.io](https://stellaludai.github.io)
- - date_published: 2023-08-17T09:12:10+00:00
-
- ## Stephanie Fu
- - [https://stephanie-fu.github.io](https://stephanie-fu.github.io)
- - date_published: 2023-10-19T19:19:40+00:00
-
- ## Mixture of Volumetric Primitives
- - [https://stephenlombardi.github.io](https://stephenlombardi.github.io)
- - date_published: 2022-10-03T21:43:28+00:00
-
- ## Stephen Tu
- - [https://stephentu.github.io](https://stephentu.github.io)
- - date_published: 2024-06-04T18:39:00+00:00
-
- ## Stephan Xie
- - [https://stephofx.github.io](https://stephofx.github.io)
- - date_published: 2024-04-07T16:31:28+00:00
-
- ## Stephen James
- - [https://stepjam.github.io](https://stepjam.github.io)
- - date_published: 2024-07-12T08:05:02+00:00
-
- ## Sam Tertooy
- - [https://stertooy.github.io](https://stertooy.github.io)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Stevan's notes
- - [https://stevana.github.io](https://stevana.github.io)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Steve Best
- - [https://steve-best.github.io](https://steve-best.github.io)
- - date_published: 2024-05-07T23:23:28.410287+00:00
-
- ## Steve Krouse
- - [https://stevekrouse.github.io](https://stevekrouse.github.io)
- - date_published: 2022-09-29T00:00:00+00:00
-
- ## Shaowei Liu
- - [https://stevenlsw.github.io](https://stevenlsw.github.io)
- - date_published: 2023-10-06T04:20:56+00:00
-
- ## Weiting Tan's Homepage
- - [https://steventan0110.github.io](https://steventan0110.github.io)
- - date_published: 2023-11-11T20:35:52+00:00
-
- ## Steve Jan
- - [https://stevetkjan.github.io](https://stevetkjan.github.io)
- - date_published: 2022-07-15T02:27:40+00:00
-
- ## Stephen Tian
- - [https://s-tian.github.io](https://s-tian.github.io)
- - date_published: 2023-12-06T23:53:14+00:00
-
- ## STIX - Structured Threat Information Expression (Archive) | STIX Project Documentation
- - [http://stixproject.github.io](http://stixproject.github.io)
- - date_published: 2021-08-23T17:50:39+00:00
-
- ## ST-JS: Borrowing Java's syntax to write type-safe JavaScript
- - [https://st-js.github.io](https://st-js.github.io)
- - date_published: 2017-05-23T13:04:02+00:00
-
- ## Tzu-Ming Harry Hsu, Ph.D. Student, MIT EECS
- - [https://stmharry.github.io](https://stmharry.github.io)
- - date_published: 2022-11-20T14:08:02+00:00
-
- ## StoryDiffusion: Long-range image and video generation
- - [https://storydiffusion.github.io](https://storydiffusion.github.io)
- - date_published: 2024-05-01T00:07:08+00:00
-
- ## StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
- - [https://streamingt2v.github.io](https://streamingt2v.github.io)
- - date_published: 2024-04-08T08:12:25+00:00
-
- ## Luciano Strika (@StrikingLoo)'s Personal Website
- - [https://strikingloo.github.io](https://strikingloo.github.io)
- - date_published: 2024-05-07T23:13:20.434536+00:00
-
- ## StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects
- - [https://structdiffusion.github.io](https://structdiffusion.github.io)
- - date_published: 2023-07-10T21:44:17+00:00
 

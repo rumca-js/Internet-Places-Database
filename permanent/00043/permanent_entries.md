@@ -1,3 +1,75 @@
+ ## MAA Books
+ - [https://maabooks.blogspot.com](https://maabooks.blogspot.com)
+ - date_published: 2024-03-14T04:37:28+00:00
+
+ ## MAA MinuteMath
+ - [https://maaminutemath.blogspot.com](https://maaminutemath.blogspot.com)
+ - date_published: 2024-05-08T09:48:24.812148+00:00
+
+ ## NumberADay
+ - [https://maanumberaday.blogspot.com](https://maanumberaday.blogspot.com)
+ - date_published: 2024-05-08T09:48:26.679060+00:00
+
+ ## Blogger
+ - [http://mabney.blogspot.com](http://mabney.blogspot.com)
+ - date_published: 2024-07-20T21:16:52.280304+00:00
+
+ ## Mac For Translators
+ - [https://mac4translators.blogspot.com](https://mac4translators.blogspot.com)
+ - date_published: 2023-04-14T00:00:00+00:00
+
+ ## Macau Antigo
+ - [http://macauantigo.blogspot.com](http://macauantigo.blogspot.com)
+ - date_published: 2024-07-12T18:49:51+00:00
+
+ ## Stro'Knor Macekiller
+ - [https://macekiller.blogspot.com](https://macekiller.blogspot.com)
+ - date_published: 2024-04-04T09:19:41+00:00
+
+ ## Scott Mace on Healthcare
+ - [https://maceonhealthcare.blogspot.com](https://maceonhealthcare.blogspot.com)
+ - date_published: 2024-03-05T18:25:36+00:00
+
+ ## The Thunder Guard
+ - [http://macharianthunderguard.blogspot.com](http://macharianthunderguard.blogspot.com)
+ - date_published: 2024-07-17T10:53:18+00:00
+
+ ## Social Media, Data Mining & Machine Learning
+ - [http://machine-learning.blogspot.com](http://machine-learning.blogspot.com)
+ - date_published: 2024-04-27T01:05:07+00:00
+
+ ## Machine Vision 4 Users
+ - [http://machinevision4users.blogspot.com](http://machinevision4users.blogspot.com)
+ - date_published: 2024-06-11T23:52:06+00:00
+
+ ## Typecasting in China
+ - [http://machopolitan.blogspot.com](http://machopolitan.blogspot.com)
+ - date_published: 2024-01-04T23:59:21+00:00
+
+ ## MacPhee's Miniature Men
+ - [http://macpheesminiaturemen.blogspot.com](http://macpheesminiaturemen.blogspot.com)
+ - date_published: 2024-07-17T10:53:18+00:00
+
+ ## Old Battleshed Diaries
+ - [http://macrminiadventures.blogspot.com](http://macrminiadventures.blogspot.com)
+ - date_published: 2023-11-15T15:43:31+00:00
+
+ ## Macro Musings Blog
+ - [http://macromarketmusings.blogspot.com](http://macromarketmusings.blogspot.com)
+ - date_published: 2024-06-15T11:05:33+00:00
+
+ ## Mac's Little Friends
+ - [http://macslittlefriends.blogspot.com](http://macslittlefriends.blogspot.com)
+ - date_published: 2024-06-05T06:34:25+00:00
+
+ ## James Strachan's Blog
+ - [http://macstrac.blogspot.com](http://macstrac.blogspot.com)
+ - date_published: 2024-03-14T03:28:32+00:00
+
+ ## NOTURNO
+ - [http://madalena-noturno.blogspot.com](http://madalena-noturno.blogspot.com)
+ - date_published: 2024-03-14T05:43:33+00:00
+
  ## Anna Chen: Madam Miaow Says
  - [http://madammiaow.blogspot.com](http://madammiaow.blogspot.com)
  - date_published: 2024-06-14T14:19:00+00:00
@@ -3950,76 +4022,4 @@
  ## Jika penis bisa bicara
  - [http://peniscab.blogspot.com](http://peniscab.blogspot.com)
  - date_published: 2024-03-14T02:39:22+00:00
-
- ## penmachinedad
- - [https://penmachinedad.blogspot.com](https://penmachinedad.blogspot.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## Here, There, and Everywhere
- - [http://penrodpostings.blogspot.com](http://penrodpostings.blogspot.com)
- - date_published: 2024-07-11T18:04:17+00:00
-
- ## Right Wing Extreme
- - [http://peoplesrepublicofamerica.blogspot.com](http://peoplesrepublicofamerica.blogspot.com)
- - date_published: 2024-03-06T20:03:29+00:00
-
- ## People them with Monsters
- - [http://peoplethemwithmonsters.blogspot.com](http://peoplethemwithmonsters.blogspot.com)
- - date_published: 2024-07-13T06:05:28+00:00
-
- ## Peplers In Rye
- - [http://peplers.blogspot.com](http://peplers.blogspot.com)
- - date_published: 2024-05-10T20:37:09+00:00
-
- ## Putz Blog
- - [http://peputz.blogspot.com](http://peputz.blogspot.com)
- - date_published: 2024-06-25T09:03:13+00:00
-
- ## Adrian Cockcroft's Blog
- - [https://perfcap.blogspot.com](https://perfcap.blogspot.com)
- - date_published: 2024-07-17T05:54:05+00:00
-
- ## Performance Juridique
- - [http://performancejuridique.blogspot.com](http://performancejuridique.blogspot.com)
- - date_published: 2024-03-22T00:56:53+00:00
-
- ## A Walk On The Natural Side
- - [http://perhapsallnatural.blogspot.com](http://perhapsallnatural.blogspot.com)
- - date_published: 2024-06-07T14:50:59+00:00
-
- ## ΠΕΡΙΓΛΩΣΣΙΟ
- - [http://periglwssio.blogspot.com](http://periglwssio.blogspot.com)
- - date_published: 2024-03-25T06:09:19+00:00
-
- ## Perki Bremen
- - [http://perkibremen2009.blogspot.com](http://perkibremen2009.blogspot.com)
- - date_published: 2024-03-08T04:09:22+00:00
-
- ## Basilea ton Romaion
- - [http://perriscooley.blogspot.com](http://perriscooley.blogspot.com)
- - date_published: 2024-03-05T13:59:46+00:00
-
- ## Persepolis Fortification Archive Project
- - [http://persepolistablets.blogspot.com](http://persepolistablets.blogspot.com)
- - date_published: 2024-03-13T10:34:14+00:00
-
- ## Perth Daily Photo
- - [http://perthdailyphoto.blogspot.com](http://perthdailyphoto.blogspot.com)
- - date_published: 2024-07-17T10:53:36+00:00
-
- ## Location-based Games - gaming in physical space
- - [http://pervasivegames.blogspot.com](http://pervasivegames.blogspot.com)
- - date_published: 2024-03-14T08:10:36+00:00
-
- ## The Pervocracy
- - [http://pervocracy.blogspot.com](http://pervocracy.blogspot.com)
- - date_published: 2024-06-09T05:45:46+00:00
-
- ## Peter's Principles
- - [https://peterbypost.blogspot.com](https://peterbypost.blogspot.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Peter Eisentraut's Blog
- - [http://petereisentraut.blogspot.com](http://petereisentraut.blogspot.com)
- - date_published: 2024-05-24T09:34:31+00:00
 

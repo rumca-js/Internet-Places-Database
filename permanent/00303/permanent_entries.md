@@ -1,3 +1,271 @@
+ ## University of Bucharest Identity Provider
+ - [https://idp.unibuc.ro](https://idp.unibuc.ro)
+ - date_published: 2022-02-22T09:27:28+00:00
+
+ ## Universitatea Politehnica din București - UPB
+ - [http://www.upb.ro](http://www.upb.ro)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Universitatea „Ștefan cel Mare” din Suceava – Una dintre cele mai dinamice universități din Europa de Est
+ - [https://usv.ro](https://usv.ro)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Acasă - Serviciul Intern de Contracte si Achizitii
+ - [https://achizitii.utcluj.ro](https://achizitii.utcluj.ro)
+ - date_published: 2024-06-22T11:56:20.843340+00:00
+
+ ## Acasa - Facultatea de Automatica si Calculatoare
+ - [http://ac.utcluj.ro](http://ac.utcluj.ro)
+ - date_published: 2024-06-21T12:20:00+00:00
+
+ ## ADMITERE ONLINE 2024 — Admitere Universitatea Tehnică din Cluj-Napoca
+ - [https://admitereonline.utcluj.ro](https://admitereonline.utcluj.ro)
+ - date_published: 2024-06-22T11:56:34.802921+00:00
+
+ ## Acasa - Extensia Alba Iulia
+ - [https://albaiulia.utcluj.ro](https://albaiulia.utcluj.ro)
+ - date_published: 2024-06-22T11:56:09+00:00
+
+ ## Acasa - alumni.utcluj.ro
+ - [https://alumni.utcluj.ro](https://alumni.utcluj.ro)
+ - date_published: 2024-06-22T11:56:14.458185+00:00
+
+ ## acasa - Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică
+ - [http://armm.utcluj.ro](http://armm.utcluj.ro)
+ - date_published: 2024-06-17T10:10:00+00:00
+
+ ## Acasa - Directia Generala Biblioteca
+ - [https://biblioteca.utcluj.ro](https://biblioteca.utcluj.ro)
+ - date_published: 2024-06-22T11:56:45+00:00
+
+ ## Acasă - Extensia Universitară Bistriţa
+ - [https://bistrita.utcluj.ro](https://bistrita.utcluj.ro)
+ - date_published: 2022-01-04T13:05:00+00:00
+
+ ## Relatii internationale
+ - [http://bri.utcluj.ro](http://bri.utcluj.ro)
+ - date_published: 2024-06-22T11:56:03.899727+00:00
+
+ ## Acasa - Casa de Ajutor Reciproc
+ - [http://car.utcluj.ro](http://car.utcluj.ro)
+ - date_published: 2024-06-22T11:56:37+00:00
+
+ ## Anunturi - Centrul de comunicații "Pusztai Kalman"
+ - [https://ccd.utcluj.ro](https://ccd.utcluj.ro)
+ - date_published: 2024-06-22T11:55:56.024905+00:00
+
+ ## Centrul de Consiliere şi Orientare în Carieră
+ - [https://consiliere.utcluj.ro](https://consiliere.utcluj.ro)
+ - date_published: 2024-06-22T11:56:08.405127+00:00
+
+ ## Acasa - Facultatea de Construcții
+ - [http://constructii.utcluj.ro](http://constructii.utcluj.ro)
+ - date_published: 2024-06-20T19:24:00+00:00
+
+ ## Acasa - Compartimentul pentru Relatia cu Mediul Socio-Economic
+ - [https://crmse.utcluj.ro](https://crmse.utcluj.ro)
+ - date_published: 2024-06-22T11:56:12+00:00
+
+ ## Legis - Legislatie
+ - [https://ctfs.utcluj.ro](https://ctfs.utcluj.ro)
+ - date_published: 2024-06-22T11:56:25+00:00
+
+ ## Programe postuniversitare | UTC-N
+ - [http://decidfr.utcluj.ro](http://decidfr.utcluj.ro)
+ - date_published: 2024-06-22T11:56:07.376191+00:00
+
+ ## Acasa - Departamentul de Specialitate cu Profil Psihopedagogic
+ - [http://dspp.utcluj.ro](http://dspp.utcluj.ro)
+ - date_published: 2024-06-22T11:56:16+00:00
+
+ ## Acasă - Facultatea de Electronică, Telecomunicații și Tehnologia Informației
+ - [http://etti.utcluj.ro](http://etti.utcluj.ro)
+ - date_published: 2024-06-20T07:53:00+00:00
+
+ ## Acasa - Facultatea de Arhitectură și Urbanism
+ - [http://fau.utcluj.ro](http://fau.utcluj.ro)
+ - date_published: 2024-06-20T10:01:00+00:00
+
+ ## Acasa - Facultatea de Inginerie Electrica
+ - [http://ie.utcluj.ro](http://ie.utcluj.ro)
+ - date_published: 2024-06-17T12:24:00+00:00
+
+ ## Acasa - Facultatea de Inginerie Industriala, Robotica si Managementul Productiei
+ - [http://iirmp.utcluj.ro](http://iirmp.utcluj.ro)
+ - date_published: 2024-06-18T16:42:00+00:00
+
+ ## Acasa - Facultatea de Ingineria Materialelor si a Mediului
+ - [http://imm.utcluj.ro](http://imm.utcluj.ro)
+ - date_published: 2024-06-21T17:39:00+00:00
+
+ ## Acasa - Facultatea de Inginerie
+ - [http://inginerie.utcluj.ro](http://inginerie.utcluj.ro)
+ - date_published: 2024-06-17T12:47:00+00:00
+
+ ## Acasa - Facultatea de Inginerie a Instalaţiilor
+ - [http://instalatii.utcluj.ro](http://instalatii.utcluj.ro)
+ - date_published: 2024-06-19T12:00:00+00:00
+
+ ## Portalul intern al Universitatii Tehnice din Cluj-Napoca
+ - [https://intranet.utcluj.ro](https://intranet.utcluj.ro)
+ - date_published: 2024-06-22T11:56:10.164981+00:00
+
+ ## Acasa - IOSUD
+ - [http://iosud.utcluj.ro](http://iosud.utcluj.ro)
+ - date_published: 2024-06-22T11:55:48+00:00
+
+ ## Acasa - Facultatea de Litere
+ - [http://litere.utcluj.ro](http://litere.utcluj.ro)
+ - date_published: 2024-06-22T11:56:00.029524+00:00
+
+ ## Acasa - Compartimentul pentru Management Universitar
+ - [https://muniv.utcluj.ro](https://muniv.utcluj.ro)
+ - date_published: 2024-06-22T11:55:44+00:00
+
+ ## PRO INVENT
+ - [http://proinvent.utcluj.ro](http://proinvent.utcluj.ro)
+ - date_published: 2023-10-17T11:50:26+00:00
+
+ ## Home - Technical University of Cluj-Napoca Research
+ - [http://research.utcluj.ro](http://research.utcluj.ro)
+ - date_published: 2024-06-22T11:55:52+00:00
+
+ ## Think outside the box - SAS UTCN
+ - [https://sas.utcluj.ro](https://sas.utcluj.ro)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Acasa - Extensia Universitara Satu Mare
+ - [https://satumare.utcluj.ro](https://satumare.utcluj.ro)
+ - date_published: 2022-07-07T20:09:00+00:00
+
+ ## Acasa - Facultatea de Stiinte
+ - [http://stiinte.utcluj.ro](http://stiinte.utcluj.ro)
+ - date_published: 2024-06-22T11:56:36.615924+00:00
+
+ ## Universitatea TehnicÄ din Cluj-Napoca
+ - [https://utcluj.ro](https://utcluj.ro)
+ - date_published: 2024-06-22T11:56:44.702996+00:00
+
+ ## Universitatea Tehnica Cluj - Napoca
+ - [https://viziteaza.utcluj.ro](https://viziteaza.utcluj.ro)
+ - date_published: 2019-01-29T16:01:11+00:00
+
+ ## Departamentul de Informatica
+ - [https://websinu.utcluj.ro](https://websinu.utcluj.ro)
+ - date_published: 2024-06-22T11:56:15.738232+00:00
+
+ ## Acasă - Extensia Universitara Zalau
+ - [https://zalau.utcluj.ro](https://zalau.utcluj.ro)
+ - date_published: 2024-04-15T20:08:00+00:00
+
+ ## Utilaje pentru gradina si gospodarii - utilaria.ro
+ - [https://utilaria.ro](https://utilaria.ro)
+ - date_published: 2024-06-12T02:33:25.135709+00:00
+
+ ## Acasa - UVT
+ - [https://www.uvt.ro](https://www.uvt.ro)
+ - date_published: 2023-09-08T10:00:39+00:00
+
+ ## Vlad Niculae
+ - [http://vene.ro](http://vene.ro)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.ro](https://www.victronenergy.ro)
+ - date_published: 2024-06-21T18:32:19+00:00
+
+ ## Consultant digital / Growth hacker - Viorel Mocanu
+ - [https://viorelmocanu.ro](https://viorelmocanu.ro)
+ - date_published: 2021-06-24T00:00:00+00:00
+
+ ## Visa, un lider global in plati digital
+ - [https://visa.ro](https://visa.ro)
+ - date_published: 2024-05-12T03:59:37.386971+00:00
+
+ ## Vlad Ilie | Software Engineer · Work with NodeJS, WordPress, Neo4j
+ - [https://vladilie.ro](https://vladilie.ro)
+ - date_published: 2024-05-11T10:09:30.335557+00:00
+
+ ## Vocaroo | Online voice recorder
+ - [https://voca.ro](https://voca.ro)
+ - date_published: 2024-04-27T06:50:41+00:00
+
+ ## Vodafone
+ - [https://factura.vodafone.ro](https://factura.vodafone.ro)
+ - date_published: 2024-06-29T13:40:43.365248+00:00
+
+ ## Vodafone: Tehnologie | Telefonie | Televiziune și Internet | Gadgeturi | Oferte la portare
+ - [https://vodafone.ro](https://vodafone.ro)
+ - date_published: 2024-05-07T10:57:39.841960+00:00
+
+ ## Vodafone Televiziune şi Internet Fix
+ - [https://zoom.vodafone.ro](https://zoom.vodafone.ro)
+ - date_published: 2024-06-29T13:40:42.829346+00:00
+
+ ## Volution Notes
+ - [https://notes.volution.ro](https://notes.volution.ro)
+ - date_published: 2023-10-25T22:35:41.081523+00:00
+
+ ## Web2Unu Blog - All things webby
+ - [http://web2unu.ro](http://web2unu.ro)
+ - date_published: 2024-07-09T08:21:33.404896+00:00
+
+ ## Servere VPS SSD in Romania la preturi foarte mici | VPS Cloud Hosting
+ - [http://www.webland.ro](http://www.webland.ro)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## WITTENSTEIN România
+ - [https://www.wittenstein.ro](https://www.wittenstein.ro)
+ - date_published: 2024-07-15T04:10:28.808860+00:00
+
+ ## WWF Romania | Construim un viitor în care oamenii trăiesc în armonie cu natura
+ - [https://wwf.ro](https://wwf.ro)
+ - date_published: 2024-05-08T00:00:26.754812+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.ro](https://www2.zoetis.ro)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Hrană şi accesorii pentru animale de companie la zooplus
+ - [https://www.zooplus.ro](https://www.zooplus.ro)
+ - date_published: 2024-06-16T06:27:45.976821+00:00
+
+ ## 11ty Rocks!
+ - [https://11ty.rocks](https://11ty.rocks)
+ - date_published: 2024-07-22T12:50:52.892006+00:00
+
+ ## ActivityPub Rocks!
+ - [https://activitypub.rocks](https://activitypub.rocks)
+ - date_published: 2021-01-04T00:00:00+00:00
+
+ ## SocialHub - ActivityPub Special Interest Group
+ - [https://socialhub.activitypub.rocks](https://socialhub.activitypub.rocks)
+ - date_published: 2023-10-25T22:35:43.833065+00:00
+
+ ## AMATEUR(DOT)ROCKS
+ - [http://amateur.rocks](http://amateur.rocks)
+ - date_published: 2024-07-13T15:03:24.796936+00:00
+
+ ## Bitcoin builds a better world.
+ - [https://bitcoin.rocks](https://bitcoin.rocks)
+ - date_published: 2024-06-25T18:33:20+00:00
+
+ ## brew's site
+ - [https://brew.rocks](https://brew.rocks)
+ - date_published: 2024-07-05T04:54:45+00:00
+
+ ## Caesar
+ - [https://caesar.rocks](https://caesar.rocks)
+ - date_published: 2024-07-10T14:40:04+00:00
+
+ ## Mastodon
+ - [https://climatejustice.rocks](https://climatejustice.rocks)
+ - date_published: 2023-10-25T22:35:44.523941+00:00
+
+ ## Rebrandly
+ - [https://cloudinary.rocks](https://cloudinary.rocks)
+ - date_published: 2022-07-05T08:14:45+00:00
+
  ## Akkoma
  - [https://cofe.rocks](https://cofe.rocks)
  - date_published: 2024-07-15T06:33:01.728768+00:00
@@ -336,6 +604,10 @@ A slim and mobile-friendly IIIF document viewer
  ## WSPR Rocks!
  - [http://wspr.rocks](http://wspr.rocks)
  - date_published: 2024-08-07T02:22:54+00:00
+
+ ## Xenium 2024 – Multiplatform demoparty organized by polish demoscene
+ - [https://xenium.rocks](https://xenium.rocks)
+ - date_published: 2024-08-12T05:01:20.350367+00:00
 
  ## Code Rodeo
  - [https://code.rodeo](https://code.rodeo)
@@ -3758,281 +4030,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Последние новости дня в России и мире сегодня - свежие новости на РБК
  - [https://app.rbc.ru](https://app.rbc.ru)
  - date_published: 2024-07-04T10:11:35.504491+00:00
-
- ## Авторизация :: Личный кабинет РБК
- - [https://auth.rbc.ru](https://auth.rbc.ru)
- - date_published: 2024-07-04T10:11:36.846436+00:00
-
- ## Предпринимательский класс | РБК x МегаФон ПроБизнес
- - [https://businessclass.rbc.ru](https://businessclass.rbc.ru)
- - date_published: 2024-07-03T15:37:47+00:00
-
- ## Новости Черноземья :: РБК
- - [https://chr.rbc.ru](https://chr.rbc.ru)
- - date_published: 2024-07-04T10:11:30.004018+00:00
-
- ## Новости бизнеса и компаний на РБК: события, интервью, экспертные мнения
- - [https://companies.rbc.ru](https://companies.rbc.ru)
- - date_published: 2024-07-04T10:11:28.196010+00:00
-
- ## Последние новости Екатеринбурга и Свердловской области сегодня - события и происшествия онлайн на РБК
- - [https://ekb.rbc.ru](https://ekb.rbc.ru)
- - date_published: 2024-07-04T10:11:52.899283+00:00
-
- ## ESG-индекс 2023
- - [http://esg-index.rbc.ru](http://esg-index.rbc.ru)
- - date_published: 2024-07-02T09:27:04+00:00
-
- ## Мероприятия РБК
- - [https://events.rbc.ru](https://events.rbc.ru)
- - date_published: 2024-07-04T10:11:10.278872+00:00
-
- ## Последние новости Калининграда и области сегодня - свежие происшествия онлайн на РБК
- - [http://kaliningrad.rbc.ru](http://kaliningrad.rbc.ru)
- - date_published: 2024-07-04T10:11:41.841226+00:00
-
- ## Последние новости Петрозаводска и Карелии сегодня - происшествия онлайн на РБК
- - [https://karelia.rbc.ru](https://karelia.rbc.ru)
- - date_published: 2024-07-04T10:11:18.333596+00:00
-
- ## Последние новости Кавказа сегодня - события и происшествия на РБК
- - [http://kavkaz.rbc.ru](http://kavkaz.rbc.ru)
- - date_published: 2024-07-04T10:11:14.024627+00:00
-
- ## Последние новости Краснодара и Краснодарского края сегодня - события и происшествия на РБК
- - [http://kuban.rbc.ru](http://kuban.rbc.ru)
- - date_published: 2024-07-04T10:11:08.421284+00:00
-
- ## РБК Магазин исследований – продажа готовых маркетинговых исследований и бизнес-планов
- - [https://marketing.rbc.ru](https://marketing.rbc.ru)
- - date_published: 2024-07-04T10:11:06.197111+00:00
-
- ## Как big data помогают привлечь нужную аудиторию
- - [http://mts-marketolog.rbc.ru](http://mts-marketolog.rbc.ru)
- - date_published: 2022-12-22T12:48:20+00:00
-
- ## Последние новости Мурманска и Мурманской области сегодня - события и происшествия на РБК
- - [http://murmansk.rbc.ru](http://murmansk.rbc.ru)
- - date_published: 2024-07-04T10:12:22.838963+00:00
-
- ## Последние новости Нижнего Новгорода и Нижегородской области сегодня - события и происшествия на РБК
- - [https://nn.rbc.ru](https://nn.rbc.ru)
- - date_published: 2024-07-04T10:11:04.234915+00:00
-
- ## Последние новости Новосибирска и Новосибирской области сегодня - события и происшествия на РБК
- - [http://nsk.rbc.ru](http://nsk.rbc.ru)
- - date_published: 2024-07-04T10:11:11.997430+00:00
-
- ## Последние новости Перми и Пермского края сегодня - события и происшествия на данный час на РБК
- - [https://perm.rbc.ru](https://perm.rbc.ru)
- - date_published: 2024-07-04T10:11:56.970035+00:00
-
- ## Пространство выбора. Совместный проект ПИК — РБК
- - [https://pik.rbc.ru](https://pik.rbc.ru)
- - date_published: 2024-07-04T10:11:47.744867+00:00
-
- ## РБК+ // РБК Плюс
- - [https://plus.rbc.ru](https://plus.rbc.ru)
- - date_published: 2024-07-04T10:11:15.198081+00:00
-
- ## Последние новости Владивостока и Приморского края сегодня -  события и происшествия на РБК
- - [http://prim.rbc.ru](http://prim.rbc.ru)
- - date_published: 2024-07-04T10:12:03.213601+00:00
-
- ## РБК Pro — сервис для руководителей, специалистов и инвесторов
- - [https://pro.rbc.ru](https://pro.rbc.ru)
- - date_published: 2024-07-04T10:12:04.286389+00:00
-
- ## Котировки акций, курсы валют, новости, компании :: РБК Инвестиции
- - [https://quote.rbc.ru](https://quote.rbc.ru)
- - date_published: 2024-07-04T10:11:45.597255+00:00
-
- ## РБК Недвижимость | Новости рынка недвижимости на сегодня
- - [https://realty.rbc.ru](https://realty.rbc.ru)
- - date_published: 2024-07-04T10:12:27.336266+00:00
-
- ## Последние новости Ростова-на-Дону и Ростовской области сегодня - события и происшествия сейчас на РБК
- - [http://rostov.rbc.ru](http://rostov.rbc.ru)
- - date_published: 2024-07-04T10:11:33.927462+00:00
-
- ## Последние новости Казани и Татарстана сегодня - события и происшествия на РБК
- - [http://rt.rbc.ru](http://rt.rbc.ru)
- - date_published: 2024-07-04T10:12:06.132926+00:00
-
- ## Деловые мероприятия РБК Петербург
- - [https://spb-bc.rbc.ru](https://spb-bc.rbc.ru)
- - date_published: 2024-07-04T07:46:44+00:00
-
- ## Спецпроекты РБК Санкт-Петербург
- - [https://spbspecials.rbc.ru](https://spbspecials.rbc.ru)
- - date_published: 2024-06-10T14:39:19+00:00
-
- ## РБК Стиль. Все, о чем стоит мечтать
- - [https://style.rbc.ru](https://style.rbc.ru)
- - date_published: 2024-07-04T10:11:38.091490+00:00
-
- ## Последние новости Тюмени сегодня - события и происшествия на РБК
- - [http://t.rbc.ru](http://t.rbc.ru)
- - date_published: 2024-07-04T10:11:31.884089+00:00
-
- ## РБК Тренды - Кто и как меняет глобальную экономику
- - [https://trends.rbc.ru](https://trends.rbc.ru)
- - date_published: 2024-07-04T10:11:23.151063+00:00
-
- ## РБК-ТВ: смотреть о бизнесе, рынках и инвестициях
- - [https://tv.rbc.ru](https://tv.rbc.ru)
- - date_published: 2024-07-04T10:12:11.433087+00:00
-
- ## Последние новости Уфы и Башкортостана сегодня - события и происшествия онлайн на РБК
- - [https://ufa.rbc.ru](https://ufa.rbc.ru)
- - date_published: 2024-07-04T10:11:49.460277+00:00
-
- ## Визионеры
- - [https://visionaries.rbc.ru](https://visionaries.rbc.ru)
- - date_published: 2024-07-04T10:11:20.346674+00:00
-
- ## Последние новости Вологды и Вологодской области сегодня - свежие происшествия онлайн на РБК
- - [https://vo.rbc.ru](https://vo.rbc.ru)
- - date_published: 2024-07-04T10:11:16.864944+00:00
-
- ## Последние новости дня в России и мире сегодня - свежие новости на РБК
- - [https://rbc.ru](https://rbc.ru)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Главная
- - [http://www.rbcholding.ru](http://www.rbcholding.ru)
- - date_published: 2024-07-04T10:12:20.411511+00:00
-
- ## Услуги и решения для IT-инфраструктуры и бизнесе в Москве по выгодным ценам
- - [https://www.rdtex.ru](https://www.rdtex.ru)
- - date_published: 2024-06-20T21:44:01+00:00
-
- ## ReAMP, a Winamp Remake in Swift
- - [https://re-amp.ru](https://re-amp.ru)
- - date_published: 2024-04-07T21:49:22+00:00
- - tags: ['winamp', 'desktop program']
-
- ## Личный кабинет Рег.облако
- - [https://cloud.reg.ru](https://cloud.reg.ru)
- - date_published: 2024-03-27T06:41:51+00:00
-
- ## База знаний
-        |
-        Рег.ру
- - [https://help.reg.ru](https://help.reg.ru)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Регистрация доменов РФ/RU у аккредитованного регистратора доменов | Недорогой хостинг и дешевые домены
-        |
-        Рег.ру
- - [https://reg.ru](https://reg.ru)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Домен не добавлен в панели
- - [https://server74.hosting.reg.ru](https://server74.hosting.reg.ru)
- - date_published: 2024-05-04T14:10:48.701687+00:00
-
- ## Новости России, СНГ и мира - ИА REGNUM
- - [http://www.regnum.ru](http://www.regnum.ru)
- - date_published: 2024-07-19T20:54:26+00:00
-
- ## The best of new retro music
- - [http://retrowave.ru](http://retrowave.ru)
- - date_published: 2022-08-13T13:47:27+00:00
-
- ## Здравствуйте! | Общероссийская общественная организация инвалидов "Российская ревматологическая ассоциация "Надежда"
- - [http://www.revmo-nadegda.ru](http://www.revmo-nadegda.ru)
- - date_published: 2024-06-28T10:06:59+00:00
-
- ## Новости сегодня в России и мире - Российская газета
- - [https://rg.ru](https://rg.ru)
- - date_published: 2024-06-21T14:52:14.800262+00:00
-
- ## Добро пожаловать
- - [https://rgud.ru](https://rgud.ru)
- - date_published: 2024-06-18T15:52:19.732899+00:00
-
- ## РИА Новости - события в Москве, России и мире сегодня: темы дня, фото, видео, инфографика, радио
- - [https://ria.ru](https://ria.ru)
- - date_published: 2024-07-08T20:51:17.929837+00:00
-
- ## Sputnik News - World News, Breaking News & Top Stories
- - [https://en.rian.ru](https://en.rian.ru)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Ridero
- - [http://beta.ridero.ru](http://beta.ridero.ru)
- - date_published: 2024-06-15T19:06:27.807409+00:00
-
- ## Издательский сервис Ridero – готовый книжный макет в течение нескольких минут, ISBN в подарок, публикация в крупнейшие интернет-магазины бесплатно, заказ тиража
- - [https://ridero.ru](https://ridero.ru)
- - date_published: 2024-05-01T04:13:56.922870+00:00
-
- ## Riki Store
- - [https://rikistore.ru](https://rikistore.ru)
- - date_published: 2024-04-29T14:15:23+00:00
-
- ## The Tower of Babel
- - [http://starling.rinet.ru](http://starling.rinet.ru)
- - date_published: 2023-02-20T21:38:57+00:00
-
- ## Издательство Рипол Классик 📚 [Официальный сайт]
- - [http://ripol.ru](http://ripol.ru)
- - date_published: 2024-07-16T18:30:33+00:00
-
- ## Сериалы – Афиша
- - [https://s2.kassa.rl0.ru](https://s2.kassa.rl0.ru)
- - date_published: 2024-07-10T02:35:26.580297+00:00
-
- ## Клуб любителей рогаликов
- - [http://rlgclub.ru](http://rlgclub.ru)
- - date_published: 2019-04-08T09:28:14+00:00
-
- ## РадиоЛоцман - портал и журнал для разработчиков электроники
- - [https://www.rlocman.ru](https://www.rlocman.ru)
- - date_published: 2024-07-14T22:45:04.078565+00:00
-
- ## Рособоронэкспорт | Официальный сайт
- - [https://roe.ru](https://roe.ru)
- - date_published: 2024-05-09T04:51:05.373598+00:00
-
- ## Rosalab Wiki
- - [http://wiki.rosalab.ru](http://wiki.rosalab.ru)
- - date_published: 2024-05-11T08:03:41.882772+00:00
-
- ## Bugzilla Main Page
- - [https://bugzilla.rosalinux.ru](https://bugzilla.rosalinux.ru)
- - date_published: 2024-07-13T17:40:56.509926+00:00
-
- ## ROSAForum - Главная страница
- - [https://forum.rosalinux.ru](https://forum.rosalinux.ru)
- - date_published: 2024-07-13T17:40:53.932729+00:00
-
- ## ROSA Virtualization 2.1
- - [https://www.rosalinux.ru](https://www.rosalinux.ru)
- - date_published: 2024-06-21T14:53:05.511147+00:00
-
- ## «Р-Платформа» — Импортозамещение виртуализации, замена Vmware, Российская виртуализация и СХД, S3-хранилище
- - [http://rosplatforma.ru](http://rosplatforma.ru)
- - date_published: 2024-06-21T14:54:56.748377+00:00
-
- ## Ростех
- - [https://rostec.ru](https://rostec.ru)
- - date_published: 2024-07-09T22:29:22.935313+00:00
-
- ## ОАО «Роствертол»
- - [http://rostvertolplc.ru](http://rostvertolplc.ru)
- - date_published: 2024-07-09T21:49:04.933285+00:00
-
- ## РСХБ-Страхование
- - [https://rshbins.ru](https://rshbins.ru)
- - date_published: 2024-06-21T14:56:15.564376+00:00
-
- ## Российская государственная библиотека («Ленинка»)
- - [http://rsl.ru](http://rsl.ru)
- - date_published: 2024-06-23T20:32:25.877079+00:00
-
- ## НЭБ - Национальная электронная библиотека
- - [https://viewer.rsl.ru](https://viewer.rsl.ru)
- - date_published: 2024-06-11T17:26:59+00:00
 

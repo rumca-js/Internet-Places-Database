@@ -1,3 +1,207 @@
+ ## Wiktionnaire
+ - [https://lb.wiktionary.org](https://lb.wiktionary.org)
+ - date_published: 2024-06-11T20:32:17+00:00
+
+ ## Olupapula Olusooka - Wt/lg - Wikimedia Incubator
+ - [https://lg.wiktionary.org](https://lg.wiktionary.org)
+ - date_published: 2024-06-28T03:03:03+00:00
+
+ ## Wiktionary
+ - [https://li.wiktionary.org](https://li.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Wt/lld - Wikimedia Incubator
+ - [https://lld.wiktionary.org](https://lld.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionary
+ - [https://lmo.wiktionary.org](https://lmo.wiktionary.org)
+ - date_published: 2024-06-01T02:56:08+00:00
+
+ ## Wiktionary
+ - [https://ln.wiktionary.org](https://ln.wiktionary.org)
+ - date_published: 2024-06-01T00:20:25+00:00
+
+ ## Wiktionary
+ - [https://lo.wiktionary.org](https://lo.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
+ ## Vikižodynas
+ - [https://lt.wiktionary.org](https://lt.wiktionary.org)
+ - date_published: 2024-06-14T03:25:42+00:00
+
+ ## Wiktionary
+ - [https://lv.wiktionary.org](https://lv.wiktionary.org)
+ - date_published: 2024-06-01T12:26:04+00:00
+
+ ## Basa Banyumasan Wiktionary - Wikimedia Incubator
+ - [https://map-bms.wiktionary.org](https://map-bms.wiktionary.org)
+ - date_published: 2024-07-12T03:30:24.596150+00:00
+
+ ## Пря лопа - Wt/mdf - Wikimedia Incubator
+ - [https://mdf.wiktionary.org](https://mdf.wiktionary.org)
+ - date_published: 2024-06-28T02:30:23+00:00
+
+ ## Wiktionary
+ - [https://mg.wiktionary.org](https://mg.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://mh.wiktionary.org](https://mh.wiktionary.org)
+ - date_published: 2024-06-07T20:13:04+00:00
+
+ ## Wikikato
+ - [https://min.wiktionary.org](https://min.wiktionary.org)
+ - date_published: 2024-06-01T12:24:30+00:00
+
+ ## Wiktionary
+ - [https://mi.wiktionary.org](https://mi.wiktionary.org)
+ - date_published: 2024-06-01T07:00:18+00:00
+
+ ## Викиречник
+ - [https://mk.wiktionary.org](https://mk.wiktionary.org)
+ - date_published: 2024-06-12T23:18:03+00:00
+
+ ## വിക്കിനിഘണ്ടു
+ - [https://ml.wiktionary.org](https://ml.wiktionary.org)
+ - date_published: 2024-05-31T14:54:59+00:00
+
+ ## ꯋꯤꯛꯁꯟꯅꯔꯤ
+ - [https://mni.wiktionary.org](https://mni.wiktionary.org)
+ - date_published: 2024-06-01T02:13:40+00:00
+
+ ## Wiktionary
+ - [https://mn.wiktionary.org](https://mn.wiktionary.org)
+ - date_published: 2024-06-01T04:39:12+00:00
+
+ ## ဝိက်ရှေန်နရဳ
+ - [https://mnw.wiktionary.org](https://mnw.wiktionary.org)
+ - date_published: 2024-06-12T18:40:44+00:00
+
+ ## Wiktionary
+ - [https://mr.wiktionary.org](https://mr.wiktionary.org)
+ - date_published: 2024-06-01T00:24:59+00:00
+
+ ## Wikikamus
+ - [https://ms.wiktionary.org](https://ms.wiktionary.org)
+ - date_published: 2024-06-12T13:47:54+00:00
+
+ ## Wikizzjunarju
+ - [https://mt.wiktionary.org](https://mt.wiktionary.org)
+ - date_published: 2024-06-01T04:47:14+00:00
+
+ ## Wt/mwl - Wikimedia Incubator
+ - [https://mwl.wiktionary.org](https://mwl.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wt/myv - Wikimedia Incubator
+ - [https://myv.wiktionary.org](https://myv.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## ဝစ်ရှင်နရီ
+ - [https://my.wiktionary.org](https://my.wiktionary.org)
+ - date_published: 2024-06-11T12:31:45+00:00
+
+ ## Wiktionary
+ - [https://nah.wiktionary.org](https://nah.wiktionary.org)
+ - date_published: 2024-06-01T07:57:17+00:00
+
+ ## Paggena prencepale - Wt/nap - Wikimedia Incubator
+ - [https://nap.wiktionary.org](https://nap.wiktionary.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wiktionary
+ - [https://na.wiktionary.org](https://na.wiktionary.org)
+ - date_published: 2024-06-01T11:15:50+00:00
+
+ ## Wiktionary
+ - [https://nds.wiktionary.org](https://nds.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://ne.wiktionary.org](https://ne.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://nia.wiktionary.org](https://nia.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## WikiWoordenboek
+ - [https://nl.wiktionary.org](https://nl.wiktionary.org)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Wiktionary, den frie ordboka
+ - [https://nn.wiktionary.org](https://nn.wiktionary.org)
+ - date_published: 2024-06-01T12:23:45+00:00
+
+ ## Chefi pagine - Wt/nov - Wikimedia Incubator
+ - [https://nov.wiktionary.org](https://nov.wiktionary.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Wiktionary
+ - [https://no.wiktionary.org](https://no.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wt/nrm - Wikimedia Incubator
+ - [https://nrm.wiktionary.org](https://nrm.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wikiccionari
+ - [https://oc.wiktionary.org](https://oc.wiktionary.org)
+ - date_published: 2024-06-11T12:31:46+00:00
+
+ ## Wiktionary
+ - [https://om.wiktionary.org](https://om.wiktionary.org)
+ - date_published: 2024-06-01T07:09:59+00:00
+
+ ## ଉଇକିଅଭିଧାନ
+ - [https://or.wiktionary.org](https://or.wiktionary.org)
+ - date_published: 2024-05-31T09:39:06+00:00
+
+ ## Arapan ya Bolong - Wt/pag - Wikimedia Incubator
+ - [https://pag.wiktionary.org](https://pag.wiktionary.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Pun Bulung - Wt/pam - Wikimedia Incubator
+ - [https://pam.wiktionary.org](https://pam.wiktionary.org)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Página Prinsipal - Wt/pap - Wikimedia Incubator
+ - [https://pap.wiktionary.org](https://pap.wiktionary.org)
+ - date_published: 2024-06-28T05:02:18+00:00
+
+ ## ਵਿਕਸ਼ਨਰੀ, ਇਕ ਅਜ਼ਾਦ ਸ਼ਬਦਕੋਸ਼
+ - [https://pa.wiktionary.org](https://pa.wiktionary.org)
+ - date_published: 2024-05-31T14:09:27+00:00
+
+ ## Wikisłownik, wolny słownik wielojęzyczny
+ - [https://pl.wiktionary.org](https://pl.wiktionary.org)
+ - date_published: 2024-06-11T12:31:47+00:00
+
+ ## Pàgina prinsipal - Wt/pms - Wikimedia Incubator
+ - [https://pms.wiktionary.org](https://pms.wiktionary.org)
+ - date_published: 2024-06-28T02:20:22+00:00
+
+ ## وکشنری
+ - [https://pnb.wiktionary.org](https://pnb.wiktionary.org)
+ - date_published: 2024-05-31T13:29:01+00:00
+
+ ## Αρχικόν σελίδα - Wt/pnt - Wikimedia Incubator
+ - [https://pnt.wiktionary.org](https://pnt.wiktionary.org)
+ - date_published: 2024-06-28T02:35:20+00:00
+
+ ## ويکيسيند
+ - [https://ps.wiktionary.org](https://ps.wiktionary.org)
+ - date_published: 2024-06-11T12:31:54+00:00
+
+ ## Wikcionário
+ - [https://pt.wiktionary.org](https://pt.wiktionary.org)
+ - date_published: 2024-06-11T12:31:48+00:00
+
+ ## Wiktionary
+ - [https://qu.wiktionary.org](https://qu.wiktionary.org)
+ - date_published: 2024-06-01T06:21:53+00:00
+
  ## Wiktionary
  - [https://roa-rup.wiktionary.org](https://roa-rup.wiktionary.org)
  - date_published: 2024-05-31T14:54:02+00:00
@@ -358,8 +562,16 @@
  - [http://www.wildlifeart.org](http://www.wildlifeart.org)
  - date_published: 2024-08-06T06:09:48.727498+00:00
 
+ ## Wildlife Center of Virginia
+ - [https://new.wildlifecenter.org](https://new.wildlifecenter.org)
+ - date_published: 2024-08-11T12:25:34+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://support.wildlifecenter.org](https://support.wildlifecenter.org)
+ - date_published: 2024-08-12T05:00:14.522678+00:00
+
  ## The Wildlife Center of Virginia
- - [https://www.wildlifecenter.org](https://www.wildlifecenter.org)
+ - [https://wildlifecenter.org](https://wildlifecenter.org)
  - date_published: 2024-02-07T00:00:00+00:00
 
  ## Wildlife Forever – Celebrating Over 35 Years of Conservation
@@ -2293,6 +2505,10 @@
  - [https://worldovariancancercoalition.org](https://worldovariancancercoalition.org)
  - date_published: 2024-05-06T15:13:36.200561+00:00
 
+ ## Research for non-violent futures - World Peace Foundation
+ - [https://worldpeacefoundation.org](https://worldpeacefoundation.org)
+ - date_published: 2024-06-24T00:00:00+00:00
+
  ## Home - World Peace Game Foundation
  - [https://worldpeacegame.org](https://worldpeacegame.org)
  - date_published: 2022-11-04T00:00:00+00:00
@@ -3816,224 +4032,4 @@ Conference Series
  ## Yesterweb Forum - Index page
  - [https://forum.yesterweb.org](https://forum.yesterweb.org)
  - date_published: 2024-05-29T00:00:00+00:00
-
- ## social.yesterweb.org
- - [https://social.yesterweb.org](https://social.yesterweb.org)
- - date_published: 2024-05-29T07:53:57.949062+00:00
-
- ## The Yesterweb - Reclaiming the Internet
- - [https://yesterweb.org](https://yesterweb.org)
- - date_published: 2024-01-09T13:30:22+00:00
- - tags: ['interesting', 'social platform', 'web1']
-
- ## Yes We Camp ⎜Lieux inventifs et solidaires
- - [https://yeswecamp.org](https://yeswecamp.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Ojktoto > Ada Togel Online Terbaik Di Situs Toto Terpercaya
- - [http://www.yes-www.org](http://www.yes-www.org)
- - date_published: 2024-06-23T06:28:12.325133+00:00
-
- ## Yeti DNS
- - [http://yeti-dns.org](http://yeti-dns.org)
- - date_published: 2024-07-07T00:25:17+00:00
-
- ## YETI - VOIP for humans
- - [https://yeti-switch.org](https://yeti-switch.org)
- - date_published: 2023-01-18T12:55:45+00:00
-
- ## unofficially hosted mirrors at yhetil.org
- - [https://yhetil.org](https://yhetil.org)
- - date_published: 2024-02-23T02:47:48+00:00
-
- ## Yiasou Greek Festival | Holy Trinity Greek Orthodox Church | Charlotte NC
- - [https://yiasoufestival.org](https://yiasoufestival.org)
- - date_published: 2024-05-04T14:19:34.809337+00:00
-
- ## YIMBY Action
- - [https://new.yimbyaction.org](https://new.yimbyaction.org)
- - date_published: 2024-07-19T17:01:43.445516+00:00
-
- ## YIMBY Action
- - [https://yimbyaction.org](https://yimbyaction.org)
- - date_published: 2024-07-19T17:01:46.604811+00:00
-
- ## Home - YIMBY Alliance
- - [https://yimbyalliance.org](https://yimbyalliance.org)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## 印记 | 君子可内敛不可懦弱，面不公可起而论之
- - [https://yinji.org](https://yinji.org)
- - date_published: 2024-01-11T13:28:39.670286+00:00
-
- ## Yinqian Zhang's Homepage
- - [https://yinqian.org](https://yinqian.org)
- - date_published: 2024-07-09T13:39:13+00:00
-
- ## YIVO Institute for Jewish Research
- - [https://www.yivo.org](https://www.yivo.org)
- - date_published: 2024-07-02T10:01:39.173237+00:00
-
- ## GitHub - Shopify/yjit: Optimizing JIT compiler built inside CRuby
- - [https://yjit.org](https://yjit.org)
- - date_published: 2024-05-07T10:16:56.474738+00:00
-
- ## Tatu Ylonen Home Page
- - [https://ylonen.org](https://ylonen.org)
- - date_published: 2022-01-09T03:54:41+00:00
-
- ## ymarks ~ self-hosted cross-browser bookmarks sync
- - [https://ymarks.org](https://ymarks.org)
- - date_published: 2021-10-25T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://ynhh.org](https://ynhh.org)
- - date_published: 2024-05-07T22:41:48.629092+00:00
-
- ## Buildbot
- - [https://autobuilder.yoctoproject.org](https://autobuilder.yoctoproject.org)
- - date_published: 2024-07-07T04:08:11.566058+00:00
-
- ## Bugzilla Main Page
- - [https://bugzilla.yoctoproject.org](https://bugzilla.yoctoproject.org)
- - date_published: 2024-07-07T04:08:09.953590+00:00
-
- ## Welcome to the Yocto Project Documentation — The Yocto Project ® 5.0.1 documentation
- - [https://docs.yoctoproject.org](https://docs.yoctoproject.org)
- - date_published: 2024-07-03T00:43:51+00:00
-
- ## Source Repositories
- - [https://git.yoctoproject.org](https://git.yoctoproject.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Yocto Project
- - [https://wiki.yoctoproject.org](https://wiki.yoctoproject.org)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## The Yocto Project
- - [https://yoctoproject.org](https://yoctoproject.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Yolo County | Home
- - [https://www.yolocounty.org](https://www.yolocounty.org)
- - date_published: 2024-07-01T18:24:05+00:00
-
- ## Yoonjeong Rhee
- - [https://yoonjeongrhee.org](https://yoonjeongrhee.org)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## York Rite Maryland – York Rite Maryland
- - [http://yorkritemaryland.org](http://yorkritemaryland.org)
- - date_published: 2024-06-09T23:07:39+00:00
-
- ## Yoshua Bengio -
- - [https://yoshuabengio.org](https://yoshuabengio.org)
- - date_published: 2023-10-25T22:23:34.654490+00:00
-
- ## YOTA SHIRAISHI
- - [http://yotashiraishi.org](http://yotashiraishi.org)
- - date_published: 2023-10-29T17:12:08+00:00
-
- ## You-Get
- - [https://you-get.org](https://you-get.org)
- - date_published: 2024-07-14T06:39:22+00:00
-
- ## The Forum of Young Global Leaders
- - [https://www.younggloballeaders.org](https://www.younggloballeaders.org)
- - date_published: 2024-07-01T08:19:23.575628+00:00
-
- ## Index of /
- - [https://ftpmirror.your.org](https://ftpmirror.your.org)
- - date_published: 2024-05-06T20:15:28.944100+00:00
-
- ## Blood Pressure Matters | Health Campaign | Detroit, MI
- - [https://www.yourbloodpressurematters.org](https://www.yourbloodpressurematters.org)
- - date_published: 2024-06-21T21:33:29.025561+00:00
-
- ## Choices - Memphis Center for Reproductive Health is an abortion clinic serving Memphis, Tennessee that offers the abortion pill as well as many other abortion and sexual health services. We provide abortion care services to all of Tennessee.
- - [https://yourchoices.org](https://yourchoices.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## YourClassical - Classical Music Radio & News | From APMG and MPR
- - [https://yourclassical.org](https://yourclassical.org)
- - date_published: 2024-07-07T10:34:30.804489+00:00
-
- ## Own Your Data
- - [https://yourdigitalrights.org](https://yourdigitalrights.org)
- - date_published: 2023-10-25T22:23:40.557053+00:00
-
- ## Yourdivorcequestions
- - [https://yourdivorcequestions.org](https://yourdivorcequestions.org)
- - date_published: 2024-05-08T07:37:04.697931+00:00
-
- ## Index of /
- - [http://alpine.yourlabs.org](http://alpine.yourlabs.org)
- - date_published: 2024-07-20T15:59:01.484096+00:00
-
- ## YOURLS | YOURLS
- - [https://yourls.org](https://yourls.org)
- - date_published: 2024-04-08T19:32:05.659584+00:00
- - tags: ['link service', 'self-host']
-
- ## YOUROPE
- - [https://yourope.org](https://yourope.org)
- - date_published: 2024-06-25T15:21:14+00:00
-
- ## Yours
- - [https://www.yours.org](https://www.yours.org)
- - date_published: 2024-06-16T10:11:54.457643+00:00
-
- ## Singapore Democratic Party
- - [https://yoursdp.org](https://yoursdp.org)
- - date_published: 2024-07-13T15:46:48+00:00
-
- ## YourSmileys.org - Download smileys, web icons, glitter pictures for free or copy and paste to your message
- - [http://yoursmiles.org](http://yoursmiles.org)
- - date_published: 2024-07-17T23:39:38.686311+00:00
-
- ## yourwebsite.org - Ta strona jest na sprzedaż! - yourwebsite Zasoby i informacje.
- - [https://yourwebsite.org](https://yourwebsite.org)
- - date_published: 2024-06-23T13:06:13+00:00
-
- ## Yousef H.
- - [https://www.yousefh.org](https://www.yousefh.org)
- - date_published: 2024-07-02T13:29:23.104883+00:00
-
- ## YouthBuild Mclean County
- - [https://www.youthbuildmcleancounty.org](https://www.youthbuildmcleancounty.org)
- - date_published: 2024-07-13T18:48:21.645051+00:00
-
- ## Youth Cinema Network
- - [https://www.youthcinemanetwork.org](https://www.youthcinemanetwork.org)
- - date_published: 2024-07-02T22:30:29.408435+00:00
-
- ## Home — Youth Day of Service - YDoS
- - [https://youthdayofservice.org](https://youthdayofservice.org)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## What Are Human Rights? Defined • Youth for Human Rights Campaign
- - [http://www.youthforhumanrights.org](http://www.youthforhumanrights.org)
- - date_published: 2024-06-06T19:38:43.175521+00:00
- - tags: ['human rights']
-
- ## Representing Europe’s youth | European Youth Forum
- - [https://youthforum.org](https://youthforum.org)
- - date_published: 2024-05-06T23:57:45.852242+00:00
-
- ## YouthMappers|Humanitarian Mapping|University Students
- - [https://www.youthmappers.org](https://www.youthmappers.org)
- - date_published: 2024-07-08T12:49:36.417373+00:00
-
- ## Homepage
- - [https://www.youthpolicy.org](https://www.youthpolicy.org)
- - date_published: 2024-07-10T09:29:02.934198+00:00
-
- ## Welcome to The Youth STEM Connection! - The Youth STEM Connection
- - [https://youthstemconnection.org](https://youthstemconnection.org)
- - date_published: 2023-05-20T15:52:13+00:00
-
- ## https://youtube-dl.org
- - [https://youtube-dl.org](https://youtube-dl.org)
- - date_published: 2023-08-01T08:39:22+00:00
- - tags: ['youtube', 'open source']
 

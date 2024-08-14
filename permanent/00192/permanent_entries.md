@@ -1,3 +1,171 @@
+ ## Fordham University
+ - [http://curapersonalis.fordham.edu](http://curapersonalis.fordham.edu)
+ - date_published: 2024-06-24T09:59:49.219234+00:00
+
+ ## FLASH Archive
+ - [https://ir.lawnet.fordham.edu](https://ir.lawnet.fordham.edu)
+ - date_published: 2024-05-07T09:30:23.197658+00:00
+
+ ## School of Law | Fordham School of Law
+ - [http://law.fordham.edu](http://law.fordham.edu)
+ - date_published: 2024-06-17T11:16:21.529005+00:00
+
+ ## redirect
+ - [http://lawlib1.lawnet.fordham.edu](http://lawlib1.lawnet.fordham.edu)
+ - date_published: 2024-06-29T06:05:52.367247+00:00
+
+ ## Fordham University
+ - [https://myapps.web.fordham.edu](https://myapps.web.fordham.edu)
+ - date_published: 2024-06-24T10:01:00.071664+00:00
+
+ ## Login - CAS – Central Authentication Service
+ - [https://my.fordham.edu](https://my.fordham.edu)
+ - date_published: 2024-06-24T10:00:30.360638+00:00
+
+ ## Fordham Now
+ - [https://news.fordham.edu](https://news.fordham.edu)
+ - date_published: 2024-06-24T10:00:56.881406+00:00
+
+ ## Fordham Now
+ - [https://now.fordham.edu](https://now.fordham.edu)
+ - date_published: 2024-06-24T10:00:25.019330+00:00
+
+ ## Computer and Information Science Department | Fordham
+ - [https://www.cis.fordham.edu](https://www.cis.fordham.edu)
+ - date_published: 2024-06-17T09:37:31.773554+00:00
+
+ ## Fordham University
+ - [https://www.fordham.edu](https://www.fordham.edu)
+ - date_published: 2024-05-06T16:58:48.717846+00:00
+
+ ## Fordham University Library
+ - [https://www.library.fordham.edu](https://www.library.fordham.edu)
+ - date_published: 2024-02-26T19:45:43+00:00
+
+ ## FLC Alumni Home | Fort Lewis College | Durango, CO
+ - [https://alumni.fortlewis.edu](https://alumni.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:17.575362+00:00
+
+ ## Admission Portal
+ - [https://apply.fortlewis.edu](https://apply.fortlewis.edu)
+ - date_published: 2024-07-15T07:38:47.890726+00:00
+
+ ## Career & Life Design Center | Fort Lewis College
+ - [https://careers.fortlewis.edu](https://careers.fortlewis.edu)
+ - date_published: 2024-07-15T07:38:58.510274+00:00
+
+ ## Fort Lewis College - Acalog ACMS™
+ - [https://catalog.fortlewis.edu](https://catalog.fortlewis.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Admission Portal
+ - [https://connect.fortlewis.edu](https://connect.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:02.560324+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://courses.fortlewis.edu](https://courses.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:24.322311+00:00
+
+ ## Index
+ - [http://faculty.fortlewis.edu](http://faculty.fortlewis.edu)
+ - date_published: 2024-06-30T02:31:57.921031+00:00
+
+ ## Fort Lewis College Foundation | Fort Lewis College | Durango, CO
+ - [https://foundation.fortlewis.edu](https://foundation.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:21.305189+00:00
+
+ ## Master's in Education Programs | Teacher Education | Fort Lewis College
+ - [https://graduate.fortlewis.edu](https://graduate.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:27.554824+00:00
+
+ ## John F. Reed Library, Fort Lewis College, Durango, CO
+ - [https://library.fortlewis.edu](https://library.fortlewis.edu)
+ - date_published: 2024-07-15T07:38:56.264584+00:00
+
+ ## Service Discovery
+ - [https://thefort.fortlewis.edu](https://thefort.fortlewis.edu)
+ - date_published: 2024-07-15T07:39:03.974909+00:00
+
+ ## Fort Lewis College WebOPUS
+ - [https://webopus.fortlewis.edu](https://webopus.fortlewis.edu)
+ - date_published: 2021-03-30T14:15:33+00:00
+
+ ## Fort Lewis College in Durango, Colorado
+ - [https://fortlewis.edu](https://fortlewis.edu)
+ - date_published: 2024-05-12T05:45:25.753185+00:00
+
+ ## Frostburg State University
+ - [http://www.frostburg.edu](http://www.frostburg.edu)
+ - date_published: 2024-07-02T03:24:53.901342+00:00
+
+ ## Office of Research | FSU Office of Research
+ - [https://about.research.fsu.edu](https://about.research.fsu.edu)
+ - date_published: 2024-04-30T04:16:02.530144+00:00
+
+ ## Academic Program Guide
+ - [https://academic-guide.fsu.edu](https://academic-guide.fsu.edu)
+ - date_published: 2024-07-14T18:24:51+00:00
+
+ ## FSU Research Computing Center
+ - [https://acct.rcc.fsu.edu](https://acct.rcc.fsu.edu)
+ - date_published: 2024-07-22T04:13:06.365175+00:00
+
+ ## Academic Center for Excellence
+ - [https://ace.fsu.edu](https://ace.fsu.edu)
+ - date_published: 2024-07-21T15:00:55+00:00
+
+ ## FSU Admissions
+ - [https://admissions.fsu.edu](https://admissions.fsu.edu)
+ - date_published: 2024-04-30T04:15:07.222622+00:00
+
+ ## University Advising | Florida State University.
+ - [https://advising.fsu.edu](https://advising.fsu.edu)
+ - date_published: 2024-04-30T04:15:13.364762+00:00
+
+ ## FSU Alert
+ - [https://alerts.fsu.edu](https://alerts.fsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## FSU Alumni Association
+ - [https://alumni.fsu.edu](https://alumni.fsu.edu)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Information Technology Services
+ - [https://apps.its.fsu.edu](https://apps.its.fsu.edu)
+ - date_published: 2024-07-18T18:00:36+00:00
+
+ ## Home | ASPIRE - A Strategic Plan to Inspire Research Excellence
+ - [https://aspire.fsu.edu](https://aspire.fsu.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Faculty Honors & Awards
+ - [http://awards.faculty.fsu.edu](http://awards.faculty.fsu.edu)
+ - date_published: 2024-07-22T03:59:49.953753+00:00
+
+ ## | FSU Bookstore
+ - [https://bookstore.fsu.edu](https://bookstore.fsu.edu)
+ - date_published: 2024-04-30T04:15:38.801803+00:00
+
+ ## Seminole Boosters | Florida State University
+ - [https://boosters.fsu.edu](https://boosters.fsu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Title of Site
+ - [https://bravo.unicomm.fsu.edu](https://bravo.unicomm.fsu.edu)
+ - date_published: 2024-07-20T22:28:36.351577+00:00
+
+ ## Welcome to the FSU Drupal Site
+ - [https://budget.fsu.edu](https://budget.fsu.edu)
+ - date_published: 2024-07-18T15:08:47+00:00
+
+ ## Events Calendar - Florida State University Calendar
+ - [https://calendar.fsu.edu](https://calendar.fsu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## FSU Campus Recreation – Find What Moves You.
+ - [https://campusrec.fsu.edu](https://campusrec.fsu.edu)
+ - date_published: 2024-07-21T17:08:53+00:00
+
  ## CARE | Center for Academic Retention & Enhancement
  - [https://care.fsu.edu](https://care.fsu.edu)
  - date_published: 2024-07-16T19:16:42+00:00
@@ -2565,11 +2733,6 @@ Washington Journalism and Media Conference (WJMC) - WSP
  - [https://www2.gmu.edu](https://www2.gmu.edu)
  - date_published: 2024-04-30T04:25:44.724704+00:00
 
- ## Home |
-             George Mason Department of Computer Science
- - [https://www.cs.gmu.edu](https://www.cs.gmu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
  ## Center for Discovery Science and Health Informatics at George Mason University
  - [https://dshi.gmu.edu](https://dshi.gmu.edu)
  - date_published: 2024-04-30T04:27:41.542619+00:00
@@ -3844,169 +4007,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Bloomberg Center for Cities at Harvard University
  - [https://cities.harvard.edu](https://cities.harvard.edu)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Clinic Stories Archives - Harvard Law School
- - [https://clinics.law.harvard.edu](https://clinics.law.harvard.edu)
- - date_published: 2024-04-30T04:46:00.536580+00:00
-
- ## Home - CMSA
- - [http://cmsa.fas.harvard.edu](http://cmsa.fas.harvard.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## 哈佛大学中国能源经济环境项目
- - [http://cn.chinaproject.harvard.edu](http://cn.chinaproject.harvard.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Culture, Cognition, and Coevolution Lab
- - [https://coevolution.fas.harvard.edu](https://coevolution.fas.harvard.edu)
- - date_published: 2024-06-12T12:39:54.555828+00:00
-
- ## Cognitive Neuropsychology Laboratory
- - [https://cogneuro.psychology.fas.harvard.edu](https://cogneuro.psychology.fas.harvard.edu)
- - date_published: 2024-04-28T03:44:16.813661+00:00
-
- ## Harvard College
- - [https://college.harvard.edu](https://college.harvard.edu)
- - date_published: 2024-06-22T18:28:42+00:00
-
- ## Commencement Office
- - [http://commencement.harvard.edu](http://commencement.harvard.edu)
- - date_published: 2024-08-11T05:03:26+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [http://community.alumni.harvard.edu](http://community.alumni.harvard.edu)
- - date_published: 2024-04-30T04:46:05.639263+00:00
-
- ## Success: HSPH Content
- - [https://content.sph.harvard.edu](https://content.sph.harvard.edu)
- - date_published: 2023-10-11T18:23:20+00:00
-
- ## Classical Continuum
- - [https://continuum.fas.harvard.edu](https://continuum.fas.harvard.edu)
- - date_published: 2024-06-24T10:08:29.276773+00:00
-
- ## The Harvard Law School Forum on Corporate Governance | The leading online blog in the fields of corporate governance and financial regulation.
- - [https://corpgov.law.harvard.edu](https://corpgov.law.harvard.edu)
- - date_published: 2023-10-25T18:51:38.896224+00:00
-
- ## Countway Library
- - [https://countway.harvard.edu](https://countway.harvard.edu)
- - date_published: 2024-08-11T05:21:18.289188+00:00
-
- ## The Committee On Course Registration
- - [https://courseregistration.fas.harvard.edu](https://courseregistration.fas.harvard.edu)
- - date_published: 2024-06-30T11:21:21+00:00
-
- ## CRCS | Center for Research on Computation and Society
- - [https://crcs.seas.harvard.edu](https://crcs.seas.harvard.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## CS50
- - [https://cs50.harvard.edu](https://cs50.harvard.edu)
- - date_published: 2024-06-21T15:31:32+00:00
-
- ## Harvard Computer Science :: Harvard CS Concentration
- - [https://csadvising.seas.harvard.edu](https://csadvising.seas.harvard.edu)
- - date_published: 2024-04-30T04:47:06.184694+00:00
-
- ## Cushman Lab – Template for a project, lab, dept. etc.
- - [https://cushmanlab.fas.harvard.edu](https://cushmanlab.fas.harvard.edu)
- - date_published: 2024-06-22T07:48:09+00:00
-
- ## Chandra X-Ray Center
- - [http://cxc.harvard.edu](http://cxc.harvard.edu)
- - date_published: 2024-07-22T07:03:53.742825+00:00
-
- ## Berkman Klein Center
- - [https://cyber.harvard.edu](https://cyber.harvard.edu)
- - date_published: 2024-03-11T20:54:03.223117+00:00
-
- ## Berkman Klein Center
- - [https://cyber.law.harvard.edu](https://cyber.law.harvard.edu)
- - date_published: 2024-04-29T02:42:10.432644+00:00
-
- ## Home | Digital Data Design Institute at Harvard
- - [https://d3.harvard.edu](https://d3.harvard.edu)
- - date_published: 2023-10-25T18:51:42.107342+00:00
-
- ## Mapping Past Societies
- - [https://darmc.harvard.edu](https://darmc.harvard.edu)
- - date_published: 2024-05-06T16:59:19.797543+00:00
-
- ## DASH Home
- - [https://dash.harvard.edu](https://dash.harvard.edu)
- - date_published: 2024-05-12T04:28:16.700308+00:00
-
- ## Home
- - [https://datascience.harvard.edu](https://datascience.harvard.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Harvard Dataverse
- - [https://dataverse.harvard.edu](https://dataverse.harvard.edu)
- - date_published: 2024-05-11T09:34:04.005381+00:00
-
- ## Center on the Developing Child at Harvard University
- - [https://developingchild.harvard.edu](https://developingchild.harvard.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## HarvardSites | HarvardSites Drupal User Guide
- - [https://drupal.harvardsites.harvard.edu](https://drupal.harvardsites.harvard.edu)
- - date_published: 2024-07-21T23:19:22.821083+00:00
-
- ## Data Science Services
- - [https://dss.iq.harvard.edu](https://dss.iq.harvard.edu)
- - date_published: 2024-07-14T14:36:27+00:00
-
- ## Home - Early Design Education
- - [https://earlydesigneducation.gsd.harvard.edu](https://earlydesigneducation.gsd.harvard.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Executive and Continuing Professional Education
- - [https://ecpe.sph.harvard.edu](https://ecpe.sph.harvard.edu)
- - date_published: 2024-04-30T04:47:28.591010+00:00
-
- ## Home
- - [https://embeddedethics.seas.harvard.edu](https://embeddedethics.seas.harvard.edu)
- - date_published: 2024-06-15T12:19:24+00:00
-
- ## Epicenter
- - [http://epicenter.wcfia.harvard.edu](http://epicenter.wcfia.harvard.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Edmond & Lily Safra Center for Ethics
- - [https://ethics.harvard.edu](https://ethics.harvard.edu)
- - date_published: 2024-06-15T13:00:55+00:00
-
- ## Events Calendar - Harvard SEAS
- - [https://events.seas.harvard.edu](https://events.seas.harvard.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Harvard School of Engineering and Applied Sciences Faculty Explorer
- - [https://facultyexplorer.seas.harvard.edu](https://facultyexplorer.seas.harvard.edu)
- - date_published: 2024-04-30T04:47:13.495931+00:00
-
- ## Home HAS EVENTS
- - [https://filmstudycenter.fas.harvard.edu](https://filmstudycenter.fas.harvard.edu)
- - date_published: 2024-07-14T05:40:33.415243+00:00
-
- ## Digital Giza | Home
- - [http://giza.fas.harvard.edu](http://giza.fas.harvard.edu)
- - date_published: 2024-05-08T10:34:39.804939+00:00
-
- ## GARY KING
- - [https://gking.harvard.edu](https://gking.harvard.edu)
- - date_published: 2024-03-26T16:12:46.229022+00:00
- - tags: ['personal']
-
- ## The Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
- - [https://gsas.harvard.edu](https://gsas.harvard.edu)
- - date_published: 2024-08-11T05:21:32.552802+00:00
-
- ## Research Guides
- - [https://guides.library.harvard.edu](https://guides.library.harvard.edu)
- - date_published: 2024-06-30T04:01:14.379264+00:00
-
- ## Harvard University
- - [https://harvard.edu](https://harvard.edu)
- - date_published: 2024-04-15T00:00:00+00:00
 

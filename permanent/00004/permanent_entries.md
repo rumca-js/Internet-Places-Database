@@ -1,3 +1,7 @@
+ ## Raster | Photo manager for modern teams
+ - [https://raster.app](https://raster.app)
+ - date_published: 2024-07-23T21:46:14.684721+00:00
+
  ## Raycast Music
  - [https://raycast-music.app](https://raycast-music.app)
  - date_published: 2024-02-10T00:00:00+00:00
@@ -706,6 +710,10 @@
  ## Find your dream Canadian tech job
  - [https://techjobscanada.app](https://techjobscanada.app)
  - date_published: 2024-04-28T04:30:40.131321+00:00
+
+ ## Tedy - Custom benefits and modern recognition for your whole team
+ - [https://www.tedy.app](https://www.tedy.app)
+ - date_published: 2024-08-09T00:00:00+00:00
 
  ## Introduction | Terrastories Support Materials
  - [https://docs.terrastories.app](https://docs.terrastories.app)
@@ -4014,12 +4022,4 @@
  ## Erickka Patmore
  - [https://erickka.art](https://erickka.art)
  - date_published: 2024-06-23T04:01:43.894027+00:00
-
- ## EthBlock.art
- - [https://ethblock.art](https://ethblock.art)
- - date_published: 2024-06-16T03:35:51.367269+00:00
-
- ## index.html · Ferale.art
- - [https://ferale.art](https://ferale.art)
- - date_published: 2024-08-08T03:08:36.815400+00:00
 

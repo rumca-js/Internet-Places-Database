@@ -1,3 +1,195 @@
+ ## Federal Reserve Bank of Cleveland
+ - [https://www.clevelandfed.org](https://www.clevelandfed.org)
+ - date_published: 2023-10-25T21:07:54.878569+00:00
+
+ ## Cleveland Historical
+ - [https://clevelandhistorical.org](https://clevelandhistorical.org)
+ - date_published: 2024-04-19T19:49:15.778571+00:00
+ - tags: ['mobile app', 'history', 'cleveland']
+
+ ## The Cleveland Memory Project: Cleveland History in Photos, Video, and More
+ - [http://www.clevelandmemory.org](http://www.clevelandmemory.org)
+ - date_published: 2024-06-28T14:19:37.767507+00:00
+
+ ## ดูหนังออนไลน์ฟรี รีวิวหนัง จะมาพูดถึงเรื่องประเภทของหนังหรือภาพยนต์
+ - [http://www.clevelandpublicart.org](http://www.clevelandpublicart.org)
+ - date_published: 2024-06-28T14:12:51.840447+00:00
+
+ ## Home - CLever Audio Plug-In
+ - [https://cleveraudio.org](https://cleveraudio.org)
+ - date_published: 2024-03-06T16:24:07+00:00
+
+ ## Clever Creations | Your Hub for 3D Printing, Laser Cutting, and 3D Scanning
+ - [https://clevercreations.org](https://clevercreations.org)
+ - date_published: 2023-10-25T11:20:10.803835+00:00
+ - tags: ['3d printing']
+
+ ## Engaging Networks: Nonprofit Digital Engagement Platform
+ - [https://act.clf.org](https://act.clf.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Home
+ - [https://clf.org](https://clf.org)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Home
+ - [https://cl-foundation.org](https://cl-foundation.org)
+ - date_published: 2020-07-01T13:28:08+00:00
+
+ ## CLFS Trac
+ - [https://trac.clfs.org](https://trac.clfs.org)
+ - date_published: 2024-05-08T09:42:34.604829+00:00
+
+ ## CLIdea Digital | Agencia marketing digital Madrid
+ - [https://clidea.org](https://clidea.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## ClientEarth | Environmental law charity
+ - [https://www.clientearth.org](https://www.clientearth.org)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Homepage - iCS
+ - [https://climaesociedade.org](https://climaesociedade.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Climate Action 100+
+ - [http://climateaction100.org](http://climateaction100.org)
+ - date_published: 2024-07-08T10:05:42.258978+00:00
+
+ ## Climate Action Stokesley and Villages
+ - [https://climateactionstokesleyandvillages.org](https://climateactionstokesleyandvillages.org)
+ - date_published: 2024-08-07T03:55:53.538899+00:00
+
+ ## Home
+ - [https://climateactiontracker.org](https://climateactiontracker.org)
+ - date_published: 2024-05-20T13:47:09+00:00
+ - tags: ['global warming', 'climate change']
+
+ ## Homepage
+ - [https://climateanalytics.org](https://climateanalytics.org)
+ - date_published: 2023-11-26T13:56:16.649268+00:00
+
+ ## Climate and Land Use Alliance - Cultivating Solutions for People and the Planet
+ - [https://www.climateandlandusealliance.org](https://www.climateandlandusealliance.org)
+ - date_published: 2024-07-14T14:51:02.866931+00:00
+
+ ## Climate Audit
+ - [https://climateaudit.org](https://climateaudit.org)
+ - date_published: 2024-05-06T23:32:38.800177+00:00
+
+ ## Climate Audit
+ - [http://www.climateaudit.org](http://www.climateaudit.org)
+ - date_published: 2024-06-14T09:22:30+00:00
+
+ ## Climatebase
+ - [https://climatebase.org](https://climatebase.org)
+ - date_published: 2024-07-15T11:46:28.299881+00:00
+
+ ## Climate Cafes – Ultimate resource for green and sustainable living | Speak your #ClimateTruth
+ - [https://climatecafes.org](https://climatecafes.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Making Real Change Possible
+ - [http://www.climatecare.org](http://www.climatecare.org)
+ - date_published: 2024-07-12T17:14:39.183832+00:00
+
+ ## The climate case - Saúl vs. RWE
+ - [https://rwe.climatecase.org](https://rwe.climatecase.org)
+ - date_published: 2024-07-02T17:59:33.600160+00:00
+
+ ## Sea level rise and coastal flood risk maps -- a global screening tool by Climate Central
+ - [https://coastal.climatecentral.org](https://coastal.climatecentral.org)
+ - date_published: 2024-06-16T05:35:20.744125+00:00
+
+ ## Picturing Our Future
+ - [https://picturing.climatecentral.org](https://picturing.climatecentral.org)
+ - date_published: 2024-06-16T05:35:27.762967+00:00
+
+ ## See your local sea level and coastal flood risk
+ - [https://riskfinder.climatecentral.org](https://riskfinder.climatecentral.org)
+ - date_published: 2024-06-16T05:35:22.741064+00:00
+
+ ## Daily Solar & Wind Power Forecasts | Climate Central
+ - [https://weatherpower.climatecentral.org](https://weatherpower.climatecentral.org)
+ - date_published: 2024-06-16T05:35:19.010737+00:00
+
+ ## Climate Central
+ - [https://www.climatecentral.org](https://www.climatecentral.org)
+ - date_published: 2024-05-01T05:44:27.185923+00:00
+
+ ## Climate Change Awards
+ - [http://climatechangeawards.org](http://climatechangeawards.org)
+ - date_published: 2024-06-30T02:33:43.035018+00:00
+
+ ## Home - Center for Climate Change Communication
+ - [https://www.climatechangecommunication.org](https://www.climatechangecommunication.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Climate Change Predictions
+ - [http://climatechangepredictions.org](http://climatechangepredictions.org)
+ - date_published: 2023-10-16T00:00:00+00:00
+
+ ## Home
+ - [http://climatechangereconsidered.org](http://climatechangereconsidered.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Climate Change Tracker
+ - [https://climatechangetracker.org](https://climatechangetracker.org)
+ - date_published: 2023-10-25T08:31:20.212953+00:00
+ - tags: ['climate change', 'global warming']
+
+ ## Home page
+ - [https://climate-cryosphere.org](https://climate-cryosphere.org)
+ - date_published: 2024-05-07T21:24:04.986891+00:00
+
+ ## Scientific Reference to Reliable Information on Climate Change
+ - [https://climatefeedback.org](https://climatefeedback.org)
+ - date_published: 2015-02-10T04:59:50+00:00
+
+ ## The Climate Action Button
+ - [http://www.climatehotmap.org](http://www.climatehotmap.org)
+ - date_published: 2024-06-30T02:34:12.188063+00:00
+
+ ## Climate Impulse | First hydrogen flight around the world
+ - [https://climateimpulse.org](https://climateimpulse.org)
+ - date_published: 2024-07-03T05:02:46.066149+00:00
+
+ ## The Center for Climate Integrity
+ - [https://climateintegrity.org](https://climateintegrity.org)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Climate Interactive
+ - [http://climateinteractive.org](http://climateinteractive.org)
+ - date_published: 2024-06-19T01:13:05+00:00
+
+ ## En-ROADS Climate Scenario
+ - [https://en-roads.climateinteractive.org](https://en-roads.climateinteractive.org)
+ - date_published: 2024-06-06T01:13:23+00:00
+
+ ## Private Jet Emissions - ClimateJets
+ - [https://climatejets.org](https://climatejets.org)
+ - date_published: 2023-10-25T21:07:55.534132+00:00
+
+ ## ClimateMusic | Science + Music + Action
+ - [https://climatemusic.org](https://climatemusic.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Climate Action Network – Home
+ - [https://climatenetwork.org](https://climatenetwork.org)
+ - date_published: 2024-07-08T10:15:27+00:00
+
+ ## Change Climate Project | Get Climate Neutral Certified
+ - [https://www.climateneutral.org](https://www.climateneutral.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## United Nations online platform for voluntary cancellation of certified emission reductions (CERs)
+ - [https://offset.climateneutralnow.org](https://offset.climateneutralnow.org)
+ - date_published: 2024-05-02T12:51:16.282736+00:00
+
+ ## Climate Observed - Observed effects and causes of global warming
+ - [https://climateobserved.org](https://climateobserved.org)
+ - date_published: 2023-10-26T00:00:00+00:00
+
  ## Home Page | Climate One
  - [https://www.climateone.org](https://www.climateone.org)
  - date_published: 2024-07-07T04:55:50.532481+00:00
@@ -3851,195 +4043,4 @@
  ## Creative Commons Certificate
  - [https://certificate.creativecommons.org](https://certificate.creativecommons.org)
  - date_published: 2024-07-20T10:32:07.092408+00:00
-
- ## CC Colombia - Just another Chapter Websites site
- - [https://co.creativecommons.org](https://co.creativecommons.org)
- - date_published: 2024-07-08T20:14:14.010391+00:00
-
- ## Homepage - Creative Commons
- - [https://creativecommons.org](https://creativecommons.org)
- - date_published: 2023-12-11T16:22:52.219620+00:00
- - tags: ['creative commons']
-
- ## Mehr Möglichkeiten - CC Germany
- - [http://de.creativecommons.org](http://de.creativecommons.org)
- - date_published: 2020-01-09T00:00:00+00:00
-
- ## Creative Commons license buttons
- - [https://i.creativecommons.org](https://i.creativecommons.org)
- - date_published: 2024-01-09T03:38:46.932760+00:00
-
- ## Creative Commons Movies
- - [https://mirrors.creativecommons.org](https://mirrors.creativecommons.org)
- - date_published: 2015-07-29T18:13:35+00:00
-
- ## Creative Commons México - Creative Commons México
- - [https://mx.creativecommons.org](https://mx.creativecommons.org)
- - date_published: 2024-07-08T20:14:11.658032+00:00
-
- ## CC Global Network Community Site
- - [http://network.creativecommons.org](http://network.creativecommons.org)
- - date_published: 2018-11-13T00:00:00+00:00
-
- ## CC Search Portal
- - [https://search.creativecommons.org](https://search.creativecommons.org)
- - date_published: 2024-05-18T20:07:45+00:00
- - tags: ['search engine', 'internet archive']
-
- ## Creative Commons
- - [https://wiki.creativecommons.org](https://wiki.creativecommons.org)
- - date_published: 2024-04-25T19:39:08+00:00
- - tags: ['creative commons']
-
- ## Creative Network
- - [https://www.creative-network.org](https://www.creative-network.org)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## CreativesDAO
- - [https://creativesdao.org](https://creativesdao.org)
- - date_published: 2024-06-16T04:29:58.698999+00:00
-
- ## Home - Creative Time
- - [http://creativetime.org](http://creativetime.org)
- - date_published: 2024-06-19T04:51:58.975607+00:00
-
- ## Home | Creative Time Reports
- - [http://creativetimereports.org](http://creativetimereports.org)
- - date_published: 2024-06-21T15:04:40.401765+00:00
-
- ## Creativos Online
- - [https://www.creativosonline.org](https://www.creativosonline.org)
- - date_published: 2024-06-20T20:53:18.703412+00:00
-
- ## Creators Guild of America | Home
- - [https://creatorsguildofamerica.org](https://creatorsguildofamerica.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Creators Connect - Creators Wanted
- - [https://connect.creatorswanted.org](https://connect.creatorswanted.org)
- - date_published: 2022-12-16T00:00:00+00:00
-
- ## Home - Creators Wanted
- - [https://creatorswanted.org](https://creatorswanted.org)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Inicio - Fundación Crecer Jugando
- - [https://crecerjugando.org](https://crecerjugando.org)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## The Credit Score Quiz
- - [http://www.creditscorequiz.org](http://www.creditscorequiz.org)
- - date_published: 2022-01-08T01:49:09+00:00
-
- ## https://www.creditslips.org
- - [https://www.creditslips.org](https://www.creditslips.org)
- - date_published: 2024-01-02T06:40:10.678724+00:00
-
- ## Creek Studio
- - [https://ksvy.studio.creek.org](https://ksvy.studio.creek.org)
- - date_published: 2024-05-31T23:41:24+00:00
-
- ## Aloïs Micard
- - [https://blog.creekorful.org](https://blog.creekorful.org)
- - date_published: 2024-07-09T07:57:36.777566+00:00
-
- ## Creekside Commons
- - [http://creeksidecommons.org](http://creeksidecommons.org)
- - date_published: 2024-06-26T23:40:22.882660+00:00
-
- ## Creekside Commons
- - [https://www.creeksidecommons.org](https://www.creeksidecommons.org)
- - date_published: 2024-06-26T23:40:11.407031+00:00
-
- ## Cree Literacy Network
- - [https://creeliteracy.org](https://creeliteracy.org)
- - date_published: 2024-07-02T10:15:38.243979+00:00
-
- ## Cremation Association of North America (CANA)
- - [https://www.cremationassociation.org](https://www.cremationassociation.org)
- - date_published: 2024-06-19T14:41:20.942499+00:00
-
- ## Cress | Site de la  CRESS, Chambre Régionale de l'Économie Sociale et Solidaire Nouvelle-Aquitaine
- - [https://www.cress-na.org](https://www.cress-na.org)
- - date_published: 2024-07-12T05:54:31.433616+00:00
-
- ## Crest Cyber Security Maturity
- - [https://cmage.crest-approved.org](https://cmage.crest-approved.org)
- - date_published: 2023-05-30T09:48:06+00:00
-
- ## Home Page
- - [https://crest-approved.org](https://crest-approved.org)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## CRESTCon 2024
- - [https://www.crestcon.org](https://www.crestcon.org)
- - date_published: 2024-07-20T19:07:54.990691+00:00
-
- ## Home | Committee for a Responsible Federal Budget
- - [https://www.crfb.org](https://www.crfb.org)
- - date_published: 2024-06-27T10:48:50+00:00
-
- ## Home Page
- - [http://cric-oxford.org](http://cric-oxford.org)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Index of /
- - [https://ftp.crifo.org](https://ftp.crifo.org)
- - date_published: 2024-07-20T15:58:38.587529+00:00
-
- ## Home - Crime Museum
- - [https://crimemuseum.org](https://crimemuseum.org)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Criminal Legal News - Dedicated to Protecting Human Rights
- - [http://www.criminallegalnews.org](http://www.criminallegalnews.org)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## Criminon
- - [http://www.criminon.org](http://www.criminon.org)
- - date_published: 2024-06-06T19:39:20.850450+00:00
-
- ## CRIN - Child Rights International Network
- - [https://home.crin.org](https://home.crin.org)
- - date_published: 2024-06-28T21:52:07.507508+00:00
-
- ## Home | Learning Planet Institute
- - [https://cri-paris.org](https://cri-paris.org)
- - date_published: 2023-01-09T13:24:08+00:00
-
- ## CRiSAP, Creative Research into Sound Arts Practice, UAL
- - [https://crisap.org](https://crisap.org)
- - date_published: 2024-04-30T07:18:49.053897+00:00
-
- ## Crisis Group
- - [http://www.crisisgroup.org](http://www.crisisgroup.org)
- - date_published: 2022-08-29T16:09:43+00:00
-
- ## Crisis Text Line | Text HOME to 741741 Free, 24/7 Mental Health Support
- - [http://crisistextline.org](http://crisistextline.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home
- - [https://crisp-berlin.org](https://crisp-berlin.org)
- - date_published: 2024-05-09T05:23:14.180216+00:00
-
- ## Agen SBOBET Terpercaya | Situs Judi Bola Online Resmi | SBOBET88
- - [https://crispfoundation.org](https://crispfoundation.org)
- - date_published: 2023-04-07T00:00:00+00:00
-
- ## Home - Cristo Rey Network
- - [https://www.cristoreynetwork.org](https://www.cristoreynetwork.org)
- - date_published: 2024-07-26T20:02:45.493804+00:00
-
- ## Home - Cristo Rey Jesuit Seattle High School
- - [https://cristoreyseattle.org](https://cristoreyseattle.org)
- - date_published: 2024-04-29T05:29:18.353727+00:00
-
- ## Criticalcommons.org
- - [https://criticalcommons.org](https://criticalcommons.org)
- - date_published: 2024-05-14T03:50:17.477073+00:00
-
- ## The Critical Engineering Manifesto
- - [https://criticalengineering.org](https://criticalengineering.org)
- - date_published: 2024-07-14T10:32:14.963844+00:00
 

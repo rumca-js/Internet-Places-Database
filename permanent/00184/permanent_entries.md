@@ -1,3 +1,196 @@
+ ## Open Access | Universität Stuttgart
+ - [http://oa.uni-stuttgart.de](http://oa.uni-stuttgart.de)
+ - date_published: 2024-07-24T07:00:00.583468+00:00
+
+ ## stuvus – Studierendenvertretung Universität Stuttgart
+ - [https://stuvus.uni-stuttgart.de](https://stuvus.uni-stuttgart.de)
+ - date_published: 2024-08-06T17:41:56.540815+00:00
+
+ ## Für Beschäftigte | Universität Stuttgart
+ - [https://beschaeftigte.uni-stuttgart.de](https://beschaeftigte.uni-stuttgart.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Fakultät 1
+Architektur und Stadtplanung | Universität Stuttgart
+ - [https://www.f01.uni-stuttgart.de](https://www.f01.uni-stuttgart.de)
+ - date_published: 2024-07-20T22:39:11+00:00
+
+ ## Fakultät 5: Informatik, Elektrotechnik und Informationstechnik | Universität Stuttgart
+ - [https://www.f05.uni-stuttgart.de](https://www.f05.uni-stuttgart.de)
+ - date_published: 2024-06-30T06:12:33+00:00
+
+ ## Fakultät 5: Informatik, Elektrotechnik und Informationstechnik | Universität Stuttgart
+ - [http://www.f-iei.uni-stuttgart.de](http://www.f-iei.uni-stuttgart.de)
+ - date_published: 2024-07-07T06:14:04+00:00
+
+ ## Institute for Functional Matter and Quantum Technologies | University of Stuttgart
+ - [https://www.fmq.uni-stuttgart.de](https://www.fmq.uni-stuttgart.de)
+ - date_published: 2024-07-01T05:33:48+00:00
+
+ ## Institut für Maschinelle Sprachverarbeitung | Universität Stuttgart
+ - [http://www.ims.uni-stuttgart.de](http://www.ims.uni-stuttgart.de)
+ - date_published: 2024-07-02T09:10:39+00:00
+
+ ## Fachbereich Informatik | Fakultät 5: Informatik, Elektrotechnik und Informationstechnik | Universität Stuttgart
+ - [http://www.informatik.uni-stuttgart.de](http://www.informatik.uni-stuttgart.de)
+ - date_published: 2024-07-07T07:05:34+00:00
+
+ ## Institute of Software Engineering | University of Stuttgart
+ - [https://www.iste.uni-stuttgart.de](https://www.iste.uni-stuttgart.de)
+ - date_published: 2024-08-07T20:27:39+00:00
+
+ ## Für Studierende | Universität Stuttgart
+ - [https://student.uni-stuttgart.de](https://student.uni-stuttgart.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Startseite | Technische Informations- und Kommunikationsdienste (TIK) | Universität Stuttgart
+ - [https://www.tik.uni-stuttgart.de](https://www.tik.uni-stuttgart.de)
+ - date_published: 2024-07-20T22:26:29+00:00
+
+ ## Universitätsbibliothek Stuttgart | IZUS
+ - [http://www.ub.uni-stuttgart.de](http://www.ub.uni-stuttgart.de)
+ - date_published: 2024-08-06T17:10:45+00:00
+
+ ## Universität Stuttgart
+ - [https://www.uni-stuttgart.de](https://www.uni-stuttgart.de)
+ - date_published: 2023-10-25T18:33:19.227772+00:00
+
+ ## USUS - Der Studierendenblog | Universität Stuttgart
+ - [https://usus.uni-stuttgart.de](https://usus.uni-stuttgart.de)
+ - date_published: 2024-04-29T07:01:16.750198+00:00
+
+ ## Institut für Visualisierung und Interaktive Systeme | Universität Stuttgart
+ - [https://www.vis.uni-stuttgart.de](https://www.vis.uni-stuttgart.de)
+ - date_published: 2024-07-07T07:05:38+00:00
+
+ ## Visualisierungsinstitut | Universität Stuttgart
+ - [https://www.visus.uni-stuttgart.de](https://www.visus.uni-stuttgart.de)
+ - date_published: 2024-05-08T09:51:06.542308+00:00
+
+ ## Häufige Fragen
+ - [https://help.united-domains.de](https://help.united-domains.de)
+ - date_published: 2024-05-01T06:55:13.666558+00:00
+
+ ## Domain Check: Kostenlos, schnell & mit Top-Service | united-domains
+ - [https://web.united-domains.de](https://web.united-domains.de)
+ - date_published: 2024-06-16T09:29:49.022990+00:00
+
+ ## Domain Check: Kostenlos, schnell & mit Top-Service | united-domains
+ - [https://www.united-domains.de](https://www.united-domains.de)
+ - date_published: 2024-05-01T06:18:15.219301+00:00
+
+ ## United-Forum
+ - [https://united-forum.de](https://united-forum.de)
+ - date_published: 2024-05-07T19:01:09.310581+00:00
+
+ ## Europas Internet-Spezialist - United Internet AG
+ - [https://www.united-internet.de](https://www.united-internet.de)
+ - date_published: 2024-06-16T09:21:19.130563+00:00
+
+ ## Gemeinsam helfen | Stiftung United Internet for UNICEF
+ - [https://www.united-internet-for-unicef-stiftung.de](https://www.united-internet-for-unicef-stiftung.de)
+ - date_published: 2024-06-16T09:20:57.672284+00:00
+
+ ## Online-Vermarkter: Media- und Dialog-Spezialist | UIM
+ - [https://www.united-internet-media.de](https://www.united-internet-media.de)
+ - date_published: 2024-05-06T17:57:56.360317+00:00
+
+ ## dblp: computer science bibliography
+ - [https://dblp1.uni-trier.de](https://dblp1.uni-trier.de)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## dblp: computer science bibliography
+ - [https://dblp.uni-trier.de](https://dblp.uni-trier.de)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Der digitale Grimm :: Startseite
+ - [http://www.dwb.uni-trier.de](http://www.dwb.uni-trier.de)
+ - date_published: 2024-06-30T07:24:23.307822+00:00
+
+ ## Willkommen
+ - [https://www.uni-trier.de](https://www.uni-trier.de)
+ - date_published: 2024-06-22T06:11:56.355231+00:00
+
+ ## WSI Programmiersprachen und Übersetzer
+ - [https://pu.inf.uni-tuebingen.de](https://pu.inf.uni-tuebingen.de)
+ - date_published: 2022-06-21T12:42:26+00:00
+
+ ## https://se.cs.uni-tuebingen.de
+ - [https://se.cs.uni-tuebingen.de](https://se.cs.uni-tuebingen.de)
+ - date_published: 2024-01-09T02:56:23.916336+00:00
+
+ ## Universität Tübingen
+ - [https://tcl.sfs.uni-tuebingen.de](https://tcl.sfs.uni-tuebingen.de)
+ - date_published: 2023-01-26T16:07:51+00:00
+
+ ## Startseite
+ - [https://uni-tuebingen.de](https://uni-tuebingen.de)
+ - date_published: 2024-06-17T10:58:53.646901+00:00
+
+ ## Inkunabelkatalog INKA
+ - [http://www.inka.uni-tuebingen.de](http://www.inka.uni-tuebingen.de)
+ - date_published: 2024-07-24T03:31:55.931706+00:00
+
+ ## Faculty
+ - [https://www.mathematik.uni-ulm.de](https://www.mathematik.uni-ulm.de)
+ - date_published: 2021-10-28T20:38:39+00:00
+
+ ## Uni Ulm - Forschung, Studium, Wissenstransfer - Universität Ulm
+ - [https://www.uni-ulm.de](https://www.uni-ulm.de)
+ - date_published: 2024-07-09T23:32:40.242145+00:00
+
+ ## CampusMap
+ - [https://campusmap.uni-vechta.de](https://campusmap.uni-vechta.de)
+ - date_published: 2024-07-04T13:17:40.627547+00:00
+
+ ## Weiterleitung
+ - [https://hisinone.uni-vechta.de](https://hisinone.uni-vechta.de)
+ - date_published: 2024-04-17T08:06:38+00:00
+
+ ## Karriereportal - Uni Vechta
+ - [https://karriere.uni-vechta.de](https://karriere.uni-vechta.de)
+ - date_published: 2024-07-04T13:17:43.373874+00:00
+
+ ## Universität Vechta - Universität Vechta
+ - [https://studip.uni-vechta.de](https://studip.uni-vechta.de)
+ - date_published: 2024-07-04T13:17:49.279847+00:00
+
+ ## Identity Provider der Universität Vechta - Loading Session Information
+ - [https://webmail.uni-vechta.de](https://webmail.uni-vechta.de)
+ - date_published: 2024-07-04T13:17:42.437480+00:00
+
+ ## Universität - Uni Vechta
+ - [https://uni-vechta.de](https://uni-vechta.de)
+ - date_published: 2024-05-08T06:33:31.521616+00:00
+
+ ## Univention GmbH
+ - [http://www.univention.de](http://www.univention.de)
+ - date_published: 2024-07-09T08:13:45.472219+00:00
+
+ ## Universal Music Group Deutschland
+ - [https://info.universal-music.de](https://info.universal-music.de)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Universal Music Group Deutschland
+ - [https://www.universal-music.de](https://www.universal-music.de)
+ - date_published: 2024-06-17T08:37:23.083187+00:00
+
+ ## Berlin University Alliance
+ - [https://universities-berlin.de](https://universities-berlin.de)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Bauhaus100 | 100 Jahre Bauhaus
+ - [http://bauhaus100.uni-weimar.de](http://bauhaus100.uni-weimar.de)
+ - date_published: 2024-06-18T13:28:40.099393+00:00
+
+ ## Sign In
+ - [https://group.uni-weimar.de](https://group.uni-weimar.de)
+ - date_published: 2024-06-18T13:28:44.584211+00:00
+
+ ## Hier können Sie sich anmelden | Lernplattform Bauhaus-Universität Weimar
+ - [https://moodle.uni-weimar.de](https://moodle.uni-weimar.de)
+ - date_published: 2024-06-18T13:28:42.999263+00:00
+
  ## Bauhaus-Universität Weimar - Webmail :: Welcome to Bauhaus-Universität Weimar - Webmail
  - [https://webmail.uni-weimar.de](https://webmail.uni-weimar.de)
  - date_published: 2024-06-18T13:28:45+00:00
@@ -1074,7 +1267,7 @@
  - date_published: 2023-10-25T18:33:21.403089+00:00
 
  ## Startseite
- - [https://www.von-antje.de](https://www.von-antje.de)
+ - [https://von-antje.de](https://von-antje.de)
  - date_published: 2024-02-07T02:42:52.807720+00:00
 
  ## H. F. von Melle
@@ -3075,7 +3268,7 @@ Bibliotheken / Z39.50
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Curated web design inspiration catalog
- - [https://www.curated.design](https://www.curated.design)
+ - [https://curated.design](https://curated.design)
  - date_published: 2024-02-08T00:00:00+00:00
 
  ## Daas Good®  |  A Design Partner Who Doesn’t Drop the Ball
@@ -3831,198 +4024,4 @@ Bibliotheken / Z39.50
  ## Loading aOS Beta...
  - [https://aaronos.dev](https://aaronos.dev)
  - date_published: 2024-06-01T04:49:08.492137+00:00
-
- ## Home
- - [http://aashutosh.dev](http://aashutosh.dev)
- - date_published: 2024-06-23T08:12:36.507554+00:00
-
- ## It works
- - [https://blog.aawadia.dev](https://blog.aawadia.dev)
- - date_published: 2023-10-25T18:34:36.448442+00:00
-
- ## A-squared Software Consulting
- - [https://consulting.aawadia.dev](https://consulting.aawadia.dev)
- - date_published: 2024-04-29T07:18:59.889467+00:00
-
- ## Abdessalam Benharira — JavaScript developer
- - [https://abdessalam.dev](https://abdessalam.dev)
- - date_published: 2024-07-14T10:19:22.707732+00:00
-
- ## Pavel Bychko - Backend Developer
- - [https://abordage.dev](https://abordage.dev)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Accelerant
- - [https://accelerant.dev](https://accelerant.dev)
- - date_published: 2023-12-10T01:30:58+00:00
-
- ## aceto.dev
- - [https://aceto.dev](https://aceto.dev)
- - date_published: 2024-05-11T10:20:09.695989+00:00
-
- ## Alire -
- - [https://alire.ada.dev](https://alire.ada.dev)
- - date_published: 2024-04-23T15:17:38.643084+00:00
- - tags: ['programming libraries', 'ada']
-
- ## Engineering Manager at Meta • Advisor • Speaker • Writer
- - [https://adamconrad.dev](https://adamconrad.dev)
- - date_published: 2024-06-01T04:54:30.142602+00:00
- - tags: ['personal']
-
- ## Ahmed Adebisi's Portfolio
- - [https://adebisiahmed.dev](https://adebisiahmed.dev)
- - date_published: 2024-05-11T10:08:30.309271+00:00
-
- ## Plausible · Web analytics
- - [https://s.aelew.dev](https://s.aelew.dev)
- - date_published: 2024-06-29T19:12:01.233041+00:00
-
- ## AENAC Devices
- - [https://aenac.dev](https://aenac.dev)
- - date_published: 2022-07-20T18:16:08+00:00
-
- ## Aerolite Studios
- - [https://aerolite.dev](https://aerolite.dev)
- - date_published: 2023-10-25T18:34:37.299684+00:00
-
- ## Nour Agha
- - [https://agha.dev](https://agha.dev)
- - date_published: 2024-08-07T21:11:38.336555+00:00
-
- ## Agile.dev Coming Soon | Powered by Atlassian
- - [https://agile.dev](https://agile.dev)
- - date_published: 2024-07-12T17:58:26.249635+00:00
-
- ## Agilicious: Open-Source and Open-Hardware Agile Quadrotor for Vision-Based Flight — agilicious 0.0.1 documentation
- - [https://agilicious.dev](https://agilicious.dev)
- - date_published: 2023-04-17T00:00:00+00:00
-
- ## Agones
- - [https://agones.dev](https://agones.dev)
- - date_published: 2024-07-12T17:58:12.304412+00:00
-
- ## A habitual developer
- - [https://ahabitual.dev](https://ahabitual.dev)
- - date_published: 2024-03-23T18:08:53+00:00
-
- - [https://ahart.dev](https://ahart.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## The Aha Stack
- - [https://ahastack.dev](https://ahastack.dev)
- - date_published: 2024-01-03T14:54:40+00:00
-
- ## AIBoosted.dev | Gergely Szerovay | Substack
- - [https://aiboosted.dev](https://aiboosted.dev)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## AI Events
- - [https://www.aievents.dev](https://www.aievents.dev)
- - date_published: 2024-06-21T06:29:22.901739+00:00
-
- ## Aigur
- - [https://aigur.dev](https://aigur.dev)
- - date_published: 2024-04-29T07:28:50.477109+00:00
-
- ## Aigur
- - [https://client.aigur.dev](https://client.aigur.dev)
- - date_published: 2024-06-19T21:26:22.181598+00:00
-
- ## AI-Powered Landing Page Generator | Simplify Web Development
- - [https://www.aipage.dev](https://www.aipage.dev)
- - date_published: 2024-06-19T19:25:39.168949+00:00
-
- ## Home | airfusion.dev
- - [https://airfusion.dev](https://airfusion.dev)
- - date_published: 2024-05-11T10:23:56.164066+00:00
-
- ## Home Cloud
- - [https://cloud.airfusion.dev](https://cloud.airfusion.dev)
- - date_published: 2024-07-14T10:17:24.698629+00:00
-
- ## Airplane | The developer platform for internal tools
- - [https://www.airplane.dev](https://www.airplane.dev)
- - date_published: 2023-10-25T18:34:38.548749+00:00
-
- ## Akash Goswami
- - [https://akashgoswami.dev](https://akashgoswami.dev)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## akkoma
- - [https://akkoma.dev](https://akkoma.dev)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## AksDev
- - [https://akselmo.dev](https://akselmo.dev)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Contact - akselmo.dev
- - [https://contact.akselmo.dev](https://contact.akselmo.dev)
- - date_published: 2024-04-29T07:19:06.536675+00:00
-
- ## Teabyte
- - [https://alexanderweiss.dev](https://alexanderweiss.dev)
- - date_published: 2023-09-16T00:00:00+00:00
-
- ## Blog – Tailwind CSS
- - [https://alexandro.dev](https://alexandro.dev)
- - date_published: 2024-07-10T11:14:32.893003+00:00
-
- ## Of Chaos and Order - Index
- - [https://alexbilson.dev](https://alexbilson.dev)
- - date_published: 2024-05-07T23:15:35.361064+00:00
-
- ## Alex DeLorenzo - Software Engineer
- - [https://alexdelorenzo.dev](https://alexdelorenzo.dev)
- - date_published: 2024-05-07T23:24:09.124204+00:00
-
- ## Alex Patterson
- - [https://alexpatterson.dev](https://alexpatterson.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Alex Saveau | https://alexsaveau.dev
- - [https://alexsaveau.dev](https://alexsaveau.dev)
- - date_published: 2023-10-25T18:34:44.776986+00:00
-
- ## Home | Ali Alaa - Front-end Web Developer
- - [https://alialaa.dev](https://alialaa.dev)
- - date_published: 2024-05-11T10:23:08.010684+00:00
-
- ## Adrian Alic - Blogging about High-Performance Systems
- - [https://alic.dev](https://alic.dev)
- - date_published: 2023-10-25T08:48:21.706613+00:00
- - tags: ['personal']
-
- ## Alignment Ecosystem Development
- - [https://alignment.dev](https://alignment.dev)
- - date_published: 2024-07-30T16:49:08+00:00
-
- ## Alpine.js
- - [https://alpinejs.dev](https://alpinejs.dev)
- - date_published: 2023-10-25T18:34:45.599743+00:00
-
- ## Altho
- - [https://www.altho.dev](https://www.altho.dev)
- - date_published: 2024-07-15T07:08:40.579600+00:00
-
- ## Alt Labs - Building the Foundation of Web3 Infrastructure
- - [https://altlabs.dev](https://altlabs.dev)
- - date_published: 2024-06-16T03:50:46.616525+00:00
-
- ## Home | Alvezs
- - [https://alvez.dev](https://alvez.dev)
- - date_published: 2024-05-07T23:11:54.541598+00:00
-
- ## amanhimself.dev
- - [https://amanhimself.dev](https://amanhimself.dev)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## mastodon.ameo.dev
- - [https://mastodon.ameo.dev](https://mastodon.ameo.dev)
- - date_published: 2024-05-08T12:14:43.368185+00:00
-
- ## Plausible · Web analytics
- - [https://pause.ameo.dev](https://pause.ameo.dev)
- - date_published: 2024-05-08T12:14:44.461695+00:00
 

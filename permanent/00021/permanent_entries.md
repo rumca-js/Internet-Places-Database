@@ -1,3 +1,43 @@
+ ## 陕西省审计厅
+ - [http://sjt.shaanxi.gov.cn](http://sjt.shaanxi.gov.cn)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## 陕西省统计局
+ - [http://tjj.shaanxi.gov.cn](http://tjj.shaanxi.gov.cn)
+ - date_published: 2024-06-30T20:24:41.145971+00:00
+
+ ## 陕西省文化和旅游厅官网
+ - [http://whhlyt.shaanxi.gov.cn](http://whhlyt.shaanxi.gov.cn)
+ - date_published: 2023-07-31T00:00:00+00:00
+
+ ## 陕西省文物局
+ - [http://wwj.shaanxi.gov.cn](http://wwj.shaanxi.gov.cn)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## 陕西省人民政府
+ - [http://www.shaanxi.gov.cn](http://www.shaanxi.gov.cn)
+ - date_published: 2024-06-30T15:38:36.740701+00:00
+
+ ## 欢迎访问陕西省医疗保障局
+ - [http://ybj.shaanxi.gov.cn](http://ybj.shaanxi.gov.cn)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## 陕西省应急管理厅
+ - [http://yjt.shaanxi.gov.cn](http://yjt.shaanxi.gov.cn)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 山东省商务厅
+ - [http://commerce.shandong.gov.cn](http://commerce.shandong.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 山东省工业和信息化厅
+ - [http://gxt.shandong.gov.cn](http://gxt.shandong.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 山东省机关事务管理局
+ - [http://jgswj.shandong.gov.cn](http://jgswj.shandong.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 山东省粮食和物资储备局
  - [http://lscb.shandong.gov.cn](http://lscb.shandong.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3975,44 +4015,4 @@
  ## clickcease.co is almost here!
  - [https://www.clickcease.co](https://www.clickcease.co)
  - date_published: 2024-05-03T19:36:38+00:00
-
- ## Online Documentation Portal
- - [https://lumatouch.clickhelp.co](https://lumatouch.clickhelp.co)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Climate Capital
- - [https://climatecapital.co](https://climatecapital.co)
- - date_published: 2024-07-03T12:49:56.303914+00:00
-
- ## Climb and Wine
- - [https://www.climbandwine.co](https://www.climbandwine.co)
- - date_published: 2024-07-14T07:44:46.103231+00:00
-
- ## Flight Control
- - [https://admin.clinch.co](https://admin.clinch.co)
- - date_published: 2024-06-24T09:21:04+00:00
-
- ## Calculator
- - [https://calculator.clinch.co](https://calculator.clinch.co)
- - date_published: 2024-02-27T21:18:44+00:00
-
- ## How to optimize dynamic ads in real time | Clinch
- - [https://clinch.co](https://clinch.co)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Create stunning visuals in seconds with AI.
- - [https://clipdrop.co](https://clipdrop.co)
- - date_published: 2023-10-25T12:17:32.135088+00:00
-
- ## Join Clipdrop Community on Slack
- - [https://community.clipdrop.co](https://community.clipdrop.co)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Clipr
- - [https://app.clipr.co](https://app.clipr.co)
- - date_published: 2024-04-25T13:34:06+00:00
-
- ## clipr
- - [https://m.clipr.co](https://m.clipr.co)
- - date_published: 2024-06-25T23:16:24.075501+00:00
 

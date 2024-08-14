@@ -1,3 +1,151 @@
+ ## Mr Saturday's Mumblings
+ - [http://mrsaturdaysmumblings.blogspot.ie](http://mrsaturdaysmumblings.blogspot.ie)
+ - date_published: 2024-07-11T18:21:52+00:00
+
+ ## Republic-The Irish Civil War Game
+ - [http://republictheirishwarofindependence.blogspot.ie](http://republictheirishwarofindependence.blogspot.ie)
+ - date_published: 2024-07-09T14:43:41+00:00
+
+ ## Brian McGee
+ - [https://bmcgee.ie](https://bmcgee.ie)
+ - date_published: 2023-10-25T19:28:34.867850+00:00
+
+ ## Bosch home appliances: experience quality, reliability and precision.
+ - [https://www.bosch-home.ie](https://www.bosch-home.ie)
+ - date_published: 2024-06-16T21:35:43.258197+00:00
+
+ ## Irish News | Breaking News from Ireland | BreakingNews.ie
+ - [https://www.breakingnews.ie](https://www.breakingnews.ie)
+ - date_published: 2023-12-22T18:37:50.548183+00:00
+
+ ## Bricolage
+ - [https://www.bricolage.ie](https://www.bricolage.ie)
+ - date_published: 2024-07-13T14:26:39.393210+00:00
+
+ ## Home
+ - [http://brigitsgarden.ie](http://brigitsgarden.ie)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Brittany Ferries
+ - [https://www.brittany-ferries.ie](https://www.brittany-ferries.ie)
+ - date_published: 2024-08-07T11:52:02.163102+00:00
+
+ ## Home | Brother Online
+ - [https://atyourside.brother.ie](https://atyourside.brother.ie)
+ - date_published: 2024-06-17T21:03:24.990278+00:00
+
+ ## Home | Brother Online
+ - [https://online.brother.ie](https://online.brother.ie)
+ - date_published: 2024-06-17T21:03:23.244226+00:00
+
+ ## Brother Online Store
+ - [https://store.brother.ie](https://store.brother.ie)
+ - date_published: 2024-06-17T21:03:26.673910+00:00
+
+ ## Office Printers | Business Solutions | Supplies - Brother
+ - [https://www.brother.ie](https://www.brother.ie)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Security BSides Dublin : #BSidesDUB #BSidesDublin
+ - [https://www.bsidesdub.ie](https://www.bsidesdub.ie)
+ - date_published: 2024-06-23T16:48:47.913780+00:00
+
+ ## Buildings of Ireland: National Inventory of Architectural Heritage
+ - [https://buildingsofireland.ie](https://buildingsofireland.ie)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Burtown House and Gardens, Athy, Co. Kildare
+ - [http://burtownhouse.ie](http://burtownhouse.ie)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Trusted Independent Journalism Seven Days a Week | Business Post
+ - [https://www.businesspost.ie](https://www.businesspost.ie)
+ - date_published: 2023-10-25T19:28:37.282146+00:00
+
+ ## Capterra Ireland helps you find the right software for your business
+ - [https://www.capterra.ie](https://www.capterra.ie)
+ - date_published: 2024-07-19T18:05:20.506447+00:00
+
+ ## Carewswood Garden Centre & Café Cork
+ - [http://carewswood.ie](http://carewswood.ie)
+ - date_published: 2024-07-13T19:34:27.298777+00:00
+
+ ## Castlebridge - We help people do great things with data.
+ - [https://castlebridge.ie](https://castlebridge.ie)
+ - date_published: 2023-10-25T19:28:44.340624+00:00
+
+ ## celticxstitch.ie
+ - [http://www.celticxstitch.ie](http://www.celticxstitch.ie)
+ - date_published: 2024-07-04T14:34:56.335624+00:00
+
+ ## Central Bank of Ireland | Banc Ceannais na hÉireann
+ - [https://www.centralbank.ie](https://www.centralbank.ie)
+ - date_published: 2024-06-14T15:02:04+00:00
+
+ ## Homepage - Christ Church Bray
+ - [http://www.christchurchbray.ie](http://www.christchurchbray.ie)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## MTU Cork School of Music
+ - [https://csm.cit.ie](https://csm.cit.ie)
+ - date_published: 2024-07-13T19:44:09.398635+00:00
+
+ ## Home
+ - [https://pay.csm.cit.ie](https://pay.csm.cit.ie)
+ - date_published: 2019-08-12T00:00:00+00:00
+
+ ## Home
+ - [https://www.citizensinformation.ie](https://www.citizensinformation.ie)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Citizen Watch Ireland | Official Website
+ - [https://www.citizenwatch.ie](https://www.citizenwatch.ie)
+ - date_published: 2024-07-04T07:26:21.580932+00:00
+
+ ## Citroën Configurator | Personalise the model of your choice
+ - [https://van-configurator.citroen.ie](https://van-configurator.citroen.ie)
+ - date_published: 2024-05-10T04:41:04.480088+00:00
+
+ ## New Cars, Vans and Servicing | Automotive |  Citroën Ireland
+ - [https://citroen.ie](https://citroen.ie)
+ - date_published: 2023-12-11T16:02:12.115031+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.ie](https://www.citroenorigins.ie)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## The Jackie Clarke Collection - 1 man, 100,000 items
+ - [https://www.clarkecollection.ie](https://www.clarkecollection.ie)
+ - date_published: 2024-07-10T08:10:38+00:00
+
+ ## Animal Hair Clippers & Pet Hair Grooming Clippers | Clippers Ireland
+ - [http://www.clippersireland.ie](http://www.clippersireland.ie)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Clonmel Garden Centre | Ireland | Munsters largest Garden Centre
+ - [http://clonmelgardencentre.ie](http://clonmelgardencentre.ie)
+ - date_published: 2024-07-13T19:40:48.087015+00:00
+
+ ## Clontarf & Scots Presbyterian Church Dublin 3
+ - [http://www.clontarfchurch.ie](http://www.clontarfchurch.ie)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Coimisiún na Meán | Ireland’s media regulator
+ - [https://www.cnam.ie](https://www.cnam.ie)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Wexford Garden Centre | Home, Lifestyle and Gifts | Cois na hAbhann
+ - [http://coisnahabhann.ie](http://coisnahabhann.ie)
+ - date_published: 2024-07-13T19:40:56.666360+00:00
+
+ ## Home - Columba Books
+ - [http://columba.ie](http://columba.ie)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## %%sitename%%
+ - [http://coolepark.ie](http://coolepark.ie)
+ - date_published: 2024-07-13T19:40:30.978371+00:00
+
  ## Cork City and County Archives
  - [http://www.corkarchives.ie](http://www.corkarchives.ie)
  - date_published: 2024-06-20T21:30:58.081037+00:00
@@ -3864,152 +4012,4 @@
  ## Kanwal Rekhi School of Information Technology, IIT Bombay
  - [http://www.it.iitb.ac.in](http://www.it.iitb.ac.in)
  - date_published: 2024-07-01T20:10:29.141181+00:00
-
- ## Artificial Intelligence Academic Programs and Machine Learning Academic Programs, AI-ML Training through cutting-edge research as well as strong industry collaborations offered by IIT Bombay.
- - [https://www.minds.iitb.ac.in](https://www.minds.iitb.ac.in)
- - date_published: 2024-03-19T08:58:35+00:00
-
- ## Centre For Atmospheric Sciences (CAS) :: IIT Delhi
- - [https://cas.iitd.ac.in](https://cas.iitd.ac.in)
- - date_published: 2024-07-08T13:10:05.281339+00:00
-
- ## Convocation 2023, IIT Delhi
- - [https://convocation.iitd.ac.in](https://convocation.iitd.ac.in)
- - date_published: 2024-06-22T09:14:56.967927+00:00
-
- ## CS Theory @IITD
- - [https://cstheory.iitd.ac.in](https://cstheory.iitd.ac.in)
- - date_published: 2024-02-08T11:34:33+00:00
-
- ## Home Page : IIT Delhi
- - [https://home.iitd.ac.in](https://home.iitd.ac.in)
- - date_published: 2024-07-04T10:25:12.979845+00:00
-
- ## PhD Programme@CSE/SIT
- - [http://phd.cse.iitd.ac.in](http://phd.cse.iitd.ac.in)
- - date_published: 2024-06-06T10:42:47+00:00
-
- ## Department of Computer Science and Engineering, IIT Delhi
- - [https://www.cse.iitd.ac.in](https://www.cse.iitd.ac.in)
- - date_published: 2024-05-04T15:26:32.945675+00:00
-
- ## Home Page : IIT Delhi
- - [http://www.iitd.ac.in](http://www.iitd.ac.in)
- - date_published: 2024-06-22T09:14:52.689160+00:00
-
- ## Indian Institute of Technology Guwahati
- - [http://www.iitg.ac.in](http://www.iitg.ac.in)
- - date_published: 2024-07-10T05:44:29.239585+00:00
-
- ## Home
- - [http://www.iith.ac.in](http://www.iith.ac.in)
- - date_published: 2024-06-22T12:51:03+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [http://home.iitj.ac.in](http://home.iitj.ac.in)
- - date_published: 2024-08-07T15:23:59.300389+00:00
-
- ## IITJ-Indian Institute of Technology Jodhpur
- - [https://iitj.ac.in](https://iitj.ac.in)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## CSE - IIT Kanpur
- - [https://www.cse.iitk.ac.in](https://www.cse.iitk.ac.in)
- - date_published: 2024-06-20T09:19:18+00:00
-
- ## IIT Kanpur
- - [https://www.iitk.ac.in](https://www.iitk.ac.in)
- - date_published: 2024-06-22T10:00:29.156567+00:00
-
- ## National Digital Library of India (NDLI)
- - [https://ndl.iitkgp.ac.in](https://ndl.iitkgp.ac.in)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Centre for Responsible AI
- - [https://cerai.iitm.ac.in](https://cerai.iitm.ac.in)
- - date_published: 2024-08-06T11:00:25+00:00
-
- ## Cryo-EM
- - [http://cryoem.iitm.ac.in](http://cryoem.iitm.ac.in)
- - date_published: 2024-06-16T23:35:29.012980+00:00
-
- ## Wadhwani School of Data Science & AI
- - [https://dsai.iitm.ac.in](https://dsai.iitm.ac.in)
- - date_published: 2024-06-16T23:35:12.043525+00:00
-
- ## Department of Engineering Design, Indian Institute of Technology Madras
- - [https://ed.iitm.ac.in](https://ed.iitm.ac.in)
- - date_published: 2024-05-01T08:17:12.179261+00:00
-
- ## Faculty Recruitment Portal
- - [https://facapp.iitm.ac.in](https://facapp.iitm.ac.in)
- - date_published: 2024-04-08T05:18:41+00:00
-
- ## Office of Global Engagement | IITM
- - [https://ge.iitm.ac.in](https://ge.iitm.ac.in)
- - date_published: 2024-06-16T23:35:16.062248+00:00
-
- ## Endowment Fund Raising | Joy of Giving | Fund on Research Projects
- - [https://joyofgiving.alumni.iitm.ac.in](https://joyofgiving.alumni.iitm.ac.in)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Department of Medical Sciences & Technology, Indian Institute of Technology Madras | Bringing Engineering to Life
- - [https://mst.iitm.ac.in](https://mst.iitm.ac.in)
- - date_published: 2024-06-16T23:35:37.522060+00:00
-
- ## Women's forum
- - [https://womensforum.iitm.ac.in](https://womensforum.iitm.ac.in)
- - date_published: 2024-06-16T23:35:20.838395+00:00
-
- ## Department of Computer Science & Engineering
- - [http://www.cse.iitm.ac.in](http://www.cse.iitm.ac.in)
- - date_published: 2024-07-04T10:25:16.234812+00:00
-
- ## Indian Institute of Technology Madras
- - [https://www.iitm.ac.in](https://www.iitm.ac.in)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Academic Information System
- - [https://academics.iitr.ac.in](https://academics.iitr.ac.in)
- - date_published: 2024-06-21T12:37:32+00:00
-
- ## IIS Windows Server
- - [https://almamater.iitr.ac.in](https://almamater.iitr.ac.in)
- - date_published: 2020-10-04T13:55:43+00:00
-
- ## DORA Office
- - [https://alumni.iitr.ac.in](https://alumni.iitr.ac.in)
- - date_published: 2024-06-21T11:25:40+00:00
-
- ## BIS Corner – IIT Roorkee
- - [https://biscorner.iitr.ac.in](https://biscorner.iitr.ac.in)
- - date_published: 2024-06-22T11:41:06.732911+00:00
-
- ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
- - [http://dinc.iitr.ac.in](http://dinc.iitr.ac.in)
- - date_published: 2024-06-22T11:40:33.386378+00:00
-
- ## Academic Documents Request | IITR
- - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
- - date_published: 2024-06-21T06:55:42+00:00
-
- ## EICT Academy - eict.iitr.ac.in
- - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home | Expectations IIT Roorkee
- - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
- - date_published: 2021-10-31T11:12:36+00:00
-
- ## Finance & Accounts Office, IITR
- - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
- - date_published: 2024-06-22T11:32:28.888432+00:00
-
- ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
- - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
- - date_published: 2024-06-22T11:32:06.639736+00:00
-
- ## GNEC IITR
- - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
- - date_published: 2024-06-22T11:31:22.309314+00:00
 
