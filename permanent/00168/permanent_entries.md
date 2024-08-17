@@ -1,3 +1,126 @@
+ ## Wolfram MathWorld: The Web's Most Extensive Mathematics Resource
+ - [https://mathworld.wolfram.com](https://mathworld.wolfram.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Wolfram Research--The Math Behind NUMB3RS
+ - [http://numb3rs.wolfram.com](http://numb3rs.wolfram.com)
+ - date_published: 2024-05-04T14:41:05.095548+00:00
+
+ ## Wolfram Language & System Documentation Center
+ - [https://reference.wolfram.com](https://reference.wolfram.com)
+ - date_published: 2024-04-28T13:07:08.652650+00:00
+
+ ## ScienceWorld
+ - [https://scienceworld.wolfram.com](https://scienceworld.wolfram.com)
+ - date_published: 2024-05-07T16:15:17.842034+00:00
+
+ ## Wolfram Search
+ - [https://search.wolfram.com](https://search.wolfram.com)
+ - date_published: 2024-05-09T05:47:03.619349+00:00
+ - tags: ['search engine']
+
+ ## Purchasing
+ - [https://store.wolfram.com](https://store.wolfram.com)
+ - date_published: 2024-05-09T05:47:06.211412+00:00
+
+ ## Wolfram Support Quick Answers
+ - [https://support.wolfram.com](https://support.wolfram.com)
+ - date_published: 2024-05-11T11:23:20.539768+00:00
+
+ ## WolframTones
+ - [https://tones.wolfram.com](https://tones.wolfram.com)
+ - date_published: 2021-03-11T16:38:55+00:00
+
+ ## Wolfram Account Sign-In
+ - [https://user.wolfram.com](https://user.wolfram.com)
+ - date_published: 2024-05-11T11:22:45.800306+00:00
+
+ ## Wolfram: Computation Meets Knowledge
+ - [https://wolfram.com](https://wolfram.com)
+ - date_published: 2024-06-20T20:59:49+00:00
+ - tags: ['search engine', 'data science']
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://api.wolframalpha.com](https://api.wolframalpha.com)
+ - date_published: 2024-06-17T12:13:46.901220+00:00
+
+ ## Wolfram|Alpha Developer Portal
+ - [https://developer.wolframalpha.com](https://developer.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:12.792980+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://de.wolframalpha.com](https://de.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:10.468000+00:00
+
+ ## Wolfram|Alpha en español: Volvemos computable el conocimiento del mundo
+ - [https://es.wolframalpha.com](https://es.wolframalpha.com)
+ - date_published: 2024-06-17T12:13:49.739906+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://fr.wolframalpha.com](https://fr.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:07.975702+00:00
+
+ ## Wolfram|Alpha: 世界の知識を計算可能にする
+ - [https://ja.wolframalpha.com](https://ja.wolframalpha.com)
+ - date_published: 2024-06-17T12:13:52.794817+00:00
+
+ ## Wolfram|Alpha: Products
+ - [https://products.wolframalpha.com](https://products.wolframalpha.com)
+ - date_published: 2024-05-11T11:23:31.573688+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://pt.wolframalpha.com](https://pt.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:15.836942+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://ru.wolframalpha.com](https://ru.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:03.220186+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://tw.wolframalpha.com](https://tw.wolframalpha.com)
+ - date_published: 2024-06-17T12:14:05.709886+00:00
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://wolframalpha.com](https://wolframalpha.com)
+ - date_published: 2024-05-16T02:46:11.105212+00:00
+ - tags: ['science', 'search engine', 'knowledge']
+
+ ## Wolfram|Alpha: Making the world’s knowledge computable
+ - [https://zh.wolframalpha.com](https://zh.wolframalpha.com)
+ - date_published: 2024-06-17T12:13:40.499906+00:00
+
+ ## Wolfram Data Drop: Universal Data Accumulator
+ - [https://datadrop.wolframcloud.com](https://datadrop.wolframcloud.com)
+ - date_published: 2024-05-11T11:23:17.787097+00:00
+
+ ## Wolfram Data Repository: Computable Access to Curated Data
+ - [https://datarepository.wolframcloud.com](https://datarepository.wolframcloud.com)
+ - date_published: 2024-05-11T11:22:56.944486+00:00
+
+ ## Wolfram Cloud
+ - [http://programming.wolframcloud.com](http://programming.wolframcloud.com)
+ - date_published: 2024-06-27T03:57:59.668225+00:00
+
+ ## Wolfram Resource System: Repositories and Archives
+ - [https://resources.wolframcloud.com](https://resources.wolframcloud.com)
+ - date_published: 2024-05-11T11:22:49.711461+00:00
+
+ ## Wolfram Cloud
+ - [https://wolframcloud.com](https://wolframcloud.com)
+ - date_published: 2024-04-30T07:44:16.055973+00:00
+
+ ## Wolfram Consulting Group: Computational Data, Knowledge and Intelligence
+ - [https://wolframconsulting.com](https://wolframconsulting.com)
+ - date_published: 2024-05-11T11:23:29.464534+00:00
+
+ ## Wolfram Media, Inc.—The Publishing Arm of the Wolfram Group
+ - [https://wolfram-media.com](https://wolfram-media.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Wolfram Science and Stephen Wolfram's 'A New Kind of Science'
+ - [https://wolframscience.com](https://wolframscience.com)
+ - date_published: 2024-05-11T11:23:12.877831+00:00
+
  ## Wolfram Consulting Group: Computational Data, Knowledge and Intelligence
  - [https://wolframsolutions.com](https://wolframsolutions.com)
  - date_published: 2024-05-11T11:23:33.691796+00:00
@@ -2235,6 +2358,10 @@ Company :: Home
  - [https://arctictern12663379.wordpress.com](https://arctictern12663379.wordpress.com)
  - date_published: 2024-04-30T07:33:49.778966+00:00
 
+ ## Ardent Performance Computing
+ - [https://ardentperf.wordpress.com](https://ardentperf.wordpress.com)
+ - date_published: 2024-08-14T20:46:54.058478+00:00
+
  ## Arduino, ESP8266, ESP32 & Raspberry Pi stuff
  - [https://arduinodiy.wordpress.com](https://arduinodiy.wordpress.com)
  - date_published: 2024-05-09T04:11:32.383752+00:00
@@ -3894,128 +4021,4 @@ Company :: Home
  ## An Idelic Life
  - [http://complexzeta.wordpress.com](http://complexzeta.wordpress.com)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## Computational Semigroup Theory
- - [http://compsemi.wordpress.com](http://compsemi.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Scruffy's..Blurgh!
- - [https://computersreallysucktravel.wordpress.com](https://computersreallysucktravel.wordpress.com)
- - date_published: 2024-05-07T14:44:35.712914+00:00
-
- ## Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?
- - [https://computinged.wordpress.com](https://computinged.wordpress.com)
- - date_published: 2023-10-25T18:10:13.200424+00:00
-
- ## Computing for Good
- - [http://computingforgood.wordpress.com](http://computingforgood.wordpress.com)
- - date_published: 2024-06-30T11:08:16.319168+00:00
-
- ## Area777
- - [https://conan777.wordpress.com](https://conan777.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Concrete Nonsense
- - [https://concretenonsense.wordpress.com](https://concretenonsense.wordpress.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Confessions of a YA Reader
- - [http://confessionsofayareader.wordpress.com](http://confessionsofayareader.wordpress.com)
- - date_published: 2024-07-16T21:36:27+00:00
-
- ## conflict antiquities
- - [http://conflictantiquities.wordpress.com](http://conflictantiquities.wordpress.com)
- - date_published: 2024-06-24T10:03:22.337736+00:00
-
- ## Connections Oz
- - [https://connectionsoz.wordpress.com](https://connectionsoz.wordpress.com)
- - date_published: 2024-05-09T05:26:25.548018+00:00
-
- ## Connections Wargaming Conference
- - [https://connectionswargaming.wordpress.com](https://connectionswargaming.wordpress.com)
- - date_published: 2024-07-09T14:04:09.687654+00:00
-
- ## Historyline Remake
- - [https://conquertheworldbycode.wordpress.com](https://conquertheworldbycode.wordpress.com)
- - date_published: 2024-05-09T08:56:40.653161+00:00
-
- ## ConservativePunks
- - [http://conservativepunks.wordpress.com](http://conservativepunks.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## constantfrustrationandfearandsoforth
- - [http://constantfrustrationandfearandsoforth.wordpress.com](http://constantfrustrationandfearandsoforth.wordpress.com)
- - date_published: 2024-07-17T10:44:43.627190+00:00
-
- ## Love of History Blog
- - [https://constantinakatsari.wordpress.com](https://constantinakatsari.wordpress.com)
- - date_published: 2024-06-24T10:29:23.335267+00:00
-
- ## Constraints
- - [http://constraints.wordpress.com](http://constraints.wordpress.com)
- - date_published: 2024-06-30T11:19:13.280985+00:00
-
- ## Obras e Serviços Guaiaó Influence Marketing Platform 260 Stars Engenho Talento e Arte
- - [http://construcaoredebrasildaconstrucao.wordpress.com](http://construcaoredebrasildaconstrucao.wordpress.com)
- - date_published: 2024-06-30T02:32:40.795709+00:00
-
- ## Consulting Philologist
- - [https://consultingphilologist.wordpress.com](https://consultingphilologist.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Contact – Infinite Futures
- - [https://contactinfinitefutures.wordpress.com](https://contactinfinitefutures.wordpress.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Continuities
- - [http://continuities.wordpress.com](http://continuities.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Contra Encyclopedia
- - [https://contrapedia.wordpress.com](https://contrapedia.wordpress.com)
- - date_published: 2024-06-18T19:43:17.211528+00:00
-
- ## The Contrarian Matrix
- - [https://contrarianmatrix.wordpress.com](https://contrarianmatrix.wordpress.com)
- - date_published: 2024-06-30T02:41:17.160514+00:00
-
- ## Convert or Die
- - [https://convertordie.wordpress.com](https://convertordie.wordpress.com)
- - date_published: 2024-06-20T01:34:02.795189+00:00
-
- ## cookies & code
- - [https://cookiesandcodeblog.wordpress.com](https://cookiesandcodeblog.wordpress.com)
- - date_published: 2024-07-13T23:54:12.788995+00:00
-
- ## life is VERY weird
- - [http://coolstuffontheweb.wordpress.com](http://coolstuffontheweb.wordpress.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Copper Kettle translation blog
- - [http://copperkettlesite.wordpress.com](http://copperkettlesite.wordpress.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## copticsounds
- - [https://copticsounds.wordpress.com](https://copticsounds.wordpress.com)
- - date_published: 2024-07-02T10:19:42.483132+00:00
-
- ## CopySetPrinting
- - [http://copyset.wordpress.com](http://copyset.wordpress.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Antimatter
- - [http://coraifeartaigh.wordpress.com](http://coraifeartaigh.wordpress.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## (no title)
- - [http://corastillwrites.wordpress.com](http://corastillwrites.wordpress.com)
- - date_published: 2024-07-12T22:36:22.251591+00:00
-
- ## cordlandwehr – Adventures in Open Source Development
- - [https://cordlandwehr.wordpress.com](https://cordlandwehr.wordpress.com)
- - date_published: 2023-10-25T18:10:23.632127+00:00
-
- ## The Everything Seminar
- - [https://cornellmath.wordpress.com](https://cornellmath.wordpress.com)
- - date_published: 2024-05-07T15:48:34.030178+00:00
 

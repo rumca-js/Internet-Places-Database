@@ -1,3 +1,143 @@
+ ## Department of Communications and Agricultural Education
+ - [https://www.communications.k-state.edu](https://www.communications.k-state.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Department of Computer Science at K-State
+ - [https://cs.k-state.edu](https://cs.k-state.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## College of Health and Human Sciences
+ - [https://www.hhs.k-state.edu](https://www.hhs.k-state.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Kansas State University
+ - [https://k-state.edu](https://k-state.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## K-State College of Veterinary Medicine Home Page
+ - [https://www.vet.k-state.edu](https://www.vet.k-state.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## K-State Association for Computing Machinery
+ - [https://acm.cs.ksu.edu](https://acm.cs.ksu.edu)
+ - date_published: 2024-04-17T03:05:42+00:00
+
+ ## K-State ACM SIGAI
+ - [https://acm-sigai.cs.ksu.edu](https://acm-sigai.cs.ksu.edu)
+ - date_published: 2024-07-11T13:09:50.053496+00:00
+
+ ## ALT+CS Lab
+ - [https://alt.cs.ksu.edu](https://alt.cs.ksu.edu)
+ - date_published: 2024-06-27T16:51:28+00:00
+
+ ## CS Applications - Home
+ - [https://apps.cs.ksu.edu](https://apps.cs.ksu.edu)
+ - date_published: 2024-05-07T19:17:12.648572+00:00
+
+ ## Center for Artificial Intelligence and Data Science
+ - [https://caids.cs.ksu.edu](https://caids.cs.ksu.edu)
+ - date_published: 2024-03-05T23:08:49+00:00
+
+ ## home    [Machine Learning and Data Science Lab @ K-State]
+ - [http://caragea-wiki.cs.ksu.edu](http://caragea-wiki.cs.ksu.edu)
+ - date_published: 2024-07-01T11:14:36.621884+00:00
+
+ ## Engineering Computing Services | Engineering Computing Services
+ - [https://cecs.engg.ksu.edu](https://cecs.engg.ksu.edu)
+ - date_published: 2024-07-01T10:35:28+00:00
+
+ ## Department of Computer Science at K-State
+ - [https://cs.ksu.edu](https://cs.ksu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Data Semantics Lab
+ - [https://daselab.cs.ksu.edu](https://daselab.cs.ksu.edu)
+ - date_published: 2024-07-01T11:14:44.703164+00:00
+
+ ## Carl R. Ice College of Engineering at K-State
+ - [https://engg.ksu.edu](https://engg.ksu.edu)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## K-State GDC
+ - [https://gdc.cs.ksu.edu](https://gdc.cs.ksu.edu)
+ - date_published: 2020-02-03T06:08:13+00:00
+
+ ## Kansas State University
+ - [https://ksu.edu](https://ksu.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Multiagent & Cooperative Reasoning Laboratory - Kansas State University
+ - [http://macr.cs.ksu.edu](http://macr.cs.ksu.edu)
+ - date_published: 2016-12-08T20:03:10+00:00
+
+ ## K-State MDC
+ - [https://mdc.cs.ksu.edu](https://mdc.cs.ksu.edu)
+ - date_published: 2024-05-07T19:17:04.324614+00:00
+
+ ## K-State ACM SIGAI
+ - [https://people.cis.ksu.edu](https://people.cis.ksu.edu)
+ - date_published: 2024-05-09T09:12:16.301047+00:00
+
+ ## People
+ - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
+ - date_published: 2023-10-25T18:53:27.215934+00:00
+
+ ## K-State Web Dev Club
+ - [https://wdc.cs.ksu.edu](https://wdc.cs.ksu.edu)
+ - date_published: 2019-02-27T01:14:52+00:00
+
+ ## Please wait...
+ - [https://webmail.ksu.edu](https://webmail.ksu.edu)
+ - date_published: 2024-07-01T11:22:25.357090+00:00
+
+ ## Agricultural Economics | Kansas State University
+ - [https://www.ageconomics.ksu.edu](https://www.ageconomics.ksu.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Department of Computer Science at K-State
+ - [https://cis.ksu.edu](https://cis.ksu.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home Page
+ - [https://admissions.ktu.edu](https://admissions.ktu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home
+ - [https://advancedmaterials.ktu.edu](https://advancedmaterials.ktu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Pradžia
+ - [https://aicentre.ktu.edu](https://aicentre.ktu.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Kauno technologijos universiteto alumnų asociacija. KTU alumnai.
+ - [https://alumni.ktu.edu](https://alumni.ktu.edu)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## APCIS
+ - [https://apcis.ktu.edu](https://apcis.ktu.edu)
+ - date_published: 2024-07-01T11:24:39.197337+00:00
+
+ ## Research
+ - [https://apinien.ktu.edu](https://apinien.ktu.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Mokslas
+ - [https://apini.ktu.edu](https://apini.ktu.edu)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Kaunas University of Technology
+ - [https://apply.ktu.edu](https://apply.ktu.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Research
+ - [https://asien.ktu.edu](https://asien.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Mokslas
+ - [https://asi.ktu.edu](https://asi.ktu.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
  ## Pradžia
  - [https://bendrabuciai.ktu.edu](https://bendrabuciai.ktu.edu)
  - date_published: 2024-07-01T11:24:05.276622+00:00
@@ -3862,145 +4002,4 @@
  ## Home
  - [https://alumni.icahn.mssm.edu](https://alumni.icahn.mssm.edu)
  - date_published: 2024-07-07T09:57:55+00:00
-
- ## Ma'ayan Laboratory - Computational Systems Biology - Icahn School of Medicine at Mount Sinai
- - [http://amp.pharm.mssm.edu](http://amp.pharm.mssm.edu)
- - date_published: 2014-10-24T18:55:09+00:00
-
- ## Change Now
- - [https://changenow.icahn.mssm.edu](https://changenow.icahn.mssm.edu)
- - date_published: 2016-11-28T20:12:18+00:00
-
- ## Icahn School of Medicine at Mount Sinai - New York City |  Icahn School of Medicine
- - [https://icahn.mssm.edu](https://icahn.mssm.edu)
- - date_published: 2024-05-08T10:30:11.771086+00:00
-
- ## undefined | Mount Sinai - New York
- - [https://profiles.icahn.mssm.edu](https://profiles.icahn.mssm.edu)
- - date_published: 2024-07-07T09:57:54.076904+00:00
-
- ## Learn. Make. Achieve.
- - [http://caad.msstate.edu](http://caad.msstate.edu)
- - date_published: 2024-06-24T07:14:16+00:00
-
- ## Home | Mississippi State Institute for the Humanities
- - [http://www.ih.msstate.edu](http://www.ih.msstate.edu)
- - date_published: 2024-06-21T07:40:54+00:00
-
- ## www.mst.edu – Missouri University of Science and Technology |
- Missouri S&T
- - [http://www.mst.edu](http://www.mst.edu)
- - date_published: 2024-06-27T09:51:49+00:00
-
- ## Career Services Network I Michigan State University
- - [https://careernetwork.msu.edu](https://careernetwork.msu.edu)
- - date_published: 2024-07-01T15:41:40.145431+00:00
-
- ## MSU Careers Recent Jobs
- - [http://careers.msu.edu](http://careers.msu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## | Kellogg Center
- - [https://catering.msu.edu](https://catering.msu.edu)
- - date_published: 2024-07-01T15:41:28.963865+00:00
-
- ## Office for Civil Rights and Title IX Education and Compliance | Michigan State University
- - [https://civilrights.msu.edu](https://civilrights.msu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## https://clip.msu.edu
- - [https://clip.msu.edu](https://clip.msu.edu)
- - date_published: 2020-11-20T04:05:34+00:00
-
- ## MSU Commons – An online community for MSU
- - [https://commons.msu.edu](https://commons.msu.edu)
- - date_published: 2024-06-17T19:53:30.322885+00:00
-
- ## Home
- - [https://communityengagedlearning.msu.edu](https://communityengagedlearning.msu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## MSU CONCESSIONS | Concessions
- - [https://concessions.rhs.msu.edu](https://concessions.rhs.msu.edu)
- - date_published: 2024-07-01T15:43:42.540549+00:00
-
- ## Home | conferences
- - [https://conferences.msu.edu](https://conferences.msu.edu)
- - date_published: 2024-05-07T19:38:23.818705+00:00
-
- ## Computer Science and Engineering | Michigan State University
- - [https://cse.msu.edu](https://cse.msu.edu)
- - date_published: 2024-05-04T15:30:46.977603+00:00
-
- ## Homepage - Michigan State University
- - [https://d2l.msu.edu](https://d2l.msu.edu)
- - date_published: 2024-02-22T16:31:51+00:00
-
- ## Apple Developer Academy | Michigan State University
- - [https://developeracademy.msu.edu](https://developeracademy.msu.edu)
- - date_published: 2023-11-03T18:58:25+00:00
-
- ## Digital Humanities – Michigan State University
- - [https://digitalhumanities.msu.edu](https://digitalhumanities.msu.edu)
- - date_published: 2024-07-12T09:15:17.074976+00:00
-
- ## Home | Eat at State
- - [https://eatatstate.msu.edu](https://eatatstate.msu.edu)
- - date_published: 2024-07-01T15:28:23+00:00
-
- ## College of Engineering | Michigan State University
- - [https://egr.sitecore.msu.edu](https://egr.sitecore.msu.edu)
- - date_published: 2024-06-22T10:17:13.970176+00:00
-
- ## Home
- - [http://elc.msu.edu](http://elc.msu.edu)
- - date_published: 2024-06-17T14:08:51.372049+00:00
-
- ## College of Engineering | Michigan State University
- - [https://engineering.msu.edu](https://engineering.msu.edu)
- - date_published: 2024-06-22T10:16:45.819847+00:00
-
- ## Homepage - MSU - Enviroweather
- - [https://enviroweather.msu.edu](https://enviroweather.msu.edu)
- - date_published: 2024-07-01T12:57:13.610030+00:00
-
- ## Spartan Family Connections | Student Life & Engagement
- - [http://family.msu.edu](http://family.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Home page | Facility for Rare Isotope Beams
- - [https://frib.msu.edu](https://frib.msu.edu)
- - date_published: 2024-07-24T07:30:24.641022+00:00
-
- ## Giving To MSU
- - [https://givingto.msu.edu](https://givingto.msu.edu)
- - date_published: 2024-06-17T19:54:14.253589+00:00
-
- ## homepage | Forest Akers Golf Courses
- - [https://golf.msu.edu](https://golf.msu.edu)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Michigan State University - Sign In
- - [https://go.msu.edu](https://go.msu.edu)
- - date_published: 2024-06-22T10:17:07.864978+00:00
-
- ## The Graduate School
- - [https://grad.msu.edu](https://grad.msu.edu)
- - date_published: 2024-07-01T15:42:27+00:00
-
- ## The Gender and Sexuality Campus Center | Michigan State University
- - [https://gscc.msu.edu](https://gscc.msu.edu)
- - date_published: 2022-09-06T20:15:37+00:00
-
- ## Department of History – College of Social Science
- - [https://history.msu.edu](https://history.msu.edu)
- - date_published: 2024-07-12T09:15:19.132083+00:00
-
- ## MSU Human Resources Homepage
- - [https://hr.msu.edu](https://hr.msu.edu)
- - date_published: 2024-06-22T10:16:20.831885+00:00
-
- ## Institutional Diversity and Inclusion | Michigan State University
- - [https://inclusion.msu.edu](https://inclusion.msu.edu)
- - date_published: 2024-07-01T11:26:27+00:00
 

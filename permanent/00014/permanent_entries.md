@@ -1,3 +1,23 @@
+ ## Lux
+ - [https://lux.camera](https://lux.camera)
+ - date_published: 2023-10-25T12:09:56.046567+00:00
+
+ ## meow.camera
+ - [https://meow.camera](https://meow.camera)
+ - date_published: 2024-06-20T02:56:52.252276+00:00
+
+ ## Telecast
+ - [https://telecast.camera](https://telecast.camera)
+ - date_published: 2024-07-14T08:30:21.733236+00:00
+
+ ## VWFNDR
+ - [https://vwfndr.camera](https://vwfndr.camera)
+ - date_published: 2024-04-29T07:14:37.211339+00:00
+
+ ## 1337 Bootcamp / Gaming House
+ - [https://1337.camp](https://1337.camp)
+ - date_published: 2024-07-13T13:23:12.891452+00:00
+
  ## AI Safety Camp
  - [https://aisafety.camp](https://aisafety.camp)
  - date_published: 2024-05-04T12:17:46.253900+00:00
@@ -2065,6 +2085,10 @@
  - [https://monyet.cc](https://monyet.cc)
  - date_published: 2024-02-05T00:00:00+00:00
 
+ ## monyet.cc
+ - [http://old.monyet.cc](http://old.monyet.cc)
+ - date_published: 2024-08-14T20:53:14.346904+00:00
+
  ## #MoreThanCode
  - [https://morethancode.cc](https://morethancode.cc)
  - date_published: 2020-09-03T13:53:03+00:00
@@ -4002,28 +4026,4 @@
  ## Home | Careers at CERN
  - [https://careers-at-cern.web.cern.ch](https://careers-at-cern.web.cern.ch)
  - date_published: 2024-07-17T16:58:57+00:00
-
- ## What's up on CDS – News, announcements and future developments of CDS services at CERN
- - [https://cds-blog.web.cern.ch](https://cds-blog.web.cern.ch)
- - date_published: 2024-06-15T04:01:23.501496+00:00
-
- ## CERN Document Server
- - [https://cds.cern.ch](https://cds.cern.ch)
- - date_published: 2024-05-01T02:17:47.123653+00:00
-
- ## CERN Document Server
- - [http://cdsweb.cern.ch](http://cdsweb.cern.ch)
- - date_published: 2024-06-30T08:14:17.453770+00:00
-
- ## CERN is celebrating 60 years of science for peace in 2014 | CERN's 60th anniversary
- - [http://cern60.web.cern.ch](http://cern60.web.cern.ch)
- - date_published: 2020-09-15T21:19:04+00:00
-
- ## CERN70 – Inspiring the Future
- - [https://cern-70-wordpress.web.cern.ch](https://cern-70-wordpress.web.cern.ch)
- - date_published: 2024-07-21T05:41:12+00:00
-
- ## Home | CERN
- - [https://cern.ch](https://cern.ch)
- - date_published: 2024-04-30T05:57:39.966832+00:00
 

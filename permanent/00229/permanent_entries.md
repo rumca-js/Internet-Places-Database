@@ -1,3 +1,176 @@
+ ## mgreenbe(1) - Michael Greenberg - Assistant Professor - Stevens Institute of Technology
+ - [https://mgree.github.io](https://mgree.github.io)
+ - date_published: 2024-01-16T16:57:01+00:00
+ - tags: ['personal']
+
+ ## Hello!
+ - [https://miangoleh.github.io](https://miangoleh.github.io)
+ - date_published: 2024-06-18T18:02:54+00:00
+
+ ## MIA: Workshop on Multilingual Information Access
+ - [https://mia-workshop.github.io](https://mia-workshop.github.io)
+ - date_published: 2022-07-15T20:34:38+00:00
+
+ ## Micah Carroll
+ - [https://micahcarroll.github.io](https://micahcarroll.github.io)
+ - date_published: 2024-07-05T00:56:10+00:00
+
+ ## michael s.
+ - [https://michaelsprindzuikate.github.io](https://michaelsprindzuikate.github.io)
+ - date_published: 2022-01-03T00:00:00+00:00
+
+ ## Michelle Lam
+ - [https://michelle123lam.github.io](https://michelle123lam.github.io)
+ - date_published: 2024-06-11T03:43:18+00:00
+
+ ## Micro - Home
+ - [https://micro-editor.github.io](https://micro-editor.github.io)
+ - date_published: 2020-06-24T17:30:18+00:00
+
+ ## Microsoft on GitHub
+ - [https://microsoft.github.io](https://microsoft.github.io)
+ - date_published: 2023-06-26T20:11:08+00:00
+
+ ## Homepage | sentimental µsounds
+ - [https://microsounds.github.io](https://microsounds.github.io)
+ - date_published: 2024-07-23T23:40:09.940150+00:00
+
+ ## Home
+ - [https://middleware-conf.github.io](https://middleware-conf.github.io)
+ - date_published: 2023-08-04T16:26:29+00:00
+
+ ## Åsbjørnsson-Stensland
+ - [https://mikaei.github.io](https://mikaei.github.io)
+ - date_published: 2019-08-16T11:43:38+00:00
+ - tags: ['personal']
+
+ ## mikefsn
+ - [https://mikefsn.github.io](https://mikefsn.github.io)
+ - date_published: 2023-01-11T00:00:00+00:00
+
+ ## Blog
+ - [https://mikeloomisgg.github.io](https://mikeloomisgg.github.io)
+ - date_published: 2019-07-02T00:00:00+00:00
+
+ ## About me
+ - [https://mikemccabe210.github.io](https://mikemccabe210.github.io)
+ - date_published: 2023-12-18T17:08:45+00:00
+
+ ## Mermade Software - 
+      
+      Mermade Software
+ - [https://mikeralphson.github.io](https://mikeralphson.github.io)
+ - date_published: 2017-03-15T00:00:00+00:00
+
+ ## MilkyTracker | News
+ - [http://milkytracker.github.io](http://milkytracker.github.io)
+ - date_published: 2024-05-20T12:31:49+00:00
+
+ ## Millicent Li
+ - [https://millicentli.github.io](https://millicentli.github.io)
+ - date_published: 2024-05-21T15:50:54+00:00
+
+ ## Milligram - A minimalist CSS framework
+ - [https://milligram.github.io](https://milligram.github.io)
+ - date_published: 2020-08-20T04:49:02.278000+00:00
+
+ ## Internet Rando Extraordinaire
+ - [https://mincerafter42.github.io](https://mincerafter42.github.io)
+ - date_published: 2024-05-12T16:48:51+00:00
+
+ ## Mindustry: Open-source automation tower defense game
+ - [https://mindustrygame.github.io](https://mindustrygame.github.io)
+ - date_published: 2022-09-03T12:02:21+00:00
+ - tags: ['open source', 'video game']
+
+ ## MinD-Vis
+ - [https://mind-vis.github.io](https://mind-vis.github.io)
+ - date_published: 2023-03-21T10:03:24+00:00
+
+ ## Minghan Qin
+ - [https://minghanqin.github.io](https://minghanqin.github.io)
+ - date_published: 2024-05-10T05:30:53.373115+00:00
+
+ ## Mingrui Zhao
+ - [https://mingrui-zhao.github.io](https://mingrui-zhao.github.io)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Minguk Kang
+ - [https://mingukkang.github.io](https://mingukkang.github.io)
+ - date_published: 2024-04-11T14:14:41+00:00
+
+ ## Ming-Yu Liu 劉洺堉
+ - [https://mingyuliutw.github.io](https://mingyuliutw.github.io)
+ - date_published: 2023-11-27T17:42:35+00:00
+
+ ## Mini-Gemini
+ - [https://mini-gemini.github.io](https://mini-gemini.github.io)
+ - date_published: 2024-03-28T02:36:01+00:00
+
+ ## Minigpt-4
+ - [https://minigpt-4.github.io](https://minigpt-4.github.io)
+ - date_published: 2023-05-10T10:37:54+00:00
+
+ ## MiniGPT-v2
+ - [https://minigpt-v2.github.io](https://minigpt-v2.github.io)
+ - date_published: 2023-11-15T17:44:19+00:00
+
+ ## Mintty — Cygwin Terminal emulator
+ - [https://mintty.github.io](https://mintty.github.io)
+ - date_published: 2024-08-03T06:31:54.642184+00:00
+
+ ## Portfolio
+ - [https://mipmip.github.io](https://mipmip.github.io)
+ - date_published: 2022-01-10T18:12:02+00:00
+
+ ## Dongdong Yu, ByteDance AILab
+ - [https://miracle-fmh.github.io](https://miracle-fmh.github.io)
+ - date_published: 2021-12-01T13:36:14+00:00
+
+ ## Mirco Giacobbe
+ - [https://mircogiacobbe.github.io](https://mircogiacobbe.github.io)
+ - date_published: 2024-06-20T12:26:47+00:00
+
+ ## MISOMIP
+ - [https://misomip.github.io](https://misomip.github.io)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## الفصل الدراسي المفقود من تعلمك لعلوم الكمبيوتر
+ - [https://missing-semester-ar.github.io](https://missing-semester-ar.github.io)
+ - date_published: 2023-03-17T06:46:52+00:00
+
+ ## আপনার সি. এস শিক্ষার মিসিং সেমিস্টার
+ - [https://missing-semester-bn.github.io](https://missing-semester-bn.github.io)
+ - date_published: 2024-05-09T15:59:37+00:00
+
+ ## 计算机教育中缺失的一课
+ - [https://missing-semester-cn.github.io](https://missing-semester-cn.github.io)
+ - date_published: 2024-05-07T19:35:20.562313+00:00
+
+ ## Das fehlender Semester deines Informatikstudiums
+ - [https://missing-semester-de.github.io](https://missing-semester-de.github.io)
+ - date_published: 2023-11-28T14:45:59+00:00
+
+ ## El semestre faltante en tu educación de CS
+ - [https://missing-semester-esp.github.io](https://missing-semester-esp.github.io)
+ - date_published: 2023-06-14T14:11:59+00:00
+
+ ## ترم گمشده تحصیلات علوم کامپیوتر شما
+ - [https://missing-semester-fa.github.io](https://missing-semester-fa.github.io)
+ - date_published: 2023-07-31T03:59:56+00:00
+
+ ## Il semestre mancante del tuo corso di studi in informatica
+ - [https://missing-semester-it.github.io](https://missing-semester-it.github.io)
+ - date_published: 2021-12-31T14:42:40+00:00
+
+ ## The Missing Semester of Your CS Education (日本語版)
+ - [https://missing-semester-jp.github.io](https://missing-semester-jp.github.io)
+ - date_published: 2022-07-31T01:25:46+00:00
+
+ ## 여러분의 CS 교육에서 누락된 학기
+ - [https://missing-semester-kr.github.io](https://missing-semester-kr.github.io)
+ - date_published: 2024-05-07T19:35:04.669315+00:00
+
  ## O semestre que falta na sua faculdade em ciência da computação
  - [https://missing-semester-pt.github.io](https://missing-semester-pt.github.io)
  - date_published: 2022-10-04T10:57:21+00:00
@@ -3869,174 +4042,4 @@
  - [https://spapas.github.io](https://spapas.github.io)
  - date_published: 2024-06-01T05:05:04.394169+00:00
  - tags: ['personal']
-
- ## Sparist
- - [https://sparist.github.io](https://sparist.github.io)
- - date_published: 2018-12-31T17:03:04+00:00
-
- ## Spark Framework tutorials - Spark Java tutorials
- - [https://sparktutorials.github.io](https://sparktutorials.github.io)
- - date_published: 2024-04-29T05:40:57.135395+00:00
-
- ## SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction
- - [https://sparsefusion.github.io](https://sparsefusion.github.io)
- - date_published: 2023-04-11T19:04:38+00:00
-
- ## spatial-computing.github.io by USC Spatial Computing
- - [https://spatial-computing.github.io](https://spatial-computing.github.io)
- - date_published: 2021-11-06T04:32:08+00:00
-
- ## SpatialW
- - [https://spatialwomen.github.io](https://spatialwomen.github.io)
- - date_published: 2023-11-29T23:59:57+00:00
-
- ## Spatialyze
- - [https://spatialyze.github.io](https://spatialyze.github.io)
- - date_published: 2024-06-29T01:16:33+00:00
-
- ## Spencer Paulmark
- - [https://spaulmark.github.io](https://spaulmark.github.io)
- - date_published: 2021-06-17T16:38:43+00:00
-
- ## Santiago Perez De Rosso | About
- - [https://spderosso.github.io](https://spderosso.github.io)
- - date_published: 2021-01-13T06:37:52+00:00
-
- ## Speech2Face: Learning the Face Behind a Voice
- - [https://speech2face.github.io](https://speech2face.github.io)
- - date_published: 2019-05-26T02:13:58+00:00
-
- ## textless NLP project
- - [https://speechbot.github.io](https://speechbot.github.io)
- - date_published: 2024-02-09T09:33:30+00:00
-
- ## Speech Research
- - [https://speechresearch.github.io](https://speechresearch.github.io)
- - date_published: 2023-10-25T19:54:25.616717+00:00
-
- ## Zilong's Home Page
- - [https://speedinghzl.github.io](https://speedinghzl.github.io)
- - date_published: 2024-04-28T03:39:20.322864+00:00
-
- ## SpeedNet: Learning the Speediness in Videos
- - [https://speednet-cvpr20.github.io](https://speednet-cvpr20.github.io)
- - date_published: 2020-07-20T14:49:12+00:00
-
- ## Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?
- - [https://spider2-v.github.io](https://spider2-v.github.io)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## William Spies
- - [https://spieswl.github.io](https://spieswl.github.io)
- - date_published: 2023-07-26T15:32:41+00:00
-
- ## INDRO SPINELLI
- - [https://spindro.github.io](https://spindro.github.io)
- - date_published: 2024-03-21T12:09:51+00:00
-
- ## SPIN-ROBOT
- - [https://spin-robot.github.io](https://spin-robot.github.io)
- - date_published: 2024-05-29T16:02:02+00:00
-
- ## spite.github.io
- - [https://spite.github.io](https://spite.github.io)
- - date_published: 2013-01-01T00:00:00+00:00
-
- ## Splicing ViT Features for Semantic Appearance Transfer
- - [https://splice-vit.github.io](https://splice-vit.github.io)
- - date_published: 2024-08-01T08:17:31+00:00
-
- ## SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World
- - [https://spoc-robot.github.io](https://spoc-robot.github.io)
- - date_published: 2024-06-03T18:31:11+00:00
-
- ## Spokane CTF – Home of the Spokane Cyber Cup Cybersecurity Competition
- - [https://spokanectf.github.io](https://spokanectf.github.io)
- - date_published: 2024-06-17T04:55:18+00:00
-
- ## SpotBugs
- - [https://spotbugs.github.io](https://spotbugs.github.io)
- - date_published: 2023-11-28T15:20:43+00:00
-
- ## Spring:1944
- - [https://spring1944.github.io](https://spring1944.github.io)
- - date_published: 2020-10-21T12:03:48+00:00
-
- ## Square Open Source
- - [https://square.github.io](https://square.github.io)
- - date_published: 2021-05-19T17:32:38+00:00
-
- ## Santhosh Kumar Ramakrishnan
- - [https://srama2512.github.io](https://srama2512.github.io)
- - date_published: 2024-06-06T08:24:51+00:00
-
- ## Sarah Constantin
- - [https://srconstantin.github.io](https://srconstantin.github.io)
- - date_published: 2021-08-05T00:00:00+00:00
- - tags: ['personal']
-
- ## Stephen R Doty
- - [https://srdoty.github.io](https://srdoty.github.io)
- - date_published: 2024-07-05T08:28:11+00:00
-
- ## Shen Sang
- - [https://ssangx.github.io](https://ssangx.github.io)
- - date_published: 2024-02-26T03:26:09+00:00
-
- ## Stephen Schoepfer
- - [https://sschoepfer.github.io](https://sschoepfer.github.io)
- - date_published: 2023-12-11T23:18:29.673417+00:00
- - tags: ['personal']
-
- ## Stefan Schüller
- - [https://sschueller.github.io](https://sschueller.github.io)
- - date_published: 2023-10-25T19:54:28.538345+00:00
-
- ## Home
- - [https://sscu-budapest.github.io](https://sscu-budapest.github.io)
- - date_published: 2023-09-29T01:01:35+00:00
-
- ## The ssdeep Project
- - [https://ssdeep-project.github.io](https://ssdeep-project.github.io)
- - date_published: 2018-04-11T10:08:16+00:00
-
- ## ICCV 2021 Workshop: Self-supervised Learning for Next-Generation Industry-level Autonomous Driving
- - [https://sslad2021.github.io](https://sslad2021.github.io)
- - date_published: 2022-05-09T08:59:18+00:00
-
- ## The 2nd Workshop on Self-supervised Learning for Next-Generation Industry-level Autonomous Driving
- - [https://sslad2022.github.io](https://sslad2022.github.io)
- - date_published: 2023-02-28T01:49:41+00:00
-
- ## NeurIPS 2021 Workshop: Self-Supervised Learning - Theory and Practice
- - [https://sslneurips22.github.io](https://sslneurips22.github.io)
- - date_published: 2022-12-02T18:17:40+00:00
-
- ## NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice
- - [https://sslneurips23.github.io](https://sslneurips23.github.io)
- - date_published: 2024-02-20T10:00:25+00:00
-
- ## Tongzhou Wang
- - [https://ssnl.github.io](https://ssnl.github.io)
- - date_published: 2024-06-14T15:38:40+00:00
-
- ## Stefan Stojanov
- - [https://sstojanov.github.io](https://sstojanov.github.io)
- - date_published: 2024-06-14T00:34:48+00:00
-
- ## About · Shobhita Sundaram
- - [https://ssundaram21.github.io](https://ssundaram21.github.io)
- - date_published: 2024-05-26T21:04:12+00:00
-
- ## Siarhei Siamashka
- - [http://ssvb.github.io](http://ssvb.github.io)
- - date_published: 2014-11-12T16:49:20+00:00
-
- ## SSVLAB - Systems and Software Verification LAB (UFAM)
- - [https://ssvlab.github.io](https://ssvlab.github.io)
- - date_published: 2024-06-20T10:28:45+00:00
-
- ## Alexey Evseev
- - [https://st4lk.github.io](https://st4lk.github.io)
- - date_published: 2024-06-16T19:01:00+00:00
 

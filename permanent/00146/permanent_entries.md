@@ -1,3 +1,108 @@
+ ## The New Design Congress | Substack
+ - [https://ndc.substack.com](https://ndc.substack.com)
+ - date_published: 2024-06-15T16:44:47.310592+00:00
+
+ ## Graphomane | Neal Stephenson | Substack
+ - [https://nealstephenson.substack.com](https://nealstephenson.substack.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Context Collapse | Neal Ungerleider | Marketing, PR & Media | Substack
+ - [https://nealungerleider.substack.com](https://nealungerleider.substack.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## The Crop | Neil Scott | Substack
+ - [https://neilscott.substack.com](https://neilscott.substack.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Nemets | Peter Nimitz | Substack
+ - [https://nemets.substack.com](https://nemets.substack.com)
+ - date_published: 2024-08-05T18:23:39.038133+00:00
+
+ ## Nerology | Nero Vanbiervliet | Substack
+ - [https://nerology.substack.com](https://nerology.substack.com)
+ - date_published: 2023-12-08T11:52:35.901292+00:00
+
+ ## Network Affects | Andrew Lowenthal | Substack
+ - [https://networkaffects.substack.com](https://networkaffects.substack.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## God's Spies by Thomas Neuburger | Substack
+ - [https://neuburger.substack.com](https://neuburger.substack.com)
+ - date_published: 2024-05-04T09:19:13.059191+00:00
+
+ ## I Hate It Here And Never Want To Leave | Substack
+ - [https://neverleave.substack.com](https://neverleave.substack.com)
+ - date_published: 2024-06-18T13:38:17.867950+00:00
+
+ ## Never Sponsored | Christopher Schwarz | Substack
+ - [https://neversponsored.substack.com](https://neversponsored.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## The New Books Network Newsletter | Substack
+ - [https://newbooksnetwork.substack.com](https://newbooksnetwork.substack.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## New Escapologist | Robert Wringham | Substack
+ - [https://newescapologist.substack.com](https://newescapologist.substack.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## New_ Public | Substack
+ - [https://newpublic.substack.com](https://newpublic.substack.com)
+ - date_published: 2024-07-04T05:32:42.734079+00:00
+
+ ## News @ Knight | Knight Foundation | Substack
+ - [https://newsatknight.substack.com](https://newsatknight.substack.com)
+ - date_published: 2024-05-08T09:18:57.462979+00:00
+
+ ## New Science | Alexey Guzey | Substack
+ - [https://newscience.substack.com](https://newscience.substack.com)
+ - date_published: 2024-06-19T02:11:48.341171+00:00
+
+ ## News from Uncibal | David McGrogan | Substack
+ - [https://newsfromuncibal.substack.com](https://newsfromuncibal.substack.com)
+ - date_published: 2023-10-25T09:59:44.684685+00:00
+ - tags: ['substack']
+
+ ## NewsGuard's Reality Check | Substack
+ - [https://newsguardtech.substack.com](https://newsguardtech.substack.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Next Big Teng | Janelle Teng | Substack
+ - [https://nextbigteng.substack.com](https://nextbigteng.substack.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Enterprise AI Trends | John Hwang | Substack
+ - [https://nextword.substack.com](https://nextword.substack.com)
+ - date_published: 2023-10-25T17:19:14.088118+00:00
+
+ ## Ngozi’s Newsletter | Substack
+ - [https://ngozi.substack.com](https://ngozi.substack.com)
+ - date_published: 2024-05-06T09:20:20.341236+00:00
+
+ ## The Progress Playbook | Nick Hedley | Substack
+ - [https://nickhedley.substack.com](https://nickhedley.substack.com)
+ - date_published: 2024-06-15T05:55:48.245960+00:00
+
+ ## Nick's Kōrero | Nick Rockel | Substack
+ - [https://nickrockel.substack.com](https://nickrockel.substack.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Running Ideas | Nicolas Delon | Substack
+ - [https://nicolasdelon.substack.com](https://nicolasdelon.substack.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Nicole Knows | Nicole Cliffe | Substack
+ - [https://nicole.substack.com](https://nicole.substack.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Nicomachean Exhortations | Shadow Rebbe | Substack
+ - [https://nicomachean.substack.com](https://nicomachean.substack.com)
+ - date_published: 2024-04-28T04:40:03.722861+00:00
+
+ ## Nikko Norte | Substack
+ - [https://nikkonorte.substack.com](https://nikkonorte.substack.com)
+ - date_published: 2024-02-25T02:28:55.705363+00:00
+
  ## The Navigator | Sarah Ronald | Substack
  - [https://nilehq.substack.com](https://nilehq.substack.com)
  - date_published: 2024-07-21T07:37:00.797836+00:00
@@ -3984,108 +4089,4 @@
  ## Sumo Logic, Inc.
  - [https://service.us2.sumologic.com](https://service.us2.sumologic.com)
  - date_published: 2024-07-29T12:19:32+00:00
-
- ## Sumo Logic Status
- - [https://status.sumologic.com](https://status.sumologic.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Sumo Support Community
- - [https://support.sumologic.com](https://support.sumologic.com)
- - date_published: 2023-06-17T06:40:26+00:00
-
- ## Cloud Log Management, Monitoring, SIEM Tools | Sumo Logic
- - [https://www.sumologic.com](https://www.sumologic.com)
- - date_published: 2024-05-01T06:13:41.816796+00:00
-
- ## 클라우드 환경에서 앱 개발, 운영 및 보안 | Sumo Logic수모로직
- - [https://www.sumologickorea.com](https://www.sumologickorea.com)
- - date_published: 2024-06-13T01:05:19+00:00
-
- ## SumNews
- - [http://blog.sumrando.com](http://blog.sumrando.com)
- - date_published: 2024-04-18T10:11:56+00:00
-
- ## Home Page | Sumter Edge
- - [http://sumteredge.com](http://sumteredge.com)
- - date_published: 2024-06-17T11:44:41+00:00
-
- ## Sumter Litter Advisory Board
- - [http://www.sumterlitteradvisoryboard.com](http://www.sumterlitteradvisoryboard.com)
- - date_published: 2024-06-17T11:44:45.097834+00:00
-
- ## SUMTER LITTLE THEATRE
- - [http://www.sumterlittletheatre.com](http://www.sumterlittletheatre.com)
- - date_published: 2024-06-10T16:46:46+00:00
-
- ## Sumthing - NileRodgers.com
- - [http://www.sumthing.com](http://www.sumthing.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## @storybook/cli - Storybook
- - [https://circuit.sumup.com](https://circuit.sumup.com)
- - date_published: 2024-06-21T09:17:04.218407+00:00
-
- ## Documentation
- - [https://developer.sumup.com](https://developer.sumup.com)
- - date_published: 2024-06-21T09:16:53.013066+00:00
-
- ## SumUp - Support Centre
- - [https://help.sumup.com](https://help.sumup.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## SumUp
- - [https://me.sumup.com](https://me.sumup.com)
- - date_published: 2024-06-21T09:16:49.235570+00:00
-
- ## SumUp
- - [https://recommendation.sumup.com](https://recommendation.sumup.com)
- - date_published: 2024-06-21T09:17:14.236129+00:00
-
- ## SumUp Status
- - [https://status.sumup.com](https://status.sumup.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## SumUp
- - [https://store.sumup.com](https://store.sumup.com)
- - date_published: 2024-06-21T09:17:09.087165+00:00
-
- ## SumUp: Payment Solutions and Point of Sale Systems
- - [https://sumup.com](https://sumup.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## PowReady Locker
- - [https://casiers.sumupstore.com](https://casiers.sumupstore.com)
- - date_published: 2024-07-03T06:42:11.624402+00:00
-
- ## J van den Bosch Webshop
- - [https://j-van-den-bosch.sumupstore.com](https://j-van-den-bosch.sumupstore.com)
- - date_published: 2024-06-21T13:56:22.638529+00:00
-
- ## Oracle Blogs
- - [http://blogs.sun.com](http://blogs.sun.com)
- - date_published: 2024-07-02T02:34:38+00:00
-
- ## Oracle Help Center
- - [http://docs.sun.com](http://docs.sun.com)
- - date_published: 2024-07-08T13:56:02.746491+00:00
-
- ## Oracle Java Technologies | Oracle
- - [http://java.sun.com](http://java.sun.com)
- - date_published: 2024-06-12T17:44:52+00:00
-
- ## Hardware | Oracle
- - [http://mediacast.sun.com](http://mediacast.sun.com)
- - date_published: 2024-06-19T06:40:19+00:00
-
- ## Hardware | Oracle
- - [https://sun.com](https://sun.com)
- - date_published: 2024-03-28T00:01:34+00:00
-
- ## Attention Required! | Cloudflare
- - [http://sun-4488.com](http://sun-4488.com)
- - date_published: 2024-08-08T19:52:11.595462+00:00
-
- ## Sun Art
- - [https://www.sunartretail.com](https://www.sunartretail.com)
- - date_published: 2024-07-09T11:02:32.447860+00:00
 

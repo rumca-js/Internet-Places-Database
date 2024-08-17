@@ -1,3 +1,144 @@
+ ## UB - School of Architecture and Planning
+ - [https://archplan.buffalo.edu](https://archplan.buffalo.edu)
+ - date_published: 2024-04-30T03:31:02.897286+00:00
+
+ ## College of Arts and Sciences
+ - [https://arts-sciences.buffalo.edu](https://arts-sciences.buffalo.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## 1Capen – Just another Blogs.1capen.buffalo.edu site
+ - [https://blogs.1capen.buffalo.edu](https://blogs.1capen.buffalo.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## UB Libraries Booking System -
+        Home
+ - [https://booking.lib.buffalo.edu](https://booking.lib.buffalo.edu)
+ - date_published: 2024-07-22T07:18:25.262387+00:00
+
+ ## University at Buffalo
+ - [https://buffalo.edu](https://buffalo.edu)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## UB Events Calendar
+ - [https://calendar.buffalo.edu](https://calendar.buffalo.edu)
+ - date_published: 2024-04-30T03:29:57.153947+00:00
+
+ ## University at Buffalo - Acalog ACMS™
+ - [https://catalog.buffalo.edu](https://catalog.buffalo.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## University at Buffalo - Acalog ACMS™
+ - [https://catalogs.buffalo.edu](https://catalogs.buffalo.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Department of Computer Science and Engineering
+ - [https://cse.buffalo.edu](https://cse.buffalo.edu)
+ - date_published: 2024-02-10T17:55:00.406166+00:00
+
+ ## OnCore - Login
+ - [https://ctms.buffalo.edu](https://ctms.buffalo.edu)
+ - date_published: 2024-08-11T09:59:01.143901+00:00
+
+ ## Center for Unified Biometrics and Sensors
+ - [https://cubs.buffalo.edu](https://cubs.buffalo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## School of Dental Medicine
+ - [https://dental.buffalo.edu](https://dental.buffalo.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Digital Commons @ University at Buffalo School of Law
+ - [https://digitalcommons.law.buffalo.edu](https://digitalcommons.law.buffalo.edu)
+ - date_published: 2024-06-29T08:56:41.954783+00:00
+
+ ## Digital Collections - University at Buffalo Libraries
+ - [http://digital.lib.buffalo.edu](http://digital.lib.buffalo.edu)
+ - date_published: 2024-07-22T07:13:15.470191+00:00
+
+ ## Home | UB Early Childhood Research Center (ECRC)
+ - [https://ecrc.buffalo.edu](https://ecrc.buffalo.edu)
+ - date_published: 2024-08-11T03:36:01.827082+00:00
+
+ ## Graduate School of Education at the University at Buffalo
+ - [https://ed.buffalo.edu](https://ed.buffalo.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## UB Alert Information
+ - [https://emergency.buffalo.edu](https://emergency.buffalo.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## School of Engineering and Applied Sciences
+ - [https://engineering.buffalo.edu](https://engineering.buffalo.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Financial Aid – State University of New York
+ - [https://financialaid.buffalo.edu](https://financialaid.buffalo.edu)
+ - date_published: 2024-07-22T07:20:11.756905+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://gate.lib.buffalo.edu](https://gate.lib.buffalo.edu)
+ - date_published: 2024-06-30T01:30:22.306752+00:00
+
+ ## Home | UB Gifted Math Program
+ - [https://giftedmath.buffalo.edu](https://giftedmath.buffalo.edu)
+ - date_published: 2024-08-11T03:35:54.787012+00:00
+
+ ## The Graduate School
+ - [https://grad.buffalo.edu](https://grad.buffalo.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Graduate Student Association
+ - [http://gsa.buffalo.edu](http://gsa.buffalo.edu)
+ - date_published: 2024-08-11T03:35:59.572311+00:00
+
+ ## Center of Excellence on Human Capital, Technology Transfer, & Economic Growth and Development :: University at Buffalo ::
+ - [http://head.buffalo.edu](http://head.buffalo.edu)
+ - date_published: 2024-08-08T22:53:05.303498+00:00
+
+ ## SACS Reference Implementation
+ - [https://json.webservices.buffalo.edu](https://json.webservices.buffalo.edu)
+ - date_published: 2018-07-02T00:00:00+00:00
+
+ ## Charles B. Sears Law Library - University at Buffalo Libraries
+ - [https://law.lib.buffalo.edu](https://law.lib.buffalo.edu)
+ - date_published: 2024-06-29T08:56:40.164925+00:00
+
+ ## University at Buffalo Libraries
+ - [https://library2.buffalo.edu](https://library2.buffalo.edu)
+ - date_published: 2024-07-22T07:13:11.943298+00:00
+
+ ## University at Buffalo Libraries
+ - [https://library.buffalo.edu](https://library.buffalo.edu)
+ - date_published: 2024-04-30T03:31:32.594127+00:00
+
+ ## Listserv at UB
+ - [http://listserv.buffalo.edu](http://listserv.buffalo.edu)
+ - date_published: 2022-12-19T22:52:16+00:00
+
+ ## School of Management
+ - [https://management.buffalo.edu](https://management.buffalo.edu)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
+ - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
+ - date_published: 2024-01-09T02:58:27.946041+00:00
+
+ ## Jacobs School of Medicine and Biomedical Sciences
+ - [https://medicine.buffalo.edu](https://medicine.buffalo.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## School of Management
+ - [https://mgt.buffalo.edu](https://mgt.buffalo.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## About UB Mobile
+ - [http://mobile.buffalo.edu](http://mobile.buffalo.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## School of Nursing
+ - [https://nursing.buffalo.edu](https://nursing.buffalo.edu)
+ - date_published: 2024-03-01T00:00:00+00:00
+
  ## OASIS – Operations research for Advancing Sustainable Infrastructure Systems
  - [http://oasis.eng.buffalo.edu](http://oasis.eng.buffalo.edu)
  - date_published: 2024-08-11T00:00:00+00:00
@@ -3874,147 +4015,4 @@ Mellon University
  ## Error Page
  - [https://internal.zi.columbia.edu](https://internal.zi.columbia.edu)
  - date_published: 2024-07-22T00:00:00+00:00
-
- ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
- - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
- - date_published: 2022-07-01T02:01:20+00:00
-
- ## Institute for Social and Economic Research and Policy (ISERP)
- - [http://iserp.columbia.edu](http://iserp.columbia.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Columbia Journalism School
- - [http://journalism.columbia.edu](http://journalism.columbia.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Columbia Library Journals
- - [https://journals.library.columbia.edu](https://journals.library.columbia.edu)
- - date_published: 2024-06-29T06:05:37.864133+00:00
-
- ## Columbia Giving
- - [https://justsocieties.givenow.columbia.edu](https://justsocieties.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:45.595454+00:00
-
- ## The Kermit Project - Columbia University:
- Terminal Emulation, File Transfer, Scripting
- - [https://kermit.columbia.edu](https://kermit.columbia.edu)
- - date_published: 2024-05-08T09:12:36.452054+00:00
-
- ## Law, Rights, and Religion Project
- - [https://lawrightsreligion.law.columbia.edu](https://lawrightsreligion.law.columbia.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Libraries Home | Columbia University Libraries
- - [https://library.columbia.edu](https://library.columbia.edu)
- - date_published: 2024-04-30T03:55:42.681297+00:00
-
- ## Welcome to Augustus C. Long Health Sciences Library | Augustus C. Long Health Sciences Library
- - [https://library.cumc.columbia.edu](https://library.cumc.columbia.edu)
- - date_published: 2024-07-21T23:31:03+00:00
-
- ## Columbia Giving
- - [https://library.givenow.columbia.edu](https://library.givenow.columbia.edu)
- - date_published: 2024-07-22T05:45:12.080504+00:00
-
- ## Local News Lab - Brown Institute - Columbia University
- - [https://lnl.brown.columbia.edu](https://lnl.brown.columbia.edu)
- - date_published: 2023-10-24T00:00:00+00:00
-
- ## Columbia Magazine
- - [https://magazine.columbia.edu](https://magazine.columbia.edu)
- - date_published: 2023-10-25T18:49:57.691308+00:00
-
- ## Department of Mathematics at Columbia University - Welcome
- - [https://mail.math.columbia.edu](https://mail.math.columbia.edu)
- - date_published: 2024-06-30T09:08:04.555064+00:00
-
- ## Department of Mathematics at Columbia University - Welcome
- - [https://math.columbia.edu](https://math.columbia.edu)
- - date_published: 2024-05-07T15:56:49.200989+00:00
-
- ## Columbia University Authentication
- - [https://mice.cs.columbia.edu](https://mice.cs.columbia.edu)
- - date_published: 2024-04-30T03:57:06.698061+00:00
-
- ## Columbia Neighbors
- - [https://neighbors.columbia.edu](https://neighbors.columbia.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## State of the Planet - News from the Columbia Climate School
- - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
- - date_published: 2023-12-20T22:47:58.538909+00:00
-
- ## Columbia News
- - [https://news.columbia.edu](https://news.columbia.edu)
- - date_published: 2023-12-05T18:08:58.749533+00:00
-
- ## Home
- - [https://opportunities.columbia.edu](https://opportunities.columbia.edu)
- - date_published: 2024-07-22T05:55:26.522395+00:00
-
- ## Columbia University | Our Values
- - [https://ourvalues.columbia.edu](https://ourvalues.columbia.edu)
- - date_published: 2024-04-30T03:55:34.036752+00:00
-
- ## PaperBot: Learning to Design Real-World Tools Using Paper
- - [https://paperbot.cs.columbia.edu](https://paperbot.cs.columbia.edu)
- - date_published: 2024-06-25T17:16:50+00:00
-
- ## About PEERING |
-    
-    PEERING - The BGP Testbed
- - [https://peering.ee.columbia.edu](https://peering.ee.columbia.edu)
- - date_published: 2024-06-17T03:31:48.710343+00:00
-
- ## Physical Education and Recreation
- - [https://perec.columbia.edu](https://perec.columbia.edu)
- - date_published: 2024-06-28T19:31:59+00:00
-
- ## Columbia Plus
- - [https://plus.columbia.edu](https://plus.columbia.edu)
- - date_published: 2024-04-30T03:55:32.741149+00:00
-
- ## University Policies
- - [http://policylibrary.columbia.edu](http://policylibrary.columbia.edu)
- - date_published: 2024-07-12T21:11:59+00:00
-
- ## Political Science
- - [http://polisci.columbia.edu](http://polisci.columbia.edu)
- - date_published: 2024-06-11T14:55:51+00:00
-
- ## Power: Infrastructure in America
- - [https://power.buellcenter.columbia.edu](https://power.buellcenter.columbia.edu)
- - date_published: 2023-09-30T07:51:34+00:00
-
- ## Columbia Giving
- - [https://precisionmedicine.givenow.columbia.edu](https://precisionmedicine.givenow.columbia.edu)
- - date_published: 2024-07-22T05:44:48.692586+00:00
-
- ## Columbia University Pre-College Programs
- - [https://precollege.sps.columbia.edu](https://precollege.sps.columbia.edu)
- - date_published: 2024-04-30T03:49:20.102489+00:00
-
- ## HICCC ANNUAL REPORT 2023
- - [https://pubs.cancer.columbia.edu](https://pubs.cancer.columbia.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Columbia College
- - [http://rabi.columbia.edu](http://rabi.columbia.edu)
- - date_published: 2024-07-08T13:43:52+00:00
-
- ## The Real Estate Record: Home
- - [https://rerecord.library.columbia.edu](https://rerecord.library.columbia.edu)
- - date_published: 2024-05-07T15:03:49.432581+00:00
-
- ## RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects
- - [https://roboninja.cs.columbia.edu](https://roboninja.cs.columbia.edu)
- - date_published: 2023-05-01T06:28:22+00:00
-
- ## Columbia University Search
- - [http://search.columbia.edu](http://search.columbia.edu)
- - date_published: 2024-07-22T05:40:52.946583+00:00
-
- ## Columbia University Search
- - [https://search.sites.columbia.edu](https://search.sites.columbia.edu)
- - date_published: 2024-04-30T03:57:33.332050+00:00
 

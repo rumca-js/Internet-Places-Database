@@ -1,3 +1,144 @@
+ ## Center for Global Sustainable Development
+ - [https://cgsd.ucsd.edu](https://cgsd.ucsd.edu)
+ - date_published: 2023-09-28T14:46:24+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucsd.edu](https://chancellor.ucsd.edu)
+ - date_published: 2024-06-07T19:25:28+00:00
+
+ ## The Cultural Heritage Engineering Initiative (CHEI) – Engineering a Future for the Past
+ - [https://chei.ucsd.edu](https://chei.ucsd.edu)
+ - date_published: 2018-03-14T00:00:00+00:00
+
+ ## Chemistry and Biochemistry
+ - [https://chemistry.ucsd.edu](https://chemistry.ucsd.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Clinical Trials at UCSD
+ - [https://clinicaltrials.ucsd.edu](https://clinicaltrials.ucsd.edu)
+ - date_published: 2024-07-01T22:28:00+00:00
+
+ ## Cog Sci
+ - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## UC San Diego Commencement
+ - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
+ - date_published: 2024-06-16T14:32:14+00:00
+
+ ## Department of Communication
+ - [http://communication.ucsd.edu](http://communication.ucsd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Apply Now
+ - [https://connect.grad.ucsd.edu](https://connect.grad.ucsd.edu)
+ - date_published: 2024-06-26T17:55:10+00:00
+
+ ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
+ - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
+ - date_published: 2024-05-04T15:43:44.384148+00:00
+
+ ## CoralNet
+ - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
+ - date_published: 2024-06-13T17:54:35.315107+00:00
+
+ ## Center for Research in Language
+ - [http://crl.ucsd.edu](http://crl.ucsd.edu)
+ - date_published: 2020-10-03T00:00:00+00:00
+
+ ## CSE 125 -- Software System Design and Implementation
+ - [https://cse125.ucsd.edu](https://cse125.ucsd.edu)
+ - date_published: 2024-06-15T15:46:17+00:00
+
+ ## CSE 35th Anniversary
+ - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
+ - date_published: 2024-05-07T21:00:29.549788+00:00
+
+ ## CSE Annual Report
+ - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
+ - date_published: 2024-05-07T21:00:36.116463+00:00
+
+ ## CSE Research Open House| UC San Diego
+ - [https://cseopenhouse.ucsd.edu](https://cseopenhouse.ucsd.edu)
+ - date_published: 2016-11-28T21:42:49+00:00
+
+ ## Home | Computer Science
+ - [https://cse.ucsd.edu](https://cse.ucsd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | Computer Science
+ - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
+ - date_published: 2023-10-25T19:01:08.426811+00:00
+
+ ## Computational Science, Mathematics and Engineering (CSME)
+ - [https://csme.ucsd.edu](https://csme.ucsd.edu)
+ - date_published: 2023-09-28T14:03:52+00:00
+
+ ## Computational Social Science
+ - [https://css.ucsd.edu](https://css.ucsd.edu)
+ - date_published: 2024-06-20T21:35:27+00:00
+
+ ## School of Arts and Humanities
+ - [https://dah.ucsd.edu](https://dah.ucsd.edu)
+ - date_published: 2024-05-23T17:02:04+00:00
+
+ ## Home - Halıcıoğlu Data Science Institute - UC San Diego
+ - [https://datascience.ucsd.edu](https://datascience.ucsd.edu)
+ - date_published: 2022-01-28T19:27:27+00:00
+
+ ## Home - UCSD - DDPM
+ - [https://ddpm.ucsd.edu](https://ddpm.ucsd.edu)
+ - date_published: 2024-07-01T21:17:28+00:00
+
+ ## Digital Learning
+ - [https://digitallearning.ucsd.edu](https://digitallearning.ucsd.edu)
+ - date_published: 2024-04-25T17:24:37+00:00
+
+ ## Disability Resources
+ - [https://disabilities.ucsd.edu](https://disabilities.ucsd.edu)
+ - date_published: 2024-03-12T18:46:11+00:00
+
+ ## Office for Equity, Diversity, and Inclusion
+ - [https://diversity.ucsd.edu](https://diversity.ucsd.edu)
+ - date_published: 2024-04-25T20:48:20+00:00
+ - tags: ['dei']
+
+ ## Do the Math | Using physics and estimation to assess energy, growth, options—by Tom Murphy
+ - [https://dothemath.ucsd.edu](https://dothemath.ucsd.edu)
+ - date_published: 2023-10-25T19:01:13.139500+00:00
+
+ ## School of Physical Sciences
+ - [https://dps.ucsd.edu](https://dps.ucsd.edu)
+ - date_published: 2024-06-28T20:27:24+00:00
+
+ ## Page Redirection
+ - [http://d.ucsd.edu](http://d.ucsd.edu)
+ - date_published: 2016-01-11T23:27:05+00:00
+
+ ## ECE AMP
+ - [https://ece-amp.ucsd.edu](https://ece-amp.ucsd.edu)
+ - date_published: 2024-06-22T11:53:21.961492+00:00
+
+ ## Home | Electrical and Computer Engineering
+ - [https://ece.ucsd.edu](https://ece.ucsd.edu)
+ - date_published: 2024-05-07T21:01:11.880265+00:00
+
+ ## Education Community Outreach
+ - [https://ecoextension.ucsd.edu](https://ecoextension.ucsd.edu)
+ - date_published: 2024-06-21T16:16:44+00:00
+
+ ## Careers at UC San Diego
+ - [https://employment.ucsd.edu](https://employment.ucsd.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## EnCORE
+ - [https://encore.ucsd.edu](https://encore.ucsd.edu)
+ - date_published: 2024-07-02T01:35:14.104319+00:00
+
+ ## @eng.ucsd.edu Transition
+ - [https://eng2ucsd.eng.ucsd.edu](https://eng2ucsd.eng.ucsd.edu)
+ - date_published: 2024-07-02T01:39:43.297043+00:00
+
  ## Website Offline
  - [https://eng.ucsd.edu](https://eng.ucsd.edu)
  - date_published: 2015-11-18T21:37:53+00:00
@@ -3862,144 +4003,4 @@
  ## eScholarship@UMassChan repository at UMass Chan Medical School
  - [http://escholarship.umassmed.edu](http://escholarship.umassmed.edu)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Homepage | ForHealth Consulting
- - [https://forhealthconsulting.umassmed.edu](https://forhealthconsulting.umassmed.edu)
- - date_published: 2024-05-07T21:24:36.526196+00:00
-
- ## Home | Lamar Soutter Library - University of Massachusetts Medical School
- - [https://library.umassmed.edu](https://library.umassmed.edu)
- - date_published: 2024-05-07T21:25:04.477280+00:00
-
- ## Search | Profiles RNS
- - [https://profiles.umassmed.edu](https://profiles.umassmed.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## eScholarship@UMassChan Publishing
- - [https://publishing.escholarship.umassmed.edu](https://publishing.escholarship.umassmed.edu)
- - date_published: 2024-07-02T03:23:47.750187+00:00
-
- ## eScholarship@UMassChan repository at UMass Chan Medical School
- - [https://repository.escholarship.umassmed.edu](https://repository.escholarship.umassmed.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UMass Chan Medical School
- - [https://umassmed.edu](https://umassmed.edu)
- - date_published: 2024-01-05T12:16:22.119217+00:00
-
- ## Home Page | UMass Office of the President
- - [https://www.umassp.edu](https://www.umassp.edu)
- - date_published: 2024-07-02T01:56:15+00:00
-
- ## Human Resources
- - [https://hr.umb.edu](https://hr.umb.edu)
- - date_published: 2024-06-15T02:20:30+00:00
-
- ## UMass Boston Online
- - [https://online.umb.edu](https://online.umb.edu)
- - date_published: 2024-03-06T05:34:01+00:00
-
- ## Home
- - [https://portal.cs.umb.edu](https://portal.cs.umb.edu)
- - date_published: 2024-06-15T17:47:59.398378+00:00
-
- ## UMass Boston
- - [https://umb.edu](https://umb.edu)
- - date_published: 2024-05-01T02:10:35.249584+00:00
-
- ## UMass Boston CS
- - [https://www.cs.umb.edu](https://www.cs.umb.edu)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## About UMBC - University Of Maryland, Baltimore County
- - [https://about.umbc.edu](https://about.umbc.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Welcome Retrievers!
- - [https://accessibility.umbc.edu](https://accessibility.umbc.edu)
- - date_published: 2024-05-07T21:26:14.537880+00:00
-
- ## Home
- - [https://advising.umbc.edu](https://advising.umbc.edu)
- - date_published: 2024-07-02T03:26:10.466524+00:00
-
- ## UMBC App
- - [https://app.umbc.edu](https://app.umbc.edu)
- - date_published: 2024-05-07T21:26:22.814210+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://assets1-my.umbc.edu](https://assets1-my.umbc.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://assets2-my.umbc.edu](https://assets2-my.umbc.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://assets4-my.umbc.edu](https://assets4-my.umbc.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## bwtech@UMBC Research and Technology Park | Baltimore
- - [https://bwtech.umbc.edu](https://bwtech.umbc.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home
- - [https://campuscard.umbc.edu](https://campuscard.umbc.edu)
- - date_published: 2024-07-02T03:32:51.697232+00:00
-
- ## Campus Life
- - [https://campuslife.umbc.edu](https://campuslife.umbc.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Index of /
- - [https://careers2.umbc.edu](https://careers2.umbc.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Home
- - [https://careers.umbc.edu](https://careers.umbc.edu)
- - date_published: 2024-05-07T21:25:52.660484+00:00
-
- ## University of Maryland, Baltimore County - Acalog ACMS™
- - [https://catalog.umbc.edu](https://catalog.umbc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## COVID-19
- - [https://covid19.umbc.edu](https://covid19.umbc.edu)
- - date_published: 2024-07-02T03:33:03.689567+00:00
-
- ## Home
- - [http://doit.umbc.edu](http://doit.umbc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UMBC ebiquity Research Group
- - [http://ebiquity.umbc.edu](http://ebiquity.umbc.edu)
- - date_published: 2024-07-01T20:10:33.771415+00:00
-
- ## About
- - [https://ecr.umbc.edu](https://ecr.umbc.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home
- - [https://enrollment.umbc.edu](https://enrollment.umbc.edu)
- - date_published: 2024-05-07T21:25:18.050904+00:00
-
- ## Entrepreneurship is for Everyone!
- - [https://entrepreneurship.umbc.edu](https://entrepreneurship.umbc.edu)
- - date_published: 2024-07-02T03:33:20.336524+00:00
-
- ## Events - myUMBC
- - [https://events.umbc.edu](https://events.umbc.edu)
- - date_published: 2024-05-07T21:25:39.239743+00:00
-
- ## Welcome to UMBC Jobs
- - [https://facultyjobs.umbc.edu](https://facultyjobs.umbc.edu)
- - date_published: 2024-07-02T03:32:34.461661+00:00
-
- ## Home
- - [https://financialaid.umbc.edu](https://financialaid.umbc.edu)
- - date_published: 2024-05-07T21:26:00.138561+00:00
-
- ## FinancialSmarts @ UMBC
- - [https://financialsmarts.umbc.edu](https://financialsmarts.umbc.edu)
- - date_published: 2024-07-02T03:34:23.224594+00:00
 

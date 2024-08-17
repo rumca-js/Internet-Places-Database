@@ -1,3 +1,206 @@
+ ## Human Verification
+ - [https://aa.altervista.org](https://aa.altervista.org)
+ - date_published: 2024-06-21T06:42:58.519274+00:00
+
+ ## Alfie's Amiga Home Page
+ - [https://alfie.altervista.org](https://alfie.altervista.org)
+ - date_published: 2008-03-16T19:06:47+00:00
+
+ ## Create a blog or website for free and make money online
+ - [http://altervista.org](http://altervista.org)
+ - date_published: 2024-06-21T06:35:19+00:00
+ - tags: ['blog source']
+
+ ## Luigi Auriemma
+ - [http://aluigi.altervista.org](http://aluigi.altervista.org)
+ - date_published: 2024-06-03T07:54:06.721943+00:00
+ - tags: ['reverse engineering', 'personal']
+
+ ## Digital Wonderland
+ - [http://amelia.altervista.org](http://amelia.altervista.org)
+ - date_published: 2024-06-20T21:25:49.141534+00:00
+
+ ## Blog di Altervista
+ - [http://blog.altervista.org](http://blog.altervista.org)
+ - date_published: 2024-06-21T06:42:55.396407+00:00
+
+ ## No signal | Chine da Giò
+ - [https://chinedagio.altervista.org](https://chinedagio.altervista.org)
+ - date_published: 2020-08-27T00:00:00+00:00
+
+ ## Coffee Girl
+ - [http://coffeegirl.altervista.org](http://coffeegirl.altervista.org)
+ - date_published: 2024-06-20T21:15:27.301100+00:00
+
+ ## ComputerCow
+ - [https://computercow.altervista.org](https://computercow.altervista.org)
+ - date_published: 2023-04-14T03:49:06+00:00
+ - tags: ['personal']
+
+ ## .:::::C0ntradicti0n:::::.
+ - [http://contradiction.altervista.org](http://contradiction.altervista.org)
+ - date_published: 2024-06-20T21:14:06.985875+00:00
+
+ ## Crave - Mindy's Collective
+ - [http://crave.altervista.org](http://crave.altervista.org)
+ - date_published: 2024-06-20T21:16:20.725158+00:00
+
+ ## Home | Blog di Cristiana Ziraldo
+ - [http://cristianaziraldo.altervista.org](http://cristianaziraldo.altervista.org)
+ - date_published: 2024-06-30T04:46:59.529551+00:00
+
+ ## Captivated - Denise's fanlisting collective
+ - [http://denise.altervista.org](http://denise.altervista.org)
+ - date_published: 2024-06-20T21:25:41.577880+00:00
+
+ ## Welcome, to Jennifer's Place >>>>> Open 24 hours!
+ - [http://edgeofseventeen.altervista.org](http://edgeofseventeen.altervista.org)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Create a blog or website for free and make money online
+ - [https://en.altervista.org](https://en.altervista.org)
+ - date_published: 2024-06-21T06:42:57.534769+00:00
+
+ ## FANDERFUL
+ - [http://fanderful.altervista.org](http://fanderful.altervista.org)
+ - date_published: 2024-06-20T21:26:42.573593+00:00
+
+ ## Simple Devotion
+ - [http://fangirl.altervista.org](http://fangirl.altervista.org)
+ - date_published: 2024-06-20T21:16:08.199134+00:00
+
+ ## Fanique - a fanlisting collective
+ - [http://fanique.altervista.org](http://fanique.altervista.org)
+ - date_published: 2024-06-20T21:16:20.041368+00:00
+
+ ## The Red Herring Collective
+ - [http://fanlisting.altervista.org](http://fanlisting.altervista.org)
+ - date_published: 2024-06-20T21:26:43.074304+00:00
+
+ ## F A N L Y
+ - [http://fanly.altervista.org](http://fanly.altervista.org)
+ - date_published: 2024-06-20T21:17:39.593423+00:00
+
+ ## Archived web site
+ - [https://flaviosoldanigraficaepc.altervista.org](https://flaviosoldanigraficaepc.altervista.org)
+ - date_published: 2024-07-09T16:30:15.270361+00:00
+
+ ## AlterVista
+ - [https://forum.en.altervista.org](https://forum.en.altervista.org)
+ - date_published: 2024-06-21T06:42:59.584272+00:00
+
+ ## Funny Pix - Funny Pictures,Memes & Gifs
+ - [https://funnypix.altervista.org](https://funnypix.altervista.org)
+ - date_published: 2024-06-27T10:17:56.388358+00:00
+
+ ## Insanely Devoted
+ - [http://harleenquinn.altervista.org](http://harleenquinn.altervista.org)
+ - date_published: 2024-06-20T21:14:09.652574+00:00
+
+ ## Two Harts
+ - [http://hart.altervista.org](http://hart.altervista.org)
+ - date_published: 2024-06-20T21:25:54.043085+00:00
+
+ ## Altervista Wiki
+ - [http://help.altervista.org](http://help.altervista.org)
+ - date_published: 2016-10-03T23:44:35+00:00
+
+ ## Immortel ~ Estelle's Collective
+ - [http://immortel.altervista.org](http://immortel.altervista.org)
+ - date_published: 2024-07-07T01:53:24.503571+00:00
+
+ ## Crea un blog o un sito web gratis e guadagna online
+ - [https://it.altervista.org](https://it.altervista.org)
+ - date_published: 2024-06-21T06:42:56.608458+00:00
+
+ ## Webring Italiano
+ - [https://itawebring.altervista.org](https://itawebring.altervista.org)
+ - date_published: 2024-06-23T18:35:55.867118+00:00
+
+ ## An IT guy corner: information and rant about modern operating systems: Windows 10, Windows 11, Linux, iOS and Android
+ - [https://itvision.altervista.org](https://itvision.altervista.org)
+ - date_published: 2023-10-25T20:56:05.444671+00:00
+
+ ## Club D-Star Zona 8 – Antonio IU8CRI – Grazie Marconi – PROGETTI & SPERIMENTAZIONE – HAM RADIO – ELETTRONICA – INFORMATICA – HARDWARE  * In Memoria di Mio Padre *
+ - [https://iu8cri.altervista.org](https://iu8cri.altervista.org)
+ - date_published: 2024-08-10T23:49:28.970215+00:00
+
+ ## Kelli [dot] altervista [dot] org
+ - [http://kelli.altervista.org](http://kelli.altervista.org)
+ - date_published: 2024-06-20T21:15:59.093483+00:00
+
+ ## Torn Pages
+ - [http://kelsey.altervista.org](http://kelsey.altervista.org)
+ - date_published: 2019-12-15T00:00:00+00:00
+
+ ## Addictive Devotion @ Lecter's Girl | ft. HANNIBAL LECTER / CLARICE STARLING
+ - [http://lectersgirl.altervista.org](http://lectersgirl.altervista.org)
+ - date_published: 2024-06-20T21:17:14.742909+00:00
+
+ ## LOVE SUPREME ------- MY FANLISTING COLLECTIVE
+ - [http://lovesupreme.altervista.org](http://lovesupreme.altervista.org)
+ - date_published: 2024-06-20T21:26:34.978724+00:00
+
+ ## Redirecting to home page
+ - [https://lucianoabriata.altervista.org](https://lucianoabriata.altervista.org)
+ - date_published: 2022-04-20T09:07:59+00:00
+
+ ## MAMEUIFX
+ - [https://mame32fx.altervista.org](https://mame32fx.altervista.org)
+ - date_published: 2016-07-12T05:23:51+00:00
+
+ ## Midnight Rendezvous
+ - [http://midnightrendezvous.altervista.org](http://midnightrendezvous.altervista.org)
+ - date_published: 2024-06-20T21:15:37.294134+00:00
+
+ ## Gotham
+ - [http://morveen.altervista.org](http://morveen.altervista.org)
+ - date_published: 2024-06-20T21:14:44.741011+00:00
+
+ ## Sweater Weather - a fanlisting collective
+ - [http://nicolemadison.altervista.org](http://nicolemadison.altervista.org)
+ - date_published: 2024-06-20T21:15:29.009773+00:00
+
+ ## PKLucky's Fanlistings Collective
+ - [https://pkfanlist.altervista.org](https://pkfanlist.altervista.org)
+ - date_published: 2024-04-30T07:04:13.992546+00:00
+
+ ## marco's retrobits: retrocomputing, retrogaming and retroprogramming
+ - [https://retrobits.altervista.org](https://retrobits.altervista.org)
+ - date_published: 2024-07-02T23:51:35.168326+00:00
+
+ ## Road to Nowhere
+ - [https://roadtonowhere.altervista.org](https://roadtonowhere.altervista.org)
+ - date_published: 2024-06-20T21:14:17.956777+00:00
+
+ ## Evidence
+ - [http://scarlet.altervista.org](http://scarlet.altervista.org)
+ - date_published: 2024-06-20T21:17:40.059524+00:00
+
+ ## some bits of me
+ - [https://somebitsofme.altervista.org](https://somebitsofme.altervista.org)
+ - date_published: 2024-05-07T23:47:02.867371+00:00
+
+ ## Starlit ~ Lila's Fanlisting Collective
+ - [http://starlit.altervista.org](http://starlit.altervista.org)
+ - date_published: 2024-06-20T21:26:51.745764+00:00
+
+ ## THIRTEENTH FLOOR | collective
+ - [http://thirteenthfloor.altervista.org](http://thirteenthfloor.altervista.org)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Winters Eve | Holly's fanlisting collective
+ - [http://winterseve.altervista.org](http://winterseve.altervista.org)
+ - date_published: 2024-06-20T21:16:37.368348+00:00
+
+ ## Archived web site
+ - [http://www.fofitalia.altervista.org](http://www.fofitalia.altervista.org)
+ - date_published: 2024-07-11T12:29:09.513814+00:00
+
+ ## Home | Altexxa Group
+ - [https://altexxanet.org](https://altexxanet.org)
+ - date_published: 2024-01-09T03:38:12.068195+00:00
+
  ## ALTEXXANET - Your 90s Internet Experience
  - [http://www.altexxanet.org](http://www.altexxanet.org)
  - date_published: 2016-10-29T21:56:13+00:00
@@ -72,7 +275,7 @@
  - tags: ['demoscene']
 
  ## Alys Stephens Center - Home
- - [https://www.alysstephens.org](https://www.alysstephens.org)
+ - [https://alysstephens.org](https://alysstephens.org)
  - date_published: 2024-02-05T00:00:00+00:00
 
  ## Alzheimer's Association
@@ -3862,206 +4065,4 @@
  ## List Index - lists.archlinux.org
  - [https://lists.archlinux.org](https://lists.archlinux.org)
  - date_published: 2024-05-25T06:49:59.370366+00:00
-
- ## Arch manual pages
- - [https://man.archlinux.org](https://man.archlinux.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Arch Linux
- - [https://planet.archlinux.org](https://planet.archlinux.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Arch Linux Reproducible Status
- - [https://reproducible.archlinux.org](https://reproducible.archlinux.org)
- - date_published: 2023-11-24T17:12:17+00:00
-
- ## Vulnerable issues - Arch Linux
- - [https://security.archlinux.org](https://security.archlinux.org)
- - date_published: 2024-05-07T15:47:22.854937+00:00
-
- ## | Arch Linux Terms
- - [https://terms.archlinux.org](https://terms.archlinux.org)
- - date_published: 2023-06-23T00:00:00+00:00
-
- ## What can I do for Arch Linux?
- - [https://whatcanidofor.archlinux.org](https://whatcanidofor.archlinux.org)
- - date_published: 2023-10-25T20:59:29.334535+00:00
-
- ## ArchWiki
- - [https://wiki.archlinux.org](https://wiki.archlinux.org)
- - date_published: 2023-11-01T08:44:11.744107+00:00
-
- ## Arch Linux 32
- - [https://archlinux32.org](https://archlinux32.org)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Arch Linux ARM
- - [https://archlinuxarm.org](https://archlinuxarm.org)
- - date_published: 2024-07-10T07:18:05.489279+00:00
-
- ## Edge IP Restricted | archlinuxvn.org | Cloudflare
- - [https://archlinuxvn.org](https://archlinuxvn.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Arch Mission Foundation - Preserving humanity forever, in space and on Earth.
- - [https://www.archmission.org](https://www.archmission.org)
- - date_published: 2023-11-01T08:44:12.919349+00:00
-
- ## Home
- - [https://archomaha.org](https://archomaha.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Unit test your Java architecture
- - [https://www.archunit.org](https://www.archunit.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Arc Institute
- - [https://arcinstitute.org](https://arcinstitute.org)
- - date_published: 2024-07-01T19:39:32.469552+00:00
-
- ## Arc Forum | Arc
- - [http://arclanguage.org](http://arclanguage.org)
- - date_published: 2024-05-06T22:35:04.957514+00:00
-
- ## ARC Prize
- - [https://arcprize.org](https://arcprize.org)
- - date_published: 2024-06-11T17:07:36+00:00
-
- ## ARC - Amphibian and Reptile Conservancy
- - [https://arcprotects.org](https://arcprotects.org)
- - date_published: 2024-06-25T15:02:15+00:00
-
- ## Atlanta Homepage | Atlanta
- - [https://atlanta.arcsfoundation.org](https://atlanta.arcsfoundation.org)
- - date_published: 2024-06-18T11:37:06+00:00
-
- ## ARCS Foundation Colorado Chapter
- - [https://colorado.arcsfoundation.org](https://colorado.arcsfoundation.org)
- - date_published: 2024-06-18T11:28:58+00:00
-
- ## Honolulu Homepage | Honolulu
- - [https://honolulu.arcsfoundation.org](https://honolulu.arcsfoundation.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Illinois Homepage | Illinois
- - [https://illinois.arcsfoundation.org](https://illinois.arcsfoundation.org)
- - date_published: 2024-06-18T11:06:29+00:00
-
- ## Los Angeles Homepage | Los Angeles
- - [https://los-angeles.arcsfoundation.org](https://los-angeles.arcsfoundation.org)
- - date_published: 2024-06-18T11:48:48+00:00
-
- ## Metro Washington Homepage | Metro Washington
- - [https://metro-washington.arcsfoundation.org](https://metro-washington.arcsfoundation.org)
- - date_published: 2024-05-02T12:55:11.862533+00:00
-
- ## Minnesota Homepage | Minnesota
- - [https://minnesota.arcsfoundation.org](https://minnesota.arcsfoundation.org)
- - date_published: 2024-06-18T10:55:25+00:00
-
- ## Northern California Homepage | Northern California
- - [https://northern-california.arcsfoundation.org](https://northern-california.arcsfoundation.org)
- - date_published: 2024-06-18T11:22:11+00:00
-
- ## Orange County Homepage | Orange County
- - [https://orange-county.arcsfoundation.org](https://orange-county.arcsfoundation.org)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Oregon Homepage | Oregon
- - [https://oregon.arcsfoundation.org](https://oregon.arcsfoundation.org)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Phoenix Homepage | Phoenix
- - [https://phoenix.arcsfoundation.org](https://phoenix.arcsfoundation.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Pittsburgh Homepage | Pittsburgh
- - [https://pittsburgh.arcsfoundation.org](https://pittsburgh.arcsfoundation.org)
- - date_published: 2024-06-18T11:40:59+00:00
-
- ## ARCS Foundation San Diego Chapter
- - [https://san-diego.arcsfoundation.org](https://san-diego.arcsfoundation.org)
- - date_published: 2024-06-18T11:11:13+00:00
-
- ## Seattle Homepage | Seattle
- - [https://seattle.arcsfoundation.org](https://seattle.arcsfoundation.org)
- - date_published: 2024-06-18T11:15:33+00:00
-
- ## Utah Homepage | Utah
- - [https://utah.arcsfoundation.org](https://utah.arcsfoundation.org)
- - date_published: 2024-06-18T13:26:02.368350+00:00
-
- ## ARCS Foundation National Homepage
- - [https://www.arcsfoundation.org](https://www.arcsfoundation.org)
- - date_published: 2024-06-18T10:57:35+00:00
-
- ## Home - ARC Southeast
- - [https://arc-southeast.org](https://arc-southeast.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Arctic Centre - University of Lapland
- - [https://www.arcticcentre.org](https://www.arcticcentre.org)
- - date_published: 2024-07-02T22:28:12.492668+00:00
-
- ## The Arctic Council
- - [https://arctic-council.org](https://arctic-council.org)
- - date_published: 2024-07-20T19:40:29.286863+00:00
-
- ## The Arctic Council
- - [http://www.arctic-council.org](http://www.arctic-council.org)
- - date_published: 2024-06-24T04:53:38.585235+00:00
-
- ## Ardapedia
- - [https://www.ardapedia.org](https://www.ardapedia.org)
- - date_published: 2024-01-28T20:08:49+00:00
-
- ## https://ardour.org
- - [https://ardour.org](https://ardour.org)
- - date_published: 2023-10-25T20:59:31.008744+00:00
-
- ## Ardour Community
- - [https://community.ardour.org](https://community.ardour.org)
- - date_published: 2024-02-25T15:21:49.089620+00:00
-
- ## Ardour
- - [https://discourse.ardour.org](https://discourse.ardour.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## lists.ardour.org Mailing Lists
- - [http://lists.ardour.org](http://lists.ardour.org)
- - date_published: 2024-08-11T14:39:39.434616+00:00
-
- ## The Ardour Manual
- - [http://manual.ardour.org](http://manual.ardour.org)
- - date_published: 2022-07-01T21:02:07+00:00
-
- ## My View - MantisBT
- - [http://tracker.ardour.org](http://tracker.ardour.org)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Arduiniana | Arduino wisdom and gems by Mikal Hart
- - [https://arduiniana.org](https://arduiniana.org)
- - date_published: 2024-05-09T04:20:29.928071+00:00
- - tags: ['arduino']
-
- ## ArduPilot
- - [https://ardupilot.org](https://ardupilot.org)
- - date_published: 2024-06-10T12:19:13+00:00
- - tags: ['open source', 'autopilot', 'drones', 'arduino']
-
- ## ArduPilot Copter — Copter  documentation
- - [http://copter.ardupilot.org](http://copter.ardupilot.org)
- - date_published: 2024-06-10T12:25:51.542212+00:00
-
- ## ArduPilot Discourse
- - [https://discuss.ardupilot.org](https://discuss.ardupilot.org)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## ArduPilot Plane — Plane  documentation
- - [http://plane.ardupilot.org](http://plane.ardupilot.org)
- - date_published: 2024-06-10T12:26:21.747534+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.ardupilot.org](https://plausible.ardupilot.org)
- - date_published: 2024-06-10T12:21:24.152584+00:00
 

@@ -1,3 +1,132 @@
+ ## DESY - DESY - Particle and Astroparticle Physics Colloquium
+ - [https://physikseminar.desy.de](https://physikseminar.desy.de)
+ - date_published: 2024-07-20T22:25:27.421612+00:00
+
+ ## Photo Injector Test Facility at DESY, Zeuthen site
+ - [http://pitz.desy.de](http://pitz.desy.de)
+ - date_published: 2024-07-18T15:07:01+00:00
+
+ ## Presse & Kommunikation
+ - [http://pr.desy.de](http://pr.desy.de)
+ - date_published: 2024-07-30T12:51:17+00:00
+
+ ## DESY - Raumverwaltung - Seminarraumbuchung
+ - [http://raumverwaltung.desy.de](http://raumverwaltung.desy.de)
+ - date_published: 2024-08-08T22:21:20.252806+00:00
+
+ ## Stellenangebote
+ - [https://v22.desy.de](https://v22.desy.de)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Home - DESY webcastportal - livestreaming and video recordings
+ - [https://video.desy.de](https://video.desy.de)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
+ - [https://vtour.desy.de](https://vtour.desy.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://wof-piwik2.desy.de](https://wof-piwik2.desy.de)
+ - date_published: 2024-04-29T06:02:49.034956+00:00
+
+ ## DESY Library
+ - [http://www-library.desy.de](http://www-library.desy.de)
+ - date_published: 2006-01-05T10:09:52+00:00
+
+ ## Operation of the XFEL Accelerator
+ - [http://xfel.desy.de](http://xfel.desy.de)
+ - date_published: 2024-07-17T10:57:23+00:00
+
+ ## Bücherantiquariat vor allem von Kinderbüchern von Christine und Detlef 
+Heinsohn
+ - [https://detlef-heinsohn.de](https://detlef-heinsohn.de)
+ - date_published: 2024-02-08T22:04:05.568193+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.deutsche-apotheker-zeitung.de](https://analytics.deutsche-apotheker-zeitung.de)
+ - date_published: 2024-07-13T13:00:12.115833+00:00
+
+ ## DAZ.online - News aus Pharmazie, Gesundheitspolitik und Apothekenpraxis
+ - [https://deutsche-apotheker-zeitung.de](https://deutsche-apotheker-zeitung.de)
+ - date_published: 2024-05-11T07:26:32.277510+00:00
+
+ ## Shop der Deutschen Post | Porto online kaufen
+ - [https://shop.deutschepost.de](https://shop.deutschepost.de)
+ - date_published: 2024-06-16T10:52:23.445502+00:00
+
+ ## Deutsche Post – Die Post für Deutschland
+ - [https://www.deutschepost.de](https://www.deutschepost.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Shop
+ - [https://www.deutscher-apotheker-verlag.de](https://www.deutscher-apotheker-verlag.de)
+ - date_published: 2024-07-13T13:00:09.565702+00:00
+
+ ## Deutscher Fotobuchpreis
+ - [https://deutscherfotobuchpreis.de](https://deutscherfotobuchpreis.de)
+ - date_published: 2024-07-13T14:25:12.727704+00:00
+
+ ## Ideen feiern - Der Deutsche Gründerpreis | Deutscher Gründerpreis
+ - [https://www.deutscher-gruenderpreis.de](https://www.deutscher-gruenderpreis.de)
+ - date_published: 2024-07-24T05:48:25.759828+00:00
+
+ ## Deutscher IT-Sicherheitspreis
+ - [https://www.deutscher-it-sicherheitspreis.de](https://www.deutscher-it-sicherheitspreis.de)
+ - date_published: 2024-07-11T13:54:47.951383+00:00
+
+ ## Startseite
+ - [https://www.deutscher-jazzpreis.de](https://www.deutscher-jazzpreis.de)
+ - date_published: 2021-04-30T19:42:50+00:00
+
+ ## Deutscher Podcast Preis 2024
+ - [https://www.deutscher-podcastpreis.de](https://www.deutscher-podcastpreis.de)
+ - date_published: 2024-07-09T20:11:53.635131+00:00
+
+ ## Deutscher Presseindex
+ - [https://www.deutscherpresseindex.de](https://www.deutscherpresseindex.de)
+ - date_published: 2024-07-12T03:32:38.421270+00:00
+
+ ## Startseite
+ - [https://www.deutscher-schulpreis.de](https://www.deutscher-schulpreis.de)
+ - date_published: 2024-08-08T20:12:05.039121+00:00
+
+ ## Home
+ - [http://www.deutsches-apotheken-museum.de](http://www.deutsches-apotheken-museum.de)
+ - date_published: 2024-06-24T09:59:06.481271+00:00
+
+ ## Startseite - DFF.FILM
+ - [http://deutsches-filminstitut.de](http://deutsches-filminstitut.de)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Universität Leipzig: Deutsches Literaturinstitut Leipzig
+ - [https://www.deutsches-literaturinstitut.de](https://www.deutsches-literaturinstitut.de)
+ - date_published: 2024-06-18T13:28:00.787179+00:00
+
+ ## Online Spielautomaten - Die besten deutschen Slots 2024 online testen
+ - [https://deutsche-slots-online.de](https://deutsche-slots-online.de)
+ - date_published: 2024-01-24T12:40:31+00:00
+
+ ## Meisterwerke der Naturwissenschaft und Technik
+ - [https://www.deutsches-museum.de](https://www.deutsches-museum.de)
+ - date_published: 2024-07-20T17:51:34.376267+00:00
+
+ ## Strapi Admin
+ - [https://api.campus.deutsches-schulportal.de](https://api.campus.deutsches-schulportal.de)
+ - date_published: 2024-08-08T20:12:01.053551+00:00
+
+ ## Startseite
+ - [https://campus.deutsches-schulportal.de](https://campus.deutsches-schulportal.de)
+ - date_published: 2024-08-08T20:11:58.392761+00:00
+
+ ## CCM19 - Cookie Consent Management Software
+ - [https://consent.deutsches-schulportal.de](https://consent.deutsches-schulportal.de)
+ - date_published: 2024-08-08T20:12:02.129269+00:00
+
+ ## Deutsches Schulportal – Für mehr gute Schulen
+ - [https://deutsches-schulportal.de](https://deutsches-schulportal.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## Login
  - [https://konto.deutsches-schulportal.de](https://konto.deutsches-schulportal.de)
  - date_published: 2024-08-08T20:12:03.978965+00:00
@@ -3888,132 +4017,4 @@
  ## GMX: E-Mail-Adresse, FreeMail, De-Mail & Nachrichten
  - [https://gmx.de](https://gmx.de)
  - date_published: 2024-07-24T03:48:29.938835+00:00
-
- ## GMX Lotto Service. Jetzt LOTTO 6aus49 online spielen
- - [https://lotto.gmx.de](https://lotto.gmx.de)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Diese Webseite befindet sich im Aufbau
- - [https://planet.gnome-ev.de](https://planet.gnome-ev.de)
- - date_published: 2023-10-20T17:16:37+00:00
-
- ## GNU Pascal
- - [https://www.gnu-pascal.de](https://www.gnu-pascal.de)
- - date_published: 2023-10-25T18:30:47.993234+00:00
-
- ## Driving IT in the age of change
- - [https://www.god.de](https://www.god.de)
- - date_published: 2024-07-01T11:51:07.450741+00:00
-
- ## GoDot C64 Image Processing - Professionelle C64-Bildbearbeitung
- - [http://www.godot64.de](http://www.godot64.de)
- - date_published: 2021-12-01T17:14:58+00:00
-
- ## Die 100% natürliche Mittel gegen Impotenz
- - [http://www.gods-country.de](http://www.gods-country.de)
- - date_published: 2020-10-17T08:11:13+00:00
-
- ## GöHört
- - [https://goehoert.de](https://goehoert.de)
- - date_published: 2024-07-24T03:48:41.328040+00:00
-
- ## Gösta Thomas, ich selbst: Infos|Bilder|Blog - goestathomas.de
- - [http://goestathomas.de](http://goestathomas.de)
- - date_published: 2024-08-08T15:24:02.325675+00:00
-
- ## my.goethe.de
- - [https://login.goethe.de](https://login.goethe.de)
- - date_published: 2019-08-29T11:19:45+00:00
-
- ## my.goethe.de
- - [https://my.goethe.de](https://my.goethe.de)
- - date_published: 2021-11-15T13:33:04+00:00
-
- ## Goethe-Institut | Sprache. Kultur. Deutschland.
- - [https://goethe.de](https://goethe.de)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Página não encontrada – Goethe Maputo
- - [https://goethe-maputo.de](https://goethe-maputo.de)
- - date_published: 2024-07-13T17:32:06.757294+00:00
-
- ## BIENVENUE - GOETHE-ZENTRUM ANTANANARIVO/CGM
- - [https://goethe-tana.de](https://goethe-tana.de)
- - date_published: 2024-07-13T17:31:33.656078+00:00
-
- ## Goethe-Universität — Welcome to Goethe University Frankfurt
- - [https://www.goethe-university-frankfurt.de](https://www.goethe-university-frankfurt.de)
- - date_published: 2024-07-09T14:09:06.675848+00:00
-
- ## Day - Event Calendar
- - [https://events.goettingen-campus.de](https://events.goettingen-campus.de)
- - date_published: 2024-07-24T03:54:46.953963+00:00
-
- ## CampusPost
- - [https://campuspost.goettingen-campus.de](https://campuspost.goettingen-campus.de)
- - date_published: 2024-04-29T06:59:55.360885+00:00
-
- ## The Göttingen Campus
- - [https://goettingen-campus.de](https://goettingen-campus.de)
- - date_published: 2024-04-29T06:59:58.037650+00:00
-
- ## GRO.instruments | Non-profit scientific resource management platform
- - [https://instruments.goettingen-research-online.de](https://instruments.goettingen-research-online.de)
- - date_published: 2024-07-24T03:47:49.206940+00:00
-
- ## Elmar Klausmeier's Blog (Page 1)
- - [https://eklausmeier.goip.de](https://eklausmeier.goip.de)
- - date_published: 2024-05-11T10:23:05.197089+00:00
-
- ## GoldenCode.eu
- - [http://www.goldencode.de](http://www.goldencode.de)
- - date_published: 2024-07-11T22:24:30.935857+00:00
-
- ## Start
- - [https://www.goldmarke-agentur.de](https://www.goldmarke-agentur.de)
- - date_published: 2014-01-24T00:00:00+00:00
-
- ## Golem.de: IT-News für Profis
- - [https://account.golem.de](https://account.golem.de)
- - date_published: 2024-06-23T12:31:42.358019+00:00
-
- ## Alles für deine berufliche Weiterbildung und Karriere in der IT
- - [https://karrierewelt.golem.de](https://karrierewelt.golem.de)
- - date_published: 2024-06-18T15:50:56.841230+00:00
-
- ## Golem.de: IT-News für Profis
- - [https://redirect.golem.de](https://redirect.golem.de)
- - date_published: 2024-06-23T12:31:40+00:00
-
- ## Golem.de: IT-News für Profis
- - [https://video.golem.de](https://video.golem.de)
- - date_published: 2024-05-06T14:20:15.463408+00:00
-
- ## Golem.de: IT-News für Profis
- - [https://golem.de](https://golem.de)
- - date_published: 2024-04-28T02:08:35.705642+00:00
-
- ## golocal - Deine lokalen Empfehlungen. Echt und ehrlich.
- - [https://www.golocal.de](https://www.golocal.de)
- - date_published: 2024-07-19T16:35:05.170078+00:00
-
- ## Daniel Leinich
- - [http://www.gomjabbar.de](http://www.gomjabbar.de)
- - date_published: 2017-12-04T00:00:00+00:00
-
- ## Webhosting schneller dank SSD und sicherer mit SSL im Paket - goneo
- - [https://www.goneo.de](https://www.goneo.de)
- - date_published: 2024-07-20T15:41:40.211645+00:00
-
- ## GONICUS - Pioneers of Open Source
- - [https://www.gonicus.de](https://www.gonicus.de)
- - date_published: 2024-07-10T08:09:59+00:00
-
- ## asx-frontend-autopush.corp.google.de - Google Single Sign On: Sign into corp
- - [https://asx-frontend-autopush.corp.google.de](https://asx-frontend-autopush.corp.google.de)
- - date_published: 2024-06-22T22:35:49.781417+00:00
-
- ## Google Books
- - [https://books.google.de](https://books.google.de)
- - date_published: 2024-05-07T15:33:22.698320+00:00
 

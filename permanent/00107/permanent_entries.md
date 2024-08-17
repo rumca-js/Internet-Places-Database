@@ -1,3 +1,68 @@
+ ## Modus
+ - [https://modus.medium.com](https://modus.medium.com)
+ - date_published: 2024-06-30T23:27:13.762503+00:00
+
+ ## mo husseini – Medium
+ - [https://mo-husseini.medium.com](https://mo-husseini.medium.com)
+ - date_published: 2024-06-20T02:36:40.747388+00:00
+
+ ## Jacob Coffee – Medium
+ - [https://monorepo.medium.com](https://monorepo.medium.com)
+ - date_published: 2024-07-10T03:28:06.718199+00:00
+
+ ## MooseyAnon – Medium
+ - [https://mooseyanon.medium.com](https://mooseyanon.medium.com)
+ - date_published: 2023-11-01T02:23:21.073666+00:00
+
+ ## Andrei R | Mr Fireside – Medium
+ - [https://mrfireside.medium.com](https://mrfireside.medium.com)
+ - date_published: 2023-10-25T10:21:55.362809+00:00
+
+ ## Mark Risher – Medium
+ - [https://mrisher.medium.com](https://mrisher.medium.com)
+ - date_published: 2024-04-12T14:44:06.887250+00:00
+ - tags: ['personal']
+
+ ## Reza – Medium
+ - [https://mrnajafi.medium.com](https://mrnajafi.medium.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Medium
+ - [https://mrs-t.medium.com](https://mrs-t.medium.com)
+ - date_published: 2023-10-25T10:21:56.734858+00:00
+
+ ## Mubarak Native – Medium
+ - [https://mubaraknative.medium.com](https://mubaraknative.medium.com)
+ - date_published: 2024-07-04T10:59:47.230243+00:00
+
+ ## Matt Calder – Medium
+ - [https://mvcalder-01701.medium.com](https://mvcalder-01701.medium.com)
+ - date_published: 2023-10-25T10:21:58.459803+00:00
+
+ ## My Neighbor Alice – Medium
+ - [https://myneighboralice.medium.com](https://myneighboralice.medium.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Na'aman Hirschfeld – Medium
+ - [https://naamanhirschfeld.medium.com](https://naamanhirschfeld.medium.com)
+ - date_published: 2024-07-10T03:27:58.651526+00:00
+
+ ## Fernando Villalba – Medium
+ - [https://nandovillalba.medium.com](https://nandovillalba.medium.com)
+ - date_published: 2023-10-26T06:39:56.179167+00:00
+
+ ## Negin Shiraghaei – Medium
+ - [https://neginsh.medium.com](https://neginsh.medium.com)
+ - date_published: 2024-08-11T23:34:41.797043+00:00
+
+ ## Neo – Medium
+ - [https://neo-blockchain.medium.com](https://neo-blockchain.medium.com)
+ - date_published: 2024-07-27T06:17:31.478314+00:00
+
+ ## Netflix Technology Blog – Medium
+ - [https://netflixtechblog.medium.com](https://netflixtechblog.medium.com)
+ - date_published: 2023-10-25T10:22:00.831065+00:00
+
  ## Aliasgar Kanch – Medium
  - [https://netsecbits.medium.com](https://netsecbits.medium.com)
  - date_published: 2024-03-29T00:00:00+00:00
@@ -2869,7 +2934,7 @@
  - date_published: 2024-06-21T16:23:10.377260+00:00
 
  ## MergeYourData.com | The Data Sidekicks for Manufacturing Marketers
- - [https://www.mergeyourdata.com](https://www.mergeyourdata.com)
+ - [https://mergeyourdata.com](https://mergeyourdata.com)
  - date_published: 2024-02-05T00:00:00+00:00
 
  ## Mergify - CI/CD pipeline optimizer
@@ -3971,68 +4036,4 @@
  ## Software development magazine: programming testing project
  - [https://www.methodsandtools.com](https://www.methodsandtools.com)
  - date_published: 2024-05-06T13:34:27.570406+00:00
-
- ## Methodus 2000
- - [https://www.methodus2000.com](https://www.methodus2000.com)
- - date_published: 2023-10-25T16:02:08.577916+00:00
-
- ## Forum - Metin2 UK
- - [http://board.metin-2.com](http://board.metin-2.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Asset Information Management Consultant, Naval Architect • Metin Şaylan
- - [https://metinsaylan.com](https://metinsaylan.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Metis Conferences | Global Business Network for Rail Digitalisation | Rail Maintenance, Operations, Procurement & Supply Chains
- - [https://www.metisconferences.com](https://www.metisconferences.com)
- - date_published: 2024-06-28T12:53:03.335157+00:00
-
- ## MetLife Investment Management
- - [https://investments.metlife.com](https://investments.metlife.com)
- - date_published: 2024-07-19T16:44:42+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.metlife.com](https://investor.metlife.com)
- - date_published: 2024-07-19T16:53:21.950565+00:00
-
- ## MyBenefits - Startup Page
- - [https://mybenefits.metlife.com](https://mybenefits.metlife.com)
- - date_published: 2024-05-18T04:47:08+00:00
-
- ## Log in
- - [https://mypets.metlife.com](https://mypets.metlife.com)
- - date_published: 2024-07-19T16:52:40.756964+00:00
-
- ## Login
- - [https://online.metlife.com](https://online.metlife.com)
- - date_published: 2024-07-19T16:52:39.272320+00:00
-
- ## Login
- - [https://qa4.phoenix.ead.metlife.com](https://qa4.phoenix.ead.metlife.com)
- - date_published: 2024-07-19T16:52:50.471861+00:00
-
- ## SBR - Startup Page
- - [https://sbr.metlife.com](https://sbr.metlife.com)
- - date_published: 2024-06-22T03:37:12+00:00
-
- ## MetLife 2023 Sustainability Report | MetLife
- - [https://sustainabilityreport.metlife.com](https://sustainabilityreport.metlife.com)
- - date_published: 2024-07-19T16:43:51+00:00
-
- ## Insurance and Employee Benefits | MetLife
- - [https://metlife.com](https://metlife.com)
- - date_published: 2024-04-29T04:12:33.725793+00:00
-
- ## MetLife Careers
- - [https://www.metlifecareers.com](https://www.metlifecareers.com)
- - date_published: 2024-07-19T16:51:25+00:00
-
- ## Homepage
- - [https://www.metlife-gulf.com](https://www.metlife-gulf.com)
- - date_published: 2024-07-19T16:39:23+00:00
-
- ## Pet Insurance from MetLife | Voted Best Pet Health Insurance
- - [https://www.metlifepetinsurance.com](https://www.metlifepetinsurance.com)
- - date_published: 2024-07-19T16:44:02+00:00
 

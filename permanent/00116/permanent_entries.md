@@ -1,3 +1,80 @@
+ ## novaBBS - Available Newsgroups
+ - [https://www.novabbs.com](https://www.novabbs.com)
+ - date_published: 2024-07-09T00:00:32.925095+00:00
+
+ ## Novabench - Free Computer Benchmark Software
+ - [https://novabench.com](https://novabench.com)
+ - date_published: 2024-04-18T11:16:47+00:00
+ - tags: ['pc benchmark']
+
+ ## Home - Novabus
+ - [https://novabus.com](https://novabus.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Daniel R. Novack
+ - [https://www.novackmedialaw.com](https://www.novackmedialaw.com)
+ - date_published: 2024-07-08T09:44:54.053456+00:00
+
+ ## NOVA Cleanups | Community Litter Pickup Events Volunteers
+ - [https://novacleanups.com](https://novacleanups.com)
+ - date_published: 2024-07-10T16:24:21+00:00
+
+ ## Novae - Novae Lore Encyclopedia P13
+ - [https://novaecomic.com](https://novaecomic.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Nova is now part of AngelList
+ - [https://novahq.com](https://novahq.com)
+ - date_published: 2023-11-19T21:17:33+00:00
+
+ ## Nova Launcher
+ - [https://novalauncher.com](https://novalauncher.com)
+ - date_published: 2024-08-11T17:56:06.817713+00:00
+
+ ## CampusGroups by Ready Education
+ - [http://www.novalsys.com](http://www.novalsys.com)
+ - date_published: 2024-07-01T11:21:48.579935+00:00
+
+ ## nova-mind.com
+ - [http://www.nova-mind.com](http://www.nova-mind.com)
+ - date_published: 2024-07-07T06:36:29.615784+00:00
+
+ ## NovaMostra - who seeks ... shall find
+ - [https://novamostra.com](https://novamostra.com)
+ - date_published: 2023-10-25T16:22:29.141519+00:00
+
+ ## THE NOVA OPEN
+ - [https://www.novaopen.com](https://www.novaopen.com)
+ - date_published: 2024-05-01T05:00:49.400801+00:00
+
+ ## Discover new packages for Laravel Nova
+ - [https://novapackages.com](https://novapackages.com)
+ - date_published: 2024-06-18T10:24:19.153319+00:00
+
+ ## Nova Science Publishers – Publisher of Books and Journals in Medicine and Health, Science and Technology and Social Sciences
+ - [https://novapublishers.com](https://novapublishers.com)
+ - date_published: 2024-05-06T14:46:05.865617+00:00
+
+ ## Novara Media
+ - [https://novaramedia.com](https://novaramedia.com)
+ - date_published: 2024-07-06T12:11:47+00:00
+
+ ## Seite nicht korrekt eingerichtet
+ - [http://wordpress.novarostudio.com](http://wordpress.novarostudio.com)
+ - date_published: 2024-07-15T09:53:36+00:00
+
+ ## Novartis
+ - [https://www.novartis.com](https://www.novartis.com)
+ - date_published: 2024-05-04T15:31:56.242192+00:00
+
+ ## Nova Spivack - Weblog
+ - [https://novaspivack.com](https://novaspivack.com)
+ - date_published: 2024-07-11T04:28:06.017212+00:00
+
+ ## Please log in | Customer Portal
+ - [https://customer.novationmusic.com](https://customer.novationmusic.com)
+ - date_published: 2024-07-24T06:59:46.843456+00:00
+
  ## Novation | Novation Downloads
  - [https://downloads.novationmusic.com](https://downloads.novationmusic.com)
  - date_published: 2024-06-19T16:06:23.840281+00:00
@@ -3970,80 +4047,4 @@ a simple way
  ## Off the Shelf
  - [https://offtheshelf.com](https://offtheshelf.com)
  - date_published: 2024-08-09T04:22:35.274955+00:00
-
- ## OffTikTok | Share TikToks with anyone, even if they don't have the app.
- - [https://offtiktok.com](https://offtiktok.com)
- - date_published: 2024-08-02T23:32:49.133400+00:00
-
- ## Off Type Foundry
- - [https://off-type.com](https://off-type.com)
- - date_published: 2024-05-04T06:32:44.711964+00:00
-
- ## Offworld Trading Company
- - [https://www.offworldgame.com](https://www.offworldgame.com)
- - date_published: 2024-06-16T08:47:06.719467+00:00
-
- ## Help Center
- - [https://info.shop.ofi.com](https://info.shop.ofi.com)
- - date_published: 2024-07-08T11:54:14+00:00
-
- ## Shop ofi Ingredients | ofi
- - [https://shop.ofi.com](https://shop.ofi.com)
- - date_published: 2024-07-08T11:54:12.207653+00:00
-
- ## ofi is a global leader in naturally good food & beverage ingredients and solutions.
- - [https://www.ofi.com](https://www.ofi.com)
- - date_published: 2024-07-08T11:54:11.246468+00:00
-
- ## Ofir Weisse
- - [http://www.ofirweisse.com](http://www.ofirweisse.com)
- - date_published: 2021-10-11T18:28:12+00:00
-
- ## O’Flaherty Services Inc.
- - [https://oflahertyservices.com](https://oflahertyservices.com)
- - date_published: 2024-06-30T10:47:29.617856+00:00
-
- ## Oliver Flatt
- - [https://oflatt.com](https://oflatt.com)
- - date_published: 2024-05-06T22:45:42.247090+00:00
-
- ## ROOter by Of Modems and Men
- - [https://www.ofmodemsandmen.com](https://www.ofmodemsandmen.com)
- - date_published: 2023-08-04T23:12:03+00:00
-
- ## OFNN Architects
- - [https://ofnngroup.com](https://ofnngroup.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Bear File Converter - Online & Free | convert office documents, audio, video, image and more file format for free
- - [https://www.ofoct.com](https://www.ofoct.com)
- - date_published: 2024-06-23T18:18:23.249696+00:00
-
- ## OFRAK: unpack, modify, and repack binaries
- - [https://ofrak.com](https://ofrak.com)
- - date_published: 2023-10-25T16:24:56.351939+00:00
-
- ## Dr. Charles Ofria
- - [https://ofria.com](https://ofria.com)
- - date_published: 2024-01-05T02:20:31+00:00
-
- ## ERP2Web Home
- - [https://fiber-optic-catalog.ofsoptics.com](https://fiber-optic-catalog.ofsoptics.com)
- - date_published: 2024-07-12T19:20:22.232562+00:00
-
- ## Optical Fiber Cable and Connectivity Solutions - OFS
- - [https://ofsoptics.com](https://ofsoptics.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Dialog Insight
- - [https://cdn.ofsys.com](https://cdn.ofsys.com)
- - date_published: 2024-07-16T12:35:42+00:00
-
- ## Dialog Insight
- - [https://wpn.ofsys.com](https://wpn.ofsys.com)
- - date_published: 2024-06-27T17:43:11+00:00
-
- ## charles hugh smith-writer/author
- - [https://oftwominds.com](https://oftwominds.com)
- - date_published: 2021-12-14T02:39:17+00:00
 

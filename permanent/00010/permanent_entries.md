@@ -1,3 +1,8 @@
+ ## yield code(); - Dmitry Kudryavtsev
+ - [https://yieldcode.blog](https://yieldcode.blog)
+ - date_published: 2023-10-25T09:02:08.513966+00:00
+ - tags: ['personal']
+
  ## يونس بن عمارة
  - [https://youdo.blog](https://youdo.blog)
  - date_published: 2024-05-06T13:46:38.200533+00:00
@@ -3713,6 +3718,11 @@ Educação
  - [https://pinup.net.br](https://pinup.net.br)
  - date_published: 2024-07-31T00:00:00+00:00
 
+ ## Vento no Litoral
+ - [https://ventonolitoral.pontofixo.net.br](https://ventonolitoral.pontofixo.net.br)
+ - date_published: 2024-08-14T19:47:28.555843+00:00
+ - tags: ['personal']
+
  ## ABC – Academia Brasileira de Ciências
  - [https://abc.org.br](https://abc.org.br)
  - date_published: 2024-05-07T20:15:39.987342+00:00
@@ -4011,12 +4021,4 @@ Educação
  ## ImunizaJáCuritiba - Prefeitura de Curitiba
  - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
  - date_published: 2024-06-12T11:17:53.636747+00:00
-
- ## Prefeitura Municipal de Curitiba
- - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:09.478209+00:00
-
- ## Secretaria Municipal da Educação
- - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:18.932345+00:00
 

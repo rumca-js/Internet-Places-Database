@@ -1,3 +1,198 @@
+ ## Klim Type Foundry
+ - [https://klim.co.nz](https://klim.co.nz)
+ - date_published: 2024-04-23T04:07:40.580747+00:00
+ - tags: ['typography', 'company', 'fonts']
+
+ ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover New Zealand
+ - [https://www.landrover.co.nz](https://www.landrover.co.nz)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Le Va
+ - [https://www.leva.co.nz](https://www.leva.co.nz)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Liturgy - Spirituality - Worship - Community
+ - [http://www.liturgy.co.nz](http://www.liturgy.co.nz)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Lorde
+ - [https://www.lorde.co.nz](https://www.lorde.co.nz)
+ - date_published: 2024-06-18T23:01:25.674687+00:00
+
+ ## MAC Doctor
+ - [http://www.macdoctor.co.nz](http://www.macdoctor.co.nz)
+ - date_published: 2023-05-06T00:00:00+00:00
+
+ ## Used Equipment for Agriculture, Construction & Forestry |  MachineFinder
+ - [https://www.machinefinder.co.nz](https://www.machinefinder.co.nz)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Mack Trucks New Zealand | Over 100 Years of Business Expertise
+ - [https://www.macktrucks.co.nz](https://www.macktrucks.co.nz)
+ - date_published: 2024-06-12T18:15:41+00:00
+
+ ## Marketing Cowboys | Powering Success: Innovative Marketing Solutions
+ - [https://www.marketingcowboys.co.nz](https://www.marketingcowboys.co.nz)
+ - date_published: 2024-08-07T11:52:51.799740+00:00
+
+ ## Official Website| Maserati NZ
+ - [http://www.maserati.co.nz](http://www.maserati.co.nz)
+ - date_published: 2024-07-12T05:18:40+00:00
+
+ ## MenuAid
+ - [https://app.menuaid.co.nz](https://app.menuaid.co.nz)
+ - date_published: 2024-08-11T20:21:45.773895+00:00
+
+ ## Home
+ - [https://menuaid.co.nz](https://menuaid.co.nz)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## MetOcean Solutions
+ - [https://www.metocean.co.nz](https://www.metocean.co.nz)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## MightyApe.co.nz | Buy Games, Books, Toys, Furniture & more | Next Day Delivery
+ - [https://www.mightyape.co.nz](https://www.mightyape.co.nz)
+ - date_published: 2024-06-17T05:41:24.887272+00:00
+
+ ## Fuels, Motor Oils, Fuel Cards & More | Mobil New Zealand
+ - [https://www.mobil.co.nz](https://www.mobil.co.nz)
+ - date_published: 2024-07-17T16:36:53.011343+00:00
+
+ ## MOCA | Innovative Digital Solutions for Websites and Software
+ - [https://moca.co.nz](https://moca.co.nz)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## A creative agency based in Aotearoa.
+ - [https://motionsickness.co.nz](https://motionsickness.co.nz)
+ - date_published: 2024-08-12T04:45:32.403456+00:00
+
+ ## Music of Sound – obsessed with vibrating air molecules
+ - [http://www.musicofsound.co.nz](http://www.musicofsound.co.nz)
+ - date_published: 2024-06-30T07:52:57.944741+00:00
+
+ ## MyMansion.co.nz: Houses for Sale in New Zealand
+ - [https://mymansion.co.nz](https://mymansion.co.nz)
+ - date_published: 2017-01-31T21:38:11+00:00
+
+ ## Home
+ - [https://www.newshub.co.nz](https://www.newshub.co.nz)
+ - date_published: 2024-05-02T21:55:22.340355+00:00
+
+ ## Homepage
+ - [https://newsroom.co.nz](https://newsroom.co.nz)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Niche Software - Niche Software
+ - [https://www.nichesoftware.co.nz](https://www.nichesoftware.co.nz)
+ - date_published: 2023-10-25T20:49:26.344940+00:00
+
+ ## Northport offers deep-water access to the world | Northport
+ - [https://northport.co.nz](https://northport.co.nz)
+ - date_published: 2024-08-07T11:52:48.152429+00:00
+
+ ## Homepage | Now to Love - New Zealand
+ - [https://www.nowtolove.co.nz](https://www.nowtolove.co.nz)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## NZ Herald: Latest NZ news, plus World, Sport, Business and more - NZ Herald
+ - [https://www.nzherald.co.nz](https://www.nzherald.co.nz)
+ - date_published: 2023-10-25T20:50:14.328097+00:00
+
+ ## Homepage | NZ Maths
+ - [http://www.nzmaths.co.nz](http://www.nzmaths.co.nz)
+ - date_published: 2024-06-14T05:25:36+00:00
+
+ ## New Zealand Rugby Official Photography Library
+ - [https://images.nzrugby.co.nz](https://images.nzrugby.co.nz)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Homepage | NZ Woman's Weekly Food
+ - [https://www.nzwomansweeklyfood.co.nz](https://www.nzwomansweeklyfood.co.nz)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## oatthegoat.co.nz
+ - [http://oatthegoat.co.nz](http://oatthegoat.co.nz)
+ - date_published: 2024-08-06T20:07:53.997641+00:00
+
+ ## Seagliders - The Future of Travel | Ocean Flyer
+ - [https://oceanflyer.co.nz](https://oceanflyer.co.nz)
+ - date_published: 2024-04-28T04:27:30.030949+00:00
+
+ ## Otago Daily Times Online News
+ - [https://www.odt.co.nz](https://www.odt.co.nz)
+ - date_published: 2024-07-04T13:15:08+00:00
+
+ ## Online Betting NZ - Best Sports Betting Sites in New Zealand 2024
+ - [https://onlinebettingnz.co.nz](https://onlinebettingnz.co.nz)
+ - date_published: 2024-07-08T08:33:00.199209+00:00
+
+ ## Best Online Casinos NZ 2024: 33 Real Money Casinos Reviewed
+ - [https://www.onlinecasinosrealmoney.co.nz](https://www.onlinecasinosrealmoney.co.nz)
+ - date_published: 2024-04-30T02:34:04.775516+00:00
+ - tags: ['gambling']
+
+ ## Online Casino real money NZ ( 2024 ) - Best online slots real money
+ - [https://onlinecasinosrealmoneynz.co.nz](https://onlinecasinosrealmoneynz.co.nz)
+ - date_published: 2024-07-17T12:56:40.316126+00:00
+
+ ## Online Pokies NZ 2024 - Best Online Pokies in New Zealand
+ - [https://onlinepokiesnz.co.nz](https://onlinepokiesnz.co.nz)
+ - date_published: 2024-07-05T09:12:47+00:00
+
+ ## Opel NZ | German Cars & SUVs | Bold & Pure
+ - [https://www.opel.co.nz](https://www.opel.co.nz)
+ - date_published: 2024-07-09T14:00:20+00:00
+
+ ## Open to Grow
+ - [https://opentogrow.co.nz](https://opentogrow.co.nz)
+ - date_published: 2024-01-01T03:40:17.027386+00:00
+ - tags: ['personal']
+
+ ## Optimi
+ - [https://www.optimi.co.nz](https://www.optimi.co.nz)
+ - date_published: 2024-07-15T11:09:47.144280+00:00
+
+ ## Patagonia Outdoor Clothing & Gear | New Zealand
+ - [https://patagonia.co.nz](https://patagonia.co.nz)
+ - date_published: 2024-05-06T22:33:20.850561+00:00
+
+ ## Patchwork Architecture.
+ - [http://patchworkarchitecture.co.nz](http://patchworkarchitecture.co.nz)
+ - date_published: 2024-07-13T15:43:25.341391+00:00
+
+ ## Welcome to nginx!
+ - [https://clickcustompay.paymark.co.nz](https://clickcustompay.paymark.co.nz)
+ - date_published: 2024-05-28T13:22:30+00:00
+
+ ## Penguin Books New Zealand
+ - [https://www.penguin.co.nz](https://www.penguin.co.nz)
+ - date_published: 2024-06-28T14:51:50.307099+00:00
+
+ ## Pixeleyes
+ - [https://www.pixeleyes.co.nz](https://www.pixeleyes.co.nz)
+ - date_published: 2024-06-23T06:25:20.548368+00:00
+
+ ## The best gaming PC's in NZ | Playtech
+ - [https://playtech.co.nz](https://playtech.co.nz)
+ - date_published: 2024-07-13T13:33:49.825330+00:00
+
+ ## Property Investment & Fund Management | PMG Funds - PMG
+ - [https://www.pmgfunds.co.nz](https://www.pmgfunds.co.nz)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Psychoactive Studios
+ - [https://www.psychoactive.co.nz](https://www.psychoactive.co.nz)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## New Zealand Public Holidays - PublicHolidays.co.nz
+ - [https://publicholidays.co.nz](https://publicholidays.co.nz)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Public Library — Consumer culture, Communication & Brand strategy
+ - [http://publiclibrary.co.nz](http://publiclibrary.co.nz)
+ - date_published: 2024-07-13T15:19:52.243542+00:00
+
  ## Pulse Security
  - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
  - date_published: 2023-10-25T20:50:15.343196+00:00
@@ -3855,197 +4050,4 @@ I post about Tech, Privacy, Games...
  ## Find a Rewarding Career at AARP
  - [https://careers.aarp.org](https://careers.aarp.org)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## AARP樂齡會™
- - [https://chinese.aarp.org](https://chinese.aarp.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## AARP Online Community
- - [https://community.aarp.org](https://community.aarp.org)
- - date_published: 2024-06-28T08:31:46.671239+00:00
-
- ## Games
- - [https://games.aarp.org](https://games.aarp.org)
- - date_published: 2023-10-30T11:59:48.224688+00:00
- - tags: ['games', 'atari']
-
- ## AARP Help
- - [https://help.aarp.org](https://help.aarp.org)
- - date_published: 2023-06-29T08:30:52+00:00
-
- ## AARP Membership – Join or Renew
- - [https://join.aarp.org](https://join.aarp.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## AARP Local: Events Near You, Volunteering, Things To Do
- - [https://local.aarp.org](https://local.aarp.org)
- - date_published: 2023-02-23T00:00:00+00:00
-
- ## AARP.ORG log in - Register Free Online
- - [https://login.aarp.org](https://login.aarp.org)
- - date_published: 2024-06-28T08:31:30.551775+00:00
-
- ## Rewards Star
- - [https://memberoffers.aarp.org](https://memberoffers.aarp.org)
- - date_published: 2024-06-28T08:31:36.006802+00:00
-
- ## AARP Money Map™
- - [https://moneymap.aarp.org](https://moneymap.aarp.org)
- - date_published: 2024-06-26T19:45:48+00:00
-
- ## MediaRoom - AARP Press Room
- - [https://press.aarp.org](https://press.aarp.org)
- - date_published: 2024-06-28T08:31:24+00:00
-
- ## Site Not Available
- - [https://secure.aarp.org](https://secure.aarp.org)
- - date_published: 2017-06-01T00:00:00+00:00
-
- ## AARP In Your State
- - [https://states.aarp.org](https://states.aarp.org)
- - date_published: 2024-06-28T08:32:05.748716+00:00
-
- ## Lifestyle Behavior and Brain Health
- - [https://stayingsharp.aarp.org](https://stayingsharp.aarp.org)
- - date_published: 2024-06-28T08:31:32.011267+00:00
-
- ## Actor Tim Daly Reflects on Caring for His Mom
- - [https://videos.aarp.org](https://videos.aarp.org)
- - date_published: 2024-06-28T08:31:03.866480+00:00
-
- ## AARP International
- - [https://www.aarpinternational.org](https://www.aarpinternational.org)
- - date_published: 2024-07-16T20:51:54.126282+00:00
-
- ## Homepage | American Astronomical Society
- - [https://aas.org](https://aas.org)
- - date_published: 2024-05-07T19:49:15.639431+00:00
-
- ## Bulletin of the AAS
- - [https://baas.aas.org](https://baas.aas.org)
- - date_published: 2024-02-24T18:05:46.247535+00:00
-
- ## Division on Dynamical Astronomy | Division on Dynamical Astronomy
- - [https://dda.aas.org](https://dda.aas.org)
- - date_published: 2024-08-11T14:26:35+00:00
-
- ## Home
- - [https://eclipse.aas.org](https://eclipse.aas.org)
- - date_published: 2024-07-01T13:40:14+00:00
-
- ## Historical Astronomy Division
- - [https://had.aas.org](https://had.aas.org)
- - date_published: 2024-08-11T15:10:31.567002+00:00
-
- ## Job Register | American Astronomical Society
- - [https://jobregister.aas.org](https://jobregister.aas.org)
- - date_published: 2024-06-30T05:31:58.234607+00:00
-
- ## Home - AAS Journals
- - [https://journals.aas.org](https://journals.aas.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [http://my.aas.org](http://my.aas.org)
- - date_published: 2024-07-01T16:31:25.372654+00:00
-
- ## AAS Photo Gallery
- - [http://photos.aas.org](http://photos.aas.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home | AASCU
- - [http://www.aascu.org](http://www.aascu.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Log In | STARS Reports
- - [https://reports.aashe.org](https://reports.aashe.org)
- - date_published: 2024-07-01T23:55:29.277953+00:00
-
- ## STARS, Sustainability Tracking Assessment & Rating System
- - [https://stars.aashe.org](https://stars.aashe.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## AASL Knowledge Quest
- - [https://knowledgequest.aasl.org](https://knowledgequest.aasl.org)
- - date_published: 2024-05-04T09:35:17.977887+00:00
-
- ## AASLH
- - [http://www.aaslh.org](http://www.aaslh.org)
- - date_published: 2024-06-20T04:28:11.447426+00:00
-
- ## American Academy of Sleep Medicine | AASM | Sleep | Medical Society
- - [https://aasm.org](https://aasm.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage - AAS Nova
- - [https://aasnova.org](https://aasnova.org)
- - date_published: 2023-10-25T20:53:12.339589+00:00
-
- ## American Association of Teachers of German | AATG
- - [https://www.aatg.org](https://www.aatg.org)
- - date_published: 2024-07-01T14:32:17.092181+00:00
-
- ## AAUP
- - [http://aaup.org](http://aaup.org)
- - date_published: 2024-07-02T09:24:26+00:00
-
- ## Aave Grants DAO
- - [https://aavegrants.org](https://aavegrants.org)
- - date_published: 2024-06-16T03:48:14.535750+00:00
-
- ## AVSpec Recent
- - [https://app.aavso.org](https://app.aavso.org)
- - date_published: 2024-08-06T18:25:31.906379+00:00
-
- ## Home | aavso
- - [https://auth.aavso.org](https://auth.aavso.org)
- - date_published: 2024-06-30T00:01:09+00:00
-
- ## Home | aavso
- - [https://aavso.org](https://aavso.org)
- - date_published: 2024-05-07T15:17:08.145943+00:00
-
- ## American Birding Association - American Birding Association
- - [https://www.aba.org](https://www.aba.org)
- - date_published: 2024-06-21T12:55:00.430060+00:00
-
- ## Antiquarian Booksellers' Association of America | Antiquarian & Rare Books | ABAA
- - [http://abaa.org](http://abaa.org)
- - date_published: 2024-07-12T18:44:48.457091+00:00
-
- ## Abandonware France, le site retrogaming dÃ©diÃ© Ã  la sauvegarde du patrimoine vidÃ©o ludique PC.
- - [https://www.abandonware-france.org](https://www.abandonware-france.org)
- - date_published: 2024-07-10T02:41:00.978525+00:00
-
- ## Le site des anciennes revues informatiques -  www.abandonware-magazines.org
- - [http://www.abandonware-magazines.org](http://www.abandonware-magazines.org)
- - date_published: 2024-07-11T12:07:25.900326+00:00
-
- ## Abbeville Institute – Explore the Southern Tradition
- - [http://abbevilleinstitute.org](http://abbevilleinstitute.org)
- - date_published: 2024-06-27T06:57:39.495187+00:00
-
- ## Abbeville Institute – Explore the Southern Tradition
- - [https://www.abbevilleinstitute.org](https://www.abbevilleinstitute.org)
- - date_published: 2024-06-27T07:03:09.471250+00:00
-
- ## HostGator Website Startup Guide
- - [https://abbysarmy.org](https://abbysarmy.org)
- - date_published: 2020-11-19T23:24:54+00:00
-
- ## Armed Bear Common Lisp (ABCL) - ANSI Common Lisp on the Java Virtual Machine
- - [https://abcl.org](https://abcl.org)
- - date_published: 2024-05-08T12:14:45.105211+00:00
-
- ## Home | The American Board Of Certification
- - [https://www.abcworld.org](https://www.abcworld.org)
- - date_published: 2024-06-29T14:12:28+00:00
-
- ## University of Aberdeen Development Trust SCIO
- - [https://abdnalumni.org](https://abdnalumni.org)
- - date_published: 2024-06-17T17:24:25.354099+00:00
-
- ## abelard public education website
- - [https://www.abelard.org](https://www.abelard.org)
- - date_published: 2023-10-25T20:53:20.409245+00:00
 

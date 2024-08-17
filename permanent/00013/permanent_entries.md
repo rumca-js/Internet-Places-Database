@@ -1,3 +1,23 @@
+ ## torontofc
+ - [https://www.torontofc.ca](https://www.torontofc.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Home - Toronto Foundation
+ - [https://torontofoundation.ca](https://torontofoundation.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## The Chang School of Continuing Education - Toronto Metropolitan University
+ - [https://continuing.torontomu.ca](https://continuing.torontomu.ca)
+ - date_published: 2024-07-21T09:11:26.548894+00:00
+
+ ## Toronto Metropolitan University Libraries
+ - [https://library.torontomu.ca](https://library.torontomu.ca)
+ - date_published: 2024-07-21T09:11:24.646522+00:00
+
+ ## Welcome | my.torontomu Portal
+ - [https://my.torontomu.ca](https://my.torontomu.ca)
+ - date_published: 2024-07-21T09:11:23.135544+00:00
+
  ## ECB Webmail - Login
  - [https://webmail.ee.torontomu.ca](https://webmail.ee.torontomu.ca)
  - date_published: 2024-04-30T05:17:25.707665+00:00
@@ -3997,24 +4017,4 @@
  ## Spectre
  - [https://spectre.cam](https://spectre.cam)
  - date_published: 2024-04-30T05:35:11.723117+00:00
-
- ## Lux
- - [https://lux.camera](https://lux.camera)
- - date_published: 2023-10-25T12:09:56.046567+00:00
-
- ## meow.camera
- - [https://meow.camera](https://meow.camera)
- - date_published: 2024-06-20T02:56:52.252276+00:00
-
- ## Telecast
- - [https://telecast.camera](https://telecast.camera)
- - date_published: 2024-07-14T08:30:21.733236+00:00
-
- ## VWFNDR
- - [https://vwfndr.camera](https://vwfndr.camera)
- - date_published: 2024-04-29T07:14:37.211339+00:00
-
- ## 1337 Bootcamp / Gaming House
- - [https://1337.camp](https://1337.camp)
- - date_published: 2024-07-13T13:23:12.891452+00:00
 

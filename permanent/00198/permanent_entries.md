@@ -1,3 +1,143 @@
+ ## Home - St. John's College
+ - [https://community.stjohnscollege.edu](https://community.stjohnscollege.edu)
+ - date_published: 2024-05-07T20:24:54.452245+00:00
+
+ ## Admissions & Aid
+ - [https://apply.stlawu.edu](https://apply.stlawu.edu)
+ - date_published: 2024-07-07T22:01:39+00:00
+
+ ## St. Lawrence University
+ - [https://student.stlawu.edu](https://student.stlawu.edu)
+ - date_published: 2024-07-07T18:57:43+00:00
+
+ ## St. Lawrence University
+ - [https://stlawu.edu](https://stlawu.edu)
+ - date_published: 2024-05-08T10:52:04.996530+00:00
+
+ ## A House of Priestly Formation and Theological Education | St. Mary Seminary
+ - [https://stmarysem.edu](https://stmarysem.edu)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Home | Cybersecurity
+ - [https://cybersecurity.stonybrook.edu](https://cybersecurity.stonybrook.edu)
+ - date_published: 2024-08-05T20:38:51.873529+00:00
+
+ ## Stony Brook University
+ - [http://go.stonybrook.edu](http://go.stonybrook.edu)
+ - date_published: 2024-08-05T20:38:54.118097+00:00
+
+ ## Home
+ - [https://help.stonybrook.edu](https://help.stonybrook.edu)
+ - date_published: 2024-08-05T20:38:55.678700+00:00
+
+ ## Beyond IT | Division of Information Technology
+ - [https://it.stonybrook.edu](https://it.stonybrook.edu)
+ - date_published: 2024-04-29T04:27:23.123828+00:00
+
+ ## lcpc2020.cs.stonybrook.edu
+ - [https://lcpc2020.cs.stonybrook.edu](https://lcpc2020.cs.stonybrook.edu)
+ - date_published: 2024-05-07T21:17:03.219784+00:00
+
+ ## Home - SBU News Home
+ - [https://news.stonybrook.edu](https://news.stonybrook.edu)
+ - date_published: 2018-03-30T20:15:25+00:00
+
+ ## SCGP – Simons Center for Geometry and Physics
+ - [http://scgp.stonybrook.edu](http://scgp.stonybrook.edu)
+ - date_published: 2024-06-30T08:24:58.486633+00:00
+
+ ## Untitled
+ - [http://www3.cs.stonybrook.edu](http://www3.cs.stonybrook.edu)
+ - date_published: 2022-05-24T22:11:37+00:00
+
+ ## HOME | Department of Computer Science
+ - [http://www.cs.stonybrook.edu](http://www.cs.stonybrook.edu)
+ - date_published: 2024-06-23T20:38:28.319548+00:00
+
+ ## The School of Marine and Atmospheric Sciences | School of Marine and Atmospheric Sciences
+ - [https://www.somas.stonybrook.edu](https://www.somas.stonybrook.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Stony Brook University
+ - [https://www.stonybrook.edu](https://www.stonybrook.edu)
+ - date_published: 2024-06-14T23:31:13.879086+00:00
+
+ ## DrizzlePac
+ - [http://drizzlepac.stsci.edu](http://drizzlepac.stsci.edu)
+ - date_published: 2024-07-04T18:28:08.732465+00:00
+
+ ## ETC
+ - [http://etc.stsci.edu](http://etc.stsci.edu)
+ - date_published: 2024-07-04T18:28:25.497253+00:00
+
+ ## Welcome to the Hubble Legacy Archive
+ - [https://hla.stsci.edu](https://hla.stsci.edu)
+ - date_published: 2022-03-19T00:00:00+00:00
+
+ ## HST Calibration Reference Data System (CRDS)
+ - [https://hst-crds.stsci.edu](https://hst-crds.stsci.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## HST User Documentation - HDox - HST User Documentation
+ - [https://hst-docs.stsci.edu](https://hst-docs.stsci.edu)
+ - date_published: 2024-07-04T18:28:02.761667+00:00
+
+ ## STScI | Mikulski Archive for Space Telescopes (MAST) Portal
+ - [https://mast.stsci.edu](https://mast.stsci.edu)
+ - date_published: 2023-04-27T14:29:45+00:00
+
+ ## Site Home - STScI Outerspace
+ - [https://outerspace.stsci.edu](https://outerspace.stsci.edu)
+ - date_published: 2024-08-11T15:11:00.913057+00:00
+
+ ## Welcome to the Proposal/Person (ProPer) Application
+ - [https://proper.stsci.edu](https://proper.stsci.edu)
+ - date_published: 2024-07-04T18:28:27.260804+00:00
+
+ ## ULLYSES Project
+ - [https://ullyses.stsci.edu](https://ullyses.stsci.edu)
+ - date_published: 2023-03-20T22:24:53+00:00
+
+ ## Home
+ - [https://stsci.edu](https://stsci.edu)
+ - date_published: 2024-05-08T07:32:42.863208+00:00
+
+ ## Site Directory - UST Sites & Blogs - Be Bold
+ - [https://blogs.stthom.edu](https://blogs.stthom.edu)
+ - date_published: 2024-07-01T20:42:46.896605+00:00
+
+ ## Homepage - UST IT
+ - [https://it.stthom.edu](https://it.stthom.edu)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## University of St. Thomas | Catholic University Houston, Tx
+ - [https://myust.stthom.edu](https://myust.stthom.edu)
+ - date_published: 2024-07-01T20:42:49.753066+00:00
+
+ ## News and Success Stories | University of St. Thomas Houston
+ - [https://news.stthom.edu](https://news.stthom.edu)
+ - date_published: 2024-02-08T17:00:17.906342+00:00
+
+ ## University of St. Thomas | Catholic University Houston, Tx
+ - [https://stthom.edu](https://stthom.edu)
+ - date_published: 2024-05-07T20:32:15.546670+00:00
+
+ ## Opus College of Business
+ - [https://business.stthomas.edu](https://business.stthomas.edu)
+ - date_published: 2024-08-06T17:00:53+00:00
+
+ ## College of Arts and Sciences
+ - [https://cas.stthomas.edu](https://cas.stthomas.edu)
+ - date_published: 2024-08-06T17:00:11+00:00
+
+ ## School of Education | University of St. Thomas – Minnesota
+ - [https://education.stthomas.edu](https://education.stthomas.edu)
+ - date_published: 2024-04-28T06:23:18.311929+00:00
+
+ ## Give to St. Thomas
+ - [https://give.stthomas.edu](https://give.stthomas.edu)
+ - date_published: 2024-07-10T13:38:02+00:00
+
  ## Homepage - Newsroom | University of St. Thomas
  - [https://news.stthomas.edu](https://news.stthomas.edu)
  - date_published: 2021-06-30T22:53:43+00:00
@@ -3869,154 +4009,4 @@
  ## A Global University
  - [https://global.uchicago.edu](https://global.uchicago.edu)
  - date_published: 2024-07-01T22:31:53+00:00
-
- ## The Goodspeed Manuscript Collection
- - [https://goodspeed.lib.uchicago.edu](https://goodspeed.lib.uchicago.edu)
- - date_published: 2024-08-06T19:19:38.333146+00:00
-
- ## Home - UChicagoGRAD | The University of Chicago
- - [https://grad.uchicago.edu](https://grad.uchicago.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Welcome to
- - [https://grahamschool.uchicago.edu](https://grahamschool.uchicago.edu)
- - date_published: 2024-07-01T21:47:53+00:00
-
- ## Welcome to
- - [https://graham.uchicago.edu](https://graham.uchicago.edu)
- - date_published: 2024-05-07T20:46:53.098712+00:00
-
- ## Library Guides: Research Guides: Subject Guides
- - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:31.938288+00:00
-
- ## Harris | The University of Chicago Harris School of Public Policy
- - [https://harris.uchicago.edu](https://harris.uchicago.edu)
- - date_published: 2024-05-08T00:13:10.966049+00:00
-
- ## Home | HCEO
- - [https://hceconomics.uchicago.edu](https://hceconomics.uchicago.edu)
- - date_published: 2024-08-06T13:17:58+00:00
-
- ## Knowledge Base - IT Service Portal
- - [http://home.uchicago.edu](http://home.uchicago.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Housing & Residence Life
- - [https://housing.uchicago.edu](https://housing.uchicago.edu)
- - date_published: 2024-07-01T20:20:39+00:00
-
- ## Division of the Humanities
- - [http://humanities.uchicago.edu](http://humanities.uchicago.edu)
- - date_published: 2024-06-23T12:31:37+00:00
-
- ## Human Resources | The University of Chicago
- - [https://humanresources.uchicago.edu](https://humanresources.uchicago.edu)
- - date_published: 2024-07-01T22:25:15.077760+00:00
-
- ## IFK
- - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
- - date_published: 2024-02-24T18:19:38.969915+00:00
-
- ## Harris | The University of Chicago Harris School of Public Policy
- - [https://info.harris.uchicago.edu](https://info.harris.uchicago.edu)
- - date_published: 2024-07-02T21:29:37+00:00
-
- ## Information Technology Services at UChicago
- - [https://itservices.uchicago.edu](https://itservices.uchicago.edu)
- - date_published: 2024-07-01T22:26:04.119454+00:00
-
- ## Information Technology Services at UChicago
- - [https://its.uchicago.edu](https://its.uchicago.edu)
- - date_published: 2024-07-01T22:39:21.940414+00:00
-
- ## Cierpliwości...
- - [https://journals.uchicago.edu](https://journals.uchicago.edu)
- - date_published: 2024-06-21T23:20:11.227407+00:00
-
- ## Kavli Institute for Cosmological Physics | The University of Chicago
- - [http://kicp.uchicago.edu](http://kicp.uchicago.edu)
- - date_published: 2024-07-14T16:04:16+00:00
-
- ## Knowledge UChicago
- - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
- - date_published: 2024-05-07T20:52:28.163602+00:00
-
- ## Center for Leadership and Involvement | The University of Chicago
- - [https://leadership.uchicago.edu](https://leadership.uchicago.edu)
- - date_published: 2024-07-01T22:33:06+00:00
-
- ## Leadership & Society Initiative - Advanced Leadership @UChicago
- - [https://leadforsociety.uchicago.edu](https://leadforsociety.uchicago.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## LGBTQ Student Life | Center for Identity + Inclusion | The University of Chicago
- - [http://lgbtq.uchicago.edu](http://lgbtq.uchicago.edu)
- - date_published: 2024-07-01T22:38:58+00:00
-
- ## Home | The University of Chicago Magazine
- - [https://mag.uchicago.edu](https://mag.uchicago.edu)
- - date_published: 2024-07-01T06:37:04+00:00
-
- ## Manticore
- - [http://manticore.cs.uchicago.edu](http://manticore.cs.uchicago.edu)
- - date_published: 2020-05-29T17:12:18+00:00
-
- ## UChicago Maps
- - [https://maps.uchicago.edu](https://maps.uchicago.edu)
- - date_published: 2024-06-15T21:16:04+00:00
-
- ## Master of Liberal Arts (MLA) Degree Online - University of Chicago
- - [https://masterliberalarts.uchicago.edu](https://masterliberalarts.uchicago.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Department of Mathematics | The University of Chicago
- - [https://math.uchicago.edu](https://math.uchicago.edu)
- - date_published: 2024-06-15T21:29:28+00:00
-
- ## Home - University of Chicago Medical and Biological Sciences Alumni Association
- - [https://mbsaa.uchicago.edu](https://mbsaa.uchicago.edu)
- - date_published: 2024-07-01T22:25:23.479258+00:00
-
- ## Home - University of Chicago Medical and Biological Sciences Alumni Association
- - [http://medbsd.uchicago.edu](http://medbsd.uchicago.edu)
- - date_published: 2024-07-01T22:31:53.006249+00:00
-
- ## Microbiome Center | The University of Chicago
- - [https://microbiome.uchicago.edu](https://microbiome.uchicago.edu)
- - date_published: 2024-06-17T17:37:40+00:00
-
- ## Center for Municipal Finance – Sandbox | University of Chicago
- - [https://munifinance.uchicago.edu](https://munifinance.uchicago.edu)
- - date_published: 2024-07-03T03:09:15+00:00
-
- ## myCHOICE | Professional Development for STEM PhDs
- - [http://mychoice.uchicago.edu](http://mychoice.uchicago.edu)
- - date_published: 2024-07-01T22:35:12.450113+00:00
-
- ## my.UChicago
- - [https://my.uchicago.edu](https://my.uchicago.edu)
- - date_published: 2023-09-08T13:36:01+00:00
-
- ## PhD Program in Neurobiology | The University of Chicago
- - [https://neurograd.uchicago.edu](https://neurograd.uchicago.edu)
- - date_published: 2024-07-01T15:17:18+00:00
-
- ## Neuroscience at the University of Chicago
- - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
- - date_published: 2024-05-07T20:46:04.000431+00:00
-
- ## News
-                
-            
-            
-                
-                    
-                        - The University of Chicago Library News
-                    
-                
-            
-            - The University of Chicago Library
- - [https://news.lib.uchicago.edu](https://news.lib.uchicago.edu)
- - date_published: 2024-06-17T14:45:21.027604+00:00
 

@@ -1994,6 +1994,10 @@
  - [https://marimo.app](https://marimo.app)
  - date_published: 2024-02-29T18:41:02.482986+00:00
 
+ ## Markopolis
+ - [https://markopolis.app](https://markopolis.app)
+ - date_published: 2024-08-14T20:23:18.232834+00:00
+
  ## Marp: Markdown Presentation Ecosystem
  - [https://marp.app](https://marp.app)
  - date_published: 2023-10-25T11:47:16.353357+00:00
@@ -4031,8 +4035,4 @@
  ## Workspace simplifier - Rambox
  - [https://rambox.app](https://rambox.app)
  - date_published: 2024-07-09T15:52:47.889498+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn.raster.app](https://cdn.raster.app)
- - date_published: 2024-04-19T00:00:00+00:00
 

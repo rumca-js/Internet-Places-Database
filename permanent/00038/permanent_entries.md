@@ -1,3 +1,36 @@
+ ## Nike: Better is Temporary
+ - [https://betteristemporary.com](https://betteristemporary.com)
+ - date_published: 2021-02-01T12:38:26+00:00
+
+ ## https://www.betterleadersbetterschools.com
+ - [https://www.betterleadersbetterschools.com](https://www.betterleadersbetterschools.com)
+ - date_published: 2023-12-27T18:11:37.780094+00:00
+ - tags: ['personal']
+
+ ## Set up your business with BetterLegal
+ - [https://betterlegal.com](https://betterlegal.com)
+ - date_published: 2024-07-24T02:30:46.988393+00:00
+
+ ## Betterment Help Center
+ - [https://help.betterment.com](https://help.betterment.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Betterment Shop | Wear Betterment - Pursue Happiness
+ - [https://shop.betterment.com](https://shop.betterment.com)
+ - date_published: 2024-06-16T12:32:58.207276+00:00
+
+ ## Betterment
+ - [https://www.betterment.com](https://www.betterment.com)
+ - date_published: 2024-05-01T06:45:01.200258+00:00
+
+ ## Log in to Betterment | Betterment
+ - [https://wwws.betterment.com](https://wwws.betterment.com)
+ - date_published: 2024-06-16T12:33:00.792337+00:00
+
+ ## Bettermode | Create Powerful Web Apps
+ - [https://bettermode.com](https://bettermode.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
  ## Better Motherfucking Website
  - [http://bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com)
  - date_published: 2015-02-20T22:26:23+00:00
@@ -4007,36 +4040,4 @@
  ## Texas Business Directory : Businesses in Texas
  - [https://texas.bizhwy.com](https://texas.bizhwy.com)
  - date_published: 2024-06-29T19:25:10.168762+00:00
-
- ## Utah Business Directory : Businesses in Utah
- - [https://utah.bizhwy.com](https://utah.bizhwy.com)
- - date_published: 2024-06-29T19:24:22.753483+00:00
-
- ## Vermont Business Directory : Businesses in Vermont
- - [https://vermont.bizhwy.com](https://vermont.bizhwy.com)
- - date_published: 2024-06-29T19:24:42.039679+00:00
-
- ## Virginia Business Directory : Businesses in Virginia
- - [https://virginia.bizhwy.com](https://virginia.bizhwy.com)
- - date_published: 2024-06-29T19:24:12.221753+00:00
-
- ## Washington Business Directory : Businesses in Washington
- - [https://washington.bizhwy.com](https://washington.bizhwy.com)
- - date_published: 2024-06-29T19:24:33.508250+00:00
-
- ## West Virginia Business Directory : Businesses in West Virginia
- - [https://west-virginia.bizhwy.com](https://west-virginia.bizhwy.com)
- - date_published: 2024-06-29T19:24:52.772590+00:00
-
- ## Wisconsin Business Directory : Businesses in Wisconsin
- - [https://wisconsin.bizhwy.com](https://wisconsin.bizhwy.com)
- - date_published: 2024-06-29T19:24:51.633811+00:00
-
- ## Business Directory | Free Business Listings | Businesses For Sale
- - [https://www.bizhwy.com](https://www.bizhwy.com)
- - date_published: 2024-06-29T19:24:43.785314+00:00
-
- ## Wyoming Business Directory : Businesses in Wyoming
- - [https://wyoming.bizhwy.com](https://wyoming.bizhwy.com)
- - date_published: 2024-06-29T19:24:46.919944+00:00
 

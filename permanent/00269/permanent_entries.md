@@ -1,3 +1,204 @@
+ ## craigslist: prague jobs, apartments, for sale, services, community, and events
+ - [https://prague.craigslist.org](https://prague.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: prescott jobs, apartments, for sale, services, community, and events
+ - [https://prescott.craigslist.org](https://prescott.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: raleigh jobs, apartments, for sale, services, community, and events
+ - [https://raleigh.craigslist.org](https://raleigh.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Rio de Janeiro empregos, apartamentos, para venda, serviços, comunidade e eventos
+ - [https://rio.craigslist.org](https://rio.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: high rockies jobs, apartments, for sale, services, community, and events
+ - [https://rockies.craigslist.org](https://rockies.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: roma lavori, appartamenti, in vendita, servizi, comunità ed eventi
+ - [https://rome.craigslist.org](https://rome.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: roswell jobs, apartments, for sale, services, community, and events
+ - [https://roswell.craigslist.org](https://roswell.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: sacramento jobs, apartments, for sale, services, community, and events
+ - [https://sacramento.craigslist.org](https://sacramento.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: san diego jobs, apartments, for sale, services, community, and events
+ - [https://sandiego.craigslist.org](https://sandiego.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: santa barbara jobs, apartments, for sale, services, community, and events
+ - [https://santabarbara.craigslist.org](https://santabarbara.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: santa fe jobs, apartments, for sale, services, community, and events
+ - [https://santafe.craigslist.org](https://santafe.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: saskatoon jobs, apartments, for sale, services, community, and events
+ - [https://saskatoon.craigslist.org](https://saskatoon.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: seattle jobs, apartments, for sale, services, community, and events
+ - [https://seattle.craigslist.org](https://seattle.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: SF bay area jobs, apartments, for sale, services, community, and events
+ - [https://sfbay.craigslist.org](https://sfbay.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: 上海 工作，公寓，出售，服务，社区和活动
+ - [https://shanghai.craigslist.org](https://shanghai.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: show low jobs, apartments, for sale, services, community, and events
+ - [https://showlow.craigslist.org](https://showlow.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: sierra vista jobs, apartments, for sale, services, community, and events
+ - [https://sierravista.craigslist.org](https://sierravista.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: singapore jobs, apartments, for sale, services, community, and events
+ - [https://singapore.craigslist.org](https://singapore.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: st george jobs, apartments, for sale, services, community, and events
+ - [https://stgeorge.craigslist.org](https://stgeorge.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Sverige jobb, lägenheter, till salu, tjänster, samhälle och evenemang
+ - [https://stockholm.craigslist.org](https://stockholm.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Sydney jobs, apartments, for sale, services, community, and events
+ - [https://sydney.craigslist.org](https://sydney.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: tel aviv jobs, apartments, for sale, services, community, and events
+ - [https://telaviv.craigslist.org](https://telaviv.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: 東京 仕事、アパート、販売、サービス、コミュニティ、およびイベント
+ - [https://tokyo.craigslist.org](https://tokyo.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## craigslist: toronto jobs, apartments, for sale, services, community, and events
+ - [https://toronto.craigslist.org](https://toronto.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: tucson jobs, apartments, for sale, services, community, and events
+ - [https://tucson.craigslist.org](https://tucson.craigslist.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## craigslist: vancouver, BC jobs, apartments, for sale, services, community, and events
+ - [https://vancouver.craigslist.org](https://vancouver.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: venezia lavori, appartamenti, in vendita, servizi, comunità ed eventi
+ - [https://venice.craigslist.org](https://venice.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: ventura jobs, apartments, for sale, services, community, and events
+ - [https://ventura.craigslist.org](https://ventura.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: victoria, BC jobs, apartments, for sale, services, community, and events
+ - [https://victoria.craigslist.org](https://victoria.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: washington, DC jobs, apartments, for sale, services, community, and events
+ - [https://washingtondc.craigslist.org](https://washingtondc.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: western slope jobs, apartments, for sale, services, community, and events
+ - [https://westslope.craigslist.org](https://westslope.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: winnipeg jobs, apartments, for sale, services, community, and events
+ - [https://winnipeg.craigslist.org](https://winnipeg.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: yuma jobs, apartments, for sale, services, community, and events
+ - [https://yuma.craigslist.org](https://yuma.craigslist.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## craigslist: Zürich Jobs, Wohnungen, zu verkaufen, Dienstleistungen, Gemeinschaft und Veranstaltungen
+ - [https://zurich.craigslist.org](https://zurich.craigslist.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Craigslist Fund
+ - [https://www.craigslistfund.org](https://www.craigslistfund.org)
+ - date_published: 2024-07-07T09:37:27.752674+00:00
+
+ ## Lorrie Faith Cranor's Home Page
+ - [http://lorrie.cranor.org](http://lorrie.cranor.org)
+ - date_published: 2024-06-19T19:00:57+00:00
+
+ ## PagesPerso - Crans Wiki
+ - [https://perso.crans.org](https://perso.crans.org)
+ - date_published: 2022-09-07T00:00:00+00:00
+
+ ## Blog by Marco
+ - [https://crapts.org](https://crapts.org)
+ - date_published: 2024-04-21T15:27:32.723574+00:00
+ - tags: ['personal']
+
+ ## Stuff and things - Peter Wemm's personal blog
+ - [https://blog.crashed.org](https://blog.crashed.org)
+ - date_published: 2024-07-23T23:58:16.900174+00:00
+
+ ## Welcome : CRASH Space
+ - [https://blog.crashspace.org](https://blog.crashspace.org)
+ - date_published: 2024-08-11T14:28:32.198086+00:00
+
+ ## CreakyJoints - Arthritis Support, Education, Advocacy and Research
+ - [https://creakyjoints.org](https://creakyjoints.org)
+ - date_published: 2024-06-28T11:57:23.744763+00:00
+
+ ## Home - Creating Future Us
+ - [https://creatingfutureus.org](https://creatingfutureus.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## CreatingMinds - tools, techniques, methods, quotes and quotations on all matters creative
+ - [http://creatingminds.org](http://creatingminds.org)
+ - date_published: 2024-07-14T13:58:06.195025+00:00
+
+ ## CREATION JUSTICE MINISTRIES
+ - [https://www.creationjustice.org](https://www.creationjustice.org)
+ - date_published: 2024-07-06T23:46:15.613769+00:00
+
+ ## Creation, Science, Bible History, & Dinosaurs
+ - [https://creationmuseum.org](https://creationmuseum.org)
+ - date_published: 2024-08-08T15:37:48.169759+00:00
+
+ ## Creative Bits
+ - [http://creativebits.org](http://creativebits.org)
+ - date_published: 2024-07-13T09:16:06.533409+00:00
+
+ ## Creative Camera Club of Lexington – Where Art Meets Science
+ - [https://creativecameraclub.org](https://creativecameraclub.org)
+ - date_published: 2024-05-07T21:17:08.446487+00:00
+
+ ## Creative Chair
+ - [https://creativechair.org](https://creativechair.org)
+ - date_published: 2024-07-06T18:20:42+00:00
+
+ ## hanna schraffenberger – creative researcher
+ - [https://www.creativecode.org](https://www.creativecode.org)
+ - date_published: 2024-06-23T20:45:20.494244+00:00
+
+ ## Creative Commons Certificate
+ - [https://certificate.creativecommons.org](https://certificate.creativecommons.org)
+ - date_published: 2024-07-20T10:32:07.092408+00:00
+
  ## CC Colombia - Just another Chapter Websites site
  - [https://co.creativecommons.org](https://co.creativecommons.org)
  - date_published: 2024-07-08T20:14:14.010391+00:00
@@ -2117,6 +2318,10 @@ irc logs at libera.irclog.whitequark.org
  - [http://davidsd.org](http://davidsd.org)
  - date_published: 2023-08-23T07:35:51+00:00
 
+ ## Home - David's Legacy Foundation
+ - [https://www.davidslegacy.org](https://www.davidslegacy.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
  ## David Smith, Independent iOS Developer
  - [https://david-smith.org](https://david-smith.org)
  - date_published: 2024-05-08T10:00:29.826650+00:00
@@ -3842,209 +4047,4 @@ irc logs at libera.irclog.whitequark.org
  ## Cantaloupe Image Server
  - [https://iiif.digitalcommonwealth.org](https://iiif.digitalcommonwealth.org)
  - date_published: 2024-07-17T12:40:39.411794+00:00
-
- ## Digital Commonwealth
- - [https://www.digitalcommonwealth.org](https://www.digitalcommonwealth.org)
- - date_published: 2024-06-24T10:50:40.998680+00:00
-
- ## Home
- - [https://digitalcontentnext.org](https://digitalcontentnext.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Digital Democracy
- - [https://digital-democracy.org](https://digital-democracy.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## DigitaleBildung - DigitaleBildung
- - [https://digitale-bildung.org](https://digitale-bildung.org)
- - date_published: 2024-05-09T08:25:41.170324+00:00
-
- ## Association to support the demoscene
- - [https://digitalekultur.org](https://digitalekultur.org)
- - date_published: 2024-05-11T05:41:28.908323+00:00
-
- ## Digital Emissions
- - [https://www.digitalemissions.org](https://www.digitalemissions.org)
- - date_published: 2024-07-22T18:49:50.235747+00:00
-
- ## DIGITALEUROPE – The voice of digitally transforming industries in Europe
- - [https://www.digitaleurope.org](https://www.digitaleurope.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Start — Digitale Welten
- - [https://www.digitale-welten.org](https://www.digitale-welten.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Digital Folklore Reader
- - [https://digitalfolklore.org](https://digitalfolklore.org)
- - date_published: 2020-11-07T14:04:09+00:00
-
- ## Home - Digital Freedom Foundation
- - [https://digitalfreedoms.org](https://digitalfreedoms.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## CONTENTdm
- - [http://digitalhorizonsonline.org](http://digitalhorizonsonline.org)
- - date_published: 2024-07-01T16:01:23.974133+00:00
-
- ## Alliance of Digital Humanities Organizations – A Global Coalition of Digital Humanities Organizations
- - [http://www.digitalhumanities.org](http://www.digitalhumanities.org)
- - date_published: 2024-06-22T08:43:35.484301+00:00
-
- ## Digital Humanities Now
- - [http://digitalhumanitiesnow.org](http://digitalhumanitiesnow.org)
- - date_published: 2024-07-09T14:38:34.821650+00:00
-
- ## UCI DLL
- - [https://www.digitallearninglab.org](https://www.digitallearninglab.org)
- - date_published: 2023-02-17T00:00:00+00:00
-
- ## Home - Reclaiming Digital Futures
- - [https://digitallearningpractices.org](https://digitallearningpractices.org)
- - date_published: 2019-03-12T00:00:00+00:00
-
- ## eSmart Digital Licence+
- - [https://digitallicenceplus.org](https://digitallicenceplus.org)
- - date_published: 2024-07-13T18:44:42.038160+00:00
-
- ## SABI4D : Situs Judi Slot Online Garansi Maxwin Dengan Bonus Besar Terbaru 2023
- - [http://www.digitalmajority.org](http://www.digitalmajority.org)
- - date_published: 2023-11-21T10:12:21+00:00
-
- ## Reuters Institute Digital News Report
- - [https://www.digitalnewsreport.org](https://www.digitalnewsreport.org)
- - date_published: 2024-07-04T05:32:36+00:00
-
- ## digitalnpq.org
- - [http://www.digitalnpq.org](http://www.digitalnpq.org)
- - date_published: 2024-07-01T14:43:32.697646+00:00
-
- ## Digital Platform Observatory - Establishing workers representation and social dialogue in the platform and app economy
- - [https://digitalplatformobservatory.org](https://digitalplatformobservatory.org)
- - date_published: 2024-07-03T02:01:20.699846+00:00
-
- ## Digital Rights Nepal
- - [https://digitalrightsnepal.org](https://digitalrightsnepal.org)
- - date_published: 2024-01-15T01:10:11+00:00
-
- ## Digital Scholar
- - [https://digitalscholar.org](https://digitalscholar.org)
- - date_published: 2023-12-15T09:58:29+00:00
-
- ## Digital Scholarship
- - [http://digital-scholarship.org](http://digital-scholarship.org)
- - date_published: 2024-06-02T03:43:44+00:00
-
- ## DSX
- - [https://digitalsecurityexchange.org](https://digitalsecurityexchange.org)
- - date_published: 2021-02-18T04:31:32+00:00
-
- ## San Francisco Public Library | DigitalSF
- - [https://digitalsf.org](https://digitalsf.org)
- - date_published: 2024-05-09T05:37:29.714588+00:00
-
- ## Digitaltechnik
- - [http://www.digitaltechnik.org](http://www.digitaltechnik.org)
- - date_published: 2009-05-19T14:37:44+00:00
-
- ## Home - Digital Twin Consortium
- - [https://www.digitaltwinconsortium.org](https://www.digitaltwinconsortium.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Roland Dreier
- - [http://digitalvampire.org](http://digitalvampire.org)
- - date_published: 2015-05-19T21:17:53+00:00
-
- ## Home
- - [https://www.digitalwomanuganda.org](https://www.digitalwomanuganda.org)
- - date_published: 2024-06-22T09:04:09+00:00
-
- ## Digitopoly
- - [https://digitopoly.org](https://digitopoly.org)
- - date_published: 2024-03-08T07:39:42.709408+00:00
-
- ## Partners for Dignity & Rights – formerly National Economic and Social Rights Initiative
- - [https://dignityandrights.org](https://dignityandrights.org)
- - date_published: 2024-07-30T04:20:53.288922+00:00
-
- ## Dillan Mills - Computer engineer, web designer, and cat person.
- - [https://dillan.org](https://dillan.org)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Homepage - Dillo
- - [https://www.dillo.org](https://www.dillo.org)
- - date_published: 2022-08-20T00:00:00+00:00
-
- ## DimensionLab
- - [https://dimensionlab.org](https://dimensionlab.org)
- - date_published: 2024-06-28T10:55:45.758136+00:00
-
- ## HOME - Dimitri Lascaris: Activist Journalist Lawyer
- - [https://dimitrilascaris.org](https://dimitrilascaris.org)
- - date_published: 2020-11-20T00:00:00+00:00
-
- ## DIMVA 2019 – 16th Conference on Detection of Intrusions and Malware & Vulnerability Assessment; Gothenburg, June 19-20
- - [https://www.dimva2019.org](https://www.dimva2019.org)
- - date_published: 2024-07-13T09:04:00.126400+00:00
-
- ## DinosaurJS
- - [http://dinosaurjs.org](http://dinosaurjs.org)
- - date_published: 2020-05-17T21:52:55+00:00
-
- ## Dinosaur Images & Facts - The Online Database
- - [https://dinosaurpictures.org](https://dinosaurpictures.org)
- - date_published: 2023-10-25T21:14:21.679378+00:00
-
- ## Home - The Diocese of California
- - [https://www.diocal.org](https://www.diocal.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Homepage - Diocese of Brooklyn
- - [http://dioceseofbrooklyn.org](http://dioceseofbrooklyn.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Catholic Diocese of Cleveland
- - [https://dioceseofcleveland.org](https://dioceseofcleveland.org)
- - date_published: 2024-05-07T20:32:12.027515+00:00
-
- ## The Catholic Diocese of Shreveport
- - [https://www.dioshpt.org](https://www.dioshpt.org)
- - date_published: 2024-05-04T10:12:07.856300+00:00
-
- ## Diputación Provincial de Almería
- - [https://www.dipalme.org](https://www.dipalme.org)
- - date_published: 2024-07-14T03:07:39.600655+00:00
-
- ## The Diplomatic Pouch: The Diplomacy Home Page
- - [http://www.diplom.org](http://www.diplom.org)
- - date_published: 2023-12-09T15:50:40+00:00
-
- ## Learn more about DirectEmployers Association!
- - [https://directemployers.org](https://directemployers.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## dirtSimple.org - what stands in the way, becomes the way
- - [https://dirtsimple.org](https://dirtsimple.org)
- - date_published: 2024-06-28T20:05:49.672615+00:00
-
- ## Dirty Feed
- - [https://dirtyfeed.org](https://dirtyfeed.org)
- - date_published: 2024-06-20T14:10:20.206754+00:00
- - tags: ['personal']
-
- ## https://dirtyprosecutor.org
- - [https://dirtyprosecutor.org](https://dirtyprosecutor.org)
- - date_published: 2024-01-09T03:38:55.288541+00:00
-
- ## dis2017.org
- - [http://dis2017.org](http://dis2017.org)
- - date_published: 2024-07-12T05:57:32.345541+00:00
-
- ## Homepage - Disability:IN
- - [https://disabilityin.org](https://disabilityin.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://www.disabledmotoring.org](https://www.disabledmotoring.org)
- - date_published: 2024-05-02T12:10:02.097015+00:00
 

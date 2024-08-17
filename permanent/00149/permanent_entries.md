@@ -1,3 +1,108 @@
+ ## Teacher magazine - Teacher
+ - [https://www.teachermagazine.com](https://www.teachermagazine.com)
+ - date_published: 2024-07-13T18:45:33.848984+00:00
+
+ ## Teaching Resources & Lesson Plans | TPT
+ - [https://www.teacherspayteachers.com](https://www.teacherspayteachers.com)
+ - date_published: 2024-06-27T17:22:54.888024+00:00
+
+ ## Peaches Official Website
+ - [https://teachesofpeaches.com](https://teachesofpeaches.com)
+ - date_published: 2024-06-23T07:03:26.051163+00:00
+
+ ## Teachfloor: The leading social learning platform
+ - [https://www.teachfloor.com](https://www.teachfloor.com)
+ - date_published: 2023-10-25T17:23:53.514633+00:00
+
+ ## Teaching in Higher Ed with Bonni Stachowiak
+ - [https://teachinginhighered.com](https://teachinginhighered.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The Teaching Professor | Higher Ed Teaching & Learning
+ - [https://teachingprofessor.com](https://teachingprofessor.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Teaching Startup: Answers for Entrepreneurs
+ - [https://app.teachingstartup.com](https://app.teachingstartup.com)
+ - date_published: 2024-05-01T08:40:18.361863+00:00
+
+ ## TeachItToMe.com - MP3 Torah, Torah Audio and Torah Classes
+ - [http://www.teachittome.com](http://www.teachittome.com)
+ - date_published: 2024-06-27T07:57:48.192486+00:00
+
+ ## TeachMePhysiology - Making Physiology Simple
+ - [https://teachmephysiology.com](https://teachmephysiology.com)
+ - date_published: 2024-02-24T20:43:25.591811+00:00
+
+ ## TeachMePython || Home
+ - [https://www.teachmepython.com](https://www.teachmepython.com)
+ - date_published: 2024-06-22T13:06:22.065542+00:00
+
+ ## Welcome to The TeachMeSeries - The TeachMeSeries
+ - [http://teachmeseries.com](http://teachmeseries.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Worksheets, Lesson Plans, Teacher Resources, and Rubrics from TeAch-nology.com
+ - [http://teach-nology.com](http://teach-nology.com)
+ - date_published: 2024-07-04T14:33:41.751989+00:00
+
+ ## 中山僦滥文化传播有限公司
+ - [http://www.teachpoetry.com](http://www.teachpoetry.com)
+ - date_published: 2024-07-17T10:56:15.360542+00:00
+
+ ## Printable Bible Lessons
+ - [https://teachsundayschool.com](https://teachsundayschool.com)
+ - date_published: 2024-05-08T05:16:01.481573+00:00
+ - tags: ['christian', 'bible']
+
+ ## Learnist AS - Sign In
+ - [https://learnistde.teachworks.com](https://learnistde.teachworks.com)
+ - date_published: 2024-07-20T14:30:43.543737+00:00
+
+ ## Teacup Media
+ - [https://teacupmedia.com](https://teacupmedia.com)
+ - date_published: 2024-08-06T19:22:23.831847+00:00
+
+ ## Teads Advertising Privacy Policy
+ - [https://privacy-policy.teads.com](https://privacy-policy.teads.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Teads: The platform that means business
+ - [http://www.teads.com](http://www.teads.com)
+ - date_published: 2022-10-26T14:47:20+00:00
+
+ ## Kansas City Electricians
+ - [https://teagueelectric.com](https://teagueelectric.com)
+ - date_published: 2024-07-08T11:27:33+00:00
+
+ ## TeaHaus
+ - [https://teahaus.com](https://teahaus.com)
+ - date_published: 2024-06-23T03:51:22.710394+00:00
+
+ ## Home ⋆ TEA Headsets
+ - [https://www.teaheadsets.com](https://www.teaheadsets.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Tea Leaf Nation
+ - [https://tealeafnation.com](https://tealeafnation.com)
+ - date_published: 2024-05-12T05:56:52.707661+00:00
+
+ ## Tealfeed: The Better Way of Managing Business
+ - [https://home.tealfeed.com](https://home.tealfeed.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home - Teal Group
+ - [http://www.tealgroup.com](http://www.tealgroup.com)
+ - date_published: 2024-07-09T21:58:57+00:00
+
+ ## Welcome to Tealium Docs |  Tealium Docs
+ - [https://docs.tealium.com](https://docs.tealium.com)
+ - date_published: 2024-05-04T07:27:49.821557+00:00
+
+ ## Loading
+ - [https://university.tealium.com](https://university.tealium.com)
+ - date_published: 2024-06-19T12:17:35+00:00
+
  ## Sign into
  - [https://support.tealiumiq.com](https://support.tealiumiq.com)
  - date_published: 2024-06-20T01:45:38.959470+00:00
@@ -3943,110 +4048,4 @@
  ## TetraLogical
  - [https://tetralogical.com](https://tetralogical.com)
  - date_published: 2024-07-14T08:50:42.253095+00:00
-
- ## Tetra Pak processing and packaging solutions for food and beverages
- - [https://www.tetrapak.com](https://www.tetrapak.com)
- - date_published: 2024-07-14T07:38:00.333718+00:00
-
- ## Tetra Scientific Data and AI Cloud | TetraScience
- - [https://www.tetrascience.com](https://www.tetrascience.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Tetra Tech - Fournisseur mondial de services-conseils et d'ingénierie de pointe
- - [https://fr.tetratech.com](https://fr.tetratech.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investor.tetratech.com](https://investor.tetratech.com)
- - date_published: 2024-07-17T00:02:31.544788+00:00
-
- ## Policies and Statements - Tetra Tech
- - [https://policies.tetratech.com](https://policies.tetratech.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Tetra Tech - Global provider of high-end consulting and engineering services
- - [https://tetratech.com](https://tetratech.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Tetra Tech Europe - Leading provider of consulting and engineering services
- - [https://www.tetratecheurope.com](https://www.tetratecheurope.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Tetris | The addictive puzzle game that started it all!
- - [https://tetris.com](https://tetris.com)
- - date_published: 2024-06-22T20:08:06.918118+00:00
-
- ## Tetsudo.com（鉄道コム）
- - [https://www.tetsudo.com](https://www.tetsudo.com)
- - date_published: 2024-07-01T08:42:25+00:00
-
- ## Tettra | AI Internal Knowledge Base & Knowledge Management
- - [https://tettra.com](https://tettra.com)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Tetrapod Zoology
- - [https://tetzoo.com](https://tetzoo.com)
- - date_published: 2024-07-09T17:00:23.264736+00:00
-
- ## TeuxDeux: the to-do list app that's as simple as paper.
- - [https://teuxdeux.com](https://teuxdeux.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## YunoHost Portal
- - [https://a.tevinzhang.com](https://a.tevinzhang.com)
- - date_published: 2024-05-06T16:11:32.927361+00:00
-
- ## Tevin's Mastodon
- - [https://mastodon.tevinzhang.com](https://mastodon.tevinzhang.com)
- - date_published: 2024-05-06T16:11:30.444065+00:00
-
- ## Tevin Zhang
- - [https://tevinzhang.com](https://tevinzhang.com)
- - date_published: 2024-01-12T00:00:00+00:00
- - tags: ['personal']
-
- ## tevis thompson
- - [https://tevisthompson.com](https://tevisthompson.com)
- - date_published: 2024-05-13T03:26:40.754868+00:00
-
- ## Tex-Air Filters
- - [https://texairfilters.com](https://texairfilters.com)
- - date_published: 2024-05-12T06:12:52.362618+00:00
-
- ## Texas43 - Latest Texas News
- - [https://texas43.com](https://texas43.com)
- - date_published: 2024-03-19T22:23:10.553563+00:00
- - tags: ['texas news']
-
- ## Attention Required! | Cloudflare
- - [https://investors.texascapitalbank.com](https://investors.texascapitalbank.com)
- - date_published: 2024-06-15T15:14:50.286812+00:00
-
- ## TCB Online Banking Login
- - [https://securelogin.texascapitalbank.com](https://securelogin.texascapitalbank.com)
- - date_published: 2024-06-15T15:15:00.591953+00:00
-
- ## TCB WarehouseNow
- - [https://warehouselending.warehousenow.texascapitalbank.com](https://warehouselending.warehousenow.texascapitalbank.com)
- - date_published: 2024-06-15T15:14:52.325249+00:00
-
- ## Commercial & Personal Banking | Texas Capital Bank
- - [https://www.texascapitalbank.com](https://www.texascapitalbank.com)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Texas Classical Review
- - [https://texasclassicalreview.com](https://texasclassicalreview.com)
- - date_published: 2024-05-08T03:16:30.979027+00:00
-
- ## Texas College Savings Plan
- - [https://www.texascollegesavings.com](https://www.texascollegesavings.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home
- - [https://texascrafted.com](https://texascrafted.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Texas Guardian |Authoritative News resource for Texas
- - [http://www.texasguardian.com](http://www.texasguardian.com)
- - date_published: 2024-07-13T22:49:18.793685+00:00
 

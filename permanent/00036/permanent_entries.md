@@ -1,3 +1,35 @@
+ ## Liam
+ - [https://liamcarroll.bandcamp.com](https://liamcarroll.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Music for Insomnia, by Lowell Brams
+ - [http://librarycatalogmusicseries.bandcamp.com](http://librarycatalogmusicseries.bandcamp.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Lifeformed
+ - [https://lifeformed.bandcamp.com](https://lifeformed.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Light in Babylon
+ - [https://lightinbabylon.bandcamp.com](https://lightinbabylon.bandcamp.com)
+ - date_published: 2024-05-04T12:33:00.349058+00:00
+
+ ## Linda's Electronic Orchestra
+ - [https://lindaselectronicorchestra.bandcamp.com](https://lindaselectronicorchestra.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## LIQUID MODERN
+ - [https://liquidmodern.bandcamp.com](https://liquidmodern.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Breaking and Mending, by Lisa/Liza
+ - [https://lisalizas.bandcamp.com](https://lisalizas.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## I'm Glad This Has Been So Easy For You, by LIT. MAJOR
+ - [https://litmajor.bandcamp.com](https://litmajor.bandcamp.com)
+ - date_published: 2024-07-15T05:49:29.990149+00:00
+
  ## BQN Tracks, by Marshall Lochbaum
  - [https://lochbaum.bandcamp.com](https://lochbaum.bandcamp.com)
  - date_published: 2024-01-16T00:00:00+00:00
@@ -3988,39 +4020,4 @@ rain or shine
  ## Bazillion Points Books
  - [https://gajillion.bazillionpoints.com](https://gajillion.bazillionpoints.com)
  - date_published: 2024-08-09T03:09:17.092781+00:00
-
- ## Welcome to Bazillion Points Books » Bazillion Points Books
- - [https://bazillionpoints.com](https://bazillionpoints.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## BazQux Reader
- - [https://bazqux.com](https://bazqux.com)
- - date_published: 2024-06-19T03:39:09.891348+00:00
- - tags: ['rss', 'rss client']
-
- ## Brad Barrows' Blog
- - [https://bbarrows.com](https://bbarrows.com)
- - date_published: 2023-10-25T09:05:16.650245+00:00
- - tags: ['personal']
-
- ## BBB Industries Sustainable Manufacturing
- - [https://www.bbbind.com](https://www.bbbind.com)
- - date_published: 2024-07-13T23:41:33.416593+00:00
-
- ## BBC – Sign in
- - [https://account.bbc.com](https://account.bbc.com)
- - date_published: 2024-05-02T11:14:04.392457+00:00
-
- ## BBC - Homepage
- - [https://bbc.com](https://bbc.com)
- - date_published: 2023-12-28T16:56:04.755096+00:00
- - tags: ['news']
-
- ## BBC – Sign in
- - [https://session.bbc.com](https://session.bbc.com)
- - date_published: 2024-07-12T15:25:16.270473+00:00
-
- ## BBC Shop
- - [https://shop.bbc.com](https://shop.bbc.com)
- - date_published: 2024-07-12T15:25:12.017313+00:00
 

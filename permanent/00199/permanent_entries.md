@@ -1,3 +1,153 @@
+ ## The Goodspeed Manuscript Collection
+ - [https://goodspeed.lib.uchicago.edu](https://goodspeed.lib.uchicago.edu)
+ - date_published: 2024-08-06T19:19:38.333146+00:00
+
+ ## Home - UChicagoGRAD | The University of Chicago
+ - [https://grad.uchicago.edu](https://grad.uchicago.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Welcome to
+ - [https://grahamschool.uchicago.edu](https://grahamschool.uchicago.edu)
+ - date_published: 2024-07-01T21:47:53+00:00
+
+ ## Welcome to
+ - [https://graham.uchicago.edu](https://graham.uchicago.edu)
+ - date_published: 2024-05-07T20:46:53.098712+00:00
+
+ ## Library Guides: Research Guides: Subject Guides
+ - [https://guides.lib.uchicago.edu](https://guides.lib.uchicago.edu)
+ - date_published: 2024-05-07T20:52:31.938288+00:00
+
+ ## Harris | The University of Chicago Harris School of Public Policy
+ - [https://harris.uchicago.edu](https://harris.uchicago.edu)
+ - date_published: 2024-05-08T00:13:10.966049+00:00
+
+ ## Home | HCEO
+ - [https://hceconomics.uchicago.edu](https://hceconomics.uchicago.edu)
+ - date_published: 2024-08-06T13:17:58+00:00
+
+ ## Knowledge Base - IT Service Portal
+ - [http://home.uchicago.edu](http://home.uchicago.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Housing & Residence Life
+ - [https://housing.uchicago.edu](https://housing.uchicago.edu)
+ - date_published: 2024-07-01T20:20:39+00:00
+
+ ## Division of the Humanities
+ - [http://humanities.uchicago.edu](http://humanities.uchicago.edu)
+ - date_published: 2024-06-23T12:31:37+00:00
+
+ ## Human Resources | The University of Chicago
+ - [https://humanresources.uchicago.edu](https://humanresources.uchicago.edu)
+ - date_published: 2024-07-01T22:25:15.077760+00:00
+
+ ## IFK
+ - [https://ifk.uchicago.edu](https://ifk.uchicago.edu)
+ - date_published: 2024-02-24T18:19:38.969915+00:00
+
+ ## Harris | The University of Chicago Harris School of Public Policy
+ - [https://info.harris.uchicago.edu](https://info.harris.uchicago.edu)
+ - date_published: 2024-07-02T21:29:37+00:00
+
+ ## Information Technology Services at UChicago
+ - [https://itservices.uchicago.edu](https://itservices.uchicago.edu)
+ - date_published: 2024-07-01T22:26:04.119454+00:00
+
+ ## Information Technology Services at UChicago
+ - [https://its.uchicago.edu](https://its.uchicago.edu)
+ - date_published: 2024-07-01T22:39:21.940414+00:00
+
+ ## Cierpliwości...
+ - [https://journals.uchicago.edu](https://journals.uchicago.edu)
+ - date_published: 2024-06-21T23:20:11.227407+00:00
+
+ ## Kavli Institute for Cosmological Physics | The University of Chicago
+ - [http://kicp.uchicago.edu](http://kicp.uchicago.edu)
+ - date_published: 2024-07-14T16:04:16+00:00
+
+ ## Knowledge UChicago
+ - [https://knowledge.uchicago.edu](https://knowledge.uchicago.edu)
+ - date_published: 2024-05-07T20:52:28.163602+00:00
+
+ ## Center for Leadership and Involvement | The University of Chicago
+ - [https://leadership.uchicago.edu](https://leadership.uchicago.edu)
+ - date_published: 2024-07-01T22:33:06+00:00
+
+ ## Leadership & Society Initiative - Advanced Leadership @UChicago
+ - [https://leadforsociety.uchicago.edu](https://leadforsociety.uchicago.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## LGBTQ Student Life | Center for Identity + Inclusion | The University of Chicago
+ - [http://lgbtq.uchicago.edu](http://lgbtq.uchicago.edu)
+ - date_published: 2024-07-01T22:38:58+00:00
+
+ ## Home | The University of Chicago Magazine
+ - [https://mag.uchicago.edu](https://mag.uchicago.edu)
+ - date_published: 2024-07-01T06:37:04+00:00
+
+ ## Manticore
+ - [http://manticore.cs.uchicago.edu](http://manticore.cs.uchicago.edu)
+ - date_published: 2020-05-29T17:12:18+00:00
+
+ ## UChicago Maps
+ - [https://maps.uchicago.edu](https://maps.uchicago.edu)
+ - date_published: 2024-06-15T21:16:04+00:00
+
+ ## Master of Liberal Arts (MLA) Degree Online - University of Chicago
+ - [https://masterliberalarts.uchicago.edu](https://masterliberalarts.uchicago.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Department of Mathematics | The University of Chicago
+ - [https://math.uchicago.edu](https://math.uchicago.edu)
+ - date_published: 2024-06-15T21:29:28+00:00
+
+ ## Home - University of Chicago Medical and Biological Sciences Alumni Association
+ - [https://mbsaa.uchicago.edu](https://mbsaa.uchicago.edu)
+ - date_published: 2024-07-01T22:25:23.479258+00:00
+
+ ## Home - University of Chicago Medical and Biological Sciences Alumni Association
+ - [http://medbsd.uchicago.edu](http://medbsd.uchicago.edu)
+ - date_published: 2024-07-01T22:31:53.006249+00:00
+
+ ## Microbiome Center | The University of Chicago
+ - [https://microbiome.uchicago.edu](https://microbiome.uchicago.edu)
+ - date_published: 2024-06-17T17:37:40+00:00
+
+ ## Center for Municipal Finance – Sandbox | University of Chicago
+ - [https://munifinance.uchicago.edu](https://munifinance.uchicago.edu)
+ - date_published: 2024-07-03T03:09:15+00:00
+
+ ## myCHOICE | Professional Development for STEM PhDs
+ - [http://mychoice.uchicago.edu](http://mychoice.uchicago.edu)
+ - date_published: 2024-07-01T22:35:12.450113+00:00
+
+ ## my.UChicago
+ - [https://my.uchicago.edu](https://my.uchicago.edu)
+ - date_published: 2023-09-08T13:36:01+00:00
+
+ ## PhD Program in Neurobiology | The University of Chicago
+ - [https://neurograd.uchicago.edu](https://neurograd.uchicago.edu)
+ - date_published: 2024-07-01T15:17:18+00:00
+
+ ## Neuroscience at the University of Chicago
+ - [https://neuroscience.uchicago.edu](https://neuroscience.uchicago.edu)
+ - date_published: 2024-05-07T20:46:04.000431+00:00
+
+ ## News
+                
+            
+            
+                
+                    
+                        - The University of Chicago Library News
+                    
+                
+            
+            - The University of Chicago Library
+ - [https://news.lib.uchicago.edu](https://news.lib.uchicago.edu)
+ - date_published: 2024-06-17T14:45:21.027604+00:00
+
  ## University of Chicago News
  - [https://news.uchicago.edu](https://news.uchicago.edu)
  - date_published: 2023-10-25T19:00:12.204385+00:00
@@ -3873,145 +4023,4 @@
  ## Welcome to Student Success Center | Student Success Center
  - [https://center.ucsd.edu](https://center.ucsd.edu)
  - date_published: 2024-06-30T04:58:45.756775+00:00
-
- ## Center for Global Sustainable Development
- - [https://cgsd.ucsd.edu](https://cgsd.ucsd.edu)
- - date_published: 2023-09-28T14:46:24+00:00
-
- ## Office of the Chancellor
- - [https://chancellor.ucsd.edu](https://chancellor.ucsd.edu)
- - date_published: 2024-06-07T19:25:28+00:00
-
- ## The Cultural Heritage Engineering Initiative (CHEI) – Engineering a Future for the Past
- - [https://chei.ucsd.edu](https://chei.ucsd.edu)
- - date_published: 2018-03-14T00:00:00+00:00
-
- ## Chemistry and Biochemistry
- - [https://chemistry.ucsd.edu](https://chemistry.ucsd.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Clinical Trials at UCSD
- - [https://clinicaltrials.ucsd.edu](https://clinicaltrials.ucsd.edu)
- - date_published: 2024-07-01T22:28:00+00:00
-
- ## Cog Sci
- - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## UC San Diego Commencement
- - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
- - date_published: 2024-06-16T14:32:14+00:00
-
- ## Department of Communication
- - [http://communication.ucsd.edu](http://communication.ucsd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Apply Now
- - [https://connect.grad.ucsd.edu](https://connect.grad.ucsd.edu)
- - date_published: 2024-06-26T17:55:10+00:00
-
- ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
- - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
- - date_published: 2024-05-04T15:43:44.384148+00:00
-
- ## CoralNet
- - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
- - date_published: 2024-06-13T17:54:35.315107+00:00
-
- ## Center for Research in Language
- - [http://crl.ucsd.edu](http://crl.ucsd.edu)
- - date_published: 2020-10-03T00:00:00+00:00
-
- ## CSE 125 -- Software System Design and Implementation
- - [https://cse125.ucsd.edu](https://cse125.ucsd.edu)
- - date_published: 2024-06-15T15:46:17+00:00
-
- ## CSE 35th Anniversary
- - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
- - date_published: 2024-05-07T21:00:29.549788+00:00
-
- ## CSE Annual Report
- - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
- - date_published: 2024-05-07T21:00:36.116463+00:00
-
- ## CSE Research Open House| UC San Diego
- - [https://cseopenhouse.ucsd.edu](https://cseopenhouse.ucsd.edu)
- - date_published: 2016-11-28T21:42:49+00:00
-
- ## Home | Computer Science
- - [https://cse.ucsd.edu](https://cse.ucsd.edu)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Home | Computer Science
- - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
- - date_published: 2023-10-25T19:01:08.426811+00:00
-
- ## Computational Science, Mathematics and Engineering (CSME)
- - [https://csme.ucsd.edu](https://csme.ucsd.edu)
- - date_published: 2023-09-28T14:03:52+00:00
-
- ## Computational Social Science
- - [https://css.ucsd.edu](https://css.ucsd.edu)
- - date_published: 2024-06-20T21:35:27+00:00
-
- ## School of Arts and Humanities
- - [https://dah.ucsd.edu](https://dah.ucsd.edu)
- - date_published: 2024-05-23T17:02:04+00:00
-
- ## Home - Halıcıoğlu Data Science Institute - UC San Diego
- - [https://datascience.ucsd.edu](https://datascience.ucsd.edu)
- - date_published: 2022-01-28T19:27:27+00:00
-
- ## Home - UCSD - DDPM
- - [https://ddpm.ucsd.edu](https://ddpm.ucsd.edu)
- - date_published: 2024-07-01T21:17:28+00:00
-
- ## Digital Learning
- - [https://digitallearning.ucsd.edu](https://digitallearning.ucsd.edu)
- - date_published: 2024-04-25T17:24:37+00:00
-
- ## Disability Resources
- - [https://disabilities.ucsd.edu](https://disabilities.ucsd.edu)
- - date_published: 2024-03-12T18:46:11+00:00
-
- ## Office for Equity, Diversity, and Inclusion
- - [https://diversity.ucsd.edu](https://diversity.ucsd.edu)
- - date_published: 2024-04-25T20:48:20+00:00
- - tags: ['dei']
-
- ## Do the Math | Using physics and estimation to assess energy, growth, options—by Tom Murphy
- - [https://dothemath.ucsd.edu](https://dothemath.ucsd.edu)
- - date_published: 2023-10-25T19:01:13.139500+00:00
-
- ## School of Physical Sciences
- - [https://dps.ucsd.edu](https://dps.ucsd.edu)
- - date_published: 2024-06-28T20:27:24+00:00
-
- ## Page Redirection
- - [http://d.ucsd.edu](http://d.ucsd.edu)
- - date_published: 2016-01-11T23:27:05+00:00
-
- ## ECE AMP
- - [https://ece-amp.ucsd.edu](https://ece-amp.ucsd.edu)
- - date_published: 2024-06-22T11:53:21.961492+00:00
-
- ## Home | Electrical and Computer Engineering
- - [https://ece.ucsd.edu](https://ece.ucsd.edu)
- - date_published: 2024-05-07T21:01:11.880265+00:00
-
- ## Education Community Outreach
- - [https://ecoextension.ucsd.edu](https://ecoextension.ucsd.edu)
- - date_published: 2024-06-21T16:16:44+00:00
-
- ## Careers at UC San Diego
- - [https://employment.ucsd.edu](https://employment.ucsd.edu)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## EnCORE
- - [https://encore.ucsd.edu](https://encore.ucsd.edu)
- - date_published: 2024-07-02T01:35:14.104319+00:00
-
- ## @eng.ucsd.edu Transition
- - [https://eng2ucsd.eng.ucsd.edu](https://eng2ucsd.eng.ucsd.edu)
- - date_published: 2024-07-02T01:39:43.297043+00:00
 

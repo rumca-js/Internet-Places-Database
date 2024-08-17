@@ -1,3 +1,36 @@
+ ## CS4CA: Cyber Security for Critical Assets | Global Summits
+ - [https://cs4ca.com](https://cs4ca.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+ - tags: ['cybersecurity', 'convention']
+
+ ## CS4CA Europe: Cyber Security Summit | 24-25 September 2024 | London, UK
+ - [https://europe.cs4ca.com](https://europe.cs4ca.com)
+ - date_published: 2024-06-27T06:08:41.693607+00:00
+
+ ## HealthSec Summit USA | Boston
+ - [https://healthsec.cs4ca.com](https://healthsec.cs4ca.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## CS4CA: LatAm Cybersecurity Summit | São Paulo, Brazil | Nov 2024
+ - [https://latam.cs4ca.com](https://latam.cs4ca.com)
+ - date_published: 2024-06-27T06:07:40.013220+00:00
+
+ ## CS4CA: Cyber Security for Critical Assets Summit | Jan 2025
+ - [https://mena.cs4ca.com](https://mena.cs4ca.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## CS4CA: Cyber Security Summit USA | Houston | March 2025
+ - [https://usa.cs4ca.com](https://usa.cs4ca.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Maryland Center for Computing Education
+ - [https://cs4md.com](https://cs4md.com)
+ - date_published: 2024-07-02T03:25:02.769782+00:00
+
+ ## Internet Radio
+ - [https://flairfm.csalkmaar.com](https://flairfm.csalkmaar.com)
+ - date_published: 2024-06-13T21:26:28.219841+00:00
+
  ## College Squash Association | The Official Home of Intercollegiate Squash
  - [https://csasquash.com](https://csasquash.com)
  - date_published: 2024-07-14T04:44:17.725906+00:00
@@ -4010,38 +4043,4 @@
  ## Breaking News in hindi online, हिंदी समाचार | Dainik Tribune
  - [https://dainiktribuneonline.com](https://dainiktribuneonline.com)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home - Daintree Digital
- - [https://daintreedigital.com](https://daintreedigital.com)
- - date_published: 2024-02-25T19:35:18.616832+00:00
-
- ## Dairy Herd - Dairy News, Markets and Business
- - [https://www.dairyherd.com](https://www.dairyherd.com)
- - date_published: 2024-05-01T02:43:08.644430+00:00
-
- ## Email Preference Hub
- - [https://preferences.dairyreporter.com](https://preferences.dairyreporter.com)
- - date_published: 2024-06-19T16:32:15.107120+00:00
-
- ## Dairy Industry, Dairy Equipment, Milk Processing, Dairy Food, Milk Packaging
- - [https://www.dairyreporter.com](https://www.dairyreporter.com)
- - date_published: 2024-05-04T06:35:02.607901+00:00
-
- ## The Dairy Restaurant by Ben Katchor
- - [http://dairyrestauranthistory.com](http://dairyrestauranthistory.com)
- - date_published: 2024-04-26T15:34:12+00:00
-
- ## Portfolio - Daisi Jo
- - [https://www.daisijo.com](https://www.daisijo.com)
- - date_published: 2024-05-01T03:40:06.912375+00:00
- - tags: ['personal']
-
- ## Home - Daisi Pollard Sepulveda
- - [https://daisipollard.com](https://daisipollard.com)
- - date_published: 2024-02-25T19:35:20.544476+00:00
- - tags: ['personal']
-
- ## DaisyDisk, the most popular disk space analyzer
- - [https://daisydiskapp.com](https://daisydiskapp.com)
- - date_published: 2024-05-29T00:00:00+00:00
 

@@ -1,3 +1,7 @@
+ ## Erickka Patmore
+ - [https://erickka.art](https://erickka.art)
+ - date_published: 2024-06-23T04:01:43.894027+00:00
+
  ## EthBlock.art
  - [https://ethblock.art](https://ethblock.art)
  - date_published: 2024-06-16T03:35:51.367269+00:00
@@ -4029,8 +4033,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Yelp
  - [https://m.yelp.at](https://m.yelp.at)
  - date_published: 2024-07-01T06:57:09.196441+00:00
-
- ## Yelp
- - [https://yelp.at](https://yelp.at)
- - date_published: 2024-07-01T06:53:20.357368+00:00
 

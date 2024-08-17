@@ -1,4 +1,148 @@
  ## Commitment to Privacy
+ - [https://tbi.vcu.edu](https://tbi.vcu.edu)
+ - date_published: 2024-07-02T12:48:10.780186+00:00
+
+ ## Commitment to Privacy
+ - [https://techfair.vcu.edu](https://techfair.vcu.edu)
+ - date_published: 2024-07-02T12:45:56.875111+00:00
+
+ ## VCU TelegRAM
+ - [http://telegram.vcu.edu](http://telegram.vcu.edu)
+ - date_published: 2024-07-02T13:00:58.578387+00:00
+
+ ## Commitment to Privacy
+ - [https://telework.vcu.edu](https://telework.vcu.edu)
+ - date_published: 2024-07-02T12:59:05.315688+00:00
+
+ ## Commitment to Privacy
+ - [https://thecommons.vcu.edu](https://thecommons.vcu.edu)
+ - date_published: 2024-07-02T12:49:25.483499+00:00
+
+ ## Commitment to Privacy
+ - [https://themoneyspot.vcu.edu](https://themoneyspot.vcu.edu)
+ - date_published: 2024-07-02T12:42:03.200110+00:00
+
+ ## Commitment to Privacy
+ - [https://tobaccofree.vcu.edu](https://tobaccofree.vcu.edu)
+ - date_published: 2024-07-02T12:51:08.341044+00:00
+
+ ## Commitment to Privacy
+ - [https://together.vcu.edu](https://together.vcu.edu)
+ - date_published: 2024-07-02T12:57:30.483326+00:00
+
+ ## VCU Training
+ - [https://training.vcu.edu](https://training.vcu.edu)
+ - date_published: 2024-07-02T12:58:09.938544+00:00
+
+ ## Commitment to Privacy
+ - [https://transfer.vcu.edu](https://transfer.vcu.edu)
+ - date_published: 2024-07-02T12:42:43.562955+00:00
+
+ ## Commitment to Privacy
+ - [https://treasury.vcu.edu](https://treasury.vcu.edu)
+ - date_published: 2024-07-02T12:41:44.430257+00:00
+
+ ## Commitment to Privacy
+ - [https://trio.vcu.edu](https://trio.vcu.edu)
+ - date_published: 2024-07-02T12:58:48.122330+00:00
+
+ ## Commitment to Privacy
+ - [https://ts.som.vcu.edu](https://ts.som.vcu.edu)
+ - date_published: 2024-07-02T12:48:42.117198+00:00
+
+ ## Commitment to Privacy
+ - [https://ts.vcu.edu](https://ts.vcu.edu)
+ - date_published: 2024-05-01T05:49:31.967560+00:00
+
+ ## Commitment to Privacy
+ - [https://ttac.vcu.edu](https://ttac.vcu.edu)
+ - date_published: 2024-07-02T12:48:21.321602+00:00
+
+ ## Commitment to Privacy
+ - [https://uaa.vcu.edu](https://uaa.vcu.edu)
+ - date_published: 2024-07-02T12:58:42.099116+00:00
+
+ ## Commitment to Privacy
+ - [https://uc.vcu.edu](https://uc.vcu.edu)
+ - date_published: 2024-07-02T12:43:23.947669+00:00
+
+ ## Commitment to Privacy
+ - [https://universe.vcu.edu](https://universe.vcu.edu)
+ - date_published: 2024-07-02T12:47:11.227522+00:00
+
+ ## Commitment to Privacy
+ - [https://universitycounsel.vcu.edu](https://universitycounsel.vcu.edu)
+ - date_published: 2024-07-02T12:49:50.851133+00:00
+
+ ## Commitment to Privacy
+ - [https://universityevents.vcu.edu](https://universityevents.vcu.edu)
+ - date_published: 2024-07-02T12:46:50.029212+00:00
+
+ ## Commitment to Privacy
+ - [https://univrelations.vcu.edu](https://univrelations.vcu.edu)
+ - date_published: 2024-07-02T13:00:54.775426+00:00
+
+ ## Commitment to Privacy
+ - [https://vaccinecorps.vcu.edu](https://vaccinecorps.vcu.edu)
+ - date_published: 2024-07-02T12:50:29.338500+00:00
+
+ ## Commitment to Privacy
+ - [https://vaged.vcu.edu](https://vaged.vcu.edu)
+ - date_published: 2024-07-02T12:51:26.622828+00:00
+
+ ## Commitment to Privacy
+ - [https://vascan.vcu.edu](https://vascan.vcu.edu)
+ - date_published: 2024-07-02T12:59:11.612065+00:00
+
+ ## Commitment to Privacy
+ - [https://vcoa.chp.vcu.edu](https://vcoa.chp.vcu.edu)
+ - date_published: 2024-07-02T12:47:36.226534+00:00
+
+ ## Commitment to Privacy
+ - [https://vcu.edu](https://vcu.edu)
+ - date_published: 2024-05-07T22:22:38.590113+00:00
+
+ ## Commitment to Privacy
+ - [https://ventures.vcu.edu](https://ventures.vcu.edu)
+ - date_published: 2024-07-02T12:57:12.682178+00:00
+
+ ## Commitment to Privacy
+ - [https://vimm.vcu.edu](https://vimm.vcu.edu)
+ - date_published: 2024-07-02T12:49:32.280847+00:00
+
+ ## Commitment to Privacy
+ - [https://vip.vcu.edu](https://vip.vcu.edu)
+ - date_published: 2024-07-02T12:45:05.231853+00:00
+
+ ## Commitment to Privacy
+ - [https://virginialend.partnership.vcu.edu](https://virginialend.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:44:06.055699+00:00
+
+ ## rashnu.csbc.vcu.edu
+ - [http://vmc.vcu.edu](http://vmc.vcu.edu)
+ - date_published: 2015-11-10T15:02:15+00:00
+
+ ## Commitment to Privacy
+ - [https://vtss-ric.vcu.edu](https://vtss-ric.vcu.edu)
+ - date_published: 2024-07-02T12:49:52.450854+00:00
+
+ ## Commitment to Privacy
+ - [https://web.partnership.vcu.edu](https://web.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:51:20.403542+00:00
+
+ ## Commitment to Privacy
+ - [https://webstandards.vcu.edu](https://webstandards.vcu.edu)
+ - date_published: 2024-07-02T12:48:59.421596+00:00
+
+ ## Commitment to Privacy
+ - [https://wiki.vcu.edu](https://wiki.vcu.edu)
+ - date_published: 2024-07-02T12:35:10.078681+00:00
+
+ ## Commitment to Privacy
+ - [https://wilder.vcu.edu](https://wilder.vcu.edu)
+ - date_published: 2024-07-02T12:47:00.512936+00:00
+
+ ## Commitment to Privacy
  - [https://womenshealth.vcu.edu](https://womenshealth.vcu.edu)
  - date_published: 2024-07-02T12:50:33.385635+00:00
 
@@ -3859,148 +4003,4 @@
  ## Safety and Wellness | Home
  - [https://safety.wvu.edu](https://safety.wvu.edu)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## Search WVU - All Sites
- - [https://search.wvu.edu](https://search.wvu.edu)
- - date_published: 2022-05-05T01:17:16+00:00
-
- ## Center for Community Engagement | Home
- - [https://service.wvu.edu](https://service.wvu.edu)
- - date_published: 2024-07-02T15:29:16.115448+00:00
-
- ## Student Government Association | Home
- - [https://sga.wvu.edu](https://sga.wvu.edu)
- - date_published: 2024-07-02T15:28:21.104244+00:00
-
- ## Home | Social | West Virginia University
- - [https://social.wvu.edu](https://social.wvu.edu)
- - date_published: 2024-07-02T15:17:04.752177+00:00
-
- ## SOLE
- - [https://sole.hsc.wvu.edu](https://sole.hsc.wvu.edu)
- - date_published: 2024-07-02T15:29:14.238397+00:00
-
- ## Student Support Services | Home
- - [https://sss.wvu.edu](https://sss.wvu.edu)
- - date_published: 2024-07-02T15:27:59.247768+00:00
-
- ## Staff Council | Home
- - [https://staffcouncil.wvu.edu](https://staffcouncil.wvu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Student Accounts | Home
- - [https://studentaccounts.wvu.edu](https://studentaccounts.wvu.edu)
- - date_published: 2024-07-02T15:16:04.758053+00:00
-
- ## Student Engagement | Home
- - [https://studentengagement.wvu.edu](https://studentengagement.wvu.edu)
- - date_published: 2024-07-02T15:28:40.444420+00:00
-
- ## Financial Aid | Federal Work-Study
- - [https://studentjobs.wvu.edu](https://studentjobs.wvu.edu)
- - date_published: 2024-07-02T15:27:45.827703+00:00
-
- ## Student Life | Home
- - [https://studentlife.wvu.edu](https://studentlife.wvu.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Campus Recreation | Home
- - [https://studentreccenter.wvu.edu](https://studentreccenter.wvu.edu)
- - date_published: 2024-07-02T15:28:26.853541+00:00
-
- ## Student Rights and Responsibilities | Home
- - [https://studentresponsibility.wvu.edu](https://studentresponsibility.wvu.edu)
- - date_published: 2024-07-02T15:29:02.422688+00:00
-
- ## REACH Student Success | Home
- - [https://studentsuccess.wvu.edu](https://studentsuccess.wvu.edu)
- - date_published: 2024-07-02T15:28:12.510281+00:00
-
- ## Current Students | Home
- - [https://students.wvu.edu](https://students.wvu.edu)
- - date_published: 2024-05-07T22:40:21.429341+00:00
-
- ## Home | Student Tickets | West Virginia University
- - [https://studenttickets.wvu.edu](https://studenttickets.wvu.edu)
- - date_published: 2024-07-02T15:29:00.146139+00:00
-
- ## Education Abroad | Home
- - [https://studyabroad.wvu.edu](https://studyabroad.wvu.edu)
- - date_published: 2024-07-02T15:28:23.491926+00:00
-
- ## WVU Summer Term | Home
- - [https://summer.wvu.edu](https://summer.wvu.edu)
- - date_published: 2024-07-02T15:29:20.424907+00:00
-
- ## Talent and Culture | Home
- - [http://talentandculture.wvu.edu](http://talentandculture.wvu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University Testing Center | Home
- - [https://testingcenter.wvu.edu](https://testingcenter.wvu.edu)
- - date_published: 2024-07-02T15:28:02.220653+00:00
-
- ## Division of Diversity, Equity and Inclusion | Title IX
- - [https://titleix.wvu.edu](https://titleix.wvu.edu)
- - date_published: 2024-07-02T15:17:52.014635+00:00
-
- ## Tobacco and Smoke Free Campus | Home
- - [https://tobaccoandsmokefree.wvu.edu](https://tobaccoandsmokefree.wvu.edu)
- - date_published: 2024-07-02T15:15:32.736320+00:00
-
- ## West Virginia University
- - [https://tour.wvu.edu](https://tour.wvu.edu)
- - date_published: 2024-07-02T15:17:02+00:00
-
- ## Transportation and Parking | Home
- - [https://transportation.wvu.edu](https://transportation.wvu.edu)
- - date_published: 2024-07-02T15:27:12.508432+00:00
-
- ## Tuition at WVU | Home
- - [https://tuition.wvu.edu](https://tuition.wvu.edu)
- - date_published: 2024-05-07T22:39:54.106193+00:00
-
- ## Tutoring | Home
- - [https://tutoring.wvu.edu](https://tutoring.wvu.edu)
- - date_published: 2024-07-02T15:27:29.291908+00:00
-
- ## University Apartments | Home
- - [https://universityapartments.wvu.edu](https://universityapartments.wvu.edu)
- - date_published: 2024-07-02T15:27:03.159237+00:00
-
- ## University Relations / Enrollment Management | Home
- - [http://universityrelations.wvu.edu](http://universityrelations.wvu.edu)
- - date_published: 2024-07-02T15:27:09.819748+00:00
-
- ## Veterans | Home
- - [https://veterans.wvu.edu](https://veterans.wvu.edu)
- - date_published: 2024-05-07T22:39:43.063863+00:00
-
- ## Visitors Center | Home
- - [https://visit.sandbox.wvu.edu](https://visit.sandbox.wvu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Visitors Center | Home
- - [https://visit.wvu.edu](https://visit.wvu.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | Web Standards | West Virginia University
- - [https://webstandards.wvu.edu](https://webstandards.wvu.edu)
- - date_published: 2024-05-07T22:39:44.244725+00:00
-
- ## WELLWVU | Home
- - [http://well.wvu.edu](http://well.wvu.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## West Virginia University
- - [http://wvu.edu](http://wvu.edu)
- - date_published: 2024-07-02T15:14:59.596854+00:00
-
- ## WVU Magazine | Home
- - [https://wvumag.wvu.edu](https://wvumag.wvu.edu)
- - date_published: 2024-07-02T15:30:54.062553+00:00
-
- ## WVU Tech | Home
- - [https://wvutech2023.sandbox.wvu.edu](https://wvutech2023.sandbox.wvu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
 

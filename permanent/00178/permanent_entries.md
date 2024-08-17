@@ -1,3 +1,131 @@
+ ## Startseite
+ - [https://www.einfach-finden.bayern.de](https://www.einfach-finden.bayern.de)
+ - date_published: 2024-07-24T03:33:24.082821+00:00
+
+ ## Elitenetzwerk Bayern
+ - [https://www.elitenetzwerk.bayern.de](https://www.elitenetzwerk.bayern.de)
+ - date_published: 2024-07-01T05:47:36.968152+00:00
+
+ ## Willkommen bei der Bayern-PKI - PKI Bayern - Landesamt für Digitalisierung, Breitband und Vermessung
+ - [https://www.pki.bayern.de](https://www.pki.bayern.de)
+ - date_published: 2024-07-18T06:22:24.529505+00:00
+
+ ## Startseite Bayerisches Staatsministerium für Umwelt und Verbraucherschutz
+ - [https://www.stmuv.bayern.de](https://www.stmuv.bayern.de)
+ - date_published: 2024-07-24T04:07:15.565977+00:00
+
+ ## Wirtschaftsministerium Bayern - Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie
+ - [https://www.stmwi.bayern.de](https://www.stmwi.bayern.de)
+ - date_published: 2024-08-09T04:27:50.239387+00:00
+
+ ## Bayerisches Staatsministerium für Wissenschaft und Kunst
+ - [https://www.stmwk.bayern.de](https://www.stmwk.bayern.de)
+ - date_published: 2024-07-20T06:10:30.898402+00:00
+
+ ## Bayernwerk Netz – regionaler Netzbetreiber | Bayernwerk Netz
+ - [https://bayernwerk-netz.de](https://bayernwerk-netz.de)
+ - date_published: 2024-04-30T07:17:14.350969+00:00
+
+ ## Bayreuth.de: Das Webportal der Stadt Bayreuth
+ - [https://www.bayreuth.de](https://www.bayreuth.de)
+ - date_published: 2024-07-24T07:12:01.846886+00:00
+
+ ## BayWa r.e. ist Ihr Partner für die Zukunft der Energie
+ - [https://www.baywa-re.de](https://www.baywa-re.de)
+ - date_published: 2024-07-24T04:33:20.138731+00:00
+
+ ## Corpus Inscriptionum Latinarum: Home
+ - [https://cil.bbaw.de](https://cil.bbaw.de)
+ - date_published: 2024-07-02T10:19:50.247256+00:00
+
+ ## BBC e.V. – Amateur- und Nachwuchsbereich des BBC Bayreuth e.V.
+ - [https://www.bbc-bayreuth-ev.de](https://www.bbc-bayreuth-ev.de)
+ - date_published: 2024-07-24T07:12:25.803228+00:00
+
+ ## Startseite - BbS III Halle
+ - [https://bbs3-halle.de](https://bbs3-halle.de)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Geschwister-Scholl-Schule Saarburg/Hermeskeil
+ - [http://bbs-saarburg.de](http://bbs-saarburg.de)
+ - date_published: 2024-07-08T12:58:16.552247+00:00
+
+ ## BdF - Deutscher Fernschachbund
+ - [https://www.bdf-fernschachbund.de](https://www.bdf-fernschachbund.de)
+ - date_published: 2024-07-04T05:06:29.586032+00:00
+
+ ## bdfj Bundesvereinigung der Fachjournalisten e.V.
+ - [https://www.bdfj.de](https://www.bdfj.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Die Bundesdruckerei-Gruppe | Sicherheitslösungen "Made in Germany"
+ - [https://bdr.de](https://bdr.de)
+ - date_published: 2024-07-24T07:33:07.991350+00:00
+
+ ## Kunden-Portal
+ - [https://customer.bdr.de](https://customer.bdr.de)
+ - date_published: 2024-07-24T07:33:12.891694+00:00
+
+ ## Onlineshop für Snowboard- & Streetwear, Skateshop, Schuhe, uvm.
+ - [http://www.beatnuts.de](http://www.beatnuts.de)
+ - date_published: 2024-08-11T05:59:10.758643+00:00
+
+ ## BeaverFit | Deutschland
+ - [https://www.beaverfit.de](https://www.beaverfit.de)
+ - date_published: 2024-07-24T03:42:23.783868+00:00
+
+ ## Andreas Metzler: Site intro
+ - [http://www.bebt.de](http://www.bebt.de)
+ - date_published: 2016-02-14T15:39:09+00:00
+
+ ## Beck & Eggeling International Fine Art
+ - [https://www.beck-eggeling.de](https://www.beck-eggeling.de)
+ - date_published: 2024-07-13T16:12:09.351289+00:00
+
+ ## Home - Beejees.communication gmbh
+ - [https://beejees.de](https://beejees.de)
+ - date_published: 2024-06-23T09:00:16.721194+00:00
+
+ ## Beethoven-Haus Bonn
+ - [https://www.beethoven.de](https://www.beethoven.de)
+ - date_published: 2024-06-21T15:04:47.045605+00:00
+
+ ## Begabtenstiftung Informatik Karlsruhe
+ - [https://begabtenstiftung-informatik.de](https://begabtenstiftung-informatik.de)
+ - date_published: 2024-07-24T04:12:12.024863+00:00
+
+ ## Beggars Group Deutschland
+ - [http://www.beggarsgroup.de](http://www.beggarsgroup.de)
+ - date_published: 2024-06-15T09:59:24.164184+00:00
+
+ ## Psychologie und Games - Behind the Screens
+ - [https://behind-the-screens.de](https://behind-the-screens.de)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Stefans Welt
+ - [http://blog.behnel.de](http://blog.behnel.de)
+ - date_published: 2022-04-04T06:52:49+00:00
+
+ ## Python Software Development and Consulting Services – Dr. Ing. Stefan Behnel
+ - [http://consulting.behnel.de](http://consulting.behnel.de)
+ - date_published: 2023-09-12T14:27:23+00:00
+
+ ## Homepage
+ - [https://www.behoerden-spiegel.de](https://www.behoerden-spiegel.de)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Beiersdorf - Hautpflege als Herzensangelegenheit
+ - [https://www.beiersdorf.de](https://www.beiersdorf.de)
+ - date_published: 2024-08-11T13:11:48.076324+00:00
+
+ ## Startseite - Belini
+ - [https://belinimoebel.de](https://belinimoebel.de)
+ - date_published: 2022-10-18T12:06:20+00:00
+
+ ## Luxus Ferienhäuser und Ferienwohnungen - Exklusive Unterkünfte bei BELLEVUE Ferienhaus buchen
+ - [https://www.bellevue-ferienhaus.de](https://www.bellevue-ferienhaus.de)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## Benchkram
  - [https://benchkram.de](https://benchkram.de)
  - date_published: 2023-10-25T18:27:59.151379+00:00
@@ -3889,133 +4017,4 @@ home
  ## DESY PHOTON SCIENCE
  - [https://photon-science.desy.de](https://photon-science.desy.de)
  - date_published: 2024-04-29T06:02:50.203537+00:00
-
- ## DESY - DESY - Particle and Astroparticle Physics Colloquium
- - [https://physikseminar.desy.de](https://physikseminar.desy.de)
- - date_published: 2024-07-20T22:25:27.421612+00:00
-
- ## Photo Injector Test Facility at DESY, Zeuthen site
- - [http://pitz.desy.de](http://pitz.desy.de)
- - date_published: 2024-07-18T15:07:01+00:00
-
- ## Presse & Kommunikation
- - [http://pr.desy.de](http://pr.desy.de)
- - date_published: 2024-07-30T12:51:17+00:00
-
- ## DESY - Raumverwaltung - Seminarraumbuchung
- - [http://raumverwaltung.desy.de](http://raumverwaltung.desy.de)
- - date_published: 2024-08-08T22:21:20.252806+00:00
-
- ## Stellenangebote
- - [https://v22.desy.de](https://v22.desy.de)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Home - DESY webcastportal - livestreaming and video recordings
- - [https://video.desy.de](https://video.desy.de)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Deutschlands größtes Beschleunigerzentrum - Deutsches Elektronen-Synchrotron DESY
- - [https://vtour.desy.de](https://vtour.desy.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://wof-piwik2.desy.de](https://wof-piwik2.desy.de)
- - date_published: 2024-04-29T06:02:49.034956+00:00
-
- ## DESY Library
- - [http://www-library.desy.de](http://www-library.desy.de)
- - date_published: 2006-01-05T10:09:52+00:00
-
- ## Operation of the XFEL Accelerator
- - [http://xfel.desy.de](http://xfel.desy.de)
- - date_published: 2024-07-17T10:57:23+00:00
-
- ## Bücherantiquariat vor allem von Kinderbüchern von Christine und Detlef 
-Heinsohn
- - [https://detlef-heinsohn.de](https://detlef-heinsohn.de)
- - date_published: 2024-02-08T22:04:05.568193+00:00
-
- ## Sign in - Matomo
- - [https://analytics.deutsche-apotheker-zeitung.de](https://analytics.deutsche-apotheker-zeitung.de)
- - date_published: 2024-07-13T13:00:12.115833+00:00
-
- ## DAZ.online - News aus Pharmazie, Gesundheitspolitik und Apothekenpraxis
- - [https://deutsche-apotheker-zeitung.de](https://deutsche-apotheker-zeitung.de)
- - date_published: 2024-05-11T07:26:32.277510+00:00
-
- ## Shop der Deutschen Post | Porto online kaufen
- - [https://shop.deutschepost.de](https://shop.deutschepost.de)
- - date_published: 2024-06-16T10:52:23.445502+00:00
-
- ## Deutsche Post – Die Post für Deutschland
- - [https://www.deutschepost.de](https://www.deutschepost.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Shop
- - [https://www.deutscher-apotheker-verlag.de](https://www.deutscher-apotheker-verlag.de)
- - date_published: 2024-07-13T13:00:09.565702+00:00
-
- ## Deutscher Fotobuchpreis
- - [https://deutscherfotobuchpreis.de](https://deutscherfotobuchpreis.de)
- - date_published: 2024-07-13T14:25:12.727704+00:00
-
- ## Ideen feiern - Der Deutsche Gründerpreis | Deutscher Gründerpreis
- - [https://www.deutscher-gruenderpreis.de](https://www.deutscher-gruenderpreis.de)
- - date_published: 2024-07-24T05:48:25.759828+00:00
-
- ## Deutscher IT-Sicherheitspreis
- - [https://www.deutscher-it-sicherheitspreis.de](https://www.deutscher-it-sicherheitspreis.de)
- - date_published: 2024-07-11T13:54:47.951383+00:00
-
- ## Startseite
- - [https://www.deutscher-jazzpreis.de](https://www.deutscher-jazzpreis.de)
- - date_published: 2021-04-30T19:42:50+00:00
-
- ## Deutscher Podcast Preis 2024
- - [https://www.deutscher-podcastpreis.de](https://www.deutscher-podcastpreis.de)
- - date_published: 2024-07-09T20:11:53.635131+00:00
-
- ## Deutscher Presseindex
- - [https://www.deutscherpresseindex.de](https://www.deutscherpresseindex.de)
- - date_published: 2024-07-12T03:32:38.421270+00:00
-
- ## Startseite
- - [https://www.deutscher-schulpreis.de](https://www.deutscher-schulpreis.de)
- - date_published: 2024-08-08T20:12:05.039121+00:00
-
- ## Home
- - [http://www.deutsches-apotheken-museum.de](http://www.deutsches-apotheken-museum.de)
- - date_published: 2024-06-24T09:59:06.481271+00:00
-
- ## Startseite - DFF.FILM
- - [http://deutsches-filminstitut.de](http://deutsches-filminstitut.de)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Universität Leipzig: Deutsches Literaturinstitut Leipzig
- - [https://www.deutsches-literaturinstitut.de](https://www.deutsches-literaturinstitut.de)
- - date_published: 2024-06-18T13:28:00.787179+00:00
-
- ## Online Spielautomaten - Die besten deutschen Slots 2024 online testen
- - [https://deutsche-slots-online.de](https://deutsche-slots-online.de)
- - date_published: 2024-01-24T12:40:31+00:00
-
- ## Meisterwerke der Naturwissenschaft und Technik
- - [https://www.deutsches-museum.de](https://www.deutsches-museum.de)
- - date_published: 2024-07-20T17:51:34.376267+00:00
-
- ## Strapi Admin
- - [https://api.campus.deutsches-schulportal.de](https://api.campus.deutsches-schulportal.de)
- - date_published: 2024-08-08T20:12:01.053551+00:00
-
- ## Startseite
- - [https://campus.deutsches-schulportal.de](https://campus.deutsches-schulportal.de)
- - date_published: 2024-08-08T20:11:58.392761+00:00
-
- ## CCM19 - Cookie Consent Management Software
- - [https://consent.deutsches-schulportal.de](https://consent.deutsches-schulportal.de)
- - date_published: 2024-08-08T20:12:02.129269+00:00
-
- ## Deutsches Schulportal – Für mehr gute Schulen
- - [https://deutsches-schulportal.de](https://deutsches-schulportal.de)
- - date_published: 2024-04-26T00:00:00+00:00
 

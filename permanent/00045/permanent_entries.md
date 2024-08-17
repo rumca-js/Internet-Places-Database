@@ -1,3 +1,35 @@
+ ## spyder-goggles
+ - [http://spyder-goggles.blogspot.com](http://spyder-goggles.blogspot.com)
+ - date_published: 2024-03-13T20:38:02+00:00
+
+ ## Spyglass Asylum
+ - [http://spyglassasylum.blogspot.com](http://spyglassasylum.blogspot.com)
+ - date_published: 2024-07-06T18:50:46+00:00
+
+ ## squattercity
+ - [http://squattercity.blogspot.com](http://squattercity.blogspot.com)
+ - date_published: 2024-05-30T09:47:29+00:00
+
+ ## SquidGrunt
+ - [http://squidgrunt.blogspot.com](http://squidgrunt.blogspot.com)
+ - date_published: 2024-02-08T15:25:23+00:00
+
+ ## Rants and rambles
+ - [http://squidskin.blogspot.com](http://squidskin.blogspot.com)
+ - date_published: 2024-06-18T13:29:58+00:00
+
+ ## Seraphinite Solutions at Blogger
+ - [https://s-sols.blogspot.com](https://s-sols.blogspot.com)
+ - date_published: 2024-05-03T18:14:51+00:00
+
+ ## florissimo
+ - [http://staceyhalstead.blogspot.com](http://staceyhalstead.blogspot.com)
+ - date_published: 2024-03-05T15:22:56+00:00
+
+ ## Stæfcræft & Vyākaraṇa
+ - [https://staefcraeft.blogspot.com](https://staefcraeft.blogspot.com)
+ - date_published: 2024-05-07T21:55:05.928126+00:00
+
  ## Standard Hirelings
  - [http://standardhirelings.blogspot.com](http://standardhirelings.blogspot.com)
  - date_published: 2024-03-13T21:15:58+00:00
@@ -3983,38 +4015,4 @@
  ## Ostrzeżenie dotyczące treści o charakterze kontrowersyjnym
  - [http://whitman.blogspot.com](http://whitman.blogspot.com)
  - date_published: 2024-07-13T10:36:35.785079+00:00
-
- ## All Dishevelled Wandering Stars
- - [http://whogoeswithfergus.blogspot.com](http://whogoeswithfergus.blogspot.com)
- - date_published: 2024-06-27T09:20:44+00:00
-
- ## Who-T
- - [https://who-t.blogspot.com](https://who-t.blogspot.com)
- - date_published: 2024-05-11T10:01:00+00:00
-
- ## Pijamas Project
- - [https://whpijamasproject.blogspot.com](https://whpijamasproject.blogspot.com)
- - date_published: 2024-07-04T06:22:34+00:00
-
- ## Why Am I Not Surprised?
- - [http://whyaminotsurprised.blogspot.com](http://whyaminotsurprised.blogspot.com)
- - date_published: 2024-03-23T18:13:20+00:00
-
- ## Why $\lambda$‽
- - [http://why-lambda.blogspot.com](http://why-lambda.blogspot.com)
- - date_published: 2024-03-19T03:50:34+00:00
-
- ## Wicked Yankee
- - [https://wickedyankee.blogspot.com](https://wickedyankee.blogspot.com)
- - date_published: 2024-05-06T16:58:19.391801+00:00
- - tags: ['england', 'history']
-
- ## WifiNigel
- - [https://wifinigel.blogspot.com](https://wifinigel.blogspot.com)
- - date_published: 2023-10-25T09:18:59.263238+00:00
- - tags: ['personal']
-
- ## Wikibooks News
- - [https://wikibooks.blogspot.com](https://wikibooks.blogspot.com)
- - date_published: 2024-03-13T01:29:21+00:00
 

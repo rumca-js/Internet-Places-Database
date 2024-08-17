@@ -1,3 +1,109 @@
+ ## Charles Eisenstein | Substack
+ - [https://charleseisenstein.substack.com](https://charleseisenstein.substack.com)
+ - date_published: 2024-01-09T01:38:26.098409+00:00
+
+ ## CHARL-E | Charlie's Newsletter | Substack
+ - [https://charleupdates.substack.com](https://charleupdates.substack.com)
+ - date_published: 2024-05-08T04:49:31.879949+00:00
+
+ ## Castles in the Sky | Charlie Becker | Substack
+ - [https://charliebecker.substack.com](https://charliebecker.substack.com)
+ - date_published: 2024-01-09T01:38:28.560827+00:00
+
+ ## Charlie Rose Conversations | Substack
+ - [https://charlierose.substack.com](https://charlierose.substack.com)
+ - date_published: 2024-07-15T09:56:08.269426+00:00
+
+ ## The Blonde not Beige Archive | Charlotte Dallison | Substack
+ - [https://charlottedallison.substack.com](https://charlottedallison.substack.com)
+ - date_published: 2024-06-20T20:53:36.340629+00:00
+
+ ## The Checklist | Meedan | Substack
+ - [https://checklist.substack.com](https://checklist.substack.com)
+ - date_published: 2024-07-14T05:10:17.250541+00:00
+
+ ## ChellayTiger’s Substack | Substack
+ - [https://chellaytiger.substack.com](https://chellaytiger.substack.com)
+ - date_published: 2024-07-11T23:21:14.365924+00:00
+
+ ## cherry-flavored | Substack
+ - [https://cherryflavored111.substack.com](https://cherryflavored111.substack.com)
+ - date_published: 2024-05-02T10:12:16.038533+00:00
+
+ ## ChinAI Newsletter | Jeffrey Ding | Substack
+ - [https://chinai.substack.com](https://chinai.substack.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## CHINA POLICY leads | philippa jones | Substack
+ - [https://chinapolicy.substack.com](https://chinapolicy.substack.com)
+ - date_published: 2024-05-07T10:30:22.719618+00:00
+
+ ## Chipmonk Meditations | Chris Lakin | Substack
+ - [https://chipmonk.substack.com](https://chipmonk.substack.com)
+ - date_published: 2023-11-27T04:46:41.596650+00:00
+
+ ## Chiwi Journal | Camellia Yang | Substack
+ - [https://chiwijournal.substack.com](https://chiwijournal.substack.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Can't Get Much Higher | Chris Dalla Riva | Substack
+ - [https://chrisdallariva.substack.com](https://chrisdallariva.substack.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## The Chris Hedges Report | Substack
+ - [https://chrishedges.substack.com](https://chrishedges.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Chris Minnick's Substack of Curiousity | Substack
+ - [https://chrisminnick.substack.com](https://chrisminnick.substack.com)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## Chris’s Substack | Chris Prophet | Substack
+ - [https://chrisprophet.substack.com](https://chrisprophet.substack.com)
+ - date_published: 2023-10-25T09:45:06.416073+00:00
+ - tags: ['substack']
+
+ ## Chris Riback's Newsletter | Substack
+ - [https://chrisriback.substack.com](https://chrisriback.substack.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Jobs to be Done with Chris Spiek | Substack
+ - [https://chrisspiek.substack.com](https://chrisspiek.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## christine's corner | christineist | Substack
+ - [https://christineist.substack.com](https://christineist.substack.com)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## a love lives here | Christine Powell Drew | Substack
+ - [https://christinepowell.substack.com](https://christinepowell.substack.com)
+ - date_published: 2024-05-10T06:49:16.806935+00:00
+
+ ## Christin’s Newsletter | Christin Chong, PhD | Substack
+ - [https://christin.substack.com](https://christin.substack.com)
+ - date_published: 2024-05-08T05:17:19.716103+00:00
+
+ ## Christopher’s Substack | Christopher Burnett | Substack
+ - [https://christopherburnett.substack.com](https://christopherburnett.substack.com)
+ - date_published: 2024-07-15T06:08:00.028023+00:00
+
+ ## The American Peasant | Christopher Schwarz | Substack
+ - [https://christopherschwarz.substack.com](https://christopherschwarz.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Clip Test: photographer dude  '85-'95 | Chris X Carroll | Substack
+ - [https://chrisxcarroll.substack.com](https://chrisxcarroll.substack.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Church and Main | Dennis Sanders | Substack
+ - [https://churchandmain.substack.com](https://churchandmain.substack.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Cintra Wilson Feels Your Pain  | Substack
+ - [https://cintra.substack.com](https://cintra.substack.com)
+ - date_published: 2023-10-25T09:45:10.409537+00:00
+ - tags: ['substack']
+
  ## CJ Hopkins | Substack
  - [https://cjhopkins.substack.com](https://cjhopkins.substack.com)
  - date_published: 2024-01-24T00:00:00+00:00
@@ -3996,109 +4102,4 @@
  ## Network Capital | Substack
  - [https://ncinsider.substack.com](https://ncinsider.substack.com)
  - date_published: 2024-07-18T00:00:00+00:00
-
- ## The New Design Congress | Substack
- - [https://ndc.substack.com](https://ndc.substack.com)
- - date_published: 2024-06-15T16:44:47.310592+00:00
-
- ## Graphomane | Neal Stephenson | Substack
- - [https://nealstephenson.substack.com](https://nealstephenson.substack.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Context Collapse | Neal Ungerleider | Marketing, PR & Media | Substack
- - [https://nealungerleider.substack.com](https://nealungerleider.substack.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## The Crop | Neil Scott | Substack
- - [https://neilscott.substack.com](https://neilscott.substack.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Nemets | Peter Nimitz | Substack
- - [https://nemets.substack.com](https://nemets.substack.com)
- - date_published: 2024-08-05T18:23:39.038133+00:00
-
- ## Nerology | Nero Vanbiervliet | Substack
- - [https://nerology.substack.com](https://nerology.substack.com)
- - date_published: 2023-12-08T11:52:35.901292+00:00
-
- ## Network Affects | Andrew Lowenthal | Substack
- - [https://networkaffects.substack.com](https://networkaffects.substack.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## God's Spies by Thomas Neuburger | Substack
- - [https://neuburger.substack.com](https://neuburger.substack.com)
- - date_published: 2024-05-04T09:19:13.059191+00:00
-
- ## I Hate It Here And Never Want To Leave | Substack
- - [https://neverleave.substack.com](https://neverleave.substack.com)
- - date_published: 2024-06-18T13:38:17.867950+00:00
-
- ## Never Sponsored | Christopher Schwarz | Substack
- - [https://neversponsored.substack.com](https://neversponsored.substack.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## The New Books Network Newsletter | Substack
- - [https://newbooksnetwork.substack.com](https://newbooksnetwork.substack.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## New Escapologist | Robert Wringham | Substack
- - [https://newescapologist.substack.com](https://newescapologist.substack.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## New_ Public | Substack
- - [https://newpublic.substack.com](https://newpublic.substack.com)
- - date_published: 2024-07-04T05:32:42.734079+00:00
-
- ## News @ Knight | Knight Foundation | Substack
- - [https://newsatknight.substack.com](https://newsatknight.substack.com)
- - date_published: 2024-05-08T09:18:57.462979+00:00
-
- ## New Science | Alexey Guzey | Substack
- - [https://newscience.substack.com](https://newscience.substack.com)
- - date_published: 2024-06-19T02:11:48.341171+00:00
-
- ## News from Uncibal | David McGrogan | Substack
- - [https://newsfromuncibal.substack.com](https://newsfromuncibal.substack.com)
- - date_published: 2023-10-25T09:59:44.684685+00:00
- - tags: ['substack']
-
- ## NewsGuard's Reality Check | Substack
- - [https://newsguardtech.substack.com](https://newsguardtech.substack.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Next Big Teng | Janelle Teng | Substack
- - [https://nextbigteng.substack.com](https://nextbigteng.substack.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Enterprise AI Trends | John Hwang | Substack
- - [https://nextword.substack.com](https://nextword.substack.com)
- - date_published: 2023-10-25T17:19:14.088118+00:00
-
- ## Ngozi’s Newsletter | Substack
- - [https://ngozi.substack.com](https://ngozi.substack.com)
- - date_published: 2024-05-06T09:20:20.341236+00:00
-
- ## The Progress Playbook | Nick Hedley | Substack
- - [https://nickhedley.substack.com](https://nickhedley.substack.com)
- - date_published: 2024-06-15T05:55:48.245960+00:00
-
- ## Nick's Kōrero | Nick Rockel | Substack
- - [https://nickrockel.substack.com](https://nickrockel.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Running Ideas | Nicolas Delon | Substack
- - [https://nicolasdelon.substack.com](https://nicolasdelon.substack.com)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Nicole Knows | Nicole Cliffe | Substack
- - [https://nicole.substack.com](https://nicole.substack.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Nicomachean Exhortations | Shadow Rebbe | Substack
- - [https://nicomachean.substack.com](https://nicomachean.substack.com)
- - date_published: 2024-04-28T04:40:03.722861+00:00
-
- ## Nikko Norte | Substack
- - [https://nikkonorte.substack.com](https://nikkonorte.substack.com)
- - date_published: 2024-02-25T02:28:55.705363+00:00
 

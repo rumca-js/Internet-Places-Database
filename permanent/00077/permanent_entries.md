@@ -1,3 +1,43 @@
+ ## FounderQuest
+ - [https://www.founderquestpodcast.com](https://www.founderquestpodcast.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Founders and Coders
+ - [https://foundersandcoders.com](https://foundersandcoders.com)
+ - date_published: 2024-05-06T16:33:25.003080+00:00
+
+ ## Founders and Legends Convention - Founders & Legends Convention
+ - [https://foundersandlegends.com](https://foundersandlegends.com)
+ - date_published: 2024-06-17T12:40:52.097885+00:00
+
+ ## Founder's Choice
+ - [https://founderschoicevc.com](https://founderschoicevc.com)
+ - date_published: 2024-05-04T06:48:26.436272+00:00
+
+ ## Founders Circle Capital
+ - [https://www.founderscircle.com](https://www.founderscircle.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Founders' Co-op
+ - [https://founderscoop.com](https://founderscoop.com)
+ - date_published: 2024-05-04T06:48:28.638937+00:00
+
+ ## Founders Fund
+ - [https://foundersfund.com](https://foundersfund.com)
+ - date_published: 2015-10-13T00:00:00+00:00
+
+ ## Homepage
+ - [https://foundershield.com](https://foundershield.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Foundership | Home
+ - [http://foundershiphq.com](http://foundershiphq.com)
+ - date_published: 2024-06-16T04:33:39.998382+00:00
+
+ ## Founders Live
+ - [https://www.founderslive.com](https://www.founderslive.com)
+ - date_published: 2024-07-01T08:15:59.380075+00:00
+
  ## (no title)
  - [https://founderslivemedia.com](https://founderslivemedia.com)
  - date_published: 2024-07-01T08:16:21.835528+00:00
@@ -3996,44 +4036,4 @@
  ## Financial Times Board Director Programme
  - [https://bdp.ft.com](https://bdp.ft.com)
  - date_published: 2024-05-04T07:12:27.800195+00:00
-
- ## Financial Times - Sign In
- - [https://biz-ops.in.ft.com](https://biz-ops.in.ft.com)
- - date_published: 2024-06-19T23:29:15.955604+00:00
-
- ## Financial Times
- - [http://blogs.ft.com](http://blogs.ft.com)
- - date_published: 2024-06-20T03:46:51.740622+00:00
-
- ## Origami Build Service
- - [https://build.origami.ft.com](https://build.origami.ft.com)
- - date_published: 2024-06-17T19:26:40.360705+00:00
-
- ## Business Book of the Year Award 2024 - Financial Times Event
- - [https://businessbook.live.ft.com](https://businessbook.live.ft.com)
- - date_published: 2024-06-19T23:28:48.046825+00:00
-
- ## Creating and Energising a Strong Corporate Culture - FT Live
- - [https://businessbookwebinarculture.live.ft.com](https://businessbookwebinarculture.live.ft.com)
- - date_published: 2024-06-19T23:26:23.275791+00:00
-
- ## FT & Schroders | A look into the Longlist
- - [https://businessbookwebinarfinal.live.ft.com](https://businessbookwebinarfinal.live.ft.com)
- - date_published: 2024-06-19T23:27:59.200140+00:00
-
- ## Implementing the AI vision
- - [https://businessbookwebinartech.live.ft.com](https://businessbookwebinartech.live.ft.com)
- - date_published: 2024-06-19T23:28:36.359334+00:00
-
- ## Business of Football Summit
- - [https://businessoffootball.live.ft.com](https://businessoffootball.live.ft.com)
- - date_published: 2024-06-19T23:28:13.992545+00:00
-
- ## Future of the Car Summit | 7-9 May 2024, London | FT Live
- - [https://car.live.ft.com](https://car.live.ft.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://channels.ft.com](https://channels.ft.com)
- - date_published: 2024-04-09T00:00:00+00:00
 

@@ -1,3 +1,127 @@
+ ## Computational Semigroup Theory
+ - [http://compsemi.wordpress.com](http://compsemi.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Scruffy's..Blurgh!
+ - [https://computersreallysucktravel.wordpress.com](https://computersreallysucktravel.wordpress.com)
+ - date_published: 2024-05-07T14:44:35.712914+00:00
+
+ ## Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?
+ - [https://computinged.wordpress.com](https://computinged.wordpress.com)
+ - date_published: 2023-10-25T18:10:13.200424+00:00
+
+ ## Computing for Good
+ - [http://computingforgood.wordpress.com](http://computingforgood.wordpress.com)
+ - date_published: 2024-06-30T11:08:16.319168+00:00
+
+ ## Area777
+ - [https://conan777.wordpress.com](https://conan777.wordpress.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Concrete Nonsense
+ - [https://concretenonsense.wordpress.com](https://concretenonsense.wordpress.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Confessions of a YA Reader
+ - [http://confessionsofayareader.wordpress.com](http://confessionsofayareader.wordpress.com)
+ - date_published: 2024-07-16T21:36:27+00:00
+
+ ## conflict antiquities
+ - [http://conflictantiquities.wordpress.com](http://conflictantiquities.wordpress.com)
+ - date_published: 2024-06-24T10:03:22.337736+00:00
+
+ ## Connections Oz
+ - [https://connectionsoz.wordpress.com](https://connectionsoz.wordpress.com)
+ - date_published: 2024-05-09T05:26:25.548018+00:00
+
+ ## Connections Wargaming Conference
+ - [https://connectionswargaming.wordpress.com](https://connectionswargaming.wordpress.com)
+ - date_published: 2024-07-09T14:04:09.687654+00:00
+
+ ## Historyline Remake
+ - [https://conquertheworldbycode.wordpress.com](https://conquertheworldbycode.wordpress.com)
+ - date_published: 2024-05-09T08:56:40.653161+00:00
+
+ ## ConservativePunks
+ - [http://conservativepunks.wordpress.com](http://conservativepunks.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## constantfrustrationandfearandsoforth
+ - [http://constantfrustrationandfearandsoforth.wordpress.com](http://constantfrustrationandfearandsoforth.wordpress.com)
+ - date_published: 2024-07-17T10:44:43.627190+00:00
+
+ ## Love of History Blog
+ - [https://constantinakatsari.wordpress.com](https://constantinakatsari.wordpress.com)
+ - date_published: 2024-06-24T10:29:23.335267+00:00
+
+ ## Constraints
+ - [http://constraints.wordpress.com](http://constraints.wordpress.com)
+ - date_published: 2024-06-30T11:19:13.280985+00:00
+
+ ## Obras e Serviços Guaiaó Influence Marketing Platform 260 Stars Engenho Talento e Arte
+ - [http://construcaoredebrasildaconstrucao.wordpress.com](http://construcaoredebrasildaconstrucao.wordpress.com)
+ - date_published: 2024-06-30T02:32:40.795709+00:00
+
+ ## Consulting Philologist
+ - [https://consultingphilologist.wordpress.com](https://consultingphilologist.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Contact – Infinite Futures
+ - [https://contactinfinitefutures.wordpress.com](https://contactinfinitefutures.wordpress.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Continuities
+ - [http://continuities.wordpress.com](http://continuities.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Contra Encyclopedia
+ - [https://contrapedia.wordpress.com](https://contrapedia.wordpress.com)
+ - date_published: 2024-06-18T19:43:17.211528+00:00
+
+ ## The Contrarian Matrix
+ - [https://contrarianmatrix.wordpress.com](https://contrarianmatrix.wordpress.com)
+ - date_published: 2024-06-30T02:41:17.160514+00:00
+
+ ## Convert or Die
+ - [https://convertordie.wordpress.com](https://convertordie.wordpress.com)
+ - date_published: 2024-06-20T01:34:02.795189+00:00
+
+ ## cookies & code
+ - [https://cookiesandcodeblog.wordpress.com](https://cookiesandcodeblog.wordpress.com)
+ - date_published: 2024-07-13T23:54:12.788995+00:00
+
+ ## life is VERY weird
+ - [http://coolstuffontheweb.wordpress.com](http://coolstuffontheweb.wordpress.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Copper Kettle translation blog
+ - [http://copperkettlesite.wordpress.com](http://copperkettlesite.wordpress.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## copticsounds
+ - [https://copticsounds.wordpress.com](https://copticsounds.wordpress.com)
+ - date_published: 2024-07-02T10:19:42.483132+00:00
+
+ ## CopySetPrinting
+ - [http://copyset.wordpress.com](http://copyset.wordpress.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Antimatter
+ - [http://coraifeartaigh.wordpress.com](http://coraifeartaigh.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## (no title)
+ - [http://corastillwrites.wordpress.com](http://corastillwrites.wordpress.com)
+ - date_published: 2024-07-12T22:36:22.251591+00:00
+
+ ## cordlandwehr – Adventures in Open Source Development
+ - [https://cordlandwehr.wordpress.com](https://cordlandwehr.wordpress.com)
+ - date_published: 2023-10-25T18:10:23.632127+00:00
+
+ ## The Everything Seminar
+ - [https://cornellmath.wordpress.com](https://cornellmath.wordpress.com)
+ - date_published: 2024-05-07T15:48:34.030178+00:00
+
  ## Gedankenreise zwischen den Galaxien
  - [https://coronacursa.wordpress.com](https://coronacursa.wordpress.com)
  - date_published: 2024-06-30T04:12:11.121468+00:00
@@ -3886,128 +4010,4 @@
  ## interweb netlog
  - [https://jonsatrom.wordpress.com](https://jonsatrom.wordpress.com)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Jon Skeet's coding blog
- - [https://jonskeetcodingblog.files.wordpress.com](https://jonskeetcodingblog.files.wordpress.com)
- - date_published: 2024-05-02T12:44:46.299489+00:00
-
- ## Jon Skeet's coding blog
- - [https://jonskeetcodingblog.wordpress.com](https://jonskeetcodingblog.wordpress.com)
- - date_published: 2024-05-02T12:50:27.780403+00:00
-
- ## Jorn Bettin
- - [https://jornbettin.wordpress.com](https://jornbettin.wordpress.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Josh Neufeld
- - [https://joshcomix.wordpress.com](https://joshcomix.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Right Side
- - [http://joshkrysak.wordpress.com](http://joshkrysak.wordpress.com)
- - date_published: 2024-06-27T10:27:17.914124+00:00
-
- ## Humanities and the Sciences
- - [https://joshuazintelhumanities.wordpress.com](https://joshuazintelhumanities.wordpress.com)
- - date_published: 2024-06-30T11:05:49.837142+00:00
-
- ## Joss Ingram
- - [https://jossingram.wordpress.com](https://jossingram.wordpress.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Joules for Fools
- - [http://joulesforfools.wordpress.com](http://joulesforfools.wordpress.com)
- - date_published: 2024-06-30T08:14:28.099296+00:00
-
- ## jourdankeith
- - [https://jourdankeith.wordpress.com](https://jourdankeith.wordpress.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Journeyman's Journal
- - [https://journeymansjournel.wordpress.com](https://journeymansjournel.wordpress.com)
- - date_published: 2024-05-08T12:13:01.748682+00:00
-
- ## Another Day Another Destination
- - [https://joyrobin.wordpress.com](https://joyrobin.wordpress.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Hymn to Reason
- - [https://jsalvatier.wordpress.com](https://jsalvatier.wordpress.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## J. Savage
- - [https://jsavagehome.wordpress.com](https://jsavagehome.wordpress.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Academically Interesting
- - [http://jsteinhardt.wordpress.com](http://jsteinhardt.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## JT's Blog - All things Sage 300...
- - [https://jthomas903.wordpress.com](https://jthomas903.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Juan Matias Blog
- - [https://juanmatiasblogforenglish.files.wordpress.com](https://juanmatiasblogforenglish.files.wordpress.com)
- - date_published: 2024-03-26T00:15:08.526069+00:00
-
- ## Jude Lieber
- - [http://judelieber.wordpress.com](http://judelieber.wordpress.com)
- - date_published: 2024-06-29T03:19:54.156741+00:00
-
- ## Judith Vanistendael
- - [https://judithvanistendael.wordpress.com](https://judithvanistendael.wordpress.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Juggling Bits
- - [https://jugglingbits.wordpress.com](https://jugglingbits.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## (no title)
- - [https://juleswings.wordpress.com](https://juleswings.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## terrain
- - [http://juliafoggterrain.wordpress.com](http://juliafoggterrain.wordpress.com)
- - date_published: 2024-06-24T10:51:02.274771+00:00
-
- ## JULIMINATION
- - [https://julimination.wordpress.com](https://julimination.wordpress.com)
- - date_published: 2024-06-28T18:40:43.182097+00:00
-
- ## June Boyce-Tillman
- - [https://juneboycetillman.wordpress.com](https://juneboycetillman.wordpress.com)
- - date_published: 2024-07-08T18:38:00.714211+00:00
-
- ## The Sunflower Conjecture and P vs NP Problem
- - [http://junfukuyama.wordpress.com](http://junfukuyama.wordpress.com)
- - date_published: 2024-06-30T11:18:52.466261+00:00
-
- ## Just a Bahai Blog
- - [https://justabahai.wordpress.com](https://justabahai.wordpress.com)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Just Coasting
- - [https://justcoastinghome.wordpress.com](https://justcoastinghome.wordpress.com)
- - date_published: 2024-06-30T01:43:01.713787+00:00
-
- ## Platens & Prose
- - [https://justjudiestype.wordpress.com](https://justjudiestype.wordpress.com)
- - date_published: 2024-07-18T17:13:33.763104+00:00
-
- ## Just Typewriters
- - [https://justtypewriters.wordpress.com](https://justtypewriters.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## JVA's Nonprofit Street
- - [http://jvaconsulting.wordpress.com](http://jvaconsulting.wordpress.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## QA Productions
- - [http://jwmanus.wordpress.com](http://jwmanus.wordpress.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Math Mode
- - [http://k8reindeer.wordpress.com](http://k8reindeer.wordpress.com)
- - date_published: 2024-06-23T00:00:00+00:00
 

@@ -1,3 +1,132 @@
+ ## supertuxkart-amiga.de - SuperTuxKart für Amiga-Computer
+ - [http://www.supertuxkart-amiga.de](http://www.supertuxkart-amiga.de)
+ - date_published: 2018-05-14T17:27:22+00:00
+
+ ## Home - Survival International
+ - [https://www.survivalinternational.de](https://www.survivalinternational.de)
+ - date_published: 2024-07-14T13:41:55.403870+00:00
+
+ ## Open Source Solutions for Enterprise Servers & Cloud | SUSE
+ - [https://suse.de](https://suse.de)
+ - date_published: 2024-07-17T17:12:37.338843+00:00
+
+ ## index
+ - [https://www.svenknebel.de](https://www.svenknebel.de)
+ - date_published: 2024-06-25T18:04:21.586536+00:00
+
+ ## svenpanel - theshrine
+ - [https://svenpanel.de](https://svenpanel.de)
+ - date_published: 2024-06-03T11:19:31.311257+00:00
+
+ ## SVGcode
+ - [https://svgco.de](https://svgco.de)
+ - date_published: 2024-03-07T10:48:08+00:00
+
+ ## sv-veranstaltungen
+ - [https://www.sv-veranstaltungen.de](https://www.sv-veranstaltungen.de)
+ - date_published: 2024-07-24T04:33:53.930512+00:00
+
+ ## Softwarearchitekturen dokumentieren und kommunizieren
+ - [http://www.swadok.de](http://www.swadok.de)
+ - date_published: 2024-07-24T07:46:19.420903+00:00
+
+ ## Swatinem
+ - [https://swatinem.de](https://swatinem.de)
+ - date_published: 2024-05-17T19:53:55+00:00
+
+ ## IT-Beratung mit Fokus auf Datensicherheit 🔒
+ - [https://sweetgood.de](https://sweetgood.de)
+ - date_published: 2024-05-09T08:01:19.142931+00:00
+
+ ## sweichwald.de – Sebastian Weichwald.
+ - [https://sweichwald.de](https://sweichwald.de)
+ - date_published: 2024-05-09T03:55:34+00:00
+
+ ## Home
+ - [https://www.swfr.de](https://www.swfr.de)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Software Guide
+ - [http://sw-guide.de](http://sw-guide.de)
+ - date_published: 2024-06-30T05:34:07.175179+00:00
+
+ ## Energie, Wasser, Bäder und Parken für Heidelberg
+ - [https://www.swhd.de](https://www.swhd.de)
+ - date_published: 2024-07-24T03:46:54.510050+00:00
+
+ ## Multikonferenz Software Engineering & Management 2015 - Home
+ - [http://swm2015.de](http://swm2015.de)
+ - date_published: 2024-06-26T23:22:33.399925+00:00
+
+ ## Südwestrundfunk | SWR.de
+ - [https://swr.de](https://swr.de)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## SWR3
+ - [https://swr3.de](https://swr3.de)
+ - date_published: 2024-05-13T03:13:22.239820+00:00
+
+ ## Das aktuelle Programm
+ - [https://swrfernsehen.de](https://swrfernsehen.de)
+ - date_published: 2024-05-13T03:13:19.432129+00:00
+
+ ## SWR Shop
+ - [https://swr-shop.de](https://swr-shop.de)
+ - date_published: 2024-05-13T03:13:32.669455+00:00
+
+ ## Start
+ - [https://www.syltshuttle.de](https://www.syltshuttle.de)
+ - date_published: 2024-07-24T06:21:43.345867+00:00
+
+ ## SymbOS – Crazy Preemptive Multitasking OS for Z80
+ - [http://www.symbos.de](http://www.symbos.de)
+ - date_published: 2023-12-22T16:57:22+00:00
+ - tags: ['operating system']
+
+ ## Syndie
+ - [https://syndie.de](https://syndie.de)
+ - date_published: 2022-05-28T10:10:55+00:00
+
+ ## Synergeticon GmbH – We are Innovation
+ - [https://synergeticon.de](https://synergeticon.de)
+ - date_published: 2024-07-08T19:51:23.279881+00:00
+
+ ## Onlineshop von Synmag – Das Synthesizer-Magazin
+ - [https://www.synthesizermagazin.de](https://www.synthesizermagazin.de)
+ - date_published: 2024-06-30T07:55:28.520602+00:00
+
+ ## SequencerTalk
+ - [https://sequencertalk.synthesizers.de](https://sequencertalk.synthesizers.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## SysEleven | Managed Kubernetes
+ - [http://www.syseleven.de](http://www.syseleven.de)
+ - date_published: 2021-01-14T08:31:16+00:00
+
+ ## Jitsi Meet
+ - [https://meet.sysmocom.de](https://meet.sysmocom.de)
+ - date_published: 2024-07-08T13:21:53.721602+00:00
+
+ ## sysmocom - custom-tailored mobile telephony solutions
+ - [https://sysmocom.de](https://sysmocom.de)
+ - date_published: 2022-07-01T00:00:00+00:00
+
+ ## SZ Institut - Der digitale Think Tank des Süddeutschen Verlags
+ - [https://institut.sz.de](https://institut.sz.de)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Aktuelle Nachrichten und Kommentare
+ - [https://sz.de](https://sz.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Süddeutsche Zeitung Archiv | Datenbanken, Rechte und Lizenzen
+ - [https://www.sz-archiv.de](https://www.sz-archiv.de)
+ - date_published: 2024-07-24T04:33:39.804446+00:00
+
+ ## SZ Dossier | Der neue politische Informationsdienst der SZ
+ - [https://sz-dossier.de](https://sz-dossier.de)
+ - date_published: 2024-04-29T06:48:13.497411+00:00
+
  ## SZ Magazin
  - [http://sz-magazin.de](http://sz-magazin.de)
  - date_published: 2024-08-08T00:00:00+00:00
@@ -603,6 +732,10 @@
  ## Homepage Thorsten Otto
  - [https://tho-otto.de](https://tho-otto.de)
  - date_published: 2017-10-12T00:00:00+00:00
+
+ ## Thorsten Wißmann
+ - [https://thorsten-wissmann.de](https://thorsten-wissmann.de)
+ - date_published: 2024-07-08T08:33:23+00:00
 
  ## Finden Sie die besten Unternehmen in Deutschland - ThreeBestRated.de
  - [https://threebestrated.de](https://threebestrated.de)
@@ -3875,136 +4008,4 @@
  ## Philosophische Fakultät • Universität Passau
  - [http://www.phil.uni-passau.de](http://www.phil.uni-passau.de)
  - date_published: 2024-06-30T01:19:51+00:00
-
- ## Universität Passau
- - [https://www.uni-passau.de](https://www.uni-passau.de)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Startseite
- - [https://www.uni-potsdam.de](https://www.uni-potsdam.de)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Zeitschriftenliste nach Fachgebiet | Elektronische Zeitschriftenbibliothek
- - [https://ezb.uni-regensburg.de](https://ezb.uni-regensburg.de)
- - date_published: 2024-07-09T20:12:59.765398+00:00
-
- ## DBIS: Fachübersicht
- - [http://rzblx10.uni-regensburg.de](http://rzblx10.uni-regensburg.de)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Startseite - Universität Regensburg
- - [http://www.uni-regensburg.de](http://www.uni-regensburg.de)
- - date_published: 2024-06-30T08:50:44.797493+00:00
-
- ## Fachschaftsrat der Informatikstudiengänge – der Universität des Saarlandes
- - [https://cs.fs.uni-saarland.de](https://cs.fs.uni-saarland.de)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Studium - Saarland Informatics Campus
- - [https://cs.uni-saarland.de](https://cs.uni-saarland.de)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## CVMP  Lab – Computer Vision and Machine Perception Lab
- - [https://cvmp.cs.uni-saarland.de](https://cvmp.cs.uni-saarland.de)
- - date_published: 2024-06-22T07:32:37.880445+00:00
-
- ## Cybersecurity in Saarbruecken, Germany
- - [https://cysec.uni-saarland.de](https://cysec.uni-saarland.de)
- - date_published: 2024-05-10T07:11:14+00:00
-
- ## Real-Time and Embedded Systems Lab
- - [http://embedded.cs.uni-saarland.de](http://embedded.cs.uni-saarland.de)
- - date_published: 2024-06-30T02:59:27.239414+00:00
-
- ## Sign in - Matomo
- - [https://epica.cs.uni-saarland.de](https://epica.cs.uni-saarland.de)
- - date_published: 2024-06-30T02:59:29.480579+00:00
-
- ## Home - Human Computer Interaction Lab, Saarland University HCI Lab Saarland
- - [https://hci.cs.uni-saarland.de](https://hci.cs.uni-saarland.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Online Application for Ph.D./M.Sc. Programs
- - [https://oas.cs.uni-saarland.de](https://oas.cs.uni-saarland.de)
- - date_published: 2024-07-24T06:00:38.519988+00:00
-
- ## Cluster of Excellence | Multimodal Computing and Interaction
- - [http://people.mmci.uni-saarland.de](http://people.mmci.uni-saarland.de)
- - date_published: 2014-04-02T00:00:00+00:00
-
- ## Willkommen am Saarland Informatics Campus in Saarbrücken
- - [http://www.intel-vci.uni-saarland.de](http://www.intel-vci.uni-saarland.de)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Startseite
- - [http://www.lmt.uni-saarland.de](http://www.lmt.uni-saarland.de)
- - date_published: 2024-07-08T09:36:01+00:00
-
- ## Cluster of Excellence | Multimodal Computing and Interaction
- - [https://www.mmci.uni-saarland.de](https://www.mmci.uni-saarland.de)
- - date_published: 2014-04-02T00:00:00+00:00
-
- ## Programming Systems Lab
- - [http://www.ps.uni-saarland.de](http://www.ps.uni-saarland.de)
- - date_published: 2024-07-07T04:09:00.874669+00:00
-
- ## Lehrstuhl für Softwaretechnik (Prof. Zeller) - Universität des Saarlandes
- - [http://www.st.cs.uni-saarland.de](http://www.st.cs.uni-saarland.de)
- - date_published: 2021-04-09T12:37:48+00:00
-
- ## Universität des Saarlandes
- - [https://www.uni-saarland.de](https://www.uni-saarland.de)
- - date_published: 2024-07-07T04:15:13.740283+00:00
-
- ## Zentrum für Bioinformatik
- - [http://zbi-www.bioinf.uni-sb.de](http://zbi-www.bioinf.uni-sb.de)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Shop der Universität Stuttgart
- - [https://unishop-stuttgart.de](https://unishop-stuttgart.de)
- - date_published: 2024-04-29T07:01:22.474393+00:00
-
- ## Shop der Universität Vechta
- - [https://unishop-vechta.de](https://unishop-vechta.de)
- - date_published: 2024-07-04T13:17:39.917806+00:00
-
- ## HOME
- - [https://www.unishop-wuppertal.de](https://www.unishop-wuppertal.de)
- - date_published: 2024-07-02T17:47:59.803048+00:00
-
- ## Department Elektrotechnik und Informatik | Department Elektrotechnik und Informatik (Dekanat)
- - [https://www.eti.uni-siegen.de](https://www.eti.uni-siegen.de)
- - date_published: 2008-07-25T00:00:00+00:00
-
- ## SFB 1187 – Medien der Kooperation
- - [https://www.mediacoop.uni-siegen.de](https://www.mediacoop.uni-siegen.de)
- - date_published: 2024-07-11T12:56:34.102506+00:00
-
- ## The bitsavers main page
- - [http://bitsavers.informatik.uni-stuttgart.de](http://bitsavers.informatik.uni-stuttgart.de)
- - date_published: 2024-04-19T20:05:34+00:00
-
- ## Loading
- - [https://campus.uni-stuttgart.de](https://campus.uni-stuttgart.de)
- - date_published: 2024-07-01T10:11:47+00:00
-
- ## IRS git hosting
- - [https://egit.irs.uni-stuttgart.de](https://egit.irs.uni-stuttgart.de)
- - date_published: 2024-07-08T16:20:30.113534+00:00
-
- ## OPUS: Home
- - [https://elib.uni-stuttgart.de](https://elib.uni-stuttgart.de)
- - date_published: 2024-04-29T06:16:48.644512+00:00
-
- ## Sign in · GitLab
- - [https://git.iws.uni-stuttgart.de](https://git.iws.uni-stuttgart.de)
- - date_published: 2024-07-04T08:18:44.852034+00:00
-
- ## Content: Repository: ILIAS für Lehre und Lernen – Universität Stuttgart
- - [https://ilias3.uni-stuttgart.de](https://ilias3.uni-stuttgart.de)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## UniMail Login
- - [https://mail.uni-stuttgart.de](https://mail.uni-stuttgart.de)
- - date_published: 2024-08-06T17:41:49.814388+00:00
 

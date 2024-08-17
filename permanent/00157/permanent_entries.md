@@ -1,3 +1,107 @@
+ ## DreamWorks Animation
+ - [https://dreamworksanimation.tumblr.com](https://dreamworksanimation.tumblr.com)
+ - date_published: 2024-06-18T22:11:09.646856+00:00
+
+ ## Dresden Codak
+ - [https://dresdencodak.tumblr.com](https://dresdencodak.tumblr.com)
+ - date_published: 2024-05-11T10:26:45.180956+00:00
+
+ ## Dr Ferox, veterinarian
+ - [https://drferox.tumblr.com](https://drferox.tumblr.com)
+ - date_published: 2024-06-27T03:32:57.791681+00:00
+
+ ## drinkaurabora
+ - [https://drinkaurabora.tumblr.com](https://drinkaurabora.tumblr.com)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## dripped
+ - [http://dripped.tumblr.com](http://dripped.tumblr.com)
+ - date_published: 2017-07-18T00:00:00+00:00
+
+ ## A monument more everlasting than chips
+ - [http://drtonykeen.tumblr.com](http://drtonykeen.tumblr.com)
+ - date_published: 2024-06-24T10:17:18.600863+00:00
+
+ ## I Am Asking You To Believe In Impossible Things
+ - [https://drunkenhills.tumblr.com](https://drunkenhills.tumblr.com)
+ - date_published: 2024-06-26T10:10:42.247628+00:00
+
+ ## All Hail the Mysterious Gap
+ - [https://dsudis.tumblr.com](https://dsudis.tumblr.com)
+ - date_published: 2024-05-06T20:34:40.742991+00:00
+
+ ## Do it for the Vimes
+ - [https://dukeofankh.tumblr.com](https://dukeofankh.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Tumblr
+ - [https://dukope.tumblr.com](https://dukope.tumblr.com)
+ - date_published: 2024-05-01T07:50:00.412224+00:00
+
+ ## DUPES
+ - [http://dupes-the-game.tumblr.com](http://dupes-the-game.tumblr.com)
+ - date_published: 2024-06-22T14:46:26.373148+00:00
+
+ ## The Great Tit
+ - [https://dutchfish.tumblr.com](https://dutchfish.tumblr.com)
+ - date_published: 2024-08-05T16:55:24.164108+00:00
+
+ ## The Pool Room
+ - [https://dwindlebunnies.tumblr.com](https://dwindlebunnies.tumblr.com)
+ - date_published: 2024-06-27T04:16:42.866362+00:00
+
+ ## urban fantasy oracle
+ - [https://dxppercxdxver.tumblr.com](https://dxppercxdxver.tumblr.com)
+ - date_published: 2024-06-27T03:01:45.546959+00:00
+
+ ## secret math fan
+ - [https://dykecastiels.tumblr.com](https://dykecastiels.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Tumblr
+ - [https://dysfunctionalqueer.tumblr.com](https://dysfunctionalqueer.tumblr.com)
+ - date_published: 2024-06-27T03:35:37.113704+00:00
+
+ ## Tumblr
+ - [https://dysphoria-things.tumblr.com](https://dysphoria-things.tumblr.com)
+ - date_published: 2024-06-26T10:12:17.014957+00:00
+
+ ## Death, Trains & Houseplants
+ - [https://earlgreybot.tumblr.com](https://earlgreybot.tumblr.com)
+ - date_published: 2024-05-10T06:29:28.894402+00:00
+
+ ## I hate sand
+ - [https://eater-of-the-sand.tumblr.com](https://eater-of-the-sand.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Elizabeth B. Martin, Author & Illustrator
+ - [https://ebmartin70.tumblr.com](https://ebmartin70.tumblr.com)
+ - date_published: 2014-05-26T00:00:00+00:00
+
+ ## Notes in the Margins
+ - [https://edenfenixblogs.tumblr.com](https://edenfenixblogs.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Love Letter to Edinburgh
+ - [https://edinburgh-by-the-sea.tumblr.com](https://edinburgh-by-the-sea.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Effector Theme
+ - [http://effectortheme.tumblr.com](http://effectortheme.tumblr.com)
+ - date_published: 2015-08-17T00:00:00+00:00
+
+ ## Tumblr
+ - [https://effington.tumblr.com](https://effington.tumblr.com)
+ - date_published: 2024-05-06T20:42:03.382111+00:00
+
+ ## Tumblr
+ - [https://egax.tumblr.com](https://egax.tumblr.com)
+ - date_published: 2024-05-06T20:43:12.792487+00:00
+
+ ## if i fits i'm soup
+ - [https://egberts.tumblr.com](https://egberts.tumblr.com)
+ - date_published: 2024-07-11T14:03:09.646123+00:00
+
  ## Terrible, Beautiful Sparks in Space
  - [http://eighthdoctor.tumblr.com](http://eighthdoctor.tumblr.com)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -3899,108 +4003,4 @@ wasabi
  ## Tumblr
  - [http://prey.tumblr.com](http://prey.tumblr.com)
  - date_published: 2024-06-18T19:05:37.750252+00:00
-
- ## Pride Knights®
- - [https://prideknights.tumblr.com](https://prideknights.tumblr.com)
- - date_published: 2024-06-27T04:36:04.080925+00:00
-
- ## Priime
- - [http://priimephoto.tumblr.com](http://priimephoto.tumblr.com)
- - date_published: 2024-06-26T07:30:28.737062+00:00
-
- ## PRIM4T
- - [https://prim4t.tumblr.com](https://prim4t.tumblr.com)
- - date_published: 2024-07-02T18:36:30.745481+00:00
-
- ## Gia's Art Blog
- - [http://princebunbuns.tumblr.com](http://princebunbuns.tumblr.com)
- - date_published: 2024-06-27T05:14:50.362098+00:00
-
- ## Dead Fandom Zone
- - [https://princemolder.tumblr.com](https://princemolder.tumblr.com)
- - date_published: 2024-06-26T10:10:45.173462+00:00
-
- ## Sir, are you aware you are a cat?
- - [https://problemnyatic.tumblr.com](https://problemnyatic.tumblr.com)
- - date_published: 2024-06-27T03:13:30.612457+00:00
-
- ## Procedural Generation
- - [https://procedural-generation.tumblr.com](https://procedural-generation.tumblr.com)
- - date_published: 2024-06-22T08:44:50.227267+00:00
-
- ## Untitled
- - [https://professionalchaoticdumbass.tumblr.com](https://professionalchaoticdumbass.tumblr.com)
- - date_published: 2024-06-27T02:51:36.264114+00:00
-
- ## “Higher, Further, Faster”
- - [https://profusedinmelancholy.tumblr.com](https://profusedinmelancholy.tumblr.com)
- - date_published: 2016-12-16T00:00:00+00:00
-
- ## Programming Fonts
- - [https://programmingfonts.tumblr.com](https://programmingfonts.tumblr.com)
- - date_published: 2024-07-04T10:58:58.845504+00:00
-
- ## Progressive Power, Nonprofit Digital usaunify.org
- - [https://progressivepower.tumblr.com](https://progressivepower.tumblr.com)
- - date_published: 2024-06-27T03:32:18.926572+00:00
-
- ## Project Massive
- - [http://project-massive.tumblr.com](http://project-massive.tumblr.com)
- - date_published: 2015-08-17T00:00:00+00:00
-
- ## Project TUSSLE
- - [https://projectussle.tumblr.com](https://projectussle.tumblr.com)
- - date_published: 2024-07-11T12:41:18.805922+00:00
-
- ## David J Prokopetz
- - [https://prokopetz.tumblr.com](https://prokopetz.tumblr.com)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## omnia sunt communia
- - [https://prole-log.tumblr.com](https://prole-log.tumblr.com)
- - date_published: 2024-06-27T03:18:30.678826+00:00
-
- ## Prologue Theme
- - [https://prologuetheme.tumblr.com](https://prologuetheme.tumblr.com)
- - date_published: 2024-05-01T05:01:00.319431+00:00
-
- ## it's a good doomsday
- - [https://proserpine-in-phases.tumblr.com](https://proserpine-in-phases.tumblr.com)
- - date_published: 2024-06-27T03:01:37.050652+00:00
-
- ## prosthetic knowledge
- - [http://prostheticknowledge.tumblr.com](http://prostheticknowledge.tumblr.com)
- - date_published: 2024-06-22T08:50:01.968181+00:00
-
- ## The Ramblings of a Proto-Linguist
- - [https://prototumblinguist.tumblr.com](https://prototumblinguist.tumblr.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Tumblr
- - [https://proxy616.tumblr.com](https://proxy616.tumblr.com)
- - date_published: 2024-06-27T02:58:03.128789+00:00
-
- ## PS1
- - [https://ps1.tumblr.com](https://ps1.tumblr.com)
- - date_published: 2024-06-23T18:36:27.354293+00:00
-
- ## Tumblr
- - [https://psilocybersecurity.tumblr.com](https://psilocybersecurity.tumblr.com)
- - date_published: 2024-06-27T03:31:09.790264+00:00
-
- ## wouldn’t it be fun with no skin on?
- - [https://psychotic-gerard.tumblr.com](https://psychotic-gerard.tumblr.com)
- - date_published: 2024-06-27T03:14:02.655604+00:00
-
- ## Ptera Waters
- - [https://pterawaters.tumblr.com](https://pterawaters.tumblr.com)
- - date_published: 2024-06-27T03:31:29.868414+00:00
-
- ## Public domain vectors
- - [https://publicdomainvectors.tumblr.com](https://publicdomainvectors.tumblr.com)
- - date_published: 2024-05-08T12:00:16.806777+00:00
-
- ## picking flowers
- - [https://puc-puggy.tumblr.com](https://puc-puggy.tumblr.com)
- - date_published: 2024-06-27T02:51:00.955787+00:00
 

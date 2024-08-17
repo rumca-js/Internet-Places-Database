@@ -1,3 +1,143 @@
+ ## Billy Ireland Cartoon Library and Museum		|
+ - [https://cartoons.osu.edu](https://cartoons.osu.edu)
+ - date_published: 2024-07-17T08:18:38.057122+00:00
+
+ ## William G. Lowrie Department of Chemical and Biomolecular Engineering
+ - [https://cbe.osu.edu](https://cbe.osu.edu)
+ - date_published: 2019-06-12T11:56:00+00:00
+
+ ## Counseling and Consultation Service
+ - [https://ccs.osu.edu](https://ccs.osu.edu)
+ - date_published: 2024-05-12T07:44:18.244369+00:00
+
+ ## Department of Civil, Environmental and Geodetic Engineering
+ - [http://ceg.osu.edu](http://ceg.osu.edu)
+ - date_published: 2014-05-21T09:37:00+00:00
+
+ ## Center for Emergent Materials
+ - [https://cem.osu.edu](https://cem.osu.edu)
+ - date_published: 2024-07-17T03:37:32.905052+00:00
+
+ ## Homepage | Office of Innovation and Economic Development, The Ohio State University
+ - [https://ceo.osu.edu](https://ceo.osu.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Diversity, Equity & Inclusion Home | Office of Diversity, Equity, and Inclusion
+ - [https://cfaesdei.osu.edu](https://cfaesdei.osu.edu)
+ - date_published: 2024-07-17T03:36:55.831756+00:00
+
+ ## Home | CFAES
+ - [http://cfaes.osu.edu](http://cfaes.osu.edu)
+ - date_published: 2024-07-17T03:36:22.127008+00:00
+
+ ## Home | CFAES Safety and Compliance
+ - [https://cfaessafety.osu.edu](https://cfaessafety.osu.edu)
+ - date_published: 2024-07-17T03:36:45.400450+00:00
+
+ ## Council of Graduate Students
+ - [http://cgs.osu.edu](http://cgs.osu.edu)
+ - date_published: 2024-07-02T14:43:04.058395+00:00
+
+ ## Class Search
+ - [https://classes.osu.edu](https://classes.osu.edu)
+ - date_published: 2024-05-12T07:42:52.798195+00:00
+
+ ## Center for Life Sciences Education | Center for Life Sciences Education
+ - [https://clse.osu.edu](https://clse.osu.edu)
+ - date_published: 2024-07-17T03:50:11.905406+00:00
+
+ ## Home | Campus Microscopy & Imaging Facility (CMIF)
+ - [https://cmif.osu.edu](https://cmif.osu.edu)
+ - date_published: 2024-07-02T15:12:42+00:00
+
+ ## About the UCR
+ - [https://code.osu.edu](https://code.osu.edu)
+ - date_published: 2024-07-13T03:53:44+00:00
+
+ ## College in Columbus
+ - [https://collegeincbus.osu.edu](https://collegeincbus.osu.edu)
+ - date_published: 2024-07-17T03:26:24.454651+00:00
+
+ ## Summer Commencement 2024
+ - [https://commencement.osu.edu](https://commencement.osu.edu)
+ - date_published: 2024-07-01T16:55:13.763456+00:00
+
+ ## Login - Give To Ohio State - The Ohio State University
+ - [https://connect1.osu.edu](https://connect1.osu.edu)
+ - date_published: 2024-05-07T19:52:26.447794+00:00
+
+ ## College of Public Health Homepage
+ - [https://cph.osu.edu](https://cph.osu.edu)
+ - date_published: 2024-07-16T21:41:28+00:00
+
+ ## Department of Computer Science and Engineering
+ - [https://cse.osu.edu](https://cse.osu.edu)
+ - date_published: 2014-02-07T14:25:00+00:00
+
+ ## CSE Database Portal
+ - [https://cse-portal.webapps.engineering.osu.edu](https://cse-portal.webapps.engineering.osu.edu)
+ - date_published: 2024-05-14T16:16:34+00:00
+
+ ## Home - The Ohio State University - College of Social Work
+ - [https://csw.osu.edu](https://csw.osu.edu)
+ - date_published: 2024-06-16T02:54:24+00:00
+
+ ## Cybersecurity
+ - [https://cybersecurity.osu.edu](https://cybersecurity.osu.edu)
+ - date_published: 2023-03-17T15:52:38+00:00
+
+ ## Dental Alumni Society
+ - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
+ - date_published: 2024-02-08T17:42:16.788473+00:00
+
+ ## Home
+ - [https://das.osu.edu](https://das.osu.edu)
+ - date_published: 2020-11-02T15:49:08+00:00
+
+ ## Home | Ohio State Dental Clinics
+ - [https://dentalclinics.osu.edu](https://dentalclinics.osu.edu)
+ - date_published: 2024-07-17T03:43:34.031757+00:00
+
+ ## OSU College of Dentistry
+ - [https://dentistry.osu.edu](https://dentistry.osu.edu)
+ - date_published: 2024-05-12T07:44:32.720792+00:00
+
+ ## Digital Unions | Learning Spaces Directory
+ - [http://digitalunion.osu.edu](http://digitalunion.osu.edu)
+ - date_published: 2024-07-09T14:48:32.416639+00:00
+
+ ## Dining Services
+ - [https://dining.osu.edu](https://dining.osu.edu)
+ - date_published: 2024-05-12T07:44:11.233781+00:00
+
+ ## Discovery Themes, The Ohio State University
+ - [https://discovery.osu.edu](https://discovery.osu.edu)
+ - date_published: 2024-07-17T03:37:40.670441+00:00
+
+ ## Home | Department of Public Safety
+ - [https://dps.osu.edu](https://dps.osu.edu)
+ - date_published: 2024-05-12T07:43:42.601189+00:00
+
+ ## Home | School of Earth Sciences
+ - [https://earthsciences.osu.edu](https://earthsciences.osu.edu)
+ - date_published: 2024-05-07T22:31:30.967450+00:00
+
+ ## Newark Earthworks Center | The Ohio State University
+ - [https://earthworks.osu.edu](https://earthworks.osu.edu)
+ - date_published: 2024-07-17T03:37:02.098347+00:00
+
+ ## Department of Electrical & Computer Engineering
+ - [http://ece.osu.edu](http://ece.osu.edu)
+ - date_published: 2022-10-29T19:35:00+00:00
+
+ ## Engineering Career Services
+ - [https://ecs.osu.edu](https://ecs.osu.edu)
+ - date_published: 2016-08-15T10:12:00+00:00
+
+ ## Department of Engineering Education
+ - [https://eed.osu.edu](https://eed.osu.edu)
+ - date_published: 2016-03-08T09:33:00+00:00
+
  ## College of Education and Human Ecology
  - [http://ehe.osu.edu](http://ehe.osu.edu)
  - date_published: 2024-06-29T09:07:14.647181+00:00
@@ -3866,144 +4006,4 @@
  ## Banner
  - [https://banner.rowan.edu](https://banner.rowan.edu)
  - date_published: 2024-06-05T17:45:32+00:00
-
- ## CMSRU | Cooper Medical School | Rowan University
- - [https://cmsru.rowan.edu](https://cmsru.rowan.edu)
- - date_published: 2024-05-07T20:08:17.363480+00:00
-
- ## Dashboard - Confluence
- - [https://confluence.rowan.edu](https://confluence.rowan.edu)
- - date_published: 2024-07-01T18:26:44.359707+00:00
-
- ## Rowan University | Directory
- - [https://directory.rowan.edu](https://directory.rowan.edu)
- - date_published: 2024-07-01T02:13:13.964323+00:00
-
- ## Home | Rowan University
- - [https://global.rowan.edu](https://global.rowan.edu)
- - date_published: 2024-05-07T20:08:05.773511+00:00
-
- ## Login - Rowan University - Single Sign-On
- - [https://go.rowan.edu](https://go.rowan.edu)
- - date_published: 2024-07-01T18:25:36.646495+00:00
-
- ## Information Resources & Technology
- - [https://irt.rowan.edu](https://irt.rowan.edu)
- - date_published: 2024-05-07T20:08:15.582362+00:00
-
- ## Rowan HR - Recent Jobs
- - [https://jobs.rowan.edu](https://jobs.rowan.edu)
- - date_published: 2024-07-01T02:13:17.031678+00:00
-
- ## Login - Rowan University - Single Sign-On
- - [http://mail.students.rowan.edu](http://mail.students.rowan.edu)
- - date_published: 2024-07-01T18:25:30.689461+00:00
-
- ## myRowan
- - [https://my.rowan.edu](https://my.rowan.edu)
- - date_published: 2024-05-07T20:08:18.656384+00:00
-
- ## Login - NetID
- - [https://netid.rowan.edu](https://netid.rowan.edu)
- - date_published: 2024-07-01T18:25:13.098501+00:00
-
- ## Rowan Online Home | Rowan University
- - [https://online.rowan.edu](https://online.rowan.edu)
- - date_published: 2024-06-05T17:10:08+00:00
-
- ## Outlook
- - [http://outlook.rowan.edu](http://outlook.rowan.edu)
- - date_published: 2024-07-01T18:25:26.870471+00:00
-
- ## Rowan Research & Innovation | Rowan Research | Rowan University
- - [https://research.rowan.edu](https://research.rowan.edu)
- - date_published: 2024-05-07T20:08:02.033916+00:00
-
- ## Shreiber School of Veterinary Medicine | Rowan University
- - [https://rsvm.rowan.edu](https://rsvm.rowan.edu)
- - date_published: 2024-06-05T17:22:03+00:00
-
- ## Shared Page
- - [https://sites.rowan.edu](https://sites.rowan.edu)
- - date_published: 2023-01-27T20:07:41+00:00
-
- ## Home | Virtua Health College of Medicine & Life Sciences | Rowan University
- - [https://snhp.rowan.edu](https://snhp.rowan.edu)
- - date_published: 2024-06-05T17:14:50+00:00
-
- ## Shreiber School of Veterinary Medicine | Rowan University
- - [https://svm.rowan.edu](https://svm.rowan.edu)
- - date_published: 2024-05-07T20:08:07.301537+00:00
-
- ## Rowan Today | Rowan University
- - [https://today.rowan.edu](https://today.rowan.edu)
- - date_published: 2023-10-25T18:57:18.671620+00:00
-
- ## Rowan University
- - [https://view.rowan.edu](https://view.rowan.edu)
- - date_published: 2024-07-01T18:24:58.609123+00:00
-
- ## WGLS Home | WGLS | Rowan University
- - [https://wgls.rowan.edu](https://wgls.rowan.edu)
- - date_published: 2024-05-07T20:08:10.825793+00:00
-
- ## Home Page
- - [https://www.alumni.rowan.edu](https://www.alumni.rowan.edu)
- - date_published: 2024-05-07T20:08:22.573107+00:00
-
- ## Rowan University Libraries
- - [https://www.lib.rowan.edu](https://www.lib.rowan.edu)
- - date_published: 2024-07-01T16:33:28+00:00
-
- ## Home
- - [https://rowan.edu](https://rowan.edu)
- - date_published: 2024-05-07T20:07:59.132868+00:00
-
- ## Martin A. Schmidt '81, Ph.D. | Rensselaer Polytechnic Institute
- - [https://19thpresident.rpi.edu](https://19thpresident.rpi.edu)
- - date_published: 2024-07-01T17:56:33+00:00
-
- ## Admissions | Admissions
- - [http://admissions.rpi.edu](http://admissions.rpi.edu)
- - date_published: 2024-07-01T18:27:24.927269+00:00
-
- ## HelioCampus
- - [https://aefis.rpi.edu](https://aefis.rpi.edu)
- - date_published: 2024-07-01T18:29:04.170481+00:00
-
- ## home | Artificial Intelligence Research Collaboration
- - [https://airc.rpi.edu](https://airc.rpi.edu)
- - date_published: 2024-07-11T12:41:33+00:00
-
- ## RPI Alerts
- - [https://alert.rpi.edu](https://alert.rpi.edu)
- - date_published: 2024-07-01T18:29:16.586109+00:00
-
- ## Alumni Home Page
- - [https://alumni.rpi.edu](https://alumni.rpi.edu)
- - date_published: 2024-07-01T18:27:56.244685+00:00
-
- ## Rensselaer | Architecture
- - [https://arch.rpi.edu](https://arch.rpi.edu)
- - date_published: 2024-07-01T18:28:38.400105+00:00
-
- ## Recent Jobs - RPI Jobs
- - [https://careers.rpi.edu](https://careers.rpi.edu)
- - date_published: 2024-07-01T18:29:41.633421+00:00
-
- ## Rensselaer Polytechnic Institute - Modern Campus Catalog™
- - [http://catalog.rpi.edu](http://catalog.rpi.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Career and Professional Development | Rensselaer Polytechnic Institute
- - [https://ccpd.rpi.edu](https://ccpd.rpi.edu)
- - date_published: 2024-07-01T17:10:56+00:00
-
- ## Collegiate Store | RPI INFO
- - [http://collegiatestore.rpi.edu](http://collegiatestore.rpi.edu)
- - date_published: 2024-07-01T18:29:25.799341+00:00
-
- ## Bicentennial Commencement 2024 | Rensselaer Polytechnic Institute
- - [https://commencement.rpi.edu](https://commencement.rpi.edu)
- - date_published: 2024-07-01T14:02:52+00:00
 

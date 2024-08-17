@@ -1,3 +1,133 @@
+ ## PCMasters.de
+ - [https://pcmasters.de](https://pcmasters.de)
+ - date_published: 2024-04-29T06:41:07.673862+00:00
+
+ ## PCShow.de
+ - [http://www.pcshow.de](http://www.pcshow.de)
+ - date_published: 2024-07-24T05:28:26.072808+00:00
+
+ ## PC-WELT – Homepage
+ - [https://www.pcwelt.de](https://www.pcwelt.de)
+ - date_published: 2024-07-09T15:27:05.010447+00:00
+
+ ## Paul-Drude-Institut für Festkörperelektronik
+ - [http://www.pdi-berlin.de](http://www.pdi-berlin.de)
+ - date_published: 2024-06-29T22:29:53.326728+00:00
+
+ ## Premiumpartner der digitalen Verwaltung | PDV
+ - [https://www.pdv.de](https://www.pdv.de)
+ - date_published: 2024-08-11T04:26:09.451103+00:00
+
+ ## P.T.C.
+ - [https://peateasea.de](https://peateasea.de)
+ - date_published: 2024-03-25T19:01:26.365808+00:00
+ - tags: ['personal']
+
+ ## pechaflickr.de
+ - [http://pechaflickr.de](http://pechaflickr.de)
+ - date_published: 2024-07-04T09:44:13.360763+00:00
+
+ ## Join the Pegasus Spiele Discord Server!
+ - [https://discord.pegasus.de](https://discord.pegasus.de)
+ - date_published: 2024-04-29T06:41:15.550133+00:00
+
+ ## Pegasus Spiele
+ - [https://pegasus.de](https://pegasus.de)
+ - date_published: 2023-10-30T12:01:05.937311+00:00
+
+ ## Regelfragen
+ - [http://www.foren.pegasus.de](http://www.foren.pegasus.de)
+ - date_published: 2024-07-24T05:21:28.688965+00:00
+
+ ## Pegasusshop.de - Wir machen Spaß!
+ - [https://b2b.pegasusshop.de](https://b2b.pegasusshop.de)
+ - date_published: 2024-04-29T06:41:17.784178+00:00
+
+ ## Pegasus Spiele Store
+ - [https://pegasusshop.de](https://pegasusshop.de)
+ - date_published: 2024-04-29T06:41:14.250593+00:00
+
+ ## Public Pengutronix git Server
+ - [https://git.pengutronix.de](https://git.pengutronix.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## German-Pennsylvanian Association
+ - [http://www.pennsylvanien.de](http://www.pennsylvanien.de)
+ - date_published: 2024-07-12T02:59:19.405909+00:00
+
+ ## Peperica | Home
+ - [https://friendica.pepecyb.de](https://friendica.pepecyb.de)
+ - date_published: 2024-07-10T07:16:24.679937+00:00
+
+ ## Nomád
+ - [https://nomad.pepecyb.de](https://nomad.pepecyb.de)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Per Guth
+ - [https://perguth.de](https://perguth.de)
+ - date_published: 2024-02-17T19:06:00+00:00
+ - tags: ['personal']
+
+ ## PERI Deutschland
+ - [https://www.peri.de](https://www.peri.de)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Perlgeek.de - Perl Programming and more
+ - [http://perlgeek.de](http://perlgeek.de)
+ - date_published: 2017-08-25T10:58:48+00:00
+
+ ## Startseite
+ - [https://personalausweisportal.de](https://personalausweisportal.de)
+ - date_published: 2024-04-29T06:11:45.411370+00:00
+
+ ## Jobs at bam! interactive marketing GmbH
+ - [https://bam-interactive.jobs.personio.de](https://bam-interactive.jobs.personio.de)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Jobs at Brother Internationale Industriemaschinen GmbH
+ - [https://brother-industrial-com.jobs.personio.de](https://brother-industrial-com.jobs.personio.de)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Personio Developer Hub
+ - [https://developer.personio.de](https://developer.personio.de)
+ - date_published: 2024-06-28T16:14:25.431813+00:00
+
+ ## Personio. The People Operating System.
+ - [https://gamigo-ag-jobs.personio.de](https://gamigo-ag-jobs.personio.de)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Jobs at KNIME AG
+ - [https://knime.jobs.personio.de](https://knime.jobs.personio.de)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Personio
+ - [https://support.personio.de](https://support.personio.de)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Personio. The People Operating System.
+ - [https://www.personio.de](https://www.personio.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Per Starke - Web Development
+ - [https://perstarke-webdev.de](https://perstarke-webdev.de)
+ - date_published: 2024-06-14T07:00:26+00:00
+
+ ## Loading ...
+ - [https://pur.petbook.de](https://pur.petbook.de)
+ - date_published: 2024-07-24T18:21:50.801738+00:00
+
+ ## PETBOOK
+ - [https://petbook.de](https://petbook.de)
+ - date_published: 2024-04-29T05:50:40.886369+00:00
+
+ ## Startseite • Peter Kröner • Webtechnologie
+ - [https://www.peterkroener.de](https://www.peterkroener.de)
+ - date_published: 2024-06-23T09:09:53.489738+00:00
+
+ ## Deutscher Bundestag - Gemeinsames Petitionsportal des Bundes und der Länder
+ - [https://petitionsportal.de](https://petitionsportal.de)
+ - date_published: 2024-04-29T05:56:23.173997+00:00
+
  ## Dr. Manuel Peuster
  - [https://peuster.de](https://peuster.de)
  - date_published: 2024-01-30T06:12:11+00:00
@@ -3901,133 +4031,4 @@
  ## Tokonoma
  - [http://supertokonoma.de](http://supertokonoma.de)
  - date_published: 2024-07-13T15:01:48.135981+00:00
-
- ## supertuxkart-amiga.de - SuperTuxKart für Amiga-Computer
- - [http://www.supertuxkart-amiga.de](http://www.supertuxkart-amiga.de)
- - date_published: 2018-05-14T17:27:22+00:00
-
- ## Home - Survival International
- - [https://www.survivalinternational.de](https://www.survivalinternational.de)
- - date_published: 2024-07-14T13:41:55.403870+00:00
-
- ## Open Source Solutions for Enterprise Servers & Cloud | SUSE
- - [https://suse.de](https://suse.de)
- - date_published: 2024-07-17T17:12:37.338843+00:00
-
- ## index
- - [https://www.svenknebel.de](https://www.svenknebel.de)
- - date_published: 2024-06-25T18:04:21.586536+00:00
-
- ## svenpanel - theshrine
- - [https://svenpanel.de](https://svenpanel.de)
- - date_published: 2024-06-03T11:19:31.311257+00:00
-
- ## SVGcode
- - [https://svgco.de](https://svgco.de)
- - date_published: 2024-03-07T10:48:08+00:00
-
- ## sv-veranstaltungen
- - [https://www.sv-veranstaltungen.de](https://www.sv-veranstaltungen.de)
- - date_published: 2024-07-24T04:33:53.930512+00:00
-
- ## Softwarearchitekturen dokumentieren und kommunizieren
- - [http://www.swadok.de](http://www.swadok.de)
- - date_published: 2024-07-24T07:46:19.420903+00:00
-
- ## Swatinem
- - [https://swatinem.de](https://swatinem.de)
- - date_published: 2024-05-17T19:53:55+00:00
-
- ## IT-Beratung mit Fokus auf Datensicherheit 🔒
- - [https://sweetgood.de](https://sweetgood.de)
- - date_published: 2024-05-09T08:01:19.142931+00:00
-
- ## sweichwald.de – Sebastian Weichwald.
- - [https://sweichwald.de](https://sweichwald.de)
- - date_published: 2024-05-09T03:55:34+00:00
-
- ## Home
- - [https://www.swfr.de](https://www.swfr.de)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Software Guide
- - [http://sw-guide.de](http://sw-guide.de)
- - date_published: 2024-06-30T05:34:07.175179+00:00
-
- ## Energie, Wasser, Bäder und Parken für Heidelberg
- - [https://www.swhd.de](https://www.swhd.de)
- - date_published: 2024-07-24T03:46:54.510050+00:00
-
- ## Multikonferenz Software Engineering & Management 2015 - Home
- - [http://swm2015.de](http://swm2015.de)
- - date_published: 2024-06-26T23:22:33.399925+00:00
-
- ## Südwestrundfunk | SWR.de
- - [https://swr.de](https://swr.de)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## SWR3
- - [https://swr3.de](https://swr3.de)
- - date_published: 2024-05-13T03:13:22.239820+00:00
-
- ## Das aktuelle Programm
- - [https://swrfernsehen.de](https://swrfernsehen.de)
- - date_published: 2024-05-13T03:13:19.432129+00:00
-
- ## SWR Shop
- - [https://swr-shop.de](https://swr-shop.de)
- - date_published: 2024-05-13T03:13:32.669455+00:00
-
- ## Start
- - [https://www.syltshuttle.de](https://www.syltshuttle.de)
- - date_published: 2024-07-24T06:21:43.345867+00:00
-
- ## SymbOS – Crazy Preemptive Multitasking OS for Z80
- - [http://www.symbos.de](http://www.symbos.de)
- - date_published: 2023-12-22T16:57:22+00:00
- - tags: ['operating system']
-
- ## Syndie
- - [https://syndie.de](https://syndie.de)
- - date_published: 2022-05-28T10:10:55+00:00
-
- ## Synergeticon GmbH – We are Innovation
- - [https://synergeticon.de](https://synergeticon.de)
- - date_published: 2024-07-08T19:51:23.279881+00:00
-
- ## Onlineshop von Synmag – Das Synthesizer-Magazin
- - [https://www.synthesizermagazin.de](https://www.synthesizermagazin.de)
- - date_published: 2024-06-30T07:55:28.520602+00:00
-
- ## SequencerTalk
- - [https://sequencertalk.synthesizers.de](https://sequencertalk.synthesizers.de)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## SysEleven | Managed Kubernetes
- - [http://www.syseleven.de](http://www.syseleven.de)
- - date_published: 2021-01-14T08:31:16+00:00
-
- ## Jitsi Meet
- - [https://meet.sysmocom.de](https://meet.sysmocom.de)
- - date_published: 2024-07-08T13:21:53.721602+00:00
-
- ## sysmocom - custom-tailored mobile telephony solutions
- - [https://sysmocom.de](https://sysmocom.de)
- - date_published: 2022-07-01T00:00:00+00:00
-
- ## SZ Institut - Der digitale Think Tank des Süddeutschen Verlags
- - [https://institut.sz.de](https://institut.sz.de)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Aktuelle Nachrichten und Kommentare
- - [https://sz.de](https://sz.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Süddeutsche Zeitung Archiv | Datenbanken, Rechte und Lizenzen
- - [https://www.sz-archiv.de](https://www.sz-archiv.de)
- - date_published: 2024-07-24T04:33:39.804446+00:00
-
- ## SZ Dossier | Der neue politische Informationsdienst der SZ
- - [https://sz-dossier.de](https://sz-dossier.de)
- - date_published: 2024-04-29T06:48:13.497411+00:00
 

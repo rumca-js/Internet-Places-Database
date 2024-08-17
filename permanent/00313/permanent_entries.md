@@ -1,3 +1,247 @@
+ ## Sign in to online surveys
+ - [https://leeds.onlinesurveys.ac.uk](https://leeds.onlinesurveys.ac.uk)
+ - date_published: 2024-06-18T10:54:06.848243+00:00
+
+ ## About The Open University
+ - [https://about.open.ac.uk](https://about.open.ac.uk)
+ - date_published: 2024-07-01T02:01:53.334820+00:00
+
+ ## The Open University
+ - [https://community.open.ac.uk](https://community.open.ac.uk)
+ - date_published: 2024-07-01T16:47:51.676933+00:00
+
+ ## The Open University
+ - [https://help.open.ac.uk](https://help.open.ac.uk)
+ - date_published: 2024-05-07T19:51:58.819793+00:00
+
+ ## IET: Institute of Educational Technology, The Open University
+ - [http://iet.open.ac.uk](http://iet.open.ac.uk)
+ - date_published: 2024-06-18T10:22:06.244452+00:00
+
+ ## Sign in to your account
+ - [https://intranet.open.ac.uk](https://intranet.open.ac.uk)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Open University
+ - [https://learn1.open.ac.uk](https://learn1.open.ac.uk)
+ - date_published: 2024-06-24T10:18:11.753452+00:00
+
+ ## Saml Proxy page
+ - [https://learn2.open.ac.uk](https://learn2.open.ac.uk)
+ - date_published: 2024-07-01T16:47:53.546740+00:00
+
+ ## The Open University
+ - [http://open.ac.uk](http://open.ac.uk)
+ - date_published: 2024-07-04T08:06:02+00:00
+
+ ## The Open University
+ - [http://oro.open.ac.uk](http://oro.open.ac.uk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## The Open University
+ - [https://player.open.ac.uk](https://player.open.ac.uk)
+ - date_published: 2024-05-07T19:51:54.512196+00:00
+
+ ## Showing all 62 hot projects | Knowledge Media Institute | The Open University
+ - [http://projects.kmi.open.ac.uk](http://projects.kmi.open.ac.uk)
+ - date_published: 2024-07-01T16:47:42.904245+00:00
+
+ ## Research at The Open University
+ - [https://research.open.ac.uk](https://research.open.ac.uk)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Open University System Status
+ - [https://status.open.ac.uk](https://status.open.ac.uk)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## The Open University
+ - [https://www2.open.ac.uk](https://www2.open.ac.uk)
+ - date_published: 2024-05-07T19:51:57.209909+00:00
+
+ ## The Open University
+ - [https://www.open.ac.uk](https://www.open.ac.uk)
+ - date_published: 2024-05-01T08:03:29.837199+00:00
+
+ ## OSS Watch - independent expert advice on open source software
+ - [http://www.oss-watch.ac.uk](http://www.oss-watch.ac.uk)
+ - date_published: 2022-09-09T18:36:41+00:00
+
+ ## Home — Centre for Evidence-Based Medicine (CEBM), University of Oxford
+ - [https://046.medsci.ox.ac.uk](https://046.medsci.ox.ac.uk)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## 15cBOOKTRADE | Evidence-based assessment and visualization of the distribution, sale, and reception of 15th-century printed Books (incunabula) in the Renaissance
+ - [http://15cbooktrade.ox.ac.uk](http://15cbooktrade.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:51.177289+00:00
+
+ ## Home
+ - [https://academic.admin.ox.ac.uk](https://academic.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:37:41+00:00
+
+ ## Home
+ - [https://academic.web.ox.ac.uk](https://academic.web.ox.ac.uk)
+ - date_published: 2024-06-17T08:42:07+00:00
+
+ ## Wagtail - Sign in
+ - [https://admin.wadham.ox.ac.uk](https://admin.wadham.ox.ac.uk)
+ - date_published: 2024-06-17T18:32:58.084634+00:00
+
+ ## AIMS
+ - [https://aims.robots.ox.ac.uk](https://aims.robots.ox.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## HOME
+ - [https://alumni.ox.ac.uk](https://alumni.ox.ac.uk)
+ - date_published: 2024-06-14T09:11:41+00:00
+
+ ## Alumni & Friends - Keble College
+ - [https://anniversary.keble.ox.ac.uk](https://anniversary.keble.ox.ac.uk)
+ - date_published: 2023-09-26T00:00:00+00:00
+
+ ## Home
+ - [https://anthro.web.ox.ac.uk](https://anthro.web.ox.ac.uk)
+ - date_published: 2024-06-14T13:26:54+00:00
+
+ ## Home
+ - [https://archit.web.ox.ac.uk](https://archit.web.ox.ac.uk)
+ - date_published: 2024-06-15T17:04:59+00:00
+
+ ## Home
+ - [https://areastudies.web.ox.ac.uk](https://areastudies.web.ox.ac.uk)
+ - date_published: 2024-06-11T17:30:20+00:00
+
+ ## Welcome
+ - [https://ashmolean.web.ox.ac.uk](https://ashmolean.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:48:35+00:00
+
+ ## Ballads Online
+ - [http://ballads.bodleian.ox.ac.uk](http://ballads.bodleian.ox.ac.uk)
+ - date_published: 2024-08-11T04:57:32.834530+00:00
+
+ ## Beyond Antibiotics: A Programme Grant funded by the Engineering and Physical Sciences Research Council (EPSRC), Institute of Biomedical Engineering, University of Oxford
+ - [https://beyondantibiotics.ox.ac.uk](https://beyondantibiotics.ox.ac.uk)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home
+ - [https://blog.politics.ox.ac.uk](https://blog.politics.ox.ac.uk)
+ - date_published: 2024-06-24T07:39:08+00:00
+
+ ## Practical Ethics
+ - [https://blog.practicalethics.ox.ac.uk](https://blog.practicalethics.ox.ac.uk)
+ - date_published: 2023-10-25T22:49:17.344700+00:00
+
+ ## Bodleian Libraries blogs
+ - [https://blogs.bodleian.ox.ac.uk](https://blogs.bodleian.ox.ac.uk)
+ - date_published: 2023-12-22T21:18:28.167479+00:00
+
+ ## IT Services Blogs | thoughts from University of Oxford IT Services
+ - [https://blogs.it.ox.ac.uk](https://blogs.it.ox.ac.uk)
+ - date_published: 2024-06-17T18:19:46.475557+00:00
+
+ ## Blog Homepage | Oxford Law Blogs
+ - [https://blogs.law.ox.ac.uk](https://blogs.law.ox.ac.uk)
+ - date_published: 2024-06-17T18:23:05.336311+00:00
+
+ ## Blogs from the Museum of the History of Science - MHS Blogs
+ - [https://blogs.mhs.ox.ac.uk](https://blogs.mhs.ox.ac.uk)
+ - date_published: 2015-08-02T00:00:00+00:00
+
+ ## Index
+ - [http://blogs.some.ox.ac.uk](http://blogs.some.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:06.239818+00:00
+
+ ## Language and Brain Laboratory
+ - [http://brainlab.clp.ox.ac.uk](http://brainlab.clp.ox.ac.uk)
+ - date_published: 2024-06-17T17:19:06+00:00
+
+ ## Login to Canvas - University of Oxford
+ - [https://canvas.ox.ac.uk](https://canvas.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:06.673535+00:00
+
+ ## Home
+ - [https://chem.web.ox.ac.uk](https://chem.web.ox.ac.uk)
+ - date_published: 2024-06-17T09:04:02+00:00
+
+ ## Home
+ - [https://childcare.admin.ox.ac.uk](https://childcare.admin.ox.ac.uk)
+ - date_published: 2024-06-13T19:39:11+00:00
+
+ ## Home
+ - [https://clasoutreach.web.ox.ac.uk](https://clasoutreach.web.ox.ac.uk)
+ - date_published: 2024-06-13T20:38:41+00:00
+
+ ## Centre for Manuscript and Text Cultures
+ - [https://cmtc.queens.ox.ac.uk](https://cmtc.queens.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:51.204382+00:00
+
+ ## home
+ - [https://collegevacancies.web.ox.ac.uk](https://collegevacancies.web.ox.ac.uk)
+ - date_published: 2024-06-17T16:15:14+00:00
+
+ ## Home
+ - [https://communications.admin.ox.ac.uk](https://communications.admin.ox.ac.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home
+ - [https://compliance.admin.ox.ac.uk](https://compliance.admin.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:44.978006+00:00
+
+ ## Home
+ - [https://compliance.web.ox.ac.uk](https://compliance.web.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:09.942716+00:00
+
+ ## Keble College Oxford - Conferences, Events & Accommodation
+ - [https://conference.keble.ox.ac.uk](https://conference.keble.ox.ac.uk)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Oxford University Department for Continuing Education
+ - [https://conted.ox.ac.uk](https://conted.ox.ac.uk)
+ - date_published: 2024-06-17T18:20:09.492748+00:00
+
+ ## Home
+ - [https://core.web.ox.ac.uk](https://core.web.ox.ac.uk)
+ - date_published: 2024-06-17T15:06:24+00:00
+
+ ## IT training and digital skills
+ - [https://courses.it.ox.ac.uk](https://courses.it.ox.ac.uk)
+ - date_published: 2024-06-15T21:03:36+00:00
+
+ ## Home
+ - [https://ctl.ox.ac.uk](https://ctl.ox.ac.uk)
+ - date_published: 2024-06-11T09:42:12+00:00
+
+ ## Digital Bodleian
+ - [https://digital.bodleian.ox.ac.uk](https://digital.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:17:58.988745+00:00
+
+ ## OxDNA
+ - [https://dna.physics.ox.ac.uk](https://dna.physics.ox.ac.uk)
+ - date_published: 2024-04-25T13:25:18+00:00
+
+ ## Home
+ - [https://dspi.web.ox.ac.uk](https://dspi.web.ox.ac.uk)
+ - date_published: 2024-06-17T14:46:56+00:00
+
+ ## Home page
+ - [https://edu.admin.ox.ac.uk](https://edu.admin.ox.ac.uk)
+ - date_published: 2024-06-13T10:16:17+00:00
+
+ ## Home page
+ - [https://edu.web.ox.ac.uk](https://edu.web.ox.ac.uk)
+ - date_published: 2024-06-13T19:57:47+00:00
+
+ ## Early Modern Letters Online : Home
+ - [http://emlo.bodleian.ox.ac.uk](http://emlo.bodleian.ox.ac.uk)
+ - date_published: 2024-06-17T18:18:56.830451+00:00
+
+ ## Department of Engineering Science | University of Oxford
+ - [https://eng.ox.ac.uk](https://eng.ox.ac.uk)
+ - date_published: 2024-06-17T18:56:55.517824+00:00
+
+ ## Welcome to the Oxford DTP in Environmental Research
+ - [https://envres.web.ox.ac.uk](https://envres.web.ox.ac.uk)
+ - date_published: 2024-06-16T09:33:54+00:00
+
  ## https://eodg.atm.ox.ac.uk
  - [https://eodg.atm.ox.ac.uk](https://eodg.atm.ox.ac.uk)
  - date_published: 2024-01-09T03:48:15.383262+00:00
@@ -3777,250 +4021,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Bikesure
  - [https://www.bikesure.co.uk](https://www.bikesure.co.uk)
  - date_published: 2024-05-02T11:11:17.811483+00:00
-
- ## Home - BIM+
- - [https://www.bimplus.co.uk](https://www.bimplus.co.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Binary Moon > Ben Gillbanks
- - [https://www.binarymoon.co.uk](https://www.binarymoon.co.uk)
- - date_published: 2023-10-25T22:51:15.031956+00:00
-
- ## Binary Racks - Dedicated Servers and Cloud Hosting
- - [https://www.binaryracks.co.uk](https://www.binaryracks.co.uk)
- - date_published: 2020-03-17T20:46:19+00:00
-
- ## Binary Sun
- - [https://www.binarysun.co.uk](https://www.binarysun.co.uk)
- - date_published: 2023-11-27T08:24:13+00:00
-
- ## Binarytales
- - [https://binarytales.co.uk](https://binarytales.co.uk)
- - date_published: 2024-05-01T02:17:22.169899+00:00
-
- ## Binaural Diaries
- - [https://binauraldiaries.co.uk](https://binauraldiaries.co.uk)
- - date_published: 2024-06-22T07:01:09.201516+00:00
-
- ## Birds Eye Contact Us
- - [https://contactus.birdseye.co.uk](https://contactus.birdseye.co.uk)
- - date_published: 2023-08-07T11:12:59+00:00
-
- ## Welcome to the Birds Eye homepage
- - [https://birdseye.co.uk](https://birdseye.co.uk)
- - date_published: 2024-04-29T02:28:47.226164+00:00
-
- ## Birds Eye x Hasbro Website
- - [https://www.birdseye-freegame.co.uk](https://www.birdseye-freegame.co.uk)
- - date_published: 2024-08-06T11:12:58.239809+00:00
-
- ## Birlinn Ltd - Independent Scottish Publisher - buy books online
- - [https://birlinn.co.uk](https://birlinn.co.uk)
- - date_published: 2024-05-11T09:33:11.547683+00:00
-
- ## 500
- - [https://i2-prod.birminghammail.co.uk](https://i2-prod.birminghammail.co.uk)
- - date_published: 2024-05-02T11:14:30.190617+00:00
-
- ## The Latest News & Sport - Bishop's Stortford Independent
- - [https://www.bishopsstortfordindependent.co.uk](https://www.bishopsstortfordindependent.co.uk)
- - date_published: 2024-07-03T17:05:36+00:00
-
- ## BitCourier - 🇬🇧 UK Bitcoin News, Cryptocurrency Blog and Community
- - [http://bitcourier.co.uk](http://bitcourier.co.uk)
- - date_published: 2024-06-16T04:22:43.080050+00:00
-
- ## Bitdefender - Global Leader in Cybersecurity Software
- - [https://www.bitdefender.co.uk](https://www.bitdefender.co.uk)
- - date_published: 2024-07-20T02:26:55.506250+00:00
-
- ## High-quality retro video game books and collections | Bitmap Books
- - [https://bitmapbooks.co.uk](https://bitmapbooks.co.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Rebellion acquires The Bitmap Brothers brand and portfolio | Rebellion
- - [https://bitmap-brothers.co.uk](https://bitmap-brothers.co.uk)
- - date_published: 2019-11-25T14:05:43+00:00
- - tags: ['video game developer', 'retro games', 'bitmap brothers', 'amiga']
-
- ## Home - Bitmap Soft
- - [https://www.bitmapsoft.co.uk](https://www.bitmapsoft.co.uk)
- - date_published: 2024-07-21T03:29:21.024438+00:00
-
- ## Bizwiki | The UK Business Wiki
- - [http://www.bizwiki.co.uk](http://www.bizwiki.co.uk)
- - date_published: 2024-03-11T06:50:59+00:00
-
- ## Ben Kunne Plumbing & Heating – Across Leicestershire
- - [https://bkplumb.co.uk](https://bkplumb.co.uk)
- - date_published: 2024-06-29T19:12:52.733761+00:00
-
- ## Home Page
- - [https://customers.bks-test.co.uk](https://customers.bks-test.co.uk)
- - date_published: 2023-07-20T11:51:13+00:00
-
- ## Bus or carpool? Your pick of rides at low prices. | BlaBlaCar
- - [https://www.blablacar.co.uk](https://www.blablacar.co.uk)
- - date_published: 2024-06-15T01:00:58.708794+00:00
-
- ## Blackdog Outdoors
- - [https://www.blackdogoutdoors.co.uk](https://www.blackdogoutdoors.co.uk)
- - date_published: 2024-07-13T15:46:40+00:00
-
- ## Welcome to Battlezone Miniatures - Battlezone Miniatures
- - [http://www.blackhat.co.uk](http://www.blackhat.co.uk)
- - date_published: 2024-07-20T07:35:44.198008+00:00
-
- ## Recording Studio Southampton - Blackhill Studios
- - [https://blackhillstudios.co.uk](https://blackhillstudios.co.uk)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Blackjet games - itch.io
- - [http://blackjet.co.uk](http://blackjet.co.uk)
- - date_published: 2024-06-14T07:06:22.910857+00:00
-
- ## Black Sheep House – Winner of the 2008 Grand Designs Home of the year award
- - [https://blacksheephouse.co.uk](https://blacksheephouse.co.uk)
- - date_published: 2024-02-08T16:20:43.445901+00:00
-
- ## Blackwell's, books for life and for learning Blackwell's
- - [http://bookshop.blackwell.co.uk](http://bookshop.blackwell.co.uk)
- - date_published: 2024-06-17T20:14:24.466684+00:00
-
- ## Blackwell's
- - [https://affiliates.blackwells.co.uk](https://affiliates.blackwells.co.uk)
- - date_published: 2024-05-02T11:21:46.097882+00:00
-
- ## Blackwell's, books for life and for learning Blackwell's
- - [https://blackwells.co.uk](https://blackwells.co.uk)
- - date_published: 2023-11-24T08:14:30.224553+00:00
-
- ## Blast Theory
- - [http://www.blasttheory.co.uk](http://www.blasttheory.co.uk)
- - date_published: 2024-07-08T11:39:34+00:00
-
- ## bleach-site
- - [http://bleachlondon.co.uk](http://bleachlondon.co.uk)
- - date_published: 2024-07-13T15:55:14.676150+00:00
-
- ## Burger Restaurant | London ENG | Bleecker Burger
- - [https://www.bleecker.co.uk](https://www.bleecker.co.uk)
- - date_published: 2024-08-11T11:28:26.264020+00:00
-
- ## blogapenguinclassic.co.uk
- - [http://www.blogapenguinclassic.co.uk](http://www.blogapenguinclassic.co.uk)
- - date_published: 2024-06-24T10:18:23.243002+00:00
-
- ## one hundred and fifty one reasons
- - [http://151reasons.blogspot.co.uk](http://151reasons.blogspot.co.uk)
- - date_published: 2024-03-05T13:47:20+00:00
-
- ## 20th Century Vox
- - [http://20thcenturyvox.blogspot.co.uk](http://20thcenturyvox.blogspot.co.uk)
- - date_published: 2024-06-06T14:55:59+00:00
-
- ## Áhann Áhim
- - [http://ahannahim.blogspot.co.uk](http://ahannahim.blogspot.co.uk)
- - date_published: 2024-02-20T13:14:48+00:00
-
- ## Alabaster Mom
- - [http://alabastermom.blogspot.co.uk](http://alabastermom.blogspot.co.uk)
- - date_published: 2024-05-03T03:41:04+00:00
-
- ## Blogger
- - [http://albamatters.blogspot.co.uk](http://albamatters.blogspot.co.uk)
- - date_published: 2024-07-20T09:26:59.337012+00:00
-
- ## Alex's phonetic thoughts
- - [http://alex-ateachersthoughts.blogspot.co.uk](http://alex-ateachersthoughts.blogspot.co.uk)
- - date_published: 2024-06-27T09:08:09+00:00
-
- ## Alien Explorations
- - [http://alienexplorations.blogspot.co.uk](http://alienexplorations.blogspot.co.uk)
- - date_published: 2024-06-16T17:40:51+00:00
-
- ## Alternative Armies
- - [https://alternative-armies.blogspot.co.uk](https://alternative-armies.blogspot.co.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Because the Alternative is Unthinkable
- - [http://alternativeunthinkable.blogspot.co.uk](http://alternativeunthinkable.blogspot.co.uk)
- - date_published: 2024-03-13T10:50:26+00:00
-
- ## Amiga Gamer
- - [http://amigagamer.blogspot.co.uk](http://amigagamer.blogspot.co.uk)
- - date_published: 2024-02-21T04:45:16+00:00
-
- ## Amiga Longplay Games
- - [http://amiga-games.blogspot.co.uk](http://amiga-games.blogspot.co.uk)
- - date_published: 2024-05-16T07:13:13+00:00
-
- ## AWOL - The Ancient World Online
- - [http://ancientworldonline.blogspot.co.uk](http://ancientworldonline.blogspot.co.uk)
- - date_published: 2024-06-24T02:23:24+00:00
-
- ## The Angry Arab News Service/وكالة أنباء العربي الغاضب
- - [http://angryarab.blogspot.co.uk](http://angryarab.blogspot.co.uk)
- - date_published: 2024-04-25T18:19:10+00:00
-
- ## Art on the Grand Tour 1750-1820
- - [http://artgrandtour.blogspot.co.uk](http://artgrandtour.blogspot.co.uk)
- - date_published: 2024-03-14T08:27:50+00:00
-
- ## All That Is Solid ...
- - [http://averypublicsociologist.blogspot.co.uk](http://averypublicsociologist.blogspot.co.uk)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Battleshed Diaries
- - [https://battlesheddiaries.blogspot.co.uk](https://battlesheddiaries.blogspot.co.uk)
- - date_published: 2024-05-07T15:16:23.100614+00:00
- - tags: ['personal']
-
- ## Becki Percy Blogs
- - [https://beckipercy.blogspot.co.uk](https://beckipercy.blogspot.co.uk)
- - date_published: 2024-02-21T03:03:43+00:00
-
- ## BLDGBLOG
- - [http://bldgblog.blogspot.co.uk](http://bldgblog.blogspot.co.uk)
- - date_published: 2024-06-06T18:27:25+00:00
-
- ## Bleaseworld
- - [http://bleaseworld.blogspot.co.uk](http://bleaseworld.blogspot.co.uk)
- - date_published: 2024-07-13T07:05:10+00:00
-
- ## Blue's Marauding Miniatures
- - [http://bluesmarauders.blogspot.co.uk](http://bluesmarauders.blogspot.co.uk)
- - date_published: 2024-07-06T12:48:03+00:00
-
- ## Byte Rot
- - [http://byterot.blogspot.co.uk](http://byterot.blogspot.co.uk)
- - date_published: 2024-05-20T09:14:16+00:00
-
- ## Cache Invalidation and Naming Things
- - [https://cacheinvalidation.blogspot.co.uk](https://cacheinvalidation.blogspot.co.uk)
- - date_published: 2023-06-20T12:52:09+00:00
-
- ## The Lands of Ara
- - [http://carterscartopia.blogspot.co.uk](http://carterscartopia.blogspot.co.uk)
- - date_published: 2024-07-19T12:34:44+00:00
-
- ## Charwood Farm
- - [http://charwoodfarm.blogspot.co.uk](http://charwoodfarm.blogspot.co.uk)
- - date_published: 2024-02-20T13:21:27+00:00
-
- ## Circling Squares
- - [http://circlingsquares.blogspot.co.uk](http://circlingsquares.blogspot.co.uk)
- - date_published: 2024-03-13T14:53:31+00:00
-
- ## Ewal Dvergar
- - [http://claminiatures.blogspot.co.uk](http://claminiatures.blogspot.co.uk)
- - date_published: 2024-05-30T09:49:46+00:00
-
- ## Oldhammer 40k
- - [http://classicastartes.blogspot.co.uk](http://classicastartes.blogspot.co.uk)
- - date_published: 2024-07-04T05:33:06+00:00
-
- ## ICA
- - [http://combinatoricsinstitute.blogspot.co.uk](http://combinatoricsinstitute.blogspot.co.uk)
- - date_published: 2024-06-27T13:02:32+00:00
 

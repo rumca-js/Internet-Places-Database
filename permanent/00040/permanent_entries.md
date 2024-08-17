@@ -1,3 +1,35 @@
+ ## arighi's blog
+ - [https://arighi.blogspot.com](https://arighi.blogspot.com)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## LOTD - Arjay's Land of the Diminutive
+ - [http://arjayslotd.blogspot.com](http://arjayslotd.blogspot.com)
+ - date_published: 2024-03-13T13:41:22+00:00
+
+ ## ARRA News Service
+ - [http://arkansasgopwing.blogspot.com](http://arkansasgopwing.blogspot.com)
+ - date_published: 2024-06-09T05:45:15+00:00
+
+ ## Arkansas Typewriter
+ - [https://arkansastypewriter.blogspot.com](https://arkansastypewriter.blogspot.com)
+ - date_published: 2023-11-07T00:00:00+00:00
+
+ ## A R M A N D   S E R R A N O
+ - [http://armandserrano.blogspot.com](http://armandserrano.blogspot.com)
+ - date_published: 2024-07-13T06:05:39+00:00
+
+ ## Armchair Gamer
+ - [https://armchairgamer.blogspot.com](https://armchairgamer.blogspot.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## The Art of Armchair Warfare
+ - [http://armchairwarfare.blogspot.com](http://armchairwarfare.blogspot.com)
+ - date_published: 2024-04-17T03:38:31+00:00
+
+ ## Armed and Safe
+ - [https://armedandsafe.blogspot.com](https://armedandsafe.blogspot.com)
+ - date_published: 2024-05-08T04:21:49.898503+00:00
+
  ## Armed Citizen
  - [http://armedandunited.blogspot.com](http://armedandunited.blogspot.com)
  - date_published: 2024-06-30T20:15:53+00:00
@@ -3990,37 +4022,4 @@
  ## LibreOffice - Calc Performance Improvements
  - [http://dbank-libreoffice.blogspot.com](http://dbank-libreoffice.blogspot.com)
  - date_published: 2024-06-18T13:28:43+00:00
-
- ## Darkblade's Quest
- - [http://db-dwarf-quest.blogspot.com](http://db-dwarf-quest.blogspot.com)
- - date_published: 2024-07-13T06:27:50+00:00
-
- ## DBMS Musings
- - [https://dbmsmusings.blogspot.com](https://dbmsmusings.blogspot.com)
- - date_published: 2023-10-25T09:08:13.440905+00:00
- - tags: ['personal']
-
- ## SOXBLOG
- - [http://dbsoxblog.blogspot.com](http://dbsoxblog.blogspot.com)
- - date_published: 2024-03-14T07:57:50+00:00
-
- ## Twin methods in OpenMx
- - [https://dbtemp.blogspot.com](https://dbtemp.blogspot.com)
- - date_published: 2023-11-19T21:54:21.568274+00:00
-
- ## 20011
- - [https://dc20011.blogspot.com](https://dc20011.blogspot.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Blogger
- - [http://dclawstudent.blogspot.com](http://dclawstudent.blogspot.com)
- - date_published: 2024-07-13T10:09:30.912137+00:00
-
- ## Dirty Damn Filthy Damn Atheist!
- - [http://ddfda.blogspot.com](http://ddfda.blogspot.com)
- - date_published: 2024-02-07T02:35:19+00:00
-
- ## The Dead Horse Times
- - [http://deadhorsetimes.blogspot.com](http://deadhorsetimes.blogspot.com)
- - date_published: 2024-05-19T03:09:03+00:00
 

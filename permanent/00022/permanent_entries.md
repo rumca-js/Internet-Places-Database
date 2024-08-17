@@ -1,3 +1,31 @@
+ ## Claper - The ultimate tool to interact with your audience
+ - [https://claper.co](https://claper.co)
+ - date_published: 2024-06-19T22:13:59.035752+00:00
+
+ ## Clario — Cyber Security & Online Privacy Protection Software.
+ - [https://clario.co](https://clario.co)
+ - date_published: 2024-06-23T07:13:28.680879+00:00
+
+ ## Clarity AI | #1 AI Image Upscaler & Enhancer - API and ComfyUI Support - Magnific Alternative
+ - [https://clarityai.co](https://clarityai.co)
+ - date_published: 2024-06-19T15:06:08+00:00
+
+ ## Clean Energy Revolution - Clean energy news about solar, electric vehicles and battery storage
+ - [https://cleanenergyrevolution.co](https://cleanenergyrevolution.co)
+ - date_published: 2023-10-25T12:17:29.597536+00:00
+
+ ## Cleanview — See the Energy Transition in Real-Time
+ - [https://cleanview.co](https://cleanview.co)
+ - date_published: 2024-07-08T09:14:33.045288+00:00
+
+ ## Clearco | Ecommerce Funding For Invoices and Receipts
+ - [https://clear.co](https://clear.co)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## clickcease.co is almost here!
+ - [https://www.clickcease.co](https://www.clickcease.co)
+ - date_published: 2024-05-03T19:36:38+00:00
+
  ## Online Documentation Portal
  - [https://lumatouch.clickhelp.co](https://lumatouch.clickhelp.co)
  - date_published: 2024-05-20T00:00:00+00:00
@@ -4011,32 +4039,4 @@ It’s what you do.
  ## TBR: Tailored Book Recommendations | A Book Subscription Service
  - [https://mytbr.co](https://mytbr.co)
  - date_published: 2024-05-08T03:14:15.171921+00:00
-
- ## Nightride FM
- - [https://nightridefm.myteespring.co](https://nightridefm.myteespring.co)
- - date_published: 2024-07-19T23:18:35.820882+00:00
-
- ## STH Merch Shop
- - [https://the-sth-merch-shop.myteespring.co](https://the-sth-merch-shop.myteespring.co)
- - date_published: 2024-08-08T17:06:52.728306+00:00
-
- ## Nabeel S. Qureshi
- - [https://nabeelqu.co](https://nabeelqu.co)
- - date_published: 2024-01-20T19:20:52.169397+00:00
-
- ## Nametag
- - [https://console.nametag.co](https://console.nametag.co)
- - date_published: 2024-07-14T04:46:13.088139+00:00
-
- ## Nametag: Identity Verification for Helpdesks
- - [https://hello.nametag.co](https://hello.nametag.co)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Nametag
- - [http://status.nametag.co](http://status.nametag.co)
- - date_published: 2024-07-14T04:46:12.167076+00:00
-
- ## Nano Fund
- - [https://nanohq.co](https://nanohq.co)
- - date_published: 2024-06-28T11:03:50.459428+00:00
 

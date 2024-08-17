@@ -1,3 +1,31 @@
+ ## 浙江大学研究生院
+ - [http://www.grs.zju.edu.cn](http://www.grs.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:47.511082+00:00
+
+ ## 浙江大学面向2030的学科会聚研究计划
+ - [http://www.innovation2030.zju.edu.cn](http://www.innovation2030.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:36.532564+00:00
+
+ ## 工业技术转化研究院
+ - [http://www.itt.zju.edu.cn](http://www.itt.zju.edu.cn)
+ - date_published: 2024-06-18T11:57:50.557833+00:00
+
+ ## 浙江大学：求是新闻网
+ - [http://www.news.zju.edu.cn](http://www.news.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:16.829569+00:00
+
+ ## 浙江大学
+ - [https://www.zju.edu.cn](https://www.zju.edu.cn)
+ - date_published: 2024-05-02T12:42:35.932616+00:00
+
+ ## 浙江大学校史馆
+ - [https://xsg.zju.edu.cn](https://xsg.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:41.817697+00:00
+
+ ## 浙大服务平台
+ - [http://xwfw.zju.edu.cn](http://xwfw.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:54.698300+00:00
+
  ## 浙江大学本科招生网
  - [https://zdzsc.zju.edu.cn](https://zdzsc.zju.edu.cn)
  - date_published: 2024-06-18T11:56:50.872140+00:00
@@ -3974,32 +4002,4 @@
  ## 陕西省退役军人事务厅
  - [http://dva.shaanxi.gov.cn](http://dva.shaanxi.gov.cn)
  - date_published: 2024-06-11T11:50:39+00:00
-
- ## 陕西省广播电视局
- - [http://gdj.shaanxi.gov.cn](http://gdj.shaanxi.gov.cn)
- - date_published: 2024-06-28T00:47:53+00:00
-
- ## 首页 - 陕西省工业和信息化厅
- - [http://gxt.shaanxi.gov.cn](http://gxt.shaanxi.gov.cn)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## 陕西省粮食和物资储备局
- - [http://lswz.shaanxi.gov.cn](http://lswz.shaanxi.gov.cn)
- - date_published: 2024-06-30T13:22:30.857176+00:00
-
- ## 陕西省林业局
- - [http://lyj.shaanxi.gov.cn](http://lyj.shaanxi.gov.cn)
- - date_published: 2024-06-30T22:59:15.568224+00:00
-
- ## 陕西省民族宗教事务委员会
- - [http://mzzj.shaanxi.gov.cn](http://mzzj.shaanxi.gov.cn)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 陕西省农业农村厅门户网站
- - [http://nynct.shaanxi.gov.cn](http://nynct.shaanxi.gov.cn)
- - date_published: 2024-06-29T11:51:49+00:00
-
- ## 陕西省司法厅
- - [http://sft.shaanxi.gov.cn](http://sft.shaanxi.gov.cn)
- - date_published: 2024-06-08T00:00:00+00:00
 

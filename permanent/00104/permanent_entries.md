@@ -1,3 +1,67 @@
+ ## Magic Toolbox: Image Zoom Plugins, 360 Spin & Slideshow
+ - [https://magictoolbox.com](https://magictoolbox.com)
+ - date_published: 2024-04-28T00:27:29.610272+00:00
+
+ ## magicvalley.com | Read Twin Falls, ID and Idaho breaking news. Get latest news, events and information on Idaho sports, weather, entertainment and lifestyles.
+ - [https://magicvalley.com](https://magicvalley.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Magik*Magik
+ - [http://magikmagik.com](http://magikmagik.com)
+ - date_published: 2024-06-23T12:43:52.742055+00:00
+
+ ## Maginative
+ - [https://www.maginative.com](https://www.maginative.com)
+ - date_published: 2024-02-18T18:22:36.600888+00:00
+
+ ## Magiran | بانک اطلاعات نشریات کشور
+ - [https://www.magiran.com](https://www.magiran.com)
+ - date_published: 2024-07-09T21:17:15.979567+00:00
+
+ ## Marc-Andre Giroux's Blog
+ - [https://www.magiroux.com](https://www.magiroux.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Magisterium AI
+ - [https://www.magisterium.com](https://www.magisterium.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## MagiStream - Welcome to MagiStream!
+ - [https://magistream.com](https://magistream.com)
+ - date_published: 2024-07-10T10:02:35.231659+00:00
+
+ ## Caricature is fun - cliparts images & drawing tools
+ - [http://www.magixl.com](http://www.magixl.com)
+ - date_published: 2024-07-04T14:19:37.128171+00:00
+
+ ## magLabs | Home
+ - [https://www.maglabsdigital.com](https://www.maglabsdigital.com)
+ - date_published: 2023-11-21T10:59:32+00:00
+
+ ## Collaborative Art Software: Draw Together on Magma
+ - [https://magma.com](https://magma.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Magma Partners | Investing in Latin America's top founders
+ - [https://magmapartners.com](https://magmapartners.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## MAGMA Mentor
+ - [https://magmatutor.com](https://magmatutor.com)
+ - date_published: 2024-06-19T15:41:46+00:00
+
+ ## Jobs at Magna
+ - [https://jobs.magna.com](https://jobs.magna.com)
+ - date_published: 2024-07-12T07:22:50.671494+00:00
+
+ ## Magna International - Forward. For all.
+ - [https://www.magna.com](https://www.magna.com)
+ - date_published: 2024-07-12T07:05:26+00:00
+
+ ## Home 2022
+ - [https://www.magnapubs.com](https://www.magnapubs.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
  ## Magnatune: a music service that isn't evil
  - [http://magnatune.com](http://magnatune.com)
  - date_published: 2024-05-27T00:00:00+00:00
@@ -3984,70 +4048,4 @@
  ## Mark Andrew Holmes's Personal Web Page
  - [http://markandrewholmes.com](http://markandrewholmes.com)
  - date_published: 2024-07-01T17:28:36+00:00
-
- ## Book Your Stay at Marka ApartHotel - Best Rates
- - [https://markaparthotel.com](https://markaparthotel.com)
- - date_published: 2024-08-07T21:29:22.351427+00:00
-
- ## Mark Arax - Mark Arax | Award-Winning Journalist & Author
- - [https://mark-arax.com](https://mark-arax.com)
- - date_published: 2021-06-17T00:00:00+00:00
-
- ## Mark A. R. Kleiman
- - [http://www.markarkleiman.com](http://www.markarkleiman.com)
- - date_published: 2022-11-23T07:24:27+00:00
-
- ## Mark A Saurus - A Blog To Make You Knowledgeable On Technologies
- - [https://markasaurus.com](https://markasaurus.com)
- - date_published: 2024-06-28T13:26:35.358624+00:00
-
- ## Mark Bajerski - Pure Energy Healing Academy
- - [https://www.markbajerski.com](https://www.markbajerski.com)
- - date_published: 2024-06-15T08:47:59.655243+00:00
-
- ## Mark Binder – Author, Storyteller, Nice Guy – Website Got Hacked — we're fixing it slowly
- - [https://classic.markbinder.com](https://classic.markbinder.com)
- - date_published: 2024-05-06T20:16:44.951525+00:00
-
- ## Mark Binder author storyteller nice guy books audiobook
- - [https://markbinderbooks.com](https://markbinderbooks.com)
- - date_published: 2024-05-06T20:16:42.760554+00:00
-
- ## Mark Bohle
- - [http://www.markbohle.com](http://www.markbohle.com)
- - date_published: 2024-07-13T16:14:08.129190+00:00
-
- ## Mark Bolding
- - [https://markbolding.com](https://markbolding.com)
- - date_published: 2024-08-07T20:42:09.325782+00:00
-
- ## Mark Bould
- - [https://markbould.com](https://markbould.com)
- - date_published: 2024-06-20T00:56:20+00:00
-
- ## Mark Brownsword
- - [https://markbrownsword.com](https://markbrownsword.com)
- - date_published: 2024-06-19T23:38:45+00:00
-
- ## MarkCK's Website of Weird and Wondermous Projects
- - [https://markck.com](https://markck.com)
- - date_published: 2022-12-15T22:10:56+00:00
-
- ## Mark C Newton
- - [https://markcnewton.com](https://markcnewton.com)
- - date_published: 2024-05-08T06:33:46.232328+00:00
-
- ## Mark Copeman - Helpdesk Habits author, event host & video presenter
- - [https://markcopeman.com](https://markcopeman.com)
- - date_published: 2024-02-26T08:58:10.308994+00:00
- - tags: ['personal']
-
- ## Home – 2
- - [https://markdalessandro.com](https://markdalessandro.com)
- - date_published: 2023-11-29T16:18:35.576321+00:00
- - tags: ['personal']
-
- ## Mark Dalgleish
- - [https://markdalgleish.com](https://markdalgleish.com)
- - date_published: 2013-11-19T03:02:39+00:00
 

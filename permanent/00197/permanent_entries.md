@@ -1,3 +1,143 @@
+ ## CMSRU | Cooper Medical School | Rowan University
+ - [https://cmsru.rowan.edu](https://cmsru.rowan.edu)
+ - date_published: 2024-05-07T20:08:17.363480+00:00
+
+ ## Dashboard - Confluence
+ - [https://confluence.rowan.edu](https://confluence.rowan.edu)
+ - date_published: 2024-07-01T18:26:44.359707+00:00
+
+ ## Rowan University | Directory
+ - [https://directory.rowan.edu](https://directory.rowan.edu)
+ - date_published: 2024-07-01T02:13:13.964323+00:00
+
+ ## Home | Rowan University
+ - [https://global.rowan.edu](https://global.rowan.edu)
+ - date_published: 2024-05-07T20:08:05.773511+00:00
+
+ ## Login - Rowan University - Single Sign-On
+ - [https://go.rowan.edu](https://go.rowan.edu)
+ - date_published: 2024-07-01T18:25:36.646495+00:00
+
+ ## Information Resources & Technology
+ - [https://irt.rowan.edu](https://irt.rowan.edu)
+ - date_published: 2024-05-07T20:08:15.582362+00:00
+
+ ## Rowan HR - Recent Jobs
+ - [https://jobs.rowan.edu](https://jobs.rowan.edu)
+ - date_published: 2024-07-01T02:13:17.031678+00:00
+
+ ## Login - Rowan University - Single Sign-On
+ - [http://mail.students.rowan.edu](http://mail.students.rowan.edu)
+ - date_published: 2024-07-01T18:25:30.689461+00:00
+
+ ## myRowan
+ - [https://my.rowan.edu](https://my.rowan.edu)
+ - date_published: 2024-05-07T20:08:18.656384+00:00
+
+ ## Login - NetID
+ - [https://netid.rowan.edu](https://netid.rowan.edu)
+ - date_published: 2024-07-01T18:25:13.098501+00:00
+
+ ## Rowan Online Home | Rowan University
+ - [https://online.rowan.edu](https://online.rowan.edu)
+ - date_published: 2024-06-05T17:10:08+00:00
+
+ ## Outlook
+ - [http://outlook.rowan.edu](http://outlook.rowan.edu)
+ - date_published: 2024-07-01T18:25:26.870471+00:00
+
+ ## Rowan Research & Innovation | Rowan Research | Rowan University
+ - [https://research.rowan.edu](https://research.rowan.edu)
+ - date_published: 2024-05-07T20:08:02.033916+00:00
+
+ ## Shreiber School of Veterinary Medicine | Rowan University
+ - [https://rsvm.rowan.edu](https://rsvm.rowan.edu)
+ - date_published: 2024-06-05T17:22:03+00:00
+
+ ## Shared Page
+ - [https://sites.rowan.edu](https://sites.rowan.edu)
+ - date_published: 2023-01-27T20:07:41+00:00
+
+ ## Home | Virtua Health College of Medicine & Life Sciences | Rowan University
+ - [https://snhp.rowan.edu](https://snhp.rowan.edu)
+ - date_published: 2024-06-05T17:14:50+00:00
+
+ ## Shreiber School of Veterinary Medicine | Rowan University
+ - [https://svm.rowan.edu](https://svm.rowan.edu)
+ - date_published: 2024-05-07T20:08:07.301537+00:00
+
+ ## Rowan Today | Rowan University
+ - [https://today.rowan.edu](https://today.rowan.edu)
+ - date_published: 2023-10-25T18:57:18.671620+00:00
+
+ ## Rowan University
+ - [https://view.rowan.edu](https://view.rowan.edu)
+ - date_published: 2024-07-01T18:24:58.609123+00:00
+
+ ## WGLS Home | WGLS | Rowan University
+ - [https://wgls.rowan.edu](https://wgls.rowan.edu)
+ - date_published: 2024-05-07T20:08:10.825793+00:00
+
+ ## Home Page
+ - [https://www.alumni.rowan.edu](https://www.alumni.rowan.edu)
+ - date_published: 2024-05-07T20:08:22.573107+00:00
+
+ ## Rowan University Libraries
+ - [https://www.lib.rowan.edu](https://www.lib.rowan.edu)
+ - date_published: 2024-07-01T16:33:28+00:00
+
+ ## Home
+ - [https://rowan.edu](https://rowan.edu)
+ - date_published: 2024-05-07T20:07:59.132868+00:00
+
+ ## Martin A. Schmidt '81, Ph.D. | Rensselaer Polytechnic Institute
+ - [https://19thpresident.rpi.edu](https://19thpresident.rpi.edu)
+ - date_published: 2024-07-01T17:56:33+00:00
+
+ ## Admissions | Admissions
+ - [http://admissions.rpi.edu](http://admissions.rpi.edu)
+ - date_published: 2024-07-01T18:27:24.927269+00:00
+
+ ## HelioCampus
+ - [https://aefis.rpi.edu](https://aefis.rpi.edu)
+ - date_published: 2024-07-01T18:29:04.170481+00:00
+
+ ## home | Artificial Intelligence Research Collaboration
+ - [https://airc.rpi.edu](https://airc.rpi.edu)
+ - date_published: 2024-07-11T12:41:33+00:00
+
+ ## RPI Alerts
+ - [https://alert.rpi.edu](https://alert.rpi.edu)
+ - date_published: 2024-07-01T18:29:16.586109+00:00
+
+ ## Alumni Home Page
+ - [https://alumni.rpi.edu](https://alumni.rpi.edu)
+ - date_published: 2024-07-01T18:27:56.244685+00:00
+
+ ## Rensselaer | Architecture
+ - [https://arch.rpi.edu](https://arch.rpi.edu)
+ - date_published: 2024-07-01T18:28:38.400105+00:00
+
+ ## Recent Jobs - RPI Jobs
+ - [https://careers.rpi.edu](https://careers.rpi.edu)
+ - date_published: 2024-07-01T18:29:41.633421+00:00
+
+ ## Rensselaer Polytechnic Institute - Modern Campus Catalog™
+ - [http://catalog.rpi.edu](http://catalog.rpi.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Career and Professional Development | Rensselaer Polytechnic Institute
+ - [https://ccpd.rpi.edu](https://ccpd.rpi.edu)
+ - date_published: 2024-07-01T17:10:56+00:00
+
+ ## Collegiate Store | RPI INFO
+ - [http://collegiatestore.rpi.edu](http://collegiatestore.rpi.edu)
+ - date_published: 2024-07-01T18:29:25.799341+00:00
+
+ ## Bicentennial Commencement 2024 | Rensselaer Polytechnic Institute
+ - [https://commencement.rpi.edu](https://commencement.rpi.edu)
+ - date_published: 2024-07-01T14:02:52+00:00
+
  ## Campus Directory | Rensselaer Polytechnic Institute
  - [https://directory.rpi.edu](https://directory.rpi.edu)
  - date_published: 2024-07-01T18:29:10.735930+00:00
@@ -3867,144 +4007,4 @@
  ## Turn Passion into Purpose at St. John's University | New York, NY
  - [https://www.stjohns.edu](https://www.stjohns.edu)
  - date_published: 2024-05-08T12:19:09.769369+00:00
-
- ## Home - St. John's College
- - [https://community.stjohnscollege.edu](https://community.stjohnscollege.edu)
- - date_published: 2024-05-07T20:24:54.452245+00:00
-
- ## Admissions & Aid
- - [https://apply.stlawu.edu](https://apply.stlawu.edu)
- - date_published: 2024-07-07T22:01:39+00:00
-
- ## St. Lawrence University
- - [https://student.stlawu.edu](https://student.stlawu.edu)
- - date_published: 2024-07-07T18:57:43+00:00
-
- ## St. Lawrence University
- - [https://stlawu.edu](https://stlawu.edu)
- - date_published: 2024-05-08T10:52:04.996530+00:00
-
- ## A House of Priestly Formation and Theological Education | St. Mary Seminary
- - [https://stmarysem.edu](https://stmarysem.edu)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Home | Cybersecurity
- - [https://cybersecurity.stonybrook.edu](https://cybersecurity.stonybrook.edu)
- - date_published: 2024-08-05T20:38:51.873529+00:00
-
- ## Stony Brook University
- - [http://go.stonybrook.edu](http://go.stonybrook.edu)
- - date_published: 2024-08-05T20:38:54.118097+00:00
-
- ## Home
- - [https://help.stonybrook.edu](https://help.stonybrook.edu)
- - date_published: 2024-08-05T20:38:55.678700+00:00
-
- ## Beyond IT | Division of Information Technology
- - [https://it.stonybrook.edu](https://it.stonybrook.edu)
- - date_published: 2024-04-29T04:27:23.123828+00:00
-
- ## lcpc2020.cs.stonybrook.edu
- - [https://lcpc2020.cs.stonybrook.edu](https://lcpc2020.cs.stonybrook.edu)
- - date_published: 2024-05-07T21:17:03.219784+00:00
-
- ## Home - SBU News Home
- - [https://news.stonybrook.edu](https://news.stonybrook.edu)
- - date_published: 2018-03-30T20:15:25+00:00
-
- ## SCGP – Simons Center for Geometry and Physics
- - [http://scgp.stonybrook.edu](http://scgp.stonybrook.edu)
- - date_published: 2024-06-30T08:24:58.486633+00:00
-
- ## Untitled
- - [http://www3.cs.stonybrook.edu](http://www3.cs.stonybrook.edu)
- - date_published: 2022-05-24T22:11:37+00:00
-
- ## HOME | Department of Computer Science
- - [http://www.cs.stonybrook.edu](http://www.cs.stonybrook.edu)
- - date_published: 2024-06-23T20:38:28.319548+00:00
-
- ## The School of Marine and Atmospheric Sciences | School of Marine and Atmospheric Sciences
- - [https://www.somas.stonybrook.edu](https://www.somas.stonybrook.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Stony Brook University
- - [https://www.stonybrook.edu](https://www.stonybrook.edu)
- - date_published: 2024-06-14T23:31:13.879086+00:00
-
- ## DrizzlePac
- - [http://drizzlepac.stsci.edu](http://drizzlepac.stsci.edu)
- - date_published: 2024-07-04T18:28:08.732465+00:00
-
- ## ETC
- - [http://etc.stsci.edu](http://etc.stsci.edu)
- - date_published: 2024-07-04T18:28:25.497253+00:00
-
- ## Welcome to the Hubble Legacy Archive
- - [https://hla.stsci.edu](https://hla.stsci.edu)
- - date_published: 2022-03-19T00:00:00+00:00
-
- ## HST Calibration Reference Data System (CRDS)
- - [https://hst-crds.stsci.edu](https://hst-crds.stsci.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## HST User Documentation - HDox - HST User Documentation
- - [https://hst-docs.stsci.edu](https://hst-docs.stsci.edu)
- - date_published: 2024-07-04T18:28:02.761667+00:00
-
- ## STScI | Mikulski Archive for Space Telescopes (MAST) Portal
- - [https://mast.stsci.edu](https://mast.stsci.edu)
- - date_published: 2023-04-27T14:29:45+00:00
-
- ## Site Home - STScI Outerspace
- - [https://outerspace.stsci.edu](https://outerspace.stsci.edu)
- - date_published: 2024-08-11T15:11:00.913057+00:00
-
- ## Welcome to the Proposal/Person (ProPer) Application
- - [https://proper.stsci.edu](https://proper.stsci.edu)
- - date_published: 2024-07-04T18:28:27.260804+00:00
-
- ## ULLYSES Project
- - [https://ullyses.stsci.edu](https://ullyses.stsci.edu)
- - date_published: 2023-03-20T22:24:53+00:00
-
- ## Home
- - [https://stsci.edu](https://stsci.edu)
- - date_published: 2024-05-08T07:32:42.863208+00:00
-
- ## Site Directory - UST Sites & Blogs - Be Bold
- - [https://blogs.stthom.edu](https://blogs.stthom.edu)
- - date_published: 2024-07-01T20:42:46.896605+00:00
-
- ## Homepage - UST IT
- - [https://it.stthom.edu](https://it.stthom.edu)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## University of St. Thomas | Catholic University Houston, Tx
- - [https://myust.stthom.edu](https://myust.stthom.edu)
- - date_published: 2024-07-01T20:42:49.753066+00:00
-
- ## News and Success Stories | University of St. Thomas Houston
- - [https://news.stthom.edu](https://news.stthom.edu)
- - date_published: 2024-02-08T17:00:17.906342+00:00
-
- ## University of St. Thomas | Catholic University Houston, Tx
- - [https://stthom.edu](https://stthom.edu)
- - date_published: 2024-05-07T20:32:15.546670+00:00
-
- ## Opus College of Business
- - [https://business.stthomas.edu](https://business.stthomas.edu)
- - date_published: 2024-08-06T17:00:53+00:00
-
- ## College of Arts and Sciences
- - [https://cas.stthomas.edu](https://cas.stthomas.edu)
- - date_published: 2024-08-06T17:00:11+00:00
-
- ## School of Education | University of St. Thomas – Minnesota
- - [https://education.stthomas.edu](https://education.stthomas.edu)
- - date_published: 2024-04-28T06:23:18.311929+00:00
-
- ## Give to St. Thomas
- - [https://give.stthomas.edu](https://give.stthomas.edu)
- - date_published: 2024-07-10T13:38:02+00:00
 

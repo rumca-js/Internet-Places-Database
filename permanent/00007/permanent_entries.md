@@ -1,3 +1,7 @@
+ ## Signature Media
+ - [https://www.signaturemedia.com.au](https://www.signaturemedia.com.au)
+ - date_published: 2024-06-21T10:09:28.362374+00:00
+
  ## Home - Silver Trak Digital
  - [https://www.silvertrak.com.au](https://www.silvertrak.com.au)
  - date_published: 2024-06-16T00:00:00+00:00
@@ -4013,8 +4017,4 @@
  ## Funkwhale design component library | Funkwhale Vue Components
  - [https://ui.funkwhale.audio](https://ui.funkwhale.audio)
  - date_published: 2024-05-25T03:52:57+00:00
-
- ## Gilded Audio
- - [https://www.gilded.audio](https://www.gilded.audio)
- - date_published: 2024-07-13T03:47:22.393440+00:00
 

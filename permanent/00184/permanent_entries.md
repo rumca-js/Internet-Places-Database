@@ -1,3 +1,135 @@
+ ## Universität Passau
+ - [https://www.uni-passau.de](https://www.uni-passau.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.uni-potsdam.de](https://www.uni-potsdam.de)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Zeitschriftenliste nach Fachgebiet | Elektronische Zeitschriftenbibliothek
+ - [https://ezb.uni-regensburg.de](https://ezb.uni-regensburg.de)
+ - date_published: 2024-07-09T20:12:59.765398+00:00
+
+ ## DBIS: Fachübersicht
+ - [http://rzblx10.uni-regensburg.de](http://rzblx10.uni-regensburg.de)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Startseite - Universität Regensburg
+ - [http://www.uni-regensburg.de](http://www.uni-regensburg.de)
+ - date_published: 2024-06-30T08:50:44.797493+00:00
+
+ ## Fachschaftsrat der Informatikstudiengänge – der Universität des Saarlandes
+ - [https://cs.fs.uni-saarland.de](https://cs.fs.uni-saarland.de)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Studium - Saarland Informatics Campus
+ - [https://cs.uni-saarland.de](https://cs.uni-saarland.de)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## CVMP  Lab – Computer Vision and Machine Perception Lab
+ - [https://cvmp.cs.uni-saarland.de](https://cvmp.cs.uni-saarland.de)
+ - date_published: 2024-06-22T07:32:37.880445+00:00
+
+ ## Cybersecurity in Saarbruecken, Germany
+ - [https://cysec.uni-saarland.de](https://cysec.uni-saarland.de)
+ - date_published: 2024-05-10T07:11:14+00:00
+
+ ## Real-Time and Embedded Systems Lab
+ - [http://embedded.cs.uni-saarland.de](http://embedded.cs.uni-saarland.de)
+ - date_published: 2024-06-30T02:59:27.239414+00:00
+
+ ## Sign in - Matomo
+ - [https://epica.cs.uni-saarland.de](https://epica.cs.uni-saarland.de)
+ - date_published: 2024-06-30T02:59:29.480579+00:00
+
+ ## Home - Human Computer Interaction Lab, Saarland University HCI Lab Saarland
+ - [https://hci.cs.uni-saarland.de](https://hci.cs.uni-saarland.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Online Application for Ph.D./M.Sc. Programs
+ - [https://oas.cs.uni-saarland.de](https://oas.cs.uni-saarland.de)
+ - date_published: 2024-07-24T06:00:38.519988+00:00
+
+ ## Cluster of Excellence | Multimodal Computing and Interaction
+ - [http://people.mmci.uni-saarland.de](http://people.mmci.uni-saarland.de)
+ - date_published: 2014-04-02T00:00:00+00:00
+
+ ## Willkommen am Saarland Informatics Campus in Saarbrücken
+ - [http://www.intel-vci.uni-saarland.de](http://www.intel-vci.uni-saarland.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Startseite
+ - [http://www.lmt.uni-saarland.de](http://www.lmt.uni-saarland.de)
+ - date_published: 2024-07-08T09:36:01+00:00
+
+ ## Cluster of Excellence | Multimodal Computing and Interaction
+ - [https://www.mmci.uni-saarland.de](https://www.mmci.uni-saarland.de)
+ - date_published: 2014-04-02T00:00:00+00:00
+
+ ## Programming Systems Lab
+ - [http://www.ps.uni-saarland.de](http://www.ps.uni-saarland.de)
+ - date_published: 2024-07-07T04:09:00.874669+00:00
+
+ ## Lehrstuhl für Softwaretechnik (Prof. Zeller) - Universität des Saarlandes
+ - [http://www.st.cs.uni-saarland.de](http://www.st.cs.uni-saarland.de)
+ - date_published: 2021-04-09T12:37:48+00:00
+
+ ## Universität des Saarlandes
+ - [https://www.uni-saarland.de](https://www.uni-saarland.de)
+ - date_published: 2024-07-07T04:15:13.740283+00:00
+
+ ## Zentrum für Bioinformatik
+ - [http://zbi-www.bioinf.uni-sb.de](http://zbi-www.bioinf.uni-sb.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Shop der Universität Stuttgart
+ - [https://unishop-stuttgart.de](https://unishop-stuttgart.de)
+ - date_published: 2024-04-29T07:01:22.474393+00:00
+
+ ## Shop der Universität Vechta
+ - [https://unishop-vechta.de](https://unishop-vechta.de)
+ - date_published: 2024-07-04T13:17:39.917806+00:00
+
+ ## HOME
+ - [https://www.unishop-wuppertal.de](https://www.unishop-wuppertal.de)
+ - date_published: 2024-07-02T17:47:59.803048+00:00
+
+ ## Department Elektrotechnik und Informatik | Department Elektrotechnik und Informatik (Dekanat)
+ - [https://www.eti.uni-siegen.de](https://www.eti.uni-siegen.de)
+ - date_published: 2008-07-25T00:00:00+00:00
+
+ ## SFB 1187 – Medien der Kooperation
+ - [https://www.mediacoop.uni-siegen.de](https://www.mediacoop.uni-siegen.de)
+ - date_published: 2024-07-11T12:56:34.102506+00:00
+
+ ## The bitsavers main page
+ - [http://bitsavers.informatik.uni-stuttgart.de](http://bitsavers.informatik.uni-stuttgart.de)
+ - date_published: 2024-04-19T20:05:34+00:00
+
+ ## Loading
+ - [https://campus.uni-stuttgart.de](https://campus.uni-stuttgart.de)
+ - date_published: 2024-07-01T10:11:47+00:00
+
+ ## IRS git hosting
+ - [https://egit.irs.uni-stuttgart.de](https://egit.irs.uni-stuttgart.de)
+ - date_published: 2024-07-08T16:20:30.113534+00:00
+
+ ## OPUS: Home
+ - [https://elib.uni-stuttgart.de](https://elib.uni-stuttgart.de)
+ - date_published: 2024-04-29T06:16:48.644512+00:00
+
+ ## Sign in · GitLab
+ - [https://git.iws.uni-stuttgart.de](https://git.iws.uni-stuttgart.de)
+ - date_published: 2024-07-04T08:18:44.852034+00:00
+
+ ## Content: Repository: ILIAS für Lehre und Lernen – Universität Stuttgart
+ - [https://ilias3.uni-stuttgart.de](https://ilias3.uni-stuttgart.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## UniMail Login
+ - [https://mail.uni-stuttgart.de](https://mail.uni-stuttgart.de)
+ - date_published: 2024-08-06T17:41:49.814388+00:00
+
  ## Open Access | Universität Stuttgart
  - [http://oa.uni-stuttgart.de](http://oa.uni-stuttgart.de)
  - date_published: 2024-07-24T07:00:00.583468+00:00
@@ -3284,6 +3416,10 @@ Bibliotheken / Z39.50
  - date_published: 2024-04-23T00:00:00+00:00
 
  ## Product design & UX design resources – Degreeless.Design
+ - [https://degreeless.design](https://degreeless.design)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Product design & UX design resources – Degreeless.Design
  - [https://www.degreeless.design](https://www.degreeless.design)
  - date_published: 2023-10-25T18:34:21.863194+00:00
 
@@ -3884,144 +4020,4 @@ Bibliotheken / Z39.50
  ## Undertone.design | Academic graphic design
  - [https://undertone.design](https://undertone.design)
  - date_published: 2024-04-30T06:03:28.489976+00:00
-
- ## Blank: Figma UI kit and Design system
- - [https://useblank.design](https://useblank.design)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## USTUDIO Design | Award Winning Greeting Card Publisher
- - [https://ustudio.design](https://ustudio.design)
- - date_published: 2024-07-23T21:13:43.942842+00:00
-
- ## Vev Design
- - [https://a.vev.design](https://a.vev.design)
- - date_published: 2018-07-28T14:10:51+00:00
-
- ## VisualEyes - Optimize your UX via Attention Heatmaps and Clarity
- - [https://www.visualeyes.design](https://www.visualeyes.design)
- - date_published: 2024-06-29T15:34:23.637644+00:00
-
- ## Vishal Krishna • Visual and UX Designer
- - [https://vsk.design](https://vsk.design)
- - date_published: 2024-07-24T02:30:18.464022+00:00
-
- ## wahnsinn design
- - [https://wahnsinn.design](https://wahnsinn.design)
- - date_published: 2024-06-26T11:17:09+00:00
-
- ## WeDesign
- - [http://wechat.design](http://wechat.design)
- - date_published: 2024-08-05T23:46:37.572880+00:00
-
- ## Work – Werk 8
- - [https://www.werk8.design](https://www.werk8.design)
- - date_published: 2024-07-14T08:50:49.943363+00:00
-
- ## Wise Design
- - [https://wise.design](https://wise.design)
- - date_published: 2023-10-25T18:34:32.784058+00:00
-
- ## Студія «Зіна дизайн» - створення сайтів в Дніпрі
- - [https://www.zina.design](https://www.zina.design)
- - date_published: 2024-06-23T14:14:18.881195+00:00
-
- ## Tech @ Cliqz
- - [https://0x65.dev](https://0x65.dev)
- - date_published: 2024-06-10T07:05:53.116859+00:00
- - tags: ['personal']
-
- ## 0x7D0
- - [https://0x7d0.dev](https://0x7d0.dev)
- - date_published: 2024-01-20T00:00:00+00:00
- - tags: ['personal', 'hacking']
-
- ## 0x7D0
- - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
- - date_published: 2023-10-25T18:34:34.220775+00:00
- - tags: ['personal', 'hacking']
-
- ## 0x7f Inc.
- - [https://0x7f.dev](https://0x7f.dev)
- - date_published: 2023-10-25T18:34:34.827334+00:00
-
- ## 0xCB - Tech, Keyboards and more
- - [https://0xcb.dev](https://0xcb.dev)
- - date_published: 2024-06-21T22:05:58.748190+00:00
-
- ## Eleventy is a simpler static site generator
- - [https://11ty.dev](https://11ty.dev)
- - date_published: 2024-02-16T00:00:00+00:00
- - tags: ['self-host', 'static websites']
-
- ## 11ty’s International Symposium on Making Web Sites Real Good
- - [https://conf.11ty.dev](https://conf.11ty.dev)
- - date_published: 2024-05-07T18:48:43.330288+00:00
-
- ## 11ty Merch
- - [https://merch.11ty.dev](https://merch.11ty.dev)
- - date_published: 2024-05-07T18:48:40.563426+00:00
-
- ## THE Eleventy Meetup
- - [https://11tymeetup.dev](https://11tymeetup.dev)
- - date_published: 2024-04-29T07:27:21.280515+00:00
-
- ## 12 Days of Web
- - [https://12daysofweb.dev](https://12daysofweb.dev)
- - date_published: 2024-04-30T00:34:50.848266+00:00
-
- ## 16pixel. | Where Beauty Converges with Innovation
- - [https://16pixel.dev](https://16pixel.dev)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Saeed Salehi · Stories from a developer :)
- - [https://1saeed.dev](https://1saeed.dev)
- - date_published: 2023-03-17T16:24:01+00:00
-
- ## A world where people pay for software
- - [https://1sub.dev](https://1sub.dev)
- - date_published: 2023-10-25T18:34:35.457611+00:00
-
- ## 200 ok Media
- - [https://200ok.dev](https://200ok.dev)
- - date_published: 2020-01-31T10:28:48+00:00
-
- ## mrvs :: mrvs
- - [https://2d4.dev](https://2d4.dev)
- - date_published: 2024-08-07T23:59:13.047619+00:00
-
- ## You know why you're here
- - [https://46692.dev](https://46692.dev)
- - date_published: 2024-07-23T23:42:23.620938+00:00
-
- ## Stephanie Eckles | Front-End SWE, Author, Speaker
- - [https://5t3ph.dev](https://5t3ph.dev)
- - date_published: 2024-07-22T12:50:35.028164+00:00
-
- ## 7.dev – Learn how to code with us 🫡
- - [https://7.dev](https://7.dev)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## 7.dev
- - [https://links.7.dev](https://links.7.dev)
- - date_published: 2023-10-15T00:00:00+00:00
-
- ## Kristian's newsletter
- - [https://newsletter.7.dev](https://newsletter.7.dev)
- - date_published: 2024-06-22T10:20:46+00:00
-
- ## 7.dev Podcast with Kristian Freeman
- - [https://podcast.7.dev](https://podcast.7.dev)
- - date_published: 2024-06-23T02:59:24.095704+00:00
-
- ## Welcome to a5h.dev
- - [https://a5h.dev](https://a5h.dev)
- - date_published: 2024-07-20T19:41:06.639867+00:00
-
- ## Aaron Bos' Blog
- - [https://aaronbos.dev](https://aaronbos.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Loading aOS Beta...
- - [https://aaronos.dev](https://aaronos.dev)
- - date_published: 2024-06-01T04:49:08.492137+00:00
 

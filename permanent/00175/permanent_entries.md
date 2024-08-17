@@ -1,3 +1,131 @@
+ ## Shepherd For Authors
+ - [https://discovershepherd.zendesk.com](https://discovershepherd.zendesk.com)
+ - date_published: 2024-08-06T03:45:02.793776+00:00
+
+ ## DJI SDK Forum
+ - [https://djisdksupport.zendesk.com](https://djisdksupport.zendesk.com)
+ - date_published: 2016-04-06T00:00:00+00:00
+
+ ## D&D Beyond
+ - [https://dndbeyond.zendesk.com](https://dndbeyond.zendesk.com)
+ - date_published: 2024-07-01T12:53:10.684679+00:00
+
+ ## Donorbox
+ - [https://donorbox.zendesk.com](https://donorbox.zendesk.com)
+ - date_published: 2024-07-10T03:21:56.052770+00:00
+
+ ## E3D Help Centre
+ - [https://e3d-online.zendesk.com](https://e3d-online.zendesk.com)
+ - date_published: 2024-07-14T05:38:46.754686+00:00
+
+ ## Edge
+ - [https://edgeapp.zendesk.com](https://edgeapp.zendesk.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## ElevenLabs
+ - [https://elevenlabs.zendesk.com](https://elevenlabs.zendesk.com)
+ - date_published: 2024-07-28T00:00:00+00:00
+
+ ## Central de Suporte Catarse
+ - [https://equipecatarse.zendesk.com](https://equipecatarse.zendesk.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Event Marketing Platform | Splash
+ - [https://event.zendesk.com](https://event.zendesk.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## FanCode
+ - [https://fancode.zendesk.com](https://fancode.zendesk.com)
+ - date_published: 2024-08-08T12:57:01.098511+00:00
+
+ ## Cierpliwości...
+ - [https://fandom.zendesk.com](https://fandom.zendesk.com)
+ - date_published: 2024-04-29T02:16:18.543508+00:00
+
+ ## Fast Company Help Center
+ - [https://fastcompany.zendesk.com](https://fastcompany.zendesk.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Fastly Support
+ - [https://fastly.zendesk.com](https://fastly.zendesk.com)
+ - date_published: 2024-06-19T07:42:06.831370+00:00
+
+ ## Fastmail
+ - [https://fastmail.zendesk.com](https://fastmail.zendesk.com)
+ - date_published: 2024-06-19T07:43:39.894738+00:00
+
+ ## Help Cadremploi
+ - [https://fcms.zendesk.com](https://fcms.zendesk.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Fellow Products
+ - [https://fellowproducts.zendesk.com](https://fellowproducts.zendesk.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Fever
+ - [https://fever.zendesk.com](https://fever.zendesk.com)
+ - date_published: 2024-08-06T08:08:31.134154+00:00
+
+ ## Accueil
+ - [https://figaroemploi.zendesk.com](https://figaroemploi.zendesk.com)
+ - date_published: 2024-07-01T04:46:39.551063+00:00
+
+ ## Support Figaro Entreprises
+ - [https://figaroentreprises.zendesk.com](https://figaroentreprises.zendesk.com)
+ - date_published: 2024-07-01T04:46:45.986324+00:00
+
+ ## Figma Learn - Help Center
+ - [https://figma.zendesk.com](https://figma.zendesk.com)
+ - date_published: 2024-07-13T07:02:27.896172+00:00
+
+ ## Focusrite
+ - [https://focusrite.zendesk.com](https://focusrite.zendesk.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Formula Botanica
+ - [https://formulabotanicahelp.zendesk.com](https://formulabotanicahelp.zendesk.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## AskKosmos
+ - [https://fragkosmos.zendesk.com](https://fragkosmos.zendesk.com)
+ - date_published: 2024-07-04T02:56:02.632245+00:00
+
+ ## FreshCap
+ - [https://freshcap.zendesk.com](https://freshcap.zendesk.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## GameMaker Help Centre
+ - [https://gamemaker.zendesk.com](https://gamemaker.zendesk.com)
+ - date_published: 2024-08-07T18:09:59.647604+00:00
+
+ ## Gamepedia
+ - [https://gamepedia.zendesk.com](https://gamepedia.zendesk.com)
+ - date_published: 2024-08-06T11:44:25.497576+00:00
+
+ ## GameSpot Support
+ - [https://gamespothelp.zendesk.com](https://gamespothelp.zendesk.com)
+ - date_published: 2024-07-01T06:11:56.371178+00:00
+
+ ## GameStop
+ - [https://gamestop-us.zendesk.com](https://gamestop-us.zendesk.com)
+ - date_published: 2024-07-08T14:14:17.935461+00:00
+
+ ## Zendesk Garden
+ - [https://garden.zendesk.com](https://garden.zendesk.com)
+ - date_published: 2024-06-23T06:25:36.252887+00:00
+
+ ## DeleteMe
+ - [https://getabine.zendesk.com](https://getabine.zendesk.com)
+ - date_published: 2024-07-09T07:03:56.248320+00:00
+
+ ## Cierpliwości...
+ - [https://getunleash.zendesk.com](https://getunleash.zendesk.com)
+ - date_published: 2024-04-28T03:22:13.364253+00:00
+
+ ## GiantBomb Support
+ - [https://giantbombhelp.zendesk.com](https://giantbombhelp.zendesk.com)
+ - date_published: 2024-07-11T16:24:10.257681+00:00
+
  ## Girls Who Code FAQ
  - [https://girlswhocode.zendesk.com](https://girlswhocode.zendesk.com)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3904,132 +4032,4 @@
  ## Ask AI for Business Advice | GPT-4 Consulting
  - [https://advice.gpt4.consulting](https://advice.gpt4.consulting)
  - date_published: 2024-06-19T19:41:22.527203+00:00
-
- ## Self-Issued Consulting
- - [https://self-issued.consulting](https://self-issued.consulting)
- - date_published: 2024-06-15T15:55:14.689508+00:00
-
- ## Simula Consulting
- - [https://simula.consulting](https://simula.consulting)
- - date_published: 2024-07-19T18:51:48.073478+00:00
-
- ## Conversion Rate Optimization, UX, & Marketing - Spilled Tea Consulting
- - [http://spilledtea.consulting](http://spilledtea.consulting)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Tom's Web Consulting
- - [http://www.tomsweb.consulting](http://www.tomsweb.consulting)
- - date_published: 2020-07-09T03:12:05+00:00
-
- ## China Market Consulting – Consulting | Training | Research
- - [http://travelbug.consulting](http://travelbug.consulting)
- - date_published: 2024-06-30T03:41:09.880798+00:00
-
- ## The Wikibase Consultancy
- - [https://www.wikibase.consulting](https://www.wikibase.consulting)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Based Cooking
- - [https://based.cooking](https://based.cooking)
- - date_published: 2023-01-12T16:14:20+00:00
-
- ## Ellie Likes Cooking
- - [https://www.ellielikes.cooking](https://www.ellielikes.cooking)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Chuanrui API接口
- - [https://api.1314.cool](https://api.1314.cool)
- - date_published: 2024-07-12T19:35:00.487327+00:00
-
- ## Airtable.cool - Link previews and analytics for your Airtable shared view links
- - [https://airtable.cool](https://airtable.cool)
- - date_published: 2023-10-25T18:26:45.983340+00:00
-
- ## Homepage | Andre Landgraf
- - [https://andre-landgraf.cool](https://andre-landgraf.cool)
- - date_published: 2024-05-11T10:11:33.802138+00:00
-
- ## ART SQOOL
- - [http://artsqool.cool](http://artsqool.cool)
- - date_published: 2024-07-13T15:30:18.057440+00:00
-
- ## Home - ATMOsphere
- - [https://atmosphere.cool](https://atmosphere.cool)
- - date_published: 2024-05-07T10:04:28.801396+00:00
-
- ## Will's Newsletter
- - [https://bestnewsletter.cool](https://bestnewsletter.cool)
- - date_published: 2024-06-29T21:42:40.097074+00:00
-
- ## Rebrandly
- - [https://bfl.cool](https://bfl.cool)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Blackbox | Shipping and Fulfillment for Creators
- - [https://blackbox.cool](https://blackbox.cool)
- - date_published: 2024-06-23T06:17:10.237935+00:00
-
- ## Bureau Cool
- - [https://bureau.cool](https://bureau.cool)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Casey Carbone
- - [https://carbone.cool](https://carbone.cool)
- - date_published: 2024-07-18T14:50:17.127747+00:00
-
- ## dads.cool
- - [https://dads.cool](https://dads.cool)
- - date_published: 2024-08-07T19:59:32.627311+00:00
-
- ## Now & About – Damien Aresta
- - [https://damien.cool](https://damien.cool)
- - date_published: 2023-03-19T00:00:00+00:00
-
- ## Now & About – Damien Aresta
- - [http://www.damien.cool](http://www.damien.cool)
- - date_published: 2023-03-19T00:00:00+00:00
-
- ## Den.Cool — Independent design studio — Branding, Interface, Motion
- - [https://den.cool](https://den.cool)
- - date_published: 2024-08-06T22:55:46.197420+00:00
-
- ## Thank You for Using Graphcool 💚
- - [https://graph.cool](https://graph.cool)
- - date_published: 2024-06-23T06:09:35.712464+00:00
-
- ## La grève, c’est cool !
- - [https://greve.cool](https://greve.cool)
- - date_published: 2023-04-28T12:35:41+00:00
-
- ## href.cool
- - [https://href.cool](https://href.cool)
- - date_published: 2023-07-06T04:32:37+00:00
-
- ## The Impossible Cool
- - [https://impossible.cool](https://impossible.cool)
- - date_published: 2024-05-06T20:43:03.518601+00:00
-
- ## isopod.cool v3 - Fuck crypto
- - [https://isopod.cool](https://isopod.cool)
- - date_published: 2024-06-23T17:44:23.350287+00:00
-
- ## Julien pradier
- - [https://julienpradier.cool](https://julienpradier.cool)
- - date_published: 2024-05-08T07:14:07.955788+00:00
-
- ## Systems Status
- - [https://khoa.cool](https://khoa.cool)
- - date_published: 2024-05-26T10:24:06+00:00
-
- ## -
- - [http://lazyeyes.cool](http://lazyeyes.cool)
- - date_published: 2024-07-13T15:30:28.771470+00:00
-
- ## Dan's Site
- - [https://www.mayer.cool](https://www.mayer.cool)
- - date_published: 2023-10-25T18:26:46.688031+00:00
-
- ## Introduction - Merlin Transcripts
- - [https://merlin.cool](https://merlin.cool)
- - date_published: 2019-04-22T22:08:06+00:00
 

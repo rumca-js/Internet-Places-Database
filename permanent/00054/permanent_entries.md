@@ -1,3 +1,35 @@
+ ## ClickUp
+ - [https://dev-doc.clickup.com](https://dev-doc.clickup.com)
+ - date_published: 2024-06-15T02:22:30+00:00
+
+ ## ClickUp Forms
+ - [https://forms-cdn.clickup.com](https://forms-cdn.clickup.com)
+ - date_published: 2024-07-20T01:43:41+00:00
+
+ ## ClickUp Forms
+ - [https://forms.clickup.com](https://forms.clickup.com)
+ - date_published: 2024-04-30T04:56:51.505602+00:00
+
+ ## ClickUp™ | One app to replace them all
+ - [https://pages.clickup.com](https://pages.clickup.com)
+ - date_published: 2024-06-16T01:17:09+00:00
+
+ ## ClickUp Worldwide Status
+ - [https://status.clickup.com](https://status.clickup.com)
+ - date_published: 2024-06-16T08:35:21.695768+00:00
+
+ ## ClickUp University
+ - [https://university.clickup.com](https://university.clickup.com)
+ - date_published: 2024-06-16T08:35:16.320887+00:00
+
+ ## AI Training Data and other Data Management Services
+ - [https://forum.clickworker.com](https://forum.clickworker.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Marketplace
+ - [https://marketplace.clickworker.com](https://marketplace.clickworker.com)
+ - date_published: 2024-06-15T01:18:43.749262+00:00
+
  ## Support
  - [https://support-workplace.clickworker.com](https://support-workplace.clickworker.com)
  - date_published: 2024-05-01T06:04:33.518981+00:00
@@ -4009,37 +4041,4 @@
  ## Coding it Forward - Home
  - [https://www.codingitforward.com](https://www.codingitforward.com)
  - date_published: 2024-07-10T06:23:56.112591+00:00
-
- ## Coding Militia
- - [https://blog.codingmilitia.com](https://blog.codingmilitia.com)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## CodingNeko
- - [https://codingneko.com](https://codingneko.com)
- - date_published: 2023-11-16T18:44:42+00:00
-
- ## The Coding Nest
- - [https://codingnest.com](https://codingnest.com)
- - date_published: 2023-10-25T13:28:59.884471+00:00
-
- ## Home - Coding Otaku
- - [https://codingotaku.com](https://codingotaku.com)
- - date_published: 2023-10-25T08:45:26.168140+00:00
- - tags: ['personal']
-
- ## CodingOtaku's Videos
- - [https://videos.codingotaku.com](https://videos.codingotaku.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Coding Pakistan - Coding is the future
- - [https://codingpakistan.com](https://codingpakistan.com)
- - date_published: 2023-09-05T00:00:00+00:00
-
- ## Coding Potions - Blog de programación y desarrollo web
- - [https://codingpotions.com](https://codingpotions.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Codingquark
- - [https://codingquark.com](https://codingquark.com)
- - date_published: 2024-05-03T04:24:15+00:00
 

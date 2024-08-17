@@ -1,3 +1,244 @@
+ ## Newsweek Romania - stiri, analize, opinii, investigatii, politica, business, investigatii, politica internationala
+ - [https://newsweek.ro](https://newsweek.ro)
+ - date_published: 2024-07-19T03:23:58.838026+00:00
+
+ ## Nomenius - Inregistrare marci la OSIM, EUIPO & WIPO
+ - [https://nomenius.ro](https://nomenius.ro)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Citroën | Oferte Citroën
+ - [https://ofertecitroen.ro](https://ofertecitroen.ro)
+ - date_published: 2024-05-10T04:43:03.756990+00:00
+
+ ## Top Casino Online din România 2023 - Online Cazinouri Bonus
+ - [https://onlinecazinouribonus.ro](https://onlinecazinouribonus.ro)
+ - date_published: 2023-06-09T09:22:45+00:00
+
+ ## OPCOM
+ - [https://opcom.ro](https://opcom.ro)
+ - date_published: 2024-05-20T02:45:51.034945+00:00
+
+ ## Opel Romania Site Oficial | Autovehicule Noi | Oferte
+ - [https://www.opel.ro](https://www.opel.ro)
+ - date_published: 2024-07-11T08:57:52+00:00
+
+ ## Popp & Asociații
+ - [https://www.p-a.ro](https://www.p-a.ro)
+ - date_published: 2019-08-09T12:03:54+00:00
+
+ ## YOUth Parlamentor
+ - [https://www.parlamentor.ro](https://www.parlamentor.ro)
+ - date_published: 2024-06-17T11:28:44.010226+00:00
+
+ ## Soluții pentru servicii financiare pentru piețe cu creștere înaltă | PayU Romania
+ - [https://secure.payu.ro](https://secure.payu.ro)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## PayU Romania Status
+ - [https://status.payu.ro](https://status.payu.ro)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Pedro Duarte's Personal Website
+ - [https://ped.ro](https://ped.ro)
+ - date_published: 2024-07-09T19:28:45.523150+00:00
+
+ ## PERI România SRL - Cofraje si eșafodaje
+ - [https://www.peri.ro](https://www.peri.ro)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Graphite's little corner of the web
+ - [https://gra.phite.ro](https://gra.phite.ro)
+ - date_published: 2024-01-15T17:20:15.225712+00:00
+
+ ## Felix at Home
+ - [https://felix.plesoianu.ro](https://felix.plesoianu.ro)
+ - date_published: 2023-11-15T17:46:44.714694+00:00
+ - tags: ['personal']
+
+ ## Programul Operational Capacitate Administrativa - POCA
+ - [http://www.poca.ro](http://www.poca.ro)
+ - date_published: 2024-06-29T09:05:48.234802+00:00
+
+ ## ZALCHEM produse de curățare, produse chimice de uz casnic. Polonia
+ - [http://zalchem.polfirms.ro](http://zalchem.polfirms.ro)
+ - date_published: 2020-05-03T16:08:05+00:00
+
+ ## Create an online shop easily - Ecommerce
+ - [https://prestashop.ro](https://prestashop.ro)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## Prieten de vreme rea
+ - [http://prietendevremerea.ro](http://prietendevremerea.ro)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Digi
+ - [http://www.rcs-rds.ro](http://www.rcs-rds.ro)
+ - date_published: 2024-07-05T06:26:26+00:00
+
+ ## revo.js
+ - [https://revojs.ro](https://revojs.ro)
+ - date_published: 2024-01-20T09:11:21+00:00
+
+ ## rolisz's blog
+ - [https://rolisz.ro](https://rolisz.ro)
+ - date_published: 2024-05-07T23:24:06.018209+00:00
+
+ ## Romania Journal - the news about Romania
+ - [https://romaniajournal.ro](https://romaniajournal.ro)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Rome.ro
+ - [https://rome.ro](https://rome.ro)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## ROSA - Agenția Spațială Română
+ - [http://www.rosa.ro](http://www.rosa.ro)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Radio România Internațional
+ - [https://www.rri.ro](https://www.rri.ro)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Restaurant vegan si vegetarian in Cluj si Bucuresti
+ - [http://samsara.ro](http://samsara.ro)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Școala informală de IT - cursuri online de programare
+ - [https://scoalainformala.ro](https://scoalainformala.ro)
+ - date_published: 2024-07-09T11:42:41+00:00
+
+ ## Training și consultanță în negociere | Scotwork Romania
+ - [https://www.scotwork.ro](https://www.scotwork.ro)
+ - date_published: 2024-06-18T09:42:13.858925+00:00
+
+ ## Roman V. Shapovalov
+ - [http://shapovalov.ro](http://shapovalov.ro)
+ - date_published: 2016-08-06T11:32:39+00:00
+
+ ## Shop4PC - Magazin de calculatoare si accesorii
+ - [http://www.shop4pc.ro](http://www.shop4pc.ro)
+ - date_published: 2024-07-13T13:38:54.214035+00:00
+
+ ## SIXT rent a car Romania | Inchirieri auto in Bucuresti si in toata tara
+ - [https://www.sixt.ro](https://www.sixt.ro)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Skanska Romania | www.skanska.ro
+ - [https://www.skanska.ro](https://www.skanska.ro)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.ro](https://www.skyscanner.ro)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Smits | Confectii metalice Romania
+ - [https://smits.ro](https://smits.ro)
+ - date_published: 2024-06-29T09:59:44.998152+00:00
+
+ ## Școala Naţională de Studii Politice și Administrative (SNSPA)
+ - [http://snspa.ro](http://snspa.ro)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Songdoro
+ - [https://songdo.ro](https://songdo.ro)
+ - date_published: 2023-11-15T21:54:38+00:00
+
+ ## Încălțăminte, genți și îmbrăcăminte | Livrare Gratuită | SPARTOO
+ - [https://www.spartoo.ro](https://www.spartoo.ro)
+ - date_published: 2024-06-12T11:14:11.033299+00:00
+
+ ## Societatea Română de Reumatologie
+ - [https://srreumatologie.ro](https://srreumatologie.ro)
+ - date_published: 2024-06-28T11:55:18.726527+00:00
+
+ ## StareaDemocratiei.ro – Starea Democratiei
+ - [https://www.stareademocratiei.ro](https://www.stareademocratiei.ro)
+ - date_published: 2024-06-28T21:51:23.389876+00:00
+
+ ## Stiri pe surse - Cele mai noi stiri
+ - [https://www.stiripesurse.ro](https://www.stiripesurse.ro)
+ - date_published: 2024-07-11T21:51:52.520315+00:00
+
+ ## Home
+ - [https://www.supercazino.ro](https://www.supercazino.ro)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Hire Dedicated Developers in Eastern Europe
+ - [https://teamextension.ro](https://teamextension.ro)
+ - date_published: 2024-07-12T08:39:59.893484+00:00
+
+ ## TechTalent - Dedicated Software Development Teams - powered by Arnia Software
+ - [https://www.techtalent.ro](https://www.techtalent.ro)
+ - date_published: 2024-07-14T14:48:06.522133+00:00
+
+ ## TEHNE Romania - Education, Innovation, Development
+ - [https://tehne.ro](https://tehne.ro)
+ - date_published: 2024-01-12T09:06:29+00:00
+
+ ## O singură platformă. Toate datele!
+ - [http://www.termene.ro](http://www.termene.ro)
+ - date_published: 2024-07-13T17:19:55.839058+00:00
+
+ ## Times New Roman - Cotidian independent de umor voluntar
+ - [https://timesnewroman.ro](https://timesnewroman.ro)
+ - date_published: 2024-03-26T20:40:51.272736+00:00
+
+ ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
+ - [https://www.toyota.ro](https://www.toyota.ro)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Traduceri legalizate
+ - [http://traduceri--legalizate.ro](http://traduceri--legalizate.ro)
+ - date_published: 2016-01-17T08:50:01+00:00
+
+ ## Traian Brumă
+ - [https://traianbruma.ro](https://traianbruma.ro)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Transferuri de fotbal, zvonuri, valori de piață și știri
+ - [https://www.transfermarkt.ro](https://www.transfermarkt.ro)
+ - date_published: 2024-07-24T06:29:42.326506+00:00
+
+ ## Magazine online și site-uri profesionale de încredere, consumatori avizați
+ - [https://www.trusted.ro](https://www.trusted.ro)
+ - date_published: 2017-05-23T00:00:00+00:00
+
+ ## Annals of the Tiberiu Popoviciu Seminar of Functional Equations, Approximation and Convexity Home Page
+ - [http://atps.tucn.ro](http://atps.tucn.ro)
+ - date_published: 2020-01-14T16:56:49+00:00
+
+ ## https://profs.info.uaic.ro
+ - [https://profs.info.uaic.ro](https://profs.info.uaic.ro)
+ - date_published: 2024-01-11T21:02:01.927273+00:00
+
+ ## AcademicInfo
+ - [https://academicinfo.ubbcluj.ro](https://academicinfo.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:51.193265+00:00
+
+ ## Institute for doctoral studies | Universitatea Babeș-Bolyai
+ - [https://doctorat.ubbcluj.ro](https://doctorat.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:56.693322+00:00
+
+ ## Center for High Performance Computing | Babeș-Bolyai University
+ - [http://hpc.cs.ubbcluj.ro](http://hpc.cs.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:55.553098+00:00
+
+ ## - Managementul activităţii academice/ştiinţifice UBB
+ - [http://infocercetare.ubbcluj.ro](http://infocercetare.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:54.369709+00:00
+
+ ## Facultatea de Matematică și Informatică | Universitatea Babeș-Bolyai Cluj-Napoca
+ - [https://www.cs.ubbcluj.ro](https://www.cs.ubbcluj.ro)
+ - date_published: 2024-05-06T14:11:16.484259+00:00
+
+ ## Universitatea Babeș-Bolyai
+ - [https://www.ubbcluj.ro](https://www.ubbcluj.ro)
+ - date_published: 2024-06-23T10:41:40.252189+00:00
+
+ ## Uncyclopedia – Blog facut de oameni inteligenti
+ - [http://uncyclopedia.ro](http://uncyclopedia.ro)
+ - date_published: 2024-05-18T00:00:00+00:00
+
  ## University of Bucharest Identity Provider
  - [https://idp.unibuc.ro](https://idp.unibuc.ro)
  - date_published: 2022-02-22T09:27:28+00:00
@@ -3789,245 +4030,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Pleistocene Park
  - [https://pleistocenepark.ru](https://pleistocenepark.ru)
  - date_published: 2024-06-19T18:33:33.859738+00:00
-
- ## Xilinx Россия. Официальный сайт
- - [http://plis2.ru](http://plis2.ru)
- - date_published: 2023-05-25T00:00:00+00:00
-
- ## POLFIRMS каталог польских промышленных компаний фирм производителей
- - [http://www.polfirms.ru](http://www.polfirms.ru)
- - date_published: 2023-09-30T14:41:52+00:00
-
- ## Index of /
- - [http://zalchem.polfirms.ru](http://zalchem.polfirms.ru)
- - date_published: 2024-08-11T19:13:26.983399+00:00
-
- ## TechInsider - новости науки и техники: новые технологии, наука, оружие, авиация, космос, автомобили
- - [https://www.popmech.ru](https://www.popmech.ru)
- - date_published: 2024-06-25T18:52:42.911711+00:00
-
- ## Карьера в Postgres Professional
- - [https://career.postgrespro.ru](https://career.postgrespro.ru)
- - date_published: 2024-04-18T10:32:16+00:00
-
- ## Компания Postgres Professional
- - [https://postgrespro.ru](https://postgrespro.ru)
- - date_published: 2024-05-04T12:57:47.654028+00:00
-
- ## Vitus Wagner home page
- - [http://vitus.wagner.pp.ru](http://vitus.wagner.pp.ru)
- - date_published: 2005-12-06T00:00:00+00:00
-
- ## Apache2 Debian Default Page: It works
- - [http://wagner.pp.ru](http://wagner.pp.ru)
- - date_published: 2023-12-23T15:18:19+00:00
-
- ## wagner.pp.ru
- - [https://www.wagner.pp.ru](https://www.wagner.pp.ru)
- - date_published: 2023-12-31T10:30:38+00:00
-
- ## Премия «Просветитель»
- - [https://premiaprosvetitel.ru](https://premiaprosvetitel.ru)
- - date_published: 2024-06-21T14:42:54.412569+00:00
-
- ## Тестовые музыкальные фрагменты и композиции
- - [https://primefan.ru](https://primefan.ru)
- - date_published: 2013-07-28T16:56:06+00:00
-
- ## Футболки с принтами 👕 в Москве: одежда с принтом 👚 в интернет-магазине Printio
- - [https://printio.ru](https://printio.ru)
- - date_published: 2024-05-07T22:58:41.197265+00:00
-
- ## Анализ сайта, проверка тИЦ и PR. Позиции в Яндексе и Google
- - [https://prlog.ru](https://prlog.ru)
- - date_published: 2024-05-07T13:27:09.479667+00:00
-
- ## Онлайн-курс: Digital MBA | РБК Pro и ProductStar
- - [https://rbc.productstar.ru](https://rbc.productstar.ru)
- - date_published: 2024-07-04T10:01:06+00:00
-
- ## Электрокарнизы для штор купить в Москве цена от 9800 руб
- - [https://prokarniz.ru](https://prokarniz.ru)
- - date_published: 2024-05-09T14:27:08.893579+00:00
-
- ## Yuri Pugachov - official website
- - [http://www.pugachov.ru](http://www.pugachov.ru)
- - date_published: 2016-08-10T12:27:13+00:00
-
- ## Интернет-магазин Пульт.ру - электроника, акустика, Hi-Fi оборудование и домашние кинотеатры в Москве. Доставка по всей России.
- - [https://www.pult.ru](https://www.pult.ru)
- - date_published: 2024-07-20T11:32:38.179036+00:00
-
- ## 1917. Революция в языке
- - [https://1917.pushkininstitute.ru](https://1917.pushkininstitute.ru)
- - date_published: 2024-06-17T15:56:00.974773+00:00
-
- ## Интерактивные авторские курсы Института Пушкина
- - [https://ac.pushkininstitute.ru](https://ac.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:04.462091+00:00
-
- ## Программы дополнительного образования
- - [https://cdo.pushkininstitute.ru](https://cdo.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:52.509032+00:00
-
- ## Конкурсы
- - [https://contests.pushkininstitute.ru](https://contests.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:55.860161+00:00
-
- ## Литературные гостиные
- - [https://lit.pushkininstitute.ru](https://lit.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:02.989585+00:00
-
- ## Лингвострановедческий словарь «Россия»
- - [https://ls.pushkininstitute.ru](https://ls.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:49.279136+00:00
-
- ## PushkinOnline — Main
- - [https://pushkininstitute.ru](https://pushkininstitute.ru)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## VII Международный Пушкинский конкурс «Что в имени тебе моём?»
- - [https://pushkonkurs.pushkininstitute.ru](https://pushkonkurs.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:59.262458+00:00
-
- ## Интернет-магазин Института Пушкина
- - [https://shop.pushkininstitute.ru](https://shop.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:57.775688+00:00
-
- ## Школа русского языка со Смешариками
- - [https://smeshariki.pushkininstitute.ru](https://smeshariki.pushkininstitute.ru)
- - date_published: 2024-06-17T15:56:26.053716+00:00
-
- ## Вебинары
- - [https://webinar.pushkininstitute.ru](https://webinar.pushkininstitute.ru)
- - date_published: 2024-06-17T15:55:06.367594+00:00
-
- ## PyCon Russia 2024
- - [http://pycon.ru](http://pycon.ru)
- - date_published: 2024-06-20T06:51:22+00:00
-
- ## Q3MSK.RU
- - [https://q3msk.ru](https://q3msk.ru)
- - date_published: 2024-07-12T13:45:05.177349+00:00
-
- ## Производитель порошковой краски Qemtex: завод по производству порошковых красок
- - [https://qemtex.ru](https://qemtex.ru)
- - date_published: 2024-05-22T13:06:37+00:00
-
- ## Карьера в QSOFT
- - [https://job.qsoft.ru](https://job.qsoft.ru)
- - date_published: 2024-06-18T15:54:21.925483+00:00
-
- ## Мобильный интранет для Enterprise компаний
- - [https://mobile-intranet.qsoft.ru](https://mobile-intranet.qsoft.ru)
- - date_published: 2024-06-18T15:54:14.933586+00:00
-
- ## QSOFT - разработка и поддержка интернет-сайтов и интернет-магазинов, корпоративных порталов, интеграция сайтов с внешними системами, разработка проектов под высокие нагрузки, QSOFT
- - [https://qsoft.ru](https://qsoft.ru)
- - date_published: 2024-05-02T13:43:10.296874+00:00
-
- ## РБК Инвестиции - новости инвестиций, котировки акций и курсы валют - РБК Инвестиции
- - [https://quote.ru](https://quote.ru)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Radiominor.ru - на волне хорошей музыки
- - [https://radiominor.ru](https://radiominor.ru)
- - date_published: 2024-02-15T22:13:56.565784+00:00
- - tags: ['demoscene']
-
- ## Райффайзен Банк для жизни и бизнеса. Ипотека, кредиты, банковские карты и другие услуги
- - [https://www.raiffeisen.ru](https://www.raiffeisen.ru)
- - date_published: 2024-06-24T11:19:00.890921+00:00
-
- ## Автоновости, тест-драйвы, обзоры на новинки автопрома
- - [https://auto.rambler.ru](https://auto.rambler.ru)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Новости экономики и финансов, курсы валют, прогнозы, аналитика
- - [https://finance.rambler.ru](https://finance.rambler.ru)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Рамблер/помощь
- - [http://help.rambler.ru](http://help.rambler.ru)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Гороскоп на сегодня для всех знаков зодиака – Рамблер/Гороскоп
- - [https://horoscopes.rambler.ru](https://horoscopes.rambler.ru)
- - date_published: 2024-07-18T21:00:00+00:00
-
- ## Рамблер/картинки
- - [https://images.rambler.ru](https://images.rambler.ru)
- - date_published: 2024-01-09T03:46:25.128108+00:00
-
- ## Новости кино и телевидения. Звезды фильмов и сериалов
- - [https://kino.rambler.ru](https://kino.rambler.ru)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Рамблер/почта – надежная и бесплатная электронная почта
- - [https://mail.rambler.ru](https://mail.rambler.ru)
- - date_published: 2024-07-19T20:55:43.495722+00:00
-
- ## Новости сегодня: самые свежие и последние новости России и мира
- - [https://news.rambler.ru](https://news.rambler.ru)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас
- - [http://rambler.ru](http://rambler.ru)
- - date_published: 2024-07-19T20:55:31.998441+00:00
-
- ## Rambler&Co
- - [http://reklama.rambler.ru](http://reklama.rambler.ru)
- - date_published: 2024-07-19T20:55:13.887854+00:00
-
- ## Новости спорта, турнирные таблицы и расписания матчей
- - [https://sport.rambler.ru](https://sport.rambler.ru)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Рейтинг сайтов - Рамблер Топ-100
- - [https://top100.rambler.ru](https://top100.rambler.ru)
- - date_published: 2024-01-09T03:46:26.241472+00:00
-
- ## Рамблер/видеоплатформа
- - [https://vp.rambler.ru](https://vp.rambler.ru)
- - date_published: 2024-05-04T12:56:08.868822+00:00
-
- ## Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас
- - [https://www.rambler.ru](https://www.rambler.ru)
- - date_published: 2024-07-10T02:35:32.509237+00:00
-
- ## Rambler&Co
- - [http://rambler-co.ru](http://rambler-co.ru)
- - date_published: 2024-07-19T13:54:10+00:00
-
- ## Authentication - GLPI
- - [https://achr.ui.ranepa.ru](https://achr.ui.ranepa.ru)
- - date_published: 2024-06-16T15:33:22.554486+00:00
-
- ## Laboratory of Mathematical Logic
- - [http://logic.pdmi.ras.ru](http://logic.pdmi.ras.ru)
- - date_published: 2024-04-05T22:07:40+00:00
-
- ## Российская академия наук
- - [https://new.ras.ru](https://new.ras.ru)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Российская академия наук
- - [http://www.ras.ru](http://www.ras.ru)
- - date_published: 2024-06-30T18:18:59.630746+00:00
-
- ## Национальные Кредитные Рейтинги (НКР)
- - [https://ratings.ru](https://ratings.ru)
- - date_published: 2024-07-04T10:11:59.303711+00:00
-
- ## RB.RU — медиа о новых технологиях, бизнесе и карьере в цифровой экономике
- - [https://rb.ru](https://rb.ru)
- - date_published: 2024-07-14T19:49:11.504679+00:00
-
- ## Последние новости дня в России и мире сегодня - свежие новости на РБК
- - [https://apigw.rbc.ru](https://apigw.rbc.ru)
- - date_published: 2024-07-04T10:12:07.886944+00:00
-
- ## Последние новости дня в России и мире сегодня - свежие новости на РБК
- - [https://app.rbc.ru](https://app.rbc.ru)
- - date_published: 2024-07-04T10:11:35.504491+00:00
 

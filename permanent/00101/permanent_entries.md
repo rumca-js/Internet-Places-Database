@@ -1,3 +1,73 @@
+ ## LinuxGizmos.com:  embedded Linux news & devices
+ - [https://linuxgizmos.com](https://linuxgizmos.com)
+ - date_published: 2023-10-25T09:33:53.181592+00:00
+
+ ## Home | LinuxGSM_
+ - [https://docs.linuxgsm.com](https://docs.linuxgsm.com)
+ - date_published: 2024-06-14T14:07:19+00:00
+
+ ## Home | LinuxGSM_
+ - [https://linuxgsm.com](https://linuxgsm.com)
+ - date_published: 2024-04-30T15:57:24.423983+00:00
+ - tags: ['cli tool', 'linux', 'open source']
+
+ ## LinuxGSM Status
+ - [https://status.linuxgsm.com](https://status.linuxgsm.com)
+ - date_published: 2024-06-14T14:59:59.465688+00:00
+
+ ## Linux Guide and Hints - Linux Guide and Hints
+ - [https://linuxguideandhints.com](https://linuxguideandhints.com)
+ - date_published: 2024-06-18T15:29:23+00:00
+
+ ## LinuxH2O
+ - [https://linuxh2o.com](https://linuxh2o.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Linux Handbook
+ - [https://linuxhandbook.com](https://linuxhandbook.com)
+ - date_published: 2023-11-01T08:42:27.289347+00:00
+
+ ## Linux Hint
+ - [https://linuxhint.com](https://linuxhint.com)
+ - date_published: 2024-07-22T07:54:50+00:00
+
+ ## Linuxiac - Linux News, Tutorials, Tips & Tricks, and More
+ - [https://linuxiac.com](https://linuxiac.com)
+ - date_published: 2023-10-25T15:47:47.501936+00:00
+
+ ## Linux Impact
+ - [https://linuximpact.com](https://linuximpact.com)
+ - date_published: 2023-11-22T01:14:01.701144+00:00
+ - tags: ['tech news', 'linux']
+
+ ## Home | Linux Journal
+ - [http://linuxjournal.com](http://linuxjournal.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Home | Linux Journal
+ - [https://www.linuxjournal.com](https://www.linuxjournal.com)
+ - date_published: 2023-10-25T15:47:49.667448+00:00
+ - tags: ['linux news']
+
+ ## Home - Linux JournalDigital
+ - [https://linuxjournaldigital.com](https://linuxjournaldigital.com)
+ - date_published: 2024-05-12T04:31:09.634525+00:00
+
+ ## Linux Lads
+ - [https://linuxlads.com](https://linuxlads.com)
+ - date_published: 2024-05-01T05:28:42.132205+00:00
+ - tags: ['linux']
+
+ ## LinuxLinks
+ - [https://www.linuxlinks.com](https://www.linuxlinks.com)
+ - date_published: 2023-10-28T18:43:52.539254+00:00
+ - tags: ['linux', 'tech news']
+
+ ## Linux Lite Easy to Use Free Linux Operating System
+ - [https://www.linuxliteos.com](https://www.linuxliteos.com)
+ - date_published: 2023-10-25T15:47:56.807478+00:00
+ - tags: ['operating system']
+
  ## LinuxLUGCast – The LUG for Everyone
  - [https://linuxlugcast.com](https://linuxlugcast.com)
  - date_published: 2024-06-15T07:21:45.121793+00:00
@@ -3962,70 +4032,4 @@
  ## Web-Apps und Websites übersetzen – Localize
  - [https://cdn.localizejs.com](https://cdn.localizejs.com)
  - date_published: 2020-01-25T22:03:43+00:00
-
- ## Web-Apps und Websites übersetzen – Localize
- - [https://localizejs.com](https://localizejs.com)
- - date_published: 2024-06-29T14:41:26.339022+00:00
-
- ## Login - Localizer
- - [https://localizercdn.com](https://localizercdn.com)
- - date_published: 2024-07-01T17:43:38.354873+00:00
-
- ## Locally Optimistic
- - [https://locallyoptimistic.com](https://locallyoptimistic.com)
- - date_published: 2024-05-04T07:55:49.376140+00:00
-
- ## Local Natives
- - [http://www.localnatives.com](http://www.localnatives.com)
- - date_published: 2024-07-08T18:46:13.714669+00:00
-
- ## Events from May 3 – May 10 – Local News 8 Events
- - [https://events.localnews8.com](https://events.localnews8.com)
- - date_published: 2024-05-04T13:00:21.914668+00:00
-
- ## EU Notice | KIDK-LocalNews8
- - [https://jobs.localnews8.com](https://jobs.localnews8.com)
- - date_published: 2024-05-04T13:00:33.873178+00:00
-
- ## Home - LocalNews8.com | News3Now.com | KXPI.com - KIFI
- - [https://localnews8.com](https://localnews8.com)
- - date_published: 2023-12-07T14:49:54.303544+00:00
-
- ## Unauthorized
- - [https://media.localnews8.com](https://media.localnews8.com)
- - date_published: 2024-06-21T15:21:57.452302+00:00
-
- ## Local Pages
- - [https://localpages.com](https://localpages.com)
- - date_published: 2024-06-29T01:42:30.178358+00:00
-
- ## The Localphone Blog
- - [http://blog.localphone.com](http://blog.localphone.com)
- - date_published: 2024-06-20T16:07:05.594370+00:00
-
- ## Cheap International Calls | Localphone
- - [https://static.localphone.com](https://static.localphone.com)
- - date_published: 2024-06-20T16:06:57.182346+00:00
-
- ## Cheap International Calls | Localphone
- - [https://www.localphone.com](https://www.localphone.com)
- - date_published: 2024-05-04T09:18:03.823038+00:00
-
- ## Cierpliwości...
- - [http://www.localpresshk.com](http://www.localpresshk.com)
- - date_published: 2024-06-30T03:56:02.078730+00:00
-
- ## Attention Required! | Cloudflare
- - [https://chinauncensored.locals.com](https://chinauncensored.locals.com)
- - date_published: 2024-07-12T20:10:04+00:00
- - tags: ['youtuber']
-
- ## ConservativeNerds
- - [https://conservativenerds.locals.com](https://conservativenerds.locals.com)
- - date_published: 2023-12-21T11:34:10+00:00
- - tags: ['the right wing']
-
- ## Attention Required! | Cloudflare
- - [https://freedomain.locals.com](https://freedomain.locals.com)
- - date_published: 2024-07-03T18:46:14.366749+00:00
 

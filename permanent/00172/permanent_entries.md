@@ -1,3 +1,129 @@
+ ## Victors Corner Blog
+ - [http://www.victorscornerdotorg.wordpress.com](http://www.victorscornerdotorg.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Linguistic Ethnography Lab
+ - [http://www.virtuallinguisticethnographylab.wordpress.com](http://www.virtuallinguisticethnographylab.wordpress.com)
+ - date_published: 2024-07-02T08:51:07.575154+00:00
+
+ ## VotingFemale
+ - [http://www.votingfemale.wordpress.com](http://www.votingfemale.wordpress.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## XDC
+ - [https://x86dc.wordpress.com](https://x86dc.wordpress.com)
+ - date_published: 2024-05-07T15:34:46.908993+00:00
+ - tags: ['xdc']
+
+ ## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
+ - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
+ - date_published: 2023-10-25T18:18:27.707634+00:00
+
+ ## xcorr: AI & neuro
+ - [https://xcorr.wordpress.com](https://xcorr.wordpress.com)
+ - date_published: 2024-06-26T22:32:10.064041+00:00
+
+ ## Φωτεινή Παντογνώστρα
+ - [https://xefteri.wordpress.com](https://xefteri.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Xena
+ - [https://xenaproject.wordpress.com](https://xenaproject.wordpress.com)
+ - date_published: 2024-06-30T09:09:18.707608+00:00
+
+ ## Xi'an's Og
+ - [https://xianblog.wordpress.com](https://xianblog.wordpress.com)
+ - date_published: 2024-05-07T15:26:15.896556+00:00
+
+ ## Xio's Xcribble
+ - [https://xiomaro.wordpress.com](https://xiomaro.wordpress.com)
+ - date_published: 2024-05-07T16:55:54.063718+00:00
+
+ ## XIX век
+ - [http://xixvek.wordpress.com](http://xixvek.wordpress.com)
+ - date_published: 2024-06-21T19:54:50.592851+00:00
+
+ ## xmonad
+ - [https://xmonad.wordpress.com](https://xmonad.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## XOR's Hammer
+ - [http://xorshammer.wordpress.com](http://xorshammer.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## /// Blog
+ - [https://xrayfm.wordpress.com](https://xrayfm.wordpress.com)
+ - date_published: 2024-08-07T11:38:47.124949+00:00
+
+ ## El arte es para tod@s pero sólo una élite lo sabe
+ - [http://xuxiart.wordpress.com](http://xuxiart.wordpress.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Yet another blogging mathematician...
+ - [http://yabm.wordpress.com](http://yabm.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## [yaderv-blog]
+ - [https://yaderv.wordpress.com](https://yaderv.wordpress.com)
+ - date_published: 2024-07-10T03:05:56.807097+00:00
+
+ ## The Yaghnobi
+ - [http://yaghnobi.wordpress.com](http://yaghnobi.wordpress.com)
+ - date_published: 2024-07-02T09:14:31.687963+00:00
+
+ ## Sergei Yakovenko's blog: on Math and Teaching
+ - [https://yakovenko.wordpress.com](https://yakovenko.wordpress.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Young Adult Lit Reviews
+ - [http://yalitreader.wordpress.com](http://yalitreader.wordpress.com)
+ - date_published: 2024-07-11T19:37:48+00:00
+
+ ## Le blog de Yannick Rumpala
+ - [http://yannickrumpala.wordpress.com](http://yannickrumpala.wordpress.com)
+ - date_published: 2024-08-06T05:31:47.749196+00:00
+
+ ## I Woke Up In A Strange Place
+ - [https://yannisparissis.wordpress.com](https://yannisparissis.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Yellingrosa Weblog
+ - [http://yellingrosa.wordpress.com](http://yellingrosa.wordpress.com)
+ - date_published: 2024-07-16T10:34:58+00:00
+
+ ## (no title)
+ - [http://yesmeansyesblog.wordpress.com](http://yesmeansyesblog.wordpress.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Yggdrasill and the Tortoise
+ - [http://yggdrasilltortoise.wordpress.com](http://yggdrasilltortoise.wordpress.com)
+ - date_published: 2024-06-30T08:55:26.487196+00:00
+
+ ## Huseyin Yilmaz's Blog
+ - [https://yilmazhuseyin.wordpress.com](https://yilmazhuseyin.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Young World Inventors
+ - [https://yinventors.wordpress.com](https://yinventors.wordpress.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Yisheng's blog
+ - [https://yishenggong.wordpress.com](https://yishenggong.wordpress.com)
+ - date_published: 2024-05-07T18:32:17.698294+00:00
+ - tags: ['personal']
+
+ ## Yuvaraj Chesetti
+ - [https://ykchesetti.wordpress.com](https://ykchesetti.wordpress.com)
+ - date_published: 2024-06-28T12:40:20.102243+00:00
+
+ ## Sake White
+ - [https://ymarsakar.wordpress.com](https://ymarsakar.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## yo252yo
+ - [https://yo252yo.wordpress.com](https://yo252yo.wordpress.com)
+ - date_published: 2024-05-06T15:10:56.237195+00:00
+
  ## Y o h a n c a
  - [https://yohancacom.wordpress.com](https://yohancacom.wordpress.com)
  - date_published: 2024-05-07T18:33:18.761437+00:00
@@ -3889,128 +4015,4 @@
  ## Welcome writingfix.com - BlueHost.com
  - [http://www.writingfix.com](http://www.writingfix.com)
  - date_published: 2024-07-04T15:00:22.928851+00:00
-
- ## Bespoke Copywriting Services | Writing Metier
- - [https://writingmetier.com](https://writingmetier.com)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Ruxandra’s Substack | Ruxandra Teslo | Substack
- - [https://writingruxandrabio.com](https://writingruxandrabio.com)
- - date_published: 2024-01-06T03:59:04.422251+00:00
-
- ## Your Universe With Free Writing Samples - WritingUniverse
- - [https://writinguniverse.com](https://writinguniverse.com)
- - date_published: 2024-08-07T05:33:23+00:00
-
- ## Writio | The World's Highest Quality AI Writer
- - [https://writio.com](https://writio.com)
- - date_published: 2024-06-25T19:25:20.754112+00:00
-
- ## The Written Palette
- - [https://writtenpalette.com](https://writtenpalette.com)
- - date_published: 2024-07-04T04:47:39.874847+00:00
-
- ## WrittenRealms
- - [http://writtenrealms.com](http://writtenrealms.com)
- - date_published: 2024-07-12T22:48:02+00:00
-
- ## Writtle – The corporate site of Writtle Ltd
- - [http://www.writtle.com](http://www.writtle.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [http://www.wrmeadows.com](http://www.wrmeadows.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Wrong, but useful
- - [https://wrongbutuseful.com](https://wrongbutuseful.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Wrong Hands
- - [https://wronghands1.com](https://wronghands1.com)
- - date_published: 2024-04-29T08:03:47.262056+00:00
-
- ## Wrong Side of Memphis
- - [https://wrongsideofmemphis.com](https://wrongsideofmemphis.com)
- - date_published: 2024-06-28T20:11:41.774064+00:00
-
- ## WRT | Planning + Design | Home
- - [http://www.wrtdesign.com](http://www.wrtdesign.com)
- - date_published: 2024-06-28T13:47:40.773774+00:00
-
- ## Support
- - [https://support.wrtv.com](https://support.wrtv.com)
- - date_published: 2024-05-10T06:03:46.007495+00:00
-
- ## Homepage
- - [https://wrtv.com](https://wrtv.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## ESPN 98.1 FM - 850 AM WRUF
- - [https://www.wruf.com](https://www.wruf.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## WRWTFWW Records
- - [https://wrwtfww.com](https://wrwtfww.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## WSAZ | NewsChannel 3 | Huntington/Charleston, W.Va.
- - [https://www.wsaz.com](https://www.wsaz.com)
- - date_published: 2024-06-20T22:38:04+00:00
-
- ## 网上报告厅
- - [http://www.wsbgt.com](http://www.wsbgt.com)
- - date_published: 2024-06-18T08:57:53+00:00
-
- ## Atlanta News, Weather and Sports. Breaking stories from around the Metro Area. Coverage you can count on from WSB-TV Channel 2. – WSB-TV Channel 2 - Atlanta
- - [https://wsbtv.com](https://wsbtv.com)
- - date_published: 2023-11-05T03:04:19.560301+00:00
-
- ## W.S. Cole Press
- - [https://www.wscole.com](https://www.wscole.com)
- - date_published: 2024-02-21T23:36:42+00:00
-
- ## Washington State Department of Transportation
- - [https://wsdot.com](https://wsdot.com)
- - date_published: 2024-06-28T00:14:40+00:00
-
- ## Home
- - [https://wsfa.com](https://wsfa.com)
- - date_published: 2024-05-07T16:28:01.793131+00:00
-
- ## Wilson Sonsini Goodrich & Rosati
- - [https://www.wsgr.com](https://www.wsgr.com)
- - date_published: 2024-06-19T14:57:48.999210+00:00
-
- ## Account Suspended
- - [https://www.wshares.com](https://www.wshares.com)
- - date_published: 2024-06-21T15:16:38.623120+00:00
-
- ## WSI Agency Partner Program | Grow Your Agency Faster with WSI
- - [https://partners.wsifranchise.com](https://partners.wsifranchise.com)
- - date_published: 2024-06-20T19:16:05+00:00
-
- ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
- - [https://ace.wsj.com](https://ace.wsj.com)
- - date_published: 2024-06-30T11:51:54.413396+00:00
-
- ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
- - [https://blogs.wsj.com](https://blogs.wsj.com)
- - date_published: 2024-04-29T05:18:09.613647+00:00
-
- ## The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video
- - [https://buy.wsj.com](https://buy.wsj.com)
- - date_published: 2024-06-30T12:03:46.607059+00:00
-
- ## Chat
- - [https://chat.wsj.com](https://chat.wsj.com)
- - date_published: 2024-06-19T15:56:39.658252+00:00
-
- ## Home
- - [https://classifieds.wsj.com](https://classifieds.wsj.com)
- - date_published: 2023-07-28T00:00:00+00:00
-
- ## Home
- - [https://classified.wsj.com](https://classified.wsj.com)
- - date_published: 2024-05-21T00:00:00+00:00
 

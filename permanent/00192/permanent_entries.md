@@ -1,3 +1,143 @@
+ ## Parking &amp; Transportation
+ - [https://parking.fiu.edu](https://parking.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## FIU Phonebook
+ - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
+ - date_published: 2024-04-30T04:15:03.150013+00:00
+
+ ## University Police Department
+ - [https://police.fiu.edu](https://police.fiu.edu)
+ - date_published: 2024-07-17T15:44:16+00:00
+
+ ## Search | P&P Library
+ - [https://policies.fiu.edu](https://policies.fiu.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Presidential Search
+ - [https://presidentialsearch.fiu.edu](https://presidentialsearch.fiu.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Index Page
+ - [https://pslinks.fiu.edu](https://pslinks.fiu.edu)
+ - date_published: 2024-06-07T00:42:51+00:00
+
+ ## Welcome: Board of Trustees Regulations
+ - [https://regulations.fiu.edu](https://regulations.fiu.edu)
+ - date_published: 2024-08-11T02:41:51.719436+00:00
+
+ ## Panthers Protecting Panthers
+ - [https://repopulation.fiu.edu](https://repopulation.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Report a Concern
+ - [https://report.fiu.edu](https://report.fiu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Home - Research
+ - [http://research.fiu.edu](http://research.fiu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Request a Space |
+ - [https://reservespace.fiu.edu](https://reservespace.fiu.edu)
+ - date_published: 2024-06-07T22:44:44.235939+00:00
+
+ ## Home - ShopFIU
+ - [https://shop.fiu.edu](https://shop.fiu.edu)
+ - date_published: 2024-07-22T04:15:32.660844+00:00
+
+ ## Steven J. Green School of International &amp; Public Affairs
+ - [https://sipa.fiu.edu](https://sipa.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Social Media
+ - [http://social.fiu.edu](http://social.fiu.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Robert Stempel College of Public Health &amp; Social Work
+ - [https://stempel.fiu.edu](https://stempel.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Strategic Communications, Government and External Affairs
+ - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Division of Academic &amp; Student Affairs
+ - [http://studentaffairs.fiu.edu](http://studentaffairs.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Forward-Thinking. Innovative. Unstoppable.
+ - [https://top50.fiu.edu](https://top50.fiu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Transfer &amp; Transition Services
+ - [https://transfer.fiu.edu](https://transfer.fiu.edu)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## MachForm Admin Panel
+ - [https://webforms.fiu.edu](https://webforms.fiu.edu)
+ - date_published: 2024-04-30T04:14:47.420081+00:00
+
+ ## Welcome to FIU
+ - [https://welcome.fiu.edu](https://welcome.fiu.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Knight Foundation School of Computing and Information Sciences
+ - [http://www.cis.fiu.edu](http://www.cis.fiu.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home | FCI
+ - [https://www.fivecolleges.edu](https://www.fivecolleges.edu)
+ - date_published: 2024-07-02T03:20:06.383023+00:00
+
+ ## Home - Tallahassee State College
+ - [https://www.tsc.fl.edu](https://www.tsc.fl.edu)
+ - date_published: 2024-07-19T14:00:18+00:00
+
+ ## Where history begins. | Flagler College
+ - [http://www.flagler.edu](http://www.flagler.edu)
+ - date_published: 2024-06-28T15:47:44+00:00
+
+ ## State University System of Florida
+ - [https://flbog.edu](https://flbog.edu)
+ - date_published: 2024-04-30T04:16:15.757109+00:00
+
+ ## Catalog of the Folger Shakespeare Library
+ - [https://catalog.folger.edu](https://catalog.folger.edu)
+ - date_published: 2024-06-29T10:01:54.851307+00:00
+
+ ## Collation | Folger Shakespeare Library
+ - [https://collation.folger.edu](https://collation.folger.edu)
+ - date_published: 2024-05-07T10:20:20.322787+00:00
+
+ ## Events | Folger Shakespeare Library
+ - [https://events.folger.edu](https://events.folger.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Explore the Collection | Digital Collections
+ - [https://luna.folger.edu](https://luna.folger.edu)
+ - date_published: 2024-06-22T00:36:48+00:00
+
+ ## Home | Folger Shakespeare Library
+ - [https://folger.edu](https://folger.edu)
+ - date_published: 2024-05-07T10:25:33.742212+00:00
+
+ ## Fontbonne University – Soar Higher
+ - [http://www.fontbonne.edu](http://www.fontbonne.edu)
+ - date_published: 2024-07-15T06:04:12.731753+00:00
+
+ ## Foothill College | Home - Foothill College
+ - [https://foothill.edu](https://foothill.edu)
+ - date_published: 2024-05-09T08:42:05.495631+00:00
+
+ ## Fordham University Directory
+ - [https://411.fordham.edu](https://411.fordham.edu)
+ - date_published: 2024-06-24T10:00:58.718665+00:00
+
+ ## Undergraduate Admission | Fordham
+ - [https://admission.fordham.edu](https://admission.fordham.edu)
+ - date_published: 2024-06-24T10:00:45.157268+00:00
+
  ## Fordham University
  - [http://curapersonalis.fordham.edu](http://curapersonalis.fordham.edu)
  - date_published: 2024-06-24T09:59:49.219234+00:00
@@ -3867,144 +4007,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Harvard Academic Positions | Home
  - [https://academicpositions.harvard.edu](https://academicpositions.harvard.edu)
  - date_published: 2024-06-30T11:21:40+00:00
-
- ## Home | University Disability Resources
- - [https://accessibility.harvard.edu](https://accessibility.harvard.edu)
- - date_published: 2024-04-30T04:45:49.027356+00:00
-
- ## Digital Accessibility​
- - [https://accessibility.huit.harvard.edu](https://accessibility.huit.harvard.edu)
- - date_published: 2024-04-30T04:45:47.414575+00:00
-
- ## acmg
- - [http://acmg.seas.harvard.edu](http://acmg.seas.harvard.edu)
- - date_published: 2024-06-30T02:43:49+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://admin.my.harvard.edu](https://admin.my.harvard.edu)
- - date_published: 2024-07-21T23:10:26.815962+00:00
-
- ## NASA/ADS
- - [https://adsabs.harvard.edu](https://adsabs.harvard.edu)
- - date_published: 2024-02-22T20:45:22+00:00
-
- ## Adult Autism Health Resources
- - [https://adult-autism.health.harvard.edu](https://adult-autism.health.harvard.edu)
- - date_published: 2024-04-30T04:47:22.289598+00:00
-
- ## Department of Art, Film, and Visual Studies
- - [https://afvs.fas.harvard.edu](https://afvs.fas.harvard.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [http://alumni.afvs.fas.harvard.edu](http://alumni.afvs.fas.harvard.edu)
- - date_published: 2024-06-22T06:03:22.368108+00:00
-
- ## Harvard GSD Alumni and Friends Home
- - [https://alumni.gsd.harvard.edu](https://alumni.gsd.harvard.edu)
- - date_published: 2024-06-22T11:46:28.383119+00:00
-
- ## Welcome to Harvard Alumni
- - [https://alumni.harvard.edu](https://alumni.harvard.edu)
- - date_published: 2024-06-16T04:34:50+00:00
-
- ## Home Page
- - [https://alumni.sph.harvard.edu](https://alumni.sph.harvard.edu)
- - date_published: 2024-04-30T04:47:25.712309+00:00
-
- ## Amicus
- - [https://amicus.law.harvard.edu](https://amicus.law.harvard.edu)
- - date_published: 2024-04-30T04:45:57.952699+00:00
-
- ## Homepage
- - [https://arboretum.harvard.edu](https://arboretum.harvard.edu)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Weblogs at Harvard
- - [https://archive.blogs.harvard.edu](https://archive.blogs.harvard.edu)
- - date_published: 2024-04-30T04:43:14.036227+00:00
-
- ## GC-Main
- - [https://arep.med.harvard.edu](https://arep.med.harvard.edu)
- - date_published: 2024-06-19T02:11:44.790860+00:00
-
- ## Ash Center for Democratic Governance and Innovation
- - [https://ash.harvard.edu](https://ash.harvard.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## awhs-fall23-update-dataviz
- - [https://awhs-updates.hsph.harvard.edu](https://awhs-updates.hsph.harvard.edu)
- - date_published: 2024-03-07T23:49:32+00:00
-
- ## Black Hole Initiative - The first worldwide center to focus on the study of black holes.
- - [https://bhi.fas.harvard.edu](https://bhi.fas.harvard.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Weblogs at Harvard
- - [https://blogs.harvard.edu](https://blogs.harvard.edu)
- - date_published: 2023-10-25T18:51:34.410192+00:00
-
- ## Weblogs at Harvard
- - [https://blogs.law.harvard.edu](https://blogs.law.harvard.edu)
- - date_published: 2024-04-29T02:48:46.761114+00:00
-
- ## Derek Bok Center, Harvard University
- - [https://bokcenter.harvard.edu](https://bokcenter.harvard.edu)
- - date_published: 2024-06-20T22:16:47+00:00
-
- ## Home - Harvard Brain Science Initiative
- - [https://brain.harvard.edu](https://brain.harvard.edu)
- - date_published: 2024-08-11T05:21:40.850224+00:00
-
- ## English Crime and Execution Broadsides
- - [http://broadsides.law.harvard.edu](http://broadsides.law.harvard.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [https://bsc.hks.harvard.edu](https://bsc.hks.harvard.edu)
- - date_published: 2024-06-20T02:45:12+00:00
-
- ## Filtering
- - [https://bulletin.hds.harvard.edu](https://bulletin.hds.harvard.edu)
- - date_published: 2024-07-02T11:24:51+00:00
-
- ## HarvardKey - Harvard University Authentication Service
- - [https://canvas.harvard.edu](https://canvas.harvard.edu)
- - date_published: 2024-06-22T06:03:27.270541+00:00
-
- ## Harvard Kennedy School Case Program
- - [https://case.hks.harvard.edu](https://case.hks.harvard.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Harvard Business Publishing Education
- - [http://cb.hbsp.harvard.edu](http://cb.hbsp.harvard.edu)
- - date_published: 2024-06-18T14:03:46+00:00
-
- ## Center for Brain Science
- - [http://cbs.fas.harvard.edu](http://cbs.fas.harvard.edu)
- - date_published: 2024-08-11T04:33:24+00:00
-
- ## CCVA
- - [http://ccva.fas.harvard.edu](http://ccva.fas.harvard.edu)
- - date_published: 2024-01-28T00:00:00+00:00
-
- ## Home | Center for Astrophysics | Harvard & Smithsonian
- - [https://cfa.harvard.edu](https://cfa.harvard.edu)
- - date_published: 2024-03-27T14:19:18.084706+00:00
-
- ## Department of Chemistry and Chemical Biology
- - [https://chemistry.harvard.edu](https://chemistry.harvard.edu)
- - date_published: 2024-06-17T11:56:20+00:00
-
- ## The Center for Hellenic Studies - Reassertion of the humanism of the ancient world
- - [https://chs.harvard.edu](https://chs.harvard.edu)
- - date_published: 2024-06-24T10:08:53.934368+00:00
-
- ## The Collection of Historical Scientific Instruments
- - [http://chsi.harvard.edu](http://chsi.harvard.edu)
- - date_published: 2024-08-11T05:03:42+00:00
-
- ## Bloomberg Center for Cities at Harvard University
- - [https://cities.harvard.edu](https://cities.harvard.edu)
- - date_published: 2024-06-28T00:00:00+00:00
 

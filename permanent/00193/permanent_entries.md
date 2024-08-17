@@ -1,3 +1,143 @@
+ ## Home | University Disability Resources
+ - [https://accessibility.harvard.edu](https://accessibility.harvard.edu)
+ - date_published: 2024-04-30T04:45:49.027356+00:00
+
+ ## Digital Accessibility​
+ - [https://accessibility.huit.harvard.edu](https://accessibility.huit.harvard.edu)
+ - date_published: 2024-04-30T04:45:47.414575+00:00
+
+ ## acmg
+ - [http://acmg.seas.harvard.edu](http://acmg.seas.harvard.edu)
+ - date_published: 2024-06-30T02:43:49+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://admin.my.harvard.edu](https://admin.my.harvard.edu)
+ - date_published: 2024-07-21T23:10:26.815962+00:00
+
+ ## NASA/ADS
+ - [https://adsabs.harvard.edu](https://adsabs.harvard.edu)
+ - date_published: 2024-02-22T20:45:22+00:00
+
+ ## Adult Autism Health Resources
+ - [https://adult-autism.health.harvard.edu](https://adult-autism.health.harvard.edu)
+ - date_published: 2024-04-30T04:47:22.289598+00:00
+
+ ## Department of Art, Film, and Visual Studies
+ - [https://afvs.fas.harvard.edu](https://afvs.fas.harvard.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [http://alumni.afvs.fas.harvard.edu](http://alumni.afvs.fas.harvard.edu)
+ - date_published: 2024-06-22T06:03:22.368108+00:00
+
+ ## Harvard GSD Alumni and Friends Home
+ - [https://alumni.gsd.harvard.edu](https://alumni.gsd.harvard.edu)
+ - date_published: 2024-06-22T11:46:28.383119+00:00
+
+ ## Welcome to Harvard Alumni
+ - [https://alumni.harvard.edu](https://alumni.harvard.edu)
+ - date_published: 2024-06-16T04:34:50+00:00
+
+ ## Home Page
+ - [https://alumni.sph.harvard.edu](https://alumni.sph.harvard.edu)
+ - date_published: 2024-04-30T04:47:25.712309+00:00
+
+ ## Amicus
+ - [https://amicus.law.harvard.edu](https://amicus.law.harvard.edu)
+ - date_published: 2024-04-30T04:45:57.952699+00:00
+
+ ## Homepage
+ - [https://arboretum.harvard.edu](https://arboretum.harvard.edu)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Weblogs at Harvard
+ - [https://archive.blogs.harvard.edu](https://archive.blogs.harvard.edu)
+ - date_published: 2024-04-30T04:43:14.036227+00:00
+
+ ## GC-Main
+ - [https://arep.med.harvard.edu](https://arep.med.harvard.edu)
+ - date_published: 2024-06-19T02:11:44.790860+00:00
+
+ ## Ash Center for Democratic Governance and Innovation
+ - [https://ash.harvard.edu](https://ash.harvard.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## awhs-fall23-update-dataviz
+ - [https://awhs-updates.hsph.harvard.edu](https://awhs-updates.hsph.harvard.edu)
+ - date_published: 2024-03-07T23:49:32+00:00
+
+ ## Black Hole Initiative - The first worldwide center to focus on the study of black holes.
+ - [https://bhi.fas.harvard.edu](https://bhi.fas.harvard.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Weblogs at Harvard
+ - [https://blogs.harvard.edu](https://blogs.harvard.edu)
+ - date_published: 2023-10-25T18:51:34.410192+00:00
+
+ ## Weblogs at Harvard
+ - [https://blogs.law.harvard.edu](https://blogs.law.harvard.edu)
+ - date_published: 2024-04-29T02:48:46.761114+00:00
+
+ ## Derek Bok Center, Harvard University
+ - [https://bokcenter.harvard.edu](https://bokcenter.harvard.edu)
+ - date_published: 2024-06-20T22:16:47+00:00
+
+ ## Home - Harvard Brain Science Initiative
+ - [https://brain.harvard.edu](https://brain.harvard.edu)
+ - date_published: 2024-08-11T05:21:40.850224+00:00
+
+ ## English Crime and Execution Broadsides
+ - [http://broadsides.law.harvard.edu](http://broadsides.law.harvard.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://bsc.hks.harvard.edu](https://bsc.hks.harvard.edu)
+ - date_published: 2024-06-20T02:45:12+00:00
+
+ ## Filtering
+ - [https://bulletin.hds.harvard.edu](https://bulletin.hds.harvard.edu)
+ - date_published: 2024-07-02T11:24:51+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://canvas.harvard.edu](https://canvas.harvard.edu)
+ - date_published: 2024-06-22T06:03:27.270541+00:00
+
+ ## Harvard Kennedy School Case Program
+ - [https://case.hks.harvard.edu](https://case.hks.harvard.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Harvard Business Publishing Education
+ - [http://cb.hbsp.harvard.edu](http://cb.hbsp.harvard.edu)
+ - date_published: 2024-06-18T14:03:46+00:00
+
+ ## Center for Brain Science
+ - [http://cbs.fas.harvard.edu](http://cbs.fas.harvard.edu)
+ - date_published: 2024-08-11T04:33:24+00:00
+
+ ## CCVA
+ - [http://ccva.fas.harvard.edu](http://ccva.fas.harvard.edu)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Home | Center for Astrophysics | Harvard & Smithsonian
+ - [https://cfa.harvard.edu](https://cfa.harvard.edu)
+ - date_published: 2024-03-27T14:19:18.084706+00:00
+
+ ## Department of Chemistry and Chemical Biology
+ - [https://chemistry.harvard.edu](https://chemistry.harvard.edu)
+ - date_published: 2024-06-17T11:56:20+00:00
+
+ ## The Center for Hellenic Studies - Reassertion of the humanism of the ancient world
+ - [https://chs.harvard.edu](https://chs.harvard.edu)
+ - date_published: 2024-06-24T10:08:53.934368+00:00
+
+ ## The Collection of Historical Scientific Instruments
+ - [http://chsi.harvard.edu](http://chsi.harvard.edu)
+ - date_published: 2024-08-11T05:03:42+00:00
+
+ ## Bloomberg Center for Cities at Harvard University
+ - [https://cities.harvard.edu](https://cities.harvard.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## Clinic Stories Archives - Harvard Law School
  - [https://clinics.law.harvard.edu](https://clinics.law.harvard.edu)
  - date_published: 2024-04-30T04:46:00.536580+00:00
@@ -3871,144 +4011,4 @@ Data Services
  ## Department of Agronomy | Kansas State University
  - [https://www.agronomy.k-state.edu](https://www.agronomy.k-state.edu)
  - date_published: 2023-06-27T00:00:00+00:00
-
- ## Department of Communications and Agricultural Education
- - [https://www.communications.k-state.edu](https://www.communications.k-state.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.k-state.edu](https://cs.k-state.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## College of Health and Human Sciences
- - [https://www.hhs.k-state.edu](https://www.hhs.k-state.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Kansas State University
- - [https://k-state.edu](https://k-state.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## K-State College of Veterinary Medicine Home Page
- - [https://www.vet.k-state.edu](https://www.vet.k-state.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## K-State Association for Computing Machinery
- - [https://acm.cs.ksu.edu](https://acm.cs.ksu.edu)
- - date_published: 2024-04-17T03:05:42+00:00
-
- ## K-State ACM SIGAI
- - [https://acm-sigai.cs.ksu.edu](https://acm-sigai.cs.ksu.edu)
- - date_published: 2024-07-11T13:09:50.053496+00:00
-
- ## ALT+CS Lab
- - [https://alt.cs.ksu.edu](https://alt.cs.ksu.edu)
- - date_published: 2024-06-27T16:51:28+00:00
-
- ## CS Applications - Home
- - [https://apps.cs.ksu.edu](https://apps.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:12.648572+00:00
-
- ## Center for Artificial Intelligence and Data Science
- - [https://caids.cs.ksu.edu](https://caids.cs.ksu.edu)
- - date_published: 2024-03-05T23:08:49+00:00
-
- ## home    [Machine Learning and Data Science Lab @ K-State]
- - [http://caragea-wiki.cs.ksu.edu](http://caragea-wiki.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:36.621884+00:00
-
- ## Engineering Computing Services | Engineering Computing Services
- - [https://cecs.engg.ksu.edu](https://cecs.engg.ksu.edu)
- - date_published: 2024-07-01T10:35:28+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.ksu.edu](https://cs.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Semantics Lab
- - [https://daselab.cs.ksu.edu](https://daselab.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:44.703164+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.ksu.edu](https://engg.ksu.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## K-State GDC
- - [https://gdc.cs.ksu.edu](https://gdc.cs.ksu.edu)
- - date_published: 2020-02-03T06:08:13+00:00
-
- ## Kansas State University
- - [https://ksu.edu](https://ksu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Multiagent & Cooperative Reasoning Laboratory - Kansas State University
- - [http://macr.cs.ksu.edu](http://macr.cs.ksu.edu)
- - date_published: 2016-12-08T20:03:10+00:00
-
- ## K-State MDC
- - [https://mdc.cs.ksu.edu](https://mdc.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:04.324614+00:00
-
- ## K-State ACM SIGAI
- - [https://people.cis.ksu.edu](https://people.cis.ksu.edu)
- - date_published: 2024-05-09T09:12:16.301047+00:00
-
- ## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date_published: 2023-10-25T18:53:27.215934+00:00
-
- ## K-State Web Dev Club
- - [https://wdc.cs.ksu.edu](https://wdc.cs.ksu.edu)
- - date_published: 2019-02-27T01:14:52+00:00
-
- ## Please wait...
- - [https://webmail.ksu.edu](https://webmail.ksu.edu)
- - date_published: 2024-07-01T11:22:25.357090+00:00
-
- ## Agricultural Economics | Kansas State University
- - [https://www.ageconomics.ksu.edu](https://www.ageconomics.ksu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cis.ksu.edu](https://cis.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home Page
- - [https://admissions.ktu.edu](https://admissions.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://advancedmaterials.ktu.edu](https://advancedmaterials.ktu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Pradžia
- - [https://aicentre.ktu.edu](https://aicentre.ktu.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Kauno technologijos universiteto alumnų asociacija. KTU alumnai.
- - [https://alumni.ktu.edu](https://alumni.ktu.edu)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## APCIS
- - [https://apcis.ktu.edu](https://apcis.ktu.edu)
- - date_published: 2024-07-01T11:24:39.197337+00:00
-
- ## Research
- - [https://apinien.ktu.edu](https://apinien.ktu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Mokslas
- - [https://apini.ktu.edu](https://apini.ktu.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Kaunas University of Technology
- - [https://apply.ktu.edu](https://apply.ktu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Research
- - [https://asien.ktu.edu](https://asien.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://asi.ktu.edu](https://asi.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
 

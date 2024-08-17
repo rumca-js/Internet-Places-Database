@@ -1,3 +1,143 @@
+ ## Blank: Figma UI kit and Design system
+ - [https://useblank.design](https://useblank.design)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## USTUDIO Design | Award Winning Greeting Card Publisher
+ - [https://ustudio.design](https://ustudio.design)
+ - date_published: 2024-07-23T21:13:43.942842+00:00
+
+ ## Vev Design
+ - [https://a.vev.design](https://a.vev.design)
+ - date_published: 2018-07-28T14:10:51+00:00
+
+ ## VisualEyes - Optimize your UX via Attention Heatmaps and Clarity
+ - [https://www.visualeyes.design](https://www.visualeyes.design)
+ - date_published: 2024-06-29T15:34:23.637644+00:00
+
+ ## Vishal Krishna • Visual and UX Designer
+ - [https://vsk.design](https://vsk.design)
+ - date_published: 2024-07-24T02:30:18.464022+00:00
+
+ ## wahnsinn design
+ - [https://wahnsinn.design](https://wahnsinn.design)
+ - date_published: 2024-06-26T11:17:09+00:00
+
+ ## WeDesign
+ - [http://wechat.design](http://wechat.design)
+ - date_published: 2024-08-05T23:46:37.572880+00:00
+
+ ## Work – Werk 8
+ - [https://www.werk8.design](https://www.werk8.design)
+ - date_published: 2024-07-14T08:50:49.943363+00:00
+
+ ## Wise Design
+ - [https://wise.design](https://wise.design)
+ - date_published: 2023-10-25T18:34:32.784058+00:00
+
+ ## Студія «Зіна дизайн» - створення сайтів в Дніпрі
+ - [https://www.zina.design](https://www.zina.design)
+ - date_published: 2024-06-23T14:14:18.881195+00:00
+
+ ## Tech @ Cliqz
+ - [https://0x65.dev](https://0x65.dev)
+ - date_published: 2024-06-10T07:05:53.116859+00:00
+ - tags: ['personal']
+
+ ## 0x7D0
+ - [https://0x7d0.dev](https://0x7d0.dev)
+ - date_published: 2024-01-20T00:00:00+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7D0
+ - [https://blog.0x7d0.dev](https://blog.0x7d0.dev)
+ - date_published: 2023-10-25T18:34:34.220775+00:00
+ - tags: ['personal', 'hacking']
+
+ ## 0x7f Inc.
+ - [https://0x7f.dev](https://0x7f.dev)
+ - date_published: 2023-10-25T18:34:34.827334+00:00
+
+ ## 0xCB - Tech, Keyboards and more
+ - [https://0xcb.dev](https://0xcb.dev)
+ - date_published: 2024-06-21T22:05:58.748190+00:00
+
+ ## Eleventy is a simpler static site generator
+ - [https://11ty.dev](https://11ty.dev)
+ - date_published: 2024-02-16T00:00:00+00:00
+ - tags: ['self-host', 'static websites']
+
+ ## 11ty’s International Symposium on Making Web Sites Real Good
+ - [https://conf.11ty.dev](https://conf.11ty.dev)
+ - date_published: 2024-05-07T18:48:43.330288+00:00
+
+ ## 11ty Merch
+ - [https://merch.11ty.dev](https://merch.11ty.dev)
+ - date_published: 2024-05-07T18:48:40.563426+00:00
+
+ ## THE Eleventy Meetup
+ - [https://11tymeetup.dev](https://11tymeetup.dev)
+ - date_published: 2024-04-29T07:27:21.280515+00:00
+
+ ## 12 Days of Web
+ - [https://12daysofweb.dev](https://12daysofweb.dev)
+ - date_published: 2024-04-30T00:34:50.848266+00:00
+
+ ## 16pixel. | Where Beauty Converges with Innovation
+ - [https://16pixel.dev](https://16pixel.dev)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Saeed Salehi · Stories from a developer :)
+ - [https://1saeed.dev](https://1saeed.dev)
+ - date_published: 2023-03-17T16:24:01+00:00
+
+ ## A world where people pay for software
+ - [https://1sub.dev](https://1sub.dev)
+ - date_published: 2023-10-25T18:34:35.457611+00:00
+
+ ## 200 ok Media
+ - [https://200ok.dev](https://200ok.dev)
+ - date_published: 2020-01-31T10:28:48+00:00
+
+ ## mrvs :: mrvs
+ - [https://2d4.dev](https://2d4.dev)
+ - date_published: 2024-08-07T23:59:13.047619+00:00
+
+ ## You know why you're here
+ - [https://46692.dev](https://46692.dev)
+ - date_published: 2024-07-23T23:42:23.620938+00:00
+
+ ## Stephanie Eckles | Front-End SWE, Author, Speaker
+ - [https://5t3ph.dev](https://5t3ph.dev)
+ - date_published: 2024-07-22T12:50:35.028164+00:00
+
+ ## 7.dev – Learn how to code with us 🫡
+ - [https://7.dev](https://7.dev)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## 7.dev
+ - [https://links.7.dev](https://links.7.dev)
+ - date_published: 2023-10-15T00:00:00+00:00
+
+ ## Kristian's newsletter
+ - [https://newsletter.7.dev](https://newsletter.7.dev)
+ - date_published: 2024-06-22T10:20:46+00:00
+
+ ## 7.dev Podcast with Kristian Freeman
+ - [https://podcast.7.dev](https://podcast.7.dev)
+ - date_published: 2024-06-23T02:59:24.095704+00:00
+
+ ## Welcome to a5h.dev
+ - [https://a5h.dev](https://a5h.dev)
+ - date_published: 2024-07-20T19:41:06.639867+00:00
+
+ ## Aaron Bos' Blog
+ - [https://aaronbos.dev](https://aaronbos.dev)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Loading aOS Beta...
+ - [https://aaronos.dev](https://aaronos.dev)
+ - date_published: 2024-06-01T04:49:08.492137+00:00
+
  ## Home
  - [http://aashutosh.dev](http://aashutosh.dev)
  - date_published: 2024-06-23T08:12:36.507554+00:00
@@ -882,6 +1022,11 @@
  ## Kadambari
  - [https://kadambari.bearblog.dev](https://kadambari.bearblog.dev)
  - date_published: 2024-06-21T22:05:39.438882+00:00
+
+ ## Kirabasa's Space
+ - [https://kirabasa.bearblog.dev](https://kirabasa.bearblog.dev)
+ - date_published: 2024-08-14T19:47:27.951136+00:00
+ - tags: ['personal']
 
  ## Thoughtless Acts
  - [https://klint.bearblog.dev](https://klint.bearblog.dev)
@@ -3935,149 +4080,4 @@
  ## Oasis Hackathon
  - [https://oasis.hackclub.dev](https://oasis.hackclub.dev)
  - date_published: 2024-06-08T00:00:00+00:00
-
- ## Sprig
- - [https://sprig-nocode.hackclub.dev](https://sprig-nocode.hackclub.dev)
- - date_published: 2024-06-20T15:25:22.649152+00:00
-
- ## AI powered job recommendations for developers
- - [https://hackers.dev](https://hackers.dev)
- - date_published: 2024-06-19T18:50:08.570610+00:00
-
- ## Redirecting
- - [https://unimport.hakancelik.dev](https://unimport.hakancelik.dev)
- - date_published: 2023-12-24T07:42:28+00:00
-
- ## Hamel’s Blog
- - [https://hamel.dev](https://hamel.dev)
- - date_published: 2023-10-25T08:58:29.383909+00:00
- - tags: ['personal']
-
- ## Refine - a drop-in query builder for Laravel Nova and Rails
- - [https://hammerstone.dev](https://hammerstone.dev)
- - date_published: 2024-06-23T11:17:38.280374+00:00
-
- ## hapi.dev
- - [https://hapi.dev](https://hapi.dev)
- - date_published: 2024-06-23T04:13:58.610330+00:00
-
- ## Harrie Pieters - Personal Website
- - [https://harriepieters.dev](https://harriepieters.dev)
- - date_published: 2024-05-16T14:12:48+00:00
-
- ## Harris Jose
- - [https://harrisjose.dev](https://harrisjose.dev)
- - date_published: 2023-12-12T13:08:55.908400+00:00
- - tags: ['personal']
-
- ## Harry Llewelyn - Developer
- - [https://harry.dev](https://harry.dev)
- - date_published: 2023-12-28T22:26:50.855629+00:00
- - tags: ['personal']
-
- ## Haseeb Majid
- - [https://haseebmajid.dev](https://haseebmajid.dev)
- - date_published: 2024-05-11T10:19:31.928258+00:00
-
- ## haseebmajid – GoatCounter
- - [https://stats.haseebmajid.dev](https://stats.haseebmajid.dev)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## HASH.dev – HASH for Developers
- - [https://hash.dev](https://hash.dev)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Abid Moon
- - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
- - date_published: 2023-10-25T18:38:19.386013+00:00
-
- ## Moncef AOUDIA's Blog
- - [https://aoudiamoncef.hashnode.dev](https://aoudiamoncef.hashnode.dev)
- - date_published: 2024-07-14T08:17:49.757014+00:00
-
- ## Ayoyimika
- - [https://ayoyimika.hashnode.dev](https://ayoyimika.hashnode.dev)
- - date_published: 2024-07-09T08:23:42.950322+00:00
-
- ## Angles and Braces
- - [https://chainofcommand.hashnode.dev](https://chainofcommand.hashnode.dev)
- - date_published: 2024-07-09T08:08:54.078118+00:00
-
- ## CodeSnap
- - [https://codesnapmag.hashnode.dev](https://codesnapmag.hashnode.dev)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Dan Dan Da Developer Man
- - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
- - date_published: 2023-10-25T18:38:20.191019+00:00
-
- ## dSebastien
- - [https://dsebastien.hashnode.dev](https://dsebastien.hashnode.dev)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Dr. Ehoneah Obed
- - [https://ehoneahobed.hashnode.dev](https://ehoneahobed.hashnode.dev)
- - date_published: 2024-05-01T08:40:23.545973+00:00
-
- ## Hardik Sachan
- - [https://hardiksachan.hashnode.dev](https://hardiksachan.hashnode.dev)
- - date_published: 2024-05-04T09:18:24.512744+00:00
-
- ## Start a Developer Blog: Custom Domains, Sub-paths & Headless CMS Options — Hashnode
- - [https://hashnode.dev](https://hashnode.dev)
- - date_published: 2024-06-02T06:57:21+00:00
- - tags: ['web hosting']
-
- ## Ihu(oma)
- - [https://ihuoma.hashnode.dev](https://ihuoma.hashnode.dev)
- - date_published: 2024-07-14T10:06:16.188004+00:00
-
- ## jindraivanek F# Node
- - [https://jindraivanek.hashnode.dev](https://jindraivanek.hashnode.dev)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Klima Engineering
- - [https://klima.hashnode.dev](https://klima.hashnode.dev)
- - date_published: 2024-07-20T15:17:54.115185+00:00
-
- ## minimal swift
- - [https://laurentbrusa.hashnode.dev](https://laurentbrusa.hashnode.dev)
- - date_published: 2024-06-23T15:45:06.493226+00:00
-
- ## medunes's  blog
- - [https://medunes.hashnode.dev](https://medunes.hashnode.dev)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mike Mwanje's  blog
- - [https://mikemwanje.hashnode.dev](https://mikemwanje.hashnode.dev)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Michael Hoffmann
- - [https://mokkapps.hashnode.dev](https://mokkapps.hashnode.dev)
- - date_published: 2024-07-14T07:53:35.330229+00:00
-
- ## Web Chronicles
- - [https://nsblog.hashnode.dev](https://nsblog.hashnode.dev)
- - date_published: 2024-07-14T09:54:22.727553+00:00
-
- ## Pragmatic Notes
- - [https://pragmaticnotes.hashnode.dev](https://pragmaticnotes.hashnode.dev)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## P-Y's blog
- - [https://py.hashnode.dev](https://py.hashnode.dev)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Quincy Oghenetejiri's Blog
- - [https://quincyoghenetejiri.hashnode.dev](https://quincyoghenetejiri.hashnode.dev)
- - date_published: 2024-05-02T13:57:09.765491+00:00
- - tags: ['personal']
-
- ## Sagar's Blog
- - [https://sagarsoni.hashnode.dev](https://sagarsoni.hashnode.dev)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Sara Joy
- - [https://sarajw.hashnode.dev](https://sarajw.hashnode.dev)
- - date_published: 2024-06-22T13:46:10.684985+00:00
 

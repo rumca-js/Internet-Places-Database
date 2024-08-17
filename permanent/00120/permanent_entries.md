@@ -1,3 +1,86 @@
+ ## Write My Paper for Me | Paper Writing Service for Students
+ - [https://paperfellows.com](https://paperfellows.com)
+ - date_published: 2024-04-03T18:58:52.932667+00:00
+ - tags: ['personal']
+
+ ## PaperKarma® - The Stop Junk Mail App
+ - [https://www.paperkarma.com](https://www.paperkarma.com)
+ - date_published: 2024-06-23T06:26:31+00:00
+
+ ## paper lantern education
+ - [https://paperlanterneducation.com](https://paperlanterneducation.com)
+ - date_published: 2021-03-10T06:28:57+00:00
+
+ ## Paperless-ngx
+ - [https://docs.paperless-ngx.com](https://docs.paperless-ngx.com)
+ - date_published: 2024-04-08T19:28:04.861390+00:00
+ - tags: ['document library', 'self-host']
+
+ ## Quoting Software for Manufacturing - Paperless Parts
+ - [https://www.paperlessparts.com](https://www.paperlessparts.com)
+ - date_published: 2023-12-20T13:40:32+00:00
+
+ ## Paperlike Help Center
+ - [https://help.paperlike.com](https://help.paperlike.com)
+ - date_published: 2024-05-09T05:53:04.913791+00:00
+
+ ## Work at Paperlike
+ - [https://jobs.paperlike.com](https://jobs.paperlike.com)
+ - date_published: 2024-05-09T05:53:03.348227+00:00
+
+ ## Paperlike | Official Online Store
+ - [https://paperlike.com](https://paperlike.com)
+ - date_published: 2024-03-07T19:36:45.060837+00:00
+
+ ## Web Reader
+ - [https://reader.paperlit.com](https://reader.paperlit.com)
+ - date_published: 2024-05-06T16:16:11.750741+00:00
+
+ ## PAPER Magazine
+ - [https://www.papermag.com](https://www.papermag.com)
+ - date_published: 2024-06-15T05:14:03.716820+00:00
+
+ ## Papermerge DMS with OCR
+ - [https://papermerge.com](https://papermerge.com)
+ - date_published: 2022-05-10T05:08:27+00:00
+ - tags: ['document management system', 'self-host', 'ocr']
+
+ ## Papernautic - Paper Art for Life
+ - [http://papernautic.com](http://papernautic.com)
+ - date_published: 2019-11-26T08:22:54+00:00
+
+ ## AI Academic Writing Tool - Online English Language Check | Paperpal
+ - [https://paperpal.com](https://paperpal.com)
+ - date_published: 2024-06-19T21:06:57.373567+00:00
+
+ ## Paperpile Reference Manager
+ - [https://cdn.paperpile.com](https://cdn.paperpile.com)
+ - date_published: 2024-05-06T22:31:34.340322+00:00
+
+ ## Paperpile Forum
+ - [https://forum.paperpile.com](https://forum.paperpile.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Paperpile Reference Manager
+ - [https://paperpile.com](https://paperpile.com)
+ - date_published: 2023-11-01T08:42:53.570173+00:00
+
+ ## PaperRater: Free Online Proofreader with Grammar Check, Plagiarism Detection and more
+ - [https://www.paperrater.com](https://www.paperrater.com)
+ - date_published: 2024-08-07T23:36:36.489749+00:00
+
+ ## Home
+ - [https://papersapp.com](https://papersapp.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Support : Papers Support
+ - [https://support.papersapp.com](https://support.papersapp.com)
+ - date_published: 2024-05-09T05:48:44.471396+00:00
+
+ ## Dienstplan und Zeiterfassung Online verwalten | Papershift
+ - [https://www.papershift.com](https://www.papershift.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## PAPERSKI
  - [http://paperski.com](http://paperski.com)
  - date_published: 2024-05-08T10:05:37.538412+00:00
@@ -594,6 +677,10 @@
  ## Dusk Somewhere
  - [https://parametricity.com](https://parametricity.com)
  - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | Parametric Portfolio Associates
+ - [https://www.parametricportfolio.com](https://www.parametricportfolio.com)
+ - date_published: 2024-08-14T20:22:31.415609+00:00
 
  ## Careers at Paramount
  - [https://careers.paramount.com](https://careers.paramount.com)
@@ -3985,89 +4072,4 @@
  ## Pick parts. Build your PC. Compare and share. - PCPartPicker
  - [https://no.pcpartpicker.com](https://no.pcpartpicker.com)
  - date_published: 2024-05-16T02:49:05.976403+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://nz.pcpartpicker.com](https://nz.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:07.955143+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://pcpartpicker.com](https://pcpartpicker.com)
- - date_published: 2024-04-11T00:30:08.486980+00:00
- - tags: ['hardware', 'shop', 'pc parts']
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://pt.pcpartpicker.com](https://pt.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:38.577025+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://ro.pcpartpicker.com](https://ro.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:43.829725+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://sa.pcpartpicker.com](https://sa.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:10.154235+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://se.pcpartpicker.com](https://se.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:16.668650+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://sk.pcpartpicker.com](https://sk.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:03.170111+00:00
-
- ## Pick parts. Build your PC. Compare and share. - PCPartPicker
- - [https://uk.pcpartpicker.com](https://uk.pcpartpicker.com)
- - date_published: 2024-05-16T02:49:19.171799+00:00
-
- ## NameBright - Coming Soon
- - [http://www.pcpinball.com](http://www.pcpinball.com)
- - date_published: 2024-06-21T15:30:40.973850+00:00
-
- ## P.C. Richard & Son
- - [https://www.pcrichard.com](https://www.pcrichard.com)
- - date_published: 2018-06-27T01:31:46+00:00
-
- ## Precision Compounding Pharmacy, Inc. - Omaha, NE - Home
- - [https://www.pcrxomaha.com](https://www.pcrxomaha.com)
- - date_published: 2024-06-30T10:48:03.644361+00:00
-
- ## Prefabricados - Index
- - [https://www.pcsolana.com](https://www.pcsolana.com)
- - date_published: 2023-09-14T16:48:24+00:00
-
- ## Publisher's Creative Systems
- - [https://subscribe.pcspublink.com](https://subscribe.pcspublink.com)
- - date_published: 2024-05-01T04:34:14.700150+00:00
-
- ## Publisher's Creative Systems
- - [https://www.pcspublink.com](https://www.pcspublink.com)
- - date_published: 2024-06-15T21:42:39.300931+00:00
-
- ## Premier Control Technologies - Flow, Pressure, Level & Temperature
- - [https://www.pctflow.com](https://www.pctflow.com)
- - date_published: 2024-07-09T06:54:17+00:00
-
- ## P-Curve
- - [https://www.p-curve.com](https://www.p-curve.com)
- - date_published: 2023-10-05T21:21:42+00:00
-
- ## Software Analysis, Research & Advisors - Websentra
- - [https://www.pcwdld.com](https://www.pcwdld.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## PCWorld
- - [https://www.pcworld.com](https://www.pcworld.com)
- - date_published: 2023-10-25T09:34:49.726201+00:00
-
- ## Patricia C. Wrede – Six impossible things
- - [https://pcwrede.com](https://pcwrede.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## pdActive Inc.
- - [https://pdactive.com](https://pdactive.com)
- - date_published: 2020-09-02T19:25:55+00:00
-
- ## Website for P. David Buchan
- - [https://www.pdbuchan.com](https://www.pdbuchan.com)
- - date_published: 2024-01-07T00:00:00+00:00
 

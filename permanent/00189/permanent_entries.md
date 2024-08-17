@@ -1,3 +1,143 @@
+ ## The Australian National University
+ - [https://anu-au.academia.edu](https://anu-au.academia.edu)
+ - date_published: 2024-04-30T02:57:41.815540+00:00
+
+ ## University of California, Berkeley
+ - [https://berkeley.academia.edu](https://berkeley.academia.edu)
+ - date_published: 2024-07-10T05:50:38.577441+00:00
+
+ ## University of Brighton
+ - [https://brighton.academia.edu](https://brighton.academia.edu)
+ - date_published: 2024-04-30T02:59:39.003488+00:00
+
+ ## Boston University
+ - [https://bu.academia.edu](https://bu.academia.edu)
+ - date_published: 2024-04-30T03:00:21.443795+00:00
+
+ ## University of Cambridge
+ - [https://cambridge.academia.edu](https://cambridge.academia.edu)
+ - date_published: 2024-04-30T02:58:24.076871+00:00
+
+ ## University of Canberra
+ - [https://canberra.academia.edu](https://canberra.academia.edu)
+ - date_published: 2024-04-30T03:02:19.364846+00:00
+
+ ## Case Western Reserve University
+ - [https://case.academia.edu](https://case.academia.edu)
+ - date_published: 2024-04-30T02:50:03.549403+00:00
+
+ ## University of Chicago
+ - [https://chicago.academia.edu](https://chicago.academia.edu)
+ - date_published: 2024-04-30T02:59:02.539621+00:00
+
+ ## Centro de Investigación y Docencia Económicas
+ - [http://cide.academia.edu](http://cide.academia.edu)
+ - date_published: 2024-06-17T14:09:53.439230+00:00
+
+ ## Carnegie Mellon University
+ - [https://cmu.academia.edu](https://cmu.academia.edu)
+ - date_published: 2024-04-30T03:01:33.787969+00:00
+
+ ## University of Iowa
+ - [https://collegeview.academia.edu](https://collegeview.academia.edu)
+ - date_published: 2024-04-30T03:00:15.196132+00:00
+
+ ## Columbia University
+ - [https://columbia.academia.edu](https://columbia.academia.edu)
+ - date_published: 2024-05-07T10:45:32.032858+00:00
+
+ ## Cornell University
+ - [https://cornell.academia.edu](https://cornell.academia.edu)
+ - date_published: 2024-04-30T02:55:48.893236+00:00
+
+ ## University of Crete
+ - [https://crete.academia.edu](https://crete.academia.edu)
+ - date_published: 2024-04-30T02:56:36.925499+00:00
+
+ ## University of Derby
+ - [https://derby.academia.edu](https://derby.academia.edu)
+ - date_published: 2024-06-30T07:42:50.232602+00:00
+
+ ## DIS
+ - [https://dis.academia.edu](https://dis.academia.edu)
+ - date_published: 2024-04-30T02:33:54.041807+00:00
+
+ ## University of Essex
+ - [https://essex.academia.edu](https://essex.academia.edu)
+ - date_published: 2024-06-17T11:10:27.270519+00:00
+
+ ## Field Museum
+ - [https://fieldmuseum.academia.edu](https://fieldmuseum.academia.edu)
+ - date_published: 2024-04-30T02:57:57.614569+00:00
+
+ ## Flacso México
+ - [https://flacso-mx.academia.edu](https://flacso-mx.academia.edu)
+ - date_published: 2024-06-17T14:09:50.709946+00:00
+
+ ## University of Florida
+ - [https://florida.academia.edu](https://florida.academia.edu)
+ - date_published: 2024-04-30T03:02:57.232917+00:00
+
+ ## Georgetown University
+ - [https://georgetown.academia.edu](https://georgetown.academia.edu)
+ - date_published: 2024-04-30T02:55:34.566547+00:00
+
+ ## Goldsmiths, University of London
+ - [https://goldsmiths.academia.edu](https://goldsmiths.academia.edu)
+ - date_published: 2024-07-10T11:17:55.427286+00:00
+
+ ## Griffith University
+ - [https://griffith.academia.edu](https://griffith.academia.edu)
+ - date_published: 2024-04-30T02:58:41.376692+00:00
+
+ ## Comunicar Group
+ - [http://grupocomunicar.academia.edu](http://grupocomunicar.academia.edu)
+ - date_published: 2024-07-02T22:46:35.689974+00:00
+
+ ## Al-Baha University, Kingdom of Saudi Arabia
+ - [https://hindawi.academia.edu](https://hindawi.academia.edu)
+ - date_published: 2024-04-30T02:59:30.415035+00:00
+
+ ## Hiroshima University
+ - [https://hiroshima-u.academia.edu](https://hiroshima-u.academia.edu)
+ - date_published: 2024-04-30T02:49:57.512319+00:00
+
+ ## The University of Hong Kong
+ - [https://hku-hk.academia.edu](https://hku-hk.academia.edu)
+ - date_published: 2024-04-30T03:01:30.055085+00:00
+
+ ## Harvey Mudd College
+ - [https://hmc.academia.edu](https://hmc.academia.edu)
+ - date_published: 2024-04-30T02:56:33.921200+00:00
+
+ ## Huntington University
+ - [https://huntington.academia.edu](https://huntington.academia.edu)
+ - date_published: 2024-04-30T03:01:15.988933+00:00
+
+ ## Johns Hopkins University
+ - [https://johnshopkins.academia.edu](https://johnshopkins.academia.edu)
+ - date_published: 2024-05-08T03:05:11.356608+00:00
+
+ ## KAIST
+ - [https://kaist.academia.edu](https://kaist.academia.edu)
+ - date_published: 2024-04-30T03:02:21.493313+00:00
+
+ ## University of Kashan
+ - [https://kashanu.academia.edu](https://kashanu.academia.edu)
+ - date_published: 2024-04-30T02:58:11.551710+00:00
+
+ ## King's College London
+ - [https://kcl.academia.edu](https://kcl.academia.edu)
+ - date_published: 2024-04-30T03:01:24.569120+00:00
+
+ ## Keele University
+ - [http://keele.academia.edu](http://keele.academia.edu)
+ - date_published: 2024-06-15T12:52:54.919254+00:00
+
+ ## University of Kent
+ - [https://kent.academia.edu](https://kent.academia.edu)
+ - date_published: 2024-04-30T02:57:21.779779+00:00
+
  ## Kristiania University College
  - [https://kristiania.academia.edu](https://kristiania.academia.edu)
  - date_published: 2024-04-30T02:49:23.792549+00:00
@@ -3863,145 +4003,4 @@
  ## UB Undergraduate Academic Advisement
  - [https://advising.buffalo.edu](https://advising.buffalo.edu)
  - date_published: 2024-07-22T07:20:10.112926+00:00
-
- ## UB - School of Architecture and Planning
- - [https://archplan.buffalo.edu](https://archplan.buffalo.edu)
- - date_published: 2024-04-30T03:31:02.897286+00:00
-
- ## College of Arts and Sciences
- - [https://arts-sciences.buffalo.edu](https://arts-sciences.buffalo.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## 1Capen – Just another Blogs.1capen.buffalo.edu site
- - [https://blogs.1capen.buffalo.edu](https://blogs.1capen.buffalo.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## UB Libraries Booking System -
-        Home
- - [https://booking.lib.buffalo.edu](https://booking.lib.buffalo.edu)
- - date_published: 2024-07-22T07:18:25.262387+00:00
-
- ## University at Buffalo
- - [https://buffalo.edu](https://buffalo.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## UB Events Calendar
- - [https://calendar.buffalo.edu](https://calendar.buffalo.edu)
- - date_published: 2024-04-30T03:29:57.153947+00:00
-
- ## University at Buffalo - Acalog ACMS™
- - [https://catalog.buffalo.edu](https://catalog.buffalo.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## University at Buffalo - Acalog ACMS™
- - [https://catalogs.buffalo.edu](https://catalogs.buffalo.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Department of Computer Science and Engineering
- - [https://cse.buffalo.edu](https://cse.buffalo.edu)
- - date_published: 2024-02-10T17:55:00.406166+00:00
-
- ## OnCore - Login
- - [https://ctms.buffalo.edu](https://ctms.buffalo.edu)
- - date_published: 2024-08-11T09:59:01.143901+00:00
-
- ## Center for Unified Biometrics and Sensors
- - [https://cubs.buffalo.edu](https://cubs.buffalo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## School of Dental Medicine
- - [https://dental.buffalo.edu](https://dental.buffalo.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Digital Commons @ University at Buffalo School of Law
- - [https://digitalcommons.law.buffalo.edu](https://digitalcommons.law.buffalo.edu)
- - date_published: 2024-06-29T08:56:41.954783+00:00
-
- ## Digital Collections - University at Buffalo Libraries
- - [http://digital.lib.buffalo.edu](http://digital.lib.buffalo.edu)
- - date_published: 2024-07-22T07:13:15.470191+00:00
-
- ## Home | UB Early Childhood Research Center (ECRC)
- - [https://ecrc.buffalo.edu](https://ecrc.buffalo.edu)
- - date_published: 2024-08-11T03:36:01.827082+00:00
-
- ## Graduate School of Education at the University at Buffalo
- - [https://ed.buffalo.edu](https://ed.buffalo.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## UB Alert Information
- - [https://emergency.buffalo.edu](https://emergency.buffalo.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## School of Engineering and Applied Sciences
- - [https://engineering.buffalo.edu](https://engineering.buffalo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Financial Aid – State University of New York
- - [https://financialaid.buffalo.edu](https://financialaid.buffalo.edu)
- - date_published: 2024-07-22T07:20:11.756905+00:00
-
- ## Shibboleth Authentication Request
- - [https://gate.lib.buffalo.edu](https://gate.lib.buffalo.edu)
- - date_published: 2024-06-30T01:30:22.306752+00:00
-
- ## Home | UB Gifted Math Program
- - [https://giftedmath.buffalo.edu](https://giftedmath.buffalo.edu)
- - date_published: 2024-08-11T03:35:54.787012+00:00
-
- ## The Graduate School
- - [https://grad.buffalo.edu](https://grad.buffalo.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Graduate Student Association
- - [http://gsa.buffalo.edu](http://gsa.buffalo.edu)
- - date_published: 2024-08-11T03:35:59.572311+00:00
-
- ## Center of Excellence on Human Capital, Technology Transfer, & Economic Growth and Development :: University at Buffalo ::
- - [http://head.buffalo.edu](http://head.buffalo.edu)
- - date_published: 2024-08-08T22:53:05.303498+00:00
-
- ## SACS Reference Implementation
- - [https://json.webservices.buffalo.edu](https://json.webservices.buffalo.edu)
- - date_published: 2018-07-02T00:00:00+00:00
-
- ## Charles B. Sears Law Library - University at Buffalo Libraries
- - [https://law.lib.buffalo.edu](https://law.lib.buffalo.edu)
- - date_published: 2024-06-29T08:56:40.164925+00:00
-
- ## University at Buffalo Libraries
- - [https://library2.buffalo.edu](https://library2.buffalo.edu)
- - date_published: 2024-07-22T07:13:11.943298+00:00
-
- ## University at Buffalo Libraries
- - [https://library.buffalo.edu](https://library.buffalo.edu)
- - date_published: 2024-04-30T03:31:32.594127+00:00
-
- ## Listserv at UB
- - [http://listserv.buffalo.edu](http://listserv.buffalo.edu)
- - date_published: 2022-12-19T22:52:16+00:00
-
- ## School of Management
- - [https://management.buffalo.edu](https://management.buffalo.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Human Factors and Ergonomics Society Student Chapter – The University at Buffalo, State University of New York
- - [https://markelz.physics.buffalo.edu](https://markelz.physics.buffalo.edu)
- - date_published: 2024-01-09T02:58:27.946041+00:00
-
- ## Jacobs School of Medicine and Biomedical Sciences
- - [https://medicine.buffalo.edu](https://medicine.buffalo.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## School of Management
- - [https://mgt.buffalo.edu](https://mgt.buffalo.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## About UB Mobile
- - [http://mobile.buffalo.edu](http://mobile.buffalo.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## School of Nursing
- - [https://nursing.buffalo.edu](https://nursing.buffalo.edu)
- - date_published: 2024-03-01T00:00:00+00:00
 

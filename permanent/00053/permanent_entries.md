@@ -1,3 +1,36 @@
+ ## Chuck's Trains & Hobby Depot
+ - [https://www.chuckstrains.com](https://www.chuckstrains.com)
+ - date_published: 2024-05-02T09:44:18.955086+00:00
+
+ ## Elia Chudov
+ - [http://elia.chudov.com](http://elia.chudov.com)
+ - date_published: 2016-03-04T17:02:10+00:00
+
+ ## Igor Chudov
+ - [https://igor.chudov.com](https://igor.chudov.com)
+ - date_published: 2022-03-18T13:44:56+00:00
+ - tags: ['personal']
+
+ ## Lev Alekseevich Chudov, 1922-2008
+ - [http://lev.chudov.com](http://lev.chudov.com)
+ - date_published: 2024-07-04T18:07:00.580265+00:00
+
+ ## Igor's index of metalworking and electrical manuals
+ - [https://manuals.chudov.com](https://manuals.chudov.com)
+ - date_published: 2005-05-09T00:00:00+00:00
+
+ ## Simon Kleyn
+ - [http://simon-kleyn.chudov.com](http://simon-kleyn.chudov.com)
+ - date_published: 2024-07-04T04:59:06+00:00
+
+ ## Cierpliwości...
+ - [https://chudovo.com](https://chudovo.com)
+ - date_published: 2024-05-08T09:00:45.406975+00:00
+
+ ## Chuds BBQ Merch Store
+ - [https://www.chudsbbq.com](https://www.chudsbbq.com)
+ - date_published: 2024-07-04T06:36:08.165167+00:00
+
  ## Chuer Pan
  - [https://chuerpan.com](https://chuerpan.com)
  - date_published: 2024-02-16T17:55:40+00:00
@@ -2228,7 +2261,7 @@
  - date_published: 2024-06-15T03:18:12.774124+00:00
 
  ## CIVIC
- - [https://www.civicuk.com](https://www.civicuk.com)
+ - [https://civicuk.com](https://civicuk.com)
  - date_published: 2024-02-05T00:00:00+00:00
 
  ## CivIdle
@@ -3132,8 +3165,9 @@
  - date_published: 2024-07-02T00:00:00+00:00
 
  ## Clayton's Website
- - [https://www.claytonwramsey.com](https://www.claytonwramsey.com)
- - date_published: 2024-06-08T00:00:00+00:00
+ - [https://claytonwramsey.com](https://claytonwramsey.com)
+ - date_published: 2024-08-14T19:47:24.591315+00:00
+ - tags: ['personal']
 
  ## Diễn đàn Marketing (thảo luận, chia sẻ, hỏi đáp)
  - [https://diendan.clbmarketing.com](https://diendan.clbmarketing.com)
@@ -3989,36 +4023,4 @@
  ## ClickUp™ | One app to replace them all
  - [https://clickup.com](https://clickup.com)
  - date_published: 2024-05-01T06:11:21.421251+00:00
-
- ## ClickUp
- - [https://dev-doc.clickup.com](https://dev-doc.clickup.com)
- - date_published: 2024-06-15T02:22:30+00:00
-
- ## ClickUp Forms
- - [https://forms-cdn.clickup.com](https://forms-cdn.clickup.com)
- - date_published: 2024-07-20T01:43:41+00:00
-
- ## ClickUp Forms
- - [https://forms.clickup.com](https://forms.clickup.com)
- - date_published: 2024-04-30T04:56:51.505602+00:00
-
- ## ClickUp™ | One app to replace them all
- - [https://pages.clickup.com](https://pages.clickup.com)
- - date_published: 2024-06-16T01:17:09+00:00
-
- ## ClickUp Worldwide Status
- - [https://status.clickup.com](https://status.clickup.com)
- - date_published: 2024-06-16T08:35:21.695768+00:00
-
- ## ClickUp University
- - [https://university.clickup.com](https://university.clickup.com)
- - date_published: 2024-06-16T08:35:16.320887+00:00
-
- ## AI Training Data and other Data Management Services
- - [https://forum.clickworker.com](https://forum.clickworker.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Marketplace
- - [https://marketplace.clickworker.com](https://marketplace.clickworker.com)
- - date_published: 2024-06-15T01:18:43.749262+00:00
 

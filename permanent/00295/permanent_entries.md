@@ -1,3 +1,239 @@
+ ## Wt/frr - Wikimedia Incubator
+ - [https://frr.wiktionary.org](https://frr.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Wiktionnaire
+ - [https://fr.wiktionary.org](https://fr.wiktionary.org)
+ - date_published: 2024-05-10T04:30:05.401588+00:00
+
+ ## Pagjine principâl - Wt/fur - Wikimedia Incubator
+ - [https://fur.wiktionary.org](https://fur.wiktionary.org)
+ - date_published: 2024-06-28T05:34:38+00:00
+
+ ## Wikiwurdboek
+ - [https://fy.wiktionary.org](https://fy.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## 封面 - Wt/gan - Wikimedia Incubator
+ - [https://gan.wiktionary.org](https://gan.wiktionary.org)
+ - date_published: 2024-06-28T02:45:54+00:00
+
+ ## Vicífhoclóir
+ - [https://ga.wiktionary.org](https://ga.wiktionary.org)
+ - date_published: 2024-06-01T05:00:08+00:00
+
+ ## Wiktionary
+ - [https://gd.wiktionary.org](https://gd.wiktionary.org)
+ - date_published: 2024-05-31T01:46:13+00:00
+
+ ## Wiktionary
+ - [https://gl.wiktionary.org](https://gl.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wiktionary
+ - [https://gn.wiktionary.org](https://gn.wiktionary.org)
+ - date_published: 2024-06-11T08:21:33+00:00
+
+ ## Wiktionary - मुक्त शब्दकोश
+ - [https://gom.wiktionary.org](https://gom.wiktionary.org)
+ - date_published: 2024-06-11T12:31:10+00:00
+
+ ## Wikikamus
+ - [https://gor.wiktionary.org](https://gor.wiktionary.org)
+ - date_published: 2024-06-01T01:44:35+00:00
+
+ ## Wt/got - Wikimedia Incubator
+ - [https://got.wiktionary.org](https://got.wiktionary.org)
+ - date_published: 2024-07-09T09:56:25+00:00
+
+ ## Ghanaian Pidgin Wiktionary - Wikimedia Incubator
+ - [https://gpe.wiktionary.org](https://gpe.wiktionary.org)
+ - date_published: 2024-07-12T03:21:04.984581+00:00
+
+ ## Frafra Wiktionary - Wikimedia Incubator
+ - [https://gur.wiktionary.org](https://gur.wiktionary.org)
+ - date_published: 2024-07-12T03:03:23.273618+00:00
+
+ ## વિકિકોશ
+ - [https://gu.wiktionary.org](https://gu.wiktionary.org)
+ - date_published: 2024-06-15T06:12:30+00:00
+
+ ## Wiktionary
+ - [https://guw.wiktionary.org](https://guw.wiktionary.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## Wiktionary
+ - [https://gv.wiktionary.org](https://gv.wiktionary.org)
+ - date_published: 2024-06-01T04:39:24+00:00
+
+ ## Wiktionary
+ - [https://ha.wiktionary.org](https://ha.wiktionary.org)
+ - date_published: 2024-06-01T03:14:29+00:00
+
+ ## Papa Kinohi - Wt/haw - Wikimedia Incubator
+ - [https://haw.wiktionary.org](https://haw.wiktionary.org)
+ - date_published: 2024-06-01T12:24:48+00:00
+
+ ## ויקימילון
+ - [https://he.wiktionary.org](https://he.wiktionary.org)
+ - date_published: 2024-06-11T12:31:11+00:00
+
+ ## Sabdkosh
+ - [https://hif.wiktionary.org](https://hif.wiktionary.org)
+ - date_published: 2024-05-31T20:19:26+00:00
+
+ ## विक्षनरी
+ - [https://hi.wiktionary.org](https://hi.wiktionary.org)
+ - date_published: 2024-06-01T02:38:11+00:00
+
+ ## Wiktionary
+ - [https://hr.wiktionary.org](https://hr.wiktionary.org)
+ - date_published: 2024-05-31T18:36:19+00:00
+
+ ## Wikisłownik
+ - [https://hsb.wiktionary.org](https://hsb.wiktionary.org)
+ - date_published: 2024-06-01T12:27:35+00:00
+
+ ## Wt/ht - Wikimedia Incubator
+ - [https://ht.wiktionary.org](https://ht.wiktionary.org)
+ - date_published: 2024-07-09T09:56:24+00:00
+
+ ## Wikiszótár
+ - [https://hu.wiktionary.org](https://hu.wiktionary.org)
+ - date_published: 2024-06-11T12:31:20+00:00
+
+ ## Վիքիբառարան
+ - [https://hy.wiktionary.org](https://hy.wiktionary.org)
+ - date_published: 2024-05-31T17:49:59+00:00
+
+ ## Western Armenian Wiktionary - Wikimedia Incubator
+ - [https://hyw.wiktionary.org](https://hyw.wiktionary.org)
+ - date_published: 2024-07-12T04:17:26.525687+00:00
+
+ ## Wiktionario
+ - [https://ia.wiktionary.org](https://ia.wiktionary.org)
+ - date_published: 2024-05-31T14:27:29+00:00
+
+ ## Wikikamus
+ - [https://id.wiktionary.org](https://id.wiktionary.org)
+ - date_published: 2024-06-11T12:31:41+00:00
+
+ ## Wiktionary
+ - [https://ie.wiktionary.org](https://ie.wiktionary.org)
+ - date_published: 2024-06-01T07:34:15+00:00
+
+ ## Ogbá ogbolo - Wt/igl - Wikimedia Incubator
+ - [https://igl.wiktionary.org](https://igl.wiktionary.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Wiktionary
+ - [https://ig.wiktionary.org](https://ig.wiktionary.org)
+ - date_published: 2024-05-31T20:20:21+00:00
+
+ ## Wiktionary
+ - [https://ik.wiktionary.org](https://ik.wiktionary.org)
+ - date_published: 2024-05-31T13:33:02+00:00
+
+ ## Wikivortaro
+ - [https://io.wiktionary.org](https://io.wiktionary.org)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Wikiorðabók
+ - [https://is.wiktionary.org](https://is.wiktionary.org)
+ - date_published: 2024-06-12T10:52:31+00:00
+
+ ## Wikizionario
+ - [https://it.wiktionary.org](https://it.wiktionary.org)
+ - date_published: 2024-06-14T08:48:07+00:00
+
+ ## Wiktionary
+ - [https://iu.wiktionary.org](https://iu.wiktionary.org)
+ - date_published: 2024-06-10T13:00:05+00:00
+
+ ## Wiktionary
+ - [https://ja.wiktionary.org](https://ja.wiktionary.org)
+ - date_published: 2024-06-15T03:19:08+00:00
+
+ ## Wiktionary
+ - [https://jbo.wiktionary.org](https://jbo.wiktionary.org)
+ - date_published: 2024-06-01T05:32:21+00:00
+
+ ## Wikisastra, bausastra mardika
+ - [https://jv.wiktionary.org](https://jv.wiktionary.org)
+ - date_published: 2024-06-15T02:37:20+00:00
+
+ ## Wiktionary
+ - [https://kaa.wiktionary.org](https://kaa.wiktionary.org)
+ - date_published: 2024-06-14T10:43:20+00:00
+
+ ## Asebter agejdan - Wt/kab - Wikimedia Incubator
+ - [https://kab.wiktionary.org](https://kab.wiktionary.org)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## ვიქსიკონი
+ - [https://ka.wiktionary.org](https://ka.wiktionary.org)
+ - date_published: 2024-06-12T08:29:08+00:00
+
+ ## Википсалъалъэ
+ - [https://kbd.wiktionary.org](https://kbd.wiktionary.org)
+ - date_published: 2024-06-01T09:25:52+00:00
+
+ ## Swánga̱lyiatwuki
+ - [https://kcg.wiktionary.org](https://kcg.wiktionary.org)
+ - date_published: 2024-06-01T12:24:40+00:00
+
+ ## Kongo Wiktionary - Wikimedia Incubator
+ - [https://kg.wiktionary.org](https://kg.wiktionary.org)
+ - date_published: 2024-07-12T05:16:56.354069+00:00
+
+ ## Уикисөздік
+ - [https://kk.wiktionary.org](https://kk.wiktionary.org)
+ - date_published: 2024-05-31T23:21:00+00:00
+
+ ## Wiktionary
+ - [https://kl.wiktionary.org](https://kl.wiktionary.org)
+ - date_published: 2024-06-01T02:31:11+00:00
+
+ ## Wiktionary
+ - [https://km.wiktionary.org](https://km.wiktionary.org)
+ - date_published: 2024-05-31T12:33:25+00:00
+
+ ## ವಿಕ್ಷನರಿ
+ - [https://kn.wiktionary.org](https://kn.wiktionary.org)
+ - date_published: 2024-06-01T04:59:39+00:00
+
+ ## 위키낱말사전
+ - [https://ko.wiktionary.org](https://ko.wiktionary.org)
+ - date_published: 2024-06-11T12:31:43+00:00
+
+ ## وِکیٖلۄغَتھ
+ - [https://ks.wiktionary.org](https://ks.wiktionary.org)
+ - date_published: 2024-06-01T12:26:49+00:00
+
+ ## Wîkîferheng
+ - [https://ku.wiktionary.org](https://ku.wiktionary.org)
+ - date_published: 2024-06-01T12:23:58+00:00
+
+ ## Komi Wiktionary - Wikimedia Incubator
+ - [https://kv.wiktionary.org](https://kv.wiktionary.org)
+ - date_published: 2024-07-12T02:19:14.687760+00:00
+
+ ## Wiktionary
+ - [https://kw.wiktionary.org](https://kw.wiktionary.org)
+ - date_published: 2024-06-01T10:43:49+00:00
+
+ ## Wiktionary
+ - [https://ky.wiktionary.org](https://ky.wiktionary.org)
+ - date_published: 2024-05-31T13:05:06+00:00
+
+ ## La Hoja Primera - Wt/lad - Wikimedia Incubator
+ - [https://lad.wiktionary.org](https://lad.wiktionary.org)
+ - date_published: 2024-06-28T03:48:25+00:00
+
+ ## Victionarium
+ - [https://la.wiktionary.org](https://la.wiktionary.org)
+ - date_published: 2024-06-11T12:31:44+00:00
+
  ## Wiktionnaire
  - [https://lb.wiktionary.org](https://lb.wiktionary.org)
  - date_published: 2024-06-11T20:32:17+00:00
@@ -3794,242 +4030,4 @@ Conference Series
  ## Snippets Wiki (Main.WebHome) - XWiki
  - [https://snippets.xwiki.org](https://snippets.xwiki.org)
  - date_published: 2024-07-08T14:07:34.325312+00:00
-
- ## XWiki - The Advanced Open Source Enterprise and Application Wiki (XWiki.org)
- - [https://xwiki.org](https://xwiki.org)
- - date_published: 2024-05-08T11:31:51.165752+00:00
-
- ## Home - XWiki
- - [https://www.xwikiplayground.org](https://www.xwikiplayground.org)
- - date_published: 2024-07-08T14:07:18.018101+00:00
-
- ## The XYZZY Awards | News and reviews from the annual interactive fiction awards
- - [https://xyzzyawards.org](https://xyzzyawards.org)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## VIRTUAL Y Login | YMCA of Greater Fort Wayne
- - [https://fwymcavirtualy.y.org](https://fwymcavirtualy.y.org)
- - date_published: 2024-07-21T02:46:08.183876+00:00
-
- ## Overview — Yade 3rd ed. documentation
- - [https://yade-dem.org](https://yade-dem.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Yad Vashem. The World Holocaust Remembrance Center
- - [https://www.yadvashem.org](https://www.yadvashem.org)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home - Yaffed
- - [https://yaffed.org](https://yaffed.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Yajin Zhou@Zhejiang University
- - [https://yajin.org](https://yajin.org)
- - date_published: 2024-06-16T03:58:50.068570+00:00
-
- ## The Yak Collective
- - [https://www.yakcollective.org](https://www.yakcollective.org)
- - date_published: 2024-06-17T03:33:01.599766+00:00
-
- ## Yakforms
- - [https://yakforms.org](https://yakforms.org)
- - date_published: 2024-03-15T15:20:22+00:00
-
- ## Custom Domain by Bitly
- - [http://yaleart.org](http://yaleart.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Yale Cabaret – The Yale Cabaret
- - [https://yalecabaret.org](https://yalecabaret.org)
- - date_published: 2024-05-07T22:42:38.288057+00:00
-
- ## Yale Guild of Carillonneurs
- - [http://www.yalecarillon.org](http://www.yalecarillon.org)
- - date_published: 2024-07-02T15:45:59.054094+00:00
-
- ## Yale Climate Connections
- - [https://yaleclimateconnections.org](https://yaleclimateconnections.org)
- - date_published: 2024-01-21T19:45:03.571967+00:00
-
- ## Yale Dramatic Association |
- - [https://yaledramat.org](https://yaledramat.org)
- - date_published: 2024-05-07T22:42:52.069371+00:00
-
- ## The Yale Law Journal - Home
- - [https://yalelawjournal.org](https://yalelawjournal.org)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Yale Medicine
- - [https://cdn2.yalemedicine.org](https://cdn2.yalemedicine.org)
- - date_published: 2024-07-02T15:45:30.408136+00:00
-
- ## Yale Medicine
- - [https://yalemedicine.org](https://yalemedicine.org)
- - date_published: 2024-05-07T22:42:32.592907+00:00
-
- ## Yale Repertory Theatre
- - [https://www.yalerep.org](https://www.yalerep.org)
- - date_published: 2024-07-08T15:06:45.311210+00:00
-
- ## The Yale Review | Homepage
- - [https://yalereview.org](https://yalereview.org)
- - date_published: 2023-10-25T22:23:27.461566+00:00
-
- ## Yale Scientific Magazine – The Nation's Oldest College Science Publication
- - [https://www.yalescientific.org](https://www.yalescientific.org)
- - date_published: 2024-07-03T21:49:54.550870+00:00
-
- ## Yale web fonts
- - [https://yale-webfonts.yalespace.org](https://yale-webfonts.yalespace.org)
- - date_published: 2024-04-23T20:24:21+00:00
-
- ## Index of /
- - [https://deponie.yamagi.org](https://deponie.yamagi.org)
- - date_published: 2024-07-11T12:39:16.460034+00:00
-
- ## Yamagi.org - Welcome
- - [https://yamagi.org](https://yamagi.org)
- - date_published: 2020-05-24T16:49:15+00:00
-
- ## Ty-Lab@FHU / 藤田医科大学 医学部 生理学II講座
- - [https://www.yamashitalab.org](https://www.yamashitalab.org)
- - date_published: 2024-06-23T22:29:43.697856+00:00
-
- ## The Official YAML Web Site
- - [https://yaml.org](https://yaml.org)
- - date_published: 2021-10-01T00:00:00+00:00
- - tags: ['yaml', 'programming language']
-
- ## YAMLScript.org
- - [https://yamlscript.org](https://yamlscript.org)
- - date_published: 2023-12-21T23:22:49.234264+00:00
-
- ## Yan Feng – A laser physicist and father of two girls.
- - [http://yanfeng.org](http://yanfeng.org)
- - date_published: 2024-06-17T12:12:07.382336+00:00
-
- ## Yansiklopedi:Ana Sayfa - Yansiklopedi
- - [https://m.yansiklopedi.org](https://m.yansiklopedi.org)
- - date_published: 2024-07-14T06:36:48.548174+00:00
-
- ## Yansiklopedi:Ana Sayfa - Yansiklopedi
- - [https://yansiklopedi.org](https://yansiklopedi.org)
- - date_published: 2024-05-11T09:47:07.439576+00:00
-
- ## Perl Foundation Conferences
- - [https://yapc.org](https://yapc.org)
- - date_published: 2024-05-30T13:10:52.028911+00:00
-
- ## French Perl Workshop 2020
- - [http://conferences.yapceurope.org](http://conferences.yapceurope.org)
- - date_published: 2024-07-07T09:47:21.457923+00:00
-
- ## YAPC::Europe Foundation - Home
- - [http://www.yapceurope.org](http://www.yapceurope.org)
- - date_published: 2019-11-03T00:20:14+00:00
-
- ## YAQU PACHA e.V.
- - [http://www.yaqupacha.org](http://www.yaqupacha.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Yardi - Energized for Good
- - [https://www.yardi.org](https://www.yardi.org)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## YARD - A Ruby Documentation Tool
- - [https://yardoc.org](https://yardoc.org)
- - date_published: 2021-02-17T13:59:24+00:00
-
- ## Yarışanat
- - [https://www.yarisanat.org](https://www.yarisanat.org)
- - date_published: 2024-07-07T07:30:34.756422+00:00
-
- ## やたがらすナビ
- - [https://yatanavi.org](https://yatanavi.org)
- - date_published: 2014-03-16T04:12:00+00:00
-
- ## Yatima
- - [http://www.yatima.org](http://www.yatima.org)
- - date_published: 2024-07-07T08:47:46.794181+00:00
-
- ## Yavneh College – A World Built on Kindness
- - [https://yavnehcollege.org](https://yavnehcollege.org)
- - date_published: 2024-07-03T17:15:13.884734+00:00
-
- ## Yawast
- - [https://yawast.org](https://yawast.org)
- - date_published: 2024-05-01T02:25:13.684126+00:00
-
- ## yaxim · yax.im - yaxim
- - [https://yaxim.org](https://yaxim.org)
- - date_published: 2024-04-29T07:24:36+00:00
- - tags: ['jabber', 'xmpp', 'chat app']
-
- ## YBG Festival Home – Free outdoor performing arts in downtown San Francisco
- - [https://ybgfestival.org](https://ybgfestival.org)
- - date_published: 2024-06-22T18:51:47.106594+00:00
-
- ## YCAB Foundation – Child by Child We Build Our World
- - [https://www.ycabfoundation.org](https://www.ycabfoundation.org)
- - date_published: 2024-08-08T03:10:03+00:00
-
- ## Young Communist League USA – Building a better world by fighting for peace, jobs, democracy, and socialism!
- - [http://www.yclusa.org](http://www.yclusa.org)
- - date_published: 2024-07-08T14:26:44.026972+00:00
-
- ## YCore
- - [https://ycore.org](https://ycore.org)
- - date_published: 2024-05-08T03:46:42.926070+00:00
-
- ## Failures to Act
- - [https://ydcpodcast.org](https://ydcpodcast.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## YELL Canada - We Empower Youth to Take on the Future.
- - [https://yellcanada.org](https://yellcanada.org)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## YellowGrass.org - The Tag-Based Issue Tracker
- - [http://yellowgrass.org](http://yellowgrass.org)
- - date_published: 2024-06-16T21:14:40.026651+00:00
-
- ## Yellow - A space of learning for a complex world
- - [https://www.yellowlearning.org](https://www.yellowlearning.org)
- - date_published: 2024-05-01T03:04:48.676883+00:00
-
- ## Yelp Foundation
- - [https://www.yelpfoundation.org](https://www.yelpfoundation.org)
- - date_published: 2024-04-19T14:57:21+00:00
-
- ## Home Page New - Yemen Relief and Reconstruction Foundation
- - [https://yemenfoundation.org](https://yemenfoundation.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Yemeni Archive
- - [https://yemeniarchive.org](https://yemeniarchive.org)
- - date_published: 2024-06-27T10:50:33+00:00
-
- ## Lars Yencken - Homepage
- - [https://lars.yencken.org](https://lars.yencken.org)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## YERFEJ...a fanlisting collective
- - [http://yerfej.org](http://yerfej.org)
- - date_published: 2024-06-20T21:17:18.738659+00:00
-
- ## YESD Travel – Authentic. Responsible. Tours that Translate
- - [https://yesd.org](https://yesd.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## YES! Magazine | Solutions Journalism
- - [https://www.yesmagazine.org](https://www.yesmagazine.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Yesterweb Cafe  | Hubs by Mozilla
- - [https://cafe.yesterweb.org](https://cafe.yesterweb.org)
- - date_published: 2024-05-29T07:54:07.679694+00:00
-
- ## Yesterweb Forum - Index page
- - [https://forum.yesterweb.org](https://forum.yesterweb.org)
- - date_published: 2024-05-29T00:00:00+00:00
 

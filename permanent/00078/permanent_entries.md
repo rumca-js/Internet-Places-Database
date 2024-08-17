@@ -1,3 +1,43 @@
+ ## Financial Times - Sign In
+ - [https://biz-ops.in.ft.com](https://biz-ops.in.ft.com)
+ - date_published: 2024-06-19T23:29:15.955604+00:00
+
+ ## Financial Times
+ - [http://blogs.ft.com](http://blogs.ft.com)
+ - date_published: 2024-06-20T03:46:51.740622+00:00
+
+ ## Origami Build Service
+ - [https://build.origami.ft.com](https://build.origami.ft.com)
+ - date_published: 2024-06-17T19:26:40.360705+00:00
+
+ ## Business Book of the Year Award 2024 - Financial Times Event
+ - [https://businessbook.live.ft.com](https://businessbook.live.ft.com)
+ - date_published: 2024-06-19T23:28:48.046825+00:00
+
+ ## Creating and Energising a Strong Corporate Culture - FT Live
+ - [https://businessbookwebinarculture.live.ft.com](https://businessbookwebinarculture.live.ft.com)
+ - date_published: 2024-06-19T23:26:23.275791+00:00
+
+ ## FT & Schroders | A look into the Longlist
+ - [https://businessbookwebinarfinal.live.ft.com](https://businessbookwebinarfinal.live.ft.com)
+ - date_published: 2024-06-19T23:27:59.200140+00:00
+
+ ## Implementing the AI vision
+ - [https://businessbookwebinartech.live.ft.com](https://businessbookwebinartech.live.ft.com)
+ - date_published: 2024-06-19T23:28:36.359334+00:00
+
+ ## Business of Football Summit
+ - [https://businessoffootball.live.ft.com](https://businessoffootball.live.ft.com)
+ - date_published: 2024-06-19T23:28:13.992545+00:00
+
+ ## Future of the Car Summit | 7-9 May 2024, London | FT Live
+ - [https://car.live.ft.com](https://car.live.ft.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://channels.ft.com](https://channels.ft.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
  ## Transforming the Clinical Research Experience
  - [https://clinicalresearchexperience.live.ft.com](https://clinicalresearchexperience.live.ft.com)
  - date_published: 2024-06-19T23:27:44.279580+00:00
@@ -4018,44 +4058,4 @@
  ## Expert digital pour vos activations media multicanal
  - [https://be-fr.gamned.com](https://be-fr.gamned.com)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Digitale expert voor uw media-activiteiten
- - [https://be-nl.gamned.com](https://be-nl.gamned.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## DIGITALE EXPERTEN FÜR IHRE MEDIENKAMPAGNEN
- - [https://ch-de.gamned.com](https://ch-de.gamned.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Expert digital pour vos activations media multicanal
- - [https://ch-fr.gamned.com](https://ch-fr.gamned.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## DIGITAL EXPERT FOR TAILOR-MADE, INNOVATIVE & EFFECTIVE ACTIVATIONS!
- - [https://en.gamned.com](https://en.gamned.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## DIGITAL EXPERT FOR TAILOR-MADE, INNOVATIVE & EFFECTIVE ACTIVATIONS!
- - [https://it.gamned.com](https://it.gamned.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## A especialista digital para suas ativações Feita sob medida, inovadora e eficaz
- - [https://pt.gamned.com](https://pt.gamned.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Expert digital pour vos activations sur-mesure, innovantes et efficaces !
- - [https://www.gamned.com](https://www.gamned.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Gamoshi | Programmatic Advertising Technology
- - [https://www.gamoshi.com](https://www.gamoshi.com)
- - date_published: 2024-05-06T18:01:22.421185+00:00
-
- ## Georgia Mountain Town Coffee Roasting: Mail Order Coffee Service
- - [https://gamountaincoffee.com](https://gamountaincoffee.com)
- - date_published: 2023-11-03T00:00:00+00:00
-
- ## GAMS - Cutting Edge Modeling
- - [https://www.gams.com](https://www.gams.com)
- - date_published: 2024-07-01T00:00:00+00:00
 

@@ -1,3 +1,146 @@
+ ## Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
+ - [https://irp.cs.columbia.edu](https://irp.cs.columbia.edu)
+ - date_published: 2022-07-01T02:01:20+00:00
+
+ ## Institute for Social and Economic Research and Policy (ISERP)
+ - [http://iserp.columbia.edu](http://iserp.columbia.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Columbia Journalism School
+ - [http://journalism.columbia.edu](http://journalism.columbia.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Columbia Library Journals
+ - [https://journals.library.columbia.edu](https://journals.library.columbia.edu)
+ - date_published: 2024-06-29T06:05:37.864133+00:00
+
+ ## Columbia Giving
+ - [https://justsocieties.givenow.columbia.edu](https://justsocieties.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:45.595454+00:00
+
+ ## The Kermit Project - Columbia University:
+ Terminal Emulation, File Transfer, Scripting
+ - [https://kermit.columbia.edu](https://kermit.columbia.edu)
+ - date_published: 2024-05-08T09:12:36.452054+00:00
+
+ ## Law, Rights, and Religion Project
+ - [https://lawrightsreligion.law.columbia.edu](https://lawrightsreligion.law.columbia.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Libraries Home | Columbia University Libraries
+ - [https://library.columbia.edu](https://library.columbia.edu)
+ - date_published: 2024-04-30T03:55:42.681297+00:00
+
+ ## Welcome to Augustus C. Long Health Sciences Library | Augustus C. Long Health Sciences Library
+ - [https://library.cumc.columbia.edu](https://library.cumc.columbia.edu)
+ - date_published: 2024-07-21T23:31:03+00:00
+
+ ## Columbia Giving
+ - [https://library.givenow.columbia.edu](https://library.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:45:12.080504+00:00
+
+ ## Local News Lab - Brown Institute - Columbia University
+ - [https://lnl.brown.columbia.edu](https://lnl.brown.columbia.edu)
+ - date_published: 2023-10-24T00:00:00+00:00
+
+ ## Columbia Magazine
+ - [https://magazine.columbia.edu](https://magazine.columbia.edu)
+ - date_published: 2023-10-25T18:49:57.691308+00:00
+
+ ## Department of Mathematics at Columbia University - Welcome
+ - [https://mail.math.columbia.edu](https://mail.math.columbia.edu)
+ - date_published: 2024-06-30T09:08:04.555064+00:00
+
+ ## Department of Mathematics at Columbia University - Welcome
+ - [https://math.columbia.edu](https://math.columbia.edu)
+ - date_published: 2024-05-07T15:56:49.200989+00:00
+
+ ## Columbia University Authentication
+ - [https://mice.cs.columbia.edu](https://mice.cs.columbia.edu)
+ - date_published: 2024-04-30T03:57:06.698061+00:00
+
+ ## Columbia Neighbors
+ - [https://neighbors.columbia.edu](https://neighbors.columbia.edu)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## State of the Planet - News from the Columbia Climate School
+ - [https://news.climate.columbia.edu](https://news.climate.columbia.edu)
+ - date_published: 2023-12-20T22:47:58.538909+00:00
+
+ ## Columbia News
+ - [https://news.columbia.edu](https://news.columbia.edu)
+ - date_published: 2023-12-05T18:08:58.749533+00:00
+
+ ## Home
+ - [https://opportunities.columbia.edu](https://opportunities.columbia.edu)
+ - date_published: 2024-07-22T05:55:26.522395+00:00
+
+ ## Columbia University | Our Values
+ - [https://ourvalues.columbia.edu](https://ourvalues.columbia.edu)
+ - date_published: 2024-04-30T03:55:34.036752+00:00
+
+ ## PaperBot: Learning to Design Real-World Tools Using Paper
+ - [https://paperbot.cs.columbia.edu](https://paperbot.cs.columbia.edu)
+ - date_published: 2024-06-25T17:16:50+00:00
+
+ ## About PEERING |
+    
+    PEERING - The BGP Testbed
+ - [https://peering.ee.columbia.edu](https://peering.ee.columbia.edu)
+ - date_published: 2024-06-17T03:31:48.710343+00:00
+
+ ## Physical Education and Recreation
+ - [https://perec.columbia.edu](https://perec.columbia.edu)
+ - date_published: 2024-06-28T19:31:59+00:00
+
+ ## Columbia Plus
+ - [https://plus.columbia.edu](https://plus.columbia.edu)
+ - date_published: 2024-04-30T03:55:32.741149+00:00
+
+ ## University Policies
+ - [http://policylibrary.columbia.edu](http://policylibrary.columbia.edu)
+ - date_published: 2024-07-12T21:11:59+00:00
+
+ ## Political Science
+ - [http://polisci.columbia.edu](http://polisci.columbia.edu)
+ - date_published: 2024-06-11T14:55:51+00:00
+
+ ## Power: Infrastructure in America
+ - [https://power.buellcenter.columbia.edu](https://power.buellcenter.columbia.edu)
+ - date_published: 2023-09-30T07:51:34+00:00
+
+ ## Columbia Giving
+ - [https://precisionmedicine.givenow.columbia.edu](https://precisionmedicine.givenow.columbia.edu)
+ - date_published: 2024-07-22T05:44:48.692586+00:00
+
+ ## Columbia University Pre-College Programs
+ - [https://precollege.sps.columbia.edu](https://precollege.sps.columbia.edu)
+ - date_published: 2024-04-30T03:49:20.102489+00:00
+
+ ## HICCC ANNUAL REPORT 2023
+ - [https://pubs.cancer.columbia.edu](https://pubs.cancer.columbia.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Columbia College
+ - [http://rabi.columbia.edu](http://rabi.columbia.edu)
+ - date_published: 2024-07-08T13:43:52+00:00
+
+ ## The Real Estate Record: Home
+ - [https://rerecord.library.columbia.edu](https://rerecord.library.columbia.edu)
+ - date_published: 2024-05-07T15:03:49.432581+00:00
+
+ ## RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects
+ - [https://roboninja.cs.columbia.edu](https://roboninja.cs.columbia.edu)
+ - date_published: 2023-05-01T06:28:22+00:00
+
+ ## Columbia University Search
+ - [http://search.columbia.edu](http://search.columbia.edu)
+ - date_published: 2024-07-22T05:40:52.946583+00:00
+
+ ## Columbia University Search
+ - [https://search.sites.columbia.edu](https://search.sites.columbia.edu)
+ - date_published: 2024-04-30T03:57:33.332050+00:00
+
  ## Socioeconomic Data and Applications Center | SEDAC
  - [https://sedac.ciesin.columbia.edu](https://sedac.ciesin.columbia.edu)
  - date_published: 2024-05-09T07:19:35.951462+00:00
@@ -3857,144 +4000,4 @@
  ## Google to Microsoft 365 Migration |
  - [http://panthermail.fiu.edu](http://panthermail.fiu.edu)
  - date_published: 2024-07-22T04:15:02.307972+00:00
-
- ## Parking &amp; Transportation
- - [https://parking.fiu.edu](https://parking.fiu.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## FIU Phonebook
- - [https://phonebook.fiu.edu](https://phonebook.fiu.edu)
- - date_published: 2024-04-30T04:15:03.150013+00:00
-
- ## University Police Department
- - [https://police.fiu.edu](https://police.fiu.edu)
- - date_published: 2024-07-17T15:44:16+00:00
-
- ## Search | P&P Library
- - [https://policies.fiu.edu](https://policies.fiu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Presidential Search
- - [https://presidentialsearch.fiu.edu](https://presidentialsearch.fiu.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Index Page
- - [https://pslinks.fiu.edu](https://pslinks.fiu.edu)
- - date_published: 2024-06-07T00:42:51+00:00
-
- ## Welcome: Board of Trustees Regulations
- - [https://regulations.fiu.edu](https://regulations.fiu.edu)
- - date_published: 2024-08-11T02:41:51.719436+00:00
-
- ## Panthers Protecting Panthers
- - [https://repopulation.fiu.edu](https://repopulation.fiu.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Report a Concern
- - [https://report.fiu.edu](https://report.fiu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Home - Research
- - [http://research.fiu.edu](http://research.fiu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Request a Space |
- - [https://reservespace.fiu.edu](https://reservespace.fiu.edu)
- - date_published: 2024-06-07T22:44:44.235939+00:00
-
- ## Home - ShopFIU
- - [https://shop.fiu.edu](https://shop.fiu.edu)
- - date_published: 2024-07-22T04:15:32.660844+00:00
-
- ## Steven J. Green School of International &amp; Public Affairs
- - [https://sipa.fiu.edu](https://sipa.fiu.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Social Media
- - [http://social.fiu.edu](http://social.fiu.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Robert Stempel College of Public Health &amp; Social Work
- - [https://stempel.fiu.edu](https://stempel.fiu.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Strategic Communications, Government and External Affairs
- - [https://stratcomm.fiu.edu](https://stratcomm.fiu.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Division of Academic &amp; Student Affairs
- - [http://studentaffairs.fiu.edu](http://studentaffairs.fiu.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Forward-Thinking. Innovative. Unstoppable.
- - [https://top50.fiu.edu](https://top50.fiu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Transfer &amp; Transition Services
- - [https://transfer.fiu.edu](https://transfer.fiu.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## MachForm Admin Panel
- - [https://webforms.fiu.edu](https://webforms.fiu.edu)
- - date_published: 2024-04-30T04:14:47.420081+00:00
-
- ## Welcome to FIU
- - [https://welcome.fiu.edu](https://welcome.fiu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Knight Foundation School of Computing and Information Sciences
- - [http://www.cis.fiu.edu](http://www.cis.fiu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home | FCI
- - [https://www.fivecolleges.edu](https://www.fivecolleges.edu)
- - date_published: 2024-07-02T03:20:06.383023+00:00
-
- ## Home - Tallahassee State College
- - [https://www.tsc.fl.edu](https://www.tsc.fl.edu)
- - date_published: 2024-07-19T14:00:18+00:00
-
- ## Where history begins. | Flagler College
- - [http://www.flagler.edu](http://www.flagler.edu)
- - date_published: 2024-06-28T15:47:44+00:00
-
- ## State University System of Florida
- - [https://flbog.edu](https://flbog.edu)
- - date_published: 2024-04-30T04:16:15.757109+00:00
-
- ## Catalog of the Folger Shakespeare Library
- - [https://catalog.folger.edu](https://catalog.folger.edu)
- - date_published: 2024-06-29T10:01:54.851307+00:00
-
- ## Collation | Folger Shakespeare Library
- - [https://collation.folger.edu](https://collation.folger.edu)
- - date_published: 2024-05-07T10:20:20.322787+00:00
-
- ## Events | Folger Shakespeare Library
- - [https://events.folger.edu](https://events.folger.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Explore the Collection | Digital Collections
- - [https://luna.folger.edu](https://luna.folger.edu)
- - date_published: 2024-06-22T00:36:48+00:00
-
- ## Home | Folger Shakespeare Library
- - [https://folger.edu](https://folger.edu)
- - date_published: 2024-05-07T10:25:33.742212+00:00
-
- ## Fontbonne University – Soar Higher
- - [http://www.fontbonne.edu](http://www.fontbonne.edu)
- - date_published: 2024-07-15T06:04:12.731753+00:00
-
- ## Foothill College | Home - Foothill College
- - [https://foothill.edu](https://foothill.edu)
- - date_published: 2024-05-09T08:42:05.495631+00:00
-
- ## Fordham University Directory
- - [https://411.fordham.edu](https://411.fordham.edu)
- - date_published: 2024-06-24T10:00:58.718665+00:00
-
- ## Undergraduate Admission | Fordham
- - [https://admission.fordham.edu](https://admission.fordham.edu)
- - date_published: 2024-06-24T10:00:45.157268+00:00
 

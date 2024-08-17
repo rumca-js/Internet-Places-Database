@@ -1,3 +1,7 @@
+ ## Gilded Audio
+ - [https://www.gilded.audio](https://www.gilded.audio)
+ - date_published: 2024-07-13T03:47:22.393440+00:00
+
  ## Forum
  - [https://forum.hise.audio](https://forum.hise.audio)
  - date_published: 2024-08-07T00:00:00+00:00
@@ -4021,8 +4025,4 @@ La LUSS est la fédération francophone des associations de patients et de proch
  ## Universiteit Gent
  - [https://ugent.be](https://ugent.be)
  - date_published: 2024-04-29T00:00:00+00:00
-
- ## UGent-ELIS homepage
- - [https://users.elis.ugent.be](https://users.elis.ugent.be)
- - date_published: 2012-08-24T13:25:27+00:00
 

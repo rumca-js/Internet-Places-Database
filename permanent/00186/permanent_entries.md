@@ -1,3 +1,148 @@
+ ## Sprig
+ - [https://sprig-nocode.hackclub.dev](https://sprig-nocode.hackclub.dev)
+ - date_published: 2024-06-20T15:25:22.649152+00:00
+
+ ## AI powered job recommendations for developers
+ - [https://hackers.dev](https://hackers.dev)
+ - date_published: 2024-06-19T18:50:08.570610+00:00
+
+ ## Redirecting
+ - [https://unimport.hakancelik.dev](https://unimport.hakancelik.dev)
+ - date_published: 2023-12-24T07:42:28+00:00
+
+ ## Hamel’s Blog
+ - [https://hamel.dev](https://hamel.dev)
+ - date_published: 2023-10-25T08:58:29.383909+00:00
+ - tags: ['personal']
+
+ ## Refine - a drop-in query builder for Laravel Nova and Rails
+ - [https://hammerstone.dev](https://hammerstone.dev)
+ - date_published: 2024-06-23T11:17:38.280374+00:00
+
+ ## hapi.dev
+ - [https://hapi.dev](https://hapi.dev)
+ - date_published: 2024-06-23T04:13:58.610330+00:00
+
+ ## Harrie Pieters - Personal Website
+ - [https://harriepieters.dev](https://harriepieters.dev)
+ - date_published: 2024-05-16T14:12:48+00:00
+
+ ## Harris Jose
+ - [https://harrisjose.dev](https://harrisjose.dev)
+ - date_published: 2023-12-12T13:08:55.908400+00:00
+ - tags: ['personal']
+
+ ## Harry Llewelyn - Developer
+ - [https://harry.dev](https://harry.dev)
+ - date_published: 2023-12-28T22:26:50.855629+00:00
+ - tags: ['personal']
+
+ ## Haseeb Majid
+ - [https://haseebmajid.dev](https://haseebmajid.dev)
+ - date_published: 2024-05-11T10:19:31.928258+00:00
+
+ ## haseebmajid – GoatCounter
+ - [https://stats.haseebmajid.dev](https://stats.haseebmajid.dev)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## HASH.dev – HASH for Developers
+ - [https://hash.dev](https://hash.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Abid Moon
+ - [https://abidmoon.hashnode.dev](https://abidmoon.hashnode.dev)
+ - date_published: 2023-10-25T18:38:19.386013+00:00
+
+ ## Moncef AOUDIA's Blog
+ - [https://aoudiamoncef.hashnode.dev](https://aoudiamoncef.hashnode.dev)
+ - date_published: 2024-07-14T08:17:49.757014+00:00
+
+ ## Ayoyimika
+ - [https://ayoyimika.hashnode.dev](https://ayoyimika.hashnode.dev)
+ - date_published: 2024-07-09T08:23:42.950322+00:00
+
+ ## Angles and Braces
+ - [https://chainofcommand.hashnode.dev](https://chainofcommand.hashnode.dev)
+ - date_published: 2024-07-09T08:08:54.078118+00:00
+
+ ## CodeSnap
+ - [https://codesnapmag.hashnode.dev](https://codesnapmag.hashnode.dev)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Dan Dan Da Developer Man
+ - [https://danfitdegree.hashnode.dev](https://danfitdegree.hashnode.dev)
+ - date_published: 2023-10-25T18:38:20.191019+00:00
+
+ ## dSebastien
+ - [https://dsebastien.hashnode.dev](https://dsebastien.hashnode.dev)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Dr. Ehoneah Obed
+ - [https://ehoneahobed.hashnode.dev](https://ehoneahobed.hashnode.dev)
+ - date_published: 2024-05-01T08:40:23.545973+00:00
+
+ ## Hardik Sachan
+ - [https://hardiksachan.hashnode.dev](https://hardiksachan.hashnode.dev)
+ - date_published: 2024-05-04T09:18:24.512744+00:00
+
+ ## Start a Developer Blog: Custom Domains, Sub-paths & Headless CMS Options — Hashnode
+ - [https://hashnode.dev](https://hashnode.dev)
+ - date_published: 2024-06-02T06:57:21+00:00
+ - tags: ['web hosting']
+
+ ## Ihu(oma)
+ - [https://ihuoma.hashnode.dev](https://ihuoma.hashnode.dev)
+ - date_published: 2024-07-14T10:06:16.188004+00:00
+
+ ## jindraivanek F# Node
+ - [https://jindraivanek.hashnode.dev](https://jindraivanek.hashnode.dev)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Klima Engineering
+ - [https://klima.hashnode.dev](https://klima.hashnode.dev)
+ - date_published: 2024-07-20T15:17:54.115185+00:00
+
+ ## minimal swift
+ - [https://laurentbrusa.hashnode.dev](https://laurentbrusa.hashnode.dev)
+ - date_published: 2024-06-23T15:45:06.493226+00:00
+
+ ## medunes's  blog
+ - [https://medunes.hashnode.dev](https://medunes.hashnode.dev)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Mike Mwanje's  blog
+ - [https://mikemwanje.hashnode.dev](https://mikemwanje.hashnode.dev)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Michael Hoffmann
+ - [https://mokkapps.hashnode.dev](https://mokkapps.hashnode.dev)
+ - date_published: 2024-07-14T07:53:35.330229+00:00
+
+ ## Web Chronicles
+ - [https://nsblog.hashnode.dev](https://nsblog.hashnode.dev)
+ - date_published: 2024-07-14T09:54:22.727553+00:00
+
+ ## Pragmatic Notes
+ - [https://pragmaticnotes.hashnode.dev](https://pragmaticnotes.hashnode.dev)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## P-Y's blog
+ - [https://py.hashnode.dev](https://py.hashnode.dev)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Quincy Oghenetejiri's Blog
+ - [https://quincyoghenetejiri.hashnode.dev](https://quincyoghenetejiri.hashnode.dev)
+ - date_published: 2024-05-02T13:57:09.765491+00:00
+ - tags: ['personal']
+
+ ## Sagar's Blog
+ - [https://sagarsoni.hashnode.dev](https://sagarsoni.hashnode.dev)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Sara Joy
+ - [https://sarajw.hashnode.dev](https://sarajw.hashnode.dev)
+ - date_published: 2024-06-22T13:46:10.684985+00:00
+
  ## Developer In Making
  - [https://shankarmadeshvaran.hashnode.dev](https://shankarmadeshvaran.hashnode.dev)
  - date_published: 2024-02-12T00:00:00+00:00
@@ -3946,146 +4091,4 @@
  ## React Spring
  - [https://react-spring.dev](https://react-spring.dev)
  - date_published: 2024-05-07T09:35:16.371146+00:00
-
- ## Topics — RebelMouse API Docs  documentation
- - [https://apis.rebelmouse.dev](https://apis.rebelmouse.dev)
- - date_published: 2024-05-22T04:54:01+00:00
-
- ## Template Runner
- - [https://tmplrunner.rebelmouse.dev](https://tmplrunner.rebelmouse.dev)
- - date_published: 2024-05-06T16:26:24.666421+00:00
-
- ## Home
- - [https://recaptime.dev](https://recaptime.dev)
- - date_published: 2024-08-07T23:13:54+00:00
-
- ## Refactoring JavaScript: Interactive Course
- - [https://refactoringjavascript.dev](https://refactoringjavascript.dev)
- - date_published: 2024-06-27T11:21:43.485933+00:00
-
- ## JSON Server
- - [https://api.fake-rest.refine.dev](https://api.fake-rest.refine.dev)
- - date_published: 2024-08-11T04:06:58+00:00
-
- ## refine CRM App
- - [https://example.crm.refine.dev](https://example.crm.refine.dev)
- - date_published: 2024-04-30T02:12:33.145447+00:00
-
- ## refine | Build your React-based CRUD applications, without constraints! | refine
- - [https://refine.dev](https://refine.dev)
- - date_published: 2023-10-25T18:41:19.334120+00:00
-
- ## GitHub - refinedev/refine: A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
- - [https://s.refine.dev](https://s.refine.dev)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## refine Store | Show Your Support Proudly
- - [https://store.refine.dev](https://store.refine.dev)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Reflex · Web apps in Pure Python
- - [https://reflex.dev](https://reflex.dev)
- - date_published: 2024-03-22T20:49:47.677432+00:00
-
- ## magic-regexp - A RegExp alternative
- - [http://regexp.dev](http://regexp.dev)
- - date_published: 2024-06-23T08:31:07.668961+00:00
-
- ## RelaGit
- - [https://rela.dev](https://rela.dev)
- - date_published: 2024-05-09T09:14:53.762708+00:00
-
- ## Status Page
- - [https://status.rela.dev](https://status.rela.dev)
- - date_published: 2024-07-10T11:02:41+00:00
-
- ## Relay
- - [https://relay.dev](https://relay.dev)
- - date_published: 2024-05-06T13:33:58.620095+00:00
-
- ## AI-powered release notes generator
- - [https://www.releasesnotes.dev](https://www.releasesnotes.dev)
- - date_published: 2024-06-19T19:06:34.564702+00:00
-
- ## Remotion | Make videos programmatically in React
- - [https://remotion.dev](https://remotion.dev)
- - date_published: 2024-04-30T02:12:44.863470+00:00
-
- ## Renaissance Suite, a benchmark suite for the JVM
- - [https://renaissance.dev](https://renaissance.dev)
- - date_published: 2024-04-29T06:28:52.582496+00:00
-
- ## Join the replicache Discord Server!
- - [https://discord.replicache.dev](https://discord.replicache.dev)
- - date_published: 2024-07-18T18:14:05+00:00
-
- ## Introduction | Replicache Docs
- - [https://doc.replicache.dev](https://doc.replicache.dev)
- - date_published: 2024-07-22T17:17:55.342579+00:00
-
- ## Replicache: Framework for local-first web apps.
- - [https://replicache.dev](https://replicache.dev)
- - date_published: 2024-04-30T00:29:55.203329+00:00
-
- ## SDXL – A settings guide by Replicate
- - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
- - date_published: 2023-10-25T18:41:20.011892+00:00
-
- ## Reprompt - Prompt testing made simple
- - [https://reprompt.dev](https://reprompt.dev)
- - date_published: 2023-04-11T00:00:00+00:00
-
- ## ReSheet
- - [https://resheet.dev](https://resheet.dev)
- - date_published: 2024-06-03T16:09:21+00:00
-
- ## ReSkin: versatile, replaceable, lasting tactile skins
- - [https://reskin.dev](https://reskin.dev)
- - date_published: 2022-04-05T15:46:04+00:00
-
- ## Restate documentation
- - [https://docs.restate.dev](https://docs.restate.dev)
- - date_published: 2024-04-30T02:12:57.372099+00:00
-
- ## Restate
- - [https://restate.dev](https://restate.dev)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Restfox
- - [https://restfox.dev](https://restfox.dev)
- - date_published: 2023-10-25T18:41:21.360876+00:00
-
- ## Rintaro Itokawa - Emotion Seeker
- - [https://re-taro.dev](https://re-taro.dev)
- - date_published: 2024-07-09T06:27:24.275677+00:00
-
- ## Hello from reUI | reUI
- - [https://reui.dev](https://reui.dev)
- - date_published: 2022-09-14T16:59:30+00:00
-
- ## Revert | The open-source unified API for integrations
- - [https://revert.dev](https://revert.dev)
- - date_published: 2024-08-07T18:00:14.582125+00:00
-
- ## reyem.dev blog
- - [https://blog.reyem.dev](https://blog.reyem.dev)
- - date_published: 2023-10-25T08:58:49.186324+00:00
- - tags: ['personal']
-
- ## Romain Herault - Web developer, creative developer and animals lover
- - [https://rherault.dev](https://rherault.dev)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Richard.Dev
- - [https://richard.dev](https://richard.dev)
- - date_published: 2024-07-23T23:41:32.608672+00:00
-
- ## Richard Taylor
-     · Richard Taylor
- - [https://www.richardtaylor.dev](https://www.richardtaylor.dev)
- - date_published: 2023-10-25T18:41:22.096940+00:00
-
- ## Richie Dev
- - [https://richie.dev](https://richie.dev)
- - date_published: 2024-06-21T09:25:04.889526+00:00
 

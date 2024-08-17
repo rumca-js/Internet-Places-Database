@@ -1,3 +1,244 @@
+ ## Xilinx Россия. Официальный сайт
+ - [http://plis2.ru](http://plis2.ru)
+ - date_published: 2023-05-25T00:00:00+00:00
+
+ ## POLFIRMS каталог польских промышленных компаний фирм производителей
+ - [http://www.polfirms.ru](http://www.polfirms.ru)
+ - date_published: 2023-09-30T14:41:52+00:00
+
+ ## Index of /
+ - [http://zalchem.polfirms.ru](http://zalchem.polfirms.ru)
+ - date_published: 2024-08-11T19:13:26.983399+00:00
+
+ ## TechInsider - новости науки и техники: новые технологии, наука, оружие, авиация, космос, автомобили
+ - [https://www.popmech.ru](https://www.popmech.ru)
+ - date_published: 2024-06-25T18:52:42.911711+00:00
+
+ ## Карьера в Postgres Professional
+ - [https://career.postgrespro.ru](https://career.postgrespro.ru)
+ - date_published: 2024-04-18T10:32:16+00:00
+
+ ## Компания Postgres Professional
+ - [https://postgrespro.ru](https://postgrespro.ru)
+ - date_published: 2024-05-04T12:57:47.654028+00:00
+
+ ## Vitus Wagner home page
+ - [http://vitus.wagner.pp.ru](http://vitus.wagner.pp.ru)
+ - date_published: 2005-12-06T00:00:00+00:00
+
+ ## Apache2 Debian Default Page: It works
+ - [http://wagner.pp.ru](http://wagner.pp.ru)
+ - date_published: 2023-12-23T15:18:19+00:00
+
+ ## wagner.pp.ru
+ - [https://www.wagner.pp.ru](https://www.wagner.pp.ru)
+ - date_published: 2023-12-31T10:30:38+00:00
+
+ ## Премия «Просветитель»
+ - [https://premiaprosvetitel.ru](https://premiaprosvetitel.ru)
+ - date_published: 2024-06-21T14:42:54.412569+00:00
+
+ ## Тестовые музыкальные фрагменты и композиции
+ - [https://primefan.ru](https://primefan.ru)
+ - date_published: 2013-07-28T16:56:06+00:00
+
+ ## Футболки с принтами 👕 в Москве: одежда с принтом 👚 в интернет-магазине Printio
+ - [https://printio.ru](https://printio.ru)
+ - date_published: 2024-05-07T22:58:41.197265+00:00
+
+ ## Анализ сайта, проверка тИЦ и PR. Позиции в Яндексе и Google
+ - [https://prlog.ru](https://prlog.ru)
+ - date_published: 2024-05-07T13:27:09.479667+00:00
+
+ ## Онлайн-курс: Digital MBA | РБК Pro и ProductStar
+ - [https://rbc.productstar.ru](https://rbc.productstar.ru)
+ - date_published: 2024-07-04T10:01:06+00:00
+
+ ## Электрокарнизы для штор купить в Москве цена от 9800 руб
+ - [https://prokarniz.ru](https://prokarniz.ru)
+ - date_published: 2024-05-09T14:27:08.893579+00:00
+
+ ## Yuri Pugachov - official website
+ - [http://www.pugachov.ru](http://www.pugachov.ru)
+ - date_published: 2016-08-10T12:27:13+00:00
+
+ ## Интернет-магазин Пульт.ру - электроника, акустика, Hi-Fi оборудование и домашние кинотеатры в Москве. Доставка по всей России.
+ - [https://www.pult.ru](https://www.pult.ru)
+ - date_published: 2024-07-20T11:32:38.179036+00:00
+
+ ## 1917. Революция в языке
+ - [https://1917.pushkininstitute.ru](https://1917.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:56:00.974773+00:00
+
+ ## Интерактивные авторские курсы Института Пушкина
+ - [https://ac.pushkininstitute.ru](https://ac.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:04.462091+00:00
+
+ ## Программы дополнительного образования
+ - [https://cdo.pushkininstitute.ru](https://cdo.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:52.509032+00:00
+
+ ## Конкурсы
+ - [https://contests.pushkininstitute.ru](https://contests.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:55.860161+00:00
+
+ ## Литературные гостиные
+ - [https://lit.pushkininstitute.ru](https://lit.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:02.989585+00:00
+
+ ## Лингвострановедческий словарь «Россия»
+ - [https://ls.pushkininstitute.ru](https://ls.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:49.279136+00:00
+
+ ## PushkinOnline — Main
+ - [https://pushkininstitute.ru](https://pushkininstitute.ru)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## VII Международный Пушкинский конкурс «Что в имени тебе моём?»
+ - [https://pushkonkurs.pushkininstitute.ru](https://pushkonkurs.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:59.262458+00:00
+
+ ## Интернет-магазин Института Пушкина
+ - [https://shop.pushkininstitute.ru](https://shop.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:57.775688+00:00
+
+ ## Школа русского языка со Смешариками
+ - [https://smeshariki.pushkininstitute.ru](https://smeshariki.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:56:26.053716+00:00
+
+ ## Вебинары
+ - [https://webinar.pushkininstitute.ru](https://webinar.pushkininstitute.ru)
+ - date_published: 2024-06-17T15:55:06.367594+00:00
+
+ ## PyCon Russia 2024
+ - [http://pycon.ru](http://pycon.ru)
+ - date_published: 2024-06-20T06:51:22+00:00
+
+ ## Q3MSK.RU
+ - [https://q3msk.ru](https://q3msk.ru)
+ - date_published: 2024-07-12T13:45:05.177349+00:00
+
+ ## Производитель порошковой краски Qemtex: завод по производству порошковых красок
+ - [https://qemtex.ru](https://qemtex.ru)
+ - date_published: 2024-05-22T13:06:37+00:00
+
+ ## Карьера в QSOFT
+ - [https://job.qsoft.ru](https://job.qsoft.ru)
+ - date_published: 2024-06-18T15:54:21.925483+00:00
+
+ ## Мобильный интранет для Enterprise компаний
+ - [https://mobile-intranet.qsoft.ru](https://mobile-intranet.qsoft.ru)
+ - date_published: 2024-06-18T15:54:14.933586+00:00
+
+ ## QSOFT - разработка и поддержка интернет-сайтов и интернет-магазинов, корпоративных порталов, интеграция сайтов с внешними системами, разработка проектов под высокие нагрузки, QSOFT
+ - [https://qsoft.ru](https://qsoft.ru)
+ - date_published: 2024-05-02T13:43:10.296874+00:00
+
+ ## РБК Инвестиции - новости инвестиций, котировки акций и курсы валют - РБК Инвестиции
+ - [https://quote.ru](https://quote.ru)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Radiominor.ru - на волне хорошей музыки
+ - [https://radiominor.ru](https://radiominor.ru)
+ - date_published: 2024-02-15T22:13:56.565784+00:00
+ - tags: ['demoscene']
+
+ ## Райффайзен Банк для жизни и бизнеса. Ипотека, кредиты, банковские карты и другие услуги
+ - [https://www.raiffeisen.ru](https://www.raiffeisen.ru)
+ - date_published: 2024-06-24T11:19:00.890921+00:00
+
+ ## Автоновости, тест-драйвы, обзоры на новинки автопрома
+ - [https://auto.rambler.ru](https://auto.rambler.ru)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Новости экономики и финансов, курсы валют, прогнозы, аналитика
+ - [https://finance.rambler.ru](https://finance.rambler.ru)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Рамблер/помощь
+ - [http://help.rambler.ru](http://help.rambler.ru)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Гороскоп на сегодня для всех знаков зодиака – Рамблер/Гороскоп
+ - [https://horoscopes.rambler.ru](https://horoscopes.rambler.ru)
+ - date_published: 2024-07-18T21:00:00+00:00
+
+ ## Рамблер/картинки
+ - [https://images.rambler.ru](https://images.rambler.ru)
+ - date_published: 2024-01-09T03:46:25.128108+00:00
+
+ ## Новости кино и телевидения. Звезды фильмов и сериалов
+ - [https://kino.rambler.ru](https://kino.rambler.ru)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Рамблер/почта – надежная и бесплатная электронная почта
+ - [https://mail.rambler.ru](https://mail.rambler.ru)
+ - date_published: 2024-07-19T20:55:43.495722+00:00
+
+ ## Новости сегодня: самые свежие и последние новости России и мира
+ - [https://news.rambler.ru](https://news.rambler.ru)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас
+ - [http://rambler.ru](http://rambler.ru)
+ - date_published: 2024-07-19T20:55:31.998441+00:00
+
+ ## Rambler&Co
+ - [http://reklama.rambler.ru](http://reklama.rambler.ru)
+ - date_published: 2024-07-19T20:55:13.887854+00:00
+
+ ## Новости спорта, турнирные таблицы и расписания матчей
+ - [https://sport.rambler.ru](https://sport.rambler.ru)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Рейтинг сайтов - Рамблер Топ-100
+ - [https://top100.rambler.ru](https://top100.rambler.ru)
+ - date_published: 2024-01-09T03:46:26.241472+00:00
+
+ ## Рамблер/видеоплатформа
+ - [https://vp.rambler.ru](https://vp.rambler.ru)
+ - date_published: 2024-05-04T12:56:08.868822+00:00
+
+ ## Рамблер/новости, почта и поиск — медийный портал: новости России и мира, электронная почта, погода, развлекательные и коммуникационные сервисы. Новости сегодня и сейчас
+ - [https://www.rambler.ru](https://www.rambler.ru)
+ - date_published: 2024-07-10T02:35:32.509237+00:00
+
+ ## Rambler&Co
+ - [http://rambler-co.ru](http://rambler-co.ru)
+ - date_published: 2024-07-19T13:54:10+00:00
+
+ ## Authentication - GLPI
+ - [https://achr.ui.ranepa.ru](https://achr.ui.ranepa.ru)
+ - date_published: 2024-06-16T15:33:22.554486+00:00
+
+ ## Laboratory of Mathematical Logic
+ - [http://logic.pdmi.ras.ru](http://logic.pdmi.ras.ru)
+ - date_published: 2024-04-05T22:07:40+00:00
+
+ ## Российская академия наук
+ - [https://new.ras.ru](https://new.ras.ru)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Российская академия наук
+ - [http://www.ras.ru](http://www.ras.ru)
+ - date_published: 2024-06-30T18:18:59.630746+00:00
+
+ ## Национальные Кредитные Рейтинги (НКР)
+ - [https://ratings.ru](https://ratings.ru)
+ - date_published: 2024-07-04T10:11:59.303711+00:00
+
+ ## RB.RU — медиа о новых технологиях, бизнесе и карьере в цифровой экономике
+ - [https://rb.ru](https://rb.ru)
+ - date_published: 2024-07-14T19:49:11.504679+00:00
+
+ ## Последние новости дня в России и мире сегодня - свежие новости на РБК
+ - [https://apigw.rbc.ru](https://apigw.rbc.ru)
+ - date_published: 2024-07-04T10:12:07.886944+00:00
+
+ ## Последние новости дня в России и мире сегодня - свежие новости на РБК
+ - [https://app.rbc.ru](https://app.rbc.ru)
+ - date_published: 2024-07-04T10:11:35.504491+00:00
+
  ## Авторизация :: Личный кабинет РБК
  - [https://auth.rbc.ru](https://auth.rbc.ru)
  - date_published: 2024-07-04T10:11:36.846436+00:00
@@ -3781,246 +4022,4 @@
  ## Götheborg of Sweden | Götheborg of Sweden
  - [https://www.gotheborg.se](https://www.gotheborg.se)
  - date_published: 2023-10-25T22:37:11.579179+00:00
-
- ## Gothenburg Design Festival
- - [http://gothenburgdesignfestival.se](http://gothenburgdesignfestival.se)
- - date_published: 2024-07-13T15:48:44.446861+00:00
-
- ## Goto 10 | Kostnadsfri mötesplats
- - [https://www.goto10.se](https://www.goto10.se)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Startpage
- - [https://government.se](https://government.se)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Göteborgs-Posten
- - [https://www.gp.se](https://www.gp.se)
- - date_published: 2024-01-09T03:46:34.509871+00:00
-
- ## The Creative Brand Agency – Grand Public
- - [http://grandpublic.se](http://grandpublic.se)
- - date_published: 2024-07-24T06:37:45.282759+00:00
-
- ## Startsida  » Great Place to Work - Sveriges Bästa Arbetsplatser - GPTW
- - [http://www.greatplacetowork.se](http://www.greatplacetowork.se)
- - date_published: 2024-06-12T10:42:04.670095+00:00
-
- ## Greenhouse | Greenhouse | Applicant tracking software & hiring…
- - [https://grnh.se](https://grnh.se)
- - date_published: 2024-05-08T10:58:02.329913+00:00
-
- ## Wikipedia Statistics
- - [http://stats.grok.se](http://stats.grok.se)
- - date_published: 2024-07-12T02:46:32.345584+00:00
-
- ## Home
- - [https://gupea.ub.gu.se](https://gupea.ub.gu.se)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Hem | Göteborgs universitet
- - [https://www.gu.se](https://www.gu.se)
- - date_published: 2023-10-25T11:23:45.206128+00:00
-
- ## Nordicom | Göteborgs universitet
- - [https://nordicom.gu.se](https://nordicom.gu.se)
- - date_published: 2024-05-07T23:42:43.914292+00:00
-
- ## Guldbaggen 2025
- - [https://guldbaggen.se](https://guldbaggen.se)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## gunnar.se
- - [https://gunnar.se](https://gunnar.se)
- - date_published: 2024-08-08T11:52:25+00:00
-
- ## Gurumeditation.se – Teknik och gaming
- - [http://www.gurumeditation.se](http://www.gurumeditation.se)
- - date_published: 2024-07-14T12:04:11.218709+00:00
-
- ## www.gusnan.se
- - [https://www.gusnan.se](https://www.gusnan.se)
- - date_published: 2024-02-05T18:23:50+00:00
-
- ## Forgejo
- - [https://git.gustavlindqvist.se](https://git.gustavlindqvist.se)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Gustav Lindqvist / fotografering, friluftsliv, kartor & annat
- - [https://gustavlindqvist.se](https://gustavlindqvist.se)
- - date_published: 2024-05-09T08:05:40.392515+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.gustavlindqvist.se](https://plausible.gustavlindqvist.se)
- - date_published: 2024-07-10T08:09:07.273062+00:00
-
- ## The Portfolio of Hakim El Hattab
- - [https://hakim.se](https://hakim.se)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## The Portfolio of Hakim El Hattab
- - [https://lab.hakim.se](https://lab.hakim.se)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Math Quiz
- - [https://quiz.hakim.se](https://quiz.hakim.se)
- - date_published: 2022-11-18T10:07:30+00:00
-
- ## Johan Halse
- - [https://johan.hal.se](https://johan.hal.se)
- - date_published: 2024-03-14T02:08:44.147301+00:00
-
- ## | Halebop
- - [https://www.halebop.se](https://www.halebop.se)
- - date_published: 2024-05-01T05:56:04.808586+00:00
-
- ## Nyheter – riktig journalistik gör skillnad – Hallandsposten
- - [https://www.hallandsposten.se](https://www.hallandsposten.se)
- - date_published: 2024-06-29T03:29:48+00:00
-
- ## Personliga, omtänksamma råd för hela livets bankaffärer | Handelsbanken
- - [https://www.handelsbanken.se](https://www.handelsbanken.se)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Hänt - nöjessajt för dig som älskar kändisar och kungligt | Hänt
- - [https://www.hant.se](https://www.hant.se)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Hosted by one.com
- - [http://www.hast-enterprises.se](http://www.hast-enterprises.se)
- - date_published: 2023-05-09T06:46:29+00:00
-
- ## curl
- - [https://curl.haxx.se](https://curl.haxx.se)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Daniel Stenberg - daniel.haxx.se
- - [https://daniel.haxx.se](https://daniel.haxx.se)
- - date_published: 2023-10-25T08:55:25.142632+00:00
- - tags: ['personal']
-
- ## lists.haxx.se is the home of lists on haxx.se
- - [https://lists.haxx.se](https://lists.haxx.se)
- - date_published: 2024-03-23T16:04:53+00:00
-
- ## HD
- - [https://www.hd.se](https://www.hd.se)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## HelloFresh: God mat hela vägen till dörren
- - [https://www.hellofresh.se](https://www.hellofresh.se)
- - date_published: 2024-06-18T17:18:02.224282+00:00
-
- ## Stockholm School of Economics
- - [https://www.hhs.se](https://www.hhs.se)
- - date_published: 2024-06-23T06:32:41.624661+00:00
-
- ## Homepage
- - [https://www.hilti.se](https://www.hilti.se)
- - date_published: 2024-06-20T07:26:35.227162+00:00
-
- ## Historiska Museet
- - [https://historiska.se](https://historiska.se)
- - date_published: 2024-06-17T10:13:51+00:00
-
- ## Rekommenderade lån « Jämför 120 + lån - Hittadittlån
- - [https://hittadittlan.se](https://hittadittlan.se)
- - date_published: 2024-07-22T10:52:58.920988+00:00
-
- ## Hobby pages with 10 m FM, EH-Antennas, DRM, Weather and Offshore QSL
- - [https://hobbyradio.se](https://hobbyradio.se)
- - date_published: 2024-08-10T06:05:36+00:00
-
- ## home.se
- - [https://tony.granberg@home.se](https://tony.granberg@home.se)
- - date_published: 2020-05-20T13:19:08+00:00
-
- ## Logga in på Hostinger
- - [https://auth.hostinger.se](https://auth.hostinger.se)
- - date_published: 2024-07-13T16:34:10.460574+00:00
-
- ## Webbhotell utformat för dig - Ge dig ut online med Hostinger
- - [https://hostinger.se](https://hostinger.se)
- - date_published: 2024-05-11T07:49:31.394208+00:00
-
- ## Välkommen till förteckning
- - [https://www.hotfrogse.se](https://www.hotfrogse.se)
- - date_published: 2024-06-29T16:52:32.385338+00:00
-
- ## Blog - Hugo Tunius
- - [https://hugotunius.se](https://hugotunius.se)
- - date_published: 2023-10-25T08:55:26.878158+00:00
- - tags: ['personal']
-
- ## Hem - Human Capital
- - [https://humancapital.se](https://humancapital.se)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Digital Service Studio in Gothenburg, Sweden — Humblebee
- - [https://www.humblebee.se](https://www.humblebee.se)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Oficjalny sklep internetowy hummel | Kupuj odzież sportową na hummelsport.pl
- - [https://www.hummelsport.se](https://www.hummelsport.se)
- - date_published: 2024-07-03T12:17:37.975282+00:00
-
- ## Mäklare & Fastighetsförmedling | HusmanHagberg
- - [https://cms.husmanhagberg.se](https://cms.husmanhagberg.se)
- - date_published: 2024-07-13T19:45:15.878002+00:00
-
- ## Hur framgångsrik vågar du bli? - HusmanHagberg
- - [https://karriar.husmanhagberg.se](https://karriar.husmanhagberg.se)
- - date_published: 2024-07-13T19:45:28.228885+00:00
-
- ## Köpa Sälja Hus Lägenhet Bostad Nyproduktion i Spanien | HusmanHagberg din lokala mäklare
- - [https://spanien.husmanhagberg.se](https://spanien.husmanhagberg.se)
- - date_published: 2024-07-13T19:45:21.681222+00:00
-
- ## Mäklare i fjällen | Husman Hagberg - fastighetsmäklare i fjällvärlden | HusmanHagberg din lokala fastighetsmäklare
- - [https://svenskafjall.husmanhagberg.se](https://svenskafjall.husmanhagberg.se)
- - date_published: 2024-07-13T19:45:30.097132+00:00
-
- ## Mäklare & Fastighetsförmedling | HusmanHagberg din lokala fastighetsmäklare
- - [https://husmanhagberg.se](https://husmanhagberg.se)
- - date_published: 2024-05-11T08:23:01.365219+00:00
-
- ## IAB Sverige - Ledande organisation för onlinemarknadsföring
- - [https://iabsverige.se](https://iabsverige.se)
- - date_published: 2022-05-16T08:45:11+00:00
-
- ## Din matbutik för en prisvärd och enklare vardag
- - [http://www.ica.se](http://www.ica.se)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## IDA WARG Beauty erbjuder skönhetsprodukter som är 100% Veganska & Cruelty-free.
- - [https://idawargbeauty.se](https://idawargbeauty.se)
- - date_published: 2024-07-22T09:34:50.366768+00:00
-
- ## Computer Sweden | nyheter om it och digitalisering
- - [http://computersweden.idg.se](http://computersweden.idg.se)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## M3
- - [https://m3.idg.se](https://m3.idg.se)
- - date_published: 2024-06-21T19:39:32.327407+00:00
-
- ## PC för Alla
- - [https://pcforalla.idg.se](https://pcforalla.idg.se)
- - date_published: 2024-06-16T12:19:14.836426+00:00
-
- ## Välkommen till If - Nordens största försäkringsbolag - If
- - [https://www.if.se](https://www.if.se)
- - date_published: 2024-07-13T19:45:19.725225+00:00
-
- ## IF Metall - Startsida
- - [https://www.ifmetall.se](https://www.ifmetall.se)
- - date_published: 2023-10-25T22:37:18.193786+00:00
-
- ## Energikedjor, kabelkedjor, glidlager, linj&#228;rteknik f&#246;r alla till&#228;mpningar
- - [https://www.igusab.se](https://www.igusab.se)
- - date_published: 2024-08-06T23:12:11.303460+00:00
-
- ## Zonemaster.se
- - [https://zonemaster.iis.se](https://zonemaster.iis.se)
- - date_published: 2023-09-20T10:39:29+00:00
 

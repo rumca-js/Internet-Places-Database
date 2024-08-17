@@ -1,3 +1,239 @@
+ ## Hostwinds: Soluções de hospedagem na web centradas no cliente
+ - [https://www.hostwinds.pt](https://www.hostwinds.pt)
+ - date_published: 2024-06-18T17:17:08+00:00
+
+ ## Bem-vindo à Hotfrog
+ - [https://www.hotfrog.pt](https://www.hotfrog.pt)
+ - date_published: 2024-06-29T16:52:26.467965+00:00
+
+ ## iCalendário : Calendário online gratuito
+ - [https://icalendario.pt](https://icalendario.pt)
+ - date_published: 2024-07-11T22:10:17.901289+00:00
+
+ ## i-charging
+ - [https://i-charging.pt](https://i-charging.pt)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Ideias de Ler
+ - [http://www.ideiasdeler.pt](http://www.ideiasdeler.pt)
+ - date_published: 2024-07-12T20:48:28.972647+00:00
+
+ ## TRAVESSEIRO DE CORPO COBRE IKEA,CAPAS DE ALMOFADAS DE CORPO,TRAVESSEIROS DE CORPO AMAZON,TRAVESSEIROS DE CORPO PARA DORMENTES LATERAIS
+ - [http://www.ifl.pt](http://www.ifl.pt)
+ - date_published: 2024-07-11T20:18:37.264307+00:00
+
+ ## igus® | Polímeros para qualquer tipo de movimento
+ - [https://www.igus.pt](https://www.igus.pt)
+ - date_published: 2024-08-06T23:12:12.873380+00:00
+
+ ## Alojamento web | Servidor dedicado
+ - [https://www.ikoula.pt](https://www.ikoula.pt)
+ - date_published: 2024-07-07T05:18:34+00:00
+
+ ## Inicio
+ - [http://www.iledeoya.pt](http://www.iledeoya.pt)
+ - date_published: 2024-07-16T17:30:52.487368+00:00
+
+ ## Approved by locals
+ - [https://sdistribution.impresa.pt](https://sdistribution.impresa.pt)
+ - date_published: 2024-06-27T22:00:00+00:00
+
+ ## Bem-vindos | INCM
+ - [http://www.incm.pt](http://www.incm.pt)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Statistics Portugal - Web Portal
+ - [http://www.ine.pt](http://www.ine.pt)
+ - date_published: 2024-07-12T20:31:35.456448+00:00
+
+ ## ER 2023 – The 42nd International Conference on Conceptual Modeling. Nov. 6-9, 2023, Lisbon, Portugal
+ - [https://er2023.inesc-id.pt](https://er2023.inesc-id.pt)
+ - date_published: 2024-06-20T04:29:00.497979+00:00
+
+ ## Home - Thematic Lines - INESC-ID
+ - [https://www.inesc-id.pt](https://www.inesc-id.pt)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home - Camões - Instituto da Cooperação e da Língua
+ - [http://www.instituto-camoes.pt](http://www.instituto-camoes.pt)
+ - date_published: 2024-07-12T20:49:02+00:00
+
+ ## Cybersecurity | Internet Security Services for your Business
+ - [https://integrity.pt](https://integrity.pt)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home | INTEGRITY Labs
+ - [https://labs.integrity.pt](https://labs.integrity.pt)
+ - date_published: 2024-04-11T10:31:57+00:00
+
+ ## Cybersecurity | Internet Security Services for your Business
+ - [https://videos.integrity.pt](https://videos.integrity.pt)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home | Escola Superior de Comunicação Social
+ - [https://escs.ipl.pt](https://escs.ipl.pt)
+ - date_published: 2024-07-12T15:19:48+00:00
+
+ ## Plataforma de E-Learning
+ - [http://elearning.ipma.pt](http://elearning.ipma.pt)
+ - date_published: 2024-08-07T22:48:01+00:00
+
+ ## IPMA Escolas
+ - [https://escolas.ipma.pt](https://escolas.ipma.pt)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## GelAvista - IPMA
+ - [http://gelavista.ipma.pt](http://gelavista.ipma.pt)
+ - date_published: 2024-08-07T22:48:21.744420+00:00
+
+ ## Observar - Instituto Português do Mar e da Atmosfera, I.P.
+ - [https://observar.ipma.pt](https://observar.ipma.pt)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Instituto Portuguï¿½s do Mar e da Atmosfera
+ - [http://pda.ipma.pt](http://pda.ipma.pt)
+ - date_published: 2024-08-07T22:48:22.786400+00:00
+
+ ## Portugal ShakeMap
+ - [http://shakemap.ipma.pt](http://shakemap.ipma.pt)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Subscreva as listas de distribuição
+ - [http://subscricoes.ipma.pt](http://subscricoes.ipma.pt)
+ - date_published: 2024-08-07T22:47:57.589217+00:00
+
+ ## Inquéritos IPMA
+ - [https://survey.ipma.pt](https://survey.ipma.pt)
+ - date_published: 2024-08-07T22:48:05+00:00
+
+ ## Instituto Português do Mar e da Atmosfera
+ - [https://ipma.pt](https://ipma.pt)
+ - date_published: 2024-04-28T02:22:39.098512+00:00
+
+ ## CISTER - Research Centre in Real-Time Computing & Embedded Computing Systems
+ - [https://www.cister.isep.ipp.pt](https://www.cister.isep.ipp.pt)
+ - date_published: 2024-06-21T19:12:01.259101+00:00
+
+ ## CBS | Coimbra Business School
+ - [https://bs.iscac.pt](https://bs.iscac.pt)
+ - date_published: 2024-07-02T23:34:20.054745+00:00
+
+ ## Home
+ - [https://cies.iscte.pt](https://cies.iscte.pt)
+ - date_published: 2024-05-07T23:40:40.296153+00:00
+
+ ## Home
+ - [https://cies.iscte-iul.pt](https://cies.iscte-iul.pt)
+ - date_published: 2024-07-02T22:36:09.107792+00:00
+
+ ## IPPS-Iscte - Melhores Políticas Públicas
+ - [http://ipps.iscte-iul.pt](http://ipps.iscte-iul.pt)
+ - date_published: 2024-07-21T06:11:55+00:00
+
+ ## ISOC.PT - Repositório de documentação
+ - [https://docs.isoc.pt](https://docs.isoc.pt)
+ - date_published: 2023-12-23T19:55:54+00:00
+
+ ## ISOC.PT - Internet
+ - [https://isoc.isoc.pt](https://isoc.isoc.pt)
+ - date_published: 2024-05-14T17:52:16+00:00
+
+ ## ISOC.PT – Internet Society Portugal
+ - [https://isoc.pt](https://isoc.pt)
+ - date_published: 2024-05-06T23:55:57.568419+00:00
+
+ ## ISOC.PT - Observatório da Internet Portuguesa
+ - [https://observatory.isoc.pt](https://observatory.isoc.pt)
+ - date_published: 2024-06-24T09:01:43+00:00
+
+ ## Internet Society Portuguese Chapter - Scientific      Prize
+ - [https://premio2024.isoc.pt](https://premio2024.isoc.pt)
+ - date_published: 2024-05-19T17:38:32+00:00
+
+ ## IT - website
+ - [https://it.pt](https://it.pt)
+ - date_published: 2024-08-07T13:24:17.588001+00:00
+
+ ## LxMLS Lisbon Machine Learning School
+ - [http://lxmls.it.pt](http://lxmls.it.pt)
+ - date_published: 2024-03-25T19:27:08+00:00
+
+ ## Networks 2014 - 16th International Telecommunications Network Strategy and Planning Symposium
+ - [http://networks2014.av.it.pt](http://networks2014.av.it.pt)
+ - date_published: 2014-09-21T14:55:15+00:00
+
+ ## IT - website
+ - [http://www.it.pt](http://www.it.pt)
+ - date_published: 2024-08-07T13:21:50.351714+00:00
+
+ ## IT - Instituto de Telecomunicacoes
+ - [http://www.lx.it.pt](http://www.lx.it.pt)
+ - date_published: 2010-06-26T02:19:22+00:00
+
+ ## IT Security - Para um Mundo Digital Mais Seguro
+ - [https://www.itsecurity.pt](https://www.itsecurity.pt)
+ - date_published: 2024-06-28T22:08:19.018065+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://www.jack-wolfskin.pt](https://www.jack-wolfskin.pt)
+ - date_published: 2024-07-14T12:16:01.561750+00:00
+
+ ## Javali - Open Source – Websites/Portais, Drupal, Mobile, CRM
+ - [http://www.javali.pt](http://www.javali.pt)
+ - date_published: 2024-05-16T10:46:54+00:00
+
+ ## Comprar carros SUV Jeep®, modelos 4x4 e acessórios | Jeep® PT
+ - [https://www.jeep.pt](https://www.jeep.pt)
+ - date_published: 2024-06-18T14:02:45+00:00
+
+ ## Comprar ou arrendar casa, apartamento e outros imóveis | JLL
+ - [https://residential.jll.pt](https://residential.jll.pt)
+ - date_published: 2024-06-25T16:23:09.805420+00:00
+
+ ## Global Media Group -
+ - [https://invoice.jn.pt](https://invoice.jn.pt)
+ - date_published: 2024-07-12T21:24:21.834021+00:00
+
+ ## Welcome to nginx!
+ - [https://previous-assets.jn.pt](https://previous-assets.jn.pt)
+ - date_published: 2018-12-04T14:52:24+00:00
+
+ ## Publicidade - JN
+ - [https://publicidade.jn.pt](https://publicidade.jn.pt)
+ - date_published: 2024-07-12T21:24:15.362933+00:00
+
+ ## Welcome to WildFly Application Server 8
+ - [https://quiosque.jn.pt](https://quiosque.jn.pt)
+ - date_published: 2014-11-20T22:43:22+00:00
+
+ ## Jornal de Notícias
+ - [https://jn.pt](https://jn.pt)
+ - date_published: 2024-05-10T06:16:41.978312+00:00
+
+ ## Página Inicial | Jogo da Bolsa
+ - [http://jogodabolsa.jornaldenegocios.pt](http://jogodabolsa.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:19.934788+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://www.jornaldenegocios.pt](http://www.jornaldenegocios.pt)
+ - date_published: 2024-06-25T18:53:12.382199+00:00
+
+ ## A Revista Must do Jornal de Negócios
+ - [https://www.must.jornaldenegocios.pt](https://www.must.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:41.089236+00:00
+
+ ## Segurança cibernética Kaspersky para particulares e empresas  | Kaspersky
+ - [https://www.kaspersky.pt](https://www.kaspersky.pt)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Kia Portugal | Descubra a gama de carros Kia aqui
+ - [https://kia.pt](https://kia.pt)
+ - date_published: 2024-07-08T16:34:21+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.pt](https://www.konecranes.pt)
+ - date_published: 2024-05-21T00:00:00+00:00
+
  ## KULTGAMES
  - [https://kultgames.pt](https://kultgames.pt)
  - date_published: 2024-07-02T13:05:45.702286+00:00
@@ -2636,6 +2872,10 @@
  - [https://utexas.rent](https://utexas.rent)
  - date_published: 2024-08-06T07:14:33.470536+00:00
 
+ ## zfs.rent
+ - [https://zfs.rent](https://zfs.rent)
+ - date_published: 2024-08-14T20:47:23.786172+00:00
+
  ## ABM Report | Comprehensive Reporting on the Account Based Marketing
  - [https://abm.report](https://abm.report)
  - date_published: 2023-11-20T10:40:29+00:00
@@ -3796,245 +4036,4 @@
  ## Netograf
  - [https://www.netograf.ro](https://www.netograf.ro)
  - date_published: 2021-09-27T07:44:21+00:00
-
- ## Newsweek Romania - stiri, analize, opinii, investigatii, politica, business, investigatii, politica internationala
- - [https://newsweek.ro](https://newsweek.ro)
- - date_published: 2024-07-19T03:23:58.838026+00:00
-
- ## Nomenius - Inregistrare marci la OSIM, EUIPO & WIPO
- - [https://nomenius.ro](https://nomenius.ro)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Citroën | Oferte Citroën
- - [https://ofertecitroen.ro](https://ofertecitroen.ro)
- - date_published: 2024-05-10T04:43:03.756990+00:00
-
- ## Top Casino Online din România 2023 - Online Cazinouri Bonus
- - [https://onlinecazinouribonus.ro](https://onlinecazinouribonus.ro)
- - date_published: 2023-06-09T09:22:45+00:00
-
- ## OPCOM
- - [https://opcom.ro](https://opcom.ro)
- - date_published: 2024-05-20T02:45:51.034945+00:00
-
- ## Opel Romania Site Oficial | Autovehicule Noi | Oferte
- - [https://www.opel.ro](https://www.opel.ro)
- - date_published: 2024-07-11T08:57:52+00:00
-
- ## Popp & Asociații
- - [https://www.p-a.ro](https://www.p-a.ro)
- - date_published: 2019-08-09T12:03:54+00:00
-
- ## YOUth Parlamentor
- - [https://www.parlamentor.ro](https://www.parlamentor.ro)
- - date_published: 2024-06-17T11:28:44.010226+00:00
-
- ## Soluții pentru servicii financiare pentru piețe cu creștere înaltă | PayU Romania
- - [https://secure.payu.ro](https://secure.payu.ro)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## PayU Romania Status
- - [https://status.payu.ro](https://status.payu.ro)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Pedro Duarte's Personal Website
- - [https://ped.ro](https://ped.ro)
- - date_published: 2024-07-09T19:28:45.523150+00:00
-
- ## PERI România SRL - Cofraje si eșafodaje
- - [https://www.peri.ro](https://www.peri.ro)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Graphite's little corner of the web
- - [https://gra.phite.ro](https://gra.phite.ro)
- - date_published: 2024-01-15T17:20:15.225712+00:00
-
- ## Felix at Home
- - [https://felix.plesoianu.ro](https://felix.plesoianu.ro)
- - date_published: 2023-11-15T17:46:44.714694+00:00
- - tags: ['personal']
-
- ## Programul Operational Capacitate Administrativa - POCA
- - [http://www.poca.ro](http://www.poca.ro)
- - date_published: 2024-06-29T09:05:48.234802+00:00
-
- ## ZALCHEM produse de curățare, produse chimice de uz casnic. Polonia
- - [http://zalchem.polfirms.ro](http://zalchem.polfirms.ro)
- - date_published: 2020-05-03T16:08:05+00:00
-
- ## Create an online shop easily - Ecommerce
- - [https://prestashop.ro](https://prestashop.ro)
- - date_published: 2024-03-10T00:00:00+00:00
-
- ## Prieten de vreme rea
- - [http://prietendevremerea.ro](http://prietendevremerea.ro)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Digi
- - [http://www.rcs-rds.ro](http://www.rcs-rds.ro)
- - date_published: 2024-07-05T06:26:26+00:00
-
- ## revo.js
- - [https://revojs.ro](https://revojs.ro)
- - date_published: 2024-01-20T09:11:21+00:00
-
- ## rolisz's blog
- - [https://rolisz.ro](https://rolisz.ro)
- - date_published: 2024-05-07T23:24:06.018209+00:00
-
- ## Romania Journal - the news about Romania
- - [https://romaniajournal.ro](https://romaniajournal.ro)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Rome.ro
- - [https://rome.ro](https://rome.ro)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## ROSA - Agenția Spațială Română
- - [http://www.rosa.ro](http://www.rosa.ro)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Radio România Internațional
- - [https://www.rri.ro](https://www.rri.ro)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Restaurant vegan si vegetarian in Cluj si Bucuresti
- - [http://samsara.ro](http://samsara.ro)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Școala informală de IT - cursuri online de programare
- - [https://scoalainformala.ro](https://scoalainformala.ro)
- - date_published: 2024-07-09T11:42:41+00:00
-
- ## Training și consultanță în negociere | Scotwork Romania
- - [https://www.scotwork.ro](https://www.scotwork.ro)
- - date_published: 2024-06-18T09:42:13.858925+00:00
-
- ## Roman V. Shapovalov
- - [http://shapovalov.ro](http://shapovalov.ro)
- - date_published: 2016-08-06T11:32:39+00:00
-
- ## Shop4PC - Magazin de calculatoare si accesorii
- - [http://www.shop4pc.ro](http://www.shop4pc.ro)
- - date_published: 2024-07-13T13:38:54.214035+00:00
-
- ## SIXT rent a car Romania | Inchirieri auto in Bucuresti si in toata tara
- - [https://www.sixt.ro](https://www.sixt.ro)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Skanska Romania | www.skanska.ro
- - [https://www.skanska.ro](https://www.skanska.ro)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.ro](https://www.skyscanner.ro)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Smits | Confectii metalice Romania
- - [https://smits.ro](https://smits.ro)
- - date_published: 2024-06-29T09:59:44.998152+00:00
-
- ## Școala Naţională de Studii Politice și Administrative (SNSPA)
- - [http://snspa.ro](http://snspa.ro)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Songdoro
- - [https://songdo.ro](https://songdo.ro)
- - date_published: 2023-11-15T21:54:38+00:00
-
- ## Încălțăminte, genți și îmbrăcăminte | Livrare Gratuită | SPARTOO
- - [https://www.spartoo.ro](https://www.spartoo.ro)
- - date_published: 2024-06-12T11:14:11.033299+00:00
-
- ## Societatea Română de Reumatologie
- - [https://srreumatologie.ro](https://srreumatologie.ro)
- - date_published: 2024-06-28T11:55:18.726527+00:00
-
- ## StareaDemocratiei.ro – Starea Democratiei
- - [https://www.stareademocratiei.ro](https://www.stareademocratiei.ro)
- - date_published: 2024-06-28T21:51:23.389876+00:00
-
- ## Stiri pe surse - Cele mai noi stiri
- - [https://www.stiripesurse.ro](https://www.stiripesurse.ro)
- - date_published: 2024-07-11T21:51:52.520315+00:00
-
- ## Home
- - [https://www.supercazino.ro](https://www.supercazino.ro)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Hire Dedicated Developers in Eastern Europe
- - [https://teamextension.ro](https://teamextension.ro)
- - date_published: 2024-07-12T08:39:59.893484+00:00
-
- ## TechTalent - Dedicated Software Development Teams - powered by Arnia Software
- - [https://www.techtalent.ro](https://www.techtalent.ro)
- - date_published: 2024-07-14T14:48:06.522133+00:00
-
- ## TEHNE Romania - Education, Innovation, Development
- - [https://tehne.ro](https://tehne.ro)
- - date_published: 2024-01-12T09:06:29+00:00
-
- ## O singură platformă. Toate datele!
- - [http://www.termene.ro](http://www.termene.ro)
- - date_published: 2024-07-13T17:19:55.839058+00:00
-
- ## Times New Roman - Cotidian independent de umor voluntar
- - [https://timesnewroman.ro](https://timesnewroman.ro)
- - date_published: 2024-03-26T20:40:51.272736+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://www.toyota.ro](https://www.toyota.ro)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Traduceri legalizate
- - [http://traduceri--legalizate.ro](http://traduceri--legalizate.ro)
- - date_published: 2016-01-17T08:50:01+00:00
-
- ## Traian Brumă
- - [https://traianbruma.ro](https://traianbruma.ro)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Transferuri de fotbal, zvonuri, valori de piață și știri
- - [https://www.transfermarkt.ro](https://www.transfermarkt.ro)
- - date_published: 2024-07-24T06:29:42.326506+00:00
-
- ## Magazine online și site-uri profesionale de încredere, consumatori avizați
- - [https://www.trusted.ro](https://www.trusted.ro)
- - date_published: 2017-05-23T00:00:00+00:00
-
- ## Annals of the Tiberiu Popoviciu Seminar of Functional Equations, Approximation and Convexity Home Page
- - [http://atps.tucn.ro](http://atps.tucn.ro)
- - date_published: 2020-01-14T16:56:49+00:00
-
- ## https://profs.info.uaic.ro
- - [https://profs.info.uaic.ro](https://profs.info.uaic.ro)
- - date_published: 2024-01-11T21:02:01.927273+00:00
-
- ## AcademicInfo
- - [https://academicinfo.ubbcluj.ro](https://academicinfo.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:51.193265+00:00
-
- ## Institute for doctoral studies | Universitatea Babeș-Bolyai
- - [https://doctorat.ubbcluj.ro](https://doctorat.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:56.693322+00:00
-
- ## Center for High Performance Computing | Babeș-Bolyai University
- - [http://hpc.cs.ubbcluj.ro](http://hpc.cs.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:55.553098+00:00
-
- ## - Managementul activităţii academice/ştiinţifice UBB
- - [http://infocercetare.ubbcluj.ro](http://infocercetare.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:54.369709+00:00
-
- ## Facultatea de Matematică și Informatică | Universitatea Babeș-Bolyai Cluj-Napoca
- - [https://www.cs.ubbcluj.ro](https://www.cs.ubbcluj.ro)
- - date_published: 2024-05-06T14:11:16.484259+00:00
-
- ## Universitatea Babeș-Bolyai
- - [https://www.ubbcluj.ro](https://www.ubbcluj.ro)
- - date_published: 2024-06-23T10:41:40.252189+00:00
-
- ## Uncyclopedia – Blog facut de oameni inteligenti
- - [http://uncyclopedia.ro](http://uncyclopedia.ro)
- - date_published: 2024-05-18T00:00:00+00:00
 

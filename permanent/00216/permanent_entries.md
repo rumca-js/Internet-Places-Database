@@ -1,3 +1,155 @@
+ ## Representative Michelle Steel
+ - [https://steel.house.gov](https://steel.house.gov)
+ - date_published: 2024-06-27T13:59:31.930612+00:00
+
+ ## Congresswoman Elise Stefanik
+ - [https://stefanik.house.gov](https://stefanik.house.gov)
+ - date_published: 2024-06-27T14:00:31.966280+00:00
+
+ ## Representative Bryan Steil
+ - [https://steil.house.gov](https://steil.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Steube – Representing Florida
+ - [https://steube.house.gov](https://steube.house.gov)
+ - date_published: 2024-06-27T14:17:45.343251+00:00
+
+ ## Congresswoman Haley Stevens
+ - [https://stevens.house.gov](https://stevens.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Representative Marilyn Strickland
+ - [https://strickland.house.gov](https://strickland.house.gov)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Representative Dale Strong
+ - [https://strong.house.gov](https://strong.house.gov)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home - Summer Lee
+ - [https://summerlee.house.gov](https://summerlee.house.gov)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Congressman Thomas Suozzi
+ - [https://suozzi.house.gov](https://suozzi.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Representative Susie Lee
+ - [https://susielee.house.gov](https://susielee.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Swalwell
+ - [https://swalwell.house.gov](https://swalwell.house.gov)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home | U.S. Congresswoman Emilia Sykes
+ - [https://sykes.house.gov](https://sykes.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Sylvia Garcia
+ - [https://sylviagarcia.house.gov](https://sylviagarcia.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home | U.S. Congressman Mark Takano of California's 39th District
+ - [https://takano.house.gov](https://takano.house.gov)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Representative Claudia Tenney
+ - [https://tenney.house.gov](https://tenney.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Shri Thanedar
+ - [https://thanedar.house.gov](https://thanedar.house.gov)
+ - date_published: 2024-06-27T14:17:31.132460+00:00
+
+ ## Representative Thompson
+ - [https://thompson.house.gov](https://thompson.house.gov)
+ - date_published: 2024-06-27T14:13:06.197499+00:00
+
+ ## Representative Tom Tiffany
+ - [https://tiffany.house.gov](https://tiffany.house.gov)
+ - date_published: 2024-06-27T14:01:59.554453+00:00
+
+ ## Congressman William Timmons
+ - [https://timmons.house.gov](https://timmons.house.gov)
+ - date_published: 2024-06-27T14:23:43+00:00
+
+ ## Congresswoman Dina Titus
+ - [https://titus.house.gov](https://titus.house.gov)
+ - date_published: 2024-05-06T17:11:50.911626+00:00
+
+ ## Home - Rashida Tlaib
+ - [https://tlaib.house.gov](https://tlaib.house.gov)
+ - date_published: 2024-06-27T13:59:25.005625+00:00
+
+ ## Representative Jill Tokuda
+ - [https://tokuda.house.gov](https://tokuda.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Representative Paul Tonko
+ - [https://tonko.house.gov](https://tonko.house.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home | U.S. Congresswoman Norma Torres of California's 35th District
+ - [https://torres.house.gov](https://torres.house.gov)
+ - date_published: 2024-06-27T14:17:12.277719+00:00
+
+ ## U.S. Representative Lori Trahan
+ - [https://trahan.house.gov](https://trahan.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Transportation and Infrastructure Committee
+ - [https://transportation.house.gov](https://transportation.house.gov)
+ - date_published: 2024-06-27T14:17:00+00:00
+
+ ## U.S. Representative Trent Kelly
+ - [https://trentkelly.house.gov](https://trentkelly.house.gov)
+ - date_published: 2024-06-27T14:09:46+00:00
+
+ ## Home - Congressman David Trone
+ - [https://trone.house.gov](https://trone.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Troy Carter
+ - [https://troycarter.house.gov](https://troycarter.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Michael Turner
+ - [https://turner.house.gov](https://turner.house.gov)
+ - date_published: 2024-06-27T14:20:02.872036+00:00
+
+ ## Representative Lauren Underwood
+ - [https://underwood.house.gov](https://underwood.house.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## OLRC Home
+ - [https://uscode.house.gov](https://uscode.house.gov)
+ - date_published: 2024-04-29T01:49:01.008343+00:00
+
+ ## U.S. Congressman David Valadao
+ - [https://valadao.house.gov](https://valadao.house.gov)
+ - date_published: 2024-06-27T14:20:45+00:00
+
+ ## U.S. Congressman Jefferson Van Drew
+ - [https://vandrew.house.gov](https://vandrew.house.gov)
+ - date_published: 2024-06-27T14:01:26+00:00
+
+ ## United States Representative Beth Van Duyne
+ - [https://vanduyne.house.gov](https://vanduyne.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Representative Derrick Van Orden
+ - [https://vanorden.house.gov](https://vanorden.house.gov)
+ - date_published: 2024-06-27T14:10:44.129403+00:00
+
+ ## U.S. Congressman Juan Vargas | U.S. Congressman Juan Vargas Of Californias 52nd District
+ - [https://vargas.house.gov](https://vargas.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Gabe Vasquez
+ - [https://vasquez.house.gov](https://vasquez.house.gov)
+ - date_published: 2024-06-27T14:21:36.357695+00:00
+
  ## Congressman Marc Veasey
  - [https://veasey.house.gov](https://veasey.house.gov)
  - date_published: 2024-06-27T14:10:57.065447+00:00
@@ -2803,6 +2955,10 @@
  - [https://opengeo.ncep.noaa.gov](https://opengeo.ncep.noaa.gov)
  - date_published: 2020-06-29T15:04:16+00:00
 
+ ## Rapid Refresh (RAP)
+ - [https://rapidrefresh.noaa.gov](https://rapidrefresh.noaa.gov)
+ - date_published: 2024-08-14T20:56:08.125199+00:00
+
  ## Welcome to the NOAA Institutional Repository
  - [https://repository.library.noaa.gov](https://repository.library.noaa.gov)
  - date_published: 2024-07-08T13:23:53+00:00
@@ -3862,160 +4018,4 @@
  ## Welcome to the Office of the Inspector General | Office of the Inspector General
  - [https://cpboig.oversight.gov](https://cpboig.oversight.gov)
  - date_published: 2024-07-03T00:18:53+00:00
-
- ## Oversight.gov | All Federal Inspector General Reports In One Place
- - [https://oversight.gov](https://oversight.gov)
- - date_published: 2024-07-03T13:35:03.543065+00:00
-
- ## Pandemic Oversight - Home | Pandemic Oversight
- - [https://pandemic.oversight.gov](https://pandemic.oversight.gov)
- - date_published: 2024-05-08T02:59:45.567726+00:00
-
- ## Home | U.S. Department of Agriculture OIG
- - [https://usdaoig.oversight.gov](https://usdaoig.oversight.gov)
- - date_published: 2024-06-16T22:20:58+00:00
-
- ## PA Dept. of Agriculture
- - [https://agriculture.pa.gov](https://agriculture.pa.gov)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## DCNR Homepage
- - [https://www.dcnr.pa.gov](https://www.dcnr.pa.gov)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Home | Department of General Services
- - [http://www.dgs.pa.gov](http://www.dgs.pa.gov)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Pennsylvania Department of Health programs, services and health information
- - [https://www.health.pa.gov](https://www.health.pa.gov)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Home | Commonwealth of Pennsylvania
- - [https://www.pa.gov](https://www.pa.gov)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Game Commission
- - [https://www.pgc.pa.gov](https://www.pgc.pa.gov)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Official Website of the Center for Rural Pennsylvania
- - [https://www.rural.pa.gov](https://www.rural.pa.gov)
- - date_published: 2024-06-29T14:51:49.211398+00:00
-
- ## Public Access to Court Electronic Records | PACER: Federal Court Records
- - [http://www.pacer.gov](http://www.pacer.gov)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Pandemic Oversight - Home | Pandemic Oversight
- - [https://pandemicoversight.gov](https://pandemicoversight.gov)
- - date_published: 2024-07-03T14:11:32+00:00
-
- ## We Keep the Region Moving | Port Authority of New York and New Jersey
- - [https://panynj.gov](https://panynj.gov)
- - date_published: 2024-05-06T22:50:06.496310+00:00
-
- ## PA State Senate
- - [https://www.pasen.gov](https://www.pasen.gov)
- - date_published: 2024-06-29T14:51:26.897712+00:00
-
- ## PaymentAccuracy.gov
- - [http://www.paymentaccuracy.gov](http://www.paymentaccuracy.gov)
- - date_published: 2024-07-02T13:23:09+00:00
-
- ## PBGC e-Filing Portal
- - [https://efiling.pbgc.gov](https://efiling.pbgc.gov)
- - date_published: 2024-08-08T23:40:25.596170+00:00
-
- ## PBGC Home Page
- - [https://mypaa.pbgc.gov](https://mypaa.pbgc.gov)
- - date_published: 2024-08-08T23:40:27.890593+00:00
-
- ## PBGC - Office of Inspector General
- - [https://oig.pbgc.gov](https://oig.pbgc.gov)
- - date_published: 2024-07-12T00:11:01+00:00
-
- ## Home Page | Pension Benefit Guaranty Corporation
- - [https://pbgc.gov](https://pbgc.gov)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Track the U.S. government's goals
- - [https://www.performance.gov](https://www.performance.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## City of Philadelphia
- - [http://phila.gov](http://phila.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Official Website of the City of Phoenix, Arizona
- - [https://www.phoenix.gov](https://www.phoenix.gov)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Pima County Public Library Classic Catalog
- - [http://librarycatalog.pima.gov](http://librarycatalog.pima.gov)
- - date_published: 2024-07-07T09:30:23.526058+00:00
-
- ## Pima County Public Library
- - [https://library.pima.gov](https://library.pima.gov)
- - date_published: 2024-05-08T10:21:42.615885+00:00
-
- ## Pitt County, NC | Official Website
- - [https://www.pittcountync.gov](https://www.pittcountync.gov)
- - date_published: 2024-06-29T22:48:08.301750+00:00
-
- ## plainlanguage.gov | Home
- - [http://www.plainlanguage.gov](http://www.plainlanguage.gov)
- - date_published: 2022-08-24T00:00:00+00:00
-
- ## PNNL Careers
- - [https://careers.pnnl.gov](https://careers.pnnl.gov)
- - date_published: 2024-07-07T02:09:16.519982+00:00
-
- ## Pacific Northwest National Laboratory
- - [https://info.pnnl.gov](https://info.pnnl.gov)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Pacific Northwest National Laboratory
- - [https://pnnl.gov](https://pnnl.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Log in | Portland Employees
- - [https://employees.portland.gov](https://employees.portland.gov)
- - date_published: 2024-06-20T23:43:04.425261+00:00
-
- ## City of Portland, Oregon | Portland.gov
- - [https://www.portland.gov](https://www.portland.gov)
- - date_published: 2024-05-04T10:03:49.625546+00:00
-
- ## Princeton Plasma Physics Laboratory
- - [https://www.pppl.gov](https://www.pppl.gov)
- - date_published: 2024-07-01T16:54:25+00:00
-
- ## Welcome to the Presidio National Park Site (San Francisco)
- - [https://www.presidio.gov](https://www.presidio.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Data Privacy Framework
- - [https://www.privacyshield.gov](https://www.privacyshield.gov)
- - date_published: 2024-05-08T11:32:32.074427+00:00
-
- ## Project Safe Childhood
- - [http://www.projectsafechildhood.gov](http://www.projectsafechildhood.gov)
- - date_published: 2014-06-17T00:50:15+00:00
-
- ## Protect Your Move | FMCSA
- - [https://www.protectyourmove.gov](https://www.protectyourmove.gov)
- - date_published: 2024-07-16T20:11:01+00:00
-
- ## National Quantum Coordination Office (NQCO)
- - [https://www.quantum.gov](https://www.quantum.gov)
- - date_published: 2024-08-06T10:26:08.623183+00:00
-
- ## RaleighNC.gov
- - [https://raleighnc.gov](https://raleighnc.gov)
- - date_published: 2024-06-30T11:34:36+00:00
-
- ## Read.gov | The Library of Congress
- - [http://www.read.gov](http://www.read.gov)
- - date_published: 2024-06-26T11:43:10.394176+00:00
 

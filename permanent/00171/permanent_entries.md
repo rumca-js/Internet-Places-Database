@@ -1,3 +1,127 @@
+ ## Rascality: Speeches to its Cultured Despisers
+ - [https://raskality.wordpress.com](https://raskality.wordpress.com)
+ - date_published: 2023-10-25T18:15:57.058312+00:00
+
+ ## Ratio Bound – A Combinatorics Blog
+ - [https://ratiobound.wordpress.com](https://ratiobound.wordpress.com)
+ - date_published: 2024-06-30T09:11:05.020448+00:00
+
+ ## Juan Carlos Sánchez Calle
+ - [https://ravened.wordpress.com](https://ravened.wordpress.com)
+ - date_published: 2024-06-17T02:49:41+00:00
+
+ ## Ravens of Alladore
+ - [https://ravensofalladoreblog.wordpress.com](https://ravensofalladoreblog.wordpress.com)
+ - date_published: 2024-07-20T07:26:02+00:00
+
+ ## Rayandmave's Blog
+ - [http://rayandmave.wordpress.com](http://rayandmave.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## rbresearch
+ - [http://rbresearch.wordpress.com](http://rbresearch.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Code happens
+ - [https://rbtcollins.wordpress.com](https://rbtcollins.wordpress.com)
+ - date_published: 2024-05-19T02:44:35.657953+00:00
+
+ ## Read and Hear
+ - [http://readandhear.wordpress.com](http://readandhear.wordpress.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## Radhika's Reading Retreat
+ - [https://readersretreat2017.wordpress.com](https://readersretreat2017.wordpress.com)
+ - date_published: 2024-06-30T05:57:55.431025+00:00
+
+ ## readerunner
+ - [https://readerunner.wordpress.com](https://readerunner.wordpress.com)
+ - date_published: 2024-07-11T07:50:37.495881+00:00
+
+ ## Reading in Bed
+ - [https://readinginbeddotcom.wordpress.com](https://readinginbeddotcom.wordpress.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Real World Cryptography Workshop 2014
+ - [http://realworldcrypto.wordpress.com](http://realworldcrypto.wordpress.com)
+ - date_published: 2024-06-30T11:09:43+00:00
+
+ ## Reasonable Conversation
+ - [https://reasonableconversation.wordpress.com](https://reasonableconversation.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Reasonablist
+ - [https://reasonablist.wordpress.com](https://reasonablist.wordpress.com)
+ - date_published: 2024-05-02T10:06:49.215009+00:00
+
+ ## Rebecca Roanhorse
+ - [https://rebeccaroanhorse.wordpress.com](https://rebeccaroanhorse.wordpress.com)
+ - date_published: 2024-07-04T02:45:03.164159+00:00
+
+ ## On the Margin
+ - [https://rebuilttypewriters.wordpress.com](https://rebuilttypewriters.wordpress.com)
+ - date_published: 2024-07-18T17:11:51.551855+00:00
+
+ ## receptekarakkal
+ - [https://receptekarakkal.wordpress.com](https://receptekarakkal.wordpress.com)
+ - date_published: 2024-05-12T06:24:32.533175+00:00
+
+ ## The Recompiler
+ - [https://recompiler.wordpress.com](https://recompiler.wordpress.com)
+ - date_published: 2024-05-04T12:30:43.588270+00:00
+
+ ## Reconfigurable, Reconshmigurable
+ - [http://reconshmigurable.wordpress.com](http://reconshmigurable.wordpress.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Recuerdos de 8 Bits
+ - [https://recuerdosde8bits.wordpress.com](https://recuerdosde8bits.wordpress.com)
+ - date_published: 2024-07-20T19:54:42.257325+00:00
+
+ ## Recurrently Unlucky
+ - [http://recurrentlyunlucky.wordpress.com](http://recurrentlyunlucky.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Rede Mineira de Comunicação Científica
+ - [https://redemineiradecomunicacaocientifica.wordpress.com](https://redemineiradecomunicacaocientifica.wordpress.com)
+ - date_published: 2024-07-13T18:12:17.610030+00:00
+
+ ## Rediscover911com's Blog
+ - [https://rediscover911com.wordpress.com](https://rediscover911com.wordpress.com)
+ - date_published: 2024-05-01T03:03:06.343902+00:00
+
+ ## Tenerife Blogs : It's all a matter of perspective
+ - [http://redqueenmusings.wordpress.com](http://redqueenmusings.wordpress.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Campbell's Alley
+ - [https://redracam.wordpress.com](https://redracam.wordpress.com)
+ - date_published: 2024-05-01T03:03:13.641358+00:00
+
+ ## Refereeing and Reflection
+ - [https://refereeingandreflection.wordpress.com](https://refereeingandreflection.wordpress.com)
+ - date_published: 2024-06-23T18:49:09.366588+00:00
+
+ ## WordPress.com Affiliate Program – Earn rewards promoting the world’s leading content management system.
+ - [https://refer.wordpress.com](https://refer.wordpress.com)
+ - date_published: 2024-05-12T05:42:54.421026+00:00
+
+ ## The Wayward Wanderer
+ - [https://refrane.wordpress.com](https://refrane.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Refrigerator Magnate
+ - [http://refrigeratormagnate.wordpress.com](http://refrigeratormagnate.wordpress.com)
+ - date_published: 2024-07-01T06:00:09.918364+00:00
+
+ ## The Regency Redingote
+ - [http://regencyredingote.wordpress.com](http://regencyredingote.wordpress.com)
+ - date_published: 2024-04-30T06:28:16.692819+00:00
+
+ ## regularize
+ - [https://regularize.wordpress.com](https://regularize.wordpress.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
  ## The Newcomer's Guide to Robert E. Howard
  - [http://rehguide.wordpress.com](http://rehguide.wordpress.com)
  - date_published: 2024-07-20T00:00:00+00:00
@@ -3891,130 +4015,4 @@
  ## The It Blog
  - [http://www.uwithelpdesk.wordpress.com](http://www.uwithelpdesk.wordpress.com)
  - date_published: 2024-07-14T00:00:00+00:00
-
- ## Victors Corner Blog
- - [http://www.victorscornerdotorg.wordpress.com](http://www.victorscornerdotorg.wordpress.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Linguistic Ethnography Lab
- - [http://www.virtuallinguisticethnographylab.wordpress.com](http://www.virtuallinguisticethnographylab.wordpress.com)
- - date_published: 2024-07-02T08:51:07.575154+00:00
-
- ## VotingFemale
- - [http://www.votingfemale.wordpress.com](http://www.votingfemale.wordpress.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## XDC
- - [https://x86dc.wordpress.com](https://x86dc.wordpress.com)
- - date_published: 2024-05-07T15:34:46.908993+00:00
- - tags: ['xdc']
-
- ## XAML Brewer, by Diederik Krols | If you're not having fun, you're doing it wrong.
- - [https://xamlbrewer.wordpress.com](https://xamlbrewer.wordpress.com)
- - date_published: 2023-10-25T18:18:27.707634+00:00
-
- ## xcorr: AI & neuro
- - [https://xcorr.wordpress.com](https://xcorr.wordpress.com)
- - date_published: 2024-06-26T22:32:10.064041+00:00
-
- ## Φωτεινή Παντογνώστρα
- - [https://xefteri.wordpress.com](https://xefteri.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Xena
- - [https://xenaproject.wordpress.com](https://xenaproject.wordpress.com)
- - date_published: 2024-06-30T09:09:18.707608+00:00
-
- ## Xi'an's Og
- - [https://xianblog.wordpress.com](https://xianblog.wordpress.com)
- - date_published: 2024-05-07T15:26:15.896556+00:00
-
- ## Xio's Xcribble
- - [https://xiomaro.wordpress.com](https://xiomaro.wordpress.com)
- - date_published: 2024-05-07T16:55:54.063718+00:00
-
- ## XIX век
- - [http://xixvek.wordpress.com](http://xixvek.wordpress.com)
- - date_published: 2024-06-21T19:54:50.592851+00:00
-
- ## xmonad
- - [https://xmonad.wordpress.com](https://xmonad.wordpress.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## XOR's Hammer
- - [http://xorshammer.wordpress.com](http://xorshammer.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## /// Blog
- - [https://xrayfm.wordpress.com](https://xrayfm.wordpress.com)
- - date_published: 2024-08-07T11:38:47.124949+00:00
-
- ## El arte es para tod@s pero sólo una élite lo sabe
- - [http://xuxiart.wordpress.com](http://xuxiart.wordpress.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Yet another blogging mathematician...
- - [http://yabm.wordpress.com](http://yabm.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## [yaderv-blog]
- - [https://yaderv.wordpress.com](https://yaderv.wordpress.com)
- - date_published: 2024-07-10T03:05:56.807097+00:00
-
- ## The Yaghnobi
- - [http://yaghnobi.wordpress.com](http://yaghnobi.wordpress.com)
- - date_published: 2024-07-02T09:14:31.687963+00:00
-
- ## Sergei Yakovenko's blog: on Math and Teaching
- - [https://yakovenko.wordpress.com](https://yakovenko.wordpress.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Young Adult Lit Reviews
- - [http://yalitreader.wordpress.com](http://yalitreader.wordpress.com)
- - date_published: 2024-07-11T19:37:48+00:00
-
- ## Le blog de Yannick Rumpala
- - [http://yannickrumpala.wordpress.com](http://yannickrumpala.wordpress.com)
- - date_published: 2024-08-06T05:31:47.749196+00:00
-
- ## I Woke Up In A Strange Place
- - [https://yannisparissis.wordpress.com](https://yannisparissis.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Yellingrosa Weblog
- - [http://yellingrosa.wordpress.com](http://yellingrosa.wordpress.com)
- - date_published: 2024-07-16T10:34:58+00:00
-
- ## (no title)
- - [http://yesmeansyesblog.wordpress.com](http://yesmeansyesblog.wordpress.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Yggdrasill and the Tortoise
- - [http://yggdrasilltortoise.wordpress.com](http://yggdrasilltortoise.wordpress.com)
- - date_published: 2024-06-30T08:55:26.487196+00:00
-
- ## Huseyin Yilmaz's Blog
- - [https://yilmazhuseyin.wordpress.com](https://yilmazhuseyin.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Young World Inventors
- - [https://yinventors.wordpress.com](https://yinventors.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Yisheng's blog
- - [https://yishenggong.wordpress.com](https://yishenggong.wordpress.com)
- - date_published: 2024-05-07T18:32:17.698294+00:00
- - tags: ['personal']
-
- ## Yuvaraj Chesetti
- - [https://ykchesetti.wordpress.com](https://ykchesetti.wordpress.com)
- - date_published: 2024-06-28T12:40:20.102243+00:00
-
- ## Sake White
- - [https://ymarsakar.wordpress.com](https://ymarsakar.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## yo252yo
- - [https://yo252yo.wordpress.com](https://yo252yo.wordpress.com)
- - date_published: 2024-05-06T15:10:56.237195+00:00
 

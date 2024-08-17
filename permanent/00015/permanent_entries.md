@@ -1,3 +1,27 @@
+ ## What's up on CDS – News, announcements and future developments of CDS services at CERN
+ - [https://cds-blog.web.cern.ch](https://cds-blog.web.cern.ch)
+ - date_published: 2024-06-15T04:01:23.501496+00:00
+
+ ## CERN Document Server
+ - [https://cds.cern.ch](https://cds.cern.ch)
+ - date_published: 2024-05-01T02:17:47.123653+00:00
+
+ ## CERN Document Server
+ - [http://cdsweb.cern.ch](http://cdsweb.cern.ch)
+ - date_published: 2024-06-30T08:14:17.453770+00:00
+
+ ## CERN is celebrating 60 years of science for peace in 2014 | CERN's 60th anniversary
+ - [http://cern60.web.cern.ch](http://cern60.web.cern.ch)
+ - date_published: 2020-09-15T21:19:04+00:00
+
+ ## CERN70 – Inspiring the Future
+ - [https://cern-70-wordpress.web.cern.ch](https://cern-70-wordpress.web.cern.ch)
+ - date_published: 2024-07-21T05:41:12+00:00
+
+ ## Home | CERN
+ - [https://cern.ch](https://cern.ch)
+ - date_published: 2024-04-30T05:57:39.966832+00:00
+
  ## Home | CERN Open Hardware Licence
  - [https://cern-ohl.web.cern.ch](https://cern-ohl.web.cern.ch)
  - date_published: 2024-07-07T08:38:10.895181+00:00
@@ -3990,28 +4014,4 @@
  ## Internet Domains
  - [https://www.nic.ch](https://www.nic.ch)
  - date_published: 2024-07-18T14:50:55.012658+00:00
-
- ## Nicolas Friedli - consultant web à Neuchâtel
- - [https://nicolasfriedli.ch](https://nicolasfriedli.ch)
- - date_published: 2024-05-09T08:21:51.559468+00:00
-
- ## Neuchâtel International Fantastic Film Festival
- - [http://www.nifff.ch](http://www.nifff.ch)
- - date_published: 2024-06-17T08:56:10+00:00
-
- ## Nils Mango - Creating things & eliminating errors.
- - [https://nilsmango.ch](https://nilsmango.ch)
- - date_published: 2023-12-28T00:00:00+00:00
-
- ## Home - Nine
- - [https://nine.ch](https://nine.ch)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Nintendo of Europe
- - [https://www.nintendo.ch](https://www.nintendo.ch)
- - date_published: 2024-05-06T15:46:27.342704+00:00
-
- ## NIZAR KAZAN + CO
- - [https://www.nizarkazan.ch](https://www.nizarkazan.ch)
- - date_published: 2022-11-17T09:37:31+00:00
 

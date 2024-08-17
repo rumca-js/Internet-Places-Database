@@ -1,3 +1,100 @@
+ ## Probability, Uncertainty and Quantitative Risk
+ - [https://probability-risk.springeropen.com](https://probability-risk.springeropen.com)
+ - date_published: 2024-06-14T08:01:01.931041+00:00
+
+ ## SpringerOpen
+ - [https://springeropen.com](https://springeropen.com)
+ - date_published: 2024-06-14T07:59:06+00:00
+ - tags: ['journals']
+
+ ## Springfield Auto And Transmission Repair : Automotive Service and Maintenance in Springfield, TN
+ - [https://www.springfieldatr.com](https://www.springfieldatr.com)
+ - date_published: 2024-06-30T12:15:20.145811+00:00
+
+ ## Springfield Armory Forums
+ - [https://www.springfieldforum.com](https://www.springfieldforum.com)
+ - date_published: 2024-07-04T01:22:46+00:00
+
+ ## Outsource Back Office Support Services across US, Europe: O2I
+ - [https://www.springfieldlasers.com](https://www.springfieldlasers.com)
+ - date_published: 2024-06-28T09:00:10+00:00
+
+ ## Spring RTS Engine
+ - [https://springrts.com](https://springrts.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Spring Science
+ - [https://www.springscience.com](https://www.springscience.com)
+ - date_published: 2024-07-01T21:59:17+00:00
+
+ ## SpringServe Platform Login
+ - [https://console.springserve.com](https://console.springserve.com)
+ - date_published: 2024-06-25T18:38:50.803136+00:00
+
+ ## Ask Springshare - Help Center
+ - [https://ask.springshare.com](https://ask.springshare.com)
+ - date_published: 2024-07-21T09:06:56.561663+00:00
+
+ ## Springshare - Online Services SaaS platform for Libraries, Educational Institutions, and Non Profits
+ - [https://springshare.com](https://springshare.com)
+ - date_published: 2024-06-17T17:47:12.449118+00:00
+
+ ## Colorado Springs Homes Search
+ - [http://springshouses.com](http://springshouses.com)
+ - date_published: 2024-07-12T16:50:22+00:00
+
+ ## Jobs
+ - [http://springsjobs.com](http://springsjobs.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Learn How to Unify Your Customer Experience
+ - [https://blog.sprinklr.com](https://blog.sprinklr.com)
+ - date_published: 2024-06-25T06:02:46+00:00
+
+ - [https://sprcdn-assets.sprinklr.com](https://sprcdn-assets.sprinklr.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Sprinklr: Unified AI-Powered Customer Experience Management Platform
+ - [https://sprinklr.com](https://sprinklr.com)
+ - date_published: 2024-07-11T12:34:00+00:00
+
+ ## Be part of the in-crowd. | T-Mobile Community
+ - [https://community.sprint.com](https://community.sprint.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## SprintEins
+ - [https://www.sprinteins.com](https://www.sprinteins.com)
+ - date_published: 2024-07-14T08:50:31.086857+00:00
+
+ ## Sprinto - Continuous Security & Compliance Platform
+ - [https://app.sprinto.com](https://app.sprinto.com)
+ - date_published: 2024-08-07T17:58:32.793528+00:00
+
+ ## Sprinto - Continuous Security & Compliance Platform
+ - [https://risingwave.trustcenter.sprinto.com](https://risingwave.trustcenter.sprinto.com)
+ - date_published: 2024-04-28T05:08:13.847802+00:00
+
+ ## Home - Sprinto - Continuous Security & Compliance Platform - Sprinto
+ - [https://sprinto.com](https://sprinto.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Sprite - Official Home Page | Coca-Cola US
+ - [https://sprite.com](https://sprite.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Spriteclad
+ - [https://spriteclad.com](https://spriteclad.com)
+ - date_published: 2019-12-05T01:31:33+00:00
+
+ ## Sprite Cow - Generate CSS for sprite sheets
+ - [http://www.spritecow.com](http://www.spritecow.com)
+ - date_published: 2024-06-23T05:58:06.130622+00:00
+
+ ## SpriteLayer Video Game Radio
+ - [https://spritelayerradio.com](https://spritelayerradio.com)
+ - date_published: 2024-02-15T22:14:12.221633+00:00
+ - tags: ['demoscene']
+
  ## The Spriters Resource
  - [http://spriters-resource.com](http://spriters-resource.com)
  - date_published: 2024-07-13T00:00:00+00:00
@@ -2229,6 +2326,10 @@
  - [https://engineis.squarespace.com](https://engineis.squarespace.com)
  - date_published: 2024-02-01T00:00:00+00:00
 
+ ## Epiphany Center
+ - [https://epiphany-center-2021.squarespace.com](https://epiphany-center-2021.squarespace.com)
+ - date_published: 2024-08-14T20:52:53.199899+00:00
+
  ## equalpride
  - [https://equalpride.squarespace.com](https://equalpride.squarespace.com)
  - date_published: 2024-07-13T04:40:17.127997+00:00
@@ -3902,104 +4003,4 @@
  ## The Olive Oil Professor  | The Class You Always Wanted To Take
  - [https://oliveoilprofessor.squarespace.com](https://oliveoilprofessor.squarespace.com)
  - date_published: 2024-07-03T00:00:00+00:00
-
- ## Plastic Sax
- - [https://olive-swan-rhwh.squarespace.com](https://olive-swan-rhwh.squarespace.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## The Modern Mann
- - [https://olly-mann-jo0s.squarespace.com](https://olly-mann-jo0s.squarespace.com)
- - date_published: 2024-06-26T14:14:56.312101+00:00
-
- ## OMAR ITANI
- - [https://omar-itani.squarespace.com](https://omar-itani.squarespace.com)
- - date_published: 2024-05-09T06:38:42.643522+00:00
-
- ## Omniflux
- - [https://omniflux.squarespace.com](https://omniflux.squarespace.com)
- - date_published: 2024-05-06T21:46:37.997342+00:00
-
- ## The One Piece Podcast
- - [https://onepiecepodcast.squarespace.com](https://onepiecepodcast.squarespace.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Open Markets Institute
- - [https://openmarketsinstitute.squarespace.com](https://openmarketsinstitute.squarespace.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Epsilon3 | Software for Complex Engineering, Testing, & Operations
- - [https://opossum-maracas-4rd6.squarespace.com](https://opossum-maracas-4rd6.squarespace.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Opte
- - [https://opteproject.squarespace.com](https://opteproject.squarespace.com)
- - date_published: 2024-07-15T11:17:26.434465+00:00
-
- ## AI Safety 東京
- - [https://orange-emu-db9c.squarespace.com](https://orange-emu-db9c.squarespace.com)
- - date_published: 2024-07-08T18:17:50.120041+00:00
-
- ## Chris Lewicki
- - [https://orb-beige-36zw.squarespace.com](https://orb-beige-36zw.squarespace.com)
- - date_published: 2024-05-08T05:14:56.744618+00:00
-
- ## Keeling Labs
- - [https://orb-calliope-n67f.squarespace.com](https://orb-calliope-n67f.squarespace.com)
- - date_published: 2024-07-19T19:02:07.521837+00:00
-
- ## Mapidea | Location Intelligence | GIS | Data Monetization
- - [https://orca-apple-wfd4.squarespace.com](https://orca-apple-wfd4.squarespace.com)
- - date_published: 2024-07-20T18:25:39.282259+00:00
-
- ## Hello Screen Printing
- - [https://orca-squid-72cd.squarespace.com](https://orca-squid-72cd.squarespace.com)
- - date_published: 2024-07-12T06:54:55.556971+00:00
-
- ## First Look Institute
- - [https://orchid-chicken-3wwn.squarespace.com](https://orchid-chicken-3wwn.squarespace.com)
- - date_published: 2024-06-24T11:00:25.100202+00:00
-
- ## Awfully Cheerful Engine! A roleplaying game of action comedy!
- - [https://orchid-ocelot-s8tf.squarespace.com](https://orchid-ocelot-s8tf.squarespace.com)
- - date_published: 2024-07-10T02:03:27.581504+00:00
-
- ## Oregonian Media Group
- - [https://oregonian-media-group.squarespace.com](https://oregonian-media-group.squarespace.com)
- - date_published: 2024-06-27T16:39:23.406469+00:00
-
- ## Orrin G. Hatch Foundation
- - [https://orrinhatchfoundation.squarespace.com](https://orrinhatchfoundation.squarespace.com)
- - date_published: 2024-08-05T17:21:22.195660+00:00
-
- ## OVRO
- - [https://ovro.squarespace.com](https://ovro.squarespace.com)
- - date_published: 2024-07-22T06:23:02.839613+00:00
-
- ## carrie finch
- - [https://owl-chrysalis-bh2j.squarespace.com](https://owl-chrysalis-bh2j.squarespace.com)
- - date_published: 2024-07-08T13:51:18.678810+00:00
-
- ## Owler
- - [https://owler.squarespace.com](https://owler.squarespace.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Bardo Lounge & Supper Club
- - [https://owl-parrot-jf3j.squarespace.com](https://owl-parrot-jf3j.squarespace.com)
- - date_published: 2024-06-26T07:37:24.365109+00:00
-
- ## Cambridge AI Safety Hub
- - [https://owl-parsnip-7sny.squarespace.com](https://owl-parsnip-7sny.squarespace.com)
- - date_published: 2024-07-07T07:23:41.601674+00:00
-
- ## Ozone – Powering the premium web
- - [https://ozoneprojectdemo.squarespace.com](https://ozoneprojectdemo.squarespace.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Valentina Casali – Lettering & Design
- - [https://paddlefish-lavender-gykw.squarespace.com](https://paddlefish-lavender-gykw.squarespace.com)
- - date_published: 2024-07-17T12:42:41.947265+00:00
-
- ## Paleofuture
- - [https://paleo-future.squarespace.com](https://paleo-future.squarespace.com)
- - date_published: 2024-05-06T22:27:03.984943+00:00
 

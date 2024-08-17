@@ -1,3 +1,11 @@
+ ## Prefeitura Municipal de Curitiba
+ - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:09.478209+00:00
+
+ ## Secretaria Municipal da Educação
+ - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:18.932345+00:00
+
  ## Fala Curitiba - Prefeitura de Curitiba
  - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
  - date_published: 2024-06-12T11:18:10.734623+00:00
@@ -3675,6 +3683,10 @@
  - [http://www.fireplaces.ca](http://www.fireplaces.ca)
  - date_published: 2024-06-03T00:00:00+00:00
 
+ ## Home - FireSmoke.ca
+ - [https://firesmoke.ca](https://firesmoke.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## Home
  - [https://fitc.ca](https://fitc.ca)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -4014,16 +4026,4 @@
  ## GM Envolve Canada: Transforming How Business is Done
  - [https://www.gmenvolve.ca](https://www.gmenvolve.ca)
  - date_published: 2024-06-20T07:44:57.126535+00:00
-
- ## Home
- - [https://www.gmfinancial.ca](https://www.gmfinancial.ca)
- - date_published: 2024-06-14T02:56:30+00:00
-
- ## Guided Tours & Group Travel Tours | EF Go Ahead Tours
- - [https://www.goaheadtours.ca](https://www.goaheadtours.ca)
- - date_published: 2024-06-18T06:47:19.293959+00:00
-
- ## Golf Canada
- - [https://ch.golfcanada.ca](https://ch.golfcanada.ca)
- - date_published: 2024-07-09T19:05:38.313363+00:00
 

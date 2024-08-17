@@ -1,3 +1,127 @@
+ ## Jon Skeet's coding blog
+ - [https://jonskeetcodingblog.files.wordpress.com](https://jonskeetcodingblog.files.wordpress.com)
+ - date_published: 2024-05-02T12:44:46.299489+00:00
+
+ ## Jon Skeet's coding blog
+ - [https://jonskeetcodingblog.wordpress.com](https://jonskeetcodingblog.wordpress.com)
+ - date_published: 2024-05-02T12:50:27.780403+00:00
+
+ ## Jorn Bettin
+ - [https://jornbettin.wordpress.com](https://jornbettin.wordpress.com)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Josh Neufeld
+ - [https://joshcomix.wordpress.com](https://joshcomix.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Right Side
+ - [http://joshkrysak.wordpress.com](http://joshkrysak.wordpress.com)
+ - date_published: 2024-06-27T10:27:17.914124+00:00
+
+ ## Humanities and the Sciences
+ - [https://joshuazintelhumanities.wordpress.com](https://joshuazintelhumanities.wordpress.com)
+ - date_published: 2024-06-30T11:05:49.837142+00:00
+
+ ## Joss Ingram
+ - [https://jossingram.wordpress.com](https://jossingram.wordpress.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Joules for Fools
+ - [http://joulesforfools.wordpress.com](http://joulesforfools.wordpress.com)
+ - date_published: 2024-06-30T08:14:28.099296+00:00
+
+ ## jourdankeith
+ - [https://jourdankeith.wordpress.com](https://jourdankeith.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Journeyman's Journal
+ - [https://journeymansjournel.wordpress.com](https://journeymansjournel.wordpress.com)
+ - date_published: 2024-05-08T12:13:01.748682+00:00
+
+ ## Another Day Another Destination
+ - [https://joyrobin.wordpress.com](https://joyrobin.wordpress.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Hymn to Reason
+ - [https://jsalvatier.wordpress.com](https://jsalvatier.wordpress.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## J. Savage
+ - [https://jsavagehome.wordpress.com](https://jsavagehome.wordpress.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Academically Interesting
+ - [http://jsteinhardt.wordpress.com](http://jsteinhardt.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## JT's Blog - All things Sage 300...
+ - [https://jthomas903.wordpress.com](https://jthomas903.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Juan Matias Blog
+ - [https://juanmatiasblogforenglish.files.wordpress.com](https://juanmatiasblogforenglish.files.wordpress.com)
+ - date_published: 2024-03-26T00:15:08.526069+00:00
+
+ ## Jude Lieber
+ - [http://judelieber.wordpress.com](http://judelieber.wordpress.com)
+ - date_published: 2024-06-29T03:19:54.156741+00:00
+
+ ## Judith Vanistendael
+ - [https://judithvanistendael.wordpress.com](https://judithvanistendael.wordpress.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Juggling Bits
+ - [https://jugglingbits.wordpress.com](https://jugglingbits.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## (no title)
+ - [https://juleswings.wordpress.com](https://juleswings.wordpress.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## terrain
+ - [http://juliafoggterrain.wordpress.com](http://juliafoggterrain.wordpress.com)
+ - date_published: 2024-06-24T10:51:02.274771+00:00
+
+ ## JULIMINATION
+ - [https://julimination.wordpress.com](https://julimination.wordpress.com)
+ - date_published: 2024-06-28T18:40:43.182097+00:00
+
+ ## June Boyce-Tillman
+ - [https://juneboycetillman.wordpress.com](https://juneboycetillman.wordpress.com)
+ - date_published: 2024-07-08T18:38:00.714211+00:00
+
+ ## The Sunflower Conjecture and P vs NP Problem
+ - [http://junfukuyama.wordpress.com](http://junfukuyama.wordpress.com)
+ - date_published: 2024-06-30T11:18:52.466261+00:00
+
+ ## Just a Bahai Blog
+ - [https://justabahai.wordpress.com](https://justabahai.wordpress.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Just Coasting
+ - [https://justcoastinghome.wordpress.com](https://justcoastinghome.wordpress.com)
+ - date_published: 2024-06-30T01:43:01.713787+00:00
+
+ ## Platens & Prose
+ - [https://justjudiestype.wordpress.com](https://justjudiestype.wordpress.com)
+ - date_published: 2024-07-18T17:13:33.763104+00:00
+
+ ## Just Typewriters
+ - [https://justtypewriters.wordpress.com](https://justtypewriters.wordpress.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## JVA's Nonprofit Street
+ - [http://jvaconsulting.wordpress.com](http://jvaconsulting.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## QA Productions
+ - [http://jwmanus.wordpress.com](http://jwmanus.wordpress.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Math Mode
+ - [http://k8reindeer.wordpress.com](http://k8reindeer.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
  ## With Varying Frequency - Amateur Radio Ponderings
  - [https://k9zw.wordpress.com](https://k9zw.wordpress.com)
  - date_published: 2024-06-29T08:02:02.125918+00:00
@@ -3896,128 +4020,4 @@
  ## Rashim's Memoir
  - [https://rashimuddin.wordpress.com](https://rashimuddin.wordpress.com)
  - date_published: 2024-04-27T00:00:00+00:00
-
- ## Rascality: Speeches to its Cultured Despisers
- - [https://raskality.wordpress.com](https://raskality.wordpress.com)
- - date_published: 2023-10-25T18:15:57.058312+00:00
-
- ## Ratio Bound – A Combinatorics Blog
- - [https://ratiobound.wordpress.com](https://ratiobound.wordpress.com)
- - date_published: 2024-06-30T09:11:05.020448+00:00
-
- ## Juan Carlos Sánchez Calle
- - [https://ravened.wordpress.com](https://ravened.wordpress.com)
- - date_published: 2024-06-17T02:49:41+00:00
-
- ## Ravens of Alladore
- - [https://ravensofalladoreblog.wordpress.com](https://ravensofalladoreblog.wordpress.com)
- - date_published: 2024-07-20T07:26:02+00:00
-
- ## Rayandmave's Blog
- - [http://rayandmave.wordpress.com](http://rayandmave.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## rbresearch
- - [http://rbresearch.wordpress.com](http://rbresearch.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Code happens
- - [https://rbtcollins.wordpress.com](https://rbtcollins.wordpress.com)
- - date_published: 2024-05-19T02:44:35.657953+00:00
-
- ## Read and Hear
- - [http://readandhear.wordpress.com](http://readandhear.wordpress.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Radhika's Reading Retreat
- - [https://readersretreat2017.wordpress.com](https://readersretreat2017.wordpress.com)
- - date_published: 2024-06-30T05:57:55.431025+00:00
-
- ## readerunner
- - [https://readerunner.wordpress.com](https://readerunner.wordpress.com)
- - date_published: 2024-07-11T07:50:37.495881+00:00
-
- ## Reading in Bed
- - [https://readinginbeddotcom.wordpress.com](https://readinginbeddotcom.wordpress.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Real World Cryptography Workshop 2014
- - [http://realworldcrypto.wordpress.com](http://realworldcrypto.wordpress.com)
- - date_published: 2024-06-30T11:09:43+00:00
-
- ## Reasonable Conversation
- - [https://reasonableconversation.wordpress.com](https://reasonableconversation.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Reasonablist
- - [https://reasonablist.wordpress.com](https://reasonablist.wordpress.com)
- - date_published: 2024-05-02T10:06:49.215009+00:00
-
- ## Rebecca Roanhorse
- - [https://rebeccaroanhorse.wordpress.com](https://rebeccaroanhorse.wordpress.com)
- - date_published: 2024-07-04T02:45:03.164159+00:00
-
- ## On the Margin
- - [https://rebuilttypewriters.wordpress.com](https://rebuilttypewriters.wordpress.com)
- - date_published: 2024-07-18T17:11:51.551855+00:00
-
- ## receptekarakkal
- - [https://receptekarakkal.wordpress.com](https://receptekarakkal.wordpress.com)
- - date_published: 2024-05-12T06:24:32.533175+00:00
-
- ## The Recompiler
- - [https://recompiler.wordpress.com](https://recompiler.wordpress.com)
- - date_published: 2024-05-04T12:30:43.588270+00:00
-
- ## Reconfigurable, Reconshmigurable
- - [http://reconshmigurable.wordpress.com](http://reconshmigurable.wordpress.com)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Recuerdos de 8 Bits
- - [https://recuerdosde8bits.wordpress.com](https://recuerdosde8bits.wordpress.com)
- - date_published: 2024-07-20T19:54:42.257325+00:00
-
- ## Recurrently Unlucky
- - [http://recurrentlyunlucky.wordpress.com](http://recurrentlyunlucky.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Rede Mineira de Comunicação Científica
- - [https://redemineiradecomunicacaocientifica.wordpress.com](https://redemineiradecomunicacaocientifica.wordpress.com)
- - date_published: 2024-07-13T18:12:17.610030+00:00
-
- ## Rediscover911com's Blog
- - [https://rediscover911com.wordpress.com](https://rediscover911com.wordpress.com)
- - date_published: 2024-05-01T03:03:06.343902+00:00
-
- ## Tenerife Blogs : It's all a matter of perspective
- - [http://redqueenmusings.wordpress.com](http://redqueenmusings.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Campbell's Alley
- - [https://redracam.wordpress.com](https://redracam.wordpress.com)
- - date_published: 2024-05-01T03:03:13.641358+00:00
-
- ## Refereeing and Reflection
- - [https://refereeingandreflection.wordpress.com](https://refereeingandreflection.wordpress.com)
- - date_published: 2024-06-23T18:49:09.366588+00:00
-
- ## WordPress.com Affiliate Program – Earn rewards promoting the world’s leading content management system.
- - [https://refer.wordpress.com](https://refer.wordpress.com)
- - date_published: 2024-05-12T05:42:54.421026+00:00
-
- ## The Wayward Wanderer
- - [https://refrane.wordpress.com](https://refrane.wordpress.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Refrigerator Magnate
- - [http://refrigeratormagnate.wordpress.com](http://refrigeratormagnate.wordpress.com)
- - date_published: 2024-07-01T06:00:09.918364+00:00
-
- ## The Regency Redingote
- - [http://regencyredingote.wordpress.com](http://regencyredingote.wordpress.com)
- - date_published: 2024-04-30T06:28:16.692819+00:00
-
- ## regularize
- - [https://regularize.wordpress.com](https://regularize.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
 

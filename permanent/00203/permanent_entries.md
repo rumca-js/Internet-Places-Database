@@ -1,3 +1,143 @@
+ ## Department of Mining Engineering - The University of Utah
+ - [https://mining.utah.edu](https://mining.utah.edu)
+ - date_published: 2024-07-02T11:36:23.225387+00:00
+
+ ## Monson Center - Conference and Event Management - The University of Utah
+ - [https://monsoncenter.utah.edu](https://monsoncenter.utah.edu)
+ - date_published: 2024-04-29T04:48:51.801103+00:00
+
+ ## Master of Public Administration - The University of Utah
+ - [https://mpa.utah.edu](https://mpa.utah.edu)
+ - date_published: 2024-07-02T11:27:04.092334+00:00
+
+ ## Master of Public Policy - The University of Utah
+ - [https://mpp.utah.edu](https://mpp.utah.edu)
+ - date_published: 2024-07-02T11:27:36.218608+00:00
+
+ ## Master of Software Development | University of Utah
+ - [https://msd.utah.edu](https://msd.utah.edu)
+ - date_published: 2024-05-07T22:10:41.905933+00:00
+
+ ## Home Page - Materials Science & Engineering
+ - [https://mse.utah.edu](https://mse.utah.edu)
+ - date_published: 2024-07-02T11:31:04.778134+00:00
+
+ ## Utah Digital Newspapers
+ - [https://newspapers.lib.utah.edu](https://newspapers.lib.utah.edu)
+ - date_published: 2024-07-19T16:48:20.149715+00:00
+
+ ## Interdisciplinary Exchange for Utah Science - The University of Utah
+ - [https://nexus.utah.edu](https://nexus.utah.edu)
+ - date_published: 2024-07-02T11:21:28.092252+00:00
+
+ ## Welcome to the Natural History Museum of Utah | Natural History Museum of Utah
+ - [https://nhmu.utah.edu](https://nhmu.utah.edu)
+ - date_published: 2024-07-02T08:26:17+00:00
+
+ ## Utah Natural Language Processing Group
+ - [https://nlp.cs.utah.edu](https://nlp.cs.utah.edu)
+ - date_published: 2023-12-13T23:33:56+00:00
+
+ ## Department of Naval Science (Navy/Marine ROTC) - The University of Utah
+ - [https://nrotc.utah.edu](https://nrotc.utah.edu)
+ - date_published: 2024-07-02T11:27:20.905985+00:00
+
+ ## Office 365 - The University of Utah
+ - [https://o365cloud.utah.edu](https://o365cloud.utah.edu)
+ - date_published: 2024-07-14T05:11:24.560358+00:00
+
+ ## Office of Equal Opportunity & Affirmative Action - The University of Utah
+ - [http://oeo.utah.edu](http://oeo.utah.edu)
+ - date_published: 2024-07-02T11:30:40.042750+00:00
+
+ ## UOnline at the University of Utah - UOnline - The University of Utah
+ - [https://online.utah.edu](https://online.utah.edu)
+ - date_published: 2024-07-02T11:27:22.877846+00:00
+
+ ## The Office of Orientation and Transition - The University of Utah
+ - [https://orientation.utah.edu](https://orientation.utah.edu)
+ - date_published: 2024-07-02T11:19:05.848611+00:00
+
+ ## Office of Sponsored Projects - The University of Utah
+ - [https://osp.utah.edu](https://osp.utah.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Office of Undergraduate Research
+ - [https://our.utah.edu](https://our.utah.edu)
+ - date_published: 2024-07-02T11:30:37.780675+00:00
+
+ ## Parents & Families - The Office of Orientation and Transition - The University of Utah
+ - [http://parents.utah.edu](http://parents.utah.edu)
+ - date_published: 2024-07-02T11:42:32.018655+00:00
+
+ ## Basic Search - Campus Directory - The University of Utah
+ - [https://people.utah.edu](https://people.utah.edu)
+ - date_published: 2024-05-07T22:09:50.098494+00:00
+
+ ## Department of Political Science - The University of Utah
+ - [https://poli-sci.utah.edu](https://poli-sci.utah.edu)
+ - date_published: 2024-07-02T11:27:02.191182+00:00
+
+ ## University of Utah - Portal
+ - [https://portal.app.utah.edu](https://portal.app.utah.edu)
+ - date_published: 2024-03-14T20:34:52+00:00
+
+ ## President Taylor R. Randall
+ - [https://president.utah.edu](https://president.utah.edu)
+ - date_published: 2024-07-02T11:18:02.089656+00:00
+
+ ## Department of Psychology - The University of Utah
+ - [https://psych.utah.edu](https://psych.utah.edu)
+ - date_published: 2024-07-02T11:21:30.615603+00:00
+
+ ## University Department of Public Safety
+ - [https://publicsafety.utah.edu](https://publicsafety.utah.edu)
+ - date_published: 2024-07-02T11:18:33.666208+00:00
+
+ ## Home
+ - [http://qed.cs.utah.edu](http://qed.cs.utah.edu)
+ - date_published: 2024-07-02T11:29:23.851477+00:00
+
+ ## Office of the Registrar - The University of Utah
+ - [https://registrar.utah.edu](https://registrar.utah.edu)
+ - date_published: 2024-07-02T11:18:39.117738+00:00
+
+ ## Vice President for Research
+ - [http://research.utah.edu](http://research.utah.edu)
+ - date_published: 2024-07-02T11:29:47.766696+00:00
+
+ ## Robotics Center
+ - [https://robotics.coe.utah.edu](https://robotics.coe.utah.edu)
+ - date_published: 2024-07-02T11:30:26.726220+00:00
+
+ ## home [LL4MA lab]
+ - [https://robot-learning.cs.utah.edu](https://robot-learning.cs.utah.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## #SAFEU
+ - [https://safeu.utah.edu](https://safeu.utah.edu)
+ - date_published: 2024-07-02T11:18:42.515290+00:00
+
+ ## College of Science
+ - [https://science.utah.edu](https://science.utah.edu)
+ - date_published: 2024-05-07T22:10:58.251933+00:00
+
+ ## Home
+ - [https://sci.utah.edu](https://sci.utah.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Information Security Office - The University of Utah
+ - [https://security.it.utah.edu](https://security.it.utah.edu)
+ - date_published: 2024-07-14T05:11:15.100155+00:00
+
+ ## Skills Workshops and Mindfulness Programs - The University of Utah
+ - [https://skills.utah.edu](https://skills.utah.edu)
+ - date_published: 2024-07-02T11:32:59.831680+00:00
+
+ ## Social
+ - [https://social.utah.edu](https://social.utah.edu)
+ - date_published: 2024-07-02T11:21:10.467095+00:00
+
  ## Department of Sociology - The University of Utah
  - [https://soc.utah.edu](https://soc.utah.edu)
  - date_published: 2024-07-02T11:27:27.242229+00:00
@@ -153,6 +293,10 @@
  ## The John and Marcia Price College of Engineering
  - [http://www.eng.utah.edu](http://www.eng.utah.edu)
  - date_published: 2024-05-30T00:00:00+00:00
+
+ ## www-misc-c7.chpc.utah.edu
+ - [https://www.inscc.utah.edu](https://www.inscc.utah.edu)
+ - date_published: 2017-10-06T04:41:20+00:00
 
  ## University of Utah List Service - home
  - [https://www.lists.utah.edu](https://www.lists.utah.edu)
@@ -3854,148 +3998,4 @@
  ## Commitment to Privacy
  - [https://tbiresources.partnership.vcu.edu](https://tbiresources.partnership.vcu.edu)
  - date_published: 2024-07-02T12:51:11.090679+00:00
-
- ## Commitment to Privacy
- - [https://tbi.vcu.edu](https://tbi.vcu.edu)
- - date_published: 2024-07-02T12:48:10.780186+00:00
-
- ## Commitment to Privacy
- - [https://techfair.vcu.edu](https://techfair.vcu.edu)
- - date_published: 2024-07-02T12:45:56.875111+00:00
-
- ## VCU TelegRAM
- - [http://telegram.vcu.edu](http://telegram.vcu.edu)
- - date_published: 2024-07-02T13:00:58.578387+00:00
-
- ## Commitment to Privacy
- - [https://telework.vcu.edu](https://telework.vcu.edu)
- - date_published: 2024-07-02T12:59:05.315688+00:00
-
- ## Commitment to Privacy
- - [https://thecommons.vcu.edu](https://thecommons.vcu.edu)
- - date_published: 2024-07-02T12:49:25.483499+00:00
-
- ## Commitment to Privacy
- - [https://themoneyspot.vcu.edu](https://themoneyspot.vcu.edu)
- - date_published: 2024-07-02T12:42:03.200110+00:00
-
- ## Commitment to Privacy
- - [https://tobaccofree.vcu.edu](https://tobaccofree.vcu.edu)
- - date_published: 2024-07-02T12:51:08.341044+00:00
-
- ## Commitment to Privacy
- - [https://together.vcu.edu](https://together.vcu.edu)
- - date_published: 2024-07-02T12:57:30.483326+00:00
-
- ## VCU Training
- - [https://training.vcu.edu](https://training.vcu.edu)
- - date_published: 2024-07-02T12:58:09.938544+00:00
-
- ## Commitment to Privacy
- - [https://transfer.vcu.edu](https://transfer.vcu.edu)
- - date_published: 2024-07-02T12:42:43.562955+00:00
-
- ## Commitment to Privacy
- - [https://treasury.vcu.edu](https://treasury.vcu.edu)
- - date_published: 2024-07-02T12:41:44.430257+00:00
-
- ## Commitment to Privacy
- - [https://trio.vcu.edu](https://trio.vcu.edu)
- - date_published: 2024-07-02T12:58:48.122330+00:00
-
- ## Commitment to Privacy
- - [https://ts.som.vcu.edu](https://ts.som.vcu.edu)
- - date_published: 2024-07-02T12:48:42.117198+00:00
-
- ## Commitment to Privacy
- - [https://ts.vcu.edu](https://ts.vcu.edu)
- - date_published: 2024-05-01T05:49:31.967560+00:00
-
- ## Commitment to Privacy
- - [https://ttac.vcu.edu](https://ttac.vcu.edu)
- - date_published: 2024-07-02T12:48:21.321602+00:00
-
- ## Commitment to Privacy
- - [https://uaa.vcu.edu](https://uaa.vcu.edu)
- - date_published: 2024-07-02T12:58:42.099116+00:00
-
- ## Commitment to Privacy
- - [https://uc.vcu.edu](https://uc.vcu.edu)
- - date_published: 2024-07-02T12:43:23.947669+00:00
-
- ## Commitment to Privacy
- - [https://universe.vcu.edu](https://universe.vcu.edu)
- - date_published: 2024-07-02T12:47:11.227522+00:00
-
- ## Commitment to Privacy
- - [https://universitycounsel.vcu.edu](https://universitycounsel.vcu.edu)
- - date_published: 2024-07-02T12:49:50.851133+00:00
-
- ## Commitment to Privacy
- - [https://universityevents.vcu.edu](https://universityevents.vcu.edu)
- - date_published: 2024-07-02T12:46:50.029212+00:00
-
- ## Commitment to Privacy
- - [https://univrelations.vcu.edu](https://univrelations.vcu.edu)
- - date_published: 2024-07-02T13:00:54.775426+00:00
-
- ## Commitment to Privacy
- - [https://vaccinecorps.vcu.edu](https://vaccinecorps.vcu.edu)
- - date_published: 2024-07-02T12:50:29.338500+00:00
-
- ## Commitment to Privacy
- - [https://vaged.vcu.edu](https://vaged.vcu.edu)
- - date_published: 2024-07-02T12:51:26.622828+00:00
-
- ## Commitment to Privacy
- - [https://vascan.vcu.edu](https://vascan.vcu.edu)
- - date_published: 2024-07-02T12:59:11.612065+00:00
-
- ## Commitment to Privacy
- - [https://vcoa.chp.vcu.edu](https://vcoa.chp.vcu.edu)
- - date_published: 2024-07-02T12:47:36.226534+00:00
-
- ## Commitment to Privacy
- - [https://vcu.edu](https://vcu.edu)
- - date_published: 2024-05-07T22:22:38.590113+00:00
-
- ## Commitment to Privacy
- - [https://ventures.vcu.edu](https://ventures.vcu.edu)
- - date_published: 2024-07-02T12:57:12.682178+00:00
-
- ## Commitment to Privacy
- - [https://vimm.vcu.edu](https://vimm.vcu.edu)
- - date_published: 2024-07-02T12:49:32.280847+00:00
-
- ## Commitment to Privacy
- - [https://vip.vcu.edu](https://vip.vcu.edu)
- - date_published: 2024-07-02T12:45:05.231853+00:00
-
- ## Commitment to Privacy
- - [https://virginialend.partnership.vcu.edu](https://virginialend.partnership.vcu.edu)
- - date_published: 2024-07-02T12:44:06.055699+00:00
-
- ## rashnu.csbc.vcu.edu
- - [http://vmc.vcu.edu](http://vmc.vcu.edu)
- - date_published: 2015-11-10T15:02:15+00:00
-
- ## Commitment to Privacy
- - [https://vtss-ric.vcu.edu](https://vtss-ric.vcu.edu)
- - date_published: 2024-07-02T12:49:52.450854+00:00
-
- ## Commitment to Privacy
- - [https://web.partnership.vcu.edu](https://web.partnership.vcu.edu)
- - date_published: 2024-07-02T12:51:20.403542+00:00
-
- ## Commitment to Privacy
- - [https://webstandards.vcu.edu](https://webstandards.vcu.edu)
- - date_published: 2024-07-02T12:48:59.421596+00:00
-
- ## Commitment to Privacy
- - [https://wiki.vcu.edu](https://wiki.vcu.edu)
- - date_published: 2024-07-02T12:35:10.078681+00:00
-
- ## Commitment to Privacy
- - [https://wilder.vcu.edu](https://wilder.vcu.edu)
- - date_published: 2024-07-02T12:47:00.512936+00:00
 

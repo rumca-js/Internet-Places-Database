@@ -1,3 +1,7 @@
+ ## UGent-ELIS homepage
+ - [https://users.elis.ugent.be](https://users.elis.ugent.be)
+ - date_published: 2012-08-24T13:25:27+00:00
+
  ## Sign in to Outlook
  - [https://webmail.ugent.be](https://webmail.ugent.be)
  - date_published: 2024-07-17T00:00:00+00:00
@@ -4081,10 +4085,5 @@
  ## Hi 👋
  - [https://yetanother.blog](https://yetanother.blog)
  - date_published: 2024-05-09T08:17:45.751129+00:00
- - tags: ['personal']
-
- ## yield code(); - Dmitry Kudryavtsev
- - [https://yieldcode.blog](https://yieldcode.blog)
- - date_published: 2023-10-25T09:02:08.513966+00:00
  - tags: ['personal']
 
