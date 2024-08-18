@@ -1,3 +1,203 @@
+ ## friendica – A Decentralized Social Network
+ - [https://friendi.ca](https://friendi.ca)
+ - date_published: 2024-06-19T22:13:12.469601+00:00
+
+ ## froghat.ca
+ - [https://froghat.ca](https://froghat.ca)
+ - date_published: 2023-10-25T09:02:17.770370+00:00
+ - tags: ['personal']
+
+ ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
+ - [https://frogheart.ca](https://frogheart.ca)
+ - date_published: 2024-05-11T07:52:34.040651+00:00
+
+ ## Home
+ - [https://www.fslabs.ca](https://www.fslabs.ca)
+ - date_published: 2024-03-13T11:24:16+00:00
+
+ ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
+ - [https://www.fsrao.ca](https://www.fsrao.ca)
+ - date_published: 2024-06-16T06:19:41+00:00
+
+ ## FTFL.CA
+ - [http://ftfl.ca](http://ftfl.ca)
+ - date_published: 2022-11-17T21:43:13+00:00
+
+ ## Home
+ - [https://www.fulbright.ca](https://www.fulbright.ca)
+ - date_published: 2024-07-14T05:11:53.844102+00:00
+
+ ## Fund Our Health Care
+ - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
+ - date_published: 2024-07-08T16:52:44.200065+00:00
+
+ ## Funerals in Canada, Canada
+ - [http://www.funerals.ca](http://www.funerals.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Furius Enterprises
+ - [http://furius.ca](http://furius.ca)
+ - date_published: 2021-10-23T18:38:30+00:00
+ - tags: ['personal']
+
+ ## Future North
+ - [https://futurenorth.ca](https://futurenorth.ca)
+ - date_published: 2024-07-18T08:23:01+00:00
+
+ ## Find businesses and services in Canada
+ - [https://www.fyple.ca](https://www.fyple.ca)
+ - date_published: 2024-06-29T18:25:40.904229+00:00
+
+ ## Tim Gadanidis - Home
+ - [https://gadanidis.ca](https://gadanidis.ca)
+ - date_published: 2023-10-25T08:42:54.581662+00:00
+ - tags: ['personal']
+
+ ## Galleries West — Your link to directories of art galleries, lists of art exhibitions and the visual arts scene in Western Canada.
+ - [https://www.gallerieswest.ca](https://www.gallerieswest.ca)
+ - date_published: 2024-07-20T17:54:46.315028+00:00
+
+ ## NGC Audio Tours | MBAC Visites Audio
+ - [https://digital.gallery.ca](https://digital.gallery.ca)
+ - date_published: 2024-07-19T22:13:48.235685+00:00
+
+ ## National Gallery of Canada
+ - [https://gallery.ca](https://gallery.ca)
+ - date_published: 2023-11-13T13:45:23.318113+00:00
+ - tags: ['museum']
+
+ ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
+ - [https://gamestop.ca](https://gamestop.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Kahnawà:ke Gaming Commission
+ - [https://www.gamingcommission.ca](https://www.gamingcommission.ca)
+ - date_published: 2024-07-03T12:48:22.494784+00:00
+
+ ## This is the default server vhost
+ - [http://www.garagedoors.ca](http://www.garagedoors.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Garageland a book by Andrew Campbell
+ - [https://garageland.ca](https://garageland.ca)
+ - date_published: 2017-09-30T00:00:00+00:00
+
+ ## Accueil
+ - [https://www.gatineau.ca](https://www.gatineau.ca)
+ - date_published: 2024-07-10T05:29:52.784558+00:00
+
+ ## Home
+ - [http://www.gbcicanada.ca](http://www.gbcicanada.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Garett Brown
+ - [https://gbrown.ca](https://gbrown.ca)
+ - date_published: 2024-05-04T15:44:38.983462+00:00
+
+ ## Giorgio Delgado
+ - [https://gdelgado.ca](https://gdelgado.ca)
+ - date_published: 2022-01-08T00:00:00+00:00
+
+ ## Gee-Gees d'Ottawa
+ - [https://equipes.geegees.ca](https://equipes.geegees.ca)
+ - date_published: 2024-07-21T08:25:41.342522+00:00
+
+ ## Ottawa Gee-Gees
+ - [https://teams.geegees.ca](https://teams.geegees.ca)
+ - date_published: 2024-04-30T05:28:13.660472+00:00
+
+ ## Ottawa Gee-Gees
+ - [https://tickets.geegees.ca](https://tickets.geegees.ca)
+ - date_published: 2024-07-21T08:25:23.743842+00:00
+
+ ## Homepage - GenomeCanada
+ - [https://www.genomecanada.ca](https://www.genomecanada.ca)
+ - date_published: 2024-07-10T11:37:42.790739+00:00
+
+ ## George Brown College - georgebrown.ca
+ - [https://www.georgebrown.ca](https://www.georgebrown.ca)
+ - date_published: 2021-03-19T15:16:54+00:00
+
+ ## George W.J. Laidlaw - Index Page
+ - [http://georgelaidlaw.ca](http://georgelaidlaw.ca)
+ - date_published: 2019-09-08T19:31:21+00:00
+
+ ## Canada - Seed World
+ - [https://germination.ca](https://germination.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Découvrez les meilleurs logiciels grâce à GetApp Canada pour développer votre entreprise
+ - [https://fr.getapp.ca](https://fr.getapp.ca)
+ - date_published: 2024-08-08T18:07:21.040548+00:00
+
+ ## Discover the Best Apps on GetApp Canada to Grow Your Business
+ - [https://www.getapp.ca](https://www.getapp.ca)
+ - date_published: 2024-08-08T18:06:56.766348+00:00
+
+ ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
+ - [https://www.gettyimages.ca](https://www.gettyimages.ca)
+ - date_published: 2024-06-20T01:48:50.997991+00:00
+
+ ## Wheat
+ - [https://getwheat.ca](https://getwheat.ca)
+ - date_published: 2024-08-08T15:35:51+00:00
+
+ ## One Page Resume
+ - [https://gianlu.ca](https://gianlu.ca)
+ - date_published: 2023-12-02T06:15:14+00:00
+
+ ## Gilead Sciences
+ - [https://www.gilead.ca](https://www.gilead.ca)
+ - date_published: 2024-07-02T04:08:12.955063+00:00
+
+ ## Home - Glacier Media
+ - [https://glaciermedia.ca](https://glaciermedia.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Glass in Canada, Canada
+ - [http://www.glass.ca](http://www.glass.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Glassdoor | Job Search and Career Community
+ - [https://www.glassdoor.ca](https://www.glassdoor.ca)
+ - date_published: 2024-06-16T12:57:59.782418+00:00
+
+ ## Home
+ - [https://globalfest.ca](https://globalfest.ca)
+ - date_published: 2024-06-17T07:09:30+00:00
+
+ ## Global News | Breaking, Latest News and Video for Canada
+ - [https://globalnews.ca](https://globalnews.ca)
+ - date_published: 2023-10-25T10:36:35.873873+00:00
+
+ ## Home - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://www.globalresearch.ca](https://www.globalresearch.ca)
+ - date_published: 2023-10-25T12:05:13.017051+00:00
+
+ ## CFEE Classroom Edition
+ - [http://globeclassroom.ca](http://globeclassroom.ca)
+ - date_published: 2024-05-06T16:48:40.240746+00:00
+
+ ## Home
+ - [https://globelink.ca](https://globelink.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Home
+ - [http://www.globelink.ca](http://www.globelink.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home
+ - [https://globemediagroup.ca](https://globemediagroup.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## General Motors Canada: Pushing the Limits of Transportation & Technology
+ - [http://www.gm.ca](http://www.gm.ca)
+ - date_published: 2024-06-18T13:57:53+00:00
+
+ ## GM Envolve Canada: Transforming How Business is Done
+ - [https://www.gmenvolve.ca](https://www.gmenvolve.ca)
+ - date_published: 2024-06-20T07:44:57.126535+00:00
+
  ## Home
  - [https://www.gmfinancial.ca](https://www.gmfinancial.ca)
  - date_published: 2024-06-14T02:56:30+00:00
@@ -220,6 +420,10 @@
  - [https://healthydebate.ca](https://healthydebate.ca)
  - date_published: 2024-06-05T00:00:00+00:00
 
+ ## Healthy Generations
+ - [https://healthygenerations.ca](https://healthygenerations.ca)
+ - date_published: 2024-08-17T23:02:28+00:00
+
  ## index
  - [http://hearsum.ca](http://hearsum.ca)
  - date_published: 2015-01-26T16:07:05+00:00
@@ -399,6 +603,10 @@
  - [https://ibraheem.ca](https://ibraheem.ca)
  - date_published: 2023-10-25T08:42:56.661128+00:00
  - tags: ['personal']
+
+ ## Introduction | GiftManager Docs
+ - [https://gift.icbest.ca](https://gift.icbest.ca)
+ - date_published: 2024-08-17T00:00:00+00:00
 
  ## Domain Names | Dncanada Inc.
  - [http://icehuts.ca](http://icehuts.ca)
@@ -608,6 +816,10 @@
  ## iter.ca
  - [https://iter.ca](https://iter.ca)
  - date_published: 2024-01-21T00:00:00+00:00
+
+ ## KB
+ - [https://kb.iter.ca](https://kb.iter.ca)
+ - date_published: 2024-06-18T23:22:17+00:00
 
  ## Online Electronics Store | ITFactory.ca
  - [https://itfactory.ca](https://itfactory.ca)
@@ -837,6 +1049,10 @@
  ## Keychron | Wireless Mechanical Keyboards for Mac, Windows and Android
  - [https://keychron.ca](https://keychron.ca)
  - date_published: 2024-06-23T06:02:20.308841+00:00
+
+ ## Caring for Kids New to Canada - Home
+ - [https://kidsnewtocanada.ca](https://kidsnewtocanada.ca)
+ - date_published: 2024-08-17T23:02:37+00:00
 
  ## Kijiji Canada
  - [https://www.kijiji.ca](https://www.kijiji.ca)
@@ -3664,6 +3880,10 @@
  - [https://stallionexpress.ca](https://stallionexpress.ca)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## Stance | Socks, Underwear & Apparel | Shop Now
+ - [https://www.stance.ca](https://www.stance.ca)
+ - date_published: 2024-08-17T23:12:56.541327+00:00
+
  ## Attention Required! | Cloudflare
  - [https://www.staples.ca](https://www.staples.ca)
  - date_published: 2024-08-05T21:54:56.390589+00:00
@@ -3838,223 +4058,4 @@
  - [https://www.thecanadianpressnews.ca](https://www.thecanadianpressnews.ca)
  - date_published: 2023-11-08T21:50:08.227809+00:00
  - tags: ['canada news']
-
- ## Welcome to Centre for Digital Media
- - [http://thecdm.ca](http://thecdm.ca)
- - date_published: 2024-07-19T22:10:13+00:00
-
- ## My Tickets | ShowClix
- - [https://wemtickets.thecomicstrip.ca](https://wemtickets.thecomicstrip.ca)
- - date_published: 2024-08-11T06:51:41.530442+00:00
-
- ## The Curve - Unique Glassware and stickers
- - [http://www.thecurve.ca](http://www.thecurve.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
- - [https://thedeepdive.ca](https://thedeepdive.ca)
- - date_published: 2023-10-25T12:07:49.884004+00:00
-
- ## The Gateway - The University of Alberta's official campus media source
- - [http://thegatewayonline.ca](http://thegatewayonline.ca)
- - date_published: 2024-07-20T15:44:20.566310+00:00
-
- ## Hot Sauce Reviews, Recipes, and Pepper Growing Guides
- - [https://thehotsauceguy.ca](https://thehotsauceguy.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## The Hub | More Signal. Less Noise.
- - [https://thehub.ca](https://thehub.ca)
- - date_published: 2023-10-25T12:12:13.121688+00:00
-
- ## The Impact Project
- - [https://www.theimpactproject.ca](https://www.theimpactproject.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## The Independent
- - [https://theindependent.ca](https://theindependent.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## The Inside Line  - Calgary Mountain Bike Shop
- - [https://www.theinsideline.ca](https://www.theinsideline.ca)
- - date_published: 2024-06-15T11:58:37.525844+00:00
-
- ## Burnaby Now LocalPROS
- - [https://burnaby.thelocalpros.ca](https://burnaby.thelocalpros.ca)
- - date_published: 2024-06-27T12:56:24.257522+00:00
-
- ## New West Record LocalPROS
- - [https://newwest.thelocalpros.ca](https://newwest.thelocalpros.ca)
- - date_published: 2024-06-27T12:55:00.010020+00:00
-
- ## Tri-City News LocalPROS
- - [https://tricities.thelocalpros.ca](https://tricities.thelocalpros.ca)
- - date_published: 2024-06-27T12:52:22.317924+00:00
-
- ## The Military Museums - The Military Museums
- - [https://themilitarymuseums.ca](https://themilitarymuseums.ca)
- - date_published: 2024-06-17T08:46:18+00:00
-
- ## The Moulding Store Inc. | Calgary Mouldings, Doors, Locks, Bath Hardware and Accessories
- - [http://themouldingstore.ca](http://themouldingstore.ca)
- - date_published: 2024-06-23T12:04:27+00:00
-
- ## The Narwhal | News on Climate Change, Environmental Issues in Canada
- - [https://thenarwhal.ca](https://thenarwhal.ca)
- - date_published: 2018-04-30T21:43:50+00:00
-
- ## theorca
- - [https://www.theorca.ca](https://www.theorca.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Organic Prepper Home - The Organic Prepper
- - [https://www.theorganicprepper.ca](https://www.theorganicprepper.ca)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## theoria – notes and commentaries
- - [http://www.theoria.ca](http://www.theoria.ca)
- - date_published: 2024-06-30T04:29:52.391280+00:00
-
- ## TherapyMantra: Best Online Therapy and Counseling
- - [https://therapymantra.ca](https://therapymantra.ca)
- - date_published: 2024-07-23T21:20:02.198661+00:00
-
- ## Peter Limberg
- - [https://www.thestoa.ca](https://www.thestoa.ca)
- - date_published: 2024-04-30T15:44:33.451663+00:00
- - tags: ['personal']
-
- ## A.D. SUI
- - [https://thesuiway.ca](https://thesuiway.ca)
- - date_published: 2024-04-29T02:17:46.340015+00:00
-
- ## Plausible · Web analytics
- - [https://analytic.thetechrobo.ca](https://analytic.thetechrobo.ca)
- - date_published: 2024-05-11T06:56:09.482135+00:00
-
- ## Archived YouTube Video Finder
- - [https://findyoutubevideo.thetechrobo.ca](https://findyoutubevideo.thetechrobo.ca)
- - date_published: 2023-11-11T08:20:40+00:00
-
- ## The Tyee | Home
- - [https://thetyee.ca](https://thetyee.ca)
- - date_published: 2024-06-29T06:14:02.957860+00:00
-
- ## The Walrus
- - [https://secure.thewalrus.ca](https://secure.thewalrus.ca)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## The Walrus Store
- - [https://store.thewalrus.ca](https://store.thewalrus.ca)
- - date_published: 2024-07-21T09:25:16.337235+00:00
-
- ## The Walrus | Canada's Conversation
- - [https://thewalrus.ca](https://thewalrus.ca)
- - date_published: 2023-10-25T12:12:23.582516+00:00
-
- ## ThinkPol - Free the news
- - [https://thinkpol.ca](https://thinkpol.ca)
- - date_published: 2023-10-25T12:08:24.491426+00:00
-
- ## Thomas Anderson
- - [https://thomasanderson.ca](https://thomasanderson.ca)
- - date_published: 2024-04-03T06:25:45.635825+00:00
- - tags: ['personal']
-
- ## Thomson Reuters online store
- - [https://store.thomsonreuters.ca](https://store.thomsonreuters.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Thomson Reuters Canada
- - [https://www.thomsonreuters.ca](https://www.thomsonreuters.ca)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Workwear and Menswear Sewing Patterns and Supplies | Thread Theory Designs
- - [https://threadtheory.ca](https://threadtheory.ca)
- - date_published: 2024-07-10T03:36:48.678061+00:00
-
- ## Finding the best business, It's that easy - ThreeBestRated.ca
- - [https://threebestrated.ca](https://threebestrated.ca)
- - date_published: 2024-05-02T09:53:04.963128+00:00
-
- ## dayder
- - [https://dayder.thume.ca](https://dayder.thume.ca)
- - date_published: 2024-04-30T05:16:58.353294+00:00
-
- ## dayder
- - [https://hnblogs.thume.ca](https://hnblogs.thume.ca)
- - date_published: 2024-04-30T05:16:53.652654+00:00
-
- ## Tristan's Site - Tristan Hume
- - [https://thume.ca](https://thume.ca)
- - date_published: 2023-10-25T08:43:07.236288+00:00
- - tags: ['personal']
-
- ## TIAO - Tourism Counts
- - [https://www.tiaontario.ca](https://www.tiaontario.ca)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Let's Get Your Identity Verified
- - [https://www.ticketmaster.ca](https://www.ticketmaster.ca)
- - date_published: 2024-07-19T05:00:01.344837+00:00
-
- ## TicketWeb - independent music concert tickets and more
- - [https://www.ticketweb.ca](https://www.ticketweb.ca)
- - date_published: 2024-07-01T05:01:18.417896+00:00
-
- ## Directory
- - [https://members.tico.ca](https://members.tico.ca)
- - date_published: 2024-07-17T10:26:22.622257+00:00
-
- ## Home - Tidal Commerce
- - [https://tidalcommerce.ca](https://tidalcommerce.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## This is the default server vhost
- - [http://www.tiles.ca](http://www.tiles.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Tilray
- - [https://www.tilraymedical.ca](https://www.tilraymedical.ca)
- - date_published: 2024-07-16T23:46:47.159020+00:00
-
- ## Trusses | Engineered Floors | Timber Wolf Truss
- - [https://timberwolftruss.ca](https://timberwolftruss.ca)
- - date_published: 2024-04-30T05:14:37.713928+00:00
-
- ## Time2Thrive | Tim Ebl | Substack
- - [https://www.time2thrive.ca](https://www.time2thrive.ca)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Timur Ochakovsky | Web Developer
- - [https://www.timur.ca](https://www.timur.ca)
- - date_published: 2023-11-08T12:51:06+00:00
-
- ## Tireshops in Canada, Canada
- - [http://www.tireshops.ca](http://www.tireshops.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Toronto Language and Cognition Lab | UofT
- - [https://www.tlclab.ca](https://www.tlclab.ca)
- - date_published: 2024-07-19T15:20:02.673409+00:00
-
- ## Todd Industries - Game Servers
- - [https://games.toddindustries.ca](https://games.toddindustries.ca)
- - date_published: 2024-06-16T21:25:29.763007+00:00
-
- ## Todd Industries ©
- - [https://toddindustries.ca](https://toddindustries.ca)
- - date_published: 2020-04-12T17:32:01+00:00
-
- ## tomjacques.ca
- - [http://tomjacques.ca](http://tomjacques.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Tony Burke | Professor of Early Christianity, York University, Toronto
- - [http://www.tonyburke.ca](http://www.tonyburke.ca)
- - date_published: 2024-07-02T09:57:12.094403+00:00
-
- ## City of Toronto
- - [https://www.toronto.ca](https://www.toronto.ca)
- - date_published: 2017-02-09T19:00:55+00:00
 

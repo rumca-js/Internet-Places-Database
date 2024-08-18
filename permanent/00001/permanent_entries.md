@@ -2395,7 +2395,7 @@
  - date_published: 2024-04-10T00:00:00+00:00
 
  ## Run perfect meetings. Every. Single. Time. | Meetrics
- - [https://www.meetrics.ai](https://www.meetrics.ai)
+ - [https://meetrics.ai](https://meetrics.ai)
  - date_published: 2024-01-28T00:00:00+00:00
 
  ## Home - Meetz
@@ -2833,6 +2833,10 @@
  - [https://nextpart.ai](https://nextpart.ai)
  - date_published: 2024-03-13T00:00:00+00:00
  - tags: ['artificial intelligence bot', 'nsfw']
+
+ ## NextStarterAI
+ - [https://www.nextstarter.ai](https://www.nextstarter.ai)
+ - date_published: 2024-08-17T06:47:16.059333+00:00
 
  ## Home - NFPs.AI
  - [http://nfps.ai](http://nfps.ai)
@@ -4017,8 +4021,4 @@
  ## Identity-Centric SaaS Security Platform | Reco
  - [https://reco.ai](https://reco.ai)
  - date_published: 2024-04-25T00:00:00+00:00
-
- ## RECOVA: Every Bounce Is A 2nd Chance
- - [https://recova.ai](https://recova.ai)
- - date_published: 2024-03-28T00:00:00+00:00
 

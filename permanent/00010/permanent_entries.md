@@ -1,3 +1,176 @@
+ ## Ten Forward's Blog – The official blog of the Ten Forward Mastodon instance
+ - [https://tenforward.blog](https://tenforward.blog)
+ - date_published: 2024-06-10T14:03:33+00:00
+
+ ## Texts.blog, the blog of Texts.com
+ - [https://texts.blog](https://texts.blog)
+ - date_published: 2024-01-29T22:46:36.155318+00:00
+
+ ## The Auditorium: a research culture and researcher development blog
+ - [http://theauditorium.blog](http://theauditorium.blog)
+ - date_published: 2024-06-17T14:06:53.639392+00:00
+
+ ## Theory Dish
+ - [https://theorydish.blog](https://theorydish.blog)
+ - date_published: 2024-06-21T03:52:55+00:00
+
+ ## The Overspill: when there's more that I want to say
+ - [https://theoverspill.blog](https://theoverspill.blog)
+ - date_published: 2024-05-08T10:43:11.660044+00:00
+
+ ## The Platform Law Blog
+ - [https://theplatformlaw.blog](https://theplatformlaw.blog)
+ - date_published: 2024-05-12T04:11:55.214912+00:00
+
+ ## The Solopreneur Blog
+ - [https://thesolopreneur.blog](https://thesolopreneur.blog)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## A Spoonful of Poetry: A poetry collection by Saalik Lokhandwala
+ - [https://poetry.thespoonful.blog](https://poetry.thespoonful.blog)
+ - date_published: 2024-04-28T06:08:30.388290+00:00
+
+ ## The Spoonful | Saalik Lokhandwala | Substack
+ - [https://www.thespoonful.blog](https://www.thespoonful.blog)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## The Tech Trailblazer
+ - [https://thetechtrailblazer.blog](https://thetechtrailblazer.blog)
+ - date_published: 2023-10-25T09:01:58.683638+00:00
+ - tags: ['personal']
+
+ ## This is Not Cool
+ - [https://thinc.blog](https://thinc.blog)
+ - date_published: 2024-06-30T02:30:07+00:00
+
+ ## Things I read
+ - [http://things-i-read.blog](http://things-i-read.blog)
+ - date_published: 2024-06-17T04:49:45.040086+00:00
+
+ ## Tiago Lopes
+ - [https://tiagolopes.blog](https://tiagolopes.blog)
+ - date_published: 2024-06-23T04:33:17+00:00
+
+ ## Tibz
+ - [https://tibz.blog](https://tibz.blog)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## The Blog of Author Tim Ferriss
+ - [https://tim.blog](https://tim.blog)
+ - date_published: 2023-10-25T09:02:05.192967+00:00
+ - tags: ['personal']
+
+ ## Home - Time Scavengers
+ - [https://timescavengers.blog](https://timescavengers.blog)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Tiny Theme for Micro.blog
+ - [https://tinyformicro.blog](https://tinyformicro.blog)
+ - date_published: 2024-05-04T14:42:55.366898+00:00
+
+ ## tiny poems
+ - [https://tinypoems.blog](https://tinypoems.blog)
+ - date_published: 2024-05-02T12:54:41.281272+00:00
+
+ ## tlohde
+ - [https://tlohde.blog](https://tlohde.blog)
+ - date_published: 2024-07-08T12:52:44.377915+00:00
+
+ ## Tony Dang's Blog
+ - [https://tonydang.blog](https://tonydang.blog)
+ - date_published: 2023-12-12T04:54:16.406463+00:00
+ - tags: ['personal']
+
+ ## top expert
+ - [https://topexpert.blog](https://topexpert.blog)
+ - date_published: 2024-07-10T02:40:59.207895+00:00
+
+ ## Townsend Music Blog
+ - [https://www.townsendmusic.blog](https://www.townsendmusic.blog)
+ - date_published: 2024-06-25T17:02:36.967218+00:00
+
+ ## Scruffy's..Blurgh!
+ - [https://computersreallysuck.travel.blog](https://computersreallysuck.travel.blog)
+ - date_published: 2024-06-30T01:17:09.326742+00:00
+
+ ## | Troof
+ - [https://troof.blog](https://troof.blog)
+ - date_published: 2024-05-02T15:03:39.461851+00:00
+ - tags: ['personal']
+
+ ## tty1.blog
+ - [https://tty1.blog](https://tty1.blog)
+ - date_published: 2024-05-14T05:11:18+00:00
+
+ ## twdev.blog
+ - [https://twdev.blog](https://twdev.blog)
+ - date_published: 2023-10-25T12:01:34.984757+00:00
+
+ ## Under The Banyan
+ - [https://underthebanyan.blog](https://underthebanyan.blog)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.blog](https://unfashionable.blog)
+ - date_published: 2023-11-15T19:47:13.588134+00:00
+
+ ## Psychotic, Obscene, and Unoriginal
+ - [https://unoriginal.blog](https://unoriginal.blog)
+ - date_published: 2023-12-09T12:58:13.135218+00:00
+
+ ## Unskilled
+ - [https://unskilled.blog](https://unskilled.blog)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Unsolicited Feedback
+ - [https://unsolicitedfeedback.blog](https://unsolicitedfeedback.blog)
+ - date_published: 2024-06-15T10:19:47.092706+00:00
+
+ ## Username's Blog
+ - [https://username.blog](https://username.blog)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Vanilla Java
+ - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
+ - date_published: 2023-10-25T12:01:45.438171+00:00
+
+ ## Volatile Rune
+ - [https://volatilerune.blog](https://volatilerune.blog)
+ - date_published: 2024-06-15T10:20:28.867787+00:00
+
+ ## w6csn’s outdoor amateur radio
+ - [https://w6csn.blog](https://w6csn.blog)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Le Blog Sustainability - Le blog RSE des consultants Wavestone
+ - [https://sustainability.wavestone.blog](https://sustainability.wavestone.blog)
+ - date_published: 2024-07-28T00:33:03+00:00
+
+ ## Warren's space
+ - [https://wcoats.blog](https://wcoats.blog)
+ - date_published: 2024-07-03T21:51:33+00:00
+
+ ## weitergedacht – Idee für Idee etwas erwachsener
+ - [https://weitergedacht.blog](https://weitergedacht.blog)
+ - date_published: 2024-01-04T22:41:37.082776+00:00
+
+ ## Minimalist Headless Blog for Next.js 14
+ - [https://www.wisp.blog](https://www.wisp.blog)
+ - date_published: 2024-06-21T20:50:39.310911+00:00
+
+ ## wordjazz.blog
+ - [https://wordjazz.blog](https://wordjazz.blog)
+ - date_published: 2024-07-02T10:05:17.316732+00:00
+
+ ## Wild Wanderings & Life's Wonders
+ - [https://wwlw.blog](https://wwlw.blog)
+ - date_published: 2024-08-07T21:05:11.423187+00:00
+
+ ## Hi 👋
+ - [https://yetanother.blog](https://yetanother.blog)
+ - date_published: 2024-05-09T08:17:45.751129+00:00
+ - tags: ['personal']
+
  ## yield code(); - Dmitry Kudryavtsev
  - [https://yieldcode.blog](https://yieldcode.blog)
  - date_published: 2023-10-25T09:02:08.513966+00:00
@@ -3852,173 +4025,4 @@ Educação
  ## Home - IPAM Amazônia
  - [https://ipam.org.br](https://ipam.org.br)
  - date_published: 2024-05-10T02:49:03.266225+00:00
-
- ## pacing.space
- - [https://nst.ipam.org.br](https://nst.ipam.org.br)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## IPPUC | Prefeitura Municipal de Curitiba
- - [https://ippuc.org.br](https://ippuc.org.br)
- - date_published: 2024-06-12T11:18:33.045868+00:00
-
- ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
- - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
- - date_published: 2024-06-12T03:30:42.682396+00:00
-
- ## Portal Jesuítas Brasil – Companhia de Jesus, conhecida como Ordem dos Jesuítas, foi fundada por Santo Inácio de Loyola e aprovada oficialmente pelo Papa Paulo III, em 27 de setembro de 1540
- - [https://jesuitasbrasil.org.br](https://jesuitasbrasil.org.br)
- - date_published: 2024-07-07T06:43:05.375427+00:00
-
- ## Página Inicial
- - [https://www.labre.org.br](https://www.labre.org.br)
- - date_published: 2024-06-28T22:47:17.458043+00:00
-
- ## - Home
- - [https://laut.org.br](https://laut.org.br)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Portal do Livro Acessível - Solicite seu livro em formato acessível
- - [http://livroacessivel.org.br](http://livroacessivel.org.br)
- - date_published: 2024-07-13T02:13:26.718092+00:00
-
- ## MASP
- - [https://masp.org.br](https://masp.org.br)
- - date_published: 2023-11-13T13:41:34.414087+00:00
- - tags: ['museum']
-
- ## MASP Loja
- - [https://www.masploja.org.br](https://www.masploja.org.br)
- - date_published: 2024-07-19T22:14:06.142964+00:00
-
- ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
- - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
- - date_published: 2024-05-10T06:58:15.910935+00:00
-
- ## Home - Museu de Arte do Rio – MAR
- - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
- - date_published: 2024-06-16T05:05:02.469317+00:00
-
- ## Museu do Amanhã
- - [https://museudoamanha.org.br](https://museudoamanha.org.br)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Home - Open Knowledge Brasil
- - [https://go.ok.org.br](https://go.ok.org.br)
- - date_published: 2024-06-12T12:34:04.833924+00:00
-
- ## Home - Open Knowledge Brasil
- - [https://ok.org.br](https://ok.org.br)
- - date_published: 2024-06-12T06:03:34.762017+00:00
-
- ## Home - Oxfam Brasil
- - [https://www.oxfam.org.br](https://www.oxfam.org.br)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Pivô
- - [https://pivo.org.br](https://pivo.org.br)
- - date_published: 2024-02-08T17:51:49.160299+00:00
-
- ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
- - [https://portasabertas.org.br](https://portasabertas.org.br)
- - date_published: 2024-05-08T11:12:55.979392+00:00
-
- ## Planeta PythonBrasil
- - [https://planet.python.org.br](https://planet.python.org.br)
- - date_published: 2021-07-11T00:00:00+00:00
-
- ## PythonBrasil - PythonBrasil
- - [http://wiki.python.org.br](http://wiki.python.org.br)
- - date_published: 2024-06-28T19:57:47.783697+00:00
-
- ## Rede Foto – Rede de Produtores Culturais da Fotografia no Brasil
- - [https://redefoto.org.br](https://redefoto.org.br)
- - date_published: 2024-07-10T07:56:04.031089+00:00
-
- ## Comunicar para Mudar
- - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
- - date_published: 2024-01-09T02:27:01.376800+00:00
-
- ## Mapa da Água: O que sai da sua torneira?
- - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:32:28.275445+00:00
-
- ## Narcogarimpos – Especial – Narcogarimpos
- - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:34:35.359408+00:00
-
- ## Nome aos Bois – Reporter Brasil
- - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:34:47.478056+00:00
-
- ## Repórter Brasil
- - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
- - date_published: 2023-11-14T17:00:02.121596+00:00
-
- ## Ruralômetro - Medindo a febre ruralista dos candidatos
- - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
- - date_published: 2024-05-10T03:48:46.273300+00:00
-
- ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
- - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
- - date_published: 2023-12-11T19:31:35.115572+00:00
-
- ## Página inicial - Sociedade Brasileira de Reumatologia
- - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## CSBC 2023
- - [https://csbc.sbc.org.br](https://csbc.sbc.org.br)
- - date_published: 2023-10-02T18:11:44+00:00
-
- ## Home
- - [http://sintfub.org.br](http://sintfub.org.br)
- - date_published: 2024-07-20T11:20:10.784034+00:00
-
- ## SouJava – Sociedade de Usuários da Tecnologia Java
- - [https://soujava.org.br](https://soujava.org.br)
- - date_published: 2024-07-01T05:19:19.213935+00:00
-
- ## The Nature Conservancy
- - [https://tnc.org.br](https://tnc.org.br)
- - date_published: 2024-05-08T10:42:44.077294+00:00
-
- ## Vocação - Você em Ação
- - [https://vocacao.org.br](https://vocacao.org.br)
- - date_published: 2024-05-07T14:58:15.444029+00:00
-
- ## WWF - Ficha de Doação
- - [https://doe.wwf.org.br](https://doe.wwf.org.br)
- - date_published: 2024-05-28T22:50:27+00:00
-
- ## WWF-Brasil
- - [https://wwf.org.br](https://wwf.org.br)
- - date_published: 2024-05-07T23:56:56.112200+00:00
-
- ## PMPE - Polícia Militar de Pernambuco
- - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Página Inicial — Portal da Câmara Municipal de Curitiba
- - [http://www.cmc.pr.gov.br](http://www.cmc.pr.gov.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Central de Atendimento 156
- - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:24.570844+00:00
-
- ## Coleta de Lixo - Prefeitura de Curitiba
- - [http://coletalixo.curitiba.pr.gov.br](http://coletalixo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:22.191362+00:00
-
- ## Comunicação Social - Prefeitura de Curitiba
- - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:03.685648+00:00
-
- ## Controladoria - Prefeitura de Curitiba
- - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:06.297486+00:00
-
- ## ImunizaJáCuritiba - Prefeitura de Curitiba
- - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:53.636747+00:00
 

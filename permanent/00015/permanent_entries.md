@@ -1,3 +1,244 @@
+ ## Biel International Chess Festival
+ - [https://www.bielchessfestival.ch](https://www.bielchessfestival.ch)
+ - date_published: 2024-07-19T18:57:25+00:00
+
+ ## Biglietteria.ch
+ - [https://biglietteria.ch](https://biglietteria.ch)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Einen Moment bitte, die Ausgabe wird geladen...
+ - [https://epaper.bilan.ch](https://epaper.bilan.ch)
+ - date_published: 2024-07-22T17:33:46.279591+00:00
+
+ ## Bilan
+ - [https://helpcenter.bilan.ch](https://helpcenter.bilan.ch)
+ - date_published: 2023-07-23T17:33:42+00:00
+
+ ## Bilan | La référence suisse de l’économie depuis plus de 30 ans
+ - [https://bilan.ch](https://bilan.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Blick: Nachrichten und Schlagzeilen aus der Schweiz und aller Welt
+ - [https://www.blick.ch](https://www.blick.ch)
+ - date_published: 2024-06-25T22:03:28.409073+00:00
+
+ ## BLKB: Was morgen zählt
+ - [https://www.blkb.ch](https://www.blkb.ch)
+ - date_published: 2024-07-24T06:06:26.250935+00:00
+
+ ## Gregors Blog
+ - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
+ - date_published: 2023-12-27T23:55:45.885819+00:00
+ - tags: ['personal']
+
+ ## Everything SQL Server Compact
+ - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
+ - date_published: 2024-05-01T03:48:31.365826+00:00
+
+ ## Random blatherings by Jeff
+ - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
+ - date_published: 2024-02-28T23:44:24+00:00
+
+ ## IT and more (a.k.a. Doing-IT-Right)
+ - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
+ - date_published: 2024-03-13T20:36:44+00:00
+
+ ## Reflections of a Newsosaur
+ - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
+ - date_published: 2024-07-30T08:15:33+00:00
+
+ ## Nuit Blanche
+ - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
+ - date_published: 2023-08-17T05:00:00+00:00
+
+ ## sirdarckcat
+ - [https://sirdarckcat.blogspot.ch](https://sirdarckcat.blogspot.ch)
+ - date_published: 2024-03-05T08:00:48+00:00
+
+ ## Chocolats Blondel, Chocolatier depuis 1850
+ - [https://blondel.ch](https://blondel.ch)
+ - date_published: 2024-06-14T15:28:31.291077+00:00
+
+ ## blue TV
+ - [https://tv.blue.ch](https://tv.blue.ch)
+ - date_published: 2024-06-13T16:45:40+00:00
+
+ ## blue+ | Sport, TV, Serien & Filme schauen
+ - [https://www.blueplus.ch](https://www.blueplus.ch)
+ - date_published: 2024-06-13T13:39:42+00:00
+
+ ## Tägliche News, Sport und Entertainment
+ - [https://www.bluewin.ch](https://www.bluewin.ch)
+ - date_published: 2024-06-16T07:20:55.599995+00:00
+
+ ## Eigene Bücher & E-Books im Self-Publishing - bod.ch
+ - [https://www.bod.ch](https://www.bod.ch)
+ - date_published: 2024-07-08T13:06:06.430136+00:00
+
+ ## BOHEM Verlag - Schöne Bilderbücher
+ - [http://www.bohem.ch](http://www.bohem.ch)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
+ - [https://bolo.ch](https://bolo.ch)
+ - date_published: 2024-05-12T07:15:04.597151+00:00
+
+ ## Bonto.ch - Junior B.
+ - [https://www.bonto.ch](https://www.bonto.ch)
+ - date_published: 2023-01-22T11:41:37+00:00
+
+ ## BRACK.CH
+ - [https://www.brack.ch](https://www.brack.ch)
+ - date_published: 2024-07-20T16:12:42.234924+00:00
+
+ ## brandlift – Agence de Design graphique – Genève
+ - [https://brandlift.ch](https://brandlift.ch)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Breitband
+ - [https://breitband.ch](https://breitband.ch)
+ - date_published: 2024-07-01T08:50:36+00:00
+
+ ## Broadcast.ch
+ - [https://www.broadcast.ch](https://www.broadcast.ch)
+ - date_published: 2024-07-21T05:39:05.192984+00:00
+
+ ## Bromeon :: Home
+ - [https://bromeon.ch](https://bromeon.ch)
+ - date_published: 2019-10-07T13:49:13+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.ch](https://atyourside.brother.ch)
+ - date_published: 2024-06-17T20:27:26.043392+00:00
+
+ ## Drucken, Kopieren, Scannen | Brother Schweiz Online-Shop
+ - [https://www.brother.ch](https://www.brother.ch)
+ - date_published: 2024-05-02T11:24:03.503734+00:00
+
+ ## Brüggli | Startseite
+ - [http://www.brueggli.ch](http://www.brueggli.ch)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Kanton Basel-Stadt
+ - [https://www.bs.ch](https://www.bs.ch)
+ - date_published: 2024-07-24T06:06:28.950217+00:00
+
+ ## Abteilung Kultur Basel-Stadt
+ - [https://www.kultur.bs.ch](https://www.kultur.bs.ch)
+ - date_published: 2024-07-24T04:31:12.033135+00:00
+
+ ## B-Sides
+ - [http://b-sides.ch](http://b-sides.ch)
+ - date_published: 2024-07-13T15:28:59.100967+00:00
+
+ ## Online-Buchhandlung für die Schweiz - buchhaus.ch
+ - [https://www.buchhaus.ch](https://www.buchhaus.ch)
+ - date_published: 2024-07-20T16:11:40.424478+00:00
+
+ ## Home:bücherladen appenzell,9050 appenzell
+ - [https://www.buecherladen-appenzell.ch](https://www.buecherladen-appenzell.ch)
+ - date_published: 2024-07-21T05:50:42.565604+00:00
+
+ ## Start Buchhandlung Bücher zum Turm Bischofszell
+ - [https://www.buecherzumturm.ch](https://www.buecherzumturm.ch)
+ - date_published: 2024-07-21T05:50:43.469351+00:00
+
+ ## c4science
+ - [https://c4science.ch](https://c4science.ch)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Sergio Camalich | Maker of Stuff
+ - [https://camali.ch](https://camali.ch)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Canal9
+ - [https://canal9.ch](https://canal9.ch)
+ - date_published: 2024-07-16T22:07:05.645768+00:00
+
+ ## Mit Capterra die richtige Software für dein Unternehmen finden
+ - [https://www.capterra.ch](https://www.capterra.ch)
+ - date_published: 2024-07-20T19:26:43.734743+00:00
+
+ ## Bienvenue chez Cardinal
+ - [http://www.cardinal.ch](http://www.cardinal.ch)
+ - date_published: 2024-07-03T06:43:33.762341+00:00
+
+ ## carte blanche | Carte client des titres Tamedia
+ - [https://www.carteb.ch](https://www.carteb.ch)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## carte blanche | Kundenkarte der Tamedia-Titel
+ - [https://carteblanche.ch](https://carteblanche.ch)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Alles über Finanzen: News, Banking & Trading
+ - [https://www.cash.ch](https://www.cash.ch)
+ - date_published: 2024-06-25T22:02:59.628532+00:00
+
+ ## www.ccontrols.ch - Computer Controls  - Computer Controls Group
+ - [https://www.ccontrols.ch](https://www.ccontrols.ch)
+ - date_published: 2024-07-15T04:10:44.201889+00:00
+
+ ## La Cour des comptes de Genève – Au service d’une action publique performante.
+ - [http://www.cdc-ge.ch](http://www.cdc-ge.ch)
+ - date_published: 2024-06-18T14:24:21.146071+00:00
+
+ ## Centre Dürrenmatt Neuchâtel
+ - [https://www.cdn.ch](https://www.cdn.ch)
+ - date_published: 2024-07-21T06:26:35.595795+00:00
+
+ ## CeDe.ch
+ - [https://www.cede.ch](https://www.cede.ch)
+ - date_published: 2024-07-13T13:36:53.441702+00:00
+
+ ## centiskor.ch | A Pokémon fan site
+ - [https://centiskor.ch](https://centiskor.ch)
+ - date_published: 2024-06-23T18:48:27.611261+00:00
+
+ ## Centre d’Art Contemporain Genève
+ - [https://centre.ch](https://centre.ch)
+ - date_published: 2024-06-26T22:15:33.443867+00:00
+
+ ## Accueil
+ - [https://centreecotox.ch](https://centreecotox.ch)
+ - date_published: 2024-05-12T07:15:12.988064+00:00
+
+ ## Centre for Coaching
+ - [https://centreforcoaching.ch](https://centreforcoaching.ch)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Bienvenue au Centre Sport et Santé | Centre Sport et Santé (CSS)
+ - [http://www.centresportetsante.ch](http://www.centresportetsante.ch)
+ - date_published: 2024-07-16T22:34:15.908636+00:00
+
+ ## Welcome | ActiWiz
+ - [http://actiwiz.web.cern.ch](http://actiwiz.web.cern.ch)
+ - date_published: 2024-06-14T13:14:30+00:00
+
+ ## Accueil | Admin e-guide
+ - [https://admin-eguide.web.cern.ch](https://admin-eguide.web.cern.ch)
+ - date_published: 2024-07-21T06:34:31.643562+00:00
+
+ ## Home | ALPHA Experiment
+ - [http://alpha.web.cern.ch](http://alpha.web.cern.ch)
+ - date_published: 2024-06-14T12:18:18+00:00
+
+ ## Home | CERN Alumni
+ - [https://alumni.web.cern.ch](https://alumni.web.cern.ch)
+ - date_published: 2024-08-11T11:51:14.315547+00:00
+
+ ## CERN Users Portal
+ - [https://auth.cern.ch](https://auth.cern.ch)
+ - date_published: 2024-07-01T07:45:42+00:00
+
+ ## Authorization Service
+ - [https://auth.docs.cern.ch](https://auth.docs.cern.ch)
+ - date_published: 2024-07-04T10:58:02+00:00
+
+ ## Home | Careers at CERN
+ - [https://careers-at-cern.web.cern.ch](https://careers-at-cern.web.cern.ch)
+ - date_published: 2024-07-17T16:58:57+00:00
+
  ## What's up on CDS – News, announcements and future developments of CDS services at CERN
  - [https://cds-blog.web.cern.ch](https://cds-blog.web.cern.ch)
  - date_published: 2024-06-15T04:01:23.501496+00:00
@@ -938,6 +1179,10 @@
  ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
  - [https://www.emp-online.ch](https://www.emp-online.ch)
  - date_published: 2024-07-24T06:34:53.919686+00:00
+
+ ## Blog of The Enby Witch
+ - [https://blog.of.the.enbywit.ch](https://blog.of.the.enbywit.ch)
+ - date_published: 2024-08-17T23:26:59.599875+00:00
 
  ## Enderman
  - [https://enderman.ch](https://enderman.ch)
@@ -2041,6 +2286,10 @@
  - [https://respekt.ethz.ch](https://respekt.ethz.ch)
  - date_published: 2024-03-06T00:00:00+00:00
 
+ ## Homepage
+ - [https://rsl.ethz.ch](https://rsl.ethz.ch)
+ - date_published: 2024-06-21T00:00:00+00:00
+
  ## Scientific Staff Association at the Department of Materials
  - [https://sam.mat.ethz.ch](https://sam.mat.ethz.ch)
  - date_published: 2024-08-11T20:21:48.904523+00:00
@@ -2156,6 +2405,10 @@
  ## NEXUS Personalized Health Technologies
  - [https://www.nexus.ethz.ch](https://www.nexus.ethz.ch)
  - date_published: 2024-06-06T18:26:54.739975+00:00
+
+ ## ETH Zürich - Personensuche
+ - [http://www.personen.ethz.ch](http://www.personen.ethz.ch)
+ - date_published: 2024-08-17T23:36:27.570546+00:00
 
  ## Local index - HTTrack Website Copier
  - [http://www.php.isn.ethz.ch](http://www.php.isn.ethz.ch)
@@ -3760,258 +4013,4 @@
  ## Unterhaltungs- & Haushaltselektronik | melectronics
  - [https://www.melectronics.ch](https://www.melectronics.ch)
  - date_published: 2024-05-30T00:00:00+00:00
-
- ## Venir en aide aux plus démuni·e·s, sans discrimination. - Fondation Mère Sofia
- - [https://www.meresofia.ch](https://www.meresofia.ch)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home
- - [https://mesh.ch](https://mesh.ch)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Météo & Radar Suisse
- - [https://meteoetradar.ch](https://meteoetradar.ch)
- - date_published: 2024-05-07T12:52:58.197087+00:00
-
- ## METOKI – Marketing, Digitalisierung, Wissensmanagement
- - [https://www.metoki.ch](https://www.metoki.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Bienvenue sur meute.ch
- - [http://www.meute.ch](http://www.meute.ch)
- - date_published: 2023-04-24T08:01:44+00:00
-
- ## Michel Egger
- - [https://www.michelegger.ch](https://www.michelegger.ch)
- - date_published: 2023-06-15T08:10:32+00:00
-
- ## Michelle Gisin - Home
- - [https://www.michellegisin.ch](https://www.michellegisin.ch)
- - date_published: 2024-06-16T09:05:54.566023+00:00
-
- ## Micos Engineering GmbH
- - [http://www.micos.ch](http://www.micos.ch)
- - date_published: 2020-05-27T12:18:46+00:00
-
- ## Interdiscount - Der Elektronik-Shop Nr. 1
- - [https://www.microspot.ch](https://www.microspot.ch)
- - date_published: 2024-07-20T16:13:13.575215+00:00
-
- ## Migros
- - [http://www.migros.ch](http://www.migros.ch)
- - date_published: 2024-07-02T06:48:58+00:00
-
- ## Miler.ch – Casa d’Arte Miler
- - [http://miler.ch](http://miler.ch)
- - date_published: 2024-06-14T11:59:26.055050+00:00
-
- ## Grafana
- - [https://monitoring.minetest.ch](https://monitoring.minetest.ch)
- - date_published: 2024-07-11T12:26:55.686879+00:00
-
- ## minetest.ch status
- - [https://status.minetest.ch](https://status.minetest.ch)
- - date_published: 2024-07-11T12:26:56.803875+00:00
-
- ## Mingye Chen
- - [https://mingye.ch](https://mingye.ch)
- - date_published: 2024-01-01T04:06:13+00:00
-
- ## minimum.ch – Minimum Boulder, Bar und Restaurant in Zürich
- - [http://minimum.ch](http://minimum.ch)
- - date_published: 2024-07-21T02:22:51.914338+00:00
-
- ## Salon MINT Vaud - Du 24 février au 2 mars 2025 à l’EPFL
- - [https://mint-vaud.ch](https://mint-vaud.ch)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Accueil | Mirabilia
- - [https://mirabilia.ch](https://mirabilia.ch)
- - date_published: 2024-07-16T23:10:08+00:00
-
- ## Die vergessenen Bücher
- - [http://missingbooks.ch](http://missingbooks.ch)
- - date_published: 2024-07-13T14:19:01.923192+00:00
-
- ## Matteo's Blog
- - [https://ml-software.ch](https://ml-software.ch)
- - date_published: 2021-06-04T00:00:00+00:00
-
- ## Multiplayer Online Science
- - [http://mmos.ch](http://mmos.ch)
- - date_published: 2021-05-18T19:51:41+00:00
-
- ## Versicherungen & Vorsorge in der Schweiz | die Mobiliar
- - [https://www.mobiliar.ch](https://www.mobiliar.ch)
- - date_published: 2024-07-17T11:16:13.429024+00:00
-
- ## Assurances & prévoyance en Suisse | la Mobilière
- - [https://www.mobiliere.ch](https://www.mobiliere.ch)
- - date_published: 2024-07-03T06:43:15.867385+00:00
-
- ## Mobilunity - Anbieter von Dedizierten Entwickler-Teams
- - [https://mobilunity.ch](https://mobilunity.ch)
- - date_published: 0207-11-11T16:31:36+00:00
-
- ## Moneyhouse - Handelsregister- & Wirtschaftsinformationen
- - [https://www.moneyhouse.ch](https://www.moneyhouse.ch)
- - date_published: 2024-06-29T08:33:14.654363+00:00
-
- ## Jobs | Stellenangebote | Jobsuche | Jobbörse | Monster.ch
- - [https://www.monster.ch](https://www.monster.ch)
- - date_published: 2024-06-16T13:57:55.151097+00:00
-
- ## Commune de Montreux - Accueil
- - [http://www.montreux.ch](http://www.montreux.ch)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Mood/Wood — Marc Zenhäusern
- - [https://moodwood.ch](https://moodwood.ch)
- - date_published: 2024-06-19T16:21:00.319623+00:00
-
- ## Home page - Visit Morcote - Turismo
- - [http://morcoteturismo.ch](http://morcoteturismo.ch)
- - date_published: 2024-06-14T11:59:35.683395+00:00
-
- ## Moulagenmuseum
- - [http://www.moulagen.ch](http://www.moulagen.ch)
- - date_published: 2024-06-24T09:37:48.137487+00:00
-
- ## Mountainbytes 2024
- - [https://mountainbytes.ch](https://mountainbytes.ch)
- - date_published: 2024-06-03T10:20:24+00:00
- - tags: ['retro games', 'demoscene']
-
- ## Distributor für elektronische Bauteile - Mouser Electronics Schweiz
- - [https://www.mouser.ch](https://www.mouser.ch)
- - date_published: 2024-07-01T20:56:50.975666+00:00
-
- ## Willkommen - MrBooker - Termine wie von selbst geplant
- - [https://app.mrbooker.ch](https://app.mrbooker.ch)
- - date_published: 2024-06-16T09:05:49.429341+00:00
-
- ## iTunes2Spotify - Export your iTunes playlists to Spotify
- - [https://itunes2spotify.mrupp.ch](https://itunes2spotify.mrupp.ch)
- - date_published: 2023-08-06T20:27:12+00:00
-
- ## Michael Rupp - My Projects
- - [https://mrupp.ch](https://mrupp.ch)
- - date_published: 2023-11-02T09:42:08.151338+00:00
- - tags: ['personal', 'amiga']
-
- ## SonoSaver - Backup and restore your Sonos playlists
- - [https://sonosaver.mrupp.ch](https://sonosaver.mrupp.ch)
- - date_published: 2023-08-06T17:38:54+00:00
-
- ## Online Casino Schweiz legal 2024 - Exklusiver Expertenbericht🔝
- - [http://www.musee-bizarre.ch](http://www.musee-bizarre.ch)
- - date_published: 2023-09-17T17:55:02+00:00
-
- ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
- - [https://museebolo.ch](https://museebolo.ch)
- - date_published: 2024-05-12T07:14:08.745894+00:00
-
- ## Musée des Grenouilles · Musée des Grenouilles
- - [http://www.museedesgrenouilles.ch](http://www.museedesgrenouilles.ch)
- - date_published: 2024-06-24T09:45:00.063722+00:00
-
- ## musical.ch | Experience Musicals & Shows!
- - [https://musical.ch](https://musical.ch)
- - date_published: 2024-05-08T04:36:27.092849+00:00
-
- ## Musikvertrieb AG | muve recordings - Swiss indie label & distributor
- - [https://musikvertrieb.ch](https://musikvertrieb.ch)
- - date_published: 2024-06-14T08:11:45+00:00
-
- ## my20minuti.ch
- - [https://www.my20minuti.ch](https://www.my20minuti.ch)
- - date_published: 2024-07-15T12:25:28.704116+00:00
-
- ## Schweizer Jugend forscht - Stay Curious
- - [https://sjfch2.myhostpoint.ch](https://sjfch2.myhostpoint.ch)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Kunstharz eingießen - MYMEMO
- - [http://mymemo.ch](http://mymemo.ch)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Cults official store | Spreadshop
- - [https://101037123.myspreadshop.ch](https://101037123.myspreadshop.ch)
- - date_published: 2024-07-04T17:56:29.586746+00:00
-
- ## AmigaOS Merchandising
- - [https://amigaos.myspreadshop.ch](https://amigaos.myspreadshop.ch)
- - date_published: 2024-07-20T13:16:25.609215+00:00
-
- ## Mautic Community Swag Shop | Spreadshop
- - [https://mautic-community-swag-shop.myspreadshop.ch](https://mautic-community-swag-shop.myspreadshop.ch)
- - date_published: 2024-07-18T15:08:01.392543+00:00
-
- ## Linux Foundation Europe Swag Store | Spreadshop
- - [https://shop-linuxfoundation.myspreadshop.ch](https://shop-linuxfoundation.myspreadshop.ch)
- - date_published: 2024-07-03T00:00:48.680413+00:00
-
- ## MyTio
- - [https://mytio.ch](https://mytio.ch)
- - date_published: 2024-07-15T12:25:29.987375+00:00
-
- ## University of Michigan
- - [http://myumi.ch](http://myumi.ch)
- - date_published: 2024-06-16T09:04:25.327128+00:00
-
- ## nanoSPACE AG
- - [https://www.nanospace.ch](https://www.nanospace.ch)
- - date_published: 2021-12-28T14:18:45+00:00
-
- ## natsha
- - [https://natsha.ch](https://natsha.ch)
- - date_published: 2024-06-22T15:06:17.462902+00:00
-
- ## The Mathematics of Physics NCCR – SwissMAP
- - [https://www.nccr-swissmap.ch](https://www.nccr-swissmap.ch)
- - date_published: 2024-08-11T07:13:55.151740+00:00
-
- ## Real estate agency - Neho - Sell without commission - Fixed price from CHF 12'000.-
- - [https://neho.ch](https://neho.ch)
- - date_published: 2024-06-14T15:28:35.660957+00:00
-
- ## Welcome in the heart of the 4 Vallées | Nendaz Switzerland
- - [https://www.nendaz.ch](https://www.nendaz.ch)
- - date_published: 2024-06-13T07:52:21+00:00
-
- ## nerdpol.ch*
- - [https://nerdpol.ch](https://nerdpol.ch)
- - date_published: 2024-07-10T07:29:01.689919+00:00
-
- ## Bienvenue sur Christian Jelk | Christian Jelk
- - [http://neserapas.ch](http://neserapas.ch)
- - date_published: 2024-07-13T15:11:27.817879+00:00
-
- ## Home Nestlé Schweiz
- - [http://www.nestle.ch](http://www.nestle.ch)
- - date_published: 2024-07-04T03:16:01+00:00
-
- ## Net Apps Sendy
- - [https://sendy.net-apps.ch](https://sendy.net-apps.ch)
- - date_published: 2024-04-30T06:03:36.638884+00:00
-
- ## NetGame Convention
- - [https://netgame.ch](https://netgame.ch)
- - date_published: 2024-05-07T09:56:30.540664+00:00
-
- ## netinfluence
- - [https://www.netinfluence.ch](https://www.netinfluence.ch)
- - date_published: 2024-07-21T06:28:08.935841+00:00
-
- ## Netzpodcast - Digitale Gesellschaft
- - [https://netzpodcast.ch](https://netzpodcast.ch)
- - date_published: 2024-07-24T16:25:20.797084+00:00
-
- ## Netzpolitischer Abend - Digitale Gesellschaft
- - [https://netzpolitischer-abend.ch](https://netzpolitischer-abend.ch)
- - date_published: 2024-04-29T05:58:19.219174+00:00
-
- ## Internet Domains
- - [https://www.nic.ch](https://www.nic.ch)
- - date_published: 2024-07-18T14:50:55.012658+00:00
 

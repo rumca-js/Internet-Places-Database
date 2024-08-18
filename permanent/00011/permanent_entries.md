@@ -1,3 +1,172 @@
+ ## pacing.space
+ - [https://nst.ipam.org.br](https://nst.ipam.org.br)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## IPPUC | Prefeitura Municipal de Curitiba
+ - [https://ippuc.org.br](https://ippuc.org.br)
+ - date_published: 2024-06-12T11:18:33.045868+00:00
+
+ ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
+ - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
+ - date_published: 2024-06-12T03:30:42.682396+00:00
+
+ ## Portal Jesuítas Brasil – Companhia de Jesus, conhecida como Ordem dos Jesuítas, foi fundada por Santo Inácio de Loyola e aprovada oficialmente pelo Papa Paulo III, em 27 de setembro de 1540
+ - [https://jesuitasbrasil.org.br](https://jesuitasbrasil.org.br)
+ - date_published: 2024-07-07T06:43:05.375427+00:00
+
+ ## Página Inicial
+ - [https://www.labre.org.br](https://www.labre.org.br)
+ - date_published: 2024-06-28T22:47:17.458043+00:00
+
+ ## - Home
+ - [https://laut.org.br](https://laut.org.br)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Portal do Livro Acessível - Solicite seu livro em formato acessível
+ - [http://livroacessivel.org.br](http://livroacessivel.org.br)
+ - date_published: 2024-07-13T02:13:26.718092+00:00
+
+ ## MASP
+ - [https://masp.org.br](https://masp.org.br)
+ - date_published: 2023-11-13T13:41:34.414087+00:00
+ - tags: ['museum']
+
+ ## MASP Loja
+ - [https://www.masploja.org.br](https://www.masploja.org.br)
+ - date_published: 2024-07-19T22:14:06.142964+00:00
+
+ ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
+ - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
+ - date_published: 2024-05-10T06:58:15.910935+00:00
+
+ ## Home - Museu de Arte do Rio – MAR
+ - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
+ - date_published: 2024-06-16T05:05:02.469317+00:00
+
+ ## Museu do Amanhã
+ - [https://museudoamanha.org.br](https://museudoamanha.org.br)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://go.ok.org.br](https://go.ok.org.br)
+ - date_published: 2024-06-12T12:34:04.833924+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://ok.org.br](https://ok.org.br)
+ - date_published: 2024-06-12T06:03:34.762017+00:00
+
+ ## Home - Oxfam Brasil
+ - [https://www.oxfam.org.br](https://www.oxfam.org.br)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Pivô
+ - [https://pivo.org.br](https://pivo.org.br)
+ - date_published: 2024-02-08T17:51:49.160299+00:00
+
+ ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
+ - [https://portasabertas.org.br](https://portasabertas.org.br)
+ - date_published: 2024-05-08T11:12:55.979392+00:00
+
+ ## Planeta PythonBrasil
+ - [https://planet.python.org.br](https://planet.python.org.br)
+ - date_published: 2021-07-11T00:00:00+00:00
+
+ ## PythonBrasil - PythonBrasil
+ - [http://wiki.python.org.br](http://wiki.python.org.br)
+ - date_published: 2024-06-28T19:57:47.783697+00:00
+
+ ## Rede Foto – Rede de Produtores Culturais da Fotografia no Brasil
+ - [https://redefoto.org.br](https://redefoto.org.br)
+ - date_published: 2024-07-10T07:56:04.031089+00:00
+
+ ## Comunicar para Mudar
+ - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
+ - date_published: 2024-01-09T02:27:01.376800+00:00
+
+ ## Mapa da Água: O que sai da sua torneira?
+ - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:32:28.275445+00:00
+
+ ## Narcogarimpos – Especial – Narcogarimpos
+ - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:35.359408+00:00
+
+ ## Nome aos Bois – Reporter Brasil
+ - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:47.478056+00:00
+
+ ## Repórter Brasil
+ - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
+ - date_published: 2023-11-14T17:00:02.121596+00:00
+
+ ## Ruralômetro - Medindo a febre ruralista dos candidatos
+ - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
+ - date_published: 2024-05-10T03:48:46.273300+00:00
+
+ ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
+ - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:31:35.115572+00:00
+
+ ## Página inicial - Sociedade Brasileira de Reumatologia
+ - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## CSBC 2023
+ - [https://csbc.sbc.org.br](https://csbc.sbc.org.br)
+ - date_published: 2023-10-02T18:11:44+00:00
+
+ ## Home
+ - [http://sintfub.org.br](http://sintfub.org.br)
+ - date_published: 2024-07-20T11:20:10.784034+00:00
+
+ ## SouJava – Sociedade de Usuários da Tecnologia Java
+ - [https://soujava.org.br](https://soujava.org.br)
+ - date_published: 2024-07-01T05:19:19.213935+00:00
+
+ ## The Nature Conservancy
+ - [https://tnc.org.br](https://tnc.org.br)
+ - date_published: 2024-05-08T10:42:44.077294+00:00
+
+ ## Vocação - Você em Ação
+ - [https://vocacao.org.br](https://vocacao.org.br)
+ - date_published: 2024-05-07T14:58:15.444029+00:00
+
+ ## WWF - Ficha de Doação
+ - [https://doe.wwf.org.br](https://doe.wwf.org.br)
+ - date_published: 2024-05-28T22:50:27+00:00
+
+ ## WWF-Brasil
+ - [https://wwf.org.br](https://wwf.org.br)
+ - date_published: 2024-05-07T23:56:56.112200+00:00
+
+ ## PMPE - Polícia Militar de Pernambuco
+ - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Página Inicial — Portal da Câmara Municipal de Curitiba
+ - [http://www.cmc.pr.gov.br](http://www.cmc.pr.gov.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Central de Atendimento 156
+ - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:24.570844+00:00
+
+ ## Coleta de Lixo - Prefeitura de Curitiba
+ - [http://coletalixo.curitiba.pr.gov.br](http://coletalixo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:22.191362+00:00
+
+ ## Comunicação Social - Prefeitura de Curitiba
+ - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:03.685648+00:00
+
+ ## Controladoria - Prefeitura de Curitiba
+ - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:06.297486+00:00
+
+ ## ImunizaJáCuritiba - Prefeitura de Curitiba
+ - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:53.636747+00:00
+
  ## Prefeitura Municipal de Curitiba
  - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:09.478209+00:00
@@ -289,6 +458,10 @@
  ## Show HN: I built a Backend so Simple that it Fits in 1 YAML File
  - [https://manifest.build](https://manifest.build)
  - date_published: 2024-06-01T11:24:28+00:00
+
+ ## Miguel Piedrafita
+ - [https://2022.miguel.build](https://2022.miguel.build)
+ - date_published: 2024-08-17T22:18:48.341417+00:00
 
  ## Miguel Piedrafita
  - [https://miguel.build](https://miguel.build)
@@ -2805,9 +2978,29 @@
  - [https://www.cpacanada.ca](https://www.cpacanada.ca)
  - date_published: 2024-06-16T00:56:48.372499+00:00
 
+ ## Bookstore – CPS Member Centre
+ - [https://bookstore.cps.ca](https://bookstore.cps.ca)
+ - date_published: 2024-08-17T23:02:34.407467+00:00
+
+ ## Home
+ - [https://caringforkids.cps.ca](https://caringforkids.cps.ca)
+ - date_published: 2024-08-17T23:02:29+00:00
+
  ## Protecting and promoting the health and well-being of children and youth | Canadian Paediatric Society
  - [https://cps.ca](https://cps.ca)
  - date_published: 2024-01-26T10:31:49.585956+00:00
+
+ ## Home - CPSP
+ - [https://cpsp.cps.ca](https://cpsp.cps.ca)
+ - date_published: 2024-08-17T23:02:39+00:00
+
+ ## Restricted Access – CPS Member Centre
+ - [https://members.cps.ca](https://members.cps.ca)
+ - date_published: 2024-08-17T23:02:27.653661+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.cps.ca](https://plausible.cps.ca)
+ - date_published: 2024-08-17T23:02:32.148648+00:00
 
  ## Home - CPS
  - [https://www.cps-ecp.ca](https://www.cps-ecp.ca)
@@ -3103,6 +3296,10 @@
  ## Dhrumil Patel
  - [https://dhrumil.ca](https://dhrumil.ca)
  - date_published: 2024-07-08T22:24:14.211592+00:00
+
+ ## Diabetes at School | Home
+ - [https://diabetesatschool.ca](https://diabetesatschool.ca)
+ - date_published: 2024-08-17T23:02:31.303193+00:00
 
  ## Home | Diéssica Gurskas
  - [https://diessi.ca](https://diessi.ca)
@@ -3826,204 +4023,4 @@
  ## Fresh Prep | Meal Kit service delivering to Vancouver and Calgary
  - [https://try.freshprep.ca](https://try.freshprep.ca)
  - date_published: 2024-06-27T13:06:56.723203+00:00
-
- ## friendica – A Decentralized Social Network
- - [https://friendi.ca](https://friendi.ca)
- - date_published: 2024-06-19T22:13:12.469601+00:00
-
- ## froghat.ca
- - [https://froghat.ca](https://froghat.ca)
- - date_published: 2023-10-25T09:02:17.770370+00:00
- - tags: ['personal']
-
- ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
- - [https://frogheart.ca](https://frogheart.ca)
- - date_published: 2024-05-11T07:52:34.040651+00:00
-
- ## Home
- - [https://www.fslabs.ca](https://www.fslabs.ca)
- - date_published: 2024-03-13T11:24:16+00:00
-
- ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
- - [https://www.fsrao.ca](https://www.fsrao.ca)
- - date_published: 2024-06-16T06:19:41+00:00
-
- ## FTFL.CA
- - [http://ftfl.ca](http://ftfl.ca)
- - date_published: 2022-11-17T21:43:13+00:00
-
- ## Home
- - [https://www.fulbright.ca](https://www.fulbright.ca)
- - date_published: 2024-07-14T05:11:53.844102+00:00
-
- ## Fund Our Health Care
- - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
- - date_published: 2024-07-08T16:52:44.200065+00:00
-
- ## Funerals in Canada, Canada
- - [http://www.funerals.ca](http://www.funerals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Furius Enterprises
- - [http://furius.ca](http://furius.ca)
- - date_published: 2021-10-23T18:38:30+00:00
- - tags: ['personal']
-
- ## Future North
- - [https://futurenorth.ca](https://futurenorth.ca)
- - date_published: 2024-07-18T08:23:01+00:00
-
- ## Find businesses and services in Canada
- - [https://www.fyple.ca](https://www.fyple.ca)
- - date_published: 2024-06-29T18:25:40.904229+00:00
-
- ## Tim Gadanidis - Home
- - [https://gadanidis.ca](https://gadanidis.ca)
- - date_published: 2023-10-25T08:42:54.581662+00:00
- - tags: ['personal']
-
- ## Galleries West — Your link to directories of art galleries, lists of art exhibitions and the visual arts scene in Western Canada.
- - [https://www.gallerieswest.ca](https://www.gallerieswest.ca)
- - date_published: 2024-07-20T17:54:46.315028+00:00
-
- ## NGC Audio Tours | MBAC Visites Audio
- - [https://digital.gallery.ca](https://digital.gallery.ca)
- - date_published: 2024-07-19T22:13:48.235685+00:00
-
- ## National Gallery of Canada
- - [https://gallery.ca](https://gallery.ca)
- - date_published: 2023-11-13T13:45:23.318113+00:00
- - tags: ['museum']
-
- ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
- - [https://gamestop.ca](https://gamestop.ca)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Kahnawà:ke Gaming Commission
- - [https://www.gamingcommission.ca](https://www.gamingcommission.ca)
- - date_published: 2024-07-03T12:48:22.494784+00:00
-
- ## This is the default server vhost
- - [http://www.garagedoors.ca](http://www.garagedoors.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Garageland a book by Andrew Campbell
- - [https://garageland.ca](https://garageland.ca)
- - date_published: 2017-09-30T00:00:00+00:00
-
- ## Accueil
- - [https://www.gatineau.ca](https://www.gatineau.ca)
- - date_published: 2024-07-10T05:29:52.784558+00:00
-
- ## Home
- - [http://www.gbcicanada.ca](http://www.gbcicanada.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Garett Brown
- - [https://gbrown.ca](https://gbrown.ca)
- - date_published: 2024-05-04T15:44:38.983462+00:00
-
- ## Giorgio Delgado
- - [https://gdelgado.ca](https://gdelgado.ca)
- - date_published: 2022-01-08T00:00:00+00:00
-
- ## Gee-Gees d'Ottawa
- - [https://equipes.geegees.ca](https://equipes.geegees.ca)
- - date_published: 2024-07-21T08:25:41.342522+00:00
-
- ## Ottawa Gee-Gees
- - [https://teams.geegees.ca](https://teams.geegees.ca)
- - date_published: 2024-04-30T05:28:13.660472+00:00
-
- ## Ottawa Gee-Gees
- - [https://tickets.geegees.ca](https://tickets.geegees.ca)
- - date_published: 2024-07-21T08:25:23.743842+00:00
-
- ## Homepage - GenomeCanada
- - [https://www.genomecanada.ca](https://www.genomecanada.ca)
- - date_published: 2024-07-10T11:37:42.790739+00:00
-
- ## George Brown College - georgebrown.ca
- - [https://www.georgebrown.ca](https://www.georgebrown.ca)
- - date_published: 2021-03-19T15:16:54+00:00
-
- ## George W.J. Laidlaw - Index Page
- - [http://georgelaidlaw.ca](http://georgelaidlaw.ca)
- - date_published: 2019-09-08T19:31:21+00:00
-
- ## Canada - Seed World
- - [https://germination.ca](https://germination.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Découvrez les meilleurs logiciels grâce à GetApp Canada pour développer votre entreprise
- - [https://fr.getapp.ca](https://fr.getapp.ca)
- - date_published: 2024-08-08T18:07:21.040548+00:00
-
- ## Discover the Best Apps on GetApp Canada to Grow Your Business
- - [https://www.getapp.ca](https://www.getapp.ca)
- - date_published: 2024-08-08T18:06:56.766348+00:00
-
- ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
- - [https://www.gettyimages.ca](https://www.gettyimages.ca)
- - date_published: 2024-06-20T01:48:50.997991+00:00
-
- ## Wheat
- - [https://getwheat.ca](https://getwheat.ca)
- - date_published: 2024-08-08T15:35:51+00:00
-
- ## One Page Resume
- - [https://gianlu.ca](https://gianlu.ca)
- - date_published: 2023-12-02T06:15:14+00:00
-
- ## Gilead Sciences
- - [https://www.gilead.ca](https://www.gilead.ca)
- - date_published: 2024-07-02T04:08:12.955063+00:00
-
- ## Home - Glacier Media
- - [https://glaciermedia.ca](https://glaciermedia.ca)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Glass in Canada, Canada
- - [http://www.glass.ca](http://www.glass.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Glassdoor | Job Search and Career Community
- - [https://www.glassdoor.ca](https://www.glassdoor.ca)
- - date_published: 2024-06-16T12:57:59.782418+00:00
-
- ## Home
- - [https://globalfest.ca](https://globalfest.ca)
- - date_published: 2024-06-17T07:09:30+00:00
-
- ## Global News | Breaking, Latest News and Video for Canada
- - [https://globalnews.ca](https://globalnews.ca)
- - date_published: 2023-10-25T10:36:35.873873+00:00
-
- ## Home - Global ResearchGlobal Research - Centre for Research on Globalization
- - [https://www.globalresearch.ca](https://www.globalresearch.ca)
- - date_published: 2023-10-25T12:05:13.017051+00:00
-
- ## CFEE Classroom Edition
- - [http://globeclassroom.ca](http://globeclassroom.ca)
- - date_published: 2024-05-06T16:48:40.240746+00:00
-
- ## Home
- - [https://globelink.ca](https://globelink.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Home
- - [http://www.globelink.ca](http://www.globelink.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home
- - [https://globemediagroup.ca](https://globemediagroup.ca)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## General Motors Canada: Pushing the Limits of Transportation & Technology
- - [http://www.gm.ca](http://www.gm.ca)
- - date_published: 2024-06-18T13:57:53+00:00
-
- ## GM Envolve Canada: Transforming How Business is Done
- - [https://www.gmenvolve.ca](https://www.gmenvolve.ca)
- - date_published: 2024-06-20T07:44:57.126535+00:00
 

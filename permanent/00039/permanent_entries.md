@@ -1,3 +1,480 @@
+ ## BitOwl Productions
+ - [http://bitowl.com](http://bitowl.com)
+ - date_published: 2024-07-11T16:54:18.166658+00:00
+
+ ## BitPay: The Best Crypto App to Pay with Crypto + Accept Payments
+ - [https://bitpay.com](https://bitpay.com)
+ - date_published: 2024-04-30T06:29:41.216803+00:00
+
+ ## Information Technology - Technical white papers - IT Webcasts / Information - Bitpipe
+ - [https://www.bitpipe.com](https://www.bitpipe.com)
+ - date_published: 2024-06-23T02:22:03.868985+00:00
+
+ ## Bitpool︱Unlock Your Building’s Full Potential︱Energy Data Management
+ - [https://www.bitpool.com](https://www.bitpool.com)
+ - date_published: 2024-06-21T02:12:06.039272+00:00
+
+ ## Bit Rebels - Technology, Social Media, Business, Geek News
+ - [http://www.bitrebels.com](http://www.bitrebels.com)
+ - date_published: 2024-06-22T04:29:35+00:00
+
+ ## Bitrefill (PL) - Buy Vouchers, Gift Cards, and Airtime in PL with Bitcoin or Crypto
+ - [https://www.bitrefill.com](https://www.bitrefill.com)
+ - date_published: 2024-06-16T04:46:47.786743+00:00
+
+ ## Bitrix Partner Program
+ - [https://partners.bitrix24.com](https://partners.bitrix24.com)
+ - date_published: 2024-07-14T20:49:34+00:00
+
+ ## Bitrix24 status page
+ - [https://status.bitrix24.com](https://status.bitrix24.com)
+ - date_published: 2024-05-12T03:57:35.746606+00:00
+
+ ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
+ - [https://bitrix24.com](https://bitrix24.com)
+ - date_published: 2024-03-28T06:57:07+00:00
+ - tags: ['crm', 'cms']
+
+ ## Bitrix24 - darmowa przestrzeń robocza dla Twojego biznesu: CRM, zadania, spotkania online i nie tylko.
+ - [https://bitrixsoft.com](https://bitrixsoft.com)
+ - date_published: 2024-05-12T03:57:38.011450+00:00
+
+ ## Cross Platform InstallBuilder: Multiplatform Installer Tool
+ - [http://www.bitrock.com](http://www.bitrock.com)
+ - date_published: 2024-07-11T12:48:27.945589+00:00
+
+ ## Matt Dunphy - bitrotten.com - Audio, Photo, Video
+ - [https://www.bitrotten.com](https://www.bitrotten.com)
+ - date_published: 2023-10-25T08:45:06.636297+00:00
+ - tags: ['personal']
+
+ ## Buy & Sell Bitcoin, Ethereum, Ripple | Crypto Exchange | Bitrue
+ - [https://www.bitrue.com](https://www.bitrue.com)
+ - date_published: 2024-06-16T05:03:01.031572+00:00
+
+ ## Bits about Money by Patrick McKenzie (patio11)
+ - [https://www.bitsaboutmoney.com](https://www.bitsaboutmoney.com)
+ - date_published: 2023-10-25T13:02:16.420283+00:00
+
+ ## BITS, Pilani On Campus Programmes...
+ - [https://www.bitsadmission.com](https://www.bitsadmission.com)
+ - date_published: 2024-08-11T11:37:34.908539+00:00
+
+ ## Blown to Bits: Your Life, Liberty and the Pursuit of Happiness after the Digital Explosion
+ - [http://www.bitsbook.com](http://www.bitsbook.com)
+ - date_published: 2024-06-30T11:17:18.030870+00:00
+
+ ## bitsCrunch - AI-enhanced decentralized NFT data network
+ - [https://bitscrunch.com](https://bitscrunch.com)
+ - date_published: 2024-06-10T07:09:08+00:00
+
+ ## Login - Bitsight
+ - [https://academy.bitsight.com](https://academy.bitsight.com)
+ - date_published: 2024-07-22T12:47:36.320381+00:00
+
+ ## Cyber Risk Management Solutions
+ - [https://bitsight.com](https://bitsight.com)
+ - date_published: 2024-04-30T01:59:57.402369+00:00
+
+ ## Bitsight Knowledge Base
+ - [https://help.bitsighttech.com](https://help.bitsighttech.com)
+ - date_published: 2024-07-22T12:47:28.891874+00:00
+
+ ## Login - Bitsight
+ - [https://service.bitsighttech.com](https://service.bitsighttech.com)
+ - date_published: 2024-07-22T12:47:37.753988+00:00
+
+ ## Bits in Flight
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date_published: 2023-12-21T03:31:11.484659+00:00
+ - tags: ['personal']
+
+ ## Bitslog
+ - [https://bitslog.com](https://bitslog.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Bitso – The simplest way to use and buy cryptocurrencies.
+ - [https://bitso.com](https://bitso.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## BITS OF WAR
+ - [https://bitsofwar.com](https://bitsofwar.com)
+ - date_published: 2024-01-26T15:22:05+00:00
+ - tags: ['shop', 'tabletop games', 'miniatures', 'warhammer']
+
+ ## Bitstrapped - Data Platforms and MLOps
+ - [https://www.bitstrapped.com](https://www.bitstrapped.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Digital Currency Management System | Bitt
+ - [https://www.bitt.com](https://www.bitt.com)
+ - date_published: 2024-06-17T10:10:59.535440+00:00
+
+ ## Bittbox
+ - [http://www.bittbox.com](http://www.bittbox.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## don hertzfeldt :: news :: do not point at eyes or face
+ - [http://www.bitterfilms.com](http://www.bitterfilms.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Crime Fiction books, mystery books and psychological thrillers
+ - [https://www.bitterlemonpress.com](https://www.bitterlemonpress.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Craft Spirits & Cocktail Supplies
+ - [https://www.bittersandbottles.com](https://www.bittersandbottles.com)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## THE BITTER SOUTHERNER - Great Stories from the South
+ - [https://bittersoutherner.com](https://bittersoutherner.com)
+ - date_published: 2023-12-06T23:57:44.319992+00:00
+
+ ## PayPro Global Store
+ - [https://store.bittorrent.com](https://store.bittorrent.com)
+ - date_published: 2024-05-11T11:41:02.028817+00:00
+
+ ## BitTorrent | The World's Most Popular Torrent Client
+ - [http://www.bittorrent.com](http://www.bittorrent.com)
+ - date_published: 2024-05-17T20:13:27+00:00
+
+ ## Bittrex Global
+ - [https://bittrex.com](https://bittrex.com)
+ - date_published: 2023-10-25T13:02:25.612866+00:00
+
+ ## Bittrex Global
+ - [https://global.bittrex.com](https://global.bittrex.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Bittrex Global
+ - [https://bittrexglobal.com](https://bittrexglobal.com)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## BitTubers is a bitcoin and altcoin cloud mining farm for YouTubers to invite their followers to invest and share a percentage of the coins produced.
+ - [https://bittubers.com](https://bittubers.com)
+ - date_published: 2023-05-30T10:32:32+00:00
+
+ ## Cierpliwości...
+ - [https://bitvavo.com](https://bitvavo.com)
+ - date_published: 2024-06-20T05:08:45.038564+00:00
+
+ ## Bitvise: SSH software for Windows | Bitvise
+ - [https://www.bitvise.com](https://www.bitvise.com)
+ - date_published: 2024-05-23T18:06:48.652842+00:00
+
+ ## The password manager trusted by millions | Bitwarden
+ - [https://bitwarden.com](https://bitwarden.com)
+ - date_published: 2023-10-25T08:37:07.991011+00:00
+ - tags: ['password manager']
+
+ ## Bitwarden Community Forums
+ - [https://community.bitwarden.com](https://community.bitwarden.com)
+ - date_published: 2023-11-17T21:01:21.950204+00:00
+
+ ## Overview | Bitwarden Contributing Documentation
+ - [https://contributing.bitwarden.com](https://contributing.bitwarden.com)
+ - date_published: 2024-06-16T15:20:43.368428+00:00
+
+ ## Help Center | Bitwarden
+ - [https://help.bitwarden.com](https://help.bitwarden.com)
+ - date_published: 2024-05-01T07:10:34.352685+00:00
+
+ ## Status Page - Bitwarden
+ - [https://status.bitwarden.com](https://status.bitwarden.com)
+ - date_published: 2023-10-25T13:02:32.152588+00:00
+
+ ## Bitwarden Web Vault
+ - [https://vault.bitwarden.com](https://vault.bitwarden.com)
+ - date_published: 2024-05-08T12:17:25.033273+00:00
+
+ ## Bitwig | Home | Bitwig
+ - [https://www.bitwig.com](https://www.bitwig.com)
+ - date_published: 2024-06-29T21:09:26+00:00
+
+ ## Crypto Index Fund & ETF Provider | Bitwise Asset Management
+ - [https://bitwiseinvestments.com](https://bitwiseinvestments.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## BIU International School | Bar-Ilan University
+ - [https://biuinternational.com](https://biuinternational.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Vancouver & BC Business News, People, Lists & Events
+ - [https://biv.com](https://biv.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## The Biveros Effect
+ - [https://biveros.com](https://biveros.com)
+ - date_published: 2024-06-30T04:13:24.528235+00:00
+
+ ## Generate, Qualify & Nurture More Leads Online • Bixa Media
+ - [https://bixamedia.com](https://bixamedia.com)
+ - date_published: 2024-05-10T06:59:00.210848+00:00
+
+ ## Bixby Home Studio
+ - [https://bhs.bixbydevelopers.com](https://bhs.bixbydevelopers.com)
+ - date_published: 2023-10-25T10:12:49+00:00
+
+ ## Bixby Developers
+ - [https://bixbydevelopers.com](https://bixbydevelopers.com)
+ - date_published: 2024-04-29T01:45:48.520204+00:00
+
+ ## Bixby Developer Support
+ - [https://support.bixbydevelopers.com](https://support.bixbydevelopers.com)
+ - date_published: 2017-10-16T00:00:00+00:00
+
+ ## Bixense Game Studios
+ - [https://bixense.com](https://bixense.com)
+ - date_published: 2024-07-23T22:48:44.568833+00:00
+
+ ## Location de vélo à Montréal - BIXI Montréal
+ - [https://montreal.bixi.com](https://montreal.bixi.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Familia Toledo: Hardware, Firmware y Software creado en México
+ - [https://biyubi.com](https://biyubi.com)
+ - date_published: 2024-05-08T10:35:35.867971+00:00
+
+ ## Index of /
+ - [https://bizarra.com](https://bizarra.com)
+ - date_published: 2020-05-20T00:00:00+00:00
+
+ ## BizBackLinks
+ - [https://www.bizbacklinks.com](https://www.bizbacklinks.com)
+ - date_published: 2024-06-29T19:34:57.468817+00:00
+
+ ## Business Directory - Find Businesses
+ - [https://bizbangboom.com](https://bizbangboom.com)
+ - date_published: 2024-05-07T13:48:51.423419+00:00
+
+ ## Best Premium & Free WordPress Design Themes & Templates
+ - [https://bizbergthemes.com](https://bizbergthemes.com)
+ - date_published: 2024-05-11T10:25:26.409210+00:00
+
+ ## Best Business Administration Tools
+ - [https://www.bizbot.com](https://www.bizbot.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Mai Web Platform
+ - [https://bizbudding.com](https://bizbudding.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## BizBuildBoom
+ - [https://www.bizbuildboom.com](https://www.bizbuildboom.com)
+ - date_published: 2024-06-29T19:34:10.333493+00:00
+
+ ## BizBuySell - The Internet's Largest Business for Sale & Franchise for Sale Marketplace
+ - [https://www.bizbuysell.com](https://www.bizbuysell.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home page - BizcastHQ
+ - [https://bizcasthq.com](https://bizcasthq.com)
+ - date_published: 2019-04-24T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.bizclikmedia.com](https://www.bizclikmedia.com)
+ - date_published: 2024-05-01T02:45:25.195367+00:00
+
+ ## Bizcoder Home
+ - [http://www.bizcoder.com](http://www.bizcoder.com)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Bizcommunity | Daily business news, companies, jobs and events across 19 industries in South Africa
+ - [https://m.bizcommunity.com](https://m.bizcommunity.com)
+ - date_published: 2024-05-07T13:43:18.316049+00:00
+
+ ## Bizcommunity | Daily business news, companies, jobs and events across 19 industries in South Africa
+ - [https://bizcommunity.com](https://bizcommunity.com)
+ - date_published: 2024-05-07T13:46:14.235211+00:00
+
+ ## Bizcommunity | Daily business news, companies, jobs and events across 19 industries in South Africa
+ - [https://biz-file.com](https://biz-file.com)
+ - date_published: 2024-06-29T18:28:53+00:00
+
+ ## 가비아: 기업 도메인 전문 관리
+ - [https://bizgabia.com](https://bizgabia.com)
+ - date_published: 2024-06-12T13:24:03.074289+00:00
+
+ ## ROTT editing and modding :: Index
+ - [http://rott.s4.bizhat.com](http://rott.s4.bizhat.com)
+ - date_published: 2024-06-21T12:53:27.601959+00:00
+
+ ## Alabama Business Directory : Businesses in Alabama
+ - [https://alabama.bizhwy.com](https://alabama.bizhwy.com)
+ - date_published: 2024-06-29T19:24:48.649682+00:00
+
+ ## Alaska Business Directory : Businesses in Alaska
+ - [https://alaska.bizhwy.com](https://alaska.bizhwy.com)
+ - date_published: 2024-06-29T19:24:55.372928+00:00
+
+ ## Arizona Business Directory : Businesses in Arizona
+ - [https://arizona.bizhwy.com](https://arizona.bizhwy.com)
+ - date_published: 2024-06-29T19:25:04.778523+00:00
+
+ ## Arkansas Business Directory : Businesses in Arkansas
+ - [https://arkansas.bizhwy.com](https://arkansas.bizhwy.com)
+ - date_published: 2024-06-29T19:25:17.324174+00:00
+
+ ## California Business Directory : Businesses in California
+ - [https://california.bizhwy.com](https://california.bizhwy.com)
+ - date_published: 2024-05-07T13:48:09.402537+00:00
+
+ ## Colorado Business Directory : Businesses in Colorado
+ - [https://colorado.bizhwy.com](https://colorado.bizhwy.com)
+ - date_published: 2024-06-29T19:24:57.233506+00:00
+
+ ## Connecticut Business Directory : Businesses in Connecticut
+ - [https://connecticut.bizhwy.com](https://connecticut.bizhwy.com)
+ - date_published: 2024-06-29T19:24:45.529366+00:00
+
+ ## Delaware Business Directory : Businesses in Delaware
+ - [https://delaware.bizhwy.com](https://delaware.bizhwy.com)
+ - date_published: 2024-06-29T19:24:10.456013+00:00
+
+ ## District Of Columbia Business Directory : Businesses in District Of Columbia
+ - [https://district-of-columbia.bizhwy.com](https://district-of-columbia.bizhwy.com)
+ - date_published: 2024-06-29T19:24:29.644486+00:00
+
+ ## Florida Business Directory : Businesses in Florida
+ - [https://florida.bizhwy.com](https://florida.bizhwy.com)
+ - date_published: 2024-06-29T19:24:15.944925+00:00
+
+ ## Georgia Business Directory : Businesses in Georgia
+ - [https://georgia.bizhwy.com](https://georgia.bizhwy.com)
+ - date_published: 2024-06-29T19:25:06.560754+00:00
+
+ ## Hawaii Business Directory : Businesses in Hawaii
+ - [https://hawaii.bizhwy.com](https://hawaii.bizhwy.com)
+ - date_published: 2024-06-29T19:25:14.626196+00:00
+
+ ## Idaho Business Directory : Businesses in Idaho
+ - [https://idaho.bizhwy.com](https://idaho.bizhwy.com)
+ - date_published: 2024-06-29T19:24:38.939739+00:00
+
+ ## Illinois Business Directory : Businesses in Illinois
+ - [https://illinois.bizhwy.com](https://illinois.bizhwy.com)
+ - date_published: 2024-06-29T19:25:34.915024+00:00
+
+ ## Indiana Business Directory : Businesses in Indiana
+ - [https://indiana.bizhwy.com](https://indiana.bizhwy.com)
+ - date_published: 2024-06-29T19:24:21.124242+00:00
+
+ ## Iowa Business Directory : Businesses in Iowa
+ - [https://iowa.bizhwy.com](https://iowa.bizhwy.com)
+ - date_published: 2024-06-29T19:25:21.507093+00:00
+
+ ## Kansas Business Directory : Businesses in Kansas
+ - [https://kansas.bizhwy.com](https://kansas.bizhwy.com)
+ - date_published: 2024-06-29T19:24:06.582356+00:00
+
+ ## Kentucky Business Directory : Businesses in Kentucky
+ - [https://kentucky.bizhwy.com](https://kentucky.bizhwy.com)
+ - date_published: 2024-06-29T19:25:24.947780+00:00
+
+ ## Louisiana Business Directory : Businesses in Louisiana
+ - [https://louisiana.bizhwy.com](https://louisiana.bizhwy.com)
+ - date_published: 2024-06-29T19:24:58.557253+00:00
+
+ ## Maine Business Directory : Businesses in Maine
+ - [https://maine.bizhwy.com](https://maine.bizhwy.com)
+ - date_published: 2024-06-29T19:24:54.152448+00:00
+
+ ## Maryland Business Directory : Businesses in Maryland
+ - [https://maryland.bizhwy.com](https://maryland.bizhwy.com)
+ - date_published: 2024-06-29T19:24:35.454986+00:00
+
+ ## Massachusetts Business Directory : Businesses in Massachusetts
+ - [https://massachusetts.bizhwy.com](https://massachusetts.bizhwy.com)
+ - date_published: 2024-06-29T19:25:13.437806+00:00
+
+ ## Michigan Business Directory : Businesses in Michigan
+ - [https://michigan.bizhwy.com](https://michigan.bizhwy.com)
+ - date_published: 2024-06-29T19:25:11.706919+00:00
+
+ ## Minnesota Business Directory : Businesses in Minnesota
+ - [https://minnesota.bizhwy.com](https://minnesota.bizhwy.com)
+ - date_published: 2024-06-29T19:25:23.364300+00:00
+
+ ## Mississippi Business Directory : Businesses in Mississippi
+ - [https://mississippi.bizhwy.com](https://mississippi.bizhwy.com)
+ - date_published: 2024-06-29T19:24:19.426152+00:00
+
+ ## Missouri Business Directory : Businesses in Missouri
+ - [https://missouri.bizhwy.com](https://missouri.bizhwy.com)
+ - date_published: 2024-06-29T19:25:32.894250+00:00
+
+ ## Montana Business Directory : Businesses in Montana
+ - [https://montana.bizhwy.com](https://montana.bizhwy.com)
+ - date_published: 2024-06-29T19:25:15.846750+00:00
+
+ ## Nebraska Business Directory : Businesses in Nebraska
+ - [https://nebraska.bizhwy.com](https://nebraska.bizhwy.com)
+ - date_published: 2024-06-29T19:24:24.544103+00:00
+
+ ## Nevada Business Directory : Businesses in Nevada
+ - [https://nevada.bizhwy.com](https://nevada.bizhwy.com)
+ - date_published: 2024-06-29T19:24:17.675305+00:00
+
+ ## New Hampshire Business Directory : Businesses in New Hampshire
+ - [https://new-hampshire.bizhwy.com](https://new-hampshire.bizhwy.com)
+ - date_published: 2024-06-29T19:25:02.748798+00:00
+
+ ## New Jersey Business Directory : Businesses in New Jersey
+ - [https://new-jersey.bizhwy.com](https://new-jersey.bizhwy.com)
+ - date_published: 2024-06-29T19:24:08.726613+00:00
+
+ ## New Mexico Business Directory : Businesses in New Mexico
+ - [https://new-mexico.bizhwy.com](https://new-mexico.bizhwy.com)
+ - date_published: 2024-06-29T19:25:18.512506+00:00
+
+ ## New York Business Directory : Businesses in New York
+ - [https://new-york.bizhwy.com](https://new-york.bizhwy.com)
+ - date_published: 2024-06-29T19:25:27.966066+00:00
+
+ ## North Carolina Business Directory : Businesses in North Carolina
+ - [https://north-carolina.bizhwy.com](https://north-carolina.bizhwy.com)
+ - date_published: 2024-06-29T19:24:37.406929+00:00
+
+ ## North Dakota Business Directory : Businesses in North Dakota
+ - [https://north-dakota.bizhwy.com](https://north-dakota.bizhwy.com)
+ - date_published: 2024-06-29T19:24:40.611038+00:00
+
+ ## Ohio Business Directory : Businesses in Ohio
+ - [https://ohio.bizhwy.com](https://ohio.bizhwy.com)
+ - date_published: 2024-06-29T19:24:31.741934+00:00
+
+ ## Oklahoma Business Directory : Businesses in Oklahoma
+ - [https://oklahoma.bizhwy.com](https://oklahoma.bizhwy.com)
+ - date_published: 2024-06-29T19:24:50.050729+00:00
+
+ ## Oregon Business Directory : Businesses in Oregon
+ - [https://oregon.bizhwy.com](https://oregon.bizhwy.com)
+ - date_published: 2024-06-29T19:25:30.901886+00:00
+
+ ## Pennsylvania Business Directory : Businesses in Pennsylvania
+ - [https://pennsylvania.bizhwy.com](https://pennsylvania.bizhwy.com)
+ - date_published: 2024-06-29T19:24:26.400720+00:00
+
+ ## Rhode Island Business Directory : Businesses in Rhode Island
+ - [https://rhode-island.bizhwy.com](https://rhode-island.bizhwy.com)
+ - date_published: 2024-06-29T19:25:01.568678+00:00
+
+ ## South Carolina Business Directory : Businesses in South Carolina
+ - [https://south-carolina.bizhwy.com](https://south-carolina.bizhwy.com)
+ - date_published: 2024-06-29T19:24:59.916041+00:00
+
+ ## South Dakota Business Directory : Businesses in South Dakota
+ - [https://south-dakota.bizhwy.com](https://south-dakota.bizhwy.com)
+ - date_published: 2024-06-29T19:24:28.105732+00:00
+
+ ## Tennessee Business Directory : Businesses in Tennessee
+ - [https://tennessee.bizhwy.com](https://tennessee.bizhwy.com)
+ - date_published: 2024-06-29T19:25:20.210160+00:00
+
+ ## Texas Business Directory : Businesses in Texas
+ - [https://texas.bizhwy.com](https://texas.bizhwy.com)
+ - date_published: 2024-06-29T19:25:10.168762+00:00
+
  ## Utah Business Directory : Businesses in Utah
  - [https://utah.bizhwy.com](https://utah.bizhwy.com)
  - date_published: 2024-06-29T19:24:22.753483+00:00
@@ -629,6 +1106,10 @@
  - [http://blackmanwithagun.com](http://blackmanwithagun.com)
  - date_published: 2024-03-25T22:23:35+00:00
 
+ ## Custom Software Development and Consultancy Services | Black Marble
+ - [https://www.blackmarble.com](https://www.blackmarble.com)
+ - date_published: 2024-08-17T01:30:24+00:00
+
  ## Blackmarket Bakery in CA
  - [https://www.blackmarketbakery.com](https://www.blackmarketbakery.com)
  - date_published: 2024-06-20T16:57:44.058172+00:00
@@ -948,6 +1429,10 @@
  - [https://blakewatson.com](https://blakewatson.com)
  - date_published: 2023-10-25T08:45:09.755901+00:00
  - tags: ['personal']
+
+ ## Blame It On The Voices
+ - [http://www.blameitonthevoices.com](http://www.blameitonthevoices.com)
+ - date_published: 2024-08-17T21:38:47+00:00
 
  ## blameless | Stoplight
  - [https://developers.blameless.com](https://developers.blameless.com)
@@ -3576,484 +4061,4 @@
  ## amor mundi
  - [http://amormundi.blogspot.com](http://amormundi.blogspot.com)
  - date_published: 2024-07-03T03:27:52+00:00
-
- ## Raising Yousuf and Noor: diary of a Palestinian mother
- - [http://a-mother-from-gaza.blogspot.com](http://a-mother-from-gaza.blogspot.com)
- - date_published: 2024-06-11T05:55:19+00:00
-
- ## Amusing Bunni's Musings
- - [http://amusingbunni.blogspot.com](http://amusingbunni.blogspot.com)
- - date_published: 2024-03-05T14:03:48+00:00
-
- ## Amygdala
- - [http://amygdalagf.blogspot.com](http://amygdalagf.blogspot.com)
- - date_published: 2024-05-27T02:44:46+00:00
-
- ## Just Another Goat
- - [http://amysproston.blogspot.com](http://amysproston.blogspot.com)
- - date_published: 2024-06-18T12:14:58+00:00
-
- ## anaba
- - [http://anaba.blogspot.com](http://anaba.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Analog  Dog
- - [http://analog-dog.blogspot.com](http://analog-dog.blogspot.com)
- - date_published: 2024-03-13T16:05:04+00:00
-
- ## Analogue Hobbies
- - [http://analogue-hobbies.blogspot.com](http://analogue-hobbies.blogspot.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## No Borders Metaphysics
- - [http://anarchai.blogspot.com](http://anarchai.blogspot.com)
- - date_published: 2024-07-06T06:31:20+00:00
-
- ## The AnarchAngel
- - [http://anarchangel.blogspot.com](http://anarchangel.blogspot.com)
- - date_published: 2024-01-25T05:47:00+00:00
-
- ## Listen and Understand
- - [http://anarchoscene.blogspot.com](http://anarchoscene.blogspot.com)
- - date_published: 2024-07-07T09:38:54+00:00
-
- ## Ancient Coin Collecting
- - [http://ancientcoincollecting.blogspot.com](http://ancientcoincollecting.blogspot.com)
- - date_published: 2024-03-11T03:21:54+00:00
-
- ## Ancient Faith in the Far Future
- - [http://ancientfarfuture.blogspot.com](http://ancientfarfuture.blogspot.com)
- - date_published: 2024-06-29T02:40:32+00:00
-
- ## Ancient Heritage
- - [http://ancient-heritage.blogspot.com](http://ancient-heritage.blogspot.com)
- - date_published: 2024-04-27T01:05:21+00:00
-
- ## Roman Times
- - [https://ancientimes.blogspot.com](https://ancientimes.blogspot.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Ancient World Bloggers Group (AWBG)
- - [https://ancientworldbloggers.blogspot.com](https://ancientworldbloggers.blogspot.com)
- - date_published: 2024-05-13T10:04:42+00:00
-
- ## AWOL - The Ancient World Online
- - [https://ancientworldonline.blogspot.com](https://ancientworldonline.blogspot.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Blogger
- - [http://ancthist-nsgill.blogspot.com](http://ancthist-nsgill.blogspot.com)
- - date_published: 2024-06-24T10:16:31.495895+00:00
-
- ## Andanças Medievais
- - [https://andancasmedievais.blogspot.com](https://andancasmedievais.blogspot.com)
- - date_published: 2024-07-12T18:24:27+00:00
-
- ## MacroMania
- - [http://andolfatto.blogspot.com](http://andolfatto.blogspot.com)
- - date_published: 2024-07-16T07:05:00+00:00
-
- ## Andy's Wargaming Adventures
- - [http://andrathswargaming.blogspot.com](http://andrathswargaming.blogspot.com)
- - date_published: 2024-03-19T07:44:04+00:00
-
- ## Andree's Debian & General Musings
- - [http://andreeleidenfrost.blogspot.com](http://andreeleidenfrost.blogspot.com)
- - date_published: 2024-03-13T14:11:04+00:00
-
- ## AspectJ and Eclipse Programming
- - [http://andrewclement.blogspot.com](http://andrewclement.blogspot.com)
- - date_published: 2024-03-05T13:40:13+00:00
-
- ## Andrew and Nancy in Amman!
- - [http://andrewheiss.blogspot.com](http://andrewheiss.blogspot.com)
- - date_published: 2024-03-08T16:26:32+00:00
-
- ## Unstructured Musings
- - [http://andrewlias.blogspot.com](http://andrewlias.blogspot.com)
- - date_published: 2024-03-19T18:20:14+00:00
-
- ## Android Developers Blog
- - [https://android-developers.blogspot.com](https://android-developers.blogspot.com)
- - date_published: 2024-05-04T08:30:26.688776+00:00
-
- ## And Then There Was George...
- - [http://andthentherewasgeorge.blogspot.com](http://andthentherewasgeorge.blogspot.com)
- - date_published: 2024-03-13T06:36:21+00:00
-
- ## Henry and Esti
- - [http://andthewhale.blogspot.com](http://andthewhale.blogspot.com)
- - date_published: 2024-03-13T10:58:49+00:00
-
- ## Andy Farrell
- - [http://andyfarrell.blogspot.com](http://andyfarrell.blogspot.com)
- - date_published: 2021-04-04T00:00:00+00:00
-
- ## Blogger
- - [http://andyhoare.blogspot.com](http://andyhoare.blogspot.com)
- - date_published: 2024-07-20T08:11:48.939118+00:00
-
- ## Andy's Math/CS page
- - [http://andysresearch.blogspot.com](http://andysresearch.blogspot.com)
- - date_published: 2024-03-14T09:13:39+00:00
-
- ## ~ anevilgiraffe ~
- - [http://anevilgiraffe.blogspot.com](http://anevilgiraffe.blogspot.com)
- - date_published: 2024-06-18T13:30:14+00:00
-
- ## Angler Angst
- - [http://anglerangst.blogspot.com](http://anglerangst.blogspot.com)
- - date_published: 2024-02-21T17:19:38+00:00
-
- ## AngloAustria
- - [http://angloaustria.blogspot.com](http://angloaustria.blogspot.com)
- - date_published: 2024-06-10T07:55:15+00:00
-
- ## The Angry Arab News Service/وكالة أنباء العربي الغاضب
- - [http://angryarab.blogspot.com](http://angryarab.blogspot.com)
- - date_published: 2024-04-25T18:19:10+00:00
-
- ## Angry Astronomer
- - [http://angryastronomer.blogspot.com](http://angryastronomer.blogspot.com)
- - date_published: 2024-06-16T03:46:37+00:00
-
- ## The Angry Clam
- - [http://angryclam.blogspot.com](http://angryclam.blogspot.com)
- - date_published: 2024-03-14T08:37:59+00:00
-
- ## Angry Indian
- - [http://angryindian.blogspot.com](http://angryindian.blogspot.com)
- - date_published: 2024-03-12T23:21:37+00:00
-
- ## fashion celebrity
- - [http://angry-oldman.blogspot.com](http://angry-oldman.blogspot.com)
- - date_published: 2024-03-30T03:54:27+00:00
-
- ## Angry Physics
- - [http://angryphysics.blogspot.com](http://angryphysics.blogspot.com)
- - date_published: 2024-03-08T11:34:27+00:00
-
- ## Angry Sub-Editor
- - [http://angrysubeditor.blogspot.com](http://angrysubeditor.blogspot.com)
- - date_published: 2024-05-29T07:43:00+00:00
-
- ## Andrew Niefer
- - [http://aniefer.blogspot.com](http://aniefer.blogspot.com)
- - date_published: 2024-03-13T22:09:41+00:00
-
- ## Animation Backgrounds
- - [http://animationbackgrounds.blogspot.com](http://animationbackgrounds.blogspot.com)
- - date_published: 2024-07-20T05:38:00+00:00
-
- ## Anís del moro
- - [https://anisdelmoro.blogspot.com](https://anisdelmoro.blogspot.com)
- - date_published: 2024-03-13T15:34:38+00:00
-
- ## anisha shekhar mukherji
- - [https://anishashekhar.blogspot.com](https://anishashekhar.blogspot.com)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Ankh-Mordheim
- - [http://ankh-mordheim.blogspot.com](http://ankh-mordheim.blogspot.com)
- - date_published: 2024-07-15T22:29:57+00:00
-
- ## TEACHITIFYOUCAN
- - [http://annamikhaylova.blogspot.com](http://annamikhaylova.blogspot.com)
- - date_published: 2007-10-30T00:00:00+00:00
-
- ## Meandering streams of consciousness
- - [http://annaraven.blogspot.com](http://annaraven.blogspot.com)
- - date_published: 2024-06-05T05:54:23+00:00
-
- ## annika's journal backup blog: October 2003
- - [https://annikagyrl.blogspot.com](https://annikagyrl.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Blogger
- - [http://anniksadventures.blogspot.com](http://anniksadventures.blogspot.com)
- - date_published: 2024-07-20T21:15:58.740156+00:00
-
- ## Running Commentary
- - [http://anodynerunning.blogspot.com](http://anodynerunning.blogspot.com)
- - date_published: 2024-03-14T08:09:08+00:00
-
- ## Sentiments of a Dissident
- - [https://anondiss.blogspot.com](https://anondiss.blogspot.com)
- - date_published: 2024-02-20T20:45:28+00:00
-
- ## Anonymous Lawyer
- - [http://anonymouslawyer.blogspot.com](http://anonymouslawyer.blogspot.com)
- - date_published: 2024-06-27T08:40:09+00:00
-
- ## ανορθογραφίες
- - [http://anorthografies.blogspot.com](http://anorthografies.blogspot.com)
- - date_published: 2024-03-23T17:50:25+00:00
-
- ## Another Black Conservative
- - [http://anotherblackconservative.blogspot.com](http://anotherblackconservative.blogspot.com)
- - date_published: 2024-05-15T18:01:17+00:00
-
- ## Another gay Jew
- - [http://anotherfrumgayjew.blogspot.com](http://anotherfrumgayjew.blogspot.com)
- - date_published: 2024-03-13T21:50:50+00:00
-
- ## Blogger
- - [http://anothergunblog.blogspot.com](http://anothergunblog.blogspot.com)
- - date_published: 2024-07-03T23:36:42.601394+00:00
-
- ## anotherheideggerblog
- - [http://anotherheideggerblog.blogspot.com](http://anotherheideggerblog.blogspot.com)
- - date_published: 2024-02-20T20:36:14+00:00
-
- ## Another such victory
- - [http://anothersuchvictory.blogspot.com](http://anothersuchvictory.blogspot.com)
- - date_published: 2024-06-06T14:56:31+00:00
-
- ## Another wargaming blog
- - [https://another-wargaming-blog.blogspot.com](https://another-wargaming-blog.blogspot.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## another you, a picture, a voice message, mime
- - [http://anotheryouapictureavoicemessagemime.blogspot.com](http://anotheryouapictureavoicemessagemime.blogspot.com)
- - date_published: 2024-07-04T09:06:43+00:00
-
- ## Anthro-Ling
- - [http://anthro-ling.blogspot.com](http://anthro-ling.blogspot.com)
- - date_published: 2024-04-09T09:07:59+00:00
-
- ## anthropogene
- - [http://anthropogene.blogspot.com](http://anthropogene.blogspot.com)
- - date_published: 2024-03-14T09:11:08+00:00
-
- ## Blogger
- - [http://anthropomorphe.blogspot.com](http://anthropomorphe.blogspot.com)
- - date_published: 2024-06-24T09:53:28.765645+00:00
-
- ## antigram
- - [http://antigram.blogspot.com](http://antigram.blogspot.com)
- - date_published: 2024-03-07T09:49:44+00:00
-
- ## GREENIE WATCH
- - [https://antigreen.blogspot.com](https://antigreen.blogspot.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Kakistocracy Report
- - [http://antikakistocrat.blogspot.com](http://antikakistocrat.blogspot.com)
- - date_published: 2024-03-05T05:38:10+00:00
-
- ## of Pedantry
- - [http://antiledo.blogspot.com](http://antiledo.blogspot.com)
- - date_published: 2024-07-14T20:58:44+00:00
-
- ## antipixi's hobby blog
- - [http://antipixi.blogspot.com](http://antipixi.blogspot.com)
- - date_published: 2024-03-13T09:18:06+00:00
-
- ## The History of the Study of Antiquity through the Lens of Autobiography
- - [http://antiqauto.blogspot.com](http://antiqauto.blogspot.com)
- - date_published: 2024-03-13T20:27:36+00:00
-
- ## ANT-LERRR
- - [http://antlerrr.blogspot.com](http://antlerrr.blogspot.com)
- - date_published: 2024-06-29T22:03:47+00:00
-
- ## The Life of Antoninus Pius
- - [http://antoninuspius.blogspot.com](http://antoninuspius.blogspot.com)
- - date_published: 2024-05-20T19:02:50+00:00
-
- ## Antonio Fatas on the Global Economy
- - [http://antoniofatas.blogspot.com](http://antoniofatas.blogspot.com)
- - date_published: 2024-07-04T06:09:45+00:00
-
- ## AntonioR DevLog
- - [https://antonior-software.blogspot.com](https://antonior-software.blogspot.com)
- - date_published: 2024-05-09T08:59:04.045435+00:00
-
- ## RIDING THE WIND
- - [http://antonkrupicka.blogspot.com](http://antonkrupicka.blogspot.com)
- - date_published: 2024-06-19T11:50:20+00:00
-
- ## Anton's Wargame Blog
- - [https://antonswargame.blogspot.com](https://antonswargame.blogspot.com)
- - date_published: 2024-07-20T06:57:50+00:00
-
- ## L'antre de Jehan
- - [http://antre-de-jehan.blogspot.com](http://antre-de-jehan.blogspot.com)
- - date_published: 2024-06-26T22:10:33+00:00
-
- ## An Urban Rambler
- - [http://anurbanrambler.blogspot.com](http://anurbanrambler.blogspot.com)
- - date_published: 2024-03-05T10:26:10+00:00
-
- ## Anyone Can Do It
- - [http://anyonecandoit2.blogspot.com](http://anyonecandoit2.blogspot.com)
- - date_published: 2024-03-06T01:28:06+00:00
-
- ## Anything Goes.
- - [http://anythinggoesatvt.blogspot.com](http://anythinggoesatvt.blogspot.com)
- - date_published: 2024-07-03T02:52:34+00:00
-
- ## A Paladin In Citadel
- - [https://apaladinincitadel.blogspot.com](https://apaladinincitadel.blogspot.com)
- - date_published: 2024-07-07T20:40:00+00:00
-
- ## Gunfreak's Historty of War
- - [http://apartmentofwar.blogspot.com](http://apartmentofwar.blogspot.com)
- - date_published: 2024-07-04T05:34:20+00:00
-
- ## Defenders of Prosperity
- - [http://ap-dp.blogspot.com](http://ap-dp.blogspot.com)
- - date_published: 2024-02-19T14:32:15+00:00
-
- ## HOBOTOPIA
- - [https://apelad.blogspot.com](https://apelad.blogspot.com)
- - date_published: 2024-05-11T10:55:36.783651+00:00
-
- ## Apex Urbanism
- - [http://apexurbanism.blogspot.com](http://apexurbanism.blogspot.com)
- - date_published: 2024-03-13T21:54:26+00:00
-
- ## A Place to Stand
- - [http://a-place-to-stand.blogspot.com](http://a-place-to-stand.blogspot.com)
- - date_published: 2014-06-28T00:00:00+00:00
-
- ## Heresy30K - The Horus Heresy Blog
- - [http://apocalypse40k.blogspot.com](http://apocalypse40k.blogspot.com)
- - date_published: 2024-07-19T12:34:31+00:00
-
- ## POETIC JUSTICE
- - [http://apoeticjustice.blogspot.com](http://apoeticjustice.blogspot.com)
- - date_published: 2009-07-23T00:00:00+00:00
-
- ## Apología de la luz - Jorge Espina
- - [http://apologadelaluz-jorgeespina.blogspot.com](http://apologadelaluz-jorgeespina.blogspot.com)
- - date_published: 2024-07-04T05:53:59+00:00
-
- ## Death of a Rubricist
- - [https://apologentsia.blogspot.com](https://apologentsia.blogspot.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Apostate Windbag
- - [http://apostatewindbag.blogspot.com](http://apostatewindbag.blogspot.com)
- - date_published: 2024-03-07T05:26:02+00:00
-
- ## appealinglawyer
- - [http://appealinglawyer.blogspot.com](http://appealinglawyer.blogspot.com)
- - date_published: 2024-03-19T03:09:04+00:00
-
- ## Appendix M
- - [http://appendixm.blogspot.com](http://appendixm.blogspot.com)
- - date_published: 2024-05-13T21:43:38+00:00
-
- ## THE APPRECIATION OF                         NEWSWOMEN WEARING BOOTS BLOG
- - [https://appreciationofbootednewswomen.blogspot.com](https://appreciationofbootednewswomen.blogspot.com)
- - date_published: 2024-06-23T07:23:00+00:00
-
- ## Blogger
- - [https://apprendistalibraio.blogspot.com](https://apprendistalibraio.blogspot.com)
- - date_published: 2024-07-20T06:57:35.654912+00:00
-
- ## ENSEÑ-ARTE
- - [https://aprendersociales.blogspot.com](https://aprendersociales.blogspot.com)
- - date_published: 2024-07-14T08:07:13+00:00
-
- ## A Project Too Far
- - [http://aprojecttoofar.blogspot.com](http://aprojecttoofar.blogspot.com)
- - date_published: 2024-07-04T05:45:16+00:00
-
- ## Apron History
- - [http://apronhistory.blogspot.com](http://apronhistory.blogspot.com)
- - date_published: 2024-06-24T02:22:51+00:00
-
- ## APRPEH
- - [https://aprpeh.blogspot.com](https://aprpeh.blogspot.com)
- - date_published: 2024-03-13T08:43:31+00:00
-
- ## Lull'd in these Flowers with Dances and Delight
- - [http://arabidopsisgirl.blogspot.com](http://arabidopsisgirl.blogspot.com)
- - date_published: 2024-03-19T11:22:58+00:00
-
- ## THE DHIVEHISTAN REPORT
- - [http://arabiguitar.blogspot.com](http://arabiguitar.blogspot.com)
- - date_published: 2024-06-06T14:56:28+00:00
-
- ## araujo's blog
- - [http://araujoluis.blogspot.com](http://araujoluis.blogspot.com)
- - date_published: 2024-03-13T19:52:06+00:00
-
- ## Nothing To Do With Arbroath
- - [https://arbroath.blogspot.com](https://arbroath.blogspot.com)
- - date_published: 2024-01-22T10:04:14.316123+00:00
-
- ## ArchitectureChicago PLUS
- - [http://arcchicago.blogspot.com](http://arcchicago.blogspot.com)
- - date_published: 2024-06-28T06:11:44+00:00
-
- ## Archaeology in Europe News
- - [http://archaeology-in-europe.blogspot.com](http://archaeology-in-europe.blogspot.com)
- - date_published: 2024-06-25T15:45:39+00:00
-
- ## Archaeopop: The Past in Popular Culture
- - [http://archaeopop.blogspot.com](http://archaeopop.blogspot.com)
- - date_published: 2024-06-06T14:56:11+00:00
-
- ## A Weekly Dose of Architecture Books
- - [http://archidose.blogspot.com](http://archidose.blogspot.com)
- - date_published: 2024-06-27T07:16:07+00:00
-
- ## architect design™
- - [https://architectdesign.blogspot.com](https://architectdesign.blogspot.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## MY ARCHITECTURAL MOLESKINE®
- - [http://architecturalmoleskine.blogspot.com](http://architecturalmoleskine.blogspot.com)
- - date_published: 2024-06-20T03:02:04+00:00
-
- ## Architecture + Morality
- - [http://architectureandmorality.blogspot.com](http://architectureandmorality.blogspot.com)
- - date_published: 2024-06-25T09:18:41+00:00
-
- ## Architecture/Cosmopolis
- - [https://architecture-chiefly.blogspot.com](https://architecture-chiefly.blogspot.com)
- - date_published: 2024-03-05T08:50:48+00:00
-
- ## Architecture Tourist
- - [https://architecturetourist.blogspot.com](https://architecturetourist.blogspot.com)
- - date_published: 2024-06-28T09:51:23+00:00
-
- ## ArchivesInfo
- - [http://archivesinfo.blogspot.com](http://archivesinfo.blogspot.com)
- - date_published: 2024-06-24T02:23:04+00:00
-
- ## Arctic DX
- - [http://arcticdx.blogspot.com](http://arcticdx.blogspot.com)
- - date_published: 2024-08-08T01:40:02+00:00
-
- ## Arctic News
- - [https://arctic-news.blogspot.com](https://arctic-news.blogspot.com)
- - date_published: 2024-06-30T00:10:00+00:00
-
- ## AREA 23
- - [http://area-23.blogspot.com](http://area-23.blogspot.com)
- - date_published: 2024-03-08T04:15:38+00:00
-
- ## area51minis
- - [http://area51minis.blogspot.com](http://area51minis.blogspot.com)
- - date_published: 2024-03-05T18:43:58+00:00
-
- ## good evening
- - [http://areasofmyexpertise.blogspot.com](http://areasofmyexpertise.blogspot.com)
- - date_published: 2024-07-06T18:19:46+00:00
-
- ## The Best Business Development
- - [http://arghfuckkill.blogspot.com](http://arghfuckkill.blogspot.com)
- - date_published: 2024-05-11T13:32:38+00:00
-
- ## Argonor's Wargames
- - [https://argonor-wargames.blogspot.com](https://argonor-wargames.blogspot.com)
- - date_published: 2024-04-06T19:19:32+00:00
-
- ## Argonotes - Early Twentieth Century Escapism
- - [http://argonotes.blogspot.com](http://argonotes.blogspot.com)
- - date_published: 2014-07-02T00:00:00+00:00
 

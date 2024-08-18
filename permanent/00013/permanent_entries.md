@@ -1,3 +1,226 @@
+ ## Welcome to Centre for Digital Media
+ - [http://thecdm.ca](http://thecdm.ca)
+ - date_published: 2024-07-19T22:10:13+00:00
+
+ ## My Tickets | ShowClix
+ - [https://wemtickets.thecomicstrip.ca](https://wemtickets.thecomicstrip.ca)
+ - date_published: 2024-08-11T06:51:41.530442+00:00
+
+ ## The Curve - Unique Glassware and stickers
+ - [http://www.thecurve.ca](http://www.thecurve.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
+ - [https://thedeepdive.ca](https://thedeepdive.ca)
+ - date_published: 2023-10-25T12:07:49.884004+00:00
+
+ ## The Gateway - The University of Alberta's official campus media source
+ - [http://thegatewayonline.ca](http://thegatewayonline.ca)
+ - date_published: 2024-07-20T15:44:20.566310+00:00
+
+ ## Hot Sauce Reviews, Recipes, and Pepper Growing Guides
+ - [https://thehotsauceguy.ca](https://thehotsauceguy.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## The Hub | More Signal. Less Noise.
+ - [https://thehub.ca](https://thehub.ca)
+ - date_published: 2023-10-25T12:12:13.121688+00:00
+
+ ## The Impact Project
+ - [https://www.theimpactproject.ca](https://www.theimpactproject.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## The Independent
+ - [https://theindependent.ca](https://theindependent.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## The Inside Line  - Calgary Mountain Bike Shop
+ - [https://www.theinsideline.ca](https://www.theinsideline.ca)
+ - date_published: 2024-06-15T11:58:37.525844+00:00
+
+ ## Burnaby Now LocalPROS
+ - [https://burnaby.thelocalpros.ca](https://burnaby.thelocalpros.ca)
+ - date_published: 2024-06-27T12:56:24.257522+00:00
+
+ ## New West Record LocalPROS
+ - [https://newwest.thelocalpros.ca](https://newwest.thelocalpros.ca)
+ - date_published: 2024-06-27T12:55:00.010020+00:00
+
+ ## Tri-City News LocalPROS
+ - [https://tricities.thelocalpros.ca](https://tricities.thelocalpros.ca)
+ - date_published: 2024-06-27T12:52:22.317924+00:00
+
+ ## The Military Museums - The Military Museums
+ - [https://themilitarymuseums.ca](https://themilitarymuseums.ca)
+ - date_published: 2024-06-17T08:46:18+00:00
+
+ ## The Moulding Store Inc. | Calgary Mouldings, Doors, Locks, Bath Hardware and Accessories
+ - [http://themouldingstore.ca](http://themouldingstore.ca)
+ - date_published: 2024-06-23T12:04:27+00:00
+
+ ## The Narwhal | News on Climate Change, Environmental Issues in Canada
+ - [https://thenarwhal.ca](https://thenarwhal.ca)
+ - date_published: 2018-04-30T21:43:50+00:00
+
+ ## theorca
+ - [https://www.theorca.ca](https://www.theorca.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The Organic Prepper Home - The Organic Prepper
+ - [https://www.theorganicprepper.ca](https://www.theorganicprepper.ca)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## theoria – notes and commentaries
+ - [http://www.theoria.ca](http://www.theoria.ca)
+ - date_published: 2024-06-30T04:29:52.391280+00:00
+
+ ## TherapyMantra: Best Online Therapy and Counseling
+ - [https://therapymantra.ca](https://therapymantra.ca)
+ - date_published: 2024-07-23T21:20:02.198661+00:00
+
+ ## Peter Limberg
+ - [https://www.thestoa.ca](https://www.thestoa.ca)
+ - date_published: 2024-04-30T15:44:33.451663+00:00
+ - tags: ['personal']
+
+ ## A.D. SUI
+ - [https://thesuiway.ca](https://thesuiway.ca)
+ - date_published: 2024-04-29T02:17:46.340015+00:00
+
+ ## Plausible · Web analytics
+ - [https://analytic.thetechrobo.ca](https://analytic.thetechrobo.ca)
+ - date_published: 2024-05-11T06:56:09.482135+00:00
+
+ ## Archived YouTube Video Finder
+ - [https://findyoutubevideo.thetechrobo.ca](https://findyoutubevideo.thetechrobo.ca)
+ - date_published: 2023-11-11T08:20:40+00:00
+
+ ## The Tyee | Home
+ - [https://thetyee.ca](https://thetyee.ca)
+ - date_published: 2024-06-29T06:14:02.957860+00:00
+
+ ## The Walrus
+ - [https://secure.thewalrus.ca](https://secure.thewalrus.ca)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## The Walrus Store
+ - [https://store.thewalrus.ca](https://store.thewalrus.ca)
+ - date_published: 2024-07-21T09:25:16.337235+00:00
+
+ ## The Walrus | Canada's Conversation
+ - [https://thewalrus.ca](https://thewalrus.ca)
+ - date_published: 2023-10-25T12:12:23.582516+00:00
+
+ ## ThinkPol - Free the news
+ - [https://thinkpol.ca](https://thinkpol.ca)
+ - date_published: 2023-10-25T12:08:24.491426+00:00
+
+ ## Thomas Anderson
+ - [https://thomasanderson.ca](https://thomasanderson.ca)
+ - date_published: 2024-04-03T06:25:45.635825+00:00
+ - tags: ['personal']
+
+ ## Thomson Reuters online store
+ - [https://store.thomsonreuters.ca](https://store.thomsonreuters.ca)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Thomson Reuters Canada
+ - [https://www.thomsonreuters.ca](https://www.thomsonreuters.ca)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Workwear and Menswear Sewing Patterns and Supplies | Thread Theory Designs
+ - [https://threadtheory.ca](https://threadtheory.ca)
+ - date_published: 2024-07-10T03:36:48.678061+00:00
+
+ ## Finding the best business, It's that easy - ThreeBestRated.ca
+ - [https://threebestrated.ca](https://threebestrated.ca)
+ - date_published: 2024-05-02T09:53:04.963128+00:00
+
+ ## dayder
+ - [https://dayder.thume.ca](https://dayder.thume.ca)
+ - date_published: 2024-04-30T05:16:58.353294+00:00
+
+ ## dayder
+ - [https://hnblogs.thume.ca](https://hnblogs.thume.ca)
+ - date_published: 2024-04-30T05:16:53.652654+00:00
+
+ ## Tristan's Site - Tristan Hume
+ - [https://thume.ca](https://thume.ca)
+ - date_published: 2023-10-25T08:43:07.236288+00:00
+ - tags: ['personal']
+
+ ## TIAO - Tourism Counts
+ - [https://www.tiaontario.ca](https://www.tiaontario.ca)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Let's Get Your Identity Verified
+ - [https://www.ticketmaster.ca](https://www.ticketmaster.ca)
+ - date_published: 2024-07-19T05:00:01.344837+00:00
+
+ ## TicketWeb - independent music concert tickets and more
+ - [https://www.ticketweb.ca](https://www.ticketweb.ca)
+ - date_published: 2024-07-01T05:01:18.417896+00:00
+
+ ## Directory
+ - [https://members.tico.ca](https://members.tico.ca)
+ - date_published: 2024-07-17T10:26:22.622257+00:00
+
+ ## Home - Tidal Commerce
+ - [https://tidalcommerce.ca](https://tidalcommerce.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## This is the default server vhost
+ - [http://www.tiles.ca](http://www.tiles.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Tilray
+ - [https://www.tilraymedical.ca](https://www.tilraymedical.ca)
+ - date_published: 2024-07-16T23:46:47.159020+00:00
+
+ ## Trusses | Engineered Floors | Timber Wolf Truss
+ - [https://timberwolftruss.ca](https://timberwolftruss.ca)
+ - date_published: 2024-04-30T05:14:37.713928+00:00
+
+ ## Time2Thrive | Tim Ebl | Substack
+ - [https://www.time2thrive.ca](https://www.time2thrive.ca)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Timur Ochakovsky | Web Developer
+ - [https://www.timur.ca](https://www.timur.ca)
+ - date_published: 2023-11-08T12:51:06+00:00
+
+ ## Tireshops in Canada, Canada
+ - [http://www.tireshops.ca](http://www.tireshops.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Toronto Language and Cognition Lab | UofT
+ - [https://www.tlclab.ca](https://www.tlclab.ca)
+ - date_published: 2024-07-19T15:20:02.673409+00:00
+
+ ## Todd Industries - Game Servers
+ - [https://games.toddindustries.ca](https://games.toddindustries.ca)
+ - date_published: 2024-06-16T21:25:29.763007+00:00
+
+ ## Todd Industries ©
+ - [https://toddindustries.ca](https://toddindustries.ca)
+ - date_published: 2020-04-12T17:32:01+00:00
+
+ ## COMING SOON - TOFUtv
+ - [http://www.tofutv.ca](http://www.tofutv.ca)
+ - date_published: 2024-07-28T00:31:57+00:00
+
+ ## tomjacques.ca
+ - [http://tomjacques.ca](http://tomjacques.ca)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Tony Burke | Professor of Early Christianity, York University, Toronto
+ - [http://www.tonyburke.ca](http://www.tonyburke.ca)
+ - date_published: 2024-07-02T09:57:12.094403+00:00
+
+ ## City of Toronto
+ - [https://www.toronto.ca](https://www.toronto.ca)
+ - date_published: 2017-02-09T19:00:55+00:00
+
  ## torontofc
  - [https://www.torontofc.ca](https://www.torontofc.ca)
  - date_published: 2024-02-01T00:00:00+00:00
@@ -1910,6 +2133,10 @@
  - [http://portal.utoronto.ca](http://portal.utoronto.ca)
  - date_published: 2024-06-17T10:57:47.858909+00:00
 
+ ## Positive Space at U of T
+ - [https://positivespace.utoronto.ca](https://positivespace.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## SAP Web Application Server Error
  - [https://ppm-wd.utoronto.ca](https://ppm-wd.utoronto.ca)
  - date_published: 2024-07-21T08:23:06.580985+00:00
@@ -1997,6 +2224,10 @@
  ## Schwartz Reisman Institute for Technology and Society
  - [https://srinstitute.utoronto.ca](https://srinstitute.utoronto.ca)
  - date_published: 2024-04-30T05:31:04.915887+00:00
+
+ ## Home - University Family Housing at University of Toronto
+ - [http://studentfamilyhousing.utoronto.ca](http://studentfamilyhousing.utoronto.ca)
+ - date_published: 2024-08-17T23:16:14.438873+00:00
 
  ## Home - UofT Student Life
  - [https://studentlife.utoronto.ca](https://studentlife.utoronto.ca)
@@ -2150,8 +2381,16 @@
  - [http://www.facmed.utoronto.ca](http://www.facmed.utoronto.ca)
  - date_published: 2024-07-17T00:00:00+00:00
 
+ ## Faculty Relocation Service – University of Toronto
+ - [http://www.facultyrelocation.utoronto.ca](http://www.facultyrelocation.utoronto.ca)
+ - date_published: 2024-08-17T23:16:10.348939+00:00
+
+ ## Office of the Vice-Provost, Faculty & Academic Life – University of Toronto
+ - [http://www.faculty.utoronto.ca](http://www.faculty.utoronto.ca)
+ - date_published: 2024-08-17T23:16:06.141610+00:00
+
  ## Home - Family Care Office
- - [http://www.familycare.utoronto.ca](http://www.familycare.utoronto.ca)
+ - [https://www.familycare.utoronto.ca](https://www.familycare.utoronto.ca)
  - date_published: 2024-01-24T00:00:00+00:00
 
  ## Fields Institute for Research in Mathematical Sciences
@@ -2777,6 +3016,10 @@
  ## WILD Awakenings | Camp WILD | Experiential Education  | Canada
  - [https://www.wildawakenings.ca](https://www.wildawakenings.ca)
  - date_published: 2024-06-22T13:52:38.951242+00:00
+
+ ## Wildfire Studios
+ - [https://wildfirestudios.ca](https://wildfirestudios.ca)
+ - date_published: 2024-08-17T23:47:21.956147+00:00
 
  ## WILDHORSE SALOON CALGARY
  - [http://www.wildhorsesaloon.ca](http://www.wildhorsesaloon.ca)
@@ -3775,246 +4018,4 @@
  ## CypherWeavers' Cafe
  - [https://www.cypherweavers.cafe](https://www.cypherweavers.cafe)
  - date_published: 2024-04-28T11:42:58+00:00
-
- ## Daft Punk Cafe
- - [https://daftpunk.cafe](https://daftpunk.cafe)
- - date_published: 2024-05-06T21:28:58.823211+00:00
-
- ## Eldritch Café
- - [https://eldritch.cafe](https://eldritch.cafe)
- - date_published: 2024-01-08T02:07:15.832728+00:00
-
- ## elke.cafe
- - [https://elke.cafe](https://elke.cafe)
- - date_published: 2024-07-21T07:54:22+00:00
-
- ## Emma Segal-Grossman
- - [https://emma.cafe](https://emma.cafe)
- - date_published: 2024-06-19T02:26:03.907484+00:00
-
- ## Bit banging a 3.5" Floppy Drive
- - [https://floppy.cafe](https://floppy.cafe)
- - date_published: 2023-12-19T18:09:27+00:00
-
- ## Functional Café
- - [https://functional.cafe](https://functional.cafe)
- - date_published: 2024-05-09T02:39:05.354509+00:00
-
- ## gist.cafe
- - [https://gist.cafe](https://gist.cafe)
- - date_published: 2024-04-29T02:09:13+00:00
-
- ## Golang Jobs  in August 2024  (1 new) | Golang Cafe
- - [https://golang.cafe](https://golang.cafe)
- - date_published: 2024-08-08T15:26:47.922657+00:00
-
- ## Hey.Café
- - [https://hey.cafe](https://hey.cafe)
- - date_published: 2024-07-02T20:13:02.105446+00:00
-
- ## HTML.cafe - a realtime HTML editor and host
- - [https://html.cafe](https://html.cafe)
- - date_published: 2024-07-23T23:42:59.598291+00:00
-
- ## Hyperlink Cafe
- - [https://hyperlink.cafe](https://hyperlink.cafe)
- - date_published: 2024-05-06T15:01:28.005543+00:00
-
- ## Home
- - [https://jesse.cafe](https://jesse.cafe)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## joey☕
- - [https://joey.cafe](https://joey.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Lab.cafe | Dielňa, Kaviareň, Podujatia
- - [https://lab.cafe](https://lab.cafe)
- - date_published: 2024-07-02T23:43:10.961811+00:00
-
- ## lechuza café
- - [https://lechuza.cafe](https://lechuza.cafe)
- - date_published: 2024-04-03T06:30:06.410291+00:00
- - tags: ['personal']
-
- ## Lemmy Cafe - A general purpose fediverse instance
- - [https://lemmy.cafe](https://lemmy.cafe)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Loom Cafe - Daniel Murray
- - [https://loom.cafe](https://loom.cafe)
- - date_published: 2024-07-21T07:49:20+00:00
-
- ## lovesick ♡
- - [https://lovesick.cafe](https://lovesick.cafe)
- - date_published: 2024-06-19T20:12:44+00:00
-
- ## medic.cafe
- - [https://medic.cafe](https://medic.cafe)
- - date_published: 2024-05-10T06:47:49.954213+00:00
-
- ## Nerdpol Café
- - [https://nerdpol.cafe](https://nerdpol.cafe)
- - date_published: 2024-08-06T17:46:45.025665+00:00
-
- ## netcup
- - [https://netcup.cafe](https://netcup.cafe)
- - date_published: 2024-01-09T00:00:00+00:00
-
- - [https://webzine.nixos.cafe](https://webzine.nixos.cafe)
- - date_published: 2024-01-09T02:27:20.257524+00:00
-
- ## A Message For All Of You.
- - [https://ocha.cafe](https://ocha.cafe)
- - date_published: 2024-06-08T02:11:51+00:00
-
- ## Login
- - [https://dns.omada.cafe](https://dns.omada.cafe)
- - date_published: 2024-05-11T08:53:43.916124+00:00
-
- ## Omada's Café Fedi
- - [https://fedi.omada.cafe](https://fedi.omada.cafe)
- - date_published: 2024-05-11T08:53:42.320601+00:00
-
- ## Omada Git server
- - [https://git.omada.cafe](https://git.omada.cafe)
- - date_published: 2024-05-11T08:53:41.609322+00:00
-
- ## Login
- - [https://nydns.omada.cafe](https://nydns.omada.cafe)
- - date_published: 2024-05-11T08:53:40.617524+00:00
-
- ## Omada
- - [https://omada.cafe](https://omada.cafe)
- - date_published: 2024-03-20T21:29:27.487824+00:00
- - tags: ['personal']
-
- ## Omada Uptime
- - [https://uptime.omada.cafe](https://uptime.omada.cafe)
- - date_published: 2024-07-02T12:25:14+00:00
-
- ## Omada Peertube
- - [https://video.omada.cafe](https://video.omada.cafe)
- - date_published: 2024-05-11T08:53:43.109262+00:00
-
- ## Invidious
- - [https://yt.omada.cafe](https://yt.omada.cafe)
- - date_published: 2024-05-11T08:53:39.779642+00:00
-
- ## Onio Café
- - [https://onio.cafe](https://onio.cafe)
- - date_published: 2024-04-05T02:01:18+00:00
-
- ## ordinary.cafe
- - [https://ordinary.cafe](https://ordinary.cafe)
- - date_published: 2024-06-19T23:48:48.047436+00:00
-
- ## Home
- - [https://owen.cafe](https://owen.cafe)
- - date_published: 2023-10-25T08:43:10.163631+00:00
- - tags: ['personal']
-
- ## owo.cafe
- - [https://owo.cafe](https://owo.cafe)
- - date_published: 2024-07-10T07:29:04.554240+00:00
-
- ## Paul Comte
- - [https://paulcomte.cafe](https://paulcomte.cafe)
- - date_published: 2024-07-08T07:50:26+00:00
-
- ## Penpal Café
- - [https://penpal.cafe](https://penpal.cafe)
- - date_published: 2024-04-03T07:36:11+00:00
-
- ## Prompt.Cafe | AI Prompt Starter Pack
- - [https://www.prompt.cafe](https://www.prompt.cafe)
- - date_published: 2023-08-21T00:00:00+00:00
-
- ## OpenBSD webzine homepage
- - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
- - date_published: 2023-10-30T21:38:37.602934+00:00
-
- ## Re:Play Cafe
- - [https://replay.cafe](https://replay.cafe)
- - date_published: 2023-01-09T07:24:17+00:00
-
- ## Rogues Repast Cafe
- - [https://roguesrepast.cafe](https://roguesrepast.cafe)
- - date_published: 2024-02-13T21:13:05+00:00
-
- ## RPG Maker Cafe
- - [https://rpgmaker.cafe](https://rpgmaker.cafe)
- - date_published: 2024-07-23T23:19:00.998241+00:00
-
- ## Seal Cafe
- - [https://seal.cafe](https://seal.cafe)
- - date_published: 2024-08-07T13:09:27.639690+00:00
-
- ## Sivar Cafe
- - [https://sivar.cafe](https://sivar.cafe)
- - date_published: 2024-07-10T06:39:30.430324+00:00
-
- ## Akkoma
- - [https://sleepless.cafe](https://sleepless.cafe)
- - date_published: 2024-06-17T03:31:52.907540+00:00
-
- ## Business-Class Web Hosting by (mt) Media Temple
- - [http://spam.cafe](http://spam.cafe)
- - date_published: 2022-06-15T17:49:35+00:00
-
- ## Status Cafe
- - [https://status.cafe](https://status.cafe)
- - date_published: 2024-04-30T06:16:34.197522+00:00
-
- ## Sunday Sites
- - [https://sundaysites.cafe](https://sundaysites.cafe)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Théo Bori
- - [https://theobori.cafe](https://theobori.cafe)
- - date_published: 2024-08-08T15:33:07.836501+00:00
-
- ## Pencil
- - [https://pencil.toast.cafe](https://pencil.toast.cafe)
- - date_published: 2023-10-25T12:09:51.787994+00:00
-
- ## Toot Café
- - [https://toot.cafe](https://toot.cafe)
- - date_published: 2023-10-25T12:09:53.298119+00:00
-
- ## troet.cafe  - Mastodon
- - [https://troet.cafe](https://troet.cafe)
- - date_published: 2024-04-29T06:14:07.312882+00:00
-
- ## Accueil - Unbon.cafe
- - [https://unbon.cafe](https://unbon.cafe)
- - date_published: 2022-12-31T17:47:13+00:00
-
- ## VocaLounge
- - [https://vocalounge.cafe](https://vocalounge.cafe)
- - date_published: 2024-07-10T08:45:08.700397+00:00
-
- ## Deep Live Cam: Real-time face swapping and one-click video deepfake tool
- - [https://deeplive.cam](https://deeplive.cam)
- - date_published: 2024-08-10T13:05:48+00:00
-
- ## Halide Mark II: Pro. Camera. Action.
- - [https://halide.cam](https://halide.cam)
- - date_published: 2023-11-04T02:08:25+00:00
-
- ## Observing Time
- - [https://observingtime.cam](https://observingtime.cam)
- - date_published: 2024-08-11T21:09:56.664586+00:00
-
- ## Polycam Learn
- - [https://learn.poly.cam](https://learn.poly.cam)
- - date_published: 2024-04-30T05:35:06.503204+00:00
-
- ## Polycam - LiDAR & 3D Scanner for iPhone & Android
- - [https://poly.cam](https://poly.cam)
- - date_published: 2023-10-25T08:38:30.080927+00:00
-
- ## Spectre
- - [https://spectre.cam](https://spectre.cam)
- - date_published: 2024-04-30T05:35:11.723117+00:00
 

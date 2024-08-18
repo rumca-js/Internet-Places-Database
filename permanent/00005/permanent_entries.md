@@ -1,3 +1,71 @@
+ ## Chris Lovie-Tyler ‚Äì Learning to see
+ - [https://chrislt.art](https://chrislt.art)
+ - date_published: 2024-03-05T10:22:07.285624+00:00
+ - tags: ['personal']
+
+ ## comiCSS
+ - [https://comicss.art](https://comicss.art)
+ - date_published: 2024-06-06T07:27:26.676433+00:00
+ - tags: ['comics', 'css']
+
+ ## Incomplete Open Cubes Revisited
+ - [https://cubes-revisited.art](https://cubes-revisited.art)
+ - date_published: 2018-09-22T17:59:31+00:00
+
+ ## Dave Bauer | Maker / Artist - Dave Bauer - Web Nerd/Maker/Artist
+ - [https://davebauer.art](https://davebauer.art)
+ - date_published: 2024-04-18T13:58:34.979672+00:00
+ - tags: ['personal']
+
+ ## David Hellman .art
+ - [http://davidhellman.art](http://davidhellman.art)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Daydream
+ - [https://daydreamonline.art](https://daydreamonline.art)
+ - date_published: 2024-08-07T23:27:21.702933+00:00
+
+ ## declassed.art - Domain Name For Sale | Dan.com
+ - [https://declassed.art](https://declassed.art)
+ - date_published: 2024-06-28T20:06:33.159064+00:00
+
+ ## Emilia Frias
+ - [https://demilurii.art](https://demilurii.art)
+ - date_published: 2024-02-28T07:43:05.211230+00:00
+ - tags: ['animation artist', 'personal']
+
+ ## About & F.A.Q.
+ - [https://diosmaden.art](https://diosmaden.art)
+ - date_published: 2024-06-23T18:38:15.195833+00:00
+
+ ## Free AI Art Generator, AI Art Maker | Stable Diffusion Online
+ - [https://dreamlike.art](https://dreamlike.art)
+ - date_published: 2024-06-19T21:06:45.385812+00:00
+
+ ## Dreamspace.art
+ - [https://dreamspace.art](https://dreamspace.art)
+ - date_published: 2024-06-19T19:19:17.412291+00:00
+
+ ## e-flux
+ - [http://www.e-flux.art](http://www.e-flux.art)
+ - date_published: 2024-07-13T14:28:30.952594+00:00
+
+ ## Ars Electronica
+ - [https://ars.electronica.art](https://ars.electronica.art)
+ - date_published: 2024-07-03T11:50:09+00:00
+
+ ## Open Call
+ - [https://calls.ars.electronica.art](https://calls.ars.electronica.art)
+ - date_published: 2010-07-19T14:15:45+00:00
+
+ ## Emeka Ogboh
+ - [http://emekaogboh.art](http://emekaogboh.art)
+ - date_published: 2024-07-13T15:59:58.841034+00:00
+
+ ## Encre marine | Encre marine, studio audiovisuel breton
+ - [https://encre-marine.art](https://encre-marine.art)
+ - date_published: 2024-07-03T05:07:21.691815+00:00
+
  ## Erickka Patmore
  - [https://erickka.art](https://erickka.art)
  - date_published: 2024-06-23T04:01:43.894027+00:00
@@ -144,7 +212,7 @@
  - date_published: 2024-02-05T17:23:15.778256+00:00
 
  ## Masterworks
- - [https://www.masterworks.art](https://www.masterworks.art)
+ - [https://masterworks.art](https://masterworks.art)
  - date_published: 2024-01-24T20:54:06.806591+00:00
 
  ## Mastodon.ART
@@ -3969,68 +4037,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## WIFI Wien
  - [https://wifiwien.at](https://wifiwien.at)
  - date_published: 2024-05-08T05:17:25.417644+00:00
-
- ## Wikimedia Österreich – Verein zur Förderung freien Wissens
- - [https://www.wikimedia.at](https://www.wikimedia.at)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Kostenlose Kleinanzeigen, Immobilien, Gebrauchtwagen, Jobs - willhaben
- - [https://www.willhaben.at](https://www.willhaben.at)
- - date_published: 2024-06-25T19:04:06.484423+00:00
-
- ## Winterstiger's Web World
- - [http://www.winterstiger.at](http://www.winterstiger.at)
- - date_published: 2016-03-13T16:48:22+00:00
-
- ## Traueranzeigen der OÖNachrichten | wirtrauern.at
- - [https://www.wirtrauern.at](https://www.wirtrauern.at)
- - date_published: 2024-07-13T11:29:13.591319+00:00
-
- ## WITTENSTEIN Österreich
- - [https://www.wittenstein.at](https://www.wittenstein.at)
- - date_published: 2024-07-15T04:10:05.620282+00:00
-
- ## Home Realm Discovery
- - [https://berechtigungen.wko.at](https://berechtigungen.wko.at)
- - date_published: 2024-07-04T06:33:36.417362+00:00
-
- ## Branchenbuch österreichischer Unternehmen | WKO Firmen A-Z
- - [https://firmen.wko.at](https://firmen.wko.at)
- - date_published: 2024-04-28T02:44:22.882866+00:00
-
- ## WKO.at - das Portal der Wirtschaftskammern
- - [https://wko.at](https://wko.at)
- - date_published: 2024-08-07T21:14:49.854503+00:00
-
- ## Wiener Neustadt News: Nachrichten, Politik, Wirtschaft, Sport, Kultur
- - [https://www.wn24.at](https://www.wn24.at)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## www.woodstocker.atwebsite in der Warteschleife
- - [https://www.woodstocker.at](https://www.woodstocker.at)
- - date_published: 2024-07-18T06:13:31.277757+00:00
-
- ## WWF Österreich I Organisation für Natur- und Artenschutz
- - [https://wwf.at](https://wwf.at)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Übersicht aller Störungen
- - [https://xn--allestrungen-9ib.at](https://xn--allestrungen-9ib.at)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Yat 🖖 // own your emojis
- - [http://y.at](http://y.at)
- - date_published: 2024-07-10T08:33:13.534225+00:00
-
- ## YAK+YETI
- - [https://www.yakundyeti.at](https://www.yakundyeti.at)
- - date_published: 2024-07-10T09:21:33.216511+00:00
-
- ## Code Browser
- - [https://code.yawk.at](https://code.yawk.at)
- - date_published: 2024-07-07T01:55:13.386222+00:00
-
- ## Yelp
- - [https://m.yelp.at](https://m.yelp.at)
- - date_published: 2024-07-01T06:57:09.196441+00:00
 
