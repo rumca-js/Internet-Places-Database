@@ -871,6 +871,10 @@
  - tags: ['aviation news']
 
  ## Home - GAMA
+ - [https://gama.aero](https://gama.aero)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Home - GAMA
  - [http://www.gama.aero](http://www.gama.aero)
  - date_published: 2024-05-29T00:00:00+00:00
 
@@ -955,6 +959,10 @@
  ## Swoop Aero - Onwards is upwards
  - [https://swoop.aero](https://swoop.aero)
  - date_published: 2024-05-12T05:23:42.035301+00:00
+
+ ## Pioneering Interstellar Flight - Tau Zero Foundation
+ - [http://www.tauzero.aero](http://www.tauzero.aero)
+ - date_published: 2020-03-28T00:00:00+00:00
 
  ## Home | Times Aerospace
  - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
@@ -1073,6 +1081,10 @@
  ## LEAP Institute
  - [http://leapinstitute.africa](http://leapinstitute.africa)
  - date_published: 2024-07-14T12:35:42.408687+00:00
+
+ ## mastodon.africa
+ - [https://mastodon.africa](https://mastodon.africa)
+ - date_published: 2024-08-18T07:13:53.285399+00:00
 
  ## Nation ePaper: The Truth wherever you go.
  - [https://epaper.nation.africa](https://epaper.nation.africa)
@@ -1473,6 +1485,10 @@
  - [https://01.ai](https://01.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## 01.AI API Platform
+ - [https://platform.01.ai](https://platform.01.ai)
+ - date_published: 2024-08-13T10:19:07+00:00
+
  ## 1001 Nights - AI Native Game  | 1001 Nights
  - [https://www.1001nights.ai](https://www.1001nights.ai)
  - date_published: 2024-06-15T23:17:09.816983+00:00
@@ -1792,7 +1808,7 @@
  - date_published: 2024-03-13T06:14:06+00:00
 
  ## Answer.AI - Answer.AI - Practical AI R&D
- - [https://www.answer.ai](https://www.answer.ai)
+ - [https://answer.ai](https://answer.ai)
  - date_published: 2023-12-12T22:18:40.746422+00:00
 
  ## Answera - AI Customer Support
@@ -2269,6 +2285,10 @@
  - [https://stg4.bfore.ai](https://stg4.bfore.ai)
  - date_published: 2024-07-02T22:14:02.825481+00:00
 
+ ## B GARAGE
+ - [https://www.bgarage.ai](https://www.bgarage.ai)
+ - date_published: 2024-08-09T01:17:26+00:00
+
  ## BgRem — Incredible AI Tools for Creating Images & Videos
  - [https://bgrem.ai](https://bgrem.ai)
  - date_published: 2024-06-19T19:10:13.408259+00:00
@@ -2312,6 +2332,14 @@
  ## Business Plan & Cash Flow Forecast Software | Bizplanr
  - [https://bizplanr.ai](https://bizplanr.ai)
  - date_published: 2024-07-09T13:11:11+00:00
+
+ ## Black Forest Labs - Frontier AI Lab
+ - [https://blackforestlabs.ai](https://blackforestlabs.ai)
+ - date_published: 2024-08-18T02:35:26+00:00
+
+ ## Blackshark.ai | AI-based object detection and 3D digital twin of the entire planet.
+ - [https://blackshark.ai](https://blackshark.ai)
+ - date_published: 2024-05-05T00:00:00+00:00
 
  ## Blaze | The AI Tool for Teams of One
  - [https://app.blaze.ai](https://app.blaze.ai)
@@ -2448,6 +2476,10 @@
  ## - BulkContent.ai
  - [https://bulkcontent.ai](https://bulkcontent.ai)
  - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Bulk Publishing - Bulk Publishing AI
+ - [https://bulkpublishing.ai](https://bulkpublishing.ai)
+ - date_published: 2022-07-28T13:48:40+00:00
 
  ## Bulletpapers - Understand complex papers in seconds
  - [https://bulletpapers.ai](https://bulletpapers.ai)
@@ -3339,6 +3371,10 @@ Welcome
  - [https://dalmatian.ai](https://dalmatian.ai)
  - date_published: 2024-03-07T00:00:00+00:00
 
+ ## Dan Rose AI - Applied Artificial Intelligence
+ - [https://www.danrose.ai](https://www.danrose.ai)
+ - date_published: 2024-08-18T12:24:24.911482+00:00
+
  ## Danswer
  - [https://app.danswer.ai](https://app.danswer.ai)
  - date_published: 2024-08-11T16:54:48.382309+00:00
@@ -3398,6 +3434,10 @@ Welcome
  - [https://datasaur.ai](https://datasaur.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## An AI Solution for Banks & Payments - FinanSeer®
+ - [https://www.dataseers.ai](https://www.dataseers.ai)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Dates.ai | AI Dating App - Chatbot Matchmaking
  - [https://dates.ai](https://dates.ai)
  - date_published: 2024-06-19T18:54:31.707741+00:00
@@ -3413,6 +3453,10 @@ Welcome
  ## Advanced Analytics Agency | AI/ML Consulting Brisbane, Australia
  - [https://ddalabs.ai](https://ddalabs.ai)
  - date_published: 2020-06-16T17:36:23+00:00
+
+ ## Debatia
+ - [https://debatia.ai](https://debatia.ai)
+ - date_published: 2024-08-18T05:23:04.839150+00:00
 
  ## Debug coding problems with AI and solve any programming doubt - Codedamn
  - [https://debugcode.ai](https://debugcode.ai)
@@ -3465,6 +3509,10 @@ Welcome
  ## DeepMode.ai - Create your own AI clone model
  - [https://deepmode.ai](https://deepmode.ai)
  - date_published: 2024-06-20T07:24:17.088353+00:00
+
+ ## Industry Leading Artificial Intelligence Company - DeepRoute
+ - [https://www.deeproute.ai](https://www.deeproute.ai)
+ - date_published: 2024-08-18T14:11:30.096111+00:00
 
  ## Haystack Introduction
  - [https://docs.haystack.deepset.ai](https://docs.haystack.deepset.ai)
@@ -3670,6 +3718,10 @@ Welcome
  - [https://drawthings.ai](https://drawthings.ai)
  - date_published: 2024-08-07T18:00:13.409320+00:00
 
+ ## Dream by WOMBO
+ - [https://dream.ai](https://dream.ai)
+ - date_published: 2024-07-26T00:00:00+00:00
+
  ## Dreamcard.ai
  - [https://dreamcard.ai](https://dreamcard.ai)
  - date_published: 2023-12-20T15:57:33+00:00
@@ -3703,6 +3755,10 @@ Welcome
  - date_published: 2024-06-19T20:55:25.206228+00:00
 
  ## DreamStudio
+ - [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)
+ - date_published: 2024-08-18T13:10:11.289203+00:00
+
+ ## DreamStudio
  - [https://dreamstudio.ai](https://dreamstudio.ai)
  - date_published: 2023-07-26T17:44:15+00:00
 
@@ -3729,6 +3785,10 @@ Welcome
  ## Durable - Custom Software: Designed by you, Built by Generative AI.
  - [https://durable.ai](https://durable.ai)
  - date_published: 2024-05-29T16:52:40+00:00
+
+ ## Exactly.ai
+ - [https://www.durer.ai](https://www.durer.ai)
+ - date_published: 2024-08-18T13:10:13.310821+00:00
 
  ## DevRev AgentOS | Your Copilot For Software
  - [https://dvrv.ai](https://dvrv.ai)
@@ -3969,64 +4029,4 @@ Welcome
  ## EvolutionaryScale
  - [https://www.evolutionaryscale.ai](https://www.evolutionaryscale.ai)
  - date_published: 2024-07-03T00:00:00+00:00
-
- ## AI-led Experience Optimization | Evolv AI
- - [https://go.evolv.ai](https://go.evolv.ai)
- - date_published: 2024-07-04T12:13:25+00:00
-
- ## EVOTO, AI-powered Photo Editor
- - [https://www.evoto.ai](https://www.evoto.ai)
- - date_published: 2024-06-19T20:04:30.485425+00:00
-
- ## Exa API
- - [https://exa.ai](https://exa.ai)
- - date_published: 2024-06-23T11:27:14.231899+00:00
-
- ## Exactly.ai
- - [https://exactly.ai](https://exactly.ai)
- - date_published: 2024-07-10T01:49:20.350621+00:00
-
- ## #1 Conversational Marketing and Sales Platform - Exceed.ai
- - [https://exceed.ai](https://exceed.ai)
- - date_published: 2021-05-26T06:35:42+00:00
-
- ## ExcelMaster.ai
- - [https://excelmaster.ai](https://excelmaster.ai)
- - date_published: 2024-06-14T08:56:48.374464+00:00
-
- ## Exemplary AI - Your Content Repurposing Toolkit
- - [https://exemplary.ai](https://exemplary.ai)
- - date_published: 2024-06-19T21:23:35.050862+00:00
-
- ## explained.ai
- - [https://explained.ai](https://explained.ai)
- - date_published: 2022-06-18T22:24:27+00:00
-
- ## The Mechanics of Machine Learning
- - [https://mlbook.explained.ai](https://mlbook.explained.ai)
- - date_published: 2019-07-15T20:52:06+00:00
-
- ## ExplainThis
- - [https://explainthis.ai](https://explainthis.ai)
- - date_published: 2024-06-19T20:12:11.114331+00:00
-
- ## Explosion · Developer tools and consulting for AI, Machine Learning and NLP
- - [https://explosion.ai](https://explosion.ai)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Explosion status
- - [https://status.explosion.ai](https://status.explosion.ai)
- - date_published: 2024-06-22T13:05:49.737791+00:00
-
- ## ExtendImageAI - Expand your images with generative AI - Try it for free
- - [https://www.extendimage.ai](https://www.extendimage.ai)
- - date_published: 2024-06-19T20:54:58.037676+00:00
-
- ## Extropic | A new paradigm for computing
- - [https://extropic.ai](https://extropic.ai)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## EyeLevel.ai
- - [https://eyelevel.ai](https://eyelevel.ai)
- - date_published: 2024-06-19T00:00:00+00:00
 

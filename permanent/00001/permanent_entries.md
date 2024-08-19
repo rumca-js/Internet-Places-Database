@@ -1,3 +1,63 @@
+ ## AI-led Experience Optimization | Evolv AI
+ - [https://go.evolv.ai](https://go.evolv.ai)
+ - date_published: 2024-07-04T12:13:25+00:00
+
+ ## EVOTO, AI-powered Photo Editor
+ - [https://www.evoto.ai](https://www.evoto.ai)
+ - date_published: 2024-06-19T20:04:30.485425+00:00
+
+ ## Exa API
+ - [https://exa.ai](https://exa.ai)
+ - date_published: 2024-06-23T11:27:14.231899+00:00
+
+ ## Exactly.ai
+ - [https://exactly.ai](https://exactly.ai)
+ - date_published: 2024-07-10T01:49:20.350621+00:00
+
+ ## #1 Conversational Marketing and Sales Platform - Exceed.ai
+ - [https://exceed.ai](https://exceed.ai)
+ - date_published: 2021-05-26T06:35:42+00:00
+
+ ## ExcelMaster.ai
+ - [https://excelmaster.ai](https://excelmaster.ai)
+ - date_published: 2024-06-14T08:56:48.374464+00:00
+
+ ## Exemplary AI - Your Content Repurposing Toolkit
+ - [https://exemplary.ai](https://exemplary.ai)
+ - date_published: 2024-06-19T21:23:35.050862+00:00
+
+ ## explained.ai
+ - [https://explained.ai](https://explained.ai)
+ - date_published: 2022-06-18T22:24:27+00:00
+
+ ## The Mechanics of Machine Learning
+ - [https://mlbook.explained.ai](https://mlbook.explained.ai)
+ - date_published: 2019-07-15T20:52:06+00:00
+
+ ## ExplainThis
+ - [https://explainthis.ai](https://explainthis.ai)
+ - date_published: 2024-06-19T20:12:11.114331+00:00
+
+ ## Explosion · Developer tools and consulting for AI, Machine Learning and NLP
+ - [https://explosion.ai](https://explosion.ai)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Explosion status
+ - [https://status.explosion.ai](https://status.explosion.ai)
+ - date_published: 2024-06-22T13:05:49.737791+00:00
+
+ ## ExtendImageAI - Expand your images with generative AI - Try it for free
+ - [https://www.extendimage.ai](https://www.extendimage.ai)
+ - date_published: 2024-06-19T20:54:58.037676+00:00
+
+ ## Extropic | A new paradigm for computing
+ - [https://extropic.ai](https://extropic.ai)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## EyeLevel.ai
+ - [https://eyelevel.ai](https://eyelevel.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## ChatGPT for Gmail Free Chrome Extension | EzMail.AI
  - [https://www.ezmail.ai](https://www.ezmail.ai)
  - date_published: 2024-06-19T20:55:08.292418+00:00
@@ -71,12 +131,16 @@
  - date_published: 2024-06-21T11:28:03.025262+00:00
 
  ## Projects and Ramblings
- - [https://www.farley.ai](https://www.farley.ai)
+ - [https://farley.ai](https://farley.ai)
  - date_published: 2023-12-16T04:39:04.636256+00:00
 
  ## Faros AI | The AI-Native Engineering Intelligence Platform | A single pane view across velocity, quality, goals, and more!
  - [https://www.faros.ai](https://www.faros.ai)
  - date_published: 2024-06-19T04:45:26.258140+00:00
+
+ ## Farspeak - Desktop App For AI.
+ - [https://farspeak.ai](https://farspeak.ai)
+ - date_published: 2024-08-09T17:29:06+00:00
 
  ## Practical Deep Learning for Coders - Practical Deep Learning
  - [https://course.fast.ai](https://course.fast.ai)
@@ -311,7 +375,7 @@
  - date_published: 2024-01-09T02:23:16.980073+00:00
 
  ## https://www.flux.ai
- - [https://www.flux.ai](https://www.flux.ai)
+ - [https://flux.ai](https://flux.ai)
  - date_published: 2024-01-09T02:23:17.781528+00:00
 
  ## fluxi AI
@@ -365,6 +429,10 @@
  ## Formless by Typeform
  - [https://formless.ai](https://formless.ai)
  - date_published: 2024-05-10T02:43:09.886746+00:00
+
+ ## CE marking your medical device, made easy
+ - [https://www.formly.ai](https://www.formly.ai)
+ - date_published: 2024-08-14T00:00:00+00:00
 
  ## FounderPal — Marketing Tools for Solopreneurs Who Hate Marketing
  - [https://founderpal.ai](https://founderpal.ai)
@@ -425,6 +493,10 @@
  ## AI Girlfriend Builder - Chat and Generate Images
  - [https://www.funfun.ai](https://www.funfun.ai)
  - date_published: 2024-07-10T00:00:00+00:00
+
+ ## FunnelStory
+ - [https://funnelstory.ai](https://funnelstory.ai)
+ - date_published: 2024-08-18T23:00:11.549749+00:00
 
  ## furl | Proactively Remediate Risks with Confidence using Autonomous AI
  - [https://furl.ai](https://furl.ai)
@@ -500,11 +572,19 @@
  - date_published: 2024-06-11T00:00:00+00:00
 
  ## Chat with Dot
+ - [https://app.getdot.ai](https://app.getdot.ai)
+ - date_published: 2024-08-10T19:42:04+00:00
+
+ ## What's Dot? | Dot
+ - [https://docs.getdot.ai](https://docs.getdot.ai)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Chat with Dot
  - [https://eu.getdot.ai](https://eu.getdot.ai)
  - date_published: 2023-12-20T18:54:04.626569+00:00
 
  ## Dot - Chat with your Data
- - [https://www.getdot.ai](https://www.getdot.ai)
+ - [https://getdot.ai](https://getdot.ai)
  - date_published: 2023-12-20T18:54:07.783257+00:00
 
  ## Your Personal Ai Assistant for Content & SEO | GetGenie Ai
@@ -522,6 +602,10 @@
  ## Intelekt - Leading enterprise teams saved $100Mn+ with Intelekt AI
  - [https://getintelekt.ai](https://getintelekt.ai)
  - date_published: 2024-05-08T06:21:28.572891+00:00
+
+ ## Lemon AI - Custom LLMs for everyone
+ - [https://getlemon.ai](https://getlemon.ai)
+ - date_published: 2024-07-10T00:00:00+00:00
 
  ## Leon - Your Open-Source Personal Assistant
  - [https://getleon.ai](https://getleon.ai)
@@ -666,6 +750,10 @@
  ## GooseAI - Stop overpaying for your AI infrastructure.
  - [https://goose.ai](https://goose.ai)
  - date_published: 2024-06-19T19:21:43.768301+00:00
+
+ ## GoSecure - Homepage
+ - [https://gosecure.ai](https://gosecure.ai)
+ - date_published: 2024-08-01T00:00:00+00:00
 
  ## Centre for the Governance of AI | Home
  - [https://www.governance.ai](https://www.governance.ai)
@@ -1075,6 +1163,10 @@
  - [https://ideamap.ai](https://ideamap.ai)
  - date_published: 2024-06-11T14:53:37+00:00
 
+ ## Revenue Institute | Revenue Operations & Data Analytics
+ - [https://app.identitymatrix.ai](https://app.identitymatrix.ai)
+ - date_published: 2024-08-15T10:32:46+00:00
+
  ## Attention Required! | Cloudflare
  - [https://ideogram.ai](https://ideogram.ai)
  - date_published: 2024-06-16T19:20:46.516638+00:00
@@ -1106,6 +1198,10 @@
  ## FC'20 : Financial Cryptography 2020
  - [https://fc20.ifca.ai](https://fc20.ifca.ai)
  - date_published: 2024-05-02T09:52:22.693822+00:00
+
+ ## FC'23 : Financial Cryptography 2023
+ - [http://fc23.ifca.ai](http://fc23.ifca.ai)
+ - date_published: 2024-08-18T07:32:55.976794+00:00
 
  ## FC'24 : Financial Cryptography 2024
  - [http://fc24.ifca.ai](http://fc24.ifca.ai)
@@ -1603,6 +1699,14 @@
  ## KindBuds.ai - Build a Bot
  - [https://www.kindbuds.ai](https://www.kindbuds.ai)
  - date_published: 2024-03-05T04:13:47+00:00
+
+ ## Kindness
+ - [https://kindness.ai](https://kindness.ai)
+ - date_published: 2024-08-18T13:06:13.552507+00:00
+
+ ## Kineo.ai
+ - [https://kineo.ai](https://kineo.ai)
+ - date_published: 2024-08-06T00:00:00+00:00
 
  ## Meet KLapper Legal Assistant - KLapper
  - [https://klapper.ai](https://klapper.ai)
@@ -2382,6 +2486,10 @@
  - [https://mealgenie.ai](https://mealgenie.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## Mediadesk
+ - [https://ads.mediadesk.ai](https://ads.mediadesk.ai)
+ - date_published: 2024-08-18T14:10:10.305869+00:00
+
  ## Home
  - [https://meetcody.ai](https://meetcody.ai)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -2552,6 +2660,10 @@
  - date_published: 2023-10-25T11:40:19.092823+00:00
  - tags: ['artificial intelligence model']
 
+ ## Mixedbread
+ - [https://www.mixedbread.ai](https://www.mixedbread.ai)
+ - date_published: 2024-08-12T00:00:00+00:00
+
  ## MK-1
  - [https://mkone.ai](https://mkone.ai)
  - date_published: 2023-10-25T11:40:20.474986+00:00
@@ -2567,6 +2679,10 @@
  ## WebLLM | Home
  - [https://webllm.mlc.ai](https://webllm.mlc.ai)
  - date_published: 2023-10-25T11:40:28.374404+00:00
+
+ ## Global ML Conferences 2024 | Innovating Machine Learning Worldwide
+ - [https://mlconference.ai](https://mlconference.ai)
+ - date_published: 2024-08-18T23:58:45+00:00
 
  ## MLRS 2023
  - [https://www.mlrs.ai](https://www.mlrs.ai)
@@ -2720,6 +2836,10 @@
  ## Kin. A personal AI for your private life.
  - [https://mykin.ai](https://mykin.ai)
  - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Mylinks | Bio pages made for creators.
+ - [https://mylinks.ai](https://mylinks.ai)
+ - date_published: 2024-08-18T11:59:46.433424+00:00
 
  ## AI Math Solver Powered by Math GPT Free Online
  - [https://mymathsolver.ai](https://mymathsolver.ai)
@@ -2939,6 +3059,10 @@
  - [https://notegenie.ai](https://notegenie.ai)
  - date_published: 2024-06-19T19:35:13.614935+00:00
 
+ ## Notion AI | Now with Q&A
+ - [https://www.notion.ai](https://www.notion.ai)
+ - date_published: 2024-08-18T13:10:25.406427+00:00
+
  ## Notionsmith
  - [https://notionsmith.ai](https://notionsmith.ai)
  - date_published: 2024-06-19T19:40:12.096242+00:00
@@ -3100,6 +3224,14 @@
  - [https://www.openpaws.ai](https://www.openpaws.ai)
  - date_published: 2024-07-06T19:51:05.119636+00:00
 
+ ## OpenPipe: Fine-tuning for production apps
+ - [https://app.openpipe.ai](https://app.openpipe.ai)
+ - date_published: 2024-08-18T14:04:30.394610+00:00
+
+ ## OpenPipe Documentation - OpenPipe
+ - [https://docs.openpipe.ai](https://docs.openpipe.ai)
+ - date_published: 2024-08-18T14:04:28.895577+00:00
+
  ## OpenPipe: Fine-Tuning for Developers
  - [https://openpipe.ai](https://openpipe.ai)
  - date_published: 2023-11-08T18:45:06.077157+00:00
@@ -3217,6 +3349,22 @@
  - [https://blog.oxen.ai](https://blog.oxen.ai)
  - date_published: 2023-11-27T04:06:39.316301+00:00
 
+ ## 🐂 What is Oxen? - Oxen.ai
+ - [https://docs.oxen.ai](https://docs.oxen.ai)
+ - date_published: 2024-08-18T12:24:28.164001+00:00
+
+ ## Oxen.ai
+ - [https://ghost.oxen.ai](https://ghost.oxen.ai)
+ - date_published: 2024-08-18T12:24:20.927282+00:00
+
+ ## Home | Oxen.ai
+ - [https://oxen.ai](https://oxen.ai)
+ - date_published: 2024-08-18T12:24:26.641250+00:00
+
+ ## Home | Oxen.ai
+ - [https://www.oxen.ai](https://www.oxen.ai)
+ - date_published: 2024-08-18T12:24:23.842661+00:00
+
  ## PageGenie
  - [https://pagegenie.ai](https://pagegenie.ai)
  - date_published: 2024-06-13T00:00:00+00:00
@@ -3284,6 +3432,10 @@
  ## Patterned AI
  - [https://www.patterned.ai](https://www.patterned.ai)
  - date_published: 2024-06-19T21:12:34.477033+00:00
+
+ ## Paxo: AI meeting notes for the real world
+ - [https://paxo.ai](https://paxo.ai)
+ - date_published: 2023-09-22T00:00:00+00:00
 
  ## PDF.ai | Chat with your PDF documents
  - [https://pdf.ai](https://pdf.ai)
@@ -3764,6 +3916,14 @@
  - [https://punchlines.ai](https://punchlines.ai)
  - date_published: 2023-10-25T11:41:38.149007+00:00
 
+ ## Quackcheck
+ - [https://quackcheck.puny.ai](https://quackcheck.puny.ai)
+ - date_published: 2023-09-25T22:10:22+00:00
+
+ ## Walking With
+ - [https://walkingwith.puny.ai](https://walkingwith.puny.ai)
+ - date_published: 2023-08-09T13:15:06+00:00
+
  ## Purple Wave
  - [https://purplewave.ai](https://purplewave.ai)
  - date_published: 2023-04-23T22:05:55+00:00
@@ -3861,164 +4021,4 @@
  ## QR code generator - QRCode AI
  - [https://qrcode.ai](https://qrcode.ai)
  - date_published: 2024-06-19T20:06:39.737756+00:00
-
- ## 큐샵 Qshop
- - [https://qshop.ai](https://qshop.ai)
- - date_published: 2024-06-25T20:32:58.050581+00:00
-
- ## Quadrature
- - [https://quadrature.ai](https://quadrature.ai)
- - date_published: 2024-07-02T16:05:07+00:00
-
- ## Home - Qualifyed
- - [https://qualifyed.ai](https://qualifyed.ai)
- - date_published: 2023-03-16T00:00:00+00:00
-
- ## Sales Training Software: AI Role-Play and Coaching | Quantified
- - [https://www.quantified.ai](https://www.quantified.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Turn your content into an AI copilot | Quench
- - [https://quench.ai](https://quench.ai)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## The easiest way to build React Apps | Figma to React | Quest
- - [https://www.quest.ai](https://www.quest.ai)
- - date_published: 2024-06-19T21:14:23.685172+00:00
-
- ## Questgen - AI Powered Quiz Generator
- - [https://www.questgen.ai](https://www.questgen.ai)
- - date_published: 2024-06-19T21:25:53.821883+00:00
-
- ## Quickchat AI | Custom AI Assistant for your business
- - [https://www.quickchat.ai](https://www.quickchat.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Quickcode
- - [https://hs.quickcode.ai](https://hs.quickcode.ai)
- - date_published: 2024-07-10T15:51:33+00:00
-
- ## Home
- - [https://quickcode.ai](https://quickcode.ai)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Quicklines Lifetime Access | Only $59
- - [https://www.quicklines.ai](https://www.quicklines.ai)
- - date_published: 2023-12-29T00:00:00+00:00
-
- ## Instant AI Clip Generation | QuickVid
- - [https://quickvid.ai](https://quickvid.ai)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## QuillNow – AI-Powered Language Analysis for the Writing Community - QuillNow - Content Assessment Platform
- - [https://www.quillnow.ai](https://www.quillnow.ai)
- - date_published: 2024-03-02T04:22:31+00:00
-
- ## Quino - AI for Students
- - [https://quino.ai](https://quino.ai)
- - date_published: 2024-06-19T19:57:27.286267+00:00
-
- ## Quizbot - AI Question Generator | Differentiated Tests & Quizzes
- - [https://quizbot.ai](https://quizbot.ai)
- - date_published: 2024-06-19T19:24:43.496180+00:00
-
- ## Preventing the Unpreventable | Qwietᴬᴵ
- - [https://qwiet.ai](https://qwiet.ai)
- - date_published: 2024-07-09T17:39:55.963076+00:00
-
- ## Radix - Superpowering People with Artificial Intelligence
- - [https://radix.ai](https://radix.ai)
- - date_published: 2024-04-29T04:02:24.291363+00:00
-
- ## Raffle Insights
- - [https://app.raffle.ai](https://app.raffle.ai)
- - date_published: 2024-06-20T05:52:40.779330+00:00
-
- ## Documentation
- - [https://docs.raffle.ai](https://docs.raffle.ai)
- - date_published: 2024-06-04T13:50:21+00:00
-
- ## Raffle AI Search and AI Chat
- - [https://raffle.ai](https://raffle.ai)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## RAIDAY | Rapid AI DAta Yields
- - [https://raiday.ai](https://raiday.ai)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## RankNow.ai for ChatGPT
- - [https://ranknow.ai](https://ranknow.ai)
- - date_published: 2024-06-19T21:21:18.069642+00:00
-
- ## AI SEO Tool | Increase your traffic using AI | Rankster
- - [https://rankster.ai](https://rankster.ai)
- - date_published: 2024-06-19T14:07:12+00:00
-
- ## Rapid Claims AI - Medical Coding Made Easy
- - [https://coding.rapidclaims.ai](https://coding.rapidclaims.ai)
- - date_published: 2024-07-18T05:22:28.186354+00:00
-
- ## Rapid Claims AI - Autonomous medical coding and documentation
- - [https://rapidclaims.ai](https://rapidclaims.ai)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home - RAPIDS Docs
- - [https://docs.rapids.ai](https://docs.rapids.ai)
- - date_published: 2024-05-19T02:41:25.554932+00:00
-
- ## RAPIDS | GPU Accelerated Data Science
- - [http://rapids.ai](http://rapids.ai)
- - date_published: 2024-07-20T11:03:12.024064+00:00
-
- ## Leading AI video localization & dubbing tool
- - [https://www.rask.ai](https://www.rask.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Read AI
- - [https://app.read.ai](https://app.read.ai)
- - date_published: 2024-05-04T09:19:01.175170+00:00
-
- ## Automated Meeting Reports, Transcripts, Notes, Video, Coaching, Scheduling | Read
- - [https://www.read.ai](https://www.read.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## RealChar.
- - [https://realchar.ai](https://realchar.ai)
- - date_published: 2024-06-19T19:34:44.206513+00:00
-
- ## Rebind | Read Like Never Before With Experts, AI, & Original Content
- - [https://rebind.ai](https://rebind.ai)
- - date_published: 2024-06-28T19:19:11+00:00
-
- ## Trust Center
- - [https://security.recall.ai](https://security.recall.ai)
- - date_published: 2024-05-09T05:39:10.389251+00:00
-
- ## Reclaim | A smart friend for your calendar
- - [https://app.reclaim.ai](https://app.reclaim.ai)
- - date_published: 2024-06-23T08:16:01.569941+00:00
-
- ## Reclaim.ai Help Center
- - [https://help.reclaim.ai](https://help.reclaim.ai)
- - date_published: 2024-06-23T08:15:52.333760+00:00
-
- ## Reclaim AI | Smart Scheduling App for Teams
- - [https://reclaim.ai](https://reclaim.ai)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Reclaim Status
- - [https://status.reclaim.ai](https://status.reclaim.ai)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Reclaim.ai Reclaim.ai Trust Center | Powered by SafeBase
- - [https://trust.reclaim.ai](https://trust.reclaim.ai)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Reclaim | Product Updates
- - [https://updates.reclaim.ai](https://updates.reclaim.ai)
- - date_published: 2024-06-23T08:15:53.706953+00:00
-
- ## Identity-Centric SaaS Security Platform | Reco
- - [https://reco.ai](https://reco.ai)
- - date_published: 2024-04-25T00:00:00+00:00
 

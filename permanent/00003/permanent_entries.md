@@ -1,3 +1,240 @@
+ ## AnySummary - Summarize any file with AI.
+ - [https://www.anysummary.app](https://www.anysummary.app)
+ - date_published: 2024-06-19T19:57:16.441219+00:00
+
+ ## Anytime Podcast Player
+ - [https://anytimeplayer.app](https://anytimeplayer.app)
+ - date_published: 2024-04-10T15:11:08+00:00
+
+ ## AppBlock - Stay focused on iOS and Android
+ - [https://appblock.app](https://appblock.app)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Approximated.app
+ - [https://approximated.app](https://approximated.app)
+ - date_published: 2024-06-18T17:17:44+00:00
+
+ ## Arcwise
+ - [https://arcwise.app](https://arcwise.app)
+ - date_published: 2024-05-08T17:00:09+00:00
+
+ ## Aryan Naraghi's personal website
+ - [https://aryan.app](https://aryan.app)
+ - date_published: 2024-07-23T23:28:12.744802+00:00
+
+ ## Overview
+ - [https://asknotion.app](https://asknotion.app)
+ - date_published: 2024-06-19T20:55:50.398579+00:00
+
+ ## Socrates - Summarize and explain any PDF or DOCX
+ - [https://asksocrates.app](https://asksocrates.app)
+ - date_published: 2024-06-11T07:21:53+00:00
+
+ ## Atopics
+ - [https://atopic.app](https://atopic.app)
+ - date_published: 2024-07-13T16:13:29.863133+00:00
+
+ ## Device integrity monitoring
+ - [https://attestation.app](https://attestation.app)
+ - date_published: 2024-02-24T10:01:24.175770+00:00
+
+ ## Auction Today
+ - [https://admin.auctiontoday.app](https://admin.auctiontoday.app)
+ - date_published: 2024-07-02T10:08:53+00:00
+
+ ## Audiogest: Transcribe and summarize your audio and video
+ - [https://audiogest.app](https://audiogest.app)
+ - date_published: 2024-05-11T06:55:07.593290+00:00
+
+ ## Loading…
+ - [https://directus.audiogest.app](https://directus.audiogest.app)
+ - date_published: 2024-07-13T09:07:06.013698+00:00
+
+ ## AutoWrite - The Best AI SEO Writer
+ - [https://autowrite.app](https://autowrite.app)
+ - date_published: 2024-06-19T21:07:34.671668+00:00
+
+ ## Avain.app
+ - [https://avain.app](https://avain.app)
+ - date_published: 2024-06-03T11:17:56.677551+00:00
+
+ ## Avanty - AI assistant for data analysts in Metabase.
+ - [https://avanty.app](https://avanty.app)
+ - date_published: 2024-06-19T19:32:57.345354+00:00
+
+ ## Awtomic Subscriptions
+ - [https://help.awtomatic.app](https://help.awtomatic.app)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Youtube Summarizer - Summarize any YouTube Video
+ - [https://yt.azen.app](https://yt.azen.app)
+ - date_published: 2024-06-14T08:57:18.044415+00:00
+
+ ## Azimutt · Database explorer and analyzer
+ - [https://azimutt.app](https://azimutt.app)
+ - date_published: 2024-06-19T22:21:49+00:00
+
+ ## Bally Live
+ - [https://applink.ballylive.app](https://applink.ballylive.app)
+ - date_published: 2023-03-28T21:55:08+00:00
+
+ ## BananaBin
+ - [https://bananabin.app](https://bananabin.app)
+ - date_published: 2024-07-02T13:34:04+00:00
+
+ ## Show HN: BandMatch – "Tinder" but for finding musicians to create bands/collab
+ - [https://bandmatch.app](https://bandmatch.app)
+ - date_published: 2024-05-03T18:11:25+00:00
+
+ ## Bar Assistant
+ - [https://barassistant.app](https://barassistant.app)
+ - date_published: 2024-04-08T19:27:06.124403+00:00
+ - tags: ['self-host']
+
+ ## Bar Assistant
+ - [https://docs.barassistant.app](https://docs.barassistant.app)
+ - date_published: 2024-06-30T09:57:17+00:00
+
+ ## Bar Assistant
+ - [https://my.barassistant.app](https://my.barassistant.app)
+ - date_published: 2024-05-14T03:35:07.703869+00:00
+
+ ## BarGPT, AI Generated Cocktail Recipes
+ - [https://www.bargpt.app](https://www.bargpt.app)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Barista Bot | Coffee Ordering AI
+ - [https://baristabot.app](https://baristabot.app)
+ - date_published: 2024-04-19T16:01:00+00:00
+
+ ## Bear
+ - [https://bear.app](https://bear.app)
+ - date_published: 2024-05-04T14:03:16.127978+00:00
+
+ ## Bear: Flexible notes, beautiful writing on Mac, iPad, iPhone, and Apple Watch
+ - [https://blog.bear.app](https://blog.bear.app)
+ - date_published: 2024-06-21T20:53:58.531013+00:00
+
+ ## Bear Community
+ - [https://community.bear.app](https://community.bear.app)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Bearable Symptom Tracker App | Pain & Mental Health Journal
+ - [https://bearable.app](https://bearable.app)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Beatmapper
+ - [https://beatmapper.app](https://beatmapper.app)
+ - date_published: 2023-11-20T03:27:41+00:00
+
+ ## Bigcapital | Core Accounting Software
+ - [https://bigcapital.app](https://bigcapital.app)
+ - date_published: 2024-05-08T16:50:18.847614+00:00
+
+ ## Bigcapital Community
+ - [https://community.bigcapital.app](https://community.bigcapital.app)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Introduction | Bigcapital Learning Central
+ - [https://docs.bigcapital.app](https://docs.bigcapital.app)
+ - date_published: 2024-07-08T18:54:00.909740+00:00
+
+ ## Bigcapital
+ - [https://my.bigcapital.app](https://my.bigcapital.app)
+ - date_published: 2024-07-04T07:10:22+00:00
+
+ ## bigWav.app - Free audio transcription | Private audio transcription & annotation
+ - [https://bigwav.app](https://bigwav.app)
+ - date_published: 2023-10-25T11:45:40.228348+00:00
+
+ ## Sign in
+ - [https://btcpayserver.bitcoinjungle.app](https://btcpayserver.bitcoinjungle.app)
+ - date_published: 2024-05-12T05:41:18.187759+00:00
+
+ ## Bitcoin Magazine App — Read, Learn, and Earn Bitcoin Rewards
+ - [https://bitcoinmagazine.app](https://bitcoinmagazine.app)
+ - date_published: 2023-04-12T00:00:00+00:00
+
+ ## BlackTwist —  Easily grow your audience on Threads.
+ - [https://blacktwist.app](https://blacktwist.app)
+ - date_published: 2024-07-11T19:39:35.488760+00:00
+
+ ## Blizzy: AI-Powered Marketing Assistant with Your Own Knowledgebase for Creative Content Creation and Optimized Strategies
+ - [https://blizzy.app](https://blizzy.app)
+ - date_published: 2024-06-19T19:12:46.476825+00:00
+
+ ## Bloks – Get Briefed like a Boss
+ - [https://www.bloks.app](https://www.bloks.app)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Blowater
+ - [https://blowater.app](https://blowater.app)
+ - date_published: 2024-08-18T09:39:42.248936+00:00
+
+ ## Adtech Solution for Publishers | BlueStack
+ - [https://developers.bluestack.app](https://developers.bluestack.app)
+ - date_published: 2024-05-06T17:48:49.667228+00:00
+
+ ## Free WhatsApp Chat with Bollywood's biggest stars | BOLLYWOODAI
+ - [https://www.bollywoodai.app](https://www.bollywoodai.app)
+ - date_published: 2024-06-19T19:27:26.289703+00:00
+
+ ## Books by AI
+ - [https://booksbyai.app](https://booksbyai.app)
+ - date_published: 2023-11-16T14:14:55.138763+00:00
+
+ ## Bopple - Order pick-up, delivery & dine-in.
+ - [https://bopple.app](https://bopple.app)
+ - date_published: 2024-06-18T06:31:55.025119+00:00
+
+ ## Borogove Snippet
+ - [https://embedded-snippet.borogove.app](https://embedded-snippet.borogove.app)
+ - date_published: 2020-10-19T07:28:04+00:00
+
+ ## Borogove
+ - [https://snippets.borogove.app](https://snippets.borogove.app)
+ - date_published: 2023-10-09T18:33:16+00:00
+
+ ## Braavos - a StarkNet Wallet
+ - [https://braavos.app](https://braavos.app)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Asisten AI - Brainy Buddy
+ - [https://brainybuddy.app](https://brainybuddy.app)
+ - date_published: 2024-04-27T16:47:03.988000+00:00
+
+ ## Blockchain Analytics: Crypto Tracker | Breadcrumbs Crypto
+ - [https://www.breadcrumbs.app](https://www.breadcrumbs.app)
+ - date_published: 2024-06-17T09:08:43.926079+00:00
+
+ ## Three Lessons from Threema: Analysis of a Secure Messenger
+ - [https://breakingthe3ma.app](https://breakingthe3ma.app)
+ - date_published: 2023-10-25T11:45:41.239888+00:00
+
+ ## Personal shield against stress and anxiety
+ - [https://breathhh.app](https://breathhh.app)
+ - date_published: 2024-06-19T21:12:36.788863+00:00
+
+ ## Brickit — Build new things from your good old bricks
+ - [https://brickit.app](https://brickit.app)
+ - date_published: 2023-10-25T11:45:42.715788+00:00
+
+ ## Brick Search for LEGO Sets -- LEGO instructions app, LEGO collection app
+ - [https://bricksearch.app](https://bricksearch.app)
+ - date_published: 2024-05-11T08:49:34.149822+00:00
+
+ ## Bricksee: Helping Reorganise Your Bricks
+ - [https://www.bricksee.app](https://www.bricksee.app)
+ - date_published: 2024-01-28T10:48:01+00:00
+
+ ## briefsky
+ - [https://briefsky.app](https://briefsky.app)
+ - date_published: 2023-10-25T11:45:43.143483+00:00
+
+ ## Welcome to nginx!
+ - [https://static.browsed.app](https://static.browsed.app)
+ - date_published: 2023-04-11T01:45:34+00:00
+
  ## Bluesky Social
  - [https://bsky.app](https://bsky.app)
  - date_published: 2023-10-24T20:12:24.937402+00:00
@@ -216,6 +453,10 @@
  - [https://coderev.app](https://coderev.app)
  - date_published: 2024-02-19T11:46:49+00:00
 
+ ## Coinbits – You can bitcoin
+ - [https://coinbits.app](https://coinbits.app)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## Crypto Tracker Trusted by 1 Million People Worldwide
  - [https://coinstats.app](https://coinstats.app)
  - date_published: 2024-07-03T10:45:02.219103+00:00
@@ -304,6 +545,10 @@
  ## Browse, organise, search and switch tabs with one simple shortcut
  - [https://controlspace.app](https://controlspace.app)
  - date_published: 2024-05-02T11:41:43.845843+00:00
+
+ ## CopyMonkey - Лучший AI копирайтер
+ - [https://www.copymonkey.app](https://www.copymonkey.app)
+ - date_published: 2023-07-28T00:00:00+00:00
 
  ## Open-Source-Projekt Corona-Warn-App
  - [https://www.coronawarn.app](https://www.coronawarn.app)
@@ -462,6 +707,10 @@
  - date_published: 2023-10-25T11:45:57.324167+00:00
  - tags: ['dating']
 
+ ## Hello from Dawarich | Dawarich
+ - [https://dawarich.app](https://dawarich.app)
+ - date_published: 2024-08-18T13:06:54.877394+00:00
+
  ## Day One Journal
  - [https://www.dayone.app](https://www.dayone.app)
  - date_published: 2024-06-27T13:24:09.037578+00:00
@@ -546,6 +795,10 @@
  - [https://docconverter.app](https://docconverter.app)
  - date_published: 2023-10-25T11:45:58.590918+00:00
 
+ ## Docstr
+ - [https://docstr.app](https://docstr.app)
+ - date_published: 2024-08-18T22:04:05.747224+00:00
+
  ## Login
  - [https://donate2.app](https://donate2.app)
  - date_published: 2024-07-09T16:50:07.318706+00:00
@@ -601,6 +854,10 @@
  ## Duolicious
  - [https://web.duolicious.app](https://web.duolicious.app)
  - date_published: 2024-07-20T04:55:39.841080+00:00
+
+ ## EarTrumpet
+ - [https://eartrumpet.app](https://eartrumpet.app)
+ - date_published: 2024-04-21T17:49:07+00:00
 
  ## Easy Indie App
  - [https://easyindie.app](https://easyindie.app)
@@ -912,6 +1169,10 @@
  - date_published: 2024-06-23T07:44:01.116009+00:00
 
  ## Sign in - Google Accounts
+ - [https://ilh-prod-firebase-default-rtdb.europe-west1.firebasedatabase.app](https://ilh-prod-firebase-default-rtdb.europe-west1.firebasedatabase.app)
+ - date_published: 2024-08-18T11:08:54.842065+00:00
+
+ ## Sign in - Google Accounts
  - [https://onlive-site-default-rtdb.europe-west1.firebasedatabase.app](https://onlive-site-default-rtdb.europe-west1.firebasedatabase.app)
  - date_published: 2024-05-26T13:41:29.568394+00:00
 
@@ -988,6 +1249,10 @@
  - [https://show.forms.app](https://show.forms.app)
  - date_published: 2024-05-08T09:35:31.886590+00:00
 
+ ## Formstr
+ - [https://formstr.app](https://formstr.app)
+ - date_published: 2024-05-07T07:04:31+00:00
+
  ## Excel AI Formula generator
  - [https://formulagenerator.app](https://formulagenerator.app)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -1040,6 +1305,10 @@
  - [https://fynbos.app](https://fynbos.app)
  - date_published: 2023-10-25T11:46:36.807356+00:00
 
+ ## Gaul
+ - [https://www.gaul.app](https://www.gaul.app)
+ - date_published: 2023-12-18T16:54:57+00:00
+
  ## GearedApp | Web & Mobile App Development Agency
  - [https://geared.app](https://geared.app)
  - date_published: 2022-03-04T22:23:54+00:00
@@ -1087,6 +1356,10 @@
  ## Lotus
  - [https://getlotus.app](https://getlotus.app)
  - date_published: 2024-05-06T21:28:43.934553+00:00
+
+ ## Mammoth: Social you control
+ - [https://getmammoth.app](https://getmammoth.app)
+ - date_published: 2024-08-18T06:41:42.211236+00:00
 
  ## Micro
  - [https://www.getmicro.app](https://www.getmicro.app)
@@ -1181,6 +1454,10 @@
  - [https://gradio.app](https://gradio.app)
  - date_published: 2024-06-20T10:51:49.565528+00:00
 
+ ## Grainery - The Film Photography App
+ - [https://grainery.app](https://grainery.app)
+ - date_published: 2024-06-18T20:00:51+00:00
+
  ## Graphy - The fastest way to visualize and share your data
  - [https://graphy.app](https://graphy.app)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -1205,9 +1482,17 @@
  - [https://grep.app](https://grep.app)
  - date_published: 2023-10-25T11:46:38.184757+00:00
 
+ ## GroupFlow
+ - [https://www.groupflow.app](https://www.groupflow.app)
+ - date_published: 2024-08-18T20:51:45.199247+00:00
+
  ## Guess The Book - Your daily book guessing puzzle!
  - [https://guessthebook.app](https://guessthebook.app)
  - date_published: 2024-05-08T00:42:38.698529+00:00
+
+ ## HabitBoard: simple and flexible habit tracker
+ - [https://habitboard.app](https://habitboard.app)
+ - date_published: 2024-04-17T12:33:24+00:00
 
  ## Nest Guides
  - [https://guides.hackclub.app](https://guides.hackclub.app)
@@ -1292,6 +1577,10 @@
  ## Hive | Fulfillment Provider | All-in-one Operations
  - [https://www.hive.app](https://www.hive.app)
  - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Hive Social
+ - [https://hivesocial.app](https://hivesocial.app)
+ - date_published: 2024-02-16T00:00:00+00:00
 
  ## Introduction | Hoarder Docs
  - [https://docs.hoarder.app](https://docs.hoarder.app)
@@ -1394,6 +1683,10 @@
  - [https://hyperproof.app](https://hyperproof.app)
  - date_published: 2024-07-12T17:00:22+00:00
 
+ ## IAte - an AI food tracking app
+ - [https://iate.app](https://iate.app)
+ - date_published: 2024-08-15T20:30:50+00:00
+
  ## ICDevs Governance Tool
  - [https://77i6o-oqaaa-aaaag-qbm6q-cai.ic0.app](https://77i6o-oqaaa-aaaag-qbm6q-cai.ic0.app)
  - date_published: 2024-07-24T07:01:56.715349+00:00
@@ -1450,6 +1743,10 @@
  ## Inkdrop - Note-taking App with Robust Markdown Editor
  - [https://www.inkdrop.app](https://www.inkdrop.app)
  - date_published: 2024-07-09T15:52:18.954370+00:00
+
+ ## Instagram Line Break Generator | Add IG line breaks to your captions on Instagram
+ - [https://instagramlinebreak.app](https://instagramlinebreak.app)
+ - date_published: 2024-08-18T03:11:34.403881+00:00
 
  ## instaprice
  - [https://instaprice.app](https://instaprice.app)
@@ -1572,6 +1869,10 @@
  - [https://kimchi-reader.app](https://kimchi-reader.app)
  - date_published: 2024-01-09T02:23:29.846254+00:00
 
+ ## umami
+ - [https://umami.kimchi-reader.app](https://umami.kimchi-reader.app)
+ - date_published: 2024-08-18T05:32:30.616102+00:00
+
  ## kindaVim
  - [https://kindavim.app](https://kindavim.app)
  - date_published: 2024-05-10T07:00:29.670714+00:00
@@ -1583,6 +1884,10 @@
  ## Kindllm - LLM chat for Kindle
  - [https://kindllm.app](https://kindllm.app)
  - date_published: 2023-07-21T00:00:00+00:00
+
+ ## Knock Docs
+ - [https://docs.knock.app](https://docs.knock.app)
+ - date_published: 2024-08-18T10:52:30.024103+00:00
 
  ## Knock | Notifications infrastructure for developers
  - [https://knock.app](https://knock.app)
@@ -1938,6 +2243,10 @@
  - [https://www.magicform.app](https://www.magicform.app)
  - date_published: 2024-06-19T20:57:42.746452+00:00
 
+ ## Magic Maps 2: Now You See It.
+ - [https://magicmaps.app](https://magicmaps.app)
+ - date_published: 2020-05-05T17:59:11+00:00
+
  ## AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI
  - [https://www.magicslides.app](https://www.magicslides.app)
  - date_published: 2024-06-19T20:38:41.927054+00:00
@@ -2027,6 +2336,10 @@
  - [https://meetspace.app](https://meetspace.app)
  - date_published: 2024-05-08T12:18:20.114776+00:00
 
+ ## Memestr
+ - [https://memestr.app](https://memestr.app)
+ - date_published: 2024-07-02T14:14:53+00:00
+
  ## mmhmm | Video call companion app and quick video recorder
  - [https://www.memix.app](https://www.memix.app)
  - date_published: 2024-07-03T04:36:03.453754+00:00
@@ -2034,6 +2347,10 @@
  ## Middle
  - [https://middleclick.app](https://middleclick.app)
  - date_published: 2024-06-22T06:22:39.792621+00:00
+
+ ## Mihon
+ - [https://mihon.app](https://mihon.app)
+ - date_published: 2024-01-18T00:00:00+00:00
 
  ## Mikage: A 3DS emulator for PC & Android
  - [https://mikage.app](https://mikage.app)
@@ -2503,6 +2820,10 @@
  - [https://deploy-preview-1759--frosty-austin-928e43.netlify.app](https://deploy-preview-1759--frosty-austin-928e43.netlify.app)
  - date_published: 2024-07-23T21:17:54.944431+00:00
 
+ ## KubeVirt user guide
+ - [https://deploy-preview-751--kubevirt-user-guide.netlify.app](https://deploy-preview-751--kubevirt-user-guide.netlify.app)
+ - date_published: 2024-08-18T07:44:43.347400+00:00
+
  ## Depth Editing Application
  - [https://depth-app.netlify.app](https://depth-app.netlify.app)
  - date_published: 2024-07-21T09:41:43.798179+00:00
@@ -2882,6 +3203,10 @@
  - [https://nosretraites-simulateur-cas-types.netlify.app](https://nosretraites-simulateur-cas-types.netlify.app)
  - date_published: 2024-07-08T10:48:44.131125+00:00
 
+ ## Nostrandom
+ - [https://nostrandom.netlify.app](https://nostrandom.netlify.app)
+ - date_published: 2024-08-18T22:02:39.689203+00:00
+
  ## Harry Potter and the Sacred Text
  - [https://not-sorry.netlify.app](https://not-sorry.netlify.app)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -2950,6 +3275,10 @@
  - [https://polygram.netlify.app](https://polygram.netlify.app)
  - date_published: 2024-07-02T20:17:35.084757+00:00
 
+ ## Props Color Finder
+ - [https://props-color-finder.netlify.app](https://props-color-finder.netlify.app)
+ - date_published: 2024-08-18T16:03:03.238438+00:00
+
  ## Pure CSS Website
  - [https://pure-css-site.netlify.app](https://pure-css-site.netlify.app)
  - date_published: 2024-03-22T18:34:56+00:00
@@ -2966,6 +3295,10 @@
  ## Capsule Documentation | Capsule: Kubernetes Operator for multi-tenancy
  - [https://quizzical-roentgen-574926.netlify.app](https://quizzical-roentgen-574926.netlify.app)
  - date_published: 2024-07-13T09:31:48.267778+00:00
+
+ ## CSS transitions
+ - [https://react-css-transitions-demo.netlify.app](https://react-css-transitions-demo.netlify.app)
+ - date_published: 2024-08-18T10:16:14.400030+00:00
 
  ## Show HN: DataSheetGrid, an Airtable-like React component
  - [https://react-datasheet-grid.netlify.app](https://react-datasheet-grid.netlify.app)
@@ -3211,6 +3544,10 @@
  - [https://twoslash.netlify.app](https://twoslash.netlify.app)
  - date_published: 2024-01-24T04:21:20.436111+00:00
 
+ ## 墨屉/TW共享书库 — 我们的自动化转换共享书库
+ - [https://twpub-book.netlify.app](https://twpub-book.netlify.app)
+ - date_published: 2024-08-18T06:58:23.524150+00:00
+
  ## Comfy Store - Typescript
  - [https://typescript-comfy-sloth.netlify.app](https://typescript-comfy-sloth.netlify.app)
  - date_published: 2024-06-19T06:57:52.906480+00:00
@@ -3324,6 +3661,10 @@
  - [https://yujuncai.netlify.app](https://yujuncai.netlify.app)
  - date_published: 2021-07-22T00:00:00+00:00
 
+ ## Zachariah Dellimore
+ - [https://zachariahdellimore.netlify.app](https://zachariahdellimore.netlify.app)
+ - date_published: 2024-08-18T04:33:39.489752+00:00
+
  ## MeinPortfol.io
  - [https://zealous-thompson-415220.netlify.app](https://zealous-thompson-415220.netlify.app)
  - date_published: 2020-11-25T00:00:00+00:00
@@ -3364,6 +3705,10 @@
  - [https://nordot.app](https://nordot.app)
  - date_published: 2023-10-25T11:48:00.245663+00:00
 
+ ## Nostrid
+ - [https://web.nostrid.app](https://web.nostrid.app)
+ - date_published: 2024-06-28T00:27:39+00:00
+
  ## nostter
  - [https://nostter.app](https://nostter.app)
  - date_published: 2024-06-18T20:56:12.262192+00:00
@@ -3396,6 +3741,10 @@
  ## Nozbe
  - [https://nozbe.app](https://nozbe.app)
  - date_published: 2024-08-05T17:59:05.218398+00:00
+
+ ## Nsec.app - Nostr Key Storage and Remote Signer
+ - [https://nsec.app](https://nsec.app)
+ - date_published: 2024-04-16T13:02:24+00:00
 
  ## Beautiful calculator for Mac
  - [https://numi.app](https://numi.app)
@@ -3564,8 +3913,16 @@
  - [https://www.about.pangea.app](https://www.about.pangea.app)
  - date_published: 2024-07-23T00:00:00+00:00
 
+ ## Become a security pro - Panoptica Academy
+ - [https://academy.panoptica.app](https://academy.panoptica.app)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Cisco Panoptica
+ - [https://docs.panoptica.app](https://docs.panoptica.app)
+ - date_published: 2024-08-18T09:47:51.806861+00:00
+
  ## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
- - [https://www.panoptica.app](https://www.panoptica.app)
+ - [https://panoptica.app](https://panoptica.app)
  - date_published: 2023-12-20T23:10:10.715922+00:00
 
  ## Webinar: See Parsec for Teams Yourself
@@ -3677,363 +4034,4 @@
  - [https://photoprism.app](https://photoprism.app)
  - date_published: 2024-05-12T04:58:19.907236+00:00
  - tags: ['photo storage', 'open source', 'self-host', 'image hosting']
-
- ## PhotoPrism Translations
- - [https://translate.photoprism.app](https://translate.photoprism.app)
- - date_published: 2024-05-12T04:58:33.196347+00:00
-
- ## PhotoPrism+: Demo
- - [https://try.photoprism.app](https://try.photoprism.app)
- - date_published: 2024-05-12T04:58:30.971299+00:00
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://web.photoprism.app](https://web.photoprism.app)
- - date_published: 2024-05-12T04:58:31.882933+00:00
-
- ## Phrasing: To Fluency & Beyond!
- - [https://phrasing.app](https://phrasing.app)
- - date_published: 2024-01-29T16:56:42.292979+00:00
-
- ## PhyDemo | Open-source Physics Demos & Apps
- - [https://phydemo.app](https://phydemo.app)
- - date_published: 2023-09-18T02:33:21+00:00
-
- ## Pickwick | Find your next favorite series
- - [https://pickwick.app](https://pickwick.app)
- - date_published: 2024-04-30T02:48:03.200792+00:00
-
- ## Careers
- - [https://jobs.picnic.app](https://jobs.picnic.app)
- - date_published: 2024-07-02T23:34:26.758088+00:00
-
- ## Picnic | Supermarkt op wielen | Online boodschappen bestellen | Gratis bezorgd
- - [https://picnic.app](https://picnic.app)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Pieces for Developers - Your Workflow Copilot
- - [https://pieces.app](https://pieces.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Pigment Product Updates
- - [https://changelog.pigment.app](https://changelog.pigment.app)
- - date_published: 2024-06-21T09:15:37.802537+00:00
-
- ## Pigment.app
- - [https://pigment.app](https://pigment.app)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## coprime ⊥ domains
- - [http://pinata.app](http://pinata.app)
- - date_published: 2024-07-14T08:49:34.639480+00:00
-
- ## Pindigo
- - [https://media.pindigo.app](https://media.pindigo.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Pindigo
- - [https://pindigo.app](https://pindigo.app)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Pioneer - Join a network of 300+ founders in 50+ countries
- - [https://pioneer.app](https://pioneer.app)
- - date_published: 2024-05-01T04:18:44.596441+00:00
-
- ## Pippy: Disability Advocate and PIP Assistant
- - [https://pippy.app](https://pippy.app)
- - date_published: 2024-05-31T09:10:35+00:00
-
- ## Find the perfect pitch deck designer
- - [https://www.pitchdeckexperts.app](https://www.pitchdeckexperts.app)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## ‎Pixel Pals Widget Pet Game
- - [https://pixelpals.app](https://pixelpals.app)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## Automations for on-brand creatives
- - [https://placid.app](https://placid.app)
- - date_published: 2024-06-16T12:21:35+00:00
-
- ## React Electronic Program Guide, Schedule, Timeline and Events
- - [https://planby.app](https://planby.app)
- - date_published: 2024-06-23T11:28:36.706924+00:00
-
- ## Home - Planka
- - [https://planka.app](https://planka.app)
- - date_published: 2024-06-19T22:29:35.195532+00:00
-
- ## Welcome to Plasmic | Learn Plasmic
- - [https://docs.plasmic.app](https://docs.plasmic.app)
- - date_published: 2024-04-29T02:16:38.896049+00:00
-
- ## Plasmic Community
- - [https://forum.plasmic.app](https://forum.plasmic.app)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Error
- - [https://img.plasmic.app](https://img.plasmic.app)
- - date_published: 2024-04-29T02:16:32.298700+00:00
-
- ## Plasmic | Build powerful apps fast— without the limits
- - [https://plasmic.app](https://plasmic.app)
- - date_published: 2024-05-09T09:14:04.634261+00:00
-
- ## Welcome to your Strapi app
- - [https://strapi-app.plasmic.app](https://strapi-app.plasmic.app)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Plasmic
- - [https://studio.plasmic.app](https://studio.plasmic.app)
- - date_published: 2024-04-29T02:16:32.735852+00:00
-
- ## AI Playlist Maker - PlaylistAI
- - [https://www.playlistai.app](https://www.playlistai.app)
- - date_published: 2024-06-19T19:24:27.945384+00:00
-
- ## Playtext | Read at the Speed of Sound
- - [https://playtext.app](https://playtext.app)
- - date_published: 2024-06-19T20:09:02.897318+00:00
-
- ## Bastyon
- - [https://pocketnet.app](https://pocketnet.app)
- - date_published: 2023-11-18T07:12:07+00:00
-
- ## Podcast App - Listen online to your favorite podcasts
- - [https://podcast.app](https://podcast.app)
- - date_published: 2024-07-12T17:42:39.196906+00:00
-
- ## Polymer Feedback
- - [https://feedback.polymer3d.app](https://feedback.polymer3d.app)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Polymer Help
- - [https://help.polymer3d.app](https://help.polymer3d.app)
- - date_published: 2024-06-22T15:52:27.767643+00:00
-
- ## Polymer — iOS 3D Printing App for OctoPrint
- - [https://polymer3d.app](https://polymer3d.app)
- - date_published: 2024-05-06T06:39:35.315340+00:00
-
- ## Sign in | Polypane dashboard
- - [https://dashboard.polypane.app](https://dashboard.polypane.app)
- - date_published: 2024-08-11T17:29:34.367887+00:00
-
- ## Polypane, The browser for ambitious web developers
- - [https://polypane.app](https://polypane.app)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Polyvox - Practise Speaking Chinese
- - [https://polyvox.app](https://polyvox.app)
- - date_published: 2024-06-29T01:30:40.937046+00:00
-
- ## Pomerium Zero
- - [https://console.pomerium.app](https://console.pomerium.app)
- - date_published: 2024-05-29T16:33:13.050214+00:00
-
- ## Pomodor | It's time to be focused and productive
- - [https://pomodor.app](https://pomodor.app)
- - date_published: 2023-06-20T18:14:39+00:00
-
- ## PopClip for Mac
- - [https://www.popclip.app](https://www.popclip.app)
- - date_published: 2024-07-20T03:35:58+00:00
-
- ## Popify
- - [https://app.popify.app](https://app.popify.app)
- - date_published: 2024-07-19T19:31:49.957093+00:00
-
- ## Portal - An Immersive Spatial Audio App For Focus, Sleep & Escape
- - [https://portal.app](https://portal.app)
- - date_published: 2024-06-23T07:01:36.106394+00:00
-
- ## Portrait AI - Portrait Avatar Generator [OFFICIAL WEBSITE]
- - [https://portraitai.app](https://portraitai.app)
- - date_published: 2024-06-19T20:05:16.602969+00:00
-
- ## PortraitArt: Turn your photos into beautiful art!
- - [https://portraitart.app](https://portraitart.app)
- - date_published: 2024-03-13T05:08:05.599091+00:00
-
- ## Postali · Códigos postales de México
- - [https://postali.app](https://postali.app)
- - date_published: 2024-07-23T23:41:41.056164+00:00
-
- ## Redirecting to https://postgresapp.com
- - [https://postgres.app](https://postgres.app)
- - date_published: 2022-09-13T12:42:59+00:00
-
- ## Parks on the Air | POTA | Parks program for amateur radio.
- - [https://pota.app](https://pota.app)
- - date_published: 2024-03-30T01:04:08+00:00
-
- ## Show HN: Pour Decision – Alcohol Tracker and Mindful Drinking Companion
- - [https://pourdecision.app](https://pourdecision.app)
- - date_published: 2024-07-14T12:20:24+00:00
-
- ## Cloudflare Registrar
- - [https://widget.premiumplus.app](https://widget.premiumplus.app)
- - date_published: 2024-07-04T10:13:40.739859+00:00
-
- ## Prequel: Photo & Video Editor
- - [https://prequel.app](https://prequel.app)
- - date_published: 2024-04-04T10:43:20+00:00
-
- ## PrettyPolly: Learn a language quickly by speaking with an AI
- - [https://www.prettypolly.app](https://www.prettypolly.app)
- - date_published: 2023-10-25T11:48:30.623743+00:00
-
- ## JupyterHub
- - [https://pretzelai.app](https://pretzelai.app)
- - date_published: 2024-07-02T16:11:56.764072+00:00
-
- ## Principle
- - [https://principle.app](https://principle.app)
- - date_published: 2024-02-20T02:06:36+00:00
-
- ## No-Code Web Push & PWA Toolkit | Progressier
- - [https://progressier.app](https://progressier.app)
- - date_published: 2024-07-03T15:47:22.321268+00:00
-
- ## AI Business Plan Generator | Business Plan Maker | PrometAI
- - [https://prometai.app](https://prometai.app)
- - date_published: 2024-06-14T08:53:29.522578+00:00
-
- ## Prompt Storm - A Powerful Easy to use Artificial Intelligence Prompt Engineering Chrome
-		Software Extension for ChatGPT, Google's Gemini, and Anthropic's Claude.
- - [https://promptstorm.app](https://promptstorm.app)
- - date_published: 2024-06-27T10:53:59.218178+00:00
-
- ## ProNotes
- - [https://www.pronotes.app](https://www.pronotes.app)
- - date_published: 2024-07-11T13:53:55.214506+00:00
-
- ## Hello from ProxMobo | ProxMobo
- - [https://proxmobo.app](https://proxmobo.app)
- - date_published: 2024-05-14T04:06:01.187537+00:00
- - tags: ['vm manager']
-
- ## PROXX — a game of proximity
- - [https://proxx.app](https://proxx.app)
- - date_published: 2024-05-09T09:07:12.380252+00:00
-
- ## Proxyman · Debug, intercept & mock HTTP with Proxyman
- - [https://proxyman.app](https://proxyman.app)
- - date_published: 2024-07-15T07:51:38+00:00
-
- ## Public App - local news videos
- - [https://public.app](https://public.app)
- - date_published: 2024-08-08T14:13:12.805460+00:00
-
- ## Pulse Browser - A better Firefox fork
- - [https://pulsebrowser.app](https://pulsebrowser.app)
- - date_published: 2023-10-25T11:48:31.094675+00:00
-
- ## Pulse
- - [https://pulsestats.app](https://pulsestats.app)
- - date_published: 2024-05-06T21:28:58.307073+00:00
-
- ## Puppr - Dog Training App
- - [https://puppr.app](https://puppr.app)
- - date_published: 2024-07-12T17:42:09.356610+00:00
-
- ## pvq.app
- - [https://pvq.app](https://pvq.app)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## PWA List
- - [https://pwalist.app](https://pwalist.app)
- - date_published: 2024-06-03T11:16:20+00:00
- - tags: ['progressive web apps']
-
- ## Qaiz
- - [https://qaiz.app](https://qaiz.app)
- - date_published: 2024-06-14T09:26:55.104687+00:00
-
- ## The Powerful NATS GUI | Qaze
- - [https://qaze.app](https://qaze.app)
- - date_published: 2023-10-25T11:48:31.881727+00:00
-
- ## Questbook
- - [https://questbook.app](https://questbook.app)
- - date_published: 2024-06-16T03:35:09.808881+00:00
-
- ## Questlog - Your personal game tracker
- - [https://questlog.app](https://questlog.app)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Quicklang
- - [https://www.quicklang.app](https://www.quicklang.app)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Quina
- - [https://quina.app](https://quina.app)
- - date_published: 2024-06-23T06:09:16.003506+00:00
-
- ## Quivr - Get a Second Brain with Generative AI
- - [https://chat.quivr.app](https://chat.quivr.app)
- - date_published: 2024-07-13T14:12:58.767320+00:00
-
- ## Overview - Quivr
- - [https://docs.quivr.app](https://docs.quivr.app)
- - date_published: 2024-05-11T07:39:15.253768+00:00
-
- ## Building with GenAI
- - [https://newsletter.quivr.app](https://newsletter.quivr.app)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Quivr
- - [https://uptime.quivr.app](https://uptime.quivr.app)
- - date_published: 2024-07-13T14:14:06.890296+00:00
-
- ## Quivr - Open source chat-powered second brains
- - [https://quivr.app](https://quivr.app)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## RadioMail
- - [https://radiomail.app](https://radiomail.app)
- - date_published: 2024-06-08T21:55:54+00:00
-
- ## Railway Blog
- - [https://blog.railway.app](https://blog.railway.app)
- - date_published: 2023-10-25T11:24:27.926224+00:00
-
- ## Umami
- - [https://d3-umami.up.railway.app](https://d3-umami.up.railway.app)
- - date_published: 2024-08-07T22:05:00.666060+00:00
-
- ## Railway Docs
- - [https://docs.railway.app](https://docs.railway.app)
- - date_published: 2024-05-06T14:00:59.200911+00:00
-
- ## Railway Help Station
- - [https://help.railway.app](https://help.railway.app)
- - date_published: 2024-06-23T00:03:03.030263+00:00
-
- ## Railway
- - [https://railway.app](https://railway.app)
- - date_published: 2024-05-06T13:13:16.253808+00:00
-
- ## umami
- - [https://redux-docs-umami.up.railway.app](https://redux-docs-umami.up.railway.app)
- - date_published: 2024-06-22T05:55:45.469625+00:00
-
- ## Railway Store
- - [https://shop.railway.app](https://shop.railway.app)
- - date_published: 2024-06-23T00:02:58.291164+00:00
-
- ## Railway Startup Program
- - [https://startup.railway.app](https://startup.railway.app)
- - date_published: 2024-06-23T00:02:59.803173+00:00
-
- ## Railway - Status
- - [https://status.railway.app](https://status.railway.app)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## umami
- - [https://umami-production-7f33.up.railway.app](https://umami-production-7f33.up.railway.app)
- - date_published: 2024-06-22T20:50:43.875462+00:00
-
- ## Umami
- - [https://umami-production-9867.up.railway.app](https://umami-production-9867.up.railway.app)
- - date_published: 2024-05-01T08:18:41.451777+00:00
 
