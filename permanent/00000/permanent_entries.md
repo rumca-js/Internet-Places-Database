@@ -35,6 +35,10 @@
  - [https://prod.ally.ac](https://prod.ally.ac)
  - date_published: 2023-05-19T13:34:25+00:00
 
+ ## Blackboard Ally - Accessible content is better content
+ - [https://prod-eu-central-1.ally.ac](https://prod-eu-central-1.ally.ac)
+ - date_published: 2023-05-19T13:34:25+00:00
+
  ## Dashboard - Ally User Group
  - [https://usergroup.ally.ac](https://usergroup.ally.ac)
  - date_published: 2024-07-01T12:35:24.762619+00:00
@@ -104,6 +108,10 @@
  - [https://icont.ac](https://icont.ac)
  - date_published: 2010-08-23T19:07:24+00:00
 
+ ## Home - ICTD: Research on tax and development
+ - [https://www.ictd.ac](https://www.ictd.ac)
+ - date_published: 2024-07-25T00:00:00+00:00
+
  ## Daniel Kennett - Home
  - [https://ikennd.ac](https://ikennd.ac)
  - date_published: 2024-05-13T15:03:31+00:00
@@ -142,7 +150,7 @@
 
  ## Kern Type
  - [https://type.method.ac](https://type.method.ac)
- - date_published: 2023-10-25T08:31:02.163535+00:00
+ - date_published: 2023-09-16T02:03:36+00:00
 
  ## Pack
  - [https://pack.ac](https://pack.ac)
@@ -599,6 +607,14 @@
  - [https://www.hostwinds.ae](https://www.hostwinds.ae)
  - date_published: 2024-06-18T17:39:33+00:00
 
+ ## HSBC Business - Your partner for growth
+ - [https://www.business.hsbc.ae](https://www.business.hsbc.ae)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## HSBC UAE - Personal & Online Banking
+ - [https://www.hsbc.ae](https://www.hsbc.ae)
+ - date_published: 2024-08-19T08:56:01+00:00
+
  ## Home - Humaid Alqasimi
  - [https://humaidq.ae](https://humaidq.ae)
  - date_published: 1970-01-01T00:00:01+00:00
@@ -729,7 +745,7 @@
  - date_published: 2024-03-05T00:00:00+00:00
 
  ## Welcome – Thomann United Arab Emirates
- - [https://www.thomann.ae](https://www.thomann.ae)
+ - [https://thomann.ae](https://thomann.ae)
  - date_published: 2023-10-25T11:36:13.551700+00:00
 
  ## Psychologist in Dubai | Thrive Wellbeing | Dr. Sarah Rasmi
@@ -919,6 +935,10 @@
  - [https://masten.aero](https://masten.aero)
  - date_published: 2024-08-11T03:40:22.746204+00:00
 
+ ## MEBAA Show 2024 - Leading the way for Business Aviation
+ - [https://www.mebaa.aero](https://www.mebaa.aero)
+ - date_published: 2024-08-19T13:04:02.289794+00:00
+
  ## NAC – Northern Air Cargo
  - [https://www.nac.aero](https://www.nac.aero)
  - date_published: 2024-07-15T00:00:00+00:00
@@ -965,7 +985,7 @@
  - date_published: 2020-03-28T00:00:00+00:00
 
  ## Home | Times Aerospace
- - [https://www.timesaerospace.aero](https://www.timesaerospace.aero)
+ - [https://timesaerospace.aero](https://timesaerospace.aero)
  - date_published: 2023-10-25T10:58:58.652022+00:00
 
  ## Wisk | We've Arrived.
@@ -1322,7 +1342,7 @@
  - date_published: 2024-06-28T00:00:00+00:00
 
  ## Website Design Services | Fractalmax Agency
- - [https://www.fractalmax.agency](https://www.fractalmax.agency)
+ - [https://fractalmax.agency](https://fractalmax.agency)
  - date_published: 2023-10-25T11:36:18.419422+00:00
 
  ## Funday Agency
@@ -1408,6 +1428,10 @@
  ## MagicSpace SEO - Best SEO Company in Switzerland - MagicSpace SEO
  - [https://magicspace.agency](https://magicspace.agency)
  - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Metro.Agency – identity + strategy + design
+ - [https://metro.agency](https://metro.agency)
+ - date_published: 2024-08-19T07:30:27.324827+00:00
 
  ## Craft CMS Web Design & Development Agency in the UK - Mutual
  - [https://www.mutual.agency](https://www.mutual.agency)
@@ -1513,6 +1537,10 @@
  - [https://docs.3lc.ai](https://docs.3lc.ai)
  - date_published: 2024-04-23T15:17:41.819605+00:00
  - tags: ['machine learning']
+
+ ## Abacus.AI - The world's first AI assisted end-to-end data science and MLOps platform
+ - [https://abacus.ai](https://abacus.ai)
+ - date_published: 2024-08-19T12:26:02.528578+00:00
 
  ## The Abacus.AI Blog
  - [https://blog.abacus.ai](https://blog.abacus.ai)
@@ -1803,6 +1831,10 @@
  - [https://andromeda.ai](https://andromeda.ai)
  - date_published: 2024-07-08T08:34:46.085311+00:00
 
+ ## Andromeda Scheduler 3000
+ - [https://console.andromeda.ai](https://console.andromeda.ai)
+ - date_published: 2024-08-19T10:49:05.907557+00:00
+
  ## Anlatan
  - [https://anlatan.ai](https://anlatan.ai)
  - date_published: 2024-03-13T06:14:06+00:00
@@ -1822,6 +1854,10 @@
  ## Apache APISIX & Open-Source API Gateway - API7.ai
  - [https://api7.ai](https://api7.ai)
  - date_published: 2023-10-25T11:36:34.953273+00:00
+
+ ## API7 Docs
+ - [https://docs.api7.ai](https://docs.api7.ai)
+ - date_published: 2024-08-19T12:25:54.138464+00:00
 
  ## Apollo Research
  - [https://apolloresearch.ai](https://apolloresearch.ai)
@@ -1854,6 +1890,10 @@
  ## AppSentinels - API Security Platform
  - [https://appsentinels.ai](https://appsentinels.ai)
  - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Aptible AI
+ - [https://www.aptible.ai](https://www.aptible.ai)
+ - date_published: 2024-08-12T00:00:00+00:00
 
  ## Arabic ai - موقع لكل أدوات الذكاء الاصطناعي بالعربي
  - [https://araby.ai](https://araby.ai)
@@ -1932,7 +1972,7 @@
  - date_published: 2024-01-16T16:31:19.783818+00:00
 
  ## Artisana | The Latest Generative AI News
- - [https://www.artisana.ai](https://www.artisana.ai)
+ - [https://artisana.ai](https://artisana.ai)
  - date_published: 2023-10-25T11:00:43.611933+00:00
 
  ## Artist Interview.ai | AI-Generated Artist Interviews
@@ -1956,7 +1996,7 @@
  - date_published: 2024-06-26T09:04:29.337739+00:00
 
  ## Analytics made simpler using AI
- - [https://www.askedith.ai](https://www.askedith.ai)
+ - [https://askedith.ai](https://askedith.ai)
  - date_published: 2023-10-25T08:27:01.316993+00:00
 
  ## AskGuru
@@ -2470,7 +2510,7 @@
  - date_published: 2024-07-23T21:54:01.224086+00:00
 
  ## Cosine
- - [https://www.buildt.ai](https://www.buildt.ai)
+ - [https://buildt.ai](https://buildt.ai)
  - date_published: 2023-10-25T08:40:48.808759+00:00
 
  ## - BulkContent.ai
@@ -2531,7 +2571,7 @@
  - date_published: 2024-06-14T08:55:23.631145+00:00
 
  ## Calligrapher.ai: Realistic computer-generated handwriting
- - [https://www.calligrapher.ai](https://www.calligrapher.ai)
+ - [https://calligrapher.ai](https://calligrapher.ai)
  - date_published: 2023-10-25T11:36:44.320352+00:00
 
  ## Candy.AI: Create Your AI Girlfriend & Start Chatting
@@ -2568,7 +2608,7 @@
  - date_published: 2024-06-19T20:04:36.381554+00:00
 
  ## Free AI Cover Letter Generator: Powered By ChatGPT
- - [https://www.careered.ai](https://www.careered.ai)
+ - [https://careered.ai](https://careered.ai)
  - date_published: 2023-10-25T11:36:45.243241+00:00
 
  ## Careerflow - Your Career Copilot | FREE AI Job Search Tools
@@ -2600,6 +2640,18 @@
  - [https://cast.ai](https://cast.ai)
  - date_published: 2023-10-25T11:37:03.659292+00:00
 
+ ## CAST AI - Console
+ - [https://console.cast.ai](https://console.cast.ai)
+ - date_published: 2024-08-19T12:01:16+00:00
+
+ ## Getting started
+ - [https://docs.cast.ai](https://docs.cast.ai)
+ - date_published: 2024-08-19T12:25:21.938975+00:00
+
+ ## Log In ‹ CAST AI Partner Portal — WordPress
+ - [https://partners.cast.ai](https://partners.cast.ai)
+ - date_published: 2024-08-19T12:25:26.515796+00:00
+
  ## 403
  - [https://catboost.ai](https://catboost.ai)
  - date_published: 2024-07-22T09:50:03.507225+00:00
@@ -2608,6 +2660,10 @@
  - [https://catgirl.ai](https://catgirl.ai)
  - date_published: 2023-10-25T09:25:20.588228+00:00
  - tags: ['personal']
+
+ ## wrtsc
+ - [https://wrtsc.catgirl.ai](https://wrtsc.catgirl.ai)
+ - date_published: 2023-03-18T06:54:14+00:00
 
  ## Cambridge Boston Alignment Initiative
  - [https://www.cbai.ai](https://www.cbai.ai)
@@ -2643,7 +2699,7 @@
 
  ## ChainForge: A visual programming environment for prompt engineering
  - [https://chainforge.ai](https://chainforge.ai)
- - date_published: 2023-10-25T11:37:05.698258+00:00
+ - date_published: 2023-09-07T19:41:16+00:00
 
  ## Chapple: Revolutionizing AI Tools for Creativity and Efficiency
  - [https://chapple.ai](https://chapple.ai)
@@ -2815,9 +2871,21 @@ Welcome
  - date_published: 2024-05-09T05:04:34.358359+00:00
  - tags: ['artificial intelligence bot']
 
+ ## Cleanlab Studio | AI-powered Data Curation Platform for Gen AI
+ - [https://app.cleanlab.ai](https://app.cleanlab.ai)
+ - date_published: 2024-08-15T00:31:58+00:00
+
  ## Cleanlab
  - [https://cleanlab.ai](https://cleanlab.ai)
  - date_published: 2023-10-25T11:37:20.608121+00:00
+
+ ## Redirecting to the latest release/tag
+ - [https://docs.cleanlab.ai](https://docs.cleanlab.ai)
+ - date_published: 2024-08-15T19:40:29+00:00
+
+ ## Cleanlab Studio Documentation
+ - [https://help.cleanlab.ai](https://help.cleanlab.ai)
+ - date_published: 2024-08-09T04:05:42+00:00
 
  ## Get rid of filler words from your audio recordings
  - [https://cleanvoice.ai](https://cleanvoice.ai)
@@ -3041,11 +3109,15 @@ Welcome
  - date_published: 2024-06-19T19:35:25.590107+00:00
 
  ## Create Comics Using AI | ComicsMaker.ai
- - [https://www.comicsmaker.ai](https://www.comicsmaker.ai)
+ - [https://comicsmaker.ai](https://comicsmaker.ai)
  - date_published: 2023-10-25T11:37:36.161725+00:00
 
+ ## Comigo AI
+ - [https://app.comigo.ai](https://app.comigo.ai)
+ - date_published: 2024-08-19T12:24:09.486010+00:00
+
  ## Comigo - Your AI Companion for ADHD
- - [https://www.comigo.ai](https://www.comigo.ai)
+ - [https://comigo.ai](https://comigo.ai)
  - date_published: 2023-10-25T11:37:40.443111+00:00
 
  ## comma.ai blog
@@ -3096,12 +3168,24 @@ Welcome
  - [https://www.contentpie.ai](https://www.contentpie.ai)
  - date_published: 2024-05-25T00:00:00+00:00
 
+ ## Context.ai Blog
+ - [https://blog.context.ai](https://blog.context.ai)
+ - date_published: 2024-08-19T12:24:01.417269+00:00
+
  ## Home | Context.ai
  - [https://context.ai](https://context.ai)
  - date_published: 2023-10-25T11:37:48.609365+00:00
 
+ ## What is Context.ai? | Context
+ - [https://docs.context.ai](https://docs.context.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Context.ai
+ - [https://with.context.ai](https://with.context.ai)
+ - date_published: 2024-08-19T12:23:58.115387+00:00
+
  ## Create and share beautiful and engaging annotated charts · contextualize.ai
- - [https://www.contextualize.ai](https://www.contextualize.ai)
+ - [https://contextualize.ai](https://contextualize.ai)
  - date_published: 2023-10-25T11:37:51.365869+00:00
 
  ## Continual | The AI Copilot Platform for Applications
@@ -3277,6 +3361,10 @@ Welcome
  - [https://cubed.ai](https://cubed.ai)
  - date_published: 2024-05-06T17:47:34.160154+00:00
 
+ ## Curiosity - AI search for everything
+ - [https://curiosity.ai](https://curiosity.ai)
+ - date_published: 2024-08-06T13:42:59+00:00
+
  ## HackerNews
  - [https://hn.curiosity.ai](https://hn.curiosity.ai)
  - date_published: 2023-10-25T08:27:20.682126+00:00
@@ -3399,8 +3487,12 @@ Welcome
  - [https://status.dasha.ai](https://status.dasha.ai)
  - date_published: 2024-07-04T00:00:00+00:00
 
+ ## Dashworks
+ - [https://web.dashworks.ai](https://web.dashworks.ai)
+ - date_published: 2024-08-17T18:58:04+00:00
+
  ## Dash AI: Enterprise AI Knowledge Assistant | Dashworks.ai
- - [https://www.dashworks.ai](https://www.dashworks.ai)
+ - [https://dashworks.ai](https://dashworks.ai)
  - date_published: 2023-10-25T11:37:54.337559+00:00
 
  ## data.ai | Community
@@ -3499,7 +3591,7 @@ Welcome
  - date_published: 2024-08-07T00:00:00+00:00
 
  ## DeepLearning.AI: Start or Advance Your Career in AI
- - [https://www.deeplearning.ai](https://www.deeplearning.ai)
+ - [https://deeplearning.ai](https://deeplearning.ai)
  - date_published: 2023-10-25T11:38:12.397045+00:00
 
  ## Self-Driving Cars Technology & Solutions | NVIDIA Automotive
@@ -3586,6 +3678,18 @@ Welcome
  - [https://devtron.ai](https://devtron.ai)
  - date_published: 2023-10-25T11:38:18.347919+00:00
 
+ ## Join the Devtron Discord Server!
+ - [https://discord.devtron.ai](https://discord.devtron.ai)
+ - date_published: 2024-08-16T20:07:53+00:00
+
+ ## Introduction | Devtron
+ - [https://docs.devtron.ai](https://docs.devtron.ai)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Devtron
+ - [https://preview.devtron.ai](https://preview.devtron.ai)
+ - date_published: 2024-08-14T14:36:36+00:00
+
  ## Show HN: I made a better Perplexity for developers
  - [https://devv.ai](https://devv.ai)
  - date_published: 2024-05-08T15:19:40+00:00
@@ -3635,7 +3739,7 @@ Welcome
  - date_published: 2024-03-21T00:00:00+00:00
 
  ## DimeADozen.ai - Your AI Toolkit
- - [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
+ - [https://dimeadozen.ai](https://dimeadozen.ai)
  - date_published: 2023-10-25T11:38:19.826298+00:00
 
  ## Human Verification
@@ -3649,6 +3753,14 @@ Welcome
  ## Dimensions AI | The most advanced scientific research database
  - [https://www.dimensions.ai](https://www.dimensions.ai)
  - date_published: 2024-07-01T12:50:23+00:00
+
+ ## AI-Powered Business Reports in Minutes
+ - [https://dimey.ai](https://dimey.ai)
+ - date_published: 2024-08-19T12:22:43.706292+00:00
+
+ ## AI-Powered Business Reports in Minutes
+ - [https://www.dimey.ai](https://www.dimey.ai)
+ - date_published: 2024-08-19T12:22:42.383871+00:00
 
  ## Dittto
  - [https://dittto.ai](https://dittto.ai)
@@ -3823,7 +3935,7 @@ Welcome
  - date_published: 2024-06-19T00:00:00+00:00
 
  ## Edit Anything | fal-serverless
- - [https://www.editanything.ai](https://www.editanything.ai)
+ - [http://editanything.ai](http://editanything.ai)
  - date_published: 2023-10-25T08:34:36.726062+00:00
 
  ## EditApp
@@ -3845,6 +3957,10 @@ Welcome
  ## Course - MIT HAN Lab
  - [https://efficientml.ai](https://efficientml.ai)
  - date_published: 2023-10-25T11:38:20.763882+00:00
+
+ ## Effy AI: Free Performance Management Software for Teams
+ - [https://www.effy.ai](https://www.effy.ai)
+ - date_published: 2024-08-09T00:00:00+00:00
 
  ## Eggnog
  - [https://eggnog.ai](https://eggnog.ai)
@@ -3882,6 +3998,10 @@ Welcome
  - [https://qualcomm.eightfold.ai](https://qualcomm.eightfold.ai)
  - date_published: 2024-08-05T00:00:00+00:00
 
+ ## Submit Form
+ - [https://stmicroelectronics.eightfold.ai](https://stmicroelectronics.eightfold.ai)
+ - date_published: 2024-08-19T05:29:04.552855+00:00
+
  ## Puppetry is the easiest way to create videos with talking AI Avatars
  - [https://art.elbo.ai](https://art.elbo.ai)
  - date_published: 2024-06-19T19:39:24.201202+00:00
@@ -3907,126 +4027,4 @@ Welcome
  ## Elf Help
  - [https://www.elfhelp.ai](https://www.elfhelp.ai)
  - date_published: 2024-06-19T19:49:50.461354+00:00
-
- ## Elo AI | RFP AI & Intelligent Sales Enablement Platform
- - [https://www.elo.ai](https://www.elo.ai)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Write Better & Faster with Eloise AI
- - [https://eloise.ai](https://eloise.ai)
- - date_published: 2024-06-19T20:07:43.256203+00:00
-
- ## Elto
- - [https://www.elto.ai](https://www.elto.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Elysian Labs
- - [https://elysianlabs.ai](https://elysianlabs.ai)
- - date_published: 2024-06-21T07:57:25+00:00
-
- ## EmailMagic AI
- - [https://www.emailmagic.ai](https://www.emailmagic.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## AI Email Automation | Best AI Email Assistant in 2024 | EmailTree.ai
- - [https://emailtree.ai](https://emailtree.ai)
- - date_published: 2024-06-19T19:19:36.606820+00:00
-
- ## Embedditor.ai
- - [https://embedditor.ai](https://embedditor.ai)
- - date_published: 2024-06-27T10:52:34.371613+00:00
-
- ## GitHub - embedchain/embedchain: Memory for AI agents
- - [https://embedstore.ai](https://embedstore.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Emergence AI
- - [https://www.emergence.ai](https://www.emergence.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Automated Language Testing | Emmersion
- - [https://emmersion.ai](https://emmersion.ai)
- - date_published: 2024-06-29T19:36:34.420790+00:00
-
- ## Encultured AI
- - [https://encultured.ai](https://encultured.ai)
- - date_published: 2024-06-21T00:24:25+00:00
-
- ## Energy Monitor - Inside the global transition to net zero
- - [https://energymonitor.ai](https://energymonitor.ai)
- - date_published: 2023-10-25T11:38:25.700332+00:00
- - tags: ['global warming', 'climate change']
-
- ## Ento
- - [https://app.ento.ai](https://app.ento.ai)
- - date_published: 2024-07-02T17:17:55.060778+00:00
-
- ## ENTO - Great energy savings. Little effort.
- - [https://ento.ai](https://ento.ai)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://learn.ento.ai](https://learn.ento.ai)
- - date_published: 2024-07-02T17:17:53.248398+00:00
-
- ## Epique AI | Epique Cloud
- - [https://epique.ai](https://epique.ai)
- - date_published: 2024-06-19T19:51:37.039655+00:00
-
- ## ERMES
- - [https://app.ermes.ai](https://app.ermes.ai)
- - date_published: 2024-06-25T17:53:42+00:00
-
- ## Ermes: Plateforme de Marketing All-in-one
- - [https://www.ermes.ai](https://www.ermes.ai)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Ermine.ai | Local Audio Transcription
- - [https://ermine.ai](https://ermine.ai)
- - date_published: 2024-05-07T10:49:45.809768+00:00
-
- ## Erogen
- - [https://erogen.ai](https://erogen.ai)
- - date_published: 2024-06-14T08:54:32+00:00
- - tags: ['nsfw']
-
- ## Essay Grader AI - The Original AI Essay Grader as seen on CNN
- - [https://essaygrader.ai](https://essaygrader.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Essential AI
- - [https://essential.ai](https://essential.ai)
- - date_published: 2023-12-12T21:31:11+00:00
-
- ## Transformers on Chips
- - [https://etched.ai](https://etched.ai)
- - date_published: 2023-12-16T23:31:29+00:00
-
- ## Eureka Labs
- - [https://eurekalabs.ai](https://eurekalabs.ai)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## EvaDB: Bring AI inside your Database System
- - [https://evadb.ai](https://evadb.ai)
- - date_published: 2024-05-06T09:19:03.361531+00:00
-
- ## EvalAI: Evaluating state of the art in AI
- - [https://eval.ai](https://eval.ai)
- - date_published: 2024-04-26T07:03:49+00:00
-
- ## Rayvox
- - [https://www.evita.ai](https://www.evita.ai)
- - date_published: 2024-06-19T19:33:19.469169+00:00
-
- ## Evoke Music
- - [https://evokemusic.ai](https://evokemusic.ai)
- - date_published: 2024-06-19T21:09:44.488221+00:00
-
- ## E – Volution – Digital AdTech Partners
- - [https://e-volution.ai](https://e-volution.ai)
- - date_published: 2024-05-06T18:02:52.670864+00:00
-
- ## EvolutionaryScale
- - [https://www.evolutionaryscale.ai](https://www.evolutionaryscale.ai)
- - date_published: 2024-07-03T00:00:00+00:00
 

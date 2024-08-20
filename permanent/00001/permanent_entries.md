@@ -1,3 +1,125 @@
+ ## Elo AI | RFP AI & Intelligent Sales Enablement Platform
+ - [https://www.elo.ai](https://www.elo.ai)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Write Better & Faster with Eloise AI
+ - [https://eloise.ai](https://eloise.ai)
+ - date_published: 2024-06-19T20:07:43.256203+00:00
+
+ ## Elto
+ - [https://www.elto.ai](https://www.elto.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Elysian Labs
+ - [https://elysianlabs.ai](https://elysianlabs.ai)
+ - date_published: 2024-06-21T07:57:25+00:00
+
+ ## EmailMagic AI
+ - [https://www.emailmagic.ai](https://www.emailmagic.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## AI Email Automation | Best AI Email Assistant in 2024 | EmailTree.ai
+ - [https://emailtree.ai](https://emailtree.ai)
+ - date_published: 2024-06-19T19:19:36.606820+00:00
+
+ ## Embedditor.ai
+ - [https://embedditor.ai](https://embedditor.ai)
+ - date_published: 2024-06-27T10:52:34.371613+00:00
+
+ ## GitHub - embedchain/embedchain: Memory for AI agents
+ - [https://embedstore.ai](https://embedstore.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Emergence AI
+ - [https://www.emergence.ai](https://www.emergence.ai)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Automated Language Testing | Emmersion
+ - [https://emmersion.ai](https://emmersion.ai)
+ - date_published: 2024-06-29T19:36:34.420790+00:00
+
+ ## Encultured AI
+ - [https://encultured.ai](https://encultured.ai)
+ - date_published: 2024-06-21T00:24:25+00:00
+
+ ## Energy Monitor - Inside the global transition to net zero
+ - [https://energymonitor.ai](https://energymonitor.ai)
+ - date_published: 2023-10-25T11:38:25.700332+00:00
+ - tags: ['global warming', 'climate change']
+
+ ## Ento
+ - [https://app.ento.ai](https://app.ento.ai)
+ - date_published: 2024-07-02T17:17:55.060778+00:00
+
+ ## ENTO - Great energy savings. Little effort.
+ - [https://ento.ai](https://ento.ai)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://learn.ento.ai](https://learn.ento.ai)
+ - date_published: 2024-07-02T17:17:53.248398+00:00
+
+ ## Epique AI | Epique Cloud
+ - [https://epique.ai](https://epique.ai)
+ - date_published: 2024-06-19T19:51:37.039655+00:00
+
+ ## ERMES
+ - [https://app.ermes.ai](https://app.ermes.ai)
+ - date_published: 2024-06-25T17:53:42+00:00
+
+ ## Ermes: Plateforme de Marketing All-in-one
+ - [https://www.ermes.ai](https://www.ermes.ai)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Ermine.ai | Local Audio Transcription
+ - [https://ermine.ai](https://ermine.ai)
+ - date_published: 2024-05-07T10:49:45.809768+00:00
+
+ ## Erogen
+ - [https://erogen.ai](https://erogen.ai)
+ - date_published: 2024-06-14T08:54:32+00:00
+ - tags: ['nsfw']
+
+ ## Essay Grader AI - The Original AI Essay Grader as seen on CNN
+ - [https://essaygrader.ai](https://essaygrader.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Essential AI
+ - [https://essential.ai](https://essential.ai)
+ - date_published: 2023-12-12T21:31:11+00:00
+
+ ## Transformers on Chips
+ - [https://etched.ai](https://etched.ai)
+ - date_published: 2023-12-16T23:31:29+00:00
+
+ ## Eureka Labs
+ - [https://eurekalabs.ai](https://eurekalabs.ai)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## EvaDB: Bring AI inside your Database System
+ - [https://evadb.ai](https://evadb.ai)
+ - date_published: 2024-05-06T09:19:03.361531+00:00
+
+ ## EvalAI: Evaluating state of the art in AI
+ - [https://eval.ai](https://eval.ai)
+ - date_published: 2024-04-26T07:03:49+00:00
+
+ ## Rayvox
+ - [https://www.evita.ai](https://www.evita.ai)
+ - date_published: 2024-06-19T19:33:19.469169+00:00
+
+ ## Evoke Music
+ - [https://evokemusic.ai](https://evokemusic.ai)
+ - date_published: 2024-06-19T21:09:44.488221+00:00
+
+ ## E – Volution – Digital AdTech Partners
+ - [https://e-volution.ai](https://e-volution.ai)
+ - date_published: 2024-05-06T18:02:52.670864+00:00
+
+ ## EvolutionaryScale
+ - [https://www.evolutionaryscale.ai](https://www.evolutionaryscale.ai)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## AI-led Experience Optimization | Evolv AI
  - [https://go.evolv.ai](https://go.evolv.ai)
  - date_published: 2024-07-04T12:13:25+00:00
@@ -90,6 +212,10 @@
  - [https://editor.factiverse.ai](https://editor.factiverse.ai)
  - date_published: 2023-10-25T11:38:29.189794+00:00
 
+ ## Factiverse AI Editor
+ - [https://test-editor.factiverse.ai](https://test-editor.factiverse.ai)
+ - date_published: 2024-08-09T08:56:34+00:00
+
  ## Factors.ai | B2B Account Intelligence, Analytics & Activation
  - [https://app.factors.ai](https://app.factors.ai)
  - date_published: 2024-05-22T02:47:44.111886+00:00
@@ -113,6 +239,10 @@
  ## fal
  - [https://blog.fal.ai](https://blog.fal.ai)
  - date_published: 2024-07-12T03:56:30.679072+00:00
+
+ ## Give feedback and suggest new ideas for fal.ai.
+ - [https://feedback.fal.ai](https://feedback.fal.ai)
+ - date_published: 2024-08-19T00:00:00+00:00
 
  ## Fantasy.ai
  - [https://fantasy.ai](https://fantasy.ai)
@@ -146,9 +276,21 @@
  - [https://course.fast.ai](https://course.fast.ai)
  - date_published: 2023-10-25T11:38:36.146725+00:00
 
+ ## Welcome to fastai – fastai
+ - [https://docs.fast.ai](https://docs.fast.ai)
+ - date_published: 2024-07-30T22:44:57+00:00
+
  ## fast.ai - fast.ai—Making neural nets uncool again
  - [http://fast.ai](http://fast.ai)
  - date_published: 2024-02-29T06:55:23+00:00
+
+ ## fastpages
+ - [https://fastpages.fast.ai](https://fastpages.fast.ai)
+ - date_published: 2022-09-16T02:37:32+00:00
+
+ ## fast.ai Course Forums
+ - [https://forums.fast.ai](https://forums.fast.ai)
+ - date_published: 2024-08-18T00:00:00+00:00
 
  ## nbdev – Create delightful software with Jupyter Notebooks
  - [https://nbdev.fast.ai](https://nbdev.fast.ai)
@@ -159,7 +301,7 @@
  - date_published: 2024-02-20T00:00:00+00:00
 
  ## fast.ai - fast.ai—Making neural nets uncool again
- - [https://www.fast.ai](https://www.fast.ai)
+ - [https://fast.ai](https://fast.ai)
  - date_published: 2023-10-25T11:38:41.151336+00:00
 
  ## FastBots | Login
@@ -231,7 +373,7 @@
  - date_published: 2024-05-11T06:55:59.200865+00:00
 
  ## fforward
- - [https://www.fforward.ai](https://www.fforward.ai)
+ - [https://fforward.ai](https://fforward.ai)
  - date_published: 2023-10-25T11:38:47.866433+00:00
 
  ## ficc.ai
@@ -294,6 +436,10 @@
  - [https://fiscalnote.ai](https://fiscalnote.ai)
  - date_published: 2024-08-06T21:27:16.169599+00:00
 
+ ## Fit:match | Democratizing Access to 3D Technology
+ - [https://fitmatch.ai](https://fitmatch.ai)
+ - date_published: 2024-08-19T00:00:00+00:00
+
  ## Autonomous vehicle development and safety assurance platform
  - [https://five.ai](https://five.ai)
  - date_published: 2024-04-08T00:00:00+00:00
@@ -325,6 +471,10 @@
  ## Fletch Security Portal | Powered by SafeBase
  - [https://security.fletch.ai](https://security.fletch.ai)
  - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Fliki - Turn text into videos with AI voices
+ - [https://fliki.ai](https://fliki.ai)
+ - date_published: 2024-08-19T07:13:47.251524+00:00
 
  ## Flitig
  - [http://flitig.ai](http://flitig.ai)
@@ -383,7 +533,7 @@
  - date_published: 2024-01-04T10:23:42+00:00
 
  ## Fluxon
- - [https://www.fluxon.ai](https://www.fluxon.ai)
+ - [https://fluxon.ai](https://fluxon.ai)
  - date_published: 2023-10-25T11:38:56.659953+00:00
 
  ## Flyflow
@@ -510,6 +660,10 @@
  - [https://futuresearch.ai](https://futuresearch.ai)
  - date_published: 2024-02-21T00:00:00+00:00
 
+ ## fylm.ai - Colour Grading and Collaboration Software in Cloud
+ - [https://app.fylm.ai](https://app.fylm.ai)
+ - date_published: 2024-08-01T11:34:21+00:00
+
  ## fylm.ai - AI Powered Colour Grading and Collaboration in Cloud
  - [https://fylm.ai](https://fylm.ai)
  - date_published: 2023-10-25T11:39:00.490575+00:00
@@ -559,6 +713,10 @@
  - [https://gentrace.ai](https://gentrace.ai)
  - date_published: 2023-10-25T11:39:02.363585+00:00
 
+ ## Welcome — GeoCompas
+ - [https://geocompas.ai](https://geocompas.ai)
+ - date_published: 2024-08-07T16:03:25+00:00
+
  ## AI Photo Geolocation
  - [https://geospy.ai](https://geospy.ai)
  - date_published: 2024-05-02T04:41:51+00:00
@@ -591,9 +749,25 @@
  - [https://getgenie.ai](https://getgenie.ai)
  - date_published: 2024-06-03T00:00:00+00:00
 
+ ## getimg.ai | Sign up
+ - [https://affiliates.getimg.ai](https://affiliates.getimg.ai)
+ - date_published: 2024-08-19T12:14:46.477362+00:00
+
+ ## Introduction
+ - [https://docs.getimg.ai](https://docs.getimg.ai)
+ - date_published: 2024-08-19T12:14:44.783173+00:00
+
+ ## getimg.ai Feedback
+ - [https://feedback.getimg.ai](https://feedback.getimg.ai)
+ - date_published: 2024-05-31T00:00:00+00:00
+
  ## Everything you need to create images with AI | getimg.ai
  - [https://getimg.ai](https://getimg.ai)
  - date_published: 2023-10-25T11:39:04.550398+00:00
+
+ ## getimg.ai status
+ - [https://status.getimg.ai](https://status.getimg.ai)
+ - date_published: 2024-08-19T12:14:41.813205+00:00
 
  ## Show HN: Open-Source Real Time Data Framework for LLM Applications
  - [https://getindexify.ai](https://getindexify.ai)
@@ -610,6 +784,10 @@
  ## Leon - Your Open-Source Personal Assistant
  - [https://getleon.ai](https://getleon.ai)
  - date_published: 2024-06-19T22:28:23.887144+00:00
+
+ ## Maestro AI - Elevating Engineering Leadership
+ - [https://getmaestro.ai](https://getmaestro.ai)
+ - date_published: 2024-08-14T00:00:00+00:00
 
  ## Manifest AI: GPT-Powered AI Shopping Assistant for your Shopify Store.
  - [https://getmanifest.ai](https://getmanifest.ai)
@@ -684,8 +862,12 @@
  - date_published: 2024-05-11T07:38:54.333504+00:00
 
  ## Giskard - Open-source Solution for AI Quality
- - [https://www.giskard.ai](https://www.giskard.ai)
+ - [https://giskard.ai](https://giskard.ai)
  - date_published: 2023-10-25T11:39:07.365125+00:00
+
+ ## Gizmo is the easiest way to learn
+ - [https://gizmo.ai](https://gizmo.ai)
+ - date_published: 2024-08-19T12:09:08.040624+00:00
 
  ## Home - Gizzmo Ai
  - [https://gizzmo.ai](https://gizzmo.ai)
@@ -778,6 +960,10 @@
  ## Find the best GPTs of ChatGPT | GPTStore.AI
  - [https://gptstore.ai](https://gptstore.ai)
  - date_published: 2024-06-23T06:18:04.471198+00:00
+
+ ## gpulist
+ - [https://gpulist.ai](https://gpulist.ai)
+ - date_published: 2024-08-19T10:49:07.195531+00:00
 
  ## GPUX
  - [https://gpux.ai](https://gpux.ai)
@@ -1171,6 +1357,10 @@
  - [https://ideogram.ai](https://ideogram.ai)
  - date_published: 2024-06-16T19:20:46.516638+00:00
 
+ ## Frictionless Biometric Authentication Software
+ - [https://idrnd.ai](https://idrnd.ai)
+ - date_published: 2024-07-29T00:00:00+00:00
+
  ## FC'10 : Financial Cryptography 2010
  - [https://fc10.ifca.ai](https://fc10.ifca.ai)
  - date_published: 2010-02-04T09:32:53+00:00
@@ -1207,12 +1397,16 @@
  - [http://fc24.ifca.ai](http://fc24.ifca.ai)
  - date_published: 2024-07-01T06:40:54.106121+00:00
 
+ ## FC'25 : Financial Cryptography 2025
+ - [http://fc25.ifca.ai](http://fc25.ifca.ai)
+ - date_published: 2024-08-19T12:14:28.905781+00:00
+
  ## IFCA
  - [http://ifca.ai](http://ifca.ai)
  - date_published: 2024-06-17T10:11:16.631788+00:00
 
  ## IFCA
- - [https://www.ifca.ai](https://www.ifca.ai)
+ - [https://ifca.ai](https://ifca.ai)
  - date_published: 2023-10-25T11:39:11.249743+00:00
 
  ## AI Photo Studio: Elevate Your E-Commerce with Our Magic Studio | iFoto
@@ -1220,7 +1414,7 @@
  - date_published: 2024-06-27T10:51:29.268074+00:00
 
  ## Artificial Ignorance | Charlie Guo | Substack
- - [https://www.ignorance.ai](https://www.ignorance.ai)
+ - [https://ignorance.ai](https://ignorance.ai)
  - date_published: 2023-10-25T11:39:13.090034+00:00
 
  ## Iliad
@@ -1235,6 +1429,10 @@
  - [https://iluminary.ai](https://iluminary.ai)
  - date_published: 2023-12-03T00:00:00+00:00
 
+ ## Image Editor AI: Edit or make images using AI | ImageEditor.AI
+ - [https://imageeditor.ai](https://imageeditor.ai)
+ - date_published: 2024-08-19T09:02:50.198505+00:00
+
  ## Best AI image generator - AI edit photo online free
  - [https://www.imagewith.ai](https://www.imagewith.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -1243,8 +1441,12 @@
  - [https://share.imagica.ai](https://share.imagica.ai)
  - date_published: 2024-06-06T23:06:47+00:00
 
+ ## The next-gen project starter for Django and Node
+ - [https://app.imagine.ai](https://app.imagine.ai)
+ - date_published: 2024-08-19T12:14:25.208407+00:00
+
  ## Imagine· The next-gen project starter and code generator
- - [https://www.imagine.ai](https://www.imagine.ai)
+ - [https://imagine.ai](https://imagine.ai)
  - date_published: 2023-10-25T11:39:15.017406+00:00
 
  ## Imajinn AI
@@ -1348,6 +1550,14 @@
  - [https://freightwaves.widget.insent.ai](https://freightwaves.widget.insent.ai)
  - date_published: 2023-10-18T08:56:50+00:00
 
+ ## ZoomInfo Chat
+ - [https://surgeai.widget.insent.ai](https://surgeai.widget.insent.ai)
+ - date_published: 2023-10-18T08:56:50+00:00
+
+ ## Insidr.ai - Supercharge Your Business With AI
+ - [https://www.insidr.ai](https://www.insidr.ai)
+ - date_published: 2024-08-14T00:00:00+00:00
+
  ## InsightBase | Chat with your database using AI
  - [https://insightbase.ai](https://insightbase.ai)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -1359,6 +1569,10 @@
  ## Instantly.ai - Sales Engagement & Lead Intelligence
  - [https://instantly.ai](https://instantly.ai)
  - date_published: 2024-06-19T19:35:16.338059+00:00
+
+ ## InstructLab
+ - [https://instructlab.ai](https://instructlab.ai)
+ - date_published: 2024-08-17T11:13:56+00:00
 
  ## Embed 250+ of integration in your app in minutes
  - [https://integry.ai](https://integry.ai)
@@ -1389,7 +1603,7 @@
  - date_published: 2024-06-25T11:30:20+00:00
 
  ## Interconnects | Nathan Lambert | Substack
- - [https://www.interconnects.ai](https://www.interconnects.ai)
+ - [https://interconnects.ai](https://interconnects.ai)
  - date_published: 2023-10-25T11:39:29.532383+00:00
 
  ## Interdimensional
@@ -1438,7 +1652,7 @@
 
  ## Hello
  - [https://islamov.ai](https://islamov.ai)
- - date_published: 2023-10-25T09:01:03.717603+00:00
+ - date_published: 2023-03-15T04:35:43+00:00
  - tags: ['personal']
 
  ## Itai Nathaniel
@@ -1561,6 +1775,10 @@
  ## Job Ring: Where it pays to know people, literally
  - [https://jobring.ai](https://jobring.ai)
  - date_published: 2024-01-18T22:50:51+00:00
+
+ ## Simple Analytics
+ - [https://api.jotte.ai](https://api.jotte.ai)
+ - date_published: 2020-01-10T12:35:14+00:00
 
  ## Jotte
  - [https://jotte.ai](https://jotte.ai)
@@ -1889,6 +2107,10 @@
  - date_published: 2024-06-21T11:15:58+00:00
  - tags: ['artificial intelligence', 'music generation', 'music splitter']
 
+ ## Lamini
+ - [https://app.lamini.ai](https://app.lamini.ai)
+ - date_published: 2024-08-19T12:14:15.978229+00:00
+
  ## Lamini - Enterprise LLM Platform for Finetuning
  - [https://lamini.ai](https://lamini.ai)
  - date_published: 2023-10-25T11:39:44.613248+00:00
@@ -1973,6 +2195,10 @@
  - [https://leaselens.ai](https://leaselens.ai)
  - date_published: 2024-05-15T19:28:07+00:00
 
+ ## LeftClick | AI & Process Optimization
+ - [https://leftclick.ai](https://leftclick.ai)
+ - date_published: 2024-08-19T07:03:19.614630+00:00
+
  ## The Most Secure Legal AI Workspace | LegalFly
  - [https://www.legalfly.ai](https://www.legalfly.ai)
  - date_published: 2024-08-01T00:00:00+00:00
@@ -1994,7 +2220,7 @@
  - date_published: 2024-06-09T17:27:09.406362+00:00
 
  ## Build AI The Simple Way | Lepton AI
- - [https://www.lepton.ai](https://www.lepton.ai)
+ - [https://lepton.ai](https://lepton.ai)
  - date_published: 2023-10-25T11:39:50.228711+00:00
 
  ## The #1 AI Lesson Plan Generator
@@ -2032,6 +2258,10 @@
  ## Lexii.ai | AI Article Writer for SEO
  - [https://lexii.ai](https://lexii.ai)
  - date_published: 2024-01-25T00:00:00+00:00
+
+ ## LGN - Edge AI under control
+ - [https://lgn.ai](https://lgn.ai)
+ - date_published: 2024-08-19T07:15:29.906108+00:00
 
  ## Libraria AI Documentation - API, Components, and More
  - [https://docs.libraria.ai](https://docs.libraria.ai)
@@ -2080,7 +2310,7 @@
  - date_published: 2024-06-30T05:42:38.772207+00:00
 
  ## Rethink AI for the Enterprise - LightOn
- - [https://www.lighton.ai](https://www.lighton.ai)
+ - [https://lighton.ai](https://lighton.ai)
  - date_published: 2023-10-25T11:39:52.169704+00:00
 
  ## Limbic | Clinical AI for Mental Healthcare Providers
@@ -2130,6 +2360,10 @@
  ## Link Manager
  - [https://linkmanager.ai](https://linkmanager.ai)
  - date_published: 2023-09-15T00:00:00+00:00
+
+ ## LinkScout: AI Powered, Automated Internal Linking Tool
+ - [https://linkscout.ai](https://linkscout.ai)
+ - date_published: 2024-07-23T00:00:00+00:00
 
  ## LinTO documentation | LinTO documentation
  - [https://doc.linto.ai](https://doc.linto.ai)
@@ -2466,6 +2700,10 @@
  - date_published: 2023-10-24T20:13:16.747974+00:00
  - tags: ['mastodon']
 
+ ## Masto.ai
+ - [https://status.masto.ai](https://status.masto.ai)
+ - date_published: 2024-08-19T18:13:34.893046+00:00
+
  ## Maths.ai - AI Math tutor Online
  - [https://maths.ai](https://maths.ai)
  - date_published: 2024-06-19T20:54:51.478446+00:00
@@ -2495,7 +2733,7 @@
  - date_published: 2024-04-22T00:00:00+00:00
 
  ## jamie - Summarize Any Meeting.
- - [https://www.meetjamie.ai](https://www.meetjamie.ai)
+ - [https://meetjamie.ai](https://meetjamie.ai)
  - date_published: 2023-10-25T11:39:55.404261+00:00
 
  ## Meetra AI - Conversation Intelligence for the Future of Work
@@ -2580,7 +2818,7 @@
  - date_published: 2024-06-19T20:59:49.565322+00:00
 
  ## Automatic, AI-generated interview notes | Metaview
- - [https://www.metaview.ai](https://www.metaview.ai)
+ - [https://metaview.ai](https://metaview.ai)
  - date_published: 2023-10-25T11:39:59.444780+00:00
 
  ## Meticulate App
@@ -2612,7 +2850,7 @@
  - date_published: 2024-05-28T00:00:00+00:00
 
  ## mimicry
- - [https://www.mimicry.ai](https://www.mimicry.ai)
+ - [https://mimicry.ai](https://mimicry.ai)
  - date_published: 2023-10-25T11:40:01.529293+00:00
 
  ## MindForest | The AI Coaching App
@@ -2663,6 +2901,10 @@
  ## Mixedbread
  - [https://www.mixedbread.ai](https://www.mixedbread.ai)
  - date_published: 2024-08-12T00:00:00+00:00
+
+ ## MK1
+ - [https://mk1.ai](https://mk1.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
 
  ## MK-1
  - [https://mkone.ai](https://mkone.ai)
@@ -2776,6 +3018,10 @@
  - [https://www.move.ai](https://www.move.ai)
  - date_published: 2024-06-13T00:00:00+00:00
 
+ ## Mozilla.ai Blog
+ - [https://blog.mozilla.ai](https://blog.mozilla.ai)
+ - date_published: 2024-08-19T12:13:07.593572+00:00
+
  ## Home - Mozilla.ai
  - [https://mozilla.ai](https://mozilla.ai)
  - date_published: 2023-10-25T11:40:36.598568+00:00
@@ -2792,6 +3038,10 @@
  ## AI News
  - [https://multiplatform.ai](https://multiplatform.ai)
  - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Help Center
+ - [https://help.murf.ai](https://help.murf.ai)
+ - date_published: 2024-08-16T08:23:37+00:00
 
  ## AI Voice Generator: Versatile Text to Speech Software | Murf AI
  - [https://murf.ai](https://murf.ai)
@@ -2821,6 +3071,10 @@
  - [https://myapps.ai](https://myapps.ai)
  - date_published: 2024-02-14T00:00:00+00:00
 
+ ## Open Source Conversational AI Community
+ - [https://chat.mycroft.ai](https://chat.mycroft.ai)
+ - date_published: 2024-08-19T17:55:22.409437+00:00
+
  ## Mycroft – The Open Source Privacy-Focused Voice Assistant - Mycroft
  - [https://mycroft.ai](https://mycroft.ai)
  - date_published: 2023-10-25T08:32:40.290881+00:00
@@ -2840,6 +3094,10 @@
  ## Mylinks | Bio pages made for creators.
  - [https://mylinks.ai](https://mylinks.ai)
  - date_published: 2024-08-18T11:59:46.433424+00:00
+
+ ## mylogo.ai - AI Logo Designer
+ - [https://mylogo.ai](https://mylogo.ai)
+ - date_published: 2024-08-19T12:00:07.742885+00:00
 
  ## AI Math Solver Powered by Math GPT Free Online
  - [https://mymathsolver.ai](https://mymathsolver.ai)
@@ -2930,7 +3188,7 @@
  - date_published: 2023-08-31T07:33:11+00:00
 
  ## Neuroengine.ai
- - [https://www.neuroengine.ai](https://www.neuroengine.ai)
+ - [https://neuroengine.ai](https://neuroengine.ai)
  - date_published: 2023-10-25T11:40:43.546844+00:00
 
  ## AI Clinical Trials – Streamline Clinical Development with Neuroute
@@ -2986,6 +3244,10 @@
  ## NoCode.ai: Build AI solutions without code
  - [https://www.nocode.ai](https://www.nocode.ai)
  - date_published: 2024-07-09T17:41:35.065467+00:00
+
+ ## Noctie.ai
+ - [https://app.noctie.ai](https://app.noctie.ai)
+ - date_published: 2024-08-13T11:48:25+00:00
 
  ## Noctie.ai
  - [https://noctie.ai](https://noctie.ai)
@@ -3111,6 +3373,14 @@
  - [https://nutrition-facts.ai](https://nutrition-facts.ai)
  - date_published: 2023-10-25T11:41:01.005627+00:00
 
+ ## NVIDIA Venture Capital: NVentures
+ - [https://www.nventures.ai](https://www.nventures.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## ObjectivePersonality.ai
+ - [https://objectivepersonality.ai](https://objectivepersonality.ai)
+ - date_published: 2023-10-30T00:00:00+00:00
+
  ## Conversation Intelligence Software for Contact Centers | Observe.AI
  - [https://www.observe.ai](https://www.observe.ai)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -3159,6 +3429,10 @@
  - [https://www.olli.ai](https://www.olli.ai)
  - date_published: 2024-05-24T00:00:00+00:00
 
+ ## Omnic.AI | Game Smarter with AI
+ - [https://forge.omnic.ai](https://forge.omnic.ai)
+ - date_published: 2024-08-19T18:14:04.593044+00:00
+
  ## ChatWeb
  - [https://chat.omnifact.ai](https://chat.omnifact.ai)
  - date_published: 2024-08-08T18:33:10.969217+00:00
@@ -3200,6 +3474,10 @@
  - [https://openart.ai](https://openart.ai)
  - date_published: 2023-10-25T11:41:08.932333+00:00
 
+ ## Open Source Conversational AI Community
+ - [https://community.openconversational.ai](https://community.openconversational.ai)
+ - date_published: 2024-08-19T17:55:20.367793+00:00
+
  ## OpenDAN - Empower Open-source AI OS & Apps | Unite Minds for a Transparent AI Ecosystem
  - [https://www.opendan.ai](https://www.opendan.ai)
  - date_published: 2024-08-06T09:28:25.736045+00:00
@@ -3207,6 +3485,10 @@
  ## OpenDoc AI - Next Gen AI for Productivity
  - [https://www.opendoc.ai](https://www.opendoc.ai)
  - date_published: 2024-06-19T20:57:13.788435+00:00
+
+ ## AI ART Generator - Free Text to Image in OpenDream
+ - [https://opendream.ai](https://opendream.ai)
+ - date_published: 2024-08-19T18:14:24+00:00
 
  ## AI ART Generator - Free Text to Image in OpenDream
  - [https://www.opendream.ai](https://www.opendream.ai)
@@ -3285,6 +3567,14 @@
  - [https://orifice.ai](https://orifice.ai)
  - date_published: 2024-04-14T14:19:34+00:00
 
+ ## AI Detector API Documentation - Originality.ai
+ - [https://docs.originality.ai](https://docs.originality.ai)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Originality.ai
+ - [https://help.originality.ai](https://help.originality.ai)
+ - date_published: 2024-08-19T12:11:23.304066+00:00
+
  ## AI Content Checker and Plagiarism Check | GPT-4 | ChatGPT
  - [https://originality.ai](https://originality.ai)
  - date_published: 2023-10-25T11:41:12.986427+00:00
@@ -3292,6 +3582,10 @@
  ## Chatbot
  - [https://bot.orimon.ai](https://bot.orimon.ai)
  - date_published: 2024-06-04T16:59:15+00:00
+
+ ## Osmo
+ - [https://osmo.ai](https://osmo.ai)
+ - date_published: 2024-08-12T00:00:00+00:00
 
  ## Otter.ai - AI Meeting Note Taker & Real-time AI Transcription
  - [https://otter.ai](https://otter.ai)
@@ -3361,10 +3655,6 @@
  - [https://oxen.ai](https://oxen.ai)
  - date_published: 2024-08-18T12:24:26.641250+00:00
 
- ## Home | Oxen.ai
- - [https://www.oxen.ai](https://www.oxen.ai)
- - date_published: 2024-08-18T12:24:23.842661+00:00
-
  ## PageGenie
  - [https://pagegenie.ai](https://pagegenie.ai)
  - date_published: 2024-06-13T00:00:00+00:00
@@ -3400,6 +3690,10 @@
  ## Parafin – AI-Powered Real Estate Development
  - [http://parafin.ai](http://parafin.ai)
  - date_published: 2024-06-28T13:23:08.771801+00:00
+
+ ## Trusted Identity AI | Paravision
+ - [https://paravision.ai](https://paravision.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
 
  ## Trusted Vision AI | Paravision
  - [https://www.paravision.ai](https://www.paravision.ai)
@@ -3474,8 +3768,16 @@
  - [https://www.peppertype.ai](https://www.peppertype.ai)
  - date_published: 2024-06-19T21:08:35.206919+00:00
 
+ ## PerfAI
+ - [https://app.perfai.ai](https://app.perfai.ai)
+ - date_published: 2024-07-24T07:30:36+00:00
+
+ ## PerfAI
+ - [https://cloud.perfai.ai](https://cloud.perfai.ai)
+ - date_published: 2024-07-24T07:30:36+00:00
+
  ## AI-Driven API Performance Testing
- - [https://www.perfai.ai](https://www.perfai.ai)
+ - [https://perfai.ai](https://perfai.ai)
  - date_published: 2023-10-25T11:41:16.602552+00:00
 
  ## AI Essay Writer & AI Writing Tools | Essay Generator
@@ -3508,7 +3810,7 @@
  - date_published: 2024-06-17T00:00:00+00:00
 
  ## PetPic
- - [https://www.petpic.ai](https://www.petpic.ai)
+ - [https://petpic.ai](https://petpic.ai)
  - date_published: 2023-10-25T08:25:31.233721+00:00
 
  ## Home
@@ -3583,6 +3885,10 @@
  - [https://pickup-lines.ai](https://pickup-lines.ai)
  - date_published: 2024-06-19T20:38:06.703930+00:00
 
+ ## Developer Console | Picovoice On-Device Voice Recognition
+ - [https://console.picovoice.ai](https://console.picovoice.ai)
+ - date_published: 2024-08-14T00:14:52+00:00
+
  ## Train, develop and deploy custom voice features - Picovoice
  - [https://picovoice.ai](https://picovoice.ai)
  - date_published: 2023-10-25T11:41:19.824898+00:00
@@ -3602,6 +3908,10 @@
  ## New Business Made Easier | PitchPower
  - [https://www.pitchpower.ai](https://www.pitchpower.ai)
  - date_published: 2024-05-24T00:00:00+00:00
+
+ ## PITZ | Super highlight generator for youth sports.
+ - [https://pitz.ai](https://pitz.ai)
+ - date_published: 2024-02-14T00:00:00+00:00
 
  ## Unlock the power of modern Procurement | Pivot
  - [https://www.pivotapp.ai](https://www.pivotapp.ai)
@@ -3631,9 +3941,65 @@
  - [https://beta.pixelmind.ai](https://beta.pixelmind.ai)
  - date_published: 2022-12-28T14:45:22+00:00
 
+ ## Hintergrund aus Bild entfernen, kostenlos, keine Anmeldung - Pixian.AI
+ - [https://de.pixian.ai](https://de.pixian.ai)
+ - date_published: 2024-08-19T12:10:27.589695+00:00
+
+ ## Elimine el fondo de la imagen, gratis, sin registrarse - Pixian.AI
+ - [https://es.pixian.ai](https://es.pixian.ai)
+ - date_published: 2024-08-19T12:10:35.314015+00:00
+
+ ## Supprimez l'arrière-plan de l'image gratuitement et sans inscription - Pixian.AI
+ - [https://fr.pixian.ai](https://fr.pixian.ai)
+ - date_published: 2024-08-19T12:10:31.018699+00:00
+
+ ## इमेज से बैकग्राउंड को हटाएँ, मुफ्त, कोई साइनअप ज़रूरी नहीं - Pixian.AI
+ - [https://hi.pixian.ai](https://hi.pixian.ai)
+ - date_published: 2024-08-19T12:10:09.056731+00:00
+
+ ## Hapus Latar Belakang dari Gambar, Gratis, Tanpa Pendaftaran - Pixian.AI
+ - [https://id.pixian.ai](https://id.pixian.ai)
+ - date_published: 2024-08-19T12:10:33.318137+00:00
+
+ ## Rimuovi lo sfondo dall'immagine, gratuito, nessun abbonamento - Pixian.AI
+ - [https://it.pixian.ai](https://it.pixian.ai)
+ - date_published: 2024-08-19T12:10:46.052529+00:00
+
+ ## 画像から背景を削除、無料、登録不要 - Pixian.AI
+ - [https://ja.pixian.ai](https://ja.pixian.ai)
+ - date_published: 2024-08-19T12:10:04.709579+00:00
+
+ ## 이미지에서 배경 제거, 무료, 가입 필요 없음 - Pixian.AI
+ - [https://ko.pixian.ai](https://ko.pixian.ai)
+ - date_published: 2024-08-19T12:10:06.721078+00:00
+
  ## Remove Background from Image, Free HD, No Signup - Pixian.AI
  - [https://pixian.ai](https://pixian.ai)
  - date_published: 2023-10-25T11:41:22.061266+00:00
+
+ ## Usuń tło z obrazu, bezpłatnie, bez rejestracji - Pixian.AI
+ - [https://pl.pixian.ai](https://pl.pixian.ai)
+ - date_published: 2024-08-19T12:10:59.302437+00:00
+
+ ## Remova fundos de imagens gratuitamente, sem fazer assinatura - Pixian.AI
+ - [https://pt.pixian.ai](https://pt.pixian.ai)
+ - date_published: 2024-08-19T12:10:50.420263+00:00
+
+ ## Удалить фон из изображения, бесплатно, без регистрации - Pixian.AI
+ - [https://ru.pixian.ai](https://ru.pixian.ai)
+ - date_published: 2024-08-19T12:10:37.623294+00:00
+
+ ## ลบพื้นหลังออกจากรูปภาพได้ฟรี ไม่ต้องสมัครสมาชิก - Pixian.AI
+ - [https://th.pixian.ai](https://th.pixian.ai)
+ - date_published: 2024-08-19T12:10:48.069798+00:00
+
+ ## Resimden Arka Planı Kaldırın, Ücretsiz, Kayıt Yok - Pixian.AI
+ - [https://tr.pixian.ai](https://tr.pixian.ai)
+ - date_published: 2024-08-19T12:10:39.642884+00:00
+
+ ## Xóa Hình Nền khỏi Hình Ảnh, Miễn phí, Không Đăng Nhập - Pixian.AI
+ - [https://vi.pixian.ai](https://vi.pixian.ai)
+ - date_published: 2024-08-19T12:10:12.383228+00:00
 
  ## Pixu|Home
  - [https://pixu.ai](https://pixu.ai)
@@ -3654,371 +4020,4 @@
  ## Plandex - AI programming engine
  - [https://plandex.ai](https://plandex.ai)
  - date_published: 2024-04-03T19:49:14.844485+00:00
-
- ## Plask Motion: AI-powered Mocap
- - [https://plask.ai](https://plask.ai)
- - date_published: 2024-06-19T20:36:56.019109+00:00
-
- ## Plato
- - [https://platoeducation.ai](https://platoeducation.ai)
- - date_published: 2023-10-25T11:41:28.231604+00:00
-
- ## PLAUD NOTE: ChatGPT Empowered AI Voice Recorder | PLAUD
- - [https://www.plaud.ai](https://www.plaud.ai)
- - date_published: 2024-08-06T19:31:02.602197+00:00
-
- ## PlayAI
- - [https://play.ai](https://play.ai)
- - date_published: 2024-08-06T05:41:38.629250+00:00
-
- ## Player Two
- - [https://app.playertwo.ai](https://app.playertwo.ai)
- - date_published: 2024-06-14T04:25:15+00:00
-
- ## PlotNotes - Home
- - [https://www.plotnotes.ai](https://www.plotnotes.ai)
- - date_published: 2023-10-25T11:41:29.584225+00:00
-
- ## Plugger - Automate your design work with AI and increase your growth!
- - [https://www.plugger.ai](https://www.plugger.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Driver Assist and Autonomous Driving Technologies and Solutions | Plus
- - [https://plus.ai](https://plus.ai)
- - date_published: 2024-07-12T07:18:47.395895+00:00
-
- ## podcast.ai
- - [https://podcast.ai](https://podcast.ai)
- - date_published: 2023-10-25T11:41:30.853722+00:00
-
- ## Podcastle: All-in-One Podcast Software
- - [https://podcastle.ai](https://podcastle.ai)
- - date_published: 2024-06-19T20:10:37.323074+00:00
-
- ## Podcast Marketing AI
- - [https://podcastmarketing.ai](https://podcastmarketing.ai)
- - date_published: 2024-06-19T19:05:11.386894+00:00
-
- ## Podcast transcripts, sponsors, and audience data - Podscribe
- - [https://app.podscribe.ai](https://app.podscribe.ai)
- - date_published: 2024-06-13T13:45:33+00:00
-
- ## Podcast Transcripts - PodText
- - [https://podtext.ai](https://podtext.ai)
- - date_published: 2023-10-25T11:41:33.465633+00:00
-
- ## Podwise - Podcast knowledge at 10x speed
- - [https://podwise.ai](https://podwise.ai)
- - date_published: 2024-05-12T06:41:30.988245+00:00
-
- ## PointOne
- - [https://pointone.ai](https://pointone.ai)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Pollinations.AI
- - [https://pollinations.ai](https://pollinations.ai)
- - date_published: 2024-06-19T21:38:19.950079+00:00
-
- ## Home - PolyAI
- - [https://poly.ai](https://poly.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Pony.ai
- - [http://pony.ai](http://pony.ai)
- - date_published: 2022-03-31T00:00:00+00:00
-
- ## poolside
- - [https://poolside.ai](https://poolside.ai)
- - date_published: 2024-06-16T19:19:42.644364+00:00
-
- ## Poper
- - [https://app.poper.ai](https://app.poper.ai)
- - date_published: 2024-07-11T14:25:17.969929+00:00
-
- ## Poper
- - [https://internal-test.poper.ai](https://internal-test.poper.ai)
- - date_published: 2024-05-12T05:41:05.006040+00:00
-
- ## Roadmap - Poper
- - [https://roadmap.poper.ai](https://roadmap.poper.ai)
- - date_published: 2024-07-11T14:25:19.233915+00:00
-
- ## Poper: Smart Popups for Smart Sites
- - [https://poper.ai](https://poper.ai)
- - date_published: 2024-05-09T09:14:49.760561+00:00
-
- ## Postersession.ai
- - [https://postersession.ai](https://postersession.ai)
- - date_published: 2024-07-12T16:13:23.708585+00:00
-
- ## PosterStudio
- - [https://www.posterstudio.ai](https://www.posterstudio.ai)
- - date_published: 2024-05-22T08:35:46+00:00
-
- ## Design and publish social media campaigns at scale, powered by AI
- - [https://postly.ai](https://postly.ai)
- - date_published: 2024-06-19T19:35:23.030736+00:00
-
- ## Postus: AI-Powered Social Media Automation
- - [https://postus.ai](https://postus.ai)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Postwise | Write, Schedule & Grow with Twitter AI
- - [https://postwise.ai](https://postwise.ai)
- - date_published: 2024-06-19T19:27:25.442496+00:00
-
- ## Realistic AI Photo Generator
- - [https://poto.ai](https://poto.ai)
- - date_published: 2024-07-08T16:13:51.938347+00:00
-
- ## Powerpresent AI - Create powerful presentations with AI
- - [https://powerpresent.ai](https://powerpresent.ai)
- - date_published: 2024-06-19T20:52:05.878344+00:00
-
- ## Best AI Tools And Resources I Power Users A1
- - [https://powerusers.ai](https://powerusers.ai)
- - date_published: 2023-04-23T15:40:26+00:00
-
- ## Home - PraisonAI Documentation
- - [https://docs.praison.ai](https://docs.praison.ai)
- - date_published: 2024-08-06T09:08:04+00:00
-
- ## Praktika — Language learning app with generative AI Avatar Tutors
- - [https://praktika.ai](https://praktika.ai)
- - date_published: 2024-06-06T09:08:01+00:00
-
- ## Predian Inventory - Dealership made simple
- - [https://www.predian.ai](https://www.predian.ai)
- - date_published: 2024-06-29T14:50:22.439880+00:00
-
- ## AI Content Generation | Competitor Analysis - Predis.ai
- - [https://predis.ai](https://predis.ai)
- - date_published: 2024-06-19T19:25:22.982781+00:00
-
- ## Create presentations, docs & websites with AI | Prezo
- - [https://www.prezo.ai](https://www.prezo.ai)
- - date_published: 2024-06-19T19:50:36.669110+00:00
-
- ## Prioris.ai Inc. When predictions matter
- - [https://www.prioris.ai](https://www.prioris.ai)
- - date_published: 2024-02-22T19:22:19+00:00
-
- ## PRISM Eval
- - [https://www.prism-eval.ai](https://www.prism-eval.ai)
- - date_published: 2024-06-21T11:42:20.193874+00:00
-
- ## Prisms
- - [https://prisms.ai](https://prisms.ai)
- - date_published: 2024-06-19T19:03:57.102094+00:00
-
- ## Commercial real estate software - PRODA
- - [https://www.proda.ai](https://www.proda.ai)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## productkit.ai
- - [http://productkit.ai](http://productkit.ai)
- - date_published: 2024-07-03T16:45:50.436442+00:00
-
- ## New Home
- - [https://productscience.ai](https://productscience.ai)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## AI Product Photography & Amazon Lising Optimizer for Brands
- - [https://productscope.ai](https://productscope.ai)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## AI Profile Picture Generator and Maker | PFP.AI
- - [https://profilepicture.ai](https://profilepicture.ai)
- - date_published: 2024-07-24T02:30:50.604521+00:00
-
- ## Project Planner – Ai powered Project management tools
- - [https://projectplanner.ai](https://projectplanner.ai)
- - date_published: 2024-06-19T19:51:28.975369+00:00
-
- ## Learn, Share, Connect | HackHub
- - [https://www.promatch.ai](https://www.promatch.ai)
- - date_published: 2024-02-24T07:27:58+00:00
-
- ## Cognee - We help you build deterministic AI memory
- - [https://www.prometh.ai](https://www.prometh.ai)
- - date_published: 2024-06-19T19:50:46.126889+00:00
-
- ## PromptBox : Save, Share & Paste Repetative Text
- - [https://www.promptbox.ai](https://www.promptbox.ai)
- - date_published: 2024-06-19T21:13:19.106460+00:00
-
- ## Promptchan AI: NSFW AI Generator - No Filter
- - [https://promptchan.ai](https://promptchan.ai)
- - date_published: 2024-06-14T08:54:03.371354+00:00
- - tags: ['nsfw']
-
- ## Prompt Engineering Guide – Nextra
- - [https://promptingguide.ai](https://promptingguide.ai)
- - date_published: 2024-04-29T07:57:30.108750+00:00
-
- ## Professionelles Prompting
- - [https://promptwhispering.ai](https://promptwhispering.ai)
- - date_published: 2024-06-17T01:47:09.248648+00:00
-
- ## Promtify - Your Gateway to AI-Powered Content Generation
- - [https://www.promtify.ai](https://www.promtify.ai)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Pronto.ai – Autonomous Haulage Systems
- - [https://pronto.ai](https://pronto.ai)
- - date_published: 2023-01-18T00:00:00+00:00
-
- ## Propelix: Admin
- - [https://cdn.propelix.ai](https://cdn.propelix.ai)
- - date_published: 2024-07-04T06:55:49.814048+00:00
-
- ## Propelix: Admin
- - [https://propelix.ai](https://propelix.ai)
- - date_published: 2024-05-08T05:20:12.803500+00:00
-
- ## The #1 Professional AI Headshot Generator - ProPhotos
- - [https://prophotos.ai](https://prophotos.ai)
- - date_published: 2024-06-19T20:50:11.430704+00:00
-
- ## Custom Domain by Bitly
- - [https://bitly.protocol.ai](https://bitly.protocol.ai)
- - date_published: 2024-06-21T19:27:27+00:00
-
- ## Hackathons
- - [https://events.protocol.ai](https://events.protocol.ai)
- - date_published: 2024-06-22T13:34:27.413221+00:00
-
- ## PL VS Job Board
- - [https://jobs.protocol.ai](https://jobs.protocol.ai)
- - date_published: 2024-06-22T13:33:26.292177+00:00
-
- ## Protocol Labs
- - [https://protocol.ai](https://protocol.ai)
- - date_published: 2023-10-25T11:41:36.421044+00:00
-
- ## Protocol Labs Research
- - [https://research.protocol.ai](https://research.protocol.ai)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Proton Engineering Blog
- - [https://blog.dev.proton.ai](https://blog.dev.proton.ai)
- - date_published: 2022-02-01T00:00:00+00:00
-
- ## Proton CRM Home
- - [https://proton.ai](https://proton.ai)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## PumasAI | Fine-tuned to drug development needs & healthcare delivery | PumasAI
- - [https://pumas.ai](https://pumas.ai)
- - date_published: 2024-05-08T09:51:10.927513+00:00
-
- ## punchlines.ai :: Generate jokes with a GPT-based AI
- - [https://punchlines.ai](https://punchlines.ai)
- - date_published: 2023-10-25T11:41:38.149007+00:00
-
- ## Quackcheck
- - [https://quackcheck.puny.ai](https://quackcheck.puny.ai)
- - date_published: 2023-09-25T22:10:22+00:00
-
- ## Walking With
- - [https://walkingwith.puny.ai](https://walkingwith.puny.ai)
- - date_published: 2023-08-09T13:15:06+00:00
-
- ## Purple Wave
- - [https://purplewave.ai](https://purplewave.ai)
- - date_published: 2023-04-23T22:05:55+00:00
-
- ## Create Custom Jigsaw Puzzles Online | PuzzleGenerator.ai
- - [https://www.puzzlegenerator.ai](https://www.puzzlegenerator.ai)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Puzzle Studio
- - [https://www.puzzlelabs.ai](https://www.puzzlelabs.ai)
- - date_published: 2024-06-19T19:48:36.812433+00:00
-
- ## Pwnagotchi - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
- - [https://pwnagotchi.ai](https://pwnagotchi.ai)
- - date_published: 2019-01-01T00:00:00+00:00
- - tags: ['wifi', 'hardware hacking']
-
- ## Homepage
- - [https://www.pymetrics.ai](https://www.pymetrics.ai)
- - date_published: 2023-12-11T00:00:00+00:00
-
- ## Excel automation and Python code generation AI assistant | Pyoneer
- - [https://pyoneer.ai](https://pyoneer.ai)
- - date_published: 2024-05-23T19:40:56.457405+00:00
-
- ## Pyro Documentation — Pyro  documentation
- - [http://docs.pyro.ai](http://docs.pyro.ai)
- - date_published: 2024-06-02T00:32:54+00:00
-
- ## Pyro Discussion Forum
- - [http://forum.pyro.ai](http://forum.pyro.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Funsor is a tensor-like library for functions and distributions — Funsor 0.0 documentation
- - [http://funsor.pyro.ai](http://funsor.pyro.ai)
- - date_published: 2023-08-31T18:40:33+00:00
-
- ## NumPyro documentation — NumPyro  documentation
- - [https://num.pyro.ai](https://num.pyro.ai)
- - date_published: 2024-05-13T20:59:22+00:00
-
- ## Pyro
- - [https://pyro.ai](https://pyro.ai)
- - date_published: 2024-05-04T05:46:20.222889+00:00
-
- ## Pythagora Blog
- - [https://blog.pythagora.ai](https://blog.pythagora.ai)
- - date_published: 2024-03-03T22:14:20.682628+00:00
-
- ## Submit Repository
- - [https://code-whisperer.examples.pythagora.ai](https://code-whisperer.examples.pythagora.ai)
- - date_published: 2024-05-09T04:53:12.104633+00:00
-
- ## Prompt Engineering
- - [https://prompt-lab.examples.pythagora.ai](https://prompt-lab.examples.pythagora.ai)
- - date_published: 2024-02-09T22:11:20+00:00
-
- ## Login
- - [https://star-history.examples.pythagora.ai](https://star-history.examples.pythagora.ai)
- - date_published: 2024-05-09T04:53:12.994422+00:00
-
- ## Pythagora
- - [https://pythagora.ai](https://pythagora.ai)
- - date_published: 2024-03-02T00:00:00+00:00
- - tags: ['artificial intelligence']
-
- ## Pythia Guide and PrimaSounds
- - [https://pythiaguide.ai](https://pythiaguide.ai)
- - date_published: 2024-05-01T07:59:27.994905+00:00
-
- ## 轻舟智航 - 将无人驾驶带进现实
- - [http://qcraft.ai](http://qcraft.ai)
- - date_published: 2024-07-12T07:18:21.166298+00:00
-
- ## Extract short clips from your videos in a flash.
- - [https://www.qlip.ai](https://www.qlip.ai)
- - date_published: 2024-05-16T16:19:17+00:00
-
- ## QMR – QMR
- - [https://www.qmr.ai](https://www.qmr.ai)
- - date_published: 2023-10-25T11:41:43.521292+00:00
-
- ## QnA Maker
- - [https://qnamaker.ai](https://qnamaker.ai)
- - date_published: 2024-05-02T12:44:28.817311+00:00
-
- ## QoQo - your user experience AI companion
- - [https://qoqo.ai](https://qoqo.ai)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## QORTEX | Video Intelligence for Ads, Monetization, Analytics
- - [https://www.qortex.ai](https://www.qortex.ai)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## QR code generator - QRCode AI
- - [https://qrcode.ai](https://qrcode.ai)
- - date_published: 2024-06-19T20:06:39.737756+00:00
 
