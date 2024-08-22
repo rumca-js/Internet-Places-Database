@@ -1,3 +1,87 @@
+ ## Seal Cafe
+ - [https://seal.cafe](https://seal.cafe)
+ - date_published: 2024-08-07T13:09:27.639690+00:00
+
+ ## Sivar Cafe
+ - [https://sivar.cafe](https://sivar.cafe)
+ - date_published: 2024-07-10T06:39:30.430324+00:00
+
+ ## Akkoma
+ - [https://sleepless.cafe](https://sleepless.cafe)
+ - date_published: 2024-06-17T03:31:52.907540+00:00
+
+ ## Business-Class Web Hosting by (mt) Media Temple
+ - [http://spam.cafe](http://spam.cafe)
+ - date_published: 2022-06-15T17:49:35+00:00
+
+ ## Status Cafe
+ - [https://status.cafe](https://status.cafe)
+ - date_published: 2024-04-30T06:16:34.197522+00:00
+
+ ## Sunday Sites
+ - [https://sundaysites.cafe](https://sundaysites.cafe)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Théo Bori
+ - [https://theobori.cafe](https://theobori.cafe)
+ - date_published: 2024-08-08T15:33:07.836501+00:00
+
+ ## Pencil
+ - [https://pencil.toast.cafe](https://pencil.toast.cafe)
+ - date_published: 2023-10-25T12:09:51.787994+00:00
+
+ ## Toot Café
+ - [https://toot.cafe](https://toot.cafe)
+ - date_published: 2023-10-25T12:09:53.298119+00:00
+
+ ## troet.cafe  - Mastodon
+ - [https://troet.cafe](https://troet.cafe)
+ - date_published: 2024-04-29T06:14:07.312882+00:00
+
+ ## Accueil - Unbon.cafe
+ - [https://unbon.cafe](https://unbon.cafe)
+ - date_published: 2022-12-31T17:47:13+00:00
+
+ ## VocaLounge
+ - [https://vocalounge.cafe](https://vocalounge.cafe)
+ - date_published: 2024-07-10T08:45:08.700397+00:00
+
+ ## Deep Live Cam: Real-time face swapping and one-click video deepfake tool
+ - [https://deeplive.cam](https://deeplive.cam)
+ - date_published: 2024-08-10T13:05:48+00:00
+
+ ## Halide Mark II: Pro. Camera. Action.
+ - [https://halide.cam](https://halide.cam)
+ - date_published: 2023-11-04T02:08:25+00:00
+
+ ## Observing Time
+ - [https://observingtime.cam](https://observingtime.cam)
+ - date_published: 2024-08-11T21:09:56.664586+00:00
+
+ ## Polycam Learn
+ - [https://learn.poly.cam](https://learn.poly.cam)
+ - date_published: 2024-04-30T05:35:06.503204+00:00
+
+ ## Polycam - LiDAR & 3D Scanner for iPhone & Android
+ - [https://poly.cam](https://poly.cam)
+ - date_published: 2023-10-25T08:38:30.080927+00:00
+
+ ## Spectre
+ - [https://spectre.cam](https://spectre.cam)
+ - date_published: 2024-04-30T05:35:11.723117+00:00
+
+ ## Firewatch Camera - About
+ - [https://firewatch.camera](https://firewatch.camera)
+ - date_published: 2024-08-18T19:43:10.846653+00:00
+
+ ## 💛 Locket Widget
+ - [https://locket.camera](https://locket.camera)
+ - date_published: 2024-08-01T19:02:38+00:00
+
+ ## Lux
+ - [https://lux.camera](https://lux.camera)
+ - date_published: 2023-10-25T12:09:56.046567+00:00
+
  ## meow.camera
  - [https://meow.camera](https://meow.camera)
  - date_published: 2024-06-20T02:56:52.252276+00:00
@@ -366,6 +450,10 @@
  ## Lufthansa Group Careers
  - [https://lufthansagroup.careers](https://lufthansagroup.careers)
  - date_published: 2024-05-12T05:11:06.078396+00:00
+
+ ## Privacy is a universal right - Mullvad VPN
+ - [https://www.mullvad.careers](https://www.mullvad.careers)
+ - date_published: 2024-08-20T04:53:03.875391+00:00
 
  ## parttime.careers - Domain Name For Sale | Dan.com
  - [https://parttime.careers](https://parttime.careers)
@@ -3938,92 +4026,4 @@
  ## Reflections of a Newsosaur
  - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
  - date_published: 2024-07-30T08:15:33+00:00
-
- ## Nuit Blanche
- - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
- - date_published: 2023-08-17T05:00:00+00:00
-
- ## sirdarckcat
- - [https://sirdarckcat.blogspot.ch](https://sirdarckcat.blogspot.ch)
- - date_published: 2024-03-05T08:00:48+00:00
-
- ## Chocolats Blondel, Chocolatier depuis 1850
- - [https://blondel.ch](https://blondel.ch)
- - date_published: 2024-06-14T15:28:31.291077+00:00
-
- ## blue TV
- - [https://tv.blue.ch](https://tv.blue.ch)
- - date_published: 2024-06-13T16:45:40+00:00
-
- ## blue+ | Sport, TV, Serien & Filme schauen
- - [https://www.blueplus.ch](https://www.blueplus.ch)
- - date_published: 2024-06-13T13:39:42+00:00
-
- ## Tägliche News, Sport und Entertainment
- - [https://www.bluewin.ch](https://www.bluewin.ch)
- - date_published: 2024-06-16T07:20:55.599995+00:00
-
- ## Eigene Bücher & E-Books im Self-Publishing - bod.ch
- - [https://www.bod.ch](https://www.bod.ch)
- - date_published: 2024-07-08T13:06:06.430136+00:00
-
- ## BOHEM Verlag - Schöne Bilderbücher
- - [http://www.bohem.ch](http://www.bohem.ch)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Musée Bolo – Musée suisse de l'informatique, de la culture numérique et du jeu vidéo
- - [https://bolo.ch](https://bolo.ch)
- - date_published: 2024-05-12T07:15:04.597151+00:00
-
- ## Bonto.ch - Junior B.
- - [https://www.bonto.ch](https://www.bonto.ch)
- - date_published: 2023-01-22T11:41:37+00:00
-
- ## BRACK.CH
- - [https://www.brack.ch](https://www.brack.ch)
- - date_published: 2024-07-20T16:12:42.234924+00:00
-
- ## brandlift – Agence de Design graphique – Genève
- - [https://brandlift.ch](https://brandlift.ch)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Breitband
- - [https://breitband.ch](https://breitband.ch)
- - date_published: 2024-07-01T08:50:36+00:00
-
- ## Broadcast.ch
- - [https://www.broadcast.ch](https://www.broadcast.ch)
- - date_published: 2024-07-21T05:39:05.192984+00:00
-
- ## Bromeon :: Home
- - [https://bromeon.ch](https://bromeon.ch)
- - date_published: 2019-10-07T13:49:13+00:00
-
- ## Brother Online
- - [https://atyourside.brother.ch](https://atyourside.brother.ch)
- - date_published: 2024-06-17T20:27:26.043392+00:00
-
- ## Drucken, Kopieren, Scannen | Brother Schweiz Online-Shop
- - [https://www.brother.ch](https://www.brother.ch)
- - date_published: 2024-05-02T11:24:03.503734+00:00
-
- ## Brüggli | Startseite
- - [http://www.brueggli.ch](http://www.brueggli.ch)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Kanton Basel-Stadt
- - [https://www.bs.ch](https://www.bs.ch)
- - date_published: 2024-07-24T06:06:28.950217+00:00
-
- ## Abteilung Kultur Basel-Stadt
- - [https://www.kultur.bs.ch](https://www.kultur.bs.ch)
- - date_published: 2024-07-24T04:31:12.033135+00:00
-
- ## B-Sides
- - [http://b-sides.ch](http://b-sides.ch)
- - date_published: 2024-07-13T15:28:59.100967+00:00
-
- ## Online-Buchhandlung für die Schweiz - buchhaus.ch
- - [https://www.buchhaus.ch](https://www.buchhaus.ch)
- - date_published: 2024-07-20T16:11:40.424478+00:00
 

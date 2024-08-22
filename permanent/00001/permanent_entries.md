@@ -1,3 +1,7 @@
+ ## Elf Help
+ - [https://www.elfhelp.ai](https://www.elfhelp.ai)
+ - date_published: 2024-06-19T19:49:50.461354+00:00
+
  ## Elo AI | RFP AI & Intelligent Sales Enablement Platform
  - [https://www.elo.ai](https://www.elo.ai)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -279,10 +283,6 @@
  ## Welcome to fastai – fastai
  - [https://docs.fast.ai](https://docs.fast.ai)
  - date_published: 2024-07-30T22:44:57+00:00
-
- ## fast.ai - fast.ai—Making neural nets uncool again
- - [http://fast.ai](http://fast.ai)
- - date_published: 2024-02-29T06:55:23+00:00
 
  ## fastpages
  - [https://fastpages.fast.ai](https://fastpages.fast.ai)
@@ -768,6 +768,10 @@
  ## getimg.ai status
  - [https://status.getimg.ai](https://status.getimg.ai)
  - date_published: 2024-08-19T12:14:41.813205+00:00
+
+ ## Introduction - Docs
+ - [https://docs.getindexify.ai](https://docs.getindexify.ai)
+ - date_published: 2024-07-23T00:00:00+00:00
 
  ## Show HN: Open-Source Real Time Data Framework for LLM Applications
  - [https://getindexify.ai](https://getindexify.ai)
@@ -1402,10 +1406,6 @@
  - date_published: 2024-08-19T12:14:28.905781+00:00
 
  ## IFCA
- - [http://ifca.ai](http://ifca.ai)
- - date_published: 2024-06-17T10:11:16.631788+00:00
-
- ## IFCA
  - [https://ifca.ai](https://ifca.ai)
  - date_published: 2023-10-25T11:39:11.249743+00:00
 
@@ -1625,6 +1625,10 @@
  ## Grammar Builder
  - [https://grammar.intrinsiclabs.ai](https://grammar.intrinsiclabs.ai)
  - date_published: 2023-10-25T11:39:32.215737+00:00
+
+ ## Intuitivo
+ - [https://www.intuitivo.ai](https://www.intuitivo.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
 
  ## Home
  - [https://www.investmentmonitor.ai](https://www.investmentmonitor.ai)
@@ -2305,10 +2309,6 @@
  - [https://lightning.ai](https://lightning.ai)
  - date_published: 2023-10-25T11:39:51.150860+00:00
 
- ## Private, scalable and customizable Gen AI - LightOn
- - [http://lighton.ai](http://lighton.ai)
- - date_published: 2024-06-30T05:42:38.772207+00:00
-
  ## Rethink AI for the Enterprise - LightOn
  - [https://lighton.ai](https://lighton.ai)
  - date_published: 2023-10-25T11:39:52.169704+00:00
@@ -2876,6 +2876,10 @@
  ## Mindtrip: AI-powered travel, personalized to you.
  - [https://mindtrip.ai](https://mindtrip.ai)
  - date_published: 2024-06-15T04:08:15.269469+00:00
+
+ ## minusx.ai - AI Data Scientist
+ - [https://minusx.ai](https://minusx.ai)
+ - date_published: 2024-08-20T17:09:58+00:00
 
  ## MirrorThink
  - [https://mirrorthink.ai](https://mirrorthink.ai)
@@ -3478,6 +3482,10 @@
  - [https://community.openconversational.ai](https://community.openconversational.ai)
  - date_published: 2024-08-19T17:55:20.367793+00:00
 
+ ## Computer Vision Software Development Services | OpenCV.ai
+ - [https://opencv.ai](https://opencv.ai)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## OpenDAN - Empower Open-source AI OS & Apps | Unite Minds for a Transparent AI Ecosystem
  - [https://www.opendan.ai](https://www.opendan.ai)
  - date_published: 2024-08-06T09:28:25.736045+00:00
@@ -3489,10 +3497,6 @@
  ## AI ART Generator - Free Text to Image in OpenDream
  - [https://opendream.ai](https://opendream.ai)
  - date_published: 2024-08-19T18:14:24+00:00
-
- ## AI ART Generator - Free Text to Image in OpenDream
- - [https://www.opendream.ai](https://www.opendream.ai)
- - date_published: 2024-06-19T19:07:03+00:00
 
  ## OpenObserve
  - [https://cloud.openobserve.ai](https://cloud.openobserve.ai)
@@ -3694,10 +3698,6 @@
  ## Trusted Identity AI | Paravision
  - [https://paravision.ai](https://paravision.ai)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Trusted Vision AI | Paravision
- - [https://www.paravision.ai](https://www.paravision.ai)
- - date_published: 2024-05-30T00:00:00+00:00
 
  ## Parea AI
  - [https://app.parea.ai](https://app.parea.ai)

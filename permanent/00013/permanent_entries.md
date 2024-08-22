@@ -1,3 +1,76 @@
+ ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
+ - [https://indigo.ca](https://indigo.ca)
+ - date_published: 2024-05-07T15:43:22.753534+00:00
+
+ ## Indigo Portal
+ - [https://assets.indigoimages.ca](https://assets.indigoimages.ca)
+ - date_published: 2024-06-30T07:14:16.564602+00:00
+
+ ## Implementing New Knowledge Environments (INKE) Partnership | A Canadian Social Knowledge Institute research partnership
+ - [https://inke.ca](https://inke.ca)
+ - date_published: 2024-07-11T13:08:10.219122+00:00
+
+ ## Innovating Canada
+ - [https://www.innovatingcanada.ca](https://www.innovatingcanada.ca)
+ - date_published: 2024-08-11T07:37:51.816636+00:00
+
+ ## Research Facilities Navigator
+ - [https://navigator.innovation.ca](https://navigator.innovation.ca)
+ - date_published: 2024-07-06T23:31:34+00:00
+
+ ## Home | Canada Foundation for Innovation
+ - [https://www.innovation.ca](https://www.innovation.ca)
+ - date_published: 2024-07-10T10:45:15+00:00
+
+ ## Accueil
+ - [https://inrs.ca](https://inrs.ca)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Inside the Perimeter - News, Videos and More from Perimeter Institute
+ - [https://insidetheperimeter.ca](https://insidetheperimeter.ca)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Institut climatique du Canada: Changement climatique Canada
+ - [https://institutclimatique.ca](https://institutclimatique.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Insulation in Canada, Canada
+ - [http://www.insulation.ca](http://www.insulation.ca)
+ - date_published: 2024-06-29T17:26:14.517068+00:00
+
+ ## Intact Insurance | Insurance quote for car, home, business and more
+ - [https://www.intact.ca](https://www.intact.ca)
+ - date_published: 2024-07-11T17:16:05.776002+00:00
+
+ ## IntegrityCounts
+ - [https://www.integritycounts.ca](https://www.integritycounts.ca)
+ - date_published: 2024-05-04T10:05:01.145210+00:00
+
+ ## Intel | Data Center Solutions, IoT, and PC Innovation
+ - [https://intel.ca](https://intel.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Home
+ - [https://www.interac.ca](https://www.interac.ca)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home | Interactive Brokers Canada Inc.
+ - [https://www.interactivebrokers.ca](https://www.interactivebrokers.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Interior Health | Interior Health
+ - [https://www.interiorhealth.ca](https://www.interiorhealth.ca)
+ - date_published: 2024-08-18T12:19:06.997703+00:00
+
+ ## Interrupt Labs
+ - [https://interruptlabs.ca](https://interruptlabs.ca)
+ - date_published: 2023-10-25T12:05:15.572215+00:00
+
+ ## Flashing Palely in the Margins
+ - [https://www.inthemargins.ca](https://www.inthemargins.ca)
+ - date_published: 2024-04-03T12:44:39.135509+00:00
+ - tags: ['personal']
+
  ## TurboImpôt Canada 2023-2024 : Le logiciel de préparation d’impôt le plus vendu au pays | Faites vos impôts en ligne
  - [https://turboimpot.intuit.ca](https://turboimpot.intuit.ca)
  - date_published: 2024-06-16T11:12:35.947721+00:00
@@ -335,6 +408,10 @@
  ## Welcome to KHSC - SITE HOME PAGE
  - [https://kingstonhsc.ca](https://kingstonhsc.ca)
  - date_published: 2023-06-28T15:25:10+00:00
+
+ ## Welcome to the Pumphouse
+ - [https://www.kingstonpumphouse.ca](https://www.kingstonpumphouse.ca)
+ - date_published: 2024-08-18T12:20:52+00:00
 
  ## Kipp Scott GMC Buick: Vehicle Sales and Auto Repair | Red Deer AB
  - [https://www.kippscott.ca](https://www.kippscott.ca)
@@ -1835,6 +1912,10 @@
  ## City of Ottawa
  - [http://www.ottawa.ca](http://www.ottawa.ca)
  - date_published: 2022-07-01T00:00:00+00:00
+
+ ## Ottawa Contra
+ - [http://www.ottawacontra.ca](http://www.ottawacontra.ca)
+ - date_published: 2024-08-20T05:17:12.669304+00:00
 
  ## Home
  - [https://www.ottawapublichealth.ca](https://www.ottawapublichealth.ca)
@@ -3639,6 +3720,10 @@
  - [https://tentree.ca](https://tentree.ca)
  - date_published: 2024-05-13T00:00:00+00:00
 
+ ## ThatGeoGuy - Home
+ - [https://www.thatgeoguy.ca](https://www.thatgeoguy.ca)
+ - date_published: 2024-06-19T21:58:24+00:00
+
  ## The Big Story Podcast
  - [https://thebigstorypodcast.ca](https://thebigstorypodcast.ca)
  - date_published: 2024-02-24T18:20:54.908441+00:00
@@ -3963,88 +4048,4 @@
  ## Towing in Canada, Canada
  - [http://www.towing.ca](http://www.towing.ca)
  - date_published: 2024-06-03T00:00:00+00:00
-
- ## Curiousity? | Dr. Terri's Maker Log
- - [http://terri.toybox.ca](http://terri.toybox.ca)
- - date_published: 2024-06-28T19:53:28.454404+00:00
-
- ## Newsroom | Toyota Canada
- - [https://media.toyota.ca](https://media.toyota.ca)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Digital Archive : Toronto Public Library
- - [https://digitalarchive.tpl.ca](https://digitalarchive.tpl.ca)
- - date_published: 2024-05-12T05:59:16.466961+00:00
-
- ## Account : Toronto Public Library
- - [https://lists.tpl.ca](https://lists.tpl.ca)
- - date_published: 2024-05-12T05:59:15.076276+00:00
-
- ## Home
- - [https://tpl.ca](https://tpl.ca)
- - date_published: 2024-07-14T19:20:52.035501+00:00
-
- ## Toronto Public Library - Programs
- - [https://events.tplcs.ca](https://events.tplcs.ca)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Home Page for TPL Foundation - Toronto Public Library Foundation
- - [http://donate.tplfoundation.ca](http://donate.tplfoundation.ca)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home Page for TPL Foundation - Toronto Public Library Foundation
- - [https://tplfoundation.ca](https://tplfoundation.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Toronto Public Library Foundation's 2017 Annual Report
- - [https://whygive.tplfoundation.ca](https://whygive.tplfoundation.ca)
- - date_published: 2024-07-15T10:46:56.977972+00:00
-
- ## Welcome to your Strapi app
- - [https://cms.tpllabs.ca](https://cms.tpllabs.ca)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## TPUG – Toronto PET Users Group
- - [https://www.tpug.ca](https://www.tpug.ca)
- - date_published: 2024-07-14T12:20:13.387868+00:00
-
- ## Today's Home: Trail Real Estate
- - [https://homes.trailtimes.ca](https://homes.trailtimes.ca)
- - date_published: 2024-06-29T11:31:57.898993+00:00
-
- ## Public Transit in Ottawa
- - [http://www.transitottawa.ca](http://www.transitottawa.ca)
- - date_published: 2024-06-26T11:13:26+00:00
-
- ## Home - Transport Futures
- - [https://transportfutures.ca](https://transportfutures.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Travelagents in Canada, Canada
- - [http://www.travelagents.ca](http://www.travelagents.ca)
- - date_published: 2024-06-29T17:26:10.148627+00:00
-
- ## Travel News, Information and Offers Canada TP
- - [https://www.travelpulsequebec.ca](https://www.travelpulsequebec.ca)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home Page - Tree Canada
- - [https://treecanada.ca](https://treecanada.ca)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Best Weed Delivery Toronto | 420 Mississauga | Tree Huggerz
- - [https://treehuggerz.ca](https://treehuggerz.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Tree Library: A high-quality tree database for educators, students and lay persons
- - [https://treelib.ca](https://treelib.ca)
- - date_published: 2024-05-08T11:36:29.423923+00:00
-
- ## Tribal Solutions
- - [https://www.tribalsolutions.ca](https://www.tribalsolutions.ca)
- - date_published: 2024-07-21T08:35:31.203413+00:00
-
- ## About Us | triOS College
- - [https://info.trios.ca](https://info.trios.ca)
- - date_published: 2024-08-11T09:22:05.127041+00:00
 

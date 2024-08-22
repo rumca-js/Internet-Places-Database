@@ -288,6 +288,10 @@
  - [https://www.pymetrics.ai](https://www.pymetrics.ai)
  - date_published: 2023-12-11T00:00:00+00:00
 
+ ## Pyoneer
+ - [https://app.pyoneer.ai](https://app.pyoneer.ai)
+ - date_published: 2024-08-20T04:46:33.740610+00:00
+
  ## Excel automation and Python code generation AI assistant | Pyoneer
  - [https://pyoneer.ai](https://pyoneer.ai)
  - date_published: 2024-05-23T19:40:56.457405+00:00
@@ -2085,6 +2089,10 @@
  ## Thinkstack
  - [https://app.thinkstack.ai](https://app.thinkstack.ai)
  - date_published: 2024-06-13T10:14:45+00:00
+
+ ## This Anime Does Not Exist
+ - [https://thisanimedoesnotexist.ai](https://thisanimedoesnotexist.ai)
+ - date_published: 2023-07-04T23:10:46+00:00
 
  ## THORDRIVE
  - [https://www.thordrive.ai](https://www.thordrive.ai)
@@ -4019,12 +4027,4 @@ Creative Solutions
  ## All about Harvey Glen Bonnie
  - [https://harvey-glen-bonnie.web.sp.am](https://harvey-glen-bonnie.web.sp.am)
  - date_published: 2024-07-20T04:48:54.247075+00:00
-
- ## All about Heriberto Jed Domingo
- - [https://heriberto-jed-domingo.web.sp.am](https://heriberto-jed-domingo.web.sp.am)
- - date_published: 2024-07-20T04:48:20.119312+00:00
-
- ## All about Homer Priscilla Alonzo
- - [https://homer-priscilla-alonzo.web.sp.am](https://homer-priscilla-alonzo.web.sp.am)
- - date_published: 2024-07-20T04:48:51.565111+00:00
 

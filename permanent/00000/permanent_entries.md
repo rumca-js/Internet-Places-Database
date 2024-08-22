@@ -2349,6 +2349,10 @@
  - [https://bigsur.ai](https://bigsur.ai)
  - date_published: 2024-06-16T12:02:43.250176+00:00
 
+ ## AI Research, Consulting & Education | Big Vision
+ - [https://www.bigvision.ai](https://www.bigvision.ai)
+ - date_published: 2024-08-20T05:41:15.701148+00:00
+
  ## BingBang.ai
  - [https://bingbang.ai](https://bingbang.ai)
  - date_published: 2024-06-19T19:18:12+00:00
@@ -3382,6 +3386,10 @@ Welcome
  - date_published: 2024-06-14T08:59:33.328030+00:00
  - tags: ['artificial intelligence bot', 'nsfw']
 
+ ## CVAT
+ - [http://cvat.ai](http://cvat.ai)
+ - date_published: 2024-08-14T00:00:00+00:00
+
  ## CyberRunner
  - [https://cyberrunner.ai](https://cyberrunner.ai)
  - date_published: 2023-12-20T22:50:38+00:00
@@ -3758,10 +3766,6 @@ Welcome
  - [https://dimey.ai](https://dimey.ai)
  - date_published: 2024-08-19T12:22:43.706292+00:00
 
- ## AI-Powered Business Reports in Minutes
- - [https://www.dimey.ai](https://www.dimey.ai)
- - date_published: 2024-08-19T12:22:42.383871+00:00
-
  ## Dittto
  - [https://dittto.ai](https://dittto.ai)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4023,8 +4027,4 @@ Welcome
  - [https://eleuther.ai](https://eleuther.ai)
  - date_published: 2024-02-12T00:00:00+00:00
  - tags: ['artificial intelligence', 'research group', 'llm dataset']
-
- ## Elf Help
- - [https://www.elfhelp.ai](https://www.elfhelp.ai)
- - date_published: 2024-06-19T19:49:50.461354+00:00
 

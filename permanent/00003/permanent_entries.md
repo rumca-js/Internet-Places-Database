@@ -1,3 +1,11 @@
+ ## All about Heriberto Jed Domingo
+ - [https://heriberto-jed-domingo.web.sp.am](https://heriberto-jed-domingo.web.sp.am)
+ - date_published: 2024-07-20T04:48:20.119312+00:00
+
+ ## All about Homer Priscilla Alonzo
+ - [https://homer-priscilla-alonzo.web.sp.am](https://homer-priscilla-alonzo.web.sp.am)
+ - date_published: 2024-07-20T04:48:51.565111+00:00
+
  ## All about Isabel Mickey Lily
  - [https://isabel-mickey-lily.web.sp.am](https://isabel-mickey-lily.web.sp.am)
  - date_published: 2024-07-20T04:55:25.077352+00:00
@@ -1530,6 +1538,10 @@
  ## eightpoint
  - [https://eightpoint.app](https://eightpoint.app)
  - date_published: 2024-05-23T13:30:40.880013+00:00
+
+ ## Welcome to nginx!
+ - [https://media.eightpoint.app](https://media.eightpoint.app)
+ - date_published: 2022-10-19T08:02:20+00:00
 
  ## Elephas - Personal AI Writing Assistant for Mac
  - [https://elephas.app](https://elephas.app)
@@ -4019,16 +4031,4 @@
  ## Real About Instagram | Compare, Compete, & Invalidate Authenticity
  - [https://realaboutinstagram.netlify.app](https://realaboutinstagram.netlify.app)
  - date_published: 2023-10-25T11:47:47.931192+00:00
-
- ## https://reddark.netlify.app
- - [https://reddark.netlify.app](https://reddark.netlify.app)
- - date_published: 2024-01-09T02:23:31.980088+00:00
-
- ## Flowise - Low code LLM Apps Builder
- - [https://remarkable-smakager-ddb2b7.netlify.app](https://remarkable-smakager-ddb2b7.netlify.app)
- - date_published: 2024-07-09T17:41:37.147189+00:00
-
- ## Minneapolis / St. Paul Restaurant Week
- - [https://restaurantweek.netlify.app](https://restaurantweek.netlify.app)
- - date_published: 2024-07-13T19:55:04.264569+00:00
 

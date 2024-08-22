@@ -1,3 +1,87 @@
+ ## Curiousity? | Dr. Terri's Maker Log
+ - [http://terri.toybox.ca](http://terri.toybox.ca)
+ - date_published: 2024-06-28T19:53:28.454404+00:00
+
+ ## Newsroom | Toyota Canada
+ - [https://media.toyota.ca](https://media.toyota.ca)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Digital Archive : Toronto Public Library
+ - [https://digitalarchive.tpl.ca](https://digitalarchive.tpl.ca)
+ - date_published: 2024-05-12T05:59:16.466961+00:00
+
+ ## Account : Toronto Public Library
+ - [https://lists.tpl.ca](https://lists.tpl.ca)
+ - date_published: 2024-05-12T05:59:15.076276+00:00
+
+ ## Home
+ - [https://tpl.ca](https://tpl.ca)
+ - date_published: 2024-07-14T19:20:52.035501+00:00
+
+ ## Toronto Public Library - Programs
+ - [https://events.tplcs.ca](https://events.tplcs.ca)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Home Page for TPL Foundation - Toronto Public Library Foundation
+ - [http://donate.tplfoundation.ca](http://donate.tplfoundation.ca)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home Page for TPL Foundation - Toronto Public Library Foundation
+ - [https://tplfoundation.ca](https://tplfoundation.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Toronto Public Library Foundation's 2017 Annual Report
+ - [https://whygive.tplfoundation.ca](https://whygive.tplfoundation.ca)
+ - date_published: 2024-07-15T10:46:56.977972+00:00
+
+ ## Welcome to your Strapi app
+ - [https://cms.tpllabs.ca](https://cms.tpllabs.ca)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## TPUG – Toronto PET Users Group
+ - [https://www.tpug.ca](https://www.tpug.ca)
+ - date_published: 2024-07-14T12:20:13.387868+00:00
+
+ ## Today's Home: Trail Real Estate
+ - [https://homes.trailtimes.ca](https://homes.trailtimes.ca)
+ - date_published: 2024-06-29T11:31:57.898993+00:00
+
+ ## Public Transit in Ottawa
+ - [http://www.transitottawa.ca](http://www.transitottawa.ca)
+ - date_published: 2024-06-26T11:13:26+00:00
+
+ ## Home - Transport Futures
+ - [https://transportfutures.ca](https://transportfutures.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Travelagents in Canada, Canada
+ - [http://www.travelagents.ca](http://www.travelagents.ca)
+ - date_published: 2024-06-29T17:26:10.148627+00:00
+
+ ## Travel News, Information and Offers Canada TP
+ - [https://www.travelpulsequebec.ca](https://www.travelpulsequebec.ca)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home Page - Tree Canada
+ - [https://treecanada.ca](https://treecanada.ca)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Best Weed Delivery Toronto | 420 Mississauga | Tree Huggerz
+ - [https://treehuggerz.ca](https://treehuggerz.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Tree Library: A high-quality tree database for educators, students and lay persons
+ - [https://treelib.ca](https://treelib.ca)
+ - date_published: 2024-05-08T11:36:29.423923+00:00
+
+ ## Tribal Solutions
+ - [https://www.tribalsolutions.ca](https://www.tribalsolutions.ca)
+ - date_published: 2024-07-21T08:35:31.203413+00:00
+
+ ## About Us | triOS College
+ - [https://info.trios.ca](https://info.trios.ca)
+ - date_published: 2024-08-11T09:22:05.127041+00:00
+
  ## Tripadvisor : plus d'un milliard d'avis et de contributions sur les hôtels, les attractions, les restaurants et plus
  - [https://fr.tripadvisor.ca](https://fr.tripadvisor.ca)
  - date_published: 2024-06-23T09:27:25.323710+00:00
@@ -1335,10 +1419,6 @@
  - [https://www2.uottawa.ca](https://www2.uottawa.ca)
  - date_published: 2024-07-19T18:00:37+00:00
 
- ## Home | University of Ottawa
- - [https://www.uottawa.ca](https://www.uottawa.ca)
- - date_published: 2023-12-01T11:39:31.990444+00:00
-
  ## Répertoire des professeurs
  - [https://professeurs.uqam.ca](https://professeurs.uqam.ca)
  - date_published: 2024-06-30T09:12:39.791572+00:00
@@ -2637,6 +2717,10 @@
  - [https://radio01.websavers.ca](https://radio01.websavers.ca)
  - date_published: 2024-05-01T00:28:39.340823+00:00
 
+ ## Canadian Web Hosting by Websavers: Hassle Free Web Hosting
+ - [https://websavers.ca](https://websavers.ca)
+ - date_published: 2024-08-20T14:41:41+00:00
+
  ## Ottawa SEO Services & Conversion Optimization - WebSearchGuide
  - [http://www.websearchguide.ca](http://www.websearchguide.ca)
  - date_published: 2020-10-26T03:20:50+00:00
@@ -3932,88 +4016,4 @@
  ## RPG Maker Cafe
  - [https://rpgmaker.cafe](https://rpgmaker.cafe)
  - date_published: 2024-07-23T23:19:00.998241+00:00
-
- ## Seal Cafe
- - [https://seal.cafe](https://seal.cafe)
- - date_published: 2024-08-07T13:09:27.639690+00:00
-
- ## Sivar Cafe
- - [https://sivar.cafe](https://sivar.cafe)
- - date_published: 2024-07-10T06:39:30.430324+00:00
-
- ## Akkoma
- - [https://sleepless.cafe](https://sleepless.cafe)
- - date_published: 2024-06-17T03:31:52.907540+00:00
-
- ## Business-Class Web Hosting by (mt) Media Temple
- - [http://spam.cafe](http://spam.cafe)
- - date_published: 2022-06-15T17:49:35+00:00
-
- ## Status Cafe
- - [https://status.cafe](https://status.cafe)
- - date_published: 2024-04-30T06:16:34.197522+00:00
-
- ## Sunday Sites
- - [https://sundaysites.cafe](https://sundaysites.cafe)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## Théo Bori
- - [https://theobori.cafe](https://theobori.cafe)
- - date_published: 2024-08-08T15:33:07.836501+00:00
-
- ## Pencil
- - [https://pencil.toast.cafe](https://pencil.toast.cafe)
- - date_published: 2023-10-25T12:09:51.787994+00:00
-
- ## Toot Café
- - [https://toot.cafe](https://toot.cafe)
- - date_published: 2023-10-25T12:09:53.298119+00:00
-
- ## troet.cafe  - Mastodon
- - [https://troet.cafe](https://troet.cafe)
- - date_published: 2024-04-29T06:14:07.312882+00:00
-
- ## Accueil - Unbon.cafe
- - [https://unbon.cafe](https://unbon.cafe)
- - date_published: 2022-12-31T17:47:13+00:00
-
- ## VocaLounge
- - [https://vocalounge.cafe](https://vocalounge.cafe)
- - date_published: 2024-07-10T08:45:08.700397+00:00
-
- ## Deep Live Cam: Real-time face swapping and one-click video deepfake tool
- - [https://deeplive.cam](https://deeplive.cam)
- - date_published: 2024-08-10T13:05:48+00:00
-
- ## Halide Mark II: Pro. Camera. Action.
- - [https://halide.cam](https://halide.cam)
- - date_published: 2023-11-04T02:08:25+00:00
-
- ## Observing Time
- - [https://observingtime.cam](https://observingtime.cam)
- - date_published: 2024-08-11T21:09:56.664586+00:00
-
- ## Polycam Learn
- - [https://learn.poly.cam](https://learn.poly.cam)
- - date_published: 2024-04-30T05:35:06.503204+00:00
-
- ## Polycam - LiDAR & 3D Scanner for iPhone & Android
- - [https://poly.cam](https://poly.cam)
- - date_published: 2023-10-25T08:38:30.080927+00:00
-
- ## Spectre
- - [https://spectre.cam](https://spectre.cam)
- - date_published: 2024-04-30T05:35:11.723117+00:00
-
- ## Firewatch Camera - About
- - [https://firewatch.camera](https://firewatch.camera)
- - date_published: 2024-08-18T19:43:10.846653+00:00
-
- ## 💛 Locket Widget
- - [https://locket.camera](https://locket.camera)
- - date_published: 2024-08-01T19:02:38+00:00
-
- ## Lux
- - [https://lux.camera](https://lux.camera)
- - date_published: 2023-10-25T12:09:56.046567+00:00
 
