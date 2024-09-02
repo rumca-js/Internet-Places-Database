@@ -1,3 +1,79 @@
+ ## David Drake – Science Fiction & Fantasy Writer
+ - [https://david-drake.com](https://david-drake.com)
+ - date_published: 2023-12-11T18:53:29.186098+00:00
+
+ ## David Dylan Thomas - Author, speaker, filmmaker
+ - [https://daviddylanthomas.com](https://daviddylanthomas.com)
+ - date_published: 2024-04-13T00:00:00+00:00
+ - tags: ['personal']
+
+ ## YinzCam, Inc.
+ - [https://davideddie.com](https://davideddie.com)
+ - date_published: 2024-07-07T02:21:18.383675+00:00
+
+ ## Welcome to nginx!
+ - [https://davidegallesi.com](https://davidegallesi.com)
+ - date_published: 2023-12-05T14:38:12.497300+00:00
+ - tags: ['personal']
+
+ ## David Eisinger
+ - [https://davideisinger.com](https://davideisinger.com)
+ - date_published: 2024-04-17T04:51:57.162243+00:00
+ - tags: ['personal']
+
+ ## listmonk - David Eisinger
+ - [https://dispatch.davideisinger.com](https://dispatch.davideisinger.com)
+ - date_published: 2024-08-11T03:59:27.993578+00:00
+
+ ## Development, design, and more by @DavidEnsinger
+ - [http://davidensinger.com](http://davidensinger.com)
+ - date_published: 2017-10-28T20:53:55+00:00
+
+ ## https://www.davideous.com
+ - [https://www.davideous.com](https://www.davideous.com)
+ - date_published: 2007-06-11T18:53:14+00:00
+
+ ## Davide's notes - Home
+ - [https://davidesnotes.com](https://davidesnotes.com)
+ - date_published: 2023-07-11T07:57:25+00:00
+
+ ## Reader
+ - [https://axym.davidewiest.com](https://axym.davidewiest.com)
+ - date_published: 2024-05-02T15:04:48.557286+00:00
+
+ ## Davide Wiest
+ - [https://davidewiest.com](https://davidewiest.com)
+ - date_published: 2024-04-14T16:36:17+00:00
+ - tags: ['personal']
+
+ ## Reader
+ - [https://reader.davidewiest.com](https://reader.davidewiest.com)
+ - date_published: 2024-04-14T16:18:56.078543+00:00
+
+ ## David Fisher, Carving Explorations
+ - [https://davidffisher.com](https://davidffisher.com)
+ - date_published: 2024-06-22T13:44:33.992869+00:00
+
+ ## Homepage | David Frum
+ - [https://davidfrum.com](https://davidfrum.com)
+ - date_published: 2024-06-27T09:16:16.031791+00:00
+
+ ## David Gary Wood
+ - [https://davidgarywood.com](https://davidgarywood.com)
+ - date_published: 2023-07-12T22:26:02+00:00
+
+ ## David Giard
+ - [https://davidgiard.com](https://davidgiard.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## David Goggins
+ - [https://davidgoggins.com](https://davidgoggins.com)
+ - date_published: 2023-10-10T19:04:08+00:00
+
+ ## Shop-David-Goggins
+ - [https://shop.davidgoggins.com](https://shop.davidgoggins.com)
+ - date_published: 2024-07-07T03:38:47.864165+00:00
+
  ## David Gomes
  - [https://davidgomes.com](https://davidgomes.com)
  - date_published: 2023-10-25T13:45:40.991424+00:00
@@ -17,6 +93,11 @@
  ## David Hamp-Gonsalves
  - [https://davidhampgonsalves.com](https://davidhampgonsalves.com)
  - date_published: 2023-10-25T13:45:47.026190+00:00
+
+ ## David Hang
+ - [https://www.davidhang.com](https://www.davidhang.com)
+ - date_published: 2024-09-02T08:41:49.499553+00:00
+ - tags: ['personal']
 
  ## The Official David Hasselhoff Website | Everything David To Hoffinity & Beyond!
  - [https://davidhasselhoffonline.com](https://davidhasselhoffonline.com)
@@ -3991,83 +4072,4 @@
  ## Denia Viva
  - [https://deniaviva.com](https://deniaviva.com)
  - date_published: 2024-07-03T16:31:14.748954+00:00
-
- ## DENIM TEARS
- - [https://denimtears.com](https://denimtears.com)
- - date_published: 2024-08-06T03:00:17.045933+00:00
-
- ## Denis Defreyne
- - [https://denisdefreyne.com](https://denisdefreyne.com)
- - date_published: 2024-04-07T04:31:42.968152+00:00
-
- ## Denise Cornell - Customer Marketing
- - [https://denisecornell.com](https://denisecornell.com)
- - date_published: 2023-12-05T14:38:38.929100+00:00
- - tags: ['personal']
-
- ## Denise Gaskins' Let's Play Math
- - [https://denisegaskins.com](https://denisegaskins.com)
- - date_published: 2024-06-30T09:23:27.759400+00:00
-
- ## Denise Hopkins Fine Art
- - [https://denisehopkinsfineart.com](https://denisehopkinsfineart.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Denise Jacobs : Speaker + Author + Creativity Evangelist
- - [https://denisejacobs.com](https://denisejacobs.com)
- - date_published: 2024-08-17T23:47:56.438083+00:00
-
- ## https://denisewakeman.com
- - [https://denisewakeman.com](https://denisewakeman.com)
- - date_published: 2024-01-20T04:56:52.324928+00:00
-
- ## Denis Loubet Game Artist
- - [http://www.denisloubet.com](http://www.denisloubet.com)
- - date_published: 2015-11-07T06:40:06+00:00
-
- ## Denis Moulin – Designer of all things
- - [https://denismoulin.com](https://denismoulin.com)
- - date_published: 2024-05-09T06:17:11.605041+00:00
-
- ## denis nazarov
- - [https://denisnazarov.com](https://denisnazarov.com)
- - date_published: 2019-01-21T00:00:00+00:00
-
- ## Denis Reis
- - [https://www.denisreis.com](https://www.denisreis.com)
- - date_published: 2023-11-29T17:09:24.363537+00:00
- - tags: ['personal']
-
- ## Biber
- - [https://biber.denizaksimsek.com](https://biber.denizaksimsek.com)
- - date_published: 2024-05-01T04:42:45.421320+00:00
-
- ## Deniz Akşimşek
- - [https://denizaksimsek.com](https://denizaksimsek.com)
- - date_published: 2023-10-25T13:49:01.779557+00:00
-
- ## DENKRIESEN - Wir machen die Spiele! - Spare jetzt 20% mit VOLLPFOSTEN!
- - [https://www.denkriesen.com](https://www.denkriesen.com)
- - date_published: 2024-07-03T15:46:56.709151+00:00
-
- ## Homepage - Denmark&Me
- - [https://denmarkandme.com](https://denmarkandme.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Den McHenry
- - [https://denmchenry.com](https://denmchenry.com)
- - date_published: 2023-03-14T00:00:00+00:00
- - tags: ['personal']
-
- ## micropub
- - [https://micropub.denmchenry.com](https://micropub.denmchenry.com)
- - date_published: 2024-06-17T19:10:35.827387+00:00
-
- ## Dennaton
- - [https://dennatongames.com](https://dennatongames.com)
- - date_published: 2024-06-18T06:00:28.722602+00:00
-
- ## Home - Dennis Bottaro
- - [http://www.dennisbottaro.com](http://www.dennisbottaro.com)
- - date_published: 2024-05-24T00:00:00+00:00
 

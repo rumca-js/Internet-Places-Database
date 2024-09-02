@@ -1,3 +1,71 @@
+ ## cofenster: Erstelle Videos mit den Gesichtern deines Unternehmens
+ - [https://de.cofenster.com](https://de.cofenster.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## cofenster: Create videos with the faces of your company
+ - [https://www.cofenster.com](https://www.cofenster.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## ☕️ Coffee & Covid 2024 🦠 | Jeff Childers | Substack
+ - [https://www.coffeeandcovid.com](https://www.coffeeandcovid.com)
+ - date_published: 2024-07-04T01:28:51.553969+00:00
+
+ ## Coffee & Pens - Coffee & Pens
+ - [https://coffeeandpens.com](https://coffeeandpens.com)
+ - date_published: 2024-05-04T09:46:45.531891+00:00
+
+ ## Coffee Before Pants
+ - [https://www.coffeebeforepants.com](https://www.coffeebeforepants.com)
+ - date_published: 2024-07-18T17:24:16.776862+00:00
+
+ ## Home
+ - [https://coffeebreakacademy.com](https://coffeebreakacademy.com)
+ - date_published: 2024-06-22T23:35:17.250625+00:00
+
+ ## Coffee Break Chinese
+ - [http://coffeebreakchinese.com](http://coffeebreakchinese.com)
+ - date_published: 2024-06-22T23:35:03.421220+00:00
+
+ ## New Masterclasses open for registration
+ - [https://coffeebreakcourses.com](https://coffeebreakcourses.com)
+ - date_published: 2023-09-26T16:13:50+00:00
+
+ ## Learn English with Coffee Break English
+ - [http://coffeebreakenglish.com](http://coffeebreakenglish.com)
+ - date_published: 2021-05-05T00:00:00+00:00
+
+ ## Coffee Break French
+ - [http://coffeebreakfrench.com](http://coffeebreakfrench.com)
+ - date_published: 2024-06-22T23:35:26.963698+00:00
+
+ ## Coffee Break German
+ - [http://coffeebreakgerman.com](http://coffeebreakgerman.com)
+ - date_published: 2024-06-22T23:35:45.991466+00:00
+
+ ## Coffee Break Languages
+ - [https://www.coffeebreakgiftshop.com](https://www.coffeebreakgiftshop.com)
+ - date_published: 2024-06-22T23:35:42.680108+00:00
+
+ ## Coffee Break Italian
+ - [http://coffeebreakitalian.com](http://coffeebreakitalian.com)
+ - date_published: 2024-06-22T23:35:49.420860+00:00
+
+ ## Introducing Coffee Break Languages
+ - [https://coffeebreaklanguages.com](https://coffeebreaklanguages.com)
+ - date_published: 2024-06-22T23:35:00.627403+00:00
+
+ ## Coffee Break Languages – Partner Offers – Special Offers through our partners
+ - [https://coffeebreakoffers.com](https://coffeebreakoffers.com)
+ - date_published: 2024-06-22T23:34:58.183817+00:00
+
+ ## Coffee Break Spanish
+ - [http://coffeebreakspanish.com](http://coffeebreakspanish.com)
+ - date_published: 2024-06-22T23:35:23.638677+00:00
+
+ ## Learn Swedish with Coffee Break Swedish
+ - [http://coffeebreakswedish.com](http://coffeebreakswedish.com)
+ - date_published: 2021-03-13T00:00:00+00:00
+
  ## Coffee Break TV
  - [https://coffeebreaktv.com](https://coffeebreaktv.com)
  - date_published: 2024-06-22T23:35:18.504918+00:00
@@ -3972,72 +4040,4 @@ Real Estate Supercenter
  ## Con Edison - Energy Company
  - [https://www.conedison.com](https://www.conedison.com)
  - date_published: 2024-06-16T08:59:34.925554+00:00
-
- ## Gearbox Manufacturers | Cone Drive | Traverse City USA
- - [https://conedrive.com](https://conedrive.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## SIMplicity by conekkt
- - [https://portal.conekkt.com](https://portal.conekkt.com)
- - date_published: 2024-07-09T07:29:27.939829+00:00
-
- ## George's Coney Island Hot Dogs - Worcester, MA
- - [https://coneyislandlunch.com](https://coneyislandlunch.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Conf42: online tech events
- - [https://conf42.com](https://conf42.com)
- - date_published: 2024-05-08T06:16:20.955505+00:00
-
- ## jika rataan data diatas adalah 2 nilai m sama dengan【confa11y.com】
- - [https://www.confa11y.com](https://www.confa11y.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Confab: The content strategy conference – Apr 30–May 3, 2023
- - [https://confabevents.com](https://confabevents.com)
- - date_published: 2023-11-17T00:00:00+00:00
-
- ## Conference Code of Conduct
- - [http://confcodeofconduct.com](http://confcodeofconduct.com)
- - date_published: 2024-06-17T19:27:48.542035+00:00
-
- ## Confectionery
- - [https://confectioneryapp.com](https://confectioneryapp.com)
- - date_published: 2024-05-06T21:28:56.940283+00:00
-
- ## Confectionery News - Chocolate industry, Candy industry
- - [https://www.confectionerynews.com](https://www.confectionerynews.com)
- - date_published: 2024-06-19T03:15:32.772424+00:00
-
- ## Academic Events Worldwide | Conal Conference Alerts
- - [http://www.conferencealerts.com](http://www.conferencealerts.com)
- - date_published: 2024-06-24T10:07:42.485040+00:00
-
- ## Home - Conference Catalysts
- - [https://conferencecatalysts.com](https://conferencecatalysts.com)
- - date_published: 2021-08-18T20:10:55+00:00
-
- ## Fleet Europe I conference & events
- - [https://www.conference-fleeteurope.com](https://www.conference-fleeteurope.com)
- - date_published: 2024-06-19T15:11:47.554574+00:00
-
- ## Home | Conference Oxford
- - [https://conference-oxford.com](https://conference-oxford.com)
- - date_published: 2024-06-17T18:24:26+00:00
-
- ## 60 DAC
- - [https://60dac.conference-program.com](https://60dac.conference-program.com)
- - date_published: 2024-08-19T05:18:11.113810+00:00
-
- ## Full Program
- - [https://61dac.conference-program.com](https://61dac.conference-program.com)
- - date_published: 2024-08-06T06:55:00.662579+00:00
-
- ## SC23 Schedule
- - [https://sc23.conference-program.com](https://sc23.conference-program.com)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Conference Management Software | COMS
- - [http://www.conference-service.com](http://www.conference-service.com)
- - date_published: 2024-06-30T00:00:00+00:00
 

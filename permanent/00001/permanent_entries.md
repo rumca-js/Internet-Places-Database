@@ -1,3 +1,13 @@
+ ## The Pile is a 825 GiB diverse, open source language modelling data set
+ - [https://pile.eleuther.ai](https://pile.eleuther.ai)
+ - date_published: 2023-02-17T21:25:57+00:00
+ - tags: ['artificial intelligence data', 'database']
+
+ ## EleutherAI
+ - [https://eleuther.ai](https://eleuther.ai)
+ - date_published: 2024-02-12T00:00:00+00:00
+ - tags: ['artificial intelligence', 'research group', 'llm dataset']
+
  ## Elf Help
  - [https://www.elfhelp.ai](https://www.elfhelp.ai)
  - date_published: 2024-06-19T19:49:50.461354+00:00
@@ -4012,12 +4022,4 @@
  ## Placer Discover | Grocery Virtual Event
  - [https://discover.placer.ai](https://discover.placer.ai)
  - date_published: 2024-06-30T00:00:00+00:00
-
- ## Customer Footfall Analysis & Insights | PlaceSense
- - [https://placesense.ai](https://placesense.ai)
- - date_published: 2024-05-06T17:30:53.379384+00:00
-
- ## Plandex - AI programming engine
- - [https://plandex.ai](https://plandex.ai)
- - date_published: 2024-04-03T19:49:14.844485+00:00
 

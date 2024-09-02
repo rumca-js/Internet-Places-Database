@@ -1,3 +1,31 @@
+ ## Ruta de atención a mujeres víctimas de violencias y en riesgo de feminicidio
+ - [https://rutadeatencion.sdmujer.gov.co](https://rutadeatencion.sdmujer.gov.co)
+ - date_published: 2024-05-05T23:53:38+00:00
+
+ ## | Secretaría Distrital de la Mujer
+ - [https://sdmujer.gov.co](https://sdmujer.gov.co)
+ - date_published: 2024-06-11T20:46:31+00:00
+
+ ## Sofia
+ - [https://sofia.sdmujer.gov.co](https://sofia.sdmujer.gov.co)
+ - date_published: 2020-03-25T15:02:24+00:00
+
+ ## Caracterización | Plan de Desarrollo Distrial
+ - [https://asivaelplan.sdp.gov.co](https://asivaelplan.sdp.gov.co)
+ - date_published: 2024-04-30T07:14:46.912445+00:00
+
+ ## Bienvenido a INVENTARIO | INVENTARIO
+ - [https://inventariobogota.sdp.gov.co](https://inventariobogota.sdp.gov.co)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Inicio | regaliasbogota.sdp.gov.co
+ - [https://regaliasbogota.sdp.gov.co](https://regaliasbogota.sdp.gov.co)
+ - date_published: 2024-07-21T04:03:53.262011+00:00
+
+ ## Welcome to WildFly
+ - [https://sipa.sdp.gov.co](https://sipa.sdp.gov.co)
+ - date_published: 2021-07-27T14:03:30+00:00
+
  ## Registro Solicitudes SISBÉN IV
  - [https://sisbensol.sdp.gov.co](https://sisbensol.sdp.gov.co)
  - date_published: 2022-05-26T12:50:34+00:00
@@ -4016,32 +4044,4 @@ syndication,XML,RDF,news ...
  ## UT2004 Serverlist
  - [https://ut2004master.333networks.com](https://ut2004master.333networks.com)
  - date_published: 2024-07-17T11:39:51.740275+00:00
-
- ## Unified Dashboard
- - [https://platform.33across.com](https://platform.33across.com)
- - date_published: 2024-06-25T23:18:07.524808+00:00
-
- ## Home | 33Across UK
- - [https://www.33across.com](https://www.33across.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## 33 Charts - Exploring the edges of medicine and technology
- - [https://33charts.com](https://33charts.com)
- - date_published: 2024-06-16T19:40:40.194568+00:00
-
- ## 33rd Square - Urban Walkabout Upgrades your life!
- - [http://www.33rdsquare.com](http://www.33rdsquare.com)
- - date_published: 2024-08-06T09:46:36+00:00
-
- ## Home - 33voices: Intelligent Insights to Advance Your Business & Life
- - [https://www.33voices.com](https://www.33voices.com)
- - date_published: 2022-04-20T00:00:00+00:00
-
- ## California Consumer Privacy Act (CCPA) Opt-Out Icon
- - [https://www.343industries.com](https://www.343industries.com)
- - date_published: 2024-07-18T04:50:36.176423+00:00
-
- ## Home - 345 Design
- - [http://345design.com](http://345design.com)
- - date_published: 2024-07-04T17:00:19.647435+00:00
 

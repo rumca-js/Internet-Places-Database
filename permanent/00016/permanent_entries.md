@@ -1,3 +1,24 @@
+ ## Gregors Blog
+ - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
+ - date_published: 2023-12-27T23:55:45.885819+00:00
+ - tags: ['personal']
+
+ ## Everything SQL Server Compact
+ - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
+ - date_published: 2024-05-01T03:48:31.365826+00:00
+
+ ## Random blatherings by Jeff
+ - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
+ - date_published: 2024-02-28T23:44:24+00:00
+
+ ## IT and more (a.k.a. Doing-IT-Right)
+ - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
+ - date_published: 2024-03-13T20:36:44+00:00
+
+ ## Reflections of a Newsosaur
+ - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
+ - date_published: 2024-07-30T08:15:33+00:00
+
  ## Nuit Blanche
  - [http://nuit-blanche.blogspot.ch](http://nuit-blanche.blogspot.ch)
  - date_published: 2023-08-17T05:00:00+00:00
@@ -3991,24 +4012,4 @@
  ## Markus Mächler
  - [http://markusmaechler.ch](http://markusmaechler.ch)
  - date_published: 2023-09-09T09:48:50+00:00
-
- ## Markustinner – Design, Music, Plugins
- - [http://www.markustinner.ch](http://www.markustinner.ch)
- - date_published: 2024-06-24T05:18:18.170323+00:00
-
- ## Martin Grandjean | Digital humanities, Data visualization, Network analysis
- - [http://www.martingrandjean.ch](http://www.martingrandjean.ch)
- - date_published: 2024-07-14T13:14:53.500810+00:00
-
- ## Methods & Tools Editor Blog
- - [http://blog.martinig.ch](http://blog.martinig.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Martinig & Associates | Home
- - [https://www.martinig.ch](https://www.martinig.ch)
- - date_published: 2024-06-23T06:48:02.342865+00:00
-
- ## Martin Richi Photography
- - [http://martinrichi.ch](http://martinrichi.ch)
- - date_published: 2018-12-14T00:00:00+00:00
 

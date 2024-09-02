@@ -1,3 +1,23 @@
+ ## Markustinner – Design, Music, Plugins
+ - [http://www.markustinner.ch](http://www.markustinner.ch)
+ - date_published: 2024-06-24T05:18:18.170323+00:00
+
+ ## Martin Grandjean | Digital humanities, Data visualization, Network analysis
+ - [http://www.martingrandjean.ch](http://www.martingrandjean.ch)
+ - date_published: 2024-07-14T13:14:53.500810+00:00
+
+ ## Methods & Tools Editor Blog
+ - [http://blog.martinig.ch](http://blog.martinig.ch)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Martinig & Associates | Home
+ - [https://www.martinig.ch](https://www.martinig.ch)
+ - date_published: 2024-06-23T06:48:02.342865+00:00
+
+ ## Martin Richi Photography
+ - [http://martinrichi.ch](http://martinrichi.ch)
+ - date_published: 2018-12-14T00:00:00+00:00
+
  ## Maserati Schweiz – Luxus-SUVs, Sportwagen & mehr | Maserati CH
  - [http://www.maserati.ch](http://www.maserati.ch)
  - date_published: 2024-07-12T04:56:38+00:00
@@ -3533,6 +3553,10 @@ Fakultät | Universität Basel
  - [https://salewhale.chat](https://salewhale.chat)
  - date_published: 2024-06-19T18:48:04.103761+00:00
 
+ ## Mattermost
+ - [https://scenecity.chat](https://scenecity.chat)
+ - date_published: 2024-04-12T14:10:05+00:00
+
  ## SchildiChat
  - [https://app.schildi.chat](https://app.schildi.chat)
  - date_published: 2024-02-26T18:52:41+00:00
@@ -4002,28 +4026,4 @@ Fakultät | Universität Basel
  ## https://transformyour.city
  - [https://transformyour.city](https://transformyour.city)
  - date_published: 2024-01-09T02:27:32.090560+00:00
-
- ## Urbanize Atlanta: Commercial Real Estate Development News
- - [https://atlanta.urbanize.city](https://atlanta.urbanize.city)
- - date_published: 2024-06-28T14:02:03.989125+00:00
-
- ## Urbanize Austin: Commercial Real Estate Development News
- - [https://austin.urbanize.city](https://austin.urbanize.city)
- - date_published: 2024-06-28T14:01:54.133829+00:00
-
- ## Urbanize Chicago: Commercial Real Estate Development News
- - [https://chicago.urbanize.city](https://chicago.urbanize.city)
- - date_published: 2024-06-28T14:01:56.444900+00:00
-
- ## Urbanize Dallas: Commercial Real Estate Development News
- - [https://dallas.urbanize.city](https://dallas.urbanize.city)
- - date_published: 2024-06-28T14:01:51.545128+00:00
-
- ## Urbanize DC: Commercial Real Estate Development News
- - [https://dc.urbanize.city](https://dc.urbanize.city)
- - date_published: 2024-06-28T14:01:42.336072+00:00
-
- ## Urbanize Detroit: Commercial Real Estate Development News
- - [https://detroit.urbanize.city](https://detroit.urbanize.city)
- - date_published: 2024-06-28T14:01:48.948734+00:00
 

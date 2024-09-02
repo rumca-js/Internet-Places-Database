@@ -1,3 +1,31 @@
+ ## A Direct Solution – Monthly giving consulting for nonprofits with Erica Waasdorp
+ - [https://www.adirectsolution.com](https://www.adirectsolution.com)
+ - date_published: 2024-07-04T12:51:06.011306+00:00
+
+ ## Adirondack Arts & Entertainment
+ - [https://adirondackaande.com](https://adirondackaande.com)
+ - date_published: 2020-04-16T11:53:18+00:00
+
+ ## Adirondack Almanack
+ - [https://www.adirondackalmanack.com](https://www.adirondackalmanack.com)
+ - date_published: 2024-07-08T22:52:32.977120+00:00
+
+ ## Home - The Adirondack Hotel on Long Lake
+ - [http://adirondackhotel.com](http://adirondackhotel.com)
+ - date_published: 2024-06-24T09:31:20.057626+00:00
+
+ ## Adirondack Life Home Page
+ - [https://adirondacklifemag.com](https://adirondacklifemag.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home | Adirondack Trust Company
+ - [https://adirondacktrust.com](https://adirondacktrust.com)
+ - date_published: 2024-05-09T07:34:32.861961+00:00
+
+ ## Home
+ - [https://adisham-countryside.com](https://adisham-countryside.com)
+ - date_published: 2024-06-02T00:00:00+00:00
+
  ## A Disorder 4 Everyone! | Challenging the Culture of Psychiatric Diagnosis
  - [http://www.adisorder4everyone.com](http://www.adisorder4everyone.com)
  - date_published: 2024-06-21T19:42:25.701675+00:00
@@ -3999,32 +4027,4 @@
  ## Aiden Fox Ivey
  - [https://aidenfoxivey.com](https://aidenfoxivey.com)
  - date_published: 2024-06-12T18:48:38+00:00
-
- ## Aiden Bai
- - [https://aidenybai.com](https://aidenybai.com)
- - date_published: 2024-06-23T06:12:34.136963+00:00
-
- ## AI dermatologist: Skin scanner
- - [https://ai-derm.com](https://ai-derm.com)
- - date_published: 2024-06-01T08:29:18+00:00
-
- ## AI Domain Genius - FREE Domain Name Generator
- - [https://aidomaingenius.com](https://aidomaingenius.com)
- - date_published: 2024-06-19T20:37:18.306657+00:00
-
- ## AI Dream Interpreter
- - [https://ai-dream-interpreter.com](https://ai-dream-interpreter.com)
- - date_published: 2024-06-19T21:25:30.006351+00:00
-
- ## AI-Driven Marketer: Learn How-to Leverage AI for Marketing
- - [https://aidrivenmarketer.com](https://aidrivenmarketer.com)
- - date_published: 2024-05-10T06:59:32.410490+00:00
-
- ## AI-Responder for HostAway - AI Duh
- - [https://aiduh.com](https://aiduh.com)
- - date_published: 2022-12-09T00:00:00+00:00
-
- ## Simplifying AI Image Generation - AIEasyPic
- - [https://aieasypic.com](https://aieasypic.com)
- - date_published: 2024-06-19T19:18:08.529757+00:00
 

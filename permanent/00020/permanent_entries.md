@@ -1,3 +1,31 @@
+ ## 学习强国
+ - [https://www.xuexi.cn](https://www.xuexi.cn)
+ - date_published: 2024-06-30T02:36:44+00:00
+
+ ## 地方学习平台主页
+ - [https://zgkxy.xuexi.cn](https://zgkxy.xuexi.cn)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## 学习出版社
+ - [http://www.xuexiph.cn](http://www.xuexiph.cn)
+ - date_published: 2024-06-30T17:04:53.225283+00:00
+
+ ## 潇湘晨报网
+ - [http://www.xxcb.cn](http://www.xxcb.cn)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## 中国县域经济报
+ - [https://www.xyshjj.cn](https://www.xyshjj.cn)
+ - date_published: 2024-06-30T13:04:34.203813+00:00
+
+ ## 子夜松声
+ - [https://xyzbz.cn](https://xyzbz.cn)
+ - date_published: 2024-08-18T03:26:45.373660+00:00
+
+ ## 兴证资本
+ - [https://capital.xyzq.cn](https://capital.xyzq.cn)
+ - date_published: 2024-08-06T10:52:06.880491+00:00
+
  ## 兴业证券慈善基金会
  - [https://charity.xyzq.cn](https://charity.xyzq.cn)
  - date_published: 2024-08-06T10:51:34.681941+00:00
@@ -3978,32 +4006,4 @@ _中国网
  ## NJU Mirror
  - [https://mirror.nju.edu.cn](https://mirror.nju.edu.cn)
  - date_published: 2023-01-12T11:28:56+00:00
-
- ## NJU Mirror
- - [http://mirrors.nju.edu.cn](http://mirrors.nju.edu.cn)
- - date_published: 2023-01-12T11:28:56+00:00
-
- ## 马展课题组
- - [https://vision.nju.edu.cn](https://vision.nju.edu.cn)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## 南京大学
- - [https://www.nju.edu.cn](https://www.nju.edu.cn)
- - date_published: 2024-06-30T12:23:56+00:00
-
- ## University of Nottingham Ningbo China
- - [https://research.nottingham.edu.cn](https://research.nottingham.edu.cn)
- - date_published: 2024-08-06T11:26:40.875207+00:00
-
- ## University of Nottingham Ningbo China - 宁波诺丁汉大学
- - [http://www.nottingham.edu.cn](http://www.nottingham.edu.cn)
- - date_published: 2024-07-08T09:15:00.718896+00:00
-
- ## National University of Defense Technology
- - [https://english.nudt.edu.cn](https://english.nudt.edu.cn)
- - date_published: 2024-05-04T15:43:34.583718+00:00
-
- ## 国防科技大学
- - [https://www.nudt.edu.cn](https://www.nudt.edu.cn)
- - date_published: 2024-06-22T04:28:38+00:00
 

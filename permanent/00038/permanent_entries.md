@@ -1,3 +1,59 @@
+ ## LIQUID MODERN
+ - [https://liquidmodern.bandcamp.com](https://liquidmodern.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Breaking and Mending, by Lisa/Liza
+ - [https://lisalizas.bandcamp.com](https://lisalizas.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## I'm Glad This Has Been So Easy For You, by LIT. MAJOR
+ - [https://litmajor.bandcamp.com](https://litmajor.bandcamp.com)
+ - date_published: 2024-07-15T05:49:29.990149+00:00
+
+ ## BQN Tracks, by Marshall Lochbaum
+ - [https://lochbaum.bandcamp.com](https://lochbaum.bandcamp.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Lockdown Collective
+ - [https://lockdowncollective.bandcamp.com](https://lockdowncollective.bandcamp.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Lone Bison
+ - [https://lonebison.bandcamp.com](https://lonebison.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## recreational, by lorraine92
+ - [https://lorraine92.bandcamp.com](https://lorraine92.bandcamp.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## loscil
+ - [https://loscil.bandcamp.com](https://loscil.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Lost Signal
+ - [http://lostsignal.bandcamp.com](http://lostsignal.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Lost Tribe Sound
+ - [https://losttribesound.bandcamp.com](https://losttribesound.bandcamp.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Loud Numbers
+ - [https://loudnumbers.bandcamp.com](https://loudnumbers.bandcamp.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Luke Sanger
+ - [https://lukesanger.bandcamp.com](https://lukesanger.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Alive, by Waveshaper x LukHash
+ - [https://lukhash.bandcamp.com](https://lukhash.bandcamp.com)
+ - date_published: 2024-01-09T02:30:03.463018+00:00
+
+ ## Lyli J
+ - [https://lylij.bandcamp.com](https://lylij.bandcamp.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## LYSISTRATA
  - [https://lysistrata.bandcamp.com](https://lysistrata.bandcamp.com)
  - date_published: 2024-07-01T09:56:27.413042+00:00
@@ -3960,60 +4016,4 @@ rain or shine
  ## BattleMetrics
  - [https://www.battlemetrics.com](https://www.battlemetrics.com)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Battle of Lincoln Park
- - [http://battleoflincolnpark.com](http://battleoflincolnpark.com)
- - date_published: 2024-06-28T13:29:05.397887+00:00
-
- ## Artix Entertainment - Free to Play Online Browser Games
- - [http://portal.battleon.com](http://portal.battleon.com)
- - date_published: 2024-06-19T01:18:29.770018+00:00
-
- ## AdventureQuest - Home
- - [http://www.battleon.com](http://www.battleon.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## BattlePenguin
- - [https://battlepenguin.com](https://battlepenguin.com)
- - date_published: 2023-10-25T12:52:47.433510+00:00
-
- ## Battle Ram
- - [https://battleramblog.com](https://battleramblog.com)
- - date_published: 2024-07-03T11:03:31.097859+00:00
-
- ## Battle Rankings
- - [http://rankings.battlerankings.com](http://rankings.battlerankings.com)
- - date_published: 2024-06-19T15:08:04.489115+00:00
-
- ## Battle Realms
- - [https://battlerealms.com](https://battlerealms.com)
- - date_published: 2024-04-26T19:03:14+00:00
-
- ## a Houston Texans community
- - [https://battleredblog.com](https://battleredblog.com)
- - date_published: 2024-04-29T02:15:35.027278+00:00
-
- ## Battle Shapers
- - [https://www.battleshapers.com](https://www.battleshapers.com)
- - date_published: 2024-07-08T23:26:55.786850+00:00
-
- ## www.battlesmagazine.com 07-02-2024 23:36
- - [http://battlesmagazine.com](http://battlesmagazine.com)
- - date_published: 2024-07-02T21:36:52+00:00
- - tags: ['wargames']
-
- ## www.battlesmagazine.com 05-09-2024 07:23
- - [https://www.battlesmagazine.com](https://www.battlesmagazine.com)
- - date_published: 2024-05-09T05:23:07.431531+00:00
-
- - [https://blog.battlesnake.com](https://blog.battlesnake.com)
- - date_published: 2024-01-09T02:30:05.335999+00:00
-
- ## Wargames | Battlespace Games
- - [https://www.battlespacegames.com](https://www.battlespacegames.com)
- - date_published: 2024-07-02T21:45:13.819920+00:00
-
- ## Battlestate Games Limited
- - [https://www.battlestategames.com](https://www.battlestategames.com)
- - date_published: 2024-03-13T09:44:59+00:00
 

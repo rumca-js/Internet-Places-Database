@@ -1,3 +1,59 @@
+ ## Bertelsmann SE & Co. KGaA
+ - [https://www.bertelsmann.com](https://www.bertelsmann.com)
+ - date_published: 2024-06-25T21:52:18.181619+00:00
+
+ ## Bertelsmann Investment: Home
+ - [https://www.bertelsmann-investments.com](https://www.bertelsmann-investments.com)
+ - date_published: 2024-06-16T04:52:51.396730+00:00
+
+ ## Bertrand candas
+ - [http://bertrandcandas.com](http://bertrandcandas.com)
+ - date_published: 2024-08-06T20:03:18.575073+00:00
+
+ ## Bertrand Meyer's technology+ blog  Bertrand Meyer's technology+ blog - Software engineering, programming methodology, languages, verification, general technology, publication culture, and more
+ - [https://bertrandmeyer.com](https://bertrandmeyer.com)
+ - date_published: 2023-10-25T12:58:01.200028+00:00
+
+ ## Home | Bertus
+ - [https://www.bertus.com](https://www.bertus.com)
+ - date_published: 2024-06-20T17:03:58.144229+00:00
+
+ ## Design graphique, D.A. et webdesign - Béryl de La Grandière, Paris
+ - [https://beryldlg.com](https://beryldlg.com)
+ - date_published: 2019-05-23T00:00:00+00:00
+
+ ## B2B一站式营销云，提升企业获客转化能力 | 致趣百川
+ - [https://www.beschannels.com](https://www.beschannels.com)
+ - date_published: 2024-07-04T03:08:15.994373+00:00
+
+ ## BESE
+ - [https://www.bese.com](https://www.bese.com)
+ - date_published: 2024-07-01T08:15:54.737982+00:00
+
+ ## Besedky
+ - [https://besedky.com](https://besedky.com)
+ - date_published: 2024-06-23T07:43:53.167635+00:00
+
+ ## Besides Press
+ - [https://besidespress.com](https://besidespress.com)
+ - date_published: 2024-07-04T01:53:46.120312+00:00
+
+ ## Home - Besign School
+ - [https://besignschool.com](https://besignschool.com)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## BESIX 3D - BESIX Group's innovative 3D concrete printing solutions
+ - [https://3d.besix.com](https://3d.besix.com)
+ - date_published: 2019-05-21T00:00:00+00:00
+
+ ## Press releases
+ - [https://press.besix.com](https://press.besix.com)
+ - date_published: 2024-08-17T22:37:05.003617+00:00
+
+ ## BESIX
+ - [https://besix.com](https://besix.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
  ## Home - BESIX Concessions & Assets
  - [https://besix-concessions.com](https://besix-concessions.com)
  - date_published: 2024-08-17T22:37:00.108799+00:00
@@ -3975,60 +4031,4 @@
  ## Pro Services |  Bohemia Interactive
  - [http://pro.bistudio.com](http://pro.bistudio.com)
  - date_published: 2024-06-16T13:09:34.647946+00:00
-
- ## Bohemia Store - Official DayZ, Arma, Vigor, Ylands Merch + Steam Codes
- - [https://store.bistudio.com](https://store.bistudio.com)
- - date_published: 2024-06-16T13:09:40.213506+00:00
-
- ## Support |  Bohemia Interactive
- - [https://support.bistudio.com](https://support.bistudio.com)
- - date_published: 2024-06-16T13:09:19.652903+00:00
-
- ## Bohemia Interactive
- - [https://www.bistudio.com](https://www.bistudio.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Bitcoin Exchange | Cryptocurrency Exchange | BIT
- - [https://www.bit.com](https://www.bit.com)
- - date_published: 2024-07-14T21:57:15.163814+00:00
-
- ## BIT-101 – Bill Gates touched my Mac Book Pro.
- - [https://bit-101.com](https://bit-101.com)
- - date_published: 2023-10-25T13:01:06.324531+00:00
-
- ## Home - A Bit About Britain
- - [https://bitaboutbritain.com](https://bitaboutbritain.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## bitaesthetics
- - [https://bitaesthetics.com](https://bitaesthetics.com)
- - date_published: 2024-05-09T04:38:53.940643+00:00
-
- ## Visualizing Facebook Friends
- - [http://fbmap.bitaesthetics.com](http://fbmap.bitaesthetics.com)
- - date_published: 2013-01-03T00:24:18+00:00
-
- ## New York City Place-of-Birth Map
- - [http://nycbm.bitaesthetics.com](http://nycbm.bitaesthetics.com)
- - date_published: 2012-12-31T01:18:00+00:00
-
- ## Toronto Transit Distance
- - [http://ttcmap.bitaesthetics.com](http://ttcmap.bitaesthetics.com)
- - date_published: 2016-05-09T03:06:03+00:00
-
- ## Browser & Mobile Testing for Apps | BitBar from SmartBear
- - [https://bitbar.com](https://bitbar.com)
- - date_published: 2024-04-28T02:58:58.312827+00:00
-
- ## Home - Bit Battalion
- - [https://bitbattalion.com](https://bitbattalion.com)
- - date_published: 2022-10-04T13:23:37+00:00
-
- ## Introduction | Bitbond documentation
- - [https://docs.bitbond.com](https://docs.bitbond.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Token Tool – Web3 Token Generator by Bitbond
- - [https://tokentool.bitbond.com](https://tokentool.bitbond.com)
- - date_published: 2024-06-16T07:45:26.655121+00:00
 

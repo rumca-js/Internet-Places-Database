@@ -1,3 +1,123 @@
+ ## Informa Tech
+ - [https://tech.informa.com](https://tech.informa.com)
+ - date_published: 2024-05-04T12:33:42.445948+00:00
+
+ ## WardsAuto - Automotive Experts
+ - [https://wardsauto.informa.com](https://wardsauto.informa.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Home | Informa Connect
+ - [https://informaconnect.com](https://informaconnect.com)
+ - date_published: 2024-05-06T15:00:58+00:00
+
+ ## Fast Chats
+ - [https://fastchats.informaengage.com](https://fastchats.informaengage.com)
+ - date_published: 2024-06-21T13:15:50.342820+00:00
+
+ ## Virtual Events 2022
+ - [https://ve.informaengage.com](https://ve.informaengage.com)
+ - date_published: 2024-05-01T04:02:22.373589+00:00
+
+ ## Home - Aviation Group Marketing
+ - [https://aviation.informaexhibitions.com](https://aviation.informaexhibitions.com)
+ - date_published: 2014-05-09T00:00:00+00:00
+
+ ## Taylor & Francis Online: Peer-reviewed Journals
+ - [http://informahealthcare.com](http://informahealthcare.com)
+ - date_published: 2024-06-13T18:42:06.003636+00:00
+
+ ## | MM Datahouse
+ - [https://connect.informamarkets.com](https://connect.informamarkets.com)
+ - date_published: 2024-06-23T12:28:39+00:00
+
+ ## Event Listing
+ - [https://events.informamarkets.com](https://events.informamarkets.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Home | Event Sponsor Rotation Tool
+ - [https://sponsorlogo.informamarkets.com](https://sponsorlogo.informamarkets.com)
+ - date_published: 2024-07-14T14:24:40.378598+00:00
+
+ ## Home
+ - [https://informamarkets.com](https://informamarkets.com)
+ - date_published: 2024-05-11T11:24:21.008189+00:00
+
+ ## Informa Tech
+ - [https://informatech.com](https://informatech.com)
+ - date_published: 2024-06-18T09:08:46.349855+00:00
+
+ ## Login
+ - [https://accounts.informatica.com](https://accounts.informatica.com)
+ - date_published: 2024-06-16T20:33:07.944426+00:00
+
+ ## Informatica Network
+ - [https://network.informatica.com](https://network.informatica.com)
+ - date_published: 2023-06-17T20:33:15+00:00
+
+ ## Success Portal
+ - [https://success.informatica.com](https://success.informatica.com)
+ - date_published: 2024-06-16T20:33:11.178338+00:00
+
+ ## Informatica
+ - [https://www.informatica.com](https://www.informatica.com)
+ - date_published: 2024-05-01T07:43:07.985668+00:00
+
+ ## Informatica World
+ - [https://www.informaticaworld.com](https://www.informaticaworld.com)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Digital Marketing & Web Design in Cedar Rapids | Informatics
+ - [https://www.informaticsinc.com](https://www.informaticsinc.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Free Software by Pascal Bourguignon
+ - [http://mirror.informatimago.com](http://mirror.informatimago.com)
+ - date_published: 2021-03-24T13:14:40+00:00
+
+ ## Information is Beautiful Awards
+ - [https://informationisbeautifulawards.com](https://informationisbeautifulawards.com)
+ - date_published: 2024-05-09T04:25:04.205771+00:00
+
+ ## InformationLiberation | The news you're not supposed to know...
+ - [http://informationliberation.com](http://informationliberation.com)
+ - date_published: 2024-07-03T19:02:55.392704+00:00
+
+ ## Library Jobs
+ - [https://informationprofessionaljobs.com](https://informationprofessionaljobs.com)
+ - date_published: 2024-07-02T22:42:38.384140+00:00
+
+ ## Stay Updated With Information Security News: Explore Now
+ - [https://informationsecuritybuzz.com](https://informationsecuritybuzz.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## InformationWeek, News & Analysis Tech Leaders Trust
+ - [https://informationweek.com](https://informationweek.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Free Information Technology Research Library of White Papers, Magazines, Reports, and eBooks
+ - [https://iw-resources.informationweek.com](https://iw-resources.informationweek.com)
+ - date_published: 2024-07-10T05:25:18.973130+00:00
+
+ ## Taylor & Francis - Harnessing the Power of Knowledge
+ - [http://www.informaworld.com](http://www.informaworld.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Informed Assessment Solutions
+ - [https://informedassessmentsolutions.com](https://informedassessmentsolutions.com)
+ - date_published: 2024-05-23T02:51:03.392010+00:00
+
+ ## https://informedinfrastructure.com
+ - [https://informedinfrastructure.com](https://informedinfrastructure.com)
+ - date_published: 2023-12-24T15:28:57.928659+00:00
+
+ ## 1AV Image Converter. Get the software safely and easily.
+ - [http://1av-image-converter.software.informer.com](http://1av-image-converter.software.informer.com)
+ - date_published: 2024-06-22T15:00:28+00:00
+
+ ## Solutions to all Windows, macOS software questions
+ - [https://answers.informer.com](https://answers.informer.com)
+ - date_published: 2024-05-07T13:41:48.249034+00:00
+
  ## Feed Informer: Mix, convert, and republish RSS and Atom feeds.
  - [http://app.feed.informer.com](http://app.feed.informer.com)
  - date_published: 2024-06-18T11:24:32.598407+00:00
@@ -1501,6 +1621,11 @@
  ## High-Performance Computing News Analysis | insideHPC
  - [https://insidehpc.com](https://insidehpc.com)
  - date_published: 2024-06-17T02:35:21.662585+00:00
+
+ ## Mordecai Kipng'etich
+ - [https://insidemordecai.com](https://insidemordecai.com)
+ - date_published: 2024-09-02T08:41:54.264714+00:00
+ - tags: ['personal']
 
  ## a Northwestern Wildcats community
  - [https://www.insidenu.com](https://www.insidenu.com)
@@ -3897,128 +4022,4 @@
  ## Job Opportunities | CIIS
  - [https://ciis.interviewexchange.com](https://ciis.interviewexchange.com)
  - date_published: 2024-07-15T11:10:25.587401+00:00
-
- ## Interview Helper
- - [https://interviewhelpers.com](https://interviewhelpers.com)
- - date_published: 2024-06-14T08:55:24.487270+00:00
-
- ## Interview Magazine
- - [https://www.interviewmagazine.com](https://www.interviewmagazine.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Ace Your Next Data Science Interview - InterviewQs
- - [https://www.interviewqs.com](https://www.interviewqs.com)
- - date_published: 2024-07-14T23:16:17.342548+00:00
-
- ## Interview Preparation Classes
- - [https://interviewsteps.com](https://interviewsteps.com)
- - date_published: 2024-05-07T15:25:35.090382+00:00
-
- ## We help you find your ideal career in Germany
- - [https://interviewtraininggermany.com](https://interviewtraininggermany.com)
- - date_published: 2024-05-01T16:45:23.027325+00:00
-
- ## Shop | Interweave
- - [http://www.interweavestore.com](http://www.interweavestore.com)
- - date_published: 2024-08-19T21:49:30.111044+00:00
-
- ## Home - Inter Xtra
- - [https://interxtra.com](https://interxtra.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Gruppo Intesa Sanpaolo | Intesa Sanpaolo
- - [https://group.intesasanpaolo.com](https://group.intesasanpaolo.com)
- - date_published: 2024-06-14T15:49:32+00:00
-
- ## Homepage | IMI Intesa Sanpaolo
- - [https://imi.intesasanpaolo.com](https://imi.intesasanpaolo.com)
- - date_published: 2024-06-16T07:31:44.798005+00:00
-
- ## Presenza Internazionale | Intesa Sanpaolo
- - [http://www.banchestere.intesasanpaolo.com](http://www.banchestere.intesasanpaolo.com)
- - date_published: 2024-06-14T15:50:27+00:00
-
- ## Homepage | Inbiz Intesa Sanpaolo
- - [http://www.inbiz.intesasanpaolo.com](http://www.inbiz.intesasanpaolo.com)
- - date_published: 2024-06-16T07:31:53.404102+00:00
-
- ## BTP VALORE 6 anni -  Intesa Sanpaolo
- - [https://www.intesasanpaolo.com](https://www.intesasanpaolo.com)
- - date_published: 2024-05-01T05:59:24.631324+00:00
-
- ## Home Page
- - [https://intezer.com](https://intezer.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Rakhoitv, trực tiếp bóng đá hôm nay, xem bóng đá ra khoi tv
- - [http://www.intheagora.com](http://www.intheagora.com)
- - date_published: 2024-07-13T10:08:52+00:00
-
- ## Home | INTHEBLACK
- - [https://www.intheblack.com](https://www.intheblack.com)
- - date_published: 2024-06-15T16:29:49.437028+00:00
-
- ## server1.bluevyhost.com —  Host default page
- - [http://www.inthebullpen.com](http://www.inthebullpen.com)
- - date_published: 2024-06-13T14:28:25+00:00
-
- ## Home
- - [https://inthegaragemedia.com](https://inthegaragemedia.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Best Online Travel Magazine - In the Know Traveler
- - [https://intheknowtraveler.com](https://intheknowtraveler.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## In the Middle
- - [https://www.inthemedievalmiddle.com](https://www.inthemedievalmiddle.com)
- - date_published: 2024-06-21T06:08:07+00:00
-
- ## Home
- - [https://inthemixdjs.com](https://inthemixdjs.com)
- - date_published: 2024-08-07T21:26:47.478619+00:00
-
- ## In These Times
- - [https://inthesetimes.com](https://inthesetimes.com)
- - date_published: 2023-11-22T17:18:56.607913+00:00
-
- ## In the Valley of Gods - A New Video Game from Campo Santo
- - [http://www.inthevalleyofgods.com](http://www.inthevalleyofgods.com)
- - date_published: 2024-07-16T19:39:30.937577+00:00
-
- ## In the Works | The Ecommerce Issue
- - [https://www.intheworks.com](https://www.intheworks.com)
- - date_published: 2024-06-16T09:40:06.960207+00:00
-
- ## In The Works and Co | Managed IT Services & Cloud Consulting
- - [https://intheworksandco.com](https://intheworksandco.com)
- - date_published: 2024-05-08T03:21:50.216355+00:00
-
- ## Inti Creates - Official English Website
- - [http://inticreates.com](http://inticreates.com)
- - date_published: 2024-06-18T20:05:25.358786+00:00
-
- ## Intiface® Intimate Haptics/Sensor Software
- - [https://intiface.com](https://intiface.com)
- - date_published: 2024-06-02T01:18:26.115000+00:00
-
- ## Intigriti - Bug Bounty & Agile Pentesting Platform
- - [https://app.intigriti.com](https://app.intigriti.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Intigriti - Bug Bounty Insights & Tips
- - [https://blog.intigriti.com](https://blog.intigriti.com)
- - date_published: 2024-05-11T08:33:01.683368+00:00
-
- ## Intigriti - Bug Bounty & Agile Pentesting Platform
- - [https://go.intigriti.com](https://go.intigriti.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## intigriti Help Center
- - [https://kb.intigriti.com](https://kb.intigriti.com)
- - date_published: 2024-07-13T06:52:48.921606+00:00
-
- ## Log in - Intigriti
- - [https://login.intigriti.com](https://login.intigriti.com)
- - date_published: 2024-05-11T08:32:35.420400+00:00
 

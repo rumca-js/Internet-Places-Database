@@ -1,3 +1,23 @@
+ ## Prompt.Cafe | AI Prompt Starter Pack
+ - [https://www.prompt.cafe](https://www.prompt.cafe)
+ - date_published: 2023-08-21T00:00:00+00:00
+
+ ## OpenBSD webzine homepage
+ - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
+ - date_published: 2023-10-30T21:38:37.602934+00:00
+
+ ## Re:Play Cafe
+ - [https://replay.cafe](https://replay.cafe)
+ - date_published: 2023-01-09T07:24:17+00:00
+
+ ## Rogues Repast Cafe
+ - [https://roguesrepast.cafe](https://roguesrepast.cafe)
+ - date_published: 2024-02-13T21:13:05+00:00
+
+ ## RPG Maker Cafe
+ - [https://rpgmaker.cafe](https://rpgmaker.cafe)
+ - date_published: 2024-07-23T23:19:00.998241+00:00
+
  ## Seal Cafe
  - [https://seal.cafe](https://seal.cafe)
  - date_published: 2024-08-07T13:09:27.639690+00:00
@@ -4005,25 +4025,4 @@
  ## BLKB: Was morgen zählt
  - [https://www.blkb.ch](https://www.blkb.ch)
  - date_published: 2024-07-24T06:06:26.250935+00:00
-
- ## Gregors Blog
- - [https://www.blog-gregor.ch](https://www.blog-gregor.ch)
- - date_published: 2023-12-27T23:55:45.885819+00:00
- - tags: ['personal']
-
- ## Everything SQL Server Compact
- - [https://erikej.blogspot.ch](https://erikej.blogspot.ch)
- - date_published: 2024-05-01T03:48:31.365826+00:00
-
- ## Random blatherings by Jeff
- - [http://garzikrants.blogspot.ch](http://garzikrants.blogspot.ch)
- - date_published: 2024-02-28T23:44:24+00:00
-
- ## IT and more (a.k.a. Doing-IT-Right)
- - [https://it-and-more.blogspot.ch](https://it-and-more.blogspot.ch)
- - date_published: 2024-03-13T20:36:44+00:00
-
- ## Reflections of a Newsosaur
- - [http://newsosaur.blogspot.ch](http://newsosaur.blogspot.ch)
- - date_published: 2024-07-30T08:15:33+00:00
 

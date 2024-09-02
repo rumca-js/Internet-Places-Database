@@ -1,3 +1,19 @@
+ ## Total Equipment Rentals
+ - [https://totalrentals.ca](https://totalrentals.ca)
+ - date_published: 2024-04-30T05:14:45.360788+00:00
+
+ ## Total Rentals Safety and Operator Training
+ - [https://www.totalsafetytraining.ca](https://www.totalsafetytraining.ca)
+ - date_published: 2024-07-21T09:25:43.236869+00:00
+
+ ## Tour-The-Shore | Nova Scotia's Eastern Shore
+ - [https://www.tour-the-shore.ca](https://www.tour-the-shore.ca)
+ - date_published: 2024-07-11T17:18:57.262036+00:00
+
+ ## Towing in Canada, Canada
+ - [http://www.towing.ca](http://www.towing.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## Curiousity? | Dr. Terri's Maker Log
  - [http://terri.toybox.ca](http://terri.toybox.ca)
  - date_published: 2024-06-28T19:53:28.454404+00:00
@@ -3899,6 +3915,10 @@
  - [https://joey.cafe](https://joey.cafe)
  - date_published: 2024-01-09T00:00:00+00:00
 
+ ## Kusoge Coffeehouse
+ - [https://kusoge.cafe](https://kusoge.cafe)
+ - date_published: 2024-08-22T22:17:13.654070+00:00
+
  ## Lab.cafe | Dielňa, Kaviareň, Podujatia
  - [https://lab.cafe](https://lab.cafe)
  - date_published: 2024-07-02T23:43:10.961811+00:00
@@ -3996,24 +4016,4 @@
  ## Penpal Café
  - [https://penpal.cafe](https://penpal.cafe)
  - date_published: 2024-04-03T07:36:11+00:00
-
- ## Prompt.Cafe | AI Prompt Starter Pack
- - [https://www.prompt.cafe](https://www.prompt.cafe)
- - date_published: 2023-08-21T00:00:00+00:00
-
- ## OpenBSD webzine homepage
- - [https://webzine.puffy.cafe](https://webzine.puffy.cafe)
- - date_published: 2023-10-30T21:38:37.602934+00:00
-
- ## Re:Play Cafe
- - [https://replay.cafe](https://replay.cafe)
- - date_published: 2023-01-09T07:24:17+00:00
-
- ## Rogues Repast Cafe
- - [https://roguesrepast.cafe](https://roguesrepast.cafe)
- - date_published: 2024-02-13T21:13:05+00:00
-
- ## RPG Maker Cafe
- - [https://rpgmaker.cafe](https://rpgmaker.cafe)
- - date_published: 2024-07-23T23:19:00.998241+00:00
 

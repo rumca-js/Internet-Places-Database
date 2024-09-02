@@ -1,3 +1,124 @@
+ ## HackMii — Notes from inside your Wii
+ - [https://hackmii.com](https://hackmii.com)
+ - date_published: 2024-06-29T06:56:10.227092+00:00
+
+ ## The Homebrew Channel
+ - [https://hbc.hackmii.com](https://hbc.hackmii.com)
+ - date_published: 2024-07-11T16:20:39.552380+00:00
+
+ ## Hack Music Theory
+ - [https://hackmusictheory.com](https://hackmusictheory.com)
+ - date_published: 2024-04-28T04:54:13.205526+00:00
+
+ ## Hack MySQL
+ - [https://hackmysql.com](https://hackmysql.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## HackNC 2023
+ - [https://hacknc.com](https://hacknc.com)
+ - date_published: 2024-04-29T03:46:27.082166+00:00
+
+ ## hackplayers
+ - [https://www.hackplayers.com](https://www.hackplayers.com)
+ - date_published: 2024-06-21T14:41:18+00:00
+
+ ## - Hackread - Latest Cybersecurity News, Press Releases & Technology Today
+ - [https://hackread.com](https://hackread.com)
+ - date_published: 2023-10-25T14:55:18.836218+00:00
+
+ ## Hackreels
+ - [https://hackreels.com](https://hackreels.com)
+ - date_published: 2024-05-04T09:14:24.183027+00:00
+
+ ## hackrocks
+ - [https://hackrocks.com](https://hackrocks.com)
+ - date_published: 2024-06-21T23:56:15.773229+00:00
+
+ ## Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data by Micah Lee
+ - [https://hacksandleaks.com](https://hacksandleaks.com)
+ - date_published: 2024-07-17T22:05:34+00:00
+
+ ## Hacks/Hackers
+ - [https://www.hackshackers.com](https://www.hackshackers.com)
+ - date_published: 2024-05-23T22:57:03+00:00
+
+ ## HackShanghai
+ - [http://2015.hackshanghai.com](http://2015.hackshanghai.com)
+ - date_published: 2015-11-07T00:00:00+00:00
+
+ ## Snowbound - A Hackathon in Vermont
+ - [https://hacksnowbound.com](https://hacksnowbound.com)
+ - date_published: 2024-06-20T15:20:16.572392+00:00
+
+ ## Sean Boult - Portfilio Site
+ - [https://hacksore.com](https://hacksore.com)
+ - date_published: 2024-07-14T08:56:47.681792+00:00
+
+ ## Chisinau, Moldova public network mirror by Hacktegic
+ - [http://md.mirrors.hacktegic.com](http://md.mirrors.hacktegic.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Hack The Box: The #1 Cybersecurity Performance Center
+ - [https://affiliate.hackthebox.com](https://affiliate.hackthebox.com)
+ - date_published: 2024-07-08T11:52:34.473363+00:00
+
+ ## Hack The Box :: Login
+ - [https://app.hackthebox.com](https://app.hackthebox.com)
+ - date_published: 2024-04-28T03:23:25.576488+00:00
+
+ ## HTB CTF Platform | Find & Play CTFs!
+ - [https://ctf.hackthebox.com](https://ctf.hackthebox.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## HTB Enterprise
+ - [https://enterprise.hackthebox.com](https://enterprise.hackthebox.com)
+ - date_published: 2024-06-24T07:56:05.110993+00:00
+
+ ## Hack The Box :: Forums
+ - [https://forum.hackthebox.com](https://forum.hackthebox.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Hacking Training For The Best
+ - [https://hackthebox.com](https://hackthebox.com)
+ - date_published: 2024-05-20T14:04:55+00:00
+ - tags: ['cybersecurity', 'hacking']
+
+ ## Hack The Box Help Center
+ - [https://help.hackthebox.com](https://help.hackthebox.com)
+ - date_published: 2024-06-24T07:53:01.552893+00:00
+
+ ## Hacking Training For The Best
+ - [https://referral.hackthebox.com](https://referral.hackthebox.com)
+ - date_published: 2024-05-06T16:45:49.630260+00:00
+
+ ## Hack the North
+ - [https://hackthenorth.com](https://hackthenorth.com)
+ - date_published: 2024-04-30T05:16:07.094918+00:00
+
+ ## Hack the Tech Interview
+ - [https://hackthetechinterview.com](https://hackthetechinterview.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Hacktoberfest 2023
+ - [https://hacktoberfest.com](https://hacktoberfest.com)
+ - date_published: 2023-10-25T14:55:20.590544+00:00
+
+ ## Bezpečnosť na internete vďaka etickým hackerom – Hacktrophy
+ - [https://hacktrophy.com](https://hacktrophy.com)
+ - date_published: 2024-06-19T22:50:52.947971+00:00
+
+ ## HackWithGPT - AI Tutorials and Resources
+ - [https://www.hackwithgpt.com](https://www.hackwithgpt.com)
+ - date_published: 2024-08-11T03:21:45.581914+00:00
+
+ ## Organize a hackathon | Hackworks
+ - [https://hackworks.com](https://hackworks.com)
+ - date_published: 2020-11-20T22:36:07+00:00
+
+ ## HACKYLAWYER
+ - [https://hackylawyer.com](https://hackylawyer.com)
+ - date_published: 2024-04-29T02:48:07.933521+00:00
+
  ## HackYourNews
  - [https://hackyournews.com](https://hackyournews.com)
  - date_published: 2023-10-25T11:00:54.478394+00:00
@@ -400,6 +521,10 @@
  ## Hall Family Farm – Where Fun Memories Are Made
  - [https://hallfamilyfarm.com](https://hallfamilyfarm.com)
  - date_published: 2024-05-04T14:20:24.740374+00:00
+
+ ## Hallmark Greeting Cards, Gifts, Ornaments, Home Decor & Gift Wrap | Hallmark
+ - [https://www.hallmark.com](https://www.hallmark.com)
+ - date_published: 2024-07-12T00:00:00+00:00
 
  ## Hallmark Channel TV Official Site - Hallmark Movies, Shows, Schedule
  - [https://www.hallmarkchannel.com](https://www.hallmarkchannel.com)
@@ -3836,10 +3961,6 @@
  - date_published: 2024-06-29T17:19:05.921663+00:00
 
  ## Healthshots
- - [http://healthshots.com](http://healthshots.com)
- - date_published: 2024-08-20T03:29:09+00:00
-
- ## Healthshots
  - [https://healthshots.com](https://healthshots.com)
  - date_published: 2024-05-23T14:00:19+00:00
 
@@ -3919,124 +4040,4 @@
  ## Heardle 2000s
  - [https://00s.heardledecades.com](https://00s.heardledecades.com)
  - date_published: 2024-06-07T05:34:58+00:00
-
- ## Heardle 2010s
- - [https://10s.heardledecades.com](https://10s.heardledecades.com)
- - date_published: 2024-05-31T05:35:23+00:00
-
- ## Heardle 50s
- - [https://50s.heardledecades.com](https://50s.heardledecades.com)
- - date_published: 2024-06-23T15:19:22+00:00
-
- ## Heardle 60s
- - [https://60s.heardledecades.com](https://60s.heardledecades.com)
- - date_published: 2024-07-02T15:05:28+00:00
-
- ## Heardle 70s
- - [https://70s.heardledecades.com](https://70s.heardledecades.com)
- - date_published: 2024-05-16T05:29:41+00:00
-
- ## Heardle 80s Number 1s
- - [https://80s.heardledecades.com](https://80s.heardledecades.com)
- - date_published: 2024-05-26T08:25:57+00:00
-
- ## Heardle 90s
- - [https://90s.heardledecades.com](https://90s.heardledecades.com)
- - date_published: 2024-06-23T15:38:16+00:00
-
- ## Heardle Country
- - [https://country.heardledecades.com](https://country.heardledecades.com)
- - date_published: 2024-05-14T19:28:44+00:00
-
- ## Heardle Covers
- - [https://covers.heardledecades.com](https://covers.heardledecades.com)
- - date_published: 2024-05-17T10:33:16+00:00
-
- ## Heardle Disco
- - [https://disco.heardledecades.com](https://disco.heardledecades.com)
- - date_published: 2024-05-04T05:18:25+00:00
-
- ## Heardle Eurovision
- - [https://eurovision.heardledecades.com](https://eurovision.heardledecades.com)
- - date_published: 2024-05-13T15:33:28+00:00
-
- ## Heardle GRLPWR!
- - [https://female.heardledecades.com](https://female.heardledecades.com)
- - date_published: 2024-06-10T06:05:58+00:00
-
- ## Heardle Decades - The Home of Heardle - Can you name that tune?
- - [https://heardledecades.com](https://heardledecades.com)
- - date_published: 2024-05-08T07:01:30.427708+00:00
-
- ## Heardle Greatest Hits
- - [https://hits.heardledecades.com](https://hits.heardledecades.com)
- - date_published: 2024-02-22T12:11:57+00:00
-
- ## Heardle Love Songs
- - [https://love.heardledecades.com](https://love.heardledecades.com)
- - date_published: 2024-03-21T21:58:47+00:00
-
- ## Heardle - It's Lyrical AF
- - [https://lyrical.heardledecades.com](https://lyrical.heardledecades.com)
- - date_published: 2024-06-30T08:22:19+00:00
-
- ## Heardle Metal
- - [https://metal.heardledecades.com](https://metal.heardledecades.com)
- - date_published: 2024-06-30T07:32:43+00:00
-
- ## Heardle Motown
- - [https://motown.heardledecades.com](https://motown.heardledecades.com)
- - date_published: 2024-02-22T12:12:43+00:00
-
- ## Heardle Movies
- - [https://movies.heardledecades.com](https://movies.heardledecades.com)
- - date_published: 2024-06-30T15:33:12+00:00
-
- ## Heardle Movies & Musicals
- - [https://musicals.heardledecades.com](https://musicals.heardledecades.com)
- - date_published: 2024-02-22T12:13:00+00:00
-
- ## Heardle New Wave
- - [https://newwave.heardledecades.com](https://newwave.heardledecades.com)
- - date_published: 2024-05-13T05:01:11+00:00
-
- ## Heardle Pop!
- - [https://pop.heardledecades.com](https://pop.heardledecades.com)
- - date_published: 2024-06-30T07:43:22+00:00
-
- ## Heardle Pride
- - [https://pride.heardledecades.com](https://pride.heardledecades.com)
- - date_published: 2024-06-30T07:34:44+00:00
-
- ## Heardle Rock
- - [https://rock.heardledecades.com](https://rock.heardledecades.com)
- - date_published: 2024-07-03T07:19:08+00:00
-
- ## Heardle Northern Soul
- - [https://soul.heardledecades.com](https://soul.heardledecades.com)
- - date_published: 2024-05-23T05:45:21+00:00
-
- ## Heardle Super 70s
- - [https://super70s.heardledecades.com](https://super70s.heardledecades.com)
- - date_published: 2024-04-20T06:16:23+00:00
-
- ## Heardle - Taylor's Version
- - [https://taylor.heardledecades.com](https://taylor.heardledecades.com)
- - date_published: 2024-06-10T06:23:28+00:00
-
- ## Heardle TV Themes
- - [https://tv.heardledecades.com](https://tv.heardledecades.com)
- - date_published: 2024-06-03T06:43:32+00:00
-
- ## Heardle UK Chart Toppers (1960 - 2009)
- - [https://uk.heardledecades.com](https://uk.heardledecades.com)
- - date_published: 2024-06-26T05:22:18+00:00
-
- ## Heardle USA Billboard Chart Toppers (1960-1999)
- - [https://usa.heardledecades.com](https://usa.heardledecades.com)
- - date_published: 2024-06-26T15:43:20+00:00
-
- ## Heardle One Hit Wonders
- - [https://wonders.heardledecades.com](https://wonders.heardledecades.com)
- - date_published: 2024-02-22T12:13:54+00:00
 

@@ -1,3 +1,59 @@
+ ## John Ray's pictorial home page
+ - [https://accessjonjayray.blogspot.com](https://accessjonjayray.blogspot.com)
+ - date_published: 2024-02-19T15:21:35+00:00
+
+ ## Redirecting... writerbeware
+ - [http://accrispin.blogspot.com](http://accrispin.blogspot.com)
+ - date_published: 2024-06-14T17:51:13+00:00
+
+ ## Accuracy In Politics
+ - [http://accuracyinpolitics.blogspot.com](http://accuracyinpolitics.blogspot.com)
+ - date_published: 2024-06-25T05:48:20+00:00
+
+ ## Health Life
+ - [http://accursedshare.blogspot.com](http://accursedshare.blogspot.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## A Christian Democracy
+ - [http://achristiandemocracy.blogspot.com](http://achristiandemocracy.blogspot.com)
+ - date_published: 2024-02-03T23:19:23+00:00
+
+ ## aconservativeteacher
+ - [http://aconservativeteacher.blogspot.com](http://aconservativeteacher.blogspot.com)
+ - date_published: 2024-03-13T05:00:55+00:00
+
+ ## The Two Faces of Islam,
+ - [http://acornsoftruth.blogspot.com](http://acornsoftruth.blogspot.com)
+ - date_published: 2024-03-08T08:34:42+00:00
+
+ ## Confessions of an Anonymous Coward
+ - [http://acoward.blogspot.com](http://acoward.blogspot.com)
+ - date_published: 2024-06-27T21:54:29+00:00
+
+ ## Of No Importance Whatsoever
+ - [http://acrannymint.blogspot.com](http://acrannymint.blogspot.com)
+ - date_published: 2024-03-19T11:40:27+00:00
+
+ ## The Acrasian Security Blog
+ - [http://acrasian.blogspot.com](http://acrasian.blogspot.com)
+ - date_published: 2024-03-05T18:26:59+00:00
+
+ ## Across the Rooftops
+ - [http://acrosstherooftops.blogspot.com](http://acrosstherooftops.blogspot.com)
+ - date_published: 2024-03-20T07:39:02+00:00
+
+ ## Action Force Wargames Project 25th Anniversary
+ - [http://actionforcevsredshadows.blogspot.com](http://actionforcevsredshadows.blogspot.com)
+ - date_published: 2024-06-29T18:43:07+00:00
+
+ ## Blogger
+ - [http://actionskeptics.blogspot.com](http://actionskeptics.blogspot.com)
+ - date_published: 2024-07-02T06:21:03.472422+00:00
+
+ ## Action Typist
+ - [http://actiontypist.blogspot.com](http://actiontypist.blogspot.com)
+ - date_published: 2024-03-13T18:01:01+00:00
+
  ## Active Amputee
  - [http://activeamputee.blogspot.com](http://activeamputee.blogspot.com)
  - date_published: 2024-03-13T12:06:56+00:00
@@ -2578,6 +2634,10 @@
  - [http://blinksread.blogspot.com](http://blinksread.blogspot.com)
  - date_published: 2024-08-16T18:48:06+00:00
 
+ ## Blip Me Beautiful
+ - [http://blipme.blogspot.com](http://blipme.blogspot.com)
+ - date_published: 2024-03-21T23:38:44+00:00
+
  ## blissblog
  - [https://blissout.blogspot.com](https://blissout.blogspot.com)
  - date_published: 2024-08-17T17:45:24+00:00
@@ -3964,65 +4024,4 @@
  ## Cincinnati Locavore
  - [http://cincinnatilocavore.blogspot.com](http://cincinnatilocavore.blogspot.com)
  - date_published: 2024-08-15T09:07:39+00:00
-
- ## Cinta Sapto Condro (iscab)
- - [http://cintascondro.blogspot.com](http://cintascondro.blogspot.com)
- - date_published: 2023-11-16T14:17:43+00:00
-
- ## Círculo de Lovecraft
- - [http://circulodelovecraft.blogspot.com](http://circulodelovecraft.blogspot.com)
- - date_published: 2024-06-27T21:54:02+00:00
-
- ## Ottawa Citizen Cryptic Crossword Forum
- - [http://citizencryptic.blogspot.com](http://citizencryptic.blogspot.com)
- - date_published: 2024-04-23T01:21:24+00:00
-
- ## Citizenschallenge
- - [http://citizenschallenge.blogspot.com](http://citizenschallenge.blogspot.com)
- - date_published: 2024-06-15T07:25:08+00:00
-
- ## A Murder of Ravens
- - [http://citizenwilliams-amurderofravens.blogspot.com](http://citizenwilliams-amurderofravens.blogspot.com)
- - date_published: 2024-03-13T16:08:59+00:00
-
- ## Citron - DEMO
- - [https://citron-demo.blogspot.com](https://citron-demo.blogspot.com)
- - date_published: 2024-02-20T14:04:44+00:00
-
- ## Hicaro, ambientazione e avventure per Dungeons & Dragons
- - [http://cittavolanti.blogspot.com](http://cittavolanti.blogspot.com)
- - date_published: 2024-03-30T01:54:15+00:00
-
- ## Civilian Reader
- - [https://civilian-reader.blogspot.com](https://civilian-reader.blogspot.com)
- - date_published: 2024-06-18T13:28:37+00:00
-
- ## Circle Jerk at the Square Dance
- - [http://cjsd.blogspot.com](http://cjsd.blogspot.com)
- - date_published: 2024-06-05T12:57:25+00:00
-
- ## Some Assembly Required
- - [https://ckm3.blogspot.com](https://ckm3.blogspot.com)
- - date_published: 2024-03-19T20:15:41+00:00
-
- ## Blogger
- - [http://cl516.blogspot.com](http://cl516.blogspot.com)
- - date_published: 2024-06-30T07:53:23.849523+00:00
-
- ## Ewal Dvergar
- - [http://claminiatures.blogspot.com](http://claminiatures.blogspot.com)
- - date_published: 2024-05-30T09:49:46+00:00
-
- ## Clamshells and Sea Horses
- - [https://clamshellsandseadogs.blogspot.com](https://clamshellsandseadogs.blogspot.com)
- - date_published: 2024-05-17T14:34:00+00:00
- - tags: ['miniatures', 'wargames']
-
- ## Clang's Corner
- - [http://clangscorner.blogspot.com](http://clangscorner.blogspot.com)
- - date_published: 2024-07-03T02:28:51+00:00
-
- ## Claremont On Tour
- - [http://claremontontour.blogspot.com](http://claremontontour.blogspot.com)
- - date_published: 2024-03-23T18:34:17+00:00
 

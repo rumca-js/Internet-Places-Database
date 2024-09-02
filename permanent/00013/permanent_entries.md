@@ -1,3 +1,19 @@
+ ## Indigenous Tourism Association of Canada | Corporate
+ - [https://indigenoustourism.ca](https://indigenoustourism.ca)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## indigo cx program
+ - [https://en.feedback.indigo.ca](https://en.feedback.indigo.ca)
+ - date_published: 2024-06-30T07:14:13.390976+00:00
+
+ ## Support Home Page
+ - [https://help.indigo.ca](https://help.indigo.ca)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
+ - [https://www.chapters.indigo.ca](https://www.chapters.indigo.ca)
+ - date_published: 2024-06-18T12:55:07.712220+00:00
+
  ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
  - [https://indigo.ca](https://indigo.ca)
  - date_published: 2024-05-07T15:43:22.753534+00:00
@@ -4032,20 +4048,4 @@
  ## Schwartz Reisman Institute for Technology and Society
  - [https://www.torontosri.ca](https://www.torontosri.ca)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Total Equipment Rentals
- - [https://totalrentals.ca](https://totalrentals.ca)
- - date_published: 2024-04-30T05:14:45.360788+00:00
-
- ## Total Rentals Safety and Operator Training
- - [https://www.totalsafetytraining.ca](https://www.totalsafetytraining.ca)
- - date_published: 2024-07-21T09:25:43.236869+00:00
-
- ## Tour-The-Shore | Nova Scotia's Eastern Shore
- - [https://www.tour-the-shore.ca](https://www.tour-the-shore.ca)
- - date_published: 2024-07-11T17:18:57.262036+00:00
-
- ## Towing in Canada, Canada
- - [http://www.towing.ca](http://www.towing.ca)
- - date_published: 2024-06-03T00:00:00+00:00
 

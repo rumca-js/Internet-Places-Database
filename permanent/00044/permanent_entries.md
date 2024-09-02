@@ -1,3 +1,63 @@
+ ## Fiji Island Mermaid Press
+ - [http://fimpress.blogspot.com](http://fimpress.blogspot.com)
+ - date_published: 2024-03-07T09:57:22+00:00
+
+ ## Monkey in the Middle
+ - [http://findalismonkeyinthemiddle.blogspot.com](http://findalismonkeyinthemiddle.blogspot.com)
+ - date_published: 2024-03-21T20:38:50+00:00
+
+ ## FinderMaker
+ - [http://findermaker.blogspot.com](http://findermaker.blogspot.com)
+ - date_published: 2024-03-14T06:28:20+00:00
+
+ ## The Hinton Hunter
+ - [http://findthatfigure.blogspot.com](http://findthatfigure.blogspot.com)
+ - date_published: 2024-07-04T06:02:24+00:00
+
+ ## FINiatures
+ - [http://finiatures.blogspot.com](http://finiatures.blogspot.com)
+ - date_published: 2024-03-13T17:22:41+00:00
+
+ ## Blogtrotter
+ - [http://fionnchu.blogspot.com](http://fionnchu.blogspot.com)
+ - date_published: 2024-06-17T12:25:23+00:00
+
+ ## Fire and Sword!
+ - [http://fireandsword.blogspot.com](http://fireandsword.blogspot.com)
+ - date_published: 2024-03-23T17:44:17+00:00
+
+ ## Blogger
+ - [http://firebaseamerica.blogspot.com](http://firebaseamerica.blogspot.com)
+ - date_published: 2024-06-27T09:25:27.032066+00:00
+
+ ## fireChangeEvent()
+ - [http://fire-change-event.blogspot.com](http://fire-change-event.blogspot.com)
+ - date_published: 2024-03-21T20:02:06+00:00
+
+ ## First Known When Lost
+ - [http://firstknownwhenlost.blogspot.com](http://firstknownwhenlost.blogspot.com)
+ - date_published: 2024-06-27T02:09:01+00:00
+
+ ## First Point of Aries
+ - [http://firstpointofaries.blogspot.com](http://firstpointofaries.blogspot.com)
+ - date_published: 2024-03-15T08:33:13+00:00
+
+ ## First Rank, Second Rank
+ - [http://firstranksecondrank.blogspot.com](http://firstranksecondrank.blogspot.com)
+ - date_published: 2024-03-13T18:02:07+00:00
+
+ ## The Beginner Programmer
+ - [http://firsttimeprogrammer.blogspot.com](http://firsttimeprogrammer.blogspot.com)
+ - date_published: 2024-06-28T10:29:57+00:00
+
+ ## DEI GRECI
+ - [http://fischers-design-shop.blogspot.com](http://fischers-design-shop.blogspot.com)
+ - date_published: 2024-06-29T11:53:55+00:00
+
+ ## Fishing for History: The History of Fishing and Fishing Tackle
+ - [http://fishinghistory.blogspot.com](http://fishinghistory.blogspot.com)
+ - date_published: 2024-06-26T07:51:25+00:00
+
  ## Fist Full of Seamen
  - [http://fistfullofseamen.blogspot.com](http://fistfullofseamen.blogspot.com)
  - date_published: 2024-05-25T18:55:28+00:00
@@ -3959,64 +4019,4 @@
  ## Judith on way to Santiago de Compostela
  - [http://judithsantiago.blogspot.com](http://judithsantiago.blogspot.com)
  - date_published: 2024-07-02T06:14:23+00:00
-
- ## Zenobia: Empress of the East
- - [http://judithweingarten.blogspot.com](http://judithweingarten.blogspot.com)
- - date_published: 2024-06-07T14:50:42+00:00
-
- ## juegosineditos
- - [http://juegosineditos.blogspot.com](http://juegosineditos.blogspot.com)
- - date_published: 2024-03-08T17:19:49+00:00
-
- ## jugad2 - Vasudev Ram on software innovation
- - [http://jugad2.blogspot.com](http://jugad2.blogspot.com)
- - date_published: 2024-04-02T06:12:13+00:00
-
- ## juhp's blog
- - [http://juhp.blogspot.com](http://juhp.blogspot.com)
- - date_published: 2024-03-14T01:42:00+00:00
-
- ## James' Empty Blog
- - [http://julesandjames.blogspot.com](http://julesandjames.blogspot.com)
- - date_published: 2024-06-20T09:06:48+00:00
-
- ## Jules' klimaatblog
- - [http://jules-klimaat.blogspot.com](http://jules-klimaat.blogspot.com)
- - date_published: 2024-06-11T17:57:20+00:00
-
- ## Julian Baggini
- - [https://julianbaggini.blogspot.com](https://julianbaggini.blogspot.com)
- - date_published: 2023-11-15T13:02:51+00:00
-
- ## Blogger
- - [http://juliettewade.blogspot.com](http://juliettewade.blogspot.com)
- - date_published: 2024-07-04T13:58:12.289455+00:00
-
- ## Jungle Trader
- - [http://jungletrader.blogspot.com](http://jungletrader.blogspot.com)
- - date_published: 2024-02-20T16:51:42+00:00
-
- ## ...jurabilis! (Archiv von 2003-2006)
- - [http://jurabilis.blogspot.com](http://jurabilis.blogspot.com)
- - date_published: 2024-03-23T17:45:50+00:00
-
- ## Jurisdynamics
- - [http://jurisdynamics.blogspot.com](http://jurisdynamics.blogspot.com)
- - date_published: 2024-07-07T06:28:29+00:00
-
- ## The J Curve
- - [http://jurvetson.blogspot.com](http://jurvetson.blogspot.com)
- - date_published: 2024-03-14T07:37:37+00:00
-
- ## Just A Rhino
- - [http://justarhino.blogspot.com](http://justarhino.blogspot.com)
- - date_published: 2024-03-13T19:11:56+00:00
-
- ## Nothing Personal
- - [http://just-bottom.blogspot.com](http://just-bottom.blogspot.com)
- - date_published: 2024-03-06T00:56:11+00:00
-
- ## Just Call Me Frank: Our Endeavour at Being Frank
- - [https://just-call-me-frank.blogspot.com](https://just-call-me-frank.blogspot.com)
- - date_published: 2024-08-03T06:08:30+00:00
 

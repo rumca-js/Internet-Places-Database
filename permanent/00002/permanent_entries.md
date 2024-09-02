@@ -1,3 +1,11 @@
+ ## Customer Footfall Analysis & Insights | PlaceSense
+ - [https://placesense.ai](https://placesense.ai)
+ - date_published: 2024-05-06T17:30:53.379384+00:00
+
+ ## Plandex - AI programming engine
+ - [https://plandex.ai](https://plandex.ai)
+ - date_published: 2024-04-03T19:49:14.844485+00:00
+
  ## Plask Motion: AI-powered Mocap
  - [https://plask.ai](https://plask.ai)
  - date_published: 2024-06-19T20:36:56.019109+00:00
@@ -2254,6 +2262,10 @@
  - [https://tractable.ai](https://tractable.ai)
  - date_published: 2024-07-09T21:19:41.237395+00:00
 
+ ## Trainy
+ - [https://trainy.ai](https://trainy.ai)
+ - date_published: 2024-08-22T22:12:43.231520+00:00
+
  ## Transformer | Shakeel Hashim | Substack
  - [https://www.transformernews.ai](https://www.transformernews.ai)
  - date_published: 2024-07-15T00:00:00+00:00
@@ -4015,16 +4027,4 @@ Creative Solutions
  ## All about Gregorio Andres Alexandria
  - [https://gregorio-andres-alexandria.web.sp.am](https://gregorio-andres-alexandria.web.sp.am)
  - date_published: 2024-05-17T02:55:24.928158+00:00
-
- ## All about Guadalupe Angelo Jerrold
- - [https://guadalupe-angelo-jerrold.web.sp.am](https://guadalupe-angelo-jerrold.web.sp.am)
- - date_published: 2024-05-17T02:55:23.646611+00:00
-
- ## All about Harrison Leslie Patrice
- - [https://harrison-leslie-patrice.web.sp.am](https://harrison-leslie-patrice.web.sp.am)
- - date_published: 2024-07-20T04:55:01.440311+00:00
-
- ## All about Harvey Glen Bonnie
- - [https://harvey-glen-bonnie.web.sp.am](https://harvey-glen-bonnie.web.sp.am)
- - date_published: 2024-07-20T04:48:54.247075+00:00
 
