@@ -1,3 +1,625 @@
+ ## Página inicial - PUC Urgente
+ - [https://pucurgente.com.puc-rio.br](https://pucurgente.com.puc-rio.br)
+ - date_published: 2024-07-07T06:42:39.759766+00:00
+
+ ## Vice-Reitoria Administrativa da PUC-Rio​​​​
+ - [http://spadm.puc-rio.br](http://spadm.puc-rio.br)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://webserver2.tecgraf.puc-rio.br](http://webserver2.tecgraf.puc-rio.br)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Ambiente de Aprendizagem Online da PUC-Rio: Acesso ao site
+ - [http://www.ccead.puc-rio.br](http://www.ccead.puc-rio.br)
+ - date_published: 2024-07-07T06:42:26.018147+00:00
+
+ ## CCE PUC-Rio
+ - [http://www.cce.puc-rio.br](http://www.cce.puc-rio.br)
+ - date_published: 2024-07-07T05:47:01+00:00
+
+ ## CCESP
+ - [http://www.ccesp.puc-rio.br](http://www.ccesp.puc-rio.br)
+ - date_published: 2024-07-07T06:43:38.337945+00:00
+
+ ## WWW-DI - Departamento de Informatica - PUC-Rio
+ - [http://www-di.inf.puc-rio.br](http://www-di.inf.puc-rio.br)
+ - date_published: 2023-01-02T16:27:07+00:00
+
+ ## Departamento de Informática – PUC-Rio | Home
+ - [https://www.inf.puc-rio.br](https://www.inf.puc-rio.br)
+ - date_published: 2024-06-17T03:14:29.702028+00:00
+
+ ## Maxwell
+ - [http://www.maxwell.vrac.puc-rio.br](http://www.maxwell.vrac.puc-rio.br)
+ - date_published: 2024-07-07T06:42:17.039769+00:00
+
+ ## PSI.PUC-RIO
+ - [http://www.psi.puc-rio.br](http://www.psi.puc-rio.br)
+ - date_published: 2021-04-08T22:59:32+00:00
+
+ ## PUC-Rio - Pontifícia Universidade Católica do Rio de Janeiro
+ - [https://puc-rio.br](https://puc-rio.br)
+ - date_published: 2024-05-08T09:46:24.884177+00:00
+
+ ## PUC-Rio - Rio Datacentro (RDC)
+ - [https://www.rdc.puc-rio.br](https://www.rdc.puc-rio.br)
+ - date_published: 2024-07-07T06:42:28.527190+00:00
+
+ ## Início
+ - [http://www.ser.puc-rio.br](http://www.ser.puc-rio.br)
+ - date_published: 2024-07-07T06:43:24+00:00
+
+ ## Tecgraf, PUC-Rio
+ - [https://tecgraf.puc-rio.br](https://tecgraf.puc-rio.br)
+ - date_published: 2023-10-25T12:02:07.692461+00:00
+
+ ## Rede-Rio | Rede Acadêmica do Rio de Janeiro
+ - [https://rederio.br](https://rederio.br)
+ - date_published: 2024-07-07T06:42:03.092211+00:00
+
+ ## Registro.br
+ - [https://registro.br](https://registro.br)
+ - date_published: 2024-05-01T06:42:03.573779+00:00
+
+ ## PoP-RS
+ - [http://www.pop-rs.rnp.br](http://www.pop-rs.rnp.br)
+ - date_published: 2024-06-15T17:37:44.884605+00:00
+
+ ## Simepar
+ - [http://www.simepar.br](http://www.simepar.br)
+ - date_published: 2024-06-12T11:18:45.164578+00:00
+
+ ## Softex
+ - [http://www.ftp.softex.br](http://www.ftp.softex.br)
+ - date_published: 2024-06-12T11:17:22.624511+00:00
+
+ ## Documento sem título
+ - [http://gtrh.tche.br](http://gtrh.tche.br)
+ - date_published: 2005-01-05T13:22:24+00:00
+
+ ## Página Inicial
+ - [http://www.cert-rs.tche.br](http://www.cert-rs.tche.br)
+ - date_published: 2024-06-15T17:37:40+00:00
+
+ ## Index of /
+ - [http://mirror.uepg.br](http://mirror.uepg.br)
+ - date_published: 2024-07-20T15:58:54.977343+00:00
+
+ ## REDCap
+ - [https://redcap.huwc.ufc.br](https://redcap.huwc.ufc.br)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## PORTAL SETISD
+ - [https://sistemas.huwc.ufc.br](https://sistemas.huwc.ufc.br)
+ - date_published: 2024-03-15T13:15:55+00:00
+
+ ## start [Infoptics]
+ - [https://infoptics.if.uff.br](https://infoptics.if.uff.br)
+ - date_published: 2024-08-19T06:10:31.178847+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://www2.ic.uff.br](http://www2.ic.uff.br)
+ - date_published: 2024-05-06T13:35:12.673644+00:00
+
+ ## NetLab
+ - [http://netlab.ice.ufjf.br](http://netlab.ice.ufjf.br)
+ - date_published: 2024-04-03T22:13:37+00:00
+
+ ## Authentication - GLPI
+ - [https://atendimento-sti2.ufma.br](https://atendimento-sti2.ufma.br)
+ - date_published: 2024-06-16T15:22:47.899739+00:00
+
+ ## atoba.fisica.ufmg.br
+ - [https://atoba.fisica.ufmg.br](https://atoba.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:47.217872+00:00
+
+ ## Biblioteca do Departamento de Química - ICEx/UFMG | Biblioteca do Departamento de Química - ICEx/UFMG
+ - [http://biblioteca.qui.ufmg.br](http://biblioteca.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:43+00:00
+
+ ## Black Hole - UFMG / DTI
+ - [http://blackhole.rede.ufmg.br](http://blackhole.rede.ufmg.br)
+ - date_published: 2024-07-13T18:18:55.449683+00:00
+
+ ## Espaço do Colaborador
+ - [http://colaborador.fundep.ufmg.br](http://colaborador.fundep.ufmg.br)
+ - date_published: 2024-03-21T16:31:24+00:00
+
+ ## Sala de Demonstrações de Física - UFMG
+ - [https://demonstracoes.fisica.ufmg.br](https://demonstracoes.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:12.771306+00:00
+
+ ## Fundep - Espaço do Coordenador
+ - [https://ec.fundep.ufmg.br](https://ec.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:17.641805+00:00
+
+ ## LCPNano - Física/UFMG
+ - [http://lcpnano.ufmg.br](http://lcpnano.ufmg.br)
+ - date_published: 2024-05-11T08:08:57.602511+00:00
+
+ ## Física - UFMG -Site secundario
+ - [https://lilith.fisica.ufmg.br](https://lilith.fisica.ufmg.br)
+ - date_published: 2024-03-18T22:49:00.695043+00:00
+
+ ## SSO - minhaUFMG
+ - [https://minha.ufmg.br](https://minha.ufmg.br)
+ - date_published: 2024-05-11T08:08:00.331088+00:00
+
+ ## HTTP Server Test Page powered by CentOS
+ - [http://ni100t.fisica.ufmg.br](http://ni100t.fisica.ufmg.br)
+ - date_published: 2021-07-03T13:48:21+00:00
+
+ ## Portal de Periódicos da UFMG
+ - [https://periodicos.ufmg.br](https://periodicos.ufmg.br)
+ - date_published: 2024-07-13T18:19:33.151876+00:00
+
+ ## Fundep - Portal de Compras
+ - [https://portaldecompras.fundep.ufmg.br](https://portaldecompras.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:16:13.127252+00:00
+
+ ## Programa de Pós-graduação em Ciência da Computação
+ - [https://ppgcc.dcc.ufmg.br](https://ppgcc.dcc.ufmg.br)
+ - date_published: 2024-07-13T18:19:47.272373+00:00
+
+ ## Processo Seletivo - Física - UFMG
+ - [http://procsel.fisica.ufmg.br](http://procsel.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:48.387870+00:00
+
+ ## SGSED - Sistema de Encargos Didáticos
+ - [https://sgsed.fisica.ufmg.br](https://sgsed.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:42.754957+00:00
+
+ ## SSO - minhaUFMG
+ - [https://sistemas.ufmg.br](https://sistemas.ufmg.br)
+ - date_published: 2024-07-13T18:04:07.578049+00:00
+
+ ## Início - Portal da Transparência da FUNDEP
+ - [https://transparencia.fundep.ufmg.br](https://transparencia.fundep.ufmg.br)
+ - date_published: 2024-07-13T18:15:59.430159+00:00
+
+ ## .
+ - [https://tupi.fisica.ufmg.br](https://tupi.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:09:15.884426+00:00
+
+ ## UFMG
+ - [https://ufmg.br](https://ufmg.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Sign in to your account
+ - [http://webmail2.fundep.ufmg.br](http://webmail2.fundep.ufmg.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## DTI - Diretoria de Tecnologia da Informação - UFMG
+ - [http://www.cecom.ufmg.br](http://www.cecom.ufmg.br)
+ - date_published: 2024-07-13T18:18:31.222033+00:00
+
+ ## Physics Department - UFMG - Departamento
+ - [https://www.fisica.ufmg.br](https://www.fisica.ufmg.br)
+ - date_published: 2024-05-11T08:08:36.475825+00:00
+
+ ## Fundep
+ - [https://fundep.ufmg.br](https://fundep.ufmg.br)
+ - date_published: 2024-05-11T08:09:00.660884+00:00
+
+ ## Universidade Federal de Minas Gerais
+ - [https://icex.ufmg.br](https://icex.ufmg.br)
+ - date_published: 2024-05-11T08:09:23.781459+00:00
+
+ ## LabCri – Laboratório de Cristalografia da UFMG
+ - [http://www.labcri.ufmg.br](http://www.labcri.ufmg.br)
+ - date_published: 2024-05-11T08:08:20.604803+00:00
+
+ ## Departamento de Matematica – ICEx – UFMG – Site do departamento de matemática da Universidade Federal de Minas Gerais
+ - [https://www.mat.ufmg.br](https://www.mat.ufmg.br)
+ - date_published: 2024-07-13T18:19:38.114316+00:00
+
+ ## Faculdade de Medicina da UFMG
+ - [https://www.medicina.ufmg.br](https://www.medicina.ufmg.br)
+ - date_published: 2024-07-13T18:16:06.566915+00:00
+
+ ## MOM. Morar de Outras Maneiras.
+ - [https://www.mom.arq.ufmg.br](https://www.mom.arq.ufmg.br)
+ - date_published: 2022-04-22T19:07:25+00:00
+
+ ## OBSERVATÓRIO ASTRONÔMICO FREI ROSÁRIO
+ - [https://www.observatorio.ufmg.br](https://www.observatorio.ufmg.br)
+ - date_published: 2024-05-11T08:09:08.436766+00:00
+
+ ## Programa de Pós-Graduação em Química - UFMG
+ - [http://www.ppg.qui.ufmg.br](http://www.ppg.qui.ufmg.br)
+ - date_published: 2024-07-13T18:19:41.262753+00:00
+
+ ## PHP 7.4.33 - phpinfo()
+ - [http://xivec.fisica.ufmg.br](http://xivec.fisica.ufmg.br)
+ - date_published: 2024-07-13T18:18:38.672031+00:00
+
+ ## ITU2021 | ML5G PHY
+ - [https://ai5gchallenge.ufpa.br](https://ai5gchallenge.ufpa.br)
+ - date_published: 2022-03-23T12:17:23+00:00
+
+ ## CIn UFPE
+ - [https://portal.cin.ufpe.br](https://portal.cin.ufpe.br)
+ - date_published: 2024-07-23T21:52:26.634221+00:00
+
+ ## Pós-Grad. Acadêmico
+ - [https://secpos.cin.ufpe.br](https://secpos.cin.ufpe.br)
+ - date_published: 2024-07-23T21:53:25.433175+00:00
+
+ ## PPG Profissional
+ - [https://secposprof.cin.ufpe.br](https://secposprof.cin.ufpe.br)
+ - date_published: 2024-07-23T21:51:45.747844+00:00
+
+ ## CIn UFPE
+ - [https://cin.ufpe.br](https://cin.ufpe.br)
+ - date_published: 2024-04-29T07:46:51.033400+00:00
+
+ ## Universidade Federal de Pernambuco - UFPE
+ - [https://www.ufpe.br](https://www.ufpe.br)
+ - date_published: 2024-07-23T21:53:20.830805+00:00
+
+ ## Index of /
+ - [http://alpinelinux.c3sl.ufpr.br](http://alpinelinux.c3sl.ufpr.br)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Index of /
+ - [https://manjaro.c3sl.ufpr.br](https://manjaro.c3sl.ufpr.br)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Redes de Computadores e aplicações na
+Educação
+ - [http://penta2.ufrgs.br](http://penta2.ufrgs.br)
+ - date_published: 2022-11-30T19:56:07+00:00
+
+ ## CINTED – Interdisciplinary Center for New Technologies in Education
+ - [http://www.cinted.ufrgs.br](http://www.cinted.ufrgs.br)
+ - date_published: 2024-06-15T17:37:34.079834+00:00
+
+ ## ESPIE 2009 - CINTED/UFRGS
+ - [http://www.espie.cinted.ufrgs.br](http://www.espie.cinted.ufrgs.br)
+ - date_published: 2017-12-22T13:18:34+00:00
+
+ ## Gondwana | Review of the Geological Map of Gondwana - IGCP-628 - Revisão do Mapa geológico do Gondwana
+ - [http://www.gondwana.geologia.ufrj.br](http://www.gondwana.geologia.ufrj.br)
+ - date_published: 2021-07-08T14:46:14+00:00
+
+ ## Universidade Federal de São Carlos — Universidade Federal de Sao Carlos
+ - [http://www.ufscar.br](http://www.ufscar.br)
+ - date_published: 2024-07-22T08:54:08.061213+00:00
+
+ ## Eventos UFU | Portal de Eventos da Universidade Federal de Uberlândia
+ - [https://eventos.ufu.br](https://eventos.ufu.br)
+ - date_published: 2024-05-10T06:57:17.711249+00:00
+
+ ## Bibliotecas
+ - [http://www.bibliotecas.ufu.br](http://www.bibliotecas.ufu.br)
+ - date_published: 2024-07-13T02:25:56.738430+00:00
+
+ ## Início | Comunica UFU
+ - [http://www.comunica.ufu.br](http://www.comunica.ufu.br)
+ - date_published: 2024-07-13T02:25:51.710302+00:00
+
+ ## Relações Internacionais e Interinstitucionais
+ - [http://www.dri.ufu.br](http://www.dri.ufu.br)
+ - date_published: 2024-07-13T02:25:27.966417+00:00
+
+ ## EDUFU - Editora da Universidade Federal de Uberlândia | Universidade Federal de Uberlândia
+ - [http://www.edufu.ufu.br](http://www.edufu.ufu.br)
+ - date_published: 2024-07-13T02:25:39.885123+00:00
+
+ ## Restaurante Universitário
+ - [http://www.ru.ufu.br](http://www.ru.ufu.br)
+ - date_published: 2016-05-27T00:02:45+00:00
+
+ ## UFU | Universidade Federal de Uberlândia
+ - [http://www.ufu.br](http://www.ufu.br)
+ - date_published: 2024-07-13T02:25:31+00:00
+
+ ## Aprender 3
+ - [https://aprender3.unb.br](https://aprender3.unb.br)
+ - date_published: 2024-07-20T11:14:31+00:00
+
+ ## ACE | Arquivo Central
+ - [http://arquivocentral.unb.br](http://arquivocentral.unb.br)
+ - date_published: 2024-07-20T11:05:52+00:00
+
+ ## AvaliaçãoUnB - Início
+ - [http://avaliacao.unb.br](http://avaliacao.unb.br)
+ - date_published: 2024-07-20T11:14:57.316488+00:00
+
+ ## UnB - Boas Vindas - Início
+ - [http://boasvindas.unb.br](http://boasvindas.unb.br)
+ - date_published: 2024-07-20T11:06:13+00:00
+
+ ## DASU/DAC - Início
+ - [http://dasu.unb.br](http://dasu.unb.br)
+ - date_published: 2024-07-20T11:06:06+00:00
+
+ ## DDS - Início
+ - [http://dds.dac.unb.br](http://dds.dac.unb.br)
+ - date_published: 2024-07-20T11:16:00+00:00
+
+ ## Diretoria de Organizações Comunitárias Cultura e Arte - Início
+ - [http://docca.unb.br](http://docca.unb.br)
+ - date_published: 2024-07-20T11:19:08+00:00
+
+ ## Editora Universidade de Brasília - Editora UnB
+ - [http://editora.unb.br](http://editora.unb.br)
+ - date_published: 2024-07-20T11:20:42.457719+00:00
+
+ ## Coordenação de Esporte e Lazer - CEL - Início
+ - [http://esporte.unb.br](http://esporte.unb.br)
+ - date_published: 2024-07-20T11:20:05+00:00
+
+ ## Estude na UnB - Graduação - Início
+ - [http://estudenaunb.unb.br](http://estudenaunb.unb.br)
+ - date_published: 2024-07-20T11:07:23+00:00
+
+ ## FAL - Fazenda Água Limpa - Início
+ - [http://fal.unb.br](http://fal.unb.br)
+ - date_published: 2024-07-20T11:06:19+00:00
+
+ ## UnB
+ - [http://international.unb.br](http://international.unb.br)
+ - date_published: 2024-07-20T11:05:43+00:00
+
+ ## INT - UnB - Início
+ - [http://int.unb.br](http://int.unb.br)
+ - date_published: 2024-07-20T11:07:19+00:00
+
+ ## Marca UnB
+ - [http://marca.unb.br](http://marca.unb.br)
+ - date_published: 2024-07-20T11:20:33.905314+00:00
+
+ ## UnB Notícias - Últimas
+ - [https://noticias.unb.br](https://noticias.unb.br)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Ouvidoria - Início
+ - [https://ouvidoria.unb.br](https://ouvidoria.unb.br)
+ - date_published: 2024-07-20T11:05:40+00:00
+
+ ## DPI - Grupos de Pesquisa
+ - [http://pesquisa.unb.br](http://pesquisa.unb.br)
+ - date_published: 2024-07-20T11:07:06+00:00
+
+ ## SIGUnB - Sistema Integrado de Gestão - Início
+ - [http://portalsig.unb.br](http://portalsig.unb.br)
+ - date_published: 2024-07-20T11:21:06.452976+00:00
+
+ ## Prefeitura da UnB - PRC - Inicio
+ - [http://prc.unb.br](http://prc.unb.br)
+ - date_published: 2024-07-20T11:15:54+00:00
+
+ ## Prefeitura da UnB - PRC - Inicio
+ - [http://prefeitura.unb.br](http://prefeitura.unb.br)
+ - date_published: 2024-07-20T11:08:25+00:00
+
+ ## ProIC - Programa de Iniciação Científica - Início
+ - [http://proic.unb.br](http://proic.unb.br)
+ - date_published: 2024-07-20T11:08:53.460770+00:00
+
+ ## Proteção de Dados Pessoais da UnB - Início
+ - [https://protecaodedados.unb.br](https://protecaodedados.unb.br)
+ - date_published: 2024-07-20T11:20:20+00:00
+
+ ## Revista Darcy - Início
+ - [https://revistadarcy.unb.br](https://revistadarcy.unb.br)
+ - date_published: 2024-07-20T11:06:23+00:00
+
+ ## Início - Restaurante Universitário
+ - [http://ru.unb.br](http://ru.unb.br)
+ - date_published: 2024-07-20T11:14:26+00:00
+
+ ## SAA - Início
+ - [https://saa.unb.br](https://saa.unb.br)
+ - date_published: 2024-07-20T11:08:56+00:00
+
+ ## trafego-secom
+ - [http://secom.unb.br](http://secom.unb.br)
+ - date_published: 2024-07-20T11:19:02.929233+00:00
+
+ ## SeMA - Início
+ - [http://sema.unb.br](http://sema.unb.br)
+ - date_published: 2024-07-20T11:09:17+00:00
+
+ ## STI : Autenticação Integrada
+ - [https://sig.unb.br](https://sig.unb.br)
+ - date_published: 2024-07-20T11:05:37.974425+00:00
+
+ ## SPI - Início
+ - [http://spi.unb.br](http://spi.unb.br)
+ - date_published: 2024-07-20T11:05:48+00:00
+
+ ## Secretaria de Tecnologia da Informação - STI - HOME
+ - [https://sti.unb.br](https://sti.unb.br)
+ - date_published: 2024-07-20T11:06:04+00:00
+
+ ## UnB Ciência - Últimas
+ - [http://unbciencia.unb.br](http://unbciencia.unb.br)
+ - date_published: 2024-07-20T11:20:29+00:00
+
+ ## UnB Idiomas
+ - [http://unbidiomas.unb.br](http://unbidiomas.unb.br)
+ - date_published: 2024-07-20T11:20:17.110818+00:00
+
+ ## UnB Imagens - Início
+ - [http://unbimagens.unb.br](http://unbimagens.unb.br)
+ - date_published: 2024-07-20T11:21:09+00:00
+
+ ## UnBTV
+ - [http://unbtv.unb.br](http://unbtv.unb.br)
+ - date_published: 2024-07-20T11:09:03.653495+00:00
+
+ ## Departamento de Ciências da Computação - CIC - Início
+ - [http://www.cic.unb.br](http://www.cic.unb.br)
+ - date_published: 2024-06-23T10:57:34+00:00
+
+ ## Departamento de Matemática
+ - [https://www.mat.unb.br](https://www.mat.unb.br)
+ - date_published: 2024-07-17T05:50:11.121905+00:00
+
+ ## Portal do Sei - Início
+ - [http://www.portalsei.unb.br](http://www.portalsei.unb.br)
+ - date_published: 2024-07-20T11:09:10+00:00
+
+ ## Universidade de Brasília - Início
+ - [https://unb.br](https://unb.br)
+ - date_published: 2024-05-19T02:41:42.253885+00:00
+
+ ## Faculdade de Odontologia - Câmpus de Araçatuba
+ - [http://www.foa.unesp.br](http://www.foa.unesp.br)
+ - date_published: 2024-06-29T10:06:42.639580+00:00
+
+ ## Portal da Universidade Estadual Paulista -
+ - [http://www.unesp.br](http://www.unesp.br)
+ - date_published: 2024-07-15T07:34:22.356617+00:00
+
+ ## Home - Portal Unicamp
+ - [https://unicamp.br](https://unicamp.br)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## UNIMEP - Universidade Metodista de Piracicaba —
+ - [http://unimep.br](http://unimep.br)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Notícias — Universidade Federal do Estado do Rio de Janeiro
+ - [https://www.unirio.br](https://www.unirio.br)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Grupo ATP – apoio técnico pedagógico
+ - [https://atp.usp.br](https://atp.usp.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Documentação dos Moodles da USP – Ajudar usuários a usar os Moodles da USP
+ - [https://docs.atp.usp.br](https://docs.atp.usp.br)
+ - date_published: 2024-06-27T16:01:30.872470+00:00
+
+ ## Moodle USP: e-Disciplinas
+ - [https://edisciplinas.usp.br](https://edisciplinas.usp.br)
+ - date_published: 2024-05-06T21:59:53.301285+00:00
+
+ ## ICMC - Instituto de Ciências Matemáticas e de Computação
+ - [https://icmc.usp.br](https://icmc.usp.br)
+ - date_published: 2024-08-07T16:59:40+00:00
+
+ ## ICST 2021
+ - [https://icst2021.icmc.usp.br](https://icst2021.icmc.usp.br)
+ - date_published: 2024-06-26T23:23:26.581121+00:00
+
+ ## Linorg
+ - [https://linorg.usp.br](https://linorg.usp.br)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Rede GNU-Linux
+ - [http://linux.ime.usp.br](http://linux.ime.usp.br)
+ - date_published: 2024-06-30T08:37:30.859874+00:00
+
+ ## NILC
+ - [http://nilc.icmc.usp.br](http://nilc.icmc.usp.br)
+ - date_published: 2024-04-28T03:36:29.997707+00:00
+
+ ## Periferia Livr@
+ - [http://periferialivre.fea.usp.br](http://periferialivre.fea.usp.br)
+ - date_published: 2024-06-16T15:34:36.090271+00:00
+
+ ## USP - Universidade de São Paulo
+ - [https://usp.br](https://usp.br)
+ - date_published: 2024-06-27T16:01:46.180359+00:00
+
+ ## USP - Universidade de São Paulo
+ - [http://www5.usp.br](http://www5.usp.br)
+ - date_published: 2024-06-23T23:13:41.523014+00:00
+
+ ## FFLCH | Faculdade de Filosofia, Letras e Ciências Humanas |  Universidade de São Paulo | FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS UNIVERSIDADE DE SÃO PAULO
+ - [http://www.fflch.usp.br](http://www.fflch.usp.br)
+ - date_published: 2024-07-22T09:05:44.558378+00:00
+
+ ## HOME
+ - [http://www.ime.usp.br](http://www.ime.usp.br)
+ - date_published: 2020-10-20T12:40:07+00:00
+
+ ## Pró-Reitoria de Graduação – Universidade de São Paulo
+ - [https://www.prg.usp.br](https://www.prg.usp.br)
+ - date_published: 2024-06-27T13:16:33+00:00
+
+ ## Superintendência de Tecnologia da Informação | Universidade de São Paulo
+ - [https://www.sti.usp.br](https://www.sti.usp.br)
+ - date_published: 2024-06-27T16:01:40+00:00
+
+ ## Consórcio World Wide Web (W3C) - Capítulo São Paulo
+ - [https://www.w3c.br](https://www.w3c.br)
+ - date_published: 2023-11-09T11:04:42+00:00
+
+ ## Home - Agência de Desenvolvimento do Estado do Ceará
+ - [https://www.adece.ce.gov.br](https://www.adece.ce.gov.br)
+ - date_published: 2024-06-26T21:56:50.854703+00:00
+
+ ## 20th Century Studios Brasil
+ - [https://www.20thcenturystudios.com.br](https://www.20thcenturystudios.com.br)
+ - date_published: 2024-06-16T02:24:54.111458+00:00
+
+ ## Software e Soluções de Telefonia - 3CX
+ - [https://www.3cx.com.br](https://www.3cx.com.br)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Loja 3D Lab - Impressão 3D é aqui!
+ - [https://3dlab.com.br](https://3dlab.com.br)
+ - date_published: 2024-05-11T09:35:46.693058+00:00
+
+ ## Sala de Notícias da 3M - Sala de Notícias
+ - [https://news.3m.com.br](https://news.3m.com.br)
+ - date_published: 2024-06-24T06:23:21+00:00
+
+ ## 3M Ciência. Aplicada à vida | 3M Brasil
+ - [https://www.3m.com.br](https://www.3m.com.br)
+ - date_published: 2024-08-06T10:42:14.092444+00:00
+
+ ## 80.000 Horas: Como fazer a diferença com a sua carreira
+ - [https://80000horas.com.br](https://80000horas.com.br)
+ - date_published: 2023-12-31T00:00:00+00:00
+
+ ## Abate Brutal
+ - [https://abatebrutal.com.br](https://abatebrutal.com.br)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Software de Recrutamento e Seleção | abler
+ - [https://abler.com.br](https://abler.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## About Amazon Brasil
+ - [https://www.aboutamazon.com.br](https://www.aboutamazon.com.br)
+ - date_published: 2024-05-01T02:01:36.597204+00:00
+
+ ## AbsolutGG SUN
+ - [https://absolutgg.com.br](https://absolutgg.com.br)
+ - date_published: 2024-07-17T07:53:02.835635+00:00
+
+ ## Especialistas em projetar um planeta melhor | ACCIONA | Business as unusual
+ - [https://www.acciona.com.br](https://www.acciona.com.br)
+ - date_published: 2024-06-15T03:19:53.923709+00:00
+
+ ## adidas Brasil Loja oficial | Tênis e material esportivo
+ - [https://www.adidas.com.br](https://www.adidas.com.br)
+ - date_published: 2024-07-14T12:13:51.363803+00:00
+
+ ## Adler Medrado's little piece of turf
+ - [https://adlermedrado.com.br](https://adlermedrado.com.br)
+ - date_published: 2024-02-11T04:54:28.132837+00:00
+ - tags: ['personal']
+
+ ## Adriano Resende
+ - [http://www.adrianoresende.com.br](http://www.adrianoresende.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Adrielly Sato
+ - [https://adriellysato.com.br](https://adriellysato.com.br)
+ - date_published: 2024-07-03T23:18:15.558281+00:00
+
+ ## Cierpliwości...
+ - [https://www.agazeta.com.br](https://www.agazeta.com.br)
+ - date_published: 2024-06-19T08:26:39.118629+00:00
+
  ## Home - Vale do Pinhão
  - [http://valedopinhao.agenciacuritiba.com.br](http://valedopinhao.agenciacuritiba.com.br)
  - date_published: 2024-06-12T11:25:14.141592+00:00
@@ -46,6 +668,10 @@
  - [https://altruismoeficaz.com.br](https://altruismoeficaz.com.br)
  - date_published: 2024-06-29T22:26:31.275309+00:00
 
+ ## Amazon.com.br | Tudo pra você, de A a Z.
+ - [https://amazon.com.br](https://amazon.com.br)
+ - date_published: 2024-08-27T00:00:00+00:00
+
  ## Portal de Associados da Amazon.com.br
  - [https://associados.amazon.com.br](https://associados.amazon.com.br)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -61,10 +687,6 @@
  ## Comece a vender na Amazon com mensalidade GRÁTIS por 1 ano | Venda na Amazon
  - [https://venda.amazon.com.br](https://venda.amazon.com.br)
  - date_published: 2024-06-13T00:00:00+00:00
-
- ## Amazon.com.br | Tudo pra você, de A a Z.
- - [https://www.amazon.com.br](https://www.amazon.com.br)
- - date_published: 2024-05-04T00:00:00+00:00
 
  ## AMDB Soluções Digitais
  - [https://www.amdb.com.br](https://www.amdb.com.br)
@@ -151,8 +773,12 @@
  - [https://www.audi.com.br](https://www.audi.com.br)
  - date_published: 2024-07-19T20:28:40+00:00
 
+ ## Help Center Desktop
+ - [https://ajuda.audible.com.br](https://ajuda.audible.com.br)
+ - date_published: 2023-09-03T14:55:35+00:00
+
  ## Audible | Audible.com.br
- - [https://www.audible.com.br](https://www.audible.com.br)
+ - [https://audible.com.br](https://audible.com.br)
  - date_published: 2024-05-27T07:40:04.946488+00:00
 
  ## Auto Compara
@@ -761,6 +1387,10 @@
  - [https://www.equinix.com.br](https://www.equinix.com.br)
  - date_published: 2024-05-21T00:00:00+00:00
 
+ ## Electric Guitar Strings, Acoustic Guitar Strings, Bass Strings, and Guitar Accessories
+ - [https://www.ernieball.com.br](https://www.ernieball.com.br)
+ - date_published: 2024-09-02T13:37:17.313478+00:00
+
  ## EscolhaVeg
  - [https://escolhaveg.com.br](https://escolhaveg.com.br)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -1128,6 +1758,10 @@
  - date_published: 2024-08-17T00:00:00+00:00
 
  ## Inhotim Loja Design
+ - [https://2022up.inhotimloja.com.br](https://2022up.inhotimloja.com.br)
+ - date_published: 2024-09-02T16:11:57.509905+00:00
+
+ ## Inhotim Loja Design
  - [https://inhotimloja.com.br](https://inhotimloja.com.br)
  - date_published: 2024-05-29T00:28:03.096284+00:00
 
@@ -1288,6 +1922,10 @@
  - [https://lksvn.com.br](https://lksvn.com.br)
  - date_published: 2021-04-30T00:00:00+00:00
  - tags: ['personal']
+
+ ## Ajuda Locaweb: Tire suas dúvidas sobre nossos produtos
+ - [http://wiki.locaweb.com.br](http://wiki.locaweb.com.br)
+ - date_published: 2024-09-01T00:00:00+00:00
 
  ## Hospedagem de Site com Domínio Grátis - Locaweb
  - [https://www.locaweb.com.br](https://www.locaweb.com.br)
@@ -1485,6 +2123,10 @@
  ## Nike - Produtos e Coleções Exclusivas - Just Do It - Nike.com.br
  - [https://www.nike.com.br](https://www.nike.com.br)
  - date_published: 2024-06-20T15:42:21.517863+00:00
+
+ ## Todos os filmes e séries do Netflix - NoNetflix.com.br
+ - [https://www.nonetflix.com.br](https://www.nonetflix.com.br)
+ - date_published: 2024-09-02T11:18:51.698613+00:00
 
  ## Central de Conhecimento
  - [https://ajuda.nordinvestimentos.com.br](https://ajuda.nordinvestimentos.com.br)
@@ -1980,6 +2622,10 @@
  - [http://www.sptrans.com.br](http://www.sptrans.com.br)
  - date_published: 2024-07-19T22:14:00.710079+00:00
 
+ ## Home Page - StandFor
+ - [https://standfor.com.br](https://standfor.com.br)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## Statkraft
  - [https://www.statkraft.com.br](https://www.statkraft.com.br)
  - date_published: 2024-05-16T00:00:00+00:00
@@ -2072,6 +2718,10 @@
  - [https://www.theenemy.com.br](https://www.theenemy.com.br)
  - date_published: 2024-06-26T21:55:57.506584+00:00
 
+ ## thefork.com.br
+ - [https://www.thefork.com.br](https://www.thefork.com.br)
+ - date_published: 2024-09-02T16:12:14.564436+00:00
+
  ## Home - Thomas Nelson Brasil
  - [https://thomasnelson.com.br](https://thomasnelson.com.br)
  - date_published: 2024-07-13T02:15:29.254819+00:00
@@ -2109,7 +2759,7 @@
  - date_published: 2024-06-12T02:33:34.609499+00:00
 
  ## Locaweb HTTP Server
- - [http://www.tourvirtualbrasil.com.br](http://www.tourvirtualbrasil.com.br)
+ - [https://tourvirtualbrasil.com.br](https://tourvirtualbrasil.com.br)
  - date_published: 2024-05-29T00:37:48.288512+00:00
 
  ## Mercado de transferências, rumores, valores de mercado e notícias
@@ -2133,7 +2783,7 @@
  - date_published: 2024-07-13T07:47:46.607784+00:00
 
  ## tripadvisor.com.br
- - [https://www.tripadvisor.com.br](https://www.tripadvisor.com.br)
+ - [https://tripadvisor.com.br](https://tripadvisor.com.br)
  - date_published: 2024-05-29T00:37:46.198131+00:00
 
  ## Tipografia | Tupigrafia
@@ -2907,6 +3557,10 @@
  - [http://cimi.org.br](http://cimi.org.br)
  - date_published: 2017-09-28T15:38:46+00:00
 
+ ## IP Check: Tech News and Your IP Address
+ - [http://www.cipsga.org.br](http://www.cipsga.org.br)
+ - date_published: 2024-09-02T10:32:51.515380+00:00
+
  ## CONTRASP – Confederação Nacional dos Trabalhadores de Segurança Privada
  - [https://contrasp.org.br](https://contrasp.org.br)
  - date_published: 2024-07-17T07:37:07.903915+00:00
@@ -2980,16 +3634,16 @@
  - date_published: 2024-06-20T17:52:44+00:00
 
  ## ICOM Brasil
- - [http://www.icom.org.br](http://www.icom.org.br)
+ - [https://icom.org.br](https://icom.org.br)
  - date_published: 2024-05-29T00:37:52.847010+00:00
 
  ## Home - Inhotim
- - [https://www.inhotim.org.br](https://www.inhotim.org.br)
+ - [https://inhotim.org.br](https://inhotim.org.br)
  - date_published: 2023-11-13T13:54:33.035629+00:00
  - tags: ['museum']
 
  ## Instituto Ricardo Brennand
- - [https://www.institutoricardobrennand.org.br](https://www.institutoricardobrennand.org.br)
+ - [https://institutoricardobrennand.org.br](https://institutoricardobrennand.org.br)
  - date_published: 2023-11-13T13:53:50.117261+00:00
  - tags: ['museum']
 
@@ -3361,658 +4015,4 @@
  ## https://www.bahamas.gov.bs
  - [https://bahamas.gov.bs](https://bahamas.gov.bs)
  - date_published: 2022-11-04T10:38:51+00:00
-
- ## Grafika Google
- - [https://images.google.bt](https://images.google.bt)
- - date_published: 2024-07-20T07:41:25.555968+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.bt](https://maps.google.bt)
- - date_published: 2024-07-20T07:39:44.213000+00:00
-
- ## Google
- - [https://www.google.bt](https://www.google.bt)
- - date_published: 2024-06-21T22:23:04.587235+00:00
-
- ## Home
- - [http://www.bfl.org.bt](http://www.bfl.org.bt)
- - date_published: 2024-07-03T02:41:48.679991+00:00
-
- ## Home
- - [https://www.wwfbhutan.org.bt](https://www.wwfbhutan.org.bt)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Astro
- - [https://astro.build](https://astro.build)
- - date_published: 2023-10-25T12:02:53.334268+00:00
-
- ## Getting Started
- - [https://docs.astro.build](https://docs.astro.build)
- - date_published: 2024-05-09T07:21:42.980431+00:00
-
- ## Time to suit up | Astro Shop
- - [https://shop.astro.build](https://shop.astro.build)
- - date_published: 2024-06-23T03:46:59.217572+00:00
-
- ## Starlight 🌟 Build documentation sites with Astro
- - [https://starlight.astro.build](https://starlight.astro.build)
- - date_published: 2024-06-23T06:01:29.647481+00:00
-
- ## Bazel
- - [https://bazel.build](https://bazel.build)
- - date_published: 2022-11-23T21:10:38+00:00
-
- ## Bazel Blog - Bazel
- - [https://blog.bazel.build](https://blog.bazel.build)
- - date_published: 2024-04-29T18:14:56+00:00
-
- ## Join Bazel on Slack
- - [https://slack.bazel.build](https://slack.bazel.build)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Built Environment - Smarter Transformation
- - [https://be-st.build](https://be-st.build)
- - date_published: 2024-04-30T05:56:27.290621+00:00
-
- ## Bob - Lightning fast build platform
- - [https://bob.build](https://bob.build)
- - date_published: 2024-04-29T05:49:29.587217+00:00
-
- ## Buf
- - [https://buf.build](https://buf.build)
- - date_published: 2023-10-25T12:02:56.971684+00:00
-
- ## Caliber Venture Builder
- - [https://caliber.build](https://caliber.build)
- - date_published: 2024-06-12T05:35:17+00:00
-
- ## Unauthorized Access
- - [https://dknetwork.chorus.build](https://dknetwork.chorus.build)
- - date_published: 2024-08-06T11:54:46.768021+00:00
-
- ## Code.Build 💻
- - [https://code.build](https://code.build)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Aleph, Ciudad de crecimiento
- - [https://www.aleph.crecimiento.build](https://www.aleph.crecimiento.build)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Flaky Build
- - [https://flaky.build](https://flaky.build)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Fox.Build Makerspace, Hackerspace & Coworking St Charles IL
- - [https://fox.build](https://fox.build)
- - date_published: 2024-04-28T04:56:21.931399+00:00
-
- ## Fractal
- - [https://fractal.build](https://fractal.build)
- - date_published: 2024-07-10T07:17:12.410890+00:00
-
- ## Ko: Easy Go Containers
- - [https://ko.build](https://ko.build)
- - date_published: 2023-11-08T00:37:54+00:00
-
- ## Linea: The secure zkEVM ecosystem that empowers dapps to thrive
- - [https://linea.build](https://linea.build)
- - date_published: 2024-06-14T09:19:33+00:00
-
- ## Linea Mainnet (ETH) Blockchain Explorer
- - [https://lineascan.build](https://lineascan.build)
- - date_published: 2024-06-22T05:50:08.696742+00:00
-
- ## Show HN: I built a Backend so Simple that it Fits in 1 YAML File
- - [https://manifest.build](https://manifest.build)
- - date_published: 2024-06-01T11:24:28+00:00
-
- ## Miguel Piedrafita
- - [https://2022.miguel.build](https://2022.miguel.build)
- - date_published: 2024-08-17T22:18:48.341417+00:00
-
- ## Miguel Piedrafita
- - [https://miguel.build](https://miguel.build)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Momentum Brand
- - [https://brand.mmntm.build](https://brand.mmntm.build)
- - date_published: 2024-06-28T11:03:49.615484+00:00
-
- ## Momentum
- - [https://feed.mmntm.build](https://feed.mmntm.build)
- - date_published: 2024-06-28T11:04:08.200144+00:00
-
- ## Momentum — Build and sell your digital products
- - [http://mmntm.build](http://mmntm.build)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Momentum Page
- - [https://page.mmntm.build](https://page.mmntm.build)
- - date_published: 2024-06-19T18:51:50.420948+00:00
-
- ## Momentum Post
- - [https://post.mmntm.build](https://post.mmntm.build)
- - date_published: 2024-06-28T11:03:52.098362+00:00
-
- ## Wave by Momentum
- - [https://wave.mmntm.build](https://wave.mmntm.build)
- - date_published: 2024-05-06T22:32:34.317631+00:00
-
- ## nostr.build media uploader
- - [https://nostr.build](https://nostr.build)
- - date_published: 2024-06-15T22:32:41.075526+00:00
-
- ## Nouns your ideas
- - [https://nouns.build](https://nouns.build)
- - date_published: 2024-06-18T16:03:51.474125+00:00
-
- ## Nouns your ideas
- - [https://testnet.nouns.build](https://testnet.nouns.build)
- - date_published: 2024-06-18T16:03:57.139703+00:00
-
- ## Ryan Flomerfelt Mather | Ryan is a designer focused on play, learning, and technology.
- - [http://ryancan.build](http://ryancan.build)
- - date_published: 2024-07-13T15:26:01.893712+00:00
-
- ## Shields
- - [https://shields.build](https://shields.build)
- - date_published: 2024-06-21T20:20:23.107502+00:00
-
- ## StoryBuild Publishing | Story.Build
- - [https://story.build](https://story.build)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Tilt
- - [https://tilt.build](https://tilt.build)
- - date_published: 2024-06-24T03:47:09.174715+00:00
-
- ## tipi.build
- - [https://tipi.build](https://tipi.build)
- - date_published: 2024-05-25T09:50:04.099874+00:00
-
- ## Toolhouse
- - [https://www.toolhouse.build](https://www.toolhouse.build)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Index – Turbo
- - [https://turbo.build](https://turbo.build)
- - date_published: 2023-10-25T12:02:59.657620+00:00
-
- ## Laravel Vapor | Laravel Vapor
- - [https://docs.vapor.build](https://docs.vapor.build)
- - date_published: 2024-06-03T14:59:13+00:00
-
- ## Home - Authority Builders Co.
- - [https://authority.builders](https://authority.builders)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Essential
- - [https://blog.essential.builders](https://blog.essential.builders)
- - date_published: 2024-06-16T03:36:48.038540+00:00
-
- ## Law.Builders
- - [https://law.builders](https://law.builders)
- - date_published: 2024-07-04T15:33:47.002718+00:00
-
- ## Wasm Builders 🧱
- - [https://wasm.builders](https://wasm.builders)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Addons Business – Cozy eCommerce Addons
- - [https://blog.addons.business](https://blog.addons.business)
- - date_published: 2024-06-17T09:02:30.383226+00:00
-
- ## LoginToApp | Cozy Video Gallery
- - [https://cdncozyvideogalleryn.addons.business](https://cdncozyvideogalleryn.addons.business)
- - date_published: 2024-05-02T09:38:25.675657+00:00
-
- ## Cozy Country Redirect - Redirect or block visitors from specific countries | Shopify App Store
- - [https://cozycountryredirect.addons.business](https://cozycountryredirect.addons.business)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Cozy Country Redirect - Redirect or block visitors from specific countries | Shopify App Store
- - [https://cozycountryredirectiii.addons.business](https://cozycountryredirectiii.addons.business)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Cozy Country Redirect - Redirect or block visitors from specific countries | Shopify App Store
- - [https://cozycountryredirectvii.addons.business](https://cozycountryredirectvii.addons.business)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## LoginToApp | Cozy Video Gallery
- - [https://cozyvideogalleries.addons.business](https://cozyvideogalleries.addons.business)
- - date_published: 2024-06-17T09:02:27.845603+00:00
-
- ## African Business
- - [https://african.business](https://african.business)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Gold and Silver
- - [http://tenpennyalliance.goldandsilver.business](http://tenpennyalliance.goldandsilver.business)
- - date_published: 2024-07-03T19:05:49.097247+00:00
-
- ## Business - JB Hi-Fi Business
- - [https://www.jbhifi.business](https://www.jbhifi.business)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Home | Leiwand gründen!
- - [https://leiwand.business](https://leiwand.business)
- - date_published: 2017-03-01T10:48:27+00:00
-
- ## Welcome - Meaningful Business Community
- - [https://meaningful.business](https://meaningful.business)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Mastodon For Business
- - [https://mstdn.business](https://mstdn.business)
- - date_published: 2024-06-17T02:34:39.291559+00:00
-
- ## Let's get busy. Official Business — Digital partner for creative brands.
- - [https://official.business](https://official.business)
- - date_published: 2024-07-13T16:16:17.273262+00:00
-
- ## pr.business | blog
- - [https://blog.pr.business](https://blog.pr.business)
- - date_published: 2024-06-29T19:06:35.927276+00:00
-
- ## PR.Business
- - [https://dash.pr.business](https://dash.pr.business)
- - date_published: 2023-01-18T08:56:36+00:00
-
- ## pr.business (dir)
- - [https://dir.pr.business](https://dir.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## Online Marketing – Reviews & Listings | PR.Business
- - [https://pr.business](https://pr.business)
- - date_published: 2024-05-07T13:46:51.482719+00:00
-
- ## pr.business (Rev)
- - [https://rev.pr.business](https://rev.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## pr.business (Soc)
- - [https://soc.pr.business](https://soc.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## pr.business (Web)
- - [https://web.pr.business](https://web.pr.business)
- - date_published: 2022-04-22T00:00:00+00:00
-
- ## Adam Wood
-		- Syzygy Business
- - [https://syzygy.business](https://syzygy.business)
- - date_published: 2024-06-30T17:20:10+00:00
-
- ## 🅈🄸🄿🄿🅈 BUSINESS: Startups and Beyond!
- - [https://yippy.business](https://yippy.business)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Buzzy - Idea to app in minutes
- - [https://www.buzzy.buzz](https://www.buzzy.buzz)
- - date_published: 2024-06-19T19:54:36.862084+00:00
-
- ## Huebee
- - [https://huebee.buzz](https://huebee.buzz)
- - date_published: 2024-06-12T03:29:49.262892+00:00
-
- ## آیس بت - icebet | اپلیکیشن سایت شرط بندی بدون فیلتر
- - [http://icebet.buzz](http://icebet.buzz)
- - date_published: 2024-08-08T11:51:04.530819+00:00
-
- ## Andrew Chou
- - [https://andrew.nonetoohappy.buzz](https://andrew.nonetoohappy.buzz)
- - date_published: 2024-05-09T07:47:30.977953+00:00
-
- ## none too happy
- - [https://nonetoohappy.buzz](https://nonetoohappy.buzz)
- - date_published: 2024-07-10T06:23:58.204838+00:00
-
- ## پارس نود (Pars90): بهترین سایت شرط بندی
- - [http://pars90bet.buzz](http://pars90bet.buzz)
- - date_published: 2024-08-08T11:50:43.215780+00:00
-
- ## the Free Movie
- - [https://thefreemovie.buzz](https://thefreemovie.buzz)
- - date_published: 2023-10-25T12:03:03.337705+00:00
-
- ## Time Flies – A game about our limited time in this world.
- - [https://timeflies.buzz](https://timeflies.buzz)
- - date_published: 2023-12-20T01:12:51+00:00
-
- ## Grafika Google
- - [https://images.google.co.bw](https://images.google.co.bw)
- - date_published: 2024-07-20T07:36:20.965301+00:00
-
- ## Google
- - [https://www.google.co.bw](https://www.google.co.bw)
- - date_published: 2024-06-21T22:25:47.128173+00:00
-
- ## Land Rover | Explore Luxury SUVs and 4x4 Vehicles | Land Rover
- - [https://www.landrover.co.bw](https://www.landrover.co.bw)
- - date_published: 2024-07-09T17:13:39.778943+00:00
-
- ## Home | BWCirt
- - [https://www.cirt.org.bw](https://www.cirt.org.bw)
- - date_published: 2024-07-01T05:13:42+00:00
-
- ## Svarichevsky Mikhail
- - [https://14.by](https://14.by)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Svarichevsky Mikhail
- - [https://3.14.by](https://3.14.by)
- - date_published: 2024-01-16T06:21:34.423774+00:00
-
- ## 185.by Найти адреса, телефоны в Беларуси, справочная информация. Справочник контактов, товаров и услуг, Минск.
- - [http://www.185.by](http://www.185.by)
- - date_published: 2024-07-19T16:35:21.644846+00:00
-
- ## Четверть века государственности Беларуси
- - [http://25.by](http://25.by)
- - date_published: 2023-01-05T11:13:29+00:00
-
- ## Ales Tsurko | Home
- - [https://alestsurko.by](https://alestsurko.by)
- - date_published: 2023-10-25T09:02:09.768428+00:00
- - tags: ['personal']
-
- ## B2B.BY - желтые страницы Беларуси: справочник, каталог, база данных предприятий, заводов, организаций, компании, фирм, ип, адреса, номера телефонов
- - [https://www.b2b.by](https://www.b2b.by)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## @baddesigner
- - [http://baddesigner.by](http://baddesigner.by)
- - date_published: 2024-07-13T15:55:41.185957+00:00
-
- ## Музыкальный фестиваль "Большая бард-рыбалка"
- - [https://bard-rybalka.by](https://bard-rybalka.by)
- - date_published: 2024-06-28T08:04:48+00:00
-
- ## Free Lead Magnet Software - eBooks, Workbooks etc - Beacon
- - [https://beacon.by](https://beacon.by)
- - date_published: 2024-07-14T20:48:19.396213+00:00
-
- ## Канал Беларусь 24: новости страны и мира, программа передач
- - [https://belarus24.by](https://belarus24.by)
- - date_published: 2024-06-30T03:40:43.972739+00:00
-
- ## Игровые приставки и видеоигры - купить в Минске консоль | Доставка приставок и игр по всей Беларуси
- - [http://www.belconsole.by](http://www.belconsole.by)
- - date_published: 2024-06-17T05:42:10.089583+00:00
-
- ## Новости Беларуси|БелТА
- - [https://belta.by](https://belta.by)
- - date_published: 2024-08-11T16:08:09.433512+00:00
-
- ## Навіны Беларусі | Беларускія навіны | Беларусь - афіцыйныя навіны | Мінск | БелТА
- - [https://blr.belta.by](https://blr.belta.by)
- - date_published: 2024-08-11T16:07:59.698299+00:00
-
- ## 白俄罗斯新闻
- - [https://chn.belta.by](https://chn.belta.by)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Nachrichten aus Belarus | Belarussische Nachrichten | Belarus – offizielle Nachrichten | Minsk | BelTA
- - [https://deu.belta.by](https://deu.belta.by)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Belarus News | Belarusian news | Belarus today | news in Belarus | Minsk news | BELTA
- - [https://eng.belta.by](https://eng.belta.by)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Noticias de Belarús | Noticias belarusas | Belarús - noticias oficiales | Minsk | BelTA
- - [https://esp.belta.by](https://esp.belta.by)
- - date_published: 2024-08-11T16:19:42.181561+00:00
-
- ## Białoruś Wiadomości | wiadomości białoruskie | Białoruś dzisiaj | aktualności na Białorusi | wiadomości z Mińska | BELTA
- - [https://pol.belta.by](https://pol.belta.by)
- - date_published: 2024-08-11T15:58:20.545435+00:00
-
- ## Custom Domain by Bitly
- - [http://blur.by](http://blur.by)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## БСХ Бытовые Приборы
- - [https://www.bosch-home.by](https://www.bosch-home.by)
- - date_published: 2024-05-27T08:46:55+00:00
-
- ## Официальный дилер Citroën в Беларуси – ПарадАвто
- - [https://www.citroen.by](https://www.citroen.by)
- - date_published: 2024-05-08T05:30:20.015900+00:00
-
- ## CoreHard
- - [https://corehard.by](https://corehard.by)
- - date_published: 2024-05-25T09:50:35.254380+00:00
-
- ## Index of /
- - [http://mirror.datacenter.by](http://mirror.datacenter.by)
- - date_published: 2024-08-19T22:19:56.673011+00:00
-
- ## Купить Форд новый в Минске | Официальный дилер Атлант-М Боровая в Беларуси
- - [http://www.ford.by](http://www.ford.by)
- - date_published: 2024-06-19T17:00:48.390964+00:00
-
- ## Игровые приставки, игры и аксессуары купить в Минске - gameclub.by
- - [http://gameclub.by](http://gameclub.by)
- - date_published: 2024-06-17T05:41:42.907759+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.by](https://maps.google.by)
- - date_published: 2024-07-20T07:40:31.401680+00:00
-
- ## Google
- - [https://www.google.by](https://www.google.by)
- - date_published: 2024-06-21T22:23:47.483648+00:00
-
- ## Гродненский областной исполнительный комитет
- - [http://www.region.grodno.by](http://www.region.grodno.by)
- - date_published: 2024-08-11T16:11:08.534933+00:00
-
- ## Главная страница
- - [https://www.hilti.by](https://www.hilti.by)
- - date_published: 2024-06-20T07:27:26.364546+00:00
-
- ## Создать интернет-магазин бесплатно – Готовый интернет-магазин с нуля на Insales
- - [https://insales.by](https://insales.by)
- - date_published: 2024-06-18T15:30:25+00:00
-
- ## Защитные решения кибербезопасности для дома и бизнеса | Лаборатория Касперского
- - [http://www.kaspersky.by](http://www.kaspersky.by)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Главная
- - [http://www.kultura.by](http://www.kultura.by)
- - date_published: 2024-08-08T11:40:12+00:00
-
- ## Министерство архитектуры и строительства Республики Беларусь
- - [http://www.mas.by](http://www.mas.by)
- - date_published: 2024-08-11T15:51:05.738301+00:00
-
- ## Наша Ніва: першая беларуская газета
- - [http://nn.by](http://nn.by)
- - date_published: 2024-08-19T21:19:05.506444+00:00
-
- ## Официальный дилер Opel в Беларуси – ПарадАвто
- - [https://www.opel.by](https://www.opel.by)
- - date_published: 2024-07-10T12:39:53+00:00
-
- ## Партизаны Беларуси
- - [https://partizany.by](https://partizany.by)
- - date_published: 2024-06-30T03:40:24.019135+00:00
-
- ## PERI - Опалубка и строительные леса
- - [https://www.peri.by](https://www.peri.by)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Русская версия
- - [https://photobelta.by](https://photobelta.by)
- - date_published: 2024-08-11T15:58:15.836772+00:00
-
- ## pocketbook
- - [https://company.pocketbook.by](https://company.pocketbook.by)
- - date_published: 2024-07-20T16:13:21.398506+00:00
-
- ## Что приготовить на ужин, на завтрак, на обед
- - [https://eda.sb.by](https://eda.sb.by)
- - date_published: 2024-06-30T03:40:39.570597+00:00
-
- ## Издательский дом «Беларусь сегодня»
- - [https://org.sb.by](https://org.sb.by)
- - date_published: 2024-06-30T03:40:19.537784+00:00
-
- ## Спецпроекты
- - [http://photo.sb.by](http://photo.sb.by)
- - date_published: 2024-03-29T10:27:18+00:00
-
- ## Спецпроекты
- - [http://sp.sb.by](http://sp.sb.by)
- - date_published: 2024-03-29T10:27:17+00:00
-
- ## Беларусь помнит
- - [https://storyofvictory.sb.by](https://storyofvictory.sb.by)
- - date_published: 2024-05-06T13:38:14+00:00
-
- ## Программа передач на все каналы. ТВ программа Беларуси. Телепрограмма
- - [https://tv.sb.by](https://tv.sb.by)
- - date_published: 2024-06-30T03:40:22.183372+00:00
-
- ## неОБЫЧАЙные деревни
- - [http://veski.sb.by](http://veski.sb.by)
- - date_published: 2023-01-05T11:13:59+00:00
-
- ## Новости Беларуси | белорусские новости | новости сегодня | последние новости | события в Беларуси и мире | темы дня | фото | видео | инфографика
- - [https://sb.by](https://sb.by)
- - date_published: 2024-05-07T15:11:50.507081+00:00
-
- ## Навіны Беларусі і свету на беларускай мове | bel.sputnik.by
- - [https://bel.sputnik.by](https://bel.sputnik.by)
- - date_published: 2024-06-15T08:47:22.249199+00:00
-
- ## Taxidermy Eyes | Taxidermy.by. Mammal eyes, bird eyes, fish eyes, reptile eyes
- - [http://www.taxidermy.by](http://www.taxidermy.by)
- - date_published: 2024-08-20T05:36:18.237565+00:00
-
- ## TopTweets.by
- - [https://toptweets.by](https://toptweets.by)
- - date_published: 2024-05-10T04:55:23.138340+00:00
-
- ## Beste casinoer i Norge 2024
- - [https://trd.by](https://trd.by)
- - date_published: 2024-07-12T22:42:44.106573+00:00
-
- ## VEG.BY — VEG's Blog
- - [https://veg.by](https://veg.by)
- - date_published: 2023-11-26T12:56:13.830280+00:00
-
- ## The Welby Family's Blogs
- - [https://wel.by](https://wel.by)
- - date_published: 2024-07-13T04:13:15.094318+00:00
-
- ## 403
- - [https://metrika.yandex.by](https://metrika.yandex.by)
- - date_published: 2024-08-11T15:55:46.036919+00:00
-
- ## Мобильный оператор life:)
- - [http://life.com.by](http://life.com.by)
- - date_published: 2024-07-13T14:57:23.640595+00:00
-
- ## Национальный статистический комитет Республики Беларусь
- - [http://www.belstat.gov.by](http://www.belstat.gov.by)
- - date_published: 2024-08-11T15:56:39.319587+00:00
-
- ## Официальный сайт Брестского облисполкома - Русская версия
- - [http://brest-region.gov.by](http://brest-region.gov.by)
- - date_published: 2024-08-11T16:20:38.408627+00:00
-
- ## Министерство экономики Республики Беларусь
- - [http://www.economy.gov.by](http://www.economy.gov.by)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Министерство образования Республики Беларусь
- - [http://edu.gov.by](http://edu.gov.by)
- - date_published: 2024-08-11T16:19:43.765953+00:00
-
- ## Государственный пограничный комитет Республики Беларусь
- - [http://gpk.gov.by](http://gpk.gov.by)
- - date_published: 2024-08-11T16:20:41.095020+00:00
-
- ## Министерство по чрезвычайным ситуациям
- - [http://mchs.gov.by](http://mchs.gov.by)
- - date_published: 2024-08-11T16:11:12.492321+00:00
-
- ## Министерство иностранных дел  Республики Беларусь
- - [http://mfa.gov.by](http://mfa.gov.by)
- - date_published: 2024-08-11T16:06:13.376324+00:00
-
- ## Министерство финансов Республики Беларусь
- - [http://www.minfin.gov.by](http://www.minfin.gov.by)
- - date_published: 2024-08-11T16:14:32.247128+00:00
-
- ## Министерство информации Республики Беларусь
- - [http://www.mininform.gov.by](http://www.mininform.gov.by)
- - date_published: 2024-08-11T15:52:54.507908+00:00
-
- ## Министерство природных ресурсов и охраны окружающей среды Республики Беларусь
- - [http://minpriroda.gov.by](http://minpriroda.gov.by)
- - date_published: 2024-08-11T15:58:32.806494+00:00
-
- ## Home – Министерство промышленности РБ
- - [http://www.minprom.gov.by](http://www.minprom.gov.by)
- - date_published: 2024-08-07T06:44:25+00:00
-
- ## Главная - Министерство транспорта и коммуникаций Республики Беларусь
- - [http://www.mintrans.gov.by](http://www.mintrans.gov.by)
- - date_published: 2024-08-11T16:11:15.340151+00:00
-
- ## Міністэрства аховы здароўя Рэспублікі Беларусь
- - [http://minzdrav.gov.by](http://minzdrav.gov.by)
- - date_published: 2024-08-11T16:11:05.592845+00:00
-
- ## Главная - Министерство жилищно-коммунального хозяйства Республики Беларусь
- - [http://www.mjkx.gov.by](http://www.mjkx.gov.by)
- - date_published: 2024-08-11T15:52:56.504477+00:00
-
- ## Министерство лесного хозяйства Республики Беларусь
- - [http://www.mlh.gov.by](http://www.mlh.gov.by)
- - date_published: 2024-08-11T16:11:17.611258+00:00
-
- ## Новости Могилева и Могилевской области | Могилевский областной исполнительный комитет
- - [http://mogilev-region.gov.by](http://mogilev-region.gov.by)
- - date_published: 2024-08-11T15:58:17.962387+00:00
-
- ## Главная | Министерство связи и информатизации Республики Беларусь
- - [https://www.mpt.gov.by](https://www.mpt.gov.by)
- - date_published: 2024-06-30T03:40:15.572113+00:00
-
- ## Министерство сельского хозяйства и продовольствия Республики Беларусь
- - [https://www.mshp.gov.by](https://www.mshp.gov.by)
- - date_published: 2024-08-11T16:08:04.648455+00:00
-
- ## Ministry of Sports and Tourism of the Republic of Belarus - Home
- - [http://mst.gov.by](http://mst.gov.by)
- - date_published: 2024-08-11T15:52:51.986228+00:00
-
- ## Official website | Official Internet Portal of the President of the Republic of Belarus
- - [https://president.gov.by](https://president.gov.by)
- - date_published: 2024-06-29T22:50:44+00:00
-
- ## Генеральная прокуратура Республики Беларусь
- - [http://www.prokuratura.gov.by](http://www.prokuratura.gov.by)
- - date_published: 2024-08-11T16:07:05.909814+00:00
-
- ## Официальный сайт Совета Республики
- - [http://www.sovrep.gov.by](http://www.sovrep.gov.by)
- - date_published: 2024-08-11T15:53:00.759309+00:00
-
- ## Витебский областной исполнительный комитет. Официальный сайт.
- - [http://www.vitebsk-region.gov.by](http://www.vitebsk-region.gov.by)
- - date_published: 2024-08-11T15:53:04.146249+00:00
-
- ## Министерство обороны Республики Беларусь | Военный информационный портал Министерства обороны Республики Беларусь
- - [http://www.mil.by](http://www.mil.by)
- - date_published: 2024-08-11T15:54:53.500721+00:00
-
- ## Anwar Tours | Tour Operator | Belize
- - [https://anwartours.bz](https://anwartours.bz)
- - date_published: 2024-05-06T22:41:11.214787+00:00
 

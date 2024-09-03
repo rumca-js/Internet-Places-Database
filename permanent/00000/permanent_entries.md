@@ -680,6 +680,10 @@
  - [https://www.nike.ae](https://www.nike.ae)
  - date_published: 2024-06-12T00:00:00+00:00
 
+ ## Specialized Security Distribution in Middle East and Africa
+ - [https://www.nit.ae](https://www.nit.ae)
+ - date_published: 2024-09-02T12:03:35.335183+00:00
+
  ## Restaurants and Restaurant Bookings | OpenTable
  - [https://www.opentable.ae](https://www.opentable.ae)
  - date_published: 2024-06-30T12:08:21.279881+00:00
@@ -1670,6 +1674,10 @@
  - [https://global.agilex.ai](https://global.agilex.ai)
  - date_published: 2024-07-12T08:56:23.181698+00:00
 
+ ## #1 AI Article Writer - Write Long Form Content in 1-Click
+ - [https://agilitywriter.ai](https://agilitywriter.ai)
+ - date_published: 2023-10-24T17:55:27+00:00
+
  ## Home - Agnostiq
  - [https://agnostiq.ai](https://agnostiq.ai)
  - date_published: 2024-06-01T00:00:00+00:00
@@ -1875,6 +1883,10 @@
  - [https://appdirect.ai](https://appdirect.ai)
  - date_published: 2024-07-09T12:01:52.274454+00:00
 
+ ## Appflows | The quick, easy way to create your app specification and growth plan
+ - [https://appflows.ai](https://appflows.ai)
+ - date_published: 2024-09-02T09:46:58.911138+00:00
+
  ## Create beautiful AI-generated app icons.
  - [https://appicons.ai](https://appicons.ai)
  - date_published: 2024-06-19T20:05:25.512523+00:00
@@ -2014,7 +2026,7 @@
 
  ## AskGuru Chat Pop-Up
  - [https://chat-popup.askguru.ai](https://chat-popup.askguru.ai)
- - date_published: 2024-05-28T01:03:12.804515+00:00
+ - date_published: 2023-11-13T08:04:31+00:00
 
  ## Ask
  - [https://askmarcus.ai](https://askmarcus.ai)
@@ -2035,6 +2047,10 @@
  ## askwise.ai
  - [https://askwise.ai](https://askwise.ai)
  - date_published: 2024-07-10T00:02:48.582321+00:00
+
+ ## Česká asociace umělé inteligence
+ - [https://asociace.ai](https://asociace.ai)
+ - date_published: 2024-08-11T00:00:00+00:00
 
  ## Astria - Tailor-made AI
  - [https://www.astria.ai](https://www.astria.ai)
@@ -2241,6 +2257,10 @@
  - date_published: 2024-02-26T18:38:26+00:00
  - tags: ['social media reference']
 
+ ## BeagleBone® AI-64
+ - [https://beaglebone.ai](https://beaglebone.ai)
+ - date_published: 2024-07-30T00:00:00+00:00
+
  ## Beamo - 360° photo based digital twin
  - [https://www.beamo.ai](https://www.beamo.ai)
  - date_published: 2024-06-10T01:27:34+00:00
@@ -2337,6 +2357,10 @@
  - [https://www.bgarage.ai](https://www.bgarage.ai)
  - date_published: 2024-08-09T01:17:26+00:00
 
+ ## Beneficial AGI Summit 2024
+ - [https://bgi24.ai](https://bgi24.ai)
+ - date_published: 2024-09-02T15:44:16.539409+00:00
+
  ## BgRem — Incredible AI Tools for Creating Images & Videos
  - [https://bgrem.ai](https://bgrem.ai)
  - date_published: 2024-06-19T19:10:13.408259+00:00
@@ -2348,6 +2372,10 @@
  ## Upwork Proposal Generator | BidBuilder
  - [https://www.bidbuilder.ai](https://www.bidbuilder.ai)
  - date_published: 2024-05-27T00:00:00+00:00
+
+ ## BigBeans
+ - [https://bigbeans.ai](https://bigbeans.ai)
+ - date_published: 2024-09-02T09:51:22.854078+00:00
 
  ## AI Text to Voice & Text to Speech Free Software
  - [https://bigspeak.ai](https://bigspeak.ai)
@@ -2696,6 +2724,14 @@
  ## cerebralvalley #02-general-community-chat
  - [https://linen.cerebralvalley.ai](https://linen.cerebralvalley.ai)
  - date_published: 2024-04-29T07:59:14.238351+00:00
+
+ ## Cerebras
+ - [https://cerebras.ai](https://cerebras.ai)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Cerebras Inference
+ - [https://inference.cerebras.ai](https://inference.cerebras.ai)
+ - date_published: 2024-09-02T10:06:46.861295+00:00
 
  ## Show HN: Voice bots with 500ms response times
  - [https://fastvoiceagent.cerebrium.ai](https://fastvoiceagent.cerebrium.ai)
@@ -3284,6 +3320,14 @@ Welcome
  - [https://lic.corover.ai](https://lic.corover.ai)
  - date_published: 2024-06-12T13:54:20+00:00
 
+ ## Corsight AI - Facial Intelligence
+ - [https://www.corsight.ai](https://www.corsight.ai)
+ - date_published: 2024-09-02T09:34:21+00:00
+
+ ## Corsound AI
+ - [https://www.corsound.ai](https://www.corsound.ai)
+ - date_published: 2024-08-06T00:00:00+00:00
+
  ## Homepage - Cortico
  - [http://www.cortico.ai](http://www.cortico.ai)
  - date_published: 2024-06-25T00:00:00+00:00
@@ -3850,6 +3894,10 @@ Welcome
  - [https://dreamcard.ai](https://dreamcard.ai)
  - date_published: 2023-12-20T15:57:33+00:00
 
+ ## Get Your Dream Meaning Today | Dream Interpretation with DreamDiscover
+ - [https://dreamdiscover.ai](https://dreamdiscover.ai)
+ - date_published: 2024-08-26T07:46:34+00:00
+
  ## The Best AI Girlfriend Generator - DreamGF.ai
  - [https://dreamgf.ai](https://dreamgf.ai)
  - date_published: 2024-06-03T00:00:00+00:00
@@ -3885,6 +3933,10 @@ Welcome
  ## DreamStudio
  - [https://dreamstudio.ai](https://dreamstudio.ai)
  - date_published: 2023-07-26T17:44:15+00:00
+
+ ## DreamTavern by Weights: AI Character Chat
+ - [https://dreamtavern.ai](https://dreamtavern.ai)
+ - date_published: 2024-09-02T10:08:42.331782+00:00
 
  ## Dreamwave | Professional headshots in minutes, made with AI
  - [https://www.dreamwave.ai](https://www.dreamwave.ai)
@@ -3973,56 +4025,4 @@ Welcome
  ## Effy AI: Free Performance Management Software for Teams
  - [https://www.effy.ai](https://www.effy.ai)
  - date_published: 2024-08-09T00:00:00+00:00
-
- ## Eggnog
- - [https://eggnog.ai](https://eggnog.ai)
- - date_published: 2024-03-28T17:08:22.087114+00:00
-
- ## The Best AI Hentai Art Generator - eHentai.ai
- - [https://ehentai.ai](https://ehentai.ai)
- - date_published: 2024-06-19T20:52:40.553176+00:00
-
- ## Activision Blizzard Inc. - Prod - Sign In
- - [https://activision.eightfold.ai](https://activision.eightfold.ai)
- - date_published: 2024-06-15T03:21:22.114919+00:00
-
- ## American Express - Production - Sign In
- - [https://aexp.eightfold.ai](https://aexp.eightfold.ai)
- - date_published: 2024-04-28T02:37:03.869893+00:00
-
- ## Login | Eightfold
- - [https://app.eightfold.ai](https://app.eightfold.ai)
- - date_published: 2024-06-17T16:21:23.268147+00:00
-
- ## MLP - Sign In
- - [https://mlp.eightfold.ai](https://mlp.eightfold.ai)
- - date_published: 2024-06-27T10:41:23.319055+00:00
-
- ## NTT DATA Services - Sign In
- - [https://nttdata.eightfold.ai](https://nttdata.eightfold.ai)
- - date_published: 2024-08-07T19:34:58.841663+00:00
-
- ## Submit Form
- - [https://paypal.eightfold.ai](https://paypal.eightfold.ai)
- - date_published: 2024-06-21T23:51:26.438830+00:00
-
- ## Sign in to your account
- - [https://qualcomm.eightfold.ai](https://qualcomm.eightfold.ai)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Submit Form
- - [https://stmicroelectronics.eightfold.ai](https://stmicroelectronics.eightfold.ai)
- - date_published: 2024-08-19T05:29:04.552855+00:00
-
- ## Puppetry is the easiest way to create videos with talking AI Avatars
- - [https://art.elbo.ai](https://art.elbo.ai)
- - date_published: 2024-06-19T19:39:24.201202+00:00
-
- ## Home Page
- - [http://www.electric.ai](http://www.electric.ai)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## EleutherAI Blog
- - [https://blog.eleuther.ai](https://blog.eleuther.ai)
- - date_published: 2023-10-25T11:34:47.381508+00:00
 
