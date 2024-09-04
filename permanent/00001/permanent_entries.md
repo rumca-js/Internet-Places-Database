@@ -1,3 +1,7 @@
+ ## Effy AI: Free Performance Management Software for Teams
+ - [https://www.effy.ai](https://www.effy.ai)
+ - date_published: 2024-08-09T00:00:00+00:00
+
  ## Eggnog
  - [https://eggnog.ai](https://eggnog.ai)
  - date_published: 2024-03-28T17:08:22.087114+00:00
@@ -3499,6 +3503,10 @@
  - [https://octoml.ai](https://octoml.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## Fast & Lightweight RPA tool | Octoparse RPA
+ - [https://octoparse.ai](https://octoparse.ai)
+ - date_published: 2024-09-03T23:45:26.025919+00:00
+
  ## Oda Moodboard
  - [https://moodboard.odastudio.ai](https://moodboard.odastudio.ai)
  - date_published: 2024-06-19T19:34:51.468579+00:00
@@ -4014,12 +4022,4 @@
  ## Pixee Platform
  - [https://app.pixee.ai](https://app.pixee.ai)
  - date_published: 2024-08-08T14:55:51+00:00
-
- ## Pixee Blog
- - [https://blog.pixee.ai](https://blog.pixee.ai)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Pixee
- - [https://docs.pixee.ai](https://docs.pixee.ai)
- - date_published: 2024-08-09T12:18:44+00:00
 

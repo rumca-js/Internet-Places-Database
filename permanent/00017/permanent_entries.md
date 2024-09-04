@@ -1,3 +1,260 @@
+ ## Accueil - Guisolan SA - Construction & Rénovation
+ - [https://www.guisolan.ch](https://www.guisolan.ch)
+ - date_published: 2023-12-05T00:00:00+00:00
+
+ ## GPN22 – Entropia
+ - [https://gulas.ch](https://gulas.ch)
+ - date_published: 2024-05-27T08:14:52+00:00
+ - tags: ['programming', 'convention']
+
+ ## 22nd Gulaschprogrammiernacht
+ - [https://join.gulas.ch](https://join.gulas.ch)
+ - date_published: 2024-04-29T05:57:51.919819+00:00
+
+ ## Login - Trollsystem
+ - [https://troll.gulas.ch](https://troll.gulas.ch)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Welcome to E. Gutzwiller & Cie, Banquiers
+ - [https://www.gutzwiller.ch](https://www.gutzwiller.ch)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Home page Passengers
+ - [https://www.gva.ch](https://www.gva.ch)
+ - date_published: 2024-06-22T10:29:10.622815+00:00
+
+ ## Gateway Church
+ - [https://gway.ch](https://gway.ch)
+ - date_published: 2024-07-04T18:09:18.247074+00:00
+
+ ## Welcome
+ - [https://gyptazy.ch](https://gyptazy.ch)
+ - date_published: 2024-07-23T23:33:53.953449+00:00
+
+ ## H55 - Electric Propulsion Systems For The Aviation Industry
+ - [https://h55.ch](https://h55.ch)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Halter AG - The developer
+ - [https://www.halter.ch](https://www.halter.ch)
+ - date_published: 2024-07-16T22:48:55.653403+00:00
+
+ ## Hammerli Fleurs | Jardinerie et Fleuristerie Cheseaux
+ - [https://www.hammerli-fleurs-lausanne.ch](https://www.hammerli-fleurs-lausanne.ch)
+ - date_published: 2024-07-16T22:49:05.485880+00:00
+
+ ## www.ham-radio.ch
+ - [http://www.ham-radio.ch](http://www.ham-radio.ch)
+ - date_published: 2007-11-07T18:22:11+00:00
+
+ ## News und Hintergründe zu Wirtschaft, Politik und Finanzen
+ - [https://www.handelszeitung.ch](https://www.handelszeitung.ch)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Harpe 45
+ - [http://harpe45.ch](http://harpe45.ch)
+ - date_published: 2017-09-03T00:00:00+00:00
+
+ ## ‮0.4 rotagivaN epacsteN - hc.iredieh.oiram
+ - [https://heideri.ch](https://heideri.ch)
+ - date_published: 2022-07-12T16:22:46+00:00
+
+ ## Alumni HEIG-VD | Un concentré de savoir
+ - [https://alumni.heig-vd.ch](https://alumni.heig-vd.ch)
+ - date_published: 2024-07-21T05:40:38.762965+00:00
+
+ ## HEIG-VD
+ - [https://heig-vd.ch](https://heig-vd.ch)
+ - date_published: 2024-04-30T06:11:36.338410+00:00
+
+ ## HEIG-VD Job Board | La plateforme emploi et stages de la HEIG-VD
+ - [https://jobboard.heig-vd.ch](https://jobboard.heig-vd.ch)
+ - date_published: 2024-07-21T05:40:37.288626+00:00
+
+ ## Recherche appliquée et développement - REDS - Institut de la HEIG-VD
+ - [https://reds.heig-vd.ch](https://reds.heig-vd.ch)
+ - date_published: 2024-07-21T05:40:43.992620+00:00
+
+ ## HEK (Haus der Elektronischen Künste) - HEK
+ - [http://www.hek.ch](http://www.hek.ch)
+ - date_published: 2024-06-14T11:59:23.970763+00:00
+
+ ## Helico Revue – Critiques des drones, modèles et hélicoptères grandeur nature
+ - [http://www.helico-revue.ch](http://www.helico-revue.ch)
+ - date_published: 2024-07-09T21:50:36.546745+00:00
+
+ ## HelloFresh: Nr. 1 Kochbox aus der Schweiz
+ - [https://www.hellofresh.ch](https://www.hellofresh.ch)
+ - date_published: 2024-06-18T17:18:14.063077+00:00
+
+ ## Home
+ - [http://www.helloswitzerland.ch](http://www.helloswitzerland.ch)
+ - date_published: 2024-07-16T22:32:17.721893+00:00
+
+ ## L'eau gazeuse naturelle et des boissons aromatisées: HENNIEZ Suisse
+ - [http://www.henniez.ch](http://www.henniez.ch)
+ - date_published: 2024-07-02T11:22:12+00:00
+
+ ## The page is temporarily unavailable
+ - [https://aai-login.hep-bejune.ch](https://aai-login.hep-bejune.ch)
+ - date_published: 2017-09-20T13:07:05+00:00
+
+ ## HESGE
+ - [https://www.hesge.ch](https://www.hesge.ch)
+ - date_published: 2024-08-19T18:56:17+00:00
+
+ ## HES-SO - Accueil - Haute école
+ - [http://www.hes-so.ch](http://www.hes-so.ch)
+ - date_published: 2024-07-03T06:43:40.867378+00:00
+
+ ## Home
+ - [http://edgecom.hevs.ch](http://edgecom.hevs.ch)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://intranet.hevs.ch](https://intranet.hevs.ch)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Etudier et innover en Suisse | HES-SO Valais-Wallis
+ - [https://quiz.hevs.ch](https://quiz.hevs.ch)
+ - date_published: 2024-08-19T22:38:08.665802+00:00
+
+ ## Etudier et innover en Suisse | HES-SO Valais-Wallis
+ - [https://hevs.ch](https://hevs.ch)
+ - date_published: 2024-05-23T02:49:50.118266+00:00
+
+ ## Domain nicht eingerichtet
+ - [https://idp.hfgs.ch](https://idp.hfgs.ch)
+ - date_published: 2024-07-21T05:17:31.463929+00:00
+
+ ## heather froehlich
+ - [https://hfroehli.ch](https://hfroehli.ch)
+ - date_published: 2024-06-29T10:14:21.123581+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://aai.hftm.ch](https://aai.hftm.ch)
+ - date_published: 2024-07-21T05:26:50.620925+00:00
+
+ ## Hilti
+ - [https://www.hilti.ch](https://www.hilti.ch)
+ - date_published: 2024-06-20T07:27:18.377118+00:00
+
+ ## HIN – Sichere Kommunikation im Schweizer Gesundheitswesen
+ - [https://hin.ch](https://hin.ch)
+ - date_published: 2016-06-22T04:24:28+00:00
+
+ ## Whistleblower-System
+ - [https://wmo.hintbox.ch](https://wmo.hintbox.ch)
+ - date_published: 2024-04-28T02:25:09.379313+00:00
+
+ ## Hirschmann-Stiftung
+ - [https://hirschmann-stiftung.ch](https://hirschmann-stiftung.ch)
+ - date_published: 2024-05-11T11:08:44.843259+00:00
+
+ ## Go HitchHike
+ - [https://go.hitchhike.ch](https://go.hitchhike.ch)
+ - date_published: 2024-07-16T22:18:43.340662+00:00
+
+ ## ian.hixie.ch
+ - [https://ian.hixie.ch](https://ian.hixie.ch)
+ - date_published: 2024-05-11T05:36:28.883910+00:00
+
+ ## Reflecting on 18 Years at Google
+ - [https://ln.hixie.ch](https://ln.hixie.ch)
+ - date_published: 2023-11-22T16:44:15+00:00
+
+ ## software.hixie.ch
+ - [https://software.hixie.ch](https://software.hixie.ch)
+ - date_published: 2024-05-11T05:36:05.495364+00:00
+
+ ## www.hixie.ch
+ - [http://www.hixie.ch](http://www.hixie.ch)
+ - date_published: 2024-06-23T16:38:39.825227+00:00
+
+ ## home.ch
+ - [https://www.home.ch](https://www.home.ch)
+ - date_published: 2024-07-21T04:52:19.826355+00:00
+
+ ## Sign in | homegate.ch
+ - [https://accounts.homegate.ch](https://accounts.homegate.ch)
+ - date_published: 2024-07-21T04:52:29.887172+00:00
+
+ ## Homegate | Immobilien Markt Schweiz
+ - [https://auth.homegate.ch](https://auth.homegate.ch)
+ - date_published: 2024-07-21T04:52:08.151692+00:00
+
+ ## Homegate | Immobilien Markt Schweiz
+ - [https://homegate.ch](https://homegate.ch)
+ - date_published: 2024-04-30T06:42:11.422891+00:00
+
+ ## Homestudy - Logements pour étudiants
+ - [https://homestudy.ch](https://homestudy.ch)
+ - date_published: 2024-05-12T07:16:21.471370+00:00
+
+ ## Les avis mortuaires de votre région | Hommages
+ - [https://hommages.ch](https://hommages.ch)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Welcome to honcode.ch
+ - [https://www.honcode.ch](https://www.honcode.ch)
+ - date_published: 2023-04-03T07:58:07+00:00
+
+ ## Agence de communication et publicité – Horde – Lausanne, Zürich, Genève et Bern
+ - [https://horde.ch](https://horde.ch)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Web Hosting and domain name, from only for 1.99€ | Hostico
+ - [https://hostico.ch](https://hostico.ch)
+ - date_published: 2024-06-16T14:57:23.483235+00:00
+
+ ## Hostpoint Login - Control Panel
+ - [https://admin.hostpoint.ch](https://admin.hostpoint.ch)
+ - date_published: 2024-06-16T09:05:53.833565+00:00
+
+ ## Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!
+ - [https://hostpoint.ch](https://hostpoint.ch)
+ - date_published: 2024-06-13T13:53:27+00:00
+
+ ## Hostpoint Support Center
+ - [https://support.hostpoint.ch](https://support.hostpoint.ch)
+ - date_published: 2024-05-01T06:40:10.214932+00:00
+
+ ## Hoststar My Panel | Login
+ - [https://my.hoststar.ch](https://my.hoststar.ch)
+ - date_published: 2024-09-02T10:41:37.745199+00:00
+
+ ## Home [en]
+ - [https://hoststar.ch](https://hoststar.ch)
+ - date_published: 2013-12-19T08:21:07+00:00
+
+ ## Official Website
+ - [https://www.hotelseeblick.ch](https://www.hotelseeblick.ch)
+ - date_published: 2024-07-16T22:02:52.393737+00:00
+
+ ## Willkommen bei Hotfrog
+ - [https://www.hotfrog.ch](https://www.hotfrog.ch)
+ - date_published: 2024-06-29T16:51:47.291154+00:00
+
+ ## News & Stories – Die News-Plattform der Hochschule Luzern
+ - [https://news.hslu.ch](https://news.hslu.ch)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Hochschule Luzern, bildet – forscht – begeistert
+ - [https://www.hslu.ch](https://www.hslu.ch)
+ - date_published: 2024-05-04T14:56:34.565756+00:00
+
+ ## Startseite
+ - [https://www.htr-milestone.ch](https://www.htr-milestone.ch)
+ - date_published: 2024-07-04T04:07:43.752473+00:00
+
+ ## HUG - Hôpitaux universitaires de Genève
+ - [https://www.hug.ch](https://www.hug.ch)
+ - date_published: 2024-07-19T13:16:26+00:00
+
+ ## IAB Switzerland | IAB Switzerland Association
+ - [https://www.iab-switzerland.ch](https://www.iab-switzerland.ch)
+ - date_published: 2024-06-25T22:03:31.711490+00:00
+
  ## IAESTE Switzerland - International Student Exchange
  - [https://www.iaeste.ch](https://www.iaeste.ch)
  - date_published: 2020-12-17T10:19:08+00:00
@@ -3767,263 +4024,4 @@ Fakultät | Universität Basel
  ## World Meteorological Organization
  - [http://www.wmo.ch](http://www.wmo.ch)
  - date_published: 2024-06-30T16:51:29+00:00
-
- ## Fathom - simple website analytics
- - [https://stats.wnx.ch](https://stats.wnx.ch)
- - date_published: 2024-07-14T08:45:27+00:00
-
- ## World of Games
- - [https://www.wog.ch](https://www.wog.ch)
- - date_published: 2024-06-15T03:43:58.551985+00:00
-
- ## workbytale - Produkte für eine positive Zukunft. Kreislauffähig, lokal und transparent.
- - [https://workbytale.ch](https://workbytale.ch)
- - date_published: 2022-05-24T00:00:00+00:00
-
- ## Home
- - [https://workshoptage.ch](https://workshoptage.ch)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Jürgen Wothke
- - [https://wothke.ch](https://wothke.ch)
- - date_published: 2019-03-10T12:48:08+00:00
- - tags: ['personal']
-
- ## Alexandre Kaspar's homepage
- - [http://www.wox-xion.ch](http://www.wox-xion.ch)
- - date_published: 2023-04-03T17:16:07+00:00
-
- ## WOZ – Die Wochenzeitung
- - [https://woz.ch](https://woz.ch)
- - date_published: 2024-04-30T06:03:02.279661+00:00
-
- ## William Lachance's Log
- - [https://wrla.ch](https://wrla.ch)
- - date_published: 2024-07-07T10:29:31.534695+00:00
- - tags: ['personal']
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://aai-logon.wsl.ch](https://aai-logon.wsl.ch)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Sign in · GitLab
- - [https://code.wsl.ch](https://code.wsl.ch)
- - date_published: 2024-07-04T08:19:21.921996+00:00
-
- ## Swiss Federal Research Institute WSL
- - [http://www.wsl.ch](http://www.wsl.ch)
- - date_published: 2024-06-22T08:03:53.905169+00:00
-
- ## WUNDERBLOCK
- - [http://wunderblock.ch](http://wunderblock.ch)
- - date_published: 2010-06-21T20:29:32+00:00
-
- ## ArtCore Projects
- - [http://www.wurzeltod.ch](http://www.wurzeltod.ch)
- - date_published: 2024-06-24T09:50:51.788666+00:00
-
- ## WWF-Events - Raus in die Natur
- - [https://events.wwf.ch](https://events.wwf.ch)
- - date_published: 2024-07-03T02:15:53.548924+00:00
-
- ## Organisation für Natur - und Umweltschutz | WWF Schweiz
- - [https://wwf.ch](https://wwf.ch)
- - date_published: 2024-05-07T23:56:52.558832+00:00
-
- ## Alexandre Kaspar's homepage
- - [http://w-x.ch](http://w-x.ch)
- - date_published: 2023-04-03T17:16:07+00:00
-
- ## Übersicht aller Störungen
- - [https://xn--allestrungen-9ib.ch](https://xn--allestrungen-9ib.ch)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## www.xyz.ch
- - [https://xyz.ch](https://xyz.ch)
- - date_published: 2024-05-04T06:34:15.044834+00:00
-
- ## GitHub - jens-maus/yam: :mailbox_with_mail: YAM (short for 'Yet Another Mailer') is a MIME-compliant open-source Internet email client written for Amiga-based computer systems (AmigaOS4, AmigaOS3, MorphOS, AROS). It supports POP3, SMTP, TLSv1/SSLv3 connection security, multiple users, multiple identities, PGPv2/v5 encryption, unlimited hierarchical folders, an ARexx interface, etc...
- - [http://yam.ch](http://yam.ch)
- - date_published: 2024-07-08T19:13:25.874660+00:00
-
- ## Yannick de Kalbermatten
- - [https://yannickdekalbermatten.ch](https://yannickdekalbermatten.ch)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## The official Yello Site
- - [http://www.yello.ch](http://www.yello.ch)
- - date_published: 2024-04-03T07:37:02+00:00
-
- ## Yelp
- - [https://de.m.yelp.ch](https://de.m.yelp.ch)
- - date_published: 2024-07-01T07:10:45.720622+00:00
-
- ## Yelp
- - [https://de.yelp.ch](https://de.yelp.ch)
- - date_published: 2024-07-01T07:07:41.935444+00:00
-
- ## Yelp
- - [https://en.m.yelp.ch](https://en.m.yelp.ch)
- - date_published: 2024-07-01T06:44:10.590851+00:00
-
- ## Yelp
- - [https://en.yelp.ch](https://en.yelp.ch)
- - date_published: 2024-07-01T06:44:05.370549+00:00
-
- ## Yelp
- - [https://fr.m.yelp.ch](https://fr.m.yelp.ch)
- - date_published: 2024-07-01T06:42:51.209013+00:00
-
- ## Yelp
- - [https://fr.yelp.ch](https://fr.yelp.ch)
- - date_published: 2024-07-01T06:42:46.482215+00:00
-
- ## Yelp
- - [https://it.m.yelp.ch](https://it.m.yelp.ch)
- - date_published: 2024-07-01T07:10:24.821302+00:00
-
- ## Yelp
- - [https://it.yelp.ch](https://it.yelp.ch)
- - date_published: 2024-07-01T07:06:31.269033+00:00
-
- ## YOTAVIS | Communication Quality and Control
- - [https://yotavis.ch](https://yotavis.ch)
- - date_published: 2024-05-11T10:04:14.586444+00:00
-
- ## Home - LaserWeb / CNCWeb
- - [https://laserweb.yurl.ch](https://laserweb.yurl.ch)
- - date_published: 2024-08-19T08:33:58+00:00
-
- ## Commune d'Yverdon-les-Bains - Site officiel de la Commune
- - [https://www.yverdon-les-bains.ch](https://www.yverdon-les-bains.ch)
- - date_published: 2024-07-09T07:42:23.525922+00:00
-
- ## Home — Robert Zaremba blog
- - [http://blog.zaremba.ch](http://blog.zaremba.ch)
- - date_published: 2023-07-11T08:18:24+00:00
-
- ## ZbW Zentrum für berufliche Weiterbildung, St. Gallen
- - [https://www.zbw.ch](https://www.zbw.ch)
- - date_published: 2024-07-09T15:26:17.674813+00:00
-
- ## ZefixWebApp
- - [https://www.zefix.ch](https://www.zefix.ch)
- - date_published: 2023-11-14T15:24:07+00:00
-
- ## Herzlich willkommen bei Zeltwelt
- - [https://www.zeltwelt.ch](https://www.zeltwelt.ch)
- - date_published: 2021-11-01T00:00:00+00:00
-
- ## Zurich Graduate School
- - [http://www.zgsm.ch](http://www.zgsm.ch)
- - date_published: 2024-06-20T13:59:31.672344+00:00
-
- ## Startseite
- - [https://blog.zhaw.ch](https://blog.zhaw.ch)
- - date_published: 2024-06-22T10:28:45.685271+00:00
-
- ## ZHAW-Impact 03/23: Digital Health
- - [https://impact.zhaw.ch](https://impact.zhaw.ch)
- - date_published: 2024-06-22T10:28:44.143158+00:00
-
- ## Home | Moodle ZHAW
- - [https://moodle.zhaw.ch](https://moodle.zhaw.ch)
- - date_published: 2024-06-22T10:28:41+00:00
-
- ## Watching the World
- - [https://webcamaze.engineering.zhaw.ch](https://webcamaze.engineering.zhaw.ch)
- - date_published: 2023-12-23T00:58:53.598471+00:00
-
- ## Willkommen an der ZHAW | ZHAW Zürcher Hochschule für Angewandte Wissenschaften
- - [https://www.zhaw.ch](https://www.zhaw.ch)
- - date_published: 2024-05-04T15:31:58.714036+00:00
-
- ## Zürcher Hochschule der Künste | ZHdK.ch
- - [https://www.zhdk.ch](https://www.zhdk.ch)
- - date_published: 2024-06-27T12:49:13.746220+00:00
-
- ## Webcast «Gewusst wie: Immobilien im dritten Lebensabschnitt»
- - [https://immobilien-pension.events.zkb.ch](https://immobilien-pension.events.zkb.ch)
- - date_published: 2024-05-24T08:59:54+00:00
-
- ## Zürcher Kantonalbank – wir sind die nahe Bank seit über 150 Jahren.
- - [https://www.zkb.ch](https://www.zkb.ch)
- - date_published: 2024-05-01T05:55:23.986576+00:00
-
- ## ZOA CITY
- - [https://zoacity.ch](https://zoacity.ch)
- - date_published: 2024-05-08T00:39:50.937721+00:00
-
- ## Zoetis
- - [https://www2.zoetis.ch](https://www2.zoetis.ch)
- - date_published: 2024-06-27T09:52:50+00:00
-
- ## Zondax: Secure Blockchain R&D Solutions
- - [https://zondax.ch](https://zondax.ch)
- - date_published: 2024-06-16T03:37:43.933481+00:00
-
- ## Tierbedarf, Tierfutter, Tiernahrung günstig kaufen bei zooplus.ch
- - [https://www.zooplus.ch](https://www.zooplus.ch)
- - date_published: 2024-06-16T06:27:59.149895+00:00
-
- ## ZSIG - Zürcherische Seidenindustrie Gesellschaft
- - [https://zsig.ch](https://zsig.ch)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Agenda - Zürichsee-Zeitung
- - [https://agenda.zsz.ch](https://agenda.zsz.ch)
- - date_published: 2024-07-22T17:39:20.050511+00:00
-
- ## Zürichsee-Zeitung
- - [https://helpcenter.zsz.ch](https://helpcenter.zsz.ch)
- - date_published: 2023-07-22T05:29:56+00:00
-
- ## Die Regionalzeitung für die See-Region | Zürichsee-Zeitung
- - [https://zsz.ch](https://zsz.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Agenda - Zürcher Unterländer
- - [https://agenda.zuonline.ch](https://agenda.zuonline.ch)
- - date_published: 2024-07-22T17:39:06.735781+00:00
-
- ## Zürcher Unterländer
- - [https://helpcenter.zuonline.ch](https://helpcenter.zuonline.ch)
- - date_published: 2023-07-23T17:38:54+00:00
-
- ## Die Regionalzeitung aus dem Unterland | Zürcher Unterländer
- - [https://zuonline.ch](https://zuonline.ch)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## ZÜRICH OPENAIR 2024 I August 2024 I Festival Schweiz
- - [https://www.zurichopenair.ch](https://www.zurichopenair.ch)
- - date_published: 2023-03-08T13:27:16+00:00
-
- ## Zwingliana
- - [http://www.zwingliana.ch](http://www.zwingliana.ch)
- - date_published: 2020-11-22T00:00:00+00:00
-
- ## Zxs
- - [https://zxs.ch](https://zxs.ch)
- - date_published: 2024-05-07T10:01:39.853853+00:00
-
- ## Binance Charity
- - [https://www.binance.charity](https://www.binance.charity)
- - date_published: 2024-04-18T09:37:52+00:00
-
- ## 3D Printing
- - [https://3dp.chat](https://3dp.chat)
- - date_published: 2024-05-08T07:14:08.812009+00:00
- - tags: ['mastodon']
-
- ## Agnaistic
- - [https://agnai.chat](https://agnai.chat)
- - date_published: 2024-06-15T03:33:12+00:00
-
- ## aider is AI pair programming in your terminal
- - [https://aider.chat](https://aider.chat)
- - date_published: 2023-11-08T00:15:40.726262+00:00
-
- ## Airchat
- - [https://air.chat](https://air.chat)
- - date_published: 2024-07-01T06:11:10.240551+00:00
 

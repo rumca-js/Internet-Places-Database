@@ -1,3 +1,187 @@
+ ## MASP
+ - [http://www.masp.art.br](http://www.masp.art.br)
+ - date_published: 2024-06-24T09:07:39.852939+00:00
+
+ ## Antispam.br ::
+ - [https://www.antispam.br](https://www.antispam.br)
+ - date_published: 2014-08-21T19:20:31+00:00
+
+ ## Centro Federal de Educação Tecnológica de Minas Gerais
+ - [https://www.cefetmg.br](https://www.cefetmg.br)
+ - date_published: 2024-07-13T18:13:18.016400+00:00
+
+ ## Ceptro.br - Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações
+ - [https://ceptro.br](https://ceptro.br)
+ - date_published: 2024-07-18T12:38:56.243002+00:00
+
+ ## Cartilha de Segurança para Internet
+ - [https://cartilha.cert.br](https://cartilha.cert.br)
+ - date_published: 2024-07-18T03:05:01+00:00
+
+ ## CERT.br - Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil
+ - [https://cert.br](https://cert.br)
+ - date_published: 2024-06-03T21:09:17+00:00
+
+ ## Home
+ - [https://cetic.br](https://cetic.br)
+ - date_published: 2024-06-17T15:19:04+00:00
+
+ ## Ceweb.br - Centro de Estudos sobre Tecnologias Web
+ - [https://ceweb.br](https://ceweb.br)
+ - date_published: 2024-04-24T09:50:06+00:00
+
+ ## CGI.br - Comitê Gestor da Internet no Brasil
+ - [https://cgi.br](https://cgi.br)
+ - date_published: 2024-07-17T13:07:04+00:00
+
+ ## Plataforma Integrada Carlos Chagas
+ - [http://carloschagas.cnpq.br](http://carloschagas.cnpq.br)
+ - date_published: 2013-03-05T14:04:39+00:00
+
+ ## Centro de Memória - CNPq
+ - [http://centrodememoria.cnpq.br](http://centrodememoria.cnpq.br)
+ - date_published: 2008-11-12T18:13:06+00:00
+
+ ## Bem vindo - CKAN
+ - [http://dadosabertos.cnpq.br](http://dadosabertos.cnpq.br)
+ - date_published: 2018-05-15T00:00:00+00:00
+
+ ## Home - INCT
+ - [http://inct.cnpq.br](http://inct.cnpq.br)
+ - date_published: 2024-07-13T18:04:40.027259+00:00
+
+ ## CNPq - Portal CNPq
+ - [http://memoria2.cnpq.br](http://memoria2.cnpq.br)
+ - date_published: 2024-07-13T18:04:46.191847+00:00
+
+ ## Página Inicial
+ - [https://cnpq.br](https://cnpq.br)
+ - date_published: 2024-05-11T08:08:09.177336+00:00
+
+ ## Everest - Sistema de Gestão da FAPEMIG
+ - [http://everest.fapemig.br](http://everest.fapemig.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Fundação de Amparo à Pesquisa do Estado de Minas Gerais
+ - [https://fapemig.br](https://fapemig.br)
+ - date_published: 2024-05-11T08:08:13.082628+00:00
+
+ ## Agência FAPESP
+ - [https://agencia.fapesp.br](https://agencia.fapesp.br)
+ - date_published: 2024-01-05T15:18:41.204636+00:00
+
+ ## BV FAPESP - Biblioteca Virtual da FAPESP
+ - [https://bv.fapesp.br](https://bv.fapesp.br)
+ - date_published: 2024-06-27T17:22:47.734326+00:00
+
+ ## Bem-vindo! | Centro de Memória FAPESP
+ - [https://centrodememoria.fapesp.br](https://centrodememoria.fapesp.br)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo
+ - [https://fapesp.br](https://fapesp.br)
+ - date_published: 2024-06-27T17:22:03.741740+00:00
+
+ ## FAPESP Na Mídia
+ - [https://namidia.fapesp.br](https://namidia.fapesp.br)
+ - date_published: 2024-08-18T07:17:52.239314+00:00
+
+ ## Pesquisa para Inovação
+ - [http://pesquisaparainovacao.fapesp.br](http://pesquisaparainovacao.fapesp.br)
+ - date_published: 2024-08-18T07:17:58.395132+00:00
+
+ ## Revista Pesquisa Fapesp
+ - [http://revistapesquisa.fapesp.br](http://revistapesquisa.fapesp.br)
+ - date_published: 2024-08-18T07:18:03.217717+00:00
+
+ ## SAGe - Sistema de Apoio à Gestão do Fomento - Identificação
+ - [https://sage.fapesp.br](https://sage.fapesp.br)
+ - date_published: 2024-08-18T07:17:55.402218+00:00
+
+ ## Entrar em FAPESP
+ - [https://siaf.fapesp.br](https://siaf.fapesp.br)
+ - date_published: 2024-08-18T07:17:46.229156+00:00
+
+ ## CEE Fiocruz | CENTRO DE ESTUDOS ESTRATÉGICOS
+ - [http://cee.fiocruz.br](http://cee.fiocruz.br)
+ - date_published: 2024-06-21T19:42:05.162456+00:00
+
+ ## Laps
+ - [http://laps.ensp.fiocruz.br](http://laps.ensp.fiocruz.br)
+ - date_published: 2024-06-21T19:42:12.481981+00:00
+
+ ## Página Inicial
+ - [http://portal.fiocruz.br](http://portal.fiocruz.br)
+ - date_published: 2024-06-21T19:12:41+00:00
+
+ ## Bem-vindo ao PIAP | PIAP
+ - [https://portfoliodepraticas.epsjv.fiocruz.br](https://portfoliodepraticas.epsjv.fiocruz.br)
+ - date_published: 2024-06-21T19:41:26.760886+00:00
+
+ ## ENSP - Escola Nacional de Saúde Pública Sergio Arouca
+ - [http://www.ensp.fiocruz.br](http://www.ensp.fiocruz.br)
+ - date_published: 2024-06-21T19:41:57.023607+00:00
+
+ ## Internet Segura
+ - [https://internetsegura.br](https://internetsegura.br)
+ - date_published: 2024-07-17T10:08:26+00:00
+
+ ## IPv6
+ - [http://ipv6.br](http://ipv6.br)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Login
+ - [https://assinador.iti.br](https://assinador.iti.br)
+ - date_published: 2024-05-10T03:45:53.589618+00:00
+
+ ## IX.br
+ - [https://ix.br](https://ix.br)
+ - date_published: 2024-07-18T12:38:40.857528+00:00
+
+ ## bcp.nic.br
+ - [https://bcp.nic.br](https://bcp.nic.br)
+ - date_published: 2024-07-18T12:38:11.979953+00:00
+
+ ## Cidadão na Rede
+ - [https://cidadaonarede.nic.br](https://cidadaonarede.nic.br)
+ - date_published: 2024-07-18T12:38:30.754334+00:00
+
+ ## Cursos e eventos NIC.br
+ - [https://cursoseventos.nic.br](https://cursoseventos.nic.br)
+ - date_published: 2024-07-18T12:38:48.493136+00:00
+
+ ## Teste sua Velocidade de Internet | SIMET
+ - [https://simet.nic.br](https://simet.nic.br)
+ - date_published: 2023-08-31T15:29:16+00:00
+
+ ## Teste para padrões técnicos modernos de Internet, como IPv6, DNSSEC, HTTPS, TLS, HSTS, DMARC, DKIM, SPF, STARTTLS e DANE.
+ - [https://top.nic.br](https://top.nic.br)
+ - date_published: 2024-07-18T12:38:51.187755+00:00
+
+ ## Núcleo de Informação e Coordenação do Ponto BR - Início
+ - [https://nic.br](https://nic.br)
+ - date_published: 2024-05-14T03:51:51.865000+00:00
+
+ ## IX.br
+ - [https://ptt.br](https://ptt.br)
+ - date_published: 2024-07-18T12:38:17.847584+00:00
+
+ ## Ambiente de Aprendizagem Online da PUC-Rio: Acesso ao site
+ - [https://ead.puc-rio.br](https://ead.puc-rio.br)
+ - date_published: 2024-07-07T06:43:09.320864+00:00
+
+ ## ECOA PUC-Rio educação digital
+ - [https://ecoa.puc-rio.br](https://ecoa.puc-rio.br)
+ - date_published: 2024-05-08T23:17:01+00:00
+
+ ## Escritório de Processos
+ - [https://ep.dsi.puc-rio.br](https://ep.dsi.puc-rio.br)
+ - date_published: 2024-07-07T06:42:00.491430+00:00
+
+ ## Página inicial | Núcleo de Memória
+ - [http://nucleodememoria.vrac.puc-rio.br](http://nucleodememoria.vrac.puc-rio.br)
+ - date_published: 2024-07-07T06:43:21+00:00
+
  ## Página inicial - PUC Urgente
  - [https://pucurgente.com.puc-rio.br](https://pucurgente.com.puc-rio.br)
  - date_published: 2024-07-07T06:42:39.759766+00:00
@@ -101,6 +285,10 @@
  ## Apache HTTP Server Test Page powered by CentOS
  - [http://www2.ic.uff.br](http://www2.ic.uff.br)
  - date_published: 2024-05-06T13:35:12.673644+00:00
+
+ ## | Universidade Federal Fluminense
+ - [http://www.uff.br](http://www.uff.br)
+ - date_published: 2024-09-03T22:21:07+00:00
 
  ## NetLab
  - [http://netlab.ice.ufjf.br](http://netlab.ice.ufjf.br)
@@ -1862,6 +2050,10 @@ Educação
  - [https://www.kaspersky.com.br](https://www.kaspersky.com.br)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## King of Code - Solving problems with intelligence
+ - [https://kingofcode.com.br](https://kingofcode.com.br)
+ - date_published: 2024-09-03T23:34:07.620125+00:00
+
  ## Feira | Koelnmesse Brasil
  - [https://www.koelnmesse.com.br](https://www.koelnmesse.com.br)
  - date_published: 2024-06-26T15:11:12+00:00
@@ -2216,6 +2408,10 @@ Educação
  ## Olaaa – Seu Blog de Notícias
  - [http://www.olaaa.com.br](http://www.olaaa.com.br)
  - date_published: 2024-07-04T14:47:43.038933+00:00
+
+ ## | Omnisys
+ - [http://www.omnisys.com.br](http://www.omnisys.com.br)
+ - date_published: 2024-02-23T13:19:02+00:00
 
  ## Onlinecurriculo.com.br
  - [https://help.onlinecurriculo.com.br](https://help.onlinecurriculo.com.br)
@@ -2635,7 +2831,7 @@ Educação
  - date_published: 2024-06-12T00:00:00+00:00
 
  ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
- - [https://www.storexppen.com.br](https://www.storexppen.com.br)
+ - [https://storexppen.com.br](https://storexppen.com.br)
  - date_published: 2024-05-30T18:41:51.126045+00:00
 
  ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
@@ -3517,6 +3713,10 @@ Educação
  - [https://www.abecbrasil.org.br](https://www.abecbrasil.org.br)
  - date_published: 2024-07-09T21:17:26.810610+00:00
 
+ ## Aduff-SSind - Associação dos Docentes da UFF
+ - [http://www.aduff.org.br](http://www.aduff.org.br)
+ - date_published: 2024-09-03T22:25:51+00:00
+
  ## Alana
  - [https://alana.org.br](https://alana.org.br)
  - date_published: 2024-07-08T16:52:02.884045+00:00
@@ -3815,204 +4015,4 @@ Educação
  ## Controladoria - Prefeitura de Curitiba
  - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
  - date_published: 2024-06-12T03:30:06.297486+00:00
-
- ## ImunizaJáCuritiba - Prefeitura de Curitiba
- - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:53.636747+00:00
-
- ## Prefeitura Municipal de Curitiba
- - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:09.478209+00:00
-
- ## Secretaria Municipal da Educação
- - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:18.932345+00:00
-
- ## Fala Curitiba - Prefeitura de Curitiba
- - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:10.734623+00:00
-
- ## Gabinete do Prefeito - Prefeitura de Curitiba
- - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:53.608945+00:00
-
- ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
- - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:21.324685+00:00
-
- ## Guia - Prefeitura de Curitiba
- - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:49.203800+00:00
-
- ## Home Page - ICICore.Servidor
- - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:23.930507+00:00
-
- ## IMAP
- - [http://imap.curitiba.pr.gov.br](http://imap.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:11.734092+00:00
-
- ## Consulta Externa de Atos
- - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:27.832937+00:00
-
- ## mid-guia.curitiba.pr.gov.br - /
- - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:43.588967+00:00
-
- ## mid-servidor.curitiba.pr.gov.br - /
- - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:19:55.374914+00:00
-
- ## Turismo - Prefeitura de Curitiba
- - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:52.463670+00:00
-
- ## Orçamento e Planejamento
- - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:01.327323+00:00
-
- ## Portal dos Conselhos
- - [http://portaldosconselhos.curitiba.pr.gov.br](http://portaldosconselhos.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:05.549511+00:00
-
- ## Portal do Servidor de Curitiba
- - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:57.625983+00:00
-
- ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
- - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:18:28.545524+00:00
-
- ## Instituto Municipal de Turismo de Curitiba
- - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:47.891023+00:00
-
- ## Home - Agência Curitiba
- - [http://www.agencia.curitiba.pr.gov.br](http://www.agencia.curitiba.pr.gov.br)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Portal da Transparência da Prefeitura de Curitiba
- - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
- - date_published: 2024-06-12T03:30:16.818256+00:00
-
- ## URBS - Urbanização de Curitiba
- - [https://www.urbs.curitiba.pr.gov.br](https://www.urbs.curitiba.pr.gov.br)
- - date_published: 2024-06-12T11:17:58.059160+00:00
-
- ## Home
- - [https://emanoel.pro.br](https://emanoel.pro.br)
- - date_published: 2024-06-10T12:02:18+00:00
-
- ## Eriberto Mota
- - [https://eriberto.pro.br](https://eriberto.pro.br)
- - date_published: 2024-07-09T07:56:43.300230+00:00
-
- ## Paulo Ghiraldelli
- - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
- - date_published: 2024-05-07T18:22:04.178518+00:00
-
- ## Sérgio Ferreira de Lima, Sérgio F. Lima, Sérgio Lima, oigreslima
- - [https://sfl.pro.br](https://sfl.pro.br)
- - date_published: 2024-07-28T21:02:03+00:00
-
- ## SHOUTcast Server
- - [https://nos.radio.br](https://nos.radio.br)
- - date_published: 2017-08-24T00:00:00+00:00
-
- ## Expointer
- - [https://www.expointer.rs.gov.br](https://www.expointer.rs.gov.br)
- - date_published: 2024-08-18T12:22:01.415893+00:00
-
- ## Início - Prefeitura de São Paulo - Prefeitura
- - [https://www.capital.sp.gov.br](https://www.capital.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Investe SP - Portal de Investimentos do Estado de São Paulo
- - [https://www.investe.sp.gov.br](https://www.investe.sp.gov.br)
- - date_published: 2024-06-26T21:57:36.307248+00:00
-
- ## Início - Prefeitura de São Paulo - Prefeitura
- - [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | Governo do Estado de São Paulo
- - [https://www.saopaulo.sp.gov.br](https://www.saopaulo.sp.gov.br)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Baffa-2+ Computer
- - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Baffa Homebrew Projects
- - [https://computers.baffa.tec.br](https://computers.baffa.tec.br)
- - date_published: 2023-11-23T03:00:00+00:00
-
- ## Login  - Mídia de Impacto
- - [http://painel.sintonizar.tv.br](http://painel.sintonizar.tv.br)
- - date_published: 2024-08-11T19:59:20.739428+00:00
-
- ## BANCO BRADESCO | Desafie o futuro
- - [https://banco.bradesco](https://banco.bradesco)
- - date_published: 2024-07-09T19:15:33.297619+00:00
-
- ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
- - [https://www.creativecenter.brother](https://www.creativecenter.brother)
- - date_published: 2024-05-02T11:28:15.164126+00:00
-
- ## Industrial Garment Printer | Brother
- - [https://garmentprinter.global.brother](https://garmentprinter.global.brother)
- - date_published: 2024-05-02T11:35:25.463119+00:00
-
- ## Welcome to Brother Global
- - [https://global.brother](https://global.brother)
- - date_published: 2024-05-02T11:25:26.280633+00:00
-
- ## Industrial Sewing Machine | Brother
- - [https://industrialsewingmachine.global.brother](https://industrialsewingmachine.global.brother)
- - date_published: 2024-05-02T11:29:39.596747+00:00
-
- ## Machine Tools | Brother
- - [https://machinetool.global.brother](https://machinetool.global.brother)
- - date_published: 2024-05-02T11:22:53.110007+00:00
-
- ## Brother Group SDGs Special Site: Brother SDGs story
- - [https://sdgsstory.global.brother](https://sdgsstory.global.brother)
- - date_published: 2024-06-17T21:02:35.762480+00:00
-
- ## Welcome on the website of the Brussels Capital-Region
- - [https://be.brussels](https://be.brussels)
- - date_published: 2024-07-02T23:04:50.140871+00:00
-
- ## FEDER - Feder BXL
- - [https://feder.brussels](https://feder.brussels)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Innoviris
- - [https://innoviris.brussels](https://innoviris.brussels)
- - date_published: 2024-07-07T09:21:41+00:00
-
- ## Homepage
- - [https://kanal.brussels](https://kanal.brussels)
- - date_published: 2019-06-05T08:29:09+00:00
-
- ## React Brussels | Brussels & Online
- - [https://www.react.brussels](https://www.react.brussels)
- - date_published: 2024-06-20T07:07:54.339815+00:00
-
- ## Wikimedia Europe
- - [https://wikimedia.brussels](https://wikimedia.brussels)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.bs](https://maps.google.bs)
- - date_published: 2024-07-20T07:39:27.116520+00:00
-
- ## Google
- - [https://www.google.bs](https://www.google.bs)
- - date_published: 2024-06-21T22:23:48.282701+00:00
-
- ## https://www.bahamas.gov.bs
- - [https://bahamas.gov.bs](https://bahamas.gov.bs)
- - date_published: 2022-11-04T10:38:51+00:00
 

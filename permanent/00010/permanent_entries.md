@@ -1,3 +1,96 @@
+ ## Stadt.Land.Tech
+ - [https://www.smartcountry.berlin](https://www.smartcountry.berlin)
+ - date_published: 2024-07-17T00:23:03+00:00
+
+ ## Jeffrey Paul
+ - [https://sneak.berlin](https://sneak.berlin)
+ - date_published: 2024-06-01T05:06:05.436918+00:00
+ - tags: ['personal']
+
+ ## sneak (@sneak@sneak.berlin)
+ - [https://s.sneak.berlin](https://s.sneak.berlin)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Live Event Kooperationen mit SUBSATNZ.BERLIN
+ - [https://substanz.berlin](https://substanz.berlin)
+ - date_published: 2024-06-22T13:11:31.585503+00:00
+
+ ## Microsoft Teams User Group Berlin
+ - [https://teamsusergroup.berlin](https://teamsusergroup.berlin)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## toot.BERLIN
+ - [https://toot.berlin](https://toot.berlin)
+ - date_published: 2024-06-16T16:08:15.162795+00:00
+
+ ## Technische Universität Berlin
+ - [https://tu.berlin](https://tu.berlin)
+ - date_published: 2024-04-29T06:56:04.938790+00:00
+
+ ## Typostammtisch Berlin
+ - [https://typostammtisch.berlin](https://typostammtisch.berlin)
+ - date_published: 2024-07-13T23:52:14.168541+00:00
+
+ ## Volksbühne am Rosa-Luxemburg-Platz
+ - [https://volksbuehne.berlin](https://volksbuehne.berlin)
+ - date_published: 2024-05-11T07:40:59.295364+00:00
+
+ ## Upcoming Event | Vuejs//Berlin
+ - [https://vuejs.berlin](https://vuejs.berlin)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Meilleur Casino en Ligne - Découvrez les Top Sites de Jeux d'Argent
+ - [https://casinoenlignefrance.best](https://casinoenlignefrance.best)
+ - date_published: 2024-06-21T21:03:35.322883+00:00
+
+ ## Nеjlеpší сеskе оnlinе саsinа - Zábаvа s Čеskými Нráči 2024
+ - [https://ceskecasino.best](https://ceskecasino.best)
+ - date_published: 2024-06-21T20:56:32.154715+00:00
+
+ ## emma best
+ - [https://emma.best](https://emma.best)
+ - date_published: 2024-07-05T06:30:30+00:00
+
+ ## Final Fantasy VIII is the Best
+ - [https://ff8isthe.best](https://ff8isthe.best)
+ - date_published: 2024-08-19T06:48:43.755966+00:00
+
+ ## Free Online OCR Converter – Convert Image & PDF to Text
+ - [https://www.ocr.best](https://www.ocr.best)
+ - date_published: 2024-06-19T20:37:51.886281+00:00
+
+ ## Show HN: I made a free app to calibrate your turntable by simply playing a song
+ - [https://grooved.okat.best](https://grooved.okat.best)
+ - date_published: 2024-05-28T14:23:28+00:00
+
+ ## OKatBest
+ - [https://okat.best](https://okat.best)
+ - date_published: 2024-06-06T04:00:21+00:00
+
+ ## Play Free Online Sudoku | Sudoku.Best
+ - [https://sudoku.best](https://sudoku.best)
+ - date_published: 2024-08-19T18:14:29.295635+00:00
+
+ ## A launch platform for your products
+ - [https://uneed.best](https://uneed.best)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Webstar projets numériques | Création de site Internet
+ - [https://webstar.best](https://webstar.best)
+ - date_published: 2024-08-08T15:40:49.311017+00:00
+
+ ## Best Buy: Expert Service. Unbeatable Price.
+ - [http://nic.bestbuy](http://nic.bestbuy)
+ - date_published: 2022-09-16T22:20:50+00:00
+
+ ## BAROBET
+ - [https://7days.bet](https://7days.bet)
+ - date_published: 2024-07-23T13:58:15+00:00
+
+ ## betting.bet - Betting | Free Bets | Betting Tips | Odds | News
+ - [https://betting.bet](https://betting.bet)
+ - date_published: 2024-06-29T05:35:33.527798+00:00
+
  ## Black Diamond Casino
  - [https://blackdiamond-casino.bet](https://blackdiamond-casino.bet)
  - date_published: 2024-06-21T22:53:00.711978+00:00
@@ -951,6 +1044,10 @@
  - [http://www.adeptdigital.biz](http://www.adeptdigital.biz)
  - date_published: 2024-06-18T09:08:03.570681+00:00
 
+ ## A-EON Technology Ltd www.a-eon.com
+ - [http://a-eon.biz](http://a-eon.biz)
+ - date_published: 2024-09-03T23:28:24.395979+00:00
+
  ## Amiga.org - Index
  - [http://blog.a-eon.biz](http://blog.a-eon.biz)
  - date_published: 2022-10-07T23:06:49+00:00
@@ -1018,6 +1115,10 @@
  ## Pro Posts – Billboard
  - [https://www.billboard.biz](https://www.billboard.biz)
  - date_published: 2024-05-06T20:59:32.618966+00:00
+
+ ## Bivio Software
+ - [http://www.bivio.biz](http://www.bivio.biz)
+ - date_published: 2024-09-03T23:51:10.878052+00:00
 
  ## BlockchainGamerBiz - Where blockchain meets the games industry
  - [https://www.blockchaingamer.biz](https://www.blockchaingamer.biz)
@@ -1731,9 +1832,21 @@
  - [https://armancius.blog](https://armancius.blog)
  - date_published: 2024-01-26T00:00:00+00:00
 
+ ## Exploration of Life as a Neurodiverse Creative
+ - [http://neurodiverse.art.blog](http://neurodiverse.art.blog)
+ - date_published: 2024-09-03T22:50:44.061559+00:00
+
+ ## Que Sara Sara
+ - [http://quesarasara.art.blog](http://quesarasara.art.blog)
+ - date_published: 2024-09-03T22:49:06.047323+00:00
+
  ## ARTificial.Blog
  - [https://artificial.blog](https://artificial.blog)
  - date_published: 2024-01-07T00:00:00+00:00
+
+ ## aspiblog
+ - [http://aspi.blog](http://aspi.blog)
+ - date_published: 2024-09-03T22:52:07.067989+00:00
 
  ## Koen's blog
  - [https://atog.blog](https://atog.blog)
@@ -1789,6 +1902,10 @@
  ## scruffian
  - [https://ben.blog](https://ben.blog)
  - date_published: 2024-06-05T00:00:00+00:00
+
+ ## A Dad trying to cope with the loss of his Partner and becoming a single parent.
+ - [http://bereavedsingledad.blog](http://bereavedsingledad.blog)
+ - date_published: 2024-09-03T22:57:44.858917+00:00
 
  ## Besser lernen mit den richtigen Tipps, Tricks und Techniken!
  - [http://besser-lernen.blog](http://besser-lernen.blog)
@@ -2125,6 +2242,10 @@
  - [https://erinshaw.blog](https://erinshaw.blog)
  - date_published: 2024-01-05T10:38:31.333598+00:00
 
+ ## Abscissa - Autism and Techno Blog
+ - [http://esotericheartsareforever.blog](http://esotericheartsareforever.blog)
+ - date_published: 2024-09-03T23:06:58.056267+00:00
+
  ## Home
  | eval.blog
  - [https://eval.blog](https://eval.blog)
@@ -2143,6 +2264,10 @@
  ## fahmy.blog | home
  - [http://fahmy.blog](http://fahmy.blog)
  - date_published: 2022-09-08T13:37:23+00:00
+
+ ## Autistically Me
+ - [http://autisticallyme.family.blog](http://autisticallyme.family.blog)
+ - date_published: 2024-09-03T23:08:03.791552+00:00
 
  ## Fediverse.blog ⋅ Plume
  - [https://fediverse.blog](https://fediverse.blog)
@@ -2344,9 +2469,21 @@
  - [https://hmbl.blog](https://hmbl.blog)
  - date_published: 2024-07-02T17:53:22+00:00
 
+ ## Autistic & Finding Dopamine
+ - [http://autisticandfindingdopmine.home.blog](http://autisticandfindingdopmine.home.blog)
+ - date_published: 2024-09-03T22:46:12.021973+00:00
+
  ## some compact thoughts
  - [https://backus.home.blog](https://backus.home.blog)
  - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home.blog
+ - [http://baileygreenmystorythroughautism.home.blog](http://baileygreenmystorythroughautism.home.blog)
+ - date_published: 2024-09-03T22:58:55+00:00
+
+ ## Blue Remembered Trolls
+ - [https://bluerememberedtrolls.home.blog](https://bluerememberedtrolls.home.blog)
+ - date_published: 2024-09-03T22:17:06.884891+00:00
 
  ## DonDagen
  - [https://dondagen.home.blog](https://dondagen.home.blog)
@@ -2394,6 +2531,10 @@
  - [https://justcoasting.home.blog](https://justcoasting.home.blog)
  - date_published: 2024-05-07T14:47:04.252481+00:00
 
+ ## Letters to Here
+ - [http://letterstohere.home.blog](http://letterstohere.home.blog)
+ - date_published: 2024-08-25T00:00:00+00:00
+
  ## To Be Determined
  - [https://locationtbd.home.blog](https://locationtbd.home.blog)
  - date_published: 2023-10-25T09:01:46.793235+00:00
@@ -2402,6 +2543,10 @@
  ## ✨🌈 Squelfland 🌈✨
  - [https://marinaneira.home.blog](https://marinaneira.home.blog)
  - date_published: 2024-08-06T05:11:45+00:00
+
+ ## Niraj's blogs
+ - [http://niraj.home.blog](http://niraj.home.blog)
+ - date_published: 2024-09-02T12:58:11+00:00
 
  ## Around These Islands
  - [https://novaroundbritain.home.blog](https://novaroundbritain.home.blog)
@@ -2427,9 +2572,17 @@
  - [https://soberania-alimentar-mare.home.blog](https://soberania-alimentar-mare.home.blog)
  - date_published: 2024-05-10T06:57:04.002656+00:00
 
+ ## Home.blog
+ - [http://spacetyrannosaur.home.blog](http://spacetyrannosaur.home.blog)
+ - date_published: 2024-09-03T22:53:33+00:00
+
  ## A Year of Aviation Illustration & Art
  - [https://yearofaviationillustration.home.blog](https://yearofaviationillustration.home.blog)
  - date_published: 2024-08-03T20:19:31+00:00
+
+ ## Yenn Purkis Autism Page
+ - [http://yennpurkis.home.blog](http://yennpurkis.home.blog)
+ - date_published: 2024-08-31T13:30:01+00:00
 
  ## Home With The Armadillo
  - [https://homewiththearmadillo.blog](https://homewiththearmadillo.blog)
@@ -2979,6 +3132,10 @@
  - [https://mxstbr.blog](https://mxstbr.blog)
  - date_published: 2018-02-21T00:00:00+00:00
 
+ ## my silent voice/ my stil stem
+ - [http://mysilentvoice.blog](http://mysilentvoice.blog)
+ - date_published: 2024-09-03T23:07:36.422957+00:00
+
  ## Jessica's Nature Blog
  - [https://natureinfocus.blog](https://natureinfocus.blog)
  - date_published: 2024-06-30T01:45:26.030894+00:00
@@ -3041,6 +3198,14 @@
  - [https://nomad.blog](https://nomad.blog)
  - date_published: 2024-06-30T10:13:52.135456+00:00
 
+ ## Nothing But The Truth
+ - [http://nothingbutthetruth.blog](http://nothingbutthetruth.blog)
+ - date_published: 2024-09-02T23:06:29+00:00
+
+ ## Nothing Radical
+ - [http://nothingradical.blog](http://nothingradical.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## notizBlog
  - [https://notiz.blog](https://notiz.blog)
  - date_published: 2024-01-07T08:45:39.431652+00:00
@@ -3064,6 +3229,10 @@
  ## Oh Hello Ana
  - [https://ohhelloana.blog](https://ohhelloana.blog)
  - date_published: 2024-01-03T04:05:44.287778+00:00
+
+ ## OldLady With Autism
+ - [http://oldladywithautism.blog](http://oldladywithautism.blog)
+ - date_published: 2024-09-03T23:02:06.728939+00:00
 
  ## Om Malik
  - [https://om.blog](https://om.blog)
@@ -3338,6 +3507,10 @@
  - [https://stefanpfeiffer.blog](https://stefanpfeiffer.blog)
  - date_published: 2024-07-02T18:00:15.162803+00:00
 
+ ## Making an ass of myself
+ - [http://stevenhpape.blog](http://stevenhpape.blog)
+ - date_published: 2024-09-03T23:02:08.990283+00:00
+
  ## Stormbirds
  - [https://stormbirds.blog](https://stormbirds.blog)
  - date_published: 2024-08-19T17:41:58.266486+00:00
@@ -3411,6 +3584,10 @@
  ## The Platform Law Blog
  - [https://theplatformlaw.blog](https://theplatformlaw.blog)
  - date_published: 2024-05-12T04:11:55.214912+00:00
+
+ ## The Simple Catholic
+ - [http://thesimplecatholic.blog](http://thesimplecatholic.blog)
+ - date_published: 2024-09-03T23:02:51.297980+00:00
 
  ## The Solopreneur Blog
  - [https://thesolopreneur.blog](https://thesolopreneur.blog)
@@ -3652,7 +3829,7 @@
 
  ## sub.blue
  - [http://sub.blue](http://sub.blue)
- - date_published: 2024-05-29T20:58:01.609616+00:00
+ - date_published: 2018-09-30T09:40:09+00:00
  - tags: ['interesting page design', 'personal']
 
  ## Start your journey with us - team.blue Netherlands
@@ -3666,6 +3843,14 @@
  ## A unique career - team.blue UK
  - [https://ukcareers.team.blue](https://ukcareers.team.blue)
  - date_published: 2024-06-16T09:30:14.723677+00:00
+
+ ## Robotics
+ - [https://baut.bm](https://baut.bm)
+ - date_published: 2021-02-27T12:25:07+00:00
+
+ ## Home - Bermuda High School for Girls
+ - [https://www.bhs.bm](https://www.bhs.bm)
+ - date_published: 2024-09-03T21:49:06.332123+00:00
 
  ## HSBC Bermuda - Credit Cards, Accounts, Mortgages, Loans
  - [https://www.hsbc.bm](https://www.hsbc.bm)
@@ -3902,188 +4087,4 @@
  ## Portfolio
  - [https://cardume.art.br](https://cardume.art.br)
  - date_published: 2024-01-09T02:26:44.691691+00:00
-
- ## MASP
- - [http://www.masp.art.br](http://www.masp.art.br)
- - date_published: 2024-06-24T09:07:39.852939+00:00
-
- ## Antispam.br ::
- - [https://www.antispam.br](https://www.antispam.br)
- - date_published: 2014-08-21T19:20:31+00:00
-
- ## Centro Federal de Educação Tecnológica de Minas Gerais
- - [https://www.cefetmg.br](https://www.cefetmg.br)
- - date_published: 2024-07-13T18:13:18.016400+00:00
-
- ## Ceptro.br - Centro de Estudos e Pesquisas em Tecnologia de Redes e Operações
- - [https://ceptro.br](https://ceptro.br)
- - date_published: 2024-07-18T12:38:56.243002+00:00
-
- ## Cartilha de Segurança para Internet
- - [https://cartilha.cert.br](https://cartilha.cert.br)
- - date_published: 2024-07-18T03:05:01+00:00
-
- ## CERT.br - Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil
- - [https://cert.br](https://cert.br)
- - date_published: 2024-06-03T21:09:17+00:00
-
- ## Home
- - [https://cetic.br](https://cetic.br)
- - date_published: 2024-06-17T15:19:04+00:00
-
- ## Ceweb.br - Centro de Estudos sobre Tecnologias Web
- - [https://ceweb.br](https://ceweb.br)
- - date_published: 2024-04-24T09:50:06+00:00
-
- ## CGI.br - Comitê Gestor da Internet no Brasil
- - [https://cgi.br](https://cgi.br)
- - date_published: 2024-07-17T13:07:04+00:00
-
- ## Plataforma Integrada Carlos Chagas
- - [http://carloschagas.cnpq.br](http://carloschagas.cnpq.br)
- - date_published: 2013-03-05T14:04:39+00:00
-
- ## Centro de Memória - CNPq
- - [http://centrodememoria.cnpq.br](http://centrodememoria.cnpq.br)
- - date_published: 2008-11-12T18:13:06+00:00
-
- ## Bem vindo - CKAN
- - [http://dadosabertos.cnpq.br](http://dadosabertos.cnpq.br)
- - date_published: 2018-05-15T00:00:00+00:00
-
- ## Home - INCT
- - [http://inct.cnpq.br](http://inct.cnpq.br)
- - date_published: 2024-07-13T18:04:40.027259+00:00
-
- ## CNPq - Portal CNPq
- - [http://memoria2.cnpq.br](http://memoria2.cnpq.br)
- - date_published: 2024-07-13T18:04:46.191847+00:00
-
- ## Página Inicial
- - [https://cnpq.br](https://cnpq.br)
- - date_published: 2024-05-11T08:08:09.177336+00:00
-
- ## Everest - Sistema de Gestão da FAPEMIG
- - [http://everest.fapemig.br](http://everest.fapemig.br)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Fundação de Amparo à Pesquisa do Estado de Minas Gerais
- - [https://fapemig.br](https://fapemig.br)
- - date_published: 2024-05-11T08:08:13.082628+00:00
-
- ## Agência FAPESP
- - [https://agencia.fapesp.br](https://agencia.fapesp.br)
- - date_published: 2024-01-05T15:18:41.204636+00:00
-
- ## BV FAPESP - Biblioteca Virtual da FAPESP
- - [https://bv.fapesp.br](https://bv.fapesp.br)
- - date_published: 2024-06-27T17:22:47.734326+00:00
-
- ## Bem-vindo! | Centro de Memória FAPESP
- - [https://centrodememoria.fapesp.br](https://centrodememoria.fapesp.br)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo
- - [https://fapesp.br](https://fapesp.br)
- - date_published: 2024-06-27T17:22:03.741740+00:00
-
- ## FAPESP Na Mídia
- - [https://namidia.fapesp.br](https://namidia.fapesp.br)
- - date_published: 2024-08-18T07:17:52.239314+00:00
-
- ## Pesquisa para Inovação
- - [http://pesquisaparainovacao.fapesp.br](http://pesquisaparainovacao.fapesp.br)
- - date_published: 2024-08-18T07:17:58.395132+00:00
-
- ## Revista Pesquisa Fapesp
- - [http://revistapesquisa.fapesp.br](http://revistapesquisa.fapesp.br)
- - date_published: 2024-08-18T07:18:03.217717+00:00
-
- ## SAGe - Sistema de Apoio à Gestão do Fomento - Identificação
- - [https://sage.fapesp.br](https://sage.fapesp.br)
- - date_published: 2024-08-18T07:17:55.402218+00:00
-
- ## Entrar em FAPESP
- - [https://siaf.fapesp.br](https://siaf.fapesp.br)
- - date_published: 2024-08-18T07:17:46.229156+00:00
-
- ## CEE Fiocruz | CENTRO DE ESTUDOS ESTRATÉGICOS
- - [http://cee.fiocruz.br](http://cee.fiocruz.br)
- - date_published: 2024-06-21T19:42:05.162456+00:00
-
- ## Laps
- - [http://laps.ensp.fiocruz.br](http://laps.ensp.fiocruz.br)
- - date_published: 2024-06-21T19:42:12.481981+00:00
-
- ## Página Inicial
- - [http://portal.fiocruz.br](http://portal.fiocruz.br)
- - date_published: 2024-06-21T19:12:41+00:00
-
- ## Bem-vindo ao PIAP | PIAP
- - [https://portfoliodepraticas.epsjv.fiocruz.br](https://portfoliodepraticas.epsjv.fiocruz.br)
- - date_published: 2024-06-21T19:41:26.760886+00:00
-
- ## ENSP - Escola Nacional de Saúde Pública Sergio Arouca
- - [http://www.ensp.fiocruz.br](http://www.ensp.fiocruz.br)
- - date_published: 2024-06-21T19:41:57.023607+00:00
-
- ## Internet Segura
- - [https://internetsegura.br](https://internetsegura.br)
- - date_published: 2024-07-17T10:08:26+00:00
-
- ## IPv6
- - [http://ipv6.br](http://ipv6.br)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Login
- - [https://assinador.iti.br](https://assinador.iti.br)
- - date_published: 2024-05-10T03:45:53.589618+00:00
-
- ## IX.br
- - [https://ix.br](https://ix.br)
- - date_published: 2024-07-18T12:38:40.857528+00:00
-
- ## bcp.nic.br
- - [https://bcp.nic.br](https://bcp.nic.br)
- - date_published: 2024-07-18T12:38:11.979953+00:00
-
- ## Cidadão na Rede
- - [https://cidadaonarede.nic.br](https://cidadaonarede.nic.br)
- - date_published: 2024-07-18T12:38:30.754334+00:00
-
- ## Cursos e eventos NIC.br
- - [https://cursoseventos.nic.br](https://cursoseventos.nic.br)
- - date_published: 2024-07-18T12:38:48.493136+00:00
-
- ## Teste sua Velocidade de Internet | SIMET
- - [https://simet.nic.br](https://simet.nic.br)
- - date_published: 2023-08-31T15:29:16+00:00
-
- ## Teste para padrões técnicos modernos de Internet, como IPv6, DNSSEC, HTTPS, TLS, HSTS, DMARC, DKIM, SPF, STARTTLS e DANE.
- - [https://top.nic.br](https://top.nic.br)
- - date_published: 2024-07-18T12:38:51.187755+00:00
-
- ## Núcleo de Informação e Coordenação do Ponto BR - Início
- - [https://nic.br](https://nic.br)
- - date_published: 2024-05-14T03:51:51.865000+00:00
-
- ## IX.br
- - [https://ptt.br](https://ptt.br)
- - date_published: 2024-07-18T12:38:17.847584+00:00
-
- ## Ambiente de Aprendizagem Online da PUC-Rio: Acesso ao site
- - [https://ead.puc-rio.br](https://ead.puc-rio.br)
- - date_published: 2024-07-07T06:43:09.320864+00:00
-
- ## ECOA PUC-Rio educação digital
- - [https://ecoa.puc-rio.br](https://ecoa.puc-rio.br)
- - date_published: 2024-05-08T23:17:01+00:00
-
- ## Escritório de Processos
- - [https://ep.dsi.puc-rio.br](https://ep.dsi.puc-rio.br)
- - date_published: 2024-07-07T06:42:00.491430+00:00
-
- ## Página inicial | Núcleo de Memória
- - [http://nucleodememoria.vrac.puc-rio.br](http://nucleodememoria.vrac.puc-rio.br)
- - date_published: 2024-07-07T06:43:21+00:00
 

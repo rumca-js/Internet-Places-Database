@@ -1,3 +1,15 @@
+ ## Marten
+ - [https://marten-docs-v5.netlify.app](https://marten-docs-v5.netlify.app)
+ - date_published: 2024-08-07T18:46:45.016402+00:00
+
+ ## Marten
+ - [https://marten-docs-v6.netlify.app](https://marten-docs-v6.netlify.app)
+ - date_published: 2024-08-07T18:46:45.822915+00:00
+
+ ## Massif Press
+ - [https://massif-press.netlify.app](https://massif-press.netlify.app)
+ - date_published: 2024-07-14T17:26:53.721310+00:00
+
  ## The Art of Not Asking Why
  - [https://master--taonaw-blog.netlify.app](https://master--taonaw-blog.netlify.app)
  - date_published: 2024-08-06T19:22:13.487915+00:00
@@ -292,6 +304,10 @@
  ## San Diego Development
  - [https://sd-dev-list.netlify.app](https://sd-dev-list.netlify.app)
  - date_published: 2024-05-12T05:43:30.807301+00:00
+
+ ## Conway’s Game of Life
+ - [https://segdelife.netlify.app](https://segdelife.netlify.app)
+ - date_published: 2024-09-03T22:13:21.726299+00:00
 
  ## Hospitality & Restaurant Marketing & Operations Software | SevenRooms
  - [https://sevenrooms-marketing-site.netlify.app](https://sevenrooms-marketing-site.netlify.app)
@@ -1832,6 +1848,10 @@
  - [https://solid-movies.app](https://solid-movies.app)
  - date_published: 2024-06-23T03:22:51.413659+00:00
 
+ ## Sombras.app
+ - [https://sombras.app](https://sombras.app)
+ - date_published: 2024-09-03T21:42:11.624755+00:00
+
  ## Soon: Fully Automated Crypto Investing
  - [https://www.soon.app](https://www.soon.app)
  - date_published: 2024-06-07T00:00:00+00:00
@@ -1982,6 +2002,10 @@
  ## Interaktive Geschichten für Kinder und Jugendliche
  - [https://www.story-world.app](https://www.story-world.app)
  - date_published: 2024-05-15T00:00:00+00:00
+
+ ## STREAKS. The to-do list that helps you form good habits. For iOS.
+ - [https://streaks.app](https://streaks.app)
+ - date_published: 2024-05-01T01:38:09+00:00
 
  ## https://nl-compare.streamlit.app
  - [https://nl-compare.streamlit.app](https://nl-compare.streamlit.app)
@@ -2459,6 +2483,10 @@
  ## UFABET เว็บแทงบอลที่ดีที่สุด บาคาร่า ค่าคอม0.7% สล็อตแจ็คพอตง่าย- UFABET168
  - [https://www.ufabet168.app](https://www.ufabet168.app)
  - date_published: 2024-02-10T00:00:00+00:00
+
+ ## UFABET สมัครเว็บพนัน แทงบอล ออนไลน์ บาคาร่า คาสิโน ที่ดีที่สุด UFABET999
+ - [https://ufabet999.app](https://ufabet999.app)
+ - date_published: 2024-08-29T00:00:00+00:00
 
  ## Uibot — Infinite UI designs
  - [https://www.uibot.app](https://www.uibot.app)
@@ -2994,6 +3022,10 @@
  ## Vite + React + TS
  - [https://delta-inflight.vercel.app](https://delta-inflight.vercel.app)
  - date_published: 2024-05-04T14:13:13.818416+00:00
+
+ ## Depth of field
+ - [https://depth-of-field.vercel.app](https://depth-of-field.vercel.app)
+ - date_published: 2024-09-03T21:42:00.361507+00:00
 
  ## Device Simulator & Tester: Unleash Real Time Device Experience
  - [https://device-simulator.vercel.app](https://device-simulator.vercel.app)
@@ -3991,36 +4023,4 @@
  ## A Beautiful library of SVG logos
  - [https://svgl.vercel.app](https://svgl.vercel.app)
  - date_published: 2023-12-16T15:04:54+00:00
-
- ## Show HN: A fast OSS voice assistant
- - [https://swift-ai.vercel.app](https://swift-ai.vercel.app)
- - date_published: 2024-07-08T14:21:05+00:00
-
- ## Automatic Comments Generator
- - [https://swiftstart.vercel.app](https://swiftstart.vercel.app)
- - date_published: 2023-10-25T11:50:53.574901+00:00
-
- ## Home | Swing Music
- - [https://swingmusic.vercel.app](https://swingmusic.vercel.app)
- - date_published: 2024-06-19T22:10:07.685199+00:00
-
- ## React Hooks for Data Fetching – SWR
- - [https://swr.vercel.app](https://swr.vercel.app)
- - date_published: 2023-10-25T11:51:01.722399+00:00
-
- ## Syofyan Zuhad - Back-End Developer
- - [https://syofyan-profile.vercel.app](https://syofyan-profile.vercel.app)
- - date_published: 2024-05-11T10:21:09.398595+00:00
-
- ## Tabloid: the clickbait headline programming language
- - [https://tabloid-thesephist.vercel.app](https://tabloid-thesephist.vercel.app)
- - date_published: 2023-10-25T11:51:03.259656+00:00
-
- ## Tabloid: The Clickbait Headline Programming Language (2021)
- - [https://tabloid.vercel.app](https://tabloid.vercel.app)
- - date_published: 2024-07-15T00:12:59+00:00
-
- ## TaxGPT
- - [https://tax-gpt-theta.vercel.app](https://tax-gpt-theta.vercel.app)
- - date_published: 2024-04-30T02:13:51.969387+00:00
 

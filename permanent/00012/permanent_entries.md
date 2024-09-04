@@ -1,3 +1,203 @@
+ ## ImunizaJáCuritiba - Prefeitura de Curitiba
+ - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:53.636747+00:00
+
+ ## Prefeitura Municipal de Curitiba
+ - [https://curitiba.pr.gov.br](https://curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:09.478209+00:00
+
+ ## Secretaria Municipal da Educação
+ - [https://educacao.curitiba.pr.gov.br](https://educacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:18.932345+00:00
+
+ ## Fala Curitiba - Prefeitura de Curitiba
+ - [https://fala.curitiba.pr.gov.br](https://fala.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:10.734623+00:00
+
+ ## Gabinete do Prefeito - Prefeitura de Curitiba
+ - [https://gabineteprefeito.curitiba.pr.gov.br](https://gabineteprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:53.608945+00:00
+
+ ## Gabinete do Vice-Prefeito - Prefeitura de Curitiba
+ - [https://gabineteviceprefeito.curitiba.pr.gov.br](https://gabineteviceprefeito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:21.324685+00:00
+
+ ## Guia - Prefeitura de Curitiba
+ - [https://guia.curitiba.pr.gov.br](https://guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:49.203800+00:00
+
+ ## Home Page - ICICore.Servidor
+ - [https://hubchat-siac156.curitiba.pr.gov.br](https://hubchat-siac156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:23.930507+00:00
+
+ ## IMAP
+ - [http://imap.curitiba.pr.gov.br](http://imap.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:11.734092+00:00
+
+ ## Consulta Externa de Atos
+ - [https://legisladocexterno.curitiba.pr.gov.br](https://legisladocexterno.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:27.832937+00:00
+
+ ## mid-guia.curitiba.pr.gov.br - /
+ - [https://mid-guia.curitiba.pr.gov.br](https://mid-guia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:43.588967+00:00
+
+ ## mid-servidor.curitiba.pr.gov.br - /
+ - [https://mid-servidor.curitiba.pr.gov.br](https://mid-servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:19:55.374914+00:00
+
+ ## Turismo - Prefeitura de Curitiba
+ - [https://mid-turismo.curitiba.pr.gov.br](https://mid-turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:52.463670+00:00
+
+ ## Orçamento e Planejamento
+ - [https://orcamentos.curitiba.pr.gov.br](https://orcamentos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:01.327323+00:00
+
+ ## Portal dos Conselhos
+ - [http://portaldosconselhos.curitiba.pr.gov.br](http://portaldosconselhos.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:05.549511+00:00
+
+ ## Portal do Servidor de Curitiba
+ - [https://servidor.curitiba.pr.gov.br](https://servidor.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:57.625983+00:00
+
+ ## Trânsito - Secretaria Municipal de Defesa Social e Trânsito
+ - [https://transito.curitiba.pr.gov.br](https://transito.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:28.545524+00:00
+
+ ## Instituto Municipal de Turismo de Curitiba
+ - [https://turismo.curitiba.pr.gov.br](https://turismo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:47.891023+00:00
+
+ ## Home - Agência Curitiba
+ - [http://www.agencia.curitiba.pr.gov.br](http://www.agencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Portal da Transparência da Prefeitura de Curitiba
+ - [https://www.transparencia.curitiba.pr.gov.br](https://www.transparencia.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:16.818256+00:00
+
+ ## URBS - Urbanização de Curitiba
+ - [https://www.urbs.curitiba.pr.gov.br](https://www.urbs.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:17:58.059160+00:00
+
+ ## Home
+ - [https://emanoel.pro.br](https://emanoel.pro.br)
+ - date_published: 2024-06-10T12:02:18+00:00
+
+ ## Eriberto Mota
+ - [https://eriberto.pro.br](https://eriberto.pro.br)
+ - date_published: 2024-07-09T07:56:43.300230+00:00
+
+ ## Paulo Ghiraldelli
+ - [https://ghiraldelli.pro.br](https://ghiraldelli.pro.br)
+ - date_published: 2024-05-07T18:22:04.178518+00:00
+
+ ## Sérgio Ferreira de Lima, Sérgio F. Lima, Sérgio Lima, oigreslima
+ - [https://sfl.pro.br](https://sfl.pro.br)
+ - date_published: 2024-07-28T21:02:03+00:00
+
+ ## SHOUTcast Server
+ - [https://nos.radio.br](https://nos.radio.br)
+ - date_published: 2017-08-24T00:00:00+00:00
+
+ ## Expointer
+ - [https://www.expointer.rs.gov.br](https://www.expointer.rs.gov.br)
+ - date_published: 2024-08-18T12:22:01.415893+00:00
+
+ ## Início - Prefeitura de São Paulo - Prefeitura
+ - [https://www.capital.sp.gov.br](https://www.capital.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Investe SP - Portal de Investimentos do Estado de São Paulo
+ - [https://www.investe.sp.gov.br](https://www.investe.sp.gov.br)
+ - date_published: 2024-06-26T21:57:36.307248+00:00
+
+ ## Início - Prefeitura de São Paulo - Prefeitura
+ - [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | Governo do Estado de São Paulo
+ - [https://www.saopaulo.sp.gov.br](https://www.saopaulo.sp.gov.br)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Baffa-2+ Computer
+ - [https://baffa-2p.baffa.tec.br](https://baffa-2p.baffa.tec.br)
+ - date_published: 2023-11-23T03:00:00+00:00
+
+ ## Baffa Homebrew Projects
+ - [https://computers.baffa.tec.br](https://computers.baffa.tec.br)
+ - date_published: 2023-11-23T03:00:00+00:00
+
+ ## Login  - Mídia de Impacto
+ - [http://painel.sintonizar.tv.br](http://painel.sintonizar.tv.br)
+ - date_published: 2024-08-11T19:59:20.739428+00:00
+
+ ## BANCO BRADESCO | Desafie o futuro
+ - [https://banco.bradesco](https://banco.bradesco)
+ - date_published: 2024-07-09T19:15:33.297619+00:00
+
+ ## Darmowe szablony do wydrukowania i dostosowywania | Creative Center
+ - [https://www.creativecenter.brother](https://www.creativecenter.brother)
+ - date_published: 2024-05-02T11:28:15.164126+00:00
+
+ ## Industrial Garment Printer | Brother
+ - [https://garmentprinter.global.brother](https://garmentprinter.global.brother)
+ - date_published: 2024-05-02T11:35:25.463119+00:00
+
+ ## Welcome to Brother Global
+ - [https://global.brother](https://global.brother)
+ - date_published: 2024-05-02T11:25:26.280633+00:00
+
+ ## Industrial Sewing Machine | Brother
+ - [https://industrialsewingmachine.global.brother](https://industrialsewingmachine.global.brother)
+ - date_published: 2024-05-02T11:29:39.596747+00:00
+
+ ## Machine Tools | Brother
+ - [https://machinetool.global.brother](https://machinetool.global.brother)
+ - date_published: 2024-05-02T11:22:53.110007+00:00
+
+ ## Brother Group SDGs Special Site: Brother SDGs story
+ - [https://sdgsstory.global.brother](https://sdgsstory.global.brother)
+ - date_published: 2024-06-17T21:02:35.762480+00:00
+
+ ## Welcome on the website of the Brussels Capital-Region
+ - [https://be.brussels](https://be.brussels)
+ - date_published: 2024-07-02T23:04:50.140871+00:00
+
+ ## FEDER - Feder BXL
+ - [https://feder.brussels](https://feder.brussels)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Innoviris
+ - [https://innoviris.brussels](https://innoviris.brussels)
+ - date_published: 2024-07-07T09:21:41+00:00
+
+ ## Homepage
+ - [https://kanal.brussels](https://kanal.brussels)
+ - date_published: 2019-06-05T08:29:09+00:00
+
+ ## React Brussels | Brussels & Online
+ - [https://www.react.brussels](https://www.react.brussels)
+ - date_published: 2024-06-20T07:07:54.339815+00:00
+
+ ## Wikimedia Europe
+ - [https://wikimedia.brussels](https://wikimedia.brussels)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.bs](https://maps.google.bs)
+ - date_published: 2024-07-20T07:39:27.116520+00:00
+
+ ## Google
+ - [https://www.google.bs](https://www.google.bs)
+ - date_published: 2024-06-21T22:23:48.282701+00:00
+
+ ## https://www.bahamas.gov.bs
+ - [https://bahamas.gov.bs](https://bahamas.gov.bs)
+ - date_published: 2022-11-04T10:38:51+00:00
+
  ## Grafika Google
  - [https://images.google.bt](https://images.google.bt)
  - date_published: 2024-07-20T07:41:25.555968+00:00
@@ -705,6 +905,10 @@
  ## Sergio Benitez - Who Am I?
  - [https://sergio.bz](https://sergio.bz)
  - date_published: 2024-06-04T05:44:26+00:00
+
+ ## skoo.bz
+ - [https://skoo.bz](https://skoo.bz)
+ - date_published: 2024-09-02T00:00:00+00:00
 
  ## Erfolgreich auf Google werden - trustfactory.de
  - [https://trustfactory.bz](https://trustfactory.bz)
@@ -1762,6 +1966,10 @@
  - [http://bsdly.blogspot.ca](http://bsdly.blogspot.ca)
  - date_published: 2024-08-16T01:07:17+00:00
 
+ ## C0DE517E
+ - [http://c0de517e.blogspot.ca](http://c0de517e.blogspot.ca)
+ - date_published: 2024-09-02T08:07:15+00:00
+
  ## Commonsense & Wonder
  - [http://commonsensewonder.blogspot.ca](http://commonsensewonder.blogspot.ca)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -1789,6 +1997,10 @@
  ## bezprawie
  - [http://faxe1.blogspot.ca](http://faxe1.blogspot.ca)
  - date_published: 2024-03-13T17:15:50+00:00
+
+ ## The Brain Dump
+ - [http://flohofwoe.blogspot.ca](http://flohofwoe.blogspot.ca)
+ - date_published: 2024-09-02T08:55:59+00:00
 
  ## The infrequent ramblings of a casual wargamer and hobbyist
  - [http://fullashtraygaming.blogspot.ca](http://fullashtraygaming.blogspot.ca)
@@ -1825,6 +2037,10 @@
  ## Nerd Ralph
  - [http://nerdralph.blogspot.ca](http://nerdralph.blogspot.ca)
  - date_published: 2024-07-07T13:13:23+00:00
+
+ ## Nie znaleziono bloga
+ - [http://nerds-central.blogspot.ca](http://nerds-central.blogspot.ca)
+ - date_published: 2024-09-03T21:39:19.248540+00:00
 
  ## Past Times and Present Tensions
  - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
@@ -2437,6 +2653,10 @@
  ## https://cdrom.ca
  - [https://cdrom.ca](https://cdrom.ca)
  - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Celebration Generation
+ - [http://celebrationgeneration.ca](http://celebrationgeneration.ca)
+ - date_published: 2024-09-03T15:50:13+00:00
 
  ## Centre Bell
  - [http://www.centrebell.ca](http://www.centrebell.ca)
@@ -3293,6 +3513,10 @@
  - [https://static.dmoj.ca](https://static.dmoj.ca)
  - date_published: 2017-11-27T01:46:00+00:00
 
+ ## Domain Names | Dncanada Inc.
+ - [https://www.dncanada.ca](https://www.dncanada.ca)
+ - date_published: 2024-09-03T21:19:47.634443+00:00
+
  ## Dodge Vehicles, Muscle Cars and Crossovers | Dodge Canada
  - [https://www.dodge.ca](https://www.dodge.ca)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -3798,232 +4022,4 @@
  ## ferd.ca
  - [https://ferd.ca](https://ferd.ca)
  - date_published: 2023-10-25T12:04:53.238516+00:00
-
- ## FilKONtario – Ontario's Science Fiction and Fantasy Music Festival
- - [http://www.filkontario.ca](http://www.filkontario.ca)
- - date_published: 2024-06-19T09:45:09.097307+00:00
-
- ## Film Brockville - The Films
- - [https://filmbrockville.ca](https://filmbrockville.ca)
- - date_published: 2024-04-13T16:55:56+00:00
-
- ## Finbarr Timbers
- - [https://finbarr.ca](https://finbarr.ca)
- - date_published: 2023-10-25T08:42:53.636850+00:00
- - tags: ['personal']
-
- ## Fireplaces in Canada, Canada
- - [http://www.fireplaces.ca](http://www.fireplaces.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home - FireSmoke.ca
- - [https://firesmoke.ca](https://firesmoke.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home
- - [https://fitc.ca](https://fitc.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Physiotherapy | Massage Therapy Grand Valley & Brampton | Chiropractic Care
- - [https://fitclinic.ca](https://fitclinic.ca)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Fitness Clubs for 2020 | Fitness-Clubs.ca Plumbers and Plumbing Contractors for 2020 | Fitness-Clubs.ca
- - [http://www.fitness-clubs.ca](http://www.fitness-clubs.ca)
- - date_published: 2024-06-29T17:34:46.248251+00:00
-
- ## Under Construction fitness-equipment.ca
- - [http://www.fitness-equipment.ca](http://www.fitness-equipment.ca)
- - date_published: 2024-06-29T17:34:30.882942+00:00
-
- ## fitzhugh
- - [https://fitzhugh.ca](https://fitzhugh.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Fjallraven Online Store
- - [https://fjallraven.ca](https://fjallraven.ca)
- - date_published: 2024-06-23T03:59:13.143650+00:00
-
- ## Livescore mobile - live  scores at Flashscore.ca
- - [http://m.flashscore.ca](http://m.flashscore.ca)
- - date_published: 2024-07-13T13:22:26.074551+00:00
-
- ## Flashscore.ca: NHL, OHL, WHL, NBA, MLB, MLS
- - [https://flashscore.ca](https://flashscore.ca)
- - date_published: 2024-05-11T07:35:43.981050+00:00
-
- ## Flavorcan International Inc. - The Good Taste People
- - [http://www.flavorcan.ca](http://www.flavorcan.ca)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## FlixBus: Voyages en bus pas chers en France & Europe dès 2,99€
- - [https://fr.flixbus.ca](https://fr.flixbus.ca)
- - date_published: 2024-06-12T12:32:06+00:00
-
- ## FlixBus: Low Cost Bus Travel in Canada
- - [https://www.flixbus.ca](https://www.flixbus.ca)
- - date_published: 2024-06-12T12:32:04+00:00
-
- ## Top 5 Top 5 Toronto Flooring Contractors for 2020 | Flooring.ca Plumbers and Plumbing Contractors for 2020 | Flooring.ca
- - [http://www.flooring.ca](http://www.flooring.ca)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Floral Express Wholesale - Freshness Delivered
- - [https://webshop.floralexpress.ca](https://webshop.floralexpress.ca)
- - date_published: 2024-08-11T04:37:58.858287+00:00
-
- ## Floral Express Wholesale | Wholesale Flowers and Floral Supplies
- - [https://floralexpress.ca](https://floralexpress.ca)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Federation of Law Societies of Canada - Governing Canada's Legal Profession
- - [http://www.flsc.ca](http://www.flsc.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Flyercity Flyers | Weekly Groceries, Fashion, Electronics, Health & Beauty, Home & Garden, Home Décor & Sporting Goods Online Flyer Sales | Browse your local flyers in the comfort of your home | Flyercity.ca
- - [https://www.flyercity.ca](https://www.flyercity.ca)
- - date_published: 2024-06-14T23:43:57.125832+00:00
-
- ## Flyertown | Flyertown
- - [https://www.flyertown.ca](https://www.flyertown.ca)
- - date_published: 2024-06-21T19:45:09.541787+00:00
-
- ## Accueil | L’Hôpital d’Ottawa
- - [https://fondationho.ca](https://fondationho.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home
- - [https://www.fool.ca](https://www.fool.ca)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Finance or Lease Ford Vehicles and Apply for Ford Credit | Official Site of Ford Credit Canada
- - [https://credit.ford.ca](https://credit.ford.ca)
- - date_published: 2024-06-19T17:10:48.048534+00:00
-
- ## Ford Canada – New Cars, Trucks, SUVs, Hybrids & Crossovers
- - [https://shop.ford.ca](https://shop.ford.ca)
- - date_published: 2024-06-19T12:15:50+00:00
-
- ## Ford Canada – New Cars, Trucks, SUVs, Hybrids & Crossovers
- - [http://www.ford.ca](http://www.ford.ca)
- - date_published: 2024-06-19T12:15:50+00:00
-
- ## Forest Anderson - Backend Developer
- - [https://www.forest-anderson.ca](https://www.forest-anderson.ca)
- - date_published: 2021-05-21T01:26:29+00:00
-
- ## Home
- - [https://www.fortedmontonpark.ca](https://www.fortedmontonpark.ca)
- - date_published: 2024-07-08T11:26:41.383165+00:00
-
- ## Colin Woodbury - About
- - [https://www.fosskers.ca](https://www.fosskers.ca)
- - date_published: 2024-01-29T23:02:20.819692+00:00
-
- ## Home | Foster & Associates
- - [https://www.fostergroup.ca](https://www.fostergroup.ca)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Fox Racing® Canada | Official Site
- - [https://foxracing.ca](https://foxracing.ca)
- - date_published: 2024-06-15T11:59:44.751010+00:00
-
- ## Cierpliwości...
- - [https://framcon.ca](https://framcon.ca)
- - date_published: 2024-04-30T05:14:35.299862+00:00
-
- ## Homepage
- - [https://www.franklincovey.ca](https://www.franklincovey.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Portal Home - FranTech
- - [https://my.frantech.ca](https://my.frantech.ca)
- - date_published: 2024-05-04T05:50:03.883976+00:00
-
- ## Financial Reporting and Assurance Standards Canada
- - [https://www.frascanada.ca](https://www.frascanada.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Select Language | City of Fredericton
- - [https://fredericton.ca](https://fredericton.ca)
- - date_published: 2024-05-10T02:41:14.415794+00:00
-
- ## Welcome to Opioid, USA
- - [https://www.freedommag.ca](https://www.freedommag.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Hire Freelancers & Find Freelance Jobs Online
- - [https://www.freelancer.ca](https://www.freelancer.ca)
- - date_published: 2024-06-16T12:02:13.386225+00:00
-
- ## Freetrade - Soon launching in Canada
- - [https://freetrade.ca](https://freetrade.ca)
- - date_published: 2023-06-20T00:00:00+00:00
-
- ## Fresh Prep | Meal Kit service delivering to Vancouver and Calgary
- - [https://try.freshprep.ca](https://try.freshprep.ca)
- - date_published: 2024-06-27T13:06:56.723203+00:00
-
- ## friendica – A Decentralized Social Network
- - [https://friendi.ca](https://friendi.ca)
- - date_published: 2024-06-19T22:13:12.469601+00:00
-
- ## froghat.ca
- - [https://froghat.ca](https://froghat.ca)
- - date_published: 2023-10-25T09:02:17.770370+00:00
- - tags: ['personal']
-
- ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
- - [https://frogheart.ca](https://frogheart.ca)
- - date_published: 2024-05-11T07:52:34.040651+00:00
-
- ## Home
- - [https://www.fslabs.ca](https://www.fslabs.ca)
- - date_published: 2024-03-13T11:24:16+00:00
-
- ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
- - [https://www.fsrao.ca](https://www.fsrao.ca)
- - date_published: 2024-06-16T06:19:41+00:00
-
- ## FTFL.CA
- - [http://ftfl.ca](http://ftfl.ca)
- - date_published: 2022-11-17T21:43:13+00:00
-
- ## Home
- - [https://www.fulbright.ca](https://www.fulbright.ca)
- - date_published: 2024-07-14T05:11:53.844102+00:00
-
- ## Fund Our Health Care
- - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
- - date_published: 2024-07-08T16:52:44.200065+00:00
-
- ## Funerals in Canada, Canada
- - [http://www.funerals.ca](http://www.funerals.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Furius Enterprises
- - [http://furius.ca](http://furius.ca)
- - date_published: 2021-10-23T18:38:30+00:00
- - tags: ['personal']
-
- ## Future North
- - [https://futurenorth.ca](https://futurenorth.ca)
- - date_published: 2024-07-18T08:23:01+00:00
-
- ## Find businesses and services in Canada
- - [https://www.fyple.ca](https://www.fyple.ca)
- - date_published: 2024-06-29T18:25:40.904229+00:00
-
- ## Ontario G1 Practice Test Online
- - [https://www.g1.ca](https://www.g1.ca)
- - date_published: 2024-09-02T07:30:15+00:00
-
- ## Tim Gadanidis - Home
- - [https://gadanidis.ca](https://gadanidis.ca)
- - date_published: 2023-10-25T08:42:54.581662+00:00
- - tags: ['personal']
-
- ## Galleries West — Your link to directories of art galleries, lists of art exhibitions and the visual arts scene in Western Canada.
- - [https://www.gallerieswest.ca](https://www.gallerieswest.ca)
- - date_published: 2024-07-20T17:54:46.315028+00:00
 

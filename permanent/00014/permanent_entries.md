@@ -1,3 +1,242 @@
+ ## Sencia Canada Ltd. - Thunder Bay Web Design & Development
+ - [http://www.sencia.ca](http://www.sencia.ca)
+ - date_published: 2024-08-19T07:14:02.413682+00:00
+
+ ## SEO Agency in Ottawa, Canada | SEO Services | SEO North
+ - [https://seonorth.ca](https://seonorth.ca)
+ - date_published: 2023-10-25T12:06:42.751440+00:00
+ - tags: ['seo', 'company']
+
+ ## Servus Credit Union
+ - [https://ib.servus.ca](https://ib.servus.ca)
+ - date_published: 2024-06-16T07:45:05.347828+00:00
+
+ ## Life - Servus Credit Union
+ - [https://servus.ca](https://servus.ca)
+ - date_published: 2024-06-16T07:45:07.775862+00:00
+
+ ## Sexshops in Canada, Canada
+ - [http://www.sexshops.ca](http://www.sexshops.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - SFU Beedie School of Business
+ - [https://beedie.sfu.ca](https://beedie.sfu.ca)
+ - date_published: 2024-04-30T05:13:05.722776+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://canvas.sfu.ca](https://canvas.sfu.ca)
+ - date_published: 2024-04-30T05:13:09.085968+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://cas.sfu.ca](https://cas.sfu.ca)
+ - date_published: 2024-07-21T09:38:14.346852+00:00
+
+ ## SFU Future Students
+ - [https://community.sfu.ca](https://community.sfu.ca)
+ - date_published: 2023-07-22T09:39:23+00:00
+
+ ## Error
+ - [http://connect.sfu.ca](http://connect.sfu.ca)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## SFU Library Databases
+ - [https://databases.lib.sfu.ca](https://databases.lib.sfu.ca)
+ - date_published: 2024-06-28T13:12:17+00:00
+
+ ## Digital Humanities Innovation Lab: Home | SFU Library
+ - [https://dhil.lib.sfu.ca](https://dhil.lib.sfu.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## SFU Digitized Collections
+ - [https://digital.lib.sfu.ca](https://digital.lib.sfu.ca)
+ - date_published: 2024-05-07T10:25:38.935876+00:00
+
+ ## PKP Community Forum
+ - [https://forum.pkp.sfu.ca](https://forum.pkp.sfu.ca)
+ - date_published: 2024-06-17T19:21:34.125861+00:00
+
+ ## Home | Open Problem Garden
+ - [http://garden.irmacs.sfu.ca](http://garden.irmacs.sfu.ca)
+ - date_published: 2024-06-30T08:27:15+00:00
+
+ ## SFU Advancement & Alumni Engagement
+ - [https://give.sfu.ca](https://give.sfu.ca)
+ - date_published: 2024-04-30T05:13:12.322242+00:00
+
+ ## Graduate Studies
+ - [https://gograd.sfu.ca](https://gograd.sfu.ca)
+ - date_published: 2024-08-19T22:13:59+00:00
+
+ ## goSFU
+ - [https://go.sfu.ca](https://go.sfu.ca)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## GrUVi - Home
+ - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
+ - date_published: 2023-11-25T18:10:18.335704+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://mail.sfu.ca](https://mail.sfu.ca)
+ - date_published: 2024-04-30T05:13:21.704382+00:00
+
+ ## MultiON EAI Challenge CVPR 2024
+ - [http://multion-challenge.cs.sfu.ca](http://multion-challenge.cs.sfu.ca)
+ - date_published: 2024-04-18T12:36:15+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://my.sfu.ca](https://my.sfu.ca)
+ - date_published: 2024-07-21T09:38:18.154826+00:00
+
+ ## Public Knowledge Project
+ - [https://pkp.sfu.ca](https://pkp.sfu.ca)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Library Search
+ - [https://search.lib.sfu.ca](https://search.lib.sfu.ca)
+ - date_published: 2024-07-21T09:39:20.526439+00:00
+
+ ## SFU Advancement & Alumni Engagement
+ - [https://secure.give.sfu.ca](https://secure.give.sfu.ca)
+ - date_published: 2024-07-21T09:38:27.552050+00:00
+
+ ## ITServices
+ - [https://services.sfu.ca](https://services.sfu.ca)
+ - date_published: 2024-08-19T22:14:22.257092+00:00
+
+ ## Simon Fraser University
+ - [https://sfu.ca](https://sfu.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## goSFU
+ - [https://sims.erp.sfu.ca](https://sims.erp.sfu.ca)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://staff.lib.sfu.ca](https://staff.lib.sfu.ca)
+ - date_published: 2024-06-29T10:03:16.129198+00:00
+
+ ## Home | Summit Research Repository
+ - [https://summit.sfu.ca](https://summit.sfu.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Welcome!
+ - [https://theses.lib.sfu.ca](https://theses.lib.sfu.ca)
+ - date_published: 2024-06-13T18:04:39.173849+00:00
+
+ ## Computing Science
+ - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
+ - date_published: 2023-11-05T04:50:03.089549+00:00
+
+ ## Computing Science
+ - [https://cs.sfu.ca](https://cs.sfu.ca)
+ - date_published: 2024-04-28T03:42:06.531645+00:00
+
+ ## Home | SFU Library
+ - [https://lib.sfu.ca](https://lib.sfu.ca)
+ - date_published: 2024-04-30T05:12:27.103899+00:00
+
+ ## dutchDesign2017
+ - [http://2017.sfudutchdesign.ca](http://2017.sfudutchdesign.ca)
+ - date_published: 2017-08-11T00:23:40+00:00
+
+ ## SGI CANADA - SGI CANADA - Liferay DXP prd01
+ - [https://www.sgicanada.ca](https://www.sgicanada.ca)
+ - date_published: 2024-07-11T17:15:57.576971+00:00
+
+ ## StraightGoods.ca
+ - [https://sgnews.ca](https://sgnews.ca)
+ - date_published: 2015-07-04T01:32:16+00:00
+
+ ## Home - Shad Canada
+ - [https://shad.ca](https://shad.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## ShadMerch
+ - [https://swag.shad.ca](https://swag.shad.ca)
+ - date_published: 2024-08-09T03:53:48.133891+00:00
+
+ ## sheer spite press - sheer spite press
+ - [https://sheerspite.ca](https://sheerspite.ca)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## SheHacksPurple
+ - [https://shehackspurple.ca](https://shehackspurple.ca)
+ - date_published: 2024-05-01T03:48:47.291779+00:00
+ - tags: ['personal']
+
+ ## Shelf Life Books
+ - [https://store.shelflifebooks.ca](https://store.shelflifebooks.ca)
+ - date_published: 2024-05-12T07:12:49.762448+00:00
+
+ ## Sign in to your account
+ - [http://speakingbiz.sheridancollege.ca](http://speakingbiz.sheridancollege.ca)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## $name
+ - [https://www.sheridancollege.ca](https://www.sheridancollege.ca)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Shopico.ca - Ensemble pour l'économie locale
+ - [https://shopico.ca](https://shopico.ca)
+ - date_published: 2024-05-10T02:40:56.514738+00:00
+
+ ## Start and grow your e-commerce business - 3-Day Free Trial
+ - [https://www.shopify.ca](https://www.shopify.ca)
+ - date_published: 2024-06-23T05:58:17.875196+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.shopngc.ca](https://www.shopngc.ca)
+ - date_published: 2024-07-19T22:13:43.028830+00:00
+
+ ## Travel MB
+ - [https://shoptravelmb.ca](https://shoptravelmb.ca)
+ - date_published: 2024-07-21T07:56:47.456240+00:00
+
+ ## Showboard
+ - [https://showboard.ca](https://showboard.ca)
+ - date_published: 2024-06-09T19:19:33+00:00
+ - tags: ['bookmark manager']
+
+ ## Watch TV Shows Online | Stream Showcase Live TV and Full Episodes
+ - [http://www.showcase.ca](http://www.showcase.ca)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Siding in Canada, Canada
+ - [http://www.siding.ca](http://www.siding.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Silo 57 | Inspirations décoration, roadtrip, resto & plus
+ - [https://www.silo57.ca](https://www.silo57.ca)
+ - date_published: 2024-08-19T08:10:42.064423+00:00
+
+ ## Home
+ - [https://simonandrews.ca](https://simonandrews.ca)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster Canada | Simon & Schuster Canada
+ - [https://www.simonandschuster.ca](https://www.simonandschuster.ca)
+ - date_published: 2023-10-25T12:07:24.063919+00:00
+
+ ## Home Decor, Home Goods and Furniture | Simone & Ivy | Alberta, Canada
+ - [https://simoneandivy.ca](https://simoneandivy.ca)
+ - date_published: 2024-08-11T21:38:02.023106+00:00
+
+ ## Really Great Tax Filing Software 2023 |  CRA & NETFILE-certified
+ - [https://simpletax.ca](https://simpletax.ca)
+ - date_published: 2024-06-16T15:05:41.978843+00:00
+
+ ## Login - SimplyCast.ca
+ - [https://app.simplycast.ca](https://app.simplycast.ca)
+ - date_published: 2024-06-16T09:01:21.817957+00:00
+
+ ## Sing UI
+ - [https://singui.ca](https://singui.ca)
+ - date_published: 2022-06-15T16:14:37+00:00
+
+ ## SIXT rent a car - Fast & Convenient Car Rentals
+ - [https://www.sixt.ca](https://www.sixt.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
  ## Dianne Skoll's Web Site
  - [https://dianne.skoll.ca](https://dianne.skoll.ca)
  - date_published: 2024-06-18T12:43:52.235971+00:00
@@ -68,6 +307,10 @@
  - [https://snook.ca](https://snook.ca)
  - date_published: 2024-05-06T00:00:00+00:00
 
+ ## snork.ca... Welcome to the brown age of computing!
+ - [https://snork.ca](https://snork.ca)
+ - date_published: 2024-09-03T23:16:00.719258+00:00
+
  ## Home - SOCAN
  - [http://www.socan.ca](http://www.socan.ca)
  - date_published: 2024-06-23T00:00:00+00:00
@@ -83,6 +326,10 @@
  ## Home - Software You Can Love
  - [https://softwareyoucanlove.ca](https://softwareyoucanlove.ca)
  - date_published: 2023-07-05T17:24:59+00:00
+
+ ## songho.ca
+ - [http://www.songho.ca](http://www.songho.ca)
+ - date_published: 2024-06-05T22:43:24+00:00
 
  ## CEC — Welcome
  - [https://cec.sonus.ca](https://cec.sonus.ca)
@@ -3777,249 +4024,4 @@
  ## Calumet College
  - [http://calumet.yorku.ca](http://calumet.yorku.ca)
  - date_published: 2024-07-21T08:04:47.828687+00:00
-
- ## Career Centre | We help connect York University students and new graduates with career opportunities!
- - [https://careers.yorku.ca](https://careers.yorku.ca)
- - date_published: 2024-05-09T06:47:47.200130+00:00
-
- ## University Information Technology (UIT) | Something goes here....
- - [http://computing.yorku.ca](http://computing.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Homepage
- - [https://continue.yorku.ca](https://continue.yorku.ca)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Student Counselling, Health & Well-being | Division of Students | York University
- - [https://counselling.students.yorku.ca](https://counselling.students.yorku.ca)
- - date_published: 2024-07-09T21:37:03.374255+00:00
-
- ## Passport York Login
- - [https://coursestatus.yorku.ca](https://coursestatus.yorku.ca)
- - date_published: 2024-07-09T21:37:05.659224+00:00
-
- ## Current Students | Division of Students | York University
- - [https://currentstudents.yorku.ca](https://currentstudents.yorku.ca)
- - date_published: 2024-04-30T05:32:23.896619+00:00
-
- ## Organizational Unit and Designate List
- - [http://designates.apps06.yorku.ca](http://designates.apps06.yorku.ca)
- - date_published: 2024-07-21T08:03:45.097874+00:00
-
- ## York University - Shibboleth - Loading Session Information
- - [https://eclass.yorku.ca](https://eclass.yorku.ca)
- - date_published: 2024-04-30T05:32:18.223282+00:00
-
- ## Upcoming Events at York University
- - [https://events.yorku.ca](https://events.yorku.ca)
- - date_published: 2024-03-12T17:42:35.149483+00:00
-
- ## MachForm Admin Panel
- - [https://forms.students.yorku.ca](https://forms.students.yorku.ca)
- - date_published: 2024-07-21T07:57:11.379215+00:00
-
- ## Your Future Starts Here | Future Students | York University
- - [https://futurestudents.yorku.ca](https://futurestudents.yorku.ca)
- - date_published: 2024-04-30T05:31:58.274621+00:00
-
- ## Google Apps at York
- - [https://google.info.yorku.ca](https://google.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Welcome to the Snowden Digital Surveillance Archive · Snowden Archive
- - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
- - date_published: 2024-05-29T08:29:45+00:00
- - tags: ['surveillance', 'edward snowden']
-
- ## Information Security at York | UIT Information Security York University
- - [https://infosec.yorku.ca](https://infosec.yorku.ca)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Your Suggestions are Welcome | University Information Technology (UIT)
- - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Las Nubes Project - Las Nubes Project
- - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## York University Library Home - York University Libraries
- - [https://library.yorku.ca](https://library.yorku.ca)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Passport York Login
- - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
- - date_published: 2024-07-09T21:36:21.138746+00:00
-
- ## Winter 2024 - The York University Magazine
- - [https://magazine.yorku.ca](https://magazine.yorku.ca)
- - date_published: 2024-04-30T05:32:16.159127+00:00
-
- ## Moodle
- - [https://moodle.yorku.ca](https://moodle.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Passport York Login
- - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
- - date_published: 2024-07-09T21:36:19.297449+00:00
-
- ## News | York University
- - [https://news.yorku.ca](https://news.yorku.ca)
- - date_published: 2024-04-30T05:32:10.631393+00:00
-
- ## OSAP (Ontario Student Assistance Program) | OSAP | York University
- - [http://osap.students.yorku.ca](http://osap.students.yorku.ca)
- - date_published: 2024-07-21T07:57:32.808693+00:00
-
- ## OSAP (Ontario Student Assistance Program) | OSAP | York University
- - [https://osap.yorku.ca](https://osap.yorku.ca)
- - date_published: 2024-07-21T07:57:34.441566+00:00
-
- ## University Information Technology (UIT) | Something goes here....
- - [https://passportyork.yorku.ca](https://passportyork.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Classics in the History of Psychology
- - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
- - date_published: 2024-01-06T17:40:41.073576+00:00
-
- ## Passport York Login
- - [https://psychology.blog.yorku.ca](https://psychology.blog.yorku.ca)
- - date_published: 2024-07-21T08:04:39.553865+00:00
-
- ## Registrar's Office - Home | Registrar's Office | York University
- - [https://registrar.yorku.ca](https://registrar.yorku.ca)
- - date_published: 2024-07-09T21:36:57.398233+00:00
-
- ## Welcome! - Centre for Human Rights, Equity and Inclusion
- - [https://rights.info.yorku.ca](https://rights.info.yorku.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Canada’s #1 Business School | Schulich School of Business
- - [https://schulich.yorku.ca](https://schulich.yorku.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## York Search Results - York University
- - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Secretariat Policies
- - [https://secretariat-policies.info.yorku.ca](https://secretariat-policies.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Student Financial Services - Home | Student Financial Services | York University
- - [https://sfs.yorku.ca](https://sfs.yorku.ca)
- - date_published: 2024-04-30T05:32:28.949793+00:00
-
- ## Faculty & Staff Services | University Information Technology (UIT)
- - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Current Students | Division of Students | York University
- - [https://students.yorku.ca](https://students.yorku.ca)
- - date_published: 2024-07-21T07:57:23.196380+00:00
-
- ## UPSA
- - [http://upsa.club.yorku.ca](http://upsa.club.yorku.ca)
- - date_published: 2024-07-21T08:04:42.456648+00:00
-
- ## WordPress at York
- - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## William van Wijngaarden – Lasers and Physics will blow your mind
- - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
- - date_published: 2024-06-15T09:13:48+00:00
-
- ## Homepage | Electrical Engineering and Computer Science
- - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Change the World Now | Glendon Campus | York University
- - [https://www.glendon.yorku.ca](https://www.glendon.yorku.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Osgoode Hall Law School – York University
- - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Department of Psychology
- - [https://www.psych.yorku.ca](https://www.psych.yorku.ca)
- - date_published: 2024-04-30T05:31:55.441536+00:00
-
- ## Research and Innovation | York University
- - [http://www.research.yorku.ca](http://www.research.yorku.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Homepage - YFile
- - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
- - date_published: 2024-04-30T05:32:00.155249+00:00
-
- ## Welcome to York University! Bienvenue à l'Université York! - York International
- - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## York University | Right the Future
- - [https://yorku.ca](https://yorku.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## YUBlog | YUBlog
- - [https://yublog.students.yorku.ca](https://yublog.students.yorku.ca)
- - date_published: 2024-07-21T07:58:03.781085+00:00
-
- ## Passport York Login
- - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
- - date_published: 2024-07-08T23:02:02.959783+00:00
-
- ## Passport York Login
- - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
- - date_published: 2024-05-09T06:47:35.611383+00:00
-
- ## York University Psychology Clinic
- - [https://yupc.info.yorku.ca](https://yupc.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home - Young W
- - [https://www.youngw.ca](https://www.youngw.ca)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## AdChoices in Canada - Learn about the blue icon & your choices
- - [http://youradchoices.ca](http://youradchoices.ca)
- - date_published: 2024-06-15T03:45:09.750365+00:00
-
- ## Your Environment
- - [https://yourenvironment.ca](https://yourenvironment.ca)
- - date_published: 2024-05-06T23:34:02.979229+00:00
-
- ## Homepage
- - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
- - date_published: 2024-07-17T02:14:27+00:00
-
- ## Home - Youth Science Canada
- - [https://youthscience.ca](https://youthscience.ca)
- - date_published: 2024-08-09T03:54:14.350183+00:00
-
- ## yoyodyneconsulting.ca
- - [http://www.yoyodyneconsulting.ca](http://www.yoyodyneconsulting.ca)
- - date_published: 2024-08-19T21:49:10.597946+00:00
-
- ## We are yunikon. Your partner for your digital footprint!
- - [https://yunikon.ca](https://yunikon.ca)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Zoomer Digital Network
- - [https://zdn.ca](https://zdn.ca)
- - date_published: 2024-03-22T19:16:07+00:00
-
- ## Zeste, la destination qui comblera vos appétits! | Zeste
- - [https://www.zeste.ca](https://www.zeste.ca)
- - date_published: 2024-08-19T08:11:09.348826+00:00
-
- ## Ka-Ping Yee
- - [http://zesty.ca](http://zesty.ca)
- - date_published: 2024-03-18T05:51:34+00:00
-
- ## Home - ZGV
- - [http://zgv.ca](http://zgv.ca)
- - date_published: 2020-06-11T00:00:00+00:00
 

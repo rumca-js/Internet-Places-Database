@@ -2433,6 +2433,10 @@
  - [https://www.blaze.ai](https://www.blaze.ai)
  - date_published: 2024-04-30T00:00:00+00:00
 
+ ## bleeding edge
+ - [https://bleedingedge.ai](https://bleedingedge.ai)
+ - date_published: 2024-09-03T21:01:30.738623+00:00
+
  ## Attention Required! | Cloudflare
  - [https://fcabmc.cs.blip.ai](https://fcabmc.cs.blip.ai)
  - date_published: 2024-07-04T07:32:38.741311+00:00
@@ -4021,8 +4025,4 @@ Welcome
  ## Course - MIT HAN Lab
  - [https://efficientml.ai](https://efficientml.ai)
  - date_published: 2023-10-25T11:38:20.763882+00:00
-
- ## Effy AI: Free Performance Management Software for Teams
- - [https://www.effy.ai](https://www.effy.ai)
- - date_published: 2024-08-09T00:00:00+00:00
 

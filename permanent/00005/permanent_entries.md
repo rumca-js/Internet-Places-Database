@@ -1,3 +1,35 @@
+ ## Show HN: A fast OSS voice assistant
+ - [https://swift-ai.vercel.app](https://swift-ai.vercel.app)
+ - date_published: 2024-07-08T14:21:05+00:00
+
+ ## Automatic Comments Generator
+ - [https://swiftstart.vercel.app](https://swiftstart.vercel.app)
+ - date_published: 2023-10-25T11:50:53.574901+00:00
+
+ ## Home | Swing Music
+ - [https://swingmusic.vercel.app](https://swingmusic.vercel.app)
+ - date_published: 2024-06-19T22:10:07.685199+00:00
+
+ ## React Hooks for Data Fetching – SWR
+ - [https://swr.vercel.app](https://swr.vercel.app)
+ - date_published: 2023-10-25T11:51:01.722399+00:00
+
+ ## Syofyan Zuhad - Back-End Developer
+ - [https://syofyan-profile.vercel.app](https://syofyan-profile.vercel.app)
+ - date_published: 2024-05-11T10:21:09.398595+00:00
+
+ ## Tabloid: the clickbait headline programming language
+ - [https://tabloid-thesephist.vercel.app](https://tabloid-thesephist.vercel.app)
+ - date_published: 2023-10-25T11:51:03.259656+00:00
+
+ ## Tabloid: The Clickbait Headline Programming Language (2021)
+ - [https://tabloid.vercel.app](https://tabloid.vercel.app)
+ - date_published: 2024-07-15T00:12:59+00:00
+
+ ## TaxGPT
+ - [https://tax-gpt-theta.vercel.app](https://tax-gpt-theta.vercel.app)
+ - date_published: 2024-04-30T02:13:51.969387+00:00
+
  ## tdquang
  - [https://tdquang.vercel.app](https://tdquang.vercel.app)
  - date_published: 2024-07-08T22:23:39.878885+00:00
@@ -3414,6 +3446,10 @@ October 2024 in Singapore
  - [https://www.daswetter.at](https://www.daswetter.at)
  - date_published: 2024-06-28T00:00:00+00:00
 
+ ## Datensegler
+ - [https://datensegler.at](https://datensegler.at)
+ - date_published: 2024-05-15T08:54:55+00:00
+
  ## DATUM – Seiten der Zeit
  - [https://datum.at](https://datum.at)
  - date_published: 2024-05-02T13:34:59.439323+00:00
@@ -3999,41 +4035,4 @@ October 2024 in Singapore
  ## Handelsverband Österreich
  - [https://www.handelsverband.at](https://www.handelsverband.at)
  - date_published: 2024-06-25T19:08:42.689340+00:00
-
- ## Futurelopment
- - [https://blog.haschek.at](https://blog.haschek.at)
- - date_published: 2023-10-25T11:52:46.396385+00:00
-
- ## Listen to DJ Sets, Mixes, Tracks and Sounds |  hearthis.at
- - [https://hearthis.at](https://hearthis.at)
- - date_published: 2024-07-13T07:32:09+00:00
-
- ## %%sitename%%
- - [https://blog.hellofresh.at](https://blog.hellofresh.at)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## HelloFresh: Österreichs Nummer 1 Kochbox
- - [https://www.hellofresh.at](https://www.hellofresh.at)
- - date_published: 2024-05-02T14:01:02.244963+00:00
-
- ## Kunst Galerie HAAS & GSCHWANDTNER in Salzburg
- - [https://www.hg-art.at](https://www.hg-art.at)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Hilti
- - [https://www.hilti.at](https://www.hilti.at)
- - date_published: 2024-06-20T07:26:09.008232+00:00
-
- ## Samuel Hobl
- - [https://samuel.hobl.at](https://samuel.hobl.at)
- - date_published: 2024-04-03T12:47:05.291994+00:00
- - tags: ['personal']
-
- ## GoatCounter
- - [https://stats.hobl.at](https://stats.hobl.at)
- - date_published: 2024-05-12T06:23:29.726882+00:00
-
- ## hokify - deine mobile Job-Plattform | Jobbörse | Stellenangebote
- - [https://hokify.at](https://hokify.at)
- - date_published: 2024-02-02T00:00:00+00:00
 

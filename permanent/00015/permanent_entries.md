@@ -1,3 +1,248 @@
+ ## Career Centre | We help connect York University students and new graduates with career opportunities!
+ - [https://careers.yorku.ca](https://careers.yorku.ca)
+ - date_published: 2024-05-09T06:47:47.200130+00:00
+
+ ## University Information Technology (UIT) | Something goes here....
+ - [http://computing.yorku.ca](http://computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Homepage
+ - [https://continue.yorku.ca](https://continue.yorku.ca)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Student Counselling, Health & Well-being | Division of Students | York University
+ - [https://counselling.students.yorku.ca](https://counselling.students.yorku.ca)
+ - date_published: 2024-07-09T21:37:03.374255+00:00
+
+ ## Passport York Login
+ - [https://coursestatus.yorku.ca](https://coursestatus.yorku.ca)
+ - date_published: 2024-07-09T21:37:05.659224+00:00
+
+ ## Current Students | Division of Students | York University
+ - [https://currentstudents.yorku.ca](https://currentstudents.yorku.ca)
+ - date_published: 2024-04-30T05:32:23.896619+00:00
+
+ ## Organizational Unit and Designate List
+ - [http://designates.apps06.yorku.ca](http://designates.apps06.yorku.ca)
+ - date_published: 2024-07-21T08:03:45.097874+00:00
+
+ ## York University - Shibboleth - Loading Session Information
+ - [https://eclass.yorku.ca](https://eclass.yorku.ca)
+ - date_published: 2024-04-30T05:32:18.223282+00:00
+
+ ## Upcoming Events at York University
+ - [https://events.yorku.ca](https://events.yorku.ca)
+ - date_published: 2024-03-12T17:42:35.149483+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.students.yorku.ca](https://forms.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:11.379215+00:00
+
+ ## Your Future Starts Here | Future Students | York University
+ - [https://futurestudents.yorku.ca](https://futurestudents.yorku.ca)
+ - date_published: 2024-04-30T05:31:58.274621+00:00
+
+ ## Google Apps at York
+ - [https://google.info.yorku.ca](https://google.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Welcome to the Snowden Digital Surveillance Archive · Snowden Archive
+ - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
+ - date_published: 2024-05-29T08:29:45+00:00
+ - tags: ['surveillance', 'edward snowden']
+
+ ## Information Security at York | UIT Information Security York University
+ - [https://infosec.yorku.ca](https://infosec.yorku.ca)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Your Suggestions are Welcome | University Information Technology (UIT)
+ - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Las Nubes Project - Las Nubes Project
+ - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## York University Library Home - York University Libraries
+ - [https://library.yorku.ca](https://library.yorku.ca)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Passport York Login
+ - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:21.138746+00:00
+
+ ## Winter 2024 - The York University Magazine
+ - [https://magazine.yorku.ca](https://magazine.yorku.ca)
+ - date_published: 2024-04-30T05:32:16.159127+00:00
+
+ ## Moodle
+ - [https://moodle.yorku.ca](https://moodle.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Passport York Login
+ - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:19.297449+00:00
+
+ ## News | York University
+ - [https://news.yorku.ca](https://news.yorku.ca)
+ - date_published: 2024-04-30T05:32:10.631393+00:00
+
+ ## OSAP (Ontario Student Assistance Program) | OSAP | York University
+ - [http://osap.students.yorku.ca](http://osap.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:32.808693+00:00
+
+ ## OSAP (Ontario Student Assistance Program) | OSAP | York University
+ - [https://osap.yorku.ca](https://osap.yorku.ca)
+ - date_published: 2024-07-21T07:57:34.441566+00:00
+
+ ## University Information Technology (UIT) | Something goes here....
+ - [https://passportyork.yorku.ca](https://passportyork.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Classics in the History of Psychology
+ - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
+ - date_published: 2024-01-06T17:40:41.073576+00:00
+
+ ## Passport York Login
+ - [https://psychology.blog.yorku.ca](https://psychology.blog.yorku.ca)
+ - date_published: 2024-07-21T08:04:39.553865+00:00
+
+ ## Registrar's Office - Home | Registrar's Office | York University
+ - [https://registrar.yorku.ca](https://registrar.yorku.ca)
+ - date_published: 2024-07-09T21:36:57.398233+00:00
+
+ ## Welcome! - Centre for Human Rights, Equity and Inclusion
+ - [https://rights.info.yorku.ca](https://rights.info.yorku.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Canada’s #1 Business School | Schulich School of Business
+ - [https://schulich.yorku.ca](https://schulich.yorku.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## York Search Results - York University
+ - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Secretariat Policies
+ - [https://secretariat-policies.info.yorku.ca](https://secretariat-policies.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Student Financial Services - Home | Student Financial Services | York University
+ - [https://sfs.yorku.ca](https://sfs.yorku.ca)
+ - date_published: 2024-04-30T05:32:28.949793+00:00
+
+ ## Faculty & Staff Services | University Information Technology (UIT)
+ - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Current Students | Division of Students | York University
+ - [https://students.yorku.ca](https://students.yorku.ca)
+ - date_published: 2024-07-21T07:57:23.196380+00:00
+
+ ## UPSA
+ - [http://upsa.club.yorku.ca](http://upsa.club.yorku.ca)
+ - date_published: 2024-07-21T08:04:42.456648+00:00
+
+ ## WordPress at York
+ - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## William van Wijngaarden – Lasers and Physics will blow your mind
+ - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
+ - date_published: 2024-06-15T09:13:48+00:00
+
+ ## Homepage | Electrical Engineering and Computer Science
+ - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Change the World Now | Glendon Campus | York University
+ - [https://www.glendon.yorku.ca](https://www.glendon.yorku.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Osgoode Hall Law School – York University
+ - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Department of Psychology
+ - [https://www.psych.yorku.ca](https://www.psych.yorku.ca)
+ - date_published: 2024-04-30T05:31:55.441536+00:00
+
+ ## Research and Innovation | York University
+ - [http://www.research.yorku.ca](http://www.research.yorku.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Homepage - YFile
+ - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
+ - date_published: 2024-04-30T05:32:00.155249+00:00
+
+ ## Welcome to York University! Bienvenue à l'Université York! - York International
+ - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## York University | Right the Future
+ - [https://yorku.ca](https://yorku.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## YUBlog | YUBlog
+ - [https://yublog.students.yorku.ca](https://yublog.students.yorku.ca)
+ - date_published: 2024-07-21T07:58:03.781085+00:00
+
+ ## Passport York Login
+ - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
+ - date_published: 2024-07-08T23:02:02.959783+00:00
+
+ ## Passport York Login
+ - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
+ - date_published: 2024-05-09T06:47:35.611383+00:00
+
+ ## York University Psychology Clinic
+ - [https://yupc.info.yorku.ca](https://yupc.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Home - Young W
+ - [https://www.youngw.ca](https://www.youngw.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## AdChoices in Canada - Learn about the blue icon & your choices
+ - [http://youradchoices.ca](http://youradchoices.ca)
+ - date_published: 2024-06-15T03:45:09.750365+00:00
+
+ ## Your Environment
+ - [https://yourenvironment.ca](https://yourenvironment.ca)
+ - date_published: 2024-05-06T23:34:02.979229+00:00
+
+ ## Homepage
+ - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
+ - date_published: 2024-07-17T02:14:27+00:00
+
+ ## Home - Youth Science Canada
+ - [https://youthscience.ca](https://youthscience.ca)
+ - date_published: 2024-08-09T03:54:14.350183+00:00
+
+ ## yoyodyneconsulting.ca
+ - [http://www.yoyodyneconsulting.ca](http://www.yoyodyneconsulting.ca)
+ - date_published: 2024-08-19T21:49:10.597946+00:00
+
+ ## We are yunikon. Your partner for your digital footprint!
+ - [https://yunikon.ca](https://yunikon.ca)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Zoomer Digital Network
+ - [https://zdn.ca](https://zdn.ca)
+ - date_published: 2024-03-22T19:16:07+00:00
+
+ ## Zeste, la destination qui comblera vos appétits! | Zeste
+ - [https://www.zeste.ca](https://www.zeste.ca)
+ - date_published: 2024-08-19T08:11:09.348826+00:00
+
+ ## Ka-Ping Yee
+ - [http://zesty.ca](http://zesty.ca)
+ - date_published: 2024-03-18T05:51:34+00:00
+
+ ## Home - ZGV
+ - [http://zgv.ca](http://zgv.ca)
+ - date_published: 2020-06-11T00:00:00+00:00
+
  ## ssh guest@amyzhu
  - [https://amy.zhucchini.ca](https://amy.zhucchini.ca)
  - date_published: 2024-07-28T03:11:13+00:00
@@ -958,6 +1203,10 @@
  - [https://dokia.capital](https://dokia.capital)
  - date_published: 2024-05-16T08:44:38+00:00
 
+ ## Earl Grey Capital
+ - [https://earlgrey.capital](https://earlgrey.capital)
+ - date_published: 2024-09-03T21:01:05.426207+00:00
+
  ## GEM Capital
  - [https://gem.capital](https://gem.capital)
  - date_published: 2024-06-20T01:17:41.775460+00:00
@@ -1682,6 +1931,10 @@
  ## S4A Blog
  - [http://blog.s4a.cat](http://blog.s4a.cat)
  - date_published: 2016-02-23T00:00:00+00:00
+
+ ## Shadowcat Systems Limited – Sufficiently Advanced Technology
+ - [https://www.shadow.cat](https://www.shadow.cat)
+ - date_published: 2024-09-03T23:35:58.293117+00:00
 
  ## ShiSH.cat
  - [https://shish.cat](https://shish.cat)
@@ -3156,6 +3409,10 @@
  - date_published: 2023-10-25T08:43:16.329645+00:00
  - tags: ['personal']
 
+ ## Pictos Redux
+ - [http://pictos.cc](http://pictos.cc)
+ - date_published: 2023-07-27T20:05:35+00:00
+
  ## Grafana
  - [https://demo.pigsty.cc](https://demo.pigsty.cc)
  - date_published: 2024-01-10T00:00:00+00:00
@@ -3767,261 +4024,4 @@
  ## zptr
  - [https://zptr.cc](https://zptr.cc)
  - date_published: 2024-07-03T12:07:58.158619+00:00
-
- ## ACGT – Site officiel
- - [http://www.acgt.cd](http://www.acgt.cd)
- - date_published: 2024-06-20T07:31:07.556651+00:00
-
- ## ACP | Agence Congolaise de Presse
- - [https://acp.cd](https://acp.cd)
- - date_published: 2024-06-30T15:44:50+00:00
-
- ## Grafika Google
- - [https://images.google.cd](https://images.google.cd)
- - date_published: 2024-07-20T07:37:04.969530+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.cd](https://maps.google.cd)
- - date_published: 2024-07-20T07:40:28.431093+00:00
-
- ## Google
- - [https://www.google.cd](https://www.google.cd)
- - date_published: 2024-06-21T22:23:03.439099+00:00
-
- ## Index of /
- - [https://akun-pro-amerika.minesu.gouv.cd](https://akun-pro-amerika.minesu.gouv.cd)
- - date_published: 2024-06-12T02:45:33.893887+00:00
-
- ## Akun Pro China « Dimana Lagi Situs Provider Slot Segacor Server China Super Gacor ?
- - [https://akun-pro-china.minesu.gouv.cd](https://akun-pro-china.minesu.gouv.cd)
- - date_published: 2024-06-12T11:57:43.184026+00:00
-
- ## Akun Pro Filipina « Dimana Lagi Situs Provider Slot Segacor Server Filipina Super Gacor ?
- - [https://akun-pro-filipina.minesu.gouv.cd](https://akun-pro-filipina.minesu.gouv.cd)
- - date_published: 2024-06-12T11:45:57.589874+00:00
-
- ## Akun Pro Jepang « Dimana Lagi Situs Provider Slot Segacor Server Jepang Super Gacor ?
- - [https://akun-pro-jepang.minesu.gouv.cd](https://akun-pro-jepang.minesu.gouv.cd)
- - date_published: 2024-06-12T11:34:03.057014+00:00
-
- ## Akun Pro Kamboja « Dimana Lagi Situs Provider Slot Segacor Server Kamboja Super Gacor ?
- - [https://akun-pro-kamboja.minesu.gouv.cd](https://akun-pro-kamboja.minesu.gouv.cd)
- - date_published: 2024-06-12T11:57:46.718765+00:00
-
- ## Akun Pro Korea « Dimana Lagi Situs Provider Slot Segacor Server Korea Super Gacor ?
- - [https://akun-pro-korea.minesu.gouv.cd](https://akun-pro-korea.minesu.gouv.cd)
- - date_published: 2024-06-12T11:56:42.383657+00:00
-
- ## Akun Pro Malaysia « Dimana Lagi Situs Provider Slot Segacor Server Malaysia Super Gacor ?
- - [https://akun-pro-malaysia.minesu.gouv.cd](https://akun-pro-malaysia.minesu.gouv.cd)
- - date_published: 2024-06-12T11:59:07.023513+00:00
-
- ## Akun Pro Prancis « Dimana Lagi Situs Provider Slot Segacor Server Prancis Super Gacor ?
- - [https://akun-pro-prancis.minesu.gouv.cd](https://akun-pro-prancis.minesu.gouv.cd)
- - date_published: 2024-06-12T11:40:08.265768+00:00
-
- ## Akun Pro Rusia « Dimana Lagi Situs Provider Slot Segacor Server Rusia Super Gacor ?
- - [https://akun-pro-rusia.minesu.gouv.cd](https://akun-pro-rusia.minesu.gouv.cd)
- - date_published: 2024-06-12T11:35:02.889048+00:00
-
- ## Akun Pro Taiwan « Dimana Lagi Situs Provider Slot Segacor Server Taiwan Super Gacor ?
- - [https://akun-pro-taiwan.minesu.gouv.cd](https://akun-pro-taiwan.minesu.gouv.cd)
- - date_published: 2024-06-12T11:40:20.263827+00:00
-
- ## Akun Pro Thailand « Dimana Lagi Situs Provider Slot Segacor Server Thailand Super Gacor ?
- - [https://akun-pro-thailand.minesu.gouv.cd](https://akun-pro-thailand.minesu.gouv.cd)
- - date_published: 2024-06-12T12:00:27.596015+00:00
-
- ## Custom Domain by Bitly
- - [https://news.mstr.cd](https://news.mstr.cd)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## OECD URL Shortener
- - [https://oe.cd](https://oe.cd)
- - date_published: 2024-06-28T16:16:43.492648+00:00
-
- ## Vodacom RDC
- - [https://www.vodacom.cd](https://www.vodacom.cd)
- - date_published: 2023-12-19T20:14:17+00:00
-
- ## Placeholder
- - [https://what.cd](https://what.cd)
- - date_published: 2023-10-25T12:12:14.189974+00:00
-
- ## The Walter Bradley Center for Natural & Artifical Intelligence | Discovery Institute
- - [https://bradley.center](https://bradley.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Cascadia Center
- - [https://cascadia.center](https://cascadia.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Chromatone | Chromatone.center
- - [https://chromatone.center](https://chromatone.center)
- - date_published: 2024-07-13T17:04:22+00:00
-
- ## Umami
- - [https://stats.chromatone.center](https://stats.chromatone.center)
- - date_published: 2024-07-13T23:39:47.139525+00:00
-
- ## CLARK | Cybersecurity Library
- - [https://clark.center](https://clark.center)
- - date_published: 2023-10-25T12:12:15.527679+00:00
-
- ## Community Center | Home of the Divi Church Theme Chrysalis
- - [https://community.center](https://community.center)
- - date_published: 2020-10-27T21:04:36+00:00
-
- ## Delos Center
- - [https://delos.center](https://delos.center)
- - date_published: 2024-07-04T13:17:23.880871+00:00
-
- ## Home
- - [https://digitallife.center](https://digitallife.center)
- - date_published: 2024-04-29T02:50:17.353996+00:00
-
- ## Дело о посольском кокаине #2
- - [https://cocaina.dossier.center](https://cocaina.dossier.center)
- - date_published: 2022-04-21T00:00:00+00:00
-
- ## Досье - Досье
- - [https://dossier.center](https://dossier.center)
- - date_published: 2023-10-25T12:12:24.046539+00:00
-
- ## Лубянская Федерация – ФСБ
- - [https://fsb.dossier.center](https://fsb.dossier.center)
- - date_published: 2024-04-30T05:56:48.480434+00:00
-
- ## Список Центра "Досье"
- - [https://peps.dossier.center](https://peps.dossier.center)
- - date_published: 2024-04-30T05:56:57.850683+00:00
-
- ## The Enterprise for Society Center (E4S)
- - [https://e4s.center](https://e4s.center)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## EssentialTech Centre
- - [https://essentialtech.center](https://essentialtech.center)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## EUjob.center the platform for international professionals.
- - [https://eujob.center](https://eujob.center)
- - date_published: 2024-06-12T02:04:57.850780+00:00
-
- ## GMK Center – центр экспертизы о промышленности и ГМК
- - [https://gmk.center](https://gmk.center)
- - date_published: 2023-12-19T20:46:40.065605+00:00
-
- ## Human Exceptionalism | Defending human dignity, liberty, and equality
- - [https://humanexceptionalism.center](https://humanexceptionalism.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The James G. Martin Center for Academic Renewal —
- - [https://www.jamesgmartin.center](https://www.jamesgmartin.center)
- - date_published: 2023-10-25T12:12:29.460489+00:00
-
- ## VR @ LvivArtCenter # Ukraine war posters. Lviv Art Center exhibition in Reykjavík SIM gallery
- - [https://vr.lvivart.center](https://vr.lvivart.center)
- - date_published: 2024-07-01T07:53:23.779045+00:00
-
- ## Lviv Art Center
- - [https://lvivart.center](https://lvivart.center)
- - date_published: 2024-05-07T18:39:47.843995+00:00
-
- ## microcenter.com
- - [https://micro.center](https://micro.center)
- - date_published: 2024-02-24T20:43:32.587938+00:00
-
- ## Planning Center: Church Management Software
- - [https://planning.center](https://planning.center)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## The World's Fastest Growing Subdomain & Shadow IT Database
- - [https://subdomain.center](https://subdomain.center)
- - date_published: 2024-04-30T05:57:27.481497+00:00
-
- ## Tilda Center
- - [https://tilda.center](https://tilda.center)
- - date_published: 2024-02-01T13:20:12+00:00
-
- ## Underline Center
- - [https://underline.center](https://underline.center)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Center on Wealth & Poverty | Connecting the practical truths of economics with the perennial truths of ethics
- - [https://wealthandpoverty.center](https://wealthandpoverty.center)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Entrepreneur's Edge | Ryan Waliany | Substack
- - [https://www.edge.ceo](https://www.edge.ceo)
- - date_published: 2023-10-25T12:12:41.496123+00:00
-
- ## .CEO Domain Names | The .CEO Registry
- - [https://nic.ceo](https://nic.ceo)
- - date_published: 2024-06-17T07:44:54.344783+00:00
-
- ## Join CERN Alumni – The High-Energy Network
- - [https://alumni.cern](https://alumni.cern)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Creativity across Cultures
- - [https://arts.cern](https://arts.cern)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## ATLAS Experiment at CERN | ATLAS Experiment at CERN
- - [https://atlas.cern](https://atlas.cern)
- - date_published: 2023-10-25T12:12:48.064999+00:00
-
- ## Home | Careers at CERN
- - [https://careers.cern](https://careers.cern)
- - date_published: 2024-04-30T05:57:48.584075+00:00
-
- ## CERN70 – Inspiring the Future
- - [https://cern70.cern](https://cern70.cern)
- - date_published: 2024-04-30T05:57:56.616964+00:00
-
- ## CERN & Society Foundation
- - [https://cernandsocietyfoundation.cern](https://cernandsocietyfoundation.cern)
- - date_published: 2024-04-30T05:57:46.086737+00:00
-
- ## Donate now
- - [https://donate.cernandsocietyfoundation.cern](https://donate.cernandsocietyfoundation.cern)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## CHIS: CERN Health Insurance Scheme
- - [https://chis.cern](https://chis.cern)
- - date_published: 2024-07-21T06:34:24.682640+00:00
-
- ## The cms detector | CMS Experiment
- - [https://cms.cern](https://cms.cern)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Inspire and educate
- - [https://education.cern](https://education.cern)
- - date_published: 2024-07-21T06:38:40+00:00
-
- ## Home | CERN
- - [https://home.cern](https://home.cern)
- - date_published: 2023-10-25T11:24:34.306556+00:00
- - tags: ['nuclear research']
-
- ## HSE Unit | HSE unit at CERN
- - [https://hse.cern](https://hse.cern)
- - date_published: 2024-04-30T05:59:01.823559+00:00
-
- ## Accelerating Innovation @ CERN | Knowledge Transfer
- - [https://kt.cern](https://kt.cern)
- - date_published: 2024-07-20T13:16:26+00:00
-
- ## CERN Library Catalogue
- - [https://catalogue.library.cern](https://catalogue.library.cern)
- - date_published: 2024-06-13T09:18:50+00:00
-
- ## Home | CERN Scientific Information Service (SIS)
- - [https://library.cern](https://library.cern)
- - date_published: 2024-06-14T08:45:50+00:00
-
- ## Welcome to CERN openlab | CERN openlab
- - [https://openlab.cern](https://openlab.cern)
- - date_published: 2024-07-01T15:23:54.065036+00:00
 

@@ -1,3 +1,11 @@
+ ## MONIQUE INTERNATIONAL – The legend is back!
+ - [https://radiomonique.am](https://radiomonique.am)
+ - date_published: 2024-06-13T21:27:14.846784+00:00
+
+ ## Roam
+ - [https://ro.am](https://ro.am)
+ - date_published: 2024-07-04T00:57:00+00:00
+
  ## Ryan Putnam
  - [https://ryanputn.am](https://ryanputn.am)
  - date_published: 2024-06-23T17:04:10.208689+00:00
@@ -1039,6 +1047,10 @@
  ## Plausible · Web analytics
  - [https://s.cac.app](https://s.cac.app)
  - date_published: 2024-08-19T08:52:43.047882+00:00
+
+ ## Cafecito
+ - [https://cafecito.app](https://cafecito.app)
+ - date_published: 2024-09-03T22:39:05.246141+00:00
 
  ## CallApp - Free Caller ID & Phone Call Blocker app
  - [https://call.app](https://call.app)
@@ -4016,16 +4028,4 @@
  ## Marten
  - [https://marten-docs-v4.netlify.app](https://marten-docs-v4.netlify.app)
  - date_published: 2024-08-07T18:46:41.553768+00:00
-
- ## Marten
- - [https://marten-docs-v5.netlify.app](https://marten-docs-v5.netlify.app)
- - date_published: 2024-08-07T18:46:45.016402+00:00
-
- ## Marten
- - [https://marten-docs-v6.netlify.app](https://marten-docs-v6.netlify.app)
- - date_published: 2024-08-07T18:46:45.822915+00:00
-
- ## Massif Press
- - [https://massif-press.netlify.app](https://massif-press.netlify.app)
- - date_published: 2024-07-14T17:26:53.721310+00:00
 
