@@ -1,3 +1,661 @@
+ ## Prof. Caetano
+ - [http://www.caetano.eng.br](http://www.caetano.eng.br)
+ - date_published: 2024-07-08T08:33:45.032131+00:00
+
+ ## Eduardo Maçan - We stand here exposing ourselves. We are showroom dummies!
+ - [https://eduardo.macan.eng.br](https://eduardo.macan.eng.br)
+ - date_published: 2024-07-09T07:56:32.754284+00:00
+
+ ## Thadeu Lima de Souza Cascardo
+ - [https://cascardo.eti.br](https://cascardo.eti.br)
+ - date_published: 2019-10-31T22:08:13+00:00
+
+ ## Atividades Escolares e Jogos Educativos: Palavras Cruzadas, Caça Palavras, Sudoku, Jogo da Memória, Passatempos, Atividades para Imprimir, Labirinto, Jogo dos 7 Erros, Quebra Cabeça, Desenhos para Colorir, Folhas Para Aprender Desenhar, Quiz Interativo.
+ - [https://www.sol.eti.br](https://www.sol.eti.br)
+ - date_published: 2022-03-26T18:09:40+00:00
+
+ ## Cadastro do AcessoGovBr
+ - [https://cadastro.acesso.gov.br](https://cadastro.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:20+00:00
+
+ ## Acesso GovBR
+ - [https://contas.acesso.gov.br](https://contas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:08+00:00
+
+ ## Empresas gov.br
+ - [https://empresas.acesso.gov.br](https://empresas.acesso.gov.br)
+ - date_published: 2024-04-24T03:56:07+00:00
+
+ ## Portal Logado
+ - [https://servicos.acesso.gov.br](https://servicos.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Portal Logado
+ - [https://sso.acesso.gov.br](https://sso.acesso.gov.br)
+ - date_published: 2024-01-04T17:39:50+00:00
+
+ ## Home
+ - [http://acessoainformacao.gov.br](http://acessoainformacao.gov.br)
+ - date_published: 2024-07-20T11:20:25.505697+00:00
+
+ ## Banco Central do Brasil
+ - [https://cdn-www.bcb.gov.br](https://cdn-www.bcb.gov.br)
+ - date_published: 2024-07-09T21:25:25+00:00
+
+ ## Banco Central do Brasil
+ - [https://bcb.gov.br](https://bcb.gov.br)
+ - date_published: 2024-05-12T04:09:19.217035+00:00
+
+ ## GOV.BR
+ - [http://brasil.gov.br](http://brasil.gov.br)
+ - date_published: 2024-07-11T21:36:28.910171+00:00
+
+ ## CAIXA
+ - [http://www.caixa.gov.br](http://www.caixa.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## CAPES 70 anos
+ - [https://70anos.capes.gov.br](https://70anos.capes.gov.br)
+ - date_published: 2021-10-08T14:02:24+00:00
+
+ ## CAPES 72 anos
+ - [https://72anos.capes.gov.br](https://72anos.capes.gov.br)
+ - date_published: 2023-07-27T21:23:34+00:00
+
+ ## CAPES - Catálogo de Atos Administrativos
+ - [http://cad.capes.gov.br](http://cad.capes.gov.br)
+ - date_published: 2023-08-17T01:00:08+00:00
+
+ ## Catálogo de Teses & Dissertações - CAPES
+ - [https://catalogodeteses.capes.gov.br](https://catalogodeteses.capes.gov.br)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Portal eduCapes:Inicio
+ - [https://educapes.capes.gov.br](https://educapes.capes.gov.br)
+ - date_published: 2024-07-13T18:16:46.473581+00:00
+
+ ## Plataforma Freire
+ - [https://freire.capes.gov.br](https://freire.capes.gov.br)
+ - date_published: 2024-07-12T20:37:56+00:00
+
+ ## GEOCAPES
+ - [https://geocapes.capes.gov.br](https://geocapes.capes.gov.br)
+ - date_published: 2023-10-17T19:08:16+00:00
+
+ ## Declaração de Rendimentos
+ - [https://informerendimentos.capes.gov.br](https://informerendimentos.capes.gov.br)
+ - date_published: 2024-07-13T18:17:34.875432+00:00
+
+ ## Revista Brasileira de Pós-Graduação
+ - [https://rbpg.capes.gov.br](https://rbpg.capes.gov.br)
+ - date_published: 2024-07-13T18:17:09.761963+00:00
+
+ ## Plataforma Sucupira
+ - [https://sucupira.capes.gov.br](https://sucupira.capes.gov.br)
+ - date_published: 2024-07-13T18:16:50.909184+00:00
+
+ ## CAPES
+ - [https://capes.gov.br](https://capes.gov.br)
+ - date_published: 2024-05-11T08:09:05.282834+00:00
+
+ ## Portal .periodicos. CAPES - Portal .periodicos. CAPES
+ - [https://www.periodicos.capes.gov.br](https://www.periodicos.capes.gov.br)
+ - date_published: 2024-07-07T06:41:55+00:00
+
+ ## Central de Painéis
+ - [https://centralpaineis.cgu.gov.br](https://centralpaineis.cgu.gov.br)
+ - date_published: 2023-10-29T14:11:31+00:00
+
+ ## e-Agendas - Sistema Eletrônico de Agendas do Poder Executivo Federal
+ - [https://eagendas.cgu.gov.br](https://eagendas.cgu.gov.br)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [https://falabr.cgu.gov.br](https://falabr.cgu.gov.br)
+ - date_published: 2024-05-10T03:45:31.683367+00:00
+
+ ## Entrar :: Contratos.gov.br
+ - [https://contratos.comprasnet.gov.br](https://contratos.comprasnet.gov.br)
+ - date_published: 2024-07-11T21:36:13.000481+00:00
+
+ ## Soluções digitais para governo e cidadão
+ - [https://www.dataprev.gov.br](https://www.dataprev.gov.br)
+ - date_published: 2024-07-13T00:09:20+00:00
+
+ ## Painel de Compras
+ - [https://paineldecompras.economia.gov.br](https://paineldecompras.economia.gov.br)
+ - date_published: 2024-05-10T03:46:31.262882+00:00
+
+ ## Portal Receita
+ - [http://www.receita.fazenda.gov.br](http://www.receita.fazenda.gov.br)
+ - date_published: 2024-07-13T18:19:00.300997+00:00
+
+ ## Finep - Início
+ - [http://www.finep.gov.br](http://www.finep.gov.br)
+ - date_published: 2024-05-11T08:08:50.663796+00:00
+
+ ## Padrões Web em Governo Eletrônico e-PWG - Cartilha de Usabilidade
+ - [http://epwg.governoeletronico.gov.br](http://epwg.governoeletronico.gov.br)
+ - date_published: 2022-05-31T19:04:57+00:00
+
+ ## Clima e Tempo
+ - [http://www.inmet.gov.br](http://www.inmet.gov.br)
+ - date_published: 2024-07-13T18:19:04.239906+00:00
+
+ ## MJSP
+ - [https://www.justica.gov.br](https://www.justica.gov.br)
+ - date_published: 2024-06-27T05:59:17.125020+00:00
+
+ ## Fala.BR - Plataforma Integrada de Ouvidoria e Acesso à Informação
+ - [http://sistema.ouvidorias.gov.br](http://sistema.ouvidorias.gov.br)
+ - date_published: 2024-07-15T14:39:38+00:00
+
+ ## Verificação de segurança
+ - [https://prefeitura.pbh.gov.br](https://prefeitura.pbh.gov.br)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://planalto.gov.br](http://planalto.gov.br)
+ - date_published: 2019-07-31T21:17:32+00:00
+
+ ## Portal Nacional de Contratações Públicas - PNCP
+ - [https://pncp.gov.br](https://pncp.gov.br)
+ - date_published: 2024-07-11T21:36:24.045029+00:00
+
+ ## Portal da Transparência do Governo Federal
+ - [https://portaldatransparencia.gov.br](https://portaldatransparencia.gov.br)
+ - date_published: 2024-07-13T18:17:19.595963+00:00
+
+ ## Portal da Transparência do Governo Federal
+ - [http://www.portaltransparencia.gov.br](http://www.portaltransparencia.gov.br)
+ - date_published: 2024-07-13T18:17:30.137388+00:00
+
+ ## Brasil Participativo - Governo Federal
+ - [https://brasilparticipativo.presidencia.gov.br](https://brasilparticipativo.presidencia.gov.br)
+ - date_published: 2024-07-11T21:34:18.967548+00:00
+
+ ## PRESIDÊNCIA DA REPÚBLICA
+ - [http://www.presidencia.gov.br](http://www.presidencia.gov.br)
+ - date_published: 2024-06-12T11:17:42.018552+00:00
+
+ ## Rede de Controle da Gestão Pública - Construindo parcerias para o controle público efetivo
+ - [https://www.rededecontrole.gov.br](https://www.rededecontrole.gov.br)
+ - date_published: 2024-07-13T18:12:23.948875+00:00
+
+ ## API RecomGov
+ - [https://api.recomgov.df-1.estaleiro.serpro.gov.br](https://api.recomgov.df-1.estaleiro.serpro.gov.br)
+ - date_published: 2024-05-10T03:45:28.970230+00:00
+
+ ## gov.br - Search Console
+ - [https://portalunico.estaleiro.serpro.gov.br](https://portalunico.estaleiro.serpro.gov.br)
+ - date_published: 2023-02-06T18:04:13+00:00
+
+ ## Serpro
+ - [http://www.serpro.gov.br](http://www.serpro.gov.br)
+ - date_published: 2024-06-18T12:06:56.402259+00:00
+
+ ## Dúvidas Frequentes da Conta gov.br — Dúvidas Frequentes da Conta gov.br 1.0.0 documentation
+ - [http://faq-login-unico.servicos.gov.br](http://faq-login-unico.servicos.gov.br)
+ - date_published: 2024-04-24T03:56:05+00:00
+
+ ## VLibras Vídeo
+ - [https://video.vlibras.gov.br](https://video.vlibras.gov.br)
+ - date_published: 2024-06-27T16:13:43+00:00
+
+ ## VLibras
+ - [https://vlibras.gov.br](https://vlibras.gov.br)
+ - date_published: 2024-05-10T03:45:38.908101+00:00
+
+ ## WikiLibras - LAViD
+ - [https://wiki.vlibras.gov.br](https://wiki.vlibras.gov.br)
+ - date_published: 2024-07-11T21:35:17.472376+00:00
+
+ ## A Voz do Brasil
+ - [https://voz.gov.br](https://voz.gov.br)
+ - date_published: 2021-11-25T00:00:00+00:00
+
+ ## GOV.BR
+ - [https://gov.br](https://gov.br)
+ - date_published: 2023-12-11T19:33:23.992575+00:00
+ - tags: ['government']
+
+ ## Núcleo Jornalismo
+ - [https://nucleo.jor.br](https://nucleo.jor.br)
+ - date_published: 2024-08-11T12:28:53.909319+00:00
+
+ ## Divulgação de Candidaturas e Contas Eleitorais
+ - [https://divulgacandcontas.tse.jus.br](https://divulgacandcontas.tse.jus.br)
+ - date_published: 2024-05-10T02:48:51.518311+00:00
+
+ ## Resultados Oficial
+ - [https://resultados.tse.jus.br](https://resultados.tse.jus.br)
+ - date_published: 2022-11-10T22:48:19+00:00
+
+ ## Dados Abertos da Câmara dos Deputados
+ - [https://dadosabertos.camara.leg.br](https://dadosabertos.camara.leg.br)
+ - date_published: 2024-07-02T21:29:19.467157+00:00
+
+ ## Portal EVC - Onde Educação Vira Cidadania
+ - [http://escolavirtualdecidadania.camara.leg.br](http://escolavirtualdecidadania.camara.leg.br)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Erro de acesso
+ - [https://imgproxy.camara.leg.br](https://imgproxy.camara.leg.br)
+ - date_published: 2024-07-02T21:29:12.348051+00:00
+
+ ## Home - Câmara dos Deputados
+ - [https://infograficos.camara.leg.br](https://infograficos.camara.leg.br)
+ - date_published: 2024-07-02T21:29:10.551271+00:00
+
+ ## Portal da Câmara dos Deputados
+ - [https://www2.camara.leg.br](https://www2.camara.leg.br)
+ - date_published: 2024-07-02T21:29:42.917123+00:00
+
+ ## Portal da Câmara dos Deputados
+ - [https://camara.leg.br](https://camara.leg.br)
+ - date_published: 2024-05-07T23:30:03.588334+00:00
+
+ ## Home - Congresso Nacional
+ - [http://www.congressonacional.leg.br](http://www.congressonacional.leg.br)
+ - date_published: 2024-07-02T21:29:28.764412+00:00
+
+ ## Senado Federal
+ - [http://www.senado.leg.br](http://www.senado.leg.br)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Authentication - GLPI
+ - [https://homologcsti.teofilootoni.mg.gov.br](https://homologcsti.teofilootoni.mg.gov.br)
+ - date_published: 2024-06-16T15:32:46.115274+00:00
+
+ ## Exército Brasileiro - Exército Brasileiro
+ - [http://www.eb.mil.br](http://www.eb.mil.br)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Força Aérea Brasileira — Asas que protegem o país
+ - [http://www.fab.mil.br](http://www.fab.mil.br)
+ - date_published: 2020-05-02T14:01:41+00:00
+
+ ## Titulo do site
+ - [https://www.mar.mil.br](https://www.mar.mil.br)
+ - date_published: 2021-12-09T22:21:42+00:00
+
+ ## Início
+ - [https://licitacoescontratos.marinha.mil.br](https://licitacoescontratos.marinha.mil.br)
+ - date_published: 2024-09-04T15:36:38.331680+00:00
+
+ ## Agência Marinha de Notícias | Agência Marinha de Notícias
+ - [https://www.agencia.marinha.mil.br](https://www.agencia.marinha.mil.br)
+ - date_published: 2024-09-04T13:47:18+00:00
+
+ ## Marinha do Brasil
+ - [https://marinha.mil.br](https://marinha.mil.br)
+ - date_published: 2024-06-05T07:28:50.631346+00:00
+ - tags: ['maritime']
+
+ ## MPF
+ - [https://www.mpf.mp.br](https://www.mpf.mp.br)
+ - date_published: 2024-08-19T07:33:22.624570+00:00
+
+ ## Consequência Editora. Livros de Geografia, História, Ciências Sociais, Educação, Política, Humanas..
+ - [https://consequenciaeditora.net.br](https://consequenciaeditora.net.br)
+ - date_published: 2024-05-10T06:57:20.058367+00:00
+
+ ## Sputnik Brasil – Notícias Atuais do Mundo, Notícias Urgentes
+ - [https://noticiabrasil.net.br](https://noticiabrasil.net.br)
+ - date_published: 2024-06-15T08:41:29.275411+00:00
+
+ ## Parafernália Interativa – Intelligent Digital Experiences
+ - [https://parafernalia.net.br](https://parafernalia.net.br)
+ - date_published: 2024-05-11T09:07:35.154578+00:00
+
+ ## 🎖️ Pin Up Casino no Brasil - Site oficial ᐈ Ganhe R$1500 de Bonus
+ - [https://pinup.net.br](https://pinup.net.br)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Vento no Litoral
+ - [https://ventonolitoral.pontofixo.net.br](https://ventonolitoral.pontofixo.net.br)
+ - date_published: 2024-08-14T19:47:28.555843+00:00
+ - tags: ['personal']
+
+ ## ABC – Academia Brasileira de Ciências
+ - [https://abc.org.br](https://abc.org.br)
+ - date_published: 2024-05-07T20:15:39.987342+00:00
+
+ ## ABCr - Associação Brasileira de Cristalografia
+ - [https://www.abcristalografia.org.br](https://www.abcristalografia.org.br)
+ - date_published: 2024-07-13T18:12:45.385430+00:00
+
+ ## Associação Brasileira de Editores Científicos - ABEC
+ - [https://www.abecbrasil.org.br](https://www.abecbrasil.org.br)
+ - date_published: 2024-07-09T21:17:26.810610+00:00
+
+ ## Aduff-SSind - Associação dos Docentes da UFF
+ - [http://www.aduff.org.br](http://www.aduff.org.br)
+ - date_published: 2024-09-03T22:25:51+00:00
+
+ ## Alana
+ - [https://alana.org.br](https://alana.org.br)
+ - date_published: 2024-07-08T16:52:02.884045+00:00
+
+ ## Análise de Capacidade Pessoal
+ - [https://www.analisedecapacidadeoxford.org.br](https://www.analisedecapacidadeoxford.org.br)
+ - date_published: 2024-06-17T16:41:04.571841+00:00
+
+ ## ANDI - Comunicação e Direitos
+ - [http://www.andi.org.br](http://www.andi.org.br)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Anis | Início
+ - [http://anis.org.br](http://anis.org.br)
+ - date_published: 2024-08-18T05:25:45.693685+00:00
+
+ ## ANM - Academia Nacional de Medicina - :
+ - [https://anm.org.br](https://anm.org.br)
+ - date_published: 2024-06-12T13:17:10.907097+00:00
+
+ ## Home Nova - ANPG
+ - [https://www.anpg.org.br](https://www.anpg.org.br)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Arquidiocese de São Sebastião do Rio de Janeiro
+ - [https://arqrio.org.br](https://arqrio.org.br)
+ - date_published: 2024-07-07T00:42:09+00:00
+
+ ## Bem-vindo! | Cembra - Centro de Excelência para o Mar brasileiro
+ - [https://www.cembra.org.br](https://www.cembra.org.br)
+ - date_published: 2024-09-04T15:36:55.190952+00:00
+
+ ## Central de Atendimento 156
+ - [http://www.central156.org.br](http://www.central156.org.br)
+ - date_published: 2024-06-12T11:19:42.908816+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://cidadesinteligentes.org.br](https://cidadesinteligentes.org.br)
+ - date_published: 2024-06-12T11:17:39.012950+00:00
+
+ ## Conselho Indigenista Missionário | Cimi
+ - [http://cimi.org.br](http://cimi.org.br)
+ - date_published: 2017-09-28T15:38:46+00:00
+
+ ## IP Check: Tech News and Your IP Address
+ - [http://www.cipsga.org.br](http://www.cipsga.org.br)
+ - date_published: 2024-09-02T10:32:51.515380+00:00
+
+ ## CONTRASP – Confederação Nacional dos Trabalhadores de Segurança Privada
+ - [https://contrasp.org.br](https://contrasp.org.br)
+ - date_published: 2024-07-17T07:37:07.903915+00:00
+
+ ## ICI Carreiras - Instituto das Cidades Inteligentes
+ - [https://carreiras.ici.curitiba.org.br](https://carreiras.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:17:29.011098+00:00
+
+ ## CDN ICI
+ - [https://cdn.ici.curitiba.org.br](https://cdn.ici.curitiba.org.br)
+ - date_published: 2019-02-06T16:17:26+00:00
+
+ ## Portal do Instituto das Cidades Inteligentes
+ - [https://ici.curitiba.org.br](https://ici.curitiba.org.br)
+ - date_published: 2024-06-12T03:30:14.046448+00:00
+
+ ## ICI - Instituto das Cidades Inteligentes
+ - [http://servicedesk.ici.curitiba.org.br](http://servicedesk.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:37.807369+00:00
+
+ ## ICI | Login
+ - [https://service.ici.curitiba.org.br](https://service.ici.curitiba.org.br)
+ - date_published: 2024-06-12T11:19:25.802005+00:00
+
+ ## Home — Debian Brasil
+ - [https://debianbrasil.org.br](https://debianbrasil.org.br)
+ - date_published: 2024-06-14T14:07:29+00:00
+
+ ## Início - Coalizão Direitos na Rede
+ - [https://direitosnarede.org.br](https://direitosnarede.org.br)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Escravo, nem pensar!
+ - [https://escravonempensar.org.br](https://escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:51.999598+00:00
+
+ ## Escravo, nem pensar!
+ - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
+ - date_published: 2024-01-09T02:26:57.139425+00:00
+
+ ## Home
+ - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
+ - date_published: 2024-06-12T11:17:25.476740+00:00
+
+ ## Página Inicial EVIDA – Home - EVIDA - Assistencia à Saúde
+ - [https://www.evida.org.br](https://www.evida.org.br)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## V Fórum do Conhecimento
+ - [https://forumdoconhecimento.fdc.org.br](https://forumdoconhecimento.fdc.org.br)
+ - date_published: 2023-09-28T20:26:27+00:00
+
+ ## O Sistema Financiar divulga os agentes financiadores, nacionais e internacionais, que apoiam projetos de P,D&I no Brasil.
+ - [https://www.financiar.org.br](https://www.financiar.org.br)
+ - date_published: 2024-07-07T06:42:42+00:00
+
+ ## Página Inicial | FRM - Fundação Roberto Marinho
+ - [http://www.frm.org.br](http://www.frm.org.br)
+ - date_published: 2024-07-13T02:17:52.257720+00:00
+
+ ## FEMAR - Fundação de Estudos do Mar
+ - [https://fundacaofemar.org.br](https://fundacaofemar.org.br)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Página Inicial - Fundação Santillana
+ - [https://fundacaosantillana.org.br](https://fundacaosantillana.org.br)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Fundunesp - Fundação para o Desenvolvimento da Unesp
+ - [https://www.fundunesp.org.br](https://www.fundunesp.org.br)
+ - date_published: 2024-07-15T07:34:11.285719+00:00
+
+ ## 1. Home - GFI Brasil
+ - [https://gfi.org.br](https://gfi.org.br)
+ - date_published: 2024-06-20T17:52:44+00:00
+
+ ## ICOM Brasil
+ - [https://icom.org.br](https://icom.org.br)
+ - date_published: 2024-05-29T00:37:52.847010+00:00
+
+ ## Home - Inhotim
+ - [https://inhotim.org.br](https://inhotim.org.br)
+ - date_published: 2023-11-13T13:54:33.035629+00:00
+ - tags: ['museum']
+
+ ## Instituto Ricardo Brennand
+ - [https://institutoricardobrennand.org.br](https://institutoricardobrennand.org.br)
+ - date_published: 2023-11-13T13:53:50.117261+00:00
+ - tags: ['museum']
+
+ ## Home - IPAM Amazônia
+ - [https://ipam.org.br](https://ipam.org.br)
+ - date_published: 2024-05-10T02:49:03.266225+00:00
+
+ ## pacing.space
+ - [https://nst.ipam.org.br](https://nst.ipam.org.br)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## IPPUC | Prefeitura Municipal de Curitiba
+ - [https://ippuc.org.br](https://ippuc.org.br)
+ - date_published: 2024-06-12T11:18:33.045868+00:00
+
+ ## Utag –  Unidade Técnico-Administrativa de Gerenciamento
+ - [https://utag.ippuc.org.br](https://utag.ippuc.org.br)
+ - date_published: 2024-06-12T03:30:42.682396+00:00
+
+ ## Portal Jesuítas Brasil – Companhia de Jesus, conhecida como Ordem dos Jesuítas, foi fundada por Santo Inácio de Loyola e aprovada oficialmente pelo Papa Paulo III, em 27 de setembro de 1540
+ - [https://jesuitasbrasil.org.br](https://jesuitasbrasil.org.br)
+ - date_published: 2024-07-07T06:43:05.375427+00:00
+
+ ## Página Inicial
+ - [https://www.labre.org.br](https://www.labre.org.br)
+ - date_published: 2024-06-28T22:47:17.458043+00:00
+
+ ## - Home
+ - [https://laut.org.br](https://laut.org.br)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Portal do Livro Acessível - Solicite seu livro em formato acessível
+ - [http://livroacessivel.org.br](http://livroacessivel.org.br)
+ - date_published: 2024-07-13T02:13:26.718092+00:00
+
+ ## MASP
+ - [https://masp.org.br](https://masp.org.br)
+ - date_published: 2023-11-13T13:41:34.414087+00:00
+ - tags: ['museum']
+
+ ## MASP Loja
+ - [https://www.masploja.org.br](https://www.masploja.org.br)
+ - date_published: 2024-07-19T22:14:06.142964+00:00
+
+ ## Mercy For Animals – Maior Organização do Mundo em Promoção do Veganismo e Defesa dos Direitos dos Animais Explorados para Consumo
+ - [https://mercyforanimals.org.br](https://mercyforanimals.org.br)
+ - date_published: 2024-05-10T06:58:15.910935+00:00
+
+ ## Informação sobre Drogas Ilegais e Abuso de Álcool — Mundo sem Drogas
+ - [https://www.mundosemdrogas.org.br](https://www.mundosemdrogas.org.br)
+ - date_published: 2024-09-04T17:59:52.269900+00:00
+
+ ## Home - Museu de Arte do Rio – MAR
+ - [https://museudeartedorio.org.br](https://museudeartedorio.org.br)
+ - date_published: 2024-06-16T05:05:02.469317+00:00
+
+ ## Museu do Amanhã
+ - [https://museudoamanha.org.br](https://museudoamanha.org.br)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## O Caminho para a Felicidade: Um Código Moral de Ética e Decência Não Religioso - 21 Caminhos para Ser Feliz
+ - [https://www.ocaminhoparafelicidade.org.br](https://www.ocaminhoparafelicidade.org.br)
+ - date_published: 2024-09-04T18:00:38.190119+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://go.ok.org.br](https://go.ok.org.br)
+ - date_published: 2024-06-12T12:34:04.833924+00:00
+
+ ## Home - Open Knowledge Brasil
+ - [https://ok.org.br](https://ok.org.br)
+ - date_published: 2024-06-12T06:03:34.762017+00:00
+
+ ## Home - Oxfam Brasil
+ - [https://www.oxfam.org.br](https://www.oxfam.org.br)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Pivô
+ - [https://pivo.org.br](https://pivo.org.br)
+ - date_published: 2024-02-08T17:51:49.160299+00:00
+
+ ## Portas Abertas – Tudo sobre cristãos perseguidos e a Igreja Perseguida
+ - [https://portasabertas.org.br](https://portasabertas.org.br)
+ - date_published: 2024-05-08T11:12:55.979392+00:00
+
+ ## Planeta PythonBrasil
+ - [https://planet.python.org.br](https://planet.python.org.br)
+ - date_published: 2021-07-11T00:00:00+00:00
+
+ ## PythonBrasil - PythonBrasil
+ - [http://wiki.python.org.br](http://wiki.python.org.br)
+ - date_published: 2024-06-28T19:57:47.783697+00:00
+
+ ## Rede Foto – Rede de Produtores Culturais da Fotografia no Brasil
+ - [https://redefoto.org.br](https://redefoto.org.br)
+ - date_published: 2024-07-10T07:56:04.031089+00:00
+
+ ## Comunicar para Mudar
+ - [https://comunicarparamudar.reporterbrasil.org.br](https://comunicarparamudar.reporterbrasil.org.br)
+ - date_published: 2024-01-09T02:27:01.376800+00:00
+
+ ## Mapa da Água: O que sai da sua torneira?
+ - [https://mapadaagua.reporterbrasil.org.br](https://mapadaagua.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:32:28.275445+00:00
+
+ ## Narcogarimpos – Especial – Narcogarimpos
+ - [https://narcogarimpos.reporterbrasil.org.br](https://narcogarimpos.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:35.359408+00:00
+
+ ## Nome aos Bois – Reporter Brasil
+ - [https://nomeaosbois.reporterbrasil.org.br](https://nomeaosbois.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:34:47.478056+00:00
+
+ ## Repórter Brasil
+ - [https://reporterbrasil.org.br](https://reporterbrasil.org.br)
+ - date_published: 2023-11-14T17:00:02.121596+00:00
+
+ ## Ruralômetro - Medindo a febre ruralista dos candidatos
+ - [https://ruralometro2018.reporterbrasil.org.br](https://ruralometro2018.reporterbrasil.org.br)
+ - date_published: 2024-05-10T03:48:46.273300+00:00
+
+ ## Ruralômetro 2022 - Ferramenta ajuda a escolher deputados
+ - [https://ruralometro2022.reporterbrasil.org.br](https://ruralometro2022.reporterbrasil.org.br)
+ - date_published: 2023-12-11T19:31:35.115572+00:00
+
+ ## Página inicial - Sociedade Brasileira de Reumatologia
+ - [https://www.reumatologia.org.br](https://www.reumatologia.org.br)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Rumar - Instituto Rumo ao Mar
+ - [https://www.rumar.org.br](https://www.rumar.org.br)
+ - date_published: 2020-07-15T00:00:00+00:00
+
+ ## CSBC 2023
+ - [https://csbc.sbc.org.br](https://csbc.sbc.org.br)
+ - date_published: 2023-10-02T18:11:44+00:00
+
+ ## Home
+ - [http://sintfub.org.br](http://sintfub.org.br)
+ - date_published: 2024-07-20T11:20:10.784034+00:00
+
+ ## SouJava – Sociedade de Usuários da Tecnologia Java
+ - [https://soujava.org.br](https://soujava.org.br)
+ - date_published: 2024-07-01T05:19:19.213935+00:00
+
+ ## The Nature Conservancy
+ - [https://tnc.org.br](https://tnc.org.br)
+ - date_published: 2024-05-08T10:42:44.077294+00:00
+
+ ## Campanha da Declaração Universal dos Direitos Humanos: O que são Direitos Humanos? Definição
+ - [https://www.unidospelosdireitoshumanos.org.br](https://www.unidospelosdireitoshumanos.org.br)
+ - date_published: 2024-09-04T17:58:03.749796+00:00
+
+ ## Vocação - Você em Ação
+ - [https://vocacao.org.br](https://vocacao.org.br)
+ - date_published: 2024-05-07T14:58:15.444029+00:00
+
+ ## WWF - Ficha de Doação
+ - [https://doe.wwf.org.br](https://doe.wwf.org.br)
+ - date_published: 2024-05-28T22:50:27+00:00
+
+ ## WWF-Brasil
+ - [https://wwf.org.br](https://wwf.org.br)
+ - date_published: 2024-05-07T23:56:56.112200+00:00
+
+ ## PMPE - Polícia Militar de Pernambuco
+ - [https://www.pm.pe.gov.br](https://www.pm.pe.gov.br)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Página Inicial — Portal da Câmara Municipal de Curitiba
+ - [http://www.cmc.pr.gov.br](http://www.cmc.pr.gov.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Central de Atendimento 156
+ - [https://156.curitiba.pr.gov.br](https://156.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:24.570844+00:00
+
+ ## Coleta de Lixo - Prefeitura de Curitiba
+ - [http://coletalixo.curitiba.pr.gov.br](http://coletalixo.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T11:18:22.191362+00:00
+
+ ## Comunicação Social - Prefeitura de Curitiba
+ - [https://comunicacao.curitiba.pr.gov.br](https://comunicacao.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:03.685648+00:00
+
+ ## Controladoria - Prefeitura de Curitiba
+ - [https://controladoria.curitiba.pr.gov.br](https://controladoria.curitiba.pr.gov.br)
+ - date_published: 2024-06-12T03:30:06.297486+00:00
+
  ## ImunizaJáCuritiba - Prefeitura de Curitiba
  - [https://coronavirus.curitiba.pr.gov.br](https://coronavirus.curitiba.pr.gov.br)
  - date_published: 2024-06-12T11:17:53.636747+00:00
@@ -273,6 +931,10 @@
  ## Aleph, Ciudad de crecimiento
  - [https://www.aleph.crecimiento.build](https://www.aleph.crecimiento.build)
  - date_published: 2024-08-16T00:00:00+00:00
+
+ ## ETH.Build - Educational Sandbox For Web3
+ - [http://eth.build](http://eth.build)
+ - date_published: 2020-05-26T22:35:03+00:00
 
  ## Flaky Build
  - [https://flaky.build](https://flaky.build)
@@ -1819,7 +2481,7 @@
 
  ## Java Decompiler
  - [http://jd.benow.ca](http://jd.benow.ca)
- - date_published: 2024-06-03T07:53:19.464256+00:00
+ - date_published: 2019-12-25T14:57:06+00:00
  - tags: ['java', 'reverse engineering', 'java decompiler']
 
  ## benui mastodon instance
@@ -2017,6 +2679,10 @@
  ## Lizok's Bookshelf
  - [http://lizoksbooks.blogspot.ca](http://lizoksbooks.blogspot.ca)
  - date_published: 2024-06-03T02:06:21+00:00
+
+ ## 2 Wheels, 2 Oceans, 2 Months
+ - [https://mikeseatosea.blogspot.ca](https://mikeseatosea.blogspot.ca)
+ - date_published: 2024-02-07T23:22:40+00:00
 
  ## Computing Reality
  - [http://milesparker.blogspot.ca](http://milesparker.blogspot.ca)
@@ -2683,8 +3349,8 @@
  - date_published: 2024-08-19T03:21:37.667871+00:00
 
  ## Computational Geometry Lab - Index
- - [http://cglab.ca](http://cglab.ca)
- - date_published: 2024-06-03T06:26:38.573261+00:00
+ - [https://cglab.ca](https://cglab.ca)
+ - date_published: 2023-04-26T11:00:03+00:00
 
  ## Home | Challenge Factory
  - [https://challengefactory.ca](https://challengefactory.ca)
@@ -2725,6 +3391,10 @@
  ## Chevrolet Canada | Cars, Trucks, SUVs, Crossovers & Vans
  - [https://www.chevrolet.ca](https://www.chevrolet.ca)
  - date_published: 2024-06-20T07:45:15.310364+00:00
+
+ ## The Canadian Hydrogen and Fuel Cell Association
+ - [https://www.chfca.ca](https://www.chfca.ca)
+ - date_published: 2024-08-25T14:22:35+00:00
 
  ## Childcare in Canada, Canada
  - [http://www.childcare.ca](http://www.childcare.ca)
@@ -2811,6 +3481,10 @@
  - [https://citizenlab.ca](https://citizenlab.ca)
  - date_published: 2023-10-25T12:09:16.663748+00:00
  - tags: ['human rights', 'privacy']
+
+ ## Citizens Commission on Human Rights, CCHR - Nonprofit Mental Health Watchdog
+ - [http://www.citizenscommissiononhumanrights.ca](http://www.citizenscommissiononhumanrights.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
 
  ## Breaking News | Top Local Stories | CityNews Calgary
  - [https://calgary.citynews.ca](https://calgary.citynews.ca)
@@ -2973,6 +3647,10 @@
  - [https://www.computecanada.ca](https://www.computecanada.ca)
  - date_published: 2022-04-01T00:00:00+00:00
 
+ ## AAMAS 2019 - Home
+ - [http://aamas2019.encs.concordia.ca](http://aamas2019.encs.concordia.ca)
+ - date_published: 2019-05-18T21:46:49+00:00
+
  ## Index Page
  - [https://campus.concordia.ca](https://campus.concordia.ca)
  - date_published: 2023-03-14T23:30:30+00:00
@@ -3127,7 +3805,7 @@
  - date_published: 2023-06-17T06:10:52+00:00
 
  ## Credit Karma
- - [https://www.creditkarma.ca](https://www.creditkarma.ca)
+ - [https://creditkarma.ca](https://creditkarma.ca)
  - date_published: 2024-05-31T20:19:05.638595+00:00
 
  ## CREST.BD | New directions in bipolar disorder research, treatment and care
@@ -3346,680 +4024,4 @@
  ## Daniel Frank – Frankly Speaking
  - [https://danfrank.ca](https://danfrank.ca)
  - date_published: 2024-06-19T02:11:12.251966+00:00
-
- ## Dan Millar
- - [https://danmillar.ca](https://danmillar.ca)
- - date_published: 2024-04-08T09:33:51.903896+00:00
- - tags: ['personal']
-
- ## danso - home
- - [https://danso.ca](https://danso.ca)
- - date_published: 2024-04-07T15:12:43+00:00
-
- ## Daniel Chan: searching for counterworlds
- - [https://danwchan.ca](https://danwchan.ca)
- - date_published: 2024-03-07T15:47:34+00:00
-
- ## Dartmouth Seniors Service Centre
- - [https://www.dartmouthseniors.ca](https://www.dartmouthseniors.ca)
- - date_published: 2024-07-11T17:19:16.294170+00:00
-
- ## Darts & Letters
- - [https://dartsandletters.ca](https://dartsandletters.ca)
- - date_published: 2024-05-08T05:04:43.852003+00:00
-
- ## Aaron Klotz’s Software Blog
- - [https://dblohm7.ca](https://dblohm7.ca)
- - date_published: 2023-12-14T17:06:16+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://www.dealerrater.ca](https://www.dealerrater.ca)
- - date_published: 2024-06-26T22:36:55.069354+00:00
-
- ## Death Matters – Planning Together for End of Life
- - [https://deathmatters.ca](https://deathmatters.ca)
- - date_published: 2024-06-30T05:13:39.372583+00:00
-
- ## Get that summer wishlist ready! - Decathlon Canada
- - [https://www.decathlon.ca](https://www.decathlon.ca)
- - date_published: 2024-05-01T04:26:57.619828+00:00
-
- ## The DECromancer Archive
- - [https://archive.decromancer.ca](https://archive.decromancer.ca)
- - date_published: 2021-12-08T18:44:00+00:00
-
- ## index
- - [https://decromancer.ca](https://decromancer.ca)
- - date_published: 2023-11-13T03:04:43+00:00
-
- ## Deflect
- - [https://dashboard.deflect.ca](https://dashboard.deflect.ca)
- - date_published: 2024-08-20T03:42:51.087146+00:00
-
- ## Deflect - DDoS protection and web security
- - [https://deflect.ca](https://deflect.ca)
- - date_published: 2024-05-23T12:28:08.242443+00:00
-
- ## Computers, Monitors & Technology Solutions | Dell Canada
- - [http://www.dell.ca](http://www.dell.ca)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Dentists in Canada, Canada
- - [http://www.dentistscanada.ca](http://www.dentistscanada.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Steven Deobald
- - [https://www.deobald.ca](https://www.deobald.ca)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Home - Design de Plume
- - [http://deplume.ca](http://deplume.ca)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Daniel de Repentigny
- - [https://derepentigny.ca](https://derepentigny.ca)
- - date_published: 2024-06-21T15:31:21+00:00
-
- ## Detailing in Canada, Canada
- - [http://www.detailing.ca](http://www.detailing.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Dev Degree
- - [https://devdegree.ca](https://devdegree.ca)
- - date_published: 2024-04-29T03:43:12.030075+00:00
-
- ## Daniel P. Gross
- - [https://dgross.ca](https://dgross.ca)
- - date_published: 2023-10-25T09:02:15.935166+00:00
- - tags: ['personal']
-
- ## Dhrumil Patel
- - [https://dhrumil.ca](https://dhrumil.ca)
- - date_published: 2024-07-08T22:24:14.211592+00:00
-
- ## Diabetes at School | Home
- - [https://diabetesatschool.ca](https://diabetesatschool.ca)
- - date_published: 2024-08-17T23:02:31.303193+00:00
-
- ## Home | Diéssica Gurskas
- - [https://diessi.ca](https://diessi.ca)
- - date_published: 2024-05-07T23:14:03.054373+00:00
-
- ## Dietitians of Canada - Join one of the largest communities of dietitians in the world
- - [http://www.dietitians.ca](http://www.dietitians.ca)
- - date_published: 2024-08-06T19:47:42.210386+00:00
-
- ## Home
- - [https://digihypemedia.ca](https://digihypemedia.ca)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## DigiKey Home
- - [https://www.digikey.ca](https://www.digikey.ca)
- - date_published: 2024-05-01T05:04:33.238495+00:00
-
- ## Digital Archive Ontario
- - [https://digitalarchiveontario.ca](https://digitalarchiveontario.ca)
- - date_published: 2024-05-12T05:59:08.303817+00:00
-
- ## Digital Bible | The World's First AI-Powered Bible
- - [https://digitalbible.ca](https://digitalbible.ca)
- - date_published: 2024-06-19T19:51:37.934308+00:00
-
- ## digital junkies
- - [http://www.digitaljunkies.ca](http://www.digitaljunkies.ca)
- - date_published: 2022-06-06T22:01:15+00:00
-
- ## Digital Main Street - Transforming Bricks-and-Mortar
- - [https://digitalmainstreet.ca](https://digitalmainstreet.ca)
- - date_published: 2017-02-23T03:00:53+00:00
-
- ## Canadian Fibre & Textile Arts Magazine - Digits & Threads
- - [https://digitsandthreads.ca](https://digitsandthreads.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Best Restaurants in Toronto for 2024 | Dining.ca by N49
- - [http://www.dining.ca](http://www.dining.ca)
- - date_published: 2024-06-29T17:27:16.534998+00:00
-
- ## Family Vacations at Disney Parks & Resorts
- - [https://www.disney.ca](https://www.disney.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Distantia | Conception - Programmation - design et développement de site Internet - Gatineau Ottawa Montréal
- - [http://www.distantia.ca](http://www.distantia.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## CanDIG
- - [https://www.distributedgenomics.ca](https://www.distributedgenomics.ca)
- - date_published: 2024-07-10T05:35:29.808237+00:00
-
- ## DividendStrategy.ca – Financial independence through dividend investing
- - [https://dividendstrategy.ca](https://dividendstrategy.ca)
- - date_published: 2024-06-29T21:19:52.134964+00:00
-
- ## Dj in Canada, Canada
- - [http://www.dj.ca](http://www.dj.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home - DMOJ: Modern Online Judge
- - [https://dmoj.ca](https://dmoj.ca)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## DMOJ Documentation
- - [https://docs.dmoj.ca](https://docs.dmoj.ca)
- - date_published: 2024-03-12T22:09:28+00:00
-
- ## About dmoj.algome.me
- - [https://static.dmoj.ca](https://static.dmoj.ca)
- - date_published: 2017-11-27T01:46:00+00:00
-
- ## Domain Names | Dncanada Inc.
- - [https://www.dncanada.ca](https://www.dncanada.ca)
- - date_published: 2024-09-03T21:19:47.634443+00:00
-
- ## Dodge Vehicles, Muscle Cars and Crossovers | Dodge Canada
- - [https://www.dodge.ca](https://www.dodge.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Doge Microsystems
- - [http://dogemicrosystems.ca](http://dogemicrosystems.ca)
- - date_published: 2023-10-18T01:17:26+00:00
-
- ## Doki Doki Productions
- - [http://www.doki.ca](http://www.doki.ca)
- - date_published: 2024-07-04T14:46:37.350466+00:00
-
- ## Do Some Good
- - [https://dosomegood.ca](https://dosomegood.ca)
- - date_published: 2024-05-07T10:43:16.704627+00:00
-
- ## API Documentation
- - [http://api.dothealth.ca](http://api.dothealth.ca)
- - date_published: 2019-08-18T00:00:00+00:00
-
- ## Home | Dot Health
- - [https://dothealth.ca](https://dothealth.ca)
- - date_published: 2022-09-02T00:00:00+00:00
-
- ## Dot Health Help Center
- - [http://help.dothealth.ca](http://help.dothealth.ca)
- - date_published: 2024-06-23T12:43:24.747164+00:00
-
- ## Status overview
- - [https://downdetector.ca](https://downdetector.ca)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Connectivism & Connective Knowledge
- - [http://connect.downes.ca](http://connect.downes.ca)
- - date_published: 2019-03-17T20:54:35+00:00
-
- ## gRSShopper
- - [https://grsshopper.downes.ca](https://grsshopper.downes.ca)
- - date_published: 2018-09-16T22:07:03+00:00
-
- ## : Stephen's Web : ~ Page 152
- - [https://downes.ca](https://downes.ca)
- - date_published: 2024-05-08T05:51:30.986322+00:00
-
- ## John Martz
- - [http://drawn.ca](http://drawn.ca)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Dr.Bill - Medical Billing Software for OHIP, MSP & AHCIP
- - [http://www.dr-bill.ca](http://www.dr-bill.ca)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Driving
- - [https://driving.ca](https://driving.ca)
- - date_published: 2023-11-02T22:48:04.515862+00:00
-
- ## drjoe.ca
- - [https://drjoe.ca](https://drjoe.ca)
- - date_published: 2024-07-23T23:42:25.766731+00:00
-
- ## Diamond Schmitt
- - [https://dsai.ca](https://dsai.ca)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Digital Shape Technologies - Mirror
- - [http://mirror.dst.ca](http://mirror.dst.ca)
- - date_published: 2023-12-15T19:41:19+00:00
-
- ## Home ← Dumitru Erhan
- - [http://www.dumitru.ca](http://www.dumitru.ca)
- - date_published: 2024-05-11T05:23:08+00:00
-
- ## Dungeon Map Doodler
- - [https://dungeonmapdoodler.ca](https://dungeonmapdoodler.ca)
- - date_published: 2024-01-04T20:15:51+00:00
-
- ## dvd3000 dot ca
- - [https://dvd3000.ca](https://dvd3000.ca)
- - date_published: 2023-12-09T00:00:00+00:00
-
- ## Gaming Chair | Best Gaming Chair Brand For Gamers | DXRacer Canada
- - [https://www.dxracer.ca](https://www.dxracer.ca)
- - date_published: 2024-07-03T12:26:14.871534+00:00
-
- ## Dynamic Funds®
- - [https://www.dynamic.ca](https://www.dynamic.ca)
- - date_published: 2024-06-16T08:47:37.060733+00:00
-
- ## Vacuum cleaners, hair stylers, hair dryers, hair straighteners, air purifiers, lighting | Dyson Canada
- - [https://www.dysoncanada.ca](https://www.dysoncanada.ca)
- - date_published: 2024-07-07T01:57:21.992634+00:00
-
- ## Precast Concrete Construction Builders | Eagle Builders
- - [https://eaglebuilders.ca](https://eaglebuilders.ca)
- - date_published: 2023-07-12T19:55:00+00:00
-
- ## Motorcycle Rentals - Motorcycle Tours | EagleRider
- - [https://www.eaglerider.ca](https://www.eaglerider.ca)
- - date_published: 2024-07-13T02:19:41.378647+00:00
-
- ## Earls Kitchen + Bar Restaurants
- - [https://earls.ca](https://earls.ca)
- - date_published: 2024-06-30T11:47:42.244787+00:00
-
- ## Canadian Early Arthritis |
- - [http://earlyarthritis.ca](http://earlyarthritis.ca)
- - date_published: 2024-06-28T12:10:12.452697+00:00
-
- ## Earvin Fanfair | Visual Design Lead at Google
- - [http://earvin.ca](http://earvin.ca)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Easterbrook.ca
- - [https://easterbrook.ca](https://easterbrook.ca)
- - date_published: 2018-04-10T15:40:03+00:00
-
- ## Eastern Bloc | Centre de production et d'exposition
- - [http://easternbloc.ca](http://easternbloc.ca)
- - date_published: 2024-07-09T14:36:53.148956+00:00
-
- ## Eastern College | Official Website
- - [https://www.easterncollege.ca](https://www.easterncollege.ca)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## easyMAIL Webmail :: Welcome to easyMAIL Webmail
- - [https://messages.easymail.ca](https://messages.easymail.ca)
- - date_published: 2024-05-01T08:12:01.823294+00:00
-
- ## Announcements
- - [https://announcements.ebay.ca](https://announcements.ebay.ca)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Produits électroniques, Voitures, Vêtements, Objets de collection, Bons d'achat et autres achats en ligne | eBay
- - [http://cafr.ebay.ca](http://cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:03.897167+00:00
-
- ## eBay shopping cart
- - [https://cart.payments.cafr.ebay.ca](https://cart.payments.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:06.222887+00:00
-
- ## eBay shopping cart
- - [https://cart.payments.ebay.ca](https://cart.payments.ebay.ca)
- - date_published: 2024-06-16T23:30:22.385532+00:00
-
- ## Communauté eBay
- - [https://community.cafr.ebay.ca](https://community.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:18.681165+00:00
-
- ## The eBay Canada Community
- - [https://community.ebay.ca](https://community.ebay.ca)
- - date_published: 2024-06-16T23:30:28.198875+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.cafr.ebay.ca](https://mesg.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:21.442386+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.ca](https://mesg.ebay.ca)
- - date_published: 2024-06-16T23:30:20.392334+00:00
-
- ## Produits électroniques, Voitures, Vêtements, Objets de collection, Bons d'achat et autres achats en ligne | eBay
- - [https://pages.cafr.ebay.ca](https://pages.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:10.420420+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://pages.ebay.ca](https://pages.ebay.ca)
- - date_published: 2024-06-16T23:30:06.005083+00:00
-
- ## Mesure de sécurité
- - [https://signin.cafr.ebay.ca](https://signin.cafr.ebay.ca)
- - date_published: 2024-06-16T23:31:25.386495+00:00
-
- ## Sign in or Register | eBay
- - [https://signin.ebay.ca](https://signin.ebay.ca)
- - date_published: 2024-06-16T23:30:08.110230+00:00
-
- ## Produits électroniques, Voitures, Vêtements, Objets de collection, Bons d'achat et autres achats en ligne | eBay
- - [https://www.cafr.ebay.ca](https://www.cafr.ebay.ca)
- - date_published: 2024-05-01T08:16:01.681396+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://www.ebay.ca](https://www.ebay.ca)
- - date_published: 2024-05-01T08:15:53.529775+00:00
-
- ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
- - [https://www.ebgames.ca](https://www.ebgames.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Redirect
- - [https://extend-domains.ecampusontario.ca](https://extend-domains.ecampusontario.ca)
- - date_published: 2021-04-22T21:26:58+00:00
-
- ## Home | Ontario Extend
- - [https://extend.ecampusontario.ca](https://extend.ecampusontario.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://piwik.ecchi.ca](https://piwik.ecchi.ca)
- - date_published: 2024-05-08T11:42:35.654064+00:00
-
- ## Home - Ecclesiastical Insurance
- - [https://ecclesiastical.ca](https://ecclesiastical.ca)
- - date_published: 2021-01-28T19:01:09+00:00
-
- ## eContact!
- - [https://econtact.ca](https://econtact.ca)
- - date_published: 2023-10-25T12:09:30.076113+00:00
-
- ## HOME | ECSA-C
- - [https://www.ecsa-c.ca](https://www.ecsa-c.ca)
- - date_published: 2024-07-09T14:16:51.272290+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.edealer.ca](https://www.edealer.ca)
- - date_published: 2024-06-26T22:36:33.392327+00:00
-
- ## Web Design & Digital Marketing Red Deer | Red Deer Web Design | EDGE Marketing
- - [https://www.edgemarketing.ca](https://www.edgemarketing.ca)
- - date_published: 2017-10-03T01:35:00+00:00
-
- ## HCI | University of Waterloo
- - [http://edithlaw.ca](http://edithlaw.ca)
- - date_published: 2024-07-05T18:12:26+00:00
-
- ## Editors Canada
- - [https://www.editors.ca](https://www.editors.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home | City of Edmonton
- - [https://www.edmonton.ca](https://www.edmonton.ca)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## History, Heritage, Culture | Edmonton Heritage Council
- - [https://edmontonheritage.ca](https://edmontonheritage.ca)
- - date_published: 2024-07-20T15:44:28.488990+00:00
-
- ## Edmonton Police Service
- - [http://www.edmontonpolice.ca](http://www.edmontonpolice.ca)
- - date_published: 2024-07-02T05:40:18.356570+00:00
-
- ## Edmonton Real Estate, Homes, Condos for Sale
- - [https://www.edmontonrealestate.ca](https://www.edmontonrealestate.ca)
- - date_published: 2024-08-06T18:27:21.240490+00:00
-
- ## Educate & Explore
- - [https://www.educateandexplore.ca](https://www.educateandexplore.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Eeems' Tutorial Hosting
- - [http://t.eeems.ca](http://t.eeems.ca)
- - date_published: 2024-07-09T23:33:13.579254+00:00
-
- ## eharmony dating site | Meet singles & find real love in the UK
- - [https://www.eharmony.ca](https://www.eharmony.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Élections Canada en ligne - Elections Canada On-line
- - [https://elections.ca](https://elections.ca)
- - date_published: 2013-01-02T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Electricians 2020 | Electricians.ca Plumbers and Plumbing Contractors for 2020 | Electricians.ca
- - [http://www.electricians.ca](http://www.electricians.ca)
- - date_published: 2024-06-29T17:33:26.047931+00:00
-
- ## Elektra Montréal
- - [https://www.elektramontreal.ca](https://www.elektramontreal.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Elgin Arts Trail
- - [http://elginartstrail.ca](http://elginartstrail.ca)
- - date_published: 2024-05-16T10:10:04+00:00
-
- ## Elgin County – Progressive By Nature
- - [http://elgincounty.ca](http://elgincounty.ca)
- - date_published: 2024-06-29T09:47:08.629022+00:00
-
- ## Canada's Top 100 Employers | Eluta.ca
- - [http://content.eluta.ca](http://content.eluta.ca)
- - date_published: 2024-07-04T15:35:16.263527+00:00
-
- ## Job Search Canada | Eluta.ca
- - [https://www.eluta.ca](https://www.eluta.ca)
- - date_published: 2024-07-11T14:57:25.327137+00:00
-
- ## Embit - Signals from Technosphere
- - [https://embit.ca](https://embit.ca)
- - date_published: 2024-04-09T20:06:35.143210+00:00
- - tags: ['tech news']
-
- ## Home | EMD Serono Canada
- - [https://www.emdserono.ca](https://www.emdserono.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## En Alerte
- - [https://www.enalerte.ca](https://www.enalerte.ca)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## EntrepreNorth
- - [https://www.entreprenorth.ca](https://www.entreprenorth.ca)
- - date_published: 2024-08-06T03:01:12.668925+00:00
-
- ## Epic Water Filters | American-made | Certified against NSF/ANSI Stds
- - [https://www.epicwaterfilters.ca](https://www.epicwaterfilters.ca)
- - date_published: 2024-06-27T16:12:18.670090+00:00
-
- ## EP&T Magazine
- - [https://www.ept.ca](https://www.ept.ca)
- - date_published: 2024-06-17T00:36:29+00:00
-
- ## Check & Monitor Your Credit Report and Credit Score | Equifax
- - [https://www.consumer.equifax.ca](https://www.consumer.equifax.ca)
- - date_published: 2024-08-05T22:08:26.417494+00:00
-
- ## Eric Daigle
- - [https://ericdaigle.ca](https://ericdaigle.ca)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Eric Hogue's Blog
- - [https://erichogue.ca](https://erichogue.ca)
- - date_published: 2024-05-09T07:40:03.077842+00:00
-
- ## Humans and Technology - Exploring Tech in Everyday Lives | Humans and Technology
- - [https://www.erinkernohan.ca](https://www.erinkernohan.ca)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## i:Create ~ Login
- - [https://ic15.esolg.ca](https://ic15.esolg.ca)
- - date_published: 2024-06-29T09:47:29.724473+00:00
-
- ## Home - eSolutionsGroup
- - [http://www.esolutionsgroup.ca](http://www.esolutionsgroup.ca)
- - date_published: 2024-06-29T09:47:31.270612+00:00
-
- ## Espace pour la vie
- - [http://espacepourlavie.ca](http://espacepourlavie.ca)
- - date_published: 2024-07-10T11:04:40.124576+00:00
-
- ## Engineering | Engineering Student Societies' Council of Ontario
- - [https://www.essco.ca](https://www.essco.ca)
- - date_published: 2024-07-21T09:11:01.837803+00:00
-
- ## Home
- - [https://www.esso.ca](https://www.esso.ca)
- - date_published: 2024-07-17T16:34:54.621386+00:00
-
- ## Esteem Homes | We Build Structures & Relationships to Last
- - [http://esteemhomes.ca](http://esteemhomes.ca)
- - date_published: 2024-06-23T12:42:59.698706+00:00
-
- ## eStore Pros Canada
- - [http://estoreproscanada.ca](http://estoreproscanada.ca)
- - date_published: 2021-05-15T04:30:51+00:00
-
- ## Eternal Abundance • Eternal Abundance
- - [http://eternalabundance.ca](http://eternalabundance.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Welcome to EthicsWeb.ca -- Your Canadian window on ethics resources, national and international.
- - [http://www.ethicsweb.ca](http://www.ethicsweb.ca)
- - date_published: 2010-11-01T20:54:16+00:00
-
- ## Home | ETHToronto | August 13-14, 2024 | Toronto, Canada
- - [https://www.ethtoronto.ca](https://www.ethtoronto.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Networks 2016 Conference
- - [http://networks2016.etsmtl.ca](http://networks2016.etsmtl.ca)
- - date_published: 2016-10-13T19:28:50+00:00
-
- ## EurekaHacks
- - [https://eurekahacks.ca](https://eurekahacks.ca)
- - date_published: 2024-06-20T15:20:10.591787+00:00
-
- ## Evan Jones - Software Engineer | Computer Scientist
- - [https://www.evanjones.ca](https://www.evanjones.ca)
- - date_published: 2023-10-25T12:04:49.962005+00:00
-
- ## Evenix
- - [https://evenix.ca](https://evenix.ca)
- - date_published: 2024-07-10T05:32:49.487443+00:00
-
- ## Alexander Manu on 'Artificial Intelligence & the Future of Creativity'
- - [https://alexandermanu.eventbrite.ca](https://alexandermanu.eventbrite.ca)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Prepare to Study, Work, Live, and Migrate to Canada NOW!
- - [https://cometocanada2024withsun-corkuyas.eventbrite.ca](https://cometocanada2024withsun-corkuyas.eventbrite.ca)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## LangFest Montréal: 2018.08.21-26 (Free/Gratuit: 08.21-23; Conférences: 08.24-26)
- - [http://langfest2018.eventbrite.ca](http://langfest2018.eventbrite.ca)
- - date_published: 2024-07-02T09:01:07.115980+00:00
-
- ## Eventbrite
- - [https://www.eventbrite.ca](https://www.eventbrite.ca)
- - date_published: 2024-02-24T18:11:15.206135+00:00
-
- ## The Event Group | Event Planning & Management, Calgary, Alberta
- - [http://www.eventgroup.ca](http://www.eventgroup.ca)
- - date_published: 2024-06-26T22:37:00.100250+00:00
-
- ## EVENTIM | Buy Original Tickets for Concerts, Sports and More
- - [https://www.eventim.ca](https://www.eventim.ca)
- - date_published: 2024-07-20T14:52:29.944046+00:00
-
- ## This is the default server vhost
- - [http://www.eventrentals.ca](http://www.eventrentals.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Top 5 Top 5 Toronto Event Venues for 2020 | EventVenues.ca Plumbers and Plumbing Contractors for 2020 | EventVenues.ca
- - [http://www.eventvenues.ca](http://www.eventvenues.ca)
- - date_published: 2024-06-29T17:37:36.009009+00:00
-
- ## Login · Everlaw
- - [https://app.everlaw.ca](https://app.everlaw.ca)
- - date_published: 2024-06-16T07:41:55.947728+00:00
-
- ## eAwards
- - [https://fondationdefrance.evision.ca](https://fondationdefrance.evision.ca)
- - date_published: 2018-09-10T14:20:27+00:00
-
- ## Business Products and Solutions | Experian
- - [https://www.experian.ca](https://www.experian.ca)
- - date_published: 2024-06-25T21:32:00.596633+00:00
-
- ## LEGEND - SIMPLE. SESSIONABLE. AFFORDABLE.
- - [https://experiencelegend.ca](https://experiencelegend.ca)
- - date_published: 2023-04-04T00:00:00+00:00
-
- ## ICI EXPLORA
- - [http://ici.exploratv.ca](http://ici.exploratv.ca)
- - date_published: 2024-07-10T05:32:02.643262+00:00
-
- ## Extreme Taxidermy – Quality Alberta Taxidermy
- - [http://www.extremetaxidermy.ca](http://www.extremetaxidermy.ca)
- - date_published: 2024-08-20T05:35:50.278066+00:00
-
- ## Buy Prescription Glasses Online from $9 | Eyebuydirect Canada
- - [https://www.eyebuydirect.ca](https://www.eyebuydirect.ca)
- - date_published: 2024-07-09T10:17:13.237970+00:00
-
- ## Top 5 Top 5 Toronto EyeCare 2020 | EyeCare.ca Plumbers and Plumbing Contractors for 2020 | EyeCare.ca
- - [http://www.eyecare.ca](http://www.eyecare.ca)
- - date_published: 2024-06-29T17:34:49.850118+00:00
-
- ## Eyesurgery in Canada, Canada
- - [http://www.eyesurgery.ca](http://www.eyesurgery.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Factor_ | Healthy, Fully-Prepared Food Delivered to Your Door
- - [https://factormeals.ca](https://factormeals.ca)
- - date_published: 2024-06-18T17:20:20.346793+00:00
-
- ## FAIR Canada
- - [http://faircanada.ca](http://faircanada.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fair Vote Canada
- - [https://secure.fairvote.ca](https://secure.fairvote.ca)
- - date_published: 2024-07-20T12:02:47+00:00
-
- ## Fair Vote Canada - Proportional Representation
- - [https://www.fairvote.ca](https://www.fairvote.ca)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Stephen's Guide to the Logical Fallacies ~ Home Page
- - [https://www.fallacies.ca](https://www.fallacies.ca)
- - date_published: 2024-07-04T09:37:01+00:00
-
- ## Making It Up
- - [http://play.fallows.ca](http://play.fallows.ca)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## FanCons.ca - Canadian Comic, Sci-Fi, Anime, and Pop-Culture Fan Conventions
- - [https://fancons.ca](https://fancons.ca)
- - date_published: 2024-05-13T03:53:37.103488+00:00
- - tags: ['conventions']
-
- ## Forum Index - AnimeCons.com Forums
- - [https://forums.fancons.ca](https://forums.fancons.ca)
- - date_published: 2024-07-17T12:59:04.842879+00:00
-
- ## Murdoch Rocks!
- - [http://www.fandom.ca](http://www.fandom.ca)
- - date_published: 2021-09-21T15:38:23+00:00
-
- ## Fanshawe College
- - [https://www.fanshawec.ca](https://www.fanshawec.ca)
- - date_published: 2024-07-09T19:05:55+00:00
-
- ## Home | Farm Boy
- - [https://www.farmboy.ca](https://www.farmboy.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Welcome | Fedecan
- - [https://fedecan.ca](https://fedecan.ca)
- - date_published: 2024-07-23T09:24:22+00:00
-
- ## blog.fejes.ca | A behind the scenes peak at building a biotech company.
- - [http://blog.fejes.ca](http://blog.fejes.ca)
- - date_published: 2024-05-28T00:43:39.163402+00:00
-
- ## ferd.ca
- - [https://ferd.ca](https://ferd.ca)
- - date_published: 2023-10-25T12:04:53.238516+00:00
 

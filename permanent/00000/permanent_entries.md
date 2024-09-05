@@ -275,6 +275,10 @@
  - [https://www.openread.academy](https://www.openread.academy)
  - date_published: 2024-06-19T21:24:30.162457+00:00
 
+ ## Your streaming career starts here! - OWN3D.academy
+ - [https://www.own3d.academy](https://www.own3d.academy)
+ - date_published: 2024-09-04T17:33:59.908652+00:00
+
  ## Philosophy Academy
  - [https://philosophy.academy](https://philosophy.academy)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -503,9 +507,17 @@
  - [https://decathlon.ae](https://decathlon.ae)
  - date_published: 2024-06-15T20:21:29.316113+00:00
 
+ ## Business in the UAE
+ - [https://www.decrypt-pro.ae](https://www.decrypt-pro.ae)
+ - date_published: 2024-09-04T12:20:58.233999+00:00
+
  ## Careers at Deliveroo - Discover a career full of possibility
  - [https://careers.deliveroo.ae](https://careers.deliveroo.ae)
  - date_published: 2024-04-11T00:00:00+00:00
+
+ ## DNV.ae - When trust matters - DNV
+ - [https://www.dnv.ae](https://www.dnv.ae)
+ - date_published: 2024-09-04T15:26:26.232450+00:00
 
  ## Status overview
  - [https://downdetector.ae](https://downdetector.ae)
@@ -652,13 +664,25 @@
  - [https://www.maptiler.ae](https://www.maptiler.ae)
  - date_published: 2024-02-10T12:31:05+00:00
 
+ ## Masdar | Pioneering Energy Worldwide
+ - [https://masdar.ae](https://masdar.ae)
+ - date_published: 2024-09-04T02:11:23.513186+00:00
+
  ## دعم الأفراد لتطوير حياتهم | Maximus UAE
  - [https://www.maximusuae.ae](https://www.maximusuae.ae)
  - date_published: 2024-07-15T02:09:00.154237+00:00
 
+ ## John P. McCrae - Lecturer at Data Science Institute, NUI Galway
+ - [http://john.mccr.ae](http://john.mccr.ae)
+ - date_published: 2024-08-08T09:50:29+00:00
+
  ## Life, Pet, and Health Insurance Provider| MetLife UAE
  - [https://www.metlife.ae](https://www.metlife.ae)
  - date_published: 2024-07-19T16:51:52+00:00
+
+ ## MMEC Mannesmann LLC
+ - [https://www.mmec-mannesmann.ae](https://www.mmec-mannesmann.ae)
+ - date_published: 2024-09-04T02:12:20.356782+00:00
 
  ## home
  - [https://moorfields.ae](https://moorfields.ae)
@@ -771,6 +795,10 @@
  ## Home
  - [https://trapezegroup.ae](https://trapezegroup.ae)
  - date_published: 2024-05-07T00:00:00+00:00
+
+ ## trivago.ae - Compare hotel prices worldwide
+ - [https://www.trivago.ae](https://www.trivago.ae)
+ - date_published: 2024-09-04T11:20:55.851082+00:00
 
  ## الرئيسة | البوابة الرسمية لحكومة الإمارات العربية المتحدة
  - [https://u.ae](https://u.ae)
@@ -1001,6 +1029,10 @@
  - [https://xelerated.aero](https://xelerated.aero)
  - date_published: 2024-05-28T00:00:00+00:00
 
+ ## ZAL  Future. Created in Hamburg.
+ - [https://zal.aero](https://zal.aero)
+ - date_published: 2024-09-04T02:03:50.894191+00:00
+
  ## Home - Afghan Telecom
  - [https://afghantelecom.af](https://afghantelecom.af)
  - date_published: 2024-05-06T22:25:57.024124+00:00
@@ -1211,6 +1243,10 @@
  - [https://rishi.ag](https://rishi.ag)
  - date_published: 2023-12-16T07:28:34.638305+00:00
  - tags: ['personal']
+
+ ## Tablet Magazine
+ - [https://tabletm.ag](https://tabletm.ag)
+ - date_published: 2024-09-04T00:00:00+00:00
 
  ## Taranis do Brasil
  - [https://taranis.ag](https://taranis.ag)
@@ -1433,6 +1469,10 @@
  - [https://magicspace.agency](https://magicspace.agency)
  - date_published: 2024-07-10T00:00:00+00:00
 
+ ## MIA map intelligence agency
+ - [https://mapintelligence.agency](https://mapintelligence.agency)
+ - date_published: 2024-09-04T03:34:33.447890+00:00
+
  ## Metro.Agency – identity + strategy + design
  - [https://metro.agency](https://metro.agency)
  - date_published: 2024-08-19T07:30:27.324827+00:00
@@ -1464,6 +1504,10 @@
  ## Rabbithole
  - [https://rabbithole.agency](https://rabbithole.agency)
  - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home | Rohallion
+ - [https://rohallion.agency](https://rohallion.agency)
+ - date_published: 2024-09-01T10:42:44+00:00
 
  ## Bespoke 360° web and mobile app services - Safran
  - [https://www.safran.agency](https://www.safran.agency)
@@ -2521,6 +2565,10 @@
  - [https://brandwise.ai](https://brandwise.ai)
  - date_published: 2024-07-10T11:15:45.132110+00:00
 
+ ## brawl.ai | Brawl Artifical Intelligence
+ - [https://brawl.ai](https://brawl.ai)
+ - date_published: 2024-09-04T07:51:02.627560+00:00
+
  ## Breezemail - Organize your inbox with AI categories
  - [https://www.breezemail.ai](https://www.breezemail.ai)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -2957,7 +3005,7 @@ Welcome
  - date_published: 2024-05-02T00:00:00+00:00
 
  ## Clearview AI | Facial Recognition
- - [http://www.clearview.ai](http://www.clearview.ai)
+ - [https://www.clearview.ai](https://www.clearview.ai)
  - date_published: 2024-04-16T00:00:00+00:00
 
  ## Cleora.AI | Create Your Enterprise Embeddings with 1 Click
@@ -3048,9 +3096,17 @@ Welcome
  - [https://coderabbit.ai](https://coderabbit.ai)
  - date_published: 2024-04-30T00:00:00+00:00
 
+ ## CodeReviewBot.ai blog
+ - [https://blog.codereviewbot.ai](https://blog.codereviewbot.ai)
+ - date_published: 2024-09-04T01:59:55.398244+00:00
+
  ## AI Code Review Bot
  - [https://codereviewbot.ai](https://codereviewbot.ai)
  - date_published: 2024-05-31T10:09:09.905429+00:00
+
+ ## CodeRUN
+ - [https://coderun.ai](https://coderun.ai)
+ - date_published: 2024-09-04T12:17:24.226391+00:00
 
  ## Code Snippets AI - AI-Powered Code Snippets Library for Teams.
  - [https://codesnippets.ai](https://codesnippets.ai)
@@ -3523,6 +3579,10 @@ Welcome
  - [https://dalmatian.ai](https://dalmatian.ai)
  - date_published: 2024-03-07T00:00:00+00:00
 
+ ## AI Tools Directory | Dang.ai
+ - [https://dang.ai](https://dang.ai)
+ - date_published: 2024-09-02T00:00:00+00:00
+
  ## Dan Rose AI - Applied Artificial Intelligence
  - [https://www.danrose.ai](https://www.danrose.ai)
  - date_published: 2024-08-18T12:24:24.911482+00:00
@@ -3965,64 +4025,4 @@ Welcome
  ## Durable - Custom Software: Designed by you, Built by Generative AI.
  - [https://durable.ai](https://durable.ai)
  - date_published: 2024-05-29T16:52:40+00:00
-
- ## Exactly.ai
- - [https://www.durer.ai](https://www.durer.ai)
- - date_published: 2024-08-18T13:10:13.310821+00:00
-
- ## DevRev AgentOS | Your Copilot For Software
- - [https://dvrv.ai](https://dvrv.ai)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Dyna.Ai | Empower Work, Enrich Life
- - [https://www.dynatech.ai](https://www.dynatech.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Easyerp.ai: Roleplay With AI Made Easy
- - [https://easyerp.ai](https://easyerp.ai)
- - date_published: 2023-12-27T10:54:22+00:00
-
- ## easyMessage.ai — Write your messages with Artificial Intelligence
- - [https://easymessage.ai](https://easymessage.ai)
- - date_published: 2024-06-19T20:51:30.982154+00:00
-
- ## Best AI Writer, Content Generator & Copywriting Assistant | Easy-Peasy.AI
- - [https://easy-peasy.ai](https://easy-peasy.ai)
- - date_published: 2024-06-19T19:26:21.654516+00:00
-
- ## Using an AI assistant - happier customers and lower costs
- - [https://ebi.ai](https://ebi.ai)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Ecole
- - [https://www.ecole.ai](https://www.ecole.ai)
- - date_published: 2022-08-29T19:54:01+00:00
-
- ## Ecomtent: AI Optimize Product Content Across Ecommerce Channels
- - [https://www.ecomtent.ai](https://www.ecomtent.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Edit Anything | fal-serverless
- - [http://editanything.ai](http://editanything.ai)
- - date_published: 2023-10-25T08:34:36.726062+00:00
-
- ## EditApp
- - [https://editapp.ai](https://editapp.ai)
- - date_published: 2024-06-14T08:55:04.658132+00:00
-
- ## Editby - Create AI SEO-optimized content with your brand style
- - [https://www.editby.ai](https://www.editby.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Eduaide.Ai: Instruction by Design
- - [https://www.eduaide.ai](https://www.eduaide.ai)
- - date_published: 2024-06-19T20:36:24.780595+00:00
-
- ## eesel AI - Instant answers to every company question
- - [https://www.eesel.ai](https://www.eesel.ai)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Course - MIT HAN Lab
- - [https://efficientml.ai](https://efficientml.ai)
- - date_published: 2023-10-25T11:38:20.763882+00:00
 
