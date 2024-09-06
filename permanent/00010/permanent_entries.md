@@ -1,3 +1,255 @@
+ ## Université catholique de Louvain
+ - [https://uclouvain.be](https://uclouvain.be)
+ - date_published: 2024-05-08T10:33:43.897433+00:00
+
+ ## NetScaler AAA
+ - [https://athena.ugent.be](https://athena.ugent.be)
+ - date_published: 2024-07-04T13:31:30+00:00
+
+ ## Biblio
+ - [https://backoffice.biblio.ugent.be](https://backoffice.biblio.ugent.be)
+ - date_published: 2024-06-30T06:59:21.985803+00:00
+
+ ## Ghent University Academic Bibliography
+ - [https://biblio.ugent.be](https://biblio.ugent.be)
+ - date_published: 2024-05-07T15:41:40.237337+00:00
+
+ ## Bloklocaties in Vlaanderen
+ - [http://blok.ugent.be](http://blok.ugent.be)
+ - date_published: 2023-06-20T12:39:27+00:00
+
+ ## Contents of dyvassch.pod.knows.idlab.ugent.be
+ - [https://dyvassch.pod.knows.idlab.ugent.be](https://dyvassch.pod.knows.idlab.ugent.be)
+ - date_published: 2022-06-10T08:50:07+00:00
+
+ ## Hydra
+ - [https://hydra.ugent.be](https://hydra.ugent.be)
+ - date_published: 2024-06-19T11:44:14+00:00
+
+ ## UGent Federated Single Sign On
+ - [https://identity.ugent.be](https://identity.ugent.be)
+ - date_published: 2024-08-07T09:58:57.110339+00:00
+
+ ## Ghent University Library
+ - [http://lib.ugent.be](http://lib.ugent.be)
+ - date_published: 2024-06-30T06:59:21.402408+00:00
+
+ ## Sign in to your account
+ - [https://oasis.ugent.be](https://oasis.ugent.be)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## (onder)zoektips
+ - [https://onderzoektips.ugent.be](https://onderzoektips.ugent.be)
+ - date_published: 2024-06-30T06:59:22.925195+00:00
+
+ ## Welcome | Faculty of Arts and Philosophy - Research Portal
+ - [https://research.flw.ugent.be](https://research.flw.ugent.be)
+ - date_published: 2024-05-02T12:55:01.828800+00:00
+
+ ## Welcome in the Research Explorer, the place to discover Ghent University research.
+ - [https://research.ugent.be](https://research.ugent.be)
+ - date_published: 2024-07-17T05:39:55.957747+00:00
+
+ ## Study guide
+ - [https://studiekiezer.ugent.be](https://studiekiezer.ugent.be)
+ - date_published: 2024-07-17T05:40:00.629403+00:00
+
+ ## Universiteit Gent
+ - [https://ugent.be](https://ugent.be)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## UGent-ELIS homepage
+ - [https://users.elis.ugent.be](https://users.elis.ugent.be)
+ - date_published: 2012-08-24T13:25:27+00:00
+
+ ## Sign in to Outlook
+ - [https://webmail.ugent.be](https://webmail.ugent.be)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Department of Electronics and Information Systems
+ - [http://www.elis.ugent.be](http://www.elis.ugent.be)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Faculteit Letteren en Wijsbegeerte
+ - [http://www.flw.ugent.be](http://www.flw.ugent.be)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Ghent Centre for Digital Humanities
+ - [https://www.gcdh.ugent.be](https://www.gcdh.ugent.be)
+ - date_published: 2024-06-22T07:52:24+00:00
+
+ ## Ghent Centre for Digital Humanities
+ - [https://www.ghentcdh.ugent.be](https://www.ghentcdh.ugent.be)
+ - date_published: 2024-08-19T09:28:42+00:00
+
+ ## Zeus WPI | Werkgroep Informatica van de Universiteit Gent
+ - [https://zeus.ugent.be](https://zeus.ugent.be)
+ - date_published: 2023-10-25T11:59:21.711349+00:00
+
+ ## Universiteit Hasselt - UHasselt
+ - [https://www.uhasselt.be](https://www.uhasselt.be)
+ - date_published: 2024-07-13T16:02:37.280764+00:00
+
+ ## Zoek in de grootste vrijetijdsagenda van Vlaanderen en Brussel
+ - [https://www.uitinvlaanderen.be](https://www.uitinvlaanderen.be)
+ - date_published: 2024-07-02T21:36:21.608433+00:00
+
+ ## Algorithms Research Group (ULB)
+ - [https://algo.ulb.be](https://algo.ulb.be)
+ - date_published: 2024-01-30T12:00:14+00:00
+
+ ## Bienvenue à l'ULB
+ - [https://ulb.be](https://ulb.be)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## ULiège
+ - [https://form.sap.uliege.be](https://form.sap.uliege.be)
+ - date_published: 2024-07-18T22:05:33.748375+00:00
+
+ ## Identification
+ - [https://my.news-agendas.uliege.be](https://my.news-agendas.uliege.be)
+ - date_published: 2024-08-19T11:13:12.586439+00:00
+
+ ## Identification
+ - [https://my.sciences.uliege.be](https://my.sciences.uliege.be)
+ - date_published: 2024-08-18T13:33:06.568974+00:00
+
+ ## ORBi: Home
+ - [https://orbi.uliege.be](https://orbi.uliege.be)
+ - date_published: 2024-07-18T22:05:24.124179+00:00
+
+ ## Home
+ - [https://www.astrobiology.uliege.be](https://www.astrobiology.uliege.be)
+ - date_published: 2024-07-18T22:05:22.656781+00:00
+
+ ## Accueil
+ - [https://www.campusarlon.uliege.be](https://www.campusarlon.uliege.be)
+ - date_published: 2024-08-18T13:33:34.082133+00:00
+
+ ## Campus
+ - [https://www.campus.uliege.be](https://www.campus.uliege.be)
+ - date_published: 2024-08-19T11:13:33.500184+00:00
+
+ ## Accueil
+ - [http://www.cesam.uliege.be](http://www.cesam.uliege.be)
+ - date_published: 2024-08-18T13:33:36.179517+00:00
+
+ ## Home
+ - [https://www.cite.uliege.be](https://www.cite.uliege.be)
+ - date_published: 2024-06-17T11:02:45.928876+00:00
+
+ ## Education
+ - [https://www.enseignement.uliege.be](https://www.enseignement.uliege.be)
+ - date_published: 2024-08-19T11:13:23.955395+00:00
+
+ ## Home
+ - [https://exotic.uliege.be](https://exotic.uliege.be)
+ - date_published: 2024-05-14T14:54:12.612219+00:00
+
+ ## Home
+ - [https://www.facmed.uliege.be](https://www.facmed.uliege.be)
+ - date_published: 2024-08-19T11:13:27.115597+00:00
+
+ ## Home
+ - [http://www.focus.uliege.be](http://www.focus.uliege.be)
+ - date_published: 2024-08-18T13:33:38.762303+00:00
+
+ ## FSA Home
+ - [https://www.fsa.uliege.be](https://www.fsa.uliege.be)
+ - date_published: 2024-08-19T11:13:15.100595+00:00
+
+ ## Accueil
+ - [http://www.geologie.uliege.be](http://www.geologie.uliege.be)
+ - date_published: 2024-08-18T13:33:43.596000+00:00
+
+ ## Accueil
+ - [http://www.giga.uliege.be](http://www.giga.uliege.be)
+ - date_published: 2024-08-18T13:33:41.252115+00:00
+
+ ## International
+ - [https://www.international.uliege.be](https://www.international.uliege.be)
+ - date_published: 2024-08-19T11:13:04.581526+00:00
+
+ ## Accueil LQJ
+ - [https://www.lqj.uliege.be](https://www.lqj.uliege.be)
+ - date_published: 2024-08-19T11:13:17.127119+00:00
+
+ ## Home
+ - [http://www.mathematics.uliege.be](http://www.mathematics.uliege.be)
+ - date_published: 2024-08-18T13:33:08.626325+00:00
+
+ ## Home
+ - [http://www.molsys.uliege.be](http://www.molsys.uliege.be)
+ - date_published: 2024-08-18T13:33:10.611967+00:00
+
+ ## Agendas
+ - [https://news.uliege.be](https://news.uliege.be)
+ - date_published: 2023-10-25T11:59:32.579730+00:00
+
+ ## Research & Innovation
+ - [https://www.recherche.uliege.be](https://www.recherche.uliege.be)
+ - date_published: 2024-08-19T11:13:10.200920+00:00
+
+ ## Accueil
+ - [https://sciences.uliege.be](https://sciences.uliege.be)
+ - date_published: 2023-11-14T13:14:53.218739+00:00
+
+ ## Home
+ - [http://www.speculoos.uliege.be](http://www.speculoos.uliege.be)
+ - date_published: 2024-07-18T22:05:26.296669+00:00
+
+ ## Etudiants ULiège
+ - [https://www.student.uliege.be](https://www.student.uliege.be)
+ - date_published: 2024-08-19T11:13:20.803706+00:00
+
+ ## ULiège
+ - [https://www.uliege.be](https://www.uliege.be)
+ - date_published: 2024-07-18T22:05:30.360469+00:00
+
+ ## Accueil
+ - [https://www.unic.uliege.be](https://www.unic.uliege.be)
+ - date_published: 2024-08-19T11:13:29.654636+00:00
+
+ ## Tube.ulne.be
+ - [https://tube.ulne.be](https://tube.ulne.be)
+ - date_published: 2024-07-10T09:00:49.345215+00:00
+
+ ## Blog - ulne.be
+ - [https://ulne.be](https://ulne.be)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [http://unizo.be](http://unizo.be)
+ - date_published: 2024-07-12T09:16:18.499593+00:00
+
+ ## Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &Amp; Sequences Tool
+ - [https://upscri.be](https://upscri.be)
+ - date_published: 2022-10-18T16:56:58+00:00
+
+ ## Us by Night - 26-27-28 Sep 2024 - Antwerp, Belgium
+ - [http://usbynight.be](http://usbynight.be)
+ - date_published: 2024-07-13T15:33:30.410199+00:00
+
+ ## Vacancesweb: Locations, Circuits, Croisières, Citytrips et Reportages
+ - [https://www.vacancesweb.be](https://www.vacancesweb.be)
+ - date_published: 2024-08-19T11:14:14.363881+00:00
+
+ ## Vlaams Architectuurinstituut
+ - [https://www.vai.be](https://www.vai.be)
+ - date_published: 2024-08-19T18:51:47.985511+00:00
+
+ ## Vakantieweb: Vakantiewoningen, Rondreizen, Cruises, Verblijven en Reportages
+ - [https://www.vakantieweb.be](https://www.vakantieweb.be)
+ - date_published: 2024-07-02T21:35:31.727301+00:00
+
+ ## vanecx
+ - [https://vanecx.be](https://vanecx.be)
+ - date_published: 2024-05-09T07:51:31.153656+00:00
+
+ ## Home | Vanhout
+ - [http://www.vanhout.be](http://www.vanhout.be)
+ - date_published: 2024-08-17T22:37:15.135763+00:00
+
  ## Home
  - [https://www.vanin.be](https://www.vanin.be)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -2002,6 +2254,10 @@
  - [https://www.lsdev.biz](https://www.lsdev.biz)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## Libriz – From the publisher of Lucire and Autocade
+ - [https://lucire.biz](https://lucire.biz)
+ - date_published: 2024-09-05T17:25:09.222064+00:00
+
  ## Maha Herbals | Herbal Medicine | Herbal Medicine in India
  - [https://mahaherbals.biz](https://mahaherbals.biz)
  - date_published: 2024-06-12T14:27:10.224157+00:00
@@ -2315,6 +2571,10 @@
  ## Kevin Black
  - [https://kevin.black](https://kevin.black)
  - date_published: 2024-07-06T00:50:53+00:00
+
+ ## Lambda.black - Home
+ - [https://lambda.black](https://lambda.black)
+ - date_published: 2023-08-17T01:36:47+00:00
 
  ## Siddharth Verma | Full Stack Freelancer | Startup Guy
  - [https://sid.black](https://sid.black)
@@ -3410,6 +3670,10 @@
  - [https://chatpin.mataroa.blog](https://chatpin.mataroa.blog)
  - date_published: 2022-01-28T00:00:00+00:00
 
+ ## Mataroa Collection
+ - [https://collection.mataroa.blog](https://collection.mataroa.blog)
+ - date_published: 2024-09-05T16:01:40.136212+00:00
+
  ## johnpublic
  - [https://johnpublic.mataroa.blog](https://johnpublic.mataroa.blog)
  - date_published: 2023-10-25T12:00:42.570358+00:00
@@ -3800,284 +4064,4 @@
  ## Nothing But The Truth
  - [http://nothingbutthetruth.blog](http://nothingbutthetruth.blog)
  - date_published: 2024-09-02T23:06:29+00:00
-
- ## Nothing Radical
- - [http://nothingradical.blog](http://nothingradical.blog)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## notizBlog
- - [https://notiz.blog](https://notiz.blog)
- - date_published: 2024-01-07T08:45:39.431652+00:00
-
- ## NSMC Internship
- - [https://www.nsmc.blog](https://www.nsmc.blog)
- - date_published: 2024-06-28T11:51:32.290325+00:00
-
- ## NTDEV
- - [https://ntdev.blog](https://ntdev.blog)
- - date_published: 2024-05-07T15:27:08.241538+00:00
-
- ## NutriBites
- - [http://nutribites.blog](http://nutribites.blog)
- - date_published: 2024-08-18T20:45:09.332370+00:00
-
- ## Something Odd!
- - [https://odd.blog](https://odd.blog)
- - date_published: 2024-06-30T10:13:30.320303+00:00
-
- ## Oh Hello Ana
- - [https://ohhelloana.blog](https://ohhelloana.blog)
- - date_published: 2024-01-03T04:05:44.287778+00:00
-
- ## OldLady With Autism
- - [http://oldladywithautism.blog](http://oldladywithautism.blog)
- - date_published: 2024-09-03T23:02:06.728939+00:00
-
- ## Om Malik
- - [https://om.blog](https://om.blog)
- - date_published: 2024-05-10T03:47:47.138641+00:00
-
- ## Blogging On Rails
- - [https://onrails.blog](https://onrails.blog)
- - date_published: 2024-04-28T05:57:03.045256+00:00
- - tags: ['ruby', 'ruby on rails']
-
- ## Open Notes
- - [https://opennotes.blog](https://opennotes.blog)
- - date_published: 2024-07-06T16:43:55+00:00
-
- ## Outside the Asylum
- - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
- - date_published: 2024-05-08T09:57:24.649518+00:00
-
- - [https://overemployee.blog](https://overemployee.blog)
- - date_published: 2024-01-09T02:26:42.986613+00:00
-
- ## Andrew Ozz on WordPress
- - [https://ozz.blog](https://ozz.blog)
- - date_published: 2024-06-30T10:13:50.300772+00:00
-
- ## Padlet Gazette
- - [https://padlet.blog](https://padlet.blog)
- - date_published: 2024-05-06T15:25:23.339273+00:00
-
- ## Painting In The Dark
- - [https://paintinginthedark.blog](https://paintinginthedark.blog)
- - date_published: 2024-06-18T23:30:07.623393+00:00
-
- ## p410n3 blog – Palone's Blog. I sometimes write stuff about technology here.
- - [https://palone.blog](https://palone.blog)
- - date_published: 2021-06-06T00:00:00+00:00
-
- ## Paperless
- - [https://paperless.blog](https://paperless.blog)
- - date_published: 2023-10-25T08:57:53.071595+00:00
- - tags: ['personal']
-
- ## Pat’s Substack | Pat Murphy | Substack
- - [https://www.patmurphy.blog](https://www.patmurphy.blog)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Perceiving Systems Blog
- - [https://perceiving-systems.blog](https://perceiving-systems.blog)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Petros Amoiridis
- - [https://petros.blog](https://petros.blog)
- - date_published: 2023-12-15T21:43:49.329150+00:00
- - tags: ['personal']
-
- ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
- - [https://blog.pine.blog](https://blog.pine.blog)
- - date_published: 2024-05-08T03:30:27.711793+00:00
-
- ## Pine.blog
- - [https://pine.blog](https://pine.blog)
- - date_published: 2024-05-08T03:30:24.768222+00:00
-
- ## Captcha Page
- - [https://p.pine.blog](https://p.pine.blog)
- - date_published: 2024-07-03T18:04:31.621596+00:00
-
- ## Niklas's blog
- - [https://pivic.blog](https://pivic.blog)
- - date_published: 2024-01-22T00:00:00+00:00
- - tags: ['personal']
-
- ## Pixelfed Blog
- - [https://pixelfed.blog](https://pixelfed.blog)
- - date_published: 2023-10-25T12:00:46.045454+00:00
-
- ## pixiv inside
- - [https://inside.pixiv.blog](https://inside.pixiv.blog)
- - date_published: 2024-06-18T22:08:57.141279+00:00
-
- ## PJ Onori’s blog
- - [https://pjonori.blog](https://pjonori.blog)
- - date_published: 2024-07-12T21:38:20.048676+00:00
-
- ## Power Moves
- - [https://powermoves.blog](https://powermoves.blog)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Pragmatic Environmentalist of New  York
- - [https://pragmaticenvironmentalistofnewyork.blog](https://pragmaticenvironmentalistofnewyork.blog)
- - date_published: 2024-08-19T08:08:13.859421+00:00
-
- ## Prashanth's Blog
- - [https://prashanths.blog](https://prashanths.blog)
- - date_published: 2023-12-17T05:07:12.878570+00:00
- - tags: ['personal']
-
- ## Reason #48: Strangers on a Train - George, Probably Blogs
- - [https://probably.blog](https://probably.blog)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Product Leaders
- - [https://productleaders.blog](https://productleaders.blog)
- - date_published: 2024-06-09T20:46:29+00:00
- - tags: ['business']
-
- ## James Mills
-		- James Mills
- - [https://www.prologic.blog](https://www.prologic.blog)
- - date_published: 2024-06-10T07:08:51.981977+00:00
- - tags: ['personal']
-
- ## The Stream of Thought That Waters the Garden
- - [https://quantumgardener.blog](https://quantumgardener.blog)
- - date_published: 2023-11-29T14:25:56.871546+00:00
- - tags: ['personal']
-
- ## Quigs.blog
- - [https://quigs.blog](https://quigs.blog)
- - date_published: 2023-12-18T01:34:04.013330+00:00
- - tags: ['personal']
-
- ## Simple Analytics
- - [https://readers.quigs.blog](https://readers.quigs.blog)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
- - [https://raku-advent.blog](https://raku-advent.blog)
- - date_published: 2023-10-25T12:00:54.086156+00:00
-
- ## Rakudo Weekly News
- - [https://rakudoweekly.blog](https://rakudoweekly.blog)
- - date_published: 2024-07-04T03:52:35.365604+00:00
-
- ## Jeannette Goon
- - [https://realhumangirl.blog](https://realhumangirl.blog)
- - date_published: 2023-12-02T10:25:54.865102+00:00
- - tags: ['personal']
-
- ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
- - [https://realizeengineering.blog](https://realizeengineering.blog)
- - date_published: 2023-10-25T12:01:02.147552+00:00
-
- ## The REAPER Blog
- - [https://reaper.blog](https://reaper.blog)
- - date_published: 2024-08-08T16:08:57+00:00
-
- ## Reese Richardson
- - [https://reeserichardson.blog](https://reeserichardson.blog)
- - date_published: 2024-02-04T02:18:53.099471+00:00
-
- ## regenbogenfabrik 40
- - [https://regenbogenfabrik40.blog](https://regenbogenfabrik40.blog)
- - date_published: 2024-07-14T03:13:21.017828+00:00
-
- ## Research Degree Insiders
- - [https://researchinsiders.blog](https://researchinsiders.blog)
- - date_published: 2024-05-02T10:13:36.139493+00:00
-
- ## Retro365
- - [https://retro365.blog](https://retro365.blog)
- - date_published: 2024-07-13T05:03:42.714717+00:00
-
- ## Cooking Pancakes | revi
- - [https://revi.blog](https://revi.blog)
- - date_published: 2024-06-10T07:07:48.083451+00:00
- - tags: ['personal']
-
- ## home · Joseph Thacker
- - [https://rez0.blog](https://rez0.blog)
- - date_published: 2023-10-25T12:01:04.204782+00:00
-
- ## Rich Tabor
- - [https://rich.blog](https://rich.blog)
- - date_published: 2024-04-03T12:46:23.521811+00:00
- - tags: ['personal']
-
- ## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
- - [https://richardbloomfield.blog](https://richardbloomfield.blog)
- - date_published: 2024-04-23T10:12:37.646980+00:00
- - tags: ['personal']
-
- ## Rightmove Tech Blog
- - [https://rightmove.blog](https://rightmove.blog)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Riley Harris
- - [https://rileyharris.blog](https://rileyharris.blog)
- - date_published: 2024-01-19T13:02:00.009123+00:00
-
- ## Rox’s Picks | Roxine Kee | Substack
- - [https://www.roxine.blog](https://www.roxine.blog)
- - date_published: 2024-08-08T22:50:04.278551+00:00
-
- ## RunSignup Blog
- - [https://runsignup.blog](https://runsignup.blog)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## John Payne
- - [https://jpayne.sackheads.blog](https://jpayne.sackheads.blog)
- - date_published: 2024-07-25T19:39:05+00:00
-
- ## Saptak's Blog
- - [https://saptaks.blog](https://saptaks.blog)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## sarah.blog
- - [https://sarah.blog](https://sarah.blog)
- - date_published: 2023-11-29T14:44:35.706152+00:00
- - tags: ['personal']
-
- ## Schneide Blog
- - [https://schneide.blog](https://schneide.blog)
- - date_published: 2024-07-09T12:15:44.546172+00:00
-
- ## Shtetl-Optimized
- - [https://scottaaronson.blog](https://scottaaronson.blog)
- - date_published: 2023-10-25T12:01:16.273400+00:00
-
- ## Semantically Secure
- - [https://scottarc.blog](https://scottarc.blog)
- - date_published: 2024-04-13T07:41:59.654361+00:00
- - tags: ['personal']
-
- ## Scott Lamb – Medium
- - [https://scottlamb.blog](https://scottlamb.blog)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Screwed Up Dice
- - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
- - date_published: 2024-03-19T18:15:33+00:00
-
- ## Seth's Blog
- - [https://seths.blog](https://seths.blog)
- - date_published: 2023-10-25T09:01:55.034633+00:00
- - tags: ['personal']
-
- ## SHERPA Blog
- - [https://sherpa.blog](https://sherpa.blog)
- - date_published: 2024-07-04T12:49:53.379132+00:00
-
- ## Shyam's Blog
- - [https://shyam.blog](https://shyam.blog)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## silv.blog
- - [https://silv.blog](https://silv.blog)
- - date_published: 2024-06-22T12:54:13+00:00
 

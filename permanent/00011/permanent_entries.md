@@ -1,3 +1,283 @@
+ ## Nothing Radical
+ - [http://nothingradical.blog](http://nothingradical.blog)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## notizBlog
+ - [https://notiz.blog](https://notiz.blog)
+ - date_published: 2024-01-07T08:45:39.431652+00:00
+
+ ## NSMC Internship
+ - [https://www.nsmc.blog](https://www.nsmc.blog)
+ - date_published: 2024-06-28T11:51:32.290325+00:00
+
+ ## NTDEV
+ - [https://ntdev.blog](https://ntdev.blog)
+ - date_published: 2024-05-07T15:27:08.241538+00:00
+
+ ## NutriBites
+ - [http://nutribites.blog](http://nutribites.blog)
+ - date_published: 2024-08-18T20:45:09.332370+00:00
+
+ ## Something Odd!
+ - [https://odd.blog](https://odd.blog)
+ - date_published: 2024-06-30T10:13:30.320303+00:00
+
+ ## Oh Hello Ana
+ - [https://ohhelloana.blog](https://ohhelloana.blog)
+ - date_published: 2024-01-03T04:05:44.287778+00:00
+
+ ## OldLady With Autism
+ - [http://oldladywithautism.blog](http://oldladywithautism.blog)
+ - date_published: 2024-09-03T23:02:06.728939+00:00
+
+ ## Om Malik
+ - [https://om.blog](https://om.blog)
+ - date_published: 2024-05-10T03:47:47.138641+00:00
+
+ ## Blogging On Rails
+ - [https://onrails.blog](https://onrails.blog)
+ - date_published: 2024-04-28T05:57:03.045256+00:00
+ - tags: ['ruby', 'ruby on rails']
+
+ ## Open Notes
+ - [https://opennotes.blog](https://opennotes.blog)
+ - date_published: 2024-07-06T16:43:55+00:00
+
+ ## Outside the Asylum
+ - [https://outsidetheasylum.blog](https://outsidetheasylum.blog)
+ - date_published: 2024-05-08T09:57:24.649518+00:00
+
+ - [https://overemployee.blog](https://overemployee.blog)
+ - date_published: 2024-01-09T02:26:42.986613+00:00
+
+ ## Andrew Ozz on WordPress
+ - [https://ozz.blog](https://ozz.blog)
+ - date_published: 2024-06-30T10:13:50.300772+00:00
+
+ ## Padlet Gazette
+ - [https://padlet.blog](https://padlet.blog)
+ - date_published: 2024-05-06T15:25:23.339273+00:00
+
+ ## Painting In The Dark
+ - [https://paintinginthedark.blog](https://paintinginthedark.blog)
+ - date_published: 2024-06-18T23:30:07.623393+00:00
+
+ ## p410n3 blog – Palone's Blog. I sometimes write stuff about technology here.
+ - [https://palone.blog](https://palone.blog)
+ - date_published: 2021-06-06T00:00:00+00:00
+
+ ## Paperless
+ - [https://paperless.blog](https://paperless.blog)
+ - date_published: 2023-10-25T08:57:53.071595+00:00
+ - tags: ['personal']
+
+ ## Pat’s Substack | Pat Murphy | Substack
+ - [https://www.patmurphy.blog](https://www.patmurphy.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Perceiving Systems Blog
+ - [https://perceiving-systems.blog](https://perceiving-systems.blog)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Petros Amoiridis
+ - [https://petros.blog](https://petros.blog)
+ - date_published: 2023-12-15T21:43:49.329150+00:00
+ - tags: ['personal']
+
+ ## Pine.blog – The Official Blog of Pine.blog | A Feed Reader Like Never Before
+ - [https://blog.pine.blog](https://blog.pine.blog)
+ - date_published: 2024-05-08T03:30:27.711793+00:00
+
+ ## Pine.blog
+ - [https://pine.blog](https://pine.blog)
+ - date_published: 2024-05-08T03:30:24.768222+00:00
+
+ ## Captcha Page
+ - [https://p.pine.blog](https://p.pine.blog)
+ - date_published: 2024-07-03T18:04:31.621596+00:00
+
+ ## Niklas's blog
+ - [https://pivic.blog](https://pivic.blog)
+ - date_published: 2024-01-22T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Pixelfed Blog
+ - [https://pixelfed.blog](https://pixelfed.blog)
+ - date_published: 2023-10-25T12:00:46.045454+00:00
+
+ ## pixiv inside
+ - [https://inside.pixiv.blog](https://inside.pixiv.blog)
+ - date_published: 2024-06-18T22:08:57.141279+00:00
+
+ ## PJ Onori’s blog
+ - [https://pjonori.blog](https://pjonori.blog)
+ - date_published: 2024-07-12T21:38:20.048676+00:00
+
+ ## Power Moves
+ - [https://powermoves.blog](https://powermoves.blog)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Pragmatic Environmentalist of New  York
+ - [https://pragmaticenvironmentalistofnewyork.blog](https://pragmaticenvironmentalistofnewyork.blog)
+ - date_published: 2024-08-19T08:08:13.859421+00:00
+
+ ## Prashanth's Blog
+ - [https://prashanths.blog](https://prashanths.blog)
+ - date_published: 2023-12-17T05:07:12.878570+00:00
+ - tags: ['personal']
+
+ ## Reason #48: Strangers on a Train - George, Probably Blogs
+ - [https://probably.blog](https://probably.blog)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Product Leaders
+ - [https://productleaders.blog](https://productleaders.blog)
+ - date_published: 2024-06-09T20:46:29+00:00
+ - tags: ['business']
+
+ ## James Mills
+		- James Mills
+ - [https://prologic.blog](https://prologic.blog)
+ - date_published: 2024-03-06T08:45:28+00:00
+ - tags: ['personal']
+
+ ## The Stream of Thought That Waters the Garden
+ - [https://quantumgardener.blog](https://quantumgardener.blog)
+ - date_published: 2023-11-29T14:25:56.871546+00:00
+ - tags: ['personal']
+
+ ## Quigs.blog
+ - [https://quigs.blog](https://quigs.blog)
+ - date_published: 2023-12-18T01:34:04.013330+00:00
+ - tags: ['personal']
+
+ ## Simple Analytics
+ - [https://readers.quigs.blog](https://readers.quigs.blog)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Raku Advent Calendar – Raku is a multi-paradigm language where there's more than one way to do it
+ - [https://raku-advent.blog](https://raku-advent.blog)
+ - date_published: 2023-10-25T12:00:54.086156+00:00
+
+ ## Rakudo Weekly News
+ - [https://rakudoweekly.blog](https://rakudoweekly.blog)
+ - date_published: 2024-07-04T03:52:35.365604+00:00
+
+ ## Jeannette Goon
+ - [https://realhumangirl.blog](https://realhumangirl.blog)
+ - date_published: 2023-12-02T10:25:54.865102+00:00
+ - tags: ['personal']
+
+ ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
+ - [https://realizeengineering.blog](https://realizeengineering.blog)
+ - date_published: 2023-10-25T12:01:02.147552+00:00
+
+ ## The REAPER Blog
+ - [https://reaper.blog](https://reaper.blog)
+ - date_published: 2024-08-08T16:08:57+00:00
+
+ ## Reese Richardson
+ - [https://reeserichardson.blog](https://reeserichardson.blog)
+ - date_published: 2024-02-04T02:18:53.099471+00:00
+
+ ## regenbogenfabrik 40
+ - [https://regenbogenfabrik40.blog](https://regenbogenfabrik40.blog)
+ - date_published: 2024-07-14T03:13:21.017828+00:00
+
+ ## Research Degree Insiders
+ - [https://researchinsiders.blog](https://researchinsiders.blog)
+ - date_published: 2024-05-02T10:13:36.139493+00:00
+
+ ## Retro365
+ - [https://retro365.blog](https://retro365.blog)
+ - date_published: 2024-07-13T05:03:42.714717+00:00
+
+ ## Cooking Pancakes | revi
+ - [https://revi.blog](https://revi.blog)
+ - date_published: 2024-06-10T07:07:48.083451+00:00
+ - tags: ['personal']
+
+ ## home · Joseph Thacker
+ - [https://rez0.blog](https://rez0.blog)
+ - date_published: 2023-10-25T12:01:04.204782+00:00
+
+ ## Rich Tabor
+ - [https://rich.blog](https://rich.blog)
+ - date_published: 2024-04-03T12:46:23.521811+00:00
+ - tags: ['personal']
+
+ ## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
+ - [https://richardbloomfield.blog](https://richardbloomfield.blog)
+ - date_published: 2024-04-23T10:12:37.646980+00:00
+ - tags: ['personal']
+
+ ## Rightmove Tech Blog
+ - [https://rightmove.blog](https://rightmove.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Riley Harris
+ - [https://rileyharris.blog](https://rileyharris.blog)
+ - date_published: 2024-01-19T13:02:00.009123+00:00
+
+ ## Rox’s Picks | Roxine Kee | Substack
+ - [https://www.roxine.blog](https://www.roxine.blog)
+ - date_published: 2024-08-08T22:50:04.278551+00:00
+
+ ## RunSignup Blog
+ - [https://runsignup.blog](https://runsignup.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## John Payne
+ - [https://jpayne.sackheads.blog](https://jpayne.sackheads.blog)
+ - date_published: 2024-07-25T19:39:05+00:00
+
+ ## Saptak's Blog
+ - [https://saptaks.blog](https://saptaks.blog)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## sarah.blog
+ - [https://sarah.blog](https://sarah.blog)
+ - date_published: 2023-11-29T14:44:35.706152+00:00
+ - tags: ['personal']
+
+ ## Schneide Blog
+ - [https://schneide.blog](https://schneide.blog)
+ - date_published: 2024-07-09T12:15:44.546172+00:00
+
+ ## Shtetl-Optimized
+ - [https://scottaaronson.blog](https://scottaaronson.blog)
+ - date_published: 2023-10-25T12:01:16.273400+00:00
+
+ ## Semantically Secure
+ - [https://scottarc.blog](https://scottarc.blog)
+ - date_published: 2024-04-13T07:41:59.654361+00:00
+ - tags: ['personal']
+
+ ## Scott Lamb – Medium
+ - [https://scottlamb.blog](https://scottlamb.blog)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Screwed Up Dice
+ - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
+ - date_published: 2024-03-19T18:15:33+00:00
+
+ ## Seth's Blog
+ - [https://seths.blog](https://seths.blog)
+ - date_published: 2023-10-25T09:01:55.034633+00:00
+ - tags: ['personal']
+
+ ## SHERPA Blog
+ - [https://sherpa.blog](https://sherpa.blog)
+ - date_published: 2024-07-04T12:49:53.379132+00:00
+
+ ## Shyam's Blog
+ - [https://shyam.blog](https://shyam.blog)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## silv.blog
+ - [https://silv.blog](https://silv.blog)
+ - date_published: 2024-06-22T12:54:13+00:00
+
  ## Smarter.Blog Newsletter | Mahesh | Substack
  - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
  - date_published: 2023-10-25T09:39:31.008633+00:00
@@ -2712,6 +2992,10 @@ Educação
  - [https://risk.lexisnexis.com.br](https://risk.lexisnexis.com.br)
  - date_published: 2024-06-16T17:26:20.136282+00:00
 
+ ## LINAK - Tecnologia de sistemas de atuadores elétricos para movimento
+ - [https://www.linak.com.br](https://www.linak.com.br)
+ - date_published: 2024-09-05T21:36:00.178683+00:00
+
  ## Homepage
  - [https://liverampbrasil.com.br](https://liverampbrasil.com.br)
  - date_published: 2024-01-17T00:00:00+00:00
@@ -2801,6 +3085,10 @@ Educação
  ## Márcia Piovesan - Home
  - [https://marciapiovesan.com.br](https://marciapiovesan.com.br)
  - date_published: 2024-07-11T17:33:17.337170+00:00
+
+ ## Marte Científica – 70 anos líder de mercado
+ - [https://www.marte.com.br](https://www.marte.com.br)
+ - date_published: 2024-09-05T21:00:57.269039+00:00
 
  ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
  - [https://www.marykay.com.br](https://www.marykay.com.br)
@@ -3127,6 +3415,10 @@ Educação
  ## Poder360 | Notícias do poder e da política.
  - [https://poder360.com.br](https://poder360.com.br)
  - date_published: 2023-10-25T12:02:34.873341+00:00
+
+ ## Poder360 | Notícias do poder e da política. Editado por Fernando Rodrigues e equipe
+ - [https://www.poder360.com.br](https://www.poder360.com.br)
+ - date_published: 2024-08-23T00:00:00+00:00
 
  ## Polaris
  - [http://www.polaristec.com.br](http://www.polaristec.com.br)
@@ -3747,280 +4039,4 @@ Educação
  ## UOL - Seu universo online
  - [https://www.uol.com.br](https://www.uol.com.br)
  - date_published: 2024-06-26T21:57:42+00:00
-
- ## Vagas de Emprego e Oportunidades de Trabalho Hoje
- - [https://site.vagas.com.br](https://site.vagas.com.br)
- - date_published: 2024-06-18T07:12:47.452062+00:00
-
- ## Vagas de Emprego e Oportunidades de Trabalho Hoje
- - [https://www.vagas.com.br](https://www.vagas.com.br)
- - date_published: 2024-06-29T15:12:28.980646+00:00
-
- ## Home - Vale do Pinhão
- - [http://www.valedopinhao.com.br](http://www.valedopinhao.com.br)
- - date_published: 2024-06-12T11:20:08.862192+00:00
-
- ## Valor Econômico
- - [http://www.valor.com.br](http://www.valor.com.br)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## VEGAZETA: Veganismo em jornalismo, história e cultura
- - [https://vegazeta.com.br](https://vegazeta.com.br)
- - date_published: 2018-06-06T06:08:15+00:00
-
- ## Compañías Velcro - Sistemas de Sujeição de gancho e argola
- - [https://www.velcro.com.br](https://www.velcro.com.br)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Authentication - GLPI
- - [https://chamados.vestcasa.com.br](https://chamados.vestcasa.com.br)
- - date_published: 2024-06-16T15:36:44.390502+00:00
-
- ## ViajaNet - Agência de viagens líder no Brasil
- - [http://www.viajanet.com.br](http://www.viajanet.com.br)
- - date_published: 2024-06-16T19:11:16.977140+00:00
-
- ## Viajar com Alê
- - [https://viajarcomale.com.br](https://viajarcomale.com.br)
- - date_published: 2024-06-15T08:39:39.759369+00:00
-
- ## VIRTUAL PAPER - ชุมชนสาระ SLOT
- - [http://embraer.virtualpaper.com.br](http://embraer.virtualpaper.com.br)
- - date_published: 2024-03-24T11:24:22+00:00
-
- ## Vai de Visa | Beneficios | Visa
- - [https://vaidevisa.visa.com.br](https://vaidevisa.visa.com.br)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Visa, líder confiável em pagamentos digitais
- - [https://www.visa.com.br](https://www.visa.com.br)
- - date_published: 2024-05-06T09:09:47.941693+00:00
-
- ## Home - Viva Saúde
- - [https://vivasaudedigital.com.br](https://vivasaudedigital.com.br)
- - date_published: 2024-07-11T17:33:46.699214+00:00
-
- ## Viva Toscana
- - [http://www.vivatoscana.com.br](http://www.vivatoscana.com.br)
- - date_published: 2022-03-02T17:47:21+00:00
-
- ## Vivo - Site Oficial - 5G, Ultra Banda Larga, HDTV e mais
- - [https://www.vivo.com.br](https://www.vivo.com.br)
- - date_published: 2024-07-02T18:04:17.350071+00:00
-
- ## A Plataforma de Comércio Composable e Completa - Brasil
- - [http://www.vtex.com.br](http://www.vtex.com.br)
- - date_published: 2024-07-13T02:16:03+00:00
-
- ## VTEX ID Authentication
- - [https://citroenderco.vtexcommercestable.com.br](https://citroenderco.vtexcommercestable.com.br)
- - date_published: 2024-07-21T04:20:33.599630+00:00
-
- ## Fundação Vunesp | Excelência em Concursos, Vestibulares e Avaliações
- - [https://www.vunesp.com.br](https://www.vunesp.com.br)
- - date_published: 2024-07-15T07:34:12+00:00
-
- ## WarnerBros.com.br | Home de Filmes WB, TV, Games e mais!
- - [https://warnerbros.com.br](https://warnerbros.com.br)
- - date_published: 2024-05-07T11:19:31.436385+00:00
-
- ## WEB3DEV
- - [https://www.web3dev.com.br](https://www.web3dev.com.br)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://www.webmotors.com.br](https://www.webmotors.com.br)
- - date_published: 2024-06-16T09:16:12.815384+00:00
-
- ## WETCO
- - [https://wetco.com.br](https://wetco.com.br)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://mkt.widigital.com.br](https://mkt.widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home - Wi Digital
- - [https://widigital.com.br](https://widigital.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Wildtech Cursos e Consultoria
- - [https://www.wildtech.com.br](https://www.wildtech.com.br)
- - date_published: 2024-05-01T03:58:34.843327+00:00
-
- ## Your expert for installation material, maritime lighting and CCTV. - WISKA - make power smile
- - [https://www.wiska.com.br](https://www.wiska.com.br)
- - date_published: 2024-06-29T09:37:07.934504+00:00
-
- ## WITTENSTEIN do Brasil
- - [https://www.wittenstein.com.br](https://www.wittenstein.com.br)
- - date_published: 2024-07-15T04:10:10.777673+00:00
-
- ## Wondershare Account Center
- - [https://accounts.wondershare.com.br](https://accounts.wondershare.com.br)
- - date_published: 2024-07-13T20:35:29.277498+00:00
-
- ## DemoCreator - Editor de vídeo e gravador de tela tudo em um
- - [https://dc.wondershare.com.br](https://dc.wondershare.com.br)
- - date_published: 2024-07-13T20:35:24.450060+00:00
-
- ## Dr.Fone: soluções móveis completas® | Sua Solução Móvel Completa
- - [https://drfone.wondershare.com.br](https://drfone.wondershare.com.br)
- - date_published: 2024-07-13T20:35:33.397919+00:00
-
- ## Wondershare Filmora® | Melhor editor de vídeo fácil para você
- - [https://filmora.wondershare.com.br](https://filmora.wondershare.com.br)
- - date_published: 2024-07-13T20:29:07.226306+00:00
-
- ## [Oficial] Materiais Sem Direitos de Autor Gratuito como Efeitos de Vídeo
- - [https://filmstock.wondershare.com.br](https://filmstock.wondershare.com.br)
- - date_published: 2024-07-13T20:35:19.493892+00:00
-
- ## Wondershare PDFelement | Editor de PDF tudo-em-um
- - [https://pdf.wondershare.com.br](https://pdf.wondershare.com.br)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## [Oficial] Recoverit - Soluções de recuperação de dados para Win/Mac
- - [https://recoverit.wondershare.com.br](https://recoverit.wondershare.com.br)
- - date_published: 2024-07-13T20:35:26.672751+00:00
-
- ## Wondershare Help Center
- - [https://support.wondershare.com.br](https://support.wondershare.com.br)
- - date_published: 2024-07-13T20:35:22.329251+00:00
-
- ## Seu Conversor de Vídeo de Alta Velocidade | Wondershare UniConverter
- - [https://uniconverter.wondershare.com.br](https://uniconverter.wondershare.com.br)
- - date_published: 2024-07-13T20:35:35.742521+00:00
-
- ## Site Oficial Wondershare: Criatividade, Produtividade, Utilidade
- - [https://wondershare.com.br](https://wondershare.com.br)
- - date_published: 2024-05-11T08:34:39.990969+00:00
-
- ## Home - Worktiba
- - [http://worktiba.com.br](http://worktiba.com.br)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Top Cassinos Online Brasil | Melhores sites de casino online brasileiros junho 2024
- - [https://worldcasinoexpert.com.br](https://worldcasinoexpert.com.br)
- - date_published: 2024-06-29T08:06:56.281573+00:00
-
- ## 403 - Acesso negado
- - [https://www.xcake.com.br](https://www.xcake.com.br)
- - date_published: 2022-09-29T22:59:26+00:00
-
- ## Home - XRBR
- - [https://xrbr.com.br](https://xrbr.com.br)
- - date_published: 2024-06-26T00:55:09+00:00
-
- ## As 7 melhores formas de pagamentos para o seu negócio
- - [https://yapay.com.br](https://yapay.com.br)
- - date_published: 2024-07-23T23:40:35.790217+00:00
-
- ## Yelp
- - [https://m.yelp.com.br](https://m.yelp.com.br)
- - date_published: 2024-07-01T06:58:55.451902+00:00
-
- ## Yelp
- - [https://yelp.com.br](https://yelp.com.br)
- - date_published: 2024-07-01T06:58:50.323933+00:00
-
- ## YouTube
- - [https://youtube.com.br](https://youtube.com.br)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Zappeando
- - [https://www.zappeando.com.br](https://www.zappeando.com.br)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Zeenix
- - [https://zeenix.com.br](https://zeenix.com.br)
- - date_published: 2024-07-17T12:16:48.234443+00:00
-
- ## Zendesk: A Solução Completa de Atendimento ao Cliente
- - [https://www.zendesk.com.br](https://www.zendesk.com.br)
- - date_published: 2020-10-15T12:00:00+00:00
-
- ## Empréstimo para turbinar o seu negócio | Zippi: Empréstimo para autônomos que potencializa seu negócio
- - [https://zippi.com.br](https://zippi.com.br)
- - date_published: 2024-06-19T08:26:10.338655+00:00
-
- ## Zoetis
- - [https://www2.zoetis.com.br](https://www2.zoetis.com.br)
- - date_published: 2024-06-27T09:52:48+00:00
-
- ## Login - Zorbes
- - [https://app.zorbes.com.br](https://app.zorbes.com.br)
- - date_published: 2024-07-13T02:27:22.201396+00:00
-
- ## Home - Bom Negócio
- - [http://www.bomnegocio.curitiba.br](http://www.bomnegocio.curitiba.br)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## calebe.dev.br
- - [https://blog.calebe.dev.br](https://blog.calebe.dev.br)
- - date_published: 2022-02-05T00:00:00+00:00
-
- ## YunoHost Portal
- - [https://calebe.dev.br](https://calebe.dev.br)
- - date_published: 2024-07-14T09:07:36.343386+00:00
-
- ## My Webapp
- - [https://git.calebe.dev.br](https://git.calebe.dev.br)
- - date_published: 2024-07-14T09:07:40.576977+00:00
-
- ## LinkStack
- - [https://links.calebe.dev.br](https://links.calebe.dev.br)
- - date_published: 2024-07-14T09:07:38.428580+00:00
-
- ## YunoHost Admin
- - [https://media.calebe.dev.br](https://media.calebe.dev.br)
- - date_published: 2024-05-19T22:09:45+00:00
-
- ## Leandro Ferreira - Desenvolvedor PHP Laravel
- - [https://leandroferreira.dev.br](https://leandroferreira.dev.br)
- - date_published: 2024-06-19T09:30:46.786702+00:00
-
- ## Blogue do Puro Osso
- - [https://puro-osso.dev.br](https://puro-osso.dev.br)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Sistemas IFCE Paracuru
- - [http://webserver.paracuru.ifce.edu.br](http://webserver.paracuru.ifce.edu.br)
- - date_published: 2019-09-15T17:44:15+00:00
-
- ## Portal IFNMG - Início
- - [https://ifnmg.edu.br](https://ifnmg.edu.br)
- - date_published: 2024-07-13T18:13:13+00:00
-
- ## Authentication - GLPI
- - [https://suporte.feliz.ifrs.edu.br](https://suporte.feliz.ifrs.edu.br)
- - date_published: 2024-06-16T15:29:11.962485+00:00
-
- ## Home — IF SUDESTE MG
- - [https://www.ifsudestemg.edu.br](https://www.ifsudestemg.edu.br)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Home - Inteli - Instituto de Tecnologia e Liderança
- - [https://www.inteli.edu.br](https://www.inteli.edu.br)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Linux Mirror UFAM
- - [https://mirror.ufam.edu.br](https://mirror.ufam.edu.br)
- - date_published: 2021-09-05T16:24:43+00:00
-
- ## UFPel
- - [https://portal.ufpel.edu.br](https://portal.ufpel.edu.br)
- - date_published: 2024-07-13T07:23:27.330229+00:00
-
- ## UFVJM - Universidade Federal dos Vales do Jequitinhonha e Mucuri
- - [http://www.ufvjm.edu.br](http://www.ufvjm.edu.br)
- - date_published: 2024-07-13T18:13:21+00:00
-
- ## UNIFEOB - Centro Universitário Fundação de Ensino Octávio Bastos
- - [https://unifeob.edu.br](https://unifeob.edu.br)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Prof
- - [http://bioserver.cpgei.ct.utfpr.edu.br](http://bioserver.cpgei.ct.utfpr.edu.br)
- - date_published: 2020-04-26T20:42:06+00:00
 

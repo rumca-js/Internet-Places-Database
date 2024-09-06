@@ -1,3 +1,97 @@
+ ## Patterned AI
+ - [http://patterned.ai](http://patterned.ai)
+ - date_published: 2024-06-19T20:38:58.486282+00:00
+
+ ## Patterned AI
+ - [https://www.patterned.ai](https://www.patterned.ai)
+ - date_published: 2024-06-19T21:12:34.477033+00:00
+
+ ## Paxo: AI meeting notes for the real world
+ - [https://paxo.ai](https://paxo.ai)
+ - date_published: 2023-09-22T00:00:00+00:00
+
+ ## PDF.ai | Chat with your PDF documents
+ - [https://pdf.ai](https://pdf.ai)
+ - date_published: 2024-06-19T19:35:49.500635+00:00
+
+ ## Peak - Game-changing AI is here.
+ - [https://www.peak.ai](https://www.peak.ai)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Penelope.ai
+ - [https://app.penelope.ai](https://app.penelope.ai)
+ - date_published: 2024-05-08T03:01:32.442324+00:00
+
+ ## Penelope.ai
+ - [https://www.penelope.ai](https://www.penelope.ai)
+ - date_published: 2024-07-03T15:33:46.386616+00:00
+
+ ## Penly AI: Custom Anime & Real Girl Art Generator - Free Trial
+ - [https://penly.ai](https://penly.ai)
+ - date_published: 2024-01-01T05:10:32+00:00
+
+ ## PennyLane
+ - [https://pennylane.ai](https://pennylane.ai)
+ - date_published: 2024-06-19T14:40:25+00:00
+
+ ## Unlock your GTM's complete story with SalesAI
+ - [https://www.people.ai](https://www.people.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## AI Chatbot Online(Include NSFW Character) - PepHop AI
+ - [https://pephop.ai](https://pephop.ai)
+ - date_published: 2024-06-18T04:24:33+00:00
+ - tags: ['nsfw']
+
+ ## Peppertype.ai | Create Quality Content Faster
+ - [https://www.peppertype.ai](https://www.peppertype.ai)
+ - date_published: 2024-06-19T21:08:35.206919+00:00
+
+ ## PerfAI
+ - [https://app.perfai.ai](https://app.perfai.ai)
+ - date_published: 2024-07-24T07:30:36+00:00
+
+ ## PerfAI
+ - [https://cloud.perfai.ai](https://cloud.perfai.ai)
+ - date_published: 2024-07-24T07:30:36+00:00
+
+ ## AI-Driven API Performance Testing
+ - [https://perfai.ai](https://perfai.ai)
+ - date_published: 2023-10-25T11:41:16.602552+00:00
+
+ ## AI Essay Writer & AI Writing Tools | Essay Generator
+ - [https://www.perfectessaywriter.ai](https://www.perfectessaywriter.ai)
+ - date_published: 2024-06-19T20:08:08.973466+00:00
+
+ ## pplx-api
+ - [https://docs.perplexity.ai](https://docs.perplexity.ai)
+ - date_published: 2024-05-24T19:35:03.475932+00:00
+
+ ## Perplexity Labs Playground
+ - [https://labs.perplexity.ai](https://labs.perplexity.ai)
+ - date_published: 2023-12-19T17:44:33+00:00
+
+ ## Cierpliwości...
+ - [https://llama.perplexity.ai](https://llama.perplexity.ai)
+ - date_published: 2024-06-19T20:41:12.774235+00:00
+
+ ## Cierpliwości...
+ - [https://perplexity.ai](https://perplexity.ai)
+ - date_published: 2024-05-14T03:37:40.311437+00:00
+ - tags: ['artificial intelligence bot', 'search engine']
+
+ ## Persana AI | Supercharge your Prospecting with AI
+ - [https://www.persana.ai](https://www.persana.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## My AI | Create an AI Version of Yourself | Amplify Your Expertise
+ - [https://www.personal.ai](https://www.personal.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## PetPic
+ - [https://petpic.ai](https://petpic.ai)
+ - date_published: 2023-10-25T08:25:31.233721+00:00
+
  ## Home
  - [https://phasechange.ai](https://phasechange.ai)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -1000,6 +1094,10 @@
  - [https://www.rezi.ai](https://www.rezi.ai)
  - date_published: 2024-06-18T00:00:00+00:00
 
+ ## RGo Robotics - Vision & AI Perception for Mobile Machines
+ - [https://www.rgorobotics.ai](https://www.rgorobotics.ai)
+ - date_published: 2024-09-05T21:10:44.424338+00:00
+
  ## DANAGG | Situs Taruhan Judi Online Paling Aman Terpercaya Saat Ini
  - [https://www.rideos.ai](https://www.rideos.ai)
  - date_published: 2024-07-12T07:25:43.445663+00:00
@@ -1009,7 +1107,7 @@
  - date_published: 2024-04-07T00:00:00+00:00
 
  ## Home - RIOS
- - [https://www.rios.ai](https://www.rios.ai)
+ - [https://rios.ai](https://rios.ai)
  - date_published: 2024-04-03T00:00:00+00:00
  - tags: ['artificial intelligence', 'robotics']
 
@@ -1541,6 +1639,10 @@
  ## SkimIt.ai - Get an ai generated summary of any article delivered to your inbox
  - [https://www.skimit.ai](https://www.skimit.ai)
  - date_published: 2024-06-19T19:06:41.542875+00:00
+
+ ## SkyWatch.AI
+ - [https://freefly.portal.skywatch.ai](https://freefly.portal.skywatch.ai)
+ - date_published: 2024-09-03T07:23:26+00:00
 
  ## Slides
  - [https://www.slideas.ai](https://www.slideas.ai)
@@ -2087,6 +2189,10 @@
  - [https://synesthesia.ai](https://synesthesia.ai)
  - date_published: 2024-01-09T02:23:20.593035+00:00
 
+ ## 深信科创
+ - [https://www.synkrotron.ai](https://www.synkrotron.ai)
+ - date_published: 2024-02-18T09:01:00+00:00
+
  ## Sizzle - Free AI tutor for everyone
  - [https://web.szl.ai](https://web.szl.ai)
  - date_published: 2024-09-02T10:07:14.635775+00:00
@@ -2590,6 +2696,14 @@
  - [https://tryleap.ai](https://tryleap.ai)
  - date_published: 2024-07-08T18:21:47.828731+00:00
 
+ ## Maitai
+ - [https://portal.trymaitai.ai](https://portal.trymaitai.ai)
+ - date_published: 2024-09-05T15:14:30+00:00
+
+ ## Maitai - AI Reliability Made Easy
+ - [https://trymaitai.ai](https://trymaitai.ai)
+ - date_published: 2024-08-29T00:00:00+00:00
+
  ## TryNectar’s AI Girlfriend - Create your Perfect Virtual Companion - Your dream AI girlfriend is a few clicks away
  - [https://trynectar.ai](https://trynectar.ai)
  - date_published: 2024-06-14T08:58:45.277017+00:00
@@ -2766,7 +2880,7 @@
  - date_published: 2024-08-08T00:00:00+00:00
 
  ## AI News & Robotics News - Unite.AI
- - [https://www.unite.ai](https://www.unite.ai)
+ - [https://unite.ai](https://unite.ai)
  - date_published: 2023-10-25T11:00:48.637068+00:00
  - tags: ['artificial intelligence', 'robotics', 'news']
 
@@ -3008,6 +3122,10 @@
  ## Visily - AI-powered UI design software
  - [https://www.visily.ai](https://www.visily.ai)
  - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Viso Suite - The most powerful way to deliver Computer Vision Applications
+ - [https://viso.ai](https://viso.ai)
+ - date_published: 2024-07-21T00:00:00+00:00
 
  ## ViVum | Technology Evolved
  - [https://vivum.ai](https://vivum.ai)
@@ -3910,121 +4028,4 @@ Creative Solutions
  ## E-bill | Vodafone.al
  - [https://ebill.vodafone.al](https://ebill.vodafone.al)
  - date_published: 2024-02-27T16:08:20+00:00
-
- ## MVA10
- - [https://my.vodafone.al](https://my.vodafone.al)
- - date_published: 2023-12-12T16:00:26+00:00
-
- ## Personale - Vodafone
- - [https://vodafone.al](https://vodafone.al)
- - date_published: 2024-05-07T10:57:37.324893+00:00
-
- ## Jake's Digital Garden
- - [https://garden.weidok.al](https://garden.weidok.al)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Jake Weidokal
- - [https://weidok.al](https://weidok.al)
- - date_published: 2024-04-03T06:31:55.800090+00:00
- - tags: ['personal']
-
- ## Yuval Adam | יובל אדם
- - [https://yuv.al](https://yuv.al)
- - date_published: 2024-07-13T04:28:50.689968+00:00
-
- ## Punësoni Freelancera & Gjeni Punë Freelance Online
- - [https://www.freelancer.com.al](https://www.freelancer.com.al)
- - date_published: 2024-06-16T12:01:25.626120+00:00
-
- ## Sot News
- - [https://sot.com.al](https://sot.com.al)
- - date_published: 2023-11-11T16:04:51.715456+00:00
-
- ## KREU - UNIVERSITETI I TIRANËS
- - [http://www.unitir.edu.al](http://www.unitir.edu.al)
- - date_published: 2024-07-20T23:27:42+00:00
-
- ## Car Insurance | Get An Auto Insurance Quote | Allstate
- - [http://www.auto.allstate](http://www.auto.allstate)
- - date_published: 2024-06-16T05:47:32.335801+00:00
-
- ## Abraham Williams
- - [https://abrah.am](https://abrah.am)
- - date_published: 2024-03-10T22:41:31+00:00
-
- ## Agronetto Армения – онлайн площадка по продаже сельхозтехники и запчастей
- - [https://agronetto.am](https://agronetto.am)
- - date_published: 2024-08-11T15:41:29.207731+00:00
-
- ## Airbnb | Վարձով հանգստի տներ, տնակներ, լողափնյա տներ և այլն
- - [https://airbnb.am](https://airbnb.am)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## akr.am
- - [https://akr.am](https://akr.am)
- - date_published: 2024-05-29T08:33:17+00:00
-
- ## Antranig Vartanian | I’m your worst nightmare…
- - [https://antranigv.am](https://antranigv.am)
- - date_published: 2024-07-20T03:18:52.575737+00:00
-
- ## Photos by Antranig
- - [https://photos.antranigv.am](https://photos.antranigv.am)
- - date_published: 2024-08-19T11:58:13.947052+00:00
-
- ## Freedom Be With All | I’m your worst nightmare…
- - [https://weblog.antranigv.am](https://weblog.antranigv.am)
- - date_published: 2023-10-25T11:45:23.684006+00:00
-
- ## arak29.am
- - [http://www.arak29.am](http://www.arak29.am)
- - date_published: 2024-06-30T07:22:52+00:00
-
- ## Հայկական կրթական միջավայր
- - [http://armedu.am](http://armedu.am)
- - date_published: 2024-07-02T22:44:34.273075+00:00
-
- ## Audi-ին Հայաստանում
- - [https://www.audi.am](https://www.audi.am)
- - date_published: 2024-07-19T20:36:41+00:00
-
- ## Радио Азатутюн
- - [https://rus.azatutyun.am](https://rus.azatutyun.am)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Ազատություն Ռադիոկայան
- - [https://azatutyun.am](https://azatutyun.am)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## elomatreb / Ole
- - [https://bertr.am](https://bertr.am)
- - date_published: 2024-04-01T15:29:12+00:00
-
- ## International Youth Chess Tournament
- - [http://jermuk-round.chessacademy.am](http://jermuk-round.chessacademy.am)
- - date_published: 2024-07-20T04:11:24.251679+00:00
-
- ## Circle.am | Try our great links
- - [http://www.circle.am](http://www.circle.am)
- - date_published: 2024-07-02T22:44:21.911149+00:00
-
- ## Frets On Fire, FoFiX  -  Первый русский фан сайт игры!
- - [http://fretsonfire.do.am](http://fretsonfire.do.am)
- - date_published: 2005-04-24T04:29:37+00:00
-
- ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
- - [https://dpgr.am](https://dpgr.am)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Edit Print Publishing House
- - [http://editprint.am](http://editprint.am)
- - date_published: 2024-07-11T10:48:45.070477+00:00
-
- ## home - Fiat Professional Armenia
- - [https://www.fiatprofessional.am](https://www.fiatprofessional.am)
- - date_published: 2015-07-12T14:50:38+00:00
-
- ## Gautam Gupta
- - [https://gaut.am](https://gaut.am)
- - date_published: 2023-12-24T22:43:12+00:00
 

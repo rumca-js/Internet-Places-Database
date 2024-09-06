@@ -1,3 +1,405 @@
+ ## Sexual & Gender Diversity Office – University of Toronto SGDO
+ - [https://sgdo.utoronto.ca](https://sgdo.utoronto.ca)
+ - date_published: 2024-07-01T21:36:17.131509+00:00
+
+ ## 2024-2025 Calendar | School of Graduate Studies (SGS) Calendar
+ - [https://sgs.calendar.utoronto.ca](https://sgs.calendar.utoronto.ca)
+ - date_published: 2024-07-19T14:52:26+00:00
+
+ ## A-Z directory | University of Toronto
+ - [http://sites.utoronto.ca](http://sites.utoronto.ca)
+ - date_published: 2024-07-20T21:35:45+00:00
+
+ ## SLUGS – Society of Linguistics Undergraduate Students
+ - [http://slugs.sa.utoronto.ca](http://slugs.sa.utoronto.ca)
+ - date_published: 2024-07-19T15:18:56.936718+00:00
+
+ ## Factor-Inwentash Faculty of Social Work
+ - [http://socialwork.utoronto.ca](http://socialwork.utoronto.ca)
+ - date_published: 2024-07-21T08:10:01.435703+00:00
+
+ ## Schwartz Reisman Institute for Technology and Society
+ - [https://sr-institute.utoronto.ca](https://sr-institute.utoronto.ca)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Schwartz Reisman Institute for Technology and Society
+ - [https://srinstitute.utoronto.ca](https://srinstitute.utoronto.ca)
+ - date_published: 2024-04-30T05:31:04.915887+00:00
+
+ ## Home - University Family Housing at University of Toronto
+ - [http://studentfamilyhousing.utoronto.ca](http://studentfamilyhousing.utoronto.ca)
+ - date_published: 2024-08-17T23:16:14.438873+00:00
+
+ ## Home - UofT Student Life
+ - [https://studentlife.utoronto.ca](https://studentlife.utoronto.ca)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## University of Toronto Libraries
+ - [https://subscriptions-techstreet-com.myaccess.library.utoronto.ca](https://subscriptions-techstreet-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:24:02.508667+00:00
+
+ ## TaPIR Lab | TaPIR Lab
+ - [https://tapirlab.music.utoronto.ca](https://tapirlab.music.utoronto.ca)
+ - date_published: 2024-07-10T06:14:49.855593+00:00
+
+ ## Home - TCard
+ - [https://tcard.utoronto.ca](https://tcard.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## In the news
+ - [https://temertymedicine.utoronto.ca](https://temertymedicine.utoronto.ca)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Toronto Intelligent Systems Lab
+ - [https://tisl.cs.utoronto.ca](https://tisl.cs.utoronto.ca)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## Daphna Heller
+ - [http://tlpl.ling.utoronto.ca](http://tlpl.ling.utoronto.ca)
+ - date_published: 2020-08-19T22:21:37+00:00
+
+ ## TSpace Repository: Home
+ - [https://tspace.library.utoronto.ca](https://tspace.library.utoronto.ca)
+ - date_published: 2024-05-02T09:56:15.217226+00:00
+
+ ## Toronto Working Papers in Linguistics
+ - [http://twpl.library.utoronto.ca](http://twpl.library.utoronto.ca)
+ - date_published: 2024-07-19T15:18:54.562176+00:00
+
+ ## Learning and Leadership Centre – Professional Development at U of T
+ - [https://ulearn.utoronto.ca](https://ulearn.utoronto.ca)
+ - date_published: 2024-07-15T09:56:56.977021+00:00
+
+ ## https://utcc.utoronto.ca
+ - [https://utcc.utoronto.ca](https://utcc.utoronto.ca)
+ - date_published: 2011-04-20T17:30:24+00:00
+
+ ## Welcome | University of Toronto Mississauga Library
+ - [https://utm.library.utoronto.ca](https://utm.library.utoronto.ca)
+ - date_published: 2024-07-19T19:37:55+00:00
+
+ ## University of Toronto
+ - [http://utoronto.ca](http://utoronto.ca)
+ - date_published: 2024-06-22T04:32:12+00:00
+
+ ## 2024-2025 Calendar | UTSC Calendar
+ - [https://utsc.calendar.utoronto.ca](https://utsc.calendar.utoronto.ca)
+ - date_published: 2024-06-15T02:35:23+00:00
+
+ ## Home | University of Toronto Scarborough Campus
+ - [https://utsc.library.utoronto.ca](https://utsc.library.utoronto.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home | University of Toronto Scarborough
+ - [https://utsc.utoronto.ca](https://utsc.utoronto.ca)
+ - date_published: 2024-06-14T15:04:05+00:00
+
+ ## Home » Victoria College
+ - [https://vic.utoronto.ca](https://vic.utoronto.ca)
+ - date_published: 2024-09-05T11:52:16.108566+00:00
+
+ ## Horde :: Log in
+ - [https://webmail.physics.utoronto.ca](https://webmail.physics.utoronto.ca)
+ - date_published: 2024-07-03T23:23:38.162405+00:00
+
+ ## Redirecting...
+ - [https://webmail.utoronto.ca](https://webmail.utoronto.ca)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## University of Toronto Scarborough
+ - [https://webmail.utsc.utoronto.ca](https://webmail.utsc.utoronto.ca)
+ - date_published: 2024-06-15T12:54:20.743174+00:00
+
+ ## OISE WordPress – INSPIRING EDUCATION | oise.utoronto.ca
+ - [https://wordpress.oise.utoronto.ca](https://wordpress.oise.utoronto.ca)
+ - date_published: 2024-07-21T08:24:17.120260+00:00
+
+ ## Academic Administrative Procedures Manual – University of Toronto
+ - [http://www.aapm.utoronto.ca](http://www.aapm.utoronto.ca)
+ - date_published: 2024-07-15T09:57:14.997199+00:00
+
+ ## Faculty of Arts & Science | University of Toronto
+ - [http://www.artsci.utoronto.ca](http://www.artsci.utoronto.ca)
+ - date_published: 2024-07-12T21:41:37.314466+00:00
+
+ ## U of T Department of Astronomy & Astrophysics |
+ - [https://www.astro.utoronto.ca](https://www.astro.utoronto.ca)
+ - date_published: 2024-06-22T12:03:49.447702+00:00
+
+ ## Media Room & Blue Book – University of Toronto
+ - [http://www.bluebook.utoronto.ca](http://www.bluebook.utoronto.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Campus Safety | University of Toronto
+ - [https://www.campussafety.utoronto.ca](https://www.campussafety.utoronto.ca)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Centre for Critical Qualitative Health Research – Doing Science Differently
+ - [http://www.ccqhr.utoronto.ca](http://www.ccqhr.utoronto.ca)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Biz Enterprises | AR15 Bolts, Rifle Parts, Accessories | Minnesota Made In USA
+ - [http://www.citiescentre.utoronto.ca](http://www.citiescentre.utoronto.ca)
+ - date_published: 2024-07-19T05:12:06.416541+00:00
+
+ ## University of Toronto Libraries
+ - [https://www-cochranelibrary-com.myaccess.library.utoronto.ca](https://www-cochranelibrary-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:23.442886+00:00
+
+ ## Community Safety Office – University of Toronto
+ - [https://www.communitysafety.utoronto.ca](https://www.communitysafety.utoronto.ca)
+ - date_published: 2024-07-01T21:36:34.349663+00:00
+
+ ## Department of Computer Science, University of Toronto
+ - [https://www.cs.utoronto.ca](https://www.cs.utoronto.ca)
+ - date_published: 2024-06-13T18:04:54.685024+00:00
+
+ ## Home | Dynamic Graphics Project
+ - [http://www.dgp.utoronto.ca](http://www.dgp.utoronto.ca)
+ - date_published: 2013-06-12T13:33:58+00:00
+
+ ## Discovery Pharmacy
+ - [https://www.discoverypharmacy.utoronto.ca](https://www.discoverypharmacy.utoronto.ca)
+ - date_published: 2024-07-01T21:36:14.242869+00:00
+
+ ## Dalla Lana School of Public Health
+ - [https://dlsph.utoronto.ca](https://dlsph.utoronto.ca)
+ - date_published: 2024-06-09T00:56:10.915327+00:00
+
+ ## Home - Dunlap Institute
+ - [https://dunlap.utoronto.ca](https://dunlap.utoronto.ca)
+ - date_published: 2015-04-22T19:42:29+00:00
+
+ ## ECE at U of T - Electrical & Computer Engineering
+ - [https://www.ece.utoronto.ca](https://www.ece.utoronto.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## University of Toronto Libraries
+ - [http://www.edu.gov.on.ca.myaccess.library.utoronto.ca](http://www.edu.gov.on.ca.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:15.774332+00:00
+
+ ## The Computer Engineering Research Group
+ - [http://www.eecg.utoronto.ca](http://www.eecg.utoronto.ca)
+ - date_published: 2018-08-16T23:56:55+00:00
+
+ ## Home - Faculty of Applied Science & Engineering
+ - [https://www.engineering.utoronto.ca](https://www.engineering.utoronto.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## University of Toronto Libraries
+ - [https://www-engineeringvillage-com.myaccess.library.utoronto.ca](https://www-engineeringvillage-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:24:05.620252+00:00
+
+ ## Congratulations to the class of 2T4!
+ - [http://www.facmed.utoronto.ca](http://www.facmed.utoronto.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Faculty Relocation Service – University of Toronto
+ - [http://www.facultyrelocation.utoronto.ca](http://www.facultyrelocation.utoronto.ca)
+ - date_published: 2024-08-17T23:16:10.348939+00:00
+
+ ## Office of the Vice-Provost, Faculty & Academic Life – University of Toronto
+ - [http://www.faculty.utoronto.ca](http://www.faculty.utoronto.ca)
+ - date_published: 2024-08-17T23:16:06.141610+00:00
+
+ ## Fields Institute for Research in Mathematical Sciences
+ - [http://www.fields.utoronto.ca](http://www.fields.utoronto.ca)
+ - date_published: 2024-06-22T09:27:40+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://www-google-com.myaccess.library.utoronto.ca](https://www-google-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Welcome
+ - [http://www.ipe.utoronto.ca](http://www.ipe.utoronto.ca)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Information Technology Services - University of Toronto
+ - [https://its.utoronto.ca](https://its.utoronto.ca)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## University of Toronto Libraries
+ - [https://www-jstor-org.myaccess.library.utoronto.ca](https://www-jstor-org.myaccess.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:36.444236+00:00
+
+ ## KINections - Faculty of KPE | University of Toronto
+ - [https://www.kinections.utoronto.ca](https://www.kinections.utoronto.ca)
+ - date_published: 2024-09-05T11:53:33.128752+00:00
+
+ ## Home | University of Toronto Faculty of Law
+ - [https://law.utoronto.ca](https://law.utoronto.ca)
+ - date_published: 2024-04-30T05:29:58.708671+00:00
+
+ ## Department of Mathematics | University of Toronto
+ - [https://www.mathematics.utoronto.ca](https://www.mathematics.utoronto.ca)
+ - date_published: 2024-07-11T20:39:39+00:00
+
+ ## Welcome to the MD Program
+ - [https://md.utoronto.ca](https://md.utoronto.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## MIE Home - Department of Mechanical & Industrial Engineering
+ - [https://www.mie.utoronto.ca](https://www.mie.utoronto.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## PGME HomePage
+ - [http://www.pgme.utoronto.ca](http://www.pgme.utoronto.ca)
+ - date_published: 2024-08-11T04:26:19.747455+00:00
+
+ ## Leslie Dan Faculty of Pharmacy, University of Toronto
+ - [https://www.pharmacy.utoronto.ca](https://www.pharmacy.utoronto.ca)
+ - date_published: 2024-09-05T03:35:38+00:00
+
+ ## Department of Physics
+ - [https://www.physics.utoronto.ca](https://www.physics.utoronto.ca)
+ - date_published: 2024-05-08T04:21:20.803709+00:00
+
+ ## Procurement Services - Procurement Services
+ - [https://www.procurement.utoronto.ca](https://www.procurement.utoronto.ca)
+ - date_published: 2024-07-01T21:36:02.013744+00:00
+
+ ## University of Toronto Libraries
+ - [https://www-proquest-com.myaccess.library.utoronto.ca](https://www-proquest-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:40.922937+00:00
+
+ ## Division of the Vice-President & Provost – University of Toronto
+ - [https://provost.utoronto.ca](https://provost.utoronto.ca)
+ - date_published: 2024-05-12T05:53:21.602613+00:00
+
+ ## Department of Psychiatry
+ - [http://www.psychiatry.utoronto.ca](http://www.psychiatry.utoronto.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Department of Psychology | University of Toronto
+ - [https://www.psych.utoronto.ca](https://www.psych.utoronto.ca)
+ - date_published: 2024-06-20T21:03:11+00:00
+
+ ## Research & Innovation | University of Toronto
+ - [http://www.research.utoronto.ca](http://www.research.utoronto.ca)
+ - date_published: 2024-07-01T13:03:32+00:00
+
+ ## Student Web Services | University of Toronto
+ - [https://www.rosi.utoronto.ca](https://www.rosi.utoronto.ca)
+ - date_published: 2024-06-15T12:38:41+00:00
+
+ ## Rotman School of Management | University of Toronto - Rotman School of Management
+ - [https://rotman.utoronto.ca](https://rotman.utoronto.ca)
+ - date_published: 2023-11-18T08:17:18.470993+00:00
+
+ ## School of Graduate Studies – University of Toronto
+ - [https://www.sgs.utoronto.ca](https://www.sgs.utoronto.ca)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Sexual Violence Prevention & Support Centre – University of Toronto
+ - [https://www.svpscentre.utoronto.ca](https://www.svpscentre.utoronto.ca)
+ - date_published: 2024-07-01T21:36:28.818634+00:00
+
+ ## ITS System Status Status
+ - [https://www.systemstatus.utoronto.ca](https://www.systemstatus.utoronto.ca)
+ - date_published: 2024-08-11T10:25:47.661520+00:00
+
+ ## Home | Toronto Robotics and AI Laboratory
+ - [https://www.trailab.utias.utoronto.ca](https://www.trailab.utias.utoronto.ca)
+ - date_published: 2024-06-22T11:41:15.995028+00:00
+
+ ## University of Toronto Libraries
+ - [https://www-tripdatabase-com.myaccess.library.utoronto.ca](https://www-tripdatabase-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:42.802188+00:00
+
+ ## Home | University of Toronto Mississauga
+ - [https://utm.utoronto.ca](https://utm.utoronto.ca)
+ - date_published: 2023-11-08T22:51:00.987663+00:00
+
+ ## UTORid Management
+ - [https://www.utorid.utoronto.ca](https://www.utorid.utoronto.ca)
+ - date_published: 2021-08-31T17:31:54+00:00
+
+ ## University of Toronto
+ - [https://utoronto.ca](https://utoronto.ca)
+ - date_published: 2023-10-25T11:21:50.526226+00:00
+ - tags: ['university']
+
+ ## University of Victoria - Sign in Service
+ - [https://bright.uvic.ca](https://bright.uvic.ca)
+ - date_published: 2024-05-09T05:41:58.606624+00:00
+
+ ## UVicSpace : Home
+ - [https://dspace.library.uvic.ca](https://dspace.library.uvic.ca)
+ - date_published: 2024-07-07T10:18:38.698603+00:00
+
+ ## Electronic Textual Cultures Lab | A Canadian Social Knowledge Institute lab
+ - [https://etcl.uvic.ca](https://etcl.uvic.ca)
+ - date_published: 2024-05-09T09:12:01.255401+00:00
+
+ ## UVic Events - University of Victoria
+ - [https://events.uvic.ca](https://events.uvic.ca)
+ - date_published: 2024-05-09T05:41:55.790539+00:00
+
+ ## Andrea Tagliasacchi
+ - [https://gfx.uvic.ca](https://gfx.uvic.ca)
+ - date_published: 2024-07-24T05:50:34.738209+00:00
+
+ ## LibCal -
+        University of Victoria Libraries
+ - [https://libcal.uvic.ca](https://libcal.uvic.ca)
+ - date_published: 2024-07-08T21:52:36.680320+00:00
+
+ ## Online Academic Community | Initiative of the University of Victoria
+ - [https://onlineacademiccommunity.uvic.ca](https://onlineacademiccommunity.uvic.ca)
+ - date_published: 2024-06-22T09:21:21.087127+00:00
+
+ ## Computer Science - University of Victoria
+ - [https://webhome.cs.uvic.ca](https://webhome.cs.uvic.ca)
+ - date_published: 2024-05-04T15:27:24.149804+00:00
+
+ ## Web hosting - Faculty and Staff - University of Victoria
+ - [http://web.uvic.ca](http://web.uvic.ca)
+ - date_published: 2024-06-22T09:21:17.800919+00:00
+
+ ## Computer Science - University of Victoria
+ - [http://www.cs.uvic.ca](http://www.cs.uvic.ca)
+ - date_published: 2024-06-30T10:06:13.423404+00:00
+
+ ## Home - University of Victoria - University of Victoria
+ - [https://uvic.ca](https://uvic.ca)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## UVIC Bookstore
+ - [https://uvicbookstore.ca](https://uvicbookstore.ca)
+ - date_published: 2024-05-09T05:42:01.284701+00:00
+
+ ## Peter Bernath | University of Waterloo.
+ - [http://bernath.uwaterloo.ca](http://bernath.uwaterloo.ca)
+ - date_published: 2024-06-30T02:57:26.613472+00:00
+
+ ## Waterloo Computer Graphics Lab
+ - [https://cgl.uwaterloo.ca](https://cgl.uwaterloo.ca)
+ - date_published: 2023-09-15T14:36:58+00:00
+
+ ## Cryptography, Security, and Privacy (CrySP) | University of Waterloo
+ - [https://crysp.uwaterloo.ca](https://crysp.uwaterloo.ca)
+ - date_published: 2024-08-07T14:57:37.877794+00:00
+
+ ## CSC - University of Waterloo
+ - [https://csclub.uwaterloo.ca](https://csclub.uwaterloo.ca)
+ - date_published: 2023-10-25T11:22:02.876946+00:00
+
+ ## Home | Cheriton School of Computer Science | University of Waterloo
+ - [https://cs.uwaterloo.ca](https://cs.uwaterloo.ca)
+ - date_published: 2023-10-25T12:09:06.920644+00:00
+
+ ## CSC Cloud Docs
+ - [https://docs.cloud.csclub.uwaterloo.ca](https://docs.cloud.csclub.uwaterloo.ca)
+ - date_published: 2024-02-02T07:33:07+00:00
+
+ ## Get access from anywhere | Library | University of Waterloo
+ - [https://doi-org.proxy.lib.uwaterloo.ca](https://doi-org.proxy.lib.uwaterloo.ca)
+ - date_published: 2024-07-21T09:12:02.662046+00:00
+
+ ## Welcome to Electrical and Computer Engineering (ECE) at the University of Waterloo | Electrical and Computer Engineering
+ - [https://ece.uwaterloo.ca](https://ece.uwaterloo.ca)
+ - date_published: 2024-05-04T15:44:35.975092+00:00
+
  ## CSC Files
  - [https://files.csclub.uwaterloo.ca](https://files.csclub.uwaterloo.ca)
  - date_published: 2024-07-21T08:05:27.888105+00:00
@@ -561,7 +963,7 @@
  - date_published: 2024-06-19T18:25:30.574452+00:00
 
  ## Women of Influence –
- - [https://www.womenofinfluence.ca](https://www.womenofinfluence.ca)
+ - [https://womenofinfluence.ca](https://womenofinfluence.ca)
  - date_published: 2023-10-25T12:09:32.572588+00:00
 
  ## Women’s College Hospital
@@ -1058,7 +1460,7 @@
  - date_published: 2014-03-21T00:00:00+00:00
 
  ## Communications Security Establishment
- - [https://www.cse-cst.gc.ca](https://www.cse-cst.gc.ca)
+ - [https://cse-cst.gc.ca](https://cse-cst.gc.ca)
  - date_published: 2024-02-07T15:33:10+00:00
  - tags: ['france security intelligence', 'security intelligence']
 
@@ -1143,7 +1545,7 @@
  - date_published: 2017-12-06T00:00:00+00:00
 
  ## Commissariat à la protection de la vie privée du Canada / Office of the Privacy Commissioner
- - [https://www.priv.gc.ca](https://www.priv.gc.ca)
+ - [https://priv.gc.ca](https://priv.gc.ca)
  - date_published: 2023-10-25T12:09:36.663904+00:00
 
  ## Publications du gouvernement du Canada | Government of Canada Publications
@@ -1192,7 +1594,7 @@
 
  ## Language selection - Vanier Canada Graduate Scholarships  / Sélection de la langue - Bourses d'études supérieures du Canada Vanier
  - [https://vanier.gc.ca](https://vanier.gc.ca)
- - date_published: 2024-06-09T01:06:28.920656+00:00
+ - date_published: 2019-12-16T14:14:45+00:00
 
  ## Language selection
  - [https://www.veterans.gc.ca](https://www.veterans.gc.ca)
@@ -1231,7 +1633,7 @@
  - date_published: 2024-04-30T05:33:03.894877+00:00
 
  ## Province of Manitoba | Home Page
- - [https://www.edu.gov.mb.ca](https://www.edu.gov.mb.ca)
+ - [https://edu.gov.mb.ca](https://edu.gov.mb.ca)
  - date_published: 2024-02-01T00:00:00+00:00
 
  ## Manitoba Hydro: Safe, clean, reliable energy
@@ -2142,7 +2544,7 @@
  - date_published: 2024-07-01T06:43:18+00:00
 
  ## Health Labs Care
- - [https://www.healthlabs.care](https://www.healthlabs.care)
+ - [https://healthlabs.care](https://healthlabs.care)
  - date_published: 1920-01-01T00:00:00+00:00
 
  ## Leleka Foundation | Saving Lives in Ukraine
@@ -2166,7 +2568,7 @@
  - date_published: 2024-04-30T05:35:20.495645+00:00
 
  ## Shimmer | ADHD Coaching That Fit Into Your Life | Expert & Affordable
- - [https://www.shimmer.care](https://www.shimmer.care)
+ - [https://shimmer.care](https://shimmer.care)
  - date_published: 2023-10-25T12:10:12.016239+00:00
 
  ## Staci Bu Shea
@@ -2280,6 +2682,10 @@
  ## Izzy Muerte • Self Unemployed
  - [https://izzys.casa](https://izzys.casa)
  - date_published: 2023-10-25T12:10:14.071392+00:00
+
+ ## git.m455.casa
+ - [https://git.m455.casa](https://git.m455.casa)
+ - date_published: 2024-07-18T15:40:49+00:00
 
  ## Mon Repos | Gordon Pedersen @ Mon Repos
  - [https://monrepos.casa](https://monrepos.casa)
@@ -3608,413 +4014,4 @@
  ## Hi, DIYgod
  - [https://diygod.cc](https://diygod.cc)
  - date_published: 2024-03-10T00:00:00+00:00
-
- ## Umami
- - [https://umami.diygod.cc](https://umami.diygod.cc)
- - date_published: 2024-09-02T15:44:46.550445+00:00
-
- ## djm.cc home page
- - [https://djm.cc](https://djm.cc)
- - date_published: 2015-04-26T04:58:04+00:00
-
- ## Akkoma
- - [https://dlvn.cc](https://dlvn.cc)
- - date_published: 2024-05-12T06:01:24.009751+00:00
-
- ## DOC
- - [https://doc.cc](https://doc.cc)
- - date_published: 2024-06-21T22:06:55.568800+00:00
-
- ## Happy Thank U GIF by Barnaby - Find & Share on GIPHY
- - [http://drmst.cc](http://drmst.cc)
- - date_published: 2024-07-01T05:15:46.147120+00:00
-
- ## 恭喜，站点创建成功！
- - [https://static.dxracer.cc](https://static.dxracer.cc)
- - date_published: 2024-06-05T07:40:31+00:00
-
- ## Easy Surf
- - [http://www.easysurf.cc](http://www.easysurf.cc)
- - date_published: 2023-01-18T20:53:06+00:00
-
- ## eay.cc – Weblog von Stefan Grund
- - [https://eay.cc](https://eay.cc)
- - date_published: 2024-07-02T17:59:45.646895+00:00
-
- ## eclecticc | by Nirav Patel
- - [https://eclecti.cc](https://eclecti.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## パズドラ裏ワザ＆攻略LABO
- - [http://eldred.cc](http://eldred.cc)
- - date_published: 2024-06-17T02:41:55.919683+00:00
-
- ## Electrotechnique Synthesizers | DIY Synthesizers
- - [https://electrotechnique.cc](https://electrotechnique.cc)
- - date_published: 2023-10-25T12:10:56.844543+00:00
-
- ## ERYC—Software Designer
- - [https://eryc.cc](https://eryc.cc)
- - date_published: 2024-05-09T06:19:04.178187+00:00
-
- ## Escape Collective
- - [https://escapecollective.cc](https://escapecollective.cc)
- - date_published: 2024-06-19T06:56:57.162448+00:00
-
- ## ETHStaker QF Round
- - [https://qf.ethstaker.cc](https://qf.ethstaker.cc)
- - date_published: 2024-07-14T21:47:13.074514+00:00
-
- ## Power Overwhelming
- - [https://blog.evanchen.cc](https://blog.evanchen.cc)
- - date_published: 2024-06-15T09:47:12.441346+00:00
-
- ## Evan Chen • About
- - [https://web.evanchen.cc](https://web.evanchen.cc)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## EVERESTING
- - [https://everesting.cc](https://everesting.cc)
- - date_published: 2024-05-10T04:56:33.855503+00:00
-
- ## Membership - Evoé
- - [https://membership.evoe.cc](https://membership.evoe.cc)
- - date_published: 2024-05-29T00:27:48.785254+00:00
-
- ## Home - eWeLink
- - [https://www.ewelink.cc](https://www.ewelink.cc)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Ezblock Studio
- - [https://ezblock.cc](https://ezblock.cc)
- - date_published: 2023-05-24T08:18:40+00:00
-
- ## KENKOU LAND｜pixivFANBOX
- - [https://kenkouland.fanbox.cc](https://kenkouland.fanbox.cc)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## MCGER｜pixivFANBOX
- - [https://mcg.fanbox.cc](https://mcg.fanbox.cc)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## pixivFANBOX
- - [https://www.fanbox.cc](https://www.fanbox.cc)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## fastText
- - [https://fasttext.cc](https://fasttext.cc)
- - date_published: 2022-03-04T15:46:23+00:00
-
- ## favicon.ico Generator
- - [https://www.favicon.cc](https://www.favicon.cc)
- - date_published: 2024-06-19T15:03:46.018846+00:00
-
- ## Andrew Wong | featherbear
- - [https://featherbear.cc](https://featherbear.cc)
- - date_published: 2023-06-12T13:38:36+00:00
-
- ## Fathom - simple website analytics
- - [https://ss.featherbear.cc](https://ss.featherbear.cc)
- - date_published: 2024-01-16T08:36:53+00:00
-
- ## Hugo Ferreira
- - [https://hugo.ferreira.cc](https://hugo.ferreira.cc)
- - date_published: 2024-02-09T22:23:01.833427+00:00
- - tags: ['personal']
-
- ## 西安网站建设_网站制作_网站设计公司-【西安凡高网络】
- - [https://www.fgkj.cc](https://www.fgkj.cc)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Followup Software
- - [https://followup.cc](https://followup.cc)
- - date_published: 2024-08-05T23:58:46.060751+00:00
-
- ## Forest - Stay focused, be present
- - [https://www.forestapp.cc](https://www.forestapp.cc)
- - date_published: 2024-05-17T02:25:18+00:00
-
- ## Frankfort Plant Board
- - [http://fpb.cc](http://fpb.cc)
- - date_published: 2024-06-29T15:41:00.170189+00:00
-
- ## gndclouds
- - [https://gndclouds.cc](https://gndclouds.cc)
- - date_published: 2024-08-08T03:05:53.506626+00:00
-
- ## grains
- - [https://grains.cc](https://grains.cc)
- - date_published: 2024-08-07T23:59:42.234397+00:00
-
- ## Cierpliwości...
- - [https://gridstudio.cc](https://gridstudio.cc)
- - date_published: 2024-06-23T07:02:36.611269+00:00
-
- ## Daniel Gruss
- - [https://gruss.cc](https://gruss.cc)
- - date_published: 2024-07-03T03:20:56+00:00
-
- ## 好事发生
- - [https://hahaha.cc](https://hahaha.cc)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Hazel's Garage
- - [https://shop.hazel.cc](https://shop.hazel.cc)
- - date_published: 2024-05-09T08:40:19.377426+00:00
-
- ## Show HN: Resource Index – FOSS Git Repository and NPM Package Index
- - [https://res-index.hkit.cc](https://res-index.hkit.cc)
- - date_published: 2024-05-30T03:18:40+00:00
- - tags: ['package search', 'programming library', 'open source']
-
- ## Haotian Liu
- - [https://hliu.cc](https://hliu.cc)
- - date_published: 2024-03-09T18:01:13+00:00
-
- ## LLaVA
- - [https://llava.hliu.cc](https://llava.hliu.cc)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Connor Clark
- - [https://hoten.cc](https://hoten.cc)
- - date_published: 2023-11-28T01:42:19+00:00
-
- ## HackSpace magazine
- - [https://hsmag.cc](https://hsmag.cc)
- - date_published: 2024-07-08T17:48:55.813610+00:00
-
- ## Hunt Bike Wheels - Wide Tubeless Ready Performance Bike Wheels
- - [https://www.huntbikewheels.cc](https://www.huntbikewheels.cc)
- - date_published: 2024-06-15T11:56:59.718387+00:00
-
- ## Hydra | Hydra
- - [https://hydra.cc](https://hydra.cc)
- - date_published: 2024-04-03T21:45:53+00:00
-
- ## was yea ra enne ar ciel.
- - [https://hymmnos.cc](https://hymmnos.cc)
- - date_published: 2024-05-20T20:18:53+00:00
-
- ## What is Federated Learning? — Klu
- - [http://icfl.cc](http://icfl.cc)
- - date_published: 2024-07-07T10:24:50.013875+00:00
-
- ## ICLR Blog – ICLR Blog
- - [https://blog.iclr.cc](https://blog.iclr.cc)
- - date_published: 2024-06-13T18:25:39.318477+00:00
- - tags: ['conference', 'dei']
-
- ## 2024 Conference
- - [https://iclr.cc](https://iclr.cc)
- - date_published: 2024-04-28T03:38:38.671982+00:00
- - tags: ['dei']
-
- ## ICML 2024
- - [https://icml.cc](https://icml.cc)
- - date_published: 2023-10-25T12:11:01.529114+00:00
-
- ## IMPERATIVE • App Development
- - [https://www.imperative.cc](https://www.imperative.cc)
- - date_published: 2024-09-02T16:32:53.211116+00:00
-
- ## Indystry.cc – Open Source Machines
- - [https://indystry.cc](https://indystry.cc)
- - date_published: 2024-05-08T04:06:51.243288+00:00
-
- ## Wordcraft Home Page
- - [http://wordcraft.infopop.cc](http://wordcraft.infopop.cc)
- - date_published: 2019-05-21T17:20:28+00:00
-
- ## InterServer Live Chat
- - [https://chat.is.cc](https://chat.is.cc)
- - date_published: 2024-05-22T02:48:25.983861+00:00
-
- ## ITEAD STUDIO OFFICIAL
- - [https://itead.cc](https://itead.cc)
- - date_published: 2024-05-01T02:45:12.519947+00:00
-
- ## SONOFF Official Homepage| Smart Home automation SONOFF Official
- - [https://sonoff.itead.cc](https://sonoff.itead.cc)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## JOIN Cycling App for iOS & Android - Improve Your Ride
- - [https://join.cc](https://join.cc)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## jstn
- - [http://jstn.cc](http://jstn.cc)
- - date_published: 2024-07-14T13:05:21.390382+00:00
-
- ## jtti-Dedicated Server|Cloud Server-Jtti Singapore Global Network Infrastructure Service Provider
- - [https://jtti.cc](https://jtti.cc)
- - date_published: 2024-05-07T23:30:17.179297+00:00
-
- ## J-V.CC
- - [https://j-v.cc](https://j-v.cc)
- - date_published: 2024-07-30T15:27:38+00:00
-
- ## 每日頭條 - 每日新鮮頭條一網打盡
- - [https://kknews.cc](https://kknews.cc)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## HackMD - KKTIX
- - [https://hackmd.kktix.cc](https://hackmd.kktix.cc)
- - date_published: 2024-06-22T12:42:03.003936+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://de.kolorize.cc](https://de.kolorize.cc)
- - date_published: 2024-04-30T05:43:39.001873+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://es.kolorize.cc](https://es.kolorize.cc)
- - date_published: 2024-04-30T05:43:43.011499+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://fr.kolorize.cc](https://fr.kolorize.cc)
- - date_published: 2024-04-30T05:43:28.022002+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://it.kolorize.cc](https://it.kolorize.cc)
- - date_published: 2024-04-30T05:43:32.915080+00:00
-
- ## Colorize Photo with Next Generation AI | Kolorize
- - [https://kolorize.cc](https://kolorize.cc)
- - date_published: 2024-01-17T14:03:48.489490+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://pt.kolorize.cc](https://pt.kolorize.cc)
- - date_published: 2024-04-30T05:43:48.976595+00:00
-
- ## imagor v1.4.6
- - [https://s3p.kolorize.cc](https://s3p.kolorize.cc)
- - date_published: 2024-04-30T05:43:23.425851+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://tw.kolorize.cc](https://tw.kolorize.cc)
- - date_published: 2024-04-30T05:43:53.125520+00:00
-
- ## /dev/krzaq
- - [https://dev.krzaq.cc](https://dev.krzaq.cc)
- - date_published: 2024-09-04T07:06:12.340865+00:00
-
- ## LaTeX.Online - cloud compiler LaTeX to PDF
- - [https://latexonline.cc](https://latexonline.cc)
- - date_published: 2024-06-01T06:39:47+00:00
-
- ## Ensemble, réinventons la tech | Latitudes
- - [https://www.latitudes.cc](https://www.latitudes.cc)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## CoLLAs
- - [https://lifelong-ml.cc](https://lifelong-ml.cc)
- - date_published: 2024-07-11T14:30:26.017037+00:00
-
- ## LILYGO
- - [https://community.lilygo.cc](https://community.lilygo.cc)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Committed To The Research & Development Of IoT
- - [https://www.lilygo.cc](https://www.lilygo.cc)
- - date_published: 2024-01-04T04:23:21.553958+00:00
-
- ## Linkinbio: The Link-In-Bio Tool That You Get Paid For Each Click.
- - [https://linkinbio.cc](https://linkinbio.cc)
- - date_published: 2024-07-17T12:41:19.546806+00:00
-
- ## LinkStack
- - [https://linksta.cc](https://linksta.cc)
- - date_published: 2024-05-14T03:48:44.023599+00:00
-
- ## Linmi - 探索未知，沉淀新知，迭代认知。
- - [https://linmi.cc](https://linmi.cc)
- - date_published: 2024-08-18T06:57:54.860118+00:00
-
- ## LinuxLists.cc - Mailing List Archive
- - [https://linuxlists.cc](https://linuxlists.cc)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## The complete littleBits library of STEAM and Coding lessons
- - [http://littlebits.cc](http://littlebits.cc)
- - date_published: 2024-08-06T20:17:34.579694+00:00
-
- - [https://lodestone.cc](https://lodestone.cc)
- - date_published: 2024-07-07T11:48:58+00:00
- - tags: ['game hosting', 'minecraft', 'self-host']
-
- ## Lowpass
- - [https://lowpass.cc](https://lowpass.cc)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## LSRF™ | Premium Cycling Clothing
- - [http://lsrf.cc](http://lsrf.cc)
- - date_published: 2024-07-16T17:00:02.361585+00:00
-
- ## The MagPi magazine
- - [https://magpi.cc](https://magpi.cc)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## เว็บสล็อต แนะนำ 5 เกมที่แตกง่าย อัตราการชนะสูง
- - [https://mak1t0.cc](https://mak1t0.cc)
- - date_published: 2024-04-28T03:51:22.722075+00:00
-
- ## MakerPRO
- - [https://makerpro.cc](https://makerpro.cc)
- - date_published: 2024-05-04T15:13:52.422971+00:00
-
- ## Sign in - Matomo
- - [https://analytics.mako.cc](https://analytics.mako.cc)
- - date_published: 2024-04-30T05:44:31.466614+00:00
-
- ## Benjamin Mako Hill
- - [https://mako.cc](https://mako.cc)
- - date_published: 2023-10-25T09:03:06.147739+00:00
- - tags: ['personal']
-
- ## Karmanyaah Malhotra
- - [https://karmanyaah.malhotra.cc](https://karmanyaah.malhotra.cc)
- - date_published: 2023-10-25T12:11:03.732061+00:00
-
- ## Mantik
- - [http://mantik.cc](http://mantik.cc)
- - date_published: 2019-11-29T12:05:05+00:00
-
- ## Mastodon.cc
- - [https://mastodon.cc](https://mastodon.cc)
- - date_published: 2024-06-15T04:23:17.930974+00:00
-
- ## maudite codes
- - [http://blog.maudite.cc](http://blog.maudite.cc)
- - date_published: 2024-07-13T23:53:47.173385+00:00
-
- ## Astrological Readings
- - [http://maxlange.cc](http://maxlange.cc)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## mayaman.cc
- - [http://www.mayaman.cc](http://www.mayaman.cc)
- - date_published: 2024-06-20T09:10:31.071028+00:00
-
- ## Meatloaf!
- - [https://meatloaf.cc](https://meatloaf.cc)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Mehdi’s Notes
- - [https://blog.mehdi.cc](https://blog.mehdi.cc)
- - date_published: 2024-06-18T00:01:49+00:00
-
- ## Mehdi Merah, front-end web developer (and beyond)
- - [https://mehdi.cc](https://mehdi.cc)
- - date_published: 2023-11-15T22:10:20+00:00
-
- ## Meiro – AI-powered builder for tests and quizzes
- - [https://meiro.cc](https://meiro.cc)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Michelle Thorne
- - [https://michellethorne.cc](https://michellethorne.cc)
- - date_published: 2024-07-07T10:27:52.603742+00:00
-
- ## Microsolidarity | Microsolidarity
- - [https://microsolidarity.cc](https://microsolidarity.cc)
- - date_published: 2024-05-12T06:00:54.743093+00:00
 

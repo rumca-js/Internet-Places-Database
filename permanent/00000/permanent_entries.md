@@ -23,6 +23,10 @@
  - [https://global.abb](https://global.abb)
  - date_published: 2024-07-01T08:13:31+00:00
 
+ ## مكتب أبوظبي الإعلامي
+ - [https://www.mediaoffice.abudhabi](https://www.mediaoffice.abudhabi)
+ - date_published: 2024-09-05T19:35:44.589562+00:00
+
  ## Adi Chakravarty
  - [https://adi.ac](https://adi.ac)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -227,6 +231,10 @@
  - [https://generalist.academy](https://generalist.academy)
  - date_published: 2023-10-25T11:36:02.149656+00:00
 
+ ## HLS Academy: Unlock the potential of High-Level Synthesis
+ - [https://hls.academy](https://hls.academy)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Archbishop Sentamu Academy – To lead the best life possible
  - [https://asa.hslt.academy](https://asa.hslt.academy)
  - date_published: 2024-07-08T12:58:30.698329+00:00
@@ -391,9 +399,33 @@
  - [https://www.adidas.ae](https://www.adidas.ae)
  - date_published: 2024-07-14T00:00:00+00:00
 
+ ## Careers at ADNOC Group | ADNOC Group jobs
+ - [https://jobs.adnoc.ae](https://jobs.adnoc.ae)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Petroleum Ports Authority
+ - [https://ppa.adnoc.ae](https://ppa.adnoc.ae)
+ - date_published: 2024-09-05T19:56:52.548359+00:00
+
  ## ADNOC - Maximum Energy Minimum Emissions
- - [https://www.adnoc.ae](https://www.adnoc.ae)
+ - [https://adnoc.ae](https://adnoc.ae)
  - date_published: 2024-06-10T12:47:09.326381+00:00
+
+ ## Consumer
+ - [https://www.adnocdistribution.ae](https://www.adnocdistribution.ae)
+ - date_published: 2024-09-05T19:57:03.283759+00:00
+
+ ## ADNOC Drilling - Drilling
+ - [https://adnocdrilling.ae](https://adnocdrilling.ae)
+ - date_published: 2024-09-05T19:56:55.552364+00:00
+
+ ## Gas Home Page
+ - [https://adnocgas.ae](https://adnocgas.ae)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## LS Home Page
+ - [https://adnocls.ae](https://adnocls.ae)
+ - date_published: 2024-08-15T00:00:00+00:00
 
  ## Airbnb | Vacation rentals, cabins, beach houses, & more
  - [https://airbnb.ae](https://airbnb.ae)
@@ -432,7 +464,7 @@
  - date_published: 2024-06-16T05:07:44.823732+00:00
 
  ## ASPIRE
- - [https://www.aspireuae.ae](https://www.aspireuae.ae)
+ - [https://aspireuae.ae](https://aspireuae.ae)
  - date_published: 2024-06-10T12:47:28.986449+00:00
 
  ## ATRC STEM Youth Mentorship Program
@@ -524,7 +556,11 @@
  - date_published: 2024-07-16T00:00:00+00:00
 
  ## Mobile Plans, Home Internet & TV packages and much more! | du
- - [https://www.du.ae](https://www.du.ae)
+ - [https://shop.du.ae](https://shop.du.ae)
+ - date_published: 2024-09-05T19:56:17.655127+00:00
+
+ ## Mobile Plans, Home Internet & TV packages and much more! | du
+ - [https://du.ae](https://du.ae)
  - date_published: 2024-06-10T12:47:01.781688+00:00
 
  ## Dubai Medical Tourism | Medical Tourism Agency in Dubai - DXH
@@ -756,6 +792,14 @@
  - [https://www.skyscanner.ae](https://www.skyscanner.ae)
  - date_published: 2024-05-14T10:10:11+00:00
 
+ ## SocialEye
+ - [https://socialeye.ae](https://socialeye.ae)
+ - date_published: 2024-09-05T19:55:57.002026+00:00
+
+ ## SocialEye
+ - [https://www.socialeye.ae](https://www.socialeye.ae)
+ - date_published: 2024-09-05T19:53:51.124513+00:00
+
  ## Sony World - UAE | Official Store - Buy Sony Products Online in UAE
  - [https://sonyworld.ae](https://sonyworld.ae)
  - date_published: 2024-07-03T16:45:27.523434+00:00
@@ -763,6 +807,14 @@
  ## startAD - ACCELERATING INNOVATION IN THE UAE
  - [https://startad.ae](https://startad.ae)
  - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Live Streaming Services in Dubai, UAE - Stream Works
+ - [https://streamworks.ae](https://streamworks.ae)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Takallam
+ - [https://www.takallam.ae](https://www.takallam.ae)
+ - date_published: 2024-09-05T19:57:04.572079+00:00
 
  ## The National - Latest world news, sport & opinion
  - [https://thenational.ae](https://thenational.ae)
@@ -865,9 +917,17 @@
  - [https://admobility.gov.ae](https://admobility.gov.ae)
  - date_published: 2024-06-10T12:46:38.034699+00:00
 
+ ## Home
+ - [https://adro.gov.ae](https://adro.gov.ae)
+ - date_published: 2024-09-05T19:35:37.997215+00:00
+
  ## The Advanced Technology Research Council (ATRC)
  - [https://www.atrc.gov.ae](https://www.atrc.gov.ae)
  - date_published: 2024-05-09T02:34:55.219153+00:00
+
+ ## DMT Career Portal
+ - [https://jobs.dmt.gov.ae](https://jobs.dmt.gov.ae)
+ - date_published: 2024-08-20T11:00:25+00:00
 
  ## Open Data UAE
  - [https://opendata.fcsc.gov.ae](https://opendata.fcsc.gov.ae)
@@ -1791,6 +1851,10 @@
  - [https://www.aitinerary.ai](https://www.aitinerary.ai)
  - date_published: 2024-06-19T19:37:47.412179+00:00
 
+ ## AI Tools Kit : Free AI, Seo, Writing, Image & Youtube Tools
+ - [https://www.aitoolskit.ai](https://www.aitoolskit.ai)
+ - date_published: 2024-09-05T11:29:19.946400+00:00
+
  ## AIVA, the AI Music Generation Assistant
  - [https://www.aiva.ai](https://www.aiva.ai)
  - date_published: 2024-06-14T08:56:59.645566+00:00
@@ -2457,6 +2521,10 @@
  - [https://bizplanr.ai](https://bizplanr.ai)
  - date_published: 2024-07-09T13:11:11+00:00
 
+ ## Chat Blackbox: AI Code Generation, Code Chat, Code Search
+ - [https://www.blackbox.ai](https://www.blackbox.ai)
+ - date_published: 2024-09-05T12:53:09.631915+00:00
+
  ## Black Forest Labs - Frontier AI Lab
  - [https://blackforestlabs.ai](https://blackforestlabs.ai)
  - date_published: 2024-08-18T02:35:26+00:00
@@ -3004,10 +3072,6 @@ Welcome
  - [https://go.clearview.ai](https://go.clearview.ai)
  - date_published: 2024-05-02T00:00:00+00:00
 
- ## Clearview AI | Facial Recognition
- - [https://www.clearview.ai](https://www.clearview.ai)
- - date_published: 2024-04-16T00:00:00+00:00
-
  ## Cleora.AI | Create Your Enterprise Embeddings with 1 Click
  - [https://cleora.ai](https://cleora.ai)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -3063,6 +3127,10 @@ Welcome
  ## Coated - AI Interior Design Assistant
  - [https://coated.ai](https://coated.ai)
  - date_published: 2024-06-19T19:24:45.029012+00:00
+
+ ## CODE19 Racing
+ - [https://code19.ai](https://code19.ai)
+ - date_published: 2024-09-05T19:57:14.155363+00:00
 
  ## Codebay - Learning Python on phone with AI tutoring
  - [https://www.codebay.ai](https://www.codebay.ai)
@@ -3304,6 +3372,10 @@ Welcome
  - [https://contlo.ai](https://contlo.ai)
  - date_published: 2023-01-19T13:14:46+00:00
 
+ ## Home | Voice AI | ConverseNow
+ - [https://conversenow.ai](https://conversenow.ai)
+ - date_published: 2024-09-05T22:15:32.508940+00:00
+
  ## Jasper | AI copilot for enterprise marketing teams
  - [https://www.conversion.ai](https://www.conversion.ai)
  - date_published: 2024-06-22T00:00:00+00:00
@@ -3484,6 +3556,10 @@ Welcome
  ## HackerNews
  - [https://hn.curiosity.ai](https://hn.curiosity.ai)
  - date_published: 2023-10-25T08:27:20.682126+00:00
+
+ ## CustomerOS
+ - [http://customeros.ai](http://customeros.ai)
+ - date_published: 2024-09-05T12:55:06.917081+00:00
 
  ## CustomGPT.ai | Custom GPT With ALL Your Business Content
  - [https://customgpt.ai](https://customgpt.ai)
@@ -3949,80 +4025,4 @@ Welcome
  ## Draw Things: AI-assisted Image Generation
  - [https://drawthings.ai](https://drawthings.ai)
  - date_published: 2024-08-07T18:00:13.409320+00:00
-
- ## Dream by WOMBO
- - [https://dream.ai](https://dream.ai)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Dreamcard.ai
- - [https://dreamcard.ai](https://dreamcard.ai)
- - date_published: 2023-12-20T15:57:33+00:00
-
- ## Get Your Dream Meaning Today | Dream Interpretation with DreamDiscover
- - [https://dreamdiscover.ai](https://dreamdiscover.ai)
- - date_published: 2024-08-26T07:46:34+00:00
-
- ## The Best AI Girlfriend Generator - DreamGF.ai
- - [https://dreamgf.ai](https://dreamgf.ai)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## DreamGift
- - [https://dreamgift.ai](https://dreamgift.ai)
- - date_published: 2024-06-19T19:10:22.047628+00:00
-
- ## Your Website Title
- - [https://dreamily.ai](https://dreamily.ai)
- - date_published: 2024-06-03T09:55:38+00:00
-
- ## Dream Interpreter AI | AI Dream Interpretations & Free Dream Dictionary
- - [https://dreaminterpreter.ai](https://dreaminterpreter.ai)
- - date_published: 2024-06-19T21:06:37.925178+00:00
-
- ## dreamlook.ai
- - [https://dreamlook.ai](https://dreamlook.ai)
- - date_published: 2024-03-26T21:22:15+00:00
-
- ## DreamPic.AI
- - [https://dreampic.ai](https://dreampic.ai)
- - date_published: 2024-06-19T20:12:24.521601+00:00
-
- ## DREAMPRESS - Personalised AI Story Generator
- - [https://www.dreampress.ai](https://www.dreampress.ai)
- - date_published: 2024-06-19T20:55:25.206228+00:00
-
- ## DreamStudio
- - [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)
- - date_published: 2024-08-18T13:10:11.289203+00:00
-
- ## DreamStudio
- - [https://dreamstudio.ai](https://dreamstudio.ai)
- - date_published: 2023-07-26T17:44:15+00:00
-
- ## DreamTavern by Weights: AI Character Chat
- - [https://dreamtavern.ai](https://dreamtavern.ai)
- - date_published: 2024-09-02T10:08:42.331782+00:00
-
- ## Dreamwave | Professional headshots in minutes, made with AI
- - [https://www.dreamwave.ai](https://www.dreamwave.ai)
- - date_published: 2024-06-19T19:48:45.039780+00:00
-
- ## Razib Khan's Unsupervised Learning
- - [https://unsupervisedlearning.dry.ai](https://unsupervisedlearning.dry.ai)
- - date_published: 2024-08-11T17:06:19.308484+00:00
-
- ## AI Dubbing: Online Video Translation | Dubdub.ai
- - [https://www.dubdub.ai](https://www.dubdub.ai)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Online Video Dubbing with Dubverse.ai
- - [https://dubverse.ai](https://dubverse.ai)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## DuckDuckGo at DuckDuckGo
- - [https://duck.ai](https://duck.ai)
- - date_published: 2024-07-02T20:20:30.408207+00:00
-
- ## Durable - Custom Software: Designed by you, Built by Generative AI.
- - [https://durable.ai](https://durable.ai)
- - date_published: 2024-05-29T16:52:40+00:00
 

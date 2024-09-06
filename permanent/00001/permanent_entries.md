@@ -1,3 +1,79 @@
+ ## Dream by WOMBO
+ - [https://dream.ai](https://dream.ai)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## Dreamcard.ai
+ - [https://dreamcard.ai](https://dreamcard.ai)
+ - date_published: 2023-12-20T15:57:33+00:00
+
+ ## Get Your Dream Meaning Today | Dream Interpretation with DreamDiscover
+ - [https://dreamdiscover.ai](https://dreamdiscover.ai)
+ - date_published: 2024-08-26T07:46:34+00:00
+
+ ## The Best AI Girlfriend Generator - DreamGF.ai
+ - [https://dreamgf.ai](https://dreamgf.ai)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## DreamGift
+ - [https://dreamgift.ai](https://dreamgift.ai)
+ - date_published: 2024-06-19T19:10:22.047628+00:00
+
+ ## Your Website Title
+ - [https://dreamily.ai](https://dreamily.ai)
+ - date_published: 2024-06-03T09:55:38+00:00
+
+ ## Dream Interpreter AI | AI Dream Interpretations & Free Dream Dictionary
+ - [https://dreaminterpreter.ai](https://dreaminterpreter.ai)
+ - date_published: 2024-06-19T21:06:37.925178+00:00
+
+ ## dreamlook.ai
+ - [https://dreamlook.ai](https://dreamlook.ai)
+ - date_published: 2024-03-26T21:22:15+00:00
+
+ ## DreamPic.AI
+ - [https://dreampic.ai](https://dreampic.ai)
+ - date_published: 2024-06-19T20:12:24.521601+00:00
+
+ ## DREAMPRESS - Personalised AI Story Generator
+ - [https://www.dreampress.ai](https://www.dreampress.ai)
+ - date_published: 2024-06-19T20:55:25.206228+00:00
+
+ ## DreamStudio
+ - [https://beta.dreamstudio.ai](https://beta.dreamstudio.ai)
+ - date_published: 2024-08-18T13:10:11.289203+00:00
+
+ ## DreamStudio
+ - [https://dreamstudio.ai](https://dreamstudio.ai)
+ - date_published: 2023-07-26T17:44:15+00:00
+
+ ## DreamTavern by Weights: AI Character Chat
+ - [https://dreamtavern.ai](https://dreamtavern.ai)
+ - date_published: 2024-09-02T10:08:42.331782+00:00
+
+ ## Dreamwave | Professional headshots in minutes, made with AI
+ - [https://www.dreamwave.ai](https://www.dreamwave.ai)
+ - date_published: 2024-06-19T19:48:45.039780+00:00
+
+ ## Razib Khan's Unsupervised Learning
+ - [https://unsupervisedlearning.dry.ai](https://unsupervisedlearning.dry.ai)
+ - date_published: 2024-08-11T17:06:19.308484+00:00
+
+ ## AI Dubbing: Online Video Translation | Dubdub.ai
+ - [https://www.dubdub.ai](https://www.dubdub.ai)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Online Video Dubbing with Dubverse.ai
+ - [https://dubverse.ai](https://dubverse.ai)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## DuckDuckGo at DuckDuckGo
+ - [https://duck.ai](https://duck.ai)
+ - date_published: 2024-07-02T20:20:30.408207+00:00
+
+ ## Durable - Custom Software: Designed by you, Built by Generative AI.
+ - [https://durable.ai](https://durable.ai)
+ - date_published: 2024-05-29T16:52:40+00:00
+
  ## Exactly.ai
  - [https://www.durer.ai](https://www.durer.ai)
  - date_published: 2024-08-18T13:10:13.310821+00:00
@@ -526,6 +602,10 @@
  - [https://finalle.ai](https://finalle.ai)
  - date_published: 2024-06-19T19:38:50.158458+00:00
 
+ ## Home
+ - [https://fingermark.ai](https://fingermark.ai)
+ - date_published: 2024-09-05T15:45:47+00:00
+
  ## Finito
  - [https://www.finito.ai](https://www.finito.ai)
  - date_published: 2024-06-19T19:26:10.844524+00:00
@@ -760,10 +840,6 @@
 
  ## Fritz ai - The best AI tools for writing, designing, development, and more
  - [https://heartbeat.fritz.ai](https://heartbeat.fritz.ai)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Fritz ai - The best AI tools for writing, designing, development, and more
- - [https://www.fritz.ai](https://www.fritz.ai)
  - date_published: 2024-03-02T00:00:00+00:00
 
  ## FRVR | AI Game Creator
@@ -1980,7 +2056,7 @@
 
  ## Question answering service - Kagi.ai
  - [https://kagi.ai](https://kagi.ai)
- - date_published: 2024-06-10T07:07:07.153904+00:00
+ - date_published: 2021-02-27T00:33:11+00:00
 
  ## Kaiber
  - [https://kaiber.ai](https://kaiber.ai)
@@ -2373,6 +2449,14 @@
  - [https://lek.ai](https://lek.ai)
  - date_published: 2023-03-19T17:40:22+00:00
 
+ ## Leonardo Ai | Sign up
+ - [https://affiliates.leonardo.ai](https://affiliates.leonardo.ai)
+ - date_published: 2024-09-05T12:54:51.432816+00:00
+
+ ## Leonardo.Ai
+ - [https://app.leonardo.ai](https://app.leonardo.ai)
+ - date_published: 2024-09-05T12:54:46.573818+00:00
+
  ## AI Image Generator - Create Art, Images & Video | Leonardo AI
  - [https://leonardo.ai](https://leonardo.ai)
  - date_published: 2024-06-09T17:27:09.406362+00:00
@@ -2603,6 +2687,10 @@
  ## LLMBench
  - [https://llmbench.ai](https://llmbench.ai)
  - date_published: 2023-12-27T03:13:30+00:00
+
+ ## Laminar
+ - [https://www.lmnr.ai](https://www.lmnr.ai)
+ - date_published: 2024-09-05T09:52:39.803209+00:00
 
  ## LM Studio – Discover, download, and run local LLMs
  - [https://lmstudio.ai](https://lmstudio.ai)
@@ -3305,6 +3393,10 @@
  - [https://www.mymealplan.ai](https://www.mymealplan.ai)
  - date_published: 2024-06-19T19:27:23.501384+00:00
 
+ ## Minutes - AI Note Taking & Transcription
+ - [https://myminutes.ai](https://myminutes.ai)
+ - date_published: 2024-08-28T00:00:00+00:00
+
  ## Room Designer AI: Design My Room Online in 60 Seconds
  - [https://www.myroomdesigner.ai](https://www.myroomdesigner.ai)
  - date_published: 2024-01-15T00:00:00+00:00
@@ -3566,10 +3658,6 @@
  ## Build Data Agents via Embedded Analytics - Numbers Station
  - [https://numbersstation.ai](https://numbersstation.ai)
  - date_published: 2024-08-23T00:00:00+00:00
-
- ## AI Data Analytics for Business Users - Numbers Station
- - [https://www.numbersstation.ai](https://www.numbersstation.ai)
- - date_published: 2024-06-27T00:00:00+00:00
 
  ## Nuro—On a mission to better everyday life through robotics.
  - [https://nuro.ai](https://nuro.ai)
@@ -3901,6 +3989,10 @@
  - [https://stg.paradox.ai](https://stg.paradox.ai)
  - date_published: 2024-06-18T13:52:20.421988+00:00
 
+ ## Conversational hiring software that gets work done for you — Paradox
+ - [https://www.paradox.ai](https://www.paradox.ai)
+ - date_published: 2024-09-04T00:00:00+00:00
+
  ## Parafin – AI-Powered Real Estate Development
  - [http://parafin.ai](http://parafin.ai)
  - date_published: 2024-06-28T13:23:08.771801+00:00
@@ -3928,98 +4020,4 @@
  ## AI Content Detection & Plagiarism Checker for Educators
  - [https://passed.ai](https://passed.ai)
  - date_published: 2024-02-14T00:00:00+00:00
-
- ## Patterned AI
- - [http://patterned.ai](http://patterned.ai)
- - date_published: 2024-06-19T20:38:58.486282+00:00
-
- ## Patterned AI
- - [https://www.patterned.ai](https://www.patterned.ai)
- - date_published: 2024-06-19T21:12:34.477033+00:00
-
- ## Paxo: AI meeting notes for the real world
- - [https://paxo.ai](https://paxo.ai)
- - date_published: 2023-09-22T00:00:00+00:00
-
- ## PDF.ai | Chat with your PDF documents
- - [https://pdf.ai](https://pdf.ai)
- - date_published: 2024-06-19T19:35:49.500635+00:00
-
- ## Peak - Game-changing AI is here.
- - [https://www.peak.ai](https://www.peak.ai)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Penelope.ai
- - [https://app.penelope.ai](https://app.penelope.ai)
- - date_published: 2024-05-08T03:01:32.442324+00:00
-
- ## Penelope.ai
- - [https://www.penelope.ai](https://www.penelope.ai)
- - date_published: 2024-07-03T15:33:46.386616+00:00
-
- ## Penly AI: Custom Anime & Real Girl Art Generator - Free Trial
- - [https://penly.ai](https://penly.ai)
- - date_published: 2024-01-01T05:10:32+00:00
-
- ## PennyLane
- - [https://pennylane.ai](https://pennylane.ai)
- - date_published: 2024-06-19T14:40:25+00:00
-
- ## Unlock your GTM's complete story with SalesAI
- - [https://www.people.ai](https://www.people.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## AI Chatbot Online(Include NSFW Character) - PepHop AI
- - [https://pephop.ai](https://pephop.ai)
- - date_published: 2024-06-18T04:24:33+00:00
- - tags: ['nsfw']
-
- ## Peppertype.ai | Create Quality Content Faster
- - [https://www.peppertype.ai](https://www.peppertype.ai)
- - date_published: 2024-06-19T21:08:35.206919+00:00
-
- ## PerfAI
- - [https://app.perfai.ai](https://app.perfai.ai)
- - date_published: 2024-07-24T07:30:36+00:00
-
- ## PerfAI
- - [https://cloud.perfai.ai](https://cloud.perfai.ai)
- - date_published: 2024-07-24T07:30:36+00:00
-
- ## AI-Driven API Performance Testing
- - [https://perfai.ai](https://perfai.ai)
- - date_published: 2023-10-25T11:41:16.602552+00:00
-
- ## AI Essay Writer & AI Writing Tools | Essay Generator
- - [https://www.perfectessaywriter.ai](https://www.perfectessaywriter.ai)
- - date_published: 2024-06-19T20:08:08.973466+00:00
-
- ## pplx-api
- - [https://docs.perplexity.ai](https://docs.perplexity.ai)
- - date_published: 2024-05-24T19:35:03.475932+00:00
-
- ## Perplexity Labs Playground
- - [https://labs.perplexity.ai](https://labs.perplexity.ai)
- - date_published: 2023-12-19T17:44:33+00:00
-
- ## Cierpliwości...
- - [https://llama.perplexity.ai](https://llama.perplexity.ai)
- - date_published: 2024-06-19T20:41:12.774235+00:00
-
- ## Cierpliwości...
- - [https://perplexity.ai](https://perplexity.ai)
- - date_published: 2024-05-14T03:37:40.311437+00:00
- - tags: ['artificial intelligence bot', 'search engine']
-
- ## Persana AI | Supercharge your Prospecting with AI
- - [https://www.persana.ai](https://www.persana.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## My AI | Create an AI Version of Yourself | Amplify Your Expertise
- - [https://www.personal.ai](https://www.personal.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PetPic
- - [https://petpic.ai](https://petpic.ai)
- - date_published: 2023-10-25T08:25:31.233721+00:00
 
