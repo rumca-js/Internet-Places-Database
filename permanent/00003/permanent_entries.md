@@ -1,3 +1,64 @@
+ ## Workshops | Nihal Ahmed | Ikigai Coach
+ - [https://nih.al](https://nih.al)
+ - date_published: 2024-07-13T04:25:57.040533+00:00
+
+ ## Nihaal Sangha
+ - [https://niha.al](https://niha.al)
+ - date_published: 2024-07-13T04:12:51.838606+00:00
+
+ ## #APPS2024 – Albanian Power Platform Summit
+ - [https://powerplatformsummit.al](https://powerplatformsummit.al)
+ - date_published: 2024-08-11T17:43:47.880013+00:00
+
+ ## Rafal Stapinski
+ - [https://raf.al](https://raf.al)
+ - date_published: 2024-07-13T04:12:15.537263+00:00
+
+ ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
+ - [https://realestate.al](https://realestate.al)
+ - date_published: 2024-02-08T22:20:07.666981+00:00
+
+ ## Samal Shrikant
+ - [https://sam.al](https://sam.al)
+ - date_published: 2024-07-13T04:16:41.420656+00:00
+
+ ## Nadav Shoval
+ - [https://shov.al](https://shov.al)
+ - date_published: 2024-07-13T04:03:31.976680+00:00
+
+ ## Ernesto Sigal - Software Engineer and Deputy CTO at LMR Partners | Ernesto Sigal
+ - [https://sig.al](https://sig.al)
+ - date_published: 2023-12-04T12:57:48+00:00
+
+ ## Statkraft Shqipëri
+ - [https://www.statkraft.al](https://www.statkraft.al)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Al's blog
+ - [https://blog.the.al](https://blog.the.al)
+ - date_published: 2024-04-09T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Tidal Labs - Creator Communities
+ - [http://tid.al](http://tid.al)
+ - date_published: 2024-06-29T18:23:06.231746+00:00
+
+ ## Toyota Albania
+ - [https://www.toyotaalbania.al](https://www.toyotaalbania.al)
+ - date_published: 2024-07-03T01:59:38.359671+00:00
+
+ ## trib.al
+ - [https://trib.al](https://trib.al)
+ - date_published: 2024-05-06T14:34:57.200773+00:00
+
+ ## Vula cilësie e sigurie për ecommerce e website - Trustmark
+ - [https://trustmark.al](https://trustmark.al)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## E-bill | Vodafone.al
+ - [https://ebill.vodafone.al](https://ebill.vodafone.al)
+ - date_published: 2024-02-27T16:08:20+00:00
+
  ## MVA10
  - [https://my.vodafone.al](https://my.vodafone.al)
  - date_published: 2023-12-12T16:00:26+00:00
@@ -103,10 +164,6 @@
  - [http://doit.am](http://doit.am)
  - date_published: 2024-02-23T10:47:00+00:00
 
- ## 四博智联科技
- - [http://www.doit.am](http://www.doit.am)
- - date_published: 2024-02-23T10:47:00+00:00
-
  ## Deepgram Voice AI: Text to Speech + Speech to Text APIs | Deepgram
  - [https://dpgr.am](https://dpgr.am)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -118,6 +175,10 @@
  ## home - Fiat Professional Armenia
  - [https://www.fiatprofessional.am](https://www.fiatprofessional.am)
  - date_published: 2015-07-12T14:50:38+00:00
+
+ ## FoAM - Grow your own worlds.
+ - [https://fo.am](https://fo.am)
+ - date_published: 2024-09-06T21:47:30.232535+00:00
 
  ## Gautam Gupta
  - [https://gaut.am](https://gaut.am)
@@ -1446,6 +1507,10 @@
  - [https://chronophoto.app](https://chronophoto.app)
  - date_published: 2023-10-25T11:45:47.691138+00:00
 
+ ## Chatwoot: Customer engagement platform. An open-source, self-hosted alternative to Intercom, Zendesk
+ - [https://chwt.app](https://chwt.app)
+ - date_published: 2024-09-06T12:48:33.566870+00:00
+
  ## Cirrus Runners
  - [https://cirrus-runners.app](https://cirrus-runners.app)
  - date_published: 2024-08-17T23:54:12.181569+00:00
@@ -2312,6 +2377,13 @@
  ## Sign in - Google Accounts
  - [https://tt-prod-ab33.asia-southeast1.firebasedatabase.app](https://tt-prod-ab33.asia-southeast1.firebasedatabase.app)
  - date_published: 2024-07-10T10:09:57.096519+00:00
+
+ ## TiddlyWiki on Fission
+
+
+— a non-linear personal web notebook
+ - [https://tiddlywiki.fission.app](https://tiddlywiki.fission.app)
+ - date_published: 2024-09-06T21:55:18.625709+00:00
 
  ## Fixinator - Find and Fix CFML Security Vulnerabilities in your code!
  - [https://fixinator.app](https://fixinator.app)
@@ -3561,6 +3633,10 @@
  - [https://www.memix.app](https://www.memix.app)
  - date_published: 2024-07-03T04:36:03.453754+00:00
 
+ ## Releases | Refraction
+ - [https://refraction.metalabel.app](https://refraction.metalabel.app)
+ - date_published: 2024-06-25T00:00:00+00:00
+
  ## Metaview
  - [https://my.metaview.app](https://my.metaview.app)
  - date_published: 2024-08-19T12:13:34.190987+00:00
@@ -3954,78 +4030,4 @@
  ## Catbot Chat
  - [https://botcat.netlify.app](https://botcat.netlify.app)
  - date_published: 2024-07-22T17:11:11.762691+00:00
-
- ## React App
- - [https://bubble-wrap.netlify.app](https://bubble-wrap.netlify.app)
- - date_published: 2024-07-02T20:49:37.828116+00:00
-
- ## 🦉 Bubo Reader
- - [https://bubo-rss-demo.netlify.app](https://bubo-rss-demo.netlify.app)
- - date_published: 2024-06-19T22:13:39.589238+00:00
-
- ## Calm Breath
- - [https://calm-breath.netlify.app](https://calm-breath.netlify.app)
- - date_published: 2024-08-17T23:39:08.385633+00:00
-
- ## Canada Learning Code
- - [https://canadalearningcode-blunt.netlify.app](https://canadalearningcode-blunt.netlify.app)
- - date_published: 2024-07-09T19:05:21.443820+00:00
-
- ## Cat Herder
- - [https://catherder.netlify.app](https://catherder.netlify.app)
- - date_published: 2024-06-28T23:08:06.440613+00:00
-
- ## John Doe · Short description
- - [https://cecil-links-demo.netlify.app](https://cecil-links-demo.netlify.app)
- - date_published: 2024-07-03T04:23:47.565719+00:00
-
- ## Tegus | Powerful perspective for bold investing
- - [https://cheerful-duckanoo-3fe819.netlify.app](https://cheerful-duckanoo-3fe819.netlify.app)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## All posts
- - [https://clerestory.netlify.app](https://clerestory.netlify.app)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Codequest
- - [https://codequests.netlify.app](https://codequests.netlify.app)
- - date_published: 2024-07-02T18:28:25.048830+00:00
-
- ## Light/Dark Mode
- - [https://color-scheme-light-dark.netlify.app](https://color-scheme-light-dark.netlify.app)
- - date_published: 2024-06-22T13:46:09.206331+00:00
-
- ## CommandBar | AI-powered user assistance
- - [https://commandbar-marketing-site.netlify.app](https://commandbar-marketing-site.netlify.app)
- - date_published: 2024-05-08T06:04:21.071159+00:00
-
- ## Todo.txt
- - [https://consultant-sally-46210.netlify.app](https://consultant-sally-46210.netlify.app)
- - date_published: 2024-07-09T19:06:01.970910+00:00
-
- ## Contrast Checker
- - [https://contrast-checker.netlify.app](https://contrast-checker.netlify.app)
- - date_published: 2024-07-02T18:29:42.819334+00:00
-
- ## The Internet Reacts To Dogs
- - [https://convex-dashboard-react.netlify.app](https://convex-dashboard-react.netlify.app)
- - date_published: 2024-04-29T07:30:28.920502+00:00
-
- ## NetLoop - CornRing
- - [https://cornring.netlify.app](https://cornring.netlify.app)
- - date_published: 2024-05-06T15:00:55.983875+00:00
-
- ## CorrectMyGrammar | Online Grammar Checker | Online Rephrasing tool |
-      Rephrase Sentences | Free Grammarly Alternative | Alternative Words | Free
-      Grammar and Spelling Checking Tool
- - [https://correctmygrammar.netlify.app](https://correctmygrammar.netlify.app)
- - date_published: 2024-06-19T19:56:43.404176+00:00
-
- ## Crazy Dice
- - [https://crazydice.netlify.app](https://crazydice.netlify.app)
- - date_published: 2024-06-03T11:19:44.218995+00:00
-
- ## 🦋 Butterfly 🦋
- - [https://csb-0shb82.netlify.app](https://csb-0shb82.netlify.app)
- - date_published: 2024-07-09T07:25:06.514421+00:00
 

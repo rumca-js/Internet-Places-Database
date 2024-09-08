@@ -1,3 +1,409 @@
+ ## Home - Information Security at University of Toronto
+ - [https://ciso.utoronto.ca](https://ciso.utoronto.ca)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Home - Archives & Special Collections
+ - [https://collections.utm.utoronto.ca](https://collections.utm.utoronto.ca)
+ - date_published: 2024-07-21T08:23:45.528497+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://content.library.utoronto.ca](https://content.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Corpora in the Classroom
+ - [https://corpora.chass.utoronto.ca](https://corpora.chass.utoronto.ca)
+ - date_published: 2024-07-19T15:20:05.303295+00:00
+
+ ## Centre for Quantum Information and Quantum Control
+ - [http://cqiqc.physics.utoronto.ca](http://cqiqc.physics.utoronto.ca)
+ - date_published: 2024-07-16T17:26:03.874284+00:00
+
+ ## Home | Daniels
+ - [https://daniels.utoronto.ca](https://daniels.utoronto.ca)
+ - date_published: 2024-05-08T11:44:38.391545+00:00
+
+ ## Data Sciences Institute (DSI) Home - DSI
+ - [https://datasciences.utoronto.ca](https://datasciences.utoronto.ca)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Your Data – IRDG Office – University of Toronto
+ - [https://data.viceprovoststudents.utoronto.ca](https://data.viceprovoststudents.utoronto.ca)
+ - date_published: 2024-06-22T11:41:31.955044+00:00
+
+ ## Providing IT support for Temerty Medicine
+ - [http://dc.med.utoronto.ca](http://dc.med.utoronto.ca)
+ - date_published: 2024-07-25T17:42:17+00:00
+
+ ## Defy Gravity Campaign
+ - [https://defygravitycampaign.utoronto.ca](https://defygravitycampaign.utoronto.ca)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Dialect Topography
+ - [https://dialect.topography.artsci.utoronto.ca](https://dialect.topography.artsci.utoronto.ca)
+ - date_published: 2006-01-05T17:02:15+00:00
+
+ ## Homepage | Digital Scholarship Unit
+ - [https://digital.utsc.utoronto.ca](https://digital.utsc.utoronto.ca)
+ - date_published: 2024-07-20T05:40:25+00:00
+
+ ## U of T Directory
+ - [http://directory.utoronto.ca](http://directory.utoronto.ca)
+ - date_published: 2023-07-04T19:39:23+00:00
+
+ ## University of Toronto
+ - [https://discover.research.utoronto.ca](https://discover.research.utoronto.ca)
+ - date_published: 2024-07-12T21:41:38.719485+00:00
+
+ ## University of Toronto
+ - [https://donate.utoronto.ca](https://donate.utoronto.ca)
+ - date_published: 2024-04-30T05:28:29.464641+00:00
+
+ ## EASI | Enterprise Applications and Solutions Integration
+ - [https://easi.its.utoronto.ca](https://easi.its.utoronto.ca)
+ - date_published: 2024-08-11T10:25:40.411085+00:00
+
+ ## University of Toronto
+ - [https://engage.utoronto.ca](https://engage.utoronto.ca)
+ - date_published: 2024-04-30T05:29:16.716810+00:00
+
+ ## Home | Engineering & Computer Science Library
+ - [https://engineering.library.utoronto.ca](https://engineering.library.utoronto.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## HR Service Centre – The Division of People Strategy, Equity & Culture
+ - [https://ess.hrandequity.utoronto.ca](https://ess.hrandequity.utoronto.ca)
+ - date_published: 2024-04-30T05:29:10.527570+00:00
+
+ ## University of Toronto Libraries
+ - [https://exams-library-utoronto-ca.myaccess.library.utoronto.ca](https://exams-library-utoronto-ca.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:55.525437+00:00
+
+ ## University of Toronto Libraries
+ - [http://exams.library.utoronto.ca.myaccess.library.utoronto.ca](http://exams.library.utoronto.ca.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:37.199052+00:00
+
+ ## Exhibits
+ - [https://exhibits.library.utoronto.ca](https://exhibits.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:39.291395+00:00
+
+ ## Home - Family Care Office
+ - [https://familycare.utoronto.ca](https://familycare.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home - Parents & Supporters
+ - [https://family.utoronto.ca](https://family.utoronto.ca)
+ - date_published: 2022-01-14T00:00:00+00:00
+
+ ## BMO Financial Group Finance Research and Trading Lab
+ - [http://financelab.rotman.utoronto.ca](http://financelab.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:30:07.926058+00:00
+
+ ## Home - Financial Services
+ - [https://finance.utoronto.ca](https://finance.utoronto.ca)
+ - date_published: 2024-07-01T21:35:57.357791+00:00
+
+ ## Collections U of T
+ - [https://fishercollections.library.utoronto.ca](https://fishercollections.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:55.311399+00:00
+
+ ## Browse Exhibits · Digitus - Online Exhibitions from the Thomas Fisher Rare Book Library
+ - [https://fisherdigitus.library.utoronto.ca](https://fisherdigitus.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:59.192274+00:00
+
+ ## Thomas Fisher Rare Book Library
+ - [https://fisher.library.utoronto.ca](https://fisher.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:46.773041+00:00
+
+ ## Home - Future Students. University of Toronto
+ - [https://future.utoronto.ca](https://future.utoronto.ca)
+ - date_published: 2024-07-01T21:36:15.652102+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca](https://gerstein-edit-library-utoronto-ca.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Gerstein Science Information Centre
+ - [https://gerstein.library.utoronto.ca](https://gerstein.library.utoronto.ca)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home
+ - [https://governingcouncil.utoronto.ca](https://governingcouncil.utoronto.ca)
+ - date_published: 2019-06-27T00:11:02+00:00
+
+ ## Home | Global Professional LLM (GPLLM)
+ - [https://gpllm.law.utoronto.ca](https://gpllm.law.utoronto.ca)
+ - date_published: 2024-07-20T10:24:00+00:00
+
+ ## Research guides | University of Toronto Libraries
+ - [https://guides.library.utoronto.ca](https://guides.library.utoronto.ca)
+ - date_published: 2024-04-30T05:29:03.420725+00:00
+
+ ## Home | Academic Handbook
+ - [https://handbook.law.utoronto.ca](https://handbook.law.utoronto.ca)
+ - date_published: 2024-07-20T17:35:01+00:00
+
+ ## Your Path to a Career In Health Care - University of Toronto Scarborough Health Sciences
+ - [https://healthsciences.utsc.utoronto.ca](https://healthsciences.utsc.utoronto.ca)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Information Commons Help Desk
+ - [http://help.ic.utoronto.ca](http://help.ic.utoronto.ca)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## School of Continuing Studies
+ - [https://help.learn.utoronto.ca](https://help.learn.utoronto.ca)
+ - date_published: 2024-07-21T08:09:49.697018+00:00
+
+ ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
+ - [https://hrandequity.utoronto.ca](https://hrandequity.utoronto.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## RLogin - Rotman User Authentication
+ - [https://hub.rotman.utoronto.ca](https://hub.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:30:25.422037+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://idpz.utorauth.utoronto.ca](https://idpz.utorauth.utoronto.ca)
+ - date_published: 2024-07-01T21:36:03.308089+00:00
+
+ ## Institute of Health Policy, Management and Evaluation
+ - [http://ihpme.utoronto.ca](http://ihpme.utoronto.ca)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Indigenous University of Toronto
+ - [https://indigenous.utoronto.ca](https://indigenous.utoronto.ca)
+ - date_published: 2024-04-30T05:30:50.272217+00:00
+
+ ## UTORweb
+ - [http://individual.utoronto.ca](http://individual.utoronto.ca)
+ - date_published: 2001-09-12T16:55:27+00:00
+
+ ## Inside Rotman – Inside Rotman
+ - [https://inside.rotman.utoronto.ca](https://inside.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:29:20.870727+00:00
+
+ ## Home - Centre for International Experience
+ - [https://internationalexperience.utoronto.ca](https://internationalexperience.utoronto.ca)
+ - date_published: 2024-07-01T21:36:24.047850+00:00
+
+ ## Going to UTSCweb
+ - [https://intranet.utsc.utoronto.ca](https://intranet.utsc.utoronto.ca)
+ - date_published: 2022-03-01T17:07:32+00:00
+
+ ## Faculty of Information (iSchool) | University of Toronto
+ - [https://ischool.utoronto.ca](https://ischool.utoronto.ca)
+ - date_published: 2024-07-11T12:56:42.238793+00:00
+
+ ## Home » University of Toronto Joint Centre for Bioethics
+ - [https://jcb.utoronto.ca](https://jcb.utoronto.ca)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Careers at U of T
+ - [https://jobs.utoronto.ca](https://jobs.utoronto.ca)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Home | UofT - Faculty of Kinesiology & Physical Education
+ - [https://kpe.utoronto.ca](https://kpe.utoronto.ca)
+ - date_published: 2024-06-09T00:56:08.459806+00:00
+
+ ## School of Continuing Studies - University of Toronto
+ - [https://learn.utoronto.ca](https://learn.utoronto.ca)
+ - date_published: 2024-04-30T05:30:52.828597+00:00
+
+ ## LibCal -
+        University of Toronto
+ - [http://libcal.library.utoronto.ca](http://libcal.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:11.627329+00:00
+
+ ## Home | Bora Laskin Law Library
+ - [http://library.law.utoronto.ca](http://library.law.utoronto.ca)
+ - date_published: 2024-07-20T14:36:18+00:00
+
+ ## Welcome | University of Toronto Mississauga Library
+ - [https://library.utm.utoronto.ca](https://library.utm.utoronto.ca)
+ - date_published: 2024-04-30T05:28:49.798139+00:00
+
+ ## University of Toronto Libraries
+ - [https://library.utoronto.ca](https://library.utoronto.ca)
+ - date_published: 2024-05-10T06:24:35.491733+00:00
+ - tags: ['university']
+
+ ## Department of Linguistics | University of Toronto
+ - [https://linguistics.utoronto.ca](https://linguistics.utoronto.ca)
+ - date_published: 2024-05-16T16:26:33.927688+00:00
+
+ ## Home | University of Toronto Libraries
+ - [http://link.library.utoronto.ca](http://link.library.utoronto.ca)
+ - date_published: 2024-06-24T07:02:56+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://login.library.utoronto.ca](https://login.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## University of Toronto Magazine
+ - [https://magazine.utoronto.ca](https://magazine.utoronto.ca)
+ - date_published: 2024-04-30T05:31:07.034675+00:00
+
+ ## Working...
+ - [https://mail.utoronto.ca](https://mail.utoronto.ca)
+ - date_published: 2024-04-30T05:30:11.319113+00:00
+
+ ## University of Toronto
+ - [https://map.utoronto.ca](https://map.utoronto.ca)
+ - date_published: 2024-04-30T05:31:12.063691+00:00
+
+ ## MD Program 2024-2025 Academic Calendar | MD Academic Calendar
+ - [https://md.calendar.utoronto.ca](https://md.calendar.utoronto.ca)
+ - date_published: 2024-08-07T19:57:31+00:00
+
+ ## Medical Education
+ - [https://meded.temertymedicine.utoronto.ca](https://meded.temertymedicine.utoronto.ca)
+ - date_published: 2024-08-11T04:26:39.231378+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://meded.utoronto.ca](https://meded.utoronto.ca)
+ - date_published: 2024-08-11T04:26:37.925210+00:00
+
+ ## Congratulations to the class of 2T4!
+ - [https://medicine.utoronto.ca](https://medicine.utoronto.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Memories of UTSC | Memories of Scarborough Campus
+ - [https://memory.digital.utsc.utoronto.ca](https://memory.digital.utsc.utoronto.ca)
+ - date_published: 2024-07-20T22:24:13+00:00
+
+ ## Communications for Academic Administrators – University of Toronto
+ - [https://memos.provost.utoronto.ca](https://memos.provost.utoronto.ca)
+ - date_published: 2024-07-15T09:57:11.628540+00:00
+
+ ## Home - Student Mental Health Resource
+ - [https://mentalhealth.utoronto.ca](https://mentalhealth.utoronto.ca)
+ - date_published: 2023-11-30T00:00:00+00:00
+
+ ## Microrobotics Lab | University of Toronto
+ - [https://microrobotics.mie.utoronto.ca](https://microrobotics.mie.utoronto.ca)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Munk School of Global Affairs & Public Policy
+ - [https://munkschool.utoronto.ca](https://munkschool.utoronto.ca)
+ - date_published: 2024-04-30T05:30:14.576417+00:00
+
+ ## Home | University of Toronto Libraries
+ - [http://myaccess.library.utoronto.ca](http://myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Navi Widgets Console
+ - [https://navi.studentlife.utoronto.ca](https://navi.studentlife.utoronto.ca)
+ - date_published: 2024-07-01T21:36:10.871531+00:00
+
+ ## Observatory - University of Toronto at Scarborough
+ - [http://observatory.utsc.utoronto.ca](http://observatory.utsc.utoronto.ca)
+ - date_published: 2022-08-19T20:19:48+00:00
+
+ ## Welcome | OISE Library
+ - [https://oise.library.utoronto.ca](https://oise.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:37.849250+00:00
+
+ ## OISE Library K-12 Manipulatives
+ - [https://omekaoise.library.utoronto.ca](https://omekaoise.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:12.826278+00:00
+
+ ## University of Toronto Libraries
+ - [https://onesearch.library.utoronto.ca](https://onesearch.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:23.048700+00:00
+
+ ## Dialects of Ontario / University of Toronto
+ - [http://ontariodialects.chass.utoronto.ca](http://ontariodialects.chass.utoronto.ca)
+ - date_published: 2024-07-19T15:19:59.645549+00:00
+
+ ## Occupational Science & Occupational Therapy
+ - [https://ot.utoronto.ca](https://ot.utoronto.ca)
+ - date_published: 2024-04-30T05:30:56.871646+00:00
+
+ ## Home - Parents & Supporters
+ - [https://parentsandsupporters.utoronto.ca](https://parentsandsupporters.utoronto.ca)
+ - date_published: 2022-01-14T00:00:00+00:00
+
+ ## Physics Computing Services
+ - [https://pcs.physics.utoronto.ca](https://pcs.physics.utoronto.ca)
+ - date_published: 2024-07-03T23:23:41.330490+00:00
+
+ ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
+ - [https://people.utoronto.ca](https://people.utoronto.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [http://portal.utoronto.ca](http://portal.utoronto.ca)
+ - date_published: 2024-06-17T10:57:47.858909+00:00
+
+ ## Positive Space at U of T
+ - [https://positivespace.utoronto.ca](https://positivespace.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SAP Web Application Server Error
+ - [https://ppm-wd.utoronto.ca](https://ppm-wd.utoronto.ca)
+ - date_published: 2024-07-21T08:23:06.580985+00:00
+
+ ## University of Toronto Libraries
+ - [https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca](https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:50.780661+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://q.utoronto.ca](https://q.utoronto.ca)
+ - date_published: 2024-04-30T05:28:45.010073+00:00
+
+ ## UTORid Account Recovery - Password Reset
+ - [https://recover.utorid.utoronto.ca](https://recover.utorid.utoronto.ca)
+ - date_published: 2024-07-01T21:36:00.293881+00:00
+
+ ## recreation.utoronto.ca
+ - [https://recreation.utoronto.ca](https://recreation.utoronto.ca)
+ - date_published: 2024-09-05T11:53:35.293863+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://redcap.utoronto.ca](https://redcap.utoronto.ca)
+ - date_published: 2024-07-15T06:21:10.926463+00:00
+
+ ## University Registrar's Office | University of Toronto
+ - [https://registrar.utoronto.ca](https://registrar.utoronto.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | University of Toronto Libraries
+ - [https://resource.library.utoronto.ca](https://resource.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Home - University of Toronto Robotics Institute
+ - [https://robotics.utoronto.ca](https://robotics.utoronto.ca)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Rotman Commerce - University of Toronto
+ - [https://rotmancommerce.utoronto.ca](https://rotmancommerce.utoronto.ca)
+ - date_published: 2024-04-30T05:30:23.467887+00:00
+
+ ## Safety & Support – University of Toronto
+ - [https://safety.utoronto.ca](https://safety.utoronto.ca)
+ - date_published: 2024-04-30T05:28:51.472594+00:00
+
+ ## Toronto Smart Materials & Structures (TSMART)
+ - [http://sapl.mie.utoronto.ca](http://sapl.mie.utoronto.ca)
+ - date_published: 2024-06-22T11:42:06.329059+00:00
+
+ ## University of Toronto Libraries
+ - [https://search-ebscohost-com.myaccess.library.utoronto.ca](https://search-ebscohost-com.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:25.951406+00:00
+
+ ## University of Toronto Libraries
+ - [http://search.library.utoronto.ca](http://search.library.utoronto.ca)
+ - date_published: 2024-07-20T22:23:33.425510+00:00
+
+ ## Home - Security Matters
+ - [https://securitymatters.utoronto.ca](https://securitymatters.utoronto.ca)
+ - date_published: 2024-08-11T10:25:44.821722+00:00
+
+ ## Home - Information Security at University of Toronto
+ - [https://security.utoronto.ca](https://security.utoronto.ca)
+ - date_published: 2024-07-24T00:00:00+00:00
+
  ## Sexual & Gender Diversity Office – University of Toronto SGDO
  - [https://sgdo.utoronto.ca](https://sgdo.utoronto.ca)
  - date_published: 2024-07-01T21:36:17.131509+00:00
@@ -77,10 +483,6 @@
  ## Welcome | University of Toronto Mississauga Library
  - [https://utm.library.utoronto.ca](https://utm.library.utoronto.ca)
  - date_published: 2024-07-19T19:37:55+00:00
-
- ## University of Toronto
- - [http://utoronto.ca](http://utoronto.ca)
- - date_published: 2024-06-22T04:32:12+00:00
 
  ## 2024-2025 Calendar | UTSC Calendar
  - [https://utsc.calendar.utoronto.ca](https://utsc.calendar.utoronto.ca)
@@ -874,6 +1276,18 @@
  - [https://whatbox.ca](https://whatbox.ca)
  - date_published: 2024-05-01T02:10:40.450221+00:00
 
+ ## EVC Viewing Tool | WiiLink
+ - [https://evc.wiilink.ca](https://evc.wiilink.ca)
+ - date_published: 2024-08-19T16:18:37+00:00
+
+ ## WiiLink
+ - [https://forum.wiilink.ca](https://forum.wiilink.ca)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## CMOC Viewing Tool | WiiLink
+ - [https://miicontest.wiilink.ca](https://miicontest.wiilink.ca)
+ - date_published: 2024-08-24T22:30:16+00:00
+
  ## Wikimedia Canada
  - [https://www.wikimedia.ca](https://www.wikimedia.ca)
  - date_published: 2024-07-16T21:38:02.902390+00:00
@@ -1520,6 +1934,10 @@
  - [https://www.nrc-cnrc.gc.ca](https://www.nrc-cnrc.gc.ca)
  - date_published: 2024-07-04T09:05:04+00:00
 
+ ## Research Portal / Portail de recherche
+ - [https://portal-portail.nserc-crsng.gc.ca](https://portal-portail.nserc-crsng.gc.ca)
+ - date_published: 2012-11-05T00:00:00+00:00
+
  ## Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
  - [https://www.nserc-crsng.gc.ca](https://www.nserc-crsng.gc.ca)
  - date_published: 2024-05-04T00:00:00+00:00
@@ -2162,6 +2580,10 @@
  - [http://spam.cafe](http://spam.cafe)
  - date_published: 2022-06-15T17:49:35+00:00
 
+ ## Status Cafe Forum
+ - [https://forum.status.cafe](https://forum.status.cafe)
+ - date_published: 2024-09-01T00:00:00+00:00
+
  ## Status Cafe
  - [https://status.cafe](https://status.cafe)
  - date_published: 2024-04-30T06:16:34.197522+00:00
@@ -2543,6 +2965,10 @@
  - [https://bs_a73a0746.disksoar.care](https://bs_a73a0746.disksoar.care)
  - date_published: 2024-07-01T06:43:18+00:00
 
+ ## Distributed Web of Care
+ - [http://distributedweb.care](http://distributedweb.care)
+ - date_published: 2024-07-07T03:01:49+00:00
+
  ## Health Labs Care
  - [https://healthlabs.care](https://healthlabs.care)
  - date_published: 1920-01-01T00:00:00+00:00
@@ -2843,6 +3269,10 @@
  - [https://bcn.cat](https://bcn.cat)
  - date_published: 2024-05-08T08:49:35.701086+00:00
 
+ ## Trending topics - Priviblur
+ - [https://pb.bloat.cat](https://pb.bloat.cat)
+ - date_published: 2024-09-06T01:13:58.936846+00:00
+
  ## Akkoma
  - [https://blob.cat](https://blob.cat)
  - date_published: 2024-07-10T05:59:42.405020+00:00
@@ -3035,6 +3465,10 @@
  ## La Barraqueta
  - [https://www.labarraqueta.cat](https://www.labarraqueta.cat)
  - date_published: 2024-07-21T05:51:21.068136+00:00
+
+ ## Lapsus
+ - [https://www.lapsus.cat](https://www.lapsus.cat)
+ - date_published: 2024-09-06T21:46:54.599403+00:00
 
  ## Lemmy.cat - Plataforma d'agregació d'enllaços i discussió, en català
  - [https://lemmy.cat](https://lemmy.cat)
@@ -3581,437 +4015,4 @@
  ## 路透社
  - [https://reuters.buzzing.cc](https://reuters.buzzing.cc)
  - date_published: 2024-02-25T00:00:00+00:00
-
- ## 路透社最新报道
- - [https://reutersnew.buzzing.cc](https://reutersnew.buzzing.cc)
- - date_published: 2024-07-16T18:02:07.698817+00:00
-
- ## Science Alert 杂志
- - [https://sciencealert.buzzing.cc](https://sciencealert.buzzing.cc)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Show HN
- - [https://showhn.buzzing.cc](https://showhn.buzzing.cc)
- - date_published: 2024-07-16T18:03:58.397778+00:00
-
- ## 业余项目分享交流
- - [https://sideproject.buzzing.cc](https://sideproject.buzzing.cc)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## 天空新闻
- - [https://sky.buzzing.cc](https://sky.buzzing.cc)
- - date_published: 2024-07-16T17:59:50.356477+00:00
-
- ## 国外股市热门
- - [https://stocks.buzzing.cc](https://stocks.buzzing.cc)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## 国外科技头条
- - [https://tech.buzzing.cc](https://tech.buzzing.cc)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## 卫报
- - [https://theguardian.buzzing.cc](https://theguardian.buzzing.cc)
- - date_published: 2024-07-16T18:02:43.669596+00:00
-
- ## 下饭视频
- - [https://videos.buzzing.cc](https://videos.buzzing.cc)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Reddit新闻小组
- - [https://worldnews.buzzing.cc](https://worldnews.buzzing.cc)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## 华尔街日报热门
- - [https://wsj.buzzing.cc](https://wsj.buzzing.cc)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Buzzing
- - [https://buzzing.cc](https://buzzing.cc)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## 雅虎财经
- - [https://yahoo.buzzing.cc](https://yahoo.buzzing.cc)
- - date_published: 2024-07-16T17:56:43.287283+00:00
-
- ## Carlos Molina Barriga
- - [https://carlosmolina.cc](https://carlosmolina.cc)
- - date_published: 2024-06-16T23:02:41.814971+00:00
-
- ## CEIT Development CC
- - [http://www.ceit.cc](http://www.ceit.cc)
- - date_published: 2024-06-20T07:31:03.362088+00:00
-
- ## Chardon, OH - Official Website | Official Website
- - [https://www.chardon.cc](https://www.chardon.cc)
- - date_published: 2024-07-04T08:03:00.414888+00:00
-
- ## TOP China Truck Supplier, Get China Trucks Latest Price - www.Chinatruck.cc
- - [http://www.chinatruck.cc](http://www.chinatruck.cc)
- - date_published: 2024-06-28T17:14:28.289783+00:00
-
- ## ちょびっと (chobit) | 体験版&デモムービー 80,000作品以上から探せる、見つかる！
- - [https://chobit.cc](https://chobit.cc)
- - date_published: 2024-06-22T14:32:58.123024+00:00
-
- ## Homepage - Chocolate Cloud
- - [https://www.chocolate-cloud.cc](https://www.chocolate-cloud.cc)
- - date_published: 2024-06-27T13:26:07.689030+00:00
-
- ## Chris Cummins
- - [http://chriscummins.cc](http://chriscummins.cc)
- - date_published: 2022-11-10T19:29:40+00:00
-
- ## Chris Merritt | Personal Site & Blog
- - [https://chrismerritt.cc](https://chrismerritt.cc)
- - date_published: 2024-07-02T19:12:37.054458+00:00
-
- ## chxri.cc
- - [https://www.chxri.cc](https://www.chxri.cc)
- - date_published: 2024-08-18T04:25:58.136788+00:00
-
- ## CIVIC SQUARE BIRMINGHAM CIC
- - [https://civicsquare.cc](https://civicsquare.cc)
- - date_published: 2024-08-08T20:52:47.428720+00:00
-
- ## The AdTech Book by Clearcode | The Platforms, Processes, and Players
- - [https://adtechbook.clearcode.cc](https://adtechbook.clearcode.cc)
- - date_published: 2024-08-07T17:23:54.133042+00:00
-
- ## Custom AdTech & MarTech Development | Clearcode
- - [https://clearcode.cc](https://clearcode.cc)
- - date_published: 2024-04-28T03:28:24.938070+00:00
-
- ## Reduce cloud costs with automated server audits - CloudCheck
- - [https://cloudcheck.cc](https://cloudcheck.cc)
- - date_published: 2024-09-02T09:45:10.837043+00:00
-
- ## Colors - A nicer color palette for the web.
- - [https://clrs.cc](https://clrs.cc)
- - date_published: 2021-06-14T03:36:27+00:00
-
- ## 首页
- - [http://www.cnpe.cc](http://www.cnpe.cc)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Codebender Blocks
- - [https://blocks.codebender.cc](https://blocks.codebender.cc)
- - date_published: 2024-07-11T15:43:45.782024+00:00
-
- ## Codebender Blog
- - [http://blog.codebender.cc](http://blog.codebender.cc)
- - date_published: 2024-07-11T15:43:47.676871+00:00
-
- ## Arduino Cloud IDE - Codebender
- - [https://codebender.cc](https://codebender.cc)
- - date_published: 2024-05-09T04:26:04.406534+00:00
- - tags: ['arduino', 'code editor', 'online tool']
-
- ## Codebender Edu
- - [https://edu.codebender.cc](https://edu.codebender.cc)
- - date_published: 2024-07-11T15:43:44.577411+00:00
-
- ## Commercial Aircraft Corporation of China, Ltd.
- - [http://english.comac.cc](http://english.comac.cc)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## 中国商飞公司门户网站
- - [http://www.comac.cc](http://www.comac.cc)
- - date_published: 2024-07-09T21:44:11.871786+00:00
-
- ## COMN Technologies - Land • Air • Space
- - [https://www.comn.cc](https://www.comn.cc)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://conta.cc](https://conta.cc)
- - date_published: 2024-05-02T07:53:02.599282+00:00
-
- ## Home
- - [https://cpal.cc](https://cpal.cc)
- - date_published: 2024-07-22T05:42:33.554115+00:00
-
- ## something silly - index
- - [http://blug.crispypin.cc](http://blug.crispypin.cc)
- - date_published: 2024-07-14T10:32:26.401941+00:00
-
- ## WELCOME ON CRUELTY SQUAD CUSTOM CONTENT!
- - [https://crus.cc](https://crus.cc)
- - date_published: 2024-06-14T21:02:50+00:00
-
- ## ctrlalt.cc🦩
- - [https://ctrlalt.cc](https://ctrlalt.cc)
- - date_published: 2024-08-11T06:55:06.880682+00:00
-
- ## 首页 - CubieBoard中文论坛
- - [http://cubie.cc](http://cubie.cc)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## NameBright - Coming Soon
- - [http://cynic.cc](http://cynic.cc)
- - date_published: 2024-05-12T06:59:10.915328+00:00
-
- ## DAEMON Tools - imaging software for all your needs - DAEMON-Tools.cc
- - [https://www.daemon-tools.cc](https://www.daemon-tools.cc)
- - date_published: 2024-07-14T05:12:44.828418+00:00
-
- ## David Chan
- - [https://dchan.cc](https://dchan.cc)
- - date_published: 2024-07-22T07:27:24.927093+00:00
-
- ## d e a d . w i n t e r
- - [https://deadwinter.cc](https://deadwinter.cc)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## NVIDIA Deep Imagination Research
- - [https://deepimagination.cc](https://deepimagination.cc)
- - date_published: 2023-07-17T14:52:50+00:00
-
- ## Dicionarios.cc
- - [https://dicionarios.cc](https://dicionarios.cc)
- - date_published: 2024-07-10T08:19:40.540743+00:00
-
- ## dict.cc | Bulgarian-German dictionary | Немско-български речник
- - [https://bgde.dict.cc](https://bgde.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Bulgarian-English dictionary | Английско-български речник
- - [https://bgen.dict.cc](https://bgen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc Wörterbuch | alle Sprachen
- - [https://browse.dict.cc](https://browse.dict.cc)
- - date_published: 2024-07-17T12:10:04.818828+00:00
-
- ## dict.cc | Bosnian-German dictionary | Njemačko-bosanski rječnik
- - [https://bsde.dict.cc](https://bsde.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Bosnian-English dictionary | Englesko-bosanski rječnik
- - [https://bsen.dict.cc](https://bsen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-English dictionary
- - [https://contribute.dict.cc](https://contribute.dict.cc)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## dict.cc | Czech-German dictionary | Německo-český slovník
- - [https://csde.dict.cc](https://csde.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Czech-English dictionary | Anglicko-český slovník
- - [https://csen.dict.cc](https://csen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Danish-German dictionary | Tysk-dansk ordbog
- - [https://dade.dict.cc](https://dade.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Danish-English dictionary | Engelsk-dansk ordbog
- - [https://daen.dict.cc](https://daen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Greek dictionary | Γερμανο-ελληνικό λεξικό
- - [https://deel.dict.cc](https://deel.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Esperanto dictionary | Germana-esperanta vortaro
- - [https://deeo.dict.cc](https://deeo.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Spanish dictionary | Diccionario Alemán-Español
- - [https://dees.dict.cc](https://dees.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Finnish dictionary | Saksa-suomi sanakirja
- - [https://defi.dict.cc](https://defi.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-French dictionary | Dictionnaire Allemand-Français
- - [https://defr.dict.cc](https://defr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Croatian dictionary | Njemačko-hrvatski rječnik
- - [https://dehr.dict.cc](https://dehr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Hungarian dictionary | Német-magyar szótár
- - [https://dehu.dict.cc](https://dehu.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Icelandic dictionary | þýsk-íslensk orðabók
- - [https://deis.dict.cc](https://deis.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Italian dictionary | Dizionario tedesco-italiano
- - [https://deit.dict.cc](https://deit.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Latin dictionary | Dictionarium latino-germanicum
- - [https://dela.dict.cc](https://dela.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Dutch dictionary | Duits-Nederlands woordenboek
- - [https://denl.dict.cc](https://denl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Norwegian dictionary | Tysk-norsk (Bokmål) ordbok
- - [https://deno.dict.cc](https://deno.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Polish dictionary | Słownik polsko-niemiecki
- - [https://depl.dict.cc](https://depl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Portuguese dictionary | Dicionário Alemão-Português
- - [https://dept.dict.cc](https://dept.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Romanian dictionary | Dicţionar german-român
- - [https://dero.dict.cc](https://dero.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Russian dictionary | Немецко-русский словарь
- - [https://deru.dict.cc](https://deru.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Slovak dictionary | Nemecko-slovenský slovník
- - [https://desk.dict.cc](https://desk.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Albanian dictionary | Fjalor Gjermanisht-Shqip
- - [https://desq.dict.cc](https://desq.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Serbian dictionary | Немачко-српски речник
- - [https://desr.dict.cc](https://desr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Swedish dictionary | Tysk-svensk ordbok
- - [https://desv.dict.cc](https://desv.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Turkish dictionary | Almanca-Türkçe Sözlük
- - [https://detr.dict.cc](https://detr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-Ukrainian dictionary | Німецько-український словник
- - [https://deuk.contribute.dict.cc](https://deuk.contribute.dict.cc)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## dict.cc | German-Ukrainian dictionary | Німецько-український словник
- - [https://deuk.dict.cc](https://deuk.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Greek-English dictionary | Αγγλο-ελληνικό Λεξικό
- - [https://elen.dict.cc](https://elen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Esperanto dictionary | Angla-esperanta vortaro
- - [https://eneo.dict.cc](https://eneo.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Spanish dictionary | Diccionario Inglés-Español
- - [https://enes.dict.cc](https://enes.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Finnish dictionary | Englanti-suomi sanakirja
- - [https://enfi.dict.cc](https://enfi.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-French dictionary | Dictionnaire Anglais-Français
- - [https://enfr.dict.cc](https://enfr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Croatian dictionary | Englesko-hrvatski rječnik
- - [https://enhr.dict.cc](https://enhr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Hungarian dictionary | Angol-magyar szótár
- - [https://enhu.dict.cc](https://enhu.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Icelandic dictionary | ensk-íslensk orðabók
- - [https://enis.dict.cc](https://enis.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Italian dictionary | Dizionario inglese-italiano
- - [https://enit.dict.cc](https://enit.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Latin dictionary | Dictionarium latino-anglicum
- - [https://enla.dict.cc](https://enla.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Dutch dictionary | Engels-Nederlands woordenboek
- - [https://ennl.dict.cc](https://ennl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Norwegian dictionary | Engelsk-norsk (Bokmål) ordbok
- - [https://enno.dict.cc](https://enno.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Polish dictionary | Słownik polsko-angielski
- - [https://enpl.dict.cc](https://enpl.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Portuguese dictionary | Dicionário Inglês-Português
- - [https://enpt.dict.cc](https://enpt.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Romanian dictionary | Dicţionar englez-român
- - [https://enro.dict.cc](https://enro.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Russian dictionary | Англо-русский словарь
- - [https://enru.dict.cc](https://enru.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Slovak dictionary | Anglicko-slovenský slovník
- - [https://ensk.dict.cc](https://ensk.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Albanian dictionary | Fjalor Anglisht-Shqip
- - [https://ensq.dict.cc](https://ensq.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Serbian dictionary | Енглеско-српски речник
- - [https://ensr.dict.cc](https://ensr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Swedish dictionary | Engelsk-svensk ordbok
- - [https://ensv.dict.cc](https://ensv.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | English-Turkish dictionary | İngilizce-Türkçe Sözlük
- - [https://entr.dict.cc](https://entr.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc forum: English-German
- - [https://forum.dict.cc](https://forum.dict.cc)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## dict.cc | Wörterbuch Englisch-Deutsch
- - [https://m.dict.cc](https://m.dict.cc)
- - date_published: 2024-07-17T12:10:27.761781+00:00
-
- ## dict.cc Vokabeltrainer
- - [https://my.dict.cc](https://my.dict.cc)
- - date_published: 2024-07-17T12:10:20.117991+00:00
-
- ## dict.cc Wörterbuch :: Users
- - [https://users.dict.cc](https://users.dict.cc)
- - date_published: 2024-07-17T12:10:13.625848+00:00
-
- ## dict.cc | German-English dictionary
- - [https://www4.dict.cc](https://www4.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | German-English dictionary
- - [https://dict.cc](https://dict.cc)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Hi, DIYgod
- - [https://diygod.cc](https://diygod.cc)
- - date_published: 2024-03-10T00:00:00+00:00
 

@@ -1,3 +1,47 @@
+ ## Parabrain.ai | Expert AI trained by your knowledge
+ - [https://www.parabrain.ai](https://www.parabrain.ai)
+ - date_published: 2024-06-19T20:11:54.838721+00:00
+
+ ## Olivia
+ - [https://olivia.paradox.ai](https://olivia.paradox.ai)
+ - date_published: 2024-07-15T02:17:22.589261+00:00
+
+ ## Olivia
+ - [https://stg.paradox.ai](https://stg.paradox.ai)
+ - date_published: 2024-06-18T13:52:20.421988+00:00
+
+ ## Conversational hiring software that gets work done for you — Paradox
+ - [https://www.paradox.ai](https://www.paradox.ai)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Parafin – AI-Powered Real Estate Development
+ - [http://parafin.ai](http://parafin.ai)
+ - date_published: 2024-06-28T13:23:08.771801+00:00
+
+ ## Trusted Identity AI | Paravision
+ - [https://paravision.ai](https://paravision.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Parea AI
+ - [https://app.parea.ai](https://app.parea.ai)
+ - date_published: 2024-05-14T03:30:30.504971+00:00
+
+ ## What is Parea AI? - Parea AI
+ - [https://docs.parea.ai](https://docs.parea.ai)
+ - date_published: 2024-04-08T18:21:57.413194+00:00
+
+ ## Parea AI
+ - [https://parea.ai](https://parea.ai)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Parrot AI
+ - [https://parrot.ai](https://parrot.ai)
+ - date_published: 2024-04-26T14:36:09+00:00
+
+ ## AI Content Detection & Plagiarism Checker for Educators
+ - [https://passed.ai](https://passed.ai)
+ - date_published: 2024-02-14T00:00:00+00:00
+
  ## Patterned AI
  - [http://patterned.ai](http://patterned.ai)
  - date_published: 2024-06-19T20:38:58.486282+00:00
@@ -1823,6 +1867,18 @@
  - [https://status.spice.ai](https://status.spice.ai)
  - date_published: 2024-05-12T04:13:06.303740+00:00
 
+ ## Spirit Bomb • Collectors Portal
+ - [https://nft.spiritbomb.ai](https://nft.spiritbomb.ai)
+ - date_published: 2024-09-06T21:37:55.611178+00:00
+
+ ## Spirit Bomb
+ - [https://spiritbomb.ai](https://spiritbomb.ai)
+ - date_published: 2024-09-06T21:40:45.119535+00:00
+
+ ## SPIRIT BOMB — wiki / informatics / knowledge base
+ - [https://wiki.spiritbomb.ai](https://wiki.spiritbomb.ai)
+ - date_published: 2023-10-05T05:48:35+00:00
+
  ## Spoke.ai | Communicate better, build faster ⚡
  - [https://www.spoke.ai](https://www.spoke.ai)
  - date_published: 2024-05-13T00:00:00+00:00
@@ -2823,6 +2879,10 @@
  - [https://app.undermind.ai](https://app.undermind.ai)
  - date_published: 2024-01-24T17:05:57.127775+00:00
 
+ ## Undermind - Radically better research and discovery
+ - [https://undermind.ai](https://undermind.ai)
+ - date_published: 2024-09-06T18:55:51.966945+00:00
+
  ## Undermind Deep Scientific Search
  - [https://www.undermind.ai](https://www.undermind.ai)
  - date_published: 2024-07-25T17:30:46.536990+00:00
@@ -3030,10 +3090,6 @@
  ## Convert PNG, JPG files to SVG vectors online - Vectorizer.AI
  - [https://vectorizer.ai](https://vectorizer.ai)
  - date_published: 2024-06-19T21:22:34.702162+00:00
-
- ## 403 Forbidden
- - [https://benchmark.vectorview.ai](https://benchmark.vectorview.ai)
- - date_published: 2024-01-09T02:23:26.782160+00:00
 
  ## Stop advanced attacks with Vectra AI
  - [https://www.vectra.ai](https://www.vectra.ai)
@@ -3802,6 +3858,10 @@ Creative Solutions
  - [https://www.google.com.ai](https://www.google.com.ai)
  - date_published: 2024-06-21T22:24:00.542755+00:00
 
+ ## Llama Airforce
+ - [https://llama.airforce](https://llama.airforce)
+ - date_published: 2024-09-06T21:42:53.478571+00:00
+
  ## imgix - Image Processing On-Demand, Served By CDN
  - [https://static.the.akdn](https://static.the.akdn)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -3967,65 +4027,4 @@ Creative Solutions
  ## Naval
  - [https://nav.al](https://nav.al)
  - date_published: 2023-10-25T11:45:20.135109+00:00
-
- ## Workshops | Nihal Ahmed | Ikigai Coach
- - [https://nih.al](https://nih.al)
- - date_published: 2024-07-13T04:25:57.040533+00:00
-
- ## Nihaal Sangha
- - [https://niha.al](https://niha.al)
- - date_published: 2024-07-13T04:12:51.838606+00:00
-
- ## #APPS2024 – Albanian Power Platform Summit
- - [https://powerplatformsummit.al](https://powerplatformsummit.al)
- - date_published: 2024-08-11T17:43:47.880013+00:00
-
- ## Rafal Stapinski
- - [https://raf.al](https://raf.al)
- - date_published: 2024-07-13T04:12:15.537263+00:00
-
- ## Real Estate in Tirana. Office, villa, apartment for rent or sale Albania.
- - [https://realestate.al](https://realestate.al)
- - date_published: 2024-02-08T22:20:07.666981+00:00
-
- ## Samal Shrikant
- - [https://sam.al](https://sam.al)
- - date_published: 2024-07-13T04:16:41.420656+00:00
-
- ## Nadav Shoval
- - [https://shov.al](https://shov.al)
- - date_published: 2024-07-13T04:03:31.976680+00:00
-
- ## Ernesto Sigal - Software Engineer and Deputy CTO at LMR Partners | Ernesto Sigal
- - [https://sig.al](https://sig.al)
- - date_published: 2023-12-04T12:57:48+00:00
-
- ## Statkraft Shqipëri
- - [https://www.statkraft.al](https://www.statkraft.al)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Al's blog
- - [https://blog.the.al](https://blog.the.al)
- - date_published: 2024-04-09T00:00:00+00:00
- - tags: ['personal']
-
- ## Tidal Labs - Creator Communities
- - [http://tid.al](http://tid.al)
- - date_published: 2024-06-29T18:23:06.231746+00:00
-
- ## Toyota Albania
- - [https://www.toyotaalbania.al](https://www.toyotaalbania.al)
- - date_published: 2024-07-03T01:59:38.359671+00:00
-
- ## trib.al
- - [https://trib.al](https://trib.al)
- - date_published: 2024-05-06T14:34:57.200773+00:00
-
- ## Vula cilësie e sigurie për ecommerce e website - Trustmark
- - [https://trustmark.al](https://trustmark.al)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## E-bill | Vodafone.al
- - [https://ebill.vodafone.al](https://ebill.vodafone.al)
- - date_published: 2024-02-27T16:08:20+00:00
 
