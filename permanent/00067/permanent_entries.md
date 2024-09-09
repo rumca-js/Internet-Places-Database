@@ -1,3 +1,136 @@
+ ## Premium WordPress Themes, Templates & Plugins @ ThemeIsle
+ - [http://docs.dev7studios.com](http://docs.dev7studios.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Evidence-based medicine | Deva Boone, MD
+ - [https://devaboone.com](https://devaboone.com)
+ - date_published: 2024-03-18T16:03:48.224318+00:00
+
+ ## Devamanyu Hazarika
+ - [https://www.devamanyu.com](https://www.devamanyu.com)
+ - date_published: 2024-06-22T09:51:11.302887+00:00
+
+ ## Tech Discovery and Inspiration
+ - [https://api.devandgear.com](https://api.devandgear.com)
+ - date_published: 2024-07-03T16:12:49.000016+00:00
+
+ ## Tech Discovery and Inspiration
+ - [https://devandgear.com](https://devandgear.com)
+ - date_published: 2024-05-08T03:05:24.411783+00:00
+
+ ## Dev & Gear status
+ - [https://status.devandgear.com](https://status.devandgear.com)
+ - date_published: 2024-07-03T16:12:52.530629+00:00
+
+ ## Homepage - Devart Blog
+ - [https://blog.devart.com](https://blog.devart.com)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Devart: Database Management Software and Developer Tools
+ - [https://devart.com](https://devart.com)
+ - date_published: 2024-06-16T20:04:52.055848+00:00
+
+ ## Documentation
+ - [https://docs.devart.com](https://docs.devart.com)
+ - date_published: 2024-05-31T13:14:42+00:00
+
+ ## Devasa Yazılım
+ - [https://devasayazilim.com](https://devasayazilim.com)
+ - date_published: 2024-07-17T07:48:51+00:00
+
+ ## Do You Love as Good as You Lurk? | 💕 Devastatia 💕
+ - [https://www.devastatia.com](https://www.devastatia.com)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## DevBcn 2024 - Barcelona Developers Conference in Spain — 13-14 — June
+ - [https://www.devbcn.com](https://www.devbcn.com)
+ - date_published: 2024-06-30T13:33:48+00:00
+
+ ## Software Engineering Services
+ - [https://www.devbridge.com](https://www.devbridge.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## AB Software Development
+ - [http://www.dev-c.com](http://www.dev-c.com)
+ - date_published: 2024-06-20T13:41:10.833041+00:00
+
+ ## Cara's Blog
+ - [https://devcara.com](https://devcara.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home • DEVCLASS
+ - [https://devclass.com](https://devclass.com)
+ - date_published: 2023-10-25T13:50:42.438218+00:00
+
+ ## One Click Social Login | Social Login Integration for your Website
+ - [https://oneclicksociallogin.devcloudsoftware.com](https://oneclicksociallogin.devcloudsoftware.com)
+ - date_published: 2024-05-08T12:29:47.501587+00:00
+
+ ## DevCurry
+ - [https://www.devcurry.com](https://www.devcurry.com)
+ - date_published: 2024-05-01T03:55:42.761535+00:00
+
+ ## Log in | DevCycle Dashboard
+ - [https://app.devcycle.com](https://app.devcycle.com)
+ - date_published: 2024-05-01T04:49:37.722610+00:00
+
+ ## DevCycle
+ - [https://blog.devcycle.com](https://blog.devcycle.com)
+ - date_published: 2024-05-01T04:49:31.292630+00:00
+
+ ## DevCycle | Feature Flag Management for Developers
+ - [https://devcycle.com](https://devcycle.com)
+ - date_published: 2023-10-25T13:50:46.064161+00:00
+
+ ## Welcome to DevCycle | DevCycle Docs
+ - [https://docs.devcycle.com](https://docs.devcycle.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Roland's Mastodon
+ - [https://devdilettante.com](https://devdilettante.com)
+ - date_published: 2024-05-15T20:53:35.417983+00:00
+
+ ## International Development News, Breaking News, Opinion and Analysis - Devdiscourse
+ - [https://devdiscourse.com](https://devdiscourse.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## imgix - Image Processing On-Demand, Served By CDN
+ - [https://cdn.devdojo.com](https://cdn.devdojo.com)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Dev Community - DevDojo
+ - [https://devdojo.com](https://devdojo.com)
+ - date_published: 2023-10-25T13:50:50.978170+00:00
+
+ ## Static · The Static Site Generator you're going to love
+ - [https://static.devdojo.com](https://static.devdojo.com)
+ - date_published: 2024-02-27T22:44:56+00:00
+
+ ## Online Acquisitions Newsletter
+ - [https://devdrivenacquisitions.com](https://devdrivenacquisitions.com)
+ - date_published: 2023-11-07T19:50:22+00:00
+
+ ## DevDungeon
+ - [https://www.devdungeon.com](https://www.devdungeon.com)
+ - date_published: 2024-08-10T21:22:06+00:00
+
+ ## - - - Fby Fabio Barzagli - - - Computer Music - - - Amiga musician since 1987 
+ - - -
+ - [http://fby.develer.com](http://fby.develer.com)
+ - date_published: 2010-05-20T12:17:18+00:00
+
+ ## Azienda sviluppo software e hardware custom | Develer®
+ - [http://www.develer.com](http://www.develer.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Developer Monkey
+ - [http://develmonk.com](http://develmonk.com)
+ - date_published: 2024-06-23T08:14:06.857856+00:00
+
+ ## DEVELOP3D
+ - [https://develop3d.com](https://develop3d.com)
+ - date_published: 2024-07-10T11:29:17.993612+00:00
+
  ## Developer.com: Latest News & Tutorials for Software Developers
  - [https://www.developer.com](https://www.developer.com)
  - date_published: 2024-06-17T12:40:40.489582+00:00
@@ -3904,138 +4037,4 @@ A blog about programming, distributed systems and others
  ## Dignity Memorial - Funeral Homes, Cremation and Cemeteries
  - [https://www.dignitymemorial.com](https://www.dignitymemorial.com)
  - date_published: 2023-10-25T13:52:51.028566+00:00
-
- ## DIGSAU – Home
- - [http://www.digsau.com](http://www.digsau.com)
- - date_published: 2024-06-28T13:47:03.414262+00:00
-
- ## DigStack — Powerful Digital Whiteboard For Remote Teams
- - [https://digstack.com](https://digstack.com)
- - date_published: 2023-09-01T20:31:51+00:00
-
- ## Digging Into WordPress | Take your WordPress skills to the next level.
- - [http://digwp.com](http://digwp.com)
- - date_published: 2011-01-03T13:02:54+00:00
-
- ## Home - DigXchange
- - [https://digxchange.com](https://digxchange.com)
- - date_published: 2024-06-21T21:54:24.096956+00:00
-
- ## Diigo
- - [https://blog.diigo.com](https://blog.diigo.com)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Diigo -  Better reading and research with annotation, highlighter, sticky notes, archiving, bookmarking & more.
- - [https://diigo.com](https://diigo.com)
- - date_published: 2024-05-07T13:28:55.638656+00:00
- - tags: ['bookmark manager']
-
- ## Diigo teams
- - [https://team.diigo.com](https://team.diigo.com)
- - date_published: 2024-06-16T01:23:15.587268+00:00
-
- ## 初めてのリロケーション。マンションを賃貸に出すための一歩！ | 分譲マンションを賃貸に出した体験と、あらかじめ知っておきたかった注意点や事前にかかった費用をまとめています。
- - [http://www.dijest.com](http://www.dijest.com)
- - date_published: 2024-08-06T09:12:51.006649+00:00
-
- ## Welkom
- - [https://www.dijkman.com](https://www.dijkman.com)
- - date_published: 2024-06-26T23:04:34.258501+00:00
-
- ## Welcome, dear computer professional | Dijkstra's Rallying Cry for Generalization
- - [https://dijkstrascry.com](https://dijkstrascry.com)
- - date_published: 2024-06-16T09:15:10+00:00
-
- ## David Klein
- - [https://diklein.com](https://diklein.com)
- - date_published: 2024-01-11T07:43:53.828915+00:00
-
- ## Dilawctory.com - Lawyers Directory
- - [https://www.dilawctory.com](https://www.dilawctory.com)
- - date_published: 2024-05-07T13:42:42.480953+00:00
-
- ## Dilbert.com
- - [https://dilbert.com](https://dilbert.com)
- - date_published: 2023-10-27T13:15:36.746639+00:00
- - tags: ['comics']
-
- ## Dilbert.com
- - [http://www.dilbert.com](http://www.dilbert.com)
- - date_published: 2024-06-26T10:32:07.062037+00:00
-
- ## Dilemaradio - Your Prime Hip Hop Source
- - [https://dilemaradio.com](https://dilemaradio.com)
- - date_published: 2020-05-29T19:35:35+00:00
-
- ## Dilettante Army
- - [https://dilettantearmy.com](https://dilettantearmy.com)
- - date_published: 2024-07-02T19:02:42.252571+00:00
-
- ## A Modern Governance Company - Diligent
- - [https://www.diligent.com](https://www.diligent.com)
- - date_published: 2024-06-22T09:17:13.463651+00:00
-
- ## DiliTrust - Legal & Corporate Governance Software Solutions
- - [https://www.dilitrust.com](https://www.dilitrust.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## The Dilla Dimension
- - [http://www.dilladimension.com](http://www.dilladimension.com)
- - date_published: 2024-08-06T20:02:56.938588+00:00
-
- ## DillerDesign is turning into something else
- - [http://dillerdesign.com](http://dillerdesign.com)
- - date_published: 2021-06-02T19:21:07+00:00
-
- ## dillonBastan
- - [https://dillonbastan.com](https://dillonbastan.com)
- - date_published: 2024-09-06T21:48:36+00:00
-
- ## Dillon Mok
- - [https://dillonmok.com](https://dillonmok.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Same Day Flower Delivery in Hutchinson, KS, 67504 by your FTD florist Dillons 800-900-6575
- - [https://flowers.dillons.com](https://flowers.dillons.com)
- - date_published: 2024-08-05T22:16:09.658418+00:00
-
- ## Dillon Shook
- - [https://dillonshook.com](https://dillonshook.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Dillons RewardsÂ® World MastercardÂ®
- - [https://www.dillonsmastercard.com](https://www.dillonsmastercard.com)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Dillygence | Manufacturing Intelligence
- - [https://dillygence.com](https://dillygence.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Dilman Dila
- - [https://www.dilmandila.com](https://www.dilmandila.com)
- - date_published: 2024-06-23T17:08:30.297067+00:00
-
- ## Dimagi Academy
- - [https://academy.dimagi.com](https://academy.dimagi.com)
- - date_published: 2024-07-04T15:31:29.759265+00:00
-
- ## CommCare Forum
- - [https://forum.dimagi.com](https://forum.dimagi.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Transforming Social Impact: Data Collection Software & Digital Health Solutions
- - [https://dimagi.com](https://dimagi.com)
- - date_published: 2024-05-08T06:45:21.076675+00:00
-
- ## Home - Dimberg Jernberg Management
- - [https://dimbergjernberg.com](https://dimbergjernberg.com)
- - date_published: 2023-03-15T00:00:00+00:00
-
- ## Roxette
- - [http://roxette.captain.dimbergjernberg.com](http://roxette.captain.dimbergjernberg.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## RingCentral Engage Digital
- - [https://fccdc-1117039.dimelochat.com](https://fccdc-1117039.dimelochat.com)
- - date_published: 2024-07-13T13:22:36.782328+00:00
 

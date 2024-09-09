@@ -1,3 +1,11 @@
+ ## Cent
+ - [https://dist.cent.co](https://dist.cent.co)
+ - date_published: 2024-07-15T12:28:09.921556+00:00
+
+ ## CENT App
+ - [https://hive.cent.co](https://hive.cent.co)
+ - date_published: 2024-05-12T06:17:35.773822+00:00
+
  ## The World's Easiest Background Checks | Certn
  - [https://certn.co](https://certn.co)
  - date_published: 2023-06-10T23:06:49+00:00
@@ -2824,6 +2832,10 @@
  - [http://health.co](http://health.co)
  - date_published: 2024-07-08T14:26:19+00:00
 
+ ## Hearchco
+ - [https://hearch.co](https://hearch.co)
+ - date_published: 2024-09-09T12:43:20.980308+00:00
+
  ## Helio | Sell more with crypto  ⚡️
  - [https://helio.co](https://helio.co)
  - date_published: 2024-04-25T00:00:00+00:00
@@ -4031,16 +4043,4 @@ It’s what you do.
  ## Craft
  - [https://madebycraft.co](https://madebycraft.co)
  - date_published: 2024-02-07T00:00:00+00:00
-
- ## Fast ad block for iPhone, iPad and Mac – Magic Lasso Adblock
- - [https://www.magiclasso.co](https://www.magiclasso.co)
- - date_published: 2023-10-25T12:19:24.874504+00:00
-
- ## Magic Mind | The World's First Mental Performance Shot
- - [https://magicmind.co](https://magicmind.co)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## MailDump - Find all email addresses on any domain in seconds
- - [https://maildump.co](https://maildump.co)
- - date_published: 2024-07-10T03:08:45.017217+00:00
 

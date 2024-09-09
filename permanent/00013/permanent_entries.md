@@ -1,11 +1,3 @@
- ## ISD2.0-AWS
- - [https://chatterboxnorth.ca](https://chatterboxnorth.ca)
- - date_published: 2021-12-30T00:43:55+00:00
-
- ## Compass
- - [https://checkcompass.ca](https://checkcompass.ca)
- - date_published: 2024-08-09T04:27:29.997138+00:00
-
  ## ChessCraft - Never play the same game of chess again
  - [https://www.chesscraft.ca](https://www.chesscraft.ca)
  - date_published: 2024-09-02T09:55:27.929441+00:00
@@ -4044,4 +4036,12 @@
  ## National Registration Database / Base de données nationale d'inscription
  - [https://www.nrd.ca](https://www.nrd.ca)
  - date_published: 2024-07-11T14:57:48.707647+00:00
+
+ ## NSERC Electronic Application Process
+ - [https://ebiz.nserc.ca](https://ebiz.nserc.ca)
+ - date_published: 2022-03-10T00:00:00+00:00
+
+ ## Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
+ - [http://www.nserc.ca](http://www.nserc.ca)
+ - date_published: 2024-09-06T00:00:00+00:00
 

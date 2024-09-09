@@ -1,7 +1,3 @@
- ## Vanguard Australia
- - [https://vanguard.com.au](https://vanguard.com.au)
- - date_published: 2024-07-08T10:13:48.314353+00:00
-
  ## Vault Games Singles
  - [https://singles.vaultgames.com.au](https://singles.vaultgames.com.au)
  - date_published: 2024-06-27T00:00:00+00:00
@@ -4019,4 +4015,8 @@ University of Technology
  ## SageMaker Studio Lab
  - [https://studiolab.sagemaker.aws](https://studiolab.sagemaker.aws)
  - date_published: 2024-05-10T07:02:17.360710+00:00
+
+ ## Self-paced digital training on AWS - AWS Skill Builder
+ - [https://explore.skillbuilder.aws](https://explore.skillbuilder.aws)
+ - date_published: 2024-04-15T22:31:40+00:00
 

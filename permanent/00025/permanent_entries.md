@@ -1,3 +1,23 @@
+ ## MacGeneration
+ - [https://www.macg.co](https://www.macg.co)
+ - date_published: 2024-05-04T07:55:26.129840+00:00
+
+ ## Craft
+ - [https://madebycraft.co](https://madebycraft.co)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Fast ad block for iPhone, iPad and Mac – Magic Lasso Adblock
+ - [https://www.magiclasso.co](https://www.magiclasso.co)
+ - date_published: 2023-10-25T12:19:24.874504+00:00
+
+ ## Magic Mind | The World's First Mental Performance Shot
+ - [https://magicmind.co](https://magicmind.co)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## MailDump - Find all email addresses on any domain in seconds
+ - [https://maildump.co](https://maildump.co)
+ - date_published: 2024-07-10T03:08:45.017217+00:00
+
  ## Mailmouse: share an email address
  - [https://mailmouse.co](https://mailmouse.co)
  - date_published: 2024-04-29T05:56:49.221623+00:00
@@ -4004,24 +4024,4 @@
  ## Jigsaw – Static Sites for Laravel Developers
  - [https://jigsaw.tighten.co](https://jigsaw.tighten.co)
  - date_published: 2024-05-09T07:43:29.434310+00:00
-
- ## Tighten | Software Development for Web + Mobile | Laravel + Vue.js
- - [https://tighten.co](https://tighten.co)
- - date_published: 2024-06-11T08:56:40.914203+00:00
-
- ## Tighten Typing Challenge
- - [https://typing.tighten.co](https://typing.tighten.co)
- - date_published: 2024-06-18T10:24:12.892943+00:00
-
- ## Neither a Slave Nor a Master
- - [https://neither-slave-nor-master.tiiny.co](https://neither-slave-nor-master.tiiny.co)
- - date_published: 2024-06-20T19:41:20+00:00
-
- ## Home
- - [https://tiktokfame.co](https://tiktokfame.co)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Timaeus
- - [https://timaeus.co](https://timaeus.co)
- - date_published: 2024-05-08T09:51:51.494581+00:00
 

@@ -1,7 +1,3 @@
- ## Webdesign, webdevelopment, online marketing uit Leuven | Statik.be
- - [https://www.statik.be](https://www.statik.be)
- - date_published: 2024-06-28T22:10:46.248602+00:00
-
  ## Steffest Digitale Pulptuur
  - [https://blog.stef.be](https://blog.stef.be)
  - date_published: 2024-05-28T03:38:18.493716+00:00
@@ -4060,4 +4056,8 @@
  ## Bill Bennett
  - [https://billbennett.micro.blog](https://billbennett.micro.blog)
  - date_published: 2024-07-07T05:40:40+00:00
+
+ ## Micro.blog
+ - [https://cdn.micro.blog](https://cdn.micro.blog)
+ - date_published: 2024-07-07T07:34:02.570535+00:00
 

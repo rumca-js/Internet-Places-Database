@@ -1,3 +1,71 @@
+ ## THE ASTUTE BLOGGERS
+ - [http://astuteblogger.blogspot.com](http://astuteblogger.blogspot.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## astutebloggers
+ - [http://astutebloggers.blogspot.com](http://astutebloggers.blogspot.com)
+ - date_published: 2024-03-13T16:29:53+00:00
+
+ ## Alex's blog
+ - [http://asurkov.blogspot.com](http://asurkov.blogspot.com)
+ - date_published: 2024-06-15T05:59:46+00:00
+
+ ## The Cambridge Warlords
+ - [https://ataleofcambridgewargamers.blogspot.com](https://ataleofcambridgewargamers.blogspot.com)
+ - date_published: 2024-05-22T09:07:06+00:00
+
+ ## Nie znaleziono bloga
+ - [http://ataleofseveralgamers.blogspot.com](http://ataleofseveralgamers.blogspot.com)
+ - date_published: 2024-09-03T22:23:28.734840+00:00
+
+ ## A Tau Beginning
+ - [http://ataubeginning.blogspot.com](http://ataubeginning.blogspot.com)
+ - date_published: 2024-03-13T15:37:14+00:00
+
+ ## atdotde
+ - [http://atdotde.blogspot.com](http://atdotde.blogspot.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## All Things Eldar
+ - [http://ateldar.blogspot.com](http://ateldar.blogspot.com)
+ - date_published: 2024-03-13T02:30:15+00:00
+
+ ## Atheist Ethicist
+ - [http://atheistethicist.blogspot.com](http://atheistethicist.blogspot.com)
+ - date_published: 2024-06-21T09:07:48+00:00
+
+ ## Athenae Noctua
+ - [http://athenaenoctua2013.blogspot.com](http://athenaenoctua2013.blogspot.com)
+ - date_published: 2024-09-02T07:52:01+00:00
+
+ ## ATOMIC-ANNIHILATION
+ - [http://atomic-annhilation.blogspot.com](http://atomic-annhilation.blogspot.com)
+ - date_published: 2024-07-30T07:31:56+00:00
+
+ ## Scalable Atomicity
+ - [http://atomicrules.blogspot.com](http://atomicrules.blogspot.com)
+ - date_published: 2024-03-13T18:29:54+00:00
+
+ ## Atomic Warlords
+ - [http://atomicwarlords.blogspot.com](http://atomicwarlords.blogspot.com)
+ - date_published: 2024-05-31T19:12:24+00:00
+
+ ## Atop the Fourth Wall
+ - [http://atopfourthwall.blogspot.com](http://atopfourthwall.blogspot.com)
+ - date_published: 2024-07-11T18:06:35+00:00
+
+ ## A Touch of Dutch
+ - [http://atouchofdutch.blogspot.com](http://atouchofdutch.blogspot.com)
+ - date_published: 2024-03-14T11:21:46+00:00
+
+ ## A trainwreck in Maxwell
+ - [https://atrainwreckinmaxwell.blogspot.com](https://atrainwreckinmaxwell.blogspot.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Eschaton
+ - [http://atrios.blogspot.com](http://atrios.blogspot.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## America is an Obamanation!
  - [http://atrueobamanation.blogspot.com](http://atrueobamanation.blogspot.com)
  - date_published: 2024-03-02T06:55:22+00:00
@@ -3953,73 +4021,4 @@
  ## The Daring Novelist
  - [http://daringnovelist.blogspot.com](http://daringnovelist.blogspot.com)
  - date_published: 2024-04-30T10:33:29+00:00
-
- ## Circle of Dar Janix
- - [http://darjanix.blogspot.com](http://darjanix.blogspot.com)
- - date_published: 2024-07-14T21:00:17+00:00
-
- ## Dark Corners Of Role Playing
- - [http://darkcornersofrpging.blogspot.com](http://darkcornersofrpging.blogspot.com)
- - date_published: 2024-07-03T02:45:35+00:00
-
- ## DARKE LANDS
- - [http://darke-lands.blogspot.com](http://darke-lands.blogspot.com)
- - date_published: 2024-03-13T16:30:01+00:00
-
- ## Dark Eldar Blog
- - [http://darkeldarblog.blogspot.com](http://darkeldarblog.blogspot.com)
- - date_published: 2024-02-08T02:37:37+00:00
-
- ## The Dark end of the street...
- - [http://darkenderz.blogspot.com](http://darkenderz.blogspot.com)
- - date_published: 2024-06-28T14:23:21+00:00
-
- ## Dark Future Games
- - [http://darkfuturegaming.blogspot.com](http://darkfuturegaming.blogspot.com)
- - date_published: 2024-06-18T10:00:00+00:00
-
- ## The Dark Workshop
- - [http://darkworkshop.blogspot.com](http://darkworkshop.blogspot.com)
- - date_published: 2024-02-21T01:25:57+00:00
-
- ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date_published: 2023-10-25T09:08:09.774302+00:00
- - tags: ['personal']
-
- ## Data Distilled
- - [http://datadistilled.blogspot.com](http://datadistilled.blogspot.com)
- - date_published: 2024-02-08T17:01:06+00:00
-
- ## Data Driven Gamer
- - [http://datadrivengamer.blogspot.com](http://datadrivengamer.blogspot.com)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Data Finnovation
- - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## The tunnel - demoscene blog
- - [https://datunnel.blogspot.com](https://datunnel.blogspot.com)
- - date_published: 2024-03-13T20:00:30+00:00
-
- ## Daughters of the Emperor
- - [http://daughteroftheemperor.blogspot.com](http://daughteroftheemperor.blogspot.com)
- - date_published: 2024-07-03T03:04:10+00:00
-
- ## Econometrics Beat: Dave Giles' Blog
- - [http://davegiles.blogspot.com](http://davegiles.blogspot.com)
- - date_published: 2024-07-13T05:55:38+00:00
-
- ## daveinboca
- - [http://daveinboca.blogspot.com](http://daveinboca.blogspot.com)
- - date_published: 2024-04-25T11:06:46+00:00
-
- ## Davelandblog
- - [http://davelandblog.blogspot.com](http://davelandblog.blogspot.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Dave Mackey..the runner, not the ice hockey player
- - [http://davemackey.blogspot.com](http://davemackey.blogspot.com)
- - date_published: 2024-05-24T09:35:06+00:00
 

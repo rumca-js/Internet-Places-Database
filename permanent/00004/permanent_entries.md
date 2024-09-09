@@ -1,11 +1,3 @@
- ## React App
- - [https://bubble-wrap.netlify.app](https://bubble-wrap.netlify.app)
- - date_published: 2024-07-02T20:49:37.828116+00:00
-
- ## 🦉 Bubo Reader
- - [https://bubo-rss-demo.netlify.app](https://bubo-rss-demo.netlify.app)
- - date_published: 2024-06-19T22:13:39.589238+00:00
-
  ## Calm Breath
  - [https://calm-breath.netlify.app](https://calm-breath.netlify.app)
  - date_published: 2024-08-17T23:39:08.385633+00:00
@@ -3647,6 +3639,10 @@
  - [https://fnm.vercel.app](https://fnm.vercel.app)
  - date_published: 2024-05-06T13:04:57.279467+00:00
 
+ ## Forever Photo
+ - [https://forever-photo.vercel.app](https://forever-photo.vercel.app)
+ - date_published: 2024-09-09T12:43:23.327743+00:00
+
  ## Frodo
  - [https://frodo-chi.vercel.app](https://frodo-chi.vercel.app)
  - date_published: 2024-06-14T08:55:25.158102+00:00
@@ -4026,4 +4022,8 @@
  ## Devansh Bajaj
  - [https://nextjs-devanshblog.vercel.app](https://nextjs-devanshblog.vercel.app)
  - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Jobify Dev
+ - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
+ - date_published: 2024-06-19T06:57:50.743139+00:00
 

@@ -1,7 +1,3 @@
- ## Parabrain.ai | Expert AI trained by your knowledge
- - [https://www.parabrain.ai](https://www.parabrain.ai)
- - date_published: 2024-06-19T20:11:54.838721+00:00
-
  ## Olivia
  - [https://olivia.paradox.ai](https://olivia.paradox.ai)
  - date_published: 2024-07-15T02:17:22.589261+00:00
@@ -2883,10 +2879,6 @@
  - [https://undermind.ai](https://undermind.ai)
  - date_published: 2024-09-06T18:55:51.966945+00:00
 
- ## Undermind Deep Scientific Search
- - [https://www.undermind.ai](https://www.undermind.ai)
- - date_published: 2024-07-25T17:30:46.536990+00:00
-
  ## Infinite Ground Truth / understand.ai
  - [https://understand.ai](https://understand.ai)
  - date_published: 2024-07-12T07:20:02.502457+00:00
@@ -4027,4 +4019,12 @@ Creative Solutions
  ## Naval
  - [https://nav.al](https://nav.al)
  - date_published: 2023-10-25T11:45:20.135109+00:00
+
+ ## Workshops | Nihal Ahmed | Ikigai Coach
+ - [https://nih.al](https://nih.al)
+ - date_published: 2024-07-13T04:25:57.040533+00:00
+
+ ## Nihaal Sangha
+ - [https://niha.al](https://niha.al)
+ - date_published: 2024-07-13T04:12:51.838606+00:00
 

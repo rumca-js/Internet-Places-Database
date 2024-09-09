@@ -1,3 +1,75 @@
+ ## No, Mom. This is not just a phase.
+ - [https://thisisnotjustaphase.blogspot.com](https://thisisnotjustaphase.blogspot.com)
+ - date_published: 2024-03-08T23:53:29+00:00
+
+ ## The Embroiderer's Story
+ - [https://thistle-threads.blogspot.com](https://thistle-threads.blogspot.com)
+ - date_published: 2024-05-12T08:43:00+00:00
+
+ ## Pizzagrenadier's Miniature Wargaming Blog
+ - [http://thisveryblog.blogspot.com](http://thisveryblog.blogspot.com)
+ - date_published: 2024-05-27T03:04:07+00:00
+
+ ## Three-Headed Monster Games
+ - [http://thmgames.blogspot.com](http://thmgames.blogspot.com)
+ - date_published: 2024-02-19T15:20:39+00:00
+
+ ## nonpareil
+ - [http://thombeau.blogspot.com](http://thombeau.blogspot.com)
+ - date_published: 2024-02-20T14:47:42+00:00
+
+ ## Funny Games
+ - [http://those-funny-games.blogspot.com](http://those-funny-games.blogspot.com)
+ - date_published: 2024-06-13T03:58:40+00:00
+
+ ## Those Who Remain
+ - [http://thosewhoremain.blogspot.com](http://thosewhoremain.blogspot.com)
+ - date_published: 2024-03-13T20:46:52+00:00
+
+ ## Thoul's Paradise
+ - [http://thoulsparadise.blogspot.com](http://thoulsparadise.blogspot.com)
+ - date_published: 2024-07-14T13:46:37+00:00
+
+ ## Thousands of HATE...
+ - [http://thousandsofhate.blogspot.com](http://thousandsofhate.blogspot.com)
+ - date_published: 2024-02-20T06:39:52+00:00
+
+ ## three-flies-for-nurgle
+ - [https://three-flies-for-nurgle.blogspot.com](https://three-flies-for-nurgle.blogspot.com)
+ - date_published: 2024-05-17T23:01:00+00:00
+
+ ## Three Men in a Tub
+ - [http://threemeninatub.blogspot.com](http://threemeninatub.blogspot.com)
+ - date_published: 2024-03-13T01:24:57+00:00
+
+ ## Three Pipe Problem
+ - [http://threepipeproblem.blogspot.com](http://threepipeproblem.blogspot.com)
+ - date_published: 2024-03-13T02:30:08+00:00
+
+ ## Three Redheads and Counting . . .
+ - [http://threeredheadsandcounting.blogspot.com](http://threeredheadsandcounting.blogspot.com)
+ - date_published: 2024-08-28T09:50:01+00:00
+
+ ## Three Rounds Brisk...
+ - [http://threeroundsbrisk.blogspot.com](http://threeroundsbrisk.blogspot.com)
+ - date_published: 2024-03-23T18:23:25+00:00
+
+ ## Dark Roasted Blend
+ - [http://thrillingwonder.blogspot.com](http://thrillingwonder.blogspot.com)
+ - date_published: 2024-07-09T15:00:16+00:00
+
+ ## Holy Terra, Throneworld of the Imperium of Mankind
+ - [http://throneworld.blogspot.com](http://throneworld.blogspot.com)
+ - date_published: 2017-06-09T00:00:00+00:00
+
+ ## Throw Grammar from the Train
+ - [https://throwgrammarfromthetrain.blogspot.com](https://throwgrammarfromthetrain.blogspot.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Thunderhammers
+ - [http://thunderhammers.blogspot.com](http://thunderhammers.blogspot.com)
+ - date_published: 2024-07-04T06:18:37+00:00
+
  ## The Thunder Run
  - [http://thunderrun.blogspot.com](http://thunderrun.blogspot.com)
  - date_published: 2024-06-04T06:10:46+00:00
@@ -3941,76 +4013,4 @@
  - [https://bloomberg.com](https://bloomberg.com)
  - date_published: 2023-11-21T22:14:02.885363+00:00
  - tags: ['news']
-
- ## What we do | Careers | Bloomberg L.P. | About, Products, Contacts
- - [https://careers.bloomberg.com](https://careers.bloomberg.com)
- - date_published: 2024-04-28T03:30:52.452909+00:00
-
- ## Log in to BAUTH
- - [https://company.edit.cirrus.bloomberg.com](https://company.edit.cirrus.bloomberg.com)
- - date_published: 2024-07-08T13:57:56.482274+00:00
-
- ## Bloomberg
- - [https://login.bloomberg.com](https://login.bloomberg.com)
- - date_published: 2024-06-28T12:58:23.378979+00:00
-
- ## Log in to BAUTH
- - [https://professional.edit.cirrus.bloomberg.com](https://professional.edit.cirrus.bloomberg.com)
- - date_published: 2024-07-03T07:49:53.876870+00:00
-
- ## Bloomberg Service Center
- - [https://service.bloomberg.com](https://service.bloomberg.com)
- - date_published: 2024-05-08T03:02:25.244801+00:00
-
- ## Creativity Within Constraints
- - [https://sponsored.bloomberg.com](https://sponsored.bloomberg.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Bloomberg Adria
- - [https://ba.bloombergadria.com](https://ba.bloombergadria.com)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Bloomberg Adria
- - [https://hr.bloombergadria.com](https://hr.bloombergadria.com)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Bloomberg Adria
- - [https://mk.bloombergadria.com](https://mk.bloombergadria.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Bloomberg Adria
- - [https://rs.bloombergadria.com](https://rs.bloombergadria.com)
- - date_published: 2024-06-04T06:12:31.249240+00:00
-
- ## Bloomberg Adria
- - [https://si.bloombergadria.com](https://si.bloombergadria.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Bloomberg Adria
- - [https://www.bloombergadria.com](https://www.bloombergadria.com)
- - date_published: 2024-09-04T11:53:40.085603+00:00
-
- ## Bloomberg Arcade | London Square Mile
- - [https://bloombergarcade.com](https://bloombergarcade.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## 彭博专业服务 | 彭博Bloomberg | 中国
- - [https://www.bloombergchina.com](https://www.bloombergchina.com)
- - date_published: 2024-07-03T15:44:58.383146+00:00
-
- ## Environment & Energy Report
- - [https://news.bloombergenvironment.com](https://news.bloombergenvironment.com)
- - date_published: 2024-06-14T23:30:55.469761+00:00
-
- ## Environment & Energy Report
- - [https://pro.bloombergenvironment.com](https://pro.bloombergenvironment.com)
- - date_published: 2024-05-08T03:02:16.866288+00:00
-
- ## Bloomberg Industry Group
- - [https://bloombergindustry.com](https://bloombergindustry.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Essential Login
- - [https://essential.bloombergindustry.com](https://essential.bloombergindustry.com)
- - date_published: 2024-04-17T19:11:46+00:00
 

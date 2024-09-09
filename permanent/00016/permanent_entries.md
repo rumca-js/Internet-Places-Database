@@ -1,11 +1,3 @@
- ## 路透社最新报道
- - [https://reutersnew.buzzing.cc](https://reutersnew.buzzing.cc)
- - date_published: 2024-07-16T18:02:07.698817+00:00
-
- ## Science Alert 杂志
- - [https://sciencealert.buzzing.cc](https://sciencealert.buzzing.cc)
- - date_published: 2024-07-16T00:00:00+00:00
-
  ## Show HN
  - [https://showhn.buzzing.cc](https://showhn.buzzing.cc)
  - date_published: 2024-07-16T18:03:58.397778+00:00
@@ -4022,4 +4014,12 @@
  ## Cours de mathématiques spéciales (CMS)
  - [http://cms.epfl.ch](http://cms.epfl.ch)
  - date_published: 2024-07-16T22:24:08+00:00
+
+ ## Accueil
+ - [https://coaching.epfl.ch](https://coaching.epfl.ch)
+ - date_published: 2024-05-12T07:15:07.394432+00:00
+
+ ## Concours Alkindi
+ - [https://concours-alkindi.epfl.ch](https://concours-alkindi.epfl.ch)
+ - date_published: 2024-05-12T07:16:57.445505+00:00
 

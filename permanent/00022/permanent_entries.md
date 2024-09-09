@@ -1,15 +1,3 @@
- ## 浙江大学面向2030的学科会聚研究计划
- - [http://www.innovation2030.zju.edu.cn](http://www.innovation2030.zju.edu.cn)
- - date_published: 2024-06-18T11:56:36.532564+00:00
-
- ## 工业技术转化研究院
- - [http://www.itt.zju.edu.cn](http://www.itt.zju.edu.cn)
- - date_published: 2024-06-18T11:57:50.557833+00:00
-
- ## 浙江大学：求是新闻网
- - [http://www.news.zju.edu.cn](http://www.news.zju.edu.cn)
- - date_published: 2024-06-18T11:58:16.829569+00:00
-
  ## 浙江大学
  - [https://www.zju.edu.cn](https://www.zju.edu.cn)
  - date_published: 2024-05-02T12:42:35.932616+00:00
@@ -1262,6 +1250,10 @@
  ## 301 Moved Permanently
  - [http://www.gszfw.gov.cn](http://www.gszfw.gov.cn)
  - date_published: 2024-07-03T05:51:28.429629+00:00
+
+ ## Official website of Guiyang, China – Local news, investment, travel, living, services
+ - [http://english.guiyang.gov.cn](http://english.guiyang.gov.cn)
+ - date_published: 2024-09-09T12:54:11.069901+00:00
 
  ## 国务院台湾事务办公室新闻发布会 记者报名入口
  - [http://apps.gwytb.gov.cn](http://apps.gwytb.gov.cn)
@@ -4002,4 +3994,12 @@
  ## 陕西省中医药管理局
  - [http://atcm.shaanxi.gov.cn](http://atcm.shaanxi.gov.cn)
  - date_published: 2024-06-30T13:45:30.582007+00:00
+
+ ## 陕西省退役军人事务厅
+ - [http://dva.shaanxi.gov.cn](http://dva.shaanxi.gov.cn)
+ - date_published: 2024-06-11T11:50:39+00:00
+
+ ## 陕西省广播电视局
+ - [http://gdj.shaanxi.gov.cn](http://gdj.shaanxi.gov.cn)
+ - date_published: 2024-06-28T00:47:53+00:00
 

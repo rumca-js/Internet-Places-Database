@@ -1,7 +1,3 @@
- ## Micro.blog
- - [https://cdn.micro.blog](https://cdn.micro.blog)
- - date_published: 2024-07-07T07:34:02.570535+00:00
-
  ## Micro.blog Community Challenges
  - [https://challenges.micro.blog](https://challenges.micro.blog)
  - date_published: 2024-05-02T04:04:42+00:00
@@ -4046,4 +4042,8 @@ Educação
  ## Sooper
  - [https://www.sooper.com.br](https://www.sooper.com.br)
  - date_published: 2024-06-19T08:24:28.628097+00:00
+
+ ## Jogo Spaceman Bet 👨🏻‍🚀
+ - [https://spaceman-jogo.com.br](https://spaceman-jogo.com.br)
+ - date_published: 2024-07-26T04:59:36.182470+00:00
 

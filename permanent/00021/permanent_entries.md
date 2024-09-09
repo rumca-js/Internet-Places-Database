@@ -1,15 +1,3 @@
- ## 科学频道_中国网
- - [http://science.china.com.cn](http://science.china.com.cn)
- - date_published: 2024-06-30T11:38:12+00:00
-
- ## 中国双创_中国网
- - [http://sczg.china.com.cn](http://sczg.china.com.cn)
- - date_published: 2024-06-24T05:09:31+00:00
-
- ## 中国网·新山东 - 网上山东 | 山东新闻
- - [http://sd.china.com.cn](http://sd.china.com.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
  ## Welcome to nginx!
  - [http://search1.china.com.cn](http://search1.china.com.cn)
  - date_published: 2021-06-18T01:24:45+00:00
@@ -264,7 +252,7 @@ _中国网
  - date_published: 2024-05-09T06:04:48.601039+00:00
 
  ## China Daily Website - Connecting China Connecting the World
- - [https://www.chinadaily.com.cn](https://www.chinadaily.com.cn)
+ - [https://chinadaily.com.cn](https://chinadaily.com.cn)
  - date_published: 2024-03-08T18:11:22.980163+00:00
  - tags: ['china news']
 
@@ -4002,4 +3990,16 @@ _中国网
  ## 浙江大学研究生院
  - [http://www.grs.zju.edu.cn](http://www.grs.zju.edu.cn)
  - date_published: 2024-06-18T11:56:47.511082+00:00
+
+ ## 浙江大学面向2030的学科会聚研究计划
+ - [http://www.innovation2030.zju.edu.cn](http://www.innovation2030.zju.edu.cn)
+ - date_published: 2024-06-18T11:56:36.532564+00:00
+
+ ## 工业技术转化研究院
+ - [http://www.itt.zju.edu.cn](http://www.itt.zju.edu.cn)
+ - date_published: 2024-06-18T11:57:50.557833+00:00
+
+ ## 浙江大学：求是新闻网
+ - [http://www.news.zju.edu.cn](http://www.news.zju.edu.cn)
+ - date_published: 2024-06-18T11:58:16.829569+00:00
 

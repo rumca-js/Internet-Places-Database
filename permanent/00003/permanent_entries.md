@@ -1,11 +1,3 @@
- ## Workshops | Nihal Ahmed | Ikigai Coach
- - [https://nih.al](https://nih.al)
- - date_published: 2024-07-13T04:25:57.040533+00:00
-
- ## Nihaal Sangha
- - [https://niha.al](https://niha.al)
- - date_published: 2024-07-13T04:12:51.838606+00:00
-
  ## #APPS2024 – Albanian Power Platform Summit
  - [https://powerplatformsummit.al](https://powerplatformsummit.al)
  - date_published: 2024-08-11T17:43:47.880013+00:00
@@ -4030,4 +4022,12 @@
  ## Catbot Chat
  - [https://botcat.netlify.app](https://botcat.netlify.app)
  - date_published: 2024-07-22T17:11:11.762691+00:00
+
+ ## React App
+ - [https://bubble-wrap.netlify.app](https://bubble-wrap.netlify.app)
+ - date_published: 2024-07-02T20:49:37.828116+00:00
+
+ ## 🦉 Bubo Reader
+ - [https://bubo-rss-demo.netlify.app](https://bubo-rss-demo.netlify.app)
+ - date_published: 2024-06-19T22:13:39.589238+00:00
 

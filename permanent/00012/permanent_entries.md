@@ -1,7 +1,3 @@
- ## Jogo Spaceman Bet 👨🏻‍🚀
- - [https://spaceman-jogo.com.br](https://spaceman-jogo.com.br)
- - date_published: 2024-07-26T04:59:36.182470+00:00
-
  ## Home
  - [https://spcine.com.br](https://spcine.com.br)
  - date_published: 2024-06-26T21:56:38.630933+00:00
@@ -1024,10 +1020,6 @@
  ## Escravo, nem pensar!
  - [https://escravonempensar.org.br](https://escravonempensar.org.br)
  - date_published: 2024-01-09T02:26:51.999598+00:00
-
- ## Escravo, nem pensar!
- - [https://www.escravonempensar.org.br](https://www.escravonempensar.org.br)
- - date_published: 2024-01-09T02:26:57.139425+00:00
 
  ## Home
  - [https://www.estrategiaods.org.br](https://www.estrategiaods.org.br)
@@ -4019,4 +4011,12 @@
  ## Chase Payment Solutions | Chase Canada | chase.ca
  - [https://www.chase.ca](https://www.chase.ca)
  - date_published: 2024-05-04T06:12:33.436323+00:00
+
+ ## ISD2.0-AWS
+ - [https://chatterboxnorth.ca](https://chatterboxnorth.ca)
+ - date_published: 2021-12-30T00:43:55+00:00
+
+ ## Compass
+ - [https://checkcompass.ca](https://checkcompass.ca)
+ - date_published: 2024-08-09T04:27:29.997138+00:00
 

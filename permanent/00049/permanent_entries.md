@@ -1,3 +1,75 @@
+ ## Romain Perier's blog
+ - [https://rperier.blogspot.com](https://rperier.blogspot.com)
+ - date_published: 2024-03-19T03:05:57+00:00
+
+ ## 5elementos Aventura Elemental
+ - [http://rpg5elementos.blogspot.com](http://rpg5elementos.blogspot.com)
+ - date_published: 2024-03-14T00:53:26+00:00
+
+ ## RPG Creatures - a free online Bestiary
+ - [http://rpg-creatures.blogspot.com](http://rpg-creatures.blogspot.com)
+ - date_published: 2024-03-19T13:00:31+00:00
+
+ ## RPG dumping ground
+ - [http://rpgdump.blogspot.com](http://rpgdump.blogspot.com)
+ - date_published: 2024-07-02T06:50:55+00:00
+
+ ## Matchlock
+ - [http://rpgmatchlock.blogspot.com](http://rpgmatchlock.blogspot.com)
+ - date_published: 2024-03-13T00:58:35+00:00
+
+ ## Blogger
+ - [http://rpgseeds.blogspot.com](http://rpgseeds.blogspot.com)
+ - date_published: 2024-09-03T22:17:52.607660+00:00
+
+ ## RPG Shared
+ - [http://rpgshared.blogspot.com](http://rpgshared.blogspot.com)
+ - date_published: 2024-04-28T02:24:20+00:00
+
+ ## Blogger
+ - [http://rrrschaefer.blogspot.com](http://rrrschaefer.blogspot.com)
+ - date_published: 2024-07-20T21:16:47.795828+00:00
+
+ ## RSE World
+ - [http://rseworld.blogspot.com](http://rseworld.blogspot.com)
+ - date_published: 2024-03-13T19:41:53+00:00
+
+ ## The Other McCain
+ - [http://rsmccain.blogspot.com](http://rsmccain.blogspot.com)
+ - date_published: 2024-06-26T12:05:12+00:00
+
+ ## Ron Schuler's Parlour Tricks
+ - [http://rsparlourtricks.blogspot.com](http://rsparlourtricks.blogspot.com)
+ - date_published: 2024-04-21T19:04:08+00:00
+
+ ## RTDriver.com
+ - [http://rtdriver.blogspot.com](http://rtdriver.blogspot.com)
+ - date_published: 2023-11-16T07:12:01+00:00
+
+ ## RT Rider
+ - [http://rtrider.blogspot.com](http://rtrider.blogspot.com)
+ - date_published: 2024-02-20T18:27:24+00:00
+
+ ## Rua das Pretas
+ - [http://ruadaspretas.blogspot.com](http://ruadaspretas.blogspot.com)
+ - date_published: 2024-07-12T02:38:32+00:00
+
+ ## the fourth samba
+ - [http://rubensqghenov.blogspot.com](http://rubensqghenov.blogspot.com)
+ - date_published: 2024-03-23T17:57:49+00:00
+
+ ## RubinReports
+ - [http://rubinreports.blogspot.com](http://rubinreports.blogspot.com)
+ - date_published: 2024-03-06T02:32:34+00:00
+
+ ## The Rude Pundit
+ - [http://rudepundit.blogspot.com](http://rudepundit.blogspot.com)
+ - date_published: 2024-06-24T21:41:56+00:00
+
+ ## Poesia distribuída na rua.
+ - [http://ruialme.blogspot.com](http://ruialme.blogspot.com)
+ - date_published: 2022-12-23T00:00:00+00:00
+
  ## RULE 5 SITES
  - [http://rule5sites.blogspot.com](http://rule5sites.blogspot.com)
  - date_published: 2024-06-26T00:08:45+00:00
@@ -3946,76 +4018,4 @@
  ## This is Dice Country
  - [http://thisisdicecountry.blogspot.com](http://thisisdicecountry.blogspot.com)
  - date_published: 2024-07-03T02:33:59+00:00
-
- ## No, Mom. This is not just a phase.
- - [https://thisisnotjustaphase.blogspot.com](https://thisisnotjustaphase.blogspot.com)
- - date_published: 2024-03-08T23:53:29+00:00
-
- ## The Embroiderer's Story
- - [https://thistle-threads.blogspot.com](https://thistle-threads.blogspot.com)
- - date_published: 2024-05-12T08:43:00+00:00
-
- ## Pizzagrenadier's Miniature Wargaming Blog
- - [http://thisveryblog.blogspot.com](http://thisveryblog.blogspot.com)
- - date_published: 2024-05-27T03:04:07+00:00
-
- ## Three-Headed Monster Games
- - [http://thmgames.blogspot.com](http://thmgames.blogspot.com)
- - date_published: 2024-02-19T15:20:39+00:00
-
- ## nonpareil
- - [http://thombeau.blogspot.com](http://thombeau.blogspot.com)
- - date_published: 2024-02-20T14:47:42+00:00
-
- ## Funny Games
- - [http://those-funny-games.blogspot.com](http://those-funny-games.blogspot.com)
- - date_published: 2024-06-13T03:58:40+00:00
-
- ## Those Who Remain
- - [http://thosewhoremain.blogspot.com](http://thosewhoremain.blogspot.com)
- - date_published: 2024-03-13T20:46:52+00:00
-
- ## Thoul's Paradise
- - [http://thoulsparadise.blogspot.com](http://thoulsparadise.blogspot.com)
- - date_published: 2024-07-14T13:46:37+00:00
-
- ## Thousands of HATE...
- - [http://thousandsofhate.blogspot.com](http://thousandsofhate.blogspot.com)
- - date_published: 2024-02-20T06:39:52+00:00
-
- ## three-flies-for-nurgle
- - [https://three-flies-for-nurgle.blogspot.com](https://three-flies-for-nurgle.blogspot.com)
- - date_published: 2024-05-17T23:01:00+00:00
-
- ## Three Men in a Tub
- - [http://threemeninatub.blogspot.com](http://threemeninatub.blogspot.com)
- - date_published: 2024-03-13T01:24:57+00:00
-
- ## Three Pipe Problem
- - [http://threepipeproblem.blogspot.com](http://threepipeproblem.blogspot.com)
- - date_published: 2024-03-13T02:30:08+00:00
-
- ## Three Redheads and Counting . . .
- - [http://threeredheadsandcounting.blogspot.com](http://threeredheadsandcounting.blogspot.com)
- - date_published: 2024-08-28T09:50:01+00:00
-
- ## Three Rounds Brisk...
- - [http://threeroundsbrisk.blogspot.com](http://threeroundsbrisk.blogspot.com)
- - date_published: 2024-03-23T18:23:25+00:00
-
- ## Dark Roasted Blend
- - [http://thrillingwonder.blogspot.com](http://thrillingwonder.blogspot.com)
- - date_published: 2024-07-09T15:00:16+00:00
-
- ## Holy Terra, Throneworld of the Imperium of Mankind
- - [http://throneworld.blogspot.com](http://throneworld.blogspot.com)
- - date_published: 2017-06-09T00:00:00+00:00
-
- ## Throw Grammar from the Train
- - [https://throwgrammarfromthetrain.blogspot.com](https://throwgrammarfromthetrain.blogspot.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Thunderhammers
- - [http://thunderhammers.blogspot.com](http://thunderhammers.blogspot.com)
- - date_published: 2024-07-04T06:18:37+00:00
 

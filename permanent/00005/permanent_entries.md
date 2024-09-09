@@ -1,7 +1,3 @@
- ## Jobify Dev
- - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
- - date_published: 2024-06-19T06:57:50.743139+00:00
-
  ## Next.js Page Rendering • Demo
  - [https://nextjs-rendering-jet.vercel.app](https://nextjs-rendering-jet.vercel.app)
  - date_published: 2024-08-08T17:49:51.651927+00:00
@@ -4033,4 +4029,8 @@ October 2024 in Singapore
  ## Meeting Destination Vienna
  - [https://www.vienna.convention.at](https://www.vienna.convention.at)
  - date_published: 2024-06-28T00:00:00+00:00
+
+ ## My Site
+ - [https://corride.at](https://corride.at)
+ - date_published: 2023-01-26T00:00:00+00:00
 

@@ -1,3 +1,73 @@
+ ## Cierpliwości...
+ - [http://www.blacklivesmatter.com](http://www.blacklivesmatter.com)
+ - date_published: 2024-06-20T11:45:22.014757+00:00
+
+ ## Blackmagic Design
+ - [https://blackmagicdesign.com](https://blackmagicdesign.com)
+ - date_published: 2024-07-30T11:03:09+00:00
+ - tags: ['video editor', 'davinci resolve']
+
+ ## Blackmagic Design Cloud
+ - [https://cloud.blackmagicdesign.com](https://cloud.blackmagicdesign.com)
+ - date_published: 2024-08-06T17:07:12.235446+00:00
+
+ ## Blackmagic Forum • Index page
+ - [https://forum.blackmagicdesign.com](https://forum.blackmagicdesign.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## From Guns to Guitars — Kenn Blanchard
+ - [http://blackmanwithagun.com](http://blackmanwithagun.com)
+ - date_published: 2024-03-25T22:23:35+00:00
+
+ ## Custom Software Development and Consultancy Services | Black Marble
+ - [https://www.blackmarble.com](https://www.blackmarble.com)
+ - date_published: 2024-08-17T01:30:24+00:00
+
+ ## Blackmarket Bakery in CA
+ - [https://www.blackmarketbakery.com](https://www.blackmarketbakery.com)
+ - date_published: 2024-06-20T16:57:44.058172+00:00
+
+ ## Business Analysis Training & Consulting | Blackmetric Business Solutions
+ - [https://www.blackmetric.com](https://www.blackmetric.com)
+ - date_published: 2021-09-03T04:58:13+00:00
+
+ ## BlackMoon Design - great Html5 mobile web games available for licensing and publishing
+ - [https://blackmoondev.com](https://blackmoondev.com)
+ - date_published: 2024-08-20T12:19:20+00:00
+
+ ## Moving us Towards a Self-Driving Future
+ - [https://blackmoreinc.com](https://blackmoreinc.com)
+ - date_published: 2024-07-12T07:23:29.870137+00:00
+
+ ## Home
+ - [https://blacknerdproblems.com](https://blacknerdproblems.com)
+ - date_published: 2024-07-04T13:20:43.317699+00:00
+
+ ## Blacknight Solutions - Domains | Hosting | Email | Broadband
+ - [https://blacknight.com](https://blacknight.com)
+ - date_published: 2023-05-02T00:00:00+00:00
+
+ ## Login
+         - Blacknight Internet Solutions Ltd
+ - [https://cp.blacknighthosting.com](https://cp.blacknighthosting.com)
+ - date_published: 2024-06-16T17:20:35.211075+00:00
+
+ ## Black Nonbelievers, Inc.
+ - [https://blacknonbelievers.com](https://blacknonbelievers.com)
+ - date_published: 2024-06-27T17:44:02+00:00
+
+ ## Blackout Lighting Console
+ - [https://blackout-app.com](https://blackout-app.com)
+ - date_published: 2024-04-28T02:38:18.283364+00:00
+
+ ## Black Page Digital
+ - [http://blackpagedigital.com](http://blackpagedigital.com)
+ - date_published: 2020-04-29T03:18:41+00:00
+
+ ## b l a c k p a w n . c o m
+ - [http://blackpawn.com](http://blackpawn.com)
+ - date_published: 2015-10-17T09:52:02+00:00
+
  ## BlackPeopleMeet.com - Black Dating Network for Black Singles
  - [http://www.blackpeoplemeet.com](http://www.blackpeoplemeet.com)
  - date_published: 2024-09-04T11:50:30.183495+00:00
@@ -1168,7 +1238,7 @@
  - date_published: 2023-10-25T13:04:57.374846+00:00
 
  ## Calculators for Home Improvement Remodeling Construction
- - [https://www.blocklayer.com](https://www.blocklayer.com)
+ - [https://blocklayer.com](https://blocklayer.com)
  - date_published: 2024-06-11T00:38:26.459295+00:00
 
  ## Sign In: Block & Leviton, LLP
@@ -3980,72 +4050,4 @@
  ## Physicists of the Caribbean
  - [http://astrorhysy.blogspot.com](http://astrorhysy.blogspot.com)
  - date_published: 2024-05-18T00:00:00+00:00
-
- ## THE ASTUTE BLOGGERS
- - [http://astuteblogger.blogspot.com](http://astuteblogger.blogspot.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## astutebloggers
- - [http://astutebloggers.blogspot.com](http://astutebloggers.blogspot.com)
- - date_published: 2024-03-13T16:29:53+00:00
-
- ## Alex's blog
- - [http://asurkov.blogspot.com](http://asurkov.blogspot.com)
- - date_published: 2024-06-15T05:59:46+00:00
-
- ## The Cambridge Warlords
- - [https://ataleofcambridgewargamers.blogspot.com](https://ataleofcambridgewargamers.blogspot.com)
- - date_published: 2024-05-22T09:07:06+00:00
-
- ## Nie znaleziono bloga
- - [http://ataleofseveralgamers.blogspot.com](http://ataleofseveralgamers.blogspot.com)
- - date_published: 2024-09-03T22:23:28.734840+00:00
-
- ## A Tau Beginning
- - [http://ataubeginning.blogspot.com](http://ataubeginning.blogspot.com)
- - date_published: 2024-03-13T15:37:14+00:00
-
- ## atdotde
- - [http://atdotde.blogspot.com](http://atdotde.blogspot.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## All Things Eldar
- - [http://ateldar.blogspot.com](http://ateldar.blogspot.com)
- - date_published: 2024-03-13T02:30:15+00:00
-
- ## Atheist Ethicist
- - [http://atheistethicist.blogspot.com](http://atheistethicist.blogspot.com)
- - date_published: 2024-06-21T09:07:48+00:00
-
- ## Athenae Noctua
- - [http://athenaenoctua2013.blogspot.com](http://athenaenoctua2013.blogspot.com)
- - date_published: 2024-09-02T07:52:01+00:00
-
- ## ATOMIC-ANNIHILATION
- - [http://atomic-annhilation.blogspot.com](http://atomic-annhilation.blogspot.com)
- - date_published: 2024-07-30T07:31:56+00:00
-
- ## Scalable Atomicity
- - [http://atomicrules.blogspot.com](http://atomicrules.blogspot.com)
- - date_published: 2024-03-13T18:29:54+00:00
-
- ## Atomic Warlords
- - [http://atomicwarlords.blogspot.com](http://atomicwarlords.blogspot.com)
- - date_published: 2024-05-31T19:12:24+00:00
-
- ## Atop the Fourth Wall
- - [http://atopfourthwall.blogspot.com](http://atopfourthwall.blogspot.com)
- - date_published: 2024-07-11T18:06:35+00:00
-
- ## A Touch of Dutch
- - [http://atouchofdutch.blogspot.com](http://atouchofdutch.blogspot.com)
- - date_published: 2024-03-14T11:21:46+00:00
-
- ## A trainwreck in Maxwell
- - [https://atrainwreckinmaxwell.blogspot.com](https://atrainwreckinmaxwell.blogspot.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Eschaton
- - [http://atrios.blogspot.com](http://atrios.blogspot.com)
- - date_published: 2024-06-26T00:00:00+00:00
 

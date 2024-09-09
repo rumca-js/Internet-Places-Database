@@ -3353,10 +3353,6 @@
  - [https://multion.ai](https://multion.ai)
  - date_published: 2024-08-13T00:00:00+00:00
 
- ## MultiOn AI
- - [https://www.multion.ai](https://www.multion.ai)
- - date_published: 2024-04-01T00:00:00+00:00
-
  ## AI News
  - [https://multiplatform.ai](https://multiplatform.ai)
  - date_published: 2024-05-10T00:00:00+00:00
@@ -4020,4 +4016,8 @@
  ## PANTA RHAI | KI-basierte Technologien
  - [https://www.panta-rh.ai](https://www.panta-rh.ai)
  - date_published: 2024-07-12T08:39:53.391636+00:00
+
+ ## Parabrain.ai | Expert AI trained by your knowledge
+ - [https://www.parabrain.ai](https://www.parabrain.ai)
+ - date_published: 2024-06-19T20:11:54.838721+00:00
 

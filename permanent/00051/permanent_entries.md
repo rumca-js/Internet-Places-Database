@@ -1,3 +1,75 @@
+ ## What we do | Careers | Bloomberg L.P. | About, Products, Contacts
+ - [https://careers.bloomberg.com](https://careers.bloomberg.com)
+ - date_published: 2024-04-28T03:30:52.452909+00:00
+
+ ## Log in to BAUTH
+ - [https://company.edit.cirrus.bloomberg.com](https://company.edit.cirrus.bloomberg.com)
+ - date_published: 2024-07-08T13:57:56.482274+00:00
+
+ ## Bloomberg
+ - [https://login.bloomberg.com](https://login.bloomberg.com)
+ - date_published: 2024-06-28T12:58:23.378979+00:00
+
+ ## Log in to BAUTH
+ - [https://professional.edit.cirrus.bloomberg.com](https://professional.edit.cirrus.bloomberg.com)
+ - date_published: 2024-07-03T07:49:53.876870+00:00
+
+ ## Bloomberg Service Center
+ - [https://service.bloomberg.com](https://service.bloomberg.com)
+ - date_published: 2024-05-08T03:02:25.244801+00:00
+
+ ## Creativity Within Constraints
+ - [https://sponsored.bloomberg.com](https://sponsored.bloomberg.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Bloomberg Adria
+ - [https://ba.bloombergadria.com](https://ba.bloombergadria.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Bloomberg Adria
+ - [https://hr.bloombergadria.com](https://hr.bloombergadria.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## Bloomberg Adria
+ - [https://mk.bloombergadria.com](https://mk.bloombergadria.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Bloomberg Adria
+ - [https://rs.bloombergadria.com](https://rs.bloombergadria.com)
+ - date_published: 2024-06-04T06:12:31.249240+00:00
+
+ ## Bloomberg Adria
+ - [https://si.bloombergadria.com](https://si.bloombergadria.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Bloomberg Adria
+ - [https://www.bloombergadria.com](https://www.bloombergadria.com)
+ - date_published: 2024-09-04T11:53:40.085603+00:00
+
+ ## Bloomberg Arcade | London Square Mile
+ - [https://bloombergarcade.com](https://bloombergarcade.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## 彭博专业服务 | 彭博Bloomberg | 中国
+ - [https://www.bloombergchina.com](https://www.bloombergchina.com)
+ - date_published: 2024-07-03T15:44:58.383146+00:00
+
+ ## Environment & Energy Report
+ - [https://news.bloombergenvironment.com](https://news.bloombergenvironment.com)
+ - date_published: 2024-06-14T23:30:55.469761+00:00
+
+ ## Environment & Energy Report
+ - [https://pro.bloombergenvironment.com](https://pro.bloombergenvironment.com)
+ - date_published: 2024-05-08T03:02:16.866288+00:00
+
+ ## Bloomberg Industry Group
+ - [https://bloombergindustry.com](https://bloombergindustry.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Essential Login
+ - [https://essential.bloombergindustry.com](https://essential.bloombergindustry.com)
+ - date_published: 2024-04-17T19:11:46+00:00
+
  ## 404 - Not Found
  - [https://profile.bloombergindustry.com](https://profile.bloombergindustry.com)
  - date_published: 2019-03-20T17:16:41+00:00
@@ -3987,79 +4059,4 @@
  ## Bookouture
  - [https://www.bookouture.com](https://www.bookouture.com)
  - date_published: 2023-04-03T00:00:00+00:00
-
- ## BookPage | Discover your next great book!
- - [https://assets.bookpage.com](https://assets.bookpage.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## BookPage | Discover your next great book!
- - [https://bookpage.com](https://bookpage.com)
- - date_published: 2024-02-15T00:00:00+00:00
- - tags: ['book reviews']
-
- ## BookPage Subscriptions
- - [https://subscribe.bookpage.com](https://subscribe.bookpage.com)
- - date_published: 2023-01-12T17:21:30+00:00
-
- ## Welcome to The Book Palace!
- - [http://www.bookpalace.com](http://www.bookpalace.com)
- - date_published: 2024-07-17T18:33:07+00:00
-
- ## BookPecker.com: 14509 books summarized in 5 bullet points
- - [https://bookpecker.com](https://bookpecker.com)
- - date_published: 2024-02-26T18:53:52+00:00
- - tags: ['books']
-
- ## BookRaid: Free & Discount Bestselling eBooks
- - [https://bookraid.com](https://bookraid.com)
- - date_published: 2024-05-24T22:19:10.553818+00:00
-
- ## Welcome - bookrastinating.com
- - [https://bookrastinating.com](https://bookrastinating.com)
- - date_published: 2024-04-29T07:57:46.984632+00:00
-
- ## Bookreporter.com |
- - [https://www.bookreporter.com](https://www.bookreporter.com)
- - date_published: 2023-11-07T16:06:19.097099+00:00
-
- ## Bookride
- - [http://www.bookride.com](http://www.bookride.com)
- - date_published: 2015-02-27T00:00:00+00:00
-
- ## BOOK RIOT - Book Recommendations and Reviews
- - [https://bookriot.com](https://bookriot.com)
- - date_published: 2023-10-25T13:08:14.644680+00:00
- - tags: ['books', 'book reviews']
-
- ## Hotel Booking Engine Software for DMOs, Events, Groups | Ripe
- - [https://bookripe.com](https://bookripe.com)
- - date_published: 2024-06-17T13:50:48+00:00
-
- ## Find the Best Indie Books at Books2Read.com
- - [https://books2read.com](https://books2read.com)
- - date_published: 2024-04-28T05:13:21.776383+00:00
-
- ## Cierpliwości...
- - [https://booksamillion.com](https://booksamillion.com)
- - date_published: 2024-04-29T02:17:00.150176+00:00
-
- ## Books & Books | Locally-owned, independent neighborhood bookstore
- - [https://www.booksandbooks.com](https://www.booksandbooks.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## booksaremyfavouriteandbest
- - [https://booksaremyfavouriteandbest.com](https://booksaremyfavouriteandbest.com)
- - date_published: 2024-06-15T10:19:36+00:00
-
- ## Books, Bones & Buffy
- - [https://booksbonesbuffy.com](https://booksbonesbuffy.com)
- - date_published: 2024-05-02T10:21:54.291170+00:00
-
- ## Show HN: I Made a Books Recommendation App Based on Your Mood
- - [https://booksbymood.com](https://booksbymood.com)
- - date_published: 2024-03-26T13:13:04+00:00
-
- ## IndieBound.org
- - [http://www.booksense.com](http://www.booksense.com)
- - date_published: 2024-06-30T01:24:34+00:00
 

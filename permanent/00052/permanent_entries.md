@@ -1,3 +1,78 @@
+ ## BookPage | Discover your next great book!
+ - [https://assets.bookpage.com](https://assets.bookpage.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## BookPage | Discover your next great book!
+ - [https://bookpage.com](https://bookpage.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+ - tags: ['book reviews']
+
+ ## BookPage Subscriptions
+ - [https://subscribe.bookpage.com](https://subscribe.bookpage.com)
+ - date_published: 2023-01-12T17:21:30+00:00
+
+ ## Welcome to The Book Palace!
+ - [http://www.bookpalace.com](http://www.bookpalace.com)
+ - date_published: 2024-07-17T18:33:07+00:00
+
+ ## BookPecker.com: 14509 books summarized in 5 bullet points
+ - [https://bookpecker.com](https://bookpecker.com)
+ - date_published: 2024-02-26T18:53:52+00:00
+ - tags: ['books']
+
+ ## BookRaid: Free & Discount Bestselling eBooks
+ - [https://bookraid.com](https://bookraid.com)
+ - date_published: 2024-05-24T22:19:10.553818+00:00
+
+ ## Welcome - bookrastinating.com
+ - [https://bookrastinating.com](https://bookrastinating.com)
+ - date_published: 2024-04-29T07:57:46.984632+00:00
+
+ ## Bookreporter.com |
+ - [https://www.bookreporter.com](https://www.bookreporter.com)
+ - date_published: 2023-11-07T16:06:19.097099+00:00
+
+ ## Bookride
+ - [http://www.bookride.com](http://www.bookride.com)
+ - date_published: 2015-02-27T00:00:00+00:00
+
+ ## BOOK RIOT - Book Recommendations and Reviews
+ - [https://bookriot.com](https://bookriot.com)
+ - date_published: 2023-10-25T13:08:14.644680+00:00
+ - tags: ['books', 'book reviews']
+
+ ## Hotel Booking Engine Software for DMOs, Events, Groups | Ripe
+ - [https://bookripe.com](https://bookripe.com)
+ - date_published: 2024-06-17T13:50:48+00:00
+
+ ## Find the Best Indie Books at Books2Read.com
+ - [https://books2read.com](https://books2read.com)
+ - date_published: 2024-04-28T05:13:21.776383+00:00
+
+ ## Cierpliwości...
+ - [https://booksamillion.com](https://booksamillion.com)
+ - date_published: 2024-04-29T02:17:00.150176+00:00
+
+ ## Books & Books | Locally-owned, independent neighborhood bookstore
+ - [https://www.booksandbooks.com](https://www.booksandbooks.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## booksaremyfavouriteandbest
+ - [https://booksaremyfavouriteandbest.com](https://booksaremyfavouriteandbest.com)
+ - date_published: 2024-06-15T10:19:36+00:00
+
+ ## Books, Bones & Buffy
+ - [https://booksbonesbuffy.com](https://booksbonesbuffy.com)
+ - date_published: 2024-05-02T10:21:54.291170+00:00
+
+ ## Show HN: I Made a Books Recommendation App Based on Your Mood
+ - [https://booksbymood.com](https://booksbymood.com)
+ - date_published: 2024-03-26T13:13:04+00:00
+
+ ## IndieBound.org
+ - [http://www.booksense.com](http://www.booksense.com)
+ - date_published: 2024-06-30T01:24:34+00:00
+
  ## Books In Print: Sign In
  - [http://www.booksinprint.com](http://www.booksinprint.com)
  - date_published: 2024-07-21T21:56:03.405503+00:00
@@ -3965,82 +4040,4 @@
  - [https://brianhertzog.com](https://brianhertzog.com)
  - date_published: 2023-12-24T18:30:50.349253+00:00
  - tags: ['personal']
-
- ## Brian Ichter
- - [https://brianichter.com](https://brianichter.com)
- - date_published: 2024-02-26T06:25:27+00:00
-
- ## Start Here | Brian DeVries
- - [https://brianjdevries.com](https://brianjdevries.com)
- - date_published: 2024-03-22T23:04:08.624357+00:00
- - tags: ['personal']
-
- ## Brian Keng
- - [https://briankeng.com](https://briankeng.com)
- - date_published: 2024-04-28T03:30:43.682895+00:00
-
- ## Brian Kitano
- - [https://blog.briankitano.com](https://blog.briankitano.com)
- - date_published: 2023-10-25T13:12:45.233677+00:00
-
- ## React App
- - [https://moire.briankitano.com](https://moire.briankitano.com)
- - date_published: 2023-06-24T16:29:15+00:00
-
- ## React App
- - [https://wobegon.briankitano.com](https://wobegon.briankitano.com)
- - date_published: 2023-06-24T16:42:52+00:00
-
- ## Brian Kleiber - SEO Analyst & Content Marketing
- - [https://www.briankleiber.com](https://www.briankleiber.com)
- - date_published: 2023-12-30T22:23:37.854421+00:00
- - tags: ['personal']
-
- ## bkm
- - [https://briankm.com](https://briankm.com)
- - date_published: 2000-01-01T00:00:00+00:00
- - tags: ['personal']
-
- ## Brian Koberlein
- - [https://briankoberlein.com](https://briankoberlein.com)
- - date_published: 2023-10-25T13:12:49.703150+00:00
-
- ## Brian Koponen.com
- - [https://briankoponen.com](https://briankoponen.com)
- - date_published: 2024-06-12T00:00:00+00:00
- - tags: ['blog', 'warcraft', 'diablo']
-
- ## Solving problems with code...
- - [https://briankvagnini.com](https://briankvagnini.com)
- - date_published: 2023-11-29T16:22:24.722622+00:00
- - tags: ['personal']
-
- ## Open-Source Routing and Network Simulation
- - [https://brianlinkletter.com](https://brianlinkletter.com)
- - date_published: 2024-05-08T03:29:35.149688+00:00
- - tags: ['articles', 'tech']
-
- ## Brian Lovin
- - [https://brianlovin.com](https://brianlovin.com)
- - date_published: 2024-05-06T14:14:40.422398+00:00
-
- ## Brian Lumley.com Home Page | The Undead, Undying, Unforgettable Worlds
- - [https://brianlumley.com](https://brianlumley.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## brianmay.com - Home
- - [http://www.brianmay.com](http://www.brianmay.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Brian Micklethwait's New Blog
- - [https://www.brianmicklethwaitsnewblog.com](https://www.brianmicklethwaitsnewblog.com)
- - date_published: 2024-07-03T22:25:14.848759+00:00
-
- ## Brian Moore — artist / creative director
- - [https://brianmoore.com](https://brianmoore.com)
- - date_published: 2023-10-25T13:13:04.355704+00:00
-
- ## Wine Tasting Los Angeles - Virtual Wine Tasting
- - [https://briannecohen.com](https://briannecohen.com)
- - date_published: 2024-05-24T00:00:00+00:00
 
