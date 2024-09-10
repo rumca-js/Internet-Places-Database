@@ -124,6 +124,10 @@
  - [https://inaccessible.ac](https://inaccessible.ac)
  - date_published: 2024-08-07T21:02:08.523927+00:00
 
+ ## IRIS
+ - [http://www.iris.ac](http://www.iris.ac)
+ - date_published: 2024-07-04T09:38:46+00:00
+
  ## ISC E-journals
  - [https://ecc.isc.ac](https://ecc.isc.ac)
  - date_published: 2024-07-09T21:17:23.395954+00:00
@@ -1277,6 +1281,10 @@
  ## GP Günter Papenburg AG,  Logistik,  Günter Papenburg AG
  - [http://www.gp.ag](http://www.gp.ag)
  - date_published: 2024-07-13T16:18:31.131523+00:00
+
+ ## Jupiter
+ - [https://jup.ag](https://jup.ag)
+ - date_published: 2024-01-29T00:00:00+00:00
 
  ## Jupiter Terminal
  - [https://terminal.jup.ag](https://terminal.jup.ag)
@@ -3440,6 +3448,10 @@ Welcome
  - [https://support.copy.ai](https://support.copy.ai)
  - date_published: 2024-06-21T00:00:00+00:00
 
+ ## CopyCopter · AI-powered Text-to-Video Generation Tool
+ - [https://copycopter.ai](https://copycopter.ai)
+ - date_published: 2024-09-09T21:39:04.889102+00:00
+
  ## Generate Content & Copy In Seconds With AI
  - [https://copymatic.ai](https://copymatic.ai)
  - date_published: 2021-04-19T16:03:07+00:00
@@ -4013,16 +4025,4 @@ Welcome
  ## Domino University
  - [https://university.domino.ai](https://university.domino.ai)
  - date_published: 2024-06-16T16:11:04.662622+00:00
-
- ## dopeloop.ai
- - [https://dopeloop.ai](https://dopeloop.ai)
- - date_published: 2023-07-24T12:23:34+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://cdn.double4.ai](https://cdn.double4.ai)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## DQLabs Modern Data Quality Platform
- - [https://dqlabs.ai](https://dqlabs.ai)
- - date_published: 2024-03-11T00:00:00+00:00
 

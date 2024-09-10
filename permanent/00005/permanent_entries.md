@@ -1,3 +1,112 @@
+ ## Automatic, AI-generated interview notes | Metaview
+ - [https://metaview-azsdw0xu5-metaview.vercel.app](https://metaview-azsdw0xu5-metaview.vercel.app)
+ - date_published: 2024-08-19T12:13:35.550063+00:00
+
+ ## @storybook/cli - Storybook
+ - [https://meteor-component-library.vercel.app](https://meteor-component-library.vercel.app)
+ - date_published: 2024-09-04T15:35:03.947400+00:00
+
+ ## GitHub - blairanderson/microicon: SVG icon microservice
+ - [https://microicon-clone.vercel.app](https://microicon-clone.vercel.app)
+ - date_published: 2024-04-30T00:34:05.252523+00:00
+
+ ## MiniJS
+ - [https://minijs-zeta.vercel.app](https://minijs-zeta.vercel.app)
+ - date_published: 2024-07-19T22:26:14.634076+00:00
+
+ ## Mitul Shah
+ - [https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app](https://mitul-h724a14h4-mituls-projects-b6e53694.vercel.app)
+ - date_published: 2024-07-09T19:16:34.644172+00:00
+
+ ## Moddermore
+ - [https://moddermore.vercel.app](https://moddermore.vercel.app)
+ - date_published: 2024-05-15T02:48:31.617481+00:00
+
+ ## A Modern Web for Hacker News – Open-Source and Seeking Feedback
+ - [https://modern-hacker-news.vercel.app](https://modern-hacker-news.vercel.app)
+ - date_published: 2023-12-31T14:00:00+00:00
+
+ ## Moments: Personalised Meditations in Seconds
+ - [https://momentsai.vercel.app](https://momentsai.vercel.app)
+ - date_published: 2024-06-19T20:50:51.727960+00:00
+
+ ## Show HN: I made a Pinterest clone using SigLIP image embeddings
+ - [https://mood-amber.vercel.app](https://mood-amber.vercel.app)
+ - date_published: 2024-02-16T02:52:01+00:00
+
+ ## Moogle: Semantic search over mathlib4
+ - [https://moogle-morphlabs.vercel.app](https://moogle-morphlabs.vercel.app)
+ - date_published: 2024-05-07T15:57:45.618859+00:00
+
+ ## Movie/Book Recommender
+ - [https://movie-and-book-recommender.vercel.app](https://movie-and-book-recommender.vercel.app)
+ - date_published: 2024-06-19T21:38:47.595790+00:00
+
+ ## movie-web
+ - [https://movie-web-alpha-eight.vercel.app](https://movie-web-alpha-eight.vercel.app)
+ - date_published: 2024-05-08T10:44:20.844587+00:00
+
+ ## Best Medical Record Review Services for Attorneys in USA
+ - [https://mrr-health-tech.vercel.app](https://mrr-health-tech.vercel.app)
+ - date_published: 2024-06-22T22:33:42.875723+00:00
+
+ ## MUD | Framework for onchain applications
+ - [https://mud-docs-6z1ag54lx-latticexyz.vercel.app](https://mud-docs-6z1ag54lx-latticexyz.vercel.app)
+ - date_published: 2024-04-30T01:55:29.205632+00:00
+
+ ## MUD | Framework for onchain applications
+ - [https://mud-docs-745xgsyv9-latticexyz.vercel.app](https://mud-docs-745xgsyv9-latticexyz.vercel.app)
+ - date_published: 2024-09-04T12:29:40.311260+00:00
+
+ ## MUD | Framework for onchain applications
+ - [https://mud-docs-o2hla2qt0-latticexyz.vercel.app](https://mud-docs-o2hla2qt0-latticexyz.vercel.app)
+ - date_published: 2024-06-04T12:50:57.860875+00:00
+
+ ## Music Player
+ - [https://musicplayer-dusky.vercel.app](https://musicplayer-dusky.vercel.app)
+ - date_published: 2024-07-14T09:42:25.678394+00:00
+
+ ## Not a Number
+ - [https://nan-archive.vercel.app](https://nan-archive.vercel.app)
+ - date_published: 2024-05-08T00:41:24.126353+00:00
+
+ ## React App
+ - [https://native-ads-two.vercel.app](https://native-ads-two.vercel.app)
+ - date_published: 2024-05-04T06:41:03.171139+00:00
+
+ ## Show HN: I built a website to share files and messages without any server
+ - [https://neighbor-share.vercel.app](https://neighbor-share.vercel.app)
+ - date_published: 2024-05-05T07:42:13+00:00
+
+ ## Neobrutalism components
+ - [https://neobrutalism-components.vercel.app](https://neobrutalism-components.vercel.app)
+ - date_published: 2024-04-07T06:03:59+00:00
+ - tags: ['brutalist web']
+
+ ## Emil Kowalski
+ - [https://new-emilkowalski.vercel.app](https://new-emilkowalski.vercel.app)
+ - date_published: 2024-06-22T13:58:54.989772+00:00
+
+ ## External Link
+ - [https://new-portfolio-lani.vercel.app](https://new-portfolio-lani.vercel.app)
+ - date_published: 2024-08-19T08:38:33.311292+00:00
+
+ ## New Shoe
+ - [https://newshows.vercel.app](https://newshows.vercel.app)
+ - date_published: 2024-07-14T10:06:21.498493+00:00
+
+ ## NextAuth.js Example
+ - [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app)
+ - date_published: 2024-04-29T07:20:05.749263+00:00
+
+ ## Devansh Bajaj
+ - [https://nextjs-devanshblog.vercel.app](https://nextjs-devanshblog.vercel.app)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Jobify Dev
+ - [https://nextjs-jobify-production.vercel.app](https://nextjs-jobify-production.vercel.app)
+ - date_published: 2024-06-19T06:57:50.743139+00:00
+
  ## Next.js Page Rendering • Demo
  - [https://nextjs-rendering-jet.vercel.app](https://nextjs-rendering-jet.vercel.app)
  - date_published: 2024-08-08T17:49:51.651927+00:00
@@ -53,6 +162,10 @@
  ## OctoArt
  - [https://octoart.vercel.app](https://octoart.vercel.app)
  - date_published: 2023-10-30T18:59:23.812847+00:00
+
+ ## Open Graph Image as a Service
+ - [https://og-cards-chi.vercel.app](https://og-cards-chi.vercel.app)
+ - date_published: 2024-09-09T13:52:31.374632+00:00
 
  ## Oggie Sutrisna - Mushroom's Diary
  - [https://oggiesutrisna.vercel.app](https://oggiesutrisna.vercel.app)
@@ -2441,6 +2554,10 @@
  - date_published: 2024-06-07T08:34:39.335167+00:00
  - tags: ['personal']
 
+ ## Home - MacKenzie Art Gallery
+ - [https://mackenzie.art](https://mackenzie.art)
+ - date_published: 2024-09-09T00:00:00+00:00
+
  ## Martín Bonadeo
  - [https://www.martinbonadeo.art](https://www.martinbonadeo.art)
  - date_published: 2019-03-02T15:15:30+00:00
@@ -2485,6 +2602,10 @@
  ## Museum Kurhaus Kleve
  - [https://www.mkk.art](https://www.mkk.art)
  - date_published: 2024-07-13T14:33:26.031804+00:00
+
+ ## Exploring Mycofi
+ - [https://mycofi.art](https://mycofi.art)
+ - date_published: 2024-02-25T00:00:00+00:00
 
  ## Kunstharz eingießen - MYMEMO
  - [https://mymemo.art](https://mymemo.art)
@@ -2722,6 +2843,10 @@
  ## ThumbnailMaker - #1 AI thumbnail maker!
  - [https://thumbnailmaker.art](https://thumbnailmaker.art)
  - date_published: 2024-06-19T20:04:46.849198+00:00
+
+ ## Mastodon
+ - [https://social.tomstu.art](https://social.tomstu.art)
+ - date_published: 2024-09-08T00:00:00+00:00
 
  ## Tom Stuart
  - [https://tomstu.art](https://tomstu.art)
@@ -3909,128 +4034,4 @@ October 2024 in Singapore
  ## Brother Online Store
  - [https://store.brother.at](https://store.brother.at)
  - date_published: 2024-06-18T06:02:57.675637+00:00
-
- ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
- - [https://www.brother.at](https://www.brother.at)
- - date_published: 2024-05-02T11:36:03.685174+00:00
-
- ## brunnmeister.atwebsite in der Warteschleife
- - [https://brunnmeister.at](https://brunnmeister.at)
- - date_published: 2024-07-18T06:13:34.489383+00:00
-
- ## IKT-Sicherheitskonferenz
- - [https://seminar.bundesheer.at](https://seminar.bundesheer.at)
- - date_published: 2024-07-13T09:03:44.822283+00:00
-
- ## Business-austria.at presented by Marktplatz-Mittelstand.de
- - [http://www.business-austria.at](http://www.business-austria.at)
- - date_published: 2022-03-07T13:50:57+00:00
-
- ## frontpage - BVZ.at
- - [http://www.bvz.at](http://www.bvz.at)
- - date_published: 2024-07-20T15:05:32+00:00
-
- ## Home of the Hitmen
- - [http://hitmen.c02.at](http://hitmen.c02.at)
- - date_published: 2023-09-12T06:27:47+00:00
-
- ## Chaos Computer Club Wien (C3W)
- - [https://c3w.at](https://c3w.at)
- - date_published: 2024-06-03T13:19:48+00:00
-
- ## CryptPad: end-to-end encrypted collaboration suite
- - [https://pads.c3w.at](https://pads.c3w.at)
- - date_published: 2023-12-22T22:13:19+00:00
-
- ## Unternehmensberatung für Change- und Prozessmanagement
- - [https://www.camillo-patzl.at](https://www.camillo-patzl.at)
- - date_published: 2024-08-18T11:33:53.498279+00:00
-
- ## Großartige Serien und Filme einfach online streamen  | CANAL+
- - [https://www.canalplus.at](https://www.canalplus.at)
- - date_published: 2024-06-25T21:53:17.146486+00:00
-
- ## Capitalist Exploits – Global Investment Research
- - [https://capitalistexploits.at](https://capitalistexploits.at)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Mit Capterra die richtige Software für dein Unternehmen finden
- - [https://www.capterra.at](https://www.capterra.at)
- - date_published: 2024-07-20T19:26:22.512731+00:00
-
- ## Cashback
- - [https://cashbackonline.at](https://cashbackonline.at)
- - date_published: 2024-06-25T18:36:14+00:00
-
- ## CCC Salzburg
- - [https://cccsbg.at](https://cccsbg.at)
- - date_published: 2024-07-24T16:25:46.354980+00:00
-
- ## ceeba.at
- - [http://www.ceeba.at](http://www.ceeba.at)
- - date_published: 2024-07-12T05:17:02.803237+00:00
-
- ## CERT.at
- - [https://www.cert.at](https://www.cert.at)
- - date_published: 2024-06-21T16:06:59+00:00
-
- ## Candera CGI Studio - the Powerful Design Tool for your Embedded HMI
- - [https://cgistudio.at](https://cgistudio.at)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## CCC Salzburg
- - [https://sbg.chaostreff.at](https://sbg.chaostreff.at)
- - date_published: 2024-07-13T00:00:21+00:00
-
- ## Citroën Pro – Angebote Nutzfahrzeuge & Firmenwagen | Citroën
- - [https://business.citroen.at](https://business.citroen.at)
- - date_published: 2024-07-24T15:41:07.764590+00:00
-
- ## Citroën Konfigurator | Personalisieren Sie das Modell Ihrer Wahl
- - [https://carstore.citroen.at](https://carstore.citroen.at)
- - date_published: 2024-08-18T11:07:49.896207+00:00
-
- ## Service Plan - Citroen
- - [https://onlinetermin.citroen.at](https://onlinetermin.citroen.at)
- - date_published: 2024-08-18T11:07:51.911298+00:00
-
- ## Citroën
- - [https://services-store.citroen.at](https://services-store.citroen.at)
- - date_published: 2024-08-18T11:07:47.725354+00:00
-
- ## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Austria
- - [https://citroen.at](https://citroen.at)
- - date_published: 2023-12-11T16:02:43.331356+00:00
-
- ## CITROËN KAUFT IHR AUTO - Kostenlose Fahrzeugbewertung
- - [https://www.citroen-kauft-ihr-auto.at](https://www.citroen-kauft-ihr-auto.at)
- - date_published: 2024-07-12T06:30:32.741495+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.at](https://www.citroenorigins.at)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## Clifford Wolf's Personal Homepage 2024 - Computers & more
- - [http://www.clifford.at](http://www.clifford.at)
- - date_published: 2022-01-20T04:21:56+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.at](https://colorprinter.at)
- - date_published: 2021-05-02T21:20:43+00:00
-
- ## Presseclub Concordia
- - [https://concordia.at](https://concordia.at)
- - date_published: 2024-06-18T15:37:53.602074+00:00
-
- ## Conrad Electronic » Alle Teile des Erfolgs
- - [https://www.conrad.at](https://www.conrad.at)
- - date_published: 2024-07-13T13:33:00.358121+00:00
-
- ## Meeting Destination Vienna
- - [https://www.vienna.convention.at](https://www.vienna.convention.at)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## My Site
- - [https://corride.at](https://corride.at)
- - date_published: 2023-01-26T00:00:00+00:00
 

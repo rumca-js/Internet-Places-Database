@@ -1,3 +1,60 @@
+ ## About · Jesal Gadhia
+ - [https://jes.al](https://jes.al)
+ - date_published: 2023-10-25T09:01:04.989896+00:00
+ - tags: ['personal']
+
+ ## jod.al
+ - [https://jod.al](https://jod.al)
+ - date_published: 2024-06-28T20:11:11.722023+00:00
+
+ ## juan.al
+ - [https://juan.al](https://juan.al)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Pitch your startup to top angels, VCs and accelerators
+ - [https://kern.al](https://kern.al)
+ - date_published: 2024-06-18T17:38:53.786565+00:00
+
+ ## keytern.al
+ - [https://keytern.al](https://keytern.al)
+ - date_published: 2016-10-04T21:36:47+00:00
+
+ ## Grow your startup with viral launch videos | LaunchViral
+ - [https://launchvir.al](https://launchvir.al)
+ - date_published: 2024-08-18T16:03:58.901792+00:00
+
+ ## lazysoci.al - lemmy for the lazy
+ - [https://lazysoci.al](https://lazysoci.al)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Alpro Development
+ - [https://lushka.al](https://lushka.al)
+ - date_published: 2024-05-09T08:24:21.122959+00:00
+
+ ## www.make-it-in-germany.com/al
+ - [https://www.make-it-in-germany.al](https://www.make-it-in-germany.al)
+ - date_published: 2024-07-13T17:32:33.978174+00:00
+
+ ## Mediadesk
+ - [https://mediadesk.al](https://mediadesk.al)
+ - date_published: 2024-08-18T14:10:12.772789+00:00
+
+ ## Ariq Naufal
+ - [https://ariq.nauf.al](https://ariq.nauf.al)
+ - date_published: 2023-03-19T04:36:00+00:00
+
+ ## Naval
+ - [https://nav.al](https://nav.al)
+ - date_published: 2023-10-25T11:45:20.135109+00:00
+
+ ## Workshops | Nihal Ahmed | Ikigai Coach
+ - [https://nih.al](https://nih.al)
+ - date_published: 2024-07-13T04:25:57.040533+00:00
+
+ ## Nihaal Sangha
+ - [https://niha.al](https://niha.al)
+ - date_published: 2024-07-13T04:12:51.838606+00:00
+
  ## #APPS2024 – Albanian Power Platform Summit
  - [https://powerplatformsummit.al](https://powerplatformsummit.al)
  - date_published: 2024-08-11T17:43:47.880013+00:00
@@ -1338,6 +1395,10 @@
  - [https://staging.bsky.app](https://staging.bsky.app)
  - date_published: 2024-04-28T05:29:44.625996+00:00
 
+ ## Bubblic
+ - [https://www.bubblic.app](https://www.bubblic.app)
+ - date_published: 2024-04-24T22:53:01+00:00
+
  ## Budge - Get Out of Credit Card Debt Quickly
  - [http://www.budge.app](http://www.budge.app)
  - date_published: 2024-07-05T00:00:00+00:00
@@ -1365,6 +1426,10 @@
  ## Cafecito
  - [https://cafecito.app](https://cafecito.app)
  - date_published: 2024-09-03T22:39:05.246141+00:00
+
+ ## ‎CALA
+ - [https://cala.app](https://cala.app)
+ - date_published: 2024-09-09T22:24:22.008463+00:00
 
  ## CallApp - Free Caller ID & Phone Call Blocker app
  - [https://call.app](https://call.app)
@@ -1611,6 +1676,10 @@
  ## Welcome to CompressX | CompressX Documentation
  - [https://docs.compressx.app](https://docs.compressx.app)
  - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Concentration - Minimalistic Pomodoro timer for iPhone and Android
+ - [https://concentration.app](https://concentration.app)
+ - date_published: 2024-09-09T21:48:39.507537+00:00
 
  ## Concepts App • Infinite, Flexible Sketching
  - [https://concepts.app](https://concepts.app)
@@ -2140,6 +2209,10 @@
  ## EpubKit
  - [https://epubkit.app](https://epubkit.app)
  - date_published: 2024-07-18T23:05:15.277956+00:00
+
+ ## eqMac - System Audio Equalizer and App Volume Mixer for macOS
+ - [https://eqmac.app](https://eqmac.app)
+ - date_published: 2024-09-09T16:16:38.603341+00:00
 
  ## Equals | The next-generation spreadsheet
  - [https://equals.app](https://equals.app)
@@ -3472,6 +3545,10 @@
  - [https://lungy.app](https://lungy.app)
  - date_published: 2023-10-25T11:47:06.937675+00:00
 
+ ## Home
+ - [https://lunr.app](https://lunr.app)
+ - date_published: 2024-09-09T16:33:10.796583+00:00
+
  ## Maccy - macOS clipboard manager
  - [https://maccy.app](https://maccy.app)
  - date_published: 2023-03-17T16:34:58+00:00
@@ -3954,80 +4031,4 @@
  ## My Astro Blog
  - [https://astro-blog-template.netlify.app](https://astro-blog-template.netlify.app)
  - date_published: 2024-09-04T04:55:09.379544+00:00
-
- ## Astrofy | Personal Portfolio Website Template
- - [https://astrofy-template.netlify.app](https://astrofy-template.netlify.app)
- - date_published: 2024-07-19T16:23:28.132376+00:00
-
- ## Astro Guestbook
- - [https://astro-guestbook.netlify.app](https://astro-guestbook.netlify.app)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Astrofy | Personal Portfolio Website Template
- - [https://astro-modern-personal-website.netlify.app](https://astro-modern-personal-website.netlify.app)
- - date_published: 2024-04-29T07:28:42.208361+00:00
-
- ## Astro
- - [https://astro-moon-landing.netlify.app](https://astro-moon-landing.netlify.app)
- - date_published: 2024-06-21T20:50:37.430616+00:00
-
- ## Welcome to Astro.
- - [https://astro-platform-starter.netlify.app](https://astro-platform-starter.netlify.app)
- - date_published: 2024-06-21T20:50:36.040615+00:00
-
- ## Astrolize - Starter Template for Astro
- - [https://astro-starter-theme.netlify.app](https://astro-starter-theme.netlify.app)
- - date_published: 2024-05-09T08:14:29.616339+00:00
-
- ## Ackee
- - [https://at-ackee.netlify.app](https://at-ackee.netlify.app)
- - date_published: 2024-04-29T07:56:01.462065+00:00
-
- ## avi12's Official Website
- - [https://avi12-website.netlify.app](https://avi12-website.netlify.app)
- - date_published: 2024-07-19T15:49:06.268577+00:00
-
- ## Bắc Kỳ Vietnamese Canteen
- - [https://backy.netlify.app](https://backy.netlify.app)
- - date_published: 2024-07-09T19:05:49.221193+00:00
-
- ## Batakköylü Düğün Salonu
- - [https://batakkoylu.netlify.app](https://batakkoylu.netlify.app)
- - date_published: 2024-07-02T19:30:54.065906+00:00
-
- ## Beautiful Experiences
- - [https://beautifulexperiences.netlify.app](https://beautifulexperiences.netlify.app)
- - date_published: 2024-07-09T19:28:18.992370+00:00
-
- ## Home | Blog Pro (Hugo Theme)
- - [https://blog-pro-theme.netlify.app](https://blog-pro-theme.netlify.app)
- - date_published: 2024-07-20T05:37:03.918986+00:00
-
- ## Boardgame Coop
- - [https://boardgame-coop.netlify.app](https://boardgame-coop.netlify.app)
- - date_published: 2024-07-14T09:07:50.934607+00:00
-
- ## Bonso
- - [https://bonso-hugo.netlify.app](https://bonso-hugo.netlify.app)
- - date_published: 2020-05-29T00:00:00+00:00
-
- ## Bookmark Divider
- - [https://bookmark-divider.netlify.app](https://bookmark-divider.netlify.app)
- - date_published: 2024-07-02T18:43:40.284445+00:00
-
- ## Winnie Bosibori
- - [https://bosibori.netlify.app](https://bosibori.netlify.app)
- - date_published: 2024-08-06T23:37:24.850204+00:00
-
- ## Catbot Chat
- - [https://botcat.netlify.app](https://botcat.netlify.app)
- - date_published: 2024-07-22T17:11:11.762691+00:00
-
- ## React App
- - [https://bubble-wrap.netlify.app](https://bubble-wrap.netlify.app)
- - date_published: 2024-07-02T20:49:37.828116+00:00
-
- ## 🦉 Bubo Reader
- - [https://bubo-rss-demo.netlify.app](https://bubo-rss-demo.netlify.app)
- - date_published: 2024-06-19T22:13:39.589238+00:00
 
