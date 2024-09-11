@@ -1,3 +1,43 @@
+ ## localfirst.fm - A podcast about local-first software development.
+ - [https://localfirst-r06no9ylu-schickling-pro.vercel.app](https://localfirst-r06no9ylu-schickling-pro.vercel.app)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Hello Luna
+ - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
+ - date_published: 2023-10-25T08:36:44.066507+00:00
+
+ ## Open Graph Image as a Service
+ - [https://madog.vercel.app](https://madog.vercel.app)
+ - date_published: 2024-05-14T03:35:03.934653+00:00
+
+ ## Mantle | Mass Adoption of Decentralized and Token-Governed Technologies
+ - [https://mantle-prod.vercel.app](https://mantle-prod.vercel.app)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Mapframe - Solar System
+ - [https://mapframe.vercel.app](https://mapframe.vercel.app)
+ - date_published: 2024-06-20T15:37:48.502063+00:00
+
+ ## Show HN: I made a tool to clean and convert any webpage to Markdown
+ - [https://markdowndown.vercel.app](https://markdowndown.vercel.app)
+ - date_published: 2024-04-14T19:03:58+00:00
+
+ ## Bento
+ - [https://marketing-rcy23zjcs-bento-marketing.vercel.app](https://marketing-rcy23zjcs-bento-marketing.vercel.app)
+ - date_published: 2024-09-09T14:22:56.821434+00:00
+
+ ## Martin di Martino-Marriott | Front-end Web Developer, Nottingham
+ - [https://martindm-uk.vercel.app](https://martindm-uk.vercel.app)
+ - date_published: 2024-01-07T17:48:29.845931+00:00
+
+ ## Mastodon Flock
+ - [https://mastodon-flock.vercel.app](https://mastodon-flock.vercel.app)
+ - date_published: 2023-10-25T08:36:46.987018+00:00
+
+ ## mebo Live2Dサンプル
+ - [https://mebo-live2d-sample.vercel.app](https://mebo-live2d-sample.vercel.app)
+ - date_published: 2024-07-12T18:05:42.077005+00:00
+
  ## Automatic, AI-generated interview notes | Metaview
  - [https://metaview-azsdw0xu5-metaview.vercel.app](https://metaview-azsdw0xu5-metaview.vercel.app)
  - date_published: 2024-08-19T12:13:35.550063+00:00
@@ -1660,6 +1700,14 @@
  - [https://images.google.com.ar](https://images.google.com.ar)
  - date_published: 2024-07-20T07:39:48.327622+00:00
 
+ ## Blog
+ - [https://blog.greatplacetowork.com.ar](https://blog.greatplacetowork.com.ar)
+ - date_published: 2024-09-10T06:31:49+00:00
+
+ ## Certificaciones
+ - [https://certificaciones.greatplacetowork.com.ar](https://certificaciones.greatplacetowork.com.ar)
+ - date_published: 2024-09-10T06:32:03+00:00
+
  ## Inicio | Great Place To Work
  - [https://www.greatplacetowork.com.ar](https://www.greatplacetowork.com.ar)
  - date_published: 2024-06-12T10:42:22.277360+00:00
@@ -1971,6 +2019,10 @@
  ## Attention Required! | Cloudflare
  - [https://www.segu-info.com.ar](https://www.segu-info.com.ar)
  - date_published: 2024-06-21T23:56:39.907081+00:00
+
+ ## SGS es líder mundial en inspección, verificación, ensayos y certificación.
+ - [https://www.sgsgroup.com.ar](https://www.sgsgroup.com.ar)
+ - date_published: 2024-09-10T12:51:26.936145+00:00
 
  ## Alquiler de autos con Sixt rent a car
  - [https://www.sixt.com.ar](https://www.sixt.com.ar)
@@ -3982,56 +4034,4 @@ October 2024 in Singapore
  ## Öffentliche Schulen, Universitäten & Spezialimmobilien
  - [https://www.big.at](https://www.big.at)
  - date_published: 2024-04-07T00:00:00+00:00
-
- ## BBA 2023 - quintessenz - Big Brother Awards 2023 - The Imitation Game – die vorgetäuschte Intelligenz
- - [http://bigbrotherawards.at](http://bigbrotherawards.at)
- - date_published: 2024-07-20T20:45:26.112280+00:00
-
- ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
- - [https://www.bigcommerce.at](https://www.bigcommerce.at)
- - date_published: 2024-07-08T12:40:49.114287+00:00
-
- ## Bilderbuch Shop
- - [https://bilderbuch-musik.at](https://bilderbuch-musik.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Bioreg
- - [http://www.bioreg.at](http://www.bioreg.at)
- - date_published: 2024-06-28T12:06:31.692953+00:00
-
- ## ICSx⁵
- - [https://icsx5.bitfire.at](https://icsx5.bitfire.at)
- - date_published: 2024-06-23T18:42:31+00:00
-
- ## bitfire web engineering
- - [https://www.bitfire.at](https://www.bitfire.at)
- - date_published: 2024-07-14T15:40:30.410573+00:00
-
- ## Zero Waste Onlineshop - plastikfreie Produkte für deinen Alltag
- - [https://blattwende.at](https://blattwende.at)
- - date_published: 2024-06-18T14:30:22.003113+00:00
-
- ## Blogheim.at | Die Heimat der Österreichischen Blogszene
- - [https://blogheim.at](https://blogheim.at)
- - date_published: 2024-05-12T06:40:45.460990+00:00
-
- ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
- - [https://www.blueshield.at](https://www.blueshield.at)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Books in the Fridge
- - [https://booksinthefridge.at](https://booksinthefridge.at)
- - date_published: 2024-05-11T07:10:21.648548+00:00
-
- ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
- - [https://www.bosch-home.at](https://www.bosch-home.at)
- - date_published: 2024-06-16T21:35:40.384152+00:00
-
- ## Brother Online
- - [https://atyourside.brother.at](https://atyourside.brother.at)
- - date_published: 2024-06-17T21:03:52.172392+00:00
-
- ## Brother Online Store
- - [https://store.brother.at](https://store.brother.at)
- - date_published: 2024-06-18T06:02:57.675637+00:00
 

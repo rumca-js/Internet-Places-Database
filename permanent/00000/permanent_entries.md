@@ -263,10 +263,6 @@
  - [https://kube.academy](https://kube.academy)
  - date_published: 2024-06-22T07:44:52+00:00
 
- ## LJLA
- - [https://associates.ljla.academy](https://associates.ljla.academy)
- - date_published: 2024-06-12T01:48:50.943456+00:00
-
  ## Frontpage
  - [https://meddic.academy](https://meddic.academy)
  - date_published: 2024-07-22T18:09:03.261269+00:00
@@ -639,6 +635,10 @@
  - [https://www.google.ae](https://www.google.ae)
  - date_published: 2024-06-15T16:31:56.779183+00:00
 
+ ## Home - Great Place to Work
+ - [http://www.greatplacetowork.ae](http://www.greatplacetowork.ae)
+ - date_published: 2024-09-02T00:00:00+00:00
+
  ## غينيس للأرقام القياسية
  - [https://www.guinnessworldrecords.ae](https://www.guinnessworldrecords.ae)
  - date_published: 2024-05-04T00:00:00+00:00
@@ -941,6 +941,30 @@
  - [https://aci.aero](https://aci.aero)
  - date_published: 2021-04-07T00:00:00+00:00
 
+ ## Homepage | ACI World Insights
+ - [https://blog.aci.aero](https://blog.aci.aero)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## ACI Intelligence Hub
+ - [https://intelligencehub.aci.aero](https://intelligencehub.aci.aero)
+ - date_published: 2024-08-20T19:56:20+00:00
+
+ ## Airport Publications, Data & Reports | Store | ACI World
+ - [https://store.aci.aero](https://store.aci.aero)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## ACI Africa
+ - [https://www.aci-africa.aero](https://www.aci-africa.aero)
+ - date_published: 2024-09-10T10:24:57.558020+00:00
+
+ ## ACI Asia-Pacific and Middle East: Voice of Asia-Pacific and Middle East Airports
+ - [https://www.aci-asiapac.aero](https://www.aci-asiapac.aero)
+ - date_published: 2024-09-10T10:25:00.851357+00:00
+
+ ## ACI-LAC
+ - [https://aci-lac.aero](https://aci-lac.aero)
+ - date_published: 2024-09-10T10:25:12.694411+00:00
+
  ## Home | Times Aerospace
  - [http://www.africanaerospace.aero](http://www.africanaerospace.aero)
  - date_published: 2024-07-09T21:47:49+00:00
@@ -1050,6 +1074,10 @@
  ## Home page
  - [https://www.navblue.aero](https://www.navblue.aero)
  - date_published: 2024-03-13T00:00:00+00:00
+
+ ## ACI Online Training Courses - Online Airport Training Courses - OLC
+ - [https://olc.aero](https://olc.aero)
+ - date_published: 2024-07-16T00:00:00+00:00
 
  ## Parken im Flughafen | Park.Aero
  - [https://eurowings.park.aero](https://eurowings.park.aero)
@@ -1181,6 +1209,10 @@
  ## DjangoCon Africa 2023
  - [https://2023.djangocon.africa](https://2023.djangocon.africa)
  - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Productivity Jobs - People Productivity Solutions Nigeria Ltd
+ - [https://greatjobs.africa](https://greatjobs.africa)
+ - date_published: 2024-09-10T23:52:01.786986+00:00
 
  ## Gumzo (Mastodon)
  - [https://gumzo.africa](https://gumzo.africa)
@@ -3352,6 +3384,14 @@ Welcome
  - [https://consileon.ai](https://consileon.ai)
  - date_published: 2024-09-06T21:11:36.042936+00:00
 
+ ## AI-Driven Identity Risk Intelligence | Constella Intelligence
+ - [https://constella.ai](https://constella.ai)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## AI-Driven Identity Risk Intelligence | Constella Intelligence
+ - [https://www.constella.ai](https://www.constella.ai)
+ - date_published: 2024-08-13T00:00:00+00:00
+
  ## Content at Scale | The World's Most Humanlike AI Writer
  - [https://contentatscale.ai](https://contentatscale.ai)
  - date_published: 2023-10-24T15:51:29+00:00
@@ -3985,44 +4025,4 @@ Welcome
  ## Dimensions Badges
  - [https://badge.dimensions.ai](https://badge.dimensions.ai)
  - date_published: 2024-04-28T03:39:48.517297+00:00
-
- ## Dimensions AI | The most advanced scientific research database
- - [https://www.dimensions.ai](https://www.dimensions.ai)
- - date_published: 2024-07-01T12:50:23+00:00
-
- ## AI-Powered Business Reports in Minutes
- - [https://dimey.ai](https://dimey.ai)
- - date_published: 2024-08-19T12:22:43.706292+00:00
-
- ## Dittto
- - [https://dittto.ai](https://dittto.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## DMLR  Data-centric Machine Learning Research
- - [https://dmlr.ai](https://dmlr.ai)
- - date_published: 2024-07-16T12:52:17+00:00
-
- ## DocsBot AI - Custom chatbots from your documentation
- - [https://docsbot.ai](https://docsbot.ai)
- - date_published: 2024-08-07T19:33:30.894256+00:00
-
- ## Doctrina | AI Education Suite
- - [https://www.doctrina.ai](https://www.doctrina.ai)
- - date_published: 2024-06-19T20:39:41.183748+00:00
-
- ## Login -DocuWriter.ai  ✨ #1 AI Tools for Automated Code & Api documentation, Testing, & Refactoring
- - [https://app.docuwriter.ai](https://app.docuwriter.ai)
- - date_published: 2024-06-21T09:35:39.749991+00:00
-
- ## DocuWriter.ai: AI Code documentation, Testing and Refactor
- - [https://www.docuwriter.ai](https://www.docuwriter.ai)
- - date_published: 2024-05-04T11:55:39.890668+00:00
-
- ## Domino Data Lab: Enterprise AI platform
- - [https://domino.ai](https://domino.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Domino University
- - [https://university.domino.ai](https://university.domino.ai)
- - date_published: 2024-06-16T16:11:04.662622+00:00
 

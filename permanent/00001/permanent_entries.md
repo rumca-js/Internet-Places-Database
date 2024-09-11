@@ -1,3 +1,43 @@
+ ## Dimensions AI | The most advanced scientific research database
+ - [https://www.dimensions.ai](https://www.dimensions.ai)
+ - date_published: 2024-07-01T12:50:23+00:00
+
+ ## AI-Powered Business Reports in Minutes
+ - [https://dimey.ai](https://dimey.ai)
+ - date_published: 2024-08-19T12:22:43.706292+00:00
+
+ ## Dittto
+ - [https://dittto.ai](https://dittto.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## DMLR  Data-centric Machine Learning Research
+ - [https://dmlr.ai](https://dmlr.ai)
+ - date_published: 2024-07-16T12:52:17+00:00
+
+ ## DocsBot AI - Custom chatbots from your documentation
+ - [https://docsbot.ai](https://docsbot.ai)
+ - date_published: 2024-08-07T19:33:30.894256+00:00
+
+ ## Doctrina | AI Education Suite
+ - [https://www.doctrina.ai](https://www.doctrina.ai)
+ - date_published: 2024-06-19T20:39:41.183748+00:00
+
+ ## Login -DocuWriter.ai  ✨ #1 AI Tools for Automated Code & Api documentation, Testing, & Refactoring
+ - [https://app.docuwriter.ai](https://app.docuwriter.ai)
+ - date_published: 2024-06-21T09:35:39.749991+00:00
+
+ ## DocuWriter.ai: AI Code documentation, Testing and Refactor
+ - [https://www.docuwriter.ai](https://www.docuwriter.ai)
+ - date_published: 2024-05-04T11:55:39.890668+00:00
+
+ ## Domino Data Lab: Enterprise AI platform
+ - [https://domino.ai](https://domino.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Domino University
+ - [https://university.domino.ai](https://university.domino.ai)
+ - date_published: 2024-06-16T16:11:04.662622+00:00
+
  ## dopeloop.ai
  - [https://dopeloop.ai](https://dopeloop.ai)
  - date_published: 2023-07-24T12:23:34+00:00
@@ -1367,6 +1407,10 @@
  - [https://harpa.ai](https://harpa.ai)
  - date_published: 2024-06-19T20:12:17.163263+00:00
 
+ ## harrison
+ - [https://harrison.ai](https://harrison.ai)
+ - date_published: 2024-09-10T07:28:42.260212+00:00
+
  ## Harvey
  - [https://app.harvey.ai](https://app.harvey.ai)
  - date_published: 2024-06-21T10:34:39.419041+00:00
@@ -2243,6 +2287,10 @@
  ## Kineo.ai
  - [https://kineo.ai](https://kineo.ai)
  - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Kits AI - Studio-quality AI music tools
+ - [https://www.kits.ai](https://www.kits.ai)
+ - date_published: 2024-08-28T00:00:00+00:00
 
  ## Meet KLapper Legal Assistant - KLapper
  - [https://klapper.ai](https://klapper.ai)
@@ -3972,52 +4020,4 @@
  ## Chatbot
  - [https://bot.orimon.ai](https://bot.orimon.ai)
  - date_published: 2024-06-04T16:59:15+00:00
-
- ## Osmo
- - [https://osmo.ai](https://osmo.ai)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Otter.ai - AI Meeting Note Taker & Real-time AI Transcription
- - [https://otter.ai](https://otter.ai)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Ottic - Evaluate LLM-powered applications
- - [https://ottic.ai](https://ottic.ai)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## outdraw.ai
- - [https://outdraw.ai](https://outdraw.ai)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Outlier
- - [https://app.outlier.ai](https://app.outlier.ai)
- - date_published: 2024-08-06T11:40:59.185229+00:00
-
- ## Outline
- - [https://outline.ai](https://outline.ai)
- - date_published: 2024-06-19T19:07:41.417824+00:00
-
- ## Autonomous Yard Operations & Yard Automation - Outrider
- - [https://outrider.ai](https://outrider.ai)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Outropy
- - [https://outropy.ai](https://outropy.ai)
- - date_published: 2024-05-11T10:39:10.616026+00:00
-
- ## Outset - The AI-Moderated Research Platform
- - [https://www.outset.ai](https://www.outset.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Overland AI
- - [https://www.overland.ai](https://www.overland.ai)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Overview.ai - Next-Gen AI Industrial Vision Systems
- - [https://www.overview.ai](https://www.overview.ai)
- - date_published: 2024-06-21T02:11:17.905556+00:00
-
- ## Overwatch = real-time, global understanding
- - [https://www.overwatchdata.ai](https://www.overwatchdata.ai)
- - date_published: 2024-04-11T00:00:00+00:00
 

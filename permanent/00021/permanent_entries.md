@@ -1,3 +1,481 @@
+ ## udesk
+ - [https://1869114.s4.udesk.cn](https://1869114.s4.udesk.cn)
+ - date_published: 2024-06-29T05:33:21.989088+00:00
+
+ ## 沃丰科技-Udesk-中国人工智能与营销服务解决方案提供商
+ - [https://assets-cli.s4.udesk.cn](https://assets-cli.s4.udesk.cn)
+ - date_published: 2024-06-18T08:50:54+00:00
+
+ ## Socket.IO chat
+ - [https://basevistor.s5.udesk.cn](https://basevistor.s5.udesk.cn)
+ - date_published: 2020-08-14T08:29:12+00:00
+
+ ## udesk
+ - [https://bblcs.s5.udesk.cn](https://bblcs.s5.udesk.cn)
+ - date_published: 2024-05-12T04:11:48.981450+00:00
+
+ ## udesk
+ - [https://creality.s5.udesk.cn](https://creality.s5.udesk.cn)
+ - date_published: 2024-07-04T16:11:55.107778+00:00
+
+ ## 沃丰科技-Udesk-中国人工智能与营销服务解决方案提供商
+ - [https://www.udesk.cn](https://www.udesk.cn)
+ - date_published: 2024-07-11T08:11:34+00:00
+
+ ## 新西兰奥克兰大学中文网站
+ - [https://www.uniauckland.cn](https://www.uniauckland.cn)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## University of Exeter - 欢迎访问英国埃克塞特大学中文官网
+ - [https://www.universityofexeter.cn](https://www.universityofexeter.cn)
+ - date_published: 2024-05-02T10:54:19.496078+00:00
+
+ ## UPDF
+ - [https://accounts.updf.cn](https://accounts.updf.cn)
+ - date_published: 2024-07-05T08:44:02+00:00
+
+ ## UPDF AI Online: Chat with PDF and Ask Anything - GPT4 Powered
+ - [https://ai.updf.cn](https://ai.updf.cn)
+ - date_published: 2024-06-21T11:51:30+00:00
+
+ ## UPDF.cn
+ - [https://checkout.updf.cn](https://checkout.updf.cn)
+ - date_published: 2024-07-11T08:37:57+00:00
+
+ ## 【官网】UPDF-新一代AI智能PDF编辑器
+ - [https://updf.cn](https://updf.cn)
+ - date_published: 2024-05-09T09:29:00.481246+00:00
+
+ ## 提示
+ - [https://url.cn](https://url.cn)
+ - date_published: 2024-06-15T23:55:37.406988+00:00
+
+ ## 万网代理商_阿里云代理商_云服务器_虚拟主机_网页空间_企业邮箱_域名注册
+ - [https://www.v7o.cn](https://www.v7o.cn)
+ - date_published: 2024-07-04T03:09:12.529958+00:00
+
+ ## 维斯塔斯中国
+ - [https://vestas.cn](https://vestas.cn)
+ - date_published: 2021-08-05T00:00:00+00:00
+
+ ## Victron Energy
+ - [https://www.victronenergy.cn](https://www.victronenergy.cn)
+ - date_published: 2024-06-21T18:32:07+00:00
+
+ ## Visa官方网站
+ - [https://visa.cn](https://visa.cn)
+ - date_published: 2024-05-12T04:00:00.755441+00:00
+
+ ## - Vitamix维他密斯中国官方网站-多功能破壁机品牌
+ - [http://www.vitamixblender.cn](http://www.vitamixblender.cn)
+ - date_published: 2020-10-15T00:00:00+00:00
+
+ ## 中大网校_A股上市公司成员机构 【中大英才唯一官方网站】_首页
+ - [http://www.wangxiao.cn](http://www.wangxiao.cn)
+ - date_published: 2024-07-18T06:25:50+00:00
+
+ ## 华数TV - 华数TV全网影视-超新超全超热门电影电视剧综艺动漫直播在线观看
+ - [http://www.wasu.cn](http://www.wasu.cn)
+ - date_published: 2024-07-14T04:18:38.590192+00:00
+
+ ## 首页 微信知识产权
+ - [http://ipr.wechatlegal.cn](http://ipr.wechatlegal.cn)
+ - date_published: 2024-06-24T03:38:27.744215+00:00
+
+ ## 微博
+ - [https://m.weibo.cn](https://m.weibo.cn)
+ - date_published: 2024-05-02T11:08:29.286886+00:00
+
+ ## 微博
+ - [https://weibo.cn](https://weibo.cn)
+ - date_published: 2024-08-19T12:07:31.896094+00:00
+
+ ## 安徽文明网_中共安徽省委宣传部
+ - [http://ah.wenming.cn](http://ah.wenming.cn)
+ - date_published: 2024-06-30T17:03:19.432223+00:00
+
+ ## 重庆文明网
+ - [http://cq.wenming.cn](http://cq.wenming.cn)
+ - date_published: 2024-06-30T17:04:41.685885+00:00
+
+ ## 广东文明网
+ - [http://gd.wenming.cn](http://gd.wenming.cn)
+ - date_published: 2024-06-30T17:07:46.718464+00:00
+
+ ## 广西文明网首页
+ - [http://gx.wenming.cn](http://gx.wenming.cn)
+ - date_published: 2024-06-30T17:03:39.863424+00:00
+
+ ## 贵州文明网
+ - [http://gz.wenming.cn](http://gz.wenming.cn)
+ - date_published: 2024-06-30T17:03:22.600356+00:00
+
+ ## 河北文明网
+ - [http://hb.wenming.cn](http://hb.wenming.cn)
+ - date_published: 2024-06-28T13:05:18+00:00
+
+ ## 河南文明网
+ - [http://hen.wenming.cn](http://hen.wenming.cn)
+ - date_published: 2024-06-30T17:03:01.203592+00:00
+
+ ## 黑龙江文明办
+ - [http://hlj.wenming.cn](http://hlj.wenming.cn)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## 湖南文明网
+ - [http://hun.wenming.cn](http://hun.wenming.cn)
+ - date_published: 2020-04-04T00:00:00+00:00
+
+ ## 中国文明网---您访问的页面已过期
+ - [http://images1.wenming.cn](http://images1.wenming.cn)
+ - date_published: 2022-10-17T13:20:21+00:00
+
+ ## 中国文明网---您访问的页面已过期
+ - [http://images.wenming.cn](http://images.wenming.cn)
+ - date_published: 2022-10-17T13:20:21+00:00
+
+ ## 吉林文明网
+ - [http://jl.wenming.cn](http://jl.wenming.cn)
+ - date_published: 2024-06-28T17:30:14+00:00
+
+ ## 辽宁文明网
+ - [http://ln.wenming.cn](http://ln.wenming.cn)
+ - date_published: 2024-06-28T16:12:09+00:00
+
+ ## 拉萨文明网
+ - [http://ls.wenming.cn](http://ls.wenming.cn)
+ - date_published: 2024-04-16T17:05:42+00:00
+
+ ## 中国文明网邮箱登录
+ - [https://mail.wenming.cn](https://mail.wenming.cn)
+ - date_published: 2024-06-30T17:03:25.290805+00:00
+
+ ## 内蒙古文明网_文明 让生活更美好！
+ - [http://nmg.wenming.cn](http://nmg.wenming.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 宁夏文明网
+ - [http://nx.wenming.cn](http://nx.wenming.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 中国文明网---您访问的页面已过期
+ - [http://pdf.wenming.cn](http://pdf.wenming.cn)
+ - date_published: 2022-10-17T13:20:21+00:00
+
+ ## 山东文明网
+ - [http://sd.wenming.cn](http://sd.wenming.cn)
+ - date_published: 2024-06-30T17:07:05.694884+00:00
+
+ ## 搜索主界面
+ - [http://search.wenming.cn](http://search.wenming.cn)
+ - date_published: 2024-06-30T17:08:58.967803+00:00
+
+ ## 陕西文明网—中国文明网陕西站
+ - [http://shx.wenming.cn](http://shx.wenming.cn)
+ - date_published: 2024-06-30T17:08:07.402954+00:00
+
+ ## 山西文明网
+ - [http://sx.wenming.cn](http://sx.wenming.cn)
+ - date_published: 2024-06-30T17:04:47.425362+00:00
+
+ ## 中国文明网_文明 让生活更美好！
+ - [http://wenming.cn](http://wenming.cn)
+ - date_published: 2024-05-07T16:43:01.310152+00:00
+ - tags: ['china civilization network', 'news']
+
+ ## 新疆文明网
+ - [http://xj.wenming.cn](http://xj.wenming.cn)
+ - date_published: 2024-06-30T17:03:30.991459+00:00
+
+ ## 云南文明网(yn.wenming.cn)
+ - [http://yn.wenming.cn](http://yn.wenming.cn)
+ - date_published: 2024-06-30T17:03:28.938923+00:00
+
+ ## 案例库
+ - [https://aliyunanli.wezhan.cn](https://aliyunanli.wezhan.cn)
+ - date_published: 2024-05-20T10:09:40+00:00
+
+ ## 离退中心
+ - [http://www.whbltzx.cn](http://www.whbltzx.cn)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Microsoft Online Password Reset
+ - [https://passwordreset.activedirectory.windowsazure.cn](https://passwordreset.activedirectory.windowsazure.cn)
+ - date_published: 2024-09-04T17:01:45.513499+00:00
+
+ ## Your expert for installation material, maritime lighting and CCTV. - WISKA - make power smile
+ - [https://www.wiska.cn](https://www.wiska.cn)
+ - date_published: 2024-06-29T09:37:00.821525+00:00
+
+ ## WITTENSTEIN China
+ - [https://www.wittenstein.cn](https://www.wittenstein.cn)
+ - date_published: 2024-07-15T04:10:22.210702+00:00
+
+ ## WizNote
+ - [https://wiz.cn](https://wiz.cn)
+ - date_published: 2024-04-24T09:50:44+00:00
+
+ ## 问卷星_不止问卷调查/在线考试
+ - [https://www.wjx.cn](https://www.wjx.cn)
+ - date_published: 2024-07-16T21:13:31.893728+00:00
+
+ ## 無錫高新区へ投資―無錫高新区―中国国家ハイテク産業開発区、創意文化産業パーク
+ - [http://jp.wndonline.cn](http://jp.wndonline.cn)
+ - date_published: 2024-07-09T18:31:03.641496+00:00
+
+ ## 무석신구 투자하기-무석신구-국가첨단기술산업개발구-문화콘텐츠산업원
+ - [http://kr.wndonline.cn](http://kr.wndonline.cn)
+ - date_published: 2024-07-09T18:30:51.258534+00:00
+
+ ## XINWU DISTRICT, WUXI
+	WUXI NATIONAL HI-TECH DISTRICT
+ - [http://www.wndonline.cn](http://www.wndonline.cn)
+ - date_published: 2024-05-09T06:04:50.852234+00:00
+
+ ## 威科集团 | Wolters Kluwer - 专业解决方案结合了专业知识和先进技术
+ - [https://wolterskluwer.cn](https://wolterskluwer.cn)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Women of China - All China Women's Federation
+ - [http://www.womenofchina.cn](http://www.womenofchina.cn)
+ - date_published: 2024-07-15T10:31:44.782668+00:00
+
+ ## Wondershare Account Center
+ - [https://accounts.wondershare.cn](https://accounts.wondershare.cn)
+ - date_published: 2024-07-13T20:39:50.415967+00:00
+
+ ## 万兴爱画-AI生成艺术创意灵感平台
+ - [https://aigc.wondershare.cn](https://aigc.wondershare.cn)
+ - date_published: 2024-07-13T20:40:53.539001+00:00
+
+ ## 天幕多媒体创作引擎 - 助力客户构建专属大模型及智能应用
+ - [https://ailab.wondershare.cn](https://ailab.wondershare.cn)
+ - date_published: 2024-07-13T20:35:49.309117+00:00
+
+ ## 【官网】万兴录演 - 泛知识分享创作工具 演示|录屏|剪辑软件
+ - [https://democreator.wondershare.cn](https://democreator.wondershare.cn)
+ - date_published: 2024-07-13T20:36:03.398462+00:00
+
+ ## [官网]万兴恢复专家-电脑数据恢复工具_硬盘U盘SD卡|文件误删
+ - [https://huifu.wondershare.cn](https://huifu.wondershare.cn)
+ - date_published: 2024-07-13T20:39:44.274676+00:00
+
+ ## 万兴科技集团股份有限公司 - 社会招聘
+ - [https://job.wondershare.cn](https://job.wondershare.cn)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## 【官网】万兴喵影2024_国产视频剪辑软件_电视电影视频制作编辑工具
+ - [https://miao.wondershare.cn](https://miao.wondershare.cn)
+ - date_published: 2024-07-13T20:39:37.122119+00:00
+
+ ## [官网]万兴PDF编辑器 - 秒会的全能PDF编辑神器
+ - [https://pdf.wondershare.cn](https://pdf.wondershare.cn)
+ - date_published: 2024-07-13T20:39:54.994623+00:00
+
+ ## 视频压缩_电脑录屏软件_视频格式转换 -万兴优转
+ - [https://uniconverter.wondershare.cn](https://uniconverter.wondershare.cn)
+ - date_published: 2024-07-13T20:40:58.555675+00:00
+
+ ## 【官网】万兴播爆-数字人短视频营销神器
+ - [https://virbo.wondershare.cn](https://virbo.wondershare.cn)
+ - date_published: 2024-07-13T20:39:32.844546+00:00
+
+ ## 万兴科技 - 让世界更有创意！
+ - [https://wondershare.cn](https://wondershare.cn)
+ - date_published: 2024-05-11T08:35:20.599797+00:00
+
+ ## 中工网_亿万职工的网上家园
+ - [http://www.workercn.cn](http://www.workercn.cn)
+ - date_published: 2024-06-30T14:06:00.411171+00:00
+
+ ## 世界技能大赛中国组委会官方网站
+ - [http://www.worldskillschina.cn](http://www.worldskillschina.cn)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## 扫码登录 - Wowpop
+ - [https://app.wowpop.cn](https://app.wowpop.cn)
+ - date_published: 2024-06-22T12:24:21.988702+00:00
+
+ ## WowPop智能弹窗_高效网站数字营销工具！
+ - [https://www.wowpop.cn](https://www.wowpop.cn)
+ - date_published: 2024-06-22T12:23:04.025916+00:00
+
+ ## WTW: 激发前驱的视角 | 风险管理、 保险经纪、人力资本和员工福利
+ - [https://www.wtwco.cn](https://www.wtwco.cn)
+ - date_published: 2024-08-06T07:12:20.484194+00:00
+
+ ## 仿丝棉设备_无胶棉设备_喷胶棉设备_硬质棉设备_无纺布设备-青岛昌源隆纺织机械有限公司
+ - [http://www.wufangshebei.cn](http://www.wufangshebei.cn)
+ - date_published: 2022-03-23T00:00:00+00:00
+
+ ## X86派 - 迷你硬件玩家集中地
+ - [http://bbs.x86pi.cn](http://bbs.x86pi.cn)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## X86Pi玩法频道
+ - [https://doc.x86pi.cn](https://doc.x86pi.cn)
+ - date_published: 2024-08-07T19:44:13.535742+00:00
+
+ ## x86Pi官方网站
+ - [https://www.x86pi.cn](https://www.x86pi.cn)
+ - date_published: 2024-04-28T02:53:29.071435+00:00
+
+ ## 小黑盒，为游戏玩家定制的专业应用。发现游戏、分享快乐。
+ - [https://www.xiaoheihe.cn](https://www.xiaoheihe.cn)
+ - date_published: 2024-06-30T02:19:29.741973+00:00
+
+ ## Yuliang Xiu 修宇亮
+ - [https://xiuyuliang.cn](https://xiuyuliang.cn)
+ - date_published: 2024-05-04T15:41:47.617794+00:00
+
+ ## 新疆平安网
+ - [http://www.xjpeace.cn](http://www.xjpeace.cn)
+ - date_published: 2024-07-03T05:15:27+00:00
+
+ ## Xmind - 全功能的头脑风暴和思维导图软件。
+ - [https://xmind.cn](https://xmind.cn)
+ - date_published: 2024-07-13T20:04:10.198914+00:00
+
+ ## 学习强国 - 内容已下线
+ - [https://article.xuexi.cn](https://article.xuexi.cn)
+ - date_published: 2022-01-12T09:31:36+00:00
+
+ ## 学习强国
+ - [https://pc.xuexi.cn](https://pc.xuexi.cn)
+ - date_published: 2023-05-31T06:54:41+00:00
+
+ ## 学习强国
+ - [https://www.xuexi.cn](https://www.xuexi.cn)
+ - date_published: 2024-06-30T02:36:44+00:00
+
+ ## 地方学习平台主页
+ - [https://zgkxy.xuexi.cn](https://zgkxy.xuexi.cn)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## 学习出版社
+ - [http://www.xuexiph.cn](http://www.xuexiph.cn)
+ - date_published: 2024-06-30T17:04:53.225283+00:00
+
+ ## 潇湘晨报网
+ - [http://www.xxcb.cn](http://www.xxcb.cn)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## 中国县域经济报
+ - [https://www.xyshjj.cn](https://www.xyshjj.cn)
+ - date_published: 2024-06-30T13:04:34.203813+00:00
+
+ ## 子夜松声
+ - [https://xyzbz.cn](https://xyzbz.cn)
+ - date_published: 2024-08-18T03:26:45.373660+00:00
+
+ ## 兴证资本
+ - [https://capital.xyzq.cn](https://capital.xyzq.cn)
+ - date_published: 2024-08-06T10:52:06.880491+00:00
+
+ ## 兴业证券慈善基金会
+ - [https://charity.xyzq.cn](https://charity.xyzq.cn)
+ - date_published: 2024-08-06T10:51:34.681941+00:00
+
+ ## 央视频号
+ - [https://mp.yangshipin.cn](https://mp.yangshipin.cn)
+ - date_published: 2024-07-08T13:26:03.652457+00:00
+
+ ## 央视频 - 有品质的视频社交媒体
+ - [https://www.yangshipin.cn](https://www.yangshipin.cn)
+ - date_published: 2024-07-08T15:01:01+00:00
+
+ ## 儿童学习_青少儿培训机构_幼儿培训班「EF英孚教育」
+ - [https://www.yingfu.cn](https://www.yingfu.cn)
+ - date_published: 2024-06-17T22:06:57+00:00
+
+ ## 《永劫无间》手游官网-公测定档7月25日
+ - [https://m.yjwujian.cn](https://m.yjwujian.cn)
+ - date_published: 2024-07-18T07:09:43.050484+00:00
+
+ ## 《永劫无间》官网 - 与张起灵一起地宫探险！
+ - [https://www.yjwujian.cn](https://www.yjwujian.cn)
+ - date_published: 2024-07-18T07:07:40.663993+00:00
+
+ ## 雍和宫
+ - [http://www.yonghegong.cn](http://www.yonghegong.cn)
+ - date_published: 2023-07-26T07:08:44+00:00
+
+ ## 青少年爱国主义网_网上纪念馆_中国青年网
+ - [https://agzy.youth.cn](https://agzy.youth.cn)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## 汽车频道_中国青年网
+ - [https://auto.youth.cn](https://auto.youth.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 冰点_中国青年网
+ - [https://bingdian.youth.cn](https://bingdian.youth.cn)
+ - date_published: 2024-06-30T22:51:51.053409+00:00
+
+ ## 读书频道-中国青年网
+ - [https://book.youth.cn](https://book.youth.cn)
+ - date_published: 2024-06-30T22:52:51.213532+00:00
+
+ ## 彩票频道
+ - [https://caipiao.youth.cn](https://caipiao.youth.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 就业频道_中国青年网
+ - [https://career.youth.cn](https://career.youth.cn)
+ - date_published: 2024-06-30T22:52:48.956032+00:00
+
+ ## 消费频道_中国青年网
+ - [https://consume.youth.cn](https://consume.youth.cn)
+ - date_published: 2024-06-30T22:50:43.734699+00:00
+
+ ## 大学生村官之家
+ - [https://cunguan.youth.cn](https://cunguan.youth.cn)
+ - date_published: 2024-06-30T22:52:03.306344+00:00
+
+ ## 地方新闻_中国青年网
+ - [https://df.youth.cn](https://df.youth.cn)
+ - date_published: 2024-06-30T22:52:41.407182+00:00
+
+ ## 发现频道_中国青年网
+ - [https://d.youth.cn](https://d.youth.cn)
+ - date_published: 2024-06-30T22:44:43.793969+00:00
+
+ ## 第一书记网_中国青年网
+ - [https://dysj.youth.cn](https://dysj.youth.cn)
+ - date_published: 2024-06-30T22:51:49.124344+00:00
+
+ ## 教育频道_中国青年网
+ - [https://edu.youth.cn](https://edu.youth.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 英文频道-中国青年网
+ - [https://en.youth.cn](https://en.youth.cn)
+ - date_published: 2024-05-12T07:10:05.362199+00:00
+
+ ## 非遗频道_中国青年网
+ - [https://feiyi.youth.cn](https://feiyi.youth.cn)
+ - date_published: 2024-06-30T22:51:34.006652+00:00
+
+ ## 财经频道_中国青年网
+ - [https://finance.youth.cn](https://finance.youth.cn)
+ - date_published: 2024-06-30T22:52:09.898940+00:00
+
+ ## La jeunesse de la Chine
+ - [https://fr.youth.cn](https://fr.youth.cn)
+ - date_published: 2024-06-30T22:44:35.885496+00:00
+
+ ## 中国青年网-娱乐频道
+ - [https://fun.youth.cn](https://fun.youth.cn)
+ - date_published: 2024-06-30T22:52:24.904083+00:00
+
+ ## 公益频道-中国青年网
+ - [https://gy.youth.cn](https://gy.youth.cn)
+ - date_published: 2024-06-30T22:50:58.929025+00:00
+
+ ## 健康频道_中国青年网
+ - [https://health.youth.cn](https://health.youth.cn)
+ - date_published: 2024-06-30T22:51:53.128282+00:00
+
  ## 房产频道_中国青年网
  - [https://house.youth.cn](https://house.youth.cn)
  - date_published: 2024-06-30T22:53:25.162093+00:00
@@ -2535,6 +3013,10 @@ _中国网
  - [http://www.sge.com.cn](http://www.sge.com.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 
+ ## 我们是国际公认的测试、检验和认证机构
+ - [https://www.sgsgroup.com.cn](https://www.sgsgroup.com.cn)
+ - date_published: 2024-09-10T12:55:32.514402+00:00
+
  ## 首页
  - [http://www.shcpe.com.cn](http://www.shcpe.com.cn)
  - date_published: 2024-06-30T15:06:10.116941+00:00
@@ -2866,6 +3348,10 @@ _中国网
  ## VELCRO® Brand Fastening Solutions | Velcro Companies
  - [https://www.velcro.com.cn](https://www.velcro.com.cn)
  - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Venustech
+ - [http://english.venustech.com.cn](http://english.venustech.com.cn)
+ - date_published: 2024-04-19T07:40:25+00:00
 
  ## 优派中国 ViewSonic China | ViewBoard, LED LCD 液晶显示器, 投影机, 数位看板
  - [https://viewsonic.com.cn](https://viewsonic.com.cn)
@@ -3522,488 +4008,4 @@ _中国网
  ## 复旦大学护理学院
  - [http://nursing.fudan.edu.cn](http://nursing.fudan.edu.cn)
  - date_published: 2024-06-18T11:50:20.741950+00:00
-
- ## 复旦大学哲学学院
- - [http://philosophy.fudan.edu.cn](http://philosophy.fudan.edu.cn)
- - date_published: 2024-06-18T11:54:39.628167+00:00
-
- ## [Fudan Physics Teaching Lab]
- - [http://phylab.fudan.edu.cn](http://phylab.fudan.edu.cn)
- - date_published: 2024-06-18T11:53:24.104653+00:00
-
- ## 物理系
- - [http://phys.fudan.edu.cn](http://phys.fudan.edu.cn)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## 复旦大学高分子科学系
- - [http://polymer.fudan.edu.cn](http://polymer.fudan.edu.cn)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## 复旦大学上海医学院
- - [http://shmc.fudan.edu.cn](http://shmc.fudan.edu.cn)
- - date_published: 2024-06-18T11:51:31.107445+00:00
-
- ## 复旦大学审计处
- - [http://sjc.fudan.edu.cn](http://sjc.fudan.edu.cn)
- - date_published: 2024-06-18T11:54:14.759344+00:00
-
- ## 复旦大学微电子学院官网
- - [https://sme.fudan.edu.cn](https://sme.fudan.edu.cn)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## 复旦大学马克思主义学院
- - [https://som.fudan.edu.cn](https://som.fudan.edu.cn)
- - date_published: 2024-06-18T11:53:31.431588+00:00
-
- ## 复旦大学药学院
- - [http://spfdu.fudan.edu.cn](http://spfdu.fudan.edu.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 首页 - 复旦大学公共卫生学院
- - [http://sph.fudan.edu.cn](http://sph.fudan.edu.cn)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 复旦大学文明在线
- - [http://wmzx.fudan.edu.cn](http://wmzx.fudan.edu.cn)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 化学系
- - [http://www.chemistry.fudan.edu.cn](http://www.chemistry.fudan.edu.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 文物与博物馆学系
- - [http://www.chm.fudan.edu.cn](http://www.chm.fudan.edu.cn)
- - date_published: 2024-06-18T11:51:02.573051+00:00
-
- ## 复旦大学计算机科学技术学院
- - [http://www.cs.fudan.edu.cn](http://www.cs.fudan.edu.cn)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## 复旦大学经济学院
- - [http://www.econ.fudan.edu.cn](http://www.econ.fudan.edu.cn)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## å¤æ¦å¤§å­¦æ¡£æ¡ä¿¡æ¯ç½
- - [http://www.fda.fudan.edu.cn](http://www.fda.fudan.edu.cn)
- - date_published: 2024-06-18T11:49:43.106084+00:00
-
- ## 复旦大学研究生招生网
- - [http://www.gsao.fudan.edu.cn](http://www.gsao.fudan.edu.cn)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## 复旦大学人事处
- - [http://www.hr.fudan.edu.cn](http://www.hr.fudan.edu.cn)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## 复旦大学|国际文化交流学院
- - [http://www.ices.fudan.edu.cn](http://www.ices.fudan.edu.cn)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 首页 - 复旦大学信息科学与工程学院
- - [http://www.it.fudan.edu.cn](http://www.it.fudan.edu.cn)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## 复旦大学基本建设处网站
- - [http://www.jijian.fudan.edu.cn](http://www.jijian.fudan.edu.cn)
- - date_published: 2024-06-18T11:51:45.586074+00:00
-
- ## 复旦大学江湾校区
- - [http://www.jwb.fudan.edu.cn](http://www.jwb.fudan.edu.cn)
- - date_published: 2024-06-18T11:43:41.047593+00:00
-
- ## 复旦大学法学院
- - [http://www.law.fudan.edu.cn](http://www.law.fudan.edu.cn)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 复旦大学图书馆
- - [http://www.library.fudan.edu.cn](http://www.library.fudan.edu.cn)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 复旦大学大数据学院
- - [http://www.sds.fudan.edu.cn](http://www.sds.fudan.edu.cn)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## 复旦大学软件工程实验室
- - [http://www.se.fudan.edu.cn](http://www.se.fudan.edu.cn)
- - date_published: 2023-09-11T17:32:36+00:00
-
- ## 复旦大学-国际关系与公共事务学院
- - [http://www.sirpa.fudan.edu.cn](http://www.sirpa.fudan.edu.cn)
- - date_published: 2024-06-18T11:51:23.508588+00:00
-
- ## 社会发展与公共政策学院
- - [http://www.ssdpp.fudan.edu.cn](http://www.ssdpp.fudan.edu.cn)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 复旦大学张江校区管委会
- - [http://www.zjb.fudan.edu.cn](http://www.zjb.fudan.edu.cn)
- - date_published: 2024-06-06T02:00:52+00:00
-
- ## 复旦大学附属徐汇实验学校
- - [https://xhsyxx.fudan.edu.cn](https://xhsyxx.fudan.edu.cn)
- - date_published: 2024-06-17T00:26:21+00:00
-
- ## æ°é»å­¦é¢å®éªä¸­å¿
- - [https://xwsys.fudan.edu.cn](https://xwsys.fudan.edu.cn)
- - date_published: 2021-08-19T08:07:06+00:00
-
- ## 复旦大学信息公开网
- - [http://xxgk.fudan.edu.cn](http://xxgk.fudan.edu.cn)
- - date_published: 2024-06-18T11:52:13.036180+00:00
-
- ## 共青团复旦大学委员会
- - [https://youth.fudan.edu.cn](https://youth.fudan.edu.cn)
- - date_published: 2024-06-18T11:53:58.460782+00:00
-
- ## 复旦大学医学院幼儿园
- - [https://yxyyey.fudan.edu.cn](https://yxyyey.fudan.edu.cn)
- - date_published: 2024-06-18T11:51:52.067886+00:00
-
- ## 复旦大学资产管理处（实验室安全管理中心）
- - [https://zcglc.fudan.edu.cn](https://zcglc.fudan.edu.cn)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 上海复旦资产经营有限公司（Shanghai Fudan Asset Management Co.,Ltd)
- - [http://zcgs.fudan.edu.cn](http://zcgs.fudan.edu.cn)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## 总务处
- - [https://zongwuchu.fudan.edu.cn](https://zongwuchu.fudan.edu.cn)
- - date_published: 2024-06-18T11:50:02.859576+00:00
-
- ## 复旦大学党委组织部
- - [http://zzb.fudan.edu.cn](http://zzb.fudan.edu.cn)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Guangdong University of Technology
- - [https://english.gdut.edu.cn](https://english.gdut.edu.cn)
- - date_published: 2024-08-08T01:46:39+00:00
-
- ## 贵州医科大学
- - [https://www.gmc.edu.cn](https://www.gmc.edu.cn)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## 首页 | 天津大学佐治亚理工深圳学院 GTSI
- - [http://www.gtsi.edu.cn](http://www.gtsi.edu.cn)
- - date_published: 2024-07-22T03:10:34.882135+00:00
-
- ## 贵州财经大学
- - [https://www.gufe.edu.cn](https://www.gufe.edu.cn)
- - date_published: 2024-06-30T15:22:09.485423+00:00
-
- ## 贵州大学
- - [https://www.gzu.edu.cn](https://www.gzu.edu.cn)
- - date_published: 2024-06-30T15:21:05.026916+00:00
-
- ## Hainan University
- - [http://en.hainanu.edu.cn](http://en.hainanu.edu.cn)
- - date_published: 2024-07-09T18:19:53.087629+00:00
-
- ## 合肥工业大学本科生院
- - [http://bksy.hfut.edu.cn](http://bksy.hfut.edu.cn)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## 首页
- - [http://bkzs.hfut.edu.cn](http://bkzs.hfut.edu.cn)
- - date_published: 2024-06-21T09:48:50+00:00
-
- ## 计算机与信息学院（人工智能学院）
- - [https://ci.hfut.edu.cn](https://ci.hfut.edu.cn)
- - date_published: 2024-05-10T05:30:13.590138+00:00
-
- ## 合肥工业大学财务处
- - [http://cwc.hfut.edu.cn](http://cwc.hfut.edu.cn)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 本科生院创新创业教育处
- - [http://cxcyc.hfut.edu.cn](http://cxcyc.hfut.edu.cn)
- - date_published: 2024-07-11T03:24:40+00:00
-
- ## 合工大党代会
- - [https://ddh9.hfut.edu.cn](https://ddh9.hfut.edu.cn)
- - date_published: 2024-07-12T13:22:46+00:00
-
- ## 合肥工业大学 - 邮件系统
- - [http://email.hfut.edu.cn](http://email.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:21.232786+00:00
-
- ## 合肥工业大学
- - [https://gdjy.hfut.edu.cn](https://gdjy.hfut.edu.cn)
- - date_published: 2024-07-12T16:09:32.108003+00:00
-
- ## 合肥工业大学智能制造技术研究院
- - [http://imi.hfut.edu.cn](http://imi.hfut.edu.cn)
- - date_published: 2024-07-12T16:09:35.428148+00:00
-
- ## 国际事务处（港澳台事务办公室）
- - [http://international.hfut.edu.cn](http://international.hfut.edu.cn)
- - date_published: 2024-07-12T09:47:10+00:00
-
- ## 信息化建设与发展中心
- - [http://it.hfut.edu.cn](http://it.hfut.edu.cn)
- - date_published: 2024-07-12T09:00:08+00:00
-
- ## 合肥工业大学继续教育学院
- - [http://jxjy.hfut.edu.cn](http://jxjy.hfut.edu.cn)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## 科研院
- - [http://kyy.hfut.edu.cn](http://kyy.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:37.245524+00:00
-
- ## 合肥工业大学图书馆
- - [http://lib.hfut.edu.cn](http://lib.hfut.edu.cn)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## 合肥工业大学新闻网
- - [http://news.hfut.edu.cn](http://news.hfut.edu.cn)
- - date_published: 2024-07-12T09:09:16+00:00
-
- ## 首页
- - [http://oa.hfut.edu.cn](http://oa.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:24.021401+00:00
-
- ## 高层次人才工作办公室
- - [http://rcb.hfut.edu.cn](http://rcb.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:58.985974+00:00
-
- ## 合肥工业大学WEBVPN系统
- - [https://webvpn.hfut.edu.cn](https://webvpn.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:14.341379+00:00
-
- ## 合肥工业大学
- - [https://www.hfut.edu.cn](https://www.hfut.edu.cn)
- - date_published: 2024-05-10T05:30:22.841718+00:00
-
- ## å®£ä¼ é¨
- - [http://xcb.hfut.edu.cn](http://xcb.hfut.edu.cn)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## 合肥工业大学宣城校区
- - [http://xc.hfut.edu.cn](http://xc.hfut.edu.cn)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 党委学生工作部
- - [http://xgb.hfut.edu.cn](http://xgb.hfut.edu.cn)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## 学科建设与评估处
- - [http://xkb.hfut.edu.cn](http://xkb.hfut.edu.cn)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## 学术委员会
- - [http://xswyh.hfut.edu.cn](http://xswyh.hfut.edu.cn)
- - date_published: 2024-06-14T02:48:20+00:00
-
- ## 信息公开网
- - [http://xxgk.hfut.edu.cn](http://xxgk.hfut.edu.cn)
- - date_published: 2024-07-12T16:09:20.670082+00:00
-
- ## 合工大校友会
- - [http://xyh.hfut.edu.cn](http://xyh.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:40.558094+00:00
-
- ## 研究生院
- - [http://yjsy.hfut.edu.cn](http://yjsy.hfut.edu.cn)
- - date_published: 2024-07-12T08:13:45+00:00
-
- ## 合肥工业大学研究生招生网
- - [http://yjszs.hfut.edu.cn](http://yjszs.hfut.edu.cn)
- - date_published: 2024-07-12T16:07:10.803928+00:00
-
- ## 总务部
- - [http://zwb.hfut.edu.cn](http://zwb.hfut.edu.cn)
- - date_published: 2024-07-12T09:57:07+00:00
-
- ## 专业学位研究生教育网
- - [http://zyxw.hfut.edu.cn](http://zyxw.hfut.edu.cn)
- - date_published: 2024-06-03T01:33:32+00:00
-
- ## 河海大学-Hohai University
- - [http://www.hhu.edu.cn](http://www.hhu.edu.cn)
- - date_published: 2024-09-09T15:13:40.013490+00:00
-
- ## 计算学部
- - [http://computing.hit.edu.cn](http://computing.hit.edu.cn)
- - date_published: 2024-07-12T15:57:25.741076+00:00
-
- ## 计算学部英文版
- - [https://encs.hit.edu.cn](https://encs.hit.edu.cn)
- - date_published: 2024-05-10T05:29:54.915756+00:00
-
- ## Harbin Institute of Technology
- - [http://en.hit.edu.cn](http://en.hit.edu.cn)
- - date_published: 2024-05-10T05:30:08.944099+00:00
-
- ## HIT TIMES
- - [http://hit-times.hit.edu.cn](http://hit-times.hit.edu.cn)
- - date_published: 2024-07-12T16:06:07.997538+00:00
-
- ## 哈尔滨工业大学电子邮件系统
- - [https://mail.hit.edu.cn](https://mail.hit.edu.cn)
- - date_published: 2024-07-12T15:59:50.383434+00:00
-
- ## 哈尔滨工业大学校园地图/三维虚拟校园GIS/智慧校园可视化平台/数字孪生校园
- - [http://map.hit.edu.cn](http://map.hit.edu.cn)
- - date_published: 2024-07-12T16:06:23.443893+00:00
-
- ## 哈尔滨工业大学新闻网
- - [http://news.hit.edu.cn](http://news.hit.edu.cn)
- - date_published: 2024-07-12T15:58:22.924277+00:00
-
- ## 国际教育学院英文
- - [http://studyathit.hit.edu.cn](http://studyathit.hit.edu.cn)
- - date_published: 2024-07-12T16:06:11.585900+00:00
-
- ## 哈尔滨工业大学
- - [http://www.hit.edu.cn](http://www.hit.edu.cn)
- - date_published: 2024-06-30T21:06:15.018292+00:00
-
- ## 哈尔滨工业大学-研究生招生网
- - [http://yzb.hit.edu.cn](http://yzb.hit.edu.cn)
- - date_published: 2024-07-12T15:58:59.522582+00:00
-
- ## 哈尔滨工业大学（深圳）计算机科学与技术学院
- - [http://cs.hitsz.edu.cn](http://cs.hitsz.edu.cn)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## 英文网
- - [http://en.hitsz.edu.cn](http://en.hitsz.edu.cn)
- - date_published: 2024-06-07T08:47:47+00:00
-
- ## 哈尔滨工业大学（威海）40周年校庆
- - [http://40.hitwh.edu.cn](http://40.hitwh.edu.cn)
- - date_published: 2024-07-12T15:59:43.420373+00:00
-
- ## Welcome to nginx!
- - [http://authserver.hitwh.edu.cn](http://authserver.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:17.514415+00:00
-
- ## 继续教育学院
- - [http://ce.hitwh.edu.cn](http://ce.hitwh.edu.cn)
- - date_published: 2024-07-12T15:59:41.328914+00:00
-
- ## 计算机科学与技术学院
- - [https://cst.hitwh.edu.cn](https://cst.hitwh.edu.cn)
- - date_published: 2024-05-10T05:30:04.070866+00:00
-
- ## 人力资源处
- - [http://hr.hitwh.edu.cn](http://hr.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:44.347384+00:00
-
- ## 统一身份认证
- - [https://i.hitwh.edu.cn](https://i.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:54.508757+00:00
-
- ## 国际合作处/港澳台办公室
- - [http://international.hitwh.edu.cn](http://international.hitwh.edu.cn)
- - date_published: 2024-07-12T15:59:38.159176+00:00
-
- ## 哈尔滨工业大学（威海）就业网
- - [http://job.hitwh.edu.cn](http://job.hitwh.edu.cn)
- - date_published: 2024-07-12T16:05:08.285505+00:00
-
- ## 科技发展处
- - [http://kjfzc.hitwh.edu.cn](http://kjfzc.hitwh.edu.cn)
- - date_published: 2024-07-12T15:59:45.863361+00:00
-
- ## 哈尔滨工业大学(威海)图书馆
- - [http://lib.hitwh.edu.cn](http://lib.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:27.127455+00:00
-
- ## 出国留学基地
- - [http://lxjd.hitwh.edu.cn](http://lxjd.hitwh.edu.cn)
- - date_published: 2024-07-12T16:05:40.391296+00:00
-
- ## 新闻网
- - [https://news.hitwh.edu.cn](https://news.hitwh.edu.cn)
- - date_published: 2024-07-12T16:04:49.412301+00:00
-
- ## 统一身份认证
- - [https://oa.hitwh.edu.cn](https://oa.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:13.147679+00:00
-
- ## 校区办公室
- - [http://office.hitwh.edu.cn](http://office.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:15.426229+00:00
-
- ## 留学生中心中文网站
- - [http://studyabroad.hitwh.edu.cn](http://studyabroad.hitwh.edu.cn)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## 今日工大
- - [http://today.hitwh.edu.cn](http://today.hitwh.edu.cn)
- - date_published: 2024-07-12T15:59:23.096253+00:00
-
- ## 统一身份认证
- - [http://webvpn.hitwh.edu.cn](http://webvpn.hitwh.edu.cn)
- - date_published: 2024-07-12T16:05:05.163006+00:00
-
- ## 哈尔滨工业大学（威海）
- - [https://www.hitwh.edu.cn](https://www.hitwh.edu.cn)
- - date_published: 2024-05-10T05:30:01.125234+00:00
-
- ## 哈尔滨工业大学学生工作网
- - [http://xuegong.hitwh.edu.cn](http://xuegong.hitwh.edu.cn)
- - date_published: 2024-07-12T07:11:40+00:00
-
- ## 哈尔滨工业大学（威海）本科招生网
- - [https://zsb.hitwh.edu.cn](https://zsb.hitwh.edu.cn)
- - date_published: 2024-07-12T15:58:47.417987+00:00
-
- ## The Hong Kong University of Science and Technology (Guangzhou)
- - [https://hkust-gz.edu.cn](https://hkust-gz.edu.cn)
- - date_published: 2024-08-07T14:30:33.205176+00:00
-
- ## 湖南大学设计艺术学院 - School of Design, Hunan University
- - [http://design.hnu.edu.cn](http://design.hnu.edu.cn)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## 湖南大学
- - [https://www.hnu.edu.cn](https://www.hnu.edu.cn)
- - date_published: 2024-07-31T05:33:00+00:00
-
- ## 哈尔滨工程大学
- - [http://www.hrbeu.edu.cn](http://www.hrbeu.edu.cn)
- - date_published: 2024-06-30T15:04:46+00:00
-
- ## PG 2024
- - [https://pg2024.hsu.edu.cn](https://pg2024.hsu.edu.cn)
- - date_published: 2024-05-28T12:48:31+00:00
-
- ## 华中科技大学档案馆
- - [http://ar.hust.edu.cn](http://ar.hust.edu.cn)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## 华中科技大学毕业设计（论文）管理系统 登录
- - [http://bysj.hust.edu.cn](http://bysj.hust.edu.cn)
- - date_published: 2024-06-22T11:45:59.119892+00:00
-
- ## 认知计算与智能信息处理实验室
- - [http://cciip.cs.hust.edu.cn](http://cciip.cs.hust.edu.cn)
- - date_published: 2024-07-22T08:33:13+00:00
-
- ## 计算机科学与技术学院
- - [https://cs.hust.edu.cn](https://cs.hust.edu.cn)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## 电子信息与通信学院
- - [https://eic.hust.edu.cn](https://eic.hust.edu.cn)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## 电子信息与通信学院
- - [https://ei.hust.edu.cn](https://ei.hust.edu.cn)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## ©华中科技大学招聘平台 HUST Employment
- - [http://employment.hust.edu.cn](http://employment.hust.edu.cn)
- - date_published: 2024-07-02T01:53:34+00:00
-
- ## 华中科技大学计算机科学与技术学院
- - [http://english.cs.hust.edu.cn](http://english.cs.hust.edu.cn)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## 电子信息与通信学院
- - [http://english.eic.hust.edu.cn](http://english.eic.hust.edu.cn)
- - date_published: 2024-01-03T00:00:00+00:00
 

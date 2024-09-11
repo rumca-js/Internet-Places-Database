@@ -1,3 +1,51 @@
+ ## Osmo
+ - [https://osmo.ai](https://osmo.ai)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Otter.ai - AI Meeting Note Taker & Real-time AI Transcription
+ - [https://otter.ai](https://otter.ai)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Ottic - Evaluate LLM-powered applications
+ - [https://ottic.ai](https://ottic.ai)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## outdraw.ai
+ - [https://outdraw.ai](https://outdraw.ai)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Outlier
+ - [https://app.outlier.ai](https://app.outlier.ai)
+ - date_published: 2024-08-06T11:40:59.185229+00:00
+
+ ## Outline
+ - [https://outline.ai](https://outline.ai)
+ - date_published: 2024-06-19T19:07:41.417824+00:00
+
+ ## Autonomous Yard Operations & Yard Automation - Outrider
+ - [https://outrider.ai](https://outrider.ai)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Outropy
+ - [https://outropy.ai](https://outropy.ai)
+ - date_published: 2024-05-11T10:39:10.616026+00:00
+
+ ## Outset - The AI-Moderated Research Platform
+ - [https://www.outset.ai](https://www.outset.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Overland AI
+ - [https://www.overland.ai](https://www.overland.ai)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Overview.ai - Next-Gen AI Industrial Vision Systems
+ - [https://www.overview.ai](https://www.overview.ai)
+ - date_published: 2024-06-21T02:11:17.905556+00:00
+
+ ## Overwatch = real-time, global understanding
+ - [https://www.overwatchdata.ai](https://www.overwatchdata.ai)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## Owlbot | One of the most advanced AI Chatbot platforms in the world
  - [https://www.owlbot.ai](https://www.owlbot.ai)
  - date_published: 2024-07-08T16:21:03.522822+00:00
@@ -938,6 +986,10 @@
  ## Dover - Generate Customized Recruiting Emails
  - [https://recruitingemails.ai](https://recruitingemails.ai)
  - date_published: 2024-06-19T19:56:26.767775+00:00
+
+ ## Careers: Great People
+ - [https://greatpeople.jobs.recrut.ai](https://greatpeople.jobs.recrut.ai)
+ - date_published: 2024-09-10T23:52:46.184747+00:00
 
  ## Recursal AI development blog | Substack
  - [https://substack.recursal.ai](https://substack.recursal.ai)
@@ -2854,7 +2906,7 @@
  - date_published: 2023-11-13T19:48:22.481817+00:00
 
  ## Tyba — Develop and Operate with Confidence
- - [https://www.tyba.ai](https://www.tyba.ai)
+ - [https://tyba.ai](https://tyba.ai)
  - date_published: 2024-01-15T00:00:00+00:00
 
  ## The AI-powered document generator and editor.
@@ -3291,6 +3343,14 @@ Creative Solutions
  ## VoiceDub | Make AI Voice Covers
  - [https://voicedub.ai](https://voicedub.ai)
  - date_published: 2024-06-19T19:20:51.079283+00:00
+
+ ## Voiceflip | Voiceflip - AI covers of any song with your favorite voices!
+ - [https://www.voiceflip.ai](https://www.voiceflip.ai)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## voicemy.ai | Create, Share and Inspire with AI Voice and Song
+ - [https://voicemy.ai](https://voicemy.ai)
+ - date_published: 2024-06-28T00:00:00+00:00
 
  ## Voice-Swap
  - [https://www.voice-swap.ai](https://www.voice-swap.ai)
@@ -3966,64 +4026,4 @@ Creative Solutions
  ## Colorprinter - Colorprinter©
  - [https://colorprinter.al](https://colorprinter.al)
  - date_published: 2021-05-02T21:19:19+00:00
-
- ## composition.al - Ta strona jest na sprzedaż! - composition Zasoby i informacje.
- - [http://composition.al](http://composition.al)
- - date_published: 2024-07-04T11:15:57+00:00
-
- ## Daniyal - Software Engineer
- - [https://daniy.al](https://daniy.al)
- - date_published: 2024-07-13T04:16:45.184704+00:00
-
- ## decomposition ∘ al
- - [https://decomposition.al](https://decomposition.al)
- - date_published: 2023-10-25T11:45:10.348415+00:00
-
- ## Doodal
- - [http://dood.al](http://dood.al)
- - date_published: 2014-07-01T18:09:07+00:00
-
- ## Home - Euronews Albania
- - [https://euronews.al](https://euronews.al)
- - date_published: 2020-09-23T11:01:18+00:00
-
- ## Charles Féval
- - [https://fev.al](https://fev.al)
- - date_published: 2023-10-25T11:45:10.977889+00:00
-
- ## Faqja Zyrtare e Fiat Albania | Makina të reja dhe të përdorura, furgona...
- - [https://www.fiat.al](https://www.fiat.al)
- - date_published: 2023-11-27T18:16:53+00:00
-
- ## home - Fiat Professional Albania
- - [https://www.fiatprofessional.al](https://www.fiatprofessional.al)
- - date_published: 2015-07-12T14:50:38+00:00
-
- ## Udhëtim me autobus në Evropë | FlixBus
- - [https://www.flixbus.al](https://www.flixbus.al)
- - date_published: 2024-06-28T10:10:06+00:00
-
- ## Frax - Explore the Infinite
- - [http://fract.al](http://fract.al)
- - date_published: 2024-07-24T05:46:51.320340+00:00
-
- ## Crystal Linux - Official Site
- - [https://getcryst.al](https://getcryst.al)
- - date_published: 2024-07-20T12:52:40.030395+00:00
-
- ## Goethe-Zentrum
- - [http://www.goethe.al](http://www.goethe.al)
- - date_published: 2024-07-13T04:29:17+00:00
-
- ## Grafika Google
- - [https://images.google.al](https://images.google.al)
- - date_published: 2024-07-20T07:36:47.406205+00:00
-
- ## Google
- - [https://www.google.al](https://www.google.al)
- - date_published: 2024-06-21T22:26:00.556206+00:00
-
- ## home - Jeep Albania
- - [https://www.jeep.al](https://www.jeep.al)
- - date_published: 2015-07-12T14:50:38+00:00
 

@@ -1,3 +1,55 @@
+ ## BBA 2023 - quintessenz - Big Brother Awards 2023 - The Imitation Game – die vorgetäuschte Intelligenz
+ - [http://bigbrotherawards.at](http://bigbrotherawards.at)
+ - date_published: 2024-07-20T20:45:26.112280+00:00
+
+ ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
+ - [https://www.bigcommerce.at](https://www.bigcommerce.at)
+ - date_published: 2024-07-08T12:40:49.114287+00:00
+
+ ## Bilderbuch Shop
+ - [https://bilderbuch-musik.at](https://bilderbuch-musik.at)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Bioreg
+ - [http://www.bioreg.at](http://www.bioreg.at)
+ - date_published: 2024-06-28T12:06:31.692953+00:00
+
+ ## ICSx⁵
+ - [https://icsx5.bitfire.at](https://icsx5.bitfire.at)
+ - date_published: 2024-06-23T18:42:31+00:00
+
+ ## bitfire web engineering
+ - [https://www.bitfire.at](https://www.bitfire.at)
+ - date_published: 2024-07-14T15:40:30.410573+00:00
+
+ ## Zero Waste Onlineshop - plastikfreie Produkte für deinen Alltag
+ - [https://blattwende.at](https://blattwende.at)
+ - date_published: 2024-06-18T14:30:22.003113+00:00
+
+ ## Blogheim.at | Die Heimat der Österreichischen Blogszene
+ - [https://blogheim.at](https://blogheim.at)
+ - date_published: 2024-05-12T06:40:45.460990+00:00
+
+ ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
+ - [https://www.blueshield.at](https://www.blueshield.at)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Books in the Fridge
+ - [https://booksinthefridge.at](https://booksinthefridge.at)
+ - date_published: 2024-05-11T07:10:21.648548+00:00
+
+ ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
+ - [https://www.bosch-home.at](https://www.bosch-home.at)
+ - date_published: 2024-06-16T21:35:40.384152+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.at](https://atyourside.brother.at)
+ - date_published: 2024-06-17T21:03:52.172392+00:00
+
+ ## Brother Online Store
+ - [https://store.brother.at](https://store.brother.at)
+ - date_published: 2024-06-18T06:02:57.675637+00:00
+
  ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
  - [https://www.brother.at](https://www.brother.at)
  - date_published: 2024-05-02T11:36:03.685174+00:00
@@ -69,6 +121,10 @@
  ## CCC Salzburg
  - [https://sbg.chaostreff.at](https://sbg.chaostreff.at)
  - date_published: 2024-07-13T00:00:21+00:00
+
+ ## CIC - Full-Service-Werbeagentur für Ihr Unternehmen
+ - [https://www.cic.at](https://www.cic.at)
+ - date_published: 2024-09-10T23:43:11.700180+00:00
 
  ## Citroën Pro – Angebote Nutzfahrzeuge & Firmenwagen | Citroën
  - [https://business.citroen.at](https://business.citroen.at)
@@ -726,7 +782,7 @@
  - date_published: 2024-09-04T02:51:16.948601+00:00
 
  ## Zertifizieren Sie Ihre Unternehmenskultur | Great Place to Work®
- - [http://www.greatplacetowork.at](http://www.greatplacetowork.at)
+ - [https://greatplacetowork.at](https://greatplacetowork.at)
  - date_published: 2024-06-12T10:40:57.710821+00:00
 
  ## Greulonline - Greul Onlineshop
@@ -2173,6 +2229,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## TEXTAGENTUR: SEO Österreich | TEXTER & SEO ist die Anti SEO Agentur!
  - [http://seo-textagentur.at](http://seo-textagentur.at)
  - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Wir sind das weltweit führende Prüf-, Inspektions- und Zertifizierungsunternehmen.
+ - [https://www.sgsgroup.at](https://www.sgsgroup.at)
+ - date_published: 2024-09-10T12:55:36.562513+00:00
 
  ## ShiSH.cat
  - [https://shishc.at](https://shishc.at)
@@ -3699,6 +3759,10 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  - date_published: 2024-03-28T00:00:00+00:00
 
  ## Recruitment Platform API
+ - [https://api-nsw.applydirect.com.au](https://api-nsw.applydirect.com.au)
+ - date_published: 2024-08-21T19:50:26+00:00
+
+ ## Recruitment Platform API
  - [https://api-nsw-cdn.applydirect.com.au](https://api-nsw-cdn.applydirect.com.au)
  - date_published: 2024-06-12T12:20:05.210414+00:00
 
@@ -3957,68 +4021,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Bega news, sport and weather | Bega District News | Bega, NSW
  - [https://www.begadistrictnews.com.au](https://www.begadistrictnews.com.au)
  - date_published: 2024-07-09T20:54:24+00:00
-
- ## Bendigo Bank for all your personal and business banking needs
- - [http://bendigobank.com.au](http://bendigobank.com.au)
- - date_published: 2024-06-18T09:28:21.589096+00:00
-
- ## Better Way Electronics - Brisbane Playstation Console Repair & PCB Repair Specialist
- - [https://betterwayelectronics.com.au](https://betterwayelectronics.com.au)
- - date_published: 2024-05-07T18:36:49.735626+00:00
-
- ## BwE Tools Web Edition
- - [https://validate.betterwayelectronics.com.au](https://validate.betterwayelectronics.com.au)
- - date_published: 2024-07-01T07:42:05.117878+00:00
-
- ## Beyondaword
- - [https://beyondaword.com.au](https://beyondaword.com.au)
- - date_published: 2024-05-08T09:13:00.523069+00:00
-
- ## BGL Corporate Solutions Services Status
- - [https://status.bgl360.com.au](https://status.bgl360.com.au)
- - date_published: 2024-06-16T07:54:36.774910+00:00
-
- ## BGW Group | Electrical and plumbing wholesale supplier
- - [https://bgwgroup.com.au](https://bgwgroup.com.au)
- - date_published: 2024-05-02T07:53:41.042684+00:00
-
- ## BGW Group | Electrical and plumbing wholesale supplier
- - [http://www.bgwgroup.com.au](http://www.bgwgroup.com.au)
- - date_published: 2024-06-04T23:23:53+00:00
-
- ## Better Homes and Gardens: DIY, Renovation, Gardening & Recipes
- - [https://www.bhg.com.au](https://www.bhg.com.au)
- - date_published: 2024-06-27T12:26:57.471684+00:00
-
- ## Bicycle Network | Making bike riding easier for everyone
- - [https://bicyclenetwork.com.au](https://bicyclenetwork.com.au)
- - date_published: 2024-05-09T06:23:16.186857+00:00
-
- ## Enterprise ecommerce, simplified. | BigCommerce
- - [https://www.bigcommerce.com.au](https://www.bigcommerce.com.au)
- - date_published: 2024-07-08T12:40:38.915285+00:00
-
- ## Buy big taste Big Rick's Bar-B-Q Sauces online in Australia
- - [https://bigricks.com.au](https://bigricks.com.au)
- - date_published: 2024-06-16T15:47:03.721739+00:00
-
- ## Big Rigs
- - [https://bigrigs.com.au](https://bigrigs.com.au)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## BIG W | Every day's a big day
- - [https://www.bigw.com.au](https://www.bigw.com.au)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Photo Printing - Your Trusted Photo Printing Store Online
- - [https://www.bigwphotos.com.au](https://www.bigwphotos.com.au)
- - date_published: 2024-06-16T15:04:37.560799+00:00
-
- ## BinaryLane - Looking Glass
- - [http://lg.binarylane.com.au](http://lg.binarylane.com.au)
- - date_published: 2024-06-16T14:37:39.431479+00:00
-
- ## Binary Lane Status
- - [http://status.binarylane.com.au](http://status.binarylane.com.au)
- - date_published: 2024-06-16T14:37:30.480845+00:00
 

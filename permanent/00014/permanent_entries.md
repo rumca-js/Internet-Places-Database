@@ -1,3 +1,408 @@
+ ## CMS-SMC
+ - [http://cms.math.ca](http://cms.math.ca)
+ - date_published: 2024-06-30T03:01:07.862445+00:00
+
+ ## Home | PIMS - Pacific Institute for the Mathematical Sciences
+ - [https://pims.math.ca](https://pims.math.ca)
+ - date_published: 2024-06-30T07:02:12+00:00
+
+ ## CMS-SMC
+ - [http://www.math.ca](http://www.math.ca)
+ - date_published: 2024-06-30T09:20:11.721967+00:00
+
+ ## matilde park
+ - [https://matildepark.ca](https://matildepark.ca)
+ - date_published: 2024-08-08T03:07:13.027488+00:00
+
+ ## Moving people forward | Maximus Canada
+ - [https://www.maximuscanada.ca](https://www.maximuscanada.ca)
+ - date_published: 2024-07-14T15:04:23+00:00
+
+ ## Home
+ - [http://mayfairtheatre.ca](http://mayfairtheatre.ca)
+ - date_published: 2024-07-03T03:55:28.016149+00:00
+
+ ## Home | Manitoba Liquor & Lotteries
+ - [http://www.mbll.ca](http://www.mbll.ca)
+ - date_published: 2024-08-06T18:02:59.140162+00:00
+
+ ## Bootstrap TD Login
+ - [https://service.mbna.ca](https://service.mbna.ca)
+ - date_published: 2024-06-16T07:44:52.481256+00:00
+
+ ## Offering both rewards credit cards with no annual fee as well as low interest credit card options | MBNA Canada
+ - [https://www.mbna.ca](https://www.mbna.ca)
+ - date_published: 2024-05-01T06:00:16.802370+00:00
+
+ ## McDonald's Kerwin Frost Box Appstakes
+ - [https://www.mcdonaldspromotion.ca](https://www.mcdonaldspromotion.ca)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Computational Geometry Lab at McGill
+ - [http://cgm.cs.mcgill.ca](http://cgm.cs.mcgill.ca)
+ - date_published: 2011-12-20T21:35:31+00:00
+
+ ## Computation and Logic Group, School of Computer Science, McGill University -- Home
+ - [http://complogic.cs.mcgill.ca](http://complogic.cs.mcgill.ca)
+ - date_published: 2024-06-20T18:12:18+00:00
+
+ ## Data Mining and Security Lab @ McGill
+ - [http://dmas.lab.mcgill.ca](http://dmas.lab.mcgill.ca)
+ - date_published: 2022-11-12T02:33:40+00:00
+
+ ## User Login
+ - [https://horizon.mcgill.ca](https://horizon.mcgill.ca)
+ - date_published: 2024-09-06T21:13:21.154338+00:00
+
+ ## OpenPhylo
+ - [http://kovik.cs.mcgill.ca](http://kovik.cs.mcgill.ca)
+ - date_published: 2022-09-15T20:55:49+00:00
+
+ ## Computer Science Webmail :: Welcome to Computer Science Webmail
+ - [http://mail.cs.mcgill.ca](http://mail.cs.mcgill.ca)
+ - date_published: 2024-08-19T10:55:19+00:00
+
+ ## McGill University
+ - [http://mcgill.ca](http://mcgill.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Account Suspended
+ - [http://msurj.mcgill.ca](http://msurj.mcgill.ca)
+ - date_published: 2024-06-30T02:32:39.205738+00:00
+
+ ## myCourses - McGill University Online Courses
+ - [https://mycourses2.mcgill.ca](https://mycourses2.mcgill.ca)
+ - date_published: 2020-01-15T15:05:27+00:00
+
+ ## Incomplete Web Address
+ - [https://nimbus-ssl.mcgill.ca](https://nimbus-ssl.mcgill.ca)
+ - date_published: 2020-01-03T23:22:42+00:00
+
+ ## Phylo DNA Puzzle
+ - [https://phylo.cs.mcgill.ca](https://phylo.cs.mcgill.ca)
+ - date_published: 2024-05-06T23:01:07+00:00
+
+ ## Index of /
+ - [http://profs-polisci.mcgill.ca](http://profs-polisci.mcgill.ca)
+ - date_published: 2010-08-13T00:00:00+00:00
+
+ ## Incomplete Web Address
+ - [https://shibboleth.mcgill.ca](https://shibboleth.mcgill.ca)
+ - date_published: 2022-05-13T00:48:20+00:00
+
+ ## Department of Biology - McGill University
+ - [http://www.biology.mcgill.ca](http://www.biology.mcgill.ca)
+ - date_published: 2020-05-06T16:05:19+00:00
+
+ ## Centre for Intelligent Machines
+ - [http://www.cim.mcgill.ca](http://www.cim.mcgill.ca)
+ - date_published: 2024-07-20T04:30:55+00:00
+
+ ## McGill School Of Computer Science
+ - [https://cs.mcgill.ca](https://cs.mcgill.ca)
+ - date_published: 2023-10-25T12:06:01.879709+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://math.mcgill.ca](https://math.mcgill.ca)
+ - date_published: 2023-10-25T11:21:45.075447+00:00
+
+ ## McGill University
+ - [https://www.mcgill.ca](https://www.mcgill.ca)
+ - date_published: 2023-10-25T11:21:48.349820+00:00
+
+ ## Sable Research Group
+ - [https://sable.mcgill.ca](https://sable.mcgill.ca)
+ - date_published: 2014-07-21T18:26:14+00:00
+
+ ## The Factory
+ - [https://factory.mcgilleus.ca](https://factory.mcgilleus.ca)
+ - date_published: 2022-03-23T15:49:54+00:00
+
+ ## Brighter World – Research focused on the health and well-being of all.
+ - [https://brighterworld.mcmaster.ca](https://brighterworld.mcmaster.ca)
+ - date_published: 2024-02-24T18:06:26.440821+00:00
+
+ ## Home Page
+ - [https://dailynews.mcmaster.ca](https://dailynews.mcmaster.ca)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Home - Directories
+ - [https://directories.mcmaster.ca](https://directories.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:30.076207+00:00
+
+ ## Discover McMaster | University Student Life | McMaster
+ - [https://discover.mcmaster.ca](https://discover.mcmaster.ca)
+ - date_published: 2023-08-02T00:00:00+00:00
+
+ ## Experts
+ - McMaster Experts
+ - [https://experts.mcmaster.ca](https://experts.mcmaster.ca)
+ - date_published: 2024-08-11T15:08:27.750778+00:00
+
+ ## Welcome to The McMaster Engineering Fireball Academy | Fireball Academy
+ - [https://fireballacademy.mcmaster.ca](https://fireballacademy.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:28.414229+00:00
+
+ ## Future Students - McMaster University
+ - [https://future.mcmaster.ca](https://future.mcmaster.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## International and Exchange Student Experience
+ - [https://iss.mcmaster.ca](https://iss.mcmaster.ca)
+ - date_published: 2024-08-10T00:35:44+00:00
+
+ ## Welcome | McMaster University Library
+ - [http://library.mcmaster.ca](http://library.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:31+00:00
+
+ ## Home
+ - [https://mcmaster.ca](https://mcmaster.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Index Page
+ - [http://mosaic.mcmaster.ca](http://mosaic.mcmaster.ca)
+ - date_published: 2024-05-01T16:43:55+00:00
+
+ ## Home - Mathematics & Statistics - Faculty of Science - McMaster University
+ - [https://ms.mcmaster.ca](https://ms.mcmaster.ca)
+ - date_published: 2024-06-30T03:03:28.537176+00:00
+
+ ## Home - McMaster Global
+ - [http://oia.mcmaster.ca](http://oia.mcmaster.ca)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Welcome to Office of the Registrar
+ - [http://registrar.mcmaster.ca](http://registrar.mcmaster.ca)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home - Research & Innovation
+ - [https://research.mcmaster.ca](https://research.mcmaster.ca)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home - University Secretariat
+ - [https://secretariat.mcmaster.ca](https://secretariat.mcmaster.ca)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Home - Faculty of Social Sciences
+ - [https://socialsciences.mcmaster.ca](https://socialsciences.mcmaster.ca)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Welcome to Student Success Centre
+ - [http://studentsuccess.mcmaster.ca](http://studentsuccess.mcmaster.ca)
+ - date_published: 2024-08-17T05:31:13+00:00
+
+ ## Student Wellness Centre - Student Wellness Centre
+ - [https://wellness.mcmaster.ca](https://wellness.mcmaster.ca)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Department of Computing and Software – FACULTY OF ENGINEERING
+ - [https://www.cas.mcmaster.ca](https://www.cas.mcmaster.ca)
+ - date_published: 2024-01-04T00:51:18.377090+00:00
+
+ ## Home
+ - [http://www.eng.mcmaster.ca](http://www.eng.mcmaster.ca)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Faculty of Humanities | Humanities Degree | McMaster University
+ - [http://www.humanities.mcmaster.ca](http://www.humanities.mcmaster.ca)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home
+ - [http://www.mcmaster.ca](http://www.mcmaster.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home - Department of Physics & Astronomy - Faculty of Science - McMaster University
+ - [http://www.physics.mcmaster.ca](http://www.physics.mcmaster.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Home - Faculty of Science - McMaster University
+ - [http://www.science.mcmaster.ca](http://www.science.mcmaster.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home - McMaster Continuing Education
+ - [https://www.mcmastercce.ca](https://www.mcmastercce.ca)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## McMaster Computer Science Society
+ - [https://mcmastercs.ca](https://mcmastercs.ca)
+ - date_published: 2024-08-18T07:34:51.873996+00:00
+
+ ## Медиазона Центральная Азия
+ - [https://mediazona.ca](https://mediazona.ca)
+ - date_published: 2024-06-28T21:49:15.781258+00:00
+
+ ## MedicAlert Foundation Canada | We Speak When You Can't
+ - [https://www.medicalert.ca](https://www.medicalert.ca)
+ - date_published: 2023-07-24T00:00:00+00:00
+
+ ## Diabetes Treatment
+ - [http://www.medtronicdiabetes.ca](http://www.medtronicdiabetes.ca)
+ - date_published: 2024-08-08T14:21:43+00:00
+
+ ## meejah.ca
+ - [https://meejah.ca](https://meejah.ca)
+ - date_published: 2024-06-28T19:56:29.927774+00:00
+
+ ## Mental Disorder | Jonah Davids | Substack
+ - [https://www.mentaldisorder.ca](https://www.mentaldisorder.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Goodbye from Peer Resources
+ - [http://www.mentors.ca](http://www.mentors.ca)
+ - date_published: 2024-06-27T08:27:32.442003+00:00
+
+ ## About – Monica Dinculescu
+ - [https://meowni.ca](https://meowni.ca)
+ - date_published: 2024-05-15T21:46:02+00:00
+
+ ## Luxury Cars - Sedans, SUVs, Coupes & Wagons
+ - [https://www.mercedes-benz.ca](https://www.mercedes-benz.ca)
+ - date_published: 2024-06-20T11:28:36+00:00
+
+ ## MCU - Appointment Booking
+ - [https://appt-booking.meridiancu.ca](https://appt-booking.meridiancu.ca)
+ - date_published: 2024-06-16T09:55:57.847666+00:00
+
+ ## Sign in to online banking
+ - [https://banking.meridiancu.ca](https://banking.meridiancu.ca)
+ - date_published: 2024-06-16T09:55:54.531797+00:00
+
+ ## Login - Meridian Credit Union
+ - [https://businessbanking.meridiancu.ca](https://businessbanking.meridiancu.ca)
+ - date_published: 2024-06-16T09:55:51.613820+00:00
+
+ ## Meridian Lending Digital
+ - [https://lendingdigital.meridiancu.ca](https://lendingdigital.meridiancu.ca)
+ - date_published: 2024-04-16T13:21:48+00:00
+
+ ## Meridian Personal Banking, Credit Cards, Mortgages | Meridian Credit Union
+ - [https://www.meridiancu.ca](https://www.meridiancu.ca)
+ - date_published: 2024-05-01T06:26:16.743090+00:00
+
+ ## Home | Meridian OneCap | Meridian OneCap | Meridian Credit Union
+ - [https://www.meridianonecap.ca](https://www.meridianonecap.ca)
+ - date_published: 2024-06-16T09:55:56.265102+00:00
+
+ ## Robert Merki
+ - [https://merki.ca](https://merki.ca)
+ - date_published: 2024-05-07T14:15:08.111872+00:00
+ - tags: ['personal']
+
+ ## Home - City of Merritt
+ - [https://www.merritt.ca](https://www.merritt.ca)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Mersenne factoring software download
+ - [https://download.mersenne.ca](https://download.mersenne.ca)
+ - date_published: 2024-05-16T02:46:20.056156+00:00
+
+ ## GIMPS (Prime95) mersenne.ca stats
+ - [https://mersenne.ca](https://mersenne.ca)
+ - date_published: 2024-04-10T08:11:23.744834+00:00
+ - tags: ['math']
+
+ ## MES Hybrid Document Systems | Document Management & Scanning Solutions
+ - [https://www.mesltd.ca](https://www.mesltd.ca)
+ - date_published: 2024-06-22T22:54:54+00:00
+
+ ## Video Call SDK and Screen Sharing API | Metered
+ - [https://www.metered.ca](https://www.metered.ca)
+ - date_published: 2024-07-22T17:10:52.690531+00:00
+
+ ## Metroscapes
+ - [https://metroscapes.ca](https://metroscapes.ca)
+ - date_published: 2024-08-14T05:20:27+00:00
+
+ ## Textbooks | Digital Learning Solutions | McGraw Hill Canada
+ - [https://www.mheducation.ca](https://www.mheducation.ca)
+ - date_published: 2024-08-18T12:38:15.634527+00:00
+
+ ## Mental Health Research Canada
+ - [https://www.mhrc.ca](https://www.mhrc.ca)
+ - date_published: 2024-07-11T14:58:05.474855+00:00
+
+ ## Michael Geist -
+ - [https://www.michaelgeist.ca](https://www.michaelgeist.ca)
+ - date_published: 2023-10-25T12:06:10.628082+00:00
+
+ ## Michelob Ultra
+ - [https://www.michelobultra.ca](https://www.michelobultra.ca)
+ - date_published: 2024-06-13T16:42:32+00:00
+
+ ## Andreas Samaris
+ - [https://midnightdelivery.ca](https://midnightdelivery.ca)
+ - date_published: 2024-05-10T06:29:33.617445+00:00
+
+ ## A Blog by Mike Conley
+ - [https://mikeconley.ca](https://mikeconley.ca)
+ - date_published: 2024-07-07T10:33:41.038598+00:00
+
+ ## Montréal - Estiatorio Milos
+ - [http://milos.ca](http://milos.ca)
+ - date_published: 2023-11-22T00:00:00+00:00
+
+ ## About Me
+ - [https://milway.ca](https://milway.ca)
+ - date_published: 2024-07-02T10:14:56.717288+00:00
+
+ ## Minchin.ca
+ - [https://blog.minchin.ca](https://blog.minchin.ca)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Minerva BC | Leadership Programs for Women
+ - [https://minervabc.ca](https://minervabc.ca)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Michael Mior
+ - [https://michael.mior.ca](https://michael.mior.ca)
+ - date_published: 2024-05-11T10:09:02.314423+00:00
+
+ ## www.mirabilis.ca
+ - [http://www.mirabilis.ca](http://www.mirabilis.ca)
+ - date_published: 2024-07-02T06:37:02.568959+00:00
+
+ ## TMR Home Page
+ - [https://miramichireader.ca](https://miramichireader.ca)
+ - date_published: 2024-04-26T23:50:54+00:00
+
+ ## Mitul Shah
+ - [https://mitul.ca](https://mitul.ca)
+ - date_published: 2024-05-09T06:18:35.899229+00:00
+
+ ## Marc Mailhot
+ - [https://mlht.ca](https://mlht.ca)
+ - date_published: 2019-06-20T20:38:13+00:00
+
+ ## Mobil Canada Gas Stations | Mobil Canada
+ - [https://www.mobilfuel.ca](https://www.mobilfuel.ca)
+ - date_published: 2024-07-17T16:40:27.776249+00:00
+
+ ## Retro Modern – Contemporary Modernism to fight boring
+ - [https://modernist3.ca](https://modernist3.ca)
+ - date_published: 2023-11-27T00:26:57.612206+00:00
+ - tags: ['personal']
+
+ ## @mohoromitch | hey
+ - [https://mitchell.mohorovich.ca](https://mitchell.mohorovich.ca)
+ - date_published: 2024-01-04T01:12:43.264182+00:00
+ - tags: ['personal']
+
+ ## Anjan's Homepage
+ - [https://momi.ca](https://momi.ca)
+ - date_published: 2020-07-19T00:00:00+00:00
+
+ ## ÉBÉNISTERIE, ÉBÉNISTES DU QUÉBEC - monebenisterie.ca - Ébénisterie, Ébéniste de votre région
+ - [https://monebenisterie.ca](https://monebenisterie.ca)
+ - date_published: 2024-09-10T11:07:22+00:00
+
+ ## MoneySense | Helping You Make Better Financial Decisions
+ - [https://moneysense.ca](https://moneysense.ca)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## MoneySense | Helping You Make Better Financial Decisions
+ - [http://www.moneysense.ca](http://www.moneysense.ca)
+ - date_published: 2024-06-23T00:00:00+00:00
+
  ## Projects
  - [https://code.monotone.ca](https://code.monotone.ca)
  - date_published: 2024-07-08T13:50:35.309505+00:00
@@ -1595,6 +2000,10 @@
  - [https://reinink.ca](https://reinink.ca)
  - date_published: 2024-07-09T13:36:13.745685+00:00
 
+ ## Remorquage Stevy, Steven Grondin Transport et remorquage en Beauce
+ - [https://remorquagestevy.ca](https://remorquagestevy.ca)
+ - date_published: 2024-09-10T11:04:46+00:00
+
  ## Remote Pixel | Thanks
  - [https://remotepixel.ca](https://remotepixel.ca)
  - date_published: 2021-08-13T10:07:11+00:00
@@ -2191,6 +2600,10 @@
  - [https://sgnews.ca](https://sgnews.ca)
  - date_published: 2015-07-04T01:32:16+00:00
 
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.ca](https://www.sgs.ca)
+ - date_published: 2024-09-10T12:50:58.978386+00:00
+
  ## Home - Shad Canada
  - [https://shad.ca](https://shad.ca)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -2683,6 +3096,10 @@
  ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
  - [https://tentree.ca](https://tentree.ca)
  - date_published: 2024-05-13T00:00:00+00:00
+
+ ## article_acceuil
+ - [https://terrabelladesign.ca](https://terrabelladesign.ca)
+ - date_published: 2024-09-10T11:07:43+00:00
 
  ## Free Driving Test Practice | Driver's License 2024 Canada - Tests.ca
  - [https://tests.ca](https://tests.ca)
@@ -3621,424 +4038,4 @@
  ## Home | UBC Robson Square
  - [https://robsonsquare.ubc.ca](https://robsonsquare.ubc.ca)
  - date_published: 2024-07-21T09:53:42.127576+00:00
-
- ## Search Collections | UBC Library Search
- - [https://search.library.ubc.ca](https://search.library.ubc.ca)
- - date_published: 2024-07-21T09:07:48.913696+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://secure.phas.ubc.ca](https://secure.phas.ubc.ca)
- - date_published: 2024-08-06T10:27:44.861133+00:00
-
- ## Use the Library | UBC Library Services
- - [https://services.library.ubc.ca](https://services.library.ubc.ca)
- - date_published: 2024-07-21T09:07:14.247074+00:00
-
- ## Sociology | University of British Columbia (UBC) | Vancouver, BC, Canada
- - [http://soci.ubc.ca](http://soci.ubc.ca)
- - date_published: 2024-06-17T11:12:23.416028+00:00
-
- ## UBC Security & Privacy Group
- - [https://spg.cs.ubc.ca](https://spg.cs.ubc.ca)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Software Practices Lab - Department of Computer Science - UBC
- - [https://spl.cs.ubc.ca](https://spl.cs.ubc.ca)
- - date_published: 2024-04-30T06:04:58.678497+00:00
-
- ## SYSTOPIA
- - [https://systopia.cs.ubc.ca](https://systopia.cs.ubc.ca)
- - date_published: 2024-07-06T04:12:59+00:00
-
- ## The University of British Columbia
- - [https://ubc.ca](https://ubc.ca)
- - date_published: 2024-06-30T08:35:05.504214+00:00
-
- ## Welcome to WebVoyáge
- - [https://webcat.library.ubc.ca](https://webcat.library.ubc.ca)
- - date_published: 2012-06-27T18:34:02+00:00
-
- ## Resources for The Analysis of Biological Data
- - [https://whitlockschluter3e.zoology.ubc.ca](https://whitlockschluter3e.zoology.ubc.ca)
- - date_published: 2020-01-08T18:55:44+00:00
-
- ## The Analysis of Biological Data (2nd ed.) | Michael Whitlock & Dolph Schluter
- - [https://whitlockschluter.zoology.ubc.ca](https://whitlockschluter.zoology.ubc.ca)
- - date_published: 2024-05-02T10:06:53.163600+00:00
-
- ## Campus Selector
- - [https://www.calendar.ubc.ca](https://www.calendar.ubc.ca)
- - date_published: 2023-05-16T22:03:03+00:00
-
- ## UBCFA Information, News and Updates
- - [https://www.facultyassociation.ubc.ca](https://www.facultyassociation.ubc.ca)
- - date_published: 2024-06-30T09:13:10.384126+00:00
-
- ## Peter A. Allard School of Law - University of British Columbia
- - [http://www.law.ubc.ca](http://www.law.ubc.ca)
- - date_published: 2024-06-17T03:50:54+00:00
-
- ## University of British Columbia Library | UBC Library Home
- - [https://library.ubc.ca](https://library.ubc.ca)
- - date_published: 2024-04-30T05:18:35.690145+00:00
-
- ## Department of Mathematics |
- - [https://www.math.ubc.ca](https://www.math.ubc.ca)
- - date_published: 2024-06-30T08:33:07+00:00
-
- ## Political Science | University of British Columbia | Vancouver, BC, Canada
- - [http://www.politics.ubc.ca](http://www.politics.ubc.ca)
- - date_published: 2024-06-17T14:09:38.875366+00:00
-
- ## HOME | SCQ
- - [http://www.scq.ubc.ca](http://www.scq.ubc.ca)
- - date_published: 2013-11-22T21:35:39+00:00
-
- ## Home - give UBC
- - [https://www.support.ubc.ca](https://www.support.ubc.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Register your alumni.ucalgary.ca account :: Alumni Account Registration
- - [https://alumniaccount.ucalgary.ca](https://alumniaccount.ucalgary.ca)
- - date_published: 2024-07-21T08:54:42.126128+00:00
-
- ## Home
- - [https://alumni.ucalgary.ca](https://alumni.ucalgary.ca)
- - date_published: 2024-04-30T05:19:23.092883+00:00
-
- ## arch magazine |
- - [https://arch-magazine.ucalgary.ca](https://arch-magazine.ucalgary.ca)
- - date_published: 2024-07-21T08:55:38.652244+00:00
-
- ## arch magazine |
- - [https://archmagazine.ucalgary.ca](https://archmagazine.ucalgary.ca)
- - date_published: 2024-08-08T21:25:23.071588+00:00
-
- ## ARTS Home
- - [https://arts.ucalgary.ca](https://arts.ucalgary.ca)
- - date_published: 2024-04-30T05:20:04.568656+00:00
-
- ## Home Page - ASC
- - [https://asc.ucalgary.ca](https://asc.ucalgary.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Home | Biogeoscience Institute
- - [https://bgs.ucalgary.ca](https://bgs.ucalgary.ca)
- - date_published: 2024-07-21T05:44:08+00:00
-
- ## Building3D
- - [https://building3d.ucalgary.ca](https://building3d.ucalgary.ca)
- - date_published: 2023-05-30T00:00:00+00:00
-
- ## UCalgary Catalog
- - [https://calendar.ucalgary.ca](https://calendar.ucalgary.ca)
- - date_published: 2024-04-30T05:19:11.084098+00:00
-
- ## University of Calgary Careers
- - [https://careers.ucalgary.ca](https://careers.ucalgary.ca)
- - date_published: 2024-04-30T05:25:44.543015+00:00
-
- ## Home
- - [https://charbonneau.ucalgary.ca](https://charbonneau.ucalgary.ca)
- - date_published: 2024-07-21T02:46:36+00:00
-
- ## University of Calgary Continuing Education
- - [https://conted.ucalgary.ca](https://conted.ucalgary.ca)
- - date_published: 2024-04-30T05:20:07.255775+00:00
-
- ## Clinical Research Unit
- - [http://cru.ucalgary.ca](http://cru.ucalgary.ca)
- - date_published: 2024-07-21T08:41:31.746529+00:00
-
- ## PeopleSoft Single Signon
- - [https://csprd.my.ucalgary.ca](https://csprd.my.ucalgary.ca)
- - date_published: 2024-04-30T05:20:18.567297+00:00
-
- ## PeopleSoft Single Signon
- - [https://csprd.ucalgary.ca](https://csprd.ucalgary.ca)
- - date_published: 2024-07-06T02:31:21+00:00
-
- ## Home | Cumming School of Medicine
- - [https://cumming.ucalgary.ca](https://cumming.ucalgary.ca)
- - date_published: 2024-04-30T05:25:33.062370+00:00
-
- ## Central Authentication Service
- - [https://d2l.ucalgary.ca](https://d2l.ucalgary.ca)
- - date_published: 2024-04-30T05:19:17.683243+00:00
-
- ## Digital Collections
- - [https://digitalcollections.ucalgary.ca](https://digitalcollections.ucalgary.ca)
- - date_published: 2024-07-21T08:53:08.220111+00:00
-
- ## BBIS Home Page - University of Calgary
- - [https://engage.ucalgary.ca](https://engage.ucalgary.ca)
- - date_published: 2024-07-21T08:50:59.184531+00:00
-
- ## University of Calgary
- - [https://events.ucalgary.ca](https://events.ucalgary.ca)
- - date_published: 2024-04-30T05:19:13.302387+00:00
-
- ## Home
- - [https://fsw.ucalgary.ca](https://fsw.ucalgary.ca)
- - date_published: 2024-04-30T05:20:30.903489+00:00
-
- ## Attention Required! | Cloudflare
- - [https://go.ucalgary.ca](https://go.ucalgary.ca)
- - date_published: 2024-08-10T22:44:50.789341+00:00
-
- ## Home
- - [https://grad.ucalgary.ca](https://grad.ucalgary.ca)
- - date_published: 2024-04-30T05:18:59.766574+00:00
-
- ## Welcome to the Graduate Students’ Association of the University of Calgary!
- - [https://gsa.ucalgary.ca](https://gsa.ucalgary.ca)
- - date_published: 2016-05-28T03:15:57+00:00
-
- ## Haskayne School of Business
- - [https://haskayne.ucalgary.ca](https://haskayne.ucalgary.ca)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Home | HOTCHKISS BRAIN INSTITUTE
- - [https://hbi.ucalgary.ca](https://hbi.ucalgary.ca)
- - date_published: 2024-07-21T06:16:15+00:00
-
- ## Home
- - [http://iqst.ucalgary.ca](http://iqst.ucalgary.ca)
- - date_published: 2024-07-20T16:50:32+00:00
-
- ## Home
- - [http://ispia.ucalgary.ca](http://ispia.ucalgary.ca)
- - date_published: 2024-07-19T08:26:08+00:00
-
- ## Registration :: IT Account Registration
- - [https://itregport.ucalgary.ca](https://itregport.ucalgary.ca)
- - date_published: 2024-07-21T08:57:20.360044+00:00
-
- ## Home
- - [https://it.ucalgary.ca](https://it.ucalgary.ca)
- - date_published: 2024-07-19T12:54:25+00:00
-
- ## Home
- - [https://law.ucalgary.ca](https://law.ucalgary.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## PeopleSoft Single Signon
- - [https://learning.my.ucalgary.ca](https://learning.my.ucalgary.ca)
- - date_published: 2024-07-08T21:46:13+00:00
-
- ## Home | LIBIN CARDIOVASCULAR INSTITUTE
- - [https://libin.ucalgary.ca](https://libin.ucalgary.ca)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## University of Calgary Libraries & Cultural Resources | University of Calgary Library
- - [https://library.ucalgary.ca](https://library.ucalgary.ca)
- - date_published: 2024-04-30T05:19:29.671581+00:00
-
- ## Top Degree Programs and Research in Canada
- - [https://live-homepage.ucalgary.ca](https://live-homepage.ucalgary.ca)
- - date_published: 2024-04-30T05:20:13.022969+00:00
-
- ## Home
- - [https://live-qatar.ucalgary.ca](https://live-qatar.ucalgary.ca)
- - date_published: 2024-07-21T08:49:28+00:00
-
- ## Welcome to SAPL
- - [https://live-sapl.ucalgary.ca](https://live-sapl.ucalgary.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home
- - [https://live-socialwork.ucalgary.ca](https://live-socialwork.ucalgary.ca)
- - date_published: 2024-07-21T08:42:19+00:00
-
- ## Home
- - [https://live-spp.ucalgary.ca](https://live-spp.ucalgary.ca)
- - date_published: 2024-07-19T17:30:01+00:00
-
- ## Top Degree Programs and Research in Canada
- - [https://live-ucalgary.ucalgary.ca](https://live-ucalgary.ucalgary.ca)
- - date_published: 2024-07-21T05:39:39+00:00
-
- ## Home
- - [https://live-vet.ucalgary.ca](https://live-vet.ucalgary.ca)
- - date_published: 2024-07-21T08:36:50.749729+00:00
-
- ## PeopleSoft Single Signon
- - [https://login.my.ucalgary.ca](https://login.my.ucalgary.ca)
- - date_published: 2021-05-25T15:05:13+00:00
-
- ## Homepage | MCCAIG INSTITUTE FOR BONE AND JOINT HEALTH
- - [https://mccaig.ucalgary.ca](https://mccaig.ucalgary.ca)
- - date_published: 2024-07-21T03:53:18+00:00
-
- ## PeopleGrove
- - [https://mentorlink.ucalgary.ca](https://mentorlink.ucalgary.ca)
- - date_published: 2024-07-21T08:42:52+00:00
-
- ## ARCHIBUS
- - [https://myfacilities.ucalgary.ca](https://myfacilities.ucalgary.ca)
- - date_published: 2020-04-17T17:43:44+00:00
-
- ## PeopleSoft Single Signon
- - [https://my.ucalgary.ca](https://my.ucalgary.ca)
- - date_published: 2021-05-25T15:05:13+00:00
-
- ## BBIS Home Page - University of Calgary
- - [https://netcommunity.ucalgary.ca](https://netcommunity.ucalgary.ca)
- - date_published: 2024-07-21T08:42:40.017477+00:00
-
- ## News
- - [https://news.ucalgary.ca](https://news.ucalgary.ca)
- - date_published: 2024-07-19T16:19:11+00:00
-
- ## Visit - Nickle Galleries
- - [https://nickle.ucalgary.ca](https://nickle.ucalgary.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [https://nursing.ucalgary.ca](https://nursing.ucalgary.ca)
- - date_published: 2024-04-30T05:20:27.627298+00:00
-
- ## Home
- - [https://obrieniph.ucalgary.ca](https://obrieniph.ucalgary.ca)
- - date_published: 2024-07-20T06:30:43+00:00
-
- ## Sign in to your account
- - [https://office365.ucalgary.ca](https://office365.ucalgary.ca)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Welcome :: Password Management
- - [https://password.ucalgary.ca](https://password.ucalgary.ca)
- - date_published: 2024-07-21T08:57:24.196142+00:00
-
- ## PeopleSoft Single Signon
- - [https://portal.my.ucalgary.ca](https://portal.my.ucalgary.ca)
- - date_published: 2021-05-25T15:05:13+00:00
-
- ## Home - University of Calgary Press
- - [https://press.ucalgary.ca](https://press.ucalgary.ca)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## PRISM :: Home
- - [https://prism.ucalgary.ca](https://prism.ucalgary.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## UCalgary Profiles
- - [https://profiles.ucalgary.ca](https://profiles.ucalgary.ca)
- - date_published: 2024-04-30T05:19:15.196115+00:00
-
- ## AINA Publications Server
- - [https://pubs.aina.ucalgary.ca](https://pubs.aina.ucalgary.ca)
- - date_published: 2023-10-17T19:17:49+00:00
-
- ## Home | ALBERTA CHILDREN'S HOSPITAL RESEARCH INSTITUTE
- - [http://research4kids.ucalgary.ca](http://research4kids.ucalgary.ca)
- - date_published: 2024-07-19T14:52:26+00:00
-
- ## Welcome to SAPL
- - [https://sapl.ucalgary.ca](https://sapl.ucalgary.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Home
- - [https://schulich.ucalgary.ca](https://schulich.ucalgary.ca)
- - date_published: 2024-04-30T05:19:08.849087+00:00
-
- ## SCIENCE Home
- - [https://science.ucalgary.ca](https://science.ucalgary.ca)
- - date_published: 2024-04-30T05:19:20.857774+00:00
-
- ## Home - University of Calgary Bookstore
- - [https://shop.ucalgary.ca](https://shop.ucalgary.ca)
- - date_published: 2024-07-21T09:04:47.663303+00:00
-
- ## Home
- - [http://snyder.ucalgary.ca](http://snyder.ucalgary.ca)
- - date_published: 2024-07-21T06:06:38+00:00
-
- ## Home
- - [https://socialwork.ucalgary.ca](https://socialwork.ucalgary.ca)
- - date_published: 2024-07-21T08:09:15+00:00
-
- ## Home
- - [https://spp.ucalgary.ca](https://spp.ucalgary.ca)
- - date_published: 2024-04-30T05:25:37.161520+00:00
-
- ## Sign in to your account
- - [https://survey.ucalgary.ca](https://survey.ucalgary.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home
- - [https://taylorinstitute.ucalgary.ca](https://taylorinstitute.ucalgary.ca)
- - date_published: 2024-07-21T07:58:18+00:00
-
- ## University of Calgary
- - [https://ucalgary.ca](https://ucalgary.ca)
- - date_published: 2023-10-25T12:08:42.919794+00:00
- - tags: ['university']
-
- ## Opportunities
-
-        
-            
-            
-
-            in the Faculty of Veterinary Medicine
- - [https://vetmed.careers.ucalgary.ca](https://vetmed.careers.ucalgary.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Home
- - [https://vet.ucalgary.ca](https://vet.ucalgary.ca)
- - date_published: 2024-04-30T05:25:39.359449+00:00
-
- ## Circuit Virtual Tours
- - [https://virtualtour.grad.ucalgary.ca](https://virtualtour.grad.ucalgary.ca)
- - date_published: 2024-08-09T20:35:06+00:00
-
- ## Home
- - [https://web.ucalgary.ca](https://web.ucalgary.ca)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Home
- - [https://werklund.ucalgary.ca](https://werklund.ucalgary.ca)
- - date_published: 2024-04-30T05:20:24.145947+00:00
-
- ## Libraries Booking System -
-        University of Calgary
- - [https://workrooms.ucalgary.ca](https://workrooms.ucalgary.ca)
- - date_published: 2024-07-21T08:53:00.541153+00:00
-
- ## CPSC Home
- - [http://www.cpsc.ucalgary.ca](http://www.cpsc.ucalgary.ca)
- - date_published: 2024-08-11T17:57:02+00:00
-
- ## Home - The Ukrainian Canadian Congress (UCC) official website
- - [https://www.ucc.ca](https://www.ucc.ca)
- - date_published: 2023-01-17T03:12:26+00:00
-
- ## uDiscover Music | Canada Store
- - [https://shop.udiscovermusic.ca](https://shop.udiscovermusic.ca)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## uDiscover Music: discover more about the world’s greatest music
- - [https://udiscovermusic.ca](https://udiscovermusic.ca)
- - date_published: 2024-05-06T21:11:24.115013+00:00
-
- ## Welcome to the Urban Exploration Resource! - Urban Exploration Resource
- - [https://uer.ca](https://uer.ca)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## UX Designer Corner
- - [https://uglyduck.ca](https://uglyduck.ca)
- - date_published: 2024-05-07T23:15:32.149187+00:00
-
- ## Welcome to the University Health Network
- - [https://www.uhn.ca](https://www.uhn.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## uhqs | photography by amanjeev
- - [https://uhqs.ca](https://uhqs.ca)
- - date_published: 2024-07-10T05:35:30.859640+00:00
-
- ## University of King's College | Halifax, Nova Scotia
- - [http://ukings.ca](http://ukings.ca)
- - date_published: 2024-07-31T00:00:00+00:00
 
