@@ -1,3 +1,55 @@
+ ## 11ty Netlify Jumpstart
+ - [https://11ty-netlify-jumpstart.netlify.app](https://11ty-netlify-jumpstart.netlify.app)
+ - date_published: 2024-08-08T22:54:14.635043+00:00
+
+ ## 2021 Color for CSS Cafe - Talk by Adam Argyle
+ - [https://2021-css-cafe.netlify.app](https://2021-css-cafe.netlify.app)
+ - date_published: 2024-04-30T02:02:30.031440+00:00
+
+ ## Great Developer Tools - Talk by Adam Argyle
+ - [https://2021-great-developer-tools.netlify.app](https://2021-great-developer-tools.netlify.app)
+ - date_published: 2021-08-17T00:00:00+00:00
+
+ ## 2021 HD Color > CSS Camp < Talk by Adam Argyle
+ - [https://2021-hd-color-at-css-camp.netlify.app](https://2021-hd-color-at-css-camp.netlify.app)
+ - date_published: 2024-04-30T02:01:19.846709+00:00
+
+ ## Hover Conf 2021 - Whats New In CSS
+ - [https://2021-hover-conf-new-in-css.netlify.app](https://2021-hover-conf-new-in-css.netlify.app)
+ - date_published: 2024-04-30T02:02:41.304652+00:00
+
+ ## renderer or something
+ - [https://3d-renderer.netlify.app](https://3d-renderer.netlify.app)
+ - date_published: 2024-08-08T23:10:04.965278+00:00
+
+ ## Our Dad makes pizza
+ - [https://5c4dcafe738cbdee3952eae8--ourdadmakespizza.netlify.app](https://5c4dcafe738cbdee3952eae8--ourdadmakespizza.netlify.app)
+ - date_published: 2024-07-13T23:51:30.513326+00:00
+
+ ## swyx.io home
+ - [https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app](https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app)
+ - date_published: 2024-05-06T14:00:49.019275+00:00
+
+ ## swyx.io home
+ - [https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app](https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app)
+ - date_published: 2024-05-06T14:16:14.782902+00:00
+
+ ## Michael V.
+ - [https://65eb5a4aaf4baf0008d6dd18--mvieira-fr.netlify.app](https://65eb5a4aaf4baf0008d6dd18--mvieira-fr.netlify.app)
+ - date_published: 2024-07-10T08:52:46.188801+00:00
+
+ ## Introduction | a11y-dialog
+ - [https://a11y-dialog.netlify.app](https://a11y-dialog.netlify.app)
+ - date_published: 2023-07-22T00:00:00+00:00
+
+ ## Home
+ - [https://aatmunbaxi.netlify.app](https://aatmunbaxi.netlify.app)
+ - date_published: 2024-04-28T06:12:13.574366+00:00
+
+ ## Abridge
+ - [https://abridge.netlify.app](https://abridge.netlify.app)
+ - date_published: 2024-07-23T23:43:30.618644+00:00
+
  ## Acing The Internet Webring
  - [https://acingtheinternet.netlify.app](https://acingtheinternet.netlify.app)
  - date_published: 2024-06-23T17:44:02.737494+00:00
@@ -541,6 +593,10 @@
  ## Mega-zine
  - [https://mega-zine.netlify.app](https://mega-zine.netlify.app)
  - date_published: 2024-06-22T13:46:13.358258+00:00
+
+ ## Lifeline Toolkit Quiz
+ - [https://mellifluous-empanada-24e5c2.netlify.app](https://mellifluous-empanada-24e5c2.netlify.app)
+ - date_published: 2024-09-12T15:51:15.341121+00:00
 
  ## Metalsmith Bare-bones Starter
  - [https://metalsmith-bare-bones-starter.netlify.app](https://metalsmith-bare-bones-starter.netlify.app)
@@ -1663,6 +1719,10 @@
  - [https://playuno.app](https://playuno.app)
  - date_published: 2019-08-30T01:02:14+00:00
 
+ ## Home - Plum Village Mobile App
+ - [https://plumvillage.app](https://plumvillage.app)
+ - date_published: 2024-03-15T00:00:00+00:00
+
  ## Bastyon
  - [https://pocketnet.app](https://pocketnet.app)
  - date_published: 2023-11-18T07:12:07+00:00
@@ -1973,6 +2033,10 @@
  ## Rectangles
  - [https://rectangles.app](https://rectangles.app)
  - date_published: 2024-07-23T23:32:49.875653+00:00
+
+ ## Log In ‹ Red Global Venezuela — WordPress
+ - [https://redglobalvenezuela.app](https://redglobalvenezuela.app)
+ - date_published: 2024-09-11T01:31:53.970843+00:00
 
  ## Reeder 5
  - [https://reeder.app](https://reeder.app)
@@ -3961,68 +4025,4 @@
  ## kbar – command+k interface for your site
  - [https://kbar.vercel.app](https://kbar.vercel.app)
  - date_published: 2024-05-04T13:57:48.823881+00:00
-
- ## kcalCalc
- - [https://kcal-calc.vercel.app](https://kcal-calc.vercel.app)
- - date_published: 2024-07-14T09:41:05.895560+00:00
-
- ## gniP
- - [https://keep-webhooks-e793a9efu-keephq.vercel.app](https://keep-webhooks-e793a9efu-keephq.vercel.app)
- - date_published: 2024-07-23T21:35:10.221601+00:00
-
- ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
- - [https://klu-a23qd2gmz-klu.vercel.app](https://klu-a23qd2gmz-klu.vercel.app)
- - date_published: 2024-07-04T03:55:38.586791+00:00
-
- ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
- - [https://klu-cmftltnj8-klu.vercel.app](https://klu-cmftltnj8-klu.vercel.app)
- - date_published: 2024-05-08T04:48:10.553080+00:00
-
- ## Design, Deploy, and Optimize LLM Apps with Klu — Klu.ai
- - [https://klu-j3n0d4hsu-klu.vercel.app](https://klu-j3n0d4hsu-klu.vercel.app)
- - date_published: 2024-07-03T09:21:30.911456+00:00
-
- ## React in-app notifications example | Powered by Knock
- - [https://knock-in-app-notifications-react.vercel.app](https://knock-in-app-notifications-react.vercel.app)
- - date_published: 2024-08-18T10:52:25.804776+00:00
-
- ## Simonyi Konferencia - 2024. 03. 19.
- - [https://konf-web-2024-hc09s23ph-kir-dev.vercel.app](https://konf-web-2024-hc09s23ph-kir-dev.vercel.app)
- - date_published: 2024-09-04T04:21:52.859963+00:00
-
- ## Home Page
- - [https://labs-o0qmrulki-quansight.vercel.app](https://labs-o0qmrulki-quansight.vercel.app)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Subset
- - [https://landing-4tm26doo1-subset.vercel.app](https://landing-4tm26doo1-subset.vercel.app)
- - date_published: 2024-08-18T16:13:50.593892+00:00
-
- ## Dashboard
- - [https://landing-page-4tehrrs0f-final-round-ai.vercel.app](https://landing-page-4tehrrs0f-final-round-ai.vercel.app)
- - date_published: 2024-07-19T04:06:38.626412+00:00
-
- ## LaTeX.css
- - [https://latex.vercel.app](https://latex.vercel.app)
- - date_published: 2024-07-14T11:34:21.188576+00:00
-
- ## Let's Play
- - [https://letsplaytime.vercel.app](https://letsplaytime.vercel.app)
- - date_published: 2024-08-07T22:04:59.945761+00:00
-
- ## Lifecycle
- - [https://lifecycle.vercel.app](https://lifecycle.vercel.app)
- - date_published: 2024-07-14T08:49:37.321442+00:00
-
- ## Rebuilding Linear.app
- - [https://linear-rebuild-chi.vercel.app](https://linear-rebuild-chi.vercel.app)
- - date_published: 2024-07-14T08:30:46.155213+00:00
-
- ## Link Book
- - [https://link-book.vercel.app](https://link-book.vercel.app)
- - date_published: 2023-10-25T11:50:29.441703+00:00
-
- ## JavaScript Loading Patterns
- - [https://loading-patterns.vercel.app](https://loading-patterns.vercel.app)
- - date_published: 2024-08-08T17:49:50.527605+00:00
 

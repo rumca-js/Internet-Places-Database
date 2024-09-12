@@ -1,3 +1,23 @@
+ ## Orifice.ai
+ - [https://orifice.ai](https://orifice.ai)
+ - date_published: 2024-04-14T14:19:34+00:00
+
+ ## AI Detector API Documentation - Originality.ai
+ - [https://docs.originality.ai](https://docs.originality.ai)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Originality.ai
+ - [https://help.originality.ai](https://help.originality.ai)
+ - date_published: 2024-08-19T12:11:23.304066+00:00
+
+ ## AI Content Checker and Plagiarism Check | GPT-4 | ChatGPT
+ - [https://originality.ai](https://originality.ai)
+ - date_published: 2023-10-25T11:41:12.986427+00:00
+
+ ## Chatbot
+ - [https://bot.orimon.ai](https://bot.orimon.ai)
+ - date_published: 2024-06-04T16:59:15+00:00
+
  ## Osmo
  - [https://osmo.ai](https://osmo.ai)
  - date_published: 2024-08-12T00:00:00+00:00
@@ -2192,6 +2212,10 @@
  - [https://studyninja.ai](https://studyninja.ai)
  - date_published: 2024-06-19T20:52:43.257886+00:00
 
+ ## SubstrateAI | Artificial intelligence for the people.
+ - [https://substrate.ai](https://substrate.ai)
+ - date_published: 2024-09-12T12:19:55.469070+00:00
+
  ## Home - Suki AI
  - [https://www.suki.ai](https://www.suki.ai)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -3685,6 +3709,10 @@ Creative Solutions
  - [https://xeek.ai](https://xeek.ai)
  - date_published: 2024-03-15T00:00:00+00:00
 
+ ## Xertica.ai - Responsible GenAI Solutions.
+ - [https://www.xertica.ai](https://www.xertica.ai)
+ - date_published: 2024-09-11T00:00:00+00:00
+
  ## XGBoost
  - [https://xgboost.ai](https://xgboost.ai)
  - date_published: 2024-06-04T03:44:18+00:00
@@ -3997,33 +4025,4 @@ Creative Solutions
  ## Juan Anibal Micheli • Full Stack Web & Mobile developer
  - [https://anib.al](https://anib.al)
  - date_published: 2018-04-25T10:06:17+00:00
-
- ## Aral Balkan
- - [https://ar.al](https://ar.al)
- - date_published: 2023-10-25T08:41:38.253677+00:00
- - tags: ['personal']
-
- ## Aral’s fediverse server
- - [https://mastodon.ar.al](https://mastodon.ar.al)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Audi Albania »  Zbuloni modele dhe oferta | Audi Albania
- - [https://www.audi.al](https://www.audi.al)
- - date_published: 2024-07-19T22:44:00.796957+00:00
-
- ## Enon Avital: UX Designer, Artist, and Illustrator
- - [https://avit.al](https://avit.al)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## ( ͡° ͜ʖ ͡°)
- - [https://bil.al](https://bil.al)
- - date_published: 2024-07-13T04:16:39.128891+00:00
-
- ## CNA - Pa censurë!
- - [https://cna.al](https://cna.al)
- - date_published: 2023-11-06T08:34:19.526910+00:00
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.al](https://colorprinter.al)
- - date_published: 2021-05-02T21:19:19+00:00
 

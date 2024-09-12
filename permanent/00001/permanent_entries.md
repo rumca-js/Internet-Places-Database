@@ -1,3 +1,7 @@
+ ## Dimensions Badges
+ - [https://badge.dimensions.ai](https://badge.dimensions.ai)
+ - date_published: 2024-04-28T03:39:48.517297+00:00
+
  ## Dimensions AI | The most advanced scientific research database
  - [https://www.dimensions.ai](https://www.dimensions.ai)
  - date_published: 2024-07-01T12:50:23+00:00
@@ -1187,6 +1191,10 @@
  - [https://www.gling.ai](https://www.gling.ai)
  - date_published: 2024-06-19T00:00:00+00:00
 
+ ## The Global Index on Responsible AI
+ - [https://global-index.ai](https://global-index.ai)
+ - date_published: 2024-08-29T00:00:00+00:00
+
  ## AutoGluon: AutoML for Text, Image, Time Series, and Tabular Data — AutoGluon Documentation
  - [https://auto.gluon.ai](https://auto.gluon.ai)
  - date_published: 2023-03-06T12:57:26+00:00
@@ -1382,6 +1390,10 @@
  ## Hallidai
  - [https://hallid.ai](https://hallid.ai)
  - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Introduction - Hamming
+ - [https://docs.hamming.ai](https://docs.hamming.ai)
+ - date_published: 2024-05-29T00:00:00+00:00
 
  ## Hamming - Eval-driven development made simple
  - [https://hamming.ai](https://hamming.ai)
@@ -3005,6 +3017,10 @@
  - [https://magictype.ai](https://magictype.ai)
  - date_published: 2024-06-19T20:05:40.194589+00:00
 
+ ## Speed Up Software Quality Assurance with AI | MagnifAI
+ - [https://magnif.ai](https://magnif.ai)
+ - date_published: 2024-08-15T00:00:00+00:00
+
  ## Magnific AI
  - [https://magnific.ai](https://magnific.ai)
  - date_published: 2024-04-28T04:38:00.866111+00:00
@@ -3811,6 +3827,10 @@
  - [https://objectivepersonality.ai](https://objectivepersonality.ai)
  - date_published: 2023-10-30T00:00:00+00:00
 
+ ## Por el conocimiento de la Inteligencia Artificial | Observatorio IA
+ - [https://observatorio-ametic.ai](https://observatorio-ametic.ai)
+ - date_published: 2024-09-09T22:02:12+00:00
+
  ## Conversation Intelligence Software for Contact Centers | Observe.AI
  - [https://www.observe.ai](https://www.observe.ai)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -4000,24 +4020,4 @@
  ## Gen AI-powered automation to mechanize repetitive back-office processes
  - [https://www.orby.ai](https://www.orby.ai)
  - date_published: 2024-06-17T10:21:42+00:00
-
- ## Orifice.ai
- - [https://orifice.ai](https://orifice.ai)
- - date_published: 2024-04-14T14:19:34+00:00
-
- ## AI Detector API Documentation - Originality.ai
- - [https://docs.originality.ai](https://docs.originality.ai)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Originality.ai
- - [https://help.originality.ai](https://help.originality.ai)
- - date_published: 2024-08-19T12:11:23.304066+00:00
-
- ## AI Content Checker and Plagiarism Check | GPT-4 | ChatGPT
- - [https://originality.ai](https://originality.ai)
- - date_published: 2023-10-25T11:41:12.986427+00:00
-
- ## Chatbot
- - [https://bot.orimon.ai](https://bot.orimon.ai)
- - date_published: 2024-06-04T16:59:15+00:00
 

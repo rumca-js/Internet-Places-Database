@@ -1230,6 +1230,10 @@
  - [https://itweb.africa](https://itweb.africa)
  - date_published: 2024-06-26T11:49:12.142766+00:00
 
+ ## Home - Jesuit Conference Of Africa and Madagascar: JCAM
+ - [https://www.jesuits.africa](https://www.jesuits.africa)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## LEAP Institute
  - [http://leapinstitute.africa](http://leapinstitute.africa)
  - date_published: 2024-07-14T12:35:42.408687+00:00
@@ -2042,6 +2046,10 @@
  ## Create beautiful AI-generated app icons.
  - [https://appicons.ai](https://appicons.ai)
  - date_published: 2024-06-19T20:05:25.512523+00:00
+
+ ## ApplyFox.ai: The Job Application AI - Auto-Apply To 1,000+ Jobs With One Click
+ - [https://applyfox.ai](https://applyfox.ai)
+ - date_published: 2024-09-12T17:17:00.506060+00:00
 
  ## App Market Insights, App Intel, Inventory Management and AI
  - [https://appmonsta.ai](https://appmonsta.ai)
@@ -3388,10 +3396,6 @@ Welcome
  - [https://constella.ai](https://constella.ai)
  - date_published: 2024-08-13T00:00:00+00:00
 
- ## AI-Driven Identity Risk Intelligence | Constella Intelligence
- - [https://www.constella.ai](https://www.constella.ai)
- - date_published: 2024-08-13T00:00:00+00:00
-
  ## Content at Scale | The World's Most Humanlike AI Writer
  - [https://contentatscale.ai](https://contentatscale.ai)
  - date_published: 2023-10-24T15:51:29+00:00
@@ -4021,8 +4025,4 @@ Welcome
  ## Human Verification
  - [https://app.dimensions.ai](https://app.dimensions.ai)
  - date_published: 2024-05-08T12:02:34.799569+00:00
-
- ## Dimensions Badges
- - [https://badge.dimensions.ai](https://badge.dimensions.ai)
- - date_published: 2024-04-28T03:39:48.517297+00:00
 

@@ -1,3 +1,32 @@
+ ## Aral Balkan
+ - [https://ar.al](https://ar.al)
+ - date_published: 2023-10-25T08:41:38.253677+00:00
+ - tags: ['personal']
+
+ ## Aral’s fediverse server
+ - [https://mastodon.ar.al](https://mastodon.ar.al)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Audi Albania »  Zbuloni modele dhe oferta | Audi Albania
+ - [https://www.audi.al](https://www.audi.al)
+ - date_published: 2024-07-19T22:44:00.796957+00:00
+
+ ## Enon Avital: UX Designer, Artist, and Illustrator
+ - [https://avit.al](https://avit.al)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## ( ͡° ͜ʖ ͡°)
+ - [https://bil.al](https://bil.al)
+ - date_published: 2024-07-13T04:16:39.128891+00:00
+
+ ## CNA - Pa censurë!
+ - [https://cna.al](https://cna.al)
+ - date_published: 2023-11-06T08:34:19.526910+00:00
+
+ ## Colorprinter - Colorprinter©
+ - [https://colorprinter.al](https://colorprinter.al)
+ - date_published: 2021-05-02T21:19:19+00:00
+
  ## composition.al - Ta strona jest na sprzedaż! - composition Zasoby i informacje.
  - [http://composition.al](http://composition.al)
  - date_published: 2024-07-04T11:15:57+00:00
@@ -1011,6 +1040,10 @@
  - [https://adblockpro.app](https://adblockpro.app)
  - date_published: 2024-06-06T18:54:46+00:00
 
+ ## Afrus
+ - [https://my.afrus.app](https://my.afrus.app)
+ - date_published: 2024-08-29T20:31:26+00:00
+
  ## Age Calculators
  - [https://agecalculators.app](https://agecalculators.app)
  - date_published: 2024-01-08T08:44:23+00:00
@@ -1034,6 +1067,10 @@
  ## AI Integrations for Customer Support — Aide
  - [https://aide.app](https://aide.app)
  - date_published: 2024-06-19T18:50:43.410908+00:00
+
+ ## AI Jobs – Developer, designer, marketing, sales jobs, and more
+ - [https://aijobs.app](https://aijobs.app)
+ - date_published: 2024-09-08T00:00:00+00:00
 
  ## Airclap - Send any file to any device
  - [https://airclap.app](https://airclap.app)
@@ -1192,6 +1229,10 @@
  ## Audiomatic
  - [https://www.audiomatic.app](https://www.audiomatic.app)
  - date_published: 2024-09-02T09:50:16.366912+00:00
+
+ ## Aumentur | The smart app, for smart destinations and smart travellers
+ - [https://www.aumentur.app](https://www.aumentur.app)
+ - date_published: 2024-09-12T11:43:18.842341+00:00
 
  ## AutoWrite - The Best AI SEO Writer
  - [https://autowrite.app](https://autowrite.app)
@@ -2816,6 +2857,14 @@
  - [https://guides.hackclub.app](https://guides.hackclub.app)
  - date_published: 2024-05-15T00:00:00+00:00
 
+ ## Oferta académica | Celam en haif
+ - [https://celam.haif.app](https://celam.haif.app)
+ - date_published: 2024-09-11T01:52:28.731568+00:00
+
+ ## Congreso
+ - [https://cngcelam.haif.app](https://cngcelam.haif.app)
+ - date_published: 2024-09-11T01:52:08.594519+00:00
+
  ## Hailey HR
  - [https://haileyhr.app](https://haileyhr.app)
  - date_published: 2024-07-10T09:42:31+00:00
@@ -3230,6 +3279,10 @@
  ## Kolo – Generate working tests, instantly
  - [https://kolo.app](https://kolo.app)
  - date_published: 2024-06-18T06:33:24.771294+00:00
+
+ ## Konty | Sketch your app ideas without stress
+ - [https://konty.app](https://konty.app)
+ - date_published: 2024-09-12T11:29:38.887670+00:00
 
  ## Kosmik
  - [https://play.kosmik.app](https://play.kosmik.app)
@@ -3979,56 +4032,4 @@
  ## 特務機関NERV防災
  - [https://nerv.app](https://nerv.app)
  - date_published: 2024-01-01T22:14:48.864192+00:00
-
- ## 11ty Netlify Jumpstart
- - [https://11ty-netlify-jumpstart.netlify.app](https://11ty-netlify-jumpstart.netlify.app)
- - date_published: 2024-08-08T22:54:14.635043+00:00
-
- ## 2021 Color for CSS Cafe - Talk by Adam Argyle
- - [https://2021-css-cafe.netlify.app](https://2021-css-cafe.netlify.app)
- - date_published: 2024-04-30T02:02:30.031440+00:00
-
- ## Great Developer Tools - Talk by Adam Argyle
- - [https://2021-great-developer-tools.netlify.app](https://2021-great-developer-tools.netlify.app)
- - date_published: 2021-08-17T00:00:00+00:00
-
- ## 2021 HD Color > CSS Camp < Talk by Adam Argyle
- - [https://2021-hd-color-at-css-camp.netlify.app](https://2021-hd-color-at-css-camp.netlify.app)
- - date_published: 2024-04-30T02:01:19.846709+00:00
-
- ## Hover Conf 2021 - Whats New In CSS
- - [https://2021-hover-conf-new-in-css.netlify.app](https://2021-hover-conf-new-in-css.netlify.app)
- - date_published: 2024-04-30T02:02:41.304652+00:00
-
- ## renderer or something
- - [https://3d-renderer.netlify.app](https://3d-renderer.netlify.app)
- - date_published: 2024-08-08T23:10:04.965278+00:00
-
- ## Our Dad makes pizza
- - [https://5c4dcafe738cbdee3952eae8--ourdadmakespizza.netlify.app](https://5c4dcafe738cbdee3952eae8--ourdadmakespizza.netlify.app)
- - date_published: 2024-07-13T23:51:30.513326+00:00
-
- ## swyx.io home
- - [https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app](https://604bf32dcfdb601163498323--scout-videos-51664.netlify.app)
- - date_published: 2024-05-06T14:00:49.019275+00:00
-
- ## swyx.io home
- - [https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app](https://604bfc8099765a1bd20fce77--scout-videos-51664.netlify.app)
- - date_published: 2024-05-06T14:16:14.782902+00:00
-
- ## Michael V.
- - [https://65eb5a4aaf4baf0008d6dd18--mvieira-fr.netlify.app](https://65eb5a4aaf4baf0008d6dd18--mvieira-fr.netlify.app)
- - date_published: 2024-07-10T08:52:46.188801+00:00
-
- ## Introduction | a11y-dialog
- - [https://a11y-dialog.netlify.app](https://a11y-dialog.netlify.app)
- - date_published: 2023-07-22T00:00:00+00:00
-
- ## Home
- - [https://aatmunbaxi.netlify.app](https://aatmunbaxi.netlify.app)
- - date_published: 2024-04-28T06:12:13.574366+00:00
-
- ## Abridge
- - [https://abridge.netlify.app](https://abridge.netlify.app)
- - date_published: 2024-07-23T23:43:30.618644+00:00
 
