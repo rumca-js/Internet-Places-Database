@@ -1,3 +1,63 @@
+ ## AI Voice Generator: Versatile Text to Speech Software | Murf AI
+ - [https://murf.ai](https://murf.ai)
+ - date_published: 2023-10-25T11:40:41.933283+00:00
+
+ ## muse.ai | Next-gen video hosting with the most advanced in-video search
+ - [https://muse.ai](https://muse.ai)
+ - date_published: 2024-06-28T23:41:55.062267+00:00
+
+ ## AI Audio Models to Power Your Music Business
+ - [https://music.ai](https://music.ai)
+ - date_published: 2024-09-13T20:35:54.734594+00:00
+
+ ## Musick.ai : Free AI Music Generator & AI Song Maker Online
+ - [https://musick.ai](https://musick.ai)
+ - date_published: 2024-09-13T20:26:44.556883+00:00
+
+ ## mutable.ai | Omar Shams | Substack
+ - [https://blog.mutable.ai](https://blog.mutable.ai)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Welcome to Mutable.ai! | Mutable.ai User Guide
+ - [https://docs.mutable.ai](https://docs.mutable.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## mutable.ai
+ - [https://mutable.ai](https://mutable.ai)
+ - date_published: 2024-06-14T09:00:16.860086+00:00
+
+ ## Auto Wiki by Mutable.ai — High-Quality Generated Code Documentation
+ - [https://wiki.mutable.ai](https://wiki.mutable.ai)
+ - date_published: 2024-01-08T19:01:50.485594+00:00
+
+ ## App Publishing Partner & AI Apps Pioneer - MWM
+ - [https://www.mwm.ai](https://www.mwm.ai)
+ - date_published: 2024-09-02T12:50:14.019199+00:00
+
+ ## Webchat Stage - ALICE
+ - [https://widget.myalice.ai](https://widget.myalice.ai)
+ - date_published: 2023-06-21T11:25:10+00:00
+
+ ## Anima: AI Friend
+ - [https://myanima.ai](https://myanima.ai)
+ - date_published: 2024-06-19T19:54:28+00:00
+
+ ## Home | AI Tutor
+ - [https://myapps.ai](https://myapps.ai)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Open Source Conversational AI Community
+ - [https://chat.mycroft.ai](https://chat.mycroft.ai)
+ - date_published: 2024-08-19T17:55:22.409437+00:00
+
+ ## Mycroft – The Open Source Privacy-Focused Voice Assistant - Mycroft
+ - [https://mycroft.ai](https://mycroft.ai)
+ - date_published: 2023-10-25T08:32:40.290881+00:00
+
+ ## myEssai | AI Powered Essay Tutor
+ - [https://myess.ai](https://myess.ai)
+ - date_published: 2024-06-19T18:52:51.357524+00:00
+
  ## My Hacker News
  - [https://www.myhackernews.ai](https://www.myhackernews.ai)
  - date_published: 2024-07-16T18:17:51.846953+00:00
@@ -101,6 +161,10 @@
  ## Homepage - Naratix
  - [https://naratix.ai](https://naratix.ai)
  - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Narrativ
+ - [https://narrativ.ai](https://narrativ.ai)
+ - date_published: 2024-09-21T23:06:54.911063+00:00
 
  ## AI for Science Workshop
  - [https://ai4science.nassma.ai](https://ai4science.nassma.ai)
@@ -319,6 +383,10 @@
  ## Secure software development with AI agents.
  - [https://www.nullify.ai](https://www.nullify.ai)
  - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Home - NumberEight
+ - [https://numbereight.ai](https://numbereight.ai)
+ - date_published: 2024-05-08T00:00:00+00:00
 
  ## Login | NumberEight
  - [https://portal.eu.numbereight.ai](https://portal.eu.numbereight.ai)
@@ -803,6 +871,10 @@
  ## Phonely
  - [https://app.phonely.ai](https://app.phonely.ai)
  - date_published: 2024-06-15T21:05:34.714099+00:00
+
+ ## Phonely Jvj4r7lrpi
+ - [https://help.phonely.ai](https://help.phonely.ai)
+ - date_published: 2024-09-19T00:00:00+00:00
 
  ## Home
  - [https://phonely.ai](https://phonely.ai)
@@ -2447,6 +2519,10 @@
  - [https://sitegpt.ai](https://sitegpt.ai)
  - date_published: 2024-06-16T01:16:14.273292+00:00
 
+ ## Attention Required! | Cloudflare
+ - [https://widget.sitegpt.ai](https://widget.sitegpt.ai)
+ - date_published: 2024-09-20T17:18:09.131552+00:00
+
  ## AI landing page builder
  - [https://www.sitekick.ai](https://www.sitekick.ai)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -3949,80 +4025,4 @@
  ## Vast.ai | Console
  - [https://cloud.vast.ai](https://cloud.vast.ai)
  - date_published: 2024-07-12T08:09:52.294115+00:00
-
- ## Redefining Video Advertising Across All Platforms
- - [https://a.vdo.ai](https://a.vdo.ai)
- - date_published: 2024-06-20T01:10:05.594004+00:00
-
- ## VectorArt.ai
- - [https://docs.vectorart.ai](https://docs.vectorart.ai)
- - date_published: 2024-08-19T12:00:06.297007+00:00
-
- ## VectorArt.ai - Unlimited AI Generated Vector Images
- - [https://vectorart.ai](https://vectorart.ai)
- - date_published: 2023-10-25T11:44:51.285364+00:00
-
- ## Cierpliwości...
- - [https://talenthub.vectorinstitute.ai](https://talenthub.vectorinstitute.ai)
- - date_published: 2024-07-04T10:25:38.816064+00:00
-
- ## Home - Vector Institute for Artificial Intelligence
- - [https://vectorinstitute.ai](https://vectorinstitute.ai)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Convert PNG, JPG files to SVG vectors online - Vectorizer.AI
- - [https://vectorizer.ai](https://vectorizer.ai)
- - date_published: 2024-06-19T21:22:34.702162+00:00
-
- ## Stop advanced attacks with Vectra AI
- - [https://www.vectra.ai](https://www.vectra.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Meet Copilot, smart tech for your bike
- - [https://www.velo.ai](https://www.velo.ai)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Ivan Vendrov
- - [https://www.vendrov.ai](https://www.vendrov.ai)
- - date_published: 2024-07-04T06:10:05.953231+00:00
-
- ## Venturekit | AI Generated Business Plans
- - [https://venturekit.ai](https://venturekit.ai)
- - date_published: 2024-06-14T08:54:38.792469+00:00
-
- ## Verbalate
- - [http://app.verbalate.ai](http://app.verbalate.ai)
- - date_published: 2024-09-14T08:02:50.861683+00:00
-
- ## Verbalate
- - [https://beta.verbalate.ai](https://beta.verbalate.ai)
- - date_published: 2024-09-14T08:02:52.663435+00:00
-
- ## Home
- - [https://verbalate.ai](https://verbalate.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Transcription Services for Audio & Video | Verbit Go
- - [https://go.verbit.ai](https://go.verbit.ai)
- - date_published: 2024-07-17T02:44:08.376561+00:00
-
- ## Verbit: AI-Based Transcription & Captioning Services
- - [https://verbit.ai](https://verbit.ai)
- - date_published: 2024-05-12T07:40:48.410466+00:00
-
- ## AI Playground
- - [https://play.vercel.ai](https://play.vercel.ai)
- - date_published: 2023-10-25T11:44:52.765812+00:00
-
- ## Vercel AI SDK
- - [https://sdk.vercel.ai](https://sdk.vercel.ai)
- - date_published: 2024-07-19T19:01:05.987873+00:00
-
- ## Convert leads with AI-powered SMS conversations! | Verse.ai
- - [http://verse.ai](http://verse.ai)
- - date_published: 2024-07-19T23:18:47+00:00
-
- ## Home | Vespa Blog
- - [https://blog.vespa.ai](https://blog.vespa.ai)
- - date_published: 2023-10-25T11:44:53.977138+00:00
 

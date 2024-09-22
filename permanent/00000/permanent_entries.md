@@ -100,6 +100,10 @@
  - date_published: 2024-05-02T14:04:19.163092+00:00
  - tags: ['emulator', "asheron's call", 'open source']
 
+ ## GRID - Global Research Identifier Database
+ - [https://grid.ac](https://grid.ac)
+ - date_published: 2024-09-20T15:34:16.742781+00:00
+
  ## Main page redirect (generated automatically)
  - [https://hackp.ac](https://hackp.ac)
  - date_published: 2024-05-04T09:14:32.745943+00:00
@@ -848,6 +852,10 @@
  - [https://www.takallam.ae](https://www.takallam.ae)
  - date_published: 2024-09-05T19:57:04.572079+00:00
 
+ ## Tawazun Council - Overview
+ - [https://www.tawazun.ae](https://www.tawazun.ae)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## The National - Latest world news, sport & opinion
  - [https://thenational.ae](https://thenational.ae)
  - date_published: 2024-04-28T00:00:00+00:00
@@ -964,6 +972,10 @@
  ## Open Data UAE
  - [https://opendata.fcsc.gov.ae](https://opendata.fcsc.gov.ae)
  - date_published: 2024-06-12T12:52:03.334048+00:00
+
+ ## Tawazun Council - Overview
+ - [https://www.tawazun.gov.ae](https://www.tawazun.gov.ae)
+ - date_published: 2024-06-03T00:00:00+00:00
 
  ## ACI World - The Voice of the World's Airports
  - [https://aci.aero](https://aci.aero)
@@ -1254,6 +1266,10 @@
  - [https://darnell.africa](https://darnell.africa)
  - date_published: 2024-05-07T19:08:12.709856+00:00
 
+ ## John Deere Africa Middle East | John Deere Equipment | John Deere AFME
+ - [https://www.deere.africa](https://www.deere.africa)
+ - date_published: 2024-09-19T19:37:16.555330+00:00
+
  ## DjangoCon Africa 2023
  - [https://2023.djangocon.africa](https://2023.djangocon.africa)
  - date_published: 2024-01-28T00:00:00+00:00
@@ -1289,6 +1305,10 @@
  ## mastodon.africa
  - [https://mastodon.africa](https://mastodon.africa)
  - date_published: 2024-08-18T07:13:53.285399+00:00
+
+ ## Defence news, Aerospace, Military, Technology, and security news in Africa
+ - [https://www.military.africa](https://www.military.africa)
+ - date_published: 2022-08-31T21:07:54+00:00
 
  ## Nation ePaper: The Truth wherever you go.
  - [https://epaper.nation.africa](https://epaper.nation.africa)
@@ -1738,7 +1758,7 @@
  - date_published: 2024-08-13T10:19:07+00:00
 
  ## 1001 Nights - AI Native Game  | 1001 Nights
- - [https://www.1001nights.ai](https://www.1001nights.ai)
+ - [https://1001nights.ai](https://1001nights.ai)
  - date_published: 2024-06-15T23:17:09.816983+00:00
 
  ## 10W.AI
@@ -2163,6 +2183,10 @@
  - [https://docs.api7.ai](https://docs.api7.ai)
  - date_published: 2024-08-19T12:25:54.138464+00:00
 
+ ## Home
+ - [https://apidna.ai](https://apidna.ai)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## Aplicaciones.AI - Directorio de Herramientas de IA
  - [https://aplicaciones.ai](https://aplicaciones.ai)
  - date_published: 2023-01-23T08:10:19+00:00
@@ -2492,6 +2516,10 @@
  - [https://axiom.ai](https://axiom.ai)
  - date_published: 2024-06-17T15:57:01+00:00
 
+ ## Ayna.AI: Management Consulting Firm Empowering Industries
+ - [https://www.ayna.ai](https://www.ayna.ai)
+ - date_published: 2024-09-19T00:00:00+00:00
+
  ## Joscha Bach
  - [http://bach.ai](http://bach.ai)
  - date_published: 2023-07-14T17:24:44+00:00
@@ -2573,8 +2601,20 @@
  - [https://beaglebone.ai](https://beaglebone.ai)
  - date_published: 2024-07-30T00:00:00+00:00
 
+ ## Beamo - Accounts
+ - [https://accounts.beamo.ai](https://accounts.beamo.ai)
+ - date_published: 2024-08-19T07:23:45+00:00
+
+ ## Beamo - Accounts
+ - [https://app.beamo.ai](https://app.beamo.ai)
+ - date_published: 2024-08-19T07:23:45+00:00
+
+ ## Beamo Support
+ - [https://support.beamo.ai](https://support.beamo.ai)
+ - date_published: 2024-08-28T00:00:00+00:00
+
  ## Beamo - 360° photo based digital twin
- - [https://www.beamo.ai](https://www.beamo.ai)
+ - [https://beamo.ai](https://beamo.ai)
  - date_published: 2024-06-10T01:27:34+00:00
 
  ## Bearly | The world's best AI at your fingertips.
@@ -3986,44 +4026,4 @@ Welcome
  ## Dan Rose AI - Applied Artificial Intelligence
  - [https://www.danrose.ai](https://www.danrose.ai)
  - date_published: 2024-08-18T12:24:24.911482+00:00
-
- ## Danswer
- - [https://app.danswer.ai](https://app.danswer.ai)
- - date_published: 2024-08-11T16:54:48.382309+00:00
-
- ## Danswer - Open Source Workplace Search
- - [https://danswer.ai](https://danswer.ai)
- - date_published: 2024-02-22T15:20:53.072864+00:00
-
- ## ‏Justice Intelligence Platform | Darrow
- - [https://www.darrow.ai](https://www.darrow.ai)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Home
- - [https://dasha.ai](https://dasha.ai)
- - date_published: 2024-05-08T06:17:04.759991+00:00
-
- ## Dasha Studio
- - [https://playground.dasha.ai](https://playground.dasha.ai)
- - date_published: 2024-06-25T04:56:57+00:00
-
- ## Dasha status
- - [https://status.dasha.ai](https://status.dasha.ai)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Dashworks
- - [https://web.dashworks.ai](https://web.dashworks.ai)
- - date_published: 2024-08-17T18:58:04+00:00
-
- ## Dash AI: Enterprise AI Knowledge Assistant | Dashworks.ai
- - [https://dashworks.ai](https://dashworks.ai)
- - date_published: 2023-10-25T11:37:54.337559+00:00
-
- ## data.ai | Community
- - [https://community.data.ai](https://community.data.ai)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Mobile Market Data and App Insights | data.ai (fka App Annie)
- - [http://data.ai](http://data.ai)
- - date_published: 2024-06-16T13:00:28.675228+00:00
 

@@ -1,3 +1,43 @@
+ ## Danswer
+ - [https://app.danswer.ai](https://app.danswer.ai)
+ - date_published: 2024-08-11T16:54:48.382309+00:00
+
+ ## Danswer - Open Source Workplace Search
+ - [https://danswer.ai](https://danswer.ai)
+ - date_published: 2024-02-22T15:20:53.072864+00:00
+
+ ## ‏Justice Intelligence Platform | Darrow
+ - [https://www.darrow.ai](https://www.darrow.ai)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Home
+ - [https://dasha.ai](https://dasha.ai)
+ - date_published: 2024-05-08T06:17:04.759991+00:00
+
+ ## Dasha Studio
+ - [https://playground.dasha.ai](https://playground.dasha.ai)
+ - date_published: 2024-06-25T04:56:57+00:00
+
+ ## Dasha status
+ - [https://status.dasha.ai](https://status.dasha.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Dashworks
+ - [https://web.dashworks.ai](https://web.dashworks.ai)
+ - date_published: 2024-08-17T18:58:04+00:00
+
+ ## Dash AI: Enterprise AI Knowledge Assistant | Dashworks.ai
+ - [https://dashworks.ai](https://dashworks.ai)
+ - date_published: 2023-10-25T11:37:54.337559+00:00
+
+ ## data.ai | Community
+ - [https://community.data.ai](https://community.data.ai)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Mobile Market Data and App Insights | data.ai (fka App Annie)
+ - [http://data.ai](http://data.ai)
+ - date_published: 2024-06-16T13:00:28.675228+00:00
+
  ## DataBorg -  Hypercharge your data
  - [https://databorg.ai](https://databorg.ai)
  - date_published: 2023-10-25T11:37:55.764213+00:00
@@ -80,6 +120,10 @@
  ## Home | DeepFiction
  - [https://www.deepfiction.ai](https://www.deepfiction.ai)
  - date_published: 2024-06-27T10:52:21.442731+00:00
+
+ ## Swae
+ - [https://proposals.deepfunding.ai](https://proposals.deepfunding.ai)
+ - date_published: 2024-06-25T18:24:25+00:00
 
  ## Deep-Image.ai Upscale images, remove background, generate avatars, interiors and doodles
  - [https://deep-image.ai](https://deep-image.ai)
@@ -570,6 +614,10 @@
  ## Write Better & Faster with Eloise AI
  - [https://eloise.ai](https://eloise.ai)
  - date_published: 2024-06-19T20:07:43.256203+00:00
+
+ ## Elook.AI – Generate High-Quality Leads Effortlessly with Our AI Tool
+ - [https://elook.ai](https://elook.ai)
+ - date_published: 2024-09-21T22:51:41.908723+00:00
 
  ## Elto
  - [https://www.elto.ai](https://www.elto.ai)
@@ -1290,6 +1338,10 @@
  - [https://www.gadfly.ai](https://www.gadfly.ai)
  - date_published: 2024-06-06T01:47:28+00:00
 
+ ## Gaia
+ - [https://www.gaianet.ai](https://www.gaianet.ai)
+ - date_published: 2024-09-21T23:25:27.281281+00:00
+
  ## Momentum
  - [https://gainmomentum.ai](https://gainmomentum.ai)
  - date_published: 2024-04-17T00:00:00+00:00
@@ -1617,6 +1669,10 @@
  ## Grammarly: Free AI Writing Assistance
  - [https://grammarly.ai](https://grammarly.ai)
  - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Workstation & Server Configuration - Grando.ai
+ - [https://configurator.grando.ai](https://configurator.grando.ai)
+ - date_published: 2024-09-20T10:01:47.329812+00:00
 
  ## Liquid cooled server - Comino Grando
  - [https://grando.ai](https://grando.ai)
@@ -2435,6 +2491,10 @@
  ## Online tutoring with the help of artificial intelligence
  - [https://www.jagoda.ai](https://www.jagoda.ai)
  - date_published: 2024-06-19T19:54:11.585874+00:00
+
+ ## JAMX
+ - [https://jamx.ai](https://jamx.ai)
+ - date_published: 2024-09-18T08:36:54+00:00
 
  ## Open-Source ChatGPT Alternative Jan
  - [https://jan.ai](https://jan.ai)
@@ -3955,64 +4015,4 @@
  ## Help Center
  - [https://help.murf.ai](https://help.murf.ai)
  - date_published: 2024-08-16T08:23:37+00:00
-
- ## AI Voice Generator: Versatile Text to Speech Software | Murf AI
- - [https://murf.ai](https://murf.ai)
- - date_published: 2023-10-25T11:40:41.933283+00:00
-
- ## muse.ai | Next-gen video hosting with the most advanced in-video search
- - [https://muse.ai](https://muse.ai)
- - date_published: 2024-06-28T23:41:55.062267+00:00
-
- ## AI Audio Models to Power Your Music Business
- - [https://music.ai](https://music.ai)
- - date_published: 2024-09-13T20:35:54.734594+00:00
-
- ## Musick.ai : Free AI Music Generator & AI Song Maker Online
- - [https://musick.ai](https://musick.ai)
- - date_published: 2024-09-13T20:26:44.556883+00:00
-
- ## mutable.ai | Omar Shams | Substack
- - [https://blog.mutable.ai](https://blog.mutable.ai)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## Welcome to Mutable.ai! | Mutable.ai User Guide
- - [https://docs.mutable.ai](https://docs.mutable.ai)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## mutable.ai
- - [https://mutable.ai](https://mutable.ai)
- - date_published: 2024-06-14T09:00:16.860086+00:00
-
- ## Auto Wiki by Mutable.ai — High-Quality Generated Code Documentation
- - [https://wiki.mutable.ai](https://wiki.mutable.ai)
- - date_published: 2024-01-08T19:01:50.485594+00:00
-
- ## App Publishing Partner & AI Apps Pioneer - MWM
- - [https://www.mwm.ai](https://www.mwm.ai)
- - date_published: 2024-09-02T12:50:14.019199+00:00
-
- ## Webchat Stage - ALICE
- - [https://widget.myalice.ai](https://widget.myalice.ai)
- - date_published: 2023-06-21T11:25:10+00:00
-
- ## Anima: AI Friend
- - [https://myanima.ai](https://myanima.ai)
- - date_published: 2024-06-19T19:54:28+00:00
-
- ## Home | AI Tutor
- - [https://myapps.ai](https://myapps.ai)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Open Source Conversational AI Community
- - [https://chat.mycroft.ai](https://chat.mycroft.ai)
- - date_published: 2024-08-19T17:55:22.409437+00:00
-
- ## Mycroft – The Open Source Privacy-Focused Voice Assistant - Mycroft
- - [https://mycroft.ai](https://mycroft.ai)
- - date_published: 2023-10-25T08:32:40.290881+00:00
-
- ## myEssai | AI Powered Essay Tutor
- - [https://myess.ai](https://myess.ai)
- - date_published: 2024-06-19T18:52:51.357524+00:00
 

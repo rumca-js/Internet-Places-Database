@@ -1,3 +1,79 @@
+ ## Redefining Video Advertising Across All Platforms
+ - [https://a.vdo.ai](https://a.vdo.ai)
+ - date_published: 2024-06-20T01:10:05.594004+00:00
+
+ ## VectorArt.ai
+ - [https://docs.vectorart.ai](https://docs.vectorart.ai)
+ - date_published: 2024-08-19T12:00:06.297007+00:00
+
+ ## VectorArt.ai - Unlimited AI Generated Vector Images
+ - [https://vectorart.ai](https://vectorart.ai)
+ - date_published: 2023-10-25T11:44:51.285364+00:00
+
+ ## Cierpliwości...
+ - [https://talenthub.vectorinstitute.ai](https://talenthub.vectorinstitute.ai)
+ - date_published: 2024-07-04T10:25:38.816064+00:00
+
+ ## Home - Vector Institute for Artificial Intelligence
+ - [https://vectorinstitute.ai](https://vectorinstitute.ai)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Convert PNG, JPG files to SVG vectors online - Vectorizer.AI
+ - [https://vectorizer.ai](https://vectorizer.ai)
+ - date_published: 2024-06-19T21:22:34.702162+00:00
+
+ ## Stop advanced attacks with Vectra AI
+ - [https://www.vectra.ai](https://www.vectra.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Meet Copilot, smart tech for your bike
+ - [https://www.velo.ai](https://www.velo.ai)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Ivan Vendrov
+ - [https://www.vendrov.ai](https://www.vendrov.ai)
+ - date_published: 2024-07-04T06:10:05.953231+00:00
+
+ ## Venturekit | AI Generated Business Plans
+ - [https://venturekit.ai](https://venturekit.ai)
+ - date_published: 2024-06-14T08:54:38.792469+00:00
+
+ ## Verbalate
+ - [http://app.verbalate.ai](http://app.verbalate.ai)
+ - date_published: 2024-09-14T08:02:50.861683+00:00
+
+ ## Verbalate
+ - [https://beta.verbalate.ai](https://beta.verbalate.ai)
+ - date_published: 2024-09-14T08:02:52.663435+00:00
+
+ ## Home
+ - [https://verbalate.ai](https://verbalate.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Transcription Services for Audio & Video | Verbit Go
+ - [https://go.verbit.ai](https://go.verbit.ai)
+ - date_published: 2024-07-17T02:44:08.376561+00:00
+
+ ## Verbit: AI-Based Transcription & Captioning Services
+ - [https://verbit.ai](https://verbit.ai)
+ - date_published: 2024-05-12T07:40:48.410466+00:00
+
+ ## AI Playground
+ - [https://play.vercel.ai](https://play.vercel.ai)
+ - date_published: 2023-10-25T11:44:52.765812+00:00
+
+ ## Vercel AI SDK
+ - [https://sdk.vercel.ai](https://sdk.vercel.ai)
+ - date_published: 2024-07-19T19:01:05.987873+00:00
+
+ ## Convert leads with AI-powered SMS conversations! | Verse.ai
+ - [http://verse.ai](http://verse.ai)
+ - date_published: 2024-07-19T23:18:47+00:00
+
+ ## Home | Vespa Blog
+ - [https://blog.vespa.ai](https://blog.vespa.ai)
+ - date_published: 2023-10-25T11:44:53.977138+00:00
+
  ## Vespa Documentation
  - [https://docs.vespa.ai](https://docs.vespa.ai)
  - date_published: 2024-07-12T08:58:49+00:00
@@ -1253,6 +1329,10 @@ Creative Solutions
  - [https://mediainitiatives.am](https://mediainitiatives.am)
  - date_published: 2024-05-07T23:42:13.359843+00:00
 
+ ## Mediastream | Boost your audio and video strategy
+ - [https://www.mediastre.am](https://www.mediastre.am)
+ - date_published: 2024-09-18T00:00:00+00:00
+
  ## Media Systems
  - [https://mediasystems.am](https://mediasystems.am)
  - date_published: 2024-08-19T11:58:00.235974+00:00
@@ -2367,6 +2447,10 @@ Creative Solutions
  - [https://call.app](https://call.app)
  - date_published: 2024-06-20T16:42:30+00:00
 
+ ## Calmness: Online Breathing Exercises Tool
+ - [http://calmness.app](http://calmness.app)
+ - date_published: 2024-09-19T15:28:37.612252+00:00
+
  ## CamPrompter
  - [https://camprompter.app](https://camprompter.app)
  - date_published: 2024-09-02T09:43:49.201214+00:00
@@ -2575,6 +2659,10 @@ Creative Solutions
  ## Coinbits – You can bitcoin
  - [https://coinbits.app](https://coinbits.app)
  - date_published: 2024-08-08T00:00:00+00:00
+
+ ## CoinFund - Crypto Crowdfunding & Donations
+ - [https://coinfund.app](https://coinfund.app)
+ - date_published: 2024-09-18T02:53:00+00:00
 
  ## Crypto Tracker Trusted by 1 Million People Worldwide
  - [https://coinstats.app](https://coinstats.app)
@@ -3499,6 +3587,10 @@ Creative Solutions
  - [https://help.foundation.app](https://help.foundation.app)
  - date_published: 2024-07-18T00:00:00+00:00
 
+ ## Polybase Labs
+ - [https://ancient-head-267506.framer.app](https://ancient-head-267506.framer.app)
+ - date_published: 2024-08-16T00:00:00+00:00
+
  ## Phoenix R&D
  - [https://funky-checkout-402247.framer.app](https://funky-checkout-402247.framer.app)
  - date_published: 2024-04-02T00:00:00+00:00
@@ -3796,12 +3888,16 @@ Creative Solutions
  - [https://wp.hardcover.app](https://wp.hardcover.app)
  - date_published: 2024-06-29T23:26:24.079520+00:00
 
+ ## Headliner by SpareMin
+ - [https://learn.headliner.app](https://learn.headliner.app)
+ - date_published: 2018-05-01T00:00:00+00:00
+
  ## Headliner
  - [https://make.headliner.app](https://make.headliner.app)
  - date_published: 2024-06-18T15:33:25+00:00
 
  ## Headliner - Promote your podcast, radio show or blog with video
- - [https://www.headliner.app](https://www.headliner.app)
+ - [https://headliner.app](https://headliner.app)
  - date_published: 2024-02-27T00:00:00+00:00
 
  ## Heartfly - Dating App for Lesbian, Gay, Bi, Trans & Queer People
@@ -3924,101 +4020,4 @@ Creative Solutions
  ## HumanIPO - Turn your fans into shareholders
  - [https://humanipo.app](https://humanipo.app)
  - date_published: 2024-05-12T05:28:23.256428+00:00
-
- ## Humanlike | AI-powered AP/AR
- - [https://humanlike.app](https://humanlike.app)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Hush Line
- - [https://beta.hushline.app](https://beta.hushline.app)
- - date_published: 2024-07-08T11:52:39.012390+00:00
-
- ## Hush Line
- - [https://hushline.app](https://hushline.app)
- - date_published: 2024-07-04T21:04:41+00:00
-
- ## Hush Line
- - [https://tips.hushline.app](https://tips.hushline.app)
- - date_published: 2024-07-08T11:52:44+00:00
-
- ## Hyperkey
- - [https://hyperkey.app](https://hyperkey.app)
- - date_published: 2024-06-22T06:22:40.381701+00:00
-
- ## Home
- - [https://developer.hyperproof.app](https://developer.hyperproof.app)
- - date_published: 2024-07-16T20:43:56.470682+00:00
-
- ## Hyperproof
- - [https://hyperproof.app](https://hyperproof.app)
- - date_published: 2024-07-12T17:00:22+00:00
-
- ## IAte - an AI food tracking app
- - [https://iate.app](https://iate.app)
- - date_published: 2024-08-15T20:30:50+00:00
-
- ## ICDevs Governance Tool
- - [https://77i6o-oqaaa-aaaag-qbm6q-cai.ic0.app](https://77i6o-oqaaa-aaaag-qbm6q-cai.ic0.app)
- - date_published: 2024-07-24T07:01:56.715349+00:00
-
- ## NNS Dapp
- - [https://nns.ic0.app](https://nns.ic0.app)
- - date_published: 2024-07-24T07:01:50.075441+00:00
-
- ## Ice - Menu Bar Manager
- - [https://icemenubar.app](https://icemenubar.app)
- - date_published: 2024-07-10T08:05:09.491289+00:00
-
- ## Iconbuddy — 180K+ open source icons
- - [https://iconbuddy.app](https://iconbuddy.app)
- - date_published: 2023-10-25T11:46:58.974115+00:00
-
- ## Sign in to your account
- - [https://kulturradet.imagevault.app](https://kulturradet.imagevault.app)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Immich Licenses
- - [https://buy.immich.app](https://buy.immich.app)
- - date_published: 2024-07-18T22:03:13.424369+00:00
-
- ## Join the Immich Discord Server!
- - [https://discord.immich.app](https://discord.immich.app)
- - date_published: 2024-09-09T22:19:49+00:00
-
- ## Home | Immich
- - [https://immich.app](https://immich.app)
- - date_published: 2024-04-08T19:28:59.912124+00:00
- - tags: ['self-host', 'video library', 'image gallery']
-
- ## Iliffe Media
- - [https://digital.imnews.app](https://digital.imnews.app)
- - date_published: 2024-05-02T11:36:54.544047+00:00
-
- ## IM News App - Download Now - Iliffe Media
- - [https://imnews.app](https://imnews.app)
- - date_published: 2023-01-05T14:42:51+00:00
-
- ## Optimiza tu negocio con nuestra plataforma de soluciones
- - [https://increase.app](https://increase.app)
- - date_published: 2024-01-19T17:09:22+00:00
-
- ## Index
- - [https://index.app](https://index.app)
- - date_published: 2024-07-09T23:00:59+00:00
-
- ## Instagram Downloader - Download Video, Reels, Photos, Profile Pictures with Instagram Downloader
- - [https://indownloader.app](https://indownloader.app)
- - date_published: 2024-06-23T08:13:47.518695+00:00
-
- ## InfoFlow
- - [https://www.infoflow.app](https://www.infoflow.app)
- - date_published: 2024-06-23T16:45:20.283708+00:00
-
- ## Log in to Keap
- - [https://gb496.infusionsoft.app](https://gb496.infusionsoft.app)
- - date_published: 2024-09-16T23:26:10.569704+00:00
-
- ## Inkdrop - Note-taking App with Robust Markdown Editor
- - [https://www.inkdrop.app](https://www.inkdrop.app)
- - date_published: 2024-07-09T15:52:18.954370+00:00
 
