@@ -209,6 +209,10 @@
  - [https://arzamas.academy](https://arzamas.academy)
  - date_published: 2024-07-09T06:55:56.593900+00:00
 
+ ## Uniswap Hook Incubator
+ - [https://atrium.academy](https://atrium.academy)
+ - date_published: 2024-09-10T00:00:00+00:00
+
  ## The Bash Guide
  - [https://guide.bash.academy](https://guide.bash.academy)
  - date_published: 2023-10-16T14:40:54+00:00
@@ -474,6 +478,10 @@
  ## ARN - the most dynamic multiplatform broadcaster in the UAE
  - [https://arn.ae](https://arn.ae)
  - date_published: 2024-06-16T05:07:44.823732+00:00
+
+ ## Art Dubai | Home
+ - [https://www.artdubai.ae](https://www.artdubai.ae)
+ - date_published: 2024-09-23T13:29:17.582001+00:00
 
  ## ASPIRE
  - [https://aspireuae.ae](https://aspireuae.ae)
@@ -1665,6 +1673,10 @@
  - [https://www.maxcreative.agency](https://www.maxcreative.agency)
  - date_published: 2021-08-09T12:25:55+00:00
 
+ ## McGrath Creative Agency – Marketing and Design Agency
+ - [https://mcgrathcreative.agency](https://mcgrathcreative.agency)
+ - date_published: 2024-09-23T10:52:13.648156+00:00
+
  ## Metro.Agency – identity + strategy + design
  - [https://metro.agency](https://metro.agency)
  - date_published: 2024-08-19T07:30:27.324827+00:00
@@ -1757,6 +1769,10 @@
  - [https://platform.01.ai](https://platform.01.ai)
  - date_published: 2024-08-13T10:19:07+00:00
 
+ ## Faucet - 0G Testnet
+ - [https://faucet.0g.ai](https://faucet.0g.ai)
+ - date_published: 2024-09-23T16:05:59.818751+00:00
+
  ## 1001 Nights - AI Native Game  | 1001 Nights
  - [https://1001nights.ai](https://1001nights.ai)
  - date_published: 2024-06-15T23:17:09.816983+00:00
@@ -1781,6 +1797,10 @@
  - [https://docs.3lc.ai](https://docs.3lc.ai)
  - date_published: 2024-04-23T15:17:41.819605+00:00
  - tags: ['machine learning']
+
+ ## 7007
+ - [https://www.7007.ai](https://www.7007.ai)
+ - date_published: 2024-09-22T02:00:25.627976+00:00
 
  ## Abacus.AI - The world's first AI assisted end-to-end data science and MLOps platform
  - [https://abacus.ai](https://abacus.ai)
@@ -4006,24 +4026,4 @@ Welcome
  ## Daft Art — AI-powered Album Cover Generator
  - [https://daftart.ai](https://daftart.ai)
  - date_published: 2024-06-19T20:12:07.616811+00:00
-
- ## UK Home | Daily Mail Online
- - [https://dailym.ai](https://dailym.ai)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Dakarai Simmons Portfolio Site
- - [https://dakar.ai](https://dakar.ai)
- - date_published: 2024-01-29T00:37:49+00:00
-
- ## DaLMatian
- - [https://dalmatian.ai](https://dalmatian.ai)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## AI Tools Directory | Dang.ai
- - [https://dang.ai](https://dang.ai)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Dan Rose AI - Applied Artificial Intelligence
- - [https://www.danrose.ai](https://www.danrose.ai)
- - date_published: 2024-08-18T12:24:24.911482+00:00
 

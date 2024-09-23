@@ -1,3 +1,41 @@
+ ## Utkarsh Singhal
+ - [https://utkarsh.ai](https://utkarsh.ai)
+ - date_published: 2023-12-26T23:11:40+00:00
+
+ ## Vairflow AI |  Search engine for your workspace.
+ - [https://www.vairflow.ai](https://www.vairflow.ai)
+ - date_published: 2024-08-18T16:04:02.136856+00:00
+
+ ## Virtual AI Safety Unconference
+ - [https://vaisu.ai](https://vaisu.ai)
+ - date_published: 2024-05-04T12:17:41.781403+00:00
+
+ ## Vanna.AI - Personalized AI SQL Agent
+ - [https://vanna.ai](https://vanna.ai)
+ - date_published: 2024-06-17T18:36:03+00:00
+
+ ## Vapi
+ - [https://blog.vapi.ai](https://blog.vapi.ai)
+ - date_published: 2024-04-18T20:32:41.201360+00:00
+ - tags: ['artificial intelligence', 'voice assistant']
+
+ ## Introduction - Vapi
+ - [https://docs.vapi.ai](https://docs.vapi.ai)
+ - date_published: 2024-08-11T02:59:36.918706+00:00
+
+ ## Vapi
+ - [https://vapi.ai](https://vapi.ai)
+ - date_published: 2024-04-19T04:41:28+00:00
+ - tags: ['artificial intelligence', 'voice assistant']
+
+ ## Optimist
+ - [https://optimist.varied.ai](https://optimist.varied.ai)
+ - date_published: 2024-06-19T20:43:02.965925+00:00
+
+ ## Vast.ai | Console
+ - [https://cloud.vast.ai](https://cloud.vast.ai)
+ - date_published: 2024-07-12T08:09:52.294115+00:00
+
  ## Redefining Video Advertising Across All Platforms
  - [https://a.vdo.ai](https://a.vdo.ai)
  - date_published: 2024-06-20T01:10:05.594004+00:00
@@ -2821,6 +2859,10 @@ Creative Solutions
  - [https://crypto.app](https://crypto.app)
  - date_published: 2024-09-02T10:56:26+00:00
 
+ ## Cryptographics | Unique digital artwork on the blockchain.
+ - [https://cryptographics.app](https://cryptographics.app)
+ - date_published: 2023-04-06T11:01:02+00:00
+
  ## Crypto Pro - Cryptocurrency Portfolio Tracker
  - [https://cryptopro.app](https://cryptopro.app)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -3980,44 +4022,4 @@ Creative Solutions
  ## Welcome to the Apps SDK documentation 👋 | Homey Apps SDK
  - [https://apps.developer.homey.app](https://apps.developer.homey.app)
  - date_published: 2024-05-02T00:00:00+00:00
-
- ## Homey Community Forum
- - [https://community.homey.app](https://community.homey.app)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Homey - Get the app
- - [https://get.homey.app](https://get.homey.app)
- - date_published: 2024-01-25T16:16:43+00:00
-
- ## Homey - A Better Smart Home
- - [https://homey.app](https://homey.app)
- - date_published: 2024-04-29T04:04:01.939925+00:00
-
- ## My Homey
- - [https://my.homey.app](https://my.homey.app)
- - date_published: 2024-08-05T12:36:28+00:00
-
- ## Homey Status
- - [https://status.homey.app](https://status.homey.app)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Homey Support
- - [https://support.homey.app](https://support.homey.app)
- - date_published: 2024-08-05T22:58:10.178108+00:00
-
- ## Hondana: Virtual Bookshelf & Community
- - [https://hondana.app](https://hondana.app)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## HostAI | AI tools for hotels and short-term rentals
- - [https://www.hostai.app](https://www.hostai.app)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Humanatomy - The interactive 3D human anatomy model
- - [https://www.humanatomy.app](https://www.humanatomy.app)
- - date_published: 2023-05-17T11:44:07+00:00
-
- ## HumanIPO - Turn your fans into shareholders
- - [https://humanipo.app](https://humanipo.app)
- - date_published: 2024-05-12T05:28:23.256428+00:00
 

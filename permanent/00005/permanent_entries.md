@@ -1,3 +1,88 @@
+ ## Take App - Ecommerce for WhatsApp
+ - [https://www.take.app](https://www.take.app)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Private group chat and collaboration
+ - [https://tap.app](https://tap.app)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Discover Things You Enjoy For Your Mood With AI
+ - [https://taranify.app](https://taranify.app)
+ - date_published: 2024-06-27T10:52:46.492628+00:00
+
+ ## Tasmota - #1 Software for Smart Home Integration
+ - [https://tasmota.app](https://tasmota.app)
+ - date_published: 2023-01-26T11:15:23+00:00
+
+ ## Hardened foundation for your web apps.
+ - [https://beta.tauri.app](https://beta.tauri.app)
+ - date_published: 2024-02-23T21:18:24.945566+00:00
+
+ ## create-tauri-app
+ - [https://create.tauri.app](https://create.tauri.app)
+ - date_published: 2024-08-11T16:34:54.975030+00:00
+
+ ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
+ - [https://tauri.app](https://tauri.app)
+ - date_published: 2023-10-25T11:49:16.037626+00:00
+ - tags: ['software development platform']
+
+ ## Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps
+ - [https://v1.tauri.app](https://v1.tauri.app)
+ - date_published: 2024-08-11T16:34:54.183121+00:00
+
+ ## Tauri 2.0
+ - [https://v2.tauri.app](https://v2.tauri.app)
+ - date_published: 2024-08-02T23:32:46.789938+00:00
+
+ ## Taurine
+ - [https://taurine.app](https://taurine.app)
+ - date_published: 2023-09-24T00:23:47+00:00
+
+ ## Taylor's Version
+ - [https://taylorsversion.app](https://taylorsversion.app)
+ - date_published: 2024-07-23T23:43:00.273168+00:00
+
+ ## teachyourselfmath
+ - [https://teachyourselfmath.app](https://teachyourselfmath.app)
+ - date_published: 2024-01-24T06:49:02.414761+00:00
+
+ ## Team, Assemble!
+ - [https://teamassemble.app](https://teamassemble.app)
+ - date_published: 2024-07-14T18:47:30.749847+00:00
+
+ ## TeamTap - The missing piece in your remote communication
+ - [https://www.teamtap.app](https://www.teamtap.app)
+ - date_published: 2022-11-02T00:00:00+00:00
+
+ ## Team Video - Video Conferencing
+ - [https://teamvideo.app](https://teamvideo.app)
+ - date_published: 2021-04-27T00:00:00+00:00
+
+ ## Find your dream Canadian tech job
+ - [https://techjobscanada.app](https://techjobscanada.app)
+ - date_published: 2024-04-28T04:30:40.131321+00:00
+
+ ## Tedy - Custom benefits and modern recognition for your whole team
+ - [https://www.tedy.app](https://www.tedy.app)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Introduction | Terrastories Support Materials
+ - [https://docs.terrastories.app](https://docs.terrastories.app)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Explore Terrastories
+ - [https://explore.terrastories.app](https://explore.terrastories.app)
+ - date_published: 2024-07-15T11:14:27.219508+00:00
+
+ ## Home - Terrastories
+ - [https://terrastories.app](https://terrastories.app)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## tetr - The app for texting yourself notes, tasks, and reminders.
+ - [https://tetr.app](https://tetr.app)
+ - date_published: 2024-09-02T09:50:07.926268+00:00
+
  ## Home | texti.app
  - [https://texti.app](https://texti.app)
  - date_published: 2024-06-19T20:40:34.862692+00:00
@@ -486,6 +571,10 @@
  - [https://algoz-breaker.vercel.app](https://algoz-breaker.vercel.app)
  - date_published: 2024-08-17T22:19:05.373064+00:00
 
+ ## ALL.ART - Web3 Solutions for Real World Assets - AART Token
+ - [https://all-art-kobd9l2g7-digtal-mind.vercel.app](https://all-art-kobd9l2g7-digtal-mind.vercel.app)
+ - date_published: 2024-03-23T00:00:00+00:00
+
  ## All roads lead to Rome, a colorful problem
  - [https://allroadslead2rome.vercel.app](https://allroadslead2rome.vercel.app)
  - date_published: 2024-04-30T07:40:49.647411+00:00
@@ -853,6 +942,22 @@
  - [https://dcbadge.vercel.app](https://dcbadge.vercel.app)
  - date_published: 2024-05-16T02:48:11.156069+00:00
 
+ ## React App
+ - [https://deadcaster-encrypt.vercel.app](https://deadcaster-encrypt.vercel.app)
+ - date_published: 2024-09-23T12:19:59.497300+00:00
+
+ ## deadcaster
+ - [https://deadcaster-frame.vercel.app](https://deadcaster-frame.vercel.app)
+ - date_published: 2024-09-23T12:19:09.943153+00:00
+
+ ## React App
+ - [https://deadcaster-onboard.vercel.app](https://deadcaster-onboard.vercel.app)
+ - date_published: 2024-09-23T12:18:54.856464+00:00
+
+ ## React App
+ - [https://deadcaster-reveal.vercel.app](https://deadcaster-reveal.vercel.app)
+ - date_published: 2024-09-23T12:19:06.885204+00:00
+
  ## Welcome to DefiDubai Meetup
  - [https://defidubai.vercel.app](https://defidubai.vercel.app)
  - date_published: 2024-09-04T14:23:01.009016+00:00
@@ -969,6 +1074,10 @@
  - [https://epoch.vercel.app](https://epoch.vercel.app)
  - date_published: 2024-06-23T05:59:59.605953+00:00
 
+ ## Home - Equilibrium Labs
+ - [https://eq-labs-website.vercel.app](https://eq-labs-website.vercel.app)
+ - date_published: 2024-09-22T01:59:57.665186+00:00
+
  ## Pinia | El almacén intuitivo para Vue.js
  - [https://es-pinia.vercel.app](https://es-pinia.vercel.app)
  - date_published: 2024-07-03T01:45:28.984370+00:00
@@ -976,6 +1085,10 @@
  ## Overview - ETHAccra
  - [https://eth-accra-website.vercel.app](https://eth-accra-website.vercel.app)
  - date_published: 2024-06-16T04:06:24.585136+00:00
+
+ ## EthBerlin04 - Hackaton Center
+ - [https://eth-berlin04.vercel.app](https://eth-berlin04.vercel.app)
+ - date_published: 2024-09-23T12:19:38.139041+00:00
 
  ## Redstone | Cost-effective chain for MUD apps, games, and worlds
  - [https://ethereum-redstone-bridge-hcgdbgr9b-latticexyz.vercel.app](https://ethereum-redstone-bridge-hcgdbgr9b-latticexyz.vercel.app)
@@ -1020,6 +1133,10 @@
  ## Forever Photo
  - [https://forever-photo.vercel.app](https://forever-photo.vercel.app)
  - date_published: 2024-09-09T12:43:23.327743+00:00
+
+ ## frames.js
+ - [https://framesjs-homeframe.vercel.app](https://framesjs-homeframe.vercel.app)
+ - date_published: 2024-02-09T00:00:00+00:00
 
  ## Frodo
  - [https://frodo-chi.vercel.app](https://frodo-chi.vercel.app)
@@ -1120,6 +1237,10 @@
  ## Find Hacker News candidates and jobs powered by ChatGPT
  - [https://hn-hiring-tpipr43zp-u-turn.vercel.app](https://hn-hiring-tpipr43zp-u-turn.vercel.app)
  - date_published: 2024-04-30T02:25:43.297259+00:00
+
+ ## Hoarder
+ - [https://hoarder-website.vercel.app](https://hoarder-website.vercel.app)
+ - date_published: 2024-09-23T12:19:35.685324+00:00
 
  ## Holograph
  - [https://holograph-1.vercel.app](https://holograph-1.vercel.app)
@@ -1416,6 +1537,10 @@
  ## Emil Kowalski
  - [https://new-emilkowalski.vercel.app](https://new-emilkowalski.vercel.app)
  - date_published: 2024-06-22T13:58:54.989772+00:00
+
+ ## Sismo - Sovereign Identity Aggregator and Crypto-native SSO
+ - [https://new-landing-952y0tivg-sismo.vercel.app](https://new-landing-952y0tivg-sismo.vercel.app)
+ - date_published: 2024-09-22T01:54:18.120952+00:00
 
  ## External Link
  - [https://new-portfolio-lani.vercel.app](https://new-portfolio-lani.vercel.app)
@@ -2118,6 +2243,10 @@
  - [https://vizionova.vercel.app](https://vizionova.vercel.app)
  - date_published: 2024-06-19T19:19:06.685652+00:00
 
+ ## Voto
+ - [https://voto-tech.vercel.app](https://voto-tech.vercel.app)
+ - date_published: 2024-09-23T12:18:59.102026+00:00
+
  ## Immersive 3D experience for a seat picker product - by Neotix
  - [https://vrseat.vercel.app](https://vrseat.vercel.app)
  - date_published: 2024-08-06T20:05:09.335780+00:00
@@ -2237,6 +2366,10 @@
  ## YT idea generator
  - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
  - date_published: 2024-06-14T08:57:57.169654+00:00
+
+ ## zk0fficer
+ - [https://zk-officer.vercel.app](https://zk-officer.vercel.app)
+ - date_published: 2024-09-23T12:18:52.154020+00:00
 
  ## Very Useful Apps
  - [https://veryuseful.app](https://veryuseful.app)
@@ -2757,6 +2890,30 @@
  ## Zitcha
  - [https://au.zitcha.app](https://au.zitcha.app)
  - date_published: 2024-07-23T22:05:29.474191+00:00
+
+ ## ZKBase Swap
+ - [https://dex.zkbase.app](https://dex.zkbase.app)
+ - date_published: 2024-09-23T07:43:17.902184+00:00
+
+ ## ZKBase Explorer
+ - [https://explorer.zkbase.app](https://explorer.zkbase.app)
+ - date_published: 2024-07-01T06:42:41+00:00
+
+ ## ZKSpace - Layer-2 FOR ALL
+ - [https://zkbase.app](https://zkbase.app)
+ - date_published: 2024-09-23T07:43:08.489158+00:00
+
+ ## ZKSwap (ZKFair) | ZKBase - Layer2 for Bitcoin & Ethereum
+ - [https://zkfair.zkbase.app](https://zkfair.zkbase.app)
+ - date_published: 2024-09-23T07:43:03.810085+00:00
+
+ ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
+ - [https://zksync.zkbase.app](https://zksync.zkbase.app)
+ - date_published: 2024-09-23T07:43:01.870609+00:00
+
+ ## ZKSwap (zkSync) - Layer2 for Bitcoin & Ethereum
+ - [https://zksync.zks.app](https://zksync.zks.app)
+ - date_published: 2024-09-23T07:43:14.407131+00:00
 
  ## Apple Music
  - [https://learn.applemusic.apple](https://learn.applemusic.apple)
@@ -3854,165 +4011,4 @@
  ## Best AI Prompts
  - [https://bestaiprompts.art](https://bestaiprompts.art)
  - date_published: 2024-08-07T11:22:04.633518+00:00
-
- ## Betjee Login : Exciting Online Cricket Betting Experience!
- - [https://betjee.art](https://betjee.art)
- - date_published: 2024-08-29T09:57:21+00:00
-
- ## Biennale of Sydney
- - [https://www.biennaleofsydney.art](https://www.biennaleofsydney.art)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Whimsical Watercolors - brushify.art
- - [https://brushify.art](https://brushify.art)
- - date_published: 2023-10-25T11:52:28.663714+00:00
-
- ## Bueno | No-Code Tools for NFT Creators
- - [https://bueno.art](https://bueno.art)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Bun Bun Art – Graphic Novels – Mature, adult, erotic, ecchi, romance
- - [https://bun-bun.art](https://bun-bun.art)
- - date_published: 2024-07-17T09:14:49.883080+00:00
-
- ## Buzzly.art - Bee creative!
- - [https://buzzly.art](https://buzzly.art)
- - date_published: 2023-11-18T02:37:46+00:00
-
- ## Galerie Canesso Paris
- - [https://www.canesso.art](https://www.canesso.art)
- - date_published: 2024-05-09T06:33:28.801536+00:00
-
- ## caroline makes art
- - [http://carolinemakes.art](http://carolinemakes.art)
- - date_published: 2024-06-15T12:38:29+00:00
-
- ## ℭashmere ℭrypt
- - [https://cashmerecrypt.art](https://cashmerecrypt.art)
- - date_published: 2024-07-10T06:31:12.477634+00:00
-
- ## Chercheur d'Art
- - [https://chercheurd.art](https://chercheurd.art)
- - date_published: 2024-05-07T23:26:56.310326+00:00
-
- ## Chris Lovie-Tyler ‚Äì Learning to see
- - [https://chrislt.art](https://chrislt.art)
- - date_published: 2024-03-05T10:22:07.285624+00:00
- - tags: ['personal']
-
- ## comiCSS
- - [https://comicss.art](https://comicss.art)
- - date_published: 2024-06-06T07:27:26.676433+00:00
- - tags: ['comics', 'css']
-
- ## Incomplete Open Cubes Revisited
- - [https://cubes-revisited.art](https://cubes-revisited.art)
- - date_published: 2018-09-22T17:59:31+00:00
-
- ## Dave Bauer | Maker / Artist - Dave Bauer - Web Nerd/Maker/Artist
- - [https://davebauer.art](https://davebauer.art)
- - date_published: 2024-04-18T13:58:34.979672+00:00
- - tags: ['personal']
-
- ## David Hellman .art
- - [http://davidhellman.art](http://davidhellman.art)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Daydream
- - [https://daydreamonline.art](https://daydreamonline.art)
- - date_published: 2024-08-07T23:27:21.702933+00:00
-
- ## declassed.art - Domain Name For Sale | Dan.com
- - [https://declassed.art](https://declassed.art)
- - date_published: 2024-06-28T20:06:33.159064+00:00
-
- ## deforum
- - [https://www.deforum.art](https://www.deforum.art)
- - date_published: 2024-03-19T17:53:57+00:00
-
- ## Emilia Frias
- - [https://demilurii.art](https://demilurii.art)
- - date_published: 2024-02-28T07:43:05.211230+00:00
- - tags: ['animation artist', 'personal']
-
- ## About & F.A.Q.
- - [https://diosmaden.art](https://diosmaden.art)
- - date_published: 2024-06-23T18:38:15.195833+00:00
-
- ## Free AI Art Generator, AI Art Maker | Stable Diffusion Online
- - [https://dreamlike.art](https://dreamlike.art)
- - date_published: 2024-06-19T21:06:45.385812+00:00
-
- ## Dreamspace.art
- - [https://dreamspace.art](https://dreamspace.art)
- - date_published: 2024-06-19T19:19:17.412291+00:00
-
- ## e-flux
- - [http://www.e-flux.art](http://www.e-flux.art)
- - date_published: 2024-07-13T14:28:30.952594+00:00
-
- ## Ars Electronica
- - [https://ars.electronica.art](https://ars.electronica.art)
- - date_published: 2024-07-03T11:50:09+00:00
-
- ## Open Call
- - [https://calls.ars.electronica.art](https://calls.ars.electronica.art)
- - date_published: 2010-07-19T14:15:45+00:00
-
- ## Home Page
- - [https://elephant.art](https://elephant.art)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Emeka Ogboh
- - [http://emekaogboh.art](http://emekaogboh.art)
- - date_published: 2024-07-13T15:59:58.841034+00:00
-
- ## Encre marine | Encre marine, studio audiovisuel breton
- - [https://encre-marine.art](https://encre-marine.art)
- - date_published: 2024-07-03T05:07:21.691815+00:00
-
- ## Erickka Patmore
- - [https://erickka.art](https://erickka.art)
- - date_published: 2024-06-23T04:01:43.894027+00:00
-
- ## Espace Libre
- - [https://www.espacelibre.art](https://www.espacelibre.art)
- - date_published: 2024-09-14T09:27:39.824835+00:00
-
- ## EthBlock.art
- - [https://ethblock.art](https://ethblock.art)
- - date_published: 2024-06-16T03:35:51.367269+00:00
-
- ## EXPANDED.ART | ART OF OUR TIME
- - [https://www.expanded.art](https://www.expanded.art)
- - date_published: 2024-09-15T19:42:45.173713+00:00
-
- ## index.html · Ferale.art
- - [https://ferale.art](https://ferale.art)
- - date_published: 2024-08-08T03:08:36.815400+00:00
-
- ## Dołącz do nas - Związek Zawodowy Filmowców
- - [https://filmowcy.art](https://filmowcy.art)
- - date_published: 2024-07-14T18:17:25.706353+00:00
-
- ## finews.art: Home
- - [https://www.finews.art](https://www.finews.art)
- - date_published: 2024-07-22T17:47:31+00:00
-
- ## For the Wall | AI Generated Wall Art | forthewall.art
- - [https://forthewall.art](https://forthewall.art)
- - date_published: 2024-06-19T20:50:16.499803+00:00
-
- ## Francesca Sciandra
- - [https://francescasciandra.art](https://francescasciandra.art)
- - date_published: 2024-04-03T06:29:25.051254+00:00
- - tags: ['personal']
-
- ## GabJo Art
- - [https://gabjo.art](https://gabjo.art)
- - date_published: 2024-05-07T23:00:19.629152+00:00
-
- ## Gemini Quickstart!
- - [https://geminiquickst.art](https://geminiquickst.art)
- - date_published: 2023-09-25T20:37:05+00:00
 

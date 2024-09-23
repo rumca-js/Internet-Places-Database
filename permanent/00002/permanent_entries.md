@@ -1,3 +1,24 @@
+ ## Home - Mozilla.ai
+ - [https://mozilla.ai](https://mozilla.ai)
+ - date_published: 2023-10-25T11:40:36.598568+00:00
+
+ ## Muah.AI - AI Companion Platform. Uncensored AI Technologies. Possibilities Within
+ - [https://muah.ai](https://muah.ai)
+ - date_published: 2024-06-19T19:40:55.120217+00:00
+ - tags: ['nsfw']
+
+ ## MultiOn AI
+ - [https://multion.ai](https://multion.ai)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## AI News
+ - [https://multiplatform.ai](https://multiplatform.ai)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Help Center
+ - [https://help.murf.ai](https://help.murf.ai)
+ - date_published: 2024-08-16T08:23:37+00:00
+
  ## AI Voice Generator: Versatile Text to Speech Software | Murf AI
  - [https://murf.ai](https://murf.ai)
  - date_published: 2023-10-25T11:40:41.933283+00:00
@@ -106,6 +127,10 @@
  - [https://app.myshell.ai](https://app.myshell.ai)
  - date_published: 2024-06-19T19:06:55.062010+00:00
 
+ ## MyShell AI | Build, Share, and Own AI Chat.
+ - [https://myshell.ai](https://myshell.ai)
+ - date_published: 2024-09-11T00:00:00+00:00
+
  ## MyShell TTS
  - [https://research.myshell.ai](https://research.myshell.ai)
  - date_published: 2024-03-29T10:12:26.443638+00:00
@@ -205,6 +230,10 @@
  ## Neural Voice: Realistic AI Conversations
  - [https://www.neural-voice.ai](https://www.neural-voice.ai)
  - date_published: 2023-08-31T07:33:11+00:00
+
+ ## NeurochainAI | Ultimate Web3 + Decentralized AI Infrastructure
+ - [https://www.neurochain.ai](https://www.neurochain.ai)
+ - date_published: 2024-09-10T00:00:00+00:00
 
  ## Neuroengine.ai
  - [https://neuroengine.ai](https://neuroengine.ai)
@@ -1115,6 +1144,10 @@
  ## Player Two
  - [https://app.playertwo.ai](https://app.playertwo.ai)
  - date_published: 2024-06-14T04:25:15+00:00
+
+ ## PlayFi Bridge | Transfer funds between zkSync and Ethereum
+ - [https://portal.playfi.ai](https://portal.playfi.ai)
+ - date_published: 2024-08-07T14:06:18+00:00
 
  ## Pleasures.ai | Realistic NSFW AI Image Generator
  - [https://www.pleasures.ai](https://www.pleasures.ai)
@@ -2278,6 +2311,10 @@
  ## Join me at SECtember.ai 2024
  - [https://www.sectember.ai](https://www.sectember.ai)
  - date_published: 2024-06-18T13:40:29.678153+00:00
+
+ ## Securechain Mainnet blockchain explorer - View Securechain Mainnet stats
+ - [https://explorer.securechain.ai](https://explorer.securechain.ai)
+ - date_published: 2024-09-23T16:30:33.274041+00:00
 
  ## Secure Privacy
  - [https://app.secureprivacy.ai](https://app.secureprivacy.ai)
@@ -3987,42 +4024,4 @@
  ## uSlap - Send yourself a positive affirmation each day
  - [https://uslap.ai](https://uslap.ai)
  - date_published: 2024-02-15T09:59:04+00:00
-
- ## Utkarsh Singhal
- - [https://utkarsh.ai](https://utkarsh.ai)
- - date_published: 2023-12-26T23:11:40+00:00
-
- ## Vairflow AI |  Search engine for your workspace.
- - [https://www.vairflow.ai](https://www.vairflow.ai)
- - date_published: 2024-08-18T16:04:02.136856+00:00
-
- ## Virtual AI Safety Unconference
- - [https://vaisu.ai](https://vaisu.ai)
- - date_published: 2024-05-04T12:17:41.781403+00:00
-
- ## Vanna.AI - Personalized AI SQL Agent
- - [https://vanna.ai](https://vanna.ai)
- - date_published: 2024-06-17T18:36:03+00:00
-
- ## Vapi
- - [https://blog.vapi.ai](https://blog.vapi.ai)
- - date_published: 2024-04-18T20:32:41.201360+00:00
- - tags: ['artificial intelligence', 'voice assistant']
-
- ## Introduction - Vapi
- - [https://docs.vapi.ai](https://docs.vapi.ai)
- - date_published: 2024-08-11T02:59:36.918706+00:00
-
- ## Vapi
- - [https://vapi.ai](https://vapi.ai)
- - date_published: 2024-04-19T04:41:28+00:00
- - tags: ['artificial intelligence', 'voice assistant']
-
- ## Optimist
- - [https://optimist.varied.ai](https://optimist.varied.ai)
- - date_published: 2024-06-19T20:43:02.965925+00:00
-
- ## Vast.ai | Console
- - [https://cloud.vast.ai](https://cloud.vast.ai)
- - date_published: 2024-07-12T08:09:52.294115+00:00
 

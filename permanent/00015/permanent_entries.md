@@ -1,3 +1,227 @@
+ ## Select Language | City of Fredericton
+ - [https://fredericton.ca](https://fredericton.ca)
+ - date_published: 2024-05-10T02:41:14.415794+00:00
+
+ ## Welcome to Opioid, USA
+ - [https://www.freedommag.ca](https://www.freedommag.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Hire Freelancers & Find Freelance Jobs Online
+ - [https://www.freelancer.ca](https://www.freelancer.ca)
+ - date_published: 2024-06-16T12:02:13.386225+00:00
+
+ ## Freetrade - Soon launching in Canada
+ - [https://freetrade.ca](https://freetrade.ca)
+ - date_published: 2023-06-20T00:00:00+00:00
+
+ ## Freshdaily
+ - [http://www.freshdaily.ca](http://www.freshdaily.ca)
+ - date_published: 2024-09-10T08:27:19.000503+00:00
+
+ ## Fresh Prep | Meal Kit service delivering to Vancouver and Calgary
+ - [https://try.freshprep.ca](https://try.freshprep.ca)
+ - date_published: 2024-06-27T13:06:56.723203+00:00
+
+ ## friendica – A Decentralized Social Network
+ - [https://friendi.ca](https://friendi.ca)
+ - date_published: 2024-06-19T22:13:12.469601+00:00
+
+ ## froghat.ca
+ - [https://froghat.ca](https://froghat.ca)
+ - date_published: 2023-10-25T09:02:17.770370+00:00
+ - tags: ['personal']
+
+ ## FrogHeart | Commentary about nanotech, science policy and communication, society, and the arts
+ - [https://frogheart.ca](https://frogheart.ca)
+ - date_published: 2024-05-11T07:52:34.040651+00:00
+
+ ## Home
+ - [https://www.fslabs.ca](https://www.fslabs.ca)
+ - date_published: 2024-03-13T11:24:16+00:00
+
+ ## Financial Services Regulatory Authority of Ontario | FSRA | Financial Services Regulatory Authority of Ontario
+ - [https://www.fsrao.ca](https://www.fsrao.ca)
+ - date_published: 2024-06-16T06:19:41+00:00
+
+ ## FTFL.CA
+ - [http://ftfl.ca](http://ftfl.ca)
+ - date_published: 2022-11-17T21:43:13+00:00
+
+ ## Home
+ - [https://www.fulbright.ca](https://www.fulbright.ca)
+ - date_published: 2024-07-14T05:11:53.844102+00:00
+
+ ## Fund Our Health Care
+ - [http://www.fundhealthcare.ca](http://www.fundhealthcare.ca)
+ - date_published: 2024-07-08T16:52:44.200065+00:00
+
+ ## Funerals in Canada, Canada
+ - [http://www.funerals.ca](http://www.funerals.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Furius Enterprises
+ - [http://furius.ca](http://furius.ca)
+ - date_published: 2021-10-23T18:38:30+00:00
+ - tags: ['personal']
+
+ ## Future North
+ - [https://futurenorth.ca](https://futurenorth.ca)
+ - date_published: 2024-07-18T08:23:01+00:00
+
+ ## Find businesses and services in Canada
+ - [https://www.fyple.ca](https://www.fyple.ca)
+ - date_published: 2024-06-29T18:25:40.904229+00:00
+
+ ## Ontario G1 Practice Test Online
+ - [https://www.g1.ca](https://www.g1.ca)
+ - date_published: 2024-09-02T07:30:15+00:00
+
+ ## Tim Gadanidis - Home
+ - [https://gadanidis.ca](https://gadanidis.ca)
+ - date_published: 2023-10-25T08:42:54.581662+00:00
+ - tags: ['personal']
+
+ ## Galleries West — Your link to directories of art galleries, lists of art exhibitions and the visual arts scene in Western Canada.
+ - [https://www.gallerieswest.ca](https://www.gallerieswest.ca)
+ - date_published: 2024-07-20T17:54:46.315028+00:00
+
+ ## NGC Audio Tours | MBAC Visites Audio
+ - [https://digital.gallery.ca](https://digital.gallery.ca)
+ - date_published: 2024-07-19T22:13:48.235685+00:00
+
+ ## National Gallery of Canada
+ - [https://gallery.ca](https://gallery.ca)
+ - date_published: 2023-11-13T13:45:23.318113+00:00
+ - tags: ['museum']
+
+ ## GameStop | The largest video game retailer in Canada. Play. Trade. Save.  - GameStop.ca
+ - [https://gamestop.ca](https://gamestop.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Kahnawà:ke Gaming Commission
+ - [https://www.gamingcommission.ca](https://www.gamingcommission.ca)
+ - date_published: 2024-07-03T12:48:22.494784+00:00
+
+ ## This is the default server vhost
+ - [http://www.garagedoors.ca](http://www.garagedoors.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Garageland a book by Andrew Campbell
+ - [https://garageland.ca](https://garageland.ca)
+ - date_published: 2017-09-30T00:00:00+00:00
+
+ ## Accueil
+ - [https://www.gatineau.ca](https://www.gatineau.ca)
+ - date_published: 2024-07-10T05:29:52.784558+00:00
+
+ ## Home
+ - [http://www.gbcicanada.ca](http://www.gbcicanada.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Garett Brown
+ - [https://gbrown.ca](https://gbrown.ca)
+ - date_published: 2024-05-04T15:44:38.983462+00:00
+
+ ## wiki
+ - [https://wiki.gccollab.ca](https://wiki.gccollab.ca)
+ - date_published: 2023-05-03T00:00:00+00:00
+
+ ## Giorgio Delgado
+ - [https://gdelgado.ca](https://gdelgado.ca)
+ - date_published: 2022-01-08T00:00:00+00:00
+
+ ## Gee-Gees d'Ottawa
+ - [https://equipes.geegees.ca](https://equipes.geegees.ca)
+ - date_published: 2024-07-21T08:25:41.342522+00:00
+
+ ## Ottawa Gee-Gees
+ - [https://teams.geegees.ca](https://teams.geegees.ca)
+ - date_published: 2024-04-30T05:28:13.660472+00:00
+
+ ## Ottawa Gee-Gees
+ - [https://tickets.geegees.ca](https://tickets.geegees.ca)
+ - date_published: 2024-07-21T08:25:23.743842+00:00
+
+ ## Homepage - GenomeCanada
+ - [https://www.genomecanada.ca](https://www.genomecanada.ca)
+ - date_published: 2024-07-10T11:37:42.790739+00:00
+
+ ## George Brown College - georgebrown.ca
+ - [https://www.georgebrown.ca](https://www.georgebrown.ca)
+ - date_published: 2021-03-19T15:16:54+00:00
+
+ ## George W.J. Laidlaw - Index Page
+ - [http://georgelaidlaw.ca](http://georgelaidlaw.ca)
+ - date_published: 2019-09-08T19:31:21+00:00
+
+ ## Canada - Seed World
+ - [https://germination.ca](https://germination.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Découvrez les meilleurs logiciels grâce à GetApp Canada pour développer votre entreprise
+ - [https://fr.getapp.ca](https://fr.getapp.ca)
+ - date_published: 2024-08-08T18:07:21.040548+00:00
+
+ ## Discover the Best Apps on GetApp Canada to Grow Your Business
+ - [https://www.getapp.ca](https://www.getapp.ca)
+ - date_published: 2024-08-08T18:06:56.766348+00:00
+
+ ## Royalty-Free Stock Photos, Creative Images & Vectors | News, Fashion, and Entertainment imagery - Getty Images
+ - [https://www.gettyimages.ca](https://www.gettyimages.ca)
+ - date_published: 2024-06-20T01:48:50.997991+00:00
+
+ ## Wheat
+ - [https://getwheat.ca](https://getwheat.ca)
+ - date_published: 2024-08-08T15:35:51+00:00
+
+ ## One Page Resume
+ - [https://gianlu.ca](https://gianlu.ca)
+ - date_published: 2023-12-02T06:15:14+00:00
+
+ ## Gilead Sciences
+ - [https://www.gilead.ca](https://www.gilead.ca)
+ - date_published: 2024-07-02T04:08:12.955063+00:00
+
+ ## Home - Glacier Media
+ - [https://glaciermedia.ca](https://glaciermedia.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Glass in Canada, Canada
+ - [http://www.glass.ca](http://www.glass.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Glassdoor | Job Search and Career Community
+ - [https://www.glassdoor.ca](https://www.glassdoor.ca)
+ - date_published: 2024-06-16T12:57:59.782418+00:00
+
+ ## Home
+ - [https://globalfest.ca](https://globalfest.ca)
+ - date_published: 2024-06-17T07:09:30+00:00
+
+ ## Centro de Investigación sobre la Globalización | Global Research
+ - [https://globalizacion.ca](https://globalizacion.ca)
+ - date_published: 2024-08-19T10:56:06.205873+00:00
+
+ ## Global News | Breaking, Latest News and Video for Canada
+ - [https://globalnews.ca](https://globalnews.ca)
+ - date_published: 2023-10-25T10:36:35.873873+00:00
+
+ ## Before you continue to YouTube
+ - [http://tv.globalresearch.ca](http://tv.globalresearch.ca)
+ - date_published: 2024-08-19T10:56:16.486363+00:00
+
+ ## Home - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://globalresearch.ca](https://globalresearch.ca)
+ - date_published: 2023-10-25T12:05:13.017051+00:00
+
+ ## CFEE Classroom Edition
+ - [http://globeclassroom.ca](http://globeclassroom.ca)
+ - date_published: 2024-05-06T16:48:40.240746+00:00
+
+ ## Home
+ - [https://globelink.ca](https://globelink.ca)
+ - date_published: 2024-03-19T00:00:00+00:00
+
  ## Home
  - [http://www.globelink.ca](http://www.globelink.ca)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -3824,229 +4048,4 @@
  ## SalesWise | Create a strong, healthy, collaborative culture
  - [http://www.saleswise.ca](http://www.saleswise.ca)
  - date_published: 2024-06-28T11:24:10.438450+00:00
-
- ## Samsung Ads Canada - Join our team
- - [https://samsungads.ca](https://samsungads.ca)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Homepage
- - [https://sandbox.ca](https://sandbox.ca)
- - date_published: 2024-07-11T17:16:41.211461+00:00
-
- ## Sandbox Software Solutions | Web, Software, and Intranet Design
- - [https://www.sandboxsoftware.ca](https://www.sandboxsoftware.ca)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Sarah Sheehan
- - [http://sarahsheehan.ca](http://sarahsheehan.ca)
- - date_published: 2024-07-10T03:37:09.526004+00:00
-
- ## SaskAlert - Public Index
- - [http://emergencyalert.saskatchewan.ca](http://emergencyalert.saskatchewan.ca)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Saskatchewan News
- - [https://www.sasktoday.ca](https://www.sasktoday.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Satya Organic | Simply Natural Skincare for Eczema & Dry Skin
- - [https://satya.ca](https://satya.ca)
- - date_published: 2024-08-06T03:30:30.470170+00:00
-
- ## Insecure vehicles should be banned, not security tools like the Flipper Zero
- - [https://saveflipper.ca](https://saveflipper.ca)
- - date_published: 2024-02-21T11:20:49+00:00
-
- ## Savour Life Inspiration
- - [https://savourelgin.ca](https://savourelgin.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Savour Ottawa
- - [https://savourottawa.ca](https://savourottawa.ca)
- - date_published: 2024-07-11T20:56:46+00:00
-
- ## sbobet แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100%
- - [https://www.sbobet.ca](https://www.sbobet.ca)
- - date_published: 2024-07-03T20:03:58+00:00
-
- ## SCARCS
- - [https://scarcs.ca](https://scarcs.ca)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
- - [https://schlage.ca](https://schlage.ca)
- - date_published: 2024-05-09T05:19:15.492632+00:00
-
- ## Book Clubs | Scholastic Canada
- - [https://bookclubs.scholastic.ca](https://bookclubs.scholastic.ca)
- - date_published: 2024-04-30T05:03:33.889310+00:00
-
- ## Get ready!
- - [https://bookfairs.scholastic.ca](https://bookfairs.scholastic.ca)
- - date_published: 2024-08-06T00:36:59+00:00
-
- ## Login
- - [https://bookfairtoolkit.scholastic.ca](https://bookfairtoolkit.scholastic.ca)
- - date_published: 2024-06-08T13:35:19.607814+00:00
-
- ## Scholastic Canada
- - [https://digital.scholastic.ca](https://digital.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [http://scholastic.ca](http://scholastic.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [https://www2.scholastic.ca](https://www2.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [https://www.scholastic.ca](https://www.scholastic.ca)
- - date_published: 2024-01-02T00:03:11.274641+00:00
-
- ## Schools in Canada, Canada
- - [http://www.schools.ca](http://www.schools.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ackee
- - [https://eyes.schroer.ca](https://eyes.schroer.ca)
- - date_published: 2024-04-30T05:03:44.595986+00:00
-
- ## Dominick Schroer's Blog
- - [https://schroer.ca](https://schroer.ca)
- - date_published: 2023-10-25T09:02:45.716038+00:00
- - tags: ['personal']
-
- ## CSPC - Canadian Science Policy Centre
- - [https://sciencepolicy.ca](https://sciencepolicy.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## CSPC – Canadian Science Policy Centre
- - [https://sciencepolicyconference.ca](https://sciencepolicyconference.ca)
- - date_published: 2024-07-13T14:38:28+00:00
-
- ## Today - Science World
- - [https://www.scienceworld.ca](https://www.scienceworld.ca)
- - date_published: 2021-01-28T00:00:00+00:00
-
- ## Scientology - l'Eglise de la Scientology de France, Portail officiel
- - [https://fr.scientology.ca](https://fr.scientology.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Test de personnalité
- - [https://www.oca.fr.scientology.ca](https://www.oca.fr.scientology.ca)
- - date_published: 2024-06-17T16:40:55.634753+00:00
-
- ## Official Church of Scientology: What is Scientology?
- - [https://scientology.ca](https://scientology.ca)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Home
- - [https://www.scintillation.ca](https://www.scintillation.ca)
- - date_published: 2024-05-24T13:32:50.540423+00:00
- - tags: ['literary convention']
-
- ## ACE/SCISAT - The Atmospheric Chemistry Experiment
- - [https://ace.scisat.ca](https://ace.scisat.ca)
- - date_published: 2024-06-30T02:57:24.199309+00:00
-
- ## databace.scisat.ca
- - [http://databace.scisat.ca](http://databace.scisat.ca)
- - date_published: 2024-06-30T02:57:25.422134+00:00
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [https://scottishritecanada.ca](https://scottishritecanada.ca)
- - date_published: 2023-02-09T00:00:00+00:00
- - tags: ['freemasonry']
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [http://www.scottishritecanada.ca](http://www.scottishritecanada.ca)
- - date_published: 2023-02-09T00:00:00+00:00
-
- ## Scott Redmond
- - [https://scottredmond.ca](https://scottredmond.ca)
- - date_published: 2022-06-20T10:54:19+00:00
- - tags: ['personal']
-
- ## Global Negotiation Consultancy, Global Negotiation Training | Scotwork USA
- - [https://www.scotwork.ca](https://www.scotwork.ca)
- - date_published: 2024-06-18T09:42:52.903402+00:00
-
- ## Scrap Car Removal Toronto | Best Cash For Scrap Cars up to $5,000
- - [https://scrapcartorontoshop.ca](https://scrapcartorontoshop.ca)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## SCRNPRNT
- - [https://www.scrnprnt.ca](https://www.scrnprnt.ca)
- - date_published: 2023-11-16T19:11:13+00:00
-
- ## Scarborough Campus Students' Union
- - [http://scsu.ca](http://scsu.ca)
- - date_published: 2024-09-18T05:42:52.139571+00:00
-
- ## SCUMB
- - [https://scumb.ca](https://scumb.ca)
- - date_published: 2011-05-03T05:46:13+00:00
-
- ## Sean Marshall
- - [https://seanmarshall.ca](https://seanmarshall.ca)
- - date_published: 2024-08-17T16:58:32+00:00
-
- ## The Second Egress: Building a Code Change
- - [https://secondegress.ca](https://secondegress.ca)
- - date_published: 2023-10-25T12:06:36.332747+00:00
-
- ## Secretlab Gaming Chairs & Gaming Desk | Secretlab CA
- - [https://secretlabchairs.ca](https://secretlabchairs.ca)
- - date_published: 2024-09-03T20:58:47.505685+00:00
-
- ## Servus Credit Union  - Commercial Net Banking Login
- - [https://securenetbanking.ca](https://securenetbanking.ca)
- - date_published: 2019-04-28T00:00:00+00:00
-
- ## Homepage - Canadian Securities Administrators
- - [https://info.securities-administrators.ca](https://info.securities-administrators.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Homepage - Canadian Securities Administrators
- - [https://www.securities-administrators.ca](https://www.securities-administrators.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## ShieldSquare Captcha
- - [https://sedarplus.ca](https://sedarplus.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://www.seguin.ca](https://www.seguin.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home - SenCanada.ca
- - [https://sencanada.ca](https://sencanada.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Sencia Canada Ltd. - Thunder Bay Web Design & Development
- - [http://www.sencia.ca](http://www.sencia.ca)
- - date_published: 2024-08-19T07:14:02.413682+00:00
-
- ## #senseipublishing.com
- - [http://www.senseipauldavid.ca](http://www.senseipauldavid.ca)
- - date_published: 2024-09-12T14:03:42.579638+00:00
-
- ## SEO Agency in Ottawa, Canada | SEO Services | SEO North
- - [https://seonorth.ca](https://seonorth.ca)
- - date_published: 2023-10-25T12:06:42.751440+00:00
- - tags: ['seo', 'company']
-
- ## Servus Credit Union
- - [https://ib.servus.ca](https://ib.servus.ca)
- - date_published: 2024-06-16T07:45:05.347828+00:00
-
- ## Life - Servus Credit Union
- - [https://servus.ca](https://servus.ca)
- - date_published: 2024-06-16T07:45:07.775862+00:00
-
- ## Sexshops in Canada, Canada
- - [http://www.sexshops.ca](http://www.sexshops.ca)
- - date_published: 2024-06-03T00:00:00+00:00
 

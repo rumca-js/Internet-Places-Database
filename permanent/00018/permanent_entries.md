@@ -1,3 +1,245 @@
+ ## SONOFF Official Homepage| Smart Home automation SONOFF Official
+ - [https://sonoff.itead.cc](https://sonoff.itead.cc)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Support
+ - [https://support.itead.cc](https://support.itead.cc)
+ - date_published: 2024-09-16T13:25:13.863419+00:00
+
+ ## Home – JJC
+ - [http://www.jjc.cc](http://www.jjc.cc)
+ - date_published: 2024-09-09T13:15:17.395628+00:00
+
+ ## JOIN Cycling App for iOS & Android - Improve Your Ride
+ - [https://join.cc](https://join.cc)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## jstn
+ - [http://jstn.cc](http://jstn.cc)
+ - date_published: 2024-07-14T13:05:21.390382+00:00
+
+ ## jtti-Dedicated Server|Cloud Server-Jtti Singapore Global Network Infrastructure Service Provider
+ - [https://jtti.cc](https://jtti.cc)
+ - date_published: 2024-05-07T23:30:17.179297+00:00
+
+ ## J-V.CC
+ - [https://j-v.cc](https://j-v.cc)
+ - date_published: 2024-07-30T15:27:38+00:00
+
+ ## 每日頭條 - 每日新鮮頭條一網打盡
+ - [https://kknews.cc](https://kknews.cc)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## HackMD - KKTIX
+ - [https://hackmd.kktix.cc](https://hackmd.kktix.cc)
+ - date_published: 2024-06-22T12:42:03.003936+00:00
+
+ ## Colorize Photo with Next-Gen AI for Free | Kolorize
+ - [https://de.kolorize.cc](https://de.kolorize.cc)
+ - date_published: 2024-04-30T05:43:39.001873+00:00
+
+ ## Colorize Photo with Next-Gen AI for Free | Kolorize
+ - [https://es.kolorize.cc](https://es.kolorize.cc)
+ - date_published: 2024-04-30T05:43:43.011499+00:00
+
+ ## Colorize Photo with Next-Gen AI for Free | Kolorize
+ - [https://fr.kolorize.cc](https://fr.kolorize.cc)
+ - date_published: 2024-04-30T05:43:28.022002+00:00
+
+ ## Colorize Photo with Next-Gen AI for Free | Kolorize
+ - [https://it.kolorize.cc](https://it.kolorize.cc)
+ - date_published: 2024-04-30T05:43:32.915080+00:00
+
+ ## Colorize Photo with Next Generation AI | Kolorize
+ - [https://kolorize.cc](https://kolorize.cc)
+ - date_published: 2024-01-17T14:03:48.489490+00:00
+
+ ## Colorize Photo with Next-Gen AI for Free | Kolorize
+ - [https://pt.kolorize.cc](https://pt.kolorize.cc)
+ - date_published: 2024-04-30T05:43:48.976595+00:00
+
+ ## imagor v1.4.6
+ - [https://s3p.kolorize.cc](https://s3p.kolorize.cc)
+ - date_published: 2024-04-30T05:43:23.425851+00:00
+
+ ## imagor v1.4.14
+ - [https://s3t.kolorize.cc](https://s3t.kolorize.cc)
+ - date_published: 2024-09-05T12:31:18.057299+00:00
+
+ ## Colorize Photo with Next-Gen AI for Free | Kolorize
+ - [https://tw.kolorize.cc](https://tw.kolorize.cc)
+ - date_published: 2024-04-30T05:43:53.125520+00:00
+
+ ## /dev/krzaq
+ - [https://dev.krzaq.cc](https://dev.krzaq.cc)
+ - date_published: 2024-09-04T07:06:12.340865+00:00
+
+ ## LARE
+ - [https://lare.cc](https://lare.cc)
+ - date_published: 2024-08-28T15:06:29+00:00
+
+ ## LaTeX.Online - cloud compiler LaTeX to PDF
+ - [https://latexonline.cc](https://latexonline.cc)
+ - date_published: 2024-06-01T06:39:47+00:00
+
+ ## Ensemble, réinventons la tech | Latitudes
+ - [https://www.latitudes.cc](https://www.latitudes.cc)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## CoLLAs
+ - [https://lifelong-ml.cc](https://lifelong-ml.cc)
+ - date_published: 2024-07-11T14:30:26.017037+00:00
+
+ ## LILYGO
+ - [https://community.lilygo.cc](https://community.lilygo.cc)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Committed To The Research & Development Of IoT
+ - [https://www.lilygo.cc](https://www.lilygo.cc)
+ - date_published: 2024-01-04T04:23:21.553958+00:00
+
+ ## Linkinbio: The Link-In-Bio Tool That You Get Paid For Each Click.
+ - [https://linkinbio.cc](https://linkinbio.cc)
+ - date_published: 2024-07-17T12:41:19.546806+00:00
+
+ ## LinkStack
+ - [https://linksta.cc](https://linksta.cc)
+ - date_published: 2024-05-14T03:48:44.023599+00:00
+
+ ## Linmi - 探索未知，沉淀新知，迭代认知。
+ - [https://linmi.cc](https://linmi.cc)
+ - date_published: 2024-08-18T06:57:54.860118+00:00
+
+ ## LinuxLists.cc - Mailing List Archive
+ - [https://linuxlists.cc](https://linuxlists.cc)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## The complete littleBits library of STEAM and Coding lessons
+ - [http://littlebits.cc](http://littlebits.cc)
+ - date_published: 2024-08-06T20:17:34.579694+00:00
+
+ - [https://lodestone.cc](https://lodestone.cc)
+ - date_published: 2024-07-07T11:48:58+00:00
+ - tags: ['game hosting', 'minecraft', 'self-host']
+
+ ## Lowpass
+ - [https://lowpass.cc](https://lowpass.cc)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## LSRF™ | Premium Cycling Clothing
+ - [http://lsrf.cc](http://lsrf.cc)
+ - date_published: 2024-07-16T17:00:02.361585+00:00
+
+ ## The MagPi magazine
+ - [https://magpi.cc](https://magpi.cc)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## เว็บสล็อต แนะนำ 5 เกมที่แตกง่าย อัตราการชนะสูง
+ - [https://mak1t0.cc](https://mak1t0.cc)
+ - date_published: 2024-04-28T03:51:22.722075+00:00
+
+ ## MakerPRO
+ - [https://makerpro.cc](https://makerpro.cc)
+ - date_published: 2024-05-04T15:13:52.422971+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.mako.cc](https://analytics.mako.cc)
+ - date_published: 2024-04-30T05:44:31.466614+00:00
+
+ ## Benjamin Mako Hill
+ - [https://mako.cc](https://mako.cc)
+ - date_published: 2023-10-25T09:03:06.147739+00:00
+ - tags: ['personal']
+
+ ## Karmanyaah Malhotra
+ - [https://karmanyaah.malhotra.cc](https://karmanyaah.malhotra.cc)
+ - date_published: 2023-10-25T12:11:03.732061+00:00
+
+ ## Mantik
+ - [http://mantik.cc](http://mantik.cc)
+ - date_published: 2019-11-29T12:05:05+00:00
+
+ ## Mastodon.cc
+ - [https://mastodon.cc](https://mastodon.cc)
+ - date_published: 2024-06-15T04:23:17.930974+00:00
+
+ ## MastodonCC Status
+ - [https://status.mastodon.cc](https://status.mastodon.cc)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## maudite codes
+ - [http://blog.maudite.cc](http://blog.maudite.cc)
+ - date_published: 2024-07-13T23:53:47.173385+00:00
+
+ ## Astrological Readings
+ - [http://maxlange.cc](http://maxlange.cc)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## mayaman.cc
+ - [http://www.mayaman.cc](http://www.mayaman.cc)
+ - date_published: 2024-06-20T09:10:31.071028+00:00
+
+ ## Welcome to nginx!
+ - [https://dataaccess.mblock.cc](https://dataaccess.mblock.cc)
+ - date_published: 2021-05-01T02:43:07+00:00
+
+ ## Meatloaf!
+ - [https://meatloaf.cc](https://meatloaf.cc)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Mehdi’s Notes
+ - [https://blog.mehdi.cc](https://blog.mehdi.cc)
+ - date_published: 2024-06-18T00:01:49+00:00
+
+ ## Mehdi Merah, front-end web developer (and beyond)
+ - [https://mehdi.cc](https://mehdi.cc)
+ - date_published: 2023-11-15T22:10:20+00:00
+
+ ## Meiro – AI-powered builder for tests and quizzes
+ - [https://meiro.cc](https://meiro.cc)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Michelle Thorne
+ - [https://michellethorne.cc](https://michellethorne.cc)
+ - date_published: 2024-07-07T10:27:52.603742+00:00
+
+ ## microbeats
+ - [https://microbeats.cc](https://microbeats.cc)
+ - date_published: 2023-08-21T13:11:24+00:00
+
+ ## Microsolidarity | Microsolidarity
+ - [https://microsolidarity.cc](https://microsolidarity.cc)
+ - date_published: 2024-05-12T06:00:54.743093+00:00
+
+ ## Dave Mielke's Home Page
+ - [http://mielke.cc](http://mielke.cc)
+ - date_published: 2024-09-02T15:08:07.726442+00:00
+
+ ## Philosophy for Rebels – Mind Prison's gallery of wisdom
+ - [https://gallery.mindprison.cc](https://gallery.mindprison.cc)
+ - date_published: 2024-04-30T05:45:08.469089+00:00
+
+ ## Mind Prison | Dakara | Substack
+ - [https://www.mindprison.cc](https://www.mindprison.cc)
+ - date_published: 2023-10-25T09:39:44.637114+00:00
+ - tags: ['substack']
+
+ ## mltrain – Algorithms Made Easy
+ - [https://mltrain.cc](https://mltrain.cc)
+ - date_published: 2024-07-22T11:00:42+00:00
+
+ ## 墨刀 - 百万产品团队的共同选择
+ - [https://modao.cc](https://modao.cc)
+ - date_published: 2024-07-13T20:39:47.953671+00:00
+
+ ## Money Tracker
+ - [https://app.moneytracker.cc](https://app.moneytracker.cc)
+ - date_published: 2024-09-04T11:29:53.469230+00:00
+
+ ## Money Tracker
+ - [https://demo.moneytracker.cc](https://demo.moneytracker.cc)
+ - date_published: 2024-09-04T11:29:51.869630+00:00
+
  ## Money Tracker
  - [https://moneytracker.cc](https://moneytracker.cc)
  - date_published: 2023-06-19T10:57:08+00:00
@@ -169,6 +411,10 @@
  ## Pigsty
  - [https://pigsty.cc](https://pigsty.cc)
  - date_published: 2024-07-10T04:28:22+00:00
+
+ ## Kirill Pimenov
+ - [https://pimenov.cc](https://pimenov.cc)
+ - date_published: 2024-09-23T12:19:17.241007+00:00
 
  ## studio pl80
  - [http://pl80.cc](http://pl80.cc)
@@ -913,6 +1159,10 @@
  ## The James G. Martin Center for Academic Renewal —
  - [https://jamesgmartin.center](https://jamesgmartin.center)
  - date_published: 2023-10-25T12:12:29.460489+00:00
+
+ ## Jeffrey Sachs Center on Sustainable Development
+ - [https://jeffreysachs.center](https://jeffreysachs.center)
+ - date_published: 2024-09-23T11:08:20+00:00
 
  ## Центр обучения Joomla
  - [https://www.joomla.center](https://www.joomla.center)
@@ -3767,252 +4017,4 @@
  ## Scala Center at EPFL
  - [https://scala.epfl.ch](https://scala.epfl.ch)
  - date_published: 2024-06-20T07:45:16+00:00
-
- ## EPFL Virtual Tour
- - [https://schools-virtualtour.epfl.ch](https://schools-virtualtour.epfl.ch)
- - date_published: 2024-05-12T07:23:00.143373+00:00
-
- ## Search · EPFL
- - [https://search.epfl.ch](https://search.epfl.ch)
- - date_published: 2024-05-12T07:17:14.446678+00:00
-
- ## Laboratory of Sensing and Networking Systems (SENS)
- - [https://sens.epfl.ch](https://sens.epfl.ch)
- - date_published: 2024-09-13T18:13:55+00:00
-
- ## Swiss Finance Institute
- - [http://sfi.epfl.ch](http://sfi.epfl.ch)
- - date_published: 2024-07-16T22:29:37+00:00
-
- ## Home
- - [https://sgp2011-lgg.epfl.ch](https://sgp2011-lgg.epfl.ch)
- - date_published: 2024-01-17T14:51:35+00:00
-
- ## The EPFL Chapter of the Society for Industrial and Applied Mathematics
- - [https://siam.epfl.ch](https://siam.epfl.ch)
- - date_published: 2024-05-12T07:16:29.351659+00:00
-
- ## Student Kreativity and Innovation Laboratory - SKIL
- - [https://skil.epfl.ch](https://skil.epfl.ch)
- - date_published: 2022-09-26T00:00:00+00:00
-
- ## Section de Physique
- - [https://sph.epfl.ch](https://sph.epfl.ch)
- - date_published: 2024-05-12T07:17:17.425685+00:00
-
- ## Service de promotion des sciences
- - [http://sps.epfl.ch](http://sps.epfl.ch)
- - date_published: 2024-07-16T09:21:13+00:00
-
- ## STI - School of Engineering - EPFL
- - [https://sti.epfl.ch](https://sti.epfl.ch)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Gestion des études
- - [http://studying.epfl.ch](http://studying.epfl.ch)
- - date_published: 2024-07-16T22:18:41+00:00
-
- ## Summer@EPFL
- - [https://summer.epfl.ch](https://summer.epfl.ch)
- - date_published: 2023-10-26T19:37:58+00:00
-
- ## Service Portal - Services & Support
- - [https://support.epfl.ch](https://support.epfl.ch)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## suri.epfl.ch
- - [https://suri.epfl.ch](https://suri.epfl.ch)
- - date_published: 2024-05-12T07:24:45.733524+00:00
-
- ## start    [Summer Research Institute]
- - [http://suri-past.epfl.ch](http://suri-past.epfl.ch)
- - date_published: 2024-07-16T22:48:37.246048+00:00
-
- ## School of Life Sciences
- - [http://sv.epfl.ch](http://sv.epfl.ch)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## PPMS
- - [https://sv-ppms.epfl.ch](https://sv-ppms.epfl.ch)
- - date_published: 2024-05-12T07:22:59.427168+00:00
-
- ## SYSTEMF @ EPFL - SYSTEMF @ EPFL
- - [https://systemf.epfl.ch](https://systemf.epfl.ch)
- - date_published: 2024-07-20T00:48:23+00:00
-
- ## Teaching guide
- - [http://teaching.epfl.ch](http://teaching.epfl.ch)
- - date_published: 2024-07-16T22:29:32+00:00
-
- ## Tequila Identity Management
- - [https://tequila.epfl.ch](https://tequila.epfl.ch)
- - date_published: 2021-11-08T14:31:36+00:00
-
- ## Theory @ EPFL
- - [https://theory.epfl.ch](https://theory.epfl.ch)
- - date_published: 2024-03-21T12:34:03+00:00
-
- ## Search · EPFL
- - [https://tree.epfl.ch](https://tree.epfl.ch)
- - date_published: 2024-05-12T07:16:25.248601+00:00
-
- ## Technology Transfer Office
- - [http://tto.epfl.ch](http://tto.epfl.ch)
- - date_published: 2024-07-16T22:29:14+00:00
-
- ## Unipoly – Association écologiste  EPFL-UNIL
- - [https://unipoly.epfl.ch](https://unipoly.epfl.ch)
- - date_published: 2024-07-16T22:34:13.778972+00:00
-
- ## EPFL Valais Wallis
- - [https://valais.epfl.ch](https://valais.epfl.ch)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Vivapoly'24
- - [https://vivapoly.epfl.ch](https://vivapoly.epfl.ch)
- - date_published: 2024-05-12T07:23:54.187947+00:00
-
- ## Vice-présidence pour l'innovation (VPI)
- - [http://vpi.epfl.ch](http://vpi.epfl.ch)
- - date_published: 2024-07-16T22:29:41+00:00
-
- ## EPFL Web 2018 Styleguide based on elements
- - [https://web2018.epfl.ch](https://web2018.epfl.ch)
- - date_published: 2024-04-30T06:02:04.922074+00:00
-
- ## BIOP - Home
- - [https://wiki-biop.epfl.ch](https://wiki-biop.epfl.ch)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Wikis
- - [https://wiki.epfl.ch](https://wiki.epfl.ch)
- - date_published: 2024-05-12T07:22:50.095130+00:00
-
- ## International Women’s Day 2024
- - [https://womensday.epfl.ch](https://womensday.epfl.ch)
- - date_published: 2024-05-12T07:17:11.935814+00:00
-
- ## Services et ressources
- - [http://working.epfl.ch](http://working.epfl.ch)
- - date_published: 2024-07-16T22:29:43+00:00
-
- ## Xitip - Information Theoretic Inequalities Prover
- - [https://xitip.epfl.ch](https://xitip.epfl.ch)
- - date_published: 2009-05-27T17:16:58+00:00
-
- ## EPFL Alumni
- - [https://epflalumni.ch](https://epflalumni.ch)
- - date_published: 2024-05-12T07:16:55.881145+00:00
-
- ## MAS DRDI – Designers play a vital role in innovation
- - [https://education.epfl-ecal-lab.ch](https://education.epfl-ecal-lab.ch)
- - date_published: 2024-05-12T07:24:52.772995+00:00
-
- ## Welcome to the EPFL+ECAL Lab
- - [http://epfl-ecal-lab.ch](http://epfl-ecal-lab.ch)
- - date_published: 2024-07-16T22:49:23.575427+00:00
-
- ## EPFL Innovation Park - Home
- - [https://epfl-innovationpark.ch](https://epfl-innovationpark.ch)
- - date_published: 2024-05-12T07:24:25.630696+00:00
-
- ## EPFL Pavilions
- - [https://epfl-pavilions.ch](https://epfl-pavilions.ch)
- - date_published: 2024-05-12T07:16:31.755971+00:00
-
- ## Epsitec SA
- - [https://epsitec.ch](https://epsitec.ch)
- - date_published: 2024-05-10T03:58:17.886556+00:00
-
- ## Rechenzentrumsunternehmen & Unternehmensnetzwerk-Technologien | Equinix
- - [https://de.equinix.ch](https://de.equinix.ch)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Datacentre et Technologies de réseaux d'entreprise | Equinix
- - [https://fr.equinix.ch](https://fr.equinix.ch)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## de :: Ernst Göhner Stiftung
- - [https://www.ernst-goehner-stiftung.ch](https://www.ernst-goehner-stiftung.ch)
- - date_published: 2024-06-25T23:29:18.604221+00:00
-
- ## Contact / Erratique
- - [https://erratique.ch](https://erratique.ch)
- - date_published: 2024-06-18T16:35:08+00:00
-
- ## ESA BIC Switzerland | Launch Ideas > Push Gravity
- - [https://www.esabic.ch](https://www.esabic.ch)
- - date_published: 2024-09-04T17:48:32.153772+00:00
-
- ## esense GmbH – Gute Webseiten
- - [https://www.esense.ch](https://www.esense.ch)
- - date_published: 2024-06-27T12:50:47+00:00
-
- ## Page d'accueil
- - [https://www.esl.ch](https://www.esl.ch)
- - date_published: 2024-07-16T22:05:27.522096+00:00
-
- ## espacequark.ch
- - [https://espacequark.ch](https://espacequark.ch)
- - date_published: 2024-05-07T12:51:40.767536+00:00
-
- ## Home | Espazium
- - [http://competitions.espazium.ch](http://competitions.espazium.ch)
- - date_published: 2024-07-13T14:58:58.250348+00:00
-
- ## ES Santé > Accueil
- - [http://www.es-sante.ch](http://www.es-sante.ch)
- - date_published: 2024-08-19T22:38:14.228310+00:00
-
- ## Accueil | Les Estudiantines
- - [https://estudiantines.ch](https://estudiantines.ch)
- - date_published: 2017-05-17T12:00:54+00:00
-
- ## EthereumZuri.ch
- - [https://ethereumzuri.ch](https://ethereumzuri.ch)
- - date_published: 2024-05-01T05:34:17.270896+00:00
-
- ## ETH-Rat
- - [https://ethrat.ch](https://ethrat.ch)
- - date_published: 2024-05-04T15:14:54.805696+00:00
-
- ## Ethereum Research
- - [https://ethresear.ch](https://ethresear.ch)
- - date_published: 2023-12-29T04:55:09.336302+00:00
-
- ## Album: 25 Jahre Informatik
- - [http://25infk.gallery.ethz.ch](http://25infk.gallery.ethz.ch)
- - date_published: 2024-07-21T06:06:13.735774+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [https://aai-logon.ethz.ch](https://aai-logon.ethz.ch)
- - date_published: 2023-04-28T16:52:29+00:00
-
- ## AIT Lab
- - [https://ait.ethz.ch](https://ait.ethz.ch)
- - date_published: 2024-06-21T08:43:25+00:00
-
- ## Sign in - Matomo
- - [https://analytics.library.ethz.ch](https://analytics.library.ethz.ch)
- - date_published: 2024-07-21T06:18:32.378583+00:00
-
- ## Homepage
- - [https://appliedcrypto.ethz.ch](https://appliedcrypto.ethz.ch)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Departement Architektur
- - [https://arch.ethz.ch](https://arch.ethz.ch)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The Art of Chemistry
- - [https://artofchemistry.ethz.ch](https://artofchemistry.ethz.ch)
- - date_published: 2024-02-08T11:13:35+00:00
-
- ## E-Pics Image Archive, ETH Library
- - [https://ba.e-pics.ethz.ch](https://ba.e-pics.ethz.ch)
- - date_published: 2024-05-06T20:41:20.872738+00:00
-
- ## Departement Bau, Umwelt und Geomatik
- - [https://baug.ethz.ch](https://baug.ethz.ch)
- - date_published: 2024-04-11T00:00:00+00:00
 

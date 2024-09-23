@@ -1,3 +1,225 @@
+ ## Western Continuing Studies
+ - [https://wcs.uwo.ca](https://wcs.uwo.ca)
+ - date_published: 2024-06-24T08:22:22.261688+00:00
+
+ ## Welcome To Western | Western University | London, Ontario, Canada
+ - [https://welcome.uwo.ca](https://welcome.uwo.ca)
+ - date_published: 2023-10-27T13:58:19+00:00
+
+ ## Western Technology Services - Western University
+ - [https://wts.uwo.ca](https://wts.uwo.ca)
+ - date_published: 2024-06-17T19:33:51+00:00
+
+ ## Western Bookstore
+ - [https://www.bookstore.uwo.ca](https://www.bookstore.uwo.ca)
+ - date_published: 2024-06-24T07:07:21+00:00
+
+ ## Office of Equity, Diversity and Inclusion - Western University
+ - [https://www.edi.uwo.ca](https://www.edi.uwo.ca)
+ - date_published: 2024-06-24T06:00:12+00:00
+
+ ## Celebrating 50 Years
+ - [https://www.edu.uwo.ca](https://www.edu.uwo.ca)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Faculty of Engineering - Western University
+ - [https://www.eng.uwo.ca](https://www.eng.uwo.ca)
+ - date_published: 2024-06-24T05:32:25+00:00
+
+ ## Faculty of Information & Media Studies - Western University
+ - [https://www.fims.uwo.ca](https://www.fims.uwo.ca)
+ - date_published: 2024-06-24T08:21:15.404170+00:00
+
+ ## Ivey Business School
+ - [https://www.ivey.uwo.ca](https://www.ivey.uwo.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Faculty of Law - Western University
+ - [https://www.law.uwo.ca](https://www.law.uwo.ca)
+ - date_published: 2024-06-24T04:00:23+00:00
+
+ ## Western Libraries - Western University
+ - [https://www.lib.uwo.ca](https://www.lib.uwo.ca)
+ - date_published: 2024-06-21T11:30:12+00:00
+
+ ## Schulich School of Medicine & Dentistry - Western University
+ - [https://www.schulich.uwo.ca](https://www.schulich.uwo.ca)
+ - date_published: 2024-06-20T19:20:43+00:00
+
+ ## Faculty of Social Science - Western University
+ - [https://www.ssc.uwo.ca](https://www.ssc.uwo.ca)
+ - date_published: 2024-06-20T13:40:51+00:00
+
+ ## Academic Calendar - Western University
+ - [https://www.westerncalendar.uwo.ca](https://www.westerncalendar.uwo.ca)
+ - date_published: 2024-06-24T08:22:31.512238+00:00
+
+ ## Leading Vape Wholesaler & E-Juice Distributor | VapeDaddy Canada
+ - [http://www.vapedaddy.ca](http://www.vapedaddy.ca)
+ - date_published: 2024-05-11T02:44:10+00:00
+
+ ## About
+ - [https://varun.ca](https://varun.ca)
+ - date_published: 2023-10-25T09:02:48.656185+00:00
+ - tags: ['personal']
+
+ ## Home - Vancouver Cherry Blossom Festival
+ - [https://www.vcbf.ca](https://www.vcbf.ca)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Venera Arnaoudova – Associate Professor at Washington State University
+ - [http://veneraarnaoudova.ca](http://veneraarnaoudova.ca)
+ - date_published: 2024-09-04T18:59:54.638841+00:00
+
+ ## City of Vernon
+ - [https://www.vernon.ca](https://www.vernon.ca)
+ - date_published: 2024-08-17T19:15:51+00:00
+
+ ## Vervex ⋆ Business Consulting & Art Direction ⋆ Free Consultation
+ - [http://vervex.ca](http://vervex.ca)
+ - date_published: 2024-08-06T00:00:21.332337+00:00
+
+ ## Wind turbine manufacturing and service | Vestas CA
+ - [https://vestas.ca](https://vestas.ca)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
+ - [https://www.viagogo.ca](https://www.viagogo.ca)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## VIA Rail Canada
+ - [http://viarail.ca](http://viarail.ca)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Vibrant Content
+ - [https://www.vibrantcontent.ca](https://www.vibrantcontent.ca)
+ - date_published: 2024-09-12T19:00:54.140817+00:00
+
+ ## Have Your Say
+ - [https://engage.victoria.ca](https://engage.victoria.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## City of Victoria
+ - [https://victoria.ca](https://victoria.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Victoria Festival of Authors
+ - [https://victoriafestivalofauthors.ca](https://victoriafestivalofauthors.ca)
+ - date_published: 2024-08-18T09:50:11.654665+00:00
+
+ ## VIDEOGAMESPLUS.CA
+ - [https://videogamesplus.ca](https://videogamesplus.ca)
+ - date_published: 2024-07-17T12:18:14.032378+00:00
+
+ ## Videographers in Canada, Canada
+ - [http://www.videographers.ca](http://www.videographers.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Transformative Learning & Leadership - Viewpoint Leadership
+ - [http://viewpointleadership.ca](http://viewpointleadership.ca)
+ - date_published: 2021-06-20T00:00:00+00:00
+
+ ## Vijay P
+ - [https://www.vijayp.ca](https://www.vijayp.ca)
+ - date_published: 2024-08-19T11:01:42.983310+00:00
+
+ ## VinAudit Canada Official Site - VIN Check | Canadian Vehicle History Reports
+ - [https://www.vinaudit.ca](https://www.vinaudit.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## VintageComputer.ca – A vintage computer virtual exhibit in Canada
+ - [https://vintagecomputer.ca](https://vintagecomputer.ca)
+ - date_published: 2024-08-07T02:21:03+00:00
+
+ ## Mobile Phones, Plans, Internet & More - Virgin Plus
+ - [http://www.virginmobile.ca](http://www.virginmobile.ca)
+ - date_published: 2023-06-09T23:10:19+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://visa.ca](https://visa.ca)
+ - date_published: 2024-03-28T07:01:27.954091+00:00
+
+ ## Page d’accueil VisitTheUSA.com
+ - [https://fr.visittheusa.ca](https://fr.visittheusa.ca)
+ - date_published: 2024-07-08T14:22:09.005181+00:00
+
+ ## Vistek is Canada's Camera Store, Shop for Mirrorless Cameras, Digital Cameras, 4k Video Cameras and more - Toronto, Calgary, Edmonton, Canada
+ - [https://www.vistek.ca](https://www.vistek.ca)
+ - date_published: 2024-06-30T11:47:39.898458+00:00
+
+ ## Vitalik Buterin's website
+ - [https://vitalik.ca](https://vitalik.ca)
+ - date_published: 2023-10-25T09:03:03.847296+00:00
+ - tags: ['personal']
+
+ ## VITA Digital Collections Software
+ - [http://vitatoolkit.ca](http://vitatoolkit.ca)
+ - date_published: 2022-04-11T00:00:00+00:00
+
+ ## Village Media
+ - [https://vmcdn.ca](https://vmcdn.ca)
+ - date_published: 2020-01-27T17:45:32+00:00
+
+ ## Valeurs mobilières Desjardins (VMD)
+ - [https://www.vmdconseil.ca](https://www.vmdconseil.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## VM Web Solutions
+ - [https://reviews.vmwebsolutions.ca](https://reviews.vmwebsolutions.ca)
+ - date_published: 2024-07-13T19:10:59.064881+00:00
+
+ ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
+ - [http://www.volunteerministers.ca](http://www.volunteerministers.ca)
+ - date_published: 2024-09-04T17:53:49.732408+00:00
+
+ ## V · Home
+ - [https://v-os.ca](https://v-os.ca)
+ - date_published: 2024-08-08T03:07:05.544697+00:00
+
+ ## Working at Walmart Canada | Jobs and Careers at Walmart Canada
+ - [https://careers.walmart.ca](https://careers.walmart.ca)
+ - date_published: 2024-07-09T12:52:09.019882+00:00
+
+ ## Untitled Electrode Web Application
+ - [https://seller.walmart.ca](https://seller.walmart.ca)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Online Shopping Canada: Everyday Low Prices at Walmart.ca!
+ - [https://www.walmart.ca](https://www.walmart.ca)
+ - date_published: 2024-06-17T05:42:29+00:00
+
+ ## The Warbard
+ - [http://www.warbard.ca](http://www.warbard.ca)
+ - date_published: 2024-07-20T06:20:26.462004+00:00
+
+ ## Warner Music Canada Online Store
+ - [https://store.warnermusic.ca](https://store.warnermusic.ca)
+ - date_published: 2024-05-13T03:42:21.998285+00:00
+
+ ## Home | Warner Music Canada
+ - [https://www.warnermusic.ca](https://www.warnermusic.ca)
+ - date_published: 2024-07-17T11:28:27.048301+00:00
+
+ ## Wasted Talent - a webcomic by jam
+ - [http://www.wastedtalent.ca](http://www.wastedtalent.ca)
+ - date_published: 2024-07-17T08:20:45.928938+00:00
+
+ ## Homepage | Waterfront Toronto
+ - [https://www.waterfrontoronto.ca](https://www.waterfrontoronto.ca)
+ - date_published: 2024-08-16T17:55:34+00:00
+
+ ## Basement Waterproofing in Toronto, the GTA & Across Canada | Waterproofing.ca by N49
+ - [http://www.waterproofing.ca](http://www.waterproofing.ca)
+ - date_published: 2024-06-29T17:27:01.066373+00:00
+
+ ## Waye Mason
+ - [https://wayemason.ca](https://wayemason.ca)
+ - date_published: 2024-08-19T11:02:23.925926+00:00
+
+ ## Wayfair.ca – Online Home Store for Furniture, Decor, Outdoors & More | Wayfair.ca
+ - [https://secure.wayfair.ca](https://secure.wayfair.ca)
+ - date_published: 2024-09-17T21:43:49.267781+00:00
+
  ## Wayfair Canada - Online Home Store for Furniture, Decor, Outdoors & More
  - [https://wayfair.ca](https://wayfair.ca)
  - date_published: 2024-06-15T11:13:22.069839+00:00
@@ -1578,6 +1800,14 @@
  - [https://goblin.camp](https://goblin.camp)
  - date_published: 2024-09-18T23:09:50.641680+00:00
 
+ ## IPFS Camp 2022
+ - [https://2022.ipfs.camp](https://2022.ipfs.camp)
+ - date_published: 2024-09-23T13:13:07.736340+00:00
+
+ ## IPFS Camp 2024
+ - [https://2024.ipfs.camp](https://2024.ipfs.camp)
+ - date_published: 2024-09-23T13:05:36.640958+00:00
+
  ## Micro Camp: a virtual gathering of the Micro.blog community
  - [https://micro.camp](https://micro.camp)
  - date_published: 2024-05-04T07:00:21.898447+00:00
@@ -1647,6 +1877,10 @@
  - [https://au21.capital](https://au21.capital)
  - date_published: 2024-08-07T19:00:36.669521+00:00
 
+ ## Bonded - VU's Affinity Investment Network
+ - [https://www.bonded.capital](https://www.bonded.capital)
+ - date_published: 2024-09-20T00:00:00+00:00
+
  ## Home | Cactus Capital
  - [https://bgu.cactus.capital](https://bgu.cactus.capital)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -1654,6 +1888,14 @@
  ## CHΛTΞΛU  | DeFi Private Capital Markets
  - [https://www.chateau.capital](https://www.chateau.capital)
  - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Dap Capital – Financially, technologically, and regulatory compliant way of tokenizing assets
+ - [https://app.dap.capital](https://app.dap.capital)
+ - date_published: 2024-09-23T12:56:36.106354+00:00
+
+ ## DeFiance Capital | A Crypto-Native Investment Firm
+ - [https://www.defiance.capital](https://www.defiance.capital)
+ - date_published: 2024-09-23T10:44:46.597650+00:00
 
  ## About – Dewhales
  - [https://dewhales.capital](https://dewhales.capital)
@@ -3774,246 +4016,4 @@
  ## ITEAD STUDIO OFFICIAL
  - [https://itead.cc](https://itead.cc)
  - date_published: 2024-05-01T02:45:12.519947+00:00
-
- ## SONOFF Official Homepage| Smart Home automation SONOFF Official
- - [https://sonoff.itead.cc](https://sonoff.itead.cc)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Support
- - [https://support.itead.cc](https://support.itead.cc)
- - date_published: 2024-09-16T13:25:13.863419+00:00
-
- ## Home – JJC
- - [http://www.jjc.cc](http://www.jjc.cc)
- - date_published: 2024-09-09T13:15:17.395628+00:00
-
- ## JOIN Cycling App for iOS & Android - Improve Your Ride
- - [https://join.cc](https://join.cc)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## jstn
- - [http://jstn.cc](http://jstn.cc)
- - date_published: 2024-07-14T13:05:21.390382+00:00
-
- ## jtti-Dedicated Server|Cloud Server-Jtti Singapore Global Network Infrastructure Service Provider
- - [https://jtti.cc](https://jtti.cc)
- - date_published: 2024-05-07T23:30:17.179297+00:00
-
- ## J-V.CC
- - [https://j-v.cc](https://j-v.cc)
- - date_published: 2024-07-30T15:27:38+00:00
-
- ## 每日頭條 - 每日新鮮頭條一網打盡
- - [https://kknews.cc](https://kknews.cc)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## HackMD - KKTIX
- - [https://hackmd.kktix.cc](https://hackmd.kktix.cc)
- - date_published: 2024-06-22T12:42:03.003936+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://de.kolorize.cc](https://de.kolorize.cc)
- - date_published: 2024-04-30T05:43:39.001873+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://es.kolorize.cc](https://es.kolorize.cc)
- - date_published: 2024-04-30T05:43:43.011499+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://fr.kolorize.cc](https://fr.kolorize.cc)
- - date_published: 2024-04-30T05:43:28.022002+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://it.kolorize.cc](https://it.kolorize.cc)
- - date_published: 2024-04-30T05:43:32.915080+00:00
-
- ## Colorize Photo with Next Generation AI | Kolorize
- - [https://kolorize.cc](https://kolorize.cc)
- - date_published: 2024-01-17T14:03:48.489490+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://pt.kolorize.cc](https://pt.kolorize.cc)
- - date_published: 2024-04-30T05:43:48.976595+00:00
-
- ## imagor v1.4.6
- - [https://s3p.kolorize.cc](https://s3p.kolorize.cc)
- - date_published: 2024-04-30T05:43:23.425851+00:00
-
- ## imagor v1.4.14
- - [https://s3t.kolorize.cc](https://s3t.kolorize.cc)
- - date_published: 2024-09-05T12:31:18.057299+00:00
-
- ## Colorize Photo with Next-Gen AI for Free | Kolorize
- - [https://tw.kolorize.cc](https://tw.kolorize.cc)
- - date_published: 2024-04-30T05:43:53.125520+00:00
-
- ## /dev/krzaq
- - [https://dev.krzaq.cc](https://dev.krzaq.cc)
- - date_published: 2024-09-04T07:06:12.340865+00:00
-
- ## LARE
- - [https://lare.cc](https://lare.cc)
- - date_published: 2024-08-28T15:06:29+00:00
-
- ## LaTeX.Online - cloud compiler LaTeX to PDF
- - [https://latexonline.cc](https://latexonline.cc)
- - date_published: 2024-06-01T06:39:47+00:00
-
- ## Ensemble, réinventons la tech | Latitudes
- - [https://www.latitudes.cc](https://www.latitudes.cc)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## CoLLAs
- - [https://lifelong-ml.cc](https://lifelong-ml.cc)
- - date_published: 2024-07-11T14:30:26.017037+00:00
-
- ## LILYGO
- - [https://community.lilygo.cc](https://community.lilygo.cc)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Committed To The Research & Development Of IoT
- - [https://www.lilygo.cc](https://www.lilygo.cc)
- - date_published: 2024-01-04T04:23:21.553958+00:00
-
- ## Linkinbio: The Link-In-Bio Tool That You Get Paid For Each Click.
- - [https://linkinbio.cc](https://linkinbio.cc)
- - date_published: 2024-07-17T12:41:19.546806+00:00
-
- ## LinkStack
- - [https://linksta.cc](https://linksta.cc)
- - date_published: 2024-05-14T03:48:44.023599+00:00
-
- ## Linmi - 探索未知，沉淀新知，迭代认知。
- - [https://linmi.cc](https://linmi.cc)
- - date_published: 2024-08-18T06:57:54.860118+00:00
-
- ## LinuxLists.cc - Mailing List Archive
- - [https://linuxlists.cc](https://linuxlists.cc)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## The complete littleBits library of STEAM and Coding lessons
- - [http://littlebits.cc](http://littlebits.cc)
- - date_published: 2024-08-06T20:17:34.579694+00:00
-
- - [https://lodestone.cc](https://lodestone.cc)
- - date_published: 2024-07-07T11:48:58+00:00
- - tags: ['game hosting', 'minecraft', 'self-host']
-
- ## Lowpass
- - [https://lowpass.cc](https://lowpass.cc)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## LSRF™ | Premium Cycling Clothing
- - [http://lsrf.cc](http://lsrf.cc)
- - date_published: 2024-07-16T17:00:02.361585+00:00
-
- ## The MagPi magazine
- - [https://magpi.cc](https://magpi.cc)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## เว็บสล็อต แนะนำ 5 เกมที่แตกง่าย อัตราการชนะสูง
- - [https://mak1t0.cc](https://mak1t0.cc)
- - date_published: 2024-04-28T03:51:22.722075+00:00
-
- ## MakerPRO
- - [https://makerpro.cc](https://makerpro.cc)
- - date_published: 2024-05-04T15:13:52.422971+00:00
-
- ## Sign in - Matomo
- - [https://analytics.mako.cc](https://analytics.mako.cc)
- - date_published: 2024-04-30T05:44:31.466614+00:00
-
- ## Benjamin Mako Hill
- - [https://mako.cc](https://mako.cc)
- - date_published: 2023-10-25T09:03:06.147739+00:00
- - tags: ['personal']
-
- ## Karmanyaah Malhotra
- - [https://karmanyaah.malhotra.cc](https://karmanyaah.malhotra.cc)
- - date_published: 2023-10-25T12:11:03.732061+00:00
-
- ## Mantik
- - [http://mantik.cc](http://mantik.cc)
- - date_published: 2019-11-29T12:05:05+00:00
-
- ## Mastodon.cc
- - [https://mastodon.cc](https://mastodon.cc)
- - date_published: 2024-06-15T04:23:17.930974+00:00
-
- ## MastodonCC Status
- - [https://status.mastodon.cc](https://status.mastodon.cc)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## maudite codes
- - [http://blog.maudite.cc](http://blog.maudite.cc)
- - date_published: 2024-07-13T23:53:47.173385+00:00
-
- ## Astrological Readings
- - [http://maxlange.cc](http://maxlange.cc)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## mayaman.cc
- - [http://www.mayaman.cc](http://www.mayaman.cc)
- - date_published: 2024-06-20T09:10:31.071028+00:00
-
- ## Welcome to nginx!
- - [https://dataaccess.mblock.cc](https://dataaccess.mblock.cc)
- - date_published: 2021-05-01T02:43:07+00:00
-
- ## Meatloaf!
- - [https://meatloaf.cc](https://meatloaf.cc)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Mehdi’s Notes
- - [https://blog.mehdi.cc](https://blog.mehdi.cc)
- - date_published: 2024-06-18T00:01:49+00:00
-
- ## Mehdi Merah, front-end web developer (and beyond)
- - [https://mehdi.cc](https://mehdi.cc)
- - date_published: 2023-11-15T22:10:20+00:00
-
- ## Meiro – AI-powered builder for tests and quizzes
- - [https://meiro.cc](https://meiro.cc)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Michelle Thorne
- - [https://michellethorne.cc](https://michellethorne.cc)
- - date_published: 2024-07-07T10:27:52.603742+00:00
-
- ## microbeats
- - [https://microbeats.cc](https://microbeats.cc)
- - date_published: 2023-08-21T13:11:24+00:00
-
- ## Microsolidarity | Microsolidarity
- - [https://microsolidarity.cc](https://microsolidarity.cc)
- - date_published: 2024-05-12T06:00:54.743093+00:00
-
- ## Dave Mielke's Home Page
- - [http://mielke.cc](http://mielke.cc)
- - date_published: 2024-09-02T15:08:07.726442+00:00
-
- ## Philosophy for Rebels – Mind Prison's gallery of wisdom
- - [https://gallery.mindprison.cc](https://gallery.mindprison.cc)
- - date_published: 2024-04-30T05:45:08.469089+00:00
-
- ## Mind Prison | Dakara | Substack
- - [https://www.mindprison.cc](https://www.mindprison.cc)
- - date_published: 2023-10-25T09:39:44.637114+00:00
- - tags: ['substack']
-
- ## mltrain – Algorithms Made Easy
- - [https://mltrain.cc](https://mltrain.cc)
- - date_published: 2024-07-22T11:00:42+00:00
-
- ## 墨刀 - 百万产品团队的共同选择
- - [https://modao.cc](https://modao.cc)
- - date_published: 2024-07-13T20:39:47.953671+00:00
-
- ## Money Tracker
- - [https://app.moneytracker.cc](https://app.moneytracker.cc)
- - date_published: 2024-09-04T11:29:53.469230+00:00
-
- ## Money Tracker
- - [https://demo.moneytracker.cc](https://demo.moneytracker.cc)
- - date_published: 2024-09-04T11:29:51.869630+00:00
 

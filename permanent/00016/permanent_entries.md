@@ -1,3 +1,228 @@
+ ## Samsung Ads Canada - Join our team
+ - [https://samsungads.ca](https://samsungads.ca)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Homepage
+ - [https://sandbox.ca](https://sandbox.ca)
+ - date_published: 2024-07-11T17:16:41.211461+00:00
+
+ ## Sandbox Software Solutions | Web, Software, and Intranet Design
+ - [https://www.sandboxsoftware.ca](https://www.sandboxsoftware.ca)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Sarah Sheehan
+ - [http://sarahsheehan.ca](http://sarahsheehan.ca)
+ - date_published: 2024-07-10T03:37:09.526004+00:00
+
+ ## SaskAlert - Public Index
+ - [http://emergencyalert.saskatchewan.ca](http://emergencyalert.saskatchewan.ca)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Saskatchewan News
+ - [https://www.sasktoday.ca](https://www.sasktoday.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Satya Organic | Simply Natural Skincare for Eczema & Dry Skin
+ - [https://satya.ca](https://satya.ca)
+ - date_published: 2024-08-06T03:30:30.470170+00:00
+
+ ## Insecure vehicles should be banned, not security tools like the Flipper Zero
+ - [https://saveflipper.ca](https://saveflipper.ca)
+ - date_published: 2024-02-21T11:20:49+00:00
+
+ ## Savour Life Inspiration
+ - [https://savourelgin.ca](https://savourelgin.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Savour Ottawa
+ - [https://savourottawa.ca](https://savourottawa.ca)
+ - date_published: 2024-07-11T20:56:46+00:00
+
+ ## sbobet แทงบอลออนไลน์ สมัครใหม่รับโบนัส 100%
+ - [https://www.sbobet.ca](https://www.sbobet.ca)
+ - date_published: 2024-07-03T20:03:58+00:00
+
+ ## SCARCS
+ - [https://scarcs.ca](https://scarcs.ca)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
+ - [https://schlage.ca](https://schlage.ca)
+ - date_published: 2024-05-09T05:19:15.492632+00:00
+
+ ## Book Clubs | Scholastic Canada
+ - [https://bookclubs.scholastic.ca](https://bookclubs.scholastic.ca)
+ - date_published: 2024-04-30T05:03:33.889310+00:00
+
+ ## Get ready!
+ - [https://bookfairs.scholastic.ca](https://bookfairs.scholastic.ca)
+ - date_published: 2024-08-06T00:36:59+00:00
+
+ ## Login
+ - [https://bookfairtoolkit.scholastic.ca](https://bookfairtoolkit.scholastic.ca)
+ - date_published: 2024-06-08T13:35:19.607814+00:00
+
+ ## Scholastic Canada
+ - [https://digital.scholastic.ca](https://digital.scholastic.ca)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Scholastic Canada
+ - [http://scholastic.ca](http://scholastic.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Scholastic Canada
+ - [https://www2.scholastic.ca](https://www2.scholastic.ca)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Scholastic Canada
+ - [https://www.scholastic.ca](https://www.scholastic.ca)
+ - date_published: 2024-01-02T00:03:11.274641+00:00
+
+ ## Schools in Canada, Canada
+ - [http://www.schools.ca](http://www.schools.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Ackee
+ - [https://eyes.schroer.ca](https://eyes.schroer.ca)
+ - date_published: 2024-04-30T05:03:44.595986+00:00
+
+ ## Dominick Schroer's Blog
+ - [https://schroer.ca](https://schroer.ca)
+ - date_published: 2023-10-25T09:02:45.716038+00:00
+ - tags: ['personal']
+
+ ## CSPC - Canadian Science Policy Centre
+ - [https://sciencepolicy.ca](https://sciencepolicy.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## CSPC – Canadian Science Policy Centre
+ - [https://sciencepolicyconference.ca](https://sciencepolicyconference.ca)
+ - date_published: 2024-07-13T14:38:28+00:00
+
+ ## Today - Science World
+ - [https://www.scienceworld.ca](https://www.scienceworld.ca)
+ - date_published: 2021-01-28T00:00:00+00:00
+
+ ## Scientology - l'Eglise de la Scientology de France, Portail officiel
+ - [https://fr.scientology.ca](https://fr.scientology.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Test de personnalité
+ - [https://www.oca.fr.scientology.ca](https://www.oca.fr.scientology.ca)
+ - date_published: 2024-06-17T16:40:55.634753+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.ca](https://scientology.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.scintillation.ca](https://www.scintillation.ca)
+ - date_published: 2024-05-24T13:32:50.540423+00:00
+ - tags: ['literary convention']
+
+ ## ACE/SCISAT - The Atmospheric Chemistry Experiment
+ - [https://ace.scisat.ca](https://ace.scisat.ca)
+ - date_published: 2024-06-30T02:57:24.199309+00:00
+
+ ## databace.scisat.ca
+ - [http://databace.scisat.ca](http://databace.scisat.ca)
+ - date_published: 2024-06-30T02:57:25.422134+00:00
+
+ ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
+ - [https://scottishritecanada.ca](https://scottishritecanada.ca)
+ - date_published: 2023-02-09T00:00:00+00:00
+ - tags: ['freemasonry']
+
+ ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
+ - [http://www.scottishritecanada.ca](http://www.scottishritecanada.ca)
+ - date_published: 2023-02-09T00:00:00+00:00
+
+ ## Scott Redmond
+ - [https://scottredmond.ca](https://scottredmond.ca)
+ - date_published: 2022-06-20T10:54:19+00:00
+ - tags: ['personal']
+
+ ## Global Negotiation Consultancy, Global Negotiation Training | Scotwork USA
+ - [https://www.scotwork.ca](https://www.scotwork.ca)
+ - date_published: 2024-06-18T09:42:52.903402+00:00
+
+ ## Scrap Car Removal Toronto | Best Cash For Scrap Cars up to $5,000
+ - [https://scrapcartorontoshop.ca](https://scrapcartorontoshop.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## SCRNPRNT
+ - [https://www.scrnprnt.ca](https://www.scrnprnt.ca)
+ - date_published: 2023-11-16T19:11:13+00:00
+
+ ## Scarborough Campus Students' Union
+ - [http://scsu.ca](http://scsu.ca)
+ - date_published: 2024-09-18T05:42:52.139571+00:00
+
+ ## SCUMB
+ - [https://scumb.ca](https://scumb.ca)
+ - date_published: 2011-05-03T05:46:13+00:00
+
+ ## Sean Marshall
+ - [https://seanmarshall.ca](https://seanmarshall.ca)
+ - date_published: 2024-08-17T16:58:32+00:00
+
+ ## The Second Egress: Building a Code Change
+ - [https://secondegress.ca](https://secondegress.ca)
+ - date_published: 2023-10-25T12:06:36.332747+00:00
+
+ ## Secretlab Gaming Chairs & Gaming Desk | Secretlab CA
+ - [https://secretlabchairs.ca](https://secretlabchairs.ca)
+ - date_published: 2024-09-03T20:58:47.505685+00:00
+
+ ## Servus Credit Union  - Commercial Net Banking Login
+ - [https://securenetbanking.ca](https://securenetbanking.ca)
+ - date_published: 2019-04-28T00:00:00+00:00
+
+ ## Homepage - Canadian Securities Administrators
+ - [https://info.securities-administrators.ca](https://info.securities-administrators.ca)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Homepage - Canadian Securities Administrators
+ - [https://www.securities-administrators.ca](https://www.securities-administrators.ca)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## ShieldSquare Captcha
+ - [https://sedarplus.ca](https://sedarplus.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://www.seguin.ca](https://www.seguin.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Home - SenCanada.ca
+ - [https://sencanada.ca](https://sencanada.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Sencia Canada Ltd. - Thunder Bay Web Design & Development
+ - [http://www.sencia.ca](http://www.sencia.ca)
+ - date_published: 2024-08-19T07:14:02.413682+00:00
+
+ ## #senseipublishing.com
+ - [http://www.senseipauldavid.ca](http://www.senseipauldavid.ca)
+ - date_published: 2024-09-12T14:03:42.579638+00:00
+
+ ## SEO Agency in Ottawa, Canada | SEO Services | SEO North
+ - [https://seonorth.ca](https://seonorth.ca)
+ - date_published: 2023-10-25T12:06:42.751440+00:00
+ - tags: ['seo', 'company']
+
+ ## Servus Credit Union
+ - [https://ib.servus.ca](https://ib.servus.ca)
+ - date_published: 2024-06-16T07:45:05.347828+00:00
+
+ ## Life - Servus Credit Union
+ - [https://servus.ca](https://servus.ca)
+ - date_published: 2024-06-16T07:45:07.775862+00:00
+
+ ## Sexshops in Canada, Canada
+ - [http://www.sexshops.ca](http://www.sexshops.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
  ## Home - SFU Beedie School of Business
  - [https://beedie.sfu.ca](https://beedie.sfu.ca)
  - date_published: 2024-04-30T05:13:05.722776+00:00
@@ -3800,226 +4025,4 @@
  ## Western University
  - [https://uwo.ca](https://uwo.ca)
  - date_published: 2024-06-22T20:26:05+00:00
-
- ## Western Continuing Studies
- - [https://wcs.uwo.ca](https://wcs.uwo.ca)
- - date_published: 2024-06-24T08:22:22.261688+00:00
-
- ## Welcome To Western | Western University | London, Ontario, Canada
- - [https://welcome.uwo.ca](https://welcome.uwo.ca)
- - date_published: 2023-10-27T13:58:19+00:00
-
- ## Western Technology Services - Western University
- - [https://wts.uwo.ca](https://wts.uwo.ca)
- - date_published: 2024-06-17T19:33:51+00:00
-
- ## Western Bookstore
- - [https://www.bookstore.uwo.ca](https://www.bookstore.uwo.ca)
- - date_published: 2024-06-24T07:07:21+00:00
-
- ## Office of Equity, Diversity and Inclusion - Western University
- - [https://www.edi.uwo.ca](https://www.edi.uwo.ca)
- - date_published: 2024-06-24T06:00:12+00:00
-
- ## Celebrating 50 Years
- - [https://www.edu.uwo.ca](https://www.edu.uwo.ca)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Faculty of Engineering - Western University
- - [https://www.eng.uwo.ca](https://www.eng.uwo.ca)
- - date_published: 2024-06-24T05:32:25+00:00
-
- ## Faculty of Information & Media Studies - Western University
- - [https://www.fims.uwo.ca](https://www.fims.uwo.ca)
- - date_published: 2024-06-24T08:21:15.404170+00:00
-
- ## Ivey Business School
- - [https://www.ivey.uwo.ca](https://www.ivey.uwo.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Faculty of Law - Western University
- - [https://www.law.uwo.ca](https://www.law.uwo.ca)
- - date_published: 2024-06-24T04:00:23+00:00
-
- ## Western Libraries - Western University
- - [https://www.lib.uwo.ca](https://www.lib.uwo.ca)
- - date_published: 2024-06-21T11:30:12+00:00
-
- ## Schulich School of Medicine & Dentistry - Western University
- - [https://www.schulich.uwo.ca](https://www.schulich.uwo.ca)
- - date_published: 2024-06-20T19:20:43+00:00
-
- ## Faculty of Social Science - Western University
- - [https://www.ssc.uwo.ca](https://www.ssc.uwo.ca)
- - date_published: 2024-06-20T13:40:51+00:00
-
- ## Academic Calendar - Western University
- - [https://www.westerncalendar.uwo.ca](https://www.westerncalendar.uwo.ca)
- - date_published: 2024-06-24T08:22:31.512238+00:00
-
- ## Leading Vape Wholesaler & E-Juice Distributor | VapeDaddy Canada
- - [http://www.vapedaddy.ca](http://www.vapedaddy.ca)
- - date_published: 2024-05-11T02:44:10+00:00
-
- ## About
- - [https://varun.ca](https://varun.ca)
- - date_published: 2023-10-25T09:02:48.656185+00:00
- - tags: ['personal']
-
- ## Home - Vancouver Cherry Blossom Festival
- - [https://www.vcbf.ca](https://www.vcbf.ca)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Venera Arnaoudova – Associate Professor at Washington State University
- - [http://veneraarnaoudova.ca](http://veneraarnaoudova.ca)
- - date_published: 2024-09-04T18:59:54.638841+00:00
-
- ## City of Vernon
- - [https://www.vernon.ca](https://www.vernon.ca)
- - date_published: 2024-08-17T19:15:51+00:00
-
- ## Vervex ⋆ Business Consulting & Art Direction ⋆ Free Consultation
- - [http://vervex.ca](http://vervex.ca)
- - date_published: 2024-08-06T00:00:21.332337+00:00
-
- ## Wind turbine manufacturing and service | Vestas CA
- - [https://vestas.ca](https://vestas.ca)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Tickets - Concert, Sport & Theatre Tickets | viagogo the Ticket Marketplace
- - [https://www.viagogo.ca](https://www.viagogo.ca)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## VIA Rail Canada
- - [http://viarail.ca](http://viarail.ca)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Vibrant Content
- - [https://www.vibrantcontent.ca](https://www.vibrantcontent.ca)
- - date_published: 2024-09-12T19:00:54.140817+00:00
-
- ## Have Your Say
- - [https://engage.victoria.ca](https://engage.victoria.ca)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## City of Victoria
- - [https://victoria.ca](https://victoria.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Victoria Festival of Authors
- - [https://victoriafestivalofauthors.ca](https://victoriafestivalofauthors.ca)
- - date_published: 2024-08-18T09:50:11.654665+00:00
-
- ## VIDEOGAMESPLUS.CA
- - [https://videogamesplus.ca](https://videogamesplus.ca)
- - date_published: 2024-07-17T12:18:14.032378+00:00
-
- ## Videographers in Canada, Canada
- - [http://www.videographers.ca](http://www.videographers.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Transformative Learning & Leadership - Viewpoint Leadership
- - [http://viewpointleadership.ca](http://viewpointleadership.ca)
- - date_published: 2021-06-20T00:00:00+00:00
-
- ## Vijay P
- - [https://www.vijayp.ca](https://www.vijayp.ca)
- - date_published: 2024-08-19T11:01:42.983310+00:00
-
- ## VinAudit Canada Official Site - VIN Check | Canadian Vehicle History Reports
- - [https://www.vinaudit.ca](https://www.vinaudit.ca)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## VintageComputer.ca – A vintage computer virtual exhibit in Canada
- - [https://vintagecomputer.ca](https://vintagecomputer.ca)
- - date_published: 2024-08-07T02:21:03+00:00
-
- ## Mobile Phones, Plans, Internet & More - Virgin Plus
- - [http://www.virginmobile.ca](http://www.virginmobile.ca)
- - date_published: 2023-06-09T23:10:19+00:00
-
- ## Visa, a trusted leader in digital payments
- - [https://visa.ca](https://visa.ca)
- - date_published: 2024-03-28T07:01:27.954091+00:00
-
- ## Page d’accueil VisitTheUSA.com
- - [https://fr.visittheusa.ca](https://fr.visittheusa.ca)
- - date_published: 2024-07-08T14:22:09.005181+00:00
-
- ## Vistek is Canada's Camera Store, Shop for Mirrorless Cameras, Digital Cameras, 4k Video Cameras and more - Toronto, Calgary, Edmonton, Canada
- - [https://www.vistek.ca](https://www.vistek.ca)
- - date_published: 2024-06-30T11:47:39.898458+00:00
-
- ## Vitalik Buterin's website
- - [https://vitalik.ca](https://vitalik.ca)
- - date_published: 2023-10-25T09:03:03.847296+00:00
- - tags: ['personal']
-
- ## VITA Digital Collections Software
- - [http://vitatoolkit.ca](http://vitatoolkit.ca)
- - date_published: 2022-04-11T00:00:00+00:00
-
- ## Village Media
- - [https://vmcdn.ca](https://vmcdn.ca)
- - date_published: 2020-01-27T17:45:32+00:00
-
- ## Valeurs mobilières Desjardins (VMD)
- - [https://www.vmdconseil.ca](https://www.vmdconseil.ca)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## VM Web Solutions
- - [https://reviews.vmwebsolutions.ca](https://reviews.vmwebsolutions.ca)
- - date_published: 2024-07-13T19:10:59.064881+00:00
-
- ## Scientology Volunteer Ministers: Humanitarian Organization & Aid, Disaster Response
- - [http://www.volunteerministers.ca](http://www.volunteerministers.ca)
- - date_published: 2024-09-04T17:53:49.732408+00:00
-
- ## V · Home
- - [https://v-os.ca](https://v-os.ca)
- - date_published: 2024-08-08T03:07:05.544697+00:00
-
- ## Working at Walmart Canada | Jobs and Careers at Walmart Canada
- - [https://careers.walmart.ca](https://careers.walmart.ca)
- - date_published: 2024-07-09T12:52:09.019882+00:00
-
- ## Untitled Electrode Web Application
- - [https://seller.walmart.ca](https://seller.walmart.ca)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Online Shopping Canada: Everyday Low Prices at Walmart.ca!
- - [https://www.walmart.ca](https://www.walmart.ca)
- - date_published: 2024-06-17T05:42:29+00:00
-
- ## The Warbard
- - [http://www.warbard.ca](http://www.warbard.ca)
- - date_published: 2024-07-20T06:20:26.462004+00:00
-
- ## Warner Music Canada Online Store
- - [https://store.warnermusic.ca](https://store.warnermusic.ca)
- - date_published: 2024-05-13T03:42:21.998285+00:00
-
- ## Home | Warner Music Canada
- - [https://www.warnermusic.ca](https://www.warnermusic.ca)
- - date_published: 2024-07-17T11:28:27.048301+00:00
-
- ## Wasted Talent - a webcomic by jam
- - [http://www.wastedtalent.ca](http://www.wastedtalent.ca)
- - date_published: 2024-07-17T08:20:45.928938+00:00
-
- ## Homepage | Waterfront Toronto
- - [https://www.waterfrontoronto.ca](https://www.waterfrontoronto.ca)
- - date_published: 2024-08-16T17:55:34+00:00
-
- ## Basement Waterproofing in Toronto, the GTA & Across Canada | Waterproofing.ca by N49
- - [http://www.waterproofing.ca](http://www.waterproofing.ca)
- - date_published: 2024-06-29T17:27:01.066373+00:00
-
- ## Waye Mason
- - [https://wayemason.ca](https://wayemason.ca)
- - date_published: 2024-08-19T11:02:23.925926+00:00
-
- ## Wayfair.ca – Online Home Store for Furniture, Decor, Outdoors & More | Wayfair.ca
- - [https://secure.wayfair.ca](https://secure.wayfair.ca)
- - date_published: 2024-09-17T21:43:49.267781+00:00
 
