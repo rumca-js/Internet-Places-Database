@@ -1,3 +1,160 @@
+ ## The Fantasy Hammer
+ - [https://thefantasyhammer.blogspot.com](https://thefantasyhammer.blogspot.com)
+ - date_published: 2024-05-16T11:31:23+00:00
+
+ ## The Feral Irishman
+ - [https://theferalirishman.blogspot.com](https://theferalirishman.blogspot.com)
+ - date_published: 2024-06-27T09:22:00+00:00
+
+ ## The Fiberglass Manifesto
+ - [http://thefiberglassmanifesto.blogspot.com](http://thefiberglassmanifesto.blogspot.com)
+ - date_published: 2024-06-25T17:12:19+00:00
+
+ ## Blogger
+ - [https://thefineartofthetpk.blogspot.com](https://thefineartofthetpk.blogspot.com)
+ - date_published: 2024-05-12T03:53:31.952660+00:00
+
+ ## The Fischbowl
+ - [https://thefischbowl.blogspot.com](https://thefischbowl.blogspot.com)
+ - date_published: 2024-04-03T06:38:53.475731+00:00
+ - tags: ['personal']
+
+ ## Events in my life
+ - [http://theflowerofmosul.blogspot.com](http://theflowerofmosul.blogspot.com)
+ - date_published: 2024-03-23T18:07:35+00:00
+
+ ## The frog that jumped out
+ - [http://thefrogthatjumpedout.blogspot.com](http://thefrogthatjumpedout.blogspot.com)
+ - date_published: 2024-03-05T13:04:01+00:00
+
+ ## Frontline Gamer
+ - [http://thefrontlinegamer.blogspot.com](http://thefrontlinegamer.blogspot.com)
+ - date_published: 2024-07-14T18:26:56+00:00
+
+ ## The Gathering Storm
+ - [http://the-gathering-storm.blogspot.com](http://the-gathering-storm.blogspot.com)
+ - date_published: 2024-06-23T12:11:56+00:00
+
+ ## The Gay Gamer
+ - [http://thegaygamer.blogspot.com](http://thegaygamer.blogspot.com)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## The Genesys Project
+ - [http://thegenesysproject.blogspot.com](http://thegenesysproject.blogspot.com)
+ - date_published: 2024-02-02T16:01:17+00:00
+
+ ## The Genome Factory
+ - [http://thegenomefactory.blogspot.com](http://thegenomefactory.blogspot.com)
+ - date_published: 2024-09-02T07:33:25+00:00
+
+ ## The Gentlemen's Blog to Midnite Cinema
+ - [http://theggtmc.blogspot.com](http://theggtmc.blogspot.com)
+ - date_published: 2024-09-17T22:47:36+00:00
+
+ ## The Gordian
+ - [http://thegordian.blogspot.com](http://thegordian.blogspot.com)
+ - date_published: 2024-06-07T19:07:17+00:00
+
+ ## The Grand Tapestry
+ - [http://thegrandtapestry.blogspot.com](http://thegrandtapestry.blogspot.com)
+ - date_published: 2024-07-14T00:00:00+00:00
+
+ ## the great america blog
+ - [https://thegreatamericablog.blogspot.com](https://thegreatamericablog.blogspot.com)
+ - date_published: 2024-03-13T01:28:40+00:00
+
+ ## Restore Confederate Monuments
+ - [http://thegreatamericanrevolution.blogspot.com](http://thegreatamericanrevolution.blogspot.com)
+ - date_published: 2024-02-19T10:17:24+00:00
+
+ ## The Green Artist / Amazing Art from Ordinary Things
+ - [http://thegreenartist.blogspot.com](http://thegreenartist.blogspot.com)
+ - date_published: 2024-03-05T06:56:37+00:00
+
+ ## The Greenbelt
+ - [https://thegreenbelt.blogspot.com](https://thegreenbelt.blogspot.com)
+ - date_published: 2024-05-07T21:53:22.522398+00:00
+
+ ## the grognard slawn
+ - [http://thegrognardslawn.blogspot.com](http://thegrognardslawn.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## The Grue Next Door
+ - [http://thegruenextdoor.blogspot.com](http://thegruenextdoor.blogspot.com)
+ - date_published: 2024-03-19T17:23:13+00:00
+
+ ## The Grumpy Stunty
+ - [http://thegrumpystunty.blogspot.com](http://thegrumpystunty.blogspot.com)
+ - date_published: 2024-07-15T22:29:34+00:00
+
+ ## Blogger
+ - [http://thegunterfam.blogspot.com](http://thegunterfam.blogspot.com)
+ - date_published: 2024-07-20T21:25:25.675426+00:00
+
+ ## OXCULLENT FINDINGS
+ - [http://thegwenster.blogspot.com](http://thegwenster.blogspot.com)
+ - date_published: 2023-11-15T14:10:10+00:00
+
+ ## The Happiness Patrol
+ - [http://thehappinesspatrol.blogspot.com](http://thehappinesspatrol.blogspot.com)
+ - date_published: 2024-07-03T02:42:28+00:00
+
+ ## The Happy Typewriter
+ - [http://thehappytypewriter.blogspot.com](http://thehappytypewriter.blogspot.com)
+ - date_published: 2024-03-05T06:37:27+00:00
+
+ ## The Hardscrabbler
+ - [http://thehardscrabbler.blogspot.com](http://thehardscrabbler.blogspot.com)
+ - date_published: 2024-06-26T19:32:56+00:00
+
+ ## The Haunted Closet
+ - [http://the-haunted-closet.blogspot.com](http://the-haunted-closet.blogspot.com)
+ - date_published: 2024-07-24T07:56:35+00:00
+
+ ## THE HINDU CROSSWORD CORNER
+ - [https://thehinducrosswordcorner.blogspot.com](https://thehinducrosswordcorner.blogspot.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## The Hitting The Road Again Blues
+ - [http://thehittingtheroadagainblues.blogspot.com](http://thehittingtheroadagainblues.blogspot.com)
+ - date_published: 2024-03-05T11:36:14+00:00
+
+ ## The Hobby Stash
+ - [http://thehobbystash.blogspot.com](http://thehobbystash.blogspot.com)
+ - date_published: 2024-07-02T06:26:40+00:00
+
+ ## The Hopeless Gamer
+ - [http://thehopelessgamer.blogspot.com](http://thehopelessgamer.blogspot.com)
+ - date_published: 2024-07-17T23:03:12+00:00
+
+ ## The House on Caroline Street
+ - [http://thehouseoncarolinestreet.blogspot.com](http://thehouseoncarolinestreet.blogspot.com)
+ - date_published: 2024-06-16T03:46:21+00:00
+
+ ## Idiot Tracker
+ - [http://theidiottracker.blogspot.com](http://theidiottracker.blogspot.com)
+ - date_published: 2024-06-29T08:57:04+00:00
+
+ ## The Impossible Fortress
+ - [http://theimpossiblefortress.blogspot.com](http://theimpossiblefortress.blogspot.com)
+ - date_published: 2024-03-05T23:08:41+00:00
+
+ ## The Incursions of Chaos
+ - [http://theincursionsofchaos.blogspot.com](http://theincursionsofchaos.blogspot.com)
+ - date_published: 2024-02-21T06:06:44+00:00
+
+ ## The Jade Sphinx
+ - [https://thejadesphinx.blogspot.com](https://thejadesphinx.blogspot.com)
+ - date_published: 2024-06-20T17:52:26+00:00
+
+ ## The Joy of Knitting
+ - [https://thejoyofknitting.blogspot.com](https://thejoyofknitting.blogspot.com)
+ - date_published: 2024-03-13T00:35:17+00:00
+
+ ## Hammer's Stuff
+ - [http://thelanguageguybackup.blogspot.com](http://thelanguageguybackup.blogspot.com)
+ - date_published: 2024-02-08T19:33:27+00:00
+
  ## The Language Guy
  - [https://thelanguageguy.blogspot.com](https://thelanguageguy.blogspot.com)
  - date_published: 2024-05-07T21:54:49.059558+00:00
@@ -3856,160 +4013,4 @@
  ## An NC Gun Blog
  - [http://www.ncguns.blogspot.com](http://www.ncguns.blogspot.com)
  - date_published: 2024-03-19T10:34:33+00:00
-
- ## nintendo y mas
- - [http://www.nesx.blogspot.com](http://www.nesx.blogspot.com)
- - date_published: 2024-03-08T14:47:14+00:00
-
- ## "Dibujando Tarde"
- - [http://www.nicolarts.blogspot.com](http://www.nicolarts.blogspot.com)
- - date_published: 2024-07-13T10:14:19+00:00
-
- ## Obscura Antiques & Oddities
- - [http://www.obscuraantiques.blogspot.com](http://www.obscuraantiques.blogspot.com)
- - date_published: 2024-05-09T13:21:03+00:00
-
- ## Odious and Peculiar
- - [http://www.odiousandpeculiar.blogspot.com](http://www.odiousandpeculiar.blogspot.com)
- - date_published: 2024-05-15T23:33:33+00:00
-
- ## Tooned Out
- - [https://onlinegameaddict.blogspot.com](https://onlinegameaddict.blogspot.com)
- - date_published: 2024-03-07T23:53:02+00:00
-
- ## ORACULATIONS
- - [http://www.oraculations.blogspot.com](http://www.oraculations.blogspot.com)
- - date_published: 2024-06-19T03:58:01+00:00
-
- ## A Origem das Espécies
- - [http://www.origemdasespecies.blogspot.com](http://www.origemdasespecies.blogspot.com)
- - date_published: 2024-07-11T18:23:52+00:00
-
- ## Blogger
- - [http://www.ourwarefamily2013.blogspot.com](http://www.ourwarefamily2013.blogspot.com)
- - date_published: 2024-07-20T21:15:56.614175+00:00
-
- ## Outside Counsel
- - [http://www.outsidethelaw.blogspot.com](http://www.outsidethelaw.blogspot.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Owens Rhetoric
- - [http://www.owens.blogspot.com](http://www.owens.blogspot.com)
- - date_published: 2024-03-14T17:18:16+00:00
-
- ## pages turned
- - [http://www.pagesturned.blogspot.com](http://www.pagesturned.blogspot.com)
- - date_published: 2023-07-08T00:00:00+00:00
-
- ## Pennsylvania Workers' Compensation Journal
- - [http://www.pawc.blogspot.com](http://www.pawc.blogspot.com)
- - date_published: 2024-02-29T13:18:11+00:00
-
- ## (PO) lesie czyli pigipedia
- - [http://www.pigipedia.blogspot.com](http://www.pigipedia.blogspot.com)
- - date_published: 2024-08-06T04:09:00+00:00
-
- ## Plainsman
- - [http://www.plainsman.blogspot.com](http://www.plainsman.blogspot.com)
- - date_published: 2024-03-14T02:38:58+00:00
-
- ## Polite Company
- - [http://www.politecompany.blogspot.com](http://www.politecompany.blogspot.com)
- - date_published: 2024-06-01T06:21:39+00:00
-
- ## potfry
- - [http://www.potfry.blogspot.com](http://www.potfry.blogspot.com)
- - date_published: 2024-02-08T12:02:19+00:00
-
- ## Primeval Papa
- - [http://www.primevalpapa.blogspot.com](http://www.primevalpapa.blogspot.com)
- - date_published: 2024-04-08T17:55:29+00:00
-
- ## Public Defender Dude
- - [http://www.publicdefenderdude.blogspot.com](http://www.publicdefenderdude.blogspot.com)
- - date_published: 2024-07-12T07:20:25+00:00
-
- ## Quantum meruit
- - [http://www.quantummeruit.blogspot.com](http://www.quantummeruit.blogspot.com)
- - date_published: 2024-03-13T20:55:26+00:00
-
- ## Quimera ediciones
- - [http://www.quimeraeds.blogspot.com](http://www.quimeraeds.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## courting disaster
- - [http://www.reallyquiteunlikely.blogspot.com](http://www.reallyquiteunlikely.blogspot.com)
- - date_published: 2024-07-04T06:14:26+00:00
-
- ## The Heart Chronicles
- - [http://www.redheartcult.blogspot.com](http://www.redheartcult.blogspot.com)
- - date_published: 2024-03-21T18:44:50+00:00
-
- ## Remove All Doubt
- - [http://www.removealldoubt.blogspot.com](http://www.removealldoubt.blogspot.com)
- - date_published: 2024-03-07T18:57:32+00:00
-
- ## Reuben Kincaid
- - [http://www.reubenkincaid.blogspot.com](http://www.reubenkincaid.blogspot.com)
- - date_published: 2024-02-22T13:21:47+00:00
-
- ## ryan(drew)hoffman
- - [http://www.ryandrewhoffman.blogspot.com](http://www.ryandrewhoffman.blogspot.com)
- - date_published: 2024-02-20T02:01:05+00:00
-
- ## SACRAMENTO LAND(ING)
- - [http://www.sacramentolanding.blogspot.com](http://www.sacramentolanding.blogspot.com)
- - date_published: 2024-04-23T18:42:46+00:00
-
- ## Sarah Browning
- - [http://www.sarahbrowning.blogspot.com](http://www.sarahbrowning.blogspot.com)
- - date_published: 2024-07-05T06:04:32+00:00
-
- ## Science, AntiScience and Geology
- - [http://www.scienceantiscience.blogspot.com](http://www.scienceantiscience.blogspot.com)
- - date_published: 2024-03-25T13:57:59+00:00
-
- ## Coming soon
- - [http://www.scotlanddbarnes.blogspot.com](http://www.scotlanddbarnes.blogspot.com)
- - date_published: 2024-03-13T10:20:11+00:00
-
- ## scott c
- - [http://www.scott-c.blogspot.com](http://www.scott-c.blogspot.com)
- - date_published: 2024-07-13T06:03:06+00:00
-
- ## Second Opinions
- - [http://www.secondopinions.blogspot.com](http://www.secondopinions.blogspot.com)
- - date_published: 2024-02-20T18:10:36+00:00
-
- ## Gulf Shores Vacation
- - [http://www.securitieslaw.blogspot.com](http://www.securitieslaw.blogspot.com)
- - date_published: 2024-03-23T18:41:00+00:00
-
- ## Sense of Events
- - [http://www.senseofevents.blogspot.com](http://www.senseofevents.blogspot.com)
- - date_published: 2024-04-07T06:31:12+00:00
-
- ## sentimental jewelry
- - [http://www.sentimentaljewelry.blogspot.com](http://www.sentimentaljewelry.blogspot.com)
- - date_published: 2024-03-08T00:21:10+00:00
-
- ## shawn w flynn
- - [http://www.shawnwflynn.blogspot.com](http://www.shawnwflynn.blogspot.com)
- - date_published: 2024-03-08T22:32:44+00:00
-
- ## SHOTSMAG CONFIDENTIAL
- - [http://wwwshotsmagcouk.blogspot.com](http://wwwshotsmagcouk.blogspot.com)
- - date_published: 2024-07-04T13:55:05+00:00
-
- ## Signal 94
- - [http://www.signal94.blogspot.com](http://www.signal94.blogspot.com)
- - date_published: 2024-03-13T22:04:53+00:00
-
- ## Electrically Charged
- - [http://www.sixthcircuit.blogspot.com](http://www.sixthcircuit.blogspot.com)
- - date_published: 2023-11-15T19:10:23+00:00
-
- ## The Concerned Troll
- - [http://www.smythesworld.blogspot.com](http://www.smythesworld.blogspot.com)
- - date_published: 2024-03-21T19:21:06+00:00
 

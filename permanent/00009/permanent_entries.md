@@ -1,3 +1,43 @@
+ ## RedBook Commercial - Commercial Data & ID Services
+ - [https://commercial.redbook.com.au](https://commercial.redbook.com.au)
+ - date_published: 2024-09-26T17:31:41.152800+00:00
+
+ ## Redbook Cars | Australia’s No.1 Car Research Website – redbook.com.au
+ - [https://www.redbook.com.au](https://www.redbook.com.au)
+ - date_published: 2024-06-16T06:57:05.677190+00:00
+
+ ## Mobile inspections | RedBook Inspect
+ - [https://www.redbookinspect.com.au](https://www.redbookinspect.com.au)
+ - date_published: 2024-09-26T17:30:53.402774+00:00
+
+ ## Reebok Australia - Athletic Footwear & Apparel
+ - [https://reebok.com.au](https://reebok.com.au)
+ - date_published: 2024-07-12T07:47:35.766634+00:00
+
+ ## Regener8 Resources | Mining Exploration
+ - [https://regener8resources.com.au](https://regener8resources.com.au)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Home - Regis Resources
+ - [https://regisresources.com.au](https://regisresources.com.au)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Industry SuperFund  | Real Estate Professionals | REI Super
+ - [https://reisuper.com.au](https://reisuper.com.au)
+ - date_published: 2024-07-08T10:17:02.856145+00:00
+
+ ## News and analysis for the clean energy economy
+ - [https://reneweconomy.com.au](https://reneweconomy.com.au)
+ - date_published: 2023-10-25T11:55:38.699978+00:00
+
+ ## SwitchedOn - A RenewEconomy Publication
+ - [https://switchedon.reneweconomy.com.au](https://switchedon.reneweconomy.com.au)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Award winning and Profits Back to Member Superfund | Rest Super
+ - [https://rest.com.au](https://rest.com.au)
+ - date_published: 2024-06-30T00:00:00+00:00
+
  ## Retrospekt
  - [http://www.retrospekt.com.au](http://www.retrospekt.com.au)
  - date_published: 2024-09-04T00:00:00+00:00
@@ -1507,6 +1547,10 @@
  ## BigCommerce Tag Management and Structured Data
  - [https://websiteadvantage.com.au](https://websiteadvantage.com.au)
  - date_published: 2024-06-15T17:02:15+00:00
+
+ ## WellPlayed – A Unique Aussie Take On Gaming
+ - [https://www.well-played.com.au](https://www.well-played.com.au)
+ - date_published: 2024-10-05T23:03:06.247198+00:00
 
  ## Australian & Aboriginal Art In Sydney | Wentworth Galleries
  - [https://www.wentworthgalleries.com.au](https://www.wentworthgalleries.com.au)
@@ -3968,48 +4012,4 @@ University of Technology
  ## Employer Lookup tool
  - [https://employerlookup.icare.nsw.gov.au](https://employerlookup.icare.nsw.gov.au)
  - date_published: 2024-09-12T15:34:53.123739+00:00
-
- ## Launch Complaint Assist Widget 2
- - [https://feedbackassist.onegov.nsw.gov.au](https://feedbackassist.onegov.nsw.gov.au)
- - date_published: 2023-09-07T07:13:47+00:00
-
- ## Future Transport | Future Transport
- - [https://future.transport.nsw.gov.au](https://future.transport.nsw.gov.au)
- - date_published: 2024-09-10T22:03:30.435257+00:00
-
- ## NSW Legislation
- - [https://gazette.legislation.nsw.gov.au](https://gazette.legislation.nsw.gov.au)
- - date_published: 2024-09-16T21:52:31.690257+00:00
-
- ## Capability application tool | NSW Public Service Commission
- - [https://inclusiveleadership.psc.nsw.gov.au](https://inclusiveleadership.psc.nsw.gov.au)
- - date_published: 2023-08-22T15:51:44+00:00
-
- ## I Work for NSW
- - [https://iworkfor.nsw.gov.au](https://iworkfor.nsw.gov.au)
- - date_published: 2024-06-12T06:03:10.547487+00:00
-
- ## Department of Communities and Justice Careers
- - [https://jobs.dcj.nsw.gov.au](https://jobs.dcj.nsw.gov.au)
- - date_published: 2024-06-12T12:19:14.006632+00:00
-
- ## Job Opportunities at NSW Health
- - [https://jobs.health.nsw.gov.au](https://jobs.health.nsw.gov.au)
- - date_published: 2024-06-12T12:33:00.031150+00:00
-
- ## Home
- - [https://login.service.nsw.gov.au](https://login.service.nsw.gov.au)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## The Centre for Maritime Safety
- - [http://maritimemanagement.transport.nsw.gov.au](http://maritimemanagement.transport.nsw.gov.au)
- - date_published: 2023-03-07T00:00:00+00:00
-
- ## My DRC Water
- - [https://mydrcwater.dubbo.nsw.gov.au](https://mydrcwater.dubbo.nsw.gov.au)
- - date_published: 2024-09-18T22:01:19.499573+00:00
-
- ## Dashboard | icare
- - [https://my.icare.nsw.gov.au](https://my.icare.nsw.gov.au)
- - date_published: 2024-09-12T15:34:41.077226+00:00
 

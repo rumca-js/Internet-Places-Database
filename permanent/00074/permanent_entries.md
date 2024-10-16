@@ -1,3 +1,262 @@
+ ## VDP
+ - [https://vdp.deezer.com](https://vdp.deezer.com)
+ - date_published: 2024-05-10T04:33:31.685897+00:00
+
+ ## Portal - Deezer
+ - [https://widget.deezer.com](https://widget.deezer.com)
+ - date_published: 2024-07-03T06:36:03.916585+00:00
+
+ ## Zen by Deezer - Découvrez l'application bien-être
+ - [https://zen.deezer.com](https://zen.deezer.com)
+ - date_published: 2024-07-12T06:08:16.732999+00:00
+
+ ## The Backstage - The new Deezer blog!
+ - [https://deezer-blog.com](https://deezer-blog.com)
+ - date_published: 2024-05-10T04:33:26.635155+00:00
+
+ ## Home | Deezer Brand Partnerships
+ - [https://deezer-brandpartnerships.com](https://deezer-brandpartnerships.com)
+ - date_published: 2022-07-28T13:16:18+00:00
+
+ ## Deezer Community | Deezer Community, bringing music lovers together
+ - [https://en.deezercommunity.com](https://en.deezercommunity.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Deezer Investors
+ - [https://deezer-investors.com](https://deezer-investors.com)
+ - date_published: 2024-05-02T13:51:43+00:00
+
+ ## Ready to rock? - Deezer Jobs
+ - [https://deezerjobs.com](https://deezerjobs.com)
+ - date_published: 2023-12-19T15:32:43+00:00
+
+ ## Deezer tech services, business audio innovations
+ - [https://www.deezer-techservices.com](https://www.deezer-techservices.com)
+ - date_published: 2022-10-20T00:00:00+00:00
+
+ ## Sign Shop Panama City Beach | Deezigns & Graphics Sign Company 850-740-3598
+ - [http://deezignsngraphics.com](http://deezignsngraphics.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Automate Workflows with Default
+ - [https://www.default.com](https://www.default.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Def-Con News
+ - [https://defconnews.com](https://defconnews.com)
+ - date_published: 2024-07-04T01:28:38.940015+00:00
+
+ ## DEF CON Hacking Conference Online
+ - [http://defcononline.com](http://defcononline.com)
+ - date_published: 2024-02-05T19:20:30.491695+00:00
+ - tags: ['hacking']
+
+ ## MS-DEFCON patch alerts from AskWoody
+ - [https://defconpatch.com](https://defconpatch.com)
+ - date_published: 2024-09-04T01:07:17.972041+00:00
+
+ ## DefectDojo
+ - [https://defectdojo.com](https://defectdojo.com)
+ - date_published: 2024-06-28T19:29:13+00:00
+
+ ## defective yeti
+ - [https://defectiveyeti.com](https://defectiveyeti.com)
+ - date_published: 2020-08-26T20:17:07+00:00
+
+ ## Defector | The last good website.
+ - [https://defector.com](https://defector.com)
+ - date_published: 2023-10-25T13:48:09.544452+00:00
+
+ ## Defector | The last good website.
+ - [https://lede-admin.defector.com](https://lede-admin.defector.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Defector Store
+ - [https://defectorstore.com](https://defectorstore.com)
+ - date_published: 2024-05-01T04:31:55.281154+00:00
+
+ ## Strona główna
+ - [https://defence24.com](https://defence24.com)
+ - date_published: 2024-06-17T04:21:20.406736+00:00
+
+ ## Defence Blog
+ - [https://defence-blog.com](https://defence-blog.com)
+ - date_published: 2023-06-27T15:28:10+00:00
+
+ ## Defence IQ
+ - [https://defenceiq.com](https://defenceiq.com)
+ - date_published: 2024-05-07T23:37:23.948422+00:00
+
+ ## Defence Review Asia | Defence Business|Asia-Pacific
+ - [http://www.defencereviewasia.com](http://www.defencereviewasia.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CCTV Camera in Goa | CCTV Installation in Goa
+ - [http://www.defencesecurityindia.com](http://www.defencesecurityindia.com)
+ - date_published: 2017-07-22T00:00:00+00:00
+
+ ## DefenceTalk | Defense News Military Forum Pictures
+ - [http://www.defencetalk.com](http://www.defencetalk.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Defence Turkey Magazine
+ - [https://www.defenceturkey.com](https://www.defenceturkey.com)
+ - date_published: 2024-09-19T19:57:29.276424+00:00
+
+ ## Військовий портал Defense Express - все про військову справу
+ - [https://defence-ua.com](https://defence-ua.com)
+ - date_published: 2024-05-01T04:32:02.435694+00:00
+
+ ## Defense Express - Ukraine military industry, technology, equipment
+ - [https://en.defence-ua.com](https://en.defence-ua.com)
+ - date_published: 2023-12-25T22:35:54.461715+00:00
+
+ ## Defense Express
+ - [https://old.defence-ua.com](https://old.defence-ua.com)
+ - date_published: 2024-05-01T04:32:05.333657+00:00
+
+ ## defensa.com - Noticias de Fuerzas Armadas, Armamento y su industria
+ - [http://www.defensa.com](http://www.defensa.com)
+ - date_published: 2024-07-09T22:02:52.978723+00:00
+
+ ## Accueil - Defense aerospace
+ - [http://www.defense-aerospace.com](http://www.defense-aerospace.com)
+ - date_published: 2024-07-09T22:14:22.922848+00:00
+
+ ## دفاع العرب Defense Arabia
+ - [https://defensearabia.com](https://defensearabia.com)
+ - date_published: 2024-09-19T19:52:44+00:00
+
+ ## Defense Daily
+ - [https://www.defensedaily.com](https://www.defensedaily.com)
+ - date_published: 2024-06-29T04:49:12.854100+00:00
+
+ ## Home
+ - [https://defensehere.com](https://defensehere.com)
+ - date_published: 2022-01-12T15:32:07+00:00
+
+ ## Defense Aerospace news, exhibitions, contracts and procurement
+ - [https://www.defensemirror.com](https://www.defensemirror.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Defense News Arabic
+ - [https://arabic.defensenews.com](https://arabic.defensenews.com)
+ - date_published: 2024-05-12T07:29:38.324627+00:00
+
+ ## Defense News Conference 2-24 | September 4, 2024
+ - [https://conference.defensenews.com](https://conference.defensenews.com)
+ - date_published: 2024-07-13T08:49:47.570613+00:00
+
+ ## Sightline Media Group Events
+ - [https://events.defensenews.com](https://events.defensenews.com)
+ - date_published: 2024-05-11T11:39:11.700966+00:00
+
+ ## 100 Most Influential | Defense News, News about defense programs, business, and technology
+ - [https://people.defensenews.com](https://people.defensenews.com)
+ - date_published: 2024-04-05T18:56:04.180759+00:00
+
+ ## Defense News, Covering the politics, business and technology of defense | Defense News
+ - [https://defensenews.com](https://defensenews.com)
+ - date_published: 2023-10-31T05:18:09.856934+00:00
+ - tags: ['military news']
+
+ ## Defense One
+ - [https://defenseone.com](https://defenseone.com)
+ - date_published: 2023-10-25T13:48:12.931984+00:00
+
+ ## Defense Opinion Homepage - Defense Opinion
+ - [https://defenseopinion.com](https://defenseopinion.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Home
+ - [http://www.defensereview.com](http://www.defensereview.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## DefenseScoop | Breaking US Military Tech News, Modern Defense News
+ - [https://defensescoop.com](https://defensescoop.com)
+ - date_published: 2023-10-25T13:48:19.117494+00:00
+
+ ## Defense Systems
+ - [http://defensesystems.com](http://defensesystems.com)
+ - date_published: 2024-07-09T14:48:41+00:00
+
+ ## Home — Global Defense Insight
+ - [https://defensetalks.com](https://defensetalks.com)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Defense Tech Week 2024
+ - [https://defensetechweek.com](https://defensetechweek.com)
+ - date_published: 2024-05-01T03:25:48.092436+00:00
+ - tags: ['military', 'convention', 'defense']
+
+ ## Check out this video on DefenseTV
+ - [https://defensetv.com](https://defensetv.com)
+ - date_published: 2024-07-03T13:37:22.511065+00:00
+
+ ## Defense-Update - Military Technology & Defense News
+ - [http://defense-update.com](http://defense-update.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Defense & Security Web TV
+ - [https://www.defensewebtv.com](https://www.defensewebtv.com)
+ - date_published: 2024-05-06T16:35:08.280921+00:00
+
+ ## Defensive Carry
+ - [http://www.defensivecarry.com](http://www.defensivecarry.com)
+ - date_published: 2024-07-04T00:01:03+00:00
+
+ ## DefensiveComputingChecklist.com Table of Contents
+ - [https://defensivecomputingchecklist.com](https://defensivecomputingchecklist.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Defiant America – Home Page
+ - [https://defiantamerica.com](https://defiantamerica.com)
+ - date_published: 2023-10-25T13:48:23.084019+00:00
+
+ ## Defiant Robot
+ - [https://defiantrobot.com](https://defiantrobot.com)
+ - date_published: 2024-05-10T06:29:20.495904+00:00
+
+ ## DeFi Explore - Chicken Bonds
+ - [https://chickenbonds.defiexplore.com](https://chickenbonds.defiexplore.com)
+ - date_published: 2024-09-04T11:54:16.131125+00:00
+
+ ## DeFi Explore - MakerDAO Vault stats
+ - [https://defiexplore.com](https://defiexplore.com)
+ - date_published: 2024-09-23T10:18:23+00:00
+
+ ## DeFi Explore - Liquity Trove stats
+ - [https://liquity.defiexplore.com](https://liquity.defiexplore.com)
+ - date_published: 2024-09-04T11:54:11.938214+00:00
+
+ ## DeFi Explore - MakerDAO Vault stats
+ - [https://maker.defiexplore.com](https://maker.defiexplore.com)
+ - date_published: 2023-11-27T13:04:58+00:00
+
+ ## DeFi Kingdoms
+ - [https://defikingdoms.com](https://defikingdoms.com)
+ - date_published: 2024-06-18T16:02:05+00:00
+
+ ## DeFi Kingdoms | DeFi Kingdoms
+ - [https://docs.defikingdoms.com](https://docs.defikingdoms.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## DeFi Kingdoms
+ - [https://game.defikingdoms.com](https://game.defikingdoms.com)
+ - date_published: 2024-07-03T17:14:05+00:00
+
+ ## DefiLlama
+ - [https://defillama.com](https://defillama.com)
+ - date_published: 2024-04-30T06:30:27.553409+00:00
+
+ ## Invite gateway
+ - [https://discord.defillama.com](https://discord.defillama.com)
+ - date_published: 2024-09-09T13:52:28.290620+00:00
+
+ ## DefiLlama
+ - [https://wiki.defillama.com](https://wiki.defillama.com)
+ - date_published: 2022-10-22T23:17:52+00:00
+
  ## D-E-F-I-N-I-T-E-L-Y
  - [http://www.d-e-f-i-n-i-t-e-l-y.com](http://www.d-e-f-i-n-i-t-e-l-y.com)
  - date_published: 2024-08-06T06:09:55+00:00
@@ -1052,9 +1311,21 @@
  - [http://earthlingpriorities.demigiant.com](http://earthlingpriorities.demigiant.com)
  - date_published: 2024-09-19T21:35:59.701990+00:00
 
+ ## Demio Help Center
+ - [https://help.demio.com](https://help.demio.com)
+ - date_published: 2024-10-05T23:55:53.433305+00:00
+
+ ## The Demio Blog
+ - [https://learn.demio.com](https://learn.demio.com)
+ - date_published: 2024-10-02T00:00:00+00:00
+
  ## Login - Demio
  - [https://my.demio.com](https://my.demio.com)
  - date_published: 2024-06-20T12:56:59.637269+00:00
+
+ ## Demio - Hassle-free Webinar Software for Marketers
+ - [https://www.demio.com](https://www.demio.com)
+ - date_published: 2024-10-02T00:00:00+00:00
 
  ## Cortex XSOAR: Security Orchestration and Automation
  - [https://demisto.com](https://demisto.com)
@@ -1778,6 +2049,10 @@
  - [https://support.deploybot.com](https://support.deploybot.com)
  - date_published: 2024-06-16T17:27:09.637373+00:00
 
+ ## DeployHQ
+ - [http://deployhq.com](http://deployhq.com)
+ - date_published: 2024-10-05T22:41:20.489700+00:00
+
  ## Welcome - DeployHQ Identity
  - [https://identity.deployhq.com](https://identity.deployhq.com)
  - date_published: 2024-06-16T12:16:35.204170+00:00
@@ -2065,6 +2340,10 @@
  ## Dermatology Times and Multimedia Medical, LLC
  - [https://dermatologytimes.com](https://dermatologytimes.com)
  - date_published: 2024-03-06T21:11:40.002363+00:00
+
+ ## blabnote
+ - [http://www.derm-link.com](http://www.derm-link.com)
+ - date_published: 2024-10-05T22:54:04.752018+00:00
 
  ## To All My Friends
  - [http://allmyfriends.dermotkennedy.com](http://allmyfriends.dermotkennedy.com)
@@ -3377,6 +3656,22 @@
  - [https://deuter.com](https://deuter.com)
  - date_published: 2024-06-15T11:57:56.889519+00:00
 
+ ## BauInfoPortal
+ - [https://bauprojekte.deutschebahn.com](https://bauprojekte.deutschebahn.com)
+ - date_published: 2024-10-05T22:47:51.927311+00:00
+
+ ## Your Push Zone has been created.
+ - [https://ecm-mediathek-cdn.deutschebahn.com](https://ecm-mediathek-cdn.deutschebahn.com)
+ - date_published: 2023-08-25T09:39:44+00:00
+
+ ## Lieferantenportal
+ - [https://lieferanten.deutschebahn.com](https://lieferanten.deutschebahn.com)
+ - date_published: 2024-10-05T22:47:50.913953+00:00
+
+ ## | marsDB
+ - [https://mediathek.deutschebahn.com](https://mediathek.deutschebahn.com)
+ - date_published: 2024-10-05T22:47:53.112766+00:00
+
  ## Nachhaltigkeit bei der Deutschen Bahn
  - [https://nachhaltigkeit.deutschebahn.com](https://nachhaltigkeit.deutschebahn.com)
  - date_published: 2024-06-20T12:16:29.961287+00:00
@@ -3737,296 +4032,4 @@
  ## Business Intelligence : actualités, cours, tutoriels, FAQ, livres, outils et forums
  - [https://business-intelligence.developpez.com](https://business-intelligence.developpez.com)
  - date_published: 2024-05-31T00:00:00+00:00
-
- ## Club des développeurs C : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://c.developpez.com](https://c.developpez.com)
- - date_published: 2024-07-10T02:24:53.813871+00:00
-
- ## Chat du club des développeurs et IT Pro
- - [https://chat.developpez.com](https://chat.developpez.com)
- - date_published: 2024-07-10T02:24:56.767927+00:00
-
- ## Chrtophe developpez.com
- - [https://chrtophe.developpez.com](https://chrtophe.developpez.com)
- - date_published: 2024-07-13T09:55:26.086611+00:00
-
- ## Cloud computing : Actualités, articles, cours, tutoriels, forums, débats
- - [https://cloud-computing.developpez.com](https://cloud-computing.developpez.com)
- - date_published: 2024-07-10T02:26:21.293523+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://club.developpez.com](https://club.developpez.com)
- - date_published: 2024-07-10T02:25:21.491097+00:00
-
- ## Developpez.com, le club des développeurs et IT Pro
- - [https://compt.developpez.com](https://compt.developpez.com)
- - date_published: 2024-07-10T02:25:55.194331+00:00
-
- ## Developpez.com, le club des développeurs et IT Pro
- - [https://compteur.developpez.com](https://compteur.developpez.com)
- - date_published: 2024-07-10T02:23:39.109830+00:00
-
- ## Club des développeurs C++ : cours, tutoriels, FAQ, compilateurs et IDE, livres, sources, bibliothèques
- - [https://cpp.developpez.com](https://cpp.developpez.com)
- - date_published: 2024-07-10T02:25:23.014731+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://crm.developpez.com](https://crm.developpez.com)
- - date_published: 2024-07-10T02:26:24.395282+00:00
-
- ## Club des développeurs CSS: actualités, cours, tutoriels, programmation, codes sources, livres, outils et forums
- - [https://css.developpez.com](https://css.developpez.com)
- - date_published: 2024-07-10T02:25:28.508098+00:00
-
- ## Dart : Cours, tutoriels, actualités, Forum
- - [https://dart.developpez.com](https://dart.developpez.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://data-science.developpez.com](https://data-science.developpez.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## DB2 : actualités, cours, tutoriels, programmation, FAQ, livres et forums
- - [https://db2.developpez.com](https://db2.developpez.com)
- - date_published: 2024-07-10T02:25:08.802380+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://d.developpez.com](https://d.developpez.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Club des développeurs Delphi : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://delphi.developpez.com](https://delphi.developpez.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Club des développeurs DotNet : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://dotnet.developpez.com](https://dotnet.developpez.com)
- - date_published: 2024-07-10T02:24:59.785811+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://droit.developpez.com](https://droit.developpez.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Club des développeurs avec l'EDI et la plateforme Eclipse : actualités, forums avec sondages et débats, cours, plugins, faq, blogs, critiques de livres
- - [https://eclipse.developpez.com](https://eclipse.developpez.com)
- - date_published: 2024-07-10T02:26:08.204798+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://edi.developpez.com](https://edi.developpez.com)
- - date_published: 2024-07-10T02:24:55.296720+00:00
-
- ## Systèmes embarqués : Forum, cours, tutoriels, systèmes , Linux, Windows ...
- - [https://embarque.developpez.com](https://embarque.developpez.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Offres d'emploi développeur et informatique
- - [https://emploi.developpez.com](https://emploi.developpez.com)
- - date_published: 2024-07-10T02:24:08.594730+00:00
-
- ## Etudes et formations en informatique
- - [https://etudes.developpez.com](https://etudes.developpez.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Club des développeurs Excel : cours, tutoriels, codes sources, livres, outils et forums dédiés à la programmation et à l'utilisation de Microsoft Excel
- - [https://excel.developpez.com](https://excel.developpez.com)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## FireBird : actualités, cours, tutoriels, FAQ, outils et forums
- - [https://firebird.developpez.com](https://firebird.developpez.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Club des développeurs Flash/Flex : actualités, cours, tutoriels, programmation, codes sources, livres, outils et forums
- - [https://flash.developpez.com](https://flash.developpez.com)
- - date_published: 2024-07-10T02:24:36.961705+00:00
-
- ## Club des professionnels en informatique
- - [https://fxrobin.developpez.com](https://fxrobin.developpez.com)
- - date_published: 2024-07-10T02:23:40.352104+00:00
-
- ## gbegreg.developpez.com - accueil
- - [https://gbegreg.developpez.com](https://gbegreg.developpez.com)
- - date_published: 2024-07-10T02:24:05.786137+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://go.developpez.com](https://go.developpez.com)
- - date_published: 2024-07-10T02:26:13.842882+00:00
-
- ## Green-IT: actualités, forums, sondages, débats, articles
- - [https://green-it.developpez.com](https://green-it.developpez.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Hardware : Actualités, cours, tutoriels, FAQ, forum...
- - [https://hardware.developpez.com](https://hardware.developpez.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Developpez.com, le club des décideurs et professionnels pour apprendre la programmation de calcul scientifique et implémenter les systèmes de haute performance
- - [https://hpc.developpez.com](https://hpc.developpez.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## IBM Cloud - Club des développeurs et IT Pro
- - [https://ibmcloud.developpez.com](https://ibmcloud.developpez.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Intelligence artificielle : Actualités, cours, tutoriels et FAQs
- - [https://intelligence-artificielle.developpez.com](https://intelligence-artificielle.developpez.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## InterBase : actualités, cours, tutoriels, FAQ, outils et forums
- - [https://interbase.developpez.com](https://interbase.developpez.com)
- - date_published: 2024-07-10T02:24:04.485365+00:00
-
- ## Club des développeurs iOS : iPhone, iPod Touch, iPad, Apple TV
- - [https://ios.developpez.com](https://ios.developpez.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Club francophone des développeurs Java : actualités, forums, sondages, débats, cours, faq, ...
- - [https://java.developpez.com](https://java.developpez.com)
- - date_published: 2024-07-10T02:25:15.067464+00:00
-
- ## Club des développeurs JavaScript : actualités, cours, tutoriels, programmation, codes sources, livres, outils et forums
- - [https://javascript.developpez.com](https://javascript.developpez.com)
- - date_published: 2024-07-10T02:26:12.666526+00:00
-
- ## Club des développeurs Web Java : actualités, forums avec sondages et débats, cours, faq, critiques de livres
- - [https://javaweb.developpez.com](https://javaweb.developpez.com)
- - date_published: 2024-07-10T02:23:37.411328+00:00
-
- ## JetBrains : Actualités, Forums, Cours et tutoriels
- - [https://jetbrains.developpez.com](https://jetbrains.developpez.com)
- - date_published: 2024-07-10T02:24:49.623880+00:00
-
- ## Programmation 2D/3D/Jeux : Apprendre à créer des jeux vidéo
- - [https://jeux.developpez.com](https://jeux.developpez.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Club des professionnels en informatique
- - [https://juliendehos.developpez.com](https://juliendehos.developpez.com)
- - date_published: 2024-07-10T02:23:32.741913+00:00
-
- ## Kotlin : Actualités, Forums, Cours et tutoriels
- - [https://kotlin.developpez.com](https://kotlin.developpez.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique : LabVIEW
- - [https://labview.developpez.com](https://labview.developpez.com)
- - date_published: 2024-07-10T02:25:37.418735+00:00
-
- ## Club des développeurs Lazarus : actualités, cours et tutoriels sur la programmation, l'installation et l'utilisation, forum d'entraide
- - [https://lazarus.developpez.com](https://lazarus.developpez.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Linux : Forum, Cours, tutoriels, programmation, système, Linux, BSD, Unix...
- - [https://linux.developpez.com](https://linux.developpez.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Club des développeurs Mac : Actualités, Cours et tutoriels Mac OS X, Cocoa, Critiques de livre, FAQ...
- - [https://mac.developpez.com](https://mac.developpez.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Club des développeurs MATLAB & Simulink : actualités, cours, tutoriels, programmation, FAQ, forum, livres, sources
- - [https://matlab.developpez.com](https://matlab.developpez.com)
- - date_published: 2024-07-10T02:24:46.588430+00:00
-
- ## Merise et modélisation relationnelle: Actualités, cours, tutoriels, FAQ, forum
- - [https://merise.developpez.com](https://merise.developpez.com)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## Club des développeurs DotNet : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://microsoft.developpez.com](https://microsoft.developpez.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Club des développeurs Mobiles : Android, Java ME, Windows Mobile, Windev Mobile, iPhone...
- - [https://mobiles.developpez.com](https://mobiles.developpez.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://mongodb.developpez.com](https://mongodb.developpez.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Club des développeurs MySQL : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://mysql.developpez.com](https://mysql.developpez.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Club des développeurs avec l'EDI et la plateforme NetBeans : actualités, forums avec sondages et débats, cours, plugins / modules, faq, blogs
- - [https://netbeans.developpez.com](https://netbeans.developpez.com)
- - date_published: 2024-07-10T02:24:17.369536+00:00
-
- ## Club des développeurs JavaScript Node.js : actualités, cours, tutoriels, FAQs, livres et forums Node.js
- - [https://nodejs.developpez.com](https://nodejs.developpez.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://nosql.developpez.com](https://nosql.developpez.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Objective-C Actualités, cours, tutoriels, sources, outils, livres, FAQ, forum
- - [https://objective-c.developpez.com](https://objective-c.developpez.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Club des développeurs Office : cours, FAQ, forum, livres dédiés à l'utilisation et à la programmation Office et VBA
- - [https://office.developpez.com](https://office.developpez.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://onlyoffice.developpez.com](https://onlyoffice.developpez.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Les meilleurs cours, tutoriels et vidéos sur OpenGL
- - [https://opengl.developpez.com](https://opengl.developpez.com)
- - date_published: 2024-07-10T02:23:59.477293+00:00
-
- ## Club des développeurs OpenOffice & LibreOffice : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://openoffice-libreoffice.developpez.com](https://openoffice-libreoffice.developpez.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Oracle Actualités, cours, tutoriels, programmation, FAQ, forum, livres...
- - [https://oracle.developpez.com](https://oracle.developpez.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Club des développeurs Outlook : cours, tutoriels, livres et forums dédiés à la programmation et à l'utilisation de Microsoft Outlook
- - [https://outlook.developpez.com](https://outlook.developpez.com)
- - date_published: 2024-07-10T02:23:48.779331+00:00
-
- ## Club des développeurs Pascal : actualités, cours, tutoriels, FAQ, outils, sources, exercices.
- - [https://pascal.developpez.com](https://pascal.developpez.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Redirection
- - [http://paulo.developpez.com](http://paulo.developpez.com)
- - date_published: 2008-05-31T13:56:38+00:00
-
- ## Club des développeurs Perl : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://perl.developpez.com](https://perl.developpez.com)
- - date_published: 2024-07-10T02:25:42.847239+00:00
-
- ## Club des développeurs Web PHP : actualités, cours, tutoriels, programmation, codes sources, livres, outils et forums
- - [https://php.developpez.com](https://php.developpez.com)
- - date_published: 2024-07-10T02:25:58.274423+00:00
-
- ## Club des professionnels en informatique
- - [https://pierre-benet.developpez.com](https://pierre-benet.developpez.com)
- - date_published: 2024-07-10T02:23:31.868702+00:00
-
- ## Club des développeurs PostgreSQL : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums
- - [https://postgresql.developpez.com](https://postgresql.developpez.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Club des développeurs Powerpoint: cours, tutoriels, livres et forums dédiés à la programmation et à l'utilisation de Microsoft Powerpoint
- - [https://powerpoint.developpez.com](https://powerpoint.developpez.com)
- - date_published: 2024-07-10T02:24:35.563478+00:00
-
- ## Programmation et langages de programmation applicatifs : Actualités, cours, tutoriels, sources, outils, livres, FAQ, forum
- - [https://programmation.developpez.com](https://programmation.developpez.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Club des développeurs MS-Project : actualtités, FAQ, livres et forums dédiés à la programmation et à l'utilisation de Microsoft Project
- - [https://project.developpez.com](https://project.developpez.com)
- - date_published: 2024-07-10T02:25:31.904455+00:00
-
- ## Club des développeurs Python : actualités, cours, tutoriels, faq, sources, forum
- - [https://python.developpez.com](https://python.developpez.com)
- - date_published: 2024-07-10T02:26:04.831953+00:00
-
- ## Developpez.com, le club des décideurs et professionnels en Informatique
- - [https://qt-creator.developpez.com](https://qt-creator.developpez.com)
- - date_published: 2024-07-10T02:23:52.520773+00:00
 

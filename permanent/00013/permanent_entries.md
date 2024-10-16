@@ -1,3 +1,54 @@
+ ## Shtetl-Optimized
+ - [https://scottaaronson.blog](https://scottaaronson.blog)
+ - date_published: 2023-10-25T12:01:16.273400+00:00
+
+ ## Semantically Secure
+ - [https://scottarc.blog](https://scottarc.blog)
+ - date_published: 2024-04-13T07:41:59.654361+00:00
+ - tags: ['personal']
+
+ ## Scott Lamb – Medium
+ - [https://scottlamb.blog](https://scottlamb.blog)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Screwed Up Dice
+ - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
+ - date_published: 2024-03-19T18:15:33+00:00
+
+ ## Seth's Blog
+ - [https://seths.blog](https://seths.blog)
+ - date_published: 2023-10-25T09:01:55.034633+00:00
+ - tags: ['personal']
+
+ ## SHERPA Blog
+ - [https://sherpa.blog](https://sherpa.blog)
+ - date_published: 2024-07-04T12:49:53.379132+00:00
+
+ ## She Seeks Nonfiction
+ - [http://sheseeksnonfiction.blog](http://sheseeksnonfiction.blog)
+ - date_published: 2024-09-17T17:42:24.091234+00:00
+
+ ## A Place For My Head
+ - [https://shivjm.blog](https://shivjm.blog)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Shyam's Blog
+ - [https://shyam.blog](https://shyam.blog)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## silv.blog
+ - [https://silv.blog](https://silv.blog)
+ - date_published: 2024-06-22T12:54:13+00:00
+
+ ## Smarter.Blog Newsletter | Mahesh | Substack
+ - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
+ - date_published: 2023-10-25T09:39:31.008633+00:00
+ - tags: ['substack']
+
+ ## Dhole Moments - Software, Security, Cryptography, and Furries
+ - [https://soatok.blog](https://soatok.blog)
+ - date_published: 2023-10-25T12:01:20.604773+00:00
+
  ## Soder Blog Dot Blog – the films of director Steven Soderbergh examined through the lens of creative constraint
  - [https://soderblog.blog](https://soderblog.blog)
  - date_published: 2024-01-20T00:00:00+00:00
@@ -3974,52 +4025,4 @@ Educação
  ## Jogo Spaceman Bet 👨🏻‍🚀
  - [https://spaceman-jogo.com.br](https://spaceman-jogo.com.br)
  - date_published: 2024-07-26T04:59:36.182470+00:00
-
- ## Home
- - [https://spcine.com.br](https://spcine.com.br)
- - date_published: 2024-06-26T21:56:38.630933+00:00
-
- ## Sportbuzz
- - [https://sportbuzz.com.br](https://sportbuzz.com.br)
- - date_published: 2024-07-11T17:32:45+00:00
-
- ## SPTrans
- - [http://www.sptrans.com.br](http://www.sptrans.com.br)
- - date_published: 2024-07-19T22:14:00.710079+00:00
-
- ## Home Page - StandFor
- - [https://standfor.com.br](https://standfor.com.br)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Statkraft
- - [https://www.statkraft.com.br](https://www.statkraft.com.br)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home - Stilingue Inteligência Artificial
- - [https://stilingue.com.br](https://stilingue.com.br)
- - date_published: 2020-09-24T20:47:41+00:00
-
- ## Stone: solução completa de vendas feita para o seu negócio
- - [https://www.stone.com.br](https://www.stone.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
- - [https://storexppen.com.br](https://storexppen.com.br)
- - date_published: 2024-05-30T18:41:51.126045+00:00
-
- ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
- - [http://www.streetfighter.com.br](http://www.streetfighter.com.br)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Studio Cubo Web - Desenvolvemos sites e sistemas
- - [https://studiocuboweb.com.br](https://studiocuboweb.com.br)
- - date_published: 2023-02-14T14:43:31+00:00
-
- ## Submarino - Sua história começa aqui
- - [http://www.submarino.com.br](http://www.submarino.com.br)
- - date_published: 2024-07-10T09:23:04.769212+00:00
-
- ## Paradiso Rio | Paradiso Rio FM
- - [https://sulamericaparadiso.com.br](https://sulamericaparadiso.com.br)
- - date_published: 2024-07-13T02:17:25.040098+00:00
 

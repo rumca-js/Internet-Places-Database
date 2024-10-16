@@ -1,3 +1,49 @@
+ ## Invidious - search
+ - [https://yewtu.be](https://yewtu.be)
+ - date_published: 2023-10-24T20:05:36.098030+00:00
+ - tags: ['youtube']
+
+ ## Yous
+ - [https://yous.be](https://yous.be)
+ - date_published: 2024-08-03T07:39:53+00:00
+
+ ## YouTube
+ - [https://youtu.be](https://youtu.be)
+ - date_published: 2023-11-08T20:32:57.103890+00:00
+ - tags: ['youtube']
+
+ ## YouTube
+ - [http://yt.be](http://yt.be)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Lounge by Zalando België - Online mode- en lifestyle outlet
+ - [https://www.zalando-lounge.be](https://www.zalando-lounge.be)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Zayneb
+ - [http://zayneb.be](http://zayneb.be)
+ - date_published: 2024-07-02T23:06:35+00:00
+
+ ## Splashpage
+ - [https://www.zeiss.be](https://www.zeiss.be)
+ - date_published: 2024-09-16T07:55:36.086704+00:00
+
+ ## Zimmo.be
+ - [https://tickers.zimmo.be](https://tickers.zimmo.be)
+ - date_published: 2024-07-13T09:54:16.162723+00:00
+
+ ## Zimmo
+ - [http://www.zimmo.be](http://www.zimmo.be)
+ - date_published: 2024-09-02T11:10:46.249214+00:00
+
+ ## Classic Web - Embracing Open-Source and Privacy
+ - [https://classic.zoemp.be](https://classic.zoemp.be)
+ - date_published: 2024-01-22T13:07:24+00:00
+
+ ## Gitea
+ - [https://gitea.zoemp.be](https://gitea.zoemp.be)
+ - date_published: 2024-04-21T00:00:00+00:00
+
  ## Morgan Wattiez ‚Äì Quality is always right
  - [https://morgan.zoemp.be](https://morgan.zoemp.be)
  - date_published: 2024-03-09T15:57:22.261140+00:00
@@ -760,6 +806,10 @@
  ## Начало
  - [https://www.kaufland.bg](https://www.kaufland.bg)
  - date_published: 2024-06-25T19:02:03.274615+00:00
+
+ ## Комисия за защита на потребителите
+ - [https://kzp.bg](https://kzp.bg)
+ - date_published: 2024-10-05T22:53:00.290640+00:00
 
  ## Безплатни онлайн игри - Lagged.bg
  - [https://lagged.bg](https://lagged.bg)
@@ -4028,55 +4078,4 @@
  ## Schneide Blog
  - [https://schneide.blog](https://schneide.blog)
  - date_published: 2024-07-09T12:15:44.546172+00:00
-
- ## Shtetl-Optimized
- - [https://scottaaronson.blog](https://scottaaronson.blog)
- - date_published: 2023-10-25T12:01:16.273400+00:00
-
- ## Semantically Secure
- - [https://scottarc.blog](https://scottarc.blog)
- - date_published: 2024-04-13T07:41:59.654361+00:00
- - tags: ['personal']
-
- ## Scott Lamb – Medium
- - [https://scottlamb.blog](https://scottlamb.blog)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Screwed Up Dice
- - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
- - date_published: 2024-03-19T18:15:33+00:00
-
- ## Seth's Blog
- - [https://seths.blog](https://seths.blog)
- - date_published: 2023-10-25T09:01:55.034633+00:00
- - tags: ['personal']
-
- ## SHERPA Blog
- - [https://sherpa.blog](https://sherpa.blog)
- - date_published: 2024-07-04T12:49:53.379132+00:00
-
- ## She Seeks Nonfiction
- - [http://sheseeksnonfiction.blog](http://sheseeksnonfiction.blog)
- - date_published: 2024-09-17T17:42:24.091234+00:00
-
- ## A Place For My Head
- - [https://shivjm.blog](https://shivjm.blog)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Shyam's Blog
- - [https://shyam.blog](https://shyam.blog)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## silv.blog
- - [https://silv.blog](https://silv.blog)
- - date_published: 2024-06-22T12:54:13+00:00
-
- ## Smarter.Blog Newsletter | Mahesh | Substack
- - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
- - date_published: 2023-10-25T09:39:31.008633+00:00
- - tags: ['substack']
-
- ## Dhole Moments - Software, Security, Cryptography, and Furries
- - [https://soatok.blog](https://soatok.blog)
- - date_published: 2023-10-25T12:01:20.604773+00:00
 

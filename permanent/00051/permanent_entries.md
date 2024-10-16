@@ -1,3 +1,160 @@
+ ## Da pigra a creativa
+ - [https://dapigraacreativa.blogspot.com](https://dapigraacreativa.blogspot.com)
+ - date_published: 2024-09-02T08:39:08+00:00
+
+ ## Sussex Border Path
+ - [http://daras-sbp.blogspot.com](http://daras-sbp.blogspot.com)
+ - date_published: 2024-03-12T23:10:21+00:00
+
+ ## Improving Darcs' network performance
+ - [http://darcs-gsoc2010.blogspot.com](http://darcs-gsoc2010.blogspot.com)
+ - date_published: 2024-02-20T22:58:09+00:00
+
+ ## الأصول التاريخية للدارجة الجزائرية
+ - [http://dardja.blogspot.com](http://dardja.blogspot.com)
+ - date_published: 2004-02-23T00:00:00+00:00
+
+ ## 15mm Sci Fi Small Soldiers
+ - [http://darebearsminiemporium.blogspot.com](http://darebearsminiemporium.blogspot.com)
+ - date_published: 2024-07-02T05:59:18+00:00
+
+ ## Dare to Know
+ - [http://daretoknowblog.blogspot.com](http://daretoknowblog.blogspot.com)
+ - date_published: 2024-06-26T08:09:55+00:00
+
+ ## أصول الكلمات الجزائرية والمغاربية | تأثيلات
+ - [https://darijah.blogspot.com](https://darijah.blogspot.com)
+ - date_published: 2024-06-04T17:24:27+00:00
+
+ ## Daring Adventure Stories
+ - [http://daringadventurestories.blogspot.com](http://daringadventurestories.blogspot.com)
+ - date_published: 2024-03-13T04:00:13+00:00
+
+ ## The Daring Novelist
+ - [http://daringnovelist.blogspot.com](http://daringnovelist.blogspot.com)
+ - date_published: 2024-04-30T10:33:29+00:00
+
+ ## Circle of Dar Janix
+ - [http://darjanix.blogspot.com](http://darjanix.blogspot.com)
+ - date_published: 2024-07-14T21:00:17+00:00
+
+ ## Dark Corners Of Role Playing
+ - [http://darkcornersofrpging.blogspot.com](http://darkcornersofrpging.blogspot.com)
+ - date_published: 2024-07-03T02:45:35+00:00
+
+ ## DARKE LANDS
+ - [http://darke-lands.blogspot.com](http://darke-lands.blogspot.com)
+ - date_published: 2024-03-13T16:30:01+00:00
+
+ ## Dark Eldar Blog
+ - [http://darkeldarblog.blogspot.com](http://darkeldarblog.blogspot.com)
+ - date_published: 2024-02-08T02:37:37+00:00
+
+ ## The Dark end of the street...
+ - [http://darkenderz.blogspot.com](http://darkenderz.blogspot.com)
+ - date_published: 2024-06-28T14:23:21+00:00
+
+ ## Dark Future Games
+ - [http://darkfuturegaming.blogspot.com](http://darkfuturegaming.blogspot.com)
+ - date_published: 2024-06-18T10:00:00+00:00
+
+ ## The Dark Workshop
+ - [http://darkworkshop.blogspot.com](http://darkworkshop.blogspot.com)
+ - date_published: 2024-02-21T01:25:57+00:00
+
+ ## Database Architects
+ - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
+ - date_published: 2023-10-25T09:08:09.774302+00:00
+ - tags: ['personal']
+
+ ## Data Distilled
+ - [http://datadistilled.blogspot.com](http://datadistilled.blogspot.com)
+ - date_published: 2024-02-08T17:01:06+00:00
+
+ ## Data Driven Gamer
+ - [http://datadrivengamer.blogspot.com](http://datadrivengamer.blogspot.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Data Finnovation
+ - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## The tunnel - demoscene blog
+ - [https://datunnel.blogspot.com](https://datunnel.blogspot.com)
+ - date_published: 2024-03-13T20:00:30+00:00
+
+ ## Daughters of the Emperor
+ - [http://daughteroftheemperor.blogspot.com](http://daughteroftheemperor.blogspot.com)
+ - date_published: 2024-07-03T03:04:10+00:00
+
+ ## Econometrics Beat: Dave Giles' Blog
+ - [http://davegiles.blogspot.com](http://davegiles.blogspot.com)
+ - date_published: 2024-07-13T05:55:38+00:00
+
+ ## daveinboca
+ - [http://daveinboca.blogspot.com](http://daveinboca.blogspot.com)
+ - date_published: 2024-04-25T11:06:46+00:00
+
+ ## Davelandblog
+ - [http://davelandblog.blogspot.com](http://davelandblog.blogspot.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Dave Mackey..the runner, not the ice hockey player
+ - [http://davemackey.blogspot.com](http://davemackey.blogspot.com)
+ - date_published: 2024-05-24T09:35:06+00:00
+
+ ## Dave McClellan Art and Illustration
+ - [http://davemcclellan.blogspot.com](http://davemcclellan.blogspot.com)
+ - date_published: 2024-03-07T08:14:50+00:00
+
+ ## 1000 Cuts
+ - [https://davesanborn.blogspot.com](https://davesanborn.blogspot.com)
+ - date_published: 2024-07-02T21:44:40+00:00
+
+ ## Dave's Notepad
+ - [http://davesnotepad.blogspot.com](http://davesnotepad.blogspot.com)
+ - date_published: 2024-03-14T11:40:10+00:00
+
+ ## davetaylorminiatures
+ - [http://davetaylorminiatures.blogspot.com](http://davetaylorminiatures.blogspot.com)
+ - date_published: 2024-06-18T11:21:00+00:00
+
+ ## Play With Capture The Flag
+ - [https://david942j.blogspot.com](https://david942j.blogspot.com)
+ - date_published: 2024-06-03T06:27:17.475813+00:00
+
+ ## Getting from here to there
+ - [http://davidaking.blogspot.com](http://davidaking.blogspot.com)
+ - date_published: 2014-11-06T00:00:00+00:00
+
+ ## Quark Soup by David Appell
+ - [https://davidappell.blogspot.com](https://davidappell.blogspot.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CONTRARY BRIN
+ - [http://davidbrin.blogspot.com](http://davidbrin.blogspot.com)
+ - date_published: 2024-07-18T20:46:00+00:00
+
+ ## The Education of a Pulp Writer
+ - [http://davidcranmer.blogspot.com](http://davidcranmer.blogspot.com)
+ - date_published: 2024-07-03T20:23:42+00:00
+
+ ## DCblog
+ - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## Ideas
+ - [https://daviddfriedman.blogspot.com](https://daviddfriedman.blogspot.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Davide Moro
+ - [http://davidemoro.blogspot.com](http://davidemoro.blogspot.com)
+ - date_published: 2024-02-19T11:37:30+00:00
+
+ ## David Hembrow
+ - [https://davidhembrow.blogspot.com](https://davidhembrow.blogspot.com)
+ - date_published: 2024-07-29T09:59:05+00:00
+
  ## Adventures in Europe
  - [http://davidinleeds.blogspot.com](http://davidinleeds.blogspot.com)
  - date_published: 2024-02-22T16:51:09+00:00
@@ -3851,161 +4008,4 @@
  ## Getting Genetics Done
  - [http://gettinggeneticsdone.blogspot.com](http://gettinggeneticsdone.blogspot.com)
  - date_published: 2024-08-24T00:00:00+00:00
-
- ## IQ & PC -- By Chris Brand
- - [http://gfactor.blogspot.com](http://gfactor.blogspot.com)
- - date_published: 2024-03-12T23:37:09+00:00
-
- ## GHC on SPARC
- - [http://ghcsparc.blogspot.com](http://ghcsparc.blogspot.com)
- - date_published: 2024-02-20T22:23:21+00:00
-
- ## Ghola Scale
- - [https://gholascale.blogspot.com](https://gholascale.blogspot.com)
- - date_published: 2024-05-17T14:40:14.292638+00:00
- - tags: ['miniatures', 'wargames']
-
- ## Ghost Nebula
- - [http://ghostnebulae.blogspot.com](http://ghostnebulae.blogspot.com)
- - date_published: 2024-07-08T08:08:42+00:00
-
- ## The Ghost Relations Department
- - [http://ghostrelationsdept.blogspot.com](http://ghostrelationsdept.blogspot.com)
- - date_published: 2024-03-13T19:33:35+00:00
-
- ## lathophobic aphasia
- - [https://giaklamata.blogspot.com](https://giaklamata.blogspot.com)
- - date_published: 2024-05-07T21:57:10.602194+00:00
-
- ## Giant Battling Robots
- - [https://giantbattlingrobots.blogspot.com](https://giantbattlingrobots.blogspot.com)
- - date_published: 2024-05-09T05:24:40.698891+00:00
-
- ## GIANT EVIL WIZARD
- - [http://giantevilwizard.blogspot.com](http://giantevilwizard.blogspot.com)
- - date_published: 2024-07-12T07:04:59+00:00
-
- ## GIBLET BLIZZARD
- - [http://gibletblizzard.blogspot.com](http://gibletblizzard.blogspot.com)
- - date_published: 2024-07-03T03:47:12+00:00
-
- ## Additional Material
- - [http://giftstamps.blogspot.com](http://giftstamps.blogspot.com)
- - date_published: 2004-02-27T00:00:00+00:00
-
- ## G.I. Jigsaw
- - [http://gijigsaw.blogspot.com](http://gijigsaw.blogspot.com)
- - date_published: 2024-09-18T04:00:00+00:00
-
- ## Wiitiye na Gikuyu
- - [http://gikuyu.blogspot.com](http://gikuyu.blogspot.com)
- - date_published: 2024-03-07T07:28:50+00:00
-
- ## Free Gilad Shalit
- - [http://giladshalit.blogspot.com](http://giladshalit.blogspot.com)
- - date_published: 2024-03-05T13:30:05+00:00
-
- ## Giles Bowkett
- - [http://gilesbowkett.blogspot.com](http://gilesbowkett.blogspot.com)
- - date_published: 2024-03-13T20:47:09+00:00
-
- ## Gilmoth's blog
- - [http://gilmoth.blogspot.com](http://gilmoth.blogspot.com)
- - date_published: 2024-08-28T23:33:05+00:00
-
- ## The Daily B (Archives)
- - [http://ginaandkris.blogspot.com](http://ginaandkris.blogspot.com)
- - date_published: 2024-03-05T19:02:35+00:00
-
- ## Blogger
- - [http://gingersnapsunflowers.blogspot.com](http://gingersnapsunflowers.blogspot.com)
- - date_published: 2024-07-15T09:47:11.287262+00:00
-
- ## GinzioMaster's campaigns
- - [http://ginziomaster.blogspot.com](http://ginziomaster.blogspot.com)
- - date_published: 2024-03-13T01:54:38+00:00
-
- ## Ginzio Paint Service
- - [http://ginziopaintservice.blogspot.com](http://ginziopaintservice.blogspot.com)
- - date_published: 2024-07-17T10:54:59+00:00
-
- ## Blogger
- - [http://giochiamogratis.blogspot.com](http://giochiamogratis.blogspot.com)
- - date_published: 2024-07-20T06:58:19.340315+00:00
-
- ## Giochi e pensieri
- - [http://giochiepensieri.blogspot.com](http://giochiepensieri.blogspot.com)
- - date_published: 2024-02-07T03:38:09+00:00
-
- ## Giorgione et al...
- - [http://giorgionetempesta.blogspot.com](http://giorgionetempesta.blogspot.com)
- - date_published: 2024-06-26T06:51:00+00:00
-
- ## Easily change
- - [https://giorgiorusso2.blogspot.com](https://giorgiorusso2.blogspot.com)
- - date_published: 2024-09-02T06:45:00+00:00
-
- ## Panem et Circenses
- - [http://girlfawkes1.blogspot.com](http://girlfawkes1.blogspot.com)
- - date_published: 2024-03-07T06:20:41+00:00
-
- ## Girl Meets Lightsaber
- - [http://girlmeetslightsaber.blogspot.com](http://girlmeetslightsaber.blogspot.com)
- - date_published: 2024-07-12T12:36:47+00:00
-
- ## GIRLS CAN BLOG .
- - [http://girlsblogtoo.blogspot.com](http://girlsblogtoo.blogspot.com)
- - date_published: 2024-08-10T22:08:51+00:00
-
- ## The Adventures of Notorious Ph.D., Girl Scholar
- - [http://girlscholar.blogspot.com](http://girlscholar.blogspot.com)
- - date_published: 2024-06-24T02:23:00+00:00
-
- ## Give'em Lead
- - [http://givemlead.blogspot.com](http://givemlead.blogspot.com)
- - date_published: 2024-07-01T20:48:54+00:00
-
- ## Gjallarhorn
- - [http://gjallarhorn-wardy-la.blogspot.com](http://gjallarhorn-wardy-la.blogspot.com)
- - date_published: 2024-07-04T06:12:18+00:00
-
- ## G3
- - [http://glasgowg3.blogspot.com](http://glasgowg3.blogspot.com)
- - date_published: 2024-02-08T10:30:06+00:00
-
- ## Gleaning Joy
- - [http://gleaningjoy.blogspot.com](http://gleaningjoy.blogspot.com)
- - date_published: 2023-11-16T06:05:39+00:00
-
- ## Unclaimed Territory - by Glenn Greenwald
- - [http://glenngreenwald.blogspot.com](http://glenngreenwald.blogspot.com)
- - date_published: 2024-05-27T06:02:20+00:00
-
- ## Geeking with Greg
- - [http://glinden.blogspot.com](http://glinden.blogspot.com)
- - date_published: 2024-06-28T20:50:19+00:00
-
- ## Mish's Global Economic Trend Analysis
- - [https://globaleconomicanalysis.blogspot.com](https://globaleconomicanalysis.blogspot.com)
- - date_published: 2024-06-28T12:35:42+00:00
-
- ## Globales Klima
- - [http://globalklima.blogspot.com](http://globalklima.blogspot.com)
- - date_published: 2004-02-27T00:00:00+00:00
-
- ## GlobalPittsburghNEWS
- - [http://globalpittsburgh.blogspot.com](http://globalpittsburgh.blogspot.com)
- - date_published: 2024-05-25T18:53:55+00:00
-
- ## gloomtrain
- - [http://gloomtrain.blogspot.com](http://gloomtrain.blogspot.com)
- - date_published: 2024-03-09T00:26:52+00:00
-
- ## Gloranthan Army Miniatures Encyclopedia
- - [http://gloranthanarmy.blogspot.com](http://gloranthanarmy.blogspot.com)
- - date_published: 2006-07-11T00:00:00+00:00
-
- ## Jesus Christ is Lord
- - [http://glorifyjesuschrist.blogspot.com](http://glorifyjesuschrist.blogspot.com)
- - date_published: 2024-02-07T01:52:11+00:00
 

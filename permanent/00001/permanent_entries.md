@@ -1,3 +1,15 @@
+ ## Copy Shark | AI Powered Copywriting
+ - [https://www.copyshark.ai](https://www.copyshark.ai)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Copysmith - AI Copywriting & AI Marketing
+ - [https://app.copysmith.ai](https://app.copysmith.ai)
+ - date_published: 2023-11-22T14:56:50+00:00
+
+ ## Homepage - Copysmith
+ - [https://copysmith.ai](https://copysmith.ai)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Coqui
  - [https://coqui.ai](https://coqui.ai)
  - date_published: 2023-10-25T09:07:21.416755+00:00
@@ -1772,6 +1784,10 @@
  ## Voilà – ChatGPT AI browser assistant | Voilà
  - [https://www.getvoila.ai](https://www.getvoila.ai)
  - date_published: 2024-06-19T20:39:32.641734+00:00
+
+ ## Home :: GFI
+ - [https://gfi.ai](https://gfi.ai)
+ - date_published: 2024-10-05T22:25:25.030498+00:00
 
  ## ggml.ai
  - [https://ggml.ai](https://ggml.ai)
@@ -3999,20 +4015,4 @@
  ## Meetz.ai
  - [https://app.meetz.ai](https://app.meetz.ai)
  - date_published: 2024-09-11T13:15:29+00:00
-
- ## Meetz Ai Help Center
- - [https://help.meetz.ai](https://help.meetz.ai)
- - date_published: 2024-09-13T20:35:16.814918+00:00
-
- ## Home - Meetz
- - [https://meetz.ai](https://meetz.ai)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Megagon Labs
- - [https://megagon.ai](https://megagon.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home | Melon
- - [https://meln.ai](https://meln.ai)
- - date_published: 2024-06-14T08:52:19.865456+00:00
 

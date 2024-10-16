@@ -1,3 +1,161 @@
+ ## blog
+ - [https://avodonosov.blogspot.com](https://avodonosov.blogspot.com)
+ - date_published: 2023-10-25T09:05:48.878271+00:00
+ - tags: ['personal']
+
+ ## Avoid Spikes
+ - [https://avoidspikes.blogspot.com](https://avoidspikes.blogspot.com)
+ - date_published: 2020-09-13T00:00:00+00:00
+
+ ## ¤
+ - [http://avoyagetoarcturus.blogspot.com](http://avoyagetoarcturus.blogspot.com)
+ - date_published: 2024-03-14T03:07:14+00:00
+
+ ## Avzel's journal
+ - [https://avzel.blogspot.com](https://avzel.blogspot.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Awakening Ynnead
+ - [http://awakeningynnead.blogspot.com](http://awakeningynnead.blogspot.com)
+ - date_published: 2024-07-18T11:37:43+00:00
+
+ ## A Wargaming Odyssey
+ - [http://awargamingodyssey.blogspot.com](http://awargamingodyssey.blogspot.com)
+ - date_published: 2024-07-19T23:45:51+00:00
+
+ ## Oh, meta...
+ - [http://awarth.blogspot.com](http://awarth.blogspot.com)
+ - date_published: 2024-02-20T11:55:26+00:00
+
+ ## Ancient & World Coin Geek
+ - [http://awcoingeek.blogspot.com](http://awcoingeek.blogspot.com)
+ - date_published: 2024-03-19T10:19:42+00:00
+
+ ## THE PSYCHOLOGIST
+ - [http://awesternheart.blogspot.com](http://awesternheart.blogspot.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Abandonware Gazette
+ - [http://awgazette.blogspot.com](http://awgazette.blogspot.com)
+ - date_published: 2024-03-13T07:31:44+00:00
+
+ ## ~apw
+ - [http://awhitcroft.blogspot.com](http://awhitcroft.blogspot.com)
+ - date_published: 2024-03-12T23:47:29+00:00
+
+ ## A Wizard's Kiss
+ - [http://awizardskiss.blogspot.com](http://awizardskiss.blogspot.com)
+ - date_published: 2024-07-14T18:30:57+00:00
+
+ ## A World of Englishes
+ - [http://aworldofenglishes.blogspot.com](http://aworldofenglishes.blogspot.com)
+ - date_published: 2024-06-12T09:02:15+00:00
+
+ ## Devops-Projects
+ - [https://awsdevopsprojects.blogspot.com](https://awsdevopsprojects.blogspot.com)
+ - date_published: 2024-06-17T12:26:49+00:00
+
+ ## Axe and Hammer
+ - [http://axe-n-hammer.blogspot.com](http://axe-n-hammer.blogspot.com)
+ - date_published: 2024-02-20T19:28:44+00:00
+
+ ## The Axis of Eval
+ - [https://axisofeval.blogspot.com](https://axisofeval.blogspot.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## World of Wonder
+ - [http://aychplace.blogspot.com](http://aychplace.blogspot.com)
+ - date_published: 2024-03-13T12:18:23+00:00
+
+ ## Farcast
+ - [http://ayearineclipse.blogspot.com](http://ayearineclipse.blogspot.com)
+ - date_published: 2024-03-08T10:03:14+00:00
+
+ ## Ayn Clouter's Blog
+ - [http://aynclouter.blogspot.com](http://aynclouter.blogspot.com)
+ - date_published: 2008-08-25T00:00:00+00:00
+
+ ## You_dee's (Part 2)
+ - [http://a-yudi.blogspot.com](http://a-yudi.blogspot.com)
+ - date_published: 2024-03-13T18:57:14+00:00
+
+ ## Arizona Economics
+ - [http://azecon.blogspot.com](http://azecon.blogspot.com)
+ - date_published: 2024-06-02T10:15:16+00:00
+
+ ## b4cksp4ce
+ - [http://b4cksp4ce.blogspot.com](http://b4cksp4ce.blogspot.com)
+ - date_published: 2024-07-03T03:26:44+00:00
+
+ ## The Babbage Files
+ - [http://babbagefiles.blogspot.com](http://babbagefiles.blogspot.com)
+ - date_published: 2024-07-02T06:24:01+00:00
+
+ ## Nie znaleziono bloga
+ - [https://babblingsaboutdccomics.blogspot.com](https://babblingsaboutdccomics.blogspot.com)
+ - date_published: 2024-09-18T19:16:32.456203+00:00
+
+ ## Babeh Opiq 76
+ - [https://babehopiq76.blogspot.com](https://babehopiq76.blogspot.com)
+ - date_published: 2024-08-27T03:11:09+00:00
+
+ ## Baber on wargames
+ - [http://baberonwargames.blogspot.com](http://baberonwargames.blogspot.com)
+ - date_published: 2024-07-19T06:46:15+00:00
+
+ ## Screaming Bean - Everyone loves a Bean!
+ - [http://babybean.blogspot.com](http://babybean.blogspot.com)
+ - date_published: 2024-03-06T07:42:11+00:00
+
+ ## Back in '81
+ - [http://backin81.blogspot.com](http://backin81.blogspot.com)
+ - date_published: 2024-07-09T14:23:50+00:00
+
+ ## Backing Winds
+ - [https://backingwinds.blogspot.com](https://backingwinds.blogspot.com)
+ - date_published: 2024-03-23T18:30:15+00:00
+
+ ## Back In the Bronze Age
+ - [http://backinthebronzeage.blogspot.com](http://backinthebronzeage.blogspot.com)
+ - date_published: 2024-09-09T08:53:54+00:00
+
+ ## Back on the Battlewagon
+ - [http://backonthebattlewagon.blogspot.com](http://backonthebattlewagon.blogspot.com)
+ - date_published: 2024-03-13T22:22:02+00:00
+
+ ## Sabine Hossenfelder: Backreaction
+ - [https://backreaction.blogspot.com](https://backreaction.blogspot.com)
+ - date_published: 2023-10-25T09:05:55.426378+00:00
+ - tags: ['personal']
+
+ ## Back Screen Pass - A DM's Secrets
+ - [http://backscreenpass.blogspot.com](http://backscreenpass.blogspot.com)
+ - date_published: 2024-03-19T12:44:28+00:00
+
+ ## Backseat driving
+ - [http://backseatdriving.blogspot.com](http://backseatdriving.blogspot.com)
+ - date_published: 2015-09-11T00:00:00+00:00
+
+ ## Back Space Typewriters
+ - [http://backspacetypewriters.blogspot.com](http://backspacetypewriters.blogspot.com)
+ - date_published: 2024-03-14T09:54:23+00:00
+
+ ## BACK TO THE DUNGEON!
+ - [http://backtothedungeon.blogspot.com](http://backtothedungeon.blogspot.com)
+ - date_published: 2024-05-09T12:22:36+00:00
+
+ ## Blogger
+ - [https://backtothekeep.blogspot.com](https://backtothekeep.blogspot.com)
+ - date_published: 2024-07-20T07:52:37.796752+00:00
+
+ ## Backwater Deathworld
+ - [https://backwaterdeathworld.blogspot.com](https://backwaterdeathworld.blogspot.com)
+ - date_published: 2023-03-26T00:00:00+00:00
+
+ ## BackyardConservative
+ - [http://backyardconservative.blogspot.com](http://backyardconservative.blogspot.com)
+ - date_published: 2012-11-07T00:26:00+00:00
+
  ## Baconfat Log
  - [http://baconfatblog.blogspot.com](http://baconfatblog.blogspot.com)
  - date_published: 2024-07-11T18:08:01+00:00
@@ -3863,161 +4021,4 @@
  ## Dan Verssen Games
  - [http://danverssengames.blogspot.com](http://danverssengames.blogspot.com)
  - date_published: 2024-03-21T21:08:58+00:00
-
- ## Da pigra a creativa
- - [https://dapigraacreativa.blogspot.com](https://dapigraacreativa.blogspot.com)
- - date_published: 2024-09-02T08:39:08+00:00
-
- ## Sussex Border Path
- - [http://daras-sbp.blogspot.com](http://daras-sbp.blogspot.com)
- - date_published: 2024-03-12T23:10:21+00:00
-
- ## Improving Darcs' network performance
- - [http://darcs-gsoc2010.blogspot.com](http://darcs-gsoc2010.blogspot.com)
- - date_published: 2024-02-20T22:58:09+00:00
-
- ## الأصول التاريخية للدارجة الجزائرية
- - [http://dardja.blogspot.com](http://dardja.blogspot.com)
- - date_published: 2004-02-23T00:00:00+00:00
-
- ## 15mm Sci Fi Small Soldiers
- - [http://darebearsminiemporium.blogspot.com](http://darebearsminiemporium.blogspot.com)
- - date_published: 2024-07-02T05:59:18+00:00
-
- ## Dare to Know
- - [http://daretoknowblog.blogspot.com](http://daretoknowblog.blogspot.com)
- - date_published: 2024-06-26T08:09:55+00:00
-
- ## أصول الكلمات الجزائرية والمغاربية | تأثيلات
- - [https://darijah.blogspot.com](https://darijah.blogspot.com)
- - date_published: 2024-06-04T17:24:27+00:00
-
- ## Daring Adventure Stories
- - [http://daringadventurestories.blogspot.com](http://daringadventurestories.blogspot.com)
- - date_published: 2024-03-13T04:00:13+00:00
-
- ## The Daring Novelist
- - [http://daringnovelist.blogspot.com](http://daringnovelist.blogspot.com)
- - date_published: 2024-04-30T10:33:29+00:00
-
- ## Circle of Dar Janix
- - [http://darjanix.blogspot.com](http://darjanix.blogspot.com)
- - date_published: 2024-07-14T21:00:17+00:00
-
- ## Dark Corners Of Role Playing
- - [http://darkcornersofrpging.blogspot.com](http://darkcornersofrpging.blogspot.com)
- - date_published: 2024-07-03T02:45:35+00:00
-
- ## DARKE LANDS
- - [http://darke-lands.blogspot.com](http://darke-lands.blogspot.com)
- - date_published: 2024-03-13T16:30:01+00:00
-
- ## Dark Eldar Blog
- - [http://darkeldarblog.blogspot.com](http://darkeldarblog.blogspot.com)
- - date_published: 2024-02-08T02:37:37+00:00
-
- ## The Dark end of the street...
- - [http://darkenderz.blogspot.com](http://darkenderz.blogspot.com)
- - date_published: 2024-06-28T14:23:21+00:00
-
- ## Dark Future Games
- - [http://darkfuturegaming.blogspot.com](http://darkfuturegaming.blogspot.com)
- - date_published: 2024-06-18T10:00:00+00:00
-
- ## The Dark Workshop
- - [http://darkworkshop.blogspot.com](http://darkworkshop.blogspot.com)
- - date_published: 2024-02-21T01:25:57+00:00
-
- ## Database Architects
- - [https://databasearchitects.blogspot.com](https://databasearchitects.blogspot.com)
- - date_published: 2023-10-25T09:08:09.774302+00:00
- - tags: ['personal']
-
- ## Data Distilled
- - [http://datadistilled.blogspot.com](http://datadistilled.blogspot.com)
- - date_published: 2024-02-08T17:01:06+00:00
-
- ## Data Driven Gamer
- - [http://datadrivengamer.blogspot.com](http://datadrivengamer.blogspot.com)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Data Finnovation
- - [https://datafinnovation.blogspot.com](https://datafinnovation.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## The tunnel - demoscene blog
- - [https://datunnel.blogspot.com](https://datunnel.blogspot.com)
- - date_published: 2024-03-13T20:00:30+00:00
-
- ## Daughters of the Emperor
- - [http://daughteroftheemperor.blogspot.com](http://daughteroftheemperor.blogspot.com)
- - date_published: 2024-07-03T03:04:10+00:00
-
- ## Econometrics Beat: Dave Giles' Blog
- - [http://davegiles.blogspot.com](http://davegiles.blogspot.com)
- - date_published: 2024-07-13T05:55:38+00:00
-
- ## daveinboca
- - [http://daveinboca.blogspot.com](http://daveinboca.blogspot.com)
- - date_published: 2024-04-25T11:06:46+00:00
-
- ## Davelandblog
- - [http://davelandblog.blogspot.com](http://davelandblog.blogspot.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Dave Mackey..the runner, not the ice hockey player
- - [http://davemackey.blogspot.com](http://davemackey.blogspot.com)
- - date_published: 2024-05-24T09:35:06+00:00
-
- ## Dave McClellan Art and Illustration
- - [http://davemcclellan.blogspot.com](http://davemcclellan.blogspot.com)
- - date_published: 2024-03-07T08:14:50+00:00
-
- ## 1000 Cuts
- - [https://davesanborn.blogspot.com](https://davesanborn.blogspot.com)
- - date_published: 2024-07-02T21:44:40+00:00
-
- ## Dave's Notepad
- - [http://davesnotepad.blogspot.com](http://davesnotepad.blogspot.com)
- - date_published: 2024-03-14T11:40:10+00:00
-
- ## davetaylorminiatures
- - [http://davetaylorminiatures.blogspot.com](http://davetaylorminiatures.blogspot.com)
- - date_published: 2024-06-18T11:21:00+00:00
-
- ## Play With Capture The Flag
- - [https://david942j.blogspot.com](https://david942j.blogspot.com)
- - date_published: 2024-06-03T06:27:17.475813+00:00
-
- ## Getting from here to there
- - [http://davidaking.blogspot.com](http://davidaking.blogspot.com)
- - date_published: 2014-11-06T00:00:00+00:00
-
- ## Quark Soup by David Appell
- - [https://davidappell.blogspot.com](https://davidappell.blogspot.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## CONTRARY BRIN
- - [http://davidbrin.blogspot.com](http://davidbrin.blogspot.com)
- - date_published: 2024-07-18T20:46:00+00:00
-
- ## The Education of a Pulp Writer
- - [http://davidcranmer.blogspot.com](http://davidcranmer.blogspot.com)
- - date_published: 2024-07-03T20:23:42+00:00
-
- ## DCblog
- - [https://david-crystal.blogspot.com](https://david-crystal.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Ideas
- - [https://daviddfriedman.blogspot.com](https://daviddfriedman.blogspot.com)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Davide Moro
- - [http://davidemoro.blogspot.com](http://davidemoro.blogspot.com)
- - date_published: 2024-02-19T11:37:30+00:00
-
- ## David Hembrow
- - [https://davidhembrow.blogspot.com](https://davidhembrow.blogspot.com)
- - date_published: 2024-07-29T09:59:05+00:00
 

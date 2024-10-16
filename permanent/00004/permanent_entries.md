@@ -1,3 +1,36 @@
+ ## Fermat Research
+ - [https://research.fermat.app](https://research.fermat.app)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Login - Fermat Toolmaker
+ - [https://toolmaker.fermat.app](https://toolmaker.fermat.app)
+ - date_published: 2024-06-21T20:01:36.491097+00:00
+
+ ## figr.app - Your notepad calculator
+ - [https://figr.app](https://figr.app)
+ - date_published: 2023-10-25T11:46:26.735024+00:00
+
+ ## Filebar
+ - [https://filebar.app](https://filebar.app)
+ - date_published: 2024-06-22T06:22:41.124028+00:00
+
+ ## Home | Fileside
+ - [https://fileside.app](https://fileside.app)
+ - date_published: 2023-10-25T11:46:27.851566+00:00
+
+ ## Filestash
+ - [https://demo.filestash.app](https://demo.filestash.app)
+ - date_published: 2024-05-14T03:31:30.980624+00:00
+
+ ## Archive
+ - [https://downloads.filestash.app](https://downloads.filestash.app)
+ - date_published: 2020-06-01T03:57:35+00:00
+
+ ## Filestash — Self-hosted client for your data
+ - [https://filestash.app](https://filestash.app)
+ - date_published: 2023-10-25T11:46:29.675741+00:00
+ - tags: ['self-host']
+
  ## Finder | Look and find email addresses from any website
  - [https://finder.app](https://finder.app)
  - date_published: 2024-06-23T07:44:01.116009+00:00
@@ -2049,6 +2082,10 @@
  - [https://drvtrd-widget.netlify.app](https://drvtrd-widget.netlify.app)
  - date_published: 2024-06-29T20:40:37.911077+00:00
 
+ ## Demilade Sonuga's Blog
+ - [https://d-sonuga.netlify.app](https://d-sonuga.netlify.app)
+ - date_published: 2024-10-05T22:12:32.452654+00:00
+
  ## ECLIPSE
  - [https://eclipsefin.netlify.app](https://eclipsefin.netlify.app)
  - date_published: 2024-07-24T02:30:34.344075+00:00
@@ -3999,40 +4036,4 @@
  ## Responsively App - A Web Developer's Browser
  - [https://responsively.app](https://responsively.app)
  - date_published: 2024-07-14T08:19:34.985278+00:00
-
- ## Retainit
- - [https://retainit.app](https://retainit.app)
- - date_published: 2024-08-19T09:15:24.656831+00:00
-
- ## Reviewbunny - Pull request reminders for teams
- - [https://reviewbunny.app](https://reviewbunny.app)
- - date_published: 2024-05-06T21:28:54.955912+00:00
-
- ## Revoicer - Emotion-based Text To Speech
- - [https://revoicer.app](https://revoicer.app)
- - date_published: 2024-06-29T22:55:26.713147+00:00
-
- ## Rhithm
- - [https://portal.rhithm.app](https://portal.rhithm.app)
- - date_published: 2024-07-11T08:29:34+00:00
-
- ## Ríoverse Language Learning
- - [https://www.rioverse.app](https://www.rioverse.app)
- - date_published: 2024-08-19T04:48:15.200939+00:00
-
- ## Riter
- - [https://riter.app](https://riter.app)
- - date_published: 2024-06-19T21:35:00.176901+00:00
-
- ## Rive - Editor
- - [https://editor.rive.app](https://editor.rive.app)
- - date_published: 2024-05-11T08:50:36.223132+00:00
-
- ## Introduction | Rive Guide
- - [https://help.rive.app](https://help.rive.app)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Rive - Build interactive motion graphics that run anywhere
- - [https://rive.app](https://rive.app)
- - date_published: 2024-03-19T00:00:00+00:00
 

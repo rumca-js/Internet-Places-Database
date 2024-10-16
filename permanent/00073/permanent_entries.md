@@ -1,3 +1,255 @@
+ ## Datasensing is a world-class producer of bar code readers, mobile computers, sensors, vision and laser...
+ - [https://www.datasensing.com](https://www.datasensing.com)
+ - date_published: 2024-09-05T21:25:39.878142+00:00
+
+ ## Home
+ - [https://go.dataset.com](https://go.dataset.com)
+ - date_published: 2024-06-23T10:18:35.759878+00:00
+
+ ## Home
+ - [https://dataset.com](https://dataset.com)
+ - date_published: 2024-04-29T03:15:05.534857+00:00
+
+ ## Discover or Build Your Own Legally Clean DataSets
+ - [https://www.datasetshop.com](https://www.datasetshop.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Five Thirty Eight: fivethirtyeight, polls
+ - [https://fivethirtyeight.datasettes.com](https://fivethirtyeight.datasettes.com)
+ - date_published: 2024-07-08T22:21:51+00:00
+
+ ## Global Power Plant Database: global-power-plants
+ - [https://global-power-plants.datasettes.com](https://global-power-plants.datasettes.com)
+ - date_published: 2024-04-28T03:00:07.253667+00:00
+
+ ## Datasheet Archive Search Engine
+ - [http://www.datasheetarchive.com](http://www.datasheetarchive.com)
+ - date_published: 2024-08-19T09:40:43.245901+00:00
+
+ ## Find Datasheets, Electronic Parts, Components - Datasheets.com
+ - [http://datasheets.com](http://datasheets.com)
+ - date_published: 2024-06-17T01:05:42.366421+00:00
+
+ ## Find Datasheets, Electronic Parts, Components - Datasheets.com
+ - [https://www.datasheets.com](https://www.datasheets.com)
+ - date_published: 2024-05-01T19:51:30.231401+00:00
+
+ ## Cierpliwości...
+ - [https://datasheets360.com](https://datasheets360.com)
+ - date_published: 2024-06-19T17:14:37.546669+00:00
+
+ ## Data Skeptic
+ - [https://dataskeptic.com](https://dataskeptic.com)
+ - date_published: 2024-05-06T13:47:01.126163+00:00
+
+ ## Data Skeptic+
+ - [https://survey.dataskeptic.com](https://survey.dataskeptic.com)
+ - date_published: 2024-06-23T08:00:53.180996+00:00
+
+ ## Data Skrive Portal
+ - [https://cdn.dataskrive.com](https://cdn.dataskrive.com)
+ - date_published: 2024-06-10T19:22:19+00:00
+
+ ## Dataslug.com | Find Emails & B2B contacts at scale
+ - [https://www.dataslug.com](https://www.dataslug.com)
+ - date_published: 2024-07-01T05:33:34.428267+00:00
+
+ ## Data Souls
+ - [https://datasouls.com](https://datasouls.com)
+ - date_published: 2022-11-23T07:03:19+00:00
+
+ ## Home | Dataspeed
+ - [http://dataspeedinc.com](http://dataspeedinc.com)
+ - date_published: 2024-07-12T07:19:21.791861+00:00
+
+ ## Datastax Astra
+ - [https://astra.datastax.com](https://astra.datastax.com)
+ - date_published: 2024-05-12T06:52:43.917635+00:00
+
+ ## Vector Database for Scalable Generative AI | DataStax
+ - [https://datastax.com](https://datastax.com)
+ - date_published: 2024-05-12T06:47:34.932384+00:00
+
+ ## Datastax Astra
+ - [https://dev.cloud.datastax.com](https://dev.cloud.datastax.com)
+ - date_published: 2024-07-16T19:32:12.289379+00:00
+
+ ## Astra DB Serverless | DataStax Docs
+ - [https://docs.astra.datastax.com](https://docs.astra.datastax.com)
+ - date_published: 2024-05-12T06:47:30.989261+00:00
+
+ ## DataStax Documentation | DataStax Docs | DataStax Docs
+ - [https://docs.datastax.com](https://docs.datastax.com)
+ - date_published: 2024-05-12T06:52:45.813327+00:00
+
+ ## Apache Cassandra Download  |  DataStax Enterprise
+ - [https://downloads.datastax.com](https://downloads.datastax.com)
+ - date_published: 2024-05-12T06:52:50.403015+00:00
+
+ ## DataStax Support
+ - [https://support.datastax.com](https://support.datastax.com)
+ - date_published: 2023-07-17T19:29:07+00:00
+
+ ## Datastax Astra
+ - [https://test.cloud.datastax.com](https://test.cloud.datastax.com)
+ - date_published: 2024-07-16T19:32:09.636496+00:00
+
+ ## Data Access Request
+ - [https://my.datasubject.com](https://my.datasubject.com)
+ - date_published: 2024-04-28T06:10:55.070863+00:00
+
+ ## Datateka
+ - [https://datateka.com](https://datateka.com)
+ - date_published: 2024-06-22T22:20:23.646539+00:00
+
+ ## Data Theorem | AppSec | API Security | Cloud Security
+ - [https://datatheorem.com](https://datatheorem.com)
+ - date_published: 2024-07-01T16:30:31+00:00
+
+ ## Data To Art
+ - [https://www.data-to-art.com](https://www.data-to-art.com)
+ - date_published: 2020-07-28T20:18:09+00:00
+
+ ## From data to Viz | Find the graphic you need
+ - [https://www.data-to-viz.com](https://www.data-to-viz.com)
+ - date_published: 2024-05-07T10:30:06.345597+00:00
+
+ ## Dataverse
+ - [https://dataverse-os.com](https://dataverse-os.com)
+ - date_published: 2024-03-28T05:44:53+00:00
+
+ ## Real-Time Visitor Insights | Effortlessly Monitor Website Traffic
+ - [https://cdn.dataveu.com](https://cdn.dataveu.com)
+ - date_published: 2024-06-23T21:46:54+00:00
+
+ ## Real-Time Visitor Insights | Effortlessly Monitor Website Traffic
+ - [https://dataveu.com](https://dataveu.com)
+ - date_published: 2024-06-23T21:46:50.856208+00:00
+
+ ## Data Virtuality - Integrate data for better-informed decisions
+ - [https://datavirtuality.com](https://datavirtuality.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Welcome to CData Virtuality!
+ - [https://eu.platform.datavirtuality.com](https://eu.platform.datavirtuality.com)
+ - date_published: 2024-05-14T02:35:48+00:00
+
+ ## Welcome to CData Virtuality!
+ - [https://login.platform.datavirtuality.com](https://login.platform.datavirtuality.com)
+ - date_published: 2024-05-14T02:35:48+00:00
+
+ ## Pipes - Easy and Reliable Data Replication
+ - [https://pipes.datavirtuality.com](https://pipes.datavirtuality.com)
+ - date_published: 2024-06-16T20:12:09.149543+00:00
+
+ ## Data Virtuality | Trust Center
+ - [https://trust.datavirtuality.com](https://trust.datavirtuality.com)
+ - date_published: 2024-06-16T20:12:11.970191+00:00
+
+ ## Data Visualization Society
+ - [https://www.datavisualizationsociety.com](https://www.datavisualizationsociety.com)
+ - date_published: 2024-08-19T07:02:30.813236+00:00
+
+ ## The Data Visualisation Catalogue
+ - [https://datavizcatalogue.com](https://datavizcatalogue.com)
+ - date_published: 2023-04-04T11:46:08+00:00
+
+ ## Dataviz Inspiration | Hundreds of chart examples
+ - [https://www.dataviz-inspiration.com](https://www.dataviz-inspiration.com)
+ - date_published: 2024-07-01T05:26:20.692471+00:00
+
+ ## 1 dataset. 100 visualizations.
+ - [https://100.datavizproject.com](https://100.datavizproject.com)
+ - date_published: 2024-07-16T18:16:57.157737+00:00
+
+ ## Dedicated and Virtual Servers Solutions | DataWagon
+ - [https://datawagon.com](https://datawagon.com)
+ - date_published: 2024-06-21T18:44:41.663042+00:00
+
+ ## Home - Datawatch
+ - [https://www.datawatchsystems.com](https://www.datawatchsystems.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## The Data Whorehouse
+ - [http://www.datawhorehouse.com](http://www.datawhorehouse.com)
+ - date_published: 2004-11-28T08:36:23+00:00
+
+ ## Datawords | Agence de marketing et stratégie digitale
+ - [https://datawords.com](https://datawords.com)
+ - date_published: 2023-06-27T05:45:42+00:00
+
+ ## dataXtrade
+ - [https://dataxtrade.com](https://dataxtrade.com)
+ - date_published: 2024-05-06T17:57:04.623502+00:00
+
+ ## Datayes!萝卜投资-下一代智能投资平台
+ - [https://d.datayes.com](https://d.datayes.com)
+ - date_published: 2024-06-22T12:21:57.119414+00:00
+
+ ## 数据商城
+ - [https://mall.datayes.com](https://mall.datayes.com)
+ - date_published: 2024-01-09T11:38:24+00:00
+
+ ## 萝卜投研
+ - [https://m-robo.datayes.com](https://m-robo.datayes.com)
+ - date_published: 2024-06-22T12:21:59.675379+00:00
+
+ ## 通联财富
+ - [http://m-wms.datayes.com](http://m-wms.datayes.com)
+ - date_published: 2024-06-22T12:22:13.333519+00:00
+
+ ## 萝卜投资-下一代投资平台|选股_基本面分析|智能投研|组合风险管理
+ - [https://r.datayes.com](https://r.datayes.com)
+ - date_published: 2024-06-14T10:04:53+00:00
+
+ ## 萝卜投研-智能股票投研|选股_基本面分析|选股|研究|投研_看研报
+ - [https://robo.datayes.com](https://robo.datayes.com)
+ - date_published: 2024-05-16T09:40:44+00:00
+
+ ## 优矿 - 大数据时代的量化投资 - 通联量化实验室
+ - [https://uqer.datayes.com](https://uqer.datayes.com)
+ - date_published: 2024-05-13T04:28:10+00:00
+
+ ## 通联数据—AI赋能投资
+ - [https://www.datayes.com](https://www.datayes.com)
+ - date_published: 2024-05-04T15:46:48.187051+00:00
+
+ ## data·yze
+ - [https://datayze.com](https://datayze.com)
+ - date_published: 2024-08-18T10:38:12.489394+00:00
+
+ ## | DATE 2025
+ - [https://www.date-conference.com](https://www.date-conference.com)
+ - date_published: 2024-07-01T20:05:08.694230+00:00
+
+ ## Dateful
+ - [https://dateful.com](https://dateful.com)
+ - date_published: 2024-07-11T10:33:45.477267+00:00
+
+ ## datememe - 100 % বিনামূল্যে অনলাইন ডেটিং
+ - [https://bn.datememe.com](https://bn.datememe.com)
+ - date_published: 2020-12-27T15:51:57+00:00
+
+ ## datememe - 100% free online dating
+ - [https://c3.datememe.com](https://c3.datememe.com)
+ - date_published: 2020-12-27T15:51:34+00:00
+
+ ## datememe - 100 % kostenlose Dating-
+ - [https://de.datememe.com](https://de.datememe.com)
+ - date_published: 2020-12-27T15:51:41+00:00
+
+ ## datememe - 100% free online dating
+ - [https://en.datememe.com](https://en.datememe.com)
+ - date_published: 2020-12-27T15:51:34+00:00
+
+ ## datememe - 100 % de citas en línea gratis
+ - [https://es.datememe.com](https://es.datememe.com)
+ - date_published: 2020-12-27T15:51:51+00:00
+
+ ## datememe - 100 % de rencontres en ligne gratuit
+ - [https://fr.datememe.com](https://fr.datememe.com)
+ - date_published: 2020-12-27T15:52:11+00:00
+
  ## datememe - 100 % नि: शुल्क ऑनलाइन डेटिंग
  - [https://hi.datememe.com](https://hi.datememe.com)
  - date_published: 2020-12-27T15:51:54+00:00
@@ -1416,6 +1668,10 @@
  - [https://dayneherren.com](https://dayneherren.com)
  - date_published: 2024-02-22T00:00:00+00:00
  - tags: ['personal']
+
+ ## Day of the Devs
+ - [https://www.dayofthedevs.com](https://www.dayofthedevs.com)
+ - date_published: 2024-10-05T23:03:43.358310+00:00
 
  ## Your Journal for Life | Day One
  - [https://dayoneapp.com](https://dayoneapp.com)
@@ -3816,263 +4072,4 @@
  ## Deezer Support
  - [https://support.deezer.com](https://support.deezer.com)
  - date_published: 2024-07-12T06:07:46.974849+00:00
-
- ## VDP
- - [https://vdp.deezer.com](https://vdp.deezer.com)
- - date_published: 2024-05-10T04:33:31.685897+00:00
-
- ## Portal - Deezer
- - [https://widget.deezer.com](https://widget.deezer.com)
- - date_published: 2024-07-03T06:36:03.916585+00:00
-
- ## Zen by Deezer - Découvrez l'application bien-être
- - [https://zen.deezer.com](https://zen.deezer.com)
- - date_published: 2024-07-12T06:08:16.732999+00:00
-
- ## The Backstage - The new Deezer blog!
- - [https://deezer-blog.com](https://deezer-blog.com)
- - date_published: 2024-05-10T04:33:26.635155+00:00
-
- ## Home | Deezer Brand Partnerships
- - [https://deezer-brandpartnerships.com](https://deezer-brandpartnerships.com)
- - date_published: 2022-07-28T13:16:18+00:00
-
- ## Deezer Community | Deezer Community, bringing music lovers together
- - [https://en.deezercommunity.com](https://en.deezercommunity.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Deezer Investors
- - [https://deezer-investors.com](https://deezer-investors.com)
- - date_published: 2024-05-02T13:51:43+00:00
-
- ## Ready to rock? - Deezer Jobs
- - [https://deezerjobs.com](https://deezerjobs.com)
- - date_published: 2023-12-19T15:32:43+00:00
-
- ## Deezer tech services, business audio innovations
- - [https://www.deezer-techservices.com](https://www.deezer-techservices.com)
- - date_published: 2022-10-20T00:00:00+00:00
-
- ## Sign Shop Panama City Beach | Deezigns & Graphics Sign Company 850-740-3598
- - [http://deezignsngraphics.com](http://deezignsngraphics.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Automate Workflows with Default
- - [https://www.default.com](https://www.default.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Def-Con News
- - [https://defconnews.com](https://defconnews.com)
- - date_published: 2024-07-04T01:28:38.940015+00:00
-
- ## DEF CON Hacking Conference Online
- - [http://defcononline.com](http://defcononline.com)
- - date_published: 2024-02-05T19:20:30.491695+00:00
- - tags: ['hacking']
-
- ## MS-DEFCON patch alerts from AskWoody
- - [https://defconpatch.com](https://defconpatch.com)
- - date_published: 2024-09-04T01:07:17.972041+00:00
-
- ## DefectDojo
- - [https://defectdojo.com](https://defectdojo.com)
- - date_published: 2024-06-28T19:29:13+00:00
-
- ## defective yeti
- - [https://defectiveyeti.com](https://defectiveyeti.com)
- - date_published: 2020-08-26T20:17:07+00:00
-
- ## Defector | The last good website.
- - [https://defector.com](https://defector.com)
- - date_published: 2023-10-25T13:48:09.544452+00:00
-
- ## Defector | The last good website.
- - [https://lede-admin.defector.com](https://lede-admin.defector.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Defector Store
- - [https://defectorstore.com](https://defectorstore.com)
- - date_published: 2024-05-01T04:31:55.281154+00:00
-
- ## Strona główna
- - [https://defence24.com](https://defence24.com)
- - date_published: 2024-06-17T04:21:20.406736+00:00
-
- ## Defence Blog
- - [https://defence-blog.com](https://defence-blog.com)
- - date_published: 2023-06-27T15:28:10+00:00
-
- ## Defence IQ
- - [https://defenceiq.com](https://defenceiq.com)
- - date_published: 2024-05-07T23:37:23.948422+00:00
-
- ## Defence Review Asia | Defence Business|Asia-Pacific
- - [http://www.defencereviewasia.com](http://www.defencereviewasia.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## CCTV Camera in Goa | CCTV Installation in Goa
- - [http://www.defencesecurityindia.com](http://www.defencesecurityindia.com)
- - date_published: 2017-07-22T00:00:00+00:00
-
- ## DefenceTalk | Defense News Military Forum Pictures
- - [http://www.defencetalk.com](http://www.defencetalk.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Defence Turkey Magazine
- - [https://www.defenceturkey.com](https://www.defenceturkey.com)
- - date_published: 2024-09-19T19:57:29.276424+00:00
-
- ## Військовий портал Defense Express - все про військову справу
- - [https://defence-ua.com](https://defence-ua.com)
- - date_published: 2024-05-01T04:32:02.435694+00:00
-
- ## Defense Express - Ukraine military industry, technology, equipment
- - [https://en.defence-ua.com](https://en.defence-ua.com)
- - date_published: 2023-12-25T22:35:54.461715+00:00
-
- ## Defense Express
- - [https://old.defence-ua.com](https://old.defence-ua.com)
- - date_published: 2024-05-01T04:32:05.333657+00:00
-
- ## defensa.com - Noticias de Fuerzas Armadas, Armamento y su industria
- - [http://www.defensa.com](http://www.defensa.com)
- - date_published: 2024-07-09T22:02:52.978723+00:00
-
- ## Accueil - Defense aerospace
- - [http://www.defense-aerospace.com](http://www.defense-aerospace.com)
- - date_published: 2024-07-09T22:14:22.922848+00:00
-
- ## دفاع العرب Defense Arabia
- - [https://defensearabia.com](https://defensearabia.com)
- - date_published: 2024-09-19T19:52:44+00:00
-
- ## Defense Daily
- - [https://www.defensedaily.com](https://www.defensedaily.com)
- - date_published: 2024-06-29T04:49:12.854100+00:00
-
- ## Home
- - [https://defensehere.com](https://defensehere.com)
- - date_published: 2022-01-12T15:32:07+00:00
-
- ## Defense Aerospace news, exhibitions, contracts and procurement
- - [https://www.defensemirror.com](https://www.defensemirror.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Defense News Arabic
- - [https://arabic.defensenews.com](https://arabic.defensenews.com)
- - date_published: 2024-05-12T07:29:38.324627+00:00
-
- ## Defense News Conference 2-24 | September 4, 2024
- - [https://conference.defensenews.com](https://conference.defensenews.com)
- - date_published: 2024-07-13T08:49:47.570613+00:00
-
- ## Sightline Media Group Events
- - [https://events.defensenews.com](https://events.defensenews.com)
- - date_published: 2024-05-11T11:39:11.700966+00:00
-
- ## 100 Most Influential | Defense News, News about defense programs, business, and technology
- - [https://people.defensenews.com](https://people.defensenews.com)
- - date_published: 2024-04-05T18:56:04.180759+00:00
-
- ## Defense News, Covering the politics, business and technology of defense | Defense News
- - [https://defensenews.com](https://defensenews.com)
- - date_published: 2023-10-31T05:18:09.856934+00:00
- - tags: ['military news']
-
- ## Defense One
- - [https://defenseone.com](https://defenseone.com)
- - date_published: 2023-10-25T13:48:12.931984+00:00
-
- ## Defense Opinion Homepage - Defense Opinion
- - [https://defenseopinion.com](https://defenseopinion.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Home
- - [http://www.defensereview.com](http://www.defensereview.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## DefenseScoop | Breaking US Military Tech News, Modern Defense News
- - [https://defensescoop.com](https://defensescoop.com)
- - date_published: 2023-10-25T13:48:19.117494+00:00
-
- ## Defense Systems
- - [http://defensesystems.com](http://defensesystems.com)
- - date_published: 2024-07-09T14:48:41+00:00
-
- ## Home — Global Defense Insight
- - [https://defensetalks.com](https://defensetalks.com)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Defense Tech Week 2024
- - [https://defensetechweek.com](https://defensetechweek.com)
- - date_published: 2024-05-01T03:25:48.092436+00:00
- - tags: ['military', 'convention', 'defense']
-
- ## Check out this video on DefenseTV
- - [https://defensetv.com](https://defensetv.com)
- - date_published: 2024-07-03T13:37:22.511065+00:00
-
- ## Defense-Update - Military Technology & Defense News
- - [http://defense-update.com](http://defense-update.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Defense & Security Web TV
- - [https://www.defensewebtv.com](https://www.defensewebtv.com)
- - date_published: 2024-05-06T16:35:08.280921+00:00
-
- ## Defensive Carry
- - [http://www.defensivecarry.com](http://www.defensivecarry.com)
- - date_published: 2024-07-04T00:01:03+00:00
-
- ## DefensiveComputingChecklist.com Table of Contents
- - [https://defensivecomputingchecklist.com](https://defensivecomputingchecklist.com)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Defiant America – Home Page
- - [https://defiantamerica.com](https://defiantamerica.com)
- - date_published: 2023-10-25T13:48:23.084019+00:00
-
- ## Defiant Robot
- - [https://defiantrobot.com](https://defiantrobot.com)
- - date_published: 2024-05-10T06:29:20.495904+00:00
-
- ## DeFi Explore - Chicken Bonds
- - [https://chickenbonds.defiexplore.com](https://chickenbonds.defiexplore.com)
- - date_published: 2024-09-04T11:54:16.131125+00:00
-
- ## DeFi Explore - MakerDAO Vault stats
- - [https://defiexplore.com](https://defiexplore.com)
- - date_published: 2024-09-23T10:18:23+00:00
-
- ## DeFi Explore - Liquity Trove stats
- - [https://liquity.defiexplore.com](https://liquity.defiexplore.com)
- - date_published: 2024-09-04T11:54:11.938214+00:00
-
- ## DeFi Explore - MakerDAO Vault stats
- - [https://maker.defiexplore.com](https://maker.defiexplore.com)
- - date_published: 2023-11-27T13:04:58+00:00
-
- ## DeFi Kingdoms
- - [https://defikingdoms.com](https://defikingdoms.com)
- - date_published: 2024-06-18T16:02:05+00:00
-
- ## DeFi Kingdoms | DeFi Kingdoms
- - [https://docs.defikingdoms.com](https://docs.defikingdoms.com)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## DeFi Kingdoms
- - [https://game.defikingdoms.com](https://game.defikingdoms.com)
- - date_published: 2024-07-03T17:14:05+00:00
-
- ## DefiLlama
- - [https://defillama.com](https://defillama.com)
- - date_published: 2024-04-30T06:30:27.553409+00:00
-
- ## Invite gateway
- - [https://discord.defillama.com](https://discord.defillama.com)
- - date_published: 2024-09-09T13:52:28.290620+00:00
-
- ## DefiLlama
- - [https://wiki.defillama.com](https://wiki.defillama.com)
- - date_published: 2022-10-22T23:17:52+00:00
 

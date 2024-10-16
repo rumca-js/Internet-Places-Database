@@ -1,3 +1,52 @@
+ ## Home - McKesson  Canada - McKesson
+ - [https://www.mckesson.ca](https://www.mckesson.ca)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Brighter World – Research focused on the health and well-being of all.
+ - [https://brighterworld.mcmaster.ca](https://brighterworld.mcmaster.ca)
+ - date_published: 2024-02-24T18:06:26.440821+00:00
+
+ ## Home Page
+ - [https://dailynews.mcmaster.ca](https://dailynews.mcmaster.ca)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Home - Directories
+ - [https://directories.mcmaster.ca](https://directories.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:30.076207+00:00
+
+ ## Discover McMaster | University Student Life | McMaster
+ - [https://discover.mcmaster.ca](https://discover.mcmaster.ca)
+ - date_published: 2023-08-02T00:00:00+00:00
+
+ ## Experts
+ - McMaster Experts
+ - [https://experts.mcmaster.ca](https://experts.mcmaster.ca)
+ - date_published: 2024-08-11T15:08:27.750778+00:00
+
+ ## Welcome to The McMaster Engineering Fireball Academy | Fireball Academy
+ - [https://fireballacademy.mcmaster.ca](https://fireballacademy.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:28.414229+00:00
+
+ ## Future Students - McMaster University
+ - [https://future.mcmaster.ca](https://future.mcmaster.ca)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## International and Exchange Student Experience
+ - [https://iss.mcmaster.ca](https://iss.mcmaster.ca)
+ - date_published: 2024-08-10T00:35:44+00:00
+
+ ## Welcome | McMaster University Library
+ - [http://library.mcmaster.ca](http://library.mcmaster.ca)
+ - date_published: 2024-08-18T07:35:31+00:00
+
+ ## Home
+ - [https://mcmaster.ca](https://mcmaster.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Index Page
+ - [http://mosaic.mcmaster.ca](http://mosaic.mcmaster.ca)
+ - date_published: 2024-05-01T16:43:55+00:00
+
  ## Home - Mathematics & Statistics - Faculty of Science - McMaster University
  - [https://ms.mcmaster.ca](https://ms.mcmaster.ca)
  - date_published: 2024-06-30T03:03:28.537176+00:00
@@ -3988,52 +4037,4 @@
  ## Economics, Philosophy and Political Science: UBC's Okanagan Campus
  - [https://epp.ok.ubc.ca](https://epp.ok.ubc.ca)
  - date_published: 2024-07-01T20:24:01.463724+00:00
-
- ## Home Page | PHAS EDI Committee
- - [https://equity-inclusion.phas.ubc.ca](https://equity-inclusion.phas.ubc.ca)
- - date_published: 2024-08-06T10:27:21.984027+00:00
-
- ## UBC Okanagan Events Calendar
- - [https://events.ok.ubc.ca](https://events.ok.ubc.ca)
- - date_published: 2024-07-21T09:06:33.857606+00:00
-
- ## Home | UBC Experts Guide
- - [https://experts.news.ubc.ca](https://experts.news.ubc.ca)
- - date_published: 2024-04-30T05:18:48.209797+00:00
-
- ## UBC Botanical Garden Forums
- - [https://forums.botanicalgarden.ubc.ca](https://forums.botanicalgarden.ubc.ca)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Home - give UBC
- - [https://give.ubc.ca](https://give.ubc.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Research Guides
- - [https://guides.library.ubc.ca](https://guides.library.ubc.ca)
- - date_published: 2024-07-21T09:07:56.214143+00:00
-
- ## Get Research Help | UBC Library Research Help
- - [https://help.library.ubc.ca](https://help.library.ubc.ca)
- - date_published: 2024-07-21T09:07:44.017229+00:00
-
- ## University of British Columbia Library | UBC Library Home
- - [https://home-uat.library.ubc.ca](https://home-uat.library.ubc.ca)
- - date_published: 2024-07-21T09:07:25.528707+00:00
-
- ## Hours and Locations | UBC Library Hours and Locations
- - [https://hours.library.ubc.ca](https://hours.library.ubc.ca)
- - date_published: 2024-07-21T09:07:33.328032+00:00
-
- ## Home | housingresearch.ubc.ca
- - [https://housingresearch.ubc.ca](https://housingresearch.ubc.ca)
- - date_published: 2024-04-30T05:03:50.222590+00:00
-
- ## Welcome | UBC Human Resources
- - [https://hr.ubc.ca](https://hr.ubc.ca)
- - date_published: 2024-07-20T04:59:26+00:00
-
- ## School of Information | University of British Columbia | Vancouver, Canada
- - [https://ischool.ubc.ca](https://ischool.ubc.ca)
- - date_published: 2024-07-11T12:56:18.937678+00:00
 

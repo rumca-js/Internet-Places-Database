@@ -1,3 +1,19 @@
+ ## Powering AI with human insight - Toloka AI
+ - [https://toloka.ai](https://toloka.ai)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Tom Kemp | Author | Entrepreneur | Seed Investor | Policy Advisor
+ - [https://tomkemp.ai](https://tomkemp.ai)
+ - date_published: 2023-10-25T11:44:40.418637+00:00
+
+ ## Best AI Tools Directory & AI Tools List - Toolify
+ - [https://toolify.ai](https://toolify.ai)
+ - date_published: 2024-05-09T07:03:57.458916+00:00
+
+ ## Tool listing for you and your business | Toolio
+ - [https://www.toolio.ai](https://www.toolio.ai)
+ - date_published: 2024-09-02T00:00:00+00:00
+
  ## ToolPilot AI - Navigate AI's Possibilities with AI Tools Directory
  - [https://toolpilot.ai](https://toolpilot.ai)
  - date_published: 2024-05-09T07:04:01.725395+00:00
@@ -247,6 +263,14 @@
  ## uKit AI – моментально улучшает сайты с помощью ИИ
  - [https://ukit.ai](https://ukit.ai)
  - date_published: 2017-06-06T07:32:56+00:00
+
+ ## Ultimate Chat
+ - [https://widget.ultimate.ai](https://widget.ultimate.ai)
+ - date_published: 2024-07-08T08:34:55+00:00
+
+ ## Customer Support Automation Powered by Generative AI | Ultimate
+ - [https://www.ultimate.ai](https://www.ultimate.ai)
+ - date_published: 2024-10-04T23:54:10+00:00
 
  ## ULTRACODE
  - [https://app.ultracode.ai](https://app.ultracode.ai)
@@ -3239,6 +3263,10 @@ Creative Solutions
  - [https://slack.commercelayer.app](https://slack.commercelayer.app)
  - date_published: 2024-01-30T00:00:00+00:00
 
+ ## Monitor Competitors' Marketing Strategy with AI - Competitors App
+ - [https://competitors.app](https://competitors.app)
+ - date_published: 2024-07-03T00:00:00+00:00
+
  ## Show HN: CompressX, my FFmpeg wrapper for macOS, made $9k in the last 4 months
  - [https://compressx.app](https://compressx.app)
  - date_published: 2024-04-10T06:32:18+00:00
@@ -3580,6 +3608,10 @@ Creative Solutions
  ## Digiwall by La Digitale
  - [https://digiwall.app](https://digiwall.app)
  - date_published: 2024-06-19T22:12:03.314315+00:00
+
+ ## Loading…
+ - [https://belkins.directus.app](https://belkins.directus.app)
+ - date_published: 2024-10-05T23:46:26.583671+00:00
 
  ## Loading…
  - [https://hume-website.directus.app](https://hume-website.directus.app)
@@ -3988,37 +4020,4 @@ Creative Solutions
  ## Login
  - [https://home.fermat.app](https://home.fermat.app)
  - date_published: 2024-06-21T20:01:35.020130+00:00
-
- ## Fermat Research
- - [https://research.fermat.app](https://research.fermat.app)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Login - Fermat Toolmaker
- - [https://toolmaker.fermat.app](https://toolmaker.fermat.app)
- - date_published: 2024-06-21T20:01:36.491097+00:00
-
- ## figr.app - Your notepad calculator
- - [https://figr.app](https://figr.app)
- - date_published: 2023-10-25T11:46:26.735024+00:00
-
- ## Filebar
- - [https://filebar.app](https://filebar.app)
- - date_published: 2024-06-22T06:22:41.124028+00:00
-
- ## Home | Fileside
- - [https://fileside.app](https://fileside.app)
- - date_published: 2023-10-25T11:46:27.851566+00:00
-
- ## Filestash
- - [https://demo.filestash.app](https://demo.filestash.app)
- - date_published: 2024-05-14T03:31:30.980624+00:00
-
- ## Archive
- - [https://downloads.filestash.app](https://downloads.filestash.app)
- - date_published: 2020-06-01T03:57:35+00:00
-
- ## Filestash — Self-hosted client for your data
- - [https://filestash.app](https://filestash.app)
- - date_published: 2023-10-25T11:46:29.675741+00:00
- - tags: ['self-host']
 

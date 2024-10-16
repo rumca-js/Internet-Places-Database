@@ -1,3 +1,51 @@
+ ## Home
+ - [https://spcine.com.br](https://spcine.com.br)
+ - date_published: 2024-06-26T21:56:38.630933+00:00
+
+ ## Sportbuzz
+ - [https://sportbuzz.com.br](https://sportbuzz.com.br)
+ - date_published: 2024-07-11T17:32:45+00:00
+
+ ## SPTrans
+ - [http://www.sptrans.com.br](http://www.sptrans.com.br)
+ - date_published: 2024-07-19T22:14:00.710079+00:00
+
+ ## Home Page - StandFor
+ - [https://standfor.com.br](https://standfor.com.br)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.com.br](https://www.statkraft.com.br)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home - Stilingue Inteligência Artificial
+ - [https://stilingue.com.br](https://stilingue.com.br)
+ - date_published: 2020-09-24T20:47:41+00:00
+
+ ## Stone: solução completa de vendas feita para o seu negócio
+ - [https://www.stone.com.br](https://www.stone.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
+ - [https://storexppen.com.br](https://storexppen.com.br)
+ - date_published: 2024-05-30T18:41:51.126045+00:00
+
+ ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
+ - [http://www.streetfighter.com.br](http://www.streetfighter.com.br)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Studio Cubo Web - Desenvolvemos sites e sistemas
+ - [https://studiocuboweb.com.br](https://studiocuboweb.com.br)
+ - date_published: 2023-02-14T14:43:31+00:00
+
+ ## Submarino - Sua história começa aqui
+ - [http://www.submarino.com.br](http://www.submarino.com.br)
+ - date_published: 2024-07-10T09:23:04.769212+00:00
+
+ ## Paradiso Rio | Paradiso Rio FM
+ - [https://sulamericaparadiso.com.br](https://sulamericaparadiso.com.br)
+ - date_published: 2024-07-13T02:17:25.040098+00:00
+
  ## Superprof - A comunidade dos professores particulares
  - [https://superprof.com.br](https://superprof.com.br)
  - date_published: 2024-06-15T01:28:14.389864+00:00
@@ -3969,52 +4017,4 @@
  ## Business is Jammin' - Empowering Black Youth Through Entrepreneurship
  - [https://businessisjammin.ca](https://businessisjammin.ca)
  - date_published: 2024-08-09T03:52:53.757567+00:00
-
- ## CADDAC: Canadian ADHD Awareness | Education | Advocacy
- - [https://caddac.ca](https://caddac.ca)
- - date_published: 2024-05-07T14:16:38.480742+00:00
-
- ## ADHD Learn – Provider Resources for ADHD
- - [https://adhdlearn.caddra.ca](https://adhdlearn.caddra.ca)
- - date_published: 2024-07-11T17:19:30.679047+00:00
-
- ## Cadillac Canada | Luxury Cars, SUVs & Crossovers
- - [https://www.cadillaccanada.ca](https://www.cadillaccanada.ca)
- - date_published: 2024-06-20T07:44:42.488732+00:00
-
- ## CAF Canada - Creating Opportunities for Canadians to support charitable projects around the world
- - [https://www.cafcanada.ca](https://www.cafcanada.ca)
- - date_published: 2024-07-15T03:38:40.178021+00:00
-
- ## CafePress | Best merchandise to express yourself
- - [https://cafepress.ca](https://cafepress.ca)
- - date_published: 2024-04-29T03:19:10.117588+00:00
-
- ## Homepage - Calgary Black Chambers
- - [https://calgaryblackchambers.ca](https://calgaryblackchambers.ca)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - University of Calgary Bookstore
- - [https://calgarybookstore.ca](https://calgarybookstore.ca)
- - date_published: 2024-04-30T05:19:03.329840+00:00
-
- ## Callysto – Building Tomorrows Digital Leaders
- - [https://callysto.ca](https://callysto.ca)
- - date_published: 2024-06-30T08:29:52.284676+00:00
-
- ## Calotte
- - [https://calotte.ca](https://calotte.ca)
- - date_published: 2024-08-07T20:02:28+00:00
-
- ## Cam Champ
- - [https://camchamp.ca](https://camchamp.ca)
- - date_published: 2023-03-16T00:00:00+00:00
-
- ## Support CAMH
- - [https://give.camh.ca](https://give.camh.ca)
- - date_published: 2024-05-10T04:57:08.647789+00:00
-
- ## The Centre for Addiction and Mental Health
- - [https://camh.ca](https://camh.ca)
- - date_published: 2023-12-11T10:52:06.321718+00:00
 

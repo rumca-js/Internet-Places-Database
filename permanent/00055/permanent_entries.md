@@ -1,3 +1,159 @@
+ ## ResoluteReader
+ - [http://resolutereader.blogspot.com](http://resolutereader.blogspot.com)
+ - date_published: 2024-06-28T21:06:51+00:00
+
+ ## RÉSONAANCES
+ - [https://resonaances.blogspot.com](https://resonaances.blogspot.com)
+ - date_published: 2024-05-12T06:30:02.719445+00:00
+
+ ## Respectful of Otters
+ - [http://respectfulofotters.blogspot.com](http://respectfulofotters.blogspot.com)
+ - date_published: 2006-07-11T23:39:00+00:00
+
+ ## MOVED
+ - [http://restlessmina.blogspot.com](http://restlessmina.blogspot.com)
+ - date_published: 2024-08-29T11:52:55+00:00
+
+ ## The Retired Adventurer
+ - [http://retiredadventurer.blogspot.com](http://retiredadventurer.blogspot.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## RETRO DUNDEE
+ - [https://retrodundee.blogspot.com](https://retrodundee.blogspot.com)
+ - date_published: 2024-06-17T18:29:32+00:00
+
+ ## Retro FPGA
+ - [https://retrofgpa.blogspot.com](https://retrofgpa.blogspot.com)
+ - date_published: 2024-08-30T02:49:03+00:00
+
+ ## Retro Game On
+ - [https://retrogameon.blogspot.com](https://retrogameon.blogspot.com)
+ - date_published: 2024-04-28T04:41:39.875520+00:00
+
+ ## Retro Hampton Roads
+ - [http://retrohamptonroads.blogspot.com](http://retrohamptonroads.blogspot.com)
+ - date_published: 2024-06-24T17:06:58+00:00
+
+ ## RetroManiac | Revista de videojuegos retro |Videogames Magazine | Indie | Games | Gratis
+ - [http://retromaniacmagazine.blogspot.com](http://retromaniacmagazine.blogspot.com)
+ - date_published: 2024-08-03T10:50:27+00:00
+
+ ## Retro Ordenadores Orty
+ - [https://retroordenadoresorty.blogspot.com](https://retroordenadoresorty.blogspot.com)
+ - date_published: 2024-07-20T12:33:00+00:00
+
+ ## Retro Planet
+ - [https://retroplanetmagazine.blogspot.com](https://retroplanetmagazine.blogspot.com)
+ - date_published: 2024-07-09T08:35:08+00:00
+
+ ## Retro Ports
+ - [https://retroports.blogspot.com](https://retroports.blogspot.com)
+ - date_published: 2024-06-03T17:38:34+00:00
+
+ ## Retro Relapse
+ - [http://retrorelapse.blogspot.com](http://retrorelapse.blogspot.com)
+ - date_published: 2024-03-13T18:11:07+00:00
+
+ ## Retro Synth Ads
+ - [https://retrosynthads.blogspot.com](https://retrosynthads.blogspot.com)
+ - date_published: 2024-05-07T15:46:06.815665+00:00
+
+ ## Retro Tech Office Machines
+ - [http://retrotechofficemachines.blogspot.com](http://retrotechofficemachines.blogspot.com)
+ - date_published: 2024-03-14T04:43:26+00:00
+
+ ## Retro Treasures
+ - [http://retro-treasures.blogspot.com](http://retro-treasures.blogspot.com)
+ - date_published: 2024-07-01T09:05:39+00:00
+
+ ## VINTAGE PHOTOGRAPHY
+ - [http://retro-vintage-photography.blogspot.com](http://retro-vintage-photography.blogspot.com)
+ - date_published: 2024-06-21T13:22:53+00:00
+
+ ## Blogger
+ - [http://return42.blogspot.com](http://return42.blogspot.com)
+ - date_published: 2024-06-20T05:07:36.328528+00:00
+
+ ## Return to Darkest Africa
+ - [http://returntodarkestafrica.blogspot.com](http://returntodarkestafrica.blogspot.com)
+ - date_published: 2024-03-13T12:03:48+00:00
+
+ ## Re-Typing
+ - [http://re-typing.blogspot.com](http://re-typing.blogspot.com)
+ - date_published: 2024-03-14T14:11:14+00:00
+
+ ## Edgar's Game Blog
+ - [http://revdoctoredj.blogspot.com](http://revdoctoredj.blogspot.com)
+ - date_published: 2024-03-21T11:41:54+00:00
+
+ ## R e v e l a r   e   s e n t i r
+ - [http://revelaresentir.blogspot.com](http://revelaresentir.blogspot.com)
+ - date_published: 2024-03-13T17:07:27+00:00
+
+ ## Revenant Autumn
+ - [http://revenantautumn.blogspot.com](http://revenantautumn.blogspot.com)
+ - date_published: 2024-03-19T11:21:31+00:00
+
+ ## Leg Destroyed - Reverse Disabled
+ - [http://reversedisabled.blogspot.com](http://reversedisabled.blogspot.com)
+ - date_published: 2024-07-14T23:22:21+00:00
+
+ ## modo de usar & co.
+ - [http://revistamododeusar.blogspot.com](http://revistamododeusar.blogspot.com)
+ - date_published: 2024-07-04T06:03:48+00:00
+
+ ## How to Start a Revolution in 21 Days or Less
+ - [http://revolution21days.blogspot.com](http://revolution21days.blogspot.com)
+ - date_published: 2024-07-14T18:34:21+00:00
+
+ ## REVULN
+ - [https://revuln.blogspot.com](https://revuln.blogspot.com)
+ - date_published: 2019-01-03T15:23:00+00:00
+
+ ## Rex Parker Does the NYT Crossword Puzzle
+ - [http://rexwordpuzzle.blogspot.com](http://rexwordpuzzle.blogspot.com)
+ - date_published: 2024-07-04T16:26:39+00:00
+
+ ## Bum Rush the Titan!
+ - [https://reynaldogamingsoap.blogspot.com](https://reynaldogamingsoap.blogspot.com)
+ - date_published: 2024-03-13T04:01:23+00:00
+
+ ## Reza
+ - [https://rezabe.blogspot.com](https://rezabe.blogspot.com)
+ - date_published: 2024-03-23T18:18:10+00:00
+
+ ## Blogger
+ - [http://rezkowatch.blogspot.com](http://rezkowatch.blogspot.com)
+ - date_published: 2024-06-27T10:20:42.212008+00:00
+
+ ## Bob Walters
+ - [http://rfcwalters.blogspot.com](http://rfcwalters.blogspot.com)
+ - date_published: 2024-03-13T22:17:41+00:00
+
+ ## Classics at the Intersections
+ - [https://rfkclassics.blogspot.com](https://rfkclassics.blogspot.com)
+ - date_published: 2023-01-22T00:00:00+00:00
+
+ ## rfLinux
+ - [http://rflinux.blogspot.com](http://rflinux.blogspot.com)
+ - date_published: 2024-03-14T08:15:51+00:00
+
+ ## rgba32
+ - [http://rgba32.blogspot.com](http://rgba32.blogspot.com)
+ - date_published: 2024-03-14T09:10:37+00:00
+
+ ## RGCD
+ - [http://rgcd.blogspot.com](http://rgcd.blogspot.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Raphael's blog
+ - [https://rgeissert.blogspot.com](https://rgeissert.blogspot.com)
+ - date_published: 2024-02-19T16:06:47+00:00
+
+ ## RGS thoughts and mutterings
+ - [https://rgsrr.blogspot.com](https://rgsrr.blogspot.com)
+ - date_published: 2004-02-23T00:00:00+00:00
+
  ## My Life
  - [http://rh0dium.blogspot.com](http://rh0dium.blogspot.com)
  - date_published: 2024-02-21T03:48:58+00:00
@@ -3861,161 +4017,4 @@
  ## Nie znaleziono bloga
  - [http://thefallenprinces.blogspot.com](http://thefallenprinces.blogspot.com)
  - date_published: 2024-09-04T11:40:33.440806+00:00
-
- ## The Fantasy Hammer
- - [https://thefantasyhammer.blogspot.com](https://thefantasyhammer.blogspot.com)
- - date_published: 2024-05-16T11:31:23+00:00
-
- ## The Feral Irishman
- - [https://theferalirishman.blogspot.com](https://theferalirishman.blogspot.com)
- - date_published: 2024-06-27T09:22:00+00:00
-
- ## The Fiberglass Manifesto
- - [http://thefiberglassmanifesto.blogspot.com](http://thefiberglassmanifesto.blogspot.com)
- - date_published: 2024-06-25T17:12:19+00:00
-
- ## Blogger
- - [https://thefineartofthetpk.blogspot.com](https://thefineartofthetpk.blogspot.com)
- - date_published: 2024-05-12T03:53:31.952660+00:00
-
- ## The Fischbowl
- - [https://thefischbowl.blogspot.com](https://thefischbowl.blogspot.com)
- - date_published: 2024-04-03T06:38:53.475731+00:00
- - tags: ['personal']
-
- ## Events in my life
- - [http://theflowerofmosul.blogspot.com](http://theflowerofmosul.blogspot.com)
- - date_published: 2024-03-23T18:07:35+00:00
-
- ## The frog that jumped out
- - [http://thefrogthatjumpedout.blogspot.com](http://thefrogthatjumpedout.blogspot.com)
- - date_published: 2024-03-05T13:04:01+00:00
-
- ## Frontline Gamer
- - [http://thefrontlinegamer.blogspot.com](http://thefrontlinegamer.blogspot.com)
- - date_published: 2024-07-14T18:26:56+00:00
-
- ## The Gathering Storm
- - [http://the-gathering-storm.blogspot.com](http://the-gathering-storm.blogspot.com)
- - date_published: 2024-06-23T12:11:56+00:00
-
- ## The Gay Gamer
- - [http://thegaygamer.blogspot.com](http://thegaygamer.blogspot.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## The Genesys Project
- - [http://thegenesysproject.blogspot.com](http://thegenesysproject.blogspot.com)
- - date_published: 2024-02-02T16:01:17+00:00
-
- ## The Genome Factory
- - [http://thegenomefactory.blogspot.com](http://thegenomefactory.blogspot.com)
- - date_published: 2024-09-02T07:33:25+00:00
-
- ## The Gentlemen's Blog to Midnite Cinema
- - [http://theggtmc.blogspot.com](http://theggtmc.blogspot.com)
- - date_published: 2024-09-17T22:47:36+00:00
-
- ## The Gordian
- - [http://thegordian.blogspot.com](http://thegordian.blogspot.com)
- - date_published: 2024-06-07T19:07:17+00:00
-
- ## The Grand Tapestry
- - [http://thegrandtapestry.blogspot.com](http://thegrandtapestry.blogspot.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## the great america blog
- - [https://thegreatamericablog.blogspot.com](https://thegreatamericablog.blogspot.com)
- - date_published: 2024-03-13T01:28:40+00:00
-
- ## Restore Confederate Monuments
- - [http://thegreatamericanrevolution.blogspot.com](http://thegreatamericanrevolution.blogspot.com)
- - date_published: 2024-02-19T10:17:24+00:00
-
- ## The Green Artist / Amazing Art from Ordinary Things
- - [http://thegreenartist.blogspot.com](http://thegreenartist.blogspot.com)
- - date_published: 2024-03-05T06:56:37+00:00
-
- ## The Greenbelt
- - [https://thegreenbelt.blogspot.com](https://thegreenbelt.blogspot.com)
- - date_published: 2024-05-07T21:53:22.522398+00:00
-
- ## the grognard slawn
- - [http://thegrognardslawn.blogspot.com](http://thegrognardslawn.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## The Grue Next Door
- - [http://thegruenextdoor.blogspot.com](http://thegruenextdoor.blogspot.com)
- - date_published: 2024-03-19T17:23:13+00:00
-
- ## The Grumpy Stunty
- - [http://thegrumpystunty.blogspot.com](http://thegrumpystunty.blogspot.com)
- - date_published: 2024-07-15T22:29:34+00:00
-
- ## Blogger
- - [http://thegunterfam.blogspot.com](http://thegunterfam.blogspot.com)
- - date_published: 2024-07-20T21:25:25.675426+00:00
-
- ## OXCULLENT FINDINGS
- - [http://thegwenster.blogspot.com](http://thegwenster.blogspot.com)
- - date_published: 2023-11-15T14:10:10+00:00
-
- ## The Happiness Patrol
- - [http://thehappinesspatrol.blogspot.com](http://thehappinesspatrol.blogspot.com)
- - date_published: 2024-07-03T02:42:28+00:00
-
- ## The Happy Typewriter
- - [http://thehappytypewriter.blogspot.com](http://thehappytypewriter.blogspot.com)
- - date_published: 2024-03-05T06:37:27+00:00
-
- ## The Hardscrabbler
- - [http://thehardscrabbler.blogspot.com](http://thehardscrabbler.blogspot.com)
- - date_published: 2024-06-26T19:32:56+00:00
-
- ## The Haunted Closet
- - [http://the-haunted-closet.blogspot.com](http://the-haunted-closet.blogspot.com)
- - date_published: 2024-07-24T07:56:35+00:00
-
- ## THE HINDU CROSSWORD CORNER
- - [https://thehinducrosswordcorner.blogspot.com](https://thehinducrosswordcorner.blogspot.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## The Hitting The Road Again Blues
- - [http://thehittingtheroadagainblues.blogspot.com](http://thehittingtheroadagainblues.blogspot.com)
- - date_published: 2024-03-05T11:36:14+00:00
-
- ## The Hobby Stash
- - [http://thehobbystash.blogspot.com](http://thehobbystash.blogspot.com)
- - date_published: 2024-07-02T06:26:40+00:00
-
- ## The Hopeless Gamer
- - [http://thehopelessgamer.blogspot.com](http://thehopelessgamer.blogspot.com)
- - date_published: 2024-07-17T23:03:12+00:00
-
- ## The House on Caroline Street
- - [http://thehouseoncarolinestreet.blogspot.com](http://thehouseoncarolinestreet.blogspot.com)
- - date_published: 2024-06-16T03:46:21+00:00
-
- ## Idiot Tracker
- - [http://theidiottracker.blogspot.com](http://theidiottracker.blogspot.com)
- - date_published: 2024-06-29T08:57:04+00:00
-
- ## The Impossible Fortress
- - [http://theimpossiblefortress.blogspot.com](http://theimpossiblefortress.blogspot.com)
- - date_published: 2024-03-05T23:08:41+00:00
-
- ## The Incursions of Chaos
- - [http://theincursionsofchaos.blogspot.com](http://theincursionsofchaos.blogspot.com)
- - date_published: 2024-02-21T06:06:44+00:00
-
- ## The Jade Sphinx
- - [https://thejadesphinx.blogspot.com](https://thejadesphinx.blogspot.com)
- - date_published: 2024-06-20T17:52:26+00:00
-
- ## The Joy of Knitting
- - [https://thejoyofknitting.blogspot.com](https://thejoyofknitting.blogspot.com)
- - date_published: 2024-03-13T00:35:17+00:00
-
- ## Hammer's Stuff
- - [http://thelanguageguybackup.blogspot.com](http://thelanguageguybackup.blogspot.com)
- - date_published: 2024-02-08T19:33:27+00:00
 
