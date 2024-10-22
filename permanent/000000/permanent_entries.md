@@ -67,6 +67,10 @@
  - [https://words.of.goran.butor.ac](https://words.of.goran.butor.ac)
  - date_published: 2024-04-01T00:00:00+00:00
 
+ ## COKI Open Access Dashboard
+ - [https://open.coki.ac](https://open.coki.ac)
+ - date_published: 2024-10-20T04:43:47.129825+00:00
+
  ## Click to Tweet | The easy, tweet about this link generator | Twitter advertising & marketing tool · ClickToTweet.com
  - [https://ctt.ac](https://ctt.ac)
  - date_published: 2024-08-11T10:49:49.377188+00:00
@@ -82,6 +86,10 @@
  ## DISCO
  - [https://strangespecial.disco.ac](https://strangespecial.disco.ac)
  - date_published: 2024-06-26T22:55:34.897510+00:00
+
+ ## Main Page
+ - [https://dodo.ac](https://dodo.ac)
+ - date_published: 2024-10-22T09:45:47.579304+00:00
 
  ## RECKLESSMOSS
  - [https://recklessmoss.drr.ac](https://recklessmoss.drr.ac)
@@ -143,6 +151,10 @@
  ## 基礎有機化学会　JPOC ： The Society of Physical Organic Chemistry, Japan
  - [http://jpoc.ac](http://jpoc.ac)
  - date_published: 2024-06-23T23:15:50.692597+00:00
+
+ ## London Metropolitan University - London Metropolitan University
+ - [http://ldnmet.ac](http://ldnmet.ac)
+ - date_published: 2024-10-18T18:38:02.156307+00:00
 
  ## MAD – Digital Product Studio
  - [https://mad.ac](https://mad.ac)
@@ -427,6 +439,10 @@
  - [https://www.1009.ae](https://www.1009.ae)
  - date_published: 2024-09-25T15:45:13.628814+00:00
 
+ ## Map of cities of the UAE — 2GIS
+ - [http://2gis.ae](http://2gis.ae)
+ - date_published: 2024-10-17T14:44:31.077171+00:00
+
  ## 3M Science. Applied to Life. | 3M United Arab Emirates
  - [https://www.3mae.ae](https://www.3mae.ae)
  - date_published: 2024-08-06T10:39:01.342170+00:00
@@ -551,6 +567,10 @@
  - [https://bluesun.ae](https://bluesun.ae)
  - date_published: 2024-09-25T10:23:18.799677+00:00
 
+ ## Web Design Agency in Dubai | Best Web Design Company in UAE
+ - [https://www.branex.ae](https://www.branex.ae)
+ - date_published: 2024-10-21T19:26:58.481604+00:00
+
  ## Product Registration - Brother
  - [https://register.brother.ae](https://register.brother.ae)
  - date_published: 2024-06-17T21:02:33.025218+00:00
@@ -558,6 +578,10 @@
  ## Printer, Scanner, Sewing Machine, Label Maker | Brother Gulf
  - [https://www.brother.ae](https://www.brother.ae)
  - date_published: 2024-05-02T11:25:24.655943+00:00
+
+ ## ADNEC Services | Exhibition Service and Main Contracting
+ - [https://www.capital360.ae](https://www.capital360.ae)
+ - date_published: 2024-10-22T08:31:09.743531+00:00
 
  ## Capterra United Arab Emirates helps you find the right software for your business
  - [https://www.capterra.ae](https://www.capterra.ae)
@@ -828,6 +852,10 @@
  - [https://latingulf.ae](https://latingulf.ae)
  - date_published: 2024-09-24T22:52:46.897188+00:00
 
+ ## LiveAgent | تطبيق خدمة عملاء بسيط لفرق العمل
+ - [https://www.liveagent.ae](https://www.liveagent.ae)
+ - date_published: 2024-10-19T20:27:19.999006+00:00
+
  ## Live In Five LLC. | Event Communication Services
  - [https://liveinfive.ae](https://liveinfive.ae)
  - date_published: 2024-06-10T12:47:11.463580+00:00
@@ -859,6 +887,14 @@
  ## Life, Pet, and Health Insurance Provider| MetLife UAE
  - [https://www.metlife.ae](https://www.metlife.ae)
  - date_published: 2024-07-19T16:51:52+00:00
+
+ ## براند مينيماليست | للساعات الفاخرة والاكسسوارات
+ - [https://ar.minimalist.ae](https://ar.minimalist.ae)
+ - date_published: 2024-10-20T09:04:56.392250+00:00
+
+ ## Premium and Luxury Watches & Jewellery for Men & Women
+ - [https://minimalist.ae](https://minimalist.ae)
+ - date_published: 2024-10-20T09:05:02.922276+00:00
 
  ## Padel Tennis Courts in Dubai - MIT Global
  - [https://www.mitglobal.ae](https://www.mitglobal.ae)
@@ -920,6 +956,10 @@
  - [https://www.peri.ae](https://www.peri.ae)
  - date_published: 2024-07-01T00:00:00+00:00
 
+ ## Women's Fashion Clothing & Dresses
+ - [https://www.prettylittlething.ae](https://www.prettylittlething.ae)
+ - date_published: 2024-10-20T14:11:39.723486+00:00
+
  ## Cierpliwości...
  - [https://qr.ae](https://qr.ae)
  - date_published: 2024-04-30T07:49:21.303269+00:00
@@ -927,6 +967,14 @@
  ## Radio Shoma - UAE's First Farsi Music Station
  - [https://www.radioshoma934.ae](https://www.radioshoma934.ae)
  - date_published: 2024-09-25T15:45:16.584140+00:00
+
+ ## Homepage - Home Page
+ - [https://www.rakmediaoffice.ae](https://www.rakmediaoffice.ae)
+ - date_published: 2024-10-22T08:31:14.876729+00:00
+
+ ## REDLUMB - Expert Web Development, SEO & PPC Management
+ - [https://redlumb.ae](https://redlumb.ae)
+ - date_published: 2024-10-16T00:00:00+00:00
 
  ## ResearchHub
  - [https://researchhub.ae](https://researchhub.ae)
@@ -1173,6 +1221,10 @@
  - [https://aci-lac.aero](https://aci-lac.aero)
  - date_published: 2024-09-10T10:25:12.694411+00:00
 
+ ## We are the Airspace Change Organising Group - Airspace Change Organising Group (ACOG)
+ - [https://www.acog.aero](https://www.acog.aero)
+ - date_published: 2024-10-21T08:06:47.979767+00:00
+
  ## Aerohub
  - [https://kqcinema.aerohub.aero](https://kqcinema.aerohub.aero)
  - date_published: 2024-09-17T19:28:32.954239+00:00
@@ -1204,6 +1256,14 @@
  ## Accueil - BEA - Bureau d'Enquêtes et d'Analyses pour la sécurité de l'aviation civile
  - [https://bea.aero](https://bea.aero)
  - date_published: 2024-01-18T13:04:11.749735+00:00
+
+ ## Добро дошли на Аеродром Никола Тесла Београд | Аеродром Никола Тесла Београд
+ - [https://beg.aero](https://beg.aero)
+ - date_published: 2024-10-18T23:27:43.421744+00:00
+
+ ## Cambodia Airports
+ - [https://corp.cambodia-airports.aero](https://corp.cambodia-airports.aero)
+ - date_published: 2024-10-18T23:29:57.481935+00:00
 
  ## Centro Avanzado de Tecnologías Aeroespaciales | Catec
  - [http://www.catec.aero](http://www.catec.aero)
@@ -1283,9 +1343,9 @@
  - [https://www.nata.aero](https://www.nata.aero)
  - date_published: 2024-08-07T00:00:00+00:00
 
- ## NATS
- - [https://www.nats.aero](https://www.nats.aero)
- - date_published: 2024-06-18T09:55:15.481007+00:00
+ ## Home - NATS
+ - [https://nats.aero](https://nats.aero)
+ - date_published: 2024-10-21T08:06:53.774664+00:00
 
  ## Home page
  - [https://www.navblue.aero](https://www.navblue.aero)
@@ -1294,6 +1354,10 @@
  ## ACI Online Training Courses - Online Airport Training Courses - OLC
  - [https://olc.aero](https://olc.aero)
  - date_published: 2024-07-16T00:00:00+00:00
+
+ ## OMA - Grupo Aeroportuario Centro Norte
+ - [https://www.oma.aero](https://www.oma.aero)
+ - date_published: 2024-10-18T23:27:48.832074+00:00
 
  ## Parken im Flughafen | Park.Aero
  - [https://agency.park.aero](https://agency.park.aero)
@@ -1413,6 +1477,10 @@
  ## Afripods - Podcasting platform amplifying Africa
  - [https://afripods.africa](https://afripods.africa)
  - date_published: 2024-07-13T08:40:57+00:00
+
+ ## Afripods
+ - [https://cms.afripods.africa](https://cms.afripods.africa)
+ - date_published: 2024-10-20T00:00:39.866336+00:00
 
  ## AllAfrica Media Summit | Re-engineering African Media in Times of Critical Transformation
  - [https://allafricamediasummit.africa](https://allafricamediasummit.africa)
@@ -1586,6 +1654,10 @@
  - [http://www.gp.ag](http://www.gp.ag)
  - date_published: 2024-07-13T16:18:31.131523+00:00
 
+ ## Digital Publishing and Content Experience Platform | Joomag
+ - [https://joom.ag](https://joom.ag)
+ - date_published: 2024-10-20T16:56:19.990664+00:00
+
  ## Jupiter
  - [https://jup.ag](https://jup.ag)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -1757,6 +1829,14 @@
  - [https://filter.agency](https://filter.agency)
  - date_published: 2024-06-28T00:00:00+00:00
 
+ ## FLOCC | Digital Agency For High Growth Brands in Cambridge
+ - [https://flocc.agency](https://flocc.agency)
+ - date_published: 2024-10-20T08:13:44.967564+00:00
+
+ ## Building Brands That Lead and Inspire
+ - [https://focuslab.agency](https://focuslab.agency)
+ - date_published: 2024-10-22T11:12:04.132324+00:00
+
  ## Website Design Services | Fractalmax Agency
  - [https://fractalmax.agency](https://fractalmax.agency)
  - date_published: 2023-10-25T11:36:18.419422+00:00
@@ -1864,6 +1944,10 @@
  ## MIA map intelligence agency
  - [https://mapintelligence.agency](https://mapintelligence.agency)
  - date_published: 2024-09-04T03:34:33.447890+00:00
+
+ ## Masterworks | Reimagining nonprofit fundraising
+ - [https://www.masterworks.agency](https://www.masterworks.agency)
+ - date_published: 2024-10-21T10:44:01.910363+00:00
 
  ## Maxcreative | Integrated Marketing Agency
  - [https://www.maxcreative.agency](https://www.maxcreative.agency)
@@ -3521,6 +3605,14 @@
  - [https://chatling.ai](https://chatling.ai)
  - date_published: 2024-06-18T10:55:10.299118+00:00
 
+ ## Getting started - Chatling Documentation
+ - [https://docs.chatling.ai](https://docs.chatling.ai)
+ - date_published: 2024-10-21T10:37:23.894569+00:00
+
+ ## Trust Center
+ - [https://trust.chatling.ai](https://trust.chatling.ai)
+ - date_published: 2024-10-21T10:37:25.808540+00:00
+
  ## Chatmosphere AI
  - [https://chatmosphere.ai](https://chatmosphere.ai)
  - date_published: 2024-06-19T19:11:16.309165+00:00
@@ -3931,96 +4023,4 @@ Welcome
  ## Frame
  - [https://analytics.conductive.ai](https://analytics.conductive.ai)
  - date_published: 2024-07-10T11:21:35.594163+00:00
-
- ## Confetti AI | Ace Your Machine Learning and Data Science Interviews
- - [https://www.confetti.ai](https://www.confetti.ai)
- - date_published: 2022-10-13T16:01:45+00:00
-
- ## Conker for AI powered quizzes and more
- - [https://conker.ai](https://conker.ai)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Consileon AI – In Ihrem Sinne. An Ihrer Seite.
- - [https://consileon.ai](https://consileon.ai)
- - date_published: 2024-09-06T21:11:36.042936+00:00
-
- ## ConsoleX | the Ultimate Console that Unlocks Infinite AI Possibilities!
- - [https://consolex.ai](https://consolex.ai)
- - date_published: 2024-09-12T02:21:05+00:00
-
- ## AI-Driven Identity Risk Intelligence | Constella Intelligence
- - [https://constella.ai](https://constella.ai)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Content at Scale | The World's Most Humanlike AI Writer
- - [https://contentatscale.ai](https://contentatscale.ai)
- - date_published: 2023-10-24T15:51:29+00:00
-
- ## Create content 10x faster with AI
- - [https://contentblock.ai](https://contentblock.ai)
- - date_published: 2024-06-19T21:37:22.552885+00:00
-
- ## The Future of Writing is Here
- - [https://contentbot.ai](https://contentbot.ai)
- - date_published: 2024-06-19T19:48:29.633115+00:00
-
- ## Content Codex: AI-Driven Content Strategy Platform
- - [https://contentcodex.ai](https://contentcodex.ai)
- - date_published: 2024-07-13T14:13:19.219790+00:00
-
- ## ContentPie
- - [https://app.contentpie.ai](https://app.contentpie.ai)
- - date_published: 2024-09-14T07:54:46.622368+00:00
-
- ## ContentPie
- - [https://contentpie.ai](https://contentpie.ai)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Context.ai Blog
- - [https://blog.context.ai](https://blog.context.ai)
- - date_published: 2024-08-19T12:24:01.417269+00:00
-
- ## Home | Context.ai
- - [https://context.ai](https://context.ai)
- - date_published: 2023-10-25T11:37:48.609365+00:00
-
- ## What is Context.ai? | Context
- - [https://docs.context.ai](https://docs.context.ai)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Context.ai
- - [https://with.context.ai](https://with.context.ai)
- - date_published: 2024-08-19T12:23:58.115387+00:00
-
- ## Build Visual Frameworks & Mental Models Using AI | Context AI
- - [https://contextdriven.ai](https://contextdriven.ai)
- - date_published: 2024-09-12T19:41:22.050624+00:00
-
- ## Create and share beautiful and engaging annotated charts · contextualize.ai
- - [https://contextualize.ai](https://contextualize.ai)
- - date_published: 2023-10-25T11:37:51.365869+00:00
-
- ## Continual | The AI Copilot Platform for Applications
- - [https://continual.ai](https://continual.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Contlo | AI Powered Marketing Agency - Contlo
- - [https://contlo.ai](https://contlo.ai)
- - date_published: 2023-01-19T13:14:46+00:00
-
- ## ControlFlow - ControlFlow
- - [https://controlflow.ai](https://controlflow.ai)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Home | Voice AI | ConverseNow
- - [https://conversenow.ai](https://conversenow.ai)
- - date_published: 2024-09-05T22:15:32.508940+00:00
-
- ## Jasper | AI copilot for enterprise marketing teams
- - [https://www.conversion.ai](https://www.conversion.ai)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Free Image File Converter: Covert Images in a Variety of Formats - ConvertFiles.ai
- - [https://www.convertfiles.ai](https://www.convertfiles.ai)
- - date_published: 2024-05-06T14:47:13.549744+00:00
 

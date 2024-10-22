@@ -1,3 +1,119 @@
+ ## 🧙‍♀️ Welcome to Mage - Mage
+ - [https://docs.mage.ai](https://docs.mage.ai)
+ - date_published: 2024-09-15T14:50:20.563065+00:00
+
+ ## Give your data team magical powers
+ - [https://mage.ai](https://mage.ai)
+ - date_published: 2024-06-14T22:46:55.433750+00:00
+
+ ## Mage Data : Best Data Security Platform For Enterprises
+ - [https://magedata.ai](https://magedata.ai)
+ - date_published: 2024-06-19T11:08:51.998593+00:00
+
+ ## Magellan AI — Podcast advertising analytics
+ - [https://www.magellan.ai](https://www.magellan.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Gen AI Workspace - Magicflow
+ - [https://www.magicflow.ai](https://www.magicflow.ai)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## MagicForm
+ - [https://www.magicform.ai](https://www.magicform.ai)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## MagicPort - Empowering Smart and Sustainable Shipping
+ - [https://magicport.ai](https://magicport.ai)
+ - date_published: 2024-09-04T19:19:54.979795+00:00
+
+ ## Reach - Generate more sales pipeline with lead and account based triggers across multiple data sources
+ - [https://www.magicreach.ai](https://www.magicreach.ai)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## MagicSchool.ai - AI for teachers - lesson planning and more!
+ - [https://www.magicschool.ai](https://www.magicschool.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## PropertyPen
+ - [https://try.magictools.ai](https://try.magictools.ai)
+ - date_published: 2024-06-19T20:41:26.313209+00:00
+
+ ## MagicType.AI - Discover the Magic in you
+ - [https://magictype.ai](https://magictype.ai)
+ - date_published: 2024-06-19T20:05:40.194589+00:00
+
+ ## Speed Up Software Quality Assurance with AI | MagnifAI
+ - [https://magnif.ai](https://magnif.ai)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Magnific AI
+ - [https://magnific.ai](https://magnific.ai)
+ - date_published: 2024-04-28T04:38:00.866111+00:00
+
+ ## Mails.ai | AI Cold Email Software
+ - [https://mails.ai](https://mails.ai)
+ - date_published: 2024-06-19T19:06:05.241577+00:00
+
+ ## Build Beautiful landing pages Instantly With AI | Makelanding
+ - [https://makelanding.ai](https://makelanding.ai)
+ - date_published: 2024-06-19T20:39:56.397572+00:00
+
+ ## Floorplan Generator
+ - [https://platform.maket.ai](https://platform.maket.ai)
+ - date_published: 2024-09-13T20:46:13.725372+00:00
+
+ ## Generative Design | Architecture Design Software | Maket
+ - [https://maket.ai](https://maket.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Stay at the top of AI
+ - [https://mammouth.ai](https://mammouth.ai)
+ - date_published: 2024-07-10T01:49:09.171841+00:00
+
+ ## ManyTools.ai lists the best ai tools sites of 2024!
+ - [https://manytools.ai](https://manytools.ai)
+ - date_published: 2024-05-06T21:05:17.277748+00:00
+
+ ## Mapless AI - Driverless Remote Vehicle Operations
+ - [https://mapless.ai](https://mapless.ai)
+ - date_published: 2024-07-23T23:26:31.936582+00:00
+
+ ## Marcus Aurelius AI
+ - [https://marcusaurelius.ai](https://marcusaurelius.ai)
+ - date_published: 2023-11-09T07:28:27+00:00
+
+ ## MarketChair
+ - [https://app.marketchair.ai](https://app.marketchair.ai)
+ - date_published: 2024-09-15T13:47:56.591416+00:00
+
+ ## Marketology.ai
+ - [https://www.marketology.ai](https://www.marketology.ai)
+ - date_published: 2023-05-13T09:06:35+00:00
+
+ ## Launch Your All-in-One Creator Storefront | Marketsy.ai
+ - [https://marketsy.ai](https://marketsy.ai)
+ - date_published: 2024-05-10T05:29:41.570330+00:00
+
+ ## Markopolo - eCommerce growth platform
+ - [https://www.markopolo.ai](https://www.markopolo.ai)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Marqo
+ - [https://cloud.marqo.ai](https://cloud.marqo.ai)
+ - date_published: 2024-07-15T00:47:59+00:00
+
+ ## Marqo Forum
+ - [https://community.marqo.ai](https://community.marqo.ai)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Marqo
+ - [https://demo.marqo.ai](https://demo.marqo.ai)
+ - date_published: 2024-06-21T05:00:03+00:00
+
+ ## Redirecting
+ - [https://docs.marqo.ai](https://docs.marqo.ai)
+ - date_published: 2024-07-20T19:30:41.450825+00:00
+
  ## Marqo status
  - [https://status.marqo.ai](https://status.marqo.ai)
  - date_published: 2024-07-20T19:30:37.673405+00:00
@@ -123,6 +239,10 @@
  - [https://mendable.ai](https://mendable.ai)
  - date_published: 2024-07-19T19:32:18.818078+00:00
 
+ ## Mendel AI - Revolutionizing Clinical Data with AI-Powered Insights
+ - [http://mendel.ai](http://mendel.ai)
+ - date_published: 2024-10-15T00:00:00+00:00
+
  ## Mendel AI - Know More, Know Now
  - [https://www.mendel.ai](https://www.mendel.ai)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -179,6 +299,10 @@
  ## Meticulate App
  - [https://meticulate.ai](https://meticulate.ai)
  - date_published: 2024-03-14T17:29:48.537561+00:00
+
+ ## Getting Started
+ - [https://docs.meya.ai](https://docs.meya.ai)
+ - date_published: 2024-10-19T20:49:28.799554+00:00
 
  ## Meya | Chatbot Platform
  - [https://meya.ai](https://meya.ai)
@@ -368,6 +492,10 @@
  ## Molin AI — Cut your customer support by 70% with AI
  - [https://molin.ai](https://molin.ai)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Momentic | The quality you want, effortlessly
+ - [https://momentic.ai](https://momentic.ai)
+ - date_published: 2024-10-17T05:26:15.089241+00:00
 
  ## AI Governance software that goes beyond good intentions | Monitaur
  - [https://monitaur.ai](https://monitaur.ai)
@@ -566,6 +694,10 @@
  - [https://mysports.ai](https://mysports.ai)
  - date_published: 2024-09-13T20:26:32.346485+00:00
 
+ ## Mystic.ai
+ - [https://www.mystic.ai](https://www.mystic.ai)
+ - date_published: 2024-10-17T05:51:19.267119+00:00
+
  ## ChaturGPT- Get answers from your documents using AI
  - [https://chatur.mysticlabs.ai](https://chatur.mysticlabs.ai)
  - date_published: 2024-06-19T19:33:47.856043+00:00
@@ -698,6 +830,10 @@
  - [https://nextpart.ai](https://nextpart.ai)
  - date_published: 2024-03-13T00:00:00+00:00
  - tags: ['artificial intelligence bot', 'nsfw']
+
+ ## NextRead.ai - a perfect place for a book lover!
+ - [https://nextread.ai](https://nextread.ai)
+ - date_published: 2024-10-17T15:38:55.563085+00:00
 
  ## NextStarterAI
  - [https://www.nextstarter.ai](https://www.nextstarter.ai)
@@ -1239,6 +1375,10 @@
  - date_published: 2024-07-15T02:17:22.589261+00:00
 
  ## Olivia
+ - [https://stg.eu1.paradox.ai](https://stg.eu1.paradox.ai)
+ - date_published: 2024-10-22T07:05:00.987321+00:00
+
+ ## Olivia
  - [https://stg.paradox.ai](https://stg.paradox.ai)
  - date_published: 2024-06-18T13:52:20.421988+00:00
 
@@ -1372,6 +1512,10 @@
  - [https://petpic.ai](https://petpic.ai)
  - date_published: 2023-10-25T08:25:31.233721+00:00
 
+ ## Pgslot เว็บตรงที่แจกเครดิตฟรีมากที่สุด PGHENG99 พีจีสล็อตแตกหนัก
+ - [https://www.pgheng99.ai](https://www.pgheng99.ai)
+ - date_published: 2024-10-22T13:32:57.286796+00:00
+
  ## Home
  - [https://phasechange.ai](https://phasechange.ai)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -1472,6 +1616,10 @@
  - [https://pictory.ai](https://pictory.ai)
  - date_published: 2024-06-19T21:07:32.395113+00:00
 
+ ## PictureStudio: Your AI Image Generation Studio
+ - [https://picturestudio.ai](https://picturestudio.ai)
+ - date_published: 2024-10-20T20:30:47.493876+00:00
+
  ## pipl.ai - Master Cold Outreach with Smart Email Automation
  - [https://pipl.ai](https://pipl.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -1495,6 +1643,10 @@
  ## Unlock the power of modern Procurement | Pivot
  - [https://www.pivotapp.ai](https://www.pivotapp.ai)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## PixaBot - AI Avatars for D-ID video
+ - [https://pixabot.ai](https://pixabot.ai)
+ - date_published: 2024-10-18T15:45:02.622091+00:00
 
  ## Pixee Platform
  - [https://app.pixee.ai](https://app.pixee.ai)
@@ -1676,6 +1828,10 @@
  - [https://www.podengine.ai](https://www.podengine.ai)
  - date_published: 2024-09-14T22:56:26.465933+00:00
 
+ ## Podial: Generate podcasts to learn anything
+ - [https://podial.ai](https://podial.ai)
+ - date_published: 2024-10-16T18:20:38.673639+00:00
+
  ## Podcast transcripts, sponsors, and audience data - Podscribe
  - [https://app.podscribe.ai](https://app.podscribe.ai)
  - date_published: 2024-06-13T13:45:33+00:00
@@ -1731,6 +1887,14 @@
  ## Personally Tried and Tested AI Tools Directory | PopularAITools.ai
  - [https://www.popularaitools.ai](https://www.popularaitools.ai)
  - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Definitive Healthcare Platform
+ - [https://app.populi.ai](https://app.populi.ai)
+ - date_published: 2024-10-09T00:00:54+00:00
+
+ ## PortrAIt | French Digital Pathology Consortium
+ - [https://www.portraitpathology.ai](https://www.portraitpathology.ai)
+ - date_published: 2024-06-17T00:00:00+00:00
 
  ## Postersession.ai
  - [https://postersession.ai](https://postersession.ai)
@@ -1923,6 +2087,10 @@
  ## punchlines.ai :: Generate jokes with a GPT-based AI
  - [https://punchlines.ai](https://punchlines.ai)
  - date_published: 2023-10-25T11:41:38.149007+00:00
+
+ ## เว็บสล็อต PunPro777 สล็อตเว็บตรง เว็บใหญ่ที่แตกง่าย แจกเครดิตฟรีทุกวัน
+ - [https://www.punpro777.ai](https://www.punpro777.ai)
+ - date_published: 2024-10-22T14:54:33.645371+00:00
 
  ## Quackcheck
  - [https://quackcheck.puny.ai](https://quackcheck.puny.ai)
@@ -2742,6 +2910,10 @@
  - [https://saveall.ai](https://saveall.ai)
  - date_published: 2023-10-25T11:42:31.337313+00:00
 
+ ## Saywhat
+ - [https://saywhat.ai](https://saywhat.ai)
+ - date_published: 2024-10-17T13:58:16.049996+00:00
+
  ## Small Business AI chat - Your AI powered support agent with 24/7 availability
  - [https://sbhelper.ai](https://sbhelper.ai)
  - date_published: 2024-07-19T23:01:58.957940+00:00
@@ -2983,6 +3155,10 @@
  - [https://shiken.ai](https://shiken.ai)
  - date_published: 2024-06-12T00:00:00+00:00
 
+ ## Home
+ - [https://shimmr.ai](https://shimmr.ai)
+ - date_published: 2024-10-20T23:41:22.991923+00:00
+
  ## Shopbox App
  - [https://widget.shopbox.ai](https://widget.shopbox.ai)
  - date_published: 2024-04-29T02:31:46.446419+00:00
@@ -3172,6 +3348,10 @@
  - [https://smartlifeskills.ai](https://smartlifeskills.ai)
  - date_published: 2024-05-31T00:00:00+00:00
 
+ ## Smartloop AI
+ - [https://smartloop.ai](https://smartloop.ai)
+ - date_published: 2024-10-19T23:41:13.130010+00:00
+
  ## Smart Tools AI - Help You Find or Build Your Suitable AI
  - [https://www.smart-tools.ai](https://www.smart-tools.ai)
  - date_published: 2024-08-19T07:13:24.952509+00:00
@@ -3301,6 +3481,10 @@
  ## AI Rendering Solutions for Interior, Room and Home Design | Spacely AI
  - [https://www.spacely.ai](https://www.spacely.ai)
  - date_published: 2024-06-19T19:50:40.383023+00:00
+
+ ## SpamCheck.ai - AI-Powered Spam Detection & Prevention
+ - [https://spamcheck.ai](https://spamcheck.ai)
+ - date_published: 2024-10-18T05:40:48.292998+00:00
 
  ## Spatial.ai – Know your best customers and reach them faster
  - [https://www.spatial.ai](https://www.spatial.ai)
@@ -3835,191 +4019,4 @@
  ## Tarteel Feedback
  - [https://feedback.tarteel.ai](https://feedback.tarteel.ai)
  - date_published: 2024-01-17T00:00:00+00:00
-
- ## Tarteel
- - [https://support.tarteel.ai](https://support.tarteel.ai)
- - date_published: 2024-08-19T12:07:43.988816+00:00
-
- ## Tarteel - Recite the Quran Confidently
- - [https://tarteel.ai](https://tarteel.ai)
- - date_published: 2023-10-25T11:43:16.959219+00:00
-
- ## TAWNY
- - [https://www.tawny.ai](https://www.tawny.ai)
- - date_published: 2024-06-20T15:38:32.738108+00:00
-
- ## teachology.ai - The Ultimate for AI Lesson Plans
- - [https://www.teachology.ai](https://www.teachology.ai)
- - date_published: 2024-05-10T18:04:45+00:00
-
- ## The ChatGPT Chrome extension - TeamSmart AI
- - [https://teamsmart.ai](https://teamsmart.ai)
- - date_published: 2023-10-25T11:43:23.768563+00:00
-
- ## Tech Monitor - Navigating the horizon of business technology​
- - [https://techmonitor.ai](https://techmonitor.ai)
- - date_published: 2023-10-25T11:43:36.366924+00:00
-
- - [http://technomancers.ai](http://technomancers.ai)
- - date_published: 2023-10-25T11:44:12.511907+00:00
-
- ## Home - Techstrong.ai
- - [https://techstrong.ai](https://techstrong.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Tecton Documentation | Tecton
- - [https://docs.tecton.ai](https://docs.tecton.ai)
- - date_published: 2024-08-18T11:19:32.904053+00:00
-
- ## Machine Learning Resources | Tecton
- - [https://resources.tecton.ai](https://resources.tecton.ai)
- - date_published: 2024-08-18T11:19:37.673251+00:00
-
- ## Feature Platform for Machine Learning | Tecton
- - [https://tecton.ai](https://tecton.ai)
- - date_published: 2023-12-06T00:28:48.196331+00:00
-
- ## Tegon documentation - Docs
- - [https://docs.tegon.ai](https://docs.tegon.ai)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Tegon - The AI-first project management tool
- - [https://tegon.ai](https://tegon.ai)
- - date_published: 2024-04-30T00:00:00+00:00
- - tags: ['open source', 'project management']
-
- ## Telegram Bots AI — Supercharge Telegram with AI Bots ✨
- - [https://telegrambots.ai](https://telegrambots.ai)
- - date_published: 2024-05-08T04:51:42.482776+00:00
-
- ## Autonomous AI agent that runs expert B2B blog to generate leads
- - [https://app.tely.ai](https://app.tely.ai)
- - date_published: 2024-09-14T07:46:53.943464+00:00
-
- ## Sign up
- - [https://partners.tely.ai](https://partners.tely.ai)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Home Sign up
- - [https://tely.ai](https://tely.ai)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Tended.ai - RFP automation platform powered by AI
- - [https://www.tended.ai](https://www.tended.ai)
- - date_published: 2024-06-19T20:41:07.323768+00:00
-
- ## Tendi | Your Personal AI Financial Advisor
- - [https://tendi.ai](https://tendi.ai)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## TensorOps | Your AI Partners
- - [https://www.tensorops.ai](https://www.tensorops.ai)
- - date_published: 2024-09-04T19:13:26.258247+00:00
-
- ## Tesseract Analytics & AI – For Data-Driven Decisions
- - [https://tesseractanalytics.ai](https://tesseractanalytics.ai)
- - date_published: 2023-10-25T11:44:18.736977+00:00
-
- ## TestDriver.ai - AI QA Agent
- - [https://testdriver.ai](https://testdriver.ai)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Teton - Advanced Patient Monitoring
- - [https://www.teton.ai](https://www.teton.ai)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## TEXT2SQL.AI - Generate SQL queries with AI for Free!
- - [https://www.text2sql.ai](https://www.text2sql.ai)
- - date_published: 2024-06-19T19:27:24.431480+00:00
-
- ## Texta - AI blog writer and article ideas generator.
- - [https://texta.ai](https://texta.ai)
- - date_published: 2024-06-19T18:48:21.441178+00:00
-
- ## TextBrew: automated product description generator
- - [https://textbrew.ai](https://textbrew.ai)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Textero AI Essay Writer
- - [https://textero.ai](https://textero.ai)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## AI Humanizer and AI Remover Tool ⭐️ TextFlip
- - [https://textflip.ai](https://textflip.ai)
- - date_published: 2011-05-20T18:49:43+00:00
-
- ## Textify
- - [https://textify.ai](https://textify.ai)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Thalamus
- - [https://thalamus.ai](https://thalamus.ai)
- - date_published: 2024-07-09T18:05:34.881702+00:00
-
- ## Login
-	
-	-Gladly
- - [https://dashboard.thankful.ai](https://dashboard.thankful.ai)
- - date_published: 2024-06-16T06:26:54.112314+00:00
-
- ## Home | AI Alliance
- - [https://thealliance.ai](https://thealliance.ai)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## The Drive AI: Revolutionizing File Management & Knowledge Bases
- - [https://www.thedrive.ai](https://www.thedrive.ai)
- - date_published: 2024-06-19T18:54:18.215091+00:00
-
- ## Use Best AI Tools Free Online | Theee AI
- - [https://theee.ai](https://theee.ai)
- - date_published: 2024-09-14T08:19:15.308536+00:00
-
- ## The Fastest AI
- - [https://thefastest.ai](https://thefastest.ai)
- - date_published: 2024-04-26T04:00:00+00:00
- - tags: ['artificial intelligence', 'machine learning', 'performance test']
-
- ## theGist | Unified AI Workspace to supercharge your enterprise
- - [https://www.thegist.ai](https://www.thegist.ai)
- - date_published: 2024-06-19T19:37:53.324330+00:00
-
- ## The Inside View
- - [https://theinsideview.ai](https://theinsideview.ai)
- - date_published: 2024-02-11T00:00:00+00:00
-
- ## Keys
- - [https://www.thekeys.ai](https://www.thekeys.ai)
- - date_published: 2023-11-30T00:00:00+00:00
-
- ## Generate in-depth, SEO-focused content on any subject • Lede
- - [https://thelede.ai](https://thelede.ai)
- - date_published: 2024-06-14T09:00:03.674209+00:00
-
- ## Artificial Intelligence Solutions for Call Centers | Level AI
- - [https://thelevel.ai](https://thelevel.ai)
- - date_published: 2024-06-19T20:39:30.576005+00:00
-
- ## Turn your selfies into studio-quality professional headshots with AI
- - [https://www.themultiverse.ai](https://www.themultiverse.ai)
- - date_published: 2024-06-19T20:03:16.281962+00:00
-
- ## Theoriq: Collaborative Autonomous Intelligence on a decentralized network
- - [https://www.theoriq.ai](https://www.theoriq.ai)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## The Rundown AI
- - [http://therundown.ai](http://therundown.ai)
- - date_published: 2024-08-06T05:44:22+00:00
-
- ## Camel AGI
- - [https://camelagi.thesamur.ai](https://camelagi.thesamur.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## EmbedAI
- - [https://embedai.thesamur.ai](https://embedai.thesamur.ai)
- - date_published: 2024-06-19T19:04:04.835430+00:00
-
- ## LangGPT
- - [https://lang.thesamur.ai](https://lang.thesamur.ai)
- - date_published: 2024-06-19T00:00:00+00:00
 

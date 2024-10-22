@@ -1,3 +1,95 @@
+ ## Confetti AI | Ace Your Machine Learning and Data Science Interviews
+ - [https://www.confetti.ai](https://www.confetti.ai)
+ - date_published: 2022-10-13T16:01:45+00:00
+
+ ## Conker for AI powered quizzes and more
+ - [https://conker.ai](https://conker.ai)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Consileon AI – In Ihrem Sinne. An Ihrer Seite.
+ - [https://consileon.ai](https://consileon.ai)
+ - date_published: 2024-09-06T21:11:36.042936+00:00
+
+ ## ConsoleX | the Ultimate Console that Unlocks Infinite AI Possibilities!
+ - [https://consolex.ai](https://consolex.ai)
+ - date_published: 2024-09-12T02:21:05+00:00
+
+ ## AI-Driven Identity Risk Intelligence | Constella Intelligence
+ - [https://constella.ai](https://constella.ai)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Content at Scale | The World's Most Humanlike AI Writer
+ - [https://contentatscale.ai](https://contentatscale.ai)
+ - date_published: 2023-10-24T15:51:29+00:00
+
+ ## Create content 10x faster with AI
+ - [https://contentblock.ai](https://contentblock.ai)
+ - date_published: 2024-06-19T21:37:22.552885+00:00
+
+ ## The Future of Writing is Here
+ - [https://contentbot.ai](https://contentbot.ai)
+ - date_published: 2024-06-19T19:48:29.633115+00:00
+
+ ## Content Codex: AI-Driven Content Strategy Platform
+ - [https://contentcodex.ai](https://contentcodex.ai)
+ - date_published: 2024-07-13T14:13:19.219790+00:00
+
+ ## ContentPie
+ - [https://app.contentpie.ai](https://app.contentpie.ai)
+ - date_published: 2024-09-14T07:54:46.622368+00:00
+
+ ## ContentPie
+ - [https://contentpie.ai](https://contentpie.ai)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Context.ai Blog
+ - [https://blog.context.ai](https://blog.context.ai)
+ - date_published: 2024-08-19T12:24:01.417269+00:00
+
+ ## Home | Context.ai
+ - [https://context.ai](https://context.ai)
+ - date_published: 2023-10-25T11:37:48.609365+00:00
+
+ ## What is Context.ai? | Context
+ - [https://docs.context.ai](https://docs.context.ai)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Context.ai
+ - [https://with.context.ai](https://with.context.ai)
+ - date_published: 2024-08-19T12:23:58.115387+00:00
+
+ ## Build Visual Frameworks & Mental Models Using AI | Context AI
+ - [https://contextdriven.ai](https://contextdriven.ai)
+ - date_published: 2024-09-12T19:41:22.050624+00:00
+
+ ## Create and share beautiful and engaging annotated charts · contextualize.ai
+ - [https://contextualize.ai](https://contextualize.ai)
+ - date_published: 2023-10-25T11:37:51.365869+00:00
+
+ ## Continual | The AI Copilot Platform for Applications
+ - [https://continual.ai](https://continual.ai)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Contlo | AI Powered Marketing Agency - Contlo
+ - [https://contlo.ai](https://contlo.ai)
+ - date_published: 2023-01-19T13:14:46+00:00
+
+ ## ControlFlow - ControlFlow
+ - [https://controlflow.ai](https://controlflow.ai)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Home | Voice AI | ConverseNow
+ - [https://conversenow.ai](https://conversenow.ai)
+ - date_published: 2024-09-05T22:15:32.508940+00:00
+
+ ## Jasper | AI copilot for enterprise marketing teams
+ - [https://www.conversion.ai](https://www.conversion.ai)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Free Image File Converter: Covert Images in a Variety of Formats - ConvertFiles.ai
+ - [https://www.convertfiles.ai](https://www.convertfiles.ai)
+ - date_published: 2024-05-06T14:47:13.549744+00:00
+
  ## ConvoStack
  - [https://convostack.ai](https://convostack.ai)
  - date_published: 2024-06-19T20:06:49.299627+00:00
@@ -345,6 +437,10 @@
  - [http://data.ai](http://data.ai)
  - date_published: 2024-06-16T13:00:28.675228+00:00
 
+ ## Databar.ai | Automate data collection without code
+ - [https://databar.ai](https://databar.ai)
+ - date_published: 2024-10-21T06:02:34.958622+00:00
+
  ## DataBorg -  Hypercharge your data
  - [https://databorg.ai](https://databorg.ai)
  - date_published: 2023-10-25T11:37:55.764213+00:00
@@ -357,9 +453,9 @@
  - [https://www.datacomp.ai](https://www.datacomp.ai)
  - date_published: 2024-05-04T15:29:05.304344+00:00
 
- ## Data Council 2024
- - [https://www.datacouncil.ai](https://www.datacouncil.ai)
- - date_published: 2024-07-01T18:53:02+00:00
+ ## Home
+ - [https://datacouncil.ai](https://datacouncil.ai)
+ - date_published: 2024-10-18T07:20:58.895639+00:00
 
  - [https://console.dataherald.ai](https://console.dataherald.ai)
  - date_published: 2024-02-14T21:17:08.089087+00:00
@@ -792,6 +888,10 @@
  - [https://duck.ai](https://duck.ai)
  - date_published: 2024-07-02T20:20:30.408207+00:00
 
+ ## DUI开放平台-全链路智能对话开放平台-思必驰AISpeech
+ - [http://www.dui.ai](http://www.dui.ai)
+ - date_published: 2024-10-21T06:59:01.571348+00:00
+
  ## Durable - Custom Software: Designed by you, Built by Generative AI.
  - [https://durable.ai](https://durable.ai)
  - date_published: 2024-05-29T16:52:40+00:00
@@ -887,6 +987,10 @@
  ## Box - Sign In
  - [https://box.eightfold.ai](https://box.eightfold.ai)
  - date_published: 2024-09-26T20:53:16.177365+00:00
+
+ ## AI talent acquisition & recruiting platform | eightfold.ai
+ - [https://eightfold.ai](https://eightfold.ai)
+ - date_published: 2024-10-19T18:15:58.038051+00:00
 
  ## MLP - Sign In
  - [https://mlp.eightfold.ai](https://mlp.eightfold.ai)
@@ -1904,6 +2008,10 @@
  ## Glaive - Language models for all
  - [https://glaive.ai](https://glaive.ai)
  - date_published: 2024-10-04T04:56:04.152012+00:00
+
+ ## ChatGPT for teams
+ - [https://glama.ai](https://glama.ai)
+ - date_published: 2024-10-17T23:13:03.043559+00:00
 
  ## Glean.ai | Accounts Payable Spend Intelligence
  - [https://glean.ai](https://glean.ai)
@@ -3238,6 +3346,10 @@
  - [https://www.knowbuddy.ai](https://www.knowbuddy.ai)
  - date_published: 2023-03-31T00:00:00+00:00
 
+ ## KnowledgePit
+ - [https://knowledgepit.ai](https://knowledgepit.ai)
+ - date_published: 2024-10-18T20:30:01.430368+00:00
+
  ## Knowlee AI
  - [https://app.knowlee.ai](https://app.knowlee.ai)
  - date_published: 2024-09-13T20:37:37.392748+00:00
@@ -3345,6 +3457,10 @@
  ## Cierpliwości...
  - [https://kupid.ai](https://kupid.ai)
  - date_published: 2024-06-19T20:42:11.272009+00:00
+
+ ## KushoAI
+ - [https://blog.kusho.ai](https://blog.kusho.ai)
+ - date_published: 2024-10-18T14:31:25.233749+00:00
 
  ## Kwai
  - [https://s.kw.ai](https://s.kw.ai)
@@ -3898,120 +4014,4 @@
  ## macky
  - [https://macky.ai](https://macky.ai)
  - date_published: 2024-06-14T08:53:46.619734+00:00
-
- ## 🧙‍♀️ Welcome to Mage - Mage
- - [https://docs.mage.ai](https://docs.mage.ai)
- - date_published: 2024-09-15T14:50:20.563065+00:00
-
- ## Give your data team magical powers
- - [https://mage.ai](https://mage.ai)
- - date_published: 2024-06-14T22:46:55.433750+00:00
-
- ## Mage Data : Best Data Security Platform For Enterprises
- - [https://magedata.ai](https://magedata.ai)
- - date_published: 2024-06-19T11:08:51.998593+00:00
-
- ## Magellan AI — Podcast advertising analytics
- - [https://www.magellan.ai](https://www.magellan.ai)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Gen AI Workspace - Magicflow
- - [https://www.magicflow.ai](https://www.magicflow.ai)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## MagicForm
- - [https://www.magicform.ai](https://www.magicform.ai)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## MagicPort - Empowering Smart and Sustainable Shipping
- - [https://magicport.ai](https://magicport.ai)
- - date_published: 2024-09-04T19:19:54.979795+00:00
-
- ## Reach - Generate more sales pipeline with lead and account based triggers across multiple data sources
- - [https://www.magicreach.ai](https://www.magicreach.ai)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## MagicSchool.ai - AI for teachers - lesson planning and more!
- - [https://www.magicschool.ai](https://www.magicschool.ai)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## PropertyPen
- - [https://try.magictools.ai](https://try.magictools.ai)
- - date_published: 2024-06-19T20:41:26.313209+00:00
-
- ## MagicType.AI - Discover the Magic in you
- - [https://magictype.ai](https://magictype.ai)
- - date_published: 2024-06-19T20:05:40.194589+00:00
-
- ## Speed Up Software Quality Assurance with AI | MagnifAI
- - [https://magnif.ai](https://magnif.ai)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Magnific AI
- - [https://magnific.ai](https://magnific.ai)
- - date_published: 2024-04-28T04:38:00.866111+00:00
-
- ## Mails.ai | AI Cold Email Software
- - [https://mails.ai](https://mails.ai)
- - date_published: 2024-06-19T19:06:05.241577+00:00
-
- ## Build Beautiful landing pages Instantly With AI | Makelanding
- - [https://makelanding.ai](https://makelanding.ai)
- - date_published: 2024-06-19T20:39:56.397572+00:00
-
- ## Floorplan Generator
- - [https://platform.maket.ai](https://platform.maket.ai)
- - date_published: 2024-09-13T20:46:13.725372+00:00
-
- ## Generative Design | Architecture Design Software | Maket
- - [https://maket.ai](https://maket.ai)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Stay at the top of AI
- - [https://mammouth.ai](https://mammouth.ai)
- - date_published: 2024-07-10T01:49:09.171841+00:00
-
- ## ManyTools.ai lists the best ai tools sites of 2024!
- - [https://manytools.ai](https://manytools.ai)
- - date_published: 2024-05-06T21:05:17.277748+00:00
-
- ## Mapless AI - Driverless Remote Vehicle Operations
- - [https://mapless.ai](https://mapless.ai)
- - date_published: 2024-07-23T23:26:31.936582+00:00
-
- ## Marcus Aurelius AI
- - [https://marcusaurelius.ai](https://marcusaurelius.ai)
- - date_published: 2023-11-09T07:28:27+00:00
-
- ## MarketChair
- - [https://app.marketchair.ai](https://app.marketchair.ai)
- - date_published: 2024-09-15T13:47:56.591416+00:00
-
- ## Marketology.ai
- - [https://www.marketology.ai](https://www.marketology.ai)
- - date_published: 2023-05-13T09:06:35+00:00
-
- ## Launch Your All-in-One Creator Storefront | Marketsy.ai
- - [https://marketsy.ai](https://marketsy.ai)
- - date_published: 2024-05-10T05:29:41.570330+00:00
-
- ## Markopolo - eCommerce growth platform
- - [https://www.markopolo.ai](https://www.markopolo.ai)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Marqo
- - [https://cloud.marqo.ai](https://cloud.marqo.ai)
- - date_published: 2024-07-15T00:47:59+00:00
-
- ## Marqo Forum
- - [https://community.marqo.ai](https://community.marqo.ai)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Marqo
- - [https://demo.marqo.ai](https://demo.marqo.ai)
- - date_published: 2024-06-21T05:00:03+00:00
-
- ## Redirecting
- - [https://docs.marqo.ai](https://docs.marqo.ai)
- - date_published: 2024-07-20T19:30:41.450825+00:00
 

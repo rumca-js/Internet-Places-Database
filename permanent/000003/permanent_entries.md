@@ -1,3 +1,190 @@
+ ## Tarteel
+ - [https://support.tarteel.ai](https://support.tarteel.ai)
+ - date_published: 2024-08-19T12:07:43.988816+00:00
+
+ ## Tarteel - Recite the Quran Confidently
+ - [https://tarteel.ai](https://tarteel.ai)
+ - date_published: 2023-10-25T11:43:16.959219+00:00
+
+ ## TAWNY
+ - [https://www.tawny.ai](https://www.tawny.ai)
+ - date_published: 2024-06-20T15:38:32.738108+00:00
+
+ ## teachology.ai - The Ultimate for AI Lesson Plans
+ - [https://www.teachology.ai](https://www.teachology.ai)
+ - date_published: 2024-05-10T18:04:45+00:00
+
+ ## The ChatGPT Chrome extension - TeamSmart AI
+ - [https://teamsmart.ai](https://teamsmart.ai)
+ - date_published: 2023-10-25T11:43:23.768563+00:00
+
+ ## Tech Monitor - Navigating the horizon of business technology​
+ - [https://techmonitor.ai](https://techmonitor.ai)
+ - date_published: 2023-10-25T11:43:36.366924+00:00
+
+ - [http://technomancers.ai](http://technomancers.ai)
+ - date_published: 2023-10-25T11:44:12.511907+00:00
+
+ ## Home - Techstrong.ai
+ - [https://techstrong.ai](https://techstrong.ai)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Tecton Documentation | Tecton
+ - [https://docs.tecton.ai](https://docs.tecton.ai)
+ - date_published: 2024-08-18T11:19:32.904053+00:00
+
+ ## Machine Learning Resources | Tecton
+ - [https://resources.tecton.ai](https://resources.tecton.ai)
+ - date_published: 2024-08-18T11:19:37.673251+00:00
+
+ ## Feature Platform for Machine Learning | Tecton
+ - [https://tecton.ai](https://tecton.ai)
+ - date_published: 2023-12-06T00:28:48.196331+00:00
+
+ ## Tegon documentation - Docs
+ - [https://docs.tegon.ai](https://docs.tegon.ai)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Tegon - The AI-first project management tool
+ - [https://tegon.ai](https://tegon.ai)
+ - date_published: 2024-04-30T00:00:00+00:00
+ - tags: ['open source', 'project management']
+
+ ## Telegram Bots AI — Supercharge Telegram with AI Bots ✨
+ - [https://telegrambots.ai](https://telegrambots.ai)
+ - date_published: 2024-05-08T04:51:42.482776+00:00
+
+ ## Autonomous AI agent that runs expert B2B blog to generate leads
+ - [https://app.tely.ai](https://app.tely.ai)
+ - date_published: 2024-09-14T07:46:53.943464+00:00
+
+ ## Sign up
+ - [https://partners.tely.ai](https://partners.tely.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Home Sign up
+ - [https://tely.ai](https://tely.ai)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Tended.ai - RFP automation platform powered by AI
+ - [https://www.tended.ai](https://www.tended.ai)
+ - date_published: 2024-06-19T20:41:07.323768+00:00
+
+ ## Tendi | Your Personal AI Financial Advisor
+ - [https://tendi.ai](https://tendi.ai)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## TensorOps | Your AI Partners
+ - [https://www.tensorops.ai](https://www.tensorops.ai)
+ - date_published: 2024-09-04T19:13:26.258247+00:00
+
+ ## Tesseract Analytics & AI – For Data-Driven Decisions
+ - [https://tesseractanalytics.ai](https://tesseractanalytics.ai)
+ - date_published: 2023-10-25T11:44:18.736977+00:00
+
+ ## TestDriver.ai - AI QA Agent
+ - [https://testdriver.ai](https://testdriver.ai)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Teton - Advanced Patient Monitoring
+ - [https://www.teton.ai](https://www.teton.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## TEXT2SQL.AI - Generate SQL queries with AI for Free!
+ - [https://www.text2sql.ai](https://www.text2sql.ai)
+ - date_published: 2024-06-19T19:27:24.431480+00:00
+
+ ## Texta - AI blog writer and article ideas generator.
+ - [https://texta.ai](https://texta.ai)
+ - date_published: 2024-06-19T18:48:21.441178+00:00
+
+ ## TextBrew: automated product description generator
+ - [https://textbrew.ai](https://textbrew.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Textero AI Essay Writer
+ - [https://textero.ai](https://textero.ai)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## AI Humanizer and AI Remover Tool ⭐️ TextFlip
+ - [https://textflip.ai](https://textflip.ai)
+ - date_published: 2011-05-20T18:49:43+00:00
+
+ ## Textify
+ - [https://textify.ai](https://textify.ai)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Thalamus
+ - [https://thalamus.ai](https://thalamus.ai)
+ - date_published: 2024-07-09T18:05:34.881702+00:00
+
+ ## Login
+	
+	-Gladly
+ - [https://dashboard.thankful.ai](https://dashboard.thankful.ai)
+ - date_published: 2024-06-16T06:26:54.112314+00:00
+
+ ## Home | AI Alliance
+ - [https://thealliance.ai](https://thealliance.ai)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## The Drive AI: Revolutionizing File Management & Knowledge Bases
+ - [https://www.thedrive.ai](https://www.thedrive.ai)
+ - date_published: 2024-06-19T18:54:18.215091+00:00
+
+ ## Use Best AI Tools Free Online | Theee AI
+ - [https://theee.ai](https://theee.ai)
+ - date_published: 2024-09-14T08:19:15.308536+00:00
+
+ ## The Fastest AI
+ - [https://thefastest.ai](https://thefastest.ai)
+ - date_published: 2024-04-26T04:00:00+00:00
+ - tags: ['artificial intelligence', 'machine learning', 'performance test']
+
+ ## theGist | Unified AI Workspace to supercharge your enterprise
+ - [https://www.thegist.ai](https://www.thegist.ai)
+ - date_published: 2024-06-19T19:37:53.324330+00:00
+
+ ## The Inside View
+ - [https://theinsideview.ai](https://theinsideview.ai)
+ - date_published: 2024-02-11T00:00:00+00:00
+
+ ## Keys
+ - [https://www.thekeys.ai](https://www.thekeys.ai)
+ - date_published: 2023-11-30T00:00:00+00:00
+
+ ## Generate in-depth, SEO-focused content on any subject • Lede
+ - [https://thelede.ai](https://thelede.ai)
+ - date_published: 2024-06-14T09:00:03.674209+00:00
+
+ ## Artificial Intelligence Solutions for Call Centers | Level AI
+ - [https://thelevel.ai](https://thelevel.ai)
+ - date_published: 2024-06-19T20:39:30.576005+00:00
+
+ ## Turn your selfies into studio-quality professional headshots with AI
+ - [https://www.themultiverse.ai](https://www.themultiverse.ai)
+ - date_published: 2024-06-19T20:03:16.281962+00:00
+
+ ## Theoriq: Collaborative Autonomous Intelligence on a decentralized network
+ - [https://www.theoriq.ai](https://www.theoriq.ai)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## The Rundown AI
+ - [http://therundown.ai](http://therundown.ai)
+ - date_published: 2024-08-06T05:44:22+00:00
+
+ ## Camel AGI
+ - [https://camelagi.thesamur.ai](https://camelagi.thesamur.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## EmbedAI
+ - [https://embedai.thesamur.ai](https://embedai.thesamur.ai)
+ - date_published: 2024-06-19T19:04:04.835430+00:00
+
+ ## LangGPT
+ - [https://lang.thesamur.ai](https://lang.thesamur.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
  ## MemeJourney
  - [https://memegpt.thesamur.ai](https://memegpt.thesamur.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -109,6 +296,10 @@
  ## Quickstart
  - [https://docs.together.ai](https://docs.together.ai)
  - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Together AI status
+ - [http://status.together.ai](http://status.together.ai)
+ - date_published: 2024-10-17T15:37:33.114646+00:00
 
  ## Help Center
  - [https://support.together.ai](https://support.together.ai)
@@ -225,6 +416,10 @@
  ## Build a World of Audio for your Audience | Trinity Audio
  - [https://trinityaudio.ai](https://trinityaudio.ai)
  - date_published: 2024-06-19T05:51:32.450539+00:00
+
+ ## TRINITY serving domain
+ - [https://trinitymedia.ai](https://trinitymedia.ai)
+ - date_published: 2024-10-17T05:22:38.291080+00:00
 
  ## Trinka: AI Writing and Grammar Checker Tool
  - [https://www.trinka.ai](https://www.trinka.ai)
@@ -350,6 +545,10 @@
  ## AI Voice Generator with Emotional Text to Speech
  - [https://typecast.ai](https://typecast.ai)
  - date_published: 2024-06-19T12:08:01+00:00
+
+ ## Typedef - A New Paradigm in Data Infrastructure and Data Engineering Tools
+ - [https://www.typedef.ai](https://www.typedef.ai)
+ - date_published: 2024-10-17T14:48:02.907842+00:00
 
  ## Typeface | Personalized AI Storytelling for Work
  - [https://www.typeface.ai](https://www.typeface.ai)
@@ -494,6 +693,10 @@
  - [https://www.unitedrobots.ai](https://www.unitedrobots.ai)
  - date_published: 2024-07-02T05:37:01+00:00
 
+ ## TrialPioneer - Unlearn
+ - [https://portal.unlearn.ai](https://portal.unlearn.ai)
+ - date_published: 2024-10-16T18:13:24.134729+00:00
+
  ## Optimize Clinical Trials with AI-powered Digital Twins
  - [https://unlearn.ai](https://unlearn.ai)
  - date_published: 2024-06-12T00:00:00+00:00
@@ -534,6 +737,10 @@
  ## Upollo | Know who is ready to convert, upgrade or churn and why
  - [https://upollo.ai](https://upollo.ai)
  - date_published: 2024-01-18T00:00:00+00:00
+
+ ## UpscaleVideo.ai - Enhance video resolution using AI on Windows and Mac
+ - [https://upscalevideo.ai](https://upscalevideo.ai)
+ - date_published: 2024-10-13T03:26:42+00:00
 
  ## AI-Powered IELTS Writing Assistant | Improve Your Score with Mock Tests & Instant Feedback
  - [https://upscore.ai](https://upscore.ai)
@@ -1256,6 +1463,10 @@ Creative Solutions
  - date_published: 2023-05-26T05:32:29+00:00
  - tags: ['personal']
 
+ ## Generative AI - Use Cases | Assessment | Labs | Services
+ - [https://xite.ai](https://xite.ai)
+ - date_published: 2024-10-20T08:30:48.281698+00:00
+
  ## XLANG Lab
  - [https://www.xlang.ai](https://www.xlang.ai)
  - date_published: 2024-04-11T00:00:00+00:00
@@ -1721,6 +1932,10 @@ Creative Solutions
  ## Naval
  - [https://nav.al](https://nav.al)
  - date_published: 2023-10-25T11:45:20.135109+00:00
+
+ ## neoliberal
+ - [https://mastodo.neoliber.al](https://mastodo.neoliber.al)
+ - date_published: 2024-10-16T10:30:38.029842+00:00
 
  ## Workshops | Nihal Ahmed | Ikigai Coach
  - [https://nih.al](https://nih.al)
@@ -2666,6 +2881,14 @@ Creative Solutions
  - [https://adblockpro.app](https://adblockpro.app)
  - date_published: 2024-06-06T18:54:46+00:00
 
+ ## Home | AdventureLog
+ - [https://adventurelog.app](https://adventurelog.app)
+ - date_published: 2024-10-16T14:08:38.216879+00:00
+
+ ## Adventure Log | Adventure Log
+ - [https://docs.adventurelog.app](https://docs.adventurelog.app)
+ - date_published: 2024-10-16T14:08:39+00:00
+
  ## Aether
  - [https://aether.app](https://aether.app)
  - date_published: 2024-09-14T08:52:14.172161+00:00
@@ -2750,6 +2973,10 @@ Creative Solutions
  ## Welcome to All Quiet! - All Quiet Documentation
  - [https://docs.allquiet.app](https://docs.allquiet.app)
  - date_published: 2024-08-19T11:57:27.392081+00:00
+
+ ## Show HN: Ambulate – Detailed Trip Planning
+ - [https://ambulate.app](https://ambulate.app)
+ - date_published: 2024-10-22T12:19:43+00:00
 
  ## ampcast
  - [https://ampcast.app](https://ampcast.app)
@@ -2944,6 +3171,10 @@ Creative Solutions
  ## Beatmapper
  - [https://beatmapper.app](https://beatmapper.app)
  - date_published: 2023-11-20T03:27:41+00:00
+
+ ## Winchester Beer Cheese Festival
+ - [https://beercheesefestival.app](https://beercheesefestival.app)
+ - date_published: 2024-10-19T18:04:48.377305+00:00
 
  ## BEEVIRAL | Account | Login
  - [https://sim.beeviral.app](https://sim.beeviral.app)
@@ -3769,6 +4000,10 @@ Creative Solutions
  - [https://digiwall.app](https://digiwall.app)
  - date_published: 2024-06-19T22:12:03.314315+00:00
 
+ ## Завантажуйте застосунок Дія
+ - [https://go.diia.app](https://go.diia.app)
+ - date_published: 2024-10-19T23:12:45.068932+00:00
+
  ## Loading…
  - [https://belkins.directus.app](https://belkins.directus.app)
  - date_published: 2024-10-05T23:46:26.583671+00:00
@@ -3788,236 +4023,4 @@ Creative Solutions
  ## Loading…
  - [https://tv.directus.app](https://tv.directus.app)
  - date_published: 2024-05-19T02:57:34.991470+00:00
-
- ## Dispensed.app
- - [https://about.dispensed.app](https://about.dispensed.app)
- - date_published: 2024-09-02T09:45:00.376341+00:00
-
- ## Doc Converter - Convert PDF files to Word documents (docx)
- - [https://docconverter.app](https://docconverter.app)
- - date_published: 2023-01-27T22:04:55+00:00
-
- ## Docstr
- - [https://docstr.app](https://docstr.app)
- - date_published: 2024-08-18T22:04:05.747224+00:00
-
- ## Login
- - [https://donate2.app](https://donate2.app)
- - date_published: 2024-07-09T16:50:07.318706+00:00
-
- ## DoubleLoop
- - [https://app.doubleloop.app](https://app.doubleloop.app)
- - date_published: 2024-07-04T02:41:16.522866+00:00
-
- ## DoubleLoop Blog
- - [https://blog.doubleloop.app](https://blog.doubleloop.app)
- - date_published: 2024-07-04T02:41:13.856305+00:00
-
- ## Quickstart to Impact-Oriented Strategy | DoubleLoop
- - [https://docs.doubleloop.app](https://docs.doubleloop.app)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## DoubleLoop – Develop an impact-oriented strategy
- - [https://doubleloop.app](https://doubleloop.app)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Drakula.app: earn using social media.
- - [https://drakula.app](https://drakula.app)
- - date_published: 2024-07-18T01:18:28+00:00
-
- ## Draw Anything - Stable Diffusion Playground
- - [https://drawanything.app](https://drawanything.app)
- - date_published: 2023-10-25T11:46:04.375493+00:00
-
- ## Dream Voyage - Unlock the Mysteries of Your Dreams
- - [https://dreamore.app](https://dreamore.app)
- - date_published: 2024-06-19T19:55:29.506273+00:00
-
- ## DropScout | Save Money on Amazon with Price Alerts!
- - [https://www.dropscout.app](https://www.dropscout.app)
- - date_published: 2024-08-05T20:58:40.227959+00:00
-
- ## Dropshare Apps - upload anything anywhere on macOS and iOS
- - [https://dropshare.app](https://dropshare.app)
- - date_published: 2024-06-23T05:56:07.203872+00:00
-
- ## Duck, a chat-based note app for your knowledge base
- - [https://site.ducknote.app](https://site.ducknote.app)
- - date_published: 2023-10-25T11:46:05.662968+00:00
-
- ## Duck — note-taking application via chat
- - [https://www.ducknote.app](https://www.ducknote.app)
- - date_published: 2024-08-19T11:50:30.643253+00:00
-
- ## Dunatis.App
- - [https://dunatis.app](https://dunatis.app)
- - date_published: 2024-07-12T16:11:46.360299+00:00
-
- ## Duolicious | Meet People Who Get You | Date, Make Friends & Chat
- - [https://duolicious.app](https://duolicious.app)
- - date_published: 2024-05-17T02:55:36.190670+00:00
-
- ## Duolicious
- - [https://web.duolicious.app](https://web.duolicious.app)
- - date_published: 2024-07-20T04:55:39.841080+00:00
-
- ## Duro Labs
- - [https://mfg.duro.app](https://mfg.duro.app)
- - date_published: 2024-09-05T21:21:29.067965+00:00
-
- ## EarTrumpet
- - [https://eartrumpet.app](https://eartrumpet.app)
- - date_published: 2024-04-21T17:49:07+00:00
-
- ## Easy Indie App
- - [https://easyindie.app](https://easyindie.app)
- - date_published: 2024-06-19T22:35:08.072422+00:00
-
- ## Home | EatFeed
- - [https://eatfeed.app](https://eatfeed.app)
- - date_published: 2024-09-02T09:48:00.181715+00:00
-
- ## EchoFeed
- - [https://echofeed.app](https://echofeed.app)
- - date_published: 2024-05-04T14:15:00.185964+00:00
-
- ## Download Edge
- - [https://dl.edge.app](https://dl.edge.app)
- - date_published: 2024-07-04T10:15:24.191494+00:00
-
- ## Home - Edge
- - [https://edge.app](https://edge.app)
- - date_published: 2024-05-08T05:59:54.071896+00:00
-
- ## Edge
- - [https://support.edge.app](https://support.edge.app)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Edifi Blog
- - [https://blog.edifi.app](https://blog.edifi.app)
- - date_published: 2024-07-04T06:25:38.606584+00:00
-
- ## Home | Edifi
- - [https://edifi.app](https://edifi.app)
- - date_published: 2024-03-21T16:47:35+00:00
-
- ## Edifi Podcasts - Discover Christian Podcasts
- - [https://player.edifi.app](https://player.edifi.app)
- - date_published: 2022-08-25T19:42:36+00:00
-
- ## EditAir: AI-Driven Video Editing
- - [https://www.editair.app](https://www.editair.app)
- - date_published: 2024-06-19T21:11:08.612781+00:00
-
- ## eesel - The new tab for work
- - [https://www.eesel.app](https://www.eesel.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Efficient App | Top Software Reviews & Comparisons
- - [https://efficient.app](https://efficient.app)
- - date_published: 2024-05-14T03:37:37.676630+00:00
-
- ## Software & App Stacks by Efficient App
- - [https://stacks.efficient.app](https://stacks.efficient.app)
- - date_published: 2024-07-18T06:54:56.569648+00:00
-
- ## Eightify — Summarize Youtube Videos
- - [https://frontend.eightify.app](https://frontend.eightify.app)
- - date_published: 2024-07-29T09:45:56+00:00
-
- ## YouTube Video Summaries with Eightify AI ChatGPT
- - [https://eightify.app](https://eightify.app)
- - date_published: 2023-10-25T11:46:08.020954+00:00
-
- ## eightpoint
- - [https://eightpoint.app](https://eightpoint.app)
- - date_published: 2024-05-23T13:30:40.880013+00:00
-
- ## Welcome to nginx!
- - [https://media.eightpoint.app](https://media.eightpoint.app)
- - date_published: 2022-10-19T08:02:20+00:00
-
- ## Elephas - Personal AI Writing Assistant for Mac
- - [https://elephas.app](https://elephas.app)
- - date_published: 2024-06-19T21:05:49.065293+00:00
-
- ## harmy.link
- - [https://peertube-a5egg-u8148.vm.elestio.app](https://peertube-a5egg-u8148.vm.elestio.app)
- - date_published: 2023-10-25T11:46:08.629410+00:00
-
- ## Attention Required! | Cloudflare
- - [https://elevault.app](https://elevault.app)
- - date_published: 2024-05-09T07:36:26.715253+00:00
-
- ## Rebrandly
- - [https://elodin.app](https://elodin.app)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## EmailEngine documentation
- - [https://api.emailengine.app](https://api.emailengine.app)
- - date_published: 2023-08-28T11:35:21+00:00
-
- ## EmailEngine Blog
- - [https://docs.emailengine.app](https://docs.emailengine.app)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## EmailEngine Email API
- - [https://emailengine.app](https://emailengine.app)
- - date_published: 2024-06-16T19:41:31.941805+00:00
-
- ## Simplify Your Club | embolt
- - [https://embolt.app](https://embolt.app)
- - date_published: 2024-09-02T09:45:23.484755+00:00
-
- ## Embra - The AI assistant for teams & professionals
- - [https://embra.app](https://embra.app)
- - date_published: 2024-06-19T19:51:39.634518+00:00
-
- ## Emoji Search
- - [https://www.emojisearch.app](https://www.emojisearch.app)
- - date_published: 2024-05-04T15:11:31.460202+00:00
-
- ## Talkative Engage
- - [https://eu.engage.app](https://eu.engage.app)
- - date_published: 2024-05-02T11:11:22.340643+00:00
-
- ## Talkative Engage
- - [https://us.engage.app](https://us.engage.app)
- - date_published: 2024-06-16T10:52:07.399635+00:00
-
- ## Engaging Networks
- - [https://ca.engagingnetworks.app](https://ca.engagingnetworks.app)
- - date_published: 2024-06-28T15:17:20+00:00
-
- ## Engaging Networks
- - [https://us.engagingnetworks.app](https://us.engagingnetworks.app)
- - date_published: 2024-06-28T15:17:20+00:00
-
- ## EpubKit
- - [https://epubkit.app](https://epubkit.app)
- - date_published: 2024-07-18T23:05:15.277956+00:00
-
- ## eqMac - System Audio Equalizer and App Volume Mixer for macOS
- - [https://eqmac.app](https://eqmac.app)
- - date_published: 2024-09-09T16:16:38.603341+00:00
-
- ## Equals | The next-generation spreadsheet
- - [https://equals.app](https://equals.app)
- - date_published: 2023-10-25T11:46:17.748837+00:00
-
- ## AI to make more of your money | Era
- - [https://era.app](https://era.app)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Essay
- - [https://essay.app](https://essay.app)
- - date_published: 2024-05-29T20:17:12.368194+00:00
-
- ## Estimaker
- - [https://estimaker.app](https://estimaker.app)
- - date_published: 2024-05-08T09:59:09.340703+00:00
-
- ## Events in Amsterdam
- - [https://eventsin.app](https://eventsin.app)
- - date_published: 2024-05-12T05:40:39.529976+00:00
 
