@@ -1,3 +1,23 @@
+ ## Free AI Room Planner & Virtual Home Designer for Interior & Exterior | Luw.ai
+ - [https://luw.ai](https://luw.ai)
+ - date_published: 2024-05-29T19:41:10+00:00
+
+ ## Home - maadaa.ai
+ - [https://maadaa.ai](https://maadaa.ai)
+ - date_published: 2024-08-07T16:27:04.527237+00:00
+
+ ## Macha - Search Infrastructure for New Internet
+ - [http://macha.ai](http://macha.ai)
+ - date_published: 2023-09-25T11:19:04+00:00
+
+ ## MACHINES OF TOMORROW
+ - [http://www.machinesoftomorrow.ai](http://www.machinesoftomorrow.ai)
+ - date_published: 2024-06-19T23:45:29.065210+00:00
+
+ ## macky
+ - [https://macky.ai](https://macky.ai)
+ - date_published: 2024-06-14T08:53:46.619734+00:00
+
  ## 🧙‍♀️ Welcome to Mage - Mage
  - [https://docs.mage.ai](https://docs.mage.ai)
  - date_published: 2024-09-15T14:50:20.563065+00:00
@@ -3287,9 +3307,21 @@
  - [https://www.sitekick.ai](https://www.sitekick.ai)
  - date_published: 2024-06-10T00:00:00+00:00
 
+ ## ChatGPT For Your Website
+ - [https://chatbot.sitespeak.ai](https://chatbot.sitespeak.ai)
+ - date_published: 2024-10-22T20:47:29.811547+00:00
+
+ ## Share a testimonial!
+ - [https://love.sitespeak.ai](https://love.sitespeak.ai)
+ - date_published: 2024-10-22T20:47:33.023411+00:00
+
  ## Automate your customer support with AI
  - [https://sitespeak.ai](https://sitespeak.ai)
  - date_published: 2024-06-18T16:29:34.454898+00:00
+
+ ## Fix your SEO issues automatically
+ - [https://sitetag.ai](https://sitetag.ai)
+ - date_published: 2024-10-22T20:45:36.706884+00:00
 
  ## Introduction - SITUATIONAL AWARENESS: The Decade Ahead
  - [https://situational-awareness.ai](https://situational-awareness.ai)
@@ -3808,6 +3840,10 @@
  - [https://super.ai](https://super.ai)
  - date_published: 2024-09-05T00:00:00+00:00
 
+ ## Fast Alternative for Medium and Wordpress Blogs
+ - [https://superblog.ai](https://superblog.ai)
+ - date_published: 2024-10-22T19:18:49.208969+00:00
+
  ## SuperCopy.ai
  - [https://www.app.supercopy.ai](https://www.app.supercopy.ai)
  - date_published: 2024-03-13T00:00:00+00:00
@@ -3983,40 +4019,4 @@
  ## TalkBerry - Your personal English tutor, powered by AI
  - [https://www.talkberry.ai](https://www.talkberry.ai)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## AI Phone Automation for Better Patient Access
- - [https://talkie.ai](https://talkie.ai)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## AI Language Teacher - Talkpal
- - [http://talkpal.ai](http://talkpal.ai)
- - date_published: 2024-06-19T18:30:57+00:00
-
- ## Tammy AI
- - [https://tammy.ai](https://tammy.ai)
- - date_published: 2024-06-19T20:05:12.672295+00:00
-
- ## Creator Studio | TaoLabs.ai
- - [https://www.taolabs.ai](https://www.taolabs.ai)
- - date_published: 2024-08-18T06:14:15.091329+00:00
-
- ## tap4.ai
- - [https://tap4.ai](https://tap4.ai)
- - date_published: 2024-09-14T07:48:13.089563+00:00
-
- ## Tara AI | The AI Platform for Software Engineering Best Practices
- - [https://tara.ai](https://tara.ai)
- - date_published: 2024-05-29T18:44:35+00:00
-
- ## Tarot Master | Free Personalized Readings & Cosmic Insights
- - [https://app.tarotmaster.ai](https://app.tarotmaster.ai)
- - date_published: 2024-09-13T20:40:13.435299+00:00
-
- ## Tarot Master | Chat With Your Personal AI Psychic
- - [https://tarotmaster.ai](https://tarotmaster.ai)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Tarteel Feedback
- - [https://feedback.tarteel.ai](https://feedback.tarteel.ai)
- - date_published: 2024-01-17T00:00:00+00:00
 

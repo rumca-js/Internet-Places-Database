@@ -1,3 +1,63 @@
+ ## PhyDemo | Open-source Physics Demos & Apps
+ - [https://phydemo.app](https://phydemo.app)
+ - date_published: 2023-09-18T02:33:21+00:00
+
+ ## Pickwick | Find your next favorite series
+ - [https://pickwick.app](https://pickwick.app)
+ - date_published: 2024-04-30T02:48:03.200792+00:00
+
+ ## Careers
+ - [https://jobs.picnic.app](https://jobs.picnic.app)
+ - date_published: 2024-07-02T23:34:26.758088+00:00
+
+ ## Picnic | Supermarkt op wielen | Online boodschappen bestellen | Gratis bezorgd
+ - [https://picnic.app](https://picnic.app)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Pieces for Developers - Your Workflow Copilot
+ - [https://pieces.app](https://pieces.app)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Pigment Product Updates
+ - [https://changelog.pigment.app](https://changelog.pigment.app)
+ - date_published: 2024-06-21T09:15:37.802537+00:00
+
+ ## Pigment.app
+ - [https://pigment.app](https://pigment.app)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## PillarX
+ - [https://go.pillarx.app](https://go.pillarx.app)
+ - date_published: 2024-09-23T11:55:20.181974+00:00
+
+ ## PillarX
+ - [https://pillarx.app](https://pillarx.app)
+ - date_published: 2024-09-23T12:08:22.984369+00:00
+
+ ## coprime ⊥ domains
+ - [http://pinata.app](http://pinata.app)
+ - date_published: 2024-07-14T08:49:34.639480+00:00
+
+ ## Pindigo
+ - [https://media.pindigo.app](https://media.pindigo.app)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Pindigo
+ - [https://pindigo.app](https://pindigo.app)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Pinstr
+ - [https://pinstr.app](https://pinstr.app)
+ - date_published: 2024-08-18T22:02:10.242533+00:00
+
+ ## Pioneer - Join a network of 300+ founders in 50+ countries
+ - [https://pioneer.app](https://pioneer.app)
+ - date_published: 2024-05-01T04:18:44.596441+00:00
+
+ ## Pippy: Disability Advocate and PIP Assistant
+ - [https://pippy.app](https://pippy.app)
+ - date_published: 2024-05-31T09:10:35+00:00
+
  ## Find the perfect pitch deck designer
  - [https://www.pitchdeckexperts.app](https://www.pitchdeckexperts.app)
  - date_published: 2024-04-10T00:00:00+00:00
@@ -169,6 +229,10 @@
  ## PrettyPolly: Learn a language quickly by speaking with an AI
  - [https://prettypolly.app](https://prettypolly.app)
  - date_published: 2023-10-25T11:48:30.623743+00:00
+
+ ## Pretty Snap - make your snapshots 🔥 with a pretty background
+ - [https://prettysnap.app](https://prettysnap.app)
+ - date_published: 2024-10-22T19:22:07.371117+00:00
 
  ## JupyterHub
  - [https://pretzelai.app](https://pretzelai.app)
@@ -1837,6 +1901,14 @@
  - [https://adventure-of-penelope.vercel.app](https://adventure-of-penelope.vercel.app)
  - date_published: 2023-10-25T11:49:51.698766+00:00
 
+ ## 7G by A. G. Cook
+ - [https://ag-cook-7g-6h0s2xi89.vercel.app](https://ag-cook-7g-6h0s2xi89.vercel.app)
+ - date_published: 2024-10-22T22:10:14.730199+00:00
+
+ ## Apple vs. 7G by A. G. Cook
+ - [https://ag-cook-apple-vs-7g-jfpf57i7v-parentcompanyc.vercel.app](https://ag-cook-apple-vs-7g-jfpf57i7v-parentcompanyc.vercel.app)
+ - date_published: 2024-10-22T22:15:13.276400+00:00
+
  ## AI Bookstore | AI that helps you find the books you want to read
  - [https://ai-book-store.vercel.app](https://ai-book-store.vercel.app)
  - date_published: 2024-06-19T19:12:23.941020+00:00
@@ -2423,6 +2495,10 @@
  ## EthBerlin04 - Hackaton Center
  - [https://eth-berlin04.vercel.app](https://eth-berlin04.vercel.app)
  - date_published: 2024-09-23T12:19:38.139041+00:00
+
+ ## Redstone | Cost-effective chain for MUD apps, games, and worlds
+ - [https://ethereum-redstone-bridge-796aacss8-latticexyz.vercel.app](https://ethereum-redstone-bridge-796aacss8-latticexyz.vercel.app)
+ - date_published: 2024-10-22T18:22:47.182933+00:00
 
  ## Redstone | Cost-effective chain for MUD apps, games, and worlds
  - [https://ethereum-redstone-bridge-hcgdbgr9b-latticexyz.vercel.app](https://ethereum-redstone-bridge-hcgdbgr9b-latticexyz.vercel.app)
@@ -3941,80 +4017,4 @@
  ## Additional Budget Graphs
  - [https://additionalbudgetgraphs.web.app](https://additionalbudgetgraphs.web.app)
  - date_published: 2024-07-05T19:35:44+00:00
-
- ## Advanced Tools for YNAB
- - [https://advanced-tools-for-ynab.web.app](https://advanced-tools-for-ynab.web.app)
- - date_published: 2024-02-15T18:58:24+00:00
-
- ## AGI House
- - [https://agihouse-app.web.app](https://agihouse-app.web.app)
- - date_published: 2024-06-23T00:54:32+00:00
-
- ## AKSHAT SINGHANIA
- - [https://akshatsinghaniaweb.web.app](https://akshatsinghaniaweb.web.app)
- - date_published: 2024-06-20T13:10:42+00:00
-
- ## Aktifqq : Situs PokerV Terpercaya Di Indonesia
- - [https://aktifqq88.web.app](https://aktifqq88.web.app)
- - date_published: 2023-12-07T08:00:12+00:00
-
- ## Angular
- - [https://angular-gr.web.app](https://angular-gr.web.app)
- - date_published: 2023-08-27T08:58:03+00:00
-
- ## Bayes-Up
- - [https://bayes-up.web.app](https://bayes-up.web.app)
- - date_published: 2020-04-22T09:56:12+00:00
-
- ## React App
- - [https://binderpos-big-calendar-1490e.web.app](https://binderpos-big-calendar-1490e.web.app)
- - date_published: 2023-08-31T01:24:10+00:00
-
- ## BioAge Labs | Targeting metabolic aging
- - [https://bioage-website.web.app](https://bioage-website.web.app)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## The Butterfly Button
- - [https://butterfly-button.web.app](https://butterfly-button.web.app)
- - date_published: 2024-05-09T04:03:12.935259+00:00
-
- ## Cirtoren car models 360 valkthrough | valk360
- - [https://citroenvr-valk360.web.app](https://citroenvr-valk360.web.app)
- - date_published: 2021-12-26T12:41:12+00:00
-
- ## Clicky
- - [https://clicky-ee54a.web.app](https://clicky-ee54a.web.app)
- - date_published: 2024-09-16T01:42:30+00:00
-
- ## contrib.rocks
- - [https://contributors-img.web.app](https://contributors-img.web.app)
- - date_published: 2023-07-02T03:33:42+00:00
-
- ## Candidate UI - 1und1
- - [https://csbep-1und1-prod.web.app](https://csbep-1und1-prod.web.app)
- - date_published: 2024-08-13T15:41:27+00:00
-
- ## Easy Outlines
- - [https://easyoutlines-f5115.web.app](https://easyoutlines-f5115.web.app)
- - date_published: 2023-10-06T21:21:38+00:00
-
- ## Focus on Features | Prevent Harm Through Design
- - [https://gbw-ii-fellowship.web.app](https://gbw-ii-fellowship.web.app)
- - date_published: 2023-12-14T23:37:42+00:00
-
- ## AI for communication
- - [https://gen-gen.web.app](https://gen-gen.web.app)
- - date_published: 2023-11-19T23:06:38+00:00
-
- ## Imagen: Text-to-Image Diffusion Models
- - [https://gweb-research-imagen.web.app](https://gweb-research-imagen.web.app)
- - date_published: 2022-12-03T19:17:29+00:00
-
- ## HDI Harmony
- - [https://hdiharmony.web.app](https://hdiharmony.web.app)
- - date_published: 2024-04-29T07:41:00.134908+00:00
-
- ## ing griyanipun Damar
- - [https://indrdmr.web.app](https://indrdmr.web.app)
- - date_published: 2024-01-28T02:44:54+00:00
 

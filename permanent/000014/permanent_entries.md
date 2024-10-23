@@ -1,3 +1,135 @@
+ ## tiny poems
+ - [https://tinypoems.blog](https://tinypoems.blog)
+ - date_published: 2024-05-02T12:54:41.281272+00:00
+
+ ## tlohde
+ - [https://tlohde.blog](https://tlohde.blog)
+ - date_published: 2024-07-08T12:52:44.377915+00:00
+
+ ## Tony Dang's Blog
+ - [https://tonydang.blog](https://tonydang.blog)
+ - date_published: 2023-12-12T04:54:16.406463+00:00
+ - tags: ['personal']
+
+ ## top expert
+ - [https://topexpert.blog](https://topexpert.blog)
+ - date_published: 2024-07-10T02:40:59.207895+00:00
+
+ ## Total Eclipse
+ - [https://totaleclipse.blog](https://totaleclipse.blog)
+ - date_published: 2024-08-18T21:21:19.930189+00:00
+
+ ## Townsend Music Blog
+ - [https://www.townsendmusic.blog](https://www.townsendmusic.blog)
+ - date_published: 2024-06-25T17:02:36.967218+00:00
+
+ ## Scruffy's..Blurgh!
+ - [https://computersreallysuck.travel.blog](https://computersreallysuck.travel.blog)
+ - date_published: 2024-06-30T01:17:09.326742+00:00
+
+ ## | Troof
+ - [https://troof.blog](https://troof.blog)
+ - date_published: 2024-05-02T15:03:39.461851+00:00
+ - tags: ['personal']
+
+ ## tty1.blog
+ - [https://tty1.blog](https://tty1.blog)
+ - date_published: 2024-05-14T05:11:18+00:00
+
+ ## Michael Beckwith
+ - [https://tw2113.blog](https://tw2113.blog)
+ - date_published: 2023-11-04T01:49:30+00:00
+
+ ## twdev.blog
+ - [https://twdev.blog](https://twdev.blog)
+ - date_published: 2023-10-25T12:01:34.984757+00:00
+
+ ## Under The Banyan
+ - [https://underthebanyan.blog](https://underthebanyan.blog)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.blog](https://unfashionable.blog)
+ - date_published: 2023-11-15T19:47:13.588134+00:00
+
+ ## Psychotic, Obscene, and Unoriginal
+ - [https://unoriginal.blog](https://unoriginal.blog)
+ - date_published: 2023-12-09T12:58:13.135218+00:00
+
+ ## Unskilled
+ - [https://unskilled.blog](https://unskilled.blog)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Unsolicited Feedback
+ - [https://unsolicitedfeedback.blog](https://unsolicitedfeedback.blog)
+ - date_published: 2024-06-15T10:19:47.092706+00:00
+
+ ## The Urban Nature Enthusiast
+ - [https://urbannature.blog](https://urbannature.blog)
+ - date_published: 2024-09-06T01:05:52.558489+00:00
+
+ ## Username's Blog
+ - [https://username.blog](https://username.blog)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Vanilla Java
+ - [https://blog.vanillajava.blog](https://blog.vanillajava.blog)
+ - date_published: 2023-10-25T12:01:45.438171+00:00
+
+ ## Volatile Rune
+ - [https://volatilerune.blog](https://volatilerune.blog)
+ - date_published: 2024-06-15T10:20:28.867787+00:00
+
+ ## w6csn’s outdoor amateur radio
+ - [https://w6csn.blog](https://w6csn.blog)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Le Blog Sustainability - Le blog RSE des consultants Wavestone
+ - [https://sustainability.wavestone.blog](https://sustainability.wavestone.blog)
+ - date_published: 2024-07-28T00:33:03+00:00
+
+ ## Warren's space
+ - [https://wcoats.blog](https://wcoats.blog)
+ - date_published: 2024-07-03T21:51:33+00:00
+
+ ## Infinitely Closer
+ - [https://letters.weichen.blog](https://letters.weichen.blog)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## weitergedacht – Idee für Idee etwas erwachsener
+ - [https://weitergedacht.blog](https://weitergedacht.blog)
+ - date_published: 2024-01-04T22:41:37.082776+00:00
+
+ ## Minimalist Headless Blog for Next.js 14
+ - [https://www.wisp.blog](https://www.wisp.blog)
+ - date_published: 2024-06-21T20:50:39.310911+00:00
+
+ ## wordjazz.blog
+ - [https://wordjazz.blog](https://wordjazz.blog)
+ - date_published: 2024-07-02T10:05:17.316732+00:00
+
+ ## Wild Wanderings & Life's Wonders
+ - [https://wwlw.blog](https://wwlw.blog)
+ - date_published: 2024-08-07T21:05:11.423187+00:00
+
+ ## Hi 👋
+ - [https://yetanother.blog](https://yetanother.blog)
+ - date_published: 2024-05-09T08:17:45.751129+00:00
+ - tags: ['personal']
+
+ ## yield code(); - Dmitry Kudryavtsev
+ - [https://yieldcode.blog](https://yieldcode.blog)
+ - date_published: 2023-10-25T09:02:08.513966+00:00
+ - tags: ['personal']
+
+ ## يونس بن عمارة
+ - [https://youdo.blog](https://youdo.blog)
+ - date_published: 2024-05-06T13:46:38.200533+00:00
+
+ ## Friedrich Zettl Fine Arts
+ - [https://zettl.blog](https://zettl.blog)
+ - date_published: 2024-08-31T00:00:00+00:00
+
  ## ℤ→ℤ
  - [https://ztoz.blog](https://ztoz.blog)
  - date_published: 2024-02-27T00:00:00+00:00
@@ -1956,6 +2088,10 @@ Educação
  - [https://climaeradar.com.br](https://climaeradar.com.br)
  - date_published: 2024-05-07T13:25:28.245646+00:00
 
+ ## Climate FieldView - Plataforma de Agricultura Digital
+ - [https://climatefieldview.com.br](https://climatefieldview.com.br)
+ - date_published: 2024-10-22T21:34:19.797636+00:00
+
  ## Clima e previsão do tempo: Meteorologia é na Climatempo!
  - [https://www.climatempo.com.br](https://www.climatempo.com.br)
  - date_published: 2024-06-19T08:25:30.872543+00:00
@@ -2507,6 +2643,10 @@ Educação
  - [https://fieldpro.com.br](https://fieldpro.com.br)
  - date_published: 2024-10-20T18:44:07.315709+00:00
 
+ ## FILMICCA
+ - [https://www.filmicca.com.br](https://www.filmicca.com.br)
+ - date_published: 2024-10-22T20:48:39.189093+00:00
+
  ## Início - Grupo Finger
  - [https://fingerdigital.com.br](https://fingerdigital.com.br)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -2714,6 +2854,10 @@ Educação
  ## Gr@tis - GRATIS.COM.BR
  - [http://www.gratis.com.br](http://www.gratis.com.br)
  - date_published: 2024-06-24T04:03:12.915944+00:00
+
+ ## GRAYSEG | Segurança e Tecnologia
+ - [http://grayseg.com.br](http://grayseg.com.br)
+ - date_published: 2024-10-22T20:48:25.860445+00:00
 
  ## Home - GPTW
  - [https://greatplacetowork.com.br](https://greatplacetowork.com.br)
@@ -3876,144 +4020,4 @@ Educação
  ## Sicoob - Sistema de Cooperativas de Crédito do Brasil | Identificação (13 de Julho de 2024)
  - [https://ib.sicoobnet.com.br](https://ib.sicoobnet.com.br)
  - date_published: 2024-07-13T18:18:51.783608+00:00
-
- ## Site Of Games
- - [https://www.siteofgames.com.br](https://www.siteofgames.com.br)
- - date_published: 2024-05-11T21:14:22+00:00
-
- ## Aluguel de Carros em todo o mundo | Sixt rent a car
- - [https://sixt.com.br](https://sixt.com.br)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Livros, autores, histórias e amigos, todos conectados no SKOOB
- - [http://www.skoob.com.br](http://www.skoob.com.br)
- - date_published: 2024-07-13T02:19:53.087886+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.com.br](https://www.skyscanner.com.br)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Slackjeff ☠️
- - [https://slackjeff.com.br](https://slackjeff.com.br)
- - date_published: 2024-06-03T11:26:38+00:00
-
- ## Fortune Tiger Slots | Jogo do Tigre da PG Soft
- - [https://slotfortunetiger.com.br](https://slotfortunetiger.com.br)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Notícias e análises de app, os melhores downloads - Softonic
- - [https://softonic.com.br](https://softonic.com.br)
- - date_published: 2024-04-29T05:11:24.988286+00:00
-
- ## Seja o líder que faz o projeto de software fluir com harmonia | Software Zen
- - [https://softwarezen.com.br](https://softwarezen.com.br)
- - date_published: 2024-06-15T17:20:34.363815+00:00
-
- ## Sony Brazil | Latest Technology News | Electronics | Entertainment
- - [https://www.sony.com.br](https://www.sony.com.br)
- - date_published: 2024-10-21T07:38:46.400174+00:00
-
- ## Sony Pictures Brazil | Homepage
- - [https://www.sonypictures.com.br](https://www.sonypictures.com.br)
- - date_published: 2024-07-27T17:27:37.467557+00:00
-
- ## Sooper
- - [https://www.sooper.com.br](https://www.sooper.com.br)
- - date_published: 2024-06-19T08:24:28.628097+00:00
-
- ## paiN Gaming
- - [https://www.soupain.com.br](https://www.soupain.com.br)
- - date_published: 2024-09-29T20:05:06.799079+00:00
-
- ## Jogo Spaceman Bet 👨🏻‍🚀
- - [https://spaceman-jogo.com.br](https://spaceman-jogo.com.br)
- - date_published: 2024-07-26T04:59:36.182470+00:00
-
- ## Home
- - [https://spcine.com.br](https://spcine.com.br)
- - date_published: 2024-06-26T21:56:38.630933+00:00
-
- ## Sportbuzz
- - [https://sportbuzz.com.br](https://sportbuzz.com.br)
- - date_published: 2024-07-11T17:32:45+00:00
-
- ## SPTrans
- - [http://www.sptrans.com.br](http://www.sptrans.com.br)
- - date_published: 2024-07-19T22:14:00.710079+00:00
-
- ## Home Page - StandFor
- - [https://standfor.com.br](https://standfor.com.br)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Statkraft
- - [https://www.statkraft.com.br](https://www.statkraft.com.br)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home - Stilingue Inteligência Artificial
- - [https://stilingue.com.br](https://stilingue.com.br)
- - date_published: 2020-09-24T20:47:41+00:00
-
- ## Stone: solução completa de vendas feita para o seu negócio
- - [https://www.stone.com.br](https://www.stone.com.br)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo | XPPen Loja oficial do Brasil | Mesa digitalizadora e Display Intertivo
- - [https://storexppen.com.br](https://storexppen.com.br)
- - date_published: 2024-05-30T18:41:51.126045+00:00
-
- ## StreetFighter.com.br - Site brasileiro de fãs da franquia de luta da Capcom
- - [http://www.streetfighter.com.br](http://www.streetfighter.com.br)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Studio Cubo Web - Desenvolvemos sites e sistemas
- - [https://studiocuboweb.com.br](https://studiocuboweb.com.br)
- - date_published: 2023-02-14T14:43:31+00:00
-
- ## Submarino - Sua história começa aqui
- - [http://www.submarino.com.br](http://www.submarino.com.br)
- - date_published: 2024-07-10T09:23:04.769212+00:00
-
- ## Paradiso Rio | Paradiso Rio FM
- - [https://sulamericaparadiso.com.br](https://sulamericaparadiso.com.br)
- - date_published: 2024-07-13T02:17:25.040098+00:00
-
- ## Superprof - A comunidade dos professores particulares
- - [https://superprof.com.br](https://superprof.com.br)
- - date_published: 2024-06-15T01:28:14.389864+00:00
-
- ## Survival Horror Com Br
- - [https://survivalhorror.com.br](https://survivalhorror.com.br)
- - date_published: 2024-05-14T02:52:31.660891+00:00
-
- ## SX Integra
- - [https://www.sxintegra.com.br](https://www.sxintegra.com.br)
- - date_published: 2024-04-10T20:39:04+00:00
-
- ## Central de Ajuda - Compradores | Sympla
- - [https://ajuda.sympla.com.br](https://ajuda.sympla.com.br)
- - date_published: 2021-04-16T00:00:00+00:00
-
- ## Conteúdo restrito - Sympla
- - [https://assets-event-page.svc.sympla.com.br](https://assets-event-page.svc.sympla.com.br)
- - date_published: 2023-05-18T17:52:26+00:00
-
- ## Sympla Bileto
- - [https://bileto.sympla.com.br](https://bileto.sympla.com.br)
- - date_published: 2024-05-29T00:27:51.796959+00:00
-
- ## Blog da Sympla | Tudo para criar ou viver experiências
- - [https://blog.sympla.com.br](https://blog.sympla.com.br)
- - date_published: 2024-09-18T18:34:48.460886+00:00
-
- ## API Sympla - Documentação API da Sympla
- - [https://developers.sympla.com.br](https://developers.sympla.com.br)
- - date_published: 2024-09-05T19:25:43+00:00
-
- ## Conteúdo restrito - Sympla
- - [https://images.sympla.com.br](https://images.sympla.com.br)
- - date_published: 2023-05-11T18:31:40+00:00
-
- ## Conteúdo restrito - Sympla
- - [https://na-bundle.sympla.com.br](https://na-bundle.sympla.com.br)
- - date_published: 2023-04-26T14:17:16+00:00
 

@@ -1,3 +1,152 @@
+ ## Transit Futures
+ - [http://transitfutures.blogspot.ca](http://transitfutures.blogspot.ca)
+ - date_published: 2024-02-07T06:29:13+00:00
+
+ ## Building Community. Будуємо громаду.
+ - [http://ucu-building-community.blogspot.ca](http://ucu-building-community.blogspot.ca)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## What's Happening in Toronto Linguistics
+ - [http://utlinguistics.blogspot.ca](http://utlinguistics.blogspot.ca)
+ - date_published: 2024-07-19T07:00:00+00:00
+
+ ## UTSC Pulse
+ - [http://utscpulse.blogspot.ca](http://utscpulse.blogspot.ca)
+ - date_published: 2024-09-08T09:40:22+00:00
+
+ ## Paint Bard
+ - [http://www.paintbard.blogspot.ca](http://www.paintbard.blogspot.ca)
+ - date_published: 2024-06-03T17:39:04+00:00
+
+ ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
+ - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
+ - date_published: 2024-06-27T13:06:35.742393+00:00
+
+ ## Créez, imprimez et vendez des livres photos de qualité professionnelle | Blurb
+ - [https://fr.blurb.ca](https://fr.blurb.ca)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Create, Print, & Sell Professional-Quality Photo Books | Blurb
+ - [https://www.blurb.ca](https://www.blurb.ca)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Home - B'nai Brith Canada - B'nai Brith Canada
+ - [http://www.bnaibrith.ca](http://www.bnaibrith.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Services bancaires / Banking Services
+ - [https://app.bnc.ca](https://app.bnc.ca)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Une carrière à la Banque Nationale
+ - [https://emplois.bnc.ca](https://emplois.bnc.ca)
+ - date_published: 2024-08-19T10:54:55+00:00
+
+ ## Nous sommes désolés
+ - [https://extranet2.portail.bnc.ca](https://extranet2.portail.bnc.ca)
+ - date_published: 2013-05-03T19:25:43+00:00
+
+ ## Solutions bancaires aux particuliers | Banque Nationale
+ - [https://www.bnc.ca](https://www.bnc.ca)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## BNN Bloomberg - Canadian Business News, TSX Today, interest rates and Bank of Canada coverage
+ - [https://bnnbloomberg.ca](https://bnnbloomberg.ca)
+ - date_published: 2023-10-25T12:03:55.221507+00:00
+
+ ## Video Production and Creative Agency - Welcome to BNR - Guelph, ON
+ - [https://bnrmediagroup.ca](https://bnrmediagroup.ca)
+ - date_published: 2024-05-06T12:56:47.739507+00:00
+
+ ## Boats in Canada, Canada
+ - [http://www.boats.ca](http://www.boats.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Bodyshop in Canada, Canada
+ - [http://www.bodyshop.ca](http://www.bodyshop.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Canada
+ - [https://boeing.ca](https://boeing.ca)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## ACCUEIL
+ - [https://boisrichart.ca](https://boisrichart.ca)
+ - date_published: 2024-09-10T11:07:20+00:00
+
+ ## Bold Growth Inc.
+ - [https://boldgrowth.ca](https://boldgrowth.ca)
+ - date_published: 2024-09-17T16:40:19.630047+00:00
+
+ ## BOMA Canada – English
+ - [https://bomacanada.ca](https://bomacanada.ca)
+ - date_published: 2024-10-14T17:05:02+00:00
+
+ ## About - Bonnie Allen
+ - [http://www.bonnieallen.ca](http://www.bonnieallen.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Best Online Gambling Sites Canada - July 2024
+ - [https://www.bonus.ca](https://www.bonus.ca)
+ - date_published: 2024-07-17T04:39:38.556981+00:00
+
+ ## Bookmark Bookstores Location Picker
+ - [https://bookmarkreads.ca](https://bookmarkreads.ca)
+ - date_published: 2023-08-29T22:58:55+00:00
+
+ ## Tech Forum
+ - [http://techforum.booknetcanada.ca](http://techforum.booknetcanada.ca)
+ - date_published: 2024-07-03T18:30:29.402060+00:00
+
+ ## BookNet Canada
+ - [https://www.booknetcanada.ca](https://www.booknetcanada.ca)
+ - date_published: 2024-07-03T18:31:14.772377+00:00
+
+ ## Bookware 3000
+ - [https://bookware3000.ca](https://bookware3000.ca)
+ - date_published: 2024-07-21T09:04:42.629619+00:00
+
+ ## Home - George Brown College CAMPUS STORES
+ - [https://gbcbookstore.bookware3000.ca](https://gbcbookstore.bookware3000.ca)
+ - date_published: 2024-09-24T21:20:39.940869+00:00
+
+ ## Home
+ - [https://borden-carleton.ca](https://borden-carleton.ca)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Home
+ - [https://www.bosch.ca](https://www.bosch.ca)
+ - date_published: 2024-10-14T06:45:05+00:00
+
+ ## Kitchen Appliances | Home Appliances | High-end Appliances from Bosch
+ - [https://www.bosch-home.ca](https://www.bosch-home.ca)
+ - date_published: 2024-06-16T21:36:38.612906+00:00
+
+ ## Headphones, Speakers, Wearables | Bose | Feel More, Do More
+        Bose
+ - [https://www.bose.ca](https://www.bose.ca)
+ - date_published: 2024-08-05T21:31:07.414418+00:00
+
+ ## Spa Détente au Vieux-Port de Montréal | Bota Bota, spa-sur-l’eau
+ - [http://botabota.ca](http://botabota.ca)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Boutique Moi | Mode féminine
+ - [https://boutiquemoi.ca](https://boutiquemoi.ca)
+ - date_published: 2024-10-21T11:45:22.151938+00:00
+
+ ## Scatterplots Advent of Code
+ - [https://aoc-stats.fastbee.box.ca](https://aoc-stats.fastbee.box.ca)
+ - date_published: 2024-01-15T10:02:36.118939+00:00
+
+ ## box of chocolates
+ - [https://boxofchocolates.ca](https://boxofchocolates.ca)
+ - date_published: 2024-05-01T02:19:25.427285+00:00
+
+ ## Brad Hussey - Start a Business as a Freelancer, Coach or Consultant
+ - [https://bradhussey.ca](https://bradhussey.ca)
+ - date_published: 2024-01-06T17:58:08.994162+00:00
+
  ## Bradley Thompson- Team Canada Duathlete, Digital Marketing Expert, Podcaster, Marketing Professor & Creative Content Creator
  - [https://bradleythompson.ca](https://bradleythompson.ca)
  - date_published: 2024-01-15T22:20:27.125154+00:00
@@ -284,6 +433,10 @@
  - [https://canfilmday.ca](https://canfilmday.ca)
  - date_published: 2024-05-01T00:00:00+00:00
 
+ ## Canadian Legal Information Institute | CanLII
+ - [https://canlii.ca](https://canlii.ca)
+ - date_published: 2024-10-22T21:50:36.074935+00:00
+
  ## CanSpace - Canada's Best Web Hosting and Domain Name Provider
  - [https://www.canspace.ca](https://www.canspace.ca)
  - date_published: 2024-07-14T08:03:00.352877+00:00
@@ -315,6 +468,10 @@
  ## Dr. Carin Bondar - Biologist with a Twist
  - [https://carinbondar.ca](https://carinbondar.ca)
  - date_published: 2024-10-19T06:26:22.302932+00:00
+
+ ## Home - Canadian Association of Research Libraries
+ - [https://www.carl-abrc.ca](https://www.carl-abrc.ca)
+ - date_published: 2024-10-22T21:49:47.733594+00:00
 
  ## Carleton 360
  - [https://360.carleton.ca](https://360.carleton.ca)
@@ -550,6 +707,10 @@
  - date_published: 2024-06-18T16:27:51.055478+00:00
 
  ## Peintre professionnel Certapro Montréal
+ - [https://certapromontreal.ca](https://certapromontreal.ca)
+ - date_published: 2024-10-22T20:37:40.067536+00:00
+
+ ## Peintre professionnel Certapro Montréal
  - [http://www.certapromontreal.ca](http://www.certapromontreal.ca)
  - date_published: 2024-05-21T21:06:41+00:00
 
@@ -682,6 +843,10 @@
  - [https://cipf.ca](https://cipf.ca)
  - date_published: 2024-05-23T00:00:00+00:00
 
+ ## CIPPIC | Canadian Internet Policy and Public Interest Clinic
+ - [http://cippic.ca](http://cippic.ca)
+ - date_published: 2024-10-22T21:48:34.556862+00:00
+
  ## Centre for International Policy Studies – Canada's leading centre for analysis and debate of international affairs.
  - [https://www.cips-cepi.ca](https://www.cips-cepi.ca)
  - date_published: 2024-06-18T00:00:00+00:00
@@ -760,6 +925,10 @@
  - [https://www.classroomconnection.ca](https://www.classroomconnection.ca)
  - date_published: 2024-05-06T14:31:08.747813+00:00
 
+ ## Clawbies.ca
+ - [http://www.clawbies.ca](http://www.clawbies.ca)
+ - date_published: 2024-10-22T21:49:51.257518+00:00
+
  ## Top 5 Top 5 Toronto Cleaning for 2020 | Cleaning.ca Plumbers and Plumbing Contractors for 2020 | Cleaning.ca
  - [http://www.cleaning.ca](http://www.cleaning.ca)
  - date_published: 2024-04-03T00:00:00+00:00
@@ -775,6 +944,10 @@
  ## Learn about the Climate Change discussion | Climate Change 101
  - [https://climatechange101.ca](https://climatechange101.ca)
  - date_published: 2024-06-15T09:05:08.951304+00:00
+
+ ## Digital Farming decisions and insights to maximize every acre
+ - [https://climatefieldview.ca](https://climatefieldview.ca)
+ - date_published: 2024-10-22T21:34:15.576202+00:00
 
  ## Canadian Climate Institute: Climate Change Canada Policy Research
  - [https://climateinstitute.ca](https://climateinstitute.ca)
@@ -1507,6 +1680,10 @@
  ## Digital Bible | The World's First AI-Powered Bible
  - [https://digitalbible.ca](https://digitalbible.ca)
  - date_published: 2024-06-19T19:51:37.934308+00:00
+
+ ## Russell McOrmond's personal blog
+ - [http://www.digital-copyright.ca](http://www.digital-copyright.ca)
+ - date_published: 2024-10-22T21:49:22.152769+00:00
 
  ## digital junkies
  - [http://www.digitaljunkies.ca](http://www.digitaljunkies.ca)
@@ -2757,6 +2934,10 @@
  - [https://grocerytracker.ca](https://grocerytracker.ca)
  - date_published: 1980-01-01T00:00:01+00:00
 
+ ## Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off
+ - [https://www.groupon.ca](https://www.groupon.ca)
+ - date_published: 2024-10-22T21:36:43.466670+00:00
+
  ## Digital Marketing Agency | Digital Marketing Strategy | GrowthEngine
  - [https://www.growthengine.ca](https://www.growthengine.ca)
  - date_published: 2024-10-17T23:24:31.810801+00:00
@@ -3856,184 +4037,4 @@
  ## Home | Legal & Literary Society
  - [http://www.legalandlit.ca](http://www.legalandlit.ca)
  - date_published: 2024-10-18T22:17:59.467307+00:00
-
- ## Top Kids Attraction | LEGOLAND Discovery Centre Toronto
- - [https://toronto.legolanddiscoverycentre.ca](https://toronto.legolanddiscoverycentre.ca)
- - date_published: 2024-07-03T09:45:39.991622+00:00
-
- ## Lemmy.ca - A canadian-run community, geared towards canadians, but all are welcome!
- - [https://lemmy.ca](https://lemmy.ca)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## lemmy.ca
- - [https://old.lemmy.ca](https://old.lemmy.ca)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Lemmy status
- - [https://status.lemmy.ca](https://status.lemmy.ca)
- - date_published: 2024-08-08T23:47:31.441890+00:00
-
- ## Voyager for Lemmy
- - [https://voyager.lemmy.ca](https://voyager.lemmy.ca)
- - date_published: 2024-03-30T21:06:50+00:00
-
- ## Lemon Productions
- - [https://www.lemonproductions.ca](https://www.lemonproductions.ca)
- - date_published: 2024-06-23T06:02:11.308234+00:00
-
- ## LensCrafters.com
- - [https://www.lenscrafters.ca](https://www.lenscrafters.ca)
- - date_published: 2024-07-09T10:16:29.675334+00:00
-
- ## Leonardo Canada Electronics  | Leading Electronic Defense Solutions in Canada
- - [https://leonardocompany.ca](https://leonardocompany.ca)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Les Meilleurs Bars à Montréal - L'Excellence Nocturne
- - [http://lesaintsulpice.ca](http://lesaintsulpice.ca)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Accueil - Les options ça compte
- - [https://www.lesoptionscacompte.ca](https://www.lesoptionscacompte.ca)
- - date_published: 2024-06-23T10:28:55.086872+00:00
-
- ## Health. Wellness. Rewards. All in one program. - Liferay
- - [https://www.letsbewell.ca](https://www.letsbewell.ca)
- - date_published: 2024-09-26T10:16:22.631844+00:00
-
- ## Let’s Talk Central Elgin
- - [https://www.letstalkcentralelgin.ca](https://www.letstalkcentralelgin.ca)
- - date_published: 2024-06-29T09:47:37.292848+00:00
-
- ## LEUCHTTURM1917 CANADA
- - [https://fr.leuchtturm1917.ca](https://fr.leuchtturm1917.ca)
- - date_published: 2024-06-21T23:24:25.508794+00:00
-
- ## LEUCHTTURM1917 CANADA
- - [https://www.leuchtturm1917.ca](https://www.leuchtturm1917.ca)
- - date_published: 2024-06-21T23:24:15.116066+00:00
-
- ## Level Up 2024
- - [https://levelupconference.ca](https://levelupconference.ca)
- - date_published: 2024-06-29T11:45:20.405312+00:00
-
- ## Compleat Lexical Tutor
- - [http://www.lextutor.ca](http://www.lextutor.ca)
- - date_published: 2024-07-02T09:44:00.071071+00:00
-
- ## LFX ASSOCIATES
- - [https://www.lfxassociates.ca](https://www.lfxassociates.ca)
- - date_published: 2024-06-28T18:51:00.448066+00:00
-
- ## Consumer & Home Electronics from LG | LG CA
- - [https://www.lg.ca](https://www.lg.ca)
- - date_published: 2024-07-03T07:23:55.244482+00:00
-
- ## Linguistics Graduate Course Union
- - [https://lgcu.ca](https://lgcu.ca)
- - date_published: 2024-03-07T15:30:59+00:00
-
- ## Home | Liam Paull
- - [http://liampaull.ca](http://liampaull.ca)
- - date_published: 2024-05-01T20:54:40+00:00
-
- ## Liberal Party of Canada
- - [http://www.liberal.ca](http://www.liberal.ca)
- - date_published: 2024-09-12T14:07:05.958294+00:00
-
- ## Canada's Leading Coding Bootcamp - Lighthouse Labs
- - [https://www.lighthouselabs.ca](https://www.lighthouselabs.ca)
- - date_published: 2024-07-14T10:22:25.887520+00:00
-
- ## Lighting in Canada, Canada
- - [http://www.lighting.ca](http://www.lighting.ca)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Canadian Light Source
- - [https://www.lightsource.ca](https://www.lightsource.ca)
- - date_published: 2024-07-13T16:47:43.692294+00:00
-
- ## Chalet Kamanik
- - [http://lilipad.ca](http://lilipad.ca)
- - date_published: 2022-10-01T19:40:29+00:00
-
- ## Lima Charlie | Web development studio | Located in Montréal.
- - [https://limacharlie.ca](https://limacharlie.ca)
- - date_published: 2024-06-15T02:49:04.062134+00:00
-
- ## Limbic Noodle
- - [http://limbicnoodle.ca](http://limbicnoodle.ca)
- - date_published: 2024-09-02T06:01:13+00:00
-
- ## Top 5 Top 5 Toronto Limos for 2020 | Limos.ca Plumbers and Plumbing Contractors for 2020 | Limos.ca
- - [http://www.limos.ca](http://www.limos.ca)
- - date_published: 2024-06-29T17:35:25.508397+00:00
-
- ## Liquid I.V. - Fueling Life's Adventures
- - [https://www.liquid-iv.ca](https://www.liquid-iv.ca)
- - date_published: 2024-08-05T19:45:59.114223+00:00
-
- ## Private cooking classes and summer camps for kids and teens
- - [https://littlecooksclub.ca](https://littlecooksclub.ca)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Little Things Matter
- - [http://littlethingsmatter.ca](http://littlethingsmatter.ca)
- - date_published: 2024-04-16T06:08:34+00:00
-
- ## livier.ca
- - [http://www.livier.ca](http://www.livier.ca)
- - date_published: 2022-01-03T16:11:55+00:00
-
- ## Toronto Lobbyist Registry Database: lobbyist_registry
- - [https://lobbyingintoronto.ca](https://lobbyingintoronto.ca)
- - date_published: 2024-09-04T04:38:08.048079+00:00
-
- ## Loblaw Companies Ltd. | Live Life Well®
- - [https://loblaw.ca](https://loblaw.ca)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Loblaw Companies Ltd. | Live Life Well®
- - [http://www.loblaw.ca](http://www.loblaw.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Local Green Fees- Canada's definitive green fee directory
- - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
- - date_published: 2024-07-12T17:59:30.132263+00:00
-
- ## Local Integrative Health Clinic in East Vancouver, BC
- - [https://localhealthclinic.ca](https://localhealthclinic.ca)
- - date_published: 2024-06-12T19:25:19+00:00
-
- ## LocalWork.ca | Employer Services
- - [https://employers.localwork.ca](https://employers.localwork.ca)
- - date_published: 2024-06-26T22:36:30.872374+00:00
-
- ## LocalWork.ca | jobs
- - [https://www.localwork.ca](https://www.localwork.ca)
- - date_published: 2024-05-06T20:01:58.481788+00:00
-
- ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
- - [https://localyogastudio.ca](https://localyogastudio.ca)
- - date_published: 2024-09-18T18:42:59+00:00
-
- ## Locomotive | Montreal web agency
- - [https://locomotive.ca](https://locomotive.ca)
- - date_published: 2024-06-19T16:15:15.418837+00:00
-
- ## lolcat's git serber
- - [https://git.lolcat.ca](https://git.lolcat.ca)
- - date_published: 2024-10-20T22:39:45.354239+00:00
-
- ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
- - [https://loopnet.ca](https://loopnet.ca)
- - date_published: 2024-05-12T07:41:00.330334+00:00
-
- ## Lorimer
- - [http://www.lorimer.ca](http://www.lorimer.ca)
- - date_published: 2024-08-17T11:36:40+00:00
-
- ## L. Ron Hubbard - Scientology & Dianetics Founder
- - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
- - date_published: 2024-06-06T19:38:31.754675+00:00
 

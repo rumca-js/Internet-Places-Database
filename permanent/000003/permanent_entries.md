@@ -1,3 +1,39 @@
+ ## AI Phone Automation for Better Patient Access
+ - [https://talkie.ai](https://talkie.ai)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## AI Language Teacher - Talkpal
+ - [http://talkpal.ai](http://talkpal.ai)
+ - date_published: 2024-06-19T18:30:57+00:00
+
+ ## Tammy AI
+ - [https://tammy.ai](https://tammy.ai)
+ - date_published: 2024-06-19T20:05:12.672295+00:00
+
+ ## Creator Studio | TaoLabs.ai
+ - [https://www.taolabs.ai](https://www.taolabs.ai)
+ - date_published: 2024-08-18T06:14:15.091329+00:00
+
+ ## tap4.ai
+ - [https://tap4.ai](https://tap4.ai)
+ - date_published: 2024-09-14T07:48:13.089563+00:00
+
+ ## Tara AI | The AI Platform for Software Engineering Best Practices
+ - [https://tara.ai](https://tara.ai)
+ - date_published: 2024-05-29T18:44:35+00:00
+
+ ## Tarot Master | Free Personalized Readings & Cosmic Insights
+ - [https://app.tarotmaster.ai](https://app.tarotmaster.ai)
+ - date_published: 2024-09-13T20:40:13.435299+00:00
+
+ ## Tarot Master | Chat With Your Personal AI Psychic
+ - [https://tarotmaster.ai](https://tarotmaster.ai)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Tarteel Feedback
+ - [https://feedback.tarteel.ai](https://feedback.tarteel.ai)
+ - date_published: 2024-01-17T00:00:00+00:00
+
  ## Tarteel
  - [https://support.tarteel.ai](https://support.tarteel.ai)
  - date_published: 2024-08-19T12:07:43.988816+00:00
@@ -1024,6 +1060,10 @@
 Creative Solutions
  - [https://vmake.ai](https://vmake.ai)
  - date_published: 2024-06-19T19:10:42.514208+00:00
+
+ ## VoC AI Helpdesk
+ - [https://apps.voc.ai](https://apps.voc.ai)
+ - date_published: 2024-10-22T19:36:39.110516+00:00
 
  ## VOC AI | The Only Unified Customer Experience Mangement Platform: Where Customer Insights Fuse with AI Chatbot Excellence
  - [https://www.voc.ai](https://www.voc.ai)
@@ -3228,6 +3268,10 @@ Creative Solutions
  - [https://blizzy.app](https://blizzy.app)
  - date_published: 2024-06-19T19:12:46.476825+00:00
 
+ ## Blobmaker - Make organic SVG shapes for your next design
+ - [https://www.blobmaker.app](https://www.blobmaker.app)
+ - date_published: 2024-10-22T19:20:16.641270+00:00
+
  ## BloctoBay | Decentralized NFT Marketplace
  - [https://bay.blocto.app](https://bay.blocto.app)
  - date_published: 2024-09-24T21:50:57.453014+00:00
@@ -3979,48 +4023,4 @@ Creative Solutions
  ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
  - [https://diffusiondepot.app](https://diffusiondepot.app)
  - date_published: 2024-07-10T11:16:39.983398+00:00
-
- ## Digiboard by La Digitale
- - [https://digiboard.app](https://digiboard.app)
- - date_published: 2024-06-19T22:13:52.808568+00:00
-
- ## Digibuzzer by La Digitale
- - [https://digibuzzer.app](https://digibuzzer.app)
- - date_published: 2024-06-19T22:21:57.705558+00:00
-
- ## Digipad by La Digitale
- - [https://digipad.app](https://digipad.app)
- - date_published: 2024-06-19T22:14:29.585680+00:00
-
- ## Digistorm by La Digitale
- - [https://digistorm.app](https://digistorm.app)
- - date_published: 2024-06-19T22:35:03.515046+00:00
-
- ## Digiwall by La Digitale
- - [https://digiwall.app](https://digiwall.app)
- - date_published: 2024-06-19T22:12:03.314315+00:00
-
- ## Завантажуйте застосунок Дія
- - [https://go.diia.app](https://go.diia.app)
- - date_published: 2024-10-19T23:12:45.068932+00:00
-
- ## Loading…
- - [https://belkins.directus.app](https://belkins.directus.app)
- - date_published: 2024-10-05T23:46:26.583671+00:00
-
- ## Loading…
- - [https://hume-website.directus.app](https://hume-website.directus.app)
- - date_published: 2024-07-11T14:23:10.846976+00:00
-
- ## Loading…
- - [https://marketing.directus.app](https://marketing.directus.app)
- - date_published: 2024-05-19T02:57:27.093137+00:00
-
- ## Loading…
- - [https://ripleys.directus.app](https://ripleys.directus.app)
- - date_published: 2024-04-28T05:07:44.617119+00:00
-
- ## Loading…
- - [https://tv.directus.app](https://tv.directus.app)
- - date_published: 2024-05-19T02:57:34.991470+00:00
 

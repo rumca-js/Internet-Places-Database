@@ -1,3 +1,47 @@
+ ## Digiboard by La Digitale
+ - [https://digiboard.app](https://digiboard.app)
+ - date_published: 2024-06-19T22:13:52.808568+00:00
+
+ ## Digibuzzer by La Digitale
+ - [https://digibuzzer.app](https://digibuzzer.app)
+ - date_published: 2024-06-19T22:21:57.705558+00:00
+
+ ## Digipad by La Digitale
+ - [https://digipad.app](https://digipad.app)
+ - date_published: 2024-06-19T22:14:29.585680+00:00
+
+ ## Digistorm by La Digitale
+ - [https://digistorm.app](https://digistorm.app)
+ - date_published: 2024-06-19T22:35:03.515046+00:00
+
+ ## Digiwall by La Digitale
+ - [https://digiwall.app](https://digiwall.app)
+ - date_published: 2024-06-19T22:12:03.314315+00:00
+
+ ## Завантажуйте застосунок Дія
+ - [https://go.diia.app](https://go.diia.app)
+ - date_published: 2024-10-19T23:12:45.068932+00:00
+
+ ## Loading…
+ - [https://belkins.directus.app](https://belkins.directus.app)
+ - date_published: 2024-10-05T23:46:26.583671+00:00
+
+ ## Loading…
+ - [https://hume-website.directus.app](https://hume-website.directus.app)
+ - date_published: 2024-07-11T14:23:10.846976+00:00
+
+ ## Loading…
+ - [https://marketing.directus.app](https://marketing.directus.app)
+ - date_published: 2024-05-19T02:57:27.093137+00:00
+
+ ## Loading…
+ - [https://ripleys.directus.app](https://ripleys.directus.app)
+ - date_published: 2024-04-28T05:07:44.617119+00:00
+
+ ## Loading…
+ - [https://tv.directus.app](https://tv.directus.app)
+ - date_published: 2024-05-19T02:57:34.991470+00:00
+
  ## Dispensed.app
  - [https://about.dispensed.app](https://about.dispensed.app)
  - date_published: 2024-09-02T09:45:00.376341+00:00
@@ -297,6 +341,10 @@
  ## Fable Status
  - [https://status.fable.app](https://status.fable.app)
  - date_published: 2024-04-17T00:00:00+00:00
+
+ ## FabPic | Capture & Beautify Screenshots
+ - [https://www.fabpic.app](https://www.fabpic.app)
+ - date_published: 2024-10-22T19:22:52.529678+00:00
 
  ## Facework
  - [https://facework.app](https://facework.app)
@@ -859,6 +907,10 @@
  ## Congreso
  - [https://cngcelam.haif.app](https://cngcelam.haif.app)
  - date_published: 2024-09-11T01:52:08.594519+00:00
+
+ ## Haikei
+ - [https://app.haikei.app](https://app.haikei.app)
+ - date_published: 2024-10-22T19:23:48.102270+00:00
 
  ## Hailey HR
  - [https://haileyhr.app](https://haileyhr.app)
@@ -3739,6 +3791,10 @@
  - date_published: 2023-10-25T11:48:11.837009+00:00
  - tags: ['service maps', 'maps']
 
+ ## EvoTv
+ - [https://organizr.app](https://organizr.app)
+ - date_published: 2024-10-22T19:17:09.474364+00:00
+
  ## otion - motion graphics for everyone
  - [https://otion.app](https://otion.app)
  - date_published: 2024-06-23T12:24:38.158960+00:00
@@ -3786,6 +3842,10 @@
  ## Plausible · Web analytics
  - [https://app.pageview.app](https://app.pageview.app)
  - date_published: 2024-09-14T07:48:14.351128+00:00
+
+ ## Palettte App
+ - [https://palettte.app](https://palettte.app)
+ - date_published: 2024-10-22T19:23:55.020124+00:00
 
  ## Palform — Free end-to-end encrypted form builder
  - [https://palform.app](https://palform.app)
@@ -3972,64 +4032,4 @@
  ## Phrasing: To Fluency & Beyond!
  - [https://phrasing.app](https://phrasing.app)
  - date_published: 2024-01-29T16:56:42.292979+00:00
-
- ## PhyDemo | Open-source Physics Demos & Apps
- - [https://phydemo.app](https://phydemo.app)
- - date_published: 2023-09-18T02:33:21+00:00
-
- ## Pickwick | Find your next favorite series
- - [https://pickwick.app](https://pickwick.app)
- - date_published: 2024-04-30T02:48:03.200792+00:00
-
- ## Careers
- - [https://jobs.picnic.app](https://jobs.picnic.app)
- - date_published: 2024-07-02T23:34:26.758088+00:00
-
- ## Picnic | Supermarkt op wielen | Online boodschappen bestellen | Gratis bezorgd
- - [https://picnic.app](https://picnic.app)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Pieces for Developers - Your Workflow Copilot
- - [https://pieces.app](https://pieces.app)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Pigment Product Updates
- - [https://changelog.pigment.app](https://changelog.pigment.app)
- - date_published: 2024-06-21T09:15:37.802537+00:00
-
- ## Pigment.app
- - [https://pigment.app](https://pigment.app)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## PillarX
- - [https://go.pillarx.app](https://go.pillarx.app)
- - date_published: 2024-09-23T11:55:20.181974+00:00
-
- ## PillarX
- - [https://pillarx.app](https://pillarx.app)
- - date_published: 2024-09-23T12:08:22.984369+00:00
-
- ## coprime ⊥ domains
- - [http://pinata.app](http://pinata.app)
- - date_published: 2024-07-14T08:49:34.639480+00:00
-
- ## Pindigo
- - [https://media.pindigo.app](https://media.pindigo.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Pindigo
- - [https://pindigo.app](https://pindigo.app)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Pinstr
- - [https://pinstr.app](https://pinstr.app)
- - date_published: 2024-08-18T22:02:10.242533+00:00
-
- ## Pioneer - Join a network of 300+ founders in 50+ countries
- - [https://pioneer.app](https://pioneer.app)
- - date_published: 2024-05-01T04:18:44.596441+00:00
-
- ## Pippy: Disability Advocate and PIP Assistant
- - [https://pippy.app](https://pippy.app)
- - date_published: 2024-05-31T09:10:35+00:00
 

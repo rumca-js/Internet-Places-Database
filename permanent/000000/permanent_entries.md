@@ -279,6 +279,10 @@
  - [https://asa.hslt.academy](https://asa.hslt.academy)
  - date_published: 2024-07-08T12:58:30.698329+00:00
 
+ ## SquarePlanet
+ - [https://hype4.academy](https://hype4.academy)
+ - date_published: 2024-10-22T19:17:06.529319+00:00
+
  ## Hyperlink Academy
  - [https://hyperlink.academy](https://hyperlink.academy)
  - date_published: 2024-05-04T13:59:30.788023+00:00
@@ -782,6 +786,10 @@
  ## Home - Great Place to Work
  - [http://www.greatplacetowork.ae](http://www.greatplacetowork.ae)
  - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off
+ - [https://www.groupon.ae](https://www.groupon.ae)
+ - date_published: 2024-10-22T21:37:28.613478+00:00
 
  ## غينيس للأرقام القياسية
  - [https://www.guinnessworldrecords.ae](https://www.guinnessworldrecords.ae)
@@ -1490,6 +1498,10 @@
  - [https://youth.allafricamediasummit.africa](https://youth.allafricamediasummit.africa)
  - date_published: 2024-06-15T10:45:55.848914+00:00
 
+ ## Home • ALT Advisory | Make. Change. Possible.
+ - [https://altadvisory.africa](https://altadvisory.africa)
+ - date_published: 2024-10-22T21:43:37.554021+00:00
+
  ## Home - APAC
  - [https://apacongress.africa](https://apacongress.africa)
  - date_published: 2024-07-03T00:00:00+00:00
@@ -1800,6 +1812,10 @@
  ## Devx | The source of your code
  - [https://devx.agency](https://devx.agency)
  - date_published: 2024-07-17T07:18:40.912916+00:00
+
+ ## Fashion Marketing i Beauty Marketing - Digital Fashion
+ - [https://digital-fashion.agency](https://digital-fashion.agency)
+ - date_published: 2024-10-22T21:11:16.712747+00:00
 
  ## HealthTech digital agency in London | Doublesided
  - [https://doublesided.agency](https://doublesided.agency)
@@ -4007,20 +4023,4 @@ Welcome
  ## comma.ai — make driving chill
  - [https://comma.ai](https://comma.ai)
  - date_published: 2024-07-11T03:55:45+00:00
-
- ## Command AI | AI-powered user assistance
- - [https://www.command.ai](https://www.command.ai)
- - date_published: 2024-10-15T18:11:27.431807+00:00
-
- ## Components AI — A new way to explore generative design systems
- - [https://components.ai](https://components.ai)
- - date_published: 2024-05-06T14:00:05.855494+00:00
-
- ## Compose AI: Automated Your Writing
- - [https://www.compose.ai](https://www.compose.ai)
- - date_published: 2024-06-19T19:53:40.685942+00:00
-
- ## Frame
- - [https://analytics.conductive.ai](https://analytics.conductive.ai)
- - date_published: 2024-07-10T11:21:35.594163+00:00
 

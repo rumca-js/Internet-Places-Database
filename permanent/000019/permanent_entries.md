@@ -1,3 +1,196 @@
+ ## Change the World Now | Glendon Campus | York University
+ - [https://www.glendon.yorku.ca](https://www.glendon.yorku.ca)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Osgoode Hall Law School – York University
+ - [http://www.osgoode.yorku.ca](http://www.osgoode.yorku.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Department of Psychology
+ - [https://www.psych.yorku.ca](https://www.psych.yorku.ca)
+ - date_published: 2024-04-30T05:31:55.441536+00:00
+
+ ## Research and Innovation | York University
+ - [http://www.research.yorku.ca](http://www.research.yorku.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Homepage - YFile
+ - [https://yfile.news.yorku.ca](https://yfile.news.yorku.ca)
+ - date_published: 2024-04-30T05:32:00.155249+00:00
+
+ ## Welcome to York University! Bienvenue à l'Université York! - York International
+ - [https://yorkinternational.yorku.ca](https://yorkinternational.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## York University | Right the Future
+ - [https://yorku.ca](https://yorku.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## YUBlog | YUBlog
+ - [https://yublog.students.yorku.ca](https://yublog.students.yorku.ca)
+ - date_published: 2024-07-21T07:58:03.781085+00:00
+
+ ## Passport York Login
+ - [https://yulearn.yorku.ca](https://yulearn.yorku.ca)
+ - date_published: 2024-07-08T23:02:02.959783+00:00
+
+ ## Passport York Login
+ - [https://yulink-new.yorku.ca](https://yulink-new.yorku.ca)
+ - date_published: 2024-05-09T06:47:35.611383+00:00
+
+ ## York University Psychology Clinic
+ - [https://yupc.info.yorku.ca](https://yupc.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Home - Young W
+ - [https://www.youngw.ca](https://www.youngw.ca)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## AdChoices in Canada - Learn about the blue icon & your choices
+ - [https://youradchoices.ca](https://youradchoices.ca)
+ - date_published: 2024-06-15T03:45:09.750365+00:00
+
+ ## Your Environment
+ - [https://yourenvironment.ca](https://yourenvironment.ca)
+ - date_published: 2024-05-06T23:34:02.979229+00:00
+
+ ## Homepage
+ - [http://yourvancouverrealestate.ca](http://yourvancouverrealestate.ca)
+ - date_published: 2024-07-17T02:14:27+00:00
+
+ ## What Are Human Rights? Defined • Youth for Human Rights Campaign
+ - [http://www.youthforhumanrights.ca](http://www.youthforhumanrights.ca)
+ - date_published: 2024-09-04T17:53:42.657314+00:00
+
+ ## Home - Youth Science Canada
+ - [https://youthscience.ca](https://youthscience.ca)
+ - date_published: 2024-08-09T03:54:14.350183+00:00
+
+ ## yoyodyneconsulting.ca
+ - [http://www.yoyodyneconsulting.ca](http://www.yoyodyneconsulting.ca)
+ - date_published: 2024-08-19T21:49:10.597946+00:00
+
+ ## We are yunikon. Your partner for your digital footprint!
+ - [https://yunikon.ca](https://yunikon.ca)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Zoomer Digital Network
+ - [https://zdn.ca](https://zdn.ca)
+ - date_published: 2024-03-22T19:16:07+00:00
+
+ ## Splashpage
+ - [https://www.zeiss.ca](https://www.zeiss.ca)
+ - date_published: 2024-09-16T07:56:26.896158+00:00
+
+ ## Zeste, la destination qui comblera vos appétits! | Zeste
+ - [https://www.zeste.ca](https://www.zeste.ca)
+ - date_published: 2024-08-19T08:11:09.348826+00:00
+
+ ## Ka-Ping Yee
+ - [http://zesty.ca](http://zesty.ca)
+ - date_published: 2024-03-18T05:51:34+00:00
+
+ ## Home - ZGV
+ - [http://zgv.ca](http://zgv.ca)
+ - date_published: 2020-06-11T00:00:00+00:00
+
+ ## ssh guest@amyzhu
+ - [https://amy.zhucchini.ca](https://amy.zhucchini.ca)
+ - date_published: 2024-07-28T03:11:13+00:00
+
+ ## Zipcar: Car Sharing Alternative for Daily and Hourly Car Rental
+ - [https://members.zipcar.ca](https://members.zipcar.ca)
+ - date_published: 2024-06-15T17:09:51.284132+00:00
+
+ ## Canada Business Directory
+ - [https://www.zipleaf.ca](https://www.zipleaf.ca)
+ - date_published: 2024-06-29T17:23:18.110235+00:00
+
+ ## Redirect to Zisman.ca start page
+ - [http://www.zisman.ca](http://www.zisman.ca)
+ - date_published: 2021-05-31T14:51:16+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.ca](https://www2.zoetis.ca)
+ - date_published: 2024-06-27T09:52:48+00:00
+
+ ## Race Results & Registration | Zone4
+ - [https://zone4.ca](https://zone4.ca)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Zoomer Magazine
+ - [https://secure.zoomer.ca](https://secure.zoomer.ca)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## ZoomerMedia Limited
+ - [https://www.zoomermedia.ca](https://www.zoomermedia.ca)
+ - date_published: 2024-06-17T12:28:51.796300+00:00
+
+ ## Language selection - Agriculture and Agri-Food Canada / Sélection de la langue - Agriculture et Agroalimentaire Canada
+ - [https://agr.gc.ca](https://agr.gc.ca)
+ - date_published: 2024-10-15T06:45:27.597195+00:00
+
+ ## Agence spatiale canadienne | Canadian Space Agency
+ - [http://www.asc-csa.gc.ca](http://www.asc-csa.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Canada.ca
+ - [http://www.canada.gc.ca](http://www.canada.gc.ca)
+ - date_published: 2024-07-14T02:13:44+00:00
+
+ ## Canada and the world | Canada et le monde
+ - [https://www.canadainternational.gc.ca](https://www.canadainternational.gc.ca)
+ - date_published: 2017-06-01T00:00:00+00:00
+
+ ## Canadian Biodiversity Information Facility (CBIF) - agriculture.canada.ca
+ - [http://www.cbif.gc.ca](http://www.cbif.gc.ca)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Canadian Coast Guard | Garde côtière canadienne
+ - [https://www.ccg-gcc.gc.ca](https://www.ccg-gcc.gc.ca)
+ - date_published: 2024-10-18T06:56:21.734906+00:00
+
+ ## Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+ - [https://www.census.gc.ca](https://www.census.gc.ca)
+ - date_published: 2024-07-10T17:16:03+00:00
+
+ ## Canada Research Chairs | Chaires de recherche du Canada
+ - [http://www.chairs-chaires.gc.ca](http://www.chairs-chaires.gc.ca)
+ - date_published: 2013-09-10T00:00:00+00:00
+
+ ## Immigration, Refugees and Citizenship Canada | Immigration, Réfugiés et Citoyenneté Canada
+ - [https://cic.gc.ca](https://cic.gc.ca)
+ - date_published: 2013-12-13T00:00:00+00:00
+
+ ## Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
+ - [http://www.cihr-irsc.gc.ca](http://www.cihr-irsc.gc.ca)
+ - date_published: 2019-11-27T02:31:38+00:00
+
+ ## Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
+ - [https://www.cnsc-ccsn.gc.ca](https://www.cnsc-ccsn.gc.ca)
+ - date_published: 2022-10-05T00:00:00+00:00
+
+ ## Conseil de la radiodiffusion et des télécommunications canadiennes / Canadian Radio-television and Telecommunications Commission | CRTC
+ - [https://crtc.gc.ca](https://crtc.gc.ca)
+ - date_published: 2014-03-21T00:00:00+00:00
+
+ ## Communications Security Establishment
+ - [https://cse-cst.gc.ca](https://cse-cst.gc.ca)
+ - date_published: 2024-02-07T15:33:10+00:00
+ - tags: ['france security intelligence', 'security intelligence']
+
+ ## Canadian Centre for Cyber Security
+ - [https://cyber.gc.ca](https://cyber.gc.ca)
+ - date_published: 2018-08-15T00:00:00+00:00
+
+ ## Fisheries and Oceans Canada | Pêches et Océans Canada
+ - [http://www.dfo-mpo.gc.ca](http://www.dfo-mpo.gc.ca)
+ - date_published: 2022-01-24T00:00:00+00:00
+
+ ## Environment and Climate Change Canada - Canada.ca
+ - [https://ec.gc.ca](https://ec.gc.ca)
+ - date_published: 2024-04-17T00:00:00+00:00
+
  ## Language selection - Federal Economic Development Agency for Southern Ontario Main Site / Sélection de la langue - Site principal Agence fédérale de développement économique pour le Sud de l'Ontario
  - [https://www.feddevontario.gc.ca](https://www.feddevontario.gc.ca)
  - date_published: 2023-03-10T15:38:23+00:00
@@ -1596,6 +1789,10 @@
  ## Inici | AREA
  - [http://www.areaverda.cat](http://www.areaverda.cat)
  - date_published: 2024-09-17T05:31:45+00:00
+
+ ## Home | AwardCat
+ - [https://award.cat](https://award.cat)
+ - date_published: 2024-10-22T21:56:51.670735+00:00
 
  ## L’espai de trobada amb la gestió de la ciutat de Barcelona.
  - [https://ajuntament.barcelona.cat](https://ajuntament.barcelona.cat)
@@ -3824,202 +4021,4 @@
  ## pronouns.cc status
  - [https://status.pronouns.cc](https://status.pronouns.cc)
  - date_published: 2024-07-03T09:30:55.560124+00:00
-
- ## Providenza
- - [https://providenza.cc](https://providenza.cc)
- - date_published: 2024-07-09T19:11:25.402421+00:00
-
- ## QDAC数据访问组件网站 – QDAC-Delphi/C++ Builder快速数据访问组件库
- - [http://www.qdac.cc](http://www.qdac.cc)
- - date_published: 2021-06-15T00:00:00+00:00
-
- ## QR URL - QR Code & Url Shortener
- - [http://qrurl.cc](http://qrurl.cc)
- - date_published: 2024-06-29T19:41:39.442570+00:00
-
- ## Home
- - [https://raghav.cc](https://raghav.cc)
- - date_published: 2022-08-20T18:55:34+00:00
-
- ## Icecast Streaming Media Server
- - [https://allrelays.rainwave.cc](https://allrelays.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Icecast Streaming Media Server
- - [https://allstream.rainwave.cc](https://allstream.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Icecast Streaming Media Server
- - [https://chipstream.rainwave.cc](https://chipstream.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Rainwave Video Game Music Radio
- - [https://core.rainwave.cc](https://core.rainwave.cc)
- - date_published: 2024-04-30T05:45:19.725494+00:00
-
- ## Icecast Streaming Media Server
- - [https://coverstream.rainwave.cc](https://coverstream.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Icecast Streaming Media Server
- - [https://gamestream.rainwave.cc](https://gamestream.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Icecast Streaming Media Server
- - [https://ocrstream.rainwave.cc](https://ocrstream.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Rainwave Video Game Music Radio
- - [http://ormgas.rainwave.cc](http://ormgas.rainwave.cc)
- - date_published: 2024-02-15T02:00:08.503574+00:00
-
- ## Rainwave Video Game Music Radio
- - [https://rainwave.cc](https://rainwave.cc)
- - date_published: 2024-02-11T08:01:33+00:00
- - tags: ['video game music']
-
- ## Icecast Streaming Media Server
- - [https://relay.rainwave.cc](https://relay.rainwave.cc)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## The world’s finest cycling clothing | Rapha
- - [https://content.rapha.cc](https://content.rapha.cc)
- - date_published: 2024-06-22T21:30:34.984408+00:00
-
- ## RAPHA UK | Rapha Events
- - [https://events.rapha.cc](https://events.rapha.cc)
- - date_published: 2024-06-22T21:30:36.759701+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://media.rapha.cc](https://media.rapha.cc)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## The world’s finest cycling clothing | Rapha
- - [https://rapha.cc](https://rapha.cc)
- - date_published: 2024-06-22T21:30:41.121153+00:00
-
- ## Search | Rapha
- - [https://search.rapha.cc](https://search.rapha.cc)
- - date_published: 2024-06-22T21:30:35.872220+00:00
-
- ## RCKT
- - [https://rckt.cc](https://rckt.cc)
- - date_published: 2024-08-07T20:16:14.458604+00:00
-
- ## React Native Newsletter
- - [https://reactnative.cc](https://reactnative.cc)
- - date_published: 2023-07-05T20:51:21+00:00
-
- ## Red Velvet
- - [https://redvelvet.cc](https://redvelvet.cc)
- - date_published: 2024-06-15T12:13:16.127024+00:00
-
- ## ReferralCandy Portal
- - [http://radioddity.refr.cc](http://radioddity.refr.cc)
- - date_published: 2024-06-28T03:53:57+00:00
-
- ## ReferralCandy Portal
- - [https://shopsystem.refr.cc](https://shopsystem.refr.cc)
- - date_published: 2024-06-21T05:26:14+00:00
-
- ## ReimaginedCollective | The MENA region's first EdTech Venture Studio
- - [https://www.reimagined.cc](https://www.reimagined.cc)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Careers page
- - [https://jobs.relive.cc](https://jobs.relive.cc)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Relive | Run, Ride, Hike & more
- - [https://relive.cc](https://relive.cc)
- - date_published: 2024-06-21T21:36:41.142083+00:00
-
- ## Relive Support
- - [https://support.relive.cc](https://support.relive.cc)
- - date_published: 2024-06-13T10:47:56+00:00
-
- ## Re:plain — The Best Facebook Messenger, WhatsApp and Telegram live chat service
- - [https://replain.cc](https://replain.cc)
- - date_published: 2022-11-11T05:50:07+00:00
-
- ## Re:plain — The Best Facebook Messenger, WhatsApp and Telegram live chat service
- - [https://storage.replain.cc](https://storage.replain.cc)
- - date_published: 2022-11-11T05:50:07+00:00
-
- ## Re:plain — The Best Facebook Messenger, WhatsApp and Telegram live chat service
- - [https://widget.replain.cc](https://widget.replain.cc)
- - date_published: 2022-11-11T05:50:07+00:00
-
- ## RetroGames.cc - Play retro games online in your browser
- - [https://retrogames.cc](https://retrogames.cc)
- - date_published: 2023-10-26T18:49:17.261251+00:00
- - tags: ['retro game']
-
- ## Retroshare
- - [https://retroshare.cc](https://retroshare.cc)
- - date_published: 2024-01-15T10:35:56+00:00
-
- ## Revision | Revision
- - [https://revi.cc](https://revi.cc)
- - date_published: 2024-04-28T02:36:52.722449+00:00
-
- ## ricochet.cc
- - [http://ricochet.cc](http://ricochet.cc)
- - date_published: 2024-07-13T14:47:50+00:00
-
- ## Hello World
- - [https://blog.riemann.cc](https://blog.riemann.cc)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Laura Rimell
- - [http://www.rimell.cc](http://www.rimell.cc)
- - date_published: 2021-03-15T21:35:28+00:00
-
- ## Reinforcement Learning Conference 2024
- - [https://rl-conference.cc](https://rl-conference.cc)
- - date_published: 2024-08-12T14:57:56+00:00
-
- ## Bike Live |
- - [https://bikelive.road.cc](https://bikelive.road.cc)
- - date_published: 2024-04-30T05:45:35.363184+00:00
-
- ## road.cc
- - [https://cdn.road.cc](https://cdn.road.cc)
- - date_published: 2024-04-30T05:45:27.303491+00:00
-
- ## road.cc
- - [https://deals.road.cc](https://deals.road.cc)
- - date_published: 2024-04-30T05:45:33.747135+00:00
-
- ## electric bike reviews, buying advice and news - ebiketips
- - [https://ebiketips.road.cc](https://ebiketips.road.cc)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Fantasy Cycling from road.cc
- - [https://fantasy.road.cc](https://fantasy.road.cc)
- - date_published: 2024-04-30T05:45:28.830467+00:00
-
- ## off-road.cc
- - [https://off.road.cc](https://off.road.cc)
- - date_published: 2024-04-30T05:45:43.953539+00:00
-
- ## Cycling News | Bike Reviews | road.cc
- - [https://road.cc](https://road.cc)
- - date_published: 2023-10-25T12:11:30.754320+00:00
-
- ## Farrelly Atkinson
- - [https://sendy.road.cc](https://sendy.road.cc)
- - date_published: 2024-07-21T07:11:08.450106+00:00
-
- ## road.cc
- - [https://shop.road.cc](https://shop.road.cc)
- - date_published: 2024-04-30T05:45:36.441776+00:00
-
- ## Roland Sadowski. The Website
- - [https://rosado.cc](https://rosado.cc)
- - date_published: 2024-08-07T21:12:49.794999+00:00
-
- ## Raspberry Pi Press store
- - [https://store.rpipress.cc](https://store.rpipress.cc)
- - date_published: 2024-07-08T17:48:57.394440+00:00
 

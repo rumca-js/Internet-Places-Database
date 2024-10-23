@@ -1,3 +1,100 @@
+ ## AARNet Knowledge Base
+ - [https://support.aarnet.edu.au](https://support.aarnet.edu.au)
+ - date_published: 2024-07-08T12:54:32.112646+00:00
+
+ ## Welcome to AARNet
+ - [https://aarnet.edu.au](https://aarnet.edu.au)
+ - date_published: 2024-05-08T11:18:50.637057+00:00
+
+ ## ACARA
+ - [http://www.acara.edu.au](http://www.acara.edu.au)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## ACDS - Australian Council of Deans of Science
+ - [http://www.acds.edu.au](http://www.acds.edu.au)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Australian Catholic University (ACU)
+ - [http://www.acu.edu.au](http://www.acu.edu.au)
+ - date_published: 2024-07-22T08:52:50.367404+00:00
+
+ ## The University of Adelaide
+ - [https://adelaide.edu.au](https://adelaide.edu.au)
+ - date_published: 2024-07-01T00:00:00+00:00
+ - tags: ['university']
+
+ ## Header footer | University of Adelaide Style guide
+ - [https://archives.adelaide.edu.au](https://archives.adelaide.edu.au)
+ - date_published: 2018-06-14T06:24:48+00:00
+
+ ## School of Computer and Mathematical Sciences
+ - [https://cs.adelaide.edu.au](https://cs.adelaide.edu.au)
+ - date_published: 2024-05-08T00:01:19.164576+00:00
+
+ ## Home | Future Students | University of Adelaide
+ - [https://future.ask.adelaide.edu.au](https://future.ask.adelaide.edu.au)
+ - date_published: 2024-07-08T20:08:21.588081+00:00
+
+ ## Find a Researcher | Researcher Profiles
+ - [https://researchers.adelaide.edu.au](https://researchers.adelaide.edu.au)
+ - date_published: 2024-06-30T09:00:12+00:00
+
+ ## Faculty of Sciences, Engineering and Technology
+ - [https://set.adelaide.edu.au](https://set.adelaide.edu.au)
+ - date_published: 2024-07-02T22:05:06+00:00
+
+ ## Adelaide University
+ - [https://adelaideuni.edu.au](https://adelaideuni.edu.au)
+ - date_published: 2024-05-09T02:36:50.201208+00:00
+
+ ## ADELE (O:S)
+ - [https://www.adele.edu.au](https://www.adele.edu.au)
+ - date_published: 2024-07-09T14:24:33.691884+00:00
+
+ ## Australian Maths Trust
+ - [http://www.amt.edu.au](http://www.amt.edu.au)
+ - date_published: 2024-06-30T03:01:48.543094+00:00
+
+ ## About ANU | Australian National University
+ - [http://about.anu.edu.au](http://about.anu.edu.au)
+ - date_published: 2023-01-31T00:19:35+00:00
+
+ ## The Australian National University
+ - [http://anu.edu.au](http://anu.edu.au)
+ - date_published: 2024-07-22T09:10:31.400222+00:00
+
+ ## Welcome to nginx!
+ - [http://biology.anu.edu.au](http://biology.anu.edu.au)
+ - date_published: 2024-05-29T19:07:29+00:00
+
+ ## Welcome
+ - [https://cecc.anu.edu.au](https://cecc.anu.edu.au)
+ - date_published: 2024-08-07T05:17:23+00:00
+
+ ## Welcome
+ - [https://cecs.anu.edu.au](https://cecs.anu.edu.au)
+ - date_published: 2024-08-07T05:17:23+00:00
+
+ ## School of Computing
+ - [https://comp.anu.edu.au](https://comp.anu.edu.au)
+ - date_published: 2024-04-28T03:36:58.813019+00:00
+
+ ## School of Computing
+ - [http://cs.anu.edu.au](http://cs.anu.edu.au)
+ - date_published: 2024-08-07T06:40:30+00:00
+
+ ## School of Cybernetics
+ - [https://cybernetics.anu.edu.au](https://cybernetics.anu.edu.au)
+ - date_published: 2024-08-07T05:27:50+00:00
+
+ ## School of Engineering
+ - [https://eng.anu.edu.au](https://eng.anu.edu.au)
+ - date_published: 2024-08-07T05:21:10+00:00
+
+ ## ANU College of Law
+ - [https://law.anu.edu.au](https://law.anu.edu.au)
+ - date_published: 2024-05-04T12:48:46.754272+00:00
+
  ## School of Philosophy
  - [http://philosophy.anu.edu.au](http://philosophy.anu.edu.au)
  - date_published: 2024-03-17T00:00:00+00:00
@@ -3924,100 +4021,4 @@ University of Technology
  ## Open Doors - Serving Persecuted Christians Worldwide
  - [https://opendoors.org.au](https://opendoors.org.au)
  - date_published: 2024-05-02T00:00:00+00:00
-
- ## OpenNEM: An Open Platform for National Electricity Market Data
- - [https://opennem.org.au](https://opennem.org.au)
- - date_published: 2024-08-31T05:21:57+00:00
-
- ## OPTIMA – ARC Training Centre in Optimisation Technologies, Integrated Methodologies, and Applications
- - [https://optima.org.au](https://optima.org.au)
- - date_published: 2024-05-08T10:19:26.154935+00:00
-
- ## Annual Report 2022 | Oxfam Australia
- - [https://annualreport.oxfam.org.au](https://annualreport.oxfam.org.au)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Oxfam Australia Media
- - [https://media.oxfam.org.au](https://media.oxfam.org.au)
- - date_published: 2024-06-25T23:27:34+00:00
-
- ## Oxfam Trailwalker 2024
- - [https://trailwalker.oxfam.org.au](https://trailwalker.oxfam.org.au)
- - date_published: 2024-07-08T13:53:10.390692+00:00
-
- ## Tackling Inequality to End Poverty
- - [https://oxfam.org.au](https://oxfam.org.au)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Tackling Inequality to End Poverty
- - [https://you.oxfam.org.au](https://you.oxfam.org.au)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Pancreatic Cancer Research Foundation - PanKind Australia
- - [https://pankind.org.au](https://pankind.org.au)
- - date_published: 2024-06-26T09:21:34.339798+00:00
-
- ## Nabu - Home
- - [https://catalog.paradisec.org.au](https://catalog.paradisec.org.au)
- - date_published: 2024-07-02T09:33:15.896171+00:00
-
- ## PARADISEC – Safeguarding research in Australia's region
- - [http://paradisec.org.au](http://paradisec.org.au)
- - date_published: 2024-07-02T09:15:51.303288+00:00
-
- ## SonarQube
- - [https://staging.paradisec.org.au](https://staging.paradisec.org.au)
- - date_published: 2024-07-02T09:33:24.769168+00:00
-
- ## PARADISEC – Safeguarding research in Australia's region
- - [https://www.paradisec.org.au](https://www.paradisec.org.au)
- - date_published: 2024-05-07T21:55:39.270764+00:00
-
- ## pastor2pastor.org.au – simple resources to help pastors
- - [http://pastor2pastor.org.au](http://pastor2pastor.org.au)
- - date_published: 2024-09-18T22:04:14.440440+00:00
-
- ## PBS 106.7FM Community Radio Shop
- - [https://merch.pbsfm.org.au](https://merch.pbsfm.org.au)
- - date_published: 2024-10-21T04:28:42.540414+00:00
-
- ## PBS FM
- - [http://www.pbsfm.org.au](http://www.pbsfm.org.au)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home - Peer by ADA
- - [https://peer.org.au](https://peer.org.au)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## The Permaculture Research Institute
- - [http://permaculture.org.au](http://permaculture.org.au)
- - date_published: 2024-06-30T03:19:59.888859+00:00
-
- ## PestSmart
- - [https://pestsmart.org.au](https://pestsmart.org.au)
- - date_published: 2024-07-20T21:48:16.768068+00:00
-
- ## Home - Philanthropy Australia
- - [http://www.philanthropy.org.au](http://www.philanthropy.org.au)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Prince of Wales Hospital Foundation
- - [https://powhf.org.au](https://powhf.org.au)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Home
- - [https://presscouncil.org.au](https://presscouncil.org.au)
- - date_published: 2024-06-12T23:56:50+00:00
-
- ## ACON Pride Training - LGBTQ+ Awareness and Inclusion Training
- - [https://www.pridetraining.org.au](https://www.pridetraining.org.au)
- - date_published: 2024-07-13T04:41:01.731459+00:00
-
- ## Australian Privacy Foundation – Defending your right to be free from intrusion
- - [https://privacy.org.au](https://privacy.org.au)
- - date_published: 2024-07-16T07:55:07+00:00
-
- ## Prosper Australia
- - [http://www.prosper.org.au](http://www.prosper.org.au)
- - date_published: 2024-10-21T14:17:01.062570+00:00
 

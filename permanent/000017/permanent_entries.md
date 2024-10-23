@@ -1,3 +1,183 @@
+ ## Top Kids Attraction | LEGOLAND Discovery Centre Toronto
+ - [https://toronto.legolanddiscoverycentre.ca](https://toronto.legolanddiscoverycentre.ca)
+ - date_published: 2024-07-03T09:45:39.991622+00:00
+
+ ## Lemmy.ca - A canadian-run community, geared towards canadians, but all are welcome!
+ - [https://lemmy.ca](https://lemmy.ca)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## lemmy.ca
+ - [https://old.lemmy.ca](https://old.lemmy.ca)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Lemmy status
+ - [https://status.lemmy.ca](https://status.lemmy.ca)
+ - date_published: 2024-08-08T23:47:31.441890+00:00
+
+ ## Voyager for Lemmy
+ - [https://voyager.lemmy.ca](https://voyager.lemmy.ca)
+ - date_published: 2024-03-30T21:06:50+00:00
+
+ ## Lemon Productions
+ - [https://www.lemonproductions.ca](https://www.lemonproductions.ca)
+ - date_published: 2024-06-23T06:02:11.308234+00:00
+
+ ## LensCrafters.com
+ - [https://www.lenscrafters.ca](https://www.lenscrafters.ca)
+ - date_published: 2024-07-09T10:16:29.675334+00:00
+
+ ## Leonardo Canada Electronics  | Leading Electronic Defense Solutions in Canada
+ - [https://leonardocompany.ca](https://leonardocompany.ca)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Les Meilleurs Bars à Montréal - L'Excellence Nocturne
+ - [http://lesaintsulpice.ca](http://lesaintsulpice.ca)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Accueil - Les options ça compte
+ - [https://www.lesoptionscacompte.ca](https://www.lesoptionscacompte.ca)
+ - date_published: 2024-06-23T10:28:55.086872+00:00
+
+ ## Health. Wellness. Rewards. All in one program. - Liferay
+ - [https://www.letsbewell.ca](https://www.letsbewell.ca)
+ - date_published: 2024-09-26T10:16:22.631844+00:00
+
+ ## Let’s Talk Central Elgin
+ - [https://www.letstalkcentralelgin.ca](https://www.letstalkcentralelgin.ca)
+ - date_published: 2024-06-29T09:47:37.292848+00:00
+
+ ## LEUCHTTURM1917 CANADA
+ - [https://fr.leuchtturm1917.ca](https://fr.leuchtturm1917.ca)
+ - date_published: 2024-06-21T23:24:25.508794+00:00
+
+ ## LEUCHTTURM1917 CANADA
+ - [https://www.leuchtturm1917.ca](https://www.leuchtturm1917.ca)
+ - date_published: 2024-06-21T23:24:15.116066+00:00
+
+ ## Level Up 2024
+ - [https://levelupconference.ca](https://levelupconference.ca)
+ - date_published: 2024-06-29T11:45:20.405312+00:00
+
+ ## Compleat Lexical Tutor
+ - [http://www.lextutor.ca](http://www.lextutor.ca)
+ - date_published: 2024-07-02T09:44:00.071071+00:00
+
+ ## LFX ASSOCIATES
+ - [https://www.lfxassociates.ca](https://www.lfxassociates.ca)
+ - date_published: 2024-06-28T18:51:00.448066+00:00
+
+ ## Consumer & Home Electronics from LG | LG CA
+ - [https://www.lg.ca](https://www.lg.ca)
+ - date_published: 2024-07-03T07:23:55.244482+00:00
+
+ ## Linguistics Graduate Course Union
+ - [https://lgcu.ca](https://lgcu.ca)
+ - date_published: 2024-03-07T15:30:59+00:00
+
+ ## Home | Liam Paull
+ - [http://liampaull.ca](http://liampaull.ca)
+ - date_published: 2024-05-01T20:54:40+00:00
+
+ ## Liberal Party of Canada
+ - [http://www.liberal.ca](http://www.liberal.ca)
+ - date_published: 2024-09-12T14:07:05.958294+00:00
+
+ ## Canada's Leading Coding Bootcamp - Lighthouse Labs
+ - [https://www.lighthouselabs.ca](https://www.lighthouselabs.ca)
+ - date_published: 2024-07-14T10:22:25.887520+00:00
+
+ ## Lighting in Canada, Canada
+ - [http://www.lighting.ca](http://www.lighting.ca)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Canadian Light Source
+ - [https://www.lightsource.ca](https://www.lightsource.ca)
+ - date_published: 2024-07-13T16:47:43.692294+00:00
+
+ ## Chalet Kamanik
+ - [http://lilipad.ca](http://lilipad.ca)
+ - date_published: 2022-10-01T19:40:29+00:00
+
+ ## Lima Charlie | Web development studio | Located in Montréal.
+ - [https://limacharlie.ca](https://limacharlie.ca)
+ - date_published: 2024-06-15T02:49:04.062134+00:00
+
+ ## Limbic Noodle
+ - [http://limbicnoodle.ca](http://limbicnoodle.ca)
+ - date_published: 2024-09-02T06:01:13+00:00
+
+ ## Top 5 Top 5 Toronto Limos for 2020 | Limos.ca Plumbers and Plumbing Contractors for 2020 | Limos.ca
+ - [http://www.limos.ca](http://www.limos.ca)
+ - date_published: 2024-06-29T17:35:25.508397+00:00
+
+ ## Liquid I.V. - Fueling Life's Adventures
+ - [https://www.liquid-iv.ca](https://www.liquid-iv.ca)
+ - date_published: 2024-08-05T19:45:59.114223+00:00
+
+ ## Private cooking classes and summer camps for kids and teens
+ - [https://littlecooksclub.ca](https://littlecooksclub.ca)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Little Things Matter
+ - [http://littlethingsmatter.ca](http://littlethingsmatter.ca)
+ - date_published: 2024-04-16T06:08:34+00:00
+
+ ## livier.ca
+ - [http://www.livier.ca](http://www.livier.ca)
+ - date_published: 2022-01-03T16:11:55+00:00
+
+ ## Toronto Lobbyist Registry Database: lobbyist_registry
+ - [https://lobbyingintoronto.ca](https://lobbyingintoronto.ca)
+ - date_published: 2024-09-04T04:38:08.048079+00:00
+
+ ## Loblaw Companies Ltd. | Live Life Well®
+ - [https://loblaw.ca](https://loblaw.ca)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Loblaw Companies Ltd. | Live Life Well®
+ - [http://www.loblaw.ca](http://www.loblaw.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Local Green Fees- Canada's definitive green fee directory
+ - [https://www.localgreenfees.ca](https://www.localgreenfees.ca)
+ - date_published: 2024-07-12T17:59:30.132263+00:00
+
+ ## Local Integrative Health Clinic in East Vancouver, BC
+ - [https://localhealthclinic.ca](https://localhealthclinic.ca)
+ - date_published: 2024-06-12T19:25:19+00:00
+
+ ## LocalWork.ca | Employer Services
+ - [https://employers.localwork.ca](https://employers.localwork.ca)
+ - date_published: 2024-06-26T22:36:30.872374+00:00
+
+ ## LocalWork.ca | jobs
+ - [https://www.localwork.ca](https://www.localwork.ca)
+ - date_published: 2024-05-06T20:01:58.481788+00:00
+
+ ## East Vancouver Yoga Studio | Local Yoga Studio | Yoga + more
+ - [https://localyogastudio.ca](https://localyogastudio.ca)
+ - date_published: 2024-09-18T18:42:59+00:00
+
+ ## Locomotive | Montreal web agency
+ - [https://locomotive.ca](https://locomotive.ca)
+ - date_published: 2024-06-19T16:15:15.418837+00:00
+
+ ## lolcat's git serber
+ - [https://git.lolcat.ca](https://git.lolcat.ca)
+ - date_published: 2024-10-20T22:39:45.354239+00:00
+
+ ## Commercial Real Estate for Sale & Lease in Canada | LoopNet.ca
+ - [https://loopnet.ca](https://loopnet.ca)
+ - date_published: 2024-05-12T07:41:00.330334+00:00
+
+ ## Lorimer
+ - [http://www.lorimer.ca](http://www.lorimer.ca)
+ - date_published: 2024-08-17T11:36:40+00:00
+
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [https://www.lronhubbard.ca](https://www.lronhubbard.ca)
+ - date_published: 2024-06-06T19:38:31.754675+00:00
+
  ## Law Society of Ontario Home | Law Society of Ontario
  - [https://lso.ca](https://lso.ca)
  - date_published: 2024-09-02T13:02:39.708237+00:00
@@ -969,6 +1149,10 @@
  ## Nature United
  - [https://natureunited.ca](https://natureunited.ca)
  - date_published: 2024-05-08T10:42:31.756794+00:00
+
+ ## Home - Yoonsik Park
+ - [https://www.naut.ca](https://www.naut.ca)
+ - date_published: 2024-10-22T21:52:47.743157+00:00
 
  ## Experts de l’architecture navale à Gaspé | Navanex
  - [https://navanex.ca](https://navanex.ca)
@@ -2816,6 +3000,10 @@
  - [https://scarcs.ca](https://scarcs.ca)
  - date_published: 2024-05-05T00:00:00+00:00
 
+ ## Decisions and Resources - SCC Cases
+ - [https://decisions.scc-csc.ca](https://decisions.scc-csc.ca)
+ - date_published: 2024-10-22T21:50:20.681560+00:00
+
  ## Entry Door Knobs, Door Locks & Hardware for Doors | Schlage
  - [https://schlage.ca](https://schlage.ca)
  - date_published: 2024-05-09T05:19:15.492632+00:00
@@ -3185,6 +3373,10 @@
  ## $name
  - [https://www.sheridancollege.ca](https://www.sheridancollege.ca)
  - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Welcome | Sherwin-Williams
+ - [https://www.sherwin-williams.ca](https://www.sherwin-williams.ca)
+ - date_published: 2024-10-22T20:37:37.560968+00:00
 
  ## Shop Beer Gear
  - [https://www.shopbeergear.ca](https://www.shopbeergear.ca)
@@ -3842,199 +4034,4 @@
  ## The Impact Project
  - [https://www.theimpactproject.ca](https://www.theimpactproject.ca)
  - date_published: 2024-06-21T00:00:00+00:00
-
- ## The Independent
- - [https://theindependent.ca](https://theindependent.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## The Inside Line  - Calgary Mountain Bike Shop
- - [https://theinsideline.ca](https://theinsideline.ca)
- - date_published: 2024-06-15T11:58:37.525844+00:00
-
- ## Burnaby Now LocalPROS
- - [https://burnaby.thelocalpros.ca](https://burnaby.thelocalpros.ca)
- - date_published: 2024-06-27T12:56:24.257522+00:00
-
- ## New West Record LocalPROS
- - [https://newwest.thelocalpros.ca](https://newwest.thelocalpros.ca)
- - date_published: 2024-06-27T12:55:00.010020+00:00
-
- ## Tri-City News LocalPROS
- - [https://tricities.thelocalpros.ca](https://tricities.thelocalpros.ca)
- - date_published: 2024-06-27T12:52:22.317924+00:00
-
- ## Mural of Honour - Mural of Honour
- - [https://mural.themilitarymuseums.ca](https://mural.themilitarymuseums.ca)
- - date_published: 2024-10-17T18:26:17.320873+00:00
-
- ## The Military Museums - The Military Museums
- - [https://themilitarymuseums.ca](https://themilitarymuseums.ca)
- - date_published: 2024-06-17T08:46:18+00:00
-
- ## The MINA Project
- - [https://www.theminaproject.ca](https://www.theminaproject.ca)
- - date_published: 2024-10-11T09:57:48.049153+00:00
-
- ## The Moulding Store Inc. | Calgary Mouldings, Doors, Locks, Bath Hardware and Accessories
- - [http://themouldingstore.ca](http://themouldingstore.ca)
- - date_published: 2024-06-23T12:04:27+00:00
-
- ## The Narwhal | News on Climate Change, Environmental Issues in Canada
- - [https://thenarwhal.ca](https://thenarwhal.ca)
- - date_published: 2018-04-30T21:43:50+00:00
-
- ## The North Face Renewed Marketplace
- - [https://renewed.thenorthface.ca](https://renewed.thenorthface.ca)
- - date_published: 2024-10-21T02:27:27.901403+00:00
-
- ## Theodore and Pringle Optical
- - [https://www.theodoreandpringle.ca](https://www.theodoreandpringle.ca)
- - date_published: 2024-09-30T12:16:17.922546+00:00
-
- ## theorca
- - [https://www.theorca.ca](https://www.theorca.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Organic Prepper Home - The Organic Prepper
- - [https://www.theorganicprepper.ca](https://www.theorganicprepper.ca)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## theoria – notes and commentaries
- - [http://www.theoria.ca](http://www.theoria.ca)
- - date_published: 2024-06-30T04:29:52.391280+00:00
-
- ## The Politics of Reproduction Research Group
- - [http://thepoliticsofreproduction.ca](http://thepoliticsofreproduction.ca)
- - date_published: 2024-09-02T13:05:48.920305+00:00
-
- ## The Power Centre Thunder Bay
- - [https://www.thepowercentre.ca](https://www.thepowercentre.ca)
- - date_published: 2024-08-18T14:37:00.977435+00:00
-
- ## TherapyMantra: Best Online Therapy and Counseling
- - [https://therapymantra.ca](https://therapymantra.ca)
- - date_published: 2024-07-23T21:20:02.198661+00:00
-
- ## Home The Rover
- - [https://therover.ca](https://therover.ca)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Peter Limberg
- - [https://thestoa.ca](https://thestoa.ca)
- - date_published: 2024-04-30T15:44:33.451663+00:00
- - tags: ['personal']
-
- ## A.D. SUI
- - [https://thesuiway.ca](https://thesuiway.ca)
- - date_published: 2024-04-29T02:17:46.340015+00:00
-
- ## Plausible · Web analytics
- - [https://analytic.thetechrobo.ca](https://analytic.thetechrobo.ca)
- - date_published: 2024-05-11T06:56:09.482135+00:00
-
- ## Archived YouTube Video Finder
- - [https://findyoutubevideo.thetechrobo.ca](https://findyoutubevideo.thetechrobo.ca)
- - date_published: 2023-11-11T08:20:40+00:00
-
- ## The Tyee | Home
- - [https://thetyee.ca](https://thetyee.ca)
- - date_published: 2024-06-29T06:14:02.957860+00:00
-
- ## The UWSA
- - [https://theuwsa.ca](https://theuwsa.ca)
- - date_published: 2024-09-13T20:01:10.127221+00:00
-
- ## The Walrus
- - [https://secure.thewalrus.ca](https://secure.thewalrus.ca)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## The Walrus Store
- - [https://store.thewalrus.ca](https://store.thewalrus.ca)
- - date_published: 2024-07-21T09:25:16.337235+00:00
-
- ## The Walrus | Canada's Conversation
- - [https://thewalrus.ca](https://thewalrus.ca)
- - date_published: 2023-10-25T12:12:23.582516+00:00
-
- ## Non-Religious Moral Code of Ethics & Common Decency - 21 Ways to be Happy - The Way To Happiness
- - [http://www.thewaytohappiness.ca](http://www.thewaytohappiness.ca)
- - date_published: 2024-09-04T17:53:45.991504+00:00
-
- ## ThinkPol - Free the news
- - [https://thinkpol.ca](https://thinkpol.ca)
- - date_published: 2023-10-25T12:08:24.491426+00:00
-
- ## Thomas Anderson
- - [https://thomasanderson.ca](https://thomasanderson.ca)
- - date_published: 2024-04-03T06:25:45.635825+00:00
- - tags: ['personal']
-
- ## Thomson Reuters online store
- - [https://store.thomsonreuters.ca](https://store.thomsonreuters.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Thomson Reuters Canada
- - [https://www.thomsonreuters.ca](https://www.thomsonreuters.ca)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Workwear and Menswear Sewing Patterns and Supplies | Thread Theory Designs
- - [https://threadtheory.ca](https://threadtheory.ca)
- - date_published: 2024-07-10T03:36:48.678061+00:00
-
- ## Finding the best business, It's that easy - ThreeBestRated.ca
- - [https://threebestrated.ca](https://threebestrated.ca)
- - date_published: 2024-05-02T09:53:04.963128+00:00
-
- ## dayder
- - [https://dayder.thume.ca](https://dayder.thume.ca)
- - date_published: 2024-04-30T05:16:58.353294+00:00
-
- ## dayder
- - [https://hnblogs.thume.ca](https://hnblogs.thume.ca)
- - date_published: 2024-04-30T05:16:53.652654+00:00
-
- ## Tristan's Site - Tristan Hume
- - [https://thume.ca](https://thume.ca)
- - date_published: 2023-10-25T08:43:07.236288+00:00
- - tags: ['personal']
-
- ## TIAO - Tourism Counts
- - [https://www.tiaontario.ca](https://www.tiaontario.ca)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Let's Get Your Identity Verified
- - [https://www.ticketmaster.ca](https://www.ticketmaster.ca)
- - date_published: 2024-07-19T05:00:01.344837+00:00
-
- ## TicketWeb - independent music concert tickets and more
- - [https://www.ticketweb.ca](https://www.ticketweb.ca)
- - date_published: 2024-07-01T05:01:18.417896+00:00
-
- ## Directory
- - [https://members.tico.ca](https://members.tico.ca)
- - date_published: 2024-07-17T10:26:22.622257+00:00
-
- ## Home - Tidal Commerce
- - [https://tidalcommerce.ca](https://tidalcommerce.ca)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Tidewater Press | Canadian publishers - Tidewater Press
- - [https://www.tidewaterpress.ca](https://www.tidewaterpress.ca)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## This is the default server vhost
- - [http://www.tiles.ca](http://www.tiles.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## Tilray
- - [https://www.tilraymedical.ca](https://www.tilraymedical.ca)
- - date_published: 2024-07-16T23:46:47.159020+00:00
-
- ## Trusses | Engineered Floors | Timber Wolf Truss
- - [https://timberwolftruss.ca](https://timberwolftruss.ca)
- - date_published: 2024-04-30T05:14:37.713928+00:00
-
- ## Time2Thrive | Tim Ebl | Substack
- - [https://www.time2thrive.ca](https://www.time2thrive.ca)
- - date_published: 2024-01-14T00:00:00+00:00
 
