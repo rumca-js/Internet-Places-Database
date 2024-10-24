@@ -1,3 +1,143 @@
+ ## Stormbirds
+ - [https://stormbirds.blog](https://stormbirds.blog)
+ - date_published: 2024-08-19T17:41:58.266486+00:00
+
+ ## Strongly Typed
+ - [https://stronglytyped.blog](https://stronglytyped.blog)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## stu.blog
+ - [https://stu.blog](https://stu.blog)
+ - date_published: 2024-07-13T23:54:57.081085+00:00
+
+ ## The Official StudioPress Blog
+ - [https://studiopress.blog](https://studiopress.blog)
+ - date_published: 2022-09-28T00:00:00+00:00
+
+ ## The Seven Deadly Stupidities | GP | Substack
+ - [https://stupid.blog](https://stupid.blog)
+ - date_published: 2023-12-16T16:48:24.781015+00:00
+
+ ## Executive Coaching with George Sudarkoff
+ - [https://sudarkoff.blog](https://sudarkoff.blog)
+ - date_published: 2023-10-25T09:39:42.624484+00:00
+ - tags: ['substack']
+
+ ## a critical discourse.
+ - [http://sunnyjreed.blog](http://sunnyjreed.blog)
+ - date_published: 2024-06-30T04:11:55.159779+00:00
+
+ ## SuperAngel.Fund | Ben Zises | Substack
+ - [https://www.superangel.blog](https://www.superangel.blog)
+ - date_published: 2024-05-07T11:16:38.192143+00:00
+
+ ## Surfing Complexity – Lorin Hochstein's ramblings about software, complex systems, and incidents.
+ - [https://surfingcomplexity.blog](https://surfingcomplexity.blog)
+ - date_published: 2023-10-25T12:01:31.469329+00:00
+
+ ## AGEN138 - Daftar Prediksi Keluaran Jawatogel Akurat Hk Sgp Sdy
+ - [https://www.swholocron.blog](https://www.swholocron.blog)
+ - date_published: 2024-08-25T11:33:31+00:00
+
+ ## Tanjas blog
+ - [https://tanjas.blog](https://tanjas.blog)
+ - date_published: 2024-04-03T12:42:58.498067+00:00
+ - tags: ['personal']
+
+ ## Gamer Tales · The First of Many
+ - [https://tekeous.blog](https://tekeous.blog)
+ - date_published: 2023-08-29T00:00:00+00:00
+
+ ## In the Dark
+ - [https://telescoper.blog](https://telescoper.blog)
+ - date_published: 2024-06-29T03:40:58.824221+00:00
+
+ ## Ten Forward's Blog – The official blog of the Ten Forward Mastodon instance
+ - [https://tenforward.blog](https://tenforward.blog)
+ - date_published: 2024-06-10T14:03:33+00:00
+
+ ## Texts.blog, the blog of Texts.com
+ - [https://texts.blog](https://texts.blog)
+ - date_published: 2024-01-29T22:46:36.155318+00:00
+
+ ## The Auditorium: a research culture and researcher development blog
+ - [http://theauditorium.blog](http://theauditorium.blog)
+ - date_published: 2024-06-17T14:06:53.639392+00:00
+
+ ## The Fizz - Gossip, Interviews, & Exclusive News from The Crush House
+ - [https://thefizz.blog](https://thefizz.blog)
+ - date_published: 2024-10-20T12:59:49.342075+00:00
+
+ ## The Gardens Trust
+ - [https://thegardenstrust.blog](https://thegardenstrust.blog)
+ - date_published: 2024-10-22T19:04:17+00:00
+
+ ## Theory Dish
+ - [https://theorydish.blog](https://theorydish.blog)
+ - date_published: 2024-06-21T03:52:55+00:00
+
+ ## The Overspill: when there's more that I want to say
+ - [https://theoverspill.blog](https://theoverspill.blog)
+ - date_published: 2024-05-08T10:43:11.660044+00:00
+
+ ## The Platform Law Blog
+ - [https://theplatformlaw.blog](https://theplatformlaw.blog)
+ - date_published: 2024-05-12T04:11:55.214912+00:00
+
+ ## The Simple Catholic
+ - [http://thesimplecatholic.blog](http://thesimplecatholic.blog)
+ - date_published: 2024-09-03T23:02:51.297980+00:00
+
+ ## The Solopreneur Blog
+ - [https://thesolopreneur.blog](https://thesolopreneur.blog)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## A Spoonful of Poetry: A poetry collection by Saalik Lokhandwala
+ - [https://poetry.thespoonful.blog](https://poetry.thespoonful.blog)
+ - date_published: 2024-04-28T06:08:30.388290+00:00
+
+ ## The Spoonful | Saalik Lokhandwala | Substack
+ - [https://www.thespoonful.blog](https://www.thespoonful.blog)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## The Tech Trailblazer
+ - [https://thetechtrailblazer.blog](https://thetechtrailblazer.blog)
+ - date_published: 2023-10-25T09:01:58.683638+00:00
+ - tags: ['personal']
+
+ ## This is Not Cool
+ - [https://thinc.blog](https://thinc.blog)
+ - date_published: 2024-06-30T02:30:07+00:00
+
+ ## Things I read
+ - [http://things-i-read.blog](http://things-i-read.blog)
+ - date_published: 2024-06-17T04:49:45.040086+00:00
+
+ ## Searching History
+ - [https://thoughtsfromafar.blog](https://thoughtsfromafar.blog)
+ - date_published: 2024-09-13T19:34:02.608919+00:00
+
+ ## Tiago Lopes
+ - [https://tiagolopes.blog](https://tiagolopes.blog)
+ - date_published: 2024-06-23T04:33:17+00:00
+
+ ## Tibz
+ - [https://tibz.blog](https://tibz.blog)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## The Blog of Author Tim Ferriss
+ - [https://tim.blog](https://tim.blog)
+ - date_published: 2023-10-25T09:02:05.192967+00:00
+ - tags: ['personal']
+
+ ## Home - Time Scavengers
+ - [https://timescavengers.blog](https://timescavengers.blog)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Tiny Theme for Micro.blog
+ - [https://tinyformicro.blog](https://tinyformicro.blog)
+ - date_published: 2024-05-04T14:42:55.366898+00:00
+
  ## tiny poems
  - [https://tinypoems.blog](https://tinypoems.blog)
  - date_published: 2024-05-02T12:54:41.281272+00:00
@@ -3884,140 +4024,4 @@ Educação
  ## Portal Richmond
  - [https://richmond.com.br](https://richmond.com.br)
  - date_published: 2024-06-12T13:02:44.833617+00:00
-
- ## RichmondShare Blog | High quality content and interaction in the ELT world
- - [http://www.richmondshare.com.br](http://www.richmondshare.com.br)
- - date_published: 2024-09-12T22:40:33.383989+00:00
-
- ## Loja online - Loja de ebooks e audiobooks da Editora Rocco
- - [https://aguarde.rocco.com.br](https://aguarde.rocco.com.br)
- - date_published: 2024-07-15T07:35:08.759396+00:00
-
- ## Editora Rocco – Loja virtual da Editora Rocco
- - [https://homol.rocco.com.br](https://homol.rocco.com.br)
- - date_published: 2024-07-14T06:56:59+00:00
-
- ## Editora Rocco – Loja virtual da Editora Rocco
- - [https://rocco.com.br](https://rocco.com.br)
- - date_published: 2024-05-12T05:44:54.068899+00:00
-
- ## Rolling Stone Brasil
- - [https://rollingstone.com.br](https://rollingstone.com.br)
- - date_published: 2024-07-11T17:33:25.201530+00:00
-
- ## Rosa Passos - Site Oficial
- - [https://www.rosapassos.com.br](https://www.rosapassos.com.br)
- - date_published: 2024-07-15T06:07:15.944310+00:00
-
- ## Rung - Gestão de Excepcionalidades
- - [https://rung.com.br](https://rung.com.br)
- - date_published: 2019-08-30T14:39:45+00:00
-
- ## RW Studio
- - [https://www.rwstudio.com.br](https://www.rwstudio.com.br)
- - date_published: 2021-02-22T15:30:44+00:00
-
- ## Editora Moderna :: Literatura
- - [https://www.salamandra.com.br](https://www.salamandra.com.br)
- - date_published: 2024-09-12T22:40:24.938053+00:00
-
- ## Sanofi, uma empresa inovadora de saúde global | Sanofi Brasil
- - [https://www.sanofi.com.br](https://www.sanofi.com.br)
- - date_published: 2024-07-03T03:39:44.856939+00:00
-
- ## Abra sua conta - Santander
- - [https://abrasuaconta.santander.com.br](https://abrasuaconta.santander.com.br)
- - date_published: 2024-05-27T15:01:24+00:00
-
- ## Santander - Atendimento
- - [https://chat.santander.com.br](https://chat.santander.com.br)
- - date_published: 2024-05-17T14:13:23+00:00
-
- ## Encerramento de conta
- - [https://encerramentodeconta.santander.com.br](https://encerramentodeconta.santander.com.br)
- - date_published: 2021-12-21T18:27:12+00:00
-
- ## Santander - Relações com Investidores
- - [https://ri.santander.com.br](https://ri.santander.com.br)
- - date_published: 2024-09-29T20:19:44.502820+00:00
-
- ## Soluções Santander para você. Abrir conta corrente, pedir cartão de crédito, solicitar empréstimo e mais.
- - [https://santander.com.br](https://santander.com.br)
- - date_published: 2024-06-14T15:56:47+00:00
-
- ## Pessoa física
- - [https://santanderassetmanagement.com.br](https://santanderassetmanagement.com.br)
- - date_published: 2024-09-29T20:18:56.320164+00:00
-
- ## Portal Financiamento
- - [https://www.cliente.santanderfinanciamentos.com.br](https://www.cliente.santanderfinanciamentos.com.br)
- - date_published: 2024-05-27T21:44:33+00:00
-
- ## Página Inicial - Santander: Portal de Imprensa
- - [https://santanderimprensa.com.br](https://santanderimprensa.com.br)
- - date_published: 2024-06-16T09:15:49.479703+00:00
-
- ## Programa Avançar Santander: Conteúdos exclusivos para o empreendedor
- - [https://santandernegocioseempresas.com.br](https://santandernegocioseempresas.com.br)
- - date_published: 2024-06-16T09:16:23.819379+00:00
-
- ## Internet Banking
- - [https://www.santandernetibe.com.br](https://www.santandernetibe.com.br)
- - date_published: 2024-06-16T09:15:50.970917+00:00
-
- ## SUSTENTABILIDADE SANTILLANA
- - [https://sustentabilidade.santillana.com.br](https://sustentabilidade.santillana.com.br)
- - date_published: 2024-09-10T05:46:05+00:00
-
- ## Santillana
- - [https://santillana.com.br](https://santillana.com.br)
- - date_published: 2024-06-12T13:06:22.843415+00:00
-
- ## Training Platform
- - [https://formacoes.santillanaeducacao.com.br](https://formacoes.santillanaeducacao.com.br)
- - date_published: 2024-09-13T10:27:49.620573+00:00
-
- ## Santillana Educação - Soluções que transformam a sua escola
- - [https://www.santillanaeducacao.com.br](https://www.santillanaeducacao.com.br)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Portal Santillana
- - [https://santillanaespanol.com.br](https://santillanaespanol.com.br)
- - date_published: 2024-06-12T13:04:16.037536+00:00
-
- ## Sapient AG2 | Consultoria de Customer Experience
- - [https://sapientag2.com.br](https://sapientag2.com.br)
- - date_published: 2024-04-11T14:41:21+00:00
-
- ## Serasa Experian - Consulte Soluções Para Empresas
- - [https://www.serasaexperian.com.br](https://www.serasaexperian.com.br)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Página inicial - Sergio Abranches
- - [https://sergioabranches.com.br](https://sergioabranches.com.br)
- - date_published: 2024-10-20T17:50:29.278727+00:00
-
- ## Service TIC – Soluções Tecnológicas
- - [https://servicetic.com.br](https://servicetic.com.br)
- - date_published: 2024-09-12T14:14:05.872504+00:00
-
- ## Sethi3D
- - [https://sethi.com.br](https://sethi.com.br)
- - date_published: 2023-10-29T00:14:57+00:00
-
- ## Sethi3D
- - [https://www.sethi3d.com.br](https://www.sethi3d.com.br)
- - date_published: 2024-07-14T05:38:40.329737+00:00
-
- ## SGS é a empresa líder mundial em inspeção, verificação, testes e certificação.
- - [https://www.sgsgroup.com.br](https://www.sgsgroup.com.br)
- - date_published: 2024-09-10T12:55:28.493954+00:00
-
- ## Shell Brasil
- - [http://shell.com.br](http://shell.com.br)
- - date_published: 2024-07-12T21:54:31+00:00
-
- ## Sicoob - Sistema de Cooperativas de Crédito do Brasil | Identificação (13 de Julho de 2024)
- - [https://ib.sicoobnet.com.br](https://ib.sicoobnet.com.br)
- - date_published: 2024-07-13T18:18:51.783608+00:00
 

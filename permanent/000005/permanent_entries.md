@@ -1,3 +1,24 @@
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://photoprism.app](https://photoprism.app)
+ - date_published: 2024-05-12T04:58:19.907236+00:00
+ - tags: ['photo storage', 'open source', 'self-host', 'image hosting']
+
+ ## PhotoPrism Translations
+ - [https://translate.photoprism.app](https://translate.photoprism.app)
+ - date_published: 2024-05-12T04:58:33.196347+00:00
+
+ ## PhotoPrism+: Demo
+ - [https://try.photoprism.app](https://try.photoprism.app)
+ - date_published: 2024-05-12T04:58:30.971299+00:00
+
+ ## PhotoPrism: Browse Your Life in Pictures
+ - [https://web.photoprism.app](https://web.photoprism.app)
+ - date_published: 2024-05-12T04:58:31.882933+00:00
+
+ ## Phrasing: To Fluency & Beyond!
+ - [https://phrasing.app](https://phrasing.app)
+ - date_published: 2024-01-29T16:56:42.292979+00:00
+
  ## PhyDemo | Open-source Physics Demos & Apps
  - [https://phydemo.app](https://phydemo.app)
  - date_published: 2023-09-18T02:33:21+00:00
@@ -3997,24 +4018,4 @@
  ## Wayland Protocol Documentation | Wayland Explorer
  - [https://wayland.app](https://wayland.app)
  - date_published: 2024-05-11T09:06:00.472799+00:00
-
- ## Show HN: Wealthfolio: A Private, Open-Source Investment Tracker
- - [https://wealthfolio.app](https://wealthfolio.app)
- - date_published: 2024-09-06T12:56:15+00:00
-
- ## Weathergraph
- - [https://weathergraph.app](https://weathergraph.app)
- - date_published: 2024-08-18T04:48:50.287888+00:00
-
- ## Weather Strip for iOS
- - [https://www.weatherstrip.app](https://www.weatherstrip.app)
- - date_published: 2023-09-12T20:17:43+00:00
-
- ## Weavus - The social app for real life
- - [https://weavus.app](https://weavus.app)
- - date_published: 2024-09-02T09:46:25.885621+00:00
-
- ## Additional Budget Graphs
- - [https://additionalbudgetgraphs.web.app](https://additionalbudgetgraphs.web.app)
- - date_published: 2024-07-05T19:35:44+00:00
 

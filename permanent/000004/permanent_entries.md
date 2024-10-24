@@ -1,3 +1,23 @@
+ ## DetailsPro: Design with SwiftUI, no coding required.
+ - [https://detailspro.app](https://detailspro.app)
+ - date_published: 2024-06-23T15:35:31.691381+00:00
+
+ ## Detoxify.app
+ - [https://detoxify.app](https://detoxify.app)
+ - date_published: 2024-07-04T04:23:51.459796+00:00
+
+ ## Diagrams: A Native Diagram Editor for Mac
+ - [https://diagrams.app](https://diagrams.app)
+ - date_published: 2024-05-12T06:23:53.449350+00:00
+
+ ## Didthis
+ - [https://didthis.app](https://didthis.app)
+ - date_published: 2024-05-08T10:31:33.250502+00:00
+
+ ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
+ - [https://diffusiondepot.app](https://diffusiondepot.app)
+ - date_published: 2024-07-10T11:16:39.983398+00:00
+
  ## Digiboard by La Digitale
  - [https://digiboard.app](https://digiboard.app)
  - date_published: 2024-06-19T22:13:52.808568+00:00
@@ -4011,25 +4031,4 @@
  ## PhotoPrism: Browse Your Life in Pictures
  - [https://link.photoprism.app](https://link.photoprism.app)
  - date_published: 2024-05-12T04:58:29.441276+00:00
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://photoprism.app](https://photoprism.app)
- - date_published: 2024-05-12T04:58:19.907236+00:00
- - tags: ['photo storage', 'open source', 'self-host', 'image hosting']
-
- ## PhotoPrism Translations
- - [https://translate.photoprism.app](https://translate.photoprism.app)
- - date_published: 2024-05-12T04:58:33.196347+00:00
-
- ## PhotoPrism+: Demo
- - [https://try.photoprism.app](https://try.photoprism.app)
- - date_published: 2024-05-12T04:58:30.971299+00:00
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://web.photoprism.app](https://web.photoprism.app)
- - date_published: 2024-05-12T04:58:31.882933+00:00
-
- ## Phrasing: To Fluency & Beyond!
- - [https://phrasing.app](https://phrasing.app)
- - date_published: 2024-01-29T16:56:42.292979+00:00
 

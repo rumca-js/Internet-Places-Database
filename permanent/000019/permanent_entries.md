@@ -1,3 +1,156 @@
+ ## Organizational Unit and Designate List
+ - [http://designates.apps06.yorku.ca](http://designates.apps06.yorku.ca)
+ - date_published: 2024-07-21T08:03:45.097874+00:00
+
+ ## Osgoode Hall Law School Digital Commons
+ - [https://digitalcommons.osgoode.yorku.ca](https://digitalcommons.osgoode.yorku.ca)
+ - date_published: 2024-10-18T22:18:03.056403+00:00
+
+ ## York University - Shibboleth - Loading Session Information
+ - [https://eclass.yorku.ca](https://eclass.yorku.ca)
+ - date_published: 2024-04-30T05:32:18.223282+00:00
+
+ ## Upcoming Events at York University
+ - [https://events.yorku.ca](https://events.yorku.ca)
+ - date_published: 2024-03-12T17:42:35.149483+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.students.yorku.ca](https://forms.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:11.379215+00:00
+
+ ## Your Future Starts Here | Future Students | York University
+ - [https://futurestudents.yorku.ca](https://futurestudents.yorku.ca)
+ - date_published: 2024-04-30T05:31:58.274621+00:00
+
+ ## Google Apps at York
+ - [https://google.info.yorku.ca](https://google.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Welcome to the Snowden Digital Surveillance Archive · Snowden Archive
+ - [https://grid.glendon.yorku.ca](https://grid.glendon.yorku.ca)
+ - date_published: 2024-05-29T08:29:45+00:00
+ - tags: ['surveillance', 'edward snowden']
+
+ ## Information Security at York | UIT Information Security York University
+ - [https://infosec.yorku.ca](https://infosec.yorku.ca)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Information and Privacy Office
+ - [https://ipo.info.yorku.ca](https://ipo.info.yorku.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Your Suggestions are Welcome | University Information Technology (UIT)
+ - [http://ithelp.yorku.ca](http://ithelp.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Las Nubes Project - Las Nubes Project
+ - [https://lasnubes.euc.yorku.ca](https://lasnubes.euc.yorku.ca)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## York University Library Home - York University Libraries
+ - [https://library.yorku.ca](https://library.yorku.ca)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Passport York Login
+ - [https://machformopd.osgoode.yorku.ca](https://machformopd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:21.138746+00:00
+
+ ## Winter 2024 - The York University Magazine
+ - [https://magazine.yorku.ca](https://magazine.yorku.ca)
+ - date_published: 2024-04-30T05:32:16.159127+00:00
+
+ ## Moodle
+ - [https://moodle.yorku.ca](https://moodle.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Passport York Login
+ - [http://myosgoodepd.osgoode.yorku.ca](http://myosgoodepd.osgoode.yorku.ca)
+ - date_published: 2024-07-09T21:36:19.297449+00:00
+
+ ## News | York University
+ - [https://news.yorku.ca](https://news.yorku.ca)
+ - date_published: 2024-04-30T05:32:10.631393+00:00
+
+ ## OSAP (Ontario Student Assistance Program) | OSAP | York University
+ - [http://osap.students.yorku.ca](http://osap.students.yorku.ca)
+ - date_published: 2024-07-21T07:57:32.808693+00:00
+
+ ## OSAP (Ontario Student Assistance Program) | OSAP | York University
+ - [https://osap.yorku.ca](https://osap.yorku.ca)
+ - date_published: 2024-07-21T07:57:34.441566+00:00
+
+ ## University Information Technology (UIT) | Something goes here....
+ - [https://passportyork.yorku.ca](https://passportyork.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Classics in the History of Psychology
+ - [https://psychclassics.yorku.ca](https://psychclassics.yorku.ca)
+ - date_published: 2024-01-06T17:40:41.073576+00:00
+
+ ## Passport York Login
+ - [https://psychology.blog.yorku.ca](https://psychology.blog.yorku.ca)
+ - date_published: 2024-07-21T08:04:39.553865+00:00
+
+ ## Registrar's Office - Home | Registrar's Office | York University
+ - [https://registrar.yorku.ca](https://registrar.yorku.ca)
+ - date_published: 2024-07-09T21:36:57.398233+00:00
+
+ ## LibGuides
+ - [https://researchguides.library.yorku.ca](https://researchguides.library.yorku.ca)
+ - date_published: 2024-10-18T22:17:53.333681+00:00
+
+ ## Welcome! - Centre for Human Rights, Equity and Inclusion
+ - [https://rights.info.yorku.ca](https://rights.info.yorku.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Safety | York University
+ - [https://safety.yorku.ca](https://safety.yorku.ca)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Canada’s #1 Business School | Schulich School of Business
+ - [https://schulich.yorku.ca](https://schulich.yorku.ca)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## York Search Results - York University
+ - [https://search2.info.yorku.ca](https://search2.info.yorku.ca)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Secretariat Policies
+ - [https://secretariat-policies.info.yorku.ca](https://secretariat-policies.info.yorku.ca)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Student Financial Services - Home | Student Financial Services | York University
+ - [https://sfs.yorku.ca](https://sfs.yorku.ca)
+ - date_published: 2024-04-30T05:32:28.949793+00:00
+
+ ## WordPress at York |
+ - [https://site.info.yorku.ca](https://site.info.yorku.ca)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Faculty & Staff Services | University Information Technology (UIT)
+ - [https://staff.computing.yorku.ca](https://staff.computing.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Current Students | Division of Students | York University
+ - [https://students.yorku.ca](https://students.yorku.ca)
+ - date_published: 2024-07-21T07:57:23.196380+00:00
+
+ ## UPSA
+ - [http://upsa.club.yorku.ca](http://upsa.club.yorku.ca)
+ - date_published: 2024-07-21T08:04:42.456648+00:00
+
+ ## WordPress at York
+ - [http://wordpress.info.yorku.ca](http://wordpress.info.yorku.ca)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## William van Wijngaarden – Lasers and Physics will blow your mind
+ - [https://wvanwijngaarden.info.yorku.ca](https://wvanwijngaarden.info.yorku.ca)
+ - date_published: 2024-06-15T09:13:48+00:00
+
+ ## Homepage | Electrical Engineering and Computer Science
+ - [http://www.cse.yorku.ca](http://www.cse.yorku.ca)
+ - date_published: 2024-01-25T00:00:00+00:00
+
  ## Change the World Now | Glendon Campus | York University
  - [https://www.glendon.yorku.ca](https://www.glendon.yorku.ca)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -1553,6 +1706,10 @@
  ## Grab life with both hands
  - [https://grab.careers](https://grab.careers)
  - date_published: 2024-04-01T00:00:00+00:00
+
+ ## 転職するスタートアップを探すなら HERP Careers | 転職のためのスタートアップ図鑑
+ - [https://herp.careers](https://herp.careers)
+ - date_published: 2024-10-23T07:03:15.424709+00:00
 
  ## HoGa Careers - Gastro Jobanzeigen und Stellenangebote
  - [https://www.hoga.careers](https://www.hoga.careers)
@@ -3861,164 +4018,4 @@
  ## List of Proceedings
  - [https://proceedings.neurips.cc](https://proceedings.neurips.cc)
  - date_published: 2024-04-28T03:29:07.142085+00:00
-
- ## NFTrees
- - [https://nftrees.cc](https://nftrees.cc)
- - date_published: 2024-07-23T23:26:35.982005+00:00
-
- ## nilFM hack lab
- - [https://hacklab.nilfm.cc](https://hacklab.nilfm.cc)
- - date_published: 2024-07-10T07:54:13.980665+00:00
-
- ## nilFM — home
- - [https://nilfm.cc](https://nilfm.cc)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## 2024 Conference
- - [https://nips.cc](https://nips.cc)
- - date_published: 2024-04-28T03:39:47.925757+00:00
-
- ## List of Proceedings
- - [https://papers.nips.cc](https://papers.nips.cc)
- - date_published: 2024-04-28T03:55:10.790179+00:00
-
- ## No Deposit Bonus Codes Updated Daily
- - [https://www.nodepositbonus.cc](https://www.nodepositbonus.cc)
- - date_published: 2024-07-17T04:38:36.325534+00:00
-
- ## NSSM - the Non-Sucking Service Manager
- - [http://nssm.cc](http://nssm.cc)
- - date_published: 2024-07-18T06:41:06.694182+00:00
-
- ## KRAKEN | Официальный сайт
- - [https://omgomgonion.cc](https://omgomgonion.cc)
- - date_published: 2024-07-04T07:34:35.467079+00:00
-
- ## Arduino Blog
- - [http://blog.oniudra.cc](http://blog.oniudra.cc)
- - date_published: 2024-08-19T12:53:23.059548+00:00
-
- ## Ontologicc
- - [https://ontologi.cc](https://ontologi.cc)
- - date_published: 2024-05-08T04:47:02.560736+00:00
-
- ## OpenFarm
-         - You Can Grow Anything
- - [https://openfarm.cc](https://openfarm.cc)
- - date_published: 2023-10-25T12:11:11.284428+00:00
-
- ## openFrameworks
- - [http://openframeworks.cc](http://openframeworks.cc)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## openweb.cc
- - [http://openweb.cc](http://openweb.cc)
- - date_published: 2019-01-06T11:50:57+00:00
-
- ## Otávio's blog
- - [https://otavio.cc](https://otavio.cc)
- - date_published: 2024-08-06T17:35:07+00:00
-
- ## Index of /
- - [https://img.passman.cc](https://img.passman.cc)
- - date_published: 2019-04-08T00:00:00+00:00
-
- ## Websites change. Perma Links don't.
- - [https://perma.cc](https://perma.cc)
- - date_published: 2024-05-13T13:48:59.465101+00:00
-
- ## Perma.cc status
- - [https://status.perma.cc](https://status.perma.cc)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Peter Pessl
- - [https://pessl.cc](https://pessl.cc)
- - date_published: 2024-02-01T21:32:55+00:00
-
- ## หน้าแรก
- - [https://www.pg-slot.cc](https://www.pg-slot.cc)
- - date_published: 2024-10-22T14:46:41.280866+00:00
-
- ## Phenomenologicc
- - [https://phenomenologi.cc](https://phenomenologi.cc)
- - date_published: 2024-05-08T04:46:37.892229+00:00
-
- ## chris pickard's weblog
- - [https://pickard.cc](https://pickard.cc)
- - date_published: 2023-10-25T08:43:16.329645+00:00
- - tags: ['personal']
-
- ## Pictos Redux
- - [http://pictos.cc](http://pictos.cc)
- - date_published: 2023-07-27T20:05:35+00:00
-
- ## Grafana
- - [https://demo.pigsty.cc](https://demo.pigsty.cc)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Pigsty
- - [https://pigsty.cc](https://pigsty.cc)
- - date_published: 2024-07-10T04:28:22+00:00
-
- ## Kirill Pimenov
- - [https://pimenov.cc](https://pimenov.cc)
- - date_published: 2024-09-23T12:19:17.241007+00:00
-
- ## studio pl80
- - [http://pl80.cc](http://pl80.cc)
- - date_published: 2020-04-19T18:38:15+00:00
-
- ## Play Mario Games Online
- - [https://playmario.cc](https://playmario.cc)
- - date_published: 2023-12-11T16:56:09.168448+00:00
- - tags: ['mario', 'super mario']
-
- ## Lost Animals by Geoff Manaugh
- - [https://lostanimals.plotter.cc](https://lostanimals.plotter.cc)
- - date_published: 2023-06-06T00:00:00+00:00
-
- ## Plotter
- - [https://plotter.cc](https://plotter.cc)
- - date_published: 2024-10-18T15:33:12.518050+00:00
-
- ## № 1 · Politiques des communs
- - [https://politiquesdescommuns.cc](https://politiquesdescommuns.cc)
- - date_published: 2023-12-11T16:19:45.155743+00:00
-
- ## Portaly
- - [https://portaly.cc](https://portaly.cc)
- - date_published: 2024-06-19T18:57:47.365945+00:00
-
- ## POSTD | ニジボックスが運営するエンジニアに向けたキュレーションメディア
- - [http://postd.cc](http://postd.cc)
- - date_published: 2024-08-09T06:24:46+00:00
-
- ## Postimages — free image hosting / image upload
- - [https://i.postimg.cc](https://i.postimg.cc)
- - date_published: 2023-12-11T19:00:04.592189+00:00
-
- ## Postimages — free image hosting / image upload
- - [https://postimg.cc](https://postimg.cc)
- - date_published: 2023-10-25T12:11:13.975451+00:00
-
- ## Postimages — free image hosting / image upload
- - [http://s31.postimg.cc](http://s31.postimg.cc)
- - date_published: 2024-08-07T11:38:44.343559+00:00
-
- ## Easy to use macOS Disk Cleanup Tools | PrettyClean
- - [https://prettyclean.cc](https://prettyclean.cc)
- - date_published: 2023-10-25T12:11:19.238388+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.pronouns.cc](https://plausible.pronouns.cc)
- - date_published: 2024-07-03T09:30:54.587082+00:00
-
- ## pronouns.cc
- - [https://pronouns.cc](https://pronouns.cc)
- - date_published: 2024-05-08T10:45:39.004361+00:00
- - tags: ['gender', 'pronouns']
-
- ## pronouns.cc status
- - [https://status.pronouns.cc](https://status.pronouns.cc)
- - date_published: 2024-07-03T09:30:55.560124+00:00
 

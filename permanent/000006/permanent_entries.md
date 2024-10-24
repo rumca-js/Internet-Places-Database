@@ -1,3 +1,23 @@
+ ## Show HN: Wealthfolio: A Private, Open-Source Investment Tracker
+ - [https://wealthfolio.app](https://wealthfolio.app)
+ - date_published: 2024-09-06T12:56:15+00:00
+
+ ## Weathergraph
+ - [https://weathergraph.app](https://weathergraph.app)
+ - date_published: 2024-08-18T04:48:50.287888+00:00
+
+ ## Weather Strip for iOS
+ - [https://www.weatherstrip.app](https://www.weatherstrip.app)
+ - date_published: 2023-09-12T20:17:43+00:00
+
+ ## Weavus - The social app for real life
+ - [https://weavus.app](https://weavus.app)
+ - date_published: 2024-09-02T09:46:25.885621+00:00
+
+ ## Additional Budget Graphs
+ - [https://additionalbudgetgraphs.web.app](https://additionalbudgetgraphs.web.app)
+ - date_published: 2024-07-05T19:35:44+00:00
+
  ## Advanced Tools for YNAB
  - [https://advanced-tools-for-ynab.web.app](https://advanced-tools-for-ynab.web.app)
  - date_published: 2024-02-15T18:58:24+00:00
@@ -4013,24 +4033,4 @@ October 2024 in Singapore
  ## Citroën Konfigurator | Personalisieren Sie das Modell Ihrer Wahl
  - [https://carstore.citroen.at](https://carstore.citroen.at)
  - date_published: 2024-08-18T11:07:49.896207+00:00
-
- ## Service Plan - Citroen
- - [https://onlinetermin.citroen.at](https://onlinetermin.citroen.at)
- - date_published: 2024-08-18T11:07:51.911298+00:00
-
- ## Citroën
- - [https://services-store.citroen.at](https://services-store.citroen.at)
- - date_published: 2024-08-18T11:07:47.725354+00:00
-
- ## Citroën PKW, Nutzfahrzeuge, Elektroautos | Citroën Austria
- - [https://citroen.at](https://citroen.at)
- - date_published: 2023-12-11T16:02:43.331356+00:00
-
- ## CITROËN KAUFT IHR AUTO - Kostenlose Fahrzeugbewertung
- - [https://www.citroen-kauft-ihr-auto.at](https://www.citroen-kauft-ihr-auto.at)
- - date_published: 2024-07-12T06:30:32.741495+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.at](https://www.citroenorigins.at)
- - date_published: 2018-04-18T13:00:13+00:00
 

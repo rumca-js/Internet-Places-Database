@@ -1,3 +1,23 @@
+ ## TableTalk - a better way to interact with your database
+ - [https://www.tabletalk.ai](https://www.tabletalk.ai)
+ - date_published: 2024-06-19T19:07:25.476667+00:00
+
+ ## Aktana: Pharma/Life Sciences AI & Mobile Intelligence
+ - [https://tact.ai](https://tact.ai)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Tacto. Das Einkaufsbetriebssystem für den Mittelstand.
+ - [https://tacto.ai](https://tacto.ai)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Talefy
+ - [https://talefy.ai](https://talefy.ai)
+ - date_published: 2024-06-14T08:55:13.726788+00:00
+
+ ## TalkBerry - Your personal English tutor, powered by AI
+ - [https://www.talkberry.ai](https://www.talkberry.ai)
+ - date_published: 2024-06-18T00:00:00+00:00
+
  ## AI Phone Automation for Better Patient Access
  - [https://talkie.ai](https://talkie.ai)
  - date_published: 2024-06-05T00:00:00+00:00
@@ -4003,24 +4023,4 @@ Creative Solutions
  ## Authorization | Deta Space
  - [https://next_meetups-1-x7325434.deta.app](https://next_meetups-1-x7325434.deta.app)
  - date_published: 2024-09-19T16:22:26+00:00
-
- ## DetailsPro: Design with SwiftUI, no coding required.
- - [https://detailspro.app](https://detailspro.app)
- - date_published: 2024-06-23T15:35:31.691381+00:00
-
- ## Detoxify.app
- - [https://detoxify.app](https://detoxify.app)
- - date_published: 2024-07-04T04:23:51.459796+00:00
-
- ## Diagrams: A Native Diagram Editor for Mac
- - [https://diagrams.app](https://diagrams.app)
- - date_published: 2024-05-12T06:23:53.449350+00:00
-
- ## Didthis
- - [https://didthis.app](https://didthis.app)
- - date_published: 2024-05-08T10:31:33.250502+00:00
-
- ## Diffusion Depot · Smart image manager for Stable Diffusion, Midjourney, and DALL-E
- - [https://diffusiondepot.app](https://diffusiondepot.app)
- - date_published: 2024-07-10T11:16:39.983398+00:00
 

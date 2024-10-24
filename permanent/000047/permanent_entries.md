@@ -1,3 +1,251 @@
+ ## Conjured Metaphors
+ - [https://conjuredmetaphors.bandcamp.com](https://conjuredmetaphors.bandcamp.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Borrowed Time / Bush, by Connor Dylan
+ - [https://connordylan.bandcamp.com](https://connordylan.bandcamp.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Conor Corp.
+ - [https://conorcorporation.bandcamp.com](https://conorcorporation.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## control.org
+ - [https://control.bandcamp.com](https://control.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Artists | Corduroy Punk
+ - [https://corduroypunk.bandcamp.com](https://corduroypunk.bandcamp.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Corker
+ - [https://corker.bandcamp.com](https://corker.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Corporate Music Zone
+ - [https://corporate-music-zone.bandcamp.com](https://corporate-music-zone.bandcamp.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Court Of The Bog King, by Corpse Gnomes
+ - [https://corpsegnomes.bandcamp.com](https://corpsegnomes.bandcamp.com)
+ - date_published: 2024-10-17T22:08:56.511159+00:00
+
+ ## cortizona
+ - [https://cortizona.bandcamp.com](https://cortizona.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Cosmic Birds
+ - [http://cosmicbirds.bandcamp.com](http://cosmicbirds.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Under That Dress, by Cosmo Jimmy
+ - [https://cosmojimmy.bandcamp.com](https://cosmojimmy.bandcamp.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Cosmo Sheldrake
+ - [https://cosmosheldrake.bandcamp.com](https://cosmosheldrake.bandcamp.com)
+ - date_published: 2024-08-11T05:50:40.032097+00:00
+
+ ## Elle(s), by Costals
+ - [https://costals.bandcamp.com](https://costals.bandcamp.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Shadow Planet, by The Cotton Modules
+ - [https://cottonmodules.bandcamp.com](https://cottonmodules.bandcamp.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Crafted Sounds
+ - [https://craftedsounds.bandcamp.com](https://craftedsounds.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Meat EP, by Cretins
+ - [https://cretinspunk.bandcamp.com](https://cretinspunk.bandcamp.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Crime of Passing
+ - [https://crimeofpassing.bandcamp.com](https://crimeofpassing.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Crimethinc
+ - [https://crimethinc.bandcamp.com](https://crimethinc.bandcamp.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Athens Cave Sessions, by Crimson Scarlet
+ - [https://crimsonscarlet.bandcamp.com](https://crimsonscarlet.bandcamp.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## WOATED, by Crudbump
+ - [https://crudbump.bandcamp.com](https://crudbump.bandcamp.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Cruel Nature Records
+ - [https://cruelnaturerecordings.bandcamp.com](https://cruelnaturerecordings.bandcamp.com)
+ - date_published: 2024-07-19T20:26:42.149365+00:00
+
+ ## Crumb
+ - [https://crumbtheband.bandcamp.com](https://crumbtheband.bandcamp.com)
+ - date_published: 2024-08-18T09:06:36.918889+00:00
+
+ ## Crunchy Human Children Records
+ - [https://crunchyhumanchildren.bandcamp.com](https://crunchyhumanchildren.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## CrystalForce
+ - [https://crystalforce1.bandcamp.com](https://crystalforce1.bandcamp.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Constellation Tatsu
+ - [https://ctatsu.bandcamp.com](https://ctatsu.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Curved Light
+ - [https://curvedlight.bandcamp.com](https://curvedlight.bandcamp.com)
+ - date_published: 2024-10-20T20:31:27.235754+00:00
+
+ ## Cuthead
+ - [https://cutheaduv.bandcamp.com](https://cutheaduv.bandcamp.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Cyberwalker
+ - [https://cyberwalker.bandcamp.com](https://cyberwalker.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Cyclical Dreams
+ - [https://cyclicaldreams.bandcamp.com](https://cyclicaldreams.bandcamp.com)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Cyclic Law
+ - [https://cycliclaw.bandcamp.com](https://cycliclaw.bandcamp.com)
+ - date_published: 2024-07-19T22:25:39.462568+00:00
+
+ ## Daedelus
+ - [https://daedelusmusic.bandcamp.com](https://daedelusmusic.bandcamp.com)
+ - date_published: 2024-09-06T21:31:32.518958+00:00
+
+ ## Bandcamp Daily
+ - [https://daily.bandcamp.com](https://daily.bandcamp.com)
+ - date_published: 2024-05-10T04:46:21.984033+00:00
+
+ ## Daisy Rickman
+ - [https://daisyrickman.bandcamp.com](https://daisyrickman.bandcamp.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Damian Cowell
+ - [https://damiancowell.bandcamp.com](https://damiancowell.bandcamp.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Damon & Naomi
+ - [https://damonandnaomi.bandcamp.com](https://damonandnaomi.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Megawave, by Dana Jean Phoenix & Powernerd
+ - [https://danajeanphoenix.bandcamp.com](https://danajeanphoenix.bandcamp.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## DANCE WITH THE DEAD
+ - [https://dancewiththedead.bandcamp.com](https://dancewiththedead.bandcamp.com)
+ - date_published: 2024-07-19T21:13:25.769810+00:00
+
+ ## Danheim
+ - [https://danheim.bandcamp.com](https://danheim.bandcamp.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## danielfuzztone
+ - [https://danielfuzztone.bandcamp.com](https://danielfuzztone.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Guided by a Light, by Daniel Ran
+ - [https://danielran.bandcamp.com](https://danielran.bandcamp.com)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Dan Palladino
+ - [https://danpalladino.bandcamp.com](https://danpalladino.bandcamp.com)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Dan Plonsey
+ - [https://danplonsey.bandcamp.com](https://danplonsey.bandcamp.com)
+ - date_published: 2024-07-16T17:27:31.420294+00:00
+
+ ## DAN TERMINUS
+ - [https://dan-terminus.bandcamp.com](https://dan-terminus.bandcamp.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Dan Webb
+ - [https://danwebb.bandcamp.com](https://danwebb.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Dara Hart
+ - [https://darahart.bandcamp.com](https://darahart.bandcamp.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Dark Descent Records
+ - [https://darkdescentrecords.bandcamp.com](https://darkdescentrecords.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Darondo
+ - [https://darondoubiq.bandcamp.com](https://darondoubiq.bandcamp.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Darren McClure
+ - [https://darrenmcclure.bandcamp.com](https://darrenmcclure.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## BURY THE SORROW (Instrumental version), by Das Mörtal
+ - [https://dasmortal.bandcamp.com](https://dasmortal.bandcamp.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Data Discs
+ - [https://datadiscs.bandcamp.com](https://datadiscs.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## TexiCali, by Dave Alvin & Jimmie Dale Gilmore with The Guilty Ones
+ - [https://davealvin.bandcamp.com](https://davealvin.bandcamp.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Ballads, by Dave Easley
+ - [https://daveeasley.bandcamp.com](https://daveeasley.bandcamp.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Daveed Diggs
+ - [https://daveeddiggs.bandcamp.com](https://daveeddiggs.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## David Dearmore
+ - [https://daviddearmore.bandcamp.com](https://daviddearmore.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## David Kanaga
+ - [https://davidkanaga.bandcamp.com](https://davidkanaga.bandcamp.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Duty Of Care, by David Luximon
+ - [https://davidluximon.bandcamp.com](https://davidluximon.bandcamp.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## BILO IV, by David Maxim Micic
+ - [https://davidmaximmicic.bandcamp.com](https://davidmaximmicic.bandcamp.com)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Tapes and Ghosts, by David Newlyn
+ - [https://davidnewlynswc.bandcamp.com](https://davidnewlynswc.bandcamp.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Dawnya Clarine
+ - [https://dawnyaclarine.bandcamp.com](https://dawnyaclarine.bandcamp.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## dayvonjersen
+ - [https://dayvonjersen.bandcamp.com](https://dayvonjersen.bandcamp.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Dominique Cyprès
+ - [https://dcypres.bandcamp.com](https://dcypres.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## REIMAGINED, by Digital Dreams Wrapped In Plastic
+ - [https://ddwip.bandcamp.com](https://ddwip.bandcamp.com)
+ - date_published: 2024-10-17T22:07:06.978501+00:00
+
  ## Live in Brooklyn October 3, 2012, by Deadleg
  - [https://deadleg.bandcamp.com](https://deadleg.bandcamp.com)
  - date_published: 2024-08-30T00:00:00+00:00
@@ -3751,252 +3999,4 @@
  ## IMPOSSIBLE WEIGHT, by Deep Sea Diver
  - [https://thedeepseadiver.bandcamp.com](https://thedeepseadiver.bandcamp.com)
  - date_published: 2024-02-29T00:00:00+00:00
-
- ## The Drin
- - [https://thedrin.bandcamp.com](https://thedrin.bandcamp.com)
- - date_published: 2024-09-16T03:31:49.014329+00:00
-
- ## The Elastic Snaps, by the Elastic Snaps
- - [https://theelasticsnaps.bandcamp.com](https://theelasticsnaps.bandcamp.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Spire
- - [https://theeternalchord.bandcamp.com](https://theeternalchord.bandcamp.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## The War: Act II, by The Family Crest
- - [https://thefamilycrest.bandcamp.com](https://thefamilycrest.bandcamp.com)
- - date_published: 2024-10-21T04:23:22.439252+00:00
-
- ## Valley of Abandoned Songs, by The Felice Brothers
- - [https://thefelicebrothers-tl.bandcamp.com](https://thefelicebrothers-tl.bandcamp.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Permanent Present Tense, by The Follies
- - [https://thefolliesnyc.bandcamp.com](https://thefolliesnyc.bandcamp.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Paper Peaks, by The Fourth Section
- - [https://thefourthsection.bandcamp.com](https://thefourthsection.bandcamp.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## FEAR IS A CRUEL MASTER, by RUBY THE HATCHET
- - [https://thehatchet.bandcamp.com](https://thehatchet.bandcamp.com)
- - date_published: 2024-07-14T09:43:13.758625+00:00
-
- ## The Landlords
- - [https://thelandlords.bandcamp.com](https://thelandlords.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Reflection, by Mark Kelly
- - [https://themarkkelly.bandcamp.com](https://themarkkelly.bandcamp.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## The Megas
- - [https://themegas.bandcamp.com](https://themegas.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## The Midnight
- - [https://themidnight.bandcamp.com](https://themidnight.bandcamp.com)
- - date_published: 2024-07-01T07:44:42.073158+00:00
-
- ## Touching The Sun, by Paul Wady
- - [http://themodelaircraftmuseum.bandcamp.com](http://themodelaircraftmuseum.bandcamp.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## the mole
- - [https://themole.bandcamp.com](https://themole.bandcamp.com)
- - date_published: 2024-10-22T20:21:03.059785+00:00
-
- ## The Murlocs
- - [https://themurlocs.bandcamp.com](https://themurlocs.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Merch from The Mystery Lights
- - [https://themysterylights.bandcamp.com](https://themysterylights.bandcamp.com)
- - date_published: 2024-09-16T15:31:00.284383+00:00
-
- ## Voted Most Chill in High School, by The New Clear Lawn Chairs
- - [https://thenewclearlawnchairs.bandcamp.com](https://thenewclearlawnchairs.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## The Superceded Sounds of..., by The New Obsolecents
- - [https://thenewobsolecents-cis.bandcamp.com](https://thenewobsolecents-cis.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## The Night Terrors
- - [https://thenightterrors.bandcamp.com](https://thenightterrors.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Apogee, Perigee, by The Orchid
- - [http://theorchid.bandcamp.com](http://theorchid.bandcamp.com)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Empty Orchestra, by The Out_Circuit
- - [https://theoutcircuit.bandcamp.com](https://theoutcircuit.bandcamp.com)
- - date_published: 2024-10-17T22:08:23.229486+00:00
-
- ## 1980s Bubblegum, by The Particles
- - [https://theparticles.bandcamp.com](https://theparticles.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## The Recognition Test
- - [https://therecognitiontest.bandcamp.com](https://therecognitiontest.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## The Record Machine
- - [https://therecordmachine.bandcamp.com](https://therecordmachine.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## The Reds, Pinks & Purples
- - [https://theredspinksandpurples.bandcamp.com](https://theredspinksandpurples.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## The Eternal Chase Begins EP, by The Rubber Duck Orchestra
- - [https://therubberduckorchestra.bandcamp.com](https://therubberduckorchestra.bandcamp.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Mind, Man, Medicine, by The Secret Sisters
- - [https://thesecretsisters.bandcamp.com](https://thesecretsisters.bandcamp.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## These Liminal Days
- - [https://theseliminaldays.bandcamp.com](https://theseliminaldays.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Lousy w' Love, by The S-ft F-cus
- - [https://thes-ftf-cus.bandcamp.com](https://thes-ftf-cus.bandcamp.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## The Slow Music Movement Label
- - [https://theslowmusicmovement.bandcamp.com](https://theslowmusicmovement.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The Smile
- - [https://thesmile.bandcamp.com](https://thesmile.bandcamp.com)
- - date_published: 2024-07-08T09:33:55.590495+00:00
-
- ## Mara b/w Take Back the Night, by The Soul Patrol
- - [https://thesoulpatrol.bandcamp.com](https://thesoulpatrol.bandcamp.com)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## The Sound of Glass
- - [https://thesoundofglass.bandcamp.com](https://thesoundofglass.bandcamp.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## The Stools
- - [https://thestoolsdetroit.bandcamp.com](https://thestoolsdetroit.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Prayers In Parking Lots, by The Suicide Dolls
- - [https://thesuicidedolls.bandcamp.com](https://thesuicidedolls.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Tapeworm
- - [https://the-tapeworm.bandcamp.com](https://the-tapeworm.bandcamp.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## The Tiberian Sons
- - [https://thetiberiansons.bandcamp.com](https://thetiberiansons.bandcamp.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## The TOMS
- - [https://thetomspowerpop.bandcamp.com](https://thetomspowerpop.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## The Twilight Sad
- - [https://thetwilightsad.bandcamp.com](https://thetwilightsad.bandcamp.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## The Veldt
- - [https://theveldtmusic.bandcamp.com](https://theveldtmusic.bandcamp.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Veridian Club Music
- - [https://theveridianclub.bandcamp.com](https://theveridianclub.bandcamp.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Very Polish Cut Outs
- - [https://theverypolishcutouts.bandcamp.com](https://theverypolishcutouts.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## A Midnight Wing, by The Vigils
- - [https://thevigils.bandcamp.com](https://thevigils.bandcamp.com)
- - date_published: 2024-10-17T22:07:17.668527+00:00
-
- ## The Vintage Babies
- - [https://thevintagebabies.bandcamp.com](https://thevintagebabies.bandcamp.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## How Is It That I Should Look At The Stars, by The Weather Station
- - [https://theweatherstation.bandcamp.com](https://theweatherstation.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## thewit.ch
- - [https://thewitdotch.bandcamp.com](https://thewitdotch.bandcamp.com)
- - date_published: 2024-10-22T20:22:02.284013+00:00
-
- ## FIRST WORLD RECORD, by The World
- - [https://theworldband.bandcamp.com](https://theworldband.bandcamp.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Symphonik, by Thievery Corporation
- - [https://thieverycorporation.bandcamp.com](https://thieverycorporation.bandcamp.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Artists | Thin Man Records
- - [https://thinmanrecords.bandcamp.com](https://thinmanrecords.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## This Heat
- - [https://thisheat.bandcamp.com](https://thisheat.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Escorts, by Advertisement
- - [https://thisisadvertisement.bandcamp.com](https://thisisadvertisement.bandcamp.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Horsegirl
- - [https://thisishorsegirl.bandcamp.com](https://thisishorsegirl.bandcamp.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## thisisnotarecord
- - [http://thisisnotarecord.bandcamp.com](http://thisisnotarecord.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## thisquietarmy
- - [http://thisquietarmy.bandcamp.com](http://thisquietarmy.bandcamp.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## drøne
- - [https://thisstrangelife.bandcamp.com](https://thisstrangelife.bandcamp.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Thomas Andrew Doyle
- - [https://thomasandrewdoyle.bandcamp.com](https://thomasandrewdoyle.bandcamp.com)
- - date_published: 2024-10-20T20:31:33.157970+00:00
-
- ## Tribute To Tibbe, by Friends of Thomas Tibert
- - [https://thomastibert.bandcamp.com](https://thomastibert.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Thou
- - [https://thou.bandcamp.com](https://thou.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Threefinger Records
- - [https://threefingerec.bandcamp.com](https://threefingerec.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Sunny In California (Bonus Track), by Aberdeen
- - [https://threewishes.bandcamp.com](https://threewishes.bandcamp.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Thrilling Living
- - [https://thrillingliving.bandcamp.com](https://thrillingliving.bandcamp.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## Soft Rock, by Thy Slaughter
- - [https://thyyyslaughter.bandcamp.com](https://thyyyslaughter.bandcamp.com)
- - date_published: 2024-10-22T22:15:21.292551+00:00
 

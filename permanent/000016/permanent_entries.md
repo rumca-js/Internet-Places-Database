@@ -1,3 +1,139 @@
+ ## C0DE517E
+ - [http://c0de517e.blogspot.ca](http://c0de517e.blogspot.ca)
+ - date_published: 2024-09-02T08:07:15+00:00
+
+ ## Commonsense & Wonder
+ - [http://commonsensewonder.blogspot.ca](http://commonsensewonder.blogspot.ca)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## L.A.Times Crossword Corner
+ - [http://crosswordcorner.blogspot.ca](http://crosswordcorner.blogspot.ca)
+ - date_published: 2024-07-04T03:30:00+00:00
+
+ ## David Barron Furniture
+ - [http://davidbarronfurniture.blogspot.ca](http://davidbarronfurniture.blogspot.ca)
+ - date_published: 2024-08-19T05:55:00+00:00
+
+ ## Tales of the Easily Distracted
+ - [http://doriantb.blogspot.ca](http://doriantb.blogspot.ca)
+ - date_published: 2024-05-28T07:03:05+00:00
+
+ ## Eco-Evo Evo-Eco
+ - [http://ecoevoevoeco.blogspot.ca](http://ecoevoevoeco.blogspot.ca)
+ - date_published: 2024-10-19T10:22:07.868220+00:00
+
+ ## Etymolist
+ - [http://etymolist.blogspot.ca](http://etymolist.blogspot.ca)
+ - date_published: 2024-03-06T07:55:54+00:00
+
+ ## The Big Mud Puddle
+ - [https://evincarofautumn.blogspot.ca](https://evincarofautumn.blogspot.ca)
+ - date_published: 2024-05-08T11:03:51.097414+00:00
+
+ ## bezprawie
+ - [http://faxe1.blogspot.ca](http://faxe1.blogspot.ca)
+ - date_published: 2024-03-13T17:15:50+00:00
+
+ ## The Brain Dump
+ - [http://flohofwoe.blogspot.ca](http://flohofwoe.blogspot.ca)
+ - date_published: 2024-09-02T08:55:59+00:00
+
+ ## The infrequent ramblings of a casual wargamer and hobbyist
+ - [http://fullashtraygaming.blogspot.ca](http://fullashtraygaming.blogspot.ca)
+ - date_published: 2024-07-03T03:13:36+00:00
+
+ ## THE HOCKEY SCHTICK
+ - [http://hockeyschtick.blogspot.ca](http://hockeyschtick.blogspot.ca)
+ - date_published: 2024-09-14T10:40:48+00:00
+
+ ## Ivebeenreadinglately
+ - [http://ivebeenreadinglately.blogspot.ca](http://ivebeenreadinglately.blogspot.ca)
+ - date_published: 2024-09-09T08:54:00+00:00
+
+ ## Moneyness
+ - [http://jpkoning.blogspot.ca](http://jpkoning.blogspot.ca)
+ - date_published: 2024-06-18T23:48:33+00:00
+
+ ## Language Evolution
+ - [http://langevo.blogspot.ca](http://langevo.blogspot.ca)
+ - date_published: 2024-07-01T08:55:57+00:00
+
+ ## Lizok's Bookshelf
+ - [http://lizoksbooks.blogspot.ca](http://lizoksbooks.blogspot.ca)
+ - date_published: 2024-06-03T02:06:21+00:00
+
+ ## 2 Wheels, 2 Oceans, 2 Months
+ - [https://mikeseatosea.blogspot.ca](https://mikeseatosea.blogspot.ca)
+ - date_published: 2024-02-07T23:22:40+00:00
+
+ ## Computing Reality
+ - [http://milesparker.blogspot.ca](http://milesparker.blogspot.ca)
+ - date_published: 2024-07-03T01:48:35+00:00
+
+ ## Modern Synthesist
+ - [http://modernsynthesist.blogspot.ca](http://modernsynthesist.blogspot.ca)
+ - date_published: 2024-06-24T02:23:21+00:00
+
+ ## The Mumpsimus
+ - [http://mumpsimus.blogspot.ca](http://mumpsimus.blogspot.ca)
+ - date_published: 2024-09-06T19:13:54+00:00
+
+ ## My Codde
+ - [http://mycodde.blogspot.ca](http://mycodde.blogspot.ca)
+ - date_published: 2024-08-06T06:45:15+00:00
+
+ ## My Life in Millimetres
+ - [http://mylifeinmm.blogspot.ca](http://mylifeinmm.blogspot.ca)
+ - date_published: 2024-03-19T21:28:00+00:00
+
+ ## Nerd Ralph
+ - [http://nerdralph.blogspot.ca](http://nerdralph.blogspot.ca)
+ - date_published: 2024-07-07T13:13:23+00:00
+
+ ## Nie znaleziono bloga
+ - [http://nerds-central.blogspot.ca](http://nerds-central.blogspot.ca)
+ - date_published: 2024-09-03T21:39:19.248540+00:00
+
+ ## Past Times and Present Tensions
+ - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
+ - date_published: 2017-08-23T10:54:00+00:00
+
+ ## The Pervocracy
+ - [http://pervocracy.blogspot.ca](http://pervocracy.blogspot.ca)
+ - date_published: 2024-10-18T14:37:09.571206+00:00
+
+ ## PhD Talk
+ - [https://phdtalk.blogspot.ca](https://phdtalk.blogspot.ca)
+ - date_published: 2024-05-02T10:13:04.341653+00:00
+
+ ## Western Undergrad Mathematics Pizza Seminar
+ - [http://pizzaseminaruwo.blogspot.ca](http://pizzaseminaruwo.blogspot.ca)
+ - date_published: 2024-03-19T08:48:24+00:00
+
+ ## *Reflective Disequilibrium*
+ - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
+ - date_published: 2020-10-15T00:00:00+00:00
+
+ ## Muhlberger's World History
+ - [https://smuhlberger.blogspot.ca](https://smuhlberger.blogspot.ca)
+ - date_published: 2024-09-04T07:12:14+00:00
+
+ ## The Privates Eternal
+ - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
+ - date_published: 2024-06-29T22:15:34+00:00
+
+ ## Thrilling Wonder Artwork
+ - [http://thrillingwonderartwork.blogspot.ca](http://thrillingwonderartwork.blogspot.ca)
+ - date_published: 2024-02-20T07:37:40+00:00
+
+ ## Thrilling Wonder Writing
+ - [http://thrillingwonderwriting.blogspot.ca](http://thrillingwonderwriting.blogspot.ca)
+ - date_published: 2023-11-15T19:08:07+00:00
+
+ ## Tom Nelson
+ - [https://tomnelson.blogspot.ca](https://tomnelson.blogspot.ca)
+ - date_published: 2024-05-06T23:32:23.707679+00:00
+
  ## Transit Futures
  - [http://transitfutures.blogspot.ca](http://transitfutures.blogspot.ca)
  - date_published: 2024-02-07T06:29:13+00:00
@@ -397,6 +533,10 @@
  - [https://www.canadapost.ca](https://www.canadapost.ca)
  - date_published: 2024-07-21T09:56:51.630913+00:00
 
+ ## Mailing and shipping for Personal and Business
+ - [https://www.canadapost-postescanada.ca](https://www.canadapost-postescanada.ca)
+ - date_published: 2024-10-23T04:47:08.708351+00:00
+
  ## Canadian Parliamentary Historical Resources
  - [http://parl.canadiana.ca](http://parl.canadiana.ca)
  - date_published: 2024-07-10T05:30:25.698289+00:00
@@ -569,6 +709,10 @@
  ## Carson Brown
  - [https://carsonbrown.ca](https://carsonbrown.ca)
  - date_published: 2024-08-07T20:03:44.004535+00:00
+
+ ## Home | Cartoon Network
+ - [http://www.cartoonnetwork.ca](http://www.cartoonnetwork.ca)
+ - date_published: 2024-10-23T10:20:09.435032+00:00
 
  ## Attention Required! | Cloudflare
  - [https://www.casimoose.ca](https://www.casimoose.ca)
@@ -1684,6 +1828,10 @@
  ## Russell McOrmond's personal blog
  - [http://www.digital-copyright.ca](http://www.digital-copyright.ca)
  - date_published: 2024-10-22T21:49:22.152769+00:00
+
+ ## Digitalfraffiti's CC and Creator Resources
+ - [https://ts4.digitalgraffiti.ca](https://ts4.digitalgraffiti.ca)
+ - date_published: 2024-04-19T17:31:02+00:00
 
  ## digital junkies
  - [http://www.digitaljunkies.ca](http://www.digitaljunkies.ca)
@@ -3094,6 +3242,10 @@
  - [https://blog.hellofresh.ca](https://blog.hellofresh.ca)
  - date_published: 2024-06-18T17:36:24.821246+00:00
 
+ ## Partner with HelloFresh Group Canada | Sales & Corporate Partnerships
+ - [https://partner.hellofresh.ca](https://partner.hellofresh.ca)
+ - date_published: 2024-10-23T05:56:14.624914+00:00
+
  ## HelloFresh®: Free Breakfast Item For Life + $140 Off
  - [https://www.hellofresh.ca](https://www.hellofresh.ca)
  - date_published: 2024-05-02T13:59:58.514477+00:00
@@ -3885,156 +4037,4 @@
  ## Welcome to the Pumphouse
  - [https://www.kingstonpumphouse.ca](https://www.kingstonpumphouse.ca)
  - date_published: 2024-08-18T12:20:52+00:00
-
- ## Kipp Scott GMC Buick: Vehicle Sales and Auto Repair | Red Deer AB
- - [https://www.kippscott.ca](https://www.kippscott.ca)
- - date_published: 2024-05-06T20:02:12.751069+00:00
-
- ## Kipp Scott Cadillac: New & Pre-Owned Dealer | Red Deer, AB
- - [https://www.kippscottcadillac.ca](https://www.kippscottcadillac.ca)
- - date_published: 2024-06-26T22:36:46.768652+00:00
-
- ## Kiran Rao
- - [https://kiranrao.ca](https://kiranrao.ca)
- - date_published: 2024-06-22T02:32:08+00:00
-
- ## Homepage
- - [https://www.kitchenermarket.ca](https://www.kitchenermarket.ca)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Kitchens and Kitchen Contractors for 2022 | Kitchens.ca Plumbers and Plumbing Contractors for 2020 | Kitchens.ca
- - [http://www.kitchens.ca](http://www.kitchens.ca)
- - date_published: 2024-06-29T17:35:38.885106+00:00
-
- ## KLRS - Supporting Northern Research
- - [https://klrs.ca](https://klrs.ca)
- - date_published: 2024-07-21T08:57:02.762127+00:00
-
- ## KOHO
- - [https://app.koho.ca](https://app.koho.ca)
- - date_published: 2024-08-15T15:21:29+00:00
-
- ## Kokom Scrunchies
- - [https://kokomscrunchies.ca](https://kokomscrunchies.ca)
- - date_published: 2024-08-06T03:01:48.320056+00:00
-
- ## Cartoonist Rek Bell
- - [https://kokorobot.ca](https://kokorobot.ca)
- - date_published: 2023-11-26T21:41:29.844186+00:00
-
- ## KO Média - Les magazines féminins #1 au Québec
- - [https://www.ko-media.ca](https://www.ko-media.ca)
- - date_published: 2024-09-09T21:30:10.284609+00:00
-
- ## Konecranes
- - [https://en.konecranes.ca](https://en.konecranes.ca)
- - date_published: 2024-06-20T22:57:17.655951+00:00
-
- ## Konecranes
- - [https://fr.konecranes.ca](https://fr.konecranes.ca)
- - date_published: 2024-06-20T22:56:58.083230+00:00
-
- ## Kwantlen Polytechnic University
- - [https://www.kpu.ca](https://www.kpu.ca)
- - date_published: 2024-07-03T23:25:04+00:00
-
- ## egg.l5.ca
- - [https://egg.l5.ca](https://egg.l5.ca)
- - date_published: 2024-05-08T10:44:14.873597+00:00
-
- ## Météo Canada : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
- - [https://www.lachainemeteo.ca](https://www.lachainemeteo.ca)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Home - Lactalis Canada
- - [https://www.lactalis.ca](https://www.lactalis.ca)
- - date_published: 2024-06-16T21:25:23.165771+00:00
-
- ## La Grange | Homepage
- - [https://www.la-grange.ca](https://www.la-grange.ca)
- - date_published: 2024-07-17T14:57:54.348349+00:00
-
- ## Bonnyville, Elk Point, Lac La Biche, St. Paul Local News
- - [https://lakelandtoday.ca](https://lakelandtoday.ca)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Ford Performance Centre | Professional & Recreational Hockey Facility
- - [https://www.lakeshorearena.ca](https://www.lakeshorearena.ca)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Home - The Lakes Golf Club & Resort Play & Stay
- - [https://www.lakesresort.ca](https://www.lakesresort.ca)
- - date_published: 2024-07-10T09:49:09+00:00
-
- ## About Me - Dustin.Lammiman
- - [https://dustin.lammiman.ca](https://dustin.lammiman.ca)
- - date_published: 2023-01-16T20:55:21+00:00
-
- ## Land Rover. 4x4 Vehicles and Luxury SUV
- - [https://www.landrover.ca](https://www.landrover.ca)
- - date_published: 2024-07-09T17:15:26.204848+00:00
-
- ## Top 5 Top 5 Toronto Landscaping 2020 | Landscaping.ca Plumbers and Plumbing Contractors for 2020 | Landscaping.ca
- - [http://www.landscaping.ca](http://www.landscaping.ca)
- - date_published: 2024-06-29T17:35:29.618924+00:00
-
- ## Custom-Made Language Classes | Language Trainers Canada
- - [https://www.languagetrainers.ca](https://www.languagetrainers.ca)
- - date_published: 2024-07-02T09:21:15.942561+00:00
-
- ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
- - [http://plus.lapresse.ca](http://plus.lapresse.ca)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
- - [https://www.lapresse.ca](https://www.lapresse.ca)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Loading...
- - [http://larama.ca](http://larama.ca)
- - date_published: 2024-07-13T15:49:54.885389+00:00
-
- ## Laura Brown.ca
- - [https://laurabrown.ca](https://laurabrown.ca)
- - date_published: 2024-04-17T09:10:19+00:00
-
- ## laurentian.ca
- - [https://laurentian.ca](https://laurentian.ca)
- - date_published: 2024-07-06T23:31:29.580351+00:00
-
- ## Law Society of PEI - Prince Edward Island Law Society - Canada
- - [http://lawsocietypei.ca](http://lawsocietypei.ca)
- - date_published: 2024-09-02T13:02:26.302364+00:00
-
- ## Home
- - [https://lawsonresearch.ca](https://lawsonresearch.ca)
- - date_published: 2023-12-30T11:43:21.258451+00:00
-
- ## Lawyers in Canada, Canada
- - [http://www.lawyer-canada.ca](http://www.lawyer-canada.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Application development, games, websites | Leadhouse Innovation
- - [https://leadhouse.ca](https://leadhouse.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Company | Leatt® | Protective Neck Braces, Body Armour & Sports Gear |
- - [https://leatt-canada.ca](https://leatt-canada.ca)
- - date_published: 2024-06-15T12:00:22.254440+00:00
-
- ## LEEROY Agence Créative à Montréal - Web & Marketing
- - [https://leeroy.ca](https://leeroy.ca)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## A Better Place to Sleep. Try risk-free for 100 nights | Leesa
- - [https://www.leesa.ca](https://www.leesa.ca)
- - date_published: 2024-07-19T19:39:05.859513+00:00
-
- ## Home | Student Caucus
- - [http://studentcaucus.legalandlit.ca](http://studentcaucus.legalandlit.ca)
- - date_published: 2024-10-18T22:17:51.720425+00:00
-
- ## Home | Legal & Literary Society
- - [http://www.legalandlit.ca](http://www.legalandlit.ca)
- - date_published: 2024-10-18T22:17:59.467307+00:00
 

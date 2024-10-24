@@ -1,3 +1,155 @@
+ ## Kipp Scott GMC Buick: Vehicle Sales and Auto Repair | Red Deer AB
+ - [https://www.kippscott.ca](https://www.kippscott.ca)
+ - date_published: 2024-05-06T20:02:12.751069+00:00
+
+ ## Kipp Scott Cadillac: New & Pre-Owned Dealer | Red Deer, AB
+ - [https://www.kippscottcadillac.ca](https://www.kippscottcadillac.ca)
+ - date_published: 2024-06-26T22:36:46.768652+00:00
+
+ ## Kiran Rao
+ - [https://kiranrao.ca](https://kiranrao.ca)
+ - date_published: 2024-06-22T02:32:08+00:00
+
+ ## Homepage
+ - [https://www.kitchenermarket.ca](https://www.kitchenermarket.ca)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Top 5 Top 5 Toronto Kitchens and Kitchen Contractors for 2022 | Kitchens.ca Plumbers and Plumbing Contractors for 2020 | Kitchens.ca
+ - [http://www.kitchens.ca](http://www.kitchens.ca)
+ - date_published: 2024-06-29T17:35:38.885106+00:00
+
+ ## KLRS - Supporting Northern Research
+ - [https://klrs.ca](https://klrs.ca)
+ - date_published: 2024-07-21T08:57:02.762127+00:00
+
+ ## KOHO
+ - [https://app.koho.ca](https://app.koho.ca)
+ - date_published: 2024-08-15T15:21:29+00:00
+
+ ## Kokom Scrunchies
+ - [https://kokomscrunchies.ca](https://kokomscrunchies.ca)
+ - date_published: 2024-08-06T03:01:48.320056+00:00
+
+ ## Cartoonist Rek Bell
+ - [https://kokorobot.ca](https://kokorobot.ca)
+ - date_published: 2023-11-26T21:41:29.844186+00:00
+
+ ## KO Média - Les magazines féminins #1 au Québec
+ - [https://www.ko-media.ca](https://www.ko-media.ca)
+ - date_published: 2024-09-09T21:30:10.284609+00:00
+
+ ## Konecranes
+ - [https://en.konecranes.ca](https://en.konecranes.ca)
+ - date_published: 2024-06-20T22:57:17.655951+00:00
+
+ ## Konecranes
+ - [https://fr.konecranes.ca](https://fr.konecranes.ca)
+ - date_published: 2024-06-20T22:56:58.083230+00:00
+
+ ## Kwantlen Polytechnic University
+ - [https://www.kpu.ca](https://www.kpu.ca)
+ - date_published: 2024-07-03T23:25:04+00:00
+
+ ## egg.l5.ca
+ - [https://egg.l5.ca](https://egg.l5.ca)
+ - date_published: 2024-05-08T10:44:14.873597+00:00
+
+ ## Météo Canada : La meilleure info météo GRATUITE à 15 jours - La Chaîne Météo
+ - [https://www.lachainemeteo.ca](https://www.lachainemeteo.ca)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Home - Lactalis Canada
+ - [https://www.lactalis.ca](https://www.lactalis.ca)
+ - date_published: 2024-06-16T21:25:23.165771+00:00
+
+ ## La Grange | Homepage
+ - [https://www.la-grange.ca](https://www.la-grange.ca)
+ - date_published: 2024-07-17T14:57:54.348349+00:00
+
+ ## Bonnyville, Elk Point, Lac La Biche, St. Paul Local News
+ - [https://lakelandtoday.ca](https://lakelandtoday.ca)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Ford Performance Centre | Professional & Recreational Hockey Facility
+ - [https://www.lakeshorearena.ca](https://www.lakeshorearena.ca)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Home - The Lakes Golf Club & Resort Play & Stay
+ - [https://www.lakesresort.ca](https://www.lakesresort.ca)
+ - date_published: 2024-07-10T09:49:09+00:00
+
+ ## About Me - Dustin.Lammiman
+ - [https://dustin.lammiman.ca](https://dustin.lammiman.ca)
+ - date_published: 2023-01-16T20:55:21+00:00
+
+ ## Land Rover. 4x4 Vehicles and Luxury SUV
+ - [https://www.landrover.ca](https://www.landrover.ca)
+ - date_published: 2024-07-09T17:15:26.204848+00:00
+
+ ## Top 5 Top 5 Toronto Landscaping 2020 | Landscaping.ca Plumbers and Plumbing Contractors for 2020 | Landscaping.ca
+ - [http://www.landscaping.ca](http://www.landscaping.ca)
+ - date_published: 2024-06-29T17:35:29.618924+00:00
+
+ ## Custom-Made Language Classes | Language Trainers Canada
+ - [https://www.languagetrainers.ca](https://www.languagetrainers.ca)
+ - date_published: 2024-07-02T09:21:15.942561+00:00
+
+ ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
+ - [http://plus.lapresse.ca](http://plus.lapresse.ca)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## LaPresse.ca | Actualités et Infos au Québec et dans le monde
+ - [https://www.lapresse.ca](https://www.lapresse.ca)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Loading...
+ - [http://larama.ca](http://larama.ca)
+ - date_published: 2024-07-13T15:49:54.885389+00:00
+
+ ## Laura Brown.ca
+ - [https://laurabrown.ca](https://laurabrown.ca)
+ - date_published: 2024-04-17T09:10:19+00:00
+
+ ## laurentian.ca
+ - [https://laurentian.ca](https://laurentian.ca)
+ - date_published: 2024-07-06T23:31:29.580351+00:00
+
+ ## Law Society of PEI - Prince Edward Island Law Society - Canada
+ - [http://lawsocietypei.ca](http://lawsocietypei.ca)
+ - date_published: 2024-09-02T13:02:26.302364+00:00
+
+ ## Home
+ - [https://lawsonresearch.ca](https://lawsonresearch.ca)
+ - date_published: 2023-12-30T11:43:21.258451+00:00
+
+ ## Lawyers in Canada, Canada
+ - [http://www.lawyer-canada.ca](http://www.lawyer-canada.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Application development, games, websites | Leadhouse Innovation
+ - [https://leadhouse.ca](https://leadhouse.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Company | Leatt® | Protective Neck Braces, Body Armour & Sports Gear |
+ - [https://leatt-canada.ca](https://leatt-canada.ca)
+ - date_published: 2024-06-15T12:00:22.254440+00:00
+
+ ## LEEROY Agence Créative à Montréal - Web & Marketing
+ - [https://leeroy.ca](https://leeroy.ca)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## A Better Place to Sleep. Try risk-free for 100 nights | Leesa
+ - [https://www.leesa.ca](https://www.leesa.ca)
+ - date_published: 2024-07-19T19:39:05.859513+00:00
+
+ ## Home | Student Caucus
+ - [http://studentcaucus.legalandlit.ca](http://studentcaucus.legalandlit.ca)
+ - date_published: 2024-10-18T22:17:51.720425+00:00
+
+ ## Home | Legal & Literary Society
+ - [http://www.legalandlit.ca](http://www.legalandlit.ca)
+ - date_published: 2024-10-18T22:17:59.467307+00:00
+
  ## Top Kids Attraction | LEGOLAND Discovery Centre Toronto
  - [https://toronto.legolanddiscoverycentre.ca](https://toronto.legolanddiscoverycentre.ca)
  - date_published: 2024-07-03T09:45:39.991622+00:00
@@ -1206,10 +1358,6 @@
  ## WELCOME TO THE NCCIH
  - [https://nccih.ca](https://nccih.ca)
  - date_published: 2024-10-22T15:21:24.879593+00:00
-
- ## WELCOME TO THE NCCIH
- - [https://www.nccih.ca](https://www.nccih.ca)
- - date_published: 2024-10-22T15:19:57.831356+00:00
 
  ## NCCM - National Council of Canadian Muslims
  - [https://www.nccm.ca](https://www.nccm.ca)
@@ -3495,6 +3643,10 @@
  - [http://www.skywide.ca](http://www.skywide.ca)
  - date_published: 2024-07-11T16:14:16.494492+00:00
 
+ ## Small Caps | TSX TSX-V CSE Stock Market News | Canadian Shares
+ - [https://smallcaps.ca](https://smallcaps.ca)
+ - date_published: 2024-10-23T06:31:40.851817+00:00
+
  ## Small Farm Canada — Inspiring and informing farmers
  - [https://www.smallfarmcanada.ca](https://www.smallfarmcanada.ca)
  - date_published: 2024-07-01T15:55:23.680939+00:00
@@ -3880,158 +4032,4 @@
  ## Support Locc |
  - [http://supportmichaelocc.ca](http://supportmichaelocc.ca)
  - date_published: 2024-07-13T09:57:47.657499+00:00
-
- ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
- - [https://supreme33.ca](https://supreme33.ca)
- - date_published: 2024-10-19T02:38:02.383737+00:00
-
- ## SurveyMonkey: The World’s Most Popular Free Online Survey Tool
- - [https://www.surveymonkey.ca](https://www.surveymonkey.ca)
- - date_published: 2024-06-16T15:46:16.894915+00:00
-
- ## Fathom Analytics: A Better Google Analytics Alternative
- - [https://compass.swordandsource.ca](https://compass.swordandsource.ca)
- - date_published: 2024-06-14T13:42:57+00:00
-
- ## Sword & Source
- - [https://swordandsource.ca](https://swordandsource.ca)
- - date_published: 2024-05-01T02:26:09.696203+00:00
-
- ## Marco Tabini's Blog · Marco Tabini's Blog
- - [https://blog.tabini.ca](https://blog.tabini.ca)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Tamarack Institute | Empowering Change in Canada & Beyond
- - [https://www.tamarackcommunity.ca](https://www.tamarackcommunity.ca)
- - date_published: 2024-09-12T16:17:12+00:00
-
- ## Personal Banking | Tangerine
- - [https://tangerine.ca](https://tangerine.ca)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Hiya, I'm Tan · TanHo.ca
- - [https://tanho.ca](https://tanho.ca)
- - date_published: 2024-02-11T05:02:26.143775+00:00
- - tags: ['personal']
-
- ## Tarzana and Tarzana Ranch, California
- - [https://tarzana.ca](https://tarzana.ca)
- - date_published: 2019-01-24T20:47:24+00:00
-
- ## Tasos Stamadianos
- - [https://tasos.ca](https://tasos.ca)
- - date_published: 2024-07-23T23:39:58.947796+00:00
-
- ## Tau Games
- - [https://taugames.ca](https://taugames.ca)
- - date_published: 2023-10-04T18:07:10+00:00
-
- ## Victoria Free-Net Association
- - [http://victoria.tc.ca](http://victoria.tc.ca)
- - date_published: 2015-09-10T08:14:51+00:00
-
- ## TeleCommunities Canada - TéléCommunautés Canada
- - [http://www.tc.ca](http://www.tc.ca)
- - date_published: 2024-07-01T15:32:03.005239+00:00
-
- ## TCAE
- - [https://tcae.ca](https://tcae.ca)
- - date_published: 2024-09-24T21:30:46.624355+00:00
-
- ## TEACH ENGLISH IN JAPAN – A Webcomic by Jeffrey Ellis and Jonathon Dalton
- - [http://www.teachenglishinjapan.ca](http://www.teachenglishinjapan.ca)
- - date_published: 2024-08-19T06:13:02.658901+00:00
-
- ## Telefilm Canada | Partner of choice
- - [https://telefilm.ca](https://telefilm.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Hassle-free returns
- - [https://returns.tentree.ca](https://returns.tentree.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
- - [https://tentree.ca](https://tentree.ca)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## article_acceuil
- - [https://terrabelladesign.ca](https://terrabelladesign.ca)
- - date_published: 2024-09-10T11:07:43+00:00
-
- ## Free Driving Test Practice | Driver's License 2024 Canada - Tests.ca
- - [https://tests.ca](https://tests.ca)
- - date_published: 2024-09-02T06:38:40+00:00
-
- ## ThatGeoGuy - Home
- - [https://www.thatgeoguy.ca](https://www.thatgeoguy.ca)
- - date_published: 2024-06-19T21:58:24+00:00
-
- ## The Big Story Podcast
- - [https://thebigstorypodcast.ca](https://thebigstorypodcast.ca)
- - date_published: 2024-02-24T18:20:54.908441+00:00
-
- ## The Bridgehead | From the front lines of the culture wars.
- - [https://thebridgehead.ca](https://thebridgehead.ca)
- - date_published: 2023-10-25T12:07:41.693718+00:00
-
- ## Home | The Canadian Encyclopedia
- - [https://www.thecanadianencyclopedia.ca](https://www.thecanadianencyclopedia.ca)
- - date_published: 2024-09-12T18:46:53.675499+00:00
-
- ## thecanadianpressnews.ca
- - [https://thecanadianpressnews.ca](https://thecanadianpressnews.ca)
- - date_published: 2023-11-08T21:50:08.227809+00:00
- - tags: ['canada news']
-
- ## Craigdarroch Castle | Visit Canada's Castle | Victoria BC
- - [https://thecastle.ca](https://thecastle.ca)
- - date_published: 2024-09-05T16:02:02.804217+00:00
-
- ## Welcome to Centre for Digital Media
- - [http://thecdm.ca](http://thecdm.ca)
- - date_published: 2024-07-19T22:10:13+00:00
-
- ## Canadian Marketing Association
- - [https://thecma.ca](https://thecma.ca)
- - date_published: 2024-09-16T03:08:23.475159+00:00
-
- ## My Tickets | ShowClix
- - [https://wemtickets.thecomicstrip.ca](https://wemtickets.thecomicstrip.ca)
- - date_published: 2024-08-11T06:51:41.530442+00:00
-
- ## The Curve - Unique Glassware and stickers
- - [http://www.thecurve.ca](http://www.thecurve.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## the deep dive | Providing stock analysis for investors of the Canadian junior markets
- - [https://thedeepdive.ca](https://thedeepdive.ca)
- - date_published: 2023-10-25T12:07:49.884004+00:00
-
- ## home | the digital diarist
- - [https://thedigitaldiarist.ca](https://thedigitaldiarist.ca)
- - date_published: 2024-07-02T19:06:27+00:00
-
- ## The Gateway - The University of Alberta's official campus media source
- - [http://thegatewayonline.ca](http://thegatewayonline.ca)
- - date_published: 2024-07-20T15:44:20.566310+00:00
-
- ## The GoldenHack
- - [https://www.thegoldenhack.ca](https://www.thegoldenhack.ca)
- - date_published: 2024-08-26T18:29:04+00:00
-
- ## Hot Sauce Reviews, Recipes, and Pepper Growing Guides
- - [https://thehotsauceguy.ca](https://thehotsauceguy.ca)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## The Hub | More Signal. Less Noise.
- - [https://thehub.ca](https://thehub.ca)
- - date_published: 2023-10-25T12:12:13.121688+00:00
-
- ## Institute of Canadian Agencies
- - [http://theica.ca](http://theica.ca)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## The Impact Project
- - [https://www.theimpactproject.ca](https://www.theimpactproject.ca)
- - date_published: 2024-06-21T00:00:00+00:00
 

@@ -1,3 +1,139 @@
+ ## RichmondShare Blog | High quality content and interaction in the ELT world
+ - [http://www.richmondshare.com.br](http://www.richmondshare.com.br)
+ - date_published: 2024-09-12T22:40:33.383989+00:00
+
+ ## Loja online - Loja de ebooks e audiobooks da Editora Rocco
+ - [https://aguarde.rocco.com.br](https://aguarde.rocco.com.br)
+ - date_published: 2024-07-15T07:35:08.759396+00:00
+
+ ## Editora Rocco – Loja virtual da Editora Rocco
+ - [https://homol.rocco.com.br](https://homol.rocco.com.br)
+ - date_published: 2024-07-14T06:56:59+00:00
+
+ ## Editora Rocco – Loja virtual da Editora Rocco
+ - [https://rocco.com.br](https://rocco.com.br)
+ - date_published: 2024-05-12T05:44:54.068899+00:00
+
+ ## Rolling Stone Brasil
+ - [https://rollingstone.com.br](https://rollingstone.com.br)
+ - date_published: 2024-07-11T17:33:25.201530+00:00
+
+ ## Rosa Passos - Site Oficial
+ - [https://www.rosapassos.com.br](https://www.rosapassos.com.br)
+ - date_published: 2024-07-15T06:07:15.944310+00:00
+
+ ## Rung - Gestão de Excepcionalidades
+ - [https://rung.com.br](https://rung.com.br)
+ - date_published: 2019-08-30T14:39:45+00:00
+
+ ## RW Studio
+ - [https://www.rwstudio.com.br](https://www.rwstudio.com.br)
+ - date_published: 2021-02-22T15:30:44+00:00
+
+ ## Editora Moderna :: Literatura
+ - [https://www.salamandra.com.br](https://www.salamandra.com.br)
+ - date_published: 2024-09-12T22:40:24.938053+00:00
+
+ ## Sanofi, uma empresa inovadora de saúde global | Sanofi Brasil
+ - [https://www.sanofi.com.br](https://www.sanofi.com.br)
+ - date_published: 2024-07-03T03:39:44.856939+00:00
+
+ ## Abra sua conta - Santander
+ - [https://abrasuaconta.santander.com.br](https://abrasuaconta.santander.com.br)
+ - date_published: 2024-05-27T15:01:24+00:00
+
+ ## Santander - Atendimento
+ - [https://chat.santander.com.br](https://chat.santander.com.br)
+ - date_published: 2024-05-17T14:13:23+00:00
+
+ ## Encerramento de conta
+ - [https://encerramentodeconta.santander.com.br](https://encerramentodeconta.santander.com.br)
+ - date_published: 2021-12-21T18:27:12+00:00
+
+ ## Santander - Relações com Investidores
+ - [https://ri.santander.com.br](https://ri.santander.com.br)
+ - date_published: 2024-09-29T20:19:44.502820+00:00
+
+ ## Soluções Santander para você. Abrir conta corrente, pedir cartão de crédito, solicitar empréstimo e mais.
+ - [https://santander.com.br](https://santander.com.br)
+ - date_published: 2024-06-14T15:56:47+00:00
+
+ ## Pessoa física
+ - [https://santanderassetmanagement.com.br](https://santanderassetmanagement.com.br)
+ - date_published: 2024-09-29T20:18:56.320164+00:00
+
+ ## Portal Financiamento
+ - [https://www.cliente.santanderfinanciamentos.com.br](https://www.cliente.santanderfinanciamentos.com.br)
+ - date_published: 2024-05-27T21:44:33+00:00
+
+ ## Página Inicial - Santander: Portal de Imprensa
+ - [https://santanderimprensa.com.br](https://santanderimprensa.com.br)
+ - date_published: 2024-06-16T09:15:49.479703+00:00
+
+ ## Programa Avançar Santander: Conteúdos exclusivos para o empreendedor
+ - [https://santandernegocioseempresas.com.br](https://santandernegocioseempresas.com.br)
+ - date_published: 2024-06-16T09:16:23.819379+00:00
+
+ ## Internet Banking
+ - [https://www.santandernetibe.com.br](https://www.santandernetibe.com.br)
+ - date_published: 2024-06-16T09:15:50.970917+00:00
+
+ ## SUSTENTABILIDADE SANTILLANA
+ - [https://sustentabilidade.santillana.com.br](https://sustentabilidade.santillana.com.br)
+ - date_published: 2024-09-10T05:46:05+00:00
+
+ ## Santillana
+ - [https://santillana.com.br](https://santillana.com.br)
+ - date_published: 2024-06-12T13:06:22.843415+00:00
+
+ ## Training Platform
+ - [https://formacoes.santillanaeducacao.com.br](https://formacoes.santillanaeducacao.com.br)
+ - date_published: 2024-09-13T10:27:49.620573+00:00
+
+ ## Santillana Educação - Soluções que transformam a sua escola
+ - [https://www.santillanaeducacao.com.br](https://www.santillanaeducacao.com.br)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Portal Santillana
+ - [https://santillanaespanol.com.br](https://santillanaespanol.com.br)
+ - date_published: 2024-06-12T13:04:16.037536+00:00
+
+ ## Sapient AG2 | Consultoria de Customer Experience
+ - [https://sapientag2.com.br](https://sapientag2.com.br)
+ - date_published: 2024-04-11T14:41:21+00:00
+
+ ## Serasa Experian - Consulte Soluções Para Empresas
+ - [https://www.serasaexperian.com.br](https://www.serasaexperian.com.br)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Página inicial - Sergio Abranches
+ - [https://sergioabranches.com.br](https://sergioabranches.com.br)
+ - date_published: 2024-10-20T17:50:29.278727+00:00
+
+ ## Service TIC – Soluções Tecnológicas
+ - [https://servicetic.com.br](https://servicetic.com.br)
+ - date_published: 2024-09-12T14:14:05.872504+00:00
+
+ ## Sethi3D
+ - [https://sethi.com.br](https://sethi.com.br)
+ - date_published: 2023-10-29T00:14:57+00:00
+
+ ## Sethi3D
+ - [https://www.sethi3d.com.br](https://www.sethi3d.com.br)
+ - date_published: 2024-07-14T05:38:40.329737+00:00
+
+ ## SGS é a empresa líder mundial em inspeção, verificação, testes e certificação.
+ - [https://www.sgsgroup.com.br](https://www.sgsgroup.com.br)
+ - date_published: 2024-09-10T12:55:28.493954+00:00
+
+ ## Shell Brasil
+ - [http://shell.com.br](http://shell.com.br)
+ - date_published: 2024-07-12T21:54:31+00:00
+
+ ## Sicoob - Sistema de Cooperativas de Crédito do Brasil | Identificação (13 de Julho de 2024)
+ - [https://ib.sicoobnet.com.br](https://ib.sicoobnet.com.br)
+ - date_published: 2024-07-13T18:18:51.783608+00:00
+
  ## Site Of Games
  - [https://www.siteofgames.com.br](https://www.siteofgames.com.br)
  - date_published: 2024-05-11T21:14:22+00:00
@@ -3879,140 +4015,4 @@
  ## That grumpy BSD guy
  - [http://bsdly.blogspot.ca](http://bsdly.blogspot.ca)
  - date_published: 2024-08-16T01:07:17+00:00
-
- ## C0DE517E
- - [http://c0de517e.blogspot.ca](http://c0de517e.blogspot.ca)
- - date_published: 2024-09-02T08:07:15+00:00
-
- ## Commonsense & Wonder
- - [http://commonsensewonder.blogspot.ca](http://commonsensewonder.blogspot.ca)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## L.A.Times Crossword Corner
- - [http://crosswordcorner.blogspot.ca](http://crosswordcorner.blogspot.ca)
- - date_published: 2024-07-04T03:30:00+00:00
-
- ## David Barron Furniture
- - [http://davidbarronfurniture.blogspot.ca](http://davidbarronfurniture.blogspot.ca)
- - date_published: 2024-08-19T05:55:00+00:00
-
- ## Tales of the Easily Distracted
- - [http://doriantb.blogspot.ca](http://doriantb.blogspot.ca)
- - date_published: 2024-05-28T07:03:05+00:00
-
- ## Eco-Evo Evo-Eco
- - [http://ecoevoevoeco.blogspot.ca](http://ecoevoevoeco.blogspot.ca)
- - date_published: 2024-10-19T10:22:07.868220+00:00
-
- ## Etymolist
- - [http://etymolist.blogspot.ca](http://etymolist.blogspot.ca)
- - date_published: 2024-03-06T07:55:54+00:00
-
- ## The Big Mud Puddle
- - [https://evincarofautumn.blogspot.ca](https://evincarofautumn.blogspot.ca)
- - date_published: 2024-05-08T11:03:51.097414+00:00
-
- ## bezprawie
- - [http://faxe1.blogspot.ca](http://faxe1.blogspot.ca)
- - date_published: 2024-03-13T17:15:50+00:00
-
- ## The Brain Dump
- - [http://flohofwoe.blogspot.ca](http://flohofwoe.blogspot.ca)
- - date_published: 2024-09-02T08:55:59+00:00
-
- ## The infrequent ramblings of a casual wargamer and hobbyist
- - [http://fullashtraygaming.blogspot.ca](http://fullashtraygaming.blogspot.ca)
- - date_published: 2024-07-03T03:13:36+00:00
-
- ## THE HOCKEY SCHTICK
- - [http://hockeyschtick.blogspot.ca](http://hockeyschtick.blogspot.ca)
- - date_published: 2024-09-14T10:40:48+00:00
-
- ## Ivebeenreadinglately
- - [http://ivebeenreadinglately.blogspot.ca](http://ivebeenreadinglately.blogspot.ca)
- - date_published: 2024-09-09T08:54:00+00:00
-
- ## Moneyness
- - [http://jpkoning.blogspot.ca](http://jpkoning.blogspot.ca)
- - date_published: 2024-06-18T23:48:33+00:00
-
- ## Language Evolution
- - [http://langevo.blogspot.ca](http://langevo.blogspot.ca)
- - date_published: 2024-07-01T08:55:57+00:00
-
- ## Lizok's Bookshelf
- - [http://lizoksbooks.blogspot.ca](http://lizoksbooks.blogspot.ca)
- - date_published: 2024-06-03T02:06:21+00:00
-
- ## 2 Wheels, 2 Oceans, 2 Months
- - [https://mikeseatosea.blogspot.ca](https://mikeseatosea.blogspot.ca)
- - date_published: 2024-02-07T23:22:40+00:00
-
- ## Computing Reality
- - [http://milesparker.blogspot.ca](http://milesparker.blogspot.ca)
- - date_published: 2024-07-03T01:48:35+00:00
-
- ## Modern Synthesist
- - [http://modernsynthesist.blogspot.ca](http://modernsynthesist.blogspot.ca)
- - date_published: 2024-06-24T02:23:21+00:00
-
- ## The Mumpsimus
- - [http://mumpsimus.blogspot.ca](http://mumpsimus.blogspot.ca)
- - date_published: 2024-09-06T19:13:54+00:00
-
- ## My Codde
- - [http://mycodde.blogspot.ca](http://mycodde.blogspot.ca)
- - date_published: 2024-08-06T06:45:15+00:00
-
- ## My Life in Millimetres
- - [http://mylifeinmm.blogspot.ca](http://mylifeinmm.blogspot.ca)
- - date_published: 2024-03-19T21:28:00+00:00
-
- ## Nerd Ralph
- - [http://nerdralph.blogspot.ca](http://nerdralph.blogspot.ca)
- - date_published: 2024-07-07T13:13:23+00:00
-
- ## Nie znaleziono bloga
- - [http://nerds-central.blogspot.ca](http://nerds-central.blogspot.ca)
- - date_published: 2024-09-03T21:39:19.248540+00:00
-
- ## Past Times and Present Tensions
- - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
- - date_published: 2017-08-23T10:54:00+00:00
-
- ## The Pervocracy
- - [http://pervocracy.blogspot.ca](http://pervocracy.blogspot.ca)
- - date_published: 2024-10-18T14:37:09.571206+00:00
-
- ## PhD Talk
- - [https://phdtalk.blogspot.ca](https://phdtalk.blogspot.ca)
- - date_published: 2024-05-02T10:13:04.341653+00:00
-
- ## Western Undergrad Mathematics Pizza Seminar
- - [http://pizzaseminaruwo.blogspot.ca](http://pizzaseminaruwo.blogspot.ca)
- - date_published: 2024-03-19T08:48:24+00:00
-
- ## *Reflective Disequilibrium*
- - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
- - date_published: 2020-10-15T00:00:00+00:00
-
- ## Muhlberger's World History
- - [https://smuhlberger.blogspot.ca](https://smuhlberger.blogspot.ca)
- - date_published: 2024-09-04T07:12:14+00:00
-
- ## The Privates Eternal
- - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
- - date_published: 2024-06-29T22:15:34+00:00
-
- ## Thrilling Wonder Artwork
- - [http://thrillingwonderartwork.blogspot.ca](http://thrillingwonderartwork.blogspot.ca)
- - date_published: 2024-02-20T07:37:40+00:00
-
- ## Thrilling Wonder Writing
- - [http://thrillingwonderwriting.blogspot.ca](http://thrillingwonderwriting.blogspot.ca)
- - date_published: 2023-11-15T19:08:07+00:00
-
- ## Tom Nelson
- - [https://tomnelson.blogspot.ca](https://tomnelson.blogspot.ca)
- - date_published: 2024-05-06T23:32:23.707679+00:00
 
