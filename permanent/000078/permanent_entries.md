@@ -1,3 +1,226 @@
+ ## Dave Guarino
+ - [https://daveguarino.com](https://daveguarino.com)
+ - date_published: 2024-07-23T23:43:20.495070+00:00
+
+ ## Dave Hewer Design | Freelance website designer & developer
+ - [https://www.davehewer.com](https://www.davehewer.com)
+ - date_published: 2024-08-19T05:15:06.624764+00:00
+
+ ## Dave Hilowitz - Casall Outlet:Kläder Och Accessoarer För Dam & Herr - Rabatter Upp Till 50%.
+ - [https://davehilowitz.com](https://davehilowitz.com)
+ - date_published: 2024-02-09T00:16:07.944622+00:00
+ - tags: ['personal']
+
+ ## Welcome | Dave Holton
+ - [https://daveholton.com](https://daveholton.com)
+ - date_published: 2024-02-02T01:33:10.566787+00:00
+ - tags: ['personal']
+
+ ## Dave Holton Photography | Portraits, Events, & Documentary
+ - [https://daveholtonphotography.com](https://daveholtonphotography.com)
+ - date_published: 2024-05-01T04:10:20.156113+00:00
+
+ ## Dave Jansen
+ - [https://davejansen.com](https://davejansen.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Umami
+ - [https://u.davejansen.com](https://u.davejansen.com)
+ - date_published: 2024-08-11T08:12:33.772646+00:00
+
+ ## Home
+ - [http://davekehr.com](http://davekehr.com)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Dave Kilian's Blog
+ - [https://davekilian.com](https://davekilian.com)
+ - date_published: 2023-10-25T09:20:02.366505+00:00
+ - tags: ['personal']
+
+ ## Hi, I'm Dave Kiss | Possibly the one you're Googling about
+ - [https://davekiss.com](https://davekiss.com)
+ - date_published: 2023-12-06T07:23:41.147648+00:00
+ - tags: ['personal']
+
+ ## The website of author, artist, musician Dave Kobrenski
+ - [http://davekobrenski.com](http://davekobrenski.com)
+ - date_published: 2023-11-29T15:45:17.836125+00:00
+ - tags: ['personal']
+
+ ## Dave Kopel redirect
+ - [http://www.davekopel.com](http://www.davekopel.com)
+ - date_published: 2024-06-20T03:18:25.917417+00:00
+
+ ## Dave Krunal
+ - [https://davekrunal.com](https://davekrunal.com)
+ - date_published: 2024-01-16T17:03:21.478319+00:00
+
+ ## Dave Liepmann
+ - [http://www.daveliepmann.com](http://www.daveliepmann.com)
+ - date_published: 2022-08-28T17:11:16+00:00
+
+ ## DaveLtd.com
+ - [http://www.daveltd.com](http://www.daveltd.com)
+ - date_published: 2023-11-06T01:07:33+00:00
+
+ ## DAVE MACLEOD
+ - [https://davemacleod.com](https://davemacleod.com)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## The portfolio of illustrator and artist Dave Malan
+ - [http://davemalan.com](http://davemalan.com)
+ - date_published: 2024-01-31T18:05:32+00:00
+
+ ## Home - Dave Matthews Band
+ - [https://www.davematthewsband.com](https://www.davematthewsband.com)
+ - date_published: 2024-09-04T12:35:08.650550+00:00
+
+ ## Davematthewsblog
+ - [https://davematthewsblog.com](https://davematthewsblog.com)
+ - date_published: 2024-08-20T04:00:13.629470+00:00
+
+ ## DAVE MORIN
+ - [http://davemorin.com](http://davemorin.com)
+ - date_published: 2024-07-19T05:17:15.898451+00:00
+
+ ## Home
+ - [http://davenportiowa.com](http://davenportiowa.com)
+ - date_published: 2024-07-14T15:22:09.379239+00:00
+
+ ## Home
+ - [https://www.davenportiowa.com](https://www.davenportiowa.com)
+ - date_published: 2024-05-11T11:36:43.473084+00:00
+
+ ## Home | Davenport Public Library | Davenport, IA
+ - [http://davenportlibrary.com](http://davenportlibrary.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Coming Soon | Davensport
+ - [https://davensport.com](https://davensport.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Dave On Cyber – Cybersecurity as an Art
+ - [https://daveoncyber.com](https://daveoncyber.com)
+ - date_published: 2024-10-16T03:34:36.703654+00:00
+
+ ## Dave Olson's Creative Life Archive – mixed-media personal archaeology since 1970
+ - [https://daveostory.com](https://daveostory.com)
+ - date_published: 2024-08-18T04:05:03.028020+00:00
+
+ ## David White
+ - [https://daveowhite.com](https://daveowhite.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Hi! I'm Dave Paola
+ - [https://davepaola.com](https://davepaola.com)
+ - date_published: 2023-11-29T14:41:13.952434+00:00
+ - tags: ['personal']
+
+ ## Dave Paquette
+ - [https://hireme.davepaquette.com](https://hireme.davepaquette.com)
+ - date_published: 2020-05-23T00:00:00+00:00
+
+ ## Dave Paquette
+ - [https://davepaquette.com](https://davepaquette.com)
+ - date_published: 2020-05-27T01:49:59+00:00
+
+ ## Dave Perrett
+ - [https://daveperrett.com](https://daveperrett.com)
+ - date_published: 2021-08-19T00:00:00+00:00
+
+ ## A Proven Plan for Financial Success | RamseySolutions.com
+ - [https://www.daveramsey.com](https://www.daveramsey.com)
+ - date_published: 2024-08-05T20:46:14.002611+00:00
+
+ ## Data Scientist | Dave Ramsey | PHL | blog
+ - [https://daveramseymusic.com](https://daveramseymusic.com)
+ - date_published: 2024-01-10T22:41:10.539741+00:00
+
+ ## User-centered experiences that deliver measurable returns
+ - [https://daveredfern.com](https://daveredfern.com)
+ - date_published: 2024-01-11T20:48:00.108287+00:00
+
+ ## Dare to be Legendary — Daversa Partners
+ - [https://www.daversapartners.com](https://www.daversapartners.com)
+ - date_published: 2023-11-15T00:00:00+00:00
+
+ ## THE RUBIN REPORT - Dave Rubin
+ - [https://daverubin.com](https://daverubin.com)
+ - date_published: 2024-05-11T08:50:06.532702+00:00
+
+ ## The Homepage of Dave Rupert | daverupert.com
+ - [https://daverupert.com](https://daverupert.com)
+ - date_published: 2023-10-25T13:45:08.453766+00:00
+
+ ## Daves Computer Tips | Computer Help, Tips, How-to's, and News
+ - [https://davescomputertips.com](https://davescomputertips.com)
+ - date_published: 2024-05-07T23:31:20.004149+00:00
+
+ ## Dave Shea
+ - [https://daveshea.com](https://daveshea.com)
+ - date_published: 2023-10-17T03:49:30+00:00
+
+ ## Dave Silver Photography
+ - [https://www.davesilverphotography.com](https://www.davesilverphotography.com)
+ - date_published: 2024-09-18T01:31:25.914775+00:00
+
+ ## Dave Smith Decoys – The Most Effective Decoys on the Market
+ - [https://www.davesmithdecoys.com](https://www.davesmithdecoys.com)
+ - date_published: 2024-05-06T17:02:42.659613+00:00
+
+ ## Designer & developer | Dave Smyth
+ - [https://davesmyth.com](https://davesmyth.com)
+ - date_published: 2023-12-05T14:38:43.694748+00:00
+ - tags: ['personal']
+
+ ## Dave Snider
+ - [https://davesnider.com](https://davesnider.com)
+ - date_published: 2024-05-01T04:10:48.076218+00:00
+
+ ## Dave Snider's Mastodon
+ - [https://social.davesnider.com](https://social.davesnider.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Dave's Spice: Elevate Your Home Cooking Experience
+ - [https://davesspice.com](https://davesspice.com)
+ - date_published: 2024-08-07T21:34:24.656576+00:00
+
+ ## Dave's Thoughts On - Dave's Thought On
+ - [http://davesthoughtson.com](http://davesthoughtson.com)
+ - date_published: 2024-06-27T08:10:55.067338+00:00
+
+ ## Daves Website | First, solve the problem. Then, write the code.
+ - [https://daveswebsite.com](https://daveswebsite.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Dave van Well | Officiële website
+ - [http://www.davevanwell.com](http://www.davevanwell.com)
+ - date_published: 2023-08-02T11:47:53+00:00
+
+ ## Dave Verwer's Blog
+ - [https://daveverwer.com](https://daveverwer.com)
+ - date_published: 2024-06-23T15:31:55.767964+00:00
+
+ ## Who is Dave Winer?
+ - [https://davewiner.com](https://davewiner.com)
+ - date_published: 2024-05-06T14:44:46.379647+00:00
+
+ ## The Davey Awards. Small Shops Rock.
+ - [https://daveyawards.com](https://daveyawards.com)
+ - date_published: 2024-05-07T20:24:05.824761+00:00
+
+ ## Self Plagiarism is Style – Dave Pattern's Blog
+ - [http://www.daveyp.com](http://www.daveyp.com)
+ - date_published: 2022-10-03T15:05:28+00:00
+
+ ## DavHau - David Hauer
+ - [https://davhau.com](https://davhau.com)
+ - date_published: 2024-10-22T21:39:21.390398+00:00
+
+ ## Davidabrahamson.com
+ - [http://www.davidabrahamson.com](http://www.davidabrahamson.com)
+ - date_published: 2024-06-30T11:19:22.069273+00:00
+
  ## davidahouse.com
  - [https://www.davidahouse.com](https://www.davidahouse.com)
  - date_published: 2024-06-23T14:59:05.320946+00:00
@@ -3849,221 +4072,4 @@
  ## Beacon
  - [https://degenscore.com](https://degenscore.com)
  - date_published: 2024-09-25T16:06:19.979340+00:00
-
- ## Degen Summit
- - [https://degensummit.com](https://degensummit.com)
- - date_published: 2024-09-24T10:58:16.059269+00:00
-
- ## KOMODO Plaza | すべてのハイエンドゲーマーの為のセレクトショップ
- - [https://degicashop.com](https://degicashop.com)
- - date_published: 2024-07-03T16:46:22.486322+00:00
-
- ## KOMODO Plaza
- - [https://us.degicashop.com](https://us.degicashop.com)
- - date_published: 2024-07-03T16:46:16.373493+00:00
-
- ## DEGIRO - Online Stock Trading - Stockbroking
- - [https://www.degiro.com](https://www.degiro.com)
- - date_published: 2024-05-30T14:04:51+00:00
-
- ## Degoo Cloud
- - [https://app.degoo.com](https://app.degoo.com)
- - date_published: 2024-05-07T10:01:08+00:00
-
- ## Degoo Cloud
- - [https://degoo.com](https://degoo.com)
- - date_published: 2024-05-01T06:31:45.511630+00:00
-
- ## Support
- - [https://help.degoo.com](https://help.degoo.com)
- - date_published: 2024-06-16T10:51:14.291047+00:00
-
- ## Degordian - A digital-first agency
- - [https://degordian.com](https://degordian.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Degordian - A digital-first agency
- - [http://www.degordian.com](http://www.degordian.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## DeGraeve.com - The Side Projects of Steven DeGraeve
- - [https://degraeve.com](https://degraeve.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## DeGraeve.com - The Side Projects of Steven DeGraeve
- - [http://www.degraeve.com](http://www.degraeve.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Degrees What?
- - [https://degreeswhat.com](https://degreeswhat.com)
- - date_published: 2023-10-25T13:48:31.539045+00:00
-
- ## Test d'éligibilité et de débit internet : fibre, ADSL, VDSL2 - DegroupTest
- - [https://www.degrouptest.com](https://www.degrouptest.com)
- - date_published: 2024-10-02T13:45:27.673467+00:00
-
- ## De Gruyter Conversations
- - [https://blog.degruyter.com](https://blog.degruyter.com)
- - date_published: 2024-05-09T04:41:10.431925+00:00
-
- ## De Gruyter
- - [https://degruyter.com](https://degruyter.com)
- - date_published: 2024-03-03T23:24:53.753850+00:00
-
- ## De Gruyter Brill begins here.
- - [https://degruyterbrill.com](https://degruyterbrill.com)
- - date_published: 2024-05-09T04:41:12.067111+00:00
-
- ## Cierpliwości...
- - [https://www.dehashed.com](https://www.dehashed.com)
- - date_published: 2024-06-19T22:41:15.429994+00:00
-
- ## Dehesa de la Serna
- - [https://dehesadelaserna.com](https://dehesadelaserna.com)
- - date_published: 2024-06-15T09:27:53.981609+00:00
-
- ## DEHILOYCROCHET
- - [https://dehiloycrochet.com](https://dehiloycrochet.com)
- - date_published: 2024-01-03T04:06:02.634909+00:00
-
- ## deidee — design &amp; development
- - [https://deidee.com](https://deidee.com)
- - date_published: 2024-05-01T03:16:47.812444+00:00
-
- ## DEIDetected
- - [https://deidetected.com](https://deidetected.com)
- - date_published: 2024-07-16T12:44:34+00:00
- - tags: ['dei']
-
- ## Career
- - [https://career.deif.com](https://career.deif.com)
- - date_published: 2024-05-01T04:33:17.714828+00:00
-
- ## Power efficiency
- - [https://deif.com](https://deif.com)
- - date_published: 2024-06-15T21:31:50.703964+00:00
-
- ## Support
- - [https://deifsupport.deif.com](https://deifsupport.deif.com)
- - date_published: 2024-05-01T04:33:30.523307+00:00
-
- ## DEIF - Customer Portal
- - [https://myportal.deif.com](https://myportal.deif.com)
- - date_published: 2024-05-01T04:33:25.326239+00:00
-
- ## The Lemmings Compendium
- - [http://lemmings.deinonych.com](http://lemmings.deinonych.com)
- - date_published: 2010-11-10T09:26:56+00:00
-
- ## Deirdre N. McCloskey: Home Page
- - [https://deirdremccloskey.com](https://deirdremccloskey.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Deirdre V. Lyons
- - [https://www.deirdrevlyons.com](https://www.deirdrevlyons.com)
- - date_published: 2024-06-22T15:06:02.157788+00:00
-
- ## Jeffrey Deitch
- - [http://deitch.com](http://deitch.com)
- - date_published: 2024-07-11T16:12:15.760425+00:00
-
- ## DEITY Components
- - [https://deitycomponents.com](https://deitycomponents.com)
- - date_published: 2024-06-15T11:59:13.680485+00:00
-
- ## Dejal
- - [http://dejal.com](http://dejal.com)
- - date_published: 2024-06-23T15:04:03.180327+00:00
-
- ## RIP Google Groups Dejanews.com Archive
- - [http://dejanews.com](http://dejanews.com)
- - date_published: 2023-11-12T09:43:15+00:00
-
- ## SEO & Digital Marketing Agency - DEJAN ™
- - [https://dejanmarketing.com](https://dejanmarketing.com)
- - date_published: 2023-10-25T13:48:37.761453+00:00
-
- ## about
- - [https://deja-vu-platform.com](https://deja-vu-platform.com)
- - date_published: 2020-02-03T22:57:32+00:00
-
- ## De Jeugd Van Tegenwoordig
- - [http://dejeugdvantegenwoordig.com](http://dejeugdvantegenwoordig.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## De Jonckheere gallery
- - [http://www.dejonckheere-gallery.com](http://www.dejonckheere-gallery.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## DeKalb County Georgia Superior Court
- - [https://www.dekalbsuperiorcourt.com](https://www.dekalbsuperiorcourt.com)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## DeKalb Times
- - [https://dekalbtimes.com](https://dekalbtimes.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home
- - [https://dekaresearch.com](https://dekaresearch.com)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## DEKE MCGEE SAXOPHONE
- - [http://www.dekemcgee.com](http://www.dekemcgee.com)
- - date_published: 2024-06-17T06:42:00.099576+00:00
-
- ## Tim De Keukelaere
- - [https://dekeukelaere.com](https://dekeukelaere.com)
- - date_published: 2024-09-18T14:44:47.591666+00:00
-
- ## Homepage - Dekimo
- - [https://www.dekimo.com](https://www.dekimo.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Coming Soon is under construction
- - [https://dekkerdevelopment.com](https://dekkerdevelopment.com)
- - date_published: 2024-08-08T16:38:09.083235+00:00
-
- ## HOME | Delafieldcontra
- - [http://www.delafieldcontra.com](http://www.delafieldcontra.com)
- - date_published: 2024-08-20T05:20:11.497840+00:00
-
- ## early basketball -- 6/21/24
- - [http://www.delanceyplace.com](http://www.delanceyplace.com)
- - date_published: 2024-06-23T09:59:22.342514+00:00
-
- ## Delanie Jenkins
- - [http://delaniejenkins.com](http://delaniejenkins.com)
- - date_published: 2024-06-15T15:13:44+00:00
-
- ## Delano & Associates
- - [https://www.delano-associates.com](https://www.delano-associates.com)
- - date_published: 2024-07-24T02:16:32.271123+00:00
-
- ## Delano Games
- - [https://delanogames.com](https://delanogames.com)
- - date_published: 2024-07-14T02:09:25.664222+00:00
-
- ## Delapouite
- - [https://delapouite.com](https://delapouite.com)
- - date_published: 2019-05-05T15:51:50+00:00
-
- ## Delassus Group
- - [https://delassus.com](https://delassus.com)
- - date_published: 2024-06-19T23:24:19.228717+00:00
-
- ## Event Calendar | Delaware Business Times | Wilmington, DE
- - [https://calendar.delawarebusinesstimes.com](https://calendar.delawarebusinesstimes.com)
- - date_published: 2024-05-01T04:34:12.302350+00:00
-
- ## Careers at Delaware North
- - [https://careers.delawarenorth.com](https://careers.delawarenorth.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Delaware North Newsroom
- - [https://media.delawarenorth.com](https://media.delawarenorth.com)
- - date_published: 2024-07-13T18:03:12.470652+00:00
-
- ## Food, Venue & Hotel Management Company - Delaware North
- - [https://delawarenorth.com](https://delawarenorth.com)
- - date_published: 2024-05-08T00:00:00+00:00
 

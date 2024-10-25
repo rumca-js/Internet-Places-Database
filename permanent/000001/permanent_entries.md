@@ -1,3 +1,7 @@
+ ## Create Comics Using AI | ComicsMaker.ai
+ - [https://comicsmaker.ai](https://comicsmaker.ai)
+ - date_published: 2023-10-25T11:37:36.161725+00:00
+
  ## Comigo AI
  - [https://app.comigo.ai](https://app.comigo.ai)
  - date_published: 2024-08-19T12:24:09.486010+00:00
@@ -4009,8 +4013,4 @@
  ## Lumona
  - [https://lumona.ai](https://lumona.ai)
  - date_published: 2024-03-29T20:12:06.449920+00:00
-
- ## LunarTech - Empowering Tomorrow's Innovators
- - [https://academy.lunartech.ai](https://academy.lunartech.ai)
- - date_published: 2024-05-23T00:00:00+00:00
 

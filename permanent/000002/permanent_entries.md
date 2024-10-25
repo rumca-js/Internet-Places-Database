@@ -1,3 +1,7 @@
+ ## LunarTech - Empowering Tomorrow's Innovators
+ - [https://academy.lunartech.ai](https://academy.lunartech.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
  ## LunarTech
  - [https://app.lunartech.ai](https://app.lunartech.ai)
  - date_published: 2024-08-06T00:00:00+00:00
@@ -4016,8 +4020,4 @@
  ## Sizzle - Free AI tutor for everyone
  - [https://web.szl.ai](https://web.szl.ai)
  - date_published: 2024-09-02T10:07:14.635775+00:00
-
- ## Tabby Checkout
- - [https://checkout.tabby.ai](https://checkout.tabby.ai)
- - date_published: 2024-09-17T08:21:54+00:00
 

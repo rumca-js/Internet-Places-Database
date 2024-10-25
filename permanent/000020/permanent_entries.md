@@ -1,3 +1,7 @@
+ ## List of Proceedings
+ - [https://proceedings.neurips.cc](https://proceedings.neurips.cc)
+ - date_published: 2024-04-28T03:29:07.142085+00:00
+
  ## NFTrees
  - [https://nftrees.cc](https://nftrees.cc)
  - date_published: 2024-07-23T23:26:35.982005+00:00
@@ -4009,8 +4013,4 @@
  ## People - EPFL
  - [https://people.epfl.ch](https://people.epfl.ch)
  - date_published: 2024-09-05T13:37:53.796388+00:00
-
- ## Doctorate
- - [https://phd.epfl.ch](https://phd.epfl.ch)
- - date_published: 2024-05-12T07:24:31.145546+00:00
 

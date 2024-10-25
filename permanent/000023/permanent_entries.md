@@ -1,3 +1,7 @@
+ ## Fotografiados 2024
+ - [https://fotografiados.fmdos.cl](https://fotografiados.fmdos.cl)
+ - date_published: 2024-09-13T10:35:19.611847+00:00
+
  ## "Yo estuve tres años soltero, feliz. Y ahora ya hace 6 meses estoy como ya estacionado"
  - [https://seguro.fmdos.cl](https://seguro.fmdos.cl)
  - date_published: 2024-09-13T01:57:42+00:00
@@ -4009,8 +4013,4 @@
  ## Beatroot News: Text-only
  - [https://news.tatooine.club](https://news.tatooine.club)
  - date_published: 2024-07-23T23:40:24.633625+00:00
-
- ## tatooine.club
- - [https://tatooine.club](https://tatooine.club)
- - date_published: 2024-07-10T08:07:35.110729+00:00
 

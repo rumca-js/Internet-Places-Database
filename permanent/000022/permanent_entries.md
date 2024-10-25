@@ -1,3 +1,7 @@
+ ## Programm | Kinos Riffraff/Houdini Zürich
+ - [https://www.riffraff-houdini.ch](https://www.riffraff-houdini.ch)
+ - date_published: 2024-10-17T22:13:55.766640+00:00
+
  ## Rigby AG
  - [https://www.rigby.ch](https://www.rigby.ch)
  - date_published: 2024-08-16T00:00:00+00:00
@@ -4017,8 +4021,4 @@ Fakultät | Universität Basel
  ## Escucha FM Dos online, la radio de los dos
  - [https://envivo.fmdos.cl](https://envivo.fmdos.cl)
  - date_published: 2024-09-13T10:35:36.605589+00:00
-
- ## Fotografiados 2024
- - [https://fotografiados.fmdos.cl](https://fotografiados.fmdos.cl)
- - date_published: 2024-09-13T10:35:19.611847+00:00
 

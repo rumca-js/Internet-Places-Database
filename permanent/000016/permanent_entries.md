@@ -1133,6 +1133,10 @@
  - [https://www.cmdc.ca](https://www.cmdc.ca)
  - date_published: 2024-09-16T03:09:28.492721+00:00
 
+ ## Home | Canada Media Fund
+ - [https://www.cmf-fmc.ca](https://www.cmf-fmc.ca)
+ - date_published: 2024-10-22T19:32:19+00:00
+
  ## Welcome to CMRRA
  - [https://www.cmrra.ca](https://www.cmrra.ca)
  - date_published: 2024-07-04T18:43:57.114262+00:00
@@ -4033,8 +4037,4 @@
  ## Welcome to KHSC - SITE HOME PAGE
  - [https://kingstonhsc.ca](https://kingstonhsc.ca)
  - date_published: 2023-06-28T15:25:10+00:00
-
- ## Welcome to the Pumphouse
- - [https://www.kingstonpumphouse.ca](https://www.kingstonpumphouse.ca)
- - date_published: 2024-08-18T12:20:52+00:00
 

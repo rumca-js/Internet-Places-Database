@@ -1,3 +1,31 @@
+ ## 朝阳市人民政府
+ - [http://www.chaoyang.gov.cn](http://www.chaoyang.gov.cn)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 中国供销合作网_中华全国供销合作总社
+ - [http://www.chinacoop.gov.cn](http://www.chinacoop.gov.cn)
+ - date_published: 2024-06-05T06:33:06+00:00
+
+ ## 中华人民共和国驻多米尼克国大使馆
+ - [https://dm.china-embassy.gov.cn](https://dm.china-embassy.gov.cn)
+ - date_published: 2024-05-07T15:12:01.286436+00:00
+
+ ## 中华人民共和国驻大不列颠及北爱尔兰联合王国
+ - [http://gb.china-embassy.gov.cn](http://gb.china-embassy.gov.cn)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## 中华人民共和国驻萨摩亚大使馆
+ - [https://ws.china-embassy.gov.cn](https://ws.china-embassy.gov.cn)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Login
+ - [https://dy.chinafilm.gov.cn](https://dy.chinafilm.gov.cn)
+ - date_published: 2024-09-09T15:44:02.864107+00:00
+
+ ## 国家电影局
+ - [https://www.chinafilm.gov.cn](https://www.chinafilm.gov.cn)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## 温馨提醒
  - [http://www.chinajob.gov.cn](http://www.chinajob.gov.cn)
  - date_published: 2024-06-30T17:40:01.720596+00:00
@@ -3973,33 +4001,5 @@
 
  ## 山东省商务厅
  - [http://commerce.shandong.gov.cn](http://commerce.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省工业和信息化厅
- - [http://gxt.shandong.gov.cn](http://gxt.shandong.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 山东省机关事务管理局
- - [http://jgswj.shandong.gov.cn](http://jgswj.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省粮食和物资储备局
- - [http://lscb.shandong.gov.cn](http://lscb.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省统计局
- - [http://tjj.shandong.gov.cn](http://tjj.shandong.gov.cn)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 山东省文化和旅游厅
- - [http://whhly.shandong.gov.cn](http://whhly.shandong.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 山东省人民政府
- - [http://www.shandong.gov.cn](http://www.shandong.gov.cn)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## 山东省医疗保障局
- - [http://ybj.shandong.gov.cn](http://ybj.shandong.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
 

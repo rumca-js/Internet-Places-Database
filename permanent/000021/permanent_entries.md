@@ -1,3 +1,7 @@
+ ## Doctorate
+ - [https://phd.epfl.ch](https://phd.epfl.ch)
+ - date_published: 2024-05-12T07:24:31.145546+00:00
+
  ## Club Photo EPFL
  - [https://photo.epfl.ch](https://photo.epfl.ch)
  - date_published: 2024-07-16T22:49:06.768437+00:00
@@ -4010,8 +4014,4 @@
  ## RiC-Communications
  - [https://www.ric-communications.ch](https://www.ric-communications.ch)
  - date_published: 2024-09-16T21:12:31.070600+00:00
-
- ## Programm | Kinos Riffraff/Houdini Zürich
- - [https://www.riffraff-houdini.ch](https://www.riffraff-houdini.ch)
- - date_published: 2024-10-17T22:13:55.766640+00:00
 

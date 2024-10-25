@@ -1,3 +1,31 @@
+ ## 山东省工业和信息化厅
+ - [http://gxt.shandong.gov.cn](http://gxt.shandong.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 山东省机关事务管理局
+ - [http://jgswj.shandong.gov.cn](http://jgswj.shandong.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 山东省粮食和物资储备局
+ - [http://lscb.shandong.gov.cn](http://lscb.shandong.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 山东省统计局
+ - [http://tjj.shandong.gov.cn](http://tjj.shandong.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## 山东省文化和旅游厅
+ - [http://whhly.shandong.gov.cn](http://whhly.shandong.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 山东省人民政府
+ - [http://www.shandong.gov.cn](http://www.shandong.gov.cn)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## 山东省医疗保障局
+ - [http://ybj.shandong.gov.cn](http://ybj.shandong.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## شانغهاي الصين-الخدمات الدولية شانغهاي
  - [https://arabic.shanghai.gov.cn](https://arabic.shanghai.gov.cn)
  - date_published: 2024-09-06T11:00:21+00:00
@@ -3981,32 +4009,4 @@
  ## Border Riding
  - [https://borderriding.carrd.co](https://borderriding.carrd.co)
  - date_published: 2024-02-23T14:52:51+00:00
-
- ## the burrito zone
- - [https://burritogal.carrd.co](https://burritogal.carrd.co)
- - date_published: 2024-05-08T10:44:05.540678+00:00
-
- ## CarolineTheBug
- - [https://carolinethebug.carrd.co](https://carolinethebug.carrd.co)
- - date_published: 2022-09-08T15:24:26+00:00
-
- ## Carrd - Simple, free, fully responsive one-page sites for pretty much anything
- - [https://carrd.co](https://carrd.co)
- - date_published: 2024-05-06T14:11:35.023290+00:00
-
- ## Cayce Pollard (DEMO)
- - [https://caycepollard-demo.carrd.co](https://caycepollard-demo.carrd.co)
- - date_published: 2017-08-08T02:01:33+00:00
-
- ## ChatsApp
- - [https://chatsapp.carrd.co](https://chatsapp.carrd.co)
- - date_published: 2024-04-21T17:13:54+00:00
-
- ## CJ Hostetter | UX and Games
- - [https://chostett.carrd.co](https://chostett.carrd.co)
- - date_published: 2024-05-06T12:13:51+00:00
-
- ## Cotton Candy Dream
- - [https://cockyroaches.carrd.co](https://cockyroaches.carrd.co)
- - date_published: 2024-05-28T10:09:42+00:00
 

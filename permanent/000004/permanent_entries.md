@@ -1,3 +1,7 @@
+ ## Authorization | Deta Space
+ - [https://next_meetups-1-x7325434.deta.app](https://next_meetups-1-x7325434.deta.app)
+ - date_published: 2024-09-19T16:22:26+00:00
+
  ## DetailsPro: Design with SwiftUI, no coding required.
  - [https://detailspro.app](https://detailspro.app)
  - date_published: 2024-06-23T15:35:31.691381+00:00
@@ -4027,8 +4031,4 @@
  - [https://docs.photoprism.app](https://docs.photoprism.app)
  - date_published: 2024-04-20T15:04:18.703361+00:00
  - tags: ['image library', 'self-host']
-
- ## PhotoPrism: Browse Your Life in Pictures
- - [https://link.photoprism.app](https://link.photoprism.app)
- - date_published: 2024-05-12T04:58:29.441276+00:00
 

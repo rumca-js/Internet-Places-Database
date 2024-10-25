@@ -1,3 +1,31 @@
+ ## 太平洋科技_专业IT门户网站
+ - [http://dl.pconline.com.cn](http://dl.pconline.com.cn)
+ - date_published: 2024-07-15T10:29:10.899888+00:00
+
+ ## 计算机化考试开发和发送 :: Pearson VUE
+ - [https://www.pearsonvue.com.cn](https://www.pearsonvue.com.cn)
+ - date_published: 2024-06-28T12:46:23.508592+00:00
+
+ ## 828企业服务平台--人民网
+ - [http://828.people.com.cn](http://828.people.com.cn)
+ - date_published: 2024-06-28T09:03:11+00:00
+
+ ## 中国工会新闻--人民网
+ - [http://acftu.people.com.cn](http://acftu.people.com.cn)
+ - date_published: 2024-06-28T08:49:17+00:00
+
+ ## 安徽频道--人民网_网上的人民日报
+ - [http://ah.people.com.cn](http://ah.people.com.cn)
+ - date_published: 2024-06-30T10:53:35+00:00
+
+ ## 梦幻灵境AI展演中心--经济・科技--人民网
+ - [http://ai.people.com.cn](http://ai.people.com.cn)
+ - date_published: 2024-06-30T11:50:02+00:00
+
+ ## الصفحة الرئيسية--People's Daily Online
+ - [http://arabic.people.com.cn](http://arabic.people.com.cn)
+ - date_published: 2024-06-28T08:00:30+00:00
+
  ## 灵境・人民艺术馆--人民网
  - [http://art.people.com.cn](http://art.people.com.cn)
  - date_published: 2024-06-27T01:49:56+00:00
@@ -3971,32 +3999,4 @@
  ## 长葛市人民政府门户网站
  - [http://www.changge.gov.cn](http://www.changge.gov.cn)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## 朝阳市人民政府
- - [http://www.chaoyang.gov.cn](http://www.chaoyang.gov.cn)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 中国供销合作网_中华全国供销合作总社
- - [http://www.chinacoop.gov.cn](http://www.chinacoop.gov.cn)
- - date_published: 2024-06-05T06:33:06+00:00
-
- ## 中华人民共和国驻多米尼克国大使馆
- - [https://dm.china-embassy.gov.cn](https://dm.china-embassy.gov.cn)
- - date_published: 2024-05-07T15:12:01.286436+00:00
-
- ## 中华人民共和国驻大不列颠及北爱尔兰联合王国
- - [http://gb.china-embassy.gov.cn](http://gb.china-embassy.gov.cn)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## 中华人民共和国驻萨摩亚大使馆
- - [https://ws.china-embassy.gov.cn](https://ws.china-embassy.gov.cn)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Login
- - [https://dy.chinafilm.gov.cn](https://dy.chinafilm.gov.cn)
- - date_published: 2024-09-09T15:44:02.864107+00:00
-
- ## 国家电影局
- - [https://www.chinafilm.gov.cn](https://www.chinafilm.gov.cn)
- - date_published: 2024-04-29T00:00:00+00:00
 

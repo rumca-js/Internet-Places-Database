@@ -1,3 +1,7 @@
+ ## Welcome to the Pumphouse
+ - [https://www.kingstonpumphouse.ca](https://www.kingstonpumphouse.ca)
+ - date_published: 2024-08-18T12:20:52+00:00
+
  ## Kipp Scott GMC Buick: Vehicle Sales and Auto Repair | Red Deer AB
  - [https://www.kippscott.ca](https://www.kippscott.ca)
  - date_published: 2024-05-06T20:02:12.751069+00:00
@@ -4028,8 +4032,4 @@
  ## Get Involved. Be Part of the Movement.
  - [http://www.supportcamh.ca](http://www.supportcamh.ca)
  - date_published: 2024-07-12T07:38:45.853507+00:00
-
- ## Support Locc |
- - [http://supportmichaelocc.ca](http://supportmichaelocc.ca)
- - date_published: 2024-07-13T09:57:47.657499+00:00
 

@@ -1,3 +1,151 @@
+ ## ISW Blog
+ - [http://iswresearch.blogspot.com](http://iswresearch.blogspot.com)
+ - date_published: 2024-07-09T02:41:20+00:00
+
+ ## IT AINT HOLY WATER
+ - [http://itaintholywater.blogspot.com](http://itaintholywater.blogspot.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Italia Medievale
+ - [http://italiamedievale.blogspot.com](http://italiamedievale.blogspot.com)
+ - date_published: 2024-09-02T06:00:54+00:00
+
+ ## Italia Parallela
+ - [http://italiaparallela.blogspot.com](http://italiaparallela.blogspot.com)
+ - date_published: 2024-09-02T05:40:50+00:00
+
+ ## IT and more (a.k.a. Doing-IT-Right)
+ - [https://it-and-more.blogspot.com](https://it-and-more.blogspot.com)
+ - date_published: 2024-03-13T20:36:44+00:00
+
+ ## The Reading Corner
+ - [https://itchingtoread.blogspot.com](https://itchingtoread.blogspot.com)
+ - date_published: 2024-07-28T21:49:08+00:00
+
+ ## IT conservations
+ - [https://it-conservations.blogspot.com](https://it-conservations.blogspot.com)
+ - date_published: 2024-05-11T07:11:06.662970+00:00
+
+ ## _It Don't Make Sense_
+ - [http://itdontmakesense.blogspot.com](http://itdontmakesense.blogspot.com)
+ - date_published: 2024-03-20T09:20:27+00:00
+
+ ## Ubuntu-Sugar Remix
+ - [http://itd-usr.blogspot.com](http://itd-usr.blogspot.com)
+ - date_published: 2024-03-06T03:58:37+00:00
+
+ ## Bitcoin World - World of Cryptocurrency & Blockchain News
+ - [https://itsbitcoinworld.blogspot.com](https://itsbitcoinworld.blogspot.com)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## It's like disapproving of rain
+ - [http://itslikedisapprovingofrain.blogspot.com](http://itslikedisapprovingofrain.blogspot.com)
+ - date_published: 2024-02-21T11:07:31+00:00
+
+ ## Watching Paint Dry
+ - [http://itslikewatchingpaintdry.blogspot.com](http://itslikewatchingpaintdry.blogspot.com)
+ - date_published: 2021-10-06T13:39:00+00:00
+
+ ## Maryann Miller's - It's Not All Gravy
+ - [http://its-not-all-gravy.blogspot.com](http://its-not-all-gravy.blogspot.com)
+ - date_published: 2024-10-17T23:01:03.662847+00:00
+
+ ## It Started With The Hugos...
+ - [https://itstartedwiththehugos.blogspot.com](https://itstartedwiththehugos.blogspot.com)
+ - date_published: 2024-06-26T05:03:03+00:00
+
+ ## It Surfaced Down Under!
+ - [http://itsurfaceddownunder.blogspot.com](http://itsurfaceddownunder.blogspot.com)
+ - date_published: 2024-03-21T19:17:28+00:00
+
+ ## It's Your Damned Language
+ - [http://itsyourlanguage.blogspot.com](http://itsyourlanguage.blogspot.com)
+ - date_published: 2024-10-19T10:48:25.681675+00:00
+
+ ## IndyLaw Net
+ - [http://iuilaw.blogspot.com](http://iuilaw.blogspot.com)
+ - date_published: 2024-03-08T09:25:42+00:00
+
+ ## Ivan Greenberg
+ - [https://ivangreenberg.blogspot.com](https://ivangreenberg.blogspot.com)
+ - date_published: 2024-03-19T11:20:58+00:00
+
+ ## Ivan's Heroes
+ - [http://ivansheroes.blogspot.com](http://ivansheroes.blogspot.com)
+ - date_published: 2024-02-25T02:22:00+00:00
+
+ ## Ivan Teh - RunningMan
+ - [https://ivanteh-runningman.blogspot.com](https://ivanteh-runningman.blogspot.com)
+ - date_published: 2024-06-20T17:54:16+00:00
+
+ ## Ivor W. Hartmann
+ - [http://ivorhartmann.blogspot.com](http://ivorhartmann.blogspot.com)
+ - date_published: 2024-10-21T17:24:15.880848+00:00
+
+ ## Ivy Granger World: Ivy Granger and Hunters' Guild Series
+ - [http://ivygrangerpsychicdetective.blogspot.com](http://ivygrangerpsychicdetective.blogspot.com)
+ - date_published: 2024-03-22T04:35:01+00:00
+
+ ## I Want Doesn't Get
+ - [http://iwantdoesntget.blogspot.com](http://iwantdoesntget.blogspot.com)
+ - date_published: 2024-05-02T07:29:16+00:00
+
+ ## I wish to inform
+ - [https://iwishtoinform.blogspot.com](https://iwishtoinform.blogspot.com)
+ - date_published: 2023-06-21T04:50:37+00:00
+
+ ## IWSG Anthologies
+ - [https://iwsganthologies.blogspot.com](https://iwsganthologies.blogspot.com)
+ - date_published: 2024-07-04T09:18:36+00:00
+
+ ## Blogger
+ - [http://ixians.blogspot.com](http://ixians.blogspot.com)
+ - date_published: 2024-07-15T09:26:06.162012+00:00
+
+ ## IZ3AYQ
+ - [https://iz3ayq.blogspot.com](https://iz3ayq.blogspot.com)
+ - date_published: 2024-04-20T23:26:14+00:00
+
+ ## Jim Fulton
+ - [http://j1mfulton.blogspot.com](http://j1mfulton.blogspot.com)
+ - date_published: 2024-03-08T22:27:20+00:00
+
+ ## Jabberwocky Miniatures
+ - [http://jabberwockyminiatures.blogspot.com](http://jabberwockyminiatures.blogspot.com)
+ - date_published: 2024-03-14T11:04:30+00:00
+
+ ## jabblog
+ - [https://jabblog-jabblog.blogspot.com](https://jabblog-jabblog.blogspot.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Jacek on things
+ - [http://jacekonthings.blogspot.com](http://jacekonthings.blogspot.com)
+ - date_published: 2024-03-19T10:40:43+00:00
+
+ ## Jack Diederich's Python Blog
+ - [http://jackdied.blogspot.com](http://jackdied.blogspot.com)
+ - date_published: 2024-06-23T06:14:27+00:00
+
+ ## Jack of Kent
+ - [http://jackofkent.blogspot.com](http://jackofkent.blogspot.com)
+ - date_published: 2024-03-06T04:04:09+00:00
+
+ ## Jacksarge Painting
+ - [https://jacksarge.blogspot.com](https://jacksarge.blogspot.com)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Chatoyant Crumbs
+ - [https://jackshenker.blogspot.com](https://jackshenker.blogspot.com)
+ - date_published: 2012-02-09T00:00:00+00:00
+
+ ## (Jackson Street)      Books on 7th
+ - [http://jacksonstreetbooks.blogspot.com](http://jacksonstreetbooks.blogspot.com)
+ - date_published: 2024-06-27T21:53:44+00:00
+
+ ## JACKSONVILLE TRANSIT
+ - [http://jacksonvilletransit.blogspot.com](http://jacksonvilletransit.blogspot.com)
+ - date_published: 2024-02-19T01:37:32+00:00
+
  ## Jacob Russell's Barking Dog
  - [http://jacobrussellsbarkingdog.blogspot.com](http://jacobrussellsbarkingdog.blogspot.com)
  - date_published: 2015-01-27T20:51:00+00:00
@@ -1702,6 +1850,10 @@
  ## Kevin Vu
  - [http://kvuhome.blogspot.com](http://kvuhome.blogspot.com)
  - date_published: 2024-03-05T13:11:46+00:00
+
+ ## Kya Dark Lineage
+ - [http://kyadarklineage.blogspot.com](http://kyadarklineage.blogspot.com)
+ - date_published: 2024-10-05T04:06:53+00:00
 
  ## The Kentucky Democrat
  - [http://kydem.blogspot.com](http://kydem.blogspot.com)
@@ -3860,156 +4012,4 @@
  ## Kate Has Things to Say
  - [http://marvelclimate.blogspot.com](http://marvelclimate.blogspot.com)
  - date_published: 2024-03-13T17:04:32+00:00
-
- ## Marxistes Unitaires
- - [http://marxistesunitaires.blogspot.com](http://marxistesunitaires.blogspot.com)
- - date_published: 2024-10-21T18:11:14.812449+00:00
-
- ## Socialism in an Age of Waiting
- - [http://marxist-org-uk.blogspot.com](http://marxist-org-uk.blogspot.com)
- - date_published: 2024-10-21T17:41:07.396313+00:00
-
- ## Inspired by Actual Events
- - [http://marxsoftware.blogspot.com](http://marxsoftware.blogspot.com)
- - date_published: 2023-03-27T00:00:00+00:00
-
- ## Marx & Friends in their own words
- - [http://marxwords.blogspot.com](http://marxwords.blogspot.com)
- - date_published: 2024-02-08T12:04:03+00:00
-
- ## Maryam Namazie
- - [http://maryamnamazie.blogspot.com](http://maryamnamazie.blogspot.com)
- - date_published: 2024-10-21T12:00:50.432898+00:00
-
- ## Mary Anning - Rosemary Marks' weblog
- - [https://maryanning.blogspot.com](https://maryanning.blogspot.com)
- - date_published: 2024-03-13T11:04:12+00:00
-
- ## continuare a..
- - [https://mary-continuarea.blogspot.com](https://mary-continuarea.blogspot.com)
- - date_published: 2024-09-02T10:33:32+00:00
-
- ## p a i n t - verb \ˈpānt\
- - [http://mary-klein.blogspot.com](http://mary-klein.blogspot.com)
- - date_published: 2024-03-23T22:31:00+00:00
-
- ## O Audacious Book
- - [http://mary-mccallum.blogspot.com](http://mary-mccallum.blogspot.com)
- - date_published: 2024-03-05T15:29:47+00:00
-
- ## mary-m-isaacs-books
- - [https://mary-m-isaacs-books.blogspot.com](https://mary-m-isaacs-books.blogspot.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## The Naked City
- - [http://marynewsom.blogspot.com](http://marynewsom.blogspot.com)
- - date_published: 2024-05-08T06:23:56+00:00
-
- ## Mary
- - [http://maryrjohnson789.blogspot.com](http://maryrjohnson789.blogspot.com)
- - date_published: 2024-03-19T20:46:37+00:00
-
- ## maschinengeschrieben
- - [http://maschinengeschrieben.blogspot.com](http://maschinengeschrieben.blogspot.com)
- - date_published: 2024-05-15T15:32:51+00:00
-
- ## مشاهد mashahed
- - [http://mashahed.blogspot.com](http://mashahed.blogspot.com)
- - date_published: 2024-10-21T18:49:36.493394+00:00
-
- ## Mashed Up Potato
- - [http://masheduppotato.blogspot.com](http://masheduppotato.blogspot.com)
- - date_published: 2024-03-05T07:02:55+00:00
-
- ## mask of anarchy
- - [http://maskofanarchy.blogspot.com](http://maskofanarchy.blogspot.com)
- - date_published: 2024-10-21T19:08:10.527342+00:00
-
- ## Thoughts in Progress
- - [https://masoncanyon.blogspot.com](https://masoncanyon.blogspot.com)
- - date_published: 2024-10-17T22:53:01.605380+00:00
-
- ## MasonDixonVixen
- - [http://masondixonvixen.blogspot.com](http://masondixonvixen.blogspot.com)
- - date_published: 2024-06-30T05:49:50+00:00
-
- ## imprecisões
- - [http://mas-o-texto.blogspot.com](http://mas-o-texto.blogspot.com)
- - date_published: 2024-07-12T00:24:52+00:00
-
- ## Weapons of Mass Discussion
- - [http://massdiscussion.blogspot.com](http://massdiscussion.blogspot.com)
- - date_published: 2024-05-17T18:58:15+00:00
-
- ## Building a timberframe home from scratch.
- - [http://massiehouse.blogspot.com](http://massiehouse.blogspot.com)
- - date_published: 2024-06-08T00:14:56+00:00
-
- ## MASSIVE VOODOO
- - [https://massivevoodoo.blogspot.com](https://massivevoodoo.blogspot.com)
- - date_published: 2024-07-19T18:53:01+00:00
-
- ## Blog del Master di Comunicazione Storica - Università di Bologna
- - [http://mastercomunicazionestorica.blogspot.com](http://mastercomunicazionestorica.blogspot.com)
- - date_published: 2024-03-14T01:26:40+00:00
-
- ## masterminis.net - where we learn to be a better painter!
- - [http://masterminis.blogspot.com](http://masterminis.blogspot.com)
- - date_published: 2024-07-20T07:27:16+00:00
-
- ## MATERIALECOLOGY:             Neri Oxman
- - [http://materialecology.blogspot.com](http://materialecology.blogspot.com)
- - date_published: 2024-02-19T01:50:39+00:00
-
- ## Math Be Brave
- - [http://mathbebrave.blogspot.com](http://mathbebrave.blogspot.com)
- - date_published: 2024-04-15T10:27:38+00:00
-
- ## Μαθη...μαγικά
- - [https://mathhmagic.blogspot.com](https://mathhmagic.blogspot.com)
- - date_published: 2024-06-30T08:22:17+00:00
-
- ## MathNotations
- - [http://mathnotations.blogspot.com](http://mathnotations.blogspot.com)
- - date_published: 2024-05-16T18:05:35+00:00
-
- ## The Story of sin^2θ + cos^2θ = 1
- - [https://mathsanduniverse.blogspot.com](https://mathsanduniverse.blogspot.com)
- - date_published: 2024-03-13T18:43:08+00:00
-
- ## The Mathematical Tourist
- - [https://mathtourist.blogspot.com](https://mathtourist.blogspot.com)
- - date_published: 2023-05-10T00:00:00+00:00
-
- ## Mathematical Treasures
- - [https://mathtreasures.blogspot.com](https://mathtreasures.blogspot.com)
- - date_published: 2024-03-13T18:58:30+00:00
-
- ## The Mathematical Yawp
- - [http://mathyawp.blogspot.com](http://mathyawp.blogspot.com)
- - date_published: 2024-06-15T05:59:38+00:00
-
- ## The Necroleadicon
- - [http://mathyoo28mm.blogspot.com](http://mathyoo28mm.blogspot.com)
- - date_published: 2024-06-16T17:38:30+00:00
-
- ## Data Mining in MATLAB
- - [http://matlabdatamining.blogspot.com](http://matlabdatamining.blogspot.com)
- - date_published: 2024-05-17T09:10:26+00:00
-
- ## MATRIXSYNTH
- - [https://matrixsynth.blogspot.com](https://matrixsynth.blogspot.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Mat Rodina
- - [http://mat-rodina.blogspot.com](http://mat-rodina.blogspot.com)
- - date_published: 2024-03-05T16:35:40+00:00
-
- ## Noble Pursuits
- - [https://matter-energy-space-time.blogspot.com](https://matter-energy-space-time.blogspot.com)
- - date_published: 2024-05-15T14:35:22+00:00
-
- ## stuff from the park
- - [http://matterhorn1959.blogspot.com](http://matterhorn1959.blogspot.com)
- - date_published: 2024-08-05T23:19:02+00:00
 

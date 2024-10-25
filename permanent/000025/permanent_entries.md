@@ -1,3 +1,7 @@
+ ## 新华网蒙古文网站
+ - [http://mongolian.news.cn](http://mongolian.news.cn)
+ - date_published: 2024-06-30T15:17:47.830580+00:00
+
  ## 新华网_让新闻离你更近
  - [http://news.cn](http://news.cn)
  - date_published: 2024-05-07T16:33:09.655330+00:00
@@ -1134,6 +1138,26 @@
  - [http://yntb.taiwan.cn](http://yntb.taiwan.cn)
  - date_published: 2024-06-30T14:05:38.150566+00:00
 
+ ## TapTap Developer Center
+ - [https://developer.taptap.cn](https://developer.taptap.cn)
+ - date_published: 2024-10-24T08:45:33+00:00
+
+ ## TapTap - 发现好游戏
+ - [https://m.taptap.cn](https://m.taptap.cn)
+ - date_published: 2024-10-24T15:01:34.517092+00:00
+
+ ## TapTap REP 资源置换平台
+ - [https://rep.taptap.cn](https://rep.taptap.cn)
+ - date_published: 2024-10-24T07:44:30+00:00
+
+ ## TapSight | 游戏新搜索
+ - [https://sight.taptap.cn](https://sight.taptap.cn)
+ - date_published: 2024-10-24T15:00:10.890852+00:00
+
+ ## TapTap (CN) Status Status
+ - [https://status.taptap.cn](https://status.taptap.cn)
+ - date_published: 2024-10-24T15:00:03.931707+00:00
+
  ## TapTap - 发现好游戏
  - [https://taptap.cn](https://taptap.cn)
  - date_published: 2024-07-16T00:00:00+00:00
@@ -1567,6 +1591,10 @@
  ## x86Pi官方网站
  - [https://www.x86pi.cn](https://www.x86pi.cn)
  - date_published: 2024-04-28T02:53:29.071435+00:00
+
+ ## 《出发吧麦芬》官方网站｜ 治愈系冒险放置手游
+ - [https://muffin.xd.cn](https://muffin.xd.cn)
+ - date_published: 2024-09-27T10:10:43+00:00
 
  ## 新化新闻网_主流媒体,党政门户
  - [https://www.xhxww.cn](https://www.xhxww.cn)
@@ -3982,32 +4010,4 @@ _中国网
  ## 中国机械科学研究总院集团有限公司
  - [http://www.pcmi.com.cn](http://www.pcmi.com.cn)
  - date_published: 2024-06-30T16:54:23+00:00
-
- ## 太平洋科技_专业IT门户网站
- - [http://dl.pconline.com.cn](http://dl.pconline.com.cn)
- - date_published: 2024-07-15T10:29:10.899888+00:00
-
- ## 计算机化考试开发和发送 :: Pearson VUE
- - [https://www.pearsonvue.com.cn](https://www.pearsonvue.com.cn)
- - date_published: 2024-06-28T12:46:23.508592+00:00
-
- ## 828企业服务平台--人民网
- - [http://828.people.com.cn](http://828.people.com.cn)
- - date_published: 2024-06-28T09:03:11+00:00
-
- ## 中国工会新闻--人民网
- - [http://acftu.people.com.cn](http://acftu.people.com.cn)
- - date_published: 2024-06-28T08:49:17+00:00
-
- ## 安徽频道--人民网_网上的人民日报
- - [http://ah.people.com.cn](http://ah.people.com.cn)
- - date_published: 2024-06-30T10:53:35+00:00
-
- ## 梦幻灵境AI展演中心--经济・科技--人民网
- - [http://ai.people.com.cn](http://ai.people.com.cn)
- - date_published: 2024-06-30T11:50:02+00:00
-
- ## الصفحة الرئيسية--People's Daily Online
- - [http://arabic.people.com.cn](http://arabic.people.com.cn)
- - date_published: 2024-06-28T08:00:30+00:00
 

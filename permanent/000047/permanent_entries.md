@@ -1,3 +1,115 @@
+ ## Daydream Utopia, by Chris Coco
+ - [https://chriscoco.bandcamp.com](https://chriscoco.bandcamp.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Chris Huelsbeck Productions
+ - [https://chrishuelsbeck.bandcamp.com](https://chrishuelsbeck.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Chris Porter
+ - [https://chrisportermusic.bandcamp.com](https://chrisportermusic.bandcamp.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Christopher Larkin
+ - [https://christopherlarkin.bandcamp.com](https://christopherlarkin.bandcamp.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Chris Watson
+ - [https://chriswatsonreleases.bandcamp.com](https://chriswatsonreleases.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Trapped in a Parking Garage, by Citric Dummies
+ - [https://citricdummies.bandcamp.com](https://citricdummies.bandcamp.com)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Claire M Singer
+ - [https://clairemsinger.bandcamp.com](https://clairemsinger.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## The Clay Walnum Band
+ - [http://claywalnumband.bandcamp.com](http://claywalnumband.bandcamp.com)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## Clean Feed
+ - [https://cleanfeedrecords.bandcamp.com](https://cleanfeedrecords.bandcamp.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Artists | Cleopatra Records
+ - [https://cleopatrarecords.bandcamp.com](https://cleopatrarecords.bandcamp.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Cliff Caruthers
+ - [https://cliffcaruthers.bandcamp.com](https://cliffcaruthers.bandcamp.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Merch from Clinquant Pudendum
+ - [https://clinquantpudendum.bandcamp.com](https://clinquantpudendum.bandcamp.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Watercolors, by Clinton Affair
+ - [https://clintonaffair.bandcamp.com](https://clintonaffair.bandcamp.com)
+ - date_published: 2023-12-11T15:48:46.160132+00:00
+
+ ## Closet Yi
+ - [https://closetyi.bandcamp.com](https://closetyi.bandcamp.com)
+ - date_published: 2024-10-22T20:19:59.200016+00:00
+
+ ## Cloudchamber Recordings
+ - [https://cloud-chamber.bandcamp.com](https://cloud-chamber.bandcamp.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## What They Do is Not Art (2022 Mix), by Cloudkicker
+ - [http://cloudkicker.bandcamp.com](http://cloudkicker.bandcamp.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Artists | Club AC30
+ - [https://clubac30.bandcamp.com](https://clubac30.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Cluster B
+ - [https://cluster-b.bandcamp.com](https://cluster-b.bandcamp.com)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Cluster
+ - [https://clusterofficial.bandcamp.com](https://clusterofficial.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Life is a Time-Based Artwork, by CMD+JAZMINE
+ - [https://cmdjazmine.bandcamp.com](https://cmdjazmine.bandcamp.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## CM von Hausswolff
+ - [https://cmvonhausswolffreleases.bandcamp.com](https://cmvonhausswolffreleases.bandcamp.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## RADD
+ - [https://coalpuff.bandcamp.com](https://coalpuff.bandcamp.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Cold Feet
+ - [https://cold-feet.bandcamp.com](https://cold-feet.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Cole & Ward
+ - [https://coleandward.bandcamp.com](https://coleandward.bandcamp.com)
+ - date_published: 2024-10-17T12:12:26.061751+00:00
+
+ ## Coleurs
+ - [https://coleurs.bandcamp.com](https://coleurs.bandcamp.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## ἈNÁΓKH, by CØLLAPSE
+ - [http://collapseband.bandcamp.com](http://collapseband.bandcamp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Rhythm Sounds From Planet Illness, by Gulls
+ - [https://commonlanguage.bandcamp.com](https://commonlanguage.bandcamp.com)
+ - date_published: 2024-10-22T20:21:09.771848+00:00
+
+ ## Compost Records
+ - [https://compostrecords.bandcamp.com](https://compostrecords.bandcamp.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
  ## Conjured Metaphors
  - [https://conjuredmetaphors.bandcamp.com](https://conjuredmetaphors.bandcamp.com)
  - date_published: 2024-05-15T00:00:00+00:00
@@ -610,6 +722,10 @@
  - [https://ericlennartson.bandcamp.com](https://ericlennartson.bandcamp.com)
  - date_published: 2024-05-07T00:00:00+00:00
 
+ ## Eric W. Brown
+ - [https://ericwbrown.bandcamp.com](https://ericwbrown.bandcamp.com)
+ - date_published: 2024-10-24T09:05:32.087688+00:00
+
  ## Erik McClure
  - [https://erikmcclure.bandcamp.com](https://erikmcclure.bandcamp.com)
  - date_published: 2024-08-19T00:00:00+00:00
@@ -882,9 +998,17 @@
  - [https://gabrielkeller.bandcamp.com](https://gabrielkeller.bandcamp.com)
  - date_published: 2024-10-21T19:09:52.018531+00:00
 
+ ## GalaxyTrail
+ - [https://galaxytrail.bandcamp.com](https://galaxytrail.bandcamp.com)
+ - date_published: 2024-10-24T13:22:08.758100+00:00
+
  ## GameGrooves
  - [https://gamegrooves.bandcamp.com](https://gamegrooves.bandcamp.com)
  - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Garoad
+ - [https://garoad.bandcamp.com](https://garoad.bandcamp.com)
+ - date_published: 2024-10-24T07:19:32.465399+00:00
 
  ## Garth Dew
  - [https://garthdew.bandcamp.com](https://garthdew.bandcamp.com)
@@ -3875,128 +3999,4 @@
  ## Tanto Faz, by Tácio & Martello Sousa
  - [https://tacio.bandcamp.com](https://tacio.bandcamp.com)
  - date_published: 2024-06-01T00:00:00+00:00
-
- ## It Takes Two
- - [https://takestworecords.bandcamp.com](https://takestworecords.bandcamp.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## TALK=TROUBLE
- - [https://talkistrouble.bandcamp.com](https://talkistrouble.bandcamp.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Talkov Law Firm, by Talkov Law Firm
- - [https://talkovlaw.bandcamp.com](https://talkovlaw.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Tallies
- - [https://tallies.bandcamp.com](https://tallies.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Tańce
- - [https://tance.bandcamp.com](https://tance.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Diamond Dragon, by Tanimura Midnight
- - [https://tanimuramidnight.bandcamp.com](https://tanimuramidnight.bandcamp.com)
- - date_published: 2024-10-17T22:08:42.561080+00:00
-
- ## TAO Forms
- - [https://taoforms.bandcamp.com](https://taoforms.bandcamp.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Modern Romance (Album), by TAURUS 1984
- - [https://taurus1984.bandcamp.com](https://taurus1984.bandcamp.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Taylor Crawford
- - [https://taylorcrawford.bandcamp.com](https://taylorcrawford.bandcamp.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## The Teaching Machine
- - [https://teachingmachine.bandcamp.com](https://teachingmachine.bandcamp.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Tears for Agnes
- - [https://tearsforagnes.bandcamp.com](https://tearsforagnes.bandcamp.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## ALTAR TECHNO
- - [https://techno.bandcamp.com](https://techno.bandcamp.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Teenage Cenobite
- - [https://teenagecenobite.bandcamp.com](https://teenagecenobite.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Teeth Of The Sea
- - [http://teethofthesea.bandcamp.com](http://teethofthesea.bandcamp.com)
- - date_published: 2024-07-10T10:22:31.438508+00:00
-
- ## Tefo Mahola
- - [https://tefomahola.bandcamp.com](https://tefomahola.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Tenacious D
- - [https://tenaciousd.bandcamp.com](https://tenaciousd.bandcamp.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Terminal 11
- - [https://terminal11.bandcamp.com](https://terminal11.bandcamp.com)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Terraformer
- - [https://terraformer.bandcamp.com](https://terraformer.bandcamp.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Tesco Distribution Germany
- - [https://tescogermany.bandcamp.com](https://tescogermany.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## High As Hell, by Baxter P. Wordsworth
- - [https://thatninjawordz.bandcamp.com](https://thatninjawordz.bandcamp.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## T.H.D.
- - [http://thdmusic.bandcamp.com](http://thdmusic.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## the Ar-Kaics
- - [https://thearkaics.bandcamp.com](https://thearkaics.bandcamp.com)
- - date_published: 2024-09-16T03:31:42.057379+00:00
-
- ## Merch from The Beths
- - [https://thebethsnz.bandcamp.com](https://thebethsnz.bandcamp.com)
- - date_published: 2024-07-19T20:30:46.494191+00:00
-
- ## the black watch
- - [https://theblackwatch.bandcamp.com](https://theblackwatch.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## [CF503] Continuum Hypothesis Compilation, by The Centrifuge
- - [https://thecentrifuge.bandcamp.com](https://thecentrifuge.bandcamp.com)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## A Sudden Craving, by The Children...
- - [https://thechildrenband.bandcamp.com](https://thechildrenband.bandcamp.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## The Lost EP, by The Chills
- - [https://thechillsmusic.bandcamp.com](https://thechillsmusic.bandcamp.com)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## Riddles from the Universe, by The Cowboy
- - [https://thecowboycle.bandcamp.com](https://thecowboycle.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Sultan of Squat, by The Cowboys
- - [https://thecowboysnow.bandcamp.com](https://thecowboysnow.bandcamp.com)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Old Habits & New Ways of The Dandelion, by The Dandelion
- - [https://thedandelion.bandcamp.com](https://thedandelion.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## IMPOSSIBLE WEIGHT, by Deep Sea Diver
- - [https://thedeepseadiver.bandcamp.com](https://thedeepseadiver.bandcamp.com)
- - date_published: 2024-02-29T00:00:00+00:00
 

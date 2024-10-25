@@ -1,3 +1,216 @@
+ ## DAILYNOMIE – Know Thyself
+ - [https://www.dailynomie.com](https://www.dailynomie.com)
+ - date_published: 2024-06-29T10:33:42.452606+00:00
+
+ ## a Minnesota Vikings community
+ - [https://dailynorseman.com](https://dailynorseman.com)
+ - date_published: 2024-04-29T02:14:10.405855+00:00
+
+ ## The Daily Northwestern
+ - [https://dailynorthwestern.com](https://dailynorthwestern.com)
+ - date_published: 2024-05-08T09:00:19.284495+00:00
+
+ ## Daily Nous - news for & about the philosophy profession
+ - [https://dailynous.com](https://dailynous.com)
+ - date_published: 2023-10-25T13:41:48.743475+00:00
+
+ ## Daily of The Day
+ - [http://dailyoftheday.com](http://dailyoftheday.com)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Home — Daily Passport
+ - [https://dailypassport.com](https://dailypassport.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Supporting the Students and Alumni of the DP, 34th Street and UTB
+ - [https://dailypennalumni.com](https://dailypennalumni.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## BlueConic: Log In
+ - [https://a433.dailypress.com](https://a433.dailypress.com)
+ - date_published: 2024-05-01T03:33:31.743148+00:00
+
+ ## Daily Press
+ - [http://articles.dailypress.com](http://articles.dailypress.com)
+ - date_published: 2024-05-12T06:10:04.732717+00:00
+
+ ## Daily Press
+ - [https://enewspaper.dailypress.com](https://enewspaper.dailypress.com)
+ - date_published: 2024-05-01T03:33:24.359331+00:00
+
+ ## Fun & Games | Free Online Games, Puzzles, Crosswords & Jumbles | Daily Press
+ - [https://fun.dailypress.com](https://fun.dailypress.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## EU Notice | Daily Press
+ - [https://jobs.dailypress.com](https://jobs.dailypress.com)
+ - date_published: 2024-05-01T03:33:32.538482+00:00
+
+ ## IIS Windows Server
+ - [https://myaccount2.dailypress.com](https://myaccount2.dailypress.com)
+ - date_published: 2022-08-03T17:27:04+00:00
+
+ ## Shop the Daily Press Official Store
+ - [https://store.dailypress.com](https://store.dailypress.com)
+ - date_published: 2024-05-01T03:33:39.319267+00:00
+
+ ## Tidewater Review
+ - [https://tr-enewspaper.dailypress.com](https://tr-enewspaper.dailypress.com)
+ - date_published: 2024-05-01T03:33:20.465015+00:00
+
+ ## Daily Press
+ - [https://dailypress.com](https://dailypress.com)
+ - date_published: 2023-12-04T14:48:50.055297+00:00
+
+ ## Media Kit | The Princetonian
+ - [https://business.dailyprincetonian.com](https://business.dailyprincetonian.com)
+ - date_published: 2024-05-01T03:33:47.761141+00:00
+
+ ## Crosswords | The Daily Princetonian
+ - [https://crossword.dailyprincetonian.com](https://crossword.dailyprincetonian.com)
+ - date_published: 2024-04-17T18:18:55+00:00
+
+ ## Donate to The Daily Princetonian
+ - [https://donate.dailyprincetonian.com](https://donate.dailyprincetonian.com)
+ - date_published: 2024-08-20T21:45:59+00:00
+
+ ## The Daily Princetonian Quizzes
+ - [https://quizzes.dailyprincetonian.com](https://quizzes.dailyprincetonian.com)
+ - date_published: 2023-09-18T06:46:22+00:00
+
+ ## Subscribe @ Daily Princetonian
+ - [https://subscribe.dailyprincetonian.com](https://subscribe.dailyprincetonian.com)
+ - date_published: 2023-06-15T01:31:34+00:00
+
+ ## The Daily Princetonian
+ - [https://dailyprincetonian.com](https://dailyprincetonian.com)
+ - date_published: 2023-10-25T13:41:55.082519+00:00
+
+ ## Daily Pundit
+ - [http://dailypundit.com](http://dailypundit.com)
+ - date_published: 2024-03-03T09:30:02+00:00
+
+ ## TechRadar | the technology experts
+ - [http://dailyradar.com](http://dailyradar.com)
+ - date_published: 2024-06-27T10:25:12+00:00
+
+ ## The Daily Reckoning
+ - [https://dailyreckoning.com](https://dailyreckoning.com)
+ - date_published: 2023-10-25T13:41:59.032119+00:00
+
+ ## Paradigm Press | Members Site
+ - [https://signups.dailyreckoning.com](https://signups.dailyreckoning.com)
+ - date_published: 2024-09-18T09:52:21.107029+00:00
+
+ ## Morristown - Home
+ - [http://www.dailyrecord.com](http://www.dailyrecord.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Homepage of The Daily Roxette
+ - [http://www.dailyroxette.com](http://www.dailyroxette.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Daily Sabah | Latest & Breaking News from Turkey | Istanbul
+ - [https://dailysabah.com](https://dailysabah.com)
+ - date_published: 2024-01-03T00:55:08.271284+00:00
+ - tags: ['turkey news']
+
+ ## Home
+ - [https://dailyscandinavian.com](https://dailyscandinavian.com)
+ - date_published: 2023-08-24T13:17:46+00:00
+
+ ## Home
+ - [https://dailysecurityreview.com](https://dailysecurityreview.com)
+ - date_published: 2024-01-03T09:09:03.746373+00:00
+
+ ## The Daily Signal Institute
+ - [https://secured.dailysignal.com](https://secured.dailysignal.com)
+ - date_published: 2024-09-15T13:02:45.075729+00:00
+
+ ## The Daily Signal: Policy News, Conservative Analysis and Opinion
+ - [https://dailysignal.com](https://dailysignal.com)
+ - date_published: 2023-10-25T13:42:12.168369+00:00
+
+ ## 10 x your output with DailyStandards® | Derek Mills
+ - [http://www.dailystandards.com](http://www.dailystandards.com)
+ - date_published: 2024-09-16T03:50:47.495603+00:00
+
+ ## Daily Stoic | Stoic Wisdom For Everyday Life
+ - [https://dailystoic.com](https://dailystoic.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## The Daily Stoic Store -- Memento Mori Medallions, Books, and Courses
+ - [https://prints.dailystoic.com](https://prints.dailystoic.com)
+ - date_published: 2024-07-15T06:51:41.702434+00:00
+
+ ## The Daily Stoic Store -- Memento Mori Medallions, Books, and Courses
+ - [https://store.dailystoic.com](https://store.dailystoic.com)
+ - date_published: 2024-05-12T05:39:23.912537+00:00
+
+ ## Daily Study Bible: Online Devotions and Daily Readings
+ - [https://dailystudybible.com](https://dailystudybible.com)
+ - date_published: 2013-04-01T01:27:32+00:00
+
+ ## DailyStuff - Home
+ - [https://www.daily-stuff.com](https://www.daily-stuff.com)
+ - date_published: 2024-09-11T11:26:50+00:00
+
+ ## Daily Targum
+ - [https://feeds.dailytargum.com](https://feeds.dailytargum.com)
+ - date_published: 2024-07-01T18:48:25.499656+00:00
+
+ ## The Daily Targum
+ - [https://dailytargum.com](https://dailytargum.com)
+ - date_published: 2024-05-07T20:22:21.590021+00:00
+
+ ## Daily Tech Video - Daily technology videos, curated by Reuven Lerner.
+ - [https://dailytechvideo.com](https://dailytechvideo.com)
+ - date_published: 2024-06-28T20:11:33.216190+00:00
+
+ ## The platform for architecture and design | Architonic
+ - [http://www.dailytonic.com](http://www.dailytonic.com)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Daily Torch – Keeping the light of liberty shining
+ - [http://dailytorch.com](http://dailytorch.com)
+ - date_published: 2024-06-27T03:41:52+00:00
+
+ ## HOME - Daily Trojan: the University of Southern California's fiercely independent, student-run newspaper since 1912 - Daily Trojan
+ - [https://dailytrojan.com](https://dailytrojan.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Homepage - DailyVeracity
+ - [https://www.dailyveracity.com](https://www.dailyveracity.com)
+ - date_published: 2024-09-16T20:09:48.137038+00:00
+
+ ## Daily Voice | Fast. Trusted. Local.
+ - [https://dailyvoice.com](https://dailyvoice.com)
+ - date_published: 2024-07-04T13:01:05.267238+00:00
+
+ ## DailyWealth | Investment Research, Advice and Newsletter
+ - [https://dailywealth.com](https://dailywealth.com)
+ - date_published: 2024-07-19T23:57:00.195375+00:00
+
+ ## the dailywebthing archives
+ - [https://dailywebthing.com](https://dailywebthing.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## the dailywebthing archives
+ - [https://pointers.dailywebthing.com](https://pointers.dailywebthing.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## the dailywebthing archives
+ - [https://the.dailywebthing.com](https://the.dailywebthing.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Divorce Lawyers in Tennesseee | Child Support Attorneys
+ - [http://www.dailywhirl.com](http://www.dailywhirl.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## The Daily Wire Advertise
+ - [https://advertise.dailywire.com](https://advertise.dailywire.com)
+ - date_published: 2024-05-01T03:35:00.619599+00:00
+
  ## The Daily Wire
  - [https://app.dailywire.com](https://app.dailywire.com)
  - date_published: 2024-09-18T10:07:37.645141+00:00
@@ -669,6 +882,10 @@
  ## DAN Cases
  - [https://dan-cases.com](https://dan-cases.com)
  - date_published: 2024-03-22T11:33:49+00:00
+
+ ## Dance Central | Harmonix Music Systems, Inc.
+ - [http://www.dancecentral.com](http://www.dancecentral.com)
+ - date_published: 2022-06-01T18:23:25+00:00
 
  ## Home | Dancefestopia
  - [https://www.dancefestopia.com](https://www.dancefestopia.com)
@@ -3829,227 +4046,4 @@
  ## Home – Basic
  - [https://davegorman.com](https://davegorman.com)
  - date_published: 2024-05-15T17:41:51.009070+00:00
-
- ## Dave Guarino
- - [https://daveguarino.com](https://daveguarino.com)
- - date_published: 2024-07-23T23:43:20.495070+00:00
-
- ## Dave Hewer Design | Freelance website designer & developer
- - [https://www.davehewer.com](https://www.davehewer.com)
- - date_published: 2024-08-19T05:15:06.624764+00:00
-
- ## Dave Hilowitz - Casall Outlet:Kläder Och Accessoarer För Dam & Herr - Rabatter Upp Till 50%.
- - [https://davehilowitz.com](https://davehilowitz.com)
- - date_published: 2024-02-09T00:16:07.944622+00:00
- - tags: ['personal']
-
- ## Welcome | Dave Holton
- - [https://daveholton.com](https://daveholton.com)
- - date_published: 2024-02-02T01:33:10.566787+00:00
- - tags: ['personal']
-
- ## Dave Holton Photography | Portraits, Events, & Documentary
- - [https://daveholtonphotography.com](https://daveholtonphotography.com)
- - date_published: 2024-05-01T04:10:20.156113+00:00
-
- ## Dave Jansen
- - [https://davejansen.com](https://davejansen.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Umami
- - [https://u.davejansen.com](https://u.davejansen.com)
- - date_published: 2024-08-11T08:12:33.772646+00:00
-
- ## Home
- - [http://davekehr.com](http://davekehr.com)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## Dave Kilian's Blog
- - [https://davekilian.com](https://davekilian.com)
- - date_published: 2023-10-25T09:20:02.366505+00:00
- - tags: ['personal']
-
- ## Hi, I'm Dave Kiss | Possibly the one you're Googling about
- - [https://davekiss.com](https://davekiss.com)
- - date_published: 2023-12-06T07:23:41.147648+00:00
- - tags: ['personal']
-
- ## The website of author, artist, musician Dave Kobrenski
- - [http://davekobrenski.com](http://davekobrenski.com)
- - date_published: 2023-11-29T15:45:17.836125+00:00
- - tags: ['personal']
-
- ## Dave Kopel redirect
- - [http://www.davekopel.com](http://www.davekopel.com)
- - date_published: 2024-06-20T03:18:25.917417+00:00
-
- ## Dave Krunal
- - [https://davekrunal.com](https://davekrunal.com)
- - date_published: 2024-01-16T17:03:21.478319+00:00
-
- ## Dave Liepmann
- - [http://www.daveliepmann.com](http://www.daveliepmann.com)
- - date_published: 2022-08-28T17:11:16+00:00
-
- ## DaveLtd.com
- - [http://www.daveltd.com](http://www.daveltd.com)
- - date_published: 2023-11-06T01:07:33+00:00
-
- ## DAVE MACLEOD
- - [https://davemacleod.com](https://davemacleod.com)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## The portfolio of illustrator and artist Dave Malan
- - [http://davemalan.com](http://davemalan.com)
- - date_published: 2024-01-31T18:05:32+00:00
-
- ## Home - Dave Matthews Band
- - [https://www.davematthewsband.com](https://www.davematthewsband.com)
- - date_published: 2024-09-04T12:35:08.650550+00:00
-
- ## Davematthewsblog
- - [https://davematthewsblog.com](https://davematthewsblog.com)
- - date_published: 2024-08-20T04:00:13.629470+00:00
-
- ## DAVE MORIN
- - [http://davemorin.com](http://davemorin.com)
- - date_published: 2024-07-19T05:17:15.898451+00:00
-
- ## Home
- - [http://davenportiowa.com](http://davenportiowa.com)
- - date_published: 2024-07-14T15:22:09.379239+00:00
-
- ## Home
- - [https://www.davenportiowa.com](https://www.davenportiowa.com)
- - date_published: 2024-05-11T11:36:43.473084+00:00
-
- ## Home | Davenport Public Library | Davenport, IA
- - [http://davenportlibrary.com](http://davenportlibrary.com)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Coming Soon | Davensport
- - [https://davensport.com](https://davensport.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Dave On Cyber – Cybersecurity as an Art
- - [https://daveoncyber.com](https://daveoncyber.com)
- - date_published: 2024-10-16T03:34:36.703654+00:00
-
- ## Dave Olson's Creative Life Archive – mixed-media personal archaeology since 1970
- - [https://daveostory.com](https://daveostory.com)
- - date_published: 2024-08-18T04:05:03.028020+00:00
-
- ## David White
- - [https://daveowhite.com](https://daveowhite.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Hi! I'm Dave Paola
- - [https://davepaola.com](https://davepaola.com)
- - date_published: 2023-11-29T14:41:13.952434+00:00
- - tags: ['personal']
-
- ## Dave Paquette
- - [https://hireme.davepaquette.com](https://hireme.davepaquette.com)
- - date_published: 2020-05-23T00:00:00+00:00
-
- ## Dave Paquette
- - [https://davepaquette.com](https://davepaquette.com)
- - date_published: 2020-05-27T01:49:59+00:00
-
- ## Dave Perrett
- - [https://daveperrett.com](https://daveperrett.com)
- - date_published: 2021-08-19T00:00:00+00:00
-
- ## A Proven Plan for Financial Success | RamseySolutions.com
- - [https://www.daveramsey.com](https://www.daveramsey.com)
- - date_published: 2024-08-05T20:46:14.002611+00:00
-
- ## Data Scientist | Dave Ramsey | PHL | blog
- - [https://daveramseymusic.com](https://daveramseymusic.com)
- - date_published: 2024-01-10T22:41:10.539741+00:00
-
- ## User-centered experiences that deliver measurable returns
- - [https://daveredfern.com](https://daveredfern.com)
- - date_published: 2024-01-11T20:48:00.108287+00:00
-
- ## Dare to be Legendary — Daversa Partners
- - [https://www.daversapartners.com](https://www.daversapartners.com)
- - date_published: 2023-11-15T00:00:00+00:00
-
- ## THE RUBIN REPORT - Dave Rubin
- - [https://daverubin.com](https://daverubin.com)
- - date_published: 2024-05-11T08:50:06.532702+00:00
-
- ## The Homepage of Dave Rupert | daverupert.com
- - [https://daverupert.com](https://daverupert.com)
- - date_published: 2023-10-25T13:45:08.453766+00:00
-
- ## Daves Computer Tips | Computer Help, Tips, How-to's, and News
- - [https://davescomputertips.com](https://davescomputertips.com)
- - date_published: 2024-05-07T23:31:20.004149+00:00
-
- ## Dave Shea
- - [https://daveshea.com](https://daveshea.com)
- - date_published: 2023-10-17T03:49:30+00:00
-
- ## Dave Silver Photography
- - [https://www.davesilverphotography.com](https://www.davesilverphotography.com)
- - date_published: 2024-09-18T01:31:25.914775+00:00
-
- ## Dave Smith Decoys – The Most Effective Decoys on the Market
- - [https://www.davesmithdecoys.com](https://www.davesmithdecoys.com)
- - date_published: 2024-05-06T17:02:42.659613+00:00
-
- ## Designer & developer | Dave Smyth
- - [https://davesmyth.com](https://davesmyth.com)
- - date_published: 2023-12-05T14:38:43.694748+00:00
- - tags: ['personal']
-
- ## Dave Snider
- - [https://davesnider.com](https://davesnider.com)
- - date_published: 2024-05-01T04:10:48.076218+00:00
-
- ## Dave Snider's Mastodon
- - [https://social.davesnider.com](https://social.davesnider.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Dave's Spice: Elevate Your Home Cooking Experience
- - [https://davesspice.com](https://davesspice.com)
- - date_published: 2024-08-07T21:34:24.656576+00:00
-
- ## Dave's Thoughts On - Dave's Thought On
- - [http://davesthoughtson.com](http://davesthoughtson.com)
- - date_published: 2024-06-27T08:10:55.067338+00:00
-
- ## Daves Website | First, solve the problem. Then, write the code.
- - [https://daveswebsite.com](https://daveswebsite.com)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Dave van Well | Officiële website
- - [http://www.davevanwell.com](http://www.davevanwell.com)
- - date_published: 2023-08-02T11:47:53+00:00
-
- ## Dave Verwer's Blog
- - [https://daveverwer.com](https://daveverwer.com)
- - date_published: 2024-06-23T15:31:55.767964+00:00
-
- ## Who is Dave Winer?
- - [https://davewiner.com](https://davewiner.com)
- - date_published: 2024-05-06T14:44:46.379647+00:00
-
- ## The Davey Awards. Small Shops Rock.
- - [https://daveyawards.com](https://daveyawards.com)
- - date_published: 2024-05-07T20:24:05.824761+00:00
-
- ## Self Plagiarism is Style – Dave Pattern's Blog
- - [http://www.daveyp.com](http://www.daveyp.com)
- - date_published: 2022-10-03T15:05:28+00:00
-
- ## DavHau - David Hauer
- - [https://davhau.com](https://davhau.com)
- - date_published: 2024-10-22T21:39:21.390398+00:00
-
- ## Davidabrahamson.com
- - [http://www.davidabrahamson.com](http://www.davidabrahamson.com)
- - date_published: 2024-06-30T11:19:22.069273+00:00
 
