@@ -1,3 +1,87 @@
+ ## Rádio Mix FM
+ - [https://radiomixfm.com.br](https://radiomixfm.com.br)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ - [https://radionos.com.br](https://radionos.com.br)
+ - date_published: 2020-04-25T22:32:56+00:00
+ - tags: ['demoscene']
+
+ ## Home Ram Brasil | Poder Inigualável
+ - [https://www.ram.com.br](https://www.ram.com.br)
+ - date_published: 2024-06-17T11:46:19+00:00
+
+ ## Online newsletter software from rapidmail
+ - [https://www.rapidmail.com.br](https://www.rapidmail.com.br)
+ - date_published: 2024-06-22T22:22:32.195463+00:00
+
+ ## Delivery de Comida e Mercado na sua Casa - Rappi Brasil
+ - [https://www.rappi.com.br](https://www.rappi.com.br)
+ - date_published: 2024-07-01T06:26:18.117994+00:00
+
+ ## RD Station | Automação de Marketing Digital - CRM de Vendas
+ - [https://rdstation.com.br](https://rdstation.com.br)
+ - date_published: 2020-04-23T19:04:56+00:00
+
+ ## Reclame Aqui - Pesquise antes de comprar. Reclame. Resolva
+ - [https://www.reclameaqui.com.br](https://www.reclameaqui.com.br)
+ - date_published: 2024-07-13T16:34:52.904919+00:00
+
+ ## Loja online - Ebooks Grupo Record – record.bookwire.br
+ - [https://ebooks.record.com.br](https://ebooks.record.com.br)
+ - date_published: 2024-07-13T02:13:21.200687+00:00
+
+ ## Grupo Editorial Record
+ - [https://record.com.br](https://record.com.br)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Recreio
+ - [https://recreio.com.br](https://recreio.com.br)
+ - date_published: 2024-07-11T17:33:19.111256+00:00
+
+ ## Rede D'Or São Luiz - Home
+ - [https://www.rededorsaoluiz.com.br](https://www.rededorsaoluiz.com.br)
+ - date_published: 2024-07-13T02:16:14.586893+00:00
+
+ ## GloboAds | Ecossistema de soluções para sua marca
+ - [http://negocios8.redeglobo.com.br](http://negocios8.redeglobo.com.br)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## REVIL | www.residentevil.com.br
+ - [https://residentevil.com.br](https://residentevil.com.br)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Retrópolis - A cidade dos clássicos Atari Falcon 030 Microbox… Parece familiar?
+ - [https://retropolis.com.br](https://retropolis.com.br)
+ - date_published: 2024-05-08T04:06:37.967708+00:00
+
+ ## Apollo
+ - [https://apollo.returncapital.com.br](https://apollo.returncapital.com.br)
+ - date_published: 2024-09-29T20:26:23.910578+00:00
+
+ ## B2B | Revenda
+ - [https://www.revendaculturama.com.br](https://www.revendaculturama.com.br)
+ - date_published: 2024-07-13T02:19:25.218555+00:00
+
+ ## AnaMaria
+ - [https://revistaanamaria.com.br](https://revistaanamaria.com.br)
+ - date_published: 2024-07-11T17:33:40.063591+00:00
+
+ ## Revista Inspire-C - Inspiração, Reflexão e Ética
+ - [https://revistainspirec.com.br](https://revistainspirec.com.br)
+ - date_published: 2024-07-09T06:47:27+00:00
+
+ ## L'Officiel Brasil
+ - [https://www.revistalofficiel.com.br](https://www.revistalofficiel.com.br)
+ - date_published: 2024-09-16T09:58:46.408517+00:00
+
+ ## Máxima
+ - [https://revistamaxima.com.br](https://revistamaxima.com.br)
+ - date_published: 2024-07-11T17:33:27+00:00
+
+ ## Portal Richmond
+ - [https://richmond.com.br](https://richmond.com.br)
+ - date_published: 2024-06-12T13:02:44.833617+00:00
+
  ## RichmondShare Blog | High quality content and interaction in the ELT world
  - [http://www.richmondshare.com.br](http://www.richmondshare.com.br)
  - date_published: 2024-09-12T22:40:33.383989+00:00
@@ -537,6 +621,10 @@
  ## Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy
  - [https://motorsport.uol.com.br](https://motorsport.uol.com.br)
  - date_published: 2024-07-17T04:53:54.763472+00:00
+
+ ## Home
+ - [https://observatoriodocinema.uol.com.br](https://observatoriodocinema.uol.com.br)
+ - date_published: 2024-10-25T19:50:48+00:00
 
  ## revista piauí | _pra quem tem um clique a mais
  - [https://piaui.folha.uol.com.br](https://piaui.folha.uol.com.br)
@@ -3927,92 +4015,4 @@
  ## Biggle Canadian Souvenirs
  - [http://biggle.ca](http://biggle.ca)
  - date_published: 2024-03-25T00:00:00+00:00
-
- ## Bikes in Canada, Canada
- - [http://www.bikes.ca](http://www.bikes.ca)
- - date_published: 2024-06-29T17:35:34.387521+00:00
-
- ## billie | Tendances mode, tutoriels beauté & potins crunchy
- - [https://www.billie.ca](https://www.billie.ca)
- - date_published: 2024-08-19T08:11:12.010790+00:00
-
- ## Canadian Journal of Arthropod Identification – A product of the biological Survey of Canada & the Entomological Society of Canada
- - [http://cjai.biologicalsurvey.ca](http://cjai.biologicalsurvey.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home | Banff International Research Station
- - [http://www.birs.ca](http://www.birs.ca)
- - date_published: 2024-06-30T08:55:45.390148+00:00
-
- ## Buy Bitcoin Canada - Best Cryptocurrency Exchange | Bitbuy®
- - [https://bitbuy.ca](https://bitbuy.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## WonderFi Status
- - [https://status.bitbuy.ca](https://status.bitbuy.ca)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Bitbuy Support
- - [https://support.bitbuy.ca](https://support.bitbuy.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Umami
- - [https://stats.bitrot.ca](https://stats.bitrot.ca)
- - date_published: 2024-05-29T07:17:55.275837+00:00
-
- ## BizPaL - PerLE
- - [https://bizpalmanitoba.ca](https://bizpalmanitoba.ca)
- - date_published: 2024-01-23T17:00:40+00:00
-
- ## Black Boys Code Canada - Empowering Black Boys with Coding Skills in Canada
- - [https://blackboyscode.ca](https://blackboyscode.ca)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Blackjet. A Brand and Business Consultancy.
- - [http://www.blackjet.ca](http://www.blackjet.ca)
- - date_published: 2024-10-14T17:18:42.928388+00:00
-
- ## Black Peak - Expert Webflow Websites
- - [https://blackpeak.ca](https://blackpeak.ca)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Login
- - [https://iservices.blackpress.ca](https://iservices.blackpress.ca)
- - date_published: 2024-06-26T22:36:03.564335+00:00
-
- ## Home - Black Press Media
- - [https://www.blackpress.ca](https://www.blackpress.ca)
- - date_published: 2016-03-09T20:57:53+00:00
-
- ## Home - Black Press Media
- - [https://www.blackpressmedia.ca](https://www.blackpressmedia.ca)
- - date_published: 2016-03-09T20:57:53+00:00
-
- ## Canadian Black Scientists | Together we can change the face of science in Canada
- - [https://blackscientists.ca](https://blackscientists.ca)
- - date_published: 2024-08-09T03:54:23.009342+00:00
-
- ## Blank Space Digital - Toronto, ON
- - [https://blankspace.ca](https://blankspace.ca)
- - date_published: 2024-10-21T19:28:43.723341+00:00
-
- ## BlockchainEvents.ca – Blockchain & Tech Community in Toronto, Canada and the World!
- - [https://blockchainevents.ca](https://blockchainevents.ca)
- - date_published: 2024-06-16T04:17:17.332703+00:00
-
- ## Blockchain North
- - [https://blockchainnorth.ca](https://blockchainnorth.ca)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## Angry Sub-Editor
- - [https://angrysubeditor.blogspot.ca](https://angrysubeditor.blogspot.ca)
- - date_published: 2024-04-29T03:18:46.130191+00:00
-
- ## Bannalia: trivial notes on themes diverse
- - [http://bannalia.blogspot.ca](http://bannalia.blogspot.ca)
- - date_published: 2024-07-06T15:29:53+00:00
-
- ## That grumpy BSD guy
- - [http://bsdly.blogspot.ca](http://bsdly.blogspot.ca)
- - date_published: 2024-08-16T01:07:17+00:00
 

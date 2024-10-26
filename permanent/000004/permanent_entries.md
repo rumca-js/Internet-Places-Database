@@ -1,3 +1,19 @@
+ ## AI-powered Content Workflows for Teams | DC I/O
+ - [https://dcio.app](https://dcio.app)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## DecisionMentor – Let us be your decision making compass.
+ - [https://decisionmentor.app](https://decisionmentor.app)
+ - date_published: 2024-06-19T20:39:15.865331+00:00
+
+ ## Defly Wallet - Algorand Wallet enhanced!
+ - [https://defly.app](https://defly.app)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## deploybot
+ - [https://deploybot.app](https://deploybot.app)
+ - date_published: 2024-05-06T09:18:30.757531+00:00
+
  ## Authorization | Deta Space
  - [https://next_meetups-1-x7325434.deta.app](https://next_meetups-1-x7325434.deta.app)
  - date_published: 2024-09-19T16:22:26+00:00
@@ -3939,6 +3955,10 @@
  - [https://pastefy.app](https://pastefy.app)
  - date_published: 2024-06-19T22:11:11.043087+00:00
 
+ ## iPad用お絵描きアプリ「Pastela（パステラ）」
+ - [https://pastela.app](https://pastela.app)
+ - date_published: 2024-10-25T12:37:40.333593+00:00
+
  ## Patterns Data Systems
  - [https://patterns.app](https://patterns.app)
  - date_published: 2023-10-25T11:48:16.898136+00:00
@@ -4010,25 +4030,4 @@
  ## Petra
  - [https://petra.app](https://petra.app)
  - date_published: 2024-09-25T10:29:40.624159+00:00
-
- ## Phantom — Crypto & NFT Wallet — Solana | Ethereum | Polygon
- - [https://phantom.app](https://phantom.app)
- - date_published: 2024-07-24T02:33:39.189986+00:00
-
- ## Plausible · Web analytics
- - [https://a.photoprism.app](https://a.photoprism.app)
- - date_published: 2024-05-12T04:58:34.205404+00:00
-
- ## PhotoPrism+: Demo
- - [https://demo.photoprism.app](https://demo.photoprism.app)
- - date_published: 2024-06-19T22:10:46.696536+00:00
-
- ## PhotoPrism
- - [https://docs-de.photoprism.app](https://docs-de.photoprism.app)
- - date_published: 2024-07-26T14:06:24+00:00
-
- ## PhotoPrism - Features
- - [https://docs.photoprism.app](https://docs.photoprism.app)
- - date_published: 2024-04-20T15:04:18.703361+00:00
- - tags: ['image library', 'self-host']
 

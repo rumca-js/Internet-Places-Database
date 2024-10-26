@@ -1,3 +1,19 @@
+ ## Synapse - The AI Symposium
+ - [https://synapsesymposium.ai](https://synapsesymposium.ai)
+ - date_published: 2024-06-17T11:42:23.666414+00:00
+
+ ## https://synesthesia.ai
+ - [https://synesthesia.ai](https://synesthesia.ai)
+ - date_published: 2024-01-09T02:23:20.593035+00:00
+
+ ## 深信科创
+ - [https://www.synkrotron.ai](https://www.synkrotron.ai)
+ - date_published: 2024-02-18T09:01:00+00:00
+
+ ## Sizzle - Free AI tutor for everyone
+ - [https://web.szl.ai](https://web.szl.ai)
+ - date_published: 2024-09-02T10:07:14.635775+00:00
+
  ## Tabby Checkout
  - [https://checkout.tabby.ai](https://checkout.tabby.ai)
  - date_published: 2024-09-17T08:21:54+00:00
@@ -4007,20 +4023,4 @@ Creative Solutions
  ## DB-Views - Low-Code Cloud Database Frontend
  - [https://web.db-views.app](https://web.db-views.app)
  - date_published: 2023-07-23T00:00:00+00:00
-
- ## AI-powered Content Workflows for Teams | DC I/O
- - [https://dcio.app](https://dcio.app)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## DecisionMentor – Let us be your decision making compass.
- - [https://decisionmentor.app](https://decisionmentor.app)
- - date_published: 2024-06-19T20:39:15.865331+00:00
-
- ## Defly Wallet - Algorand Wallet enhanced!
- - [https://defly.app](https://defly.app)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## deploybot
- - [https://deploybot.app](https://deploybot.app)
- - date_published: 2024-05-06T09:18:30.757531+00:00
 

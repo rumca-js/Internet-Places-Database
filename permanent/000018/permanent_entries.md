@@ -1,3 +1,103 @@
+ ## St. Clement's Anglican Church
+ - [https://www.stclementschurch.ca](https://www.stclementschurch.ca)
+ - date_published: 2024-08-18T09:51:05.208905+00:00
+
+ ## Home • Douglas Stebila
+ - [https://www.douglas.stebila.ca](https://www.douglas.stebila.ca)
+ - date_published: 2024-06-16T15:53:59+00:00
+
+ ## Stephanie Hobson
+ - [https://stephaniehobson.ca](https://stephaniehobson.ca)
+ - date_published: 2023-02-16T06:08:28+00:00
+
+ ## Steve Munro
+ - [https://stevemunro.ca](https://stevemunro.ca)
+ - date_published: 2024-06-26T13:00:52.779885+00:00
+
+ ## Stewart Grant's Personal Page
+ - [https://www.stewartgrant.ca](https://www.stewartgrant.ca)
+ - date_published: 2024-05-08T22:51:00+00:00
+
+ ## Stingers.ca | Official Website of the Concordia Stingers
+ - [https://stingers.ca](https://stingers.ca)
+ - date_published: 2024-08-19T12:41:15.642827+00:00
+
+ ## This is the default server vhost
+ - [http://www.stonework.ca](http://www.stonework.ca)
+ - date_published: 2024-06-24T11:23:01+00:00
+
+ ## Best Canadian Self Storage Facilities | Compare & Reserve Storage Units on Storage.ca
+ - [http://www.storage.ca](http://www.storage.ca)
+ - date_published: 2024-06-29T17:27:55.342160+00:00
+
+ ## Storybooks Canada
+ - [https://www.storybookscanada.ca](https://www.storybookscanada.ca)
+ - date_published: 2024-06-26T16:25:40+00:00
+
+ ## StraightGoods.ca
+ - [http://straightgoods.ca](http://straightgoods.ca)
+ - date_published: 2015-07-04T01:32:16+00:00
+
+ ## Blueprint Beacon - Find Electrical Professionals in Texas
+ - [http://strange-aeons.ca](http://strange-aeons.ca)
+ - date_published: 2023-12-01T11:21:11+00:00
+
+ ## Buy sports, concert and theater tickets on StubHub!
+ - [https://www.stubhub.ca](https://www.stubhub.ca)
+ - date_published: 2024-07-12T13:10:22.732850+00:00
+
+ ## Home - Student Association of George Brown College
+ - [https://www.studentassociation.ca](https://www.studentassociation.ca)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Christopher Stumm
+ - [http://stumm.ca](http://stumm.ca)
+ - date_published: 2014-05-19T03:14:05+00:00
+
+ ## Subaru Canada
+ - [https://subaru.ca](https://subaru.ca)
+ - date_published: 2024-06-27T13:06:38.110186+00:00
+
+ ## Home | Subhadip Mukherjee
+ - [https://subhadip.ca](https://subhadip.ca)
+ - date_published: 2023-10-25T12:07:28.405618+00:00
+
+ ## District of Summerland
+ - [https://www.summerland.ca](https://www.summerland.ca)
+ - date_published: 2024-08-18T12:19:46.719854+00:00
+
+ ## Home
+ - [https://www.sunlife.ca](https://www.sunlife.ca)
+ - date_published: 2024-09-06T21:15:50.557464+00:00
+
+ ## Welcome to Synteq! | Synteq
+ - [https://sunnysideinc.ca](https://sunnysideinc.ca)
+ - date_published: 2024-09-24T15:43:27+00:00
+
+ ## Top 5 Top 5 Toronto Sunrooms Contractors for 2020 | Sunrooms.ca Plumbers and Plumbing Contractors for 2020 | Sunrooms.ca
+ - [http://www.sunrooms.ca](http://www.sunrooms.ca)
+ - date_published: 2024-06-29T17:27:43.013013+00:00
+
+ ## Sunset City Canada - Psychedelics & Magic Mushrooms
+ - [https://www.sunsetcity.ca](https://www.sunsetcity.ca)
+ - date_published: 2020-03-19T22:16:08+00:00
+
+ ## Sunwing Vacations - Book Your Next Vacation Today
+ - [https://www.sunwing.ca](https://www.sunwing.ca)
+ - date_published: 2024-09-26T10:14:44.252062+00:00
+
+ ## Superprof - The Tutoring Community
+ - [https://superprof.ca](https://superprof.ca)
+ - date_published: 2024-06-15T01:27:38.619438+00:00
+
+ ## Supply Professional
+ - [https://www.supplypro.ca](https://www.supplypro.ca)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Get Involved. Be Part of the Movement.
+ - [http://www.supportcamh.ca](http://www.supportcamh.ca)
+ - date_published: 2024-07-12T07:38:45.853507+00:00
+
  ## Support Locc |
  - [http://supportmichaelocc.ca](http://supportmichaelocc.ca)
  - date_published: 2024-07-13T09:57:47.657499+00:00
@@ -3918,104 +4018,4 @@
  ## Yelp
  - [https://yelp.ca](https://yelp.ca)
  - date_published: 2024-07-20T21:56:59.176223+00:00
-
- ## YETI Canada: Drinkware, Coolers, Bags and More
- - [https://www.yeti.ca](https://www.yeti.ca)
- - date_published: 2024-09-17T23:36:55.258478+00:00
-
- ## Yogastudios in Canada, Canada
- - [http://www.yogastudios.ca](http://www.yogastudios.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## BOOZHOO, SHE:KON, TANSI, TUNNGASUGIT, WACHAY, GREETINGS | Centre for Indigenous Student Services
- - [https://aboriginal.info.yorku.ca](https://aboriginal.info.yorku.ca)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Student Accessibility Services | Division of Students | York University
- - [https://accessibility.students.yorku.ca](https://accessibility.students.yorku.ca)
- - date_published: 2024-04-30T05:32:31.061365+00:00
-
- ## ACMAPS
- - [https://acmaps.info.yorku.ca](https://acmaps.info.yorku.ca)
- - date_published: 2024-07-21T07:20:17+00:00
-
- ## Advanced Disaster, Emergency and Rapid Response Simulation (ADERSIM)
- - [https://adersim.info.yorku.ca](https://adersim.info.yorku.ca)
- - date_published: 2024-05-09T05:23:02.624437+00:00
-
- ## Student Advising at York | Division of Students | York University
- - [https://advising.students.yorku.ca](https://advising.students.yorku.ca)
- - date_published: 2024-07-21T07:57:09.049490+00:00
-
- ## Welcome to the Alternate Exam/Test Scheduling Website | Alternate Exam/Test Scheduling | York University
- - [https://altexams.students.yorku.ca](https://altexams.students.yorku.ca)
- - date_published: 2024-07-21T07:57:13.910511+00:00
-
- ## Passport York Login
- - [https://apps5.sis.yorku.ca](https://apps5.sis.yorku.ca)
- - date_published: 2024-07-21T07:57:36.783442+00:00
-
- ## Passport York Login
- - [https://apps7.sis.yorku.ca](https://apps7.sis.yorku.ca)
- - date_published: 2024-07-21T07:57:30.153220+00:00
-
- ## IIS Windows Server
- - [https://as.students.yorku.ca](https://as.students.yorku.ca)
- - date_published: 2020-12-07T16:39:18+00:00
-
- ## atlas
- - [https://atlas.cafe.uit.yorku.ca](https://atlas.cafe.uit.yorku.ca)
- - date_published: 2018-11-14T19:13:13+00:00
-
- ## York Atlas - Phone and E-mail Directory
- - [https://atlas.yorku.ca](https://atlas.yorku.ca)
- - date_published: 2024-04-30T05:32:21.381565+00:00
-
- ## Topology Atlas
- - [http://at.yorku.ca](http://at.yorku.ca)
- - date_published: 2020-12-23T20:50:16+00:00
-
- ## Home | Becoming YU | York University
- - [https://becomingyu.yorku.ca](https://becomingyu.yorku.ca)
- - date_published: 2024-07-21T07:57:53.361490+00:00
-
- ## blockchain.lab
- - [https://blockchain.lab.yorku.ca](https://blockchain.lab.yorku.ca)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## WordPress at York |
- - [https://blog.yorku.ca](https://blog.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## 2024-2025 Academic Calendar | Academic Calendars | York University
- - [https://calendars.students.yorku.ca](https://calendars.students.yorku.ca)
- - date_published: 2024-07-21T08:03:28.530189+00:00
-
- ## Calumet College
- - [http://calumet.yorku.ca](http://calumet.yorku.ca)
- - date_published: 2024-07-21T08:04:47.828687+00:00
-
- ## Career Centre | We help connect York University students and new graduates with career opportunities!
- - [https://careers.yorku.ca](https://careers.yorku.ca)
- - date_published: 2024-05-09T06:47:47.200130+00:00
-
- ## Welcome - Department of Chemistry
- - [http://chemistry.info.yorku.ca](http://chemistry.info.yorku.ca)
- - date_published: 2024-10-19T04:50:12.728346+00:00
-
- ## University Information Technology (UIT) | Something goes here....
- - [http://computing.yorku.ca](http://computing.yorku.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Homepage
- - [https://continue.yorku.ca](https://continue.yorku.ca)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Student Counselling, Health & Well-being | Division of Students | York University
- - [https://counselling.students.yorku.ca](https://counselling.students.yorku.ca)
- - date_published: 2024-07-09T21:37:03.374255+00:00
-
- ## Passport York Login
- - [https://coursestatus.yorku.ca](https://coursestatus.yorku.ca)
- - date_published: 2024-07-09T21:37:05.659224+00:00
 

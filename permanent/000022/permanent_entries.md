@@ -1,3 +1,132 @@
+ ## Home - Radio Swiss Jazz
+ - [https://www.radioswissjazz.ch](https://www.radioswissjazz.ch)
+ - date_published: 2024-07-22T18:10:42.009796+00:00
+
+ ## Home - Radio Swiss Pop
+ - [https://www.radioswisspop.ch](https://www.radioswisspop.ch)
+ - date_published: 2024-07-22T18:10:56.086302+00:00
+
+ ## MemberPlus | Raiffeisen
+ - [https://memberplus.raiffeisen.ch](https://memberplus.raiffeisen.ch)
+ - date_published: 2024-07-17T11:16:19.418214+00:00
+
+ ## The SBB online portal for timetable, trains and public transport
+ - [http://www.rail.ch](http://www.rail.ch)
+ - date_published: 2024-07-17T08:58:38+00:00
+
+ ## Ralph Lauren® CH | Sommer-Sale mit bis zu 50% Rabatt
+ - [https://www.ralphlauren.ch](https://www.ralphlauren.ch)
+ - date_published: 2024-06-19T23:58:28.769569+00:00
+
+ ## Welcome
+ - [http://www.randelshofer.ch](http://www.randelshofer.ch)
+ - date_published: 2024-06-15T21:30:38+00:00
+
+ ## RAYDEN - Home of the NetGame Convention  LAN-Party LAN-Parties LAN Party House Comix Switzerland Hardware Software Clan Quake3 Quake Age of Empires 2 Games Multiplayer
+ - [http://www.rayden.ch](http://www.rayden.ch)
+ - date_published: 2023-08-11T19:24:00+00:00
+
+ ## SECURIX - IAM, Observability, Experts on Demand
+ - [https://realstuff.ch](https://realstuff.ch)
+ - date_published: 2021-06-08T10:34:18+00:00
+
+ ## Reatch - Research. Think. Change.
+ - [https://www.reatch.ch](https://www.reatch.ch)
+ - date_published: 2024-07-16T22:08:29.426880+00:00
+
+ ## Internationales Rotkreuz- und Rothalbmondmuseum
+ - [https://redcrossmuseum.ch](https://redcrossmuseum.ch)
+ - date_published: 2024-09-19T01:36:54.177908+00:00
+
+ ## Kubernetes Threat Matrix
+ - [https://kubernetes-threat-matrix.redguard.ch](https://kubernetes-threat-matrix.redguard.ch)
+ - date_published: 2022-11-04T10:51:23+00:00
+
+ ## REDS blog – REDS Institute, HEIG-VD
+ - [https://blog.reds.ch](https://blog.reds.ch)
+ - date_published: 2023-10-25T12:14:18.446449+00:00
+
+ ## Recherche appliquée et développement - REDS - Institut de la HEIG-VD
+ - [https://reds.ch](https://reds.ch)
+ - date_published: 2024-04-30T06:11:35.331620+00:00
+
+ ## Refline E-Recruiting
+ - [https://apply.refline.ch](https://apply.refline.ch)
+ - date_published: 2024-07-21T06:06:34.533440+00:00
+
+ ## Swiss Refugee Council
+ - [https://www.refugeecouncil.ch](https://www.refugeecouncil.ch)
+ - date_published: 2024-09-11T01:31:46.540934+00:00
+
+ ## RELEC – Software & Hardware Amiga
+ - [https://relec.ch](https://relec.ch)
+ - date_published: 2024-05-08T12:13:24.992180+00:00
+ - tags: ['shop', 'amiga']
+
+ ## REM Real Estate Meeting | Nos événements immobiliers
+ - [https://www.rem-events.ch](https://www.rem-events.ch)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Renuo AG – Web based software development in Zurich
+ - [https://renuo.ch](https://renuo.ch)
+ - date_published: 2024-06-22T23:19:28.489781+00:00
+
+ ## Rooms @ EPFL
+ - [https://repfl.ch](https://repfl.ch)
+ - date_published: 2019-12-19T10:57:00+00:00
+
+ ## digital library RERO DOC - RERO DOC
+ - [http://doc.rero.ch](http://doc.rero.ch)
+ - date_published: 2024-06-22T08:06:21.203112+00:00
+
+ ## RERO ILS: Global catalog
+ - [https://ils.test.rero.ch](https://ils.test.rero.ch)
+ - date_published: 2024-06-19T22:26:20.625481+00:00
+
+ ## Blog RERO 21
+ - [https://rero21.ch](https://rero21.ch)
+ - date_published: 2024-06-19T22:12:28.371606+00:00
+
+ ## Bienvenue | réseau d' écoles21
+ - [https://www.reseau-ecoles21.ch](https://www.reseau-ecoles21.ch)
+ - date_published: 2024-08-19T22:38:11.470963+00:00
+
+ ## Retraites Populaires - Emploi | Nos offres
+ - [https://carriere.retraitespopulaires.ch](https://carriere.retraitespopulaires.ch)
+ - date_published: 2024-09-15T00:03:23.557189+00:00
+
+ ## Guide Prévoyance Professionnelle - Retraites Populaires
+ - [https://solution.retraitespopulaires.ch](https://solution.retraitespopulaires.ch)
+ - date_published: 2024-09-15T00:03:25.373119+00:00
+
+ ## Clientèle privée
+ - [https://retraitespopulaires.ch](https://retraitespopulaires.ch)
+ - date_published: 2024-06-14T15:28:26.598709+00:00
+
+ ## Revival Health
+ - [https://www.revivalhealth.ch](https://www.revivalhealth.ch)
+ - date_published: 2024-06-22T07:05:26.597129+00:00
+
+ ## Administration Kino Rex Bern
+ - [https://backbone.rexbern.ch](https://backbone.rexbern.ch)
+ - date_published: 2024-07-21T06:27:25.197901+00:00
+
+ ## Kino Rex Bern
+ - [https://rexbern.ch](https://rexbern.ch)
+ - date_published: 2024-04-30T06:00:00.114742+00:00
+
+ ## Rhesus Engineering GmbH
+ - [https://rhesus.ch](https://rhesus.ch)
+ - date_published: 2024-04-30T06:05:20.947465+00:00
+
+ ## Accueil
+ - [http://www.rhonefm.ch](http://www.rhonefm.ch)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## RiC-Communications
+ - [https://www.ric-communications.ch](https://www.ric-communications.ch)
+ - date_published: 2024-09-16T21:12:31.070600+00:00
+
  ## Programm | Kinos Riffraff/Houdini Zürich
  - [https://www.riffraff-houdini.ch](https://www.riffraff-houdini.ch)
  - date_published: 2024-10-17T22:13:55.766640+00:00
@@ -3893,132 +4022,4 @@ Fakultät | Universität Basel
  ## Derco CL
  - [https://www.derco.cl](https://www.derco.cl)
  - date_published: 2024-07-21T04:21:05.249001+00:00
-
- ## |
- - [https://dfmas.df.cl](https://dfmas.df.cl)
- - date_published: 2024-07-03T11:56:14.958338+00:00
-
- ## Noticias de negocios, financieras y económicas de Chile y el mundo | Diario Financiero
- - [https://www.df.cl](https://www.df.cl)
- - date_published: 2024-09-10T12:31:38.325117+00:00
-
- ## El Diario de Antofagasta - Noticias de Verdad - DiarioAntofagasta.cl
- - [https://www.diarioantofagasta.cl](https://www.diarioantofagasta.cl)
- - date_published: 2024-10-20T21:42:12.498869+00:00
-
- ## Diario El Centro
- - [https://www.diarioelcentro.cl](https://www.diarioelcentro.cl)
- - date_published: 2024-10-20T21:41:12.174528+00:00
-
- ## Diario El Día | Últimas Noticias en la Región de Coquimbo y Chile
- - [http://www.diarioeldia.cl](http://www.diarioeldia.cl)
- - date_published: 2024-10-20T21:40:30.127756+00:00
-
- ## Inicio - DIE | Departamento de Ingeniería Eléctrica
- - [https://www.die.cl](https://www.die.cl)
- - date_published: 2023-04-10T16:18:31+00:00
-
- ## DNV.cl - When trust matters - DNV
- - [https://www.dnv.cl](https://www.dnv.cl)
- - date_published: 2024-09-04T15:26:21.388779+00:00
-
- ## Portada - Dodge Chile
- - [https://dodge.cl](https://dodge.cl)
- - date_published: 2023-08-08T00:00:00+00:00
-
- ## Resumen del estado
- - [https://downdetector.cl](https://downdetector.cl)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Home - Escuela de Administración
- - [http://www.eauc.cl](http://www.eauc.cl)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Educación Técnico Profesional
- - [https://educaciontecnica.cl](https://educaciontecnica.cl)
- - date_published: 2022-12-19T14:22:04+00:00
-
- ## Elecnor Chile | Elecnor Chile
- - [https://www.elecnor.cl](https://www.elecnor.cl)
- - date_published: 2024-10-14T21:20:10.579175+00:00
-
- ## El Líbero
- - [http://ellibero.cl](http://ellibero.cl)
- - date_published: 2024-07-03T22:18:34+00:00
-
- ## Diseñador y Desarrollador Web Front-End y Traductor en Villarrica
- - [https://www.elmikewalsh.cl](https://www.elmikewalsh.cl)
- - date_published: 2024-06-21T21:57:18+00:00
-
- ## Emagister: Cursos, Carreras y Postgrados presenciales y online
- - [https://www.emagister.cl](https://www.emagister.cl)
- - date_published: 2024-09-11T16:04:11.667394+00:00
-
- ## Trabaja en el Estado | Servicio Civil
- - [https://www.empleospublicos.cl](https://www.empleospublicos.cl)
- - date_published: 2024-09-12T21:00:03.478921+00:00
-
- ## Enlace Santillana.
- - [http://enlacesantillana.cl](http://enlacesantillana.cl)
- - date_published: 2020-09-14T23:51:02+00:00
-
- ## Todas las películas y las series de Netflix - EnNetflix.cl
- - [https://www.ennetflix.cl](https://www.ennetflix.cl)
- - date_published: 2024-09-02T11:18:07.245259+00:00
-
- ## Increase Conversions & Site Growth - eNotify
- - [https://enotify.cl](https://enotify.cl)
- - date_published: 2024-06-15T17:07:25.271933+00:00
-
- ## EntrepreNerd
- - [https://www.entreprenerd.cl](https://www.entreprenerd.cl)
- - date_published: 2024-10-20T21:41:34.723366+00:00
-
- ## Personas | Equifax
- - [https://soluciones.equifax.cl](https://soluciones.equifax.cl)
- - date_published: 2024-08-05T22:02:25.553398+00:00
-
- ## ESPN Chile - Lo Último del Mundo Deportivo
- - [https://www.espn.cl](https://www.espn.cl)
- - date_published: 2024-05-02T09:42:19.116661+00:00
-
- ## Fundación Espondilitis Chile
- - [http://espondilitis.cl](http://espondilitis.cl)
- - date_published: 2024-06-28T12:03:54.635940+00:00
-
- ## Eventbrite
- - [https://eventbrite.cl](https://eventbrite.cl)
- - date_published: 2024-05-12T05:55:38.229985+00:00
-
- ## Experian Chile | Datos de Negocio, análisis y Servicios de Marketing
- - [https://www.experian.cl](https://www.experian.cl)
- - date_published: 2024-06-25T21:32:14.763537+00:00
-
- ## Expo Agua Santiago – EXPO AGUA SANTIAGO es organizado por Interexpo, el Fondo de Agua Santiago-Maipo, y la Corporación Regional RM, y es un espacio de diálogo y exhibición de iniciativas, soluciones y tecnologías del AGUA. Será el principal encuentro de conversación hacia los objetivos de seguridad hídrica en la Región Metropolitana de Chile.
- - [https://www.expoaguasantiago.cl](https://www.expoaguasantiago.cl)
- - date_published: 2024-10-15T04:18:41.243063+00:00
-
- ## Factorial - El Software de Recursos Humanos todo en uno
- - [https://factorialhr.cl](https://factorialhr.cl)
- - date_published: 2024-08-10T23:21:54.011460+00:00
-
- ## Fauna Primavera – Festival Musical
- - [https://faunaprimaverafest.cl](https://faunaprimaverafest.cl)
- - date_published: 2024-09-13T11:01:11.771610+00:00
-
- ## Inicio - Fiat Chile
- - [https://www.fiat.cl](https://www.fiat.cl)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Scotiabank Chile - Inversiones
- - [http://scotiabankchile.finmarketslive.cl](http://scotiabankchile.finmarketslive.cl)
- - date_published: 2024-09-28T21:33:03.436885+00:00
-
- ## Encuentra pasajes en bus y viaja por Chile I FlixBus
- - [https://www.flixbus.cl](https://www.flixbus.cl)
- - date_published: 2024-06-28T10:10:37+00:00
-
- ## Escucha FM Dos online, la radio de los dos
- - [https://envivo.fmdos.cl](https://envivo.fmdos.cl)
- - date_published: 2024-09-13T10:35:36.605589+00:00
 

@@ -1,3 +1,15 @@
+ ## Lumeros AI
+ - [https://www.lumeros.ai](https://www.lumeros.ai)
+ - date_published: 2024-07-12T16:28:28.793600+00:00
+
+ ## Lumino | Global Cloud for AI Training
+ - [https://www.luminolabs.ai](https://www.luminolabs.ai)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Lumona
+ - [https://lumona.ai](https://lumona.ai)
+ - date_published: 2024-03-29T20:12:06.449920+00:00
+
  ## LunarTech - Empowering Tomorrow's Innovators
  - [https://academy.lunartech.ai](https://academy.lunartech.ai)
  - date_published: 2024-05-23T00:00:00+00:00
@@ -3421,6 +3433,10 @@
  - [https://smg.ai](https://smg.ai)
  - date_published: 2024-05-04T09:48:34.680838+00:00
 
+ ## Home | Smilegate.AI
+ - [https://smilegate.ai](https://smilegate.ai)
+ - date_published: 2024-10-25T06:42:34+00:00
+
  ## smol.ai
  - [https://smol.ai](https://smol.ai)
  - date_published: 2024-05-06T14:05:19.835873+00:00
@@ -4004,20 +4020,4 @@
  ## Symmetrical.ai. Lepszy sposób na prowadzenie listy płac i HR.
  - [https://symmetrical.ai](https://symmetrical.ai)
  - date_published: 2024-09-24T00:00:00+00:00
-
- ## Synapse - The AI Symposium
- - [https://synapsesymposium.ai](https://synapsesymposium.ai)
- - date_published: 2024-06-17T11:42:23.666414+00:00
-
- ## https://synesthesia.ai
- - [https://synesthesia.ai](https://synesthesia.ai)
- - date_published: 2024-01-09T02:23:20.593035+00:00
-
- ## 深信科创
- - [https://www.synkrotron.ai](https://www.synkrotron.ai)
- - date_published: 2024-02-18T09:01:00+00:00
-
- ## Sizzle - Free AI tutor for everyone
- - [https://web.szl.ai](https://web.szl.ai)
- - date_published: 2024-09-02T10:07:14.635775+00:00
 

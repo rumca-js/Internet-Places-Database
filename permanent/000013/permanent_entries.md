@@ -1,3 +1,71 @@
+ ## Microsoft Teams User Group Berlin
+ - [https://teamsusergroup.berlin](https://teamsusergroup.berlin)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## toot.BERLIN
+ - [https://toot.berlin](https://toot.berlin)
+ - date_published: 2024-06-16T16:08:15.162795+00:00
+
+ ## Technische Universität Berlin
+ - [https://tu.berlin](https://tu.berlin)
+ - date_published: 2024-04-29T06:56:04.938790+00:00
+
+ ## Typostammtisch Berlin
+ - [https://typostammtisch.berlin](https://typostammtisch.berlin)
+ - date_published: 2024-07-13T23:52:14.168541+00:00
+
+ ## Volksbühne am Rosa-Luxemburg-Platz
+ - [https://volksbuehne.berlin](https://volksbuehne.berlin)
+ - date_published: 2024-05-11T07:40:59.295364+00:00
+
+ ## Upcoming Event | Vuejs//Berlin
+ - [https://vuejs.berlin](https://vuejs.berlin)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Web3 Native Co-Working, Private Offices & Event Space at w3.hub
+ - [https://w3hub.berlin](https://w3hub.berlin)
+ - date_published: 2024-09-24T00:00:00+00:00
+
+ ## Meilleur Casino en Ligne - Découvrez les Top Sites de Jeux d'Argent
+ - [https://casinoenlignefrance.best](https://casinoenlignefrance.best)
+ - date_published: 2024-06-21T21:03:35.322883+00:00
+
+ ## Nеjlеpší сеskе оnlinе саsinа - Zábаvа s Čеskými Нráči 2024
+ - [https://ceskecasino.best](https://ceskecasino.best)
+ - date_published: 2024-06-21T20:56:32.154715+00:00
+
+ ## emma best
+ - [https://emma.best](https://emma.best)
+ - date_published: 2024-07-05T06:30:30+00:00
+
+ ## Final Fantasy VIII is the Best
+ - [https://ff8isthe.best](https://ff8isthe.best)
+ - date_published: 2024-08-19T06:48:43.755966+00:00
+
+ ## History Reviewed
+ - [https://historyreviewed.best](https://historyreviewed.best)
+ - date_published: 2024-09-16T19:45:05.902529+00:00
+
+ ## Free Online OCR Converter – Convert Image & PDF to Text
+ - [https://www.ocr.best](https://www.ocr.best)
+ - date_published: 2024-06-19T20:37:51.886281+00:00
+
+ ## Show HN: I made a free app to calibrate your turntable by simply playing a song
+ - [https://grooved.okat.best](https://grooved.okat.best)
+ - date_published: 2024-05-28T14:23:28+00:00
+
+ ## OKatBest
+ - [https://okat.best](https://okat.best)
+ - date_published: 2024-06-06T04:00:21+00:00
+
+ ## Sekai Viewer
+ - [https://sekai.best](https://sekai.best)
+ - date_published: 2024-10-14T14:49:14+00:00
+
+ ## Play Free Online Sudoku | Sudoku.Best
+ - [https://sudoku.best](https://sudoku.best)
+ - date_published: 2024-08-19T18:14:29.295635+00:00
+
  ## A launch platform for your products
  - [https://uneed.best](https://uneed.best)
  - date_published: 2024-02-28T00:00:00+00:00
@@ -858,6 +926,10 @@
  - [https://vagabond.bg](https://vagabond.bg)
  - date_published: 2024-06-21T11:56:07+00:00
 
+ ## Видео споделяне - Videoclip.bg
+ - [http://www.videoclip.bg](http://www.videoclip.bg)
+ - date_published: 2024-10-25T07:21:45.796863+00:00
+
  ## Време & Радар България
  - [https://vremeiradar.bg](https://vremeiradar.bg)
  - date_published: 2024-05-07T13:25:33.910218+00:00
@@ -1358,6 +1430,10 @@
  ## Bivio Software
  - [http://www.bivio.biz](http://www.bivio.biz)
  - date_published: 2024-09-03T23:51:10.878052+00:00
+
+ ## 【企業向け】 | 中途採用| 採用ご担当者様
+ - [https://bizreach.biz](https://bizreach.biz)
+ - date_published: 2024-10-25T23:28:06.160154+00:00
 
  ## BlockchainGamerBiz - Where blockchain meets the games industry
  - [https://www.blockchaingamer.biz](https://www.blockchaingamer.biz)
@@ -2185,6 +2261,10 @@
  - [https://alexjgustafson.blog](https://alexjgustafson.blog)
  - date_published: 2023-12-30T22:22:44.019431+00:00
  - tags: ['personal']
+
+ ## Blog . Ahmad Alfy
+ - [https://alfy.blog](https://alfy.blog)
+ - date_published: 2024-10-19T17:06:32+00:00
 
  ## alistair smith • blog
  - [https://alistair.blog](https://alistair.blog)
@@ -3991,87 +4071,4 @@
  ## Sawyer Stories - Tales of Oar locks, Eddies, and The Feel Of Water
  - [https://sawyerstories.blog](https://sawyerstories.blog)
  - date_published: 2024-09-15T00:00:00+00:00
-
- ## Schneide Blog
- - [https://schneide.blog](https://schneide.blog)
- - date_published: 2024-07-09T12:15:44.546172+00:00
-
- ## Shtetl-Optimized
- - [https://scottaaronson.blog](https://scottaaronson.blog)
- - date_published: 2023-10-25T12:01:16.273400+00:00
-
- ## Semantically Secure
- - [https://scottarc.blog](https://scottarc.blog)
- - date_published: 2024-04-13T07:41:59.654361+00:00
- - tags: ['personal']
-
- ## Scott Lamb – Medium
- - [https://scottlamb.blog](https://scottlamb.blog)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Screwed Up Dice
- - [https://www.screwedupdice.blog](https://www.screwedupdice.blog)
- - date_published: 2024-03-19T18:15:33+00:00
-
- ## Seth's Blog
- - [https://seths.blog](https://seths.blog)
- - date_published: 2023-10-25T09:01:55.034633+00:00
- - tags: ['personal']
-
- ## SHERPA Blog
- - [https://sherpa.blog](https://sherpa.blog)
- - date_published: 2024-07-04T12:49:53.379132+00:00
-
- ## She Seeks Nonfiction
- - [http://sheseeksnonfiction.blog](http://sheseeksnonfiction.blog)
- - date_published: 2024-09-17T17:42:24.091234+00:00
-
- ## A Place For My Head
- - [https://shivjm.blog](https://shivjm.blog)
- - date_published: 2024-08-23T00:00:00+00:00
-
- ## Shyam's Blog
- - [https://shyam.blog](https://shyam.blog)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## silv.blog
- - [https://silv.blog](https://silv.blog)
- - date_published: 2024-06-22T12:54:13+00:00
-
- ## sixhours
- - [https://sixhours.blog](https://sixhours.blog)
- - date_published: 2024-10-20T15:03:45.496710+00:00
-
- ## Smarter.Blog Newsletter | Mahesh | Substack
- - [https://newsletter.smarter.blog](https://newsletter.smarter.blog)
- - date_published: 2023-10-25T09:39:31.008633+00:00
- - tags: ['substack']
-
- ## Dhole Moments - Software, Security, Cryptography, and Furries
- - [https://soatok.blog](https://soatok.blog)
- - date_published: 2023-10-25T12:01:20.604773+00:00
-
- ## Soder Blog Dot Blog – the films of director Steven Soderbergh examined through the lens of creative constraint
- - [https://soderblog.blog](https://soderblog.blog)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## The Sorcerer's Blog
- - [https://sorcerer.blog](https://sorcerer.blog)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## The Stack Overflow Blog - Stack Overflow
- - [https://stackoverflow.blog](https://stackoverflow.blog)
- - date_published: 2023-10-25T12:01:26.888673+00:00
-
- ## Latest articles | State of Progress
- - [https://stateofprogress.blog](https://stateofprogress.blog)
- - date_published: 2024-10-20T22:06:11.541507+00:00
-
- ## StefanPfeiffer.Blog
- - [https://stefanpfeiffer.blog](https://stefanpfeiffer.blog)
- - date_published: 2024-07-02T18:00:15.162803+00:00
-
- ## Making an ass of myself
- - [http://stevenhpape.blog](http://stevenhpape.blog)
- - date_published: 2024-09-03T23:02:08.990283+00:00
 

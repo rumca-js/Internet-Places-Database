@@ -134,6 +134,10 @@
  - [https://coolgpts.ai](https://coolgpts.ai)
  - date_published: 2023-11-21T21:11:42+00:00
 
+ ## GO.COPILOTKIT.AI - A Dub.co Custom Domain
+ - [https://go.copilotkit.ai](https://go.copilotkit.ai)
+ - date_published: 2024-10-25T16:22:31.808114+00:00
+
  ## copy.ai
  - [https://app.copy.ai](https://app.copy.ai)
  - date_published: 2024-06-21T20:10:08.865680+00:00
@@ -1215,6 +1219,14 @@
  ## EVOTO, AI-powered Photo Editor
  - [https://www.evoto.ai](https://www.evoto.ai)
  - date_published: 2024-06-19T20:04:30.485425+00:00
+
+ ## Exa API Dashboard
+ - [https://dashboard.exa.ai](https://dashboard.exa.ai)
+ - date_published: 2024-10-25T20:49:08.879249+00:00
+
+ ## Introduction
+ - [https://docs.exa.ai](https://docs.exa.ai)
+ - date_published: 2024-10-25T20:49:07.816236+00:00
 
  ## Exa API
  - [https://exa.ai](https://exa.ai)
@@ -4001,16 +4013,4 @@
  ## Show HN: Lume – automate data mappings using AI
  - [https://lume.ai](https://lume.ai)
  - date_published: 2023-12-06T17:37:48+00:00
-
- ## Lumeros AI
- - [https://www.lumeros.ai](https://www.lumeros.ai)
- - date_published: 2024-07-12T16:28:28.793600+00:00
-
- ## Lumino | Global Cloud for AI Training
- - [https://www.luminolabs.ai](https://www.luminolabs.ai)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## Lumona
- - [https://lumona.ai](https://lumona.ai)
- - date_published: 2024-03-29T20:12:06.449920+00:00
 

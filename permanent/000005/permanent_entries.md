@@ -1,3 +1,24 @@
+ ## Phantom — Crypto & NFT Wallet — Solana | Ethereum | Polygon
+ - [https://phantom.app](https://phantom.app)
+ - date_published: 2024-07-24T02:33:39.189986+00:00
+
+ ## Plausible · Web analytics
+ - [https://a.photoprism.app](https://a.photoprism.app)
+ - date_published: 2024-05-12T04:58:34.205404+00:00
+
+ ## PhotoPrism+: Demo
+ - [https://demo.photoprism.app](https://demo.photoprism.app)
+ - date_published: 2024-06-19T22:10:46.696536+00:00
+
+ ## PhotoPrism
+ - [https://docs-de.photoprism.app](https://docs-de.photoprism.app)
+ - date_published: 2024-07-26T14:06:24+00:00
+
+ ## PhotoPrism - Features
+ - [https://docs.photoprism.app](https://docs.photoprism.app)
+ - date_published: 2024-04-20T15:04:18.703361+00:00
+ - tags: ['image library', 'self-host']
+
  ## PhotoPrism: Browse Your Life in Pictures
  - [https://link.photoprism.app](https://link.photoprism.app)
  - date_published: 2024-05-12T04:58:29.441276+00:00
@@ -2010,6 +2031,10 @@
  - [https://anima-pdf-chat.vercel.app](https://anima-pdf-chat.vercel.app)
  - date_published: 2024-08-18T05:19:31.121026+00:00
 
+ ## Annapurna
+ - [https://annapurna-site.vercel.app](https://annapurna-site.vercel.app)
+ - date_published: 2024-10-25T22:05:11.056936+00:00
+
  ## Antidepressants or Tolkien
  - [https://antidepressantsortolkien.vercel.app](https://antidepressantsortolkien.vercel.app)
  - date_published: 2023-11-08T02:53:20+00:00
@@ -3878,6 +3903,10 @@
  - [https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app](https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app)
  - date_published: 2024-08-06T17:07:41.970551+00:00
 
+ ## One-Click YouTube Playlist Downloader
+ - [https://ytdlfree.vercel.app](https://ytdlfree.vercel.app)
+ - date_published: 2024-10-25T15:15:27+00:00
+
  ## YT idea generator
  - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
  - date_published: 2024-06-14T08:57:57.169654+00:00
@@ -3989,33 +4018,4 @@
  ## My New Hugo Site
  - [https://wasmer-edge-hugo-sample.wasmer.app](https://wasmer-edge-hugo-sample.wasmer.app)
  - date_published: 1970-01-01T00:00:00+00:00
-
- ## WATCH3R
- - [https://watch3r.app](https://watch3r.app)
- - date_published: 2024-06-14T14:48:09.194760+00:00
-
- ## Watcharr
- - [https://beta.watcharr.app](https://beta.watcharr.app)
- - date_published: 2024-05-14T04:03:19.257742+00:00
-
- ## Watcharr Docs | Watcharr Docs
- - [https://watcharr.app](https://watcharr.app)
- - date_published: 2024-04-08T19:31:16.233648+00:00
- - tags: ['movie library', 'self-host']
-
- ## Home  | Watchwolf
- - [https://www.watchwolf.app](https://www.watchwolf.app)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Watchworthy
- - [https://watchworthy.app](https://watchworthy.app)
- - date_published: 2024-06-11T19:02:26+00:00
-
- ## Wavelength is Shutting Down on July 31st, 2024
- - [https://www.wavelength.app](https://www.wavelength.app)
- - date_published: 2024-07-02T13:29:06.734193+00:00
-
- ## Wavacity | Online Audio Editor Based on Audacity
- - [https://wavvy.app](https://wavvy.app)
- - date_published: 2023-07-26T06:34:47+00:00
 
