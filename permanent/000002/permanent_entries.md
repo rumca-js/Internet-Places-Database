@@ -1,3 +1,7 @@
+ ## Show HN: Lume – automate data mappings using AI
+ - [https://lume.ai](https://lume.ai)
+ - date_published: 2023-12-06T17:37:48+00:00
+
  ## Lumeros AI
  - [https://www.lumeros.ai](https://www.lumeros.ai)
  - date_published: 2024-07-12T16:28:28.793600+00:00
@@ -4016,8 +4020,4 @@
  ## Symbolica
  - [https://www.symbolica.ai](https://www.symbolica.ai)
  - date_published: 2024-07-01T07:39:02.694914+00:00
-
- ## Symmetrical.ai. Lepszy sposób na prowadzenie listy płac i HR.
- - [https://symmetrical.ai](https://symmetrical.ai)
- - date_published: 2024-09-24T00:00:00+00:00
 

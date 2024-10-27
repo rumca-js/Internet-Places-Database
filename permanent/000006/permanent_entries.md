@@ -1,3 +1,19 @@
+ ## Wand – Bring your drawings to life.
+ - [https://www.wand.app](https://www.wand.app)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## WannaGift
+ - [https://www.wannagift.app](https://www.wannagift.app)
+ - date_published: 2024-10-09T18:48:37+00:00
+
+ ## Laravel
+ - [https://laravel-wasmer-examples.wasmer.app](https://laravel-wasmer-examples.wasmer.app)
+ - date_published: 2024-07-19T23:25:08.499504+00:00
+
+ ## My New Hugo Site
+ - [https://wasmer-edge-hugo-sample.wasmer.app](https://wasmer-edge-hugo-sample.wasmer.app)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## WATCH3R
  - [https://watch3r.app](https://watch3r.app)
  - date_published: 2024-06-14T14:48:09.194760+00:00
@@ -4018,20 +4034,4 @@ October 2024 in Singapore
  ## Capitalist Exploits – Global Investment Research
  - [https://capitalistexploits.at](https://capitalistexploits.at)
  - date_published: 2024-03-03T00:00:00+00:00
-
- ## Mit Capterra die richtige Software für dein Unternehmen finden
- - [https://www.capterra.at](https://www.capterra.at)
- - date_published: 2024-07-20T19:26:22.512731+00:00
-
- ## Cashback
- - [https://cashbackonline.at](https://cashbackonline.at)
- - date_published: 2024-06-25T18:36:14+00:00
-
- ## Homepage
- - [https://casinoble.at](https://casinoble.at)
- - date_published: 2024-09-19T20:31:56.809764+00:00
-
- ## CCC Salzburg
- - [https://cccsbg.at](https://cccsbg.at)
- - date_published: 2024-07-24T16:25:46.354980+00:00
 

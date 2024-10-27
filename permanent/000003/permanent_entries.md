@@ -1,3 +1,7 @@
+ ## Symmetrical.ai. Lepszy sposób na prowadzenie listy płac i HR.
+ - [https://symmetrical.ai](https://symmetrical.ai)
+ - date_published: 2024-09-24T00:00:00+00:00
+
  ## Synapse - The AI Symposium
  - [https://synapsesymposium.ai](https://synapsesymposium.ai)
  - date_published: 2024-06-17T11:42:23.666414+00:00
@@ -4019,8 +4023,4 @@ Creative Solutions
  ## Home | db8bot
  - [https://db8bot.app](https://db8bot.app)
  - date_published: 2024-07-14T10:17:23.066477+00:00
-
- ## DB-Views - Low-Code Cloud Database Frontend
- - [https://web.db-views.app](https://web.db-views.app)
- - date_published: 2023-07-23T00:00:00+00:00
 

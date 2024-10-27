@@ -1,3 +1,87 @@
+ ## Realize Engineering | An engineering commentary for everyone every Wednesday since 2012
+ - [https://realizeengineering.blog](https://realizeengineering.blog)
+ - date_published: 2023-10-25T12:01:02.147552+00:00
+
+ ## The REAPER Blog
+ - [https://reaper.blog](https://reaper.blog)
+ - date_published: 2024-08-08T16:08:57+00:00
+
+ ## (no title)
+ - [https://redcrossplus.blog](https://redcrossplus.blog)
+ - date_published: 2024-09-13T16:51:46.691349+00:00
+
+ ## Re-enchantment Of The World
+ - [http://reenchantmentoftheworld.blog](http://reenchantmentoftheworld.blog)
+ - date_published: 2024-09-17T17:49:31.101995+00:00
+
+ ## Reese Richardson
+ - [https://reeserichardson.blog](https://reeserichardson.blog)
+ - date_published: 2024-02-04T02:18:53.099471+00:00
+
+ ## regenbogenfabrik 40
+ - [https://regenbogenfabrik40.blog](https://regenbogenfabrik40.blog)
+ - date_published: 2024-07-14T03:13:21.017828+00:00
+
+ ## Research Degree Insiders
+ - [https://researchinsiders.blog](https://researchinsiders.blog)
+ - date_published: 2024-05-02T10:13:36.139493+00:00
+
+ ## Retro365
+ - [https://retro365.blog](https://retro365.blog)
+ - date_published: 2024-07-13T05:03:42.714717+00:00
+
+ ## Cooking Pancakes | revi
+ - [https://revi.blog](https://revi.blog)
+ - date_published: 2024-06-10T07:07:48.083451+00:00
+ - tags: ['personal']
+
+ ## home · Joseph Thacker
+ - [https://rez0.blog](https://rez0.blog)
+ - date_published: 2023-10-25T12:01:04.204782+00:00
+
+ ## Rich Tabor
+ - [https://rich.blog](https://rich.blog)
+ - date_published: 2024-04-03T12:46:23.521811+00:00
+ - tags: ['personal']
+
+ ## Richard Bloomfield's Blog • Technology, church music, bicycles, and life in Ireland
+ - [https://richardbloomfield.blog](https://richardbloomfield.blog)
+ - date_published: 2024-04-23T10:12:37.646980+00:00
+ - tags: ['personal']
+
+ ## Rightmove Tech Blog
+ - [https://rightmove.blog](https://rightmove.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Riley Harris
+ - [https://rileyharris.blog](https://rileyharris.blog)
+ - date_published: 2024-01-19T13:02:00.009123+00:00
+
+ ## Rox’s Picks | Roxine Kee | Substack
+ - [https://www.roxine.blog](https://www.roxine.blog)
+ - date_published: 2024-08-08T22:50:04.278551+00:00
+
+ ## RunSignup Blog
+ - [https://runsignup.blog](https://runsignup.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## John Payne
+ - [https://jpayne.sackheads.blog](https://jpayne.sackheads.blog)
+ - date_published: 2024-07-25T19:39:05+00:00
+
+ ## Saptak's Blog
+ - [https://saptaks.blog](https://saptaks.blog)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## sarah.blog
+ - [https://sarah.blog](https://sarah.blog)
+ - date_published: 2023-11-29T14:44:35.706152+00:00
+ - tags: ['personal']
+
+ ## Sawyer Stories - Tales of Oar locks, Eddies, and The Feel Of Water
+ - [https://sawyerstories.blog](https://sawyerstories.blog)
+ - date_published: 2024-09-15T00:00:00+00:00
+
  ## Schneide Blog
  - [https://schneide.blog](https://schneide.blog)
  - date_published: 2024-07-09T12:15:44.546172+00:00
@@ -306,6 +390,10 @@
  ## w6csn’s outdoor amateur radio
  - [https://w6csn.blog](https://w6csn.blog)
  - date_published: 2024-04-26T00:00:00+00:00
+
+ ## WARFACE
+ - [https://warface.blog](https://warface.blog)
+ - date_published: 2024-10-26T18:13:07.183473+00:00
 
  ## Le Blog Sustainability - Le blog RSE des consultants Wavestone
  - [https://sustainability.wavestone.blog](https://sustainability.wavestone.blog)
@@ -2155,6 +2243,10 @@ Educação
  - [https://blocosonline.com.br](https://blocosonline.com.br)
  - date_published: 2024-05-10T06:16:12.131479+00:00
 
+ ## Battlefront Brasil
+ - [http://battlefrontbrasil.blogspot.com.br](http://battlefrontbrasil.blogspot.com.br)
+ - date_published: 2024-09-08T02:21:33+00:00
+
  ## Blogger
  - [http://danieladelias.blogspot.com.br](http://danieladelias.blogspot.com.br)
  - date_published: 2024-07-12T21:04:42.798842+00:00
@@ -3939,92 +4031,4 @@ Educação
  ## Polaris
  - [http://www.polaristec.com.br](http://www.polaristec.com.br)
  - date_published: 2014-02-17T17:07:30+00:00
-
- ## Porta Lá Fricas – Blog das Irmãs Frica
- - [http://www.portalafricas.com.br](http://www.portalafricas.com.br)
- - date_published: 2024-08-12T04:29:39.190379+00:00
-
- ## Aliança | e-Commerce
- - [https://www.portalcabotagem.com.br](https://www.portalcabotagem.com.br)
- - date_published: 2024-05-27T17:22:50+00:00
-
- ## Interativa TV
- - [https://portalwebtv.com.br](https://portalwebtv.com.br)
- - date_published: 2022-01-19T14:57:07+00:00
-
- ## Política de Privacidade e Cookies
- - [https://privacidade.positivotecnologia.com.br](https://privacidade.positivotecnologia.com.br)
- - date_published: 2024-07-04T11:02:17.740205+00:00
-
- ## Positivo
- - [https://www.positivotecnologia.com.br](https://www.positivotecnologia.com.br)
- - date_published: 2024-07-04T11:02:27.311486+00:00
-
- ## Melhor plataforma de software para afiliados | Post Affiliate Pro
- - [https://www.postaffiliatepro.com.br](https://www.postaffiliatepro.com.br)
- - date_published: 2024-10-20T11:07:43.758099+00:00
-
- ## Início
- - [https://www.praxair.com.br](https://www.praxair.com.br)
- - date_published: 2024-07-13T02:16:24.627421+00:00
-
- ## Portal - Prensa Latina
- - [https://www.prensalatina.com.br](https://www.prensalatina.com.br)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Privacy Tools
- - [https://cdn.privacytools.com.br](https://cdn.privacytools.com.br)
- - date_published: 2024-07-11T20:41:50+00:00
-
- ## PR Newswire Portugal | Notícias mais recentes
- - [https://prnewswire.com.br](https://prnewswire.com.br)
- - date_published: 2024-06-19T09:41:34.609712+00:00
-
- ## Avançar + Educação Empreendedora
- - [https://www.programaavancar.com.br](https://www.programaavancar.com.br)
- - date_published: 2024-06-16T09:15:43.581608+00:00
-
- ## Bem-vindo(a) ao Projeto ACBr | Automação Comercial Brasil
- - [https://projetoacbr.com.br](https://projetoacbr.com.br)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## propmark
- - [https://propmark.com.br](https://propmark.com.br)
- - date_published: 2024-09-25T15:22:23.147489+00:00
-
- ## Cursos Técnicos e Profissionalizantes – Proz Educação
- - [https://prozeducacao.com.br](https://prozeducacao.com.br)
- - date_published: 2024-06-19T08:26:15.311077+00:00
-
- ## Publicidade Editora Globo
- - [https://www.publicidadeeditoraglobo.com.br](https://www.publicidadeeditoraglobo.com.br)
- - date_published: 2024-06-18T07:13:11.196965+00:00
-
- ## PythonClub //
- - [https://pythonclub.com.br](https://pythonclub.com.br)
- - date_published: 2022-10-17T00:00:00+00:00
-
- ## Quatro cinco um | a revista dos livros
- - [https://quatrocincoum.com.br](https://quatrocincoum.com.br)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## Teste Vocacional - Grátis e Online - Que Curso?
- - [https://app.quecurso.com.br](https://app.quecurso.com.br)
- - date_published: 2024-10-11T13:02:13.410597+00:00
-
- ## quenerd.com.br
- - [http://www.quenerd.com.br](http://www.quenerd.com.br)
- - date_published: 2024-06-20T04:01:25.213290+00:00
-
- ## Quinta dos Maias
- - [https://quintadosmaias.com.br](https://quintadosmaias.com.br)
- - date_published: 2024-07-03T23:18:26.602377+00:00
-
- ## Abra as portas para um novo morar - QuintoAndar
- - [https://www.quintoandar.com.br](https://www.quintoandar.com.br)
- - date_published: 2024-06-19T08:24:18.727648+00:00
-
- ## Home | Rádio Disney Brasil FM 91.3
- - [https://radiodisney.com.br](https://radiodisney.com.br)
- - date_published: 2024-06-16T02:24:55.170891+00:00
 

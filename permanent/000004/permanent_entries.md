@@ -1,3 +1,7 @@
+ ## DB-Views - Low-Code Cloud Database Frontend
+ - [https://web.db-views.app](https://web.db-views.app)
+ - date_published: 2023-07-23T00:00:00+00:00
+
  ## AI-powered Content Workflows for Teams | DC I/O
  - [https://dcio.app](https://dcio.app)
  - date_published: 2024-01-30T00:00:00+00:00
@@ -4026,8 +4030,4 @@
  ## PersonaGen: AI User-Persona Generator
  - [https://personagen.app](https://personagen.app)
  - date_published: 2024-06-19T19:36:44.122256+00:00
-
- ## Petra
- - [https://petra.app](https://petra.app)
- - date_published: 2024-09-25T10:29:40.624159+00:00
 

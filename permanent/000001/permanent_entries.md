@@ -1,3 +1,7 @@
+ ## CoMaker.ai - Your AI-powered content creation partner
+ - [https://www.comaker.ai](https://www.comaker.ai)
+ - date_published: 2024-06-19T19:35:25.590107+00:00
+
  ## Create Comics Using AI | ComicsMaker.ai
  - [https://comicsmaker.ai](https://comicsmaker.ai)
  - date_published: 2023-10-25T11:37:36.161725+00:00
@@ -4009,8 +4013,4 @@
  ## Introduction - Documentation
  - [https://docs.lume.ai](https://docs.lume.ai)
  - date_published: 2023-12-06T19:47:41.218118+00:00
-
- ## Show HN: Lume – automate data mappings using AI
- - [https://lume.ai](https://lume.ai)
- - date_published: 2023-12-06T17:37:48+00:00
 

@@ -1,3 +1,149 @@
+ ## Author Jenn Ashton
+ - [https://jenniferashton.ca](https://jenniferashton.ca)
+ - date_published: 2023-12-20T19:14:23.669927+00:00
+ - tags: ['personal']
+
+ ## Jennifer Cook, Author
+ - [http://jennifercook.ca](http://jennifercook.ca)
+ - date_published: 2020-06-09T13:27:28+00:00
+
+ ## Jeremy Shields – Dreamer & Winnipegger.
+ - [https://jeremyshields.ca](https://jeremyshields.ca)
+ - date_published: 2024-05-10T06:29:38.718742+00:00
+ - tags: ['personal']
+
+ ## Jetco Contracting
+ - [https://jetcoinc.ca](https://jetcoinc.ca)
+ - date_published: 2024-07-11T17:20:11.097395+00:00
+
+ ## Jetpack Interactive
+ - [https://jetpackinteractive.ca](https://jetpackinteractive.ca)
+ - date_published: 2024-05-09T08:37:38.007404+00:00
+
+ ## J.G. Ballard
+ - [http://www.jgballard.ca](http://www.jgballard.ca)
+ - date_published: 2016-01-31T16:59:25+00:00
+
+ ## Heap Overrun
+ - [https://jgoguen.ca](https://jgoguen.ca)
+ - date_published: 2024-07-23T20:54:14.355958+00:00
+
+ ## Home - Journalists for Human Rights (JHR)
+ - [https://jhr.ca](https://jhr.ca)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## HuoJu's BLOG
+ - [https://jhuo.ca](https://jhuo.ca)
+ - date_published: 2019-01-01T00:00:00+00:00
+
+ ## Corrections Leadership – Your path for leadership development
+ - [https://corrleader.jibc.ca](https://corrleader.jibc.ca)
+ - date_published: 2024-07-04T09:42:49.321712+00:00
+
+ ## Explore JIBC Justice & Public Safety Programs | JIBC
+ - [http://jibc.ca](http://jibc.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Prosenjit K. Bose
+ - [http://jitbose.ca](http://jitbose.ca)
+ - date_published: 2021-09-07T01:38:23+00:00
+
+ ## jliedl.ca
+ - [http://blog.jliedl.ca](http://blog.jliedl.ca)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## jliedl.ca
+ - [https://jliedl.ca](https://jliedl.ca)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Jean-Marc Valin
+ - [https://jmvalin.ca](https://jmvalin.ca)
+ - date_published: 2024-05-08T10:31:39.445565+00:00
+
+ ## Johann Wentzel
+ - [http://johannwentzel.ca](http://johannwentzel.ca)
+ - date_published: 2024-06-29T07:40:16+00:00
+
+ ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
+ - [http://johncarterofmars.ca](http://johncarterofmars.ca)
+ - date_published: 2014-10-20T17:46:50+00:00
+
+ ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
+ - [https://www.johncarterofmars.ca](https://www.johncarterofmars.ca)
+ - date_published: 2014-10-20T17:46:50+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.johnson.ca](https://www.johnson.ca)
+ - date_published: 2024-07-21T08:26:45.914771+00:00
+
+ ## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
+ - [https://blog.jonlu.ca](https://blog.jonlu.ca)
+ - date_published: 2023-10-25T12:05:18.268067+00:00
+
+ ## Sign in - Matomo
+ - [https://j.jonlu.ca](https://j.jonlu.ca)
+ - date_published: 2024-09-07T23:51:30.984898+00:00
+
+ ## WordPress.com
+ - [http://jonpeirce.ca](http://jonpeirce.ca)
+ - date_published: 2024-07-09T09:52:58.160002+00:00
+
+ ## Artwork : Joy Ang
+ - [http://joyang.ca](http://joyang.ca)
+ - date_published: 2024-10-25T18:44:00.789721+00:00
+
+ ## Jerry Proc's Family of Web Pages
+ - [https://jproc.ca](https://jproc.ca)
+ - date_published: 2024-04-03T16:14:03+00:00
+ - tags: ['personal']
+
+ ## James Hawley
+ - [https://jrhawley.ca](https://jrhawley.ca)
+ - date_published: 2023-10-25T08:42:58.953735+00:00
+ - tags: ['personal']
+
+ ## Cookbook
+ - [https://recipes.jrhawley.ca](https://recipes.jrhawley.ca)
+ - date_published: 2024-06-14T03:40:11+00:00
+
+ ## Julius Davies
+ - [http://juliusdavies.ca](http://juliusdavies.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## this is my blog
+ - [https://blog.jurgen.ca](https://blog.jurgen.ca)
+ - date_published: 2024-05-06T14:14:47.732618+00:00
+
+ ## Welcome to Just Food! - Just Food
+ - [https://justfood.ca](https://justfood.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Justin Henry | Instagram, Facebook | Linktree
+ - [http://justinhenry.ca](http://justinhenry.ca)
+ - date_published: 2021-06-28T00:00:00+00:00
+
+ ## https://justinjackson.ca
+ - [https://justinjackson.ca](https://justinjackson.ca)
+ - date_published: 2023-10-25T09:02:24.126240+00:00
+ - tags: ['personal']
+
+ ## a simple DNS lookup tool
+ - [https://dns-lookup.jvns.ca](https://dns-lookup.jvns.ca)
+ - date_published: 2024-05-07T14:33:07.338084+00:00
+
+ ## julia's drawings
+ - [https://drawings.jvns.ca](https://drawings.jvns.ca)
+ - date_published: 2024-06-19T22:50:21.582415+00:00
+
+ ## Julia Evans
+ - [https://jvns.ca](https://jvns.ca)
+ - date_published: 2023-10-25T09:02:41.915700+00:00
+ - tags: ['personal']
+
+ ## Mastodon
+ - [https://social.jvns.ca](https://social.jvns.ca)
+ - date_published: 2023-12-22T05:12:37.826236+00:00
+
  ## Kady MacDonald Denton
  - [https://www.kadymacdonalddenton.ca](https://www.kadymacdonalddenton.ca)
  - date_published: 2024-07-24T00:00:00+00:00
@@ -487,6 +633,10 @@
  ## Writer | Filmmaker • Mailyne K. Briggs
  - [https://mailyne.ca](https://mailyne.ca)
  - date_published: 2008-01-01T00:00:00+00:00
+
+ ## Homepage - Mainframe Studios
+ - [https://www.mainframe.ca](https://www.mainframe.ca)
+ - date_published: 2024-10-26T15:06:26.957988+00:00
 
  ## First to be published
  - [https://makevotesequal.ca](https://makevotesequal.ca)
@@ -1661,6 +1811,10 @@
  ## Nose Creek Web Design - Calgary, Airdrie Website Creation
  - [https://nosecreekweb.ca](https://nosecreekweb.ca)
  - date_published: 2023-01-20T21:15:14+00:00
+
+ ## Not by Strength, By Guile
+ - [https://notbystrengthbyguile.ca](https://notbystrengthbyguile.ca)
+ - date_published: 2024-10-26T17:53:01.538910+00:00
 
  ## Novak Family
  - [http://novak.ca](http://novak.ca)
@@ -3885,153 +4039,4 @@
  ## Home - Speak for Ourselves
  - [https://speakforourselves.ca](https://speakforourselves.ca)
  - date_published: 2024-08-19T10:55:27.750343+00:00
-
- ## Spearhead Games
- - [https://spearheadgames.ca](https://spearheadgames.ca)
- - date_published: 2024-05-09T08:37:59.515345+00:00
-
- ## Home - Spicy Riffs Hot Sauce
- - [https://spicyriffshotsauce.ca](https://spicyriffshotsauce.ca)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Agence Web à Montréal Experte Wordpress et SEO - Spinat
- - [https://www.spinat.ca](https://www.spinat.ca)
- - date_published: 2024-10-20T23:31:27.285230+00:00
-
- ## Spirasolaris
- - [https://www.spirasolaris.ca](https://www.spirasolaris.ca)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home - Canadian Spondyloarthritis Association
- - [https://www.spondylitis.ca](https://www.spondylitis.ca)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## News, Scores and Live Streaming
- - [https://www.sportsnet.ca](https://www.sportsnet.ca)
- - date_published: 2024-06-23T13:08:34.037314+00:00
-
- ## Home | Sportstats
- - [https://www.sportstats.ca](https://www.sportstats.ca)
- - date_published: 2024-06-27T13:06:52.532392+00:00
-
- ## Pet Insurance Plans for Dogs & Cats in Canada Get a free Quote for your Pet | Spot Canada
- - [https://spotpetinsurance.ca](https://spotpetinsurance.ca)
- - date_published: 2024-08-11T16:36:12.833281+00:00
-
- ## My Spreadshirt
- - [https://my.spreadshirt.ca](https://my.spreadshirt.ca)
- - date_published: 2024-10-21T08:59:40.943129+00:00
-
- ## Custom T-Shirts and T-Shirt Printing | Spreadshirt
- - [https://www.spreadshirt.ca](https://www.spreadshirt.ca)
- - date_published: 2024-06-18T10:20:03.940471+00:00
-
- ## Sprinklers in Canada, Canada
- - [http://www.sprinklers.ca](http://www.sprinklers.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Buy Silver & Gold Bullion Online | Sprott Money Canada
- - [https://www.sprottmoney.ca](https://www.sprottmoney.ca)
- - date_published: 2024-10-19T23:57:34.110660+00:00
-
- ## Sprout Family
- - [https://sproutfamily.ca](https://sproutfamily.ca)
- - date_published: 2024-10-16T21:07:05.863712+00:00
-
- ## SQO – group
- - [https://sqogroup.ca](https://sqogroup.ca)
- - date_published: 2024-06-30T23:04:01+00:00
-
- ## Emanote
- - [https://emanote.srid.ca](https://emanote.srid.ca)
- - date_published: 2023-10-25T12:07:25.720455+00:00
-
- ## Sridhar Ratnakumar
- - [https://www.srid.ca](https://www.srid.ca)
- - date_published: 2024-08-06T14:21:05+00:00
-
- ## Canada's No.1 SSL Certificate Provider with Dedicated Support Team
- - [https://www.ssltrust.ca](https://www.ssltrust.ca)
- - date_published: 2024-06-16T08:31:41.489264+00:00
-
- ## ST. STEPHEN'S UNIVERSITY  |  A graduate school of theology, peace and reconciliation
- - [https://www.ssu.ca](https://www.ssu.ca)
- - date_published: 2024-10-19T10:46:31.775518+00:00
-
- ## Digital Money Infrastructure for the Next Billion Users
- - [https://www.stablecorp.ca](https://www.stablecorp.ca)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Stagecoach Performing Arts Canada - Acting, Dancing and Singing Classes for Kids
- - [http://www.stagecoachschools.ca](http://www.stagecoachschools.ca)
- - date_published: 2024-10-21T07:57:46.032801+00:00
-
- ## St. Albert Local News
- - [https://www.stalberttoday.ca](https://www.stalberttoday.ca)
- - date_published: 2024-08-08T19:10:35+00:00
-
- ## Stallion Express - Canada's #1 eCommerce Shipping Service
- - [https://stallionexpress.ca](https://stallionexpress.ca)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Stance | Socks, Underwear & Apparel | Shop Now
- - [https://www.stance.ca](https://www.stance.ca)
- - date_published: 2024-08-17T23:12:56.541327+00:00
-
- ## Agence marketing, Web et de design à Sherbrooke | Standish
- - [https://www.standish.ca](https://www.standish.ca)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.staples.ca](https://www.staples.ca)
- - date_published: 2024-08-05T21:54:56.390589+00:00
-
- ## Starbucks®
- - [https://app.starbucks.ca](https://app.starbucks.ca)
- - date_published: 2024-06-16T10:54:08.039100+00:00
-
- ## Starbucks Help - Starbucks Portal
- - [https://customerservice.starbucks.ca](https://customerservice.starbucks.ca)
- - date_published: 2024-10-02T11:36:48.536244+00:00
-
- ## Starbucks Coffee Company
- - [https://fr.starbucks.ca](https://fr.starbucks.ca)
- - date_published: 2024-06-16T10:54:38.076488+00:00
-
- ## Credit or Debit Card Details
- - [https://securepaymentform.starbucks.ca](https://securepaymentform.starbucks.ca)
- - date_published: 2024-07-29T17:15:24+00:00
-
- ## Starbucks Help - Starbucks Portal
- - [https://serviceclientele.starbucks.ca](https://serviceclientele.starbucks.ca)
- - date_published: 2024-10-02T11:44:06.809613+00:00
-
- ## Starbucks Coffee Company
- - [https://starbucks.ca](https://starbucks.ca)
- - date_published: 2024-10-02T11:44:04.117070+00:00
-
- ## : : : Welcome to stargrunt.ca! : : :
- - [http://www.stargrunt.ca](http://www.stargrunt.ca)
- - date_published: 2006-03-20T08:23:44+00:00
-
- ## Canadian Starmaker Fund
- - [https://www.starmaker.ca](https://www.starmaker.ca)
- - date_published: 2024-09-11T16:22:42+00:00
-
- ## STARS Lab | Space and Terrestrial Autonomous Robotic Systems Lab at the University of Toronto
- - [http://www.starslab.ca](http://www.starslab.ca)
- - date_published: 2024-06-22T11:42:02.956904+00:00
-
- ## Shop the Toronto Star Store | StarStore
- - [https://starstore.ca](https://starstore.ca)
- - date_published: 2024-06-23T13:34:47.418957+00:00
-
- ## Learn about the project
- - [https://www.statlewdistrict.ca](https://www.statlewdistrict.ca)
- - date_published: 2024-07-15T06:10:33.188443+00:00
-
- ## Adrian Unger — Staydecent
- - [https://staydecent.ca](https://staydecent.ca)
- - date_published: 2023-11-29T14:42:31.811010+00:00
- - tags: ['personal']
 

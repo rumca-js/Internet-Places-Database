@@ -1,3 +1,100 @@
+ ## The Belle Jar
+ - [http://bellejar.ca](http://bellejar.ca)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Bell Media Account
+ - [https://account.bellmedia.ca](https://account.bellmedia.ca)
+ - date_published: 2023-12-12T09:04:24.261526+00:00
+
+ ## https://recodata.shared-svc.bellmedia.ca
+ - [https://recodata.shared-svc.bellmedia.ca](https://recodata.shared-svc.bellmedia.ca)
+ - date_published: 2023-12-12T08:41:51.384990+00:00
+
+ ## Home
+ - [https://www.bellmedia.ca](https://www.bellmedia.ca)
+ - date_published: 2023-12-12T08:43:45.676684+00:00
+
+ ## Benjamin Rancourt
+ - [https://benjaminrancourt.ca](https://benjaminrancourt.ca)
+ - date_published: 2023-04-11T00:00:00+00:00
+
+ ## My mostly tech blog
+ - [https://blog.benoitj.ca](https://blog.benoitj.ca)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Java Decompiler
+ - [http://jd.benow.ca](http://jd.benow.ca)
+ - date_published: 2019-12-25T14:57:06+00:00
+ - tags: ['java', 'reverse engineering', 'java decompiler']
+
+ ## benui mastodon instance
+ - [https://m.benui.ca](https://m.benui.ca)
+ - date_published: 2024-05-08T12:34:33.090302+00:00
+
+ ## benv.ca • Ben Vinegar
+ - [https://benv.ca](https://benv.ca)
+ - date_published: 2024-06-22T22:29:46.909708+00:00
+
+ ## Everything you need to preserve food in jars
+ - [https://www.bernardin.ca](https://www.bernardin.ca)
+ - date_published: 2024-05-07T15:16:11.669481+00:00
+
+ ## The Berry Barn | Restaurant, Greenhouse, Bakery, Gift Shop and more!
+ - [https://www.berrybarn.ca](https://www.berrybarn.ca)
+ - date_published: 2024-06-23T06:27:28.198233+00:00
+
+ ## Homepage
+ - [https://blog.bestbuy.ca](https://blog.bestbuy.ca)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Homepage
+ - [https://blogue.bestbuy.ca](https://blogue.bestbuy.ca)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## React App
+ - [https://remotesupport.bestbuy.ca](https://remotesupport.bestbuy.ca)
+ - date_published: 2024-05-29T01:13:01.654814+00:00
+
+ ## All Best Buy Store Locations In Canada | Best Buy Canada
+ - [https://stores.bestbuy.ca](https://stores.bestbuy.ca)
+ - date_published: 2024-09-02T16:13:32.626310+00:00
+
+ ## Best Buy: Shop Online For Deals & Save | Best Buy Canada
+ - [https://bestbuy.ca](https://bestbuy.ca)
+ - date_published: 2024-02-23T22:51:25.927722+00:00
+ - tags: ['shop']
+
+ ## Best Online Gambling Sites in Canada 2024 - Expert Reviews
+ - [https://bestcasinoplay.ca](https://bestcasinoplay.ca)
+ - date_published: 2024-05-04T09:25:52.624612+00:00
+ - tags: ['gambling']
+
+ ## Medieval Bestiary : Animals in the Middle Ages
+ - [https://bestiary.ca](https://bestiary.ca)
+ - date_published: 2023-10-25T12:03:35.908634+00:00
+ - tags: ['animals', 'history', 'medieval', 'bestiary']
+
+ ## Best of France | Bring France into your life
+ - [https://shop.bestoffrance.ca](https://shop.bestoffrance.ca)
+ - date_published: 2024-08-08T20:05:30.772619+00:00
+
+ ## Best of France | Experience True France
+ - [https://bestoffrance.ca](https://bestoffrance.ca)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## ELIZABETH ADAMS / STUDIO CASSANDRA - Elizabeth Adams Studio Cassandra
+ - [http://bethadams.ca](http://bethadams.ca)
+ - date_published: 2024-05-22T18:24:48.240436+00:00
+ - tags: ['personal']
+
+ ## Welcome to British Isles Family History Society of Ottawa
+ - [https://www.bifhsgo.ca](https://www.bifhsgo.ca)
+ - date_published: 2024-06-22T14:20:04+00:00
+
+ ## Biggle Canadian Souvenirs
+ - [http://biggle.ca](http://biggle.ca)
+ - date_published: 2024-03-25T00:00:00+00:00
+
  ## Bikes in Canada, Canada
  - [http://www.bikes.ca](http://www.bikes.ca)
  - date_published: 2024-06-29T17:35:34.387521+00:00
@@ -74,6 +171,10 @@
  - [https://blockchainnorth.ca](https://blockchainnorth.ca)
  - date_published: 2024-08-27T00:00:00+00:00
 
+ ## Confessions of a 40k addict
+ - [http://40kaddict.blogspot.ca](http://40kaddict.blogspot.ca)
+ - date_published: 2024-10-26T14:04:34+00:00
+
  ## Angry Sub-Editor
  - [https://angrysubeditor.blogspot.ca](https://angrysubeditor.blogspot.ca)
  - date_published: 2024-04-29T03:18:46.130191+00:00
@@ -89,6 +190,10 @@
  ## C0DE517E
  - [http://c0de517e.blogspot.ca](http://c0de517e.blogspot.ca)
  - date_published: 2024-09-02T08:07:15+00:00
+
+ ## Cadia's Creed: Warhammer 40k and the Imperial Guard
+ - [http://cadiascreed40k.blogspot.ca](http://cadiascreed40k.blogspot.ca)
+ - date_published: 2024-10-26T09:08:57+00:00
 
  ## Civilian Reader
  - [http://civilian-reader.blogspot.ca](http://civilian-reader.blogspot.ca)
@@ -130,9 +235,25 @@
  - [http://flohofwoe.blogspot.ca](http://flohofwoe.blogspot.ca)
  - date_published: 2024-09-02T08:55:59+00:00
 
+ ## A Warhammer 30k Horus Heresy,  40k and Necromunda blog - Four Dads of the Apocalypse
+ - [http://fourdadsoftheapocalypse.blogspot.ca](http://fourdadsoftheapocalypse.blogspot.ca)
+ - date_published: 2024-10-07T04:49:58+00:00
+
  ## The infrequent ramblings of a casual wargamer and hobbyist
  - [http://fullashtraygaming.blogspot.ca](http://fullashtraygaming.blogspot.ca)
  - date_published: 2024-07-03T03:13:36+00:00
+
+ ## El Gordo Xenos
+ - [http://gordoxenos.blogspot.ca](http://gordoxenos.blogspot.ca)
+ - date_published: 2024-09-01T09:13:35+00:00
+
+ ## How to Lose at 40k
+ - [http://h2lat40k.blogspot.ca](http://h2lat40k.blogspot.ca)
+ - date_published: 2024-10-22T09:33:30+00:00
+
+ ## Heaven's Teeth
+ - [http://heavensteeth.blogspot.ca](http://heavensteeth.blogspot.ca)
+ - date_published: 2024-10-02T06:32:05+00:00
 
  ## THE HOCKEY SCHTICK
  - [http://hockeyschtick.blogspot.ca](http://hockeyschtick.blogspot.ca)
@@ -178,6 +299,10 @@
  - [http://mylifeinmm.blogspot.ca](http://mylifeinmm.blogspot.ca)
  - date_published: 2024-03-19T21:28:00+00:00
 
+ ## Faeit 212
+ - [http://natfka.blogspot.ca](http://natfka.blogspot.ca)
+ - date_published: 2024-10-25T01:18:01+00:00
+
  ## Nerd Ralph
  - [http://nerdralph.blogspot.ca](http://nerdralph.blogspot.ca)
  - date_published: 2024-07-07T13:13:23+00:00
@@ -185,6 +310,14 @@
  ## Nie znaleziono bloga
  - [http://nerds-central.blogspot.ca](http://nerds-central.blogspot.ca)
  - date_published: 2024-09-03T21:39:19.248540+00:00
+
+ ## Objective Secured
+ - [http://objectivesecured.blogspot.ca](http://objectivesecured.blogspot.ca)
+ - date_published: 2024-10-24T09:17:39+00:00
+
+ ## The Old World Army Challenge
+ - [https://oldworldarmychallenge.blogspot.ca](https://oldworldarmychallenge.blogspot.ca)
+ - date_published: 2024-10-26T09:09:08+00:00
 
  ## Past Times and Present Tensions
  - [http://pasttimesandpresnttensions.blogspot.ca](http://pasttimesandpresnttensions.blogspot.ca)
@@ -206,9 +339,17 @@
  - [https://reflectivedisequilibrium.blogspot.ca](https://reflectivedisequilibrium.blogspot.ca)
  - date_published: 2020-10-15T00:00:00+00:00
 
+ ## Shadow Prophets
+ - [http://shadowprophets.blogspot.ca](http://shadowprophets.blogspot.ca)
+ - date_published: 2024-08-30T16:03:51+00:00
+
  ## Muhlberger's World History
  - [https://smuhlberger.blogspot.ca](https://smuhlberger.blogspot.ca)
  - date_published: 2024-09-04T07:12:14+00:00
+
+ ## Didcot Wargames Club
+ - [http://standwargaming.blogspot.ca](http://standwargaming.blogspot.ca)
+ - date_published: 2024-10-23T23:01:04+00:00
 
  ## The Privates Eternal
  - [http://theprivateseternal.blogspot.ca](http://theprivateseternal.blogspot.ca)
@@ -242,9 +383,17 @@
  - [http://utscpulse.blogspot.ca](http://utscpulse.blogspot.ca)
  - date_published: 2024-09-08T09:40:22+00:00
 
+ ## James Wappel Miniature Painting
+ - [http://wappellious.blogspot.ca](http://wappellious.blogspot.ca)
+ - date_published: 2024-10-20T21:49:58+00:00
+
  ## Paint Bard
  - [http://www.paintbard.blogspot.ca](http://www.paintbard.blogspot.ca)
  - date_published: 2024-06-03T17:39:04+00:00
+
+ ## Sons of Taurus
+ - [http://www.sonsoftaurus.blogspot.ca](http://www.sonsoftaurus.blogspot.ca)
+ - date_published: 2024-09-05T09:40:33+00:00
 
  ## Pacific Blue Cross - BC's #1 provider of health, dental and travel benefits
  - [https://www.pac.bluecross.ca](https://www.pac.bluecross.ca)
@@ -3885,154 +4034,4 @@
  ## Abonnement aux magazines et journaux | jemabonne.ca
  - [https://www.jemabonne.ca](https://www.jemabonne.ca)
  - date_published: 2024-08-05T00:00:00+00:00
-
- ## Author Jenn Ashton
- - [https://jenniferashton.ca](https://jenniferashton.ca)
- - date_published: 2023-12-20T19:14:23.669927+00:00
- - tags: ['personal']
-
- ## Jennifer Cook, Author
- - [http://jennifercook.ca](http://jennifercook.ca)
- - date_published: 2020-06-09T13:27:28+00:00
-
- ## Jeremy Shields – Dreamer & Winnipegger.
- - [https://jeremyshields.ca](https://jeremyshields.ca)
- - date_published: 2024-05-10T06:29:38.718742+00:00
- - tags: ['personal']
-
- ## Jetco Contracting
- - [https://jetcoinc.ca](https://jetcoinc.ca)
- - date_published: 2024-07-11T17:20:11.097395+00:00
-
- ## Jetpack Interactive
- - [https://jetpackinteractive.ca](https://jetpackinteractive.ca)
- - date_published: 2024-05-09T08:37:38.007404+00:00
-
- ## J.G. Ballard
- - [http://www.jgballard.ca](http://www.jgballard.ca)
- - date_published: 2016-01-31T16:59:25+00:00
-
- ## Heap Overrun
- - [https://jgoguen.ca](https://jgoguen.ca)
- - date_published: 2024-07-23T20:54:14.355958+00:00
-
- ## Home - Journalists for Human Rights (JHR)
- - [https://jhr.ca](https://jhr.ca)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## HuoJu's BLOG
- - [https://jhuo.ca](https://jhuo.ca)
- - date_published: 2019-01-01T00:00:00+00:00
-
- ## Corrections Leadership – Your path for leadership development
- - [https://corrleader.jibc.ca](https://corrleader.jibc.ca)
- - date_published: 2024-07-04T09:42:49.321712+00:00
-
- ## Explore JIBC Justice & Public Safety Programs | JIBC
- - [http://jibc.ca](http://jibc.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Prosenjit K. Bose
- - [http://jitbose.ca](http://jitbose.ca)
- - date_published: 2021-09-07T01:38:23+00:00
-
- ## jliedl.ca
- - [http://blog.jliedl.ca](http://blog.jliedl.ca)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## jliedl.ca
- - [https://jliedl.ca](https://jliedl.ca)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Jean-Marc Valin
- - [https://jmvalin.ca](https://jmvalin.ca)
- - date_published: 2024-05-08T10:31:39.445565+00:00
-
- ## Johann Wentzel
- - [http://johannwentzel.ca](http://johannwentzel.ca)
- - date_published: 2024-06-29T07:40:16+00:00
-
- ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
- - [http://johncarterofmars.ca](http://johncarterofmars.ca)
- - date_published: 2014-10-20T17:46:50+00:00
-
- ## John Carter of Mars Official Site from Edgar Rice Burroughs, Inc., Tarzana, California
- - [https://www.johncarterofmars.ca](https://www.johncarterofmars.ca)
- - date_published: 2014-10-20T17:46:50+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.johnson.ca](https://www.johnson.ca)
- - date_published: 2024-07-21T08:26:45.914771+00:00
-
- ## JonLuca’s Blog | JonLuca’s Blog - A blog about tech, programming, and finance
- - [https://blog.jonlu.ca](https://blog.jonlu.ca)
- - date_published: 2023-10-25T12:05:18.268067+00:00
-
- ## Sign in - Matomo
- - [https://j.jonlu.ca](https://j.jonlu.ca)
- - date_published: 2024-09-07T23:51:30.984898+00:00
-
- ## WordPress.com
- - [http://jonpeirce.ca](http://jonpeirce.ca)
- - date_published: 2024-07-09T09:52:58.160002+00:00
-
- ## Artwork : Joy Ang
- - [http://joyang.ca](http://joyang.ca)
- - date_published: 2024-10-25T18:44:00.789721+00:00
-
- ## Artwork : Joy Ang
- - [http://www.joyang.ca](http://www.joyang.ca)
- - date_published: 2024-07-14T16:50:55.292227+00:00
-
- ## Jerry Proc's Family of Web Pages
- - [https://jproc.ca](https://jproc.ca)
- - date_published: 2024-04-03T16:14:03+00:00
- - tags: ['personal']
-
- ## James Hawley
- - [https://jrhawley.ca](https://jrhawley.ca)
- - date_published: 2023-10-25T08:42:58.953735+00:00
- - tags: ['personal']
-
- ## Cookbook
- - [https://recipes.jrhawley.ca](https://recipes.jrhawley.ca)
- - date_published: 2024-06-14T03:40:11+00:00
-
- ## Julius Davies
- - [http://juliusdavies.ca](http://juliusdavies.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## this is my blog
- - [https://blog.jurgen.ca](https://blog.jurgen.ca)
- - date_published: 2024-05-06T14:14:47.732618+00:00
-
- ## Welcome to Just Food! - Just Food
- - [https://justfood.ca](https://justfood.ca)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Justin Henry | Instagram, Facebook | Linktree
- - [http://justinhenry.ca](http://justinhenry.ca)
- - date_published: 2021-06-28T00:00:00+00:00
-
- ## https://justinjackson.ca
- - [https://justinjackson.ca](https://justinjackson.ca)
- - date_published: 2023-10-25T09:02:24.126240+00:00
- - tags: ['personal']
-
- ## a simple DNS lookup tool
- - [https://dns-lookup.jvns.ca](https://dns-lookup.jvns.ca)
- - date_published: 2024-05-07T14:33:07.338084+00:00
-
- ## julia's drawings
- - [https://drawings.jvns.ca](https://drawings.jvns.ca)
- - date_published: 2024-06-19T22:50:21.582415+00:00
-
- ## Julia Evans
- - [https://jvns.ca](https://jvns.ca)
- - date_published: 2023-10-25T09:02:41.915700+00:00
- - tags: ['personal']
-
- ## Mastodon
- - [https://social.jvns.ca](https://social.jvns.ca)
- - date_published: 2023-12-22T05:12:37.826236+00:00
 

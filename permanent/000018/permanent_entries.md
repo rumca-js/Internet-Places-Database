@@ -1,3 +1,152 @@
+ ## Spearhead Games
+ - [https://spearheadgames.ca](https://spearheadgames.ca)
+ - date_published: 2024-05-09T08:37:59.515345+00:00
+
+ ## Home - Spicy Riffs Hot Sauce
+ - [https://spicyriffshotsauce.ca](https://spicyriffshotsauce.ca)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Agence Web à Montréal Experte Wordpress et SEO - Spinat
+ - [https://www.spinat.ca](https://www.spinat.ca)
+ - date_published: 2024-10-20T23:31:27.285230+00:00
+
+ ## Spirasolaris
+ - [https://www.spirasolaris.ca](https://www.spirasolaris.ca)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Home - Canadian Spondyloarthritis Association
+ - [https://www.spondylitis.ca](https://www.spondylitis.ca)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## News, Scores and Live Streaming
+ - [https://www.sportsnet.ca](https://www.sportsnet.ca)
+ - date_published: 2024-06-23T13:08:34.037314+00:00
+
+ ## Home | Sportstats
+ - [https://www.sportstats.ca](https://www.sportstats.ca)
+ - date_published: 2024-06-27T13:06:52.532392+00:00
+
+ ## Pet Insurance Plans for Dogs & Cats in Canada Get a free Quote for your Pet | Spot Canada
+ - [https://spotpetinsurance.ca](https://spotpetinsurance.ca)
+ - date_published: 2024-08-11T16:36:12.833281+00:00
+
+ ## My Spreadshirt
+ - [https://my.spreadshirt.ca](https://my.spreadshirt.ca)
+ - date_published: 2024-10-21T08:59:40.943129+00:00
+
+ ## Custom T-Shirts and T-Shirt Printing | Spreadshirt
+ - [https://www.spreadshirt.ca](https://www.spreadshirt.ca)
+ - date_published: 2024-06-18T10:20:03.940471+00:00
+
+ ## Sprinklers in Canada, Canada
+ - [http://www.sprinklers.ca](http://www.sprinklers.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Buy Silver & Gold Bullion Online | Sprott Money Canada
+ - [https://www.sprottmoney.ca](https://www.sprottmoney.ca)
+ - date_published: 2024-10-19T23:57:34.110660+00:00
+
+ ## Sprout Family
+ - [https://sproutfamily.ca](https://sproutfamily.ca)
+ - date_published: 2024-10-16T21:07:05.863712+00:00
+
+ ## SQO – group
+ - [https://sqogroup.ca](https://sqogroup.ca)
+ - date_published: 2024-06-30T23:04:01+00:00
+
+ ## Emanote
+ - [https://emanote.srid.ca](https://emanote.srid.ca)
+ - date_published: 2023-10-25T12:07:25.720455+00:00
+
+ ## Sridhar Ratnakumar
+ - [https://www.srid.ca](https://www.srid.ca)
+ - date_published: 2024-08-06T14:21:05+00:00
+
+ ## Canada's No.1 SSL Certificate Provider with Dedicated Support Team
+ - [https://www.ssltrust.ca](https://www.ssltrust.ca)
+ - date_published: 2024-06-16T08:31:41.489264+00:00
+
+ ## ST. STEPHEN'S UNIVERSITY  |  A graduate school of theology, peace and reconciliation
+ - [https://www.ssu.ca](https://www.ssu.ca)
+ - date_published: 2024-10-19T10:46:31.775518+00:00
+
+ ## Digital Money Infrastructure for the Next Billion Users
+ - [https://www.stablecorp.ca](https://www.stablecorp.ca)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Stagecoach Performing Arts Canada - Acting, Dancing and Singing Classes for Kids
+ - [http://www.stagecoachschools.ca](http://www.stagecoachschools.ca)
+ - date_published: 2024-10-21T07:57:46.032801+00:00
+
+ ## St. Albert Local News
+ - [https://www.stalberttoday.ca](https://www.stalberttoday.ca)
+ - date_published: 2024-08-08T19:10:35+00:00
+
+ ## Stallion Express - Canada's #1 eCommerce Shipping Service
+ - [https://stallionexpress.ca](https://stallionexpress.ca)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Stance | Socks, Underwear & Apparel | Shop Now
+ - [https://www.stance.ca](https://www.stance.ca)
+ - date_published: 2024-08-17T23:12:56.541327+00:00
+
+ ## Agence marketing, Web et de design à Sherbrooke | Standish
+ - [https://www.standish.ca](https://www.standish.ca)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.staples.ca](https://www.staples.ca)
+ - date_published: 2024-08-05T21:54:56.390589+00:00
+
+ ## Starbucks®
+ - [https://app.starbucks.ca](https://app.starbucks.ca)
+ - date_published: 2024-06-16T10:54:08.039100+00:00
+
+ ## Starbucks Help - Starbucks Portal
+ - [https://customerservice.starbucks.ca](https://customerservice.starbucks.ca)
+ - date_published: 2024-10-02T11:36:48.536244+00:00
+
+ ## Starbucks Coffee Company
+ - [https://fr.starbucks.ca](https://fr.starbucks.ca)
+ - date_published: 2024-06-16T10:54:38.076488+00:00
+
+ ## Credit or Debit Card Details
+ - [https://securepaymentform.starbucks.ca](https://securepaymentform.starbucks.ca)
+ - date_published: 2024-07-29T17:15:24+00:00
+
+ ## Starbucks Help - Starbucks Portal
+ - [https://serviceclientele.starbucks.ca](https://serviceclientele.starbucks.ca)
+ - date_published: 2024-10-02T11:44:06.809613+00:00
+
+ ## Starbucks Coffee Company
+ - [https://starbucks.ca](https://starbucks.ca)
+ - date_published: 2024-10-02T11:44:04.117070+00:00
+
+ ## : : : Welcome to stargrunt.ca! : : :
+ - [http://www.stargrunt.ca](http://www.stargrunt.ca)
+ - date_published: 2006-03-20T08:23:44+00:00
+
+ ## Canadian Starmaker Fund
+ - [https://www.starmaker.ca](https://www.starmaker.ca)
+ - date_published: 2024-09-11T16:22:42+00:00
+
+ ## STARS Lab | Space and Terrestrial Autonomous Robotic Systems Lab at the University of Toronto
+ - [http://www.starslab.ca](http://www.starslab.ca)
+ - date_published: 2024-06-22T11:42:02.956904+00:00
+
+ ## Shop the Toronto Star Store | StarStore
+ - [https://starstore.ca](https://starstore.ca)
+ - date_published: 2024-06-23T13:34:47.418957+00:00
+
+ ## Learn about the project
+ - [https://www.statlewdistrict.ca](https://www.statlewdistrict.ca)
+ - date_published: 2024-07-15T06:10:33.188443+00:00
+
+ ## Adrian Unger — Staydecent
+ - [https://staydecent.ca](https://staydecent.ca)
+ - date_published: 2023-11-29T14:42:31.811010+00:00
+ - tags: ['personal']
+
  ## St. Clement's Anglican Church
  - [https://www.stclementschurch.ca](https://www.stclementschurch.ca)
  - date_published: 2024-08-18T09:51:05.208905+00:00
@@ -3663,6 +3812,10 @@
  - [http://www.warbard.ca](http://www.warbard.ca)
  - date_published: 2024-07-20T06:20:26.462004+00:00
 
+ ## WarGamer Eric's Hobby and Gaming Emporium
+ - [https://wargamer-eric.ca](https://wargamer-eric.ca)
+ - date_published: 2024-10-26T17:56:11.387137+00:00
+
  ## Warner Music Canada Online Store
  - [https://store.warnermusic.ca](https://store.warnermusic.ca)
  - date_published: 2024-05-13T03:42:21.998285+00:00
@@ -3866,156 +4019,4 @@
  ## Physics & Computer Science
  - [https://bohr.wlu.ca](https://bohr.wlu.ca)
  - date_published: 2022-06-25T00:00:00+00:00
-
- ## Physics & Computer Science
- - [http://cri.wlu.ca](http://cri.wlu.ca)
- - date_published: 2022-06-25T00:00:00+00:00
-
- ## ICWIP 2014
- - [http://icwip2014.wlu.ca](http://icwip2014.wlu.ca)
- - date_published: 2016-10-16T17:33:00+00:00
-
- ## Laurier Photonics
- - [http://photonics.wlu.ca](http://photonics.wlu.ca)
- - date_published: 2024-07-14T16:24:54.997185+00:00
-
- ## Students Homepage
- - [https://students.wlu.ca](https://students.wlu.ca)
- - date_published: 2024-07-14T16:24:34.786268+00:00
-
- ## Theory Canada 9 - HOME
- - [http://theorycanada9.wlu.ca](http://theorycanada9.wlu.ca)
- - date_published: 2016-08-25T16:49:50+00:00
-
- ## Wilfrid Laurier University
- - [https://www.wlu.ca](https://www.wlu.ca)
- - date_published: 2024-07-14T16:24:49.840706+00:00
-
- ## Western Manufacturing Technology Show
- - [https://wmts.ca](https://wmts.ca)
- - date_published: 2024-09-13T19:39:56.720114+00:00
-
- ## GEMS Vancouver
- - [https://www.womeninfilm.ca](https://www.womeninfilm.ca)
- - date_published: 2024-08-18T09:50:45.667675+00:00
-
- ## Women in Renewable Energy WiRE
- - [https://www.womeninrenewableenergy.ca](https://www.womeninrenewableenergy.ca)
- - date_published: 2024-06-19T18:25:30.574452+00:00
-
- ## Women of Influence –
- - [https://womenofinfluence.ca](https://womenofinfluence.ca)
- - date_published: 2023-10-25T12:09:32.572588+00:00
-
- ## Women’s College Hospital
- - [http://www.womenscollegehospital.ca](http://www.womenscollegehospital.ca)
- - date_published: 2024-07-21T08:23:23.736741+00:00
-
- ## Wonder Pens: Fountain Pens, Inks, and Paper Store in Toronto, Canada.
- - [https://wonderpens.ca](https://wonderpens.ca)
- - date_published: 2024-06-16T07:32:13.214727+00:00
-
- ## Woodworking for engineers
- - [https://woodgears.ca](https://woodgears.ca)
- - date_published: 2024-05-04T13:33:37.189470+00:00
-
- ## WOODSGOOD - The premier site on the net for Ottawa-based Custom Woodworking
- - [https://woodsgood.ca](https://woodsgood.ca)
- - date_published: 2014-09-29T19:42:53+00:00
-
- ## Find Jobs | WorkBC
- - [https://api-jobboard.workbc.ca](https://api-jobboard.workbc.ca)
- - date_published: 2024-08-11T07:43:25.054355+00:00
-
- ## Home | WorkBC
- - [https://www.workbc.ca](https://www.workbc.ca)
- - date_published: 2024-08-11T07:43:20.044091+00:00
-
- ## PEI Job Postings
- - [https://workpei.ca](https://workpei.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## wozniak.ca
- - [https://wozniak.ca](https://wozniak.ca)
- - date_published: 2024-01-03T04:13:05.405674+00:00
-
- ## Portal Home - WPCloud.ca
- - [https://support.wpcloud.ca](https://support.wpcloud.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Analytics by WP Expert
- - [https://stats.wpexpert.ca](https://stats.wpexpert.ca)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Your #1 WordPress Expert in Canada | WP Expert
- - [https://wpexpert.ca](https://wpexpert.ca)
- - date_published: 2024-01-13T18:26:09.369871+00:00
-
- ## Mount Royal Write Club
- - [https://writeclub.ca](https://writeclub.ca)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## WWF Canada
- - [https://fundraisers.wwf.ca](https://fundraisers.wwf.ca)
- - date_published: 2024-07-03T02:40:23.052281+00:00
-
- ## Home - World Wildlife Fund Canada
- - [https://legacy.wwf.ca](https://legacy.wwf.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## re:grow | WWF-Canada
- - [https://regrow.wwf.ca](https://regrow.wwf.ca)
- - date_published: 2024-07-03T02:40:24.763204+00:00
-
- ## Symbolically Adopt a Species
- - [https://shop.wwf.ca](https://shop.wwf.ca)
- - date_published: 2024-07-03T02:40:51.213652+00:00
-
- ## WWF Living Planet Technology Hub – Where technology meets nature
- - [https://techhub.wwf.ca](https://techhub.wwf.ca)
- - date_published: 2019-08-30T00:00:00+00:00
-
- ## World Wildlife Fund Canada | WWF.ca
- - [https://wwf.ca](https://wwf.ca)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Waterloo Wellington Science and Engineering Fair – WWSEF
- - [https://wwsef.ca](https://wwsef.ca)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## X92.9 - Calgary's Alternative
- - [https://www.x929.ca](https://www.x929.ca)
- - date_published: 2024-06-27T12:52:54+00:00
-
- ## Shop Xerox Canada - Buy Printers, All-in-One Printers, Supplies
- - [https://www.shop.xerox.ca](https://www.shop.xerox.ca)
- - date_published: 2024-06-27T16:17:03.661085+00:00
-
- ## Multifunction laser printers, business services and printer supplies - Xerox Canada
- - [https://www.xerox.ca](https://www.xerox.ca)
- - date_published: 2024-06-27T16:16:07.477881+00:00
-
- ## Yahoo is part of the Yahoo family of brands
- - [https://yahoo.ca](https://yahoo.ca)
- - date_published: 2024-07-11T12:26:40.439534+00:00
-
- ## Home Page - Yellow Cedar
- - [https://www.yellowcedar.ca](https://www.yellowcedar.ca)
- - date_published: 2024-06-16T21:38:39.004375+00:00
-
- ## Yelp
- - [https://fr.m.yelp.ca](https://fr.m.yelp.ca)
- - date_published: 2024-07-01T06:59:39.407708+00:00
-
- ## Yelp
- - [https://fr.yelp.ca](https://fr.yelp.ca)
- - date_published: 2024-07-01T06:59:34.892880+00:00
-
- ## Yelp
- - [https://m.yelp.ca](https://m.yelp.ca)
- - date_published: 2024-07-20T21:57:04.302924+00:00
-
- ## Yelp
- - [https://yelp.ca](https://yelp.ca)
- - date_published: 2024-07-20T21:56:59.176223+00:00
 

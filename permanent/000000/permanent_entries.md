@@ -1638,6 +1638,10 @@
  - [https://techpoint.africa](https://techpoint.africa)
  - date_published: 2024-01-31T12:28:06+00:00
 
+ ## TerraVia
+ - [https://cloud.terravia.africa](https://cloud.terravia.africa)
+ - date_published: 2024-10-26T14:07:14.719753+00:00
+
  ## UMG Africa | Online Store
  - [https://umg.africa](https://umg.africa)
  - date_published: 2024-07-17T11:10:06.845556+00:00
@@ -4019,8 +4023,4 @@ Welcome
  ## Columns: your AI data storyteller
  - [https://columns.ai](https://columns.ai)
  - date_published: 2024-05-19T10:43:43.079647+00:00
-
- ## CoMaker.ai - Your AI-powered content creation partner
- - [https://www.comaker.ai](https://www.comaker.ai)
- - date_published: 2024-06-19T19:35:25.590107+00:00
 

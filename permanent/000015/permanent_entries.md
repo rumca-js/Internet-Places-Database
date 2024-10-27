@@ -1,3 +1,91 @@
+ ## Porta Lá Fricas – Blog das Irmãs Frica
+ - [http://www.portalafricas.com.br](http://www.portalafricas.com.br)
+ - date_published: 2024-08-12T04:29:39.190379+00:00
+
+ ## Aliança | e-Commerce
+ - [https://www.portalcabotagem.com.br](https://www.portalcabotagem.com.br)
+ - date_published: 2024-05-27T17:22:50+00:00
+
+ ## Interativa TV
+ - [https://portalwebtv.com.br](https://portalwebtv.com.br)
+ - date_published: 2022-01-19T14:57:07+00:00
+
+ ## Política de Privacidade e Cookies
+ - [https://privacidade.positivotecnologia.com.br](https://privacidade.positivotecnologia.com.br)
+ - date_published: 2024-07-04T11:02:17.740205+00:00
+
+ ## Positivo
+ - [https://www.positivotecnologia.com.br](https://www.positivotecnologia.com.br)
+ - date_published: 2024-07-04T11:02:27.311486+00:00
+
+ ## Melhor plataforma de software para afiliados | Post Affiliate Pro
+ - [https://www.postaffiliatepro.com.br](https://www.postaffiliatepro.com.br)
+ - date_published: 2024-10-20T11:07:43.758099+00:00
+
+ ## Início
+ - [https://www.praxair.com.br](https://www.praxair.com.br)
+ - date_published: 2024-07-13T02:16:24.627421+00:00
+
+ ## Portal - Prensa Latina
+ - [https://www.prensalatina.com.br](https://www.prensalatina.com.br)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Privacy Tools
+ - [https://cdn.privacytools.com.br](https://cdn.privacytools.com.br)
+ - date_published: 2024-07-11T20:41:50+00:00
+
+ ## PR Newswire Portugal | Notícias mais recentes
+ - [https://prnewswire.com.br](https://prnewswire.com.br)
+ - date_published: 2024-06-19T09:41:34.609712+00:00
+
+ ## Avançar + Educação Empreendedora
+ - [https://www.programaavancar.com.br](https://www.programaavancar.com.br)
+ - date_published: 2024-06-16T09:15:43.581608+00:00
+
+ ## Bem-vindo(a) ao Projeto ACBr | Automação Comercial Brasil
+ - [https://projetoacbr.com.br](https://projetoacbr.com.br)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## propmark
+ - [https://propmark.com.br](https://propmark.com.br)
+ - date_published: 2024-09-25T15:22:23.147489+00:00
+
+ ## Cursos Técnicos e Profissionalizantes – Proz Educação
+ - [https://prozeducacao.com.br](https://prozeducacao.com.br)
+ - date_published: 2024-06-19T08:26:15.311077+00:00
+
+ ## Publicidade Editora Globo
+ - [https://www.publicidadeeditoraglobo.com.br](https://www.publicidadeeditoraglobo.com.br)
+ - date_published: 2024-06-18T07:13:11.196965+00:00
+
+ ## PythonClub //
+ - [https://pythonclub.com.br](https://pythonclub.com.br)
+ - date_published: 2022-10-17T00:00:00+00:00
+
+ ## Quatro cinco um | a revista dos livros
+ - [https://quatrocincoum.com.br](https://quatrocincoum.com.br)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Teste Vocacional - Grátis e Online - Que Curso?
+ - [https://app.quecurso.com.br](https://app.quecurso.com.br)
+ - date_published: 2024-10-11T13:02:13.410597+00:00
+
+ ## quenerd.com.br
+ - [http://www.quenerd.com.br](http://www.quenerd.com.br)
+ - date_published: 2024-06-20T04:01:25.213290+00:00
+
+ ## Quinta dos Maias
+ - [https://quintadosmaias.com.br](https://quintadosmaias.com.br)
+ - date_published: 2024-07-03T23:18:26.602377+00:00
+
+ ## Abra as portas para um novo morar - QuintoAndar
+ - [https://www.quintoandar.com.br](https://www.quintoandar.com.br)
+ - date_published: 2024-06-19T08:24:18.727648+00:00
+
+ ## Home | Rádio Disney Brasil FM 91.3
+ - [https://radiodisney.com.br](https://radiodisney.com.br)
+ - date_published: 2024-06-16T02:24:55.170891+00:00
+
  ## Rádio Mix FM
  - [https://radiomixfm.com.br](https://radiomixfm.com.br)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3295,6 +3383,10 @@
  - [http://www.agents.ca](http://www.agents.ca)
  - date_published: 2024-06-03T00:00:00+00:00
 
+ ## Ages Three And Up Canada - Toys, Hobbies and Collectibles
+ - [https://www.agesthreeandup.ca](https://www.agesthreeandup.ca)
+ - date_published: 2024-10-26T05:31:01.188699+00:00
+
  ## Agriculture GPS without subscriptions. Affordable & accurate!
  - [https://aggps.ca](https://aggps.ca)
  - date_published: 2024-07-22T00:00:00+00:00
@@ -3918,101 +4010,4 @@
  ## Home - Bella Coola Harbour Authority
  - [https://bellacoolaharbour.ca](https://bellacoolaharbour.ca)
  - date_published: 2024-07-13T16:45:25+00:00
-
- ## The Belle Jar
- - [http://bellejar.ca](http://bellejar.ca)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Bell Media Account
- - [https://account.bellmedia.ca](https://account.bellmedia.ca)
- - date_published: 2023-12-12T09:04:24.261526+00:00
-
- ## https://recodata.shared-svc.bellmedia.ca
- - [https://recodata.shared-svc.bellmedia.ca](https://recodata.shared-svc.bellmedia.ca)
- - date_published: 2023-12-12T08:41:51.384990+00:00
-
- ## Home
- - [https://www.bellmedia.ca](https://www.bellmedia.ca)
- - date_published: 2023-12-12T08:43:45.676684+00:00
-
- ## Benjamin Rancourt
- - [https://benjaminrancourt.ca](https://benjaminrancourt.ca)
- - date_published: 2023-04-11T00:00:00+00:00
-
- ## My mostly tech blog
- - [https://blog.benoitj.ca](https://blog.benoitj.ca)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Java Decompiler
- - [http://jd.benow.ca](http://jd.benow.ca)
- - date_published: 2019-12-25T14:57:06+00:00
- - tags: ['java', 'reverse engineering', 'java decompiler']
-
- ## benui mastodon instance
- - [https://m.benui.ca](https://m.benui.ca)
- - date_published: 2024-05-08T12:34:33.090302+00:00
-
- ## benv.ca • Ben Vinegar
- - [https://benv.ca](https://benv.ca)
- - date_published: 2024-06-22T22:29:46.909708+00:00
-
- ## Everything you need to preserve food in jars
- - [https://www.bernardin.ca](https://www.bernardin.ca)
- - date_published: 2024-05-07T15:16:11.669481+00:00
-
- ## The Berry Barn | Restaurant, Greenhouse, Bakery, Gift Shop and more!
- - [https://www.berrybarn.ca](https://www.berrybarn.ca)
- - date_published: 2024-06-23T06:27:28.198233+00:00
-
- ## Homepage
- - [https://blog.bestbuy.ca](https://blog.bestbuy.ca)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Homepage
- - [https://blogue.bestbuy.ca](https://blogue.bestbuy.ca)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## React App
- - [https://remotesupport.bestbuy.ca](https://remotesupport.bestbuy.ca)
- - date_published: 2024-05-29T01:13:01.654814+00:00
-
- ## All Best Buy Store Locations In Canada | Best Buy Canada
- - [https://stores.bestbuy.ca](https://stores.bestbuy.ca)
- - date_published: 2024-09-02T16:13:32.626310+00:00
-
- ## Best Buy: Shop Online For Deals & Save | Best Buy Canada
- - [https://bestbuy.ca](https://bestbuy.ca)
- - date_published: 2024-02-23T22:51:25.927722+00:00
- - tags: ['shop']
-
- ## Best Online Gambling Sites in Canada 2024 - Expert Reviews
- - [https://bestcasinoplay.ca](https://bestcasinoplay.ca)
- - date_published: 2024-05-04T09:25:52.624612+00:00
- - tags: ['gambling']
-
- ## Medieval Bestiary : Animals in the Middle Ages
- - [https://bestiary.ca](https://bestiary.ca)
- - date_published: 2023-10-25T12:03:35.908634+00:00
- - tags: ['animals', 'history', 'medieval', 'bestiary']
-
- ## Best of France | Bring France into your life
- - [https://shop.bestoffrance.ca](https://shop.bestoffrance.ca)
- - date_published: 2024-08-08T20:05:30.772619+00:00
-
- ## Best of France | Experience True France
- - [https://bestoffrance.ca](https://bestoffrance.ca)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## ELIZABETH ADAMS / STUDIO CASSANDRA - Elizabeth Adams Studio Cassandra
- - [http://bethadams.ca](http://bethadams.ca)
- - date_published: 2024-05-22T18:24:48.240436+00:00
- - tags: ['personal']
-
- ## Welcome to British Isles Family History Society of Ottawa
- - [https://www.bifhsgo.ca](https://www.bifhsgo.ca)
- - date_published: 2024-06-22T14:20:04+00:00
-
- ## Biggle Canadian Souvenirs
- - [http://biggle.ca](http://biggle.ca)
- - date_published: 2024-03-25T00:00:00+00:00
 
