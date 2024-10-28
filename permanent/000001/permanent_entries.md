@@ -1,3 +1,31 @@
+ ## CoinScreener
+ - [https://www.coinscreener.ai](https://www.coinscreener.ai)
+ - date_published: 2024-06-19T19:41:07.507107+00:00
+
+ ## CoInvent AI
+ - [https://coinvent.ai](https://coinvent.ai)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Colibri.ai - AI Meeting Notes & Conversation Intelligence
+ - [https://colibri.ai](https://colibri.ai)
+ - date_published: 2024-06-19T20:56:52.046703+00:00
+
+ ## Collie | One-Click Application Search
+ - [https://collie.ai](https://collie.ai)
+ - date_published: 2023-10-25T11:37:32.730245+00:00
+
+ ## Colorify
+ - [https://www.colorify.ai](https://www.colorify.ai)
+ - date_published: 2024-06-19T20:34:57.964300+00:00
+
+ ## Color Pop - Fun Coloring Games
+ - [https://app.colorpop.ai](https://app.colorpop.ai)
+ - date_published: 2024-06-19T19:11:23.481690+00:00
+
+ ## Columns: your AI data storyteller
+ - [https://columns.ai](https://columns.ai)
+ - date_published: 2024-05-19T10:43:43.079647+00:00
+
  ## CoMaker.ai - Your AI-powered content creation partner
  - [https://www.comaker.ai](https://www.comaker.ai)
  - date_published: 2024-06-19T19:35:25.590107+00:00
@@ -138,9 +166,17 @@
  - [https://coolgpts.ai](https://coolgpts.ai)
  - date_published: 2023-11-21T21:11:42+00:00
 
+ ## What is CopilotKit?
+ - [https://docs.copilotkit.ai](https://docs.copilotkit.ai)
+ - date_published: 2024-10-28T00:20:31.743765+00:00
+
  ## GO.COPILOTKIT.AI - A Dub.co Custom Domain
  - [https://go.copilotkit.ai](https://go.copilotkit.ai)
  - date_published: 2024-10-25T16:22:31.808114+00:00
+
+ ## CopilotKit - Build Copilots 10x Faster
+ - [https://www.copilotkit.ai](https://www.copilotkit.ai)
+ - date_published: 2024-10-26T12:31:49+00:00
 
  ## copy.ai
  - [https://app.copy.ai](https://app.copy.ai)
@@ -616,6 +652,10 @@
  - [https://www.deeproute.ai](https://www.deeproute.ai)
  - date_published: 2024-08-18T14:11:30.096111+00:00
 
+ ## deepset Cloud Overview
+ - [https://docs.cloud.deepset.ai](https://docs.cloud.deepset.ai)
+ - date_published: 2024-10-28T00:15:23.631926+00:00
+
  ## Haystack Introduction
  - [https://docs.haystack.deepset.ai](https://docs.haystack.deepset.ai)
  - date_published: 2024-02-20T00:00:00+00:00
@@ -983,6 +1023,10 @@
  ## Ecomtent: AI Optimize Product Content Across Ecommerce Channels
  - [https://www.ecomtent.ai](https://www.ecomtent.ai)
  - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Kubernetes-native IoT and Edge AI Solutions
+ - [https://edgenesis.ai](https://edgenesis.ai)
+ - date_published: 2024-10-25T06:28:56+00:00
 
  ## Edit Anything | fal-serverless
  - [http://editanything.ai](http://editanything.ai)
@@ -1376,6 +1420,10 @@
  - [https://farley.ai](https://farley.ai)
  - date_published: 2023-12-16T04:39:04.636256+00:00
 
+ ## Engineering productivity metrics and intelligence - Faros AI
+ - [https://go.faros.ai](https://go.faros.ai)
+ - date_published: 2024-10-27T23:18:51.835841+00:00
+
  ## Faros AI | The AI-Native Engineering Intelligence Platform | A single pane view across velocity, quality, goals, and more!
  - [https://www.faros.ai](https://www.faros.ai)
  - date_published: 2024-06-19T04:45:26.258140+00:00
@@ -1427,6 +1475,10 @@
  ## Submissions - FastBots Roadmap
  - [https://roadmap.fastbots.ai](https://roadmap.fastbots.ai)
  - date_published: 2024-09-14T08:02:33.618270+00:00
+
+ ## Fastmind - Instant AI Chatbot for your website
+ - [https://fastmind.ai](https://fastmind.ai)
+ - date_published: 2024-10-27T22:55:28.091951+00:00
 
  ## Show HN: Real-time image generation with SDXL Lightning
  - [https://fastsdxl.ai](https://fastsdxl.ai)
@@ -1852,6 +1904,10 @@
  ## AI Powered Cloud DLP for SaaS
  - [https://gamma.ai](https://gamma.ai)
  - date_published: 2022-04-28T17:58:27+00:00
+
+ ## Welcome to garak! | garak
+ - [https://docs.garak.ai](https://docs.garak.ai)
+ - date_published: 2024-10-28T00:16:48.378531+00:00
 
  ## Gatik
  - [http://www.gatik.ai](http://www.gatik.ai)
@@ -2713,6 +2769,10 @@
  - [https://fc11.ifca.ai](https://fc11.ifca.ai)
  - date_published: 2024-05-06T15:12:42.430968+00:00
 
+ ## Financial Crypto 2015 -- Home
+ - [http://fc15.ifca.ai](http://fc15.ifca.ai)
+ - date_published: 2024-10-27T12:06:05.380626+00:00
+
  ## FC'16 : Financial Cryptography 2016
  - [https://fc16.ifca.ai](https://fc16.ifca.ai)
  - date_published: 2024-05-02T09:52:19.581294+00:00
@@ -3239,6 +3299,10 @@
  ## boost user growth with  continuous copy testing
  - [https://justwords.ai](https://justwords.ai)
  - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Overview - k8sgpt
+ - [https://docs.k8sgpt.ai](https://docs.k8sgpt.ai)
+ - date_published: 2024-08-16T10:52:13+00:00
 
  ## K8sGPT
  - [https://k8sgpt.ai](https://k8sgpt.ai)
@@ -3948,69 +4012,4 @@
  ## Loman | The 24/7 AI Phone Agent for Restaurants
  - [https://www.loman.ai](https://www.loman.ai)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Long Phan
- - [https://longphan.ai](https://longphan.ai)
- - date_published: 2024-04-12T21:47:00+00:00
-
- ## LongShot: AI Co-Pilot for High-Ranking Factual Content
- - [https://longshot.ai](https://longshot.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Speak English with Loora AI
- - [https://www.loora.ai](https://www.loora.ai)
- - date_published: 2024-06-19T19:19:20.527768+00:00
-
- ## LOSEY AI
- - [https://losey.ai](https://losey.ai)
- - date_published: 2024-09-15T01:47:38+00:00
-
- ## Louis Bouchard
- - [https://www.louisbouchard.ai](https://www.louisbouchard.ai)
- - date_published: 2024-06-20T05:36:42.655581+00:00
-
- ## Ecommerce Stores shouldn't be static | Loup
- - [https://loup.ai](https://loup.ai)
- - date_published: 2024-06-20T21:59:26.009841+00:00
-
- ## AI Voice Generator: Realistic Text to Speech & Voice Cloning
- - [https://lovo.ai](https://lovo.ai)
- - date_published: 2024-06-19T21:38:44.245037+00:00
-
- ## LPCV - Low Power Computer Vision
- - [https://lpcv.ai](https://lpcv.ai)
- - date_published: 2024-07-22T05:42:12.424629+00:00
-
- ## Mario Lucic
- - [https://lucic.ai](https://lucic.ai)
- - date_published: 2024-05-02T07:31:50+00:00
- - tags: ['personal']
-
- ## Stronger Business Insights with AI-Powered Knowledge Management | Lucy
- - [https://www.lucy.ai](https://www.lucy.ai)
- - date_published: 2024-06-19T18:48:11+00:00
-
- ## Create hit games with the power of AI with Ludo
- - [https://ludo.ai](https://ludo.ai)
- - date_published: 2024-06-19T21:11:20.193367+00:00
-
- ## Loading ...
- - [https://www.luis.ai](https://www.luis.ai)
- - date_published: 2024-05-02T12:44:26.847441+00:00
-
- ## Hi, I'm LukeGPT. - Luke Burgis AI
- - [http://www.lukeburgis.ai](http://www.lukeburgis.ai)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Luma AI - Featured Captures
- - [https://captures.lumalabs.ai](https://captures.lumalabs.ai)
- - date_published: 2024-06-19T19:50:02.023641+00:00
-
- ## Luma AI
- - [https://lumalabs.ai](https://lumalabs.ai)
- - date_published: 2023-10-25T11:39:54.133649+00:00
-
- ## Introduction - Documentation
- - [https://docs.lume.ai](https://docs.lume.ai)
- - date_published: 2023-12-06T19:47:41.218118+00:00
 

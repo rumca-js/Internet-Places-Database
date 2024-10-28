@@ -1,3 +1,127 @@
+ ## Öffentliche Schulen, Universitäten & Spezialimmobilien
+ - [https://www.big.at](https://www.big.at)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## BBA 2023 - quintessenz - Big Brother Awards 2023 - The Imitation Game – die vorgetäuschte Intelligenz
+ - [http://bigbrotherawards.at](http://bigbrotherawards.at)
+ - date_published: 2024-07-20T20:45:26.112280+00:00
+
+ ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
+ - [https://www.bigcommerce.at](https://www.bigcommerce.at)
+ - date_published: 2024-07-08T12:40:49.114287+00:00
+
+ ## Bilderbuch Shop
+ - [https://bilderbuch-musik.at](https://bilderbuch-musik.at)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Bioreg
+ - [http://www.bioreg.at](http://www.bioreg.at)
+ - date_published: 2024-06-28T12:06:31.692953+00:00
+
+ ## ICSx⁵
+ - [https://icsx5.bitfire.at](https://icsx5.bitfire.at)
+ - date_published: 2024-06-23T18:42:31+00:00
+
+ ## bitfire web engineering
+ - [https://www.bitfire.at](https://www.bitfire.at)
+ - date_published: 2024-07-14T15:40:30.410573+00:00
+
+ ## Zero Waste Onlineshop - plastikfreie Produkte für deinen Alltag
+ - [https://blattwende.at](https://blattwende.at)
+ - date_published: 2024-06-18T14:30:22.003113+00:00
+
+ ## Blogheim.at | Die Heimat der Österreichischen Blogszene
+ - [https://blogheim.at](https://blogheim.at)
+ - date_published: 2024-05-12T06:40:45.460990+00:00
+
+ ## Blühendes Österreich - Mit der Initiative Blühendes Österreich werden die Erhaltung und die Entwicklung bedrohter Lebensräume gefördert und geschützt.
+ - [http://www.bluehendesoesterreich.at](http://www.bluehendesoesterreich.at)
+ - date_published: 2024-09-13T16:21:04.804214+00:00
+
+ ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
+ - [https://www.blueshield.at](https://www.blueshield.at)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home
+ - [https://www.bodendirect.at](https://www.bodendirect.at)
+ - date_published: 2024-10-21T01:55:49.035264+00:00
+
+ ## eBOD2
+ - [https://bodenkarte.at](https://bodenkarte.at)
+ - date_published: 2023-12-06T20:56:47+00:00
+
+ ## Kartenansicht mit österreichweiten Grundstückspreisen auf einen Blick - bodenpreise.at
+ - [https://www.bodenpreise.at](https://www.bodenpreise.at)
+ - date_published: 2024-09-13T16:21:35.000950+00:00
+
+ ## Books in the Fridge
+ - [https://booksinthefridge.at](https://booksinthefridge.at)
+ - date_published: 2024-05-11T07:10:21.648548+00:00
+
+ ## Home
+ - [http://www.bosch.at](http://www.bosch.at)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
+ - [https://www.bosch-home.at](https://www.bosch-home.at)
+ - date_published: 2024-06-16T21:35:40.384152+00:00
+
+ ## Brother Online
+ - [https://atyourside.brother.at](https://atyourside.brother.at)
+ - date_published: 2024-06-17T21:03:52.172392+00:00
+
+ ## Brother Online Store
+ - [https://store.brother.at](https://store.brother.at)
+ - date_published: 2024-06-18T06:02:57.675637+00:00
+
+ ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
+ - [https://www.brother.at](https://www.brother.at)
+ - date_published: 2024-05-02T11:36:03.685174+00:00
+
+ ## brunnmeister.atwebsite in der Warteschleife
+ - [https://brunnmeister.at](https://brunnmeister.at)
+ - date_published: 2024-07-18T06:13:34.489383+00:00
+
+ ## IKT-Sicherheitskonferenz
+ - [https://seminar.bundesheer.at](https://seminar.bundesheer.at)
+ - date_published: 2024-07-13T09:03:44.822283+00:00
+
+ ## Business-austria.at presented by Marktplatz-Mittelstand.de
+ - [http://www.business-austria.at](http://www.business-austria.at)
+ - date_published: 2022-03-07T13:50:57+00:00
+
+ ## frontpage - BVZ.at
+ - [http://www.bvz.at](http://www.bvz.at)
+ - date_published: 2024-07-20T15:05:32+00:00
+
+ ## Home of the Hitmen
+ - [http://hitmen.c02.at](http://hitmen.c02.at)
+ - date_published: 2023-09-12T06:27:47+00:00
+
+ ## Chaos Computer Club Wien (C3W)
+ - [https://c3w.at](https://c3w.at)
+ - date_published: 2024-06-03T13:19:48+00:00
+
+ ## CryptPad: end-to-end encrypted collaboration suite
+ - [https://pads.c3w.at](https://pads.c3w.at)
+ - date_published: 2023-12-22T22:13:19+00:00
+
+ ## Home
+ - [https://camera-austria.at](https://camera-austria.at)
+ - date_published: 2024-09-20T09:08:06+00:00
+
+ ## Unternehmensberatung für Change- und Prozessmanagement
+ - [https://www.camillo-patzl.at](https://www.camillo-patzl.at)
+ - date_published: 2024-08-18T11:33:53.498279+00:00
+
+ ## Großartige Serien und Filme einfach online streamen  | CANAL+
+ - [https://www.canalplus.at](https://www.canalplus.at)
+ - date_published: 2024-06-25T21:53:17.146486+00:00
+
+ ## Capitalist Exploits – Global Investment Research
+ - [https://capitalistexploits.at](https://capitalistexploits.at)
+ - date_published: 2024-03-03T00:00:00+00:00
+
  ## Mit Capterra die richtige Software für dein Unternehmen finden
  - [https://www.capterra.at](https://www.capterra.at)
  - date_published: 2024-07-20T19:26:22.512731+00:00
@@ -966,9 +1090,17 @@
  - date_published: 2024-10-18T20:18:38.445055+00:00
 
  ## Heute
+ - [https://epaper.heute.at](https://epaper.heute.at)
+ - date_published: 2024-10-27T12:13:33.762970+00:00
+
+ ## Heute
  - [https://heute.at](https://heute.at)
  - date_published: 2024-10-26T20:42:16+00:00
  - tags: ['news']
+
+ ## Heute-Jobs: Deine Jobbörse für Jobs in Österreich
+ - [https://jobs.heute.at](https://jobs.heute.at)
+ - date_published: 2024-10-27T12:13:48.456249+00:00
 
  ## Kunst Galerie HAAS & GSCHWANDTNER in Salzburg
  - [https://www.hg-art.at](https://www.hg-art.at)
@@ -3882,136 +4014,4 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Wiener Neustadt
  - [http://www.wiener-neustadt.gv.at](http://www.wiener-neustadt.gv.at)
  - date_published: 2024-06-30T11:17:55.587996+00:00
-
- ## @||@
- - [https://at.or.at](https://at.or.at)
- - date_published: 2021-03-09T21:09:20+00:00
-
- ## BIZEPS - Nachrichten zum Thema Behinderung
- - [https://bizeps.or.at](https://bizeps.or.at)
- - date_published: 2024-10-22T11:31:24.879013+00:00
-
- ## Home
- - [http://www.ifip.or.at](http://www.ifip.or.at)
- - date_published: 2024-08-18T17:59:12+00:00
-
- ## Soundmachines   » magical sound machines
- - [http://klangmaschinen.ima.or.at](http://klangmaschinen.ima.or.at)
- - date_published: 2024-06-30T07:41:37.748670+00:00
-
- ## $OG_TITLE
- - [https://zara.or.at](https://zara.or.at)
- - date_published: 2024-10-22T11:29:25.539960+00:00
-
- ## Estate Planning, Business, and Firearms Attorney - Law Office of Gary B. Wells, PLLC
- - [http://firearmslaw.attorney](http://firearmslaw.attorney)
- - date_published: 2024-07-03T23:59:49.212897+00:00
-
- ## South Australia
- - [https://adasa.asn.au](https://adasa.asn.au)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Australian Friends of Tel Aviv University – Australian Friends of Tel Aviv University
- - [https://aftau.asn.au](https://aftau.asn.au)
- - date_published: 2024-08-15T23:30:59+00:00
-
- ## AGA Home
- - [https://www.aga.asn.au](https://www.aga.asn.au)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://aist.asn.au](https://aist.asn.au)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Australian Seed Federation (ASF)
- - [http://www.asf.asn.au](http://www.asf.asn.au)
- - date_published: 2024-08-12T00:03:22.274161+00:00
-
- ## The leading voice in nutrition and dietetics | Dietitians Australia
- - [http://daa.asn.au](http://daa.asn.au)
- - date_published: 2024-08-06T06:21:15+00:00
-
- ## The Friends of the Heysen Trail
- - [http://www.heysentrail.asn.au](http://www.heysentrail.asn.au)
- - date_published: 2024-09-16T21:40:02.473219+00:00
-
- ## Home  | LAWASIA
- - [https://lawasia.asn.au](https://lawasia.asn.au)
- - date_published: 2024-06-05T07:16:04.326928+00:00
-
- ## Planet Linux Australia
- - [https://planet.luv.asn.au](https://planet.luv.asn.au)
- - date_published: 2024-06-30T21:01:52+00:00
-
- ## Home
- - [http://www.parkour.asn.au](http://www.parkour.asn.au)
- - date_published: 2024-07-15T02:25:34.591992+00:00
-
- ## Perth Basketball Association - Home of the Perth Redbacks
- - [https://perthredbacks.asn.au](https://perthredbacks.asn.au)
- - date_published: 2020-01-02T07:55:31+00:00
-
- ## Home
- - [https://www.rca.asn.au](https://www.rca.asn.au)
- - date_published: 2024-09-11T02:17:13+00:00
-
- ## Royal South Australia Regiment Association Inc | Info for members and potential members of RSARA
- - [http://rsara.asn.au](http://rsara.asn.au)
- - date_published: 2024-07-03T16:42:37.611606+00:00
-
- ## Surface Mount & Circuit Board Association Ltd  - smcba
- - [https://smcba.asn.au](https://smcba.asn.au)
- - date_published: 2024-06-17T01:06:40+00:00
-
- ## Surface Mount & Circuit Board Association Ltd  - smcba
- - [http://www.smcba.asn.au](http://www.smcba.asn.au)
- - date_published: 2024-06-17T01:06:32+00:00
-
- ## Planet UCC
- - [https://planet.ucc.asn.au](https://planet.ucc.asn.au)
- - date_published: 2019-05-14T04:18:55+00:00
-
- ## 4o4
- - [https://4o4.au](https://4o4.au)
- - date_published: 2023-12-28T10:11:01+00:00
-
- ## Show HN: Send me an IRL message and watch it arrive
- - [https://hi.benren.au](https://hi.benren.au)
- - date_published: 2023-11-11T21:30:48+00:00
-
- ## Broker Daily
- - [https://www.brokerdaily.au](https://www.brokerdaily.au)
- - date_published: 2024-10-23T06:29:11.596626+00:00
-
- ## cactus.au - Ta strona jest na sprzedaż! - Cactus Zasoby i informacje.
- - [https://cactus.au](https://cactus.au)
- - date_published: 2024-07-09T08:40:03+00:00
-
- ## catboy.au
- - [https://catboy.au](https://catboy.au)
- - date_published: 2024-04-05T04:19:32+00:00
-
- ## Home
- - [https://blog.csiro.au](https://blog.csiro.au)
- - date_published: 2024-10-16T06:49:36.503014+00:00
-
- ## Home - CSIRO PUBLISHING
- - [https://blog.publish.csiro.au](https://blog.publish.csiro.au)
- - date_published: 2024-09-04T15:31:23.991125+00:00
-
- ## Technology and space
- - [https://data61.csiro.au](https://data61.csiro.au)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Upcoming events - CSIRO
- - [https://events.csiro.au](https://events.csiro.au)
- - date_published: 2024-06-12T06:03:52.365428+00:00
-
- ## Jobs at CSIRO
- - [https://jobs.csiro.au](https://jobs.csiro.au)
- - date_published: 2024-08-18T13:22:48.701252+00:00
-
- ## ATNF Online Proposal Applications & Links
- - [https://opal.atnf.csiro.au](https://opal.atnf.csiro.au)
- - date_published: 2024-10-16T06:49:27.717040+00:00
 

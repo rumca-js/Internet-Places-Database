@@ -1,3 +1,95 @@
+ ## Party
+ - [https://www.partybid.app](https://www.partybid.app)
+ - date_published: 2024-09-25T11:22:18.994162+00:00
+
+ ## Pashword - Passwords Done Right
+ - [https://pashword.app](https://pashword.app)
+ - date_published: 2023-10-25T11:48:14.672231+00:00
+
+ ## pass Culture
+ - [https://passculture.app](https://passculture.app)
+ - date_published: 2024-07-02T15:06:25+00:00
+
+ ## Passepartout
+ - [https://passepartoutvpn.app](https://passepartoutvpn.app)
+ - date_published: 2024-06-27T08:41:19+00:00
+
+ ## Pastefy
+ - [https://pastefy.app](https://pastefy.app)
+ - date_published: 2024-06-19T22:11:11.043087+00:00
+
+ ## iPad用お絵描きアプリ「Pastela（パステラ）」
+ - [https://pastela.app](https://pastela.app)
+ - date_published: 2024-10-25T12:37:40.333593+00:00
+
+ ## Patterns Data Systems
+ - [https://patterns.app](https://patterns.app)
+ - date_published: 2023-10-25T11:48:16.898136+00:00
+
+ ## Patterns
+ - [https://studio.patterns.app](https://studio.patterns.app)
+ - date_published: 2024-08-19T11:38:44.873026+00:00
+
+ ## Pausly | Start Moving, Stay Healthy
+ - [https://pausly.app](https://pausly.app)
+ - date_published: 2023-10-25T11:48:20.993460+00:00
+
+ ## Earn effortlessly with the ultimate passive income app - Pawns
+ - [https://pawns.app](https://pawns.app)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Everything About printed Circuit Board Assembly
+ - [http://pcba.app](http://pcba.app)
+ - date_published: 2024-07-04T08:51:12.182255+00:00
+
+ ## PDF7 Online Tools | Free, Easy, and Quick Online PDF tools
+ - [https://pdf7.app](https://pdf7.app)
+ - date_published: 2024-07-16T18:01:08.544809+00:00
+
+ ## Penbook Dev Log | Substack
+ - [https://blog.penbook.app](https://blog.penbook.app)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Penpot Community
+ - [https://community.penpot.app](https://community.penpot.app)
+ - date_published: 2023-10-25T11:48:23.758030+00:00
+
+ ## Penpot | Design Freedom for Teams
+ - [https://design.penpot.app](https://design.penpot.app)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Help center
+ - [https://help.penpot.app](https://help.penpot.app)
+ - date_published: 2024-08-06T09:44:43+00:00
+
+ ## Penpot | Free Open-Source Design & Prototyping For Teams
+ - [https://penpot.app](https://penpot.app)
+ - date_published: 2023-10-25T11:48:26.974951+00:00
+
+ ## PeopleAI
+ - [https://peopleai.app](https://peopleai.app)
+ - date_published: 2024-09-07T23:49:15.815453+00:00
+
+ ## Pera Algo Wallet – Simply the best Algorand wallet.
+ - [https://perawallet.app](https://perawallet.app)
+ - date_published: 2024-10-11T22:05:23.275089+00:00
+
+ ## Home - Percorso
+ - [https://percorso.app](https://percorso.app)
+ - date_published: 2024-05-07T20:32:05.806777+00:00
+
+ ## permapages
+ - [https://permapages.app](https://permapages.app)
+ - date_published: 2024-07-23T23:57:15.762553+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app](https://00917082-71e9-498e-8343-00c3df06b798.edge.permutive.app)
+ - date_published: 2024-05-06T22:46:44.420167+00:00
+
+ ## PersonaGen: AI User-Persona Generator
+ - [https://personagen.app](https://personagen.app)
+ - date_published: 2024-06-19T19:36:44.122256+00:00
+
  ## Petra
  - [https://petra.app](https://petra.app)
  - date_published: 2024-09-25T10:29:40.624159+00:00
@@ -2117,6 +2209,10 @@
  - date_published: 2023-12-20T04:44:54+00:00
  - tags: ['artificial intelligence bot']
 
+ ## AwakenOS
+ - [https://awakenos.vercel.app](https://awakenos.vercel.app)
+ - date_published: 2024-10-27T07:44:00.020189+00:00
+
  ## AWS Docs GPT
  - [https://aws-gpt-frontend-e65vbfwtc-antimetal.vercel.app](https://aws-gpt-frontend-e65vbfwtc-antimetal.vercel.app)
  - date_published: 2024-08-19T10:21:55.452104+00:00
@@ -2486,6 +2582,10 @@
  - [https://dreamyrooms.vercel.app](https://dreamyrooms.vercel.app)
  - date_published: 2024-06-19T20:50:53.140718+00:00
 
+ ## DroidX-UI
+ - [https://droid-x-ui-github-io.vercel.app](https://droid-x-ui-github-io.vercel.app)
+ - date_published: 2024-10-27T07:45:13.853833+00:00
+
  ## DSPy Documentation | DSPy
  - [https://dspy-docs.vercel.app](https://dspy-docs.vercel.app)
  - date_published: 2024-05-11T07:39:29.710591+00:00
@@ -2645,6 +2745,10 @@
  ## getavatar.vercel.app: Get unified user gvatar from Twitter, GitHub, Intagram, Reddit, etc.
  - [https://getavatar.vercel.app](https://getavatar.vercel.app)
  - date_published: 2018-10-20T01:46:40+00:00
+
+ ## Gemini Code Editor - A Google Gemini based Code Editor
+ - [https://gide.vercel.app](https://gide.vercel.app)
+ - date_published: 2024-10-27T04:44:58+00:00
 
  ## GitHub Business Card · Sebastien Castiel
  - [https://github-business-card.vercel.app](https://github-business-card.vercel.app)
@@ -3607,6 +3711,10 @@
  - [https://supalaunch-website-bgxxdcguv-side-hustles.vercel.app](https://supalaunch-website-bgxxdcguv-side-hustles.vercel.app)
  - date_published: 2024-06-19T02:23:58.016493+00:00
 
+ ## Supabase NextJS Starter Kit — SupaLaunch
+ - [https://supalaunch-website-jlvf11ncl-side-hustles.vercel.app](https://supalaunch-website-jlvf11ncl-side-hustles.vercel.app)
+ - date_published: 2024-10-27T12:10:00.727908+00:00
+
  ## supastarter - Ship your SaaS in days
  - [https://supastarter-website-euz2il3vy-sedecon-solutions.vercel.app](https://supastarter-website-euz2il3vy-sedecon-solutions.vercel.app)
  - date_published: 2024-07-10T11:06:36.229345+00:00
@@ -3910,112 +4018,4 @@
  ## youkwhd
  - [https://youkwhd.vercel.app](https://youkwhd.vercel.app)
  - date_published: 2024-07-23T23:27:33.700603+00:00
-
- ## Your Best Accent - master pronunciation with your voice clone
- - [https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app](https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app)
- - date_published: 2024-08-06T17:07:41.970551+00:00
-
- ## One-Click YouTube Playlist Downloader
- - [https://ytdlfree.vercel.app](https://ytdlfree.vercel.app)
- - date_published: 2024-10-25T15:15:27+00:00
-
- ## YT idea generator
- - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
- - date_published: 2024-06-14T08:57:57.169654+00:00
-
- ## zk0fficer
- - [https://zk-officer.vercel.app](https://zk-officer.vercel.app)
- - date_published: 2024-09-23T12:18:52.154020+00:00
-
- ## Very Useful Apps
- - [https://veryuseful.app](https://veryuseful.app)
- - date_published: 2024-07-17T05:37:28.597396+00:00
-
- ## ‎AI Captions for Videos: VidCap
- - [https://vidcap.app](https://vidcap.app)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## Videotok - Create faceless videos with AI
- - [https://videotok.app](https://videotok.app)
- - date_published: 2024-07-10T11:15:35.560460+00:00
-
- ## Video Trim App - Free & Online & Offline
- - [https://videotrim.app](https://videotrim.app)
- - date_published: 2024-06-03T11:21:00.994159+00:00
-
- ## Professional Headshots in minutes with Virtual Face AI
- - [https://virtualface.app](https://virtualface.app)
- - date_published: 2023-10-25T11:51:19.247159+00:00
-
- ## Virtual Staging AI
- - [https://virtualstagingai.app](https://virtualstagingai.app)
- - date_published: 2024-06-19T18:53:39.687773+00:00
-
- ## Visti - RSS reader
- - [https://visti.app](https://visti.app)
- - date_published: 2024-07-02T20:35:10.424388+00:00
-
- ## Careers at Vitals
- - [https://careers.vitals.app](https://careers.vitals.app)
- - date_published: 2024-10-02T00:00:00+00:00
-
- ## Vitals Help Center
- - [https://help.vitals.app](https://help.vitals.app)
- - date_published: 2024-10-15T22:50:56.488841+00:00
-
- ## Vitals™ | The all-in-one app to grow your Shopify store
- - [https://vitals.app](https://vitals.app)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## VK Клипы — место встречи впечатлений
- - [https://vkclips.app](https://vkclips.app)
- - date_published: 2024-06-07T14:06:41+00:00
-
- ## Coming Soon
- - [https://www.vlox.app](https://www.vlox.app)
- - date_published: 2024-09-21T23:40:54.347111+00:00
-
- ## VNGGames
- - [https://id.vnggames.app](https://id.vnggames.app)
- - date_published: 2024-07-17T23:11:06.493923+00:00
-
- ## Volanta
- - [https://feedback.volanta.app](https://feedback.volanta.app)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Volanta
- - [https://fly.volanta.app](https://fly.volanta.app)
- - date_published: 2024-08-20T08:39:53+00:00
-
- ## Volanta — Your personal flight tracker
- - [https://volanta.app](https://volanta.app)
- - date_published: 2024-06-08T18:16:10.315571+00:00
-
- ## VoteHub - Embedded Votings and Rankings
- - [https://vote-hub.app](https://vote-hub.app)
- - date_published: 2024-05-30T12:40:18.030669+00:00
-
- ## VoxelChain - Interactive voxel worlds in the browser
- - [https://voxelchain.app](https://voxelchain.app)
- - date_published: 2023-10-25T11:51:21.827960+00:00
-
- ## Vup Cloud Storage
- - [https://vup.app](https://vup.app)
- - date_published: 2024-07-18T06:24:51.363205+00:00
-
- ## Wakeout | Healthier workdays, desk exercises
- - [https://wakeout.app](https://wakeout.app)
- - date_published: 2024-06-20T05:35:00.311184+00:00
-
- ## Wallaroo • Wallpapers Just For You!
- - [https://wallaroo.app](https://wallaroo.app)
- - date_published: 2024-01-05T22:33:22+00:00
-
- ## Protect Your Crypto | Wallet Guard
- - [https://www.walletguard.app](https://www.walletguard.app)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## NOW Wallet - best app for crypto assets by ChangeNOW
- - [https://walletnow.app](https://walletnow.app)
- - date_published: 2024-04-17T00:00:00+00:00
 

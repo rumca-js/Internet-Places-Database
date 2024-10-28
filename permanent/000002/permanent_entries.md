@@ -1,3 +1,68 @@
+ ## Long Phan
+ - [https://longphan.ai](https://longphan.ai)
+ - date_published: 2024-04-12T21:47:00+00:00
+
+ ## LongShot: AI Co-Pilot for High-Ranking Factual Content
+ - [https://longshot.ai](https://longshot.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Speak English with Loora AI
+ - [https://www.loora.ai](https://www.loora.ai)
+ - date_published: 2024-06-19T19:19:20.527768+00:00
+
+ ## LOSEY AI
+ - [https://losey.ai](https://losey.ai)
+ - date_published: 2024-09-15T01:47:38+00:00
+
+ ## Louis Bouchard
+ - [https://www.louisbouchard.ai](https://www.louisbouchard.ai)
+ - date_published: 2024-06-20T05:36:42.655581+00:00
+
+ ## Ecommerce Stores shouldn't be static | Loup
+ - [https://loup.ai](https://loup.ai)
+ - date_published: 2024-06-20T21:59:26.009841+00:00
+
+ ## AI Voice Generator: Realistic Text to Speech & Voice Cloning
+ - [https://lovo.ai](https://lovo.ai)
+ - date_published: 2024-06-19T21:38:44.245037+00:00
+
+ ## LPCV - Low Power Computer Vision
+ - [https://lpcv.ai](https://lpcv.ai)
+ - date_published: 2024-07-22T05:42:12.424629+00:00
+
+ ## Mario Lucic
+ - [https://lucic.ai](https://lucic.ai)
+ - date_published: 2024-05-02T07:31:50+00:00
+ - tags: ['personal']
+
+ ## Stronger Business Insights with AI-Powered Knowledge Management | Lucy
+ - [https://www.lucy.ai](https://www.lucy.ai)
+ - date_published: 2024-06-19T18:48:11+00:00
+
+ ## Create hit games with the power of AI with Ludo
+ - [https://ludo.ai](https://ludo.ai)
+ - date_published: 2024-06-19T21:11:20.193367+00:00
+
+ ## Loading ...
+ - [https://www.luis.ai](https://www.luis.ai)
+ - date_published: 2024-05-02T12:44:26.847441+00:00
+
+ ## Hi, I'm LukeGPT. - Luke Burgis AI
+ - [http://www.lukeburgis.ai](http://www.lukeburgis.ai)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Luma AI - Featured Captures
+ - [https://captures.lumalabs.ai](https://captures.lumalabs.ai)
+ - date_published: 2024-06-19T19:50:02.023641+00:00
+
+ ## Luma AI
+ - [https://lumalabs.ai](https://lumalabs.ai)
+ - date_published: 2023-10-25T11:39:54.133649+00:00
+
+ ## Introduction - Documentation
+ - [https://docs.lume.ai](https://docs.lume.ai)
+ - date_published: 2023-12-06T19:47:41.218118+00:00
+
  ## Show HN: Lume – automate data mappings using AI
  - [https://lume.ai](https://lume.ai)
  - date_published: 2023-12-06T17:37:48+00:00
@@ -3659,6 +3724,10 @@
  - [https://ctf.spylab.ai](https://ctf.spylab.ai)
  - date_published: 2024-05-10T05:01:52.474733+00:00
 
+ ## SPY Lab
+ - [https://www.spylab.ai](https://www.spylab.ai)
+ - date_published: 2024-10-23T08:04:06+00:00
+
  ## Home
  - [https://www.spyne.ai](https://www.spyne.ai)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -3952,72 +4021,4 @@
  ## Supertone - Product
  - [https://product.supertone.ai](https://product.supertone.ai)
  - date_published: 2024-05-06T18:31:31.310432+00:00
-
- ## Supertone
- - [https://supertone.ai](https://supertone.ai)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Fast Alternative for Medium and Wordpress Blogs
- - [https://www.supertranslate.ai](https://www.supertranslate.ai)
- - date_published: 2024-06-19T19:34:25.155691+00:00
-
- ## Model Observability Platform | Observe, Monitor & Improve ML
- - [https://superwise.ai](https://superwise.ai)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## SUPP.AI by AI2
- - [https://supp.ai](https://supp.ai)
- - date_published: 2024-07-03T23:22:41.656599+00:00
-
- ## AI Support Agent for Help Scout
- - [https://www.supportagent.ai](https://www.supportagent.ai)
- - date_published: 2024-06-19T20:06:32.724071+00:00
-
- ## Supportzeal AI Chatbot
- - [https://www.supportzeal.ai](https://www.supportzeal.ai)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Surge AI | World's Most Powerful Data Labeling Platform
- - [https://app.surgehq.ai](https://app.surgehq.ai)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Surge AI | World's Most Powerful Data Labeling Platform
- - [https://surgehq.ai](https://surgehq.ai)
- - date_published: 2023-10-25T11:43:14.011821+00:00
-
- ## SurveySwan | Smart Surveys, for the rest of us
- - [https://surveyswan.ai](https://surveyswan.ai)
- - date_published: 2024-06-14T09:26:53.022872+00:00
-
- ## SVAI
- - [https://sv.ai](https://sv.ai)
- - date_published: 2024-06-30T09:42:03.729543+00:00
-
- ## Swan — AI Virtual Fitting Rooms
- - [https://swanvision.ai](https://swanvision.ai)
- - date_published: 2024-04-29T07:14:44.767427+00:00
-
- ## Sybill: Your Personal AI Sales Assistant
- - [https://www.sybill.ai](https://www.sybill.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Light — LightRAG  documentation
- - [https://lightrag.sylph.ai](https://lightrag.sylph.ai)
- - date_published: 2024-07-15T23:29:11+00:00
-
- ## SylphAI
- - [https://sylph.ai](https://sylph.ai)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Symbl.ai | LLM for Conversation Data
- - [https://symbl.ai](https://symbl.ai)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Symbolic - Powering Publishing
- - [https://symbolic.ai](https://symbolic.ai)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Symbolica
- - [https://www.symbolica.ai](https://www.symbolica.ai)
- - date_published: 2024-07-01T07:39:02.694914+00:00
 

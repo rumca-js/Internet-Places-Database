@@ -1,3 +1,111 @@
+ ## Your Best Accent - master pronunciation with your voice clone
+ - [https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app](https://yourbestaccent-bi7ol6rgr-grammarians.vercel.app)
+ - date_published: 2024-08-06T17:07:41.970551+00:00
+
+ ## One-Click YouTube Playlist Downloader
+ - [https://ytdlfree.vercel.app](https://ytdlfree.vercel.app)
+ - date_published: 2024-10-25T15:15:27+00:00
+
+ ## YT idea generator
+ - [https://yt-ideas.vercel.app](https://yt-ideas.vercel.app)
+ - date_published: 2024-06-14T08:57:57.169654+00:00
+
+ ## zk0fficer
+ - [https://zk-officer.vercel.app](https://zk-officer.vercel.app)
+ - date_published: 2024-09-23T12:18:52.154020+00:00
+
+ ## Very Useful Apps
+ - [https://veryuseful.app](https://veryuseful.app)
+ - date_published: 2024-07-17T05:37:28.597396+00:00
+
+ ## ‎AI Captions for Videos: VidCap
+ - [https://vidcap.app](https://vidcap.app)
+ - date_published: 2024-08-12T00:00:00+00:00
+
+ ## Videotok - Create faceless videos with AI
+ - [https://videotok.app](https://videotok.app)
+ - date_published: 2024-07-10T11:15:35.560460+00:00
+
+ ## Video Trim App - Free & Online & Offline
+ - [https://videotrim.app](https://videotrim.app)
+ - date_published: 2024-06-03T11:21:00.994159+00:00
+
+ ## Professional Headshots in minutes with Virtual Face AI
+ - [https://virtualface.app](https://virtualface.app)
+ - date_published: 2023-10-25T11:51:19.247159+00:00
+
+ ## Virtual Staging AI
+ - [https://virtualstagingai.app](https://virtualstagingai.app)
+ - date_published: 2024-06-19T18:53:39.687773+00:00
+
+ ## Visti - RSS reader
+ - [https://visti.app](https://visti.app)
+ - date_published: 2024-07-02T20:35:10.424388+00:00
+
+ ## Careers at Vitals
+ - [https://careers.vitals.app](https://careers.vitals.app)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## Vitals Help Center
+ - [https://help.vitals.app](https://help.vitals.app)
+ - date_published: 2024-10-15T22:50:56.488841+00:00
+
+ ## Vitals™ | The all-in-one app to grow your Shopify store
+ - [https://vitals.app](https://vitals.app)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## VK Клипы — место встречи впечатлений
+ - [https://vkclips.app](https://vkclips.app)
+ - date_published: 2024-06-07T14:06:41+00:00
+
+ ## Coming Soon
+ - [https://www.vlox.app](https://www.vlox.app)
+ - date_published: 2024-09-21T23:40:54.347111+00:00
+
+ ## VNGGames
+ - [https://id.vnggames.app](https://id.vnggames.app)
+ - date_published: 2024-07-17T23:11:06.493923+00:00
+
+ ## Volanta
+ - [https://feedback.volanta.app](https://feedback.volanta.app)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Volanta
+ - [https://fly.volanta.app](https://fly.volanta.app)
+ - date_published: 2024-08-20T08:39:53+00:00
+
+ ## Volanta — Your personal flight tracker
+ - [https://volanta.app](https://volanta.app)
+ - date_published: 2024-06-08T18:16:10.315571+00:00
+
+ ## VoteHub - Embedded Votings and Rankings
+ - [https://vote-hub.app](https://vote-hub.app)
+ - date_published: 2024-05-30T12:40:18.030669+00:00
+
+ ## VoxelChain - Interactive voxel worlds in the browser
+ - [https://voxelchain.app](https://voxelchain.app)
+ - date_published: 2023-10-25T11:51:21.827960+00:00
+
+ ## Vup Cloud Storage
+ - [https://vup.app](https://vup.app)
+ - date_published: 2024-07-18T06:24:51.363205+00:00
+
+ ## Wakeout | Healthier workdays, desk exercises
+ - [https://wakeout.app](https://wakeout.app)
+ - date_published: 2024-06-20T05:35:00.311184+00:00
+
+ ## Wallaroo • Wallpapers Just For You!
+ - [https://wallaroo.app](https://wallaroo.app)
+ - date_published: 2024-01-05T22:33:22+00:00
+
+ ## Protect Your Crypto | Wallet Guard
+ - [https://www.walletguard.app](https://www.walletguard.app)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## NOW Wallet - best app for crypto assets by ChangeNOW
+ - [https://walletnow.app](https://walletnow.app)
+ - date_published: 2024-04-17T00:00:00+00:00
+
  ## Wand – Bring your drawings to life.
  - [https://www.wand.app](https://www.wand.app)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -2819,6 +2927,10 @@ October 2024 in Singapore
  - [https://kyuko.asia](https://kyuko.asia)
  - date_published: 2024-05-08T03:52:02.697420+00:00
 
+ ## Master of Orion - legendary space strategy game, sci-fi strategy bestseller
+ - [http://masteroforion.asia](http://masteroforion.asia)
+ - date_published: 2024-10-27T00:00:09+00:00
+
  ## Login
  - [https://rsp.mbconnect24.asia](https://rsp.mbconnect24.asia)
  - date_published: 2024-09-28T23:27:59+00:00
@@ -2929,6 +3041,14 @@ October 2024 in Singapore
  - [https://worldoftanks.asia](https://worldoftanks.asia)
  - date_published: 2024-06-27T17:34:28.665045+00:00
 
+ ## World of Warplanes — 無料オンラインゲーム
+ - [http://worldofwarplanes.asia](http://worldofwarplanes.asia)
+ - date_published: 2024-10-27T12:30:00+00:00
+
+ ## World of Warships
+ - [https://worldofwarships.asia](https://worldofwarships.asia)
+ - date_published: 2024-10-27T12:37:31.259070+00:00
+
  ## Xometry——Manufacturing on Demand
  - [https://xometry.asia](https://xometry.asia)
  - date_published: 2024-06-27T16:28:12.255910+00:00
@@ -3012,6 +3132,10 @@ October 2024 in Singapore
  ## Home
  - [https://www.hmdw.ac.at](https://www.hmdw.ac.at)
  - date_published: 2024-07-04T17:27:49+00:00
+
+ ## ISTA Homepage
+ - [https://ist.ac.at](https://ist.ac.at)
+ - date_published: 2024-10-27T12:05:43.644790+00:00
 
  ## ISTA Homepage
  - [http://www.ist-austria.ac.at](http://www.ist-austria.ac.at)
@@ -3910,128 +4034,4 @@ October 2024 in Singapore
  ## Betreuung, Haushaltshilfe, Tiersitter & mehr - Betreut.at
  - [https://www.betreut.at](https://www.betreut.at)
  - date_published: 2024-09-14T10:08:18.192731+00:00
-
- ## Öffentliche Schulen, Universitäten & Spezialimmobilien
- - [https://www.big.at](https://www.big.at)
- - date_published: 2024-04-07T00:00:00+00:00
-
- ## BBA 2023 - quintessenz - Big Brother Awards 2023 - The Imitation Game – die vorgetäuschte Intelligenz
- - [http://bigbrotherawards.at](http://bigbrotherawards.at)
- - date_published: 2024-07-20T20:45:26.112280+00:00
-
- ## Enterprise-E-Commerce, einfach erklärt. | BigCommerce
- - [https://www.bigcommerce.at](https://www.bigcommerce.at)
- - date_published: 2024-07-08T12:40:49.114287+00:00
-
- ## Bilderbuch Shop
- - [https://bilderbuch-musik.at](https://bilderbuch-musik.at)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Bioreg
- - [http://www.bioreg.at](http://www.bioreg.at)
- - date_published: 2024-06-28T12:06:31.692953+00:00
-
- ## ICSx⁵
- - [https://icsx5.bitfire.at](https://icsx5.bitfire.at)
- - date_published: 2024-06-23T18:42:31+00:00
-
- ## bitfire web engineering
- - [https://www.bitfire.at](https://www.bitfire.at)
- - date_published: 2024-07-14T15:40:30.410573+00:00
-
- ## Zero Waste Onlineshop - plastikfreie Produkte für deinen Alltag
- - [https://blattwende.at](https://blattwende.at)
- - date_published: 2024-06-18T14:30:22.003113+00:00
-
- ## Blogheim.at | Die Heimat der Österreichischen Blogszene
- - [https://blogheim.at](https://blogheim.at)
- - date_published: 2024-05-12T06:40:45.460990+00:00
-
- ## Blühendes Österreich - Mit der Initiative Blühendes Österreich werden die Erhaltung und die Entwicklung bedrohter Lebensräume gefördert und geschützt.
- - [http://www.bluehendesoesterreich.at](http://www.bluehendesoesterreich.at)
- - date_published: 2024-09-13T16:21:04.804214+00:00
-
- ## AUSTRIAN NATIONAL COMMITTEE OF THE BLUE SHIELD
- - [https://www.blueshield.at](https://www.blueshield.at)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [https://www.bodendirect.at](https://www.bodendirect.at)
- - date_published: 2024-10-21T01:55:49.035264+00:00
-
- ## eBOD2
- - [https://bodenkarte.at](https://bodenkarte.at)
- - date_published: 2023-12-06T20:56:47+00:00
-
- ## Kartenansicht mit österreichweiten Grundstückspreisen auf einen Blick - bodenpreise.at
- - [https://www.bodenpreise.at](https://www.bodenpreise.at)
- - date_published: 2024-09-13T16:21:35.000950+00:00
-
- ## Books in the Fridge
- - [https://booksinthefridge.at](https://booksinthefridge.at)
- - date_published: 2024-05-11T07:10:21.648548+00:00
-
- ## Home
- - [http://www.bosch.at](http://www.bosch.at)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Hausgeräte, Werkzeuge & Smart Home | Bosch AT
- - [https://www.bosch-home.at](https://www.bosch-home.at)
- - date_published: 2024-06-16T21:35:40.384152+00:00
-
- ## Brother Online
- - [https://atyourside.brother.at](https://atyourside.brother.at)
- - date_published: 2024-06-17T21:03:52.172392+00:00
-
- ## Brother Online Store
- - [https://store.brother.at](https://store.brother.at)
- - date_published: 2024-06-18T06:02:57.675637+00:00
-
- ## Hersteller von Drucker, Laserdrucker & Scanner | Brother
- - [https://www.brother.at](https://www.brother.at)
- - date_published: 2024-05-02T11:36:03.685174+00:00
-
- ## brunnmeister.atwebsite in der Warteschleife
- - [https://brunnmeister.at](https://brunnmeister.at)
- - date_published: 2024-07-18T06:13:34.489383+00:00
-
- ## IKT-Sicherheitskonferenz
- - [https://seminar.bundesheer.at](https://seminar.bundesheer.at)
- - date_published: 2024-07-13T09:03:44.822283+00:00
-
- ## Business-austria.at presented by Marktplatz-Mittelstand.de
- - [http://www.business-austria.at](http://www.business-austria.at)
- - date_published: 2022-03-07T13:50:57+00:00
-
- ## frontpage - BVZ.at
- - [http://www.bvz.at](http://www.bvz.at)
- - date_published: 2024-07-20T15:05:32+00:00
-
- ## Home of the Hitmen
- - [http://hitmen.c02.at](http://hitmen.c02.at)
- - date_published: 2023-09-12T06:27:47+00:00
-
- ## Chaos Computer Club Wien (C3W)
- - [https://c3w.at](https://c3w.at)
- - date_published: 2024-06-03T13:19:48+00:00
-
- ## CryptPad: end-to-end encrypted collaboration suite
- - [https://pads.c3w.at](https://pads.c3w.at)
- - date_published: 2023-12-22T22:13:19+00:00
-
- ## Home
- - [https://camera-austria.at](https://camera-austria.at)
- - date_published: 2024-09-20T09:08:06+00:00
-
- ## Unternehmensberatung für Change- und Prozessmanagement
- - [https://www.camillo-patzl.at](https://www.camillo-patzl.at)
- - date_published: 2024-08-18T11:33:53.498279+00:00
-
- ## Großartige Serien und Filme einfach online streamen  | CANAL+
- - [https://www.canalplus.at](https://www.canalplus.at)
- - date_published: 2024-06-25T21:53:17.146486+00:00
-
- ## Capitalist Exploits – Global Investment Research
- - [https://capitalistexploits.at](https://capitalistexploits.at)
- - date_published: 2024-03-03T00:00:00+00:00
 

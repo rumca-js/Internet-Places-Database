@@ -1,3 +1,225 @@
+ ## Nova Fronteira
+ - [https://www.novafronteira.com.br](https://www.novafronteira.com.br)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Login - Nubank
+ - [https://app.nubank.com.br](https://app.nubank.com.br)
+ - date_published: 2024-03-28T23:43:06+00:00
+
+ ## Fala, Nubank - Dicas sobre finanças pessoais e tudo sobre as novidades do universo Nubank
+ - [https://backend.blog.nubank.com.br](https://backend.blog.nubank.com.br)
+ - date_published: 2024-09-18T21:54:58.200365+00:00
+
+ ## Fala, Nubank
+ - [https://blog.nubank.com.br](https://blog.nubank.com.br)
+ - date_published: 2024-06-15T18:23:47.080949+00:00
+
+ ## Building Nubank
+ - [https://building.nubank.com.br](https://building.nubank.com.br)
+ - date_published: 2023-10-25T12:02:22.743302+00:00
+
+ ## NuCommunity
+ - [https://comunidade.nubank.com.br](https://comunidade.nubank.com.br)
+ - date_published: 2024-06-16T17:37:31.422165+00:00
+
+ ## Canal de Fraude Nubank - Pagina Inicial
+ - [https://denunciargolpes.nubank.com.br](https://denunciargolpes.nubank.com.br)
+ - date_published: 2024-06-16T17:37:27.497677+00:00
+
+ ## About Nu - Nu International
+ - [https://international.nubank.com.br](https://international.nubank.com.br)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Nubank - Finalmente você no controle do seu dinheiro
+ - [https://link.nubank.com.br](https://link.nubank.com.br)
+ - date_published: 2024-06-14T22:05:02+00:00
+
+ ## Nubank - Finalmente você no controle do seu dinheiro
+ - [https://nubank.com.br](https://nubank.com.br)
+ - date_published: 2024-05-12T05:29:23.008538+00:00
+
+ ## Nubank - Início
+ - [http://nubankparker.com.br](http://nubankparker.com.br)
+ - date_published: 2024-06-16T17:37:40.148114+00:00
+
+ ## Núclea: Conexão que gera valor
+ - [https://www.nuclea.com.br](https://www.nuclea.com.br)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Suporte
+         - Nuvem Hospedagem
+ - [https://cliente.nuvemhospedagem.com.br](https://cliente.nuvemhospedagem.com.br)
+ - date_published: 2024-07-03T23:18:22.993841+00:00
+
+ ## Home | Odontoprev - Beneficiários
+ - [https://beneficiario.odontoprev.com.br](https://beneficiario.odontoprev.com.br)
+ - date_published: 2024-07-13T18:13:54.032556+00:00
+
+ ## Jogue jogos online grátis em ojogos.com.br
+ - [https://www.ojogos.com.br](https://www.ojogos.com.br)
+ - date_published: 2024-07-20T02:43:51.388552+00:00
+
+ ## Olaaa – Seu Blog de Notícias
+ - [http://www.olaaa.com.br](http://www.olaaa.com.br)
+ - date_published: 2024-07-04T14:47:43.038933+00:00
+
+ ## Omelete | O maior portal de notícias e entretenimento
+ - [https://www.omelete.com.br](https://www.omelete.com.br)
+ - date_published: 2024-10-25T21:22:37.576891+00:00
+
+ ## | Omnisys
+ - [http://www.omnisys.com.br](http://www.omnisys.com.br)
+ - date_published: 2024-02-23T13:19:02+00:00
+
+ ## Onlinecurriculo.com.br
+ - [https://help.onlinecurriculo.com.br](https://help.onlinecurriculo.com.br)
+ - date_published: 2024-06-22T22:11:23.911153+00:00
+
+ ## Crie seu currículo campeão — gerador de currículo (gratuito)
+ - [https://onlinecurriculo.com.br](https://onlinecurriculo.com.br)
+ - date_published: 2024-05-06T09:21:04.370760+00:00
+
+ ## Open English Brasil Site Oficial | Aprenda inglês rápido e fácil
+ - [https://www.openenglish.com.br](https://www.openenglish.com.br)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Optum | Serviços, Consultoria e Inovação em Saúde
+ - [https://www.optum.com.br](https://www.optum.com.br)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Home
+ - [https://www.orama.com.br](https://www.orama.com.br)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Banco Original: banco digital para Pessoa Física e Jurídica
+ - [https://www.original.com.br](https://www.original.com.br)
+ - date_published: 2024-07-16T19:11:06+00:00
+
+ ## O TEMPO
+ - [https://www.otempo.com.br](https://www.otempo.com.br)
+ - date_published: 2024-07-13T18:13:55+00:00
+
+ ## Padrim
+ - [https://padrim.com.br](https://padrim.com.br)
+ - date_published: 2024-10-14T16:59:02.440601+00:00
+
+ ## Pages24 - O guia de empresas gratuito em sua área
+ - [http://www.pages24.com.br](http://www.pages24.com.br)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Centova Cast
+ - [http://paineldj4.com.br](http://paineldj4.com.br)
+ - date_published: 2024-08-11T19:58:59.228800+00:00
+
+ ## Palo Alto Networks – Líder Global em Segurança Cibernética – Brasil
+ - [https://www.paloaltonetworks.com.br](https://www.paloaltonetworks.com.br)
+ - date_published: 2024-10-19T17:41:09.771131+00:00
+
+ ## Palpito - Participe em Pesquisas Remuneradas no Brasil
+ - [https://palpito.com.br](https://palpito.com.br)
+ - date_published: 2021-05-30T17:08:16+00:00
+
+ ## Panografias
+ - [https://panografias.com.br](https://panografias.com.br)
+ - date_published: 2024-03-16T00:00:00+00:00
+
+ ## Comprar com boleto e Pix parcelado, sem cartão | Parcelex | Parcelex
+ - [https://www.parcelex.com.br](https://www.parcelex.com.br)
+ - date_published: 2024-09-06T15:12:22+00:00
+
+ ## Parimatch Brasil – Apostas Esportivas Online | Bónus 150% de boas-vindas | Login
+ - [https://parimatch-cassino.com.br](https://parimatch-cassino.com.br)
+ - date_published: 2024-10-13T08:29:57.751345+00:00
+
+ ## Paulo Ghiraldelli – provocação filosófica
+ - [https://pauloghiraldelli.com.br](https://pauloghiraldelli.com.br)
+ - date_published: 2024-07-01T06:41:25.261248+00:00
+
+ ## Paulus Editora
+ - [https://www.paulus.com.br](https://www.paulus.com.br)
+ - date_published: 2024-09-06T19:16:03.428065+00:00
+
+ ## Carteiras Digitais | Gerenciamento de Dinheiro | PayPal BR
+ - [https://paypal.com.br](https://paypal.com.br)
+ - date_published: 2024-09-06T20:44:08.784886+00:00
+
+ ## PERI Brasil - Formas, Escoramentos e Andaimes
+ - [https://www.peri.com.br](https://www.peri.com.br)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Personare | O maior portal de autoconhecimento e bem-viver do Brasil
+ - [https://www.personare.com.br](https://www.personare.com.br)
+ - date_published: 2024-08-18T13:04:12.362383+00:00
+
+ ## Perto Acessibilidade Digital | acessibilidade digital
+ - [https://pertodigital.com.br](https://pertodigital.com.br)
+ - date_published: 2024-09-18T01:40:13.947289+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://petlove.com.br](https://petlove.com.br)
+ - date_published: 2024-06-19T08:27:22.943357+00:00
+
+ ## Bem-vindo à alcateia | Peugeot Brasil
+ - [https://carros.peugeot.com.br](https://carros.peugeot.com.br)
+ - date_published: 2024-06-18T13:39:40+00:00
+
+ ## Blog de Paulo Santana
+ - [https://phls.com.br](https://phls.com.br)
+ - date_published: 2024-03-07T19:01:25+00:00
+
+ ## phoenixNAP: Data Center, Dedicada Servers, Cloud, & Colocação
+ - [https://phoenixnap.com.br](https://phoenixnap.com.br)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Pin Up Brasil 🎰 Descubra o Melhor do Pin-Up Oficial e Ganhe Hoje
+ - [https://pin-ups.com.br](https://pin-ups.com.br)
+ - date_published: 2024-09-10T13:35:32.367174+00:00
+
+ ## Pirelli pneus: carro, off road, SUV & Esportivos | Pirelli
+ - [https://www.pirelli.com.br](https://www.pirelli.com.br)
+ - date_published: 2024-06-23T21:06:24.568003+00:00
+
+ ## Pivot 08 - Há 17 anos no mercado digital
+ - [http://www.pivot08.com.br](http://www.pivot08.com.br)
+ - date_published: 2021-10-06T13:53:49+00:00
+
+ ## Muito prazer, somos a Pixelmade.
+ - [https://www.pixelmade.com.br](https://www.pixelmade.com.br)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Pix Force
+ - [https://www.pixforce.com.br](https://www.pixforce.com.br)
+ - date_published: 2023-07-21T14:40:50+00:00
+
+ ## Plataformatec Blog
+ - [http://blog.plataformatec.com.br](http://blog.plataformatec.com.br)
+ - date_published: 2024-01-23T13:10:03+00:00
+
+ ## Plataformatec Has Closed Its Operations.
+ - [http://plataformatec.com.br](http://plataformatec.com.br)
+ - date_published: 2024-05-25T14:18:48+00:00
+
+ ## Playpixel - Miniature Collection
+ - [https://www.playpixel.com.br](https://www.playpixel.com.br)
+ - date_published: 2024-02-15T22:31:33.376128+00:00
+ - tags: ['demoscene']
+
+ ## Home | PNLD 2023 | Record
+ - [https://pnldrecord.com.br](https://pnldrecord.com.br)
+ - date_published: 2024-07-13T02:13:24.295123+00:00
+
+ ## Poder360 | Notícias do poder e da política.
+ - [https://poder360.com.br](https://poder360.com.br)
+ - date_published: 2023-10-25T12:02:34.873341+00:00
+
+ ## Poder360 | Notícias do poder e da política. Editado por Fernando Rodrigues e equipe
+ - [https://www.poder360.com.br](https://www.poder360.com.br)
+ - date_published: 2024-08-23T00:00:00+00:00
+
+ ## Polaris
+ - [http://www.polaristec.com.br](http://www.polaristec.com.br)
+ - date_published: 2014-02-17T17:07:30+00:00
+
  ## Porta Lá Fricas – Blog das Irmãs Frica
  - [http://www.portalafricas.com.br](http://www.portalafricas.com.br)
  - date_published: 2024-08-12T04:29:39.190379+00:00
@@ -3790,224 +4012,4 @@
  ## Top 5 Toronto Plumbers and Plumbing Contractors for 2020 | Autoglass.ca
  - [http://www.autoglass.ca](http://www.autoglass.ca)
  - date_published: 2024-06-29T17:35:12.234752+00:00
-
- ## Car Rentals from Avis, Book Online Now & Save
- - [https://www.avis.ca](https://www.avis.ca)
- - date_published: 2024-06-14T07:46:03+00:00
-
- ## Aviso
- - [https://www.aviso.ca](https://www.aviso.ca)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Awesome Business Videos | Videographer
- - [https://www.awesomebusinessvideos.ca](https://www.awesomebusinessvideos.ca)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## AwesomeSheep48’s Landing
- - [https://awesomesheep48.ca](https://awesomesheep48.ca)
- - date_published: 2022-09-06T00:00:00+00:00
-
- ## This is the default server vhost
- - [http://www.awnings.ca](http://www.awnings.ca)
- - date_published: 2024-06-24T11:23:01+00:00
-
- ## The Official Aztec C Online Museum
- - [http://www.aztecmuseum.ca](http://www.aztecmuseum.ca)
- - date_published: 2009-11-18T13:50:45+00:00
-
- ## Bienvenue au service de Pages Personnelles B2B2C Inc.
- - [https://perso.b2b2c.ca](https://perso.b2b2c.ca)
- - date_published: 2022-07-27T19:03:08+00:00
-
- ## Homepage - babyfirst
- - [https://babyfirsttv.ca](https://babyfirsttv.ca)
- - date_published: 2024-09-14T07:44:37.463410+00:00
-
- ## Photo Gifts: Special Personalized Gifts Designed by You
- - [https://www.bagsoflove.ca](https://www.bagsoflove.ca)
- - date_published: 2024-06-17T12:18:21.277843+00:00
-
- ## BaladoQuebec | Répertoire de Podcast du Québec
- - [https://baladoquebec.ca](https://baladoquebec.ca)
- - date_published: 2024-07-01T10:07:04.182800+00:00
-
- ## Farhana Zulkernine
- - [http://bamlab.ca](http://bamlab.ca)
- - date_published: 2024-07-14T08:29:29.547530+00:00
-
- ## Bank of Canada
- - [https://bankofcanada.ca](https://bankofcanada.ca)
- - date_published: 2023-10-25T12:03:32.218847+00:00
-
- ## BOC Unclaimed Property
- - [https://www.unclaimedproperties.bankofcanada.ca](https://www.unclaimedproperties.bankofcanada.ca)
- - date_published: 2024-08-07T17:05:54+00:00
-
- ## Bank of Canada Museum
- - [https://www.bankofcanadamuseum.ca](https://www.bankofcanadamuseum.ca)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Banque du Canada
- - [https://www.banqueducanada.ca](https://www.banqueducanada.ca)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Services bancaires en ligne aux particuliers | Banque Manuvie
- - [https://www.banquemanuvie.ca](https://www.banquemanuvie.ca)
- - date_published: 2024-06-16T11:00:34+00:00
-
- ## Top 5 Top 5 Toronto Event Venues for 2020 | EventVenues.ca Plumbers and Plumbing Contractors for 2020 | EventVenues.ca
- - [http://www.banquethalls.ca](http://www.banquethalls.ca)
- - date_published: 2024-06-29T17:35:20.701075+00:00
-
- ## Bare Advertising & Communications
- - [https://bare.ca](https://bare.ca)
- - date_published: 2024-10-14T19:04:01.563928+00:00
-
- ## Barrett Lab
- - [https://www.barrettlab.ca](https://www.barrettlab.ca)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Baskets in Canada, Canada
- - [http://www.baskets.ca](http://www.baskets.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Top 5 Top 5 Toronto Bathrooms for 2020 | Bathrooms.ca Plumbers and Plumbing Contractors for 2020 | Bathrooms.ca
- - [http://www.bathrooms.ca](http://www.bathrooms.ca)
- - date_published: 2024-06-29T17:36:05.545202+00:00
-
- ## Home - Black Business & Professional Network New Brunswick
- - [https://www.bbpn.ca](https://www.bbpn.ca)
- - date_published: 2021-12-04T01:41:13+00:00
-
- ## BCcampus
- - [https://bccampus.ca](https://bccampus.ca)
- - date_published: 2013-09-11T11:26:11+00:00
-
- ## BCCRC
- - [https://www.bccrc.ca](https://www.bccrc.ca)
- - date_published: 2024-08-16T21:04:00+00:00
-
- ## Bell Canada Enterprises | Corporate website | BCE Inc.
- - [https://bce.ca](https://bce.ca)
- - date_published: 2024-05-09T09:25:07.356517+00:00
-
- ## Careers at Bell
- - [https://jobs.bce.ca](https://jobs.bce.ca)
- - date_published: 2024-05-08T06:46:55.201672+00:00
-
- ## Emergency Care BC
- - [https://www.bcemergencynetwork.ca](https://www.bcemergencynetwork.ca)
- - date_published: 2024-07-06T23:48:56.857361+00:00
-
- ## Genome Sciences Centre
- - [https://bcgsc.ca](https://bcgsc.ca)
- - date_published: 2024-08-18T05:25:25+00:00
-
- ## Martin Krzywinski - Data Visualization, Design, Science and Art - Canada's Michael Smith Genome Sciences Centre
- - [https://mk.bcgsc.ca](https://mk.bcgsc.ca)
- - date_published: 2024-08-18T05:25:21.955799+00:00
-
- ## ERROR: The requested URL could not be retrieved
- - [https://mkweb.bcgsc.ca](https://mkweb.bcgsc.ca)
- - date_published: 2024-01-09T02:27:13.939554+00:00
-
- ## British Columbia Library Association | BCLA Connect
- - [https://bclaconnect.ca](https://bclaconnect.ca)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## BCSCC.ca
- - [http://bcscc.ca](http://bcscc.ca)
- - date_published: 2024-08-06T15:28:02.266288+00:00
-
- ## BDC - The Bank for Canadian Entrepreneurs
- - [https://www.bdc.ca](https://www.bdc.ca)
- - date_published: 2024-09-05T21:53:15.850330+00:00
-
- ## Shop BedBathandBeyond.ca for Quality Furniture, Rugs, Decor, and More + Free Shipping Over $60*!
- - [https://www.bedbathandbeyond.ca](https://www.bedbathandbeyond.ca)
- - date_published: 2024-09-30T15:40:32.707527+00:00
-
- ## Beds in Canada, Canada
- - [http://www.beds.ca](http://www.beds.ca)
- - date_published: 2024-06-29T17:35:09.266197+00:00
-
- ## Beggars Group Canada
- - [https://beggarsgroup.ca](https://beggarsgroup.ca)
- - date_published: 2024-06-15T09:59:25.325450+00:00
-
- ## Home - Building Energy Innovators Council
- - [https://beic.ca](https://beic.ca)
- - date_published: 2022-06-28T00:00:00+00:00
-
- ## Book an appointment | Bell Canada
- - [https://appointments.bell.ca](https://appointments.bell.ca)
- - date_published: 2024-05-10T02:42:25.226284+00:00
-
- ## Bell Business | Small, medium and large businesses | Bell Canada
- - [https://business.bell.ca](https://business.bell.ca)
- - date_published: 2024-05-10T02:42:40.721821+00:00
-
- ## Découvrez comment Bell Cause pour la cause change les choses au pays
- - [https://cause.bell.ca](https://cause.bell.ca)
- - date_published: 2024-06-20T20:58:43+00:00
-
- ## Bell | Wireless, Internet and TV Service Provider in Canada
- - [https://corporate.secretariat@bell.ca](https://corporate.secretariat@bell.ca)
- - date_published: 2024-07-11T14:57:35.248535+00:00
-
- ## Bell Affaires | Petites, moyennes et grandes entreprises | Bell Canada
- - [https://entreprise.bell.ca](https://entreprise.bell.ca)
- - date_published: 2024-07-11T17:24:02.877453+00:00
-
- ## Submit Form
- - [https://forum.bell.ca](https://forum.bell.ca)
- - date_published: 2024-05-10T02:42:27.665768+00:00
-
- ## Bell | Wireless, Internet and TV Service Provider in Canada
- - [https://investor.relations@bell.ca](https://investor.relations@bell.ca)
- - date_published: 2024-07-11T14:57:37.640196+00:00
-
- ## Careers at Bell Canada | Bell Canada jobs
- - [https://jobs.bell.ca](https://jobs.bell.ca)
- - date_published: 2024-05-09T09:25:12.027936+00:00
-
- ## Learn how Bell Let’s Talk is creating positive change in Canada
- - [https://letstalk.bell.ca](https://letstalk.bell.ca)
- - date_published: 2024-05-09T09:25:13.430154+00:00
-
- ## Requête rejetée / Request Rejected
- - [https://marketingplatform.bell.ca](https://marketingplatform.bell.ca)
- - date_published: 2024-05-10T02:40:43.914850+00:00
-
- ## Manage your Bell services on the go
- - [https://m.bell.ca](https://m.bell.ca)
- - date_published: 2024-05-10T02:42:31.686556+00:00
-
- ## Log in to MyBell
- - [https://mybell.bell.ca](https://mybell.bell.ca)
- - date_published: 2024-05-10T02:42:35.513161+00:00
-
- ## Prendre rendez-vous | Bell Canada
- - [https://rendez-vous.bell.ca](https://rendez-vous.bell.ca)
- - date_published: 2024-07-11T17:24:16.911669+00:00
-
- ## Bell Soutien
- - [https://soutien.bell.ca](https://soutien.bell.ca)
- - date_published: 2024-05-10T02:42:46.164028+00:00
-
- ## https://support.bell.ca
- - [https://support.bell.ca](https://support.bell.ca)
- - date_published: 2023-12-12T08:40:26.006400+00:00
-
- ## Bell | Wireless, Internet and TV Service Provider in Canada
- - [https://bell.ca](https://bell.ca)
- - date_published: 2024-05-08T06:46:58.341678+00:00
-
- ## Home | Bell Wholesale
- - [https://www.wholesale.bell.ca](https://www.wholesale.bell.ca)
- - date_published: 2024-07-11T17:24:06.684174+00:00
-
- ## Home - Bella Coola Harbour Authority
- - [https://bellacoolaharbour.ca](https://bellacoolaharbour.ca)
- - date_published: 2024-07-13T16:45:25+00:00
 

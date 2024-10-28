@@ -703,6 +703,10 @@
  - [https://du.ae](https://du.ae)
  - date_published: 2024-06-10T12:47:01.781688+00:00
 
+ ## Dubai Design Week | Home
+ - [https://www.dubaidesignweek.ae](https://www.dubaidesignweek.ae)
+ - date_published: 2024-10-27T12:50:22.530910+00:00
+
  ## Dubai Medical Tourism | Medical Tourism Agency in Dubai - DXH
  - [https://dxh.ae](https://dxh.ae)
  - date_published: 2024-06-18T10:53:44.195802+00:00
@@ -1359,6 +1363,10 @@
  - [https://www.nac.aero](https://www.nac.aero)
  - date_published: 2024-07-15T00:00:00+00:00
 
+ ## Home Page
+ - [https://www.nafa.aero](https://www.nafa.aero)
+ - date_published: 2024-10-27T19:17:10.994833+00:00
+
  ## NATA - National Air Transportation Association
  - [https://www.nata.aero](https://www.nata.aero)
  - date_published: 2024-08-07T00:00:00+00:00
@@ -1444,6 +1452,10 @@
  ## ZAL  Future. Created in Hamburg.
  - [https://zal.aero](https://zal.aero)
  - date_published: 2024-09-04T02:03:50.894191+00:00
+
+ ## Zenith Aircraft Builders and Flyers
+ - [https://zenith.aero](https://zenith.aero)
+ - date_published: 2024-10-27T19:11:19.998571+00:00
 
  ## Home - Afghan Telecom
  - [https://afghantelecom.af](https://afghantelecom.af)
@@ -2053,6 +2065,10 @@
  - [https://thecurious.agency](https://thecurious.agency)
  - date_published: 2024-05-08T00:00:00+00:00
 
+ ## TheNewsMarket | Transform your stories into news
+ - [https://thenewsmarket.agency](https://thenewsmarket.agency)
+ - date_published: 2024-10-27T17:53:00+00:00
+
  ## Thought Catalog Agency
  - [https://thoughtcatalog.agency](https://thoughtcatalog.agency)
  - date_published: 2024-07-09T11:36:49.462411+00:00
@@ -2495,6 +2511,10 @@
  - [https://amphi.ai](https://amphi.ai)
  - date_published: 2024-06-19T00:02:23+00:00
 
+ ## Amphi Docs | Amphi Docs
+ - [https://docs.amphi.ai](https://docs.amphi.ai)
+ - date_published: 2024-03-25T05:38:43+00:00
+
  ## 190903-amplified-logo-updated
  - [https://amplified.ai](https://amplified.ai)
  - date_published: 2024-07-11T16:48:16.653616+00:00
@@ -2884,6 +2904,10 @@
  - [https://ave.ai](https://ave.ai)
  - date_published: 2024-06-13T09:16:31+00:00
 
+ ## Home | Avkalan.ai
+ - [https://avkalan.ai](https://avkalan.ai)
+ - date_published: 2024-10-28T00:15:16.863470+00:00
+
  ## Avo Automation | Quality Assurance with Automated Testing | Click Now
  - [https://avoautomation.ai](https://avoautomation.ai)
  - date_published: 2024-04-22T00:00:00+00:00
@@ -3072,6 +3096,10 @@
  ## Table of contents | Better without AI
  - [https://betterwithout.ai](https://betterwithout.ai)
  - date_published: 2023-10-25T11:35:01.519383+00:00
+
+ ## Homepage - Betty Bot - Association Intelligent Assistant
+ - [https://bettybot.ai](https://bettybot.ai)
+ - date_published: 2024-10-28T00:50:43.960540+00:00
 
  ## Alex Bewley
  - [https://alex.bewley.ai](https://alex.bewley.ai)
@@ -3588,6 +3616,7 @@
  ## character.ai | Personalized AI for every moment of your day
  - [https://character.ai](https://character.ai)
  - date_published: 2024-04-28T04:37:09.136216+00:00
+ - tags: ['artificial intelligence bot']
 
  ## Character.AI Research Blog
  - [https://research.character.ai](https://research.character.ai)
@@ -3995,32 +4024,4 @@ Welcome
  ## Coho AI | Make App Engagement Easy
  - [https://www.coho.ai](https://www.coho.ai)
  - date_published: 2024-07-04T00:00:00+00:00
-
- ## CoinScreener
- - [https://www.coinscreener.ai](https://www.coinscreener.ai)
- - date_published: 2024-06-19T19:41:07.507107+00:00
-
- ## CoInvent AI
- - [https://coinvent.ai](https://coinvent.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Colibri.ai - AI Meeting Notes & Conversation Intelligence
- - [https://colibri.ai](https://colibri.ai)
- - date_published: 2024-06-19T20:56:52.046703+00:00
-
- ## Collie | One-Click Application Search
- - [https://collie.ai](https://collie.ai)
- - date_published: 2023-10-25T11:37:32.730245+00:00
-
- ## Colorify
- - [https://www.colorify.ai](https://www.colorify.ai)
- - date_published: 2024-06-19T20:34:57.964300+00:00
-
- ## Color Pop - Fun Coloring Games
- - [https://app.colorpop.ai](https://app.colorpop.ai)
- - date_published: 2024-06-19T19:11:23.481690+00:00
-
- ## Columns: your AI data storyteller
- - [https://columns.ai](https://columns.ai)
- - date_published: 2024-05-19T10:43:43.079647+00:00
 
