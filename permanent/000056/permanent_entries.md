@@ -1,3 +1,519 @@
+ ## Frankensteinia: The Frankenstein Blog
+ - [https://frankensteinia.blogspot.com](https://frankensteinia.blogspot.com)
+ - date_published: 2024-07-20T07:50:10+00:00
+
+ ## Frankie and Clover's Strictly Come Dancing Blog!
+ - [http://frankieandcloverstrictly.blogspot.com](http://frankieandcloverstrictly.blogspot.com)
+ - date_published: 2024-10-21T15:38:28.851192+00:00
+
+ ## Blogger
+ - [http://frankieloscavio.blogspot.com](http://frankieloscavio.blogspot.com)
+ - date_published: 2024-06-21T19:11:11.160326+00:00
+
+ ## Franznap Miniatures
+ - [http://franznapminiatures.blogspot.com](http://franznapminiatures.blogspot.com)
+ - date_published: 2024-10-07T05:03:09+00:00
+
+ ## Dragging Lead on Parchment
+ - [http://freddielee.blogspot.com](http://freddielee.blogspot.com)
+ - date_published: 2024-02-19T15:27:06+00:00
+
+ ## Fredd
+ - [http://freddsez.blogspot.com](http://freddsez.blogspot.com)
+ - date_published: 2024-09-02T08:22:57+00:00
+
+ ## The Five Freds
+ - [http://freddyandfredo.blogspot.com](http://freddyandfredo.blogspot.com)
+ - date_published: 2024-03-05T18:25:44+00:00
+
+ ## Fredrik Johansson
+ - [http://fredrik-j.blogspot.com](http://fredrik-j.blogspot.com)
+ - date_published: 2012-01-26T00:00:00+00:00
+
+ ## Fred's Warhammer Stuff
+ - [http://fredswarhammerstuff.blogspot.com](http://fredswarhammerstuff.blogspot.com)
+ - date_published: 2024-10-02T06:32:00+00:00
+
+ ## Freebies For Writers
+ - [http://freebiesforwriters.blogspot.com](http://freebiesforwriters.blogspot.com)
+ - date_published: 2024-07-04T06:41:09+00:00
+
+ ## Freebooter Kash
+ - [http://freebooterkash.blogspot.com](http://freebooterkash.blogspot.com)
+ - date_published: 2024-10-05T02:22:17+00:00
+
+ ## Freeborn John
+ - [http://freebornjohn.blogspot.com](http://freebornjohn.blogspot.com)
+ - date_published: 2024-10-21T14:11:28.393053+00:00
+
+ ## Free Constitution
+ - [http://freeconstitution.blogspot.com](http://freeconstitution.blogspot.com)
+ - date_published: 2024-07-03T02:05:07+00:00
+
+ ## Home-The last bastion
+ - [http://freedom-2-choose.blogspot.com](http://freedom-2-choose.blogspot.com)
+ - date_published: 2024-10-21T14:12:23.702797+00:00
+
+ ## Freedom and Whisky
+ - [http://freedomandwhisky.blogspot.com](http://freedomandwhisky.blogspot.com)
+ - date_published: 2024-06-22T06:32:31+00:00
+
+ ## freedom blog list
+ - [http://freedombloglist.blogspot.com](http://freedombloglist.blogspot.com)
+ - date_published: 2024-02-20T10:31:51+00:00
+
+ ## Pro Libertate
+ - [http://freedominourtime.blogspot.com](http://freedominourtime.blogspot.com)
+ - date_published: 2024-06-14T01:32:52+00:00
+
+ ## Freedom Is Mandatory
+ - [http://freedomismandatory.blogspot.com](http://freedomismandatory.blogspot.com)
+ - date_published: 2024-03-21T14:22:50+00:00
+
+ ## Freedom Now!
+ - [http://freedomnowonline.blogspot.com](http://freedomnowonline.blogspot.com)
+ - date_published: 2024-03-23T18:14:07+00:00
+
+ ## Blogger
+ - [http://free-english-people.blogspot.com](http://free-english-people.blogspot.com)
+ - date_published: 2024-10-21T15:28:11.919692+00:00
+
+ ## Free Gamer - Open Source Games (Free/Libre)
+ - [https://freegamer.blogspot.com](https://freegamer.blogspot.com)
+ - date_published: 2024-05-09T09:10:30.016846+00:00
+
+ ## Free Israel Now!
+ - [http://freeisraelnow.blogspot.com](http://freeisraelnow.blogspot.com)
+ - date_published: 2024-03-08T00:41:17+00:00
+
+ ## Freek's Development Blog
+ - [http://freekdev.blogspot.com](http://freekdev.blogspot.com)
+ - date_published: 2024-02-21T04:02:15+00:00
+
+ ## freeman, libertarian critter
+ - [http://freemanlc.blogspot.com](http://freemanlc.blogspot.com)
+ - date_published: 2024-06-03T02:06:25+00:00
+
+ ## Free North Carolina
+ - [https://freenorthcarolina.blogspot.com](https://freenorthcarolina.blogspot.com)
+ - date_published: 2022-08-06T00:00:00+00:00
+
+ ## Free Pascal Random Bits
+ - [http://freepascal-bits.blogspot.com](http://freepascal-bits.blogspot.com)
+ - date_published: 2024-02-20T21:41:14+00:00
+
+ ## FreeRCT
+ - [https://freerct.blogspot.com](https://freerct.blogspot.com)
+ - date_published: 2024-07-03T03:15:16+00:00
+
+ ## Back to life, free
+ - [https://freesoul83.blogspot.com](https://freesoul83.blogspot.com)
+ - date_published: 2024-03-19T19:20:00+00:00
+
+ ## Welcome to Freestate QRP
+ - [https://freestateqrp.blogspot.com](https://freestateqrp.blogspot.com)
+ - date_published: 2024-05-09T04:24:17.919130+00:00
+
+ ## The Warp and the Weft
+ - [http://frenchgeneral.blogspot.com](http://frenchgeneral.blogspot.com)
+ - date_published: 2024-07-15T10:00:34+00:00
+
+ ## FRENESI - Livros
+ - [http://frenesi-livros.blogspot.com](http://frenesi-livros.blogspot.com)
+ - date_published: 2024-03-14T05:00:31+00:00
+
+ ## Fresh Coast Gaming
+ - [http://freshcoastgaming.blogspot.com](http://freshcoastgaming.blogspot.com)
+ - date_published: 2024-10-17T07:46:29+00:00
+
+ ## Fresh from the Warp
+ - [http://freshfromthewarp.blogspot.com](http://freshfromthewarp.blogspot.com)
+ - date_published: 2024-09-04T18:34:49+00:00
+
+ ## Fresh Ribbon
+ - [http://freshribbon.blogspot.com](http://freshribbon.blogspot.com)
+ - date_published: 2024-07-11T18:12:43+00:00
+
+ ## FreshWP Blogger Template
+ - [https://freshwp-nbt.blogspot.com](https://freshwp-nbt.blogspot.com)
+ - date_published: 2010-09-05T00:00:00+00:00
+
+ ## Common in coastal waters
+ - [http://freshzebra.blogspot.com](http://freshzebra.blogspot.com)
+ - date_published: 2015-08-17T00:00:00+00:00
+
+ ## fretmarks
+ - [http://fretmarks.blogspot.com](http://fretmarks.blogspot.com)
+ - date_published: 2024-06-24T09:15:29+00:00
+
+ ## In The Games Of Madness
+ - [http://frictionalgames.blogspot.com](http://frictionalgames.blogspot.com)
+ - date_published: 2024-07-09T05:52:56+00:00
+
+ ## Trained Monkey Hacking Experience
+ - [https://fridrich.blogspot.com](https://fridrich.blogspot.com)
+ - date_published: 2014-05-23T17:15:00+00:00
+
+ ## Friends of Epicaricacy
+ - [http://friendsofepicaricacy.blogspot.com](http://friendsofepicaricacy.blogspot.com)
+ - date_published: 2024-02-08T10:07:38+00:00
+
+ ## Friends of Wolf Creek
+ - [http://friendsofwolfcreek.blogspot.com](http://friendsofwolfcreek.blogspot.com)
+ - date_published: 2024-03-14T05:54:41+00:00
+
+ ## Diario de un Friki
+ - [http://frikidiario.blogspot.com](http://frikidiario.blogspot.com)
+ - date_published: 2024-07-19T23:45:56+00:00
+
+ ## Φρικηπαίδεια
+ - [https://frikipaideiawiki.blogspot.com](https://frikipaideiawiki.blogspot.com)
+ - date_published: 2004-02-28T00:00:00+00:00
+
+ ## Frikitsuki
+ - [http://frikitsukinoraruto.blogspot.com](http://frikitsukinoraruto.blogspot.com)
+ - date_published: 2024-07-04T05:58:39+00:00
+
+ ## La Frikoteca
+ - [http://frikoteca.blogspot.com](http://frikoteca.blogspot.com)
+ - date_published: 2024-10-25T22:44:59+00:00
+
+ ## A View from the Beach
+ - [https://fritz-aviewfromthebeach.blogspot.com](https://fritz-aviewfromthebeach.blogspot.com)
+ - date_published: 2024-06-27T07:40:26+00:00
+
+ ## Maheer - Jasa Pembuatan Website Profesional, Landing Page, Desain Company Profile Harga Murah
+ - [http://froggyruminations.blogspot.com](http://froggyruminations.blogspot.com)
+ - date_published: 2024-06-14T11:37:12+00:00
+
+ ## From Gaza, with Love
+ - [http://fromgaza.blogspot.com](http://fromgaza.blogspot.com)
+ - date_published: 2024-06-20T05:50:42+00:00
+
+ ## From Midnight, With Love
+ - [http://frommidnight.blogspot.com](http://frommidnight.blogspot.com)
+ - date_published: 2024-03-13T18:40:41+00:00
+
+ ## Moon to Moon
+ - [http://frommoontomoon.blogspot.com](http://frommoontomoon.blogspot.com)
+ - date_published: 2024-06-25T09:03:47+00:00
+
+ ## From Sprue 2 Tabletop
+ - [https://fromsprue2tabletop.blogspot.com](https://fromsprue2tabletop.blogspot.com)
+ - date_published: 2021-05-20T00:00:00+00:00
+
+ ## From the Barrel of a Gun
+ - [http://fromthebarrelofagun.blogspot.com](http://fromthebarrelofagun.blogspot.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## From the borders of the Imperium
+ - [http://fromthebordersoftheimperium.blogspot.com](http://fromthebordersoftheimperium.blogspot.com)
+ - date_published: 2017-12-14T00:00:00+00:00
+
+ ## From the Clouds to the Resistance
+ - [http://fromtheclouds.blogspot.com](http://fromtheclouds.blogspot.com)
+ - date_published: 2024-10-21T18:40:41.716167+00:00
+
+ ## From The Fang
+ - [http://fromthefang.blogspot.com](http://fromthefang.blogspot.com)
+ - date_published: 2024-10-09T17:59:46+00:00
+
+ ## From the High Rise
+ - [https://fromthehighrise.blogspot.com](https://fromthehighrise.blogspot.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## From the Lone Oak
+ - [http://fromtheloneoak.blogspot.com](http://fromtheloneoak.blogspot.com)
+ - date_published: 2024-03-20T09:27:47+00:00
+
+ ## From the Warp
+ - [http://fromthewarp.blogspot.com](http://fromthewarp.blogspot.com)
+ - date_published: 2024-06-29T11:22:33+00:00
+
+ ## front-porch anarchist
+ - [http://front-porchanarchist.blogspot.com](http://front-porchanarchist.blogspot.com)
+ - date_published: 2024-05-16T11:31:58+00:00
+
+ ## Front Range Rambler
+ - [http://frontrangerambler.blogspot.com](http://frontrangerambler.blogspot.com)
+ - date_published: 2024-06-19T16:38:49+00:00
+
+ ## The Frothy Friar
+ - [http://frothyfriar.blogspot.com](http://frothyfriar.blogspot.com)
+ - date_published: 2024-07-04T06:40:26+00:00
+
+ ## Frotz Lamp
+ - [https://frotzing.blogspot.com](https://frotzing.blogspot.com)
+ - date_published: 2024-03-14T09:08:35+00:00
+
+ ## Fruits of Our Labour
+ - [http://fruitsofourlabour.blogspot.com](http://fruitsofourlabour.blogspot.com)
+ - date_published: 2024-03-14T06:51:55+00:00
+
+ ## Frum Gay Girl
+ - [http://frumgaygirl.blogspot.com](http://frumgaygirl.blogspot.com)
+ - date_published: 2024-06-26T22:10:21+00:00
+
+ ## Frum Gay Jew
+ - [http://frumgayjew.blogspot.com](http://frumgayjew.blogspot.com)
+ - date_published: 2024-03-13T18:25:19+00:00
+
+ ## Orthodox, Gay and Married Jew
+ - [http://frumgaymarried.blogspot.com](http://frumgaymarried.blogspot.com)
+ - date_published: 2024-03-23T10:17:02+00:00
+
+ ## Ford Cars Center
+ - [http://fsapsford.blogspot.com](http://fsapsford.blogspot.com)
+ - date_published: 2024-03-21T14:45:07+00:00
+
+ ## Facing The Grey Tide
+ - [http://ftgtgaming.blogspot.com](http://ftgtgaming.blogspot.com)
+ - date_published: 2024-09-27T13:19:03+00:00
+
+ ## I'm so happy / I wish I was dead
+ - [http://ftwdclxvi.blogspot.com](http://ftwdclxvi.blogspot.com)
+ - date_published: 2024-03-13T11:40:56+00:00
+
+ ## FUED
+ - [https://fuedhq.blogspot.com](https://fuedhq.blogspot.com)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Fuego Defensivo
+ - [http://fuegodefensivo.blogspot.com](http://fuegodefensivo.blogspot.com)
+ - date_published: 2024-02-08T01:47:06+00:00
+
+ ## Fugitive Equilibrium
+ - [http://fugitiveequilibrium.blogspot.com](http://fugitiveequilibrium.blogspot.com)
+ - date_published: 2024-07-15T09:03:42+00:00
+
+ ## Fulham Reactionary
+ - [http://fulhamreactionary.blogspot.com](http://fulhamreactionary.blogspot.com)
+ - date_published: 2024-03-07T06:59:45+00:00
+
+ ## The infrequent ramblings of a casual wargamer and hobbyist
+ - [http://fullashtraygaming.blogspot.com](http://fullashtraygaming.blogspot.com)
+ - date_published: 2024-07-03T03:13:36+00:00
+
+ ## William Entriken
+ - [https://fulldecent.blogspot.com](https://fulldecent.blogspot.com)
+ - date_published: 2024-08-09T12:04:16+00:00
+
+ ## Fully Jointed Play Figures
+ - [http://fully-jointed-play-figures.blogspot.com](http://fully-jointed-play-figures.blogspot.com)
+ - date_published: 2018-05-26T00:00:00+00:00
+
+ ## Fully Painted
+ - [http://fullypainted40k.blogspot.com](http://fullypainted40k.blogspot.com)
+ - date_published: 2024-09-01T13:02:54+00:00
+
+ ## Fumbling Towards Geekdom
+ - [https://fumbling-towards-geekdom.blogspot.com](https://fumbling-towards-geekdom.blogspot.com)
+ - date_published: 2024-05-02T10:08:53.959823+00:00
+
+ ## FUMMELFINGER
+ - [http://fummelfinger.blogspot.com](http://fummelfinger.blogspot.com)
+ - date_published: 2024-04-23T10:09:00+00:00
+
+ ## Abstract Heresies
+ - [https://funcall.blogspot.com](https://funcall.blogspot.com)
+ - date_published: 2024-08-06T10:07:28+00:00
+
+ ## Funderhammer
+ - [http://funderhammer.blogspot.com](http://funderhammer.blogspot.com)
+ - date_published: 2024-08-30T04:37:02+00:00
+
+ ## Funding The Kryptonite
+ - [http://fundingthekryptonite.blogspot.com](http://fundingthekryptonite.blogspot.com)
+ - date_published: 2024-10-07T06:07:34+00:00
+
+ ## The Fundy Post
+ - [http://fundypost.blogspot.com](http://fundypost.blogspot.com)
+ - date_published: 2024-10-21T13:35:59.111839+00:00
+
+ ## FUNKY WENIS RODEO
+ - [http://funkywenisrodeo.blogspot.com](http://funkywenisrodeo.blogspot.com)
+ - date_published: 2024-05-16T22:40:58+00:00
+
+ ## Andrew and Christopher Marks Funniest Stories
+ - [https://funnystories.blogspot.com](https://funnystories.blogspot.com)
+ - date_published: 2024-02-28T22:00:47+00:00
+
+ ## Fun Safari
+ - [http://funsafari.blogspot.com](http://funsafari.blogspot.com)
+ - date_published: 2004-02-29T00:00:00+00:00
+
+ ## Fun With Gravity
+ - [https://funwithgravity.blogspot.com](https://funwithgravity.blogspot.com)
+ - date_published: 2024-03-02T06:50:22+00:00
+
+ ## Laatikollinen avaruussuippokorvia
+ - [http://furinji.blogspot.com](http://furinji.blogspot.com)
+ - date_published: 2024-10-09T01:37:41+00:00
+
+ ## furmanportfolio
+ - [http://furmanportfolio.blogspot.com](http://furmanportfolio.blogspot.com)
+ - date_published: 2024-03-19T12:47:16+00:00
+
+ ## FUSION WORLD  3.0
+ - [https://fusion-world-30.blogspot.com](https://fusion-world-30.blogspot.com)
+ - date_published: 2024-06-15T18:18:21+00:00
+
+ ## Broadcast
+ - [https://futurecrayon.blogspot.com](https://futurecrayon.blogspot.com)
+ - date_published: 2024-08-09T16:30:15+00:00
+
+ ## (¯`*•    Observatory of the Future, articulated under Andres Agostini's book http://lnkd.in/R5pXnK
+ - [http://future-observatory.blogspot.com](http://future-observatory.blogspot.com)
+ - date_published: 2016-03-27T01:35:00+00:00
+
+ ## Future Planetary Exploration
+ - [http://futureplanets.blogspot.com](http://futureplanets.blogspot.com)
+ - date_published: 2024-07-14T18:01:51+00:00
+
+ ## Blogger
+ - [http://futuresandpasts.blogspot.com](http://futuresandpasts.blogspot.com)
+ - date_published: 2024-10-21T18:49:23.446588+00:00
+
+ ## Profiles of our future in space
+ - [http://futurespaceprofiles.blogspot.com](http://futurespaceprofiles.blogspot.com)
+ - date_published: 2024-05-04T02:06:43+00:00
+
+ ## Future Tense Memories
+ - [http://futuretensememories.blogspot.com](http://futuretensememories.blogspot.com)
+ - date_published: 2024-03-13T20:02:44+00:00
+
+ ## The Future Uncertain
+ - [http://futureuncertain.blogspot.com](http://futureuncertain.blogspot.com)
+ - date_published: 2024-06-16T06:01:09+00:00
+
+ ## the sceptical futuryst
+ - [http://futuryst.blogspot.com](http://futuryst.blogspot.com)
+ - date_published: 2024-10-18T15:42:31.804579+00:00
+
+ ## fuzzbuket's mini mayhem
+ - [http://fuzzbuket.blogspot.com](http://fuzzbuket.blogspot.com)
+ - date_published: 2024-10-07T04:30:20+00:00
+
+ ## Frank Wierzbicki's Weblog
+ - [http://fwierzbicki.blogspot.com](http://fwierzbicki.blogspot.com)
+ - date_published: 2024-03-07T23:26:05+00:00
+
+ ## No Hesitations
+ - [http://fxdiebold.blogspot.com](http://fxdiebold.blogspot.com)
+ - date_published: 2024-06-16T06:01:46+00:00
+
+ ## FXRant
+ - [https://fxrant.blogspot.com](https://fxrant.blogspot.com)
+ - date_published: 2023-11-20T09:24:52.399558+00:00
+
+ ## Gabriel Ratchet
+ - [http://gabrielratchet.blogspot.com](http://gabrielratchet.blogspot.com)
+ - date_published: 2024-02-07T03:57:54+00:00
+
+ ## Gaddeswarup's blog
+ - [http://gaddeswarup.blogspot.com](http://gaddeswarup.blogspot.com)
+ - date_published: 2024-06-29T08:57:33+00:00
+
+ ## GAGI  9 UPcycled
+ - [https://gagi9.blogspot.com](https://gagi9.blogspot.com)
+ - date_published: 2018-04-30T00:00:00+00:00
+
+ ## GA/GI  Fest 7   / Fertile Ground
+ - [http://gagifest7.blogspot.com](http://gagifest7.blogspot.com)
+ - date_published: 2023-11-16T10:38:43+00:00
+
+ ## GA/GI 8
+ - [http://gagifest8.blogspot.com](http://gagifest8.blogspot.com)
+ - date_published: 2017-05-03T00:00:00+00:00
+
+ ## Gaian Economics
+ - [http://gaianeconomics.blogspot.com](http://gaianeconomics.blogspot.com)
+ - date_published: 2024-10-21T13:46:37.740568+00:00
+
+ ## And you may find yourself...
+ - [http://gaijinseb.blogspot.com](http://gaijinseb.blogspot.com)
+ - date_published: 2024-10-21T16:36:08.643099+00:00
+
+ ## Shadows over Galaspar
+ - [https://galaspar.blogspot.com](https://galaspar.blogspot.com)
+ - date_published: 2024-03-14T08:22:56+00:00
+
+ ## Galaxy in Flames
+ - [http://galaxyinflames.blogspot.com](http://galaxyinflames.blogspot.com)
+ - date_published: 2019-01-27T00:00:00+00:00
+
+ ## Galaxy Warriors by Sungold
+ - [http://galaxywarriorsbysungold.blogspot.com](http://galaxywarriorsbysungold.blogspot.com)
+ - date_published: 2024-06-22T06:31:45+00:00
+
+ ## Galera Record
+ - [http://galerarecord.blogspot.com](http://galerarecord.blogspot.com)
+ - date_published: 2024-07-01T10:51:11+00:00
+
+ ## Galileo Blogs
+ - [https://galileoblogs.blogspot.com](https://galileoblogs.blogspot.com)
+ - date_published: 2024-05-04T07:42:51.029331+00:00
+
+ ## GalliaWatch
+ - [http://galliawatch.blogspot.com](http://galliawatch.blogspot.com)
+ - date_published: 2024-06-15T18:18:05+00:00
+
+ ## Gallicissa
+ - [http://gallicissa.blogspot.com](http://gallicissa.blogspot.com)
+ - date_published: 2024-10-19T05:22:18.282260+00:00
+
+ ## Doctor Who News
+ - [http://gallifreynewsbase.blogspot.com](http://gallifreynewsbase.blogspot.com)
+ - date_published: 2024-08-28T17:41:08+00:00
+
+ ## Gambit Games UK
+ - [http://gambitgamesuk.blogspot.com](http://gambitgamesuk.blogspot.com)
+ - date_published: 2024-10-25T08:44:41+00:00
+
+ ## Game in the Brain
+ - [http://gameinthebrain.blogspot.com](http://gameinthebrain.blogspot.com)
+ - date_published: 2024-07-08T08:08:22+00:00
+
+ ## Game Intro
+ - [http://game-intro.blogspot.com](http://game-intro.blogspot.com)
+ - date_published: 2024-03-05T13:25:59+00:00
+
+ ## Game Mayhem
+ - [http://gamemayhem.blogspot.com](http://gamemayhem.blogspot.com)
+ - date_published: 2024-03-20T06:27:08+00:00
+
+ ## Battle Game of the Month
+ - [https://gameofmonth.blogspot.com](https://gameofmonth.blogspot.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Gamer Addict Frank
+ - [http://gameraddictfrank.blogspot.com](http://gameraddictfrank.blogspot.com)
+ - date_published: 2024-08-28T17:08:11+00:00
+
+ ## Games, Music, Stuff
+ - [http://gamesbykahn.blogspot.com](http://gamesbykahn.blogspot.com)
+ - date_published: 2024-03-13T14:07:33+00:00
+
+ ## Games Of  War
+ - [http://gamesofwar2.blogspot.com](http://gamesofwar2.blogspot.com)
+ - date_published: 2024-03-05T20:47:50+00:00
+
+ ## The Old Wreckage of Fimm McCool's
+ - [http://gamesorkshop.blogspot.com](http://gamesorkshop.blogspot.com)
+ - date_published: 2024-05-16T09:05:45+00:00
+
+ ## games with others
+ - [http://gameswithothers.blogspot.com](http://gameswithothers.blogspot.com)
+ - date_published: 2024-07-11T18:32:37+00:00
+
+ ## Game Theorist
+ - [http://gametheorist.blogspot.com](http://gametheorist.blogspot.com)
+ - date_published: 2024-06-29T17:04:36+00:00
+
+ ## Gamin Daze
+ - [http://gamindaze.blogspot.com](http://gamindaze.blogspot.com)
+ - date_published: 2024-03-13T04:30:45+00:00
+
  ## Gaming After 40
  - [https://gamingafter40.blogspot.com](https://gamingafter40.blogspot.com)
  - date_published: 2024-07-08T08:41:24+00:00
@@ -3497,522 +4013,4 @@
  ## Journeys with Jade
  - [http://jadeswartzberg.blogspot.com](http://jadeswartzberg.blogspot.com)
  - date_published: 2024-03-13T03:40:23+00:00
-
- ## Jaeckel Alone
- - [https://jaeckelalone.blogspot.com](https://jaeckelalone.blogspot.com)
- - date_published: 2024-05-17T01:53:00+00:00
-
- ## The Long Walk Home
- - [http://jaekaygoesforth.blogspot.com](http://jaekaygoesforth.blogspot.com)
- - date_published: 2024-10-21T15:43:53.631780+00:00
-
- ## JagatSoker
- - [https://jagatsoker.blogspot.com](https://jagatsoker.blogspot.com)
- - date_published: 2024-06-18T01:50:42+00:00
-
- ## Ja!Ja!Sphinx
- - [https://jahjahsphinx.blogspot.com](https://jahjahsphinx.blogspot.com)
- - date_published: 2024-07-11T18:19:58+00:00
-
- ## Always Running Trails
- - [http://jaimeyebra.blogspot.com](http://jaimeyebra.blogspot.com)
- - date_published: 2024-02-19T07:35:49+00:00
-
- ## Jainism: Know It, Understand It & Internalize It
- - [https://jainism-says.blogspot.com](https://jainism-says.blogspot.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## jakalla
- - [http://jakalla.blogspot.com](http://jakalla.blogspot.com)
- - date_published: 2024-03-13T13:03:06+00:00
-
- ## Master Splinter Pizza Kits
- - [http://jakeface.blogspot.com](http://jakeface.blogspot.com)
- - date_published: 2024-10-05T04:18:48+00:00
-
- ## Jakito im Geisterhaus
- - [https://jakitoimgeisterhaus.blogspot.com](https://jakitoimgeisterhaus.blogspot.com)
- - date_published: 2024-06-29T16:44:44+00:00
-
- ## •••
- - [http://jakniepisac.blogspot.com](http://jakniepisac.blogspot.com)
- - date_published: 2024-03-14T09:15:47+00:00
-
- ## Jaköbische Rants
- - [http://jakobknits.blogspot.com](http://jakobknits.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## A Newbie's Guide to Publishing
- - [http://jakonrath.blogspot.com](http://jakonrath.blogspot.com)
- - date_published: 2024-07-04T12:54:00+00:00
-
- ## . The Next Chapter .
- - [http://jamesazacharyjr.blogspot.com](http://jamesazacharyjr.blogspot.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Nie znaleziono bloga
- - [http://jamesfetzer.blogspot.com](http://jamesfetzer.blogspot.com)
- - date_published: 2024-09-16T19:53:42.986367+00:00
-
- ## James Gurney Original Art
- - [http://jamesgurneyoriginalart.blogspot.com](http://jamesgurneyoriginalart.blogspot.com)
- - date_published: 2024-07-13T06:13:53+00:00
-
- ## One Div Zero
- - [https://james-iry.blogspot.com](https://james-iry.blogspot.com)
- - date_published: 2024-03-14T15:57:23+00:00
-
- ## James Killick's Blog
- - [http://jameskillick.blogspot.com](http://jameskillick.blogspot.com)
- - date_published: 2024-10-17T23:06:07.341858+00:00
-
- ## Tales From The Computerbank
- - [http://jameslecky.blogspot.com](http://jameslecky.blogspot.com)
- - date_published: 2024-03-13T02:44:04+00:00
-
- ## Blogger
- - [http://jamesmishler.blogspot.com](http://jamesmishler.blogspot.com)
- - date_published: 2024-07-15T09:29:53.265679+00:00
-
- ## James' notepad
- - [http://james-notepad.blogspot.com](http://james-notepad.blogspot.com)
- - date_published: 2024-10-21T14:05:12.369045+00:00
-
- ## The Empyrean
- - [https://jamesoftheempyrean.blogspot.com](https://jamesoftheempyrean.blogspot.com)
- - date_published: 2024-05-24T09:35:30+00:00
-
- ## The life of James R.
- - [https://jamesonwiki.blogspot.com](https://jamesonwiki.blogspot.com)
- - date_published: 2024-03-13T20:47:01+00:00
-
- ## Rough Edges
- - [http://jamesreasoner.blogspot.com](http://jamesreasoner.blogspot.com)
- - date_published: 2024-07-04T05:30:00+00:00
-
- ## From the Knife's Edge
- - [http://jamesvanschaik.blogspot.com](http://jamesvanschaik.blogspot.com)
- - date_published: 2024-06-04T17:25:14+00:00
-
- ## Malaika in Africa
- - [http://jamilahabibi.blogspot.com](http://jamilahabibi.blogspot.com)
- - date_published: 2024-03-13T17:40:25+00:00
-
- ## JammieWearingFool
- - [https://jammiewearingfool.blogspot.com](https://jammiewearingfool.blogspot.com)
- - date_published: 2024-03-23T18:15:30+00:00
-
- ## Jamur Panjang
- - [https://jamurpanjang.blogspot.com](https://jamurpanjang.blogspot.com)
- - date_published: 2023-11-27T00:00:00+00:00
-
- ## Jane Fulton Alt
- - [http://janefultonalt.blogspot.com](http://janefultonalt.blogspot.com)
- - date_published: 2024-04-11T06:24:50+00:00
-
- ## Reading, Writing, Working, Playing
- - [http://janegs.blogspot.com](http://janegs.blogspot.com)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## Blogger
- - [http://janelsjumble.blogspot.com](http://janelsjumble.blogspot.com)
- - date_published: 2024-10-17T23:08:38.611676+00:00
-
- ## Janet Novas
- - [https://janetnovas18.blogspot.com](https://janetnovas18.blogspot.com)
- - date_published: 2024-05-14T13:50:50+00:00
-
- ## Jane Austen Today
- - [http://janitesonthejames.blogspot.com](http://janitesonthejames.blogspot.com)
- - date_published: 2012-09-14T00:00:00+00:00
-
- ## sublime porta
- - [http://janizaro.blogspot.com](http://janizaro.blogspot.com)
- - date_published: 2019-12-07T00:00:00+00:00
-
- ## Janner's Jaunt
- - [http://jannersjaunt.blogspot.com](http://jannersjaunt.blogspot.com)
- - date_published: 2024-07-13T10:15:26+00:00
-
- ## Jan's Tech Talk
- - [https://janstechtalk.blogspot.com](https://janstechtalk.blogspot.com)
- - date_published: 2023-10-25T08:45:14.097788+00:00
- - tags: ['personal']
-
- ## Jon Anstey's Blog
- - [http://janstey.blogspot.com](http://janstey.blogspot.com)
- - date_published: 2024-03-13T05:18:58+00:00
-
- ## Llama's War of the Ring
- - [http://jaows.blogspot.com](http://jaows.blogspot.com)
- - date_published: 2024-04-27T11:26:51+00:00
-
- ## Jaremka
- - [http://jaremczyn.blogspot.com](http://jaremczyn.blogspot.com)
- - date_published: 2024-07-02T21:39:42+00:00
-
- ## The 53rd Street Biological Society
- - [http://jasonpolan.blogspot.com](http://jasonpolan.blogspot.com)
- - date_published: 2024-07-06T05:54:09+00:00
-
- ## SchlarBlog
- - [http://jasonschlarb.blogspot.com](http://jasonschlarb.blogspot.com)
- - date_published: 2024-03-24T09:21:46+00:00
-
- ## Hall of the Mountain King
- - [http://jasonzavoda-hallofthemountainking.blogspot.com](http://jasonzavoda-hallofthemountainking.blogspot.com)
- - date_published: 2024-09-05T19:51:20+00:00
-
- ## Jasoomian Dreams
- - [http://jasoomiandreams.blogspot.com](http://jasoomiandreams.blogspot.com)
- - date_published: 2024-03-13T04:14:56+00:00
-
- ## Just Code
- - [http://javaclipse.blogspot.com](http://javaclipse.blogspot.com)
- - date_published: 2023-12-22T13:18:20+00:00
-
- ## Java Persistence
- - [http://java-persistence.blogspot.com](http://java-persistence.blogspot.com)
- - date_published: 2024-03-08T06:57:35+00:00
-
- ## Java Persistence Performance
- - [http://java-persistence-performance.blogspot.com](http://java-persistence-performance.blogspot.com)
- - date_published: 2024-07-03T10:19:45+00:00
-
- ## Javarevisited
- - [https://javarevisited.blogspot.com](https://javarevisited.blogspot.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## Javier at war
- - [http://javieratwar.blogspot.com](http://javieratwar.blogspot.com)
- - date_published: 2024-06-28T23:16:48+00:00
-
- ## JaxCAL.org
- - [http://jaxcal.blogspot.com](http://jaxcal.blogspot.com)
- - date_published: 2024-02-21T03:18:56+00:00
-
- ## Jay Howell
- - [http://jayhowellart.blogspot.com](http://jayhowellart.blogspot.com)
- - date_published: 2024-10-12T11:28:22+00:00
-
- ## Jay's Wargaming Madness
- - [http://jayswargamingmadness.blogspot.com](http://jayswargamingmadness.blogspot.com)
- - date_published: 2024-10-20T21:47:42+00:00
-
- ## Jay's Workshop
- - [http://jaysworkshop-agemmanjw.blogspot.com](http://jaysworkshop-agemmanjw.blogspot.com)
- - date_published: 2024-10-05T02:07:39+00:00
-
- ## Phil's Seminal Jazz Rock and Politics Videoblog
- - [http://jazropo.blogspot.com](http://jazropo.blogspot.com)
- - date_published: 2024-03-06T03:08:56+00:00
-
- ## Jazz Couture
- - [http://jazz-couture.blogspot.com](http://jazz-couture.blogspot.com)
- - date_published: 2024-06-13T03:59:43+00:00
-
- ## JazzProfiles
- - [https://jazzprofiles.blogspot.com](https://jazzprofiles.blogspot.com)
- - date_published: 2023-10-25T09:09:09.036174+00:00
- - tags: ['personal']
-
- ## Jennifer Berdahl's Blog
- - [https://jberdahl.blogspot.com](https://jberdahl.blogspot.com)
- - date_published: 2024-06-15T07:06:40+00:00
-
- ## Change for the Better
- - [http://jbisbee.blogspot.com](http://jbisbee.blogspot.com)
- - date_published: 2024-04-28T02:37:16+00:00
-
- ## Eclipse JCRM and other advantures
- - [http://jcrmanagement.blogspot.com](http://jcrmanagement.blogspot.com)
- - date_published: 2024-03-14T07:47:31+00:00
-
- ## Just the Two of Us
- - [http://j-cschilling.blogspot.com](http://j-cschilling.blogspot.com)
- - date_published: 2024-03-14T11:59:31+00:00
-
- ## Steel on target
- - [http://jc-steelontarget.blogspot.com](http://jc-steelontarget.blogspot.com)
- - date_published: 2024-02-23T07:45:35+00:00
-
- ## The Velvet Blog
- - [http://jddblog.blogspot.com](http://jddblog.blogspot.com)
- - date_published: 2024-03-23T18:13:19+00:00
-
- ## john.blog :occasionally
- - [http://jdleesmiller.blogspot.com](http://jdleesmiller.blogspot.com)
- - date_published: 2024-09-02T07:56:47+00:00
-
- ## CW4EVER
- - [http://je1trv.blogspot.com](http://je1trv.blogspot.com)
- - date_published: 2024-06-07T06:04:36+00:00
-
- ## History of the Scottish Ilk
- - [http://jeannetomlin.blogspot.com](http://jeannetomlin.blogspot.com)
- - date_published: 2024-05-30T09:47:51+00:00
-
- ## blog of jedahu
- - [http://jedahu.blogspot.com](http://jedahu.blogspot.com)
- - date_published: 2024-03-13T04:38:05+00:00
-
- ## Jeeves Hat
- - [https://jeeveshat.blogspot.com](https://jeeveshat.blogspot.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## jeffbaerveldt
- - [http://jeffbaerveldt.blogspot.com](http://jeffbaerveldt.blogspot.com)
- - date_published: 2024-03-08T14:24:17+00:00
-
- ## Digital Dao
- - [https://jeffreycarr.blogspot.com](https://jeffreycarr.blogspot.com)
- - date_published: 2018-10-02T00:00:00+00:00
-
- ## The White Light
- - [http://jeffscheel.blogspot.com](http://jeffscheel.blogspot.com)
- - date_published: 2024-10-18T21:04:48+00:00
-
- ## JV's UpHill Adventures
- - [http://jeffvalliere.blogspot.com](http://jeffvalliere.blogspot.com)
- - date_published: 2024-05-27T03:04:15+00:00
-
- ## The Bottom Feeder
- - [https://jeff-vogel.blogspot.com](https://jeff-vogel.blogspot.com)
- - date_published: 2024-01-27T14:14:51.745453+00:00
-
- ## Je Lay Emprins
- - [http://je-lay-emprins.blogspot.com](http://je-lay-emprins.blogspot.com)
- - date_published: 2024-07-13T07:22:04+00:00
-
- ## Just Jemi
- - [http://jemifraser.blogspot.com](http://jemifraser.blogspot.com)
- - date_published: 2024-10-17T23:08:01.681701+00:00
-
- ## Jenkins-Devops
- - [https://jenkins-expert.blogspot.com](https://jenkins-expert.blogspot.com)
- - date_published: 2023-08-31T00:00:00+00:00
-
- ## Jennifer Cluff
- - [http://jennifercluff.blogspot.com](http://jennifercluff.blogspot.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Jennifer Lee Rossman - Speculative Fiction Author and Editor
- - [http://jenniferleerossman.blogspot.com](http://jenniferleerossman.blogspot.com)
- - date_published: 2024-09-03T09:55:00+00:00
-
- ## Blogger
- - [http://jennyandthemagicfeather.blogspot.com](http://jennyandthemagicfeather.blogspot.com)
- - date_published: 2024-07-20T06:41:42.332023+00:00
-
- ## Light reading
- - [http://jennydavidson.blogspot.com](http://jennydavidson.blogspot.com)
- - date_published: 2024-06-26T12:04:51+00:00
-
- ## *An English Travel Writer*
- - [https://jennywoolftravel.blogspot.com](https://jennywoolftravel.blogspot.com)
- - date_published: 2024-06-23T15:38:14+00:00
-
- ## Jenova Revival
- - [http://jenovapainting.blogspot.com](http://jenovapainting.blogspot.com)
- - date_published: 2024-02-08T01:47:08+00:00
-
- ## SpaceCowgirl
- - [http://jenyjomtbbliss.blogspot.com](http://jenyjomtbbliss.blogspot.com)
- - date_published: 2024-03-13T17:55:41+00:00
-
- ## Either/And with Jen Yockney
- - [https://jenyockney.blogspot.com](https://jenyockney.blogspot.com)
- - date_published: 2024-10-21T15:39:57.839801+00:00
-
- ## Jeremiah Grossman
- - [http://jeremiahgrossman.blogspot.com](http://jeremiahgrossman.blogspot.com)
- - date_published: 2024-10-12T11:42:02+00:00
-
- ## Jeremy's Weblog
- - [http://jeremyblachman.blogspot.com](http://jeremyblachman.blogspot.com)
- - date_published: 2024-03-01T20:17:54+00:00
-
- ## Jeremy Dear
- - [http://jeremydear.blogspot.com](http://jeremydear.blogspot.com)
- - date_published: 2024-10-21T18:58:01.496828+00:00
-
- ## Jeremy Hylton: Inconceivable
- - [http://jeremyhylton.blogspot.com](http://jeremyhylton.blogspot.com)
- - date_published: 2024-03-23T18:26:26+00:00
-
- ## Jeremy Saliba
- - [http://jeremysaliba.blogspot.com](http://jeremysaliba.blogspot.com)
- - date_published: 2024-05-24T09:34:40+00:00
-
- ## Look Me In The Eye
- - [http://jerobison.blogspot.com](http://jerobison.blogspot.com)
- - date_published: 2024-10-18T14:56:50.529136+00:00
-
- ## Cogito Ergo Geek
- - [http://jerrythegeek.blogspot.com](http://jerrythegeek.blogspot.com)
- - date_published: 2019-11-21T22:51:00+00:00
-
- ## Ramblings from the Sealord
- - [http://jerseyprivateer.blogspot.com](http://jerseyprivateer.blogspot.com)
- - date_published: 2020-07-28T00:00:00+00:00
-
- ## Skeptic's Corner
- - [http://jer-skepticscorner.blogspot.com](http://jer-skepticscorner.blogspot.com)
- - date_published: 2024-06-26T22:10:51+00:00
-
- ## Jerub-Baal's Spleen Vent
- - [http://jerubbaalsvent.blogspot.com](http://jerubbaalsvent.blogspot.com)
- - date_published: 2024-10-21T15:10:30.817089+00:00
-
- ## Jerusalem Experience
- - [http://jerusalem-experience.blogspot.com](http://jerusalem-experience.blogspot.com)
- - date_published: 2024-03-05T11:37:01+00:00
-
- ## Blogger
- - [http://jessandnatalie.blogspot.com](http://jessandnatalie.blogspot.com)
- - date_published: 2024-07-20T21:15:51.271611+00:00
-
- ## Jess's Designs
- - [http://jess-designs.blogspot.com](http://jess-designs.blogspot.com)
- - date_published: 2024-10-09T04:19:39+00:00
-
- ## Jesse's Café Américain
- - [https://jessescrossroadscafe.blogspot.com](https://jessescrossroadscafe.blogspot.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Jess Hurd
- - [http://jesshurd.blogspot.com](http://jesshurd.blogspot.com)
- - date_published: 2024-10-21T18:48:49.746757+00:00
-
- ## Jess J.E. Watson
- - [http://jessjewatson.blogspot.com](http://jessjewatson.blogspot.com)
- - date_published: 2024-03-19T12:35:52+00:00
-
- ## from the polo fleece to the jesus piece
- - [http://jesuspiece.blogspot.com](http://jesuspiece.blogspot.com)
- - date_published: 2024-10-21T04:44:39.080951+00:00
-
- ## Jet City Star
- - [https://jetcitystar.blogspot.com](https://jetcitystar.blogspot.com)
- - date_published: 2024-05-09T06:48:20.120223+00:00
-
- ## jetsetskippy
- - [https://jetsetskippy.blogspot.com](https://jetsetskippy.blogspot.com)
- - date_published: 2024-02-20T22:36:59+00:00
-
- ## Ambiance & Tactique
- - [http://jeux-de-plateaux-et-roles.blogspot.com](http://jeux-de-plateaux-et-roles.blogspot.com)
- - date_published: 2024-02-19T03:18:10+00:00
-
- ## Jeux et Figurines @ Sprz
- - [http://jeuxetfigurines.blogspot.com](http://jeuxetfigurines.blogspot.com)
- - date_published: 2024-09-04T00:21:41+00:00
-
- ## Jevopi's Developer Blog
- - [https://jevopisdeveloperblog.blogspot.com](https://jevopisdeveloperblog.blogspot.com)
- - date_published: 2024-06-30T20:15:31+00:00
-
- ## Jewish Atheist
- - [http://jewishatheist.blogspot.com](http://jewishatheist.blogspot.com)
- - date_published: 2004-03-01T00:00:00+00:00
-
- ## Freddie Mercury
- - [http://jews4palin.blogspot.com](http://jews4palin.blogspot.com)
- - date_published: 2023-11-15T17:49:46+00:00
-
- ## Jews sans frontieres
- - [http://jewssansfrontieres.blogspot.com](http://jewssansfrontieres.blogspot.com)
- - date_published: 2024-03-19T21:55:41+00:00
-
- ## Jez Bragg - Ultra Distance Mountain, Trail and Road Runner
- - [http://jezbragg.blogspot.com](http://jezbragg.blogspot.com)
- - date_published: 2024-03-31T23:37:15+00:00
-
- ## J-F Gagné's MySQL Blog
- - [http://jfg-mysql.blogspot.com](http://jfg-mysql.blogspot.com)
- - date_published: 2024-07-18T11:36:27+00:00
-
- ## Joseph F Miklojcik Tech Thoughts
- - [http://jfm3-repl.blogspot.com](http://jfm3-repl.blogspot.com)
- - date_published: 2024-03-14T07:16:58+00:00
-
- ## GAN SHER RHIE
- - [http://jgansherrhie.blogspot.com](http://jgansherrhie.blogspot.com)
- - date_published: 2024-09-01T00:44:50+00:00
-
- ## jhale2
- - [http://jhale2.blogspot.com](http://jhale2.blogspot.com)
- - date_published: 2024-03-13T14:27:29+00:00
-
- ## Ø
- - [https://jhsoby-en.blogspot.com](https://jhsoby-en.blogspot.com)
- - date_published: 2024-02-20T23:10:49+00:00
-
- ## Ø
- - [http://jhsoby-nb.blogspot.com](http://jhsoby-nb.blogspot.com)
- - date_published: 2024-02-20T23:02:43+00:00
-
- ## Great Reader
- - [http://jihadgene-greatreader.blogspot.com](http://jihadgene-greatreader.blogspot.com)
- - date_published: 2024-06-18T13:27:25+00:00
-
- ## Jill Edmondson: writing, comedy, and other creative things...
- - [http://jilledmondson.blogspot.com](http://jilledmondson.blogspot.com)
- - date_published: 2024-10-17T23:06:44.812923+00:00
-
- ## Jill Kemerer
- - [https://jillkemerer.blogspot.com](https://jillkemerer.blogspot.com)
- - date_published: 2024-10-17T23:02:02.647397+00:00
-
- ## Jimbibblyblog
- - [https://jimbibblyblog.blogspot.com](https://jimbibblyblog.blogspot.com)
- - date_published: 2024-07-16T22:33:26+00:00
-
- ## Jim Duncan        Wargamer
- - [http://jim-duncan.blogspot.com](http://jim-duncan.blogspot.com)
- - date_published: 2024-10-24T08:17:28+00:00
-
- ## Spectator
- - [http://jimfairlie.blogspot.com](http://jimfairlie.blogspot.com)
- - date_published: 2024-10-21T16:14:08.855071+00:00
-
- ## Type-in Mania: BASIC Programming on the TRS-80 MC-10
- - [https://jimgerrie.blogspot.com](https://jimgerrie.blogspot.com)
- - date_published: 2024-07-05T09:05:09+00:00
-
- ## The Daily (Maybe)
- - [http://jimjay.blogspot.com](http://jimjay.blogspot.com)
- - date_published: 2024-10-21T13:55:58.037092+00:00
-
- ## JIMSMASH ! ! !
- - [https://jimsmash.blogspot.com](https://jimsmash.blogspot.com)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Jim's Wargames Workbench
- - [http://jimswargamesworkbench.blogspot.com](http://jimswargamesworkbench.blogspot.com)
- - date_published: 2024-07-20T07:06:07+00:00
-
- ## Real World Libertarian
- - [http://jimunro.blogspot.com](http://jimunro.blogspot.com)
- - date_published: 2024-10-21T15:09:46.744655+00:00
-
- ## jim@learning
- - [http://jimwangtaiwan.blogspot.com](http://jimwangtaiwan.blogspot.com)
- - date_published: 2024-05-20T05:19:02+00:00
-
- ## The Woodring Monitor
- - [http://jimwoodring.blogspot.com](http://jimwoodring.blogspot.com)
- - date_published: 2024-03-27T17:44:40+00:00
-
- ## PACIFIC WAVE
- - [https://jinpeili.blogspot.com](https://jinpeili.blogspot.com)
- - date_published: 2024-05-07T15:10:31.465322+00:00
-
- ## Jipin
- - [http://jipbowski.blogspot.com](http://jipbowski.blogspot.com)
- - date_published: 2024-10-24T16:50:04+00:00
-
- ## JIPLP
- - [http://jiplp.blogspot.com](http://jiplp.blogspot.com)
- - date_published: 2024-10-18T19:16:50.194652+00:00
 

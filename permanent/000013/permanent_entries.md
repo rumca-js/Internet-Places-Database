@@ -1,3 +1,106 @@
+ ## Yapaka
+ - [http://www.yapaka.be](http://www.yapaka.be)
+ - date_published: 2024-09-11T19:42:20.717845+00:00
+
+ ## YAWn!
+ - [http://www.yawn.be](http://www.yawn.be)
+ - date_published: 2018-05-10T07:08:38+00:00
+
+ ## Yelp
+ - [https://en.m.yelp.be](https://en.m.yelp.be)
+ - date_published: 2024-07-01T06:56:57.999578+00:00
+
+ ## Yelp
+ - [https://en.yelp.be](https://en.yelp.be)
+ - date_published: 2024-07-01T06:52:50.528086+00:00
+
+ ## Yelp
+ - [https://fr.m.yelp.be](https://fr.m.yelp.be)
+ - date_published: 2024-07-01T07:10:07.736041+00:00
+
+ ## Yelp
+ - [https://fr.yelp.be](https://fr.yelp.be)
+ - date_published: 2024-07-01T07:05:27.758570+00:00
+
+ ## Yelp
+ - [https://nl.m.yelp.be](https://nl.m.yelp.be)
+ - date_published: 2024-07-01T06:59:29.069979+00:00
+
+ ## Yelp
+ - [https://nl.yelp.be](https://nl.yelp.be)
+ - date_published: 2024-07-01T06:59:24.482459+00:00
+
+ ## Invidious - search
+ - [https://yewtu.be](https://yewtu.be)
+ - date_published: 2023-10-24T20:05:36.098030+00:00
+ - tags: ['youtube']
+
+ ## Youreka ∙ 360° Virtual Tours ∙ Show Don't Tell
+ - [https://youreka-virtualtours.be](https://youreka-virtualtours.be)
+ - date_published: 2024-10-22T10:53:44.348458+00:00
+
+ ## Yous
+ - [https://yous.be](https://yous.be)
+ - date_published: 2024-08-03T07:39:53+00:00
+
+ ## YouTube
+ - [https://youtu.be](https://youtu.be)
+ - date_published: 2023-11-08T20:32:57.103890+00:00
+ - tags: ['youtube']
+
+ ## YouTube
+ - [http://yt.be](http://yt.be)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Lounge by Zalando België - Online mode- en lifestyle outlet
+ - [https://www.zalando-lounge.be](https://www.zalando-lounge.be)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Zayneb
+ - [http://zayneb.be](http://zayneb.be)
+ - date_published: 2024-07-02T23:06:35+00:00
+
+ ## Splashpage
+ - [https://www.zeiss.be](https://www.zeiss.be)
+ - date_published: 2024-09-16T07:55:36.086704+00:00
+
+ ## Op zoek naar hulp? | Zelfmoord 1813
+ - [https://www.zelfmoord1813.be](https://www.zelfmoord1813.be)
+ - date_published: 2024-10-15T15:53:32.270608+00:00
+
+ ## Zimmo.be
+ - [https://tickers.zimmo.be](https://tickers.zimmo.be)
+ - date_published: 2024-07-13T09:54:16.162723+00:00
+
+ ## Zimmo
+ - [http://www.zimmo.be](http://www.zimmo.be)
+ - date_published: 2024-09-02T11:10:46.249214+00:00
+
+ ## Classic Web - Embracing Open-Source and Privacy
+ - [https://classic.zoemp.be](https://classic.zoemp.be)
+ - date_published: 2024-01-22T13:07:24+00:00
+
+ ## Gitea
+ - [https://gitea.zoemp.be](https://gitea.zoemp.be)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Morgan Wattiez ‚Äì Quality is always right
+ - [https://morgan.zoemp.be](https://morgan.zoemp.be)
+ - date_published: 2024-03-09T15:57:22.261140+00:00
+ - tags: ['personal']
+
+ ## Morgan Sans Guidon - Liens
+ - [https://shaarli.zoemp.be](https://shaarli.zoemp.be)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.be](https://www2.zoetis.be)
+ - date_published: 2024-06-27T09:52:50+00:00
+
+ ## Support
+ - [https://support.zooplus.be](https://support.zooplus.be)
+ - date_published: 2024-09-26T11:26:23.942312+00:00
+
  ## Animalerie en ligne n°1 en Europe  | Zooplus.be
  - [https://www.zooplus.be](https://www.zooplus.be)
  - date_published: 2024-06-16T06:27:18.274216+00:00
@@ -638,6 +741,10 @@
  ## Economy.bg - бизнесът в България
  - [https://economy.bg](https://economy.bg)
  - date_published: 2024-09-24T11:15:51.531129+00:00
+
+ ## eDesign | Уеб дизайн и дигитална агенция
+ - [https://edesign.bg](https://edesign.bg)
+ - date_published: 2024-10-28T07:20:05.895600+00:00
 
  ## Extreme Digital Kapcsolat | eMAG Help
  - [https://edigital.bg](https://edigital.bg)
@@ -3895,6 +4002,10 @@
  - [https://status.micro.blog](https://status.micro.blog)
  - date_published: 2024-08-18T00:00:00+00:00
 
+ ## Sumo Theme
+ - [https://sumo.micro.blog](https://sumo.micro.blog)
+ - date_published: 2024-10-25T14:31:37+00:00
+
  ## tbc aka tbc0 aka Tim Chambers
  - [https://tbc.micro.blog](https://tbc.micro.blog)
  - date_published: 2024-06-22T04:49:21+00:00
@@ -3952,114 +4063,4 @@
  ## Mindsers Blog: Inspirer les devs, un article à la fois
  - [https://mindsers.blog](https://mindsers.blog)
  - date_published: 2024-05-11T10:18:14.861792+00:00
-
- ## Mindsers Shop - Merchandising, T-Shirt, Sticker pour les développeurs
- - [https://shop.mindsers.blog](https://shop.mindsers.blog)
- - date_published: 2024-07-14T09:11:40.742663+00:00
-
- - [https://miris.blog](https://miris.blog)
- - date_published: 2024-02-26T09:12:32.456732+00:00
-
- ## mixable Blog | A mix of digital topics.
- - [https://mixable.blog](https://mixable.blog)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Cosmic Column | Kai Christensen | Substack
- - [https://mkaic.blog](https://mkaic.blog)
- - date_published: 2024-02-25T19:26:35.474528+00:00
-
- ## mkaz.blog
- - [https://mkaz.blog](https://mkaz.blog)
- - date_published: 2024-08-07T19:30:52.016844+00:00
-
- ## (no title)
- - [https://mlatgt.blog](https://mlatgt.blog)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## mmap(blog)
- - [https://mmapped.blog](https://mmapped.blog)
- - date_published: 2023-10-25T09:25:23.417879+00:00
- - tags: ['personal']
-
- ## More is Different | Dan Elton | Substack
- - [https://moreisdifferent.blog](https://moreisdifferent.blog)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## moviescape.blog
- - [https://moviescape.blog](https://moviescape.blog)
- - date_published: 2024-07-02T18:00:53.637864+00:00
-
- ## Museum of Health Care Blog
- - [https://museumofhealthcare.blog](https://museumofhealthcare.blog)
- - date_published: 2024-02-24T18:08:23.471594+00:00
-
- ## The Music Aficionado
- - [https://musicaficionado.blog](https://musicaficionado.blog)
- - date_published: 2024-06-22T12:04:24+00:00
-
- ## <mxstbr/>
- - [https://mxstbr.blog](https://mxstbr.blog)
- - date_published: 2018-02-21T00:00:00+00:00
-
- ## Zondax
- - [https://zondax.mymidnight.blog](https://zondax.mymidnight.blog)
- - date_published: 2024-09-21T23:55:53.478352+00:00
-
- ## my silent voice/ my stil stem
- - [http://mysilentvoice.blog](http://mysilentvoice.blog)
- - date_published: 2024-09-03T23:07:36.422957+00:00
-
- ## Jessica's Nature Blog
- - [https://natureinfocus.blog](https://natureinfocus.blog)
- - date_published: 2024-06-30T01:45:26.030894+00:00
-
- ## NBMG
- - [http://nbmg.blog](http://nbmg.blog)
- - date_published: 2024-06-24T07:37:33+00:00
-
- ## near.blog | personal website
- - [https://near.blog](https://near.blog)
- - date_published: 2024-05-11T10:54:48.598948+00:00
-
- ## Neil Madden
- - [https://neilmadden.blog](https://neilmadden.blog)
- - date_published: 2023-10-25T09:01:51.726758+00:00
- - tags: ['personal']
-
- ## NetNewsWire
- - [https://netnewswire.blog](https://netnewswire.blog)
- - date_published: 2024-02-26T09:24:21.621475+00:00
-
- ## New Catallaxy – Sinistra delenda est
- - [https://newcatallaxy.blog](https://newcatallaxy.blog)
- - date_published: 2024-06-30T04:57:10.120272+00:00
-
- ## Global Furry Television
- - [https://globalfurrytv.news.blog](https://globalfurrytv.news.blog)
- - date_published: 2024-06-30T06:01:18.470629+00:00
-
- ## Newspack - The platform for news.
- - [https://newspack.blog](https://newspack.blog)
- - date_published: 2024-07-13T15:32:20+00:00
-
- ## NextBiz
- - [https://www.nextbiz.blog](https://www.nextbiz.blog)
- - date_published: 2024-06-29T19:34:25.136875+00:00
-
- ## Nicheless | Think. Write away.
- - [https://nicheless.blog](https://nicheless.blog)
- - date_published: 2023-10-25T08:41:08.563849+00:00
-
- ## NOAA Teacher at Sea Blog
- - [https://noaateacheratsea.blog](https://noaateacheratsea.blog)
- - date_published: 2024-06-17T16:25:52+00:00
-
- ## Noahpinion | Noah Smith | Substack
- - [https://noahpinion.blog](https://noahpinion.blog)
- - date_published: 2023-10-25T09:39:20.899129+00:00
- - tags: ['substack']
-
- ## No Bells
- - [https://nobells.blog](https://nobells.blog)
- - date_published: 2024-04-29T00:00:00+00:00
 

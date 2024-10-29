@@ -1,3 +1,39 @@
+ ## Become a security pro - Panoptica Academy
+ - [https://academy.panoptica.app](https://academy.panoptica.app)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Cisco Panoptica
+ - [https://docs.panoptica.app](https://docs.panoptica.app)
+ - date_published: 2024-08-18T09:47:51.806861+00:00
+
+ ## The Cisco Secure Application Cloud | An Effective Security Platform - Panoptica
+ - [https://panoptica.app](https://panoptica.app)
+ - date_published: 2023-12-20T23:10:10.715922+00:00
+
+ ## Home | Parsec Blog
+ - [https://blog.parsec.app](https://blog.parsec.app)
+ - date_published: 2024-10-04T04:57:14.840776+00:00
+
+ ## Webinar: See Parsec for Teams Yourself
+ - [https://go.parsec.app](https://go.parsec.app)
+ - date_published: 2024-06-16T11:50:59.231129+00:00
+
+ ## Connect to Work or Games from Anywhere | Parsec
+ - [https://pages.parsec.app](https://pages.parsec.app)
+ - date_published: 2024-10-04T04:57:16.508627+00:00
+
+ ## Connect to Work or Games from Anywhere | Parsec
+ - [https://parsec.app](https://parsec.app)
+ - date_published: 2024-06-16T11:51:03.931807+00:00
+
+ ## Partnerhub® for partnerships-led growth.
+ - [https://partnerhub.app](https://partnerhub.app)
+ - date_published: 2024-07-11T17:31:12.724787+00:00
+
+ ## Party
+ - [https://base.party.app](https://base.party.app)
+ - date_published: 2024-07-21T04:58:18.856013+00:00
+
  ## Party
  - [https://www.partybid.app](https://www.partybid.app)
  - date_published: 2024-09-25T11:22:18.994162+00:00
@@ -841,6 +877,10 @@
  - [https://rydeen.app](https://rydeen.app)
  - date_published: 2024-06-03T11:21:06.056570+00:00
 
+ ## Sales & Dungeons
+ - [https://sales-and-dungeons.app](https://sales-and-dungeons.app)
+ - date_published: 2024-10-27T15:44:07+00:00
+
  ## Sanrchain Explorer
  - [https://app-explorer-pos.sanr.app](https://app-explorer-pos.sanr.app)
  - date_published: 2024-09-24T05:51:04.222441+00:00
@@ -1033,6 +1073,10 @@
  ## Slater | AI Custom Code Tool For Webflow Projects
  - [https://slater.app](https://slater.app)
  - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Slater | AI Custom Code Tool For Webflow Projects
+ - [https://staging.slater.app](https://staging.slater.app)
+ - date_published: 2024-10-28T11:59:59.082934+00:00
 
  ## Feedback | Academia.edu
  - [https://665a80a1d207b.sleekplan.app](https://665a80a1d207b.sleekplan.app)
@@ -1726,6 +1770,10 @@
  ## 新時代の日程調整ツール | トヨクモ スケジューラー
  - [https://toyokumo.app](https://toyokumo.app)
  - date_published: 2024-07-07T02:57:52.633180+00:00
+
+ ## TFS Fleet Portal
+ - [https://toyotafleet.app](https://toyotafleet.app)
+ - date_published: 2024-09-17T00:52:47+00:00
 
  ## TonicPow - A promotion marketplace for the Bitcoin era
  - [https://tpow.app](https://tpow.app)
@@ -3970,52 +4018,4 @@
  ## sphere wif hat
  - [https://wif-sphere.vercel.app](https://wif-sphere.vercel.app)
  - date_published: 2024-06-22T12:42:01.497953+00:00
-
- ## WindLand - By Neotix
- - [https://windland-neotix.vercel.app](https://windland-neotix.vercel.app)
- - date_published: 2024-08-06T20:06:03.171242+00:00
-
- ## WonderMap
- - [https://wondermap.vercel.app](https://wondermap.vercel.app)
- - date_published: 2024-06-24T03:36:40.076935+00:00
-
- ## እንቆቅልሽ
- - [https://wordle-am.vercel.app](https://wordle-am.vercel.app)
- - date_published: 2024-07-21T02:22:55.129648+00:00
-
- ## Written
- - [https://written-weld.vercel.app](https://written-weld.vercel.app)
- - date_published: 2024-08-18T22:02:23.080710+00:00
-
- ## WTF DOES THIS COMPANY DO
- - [https://wtfdoesthiscompanydo.vercel.app](https://wtfdoesthiscompanydo.vercel.app)
- - date_published: 2023-10-25T11:51:04.640307+00:00
-
- ## https://yakgpt.vercel.app
- - [https://yakgpt.vercel.app](https://yakgpt.vercel.app)
- - date_published: 2024-01-09T02:23:41.451242+00:00
-
- ## Yasuragi Tea
- - [https://yasuragi.vercel.app](https://yasuragi.vercel.app)
- - date_published: 2024-05-10T02:44:21.200686+00:00
-
- ## YC Idea Matcher
- - [https://yc-idea-matcher-mxjdrz0f5-neondatabase.vercel.app](https://yc-idea-matcher-mxjdrz0f5-neondatabase.vercel.app)
- - date_published: 2024-08-19T11:29:38.569412+00:00
-
- ## YC Idea Matcher
- - [https://yc-idea-matcher.vercel.app](https://yc-idea-matcher.vercel.app)
- - date_published: 2023-10-25T11:51:16.534056+00:00
-
- ## Year In Music
- - [https://year-in-music-workshop.vercel.app](https://year-in-music-workshop.vercel.app)
- - date_published: 2024-07-02T20:41:55.395698+00:00
-
- ## Sanity Studio
- - [https://yolo-backend.vercel.app](https://yolo-backend.vercel.app)
- - date_published: 2024-09-04T12:27:04.252098+00:00
-
- ## youkwhd
- - [https://youkwhd.vercel.app](https://youkwhd.vercel.app)
- - date_published: 2024-07-23T23:27:33.700603+00:00
 

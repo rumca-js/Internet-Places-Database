@@ -1,3 +1,15 @@
+ ## Free Logo Maker | Create a Logo Online - Logomakerr.ai
+ - [https://logomakerr.ai](https://logomakerr.ai)
+ - date_published: 2024-06-19T21:07:56.681395+00:00
+
+ ## Free Logo Maker | Create Your Own Logo Design | Logomaster.ai
+ - [https://logomaster.ai](https://logomaster.ai)
+ - date_published: 2024-06-17T01:47:08+00:00
+
+ ## Loman | The 24/7 AI Phone Agent for Restaurants
+ - [https://www.loman.ai](https://www.loman.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## Long Phan
  - [https://longphan.ai](https://longphan.ai)
  - date_published: 2024-04-12T21:47:00+00:00
@@ -2456,6 +2468,10 @@
  - [http://rapids.ai](http://rapids.ai)
  - date_published: 2024-07-20T11:03:12.024064+00:00
 
+ ## Rapid Visual: AI-Powered Visual Prototyping for Innovation Teams
+ - [https://www.rapidvisual.ai](https://www.rapidvisual.ai)
+ - date_published: 2024-10-21T14:33:44+00:00
+
  ## Leading AI video localization & dubbing tool
  - [https://www.rask.ai](https://www.rask.ai)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -4005,20 +4021,4 @@
  ## Loading...
  - [https://euserv.superops.ai](https://euserv.superops.ai)
  - date_published: 2024-07-12T14:41:25+00:00
-
- ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
- - [https://superops.ai](https://superops.ai)
- - date_published: 2024-05-10T06:32:23.608347+00:00
-
- ## Loading...
- - [https://usserv.superops.ai](https://usserv.superops.ai)
- - date_published: 2024-07-12T14:41:05+00:00
-
- ## AI superpowers for your support team | SuperSupport.ai
- - [https://supersupport.ai](https://supersupport.ai)
- - date_published: 2024-05-06T15:13:20.193193+00:00
-
- ## Supertone - Product
- - [https://product.supertone.ai](https://product.supertone.ai)
- - date_published: 2024-05-06T18:31:31.310432+00:00
 

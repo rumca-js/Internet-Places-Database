@@ -1,3 +1,7 @@
+ ## Coho AI | Make App Engagement Easy
+ - [https://www.coho.ai](https://www.coho.ai)
+ - date_published: 2024-07-04T00:00:00+00:00
+
  ## CoinScreener
  - [https://www.coinscreener.ai](https://www.coinscreener.ai)
  - date_published: 2024-06-19T19:41:07.507107+00:00
@@ -1921,6 +1925,10 @@
  - [https://genaisummit.ai](https://genaisummit.ai)
  - date_published: 2024-07-23T21:18:46.505729+00:00
 
+ ## Devlin's AI Portfolio
+ - [https://www.generativestorytelling.ai](https://www.generativestorytelling.ai)
+ - date_published: 2024-09-05T03:12:55+00:00
+
  ## GenForge |  Accelerate your Productivity with Personal AI
  - [https://www.genforge.ai](https://www.genforge.ai)
  - date_published: 2024-06-19T19:08:43.529767+00:00
@@ -2572,6 +2580,10 @@
  ## hirex.ai
  - [https://www.hirex.ai](https://www.hirex.ai)
  - date_published: 2024-04-01T18:09:35+00:00
+
+ ## hitt.ai | AI Workout Tracker
+ - [https://hitt.ai](https://hitt.ai)
+ - date_published: 2024-10-28T07:12:38.277146+00:00
 
  ## HitWit.ai
  - [https://hitwit.ai](https://hitwit.ai)
@@ -4000,16 +4012,4 @@
 
  - [https://locofy.ai](https://locofy.ai)
  - date_published: 2024-04-25T21:21:22.657949+00:00
-
- ## Free Logo Maker | Create a Logo Online - Logomakerr.ai
- - [https://logomakerr.ai](https://logomakerr.ai)
- - date_published: 2024-06-19T21:07:56.681395+00:00
-
- ## Free Logo Maker | Create Your Own Logo Design | Logomaster.ai
- - [https://logomaster.ai](https://logomaster.ai)
- - date_published: 2024-06-17T01:47:08+00:00
-
- ## Loman | The 24/7 AI Phone Agent for Restaurants
- - [https://www.loman.ai](https://www.loman.ai)
- - date_published: 2024-06-26T00:00:00+00:00
 
