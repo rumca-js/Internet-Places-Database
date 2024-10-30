@@ -1,339 +1,3 @@
- ## WebPress
- - [https://webpress.no](https://webpress.no)
- - date_published: 2018-04-12T11:59:26+00:00
-
- ## IT-konsulenter i teknologi- og rådgivningsselskapet Webstep
- - [https://www.webstep.no](https://www.webstep.no)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Weedensenteret — Hva er egentlig cannabis?
- - [https://weedensenteret.no](https://weedensenteret.no)
- - date_published: 2024-08-06T20:07:16.607096+00:00
-
- ## Forside - Wikimedia Norge
- - [https://www.wikimedia.no](https://www.wikimedia.no)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Allan Jensen — Software Developer & Consultant
- - [http://www.winternet.no](http://www.winternet.no)
- - date_published: 2024-06-18T11:06:30.335786+00:00
-
- ## Agera WWF Norge
- - [https://blimed.wwf.no](https://blimed.wwf.no)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Gjør Norges hager villere
- - [https://wwf.no](https://wwf.no)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## XLENT Norge
- - [https://www.xlent.no](https://www.xlent.no)
- - date_published: 2024-08-17T23:48:28.058530+00:00
-
- ## Billigste og Beste forbrukslån
- - [https://xn--besteforbruksln-ulb.no](https://xn--besteforbruksln-ulb.no)
- - date_published: 2024-05-08T09:12:47.937172+00:00
-
- ## Forbrukslån | Lån uten sikkerhet (Billigste) Topp 10
- - [https://www.xn--billigeforbruksln-orb.no](https://www.xn--billigeforbruksln-orb.no)
- - date_published: 2024-10-19T08:01:23.682311+00:00
-
- ## Lånekalkulator - Regn ut hvor mye lånet koster
- - [https://xn--lnekalkulator1-lib.no](https://xn--lnekalkulator1-lib.no)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Låne Penger - Låne 1.000 - 500.000 kr til lav Rente fra 6.99%
- - [https://xn--lnepenger24-x8a.no](https://xn--lnepenger24-x8a.no)
- - date_published: 2018-11-09T00:00:00+00:00
-
- ## Forbrukslån på dagen | Tilbud fra 20+ Banker | Låne Penger
- - [https://xn--lnepenger-52a.no](https://xn--lnepenger-52a.no)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Home
- - [https://yankee.no](https://yankee.no)
- - date_published: 2020-11-21T22:30:32+00:00
-
- ## Yelp
- - [https://m.yelp.no](https://m.yelp.no)
- - date_published: 2024-07-01T07:11:08.466078+00:00
-
- ## Yelp
- - [https://yelp.no](https://yelp.no)
- - date_published: 2024-07-01T07:08:39.329866+00:00
-
- ## Yr Badetemperaturer
- - [https://badetemperaturer.yr.no](https://badetemperaturer.yr.no)
- - date_published: 2024-07-01T10:11:35.446458+00:00
-
- ## For developers - Yr
- - [https://developer.yr.no](https://developer.yr.no)
- - date_published: 2023-12-07T00:00:00+00:00
-
- ## Yr help and information
- - [https://hjelp.yr.no](https://hjelp.yr.no)
- - date_published: 2015-01-30T00:00:00+00:00
-
- ## Retro.yr.no
- - [https://retro.yr.no](https://retro.yr.no)
- - date_published: 2021-10-07T08:43:25+00:00
-
- ## Dagens værvarsel for ditt sted
- - [https://yr.no](https://yr.no)
- - date_published: 2024-05-07T19:04:43.208564+00:00
-
- ## ZEISS i Norge
- - [https://www.zeiss.no](https://www.zeiss.no)
- - date_published: 2024-09-16T07:55:53.692542+00:00
-
- ## Zoetis
- - [https://www2.zoetis.no](https://www2.zoetis.no)
- - date_published: 2024-06-27T09:52:50+00:00
-
- ## Support
- - [https://support.zooplus.no](https://support.zooplus.no)
- - date_published: 2024-09-26T11:26:30.220027+00:00
-
- ## zooplus dyrebutikk på nett | Alt til kjæledyr på ett sted
- - [https://www.zooplus.no](https://www.zooplus.no)
- - date_published: 2024-06-16T06:28:03.817003+00:00
-
- ## CICERO
- - [https://cicero.oslo.no](https://cicero.oslo.no)
- - date_published: 2024-06-20T16:23:15.735327+00:00
-
- ## Daniel Aleksandersen
- - [https://daniel.priv.no](https://daniel.priv.no)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Arnt Gulbrandsen
- - [https://rant.gulbrandsen.priv.no](https://rant.gulbrandsen.priv.no)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Arjun's Blogs
- - [https://adhikariarjun.com.np](https://adhikariarjun.com.np)
- - date_published: 2022-09-02T16:25:34+00:00
-
- ## Dinesh Ghimire - Software Developer
- - [https://dinesh-ghimire.com.np](https://dinesh-ghimire.com.np)
- - date_published: 2024-05-10T14:08:26+00:00
-
- ## Roy's Blog
- - [https://dineshroy.com.np](https://dineshroy.com.np)
- - date_published: 2024-05-07T09:14:19.412997+00:00
- - tags: ['personal']
-
- ## Geshan's Blog
- - [https://geshan.com.np](https://geshan.com.np)
- - date_published: 2024-05-07T23:25:07.460751+00:00
- - tags: ['personal']
-
- ## Software Engineering and Web Development Newsletter
- - [https://newsletter.geshan.com.np](https://newsletter.geshan.com.np)
- - date_published: 2024-09-04T10:13:25+00:00
-
- ## Grafika Google
- - [https://images.google.com.np](https://images.google.com.np)
- - date_published: 2024-07-20T07:40:25.551552+00:00
-
- ## Google
- - [https://www.google.com.np](https://www.google.com.np)
- - date_published: 2024-06-21T22:24:14.650184+00:00
-
- ## Apex College | Premier Business Education in Nepal
- - [https://apexcollege.ing.com.np](https://apexcollege.ing.com.np)
- - date_published: 2024-07-17T10:24:26.017242+00:00
-
- ## ING
- - [https://ing.com.np](https://ing.com.np)
- - date_published: 2024-07-09T12:09:38+00:00
-
- ## Jeep® Nepal: Best SUV 4WD in Nepal | Jeep Price in Nepal
- - [https://jeep.com.np](https://jeep.com.np)
- - date_published: 2023-03-15T00:00:00+00:00
-
- ## Kantipur Media Group
- - [https://kmg.com.np](https://kmg.com.np)
- - date_published: 2024-07-17T10:24:56.886714+00:00
-
- ## Kantipur Media Group
- - [http://www.kmg.com.np](http://www.kmg.com.np)
- - date_published: 2024-07-17T06:23:04.527603+00:00
-
- ## LIC Nepal
- - [https://www.licnepal.com.np](https://www.licnepal.com.np)
- - date_published: 2024-07-03T17:30:12.080850+00:00
-
- ## MetLife: Navigating Life Together
- - [https://www.metlife.com.np](https://www.metlife.com.np)
- - date_published: 2024-07-19T16:45:09+00:00
-
- ## Online Learning Platform in Nepal | mySecondTeacher, Nepal
- - [https://mysecondteacher.com.np](https://mysecondteacher.com.np)
- - date_published: 2020-03-24T04:41:42+00:00
-
- ## महिलाहरुको सम्पूर्ण पत्रिका - नारी
- - [https://narimag.com.np](https://narimag.com.np)
- - date_published: 2024-05-13T03:29:20.852977+00:00
-
- ## नेपाल - राष्ट्रिय साप्ताहिक पत्रिका
- - [https://nepalmag.com.np](https://nepalmag.com.np)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Prashant Barahi | realpacific
- - [https://prashantbarahi.com.np](https://prashantbarahi.com.np)
- - date_published: 2024-06-01T05:05:10.139107+00:00
- - tags: ['personal']
-
- ## सूचना र मनोरञ्जनको संगालो - साप्ताहिक
- - [https://saptahik.com.np](https://saptahik.com.np)
- - date_published: 2024-05-13T03:28:42.665902+00:00
-
- ## TATA Motors Contactless Services
- - [https://tatacars.sipradi.com.np](https://tatacars.sipradi.com.np)
- - date_published: 2024-07-17T10:25:13+00:00
-
- ## Sudan Chapagain
- - [https://sudanchapagain.com.np](https://sudanchapagain.com.np)
- - date_published: 2024-05-11T10:22:01.707493+00:00
-
- ## UN STORE - The One Stop Destination
- - [https://unstore.com.np](https://unstore.com.np)
- - date_published: 2024-08-11T14:50:36.891992+00:00
-
- ## Castor's Guestbook
- - [http://guestbook.yogeshlamichhane.com.np](http://guestbook.yogeshlamichhane.com.np)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Yuvraj Timalsina
- - [https://yuvrajtimalsina.com.np](https://yuvrajtimalsina.com.np)
- - date_published: 2024-06-12T10:44:20+00:00
-
- ## Home
- - [https://apexcollege.edu.np](https://apexcollege.edu.np)
- - date_published: 2024-05-13T03:28:25.481258+00:00
-
- ## Home - Capital College and Research Center (CCRC)
- - [https://ccrc.edu.np](https://ccrc.edu.np)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Homepage | Goethe-Zentrum Kathmandu
- - [https://www.goethe-kathmandu.edu.np](https://www.goethe-kathmandu.edu.np)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home - Heuristic School
- - [https://hsrc.edu.np](https://hsrc.edu.np)
- - date_published: 2024-07-26T04:11:12.790139+00:00
-
- ## Home
- - [https://apply.patancollege.edu.np](https://apply.patancollege.edu.np)
- - date_published: 2024-09-10T13:30:47.910612+00:00
-
- ## PCPS College – World Class UK Degree in Nepal
- - [https://patancollege.edu.np](https://patancollege.edu.np)
- - date_published: 2024-06-12T02:28:42.254847+00:00
-
- ## Office of the Controller of Examinations, Pokhara University – Office of the Controller of Examinations
- - [https://pouexam.edu.np](https://pouexam.edu.np)
- - date_published: 2024-07-17T10:24:31.384503+00:00
-
- ## An Official Site of Pokhara University – Pokhara University
- - [https://pu.edu.np](https://pu.edu.np)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## DINESHDB
- - [https://dbhattarai.info.np](https://dbhattarai.info.np)
- - date_published: 2023-12-26T06:31:54.283704+00:00
- - tags: ['personal']
-
- ## Internet of Things
- - [http://veshraj.info.np](http://veshraj.info.np)
- - date_published: 2021-11-09T11:33:09+00:00
-
- ## Nepal Research and Education Network – NREN
- - [http://nren.net.np](http://nren.net.np)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
- - [https://www.dianetics.org.np](https://www.dianetics.org.np)
- - date_published: 2024-09-04T18:14:25.838106+00:00
-
- ## JuRI Nepal
- - [http://jurinepal.org.np](http://jurinepal.org.np)
- - date_published: 2024-07-10T09:02:02.980359+00:00
-
- ## Official Church of Scientology: What is Scientology?
- - [https://scientology.org.np](https://scientology.org.np)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Sign in - Google Accounts
- - [https://elmer.data.bn.nr](https://elmer.data.bn.nr)
- - date_published: 2024-06-17T18:22:02.993511+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.nr](https://maps.google.nr)
- - date_published: 2024-07-20T07:38:48.457113+00:00
-
- ## Google
- - [https://www.google.nr](https://www.google.nr)
- - date_published: 2024-06-21T22:23:12.037304+00:00
-
- ## Smart Links for Music Marketing, Podcasts and Artist Promotion | Linkfire
- - [https://babii.sup.nr](https://babii.sup.nr)
- - date_published: 2024-10-22T22:18:28.441626+00:00
-
- ## Weiterleitung
- - [https://ubi.cris.nrw](https://ubi.cris.nrw)
- - date_published: 2024-07-24T03:56:03.353188+00:00
-
- ## Startseite – LAG ABK NRW e.V.
- - [http://www.fsjkultur.nrw](http://www.fsjkultur.nrw)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Heimatdesign
- - [https://heimatdesign.nrw](https://heimatdesign.nrw)
- - date_published: 2023-10-29T19:28:33+00:00
-
- ## Home
- - [https://jrf.nrw](https://jrf.nrw)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## KI.NRW – The central point of contact for artificial intelligence in NRW
- - [https://www.ki.nrw](https://www.ki.nrw)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## my-azur.de – … ein Admin nach Feierabend
- - [https://krage.nrw](https://krage.nrw)
- - date_published: 2024-07-02T18:27:38.312725+00:00
-
- ## Startseite | Land.NRW
- - [https://www.land.nrw](https://www.land.nrw)
- - date_published: 2024-07-11T14:01:39.726984+00:00
-
- ## medienwerk.nrw – Das medienwerk nrw – Medienkunst und digitale Kultur
- - [https://medienwerk.nrw](https://medienwerk.nrw)
- - date_published: 2024-07-13T16:12:28.247033+00:00
-
- ## NERD II – NERD 2: Research Training Group on Human Centered Systems Security
- - [https://nerd2.nrw](https://nerd2.nrw)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Startseite | Bonn
- - [https://bonn.polizei.nrw](https://bonn.polizei.nrw)
- - date_published: 2024-07-14T14:18:37+00:00
-
- ## Startseite | Verbraucherzentrale NRW
- - [https://www.verbraucherzentrale.nrw](https://www.verbraucherzentrale.nrw)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Startseite | Wirtschaft NRW
- - [https://www.wirtschaft.nrw](https://www.wirtschaft.nrw)
- - date_published: 2024-06-25T22:38:20.168364+00:00
-
- ## Homepage - NTT
- - [https://www.global.ntt](https://www.global.ntt)
- - date_published: 2024-06-20T00:00:00+00:00
-
  ## NTT / NTT Group | Nippon Telegraph and Telephone Corporation
  - [https://group.ntt](https://group.ntt)
  - date_published: 2024-06-18T17:40:56.228986+00:00
@@ -4031,4 +3695,339 @@ marginalia.nu
  ## pixelfed.nz
  - [https://pixelfed.nz](https://pixelfed.nz)
  - date_published: 2024-07-10T09:15:59.399090+00:00
+
+ ## purplecon
+ - [https://purplecon.nz](https://purplecon.nz)
+ - date_published: 2024-05-02T13:57:43.097671+00:00
+
+ ## RailsBridge Wellington 2018 | RailsBridge Wellington 2018
+ - [http://railsbridge.nz](http://railsbridge.nz)
+ - date_published: 2021-09-11T17:29:07+00:00
+
+ ## Matiu Te Huki - Rainbow Warrior
+ - [https://rainbowwarrior.nz](https://rainbowwarrior.nz)
+ - date_published: 2024-09-12T19:18:23.632732+00:00
+
+ ## Reading Ambassador
+ - [https://readingambassador.nz](https://readingambassador.nz)
+ - date_published: 2024-09-09T21:20:43.438762+00:00
+
+ ## Marketing Blog - releva.nz
+ - [https://blog.releva.nz](https://blog.releva.nz)
+ - date_published: 2024-08-06T19:57:31+00:00
+
+ ## releva.nz
+ - [https://frontend.releva.nz](https://frontend.releva.nz)
+ - date_published: 2024-07-23T08:07:47+00:00
+
+ ## Hilfe-Center
+ - [https://help.releva.nz](https://help.releva.nz)
+ - date_published: 2024-08-09T07:33:26+00:00
+
+ ## releva.nz App: Conversion Rate bis 12%
+ - [https://releva.nz](https://releva.nz)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Welcome!
+ - [https://chat.retro-freedom.nz](https://chat.retro-freedom.nz)
+ - date_published: 2018-01-12T07:32:40+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://media.rnztools.nz](https://media.rnztools.nz)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Scan Space NZ
+ - [https://scanspace.nz](https://scanspace.nz)
+ - date_published: 2024-07-19T18:09:20.011579+00:00
+
+ ## Scratch | Website Design Auckland | Digital Agency in Ponsonby
+ - [http://scratchdigital.nz](http://scratchdigital.nz)
+ - date_published: 2024-07-18T23:58:58+00:00
+
+ ## scuttle-camp one
+ - [https://one.camp.scuttlebutt.nz](https://one.camp.scuttlebutt.nz)
+ - date_published: 2019-01-14T02:04:53+00:00
+
+ ## Scuttlebutt social network: a decentralised platform
+ - [https://scuttlebutt.nz](https://scuttlebutt.nz)
+ - date_published: 2023-03-10T08:29:14+00:00
+
+ ## Mission-Critical Software, DevOps, Advice & Support - SECTION6
+ - [https://section6.nz](https://section6.nz)
+ - date_published: 2024-06-26T22:40:06.807041+00:00
+
+ ## Serena Chen
+ - [https://serena.nz](https://serena.nz)
+ - date_published: 2024-01-11T12:23:11.834075+00:00
+
+ ## Car rental & Hire - SIXT New Zealand
+ - [https://sixt.nz](https://sixt.nz)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## sk4nz
+ - [https://www.sk4.nz](https://www.sk4.nz)
+ - date_published: 2024-09-12T09:51:18.815573+00:00
+ - tags: ['personal']
+
+ ## Directory
+ - [https://directory.sloop.nz](https://directory.sloop.nz)
+ - date_published: 2024-06-20T21:58:13+00:00
+
+ ## Software Innovation NZ – The software research network for New Zealand
+ - [https://softwareinnovation.nz](https://softwareinnovation.nz)
+ - date_published: 2024-09-30T12:39:40+00:00
+
+ ## Te Awamutu Space Centre
+ - [https://spacecentre.nz](https://spacecentre.nz)
+ - date_published: 2023-10-25T20:51:43.027687+00:00
+
+ ## Welcome to Techdox Docs
+ - [https://docs.techdox.nz](https://docs.techdox.nz)
+ - date_published: 2024-07-04T07:02:57.165964+00:00
+
+ ## Totentanz - About
+ - [https://totenta.nz](https://totenta.nz)
+ - date_published: 2021-04-24T11:25:18+00:00
+
+ ## Used Trucks NZ
+ - [https://www.usedtrucks.nz](https://www.usedtrucks.nz)
+ - date_published: 2024-09-18T18:41:21+00:00
+
+ ## Webprecision - Achieve the online presence you deserve.
+ - [https://webprecision.nz](https://webprecision.nz)
+ - date_published: 2023-06-14T02:24:25+00:00
+
+ ## WEBSAM.NZ |
+ - [https://websam.nz](https://websam.nz)
+ - date_published: 2024-02-14T08:43:34.578551+00:00
+ - tags: ['personal']
+
+ ## Webshop - Webstock Webshop
+ - [https://webstock.nz](https://webstock.nz)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## Winston
+ - [https://winston.nz](https://winston.nz)
+ - date_published: 2024-05-12T05:30:27.449357+00:00
+
+ ## Tō Reo – A Māori Spellchecker
+ - [https://xn--treo-l3a.nz](https://xn--treo-l3a.nz)
+ - date_published: 2024-09-20T12:30:11+00:00
+
+ ## Homepage | 28 Māori Battalion
+ - [https://www.28maoribattalion.org.nz](https://www.28maoribattalion.org.nz)
+ - date_published: 2024-09-07T22:10:21+00:00
+
+ ## Asia Media Centre | Helping New Zealand media cover Asia
+ - [https://asiamediacentre.org.nz](https://asiamediacentre.org.nz)
+ - date_published: 2023-10-25T20:51:53.621097+00:00
+
+ ## Asia New Zealand Foundation
+ - [https://asianz.org.nz](https://asianz.org.nz)
+ - date_published: 2024-10-28T08:40:14.035275+00:00
+
+ ## Home
+ - [https://fundraise.bcf.org.nz](https://fundraise.bcf.org.nz)
+ - date_published: 2024-10-14T18:20:24.597218+00:00
+
+ ## Welcome to BlockchainNZ - Blockchain NZ | Representing the Blockchain Ecosystem
+ - [https://blockchain.org.nz](https://blockchain.org.nz)
+ - date_published: 2024-09-30T19:43:48.968167+00:00
+
+ ## Homepage
+ - [https://bowelcancerfoundation.org.nz](https://bowelcancerfoundation.org.nz)
+ - date_published: 2024-05-08T03:36:12.851119+00:00
+
+ ## CAPE Homepage - CAPE
+ - [https://cape.org.nz](https://cape.org.nz)
+ - date_published: 2024-07-24T03:16:47.392918+00:00
+
+ ## Christ Church Cathedral Rebuild | Reinstatement Project
+ - [https://christchurchcathedral.org.nz](https://christchurchcathedral.org.nz)
+ - date_published: 2021-08-20T01:27:26+00:00
+
+ ## My Playlist
+ - [https://circuit.org.nz](https://circuit.org.nz)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Terry Stewart's (Tezza's) Webzone for Classic Computers
+ - [https://classic-computers.org.nz](https://classic-computers.org.nz)
+ - date_published: 2024-01-27T00:52:33+00:00
+
+ ## CCG | The end is not nigh.
+ - [https://climateconversation.org.nz](https://climateconversation.org.nz)
+ - date_published: 2024-06-15T09:05:33.141087+00:00
+
+ ## Blog
+ - [http://www.climatescience.org.nz](http://www.climatescience.org.nz)
+ - date_published: 2019-03-28T00:00:00+00:00
+
+ ## Campaigns & advocacy - Consumer NZ
+ - [https://campaigns.consumer.org.nz](https://campaigns.consumer.org.nz)
+ - date_published: 2024-10-28T08:39:34.840130+00:00
+
+ ## Consumer NZ | Expert product tests, research and advocacy
+ - [https://www.consumer.org.nz](https://www.consumer.org.nz)
+ - date_published: 2024-06-19T08:16:48.218427+00:00
+
+ ## Cryptocurrency NZ - New Zealand Crypto Community & Guide
+ - [https://cryptocurrency.org.nz](https://cryptocurrency.org.nz)
+ - date_published: 2020-07-21T20:24:34+00:00
+
+ ## David Miscavige Scientology Ecclesiastical Leader
+ - [http://www.davidmiscavige.org.nz](http://www.davidmiscavige.org.nz)
+ - date_published: 2024-09-04T17:54:09.296252+00:00
+
+ ## Diabetes New Zealand
+ - [http://diabetes.org.nz](http://diabetes.org.nz)
+ - date_published: 2024-07-19T23:16:33.325225+00:00
+
+ ## The Designers Institute of New Zealand
+ - [http://www.dinz.org.nz](http://www.dinz.org.nz)
+ - date_published: 2024-07-14T13:04:59.557915+00:00
+
+ ## Information About Illegal Drugs & Alcohol Abuse - Drug-Free World
+ - [http://www.drugfreeworld.org.nz](http://www.drugfreeworld.org.nz)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Family First NZ
+ - [https://familyfirst.org.nz](https://familyfirst.org.nz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Fightback Newsletter
+ - [https://fightback.org.nz](https://fightback.org.nz)
+ - date_published: 2024-05-07T19:07:20.002209+00:00
+
+ ## FRED: New Zealand open-access and crowdsource database of fossil records
+ - [https://fred.org.nz](https://fred.org.nz)
+ - date_published: 2024-09-25T04:52:56+00:00
+
+ ## Welcome to Opioid, USA
+ - [https://www.freedom.org.nz](https://www.freedom.org.nz)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Index of /
+ - [http://hlzmel.fsmg.org.nz](http://hlzmel.fsmg.org.nz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Index of /
+ - [http://wlglam.fsmg.org.nz](http://wlglam.fsmg.org.nz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Giving - The University of Auckland
+ - [https://www.givingtoauckland.org.nz](https://www.givingtoauckland.org.nz)
+ - date_published: 2024-07-24T03:16:03.784354+00:00
+
+ ## GOVIS | GOVIS Incorporated
+ - [http://www.govis.org.nz](http://www.govis.org.nz)
+ - date_published: 2024-07-19T05:12:03.582991+00:00
+
+ ## HDRLab - Pure Research & Development | HDRLab
+ - [http://hdrlab.org.nz](http://hdrlab.org.nz)
+ - date_published: 2024-08-11T13:56:56.278308+00:00
+
+ ## Genital Herpes & Cold Sore information from New Zealand Herpes Foundation
+ - [https://www.herpes.org.nz](https://www.herpes.org.nz)
+ - date_published: 2024-10-28T08:38:12.041123+00:00
+
+ ## Heart Research Institute NZ • Donate to heart disease research charity • Heart Research Institute
+ - [https://hri.org.nz](https://hri.org.nz)
+ - date_published: 2024-05-09T05:52:55.306536+00:00
+
+ ## New Zealand IPv6 Task Force |
+ - [http://www.ipv6.org.nz](http://www.ipv6.org.nz)
+ - date_published: 2019-02-11T04:34:06+00:00
+
+ ## The Jane Goodall Institute New Zealand
+ - [https://janegoodall.org.nz](https://janegoodall.org.nz)
+ - date_published: 2024-04-30T06:49:12.443411+00:00
+
+ ## LIANZA – People & communities connected & empowered by information
+ - [https://lianza.org.nz](https://lianza.org.nz)
+ - date_published: 2024-07-04T04:38:57+00:00
+
+ ## Mental Health Support & Counselling
+ - [https://www.lifeline.org.nz](https://www.lifeline.org.nz)
+ - date_published: 2024-10-28T08:38:31.919568+00:00
+
+ ## Living Wage Movement Aotearoa New Zealand
+ - [https://www.livingwage.org.nz](https://www.livingwage.org.nz)
+ - date_published: 2024-09-04T17:13:44.711394+00:00
+
+ ## Loud Shirt Day | Hearing House NZ
+ - [https://www.loudshirtday.org.nz](https://www.loudshirtday.org.nz)
+ - date_published: 2024-09-18T19:01:44.680974+00:00
+
+ ## L. Ron Hubbard - Scientology & Dianetics Founder
+ - [https://www.lronhubbard.org.nz](https://www.lronhubbard.org.nz)
+ - date_published: 2024-06-06T19:38:34.357268+00:00
+
+ ## New Zealander of the Year Awards
+ - [https://nzawards.org.nz](https://nzawards.org.nz)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## New Zealand Open Source Awards
+ - [https://nzosa.org.nz](https://nzosa.org.nz)
+ - date_published: 2024-06-26T22:40:16.281487+00:00
+ - tags: ['open source']
+
+ ## Open Source Software
+ - [http://nzoss.org.nz](http://nzoss.org.nz)
+ - date_published: 2024-06-26T22:39:56.665664+00:00
+
+ ## - NZRise
+ - [http://nzrise.org.nz](http://nzrise.org.nz)
+ - date_published: 2024-06-26T22:40:10.489184+00:00
+
+ ## Home - Open Doors New Zealand
+ - [https://secure.opendoors.org.nz](https://secure.opendoors.org.nz)
+ - date_published: 2024-07-08T07:42:33+00:00
+
+ ## Open Doors - Serving Persecuted Christians Worldwide
+ - [https://opendoors.org.nz](https://opendoors.org.nz)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Ōtautahi Christchurch
+ - [https://otautahi.org.nz](https://otautahi.org.nz)
+ - date_published: 2024-08-10T23:07:51.095924+00:00
+
+ ## OUSA
+ - [https://www.ousa.org.nz](https://www.ousa.org.nz)
+ - date_published: 2024-08-18T15:07:26.740328+00:00
+
+ ## Oxfam Aotearoa
+ - [https://www.oxfam.org.nz](https://www.oxfam.org.nz)
+ - date_published: 2024-07-08T13:54:14.260663+00:00
+
+ ## Thundering Herd
+ - [http://blog.pearce.org.nz](http://blog.pearce.org.nz)
+ - date_published: 2023-04-08T00:00:00+00:00
+
+ ## The Physics Room
+ - [https://physicsroom.org.nz](https://physicsroom.org.nz)
+ - date_published: 2024-07-13T16:16:00.753479+00:00
+
+ ## Powerswitch: Compare and find cheap energy plans
+ - [https://www.powerswitch.org.nz](https://www.powerswitch.org.nz)
+ - date_published: 2024-10-28T08:39:38.426513+00:00
+
+ ## https://www.privacy.org.nz
+ - [https://privacy.org.nz](https://privacy.org.nz)
+ - date_published: 2024-01-09T03:38:02.730564+00:00
+
+ ## Royal Astronomical Society of New Zealand
+ - [https://rasnz.org.nz](https://rasnz.org.nz)
+ - date_published: 2024-09-16T06:21:56.597365+00:00
+
+ ## Repair Network Aotearoa
+ - [https://repairnetworkaotearoa.org.nz](https://repairnetworkaotearoa.org.nz)
+ - date_published: 2024-05-29T20:28:15.667518+00:00
+
+ ## New Zealand Rheumatology Association
+ - [https://www.rheumatology.org.nz](https://www.rheumatology.org.nz)
+ - date_published: 2024-06-28T12:04:00.628983+00:00
+
+ ## Seafriends home page
+ - [http://www.seafriends.org.nz](http://www.seafriends.org.nz)
+ - date_published: 2018-10-01T09:27:11+00:00
 

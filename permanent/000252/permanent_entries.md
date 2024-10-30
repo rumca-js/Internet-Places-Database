@@ -1,292 +1,3 @@
- ## Home - OPRS | Office for the Protection of Research Subjects (OPRS)
- - [https://oprs.research.illinois.edu](https://oprs.research.illinois.edu)
- - date_published: 2024-10-15T07:27:21.031359+00:00
-
- ## Office of Student Financial Aid
- - [https://osfa.illinois.edu](https://osfa.illinois.edu)
- - date_published: 2024-07-21T22:36:57.379770+00:00
-
- ## UIUC Office of Technology Management
- - [https://otm.illinois.edu](https://otm.illinois.edu)
- - date_published: 2024-06-16T21:05:33+00:00
-
- ## OVCR Enterprise Authentication
- - [https://ovcrportal.research.illinois.edu](https://ovcrportal.research.illinois.edu)
- - date_published: 2024-10-15T07:27:15.825865+00:00
-
- ## Home
- - [https://pages.law.illinois.edu](https://pages.law.illinois.edu)
- - date_published: 2024-07-21T23:27:49.320686+00:00
-
- ## Illinois Physics | The Grainger College of Engineering | UIUC
- - [https://physics.illinois.edu](https://physics.illinois.edu)
- - date_published: 2024-10-22T05:11:51.735986+00:00
-
- ## Pi Tau Sigma
- - [https://pitausigma.mechse.illinois.edu](https://pitausigma.mechse.illinois.edu)
- - date_published: 2024-02-08T16:48:21.457271+00:00
-
- ## Prairie Research Institute – The Prairie Research Institute provides research, scientific expertise, and objective data that benefit the environment, economy, and people of Illinois and beyond.
- - [https://prairie.illinois.edu](https://prairie.illinois.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## CRAB – Take control of your Internet with CRAB
- - [https://projectcrab.web.illinois.edu](https://projectcrab.web.illinois.edu)
- - date_published: 2024-06-22T09:15:41.747620+00:00
-
- ## Office of Proposal Development
- - [https://proposal.illinois.edu](https://proposal.illinois.edu)
- - date_published: 2024-10-15T07:26:09.893414+00:00
-
- ## Office of the Provost
- - [http://provost.illinois.edu](http://provost.illinois.edu)
- - date_published: 2024-07-07T05:30:14.894473+00:00
-
- ## Psychology at Illinois
- - [https://psychology.illinois.edu](https://psychology.illinois.edu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Home | Strategic Communications and Marketing | University of Illinois
- - [https://publicaffairs.illinois.edu](https://publicaffairs.illinois.edu)
- - date_published: 2024-04-30T05:00:37.821193+00:00
-
- ## publish.illinois.edu – A blog and microsite publishing service for the University of Illinois at Urbana-Champaign
- - [https://publish.illinois.edu](https://publish.illinois.edu)
- - date_published: 2024-04-30T04:58:29.043135+00:00
-
- ## Chitambar Quantum Information Group – Get entangled at Illinois
- - [https://quantum-entangled.ece.illinois.edu](https://quantum-entangled.ece.illinois.edu)
- - date_published: 2024-09-05T09:56:52.610398+00:00
-
- ## Radhika Mittal - UIUC
- - [https://radhikam.web.illinois.edu](https://radhikam.web.illinois.edu)
- - date_published: 2024-05-04T15:26:38.138214+00:00
-
- ## RadioSaber
- - [https://radiosaber.web.illinois.edu](https://radiosaber.web.illinois.edu)
- - date_published: 2024-06-22T09:15:46.209962+00:00
-
- ## Region-Based Representations Revisited
- - [https://regionreps.web.illinois.edu](https://regionreps.web.illinois.edu)
- - date_published: 2024-06-20T04:36:01+00:00
-
- ## Office of the Registrar
- - [http://registrar.illinois.edu](http://registrar.illinois.edu)
- - date_published: 2024-07-07T05:30:07.286048+00:00
-
- ## RELATE
- - [https://relate.cs.illinois.edu](https://relate.cs.illinois.edu)
- - date_published: 2024-04-30T04:58:40.098562+00:00
-
- ## Research Data Service – University of Illinois Library
- - [https://researchdataservice.illinois.edu](https://researchdataservice.illinois.edu)
- - date_published: 2024-10-15T07:26:13.159457+00:00
-
- ## Home - Office of the Vice Chancellor of Research and Innovation | Office of the Vice Chancellor for Research and Innovation (OVCRI)
- - [https://research.illinois.edu](https://research.illinois.edu)
- - date_published: 2024-06-13T17:17:27+00:00
-
- ## Research IT | Illinois
- - [https://researchit.illinois.edu](https://researchit.illinois.edu)
- - date_published: 2024-10-15T07:26:28.820835+00:00
-
- ## Home - Research Park
- - [http://researchpark.illinois.edu](http://researchpark.illinois.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Illinois Robotics Group – An initiative of the Coordinated Science Laboratory
- - [https://robotics.illinois.edu](https://robotics.illinois.edu)
- - date_published: 2024-09-13T18:12:30.227972+00:00
-
- ## Riccardo Paccagnella
- - [https://rp8.web.engr.illinois.edu](https://rp8.web.engr.illinois.edu)
- - date_published: 2024-07-03T03:25:04.311297+00:00
-
- ## Runpei Dong
- - [https://runpeidong.web.illinois.edu](https://runpeidong.web.illinois.edu)
- - date_published: 2024-09-11T01:57:08+00:00
-
- ## Rui Yang
- - [http://ry2.web.engr.illinois.edu](http://ry2.web.engr.illinois.edu)
- - date_published: 2021-02-04T15:38:54+00:00
-
- ## Richard Y. Zhang
- - [https://ryz.ece.illinois.edu](https://ryz.ece.illinois.edu)
- - date_published: 2024-03-04T14:18:35+00:00
-
- ## Sachin Ashok
- - [https://sachin.cs.illinois.edu](https://sachin.cs.illinois.edu)
- - date_published: 2024-05-11T20:19:57+00:00
-
- ## International Safety and Security | University of Illinois Urbana-Champaign
- - [http://safetyabroad.illinois.edu](http://safetyabroad.illinois.edu)
- - date_published: 2024-05-28T02:11:08+00:00
-
- ## Grainger Safety
- - [https://safety.grainger.illinois.edu](https://safety.grainger.illinois.edu)
- - date_published: 2024-07-21T21:56:24.443774+00:00
-
- ## Saurabh Gupta
- - [https://saurabhg.web.illinois.edu](https://saurabhg.web.illinois.edu)
- - date_published: 2024-04-30T04:58:32.004310+00:00
- - tags: ['personal']
-
- ## Senate of the Urbana-Champaign Campus, University of Illinois
- - [http://senate.illinois.edu](http://senate.illinois.edu)
- - date_published: 2024-07-07T05:28:58.252228+00:00
-
- ## Julia Hockenmaier's research group
- - [https://shannon.cs.illinois.edu](https://shannon.cs.illinois.edu)
- - date_published: 2020-06-22T20:10:14+00:00
-
- ## Shenlong Wang
- - [https://shenlong.web.illinois.edu](https://shenlong.web.illinois.edu)
- - date_published: 2024-05-06T02:14:10+00:00
-
- ## Home
- - [https://siebelschool.illinois.edu](https://siebelschool.illinois.edu)
- - date_published: 2024-07-21T21:51:10.538852+00:00
-
- ## FrontPage | Student Health Insurance | UIUC
- - [http://si.illinois.edu](http://si.illinois.edu)
- - date_published: 2024-07-21T22:26:37.957308+00:00
-
- ## SiNRG: the Signals Inference Research Group @ UIUC
- - [https://sinrg.csl.illinois.edu](https://sinrg.csl.illinois.edu)
- - date_published: 2024-09-13T18:13:59.007117+00:00
-
- ## Suraj Jog, Ph.D.
- - [https://sjog2.web.engr.illinois.edu](https://sjog2.web.engr.illinois.edu)
- - date_published: 2023-10-19T00:15:03+00:00
-
- ## Svetlana Lazebnik
- - [https://slazebni.cs.illinois.edu](https://slazebni.cs.illinois.edu)
- - date_published: 2024-01-10T17:15:51+00:00
-
- ## Untitled Document
- - [http://snir.cs.illinois.edu](http://snir.cs.illinois.edu)
- - date_published: 2022-05-05T02:08:16+00:00
-
- ## Andrew Miller @ UIUC
- - [https://soc1024.ece.illinois.edu](https://soc1024.ece.illinois.edu)
- - date_published: 2024-05-08T00:01:46.650328+00:00
-
- ## School of Social Work
- - [https://socialwork.illinois.edu](https://socialwork.illinois.edu)
- - date_published: 2024-07-07T05:28:49.153354+00:00
-
- ## Home | Sponsored Programs Administration
- - [http://sponsoredprograms.illinois.edu](http://sponsoredprograms.illinois.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Spurlock Museum, U of I
- - [http://spurlock.illinois.edu](http://spurlock.illinois.edu)
- - date_published: 2024-04-28T17:26:36+00:00
-
- ## Home | College of ACES | UIUC
- - [https://staging.aces.illinois.edu](https://staging.aces.illinois.edu)
- - date_published: 2024-07-20T08:49:21+00:00
-
- ## Service Status
- - [https://status.engineering.illinois.edu](https://status.engineering.illinois.edu)
- - date_published: 2024-07-21T22:24:08.236092+00:00
-
- ## Home | Strategic Communications and Marketing | University of Illinois
- - [https://stratcom.illinois.edu](https://stratcom.illinois.edu)
- - date_published: 2024-07-21T21:48:47.649618+00:00
-
- ## Boldly Illinois: 2030 Strategic Planning
- - [http://strategicplan.illinois.edu](http://strategicplan.illinois.edu)
- - date_published: 2024-07-07T05:29:38.014534+00:00
-
- ## Home | Student Affairs | UIUC
- - [http://studentaffairs.illinois.edu](http://studentaffairs.illinois.edu)
- - date_published: 2024-07-07T05:30:41.934577+00:00
-
- ## The Grainger College of Engineering
- - [https://students.grainger.illinois.edu](https://students.grainger.illinois.edu)
- - date_published: 2024-04-30T04:59:16.392692+00:00
-
- ## hari sundaram @ uiuc
- - [http://sundaram.cs.illinois.edu](http://sundaram.cs.illinois.edu)
- - date_published: 2023-10-04T05:53:44+00:00
-
- ## ILLINOIS | INSTITUTE FOR SUSTAINABILITY, ENERGY, AND ENVIRONMENT
- - [https://sustainability.illinois.edu](https://sustainability.illinois.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## SiNRG: the Signals Inference Research Group @ UIUC
- - [https://synrg.csl.illinois.edu](https://synrg.csl.illinois.edu)
- - date_published: 2024-09-13T18:13:54.382753+00:00
-
- ## The Hoeft Technology and Management Program
- - [https://techmgmt.illinois.edu](https://techmgmt.illinois.edu)
- - date_published: 2024-04-30T04:58:59.282852+00:00
-
- ## Home - Technology Services
- - [https://techservices.illinois.edu](https://techservices.illinois.edu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Welcome | Illini Union Tech Zone
- - [https://techzone.illinois.edu](https://techzone.illinois.edu)
- - date_published: 2024-07-21T21:56:08.969045+00:00
-
- ## Home
- - [https://tec.illinois.edu](https://tec.illinois.edu)
- - date_published: 2024-10-15T07:26:33.066411+00:00
-
- ## News Bureau | ILLINOIS
- - [https://test-news.webservices.illinois.edu](https://test-news.webservices.illinois.edu)
- - date_published: 2024-04-30T05:00:49.395037+00:00
-
- ## Untitled Document
- - [https://test.webservices.illinois.edu](https://test.webservices.illinois.edu)
- - date_published: 2023-12-08T20:39:07+00:00
-
- ## Timothy M. Chan
- - [http://tmc.web.engr.illinois.edu](http://tmc.web.engr.illinois.edu)
- - date_published: 2024-04-17T17:13:04+00:00
-
- ## Tom Yurek
- - [https://tomyurek.web.illinois.edu](https://tomyurek.web.illinois.edu)
- - date_published: 2023-05-19T22:04:08+00:00
-
- ## Illinois Office of Undergraduate Research | University of Illinois at Urbana Champaign
- - [https://undergradresearch.illinois.edu](https://undergradresearch.illinois.edu)
- - date_published: 2024-06-07T23:10:04+00:00
-
- ## Front Page | Illini Union | UIUC
- - [http://union.illinois.edu](http://union.illinois.edu)
- - date_published: 2024-07-07T05:30:20.850276+00:00
-
- ## College of Veterinary Medicine - Veterinary Medicine at Illinois
- - [https://vetmed.illinois.edu](https://vetmed.illinois.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Computer Vision and Robotics Laboratory
- - [http://vision.ai.illinois.edu](http://vision.ai.illinois.edu)
- - date_published: 2024-06-22T07:34:55.961476+00:00
-
- ## Illinois Identity Provider Selection
- - [https://webservices.illinois.edu](https://webservices.illinois.edu)
- - date_published: 2024-04-30T05:00:47.577213+00:00
-
- ## Illinois Identity Provider Selection
- - [https://webtools.illinois.edu](https://webtools.illinois.edu)
- - date_published: 2024-07-02T02:49:46.596146+00:00
-
- ## Front Page | Mental Health & Wellness | UIUC
- - [https://wellness.illinois.edu](https://wellness.illinois.edu)
- - date_published: 2024-07-15T11:12:15.358800+00:00
-
- ## Dashboard - NCSA Wiki
- - [https://wiki.ncsa.illinois.edu](https://wiki.ncsa.illinois.edu)
- - date_published: 2024-05-06T23:13:10.275650+00:00
-
- ## College of Engineering
- - [https://ws.dev.engr.illinois.edu](https://ws.dev.engr.illinois.edu)
- - date_published: 2024-07-21T22:04:51.731951+00:00
-
  ## College of Engineering
  - [https://ws.engr.illinois.edu](https://ws.engr.illinois.edu)
  - date_published: 2024-04-30T04:57:26.706872+00:00
@@ -4008,4 +3719,293 @@ Data Services
  ## University of Miami
  - [https://welcome.miami.edu](https://welcome.miami.edu)
  - date_published: 2024-07-01T00:00:00+00:00
+
+ ## School of Architecture | University of Miami
+ - [https://arc.miami.edu](https://arc.miami.edu)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## 'Canes Central | University of Miami
+ - [https://www.canescentral.miami.edu](https://www.canescentral.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## College of Engineering | University of Miami
+ - [https://www.coe.miami.edu](https://www.coe.miami.edu)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Computer Science | College of Arts and Sciences | University of Miami
+ - [http://www.cs.miami.edu](http://www.cs.miami.edu)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Home | Office of Student Accounts | University of Miami
+ - [https://www.osas.miami.edu](https://www.osas.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Student Affairs  I University of Miami
+ - [https://www.studentaffairs.miami.edu](https://www.studentaffairs.miami.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Admission and Aid
+ - [https://admission.miamioh.edu](https://admission.miamioh.edu)
+ - date_published: 2024-09-26T15:32:08.041435+00:00
+
+ ## Miami University Online Bookstore
+ - [https://campusstore.miamioh.edu](https://campusstore.miamioh.edu)
+ - date_published: 2024-06-16T06:51:40.287203+00:00
+
+ ## CONTENTdm
+ - [https://digital.lib.miamioh.edu](https://digital.lib.miamioh.edu)
+ - date_published: 2024-09-26T15:33:08.984500+00:00
+
+ ## Events Calendar
+ - [https://events.miamioh.edu](https://events.miamioh.edu)
+ - date_published: 2024-06-16T06:51:15.829938+00:00
+
+ ## Catalog of the Miami University Libraries (Sherlock)
+ - [https://holmes.lib.miamioh.edu](https://holmes.lib.miamioh.edu)
+ - date_published: 2024-09-26T15:32:16.879255+00:00
+
+ ## IIS Windows Server
+ - [https://ill.lib.miamioh.edu](https://ill.lib.miamioh.edu)
+ - date_published: 2017-08-08T20:36:29+00:00
+
+ ## Ask Us! - AskUs
+ - [https://libanswers.lib.miamioh.edu](https://libanswers.lib.miamioh.edu)
+ - date_published: 2024-09-26T15:33:06.320158+00:00
+
+ ## Subject & Course Guides
+ - [https://libguides.lib.miamioh.edu](https://libguides.lib.miamioh.edu)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Miami University Libraries
+ - [https://lib.miamioh.edu](https://lib.miamioh.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Miami University
+ - [https://map.miamioh.edu](https://map.miamioh.edu)
+ - date_published: 2024-06-16T06:51:32.525664+00:00
+
+ ## No. 3 Public for Undergrad Teaching
+ - [https://miamioh.edu](https://miamioh.edu)
+ - date_published: 2024-05-01T05:55:34.598366+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://mymiami.miamioh.edu](https://mymiami.miamioh.edu)
+ - date_published: 2024-06-16T06:51:37.360020+00:00
+
+ ## Miami University Program Finder – Program and Career Finder
+ - [https://programs.miamioh.edu](https://programs.miamioh.edu)
+ - date_published: 2024-06-16T06:51:42.524240+00:00
+
+ ## Miami University
+ - [https://stories.miamioh.edu](https://stories.miamioh.edu)
+ - date_published: 2024-09-26T15:30:16.114954+00:00
+
+ ## MICA
+ - [http://mica.edu](http://mica.edu)
+ - date_published: 2024-07-04T10:58:42.475626+00:00
+
+ ## The Middlebury Sites Network – Middlebury’s WordPress-based, self-service, website creation space.
+ - [https://sites.middlebury.edu](https://sites.middlebury.edu)
+ - date_published: 2024-05-11T11:19:03.488578+00:00
+
+ ## vision.middlebury.edu
+ - [http://vision.middlebury.edu](http://vision.middlebury.edu)
+ - date_published: 2024-07-11T16:06:23.182325+00:00
+
+ ## Middlebury
+ - [https://www.middlebury.edu](https://www.middlebury.edu)
+ - date_published: 2024-06-30T04:01:21+00:00
+
+ ## James Martin Center for Nonproliferation Studies (CNS)
+ - [http://cns.miis.edu](http://cns.miis.edu)
+ - date_published: 2024-07-14T05:11:04.634470+00:00
+
+ ## Millersville University - Welcome to Millersville University
+ - [http://www.millersville.edu](http://www.millersville.edu)
+ - date_published: 2024-07-11T15:11:47.183330+00:00
+
+ ## The #1 Most Innovative University in the World
+ - [http://minerva.edu](http://minerva.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## The #1 Most Innovative University in the World
+ - [https://www.minerva.edu](https://www.minerva.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Home - Mines@150
+ - [https://150.mines.edu](https://150.mines.edu)
+ - date_published: 2024-06-16T22:26:10.548983+00:00
+
+ ## Home - Applied Mathematics and Statistics
+ - [https://ams.mines.edu](https://ams.mines.edu)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - Graduate Programs
+ - [https://applygrad.mines.edu](https://applygrad.mines.edu)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Home - Undergraduate Admissions
+ - [https://apply.mines.edu](https://apply.mines.edu)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Home - Communications and Marketing
+ - [https://brand.mines.edu](https://brand.mines.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home - Campus Events Calendar
+ - [https://calendar.mines.edu](https://calendar.mines.edu)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://campaign.mines.edu](https://campaign.mines.edu)
+ - date_published: 2024-10-15T01:34:43.447486+00:00
+
+ ## Mines Campus Events • Campus Events
+ - [http://campusevents.mines.edu](http://campusevents.mines.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Home - Career Center
+ - [http://careers.mines.edu](http://careers.mines.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## CASA - Center for Academic Services and Advising (CASA)
+ - [http://casa.mines.edu](http://casa.mines.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## RC home - Research Computing
+ - [https://ciarc.mines.edu](https://ciarc.mines.edu)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## eLearning Resources - Mines Online
+ - [http://elearning.mines.edu](http://elearning.mines.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home / EMS
+ - [http://events.mines.edu](http://events.mines.edu)
+ - date_published: 2024-10-15T01:40:13.884901+00:00
+
+ ## Home - Financial Aid
+ - [http://finaid.mines.edu](http://finaid.mines.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Home - Department of Geology and Geological Engineering
+ - [http://geology.mines.edu](http://geology.mines.edu)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://giving.mines.edu](http://giving.mines.edu)
+ - date_published: 2024-10-15T01:30:34.607884+00:00
+
+ ## Home - Graduate Programs
+ - [https://gradprograms.mines.edu](https://gradprograms.mines.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Graduate Student Government - Graduate Student Government
+ - [http://gsg.mines.edu](http://gsg.mines.edu)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Home - Humanities, Arts and Social Sciences
+ - [http://hass.mines.edu](http://hass.mines.edu)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Human Subjects Research - Human Subjects Research
+ - [https://hsr.mines.edu](https://hsr.mines.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## McNeil Home - McNeil Center for Entrepreneurship and Innovation
+ - [https://innovation.mines.edu](https://innovation.mines.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Home - Institutional Research | Strategic Analytics
+ - [https://ir.mines.edu](https://ir.mines.edu)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Explore Positions at Mines - Human Resources
+ - [http://jobs.mines.edu](http://jobs.mines.edu)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Home - Labriola Innovation Hub
+ - [https://labriola.mines.edu](https://labriola.mines.edu)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## All Questions - Frequently Asked Questions
+ - [https://libanswers.mines.edu](https://libanswers.mines.edu)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Library Calendars -
+        Arthur Lakes Library
+ - [https://libcal.mines.edu](https://libcal.mines.edu)
+ - date_published: 2024-10-15T01:36:29.338598+00:00
+
+ ## Library Guides
+ - [https://libguides.mines.edu](https://libguides.mines.edu)
+ - date_published: 2024-10-15T01:37:29.992456+00:00
+
+ ## Colorado School of Mines - Arthur Lakes Library
+ - [http://library.mines.edu](http://library.mines.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Mines Magazine - The Colorado School of Mines Magazine Website
+ - [http://magazine.mines.edu](http://magazine.mines.edu)
+ - date_published: 2024-06-16T22:26:33.409293+00:00
+
+ ## Home - Metallurgical and Materials Engineering
+ - [http://metallurgy.mines.edu](http://metallurgy.mines.edu)
+ - date_published: 2024-08-26T00:00:00+00:00
+
+ ## Colorado School of Mines | A Premier Engineering University
+ - [https://mines.edu](https://mines.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Home - Mining Engineering
+ - [https://mining.mines.edu](https://mining.mines.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Nuclear Science and Engineering Center - Nuclear Science and Engineering Center
+ - [https://nusec.mines.edu](https://nusec.mines.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Home - Office of Industry Relations
+ - [https://oir.mines.edu](https://oir.mines.edu)
+ - date_published: 2024-10-15T01:51:13+00:00
+
+ ## Home - Mines Online
+ - [https://online.mines.edu](https://online.mines.edu)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Home - Office of Research Administration
+ - [https://ora.mines.edu](https://ora.mines.edu)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Colorado School of Mines
+ - [https://oreconnect.mines.edu](https://oreconnect.mines.edu)
+ - date_published: 2024-10-15T01:45:15.792883+00:00
+
+ ## Home - Payne Institute for Public Policy
+ - [https://payneinstitute.mines.edu](https://payneinstitute.mines.edu)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Quantum Engineering - Quantum Engineering
+ - [https://quantum.mines.edu](https://quantum.mines.edu)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## The Mines Repository
+ - [https://repository.mines.edu](https://repository.mines.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Home - Research and Technology Transfer
+ - [http://research.mines.edu](http://research.mines.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Space Resources Program
+ - [https://space.mines.edu](https://space.mines.edu)
+ - date_published: 2024-10-15T01:51:02+00:00
+
+ ## Home - Student Activities
+ - [http://studentactivities.mines.edu](http://studentactivities.mines.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Experience Our Campus - Campus Tour
+ - [http://tour.mines.edu](http://tour.mines.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
 

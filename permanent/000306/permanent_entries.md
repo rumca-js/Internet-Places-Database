@@ -1,313 +1,3 @@
- ## Xavier Denis
- - [https://xav.io](https://xav.io)
- - date_published: 2023-10-25T20:13:06.573410+00:00
-
- ## XDC Network (XDC) - Blockchain Explorer
- - [https://xdcscan.io](https://xdcscan.io)
- - date_published: 2024-07-23T22:28:35.700527+00:00
-
- ## XDCTEQ | TRADA Token - Own the Real Economy
- - [http://www.xdcteq.io](http://www.xdcteq.io)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Xeol
- - [https://xeol.io](https://xeol.io)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Risk Ratings for Crypto Assets - Xerberus
- - [https://www.xerberus.io](https://www.xerberus.io)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Xerxis – Chain-logy
- - [https://xerxis.io](https://xerxis.io)
- - date_published: 2024-07-14T21:48:30.680637+00:00
-
- ## xfactory.io - Domain Name For Sale | Dan.com
- - [https://www.xfactory.io](https://www.xfactory.io)
- - date_published: 2024-06-16T19:36:18.499472+00:00
-
- ## Xiaohongshu AI Text Generator：XHSPlus
- - [https://xhsplus.io](https://xhsplus.io)
- - date_published: 2024-06-14T09:26:39.761757+00:00
-
- ## Cierpliwości...
- - [https://xiangfan.io](https://xiangfan.io)
- - date_published: 2024-07-01T19:54:13.163494+00:00
-
- ## Xiaodan Du
- - [https://xiaodan.io](https://xiaodan.io)
- - date_published: 2024-05-09T07:25:11.643411+00:00
-
- ## Pirate Weather status
- - [https://pirateweather.xitoring.io](https://pirateweather.xitoring.io)
- - date_published: 2024-08-18T04:48:54.147241+00:00
-
- ## Platform for IT infrastructure and workplace automation | XOAP
- - [https://xoap.io](https://xoap.io)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## A Digital Solutions Company | XOMedia
- - [https://xomedia.io](https://xomedia.io)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## XORM - eXtra ORM for Go
- - [https://xorm.io](https://xorm.io)
- - date_published: 2020-10-06T00:00:00+00:00
-
- ## X-PASS
- - [https://x-pass.io](https://x-pass.io)
- - date_published: 2024-09-03T03:15:01+00:00
-
- ## XPipe - Your entire server infrastructure at your fingertips
- - [https://xpipe.io](https://xpipe.io)
- - date_published: 2024-06-06T17:41:59+00:00
- - tags: ['server administration', 'open source', 'ash']
-
- ## XPLA Explorer
- - [https://explorer.xpla.io](https://explorer.xpla.io)
- - date_published: 2024-08-27T03:46:28+00:00
-
- ## XPLA, Layer1 Mainnet: Universal Content Powerhouse
- - [https://xpla.io](https://xpla.io)
- - date_published: 2024-09-23T23:25:33.663322+00:00
-
- ## Xterio
- - [https://xter.io](https://xter.io)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Xterio Chain Explorer
- - [https://eth.xterscan.io](https://eth.xterscan.io)
- - date_published: 2024-09-24T09:43:40.669888+00:00
-
- ## Xterio Testnet Chain Explorer
- - [https://testnet.xterscan.io](https://testnet.xterscan.io)
- - date_published: 2024-09-24T02:20:27.679083+00:00
-
- ## X Tracker
- - [https://www.xtracker.io](https://www.xtracker.io)
- - date_published: 2024-07-20T04:10:47.153210+00:00
-
- ## Xuanwo's Blog
- - [https://xuanwo.io](https://xuanwo.io)
- - date_published: 2023-11-29T17:19:36.738481+00:00
-
- ## Yaade | The official documentation for Yaade
- - [https://docs.yaade.io](https://docs.yaade.io)
- - date_published: 2024-04-25T14:42:29+00:00
-
- ## Home :: Will Yager
- - [https://yager.io](https://yager.io)
- - date_published: 2023-10-25T20:13:07.484512+00:00
-
- ## Yakoa
- - [https://app.yakoa.io](https://app.yakoa.io)
- - date_published: 2024-07-14T22:36:28.181653+00:00
-
- ## Getting Started
- - [https://docs.yakoa.io](https://docs.yakoa.io)
- - date_published: 2024-07-14T22:36:30.551156+00:00
-
- ## Yakoa - AI-Powered IP Protection for the blockchain
- - [https://yakoa.io](https://yakoa.io)
- - date_published: 2024-05-12T04:12:55.901887+00:00
-
- ## Ycor
- - [https://www.ycor.io](https://www.ycor.io)
- - date_published: 2024-06-19T15:12:05.803065+00:00
-
- ## Buy and Sell BTC, ETH, USDT & More in Africa | Yellow Card
- - [https://yellowcard.io](https://yellowcard.io)
- - date_published: 2024-07-13T23:37:20.463924+00:00
-
- ## The web's scaffolding tool for modern webapps | Yeoman
- - [https://yeoman.io](https://yeoman.io)
- - date_published: 2024-05-06T14:14:00.688591+00:00
-
- ## Yesbit –Crypto OTC exchange platform in Toronto
- - [https://yesbit.io](https://yesbit.io)
- - date_published: 2024-02-27T19:44:13+00:00
-
- ## Knowledge Base
- - [https://helpcenter.yeswehack.io](https://helpcenter.yeswehack.io)
- - date_published: 2024-06-15T07:18:40+00:00
-
- ## ETH VIS Group
- - [http://www.yf.io](http://www.yf.io)
- - date_published: 2024-05-16T10:04:36+00:00
-
- ## Home of Web 3 Games l Yield Guild Games
- - [https://www.yieldguild.io](https://www.yieldguild.io)
- - date_published: 2024-09-25T12:32:38.903946+00:00
-
- ## Yieldteq
- - [https://yieldteq.io](https://yieldteq.io)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Yippity | AI Question Generator: Instant Multiple Choice, True/False, Fill-in-the-Blank Questions & More!
- - [https://yippity.io](https://yippity.io)
- - date_published: 2024-06-19T20:03:35.083021+00:00
-
- ## YLD
- - [https://yld.io](https://yld.io)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## In-Depth Gaming Research & Ecosystem Growth Partner
- - [https://yodalabs.io](https://yodalabs.io)
- - date_published: 2024-09-04T12:24:56.201871+00:00
-
- ## Yodel.io — Cloud Based Business Phone System
- - [https://www.yodel.io](https://www.yodel.io)
- - date_published: 2023-04-05T13:52:25+00:00
-
- ## Home
- - [https://yos.io](https://yos.io)
- - date_published: 2024-06-20T22:44:35.506658+00:00
-
- ## Sign in to your account - Youform
- - [https://app.youform.io](https://app.youform.io)
- - date_published: 2024-07-15T06:17:41.296540+00:00
-
- ## You Got This!
- - [https://yougotthis.io](https://yougotthis.io)
- - date_published: 2024-06-23T12:26:34.887225+00:00
-
- ## #1 Social Media Listening Platform | YouScan
- - [https://youscan.io](https://youscan.io)
- - date_published: 2024-06-19T20:44:42.865465+00:00
-
- ## YouUp - Social Alarm Clock App
- - [https://youup.io](https://youup.io)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Yuka - The Mobile App That Scans Your Products
- - [https://yuka.io](https://yuka.io)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## :yulPa - Accueil
- - [https://yulpa.io](https://yulpa.io)
- - date_published: 2024-09-05T18:07:24.481496+00:00
-
- ## Yup • Decentralized Social All-In-One.
- - [https://yup.io](https://yup.io)
- - date_published: 2024-08-27T15:25:05+00:00
-
- ## Zain Rizvi
- - [https://zainrizvi.io](https://zainrizvi.io)
- - date_published: 2024-05-06T14:56:20.557942+00:00
- - tags: ['personal']
-
- ## zaratec
- - [https://zaratec.io](https://zaratec.io)
- - date_published: 2023-07-05T20:11:40+00:00
-
- ## IPaaS | Integration Platform | Enterprise Service Bus | Python | Zato
- - [https://zato.io](https://zato.io)
- - date_published: 2024-06-24T10:36:14+00:00
-
- ## Олександр Зайцев
- - [https://zaytsev.io](https://zaytsev.io)
- - date_published: 2024-07-04T12:00:40+00:00
-
- ## Zealy - Join the next big thing
- - [https://zealy.io](https://zealy.io)
- - date_published: 2024-09-21T23:39:26.939346+00:00
-
- ## Zebec Airdrop
- - [https://airdrop.zebec.io](https://airdrop.zebec.io)
- - date_published: 2024-09-09T14:00:24.366485+00:00
-
- ## Login
- - [https://app.card.zebec.io](https://app.card.zebec.io)
- - date_published: 2024-09-09T14:00:32.760594+00:00
-
- ## Zebec Cards
- - [https://card.zebec.io](https://card.zebec.io)
- - date_published: 2024-08-30T15:40:29+00:00
-
- ## Zebec Network | Zebec Network
- - [https://docs.zebec.io](https://docs.zebec.io)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Zebec Operation Horizon
- - [https://horizon.zebec.io](https://horizon.zebec.io)
- - date_published: 2024-09-09T14:00:08.963030+00:00
-
- ## Zebec
- - [https://zebec.io](https://zebec.io)
- - date_published: 2024-04-30T06:30:28.547422+00:00
-
- ## Build with ZBD - Reward. Engage. Monetize. The future of gaming is here.
- - [https://zebedee.io](https://zebedee.io)
- - date_published: 2024-08-18T22:02:27.872193+00:00
-
- ## AI-Powered Product Discovery & Strategy Platform - Zeda.io
- - [https://zeda.io](https://zeda.io)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Login | Zeeve
- - [https://app.zeeve.io](https://app.zeeve.io)
- - date_published: 2024-09-25T12:40:01.788863+00:00
-
- ## Zeeve Platform | Zeeve Documentation
- - [https://docs.zeeve.io](https://docs.zeeve.io)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home
- - [https://zeeve.io](https://zeeve.io)
- - date_published: 2024-09-23T13:54:17+00:00
-
- ## Home
- - [https://explorer.btx.zelcore.io](https://explorer.btx.zelcore.io)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Andrew Zeller | Mechanical Engineer and Frontend Developer
- - [https://zeller.io](https://zeller.io)
- - date_published: 2024-05-11T10:23:13.928818+00:00
-
- ## Zellic Forky
- - [https://forky.zellic.io](https://forky.zellic.io)
- - date_published: 2024-05-06T14:56:39.409910+00:00
-
- ## Zellic - Reports
- - [https://reports.zellic.io](https://reports.zellic.io)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Zellic
- - [https://www.zellic.io](https://www.zellic.io)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Zemez Studio - Themes, Website Services, Help Center with Technical Support.
- - [https://zemez.io](https://zemez.io)
- - date_published: 2024-06-22T20:52:50.469665+00:00
-
- ## Zenario: open source CMS for websites, databases and extranets
- - [http://zenar.io](http://zenar.io)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Zencal
- - [https://app.zencal.io](https://app.zencal.io)
- - date_published: 2024-06-16T05:36:35.525753+00:00
-
- ## Home
- - [https://www.zendar.io](https://www.zendar.io)
- - date_published: 2024-07-12T07:26:06.653562+00:00
-
- ## Zendy - Unlimited Access to a Library of Academic Literature
- - [https://zendy.io](https://zendy.io)
- - date_published: 2024-08-18T14:44:51.726752+00:00
-
- ## Zeneca
- - [https://zeneca.io](https://zeneca.io)
- - date_published: 2024-06-22T17:06:31.516916+00:00
-
- ## Zenity | Security for Low-Code, No-Code, & GenAI Development
- - [https://www.zenity.io](https://www.zenity.io)
- - date_published: 2024-07-09T17:39:52.582187+00:00
-
- ## Zenko
- - [https://www.zenko.io](https://www.zenko.io)
- - date_published: 2024-06-19T22:21:06.401503+00:00
-
  ## Redirecting…
  - [https://blog.zenml.io](https://blog.zenml.io)
  - date_published: 2023-10-29T12:10:22+00:00
@@ -4028,4 +3718,316 @@
  ## Aristofane – Liceo Classico e Linguistico Statale | Sapere Aude
  - [https://www.liceoaristofane.edu.it](https://www.liceoaristofane.edu.it)
  - date_published: 2024-10-13T07:28:24.005298+00:00
+
+ ## LiceoArtistico CALO' - Home
+ - [https://www.liceoartisticocalo.edu.it](https://www.liceoartisticocalo.edu.it)
+ - date_published: 2024-10-13T06:54:32+00:00
+
+ ## Liceo Scientifico Aselli
+ - [https://www.liceoaselli.edu.it](https://www.liceoaselli.edu.it)
+ - date_published: 2024-10-13T07:22:28.497278+00:00
+
+ ## | Liceo Statale A.Banfi di Vimercate
+ - [https://www.liceobanfi.edu.it](https://www.liceobanfi.edu.it)
+ - date_published: 2024-10-13T07:01:28.111330+00:00
+
+ ## Liceo Scientifico Statale Giulietta Banzi Bazoli
+ - [https://www.liceobanzi.edu.it](https://www.liceobanzi.edu.it)
+ - date_published: 2024-10-13T07:18:22.800182+00:00
+
+ ## Liceo Domenico Berti Torino
+ - [https://www.liceoberti.edu.it](https://www.liceoberti.edu.it)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## LICEO "G.B. BODONI" DI SALUZZO
+ - [https://www.liceobodoni.edu.it](https://www.liceobodoni.edu.it)
+ - date_published: 2024-10-13T07:15:29.237025+00:00
+
+ ## Liceo Statale Donato Bramante
+ - [https://liceobramante.edu.it](https://liceobramante.edu.it)
+ - date_published: 2024-10-13T07:11:33.199592+00:00
+
+ ## Liceo Ginnasio Statale B. Cairoli - Vigevano
+ - [https://www.liceocairoli.edu.it](https://www.liceocairoli.edu.it)
+ - date_published: 2024-10-13T06:58:35.936566+00:00
+
+ ## Liceo Scientifico di Stato "A. Calini"
+ - [https://www.liceocalini.edu.it](https://www.liceocalini.edu.it)
+ - date_published: 2024-10-13T07:07:32.288475+00:00
+
+ ## Liceo Chris Cappell College
+ - [https://www.liceochriscappell.edu.it](https://www.liceochriscappell.edu.it)
+ - date_published: 2024-10-13T07:20:42.651303+00:00
+
+ ## Liceo Classico Statale G.M. Dettori
+ - [http://www.liceoclassicodettori.edu.it](http://www.liceoclassicodettori.edu.it)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Liceo Classico Foligno
+ - [https://liceoclassicofoligno.edu.it](https://liceoclassicofoligno.edu.it)
+ - date_published: 2024-10-13T07:24:40.890094+00:00
+
+ ## LICEO CLASSICO “GIOACCHINO DA FIORE” - RENDE
+ - [https://www.liceoclassicorendecs.edu.it](https://www.liceoclassicorendecs.edu.it)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Liceo Scientifico Statale "Leonardo Cocito" - Alba (CN)
+ - [https://liceococito.edu.it](https://liceococito.edu.it)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.liceocopernico.edu.it](https://www.liceocopernico.edu.it)
+ - date_published: 2024-10-13T06:58:02+00:00
+
+ ## Liceo Don Tonino Bello Copertino
+ - [https://www.liceocopertino.edu.it](https://www.liceocopertino.edu.it)
+ - date_published: 2024-10-13T07:03:44+00:00
+
+ ## Liceo Scientifico e Liceo delle Scienze Umane "O.M. Corbino" - Siracusa - liceocorbinosiracusa.edu.it
+ - [https://www.liceocorbinosiracusa.edu.it](https://www.liceocorbinosiracusa.edu.it)
+ - date_published: 2024-10-13T06:58:06.000196+00:00
+
+ ## Liceo Statale ‘Alvise Cornaro’
+ - [https://www.liceocornaro.edu.it](https://www.liceocornaro.edu.it)
+ - date_published: 2024-10-13T07:24:34.531738+00:00
+
+ ## LICEO STATALE G. COTTA
+ - [https://www.liceocotta.edu.it](https://www.liceocotta.edu.it)
+ - date_published: 2024-10-13T07:22:09.641245+00:00
+
+ ## Home - Liceo Scientifico Benedetto Croce di Palermo
+ - [https://www.liceocroce.edu.it](https://www.liceocroce.edu.it)
+ - date_published: 2024-10-13T07:04:22+00:00
+
+ ## COORDINATORI E SEGRETARI CDC  A.S. 2024/25 - RETTIFICA
+ - [https://www.liceocuoco.edu.it](https://www.liceocuoco.edu.it)
+ - date_published: 2024-10-13T06:50:54+00:00
+
+ ## Liceo Scientifico D'Ascanio Montesilvano
+ - [https://www.liceodascanio.edu.it](https://www.liceodascanio.edu.it)
+ - date_published: 2024-10-13T06:54:13.716854+00:00
+
+ ## LICEO LEONARDO DA VINCI
+ - [https://liceodavinci.edu.it](https://liceodavinci.edu.it)
+ - date_published: 2024-10-13T07:17:53.176888+00:00
+
+ ## Liceo Scientifico Leonardo da Vinci di Firenze – Costruiamo insieme il nostro futuro
+ - [https://www.liceodavincifi.edu.it](https://www.liceodavincifi.edu.it)
+ - date_published: 2024-10-13T07:01:08.683909+00:00
+
+ ## Liceo "Da Vinci" Jesi
+ - [https://www.liceodavincijesi.edu.it](https://www.liceodavincijesi.edu.it)
+ - date_published: 2024-10-13T07:04:07.830651+00:00
+
+ ## Home
+ - [https://liceodavincimaglie.edu.it](https://liceodavincimaglie.edu.it)
+ - date_published: 2024-10-13T07:29:35+00:00
+
+ ## Home - Liceo Scientifico Cosimo De Giorgi
+ - [https://liceodegiorgi.edu.it](https://liceodegiorgi.edu.it)
+ - date_published: 2015-10-19T04:23:53+00:00
+
+ ## Liceo Scientifico, Classico, Linguistico Statale “Alfonso Maria de' Liguori”
+ - [https://www.liceodeliguori.edu.it](https://www.liceodeliguori.edu.it)
+ - date_published: 2024-10-13T06:52:01.335013+00:00
+
+ ## Liceo Scientifico Statale “Albert Einstein”
+ - [http://www.liceoeinstein.edu.it](http://www.liceoeinstein.edu.it)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Liceo Scientifico Statale Einstein Milano
+        
+        
+        
+        - Liceo Scientifico Statale Einstein Milano
+ - [https://www.liceoeinsteinmilano.edu.it](https://www.liceoeinsteinmilano.edu.it)
+ - date_published: 2024-10-13T07:17:11.332298+00:00
+
+ ## Liceo Enrico Medi
+ - [https://liceoenricomedi.edu.it](https://liceoenricomedi.edu.it)
+ - date_published: 2024-10-13T07:01:14.474650+00:00
+
+ ## Liceo Statale Ettore Majorana
+ - [https://www.liceoettoremajorana.edu.it](https://www.liceoettoremajorana.edu.it)
+ - date_published: 2024-10-13T07:20:50.517362+00:00
+
+ ## Liceo Scientifico Enrico Fermi
+ - [https://www.liceofermibo.edu.it](https://www.liceofermibo.edu.it)
+ - date_published: 2024-10-13T07:24:12.023184+00:00
+
+ ## Liceo Galileo Ferraris – Taranto – La logica vi porterà da A a B. L’immaginazione vi porterà dappertutto.
+ - [https://www.liceoferraris.edu.it](https://www.liceoferraris.edu.it)
+ - date_published: 2024-10-13T07:01:34.430166+00:00
+
+ ## Liceo "Leonardo Da Vinci" Di Floridia
+ - [https://www.liceofloridia.edu.it](https://www.liceofloridia.edu.it)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Home - Liceo Scientifico G. Galilei Ancona
+ - [https://www.liceogalileiancona.edu.it](https://www.liceogalileiancona.edu.it)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Liceo Statale Galileo Galilei
+ - [https://www.liceogalileidolo.edu.it](https://www.liceogalileidolo.edu.it)
+ - date_published: 2024-10-13T07:16:36.083530+00:00
+
+ ## Liceo Scientifico
+ - [https://www.liceogalileinapoli.edu.it](https://www.liceogalileinapoli.edu.it)
+ - date_published: 2024-10-13T07:08:00.782432+00:00
+
+ ## Home - Liceo "Alfonso Gatto"
+ - [https://www.liceogatto.edu.it](https://www.liceogatto.edu.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## Liceo Classico Scientifico PIETRO GIANNONE – Sito Web Istituzionale
+ - [https://www.liceogiannonecaserta.edu.it](https://www.liceogiannonecaserta.edu.it)
+ - date_published: 2024-10-13T07:22:46.346652+00:00
+
+ ## Liceo Classico e Linguistico Vincenzo Gioberti
+ - [https://www.liceogioberti.edu.it](https://www.liceogioberti.edu.it)
+ - date_published: 2024-10-13T06:54:00.948598+00:00
+
+ ## Liceo Marconi Foggia
+ - [https://www.liceogmarconifg.edu.it](https://www.liceogmarconifg.edu.it)
+ - date_published: 2024-10-13T06:53:30.043955+00:00
+
+ ## LICEO SCIENTIFICO STATALE ORAZIO GRASSI - SAVONA
+ - [https://www.liceograssi.edu.it](https://www.liceograssi.edu.it)
+ - date_published: 2024-10-13T07:20:13.064338+00:00
+
+ ## LICEO STATALE "G. Buchner"
+ - [https://www.liceoischia.edu.it](https://www.liceoischia.edu.it)
+ - date_published: 2024-10-12T00:00:00+00:00
+
+ ## LICEO STATALE “JACOPONE DA TODI”
+ - [https://www.liceojacopone.edu.it](https://www.liceojacopone.edu.it)
+ - date_published: 2024-10-13T07:13:06.583632+00:00
+
+ ## Home - IIS "Julia - Falcone"
+ - [https://www.liceojulia.edu.it](https://www.liceojulia.edu.it)
+ - date_published: 2024-10-13T07:00:38.445591+00:00
+
+ ## Liceo Scientifico Statale “Arturo Labriola”
+ - [https://www.liceolabriolanapoli.edu.it](https://www.liceolabriolanapoli.edu.it)
+ - date_published: 2024-10-13T07:25:00.237908+00:00
+
+ ## Liceo Scientifico e Linguistico "A. Landi" – Liceo Scientifico e Linguistico
+ - [https://www.liceolandi.edu.it](https://www.liceolandi.edu.it)
+ - date_published: 2024-10-13T07:24:28.183285+00:00
+
+ ## Liceo Scientifico “Paolo Lioy”
+ - [https://www.liceolioy.edu.it](https://www.liceolioy.edu.it)
+ - date_published: 2024-10-13T07:07:08.998854+00:00
+
+ ## Liceo Statale Terenzio Mamiani
+ - [https://www.liceomamiani.edu.it](https://www.liceomamiani.edu.it)
+ - date_published: 2024-10-13T06:58:38.987167+00:00
+
+ ## Liceo Scientifico Marinelli – Sito ufficiale del Liceo Scientifico Marinelli di Udine
+ - [https://liceomarinelli.edu.it](https://liceomarinelli.edu.it)
+ - date_published: 2024-10-13T06:53:33.459148+00:00
+
+ ## Home
+ - [https://www.liceomasci.edu.it](https://www.liceomasci.edu.it)
+ - date_published: 2024-10-13T07:10:44+00:00
+
+ ## Liceo Mazzini
+ - [https://www.liceomazzini.edu.it](https://www.liceomazzini.edu.it)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## LICEO SCIENTIFICO STATALE  "GIUSEPPE MERCALLI"
+ - [https://www.liceomercalli.edu.it](https://www.liceomercalli.edu.it)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Liceo Scientifico Statale Ugo Morin
+ - [https://www.liceomorin.edu.it](https://www.liceomorin.edu.it)
+ - date_published: 2024-10-13T07:02:50.749118+00:00
+
+ ## LICEO STATALE MOSCATI Grottaglie
+ - [https://www.liceomoscati.edu.it](https://www.liceomoscati.edu.it)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## LICEO STATALE "N. ROSA" - SUSA
+ - [https://www.liceonorbertorosa.edu.it](https://www.liceonorbertorosa.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## Liceo Classico e Musicale "G. Palmieri" – il più antico ginnasio liceo della città
+ - [https://www.liceopalmieri.edu.it](https://www.liceopalmieri.edu.it)
+ - date_published: 2024-10-13T07:05:57.166449+00:00
+
+ ## Liceo Scientifico Statale G. Peano - Monterotondo
+ - [https://www.liceopeanomonterotondo.edu.it](https://www.liceopeanomonterotondo.edu.it)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## I.I.S. Licei "Luca da Penne – Mario dei Fiori" – Sito istituzionale
+ - [https://www.liceopenne.edu.it](https://www.liceopenne.edu.it)
+ - date_published: 2024-10-13T06:52:47.887291+00:00
+
+ ## Liceo SCIENTIFICO E CLASSICO "L. Pepe - A. Calamo"
+ - [https://www.liceopepecalamo.edu.it](https://www.liceopepecalamo.edu.it)
+ - date_published: 2024-10-13T07:26:26.215804+00:00
+
+ ## Liceo Statale Galileo Galilei
+ - [https://www.liceopiedimontematese.edu.it](https://www.liceopiedimontematese.edu.it)
+ - date_published: 2024-10-13T06:55:56.914717+00:00
+
+ ## Liceo Pizzi Capua
+ - [https://www.liceopizzi.edu.it](https://www.liceopizzi.edu.it)
+ - date_published: 2024-10-13T07:21:44.976431+00:00
+
+ ## Istituto Superiore Carolina Poerio – Istituto Superiore Carolina Poerio
+ - [https://www.liceopoerio.edu.it](https://www.liceopoerio.edu.it)
+ - date_published: 2024-10-13T07:24:22.304030+00:00
+
+ ## Liceo Giacomo Leopardi Recanati
+ - [https://liceorecanati.edu.it](https://liceorecanati.edu.it)
+ - date_published: 2024-10-13T07:17:24.111234+00:00
+
+ ## Liceo Scientifico Statale "Lorenzo Respighi"
+ - [https://www.liceorespighi.edu.it](https://www.liceorespighi.edu.it)
+ - date_published: 2024-10-13T07:04:19.745873+00:00
+
+ ## Liceo Statale “Francesco Ribezzo”
+ - [https://www.liceoribezzo.edu.it](https://www.liceoribezzo.edu.it)
+ - date_published: 2024-10-13T07:19:57.207053+00:00
+
+ ## Liceo Scientifico Augusto Righi di Cesena (FC)
+ - [https://www.liceorighicesena.edu.it](https://www.liceorighicesena.edu.it)
+ - date_published: 2024-10-13T07:14:24.883669+00:00
+
+ ## LICEO SCIENTIFICO NICCOLO' RODOLICO - FIRENZE
+ - [https://www.liceorodolico.edu.it](https://www.liceorodolico.edu.it)
+ - date_published: 2024-10-03T00:00:00+00:00
+
+ ## Liceo Scientifico A. Roiti Ferrara
+ - [https://www.liceoroiti.edu.it](https://www.liceoroiti.edu.it)
+ - date_published: 2024-10-13T07:21:57.516652+00:00
+
+ ## Liceo Scientifico P. Ruggieri Marsala
+ - [https://www.liceoruggierimarsala.edu.it](https://www.liceoruggierimarsala.edu.it)
+ - date_published: 2024-10-13T07:11:30.532459+00:00
+
+ ## IIS SANSEPOLCRO
+ - [https://www.liceosansepolcro.edu.it](https://www.liceosansepolcro.edu.it)
+ - date_published: 2024-10-09T00:00:00+00:00
+
+ ## Liceo Statale “Tito Lucrezio Caro”
+ - [https://www.liceosarno.edu.it](https://www.liceosarno.edu.it)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Liceo Statale "Felicia E Peppino Impastato"
+ - [https://www.liceosavarino.edu.it](https://www.liceosavarino.edu.it)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Liceo "Arcangelo Scacchi
+ - [https://www.liceoscacchibari.edu.it](https://www.liceoscacchibari.edu.it)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## Liceo scientifico artistico Brotzu - Liceo Brotzu scientifico artistico
+ - [https://liceoscientificoartisticobrotzu.edu.it](https://liceoscientificoartisticobrotzu.edu.it)
+ - date_published: 2024-10-13T07:20:47+00:00
+
+ ## Liceo Scientifico Nino Cortese Maddaloni
+ - [https://liceoscientificocortese.edu.it](https://liceoscientificocortese.edu.it)
+ - date_published: 2024-10-13T06:51:13.032243+00:00
 

@@ -1,408 +1,3 @@
- ## 中華民國外交部全球資訊網
- - [https://www.mofa.gov.tw](https://www.mofa.gov.tw)
- - date_published: 2024-07-07T10:16:39.707813+00:00
-
- ## 衛生福利部全球資訊網
- - [https://www.mohw.gov.tw](https://www.mohw.gov.tw)
- - date_published: 2024-10-19T22:38:10.601067+00:00
-
- ## 全國法規資料庫
- - [http://law.moj.gov.tw](http://law.moj.gov.tw)
- - date_published: 2024-07-12T17:23:26.967208+00:00
-
- ## 法務部廉政署中文網
- - [https://www.aac.moj.gov.tw](https://www.aac.moj.gov.tw)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## 行政院洗錢防制辦公室中文網
- - [https://www.amlo.moj.gov.tw](https://www.amlo.moj.gov.tw)
- - date_published: 2024-10-19T22:36:14.535620+00:00
-
- ## 人權大步走中文網
- - [https://www.humanrights.moj.gov.tw](https://www.humanrights.moj.gov.tw)
- - date_published: 2024-10-19T22:29:59.816592+00:00
-
- ## 法務部全球資訊網中文網
- - [https://www.moj.gov.tw](https://www.moj.gov.tw)
- - date_published: 2024-10-19T22:31:16.545432+00:00
-
- ## 行政院公報資訊網
- - [https://gazette.nat.gov.tw](https://gazette.nat.gov.tw)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## 雙語資源網Bilingual Portal
- - [https://bilingual.ndc.gov.tw](https://bilingual.ndc.gov.tw)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## 中華民國內政部消防署全球資訊網
- - [https://www.nfa.gov.tw](https://www.nfa.gov.tw)
- - date_published: 2024-10-19T22:30:36.821941+00:00
-
- ## 臺灣女人 –  穿梭的記憶‧臺灣女性流轉年華
- - [https://women.nmth.gov.tw](https://women.nmth.gov.tw)
- - date_published: 2024-06-22T12:42:09.578615+00:00
-
- ## 民眾意見案件管理系統
- - [https://contactus.npm.gov.tw](https://contactus.npm.gov.tw)
- - date_published: 2024-10-17T06:19:29.715596+00:00
-
- ## 故宮典藏資料檢索
- - [https://digitalarchive.npm.gov.tw](https://digitalarchive.npm.gov.tw)
- - date_published: 2024-06-17T05:25:48+00:00
-
- ## 故宮南院 | 喬木數位典藏資料庫
- - [https://i-trees.npm.gov.tw](https://i-trees.npm.gov.tw)
- - date_published: 2024-06-17T16:53:26.139410+00:00
-
- ## 國立故宮博物院主管法規共用系統-最新訊息
- - [https://law.npm.gov.tw](https://law.npm.gov.tw)
- - date_published: 2024-05-02T10:40:16.228020+00:00
-
- ## 國立故宮博物院南部院區
- - [https://south.npm.gov.tw](https://south.npm.gov.tw)
- - date_published: 2024-05-02T10:40:03.203961+00:00
-
- ## 國立故宮博物院-國立故宮博物院
- - [https://www.npm.gov.tw](https://www.npm.gov.tw)
- - date_published: 2023-11-13T13:46:38.432750+00:00
- - tags: ['museum']
-
- ## 「國家科學及技術委員會全球資訊網」(NSTC)
- - [https://www.nstc.gov.tw](https://www.nstc.gov.tw)
- - date_published: 2024-10-19T22:37:51.657905+00:00
-
- ## SSHM Digtal Meseum - 數位博物館
- - [https://sshm.vm.ntpc.gov.tw](https://sshm.vm.ntpc.gov.tw)
- - date_published: 2024-10-19T22:34:40.506766+00:00
-
- ## 首頁 | 新北市立十三行博物館
- - [http://www.sshm.ntpc.gov.tw](http://www.sshm.ntpc.gov.tw)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## CRPD 身心障礙者權利公約 - 首頁
- - [https://crpd.sfaa.gov.tw](https://crpd.sfaa.gov.tw)
- - date_published: 2024-10-19T22:30:48.659241+00:00
-
- ## 台灣就業通
- - [https://www.taiwanjobs.gov.tw](https://www.taiwanjobs.gov.tw)
- - date_published: 2024-10-19T22:38:25.314560+00:00
-
- ## 經濟部國際貿易署經貿資訊網
- - [https://www.trade.gov.tw](https://www.trade.gov.tw)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## 桃園市政府海岸及資源循環工程處
- - [https://www.tyoca.gov.tw](https://www.tyoca.gov.tw)
- - date_published: 2024-06-17T05:07:10+00:00
-
- ## 2024國慶焰火在雲林
- - [https://2024fireworks.yunlin.gov.tw](https://2024fireworks.yunlin.gov.tw)
- - date_published: 2024-10-07T22:06:47.334137+00:00
-
- ## TWNIC 財團法人台灣網路資訊中心
- - [https://www.twnic.net.tw](https://www.twnic.net.tw)
- - date_published: 2024-07-07T10:15:51.171269+00:00
-
- ## Homepage
- - [https://www.ait.org.tw](https://www.ait.org.tw)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## BCSD TAIWAN
- - [https://bcsd.org.tw](https://bcsd.org.tw)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## CSROC中華民國電腦學會
- - [http://www.csroc.org.tw](http://www.csroc.org.tw)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## 節能標章全球資訊網-一般民眾
- - [https://www.energylabel.org.tw](https://www.energylabel.org.tw)
- - date_published: 2024-10-19T22:38:00.523077+00:00
-
- ## TaiwanICDF
- - [https://www.icdf.org.tw](https://www.icdf.org.tw)
- - date_published: 2024-07-14T18:59:01.677595+00:00
-
- ## Institute for Information Industry(III)
- - [https://web.iii.org.tw](https://web.iii.org.tw)
- - date_published: 2024-07-07T10:14:19.737079+00:00
-
- ## 財團法人林榮三文化公益基金會Lin Rong San Foundation of Culture and Social Welfare
- - [http://www.lrsf.org.tw](http://www.lrsf.org.tw)
- - date_published: 2024-10-07T22:12:38.731913+00:00
-
- ## NCHC | Main / HomePage
- - [http://free.nchc.org.tw](http://free.nchc.org.tw)
- - date_published: 2024-08-19T22:20:47.282550+00:00
-
- ## 無毒世界基金會網站：成人和青少年的毒品與藥物濫用真相、毒品書籍資訊、教育
- - [http://www.notodrugs.org.tw](http://www.notodrugs.org.tw)
- - date_published: 2024-09-04T17:53:30.230190+00:00
-
- ## 財團法人陽明海運文化基金會
- - [http://www.ocam.org.tw](http://www.ocam.org.tw)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## 人格測試
- - [https://www.oca.scientology.org.tw](https://www.oca.scientology.org.tw)
- - date_published: 2024-06-17T16:40:49.163698+00:00
-
- ## 山達基教會：L. 羅恩 賀伯特、戴尼提、什麼是山達基？、書籍、信仰、大衛 密斯凱維吉
- - [https://scientology.org.tw](https://scientology.org.tw)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## 山達基宗教：背景、理論和宗教實踐
- - [https://www.scientologyreligion.org.tw](https://www.scientologyreligion.org.tw)
- - date_published: 2024-06-06T19:41:35.098169+00:00
-
- ## 財團法人台灣建築中心 - TABC台灣建築中心
- - [https://www.tabc.org.tw](https://www.tabc.org.tw)
- - date_published: 2022-10-06T09:05:21+00:00
-
- ## 台灣人權促進會
- - [https://www.tahr.org.tw](https://www.tahr.org.tw)
- - date_published: 2024-09-25T16:30:55+00:00
-
- ## 台灣流體傳動工業全球資訊網
- - [https://www.tfpa.org.tw](https://www.tfpa.org.tw)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## iWIN網路內容防護機構 - 首頁
- - [https://i.win.org.tw](https://i.win.org.tw)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## 財團法人陽明海運文化基金會
- - [https://www.ymculture.org.tw](https://www.ymculture.org.tw)
- - date_published: 2024-10-19T22:35:14.226977+00:00
-
- ## 13
- - [https://13h.tw](https://13h.tw)
- - date_published: 2022-04-05T19:22:59+00:00
-
- ## 20th Century Studios Taiwan | Official Website
- - [https://www.20thcenturystudios.tw](https://www.20thcenturystudios.tw)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## Gea-Suan Lin's Blog – This seems cool
- - [https://404.tw](https://404.tw)
- - date_published: 2023-09-26T00:00:00+00:00
-
- ## @jihchi
- - [https://987.tw](https://987.tw)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## 電影神搜
- - [https://news.agentm.tw](https://news.agentm.tw)
- - date_published: 2024-10-07T00:00:00+00:00
-
- ## 歐搜哇 ohsowow
- - [https://ohsowow.agentm.tw](https://ohsowow.agentm.tw)
- - date_published: 2024-10-07T22:08:11.344675+00:00
-
- ## AIdea
- - [https://aidea-web.tw](https://aidea-web.tw)
- - date_published: 2024-05-10T05:09:47.020373+00:00
-
- ## Angular 中文文件
- - [https://angular.tw](https://angular.tw)
- - date_published: 2024-05-31T11:09:05.729061+00:00
-
- ## Android 台灣中文網 智慧型手機 免費 遊戲下載 軟體下載 韌體下載 APP下載 刷機教程 -  APK.TW
- - [https://apk.tw](https://apk.tw)
- - date_published: 2024-06-29T17:56:49.294194+00:00
-
- ## Apowersoft - 為您提供專業的商務辦公及日常生活的桌面軟體和線上應用
- - [https://www.apowersoft.tw](https://www.apowersoft.tw)
- - date_published: 2024-06-23T16:06:15.736776+00:00
-
- ## Index of /
- - [http://mirror.archlinux.tw](http://mirror.archlinux.tw)
- - date_published: 2024-07-13T17:34:46.097959+00:00
-
- ## Jasper | AI copilot for enterprise marketing teams
- - [https://www.ata.tw](https://www.ata.tw)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## BARE: The Google Reader experience for your Twitter timeline.
- - [https://bare.tw](https://bare.tw)
- - date_published: 2024-07-20T03:10:14.193522+00:00
-
- ## 程式的窩
- - [https://blog.blackwhite.tw](https://blog.blackwhite.tw)
- - date_published: 2024-10-22T18:50:46.995099+00:00
-
- ## 戴尼提和山達基的教材
- - [https://bridgepub.tw](https://bridgepub.tw)
- - date_published: 2024-06-06T20:22:01.491687+00:00
-
- ## 公民人權委員會首頁觀看影片。
- - [http://www.cchr.tw](http://www.cchr.tw)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Martin's website/blog thingy
- - [https://clehaxze.tw](https://clehaxze.tw)
- - date_published: 2024-06-22T07:00:36.332710+00:00
- - tags: ['personal']
-
- ## The 13th Asia Pacific Conference on Vision
- - [https://apcv2017.conf.tw](https://apcv2017.conf.tw)
- - date_published: 2024-07-13T11:54:24.697802+00:00
-
- ## Attention Required! | Cloudflare
- - [http://dcard.tw](http://dcard.tw)
- - date_published: 2024-06-18T09:32:14.939306+00:00
-
- ## DDraceNetwork
- - [https://ddnet.tw](https://ddnet.tw)
- - date_published: 2024-05-08T10:51:38.449214+00:00
- - tags: ['open source', 'video game']
-
- ## 台灣迪卡儂運動誌｜超過 60 種運動項目文章，任你探索｜DECATHLON
- - [https://blog.decathlon.tw](https://blog.decathlon.tw)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## 台灣迪卡儂運動社｜免綁約｜上百堂運動體驗推薦｜全台最大運動體驗平台
- - [https://events.decathlon.tw](https://events.decathlon.tw)
- - date_published: 2024-09-19T13:36:55.449126+00:00
-
- ## 迪卡儂企業採購中心
- - [https://grouporder.decathlon.tw](https://grouporder.decathlon.tw)
- - date_published: 2024-09-19T13:37:22.480941+00:00
-
- ## 迪卡儂會員獎勵計畫 | 專屬禮遇，等你來解鎖！
- - [https://membership.decathlon.tw](https://membership.decathlon.tw)
- - date_published: 2024-09-19T13:37:20.324507+00:00
-
- ## 支援
- - [https://support.decathlon.tw](https://support.decathlon.tw)
- - date_published: 2024-09-19T13:36:57.476582+00:00
-
- ## 永續迪卡儂
- - [https://sustainability.decathlon.tw](https://sustainability.decathlon.tw)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## 迪卡儂 台灣官方網站 -  降價出清，低至6折，萬種商品，想買就買 - 超取$199 、宅配$499 免運
- - [https://decathlon.tw](https://decathlon.tw)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## 戴尼提中文官方網站：購買L. 羅恩 賀伯特的著作，觀看戴尼提相關影片《戴尼提簡介》
- - [https://www.dianetics.tw](https://www.dianetics.tw)
- - date_published: 2024-06-17T16:42:22.000718+00:00
-
- ## DigiKey
- - [https://digikey.tw](https://digikey.tw)
- - date_published: 2024-05-01T05:02:16.567657+00:00
-
- ## 狀態概覽
- - [https://downdetector.tw](https://downdetector.tw)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Needs authentication
- - [https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw](https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw)
- - date_published: 2024-07-18T22:33:30.746625+00:00
-
- ## 電競椅 | 家用遊戲椅 | 辦公人體工學椅 | DXRacer
- - [https://www.dxracer.tw](https://www.dxracer.tw)
- - date_published: 2024-07-03T12:26:08.197060+00:00
-
- ## Antivirus and Internet Security Solutions
- - [http://www.eset.tw](http://www.eset.tw)
- - date_published: 2024-06-16T06:24:43.548025+00:00
-
- ## 哇哇3C日誌
- - [https://ez3c.tw](https://ez3c.tw)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## HTTP Server Test Page powered by CentOS-WebPanel.com
- - [https://www.fng.tw](https://www.fng.tw)
- - date_published: 2021-12-21T23:22:40+00:00
-
- ## Focus Taiwan - CNA English News
- - [https://focustaiwan.tw](https://focustaiwan.tw)
- - date_published: 2023-10-25T09:38:54.908021+00:00
- - tags: ['taiwan news']
-
- ## CNA Berita Bahasa Indonesia
- - [https://indonesia.focustaiwan.tw](https://indonesia.focustaiwan.tw)
- - date_published: 2024-07-16T20:57:00+00:00
-
- ## フォーカス台湾 - 中央社日本語版
- - [https://japan.focustaiwan.tw](https://japan.focustaiwan.tw)
- - date_published: 2024-05-12T07:10:27.558537+00:00
-
- ## iPhone和Android數據恢復，Mac清潔，免費PDF壓縮器| FoneDog
- - [https://www.fonedog.tw](https://www.fonedog.tw)
- - date_published: 2024-06-17T01:35:21+00:00
-
- ## 山達基內部──<br/>毫無保留的故事
- - [https://www.freedommag.tw](https://www.freedommag.tw)
- - date_published: 0001-01-01T00:00:00+00:00
-
- ## Fur Times    獸時報 | 歡迎各位來到 Fur Times 獸時報官方網站！
- - [https://furtimes.tw](https://furtimes.tw)
- - date_published: 2024-06-30T06:02:40.462735+00:00
-
- ## g0v 台灣零時政府
- - [https://g0v.tw](https://g0v.tw)
- - date_published: 2024-05-05T06:14:26+00:00
-
- ## Home - 永續發展資訊網 - GIGABYTE
- - [https://csr.gigabyte.tw](https://csr.gigabyte.tw)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## 首頁
- - [http://www.gousa.tw](http://www.gousa.tw)
- - date_published: 2024-06-18T18:23:02+00:00
-
- ## 首頁
- - [https://www.henkel.tw](https://www.henkel.tw)
- - date_published: 2024-10-18T20:17:13.052822+00:00
-
- ## HIOKI 日置電機 | 世界級的測試與測量設備、儀器
- - [https://hioki.tw](https://hioki.tw)
- - date_published: 2024-10-15T21:05:25.212663+00:00
-
- ## HitPaw 免費線上圖片編輯
- - [https://online.hitpaw.tw](https://online.hitpaw.tw)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## HIWIN ESG
- - [https://esg.hiwin.tw](https://esg.hiwin.tw)
- - date_published: 2024-09-05T21:56:21.144787+00:00
-
- ## HIWIN Technologies Corp.
- - [https://www.hiwin.tw](https://www.hiwin.tw)
- - date_published: 2024-09-05T21:56:54.511734+00:00
-
- ## Home | 大銀微系統股份有限公司
- - [https://www.hiwinmikro.tw](https://www.hiwinmikro.tw)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## HPX 輕鬆聚
- - [https://www.hpx.tw](https://www.hpx.tw)
- - date_published: 2024-07-04T12:49:56.340321+00:00
-
- ## 姆明台灣官方商城｜MOOMIN TW ONLINE
- - [https://iam-moomin.tw](https://iam-moomin.tw)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Ignite Taipei
- - [http://ignitetaipei.tw](http://ignitetaipei.tw)
- - date_published: 2024-08-18T09:34:24.208812+00:00
-
- ## The 26th Conference of the International Linear Algebra Society
- - [https://ilas2025.tw](https://ilas2025.tw)
- - date_published: 2024-03-10T03:04:16+00:00
-
- ## Warung168 🐣 Link Game Cek Khodam Online Terbaru
- - [https://ipv6launch.tw](https://ipv6launch.tw)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Google 翻譯修好了沒？ Has Google Fixed Translate Yet?
- - [https://isgooglefixed.tw](https://isgooglefixed.tw)
- - date_published: 2023-10-25T22:47:54.521774+00:00
- - tags: ['google translate']
-
  ## kjelly — Cloud engineering, Automation, Networking, Container...
  - [https://blog.kjelly.tw](https://blog.kjelly.tw)
  - date_published: 2024-03-10T00:00:00+00:00
@@ -3205,10 +2800,6 @@
  - [http://eprints.bbk.ac.uk](http://eprints.bbk.ac.uk)
  - date_published: 2024-07-02T10:05:11.914832+00:00
 
- ## Home — Birkbeck, University of London
- - [https://www.bbk.ac.uk](https://www.bbk.ac.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
  ## Birmingham City University
  - [https://www.bcu.ac.uk](https://www.bcu.ac.uk)
  - date_published: 2024-06-18T06:41:28.648619+00:00
@@ -4013,4 +3604,408 @@
  ## HR Systems |
  - [http://www.hrsystems.admin.cam.ac.uk](http://www.hrsystems.admin.cam.ac.uk)
  - date_published: 2024-06-17T17:35:20+00:00
+
+ ## Health, Safety & Regulated Facilities |
+ - [https://www.hsrf.admin.cam.ac.uk](https://www.hsrf.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:20:40+00:00
+
+ ## Hughes Hall - College of the University of Cambridge
+ - [https://www.hughes.cam.ac.uk](https://www.hughes.cam.ac.uk)
+ - date_published: 2024-10-20T03:20:00.688669+00:00
+
+ ## Institute of Continuing Education (ICE) |
+ - [https://www.ice.cam.ac.uk](https://www.ice.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:34.063812+00:00
+
+ ## Institute for Manufacturing (IfM)
+ - [https://www.ifm.eng.cam.ac.uk](https://www.ifm.eng.cam.ac.uk)
+ - date_published: 2024-10-20T03:22:30.364681+00:00
+
+ ## Cambridge Infectious Diseases | An Interdisciplinary Research Centre at the University of Cambridge
+ - [https://www.infectiousdisease.cam.ac.uk](https://www.infectiousdisease.cam.ac.uk)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Information Compliance |
+ - [https://www.information-compliance.admin.cam.ac.uk](https://www.information-compliance.admin.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:11.507182+00:00
+
+ ## International Students |
+ - [https://www.internationalstudents.cam.ac.uk](https://www.internationalstudents.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:47.234923+00:00
+
+ ## Home | Cambridge Librarians
+ - [https://www.intranet.lib.cam.ac.uk](https://www.intranet.lib.cam.ac.uk)
+ - date_published: 2024-05-02T10:52:11.304248+00:00
+
+ ## Browse help by service category | IT Help and Support
+ - [http://www.itservices.cam.ac.uk](http://www.itservices.cam.ac.uk)
+ - date_published: 2024-06-17T17:28:24+00:00
+
+ ## Job Opportunities - University of Cambridge
+ - [https://www.jobs.cam.ac.uk](https://www.jobs.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:52.782985+00:00
+
+ ## Homepage | Kettle&#039;s Yard
+ - [https://www.kettlesyard.cam.ac.uk](https://www.kettlesyard.cam.ac.uk)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Welcome to King's College
+ - [http://www.kings.cam.ac.uk](http://www.kings.cam.ac.uk)
+ - date_published: 2024-06-17T11:17:59+00:00
+
+ ## Homepage | Department of Land Economy
+ - [https://www.landecon.cam.ac.uk](https://www.landecon.cam.ac.uk)
+ - date_published: 2024-06-17T17:28:49.678915+00:00
+
+ ## Faculty of Law | University of Cambridge
+ - [http://www.law.cam.ac.uk](http://www.law.cam.ac.uk)
+ - date_published: 2024-06-17T10:16:47+00:00
+
+ ## Legal Services Division |
+ - [https://www.legal.admin.cam.ac.uk](https://www.legal.admin.cam.ac.uk)
+ - date_published: 2024-06-17T16:50:10+00:00
+
+ ## Cambridge University Library |
+ - [https://www.lib.cam.ac.uk](https://www.lib.cam.ac.uk)
+ - date_published: 2023-12-20T23:39:54.152345+00:00
+
+ ## Cambridge Libraries |
+ - [https://www.libraries.cam.ac.uk](https://www.libraries.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:40.978798+00:00
+
+ ## Index | Chemistry Library
+ - [https://www-library.ch.cam.ac.uk](https://www-library.ch.cam.ac.uk)
+ - date_published: 2024-06-15T05:23:08+00:00
+
+ ## Raven login
+ - [https://www.lookup.cam.ac.uk](https://www.lookup.cam.ac.uk)
+ - date_published: 2024-06-17T17:35:06.075925+00:00
+
+ ## Welcome to Mathematics in Cambridge | Faculty of Mathematics
+ - [https://www.maths.cam.ac.uk](https://www.maths.cam.ac.uk)
+ - date_published: 2024-05-02T10:52:01.723310+00:00
+
+ ## Maxwell Centre | University of Cambridge
+ - [https://www.maxwell.cam.ac.uk](https://www.maxwell.cam.ac.uk)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## McDonald Institute for Archaeological Research | Department of Archaeology
+ - [http://www.mcdonald.cam.ac.uk](http://www.mcdonald.cam.ac.uk)
+ - date_published: 2024-06-24T09:48:08+00:00
+
+ ## Department of Materials Science & Metallurgy |
+ - [http://www.msm.cam.ac.uk](http://www.msm.cam.ac.uk)
+ - date_published: 2024-09-16T14:47:33.830358+00:00
+
+ ## Museum of Zoology |
+ - [https://www.museum.zoo.cam.ac.uk](https://www.museum.zoo.cam.ac.uk)
+ - date_published: 2024-06-17T05:29:52+00:00
+
+ ## Natural Sciences Tripos |
+ - [https://www.natsci.tripos.cam.ac.uk](https://www.natsci.tripos.cam.ac.uk)
+ - date_published: 2024-06-15T06:47:54+00:00
+
+ ## Isaac Newton Trust |
+ - [https://www.newtontrust.cam.ac.uk](https://www.newtontrust.cam.ac.uk)
+ - date_published: 2024-06-17T17:20:31+00:00
+
+ ## Office of Intercollegiate Services |
+ - [https://www.ois.cam.ac.uk](https://www.ois.cam.ac.uk)
+ - date_published: 2024-06-17T17:25:51+00:00
+
+ ## Open Access |
+ - [https://www.openaccess.cam.ac.uk](https://www.openaccess.cam.ac.uk)
+ - date_published: 2024-06-17T16:41:16+00:00
+
+ ## Department of Pathology |
+ - [http://www.path.cam.ac.uk](http://www.path.cam.ac.uk)
+ - date_published: 2024-09-16T14:33:02+00:00
+
+ ## Department of Physiology, Development and Neuroscience |
+ - [http://www.pdn.cam.ac.uk](http://www.pdn.cam.ac.uk)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## Pensions |
+ - [http://www.pensions.admin.cam.ac.uk](http://www.pensions.admin.cam.ac.uk)
+ - date_published: 2024-06-17T16:57:26+00:00
+
+ ## Department of Pharmacology |
+ - [http://www.phar.cam.ac.uk](http://www.phar.cam.ac.uk)
+ - date_published: 2024-09-16T14:29:57+00:00
+
+ ## Support Cambridge
+ - [https://www.philanthropy.cam.ac.uk](https://www.philanthropy.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:17.721659+00:00
+
+ ## Telecoms Office | University Information Services
+ - [https://www.phone.cam.ac.uk](https://www.phone.cam.ac.uk)
+ - date_published: 2024-06-17T17:28:34+00:00
+
+ ## Department of Physics | The Cavendish Laboratory
+ - [http://www.phy.cam.ac.uk](http://www.phy.cam.ac.uk)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Cambridge Centre for Physical Biology |
+ - [https://www.physbiol.cam.ac.uk](https://www.physbiol.cam.ac.uk)
+ - date_published: 2024-06-17T17:19:27+00:00
+
+ ## Plagiarism and Academic Misconduct |
+ - [https://www.plagiarism.admin.cam.ac.uk](https://www.plagiarism.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:08:39+00:00
+
+ ## Department of Plant Sciences |
+ - [https://www.plantsci.cam.ac.uk](https://www.plantsci.cam.ac.uk)
+ - date_published: 2024-06-17T17:38:23+00:00
+
+ ## Plants @ Cambridge |
+ - [https://www.plants.hub.cam.ac.uk](https://www.plants.hub.cam.ac.uk)
+ - date_published: 2024-06-17T17:38:16+00:00
+
+ ## Department of Politics and International Studies (POLIS) |
+ - [https://www.polis.cam.ac.uk](https://www.polis.cam.ac.uk)
+ - date_published: 2024-07-12T08:56:04+00:00
+
+ ## Postgraduate Study | University of Cambridge
+ - [https://www.postgraduate.study.cam.ac.uk](https://www.postgraduate.study.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:05.096603+00:00
+
+ ## Personal and Professional Development |
+ - [http://www.ppd.admin.cam.ac.uk](http://www.ppd.admin.cam.ac.uk)
+ - date_published: 2024-06-17T16:43:46+00:00
+
+ ## Prevent Guidance |
+ - [http://www.prevent.admin.cam.ac.uk](http://www.prevent.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:13:51+00:00
+
+ ## Department of Psychology |
+ - [http://www.psychol.cam.ac.uk](http://www.psychol.cam.ac.uk)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## Race Equality at Cambridge |
+ - [https://www.race-equality.admin.cam.ac.uk](https://www.race-equality.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:38:04+00:00
+
+ ## Recruitment |
+ - [https://www.recruitment.admin.cam.ac.uk](https://www.recruitment.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:35:14+00:00
+
+ ## Research Excellence Framework |
+ - [https://www.ref.admin.cam.ac.uk](https://www.ref.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:37:19+00:00
+
+ ## Home | Governance and Compliance Division
+ - [https://www.registrarysoffice.admin.cam.ac.uk](https://www.registrarysoffice.admin.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:45.411006+00:00
+
+ ## Cambridge University Reporter |
+ - [https://www.reporter.admin.cam.ac.uk](https://www.reporter.admin.cam.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Apollo :: Home
+ - [https://www.repository.cam.ac.uk](https://www.repository.cam.ac.uk)
+ - date_published: 2024-05-02T10:52:15.022165+00:00
+
+ ## Research Information |
+ - [https://www.research-information.admin.cam.ac.uk](https://www.research-information.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:14:05+00:00
+
+ ## Research Integrity |
+ - [http://www.research-integrity.admin.cam.ac.uk](http://www.research-integrity.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:12:30+00:00
+
+ ## Research Operations Office |
+ - [https://www.research-operations.admin.cam.ac.uk](https://www.research-operations.admin.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:50.158678+00:00
+
+ ## Research Strategy Office |
+ - [https://www.research-strategy.admin.cam.ac.uk](https://www.research-strategy.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:14:05+00:00
+
+ ## Safety Office |
+ - [http://www.safety.admin.cam.ac.uk](http://www.safety.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:35:01+00:00
+
+ ## Signal Processing and Communications Laboratory
+ - [https://www-sigproc.eng.cam.ac.uk](https://www-sigproc.eng.cam.ac.uk)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Sainsbury Laboratory |
+ - [https://www.slcu.cam.ac.uk](https://www.slcu.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:59.445457+00:00
+
+ ## SPACE: Supporting Parents and Carers @ Cambridge |
+ - [https://www.space.admin.cam.ac.uk](https://www.space.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:38:03+00:00
+
+ ## Sport at Cambridge |
+ - [https://www.sport.cam.ac.uk](https://www.sport.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:16.107756+00:00
+
+ ## For staff
+ - [https://www.staff.admin.cam.ac.uk](https://www.staff.admin.cam.ac.uk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Index | Statistical Laboratory
+ - [https://statslab.cam.ac.uk](https://statslab.cam.ac.uk)
+ - date_published: 2024-05-17T02:59:46.226782+00:00
+
+ ## Student Complaints |
+ - [https://www.studentcomplaints.admin.cam.ac.uk](https://www.studentcomplaints.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:25:35+00:00
+
+ ## Search - Postgraduate Funding Search
+ - [http://www.student-funding.cam.ac.uk](http://www.student-funding.cam.ac.uk)
+ - date_published: 2024-06-17T17:29:26.684352+00:00
+
+ ## Student Registry | University of Cambridge
+ - [https://www.student-registry.admin.cam.ac.uk](https://www.student-registry.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:36:12+00:00
+
+ ## Student Support | University of Cambridge
+ - [https://www.studentsupport.cam.ac.uk](https://www.studentsupport.cam.ac.uk)
+ - date_published: 2024-06-17T17:36:14+00:00
+
+ ## Study at Cambridge
+ - [https://www.study.cam.ac.uk](https://www.study.cam.ac.uk)
+ - date_published: 2024-05-02T10:50:47.933025+00:00
+
+ ## TCM Group
+ - [https://www.tcm.phy.cam.ac.uk](https://www.tcm.phy.cam.ac.uk)
+ - date_published: 2024-10-20T03:25:35.821185+00:00
+
+ ## The Cambridge Student
+ - [https://www.tcs.cam.ac.uk](https://www.tcs.cam.ac.uk)
+ - date_published: 2024-10-20T13:13:51.109386+00:00
+
+ ## University Information Services |
+ - [https://www.uis.cam.ac.uk](https://www.uis.cam.ac.uk)
+ - date_published: 2024-06-17T16:50:10+00:00
+
+ ## Cambridge University Libraries Intranet | Intranet for Cambridge University Libraries
+ - [https://www.ul.intranet.lib.cam.ac.uk](https://www.ul.intranet.lib.cam.ac.uk)
+ - date_published: 2024-06-17T17:47:07+00:00
+
+ ## Undergraduate Study | University of Cambridge
+ - [https://www.undergraduate.study.cam.ac.uk](https://www.undergraduate.study.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:09.990385+00:00
+
+ ## Vice-Chancellor
+ - [http://www.v-c.admin.cam.ac.uk](http://www.v-c.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:23:35+00:00
+
+ ## Virtual tour | University of Cambridge
+ - [https://www.virtualtour.study.cam.ac.uk](https://www.virtualtour.study.cam.ac.uk)
+ - date_published: 2022-08-03T09:51:57+00:00
+
+ ## Log in to the site | Moodle
+ - [https://www.vle.cam.ac.uk](https://www.vle.cam.ac.uk)
+ - date_published: 2024-05-02T10:51:53.990318+00:00
+
+ ## Wellbeing |
+ - [https://www.wellbeing.admin.cam.ac.uk](https://www.wellbeing.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:29:56+00:00
+
+ ## Festival of Wellbeing | University of Cambridge
+ - [http://www.wellfest.admin.cam.ac.uk](http://www.wellfest.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:32:56+00:00
+
+ ## Whipple Library | Department of History and Philosophy of Science
+ - [https://www.whipplelib.hps.cam.ac.uk](https://www.whipplelib.hps.cam.ac.uk)
+ - date_published: 2024-06-19T16:34:22+00:00
+
+ ## Sign in to your account
+ - [https://www.wireless.cam.ac.uk](https://www.wireless.cam.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Womens' Campaign
+ - [http://www.womens.cusu.cam.ac.uk](http://www.womens.cusu.cam.ac.uk)
+ - date_published: 2024-06-17T17:37:40.748841+00:00
+
+ ## The power to change our world - Cambridge Open Zettascale Lab
+ - [https://www.zettascale.hpc.cam.ac.uk](https://www.zettascale.hpc.cam.ac.uk)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Department of Zoology |
+ - [http://www.zoo.cam.ac.uk](http://www.zoo.cam.ac.uk)
+ - date_published: 2024-09-16T14:37:34+00:00
+
+ ## Login - Unit4 Business World
+ - [https://x5.admin.cam.ac.uk](https://x5.admin.cam.ac.uk)
+ - date_published: 2024-06-17T17:37:25.708135+00:00
+
+ ## CCCU Blogs
+ - [https://blogs.canterbury.ac.uk](https://blogs.canterbury.ac.uk)
+ - date_published: 2024-10-19T10:33:33.071450+00:00
+
+ ## Home
+ - [https://canterbury.ac.uk](https://canterbury.ac.uk)
+ - date_published: 2024-10-19T10:33:35.506178+00:00
+
+ ## A destination of learning for East Kent | Canterbury College
+ - [https://www.canterburycollege.ac.uk](https://www.canterburycollege.ac.uk)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Capital City College Group - London's Largest FE College Group
+ - [https://www.capitalccg.ac.uk](https://www.capitalccg.ac.uk)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Welcome to Cardiff Blogs
+ - [https://blogs.cardiff.ac.uk](https://blogs.cardiff.ac.uk)
+ - date_published: 2024-05-10T05:54:58.840125+00:00
+
+ ## Cardiff University
+ - [https://cardiff.ac.uk](https://cardiff.ac.uk)
+ - date_published: 2024-07-10T07:20:54.218366+00:00
+
+ ## Intranet
+ - [https://intranet.cardiff.ac.uk](https://intranet.cardiff.ac.uk)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## -ORCA
+ - [https://orca.cardiff.ac.uk](https://orca.cardiff.ac.uk)
+ - date_published: 2024-07-12T18:23:41.449720+00:00
+
+ ## People - People - Cardiff University
+ - [https://profiles.cardiff.ac.uk](https://profiles.cardiff.ac.uk)
+ - date_published: 2024-05-06T23:49:49.644796+00:00
+
+ ## Home - CONVERIS Research Information System by Thomson Reuters: - Converis Standard Config
+ - [https://research.cardiff.ac.uk](https://research.cardiff.ac.uk)
+ - date_published: 2024-05-10T05:54:57.256794+00:00
+
+ ## Cardiff University Status
+ - [https://status.cardiff.ac.uk](https://status.cardiff.ac.uk)
+ - date_published: 2024-07-12T18:23:48.249062+00:00
+
+ ## British Cartoon Archive
+ - [http://www.cartoons.ac.uk](http://www.cartoons.ac.uk)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## CCAP
+ - [https://www.ccap.ac.uk](https://www.ccap.ac.uk)
+ - date_published: 2024-07-08T11:24:34.851373+00:00
+
+ ## | The CEDA Archive
+ - [https://archive.ceda.ac.uk](https://archive.ceda.ac.uk)
+ - date_published: 2023-11-10T15:49:58+00:00
+
+ ## Welcome to CEDA!
+ - [http://www.ceda.ac.uk](http://www.ceda.ac.uk)
+ - date_published: 2024-01-06T00:00:00+00:00
+
+ ## UK Centre for Ecology & Hydrology
+ - [https://ceh.ac.uk](https://ceh.ac.uk)
+ - date_published: 2024-10-17T00:37:46+00:00
+
+ ## Environmental Information Platform — UKCEH Environmental Information Platform
+ - [https://eip.ceh.ac.uk](https://eip.ceh.ac.uk)
+ - date_published: 2024-05-02T10:52:17.228899+00:00
+
+ ## Loading...
+ - [https://jira.ceh.ac.uk](https://jira.ceh.ac.uk)
+ - date_published: 2024-06-17T17:47:28.402216+00:00
+
+ ## Illustration Archive
+ - [http://illustrationarchive.cf.ac.uk](http://illustrationarchive.cf.ac.uk)
+ - date_published: 2024-10-19T11:49:04.974537+00:00
 

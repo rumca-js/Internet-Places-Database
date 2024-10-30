@@ -1,417 +1,3 @@
- ## Homepage | DPIR
- - [https://politics.ox.ac.uk](https://politics.ox.ac.uk)
- - date_published: 2024-05-07T14:14:16.639825+00:00
-
- ## Home
- - [https://www.ppe.ox.ac.uk](https://www.ppe.ox.ac.uk)
- - date_published: 2024-06-17T13:57:12+00:00
-
- ## Home
- - [https://www.practicalethics.ox.ac.uk](https://www.practicalethics.ox.ac.uk)
- - date_published: 2024-06-26T11:04:38+00:00
-
- ## Home
- - [https://www.prm.ox.ac.uk](https://www.prm.ox.ac.uk)
- - date_published: 2024-05-02T11:06:03.570176+00:00
-
- ## Welcome to the Proctors' Office
- - [http://www.proctors.ox.ac.uk](http://www.proctors.ox.ac.uk)
- - date_published: 2024-06-13T19:32:30+00:00
-
- ## Home Page | statistics
- - [https://www-prod.stats.ox.ac.uk](https://www-prod.stats.ox.ac.uk)
- - date_published: 2024-06-17T18:58:27.438862+00:00
-
- ## Homepage — Department of Psychiatry
- - [https://www.psych.ox.ac.uk](https://www.psych.ox.ac.uk)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Experimental Psychology — Department of Experimental Psychology
- - [https://www.psy.ox.ac.uk](https://www.psy.ox.ac.uk)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Homepage | Oxford Department of International Development
- - [https://www.qeh.ox.ac.uk](https://www.qeh.ox.ac.uk)
- - date_published: 2024-05-02T11:06:12.574808+00:00
-
- ## The Queen's College - The Queen's College, Oxford
- - [https://www.queens.ox.ac.uk](https://www.queens.ox.ac.uk)
- - date_published: 2022-11-24T00:00:00+00:00
-
- ## Quill Project
- - [https://www.quill.pmb.ox.ac.uk](https://www.quill.pmb.ox.ac.uk)
- - date_published: 2024-06-17T18:33:20.774171+00:00
-
- ## Home
- - [https://www.rai.ox.ac.uk](https://www.rai.ox.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Homepage — Radcliffe Department of Medicine
- - [https://www.rdm.ox.ac.uk](https://www.rdm.ox.ac.uk)
- - date_published: 2024-05-02T11:05:19.249772+00:00
-
- ## Home
- - [https://www.rees.ox.ac.uk](https://www.rees.ox.ac.uk)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Research at Oxford
- - [https://www.research.ox.ac.uk](https://www.research.ox.ac.uk)
- - date_published: 2024-10-20T07:11:09.824893+00:00
-
- ## Homepage - Regent's Park College
- - [https://www.rpc.ox.ac.uk](https://www.rpc.ox.ac.uk)
- - date_published: 2024-05-02T11:07:38.288302+00:00
-
- ## The Ruskin School of Art - Home Page
- - [https://www.rsa.ox.ac.uk](https://www.rsa.ox.ac.uk)
- - date_published: 2024-05-02T11:07:34.065427+00:00
-
- ## Home — Refugee Studies Centre
- - [https://www.rsc.ox.ac.uk](https://www.rsc.ox.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## St Antonys - St Antony's
- - [https://www.sant.ox.ac.uk](https://www.sant.ox.ac.uk)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Leadership | Saïd Business School
- - [https://sbs.ox.ac.uk](https://sbs.ox.ac.uk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## The Stephen A. Schwarzman Centre for the Humanities <!-- Google Tag Manager (noscript) -->
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL55M4K"
-
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<!-- End Google Tag Manager (noscript) -->
- - [https://www.schwarzmancentre.ox.ac.uk](https://www.schwarzmancentre.ox.ac.uk)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sir Jules Thorn Sleep and Circadian Neuroscience Institute — SCNi
- - [https://www.scni.ox.ac.uk](https://www.scni.ox.ac.uk)
- - date_published: 2023-08-11T00:00:00+00:00
-
- ## Welcome to the Sustainable Digital Scholarship (SDS) service
- - [https://www.sds.ox.ac.uk](https://www.sds.ox.ac.uk)
- - date_published: 2024-09-17T16:14:38+00:00
-
- ## Home | St Edmund Hall
- - [https://www.seh.ox.ac.uk](https://www.seh.ox.ac.uk)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## St John's College, Oxford
- - [https://www.sjc.ox.ac.uk](https://www.sjc.ox.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Homepage | Smith School of Enterprise and the Environment
- - [https://www.smithschool.ox.ac.uk](https://www.smithschool.ox.ac.uk)
- - date_published: 2024-06-17T18:58:14.282906+00:00
-
- ## Home
- - [https://www.sociology.ox.ac.uk](https://www.sociology.ox.ac.uk)
- - date_published: 2024-05-02T11:05:28.700589+00:00
-
- ## Welcome to the Social Sciences Division
- - [https://www.socsci.ox.ac.uk](https://www.socsci.ox.ac.uk)
- - date_published: 2024-05-02T10:59:31.594280+00:00
-
- ## Somerville College Oxford
- - [https://www.some.ox.ac.uk](https://www.some.ox.ac.uk)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Home
- - [https://www.southasia.ox.ac.uk](https://www.southasia.ox.ac.uk)
- - date_published: 2024-06-13T19:29:19+00:00
-
- ## St Peter's College, University of Oxford | St Peter's College Oxford
- - [https://www.spc.ox.ac.uk](https://www.spc.ox.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home
- - [https://www.spi.ox.ac.uk](https://www.spi.ox.ac.uk)
- - date_published: 2024-05-02T10:59:36.431208+00:00
-
- ## Home
- - [https://www.sport.ox.ac.uk](https://www.sport.ox.ac.uk)
- - date_published: 2024-05-02T11:06:31.999270+00:00
-
- ## St Anne's College, Oxford | Forward looking & Outward facing
- - [https://www.st-annes.ox.ac.uk](https://www.st-annes.ox.ac.uk)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Home Page | statistics
- - [https://www.stats.ox.ac.uk](https://www.stats.ox.ac.uk)
- - date_published: 2024-05-02T11:07:36.336227+00:00
-
- ## Home - St Catherine's College
- - [https://www.stcatz.ox.ac.uk](https://www.stcatz.ox.ac.uk)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Home | St Hilda's College Oxford
- - [https://www.st-hildas.ox.ac.uk](https://www.st-hildas.ox.ac.uk)
- - date_published: 2024-10-20T06:29:55.851947+00:00
-
- ## Home
- - [https://www.stx.ox.ac.uk](https://www.stx.ox.ac.uk)
- - date_published: 2024-05-02T10:59:00.736313+00:00
-
- ## Home
- - [https://www.theology.ox.ac.uk](https://www.theology.ox.ac.uk)
- - date_published: 2024-05-02T10:58:56.989158+00:00
-
- ## Home
- - [http://www.torch.ox.ac.uk](http://www.torch.ox.ac.uk)
- - date_published: 2024-06-17T16:20:54+00:00
-
- ## Trinity College | Trinity College Oxford
- - [https://www.trinity.ox.ac.uk](https://www.trinity.ox.ac.uk)
- - date_published: 2024-05-02T10:59:58.860110+00:00
-
- ## Home — Centre for Tropical Medicine and Global Health
- - [https://www.tropicalmedicine.ox.ac.uk](https://www.tropicalmedicine.ox.ac.uk)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Vacancy Search Results - University Of Oxford (Temporary Staffing Service)
- - [https://www.tss.ox.ac.uk](https://www.tss.ox.ac.uk)
- - date_published: 2024-06-17T18:46:23.857407+00:00
-
- ## University College Oxford
- - [https://www.univ.ox.ac.uk](https://www.univ.ox.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## OUEV | Oxford University Event Venues
- - [https://www.venues.ox.ac.uk](https://www.venues.ox.ac.uk)
- - date_published: 2024-10-20T07:11:00.974583+00:00
-
- ## Voltaire Foundation
- - [https://www.voltaire.ox.ac.uk](https://www.voltaire.ox.ac.uk)
- - date_published: 2024-05-02T11:06:10.627397+00:00
-
- ## Wadham College
- - [https://www.wadham.ox.ac.uk](https://www.wadham.ox.ac.uk)
- - date_published: 2024-05-02T11:00:00.546417+00:00
-
- ## Home — Centre for Human Genetics
- - [http://www.well.ox.ac.uk](http://www.well.ox.ac.uk)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Homepage — Wellcome Centre for Integrative Neuroimaging
- - [https://www.win.ox.ac.uk](https://www.win.ox.ac.uk)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Homepage | Wolfson College - Oxford
- - [https://www.wolfson.ox.ac.uk](https://www.wolfson.ox.ac.uk)
- - date_published: 2024-05-02T10:59:54.635712+00:00
-
- ## Worcester College
- - [https://www.worc.ox.ac.uk](https://www.worc.ox.ac.uk)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Homepage — Nuffield Department of Women's & Reproductive Health
- - [https://www.wrh.ox.ac.uk](https://www.wrh.ox.ac.uk)
- - date_published: 2024-05-02T10:59:17.507178+00:00
-
- ## Home
- - [https://www.wycliffe.ox.ac.uk](https://www.wycliffe.ox.ac.uk)
- - date_published: 2024-05-02T11:06:14.309667+00:00
-
- ## Home
- - [https://wycliffe.web.ox.ac.uk](https://wycliffe.web.ox.ac.uk)
- - date_published: 2024-06-16T01:57:47+00:00
-
- ## University of Oxford
- - [https://www.oxford.ac.uk](https://www.oxford.ac.uk)
- - date_published: 2024-10-20T05:30:58.429472+00:00
-
- ## Peterborough College
- - [https://peterborough.ac.uk](https://peterborough.ac.uk)
- - date_published: 2024-10-20T01:35:12.880336+00:00
-
- ## Open for 2024 applications - Plumpton College
- - [https://www.plumpton.ac.uk](https://www.plumpton.ac.uk)
- - date_published: 2024-08-06T11:05:55.515576+00:00
-
- ## University of Plymouth
- - [https://donate.plymouth.ac.uk](https://donate.plymouth.ac.uk)
- - date_published: 2024-06-17T05:39:49.084594+00:00
-
- ## Study a subject that inspires you
- - [http://plymouth.ac.uk](http://plymouth.ac.uk)
- - date_published: 2024-06-29T04:51:36.601433+00:00
-
- ## Sign in to your account
- - [https://portal.plymouth.ac.uk](https://portal.plymouth.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Make it count with a triple gold university
- - [https://www.plymouth.ac.uk](https://www.plymouth.ac.uk)
- - date_published: 2024-01-01T16:43:40.846084+00:00
-
- ## World-leading scientific marine research - Plymouth Marine Laboratory
- - [http://pml.ac.uk](http://pml.ac.uk)
- - date_published: 2024-10-22T17:06:12.387490+00:00
-
- ## Liblog
- - [https://liblog.port.ac.uk](https://liblog.port.ac.uk)
- - date_published: 2024-10-20T07:44:24.610388+00:00
-
- ## University of Portsmouth Library -
- - [https://library.port.ac.uk](https://library.port.ac.uk)
- - date_published: 2024-06-17T19:02:36.191693+00:00
-
- ## Access Manager
- - [https://moodle.port.ac.uk](https://moodle.port.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## MyPort Homepage | Student Services - University of Portsmouth
- - [https://myport.port.ac.uk](https://myport.port.ac.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Self Service Password Reset
- - [https://password.port.ac.uk](https://password.port.ac.uk)
- - date_published: 2024-06-17T19:02:21.730368+00:00
-
- ## University of Portsmouth | A New Breed of University
- - [https://port.ac.uk](https://port.ac.uk)
- - date_published: 2024-10-17T00:08:08+00:00
-
- ## Sport Portsmouth | Sport and Recreation - University of Portsmouth
- - [https://sport.port.ac.uk](https://sport.port.ac.uk)
- - date_published: 2024-06-17T17:17:52+00:00
-
- ## SSD Tools
- - [https://ssd.port.ac.uk](https://ssd.port.ac.uk)
- - date_published: 2024-10-20T07:44:42.443231+00:00
-
- ## Access Gateway
- - [https://sso.port.ac.uk](https://sso.port.ac.uk)
- - date_published: 2024-06-17T19:02:20.644387+00:00
-
- ## Access Manager
- - [http://staff.port.ac.uk](http://staff.port.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Log in to the portal
- - [https://student-system.port.ac.uk](https://student-system.port.ac.uk)
- - date_published: 2024-06-17T19:02:27.885881+00:00
-
- ## Access Manager
- - [https://timetabling.port.ac.uk](https://timetabling.port.ac.uk)
- - date_published: 2024-06-17T19:02:34.372584+00:00
-
- ## Home Page - The Productivity Institute
- - [https://www.productivity.ac.uk](https://www.productivity.ac.uk)
- - date_published: 2024-10-19T05:49:45.505571+00:00
-
- ## Prospects.ac.uk
- - [https://www.prospects.ac.uk](https://www.prospects.ac.uk)
- - date_published: 2024-06-30T03:59:03.631304+00:00
-
- ## The Political Studies Association
- - [https://www.psa.ac.uk](https://www.psa.ac.uk)
- - date_published: 2024-07-09T14:16:49.690381+00:00
-
- ## Jisc
- - [http://www.psigate.ac.uk](http://www.psigate.ac.uk)
- - date_published: 2024-07-02T14:46:20.410018+00:00
-
- ## NCCPE: homepage | NCCPE
- - [http://www.publicengagement.ac.uk](http://www.publicengagement.ac.uk)
- - date_published: 2024-10-19T07:06:33.806760+00:00
-
- ## Membership Resources
- - [https://www.membershipresources.qaa.ac.uk](https://www.membershipresources.qaa.ac.uk)
- - date_published: 2024-07-12T18:23:38.355907+00:00
-
- ## The Quality Assurance Agency for Higher Education
- - [https://qaa.ac.uk](https://qaa.ac.uk)
- - date_published: 2024-05-10T05:54:55.722883+00:00
-
- ## QAC Queen Alexandra College Birmingham - National college for people with disabilities.
- - [https://www.qac.ac.uk](https://www.qac.ac.uk)
- - date_published: 2024-07-08T20:56:59.371180+00:00
-
- ## Accessing the QMplus archives | Technology Enhanced Learning Team
- - [https://2019.qmplus.qmul.ac.uk](https://2019.qmplus.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:23.126837+00:00
-
- ## Accessing the QMplus archives | Technology Enhanced Learning Team
- - [https://2020.qmplus.qmul.ac.uk](https://2020.qmplus.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:33.083458+00:00
-
- ## Accessing the QMplus archives | Technology Enhanced Learning Team
- - [https://2021.qmplus.qmul.ac.uk](https://2021.qmplus.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:36.866357+00:00
-
- ## QMplus - The Online Learning Environment of Queen Mary University of London
- - [https://2022.qmplus.qmul.ac.uk](https://2022.qmplus.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:11+00:00
-
- ## Queen Mary, University of London test
- - [http://archive.qmplus.qmul.ac.uk](http://archive.qmplus.qmul.ac.uk)
- - date_published: 2023-07-19T13:36:23+00:00
-
- ## Atlas of Finite Group Representations
- - [https://brauer.maths.qmul.ac.uk](https://brauer.maths.qmul.ac.uk)
- - date_published: 2022-09-05T17:22:10+00:00
-
- ## Queen Mary University Authentication
- - [https://connected.qmul.ac.uk](https://connected.qmul.ac.uk)
- - date_published: 2024-05-02T11:08:57.060869+00:00
-
- ## Sign in to your account
- - [http://connect.qmul.ac.uk](http://connect.qmul.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Staff Directory at Queen Mary, University of London
- - [https://dir.qmul.ac.uk](https://dir.qmul.ac.uk)
- - date_published: 2024-06-17T19:02:40.932425+00:00
-
- ## Technology Enhanced Learning Team
- - [https://elearning.qmul.ac.uk](https://elearning.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:37.818539+00:00
-
- ## PaperCut Login for Queen Mary University London
- - [https://eprint.stu.qmul.ac.uk](https://eprint.stu.qmul.ac.uk)
- - date_published: 2024-10-20T07:53:09.047117+00:00
-
- ## Human Resources - Human Resources
- - [https://hr.qmul.ac.uk](https://hr.qmul.ac.uk)
- - date_published: 2024-06-13T14:51:16+00:00
-
- ## Queen Mary University of London
- - [https://idp.shibboleth.qmul.ac.uk](https://idp.shibboleth.qmul.ac.uk)
- - date_published: 2024-08-07T05:11:08+00:00
-
- ## Queen Mary University Authentication
- - [https://intranet.eecs.qmul.ac.uk](https://intranet.eecs.qmul.ac.uk)
- - date_published: 2024-06-22T10:16:12.648254+00:00
-
- ## IT Services - IT Services
- - [http://its.qmul.ac.uk](http://its.qmul.ac.uk)
- - date_published: 2024-06-13T05:22:10+00:00
-
- ## Library Services - Library Services
- - [http://library.qmul.ac.uk](http://library.qmul.ac.uk)
- - date_published: 2024-06-13T12:17:17+00:00
-
- ## Sign in to Outlook
- - [https://mail.qmul.ac.uk](https://mail.qmul.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## PaperCut Login for Queen Mary University London
- - [https://myprint.qmul.ac.uk](https://myprint.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:50.408609+00:00
-
- ## MyQMUL - MyQMUL
- - [https://my.qmul.ac.uk](https://my.qmul.ac.uk)
- - date_published: 2024-05-02T11:08:55.788251+00:00
-
- ## Log in to the portal
- - [https://mysis.qmul.ac.uk](https://mysis.qmul.ac.uk)
- - date_published: 2024-06-17T19:03:51.482669+00:00
-
  ## Home | MyQMUL
  - [https://qmplus.qmul.ac.uk](https://qmplus.qmul.ac.uk)
  - date_published: 2024-05-02T11:08:48.688160+00:00
@@ -3120,10 +2706,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  - [https://battleboards.co.uk](https://battleboards.co.uk)
  - date_published: 2024-07-20T08:52:01+00:00
 
- ## Wargames Store & Games Venue | Battlefield Hobbies
- - [https://www.battlefieldhobbies.co.uk](https://www.battlefieldhobbies.co.uk)
- - date_published: 2024-06-19T15:08:37.163441+00:00
-
  ## Battlegames
  - [https://battlegames.co.uk](https://battlegames.co.uk)
  - date_published: 2024-07-11T15:26:16.097017+00:00
@@ -4022,4 +3604,416 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Riddled
  - [http://eusa-riddled.blogspot.co.uk](http://eusa-riddled.blogspot.co.uk)
  - date_published: 2024-06-23T04:11:35+00:00
+
+ ## Evangelical Textual Criticism
+ - [http://evangelicaltextualcriticism.blogspot.co.uk](http://evangelicaltextualcriticism.blogspot.co.uk)
+ - date_published: 2024-06-28T16:11:00+00:00
+
+ ## Faculty of Language
+ - [http://facultyoflanguage.blogspot.co.uk](http://facultyoflanguage.blogspot.co.uk)
+ - date_published: 2024-07-02T09:19:26+00:00
+
+ ## felthat - reviews
+ - [http://felthatreviews.blogspot.co.uk](http://felthatreviews.blogspot.co.uk)
+ - date_published: 2024-06-29T14:08:56+00:00
+
+ ## Follow My Walks... midst mountains, valleys, rivers and wilderness
+ - [http://followmywalks.blogspot.co.uk](http://followmywalks.blogspot.co.uk)
+ - date_published: 2024-10-21T22:57:21.874237+00:00
+
+ ## Footsteps by the Sea
+ - [http://footstepsbythesea.blogspot.co.uk](http://footstepsbythesea.blogspot.co.uk)
+ - date_published: 2024-03-19T12:07:22+00:00
+
+ ## Le FRENCH MADNESS INFORMATION SERVICE
+ - [http://frenchmis.blogspot.co.uk](http://frenchmis.blogspot.co.uk)
+ - date_published: 2024-03-08T12:05:34+00:00
+
+ ## FURROWED MIDDLEBROW
+ - [http://furrowedmiddlebrow.blogspot.co.uk](http://furrowedmiddlebrow.blogspot.co.uk)
+ - date_published: 2024-09-17T05:30:00+00:00
+
+ ## The Old Wreckage of Fimm McCool's
+ - [http://gamesorkshop.blogspot.co.uk](http://gamesorkshop.blogspot.co.uk)
+ - date_published: 2024-05-16T09:05:45+00:00
+
+ ## A Fisherman Knits
+ - [http://gansey.blogspot.co.uk](http://gansey.blogspot.co.uk)
+ - date_published: 2024-09-02T09:01:37+00:00
+
+ ## On GATE, Text and Social Media Analysis, and Detecting Misinformation Online
+ - [http://gate4ugc.blogspot.co.uk](http://gate4ugc.blogspot.co.uk)
+ - date_published: 2024-06-22T07:17:42+00:00
+
+ ## Rab's Geekly Digest
+ - [http://geeklydigest.blogspot.co.uk](http://geeklydigest.blogspot.co.uk)
+ - date_published: 2024-07-19T23:45:41+00:00
+
+ ## General Headquarters
+ - [http://generalheadquarters.blogspot.co.uk](http://generalheadquarters.blogspot.co.uk)
+ - date_published: 2024-02-08T06:15:56+00:00
+
+ ## The Geomblog
+ - [http://geomblog.blogspot.co.uk](http://geomblog.blogspot.co.uk)
+ - date_published: 2024-06-28T13:33:18+00:00
+
+ ## Globales Klima
+ - [http://globalklima.blogspot.co.uk](http://globalklima.blogspot.co.uk)
+ - date_published: 2004-02-27T00:00:00+00:00
+
+ ## Goblin Lee's Miniatures Blog.
+ - [http://goblinlee.blogspot.co.uk](http://goblinlee.blogspot.co.uk)
+ - date_published: 2024-07-18T11:37:57+00:00
+
+ ## Do You Have Goals?
+ - [https://gotgoalsbloghop.blogspot.co.uk](https://gotgoalsbloghop.blogspot.co.uk)
+ - date_published: 2024-10-21T22:55:40.728105+00:00
+
+ ## GROGNARDIA
+ - [http://grognardia.blogspot.co.uk](http://grognardia.blogspot.co.uk)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Grumpy Art Historian
+ - [http://grumpyarthistorian.blogspot.co.uk](http://grumpyarthistorian.blogspot.co.uk)
+ - date_published: 2024-06-04T16:14:33+00:00
+
+ ## HaggardHawks
+ - [http://haggardhawksblog.blogspot.co.uk](http://haggardhawksblog.blogspot.co.uk)
+ - date_published: 2024-08-19T11:40:32+00:00
+
+ ## Atelier
+ - [http://hannahwill.blogspot.co.uk](http://hannahwill.blogspot.co.uk)
+ - date_published: 2024-10-20T06:38:05.306002+00:00
+
+ ## Island at the Edge
+ - [http://hebridean-isles.blogspot.co.uk](http://hebridean-isles.blogspot.co.uk)
+ - date_published: 2024-07-03T03:15:06+00:00
+
+ ## The Heralds of Ruin Gaming and Painting Blog Archive
+ - [http://heralds-of-ruin.blogspot.co.uk](http://heralds-of-ruin.blogspot.co.uk)
+ - date_published: 2024-10-25T00:46:23+00:00
+
+ ## The History of Painting in Florence
+ - [http://histflorence.blogspot.co.uk](http://histflorence.blogspot.co.uk)
+ - date_published: 2024-02-21T05:59:08+00:00
+
+ ## Historically Obsessed
+ - [http://historicallyobsessed.blogspot.co.uk](http://historicallyobsessed.blogspot.co.uk)
+ - date_published: 2024-10-20T06:40:09.961631+00:00
+
+ ## Egor Homakov
+ - [https://homakov.blogspot.co.uk](https://homakov.blogspot.co.uk)
+ - date_published: 2024-06-16T07:30:05+00:00
+
+ ## Howie's Corner
+ - [http://howiescorner.blogspot.co.uk](http://howiescorner.blogspot.co.uk)
+ - date_published: 2024-10-21T13:03:10.699205+00:00
+
+ ## How to be a complete bastard
+ - [http://howtobeacompletebastard.blogspot.co.uk](http://howtobeacompletebastard.blogspot.co.uk)
+ - date_published: 2024-10-21T16:32:53.098670+00:00
+
+ ## Dispatches from Paisley
+ - [http://humbug3.blogspot.co.uk](http://humbug3.blogspot.co.uk)
+ - date_published: 2024-10-21T16:14:43.521033+00:00
+
+ ## IATV Radio
+ - [http://iatvradio.blogspot.co.uk](http://iatvradio.blogspot.co.uk)
+ - date_published: 2024-07-24T05:38:30.339456+00:00
+
+ ## I CAN MAKE THIS WORK...
+ - [https://icanmakethiswork.blogspot.co.uk](https://icanmakethiswork.blogspot.co.uk)
+ - date_published: 2024-02-07T10:28:59+00:00
+
+ ## ilikepaintinglead
+ - [http://ilikepaintinglead.blogspot.co.uk](http://ilikepaintinglead.blogspot.co.uk)
+ - date_published: 2024-03-13T14:42:50+00:00
+
+ ## InsertScript
+ - [https://insert-script.blogspot.co.uk](https://insert-script.blogspot.co.uk)
+ - date_published: 2024-06-07T18:56:47+00:00
+
+ ## Politics and Government
+ - [http://introductiontopoliticsandgovernment.blogspot.co.uk](http://introductiontopoliticsandgovernment.blogspot.co.uk)
+ - date_published: 2024-03-13T03:58:30+00:00
+
+ ## Key Economic Sectors and Services
+ - [http://ipccar5wg2ch10.blogspot.co.uk](http://ipccar5wg2ch10.blogspot.co.uk)
+ - date_published: 2024-05-25T08:30:47+00:00
+
+ ## The IPKat
+ - [http://ipkitten.blogspot.co.uk](http://ipkitten.blogspot.co.uk)
+ - date_published: 2024-06-17T08:58:50+00:00
+
+ ## Jackcadeness
+ - [http://jackcadeness.blogspot.co.uk](http://jackcadeness.blogspot.co.uk)
+ - date_published: 2024-07-03T02:43:22+00:00
+
+ ## Jacobinism
+ - [http://jacobinism.blogspot.co.uk](http://jacobinism.blogspot.co.uk)
+ - date_published: 2024-10-21T13:01:30.587521+00:00
+
+ ## James Russell
+ - [http://jamesrussellontheweb.blogspot.co.uk](http://jamesrussellontheweb.blogspot.co.uk)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Reading, Writing, Working, Playing
+ - [https://janegs.blogspot.co.uk](https://janegs.blogspot.co.uk)
+ - date_published: 2024-08-31T00:00:00+00:00
+
+ ## Medieval Hungary
+ - [http://jekely.blogspot.co.uk](http://jekely.blogspot.co.uk)
+ - date_published: 2022-12-01T00:00:00+00:00
+
+ ## Jit Land
+ - [http://jitland.blogspot.co.uk](http://jitland.blogspot.co.uk)
+ - date_published: 2024-02-19T16:22:54+00:00
+
+ ## John Hemming's Web Log
+ - [http://johnhemming.blogspot.co.uk](http://johnhemming.blogspot.co.uk)
+ - date_published: 2024-10-21T14:38:41.690054+00:00
+
+ ## Jules' klimaatblog
+ - [https://jules-klimaat.blogspot.co.uk](https://jules-klimaat.blogspot.co.uk)
+ - date_published: 2024-05-07T15:00:41.608138+00:00
+
+ ## Junius on UKIP
+ - [http://juniusonukip.blogspot.co.uk](http://juniusonukip.blogspot.co.uk)
+ - date_published: 2024-10-21T16:33:30.864749+00:00
+
+ ## Killer Arguments Against Land Value Tax, Not
+ - [http://kaalvtn.blogspot.co.uk](http://kaalvtn.blogspot.co.uk)
+ - date_published: 2024-10-21T14:12:37.279531+00:00
+
+ ## The Kev Adams Challenge
+ - [http://kevadamschallenge.blogspot.co.uk](http://kevadamschallenge.blogspot.co.uk)
+ - date_published: 2024-03-22T05:10:51+00:00
+
+ ## Kings, Collectors, and Paintings in the 17th Century
+ - [http://kingsandcollectors.blogspot.co.uk](http://kingsandcollectors.blogspot.co.uk)
+ - date_published: 2024-02-07T02:35:07+00:00
+
+ ## King's Minis
+ - [http://kingsminis.blogspot.co.uk](http://kingsminis.blogspot.co.uk)
+ - date_published: 2024-07-14T21:00:08+00:00
+
+ ## Alex's Corner
+ - [http://kuza55.blogspot.co.uk](http://kuza55.blogspot.co.uk)
+ - date_published: 2009-07-16T00:00:00+00:00
+
+ ## The Lair of the Breviks
+ - [http://lairofthebreviks.blogspot.co.uk](http://lairofthebreviks.blogspot.co.uk)
+ - date_published: 2024-07-19T00:02:27+00:00
+
+ ## Lallands Peat Worrier
+ - [http://lallandspeatworrier.blogspot.co.uk](http://lallandspeatworrier.blogspot.co.uk)
+ - date_published: 2024-10-21T15:55:49.053962+00:00
+
+ ## LAMPe2e
+ - [https://lampe2e.blogspot.co.uk](https://lampe2e.blogspot.co.uk)
+ - date_published: 2024-04-04T15:04:34+00:00
+
+ ## lcamtuf's old blog
+ - [http://lcamtuf.blogspot.co.uk](http://lcamtuf.blogspot.co.uk)
+ - date_published: 2024-06-16T17:41:06+00:00
+
+ ## When the Hurlyburly's Done...
+ - [http://leadasbestosblog.blogspot.co.uk](http://leadasbestosblog.blogspot.co.uk)
+ - date_published: 2024-06-14T17:29:44+00:00
+
+ ## LEADPLAGUE
+ - [http://leadplague.blogspot.co.uk](http://leadplague.blogspot.co.uk)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Turn Left at Bognor Pier
+ - [http://leftatbognor.blogspot.co.uk](http://leftatbognor.blogspot.co.uk)
+ - date_published: 2024-05-30T07:44:58+00:00
+
+ ## Letters from a Hill Farm
+ - [https://lettersfromahillfarm.blogspot.co.uk](https://lettersfromahillfarm.blogspot.co.uk)
+ - date_published: 2024-09-17T07:21:26+00:00
+
+ ## Libertas and Latte
+ - [http://libertasandlatte.blogspot.co.uk](http://libertasandlatte.blogspot.co.uk)
+ - date_published: 2024-10-21T15:35:27.981990+00:00
+
+ ## Rhymes With Libertarian
+ - [http://liberty4eva.blogspot.co.uk](http://liberty4eva.blogspot.co.uk)
+ - date_published: 2024-03-08T06:01:14+00:00
+
+ ## linguistlaura
+ - [https://linguistlaura.blogspot.co.uk](https://linguistlaura.blogspot.co.uk)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Living in the Maniototo
+ - [https://livinginthemaniototo.blogspot.co.uk](https://livinginthemaniototo.blogspot.co.uk)
+ - date_published: 2024-03-21T19:31:42+00:00
+
+ ## London Green Left Blog
+ - [http://londongreenleft.blogspot.co.uk](http://londongreenleft.blogspot.co.uk)
+ - date_published: 2024-10-21T17:57:20.731343+00:00
+
+ ## LIES YOUR TEACHER TAUGHT YOU
+ - [https://lovkap.blogspot.co.uk](https://lovkap.blogspot.co.uk)
+ - date_published: 2023-10-31T00:00:00+00:00
+
+ ## Magic, maths and money
+ - [http://magic-maths-money.blogspot.co.uk](http://magic-maths-money.blogspot.co.uk)
+ - date_published: 2024-03-13T15:11:15+00:00
+
+ ## The Magistrates' Blog
+ - [http://magistratesblog.blogspot.co.uk](http://magistratesblog.blogspot.co.uk)
+ - date_published: 2024-10-21T13:36:35.417074+00:00
+
+ ## Blogger
+ - [http://mainfo.blogspot.co.uk](http://mainfo.blogspot.co.uk)
+ - date_published: 2024-10-21T16:26:08.905467+00:00
+
+ ## mainly macro
+ - [https://mainlymacro.blogspot.co.uk](https://mainlymacro.blogspot.co.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Of Marauders and Citadels
+ - [http://maraudersandcitadels.blogspot.co.uk](http://maraudersandcitadels.blogspot.co.uk)
+ - date_published: 2024-07-04T05:44:07+00:00
+
+ ## New Masquerade
+ - [http://marcella-masquerade.blogspot.co.uk](http://marcella-masquerade.blogspot.co.uk)
+ - date_published: 2024-10-21T16:24:07.676745+00:00
+
+ ## MariosNaturalState | Review Bisnis Investasi
+ - [http://mariosnaturalstate.blogspot.co.uk](http://mariosnaturalstate.blogspot.co.uk)
+ - date_published: 2024-03-13T19:35:05+00:00
+
+ ## Mark Wadsworth
+ - [http://markwadsworth.blogspot.co.uk](http://markwadsworth.blogspot.co.uk)
+ - date_published: 2024-10-21T14:09:26.906393+00:00
+
+ ## Curmudgeon
+ - [http://mathcurmudgeon.blogspot.co.uk](http://mathcurmudgeon.blogspot.co.uk)
+ - date_published: 2024-05-04T02:06:20+00:00
+
+ ## Noble Pursuits
+ - [http://matter-energy-space-time.blogspot.co.uk](http://matter-energy-space-time.blogspot.co.uk)
+ - date_published: 2024-05-15T14:35:22+00:00
+
+ ## Kraut's English phonetic blog
+ - [http://matters-phonetic.blogspot.co.uk](http://matters-phonetic.blogspot.co.uk)
+ - date_published: 2024-06-19T04:36:09+00:00
+
+ ## mfilos Computers & Consoles blog
+ - [https://mfilos.blogspot.co.uk](https://mfilos.blogspot.co.uk)
+ - date_published: 2024-03-27T23:53:50+00:00
+
+ ## Michael Jennings
+ - [http://michaeljennings.blogspot.co.uk](http://michaeljennings.blogspot.co.uk)
+ - date_published: 2024-06-24T15:01:54+00:00
+
+ ## Michael Rosen
+ - [http://michaelrosenblog.blogspot.co.uk](http://michaelrosenblog.blogspot.co.uk)
+ - date_published: 2024-10-21T17:03:11.935004+00:00
+
+ ## Mighty Vision
+ - [http://mightyvision.blogspot.co.uk](http://mightyvision.blogspot.co.uk)
+ - date_published: 2024-05-20T08:22:53+00:00
+
+ ## Moridura - - - ©Copyright  Peter Curran 2015
+ - [http://moridura.blogspot.co.uk](http://moridura.blogspot.co.uk)
+ - date_published: 2024-10-21T14:50:14.632095+00:00
+
+ ## call me ishmael
+ - [http://mrishmael.blogspot.co.uk](http://mrishmael.blogspot.co.uk)
+ - date_published: 2024-10-21T14:40:39.825709+00:00
+
+ ## Mr Saturday's Mumblings
+ - [http://mrsaturdaysmumblings.blogspot.co.uk](http://mrsaturdaysmumblings.blogspot.co.uk)
+ - date_published: 2024-07-11T18:21:52+00:00
+
+ ## Mum v Austerity
+ - [http://mumvausterity.blogspot.co.uk](http://mumvausterity.blogspot.co.uk)
+ - date_published: 2024-10-21T13:02:29.421850+00:00
+
+ ## The Mypy Blog
+ - [http://mypy-lang.blogspot.co.uk](http://mypy-lang.blogspot.co.uk)
+ - date_published: 2024-06-07T14:51:19+00:00
+
+ ## my slice of pizza
+ - [http://mysliceofpizza.blogspot.co.uk](http://mysliceofpizza.blogspot.co.uk)
+ - date_published: 2024-06-12T06:05:36+00:00
+
+ ## Mystical Politics
+ - [http://mystical-politics.blogspot.co.uk](http://mystical-politics.blogspot.co.uk)
+ - date_published: 2024-10-21T13:00:08.018253+00:00
+
+ ## Nannying Tyrants
+ - [http://nannyingtyrants.blogspot.co.uk](http://nannyingtyrants.blogspot.co.uk)
+ - date_published: 2024-10-21T15:52:35.315799+00:00
+
+ ## Faeit 212
+ - [http://natfka.blogspot.co.uk](http://natfka.blogspot.co.uk)
+ - date_published: 2024-06-07T17:59:53+00:00
+
+ ## Never Come Ashore
+ - [http://nevercomeashore.blogspot.co.uk](http://nevercomeashore.blogspot.co.uk)
+ - date_published: 2024-03-19T08:36:04+00:00
+
+ ## REALMS OF CHAOS
+ - [https://nico-realmsofchaos.blogspot.co.uk](https://nico-realmsofchaos.blogspot.co.uk)
+ - date_published: 2024-07-09T14:35:26+00:00
+
+ ## Nope, not Hope
+ - [http://nopenothope.blogspot.co.uk](http://nopenothope.blogspot.co.uk)
+ - date_published: 2024-10-21T15:34:18.770257+00:00
+
+ ## New Byzantium
+ - [http://novobyzantium.blogspot.co.uk](http://novobyzantium.blogspot.co.uk)
+ - date_published: 2024-07-18T11:47:52+00:00
+
+ ## The Numinous Book of Review
+ - [http://numinousbookofreview.blogspot.co.uk](http://numinousbookofreview.blogspot.co.uk)
+ - date_published: 2024-10-21T13:37:12.991324+00:00
+
+ ## NWSFS News: Main Page
+ - [http://nwsfsnews.blogspot.co.uk](http://nwsfsnews.blogspot.co.uk)
+ - date_published: 2011-11-06T00:00:00+00:00
+
+ ## Objective Secured
+ - [http://objectivesecured.blogspot.co.uk](http://objectivesecured.blogspot.co.uk)
+ - date_published: 2024-10-24T09:17:39+00:00
+
+ ## Officina Chaotica
+ - [http://officinachaotica.blogspot.co.uk](http://officinachaotica.blogspot.co.uk)
+ - date_published: 2024-07-04T06:10:32+00:00
+
+ ## Old Buckenham blog
+ - [http://oldbuckenham.blogspot.co.uk](http://oldbuckenham.blogspot.co.uk)
+ - date_published: 2024-10-21T14:41:19.844632+00:00
+
+ ## Ye Olde Skool Warhammer...
+ - [http://olde-skool-warhammer.blogspot.co.uk](http://olde-skool-warhammer.blogspot.co.uk)
+ - date_published: 2024-08-12T10:27:02+00:00
+
+ ## Oldhammer
+ - [http://old-hammer.blogspot.co.uk](http://old-hammer.blogspot.co.uk)
+ - date_published: 2024-07-18T09:14:33+00:00
+
+ ## Oldhammer on a budget
+ - [http://oldhammeronabudget.blogspot.co.uk](http://oldhammeronabudget.blogspot.co.uk)
+ - date_published: 2024-03-14T06:17:59+00:00
+
+ ## Old Masters in the New World
+ - [http://oldmastersinthenewworld.blogspot.co.uk](http://oldmastersinthenewworld.blogspot.co.uk)
+ - date_published: 2024-03-14T09:06:49+00:00
+
+ ## Old School Workshop
+ - [http://oldschoolworkshop.blogspot.co.uk](http://oldschoolworkshop.blogspot.co.uk)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Oubliette Magazine
+ - [http://oubliettemagazine.blogspot.co.uk](http://oubliettemagazine.blogspot.co.uk)
+ - date_published: 2024-07-04T05:55:41+00:00
+
+ ## Stop Timothy Gowers!    !!!
+ - [http://owl-sowa.blogspot.co.uk](http://owl-sowa.blogspot.co.uk)
+ - date_published: 2024-06-06T18:54:05+00:00
 

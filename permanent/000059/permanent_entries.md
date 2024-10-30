@@ -1,59 +1,3 @@
- ## open-ig-dev
- - [https://open-ig-dev.blogspot.com](https://open-ig-dev.blogspot.com)
- - date_published: 2024-03-19T10:35:28+00:00
-
- ## The Open Source Paleontologist
- - [http://openpaleo.blogspot.com](http://openpaleo.blogspot.com)
- - date_published: 2024-10-19T05:15:19.071915+00:00
-
- ## openPicus blog
- - [http://openpicus.blogspot.com](http://openpicus.blogspot.com)
- - date_published: 2024-06-23T17:55:46+00:00
-
- ## Open Source Exile
- - [https://opensourceexile.blogspot.com](https://opensourceexile.blogspot.com)
- - date_published: 2024-03-14T02:36:39+00:00
-
- ## Open Source of Knowledge
- - [http://opensourceknowledge.blogspot.com](http://opensourceknowledge.blogspot.com)
- - date_published: 2024-03-13T19:09:12+00:00
-
- ## Opera Buffo
- - [http://operabuffo.blogspot.com](http://operabuffo.blogspot.com)
- - date_published: 2024-10-17T22:55:34.551969+00:00
-
- ## Operation Solihull - Ron & Deanne Hancock
- - [http://operationsolihull.blogspot.com](http://operationsolihull.blogspot.com)
- - date_published: 2024-03-13T07:57:08+00:00
-
- ## O poema que hoje partilharia com vocês...
- - [http://opoemaquehojepartilhariacomvoces.blogspot.com](http://opoemaquehojepartilhariacomvoces.blogspot.com)
- - date_published: 2024-03-13T21:34:16+00:00
-
- ## Op-For ~ Miniature Wargaming and Board Game Gaming Club
- - [https://oppositionforce.blogspot.com](https://oppositionforce.blogspot.com)
- - date_published: 2024-06-03T02:06:18+00:00
-
- ## Optus bungling
- - [http://optus-australia.blogspot.com](http://optus-australia.blogspot.com)
- - date_published: 2024-05-11T06:09:04+00:00
-
- ## Oracc Notes and News
- - [http://oracc.blogspot.com](http://oracc.blogspot.com)
- - date_published: 2024-06-05T12:15:45+00:00
-
- ## Orbital Barrage
- - [http://orbitalbarrage.blogspot.com](http://orbitalbarrage.blogspot.com)
- - date_published: 2024-03-13T15:39:35+00:00
-
- ## Orbital Bombardment - The Miniature Gaming Blog and Podcast
- - [http://orbitalbombardmentgamers.blogspot.com](http://orbitalbombardmentgamers.blogspot.com)
- - date_published: 2024-10-24T05:03:30+00:00
-
- ## Orcsbains miniature world
- - [http://orcsbains-minature-world.blogspot.com](http://orcsbains-minature-world.blogspot.com)
- - date_published: 2024-03-13T07:07:11+00:00
-
  ## Order Minoris
  - [http://orderminoris.blogspot.com](http://orderminoris.blogspot.com)
  - date_published: 2024-09-17T02:32:17+00:00
@@ -4011,4 +3955,60 @@
  ## Rokk Software
  - [http://rokksoftware.blogspot.com](http://rokksoftware.blogspot.com)
  - date_published: 2024-03-05T21:31:55+00:00
+
+ ## Rokok Basah
+ - [https://rokokbasah.blogspot.com](https://rokokbasah.blogspot.com)
+ - date_published: 2023-11-23T00:00:00+00:00
+
+ ## Role 'n' Roll
+ - [http://role-n-roll.blogspot.com](http://role-n-roll.blogspot.com)
+ - date_published: 2024-03-05T19:35:56+00:00
+
+ ## Roles, Rules, and Rolls
+ - [http://rolesrules.blogspot.com](http://rolesrules.blogspot.com)
+ - date_published: 2024-07-15T06:41:49+00:00
+
+ ## The Dungeon Dozen
+ - [http://roll1d12.blogspot.com](http://roll1d12.blogspot.com)
+ - date_published: 2024-07-15T08:10:32+00:00
+
+ ## Crit or Cruddy
+ - [http://rollad20.blogspot.com](http://rollad20.blogspot.com)
+ - date_published: 2024-07-03T02:33:51+00:00
+
+ ## Blogger
+ - [http://rolld10.blogspot.com](http://rolld10.blogspot.com)
+ - date_published: 2024-07-15T09:29:02.393025+00:00
+
+ ## Rolling Steel Tent
+ - [https://rollingsteeltent.blogspot.com](https://rollingsteeltent.blogspot.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Roll of Nickels
+ - [http://rollofnickels.blogspot.com](http://rollofnickels.blogspot.com)
+ - date_published: 2024-09-04T17:39:53+00:00
+
+ ## Roll 'Em
+ - [https://rollonward.blogspot.com](https://rollonward.blogspot.com)
+ - date_published: 2024-03-20T22:44:15+00:00
+
+ ## Roll of the Dice
+ - [http://rollothedie.blogspot.com](http://rollothedie.blogspot.com)
+ - date_published: 2024-08-29T04:29:13+00:00
+
+ ## Roman Archaeology
+ - [http://romanarch.blogspot.com](http://romanarch.blogspot.com)
+ - date_published: 2024-03-19T21:23:06+00:00
+
+ ## Romance Soon | Template Blog SEO, Keren, dan Responsive
+ - [http://romancemonsoon.blogspot.com](http://romancemonsoon.blogspot.com)
+ - date_published: 2024-03-13T15:53:53+00:00
+
+ ## Romani in Tenebris
+ - [http://romaninthegloamin.blogspot.com](http://romaninthegloamin.blogspot.com)
+ - date_published: 2024-07-03T03:40:06+00:00
+
+ ## Cara Terbaru
+ - [http://romans828pslm23.blogspot.com](http://romans828pslm23.blogspot.com)
+ - date_published: 2017-05-02T00:00:00+00:00
 

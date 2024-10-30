@@ -1,23 +1,3 @@
- ## Scholastic Canada
- - [https://www2.scholastic.ca](https://www2.scholastic.ca)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Scholastic Canada
- - [https://www.scholastic.ca](https://www.scholastic.ca)
- - date_published: 2024-01-02T00:03:11.274641+00:00
-
- ## NexGen School Program – Government of Canada CanCode Grant
- - [https://schoolprogram.ca](https://schoolprogram.ca)
- - date_published: 2024-09-24T21:21:09.988420+00:00
-
- ## Schools in Canada, Canada
- - [http://www.schools.ca](http://www.schools.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Ackee
- - [https://eyes.schroer.ca](https://eyes.schroer.ca)
- - date_published: 2024-04-30T05:03:44.595986+00:00
-
  ## Dominick Schroer's Blog
  - [https://schroer.ca](https://schroer.ca)
  - date_published: 2023-10-25T09:02:45.716038+00:00
@@ -4026,4 +4006,24 @@
  ## University of Waterloo CS HCI Lab
  - [http://hci.cs.uwaterloo.ca](http://hci.cs.uwaterloo.ca)
  - date_published: 2024-04-30T05:16:57.184542+00:00
+
+ ## Home | Human Computer Interaction | University of Waterloo
+ - [http://hci.uwaterloo.ca](http://hci.uwaterloo.ca)
+ - date_published: 2024-07-17T20:42:01+00:00
+
+ ## Login/Logout
+ - [https://imodules.uwaterloo.ca](https://imodules.uwaterloo.ca)
+ - date_published: 2024-06-22T12:03:02.560524+00:00
+
+ ## Raymond Laflamme's page
+ - [https://laflamme.iqc.uwaterloo.ca](https://laflamme.iqc.uwaterloo.ca)
+ - date_published: 2019-01-23T20:50:08+00:00
+
+ ## Home
+ - [https://links.uwaterloo.ca](https://links.uwaterloo.ca)
+ - date_published: 2009-04-22T15:35:30+00:00
+
+ ## List Index - CSC Mailman
+ - [https://mailman.csclub.uwaterloo.ca](https://mailman.csclub.uwaterloo.ca)
+ - date_published: 2024-04-30T05:31:16.864412+00:00
 

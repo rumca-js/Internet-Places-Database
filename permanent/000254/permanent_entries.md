@@ -1,291 +1,3 @@
- ## Swine | NC State Extension
- - [https://swine.ces.ncsu.edu](https://swine.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:54.229624+00:00
-
- ## Therapeutic Horticulture | NC State Extension
- - [https://therapeutic-hort.ces.ncsu.edu](https://therapeutic-hort.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:21.045537+00:00
-
- ## Tobacco Growers Information | NC State Extension
- - [https://tobacco.ces.ncsu.edu](https://tobacco.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:20.737167+00:00
-
- ## Tourism Extension | NC State Extension
- - [https://tourism.ces.ncsu.edu](https://tourism.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:18.951415+00:00
-
- ## Trademark Licensing
- - [https://trademarks.ncsu.edu](https://trademarks.ncsu.edu)
- - date_published: 2024-07-01T15:55:44.795726+00:00
-
- ## Celebrating Transformation
- - [https://transformation.ncsu.edu](https://transformation.ncsu.edu)
- - date_published: 2024-08-07T16:54:36.533077+00:00
-
- ## Transportation
- - [https://transportation.ncsu.edu](https://transportation.ncsu.edu)
- - date_published: 2024-07-01T15:55:56.780996+00:00
-
- ## Transylvania County Center | N.C. Cooperative Extension
- - [https://transylvania.ces.ncsu.edu](https://transylvania.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:56.373876+00:00
-
- ## TurfFiles | NC State Extension
- - [https://turf.ces.ncsu.edu](https://turf.ces.ncsu.edu)
- - date_published: 2024-10-15T05:26:41.664790+00:00
-
- ## Turf Pathology | NC State Extension
- - [https://turfpathology.ces.ncsu.edu](https://turfpathology.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:11.615167+00:00
-
- ## Tyrrell County Center | N.C. Cooperative Extension
- - [https://tyrrell.ces.ncsu.edu](https://tyrrell.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:45.362219+00:00
-
- ## Union County Center | N.C. Cooperative Extension
- - [https://union.ces.ncsu.edu](https://union.ces.ncsu.edu)
- - date_published: 2024-10-15T05:24:04.011324+00:00
-
- ## University Communications and Marketing | NC State University
- - [https://university-communications.ncsu.edu](https://university-communications.ncsu.edu)
- - date_published: 2024-07-01T15:55:36.757378+00:00
-
- ## Vance County Center | N.C. Cooperative Extension
- - [https://vance.ces.ncsu.edu](https://vance.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:53.031525+00:00
-
- ## Vegetable Production | NC State Extension
- - [https://vegetables.ces.ncsu.edu](https://vegetables.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:22.413651+00:00
-
- ## Vernon James Center | NC State Extension
- - [https://vernonjames.ces.ncsu.edu](https://vernonjames.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:10.262680+00:00
-
- ## Welcome to NC State Virtual Tour | NC State University
- - [https://visit.ncsu.edu](https://visit.ncsu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Wake County Center | N.C. Cooperative Extension
- - [https://wake.ces.ncsu.edu](https://wake.ces.ncsu.edu)
- - date_published: 2024-10-15T05:30:43.793023+00:00
-
- ## Warren County Center | N.C. Cooperative Extension
- - [https://warren.ces.ncsu.edu](https://warren.ces.ncsu.edu)
- - date_published: 2024-10-15T05:25:47.373728+00:00
-
- ## Washington County Center | N.C. Cooperative Extension
- - [https://washington.ces.ncsu.edu](https://washington.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:49.163151+00:00
-
- ## Watauga County Center | N.C. Cooperative Extension
- - [https://watauga.ces.ncsu.edu](https://watauga.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:24.300333+00:00
-
- ## Water Resources | NC State Extension
- - [https://waterresources.ces.ncsu.edu](https://waterresources.ces.ncsu.edu)
- - date_published: 2024-10-15T05:32:27.180665+00:00
-
- ## Wayne County Center | N.C. Cooperative Extension
- - [https://wayne.ces.ncsu.edu](https://wayne.ces.ncsu.edu)
- - date_published: 2024-10-15T05:28:51.612736+00:00
-
- ## Weed Management in Nurseries, Landscapes & Christmas Trees | NC State Extension
- - [https://weeds.ces.ncsu.edu](https://weeds.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:59.915068+00:00
-
- ## Wilkes County Center | N.C. Cooperative Extension
- - [https://wilkes.ces.ncsu.edu](https://wilkes.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:03.862193+00:00
-
- ## Wilson County Center | N.C. Cooperative Extension
- - [https://wilson.ces.ncsu.edu](https://wilson.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:29.238330+00:00
-
- ## Wolfpack Pickup
- - [https://wolfpackpickup.dasa.ncsu.edu](https://wolfpackpickup.dasa.ncsu.edu)
- - date_published: 2024-07-01T15:56:00.077707+00:00
-
- ## Center for Environmental Farming Systems
- - [http://www.cefs.ncsu.edu](http://www.cefs.ncsu.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Department of Computer Science at North Carolina State University
- - [http://www.csc.ncsu.edu](http://www.csc.ncsu.edu)
- - date_published: 2024-09-23T13:36:30.788958+00:00
-
- ## College of Engineering
- - [https://www.engr.ncsu.edu](https://www.engr.ncsu.edu)
- - date_published: 2024-07-01T15:53:54.317607+00:00
-
- ## Home | NC State University Libraries
- - [http://www.lib.ncsu.edu](http://www.lib.ncsu.edu)
- - date_published: 2024-06-20T06:59:37.542313+00:00
-
- ## North Carolina State University
- - [https://ncsu.edu](https://ncsu.edu)
- - date_published: 2024-04-28T03:37:43.019973+00:00
-
- ## NC State Shibboleth Login - Loading Session Information
- - [https://xemp.ces.ncsu.edu](https://xemp.ces.ncsu.edu)
- - date_published: 2024-10-15T05:27:42.514392+00:00
-
- ## Yadkin County Center | N.C. Cooperative Extension
- - [https://yadkin.ces.ncsu.edu](https://yadkin.ces.ncsu.edu)
- - date_published: 2024-10-15T05:29:33.476431+00:00
-
- ## Yancey County Center | N.C. Cooperative Extension
- - [https://yancey.ces.ncsu.edu](https://yancey.ces.ncsu.edu)
- - date_published: 2024-10-15T05:33:12.616765+00:00
-
- ## Youth Livestock Program | NC State Extension
- - [https://youthlivestock.ces.ncsu.edu](https://youthlivestock.ces.ncsu.edu)
- - date_published: 2024-10-15T05:31:55.624134+00:00
-
- ## NCURA Home
- - [http://ncura.edu](http://ncura.edu)
- - date_published: 2024-07-22T02:41:46.568585+00:00
-
- ## College of Arts & Letters
- - [https://al.nd.edu](https://al.nd.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Athletics Business Office // University of Notre Dame
- - [https://athleticsbusinessoffice.nd.edu](https://athleticsbusinessoffice.nd.edu)
- - date_published: 2024-10-02T10:28:17.878373+00:00
-
- ## Department of Chemistry & Biochemistry
- - [http://chemistry.nd.edu](http://chemistry.nd.edu)
- - date_published: 2024-10-19T04:54:53.464308+00:00
-
- ## Home
- - [https://churchlifejournal.nd.edu](https://churchlifejournal.nd.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Commencement
- - [http://commencement.nd.edu](http://commencement.nd.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Cushwa Center
- - [http://cushwa.nd.edu](http://cushwa.nd.edu)
- - date_published: 2024-06-25T13:05:17+00:00
-
- ## Directory | University of Notre Dame
- - [https://directory.nd.edu](https://directory.nd.edu)
- - date_published: 2024-02-06T21:20:42+00:00
-
- ## Diversity, Equity, and Inclusion
- - [http://diversity.nd.edu](http://diversity.nd.edu)
- - date_published: 2024-10-02T10:27:55.179172+00:00
-
- ## Home // Warren Drug Discovery // University of Notre Dame
- - [http://drugdiscovery.nd.edu](http://drugdiscovery.nd.edu)
- - date_published: 2024-10-19T04:54:19.317133+00:00
-
- ## du Lac: A Guide to Student Life
- - [https://dulac.nd.edu](https://dulac.nd.edu)
- - date_published: 2024-05-31T15:47:32+00:00
-
- ## Emergency Information
- - [https://emergency.nd.edu](https://emergency.nd.edu)
- - date_published: 2024-05-07T19:45:38.368524+00:00
-
- ## Home // Office of Institutional Equity // University of Notre Dame
- - [https://equity.nd.edu](https://equity.nd.edu)
- - date_published: 2024-10-02T10:27:57.045376+00:00
-
- ## Notre Dame Events
- - [https://events.nd.edu](https://events.nd.edu)
- - date_published: 2024-05-07T19:45:46.179696+00:00
-
- ## Faculty Positions
- - [http://facultypositions.nd.edu](http://facultypositions.nd.edu)
- - date_published: 2024-10-02T10:27:58.902749+00:00
-
- ## Home - FaithND
- - [http://faith.nd.edu](http://faith.nd.edu)
- - date_published: 2024-10-02T10:29:48.005926+00:00
-
- ## What Would You Fight For?
- - [https://fightingfor.nd.edu](https://fightingfor.nd.edu)
- - date_published: 2024-10-02T10:24:32.503455+00:00
-
- ## FindND | University of Notre Dame
- - [http://find.nd.edu](http://find.nd.edu)
- - date_published: 2024-10-02T10:27:53.015580+00:00
-
- ## Giving to Notre Dame
- - [https://giving.nd.edu](https://giving.nd.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Human Resources
- - [http://hr.nd.edu](http://hr.nd.edu)
- - date_published: 2024-07-01T13:22:10+00:00
-
- ## Service Discovery
- - [https://inside.nd.edu](https://inside.nd.edu)
- - date_published: 2024-06-16T10:39:07.297352+00:00
-
- ## PeopleGrove
- - [https://irishcompass.nd.edu](https://irishcompass.nd.edu)
- - date_published: 2024-10-02T10:29:43+00:00
-
- ## Notre Dame Application Portal
- - [https://jobs.nd.edu](https://jobs.nd.edu)
- - date_published: 2024-06-16T10:38:55+00:00
-
- ## Home | The Law School | University of Notre Dame
- - [https://law.nd.edu](https://law.nd.edu)
- - date_published: 2024-06-28T17:31:05+00:00
-
- ## Campus Map | University of Notre Dame
- - [https://map.nd.edu](https://map.nd.edu)
- - date_published: 2024-10-02T10:27:28.643581+00:00
-
- ## Department of Mathematics
- - [http://math.nd.edu](http://math.nd.edu)
- - date_published: 2024-06-28T04:00:03+00:00
-
- ## Home - Notre Dame Business Mendoza College of Business
- - [https://mendoza.nd.edu](https://mendoza.nd.edu)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Product Page - Notre Dame Service Portal
- - [https://mobile.nd.edu](https://mobile.nd.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Join myNotreDame
- - [https://my.nd.edu](https://my.nd.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## University of Notre Dame
- - [http://nd.edu](http://nd.edu)
- - date_published: 2024-07-01T15:56:33.102793+00:00
-
- ## Notre Dame Fire Department
- - [https://ndfd.nd.edu](https://ndfd.nd.edu)
- - date_published: 2024-05-02T15:47:14+00:00
-
- ## Notre Dame Philosophical Reviews
- - [https://ndpr.nd.edu](https://ndpr.nd.edu)
- - date_published: 2024-05-07T16:16:12.105690+00:00
-
- ## Home
- - [https://ndworks.nd.edu](https://ndworks.nd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date_published: 2023-10-25T18:55:35.076777+00:00
-
- ## Office of Information Technology
- - [http://oit.nd.edu](http://oit.nd.edu)
- - date_published: 2024-06-28T19:01:34+00:00
-
- ## Office of Public Affairs and Communications
- - [https://opac.nd.edu](https://opac.nd.edu)
- - date_published: 2024-01-18T19:52:55+00:00
-
  ## Home
  - [https://performingarts.nd.edu](https://performingarts.nd.edu)
  - date_published: 2024-07-01T15:56:20.551173+00:00
@@ -4000,4 +3712,292 @@
  ## About the UCR
  - [https://code.osu.edu](https://code.osu.edu)
  - date_published: 2024-07-13T03:53:44+00:00
+
+ ## College in Columbus
+ - [https://collegeincbus.osu.edu](https://collegeincbus.osu.edu)
+ - date_published: 2024-07-17T03:26:24.454651+00:00
+
+ ## Home | Community Development
+ - [http://comdev.osu.edu](http://comdev.osu.edu)
+ - date_published: 2024-10-15T07:36:42.303789+00:00
+
+ ## Summer Commencement 2024
+ - [https://commencement.osu.edu](https://commencement.osu.edu)
+ - date_published: 2024-07-01T16:55:13.763456+00:00
+
+ ## Login - Give To Ohio State - The Ohio State University
+ - [https://connect1.osu.edu](https://connect1.osu.edu)
+ - date_published: 2024-05-07T19:52:26.447794+00:00
+
+ ## College of Public Health Homepage
+ - [https://cph.osu.edu](https://cph.osu.edu)
+ - date_published: 2024-07-16T21:41:28+00:00
+
+ ## Department of Computer Science and Engineering
+ - [https://cse.osu.edu](https://cse.osu.edu)
+ - date_published: 2014-02-07T14:25:00+00:00
+
+ ## CSE Database Portal
+ - [https://cse-portal.webapps.engineering.osu.edu](https://cse-portal.webapps.engineering.osu.edu)
+ - date_published: 2024-05-14T16:16:34+00:00
+
+ ## Home | Center for the Study and Teaching of Writing
+ - [https://cstw.osu.edu](https://cstw.osu.edu)
+ - date_published: 2024-10-14T20:40:24.679783+00:00
+
+ ## Home - The Ohio State University - College of Social Work
+ - [https://csw.osu.edu](https://csw.osu.edu)
+ - date_published: 2024-06-16T02:54:24+00:00
+
+ ## Cybersecurity
+ - [https://cybersecurity.osu.edu](https://cybersecurity.osu.edu)
+ - date_published: 2023-03-17T15:52:38+00:00
+
+ ## Dental Alumni Society
+ - [https://das.alumni.osu.edu](https://das.alumni.osu.edu)
+ - date_published: 2024-02-08T17:42:16.788473+00:00
+
+ ## Home
+ - [https://das.osu.edu](https://das.osu.edu)
+ - date_published: 2020-11-02T15:49:08+00:00
+
+ ## Home | Ohio State Dental Clinics
+ - [https://dentalclinics.osu.edu](https://dentalclinics.osu.edu)
+ - date_published: 2024-07-17T03:43:34.031757+00:00
+
+ ## OSU College of Dentistry
+ - [https://dentistry.osu.edu](https://dentistry.osu.edu)
+ - date_published: 2024-05-12T07:44:32.720792+00:00
+
+ ## Digital Unions | Learning Spaces Directory
+ - [http://digitalunion.osu.edu](http://digitalunion.osu.edu)
+ - date_published: 2024-07-09T14:48:32.416639+00:00
+
+ ## Dining Services
+ - [https://dining.osu.edu](https://dining.osu.edu)
+ - date_published: 2024-05-12T07:44:11.233781+00:00
+
+ ## Discovery Themes, The Ohio State University
+ - [https://discovery.osu.edu](https://discovery.osu.edu)
+ - date_published: 2024-07-17T03:37:40.670441+00:00
+
+ ## Home | Department of Public Safety
+ - [https://dps.osu.edu](https://dps.osu.edu)
+ - date_published: 2024-05-12T07:43:42.601189+00:00
+
+ ## Home | Michael V. Drake Institute for Teaching and Learning
+ - [https://drakeinstitute.osu.edu](https://drakeinstitute.osu.edu)
+ - date_published: 2024-10-14T20:40:27.061965+00:00
+
+ ## Home | School of Earth Sciences
+ - [https://earthsciences.osu.edu](https://earthsciences.osu.edu)
+ - date_published: 2024-05-07T22:31:30.967450+00:00
+
+ ## Newark Earthworks Center | The Ohio State University
+ - [https://earthworks.osu.edu](https://earthworks.osu.edu)
+ - date_published: 2024-07-17T03:37:02.098347+00:00
+
+ ## Department of Electrical & Computer Engineering
+ - [http://ece.osu.edu](http://ece.osu.edu)
+ - date_published: 2022-10-29T19:35:00+00:00
+
+ ## Home | Department of Economics
+ - [https://economics.osu.edu](https://economics.osu.edu)
+ - date_published: 2024-09-19T20:16:09.867243+00:00
+
+ ## Engineering Career Services
+ - [https://ecs.osu.edu](https://ecs.osu.edu)
+ - date_published: 2016-08-15T10:12:00+00:00
+
+ ## Department of Engineering Education
+ - [https://eed.osu.edu](https://eed.osu.edu)
+ - date_published: 2016-03-08T09:33:00+00:00
+
+ ## College of Education and Human Ecology
+ - [http://ehe.osu.edu](http://ehe.osu.edu)
+ - date_published: 2024-06-29T09:07:14.647181+00:00
+
+ ## Home | Environmental Health and Safety
+ - [https://ehs.osu.edu](https://ehs.osu.edu)
+ - date_published: 2024-07-17T03:37:27.974764+00:00
+
+ ## Microsoft 365
+ - [https://email.osu.edu](https://email.osu.edu)
+ - date_published: 2022-11-29T22:09:42+00:00
+
+ ## Home | Energize Ohio
+ - [http://energizeohio.osu.edu](http://energizeohio.osu.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Outreach and Engagement, The Ohio State University
+ - [https://engage.osu.edu](https://engage.osu.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## COLLEGE OF ENGINEERING
+ - [https://engineering.osu.edu](https://engineering.osu.edu)
+ - date_published: 2014-02-03T10:53:00+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://eprotocol.osu.edu](https://eprotocol.osu.edu)
+ - date_published: 2024-07-17T03:37:50.285181+00:00
+
+ ## Home | Institutional Equity
+ - [https://equity.osu.edu](https://equity.osu.edu)
+ - date_published: 2024-07-01T16:53:40.489856+00:00
+
+ ## College of Engineering Engineering Research Administration
+ - [https://era.osu.edu](https://era.osu.edu)
+ - date_published: 2018-04-27T08:19:00+00:00
+
+ ## The Enterprise for Research, Innovation and Knowledge
+ - [https://erik.osu.edu](https://erik.osu.edu)
+ - date_published: 2024-05-12T07:44:06.899584+00:00
+
+ ## Intercultural English Language Programs - Homepage
+ - [https://esl.ehe.osu.edu](https://esl.ehe.osu.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Engineering Technology Services (ETS)
+ - [https://ets.osu.edu](https://ets.osu.edu)
+ - date_published: 2023-07-26T10:19:00+00:00
+
+ ## Home | Extension Operations
+ - [http://extensionhr.osu.edu](http://extensionhr.osu.edu)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## Home | OSU Extension
+ - [https://extension.osu.edu](https://extension.osu.edu)
+ - date_published: 2024-07-17T01:40:14+00:00
+
+ ## Veterinary Extension | Veterinary Extension
+ - [https://extension.vet.osu.edu](https://extension.vet.osu.edu)
+ - date_published: 2024-07-17T03:42:51.617565+00:00
+
+ ## Department of Food, Agricultural and Biological Engineering | FABE
+ - [http://fabe.osu.edu](http://fabe.osu.edu)
+ - date_published: 2024-07-17T01:21:41+00:00
+
+ ## Home | Office of Faculty Affairs
+ - [https://faculty.osu.edu](https://faculty.osu.edu)
+ - date_published: 2024-07-17T03:50:53.046535+00:00
+
+ ## Home | Family and Consumer Sciences
+ - [http://fcs.osu.edu](http://fcs.osu.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Home | First Year Seminars
+ - [https://firstyearseminars.osu.edu](https://firstyearseminars.osu.edu)
+ - date_published: 2024-05-07T19:51:20.656861+00:00
+
+ ## Foods for Health | The Ohio State University
+ - [https://foodsforhealth.osu.edu](https://foodsforhealth.osu.edu)
+ - date_published: 2024-07-17T03:37:22.754828+00:00
+
+ ## Foundation Relations | The Ohio State University
+ - [https://foundationrelations.osu.edu](https://foundationrelations.osu.edu)
+ - date_published: 2024-07-01T16:53:53.754076+00:00
+
+ ## Home | Farm Science Review
+ - [https://fsr.osu.edu](https://fsr.osu.edu)
+ - date_published: 2024-10-15T07:36:58.436227+00:00
+
+ ## Home
+ - [https://giveto.osu.edu](https://giveto.osu.edu)
+ - date_published: 2024-07-01T16:53:47.329304+00:00
+
+ ## College of Engineering Global Engineering
+ - [https://global.engineering.osu.edu](https://global.engineering.osu.edu)
+ - date_published: 2014-06-21T11:26:00+00:00
+
+ ## Home | Global Water Institute
+ - [https://globalwater.osu.edu](https://globalwater.osu.edu)
+ - date_published: 2024-07-17T03:37:20.068817+00:00
+
+ ## Home | The Goldberg Center
+ - [https://goldbergcenter.osu.edu](https://goldbergcenter.osu.edu)
+ - date_published: 2024-05-12T07:29:49.051269+00:00
+
+ ## go.osu.edu Create Shortened URLs
+ - [https://go.osu.edu](https://go.osu.edu)
+ - date_published: 2024-05-07T19:51:22.252604+00:00
+
+ ## Graduate and Professional Admissions | The Ohio State University
+ - [https://gpadmissions.osu.edu](https://gpadmissions.osu.edu)
+ - date_published: 2024-01-24T20:02:54+00:00
+
+ ## Home | Graduate School
+ - [https://gradsch.osu.edu](https://gradsch.osu.edu)
+ - date_published: 2024-05-12T07:44:22.743757+00:00
+
+ ## Ohio State Optometry Services
+ - [https://greatvision.osu.edu](https://greatvision.osu.edu)
+ - date_published: 2024-05-12T07:43:33.074900+00:00
+
+ ## Resources for Alumni Volunteers
+ - [https://groups.alumni.osu.edu](https://groups.alumni.osu.edu)
+ - date_published: 2024-07-01T16:53:44.931332+00:00
+
+ ## Ohio State | Gene Therapy Institute |
+ - [https://gti.osu.edu](https://gti.osu.edu)
+ - date_published: 2024-07-17T03:37:21.492750+00:00
+
+ ## Research Guides
+ - [https://guides.osu.edu](https://guides.osu.edu)
+ - date_published: 2024-07-17T03:37:51.971187+00:00
+
+ ## Ohio State Health & Discovery | Health, wellness and innovation news
+ - [https://health.osu.edu](https://health.osu.edu)
+ - date_published: 2024-07-01T16:54:02.869385+00:00
+
+ ## help.osu.edu
+ - [https://help.osu.edu](https://help.osu.edu)
+ - date_published: 2024-04-12T14:05:15+00:00
+
+ ## Housing and Residence Education
+ - [https://housing.osu.edu](https://housing.osu.edu)
+ - date_published: 2024-05-12T07:44:00.222217+00:00
+
+ ## ServiceNow
+ - [https://hrconnection.osu.edu](https://hrconnection.osu.edu)
+ - date_published: 2024-07-17T03:50:44.535464+00:00
+
+ ## Human Resources at Ohio State
+ - [https://hr.osu.edu](https://hr.osu.edu)
+ - date_published: 2024-05-12T07:44:44.428985+00:00
+
+ ## Home | Health Sciences Library
+ - [https://hsl.osu.edu](https://hsl.osu.edu)
+ - date_published: 2024-07-15T23:19:10+00:00
+
+ ## Home | History Teaching Institute
+ - [https://hti.osu.edu](https://hti.osu.edu)
+ - date_published: 2024-07-16T23:32:44.762272+00:00
+
+ ## Home
+ - [https://idi.osu.edu](https://idi.osu.edu)
+ - date_published: 2019-10-24T00:00:00+00:00
+
+ ## Institute for Materials and Manufacturing Research | Gateway to Ohio State's materials-allied research enterprise.
+ - [http://imr.osu.edu](http://imr.osu.edu)
+ - date_published: 2024-07-17T03:37:18.048118+00:00
+
+ ## Log In | Inventions
+ - [https://innovate.osu.edu](https://innovate.osu.edu)
+ - date_published: 2024-07-17T03:38:21.592822+00:00
+
+ ## Inspire 2023 - Inspire
+ - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
+ - date_published: 2023-03-13T04:17:09+00:00
+
+ ## Involved Living
+ - [http://involvedliving.osu.edu](http://involvedliving.osu.edu)
+ - date_published: 2024-07-17T03:38:13.640228+00:00
+
+ ## Department of Integrated Systems Engineering
+ - [http://ise.osu.edu](http://ise.osu.edu)
+ - date_published: 2019-06-04T15:55:00+00:00
+
+ ## Home
+ - [https://it.osu.edu](https://it.osu.edu)
+ - date_published: 2024-05-12T07:44:45.943677+00:00
 

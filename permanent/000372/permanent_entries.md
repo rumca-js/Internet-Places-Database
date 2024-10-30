@@ -1,385 +1,3 @@
- ## GraphQL Playground
- - [https://api.psychonautwiki.org](https://api.psychonautwiki.org)
- - date_published: 2024-09-12T18:52:29.353292+00:00
-
- ## PsychonautWiki
- - [https://m.psychonautwiki.org](https://m.psychonautwiki.org)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## PsychonautWiki
- - [https://psychonautwiki.org](https://psychonautwiki.org)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## psychonetrics – An R package for confirmatory network modeling
- - [http://psychonetrics.org](http://psychonetrics.org)
- - date_published: 2024-06-27T15:21:03.370996+00:00
-
- ## Home — PsychoPy®
- - [http://www.psychopy.org](http://www.psychopy.org)
- - date_published: 2024-07-05T20:47:49+00:00
-
- ## psychosystems
- - [http://psychosystems.org](http://psychosystems.org)
- - date_published: 2022-11-10T18:06:55+00:00
-
- ## Home | Psychreg Journal of Psychology
- - [https://www.pjp.psychreg.org](https://www.pjp.psychreg.org)
- - date_published: 2024-07-15T06:54:18.807413+00:00
-
- ## Psychreg
- - [https://psychreg.org](https://psychreg.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home New
- - [https://www.staging24.psychreg.org](https://www.staging24.psychreg.org)
- - date_published: 2023-10-30T14:17:22+00:00
-
- ## PostgreSQL driver for Python — Psycopg
- - [https://psycopg.org](https://psycopg.org)
- - date_published: 2023-10-25T22:00:45.711335+00:00
-
- - [http://psygnosis.org](http://psygnosis.org)
- - date_published: 2006-09-02T16:30:58+00:00
-
- ## Psyklopedin
- - [https://m.psyklopedin.org](https://m.psyklopedin.org)
- - date_published: 2024-07-14T06:55:58.106766+00:00
-
- ## Psyklopedin
- - [https://psyklopedin.org](https://psyklopedin.org)
- - date_published: 2024-05-11T09:50:47.145240+00:00
-
- ## PsyPost - Reporting the latest scientific research on behavior, cognition and society
- - [https://psypost.org](https://psypost.org)
- - date_published: 2023-10-25T22:00:49.739432+00:00
-
- ## PTC | Pacific Telecommunications Council | Shaping the Future of Telecom in the Pacific Rim
- - [https://www.ptc.org](https://www.ptc.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Phi Theta Kappa: International College Honor Society
- - [https://www.ptk.org](https://www.ptk.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Self-Help Tools | Pine Tree Legal Assistance
- - [http://www.ptla.org](http://www.ptla.org)
- - date_published: 2024-07-02T04:52:04+00:00
-
- ## Pass The Mic
- - [https://ptmfoundation.org](https://ptmfoundation.org)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## PTnet Chat
- - [https://chat.ptnet.org](https://chat.ptnet.org)
- - date_published: 2024-10-16T11:44:28.868495+00:00
-
- ## Ptolemy Project Home Page
- - [http://ptolemy.org](http://ptolemy.org)
- - date_published: 2024-07-22T07:35:09.358317+00:00
-
- ## Provincetown Business Guild – LGBTQ+ Travel Tips for Ptown, the World's Premier Queer Vacation Destination
- - [https://ptown.org](https://ptown.org)
- - date_published: 2024-08-18T17:48:58.302774+00:00
-
- ## Home
- - [https://www.ptra.org](https://www.ptra.org)
- - date_published: 2024-09-05T21:05:38+00:00
-
- ## Ptxdist – "Professional Embedded Linux Made Easy"
- - [https://www.ptxdist.org](https://www.ptxdist.org)
- - date_published: 2024-10-07T15:44:37+00:00
-
- ## Accountability Project
- - [https://publicaccountability.org](https://publicaccountability.org)
- - date_published: 2024-05-08T12:00:50.931124+00:00
-
- ## Homepage - Public Agenda
- - [http://www.publicagenda.org](http://www.publicagenda.org)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Public album - create and publish your photosets.
- - [https://www.publicalbum.org](https://www.publicalbum.org)
- - date_published: 2024-08-08T15:48:48.702272+00:00
-
- ## Public Announcement
- - [http://publicannouncement.org](http://publicannouncement.org)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Charleston, WV Public Art
- - [http://publicartcharleston.org](http://publicartcharleston.org)
- - date_published: 2024-07-15T10:47:59.504293+00:00
-
- ## Public Art Dundee
- - [https://publicartdundee.org](https://publicartdundee.org)
- - date_published: 2024-07-10T09:53:50.905280+00:00
-
- ## Public Art University of Houston System
- - [http://publicartuhs.org](http://publicartuhs.org)
- - date_published: 2024-05-07T21:13:53.933349+00:00
-
- ## COPE: Committee on Publication Ethics
- - [https://publicationethics.org](https://publicationethics.org)
- - date_published: 2024-05-07T15:03:11.414645+00:00
-
- ## ncte.org
- - [https://publicationsncte.org](https://publicationsncte.org)
- - date_published: 2024-05-07T10:11:51.683769+00:00
-
- ## Homepage - Public Books
- - [https://publicbooks.org](https://publicbooks.org)
- - date_published: 2023-10-25T22:00:55.631572+00:00
-
- ## Public Design Corps
- - [https://publicdesigncorps.org](https://publicdesigncorps.org)
- - date_published: 2024-07-08T14:53:35.576986+00:00
-
- ## Public Domain Manifesto
- - [http://www.publicdomainmanifesto.org](http://www.publicdomainmanifesto.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## The Public Domain Review – Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web
- - [https://publicdomainreview.org](https://publicdomainreview.org)
- - date_published: 2023-10-25T22:00:57.723285+00:00
-
- ## The Public Domain Review
- - [https://sendy.publicdomainreview.org](https://sendy.publicdomainreview.org)
- - date_published: 2024-05-08T12:00:12.369683+00:00
-
- ## Royalty-free vector clip art, svg files and graphics | Public domain vectors
- - [https://publicdomainvectors.org](https://publicdomainvectors.org)
- - date_published: 2023-12-06T12:52:35+00:00
- - tags: ['image assets']
-
- ## Public Finance International - Trading Platforms and Broker Reviews
- - [http://www.publicfinanceinternational.org](http://www.publicfinanceinternational.org)
- - date_published: 2024-10-21T18:27:52.077061+00:00
-
- ## Home
- - [https://www.publicgardens.org](https://www.publicgardens.org)
- - date_published: 2024-06-18T21:48:55+00:00
-
- ## Homepage - Public Health Watch
- - [https://publichealthwatch.org](https://publichealthwatch.org)
- - date_published: 2023-12-19T05:58:20.462407+00:00
-
- ## Home | Public Hostage Public Ransom:
-Ending Institutional America
- - [https://www.publichostagepublicransom.org](https://www.publichostagepublicransom.org)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Index of /
- - [https://public-inbox.org](https://public-inbox.org)
- - date_published: 2021-09-13T00:00:00+00:00
-
- ## Home - Initiative for Digital Public Infrastructure
- - [https://publicinfrastructure.org](https://publicinfrastructure.org)
- - date_published: 2023-10-25T22:00:59.372808+00:00
-
- ## Home
- - [https://apps.publicintegrity.org](https://apps.publicintegrity.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Model Legislation Tracker | Center for Public Integrity
- - [https://model-legislation.apps.publicintegrity.org](https://model-legislation.apps.publicintegrity.org)
- - date_published: 2024-05-08T12:00:51.910520+00:00
-
- ## Home
- - [https://publicintegrity.org](https://publicintegrity.org)
- - date_published: 2023-12-10T14:15:23.504603+00:00
-
- ## Home
- - [http://www.publicintegrity.org](http://www.publicintegrity.org)
- - date_published: 2024-06-27T09:13:54+00:00
-
- ## Home - The Public Interest Network
- - [https://publicinterestnetwork.org](https://publicinterestnetwork.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Registrar Portal
- - [https://registrar.publicinterestregistry.org](https://registrar.publicinterestregistry.org)
- - date_published: 2024-07-01T05:13:50.020661+00:00
-
- ## Home
- - [https://publicknowledge.org](https://publicknowledge.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Future Home of matomo.publicknowledgeproject.org
- - [https://matomo.publicknowledgeproject.org](https://matomo.publicknowledgeproject.org)
- - date_published: 2024-06-17T19:21:31.069141+00:00
-
- ## Community toolbox
- - [https://code.publiclab.org](https://code.publiclab.org)
- - date_published: 2021-03-30T21:15:05+00:00
-
- ## 🎈 Public Lab: a DIY environmental science community
- - [https://publiclab.org](https://publiclab.org)
- - date_published: 2024-05-09T04:11:24.380381+00:00
-
- ## 🎈 Public Lab: a DIY environmental science community
- - [http://publiclaboratory.org](http://publiclaboratory.org)
- - date_published: 2024-06-20T03:47:37.487247+00:00
-
- ## Public Media Market
- - [https://publicmediamarket.org](https://publicmediamarket.org)
- - date_published: 2024-05-08T10:01:58.324965+00:00
-
- ## Public News Service | News in the Public Interest
- - [https://www.publicnewsservice.org](https://www.publicnewsservice.org)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Public Philosophy Week
- - [https://publicphilosophyweek.org](https://publicphilosophyweek.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Public Policy Lab
- - [http://publicpolicylab.org](http://publicpolicylab.org)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## American Public Media
- - [https://americanpublicmedia.publicradio.org](https://americanpublicmedia.publicradio.org)
- - date_published: 2024-05-08T10:57:27.686571+00:00
-
- ## Composers Datebook®
- - [http://composersdatebook.publicradio.org](http://composersdatebook.publicradio.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Support Minnesota Public Radio Today! | American Public Media
- - [https://contribute.publicradio.org](https://contribute.publicradio.org)
- - date_published: 2024-05-08T10:02:03.473403+00:00
-
- ## Calendar: Writer's Almanac 2014
- - [http://writersalmanac.publicradio.org](http://writersalmanac.publicradio.org)
- - date_published: 2024-06-24T10:04:42.693857+00:00
-
- ## Public Radio Custom Travel
- - [https://www.publicradiocustomtravel.org](https://www.publicradiocustomtravel.org)
- - date_published: 2024-07-07T10:34:25.309174+00:00
-
- ## Public Radio Tulsa Homepage
- - [https://www.publicradiotulsa.org](https://www.publicradiotulsa.org)
- - date_published: 2024-03-27T21:51:21.817005+00:00
-
- ## Public Seminar Home Page - Public Seminar
- - [https://publicseminar.org](https://publicseminar.org)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## PublicSource: Pittsburgh, Allegheny County news that matters
- - [http://publicsource.org](http://publicsource.org)
- - date_published: 2024-06-28T14:14:54+00:00
-
- ## Home - PublicSpace
- - [https://www.publicspace.org](https://www.publicspace.org)
- - date_published: 2024-07-14T23:28:48.724554+00:00
-
- ## Public Suffix List
- - [https://publicsuffix.org](https://publicsuffix.org)
- - date_published: 2024-06-17T07:28:18+00:00
-
- ## Home
- - [https://publictheater.org](https://publictheater.org)
- - date_published: 2024-06-20T11:44:28.797276+00:00
-
- ## Public Transportation
- - [http://www.publictransportation.org](http://www.publictransportation.org)
- - date_published: 2024-06-16T22:25:18+00:00
-
- ## Home Page - AAP
- - [https://publishers.org](https://publishers.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Publishers for Palestine
- - [https://publishersforpalestine.org](https://publishersforpalestine.org)
- - date_published: 2023-12-03T05:58:10.182044+00:00
- - tags: ['palestine']
-
- ## Home
- - [https://publishwhatyoufund.org](https://publishwhatyoufund.org)
- - date_published: 2024-09-25T17:39:39.019550+00:00
-
- ## PubMedInfo - niewygodne informacje i komunikaty - Chcesz podejmować świadome decyzje na temat szczepień? Dowiedz się tego co jest pomijane w debacie na temat szczepień, aby móc takie decyzje podejmować.
- - [https://pubmedinfo.org](https://pubmedinfo.org)
- - date_published: 2023-10-25T22:01:02.466312+00:00
-
- ## 0xSalon
- - [https://0xsalon.pubpub.org](https://0xsalon.pubpub.org)
- - date_published: 2024-09-07T00:00:00+00:00
-
- ## AfricArXiv
- - [https://africarxiv.pubpub.org](https://africarxiv.pubpub.org)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Artificial Communication
- - [https://artificial-communication.pubpub.org](https://artificial-communication.pubpub.org)
- - date_published: 2024-07-01T15:25:03.745203+00:00
-
- ## https://assets.pubpub.org
- - [https://assets.pubpub.org](https://assets.pubpub.org)
- - date_published: 2024-01-23T19:09:02.082157+00:00
-
- ## Bulletin of the AAS
- - [https://baas.pubpub.org](https://baas.pubpub.org)
- - date_published: 2024-08-11T15:10:44.625306+00:00
-
- ## Bee XML Journal
- - [https://beexml.pubpub.org](https://beexml.pubpub.org)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## The MIT Press - open access @ PubPub
- - [https://bookbook.pubpub.org](https://bookbook.pubpub.org)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Digital Scholarship at the British Library
- - [https://britishlibrary.pubpub.org](https://britishlibrary.pubpub.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Coalition for Diversity and Inclusion in Scholarly Communications
- - [https://c4disc.pubpub.org](https://c4disc.pubpub.org)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Contours Collaborations: Border Crossings in Art and Humanities
- - [https://contours.pubpub.org](https://contours.pubpub.org)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Copim
- - [https://copim.pubpub.org](https://copim.pubpub.org)
- - date_published: 2024-10-20T04:37:39.218580+00:00
-
- ## Cryptoeconomic Systems
- - [https://cryptoeconomicsystems.pubpub.org](https://cryptoeconomicsystems.pubpub.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Data & Analytics for Good
- - [https://data-for-good.pubpub.org](https://data-for-good.pubpub.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Design Justice
- - [https://design-justice.pubpub.org](https://design-justice.pubpub.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Economics in the Age of COVID-19
- - [https://economics-in-the-age-of-covid-19.pubpub.org](https://economics-in-the-age-of-covid-19.pubpub.org)
- - date_published: 2020-05-15T00:00:00+00:00
-
- ## European Law Blog
- - [https://europeanlawblog.pubpub.org](https://europeanlawblog.pubpub.org)
- - date_published: 2024-10-18T20:39:29.587516+00:00
-
- ## Fermentology
- - [https://fermentology.pubpub.org](https://fermentology.pubpub.org)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Goldsmiths Press
- - [https://goldsmithspress.pubpub.org](https://goldsmithspress.pubpub.org)
- - date_published: 2024-07-01T15:24:40.647964+00:00
-
- ## Graduate Journal of Food Studies
- - [https://gradfoodstudies.pubpub.org](https://gradfoodstudies.pubpub.org)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## PubPub Help
- - [https://help.pubpub.org](https://help.pubpub.org)
- - date_published: 2024-05-03T00:00:00+00:00
-
  ## Journal of Design and Science
  - [https://jods.pubpub.org](https://jods.pubpub.org)
  - date_published: 2024-09-05T00:00:00+00:00
@@ -3567,10 +3185,6 @@ Ending Institutional America
  - [http://clacso.redalyc.org](http://clacso.redalyc.org)
  - date_published: 2022-02-18T23:43:16+00:00
 
- ## Sistema de Información Científica Redalyc, Red de Revistas Científicas
- - [https://www.redalyc.org](https://www.redalyc.org)
- - date_published: 2024-06-19T16:58:51.378909+00:00
-
  ## REDAXO - Content Management System [CMS] - Kostenlos - Frei - PHP - MySQL - Open-Source | Simple To Use | home
  - [https://www.redaxo.org](https://www.redaxo.org)
  - date_published: 2024-06-19T22:14:13.795436+00:00
@@ -4057,4 +3671,390 @@ Ending Institutional America
  ## remood.org- latest update
  - [https://remood.org](https://remood.org)
  - date_published: 2024-07-07T09:16:42.425777+00:00
+
+ ## remote-exploit.org
+ - [http://www.remote-exploit.org](http://www.remote-exploit.org)
+ - date_published: 2014-06-03T10:08:47+00:00
+
+ ## Remote Jobs - Developer, designer, marketing, sales jobs, and more | RemoteJobs.org
+ - [https://remotejobs.org](https://remotejobs.org)
+ - date_published: 2023-10-25T22:02:55.614939+00:00
+
+ ## Remote Mob Programming
+ - [https://remotemobprogramming.org](https://remotemobprogramming.org)
+ - date_published: 2024-04-19T08:44:47+00:00
+
+ ## RENCI - Renaissance Computing Institute at UNC
+ - [http://www.renci.org](http://www.renci.org)
+ - date_published: 2024-09-26T18:09:20.370019+00:00
+
+ ## The Rendell Center for Civics and Civic Engagement | rendellcenter.org
+ - [https://rendellcenter.org](https://rendellcenter.org)
+ - date_published: 2024-09-09T23:41:11.191496+00:00
+
+ ## RenderDoc
+ - [https://renderdoc.org](https://renderdoc.org)
+ - date_published: 2024-03-07T13:00:30.397273+00:00
+
+ ## RenderJS
+ - [http://renderjs.org](http://renderjs.org)
+ - date_published: 2024-06-14T08:03:28+00:00
+
+ ## RennerVation Foundation | non-profit serving disadvantaged youth in Northern NV
+ - [https://www.rennervationfoundation.org](https://www.rennervationfoundation.org)
+ - date_published: 2024-08-07T22:57:08.115254+00:00
+
+ ## Reno Little Theater | Upcoming Events
+ - [https://tickets.renolittletheater.org](https://tickets.renolittletheater.org)
+ - date_published: 2024-05-08T09:31:06.181024+00:00
+
+ ## HOME | Reno Little Theater
+ - [https://www.renolittletheater.org](https://www.renolittletheater.org)
+ - date_published: 2024-07-07T05:16:26.112743+00:00
+
+ ## Ren'Py Games List
+ - [https://games.renpy.org](https://games.renpy.org)
+ - date_published: 2024-07-04T07:10:11.864008+00:00
+
+ ## The Ren'Py Visual Novel Engine
+ - [https://renpy.org](https://renpy.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+ - tags: ['video game engine']
+
+ ## Rentry.co - Markdown Paste Service
+ - [https://rentry.org](https://rentry.org)
+ - date_published: 2024-05-06T15:10:41.802770+00:00
+
+ ## Alabama Right to Repair
+ - [https://alabama.repair.org](https://alabama.repair.org)
+ - date_published: 2024-07-17T22:34:26.662251+00:00
+
+ ## Alaska Right to Repair
+ - [https://alaska.repair.org](https://alaska.repair.org)
+ - date_published: 2024-07-17T22:34:14.708915+00:00
+
+ ## Arizona Right to Repair
+ - [https://arizona.repair.org](https://arizona.repair.org)
+ - date_published: 2024-07-17T22:35:11.316368+00:00
+
+ ## Arkansas Right to Repair
+ - [https://arkansas.repair.org](https://arkansas.repair.org)
+ - date_published: 2024-07-17T22:34:17.769576+00:00
+
+ ## Connecticut Right to Repair
+ - [https://connecticut.repair.org](https://connecticut.repair.org)
+ - date_published: 2024-07-17T22:34:09.348229+00:00
+
+ ## Delaware Right to Repair
+ - [https://delaware.repair.org](https://delaware.repair.org)
+ - date_published: 2024-07-17T22:34:38.232483+00:00
+
+ ## Florida Right to Repair
+ - [https://florida.repair.org](https://florida.repair.org)
+ - date_published: 2024-07-17T22:34:55.484824+00:00
+
+ ## Georgia Right to Repair
+ - [https://georgia.repair.org](https://georgia.repair.org)
+ - date_published: 2024-07-17T22:34:03.540192+00:00
+
+ ## Hawaii Right to Repair
+ - [https://hawaii.repair.org](https://hawaii.repair.org)
+ - date_published: 2024-07-17T22:34:57.850606+00:00
+
+ ## Idaho Right to Repair
+ - [https://idaho.repair.org](https://idaho.repair.org)
+ - date_published: 2024-07-17T22:34:32.591966+00:00
+
+ ## Illinois Right to Repair
+ - [https://illinois.repair.org](https://illinois.repair.org)
+ - date_published: 2024-07-17T22:34:25.486308+00:00
+
+ ## Indiana Right to Repair
+ - [https://indiana.repair.org](https://indiana.repair.org)
+ - date_published: 2024-07-17T22:34:05.036480+00:00
+
+ ## Iowa Right to Repair
+ - [https://iowa.repair.org](https://iowa.repair.org)
+ - date_published: 2024-07-17T22:35:03.496571+00:00
+
+ ## Kansas Right to Repair
+ - [https://kansas.repair.org](https://kansas.repair.org)
+ - date_published: 2024-07-17T22:34:30.217963+00:00
+
+ ## Kentucky Right to Repair
+ - [https://kentucky.repair.org](https://kentucky.repair.org)
+ - date_published: 2024-07-17T22:34:36.567571+00:00
+
+ ## Louisiana Right to Repair
+ - [https://louisiana.repair.org](https://louisiana.repair.org)
+ - date_published: 2024-07-17T22:34:07.216914+00:00
+
+ ## Maryland Right to Repair
+ - [https://maryland.repair.org](https://maryland.repair.org)
+ - date_published: 2024-07-17T22:34:13.501759+00:00
+
+ ## Massachusetts Right to Repair
+ - [https://massachusetts.repair.org](https://massachusetts.repair.org)
+ - date_published: 2024-07-17T22:34:22.372027+00:00
+
+ ## Michigan Right to Repair
+ - [https://michigan.repair.org](https://michigan.repair.org)
+ - date_published: 2024-07-17T22:34:54.386552+00:00
+
+ ## Mississippi Right to Repair
+ - [https://mississippi.repair.org](https://mississippi.repair.org)
+ - date_published: 2024-07-17T22:34:41.585907+00:00
+
+ ## Missouri Right to Repair
+ - [https://missouri.repair.org](https://missouri.repair.org)
+ - date_published: 2024-07-17T22:34:24.457113+00:00
+
+ ## Montana Right to Repair
+ - [https://montana.repair.org](https://montana.repair.org)
+ - date_published: 2024-07-17T22:34:23.528855+00:00
+
+ ## Nebraska Right to Repair
+ - [https://nebraska.repair.org](https://nebraska.repair.org)
+ - date_published: 2024-07-17T22:35:09.322704+00:00
+
+ ## Nevada Right to Repair
+ - [https://nevada.repair.org](https://nevada.repair.org)
+ - date_published: 2024-07-17T22:35:04.545055+00:00
+
+ ## New Hampshire Right to Repair
+ - [https://newhampshire.repair.org](https://newhampshire.repair.org)
+ - date_published: 2024-07-17T22:34:35.388815+00:00
+
+ ## New Jersey Right to Repair
+ - [https://newjersey.repair.org](https://newjersey.repair.org)
+ - date_published: 2024-07-17T22:34:39.382500+00:00
+
+ ## New Mexico Right to Repair
+ - [https://newmexico.repair.org](https://newmexico.repair.org)
+ - date_published: 2024-07-17T22:35:08.388720+00:00
+
+ ## North Carolina Right to Repair
+ - [https://northcarolina.repair.org](https://northcarolina.repair.org)
+ - date_published: 2024-07-17T22:34:16.513104+00:00
+
+ ## North Dakota Right to Repair
+ - [https://northdakota.repair.org](https://northdakota.repair.org)
+ - date_published: 2024-07-17T22:34:40.400336+00:00
+
+ ## Ohio Right to Repair
+ - [https://ohio.repair.org](https://ohio.repair.org)
+ - date_published: 2024-07-17T22:34:08.180140+00:00
+
+ ## Oklahoma Right to Repair
+ - [https://oklahoma.repair.org](https://oklahoma.repair.org)
+ - date_published: 2024-07-17T22:34:31.441386+00:00
+
+ ## Pennsylvania Right to Repair
+ - [https://pennsylvania.repair.org](https://pennsylvania.repair.org)
+ - date_published: 2024-07-17T22:35:07.053521+00:00
+
+ ## The Repair Association
+ - [https://repair.org](https://repair.org)
+ - date_published: 2024-07-17T20:34:21+00:00
+ - tags: ['right to repair']
+
+ ## Rhode Island Right to Repair
+ - [https://rhodeisland.repair.org](https://rhodeisland.repair.org)
+ - date_published: 2024-07-17T22:34:34.357230+00:00
+
+ ## South Carolina Right to Repair
+ - [https://southcarolina.repair.org](https://southcarolina.repair.org)
+ - date_published: 2024-07-17T22:34:53.123422+00:00
+
+ ## South Dakota Right to Repair
+ - [https://southdakota.repair.org](https://southdakota.repair.org)
+ - date_published: 2024-07-17T22:35:02.224719+00:00
+
+ ## Tennessee Right to Repair
+ - [https://tennessee.repair.org](https://tennessee.repair.org)
+ - date_published: 2024-07-17T22:34:56.681530+00:00
+
+ ## Texas Right to Repair
+ - [https://texas.repair.org](https://texas.repair.org)
+ - date_published: 2024-07-17T22:34:18.916763+00:00
+
+ ## Utah Right to Repair
+ - [https://utah.repair.org](https://utah.repair.org)
+ - date_published: 2024-07-17T22:35:10.440329+00:00
+
+ ## Vermont Right to Repair
+ - [https://vermont.repair.org](https://vermont.repair.org)
+ - date_published: 2024-07-17T22:34:19.838517+00:00
+
+ ## Virginia Right to Repair
+ - [https://virginia.repair.org](https://virginia.repair.org)
+ - date_published: 2024-07-17T22:34:29.263135+00:00
+
+ ## Washington Right to Repair
+ - [https://washington.repair.org](https://washington.repair.org)
+ - date_published: 2024-07-17T22:35:06.066437+00:00
+
+ ## The Repair Association
+ - [https://web.repair.org](https://web.repair.org)
+ - date_published: 2024-07-17T22:34:59.739573+00:00
+
+ ## West Virginia Right to Repair
+ - [https://westvirginia.repair.org](https://westvirginia.repair.org)
+ - date_published: 2024-07-17T22:34:21.365675+00:00
+
+ ## Wisconsin Right to Repair
+ - [https://wisconsin.repair.org](https://wisconsin.repair.org)
+ - date_published: 2024-07-17T22:34:06.025248+00:00
+
+ ## Wyoming Right to Repair
+ - [https://wyoming.repair.org](https://wyoming.repair.org)
+ - date_published: 2024-07-17T22:34:28.259780+00:00
+
+ ## Repair Café - Fixing Together, Worldwide
+ - [https://repaircafe.org](https://repaircafe.org)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Sci.Electronics.Repair FAQ: Home Page
+ - [https://www.repairfaq.org](https://www.repairfaq.org)
+ - date_published: 2022-09-18T19:08:54+00:00
+
+ ## Dashboard Repairmonitor
+ - [https://dashboard.repairmonitor.org](https://dashboard.repairmonitor.org)
+ - date_published: 2023-10-04T08:29:51+00:00
+
+ ## Home - RePaper
+ - [http://repaper.org](http://repaper.org)
+ - date_published: 2024-09-04T03:42:35.476802+00:00
+
+ ## Economics and Finance Research | IDEAS/RePEc
+ - [https://ideas.repec.org](https://ideas.repec.org)
+ - date_published: 2024-06-28T12:57:00.063959+00:00
+
+ ## RePEc: Research Papers in Economics
+ - [http://repec.org](http://repec.org)
+ - date_published: 2024-01-01T20:18:53+00:00
+
+ ## Replate | Your Trusted Food Donation Platform
+ - [https://www.re-plate.org](https://www.re-plate.org)
+ - date_published: 2024-05-21T02:49:03.305678+00:00
+
+ ## Replate Blog
+ - [https://blog.replate.org](https://blog.replate.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Replate | Your Trusted Food Donation Platform
+ - [https://www.replate.org](https://www.replate.org)
+ - date_published: 2024-07-20T16:39:33.397673+00:00
+
+ ## Repology
+ - [https://repology.org](https://repology.org)
+ - date_published: 2024-04-28T03:46:29.646249+00:00
+
+ ## Reporterfabrik – Webakademie des Journalismus
+ - [http://reporterfabrik.org](http://reporterfabrik.org)
+ - date_published: 2024-06-17T11:26:49.303096+00:00
+
+ ## Home - Duke Reporters' Lab
+ - [https://reporterslab.org](https://reporterslab.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## The Reporter's Notebook
+ - [https://reportersnotebook.org](https://reportersnotebook.org)
+ - date_published: 2024-07-02T21:15:53+00:00
+
+ ## Home Page - Report for America
+ - [https://images.reportforamerica.org](https://images.reportforamerica.org)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home Page - Report for America
+ - [https://reportforamerica.org](https://reportforamerica.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Show HN: Report Phone Spam – Shut down robocallers and text spammers
+ - [https://reportphonespam.org](https://reportphonespam.org)
+ - date_published: 2023-12-03T14:49:51+00:00
+
+ ## Index of /
+ - [http://repoze.org](http://repoze.org)
+ - date_published: 2022-12-26T00:00:00+00:00
+
+ ## RepRap - RepRap
+ - [https://reprap.org](https://reprap.org)
+ - date_published: 2024-05-09T04:24:26.988106+00:00
+
+ ## RRF Config Tool
+ - [https://configtool.reprapfirmware.org](https://configtool.reprapfirmware.org)
+ - date_published: 2024-06-27T21:08:16+00:00
+
+ ## RepresentWomen
+ - [https://www.representwomen.org](https://www.representwomen.org)
+ - date_published: 2024-06-30T11:10:06.104163+00:00
+
+ ## re.press
+ - [http://www.re-press.org](http://www.re-press.org)
+ - date_published: 2024-06-30T04:29:06.180157+00:00
+
+ ## Institute for Reproducible Research
+ - [https://reproducibilityinstitute.org](https://reproducibilityinstitute.org)
+ - date_published: 2024-05-01T02:10:52.023511+00:00
+
+ ## lists.reproducible-builds.org Mailing Lists
+ - [https://lists.reproducible-builds.org](https://lists.reproducible-builds.org)
+ - date_published: 2024-06-30T02:18:34.432418+00:00
+
+ ## Reproducible Builds — a set of software development practices that create an independently-verifiable path from source to binary code
+ - [https://reproducible-builds.org](https://reproducible-builds.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Continuous tests — reproducible-builds.org
+ - [https://tests.reproducible-builds.org](https://tests.reproducible-builds.org)
+ - date_published: 2024-05-08T08:49:55.898909+00:00
+
+ ## Center for Reproductive Rights
+ - [https://reproductiverights.org](https://reproductiverights.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Repta | Repta UK
+ - [https://repta.org](https://repta.org)
+ - date_published: 2024-06-24T05:21:38.440883+00:00
+
+ ## News
+ - [http://republicancommunist.org](http://republicancommunist.org)
+ - date_published: 2022-11-21T19:16:17+00:00
+
+ ## Republic Broadcasting Network
+ - [https://republicbroadcasting.org](https://republicbroadcasting.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Republic Broadcasting Network – Real News Real Talk Real People
+ - [http://republicbroadcastingarchives.org](http://republicbroadcastingarchives.org)
+ - date_published: 2024-06-17T11:32:55.859274+00:00
+
+ ## Republic Broadcasting Network – Real News Real Talk Real People
+ - [https://www.republicbroadcastingarchives.org](https://www.republicbroadcastingarchives.org)
+ - date_published: 2024-06-17T11:32:58.110259+00:00
+
+ ## Republic Report
+ - [https://republicreport.org](https://republicreport.org)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## RequireJS
+ - [https://requirejs.org](https://requirejs.org)
+ - date_published: 2024-04-30T02:45:21.300473+00:00
+
+ ## Res Artis: Worldwide Network of Arts Residencies
+ - [http://www.resartis.org](http://www.resartis.org)
+ - date_published: 2015-10-17T22:25:43+00:00
+
+ ## ReScript Forum
+ - [https://forum.rescript-lang.org](https://forum.rescript-lang.org)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## The ReScript Programming Language
+ - [https://rescript-lang.org](https://rescript-lang.org)
+ - date_published: 2024-06-23T06:16:44.765410+00:00
+
+ ## Research and Innovation
+ - [https://airbel.rescue.org](https://airbel.rescue.org)
+ - date_published: 2024-01-17T00:00:00+00:00
 

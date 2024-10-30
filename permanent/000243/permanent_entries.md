@@ -1,298 +1,3 @@
- ## Document
- - [https://blog.hugos29.dev](https://blog.hugos29.dev)
- - date_published: 2021-10-24T06:06:16+00:00
-
- ## Untitled - Manim Web
- - [https://manim-web.hugos29.dev](https://manim-web.hugos29.dev)
- - date_published: 2022-02-08T16:34:04+00:00
-
- ## Outsource Squarespace & Shopify development.
- - [https://hulo.dev](https://hulo.dev)
- - date_published: 2024-06-03T14:38:55+00:00
-
- ## Portfolio | Hunter Jennings
- - [https://www.hunterjennings.dev](https://www.hunterjennings.dev)
- - date_published: 2024-06-23T04:02:21.786172+00:00
-
- ## Hurl - Run and Test HTTP Requests
- - [https://hurl.dev](https://hurl.dev)
- - date_published: 2023-10-25T18:38:27.301484+00:00
-
- ## Wilson Husin
- - [https://husin.dev](https://husin.dev)
- - date_published: 2024-04-06T13:22:27.195376+00:00
-
- ## Héctor Valls: Sr. Software Engineer
- - [https://hvalls.dev](https://hvalls.dev)
- - date_published: 2024-06-01T05:04:30.405585+00:00
- - tags: ['personal']
-
- ## Home Page
- - [https://hybras.dev](https://hybras.dev)
- - date_published: 2024-07-06T01:29:13+00:00
-
- ## hyper.dev · hyper.dev @ well come
- - [https://hyper.dev](https://hyper.dev)
- - date_published: 2024-04-30T20:11:49+00:00
-
- ## Hyperledger Foundation
- - [https://hyperledger.dev](https://hyperledger.dev)
- - date_published: 2023-08-16T15:51:41+00:00
-
- ## Free Open Source Tailwind CSS Components | HyperUI
- - [https://hyperui.dev](https://hyperui.dev)
- - date_published: 2024-07-10T13:03:05+00:00
- - tags: ['tailwind', 'css']
-
- ## Code Examples and Guides of Functionality with Alpine JS | HyperJS
- - [https://js.hyperui.dev](https://js.hyperui.dev)
- - date_published: 2024-04-29T07:47:29.458745+00:00
-
- ## PDF debugger
- - [https://pdf.hyzyla.dev](https://pdf.hyzyla.dev)
- - date_published: 2023-10-25T18:38:28.976599+00:00
-
- ## I-330 : Home
- - [https://i330.dev](https://i330.dev)
- - date_published: 2024-05-06T15:04:30.374354+00:00
-
- ## I-330 - Главная
- - [https://ru.i330.dev](https://ru.i330.dev)
- - date_published: 2023-01-24T00:00:00+00:00
-
- ## iAgosto Blog
- - [https://blog.iagosto.dev](https://blog.iagosto.dev)
- - date_published: 2024-04-28T06:12:08.260379+00:00
-
- ## Hey, I'm Matt Burns
- - [https://iammattburns.dev](https://iammattburns.dev)
- - date_published: 2024-05-11T10:06:11.130385+00:00
-
- ## Ian Briggs
- - [https://ianbriggs.dev](https://ianbriggs.dev)
- - date_published: 2023-10-16T16:09:51+00:00
-
- ## Ian Walter
- - [https://ianwalter.dev](https://ianwalter.dev)
- - date_published: 2023-01-15T20:30:17+00:00
-
- ## Prisa Media Chile
- - [https://api.iarc.dev](https://api.iarc.dev)
- - date_published: 2024-04-08T19:12:49+00:00
-
- ## Prisa Media Chile
- - [https://recursos.iarc.dev](https://recursos.iarc.dev)
- - date_published: 2024-04-08T19:12:49+00:00
-
- ## IBC | Home
- - [https://ibcprotocol.dev](https://ibcprotocol.dev)
- - date_published: 2024-08-07T19:00:17.094895+00:00
-
- ## iceshrimp
- - [https://iceshrimp.dev](https://iceshrimp.dev)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## ides.dev
- - [https://ides.dev](https://ides.dev)
- - date_published: 2024-06-16T18:08:25.161068+00:00
- - tags: ['personal']
-
- ## Project IDX
- - [https://idx.dev](https://idx.dev)
- - date_published: 2023-10-25T18:38:29.860040+00:00
-
- ## Release-plz Rust crate | Release-plz
- - [https://release-plz.ieni.dev](https://release-plz.ieni.dev)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Get better at JavaScript - IJSJES
- - [https://ijsjes.dev](https://ijsjes.dev)
- - date_published: 2022-08-26T00:00:00+00:00
-
- ## Gamedev Guide
- - [https://ikrima.dev](https://ikrima.dev)
- - date_published: 2023-10-25T18:38:36.586289+00:00
-
- ## ilert REST API Documentation
- - [https://api.ilert.dev](https://api.ilert.dev)
- - date_published: 2024-09-03T17:00:09+00:00
-
- ## Illustrated.dev
- - [https://illustrated.dev](https://illustrated.dev)
- - date_published: 2024-05-06T13:35:15.423259+00:00
-
- ## ImageTool
- - [https://imagetool.dev](https://imagetool.dev)
- - date_published: 2024-09-02T09:48:21.773634+00:00
-
- ## Daniel Imfeld
- - [https://imfeld.dev](https://imfeld.dev)
- - date_published: 2023-10-25T08:58:35.606412+00:00
- - tags: ['personal']
-
- ## Immersive Web Developer Home
- - [https://immersiveweb.dev](https://immersiveweb.dev)
- - date_published: 2023-10-25T18:38:38.836353+00:00
-
- ## Imre Csige's Digital Garden
- - [https://imrecsige.dev](https://imrecsige.dev)
- - date_published: 2023-12-12T04:53:12.747632+00:00
- - tags: ['personal']
-
- ## Home | InAppWebView
- - [https://inappwebview.dev](https://inappwebview.dev)
- - date_published: 2024-09-02T11:00:47.909977+00:00
-
- ## Incidental - Open source incident management
- - [https://incidental.dev](https://incidental.dev)
- - date_published: 2024-07-08T16:21:46.772061+00:00
-
- ## includeJS - learning JavaScript - includeJS
- - [https://includejs.dev](https://includejs.dev)
- - date_published: 2024-05-11T10:17:22.645152+00:00
-
- ## indepth.dev
- - [http://indepth.dev](http://indepth.dev)
- - date_published: 2024-10-20T08:08:35.370174+00:00
-
- ## https://indiebackers.dev
- - [https://indiebackers.dev](https://indiebackers.dev)
- - date_published: 2024-01-16T11:11:45.517650+00:00
-
- ## Infrastructure Engineering
- - [https://infraeng.dev](https://infraeng.dev)
- - date_published: 2023-02-20T20:41:23+00:00
-
- ## Inkubator.dev
- - [https://inkubator.dev](https://inkubator.dev)
- - date_published: 2024-07-18T23:14:08.484094+00:00
-
- ## inlets Pro
- - [https://inlets.dev](https://inlets.dev)
- - date_published: 2024-06-18T13:20:05+00:00
-
- ## Inspector
- - [https://app.inspector.dev](https://app.inspector.dev)
- - date_published: 2024-06-21T09:27:53.230776+00:00
-
- ## Introduction | Inspector
- - [https://docs.inspector.dev](https://docs.inspector.dev)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Inspector - Code Execution Monitoring, built for developers
- - [https://inspector.dev](https://inspector.dev)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Inspector status
- - [https://status.inspector.dev](https://status.inspector.dev)
- - date_published: 2024-06-21T09:27:50.916543+00:00
-
- ## InstantDB: The Realtime Client-Side Database
- - [https://instantdb.dev](https://instantdb.dev)
- - date_published: 2024-05-06T12:58:54.959410+00:00
-
- ## Internet Development Studio
- - [https://internet.dev](https://internet.dev)
- - date_published: 2024-07-09T19:28:38.039602+00:00
-
- ## nextjs-sass-starter
- - [https://wireframes.internet.dev](https://wireframes.internet.dev)
- - date_published: 2024-07-09T19:28:29.325062+00:00
-
- ## The Intlify World
- - [https://blog.intlify.dev](https://blog.intlify.dev)
- - date_published: 2024-09-04T15:00:31.903370+00:00
-
- ## Nobody5050 | Homepage
- - [https://6502.is-a.dev](https://6502.is-a.dev)
- - date_published: 2022-12-04T07:48:11+00:00
-
- ## aura
- - [https://aura.is-a.dev](https://aura.is-a.dev)
- - date_published: 2024-10-22T22:01:22.493082+00:00
-
- ## AutumnVN
- - [https://chino.is-a.dev](https://chino.is-a.dev)
- - date_published: 2024-06-14T14:48:15.839874+00:00
-
- ## DemonKingSwarn: Gamer, Programmer, YouTuber - demonkingswarn.is-a.dev
- - [https://demonkingswarn.is-a.dev](https://demonkingswarn.is-a.dev)
- - date_published: 2024-05-20T18:18:55.544611+00:00
-
- ## GicoRada homepage - IT
- - [https://gicorada.is-a.dev](https://gicorada.is-a.dev)
- - date_published: 2024-07-22T11:48:15.227160+00:00
-
- ## kc's webbed page
- - [https://hatkidchan.is-a.dev](https://hatkidchan.is-a.dev)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Selvakumaran Krishnan - Software Engineer
- - [https://selvakumaran.is-a.dev](https://selvakumaran.is-a.dev)
- - date_published: 2024-07-07T07:55:19+00:00
-
- ## Swastik Baranwal
- - [https://swastik.is-a.dev](https://swastik.is-a.dev)
- - date_published: 2024-06-16T20:12:02+00:00
-
- ## Isaac Miller's Blog
- - [https://blog.isaacmiller.dev](https://blog.isaacmiller.dev)
- - date_published: 2024-08-10T00:00:00+00:00
-
- ## ✌🏾 | Isaiah Smith
- - [https://www.isaiahsmith.dev](https://www.isaiahsmith.dev)
- - date_published: 2024-08-19T17:52:02.580682+00:00
-
- ## Neo Void
- - [https://neovoid.is-cool.dev](https://neovoid.is-cool.dev)
- - date_published: 2024-08-05T15:37:09.657314+00:00
- - tags: ['personal']
-
- ## Isograph, the UI framework for teams that move fast without breaking things | Isograph
- - [https://isograph.dev](https://isograph.dev)
- - date_published: 2024-08-06T03:23:21+00:00
-
- ## Home
- - [https://isub.dev](https://isub.dev)
- - date_published: 2024-07-23T23:34:06.010031+00:00
-
- ## itty.dev - itty.dev
- - [https://itty.dev](https://itty.dev)
- - date_published: 2024-06-23T03:51:00.399929+00:00
-
- ## Ivan Lee- Portfolio
- - [https://ivanlee.dev](https://ivanlee.dev)
- - date_published: 2024-04-29T07:41:10.034182+00:00
-
- ## Joachim Ansorg IT-Services
- - [https://lists.j-a.dev](https://lists.j-a.dev)
- - date_published: 2024-07-13T05:00:41.603050+00:00
-
- ## Jace Hensley
- - [https://jacehensley.dev](https://jacehensley.dev)
- - date_published: 2024-05-11T10:20:30.841132+00:00
-
- ## Umami
- - [https://analytics.jackbailey.dev](https://analytics.jackbailey.dev)
- - date_published: 2024-05-14T03:44:36.189390+00:00
-
- ## Jack Bailey
- - [https://jackbailey.dev](https://jackbailey.dev)
- - date_published: 2024-08-08T15:25:37.187883+00:00
-
- ## Developer and Designer Docs | Jack Henry Docs
- - [https://jackhenry.dev](https://jackhenry.dev)
- - date_published: 2024-07-01T18:19:45+00:00
-
- ## Jacob Lamb
- - [https://jacobdalamb.dev](https://jacobdalamb.dev)
- - date_published: 2024-05-11T10:09:08.985251+00:00
-
- ## jahed.dev
- - [https://jahed.dev](https://jahed.dev)
- - date_published: 2023-10-25T08:58:36.253575+00:00
- - tags: ['personal']
-
  ## GitHub - jahed/webverify: Verify Authorship of Webpages. Includes a Web Extension as a proof-of-concept using PGP.
  - [https://webverify.jahed.dev](https://webverify.jahed.dev)
  - date_published: 2024-04-29T07:48:39.613710+00:00
@@ -4078,4 +3783,296 @@
  ## quasarframework/quasar · Discussions
  - [https://forum.quasar.dev](https://forum.quasar.dev)
  - date_published: 2024-07-07T00:00:00+00:00
+
+ ## GitHub - quasarframework/quasar: Quasar Framework - Build high-performance VueJS user interfaces in record time
+ - [https://github.quasar.dev](https://github.quasar.dev)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Quasar Framework - Build high-performance VueJS user interfaces in record time
+ - [https://quasar.dev](https://quasar.dev)
+ - date_published: 2024-05-08T09:01:47.216382+00:00
+
+ ## quasar/ROADMAP.md at dev · quasarframework/quasar
+ - [https://roadmap.quasar.dev](https://roadmap.quasar.dev)
+ - date_published: 2024-07-07T03:07:59.236771+00:00
+
+ ## Easily Self-Host Next.js
+ - [https://quicky.dev](https://quicky.dev)
+ - date_published: 2024-10-17T05:06:59+00:00
+
+ ## Chris James - Learn Go with Tests reaches 20k stars
+ - [https://quii.dev](https://quii.dev)
+ - date_published: 2023-10-25T18:41:02.923807+00:00
+
+ ## https://blog.qwertyforce.dev
+ - [https://blog.qwertyforce.dev](https://blog.qwertyforce.dev)
+ - date_published: 2024-01-09T02:57:33.591668+00:00
+
+ ## Framework reimagined for the edge! 📚 Qwik Documentation
+ - [https://qwik.dev](https://qwik.dev)
+ - date_published: 2024-04-28T02:52:03.847627+00:00
+
+ ## Not Found
+ - [https://pub-02bff1796dd84d2d842f219d10ae945d.r2.dev](https://pub-02bff1796dd84d2d842f219d10ae945d.r2.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Not Found
+ - [https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev](https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev)
+ - date_published: 2024-04-28T03:42:02.922811+00:00
+
+ ## Not Found
+ - [https://pub-d2efe3e17529441382e3a932c9b9deca.r2.dev](https://pub-d2efe3e17529441382e3a932c9b9deca.r2.dev)
+ - date_published: 2024-04-28T03:22:52.753715+00:00
+
+ ## Not Found
+ - [https://pub-deb0055557834ed6ba5dbc2a44e5eaf0.r2.dev](https://pub-deb0055557834ed6ba5dbc2a44e5eaf0.r2.dev)
+ - date_published: 2024-04-29T07:44:13.817159+00:00
+
+ ## Semgrep — Find bugs and enforce code standards
+ - [https://r2c.dev](https://r2c.dev)
+ - date_published: 2023-10-25T18:41:07.216345+00:00
+
+ ## Design & Development Standards, Guidelines, Tools, and Best Practices - Radancy
+ - [https://radancy.dev](https://radancy.dev)
+ - date_published: 2024-06-19T15:02:39+00:00
+
+ ## PostHog
+ - [https://logs.radekmie.dev](https://logs.radekmie.dev)
+ - date_published: 2021-04-29T00:00:00+00:00
+
+ ## @radekmie’s take on IT and stuff
+ - [https://radekmie.dev](https://radekmie.dev)
+ - date_published: 2024-05-04T15:25:55.657035+00:00
+
+ ## Radiki Dev
+ - [https://radiki.dev](https://radiki.dev)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Raed's blog
+ - [https://blog.raed.dev](https://blog.raed.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Opiskelijan työkalupakki Jämsän lukioon
+ - [https://lukio.raikas.dev](https://lukio.raikas.dev)
+ - date_published: 2024-09-04T09:37:25+00:00
+
+ ## LIDLin paistopisteen hintahistoria
+ - [https://paistopiste.raikas.dev](https://paistopiste.raikas.dev)
+ - date_published: 2024-08-12T20:15:32+00:00
+
+ ## Roni Äikäs
+ - [https://raikas.dev](https://raikas.dev)
+ - date_published: 2024-01-12T10:32:49.573822+00:00
+
+ ## <site/>
+ - [https://raju.dev](https://raju.dev)
+ - date_published: 2024-07-09T08:12:47.846635+00:00
+
+ ## Carmen Huidobro
+ - [https://ramonh.dev](https://ramonh.dev)
+ - date_published: 2024-05-07T23:10:50.023509+00:00
+
+ ## Ben Ramsey: Coder, author, & speaker
+ - [https://ben.ramsey.dev](https://ben.ramsey.dev)
+ - date_published: 2024-07-10T04:53:15+00:00
+
+ ## Full-Stack Laravel Developer
+ - [https://randallwilk.dev](https://randallwilk.dev)
+ - date_published: 2024-05-11T10:11:02.621041+00:00
+
+ ## Justin's personal site
+ - [https://randomshit.dev](https://randomshit.dev)
+ - date_published: 2023-10-25T18:41:11.166727+00:00
+ - tags: ['personal']
+
+ ## Home
+ - [https://raptori.dev](https://raptori.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Rasbora.dev
+ - [https://rasbora.dev](https://rasbora.dev)
+ - date_published: 2023-10-25T08:48:56.751019+00:00
+ - tags: ['personal']
+
+ ## Rastrian - Overview
+ - [https://rastrian.dev](https://rastrian.dev)
+ - date_published: 2024-06-22T15:50:24.203961+00:00
+
+ ## Website and Blog
+ - [https://raulmelo.dev](https://raulmelo.dev)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Razorfrog Web Design
+ - [https://vinicius.razorfrog.dev](https://vinicius.razorfrog.dev)
+ - date_published: 2020-07-07T03:42:26+00:00
+
+ ## Ryan's Dev Blog
+ - [https://rbates.dev](https://rbates.dev)
+ - date_published: 2023-10-25T08:58:48.184268+00:00
+ - tags: ['personal']
+
+ ## React
+ - [https://ar.react.dev](https://ar.react.dev)
+ - date_published: 2024-07-14T09:33:37.407368+00:00
+
+ ## React
+ - [https://es.react.dev](https://es.react.dev)
+ - date_published: 2024-07-19T18:16:18.263569+00:00
+
+ ## React
+ - [https://fr.react.dev](https://fr.react.dev)
+ - date_published: 2024-07-19T18:16:22.700509+00:00
+
+ ## React
+ - [https://ja.react.dev](https://ja.react.dev)
+ - date_published: 2024-07-19T18:16:19.959759+00:00
+
+ ## React Compiler Playground
+ - [https://playground.react.dev](https://playground.react.dev)
+ - date_published: 2024-06-23T06:12:18.318179+00:00
+
+ ## React
+ - [https://react.dev](https://react.dev)
+ - date_published: 2023-10-25T18:41:12.872406+00:00
+ - tags: ['javascript library', 'web development library', 'open source']
+
+ ## React
+ - [https://tr.react.dev](https://tr.react.dev)
+ - date_published: 2024-07-19T18:16:21.156593+00:00
+
+ ## React 官方中文文档
+ - [https://zh-hans.react.dev](https://zh-hans.react.dev)
+ - date_published: 2024-07-19T18:16:26.547594+00:00
+
+ ## React Flow Pro
+ - [https://pro.reactflow.dev](https://pro.reactflow.dev)
+ - date_published: 2024-08-18T04:58:54.166133+00:00
+
+ ## Node-Based UIs in React – React Flow
+ - [https://reactflow.dev](https://reactflow.dev)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## React Native · Learn once, write anywhere
+ - [https://reactnative.dev](https://reactnative.dev)
+ - date_published: 2024-05-06T23:18:52.962106+00:00
+
+ ## A React component to view PDF documents - React PDF Viewer
+ - [https://react-pdf-viewer.dev](https://react-pdf-viewer.dev)
+ - date_published: 2024-06-22T23:52:25.262058+00:00
+
+ ## React Spring
+ - [https://react-spring.dev](https://react-spring.dev)
+ - date_published: 2024-05-07T09:35:16.371146+00:00
+
+ ## Topics — RebelMouse API Docs  documentation
+ - [https://apis.rebelmouse.dev](https://apis.rebelmouse.dev)
+ - date_published: 2024-05-22T04:54:01+00:00
+
+ ## Template Runner
+ - [https://tmplrunner.rebelmouse.dev](https://tmplrunner.rebelmouse.dev)
+ - date_published: 2024-05-06T16:26:24.666421+00:00
+
+ ## Home
+ - [https://recaptime.dev](https://recaptime.dev)
+ - date_published: 2024-08-07T23:13:54+00:00
+
+ ## Recompiled
+ - [https://recompiled.dev](https://recompiled.dev)
+ - date_published: 2024-03-26T13:37:41+00:00
+
+ ## ReData
+ - [https://redata.dev](https://redata.dev)
+ - date_published: 2024-08-05T09:12:13+00:00
+
+ ## redbean
+ - [https://redbean.dev](https://redbean.dev)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Refactoring JavaScript: Interactive Course
+ - [https://refactoringjavascript.dev](https://refactoringjavascript.dev)
+ - date_published: 2024-06-27T11:21:43.485933+00:00
+
+ ## JSON Server
+ - [https://api.fake-rest.refine.dev](https://api.fake-rest.refine.dev)
+ - date_published: 2024-08-11T04:06:58+00:00
+
+ ## refine CRM App
+ - [https://example.crm.refine.dev](https://example.crm.refine.dev)
+ - date_published: 2024-04-30T02:12:33.145447+00:00
+
+ ## refine | Build your React-based CRUD applications, without constraints! | refine
+ - [https://refine.dev](https://refine.dev)
+ - date_published: 2023-10-25T18:41:19.334120+00:00
+
+ ## GitHub - refinedev/refine: A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+ - [https://s.refine.dev](https://s.refine.dev)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## refine Store | Show Your Support Proudly
+ - [https://store.refine.dev](https://store.refine.dev)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Reflex · Web apps in Pure Python
+ - [https://reflex.dev](https://reflex.dev)
+ - date_published: 2024-03-22T20:49:47.677432+00:00
+
+ ## magic-regexp - A RegExp alternative
+ - [http://regexp.dev](http://regexp.dev)
+ - date_published: 2024-06-23T08:31:07.668961+00:00
+
+ ## RelaGit
+ - [https://rela.dev](https://rela.dev)
+ - date_published: 2024-05-09T09:14:53.762708+00:00
+
+ ## Status Page
+ - [https://status.rela.dev](https://status.rela.dev)
+ - date_published: 2024-07-10T11:02:41+00:00
+
+ ## Relay
+ - [https://relay.dev](https://relay.dev)
+ - date_published: 2024-05-06T13:33:58.620095+00:00
+
+ ## AI-powered release notes generator
+ - [https://www.releasesnotes.dev](https://www.releasesnotes.dev)
+ - date_published: 2024-06-19T19:06:34.564702+00:00
+
+ ## Remotion | Make videos programmatically in React
+ - [https://remotion.dev](https://remotion.dev)
+ - date_published: 2024-04-30T02:12:44.863470+00:00
+
+ ## Renaissance Suite, a benchmark suite for the JVM
+ - [https://renaissance.dev](https://renaissance.dev)
+ - date_published: 2024-04-29T06:28:52.582496+00:00
+
+ ## Join the replicache Discord Server!
+ - [https://discord.replicache.dev](https://discord.replicache.dev)
+ - date_published: 2024-07-18T18:14:05+00:00
+
+ ## Introduction | Replicache Docs
+ - [https://doc.replicache.dev](https://doc.replicache.dev)
+ - date_published: 2024-07-22T17:17:55.342579+00:00
+
+ ## Replicache: Framework for local-first web apps.
+ - [https://replicache.dev](https://replicache.dev)
+ - date_published: 2024-04-30T00:29:55.203329+00:00
+
+ ## SDXL – A settings guide by Replicate
+ - [https://sdxl.replicate.dev](https://sdxl.replicate.dev)
+ - date_published: 2023-10-25T18:41:20.011892+00:00
+
+ ## Zoo
+ - [https://zoo.replicate.dev](https://zoo.replicate.dev)
+ - date_published: 2024-08-18T13:09:13.830367+00:00
+
+ ## Reprompt - Prompt testing made simple
+ - [https://reprompt.dev](https://reprompt.dev)
+ - date_published: 2023-04-11T00:00:00+00:00
+
+ ## ReSheet
+ - [https://resheet.dev](https://resheet.dev)
+ - date_published: 2024-06-03T16:09:21+00:00
+
+ ## ReSkin: versatile, replaceable, lasting tactile skins
+ - [https://reskin.dev](https://reskin.dev)
+ - date_published: 2022-04-05T15:46:04+00:00
 

@@ -1,201 +1,3 @@
- ## Michael Dresser’s blog
- - [https://blog.michaelmdresser.com](https://blog.michaelmdresser.com)
- - date_published: 2023-03-11T00:00:00+00:00
-
- ## Michael Dresser
- - [https://michaelmdresser.com](https://michaelmdresser.com)
- - date_published: 2024-02-04T04:08:25+00:00
-
- ## The Michael Medved Show - America's #1 Show on Pop Culture and Politics
- - [https://michaelmedved.com](https://michaelmedved.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Michael Michelini's Office: Cross Border Ecommerce & Digital Marketing
- - [https://www.michaelmichelini.com](https://www.michaelmichelini.com)
- - date_published: 2024-08-18T03:55:17.629573+00:00
-
- ## michael miller jr.
- - [https://www.michaelmillerjr.com](https://www.michaelmillerjr.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Michael Mohan
- - [http://michaelmohan.com](http://michaelmohan.com)
- - date_published: 2024-10-14T17:51:15.321245+00:00
-
- ## Michael Moncur's Professional Information Page
- - [http://www.michaelmoncur.com](http://www.michaelmoncur.com)
- - date_published: 2024-06-18T07:27:29.915374+00:00
-
- ## Michael Moore | Substack
- - [https://www.michaelmoore.com](https://www.michaelmoore.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Michael C. Munger - Professor at Duke University
- - [http://www.michaelmunger.com](http://www.michaelmunger.com)
- - date_published: 2019-08-12T20:06:46+00:00
-
- ## Home
- - [https://michaelneuper.com](https://michaelneuper.com)
- - date_published: 2024-08-18T07:13:51.819163+00:00
-
- ## Michael's Notebook
- - [https://michaelnotebook.com](https://michaelnotebook.com)
- - date_published: 2023-10-25T08:47:16.324263+00:00
- - tags: ['personal']
-
- ## Michael Thiessen - Vue Teacher
- - [http://michaelnthiessen.com](http://michaelnthiessen.com)
- - date_published: 2024-09-04T14:58:40.085006+00:00
-
- ## Wide Awake Developers
- - [https://michaelnygard.com](https://michaelnygard.com)
- - date_published: 2023-10-25T16:02:49.444422+00:00
-
- ## Situs Judi Sbobet Slot Online Indonesia Agen Slot Terpercaya - michael "oc" clarke
- - [http://michaelocc.com](http://michaelocc.com)
- - date_published: 2024-08-06T09:08:42.000919+00:00
-
- ## michaeloglesby.com
- - [https://www.michaeloglesby.com](https://www.michaeloglesby.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Michael Pagán
- - [https://www.michaelpaganmusic.com](https://www.michaelpaganmusic.com)
- - date_published: 2023-11-09T18:07:31+00:00
-
- ## Michael Patrick Leahy | Home
- - [https://michaelpatrickleahy.com](https://michaelpatrickleahy.com)
- - date_published: 2024-07-07T08:50:51.055443+00:00
-
- ## Advertising and Editorial Photographer Michael Pierce
- - [http://www.michaelpiercephotography.com](http://www.michaelpiercephotography.com)
- - date_published: 2024-07-07T05:14:05.969568+00:00
-
- ## Michael Peyton Jones
- - [https://www.michaelpj.com](https://www.michaelpj.com)
- - date_published: 2024-09-07T22:09:43.777424+00:00
- - tags: ['personal']
-
- ## Home - Michael Pollan
- - [http://michaelpollan.com](http://michaelpollan.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Michael P. Ramirez
- - [http://www.michaelpramirez.com](http://www.michaelpramirez.com)
- - date_published: 2024-07-02T22:00:07+00:00
-
- ## The New Normal | Michael P Senger | Substack
- - [https://www.michaelpsenger.com](https://www.michaelpsenger.com)
- - date_published: 2023-11-01T08:41:20.462876+00:00
-
- ## Michael Rambeau • Fullstack engineer in Osaka
- - [https://michaelrambeau.com](https://michaelrambeau.com)
- - date_published: 2024-05-08T09:01:16.048990+00:00
-
- ## Hi there 👋
- - [https://michaelrbock.com](https://michaelrbock.com)
- - date_published: 2023-11-27T02:29:51+00:00
- - tags: ['personal']
-
- ## Tea's Blog
- - [https://blog.michaelrbparker.com](https://blog.michaelrbparker.com)
- - date_published: 2024-10-05T22:12:28.113040+00:00
-
- ## Michael Relth
- - [http://www.michaelrelth.com](http://www.michaelrelth.com)
- - date_published: 2024-06-21T19:59:25.977815+00:00
-
- ## Michael Rog: code, for humans
- - [https://michaelrog.com](https://michaelrog.com)
- - date_published: 2024-04-04T01:11:50+00:00
-
- ## Michael Rose - Author, Writer, Journalist
- - [http://michaelrosemedia.com](http://michaelrosemedia.com)
- - date_published: 2016-01-26T02:35:59+00:00
-
- ## Michael Piper, LLC
- - [https://michaelrpiper.com](https://michaelrpiper.com)
- - date_published: 2024-08-19T06:49:03.912833+00:00
-
- ## A counterintuitive method to ensure 2023 is your most fun year ever.
- - [https://michaelrucker.com](https://michaelrucker.com)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Michael Rundell - linguist and lexicographer - Michael Rundell
- - [https://michaelrundell.com](https://michaelrundell.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Michael Samsel Therapist Seattle
- - [https://michaelsamsel.com](https://michaelsamsel.com)
- - date_published: 2022-11-26T23:18:05+00:00
-
- ## Michael Schindhelm
- - [http://michaelschindhelm.com](http://michaelschindhelm.com)
- - date_published: 2024-07-13T15:17:38.709311+00:00
-
- ## Michael Schulte | Die neue Single &quot;Beautiful Reason&quot; | Jetzt streamen!
- - [https://www.michaelschulte-music.com](https://www.michaelschulte-music.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## The Official Michael-Scott Earle Book Store
- - [https://michaelscottearle.com](https://michaelscottearle.com)
- - date_published: 2024-07-17T08:22:17.187740+00:00
-
- ## Michael Hoffman
- - [https://michaelshoffman.com](https://michaelshoffman.com)
- - date_published: 2024-09-14T23:23:50.511501+00:00
-
- ## Michael Sliwinski
- - [http://michaelsliwinski.com](http://michaelsliwinski.com)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Michael Staake
- - [https://michaelstaake.com](https://michaelstaake.com)
- - date_published: 2024-06-13T12:47:28+00:00
- - tags: ['personal']
-
- ## Home - Michael J. Totten
- - [https://michaeltotten.com](https://michaeltotten.com)
- - date_published: 2023-06-15T00:00:00+00:00
-
- ## Home - Michael J. Totten
- - [http://www.michaeltotten.com](http://www.michaeltotten.com)
- - date_published: 2023-06-15T00:00:00+00:00
-
- ## Michaël Trazzi
- - [https://michaeltrazzi.com](https://michaeltrazzi.com)
- - date_published: 2024-05-08T09:51:50.680055+00:00
- - tags: ['personal', 'cv site']
-
- ## Michael Tunnell
- - [http://michaeltunnell.com](http://michaeltunnell.com)
- - date_published: 2024-07-13T19:31:46.798540+00:00
-
- ## Michael Ulloa | online personal training
- - [https://www.michaelulloa.com](https://www.michaelulloa.com)
- - date_published: 2024-10-21T17:42:22.615070+00:00
-
- ## Michael Uloth
- - [https://michaeluloth.com](https://michaeluloth.com)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Michael Walmer
- - [http://www.michaelwalmer.com](http://www.michaelwalmer.com)
- - date_published: 2024-09-17T17:14:16.245404+00:00
-
- ## Welcome | Michael Welford
- - [https://michaelwelford.com](https://michaelwelford.com)
- - date_published: 2024-02-09T22:00:20.282928+00:00
- - tags: ['personal']
-
- ## The Art of Michael Whelan
- - [https://www.michaelwhelan.com](https://www.michaelwhelan.com)
- - date_published: 2024-09-04T16:09:14.119568+00:00
-
- ## About Me - Michael W Lucas
- - [https://michaelwlucas.com](https://michaelwlucas.com)
- - date_published: 2010-06-02T01:47:19+00:00
-
  ## Michael Yingling
  - [http://michaelyingling.com](http://michaelyingling.com)
  - date_published: 2024-06-29T23:52:42.863102+00:00
@@ -502,10 +304,6 @@
  ## MicroAPL: Code migration for mission-critical applications
  - [http://microapl.com](http://microapl.com)
  - date_published: 2023-05-31T10:07:22+00:00
-
- ## Homepage | Microban24
- - [https://www.microban24.com](https://www.microban24.com)
- - date_published: 2024-06-03T08:35:54+00:00
 
  ## Microbiology Bytes -
  - [http://www.microbiologybytes.com](http://www.microbiologybytes.com)
@@ -4061,4 +3859,202 @@
  ## Minify JavaScript - Free JavaScript Compressor
  - [https://minifyjavascript.com](https://minifyjavascript.com)
  - date_published: 2018-10-14T18:48:16+00:00
+
+ ## mini-itx.com - news
+ - [https://www.mini-itx.com](https://www.mini-itx.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Mini JS
+ - [https://mini-js.com](https://mini-js.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Mini: The Minimal Language
+ - [https://minilanguage.com](https://minilanguage.com)
+ - date_published: 2023-05-29T01:00:34+00:00
+
+ ## minimal changes
+ - [https://minimalchanges.com](https://minimalchanges.com)
+ - date_published: 2023-10-20T00:00:00+00:00
+
+ ## Minimal Desk Setups - The Shop
+ - [https://shop.minimaldesksetups.com](https://shop.minimaldesksetups.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## MNML Golf Bag - Lightweight Tech Inspired Carry Bag
+ - [https://minimalgolf.com](https://minimalgolf.com)
+ - date_published: 2024-09-09T13:57:01.195615+00:00
+
+ ## minimal hn
+ - [http://minimalhn.com](http://minimalhn.com)
+ - date_published: 2018-05-07T22:38:25+00:00
+
+ ## Minimalism Life - Crafting a simpler life with less
+ - [https://minimalism.com](https://minimalism.com)
+ - date_published: 2024-04-29T06:00:29.283782+00:00
+
+ ## Minimalissimo – Minimalism in Design
+ - [https://minimalissimo.com](https://minimalissimo.com)
+ - date_published: 2024-04-29T06:00:31.208891+00:00
+
+ ## Simple Recipes That Make You Feel Good
+ - [https://minimalistbaker.com](https://minimalistbaker.com)
+ - date_published: 2024-10-22T18:29:35.839258+00:00
+
+ ## Minimalist Hustler Daily - Increase Your Online Income
+ - [https://minimalisthustler.com](https://minimalisthustler.com)
+ - date_published: 2024-09-12T16:47:27+00:00
+
+ ## minimalist phone - reduce your screen time
+ - [https://www.minimalistphone.com](https://www.minimalistphone.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Minimates Central
+ - [http://minimatescentral.com](http://minimatescentral.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Minima pixel font | Minimatype
+ - [http://minimatype.com](http://minimatype.com)
+ - date_published: 2020-01-06T19:51:55+00:00
+
+ ## Max Woolf's Blog
+ - [https://minimaxir.com](https://minimaxir.com)
+ - date_published: 2023-10-25T16:04:30.326063+00:00
+
+ ## CareLink™ Personal Software – For People With Diabetes
+ - [https://carelink.minimed.com](https://carelink.minimed.com)
+ - date_published: 2024-07-17T16:53:18+00:00
+
+ ## Mini Misfits
+ - [https://minimisfits.com](https://minimisfits.com)
+ - date_published: 2024-05-01T02:17:10.431139+00:00
+
+ ## Mini Moog Factory
+ - [https://minimoogmodeld.com](https://minimoogmodeld.com)
+ - date_published: 2024-07-09T10:15:50.863906+00:00
+
+ ## Home | Minimum
+ - [https://www.minimum.com](https://www.minimum.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Minimum Competence - Daily Legal News Podcast | Andrew Leahey 🦣 | Substack
+ - [https://www.minimumcomp.com](https://www.minimumcomp.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Homepage - MINING.com - Buyers Guide
+ - [https://buyersguide.mining.com](https://buyersguide.mining.com)
+ - date_published: 2024-08-19T07:42:52.935666+00:00
+
+ ## MINING.COM - No 1 source of global mining news and opinion
+ - [https://mining.com](https://mining.com)
+ - date_published: 2023-10-25T16:04:41.697139+00:00
+
+ ## Registered & Protected by MarkMonitor
+ - [http://linux.miningco.com](http://linux.miningco.com)
+ - date_published: 2023-12-28T20:23:42+00:00
+
+ ## Home
+ - [https://mining-technology.com](https://mining-technology.com)
+ - date_published: 2024-04-28T05:11:18.487039+00:00
+
+ ## Mining the Social Web
+ - [http://miningthesocialweb.com](http://miningthesocialweb.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Forside - Min Investering
+ - [https://mininvestering.com](https://mininvestering.com)
+ - date_published: 2024-09-14T08:33:02.992609+00:00
+
+ ## Minion Masters Official Game Site
+ - [https://minionmastersthegame.com](https://minionmastersthegame.com)
+ - date_published: 2024-04-26T09:11:00+00:00
+
+ ## miniOrange XecureAPI - API Gateway and Security Solutions
+ - [https://apisecurity.miniorange.com](https://apisecurity.miniorange.com)
+ - date_published: 2024-06-07T05:31:01+00:00
+
+ ## Blog • miniOrange
+ - [https://blog.miniorange.com](https://blog.miniorange.com)
+ - date_published: 2024-07-18T06:28:56.425458+00:00
+
+ ## miniOrange Documentation | Home
+ - [https://developers.miniorange.com](https://developers.miniorange.com)
+ - date_published: 2024-08-11T16:50:18.567914+00:00
+
+ ## Never miss out on the latest events by staying connected with us
+ - [https://events.miniorange.com](https://events.miniorange.com)
+ - date_published: 2024-07-18T06:29:07.193530+00:00
+
+ ## Frequently Asked Questions - Knowledge Base - miniOrange
+ - [https://faq.miniorange.com](https://faq.miniorange.com)
+ - date_published: 2024-07-18T06:29:06.189499+00:00
+
+ ## miniOrange forum - Community forum
+ - [https://forum.miniorange.com](https://forum.miniorange.com)
+ - date_published: 2019-03-13T00:00:00+00:00
+
+ ## Identity and Access Management
+ - [https://idp.miniorange.com](https://idp.miniorange.com)
+ - date_published: 2024-07-18T06:28:53.337493+00:00
+
+ ## miniOrange - Secure It Right
+ - [https://miniorange.com](https://miniorange.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Single sign on (SSO) | 2FA | Social Login | Plugins
+ - [https://plugins.miniorange.com](https://plugins.miniorange.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## miniOrange - Secure It Right
+ - [https://security.miniorange.com](https://security.miniorange.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Training Program - miniOrange Training
+ - [https://training.miniorange.com](https://training.miniorange.com)
+ - date_published: 2022-12-09T05:56:15+00:00
+
+ ## NO BULLSHIT TEXTBOOKS
+ - [https://minireference.com](https://minireference.com)
+ - date_published: 2024-06-01T04:51:15.845032+00:00
+ - tags: ['book']
+
+ ## MinisBarter.com - Miniature wargaming marketplace
+ - [https://minisbarter.com](https://minisbarter.com)
+ - date_published: 2023-10-25T11:11:29.320355+00:00
+ - tags: ['tabletop games', 'digital marketplace']
+
+ ## minisforum
+ - [https://minisforum.com](https://minisforum.com)
+ - date_published: 2024-05-20T18:30:58+00:00
+
+ ## Official Refurbished Minisforum
+ - [https://refurbished.minisforum.com](https://refurbished.minisforum.com)
+ - date_published: 2024-07-20T15:15:41.953783+00:00
+
+ ## Minisforum
+ - [https://store.minisforum.com](https://store.minisforum.com)
+ - date_published: 2024-05-20T09:39:29.044773+00:00
+
+ ## MinisGallery
+ - [https://minisgallery.com](https://minisgallery.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## minisocial
+ - [https://minisocial.com](https://minisocial.com)
+ - date_published: 2024-07-09T19:03:44.514098+00:00
+
+ ## Ministry of Testing
+ - [https://www.ministryoftesting.com](https://www.ministryoftesting.com)
+ - date_published: 2024-07-02T20:31:14.407404+00:00
+
+ ## Church Volunteer Scheduling Software | Ministry Scheduler Pro
+ - [https://ministryschedulerpro.com](https://ministryschedulerpro.com)
+ - date_published: 2024-07-01T20:41:51.950112+00:00
+
+ ## Minitab Blog
+ - [https://blog.minitab.com](https://blog.minitab.com)
+ - date_published: 2024-06-16T03:34:20+00:00
+
+ ## Data Analysis, Statistical & Process Improvement Tools | Minitab
+ - [https://info.minitab.com](https://info.minitab.com)
+ - date_published: 2024-05-28T00:00:00+00:00
 

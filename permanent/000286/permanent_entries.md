@@ -1,301 +1,3 @@
- ## עדי באריל - יעוץ תקשורת | יחסי ציבור | adibarill communications
- - [http://barill.co.il](http://barill.co.il)
- - date_published: 2021-04-19T00:00:00+00:00
-
- ## Homepage - Basch Interactive
- - [https://basch.co.il](https://basch.co.il)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## חברת מיתוג, עיצוב אתרים, עיצוב אפליקציה, עיצוב לוגו | בי קריאיישנס
- - [http://www.bee-creations.co.il](http://www.bee-creations.co.il)
- - date_published: 2024-06-28T19:26:37.951507+00:00
-
- ## Attention Required! | Cloudflare
- - [https://bgu4u.co.il](https://bgu4u.co.il)
- - date_published: 2024-05-11T09:09:11.487384+00:00
-
- ## אתר התשלומים של אוניברסיטת בן גוריון
- - [https://bgushops.co.il](https://bgushops.co.il)
- - date_published: 2024-07-14T03:35:16.241000+00:00
-
- ## Bitcoil - Exchange bitcoins for ILS
- - [https://bitcoil.co.il](https://bitcoil.co.il)
- - date_published: 2024-07-14T21:48:55.232851+00:00
-
- ## דלת פתוחה בר אילן
- - [https://www.biuopendoors.co.il](https://www.biuopendoors.co.il)
- - date_published: 2024-08-07T15:14:49.185292+00:00
-
- ## בלוגלי | בלוג, בלוגים בלוגיה
- - [https://muchado.blogli.co.il](https://muchado.blogli.co.il)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Sabine Hossenfelder: Backreaction
- - [http://backreaction.blogspot.co.il](http://backreaction.blogspot.co.il)
- - date_published: 2024-06-30T06:00:00+00:00
-
- ## Condensed concepts
- - [http://condensedconcepts.blogspot.co.il](http://condensedconcepts.blogspot.co.il)
- - date_published: 2024-06-30T07:22:54+00:00
-
- ## עונג שבת (עונ"ש)
- - [http://onegshabbat.blogspot.co.il](http://onegshabbat.blogspot.co.il)
- - date_published: 2024-06-30T09:03:00+00:00
-
- ## Boeing Israel
- - [https://boeing.co.il](https://boeing.co.il)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## BOOSTAPP | מערכת לניהול סטודיו וחדרי כושר -
- - [https://wp.boostapp.co.il](https://wp.boostapp.co.il)
- - date_published: 2024-07-14T03:36:37.305242+00:00
-
- ## הרחבת אחריות בוש | תיאום התקנה | אחריות מורחבת - BOSCH
- - [https://marketing.bosch-home.co.il](https://marketing.bosch-home.co.il)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## מכשירים ביתיים איכותיים ובני קיימא | בוש
- - [https://www.bosch-home.co.il](https://www.bosch-home.co.il)
- - date_published: 2024-06-16T21:36:28.206341+00:00
-
- ## עמוד הבית | Reshef - brother Israel
- - [http://www.brother.co.il](http://www.brother.co.il)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## דף הבית | כלכליסט
- - [https://m.calcalist.co.il](https://m.calcalist.co.il)
- - date_published: 2024-07-01T07:22:31.082293+00:00
-
- ## newmedia.calcalist.co.il
- - [https://newmedia.calcalist.co.il](https://newmedia.calcalist.co.il)
- - date_published: 2023-09-07T09:48:12+00:00
-
- ## קורסים אונליין קצרים, מעניינים ומומלצים מבית כלכליסט - הרצאות מעניינות לעובדים
- - [https://study.calcalist.co.il](https://study.calcalist.co.il)
- - date_published: 2024-07-01T07:22:18.161141+00:00
-
- ## דף הבית | כלכליסט
- - [https://calcalist.co.il](https://calcalist.co.il)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## calcalist-conferences
- - [https://www.calcalist-conferences.co.il](https://www.calcalist-conferences.co.il)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Capterra Israel helps you find the right software for your business
- - [https://www.capterra.co.il](https://www.capterra.co.il)
- - date_published: 2024-07-19T18:05:10.657741+00:00
-
- ## כתום - קידום אתרים ושיווק אינטרנטי כמו שצריך
- - [http://www.catom.co.il](http://www.catom.co.il)
- - date_published: 2024-07-14T03:34:33.730192+00:00
-
- ## Jeep® Israel | ג׳יפ ישראל
- - [https://www.chrysler.co.il](https://www.chrysler.co.il)
- - date_published: 2024-06-19T08:59:30.068763+00:00
-
- ## עמוד ראשי - סינמטק תל אביב
- - [https://www.cinema.co.il](https://www.cinema.co.il)
- - date_published: 2024-09-01T00:00:00+00:00
-
- ## גלו את העולם של סיטרואן מגוון רכבים חדשים למכירה | Citroen Israel
- - [https://citroen.co.il](https://citroen.co.il)
- - date_published: 2024-05-08T05:30:18.595413+00:00
-
- ## Linkbynet - En construction
- - [https://www.citroenorigins.co.il](https://www.citroenorigins.co.il)
- - date_published: 2018-04-18T13:00:13+00:00
-
- ## כלל ביטוח ופיננסים - דף הבית
- - [https://www.clalbit.co.il](https://www.clalbit.co.il)
- - date_published: 2024-07-09T07:25:11.407853+00:00
-
- ## Coca Cola
- - [https://cocacola.co.il](https://cocacola.co.il)
- - date_published: 2024-07-04T09:05:47.456203+00:00
-
- ## Web Development Company | Codenroll
- - [https://www.codenroll.co.il](https://www.codenroll.co.il)
- - date_published: 2024-06-24T06:01:57.391497+00:00
-
- ## More Than Tires - Continental EN
- - [https://www.continental-tires.co.il](https://www.continental-tires.co.il)
- - date_published: 2024-09-18T01:39:19.001003+00:00
-
- ## Daniel Chen - Product Design: Branding, UI & UX Design
- - [https://danielchen.co.il](https://danielchen.co.il)
- - date_published: 2024-06-01T05:43:25.106449+00:00
- - tags: ['shop']
-
- ## אתר החדשות דבר | כלכלה, עבודה, בריאות וחברה
- - [https://www.davar1.co.il](https://www.davar1.co.il)
- - date_published: 2024-07-16T21:33:55+00:00
-
- ## Discount Capital | דיסקונט קפיטל
- - [https://www.dcapital.co.il](https://www.dcapital.co.il)
- - date_published: 2024-10-06T17:00:57.657228+00:00
-
- ## Decathlon Israel | Sports Shoes, Gear & Equipment
- - [https://decathlon.co.il](https://decathlon.co.il)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## DigiKey
- - [https://digikey.co.il](https://digikey.co.il)
- - date_published: 2024-05-01T05:03:26.772501+00:00
-
- ## דמרי - מהחזון ועד המפתח
- - [https://www.dimri.co.il](https://www.dimri.co.il)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## developer.discountbank.co.il/openapi/openapi
- - [https://developer.discountbank.co.il](https://developer.discountbank.co.il)
- - date_published: 2024-10-06T17:01:11.253103+00:00
-
- ## Investor Relations
- - [https://investors.discountbank.co.il](https://investors.discountbank.co.il)
- - date_published: 2024-06-16T12:34:48.393334+00:00
-
- ## לקחת משכנתא בקלות | בנק דיסקונט
- - [https://mortgage.discountbank.co.il](https://mortgage.discountbank.co.il)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## בנק דיסקונט לישראל
- - [https://www.discountbank.co.il](https://www.discountbank.co.il)
- - date_published: 2024-05-01T06:45:08.011771+00:00
-
- ## Discount Tech - Home
- - [https://www.discountech.co.il](https://www.discountech.co.il)
- - date_published: 2024-06-16T12:34:38.337856+00:00
-
- ## דיסני ישראל | הבית הרשמי של כל מה שדיסני
- - [https://disney.co.il](https://disney.co.il)
- - date_published: 2024-06-16T01:50:45.132847+00:00
-
- ## בניית אתרים עם מומחים ~ דיביין אתרים ~ בניית, עיצוב ופיתוח אתרים בחכמה
- - [https://www.divinesites.co.il](https://www.divinesites.co.il)
- - date_published: 2021-05-09T11:32:44+00:00
-
- ## דוקטורס אונלי Doctors Only | חדשות רפואה | מידע לכל רופא | רשת הרופאים בישראל
- - [https://doctorsonly.co.il](https://doctorsonly.co.il)
- - date_published: 2024-07-16T12:21:48+00:00
-
- ## האיגוד הישראלי לראומטולוגיה | The Israeli Society of Rheumatology
- - [https://rheumatology.doctorsonly.co.il](https://rheumatology.doctorsonly.co.il)
- - date_published: 2024-06-28T12:04:44+00:00
-
- ## ראם ישראל  | RAM Israel
- - [http://www.dodge.co.il](http://www.dodge.co.il)
- - date_published: 2024-06-19T09:00:31.871377+00:00
-
- ## סקירה כללית
- - [https://downdetector.co.il](https://downdetector.co.il)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## דרושים IL- חיפוש עבודה בחינם, גיוס עובדים
- - [https://www.drushim.co.il](https://www.drushim.co.il)
- - date_published: 2024-09-17T17:54:54.875462+00:00
-
- ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
- - [https://www.duracell.co.il](https://www.duracell.co.il)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## דייסון ישראל | האתר הרשמי | Dyson Israel
- - [https://www.dyson.co.il](https://www.dyson.co.il)
- - date_published: 2024-07-07T01:57:31.342083+00:00
-
- ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
- - [http://www.epochtimes.co.il](http://www.epochtimes.co.il)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## אתר הקורסים של ערן שטרן
- - [https://school.eranstern.co.il](https://school.eranstern.co.il)
- - date_published: 2024-08-18T13:06:28.173922+00:00
-
- ## דף הבית - ערן שטרן
- - [https://eranstern.co.il](https://eranstern.co.il)
- - date_published: 2023-11-17T15:06:30+00:00
- - tags: ['personal']
-
- ## אשכולות | שומרים על זכויות האמנים המבצעים בישראל
- - [https://eshkolot.co.il](https://eshkolot.co.il)
- - date_published: 2024-08-11T13:52:36.456896+00:00
-
- ## חנות אינטרנטית עם ממשק ידידותי בעברית ופיצ'רים מתקדמים | E-shop
- - [https://www.e-shop.co.il](https://www.e-shop.co.il)
- - date_published: 2024-07-14T03:35:18.373421+00:00
-
- ## כרטיסים להופעות, מופעים, בידור, תאטרון וספורט - Eventim
- - [https://www.eventim.co.il](https://www.eventim.co.il)
- - date_published: 2024-07-20T14:52:44.665232+00:00
-
- ## face 2 face - פתרונות אינטרנט מתקדמים - בניית אתרים | פרסום ושיווק באינטרנט
- - [https://f2f.co.il](https://f2f.co.il)
- - date_published: 2024-06-21T19:04:31.608608+00:00
-
- ## Home - FANUC Academy
- - [https://fanuc-academy.co.il](https://fanuc-academy.co.il)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## פיתוח אתרים ומערכות ידע | Fatfish
- - [https://www.fatfish.co.il](https://www.fatfish.co.il)
- - date_published: 2024-07-01T08:37:44+00:00
-
- ## FATLADY | A boutique home for websites and apps by Elad Ziv
- - [http://www.fatlady.co.il](http://www.fatlady.co.il)
- - date_published: 2024-06-28T19:26:39.556919+00:00
-
- ## Point of View
- - [http://blog.fdesign.co.il](http://blog.fdesign.co.il)
- - date_published: 2024-03-19T21:24:46+00:00
-
- ## Feuerstein Design – Visual Branding
- - [https://cdn.fdesign.co.il](https://cdn.fdesign.co.il)
- - date_published: 2024-06-20T16:51:29+00:00
-
- ## Feuerstein Design – Visual Branding
- - [https://www.fdesign.co.il](https://www.fdesign.co.il)
- - date_published: 2024-05-04T14:44:39.067585+00:00
-
- ## פיאט ישראל האתר הרשמי | Fiat Israel Official Website
- - [https://www.fiat.co.il](https://www.fiat.co.il)
- - date_published: 2024-06-16T09:36:02+00:00
-
- ## פורבס ישראל - המגזין העסקי המוביל בעולם
- - [https://forbes.co.il](https://forbes.co.il)
- - date_published: 2024-05-08T05:59:02.261728+00:00
-
- ## אתר הנוער של ישראל
- - [https://s.frogi.co.il](https://s.frogi.co.il)
- - date_published: 2024-07-09T07:16:29.056501+00:00
-
- ## אתר הנוער של ישראל
- - [https://frogi.co.il](https://frogi.co.il)
- - date_published: 2024-05-09T04:02:31.227539+00:00
-
- ## גל עיצוב, הקמה וקידום אתרי אינטרנט
- - [http://gald.co.il](http://gald.co.il)
- - date_published: 2024-08-11T23:59:36.467090+00:00
-
- ## גלעד לזכרם - אוניברסיטת בר אילן
- - [https://biu.gal-ed.co.il](https://biu.gal-ed.co.il)
- - date_published: 2024-08-07T15:12:06.566990+00:00
-
- ## דף הבית - Gav-Yam Negev
- - [https://gavyam-negev.co.il](https://gavyam-negev.co.il)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## The Less Interesting Times
- - [http://eran.geek.co.il](http://eran.geek.co.il)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Things n' Stuff
- - [https://geek.co.il](https://geek.co.il)
- - date_published: 2024-05-02T11:41:46.288813+00:00
-
- ## GIANT ישראל היבואן הרשמי והבלעדי - אופניים ואביזרים לרוכב
- - [https://giant-bike.co.il](https://giant-bike.co.il)
- - date_published: 2024-09-18T02:00:38.495294+00:00
-
  ## Gilead Sciences
  - [https://www.gileadisrael.co.il](https://www.gileadisrael.co.il)
  - date_published: 2024-07-02T04:08:09.086947+00:00
@@ -4014,4 +3716,300 @@ MINISTRY OF CONSUMER AFFAIRS, FOOD & PUBLIC DISTRIBUTION
  ## FoSCoS - FSSAI
  - [https://foscos.fssai.gov.in](https://foscos.fssai.gov.in)
  - date_published: 2024-04-28T00:27:41.401633+00:00
+
+ ## FSSAI
+ - [https://fssai.gov.in](https://fssai.gov.in)
+ - date_published: 2024-04-28T00:26:23.047176+00:00
+
+ ## FSW
+ - [https://fsw.fssai.gov.in](https://fsw.fssai.gov.in)
+ - date_published: 2024-05-01T13:18:13+00:00
+
+ ## Hygiene Rating - Index
+ - [https://hygiene.fssai.gov.in](https://hygiene.fssai.gov.in)
+ - date_published: 2024-04-28T00:28:39.935529+00:00
+
+ ## FSSAI | INFoLNET
+ - [https://infolnet.fssai.gov.in](https://infolnet.fssai.gov.in)
+ - date_published: 2024-08-07T06:19:34+00:00
+
+ ## Jaivik Bharat
+ - [https://jaivikbharat.fssai.gov.in](https://jaivikbharat.fssai.gov.in)
+ - date_published: 2024-04-28T00:26:46.528826+00:00
+
+ ## FSSAI
+ - [https://northregion.fssai.gov.in](https://northregion.fssai.gov.in)
+ - date_published: 2024-08-08T14:01:53.294639+00:00
+
+ ## IFSA - SAVE FOOD, SHARE FOOD, SHARE JOY
+ - [https://sharefood.fssai.gov.in](https://sharefood.fssai.gov.in)
+ - date_published: 2024-03-28T04:43:36+00:00
+
+ ## FSSAI - Recruitment Portal
+ - [https://sites.fssai.gov.in](https://sites.fssai.gov.in)
+ - date_published: 2024-08-08T14:03:19.391796+00:00
+
+ ## FSSAI
+ - [https://southregion.fssai.gov.in](https://southregion.fssai.gov.in)
+ - date_published: 2024-08-08T14:03:49.060142+00:00
+
+ ## FSSAI
+ - [https://westregion.fssai.gov.in](https://westregion.fssai.gov.in)
+ - date_published: 2024-08-08T14:03:22.138796+00:00
+
+ ## Integrated Government Online Directory
+ - [https://goidirectory.gov.in](https://goidirectory.gov.in)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Indian Council for Cultural Relations
+ - [https://a2ascholarships.iccr.gov.in](https://a2ascholarships.iccr.gov.in)
+ - date_published: 2024-10-15T14:13:32.866540+00:00
+
+ ## Home | Official website of Indian Council for Cultural Relations, Government of India
+ - [https://iccr.gov.in](https://iccr.gov.in)
+ - date_published: 2024-07-19T18:22:26.057319+00:00
+
+ ## Indian Institute of Legal Metrology, Ranchi
+ - [http://iilm.gov.in](http://iilm.gov.in)
+ - date_published: 2024-08-08T13:37:45+00:00
+
+ ## Home | IIMC
+ - [https://www.iimc.gov.in](https://www.iimc.gov.in)
+ - date_published: 2024-08-08T11:03:21+00:00
+
+ ## Antriksh Jigyasa
+ - [https://jigyasa.iirs.gov.in](https://jigyasa.iirs.gov.in)
+ - date_published: 2024-04-28T00:31:07.151190+00:00
+
+ ## Home - IndBiz | Economic Diplomacy Division
+ - [https://indbiz.gov.in](https://indbiz.gov.in)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Home | National Government Services Portal
+ - [https://services.india.gov.in](https://services.india.gov.in)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## National Portal of India
+ - [https://www.india.gov.in](https://www.india.gov.in)
+ - date_published: 2024-07-20T09:37:13.386002+00:00
+
+ ## INDIAai | Pillars
+ - [https://indiaai.gov.in](https://indiaai.gov.in)
+ - date_published: 2024-06-28T21:49:49.219040+00:00
+
+ ## Welcome to Ministry of Culture, Government of India
+ - [https://indiaculture.gov.in](https://indiaculture.gov.in)
+ - date_published: 2024-08-08T11:49:17.392572+00:00
+
+ ## Indian Culture
+ - [https://indianculture.gov.in](https://indianculture.gov.in)
+ - date_published: 2024-04-28T01:44:04.115760+00:00
+
+ ## India Visa Online
+ - [https://indianvisaonline.gov.in](https://indianvisaonline.gov.in)
+ - date_published: 2019-05-16T00:00:00+00:00
+
+ ## IN-SPACe - Indian National Space Promotion and Authorisation Centre - IN-SPACe
+ - [https://www.inspace.gov.in](https://www.inspace.gov.in)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Investment Promotion and Facilitation Agency | Invest India
+ - [https://www.investindia.gov.in](https://www.investindia.gov.in)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - IRDAI
+ - [https://irdai.gov.in](https://irdai.gov.in)
+ - date_published: 2024-09-25T13:25:41.315643+00:00
+
+ ## Indian Space Research Organisation
+ - [https://www.isro.gov.in](https://www.isro.gov.in)
+ - date_published: 2023-10-25T19:30:10.700192+00:00
+
+ ## PRADAN
+ - [https://pradan.issdc.gov.in](https://pradan.issdc.gov.in)
+ - date_published: 2024-08-08T13:25:46.684180+00:00
+
+ ## ISSDC
+ - [https://www.issdc.gov.in](https://www.issdc.gov.in)
+ - date_published: 2024-04-28T00:30:13.803298+00:00
+
+ ## Baishakhi Bengali Keyboard - Unicode compliant Free Bangla Typing Software
+ - [https://nltr.itewb.gov.in](https://nltr.itewb.gov.in)
+ - date_published: 2024-07-12T03:05:24.938565+00:00
+
+ ## Home | MINISTRY OF CONSUMER AFFAIRS,FOOD & PUBLIC DISTRIBUTION< | Department of Consumer Afffairs | GoI
+ - [https://jagograhakjago.gov.in](https://jagograhakjago.gov.in)
+ - date_published: 2024-08-08T13:32:04.724324+00:00
+
+ ## Jeevan Pramaan :: Life Certificate for Pensioners ** DeitY ** Government of India
+ - [https://jeevanpramaan.gov.in](https://jeevanpramaan.gov.in)
+ - date_published: 2024-08-08T13:18:49.854463+00:00
+
+ ## Donation Portal : Kerala Chief Minister's Distress Relief Fund (CMDRF)
+ - [https://donation.cmdrf.kerala.gov.in](https://donation.cmdrf.kerala.gov.in)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Home | Kerala Startup Mission
+ - [https://startupmission.kerala.gov.in](https://startupmission.kerala.gov.in)
+ - date_published: 2024-09-25T10:01:04+00:00
+
+ ## Home
+ - [https://www.mca.gov.in](https://www.mca.gov.in)
+ - date_published: 2024-07-14T19:28:49+00:00
+
+ ## MCRHRDI
+ - [https://www.mcrhrdi.gov.in](https://www.mcrhrdi.gov.in)
+ - date_published: 2024-07-20T11:34:13+00:00
+
+ ## Ministry of External Affairs, Government of India
+ - [https://meacms.mea.gov.in](https://meacms.mea.gov.in)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Ministry of External Affairs, Government of India
+ - [https://mea.gov.in](https://mea.gov.in)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## MEA Performance Dashboard
+ - [https://meadashboard.gov.in](https://meadashboard.gov.in)
+ - date_published: 2023-06-26T10:51:57+00:00
+
+ ## Ministry of Electronics and Information Technology, Government of India | Home Page
+ - [https://www.meity.gov.in](https://www.meity.gov.in)
+ - date_published: 2024-06-28T21:49:35.321040+00:00
+
+ ## Meri Maati Mera Desh
+ - [https://merimaatimeradesh.gov.in](https://merimaatimeradesh.gov.in)
+ - date_published: 2024-03-19T11:51:57+00:00
+
+ ## GOV.IN AppStore
+ - [https://apps.mgov.gov.in](https://apps.mgov.gov.in)
+ - date_published: 2024-08-08T13:17:23.984073+00:00
+
+ ## Personal Information System
+ - [https://iis.mib.gov.in](https://iis.mib.gov.in)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home | Ministry of Information and Broadcasting | Government of India
+ - [https://mib.gov.in](https://mib.gov.in)
+ - date_published: 2024-04-28T00:25:59.319219+00:00
+
+ ## OOMF Dashboard
+ - [https://oomf.mib.gov.in](https://oomf.mib.gov.in)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## MIC Alumni Portal
+ - [https://alumni.mic.gov.in](https://alumni.mic.gov.in)
+ - date_published: 2024-08-08T12:11:11.829400+00:00
+
+ ## MoE | MoE Innovation Cell
+ - [https://mic.gov.in](https://mic.gov.in)
+ - date_published: 2024-08-08T10:21:56+00:00
+
+ ## Ministry of Minority Affairs
+ - [https://www.minorityaffairs.gov.in](https://www.minorityaffairs.gov.in)
+ - date_published: 2024-07-22T05:56:05.969504+00:00
+
+ ## Ministry of Food Processing Industries | GOI
+ - [https://mofpi.gov.in](https://mofpi.gov.in)
+ - date_published: 2024-08-08T13:46:47+00:00
+
+ ## ODOP GIS Portal
+ - [https://odop.mofpi.gov.in](https://odop.mofpi.gov.in)
+ - date_published: 2021-01-11T05:17:18+00:00
+
+ ## Welcome to PMFME-MOFPI
+ - [http://pmfme.mofpi.gov.in](http://pmfme.mofpi.gov.in)
+ - date_published: 2024-08-06T12:50:58+00:00
+
+ ## eCARe
+ - [https://ecare.mohfw.gov.in](https://ecare.mohfw.gov.in)
+ - date_published: 2024-08-08T18:37:46.462346+00:00
+
+ ## IHR POE
+ - [https://ihpoe.mohfw.gov.in](https://ihpoe.mohfw.gov.in)
+ - date_published: 2024-08-08T18:42:07.766012+00:00
+
+ ## MoHFW | Home
+ - [https://mohfw.gov.in](https://mohfw.gov.in)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Home | Ministry of Petroleum and Natural Gas | Government of India
+ - [https://mopng.gov.in](https://mopng.gov.in)
+ - date_published: 2024-07-13T19:56:23.334653+00:00
+
+ ## Meteorological & Oceanographic Satellite Data Archival Centre | Space Applications Centre, ISRO
+ - [https://mosdac.gov.in](https://mosdac.gov.in)
+ - date_published: 2024-08-11T08:32:56+00:00
+
+ ## Ministry of Micro, Small & Medium Enterprises
+ - [https://msme.gov.in](https://msme.gov.in)
+ - date_published: 2024-10-15T21:12:01.844960+00:00
+
+ ## National AIDS Control Organization | MoHFW | GoI
+ - [http://naco.gov.in](http://naco.gov.in)
+ - date_published: 2024-08-08T18:46:58+00:00
+
+ ## National Academic Depository
+ - [https://nad.gov.in](https://nad.gov.in)
+ - date_published: 2023-11-21T04:54:49+00:00
+
+ ## Department of Labour : Governent of Nagaland
+ - [https://labour.nagaland.gov.in](https://labour.nagaland.gov.in)
+ - date_published: 2024-07-17T07:51:47.074239+00:00
+
+ ## Nagaland Pollution Control Board – Website of the Nagaland Pollution Control Board
+ - [https://npcb.nagaland.gov.in](https://npcb.nagaland.gov.in)
+ - date_published: 2024-07-17T07:47:38.178642+00:00
+
+ ## National Mission for Manuscripts |
+ - [https://www.namami.gov.in](https://www.namami.gov.in)
+ - date_published: 2024-08-08T11:49:01.544951+00:00
+
+ ## Welcome to National Book Trust India
+ - [http://www.nbtindia.gov.in](http://www.nbtindia.gov.in)
+ - date_published: 2024-09-11T17:44:50.501623+00:00
+
+ ## National Cultural Audiovisual Archives
+ - [http://ncaa.gov.in](http://ncaa.gov.in)
+ - date_published: 2024-08-08T11:49:08.557653+00:00
+
+ ## NCEG
+ - [https://nceg.gov.in](https://nceg.gov.in)
+ - date_published: 2024-09-11T17:44:54.611143+00:00
+
+ ## NISHTHA
+ - [https://itpd.ncert.gov.in](https://itpd.ncert.gov.in)
+ - date_published: 2024-09-11T17:28:32+00:00
+
+ ## National Commission for Minority Educational Institutions | India
+ - [http://ncmei.gov.in](http://ncmei.gov.in)
+ - date_published: 2024-09-11T17:50:49.283251+00:00
+
+ ## National Center Of Geo-Informatics - NCOG
+ - [https://ncog.gov.in](https://ncog.gov.in)
+ - date_published: 2021-08-12T09:15:55+00:00
+
+ ## National Career Service | Ministry of Labour & Employment
+ - [https://www.ncs.gov.in](https://www.ncs.gov.in)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## ABHA | ABDM
+ - [https://healthid.ndhm.gov.in](https://healthid.ndhm.gov.in)
+ - date_published: 2024-06-20T11:44:05+00:00
+
+ ## NHA | Official website Ayushman Bharat Digital Mission
+ - [https://ndhm.gov.in](https://ndhm.gov.in)
+ - date_published: 2024-08-06T12:41:43+00:00
+
+ ## National Digital Library of India (NDLI)
+ - [https://www.ndl.gov.in](https://www.ndl.gov.in)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Welcome to NeGD | – National eGovernance Division (NeGD)
+ - [https://negd.gov.in](https://negd.gov.in)
+ - date_published: 2024-08-08T16:02:58.039116+00:00
+
+ ## News on AIR
+ - [https://www.newsonair.gov.in](https://www.newsonair.gov.in)
+ - date_published: 2024-08-08T14:02:08.401703+00:00
 

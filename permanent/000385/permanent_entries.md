@@ -1,407 +1,3 @@
- ## the INKSKULL
- - [https://inkskullstudios.eo.page](https://inkskullstudios.eo.page)
- - date_published: 2024-07-17T06:25:07.905309+00:00
-
- ## Rejuve.AI Newsletter
- - [https://rejuve-ai.eo.page](https://rejuve-ai.eo.page)
- - date_published: 2024-09-25T15:00:12.643697+00:00
-
- ## Rock Your Genius | Subscribe
- - [https://rockyourgenius.eo.page](https://rockyourgenius.eo.page)
- - date_published: 2024-08-18T08:23:25.086904+00:00
-
- ## Fetcher
- - [https://fetcher.page](https://fetcher.page)
- - date_published: 2023-10-25T22:24:26.273886+00:00
-
- ## QR Code Platform For Measuring Conversions | Flowcode
- - [https://flow.page](https://flow.page)
- - date_published: 2024-10-22T20:22:35.221734+00:00
-
- ## Flux – 
-Sign up
- - [https://app.flux.page](https://app.flux.page)
- - date_published: 2024-07-13T11:35:48.591605+00:00
-
- ## Fn/Log
- - [https://fnlog.page](https://fnlog.page)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## FrontPage - The front page of India's stock market..
- - [https://front.page](https://front.page)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Comic strips delivered to your inbox | The Funnies
- - [https://funnies.page](https://funnies.page)
- - date_published: 2024-07-12T17:44:51.715667+00:00
-
- ## Before you continue
- - [https://g.page](https://g.page)
- - date_published: 2024-04-30T05:11:00.778093+00:00
-
- ## Start a new .page
- - [https://get.page](https://get.page)
- - date_published: 2024-05-10T05:46:46.170283+00:00
-
- ## Gitnet Pages
- - [https://gitnet.page](https://gitnet.page)
- - date_published: 2024-01-23T20:04:01+00:00
-
- ## Brand Assets
- - [https://brand.glide.page](https://brand.glide.page)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## TUinteC
- - [https://english-info-wk4w.glide.page](https://english-info-wk4w.glide.page)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Create & Share Web Pages Fast. Photos, Text, Links, Lists. Hero
- - [https://hero.page](https://hero.page)
- - date_published: 2024-06-19T19:36:19.183800+00:00
-
- ## Sign in to your account
- - [https://main--bacom--adobecom.hlx.page](https://main--bacom--adobecom.hlx.page)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Welcome to the Adobe Blog
- - [https://main--blog--adobecom.hlx.page](https://main--blog--adobecom.hlx.page)
- - date_published: 2024-05-01T02:27:36.314467+00:00
-
- ## Sign in to your account
- - [https://main--cc--adobecom.hlx.page](https://main--cc--adobecom.hlx.page)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Sign in to your account
- - [https://main--dc--adobecom.hlx.page](https://main--dc--adobecom.hlx.page)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Sign in to your account
- - [https://main--homepage--adobecom.hlx.page](https://main--homepage--adobecom.hlx.page)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## milo
- - [https://main--milo--adobecom.hlx.page](https://main--milo--adobecom.hlx.page)
- - date_published: 2024-09-10T13:46:31+00:00
-
- ## Ignore This Page
- - [https://ignorethis.page](https://ignorethis.page)
- - date_published: 2024-01-02T10:20:21.903538+00:00
-
- ## Discover the IndieWeb, one blog post at a time.
- - [https://indieblog.page](https://indieblog.page)
- - date_published: 2024-03-25T07:37:26+00:00
- - tags: ['personal sites source']
-
- ## Insightful - personalized, on-demand professional coaching
- - [https://insightful.page](https://insightful.page)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Make your site’s pages instant in 1 minute
- - [https://instant.page](https://instant.page)
- - date_published: 2024-04-28T05:57:18.499590+00:00
-
- ## Ishan Das Sharma
- - [https://ishan.page](https://ishan.page)
- - date_published: 2023-11-08T04:59:12.690853+00:00
- - tags: ['personal']
-
- ## Jason Kim
- - [https://jasonkim.page](https://jasonkim.page)
- - date_published: 2024-05-23T16:12:24+00:00
-
- ## Junfeng Guan
- - [https://jguan.page](https://jguan.page)
- - date_published: 2024-05-19T08:56:32+00:00
-
- ## jmcz's page
- - [http://jmcz.page](http://jmcz.page)
- - date_published: 2024-05-09T08:05:50.877058+00:00
-
- ## Juliette's Café – My lil blog
- - [https://juliette.page](https://juliette.page)
- - date_published: 2024-01-09T03:43:21.081260+00:00
-
- ## Kaustubh Maske Patil
- - [https://kaustubh.page](https://kaustubh.page)
- - date_published: 2023-12-20T05:39:13.757904+00:00
- - tags: ['personal']
-
- ## The LectroNyx Department
- - [https://lectronyx.page](https://lectronyx.page)
- - date_published: 2022-04-10T00:00:00+00:00
-
- ## Lex
- - [https://lex.page](https://lex.page)
- - date_published: 2024-06-19T19:09:59.630555+00:00
-
- ## localnotes.page
- - [https://localnotes.page](https://localnotes.page)
- - date_published: 2024-07-23T23:43:16.377593+00:00
-
- ## LuDe BETA
- - [https://beta.lude.page](https://beta.lude.page)
- - date_published: 2024-06-19T19:18:14.020589+00:00
-
- ## Misskey Hub – Misskeyプロジェクト 公式サイト
- - [https://join.misskey.page](https://join.misskey.page)
- - date_published: 2024-05-14T03:59:40.467046+00:00
-
- ## Ora G. Walters (@ora@social.lol)
- - [https://mixedmedia.page](https://mixedmedia.page)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## mmap.page
- - [https://mmap.page](https://mmap.page)
- - date_published: 2023-09-12T11:25:24+00:00
-
- ## YouTube Playlist Playtime
- - [https://youtube-playlist-timer.mmap.page](https://youtube-playlist-timer.mmap.page)
- - date_published: 2024-08-08T15:21:06.125927+00:00
-
- ## mmm.page — Your Corner of the Internet
- - [https://build.mmm.page](https://build.mmm.page)
- - date_published: 2024-09-07T23:15:27.409568+00:00
-
- ## Yoyo Yuan
- - [https://exanova.mmm.page](https://exanova.mmm.page)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## mmm.page — Your Corner of the Internet
- - [https://mmm.page](https://mmm.page)
- - date_published: 2024-04-30T06:16:06.089806+00:00
-
- ## Momentum — Build and sell your digital products
- - [https://momentum.page](https://momentum.page)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Neeko's Page
- - [https://neeko.page](https://neeko.page)
- - date_published: 2024-06-25T23:44:23+00:00
-
- ## One Page: Editor
- - [https://app.onee.page](https://app.onee.page)
- - date_published: 2024-10-03T10:11:06+00:00
-
- ## Onee Page. Simple & Beautiful Link in Bio
- - [https://onee.page](https://onee.page)
- - date_published: 2024-06-17T03:03:51.770083+00:00
-
- ## Blog - pathos page
- - [https://pathos.page](https://pathos.page)
- - date_published: 2024-08-18T07:00:48.077764+00:00
-
- ## Portfolio - mrpaulblack
- - [https://mrpaulblack.paulgo.page](https://mrpaulblack.paulgo.page)
- - date_published: 2024-07-01T05:33:55+00:00
-
- ## paulo pinto dot page
- - [https://paulopinto.page](https://paulopinto.page)
- - date_published: 2023-12-08T08:32:27.632081+00:00
- - tags: ['personal']
-
- ## Ben Tsai
- - [https://bentsai.pika.page](https://bentsai.pika.page)
- - date_published: 2024-08-08T12:43:19.852577+00:00
-
- ## I am BARRY HESS
- - [https://bjhess.pika.page](https://bjhess.pika.page)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Blueberry Lemonade
- - [https://blueberrylemonade.pika.page](https://blueberrylemonade.pika.page)
- - date_published: 2024-07-19T20:27:54.518946+00:00
-
- ## daviddave.co
- - [https://dave.pika.page](https://dave.pika.page)
- - date_published: 2024-07-19T20:27:55.991988+00:00
-
- ## Nerve Signals
- - [https://nerve-signals.pika.page](https://nerve-signals.pika.page)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Pika - Start Your Happy Blog
- - [https://pika.page](https://pika.page)
- - date_published: 2024-02-06T21:45:59.502425+00:00
-
- ## Building Pika Out Loud
- - [https://pika.pika.page](https://pika.pika.page)
- - date_published: 2024-07-12T20:15:36.664423+00:00
-
- ## pinacnews.page - pinacnews Zasoby i informacje.
- - [https://pinacnews.page](https://pinacnews.page)
- - date_published: 2024-05-09T04:35:58.132310+00:00
-
- ## Web Server's Default Page
- - [https://intelligent-engelbart.34-173-175-179.plesk.page](https://intelligent-engelbart.34-173-175-179.plesk.page)
- - date_published: 2022-11-01T15:02:40+00:00
-
- ## Umami
- - [https://intelligent-ride.87-106-159-152.plesk.page](https://intelligent-ride.87-106-159-152.plesk.page)
- - date_published: 2024-07-08T09:19:36.542937+00:00
-
- ## Podium: AI copywriter for podcast show notes, articles, and more!
- - [https://podium.page](https://podium.page)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Andrew Dinh
- - [https://andrewkdinh.postcard.page](https://andrewkdinh.postcard.page)
- - date_published: 2024-07-02T20:04:48.619207+00:00
-
- ## Ivana
- - [https://ivanachen.postcard.page](https://ivanachen.postcard.page)
- - date_published: 2024-08-18T17:17:59.716731+00:00
-
- ## Kerry Ivan Kurian
- - [https://kkurian.postcard.page](https://kkurian.postcard.page)
- - date_published: 2024-08-18T17:17:37.522757+00:00
-
- ## Postcard
- - [https://postcard.page](https://postcard.page)
- - date_published: 2023-10-25T22:24:37.222590+00:00
-
- ## Postcard Updates
- - [https://updates.postcard.page](https://updates.postcard.page)
- - date_published: 2023-03-23T00:00:00+00:00
-
- ## Progression Page
- - [https://progression.page](https://progression.page)
- - date_published: 2024-06-22T22:46:06.140446+00:00
-
- ## Pronouns.page
- - [https://en.pronouns.page](https://en.pronouns.page)
- - date_published: 2024-05-08T10:45:45.144354+00:00
-
- ## Pronouns.page
- - [https://pronouns.page](https://pronouns.page)
- - date_published: 2024-05-08T04:50:13.038955+00:00
- - tags: ['the left wing', 'gender', 'pronouns']
-
- ## ReplayWeb.page
- - [https://replayweb.page](https://replayweb.page)
- - date_published: 2024-05-13T13:48:49.277317+00:00
-
- ## Hi!
- - [https://rohit.page](https://rohit.page)
- - date_published: 2024-05-11T10:10:23.697564+00:00
- - tags: ['personal']
-
- ## Scribbles
- - [https://scribbles.page](https://scribbles.page)
- - date_published: 2024-05-13T02:41:29.845559+00:00
-
- ## shoutouts
- - [https://shoutouts.page](https://shoutouts.page)
- - date_published: 2024-07-03T18:03:03.269122+00:00
-
- ## Slite
- - [https://hsweb.slite.page](https://hsweb.slite.page)
- - date_published: 2024-07-01T20:08:18.385305+00:00
-
- ## Slite
- - [https://slite.slite.page](https://slite.slite.page)
- - date_published: 2024-04-29T04:46:56.072502+00:00
-
- ## Small Web
- - [https://smallweb.page](https://smallweb.page)
- - date_published: 2022-05-15T03:21:47+00:00
- - tags: ['indie web', 'internet', 'interesting']
-
- ## NazlimCafe.Com SOHBET CHAT Sohbet Odaları Mobil Sohbet Siteleri
- - [https://sohbet.page](https://sohbet.page)
- - date_published: 2024-02-27T15:05:31+00:00
-
- ## someday.page
- - [https://someday.page](https://someday.page)
- - date_published: 2024-04-08T08:51:32+00:00
-
- ## Buffer
- - [https://buffer.start.page](https://buffer.start.page)
- - date_published: 2023-11-19T15:19:04.082607+00:00
-
- ## Hi! I'm Dave Chapman
- - [https://dave.start.page](https://dave.start.page)
- - date_published: 2024-06-16T12:29:58.780274+00:00
- - tags: ['personal']
-
- ## Hailley Griffis
- - [https://hailley.start.page](https://hailley.start.page)
- - date_published: 2024-06-16T12:29:48.226013+00:00
- - tags: ['personal']
-
- ## Joel Gascoigne
- - [https://joel.start.page](https://joel.start.page)
- - date_published: 2024-06-16T12:29:13.924583+00:00
- - tags: ['personal']
-
- ## Karinna Briseno
- - [https://karinna.start.page](https://karinna.start.page)
- - date_published: 2024-06-16T12:31:38.825785+00:00
-
- ## Kirsti Lang
- - [https://kirstilang.start.page](https://kirstilang.start.page)
- - date_published: 2024-06-16T12:23:06.597314+00:00
-
- ## Mick Mahady
- - [https://mick.start.page](https://mick.start.page)
- - date_published: 2024-06-16T12:29:11.666348+00:00
-
- ## melancholic-entrails's strawpage
- - [https://melancholic-entrails.straw.page](https://melancholic-entrails.straw.page)
- - date_published: 2024-06-17T08:22:29.765846+00:00
-
- ## starzguitar's strawpage
- - [https://starzguitar.straw.page](https://starzguitar.straw.page)
- - date_published: 2024-06-17T08:22:42.546246+00:00
-
- ## Straw.Page
- - [https://straw.page](https://straw.page)
- - date_published: 2024-10-17T17:04:31.453537+00:00
-
- ## TheEvilSkeleton
- - [https://tesk.page](https://tesk.page)
- - date_published: 2024-06-03T19:27:24.326413+00:00
- - tags: ['personal']
-
- ## <:-)
- - [https://thelanding.page](https://thelanding.page)
- - date_published: 2024-07-18T23:00:01.139149+00:00
-
- ## Letters from Florrie
- - [https://florrie.thoughts.page](https://florrie.thoughts.page)
- - date_published: 2024-07-19T16:02:28.825366+00:00
-
- ## thoughts
- - [https://thoughts.page](https://thoughts.page)
- - date_published: 2024-05-06T15:01:25.848929+00:00
-
- ## wesley's thoughts
- - [https://wesleyac.thoughts.page](https://wesleyac.thoughts.page)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## John Rush
- - [https://bento-links.unicornplatform.page](https://bento-links.unicornplatform.page)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Explore Our Directory
- - [https://dashboard-portfoilo.unicornplatform.page](https://dashboard-portfoilo.unicornplatform.page)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Unicorn Platform 🦄 Landing page builder for startups
- - [https://de.unicornplatform.page](https://de.unicornplatform.page)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## John Rush
- - [https://links-light.unicornplatform.page](https://links-light.unicornplatform.page)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Build & Ship Fast with MarsX
- - [https://neon-dark-template.unicornplatform.page](https://neon-dark-template.unicornplatform.page)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Universal Page - The Social NFT Marketplace on LUKSO
- - [https://universal.page](https://universal.page)
- - date_published: 2024-03-23T00:00:00+00:00
-
  ## SparkLoop | The Best Way To Grow & Monetize Your Newsletter
  - [https://upscribe.page](https://upscribe.page)
  - date_published: 2024-05-30T00:00:00+00:00
@@ -4038,4 +3634,398 @@ Sign up
  ## The Academy of Zamość | The Academy of Zamość
  - [https://www.akademiazamojska.edu.pl](https://www.akademiazamojska.edu.pl)
  - date_published: 2024-07-09T07:28:25.775554+00:00
+
+ ## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
+ - [https://amu.edu.pl](https://amu.edu.pl)
+ - date_published: 2023-10-27T13:02:57.267906+00:00
+ - tags: ['university']
+
+ ## Strona główna - Biuletyn Informacji Publicznej
+ - [https://bip.amu.edu.pl](https://bip.amu.edu.pl)
+ - date_published: 2022-12-15T00:00:00+00:00
+
+ ## Wydział - Wydział Chemii
+ - [https://chemia.amu.edu.pl](https://chemia.amu.edu.pl)
+ - date_published: 2024-07-11T09:24:50+00:00
+
+ ## Home | EPICUR
+ - [http://epicur.amu.edu.pl](http://epicur.amu.edu.pl)
+ - date_published: 2024-07-19T22:57:14.717784+00:00
+
+ ## PRESSto.
+ - [https://pressto.amu.edu.pl](https://pressto.amu.edu.pl)
+ - date_published: 1979-01-01T00:00:00+00:00
+
+ ## Studio Filmowe UAM
+ - [http://tv.amu.edu.pl](http://tv.amu.edu.pl)
+ - date_published: 2024-07-19T22:57:09.493737+00:00
+
+ ## ID-UB UAM - Uczelnia Badawcza
+ - [https://uczelniabadawcza.amu.edu.pl](https://uczelniabadawcza.amu.edu.pl)
+ - date_published: 2024-06-25T07:07:23+00:00
+
+ ## Strona główna - Wydział Anglistyki
+ - [http://wa.amu.edu.pl](http://wa.amu.edu.pl)
+ - date_published: 2024-07-01T22:17:11+00:00
+
+ ## WFPiK - Wydział Filologii Polskiej i Klasycznej
+ - [https://wfpik.amu.edu.pl](https://wfpik.amu.edu.pl)
+ - date_published: 2024-07-17T12:48:20+00:00
+
+ ## Wydział - Wydział Studiów Edukacyjnych
+ - [https://wse.amu.edu.pl](https://wse.amu.edu.pl)
+ - date_published: 2024-07-09T09:39:07+00:00
+
+ ## Wydział - Wydział Fizyki
+ - [https://www.fizyka.amu.edu.pl](https://www.fizyka.amu.edu.pl)
+ - date_published: 2024-07-18T12:25:02+00:00
+
+ ## Narodowy program ochrony antybiotyków – Narodowy program ochrony antybiotyków
+ - [http://www.antybiotyki.edu.pl](http://www.antybiotyki.edu.pl)
+ - date_published: 2024-07-13T19:04:52.582245+00:00
+
+ ## default virtual host
+ - [http://sirius.astrouw.edu.pl](http://sirius.astrouw.edu.pl)
+ - date_published: 2022-04-12T09:58:36+00:00
+
+ ## Strona główna - Akademia Wiedzy Praktycznej - Studia online
+ - [https://awp.edu.pl](https://awp.edu.pl)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Bioinformatyka - makrokierunek UAM i PP
+ - [http://www.bioinformatyka.edu.pl](http://www.bioinformatyka.edu.pl)
+ - date_published: 2024-08-11T13:56:09.777886+00:00
+
+ ## Biblioteka Raczyńskich - Oficjalna strona Biblioteki Raczyńskich w Poznaniu
+ - [https://bracz.edu.pl](https://bracz.edu.pl)
+ - date_published: 2024-02-26T00:00:00+00:00
+ - tags: ['library']
+
+ ## Strona główna - Niepubliczna Placówka Doskonalenia Nauczycieli
+ - [https://npdn.cedrin.edu.pl](https://npdn.cedrin.edu.pl)
+ - date_published: 2024-07-09T13:23:59.165641+00:00
+
+ ## Portal Rekrutacyjny
+ - [https://rekrutacja-wsb-nlu.clouda.edu.pl](https://rekrutacja-wsb-nlu.clouda.edu.pl)
+ - date_published: 2024-07-09T13:23:13.384624+00:00
+
+ ## Redirecting...
+ - [https://wsb-nlu.clouda.edu.pl](https://wsb-nlu.clouda.edu.pl)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## IWFM - It Works For Me!
+ - [https://zeus27.cyf-kr.edu.pl](https://zeus27.cyf-kr.edu.pl)
+ - date_published: 2024-02-08T22:53:08.246112+00:00
+
+ ## Edukacja medialna
+ - [http://edukacjamedialna.edu.pl](http://edukacjamedialna.edu.pl)
+ - date_published: 2024-07-13T12:14:05+00:00
+
+ ## Farmacja.edu.pl - Nowoczesna Edukacja Farmaceuty
+ - [https://farmacja.edu.pl](https://farmacja.edu.pl)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Strona główna | Związek Uczelni Fahrenheita
+ - [https://faru.edu.pl](https://faru.edu.pl)
+ - date_published: 2024-07-09T07:26:41.152913+00:00
+
+ ## Fundacja Rozwoju Edukacji Cyfrowej
+ - [http://www.frec.edu.pl](http://www.frec.edu.pl)
+ - date_published: 2023-12-11T09:32:39+00:00
+
+ ## FUT - Forum Uczelni Technicznych | Forum Uczelni Technicznych
+ - [http://www.fut.edu.pl](http://www.fut.edu.pl)
+ - date_published: 2024-09-02T14:18:56.057279+00:00
+
+ ## Strona główna - Simons semester 2024
+ - [https://simons2024.fuw.edu.pl](https://simons2024.fuw.edu.pl)
+ - date_published: 2024-07-01T18:46:53.338809+00:00
+
+ ## Zapytaj Fizyka
+ - [https://zapytajfizyka.fuw.edu.pl](https://zapytajfizyka.fuw.edu.pl)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Giganci programowania {#} Nauka programowania dla dzieci i młodzieży ⓵
+ - [https://www.giganciprogramowania.edu.pl](https://www.giganciprogramowania.edu.pl)
+ - date_published: 2024-09-02T14:19:13+00:00
+
+ ## Gdański Uniwersytet Medyczny: Strona główna
+ - [https://gumed.edu.pl](https://gumed.edu.pl)
+ - date_published: 2024-08-17T23:00:46+00:00
+
+ ## Akademia Humanitas - Studia w Sosnowcu
+ - [https://www.humanitas.edu.pl](https://www.humanitas.edu.pl)
+ - date_published: 2024-07-14T05:28:40.785640+00:00
+
+ ## Instytut Badań Edukacyjnych
+ - [https://ibe.edu.pl](https://ibe.edu.pl)
+ - date_published: 2024-01-08T13:28:20+00:00
+
+ ## STER Summer school in redox processes
+ - [http://redox.ichf.edu.pl](http://redox.ichf.edu.pl)
+ - date_published: 2024-07-01T05:47:30.889049+00:00
+
+ ## Search - CEJSH - Yadda
+ - [http://cejsh.icm.edu.pl](http://cejsh.icm.edu.pl)
+ - date_published: 2024-07-14T18:17:28.737790+00:00
+
+ ## EMIS
+ - [http://emis.icm.edu.pl](http://emis.icm.edu.pl)
+ - date_published: 2023-08-22T13:28:00+00:00
+
+ ## Polski SunSITE
+ - [https://ftp.icm.edu.pl](https://ftp.icm.edu.pl)
+ - date_published: 2021-10-17T13:09:29+00:00
+
+ ## Wyszukiwanie - DML-PL - Yadda
+ - [http://matwbn.icm.edu.pl](http://matwbn.icm.edu.pl)
+ - date_published: 2024-06-30T09:26:52.955615+00:00
+
+ ## Polski SunSITE
+ - [https://sunsite.icm.edu.pl](https://sunsite.icm.edu.pl)
+ - date_published: 2021-10-17T13:09:29+00:00
+
+ ## Instytut Fizyki Jądrowej PAN
+ - [https://ifj.edu.pl](https://ifj.edu.pl)
+ - date_published: 2024-08-18T17:11:08.048055+00:00
+
+ ## Serwis prasowy IFJ PAN
+ - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
+ - date_published: 2023-10-25T22:25:01.663981+00:00
+
+ ## Instytut Fizyki Jądrowej PAN
+ - [http://www.ifj.edu.pl](http://www.ifj.edu.pl)
+ - date_published: 2024-08-18T17:11:07.042021+00:00
+
+ ## Strona główna | Centrum Ochrony Dziecka
+ - [http://cod.ignatianum.edu.pl](http://cod.ignatianum.edu.pl)
+ - date_published: 2023-09-07T11:35:53+00:00
+
+ ## Kuratorium Oświaty w Gorzowie Wlkp. – strona Lubuskiego Kuratorium Oświaty
+ - [http://www.ko-gorzow.edu.pl](http://www.ko-gorzow.edu.pl)
+ - date_published: 2024-08-19T21:18:06.476944+00:00
+
+ ## Porozumienie Doktorantów Uczelni Technicznych
+ - [http://pdut.krd.edu.pl](http://pdut.krd.edu.pl)
+ - date_published: 2024-09-02T14:18:51.837238+00:00
+
+ ## Główna – KRPUT
+ - [https://krput.edu.pl](https://krput.edu.pl)
+ - date_published: 2024-05-26T18:42:12.358580+00:00
+
+ ## Łódzkie Partnerstwo Akademickie
+ - [https://lpa.edu.pl](https://lpa.edu.pl)
+ - date_published: 2024-06-28T16:41:37+00:00
+
+ ## Banach's Algorithmic Corner | University of Warsaw
+ - [https://corner.mimuw.edu.pl](https://corner.mimuw.edu.pl)
+ - date_published: 2024-05-07T16:15:47.406592+00:00
+
+ ## MIMUW
+ - [https://duch.mimuw.edu.pl](https://duch.mimuw.edu.pl)
+ - date_published: 2022-10-17T10:45:47+00:00
+
+ ## IGAFIT - Igafit
+ - [http://igafit.mimuw.edu.pl](http://igafit.mimuw.edu.pl)
+ - date_published: 2024-06-30T11:20:10.603014+00:00
+
+ ## MIMUW portal
+ - [https://www.mimuw.edu.pl](https://www.mimuw.edu.pl)
+ - date_published: 2024-07-11T12:15:12.953215+00:00
+
+ ## Międzyuniwersyteckie Centrum Informatyzacji
+ - [http://www.muci.edu.pl](http://www.muci.edu.pl)
+ - date_published: 2024-10-18T20:34:49.288873+00:00
+
+ ## Strona główna | I LO im. Seweryna Goszczyńskiego w Nowym Targu
+ - [https://goszczynski.nowotarski.edu.pl](https://goszczynski.nowotarski.edu.pl)
+ - date_published: 2024-07-09T13:30:25.341083+00:00
+
+ ## Strona główna | Zespół Szkół nr 1 w Nowym Targu
+ - [https://zs1.nowotarski.edu.pl](https://zs1.nowotarski.edu.pl)
+ - date_published: 2024-07-09T13:30:32.144950+00:00
+
+ ## Zespół Szkół Ekonomicznych
+ - [https://zse.nowotarski.edu.pl](https://zse.nowotarski.edu.pl)
+ - date_published: 2024-07-09T13:30:27.419499+00:00
+
+ ## Strona główna - Zespół Szkół im. Bohaterów Westerplatte w Jabłonce
+ - [https://zsj.nowotarski.edu.pl](https://zsj.nowotarski.edu.pl)
+ - date_published: 2024-07-09T13:30:33.584296+00:00
+
+ ## Zespół Szkół Technicznych i Placówek im. Stanisława Staszica
+ - [https://zst.nowotarski.edu.pl](https://zst.nowotarski.edu.pl)
+ - date_published: 2024-07-09T13:30:35.566447+00:00
+
+ ## PRYWATNE SZKOŁY ŚREDNIE – IM. PROF. JANA VENULETA
+ - [https://nowytarg.edu.pl](https://nowytarg.edu.pl)
+ - date_published: 2024-07-09T13:30:22.397224+00:00
+
+ ## Olimpiada Informatyczna Juniorów
+ - [https://oij.edu.pl](https://oij.edu.pl)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Politechnika Białostocka
+ - [http://pb.edu.pl](http://pb.edu.pl)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Wydział Mechaniczny Politechniki Białostockiej
+ - [https://wm.pb.edu.pl](https://wm.pb.edu.pl)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Strona główna - Polsko-Japońska Akademia Technik Komputerowych
+ - [https://pja.edu.pl](https://pja.edu.pl)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Politechnika Krakowska im. Tadeusza Kościuszki
+ - [https://www.pk.edu.pl](https://www.pk.edu.pl)
+ - date_published: 2024-08-18T03:02:57+00:00
+
+ ## Polska Komisja Akredytacyjna – PKA
+ - [http://www.pka.edu.pl](http://www.pka.edu.pl)
+ - date_published: 2024-10-18T20:32:11.628208+00:00
+
+ ## ANS w Nowym Targu - ANS w Nowym Targu
+ - [https://ppuz.edu.pl](https://ppuz.edu.pl)
+ - date_published: 2024-07-09T13:30:24.280280+00:00
+
+ ## Przekierowuję...
+ - [http://knml.prz.edu.pl](http://knml.prz.edu.pl)
+ - date_published: 2023-08-16T14:58:43+00:00
+
+ ## PTS
+ - [http://www.pts.edu.pl](http://www.pts.edu.pl)
+ - date_published: 2024-06-07T11:13:45+00:00
+
+ ## PUE – Polska Unia Edukacyjna
+ - [https://pue.edu.pl](https://pue.edu.pl)
+ - date_published: 2024-07-09T13:23:50.563675+00:00
+
+ ## Uniwersytet Przyrodniczy w Poznaniu
+ - [https://puls.edu.pl](https://puls.edu.pl)
+ - date_published: 2024-06-26T21:36:27.651079+00:00
+
+ ## E-recepta, realizacja e-recept, przykłady recept - recepty.edu.pl
+ - [https://rx.edu.pl](https://rx.edu.pl)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Szkolne Kasy Oszczędności
+ - [http://www.sko.edu.pl](http://www.sko.edu.pl)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Star - szkolenia wspierające Twój rozwój
+ - [https://star.edu.pl](https://star.edu.pl)
+ - date_published: 2024-07-15T04:09:34.590232+00:00
+
+ ## Main page - SZKOpuł
+ - [https://szkopul.edu.pl](https://szkopul.edu.pl)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Zespół Szkół Drogowo - Geodezyjnych i Licealnych im. Augusta Witkowskiego w Jarosławiu - Zespół Szkół Drogowo - Geodezyjnych i Licealnych im. Augusta Witkowskiego w Jarosławiu
+ - [https://www.tdgjar.edu.pl](https://www.tdgjar.edu.pl)
+ - date_published: 2024-07-14T18:17:35.356078+00:00
+
+ ## Strona główna - Grupa EDUKACJA 3.0
+ - [http://trzyzero.edu.pl](http://trzyzero.edu.pl)
+ - date_published: 2024-09-02T14:19:09.287237+00:00
+
+ ## Biuro osób z niepełnosprawnością |
+ - [http://bariery.ug.edu.pl](http://bariery.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:48.567387+00:00
+
+ ## Strona główna | Biblioteka Uniwersytetu Gdańskiego
+ - [https://bg.ug.edu.pl](https://bg.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:33.092832+00:00
+
+ ## Biuletyn Informacji Publicznej | Uniwersytet Gdański - IN MARI VIA TUA
+ - [https://bip.ug.edu.pl](https://bip.ug.edu.pl)
+ - date_published: 2024-07-08T08:29:30+00:00
+
+ ## Biuro Karier UG
+ - [https://biuro-karier.ug.edu.pl](https://biuro-karier.ug.edu.pl)
+ - date_published: 2024-06-21T06:53:35+00:00
+
+ ## Strona główna | Centrum Języków Obcych Uniwersytetu Gdańskiego
+ - [https://cjo.ug.edu.pl](https://cjo.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:37.504973+00:00
+
+ ## Strona główna | Centrum Zrównoważonego Rozwoju Uniwersytetu Gdańskiego (CZRUG)
+ - [https://czrug.ug.edu.pl](https://czrug.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:46.153084+00:00
+
+ ## Home | University of Gdańsk
+ - [https://en.ug.edu.pl](https://en.ug.edu.pl)
+ - date_published: 2024-07-08T11:08:22+00:00
+
+ ## Gazeta Uniwersytecka | Społeczności Akademickiej Uniwersytetu Gdańskiego
+ - [https://gazeta.ug.edu.pl](https://gazeta.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:43.801002+00:00
+
+ ## Morska Energetyka Wiatrowa :: Offshore | Uniwersytet Gdański
+ - [https://offshore.ug.edu.pl](https://offshore.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:36.024872+00:00
+
+ ## Uniwersytet Gdański - University of Gdańsk | Uniwersytet Gdański - IN MARI VIA TUA
+ - [https://old.ug.edu.pl](https://old.ug.edu.pl)
+ - date_published: 2024-07-08T11:06:18+00:00
+
+ ## Uniwersytet Gdański - University of Gdańsk | Uniwersytet Gdański - IN MARI VIA TUA
+ - [http://player.mors.ug.edu.pl](http://player.mors.ug.edu.pl)
+ - date_published: 2024-07-04T04:39:50+00:00
+
+ ## Szkoły doktorskie w Polsce | Szkoły Doktorskie - Uniwersytet Gdański
+ - [https://sd.ug.edu.pl](https://sd.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:38.357697+00:00
+
+ ## SEA -EU |
+ - [https://sea-eu.ug.edu.pl](https://sea-eu.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:40.381837+00:00
+
+ ## Centrum Wychowania Fizycznego i Sportu | Uniwersytet Gdański - IN MARI VIA TUA
+ - [https://sport.ug.edu.pl](https://sport.ug.edu.pl)
+ - date_published: 2024-07-08T05:08:30+00:00
+
+ ## | Uniwersytet Gdański
+ - [https://ug.edu.pl](https://ug.edu.pl)
+ - date_published: 2024-05-09T04:03:25.696712+00:00
+
+ ## Wydawnictwo Uniwersytetu Gdańskiego - Księgarnia Uniwersytecka online Klub czytelnika
+ - [https://wydawnictwo.ug.edu.pl](https://wydawnictwo.ug.edu.pl)
+ - date_published: 2024-07-09T07:26:53.908326+00:00
+
+ ## Biblioteka Jagiellońska - Uniwersytet Jagielloński
+ - [http://bj.uj.edu.pl](http://bj.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:19.833337+00:00
+
+ ## Jagiellonian University - Uniwersytet Jagielloński
+ - [https://en.uj.edu.pl](https://en.uj.edu.pl)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## HRS4R - Uniwersytet Jagielloński
+ - [https://hrs4r.uj.edu.pl](https://hrs4r.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:24.389671+00:00
+
+ ## Strona Główna - Program Strategiczny Inicjatywa Doskonałości w Uniwersytecie Jagiellońskim - Uniwersytet Jagielloński
+ - [https://id.uj.edu.pl](https://id.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:08.331839+00:00
+
+ ## International Visitors' Office - International Visitors' Office - Uniwersytet Jagielloński
+ - [https://international.iro.uj.edu.pl](https://international.iro.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:17.524423+00:00
+
+ ## Obserwatorium Astronomiczne im. Mikołaja Kopernika - Wydział Fizyki, Astronomii i Informatyki Stosowanej
+ - [http://oa.fais.uj.edu.pl](http://oa.fais.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:13.130015+00:00
+
+ ## Portal Uniwersytecki - Uniwersytet Jagielloński
+ - [https://portal.uj.edu.pl](https://portal.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:23.247079+00:00
+
+ ## Solaris - Narodowe Centrum Promieniowania Synchrotronowego SOLARIS - Uniwersytet Jagielloński
+ - [http://synchrotron.uj.edu.pl](http://synchrotron.uj.edu.pl)
+ - date_published: 2024-07-15T06:35:22.011090+00:00
+
+ ## Instytut Fizyki Teoretycznej - Wydział Fizyki, Astronomii i Informatyki Stosowanej
+ - [http://th-www.if.uj.edu.pl](http://th-www.if.uj.edu.pl)
+ - date_published: 2024-06-30T09:14:15.704257+00:00
 

@@ -1,179 +1,3 @@
- ## Launching Buddy | Twitter DM Tool for Product Hunt
- - [https://launchingbuddy.com](https://launchingbuddy.com)
- - date_published: 2024-09-25T13:08:40.820243+00:00
-
- ## Introduction - Launch Leopard
- - [https://docs.launchleopard.com](https://docs.launchleopard.com)
- - date_published: 2023-11-14T15:18:54.247417+00:00
-
- ## Show HN: SvelteKit SaaS Boilerplate to help launch your product fast
- - [https://launchleopard.com](https://launchleopard.com)
- - date_published: 2023-11-14T13:33:49+00:00
-
- ## Launch Marketing
- - [https://www.launch-marketing.com](https://www.launch-marketing.com)
- - date_published: 2024-06-25T23:08:12.423805+00:00
-
- ## PostHog
- - [https://a.launchnotes.com](https://a.launchnotes.com)
- - date_published: 2023-07-07T00:00:00+00:00
-
- ## LaunchNotes
- - [https://app.launchnotes.com](https://app.launchnotes.com)
- - date_published: 2024-06-13T21:41:38+00:00
-
- ## LaunchNotes Help Center
- - [https://help.launchnotes.com](https://help.launchnotes.com)
- - date_published: 2024-10-14T16:51:44.675660+00:00
-
- ## Sign in
- - [https://login.launchnotes.com](https://login.launchnotes.com)
- - date_published: 2024-10-14T16:50:32.086823+00:00
-
- ## Product Updates | LaunchNotes
- - [https://updates.launchnotes.com](https://updates.launchnotes.com)
- - date_published: 2024-10-14T16:51:42.145798+00:00
-
- ## Product Communication for the Modern Enterprise | LaunchNotes
- - [https://www.launchnotes.com](https://www.launchnotes.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## LaunchpadOne | Powerful Platform Tools to Host, Distribute and Grow Your Podcast
- - [https://www.launchpadone.com](https://www.launchpadone.com)
- - date_published: 2024-06-16T23:54:58.367568+00:00
-
- ## LaunchPass | Launch A Paid Chat Community on Discord or Slack
- - [https://launchpass.com](https://launchpass.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Home - LaunchPie
- - [https://launchpie.com](https://launchpie.com)
- - date_published: 2024-04-29T07:31:32.918697+00:00
-
- ## Launch Platform LLC
- - [https://launchplatform.com](https://launchplatform.com)
- - date_published: 2024-05-02T15:01:49.485590+00:00
-
- ## Building Git
- - [http://building-git.launchrock.com](http://building-git.launchrock.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Launderette - Austin, TX
- - [https://launderetteaustin.com](https://launderetteaustin.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## About | Laura Aboli
- - [http://lauraaboli.com](http://lauraaboli.com)
- - date_published: 2024-07-03T19:15:24.702774+00:00
-
- ## Zero Waste Living | New York | Laura Baross
- - [https://www.laurabaross.com](https://www.laurabaross.com)
- - date_published: 2024-05-02T07:57:12.871179+00:00
-
- ## Laura Baur MD | Psychiatrist Psychotherapist Psychopharmacologist | Chelsea Manhattan NYC
- - [https://laurabaurmd.com](https://laurabaurmd.com)
- - date_published: 2024-04-29T04:44:53.854280+00:00
-
- ## Laura Bifano
- - [http://www.laurabifano.com](http://www.laurabifano.com)
- - date_published: 2024-08-19T06:12:59.053629+00:00
-
- ## laura creedle, young adult book author
- - [https://lauracreedle.com](https://lauracreedle.com)
- - date_published: 2024-06-15T09:20:32.079964+00:00
-
- ## Laura Doorneweerd-Perry
- - [https://www.lauradoorneweerd.com](https://www.lauradoorneweerd.com)
- - date_published: 2024-01-09T19:17:58.321083+00:00
-
- ## Laura F Deutsch | Freelance Writer
- - [https://laurafdeutsch.com](https://laurafdeutsch.com)
- - date_published: 2024-10-14T20:24:45.028331+00:00
-
- ## work | lauraheine.com
- - [https://lauraheine.com](https://lauraheine.com)
- - date_published: 2024-07-14T08:50:37.739813+00:00
-
- ## Home
- - [https://lauraingraham.com](https://lauraingraham.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Home
- - [http://www.lauraingraham.com](http://www.lauraingraham.com)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Career and Life Coach in Bath, Wiltshire and Cotswolds - Laura Jane Thomas
- - [https://www.laurajanethomas.com](https://www.laurajanethomas.com)
- - date_published: 2024-10-22T12:45:32.134463+00:00
-
- ## Laura Jayne Hodkin
- - [https://www.laurajaynehodkin.com](https://www.laurajaynehodkin.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Laura Jean McLaughlin
- - [http://www.laurajeanmclaughlin.com](http://www.laurajeanmclaughlin.com)
- - date_published: 2024-06-28T14:14:44.160101+00:00
-
- ## Home
- - [https://laurakalbag.com](https://laurakalbag.com)
- - date_published: 2022-03-03T00:00:00+00:00
-
- ## Mastodon
- - [https://mastodon.laurakalbag.com](https://mastodon.laurakalbag.com)
- - date_published: 2024-06-01T05:33:08.280072+00:00
-
- ## LauraKBuzz.com
- - [http://laurakbuzz.com](http://laurakbuzz.com)
- - date_published: 2024-09-03T22:56:39+00:00
-
- ## too many words | by laura lemay
- - [http://blog.lauralemay.com](http://blog.lauralemay.com)
- - date_published: 2023-08-17T18:26:20+00:00
-
- ## Laura Lopuch.
- - [http://www.lauralopuch.com](http://www.lauralopuch.com)
- - date_published: 2024-06-23T06:57:10.770550+00:00
-
- ## Laura Marling - Shop
- - [https://store.lauramarling.com](https://store.lauramarling.com)
- - date_published: 2024-06-27T16:30:16.376969+00:00
-
- ## Laura Meseguer Studio - Custom Type With Character
- - [https://laurameseguer.com](https://laurameseguer.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Laura Palavecino – Virtual Artist
- - [https://laurapalavecino.com](https://laurapalavecino.com)
- - date_published: 2024-06-15T23:16:36.547165+00:00
-
- ## littlefish
- - [https://lauraroeder.com](https://lauraroeder.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Lauras MIDI Heaven
- - [http://www.laurasmidiheaven.com](http://www.laurasmidiheaven.com)
- - date_published: 2024-08-18T21:59:15.692950+00:00
-
- ## Laura Splan: Artist, Speaker, Collaborator | Art + Science + Technology
- - [http://www.laurasplan.com](http://www.laurasplan.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## New Vibe! | Laura Sprinkle
- - [https://laurasprinkle.com](https://laurasprinkle.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Laura Vanderkam | Writer, Author & Speaker | Time Management
- - [https://lauravanderkam.com](https://lauravanderkam.com)
- - date_published: 2024-10-18T14:51:33.692833+00:00
-
- ## Computational Imaging Lab »
- - [http://www.laurawaller.com](http://www.laurawaller.com)
- - date_published: 2024-08-07T15:55:02.462067+00:00
-
- ## Laura Worthington Design
- - [https://lauraworthingtondesign.com](https://lauraworthingtondesign.com)
- - date_published: 2024-06-21T23:51:55.702363+00:00
-
  ## Laurel Halo
  - [http://laurelhalo.com](http://laurelhalo.com)
  - date_published: 2024-07-13T15:19:58.957645+00:00
@@ -1117,10 +941,6 @@ Chamber Music, Symphony
  ## Accueil - LCANews
  - [https://www.lcanews.com](https://www.lcanews.com)
  - date_published: 2024-10-01T00:00:00+00:00
-
- ## Wine Spirits Beer | LCBO
- - [https://www.lcbo.com](https://www.lcbo.com)
- - date_published: 2024-06-19T09:56:01.298937+00:00
 
  ## LCCi Backend Server
  - [https://lccibackend.com](https://lccibackend.com)
@@ -4033,4 +3853,184 @@ LearnWorlds
  ## CodeSwish
  - [https://codeswish.lemonsqueezy.com](https://codeswish.lemonsqueezy.com)
  - date_published: 2024-08-19T12:07:06.018584+00:00
+
+ ## CompressX
+ - [https://compressx.lemonsqueezy.com](https://compressx.lemonsqueezy.com)
+ - date_published: 2024-07-19T19:38:29.751517+00:00
+
+ ## Curated
+ - [https://curated.lemonsqueezy.com](https://curated.lemonsqueezy.com)
+ - date_published: 2024-04-29T07:14:33.485764+00:00
+
+ ## daisyUI
+ - [https://daisyui.lemonsqueezy.com](https://daisyui.lemonsqueezy.com)
+ - date_published: 2024-05-01T03:40:47.994339+00:00
+
+ ## Help Docs: Lemon Squeezy
+ - [https://docs.lemonsqueezy.com](https://docs.lemonsqueezy.com)
+ - date_published: 2024-05-10T05:41:42.479024+00:00
+
+ ## ElemSnap
+ - [https://elemsnap.lemonsqueezy.com](https://elemsnap.lemonsqueezy.com)
+ - date_published: 2024-07-18T23:14:25.061307+00:00
+
+ ## Shay Bocks
+ - [https://enneagram.lemonsqueezy.com](https://enneagram.lemonsqueezy.com)
+ - date_published: 2024-07-13T00:00:40.716387+00:00
+
+ ## Ephesus
+ - [https://ephesus.lemonsqueezy.com](https://ephesus.lemonsqueezy.com)
+ - date_published: 2024-05-11T05:36:39.112974+00:00
+
+ ## EvenBloom
+ - [https://evenbloom.lemonsqueezy.com](https://evenbloom.lemonsqueezy.com)
+ - date_published: 2024-09-16T23:09:55.194426+00:00
+
+ ## fabform
+ - [https://fabform.lemonsqueezy.com](https://fabform.lemonsqueezy.com)
+ - date_published: 2024-07-10T09:16:28.706280+00:00
+
+ ## Felix Dorner
+ - [https://felixdorner.lemonsqueezy.com](https://felixdorner.lemonsqueezy.com)
+ - date_published: 2024-07-09T19:40:02.856865+00:00
+
+ ## GeniePy
+ - [https://geniepy.lemonsqueezy.com](https://geniepy.lemonsqueezy.com)
+ - date_published: 2024-07-10T11:07:39.485352+00:00
+
+ ## Highend
+ - [https://highend.lemonsqueezy.com](https://highend.lemonsqueezy.com)
+ - date_published: 2024-08-19T20:23:16.353413+00:00
+
+ ## John Kappa
+ - [https://johnkappa.lemonsqueezy.com](https://johnkappa.lemonsqueezy.com)
+ - date_published: 2024-07-13T00:02:49.517239+00:00
+
+ ## Kolm templates
+ - [https://kolm.lemonsqueezy.com](https://kolm.lemonsqueezy.com)
+ - date_published: 2024-09-16T23:10:47.122225+00:00
+
+ ## Labz
+ - [https://labz.lemonsqueezy.com](https://labz.lemonsqueezy.com)
+ - date_published: 2024-06-22T15:51:06.571926+00:00
+
+ ## Payments, Tax & Subscriptions for SaaS
+ - [https://lemonsqueezy.com](https://lemonsqueezy.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## LogoPictureAI
+ - [https://logopictureai.lemonsqueezy.com](https://logopictureai.lemonsqueezy.com)
+ - date_published: 2024-05-04T13:03:31.331913+00:00
+
+ ## Payments, Tax & Subscriptions for SaaS
+ - [https://makelemonade.lemonsqueezy.com](https://makelemonade.lemonsqueezy.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## React.js SaaS Starter Kit | Makerkit
+ - [https://makerkit.lemonsqueezy.com](https://makerkit.lemonsqueezy.com)
+ - date_published: 2024-07-10T11:15:33.662833+00:00
+
+ ## MarketCurve
+ - [https://marketcurve.lemonsqueezy.com](https://marketcurve.lemonsqueezy.com)
+ - date_published: 2024-08-11T20:21:25.670714+00:00
+
+ ## Mockpholio
+ - [https://mockpholio.lemonsqueezy.com](https://mockpholio.lemonsqueezy.com)
+ - date_published: 2024-07-09T19:01:12.176870+00:00
+
+ ## muted.io
+ - [https://mutedio.lemonsqueezy.com](https://mutedio.lemonsqueezy.com)
+ - date_published: 2024-05-06T08:56:55.029490+00:00
+
+ ## MVP Stack
+ - [https://mvpstack.lemonsqueezy.com](https://mvpstack.lemonsqueezy.com)
+ - date_published: 2024-07-09T00:00:37.495998+00:00
+
+ ## Polite Pop
+ - [https://politepop.lemonsqueezy.com](https://politepop.lemonsqueezy.com)
+ - date_published: 2024-07-11T10:46:56.730220+00:00
+
+ ## Product Frameworks
+ - [https://productframeworks.lemonsqueezy.com](https://productframeworks.lemonsqueezy.com)
+ - date_published: 2024-06-23T02:16:31.120328+00:00
+
+ ## PySaaS
+ - [https://pysaas.lemonsqueezy.com](https://pysaas.lemonsqueezy.com)
+ - date_published: 2024-05-06T09:18:41.495296+00:00
+
+ ## QuickSEO
+ - [https://quickseo.lemonsqueezy.com](https://quickseo.lemonsqueezy.com)
+ - date_published: 2024-09-04T00:49:19.300139+00:00
+
+ ## realvjy
+ - [https://realvjy.lemonsqueezy.com](https://realvjy.lemonsqueezy.com)
+ - date_published: 2024-09-14T09:32:37.173201+00:00
+
+ ## ReplyGuy
+ - [https://replyguy.lemonsqueezy.com](https://replyguy.lemonsqueezy.com)
+ - date_published: 2024-06-19T02:23:13.931353+00:00
+
+ ## Payments, Tax & Subscriptions for SaaS
+ - [https://saasframe.lemonsqueezy.com](https://saasframe.lemonsqueezy.com)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Saman
+ - [https://saman.lemonsqueezy.com](https://saman.lemonsqueezy.com)
+ - date_published: 2024-07-12T16:39:00.475214+00:00
+
+ ## Schedule-X
+ - [https://schedule-x.lemonsqueezy.com](https://schedule-x.lemonsqueezy.com)
+ - date_published: 2024-09-04T15:31:55.105991+00:00
+
+ ## Screen Studio — Professional screen recorder for macOS
+ - [https://screenstudio.lemonsqueezy.com](https://screenstudio.lemonsqueezy.com)
+ - date_published: 2024-08-07T03:08:36.788111+00:00
+
+ ## Spiritix
+ - [https://spiritix.lemonsqueezy.com](https://spiritix.lemonsqueezy.com)
+ - date_published: 2024-09-05T23:40:56.010346+00:00
+
+ ## remix.supply
+ - [https://stfn.lemonsqueezy.com](https://stfn.lemonsqueezy.com)
+ - date_published: 2024-09-16T23:13:56.760892+00:00
+
+ ## stockimagery
+ - [https://stockimagery.lemonsqueezy.com](https://stockimagery.lemonsqueezy.com)
+ - date_published: 2024-09-13T20:35:35.142674+00:00
+
+ ## Pricing · stocknear
+ - [https://stocknear.lemonsqueezy.com](https://stocknear.lemonsqueezy.com)
+ - date_published: 2024-05-10T05:13:07.454147+00:00
+
+ ## supastarter
+ - [https://supastarter.lemonsqueezy.com](https://supastarter.lemonsqueezy.com)
+ - date_published: 2024-07-10T11:06:37.547409+00:00
+
+ ## Supawind
+ - [https://supawind.lemonsqueezy.com](https://supawind.lemonsqueezy.com)
+ - date_published: 2024-07-10T11:07:09.789559+00:00
+
+ ## Tabler
+ - [https://tabler.lemonsqueezy.com](https://tabler.lemonsqueezy.com)
+ - date_published: 2024-08-20T05:03:27.823561+00:00
+
+ ## The Audio Programmer
+ - [https://theaudioprogrammer.lemonsqueezy.com](https://theaudioprogrammer.lemonsqueezy.com)
+ - date_published: 2024-07-12T08:47:02.183555+00:00
+
+ ## The Computer Science Book | Learn computer science the easy way for self-taught developers
+ - [https://thecomputersciencebook.lemonsqueezy.com](https://thecomputersciencebook.lemonsqueezy.com)
+ - date_published: 2023-02-22T00:00:00+00:00
+
+ ## ThemeX Studio
+ - [https://themex.lemonsqueezy.com](https://themex.lemonsqueezy.com)
+ - date_published: 2024-07-24T06:39:11.939283+00:00
+
+ ## Thorsten Ball's books
+ - [https://thorstenball.lemonsqueezy.com](https://thorstenball.lemonsqueezy.com)
+ - date_published: 2024-08-19T08:41:07.935394+00:00
+
+ ## Ubidrop
+ - [https://ubidrop.lemonsqueezy.com](https://ubidrop.lemonsqueezy.com)
+ - date_published: 2024-08-19T23:39:42.340861+00:00
 

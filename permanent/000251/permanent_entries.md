@@ -1,292 +1,3 @@
- ## Homepage - George Mason University Student Centers
- - [https://studentcenters.gmu.edu](https://studentcenters.gmu.edu)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Student Conduct – George Mason University
- - [https://studentconduct.gmu.edu](https://studentconduct.gmu.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - Student Media
- - [https://studentmedia.gmu.edu](https://studentmedia.gmu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Global Education Office | George Mason University
- - [http://studyabroad.gmu.edu](http://studyabroad.gmu.edu)
- - date_published: 2024-08-07T19:08:10+00:00
-
- ## M.S. in Telecommunications – George Mason University
- - [https://telecom.gmu.edu](https://telecom.gmu.edu)
- - date_published: 2024-08-11T12:14:06.056013+00:00
-
- ## Home
- - [https://theater.gmu.edu](https://theater.gmu.edu)
- - date_published: 2024-07-22T02:23:21+00:00
-
- ## Terrorism, Transnational Crime & Corruption Center - TraCCC
- - [https://traccc.gmu.edu](https://traccc.gmu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Office of Undergraduate Education
- - [https://transitions.gmu.edu](https://transitions.gmu.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Parking & Transportation - George Mason University
- - [http://transportation.gmu.edu](http://transportation.gmu.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## University Life Mason Square
- - [https://ularlington.gmu.edu](https://ularlington.gmu.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Office of Institutional Effectiveness and Planning
- - [https://ulassessment.gmu.edu](https://ulassessment.gmu.edu)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Home - University Life
- - [https://ulife.gmu.edu](https://ulife.gmu.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## University Life Science and Technology Campus
- - [https://ulscitech.gmu.edu](https://ulscitech.gmu.edu)
- - date_published: 2024-08-11T12:13:26.744463+00:00
-
- ## Technology Services
- - [https://ultech.ulife.gmu.edu](https://ultech.ulife.gmu.edu)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## University Policy – Where Innovation Is Tradition
- - [https://universitypolicy.gmu.edu](https://universitypolicy.gmu.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## MCHW
- - [https://vahlthwf.gmu.edu](https://vahlthwf.gmu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Web Development
- - [http://webdev.gmu.edu](http://webdev.gmu.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Welcome2Mason
- - [https://welcome2mason.gmu.edu](https://welcome2mason.gmu.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Home - Center for the Advancement of Well-Being
- - [https://wellbeing.gmu.edu](https://wellbeing.gmu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The Washington Journalism and Media Conference
- - [https://wjmc.gmu.edu](https://wjmc.gmu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## home
- - [https://wmst.gmu.edu](https://wmst.gmu.edu)
- - date_published: 2024-08-11T12:14:01.401865+00:00
-
- ## home
- - [https://writingcenter.gmu.edu](https://writingcenter.gmu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## George Mason University
- - [https://wsp.gmu.edu](https://wsp.gmu.edu)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Home
- - [https://www2.gmu.edu](https://www2.gmu.edu)
- - date_published: 2024-04-30T04:25:44.724704+00:00
-
- ## Center for Discovery Science and Health Informatics at George Mason University
- - [https://dshi.gmu.edu](https://dshi.gmu.edu)
- - date_published: 2024-04-30T04:27:41.542619+00:00
-
- ## HOME | GMU Green Machine
- - [https://www.greenmachine.gmu.edu](https://www.greenmachine.gmu.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home
- - [https://law.gmu.edu](https://law.gmu.edu)
- - date_published: 2024-04-30T04:45:39.216523+00:00
-
- ## HOME- GMU Machine Learning and Inference Laboratory
- - [https://www.mli.gmu.edu](https://www.mli.gmu.edu)
- - date_published: 2024-07-22T02:59:29.718668+00:00
-
- ## Gnomon
- - [http://gnomon.edu](http://gnomon.edu)
- - date_published: 2024-07-09T05:53:50+00:00
-
- ## Gnomon Online
- - [https://online.gnomon.edu](https://online.gnomon.edu)
- - date_published: 2024-07-09T13:39:23.256782+00:00
-
- ## Goucher College: Maryland's Innovative Liberal Arts College
- - [https://www.goucher.edu](https://www.goucher.edu)
- - date_published: 2024-07-10T11:21:21.029993+00:00
-
- ## Gratz College
- - [https://www.gratz.edu](https://www.gratz.edu)
- - date_published: 2024-10-19T18:15:45.525614+00:00
-
- ## Login
- - [https://admission.grinnell.edu](https://admission.grinnell.edu)
- - date_published: 2024-06-20T13:56:08.880705+00:00
-
- ## The Online Home for Grinnellians - Grinnell College
- - [https://alumni.grinnell.edu](https://alumni.grinnell.edu)
- - date_published: 2024-06-20T13:56:12.907572+00:00
-
- ## Welcome | Pioneer Bookshop, Grinnell College
- - [https://bookstore.grinnell.edu](https://bookstore.grinnell.edu)
- - date_published: 2024-06-20T13:56:05.482446+00:00
-
- ## Grinnell College - Acalog ACMS™
- - [https://catalog.grinnell.edu](https://catalog.grinnell.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Grinnell College | Grinnell College
- - [https://grinnell.edu](https://grinnell.edu)
- - date_published: 2024-05-04T09:00:58.452755+00:00
-
- ## Office of Academic Affairs at Georgia State University
- - [https://academic.gsu.edu](https://academic.gsu.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Access & Accommodations Center - Georgia State University
- - [https://access.gsu.edu](https://access.gsu.edu)
- - date_published: 2024-07-21T23:56:55.691523+00:00
-
- ## Become a Panther Today
- - [https://admissions.gsu.edu](https://admissions.gsu.edu)
- - date_published: 2024-04-30T04:40:35.986613+00:00
-
- ## Advisement
- - [https://advisement.gsu.edu](https://advisement.gsu.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## University Messages - Georgia State Ahead
- - [https://ahead.gsu.edu](https://ahead.gsu.edu)
- - date_published: 2024-07-20T18:43:06.591400+00:00
-
- ## Department of Applied Linguistics & ESL at Georgia State
- - [https://alsl.gsu.edu](https://alsl.gsu.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Georgia State University Alumni Association
- - [https://alumni.gsu.edu](https://alumni.gsu.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Help and Answers - Help and Answers
- - [http://answers.library.gsu.edu](http://answers.library.gsu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Advancement of Women
- - [https://aofw.gsu.edu](https://aofw.gsu.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Welcome to app.gsu.edu
- - [https://app.gsu.edu](https://app.gsu.edu)
- - date_published: 2015-09-22T13:43:22+00:00
-
- ## ArchivesSpace Public Interface | ArchivesSpace at GSU Library
- - [https://archivesspace.library.gsu.edu](https://archivesspace.library.gsu.edu)
- - date_published: 2024-07-22T02:23:22.590679+00:00
-
- ## ARCTIC - Advanced Research Computing Technology & Innovation Core
- - [https://arctic.gsu.edu](https://arctic.gsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University Auditing and Advisory Services - University Auditing and Advisory Services
- - [https://audit.gsu.edu](https://audit.gsu.edu)
- - date_published: 2024-04-30T04:31:01.456464+00:00
-
- ## IIS Windows Server
- - [https://auxdining01.gsu.edu](https://auxdining01.gsu.edu)
- - date_published: 2020-08-27T15:34:48+00:00
-
- ## Andrew Young School of Policy Studies
- - [https://aysps.gsu.edu](https://aysps.gsu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Belonging@GSU - Georgia State University
- - [https://belonging.gsu.edu](https://belonging.gsu.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Biology
- - [https://biology.gsu.edu](https://biology.gsu.edu)
- - date_published: 2024-07-20T22:38:41.229772+00:00
-
- ## Institute for Biomedical Sciences
- - [http://biomedical.gsu.edu](http://biomedical.gsu.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## University Library News – Georgia State University
- - [https://blog.library.gsu.edu](https://blog.library.gsu.edu)
- - date_published: 2024-07-07T10:33:24.524533+00:00
-
- ## LibCal -
-        Georgia State University College of Law Library
- - [http://booking.lawlibrary.gsu.edu](http://booking.lawlibrary.gsu.edu)
- - date_published: 2024-07-22T02:26:04.948856+00:00
-
- ## Events Calendar
- - [https://calendar.gsu.edu](https://calendar.gsu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Campus Directory — Georgia State University
- - [https://campusdirectory.gsu.edu](https://campusdirectory.gsu.edu)
- - date_published: 2024-04-30T04:40:38.803103+00:00
-
- ## Georgia State University CampusID Self Service Password Reset
- - [https://campusid.gsu.edu](https://campusid.gsu.edu)
- - date_published: 2024-07-21T23:55:47.755888+00:00
-
- ## The Stateway - Georgia State University Viewbook
- - [http://campuslife.gsu.edu](http://campuslife.gsu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Andrew Young School Career Services & Alumni Relations - Office of Career Services & Alumni Relations
- - [https://career.aysps.gsu.edu](https://career.aysps.gsu.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## University Career Services
- - [https://career.gsu.edu](https://career.gsu.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## College of Arts & Sciences
- - [http://cas.gsu.edu](http://cas.gsu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Georgia State University - Modern Campus Catalog™
- - [https://catalog.gsu.edu](https://catalog.gsu.edu)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Georgia State University - Acalog ACMS™
- - [https://catalogs.gsu.edu](https://catalogs.gsu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Place a Catering Order
- - [https://catering.gsu.edu](https://catering.gsu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## DEV Splash
- - [https://cdn.gsu.edu](https://cdn.gsu.edu)
- - date_published: 2022-03-22T22:35:39+00:00
-
- ## Center for Excellence in Teaching, Learning & Online Education - Georgia State University
- - [https://cetl.gsu.edu](https://cetl.gsu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Center for Excellence in Teaching, Learning & Online Education - Georgia State University
- - [https://cetloe.gsu.edu](https://cetloe.gsu.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## CHEMATIX Redirect
- - [https://chematix.gsu.edu](https://chematix.gsu.edu)
- - date_published: 2021-03-11T05:43:06+00:00
-
- ## Attention Required! | Cloudflare
- - [http://ci.gsu.edu](http://ci.gsu.edu)
- - date_published: 2024-07-21T23:54:13.645694+00:00
-
  ## Georgia State University - Acalog ACMS™
  - [https://codeofconduct.gsu.edu](https://codeofconduct.gsu.edu)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -4005,4 +3716,293 @@ Action
  ## Online Degrees, Certificates, and Courses | University of Illinois
  - [https://online.illinois.edu](https://online.illinois.edu)
  - date_published: 2024-06-22T09:30:53.764059+00:00
+
+ ## Home - OPRS | Office for the Protection of Research Subjects (OPRS)
+ - [https://oprs.research.illinois.edu](https://oprs.research.illinois.edu)
+ - date_published: 2024-10-15T07:27:21.031359+00:00
+
+ ## Office of Student Financial Aid
+ - [https://osfa.illinois.edu](https://osfa.illinois.edu)
+ - date_published: 2024-07-21T22:36:57.379770+00:00
+
+ ## UIUC Office of Technology Management
+ - [https://otm.illinois.edu](https://otm.illinois.edu)
+ - date_published: 2024-06-16T21:05:33+00:00
+
+ ## OVCR Enterprise Authentication
+ - [https://ovcrportal.research.illinois.edu](https://ovcrportal.research.illinois.edu)
+ - date_published: 2024-10-15T07:27:15.825865+00:00
+
+ ## Home
+ - [https://pages.law.illinois.edu](https://pages.law.illinois.edu)
+ - date_published: 2024-07-21T23:27:49.320686+00:00
+
+ ## Illinois Physics | The Grainger College of Engineering | UIUC
+ - [https://physics.illinois.edu](https://physics.illinois.edu)
+ - date_published: 2024-10-22T05:11:51.735986+00:00
+
+ ## Pi Tau Sigma
+ - [https://pitausigma.mechse.illinois.edu](https://pitausigma.mechse.illinois.edu)
+ - date_published: 2024-02-08T16:48:21.457271+00:00
+
+ ## Prairie Research Institute – The Prairie Research Institute provides research, scientific expertise, and objective data that benefit the environment, economy, and people of Illinois and beyond.
+ - [https://prairie.illinois.edu](https://prairie.illinois.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## CRAB – Take control of your Internet with CRAB
+ - [https://projectcrab.web.illinois.edu](https://projectcrab.web.illinois.edu)
+ - date_published: 2024-06-22T09:15:41.747620+00:00
+
+ ## Office of Proposal Development
+ - [https://proposal.illinois.edu](https://proposal.illinois.edu)
+ - date_published: 2024-10-15T07:26:09.893414+00:00
+
+ ## Office of the Provost
+ - [http://provost.illinois.edu](http://provost.illinois.edu)
+ - date_published: 2024-07-07T05:30:14.894473+00:00
+
+ ## Psychology at Illinois
+ - [https://psychology.illinois.edu](https://psychology.illinois.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Home | Strategic Communications and Marketing | University of Illinois
+ - [https://publicaffairs.illinois.edu](https://publicaffairs.illinois.edu)
+ - date_published: 2024-04-30T05:00:37.821193+00:00
+
+ ## publish.illinois.edu – A blog and microsite publishing service for the University of Illinois at Urbana-Champaign
+ - [https://publish.illinois.edu](https://publish.illinois.edu)
+ - date_published: 2024-04-30T04:58:29.043135+00:00
+
+ ## Chitambar Quantum Information Group – Get entangled at Illinois
+ - [https://quantum-entangled.ece.illinois.edu](https://quantum-entangled.ece.illinois.edu)
+ - date_published: 2024-09-05T09:56:52.610398+00:00
+
+ ## Radhika Mittal - UIUC
+ - [https://radhikam.web.illinois.edu](https://radhikam.web.illinois.edu)
+ - date_published: 2024-05-04T15:26:38.138214+00:00
+
+ ## RadioSaber
+ - [https://radiosaber.web.illinois.edu](https://radiosaber.web.illinois.edu)
+ - date_published: 2024-06-22T09:15:46.209962+00:00
+
+ ## Region-Based Representations Revisited
+ - [https://regionreps.web.illinois.edu](https://regionreps.web.illinois.edu)
+ - date_published: 2024-06-20T04:36:01+00:00
+
+ ## Office of the Registrar
+ - [http://registrar.illinois.edu](http://registrar.illinois.edu)
+ - date_published: 2024-07-07T05:30:07.286048+00:00
+
+ ## RELATE
+ - [https://relate.cs.illinois.edu](https://relate.cs.illinois.edu)
+ - date_published: 2024-04-30T04:58:40.098562+00:00
+
+ ## Research Data Service – University of Illinois Library
+ - [https://researchdataservice.illinois.edu](https://researchdataservice.illinois.edu)
+ - date_published: 2024-10-15T07:26:13.159457+00:00
+
+ ## Home - Office of the Vice Chancellor of Research and Innovation | Office of the Vice Chancellor for Research and Innovation (OVCRI)
+ - [https://research.illinois.edu](https://research.illinois.edu)
+ - date_published: 2024-06-13T17:17:27+00:00
+
+ ## Research IT | Illinois
+ - [https://researchit.illinois.edu](https://researchit.illinois.edu)
+ - date_published: 2024-10-15T07:26:28.820835+00:00
+
+ ## Home - Research Park
+ - [http://researchpark.illinois.edu](http://researchpark.illinois.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Illinois Robotics Group – An initiative of the Coordinated Science Laboratory
+ - [https://robotics.illinois.edu](https://robotics.illinois.edu)
+ - date_published: 2024-09-13T18:12:30.227972+00:00
+
+ ## Riccardo Paccagnella
+ - [https://rp8.web.engr.illinois.edu](https://rp8.web.engr.illinois.edu)
+ - date_published: 2024-07-03T03:25:04.311297+00:00
+
+ ## Runpei Dong
+ - [https://runpeidong.web.illinois.edu](https://runpeidong.web.illinois.edu)
+ - date_published: 2024-09-11T01:57:08+00:00
+
+ ## Rui Yang
+ - [http://ry2.web.engr.illinois.edu](http://ry2.web.engr.illinois.edu)
+ - date_published: 2021-02-04T15:38:54+00:00
+
+ ## Richard Y. Zhang
+ - [https://ryz.ece.illinois.edu](https://ryz.ece.illinois.edu)
+ - date_published: 2024-03-04T14:18:35+00:00
+
+ ## Sachin Ashok
+ - [https://sachin.cs.illinois.edu](https://sachin.cs.illinois.edu)
+ - date_published: 2024-05-11T20:19:57+00:00
+
+ ## International Safety and Security | University of Illinois Urbana-Champaign
+ - [http://safetyabroad.illinois.edu](http://safetyabroad.illinois.edu)
+ - date_published: 2024-05-28T02:11:08+00:00
+
+ ## Grainger Safety
+ - [https://safety.grainger.illinois.edu](https://safety.grainger.illinois.edu)
+ - date_published: 2024-07-21T21:56:24.443774+00:00
+
+ ## Saurabh Gupta
+ - [https://saurabhg.web.illinois.edu](https://saurabhg.web.illinois.edu)
+ - date_published: 2024-04-30T04:58:32.004310+00:00
+ - tags: ['personal']
+
+ ## Senate of the Urbana-Champaign Campus, University of Illinois
+ - [http://senate.illinois.edu](http://senate.illinois.edu)
+ - date_published: 2024-07-07T05:28:58.252228+00:00
+
+ ## Julia Hockenmaier's research group
+ - [https://shannon.cs.illinois.edu](https://shannon.cs.illinois.edu)
+ - date_published: 2020-06-22T20:10:14+00:00
+
+ ## Shenlong Wang
+ - [https://shenlong.web.illinois.edu](https://shenlong.web.illinois.edu)
+ - date_published: 2024-05-06T02:14:10+00:00
+
+ ## Home
+ - [https://siebelschool.illinois.edu](https://siebelschool.illinois.edu)
+ - date_published: 2024-07-21T21:51:10.538852+00:00
+
+ ## FrontPage | Student Health Insurance | UIUC
+ - [http://si.illinois.edu](http://si.illinois.edu)
+ - date_published: 2024-07-21T22:26:37.957308+00:00
+
+ ## SiNRG: the Signals Inference Research Group @ UIUC
+ - [https://sinrg.csl.illinois.edu](https://sinrg.csl.illinois.edu)
+ - date_published: 2024-09-13T18:13:59.007117+00:00
+
+ ## Suraj Jog, Ph.D.
+ - [https://sjog2.web.engr.illinois.edu](https://sjog2.web.engr.illinois.edu)
+ - date_published: 2023-10-19T00:15:03+00:00
+
+ ## Svetlana Lazebnik
+ - [https://slazebni.cs.illinois.edu](https://slazebni.cs.illinois.edu)
+ - date_published: 2024-01-10T17:15:51+00:00
+
+ ## Untitled Document
+ - [http://snir.cs.illinois.edu](http://snir.cs.illinois.edu)
+ - date_published: 2022-05-05T02:08:16+00:00
+
+ ## Andrew Miller @ UIUC
+ - [https://soc1024.ece.illinois.edu](https://soc1024.ece.illinois.edu)
+ - date_published: 2024-05-08T00:01:46.650328+00:00
+
+ ## School of Social Work
+ - [https://socialwork.illinois.edu](https://socialwork.illinois.edu)
+ - date_published: 2024-07-07T05:28:49.153354+00:00
+
+ ## Home | Sponsored Programs Administration
+ - [http://sponsoredprograms.illinois.edu](http://sponsoredprograms.illinois.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Spurlock Museum, U of I
+ - [http://spurlock.illinois.edu](http://spurlock.illinois.edu)
+ - date_published: 2024-04-28T17:26:36+00:00
+
+ ## Home | College of ACES | UIUC
+ - [https://staging.aces.illinois.edu](https://staging.aces.illinois.edu)
+ - date_published: 2024-07-20T08:49:21+00:00
+
+ ## Service Status
+ - [https://status.engineering.illinois.edu](https://status.engineering.illinois.edu)
+ - date_published: 2024-07-21T22:24:08.236092+00:00
+
+ ## Home | Strategic Communications and Marketing | University of Illinois
+ - [https://stratcom.illinois.edu](https://stratcom.illinois.edu)
+ - date_published: 2024-07-21T21:48:47.649618+00:00
+
+ ## Boldly Illinois: 2030 Strategic Planning
+ - [http://strategicplan.illinois.edu](http://strategicplan.illinois.edu)
+ - date_published: 2024-07-07T05:29:38.014534+00:00
+
+ ## Home | Student Affairs | UIUC
+ - [http://studentaffairs.illinois.edu](http://studentaffairs.illinois.edu)
+ - date_published: 2024-07-07T05:30:41.934577+00:00
+
+ ## The Grainger College of Engineering
+ - [https://students.grainger.illinois.edu](https://students.grainger.illinois.edu)
+ - date_published: 2024-04-30T04:59:16.392692+00:00
+
+ ## hari sundaram @ uiuc
+ - [http://sundaram.cs.illinois.edu](http://sundaram.cs.illinois.edu)
+ - date_published: 2023-10-04T05:53:44+00:00
+
+ ## ILLINOIS | INSTITUTE FOR SUSTAINABILITY, ENERGY, AND ENVIRONMENT
+ - [https://sustainability.illinois.edu](https://sustainability.illinois.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SiNRG: the Signals Inference Research Group @ UIUC
+ - [https://synrg.csl.illinois.edu](https://synrg.csl.illinois.edu)
+ - date_published: 2024-09-13T18:13:54.382753+00:00
+
+ ## The Hoeft Technology and Management Program
+ - [https://techmgmt.illinois.edu](https://techmgmt.illinois.edu)
+ - date_published: 2024-04-30T04:58:59.282852+00:00
+
+ ## Home - Technology Services
+ - [https://techservices.illinois.edu](https://techservices.illinois.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Welcome | Illini Union Tech Zone
+ - [https://techzone.illinois.edu](https://techzone.illinois.edu)
+ - date_published: 2024-07-21T21:56:08.969045+00:00
+
+ ## Home
+ - [https://tec.illinois.edu](https://tec.illinois.edu)
+ - date_published: 2024-10-15T07:26:33.066411+00:00
+
+ ## News Bureau | ILLINOIS
+ - [https://test-news.webservices.illinois.edu](https://test-news.webservices.illinois.edu)
+ - date_published: 2024-04-30T05:00:49.395037+00:00
+
+ ## Untitled Document
+ - [https://test.webservices.illinois.edu](https://test.webservices.illinois.edu)
+ - date_published: 2023-12-08T20:39:07+00:00
+
+ ## Timothy M. Chan
+ - [http://tmc.web.engr.illinois.edu](http://tmc.web.engr.illinois.edu)
+ - date_published: 2024-04-17T17:13:04+00:00
+
+ ## Tom Yurek
+ - [https://tomyurek.web.illinois.edu](https://tomyurek.web.illinois.edu)
+ - date_published: 2023-05-19T22:04:08+00:00
+
+ ## Illinois Office of Undergraduate Research | University of Illinois at Urbana Champaign
+ - [https://undergradresearch.illinois.edu](https://undergradresearch.illinois.edu)
+ - date_published: 2024-06-07T23:10:04+00:00
+
+ ## Front Page | Illini Union | UIUC
+ - [http://union.illinois.edu](http://union.illinois.edu)
+ - date_published: 2024-07-07T05:30:20.850276+00:00
+
+ ## College of Veterinary Medicine - Veterinary Medicine at Illinois
+ - [https://vetmed.illinois.edu](https://vetmed.illinois.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Computer Vision and Robotics Laboratory
+ - [http://vision.ai.illinois.edu](http://vision.ai.illinois.edu)
+ - date_published: 2024-06-22T07:34:55.961476+00:00
+
+ ## Illinois Identity Provider Selection
+ - [https://webservices.illinois.edu](https://webservices.illinois.edu)
+ - date_published: 2024-04-30T05:00:47.577213+00:00
+
+ ## Illinois Identity Provider Selection
+ - [https://webtools.illinois.edu](https://webtools.illinois.edu)
+ - date_published: 2024-07-02T02:49:46.596146+00:00
+
+ ## Front Page | Mental Health & Wellness | UIUC
+ - [https://wellness.illinois.edu](https://wellness.illinois.edu)
+ - date_published: 2024-07-15T11:12:15.358800+00:00
+
+ ## Dashboard - NCSA Wiki
+ - [https://wiki.ncsa.illinois.edu](https://wiki.ncsa.illinois.edu)
+ - date_published: 2024-05-06T23:13:10.275650+00:00
+
+ ## College of Engineering
+ - [https://ws.dev.engr.illinois.edu](https://ws.dev.engr.illinois.edu)
+ - date_published: 2024-07-21T22:04:51.731951+00:00
 

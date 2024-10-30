@@ -1,27 +1,3 @@
- ## GMS Church
- - [https://gms.church](https://gms.church)
- - date_published: 2024-07-14T08:42:22.691975+00:00
-
- ## Justice - Official Online Store
- - [https://justice.church](https://justice.church)
- - date_published: 2024-05-08T05:14:37.823438+00:00
-
- ## Rising Church
- - [https://kcrising.church](https://kcrising.church)
- - date_published: 2024-07-14T09:55:09.041466+00:00
-
- ## You're Welcome Here | Life.Church
- - [https://www.life.church](https://www.life.church)
- - date_published: 2024-06-22T05:52:36.060579+00:00
-
- ## Mimesia Church
- - [https://mimesia.church](https://mimesia.church)
- - date_published: 2024-06-15T10:58:22.917240+00:00
-
- ## Home Page
- - [https://pcg.church](https://pcg.church)
- - date_published: 2024-05-06T14:34:25.618031+00:00
-
  ## STEEPLE - A Scary Go Round Comic
  - [https://steeple.church](https://steeple.church)
  - date_published: 2020-02-16T00:00:00+00:00
@@ -1212,10 +1188,6 @@
 	- Ojo donde estudias
  - [http://www.ojodondeestudias.cl](http://www.ojodondeestudias.cl)
  - date_published: 2024-09-12T00:00:00+00:00
-
- ## Fabricante de autos alemán | Opel Chile
- - [https://www.opel.cl](https://www.opel.cl)
- - date_published: 2024-07-10T17:50:17+00:00
 
  ## Página 7
  - [https://www.pagina7.cl](https://www.pagina7.cl)
@@ -4009,4 +3981,33 @@
  ## April Cools' Club
  - [https://www.aprilcools.club](https://www.aprilcools.club)
  - date_published: 2024-04-07T06:01:55+00:00
+
+ ## Resize and Save Images | Online
+ - [http://artpictures.club](http://artpictures.club)
+ - date_published: 2024-08-19T15:21:22.812404+00:00
+
+ ## ASCII Art Generator - Online "HD" Color Image to Text Converter ▄▀▄▀█▓▒░
+ - [https://asciiart.club](https://asciiart.club)
+ - date_published: 2024-05-02T13:26:56.794323+00:00
+ - tags: ['ascii art']
+
+ ## ASU Hacking Club
+ - [https://asuhacking.club](https://asuhacking.club)
+ - date_published: 2022-11-08T22:20:47+00:00
+
+ ## Atari Club
+ - [https://www.atari.club](https://www.atari.club)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Awesome Socks Club
+ - [https://awesomesocks.club](https://awesomesocks.club)
+ - date_published: 2024-06-23T06:02:06.334273+00:00
+
+ ## Barrett's Club
+ - [https://barretts.club](https://barretts.club)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Base
+ - [https://base.club](https://base.club)
+ - date_published: 2024-08-14T00:00:00+00:00
 

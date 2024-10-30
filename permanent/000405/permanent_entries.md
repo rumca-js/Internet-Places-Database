@@ -1,407 +1,3 @@
- ## Audi Trinidad & Tobago | Experience the future of premium mobility
- - [http://www.audi.com.tt](http://www.audi.com.tt)
- - date_published: 2024-07-19T20:45:21+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.com.tt](https://visa.com.tt)
- - date_published: 2024-05-12T03:59:43.138670+00:00
-
- ## Will Scott – Web Hacker
- - [http://wills.co.tt](http://wills.co.tt)
- - date_published: 2024-06-16T03:58:45.788830+00:00
-
- ## Visit Tobago | Beaches, Romance & Weddings, Eco Adventure, Culture
- - [https://www.visittobago.gov.tt](https://www.visittobago.gov.tt)
- - date_published: 2024-07-20T05:55:13.367893+00:00
-
- ## Audi Trinidad & Tobago | Experience the future of premium mobility
- - [https://www.audi.tt](https://www.audi.tt)
- - date_published: 2024-07-19T20:45:21+00:00
-
- ## Anthony Birkett
- - [https://birke.tt](https://birke.tt)
- - date_published: 2023-08-28T14:01:27+00:00
-
- ## Contact Andrew Burnett
- - [https://burne.tt](https://burne.tt)
- - date_published: 2024-04-07T18:07:05+00:00
-
- ## Dropbox.com
- - [https://db.tt](https://db.tt)
- - date_published: 2024-05-10T06:49:02.587310+00:00
-
- ## Dust
- - [https://blog.dust.tt](https://blog.dust.tt)
- - date_published: 2024-05-02T10:29:32.745768+00:00
-
- ## Dust Community
- - [https://community.dust.tt](https://community.dust.tt)
- - date_published: 2024-10-15T00:00:00+00:00
-
- ## Dust Documentation
- - [https://docs.dust.tt](https://docs.dust.tt)
- - date_published: 2024-05-02T10:29:31.633463+00:00
-
- ## Dust - Secure AI assistant with your company's knowledge
- - [https://dust.tt](https://dust.tt)
- - date_published: 2023-10-25T22:47:21.135871+00:00
-
- ## Dust Status
- - [https://status.dust.tt](https://status.dust.tt)
- - date_published: 2024-10-19T18:04:57.868142+00:00
-
- ## Karbon Based
- - [https://garre.tt](https://garre.tt)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.tt](https://maps.google.tt)
- - date_published: 2024-07-20T07:36:24.154787+00:00
-
- ## Google
- - [https://www.google.tt](https://www.google.tt)
- - date_published: 2024-06-21T22:25:32.277468+00:00
-
- ## Public Notebook
- - [https://notebook.hew.tt](https://notebook.hew.tt)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## IFTTT - Automate business & home
- - [https://ift.tt](https://ift.tt)
- - date_published: 2024-07-18T17:12:34.816396+00:00
-
- ## Texts Joins Automattic
- - [https://ma.tt](https://ma.tt)
- - date_published: 2023-10-25T08:56:15.066408+00:00
- - tags: ['personal']
-
- ## pra.tt
- - [https://pra.tt](https://pra.tt)
- - date_published: 2024-07-13T04:16:40+00:00
-
- ## presco.tt
- - [https://presco.tt](https://presco.tt)
- - date_published: 2024-07-13T04:04:10.406128+00:00
-
- ## Workspace loading…
- - [https://futuresplus.trade.tt](https://futuresplus.trade.tt)
- - date_published: 2024-07-20T03:41:33.888313+00:00
-
- ## Take stories with you. - Wattpad
- - [https://my.w.tt](https://my.w.tt)
- - date_published: 2024-06-19T15:09:36.798171+00:00
-
- ## Wattpad - Where stories live
- - [https://w.tt](https://w.tt)
- - date_published: 2024-05-08T06:04:10.600147+00:00
-
- ## Home
- - [https://wi.tt](https://wi.tt)
- - date_published: 2023-12-22T20:06:34+00:00
-
- ## wyattanderson.com
- - [https://wya.tt](https://wya.tt)
- - date_published: 2024-07-13T04:10:00.891635+00:00
-
- ## Bolhaverso
- - [https://bolha.tube](https://bolha.tube)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## ConfTube
- - [https://conf.tube](https://conf.tube)
- - date_published: 2024-05-04T09:02:31.819342+00:00
-
- ## DTube
- - [https://d.tube](https://d.tube)
- - date_published: 2023-01-09T00:28:21+00:00
-
- ## Welcome To Distro.Tube
- - [https://distro.tube](https://distro.tube)
- - date_published: 2023-03-01T17:17:38+00:00
- - tags: ['youtuber']
-
- ## Embedding Code Generator
- - [https://embed.tube](https://embed.tube)
- - date_published: 2023-09-02T22:00:23+00:00
-
- ## fairtube
- - [https://fair.tube](https://fair.tube)
- - date_published: 2024-10-20T04:37:23.700168+00:00
-
- ## JupiterTube
- - [https://jupiter.tube](https://jupiter.tube)
- - date_published: 2024-06-16T02:39:42.210448+00:00
-
- ## Neat.Tube
- - [https://neat.tube](https://neat.tube)
- - date_published: 2024-07-08T18:18:06.691992+00:00
-
- ## Before you continue to YouTube
- - [https://nickyt.tube](https://nickyt.tube)
- - date_published: 2024-06-29T20:57:37.379255+00:00
-
- ## Orion — HDMI Monitor for iPad
- - [https://orion.tube](https://orion.tube)
- - date_published: 2023-10-09T23:05:32+00:00
-
- ## TinkerBetter
- - [https://tinkerbetter.tube](https://tinkerbetter.tube)
- - date_published: 2024-07-16T20:54:07.588308+00:00
-
- ## 12580黄页-精准信息导航,连接无限可能
- - [https://www.12580.tv](https://www.12580.tv)
- - date_published: 2024-10-25T10:11:15.474797+00:00
-
- ## 192TV
- - [https://192tv.tv](https://192tv.tv)
- - date_published: 2022-10-28T20:47:58+00:00
-
- ## 24ТВ – Онлайн ТВ | Смотреть прямой эфир бесплатно | Телевидение в HD качестве
- - [https://24h.tv](https://24h.tv)
- - date_published: 2024-05-06T20:45:03.374638+00:00
-
- ## 2C 2.0 BREAK S#!T - USE THIS ONE - 2C.tv
- - [http://2c.tv](http://2c.tv)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## 5by5
- - [https://5by5.tv](https://5by5.tv)
- - date_published: 2022-01-26T15:36:09+00:00
-
- ## TeamViewer
- - [https://898.tv](https://898.tv)
- - date_published: 2024-09-13T15:16:32.739257+00:00
-
- ## Infinity Broadcast System
- - [https://8chan.tv](https://8chan.tv)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## 918kiss สมัคร ฝาก ถอนออโต้ สล็อต 918kiss ทำระบบภายในเวลา 1 วิ
- - [https://918kissauto.tv](https://918kissauto.tv)
- - date_published: 2024-10-22T13:27:37.461435+00:00
-
- ## Home - AAJ
- - [https://aaj.tv](https://aaj.tv)
- - date_published: 2024-05-02T13:49:25.075860+00:00
-
- ## Home - Aaj English TV
- - [https://english.aaj.tv](https://english.aaj.tv)
- - date_published: 2024-06-18T16:25:57.355599+00:00
-
- ## Home - Aaj English TV
- - [https://www.aajenglish.tv](https://www.aajenglish.tv)
- - date_published: 2024-10-22T20:32:26.499054+00:00
-
- ## Home - Aajentertainment.tv
- - [https://www.aajentertainment.tv](https://www.aajentertainment.tv)
- - date_published: 2024-06-18T16:25:55.230283+00:00
-
- ## Aaron Parecki - aaronpk.tv
- - [https://aaronpk.tv](https://aaronpk.tv)
- - date_published: 2024-05-01T00:32:29.610114+00:00
-
- ## Aaron Parecki
- - [https://news.aaronpk.tv](https://news.aaronpk.tv)
- - date_published: 2024-06-14T16:39:40.079009+00:00
-
- ## Abavala.TV
- - [https://www.abavala.tv](https://www.abavala.tv)
- - date_published: 2024-09-05T13:51:29+00:00
-
- ## ABEMA | 無料動画・話題の作品が楽しめる新しい未来のテレビ
- - [https://abema.tv](https://abema.tv)
- - date_published: 2024-05-09T02:40:03.545208+00:00
-
- ## ABEMA TIMES | アベマタイムズ
- - [https://times.abema.tv](https://times.abema.tv)
- - date_published: 2024-07-08T20:29:34.516402+00:00
-
- ## Abstract Factory
- - [http://www.abstractfactory.tv](http://www.abstractfactory.tv)
- - date_published: 2015-12-15T16:19:42+00:00
-
- ## Admo.tv : Authentification
- - [https://app.admo.tv](https://app.admo.tv)
- - date_published: 2024-06-25T22:05:46.956926+00:00
-
- ## Admo.tv | Admo.tv : première plateforme d'attribution TV
- - [https://cdn-showcase.admo.tv](https://cdn-showcase.admo.tv)
- - date_published: 2024-06-25T22:05:57.952928+00:00
-
- ## Admo.tv | Admo.tv: the first TV attribution platform
- - [https://www.admo.tv](https://www.admo.tv)
- - date_published: 2024-05-06T17:49:55.018641+00:00
-
- ## Advanced Television
- - [https://advanced-television.tv](https://advanced-television.tv)
- - date_published: 2024-10-20T16:56:29.315257+00:00
-
- ## Homepage | A+E Networks EMEA
- - [https://www.aenetworks.tv](https://www.aenetworks.tv)
- - date_published: 2024-07-12T15:13:50.607959+00:00
-
- ## Aggressive
- - [https://aggressive.tv](https://aggressive.tv)
- - date_published: 2024-07-13T14:26:22.646966+00:00
-
- ## AI-Media: AI-Powered Captioning Technology & Solutions
- - [https://www.ai-media.tv](https://www.ai-media.tv)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Aisle 3 - Video Production
- - [http://aisle3.tv](http://aisle3.tv)
- - date_published: 2023-12-19T00:00:00+00:00
-
- ## Aitum | The best automation tool for streamers
- - [https://aitum.tv](https://aitum.tv)
- - date_published: 2024-07-09T18:48:05.894646+00:00
-
- ## Breaking News, World News and Video from Al Jazeera
- - [https://ajmn.tv](https://ajmn.tv)
- - date_published: 2024-06-15T10:41:41.740357+00:00
-
- ## TVアニメ「アカメが斬る！」公式サイト
- - [http://akame.tv](http://akame.tv)
- - date_published: 2024-02-13T07:39:32+00:00
-
- ## All Dog Videos. All Day. Live on AKC.TV.
- - [https://akc.tv](https://akc.tv)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## قناة الجديد | أخبار لبنان والعالم
- - [https://aljadeed.tv](https://aljadeed.tv)
- - date_published: 2024-05-10T04:47:58.431384+00:00
-
- ## Home - Allen Media Group
- - [https://allenmedia.tv](https://allenmedia.tv)
- - date_published: 2024-06-21T00:01:41.190923+00:00
-
- ## ÙÙØ§Ø© Ø§ÙÙÙØ§Ø¯ÙÙ
- - [https://cdn.almayadeen.tv](https://cdn.almayadeen.tv)
- - date_published: 2019-07-16T09:17:36+00:00
-
- ## اخبار العراق من قناه السومرية العراقية
- - [http://www.alsumaria.tv](http://www.alsumaria.tv)
- - date_published: 2024-07-11T19:02:28.321190+00:00
-
- ## Sign into
- - [https://support.amagi.tv](https://support.amagi.tv)
- - date_published: 2024-06-25T18:54:06.702059+00:00
-
- ## AMERICAEAST.TV
- - [http://americaeast.tv](http://americaeast.tv)
- - date_published: 2024-09-04T19:09:15.305640+00:00
-
- ## HOME | America Uncovered
- - [https://www.americauncovered.tv](https://www.americauncovered.tv)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Amu TV
- - [https://amu.tv](https://amu.tv)
- - date_published: 2024-01-07T13:24:26.361279+00:00
-
- ## Animade - Animation Studio in London
- - [https://www.animade.tv](https://www.animade.tv)
- - date_published: 2024-10-17T13:22:40.979170+00:00
-
- ## AnimeCons TV
- - [https://animecons.tv](https://animecons.tv)
- - date_published: 2024-05-13T03:53:29.812910+00:00
- - tags: ['anime', 'convention']
-
- ## Classic Shop - ansis.tv
- - [http://www.ansis.tv](http://www.ansis.tv)
- - date_published: 2013-08-06T20:13:19+00:00
-
- ## Answers.tv Subscription
- - [https://www.answers.tv](https://www.answers.tv)
- - date_published: 2024-08-08T15:37:44.213331+00:00
-
- ## Antalya Haber | Antalya Haberler | Antalya Son Dakika Haberleri
- - [https://antalyahaber.tv](https://antalyahaber.tv)
- - date_published: 2024-07-04T07:34:34.054852+00:00
-
- ## Aquatilis – Visual Science from the Depths
- - [https://aquatilis.tv](https://aquatilis.tv)
- - date_published: 2024-05-06T18:13:10.594603+00:00
-
- ## AREA 5
- - [https://www.area5.tv](https://www.area5.tv)
- - date_published: 2024-06-30T23:51:13.986304+00:00
-
- ## Armchair History TV
- - [https://armchairhistory.tv](https://armchairhistory.tv)
- - date_published: 2024-06-15T17:19:33.233474+00:00
-
- ## ARPP.TV
- - [https://www.arpp.tv](https://www.arpp.tv)
- - date_published: 2024-09-02T21:58:59+00:00
-
- ## ARTE Boutique : Cinéma, séries, documentaires en VOD et DVD !
- - [https://boutique.arte.tv](https://boutique.arte.tv)
- - date_published: 2024-08-06T17:24:17.358777+00:00
-
- ## ARTE Concert
- - [http://concert.arte.tv](http://concert.arte.tv)
- - date_published: 2024-07-03T16:01:27.284736+00:00
-
- ## ARTE, the European culture TV channel, free and on demand
- - [https://static-cdn.arte.tv](https://static-cdn.arte.tv)
- - date_published: 2024-08-06T17:24:23.497377+00:00
-
- ## ARTE, the European culture TV channel, free and on demand
- - [https://arte.tv](https://arte.tv)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## rt.doc Documentary Film Platform
- - [https://en.arteldoc.tv](https://en.arteldoc.tv)
- - date_published: 2024-08-06T20:27:48.506061+00:00
-
- ## Home
- - [https://arynews.tv](https://arynews.tv)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Aspect Media
- - [https://aspectmedia.tv](https://aspectmedia.tv)
- - date_published: 2024-09-18T01:21:41.809990+00:00
-
- ## Attentive | Personalized Text Messaging for Innovative Brands
- - [http://attn.tv](http://attn.tv)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## auひかり テレビサービス 公式サイト
- - [https://auhikari.tv](https://auhikari.tv)
- - date_published: 2024-07-05T05:56:48+00:00
-
- ## Auto Futures | The latest updates from the future of mobility
- - [https://www.autofutures.tv](https://www.autofutures.tv)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Autosalon TV
- - [https://autosalon.tv](https://autosalon.tv)
- - date_published: 2024-06-10T10:35:38.167608+00:00
- - tags: ['cars']
-
- ## Vítejte v dárkovém obchodu Autosalon.tv - Autosalon
- - [https://eshop.autosalon.tv](https://eshop.autosalon.tv)
- - date_published: 2024-09-05T17:07:59.722019+00:00
-
- ## AZFamily | 3TV & CBS 5 News | Phoenix, Arizona
- - [https://azfamily.tv](https://azfamily.tv)
- - date_published: 2024-05-09T06:51:55.504277+00:00
-
- ## Budi i ti na B92  - B92.TV
- - [https://b92.tv](https://b92.tv)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Backpedal TV - livestreaming and recording for conferences, meetups and events
- - [https://backpedal.tv](https://backpedal.tv)
- - date_published: 2024-05-01T00:32:17.380162+00:00
-
- ## TVアニメ「BANANA FISH」公式サイト
- - [http://bananafish.tv](http://bananafish.tv)
- - date_published: 2024-10-24T17:45:25.179699+00:00
-
  ## Bandamax | Sitio oficial
  - [https://www.bandamax.tv](https://www.bandamax.tv)
  - date_published: 2024-07-30T00:00:00+00:00
@@ -4018,4 +3614,409 @@
  ## 首頁
  - [https://www.moea.gov.tw](https://www.moea.gov.tw)
  - date_published: 2024-10-19T22:37:43.573743+00:00
+
+ ## 中華民國外交部全球資訊網
+ - [https://www.mofa.gov.tw](https://www.mofa.gov.tw)
+ - date_published: 2024-07-07T10:16:39.707813+00:00
+
+ ## 衛生福利部全球資訊網
+ - [https://www.mohw.gov.tw](https://www.mohw.gov.tw)
+ - date_published: 2024-10-19T22:38:10.601067+00:00
+
+ ## 全國法規資料庫
+ - [http://law.moj.gov.tw](http://law.moj.gov.tw)
+ - date_published: 2024-07-12T17:23:26.967208+00:00
+
+ ## 法務部廉政署中文網
+ - [https://www.aac.moj.gov.tw](https://www.aac.moj.gov.tw)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## 行政院洗錢防制辦公室中文網
+ - [https://www.amlo.moj.gov.tw](https://www.amlo.moj.gov.tw)
+ - date_published: 2024-10-19T22:36:14.535620+00:00
+
+ ## 人權大步走中文網
+ - [https://www.humanrights.moj.gov.tw](https://www.humanrights.moj.gov.tw)
+ - date_published: 2024-10-19T22:29:59.816592+00:00
+
+ ## 法務部全球資訊網中文網
+ - [https://www.moj.gov.tw](https://www.moj.gov.tw)
+ - date_published: 2024-10-19T22:31:16.545432+00:00
+
+ ## 行政院公報資訊網
+ - [https://gazette.nat.gov.tw](https://gazette.nat.gov.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## 雙語資源網Bilingual Portal
+ - [https://bilingual.ndc.gov.tw](https://bilingual.ndc.gov.tw)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 中華民國內政部消防署全球資訊網
+ - [https://www.nfa.gov.tw](https://www.nfa.gov.tw)
+ - date_published: 2024-10-19T22:30:36.821941+00:00
+
+ ## 臺灣女人 –  穿梭的記憶‧臺灣女性流轉年華
+ - [https://women.nmth.gov.tw](https://women.nmth.gov.tw)
+ - date_published: 2024-06-22T12:42:09.578615+00:00
+
+ ## 民眾意見案件管理系統
+ - [https://contactus.npm.gov.tw](https://contactus.npm.gov.tw)
+ - date_published: 2024-10-17T06:19:29.715596+00:00
+
+ ## 故宮典藏資料檢索
+ - [https://digitalarchive.npm.gov.tw](https://digitalarchive.npm.gov.tw)
+ - date_published: 2024-06-17T05:25:48+00:00
+
+ ## 故宮南院 | 喬木數位典藏資料庫
+ - [https://i-trees.npm.gov.tw](https://i-trees.npm.gov.tw)
+ - date_published: 2024-06-17T16:53:26.139410+00:00
+
+ ## 國立故宮博物院主管法規共用系統-最新訊息
+ - [https://law.npm.gov.tw](https://law.npm.gov.tw)
+ - date_published: 2024-05-02T10:40:16.228020+00:00
+
+ ## 國立故宮博物院南部院區
+ - [https://south.npm.gov.tw](https://south.npm.gov.tw)
+ - date_published: 2024-05-02T10:40:03.203961+00:00
+
+ ## 國立故宮博物院-國立故宮博物院
+ - [https://www.npm.gov.tw](https://www.npm.gov.tw)
+ - date_published: 2023-11-13T13:46:38.432750+00:00
+ - tags: ['museum']
+
+ ## 「國家科學及技術委員會全球資訊網」(NSTC)
+ - [https://www.nstc.gov.tw](https://www.nstc.gov.tw)
+ - date_published: 2024-10-19T22:37:51.657905+00:00
+
+ ## SSHM Digtal Meseum - 數位博物館
+ - [https://sshm.vm.ntpc.gov.tw](https://sshm.vm.ntpc.gov.tw)
+ - date_published: 2024-10-19T22:34:40.506766+00:00
+
+ ## 首頁 | 新北市立十三行博物館
+ - [http://www.sshm.ntpc.gov.tw](http://www.sshm.ntpc.gov.tw)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## CRPD 身心障礙者權利公約 - 首頁
+ - [https://crpd.sfaa.gov.tw](https://crpd.sfaa.gov.tw)
+ - date_published: 2024-10-19T22:30:48.659241+00:00
+
+ ## 台灣就業通
+ - [https://www.taiwanjobs.gov.tw](https://www.taiwanjobs.gov.tw)
+ - date_published: 2024-10-19T22:38:25.314560+00:00
+
+ ## 經濟部國際貿易署經貿資訊網
+ - [https://www.trade.gov.tw](https://www.trade.gov.tw)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## 桃園市政府海岸及資源循環工程處
+ - [https://www.tyoca.gov.tw](https://www.tyoca.gov.tw)
+ - date_published: 2024-06-17T05:07:10+00:00
+
+ ## 2024國慶焰火在雲林
+ - [https://2024fireworks.yunlin.gov.tw](https://2024fireworks.yunlin.gov.tw)
+ - date_published: 2024-10-07T22:06:47.334137+00:00
+
+ ## TWNIC 財團法人台灣網路資訊中心
+ - [https://www.twnic.net.tw](https://www.twnic.net.tw)
+ - date_published: 2024-07-07T10:15:51.171269+00:00
+
+ ## Homepage
+ - [https://www.ait.org.tw](https://www.ait.org.tw)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## BCSD TAIWAN
+ - [https://bcsd.org.tw](https://bcsd.org.tw)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## CSROC中華民國電腦學會
+ - [http://www.csroc.org.tw](http://www.csroc.org.tw)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## 節能標章全球資訊網-一般民眾
+ - [https://www.energylabel.org.tw](https://www.energylabel.org.tw)
+ - date_published: 2024-10-19T22:38:00.523077+00:00
+
+ ## TaiwanICDF
+ - [https://www.icdf.org.tw](https://www.icdf.org.tw)
+ - date_published: 2024-07-14T18:59:01.677595+00:00
+
+ ## Institute for Information Industry(III)
+ - [https://web.iii.org.tw](https://web.iii.org.tw)
+ - date_published: 2024-07-07T10:14:19.737079+00:00
+
+ ## 財團法人林榮三文化公益基金會Lin Rong San Foundation of Culture and Social Welfare
+ - [http://www.lrsf.org.tw](http://www.lrsf.org.tw)
+ - date_published: 2024-10-07T22:12:38.731913+00:00
+
+ ## NCHC | Main / HomePage
+ - [http://free.nchc.org.tw](http://free.nchc.org.tw)
+ - date_published: 2024-08-19T22:20:47.282550+00:00
+
+ ## 無毒世界基金會網站：成人和青少年的毒品與藥物濫用真相、毒品書籍資訊、教育
+ - [http://www.notodrugs.org.tw](http://www.notodrugs.org.tw)
+ - date_published: 2024-09-04T17:53:30.230190+00:00
+
+ ## 財團法人陽明海運文化基金會
+ - [http://www.ocam.org.tw](http://www.ocam.org.tw)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## 人格測試
+ - [https://www.oca.scientology.org.tw](https://www.oca.scientology.org.tw)
+ - date_published: 2024-06-17T16:40:49.163698+00:00
+
+ ## 山達基教會：L. 羅恩 賀伯特、戴尼提、什麼是山達基？、書籍、信仰、大衛 密斯凱維吉
+ - [https://scientology.org.tw](https://scientology.org.tw)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## 山達基宗教：背景、理論和宗教實踐
+ - [https://www.scientologyreligion.org.tw](https://www.scientologyreligion.org.tw)
+ - date_published: 2024-06-06T19:41:35.098169+00:00
+
+ ## 財團法人台灣建築中心 - TABC台灣建築中心
+ - [https://www.tabc.org.tw](https://www.tabc.org.tw)
+ - date_published: 2022-10-06T09:05:21+00:00
+
+ ## 台灣人權促進會
+ - [https://www.tahr.org.tw](https://www.tahr.org.tw)
+ - date_published: 2024-09-25T16:30:55+00:00
+
+ ## 台灣流體傳動工業全球資訊網
+ - [https://www.tfpa.org.tw](https://www.tfpa.org.tw)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## iWIN網路內容防護機構 - 首頁
+ - [https://i.win.org.tw](https://i.win.org.tw)
+ - date_published: 2024-09-30T00:00:00+00:00
+
+ ## 財團法人陽明海運文化基金會
+ - [https://www.ymculture.org.tw](https://www.ymculture.org.tw)
+ - date_published: 2024-10-19T22:35:14.226977+00:00
+
+ ## 13
+ - [https://13h.tw](https://13h.tw)
+ - date_published: 2022-04-05T19:22:59+00:00
+
+ ## 20th Century Studios Taiwan | Official Website
+ - [https://www.20thcenturystudios.tw](https://www.20thcenturystudios.tw)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Gea-Suan Lin's Blog – This seems cool
+ - [https://404.tw](https://404.tw)
+ - date_published: 2023-09-26T00:00:00+00:00
+
+ ## @jihchi
+ - [https://987.tw](https://987.tw)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## 電影神搜
+ - [https://news.agentm.tw](https://news.agentm.tw)
+ - date_published: 2024-10-07T00:00:00+00:00
+
+ ## 歐搜哇 ohsowow
+ - [https://ohsowow.agentm.tw](https://ohsowow.agentm.tw)
+ - date_published: 2024-10-07T22:08:11.344675+00:00
+
+ ## AIdea
+ - [https://aidea-web.tw](https://aidea-web.tw)
+ - date_published: 2024-05-10T05:09:47.020373+00:00
+
+ ## Angular 中文文件
+ - [https://angular.tw](https://angular.tw)
+ - date_published: 2024-05-31T11:09:05.729061+00:00
+
+ ## Android 台灣中文網 智慧型手機 免費 遊戲下載 軟體下載 韌體下載 APP下載 刷機教程 -  APK.TW
+ - [https://apk.tw](https://apk.tw)
+ - date_published: 2024-06-29T17:56:49.294194+00:00
+
+ ## Apowersoft - 為您提供專業的商務辦公及日常生活的桌面軟體和線上應用
+ - [https://www.apowersoft.tw](https://www.apowersoft.tw)
+ - date_published: 2024-06-23T16:06:15.736776+00:00
+
+ ## Index of /
+ - [http://mirror.archlinux.tw](http://mirror.archlinux.tw)
+ - date_published: 2024-07-13T17:34:46.097959+00:00
+
+ ## Jasper | AI copilot for enterprise marketing teams
+ - [https://www.ata.tw](https://www.ata.tw)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## BARE: The Google Reader experience for your Twitter timeline.
+ - [https://bare.tw](https://bare.tw)
+ - date_published: 2024-07-20T03:10:14.193522+00:00
+
+ ## 程式的窩
+ - [https://blog.blackwhite.tw](https://blog.blackwhite.tw)
+ - date_published: 2024-10-22T18:50:46.995099+00:00
+
+ ## 戴尼提和山達基的教材
+ - [https://bridgepub.tw](https://bridgepub.tw)
+ - date_published: 2024-06-06T20:22:01.491687+00:00
+
+ ## 公民人權委員會首頁觀看影片。
+ - [http://www.cchr.tw](http://www.cchr.tw)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Martin's website/blog thingy
+ - [https://clehaxze.tw](https://clehaxze.tw)
+ - date_published: 2024-06-22T07:00:36.332710+00:00
+ - tags: ['personal']
+
+ ## The 13th Asia Pacific Conference on Vision
+ - [https://apcv2017.conf.tw](https://apcv2017.conf.tw)
+ - date_published: 2024-07-13T11:54:24.697802+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://dcard.tw](http://dcard.tw)
+ - date_published: 2024-06-18T09:32:14.939306+00:00
+
+ ## DDraceNetwork
+ - [https://ddnet.tw](https://ddnet.tw)
+ - date_published: 2024-05-08T10:51:38.449214+00:00
+ - tags: ['open source', 'video game']
+
+ ## 台灣迪卡儂運動誌｜超過 60 種運動項目文章，任你探索｜DECATHLON
+ - [https://blog.decathlon.tw](https://blog.decathlon.tw)
+ - date_published: 2024-07-23T00:00:00+00:00
+
+ ## 台灣迪卡儂運動社｜免綁約｜上百堂運動體驗推薦｜全台最大運動體驗平台
+ - [https://events.decathlon.tw](https://events.decathlon.tw)
+ - date_published: 2024-09-19T13:36:55.449126+00:00
+
+ ## 迪卡儂企業採購中心
+ - [https://grouporder.decathlon.tw](https://grouporder.decathlon.tw)
+ - date_published: 2024-09-19T13:37:22.480941+00:00
+
+ ## 迪卡儂會員獎勵計畫 | 專屬禮遇，等你來解鎖！
+ - [https://membership.decathlon.tw](https://membership.decathlon.tw)
+ - date_published: 2024-09-19T13:37:20.324507+00:00
+
+ ## 支援
+ - [https://support.decathlon.tw](https://support.decathlon.tw)
+ - date_published: 2024-09-19T13:36:57.476582+00:00
+
+ ## 永續迪卡儂
+ - [https://sustainability.decathlon.tw](https://sustainability.decathlon.tw)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## 迪卡儂 台灣官方網站 -  降價出清，低至6折，萬種商品，想買就買 - 超取$199 、宅配$499 免運
+ - [https://decathlon.tw](https://decathlon.tw)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## 戴尼提中文官方網站：購買L. 羅恩 賀伯特的著作，觀看戴尼提相關影片《戴尼提簡介》
+ - [https://www.dianetics.tw](https://www.dianetics.tw)
+ - date_published: 2024-06-17T16:42:22.000718+00:00
+
+ ## DigiKey
+ - [https://digikey.tw](https://digikey.tw)
+ - date_published: 2024-05-01T05:02:16.567657+00:00
+
+ ## 狀態概覽
+ - [https://downdetector.tw](https://downdetector.tw)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Needs authentication
+ - [https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw](https://bqxlf4ofmkzmq5ubzcvz2w-on.drv.tw)
+ - date_published: 2024-07-18T22:33:30.746625+00:00
+
+ ## 電競椅 | 家用遊戲椅 | 辦公人體工學椅 | DXRacer
+ - [https://www.dxracer.tw](https://www.dxracer.tw)
+ - date_published: 2024-07-03T12:26:08.197060+00:00
+
+ ## Antivirus and Internet Security Solutions
+ - [http://www.eset.tw](http://www.eset.tw)
+ - date_published: 2024-06-16T06:24:43.548025+00:00
+
+ ## 哇哇3C日誌
+ - [https://ez3c.tw](https://ez3c.tw)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## HTTP Server Test Page powered by CentOS-WebPanel.com
+ - [https://www.fng.tw](https://www.fng.tw)
+ - date_published: 2021-12-21T23:22:40+00:00
+
+ ## Focus Taiwan - CNA English News
+ - [https://focustaiwan.tw](https://focustaiwan.tw)
+ - date_published: 2023-10-25T09:38:54.908021+00:00
+ - tags: ['taiwan news']
+
+ ## CNA Berita Bahasa Indonesia
+ - [https://indonesia.focustaiwan.tw](https://indonesia.focustaiwan.tw)
+ - date_published: 2024-07-16T20:57:00+00:00
+
+ ## フォーカス台湾 - 中央社日本語版
+ - [https://japan.focustaiwan.tw](https://japan.focustaiwan.tw)
+ - date_published: 2024-05-12T07:10:27.558537+00:00
+
+ ## iPhone和Android數據恢復，Mac清潔，免費PDF壓縮器| FoneDog
+ - [https://www.fonedog.tw](https://www.fonedog.tw)
+ - date_published: 2024-06-17T01:35:21+00:00
+
+ ## 山達基內部──<br/>毫無保留的故事
+ - [https://www.freedommag.tw](https://www.freedommag.tw)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Fur Times    獸時報 | 歡迎各位來到 Fur Times 獸時報官方網站！
+ - [https://furtimes.tw](https://furtimes.tw)
+ - date_published: 2024-06-30T06:02:40.462735+00:00
+
+ ## g0v 台灣零時政府
+ - [https://g0v.tw](https://g0v.tw)
+ - date_published: 2024-05-05T06:14:26+00:00
+
+ ## Home - 永續發展資訊網 - GIGABYTE
+ - [https://csr.gigabyte.tw](https://csr.gigabyte.tw)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## 首頁
+ - [http://www.gousa.tw](http://www.gousa.tw)
+ - date_published: 2024-06-18T18:23:02+00:00
+
+ ## 首頁
+ - [https://www.henkel.tw](https://www.henkel.tw)
+ - date_published: 2024-10-18T20:17:13.052822+00:00
+
+ ## HIOKI 日置電機 | 世界級的測試與測量設備、儀器
+ - [https://hioki.tw](https://hioki.tw)
+ - date_published: 2024-10-15T21:05:25.212663+00:00
+
+ ## HitPaw 免費線上圖片編輯
+ - [https://online.hitpaw.tw](https://online.hitpaw.tw)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## HIWIN ESG
+ - [https://esg.hiwin.tw](https://esg.hiwin.tw)
+ - date_published: 2024-09-05T21:56:21.144787+00:00
+
+ ## HIWIN Technologies Corp.
+ - [https://www.hiwin.tw](https://www.hiwin.tw)
+ - date_published: 2024-09-05T21:56:54.511734+00:00
+
+ ## Home | 大銀微系統股份有限公司
+ - [https://www.hiwinmikro.tw](https://www.hiwinmikro.tw)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## HPX 輕鬆聚
+ - [https://www.hpx.tw](https://www.hpx.tw)
+ - date_published: 2024-07-04T12:49:56.340321+00:00
+
+ ## 姆明台灣官方商城｜MOOMIN TW ONLINE
+ - [https://iam-moomin.tw](https://iam-moomin.tw)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Ignite Taipei
+ - [http://ignitetaipei.tw](http://ignitetaipei.tw)
+ - date_published: 2024-08-18T09:34:24.208812+00:00
+
+ ## The 26th Conference of the International Linear Algebra Society
+ - [https://ilas2025.tw](https://ilas2025.tw)
+ - date_published: 2024-03-10T03:04:16+00:00
+
+ ## Warung168 🐣 Link Game Cek Khodam Online Terbaru
+ - [https://ipv6launch.tw](https://ipv6launch.tw)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Google 翻譯修好了沒？ Has Google Fixed Translate Yet?
+ - [https://isgooglefixed.tw](https://isgooglefixed.tw)
+ - date_published: 2023-10-25T22:47:54.521774+00:00
+ - tags: ['google translate']
 

@@ -1,27 +1,3 @@
- ## Bienvenue sur Christian Jelk | Christian Jelk
- - [http://neserapas.ch](http://neserapas.ch)
- - date_published: 2024-07-13T15:11:27.817879+00:00
-
- ## Home Nestlé Schweiz
- - [http://www.nestle.ch](http://www.nestle.ch)
- - date_published: 2024-07-04T03:16:01+00:00
-
- ## Net Apps Sendy
- - [https://sendy.net-apps.ch](https://sendy.net-apps.ch)
- - date_published: 2024-04-30T06:03:36.638884+00:00
-
- ## NetGame Convention
- - [https://netgame.ch](https://netgame.ch)
- - date_published: 2024-05-07T09:56:30.540664+00:00
-
- ## netinfluence
- - [https://www.netinfluence.ch](https://www.netinfluence.ch)
- - date_published: 2024-07-21T06:28:08.935841+00:00
-
- ## Netzpodcast - Digitale Gesellschaft
- - [https://netzpodcast.ch](https://netzpodcast.ch)
- - date_published: 2024-07-24T16:25:20.797084+00:00
-
  ## Netzpolitischer Abend - Digitale Gesellschaft
  - [https://netzpolitischer-abend.ch](https://netzpolitischer-abend.ch)
  - date_published: 2024-04-29T05:58:19.219174+00:00
@@ -4018,4 +3994,28 @@ Fakultät | Universität Basel
  ## Church
  - [https://edit.church](https://edit.church)
  - date_published: 2024-04-29T07:14:51.539288+00:00
+
+ ## GMS Church
+ - [https://gms.church](https://gms.church)
+ - date_published: 2024-07-14T08:42:22.691975+00:00
+
+ ## Justice - Official Online Store
+ - [https://justice.church](https://justice.church)
+ - date_published: 2024-05-08T05:14:37.823438+00:00
+
+ ## Rising Church
+ - [https://kcrising.church](https://kcrising.church)
+ - date_published: 2024-07-14T09:55:09.041466+00:00
+
+ ## You're Welcome Here | Life.Church
+ - [https://www.life.church](https://www.life.church)
+ - date_published: 2024-06-22T05:52:36.060579+00:00
+
+ ## Mimesia Church
+ - [https://mimesia.church](https://mimesia.church)
+ - date_published: 2024-06-15T10:58:22.917240+00:00
+
+ ## Home Page
+ - [https://pcg.church](https://pcg.church)
+ - date_published: 2024-05-06T14:34:25.618031+00:00
 

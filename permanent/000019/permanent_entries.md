@@ -1,23 +1,3 @@
- ## Home | Human Computer Interaction | University of Waterloo
- - [http://hci.uwaterloo.ca](http://hci.uwaterloo.ca)
- - date_published: 2024-07-17T20:42:01+00:00
-
- ## Login/Logout
- - [https://imodules.uwaterloo.ca](https://imodules.uwaterloo.ca)
- - date_published: 2024-06-22T12:03:02.560524+00:00
-
- ## Raymond Laflamme's page
- - [https://laflamme.iqc.uwaterloo.ca](https://laflamme.iqc.uwaterloo.ca)
- - date_published: 2019-01-23T20:50:08+00:00
-
- ## Home
- - [https://links.uwaterloo.ca](https://links.uwaterloo.ca)
- - date_published: 2009-04-22T15:35:30+00:00
-
- ## List Index - CSC Mailman
- - [https://mailman.csclub.uwaterloo.ca](https://mailman.csclub.uwaterloo.ca)
- - date_published: 2024-04-30T05:31:16.864412+00:00
-
  ## A powerhouse of discovery and innovation | Mathematics
  - [https://math.uwaterloo.ca](https://math.uwaterloo.ca)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -4012,4 +3992,24 @@
  ## Design Studios
  - [https://www.designstudios.cc](https://www.designstudios.cc)
  - date_published: 2024-09-14T23:24:35.352755+00:00
+
+ ## Dicionarios.cc
+ - [https://dicionarios.cc](https://dicionarios.cc)
+ - date_published: 2024-07-10T08:19:40.540743+00:00
+
+ ## dict.cc | Bulgarian-German dictionary | Немско-български речник
+ - [https://bgde.dict.cc](https://bgde.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | Bulgarian-English dictionary | Английско-български речник
+ - [https://bgen.dict.cc](https://bgen.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc Wörterbuch | alle Sprachen
+ - [https://browse.dict.cc](https://browse.dict.cc)
+ - date_published: 2024-07-17T12:10:04.818828+00:00
+
+ ## dict.cc | Bosnian-German dictionary | Njemačko-bosanski rječnik
+ - [https://bsde.dict.cc](https://bsde.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
 

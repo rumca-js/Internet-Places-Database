@@ -1,430 +1,3 @@
- ## Fantasy Football Premier League Hub - The Telegraph
- - [https://fantasyfootball.telegraph.co.uk](https://fantasyfootball.telegraph.co.uk)
- - date_published: 2024-05-02T12:21:31.730479+00:00
-
- ## Telegraph
- - [http://i.telegraph.co.uk](http://i.telegraph.co.uk)
- - date_published: 2024-10-21T14:22:52.813146+00:00
-
- ## The Telegraph - Telegraph Online, Daily Telegraph, Sunday Telegraph - Telegraph
- - [http://pages.email.telegraph.co.uk](http://pages.email.telegraph.co.uk)
- - date_published: 2024-06-18T09:51:51.773729+00:00
-
- ## Telegraph
- - [https://secure.telegraph.co.uk](https://secure.telegraph.co.uk)
- - date_published: 2024-05-02T12:21:09.625111+00:00
-
- ## Telegraph Shop
- - [https://shop.telegraph.co.uk](https://shop.telegraph.co.uk)
- - date_published: 2024-05-02T12:21:11.959225+00:00
-
- ## Telegraph
- - [https://telegraph.co.uk](https://telegraph.co.uk)
- - date_published: 2024-05-02T12:21:35.328634+00:00
-
- ## Today's most popular London theatre tickets
- - [https://tickets.telegraph.co.uk](https://tickets.telegraph.co.uk)
- - date_published: 2024-05-02T12:21:29.388851+00:00
-
- ## Telstra Health UK
- - [https://telstrahealth.co.uk](https://telstrahealth.co.uk)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## G. B. National Grid status
- - [https://www.gridwatch.templar.co.uk](https://www.gridwatch.templar.co.uk)
- - date_published: 2023-10-25T22:55:05.171683+00:00
-
- ## Marketing Agency in Manchester | Social, PR, Brand, Events - Tempt
- - [https://temptmarketing.co.uk](https://temptmarketing.co.uk)
- - date_published: 2024-06-16T12:30:57.247095+00:00
-
- ## Home - Ten4 — a digital agency
- - [https://www.ten4design.co.uk](https://www.ten4design.co.uk)
- - date_published: 2024-06-29T23:26:44.692744+00:00
-
- ## Transforming safety across high-risk industries - Tended
- - [https://tended.co.uk](https://tended.co.uk)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Biotensegrity The Stuctural Basis of Life - Tensegrity In Biology
- - [http://www.tensegrityinbiology.co.uk](http://www.tensegrityinbiology.co.uk)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## TentMeals | Camping Meals and Expedition Food
- - [https://tentmeals.co.uk](https://tentmeals.co.uk)
- - date_published: 2024-07-02T17:34:07.054559+00:00
-
- ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
- - [http://tentree.co.uk](http://tentree.co.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Sustainable Clothing by tentree® | Shop Organic + Plant Trees
- - [https://www.tentree.co.uk](https://www.tentree.co.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Home
- - [http://www.terptree.co.uk](http://www.terptree.co.uk)
- - date_published: 2024-10-21T13:53:33.668702+00:00
-
- ## This domain has been registered by BT
- - [http://www.terramedia.co.uk](http://www.terramedia.co.uk)
- - date_published: 2024-08-08T19:41:35.994719+00:00
-
- ## Terrorbull Games : satirical & educational games for subversive adults
- - [http://www.terrorbull.co.uk](http://www.terrorbull.co.uk)
- - date_published: 2024-06-15T23:16:50.816511+00:00
-
- ## terrorbullgames.co.uk
- - [https://www.terrorbullgames.co.uk](https://www.terrorbullgames.co.uk)
- - date_published: 2024-07-17T23:18:14.881979+00:00
-
- ## Home
- - [https://terryscafe.co.uk](https://terryscafe.co.uk)
- - date_published: 2024-09-20T10:39:44.021487+00:00
-
- ## Tes - Education Jobs, Teaching Resources, School Software & Magazine
- - [http://www.tes.co.uk](http://www.tes.co.uk)
- - date_published: 2024-10-21T12:07:26.534102+00:00
-
- ## TEST  | Brand + Web Development Consultancy
- - [https://www.testcreative.co.uk](https://www.testcreative.co.uk)
- - date_published: 2024-10-11T19:54:07.188205+00:00
-
- ## Text Adventures Blog
- - [https://blog.textadventures.co.uk](https://blog.textadventures.co.uk)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## textadventures.co.uk Forums
- - [http://forum.textadventures.co.uk](http://forum.textadventures.co.uk)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## textadventures.co.uk - Create and play text adventure games
- - [http://textadventures.co.uk](http://textadventures.co.uk)
- - date_published: 2024-07-13T05:02:41.901466+00:00
-
- ## Text Mining Solutions | Text Mining Tools, Applications and Software – Bridging the gap between bespoke text mining tools available on the market
- - [http://www.textminingsolutions.co.uk](http://www.textminingsolutions.co.uk)
- - date_published: 2024-08-07T16:58:32.981895+00:00
-
- ## TFTCentral - Monitor reviews, articles, information and news
- - [https://tftcentral.co.uk](https://tftcentral.co.uk)
- - date_published: 2024-07-18T16:00:18+00:00
-
- ## Home - Federation of American Scientists
- - [https://fas.tghp.co.uk](https://fas.tghp.co.uk)
- - date_published: 2024-08-18T19:24:59.270906+00:00
-
- ## Create Next App
- - [https://tghp.co.uk](https://tghp.co.uk)
- - date_published: 2024-04-28T02:21:38.065682+00:00
-
- ## Home - AA Careers
- - [https://www.theaacareers.co.uk](https://www.theaacareers.co.uk)
- - date_published: 2024-10-20T17:11:36.368332+00:00
-
- ## The Access Bank UK
- - [https://www.theaccessbankukltd.co.uk](https://www.theaccessbankukltd.co.uk)
- - date_published: 2024-06-19T18:19:50+00:00
-
- ## Sign In - theAdhocracy
- - [https://cms.theadhocracy.co.uk](https://cms.theadhocracy.co.uk)
- - date_published: 2024-07-02T20:49:57.912492+00:00
-
- ## theAdhocracy
- - [https://theadhocracy.co.uk](https://theadhocracy.co.uk)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## The Amadeus
- - [http://theamadeus.co.uk](http://theamadeus.co.uk)
- - date_published: 2024-06-30T10:07:27.288563+00:00
-
- ## Home
- - [http://www.theanglicanchurchincrete.co.uk](http://www.theanglicanchurchincrete.co.uk)
- - date_published: 2024-08-11T21:38:51.489252+00:00
-
- ## The AnswerBank - post questions and answers, and discuss topics of interest.
- - [https://m.theanswerbank.co.uk](https://m.theanswerbank.co.uk)
- - date_published: 2024-07-04T16:46:24+00:00
-
- ## The AnswerBank - post questions and answers, and discuss topics of interest.
- - [https://theanswerbank.co.uk](https://theanswerbank.co.uk)
- - date_published: 2024-05-08T07:00:52.859862+00:00
-
- ## The Argus Business Directory
- - [https://directory.theargus.co.uk](https://directory.theargus.co.uk)
- - date_published: 2024-09-20T16:31:11.014294+00:00
-
- ## Rob White Artist | Welcome
- - [http://www.thearthole.co.uk](http://www.thearthole.co.uk)
- - date_published: 2024-07-04T15:00:03+00:00
-
- ## The Assault Group - The home of quality 28mm miniatures
- - [http://theassaultgroup.co.uk](http://theassaultgroup.co.uk)
- - date_published: 2024-07-20T08:58:02.029091+00:00
-
- ## Theatre and Tonic - UK Theatre Reviews, Interviews and Features  since 2014
- - [https://theatreandtonic.co.uk](https://theatreandtonic.co.uk)
- - date_published: 2024-07-04T05:23:32.507110+00:00
-
- ## Home - The Autism Coach
- - [http://theautismcoach.co.uk](http://theautismcoach.co.uk)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## The Big Bang - The Big Bang
- - [https://www.thebigbangfair.co.uk](https://www.thebigbangfair.co.uk)
- - date_published: 2024-07-23T10:41:30+00:00
-
- ## The Bolton News Business Directory
- - [https://directory.theboltonnews.co.uk](https://directory.theboltonnews.co.uk)
- - date_published: 2024-09-20T16:32:36.015240+00:00
-
- ## The Book Service | Grantham Book Services
- - [https://www.thebookservice.co.uk](https://www.thebookservice.co.uk)
- - date_published: 2024-06-30T05:55:07.218314+00:00
-
- ## The Bow, Waddesdon
- - [https://www.thebowwaddesdon.co.uk](https://www.thebowwaddesdon.co.uk)
- - date_published: 2024-10-18T22:41:49.124034+00:00
-
- ## Fantasy, Sci-Fi, Horror & More | The Broken Binding
- - [https://thebrokenbinding.co.uk](https://thebrokenbinding.co.uk)
- - date_published: 2024-10-19T11:39:35.313479+00:00
-
- ## Home
- - [https://bookings.thecairncollection.co.uk](https://bookings.thecairncollection.co.uk)
- - date_published: 2024-10-20T08:47:26.937474+00:00
-
- ## Home
- - [https://www.thecairncollection.co.uk](https://www.thecairncollection.co.uk)
- - date_published: 2024-06-17T19:25:49.529471+00:00
-
- ## The Chinese Room
- - [https://www.thechineseroom.co.uk](https://www.thechineseroom.co.uk)
- - date_published: 2024-07-08T10:34:58.594731+00:00
-
- ## Jason's  blog
- - [https://theclouddude.co.uk](https://theclouddude.co.uk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Simon Painter
- - [https://www.thecodepainter.co.uk](https://www.thecodepainter.co.uk)
- - date_published: 2023-10-25T08:56:41.765528+00:00
- - tags: ['personal']
-
- ## Co-living | Live Like You've Never Lived Before | The Collective
- - [https://thecollective.co.uk](https://thecollective.co.uk)
- - date_published: 2024-06-12T12:37:12.445610+00:00
-
- ## The College Store
- - [https://thecollegestore.co.uk](https://thecollegestore.co.uk)
- - date_published: 2024-06-17T18:18:27.510952+00:00
-
- ## Complete University Guide - University Rankings, Guides and Courses
- - [https://thecompleteuniversityguide.co.uk](https://thecompleteuniversityguide.co.uk)
- - date_published: 2024-10-20T08:15:23.780600+00:00
-
- ## TheCourier - The Courier Podcasts
- - [https://podcasts.thecourier.co.uk](https://podcasts.thecourier.co.uk)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## The Critic Magazine | Britain’s new monthly magazine for politics, ideas, art, literature and more
- - [https://thecritic.co.uk](https://thecritic.co.uk)
- - date_published: 2023-10-25T22:55:14.545276+00:00
-
- ## The Daily Mash
- - [https://thedailymash.co.uk](https://thedailymash.co.uk)
- - date_published: 2024-05-07T14:49:03.560688+00:00
-
- ## The Dark Fortress | A resource for the Dark Angels Space Marine Chapter
- - [https://www.thedarkfortress.co.uk](https://www.thedarkfortress.co.uk)
- - date_published: 2024-10-26T17:42:04.112168+00:00
-
- ## The Data School
- - [https://www.thedataschool.co.uk](https://www.thedataschool.co.uk)
- - date_published: 2024-07-03T14:28:15+00:00
-
- ## Home - The Design Bank
- - [https://www.thedesignbank.co.uk](https://www.thedesignbank.co.uk)
- - date_published: 2024-10-20T13:13:47.323245+00:00
-
- ## The Dice Dungeon | The UK's DND Dice Set Specialist
- - [https://thedicedungeon.co.uk](https://thedicedungeon.co.uk)
- - date_published: 2024-07-01T05:14:10.470591+00:00
-
- ## The Distance | Award-Winning UK App Developers
- - [https://thedistance.co.uk](https://thedistance.co.uk)
- - date_published: 2024-06-20T09:41:59+00:00
-
- ## thedragonscave.co.uk
- - [http://thedragonscave.co.uk](http://thedragonscave.co.uk)
- - date_published: 2024-06-13T06:51:52.803615+00:00
-
- ## The Dreamcast Junkyard
- - [https://thedreamcastjunkyard.co.uk](https://thedreamcastjunkyard.co.uk)
- - date_published: 2024-05-24T18:30:07.561966+00:00
- - tags: ['dreamcast']
-
- ## Get the Latest Hyper-local News for Edinburgh
- - [http://www.theedinburghreporter.co.uk](http://www.theedinburghreporter.co.uk)
- - date_published: 2024-10-21T17:32:52.860099+00:00
-
- ## C2i Awards 2024 - Home Page
- - [https://awards.theengineer.co.uk](https://awards.theengineer.co.uk)
- - date_published: 2024-05-02T12:22:02.603292+00:00
-
- ## The Engineer Jobs
- - [https://jobs.theengineer.co.uk](https://jobs.theengineer.co.uk)
- - date_published: 2024-05-02T12:22:00.995407+00:00
-
- ## Why am I here?
- - [https://mail.theengineer.co.uk](https://mail.theengineer.co.uk)
- - date_published: 2020-12-23T19:02:09+00:00
-
- ## The Engineer Jobs
- - [https://recruiter.theengineer.co.uk](https://recruiter.theengineer.co.uk)
- - date_published: 2024-06-18T09:55:34.054207+00:00
-
- ## Salary Survey | The Engineer
- - [https://salarysurvey.theengineer.co.uk](https://salarysurvey.theengineer.co.uk)
- - date_published: 2024-05-02T12:22:10.661934+00:00
-
- ## BlueConic: Log In
- - [https://t437.theengineer.co.uk](https://t437.theengineer.co.uk)
- - date_published: 2024-05-02T12:22:14.867512+00:00
-
- ## The Engineer - Home
- - [https://theengineer.co.uk](https://theengineer.co.uk)
- - date_published: 2024-05-02T12:22:07.955787+00:00
-
- ## The Expat Friend
- - [http://theexpatfriend.co.uk](http://theexpatfriend.co.uk)
- - date_published: 2024-07-16T20:58:04.801342+00:00
-
- ## THE FAMILY MUSEUM
- - [https://thefamilymuseum.co.uk](https://thefamilymuseum.co.uk)
- - date_published: 2024-09-14T22:58:46.855875+00:00
-
- ## The Fenland Black Oak Project
- - [https://www.thefenlandblackoakproject.co.uk](https://www.thefenlandblackoakproject.co.uk)
- - date_published: 2023-10-25T22:55:16.978759+00:00
-
- ## Home - The Festival of Quilts
- - [https://www.thefestivalofquilts.co.uk](https://www.thefestivalofquilts.co.uk)
- - date_published: 2024-08-18T02:17:03+00:00
-
- ## The Five Arrows Boutique Hotel & Restaurant | Waddesdon, Bucks
- - [https://thefivearrows.co.uk](https://thefivearrows.co.uk)
- - date_published: 2024-10-19T08:45:39.937471+00:00
-
- ## Home - The Food Teacher
- - [https://www.thefoodteacher.co.uk](https://www.thefoodteacher.co.uk)
- - date_published: 2024-07-02T22:18:21+00:00
-
- ## Imagination Engineered | Foundry
- - [https://thefoundry.co.uk](https://thefoundry.co.uk)
- - date_published: 2024-06-13T17:57:20+00:00
-
- ## The Future Bookshelf
- - [https://thefuturebookshelf.co.uk](https://thefuturebookshelf.co.uk)
- - date_published: 2019-10-20T20:56:05+00:00
-
- ## The Gallery Escorts - International High Class companion services
- - [https://the-gallery.co.uk](https://the-gallery.co.uk)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## The Gazette | Official Public Record...
- - [https://www.thegazette.co.uk](https://www.thegazette.co.uk)
- - date_published: 2023-11-10T10:00:00+00:00
-
- ## The Genealogist: Search Census, Births, Marriages, Deaths, Parish Records, Non-Conformist Records,
-		Directories, Military Records, Wills & more!
- - [https://www.thegenealogist.co.uk](https://www.thegenealogist.co.uk)
- - date_published: 2024-06-22T14:19:53.670558+00:00
-
- ## Get Stuffed | Taxidermy Specialists London
- - [http://www.thegetstuffed.co.uk](http://www.thegetstuffed.co.uk)
- - date_published: 2023-10-09T00:00:00+00:00
-
- ## thegoldfishofjustice.co.uk is available to buy | GoDaddy Auctions
- - [http://thegoldfishofjustice.co.uk](http://thegoldfishofjustice.co.uk)
- - date_published: 2024-10-26T22:05:52.472167+00:00
-
- ## Retail news | FMCG news | Grocery news
- - [https://www.thegrocer.co.uk](https://www.thegrocer.co.uk)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Grosvenor Group
- - [https://www.thegrosvenorgroup.co.uk](https://www.thegrosvenorgroup.co.uk)
- - date_published: 2024-06-18T07:06:34.081400+00:00
-
- ## Homepage - Gulbenkian
- - [https://thegulbenkian.co.uk](https://thegulbenkian.co.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Scotland News, Politics, Sport, Events and Comment - The Herald
- - [http://www.theherald.co.uk](http://www.theherald.co.uk)
- - date_published: 2024-10-21T12:06:06.041845+00:00
-
- ## The History Press
- - [https://www.thehistorypress.co.uk](https://www.thehistorypress.co.uk)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Fine hotels and resorts for your next break At The Hotel Collection
- - [http://www.thehotelcollection.co.uk](http://www.thehotelcollection.co.uk)
- - date_published: 2024-10-20T08:45:28.463529+00:00
-
- ## The Imperfect Modeller
- - [https://theimperfectmodeller.co.uk](https://theimperfectmodeller.co.uk)
- - date_published: 2024-10-26T17:53:10.782708+00:00
-
- ## The Insurance Emporium: Protecting The Things You Love
- - [https://www.theinsuranceemporium.co.uk](https://www.theinsuranceemporium.co.uk)
- - date_published: 2024-08-19T09:57:42.381696+00:00
-
- ## The Japanese House
- - [https://thejapanesehouse.co.uk](https://thejapanesehouse.co.uk)
- - date_published: 2023-07-10T15:23:27+00:00
-
- ## Christ's JCR
- - [https://thejcr.co.uk](https://thejcr.co.uk)
- - date_published: 2024-05-03T00:25:15+00:00
-
- ## The Letter - electronic music guide - Techno, Electro, Ambient and Pop
- - [http://theletter.co.uk](http://theletter.co.uk)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## The Logo Creative | Logo Design & Branding Studio | Yorkshire, UK
- - [https://www.thelogocreative.co.uk](https://www.thelogocreative.co.uk)
- - date_published: 2024-09-04T17:28:16.121432+00:00
-
- ## The Lonely Pixel - Freelance Web Designer in London & UK
- - [https://thelonelypixel.co.uk](https://thelonelypixel.co.uk)
- - date_published: 2024-06-17T16:29:46.609359+00:00
-
- ## Lounges - Home - Find your nearest Lounge & what #LoveLounging is!
- - [https://thelounges.co.uk](https://thelounges.co.uk)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Loungers - Gift Cards
- - [https://vouchers.thelounges.co.uk](https://vouchers.thelounges.co.uk)
- - date_published: 2024-10-20T08:53:48.875851+00:00
-
- ## The Mail Subscriptions
- - [https://www.themailsubscriptions.co.uk](https://www.themailsubscriptions.co.uk)
- - date_published: 2024-05-02T12:28:28.144344+00:00
-
- ## Classic and Collectible Cars Recently Sold at Auction
- - [https://themarket.co.uk](https://themarket.co.uk)
- - date_published: 2024-07-19T04:05:02.278689+00:00
-
- ## Funeral Directors Crawley | The Martins
- - [http://www.themartinsfuneraldirectors.co.uk](http://www.themartinsfuneraldirectors.co.uk)
- - date_published: 2024-09-16T21:16:26.123249+00:00
-
- ## Improv Comedy Company in Brighton and London | The Maydays
- - [https://themaydays.co.uk](https://themaydays.co.uk)
- - date_published: 2024-05-10T06:58:51.767827+00:00
-
  ## Mazda Bongo Company Cornwall | Bringing Quality Campervans to Cornwall
  - [http://www.themazdabongocompany.co.uk](http://www.themazdabongocompany.co.uk)
  - date_published: 2024-06-21T19:08:44.070056+00:00
@@ -4017,4 +3590,437 @@ Bracknell
  ## Home
  - [https://daera-ni.gov.uk](https://daera-ni.gov.uk)
  - date_published: 2024-10-21T10:31:34.774757+00:00
+
+ ## Find open data - data.gov.uk
+ - [https://data.gov.uk](https://data.gov.uk)
+ - date_published: 2024-06-12T06:03:55.998495+00:00
+
+ ## GOV.UK Documentation Example
+ - [https://guidance.data.gov.uk](https://guidance.data.gov.uk)
+ - date_published: 2024-05-17T09:09:21+00:00
+
+ ## Planning Data
+ - [https://www.planning.data.gov.uk](https://www.planning.data.gov.uk)
+ - date_published: 2024-08-19T05:19:36.949347+00:00
+
+ ## Department for Business, Energy & Industrial Strategy
+ - [http://www.decc.gov.uk](http://www.decc.gov.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Department for Environment, Food & Rural Affairs
+ - [https://defra.gov.uk](https://defra.gov.uk)
+ - date_published: 2024-10-21T11:45:46.722277+00:00
+
+ ## Home
+   - Defra, UK
+ - [https://uk-air.defra.gov.uk](https://uk-air.defra.gov.uk)
+ - date_published: 2024-06-18T16:04:47.024812+00:00
+
+ ## Department of Health and Social Care
+ - [http://www.dh.gov.uk](http://www.dh.gov.uk)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Welcome to GOV.UK
+ - [http://www.direct.gov.uk](http://www.direct.gov.uk)
+ - date_published: 2024-10-21T09:58:59.342011+00:00
+
+ ## Discover Uni Home |
+                Discover Uni
+ - [https://discoveruni.gov.uk](https://discoveruni.gov.uk)
+ - date_published: 2024-06-17T17:49:24.336370+00:00
+
+ ## MOT Service Status Status
+ - [http://motservice.status.dvsa.gov.uk](http://motservice.status.dvsa.gov.uk)
+ - date_published: 2024-10-21T09:49:19.200482+00:00
+
+ ## Home - DWP Accessibility Manual
+ - [https://accessibility-manual.dwp.gov.uk](https://accessibility-manual.dwp.gov.uk)
+ - date_published: 2024-06-15T04:14:57.576505+00:00
+
+ ## DWP Digital – Digital With Purpose
+ - [https://careers.dwp.gov.uk](https://careers.dwp.gov.uk)
+ - date_published: 2024-10-21T09:40:03.833304+00:00
+
+ ## Find a job
+ - [https://findajob.dwp.gov.uk](https://findajob.dwp.gov.uk)
+ - date_published: 2024-06-17T17:49:05.465349+00:00
+
+ ## Department for Work and Pensions
+ - [http://research.dwp.gov.uk](http://research.dwp.gov.uk)
+ - date_published: 2024-10-21T14:03:35.809741+00:00
+
+ ## Department for Work and Pensions
+ - [http://www.dwp.gov.uk](http://www.dwp.gov.uk)
+ - date_published: 2024-10-21T14:05:07.059945+00:00
+
+ ## Home
+ - [https://economy-ni.gov.uk](https://economy-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:25.236342+00:00
+
+ ## Home
+ - [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
+ - date_published: 2024-10-20T03:58:18.336590+00:00
+
+ ## Department for Education
+            
+            - Citizen Space
+ - [https://consult.education.gov.uk](https://consult.education.gov.uk)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Department for Education
+ - [https://education.gov.uk](https://education.gov.uk)
+ - date_published: 2024-10-21T09:31:06.074057+00:00
+
+ ## Department for Education
+ - [http://www.education.gov.uk](http://www.education.gov.uk)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Environment Agency
+            
+            - Citizen Space
+ - [https://consult.environment-agency.gov.uk](https://consult.environment-agency.gov.uk)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home | Civil Service Fast Stream
+ - [https://www.faststream.gov.uk](https://www.faststream.gov.uk)
+ - date_published: 2023-10-12T00:00:00+00:00
+
+ ## Foreign & Commonwealth Office
+ - [http://www.fco.gov.uk](http://www.fco.gov.uk)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## Home
+ - [https://finance-ni.gov.uk](https://finance-ni.gov.uk)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.food.gov.uk](https://www.food.gov.uk)
+ - date_published: 2024-07-13T17:41:23+00:00
+
+ ## Government Actuary's Department
+ - [http://www.gad.gov.uk](http://www.gad.gov.uk)
+ - date_published: 2024-10-21T14:08:35.049506+00:00
+
+ ## Invalid request
+ - [https://registers.gamblingcommission.gov.uk](https://registers.gamblingcommission.gov.uk)
+ - date_published: 2024-06-18T06:58:06.328481+00:00
+
+ ## Gambling Commission website
+ - [https://www.gamblingcommission.gov.uk](https://www.gamblingcommission.gov.uk)
+ - date_published: 2024-06-18T06:58:00.435898+00:00
+
+ ## NCSC
+ - [https://www.gchq.gov.uk](https://www.gchq.gov.uk)
+ - date_published: 2024-02-07T15:32:38+00:00
+ - tags: ['uk security intelligence', 'security intelligence']
+
+ ## Civil Service Careers
+ - [https://gdscareers.gov.uk](https://gdscareers.gov.uk)
+ - date_published: 2024-06-17T19:25:14.295338+00:00
+
+ ## Home | Gloucestershire County Council
+ - [https://www.gloucestershire.gov.uk](https://www.gloucestershire.gov.uk)
+ - date_published: 2024-08-11T12:51:12.223530+00:00
+
+ ## Welcome to Haringey Council | Haringey Council
+ - [https://www.haringey.gov.uk](https://www.haringey.gov.uk)
+ - date_published: 2024-07-18T23:52:12+00:00
+
+ ## Home
+ - [https://health-ni.gov.uk](https://health-ni.gov.uk)
+ - date_published: 2024-10-21T10:00:00.549859+00:00
+
+ ## Meetings, agendas, and minutes | Hertfordshire County Council
+ - [https://democracy.hertfordshire.gov.uk](https://democracy.hertfordshire.gov.uk)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Home - Hertsmere Borough Council
+ - [https://www.hertsmere.gov.uk](https://www.hertsmere.gov.uk)
+ - date_published: 2024-07-03T17:14:45.650413+00:00
+
+ ## HM Revenue & Customs
+ - [https://hmrc.gov.uk](https://hmrc.gov.uk)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Legislation.gov.uk
+ - [http://www.uk-legislation.hmso.gov.uk](http://www.uk-legislation.hmso.gov.uk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## HM Treasury
+ - [http://www.hm-treasury.gov.uk](http://www.hm-treasury.gov.uk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home Office
+ - [http://www.homeoffice.gov.uk](http://www.homeoffice.gov.uk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## HSE Books - the official Health and Safety Executive publications   shop.
+ - [https://books.hse.gov.uk](https://books.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:13.358674+00:00
+
+ ## HSE Careers | Our people save lives can you? YOU CAN with HSE
+ - [https://careers.hse.gov.uk](https://careers.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:16.247329+00:00
+
+ ## HSE Media Centre
+ - [https://press.hse.gov.uk](https://press.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:11.877303+00:00
+
+ ## Home - Solutions from HSE
+ - [https://solutions.hse.gov.uk](https://solutions.hse.gov.uk)
+ - date_published: 2024-09-04T15:28:14.808665+00:00
+
+ ## HSE: Information about health and safety at work
+ - [https://hse.gov.uk](https://hse.gov.uk)
+ - date_published: 2024-06-05T07:28:55.611122+00:00
+
+ ## Boundary Commission for England | The Commission is required by the Parliamentary Constituencies Act 1986 to review the Parliamentary constituencies in England every five years
+ - [https://boundarycommissionforengland.independent.gov.uk](https://boundarycommissionforengland.independent.gov.uk)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Home - Civil Service Commission
+ - [http://civilservicecommission.independent.gov.uk](http://civilservicecommission.independent.gov.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Intelligence and Security Committee of Parliament
+ - [https://isc.independent.gov.uk](https://isc.independent.gov.uk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home
+ - [https://infrastructure-ni.gov.uk](https://infrastructure-ni.gov.uk)
+ - date_published: 2024-10-21T10:31:21.633604+00:00
+
+ ## Innovate UK
+ - [http://www.innovateuk.gov.uk](http://www.innovateuk.gov.uk)
+ - date_published: 2024-10-21T09:09:00.973385+00:00
+
+ ## Intellectual property: Trade marks
+ - [https://trademarks.ipo.gov.uk](https://trademarks.ipo.gov.uk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Intellectual Property Office
+ - [https://ipo.gov.uk](https://ipo.gov.uk)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Home - Courts and Tribunals Judiciary
+ - [http://www.judiciary.gov.uk](http://www.judiciary.gov.uk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Justice UK
+ - [http://www.justice.gov.uk](http://www.justice.gov.uk)
+ - date_published: 2024-07-20T10:48:46.547878+00:00
+
+ ## Home
+ - [http://www.lakedistrict.gov.uk](http://www.lakedistrict.gov.uk)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Love Lambeth
+ - [https://love.lambeth.gov.uk](https://love.lambeth.gov.uk)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Welcome to Lambeth | Lambeth Council
+ - [https://www.lambeth.gov.uk](https://www.lambeth.gov.uk)
+ - date_published: 2024-01-24T20:56:18.339942+00:00
+
+ ## Home
+ - [https://www.lancashire.gov.uk](https://www.lancashire.gov.uk)
+ - date_published: 2024-07-17T05:27:26.020189+00:00
+
+ ## Homepage | London Borough of Hammersmith & Fulham
+ - [https://www.lbhf.gov.uk](https://www.lbhf.gov.uk)
+ - date_published: 2024-10-21T09:33:53.810828+00:00
+
+ ## Legislation.gov.uk
+ - [https://www.legislation.gov.uk](https://www.legislation.gov.uk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Home | Leicester City
+ - [https://mychoice.leicester.gov.uk](https://mychoice.leicester.gov.uk)
+ - date_published: 2024-06-27T14:51:10.292719+00:00
+
+ ## Welcome | Leicestershire County Council
+ - [https://www.leicestershire.gov.uk](https://www.leicestershire.gov.uk)
+ - date_published: 2024-06-27T14:28:50+00:00
+
+ ## The London Archives • Welcome
+ - [https://search.lma.gov.uk](https://search.lma.gov.uk)
+ - date_published: 2024-07-30T17:19:37+00:00
+
+ ## Local Government Association
+ - [https://www.local.gov.uk](https://www.local.gov.uk)
+ - date_published: 2024-07-03T16:40:46+00:00
+
+ ## Home | Local Digital
+ - [https://www.localdigital.gov.uk](https://www.localdigital.gov.uk)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## maps.london.gov.uk
+ - [https://apps.london.gov.uk](https://apps.london.gov.uk)
+ - date_published: 2023-10-25T22:56:20.873232+00:00
+
+ ## London Datastore – Greater London Authority
+ - [https://data.london.gov.uk](https://data.london.gov.uk)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Home page
+ - [https://london.gov.uk](https://london.gov.uk)
+ - date_published: 2024-05-02T12:28:58.396475+00:00
+
+ ## London Councils is the collective of local government in London | London Councils - Localgov Drupal
+ - [http://www.londoncouncils.gov.uk](http://www.londoncouncils.gov.uk)
+ - date_published: 2024-06-18T10:12:46+00:00
+
+ ## Home
+ - [https://www.london-fire.gov.uk](https://www.london-fire.gov.uk)
+ - date_published: 2024-05-02T12:29:34.072040+00:00
+
+ ## Official blog of the Met Office news team
+ - [https://blog.metoffice.gov.uk](https://blog.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:26.754484+00:00
+
+ ## Met Office Careers
+ - [https://careers.metoffice.gov.uk](https://careers.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:22.943085+00:00
+
+ ## The Met Office climate data portal
+ - [https://climatedataportal.metoffice.gov.uk](https://climatedataportal.metoffice.gov.uk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Learning Portal: Log in to the site
+ - [https://college.metoffice.gov.uk](https://college.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:24.553428+00:00
+
+ ## Met Office - Search
+ - [https://library.metoffice.gov.uk](https://library.metoffice.gov.uk)
+ - date_published: 2024-07-19T17:46:20.866592+00:00
+
+ ## Met Office (Login)
+ - [https://register.metoffice.gov.uk](https://register.metoffice.gov.uk)
+ - date_published: 2024-07-21T09:58:08.919265+00:00
+
+ ## Met Office WOW - Home Page
+ - [https://wow.metoffice.gov.uk](https://wow.metoffice.gov.uk)
+ - date_published: 2024-04-30T05:02:45.300161+00:00
+
+ ## Weather and climate change
+ - [https://metoffice.gov.uk](https://metoffice.gov.uk)
+ - date_published: 2024-04-28T02:23:26.982648+00:00
+
+ ## The National Archives Beta
+ - [https://beta.nationalarchives.gov.uk](https://beta.nationalarchives.gov.uk)
+ - date_published: 2024-05-02T12:29:03.933073+00:00
+
+ ## Blog | The National Archives
+ - [https://blog.nationalarchives.gov.uk](https://blog.nationalarchives.gov.uk)
+ - date_published: 2023-10-25T22:56:25.323831+00:00
+
+ ## The National Archives Online Shop
+ - [http://bookshop.nationalarchives.gov.uk](http://bookshop.nationalarchives.gov.uk)
+ - date_published: 2024-06-18T10:40:58.663557+00:00
+
+ ## Find case law
+
+      - The National Archives
+ - [https://caselaw.nationalarchives.gov.uk](https://caselaw.nationalarchives.gov.uk)
+ - date_published: 2024-05-02T12:29:11.008234+00:00
+
+ ## Discovery | The National Archives
+ - [https://discovery.nationalarchives.gov.uk](https://discovery.nationalarchives.gov.uk)
+ - date_published: 2024-05-02T12:29:13.575805+00:00
+
+ ## The National Archives
+ - [https://images.nationalarchives.gov.uk](https://images.nationalarchives.gov.uk)
+ - date_published: 2024-05-02T12:29:05.337478+00:00
+
+ ## Archives Media Player - The National Archives
+ - [https://media.nationalarchives.gov.uk](https://media.nationalarchives.gov.uk)
+ - date_published: 2024-05-02T12:29:07.920898+00:00
+
+ ## The National Archives
+ - [https://nationalarchives.gov.uk](https://nationalarchives.gov.uk)
+ - date_published: 2024-10-21T09:56:30.150723+00:00
+
+ ## Forfront holding page
+ - [https://pages.enews.nationalarchives.gov.uk](https://pages.enews.nationalarchives.gov.uk)
+ - date_published: 2024-06-18T10:40:34.853722+00:00
+
+ ## The National Archives Online Shop
+ - [https://shop.nationalarchives.gov.uk](https://shop.nationalarchives.gov.uk)
+ - date_published: 2024-05-02T12:29:01.312693+00:00
+
+ ## UK Government Web Archive
+ - [https://webarchive.nationalarchives.gov.uk](https://webarchive.nationalarchives.gov.uk)
+ - date_published: 2024-06-18T06:41:36.328598+00:00
+
+ ## Home
+ - [https://nationalcrimeagency.gov.uk](https://nationalcrimeagency.gov.uk)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## SAR Portal
+ - [https://sarsreporting.nationalcrimeagency.gov.uk](https://sarsreporting.nationalcrimeagency.gov.uk)
+ - date_published: 2024-04-17T18:05:04+00:00
+
+ ## Check your cyber security - NCSC.GOV.UK
+ - [https://checkcybersecurity.service.ncsc.gov.uk](https://checkcybersecurity.service.ncsc.gov.uk)
+ - date_published: 2024-06-13T08:04:28+00:00
+
+ ## NCSC
+ - [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk)
+ - date_published: 2023-10-25T22:56:26.670249+00:00
+
+ ## The Northern Ireland Assembly
+ - [http://www.niassembly.gov.uk](http://www.niassembly.gov.uk)
+ - date_published: 2024-06-24T06:21:17.946565+00:00
+
+ ## Home
+ - [https://nidirect.gov.uk](https://nidirect.gov.uk)
+ - date_published: 2024-10-21T10:31:23.971526+00:00
+
+ ## Home
+ - [http://www.nimdta.gov.uk](http://www.nimdta.gov.uk)
+ - date_published: 2024-10-21T09:59:49.970297+00:00
+
+ ## Home
+ - [https://www.nisra.gov.uk](https://www.nisra.gov.uk)
+ - date_published: 2024-06-17T19:16:56+00:00
+
+ ## Home - Norfolk Heritage Explorer
+ - [http://www.heritage.norfolk.gov.uk](http://www.heritage.norfolk.gov.uk)
+ - date_published: 2024-10-17T13:17:50.456010+00:00
+
+ ## Norfolk Museums Service - Norfolk Museums Service
+ - [https://www.museums.norfolk.gov.uk](https://www.museums.norfolk.gov.uk)
+ - date_published: 2024-09-06T18:54:23.570296+00:00
+
+ ## Home
+ - [http://www.northernireland.gov.uk](http://www.northernireland.gov.uk)
+ - date_published: 2024-10-21T09:58:57.932753+00:00
+
+ ## Simple Search
+ - [https://idoxpa.north-norfolk.gov.uk](https://idoxpa.north-norfolk.gov.uk)
+ - date_published: 2024-10-17T13:17:44.848185+00:00
+
+ ## National Records of Scotland | Preserving the past, Recording the present, Informing the future
+ - [https://www.nrscotland.gov.uk](https://www.nrscotland.gov.uk)
+ - date_published: 2024-10-21T09:57:58.696699+00:00
+
+ ## Welcome to Ofgem
+ - [https://www.ofgem.gov.uk](https://www.ofgem.gov.uk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Contact us | Ofsted
+ - [https://contact.ofsted.gov.uk](https://contact.ofsted.gov.uk)
+ - date_published: 2024-06-17T17:49:08.445753+00:00
+
+ ## Ofsted
+ - [https://ofsted.gov.uk](https://ofsted.gov.uk)
+ - date_published: 2024-10-20T03:48:06.985705+00:00
+
+ ## Find an Ofsted inspection report
+ - [https://reports.ofsted.gov.uk](https://reports.ofsted.gov.uk)
+ - date_published: 2024-05-02T10:52:48.075088+00:00
+
+ ## Office of Fair Trading
+ - [http://www.oft.gov.uk](http://www.oft.gov.uk)
+ - date_published: 2024-10-18T19:01:11.703681+00:00
 

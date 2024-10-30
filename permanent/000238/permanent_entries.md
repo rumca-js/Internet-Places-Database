@@ -1,291 +1,3 @@
- ## Schreiben, Marketing, Billard und alles mögliche - Patrick Baumann
- - [https://patrick-baumann.de](https://patrick-baumann.de)
- - date_published: 2023-12-13T20:59:36.150037+00:00
- - tags: ['personal']
-
- ## Attention Required! | Cloudflare
- - [https://news.patrick-breyer.de](https://news.patrick-breyer.de)
- - date_published: 2024-04-29T06:34:46.958470+00:00
-
- ## Patrick Breyer – Digitaler Freiheitskämpfer und Europaabgeordneter
- - [https://patrick-breyer.de](https://patrick-breyer.de)
- - date_published: 2023-10-25T18:32:28.196653+00:00
-
- ## Patterns Kompakt
- - [https://patterns-kompakt.de](https://patterns-kompakt.de)
- - date_published: 2024-02-24T01:50:13+00:00
-
- ## panschk.de – Blog von Panschk aka Paul-Gabriel Müller
- - [http://paul-gabriel-mueller.de](http://paul-gabriel-mueller.de)
- - date_published: 2024-06-01T22:16:59.873126+00:00
-
- ## PAYBACK Bonusprogramm » °Punkten + Coupons + Aktionen
- - [https://www.payback.de](https://www.payback.de)
- - date_published: 2024-06-25T18:07:34.112349+00:00
-
- ## Payload
- - [https://payload.de](https://payload.de)
- - date_published: 2024-09-24T03:55:38.771542+00:00
-
- ## PayPal Konto | Digitale Mobile Wallet | PayPal DE
- - [http://www.paypal.de](http://www.paypal.de)
- - date_published: 2024-06-29T07:12:12.471541+00:00
-
- ## PayPal Konto | Digitale Mobile Wallet | PayPal DE
- - [https://www.paypal-deutschland.de](https://www.paypal-deutschland.de)
- - date_published: 2024-08-19T22:14:34.310692+00:00
-
- ## PC Games - News, Tests, Cheats und Videos zu PC- und Konsolen-Spielen
- - [http://www.pcaction.de](http://www.pcaction.de)
- - date_published: 2024-07-08T14:35:55.915875+00:00
-
- ## Configure & Order customised PCB online | Beta LAYOUT Ltd.
- - [http://www.pcb-pool.de](http://www.pcb-pool.de)
- - date_published: 2024-06-22T14:22:39.667010+00:00
-
- ## PC-Experience - das IT-Portal - - Start
- - [https://pc-experience.de](https://pc-experience.de)
- - date_published: 2024-04-29T06:35:45.500387+00:00
-
- ## IOAM
- - [https://data-c5925d7d99.pcgames.de](https://data-c5925d7d99.pcgames.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## PC Games Forum
- - [https://forum.pcgames.de](https://forum.pcgames.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## pcgames.de - Stellenmarkt
- - [https://jobs.pcgames.de](https://jobs.pcgames.de)
- - date_published: 2024-06-17T21:13:36.606518+00:00
-
- ## PC Games - News, Tests, Cheats und Videos zu PC- und Konsolen-Spielen
- - [https://www.pcgames.de](https://www.pcgames.de)
- - date_published: 2024-04-29T06:41:03.000762+00:00
- - tags: ['video game news']
-
- ## IOAM
- - [https://data-c5925d7d99.pcgameshardware.de](https://data-c5925d7d99.pcgameshardware.de)
- - date_published: 2024-04-29T06:35:44.328251+00:00
-
- ## Die Hardware-Community für PC-Spieler - PCGH Extreme
- - [https://extreme.pcgameshardware.de](https://extreme.pcgameshardware.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## PCGH Gear: Produkte für Gamer
- - [https://gear.pcgameshardware.de](https://gear.pcgameshardware.de)
- - date_published: 2024-04-29T06:40:51.190191+00:00
-
- ## pcgameshardware.de - Stellenmarkt
- - [https://jobs.pcgameshardware.de](https://jobs.pcgameshardware.de)
- - date_published: 2024-04-29T06:35:46.756285+00:00
-
- ## PC Games Hardware - Einloggen
- - [https://login.pcgameshardware.de](https://login.pcgameshardware.de)
- - date_published: 2024-08-06T17:32:13.131018+00:00
-
- ## PC Games Hardware (PCGH) Preisvergleich Deutschland: Preisvergleich
- - [https://preisvergleich.pcgameshardware.de](https://preisvergleich.pcgameshardware.de)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## PCGH-Ratgeber: Hardware, IT, Gaming & Technik
- - [https://ratgeber.pcgameshardware.de](https://ratgeber.pcgameshardware.de)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## PC Games Hardware (PCGH): Computer, IT Gaming, PC-Spiele
- - [https://pcgameshardware.de](https://pcgameshardware.de)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## PC Games Hardware (PCGH): Computer, IT Gaming, PC-Spiele
- - [https://www.pcgh.de](https://www.pcgh.de)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## PCMasters.de
- - [https://pcmasters.de](https://pcmasters.de)
- - date_published: 2024-04-29T06:41:07.673862+00:00
-
- ## PCShow.de
- - [http://www.pcshow.de](http://www.pcshow.de)
- - date_published: 2024-07-24T05:28:26.072808+00:00
-
- ## PC-WELT – Homepage
- - [https://www.pcwelt.de](https://www.pcwelt.de)
- - date_published: 2024-07-09T15:27:05.010447+00:00
-
- ## Paul-Drude-Institut für Festkörperelektronik
- - [http://www.pdi-berlin.de](http://www.pdi-berlin.de)
- - date_published: 2024-06-29T22:29:53.326728+00:00
-
- ## Premiumpartner der digitalen Verwaltung | PDV
- - [https://www.pdv.de](https://www.pdv.de)
- - date_published: 2024-08-11T04:26:09.451103+00:00
-
- ## P.T.C.
- - [https://peateasea.de](https://peateasea.de)
- - date_published: 2024-03-25T19:01:26.365808+00:00
- - tags: ['personal']
-
- ## pechaflickr.de
- - [http://pechaflickr.de](http://pechaflickr.de)
- - date_published: 2024-07-04T09:44:13.360763+00:00
-
- ## PEGASUS Werbeagentur Magdeburg | Webdesign, Online & Print
- - [https://www.pega-sus.de](https://www.pega-sus.de)
- - date_published: 2023-09-28T00:00:00+00:00
-
- ## Join the Pegasus Spiele Discord Server!
- - [https://discord.pegasus.de](https://discord.pegasus.de)
- - date_published: 2024-04-29T06:41:15.550133+00:00
-
- ## Pegasus Spiele
- - [https://pegasus.de](https://pegasus.de)
- - date_published: 2023-10-30T12:01:05.937311+00:00
-
- ## Regelfragen
- - [http://www.foren.pegasus.de](http://www.foren.pegasus.de)
- - date_published: 2024-07-24T05:21:28.688965+00:00
-
- ## Pegasusshop.de - Wir machen Spaß!
- - [https://b2b.pegasusshop.de](https://b2b.pegasusshop.de)
- - date_published: 2024-04-29T06:41:17.784178+00:00
-
- ## Pegasus Spiele Store
- - [https://pegasusshop.de](https://pegasusshop.de)
- - date_published: 2024-04-29T06:41:14.250593+00:00
-
- ## Prestel Publishing, books on art, architecture, design and photography, art books for children
- - [https://prestelpublishing.penguinrandomhouse.de](https://prestelpublishing.penguinrandomhouse.de)
- - date_published: 2024-10-28T04:57:55.742694+00:00
-
- ## Public Pengutronix git Server
- - [https://git.pengutronix.de](https://git.pengutronix.de)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## German-Pennsylvanian Association
- - [http://www.pennsylvanien.de](http://www.pennsylvanien.de)
- - date_published: 2024-07-12T02:59:19.405909+00:00
-
- ## Peperica | Home
- - [https://friendica.pepecyb.de](https://friendica.pepecyb.de)
- - date_published: 2024-07-10T07:16:24.679937+00:00
-
- ## Nomád
- - [https://nomad.pepecyb.de](https://nomad.pepecyb.de)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## HOME
- - [https://performatism.de](https://performatism.de)
- - date_published: 2024-09-12T19:25:14.632045+00:00
-
- ## Per Guth
- - [https://perguth.de](https://perguth.de)
- - date_published: 2024-02-17T19:06:00+00:00
- - tags: ['personal']
-
- ## PERI Deutschland
- - [https://www.peri.de](https://www.peri.de)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home | Perlgeek.de - Perl Programming and more
- - [http://perlgeek.de](http://perlgeek.de)
- - date_published: 2017-08-25T10:58:48+00:00
-
- ## Perl Services - Softwareentwicklung mit Perl · Start
- - [https://www.perl-services.de](https://www.perl-services.de)
- - date_published: 2024-09-03T23:40:38.468210+00:00
-
- ## Startseite
- - [https://personalausweisportal.de](https://personalausweisportal.de)
- - date_published: 2024-04-29T06:11:45.411370+00:00
-
- ## Jobs at bam! interactive marketing GmbH
- - [https://bam-interactive.jobs.personio.de](https://bam-interactive.jobs.personio.de)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Jobs at Brother Internationale Industriemaschinen GmbH
- - [https://brother-industrial-com.jobs.personio.de](https://brother-industrial-com.jobs.personio.de)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Jobs at BTC-ECHO | Jobs
- - [https://btc-echo-gmbh.jobs.personio.de](https://btc-echo-gmbh.jobs.personio.de)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Personio Voyager Community: Teile Deine Fragen & Ideen! | Personio Community: Teile Deine Fragen & Ideen!
- - [https://community.personio.de](https://community.personio.de)
- - date_published: 2024-09-26T00:00:00+00:00
-
- ## Personio Developer Hub
- - [https://developer.personio.de](https://developer.personio.de)
- - date_published: 2024-06-28T16:14:25.431813+00:00
-
- ## Personio. The People Operating System.
- - [https://gamigo-ag-jobs.personio.de](https://gamigo-ag-jobs.personio.de)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Jobs at Hubject GmbH
- - [https://hubject-gmbh.jobs.personio.de](https://hubject-gmbh.jobs.personio.de)
- - date_published: 2024-10-09T00:00:00+00:00
-
- ## HUG: Europas heißestes HR-Event | Powered by Personio
- - [https://hug.personio.de](https://hug.personio.de)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Jobs at KNIME AG
- - [https://knime.jobs.personio.de](https://knime.jobs.personio.de)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Personio - Suchen und entdecken Sie Ihre bevorzugten Personio-Integrationen | Personio-Integrationen
- - [https://marketplace.personio.de](https://marketplace.personio.de)
- - date_published: 2024-09-26T09:37:35.873157+00:00
-
- ## Jobs at Meshcapade
- - [https://meshcapade.jobs.personio.de](https://meshcapade.jobs.personio.de)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Personio. The People Operating System.
- - [https://personio.de](https://personio.de)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Personio
- - [https://support.personio.de](https://support.personio.de)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Panorama Perspectives Blog
- - [https://blog.perstarke-webdev.de](https://blog.perstarke-webdev.de)
- - date_published: 2024-09-11T15:43:50+00:00
-
- ## Per Starke - Web Development
- - [https://perstarke-webdev.de](https://perstarke-webdev.de)
- - date_published: 2024-06-14T07:00:26+00:00
-
- ## Loading ...
- - [https://pur.petbook.de](https://pur.petbook.de)
- - date_published: 2024-07-24T18:21:50.801738+00:00
-
- ## PETBOOK
- - [https://petbook.de](https://petbook.de)
- - date_published: 2024-04-29T05:50:40.886369+00:00
-
- ## Startseite • Peter Kröner • Webtechnologie
- - [https://www.peterkroener.de](https://www.peterkroener.de)
- - date_published: 2024-06-23T09:09:53.489738+00:00
-
- ## Deutscher Bundestag - Gemeinsames Petitionsportal des Bundes und der Länder
- - [https://petitionsportal.de](https://petitionsportal.de)
- - date_published: 2024-04-29T05:56:23.173997+00:00
-
- ## Dr. Manuel Peuster
- - [https://peuster.de](https://peuster.de)
- - date_published: 2024-01-30T06:12:11+00:00
-
- ## Services - Pfänder - EN
- - [https://www.pfaender.de](https://www.pfaender.de)
- - date_published: 2024-06-16T09:03:52+00:00
-
- ## Pflege am UKB | Universitätsklinikum Bonn – Mit nur wenigen Klicks erfährst du, welcher Job wirklich zu dir passt.
- - [https://www.pflegeamukb.de](https://www.pflegeamukb.de)
- - date_published: 2024-06-04T11:45:47+00:00
-
  ## Startseite - Pflegebevollmächtigte der Bundesregierung Claudia Moll
  - [https://www.pflegebevollmaechtigte.de](https://www.pflegebevollmaechtigte.de)
  - date_published: 2024-06-11T00:00:00+00:00
@@ -4025,4 +3737,290 @@
  ## SpardaBaufiProtect | Baufinanzierung sinnvoll absichern: BaufiProtect
  - [https://www.spardabaufiprotect.de](https://www.spardabaufiprotect.de)
  - date_published: 2024-10-09T12:23:35.556641+00:00
+
+ ## Herzlich willkommen bei der Sparda-Bank Baden-Württemberg
+ - [https://www.sparda-bw.de](https://www.sparda-bw.de)
+ - date_published: 2024-06-15T22:58:13+00:00
+
+ ## Geldautomaten & Filialen - hier bekommen Sie Bargeld
+ - [https://www.sparda-filialfinder.de](https://www.sparda-filialfinder.de)
+ - date_published: 2024-10-08T23:56:18+00:00
+
+ ## Sparda-Datenverarbeitung eG - Homepage
+ - [https://banking.sparda-hessen.de](https://banking.sparda-hessen.de)
+ - date_published: 2019-07-16T07:25:11+00:00
+
+ ## Herzlich willkommen bei der Sparda-Bank Hessen!
+ - [https://www.sparda-hessen.de](https://www.sparda-hessen.de)
+ - date_published: 2024-06-15T23:22:09+00:00
+
+ ## Ihr Immobilienmakler in Nürnberg | SpardaImmobilienWelt
+ - [https://www.spardaimmobilienwelt.de](https://www.spardaimmobilienwelt.de)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Deutschlands erste Gemeinwohl-Bank
+ - [https://www.sparda-m.de](https://www.sparda-m.de)
+ - date_published: 2024-06-15T23:40:28+00:00
+
+ ## Sparda Modernisierungsdarlehen
+ - [https://sparda-modernisierungsdarlehen.de](https://sparda-modernisierungsdarlehen.de)
+ - date_published: 2023-11-09T09:51:16+00:00
+
+ ## Sparda-Bank Nürnberg | Klimaneutral & nachhaltig
+ - [https://www.sparda-n.de](https://www.sparda-n.de)
+ - date_published: 2024-06-16T00:03:36+00:00
+
+ ## Alles rund um die Immobilie - Sparda-Bank Nürnberg eG.
+ - [https://pia.sparda-nuernberg.de](https://pia.sparda-nuernberg.de)
+ - date_published: 2024-07-24T13:42:01+00:00
+
+ ## Home : SpardaSorgenFrei
+ - [https://bw.spardasorgenfrei.de](https://bw.spardasorgenfrei.de)
+ - date_published: 2024-10-09T12:25:33.325349+00:00
+
+ ## SpardaSpendenWahl 2024
+ - [https://www.spardaspendenwahl.de](https://www.spardaspendenwahl.de)
+ - date_published: 2024-07-03T07:22:55+00:00
+
+ ## Spardawelt
+ - [https://www.spardawelt.de](https://www.spardawelt.de)
+ - date_published: 2024-10-09T12:25:21.732470+00:00
+
+ ## Sparda-Datenverarbeitung eG - Homepage
+ - [https://banking.sparda-west.de](https://banking.sparda-west.de)
+ - date_published: 2019-07-23T08:28:28+00:00
+
+ ## Herzlich willkommen bei Ihrer Sparda-Bank West eG
+ - [https://www.sparda-west.de](https://www.sparda-west.de)
+ - date_published: 2024-06-15T23:40:00+00:00
+
+ ## Sparda-Bank West | Wohnen-Plattform
+ - [https://www.sparda-west-wohnen.de](https://www.sparda-west-wohnen.de)
+ - date_published: 2024-10-09T12:23:27.014812+00:00
+
+ ## Alles rund um die Immobilie - Sparda-Bank München eG
+ - [https://www.sparda-wohnkompass.de](https://www.sparda-wohnkompass.de)
+ - date_published: 2024-09-26T07:13:57+00:00
+
+ ## SPAREPARTSNOW - Industrielle Ersatzteile bis zu 50% günstiger kaufen
+ - [https://sparepartsnow.de](https://sparepartsnow.de)
+ - date_published: 2024-09-18T17:55:37.865452+00:00
+
+ ## Sparkasse.de
+ - [https://accounts.sparkasse.de](https://accounts.sparkasse.de)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Immobilien, Wohnungen & Häuser | Sparkassen-Immobilienportal
+ - [https://immobilien.sparkasse.de](https://immobilien.sparkasse.de)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Sparkasse.de
+ - [https://sparkasse.de](https://sparkasse.de)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Sparkasse KölnBonn | Füreinander hier
+ - [https://www.sparkasse-koelnbonn.de](https://www.sparkasse-koelnbonn.de)
+ - date_published: 2024-07-14T16:08:19.327446+00:00
+
+ ## S-CERT-Sicherheitswarnungen
+ - [https://feeds.sparkassen-finanzportal.de](https://feeds.sparkassen-finanzportal.de)
+ - date_published: 2024-06-16T08:16:39.280083+00:00
+
+ ## Media-Center
+ - [https://sparkassen-mediacenter.de](https://sparkassen-mediacenter.de)
+ - date_published: 2024-06-16T08:16:31.764486+00:00
+
+ ## SparkassenShop Startseite · Sparkasse · Shop · Beratung · Service
+ - [https://www.sparkassen-shop.de](https://www.sparkassen-shop.de)
+ - date_published: 2024-06-16T06:15:38.549157+00:00
+
+ ## Spark Innovation – Martin Ferfers
+ - [https://spark-innovation.de](https://spark-innovation.de)
+ - date_published: 2023-12-22T17:51:37.712266+00:00
+ - tags: ['personal']
+
+ ## Sparlaxy – Das Samsung Galaxy Portal
+ - [http://www.sparlaxy.de](http://www.sparlaxy.de)
+ - date_published: 2024-09-02T16:32:40.778050+00:00
+
+ ## SPARTOO | Schuhe, Taschen und Kleidung | Kostenlose Lieferung
+ - [https://spartoo.de](https://spartoo.de)
+ - date_published: 2024-09-11T18:33:04.990094+00:00
+
+ ## SPARXSYSTEMS: Enterprise Architect | Ihr UML und BPMN Tool
+ - [https://www.sparxsystems.de](https://www.sparxsystems.de)
+ - date_published: 2024-07-03T21:41:07.406472+00:00
+
+ ## sp-codes - Home
+ - [https://sp-codes.de](https://sp-codes.de)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## SpeedCommander
+ - [http://www.speedproject.de](http://www.speedproject.de)
+ - date_published: 2024-06-20T13:13:03.673669+00:00
+
+ ## Energie - Speicher - Marktplatz - Jobs - Speicherbranche - Speicherbranche
+ - [https://speicherbranche.de](https://speicherbranche.de)
+ - date_published: 2024-04-29T06:15:28.733267+00:00
+
+ ## Energie - Speicher - Marktplatz - Jobs - Speicherbranche - Speicherbranche
+ - [https://www.speicherbranche.de](https://www.speicherbranche.de)
+ - date_published: 2024-08-18T08:24:02.962053+00:00
+
+ ## speicherleck.de
+ - [https://speicherleck.de](https://speicherleck.de)
+ - date_published: 2017-04-02T22:37:09+00:00
+
+ ## DER SPIEGEL | Online-Nachrichten
+ - [https://speigel.de](https://speigel.de)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## speisekarte.de - Restaurantführer mit Speisekarten und Preisen
+ - [https://www.speisekarte.de](https://www.speisekarte.de)
+ - date_published: 2024-09-30T13:15:41.246747+00:00
+
+ ## Online Customer Service
+ - [https://ocs.spektrum.de](https://ocs.spektrum.de)
+ - date_published: 2024-07-24T04:46:48.687738+00:00
+
+ ## Tagebücher der Wissenschaft » SciLogs - Wissenschaftsblogs
+ - [https://scilogs.spektrum.de](https://scilogs.spektrum.de)
+ - date_published: 2023-10-25T18:32:38.955822+00:00
+
+ ## Spektrum.de - Nachrichten aus Wissenschaft und Forschung
+ - [https://static.spektrum.de](https://static.spektrum.de)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Spektrum.de - Nachrichten aus Wissenschaft und Forschung
+ - [https://spektrum.de](https://spektrum.de)
+ - date_published: 2024-04-29T06:45:39.703699+00:00
+
+ ## Info: Kontakt
+ - [https://www.spektrumverlag.de](https://www.spektrumverlag.de)
+ - date_published: 2024-07-24T04:46:57.596815+00:00
+
+ ## www.spellbound.de
+ - [http://www.spellbound.de](http://www.spellbound.de)
+ - date_published: 2024-07-11T17:07:22.040678+00:00
+
+ ## DER SPIEGEL im Abo
+ - [https://abo.spiegel.de](https://abo.spiegel.de)
+ - date_published: 2024-04-29T06:46:05.561270+00:00
+
+ ## SPIEGEL Akademie - Wissen, was mich erfolgreicher macht.
+ - [https://akademie.spiegel.de](https://akademie.spiegel.de)
+ - date_published: 2024-04-29T06:46:11.516386+00:00
+
+ ## Alle digitalen Magazine - DER SPIEGEL
+ - [https://cdn.magazin.spiegel.de](https://cdn.magazin.spiegel.de)
+ - date_published: 2024-04-29T06:45:46.984136+00:00
+
+ ## SPIEGEL Ed | Unterrichtsmaterial zu Medien, Nachrichten und Digitalisierung
+ - [https://ed.spiegel.de](https://ed.spiegel.de)
+ - date_published: 2024-04-29T06:46:12.873501+00:00
+
+ ## Anmelden
+ - [https://gruppenkonto.spiegel.de](https://gruppenkonto.spiegel.de)
+ - date_published: 2024-04-29T06:46:19.377823+00:00
+
+ ## SPIEGEL-Gruppe
+ - [https://gruppe.spiegel.de](https://gruppe.spiegel.de)
+ - date_published: 2024-04-29T06:46:13.831652+00:00
+
+ ## Die besten Gutscheine, Rabatte & Angebote für Juli 2024 - DER SPIEGEL
+ - [https://gutscheine.spiegel.de](https://gutscheine.spiegel.de)
+ - date_published: 2024-07-19T22:29:19.744031+00:00
+
+ ## Der Stellenmarkt von DER SPIEGEL: Finden Sie jetzt Ihren nächsten Traumjob - Powered  by StepStone.
+ - [https://jobs.spiegel.de](https://jobs.spiegel.de)
+ - date_published: 2024-04-29T06:46:38.021070+00:00
+
+ ## Test Page for the HTTP Server on Red Hat Enterprise Linux
+ - [https://kundenservicechat.spiegel.de](https://kundenservicechat.spiegel.de)
+ - date_published: 2024-07-24T04:44:12.029788+00:00
+
+ ## Lotto - DER SPIEGEL
+ - [https://lotto.spiegel.de](https://lotto.spiegel.de)
+ - date_published: 2024-04-29T06:46:46.537030+00:00
+
+ ## Alle digitalen Magazine - DER SPIEGEL
+ - [https://magazin.spiegel.de](https://magazin.spiegel.de)
+ - date_published: 2024-04-29T06:46:17.037502+00:00
+
+ ## MANUFAKTUR | Home
+ - [https://manufaktur.spiegel.de](https://manufaktur.spiegel.de)
+ - date_published: 2024-04-29T06:46:25.947250+00:00
+
+ ## Serviceportal 50plus
+ - [https://seniorenportal.spiegel.de](https://seniorenportal.spiegel.de)
+ - date_published: 2024-04-29T06:46:04.240045+00:00
+
+ ## Kostenlose Online Spiele: Hier gratis spielen! | DER SPIEGEL
+ - [https://spiele.spiegel.de](https://spiele.spiegel.de)
+ - date_published: 2024-04-29T06:45:56.257073+00:00
+
+ ## Sport live heute - die Liveticker des Tages | DER SPIEGEL
+ - [https://sportdaten.spiegel.de](https://sportdaten.spiegel.de)
+ - date_published: 2024-04-29T06:46:08.378363+00:00
+
+ ## Die besten Streaming Tipps – handverlesen und leicht zu finden | Streaming Guide
+ - [https://streaming-guide.spiegel.de](https://streaming-guide.spiegel.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## SPIEGEL-TV
+ - [https://tv.spiegel.de](https://tv.spiegel.de)
+ - date_published: 2024-04-29T06:46:27.147148+00:00
+
+ ## Unternehmen | SPIEGEL.DE
+ - [https://unternehmen.spiegel.de](https://unternehmen.spiegel.de)
+ - date_published: 2024-04-29T06:46:42.419352+00:00
+
+ ## DER SPIEGEL | Online-Nachrichten
+ - [https://spiegel.de](https://spiegel.de)
+ - date_published: 2023-11-06T15:41:57.887667+00:00
+ - tags: ['germany', 'news']
+
+ ## Spiegel-Antiquariat - Original Zeitung vom Tag der Geburt
+ - [https://spiegel-antiquariat.de](https://spiegel-antiquariat.de)
+ - date_published: 2024-04-29T06:46:43.779981+00:00
+
+ ## Start • Spiegelbild - politische Bildung aus Wiesbaden
+ - [https://www.spiegelbild.de](https://www.spiegelbild.de)
+ - date_published: 2024-09-12T15:58:52.609182+00:00
+
+ ## Home - Spiegelburg International
+ - [http://www.spiegelburg-international.de](http://www.spiegelburg-international.de)
+ - date_published: 2023-01-04T00:00:00+00:00
+
+ ## Spiegelburg Onlineshop | Ungewöhnlich anders & voller Überraschungen
+ - [https://spiegelburg-shop.de](https://spiegelburg-shop.de)
+ - date_published: 2024-07-24T04:42:26.938614+00:00
+
+ ## Login | Bewerbermanagement SPIEGEL-Gruppe
+ - [https://jobs.spiegelgruppe.de](https://jobs.spiegelgruppe.de)
+ - date_published: 2024-07-24T04:43:32.864844+00:00
+
+ ## SPIEGEL-Gruppe
+ - [https://spiegelgruppe.de](https://spiegelgruppe.de)
+ - date_published: 2024-04-29T06:46:10.168264+00:00
+
+ ## SPIEGEL_techlab
+ - [https://spiegel-techlab.de](https://spiegel-techlab.de)
+ - date_published: 2024-05-25T01:49:54.564125+00:00
+
+ ## Spielautomat Casinos is under construction
+ - [https://spielautomatcasinos.de](https://spielautomatcasinos.de)
+ - date_published: 2024-09-10T23:46:15.938172+00:00
+
+ ## Spieleflut.de
+ - [http://www.spieleflut.de](http://www.spieleflut.de)
+ - date_published: 2014-10-02T00:00:00+00:00
+
+ ## Start |
+ - [https://www.spielen-mit-verantwortung.de](https://www.spielen-mit-verantwortung.de)
+ - date_published: 2024-07-24T20:15:37.953401+00:00
+
+ ## Spielerzentrale.de - Mitspieler schnell & einfach online finden | Spielerzentrale.de
+ - [http://www.spielerzentrale.de](http://www.spielerzentrale.de)
+ - date_published: 2024-07-02T20:51:31.367681+00:00
 

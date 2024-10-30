@@ -1,59 +1,3 @@
- ## Rokok Basah
- - [https://rokokbasah.blogspot.com](https://rokokbasah.blogspot.com)
- - date_published: 2023-11-23T00:00:00+00:00
-
- ## Role 'n' Roll
- - [http://role-n-roll.blogspot.com](http://role-n-roll.blogspot.com)
- - date_published: 2024-03-05T19:35:56+00:00
-
- ## Roles, Rules, and Rolls
- - [http://rolesrules.blogspot.com](http://rolesrules.blogspot.com)
- - date_published: 2024-07-15T06:41:49+00:00
-
- ## The Dungeon Dozen
- - [http://roll1d12.blogspot.com](http://roll1d12.blogspot.com)
- - date_published: 2024-07-15T08:10:32+00:00
-
- ## Crit or Cruddy
- - [http://rollad20.blogspot.com](http://rollad20.blogspot.com)
- - date_published: 2024-07-03T02:33:51+00:00
-
- ## Blogger
- - [http://rolld10.blogspot.com](http://rolld10.blogspot.com)
- - date_published: 2024-07-15T09:29:02.393025+00:00
-
- ## Rolling Steel Tent
- - [https://rollingsteeltent.blogspot.com](https://rollingsteeltent.blogspot.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Roll of Nickels
- - [http://rollofnickels.blogspot.com](http://rollofnickels.blogspot.com)
- - date_published: 2024-09-04T17:39:53+00:00
-
- ## Roll 'Em
- - [https://rollonward.blogspot.com](https://rollonward.blogspot.com)
- - date_published: 2024-03-20T22:44:15+00:00
-
- ## Roll of the Dice
- - [http://rollothedie.blogspot.com](http://rollothedie.blogspot.com)
- - date_published: 2024-08-29T04:29:13+00:00
-
- ## Roman Archaeology
- - [http://romanarch.blogspot.com](http://romanarch.blogspot.com)
- - date_published: 2024-03-19T21:23:06+00:00
-
- ## Romance Soon | Template Blog SEO, Keren, dan Responsive
- - [http://romancemonsoon.blogspot.com](http://romancemonsoon.blogspot.com)
- - date_published: 2024-03-13T15:53:53+00:00
-
- ## Romani in Tenebris
- - [http://romaninthegloamin.blogspot.com](http://romaninthegloamin.blogspot.com)
- - date_published: 2024-07-03T03:40:06+00:00
-
- ## Cara Terbaru
- - [http://romans828pslm23.blogspot.com](http://romans828pslm23.blogspot.com)
- - date_published: 2017-05-02T00:00:00+00:00
-
  ## BLOG FOR ROM FANS WHO AREN'T DICKS
  - [http://romspaceknightart.blogspot.com](http://romspaceknightart.blogspot.com)
  - date_published: 2024-09-16T22:15:07+00:00
@@ -4012,4 +3956,61 @@
  ## THCC Families
  - [http://thccfamilies.blogspot.com](http://thccfamilies.blogspot.com)
  - date_published: 2024-05-10T04:30:24+00:00
+
+ ## The 1709 Blog
+ - [http://the1709blog.blogspot.com](http://the1709blog.blogspot.com)
+ - date_published: 2024-10-18T19:16:32.780519+00:00
+
+ ## The Academy
+ - [http://theacademy.blogspot.com](http://theacademy.blogspot.com)
+ - date_published: 2024-03-07T07:14:38+00:00
+
+ ## The Accessible Transhumanist
+ - [http://theaccessibletranshumanist.blogspot.com](http://theaccessibletranshumanist.blogspot.com)
+ - date_published: 2024-03-13T18:17:47+00:00
+
+ ## The Accidental Environmentalist
+ - [http://theaccidentalenvironmentalist.blogspot.com](http://theaccidentalenvironmentalist.blogspot.com)
+ - date_published: 2024-03-07T08:07:53+00:00
+
+ ## The Acetone Pit
+ - [http://theacetonepit.blogspot.com](http://theacetonepit.blogspot.com)
+ - date_published: 2024-08-28T04:55:22+00:00
+
+ ## The Aircav Saga
+ - [http://theaircavsaga.blogspot.com](http://theaircavsaga.blogspot.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## TheAmbit's Hobby Blog
+ - [http://theambit.blogspot.com](http://theambit.blogspot.com)
+ - date_published: 2024-06-13T17:20:33+00:00
+
+ ## The American Individualist
+ - [http://theamericanindividualist.blogspot.com](http://theamericanindividualist.blogspot.com)
+ - date_published: 2024-03-05T19:13:06+00:00
+
+ ## Google Translate
+ - [http://theamericanjingoist.blogspot.com](http://theamericanjingoist.blogspot.com)
+ - date_published: 2023-12-28T06:57:33+00:00
+
+ ## The Ancient's Den
+ - [https://theancientsden.blogspot.com](https://theancientsden.blogspot.com)
+ - date_published: 2024-05-13T12:08:00+00:00
+ - tags: ['legacy of kain']
+
+ ## The Anderson Collection
+ - [http://theandersoncollection.blogspot.com](http://theandersoncollection.blogspot.com)
+ - date_published: 2024-07-14T18:24:24+00:00
+
+ ## The Angel's Talon
+ - [http://theangelstalon.blogspot.com](http://theangelstalon.blogspot.com)
+ - date_published: 2024-10-07T06:37:06+00:00
+
+ ## The Angry Lurker
+ - [https://theangrylurker.blogspot.com](https://theangrylurker.blogspot.com)
+ - date_published: 2024-07-19T00:01:54+00:00
+
+ ## The Animals Run the Farm
+ - [http://theanimalsrunthefarm.blogspot.com](http://theanimalsrunthefarm.blogspot.com)
+ - date_published: 2024-10-21T04:21:47.834227+00:00
 

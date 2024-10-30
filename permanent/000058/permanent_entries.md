@@ -1,59 +1,3 @@
- ## Map and Counters
- - [http://mapandcounters.blogspot.com](http://mapandcounters.blogspot.com)
- - date_published: 2024-07-04T06:08:53+00:00
-
- ## Mariuz's Blog
- - [https://mapopa.blogspot.com](https://mapopa.blogspot.com)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## The Map Scroll
- - [http://mapscroll.blogspot.com](http://mapscroll.blogspot.com)
- - date_published: 2024-06-19T09:17:17+00:00
-
- ## Map Uganda
- - [http://mapuganda.blogspot.com](http://mapuganda.blogspot.com)
- - date_published: 2011-03-17T00:00:00+00:00
-
- ## Marathon Pundit
- - [https://marathonpundit.blogspot.com](https://marathonpundit.blogspot.com)
- - date_published: 2024-07-03T20:33:00+00:00
-
- ## Of Marauders and Citadels
- - [http://maraudersandcitadels.blogspot.com](http://maraudersandcitadels.blogspot.com)
- - date_published: 2024-03-05T05:32:40+00:00
-
- ## Tentativi digitali
- - [http://marcaval.blogspot.com](http://marcaval.blogspot.com)
- - date_published: 2024-09-02T10:46:00+00:00
-
- ## Weblog van Marc De Coster
- - [http://marcdecoster.blogspot.com](http://marcdecoster.blogspot.com)
- - date_published: 2024-03-21T02:24:01+00:00
-
- ## marc
- - [http://marcelinolopez.blogspot.com](http://marcelinolopez.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## March 19 Iraq War Blogswarm
- - [http://march19-blogswarm.blogspot.com](http://march19-blogswarm.blogspot.com)
- - date_published: 2024-10-21T13:38:40.260585+00:00
-
- ## Zhilin's Scientific Journey
- - [http://marchonscience.blogspot.com](http://marchonscience.blogspot.com)
- - date_published: 2024-03-22T00:43:27+00:00
-
- ## Marc Raley Miniatures
- - [http://marcraleyminiatures.blogspot.com](http://marcraleyminiatures.blogspot.com)
- - date_published: 2024-07-11T18:03:50+00:00
-
- ## Marc Valdez, Candidate for California Governor
- - [http://marcvaldezcalgov.blogspot.com](http://marcvaldezcalgov.blogspot.com)
- - date_published: 2024-02-21T03:43:02+00:00
-
- ## Marengo 1800. The Austrian army in 15mm.
- - [http://marengo1800.blogspot.com](http://marengo1800.blogspot.com)
- - date_published: 2024-08-30T04:33:13+00:00
-
  ## INTIMIDADE DESCONHECIDA
  - [http://mariocarvalho1961.blogspot.com](http://mariocarvalho1961.blogspot.com)
  - date_published: 2024-03-21T11:32:53+00:00
@@ -4019,4 +3963,60 @@
  ## OpenCL For FPGA
  - [http://opencl4fpga.blogspot.com](http://opencl4fpga.blogspot.com)
  - date_published: 2024-02-08T20:25:30+00:00
+
+ ## open-ig-dev
+ - [https://open-ig-dev.blogspot.com](https://open-ig-dev.blogspot.com)
+ - date_published: 2024-03-19T10:35:28+00:00
+
+ ## The Open Source Paleontologist
+ - [http://openpaleo.blogspot.com](http://openpaleo.blogspot.com)
+ - date_published: 2024-10-19T05:15:19.071915+00:00
+
+ ## openPicus blog
+ - [http://openpicus.blogspot.com](http://openpicus.blogspot.com)
+ - date_published: 2024-06-23T17:55:46+00:00
+
+ ## Open Source Exile
+ - [https://opensourceexile.blogspot.com](https://opensourceexile.blogspot.com)
+ - date_published: 2024-03-14T02:36:39+00:00
+
+ ## Open Source of Knowledge
+ - [http://opensourceknowledge.blogspot.com](http://opensourceknowledge.blogspot.com)
+ - date_published: 2024-03-13T19:09:12+00:00
+
+ ## Opera Buffo
+ - [http://operabuffo.blogspot.com](http://operabuffo.blogspot.com)
+ - date_published: 2024-10-17T22:55:34.551969+00:00
+
+ ## Operation Solihull - Ron & Deanne Hancock
+ - [http://operationsolihull.blogspot.com](http://operationsolihull.blogspot.com)
+ - date_published: 2024-03-13T07:57:08+00:00
+
+ ## O poema que hoje partilharia com vocês...
+ - [http://opoemaquehojepartilhariacomvoces.blogspot.com](http://opoemaquehojepartilhariacomvoces.blogspot.com)
+ - date_published: 2024-03-13T21:34:16+00:00
+
+ ## Op-For ~ Miniature Wargaming and Board Game Gaming Club
+ - [https://oppositionforce.blogspot.com](https://oppositionforce.blogspot.com)
+ - date_published: 2024-06-03T02:06:18+00:00
+
+ ## Optus bungling
+ - [http://optus-australia.blogspot.com](http://optus-australia.blogspot.com)
+ - date_published: 2024-05-11T06:09:04+00:00
+
+ ## Oracc Notes and News
+ - [http://oracc.blogspot.com](http://oracc.blogspot.com)
+ - date_published: 2024-06-05T12:15:45+00:00
+
+ ## Orbital Barrage
+ - [http://orbitalbarrage.blogspot.com](http://orbitalbarrage.blogspot.com)
+ - date_published: 2024-03-13T15:39:35+00:00
+
+ ## Orbital Bombardment - The Miniature Gaming Blog and Podcast
+ - [http://orbitalbombardmentgamers.blogspot.com](http://orbitalbombardmentgamers.blogspot.com)
+ - date_published: 2024-10-24T05:03:30+00:00
+
+ ## Orcsbains miniature world
+ - [http://orcsbains-minature-world.blogspot.com](http://orcsbains-minature-world.blogspot.com)
+ - date_published: 2024-03-13T07:07:11+00:00
 

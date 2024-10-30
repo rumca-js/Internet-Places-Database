@@ -1,315 +1,3 @@
- ## Reddit - Dive into anything
- - [https://preview.redd.it](https://preview.redd.it)
- - date_published: 2023-10-25T20:15:22.724650+00:00
-
- ## reddit
- - [https://redd.it](https://redd.it)
- - date_published: 2023-12-11T19:25:05.732440+00:00
-
- ## https://v.redd.it
- - [https://v.redd.it](https://v.redd.it)
- - date_published: 2023-10-30T12:42:19.101470+00:00
-
- ## Reggio Children - Home
- - [https://www.reggiochildren.it](https://www.reggiochildren.it)
- - date_published: 2024-07-19T16:46:53.172564+00:00
-
- ## ReggioToday
- - [https://reggiotoday.it](https://reggiotoday.it)
- - date_published: 2024-05-11T10:01:52.738687+00:00
-
- ## Regioni.it - Conferenza delle Regioni e delle Province autonome - Regioni.it
- - [http://www.regioni.it](http://www.regioni.it)
- - date_published: 2024-09-16T10:55:43.074402+00:00
-
- ## Releasit COD Form & Upsell and Cash on Delivery Apps Website
- - [https://releas.it](https://releas.it)
- - date_published: 2024-06-22T23:53:00.281453+00:00
-
- ## The ESA Commercialisation gateway
- - [https://commercialisation.esa.dev.remediagroup.it](https://commercialisation.esa.dev.remediagroup.it)
- - date_published: 2024-08-07T22:49:31.988895+00:00
-
- ## Sito del gruppo di studio e documentazione
- - [http://renneslechateau.it](http://renneslechateau.it)
- - date_published: 2024-05-09T06:35:48.869218+00:00
-
- ## Replit — Blog
- - [https://blog.repl.it](https://blog.repl.it)
- - date_published: 2024-05-06T13:19:39.841813+00:00
- - tags: ['blog']
-
- ## Replit: The software creation platform. IDE, AI, and Deployments
- - [https://repl.it](https://repl.it)
- - date_published: 2023-12-11T12:25:08+00:00
- - tags: ['code sandbox']
-
- ## Report Difesa
- - [https://www.reportdifesa.it](https://www.reportdifesa.it)
- - date_published: 2024-10-22T12:43:54.988954+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.bari.repubblica.it](https://annunci.bari.repubblica.it)
- - date_published: 2024-07-16T18:40:03.014369+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.bologna.repubblica.it](https://annunci.bologna.repubblica.it)
- - date_published: 2024-07-16T18:48:36.172515+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.firenze.repubblica.it](https://annunci.firenze.repubblica.it)
- - date_published: 2024-07-16T18:32:18.298832+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.genova.repubblica.it](https://annunci.genova.repubblica.it)
- - date_published: 2024-07-16T18:33:35.532969+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.milano.repubblica.it](https://annunci.milano.repubblica.it)
- - date_published: 2024-07-16T18:43:34.281039+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.napoli.repubblica.it](https://annunci.napoli.repubblica.it)
- - date_published: 2024-07-16T18:55:10.474330+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.palermo.repubblica.it](https://annunci.palermo.repubblica.it)
- - date_published: 2024-07-16T19:01:34.383048+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.repubblica.it](https://annunci.repubblica.it)
- - date_published: 2024-05-12T06:45:17.184828+00:00
-
- ## Annunci - Repubblica.it - Il sito di annunci gratuiti
- - [https://annunci.roma.repubblica.it](https://annunci.roma.repubblica.it)
- - date_published: 2024-07-16T18:39:40.678576+00:00
-
- ## Bari notizie e approfondimenti - Repubblica.it
- - [https://bari.repubblica.it](https://bari.repubblica.it)
- - date_published: 2024-05-12T06:44:02.758373+00:00
-
- ## Bologna notizie e approfondimenti - Repubblica.it
- - [https://bologna.repubblica.it](https://bologna.repubblica.it)
- - date_published: 2024-05-12T06:44:35.603185+00:00
-
- ## Scienza in cucina - Blog - Le Scienze
- - [http://bressanini-lescienze.blogautore.espresso.repubblica.it](http://bressanini-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:58.582228+00:00
-
- ## Design - la Repubblica
- - [https://design.repubblica.it](https://design.repubblica.it)
- - date_published: 2024-05-12T06:44:54.133306+00:00
-
- ## Salute e bugie - Blog - Le Scienze
- - [http://digrazia-lescienze.blogautore.espresso.repubblica.it](http://digrazia-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:43.984773+00:00
-
- ## Dizionari italiano, inglese e sinonimi
- - [https://dizionari.repubblica.it](https://dizionari.repubblica.it)
- - date_published: 2024-05-12T06:44:50.520598+00:00
-
- ## Moda e beauty - Tendenze fashion, bellezza, amore, relazioni e parenting
- - [https://d.repubblica.it](https://d.repubblica.it)
- - date_published: 2024-05-12T06:45:07.649197+00:00
-
- ## Elezioni
- - [https://elezioni.repubblica.it](https://elezioni.repubblica.it)
- - date_published: 2024-06-29T23:50:25.228960+00:00
-
- ## L'Espresso - News, inchieste e approfondimenti
- - [https://espresso.repubblica.it](https://espresso.repubblica.it)
- - date_published: 2024-05-25T01:49:50.260068+00:00
-
- ## Firenze notizie e approfondimenti: Repubblica.it
- - [https://firenze.repubblica.it](https://firenze.repubblica.it)
- - date_published: 2024-05-12T06:43:48.436720+00:00
-
- ## Genova notizie e approfondimenti: Repubblica.it
- - [https://genova.repubblica.it](https://genova.repubblica.it)
- - date_published: 2024-05-12T06:43:51.690255+00:00
-
- ## Il terzo pianeta - Blog - Le Scienze
- - [http://ilterzopianeta-lescienze.blogautore.espresso.repubblica.it](http://ilterzopianeta-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:42.842926+00:00
-
- ## Il luogo delle vostre storie
- - [https://invececoncita.blogautore.repubblica.it](https://invececoncita.blogautore.repubblica.it)
- - date_published: 2024-05-12T06:44:49.351614+00:00
-
- ## Visual Lab - Il laboratorio digitale del Gruppo Gedi
- - [https://lab.repubblica.it](https://lab.repubblica.it)
- - date_published: 2018-10-30T09:00:00+00:00
-
- ## la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport
- - [https://la.repubblica.it](https://la.repubblica.it)
- - date_published: 2024-05-12T06:44:19.796652+00:00
-
- ## L’orologiaio miope - Blog - Le Scienze
- - [http://lorologiaiomiope-lescienze.blogautore.espresso.repubblica.it](http://lorologiaiomiope-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:56:08.860952+00:00
-
- ## La ceretta di Occam - Blog - Le Scienze
- - [http://mautino-lescienze.blogautore.espresso.repubblica.it](http://mautino-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:56:13.045793+00:00
-
- ## Previsioni meteo
- - Repubblica.it
- - [https://meteo.repubblica.it](https://meteo.repubblica.it)
- - date_published: 2024-05-12T06:44:51.690189+00:00
-
- ## Milano notizie e approfondimenti: Repubblica.it
- - [https://milano.repubblica.it](https://milano.repubblica.it)
- - date_published: 2024-05-12T06:44:28.882345+00:00
-
- ## Napoli notizie e approfondimenti: Repubblica.it
- - [https://napoli.repubblica.it](https://napoli.repubblica.it)
- - date_published: 2024-05-12T06:44:39.778570+00:00
-
- ## Necrologi - Necrologie defunti e annunci funebri - Annunci mortuari
- - [https://necrologie.repubblica.it](https://necrologie.repubblica.it)
- - date_published: 2024-05-12T06:44:33.227179+00:00
-
- ## la Repubblica
- - [http://newsletter.repubblica.it](http://newsletter.repubblica.it)
- - date_published: 2024-07-16T19:03:53.576876+00:00
-
- ## Noi e i robot - Blog - Le Scienze
- - [http://oldani-lescienze.blogautore.espresso.repubblica.it](http://oldani-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:50.736590+00:00
-
- ## Oroscopo - la Repubblica
- - [https://oroscopo.d.repubblica.it](https://oroscopo.d.repubblica.it)
- - date_published: 2024-05-12T06:44:43.101606+00:00
-
- ## Palermo notizie e approfondimenti - Repubblica.it
- - [https://palermo.repubblica.it](https://palermo.repubblica.it)
- - date_published: 2024-05-12T06:44:57.432485+00:00
-
- ## Parma notizie e approfondimenti: Repubblica.it
- - [https://parma.repubblica.it](https://parma.repubblica.it)
- - date_published: 2024-05-12T06:44:45.380897+00:00
-
- ## IL KYOTO FISSO - Blog - Le Scienze
- - [http://pasini-lescienze.blogautore.espresso.repubblica.it](http://pasini-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:52.561749+00:00
-
- ## Playground
- - [http://playground.blogautore.repubblica.it](http://playground.blogautore.repubblica.it)
- - date_published: 2024-07-09T09:10:03.559614+00:00
-
- ## Gedi Digital Srl
- - [https://quotidiano.repubblica.it](https://quotidiano.repubblica.it)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Premium - la Repubblica
- - [https://rep.repubblica.it](https://rep.repubblica.it)
- - date_published: 2024-05-12T06:45:09.863684+00:00
-
- ## - Archivio - la Repubblica.it
- - [https://ricerca.repubblica.it](https://ricerca.repubblica.it)
- - date_published: 2024-06-29T23:50:23.606139+00:00
-
- ## Roma: notizie e approfondimenti - Repubblica.it
- - [https://roma.repubblica.it](https://roma.repubblica.it)
- - date_published: 2024-05-12T06:43:59.321369+00:00
-
- ## Rudi Matematici - Blog - Le Scienze
- - [http://rudimatematici-lescienze.blogautore.espresso.repubblica.it](http://rudimatematici-lescienze.blogautore.espresso.repubblica.it)
- - date_published: 2024-07-16T18:55:55.529206+00:00
-
- ## Repubblica Scuola
- - [https://scuola.repubblica.it](https://scuola.repubblica.it)
- - date_published: 2024-05-12T06:45:37.953975+00:00
-
- ## Torino notizie e approfondimenti: Repubblica.it
- - [https://torino.repubblica.it](https://torino.repubblica.it)
- - date_published: 2024-05-12T06:44:23.127153+00:00
-
- ## Video - la Repubblica
- - [https://video.repubblica.it](https://video.repubblica.it)
- - date_published: 2024-05-03T18:03:26+00:00
-
- ## la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport
- - [https://repubblica.it](https://repubblica.it)
- - date_published: 2024-04-04T13:27:32.869193+00:00
-
- ## ReteIngegneri.it il portale degli ingegneri
- - [https://www.reteingegneri.it](https://www.reteingegneri.it)
- - date_published: 2024-10-15T16:47:34+00:00
-
- ## Home - Progetto Binit
- - [https://retroedicola-binit.it](https://retroedicola-binit.it)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Retroedicola Videoludica Editore
- - [https://retroedicola-iskandar.it](https://retroedicola-iskandar.it)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home - Retro-Gamers.it
- - [https://retro-gamers.it](https://retro-gamers.it)
- - date_published: 2023-12-11T18:59:38.730308+00:00
- - tags: ['commodore', 'amiga']
-
- ## REUMAPED – Società Italiana di Reumatologia Pediatrica
- - [https://reumaped.it](https://reumaped.it)
- - date_published: 2024-06-28T12:06:56.899510+00:00
-
- ## Società Italiana di Reumatologia
- - [https://www.reumatologia.it](https://www.reumatologia.it)
- - date_published: 2024-06-28T12:07:42.500543+00:00
-
- ## Rev3rse Security
- - [https://rev3rse.it](https://rev3rse.it)
- - date_published: 2024-06-06T13:05:34+00:00
-
- ## Reveland
- - [https://www.reveland.it](https://www.reveland.it)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Compra, vendi e affitta casa - Rexer
- - [https://www.rexer.it](https://www.rexer.it)
- - date_published: 2024-09-26T21:00:28.526496+00:00
-
- ## Pagina di Benvenuto - Nuovo Progetto
- - [https://www.rhf.it](https://www.rhf.it)
- - date_published: 2018-12-22T21:19:29+00:00
-
- ## Ricercare Imprese - Guida alle imprese e ai servizi nella tua città
- - [https://www.ricercare-imprese.it](https://www.ricercare-imprese.it)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Il ricettario medievale
- - [http://www.ricettariomedievale.it](http://www.ricettariomedievale.it)
- - date_published: 2024-08-27T16:34:05+00:00
-
- ## RiminiToday
- - [https://riminitoday.it](https://riminitoday.it)
- - date_published: 2024-05-11T09:56:23.302028+00:00
-
- ## Rinascente - Shop Online
- - [https://www.rinascente.it](https://www.rinascente.it)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Home - Rinascimento Green
- - [https://rinascimentogreen.it](https://rinascimentogreen.it)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Home - Risposte Informatiche
- - [https://www.risposteinformatiche.it](https://www.risposteinformatiche.it)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## robime.it | Portál pre IT-čkárov a IT-čkárky
- - [https://robime.it](https://robime.it)
- - date_published: 2019-12-05T10:59:28+00:00
-
- ## Rolling Stone Italia | News su musica, cinema, TV e politica
- - [https://www.rollingstone.it](https://www.rollingstone.it)
- - date_published: 2024-06-18T15:45:31.438779+00:00
-
- ## RomaToday
- - [https://romatoday.it](https://romatoday.it)
- - date_published: 2024-05-11T10:02:01.306092+00:00
-
  ## Rome in the footsteps of a 1750 traveller
  - [https://www.romeartlover.it](https://www.romeartlover.it)
  - date_published: 2023-11-15T17:37:09.666911+00:00
@@ -4005,4 +3693,313 @@
  ## 名古屋大学 高等教育研究センター
  - [http://www.cshe.nagoya-u.ac.jp](http://www.cshe.nagoya-u.ac.jp)
  - date_published: 2023-05-10T05:21:30+00:00
+
+ ## 名古屋大学工学部・大学院工学研究科　～工学を拓く名古屋大学～
+ - [https://www.engg.nagoya-u.ac.jp](https://www.engg.nagoya-u.ac.jp)
+ - date_published: 2024-05-27T06:57:54+00:00
+
+ ## 名古屋大学 大学院 環境学研究科
+ - [https://www.env.nagoya-u.ac.jp](https://www.env.nagoya-u.ac.jp)
+ - date_published: 2024-06-18T02:22:34+00:00
+
+ ## 名古屋大学 学生支援本部 / Nagoya University The Student Support | Nagoya University The Student Support
+ - [https://www.gakuso.provost.nagoya-u.ac.jp](https://www.gakuso.provost.nagoya-u.ac.jp)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 名古屋大学モビリティ社会研究所 (GREMO)
+ - [https://www.gremo.mirai.nagoya-u.ac.jp](https://www.gremo.mirai.nagoya-u.ac.jp)
+ - date_published: 2024-06-23T04:24:11+00:00
+
+ ## 名古屋大学 高等研究院
+ - [http://www.iar.nagoya-u.ac.jp](http://www.iar.nagoya-u.ac.jp)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## ICMaSS2023 - International Conference on Materials and Systems for Sustainability 2023
+ - [https://www.icmass.imass.nagoya-u.ac.jp](https://www.icmass.imass.nagoya-u.ac.jp)
+ - date_published: 2024-06-23T21:59:56.800010+00:00
+
+ ## 名古屋大学未来材料・システム研究所
+ - [https://www.imass.nagoya-u.ac.jp](https://www.imass.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:27:23.789372+00:00
+
+ ## HOME
+ | ISEE 名古屋大学宇宙地球環境研究所
+ - [https://www.isee.nagoya-u.ac.jp](https://www.isee.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:27:44.584929+00:00
+
+ ## WPI World Premier International Research Center Initiative: Institute of Transformative Bio-Molecules, Nagoya University
+ - [https://www.itbm.nagoya-u.ac.jp](https://www.itbm.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:28:01.283938+00:00
+
+ ## 名古屋大学 素粒子宇宙起源研究所（KMI）
+ - [https://www.kmi.nagoya-u.ac.jp](https://www.kmi.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:27:52.477279+00:00
+
+ ## 名古屋大学 ジェンダーダイバーシティセンター
+ - [http://www.kyodo-sankaku.provost.nagoya-u.ac.jp](http://www.kyodo-sankaku.provost.nagoya-u.ac.jp)
+ - date_published: 2024-03-28T05:13:44+00:00
+
+ ## Home│名古屋大学
+ - [https://www.law.nagoya-u.ac.jp](https://www.law.nagoya-u.ac.jp)
+ - date_published: 2024-06-19T00:27:22+00:00
+
+ ## 名古屋大学 博士課程教育リーディングプログラム　グローバルリーダーたちのプラットフォーム
+ - [https://www.leading.nagoya-u.ac.jp](https://www.leading.nagoya-u.ac.jp)
+ - date_published: 2018-09-22T02:46:59+00:00
+
+ ## Welcome to the Mathematical World - Grad. Sch. of Math., Nagoya Univ.
+ - [https://www.math.nagoya-u.ac.jp](https://www.math.nagoya-u.ac.jp)
+ - date_published: 2024-06-23T19:15:41+00:00
+
+ ## Mathematical and Data Science Center, Nagoya University
+ - [https://www.mds.nagoya-u.ac.jp](https://www.mds.nagoya-u.ac.jp)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## 名古屋大学医学部総合ポータル［NAGOYA UNIVERSITY GRADUATE SCHOOL OF MEDICINE］
+ - [https://www.med.nagoya-u.ac.jp](https://www.med.nagoya-u.ac.jp)
+ - date_published: 2023-04-24T06:07:50+00:00
+
+ ## 名古屋大学未来社会創造機構
+ - [https://www.mirai.nagoya-u.ac.jp](https://www.mirai.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:27:46.680103+00:00
+
+ ## 名古屋大学 メディカルイノベーション推進室
+ - [https://www.miu.aip.nagoya-u.ac.jp](https://www.miu.aip.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:28:43.657625+00:00
+
+ ## 名古屋大学
+ - [https://www.nagoya-u.ac.jp](https://www.nagoya-u.ac.jp)
+ - date_published: 2023-10-25T20:15:58.916788+00:00
+
+ ## 名古屋大学附属図書館・トップページ
+ - [http://www.nul.nagoya-u.ac.jp](http://www.nul.nagoya-u.ac.jp)
+ - date_published: 2024-04-09T02:07:51+00:00
+
+ ## 名古屋大学博物館
+ - [https://www.num.nagoya-u.ac.jp](https://www.num.nagoya-u.ac.jp)
+ - date_published: 2024-06-23T22:30:30.511911+00:00
+
+ ## 名古屋大学 教育基盤連携本部
+ - [http://www.nuqa.nagoya-u.ac.jp](http://www.nuqa.nagoya-u.ac.jp)
+ - date_published: 2023-11-14T01:36:33+00:00
+
+ ## 名古屋大学環境医学研究所
+ - [http://www.riem.nagoya-u.ac.jp](http://www.riem.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:28:40.516119+00:00
+
+ ## 名古屋大学 災害対策室 | Disaster Management Office, Nagoya University
+ - [https://www.saigai.nagoya-u.ac.jp](https://www.saigai.nagoya-u.ac.jp)
+ - date_published: 2024-06-23T22:02:38.626220+00:00
+
+ ## T-GEx
+ - [https://www.t-gex.nagoya-u.ac.jp](https://www.t-gex.nagoya-u.ac.jp)
+ - date_published: 2024-05-06T15:28:15.005809+00:00
+
+ ## 南山大学
+ - [https://www.nanzan-u.ac.jp](https://www.nanzan-u.ac.jp)
+ - date_published: 2024-06-21T05:53:56+00:00
+
+ ## Home
+ - [https://almascience.nao.ac.jp](https://almascience.nao.ac.jp)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## 科学衛星｢ひので｣
+ - [http://hinode.nao.ac.jp](http://hinode.nao.ac.jp)
+ - date_published: 2024-07-08T06:47:28+00:00
+
+ ## Division of Theoretical Astronomy, National Astronomical Observatory of Japan
+ - [http://th.nao.ac.jp](http://th.nao.ac.jp)
+ - date_published: 2019-07-16T06:55:33+00:00
+
+ ## 国立天文台(NAOJ)
+ - [https://www.nao.ac.jp](https://www.nao.ac.jp)
+ - date_published: 2024-06-13T04:14:46+00:00
+
+ ## 奈良女子大学附属中等教育学校 公式サイト
+ - [https://nwuss.nara-wu.ac.jp](https://nwuss.nara-wu.ac.jp)
+ - date_published: 2024-07-03T20:18:07.778456+00:00
+
+ ## 国立大学法人奈良国立大学機構 奈良女子大学 Nara Women's University
+ - [https://www.nara-wu.ac.jp](https://www.nara-wu.ac.jp)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## 大学ポートレート
+ - [https://portraits.niad.ac.jp](https://portraits.niad.ac.jp)
+ - date_published: 2024-06-23T16:30:02+00:00
+
+ ## 基礎生物学研究所
+ - [http://www.nibb.ac.jp](http://www.nibb.ac.jp)
+ - date_published: 2024-06-23T22:12:19.874082+00:00
+
+ ## 自然科学研究機構 核融合科学研究所 (NIFS ニフス)
+ - [http://www.nifs.ac.jp](http://www.nifs.ac.jp)
+ - date_published: 2024-06-21T06:52:36+00:00
+
+ ## SHIGEN - SHared Information of GENetic resources
+ - [http://www.shigen.nig.ac.jp](http://www.shigen.nig.ac.jp)
+ - date_published: 2024-06-23T23:31:53.999284+00:00
+
+ ## 日本大学文理学部トップ
+ - [http://www.chs.nihon-u.ac.jp](http://www.chs.nihon-u.ac.jp)
+ - date_published: 2024-07-02T05:46:44+00:00
+
+ ## International Conference on 3D Vision 2020
+ - [http://3dv2020.dgcv.nii.ac.jp](http://3dv2020.dgcv.nii.ac.jp)
+ - date_published: 2022-10-14T06:04:04+00:00
+
+ ## CiNii Research
+ - [https://ci.nii.ac.jp](https://ci.nii.ac.jp)
+ - date_published: 2023-10-31T00:00:00+00:00
+
+ ## CiNii Research
+ - [https://cir.nii.ac.jp](https://cir.nii.ac.jp)
+ - date_published: 2023-10-31T00:00:00+00:00
+
+ ## 情報学広場：情報処理学会電子図書館
+ - [https://ipsj.ixsq.nii.ac.jp](https://ipsj.ixsq.nii.ac.jp)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## 学術機関リポジトリデータベース
+ - [https://irdb.nii.ac.jp](https://irdb.nii.ac.jp)
+ - date_published: 2024-06-23T22:30:40.652013+00:00
+
+ ## 宇宙航空研究開発機構リポジトリ
+ - [https://jaxa.repo.nii.ac.jp](https://jaxa.repo.nii.ac.jp)
+ - date_published: 2024-06-24T02:48:43.574644+00:00
+
+ ## KAKEN — Research Projects
+ - [https://kaken.nii.ac.jp](https://kaken.nii.ac.jp)
+ - date_published: 2024-06-23T21:54:55.559001+00:00
+
+ ## 国文学研究資料館学術情報リポジトリ
+ - [https://kokubunken.repo.nii.ac.jp](https://kokubunken.repo.nii.ac.jp)
+ - date_published: 2024-05-08T03:52:15.106607+00:00
+
+ ## 国立新美術館リポジトリ
+ - [https://nact.repo.nii.ac.jp](https://nact.repo.nii.ac.jp)
+ - date_published: 2024-06-24T02:53:07.916573+00:00
+
+ ## 名古屋大学学術機関リポジトリ
+ - [https://nagoya.repo.nii.ac.jp](https://nagoya.repo.nii.ac.jp)
+ - date_published: 2024-05-06T15:28:50.651992+00:00
+
+ ## 立命館学術成果リポジトリ
+ - [https://ritsumei.repo.nii.ac.jp](https://ritsumei.repo.nii.ac.jp)
+ - date_published: 2024-06-23T22:32:18.295642+00:00
+
+ ## NII Shonan Meeting
+ - [https://shonan.nii.ac.jp](https://shonan.nii.ac.jp)
+ - date_published: 2024-06-26T23:23:23.714330+00:00
+
+ ## つくばリポジトリ
+ - [http://tsukuba.repo.nii.ac.jp](http://tsukuba.repo.nii.ac.jp)
+ - date_published: 2024-06-23T23:17:02.152942+00:00
+
+ ## 東京理科大学学術リポジトリ
+ - [https://tus.repo.nii.ac.jp](https://tus.repo.nii.ac.jp)
+ - date_published: 2024-06-23T23:39:23.315861+00:00
+
+ ## 早稲田大学リポジトリ
+ - [https://waseda.repo.nii.ac.jp](https://waseda.repo.nii.ac.jp)
+ - date_published: 2024-05-06T15:57:46.093456+00:00
+
+ ## 国立情報学研究所 / National Institute of Informatics
+ - [https://www.nii.ac.jp](https://www.nii.ac.jp)
+ - date_published: 2024-06-22T10:56:22.379757+00:00
+
+ ## Shin'ichi Satoh's Lab
+ - [http://www.satoh-lab.nii.ac.jp](http://www.satoh-lab.nii.ac.jp)
+ - date_published: 2024-04-10T13:47:02+00:00
+
+ ## 新潟大学
+ - [https://www.niigata-u.ac.jp](https://www.niigata-u.ac.jp)
+ - date_published: 2024-06-23T23:14:41.216397+00:00
+
+ ## 国書データベース
+ - [https://kokusho.nijl.ac.jp](https://kokusho.nijl.ac.jp)
+ - date_published: 2024-07-03T20:16:45.954833+00:00
+
+ ## OPAC
+ - [https://opac.nijl.ac.jp](https://opac.nijl.ac.jp)
+ - date_published: 2024-07-03T20:16:42.532388+00:00
+
+ ## 国文学研究資料館
+ - [https://www.nijl.ac.jp](https://www.nijl.ac.jp)
+ - date_published: 2024-05-08T03:57:25.439608+00:00
+
+ ## 生理学研究所ホームページ トップページ
+ - [http://www.nips.ac.jp](http://www.nips.ac.jp)
+ - date_published: 2024-06-23T22:30:15.413805+00:00
+
+ ## 名古屋工業大学 ENTREPRENEURSHIP | “起業”という選択肢を提案する情報サイト
+ - [http://tongali.web.nitech.ac.jp](http://tongali.web.nitech.ac.jp)
+ - date_published: 2024-06-23T22:16:31.399385+00:00
+
+ ## 国立大学法人名古屋工業大学
+ - [http://www.nitech.ac.jp](http://www.nitech.ac.jp)
+ - date_published: 2024-06-21T08:07:08+00:00
+
+ ## 名古屋外国語大学 The World with Us！ 世界はわたしたちとともに
+ - [https://www.nufs.ac.jp](https://www.nufs.ac.jp)
+ - date_published: 2024-06-23T03:00:22+00:00
+
+ ## お茶の水女子大学／ホーム
+ - [https://www.ocha.ac.jp](https://www.ocha.ac.jp)
+ - date_published: 2024-06-23T15:02:13+00:00
+
+ ## 大分大学教育福祉科学部の旧ホームページ
+ - [https://kitchom.ed.oita-u.ac.jp](https://kitchom.ed.oita-u.ac.jp)
+ - date_published: 2011-07-05T04:44:26+00:00
+
+ ## 大阪公立大学
+ - [https://www.omu.ac.jp](https://www.omu.ac.jp)
+ - date_published: 2024-10-28T05:49:34+00:00
+
+ ## 生命創成探究センター
+ - [https://www.excells.orion.ac.jp](https://www.excells.orion.ac.jp)
+ - date_published: 2024-06-23T22:11:19.370146+00:00
+
+ ## 国立大学法人 大阪教育大学
+ - [https://osaka-kyoiku.ac.jp](https://osaka-kyoiku.ac.jp)
+ - date_published: 2024-06-23T23:14:54.586493+00:00
+
+ ## 大阪大学 21世紀懐徳堂
+ - [https://21c-kaitokudo.osaka-u.ac.jp](https://21c-kaitokudo.osaka-u.ac.jp)
+ - date_published: 2024-06-23T22:31:22.519553+00:00
+
+ ## アルゴリズム設計論講座(増澤研究室) - 大阪大学大学院情報科学研究科 コンピュータサイエンス専攻
+ - [https://algodesign.ist.osaka-u.ac.jp](https://algodesign.ist.osaka-u.ac.jp)
+ - date_published: 2024-07-11T22:20:25.766732+00:00
+
+ ## Campus-wide IT Authentication Platform Service in Osaka University
+ - [https://ir-deposit.library.osaka-u.ac.jp](https://ir-deposit.library.osaka-u.ac.jp)
+ - date_published: 2024-06-23T22:30:45.705132+00:00
+
+ ## 大阪大学学術情報庫OUKA
+ - [https://ir.library.osaka-u.ac.jp](https://ir.library.osaka-u.ac.jp)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## 箕面市立 船場生涯学習センター
+ - [https://llc.osaka-u.ac.jp](https://llc.osaka-u.ac.jp)
+ - date_published: 2024-06-23T22:31:01.104780+00:00
+
+ ## Campus-wide IT Authentication Platform Service in Osaka University
+ - [https://my.osaka-u.ac.jp](https://my.osaka-u.ac.jp)
+ - date_published: 2024-06-23T22:30:49.805006+00:00
+
+ ## 大阪大学発の研究を。
+ - [https://resou.osaka-u.ac.jp](https://resou.osaka-u.ac.jp)
+ - date_published: 2024-01-06T12:19:38.103646+00:00
+
+ ## 大阪大学適塾記念センター所蔵　適塾関係資料画像データベース簡易検索
+ - [https://www.archive.tekijuku.osaka-u.ac.jp](https://www.archive.tekijuku.osaka-u.ac.jp)
+ - date_published: 2024-06-23T22:31:11.834362+00:00
+
+ ## 大阪大学附属図書館
+ - [https://www.library.osaka-u.ac.jp](https://www.library.osaka-u.ac.jp)
+ - date_published: 2024-06-23T22:30:37.013946+00:00
+
+ ## 増澤研究室-大阪大学大学院
+ - [http://www-masu.ist.osaka-u.ac.jp](http://www-masu.ist.osaka-u.ac.jp)
+ - date_published: 2024-05-10T03:58:08.654796+00:00
 

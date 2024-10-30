@@ -1,59 +1,3 @@
- ## 13th Spitfire
- - [http://13thspitfire.blogspot.com](http://13thspitfire.blogspot.com)
- - date_published: 2024-10-21T14:07:59.044604+00:00
-
- ## one hundred and fifty one reasons
- - [http://151reasons.blogspot.com](http://151reasons.blogspot.com)
- - date_published: 2024-03-05T13:47:20+00:00
-
- ## 15mm.co.uk
- - [http://15mmcouk.blogspot.com](http://15mmcouk.blogspot.com)
- - date_published: 2024-07-03T03:05:53+00:00
-
- ## Demonworld
- - [http://15mmdemonworld.blogspot.com](http://15mmdemonworld.blogspot.com)
- - date_published: 2024-03-20T11:20:24+00:00
-
- ## 15mm Please
- - [http://15mmplease.blogspot.com](http://15mmplease.blogspot.com)
- - date_published: 2024-07-11T22:34:28+00:00
-
- ## 15mm Skirmish
- - [http://15mmskirmish.blogspot.com](http://15mmskirmish.blogspot.com)
- - date_published: 2024-04-08T16:03:38+00:00
-
- ## 15mm Strife
- - [http://15mmstrife.blogspot.com](http://15mmstrife.blogspot.com)
- - date_published: 2024-03-08T17:44:37+00:00
-
- ## 15 millimeters through space and time
- - [http://15mmthroughspaceandtime.blogspot.com](http://15mmthroughspaceandtime.blogspot.com)
- - date_published: 2023-09-16T00:00:00+00:00
-
- ## Fjodin's 15mm World
- - [http://15mmworld.blogspot.com](http://15mmworld.blogspot.com)
- - date_published: 2024-06-16T03:46:06+00:00
-
- ## Blogger
- - [http://1867historian.blogspot.com](http://1867historian.blogspot.com)
- - date_published: 2024-10-21T19:00:09.568102+00:00
-
- ## 18th Century Studios
- - [http://18th-century-studios.blogspot.com](http://18th-century-studios.blogspot.com)
- - date_published: 2024-08-31T17:00:01+00:00
-
- ## Poxy Proxy Predator
- - [http://198505steampunk.blogspot.com](http://198505steampunk.blogspot.com)
- - date_published: 2024-06-17T10:49:51+00:00
-
- ## The 19th Brumaire
- - [http://19thbrumaire.blogspot.com](http://19thbrumaire.blogspot.com)
- - date_published: 2024-10-21T18:57:42.516267+00:00
-
- ## Lihatlah
- - [http://19thlegion.blogspot.com](http://19thlegion.blogspot.com)
- - date_published: 2024-10-07T04:47:10+00:00
-
  ## Error 400 (Bad Request)!!1
  - [https://1.bp.blogspot.com](https://1.bp.blogspot.com)
  - date_published: 2024-04-28T04:51:22.149964+00:00
@@ -4013,4 +3957,62 @@
  ## Binstock on Software
  - [https://binstock.blogspot.com](https://binstock.blogspot.com)
  - date_published: 2024-02-26T00:00:00+00:00
+
+ ## And Doctor Biobrain's Response Is...
+ - [http://biobrain.blogspot.com](http://biobrain.blogspot.com)
+ - date_published: 2024-03-23T18:33:03+00:00
+
+ ## BioclipseBlog
+ - [http://bioclipse.blogspot.com](http://bioclipse.blogspot.com)
+ - date_published: 2024-03-12T23:21:12+00:00
+
+ ## BioFreaks Biochemistry Blog (v.Beta)
+ - [https://bio-ggs.blogspot.com](https://bio-ggs.blogspot.com)
+ - date_published: 2024-10-19T06:21:57.676731+00:00
+
+ ## Biophotonics Review
+ - [http://biophotonicsreview.blogspot.com](http://biophotonicsreview.blogspot.com)
+ - date_published: 2024-02-08T04:03:15+00:00
+
+ ## Green Herring
+ - [http://birdbrainscan.blogspot.com](http://birdbrainscan.blogspot.com)
+ - date_published: 2024-03-19T20:37:17+00:00
+
+ ## Birding Babylon
+ - [http://birdingbabylon.blogspot.com](http://birdingbabylon.blogspot.com)
+ - date_published: 2024-06-16T17:39:09+00:00
+
+ ## Musical Blog of Rob Birdwell
+ - [https://birdwellmusic.blogspot.com](https://birdwellmusic.blogspot.com)
+ - date_published: 2024-03-19T04:39:12+00:00
+
+ ## BIRT World
+ - [http://birtworld.blogspot.com](http://birtworld.blogspot.com)
+ - date_published: 2024-07-11T04:08:24+00:00
+
+ ## BishopBlog
+ - [http://bishopheiss.blogspot.com](http://bishopheiss.blogspot.com)
+ - date_published: 2024-03-13T03:05:59+00:00
+
+ ## Q BISONHA
+ - [http://bisonhas.blogspot.com](http://bisonhas.blogspot.com)
+ - date_published: 2024-07-03T02:27:16+00:00
+
+ ## Follow me down the optimization rabbit hole
+ - [https://bitbanksoftware.blogspot.com](https://bitbanksoftware.blogspot.com)
+ - date_published: 2023-10-25T09:06:09.966506+00:00
+ - tags: ['personal']
+
+ ## BitBlitter
+ - [http://bitblitter.blogspot.com](http://bitblitter.blogspot.com)
+ - date_published: 2024-02-20T09:57:58+00:00
+
+ ## Evil Jungle Noodles
+ - [https://bitchblog7080.blogspot.com](https://bitchblog7080.blogspot.com)
+ - date_published: 2024-03-21T13:05:11+00:00
+ - tags: ['personal']
+
+ ## Blogger
+ - [http://bitchphd.blogspot.com](http://bitchphd.blogspot.com)
+ - date_published: 2024-06-30T09:06:54.244481+00:00
 

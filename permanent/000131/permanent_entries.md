@@ -1,183 +1,3 @@
- ## CompressX
- - [https://compressx.lemonsqueezy.com](https://compressx.lemonsqueezy.com)
- - date_published: 2024-07-19T19:38:29.751517+00:00
-
- ## Curated
- - [https://curated.lemonsqueezy.com](https://curated.lemonsqueezy.com)
- - date_published: 2024-04-29T07:14:33.485764+00:00
-
- ## daisyUI
- - [https://daisyui.lemonsqueezy.com](https://daisyui.lemonsqueezy.com)
- - date_published: 2024-05-01T03:40:47.994339+00:00
-
- ## Help Docs: Lemon Squeezy
- - [https://docs.lemonsqueezy.com](https://docs.lemonsqueezy.com)
- - date_published: 2024-05-10T05:41:42.479024+00:00
-
- ## ElemSnap
- - [https://elemsnap.lemonsqueezy.com](https://elemsnap.lemonsqueezy.com)
- - date_published: 2024-07-18T23:14:25.061307+00:00
-
- ## Shay Bocks
- - [https://enneagram.lemonsqueezy.com](https://enneagram.lemonsqueezy.com)
- - date_published: 2024-07-13T00:00:40.716387+00:00
-
- ## Ephesus
- - [https://ephesus.lemonsqueezy.com](https://ephesus.lemonsqueezy.com)
- - date_published: 2024-05-11T05:36:39.112974+00:00
-
- ## EvenBloom
- - [https://evenbloom.lemonsqueezy.com](https://evenbloom.lemonsqueezy.com)
- - date_published: 2024-09-16T23:09:55.194426+00:00
-
- ## fabform
- - [https://fabform.lemonsqueezy.com](https://fabform.lemonsqueezy.com)
- - date_published: 2024-07-10T09:16:28.706280+00:00
-
- ## Felix Dorner
- - [https://felixdorner.lemonsqueezy.com](https://felixdorner.lemonsqueezy.com)
- - date_published: 2024-07-09T19:40:02.856865+00:00
-
- ## GeniePy
- - [https://geniepy.lemonsqueezy.com](https://geniepy.lemonsqueezy.com)
- - date_published: 2024-07-10T11:07:39.485352+00:00
-
- ## Highend
- - [https://highend.lemonsqueezy.com](https://highend.lemonsqueezy.com)
- - date_published: 2024-08-19T20:23:16.353413+00:00
-
- ## John Kappa
- - [https://johnkappa.lemonsqueezy.com](https://johnkappa.lemonsqueezy.com)
- - date_published: 2024-07-13T00:02:49.517239+00:00
-
- ## Kolm templates
- - [https://kolm.lemonsqueezy.com](https://kolm.lemonsqueezy.com)
- - date_published: 2024-09-16T23:10:47.122225+00:00
-
- ## Labz
- - [https://labz.lemonsqueezy.com](https://labz.lemonsqueezy.com)
- - date_published: 2024-06-22T15:51:06.571926+00:00
-
- ## Payments, Tax & Subscriptions for SaaS
- - [https://lemonsqueezy.com](https://lemonsqueezy.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## LogoPictureAI
- - [https://logopictureai.lemonsqueezy.com](https://logopictureai.lemonsqueezy.com)
- - date_published: 2024-05-04T13:03:31.331913+00:00
-
- ## Payments, Tax & Subscriptions for SaaS
- - [https://makelemonade.lemonsqueezy.com](https://makelemonade.lemonsqueezy.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## React.js SaaS Starter Kit | Makerkit
- - [https://makerkit.lemonsqueezy.com](https://makerkit.lemonsqueezy.com)
- - date_published: 2024-07-10T11:15:33.662833+00:00
-
- ## MarketCurve
- - [https://marketcurve.lemonsqueezy.com](https://marketcurve.lemonsqueezy.com)
- - date_published: 2024-08-11T20:21:25.670714+00:00
-
- ## Mockpholio
- - [https://mockpholio.lemonsqueezy.com](https://mockpholio.lemonsqueezy.com)
- - date_published: 2024-07-09T19:01:12.176870+00:00
-
- ## muted.io
- - [https://mutedio.lemonsqueezy.com](https://mutedio.lemonsqueezy.com)
- - date_published: 2024-05-06T08:56:55.029490+00:00
-
- ## MVP Stack
- - [https://mvpstack.lemonsqueezy.com](https://mvpstack.lemonsqueezy.com)
- - date_published: 2024-07-09T00:00:37.495998+00:00
-
- ## Polite Pop
- - [https://politepop.lemonsqueezy.com](https://politepop.lemonsqueezy.com)
- - date_published: 2024-07-11T10:46:56.730220+00:00
-
- ## Product Frameworks
- - [https://productframeworks.lemonsqueezy.com](https://productframeworks.lemonsqueezy.com)
- - date_published: 2024-06-23T02:16:31.120328+00:00
-
- ## PySaaS
- - [https://pysaas.lemonsqueezy.com](https://pysaas.lemonsqueezy.com)
- - date_published: 2024-05-06T09:18:41.495296+00:00
-
- ## QuickSEO
- - [https://quickseo.lemonsqueezy.com](https://quickseo.lemonsqueezy.com)
- - date_published: 2024-09-04T00:49:19.300139+00:00
-
- ## realvjy
- - [https://realvjy.lemonsqueezy.com](https://realvjy.lemonsqueezy.com)
- - date_published: 2024-09-14T09:32:37.173201+00:00
-
- ## ReplyGuy
- - [https://replyguy.lemonsqueezy.com](https://replyguy.lemonsqueezy.com)
- - date_published: 2024-06-19T02:23:13.931353+00:00
-
- ## Payments, Tax & Subscriptions for SaaS
- - [https://saasframe.lemonsqueezy.com](https://saasframe.lemonsqueezy.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Saman
- - [https://saman.lemonsqueezy.com](https://saman.lemonsqueezy.com)
- - date_published: 2024-07-12T16:39:00.475214+00:00
-
- ## Schedule-X
- - [https://schedule-x.lemonsqueezy.com](https://schedule-x.lemonsqueezy.com)
- - date_published: 2024-09-04T15:31:55.105991+00:00
-
- ## Screen Studio — Professional screen recorder for macOS
- - [https://screenstudio.lemonsqueezy.com](https://screenstudio.lemonsqueezy.com)
- - date_published: 2024-08-07T03:08:36.788111+00:00
-
- ## Spiritix
- - [https://spiritix.lemonsqueezy.com](https://spiritix.lemonsqueezy.com)
- - date_published: 2024-09-05T23:40:56.010346+00:00
-
- ## remix.supply
- - [https://stfn.lemonsqueezy.com](https://stfn.lemonsqueezy.com)
- - date_published: 2024-09-16T23:13:56.760892+00:00
-
- ## stockimagery
- - [https://stockimagery.lemonsqueezy.com](https://stockimagery.lemonsqueezy.com)
- - date_published: 2024-09-13T20:35:35.142674+00:00
-
- ## Pricing · stocknear
- - [https://stocknear.lemonsqueezy.com](https://stocknear.lemonsqueezy.com)
- - date_published: 2024-05-10T05:13:07.454147+00:00
-
- ## supastarter
- - [https://supastarter.lemonsqueezy.com](https://supastarter.lemonsqueezy.com)
- - date_published: 2024-07-10T11:06:37.547409+00:00
-
- ## Supawind
- - [https://supawind.lemonsqueezy.com](https://supawind.lemonsqueezy.com)
- - date_published: 2024-07-10T11:07:09.789559+00:00
-
- ## Tabler
- - [https://tabler.lemonsqueezy.com](https://tabler.lemonsqueezy.com)
- - date_published: 2024-08-20T05:03:27.823561+00:00
-
- ## The Audio Programmer
- - [https://theaudioprogrammer.lemonsqueezy.com](https://theaudioprogrammer.lemonsqueezy.com)
- - date_published: 2024-07-12T08:47:02.183555+00:00
-
- ## The Computer Science Book | Learn computer science the easy way for self-taught developers
- - [https://thecomputersciencebook.lemonsqueezy.com](https://thecomputersciencebook.lemonsqueezy.com)
- - date_published: 2023-02-22T00:00:00+00:00
-
- ## ThemeX Studio
- - [https://themex.lemonsqueezy.com](https://themex.lemonsqueezy.com)
- - date_published: 2024-07-24T06:39:11.939283+00:00
-
- ## Thorsten Ball's books
- - [https://thorstenball.lemonsqueezy.com](https://thorstenball.lemonsqueezy.com)
- - date_published: 2024-08-19T08:41:07.935394+00:00
-
- ## Ubidrop
- - [https://ubidrop.lemonsqueezy.com](https://ubidrop.lemonsqueezy.com)
- - date_published: 2024-08-19T23:39:42.340861+00:00
-
  ## Uneed
  - [https://uneed.lemonsqueezy.com](https://uneed.lemonsqueezy.com)
  - date_published: 2024-07-12T17:05:25.065257+00:00
@@ -4075,4 +3895,184 @@
  ## Philosophize This!
  - [https://philosophizethis.libsyn.com](https://philosophizethis.libsyn.com)
  - date_published: 2024-05-08T11:35:36.563195+00:00
+
+ ## Philosophy Bites
+ - [https://philosophybites.libsyn.com](https://philosophybites.libsyn.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Libsyn Podcast Player
+ - [https://play.libsyn.com](https://play.libsyn.com)
+ - date_published: 2024-05-04T13:47:45.070670+00:00
+
+ ## This Old Marketing - Content Marketing News with Joe Pulizzi and Robert Rose
+ - [https://pnrmarketing.libsyn.com](https://pnrmarketing.libsyn.com)
+ - date_published: 2024-10-04T10:40:37+00:00
+
+ ## podCast411 -  Learn about Podcasters and Podcasting News
+ - [https://podcast411.libsyn.com](https://podcast411.libsyn.com)
+ - date_published: 2024-07-18T18:18:38+00:00
+
+ ## PRETTYSMART
+ - [https://prettysmart.libsyn.com](https://prettysmart.libsyn.com)
+ - date_published: 2024-09-06T09:56:09+00:00
+
+ ## The Psychology Podcast with Scott Barry Kaufman
+ - [https://psychologypodcast.libsyn.com](https://psychologypodcast.libsyn.com)
+ - date_published: 2024-05-06T14:19:24.202568+00:00
+
+ ## Pure Cinema Podcast
+ - [https://purecinemapodcast.libsyn.com](https://purecinemapodcast.libsyn.com)
+ - date_published: 2024-06-23T03:24:50+00:00
+
+ ## Radical Personal Finance
+ - [http://radicalpersonalfinance.libsyn.com](http://radicalpersonalfinance.libsyn.com)
+ - date_published: 2024-06-28T22:25:54+00:00
+
+ ## The Important Thing
+ - [https://rands.libsyn.com](https://rands.libsyn.com)
+ - date_published: 2024-07-09T06:12:47+00:00
+
+ ## A Reader's History of Science Fiction
+ - [https://readershistoryofscifi.libsyn.com](https://readershistoryofscifi.libsyn.com)
+ - date_published: 2024-08-19T10:23:58+00:00
+
+ ## Research in Action
+ - [https://researchinaction.libsyn.com](https://researchinaction.libsyn.com)
+ - date_published: 2024-10-15T22:05:34+00:00
+
+ ## The Retrobits Podcast
+ - [http://retrobits.libsyn.com](http://retrobits.libsyn.com)
+ - date_published: 2024-07-08T19:37:18+00:00
+
+ ## Revolutionary Left Radio
+ - [http://revolutionaryleftradio.libsyn.com](http://revolutionaryleftradio.libsyn.com)
+ - date_published: 2024-08-16T21:42:15+00:00
+
+ ## The Official SaaStr Podcast: SaaS | Founders | Investors
+ - [https://saastr.libsyn.com](https://saastr.libsyn.com)
+ - date_published: 2024-05-06T13:04:05.588838+00:00
+
+ ## Perfect Cents Podcast
+ - [https://safe-credit-union.libsyn.com](https://safe-credit-union.libsyn.com)
+ - date_published: 2024-06-13T16:50:14+00:00
+
+ ## Says You! - A Quiz Show for Lovers of Words, Culture, and History
+ - [https://saysyou.libsyn.com](https://saysyou.libsyn.com)
+ - date_published: 2024-05-08T09:28:54.801466+00:00
+
+ ## Scrum Master Toolbox Podcast: Agile storytelling from the trenches
+ - [https://scrummastertoolbox.libsyn.com](https://scrummastertoolbox.libsyn.com)
+ - date_published: 2024-07-03T20:01:38+00:00
+
+ ## seradio's Podcast
+ - [https://seradio.libsyn.com](https://seradio.libsyn.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Shirtloads of Science
+ - [https://shirtloadsofscience.libsyn.com](https://shirtloadsofscience.libsyn.com)
+ - date_published: 2023-12-02T20:11:05.694222+00:00
+
+ ## Libsyn Five | Signup
+ - [https://signup.libsyn.com](https://signup.libsyn.com)
+ - date_published: 2024-06-16T02:40:27.112293+00:00
+
+ ## Skepticality - The Official Podcast of Skeptic Magazine
+ - [https://skepticality.libsyn.com](https://skepticality.libsyn.com)
+ - date_published: 2024-06-30T01:48:33.263076+00:00
+
+ ## Spoiler Alert Radio
+ - [https://spoileralertradio.libsyn.com](https://spoileralertradio.libsyn.com)
+ - date_published: 2024-08-12T03:56:26+00:00
+
+ ## The Tao of Sports Podcast – The Definitive Sports, Marketing, Business Industry News Podcast
+ - [http://sportstaopodcast.libsyn.com](http://sportstaopodcast.libsyn.com)
+ - date_published: 2024-09-17T17:35:18+00:00
+
+ ## ssl-static.libsyn.com (1400×1400)
+ - [https://ssl-static.libsyn.com](https://ssl-static.libsyn.com)
+ - date_published: 2024-07-18T12:37:37.132554+00:00
+
+ ## static.libsyn.com (1400×1400)
+ - [https://static.libsyn.com](https://static.libsyn.com)
+ - date_published: 2024-07-19T20:14:09.551509+00:00
+
+ ## Libsyn System Status
+ - [https://status.libsyn.com](https://status.libsyn.com)
+ - date_published: 2024-06-16T02:40:39.938953+00:00
+
+ ## Castle Super Beast
+ - [http://superbestfriendcast.libsyn.com](http://superbestfriendcast.libsyn.com)
+ - date_published: 2024-06-18T16:03:10+00:00
+
+ ## Surgery 101
+ - [http://surgery101.libsyn.com](http://surgery101.libsyn.com)
+ - date_published: 2024-09-18T22:31:52+00:00
+
+ ## Survey Form
+ - [http://survey.libsyn.com](http://survey.libsyn.com)
+ - date_published: 2024-07-09T14:05:15.850819+00:00
+
+ ## Learn Spanish - Survival Guide
+ - [http://survivalspanish.libsyn.com](http://survivalspanish.libsyn.com)
+ - date_published: 2024-09-18T03:49:20+00:00
+
+ ## Tangazo
+ - [https://tangazo.libsyn.com](https://tangazo.libsyn.com)
+ - date_published: 2024-07-09T02:36:51+00:00
+
+ ## TFG Radio - A Warhammer 40k Podcast
+ - [https://teamteam.libsyn.com](https://teamteam.libsyn.com)
+ - date_published: 2024-10-21T13:29:24+00:00
+
+ ## The Tech Talks Daily Podcast
+ - [https://techblogwriter.libsyn.com](https://techblogwriter.libsyn.com)
+ - date_published: 2024-09-26T00:31:13+00:00
+
+ ## Capital Allocators – Inside the Institutional Investment Industry
+ - [https://tedseides.libsyn.com](https://tedseides.libsyn.com)
+ - date_published: 2024-06-17T11:47:41+00:00
+
+ ## Terrible Book Club
+ - [https://terriblebooklub.libsyn.com](https://terriblebooklub.libsyn.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Jason Scott Talks His Way Out of It
+ - [https://textfiles.libsyn.com](https://textfiles.libsyn.com)
+ - date_published: 2024-05-06T16:11:52.320413+00:00
+
+ ## The American Story
+ - [https://theamericanstory.libsyn.com](https://theamericanstory.libsyn.com)
+ - date_published: 2024-06-28T15:59:20+00:00
+
+ ## The Be My Eyes Podcast
+ - [https://thebemyeyespodcast.libsyn.com](https://thebemyeyespodcast.libsyn.com)
+ - date_published: 2022-01-01T00:00:00+00:00
+
+ ## The Last Days of August
+ - [https://thebutterflyeffect.libsyn.com](https://thebutterflyeffect.libsyn.com)
+ - date_published: 2024-06-20T22:55:35+00:00
+
+ ## The College Investor Audio Show
+ - [https://thecollegeinvestor.libsyn.com](https://thecollegeinvestor.libsyn.com)
+ - date_published: 2024-09-09T19:37:22+00:00
+
+ ## The CSS Podcast
+ - [https://thecsspodcast.libsyn.com](https://thecsspodcast.libsyn.com)
+ - date_published: 2024-04-30T02:00:35.452330+00:00
+
+ ## The Game Crafter Official Podcast
+ - [http://thegamecrafter.libsyn.com](http://thegamecrafter.libsyn.com)
+ - date_published: 2024-08-14T06:35:09+00:00
+
+ ## The Hacks
+ - [https://thehacks.libsyn.com](https://thehacks.libsyn.com)
+ - date_published: 2024-06-25T22:31:09+00:00
+
+ ## The Hamilcast: A Hamilton Podcast
+ - [https://thehamilcast.libsyn.com](https://thehamilcast.libsyn.com)
+ - date_published: 2024-05-06T13:56:20.720159+00:00
+
+ ## The Knowledge Project with Shane Parrish
+ - [https://theknowledgeproject.libsyn.com](https://theknowledgeproject.libsyn.com)
+ - date_published: 2024-05-06T13:33:23.516782+00:00
 

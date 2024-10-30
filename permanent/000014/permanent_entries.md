@@ -2314,10 +2314,6 @@ Educação
  - [https://staging.alice.com.br](https://staging.alice.com.br)
  - date_published: 2024-10-26T15:29:08+00:00
 
- ## Plano de saúde empresarial da Alice
- - [https://www.alice.com.br](https://www.alice.com.br)
- - date_published: 2024-06-19T08:24:16.876304+00:00
-
  ## Home - Allog
  - [https://www.allog.com.br](https://www.allog.com.br)
  - date_published: 2024-05-15T00:00:00+00:00
@@ -3486,10 +3482,6 @@ Educação
  - [https://site.franq.com.br](https://site.franq.com.br)
  - date_published: 2024-06-17T00:00:00+00:00
 
- ## Franq | Mais autonomia financeira com Bancário Autônomo
- - [https://www.franq.com.br](https://www.franq.com.br)
- - date_published: 2024-10-28T13:54:05.408011+00:00
-
  ## FCC - Fundação Cultural de Curitiba
  - [http://fundacaoculturaldecuritiba.com.br](http://fundacaoculturaldecuritiba.com.br)
  - date_published: 2024-06-12T11:18:30.371953+00:00
@@ -3505,10 +3497,6 @@ Educação
  ## Gabriel
  - [https://mkt.gabriel.com.br](https://mkt.gabriel.com.br)
  - date_published: 2024-10-28T12:19:56+00:00
-
- ## Gabriel - Segurança em Qualquer Lugar
- - [https://www.gabriel.com.br](https://www.gabriel.com.br)
- - date_published: 2024-06-17T00:00:00+00:00
 
  ## Galera - Grupo Editorial Record
  - [http://www.galerarecord.com.br](http://www.galerarecord.com.br)
@@ -4041,4 +4029,16 @@ Educação
  ## Márcia Piovesan - Home
  - [https://marciapiovesan.com.br](https://marciapiovesan.com.br)
  - date_published: 2024-07-11T17:33:17.337170+00:00
+
+ ## Marte Científica – 70 anos líder de mercado
+ - [https://www.marte.com.br](https://www.marte.com.br)
+ - date_published: 2024-09-05T21:00:57.269039+00:00
+
+ ## Mary Kay do Brasil: Skincare, Maquiagens, Fragrâncias e Mais
+ - [https://www.marykay.com.br](https://www.marykay.com.br)
+ - date_published: 2024-06-30T09:56:12.642405+00:00
+
+ ## MASP - Exposição Virtual DEGAS
+ - [https://www.maspdegas.com.br](https://www.maspdegas.com.br)
+ - date_published: 2021-08-02T19:35:36+00:00
 

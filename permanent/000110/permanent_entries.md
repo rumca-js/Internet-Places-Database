@@ -1,155 +1,3 @@
- ## Gumbuya | Platform for Building Modern Business Applications
- - [https://gumbuya.com](https://gumbuya.com)
- - date_published: 2017-04-03T04:43:23+00:00
-
- ## gumbyframework.com
- - [https://gumbyframework.com](https://gumbyframework.com)
- - date_published: 2024-05-04T13:34:02.605428+00:00
-
- ## gumcast.com
- - [https://gumcast.com](https://gumcast.com)
- - date_published: 2024-02-05T23:19:55+00:00
-
- ## gumi Cryptos Capital
- - [https://www.gumi-cryptos.com](https://www.gumi-cryptos.com)
- - date_published: 2024-02-07T01:27:42+00:00
-
- ## API Documentation Redirect
- - [https://api.gumlet.com](https://api.gumlet.com)
- - date_published: 2024-06-20T13:46:13.161336+00:00
-
- ## Gumlet Community
- - [https://community-cdn.gumlet.com](https://community-cdn.gumlet.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Gumlet Community
- - [https://community.gumlet.com](https://community.gumlet.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Welcome 👋
- - [https://docs.gumlet.com](https://docs.gumlet.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Gumlet Feedback
- - [https://feedback.gumlet.com](https://feedback.gumlet.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Gumlet - One-Stop Video Hosting and Video Streaming Solution
- - [https://gumlet.com](https://gumlet.com)
- - date_published: 2024-05-04T08:59:07.445623+00:00
-
- ## Tech Talk with Gumlet
- - [https://podcast.gumlet.com](https://podcast.gumlet.com)
- - date_published: 2024-05-04T08:59:01.684044+00:00
-
- ## Gumlet status
- - [https://status.gumlet.com](https://status.gumlet.com)
- - date_published: 2024-05-04T08:59:05.711795+00:00
-
- ## Build Products with Exceptional Video Experience
- - [https://webapp.gumlet.com](https://webapp.gumlet.com)
- - date_published: 2024-06-19T05:35:48.933375+00:00
-
- ## Subscribe to 360Creators Shop
- - [https://360creators.gumroad.com](https://360creators.gumroad.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Aaron Parecki
- - [https://aaronpk.gumroad.com](https://aaronpk.gumroad.com)
- - date_published: 2024-06-14T16:37:25.975190+00:00
-
- ## Subscribe to Adam Johnson on Gumroad
- - [https://adamchainz.gumroad.com](https://adamchainz.gumroad.com)
- - date_published: 2024-05-07T23:29:53.254002+00:00
-
- ## Subscribe to Alexandro Martinez on Gumroad
- - [https://alexandromg.gumroad.com](https://alexandromg.gumroad.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## ALTER '49
- - [https://alter49movie.gumroad.com](https://alter49movie.gumroad.com)
- - date_published: 2024-05-04T08:59:27.470482+00:00
-
- ## Amir Motlagh
- - [https://amirmotlagh44.gumroad.com](https://amirmotlagh44.gumroad.com)
- - date_published: 2024-05-10T06:41:09.170233+00:00
-
- ## Amit Merchant
- - [https://amitmerchant.gumroad.com](https://amitmerchant.gumroad.com)
- - date_published: 2024-07-14T09:08:56.575289+00:00
-
- ## Gumroad
- - [https://app.gumroad.com](https://app.gumroad.com)
- - date_published: 2024-05-13T02:40:34.967188+00:00
-
- ## Subscribe to Arcade Labs on Gumroad
- - [https://arcadelabs.gumroad.com](https://arcadelabs.gumroad.com)
- - date_published: 2024-05-09T06:17:28.682867+00:00
-
- ## Subscribe to Scott Alexander
- - [https://astralcodexten.gumroad.com](https://astralcodexten.gumroad.com)
- - date_published: 2024-07-17T05:41:29.951895+00:00
-
- ## BCAD
- - [https://bcad.gumroad.com](https://bcad.gumroad.com)
- - date_published: 2024-07-22T11:51:49.395263+00:00
-
- ## Bartosz Jarocki
- - [https://bjarocki.gumroad.com](https://bjarocki.gumroad.com)
- - date_published: 2024-05-10T05:15:35.587740+00:00
-
- ## Subscribe to carlosedubarreto on Gumroad
- - [https://carlosedubarreto.gumroad.com](https://carlosedubarreto.gumroad.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Subscribe to Christian Selig on Gumroad
- - [https://christianselig.gumroad.com](https://christianselig.gumroad.com)
- - date_published: 2024-05-15T02:52:51.155756+00:00
-
- ## Taimur Ijlal
- - [https://cloudsecguy.gumroad.com](https://cloudsecguy.gumroad.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Craig Burgess
- - [https://craigburgess.gumroad.com](https://craigburgess.gumroad.com)
- - date_published: 2024-07-16T16:46:01.149982+00:00
-
- ## Subscribe to CREATORVC on Gumroad
- - [https://creatorvc.gumroad.com](https://creatorvc.gumroad.com)
- - date_published: 2024-07-20T13:06:00.069167+00:00
-
- ## Subscribe to CrystalSound on Gumroad
- - [https://crystalsound.gumroad.com](https://crystalsound.gumroad.com)
- - date_published: 2024-07-18T12:59:10.004113+00:00
-
- ## Subscribe to CSS Pro - Guilherme Rizzo
- - [https://csspro.gumroad.com](https://csspro.gumroad.com)
- - date_published: 2024-05-08T07:05:40.293798+00:00
-
- ## Jonny Miller
- - [https://curioushumans.gumroad.com](https://curioushumans.gumroad.com)
- - date_published: 2024-09-09T19:56:53.649966+00:00
-
- ## Subscribe to DailyAI on Gumroad
- - [https://dailyaiofficial.gumroad.com](https://dailyaiofficial.gumroad.com)
- - date_published: 2024-09-15T12:50:57.126102+00:00
-
- ## Subscribe to Dave Krunal on Gumroad
- - [https://daveoncyber.gumroad.com](https://daveoncyber.gumroad.com)
- - date_published: 2024-05-01T08:55:16.914438+00:00
-
- ## Subscribe to Dazzle UI on Gumroad
- - [https://dazzleui.gumroad.com](https://dazzleui.gumroad.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Subscribe to Delve Fonts on Gumroad
- - [https://delvefonts.gumroad.com](https://delvefonts.gumroad.com)
- - date_published: 2024-07-02T19:05:07.046120+00:00
-
- ## Subscribe to Jontelangs Software
- - [https://devcontrols.gumroad.com](https://devcontrols.gumroad.com)
- - date_published: 2024-06-20T17:18:09.188192+00:00
-
  ## Subscribe to Sébastien Dubois on Gumroad
  - [https://developassion.gumroad.com](https://developassion.gumroad.com)
  - date_published: 2024-07-10T06:51:49.870217+00:00
@@ -4036,4 +3884,157 @@
  ## HappyFox Support Center
  - [https://support.happyfox.com](https://support.happyfox.com)
  - date_published: 2024-09-18T18:11:39.804665+00:00
+
+ ## Login  - Trick Or Treat Studios Customer Care
+ - [https://trickortreatstudios.happyfox.com](https://trickortreatstudios.happyfox.com)
+ - date_published: 2024-08-08T19:19:34.549999+00:00
+
+ ## Help Desk Ticket Management Software - HappyFox
+ - [https://happyfox.com](https://happyfox.com)
+ - date_published: 2024-06-15T17:06:40.106777+00:00
+
+ ## Live Chat Customer Support Software - HappyFox
+ - [https://happyfoxchat.com](https://happyfoxchat.com)
+ - date_published: 2024-09-18T18:11:34.987936+00:00
+
+ ## BlowTorch MUD Client Homepage
+ - [http://bt.happygoatstudios.com](http://bt.happygoatstudios.com)
+ - date_published: 2024-08-11T08:55:47.796144+00:00
+
+ ## Happy Hacking Keyboard Microsite | PFU
+ - [https://happyhackingkb.com](https://happyhackingkb.com)
+ - date_published: 2023-10-11T06:03:07+00:00
+
+ ## happy happy hardcore
+ - [https://happyhappyhardcore.com](https://happyhappyhardcore.com)
+ - date_published: 2018-12-26T03:11:46+00:00
+
+ ## Icons for iPhone. Happy Icon Studio.
+ - [http://www.happyiconstudio.com](http://www.happyiconstudio.com)
+ - date_published: 2018-04-12T09:03:12+00:00
+
+ ## YuGiOh Sanrio | Happy Meal Digital
+ - [http://www.happymeal.com](http://www.happymeal.com)
+ - date_published: 2024-04-16T13:00:00+00:00
+
+ ## Home | Happy Monday Coffee
+ - [https://www.happymondaychicago.com](https://www.happymondaychicago.com)
+ - date_published: 2024-08-06T03:12:22.595153+00:00
+
+ ## Happy Monday Coffee Roasters
+ - [https://happymondaycoffee.com](https://happymondaycoffee.com)
+ - date_published: 2024-04-29T03:43:03.492042+00:00
+
+ ## Happy New Year 2024 | Images SMS Quotes Wishes Greetings Cards
+ - [https://happynewyear2017-imagesms.com](https://happynewyear2017-imagesms.com)
+ - date_published: 2024-05-15T16:26:38+00:00
+
+ ## happy potato
+ - [https://www.happypotato.com](https://www.happypotato.com)
+ - date_published: 2024-07-13T12:51:49.148816+00:00
+
+ ## Returns
+ - [https://eloquii-returns.happyreturns.com](https://eloquii-returns.happyreturns.com)
+ - date_published: 2024-09-26T18:22:01.037092+00:00
+
+ ## Returns
+ - [https://filsonunfailing.happyreturns.com](https://filsonunfailing.happyreturns.com)
+ - date_published: 2024-06-19T09:45:58.057408+00:00
+
+ ## Returns software and reverse logistics for  e-commerce merchants
+ - [https://happyreturns.com](https://happyreturns.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## HappyReturns Locations
+ - [https://locations.happyreturns.com](https://locations.happyreturns.com)
+ - date_published: 2024-10-10T19:53:36.687780+00:00
+
+ ## Returns
+ - [https://mypillow.happyreturns.com](https://mypillow.happyreturns.com)
+ - date_published: 2024-07-03T18:59:13.016406+00:00
+
+ ## Find the right Happy Returns Agency
+ - [https://partners.happyreturns.com](https://partners.happyreturns.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Returns software and reverse logistics for  e-commerce merchants
+ - [https://retailers.happyreturns.com](https://retailers.happyreturns.com)
+ - date_published: 2024-10-10T00:00:00+00:00
+
+ ## Happy Returns - Privacy Policy
+ - [https://www.privacypolicy.happyreturns.com](https://www.privacypolicy.happyreturns.com)
+ - date_published: 2024-10-10T19:54:32.669047+00:00
+
+ ## Happy Scale - Tame the Scale!
+ - [http://happyscale.com](http://happyscale.com)
+ - date_published: 2024-07-10T08:11:25.919428+00:00
+
+ ## Happy Scribe: Audio Transcription & Video Subtitles
+ - [https://happyscribe.com](https://happyscribe.com)
+ - date_published: 2024-05-11T11:33:43.818247+00:00
+
+ ## Happy Scribe Help Center
+ - [https://help.happyscribe.com](https://help.happyscribe.com)
+ - date_published: 2024-07-14T15:02:59.379687+00:00
+
+ ## Happy Scribe Status
+ - [https://status.happyscribe.com](https://status.happyscribe.com)
+ - date_published: 2024-07-14T15:03:01.266568+00:00
+
+ ## Home
+ - [https://www.happysperm.com](https://www.happysperm.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## HappySprout | Every gardener's happy place
+ - [https://happysprout.com](https://happysprout.com)
+ - date_published: 2024-06-16T01:17:24.755202+00:00
+
+ ## HappyTezos | Tezos Baker | Tezos Delegation Service
+ - [https://www.happytezos.com](https://www.happytezos.com)
+ - date_published: 2024-09-25T13:06:50.291207+00:00
+
+ ## Happy To Translate | Effectively engage with customers who speak little or no English
+ - [http://www.happytotranslate.com](http://www.happytotranslate.com)
+ - date_published: 2024-07-02T22:45:25.420221+00:00
+
+ ## Happy Up Inc | Clayton, MO & Edwardsville, IL | Toys & Games for All
+ - [https://shop.happyupinc.com](https://shop.happyupinc.com)
+ - date_published: 2024-06-17T09:59:44.732203+00:00
+
+ ## Home | Happy Up Inc.
+ - [https://www.happyupinc.com](https://www.happyupinc.com)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## HAProxy Technologies | World's Fastest Load Balancer
+ - [https://cdn.haproxy.com](https://cdn.haproxy.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## HAProxy Technologies | World's Fastest Load Balancer
+ - [https://haproxy.com](https://haproxy.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Loading...
+ - [https://my.haproxy.com](https://my.haproxy.com)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## ERROR: The request could not be satisfied
+ - [https://api.haptikapi.com](https://api.haptikapi.com)
+ - date_published: 2024-06-17T08:52:53.079183+00:00
+
+ ## Haptic Gloves G1 - Gloves for virtual reality and robotics | HaptX
+ - [https://haptx.com](https://haptx.com)
+ - date_published: 2023-11-27T16:15:21+00:00
+ - tags: ['virtual reality']
+
+ ## HaptX Customer Support
+ - [https://support.haptx.com](https://support.haptx.com)
+ - date_published: 2024-07-19T21:57:24+00:00
+
+ ## Haradev Ntity Explorer
+ - [https://blockscout.haradev.com](https://blockscout.haradev.com)
+ - date_published: 2024-09-23T23:58:10.360199+00:00
+
+ ## harald koeck
+ - [http://www.harald-koeck.com](http://www.harald-koeck.com)
+ - date_published: 2023-05-17T02:44:30+00:00
 

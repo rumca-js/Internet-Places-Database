@@ -1,303 +1,3 @@
- ## JETE Indonesia - Best For Your Gadget - Pusat Aksesoris Hp
- - [https://jete.id](https://jete.id)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Indonesia Content Marketing & Digital Strategy Agency
- - [https://katarsa.id](https://katarsa.id)
- - date_published: 2024-09-10T14:01:29.639512+00:00
-
- ## KG Media: Indonesia’s Leading Media Group and Business Solution Ecosystem
- - [https://www.kgmedia.id](https://www.kgmedia.id)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Khalid
- - [https://khal.id](https://khal.id)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Komedia - KomputerMedan Media
- - [https://komedia.id](https://komedia.id)
- - date_published: 2019-12-08T19:55:37+00:00
-
- ## Advertorial Harian Kompas
- - [https://adv.kompas.id](https://adv.kompas.id)
- - date_published: 2024-10-20T21:38:41.927902+00:00
-
- ## Penerbit Buku Kompas – Hanya KOMPAS.ID Network situs lain
- - [https://buku.kompas.id](https://buku.kompas.id)
- - date_published: 2024-10-20T21:39:52.730864+00:00
-
- ## KompasData
- - [https://data.kompas.id](https://data.kompas.id)
- - date_published: 2024-10-20T21:39:36.044105+00:00
-
- ## ePaper Kompas
- - [https://epaper.kompas.id](https://epaper.kompas.id)
- - date_published: 2024-10-20T21:39:55.970584+00:00
-
- ## Harian Kompas - Official Store - Gerai Kompas.id
- - [https://gerai.kompas.id](https://gerai.kompas.id)
- - date_published: 2024-10-20T21:38:37.226875+00:00
-
- ## Tutur Visual - Kompas.id
- - [https://interaktif.kompas.id](https://interaktif.kompas.id)
- - date_published: 2024-10-20T21:38:50.832299+00:00
-
- ## Kesempatan Emas Berkarya Bersama Kompas - Kompas Karier
- - [https://karier.kompas.id](https://karier.kompas.id)
- - date_published: 2024-10-20T21:39:43.103882+00:00
-
- ## Knowledge Base (KB) Kompas.id – Halaman Panduan dan Tanya Jawab Kompas.id
- - [https://kb.kompas.id](https://kb.kompas.id)
- - date_published: 2024-10-20T21:38:34.540222+00:00
-
- ## Beranda 2024
- - [https://klasika.kompas.id](https://klasika.kompas.id)
- - date_published: 2024-10-20T21:39:33.765342+00:00
-
- ## Kompas.id
- - [https://kompas.id](https://kompas.id)
- - date_published: 2024-10-20T21:39:51.250688+00:00
-
- ## Kompaspedia – Situs Informasi dan Data Harian Kompas
- - [https://kompaspedia.kompas.id](https://kompaspedia.kompas.id)
- - date_published: 2024-10-20T21:39:44.358371+00:00
-
- ## Kabar Universitas Indonesia
- - [https://ui.kompas.id](https://ui.kompas.id)
- - date_published: 2024-10-20T21:38:47.193090+00:00
-
- ## Game Online Gratis - Lagged.id
- - [https://lagged.id](https://lagged.id)
- - date_published: 2024-05-04T11:46:13.400388+00:00
-
- ## RP8888 Daftar Bocoran Pola Slot Freebet Paling Viral Gampang Maxwin
- - [https://latahzan.id](https://latahzan.id)
- - date_published: 2024-10-11T11:28:16.145597+00:00
-
- ## KASKUSTOTO # Daftar Bandar Togel Online 4D Dan Toto Togel Terpercaya Paling Viral Di Indonesia
- - [https://lebakunique.id](https://lebakunique.id)
- - date_published: 2024-10-10T08:09:48+00:00
-
- ## Lemdro.id
- - [https://lemdro.id](https://lemdro.id)
- - date_published: 2024-04-28T04:09:49.718993+00:00
-
- ## Lemdro.id - A place for tech enthusiasts and more!
- - [https://l.lemdro.id](https://l.lemdro.id)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Voyager for Lemmy
- - [https://m.lemdro.id](https://m.lemdro.id)
- - date_published: 2024-04-06T14:58:14+00:00
-
- ## lemdro.id
- - [https://old.lemdro.id](https://old.lemdro.id)
- - date_published: 2024-08-07T13:12:45.529057+00:00
-
- ## Lissi Docs
- - [https://docs.lissi.id](https://docs.lissi.id)
- - date_published: 2024-06-15T16:43:59.383640+00:00
-
- ## Interact with European Digital Identity Wallets according to eIDAS 2
- - [https://lissi.id](https://lissi.id)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## lissi
- - [https://try.lissi.id](https://try.lissi.id)
- - date_published: 2023-11-20T09:43:47+00:00
-
- ## Cint™ | Digital Insights Gathering Platform
- - [https://luc.id](https://luc.id)
- - date_published: 2024-05-06T17:44:48.417127+00:00
-
- ## Lucid System Status Status
- - [https://status.luc.id](https://status.luc.id)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## PANEN138 : Link Situs Toto 4D Jawa Togel & Keluaran Data HK Bandar Togel Online
- - [https://mabung-desa.id](https://mabung-desa.id)
- - date_published: 2024-09-19T04:56:42+00:00
-
- ## Mainkit.ID
- - [https://mainkit.id](https://mainkit.id)
- - date_published: 2023-12-29T03:11:59.838466+00:00
- - tags: ['personal']
-
- ## Manypage.id - Aplikasi Kelola Sosial Media No. 1 di Indonesia
- - [https://manypage.id](https://manypage.id)
- - date_published: 2024-06-28T07:10:09+00:00
-
- ## Ayo kuliah gratis di universitas dan perguruan tinggi terkemuka di Indonesia bersama OSC Medcom.id
- - [https://osc.medcom.id](https://osc.medcom.id)
- - date_published: 2024-06-19T18:38:49.647296+00:00
-
- ## Mike Simmonds
- - [https://mike.id](https://mike.id)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Misskey Indonesia
- - [https://misskey.id](https://misskey.id)
- - date_published: 2024-07-14T08:43:03.046692+00:00
-
- ## Moongate
- - [https://app.moongate.id](https://app.moongate.id)
- - date_published: 2024-06-04T06:13:54.241592+00:00
- - tags: ['web3', 'nft']
-
- ## Welcome - Moongate
- - [https://docs.moongate.id](https://docs.moongate.id)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Moongate - NFT Ticketing and Membership Platform
- - [https://moongate.id](https://moongate.id)
- - date_published: 2024-05-29T00:00:00+00:00
- - tags: ['nft']
-
- ## Movavi Personal account
- - [https://movavi.id](https://movavi.id)
- - date_published: 2024-05-17T02:54:05.744289+00:00
-
- ## Murunah Kreatif Indonesia
- - [https://www.murunah.id](https://www.murunah.id)
- - date_published: 2024-07-14T07:51:59.694830+00:00
-
- ## Resin Id
- - [https://mylo.id](https://mylo.id)
- - date_published: 2024-04-29T03:41:14.266912+00:00
-
- ## nathiasID
- - [https://nathias.id](https://nathias.id)
- - date_published: 2024-06-10T20:18:33.704286+00:00
- - tags: ['interesting page content', 'personal']
-
- ## Introduction | Next.ID Docs
- - [https://docs.next.id](https://docs.next.id)
- - date_published: 2024-01-02T08:10:02+00:00
-
- ## Next.ID
- - [https://next.id](https://next.id)
- - date_published: 2024-05-10T03:19:33+00:00
-
- ## The Only Pre-Transaction Crypto Compliance Platform | Notabene
- - [https://notabene.id](https://notabene.id)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Beranda - OpenDesa
- - [https://opendesa.id](https://opendesa.id)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Technology and Business Training
- - [https://oreilly.id](https://oreilly.id)
- - date_published: 2024-05-06T22:10:40.488702+00:00
-
- ## Pengelola Nama Domain Internet Indonesia (PANDI)
- - [https://pandi.id](https://pandi.id)
- - date_published: 2024-07-03T18:21:34.452916+00:00
-
- ## Get started with Paradym! 🚀 – Paradym
- - [https://docs.paradym.id](https://docs.paradym.id)
- - date_published: 2024-09-18T14:18:03.094582+00:00
-
- ## Paradym - The easiest way to build self-sovereign identity solutions.
- - [https://paradym.id](https://paradym.id)
- - date_published: 2024-06-15T15:39:45.397759+00:00
-
- ## Paradym status
- - [https://status.paradym.id](https://status.paradym.id)
- - date_published: 2024-09-18T14:18:05.490207+00:00
-
- ## Passage Console
- - [https://console.passage.id](https://console.passage.id)
- - date_published: 2024-08-19T03:24:39.598727+00:00
-
- ## What is Passage? | Passage
- - [https://docs.passage.id](https://docs.passage.id)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Passwordless Authentication Powered by Passkeys | Passage by 1Password
- - [https://passage.id](https://passage.id)
- - date_published: 2023-10-25T19:28:32.133386+00:00
-
- ## Passage Status Page
- - [https://status.passage.id](https://status.passage.id)
- - date_published: 2024-08-19T03:24:37.477013+00:00
-
- ## PERI Indonesia - Formwork, Scaffolding and Engineering
- - [https://www.peri.id](https://www.peri.id)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Plinko Slot Indonesia - Situs Judi Plinko Indonesia 2024
- - [https://plinkocasino.id](https://plinkocasino.id)
- - date_published: 2024-06-21T22:52:23.999808+00:00
-
- ## PLANET128 - One Place to Save for Our Future in This World
- - [https://portalpublik.id](https://portalpublik.id)
- - date_published: 2024-10-19T06:52:35.890109+00:00
-
- ## Laznas PPPA Daarul Qur'an
- - [https://pppa.id](https://pppa.id)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Proof of Humanity
- - [https://proofofhumanity.id](https://proofofhumanity.id)
- - date_published: 2024-07-04T17:05:35.691749+00:00
-
- ## Pesan Tiket Bus Online - Lebih Murah Dari harga Loket - Diskon 25%
- - [https://m.redbus.id](https://m.redbus.id)
- - date_published: 2024-10-11T14:22:30.739312+00:00
-
- ## Bus Agent Registration - redBus Partne
- - [https://partner.redbus.id](https://partner.redbus.id)
- - date_published: 2024-09-02T11:50:14+00:00
-
- ## Pesan Tiket Bus Online - Lebih Murah Dari harga Loket - Diskon 25%
- - [https://www.redbus.id](https://www.redbus.id)
- - date_published: 2024-06-16T15:50:50.325888+00:00
-
- ## BINUSMAYA Down
- - [https://binusmayadown.reinhart1010.id](https://binusmayadown.reinhart1010.id)
- - date_published: 2024-06-30T02:08:56+00:00
-
- ## Reinhart's Blog Archive
- - [https://blogarchive.reinhart1010.id](https://blogarchive.reinhart1010.id)
- - date_published: 2024-07-14T08:43:28.632047+00:00
-
- ## Reinhart. About
- - [https://firstsite.reinhart1010.id](https://firstsite.reinhart1010.id)
- - date_published: 2024-07-14T08:42:11.447068+00:00
-
- ## Main Page - HAM
- - [https://ham.reinhart1010.id](https://ham.reinhart1010.id)
- - date_published: 2024-05-09T11:23:53+00:00
-
- ## Legal information for reinhart1010.id and services - legal
- - [https://legal.reinhart1010.id](https://legal.reinhart1010.id)
- - date_published: 2024-07-08T08:00:15+00:00
-
- ## Logs of the SYSTEM
- - [https://logs.reinhart1010.id](https://logs.reinhart1010.id)
- - date_published: 2024-07-14T08:42:26.781996+00:00
-
- ## Reinhart Maps
- - [https://maps.reinhart1010.id](https://maps.reinhart1010.id)
- - date_published: 2024-07-14T08:43:12.239591+00:00
-
- ## Yet another tldr-pages web client. - Nix
- - [https://nix.reinhart1010.id](https://nix.reinhart1010.id)
- - date_published: 2024-07-14T01:03:23+00:00
-
- ## PGP Keys
- - [https://pgp.reinhart1010.id](https://pgp.reinhart1010.id)
- - date_published: 2024-07-14T08:42:29.552056+00:00
-
- ## PSEDB - Indonesian PSE/ESO Data Checker
- - [https://psedb.reinhart1010.id](https://psedb.reinhart1010.id)
- - date_published: 2024-07-10T00:35:51+00:00
-
- ## Reinhart Previano K.
- - [https://reinhart1010.id](https://reinhart1010.id)
- - date_published: 2024-05-11T10:09:23.080067+00:00
-
  ## YOURLS — Your Own URL Shortener | https://share.reinhart1010.id/
  - [https://share.reinhart1010.id](https://share.reinhart1010.id)
  - date_published: 2024-07-14T08:43:36.331704+00:00
@@ -4004,4 +3704,302 @@
  ## פורטל יהדות לאתרים דתיים ברשת :: בבא קמא
  - [http://www.babakama.co.il](http://www.babakama.co.il)
  - date_published: 2024-06-27T07:54:51.491132+00:00
+
+ ## עדי באריל - יעוץ תקשורת | יחסי ציבור | adibarill communications
+ - [http://barill.co.il](http://barill.co.il)
+ - date_published: 2021-04-19T00:00:00+00:00
+
+ ## Homepage - Basch Interactive
+ - [https://basch.co.il](https://basch.co.il)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## חברת מיתוג, עיצוב אתרים, עיצוב אפליקציה, עיצוב לוגו | בי קריאיישנס
+ - [http://www.bee-creations.co.il](http://www.bee-creations.co.il)
+ - date_published: 2024-06-28T19:26:37.951507+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://bgu4u.co.il](https://bgu4u.co.il)
+ - date_published: 2024-05-11T09:09:11.487384+00:00
+
+ ## אתר התשלומים של אוניברסיטת בן גוריון
+ - [https://bgushops.co.il](https://bgushops.co.il)
+ - date_published: 2024-07-14T03:35:16.241000+00:00
+
+ ## Bitcoil - Exchange bitcoins for ILS
+ - [https://bitcoil.co.il](https://bitcoil.co.il)
+ - date_published: 2024-07-14T21:48:55.232851+00:00
+
+ ## דלת פתוחה בר אילן
+ - [https://www.biuopendoors.co.il](https://www.biuopendoors.co.il)
+ - date_published: 2024-08-07T15:14:49.185292+00:00
+
+ ## בלוגלי | בלוג, בלוגים בלוגיה
+ - [https://muchado.blogli.co.il](https://muchado.blogli.co.il)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sabine Hossenfelder: Backreaction
+ - [http://backreaction.blogspot.co.il](http://backreaction.blogspot.co.il)
+ - date_published: 2024-06-30T06:00:00+00:00
+
+ ## Condensed concepts
+ - [http://condensedconcepts.blogspot.co.il](http://condensedconcepts.blogspot.co.il)
+ - date_published: 2024-06-30T07:22:54+00:00
+
+ ## עונג שבת (עונ"ש)
+ - [http://onegshabbat.blogspot.co.il](http://onegshabbat.blogspot.co.il)
+ - date_published: 2024-06-30T09:03:00+00:00
+
+ ## Boeing Israel
+ - [https://boeing.co.il](https://boeing.co.il)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## BOOSTAPP | מערכת לניהול סטודיו וחדרי כושר -
+ - [https://wp.boostapp.co.il](https://wp.boostapp.co.il)
+ - date_published: 2024-07-14T03:36:37.305242+00:00
+
+ ## הרחבת אחריות בוש | תיאום התקנה | אחריות מורחבת - BOSCH
+ - [https://marketing.bosch-home.co.il](https://marketing.bosch-home.co.il)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## מכשירים ביתיים איכותיים ובני קיימא | בוש
+ - [https://www.bosch-home.co.il](https://www.bosch-home.co.il)
+ - date_published: 2024-06-16T21:36:28.206341+00:00
+
+ ## עמוד הבית | Reshef - brother Israel
+ - [http://www.brother.co.il](http://www.brother.co.il)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## דף הבית | כלכליסט
+ - [https://m.calcalist.co.il](https://m.calcalist.co.il)
+ - date_published: 2024-07-01T07:22:31.082293+00:00
+
+ ## newmedia.calcalist.co.il
+ - [https://newmedia.calcalist.co.il](https://newmedia.calcalist.co.il)
+ - date_published: 2023-09-07T09:48:12+00:00
+
+ ## קורסים אונליין קצרים, מעניינים ומומלצים מבית כלכליסט - הרצאות מעניינות לעובדים
+ - [https://study.calcalist.co.il](https://study.calcalist.co.il)
+ - date_published: 2024-07-01T07:22:18.161141+00:00
+
+ ## דף הבית | כלכליסט
+ - [https://calcalist.co.il](https://calcalist.co.il)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## calcalist-conferences
+ - [https://www.calcalist-conferences.co.il](https://www.calcalist-conferences.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Capterra Israel helps you find the right software for your business
+ - [https://www.capterra.co.il](https://www.capterra.co.il)
+ - date_published: 2024-07-19T18:05:10.657741+00:00
+
+ ## כתום - קידום אתרים ושיווק אינטרנטי כמו שצריך
+ - [http://www.catom.co.il](http://www.catom.co.il)
+ - date_published: 2024-07-14T03:34:33.730192+00:00
+
+ ## Jeep® Israel | ג׳יפ ישראל
+ - [https://www.chrysler.co.il](https://www.chrysler.co.il)
+ - date_published: 2024-06-19T08:59:30.068763+00:00
+
+ ## עמוד ראשי - סינמטק תל אביב
+ - [https://www.cinema.co.il](https://www.cinema.co.il)
+ - date_published: 2024-09-01T00:00:00+00:00
+
+ ## גלו את העולם של סיטרואן מגוון רכבים חדשים למכירה | Citroen Israel
+ - [https://citroen.co.il](https://citroen.co.il)
+ - date_published: 2024-05-08T05:30:18.595413+00:00
+
+ ## Linkbynet - En construction
+ - [https://www.citroenorigins.co.il](https://www.citroenorigins.co.il)
+ - date_published: 2018-04-18T13:00:13+00:00
+
+ ## כלל ביטוח ופיננסים - דף הבית
+ - [https://www.clalbit.co.il](https://www.clalbit.co.il)
+ - date_published: 2024-07-09T07:25:11.407853+00:00
+
+ ## Coca Cola
+ - [https://cocacola.co.il](https://cocacola.co.il)
+ - date_published: 2024-07-04T09:05:47.456203+00:00
+
+ ## Web Development Company | Codenroll
+ - [https://www.codenroll.co.il](https://www.codenroll.co.il)
+ - date_published: 2024-06-24T06:01:57.391497+00:00
+
+ ## More Than Tires - Continental EN
+ - [https://www.continental-tires.co.il](https://www.continental-tires.co.il)
+ - date_published: 2024-09-18T01:39:19.001003+00:00
+
+ ## Daniel Chen - Product Design: Branding, UI & UX Design
+ - [https://danielchen.co.il](https://danielchen.co.il)
+ - date_published: 2024-06-01T05:43:25.106449+00:00
+ - tags: ['shop']
+
+ ## אתר החדשות דבר | כלכלה, עבודה, בריאות וחברה
+ - [https://www.davar1.co.il](https://www.davar1.co.il)
+ - date_published: 2024-07-16T21:33:55+00:00
+
+ ## Discount Capital | דיסקונט קפיטל
+ - [https://www.dcapital.co.il](https://www.dcapital.co.il)
+ - date_published: 2024-10-06T17:00:57.657228+00:00
+
+ ## Decathlon Israel | Sports Shoes, Gear & Equipment
+ - [https://decathlon.co.il](https://decathlon.co.il)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## DigiKey
+ - [https://digikey.co.il](https://digikey.co.il)
+ - date_published: 2024-05-01T05:03:26.772501+00:00
+
+ ## דמרי - מהחזון ועד המפתח
+ - [https://www.dimri.co.il](https://www.dimri.co.il)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## developer.discountbank.co.il/openapi/openapi
+ - [https://developer.discountbank.co.il](https://developer.discountbank.co.il)
+ - date_published: 2024-10-06T17:01:11.253103+00:00
+
+ ## Investor Relations
+ - [https://investors.discountbank.co.il](https://investors.discountbank.co.il)
+ - date_published: 2024-06-16T12:34:48.393334+00:00
+
+ ## לקחת משכנתא בקלות | בנק דיסקונט
+ - [https://mortgage.discountbank.co.il](https://mortgage.discountbank.co.il)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## בנק דיסקונט לישראל
+ - [https://www.discountbank.co.il](https://www.discountbank.co.il)
+ - date_published: 2024-05-01T06:45:08.011771+00:00
+
+ ## Discount Tech - Home
+ - [https://www.discountech.co.il](https://www.discountech.co.il)
+ - date_published: 2024-06-16T12:34:38.337856+00:00
+
+ ## דיסני ישראל | הבית הרשמי של כל מה שדיסני
+ - [https://disney.co.il](https://disney.co.il)
+ - date_published: 2024-06-16T01:50:45.132847+00:00
+
+ ## בניית אתרים עם מומחים ~ דיביין אתרים ~ בניית, עיצוב ופיתוח אתרים בחכמה
+ - [https://www.divinesites.co.il](https://www.divinesites.co.il)
+ - date_published: 2021-05-09T11:32:44+00:00
+
+ ## דוקטורס אונלי Doctors Only | חדשות רפואה | מידע לכל רופא | רשת הרופאים בישראל
+ - [https://doctorsonly.co.il](https://doctorsonly.co.il)
+ - date_published: 2024-07-16T12:21:48+00:00
+
+ ## האיגוד הישראלי לראומטולוגיה | The Israeli Society of Rheumatology
+ - [https://rheumatology.doctorsonly.co.il](https://rheumatology.doctorsonly.co.il)
+ - date_published: 2024-06-28T12:04:44+00:00
+
+ ## ראם ישראל  | RAM Israel
+ - [http://www.dodge.co.il](http://www.dodge.co.il)
+ - date_published: 2024-06-19T09:00:31.871377+00:00
+
+ ## סקירה כללית
+ - [https://downdetector.co.il](https://downdetector.co.il)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## דרושים IL- חיפוש עבודה בחינם, גיוס עובדים
+ - [https://www.drushim.co.il](https://www.drushim.co.il)
+ - date_published: 2024-09-17T17:54:54.875462+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://www.duracell.co.il](https://www.duracell.co.il)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## דייסון ישראל | האתר הרשמי | Dyson Israel
+ - [https://www.dyson.co.il](https://www.dyson.co.il)
+ - date_published: 2024-07-07T01:57:31.342083+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [http://www.epochtimes.co.il](http://www.epochtimes.co.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## אתר הקורסים של ערן שטרן
+ - [https://school.eranstern.co.il](https://school.eranstern.co.il)
+ - date_published: 2024-08-18T13:06:28.173922+00:00
+
+ ## דף הבית - ערן שטרן
+ - [https://eranstern.co.il](https://eranstern.co.il)
+ - date_published: 2023-11-17T15:06:30+00:00
+ - tags: ['personal']
+
+ ## אשכולות | שומרים על זכויות האמנים המבצעים בישראל
+ - [https://eshkolot.co.il](https://eshkolot.co.il)
+ - date_published: 2024-08-11T13:52:36.456896+00:00
+
+ ## חנות אינטרנטית עם ממשק ידידותי בעברית ופיצ'רים מתקדמים | E-shop
+ - [https://www.e-shop.co.il](https://www.e-shop.co.il)
+ - date_published: 2024-07-14T03:35:18.373421+00:00
+
+ ## כרטיסים להופעות, מופעים, בידור, תאטרון וספורט - Eventim
+ - [https://www.eventim.co.il](https://www.eventim.co.il)
+ - date_published: 2024-07-20T14:52:44.665232+00:00
+
+ ## face 2 face - פתרונות אינטרנט מתקדמים - בניית אתרים | פרסום ושיווק באינטרנט
+ - [https://f2f.co.il](https://f2f.co.il)
+ - date_published: 2024-06-21T19:04:31.608608+00:00
+
+ ## Home - FANUC Academy
+ - [https://fanuc-academy.co.il](https://fanuc-academy.co.il)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## פיתוח אתרים ומערכות ידע | Fatfish
+ - [https://www.fatfish.co.il](https://www.fatfish.co.il)
+ - date_published: 2024-07-01T08:37:44+00:00
+
+ ## FATLADY | A boutique home for websites and apps by Elad Ziv
+ - [http://www.fatlady.co.il](http://www.fatlady.co.il)
+ - date_published: 2024-06-28T19:26:39.556919+00:00
+
+ ## Point of View
+ - [http://blog.fdesign.co.il](http://blog.fdesign.co.il)
+ - date_published: 2024-03-19T21:24:46+00:00
+
+ ## Feuerstein Design – Visual Branding
+ - [https://cdn.fdesign.co.il](https://cdn.fdesign.co.il)
+ - date_published: 2024-06-20T16:51:29+00:00
+
+ ## Feuerstein Design – Visual Branding
+ - [https://www.fdesign.co.il](https://www.fdesign.co.il)
+ - date_published: 2024-05-04T14:44:39.067585+00:00
+
+ ## פיאט ישראל האתר הרשמי | Fiat Israel Official Website
+ - [https://www.fiat.co.il](https://www.fiat.co.il)
+ - date_published: 2024-06-16T09:36:02+00:00
+
+ ## פורבס ישראל - המגזין העסקי המוביל בעולם
+ - [https://forbes.co.il](https://forbes.co.il)
+ - date_published: 2024-05-08T05:59:02.261728+00:00
+
+ ## אתר הנוער של ישראל
+ - [https://s.frogi.co.il](https://s.frogi.co.il)
+ - date_published: 2024-07-09T07:16:29.056501+00:00
+
+ ## אתר הנוער של ישראל
+ - [https://frogi.co.il](https://frogi.co.il)
+ - date_published: 2024-05-09T04:02:31.227539+00:00
+
+ ## גל עיצוב, הקמה וקידום אתרי אינטרנט
+ - [http://gald.co.il](http://gald.co.il)
+ - date_published: 2024-08-11T23:59:36.467090+00:00
+
+ ## גלעד לזכרם - אוניברסיטת בר אילן
+ - [https://biu.gal-ed.co.il](https://biu.gal-ed.co.il)
+ - date_published: 2024-08-07T15:12:06.566990+00:00
+
+ ## דף הבית - Gav-Yam Negev
+ - [https://gavyam-negev.co.il](https://gavyam-negev.co.il)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## The Less Interesting Times
+ - [http://eran.geek.co.il](http://eran.geek.co.il)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Things n' Stuff
+ - [https://geek.co.il](https://geek.co.il)
+ - date_published: 2024-05-02T11:41:46.288813+00:00
+
+ ## GIANT ישראל היבואן הרשמי והבלעדי - אופניים ואביזרים לרוכב
+ - [https://giant-bike.co.il](https://giant-bike.co.il)
+ - date_published: 2024-09-18T02:00:38.495294+00:00
 

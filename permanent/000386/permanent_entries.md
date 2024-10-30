@@ -1,397 +1,3 @@
- ## Strona główna - Uniwersytet im. Adama Mickiewicza w Poznaniu
- - [https://amu.edu.pl](https://amu.edu.pl)
- - date_published: 2023-10-27T13:02:57.267906+00:00
- - tags: ['university']
-
- ## Strona główna - Biuletyn Informacji Publicznej
- - [https://bip.amu.edu.pl](https://bip.amu.edu.pl)
- - date_published: 2022-12-15T00:00:00+00:00
-
- ## Wydział - Wydział Chemii
- - [https://chemia.amu.edu.pl](https://chemia.amu.edu.pl)
- - date_published: 2024-07-11T09:24:50+00:00
-
- ## Home | EPICUR
- - [http://epicur.amu.edu.pl](http://epicur.amu.edu.pl)
- - date_published: 2024-07-19T22:57:14.717784+00:00
-
- ## PRESSto.
- - [https://pressto.amu.edu.pl](https://pressto.amu.edu.pl)
- - date_published: 1979-01-01T00:00:00+00:00
-
- ## Studio Filmowe UAM
- - [http://tv.amu.edu.pl](http://tv.amu.edu.pl)
- - date_published: 2024-07-19T22:57:09.493737+00:00
-
- ## ID-UB UAM - Uczelnia Badawcza
- - [https://uczelniabadawcza.amu.edu.pl](https://uczelniabadawcza.amu.edu.pl)
- - date_published: 2024-06-25T07:07:23+00:00
-
- ## Strona główna - Wydział Anglistyki
- - [http://wa.amu.edu.pl](http://wa.amu.edu.pl)
- - date_published: 2024-07-01T22:17:11+00:00
-
- ## WFPiK - Wydział Filologii Polskiej i Klasycznej
- - [https://wfpik.amu.edu.pl](https://wfpik.amu.edu.pl)
- - date_published: 2024-07-17T12:48:20+00:00
-
- ## Wydział - Wydział Studiów Edukacyjnych
- - [https://wse.amu.edu.pl](https://wse.amu.edu.pl)
- - date_published: 2024-07-09T09:39:07+00:00
-
- ## Wydział - Wydział Fizyki
- - [https://www.fizyka.amu.edu.pl](https://www.fizyka.amu.edu.pl)
- - date_published: 2024-07-18T12:25:02+00:00
-
- ## Narodowy program ochrony antybiotyków – Narodowy program ochrony antybiotyków
- - [http://www.antybiotyki.edu.pl](http://www.antybiotyki.edu.pl)
- - date_published: 2024-07-13T19:04:52.582245+00:00
-
- ## default virtual host
- - [http://sirius.astrouw.edu.pl](http://sirius.astrouw.edu.pl)
- - date_published: 2022-04-12T09:58:36+00:00
-
- ## Strona główna - Akademia Wiedzy Praktycznej - Studia online
- - [https://awp.edu.pl](https://awp.edu.pl)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Bioinformatyka - makrokierunek UAM i PP
- - [http://www.bioinformatyka.edu.pl](http://www.bioinformatyka.edu.pl)
- - date_published: 2024-08-11T13:56:09.777886+00:00
-
- ## Biblioteka Raczyńskich - Oficjalna strona Biblioteki Raczyńskich w Poznaniu
- - [https://bracz.edu.pl](https://bracz.edu.pl)
- - date_published: 2024-02-26T00:00:00+00:00
- - tags: ['library']
-
- ## Strona główna - Niepubliczna Placówka Doskonalenia Nauczycieli
- - [https://npdn.cedrin.edu.pl](https://npdn.cedrin.edu.pl)
- - date_published: 2024-07-09T13:23:59.165641+00:00
-
- ## Portal Rekrutacyjny
- - [https://rekrutacja-wsb-nlu.clouda.edu.pl](https://rekrutacja-wsb-nlu.clouda.edu.pl)
- - date_published: 2024-07-09T13:23:13.384624+00:00
-
- ## Redirecting...
- - [https://wsb-nlu.clouda.edu.pl](https://wsb-nlu.clouda.edu.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## IWFM - It Works For Me!
- - [https://zeus27.cyf-kr.edu.pl](https://zeus27.cyf-kr.edu.pl)
- - date_published: 2024-02-08T22:53:08.246112+00:00
-
- ## Edukacja medialna
- - [http://edukacjamedialna.edu.pl](http://edukacjamedialna.edu.pl)
- - date_published: 2024-07-13T12:14:05+00:00
-
- ## Farmacja.edu.pl - Nowoczesna Edukacja Farmaceuty
- - [https://farmacja.edu.pl](https://farmacja.edu.pl)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Strona główna | Związek Uczelni Fahrenheita
- - [https://faru.edu.pl](https://faru.edu.pl)
- - date_published: 2024-07-09T07:26:41.152913+00:00
-
- ## Fundacja Rozwoju Edukacji Cyfrowej
- - [http://www.frec.edu.pl](http://www.frec.edu.pl)
- - date_published: 2023-12-11T09:32:39+00:00
-
- ## FUT - Forum Uczelni Technicznych | Forum Uczelni Technicznych
- - [http://www.fut.edu.pl](http://www.fut.edu.pl)
- - date_published: 2024-09-02T14:18:56.057279+00:00
-
- ## Strona główna - Simons semester 2024
- - [https://simons2024.fuw.edu.pl](https://simons2024.fuw.edu.pl)
- - date_published: 2024-07-01T18:46:53.338809+00:00
-
- ## Zapytaj Fizyka
- - [https://zapytajfizyka.fuw.edu.pl](https://zapytajfizyka.fuw.edu.pl)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Giganci programowania {#} Nauka programowania dla dzieci i młodzieży ⓵
- - [https://www.giganciprogramowania.edu.pl](https://www.giganciprogramowania.edu.pl)
- - date_published: 2024-09-02T14:19:13+00:00
-
- ## Gdański Uniwersytet Medyczny: Strona główna
- - [https://gumed.edu.pl](https://gumed.edu.pl)
- - date_published: 2024-08-17T23:00:46+00:00
-
- ## Akademia Humanitas - Studia w Sosnowcu
- - [https://www.humanitas.edu.pl](https://www.humanitas.edu.pl)
- - date_published: 2024-07-14T05:28:40.785640+00:00
-
- ## Instytut Badań Edukacyjnych
- - [https://ibe.edu.pl](https://ibe.edu.pl)
- - date_published: 2024-01-08T13:28:20+00:00
-
- ## STER Summer school in redox processes
- - [http://redox.ichf.edu.pl](http://redox.ichf.edu.pl)
- - date_published: 2024-07-01T05:47:30.889049+00:00
-
- ## Search - CEJSH - Yadda
- - [http://cejsh.icm.edu.pl](http://cejsh.icm.edu.pl)
- - date_published: 2024-07-14T18:17:28.737790+00:00
-
- ## EMIS
- - [http://emis.icm.edu.pl](http://emis.icm.edu.pl)
- - date_published: 2023-08-22T13:28:00+00:00
-
- ## Polski SunSITE
- - [https://ftp.icm.edu.pl](https://ftp.icm.edu.pl)
- - date_published: 2021-10-17T13:09:29+00:00
-
- ## Wyszukiwanie - DML-PL - Yadda
- - [http://matwbn.icm.edu.pl](http://matwbn.icm.edu.pl)
- - date_published: 2024-06-30T09:26:52.955615+00:00
-
- ## Polski SunSITE
- - [https://sunsite.icm.edu.pl](https://sunsite.icm.edu.pl)
- - date_published: 2021-10-17T13:09:29+00:00
-
- ## Instytut Fizyki Jądrowej PAN
- - [https://ifj.edu.pl](https://ifj.edu.pl)
- - date_published: 2024-08-18T17:11:08.048055+00:00
-
- ## Serwis prasowy IFJ PAN
- - [https://press.ifj.edu.pl](https://press.ifj.edu.pl)
- - date_published: 2023-10-25T22:25:01.663981+00:00
-
- ## Instytut Fizyki Jądrowej PAN
- - [http://www.ifj.edu.pl](http://www.ifj.edu.pl)
- - date_published: 2024-08-18T17:11:07.042021+00:00
-
- ## Strona główna | Centrum Ochrony Dziecka
- - [http://cod.ignatianum.edu.pl](http://cod.ignatianum.edu.pl)
- - date_published: 2023-09-07T11:35:53+00:00
-
- ## Kuratorium Oświaty w Gorzowie Wlkp. – strona Lubuskiego Kuratorium Oświaty
- - [http://www.ko-gorzow.edu.pl](http://www.ko-gorzow.edu.pl)
- - date_published: 2024-08-19T21:18:06.476944+00:00
-
- ## Porozumienie Doktorantów Uczelni Technicznych
- - [http://pdut.krd.edu.pl](http://pdut.krd.edu.pl)
- - date_published: 2024-09-02T14:18:51.837238+00:00
-
- ## Główna – KRPUT
- - [https://krput.edu.pl](https://krput.edu.pl)
- - date_published: 2024-05-26T18:42:12.358580+00:00
-
- ## Łódzkie Partnerstwo Akademickie
- - [https://lpa.edu.pl](https://lpa.edu.pl)
- - date_published: 2024-06-28T16:41:37+00:00
-
- ## Banach's Algorithmic Corner | University of Warsaw
- - [https://corner.mimuw.edu.pl](https://corner.mimuw.edu.pl)
- - date_published: 2024-05-07T16:15:47.406592+00:00
-
- ## MIMUW
- - [https://duch.mimuw.edu.pl](https://duch.mimuw.edu.pl)
- - date_published: 2022-10-17T10:45:47+00:00
-
- ## IGAFIT - Igafit
- - [http://igafit.mimuw.edu.pl](http://igafit.mimuw.edu.pl)
- - date_published: 2024-06-30T11:20:10.603014+00:00
-
- ## MIMUW portal
- - [https://www.mimuw.edu.pl](https://www.mimuw.edu.pl)
- - date_published: 2024-07-11T12:15:12.953215+00:00
-
- ## Międzyuniwersyteckie Centrum Informatyzacji
- - [http://www.muci.edu.pl](http://www.muci.edu.pl)
- - date_published: 2024-10-18T20:34:49.288873+00:00
-
- ## Strona główna | I LO im. Seweryna Goszczyńskiego w Nowym Targu
- - [https://goszczynski.nowotarski.edu.pl](https://goszczynski.nowotarski.edu.pl)
- - date_published: 2024-07-09T13:30:25.341083+00:00
-
- ## Strona główna | Zespół Szkół nr 1 w Nowym Targu
- - [https://zs1.nowotarski.edu.pl](https://zs1.nowotarski.edu.pl)
- - date_published: 2024-07-09T13:30:32.144950+00:00
-
- ## Zespół Szkół Ekonomicznych
- - [https://zse.nowotarski.edu.pl](https://zse.nowotarski.edu.pl)
- - date_published: 2024-07-09T13:30:27.419499+00:00
-
- ## Strona główna - Zespół Szkół im. Bohaterów Westerplatte w Jabłonce
- - [https://zsj.nowotarski.edu.pl](https://zsj.nowotarski.edu.pl)
- - date_published: 2024-07-09T13:30:33.584296+00:00
-
- ## Zespół Szkół Technicznych i Placówek im. Stanisława Staszica
- - [https://zst.nowotarski.edu.pl](https://zst.nowotarski.edu.pl)
- - date_published: 2024-07-09T13:30:35.566447+00:00
-
- ## PRYWATNE SZKOŁY ŚREDNIE – IM. PROF. JANA VENULETA
- - [https://nowytarg.edu.pl](https://nowytarg.edu.pl)
- - date_published: 2024-07-09T13:30:22.397224+00:00
-
- ## Olimpiada Informatyczna Juniorów
- - [https://oij.edu.pl](https://oij.edu.pl)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Politechnika Białostocka
- - [http://pb.edu.pl](http://pb.edu.pl)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Wydział Mechaniczny Politechniki Białostockiej
- - [https://wm.pb.edu.pl](https://wm.pb.edu.pl)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Strona główna - Polsko-Japońska Akademia Technik Komputerowych
- - [https://pja.edu.pl](https://pja.edu.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Politechnika Krakowska im. Tadeusza Kościuszki
- - [https://www.pk.edu.pl](https://www.pk.edu.pl)
- - date_published: 2024-08-18T03:02:57+00:00
-
- ## Polska Komisja Akredytacyjna – PKA
- - [http://www.pka.edu.pl](http://www.pka.edu.pl)
- - date_published: 2024-10-18T20:32:11.628208+00:00
-
- ## ANS w Nowym Targu - ANS w Nowym Targu
- - [https://ppuz.edu.pl](https://ppuz.edu.pl)
- - date_published: 2024-07-09T13:30:24.280280+00:00
-
- ## Przekierowuję...
- - [http://knml.prz.edu.pl](http://knml.prz.edu.pl)
- - date_published: 2023-08-16T14:58:43+00:00
-
- ## PTS
- - [http://www.pts.edu.pl](http://www.pts.edu.pl)
- - date_published: 2024-06-07T11:13:45+00:00
-
- ## PUE – Polska Unia Edukacyjna
- - [https://pue.edu.pl](https://pue.edu.pl)
- - date_published: 2024-07-09T13:23:50.563675+00:00
-
- ## Uniwersytet Przyrodniczy w Poznaniu
- - [https://puls.edu.pl](https://puls.edu.pl)
- - date_published: 2024-06-26T21:36:27.651079+00:00
-
- ## E-recepta, realizacja e-recept, przykłady recept - recepty.edu.pl
- - [https://rx.edu.pl](https://rx.edu.pl)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Szkolne Kasy Oszczędności
- - [http://www.sko.edu.pl](http://www.sko.edu.pl)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Star - szkolenia wspierające Twój rozwój
- - [https://star.edu.pl](https://star.edu.pl)
- - date_published: 2024-07-15T04:09:34.590232+00:00
-
- ## Main page - SZKOpuł
- - [https://szkopul.edu.pl](https://szkopul.edu.pl)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Zespół Szkół Drogowo - Geodezyjnych i Licealnych im. Augusta Witkowskiego w Jarosławiu - Zespół Szkół Drogowo - Geodezyjnych i Licealnych im. Augusta Witkowskiego w Jarosławiu
- - [https://www.tdgjar.edu.pl](https://www.tdgjar.edu.pl)
- - date_published: 2024-07-14T18:17:35.356078+00:00
-
- ## Strona główna - Grupa EDUKACJA 3.0
- - [http://trzyzero.edu.pl](http://trzyzero.edu.pl)
- - date_published: 2024-09-02T14:19:09.287237+00:00
-
- ## Biuro osób z niepełnosprawnością |
- - [http://bariery.ug.edu.pl](http://bariery.ug.edu.pl)
- - date_published: 2024-07-09T07:26:48.567387+00:00
-
- ## Strona główna | Biblioteka Uniwersytetu Gdańskiego
- - [https://bg.ug.edu.pl](https://bg.ug.edu.pl)
- - date_published: 2024-07-09T07:26:33.092832+00:00
-
- ## Biuletyn Informacji Publicznej | Uniwersytet Gdański - IN MARI VIA TUA
- - [https://bip.ug.edu.pl](https://bip.ug.edu.pl)
- - date_published: 2024-07-08T08:29:30+00:00
-
- ## Biuro Karier UG
- - [https://biuro-karier.ug.edu.pl](https://biuro-karier.ug.edu.pl)
- - date_published: 2024-06-21T06:53:35+00:00
-
- ## Strona główna | Centrum Języków Obcych Uniwersytetu Gdańskiego
- - [https://cjo.ug.edu.pl](https://cjo.ug.edu.pl)
- - date_published: 2024-07-09T07:26:37.504973+00:00
-
- ## Strona główna | Centrum Zrównoważonego Rozwoju Uniwersytetu Gdańskiego (CZRUG)
- - [https://czrug.ug.edu.pl](https://czrug.ug.edu.pl)
- - date_published: 2024-07-09T07:26:46.153084+00:00
-
- ## Home | University of Gdańsk
- - [https://en.ug.edu.pl](https://en.ug.edu.pl)
- - date_published: 2024-07-08T11:08:22+00:00
-
- ## Gazeta Uniwersytecka | Społeczności Akademickiej Uniwersytetu Gdańskiego
- - [https://gazeta.ug.edu.pl](https://gazeta.ug.edu.pl)
- - date_published: 2024-07-09T07:26:43.801002+00:00
-
- ## Morska Energetyka Wiatrowa :: Offshore | Uniwersytet Gdański
- - [https://offshore.ug.edu.pl](https://offshore.ug.edu.pl)
- - date_published: 2024-07-09T07:26:36.024872+00:00
-
- ## Uniwersytet Gdański - University of Gdańsk | Uniwersytet Gdański - IN MARI VIA TUA
- - [https://old.ug.edu.pl](https://old.ug.edu.pl)
- - date_published: 2024-07-08T11:06:18+00:00
-
- ## Uniwersytet Gdański - University of Gdańsk | Uniwersytet Gdański - IN MARI VIA TUA
- - [http://player.mors.ug.edu.pl](http://player.mors.ug.edu.pl)
- - date_published: 2024-07-04T04:39:50+00:00
-
- ## Szkoły doktorskie w Polsce | Szkoły Doktorskie - Uniwersytet Gdański
- - [https://sd.ug.edu.pl](https://sd.ug.edu.pl)
- - date_published: 2024-07-09T07:26:38.357697+00:00
-
- ## SEA -EU |
- - [https://sea-eu.ug.edu.pl](https://sea-eu.ug.edu.pl)
- - date_published: 2024-07-09T07:26:40.381837+00:00
-
- ## Centrum Wychowania Fizycznego i Sportu | Uniwersytet Gdański - IN MARI VIA TUA
- - [https://sport.ug.edu.pl](https://sport.ug.edu.pl)
- - date_published: 2024-07-08T05:08:30+00:00
-
- ## | Uniwersytet Gdański
- - [https://ug.edu.pl](https://ug.edu.pl)
- - date_published: 2024-05-09T04:03:25.696712+00:00
-
- ## Wydawnictwo Uniwersytetu Gdańskiego - Księgarnia Uniwersytecka online Klub czytelnika
- - [https://wydawnictwo.ug.edu.pl](https://wydawnictwo.ug.edu.pl)
- - date_published: 2024-07-09T07:26:53.908326+00:00
-
- ## Biblioteka Jagiellońska - Uniwersytet Jagielloński
- - [http://bj.uj.edu.pl](http://bj.uj.edu.pl)
- - date_published: 2024-07-15T06:35:19.833337+00:00
-
- ## Jagiellonian University - Uniwersytet Jagielloński
- - [https://en.uj.edu.pl](https://en.uj.edu.pl)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## HRS4R - Uniwersytet Jagielloński
- - [https://hrs4r.uj.edu.pl](https://hrs4r.uj.edu.pl)
- - date_published: 2024-07-15T06:35:24.389671+00:00
-
- ## Strona Główna - Program Strategiczny Inicjatywa Doskonałości w Uniwersytecie Jagiellońskim - Uniwersytet Jagielloński
- - [https://id.uj.edu.pl](https://id.uj.edu.pl)
- - date_published: 2024-07-15T06:35:08.331839+00:00
-
- ## International Visitors' Office - International Visitors' Office - Uniwersytet Jagielloński
- - [https://international.iro.uj.edu.pl](https://international.iro.uj.edu.pl)
- - date_published: 2024-07-15T06:35:17.524423+00:00
-
- ## Obserwatorium Astronomiczne im. Mikołaja Kopernika - Wydział Fizyki, Astronomii i Informatyki Stosowanej
- - [http://oa.fais.uj.edu.pl](http://oa.fais.uj.edu.pl)
- - date_published: 2024-07-15T06:35:13.130015+00:00
-
- ## Portal Uniwersytecki - Uniwersytet Jagielloński
- - [https://portal.uj.edu.pl](https://portal.uj.edu.pl)
- - date_published: 2024-07-15T06:35:23.247079+00:00
-
- ## Solaris - Narodowe Centrum Promieniowania Synchrotronowego SOLARIS - Uniwersytet Jagielloński
- - [http://synchrotron.uj.edu.pl](http://synchrotron.uj.edu.pl)
- - date_published: 2024-07-15T06:35:22.011090+00:00
-
- ## Instytut Fizyki Teoretycznej - Wydział Fizyki, Astronomii i Informatyki Stosowanej
- - [http://th-www.if.uj.edu.pl](http://th-www.if.uj.edu.pl)
- - date_published: 2024-06-30T09:14:15.704257+00:00
-
  ## Strona główna - Uniwersytet Jagielloński
  - [https://www.uj.edu.pl](https://www.uj.edu.pl)
  - date_published: 2024-07-15T06:35:05.566441+00:00
@@ -4080,4 +3686,407 @@ Polska 1939
  ## Puchar Cartoona | Gry futbolowe | Cartoon Network
  - [https://pucharcartoona.cartoonnetwork.pl](https://pucharcartoona.cartoonnetwork.pl)
  - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Cartoon Network | Darmowe Gry Online, Bajki, Konkursy i Zabawy Dla Dzieci
+ - [https://cartoonnetwork.pl](https://cartoonnetwork.pl)
+ - date_published: 2024-06-05T00:00:00+00:00
+ - tags: ['cartoons', 'tv shows']
+
+ ## CASHFLOW | Ta gra może zmienić Twoje życie!
+ - [https://cashflow101.pl](https://cashflow101.pl)
+ - date_published: 2024-05-12T06:53:14.483700+00:00
+
+ ## Homepage
+ - [https://casinoble.pl](https://casinoble.pl)
+ - date_published: 2024-09-19T20:32:43.451553+00:00
+
+ ## CastoPro - program lojalnościowy dla profesjonalistów | Castorama
+ - [https://castopro.castorama.pl](https://castopro.castorama.pl)
+ - date_published: 2024-05-29T10:37:59.988887+00:00
+
+ ## Fundacja Castorama » Fundacja Castorama
+ - [https://fundacja.castorama.pl](https://fundacja.castorama.pl)
+ - date_published: 2024-05-29T10:38:01.936080+00:00
+
+ ## Kariera w Castorama
+ - [https://kariera.castorama.pl](https://kariera.castorama.pl)
+ - date_published: 2024-05-29T10:37:59.017431+00:00
+
+ ## Kuchenne inspiracje
+ - [https://kuchenneinspiracje.castorama.pl](https://kuchenneinspiracje.castorama.pl)
+ - date_published: 2024-05-29T10:38:25.335825+00:00
+
+ ## Castorama
+ - [https://planeronline.castorama.pl](https://planeronline.castorama.pl)
+ - date_published: 2024-05-29T10:38:21.312180+00:00
+
+ ## Wiadomości Castorama Polska
+ - [https://wiadomosci.castorama.pl](https://wiadomosci.castorama.pl)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Sklepy Castorama to sieć marketów z materiałami budowlanymi, remontowymi, dekoracyjnymi i ogrodniczymi.
+ - [https://castorama.pl](https://castorama.pl)
+ - date_published: 2023-10-26T08:34:33.606484+00:00
+ - tags: ['shop']
+
+ ## Szafy Atomia
+ - [https://szafyatomia.castorama.pl](https://szafyatomia.castorama.pl)
+ - date_published: 2024-05-29T10:38:20.103553+00:00
+
+ ## CBA
+ - [http://impuls-net.cba.pl](http://impuls-net.cba.pl)
+ - date_published: 2024-08-06T22:27:12.930839+00:00
+
+ ## CBA
+ - [http://viscobar.cba.pl](http://viscobar.cba.pl)
+ - date_published: 2024-08-06T22:38:20.702469+00:00
+
+ ## CBA
+ - [http://visionlighthouse.cba.pl](http://visionlighthouse.cba.pl)
+ - date_published: 2024-06-28T19:50:24.355306+00:00
+
+ ## CBA
+ - [http://www.dbaw.cba.pl](http://www.dbaw.cba.pl)
+ - date_published: 2024-09-03T23:24:53.976503+00:00
+
+ ## CBA
+ - [http://www.nudaveritas.cba.pl](http://www.nudaveritas.cba.pl)
+ - date_published: 2024-08-06T22:27:23.187073+00:00
+
+ ## Centrum Badań Kosmicznych PAN - CBK PAN
+ - [https://cbkpan.pl](https://cbkpan.pl)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Sklep internetowy CCM.PL
+ - [https://ccm.pl](https://ccm.pl)
+ - date_published: 2024-06-17T16:44:22.182466+00:00
+
+ ## New Europe Communications - neweuropecommunications.org
+ - [http://nec.ccm.pl](http://nec.ccm.pl)
+ - date_published: 2024-10-19T21:58:56.172507+00:00
+
+ ## www.ccontrols.pl - Computer Controls Sp. z o.o.  - Computer Controls Group
+ - [https://ccontrols.pl](https://ccontrols.pl)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Benefity dla pracowników 2018/2019 - CDA Premium
+ - [https://dlafirm.cda.pl](https://dlafirm.cda.pl)
+ - date_published: 2019-02-01T16:28:41+00:00
+
+ ## CDA - Społeczność cda.pl
+ - [https://ebd.cda.pl](https://ebd.cda.pl)
+ - date_published: 2024-08-19T23:40:10.378907+00:00
+
+ ## Cda.pl – informacje dla mediów
+ - [https://media.cda.pl](https://media.cda.pl)
+ - date_published: 2024-08-19T23:40:22.817777+00:00
+
+ ## Rejestracja w CDA Premium
+ - [https://premium.cda.pl](https://premium.cda.pl)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Karta podarunkowa CDA Premium
+ - [https://prezent.cda.pl](https://prezent.cda.pl)
+ - date_published: 2024-08-19T23:40:20.784888+00:00
+
+ ## Reklama CDA - twoje wideo w internecie
+ - [https://reklama.cda.pl](https://reklama.cda.pl)
+ - date_published: 2024-08-19T23:40:21.740579+00:00
+
+ ## CDA.pl
+ - [https://smarttv.cda.pl](https://smarttv.cda.pl)
+ - date_published: 2024-08-12T17:52:16+00:00
+
+ ## CDA Spółka Akcyjna - Strona korporacyjna
+ - [https://spolka.cda.pl](https://spolka.cda.pl)
+ - date_published: 2024-08-19T23:40:19.118112+00:00
+
+ ## CDA - Społeczność cda.pl
+ - [https://cda.pl](https://cda.pl)
+ - date_published: 2023-10-25T11:30:26.520324+00:00
+ - tags: ['file sharing', 'video streaming', 'piracy']
+
+ ## CD-Action – Strona główna
+ - [https://cdaction.pl](https://cdaction.pl)
+ - date_published: 2023-10-25T09:29:32.142014+00:00
+ - tags: ['video game news']
+
+ ## forum.cdaction.pl
+ - [https://forum.cdaction.pl](https://forum.cdaction.pl)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## SKLEP.CDACTION.PL - OFICJALNY SKLEP CD-ACTION i PC FORMAT
+ - [https://sklep.cdaction.pl](https://sklep.cdaction.pl)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## sitebees.com by netPR.pl | sitebees.com
+ - [https://cdn-netpr.pl](https://cdn-netpr.pl)
+ - date_published: 2024-07-09T12:51:21.121950+00:00
+
+ ## AfterMarket.pl
+ - [http://cdp.pl](http://cdp.pl)
+ - date_published: 2023-02-17T10:11:20+00:00
+
+ ## CDRinfo.pl - Serwis poświęcony archiwizacji danych. Nagrywarki, dyski twarde, NAS - CDRinfo.pl
+ - [https://cdrinfo.pl](https://cdrinfo.pl)
+ - date_published: 2024-05-29T10:48:32.485701+00:00
+ - tags: ['cd', 'dvd']
+
+ ## Dyski CDRinfo.pl - Dyski Twarde/SSD - CDRinfo.pl
+ - [https://dyski.cdrinfo.pl](https://dyski.cdrinfo.pl)
+ - date_published: 2024-09-03T19:39:03.811687+00:00
+
+ ## Forum CDRinfo.pl
+ - [https://forum.cdrinfo.pl](https://forum.cdrinfo.pl)
+ - date_published: 2024-05-29T10:48:08.750647+00:00
+
+ ## Konsole CDRinfo.pl, najświeższe informacje, PSX, PS2, PS3, PS4, PSP, XBox, X360, GC, Wii. Poradniki, programy, artykuły - Konsole CDRinfo.pl
+ - [https://konsole.cdrinfo.pl](https://konsole.cdrinfo.pl)
+ - date_published: 2024-05-29T10:48:30.127862+00:00
+
+ ## Cenega.pl
+ - [https://cenega.pl](https://cenega.pl)
+ - date_published: 2024-07-17T13:52:23.910164+00:00
+ - tags: ['video game publisher']
+
+ ## Zacznij sprzedawać więcej z ceneo.pl - Biznes Ceneo
+ - [https://biznes.ceneo.pl](https://biznes.ceneo.pl)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Ekspert Ceneo - serwis o grach komputerowych, sprzęcie i cyfrowej rozrywce - Ekspert Ceneo
+ - [https://ekspert.ceneo.pl](https://ekspert.ceneo.pl)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Info Ceneo - wszystko dla kupujących! - Ceneo Info
+ - [https://info.ceneo.pl](https://info.ceneo.pl)
+ - date_published: 2024-07-20T03:14:29.935756+00:00
+
+ ## Kariera w Ceneo.pl - Ceneo Kariera
+ - [https://kariera.ceneo.pl](https://kariera.ceneo.pl)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Ceneo Kup Teraz
+ - [https://koszyk.ceneo.pl](https://koszyk.ceneo.pl)
+ - date_published: 2024-07-15T10:03:28+00:00
+
+ ## Magazyn Ceneo – newsy, wpisy, wiadomości, artykuły, blogi i poradniki - Magazyn Ceneo.pl
+ - [https://magazyn.ceneo.pl](https://magazyn.ceneo.pl)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Program Partnerski - zarabiaj na polecaniu - Program Partnerski Ceneo.pl
+ - [https://pp.ceneo.pl](https://pp.ceneo.pl)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Ceneo - porównanie cen, sklepy, perfumy, agd, rtv, komputery
+ - [https://ceneo.pl](https://ceneo.pl)
+ - date_published: 2023-10-24T20:20:37.877202+00:00
+ - tags: ['ranking']
+
+ ## Cenowarka Porównanie cen Polska
+ - [https://cenowarka.pl](https://cenowarka.pl)
+ - date_published: 2024-07-09T07:53:31.174588+00:00
+
+ ## Logowanie do Santander internet
+ - [https://www.centrum24.pl](https://www.centrum24.pl)
+ - date_published: 2024-06-16T17:10:27.058752+00:00
+
+ ## Centrum Komiksu i Narracji Interaktywnej: Centrum Komiksu i Narracji Interaktywnej
+ - [https://centrumkomiksuec1.pl](https://centrumkomiksuec1.pl)
+ - date_published: 2024-06-28T19:21:26.344002+00:00
+
+ ## Centrum handlowe Korona we Wrocławiu
+ - [https://www.centrum-korona.pl](https://www.centrum-korona.pl)
+ - date_published: 2024-08-11T04:27:48.323660+00:00
+
+ ## Centrum Nauki i Techniki: Centrum Nauki i Techniki
+ - [https://centrumnaukiec1.pl](https://centrumnaukiec1.pl)
+ - date_published: 2024-06-28T19:21:28.329168+00:00
+
+ ## Terapia Par Warszawa - Centrum Par
+ - [http://centrumpar.pl](http://centrumpar.pl)
+ - date_published: 2024-06-21T21:25:00+00:00
+
+ ## Akademia CentrumXP
+ - [https://akademia.centrumxp.pl](https://akademia.centrumxp.pl)
+ - date_published: 2024-10-12T13:15:22.946702+00:00
+
+ ## CentrumXP – Wiadomości ze świata Microsoft w jednym miejscu
+ - [https://www.centrumxp.pl](https://www.centrumxp.pl)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.ceresit.pl](https://www.ceresit.pl)
+ - date_published: 2024-10-18T20:18:46.243842+00:00
+
+ ## CERI International - LUDZIE NA BANK
+ - [https://ceri.pl](https://ceri.pl)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## CERT Polska
+ - [https://cert.pl](https://cert.pl)
+ - date_published: 2023-10-25T22:26:24.449840+00:00
+ - tags: ['cybersecurity', 'security']
+
+ ## Zgłoś incydent | CERT.PL>_
+ - [https://incydent.cert.pl](https://incydent.cert.pl)
+ - date_published: 2024-05-09T06:21:47.481191+00:00
+
+ ## CERT.PL>_ Malware Database
+ - [https://mwdb.cert.pl](https://mwdb.cert.pl)
+ - date_published: 2024-05-09T06:21:43.299245+00:00
+
+ ## PZPO – Certyfikat Oponiarski
+ - [https://certyfikatoponiarski.pl](https://certyfikatoponiarski.pl)
+ - date_published: 2024-09-03T19:33:45.457339+00:00
+
+ ## CEZ Polska
+ - [https://www.cezpolska.pl](https://www.cezpolska.pl)
+ - date_published: 2024-07-09T16:31:08.002770+00:00
+
+ ## Chal | Chełm Amiga Legion - Amiparty
+ - [https://chal.pl](https://chal.pl)
+ - date_published: 2024-05-08T17:09:26.657225+00:00
+ - tags: ['convention', 'amiga', 'community event']
+
+ ## Chillizet.pl to serwis powiązany z radiem Chillizet
+ - [https://www.chillizet.pl](https://www.chillizet.pl)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## CHIP - Technologie mamy we krwi!
+ - [https://konto.chip.pl](https://konto.chip.pl)
+ - date_published: 2021-05-05T17:36:25+00:00
+
+ ## Strefa OPPO - CHIP
+ - [https://oppo.chip.pl](https://oppo.chip.pl)
+ - date_published: 2023-07-12T05:31:18+00:00
+
+ ## Strefa Plus - CHIP
+ - [https://plus.chip.pl](https://plus.chip.pl)
+ - date_published: 2023-08-08T10:28:53+00:00
+
+ ## CHIP - Technologie mamy we krwi!
+ - [https://chip.pl](https://chip.pl)
+ - date_published: 2023-10-25T09:37:50.574235+00:00
+ - tags: ['tech news']
+
+ ## Przyjazny dysk internetowy - Chomikuj.pl
+ - [https://chomikuj.pl](https://chomikuj.pl)
+ - date_published: 2023-10-25T11:30:27.215016+00:00
+ - tags: ['cloud drive', 'piracy', 'file sharing']
+
+ ## Chór Polskiego Radia – Lusławice – The Polish Radio Choir – Lusławice/ Witamy serdecznie!
+ - [https://chorpolskiegoradia.pl](https://chorpolskiegoradia.pl)
+ - date_published: 2024-07-17T08:36:07.250088+00:00
+
+ ## Chroń Bałtyk
+ - [https://chronbaltyk.pl](https://chronbaltyk.pl)
+ - date_published: 2019-11-12T21:48:09+00:00
+
+ ## Strona główna | Chroń PESEL
+ - [https://chronpesel.pl](https://chronpesel.pl)
+ - date_published: 2024-05-11T07:36:54.905061+00:00
+
+ ## Serwis ChrońPESEL.pl
+ - [https://konto.chronpesel.pl](https://konto.chronpesel.pl)
+ - date_published: 2024-07-13T13:53:20.402327+00:00
+
+ ## Chrzanowski24.pl: Chrzanów, Trzebinia, Libiąż, Portal Społecznościowo Informacyjny Powiatu Chrzanowskiego - Portal Chrzanowski24.pl
+ - [http://chrzanowski24.pl](http://chrzanowski24.pl)
+ - date_published: 2024-07-09T13:22:16+00:00
+
+ ## Chrześcijanin.pl - Chrześcijański Serwis Informacyjny
+ - [https://chrzescijanin.pl](https://chrzescijanin.pl)
+ - date_published: 2023-10-25T22:26:26.748789+00:00
+
+ ## PIERWSZY TRANSPORT DO KL AUSCHWITZ
+ - [http://www.chsro.pl](http://www.chsro.pl)
+ - date_published: 2024-08-19T21:15:42.164571+00:00
+
+ ## Cichy Fragles
+ - [https://cichyfragles.pl](https://cichyfragles.pl)
+ - date_published: 2024-07-03T06:30:19.051788+00:00
+
+ ## Ciekawewyjazdy
+ - [http://www.ciekawewyjazdy.pl](http://www.ciekawewyjazdy.pl)
+ - date_published: 2024-09-02T14:21:52.601291+00:00
+
+ ## Strona główna
+ - [https://ciekawostkihistoryczne.pl](https://ciekawostkihistoryczne.pl)
+ - date_published: 2024-07-20T02:43:02+00:00
+
+ ## Kanał History - History Poland
+ - [http://ci-polsat.pl](http://ci-polsat.pl)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## ENERGETYKA, RYNEK ENERGII - CIRE.pl - energetyka zaczyna dzień od CIRE
+ - [https://www.cire.pl](https://www.cire.pl)
+ - date_published: 2024-07-14T05:27:57.386758+00:00
+
+ ## Nałęczów Zdrój Sp. z o.o. Zakład butelkujący wodę Cisowianka
+ - [https://www.cisowianka.pl](https://www.cisowianka.pl)
+ - date_published: 2024-07-04T12:51:41+00:00
+
+ ## Karty kredytowe | Pożyczki | Kredyty | Konta |  Citi Handlowy – Bank Handlowy w Warszawie S.A.
+ - [https://www.citibank.pl](https://www.citibank.pl)
+ - date_published: 2024-06-10T09:58:34+00:00
+
+ ## Karty kredytowe | Pożyczki | Kredyty | Konta |  Citi Handlowy – Bank Handlowy w Warszawie S.A.
+ - [https://citibankonline.pl](https://citibankonline.pl)
+ - date_published: 2024-09-30T09:21:24+00:00
+
+ ## Zakup samochodów dla biznesu i dostawczych | Citroën
+ - [https://business.citroen.pl](https://business.citroen.pl)
+ - date_published: 2024-07-03T22:53:47+00:00
+
+ ## Zakup samochodu przez Citroëna
+ - [https://odkup.citroen.pl](https://odkup.citroen.pl)
+ - date_published: 2024-07-04T07:37:40.746753+00:00
+
+ ## Citroën Oferta na samochody dostawcze
+ - [https://ofertydostawcze.citroen.pl](https://ofertydostawcze.citroen.pl)
+ - date_published: 2024-07-04T07:38:02.927142+00:00
+
+ ## Strona Główna - Sklep Citroën
+ - [https://sklep.citroen.pl](https://sklep.citroen.pl)
+ - date_published: 2024-07-04T07:38:03.982227+00:00
+
+ ## Plan obsługowy Producenta - Citroen
+ - [https://wizytyserwisowe.citroen.pl](https://wizytyserwisowe.citroen.pl)
+ - date_published: 2024-07-04T07:38:02.074761+00:00
+
+ ## Oficjalna strona Citroëna | Samochody nowe i używane | Citroën PL
+ - [https://citroen.pl](https://citroen.pl)
+ - date_published: 2024-05-08T05:30:32.566611+00:00
+
+ ## Citroën Origins
+ - [https://www.citroenorigins.pl](https://www.citroenorigins.pl)
+ - date_published: 2024-07-04T06:20:38+00:00
+
+ ## City Data | Blog - Baza wiedzy, artykuły i informacje dotyczące wdrożenia systemu otwartych danych miejskich
+ - [https://blog.citydata.pl](https://blog.citydata.pl)
+ - date_published: 2019-04-16T00:00:00+00:00
+
+ ## City-Marketing | Outdoor przyjazny miastu
+ - [https://city-marketing.pl](https://city-marketing.pl)
+ - date_published: 2024-08-18T14:41:10.776756+00:00
+
+ ## Chcemy, żeby zwierzęta były traktowane z szacunkiem
+ - [https://www.ciwf.pl](https://www.ciwf.pl)
+ - date_published: 2024-10-23T05:42:26.362202+00:00
+
+ ## IIS Windows Server
+ - [https://bilety.ckchojnice.pl](https://bilety.ckchojnice.pl)
+ - date_published: 2018-10-11T09:20:21+00:00
+
+ ## cleangang.pl - sklep internetowy z nowoczesnymi eko produktami do sprzątania, prania, czyszczenia, zmywania, z którymi zadbasz o swój dom
+ - [https://cleangang.pl](https://cleangang.pl)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Clearcode | Budujemy technologie reklamowe i marketingowe
+ - [https://clearcode.pl](https://clearcode.pl)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Gry online - Click.pl - graj w najlepsze gry online
+ - [https://www.click.pl](https://www.click.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
 

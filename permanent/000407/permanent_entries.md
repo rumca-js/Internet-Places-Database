@@ -1,407 +1,3 @@
- ## Health, Safety & Regulated Facilities |
- - [https://www.hsrf.admin.cam.ac.uk](https://www.hsrf.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:20:40+00:00
-
- ## Hughes Hall - College of the University of Cambridge
- - [https://www.hughes.cam.ac.uk](https://www.hughes.cam.ac.uk)
- - date_published: 2024-10-20T03:20:00.688669+00:00
-
- ## Institute of Continuing Education (ICE) |
- - [https://www.ice.cam.ac.uk](https://www.ice.cam.ac.uk)
- - date_published: 2024-05-02T10:51:34.063812+00:00
-
- ## Institute for Manufacturing (IfM)
- - [https://www.ifm.eng.cam.ac.uk](https://www.ifm.eng.cam.ac.uk)
- - date_published: 2024-10-20T03:22:30.364681+00:00
-
- ## Cambridge Infectious Diseases | An Interdisciplinary Research Centre at the University of Cambridge
- - [https://www.infectiousdisease.cam.ac.uk](https://www.infectiousdisease.cam.ac.uk)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Information Compliance |
- - [https://www.information-compliance.admin.cam.ac.uk](https://www.information-compliance.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:11.507182+00:00
-
- ## International Students |
- - [https://www.internationalstudents.cam.ac.uk](https://www.internationalstudents.cam.ac.uk)
- - date_published: 2024-05-02T10:51:47.234923+00:00
-
- ## Home | Cambridge Librarians
- - [https://www.intranet.lib.cam.ac.uk](https://www.intranet.lib.cam.ac.uk)
- - date_published: 2024-05-02T10:52:11.304248+00:00
-
- ## Browse help by service category | IT Help and Support
- - [http://www.itservices.cam.ac.uk](http://www.itservices.cam.ac.uk)
- - date_published: 2024-06-17T17:28:24+00:00
-
- ## Job Opportunities - University of Cambridge
- - [https://www.jobs.cam.ac.uk](https://www.jobs.cam.ac.uk)
- - date_published: 2024-05-02T10:51:52.782985+00:00
-
- ## Homepage | Kettle&#039;s Yard
- - [https://www.kettlesyard.cam.ac.uk](https://www.kettlesyard.cam.ac.uk)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Welcome to King's College
- - [http://www.kings.cam.ac.uk](http://www.kings.cam.ac.uk)
- - date_published: 2024-06-17T11:17:59+00:00
-
- ## Homepage | Department of Land Economy
- - [https://www.landecon.cam.ac.uk](https://www.landecon.cam.ac.uk)
- - date_published: 2024-06-17T17:28:49.678915+00:00
-
- ## Faculty of Law | University of Cambridge
- - [http://www.law.cam.ac.uk](http://www.law.cam.ac.uk)
- - date_published: 2024-06-17T10:16:47+00:00
-
- ## Legal Services Division |
- - [https://www.legal.admin.cam.ac.uk](https://www.legal.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:50:10+00:00
-
- ## Cambridge University Library |
- - [https://www.lib.cam.ac.uk](https://www.lib.cam.ac.uk)
- - date_published: 2023-12-20T23:39:54.152345+00:00
-
- ## Cambridge Libraries |
- - [https://www.libraries.cam.ac.uk](https://www.libraries.cam.ac.uk)
- - date_published: 2024-05-02T10:51:40.978798+00:00
-
- ## Index | Chemistry Library
- - [https://www-library.ch.cam.ac.uk](https://www-library.ch.cam.ac.uk)
- - date_published: 2024-06-15T05:23:08+00:00
-
- ## Raven login
- - [https://www.lookup.cam.ac.uk](https://www.lookup.cam.ac.uk)
- - date_published: 2024-06-17T17:35:06.075925+00:00
-
- ## Welcome to Mathematics in Cambridge | Faculty of Mathematics
- - [https://www.maths.cam.ac.uk](https://www.maths.cam.ac.uk)
- - date_published: 2024-05-02T10:52:01.723310+00:00
-
- ## Maxwell Centre | University of Cambridge
- - [https://www.maxwell.cam.ac.uk](https://www.maxwell.cam.ac.uk)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## McDonald Institute for Archaeological Research | Department of Archaeology
- - [http://www.mcdonald.cam.ac.uk](http://www.mcdonald.cam.ac.uk)
- - date_published: 2024-06-24T09:48:08+00:00
-
- ## Department of Materials Science & Metallurgy |
- - [http://www.msm.cam.ac.uk](http://www.msm.cam.ac.uk)
- - date_published: 2024-09-16T14:47:33.830358+00:00
-
- ## Museum of Zoology |
- - [https://www.museum.zoo.cam.ac.uk](https://www.museum.zoo.cam.ac.uk)
- - date_published: 2024-06-17T05:29:52+00:00
-
- ## Natural Sciences Tripos |
- - [https://www.natsci.tripos.cam.ac.uk](https://www.natsci.tripos.cam.ac.uk)
- - date_published: 2024-06-15T06:47:54+00:00
-
- ## Isaac Newton Trust |
- - [https://www.newtontrust.cam.ac.uk](https://www.newtontrust.cam.ac.uk)
- - date_published: 2024-06-17T17:20:31+00:00
-
- ## Office of Intercollegiate Services |
- - [https://www.ois.cam.ac.uk](https://www.ois.cam.ac.uk)
- - date_published: 2024-06-17T17:25:51+00:00
-
- ## Open Access |
- - [https://www.openaccess.cam.ac.uk](https://www.openaccess.cam.ac.uk)
- - date_published: 2024-06-17T16:41:16+00:00
-
- ## Department of Pathology |
- - [http://www.path.cam.ac.uk](http://www.path.cam.ac.uk)
- - date_published: 2024-09-16T14:33:02+00:00
-
- ## Department of Physiology, Development and Neuroscience |
- - [http://www.pdn.cam.ac.uk](http://www.pdn.cam.ac.uk)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Pensions |
- - [http://www.pensions.admin.cam.ac.uk](http://www.pensions.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:57:26+00:00
-
- ## Department of Pharmacology |
- - [http://www.phar.cam.ac.uk](http://www.phar.cam.ac.uk)
- - date_published: 2024-09-16T14:29:57+00:00
-
- ## Support Cambridge
- - [https://www.philanthropy.cam.ac.uk](https://www.philanthropy.cam.ac.uk)
- - date_published: 2024-05-02T10:51:17.721659+00:00
-
- ## Telecoms Office | University Information Services
- - [https://www.phone.cam.ac.uk](https://www.phone.cam.ac.uk)
- - date_published: 2024-06-17T17:28:34+00:00
-
- ## Department of Physics | The Cavendish Laboratory
- - [http://www.phy.cam.ac.uk](http://www.phy.cam.ac.uk)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Cambridge Centre for Physical Biology |
- - [https://www.physbiol.cam.ac.uk](https://www.physbiol.cam.ac.uk)
- - date_published: 2024-06-17T17:19:27+00:00
-
- ## Plagiarism and Academic Misconduct |
- - [https://www.plagiarism.admin.cam.ac.uk](https://www.plagiarism.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:08:39+00:00
-
- ## Department of Plant Sciences |
- - [https://www.plantsci.cam.ac.uk](https://www.plantsci.cam.ac.uk)
- - date_published: 2024-06-17T17:38:23+00:00
-
- ## Plants @ Cambridge |
- - [https://www.plants.hub.cam.ac.uk](https://www.plants.hub.cam.ac.uk)
- - date_published: 2024-06-17T17:38:16+00:00
-
- ## Department of Politics and International Studies (POLIS) |
- - [https://www.polis.cam.ac.uk](https://www.polis.cam.ac.uk)
- - date_published: 2024-07-12T08:56:04+00:00
-
- ## Postgraduate Study | University of Cambridge
- - [https://www.postgraduate.study.cam.ac.uk](https://www.postgraduate.study.cam.ac.uk)
- - date_published: 2024-05-02T10:51:05.096603+00:00
-
- ## Personal and Professional Development |
- - [http://www.ppd.admin.cam.ac.uk](http://www.ppd.admin.cam.ac.uk)
- - date_published: 2024-06-17T16:43:46+00:00
-
- ## Prevent Guidance |
- - [http://www.prevent.admin.cam.ac.uk](http://www.prevent.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:13:51+00:00
-
- ## Department of Psychology |
- - [http://www.psychol.cam.ac.uk](http://www.psychol.cam.ac.uk)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Race Equality at Cambridge |
- - [https://www.race-equality.admin.cam.ac.uk](https://www.race-equality.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:38:04+00:00
-
- ## Recruitment |
- - [https://www.recruitment.admin.cam.ac.uk](https://www.recruitment.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:14+00:00
-
- ## Research Excellence Framework |
- - [https://www.ref.admin.cam.ac.uk](https://www.ref.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:37:19+00:00
-
- ## Home | Governance and Compliance Division
- - [https://www.registrarysoffice.admin.cam.ac.uk](https://www.registrarysoffice.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:45.411006+00:00
-
- ## Cambridge University Reporter |
- - [https://www.reporter.admin.cam.ac.uk](https://www.reporter.admin.cam.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Apollo :: Home
- - [https://www.repository.cam.ac.uk](https://www.repository.cam.ac.uk)
- - date_published: 2024-05-02T10:52:15.022165+00:00
-
- ## Research Information |
- - [https://www.research-information.admin.cam.ac.uk](https://www.research-information.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:14:05+00:00
-
- ## Research Integrity |
- - [http://www.research-integrity.admin.cam.ac.uk](http://www.research-integrity.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:12:30+00:00
-
- ## Research Operations Office |
- - [https://www.research-operations.admin.cam.ac.uk](https://www.research-operations.admin.cam.ac.uk)
- - date_published: 2024-05-02T10:51:50.158678+00:00
-
- ## Research Strategy Office |
- - [https://www.research-strategy.admin.cam.ac.uk](https://www.research-strategy.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:14:05+00:00
-
- ## Safety Office |
- - [http://www.safety.admin.cam.ac.uk](http://www.safety.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:35:01+00:00
-
- ## Signal Processing and Communications Laboratory
- - [https://www-sigproc.eng.cam.ac.uk](https://www-sigproc.eng.cam.ac.uk)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Sainsbury Laboratory |
- - [https://www.slcu.cam.ac.uk](https://www.slcu.cam.ac.uk)
- - date_published: 2024-05-02T10:51:59.445457+00:00
-
- ## SPACE: Supporting Parents and Carers @ Cambridge |
- - [https://www.space.admin.cam.ac.uk](https://www.space.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:38:03+00:00
-
- ## Sport at Cambridge |
- - [https://www.sport.cam.ac.uk](https://www.sport.cam.ac.uk)
- - date_published: 2024-05-02T10:51:16.107756+00:00
-
- ## For staff
- - [https://www.staff.admin.cam.ac.uk](https://www.staff.admin.cam.ac.uk)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Index | Statistical Laboratory
- - [https://statslab.cam.ac.uk](https://statslab.cam.ac.uk)
- - date_published: 2024-05-17T02:59:46.226782+00:00
-
- ## Student Complaints |
- - [https://www.studentcomplaints.admin.cam.ac.uk](https://www.studentcomplaints.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:25:35+00:00
-
- ## Search - Postgraduate Funding Search
- - [http://www.student-funding.cam.ac.uk](http://www.student-funding.cam.ac.uk)
- - date_published: 2024-06-17T17:29:26.684352+00:00
-
- ## Student Registry | University of Cambridge
- - [https://www.student-registry.admin.cam.ac.uk](https://www.student-registry.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:36:12+00:00
-
- ## Student Support | University of Cambridge
- - [https://www.studentsupport.cam.ac.uk](https://www.studentsupport.cam.ac.uk)
- - date_published: 2024-06-17T17:36:14+00:00
-
- ## Study at Cambridge
- - [https://www.study.cam.ac.uk](https://www.study.cam.ac.uk)
- - date_published: 2024-05-02T10:50:47.933025+00:00
-
- ## TCM Group
- - [https://www.tcm.phy.cam.ac.uk](https://www.tcm.phy.cam.ac.uk)
- - date_published: 2024-10-20T03:25:35.821185+00:00
-
- ## The Cambridge Student
- - [https://www.tcs.cam.ac.uk](https://www.tcs.cam.ac.uk)
- - date_published: 2024-10-20T13:13:51.109386+00:00
-
- ## University Information Services |
- - [https://www.uis.cam.ac.uk](https://www.uis.cam.ac.uk)
- - date_published: 2024-06-17T16:50:10+00:00
-
- ## Cambridge University Libraries Intranet | Intranet for Cambridge University Libraries
- - [https://www.ul.intranet.lib.cam.ac.uk](https://www.ul.intranet.lib.cam.ac.uk)
- - date_published: 2024-06-17T17:47:07+00:00
-
- ## Undergraduate Study | University of Cambridge
- - [https://www.undergraduate.study.cam.ac.uk](https://www.undergraduate.study.cam.ac.uk)
- - date_published: 2024-05-02T10:51:09.990385+00:00
-
- ## Vice-Chancellor
- - [http://www.v-c.admin.cam.ac.uk](http://www.v-c.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:23:35+00:00
-
- ## Virtual tour | University of Cambridge
- - [https://www.virtualtour.study.cam.ac.uk](https://www.virtualtour.study.cam.ac.uk)
- - date_published: 2022-08-03T09:51:57+00:00
-
- ## Log in to the site | Moodle
- - [https://www.vle.cam.ac.uk](https://www.vle.cam.ac.uk)
- - date_published: 2024-05-02T10:51:53.990318+00:00
-
- ## Wellbeing |
- - [https://www.wellbeing.admin.cam.ac.uk](https://www.wellbeing.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:29:56+00:00
-
- ## Festival of Wellbeing | University of Cambridge
- - [http://www.wellfest.admin.cam.ac.uk](http://www.wellfest.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:32:56+00:00
-
- ## Whipple Library | Department of History and Philosophy of Science
- - [https://www.whipplelib.hps.cam.ac.uk](https://www.whipplelib.hps.cam.ac.uk)
- - date_published: 2024-06-19T16:34:22+00:00
-
- ## Sign in to your account
- - [https://www.wireless.cam.ac.uk](https://www.wireless.cam.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Womens' Campaign
- - [http://www.womens.cusu.cam.ac.uk](http://www.womens.cusu.cam.ac.uk)
- - date_published: 2024-06-17T17:37:40.748841+00:00
-
- ## The power to change our world - Cambridge Open Zettascale Lab
- - [https://www.zettascale.hpc.cam.ac.uk](https://www.zettascale.hpc.cam.ac.uk)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Department of Zoology |
- - [http://www.zoo.cam.ac.uk](http://www.zoo.cam.ac.uk)
- - date_published: 2024-09-16T14:37:34+00:00
-
- ## Login - Unit4 Business World
- - [https://x5.admin.cam.ac.uk](https://x5.admin.cam.ac.uk)
- - date_published: 2024-06-17T17:37:25.708135+00:00
-
- ## CCCU Blogs
- - [https://blogs.canterbury.ac.uk](https://blogs.canterbury.ac.uk)
- - date_published: 2024-10-19T10:33:33.071450+00:00
-
- ## Home
- - [https://canterbury.ac.uk](https://canterbury.ac.uk)
- - date_published: 2024-10-19T10:33:35.506178+00:00
-
- ## A destination of learning for East Kent | Canterbury College
- - [https://www.canterburycollege.ac.uk](https://www.canterburycollege.ac.uk)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Capital City College Group - London's Largest FE College Group
- - [https://www.capitalccg.ac.uk](https://www.capitalccg.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Welcome to Cardiff Blogs
- - [https://blogs.cardiff.ac.uk](https://blogs.cardiff.ac.uk)
- - date_published: 2024-05-10T05:54:58.840125+00:00
-
- ## Cardiff University
- - [https://cardiff.ac.uk](https://cardiff.ac.uk)
- - date_published: 2024-07-10T07:20:54.218366+00:00
-
- ## Intranet
- - [https://intranet.cardiff.ac.uk](https://intranet.cardiff.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## -ORCA
- - [https://orca.cardiff.ac.uk](https://orca.cardiff.ac.uk)
- - date_published: 2024-07-12T18:23:41.449720+00:00
-
- ## People - People - Cardiff University
- - [https://profiles.cardiff.ac.uk](https://profiles.cardiff.ac.uk)
- - date_published: 2024-05-06T23:49:49.644796+00:00
-
- ## Home - CONVERIS Research Information System by Thomson Reuters: - Converis Standard Config
- - [https://research.cardiff.ac.uk](https://research.cardiff.ac.uk)
- - date_published: 2024-05-10T05:54:57.256794+00:00
-
- ## Cardiff University Status
- - [https://status.cardiff.ac.uk](https://status.cardiff.ac.uk)
- - date_published: 2024-07-12T18:23:48.249062+00:00
-
- ## British Cartoon Archive
- - [http://www.cartoons.ac.uk](http://www.cartoons.ac.uk)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## CCAP
- - [https://www.ccap.ac.uk](https://www.ccap.ac.uk)
- - date_published: 2024-07-08T11:24:34.851373+00:00
-
- ## | The CEDA Archive
- - [https://archive.ceda.ac.uk](https://archive.ceda.ac.uk)
- - date_published: 2023-11-10T15:49:58+00:00
-
- ## Welcome to CEDA!
- - [http://www.ceda.ac.uk](http://www.ceda.ac.uk)
- - date_published: 2024-01-06T00:00:00+00:00
-
- ## UK Centre for Ecology & Hydrology
- - [https://ceh.ac.uk](https://ceh.ac.uk)
- - date_published: 2024-10-17T00:37:46+00:00
-
- ## Environmental Information Platform — UKCEH Environmental Information Platform
- - [https://eip.ceh.ac.uk](https://eip.ceh.ac.uk)
- - date_published: 2024-05-02T10:52:17.228899+00:00
-
- ## Loading...
- - [https://jira.ceh.ac.uk](https://jira.ceh.ac.uk)
- - date_published: 2024-06-17T17:47:28.402216+00:00
-
- ## Illustration Archive
- - [http://illustrationarchive.cf.ac.uk](http://illustrationarchive.cf.ac.uk)
- - date_published: 2024-10-19T11:49:04.974537+00:00
-
  ## -ORCA
  - [http://orca.cf.ac.uk](http://orca.cf.ac.uk)
  - date_published: 2024-06-26T14:13:28.068869+00:00
@@ -3578,10 +3174,6 @@
  - [https://www.botanic-garden.ox.ac.uk](https://www.botanic-garden.ox.ac.uk)
  - date_published: 2024-05-02T11:06:50.980481+00:00
 
- ## Homepage | Blavatnik School of Government
- - [https://www.bsg.ox.ac.uk](https://www.bsg.ox.ac.uk)
- - date_published: 2024-05-04T06:03:15.926415+00:00
-
  ## Fundraising at the University of Oxford
  - [https://www.campaign.ox.ac.uk](https://www.campaign.ox.ac.uk)
  - date_published: 2024-05-02T11:05:59.894757+00:00
@@ -4006,4 +3598,418 @@
  ## Pembroke College - University of Oxford
  - [https://www.pmb.ox.ac.uk](https://www.pmb.ox.ac.uk)
  - date_published: 2024-05-02T11:00:05.510271+00:00
+
+ ## Homepage | DPIR
+ - [https://politics.ox.ac.uk](https://politics.ox.ac.uk)
+ - date_published: 2024-05-07T14:14:16.639825+00:00
+
+ ## Home
+ - [https://www.ppe.ox.ac.uk](https://www.ppe.ox.ac.uk)
+ - date_published: 2024-06-17T13:57:12+00:00
+
+ ## Home
+ - [https://www.practicalethics.ox.ac.uk](https://www.practicalethics.ox.ac.uk)
+ - date_published: 2024-06-26T11:04:38+00:00
+
+ ## Home
+ - [https://www.prm.ox.ac.uk](https://www.prm.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:03.570176+00:00
+
+ ## Welcome to the Proctors' Office
+ - [http://www.proctors.ox.ac.uk](http://www.proctors.ox.ac.uk)
+ - date_published: 2024-06-13T19:32:30+00:00
+
+ ## Home Page | statistics
+ - [https://www-prod.stats.ox.ac.uk](https://www-prod.stats.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:27.438862+00:00
+
+ ## Homepage — Department of Psychiatry
+ - [https://www.psych.ox.ac.uk](https://www.psych.ox.ac.uk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Experimental Psychology — Department of Experimental Psychology
+ - [https://www.psy.ox.ac.uk](https://www.psy.ox.ac.uk)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Homepage | Oxford Department of International Development
+ - [https://www.qeh.ox.ac.uk](https://www.qeh.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:12.574808+00:00
+
+ ## The Queen's College - The Queen's College, Oxford
+ - [https://www.queens.ox.ac.uk](https://www.queens.ox.ac.uk)
+ - date_published: 2022-11-24T00:00:00+00:00
+
+ ## Quill Project
+ - [https://www.quill.pmb.ox.ac.uk](https://www.quill.pmb.ox.ac.uk)
+ - date_published: 2024-06-17T18:33:20.774171+00:00
+
+ ## Home
+ - [https://www.rai.ox.ac.uk](https://www.rai.ox.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Homepage — Radcliffe Department of Medicine
+ - [https://www.rdm.ox.ac.uk](https://www.rdm.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:19.249772+00:00
+
+ ## Home
+ - [https://www.rees.ox.ac.uk](https://www.rees.ox.ac.uk)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Research at Oxford
+ - [https://www.research.ox.ac.uk](https://www.research.ox.ac.uk)
+ - date_published: 2024-10-20T07:11:09.824893+00:00
+
+ ## Homepage - Regent's Park College
+ - [https://www.rpc.ox.ac.uk](https://www.rpc.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:38.288302+00:00
+
+ ## The Ruskin School of Art - Home Page
+ - [https://www.rsa.ox.ac.uk](https://www.rsa.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:34.065427+00:00
+
+ ## Home — Refugee Studies Centre
+ - [https://www.rsc.ox.ac.uk](https://www.rsc.ox.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## St Antonys - St Antony's
+ - [https://www.sant.ox.ac.uk](https://www.sant.ox.ac.uk)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Leadership | Saïd Business School
+ - [https://sbs.ox.ac.uk](https://sbs.ox.ac.uk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## The Stephen A. Schwarzman Centre for the Humanities <!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KL55M4K"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+ - [https://www.schwarzmancentre.ox.ac.uk](https://www.schwarzmancentre.ox.ac.uk)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Sir Jules Thorn Sleep and Circadian Neuroscience Institute — SCNi
+ - [https://www.scni.ox.ac.uk](https://www.scni.ox.ac.uk)
+ - date_published: 2023-08-11T00:00:00+00:00
+
+ ## Welcome to the Sustainable Digital Scholarship (SDS) service
+ - [https://www.sds.ox.ac.uk](https://www.sds.ox.ac.uk)
+ - date_published: 2024-09-17T16:14:38+00:00
+
+ ## Home | St Edmund Hall
+ - [https://www.seh.ox.ac.uk](https://www.seh.ox.ac.uk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## St John's College, Oxford
+ - [https://www.sjc.ox.ac.uk](https://www.sjc.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Homepage | Smith School of Enterprise and the Environment
+ - [https://www.smithschool.ox.ac.uk](https://www.smithschool.ox.ac.uk)
+ - date_published: 2024-06-17T18:58:14.282906+00:00
+
+ ## Home
+ - [https://www.sociology.ox.ac.uk](https://www.sociology.ox.ac.uk)
+ - date_published: 2024-05-02T11:05:28.700589+00:00
+
+ ## Welcome to the Social Sciences Division
+ - [https://www.socsci.ox.ac.uk](https://www.socsci.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:31.594280+00:00
+
+ ## Somerville College Oxford
+ - [https://www.some.ox.ac.uk](https://www.some.ox.ac.uk)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Home
+ - [https://www.southasia.ox.ac.uk](https://www.southasia.ox.ac.uk)
+ - date_published: 2024-06-13T19:29:19+00:00
+
+ ## St Peter's College, University of Oxford | St Peter's College Oxford
+ - [https://www.spc.ox.ac.uk](https://www.spc.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home
+ - [https://www.spi.ox.ac.uk](https://www.spi.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:36.431208+00:00
+
+ ## Home
+ - [https://www.sport.ox.ac.uk](https://www.sport.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:31.999270+00:00
+
+ ## St Anne's College, Oxford | Forward looking & Outward facing
+ - [https://www.st-annes.ox.ac.uk](https://www.st-annes.ox.ac.uk)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home Page | statistics
+ - [https://www.stats.ox.ac.uk](https://www.stats.ox.ac.uk)
+ - date_published: 2024-05-02T11:07:36.336227+00:00
+
+ ## Home - St Catherine's College
+ - [https://www.stcatz.ox.ac.uk](https://www.stcatz.ox.ac.uk)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Home | St Hilda's College Oxford
+ - [https://www.st-hildas.ox.ac.uk](https://www.st-hildas.ox.ac.uk)
+ - date_published: 2024-10-20T06:29:55.851947+00:00
+
+ ## Home
+ - [https://www.stx.ox.ac.uk](https://www.stx.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:00.736313+00:00
+
+ ## Home
+ - [https://www.theology.ox.ac.uk](https://www.theology.ox.ac.uk)
+ - date_published: 2024-05-02T10:58:56.989158+00:00
+
+ ## Home
+ - [http://www.torch.ox.ac.uk](http://www.torch.ox.ac.uk)
+ - date_published: 2024-06-17T16:20:54+00:00
+
+ ## Trinity College | Trinity College Oxford
+ - [https://www.trinity.ox.ac.uk](https://www.trinity.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:58.860110+00:00
+
+ ## Home — Centre for Tropical Medicine and Global Health
+ - [https://www.tropicalmedicine.ox.ac.uk](https://www.tropicalmedicine.ox.ac.uk)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Vacancy Search Results - University Of Oxford (Temporary Staffing Service)
+ - [https://www.tss.ox.ac.uk](https://www.tss.ox.ac.uk)
+ - date_published: 2024-06-17T18:46:23.857407+00:00
+
+ ## University College Oxford
+ - [https://www.univ.ox.ac.uk](https://www.univ.ox.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## OUEV | Oxford University Event Venues
+ - [https://www.venues.ox.ac.uk](https://www.venues.ox.ac.uk)
+ - date_published: 2024-10-20T07:11:00.974583+00:00
+
+ ## Voltaire Foundation
+ - [https://www.voltaire.ox.ac.uk](https://www.voltaire.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:10.627397+00:00
+
+ ## Wadham College
+ - [https://www.wadham.ox.ac.uk](https://www.wadham.ox.ac.uk)
+ - date_published: 2024-05-02T11:00:00.546417+00:00
+
+ ## Home — Centre for Human Genetics
+ - [http://www.well.ox.ac.uk](http://www.well.ox.ac.uk)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Homepage — Wellcome Centre for Integrative Neuroimaging
+ - [https://www.win.ox.ac.uk](https://www.win.ox.ac.uk)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Homepage | Wolfson College - Oxford
+ - [https://www.wolfson.ox.ac.uk](https://www.wolfson.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:54.635712+00:00
+
+ ## Worcester College
+ - [https://www.worc.ox.ac.uk](https://www.worc.ox.ac.uk)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Homepage — Nuffield Department of Women's & Reproductive Health
+ - [https://www.wrh.ox.ac.uk](https://www.wrh.ox.ac.uk)
+ - date_published: 2024-05-02T10:59:17.507178+00:00
+
+ ## Home
+ - [https://www.wycliffe.ox.ac.uk](https://www.wycliffe.ox.ac.uk)
+ - date_published: 2024-05-02T11:06:14.309667+00:00
+
+ ## Home
+ - [https://wycliffe.web.ox.ac.uk](https://wycliffe.web.ox.ac.uk)
+ - date_published: 2024-06-16T01:57:47+00:00
+
+ ## University of Oxford
+ - [https://www.oxford.ac.uk](https://www.oxford.ac.uk)
+ - date_published: 2024-10-20T05:30:58.429472+00:00
+
+ ## Peterborough College
+ - [https://peterborough.ac.uk](https://peterborough.ac.uk)
+ - date_published: 2024-10-20T01:35:12.880336+00:00
+
+ ## Open for 2024 applications - Plumpton College
+ - [https://www.plumpton.ac.uk](https://www.plumpton.ac.uk)
+ - date_published: 2024-08-06T11:05:55.515576+00:00
+
+ ## University of Plymouth
+ - [https://donate.plymouth.ac.uk](https://donate.plymouth.ac.uk)
+ - date_published: 2024-06-17T05:39:49.084594+00:00
+
+ ## Study a subject that inspires you
+ - [http://plymouth.ac.uk](http://plymouth.ac.uk)
+ - date_published: 2024-06-29T04:51:36.601433+00:00
+
+ ## Sign in to your account
+ - [https://portal.plymouth.ac.uk](https://portal.plymouth.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Make it count with a triple gold university
+ - [https://www.plymouth.ac.uk](https://www.plymouth.ac.uk)
+ - date_published: 2024-01-01T16:43:40.846084+00:00
+
+ ## World-leading scientific marine research - Plymouth Marine Laboratory
+ - [http://pml.ac.uk](http://pml.ac.uk)
+ - date_published: 2024-10-22T17:06:12.387490+00:00
+
+ ## Liblog
+ - [https://liblog.port.ac.uk](https://liblog.port.ac.uk)
+ - date_published: 2024-10-20T07:44:24.610388+00:00
+
+ ## University of Portsmouth Library -
+ - [https://library.port.ac.uk](https://library.port.ac.uk)
+ - date_published: 2024-06-17T19:02:36.191693+00:00
+
+ ## Access Manager
+ - [https://moodle.port.ac.uk](https://moodle.port.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## MyPort Homepage | Student Services - University of Portsmouth
+ - [https://myport.port.ac.uk](https://myport.port.ac.uk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Self Service Password Reset
+ - [https://password.port.ac.uk](https://password.port.ac.uk)
+ - date_published: 2024-06-17T19:02:21.730368+00:00
+
+ ## University of Portsmouth | A New Breed of University
+ - [https://port.ac.uk](https://port.ac.uk)
+ - date_published: 2024-10-17T00:08:08+00:00
+
+ ## Sport Portsmouth | Sport and Recreation - University of Portsmouth
+ - [https://sport.port.ac.uk](https://sport.port.ac.uk)
+ - date_published: 2024-06-17T17:17:52+00:00
+
+ ## SSD Tools
+ - [https://ssd.port.ac.uk](https://ssd.port.ac.uk)
+ - date_published: 2024-10-20T07:44:42.443231+00:00
+
+ ## Access Gateway
+ - [https://sso.port.ac.uk](https://sso.port.ac.uk)
+ - date_published: 2024-06-17T19:02:20.644387+00:00
+
+ ## Access Manager
+ - [http://staff.port.ac.uk](http://staff.port.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Log in to the portal
+ - [https://student-system.port.ac.uk](https://student-system.port.ac.uk)
+ - date_published: 2024-06-17T19:02:27.885881+00:00
+
+ ## Access Manager
+ - [https://timetabling.port.ac.uk](https://timetabling.port.ac.uk)
+ - date_published: 2024-06-17T19:02:34.372584+00:00
+
+ ## Home Page - The Productivity Institute
+ - [https://www.productivity.ac.uk](https://www.productivity.ac.uk)
+ - date_published: 2024-10-19T05:49:45.505571+00:00
+
+ ## Prospects.ac.uk
+ - [https://www.prospects.ac.uk](https://www.prospects.ac.uk)
+ - date_published: 2024-06-30T03:59:03.631304+00:00
+
+ ## The Political Studies Association
+ - [https://www.psa.ac.uk](https://www.psa.ac.uk)
+ - date_published: 2024-07-09T14:16:49.690381+00:00
+
+ ## Jisc
+ - [http://www.psigate.ac.uk](http://www.psigate.ac.uk)
+ - date_published: 2024-07-02T14:46:20.410018+00:00
+
+ ## NCCPE: homepage | NCCPE
+ - [http://www.publicengagement.ac.uk](http://www.publicengagement.ac.uk)
+ - date_published: 2024-10-19T07:06:33.806760+00:00
+
+ ## Membership Resources
+ - [https://www.membershipresources.qaa.ac.uk](https://www.membershipresources.qaa.ac.uk)
+ - date_published: 2024-07-12T18:23:38.355907+00:00
+
+ ## The Quality Assurance Agency for Higher Education
+ - [https://qaa.ac.uk](https://qaa.ac.uk)
+ - date_published: 2024-05-10T05:54:55.722883+00:00
+
+ ## QAC Queen Alexandra College Birmingham - National college for people with disabilities.
+ - [https://www.qac.ac.uk](https://www.qac.ac.uk)
+ - date_published: 2024-07-08T20:56:59.371180+00:00
+
+ ## Accessing the QMplus archives | Technology Enhanced Learning Team
+ - [https://2019.qmplus.qmul.ac.uk](https://2019.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:23.126837+00:00
+
+ ## Accessing the QMplus archives | Technology Enhanced Learning Team
+ - [https://2020.qmplus.qmul.ac.uk](https://2020.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:33.083458+00:00
+
+ ## Accessing the QMplus archives | Technology Enhanced Learning Team
+ - [https://2021.qmplus.qmul.ac.uk](https://2021.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:36.866357+00:00
+
+ ## QMplus - The Online Learning Environment of Queen Mary University of London
+ - [https://2022.qmplus.qmul.ac.uk](https://2022.qmplus.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:11+00:00
+
+ ## Queen Mary, University of London test
+ - [http://archive.qmplus.qmul.ac.uk](http://archive.qmplus.qmul.ac.uk)
+ - date_published: 2023-07-19T13:36:23+00:00
+
+ ## Atlas of Finite Group Representations
+ - [https://brauer.maths.qmul.ac.uk](https://brauer.maths.qmul.ac.uk)
+ - date_published: 2022-09-05T17:22:10+00:00
+
+ ## Queen Mary University Authentication
+ - [https://connected.qmul.ac.uk](https://connected.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:57.060869+00:00
+
+ ## Sign in to your account
+ - [http://connect.qmul.ac.uk](http://connect.qmul.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Staff Directory at Queen Mary, University of London
+ - [https://dir.qmul.ac.uk](https://dir.qmul.ac.uk)
+ - date_published: 2024-06-17T19:02:40.932425+00:00
+
+ ## Technology Enhanced Learning Team
+ - [https://elearning.qmul.ac.uk](https://elearning.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:37.818539+00:00
+
+ ## PaperCut Login for Queen Mary University London
+ - [https://eprint.stu.qmul.ac.uk](https://eprint.stu.qmul.ac.uk)
+ - date_published: 2024-10-20T07:53:09.047117+00:00
+
+ ## Human Resources - Human Resources
+ - [https://hr.qmul.ac.uk](https://hr.qmul.ac.uk)
+ - date_published: 2024-06-13T14:51:16+00:00
+
+ ## Queen Mary University of London
+ - [https://idp.shibboleth.qmul.ac.uk](https://idp.shibboleth.qmul.ac.uk)
+ - date_published: 2024-08-07T05:11:08+00:00
+
+ ## Queen Mary University Authentication
+ - [https://intranet.eecs.qmul.ac.uk](https://intranet.eecs.qmul.ac.uk)
+ - date_published: 2024-06-22T10:16:12.648254+00:00
+
+ ## IT Services - IT Services
+ - [http://its.qmul.ac.uk](http://its.qmul.ac.uk)
+ - date_published: 2024-06-13T05:22:10+00:00
+
+ ## Library Services - Library Services
+ - [http://library.qmul.ac.uk](http://library.qmul.ac.uk)
+ - date_published: 2024-06-13T12:17:17+00:00
+
+ ## Sign in to Outlook
+ - [https://mail.qmul.ac.uk](https://mail.qmul.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## PaperCut Login for Queen Mary University London
+ - [https://myprint.qmul.ac.uk](https://myprint.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:50.408609+00:00
+
+ ## MyQMUL - MyQMUL
+ - [https://my.qmul.ac.uk](https://my.qmul.ac.uk)
+ - date_published: 2024-05-02T11:08:55.788251+00:00
+
+ ## Log in to the portal
+ - [https://mysis.qmul.ac.uk](https://mysis.qmul.ac.uk)
+ - date_published: 2024-06-17T19:03:51.482669+00:00
 

@@ -1,23 +1,3 @@
- ## Dicionarios.cc
- - [https://dicionarios.cc](https://dicionarios.cc)
- - date_published: 2024-07-10T08:19:40.540743+00:00
-
- ## dict.cc | Bulgarian-German dictionary | Немско-български речник
- - [https://bgde.dict.cc](https://bgde.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc | Bulgarian-English dictionary | Английско-български речник
- - [https://bgen.dict.cc](https://bgen.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## dict.cc Wörterbuch | alle Sprachen
- - [https://browse.dict.cc](https://browse.dict.cc)
- - date_published: 2024-07-17T12:10:04.818828+00:00
-
- ## dict.cc | Bosnian-German dictionary | Njemačko-bosanski rječnik
- - [https://bsde.dict.cc](https://bsde.dict.cc)
- - date_published: 2024-07-09T00:00:00+00:00
-
  ## dict.cc | Bosnian-English dictionary | Englesko-bosanski rječnik
  - [https://bsen.dict.cc](https://bsen.dict.cc)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -4020,4 +4000,24 @@
  ## d-fens GmbH
  - [https://d-fens.ch](https://d-fens.ch)
  - date_published: 2024-06-15T16:56:53.294076+00:00
+
+ ## Diane Friedli - pasteure à Colombier
+ - [https://dianefriedli.ch](https://dianefriedli.ch)
+ - date_published: 2024-07-10T04:39:35+00:00
+
+ ## FairSocialNet · La vie privée numérique en Suisse Romande
+ - [https://diasporing.ch](https://diasporing.ch)
+ - date_published: 2024-08-18T22:13:17.162526+00:00
+
+ ## Dieci Natura AG - Login
+ - [http://natura.dieci.ch](http://natura.dieci.ch)
+ - date_published: 2024-07-21T06:06:54.014115+00:00
+
+ ## dieci | Pizza Delivery & Restaurants - dieci.ch
+ - [https://dieci.ch](https://dieci.ch)
+ - date_published: 2024-04-30T06:02:13.643038+00:00
+
+ ## RDC Gelato AG - Login
+ - [https://shop.diecigelato.ch](https://shop.diecigelato.ch)
+ - date_published: 2024-07-21T06:06:51.055562+00:00
 

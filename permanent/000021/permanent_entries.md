@@ -1,23 +1,3 @@
- ## Diane Friedli - pasteure à Colombier
- - [https://dianefriedli.ch](https://dianefriedli.ch)
- - date_published: 2024-07-10T04:39:35+00:00
-
- ## FairSocialNet · La vie privée numérique en Suisse Romande
- - [https://diasporing.ch](https://diasporing.ch)
- - date_published: 2024-08-18T22:13:17.162526+00:00
-
- ## Dieci Natura AG - Login
- - [http://natura.dieci.ch](http://natura.dieci.ch)
- - date_published: 2024-07-21T06:06:54.014115+00:00
-
- ## dieci | Pizza Delivery & Restaurants - dieci.ch
- - [https://dieci.ch](https://dieci.ch)
- - date_published: 2024-04-30T06:02:13.643038+00:00
-
- ## RDC Gelato AG - Login
- - [https://shop.diecigelato.ch](https://shop.diecigelato.ch)
- - date_published: 2024-07-21T06:06:51.055562+00:00
-
  ## Die Sonnenstube
  - [https://admin.diesonnenstube.ch](https://admin.diesonnenstube.ch)
  - date_published: 2024-09-14T09:29:23.560268+00:00
@@ -4014,4 +3994,24 @@
  ## nerdpol.ch*
  - [https://nerdpol.ch](https://nerdpol.ch)
  - date_published: 2024-07-10T07:29:01.689919+00:00
+
+ ## Bienvenue sur Christian Jelk | Christian Jelk
+ - [http://neserapas.ch](http://neserapas.ch)
+ - date_published: 2024-07-13T15:11:27.817879+00:00
+
+ ## Home Nestlé Schweiz
+ - [http://www.nestle.ch](http://www.nestle.ch)
+ - date_published: 2024-07-04T03:16:01+00:00
+
+ ## Net Apps Sendy
+ - [https://sendy.net-apps.ch](https://sendy.net-apps.ch)
+ - date_published: 2024-04-30T06:03:36.638884+00:00
+
+ ## NetGame Convention
+ - [https://netgame.ch](https://netgame.ch)
+ - date_published: 2024-05-07T09:56:30.540664+00:00
+
+ ## netinfluence
+ - [https://www.netinfluence.ch](https://www.netinfluence.ch)
+ - date_published: 2024-07-21T06:28:08.935841+00:00
 
