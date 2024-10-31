@@ -1,7 +1,3 @@
- ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
- - [https://superops.ai](https://superops.ai)
- - date_published: 2024-05-10T06:32:23.608347+00:00
-
  ## Loading...
  - [https://usserv.superops.ai](https://usserv.superops.ai)
  - date_published: 2024-07-12T14:41:05+00:00
@@ -108,7 +104,7 @@
 
  ## TableTalk - a better way to interact with your database
  - [https://www.tabletalk.ai](https://www.tabletalk.ai)
- - date_published: 2024-06-19T19:07:25.476667+00:00
+ - date_published: 2024-05-11T14:12:34+00:00
 
  ## Aktana: Pharma/Life Sciences AI & Mobile Intelligence
  - [https://tact.ai](https://tact.ai)
@@ -1415,7 +1411,7 @@ Creative Solutions
 
  ## What-the-Diff – AI-powered code review assistant
  - [https://whatthediff.ai](https://whatthediff.ai)
- - date_published: 2024-06-19T19:25:03.500757+00:00
+ - date_published: 2024-02-15T09:42:49+00:00
 
  ## WhyHow.AI
  - [https://www.whyhow.ai](https://www.whyhow.ai)
@@ -3281,7 +3277,7 @@ Creative Solutions
 
  ## Avanty - AI assistant for data analysts in Metabase.
  - [https://avanty.app](https://avanty.app)
- - date_published: 2024-06-19T19:32:57.345354+00:00
+ - date_published: 2024-01-25T07:50:52+00:00
 
  ## Awtomic Subscriptions
  - [https://help.awtomatic.app](https://help.awtomatic.app)
@@ -3430,7 +3426,7 @@ Creative Solutions
 
  ## Free WhatsApp Chat with Bollywood's biggest stars | BOLLYWOODAI
  - [https://www.bollywoodai.app](https://www.bollywoodai.app)
- - date_published: 2024-06-19T19:27:26.289703+00:00
+ - date_published: 2024-01-25T05:36:25+00:00
 
  ## Books by AI
  - [https://booksbyai.app](https://booksbyai.app)
@@ -4022,4 +4018,8 @@ Creative Solutions
  ## HTML + CSS
  - [https://pl3f69-5000.csb.app](https://pl3f69-5000.csb.app)
  - date_published: 2024-06-29T08:54:25.889225+00:00
+
+ ## Static Template
+ - [https://q14t91.csb.app](https://q14t91.csb.app)
+ - date_published: 2024-06-16T05:46:11.027244+00:00
 

@@ -1,11 +1,3 @@
- ## Netzpolitischer Abend - Digitale Gesellschaft
- - [https://netzpolitischer-abend.ch](https://netzpolitischer-abend.ch)
- - date_published: 2024-04-29T05:58:19.219174+00:00
-
- ## Ville de Neuchâtel
- - [https://www.neuchatelville.ch](https://www.neuchatelville.ch)
- - date_published: 2024-10-17T22:13:13.386525+00:00
-
  ## Votre co-pilote web & marketing | Nexoka
  - [https://nexoka.ch](https://nexoka.ch)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -3308,10 +3300,6 @@ Fakultät | Universität Basel
  - [https://www.zeiss.ch](https://www.zeiss.ch)
  - date_published: 2024-09-16T07:56:28.123959+00:00
 
- ## Herzlich willkommen bei Zeltwelt
- - [https://www.zeltwelt.ch](https://www.zeltwelt.ch)
- - date_published: 2021-11-01T00:00:00+00:00
-
  ## Zurich Graduate School
  - [http://www.zgsm.ch](http://www.zgsm.ch)
  - date_published: 2024-06-20T13:59:31.672344+00:00
@@ -3864,7 +3852,7 @@ Fakultät | Universität Basel
 
  ## Your AI Dating Wingman
  - [https://www.swoon.chat](https://www.swoon.chat)
- - date_published: 2024-06-19T21:35:31.037396+00:00
+ - date_published: 2024-01-25T04:21:21+00:00
 
  ## Xoilac TV – Trực Tiếp Bóng Đá – Xem Bóng Đá Xôi Lạc TV
  - [https://taffy.chat](https://taffy.chat)
@@ -4018,4 +4006,16 @@ Fakultät | Universität Basel
  ## Home Page
  - [https://pcg.church](https://pcg.church)
  - date_published: 2024-05-06T14:34:25.618031+00:00
+
+ ## STEEPLE - A Scary Go Round Comic
+ - [https://steeple.church](https://steeple.church)
+ - date_published: 2020-02-16T00:00:00+00:00
+
+ ## TENSOR CHURCH - AI Religion Chat
+ - [https://tensor.church](https://tensor.church)
+ - date_published: 2024-06-19T19:40:45.277877+00:00
+
+ ## Accueil - ANRMP - Autorité Nationale de Régulation des Marchés Publics
+ - [https://anrmp.ci](https://anrmp.ci)
+ - date_published: 2024-09-11T18:11:45+00:00
 

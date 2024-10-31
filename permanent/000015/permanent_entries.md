@@ -1,11 +1,3 @@
- ## Mastercard - Uma empresa global de tenologia da indústria de meios de pagamento
- - [https://www.mastercard.com.br](https://www.mastercard.com.br)
- - date_published: 2024-10-11T18:25:23+00:00
-
- ## Mediastream | Impulsione sua estratégia de áudio e vídeo
- - [https://www.mediastream.com.br](https://www.mediastream.com.br)
- - date_published: 2024-09-05T00:00:00+00:00
-
  ## Megacombo Consórcios — Sua independência financeira. Automática.
  - [http://www.megacombo.com.br](http://www.megacombo.com.br)
  - date_published: 2016-04-02T00:00:00+00:00
@@ -4009,4 +4001,12 @@
  ## Government of Alberta
  - [https://alberta.ca](https://alberta.ca)
  - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Alberta Innovates
+ - [http://albertainnovates.ca](http://albertainnovates.ca)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Home
+ - [http://www.albertasulphurresearch.ca](http://www.albertasulphurresearch.ca)
+ - date_published: 2024-07-20T06:53:37+00:00
 

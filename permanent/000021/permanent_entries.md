@@ -1,15 +1,3 @@
- ## Die Sonnenstube
- - [https://admin.diesonnenstube.ch](https://admin.diesonnenstube.ch)
- - date_published: 2024-09-14T09:29:23.560268+00:00
-
- ## Die Sonnenstube
- - [https://diesonnenstube.ch](https://diesonnenstube.ch)
- - date_published: 2024-06-14T11:59:44.754244+00:00
-
- ## DigiKey
- - [https://digikey.ch](https://digikey.ch)
- - date_published: 2024-03-03T11:40:25.990835+00:00
-
  ## Digital Integrity GmbH - Home
  - [https://digint.ch](https://digint.ch)
  - date_published: 2023-03-25T16:45:16+00:00
@@ -4014,4 +4002,16 @@
  ## netinfluence
  - [https://www.netinfluence.ch](https://www.netinfluence.ch)
  - date_published: 2024-07-21T06:28:08.935841+00:00
+
+ ## Netzpodcast - Digitale Gesellschaft
+ - [https://netzpodcast.ch](https://netzpodcast.ch)
+ - date_published: 2024-07-24T16:25:20.797084+00:00
+
+ ## Netzpolitischer Abend - Digitale Gesellschaft
+ - [https://netzpolitischer-abend.ch](https://netzpolitischer-abend.ch)
+ - date_published: 2024-04-29T05:58:19.219174+00:00
+
+ ## Ville de Neuchâtel
+ - [https://www.neuchatelville.ch](https://www.neuchatelville.ch)
+ - date_published: 2024-10-17T22:13:13.386525+00:00
 

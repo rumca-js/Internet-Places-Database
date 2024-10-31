@@ -1285,7 +1285,7 @@
 
  ## OpenDoc AI - Next Gen AI for Productivity
  - [https://www.opendoc.ai](https://www.opendoc.ai)
- - date_published: 2024-06-19T20:57:13.788435+00:00
+ - date_published: 2024-01-24T22:44:22+00:00
 
  ## AI ART Generator - Free Text to Image in OpenDream
  - [https://opendream.ai](https://opendream.ai)
@@ -1519,10 +1519,6 @@
  ## Olivia
  - [https://stg.paradox.ai](https://stg.paradox.ai)
  - date_published: 2024-06-18T13:52:20.421988+00:00
-
- ## Conversational hiring software that gets work done for you — Paradox
- - [https://www.paradox.ai](https://www.paradox.ai)
- - date_published: 2024-09-04T00:00:00+00:00
 
  ## Parafin – AI-Powered Real Estate Development
  - [http://parafin.ai](http://parafin.ai)
@@ -4021,4 +4017,8 @@
  ## Loading...
  - [https://euserv.superops.ai](https://euserv.superops.ai)
  - date_published: 2024-07-12T14:41:25+00:00
+
+ ## Modern PSA-RMM Software for MSPs and IT teams | SuperOps
+ - [https://superops.ai](https://superops.ai)
+ - date_published: 2024-05-10T06:32:23.608347+00:00
 

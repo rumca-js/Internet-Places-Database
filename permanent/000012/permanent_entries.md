@@ -1,7 +1,3 @@
- ## Piles Duracell Belgique | L'entreprise de piles grand public numéro 1 en mondial
- - [https://www.duracell.be](https://www.duracell.be)
- - date_published: 2024-07-22T07:23:05+00:00
-
  ## Dylan Van Assche
  - [https://dylanvanassche.be](https://dylanvanassche.be)
  - date_published: 2024-05-09T08:01:35.127415+00:00
@@ -2074,10 +2070,6 @@ La LUSS est la fédération francophone des associations de patients et de proch
  - [https://photos.nexuscommunication.be](https://photos.nexuscommunication.be)
  - date_published: 2024-05-04T06:18:11.662190+00:00
 
- ## Nexus Communication I Fleet & Mobility Media I Belgium
- - [https://www.nexuscommunication.be](https://www.nexuscommunication.be)
- - date_published: 2024-06-19T15:11:22.178564+00:00
-
  ## Onze geodata zetten u op de kaart - NGI
  - [https://www.ngi.be](https://www.ngi.be)
  - date_published: 2024-06-21T00:00:00+00:00
@@ -4017,4 +4009,12 @@ La LUSS est la fédération francophone des associations de patients et de proch
  ## Yago, le courtier qui donne l'esprit tranquille
  - [https://www.yago.be](https://www.yago.be)
  - date_published: 2024-10-15T15:43:57.200871+00:00
+
+ ## Yapaka
+ - [http://www.yapaka.be](http://www.yapaka.be)
+ - date_published: 2024-09-11T19:42:20.717845+00:00
+
+ ## YAWn!
+ - [http://www.yawn.be](http://www.yawn.be)
+ - date_published: 2018-05-10T07:08:38+00:00
 

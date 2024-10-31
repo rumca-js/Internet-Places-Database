@@ -1,10 +1,3 @@
- ## Mindsers Shop - Merchandising, T-Shirt, Sticker pour les développeurs
- - [https://shop.mindsers.blog](https://shop.mindsers.blog)
- - date_published: 2024-07-14T09:11:40.742663+00:00
-
- - [https://miris.blog](https://miris.blog)
- - date_published: 2024-02-26T09:12:32.456732+00:00
-
  ## mixable Blog | A mix of digital topics.
  - [https://mixable.blog](https://mixable.blog)
  - date_published: 2024-04-30T00:00:00+00:00
@@ -4041,4 +4034,12 @@ Educação
  ## MASP - Exposição Virtual DEGAS
  - [https://www.maspdegas.com.br](https://www.maspdegas.com.br)
  - date_published: 2021-08-02T19:35:36+00:00
+
+ ## Mastercard - Uma empresa global de tenologia da indústria de meios de pagamento
+ - [https://www.mastercard.com.br](https://www.mastercard.com.br)
+ - date_published: 2024-10-11T18:25:23+00:00
+
+ ## Mediastream | Impulsione sua estratégia de áudio e vídeo
+ - [https://www.mediastream.com.br](https://www.mediastream.com.br)
+ - date_published: 2024-09-05T00:00:00+00:00
 

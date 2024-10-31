@@ -1,8 +1,4 @@
  ## Static Template
- - [https://q14t91.csb.app](https://q14t91.csb.app)
- - date_published: 2024-06-16T05:46:11.027244+00:00
-
- ## Static Template
  - [https://q3235z.csb.app](https://q3235z.csb.app)
  - date_published: 2024-09-26T10:06:11.159074+00:00
 
@@ -301,7 +297,7 @@
 
  ## EditAir: AI-Driven Video Editing
  - [https://www.editair.app](https://www.editair.app)
- - date_published: 2024-06-19T21:11:08.612781+00:00
+ - date_published: 2024-01-24T20:43:12+00:00
 
  ## eesel - The new tab for work
  - [https://www.eesel.app](https://www.eesel.app)
@@ -702,7 +698,7 @@
 
  ## FoodAI.app | Generate cooking recipes with AI!
  - [https://www.foodai.app](https://www.foodai.app)
- - date_published: 2024-06-19T20:39:49.896690+00:00
+ - date_published: 2024-01-24T19:43:43+00:00
 
  ## AI-powered Resource and Project Management Software | Forecast App
  - [https://www.forecast.app](https://www.forecast.app)
@@ -4031,4 +4027,8 @@
  ## Hire with a Talent Expert
  - [https://www.about.pangea.app](https://www.about.pangea.app)
  - date_published: 2024-07-23T00:00:00+00:00
+
+ ## Become a security pro - Panoptica Academy
+ - [https://academy.panoptica.app](https://academy.panoptica.app)
+ - date_published: 2024-01-24T00:00:00+00:00
 

@@ -1,12 +1,3 @@
- ## Dominick Schroer's Blog
- - [https://schroer.ca](https://schroer.ca)
- - date_published: 2023-10-25T09:02:45.716038+00:00
- - tags: ['personal']
-
- ## CSPC - Canadian Science Policy Centre
- - [https://sciencepolicy.ca](https://sciencepolicy.ca)
- - date_published: 2024-06-17T00:00:00+00:00
-
  ## CSPC – Canadian Science Policy Centre
  - [https://sciencepolicyconference.ca](https://sciencepolicyconference.ca)
  - date_published: 2024-07-13T14:38:28+00:00
@@ -4026,4 +4017,12 @@
  ## List Index - CSC Mailman
  - [https://mailman.csclub.uwaterloo.ca](https://mailman.csclub.uwaterloo.ca)
  - date_published: 2024-04-30T05:31:16.864412+00:00
+
+ ## A powerhouse of discovery and innovation | Mathematics
+ - [https://math.uwaterloo.ca](https://math.uwaterloo.ca)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Computer Science Club Open Source Software Mirror
+ - [https://mirror.csclub.uwaterloo.ca](https://mirror.csclub.uwaterloo.ca)
+ - date_published: 2024-07-20T00:00:00+00:00
 

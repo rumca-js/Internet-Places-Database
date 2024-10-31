@@ -1,11 +1,3 @@
- ## A powerhouse of discovery and innovation | Mathematics
- - [https://math.uwaterloo.ca](https://math.uwaterloo.ca)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Computer Science Club Open Source Software Mirror
- - [https://mirror.csclub.uwaterloo.ca](https://mirror.csclub.uwaterloo.ca)
- - date_published: 2024-07-20T00:00:00+00:00
-
  ## Reliable Computer Systems Lab -
  - [https://rcs.uwaterloo.ca](https://rcs.uwaterloo.ca)
  - date_published: 2022-02-14T19:30:07+00:00
@@ -4012,4 +4004,12 @@
  ## dict.cc | Bosnian-German dictionary | Njemačko-bosanski rječnik
  - [https://bsde.dict.cc](https://bsde.dict.cc)
  - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | Bosnian-English dictionary | Englesko-bosanski rječnik
+ - [https://bsen.dict.cc](https://bsen.dict.cc)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## dict.cc | German-English dictionary
+ - [https://contribute.dict.cc](https://contribute.dict.cc)
+ - date_published: 2024-07-17T00:00:00+00:00
 

@@ -1,11 +1,3 @@
- ## Alberta Innovates
- - [http://albertainnovates.ca](http://albertainnovates.ca)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Home
- - [http://www.albertasulphurresearch.ca](http://www.albertasulphurresearch.ca)
- - date_published: 2024-07-20T06:53:37+00:00
-
  ## Home - Osten & Victor Alberta Tennis Centre
  - [http://www.albertatenniscentre.ca](http://www.albertatenniscentre.ca)
  - date_published: 2024-10-17T18:18:39.147663+00:00
@@ -4029,4 +4021,12 @@
  ## index
  - [http://hearsum.ca](http://hearsum.ca)
  - date_published: 2015-01-26T16:07:05+00:00
+
+ ## Chaire de commerce Omer DeSerres – Un site utilisant WordPress
+ - [https://chaireomerdesserres.hec.ca](https://chaireomerdesserres.hec.ca)
+ - date_published: 2024-04-30T05:55:32.432328+00:00
+
+ ## HEC Montréal. Là où les possibilités se créent
+ - [https://hec.ca](https://hec.ca)
+ - date_published: 2024-07-20T04:53:17+00:00
 

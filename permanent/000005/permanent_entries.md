@@ -1,7 +1,3 @@
- ## Become a security pro - Panoptica Academy
- - [https://academy.panoptica.app](https://academy.panoptica.app)
- - date_published: 2024-01-24T00:00:00+00:00
-
  ## Cisco Panoptica
  - [https://docs.panoptica.app](https://docs.panoptica.app)
  - date_published: 2024-08-18T09:47:51.806861+00:00
@@ -2456,7 +2452,7 @@
 
  ## AI Code Reviewer
  - [https://code-reviewer.vercel.app](https://code-reviewer.vercel.app)
- - date_published: 2024-06-19T19:41:39.657349+00:00
+ - date_published: 2024-01-24T17:53:22+00:00
 
  ## Code Sound
  - [https://code-sound.vercel.app](https://code-sound.vercel.app)
@@ -4018,4 +4014,8 @@
  ## sphere wif hat
  - [https://wif-sphere.vercel.app](https://wif-sphere.vercel.app)
  - date_published: 2024-06-22T12:42:01.497953+00:00
+
+ ## WindLand - By Neotix
+ - [https://windland-neotix.vercel.app](https://windland-neotix.vercel.app)
+ - date_published: 2024-08-06T20:06:03.171242+00:00
 

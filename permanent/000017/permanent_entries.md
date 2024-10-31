@@ -1,11 +1,3 @@
- ## Chaire de commerce Omer DeSerres – Un site utilisant WordPress
- - [https://chaireomerdesserres.hec.ca](https://chaireomerdesserres.hec.ca)
- - date_published: 2024-04-30T05:55:32.432328+00:00
-
- ## HEC Montréal. Là où les possibilités se créent
- - [https://hec.ca](https://hec.ca)
- - date_published: 2024-07-20T04:53:17+00:00
-
  ## Heige S. Boehm
  - [https://www.heigeboehm.ca](https://www.heigeboehm.ca)
  - date_published: 2024-08-18T09:51:11.829665+00:00
@@ -4039,4 +4031,13 @@
  ## Ackee
  - [https://eyes.schroer.ca](https://eyes.schroer.ca)
  - date_published: 2024-04-30T05:03:44.595986+00:00
+
+ ## Dominick Schroer's Blog
+ - [https://schroer.ca](https://schroer.ca)
+ - date_published: 2023-10-25T09:02:45.716038+00:00
+ - tags: ['personal']
+
+ ## CSPC - Canadian Science Policy Centre
+ - [https://sciencepolicy.ca](https://sciencepolicy.ca)
+ - date_published: 2024-06-17T00:00:00+00:00
 

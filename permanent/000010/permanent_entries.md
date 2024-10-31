@@ -1,7 +1,3 @@
- ## Houses & Apartments, Property for Sale | view.com.au
- - [https://view.com.au](https://view.com.au)
- - date_published: 2024-05-09T00:00:00+00:00
-
  ## View Insurance
  - [https://viewinsurance.com.au](https://viewinsurance.com.au)
  - date_published: 2024-05-09T06:37:40.252148+00:00
@@ -4020,4 +4016,8 @@ University of Technology
  ## Membership | Login
  - [https://community.cew.org.au](https://community.cew.org.au)
  - date_published: 2024-09-18T03:10:10+00:00
+
+ ## CFTogether
+ - [https://www.cfcc.org.au](https://www.cfcc.org.au)
+ - date_published: 2024-07-04T00:27:57+00:00
 

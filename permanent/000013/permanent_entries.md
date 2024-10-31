@@ -1,11 +1,3 @@
- ## Yapaka
- - [http://www.yapaka.be](http://www.yapaka.be)
- - date_published: 2024-09-11T19:42:20.717845+00:00
-
- ## YAWn!
- - [http://www.yawn.be](http://www.yawn.be)
- - date_published: 2018-05-10T07:08:38+00:00
-
  ## Yelp
  - [https://en.m.yelp.be](https://en.m.yelp.be)
  - date_published: 2024-07-01T06:56:57.999578+00:00
@@ -4063,4 +4055,11 @@
  ## Mindsers Blog: Inspirer les devs, un article à la fois
  - [https://mindsers.blog](https://mindsers.blog)
  - date_published: 2024-05-11T10:18:14.861792+00:00
+
+ ## Mindsers Shop - Merchandising, T-Shirt, Sticker pour les développeurs
+ - [https://shop.mindsers.blog](https://shop.mindsers.blog)
+ - date_published: 2024-07-14T09:11:40.742663+00:00
+
+ - [https://miris.blog](https://miris.blog)
+ - date_published: 2024-02-26T09:12:32.456732+00:00
 

@@ -1,7 +1,3 @@
- ## oesterreich.gv.at – Startseite
- - [https://oesterreich.gv.at](https://oesterreich.gv.at)
- - date_published: 2024-05-11T07:10:33.779112+00:00
-
  ## DORIS interMAP - Startseite
  - [https://doris.ooe.gv.at](https://doris.ooe.gv.at)
  - date_published: 2024-09-13T16:18:53.098290+00:00
@@ -4017,4 +4013,8 @@
  ## HSG SHOP
  - [https://hsgshop.com.au](https://hsgshop.com.au)
  - date_published: 2024-08-18T00:00:00+00:00
+
+ ## HuffPost - Breaking News, U.S. and World News
+ - [https://huffingtonpost.com.au](https://huffingtonpost.com.au)
+ - date_published: 2024-05-02T11:55:35.412808+00:00
 

@@ -1,1017 +1,3 @@
- ## Alaska Job Center Network
- - [https://jobs.alaska.gov](https://jobs.alaska.gov)
- - date_published: 2024-05-10T19:35:17+00:00
-
- ## DOLWD Home Page
- - [https://labor.alaska.gov](https://labor.alaska.gov)
- - date_published: 2024-03-28T18:49:52+00:00
-
- ## State of Alaska | Dept of Labor | Research and Anaylsis
- - [https://laborstats.alaska.gov](https://laborstats.alaska.gov)
- - date_published: 2023-06-14T21:41:27+00:00
-
- ## Libraries, Archives, Museums: Alaska State Libraries, Archives &amp; Museums: Home
- - [https://lam.alaska.gov](https://lam.alaska.gov)
- - date_published: 2024-07-03T13:02:38.206951+00:00
-
- ## Alaska Department of Law
- - [http://law.alaska.gov](http://law.alaska.gov)
- - date_published: 2024-07-03T12:56:17.688174+00:00
-
- ## Home | Alaska State Library
- - [https://library.alaska.gov](https://library.alaska.gov)
- - date_published: 2024-07-03T13:04:01.215322+00:00
-
- ## Research and Analysis Department of Labor
- - [https://live.laborstats.alaska.gov](https://live.laborstats.alaska.gov)
- - date_published: 2024-07-03T13:03:54+00:00
-
- ## Alaska Lieutenant Governor Nancy Dahlstrom, 15th lieutenant governor for the State of Alaska – Office of Lt. Governor
- - [http://ltgov.alaska.gov](http://ltgov.alaska.gov)
- - date_published: 2024-07-03T12:54:22.948480+00:00
-
- ## Home Page - Alaska Mapper
- - [https://mapper.dnr.alaska.gov](https://mapper.dnr.alaska.gov)
- - date_published: 2024-07-03T12:52:35.041180+00:00
-
- ## myAlaska - Welcome
- - [https://my.alaska.gov](https://my.alaska.gov)
- - date_published: 2024-05-08T02:33:56.125866+00:00
-
- ## myPFD - Permanent Fund Dividend Division | State of Alaska
- - [https://myinfo.pfd.dor.alaska.gov](https://myinfo.pfd.dor.alaska.gov)
- - date_published: 2024-07-03T12:52:07.984819+00:00
-
- ## Alaska My Voter Information
- - [https://myvoterinformation.alaska.gov](https://myvoterinformation.alaska.gov)
- - date_published: 2024-05-01T03:01:08.808312+00:00
-
- ## Voter Information Lookup - Division of Elections
- - [https://myvoterportal.alaska.gov](https://myvoterportal.alaska.gov)
- - date_published: 2024-07-03T07:25:23.915826+00:00
-
- ## Sign In
- - [https://nabcsprovider.dhss.alaska.gov](https://nabcsprovider.dhss.alaska.gov)
- - date_published: 2024-07-03T12:52:49.251049+00:00
-
- ## Alaska Ombudsman
- - [http://ombud.alaska.gov](http://ombud.alaska.gov)
- - date_published: 2024-07-03T12:54:31.487393+00:00
-
- ## Alaska Department of Revenue - Permanent Fund Dividend
- - [https://pfd.alaska.gov](https://pfd.alaska.gov)
- - date_published: 2024-07-03T12:56:23.575673+00:00
-
- ## Alaska Plant Materials Center | Division of Agriculture
- - [https://plants.alaska.gov](https://plants.alaska.gov)
- - date_published: 2024-09-18T20:29:58.100181+00:00
-
- ## DHS&EM | Home
- - [https://ready.alaska.gov](https://ready.alaska.gov)
- - date_published: 2024-07-03T13:04:13.235447+00:00
-
- ## RWIS
- - [http://roadweather.alaska.gov](http://roadweather.alaska.gov)
- - date_published: 2024-02-07T18:54:50+00:00
-
- ## Home Page, Alaska Department of Fish and Game
- - [https://secure.wildlife.alaska.gov](https://secure.wildlife.alaska.gov)
- - date_published: 2024-05-08T02:33:34.794074+00:00
-
- ## Alaska Seismic Hazards Safety Commission
- - [https://seismic.alaska.gov](https://seismic.alaska.gov)
- - date_published: 2024-09-18T20:31:37.062123+00:00
-
- ## Alaska Department of Revenue - Tax Division
- - [https://tax.alaska.gov](https://tax.alaska.gov)
- - date_published: 2024-07-03T13:04:11.367880+00:00
-
- ## Treasury
- - [https://treasury.dor.alaska.gov](https://treasury.dor.alaska.gov)
- - date_published: 2024-07-03T13:01:45.515410+00:00
-
- ## AK Unclaimed Property
- - [https://unclaimedproperty.alaska.gov](https://unclaimedproperty.alaska.gov)
- - date_published: 2024-06-26T17:19:00+00:00
-
- ## Violent Crimes Compensation Board - State of Alaska
- - [https://vccb.alaska.gov](https://vccb.alaska.gov)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## - My ASP.NET Application
- - [https://veterans.alaska.gov](https://veterans.alaska.gov)
- - date_published: 2024-07-03T12:56:19.302555+00:00
-
- ## ALASKA - Online Voter Registration
- - [https://voterregistration.alaska.gov](https://voterregistration.alaska.gov)
- - date_published: 2024-05-01T03:00:54.077489+00:00
-
- ## Styles Catalog, State of Alaska
- - [https://webcontent.alaska.gov](https://webcontent.alaska.gov)
- - date_published: 2017-10-26T21:05:51+00:00
-
- ## Home Page, Alaska Department of Fish and Game
- - [https://adfg.alaska.gov](https://adfg.alaska.gov)
- - date_published: 2024-01-09T03:30:18.597858+00:00
-
- ## State of Alaska
- - [https://alaska.gov](https://alaska.gov)
- - date_published: 2024-05-08T02:34:06.604573+00:00
-
- ## Redirecting to COVID-19 webpage
- - [https://www.covid19.alaska.gov](https://www.covid19.alaska.gov)
- - date_published: 2024-07-03T13:02:51.284248+00:00
-
- ## Draw, Tier I, Tier II, and Community Subsistence Harvest Results, Alaska Department of Fish and Game
- - [https://drawresults.adfg.alaska.gov](https://drawresults.adfg.alaska.gov)
- - date_published: 2024-05-08T02:33:37.259845+00:00
-
- ## Alaska State Capitol | Juneau, Alaska's charming capital city, is home to the Alaska State Capitol. Built in 1931, this unique capitol building features a neoclassical design and serves as the seat of the state government.  If you're visiting Juneau, be sure to explore the capitol for a glimpse into Alaska's history and lawmaking process.
- - [https://alaskacapitol.gov](https://alaskacapitol.gov)
- - date_published: 2024-07-03T12:54:55.054523+00:00
-
- ## City of Alexandria, VA
- - [https://www.alexandriava.gov](https://www.alexandriava.gov)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Home - Allen County Election Board
- - [https://allencountyinvoters.gov](https://allencountyinvoters.gov)
- - date_published: 2023-12-14T00:00:00+00:00
-
- ## Alzheimer's Home Page | Alzheimers.gov
- - [https://www.alzheimers.gov](https://www.alzheimers.gov)
- - date_published: 2024-08-19T03:49:30.083757+00:00
-
- ## Homepage
- - [https://share.america.gov](https://share.america.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home | AmeriCorps
- - [https://americorps.gov](https://americorps.gov)
- - date_published: 2024-05-01T02:34:31.567446+00:00
-
- ## Find Answers
- - [https://questions.americorps.gov](https://questions.americorps.gov)
- - date_published: 2024-06-15T06:14:54.360055+00:00
-
- ## Home | AmeriCorps
- - [https://americorpsoig.gov](https://americorpsoig.gov)
- - date_published: 2024-06-15T06:07:22+00:00
-
- ## We Create Materials and Energy Solutions
- - [https://www.ameslab.gov](https://www.ameslab.gov)
- - date_published: 2024-08-18T11:43:01+00:00
-
- ## Amherst Maps | Amherst, MA - Official Website
- - [https://gis.amherstma.gov](https://gis.amherstma.gov)
- - date_published: 2024-08-18T17:47:56.451516+00:00
-
- ## AMTRAK Office Of Inspector General | Independence. Objectivity. Oversight.
- - [https://www.amtrakoig.gov](https://www.amtrakoig.gov)
- - date_published: 2024-06-27T11:51:13+00:00
-
- ## ALCF Accounts
- - [https://accounts.alcf.anl.gov](https://accounts.alcf.anl.gov)
- - date_published: 2024-07-03T13:06:17.043664+00:00
-
- ## Aurora | Argonne Leadership Computing Facility
- - [https://aurora.alcf.anl.gov](https://aurora.alcf.anl.gov)
- - date_published: 2024-07-03T10:43:13+00:00
-
- ## About Us | COMPUTATIONAL SCIENCE AND ARTIFICIAL INTELLIGENCE (CAI)
- - [https://cai.xray.aps.anl.gov](https://cai.xray.aps.anl.gov)
- - date_published: 2024-07-03T13:05:35.367293+00:00
-
- ## ALCF User Guides
- - [https://docs.alcf.anl.gov](https://docs.alcf.anl.gov)
- - date_published: 2024-07-03T13:06:05.280466+00:00
-
- ## Log in | Advanced Photon Source
- - [https://inside.aps.anl.gov](https://inside.aps.anl.gov)
- - date_published: 2024-07-03T13:05:26.556578+00:00
-
- ## Information and Publishing Division
- - [https://publications.anl.gov](https://publications.anl.gov)
- - date_published: 2024-08-02T23:32:43.361053+00:00
-
- ## www3.aps.anl.gov
- - [https://www3.aps.anl.gov](https://www3.aps.anl.gov)
- - date_published: 2024-07-03T13:05:24.492355+00:00
-
- ## Home | Argonne Leadership Computing Facility
- - [https://alcf.anl.gov](https://alcf.anl.gov)
- - date_published: 2024-05-08T02:34:17.564041+00:00
-
- ## Argonne National Laboratory Homepage | Argonne National Laboratory
- - [https://www.anl.gov](https://www.anl.gov)
- - date_published: 2023-10-25T19:17:52.526159+00:00
-
- ## The Advanced Photon Source (APS)
- - [https://aps.anl.gov](https://aps.anl.gov)
- - date_published: 2024-05-08T02:34:14.971970+00:00
-
- ## GM/CA Structural Biology Facility at the Advanced Photon Source :: GM/CA @ APS
- - [http://www.gmca.aps.anl.gov](http://www.gmca.aps.anl.gov)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.igsb.anl.gov](http://www.igsb.anl.gov)
- - date_published: 2024-07-01T22:31:43.248769+00:00
-
- ## Mathematics and Computer Science | Argonne National Laboratory
- - [https://www.mcs.anl.gov](https://www.mcs.anl.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Mathematics and Computer Science | Argonne National Laboratory
- - [https://www-unix.mcs.anl.gov](https://www-unix.mcs.anl.gov)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Annapolis, MD | Official Website
- - [https://www.annapolis.gov](https://www.annapolis.gov)
- - date_published: 2024-06-22T18:48:15.209575+00:00
-
- ## Aquatic Nuisance Species Task Force | U.S. Fish & Wildlife Service
- - [https://www.anstaskforce.gov](https://www.anstaskforce.gov)
- - date_published: 2024-06-16T20:59:49+00:00
-
- ## City of Antioch, California
- - [https://www.antiochca.gov](https://www.antiochca.gov)
- - date_published: 2017-04-01T00:00:00+00:00
-
- ## Architect of the Capitol | Serve, Preserve, Inspire
- - [http://www.aoc.gov](http://www.aoc.gov)
- - date_published: 2024-06-27T14:00:37+00:00
-
- ## Apprenticeship.gov
- - [https://apprenticeship.gov](https://apprenticeship.gov)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## AQMD - Home
- - [https://aqmd.gov](https://aqmd.gov)
- - date_published: 2024-05-09T05:36:33.391865+00:00
-
- ## Appalachian Regional Commission - Investing in Appalachia's economic future.
- - [https://arc.gov](https://arc.gov)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## City of Arcadia – See our famous historic downtown antique district.
- - [https://arcadia-fl.gov](https://arcadia-fl.gov)
- - date_published: 2024-07-03T14:32:53.574321+00:00
-
- ## 1940 Census FAQs
- - [https://1940census.archives.gov](https://1940census.archives.gov)
- - date_published: 2016-08-15T21:27:07+00:00
-
- ## 1950 Census - Home | 1950 Census
- - [https://1950census.archives.gov](https://1950census.archives.gov)
- - date_published: 2023-08-21T15:22:00+00:00
-
- ## The National Archives Blogs
- - [http://blogs.archives.gov](http://blogs.archives.gov)
- - date_published: 2016-09-01T11:28:13+00:00
-
- ## George H.W. Bush Presidential Library and Museum
- - [https://bush41library.archives.gov](https://bush41library.archives.gov)
- - date_published: 2020-07-08T18:56:59+00:00
-
- ## National Archives NextGen Catalog
- - [https://catalog.archives.gov](https://catalog.archives.gov)
- - date_published: 2024-05-09T09:11:54.862652+00:00
-
- ## Homepage | Civics for All of US
- - [https://civics.archives.gov](https://civics.archives.gov)
- - date_published: 2024-06-27T09:44:46+00:00
-
- ## National Archives and Records Administration Redirect
- - [https://estore.archives.gov](https://estore.archives.gov)
- - date_published: 2024-07-14T07:15:47.900672+00:00
-
- ## Founders Online: Home
- - [https://founders.archives.gov](https://founders.archives.gov)
- - date_published: 2024-06-29T18:24:00.590647+00:00
-
- ## The Herbert Hoover Presidential Library and Museum
- - [https://hoover.archives.gov](https://hoover.archives.gov)
- - date_published: 2024-06-29T18:03:01+00:00
-
- ## The John F. Kennedy Presidential Library and Museum
- - [https://jfklibrary.archives.gov](https://jfklibrary.archives.gov)
- - date_published: 2020-07-08T18:58:05+00:00
-
- ## Lyndon B. Johnson Presidential Library and Museum
- - [https://lbjlibrary.archives.gov](https://lbjlibrary.archives.gov)
- - date_published: 2020-07-08T18:58:29+00:00
-
- ## National Archives Museum
- - [https://museum.archives.gov](https://museum.archives.gov)
- - date_published: 2024-05-08T02:34:39.359940+00:00
-
- ## The White House
- - [https://obamawhitehouse.archives.gov](https://obamawhitehouse.archives.gov)
- - date_published: 2015-03-12T21:57:02+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.archives.gov](https://search.archives.gov)
- - date_published: 2024-05-08T02:34:29.941914+00:00
-
- ## Transforming Classification
- - [https://transforming-classification.blogs.archives.gov](https://transforming-classification.blogs.archives.gov)
- - date_published: 2024-05-06T22:26:37.365874+00:00
-
- ## The White House – The White House
- - [https://trumpwhitehouse.archives.gov](https://trumpwhitehouse.archives.gov)
- - date_published: 2024-05-07T15:28:56.542946+00:00
-
- ## The Unwritten Record
- - [https://unwritten-record.blogs.archives.gov](https://unwritten-record.blogs.archives.gov)
- - date_published: 2024-08-11T14:37:42.979302+00:00
-
- ## National Archives |
- - [https://archives.gov](https://archives.gov)
- - date_published: 2023-10-25T19:17:54.767250+00:00
- - tags: ['archives', 'library']
-
- ## Home < adpht.arkansas.gov
- - [https://adpht.arkansas.gov](https://adpht.arkansas.gov)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Arkansas.gov
- - [https://portal.arkansas.gov](https://portal.arkansas.gov)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Home - Arkansas State Library
- - [https://www.library.arkansas.gov](https://www.library.arkansas.gov)
- - date_published: 2024-08-18T06:21:25.726128+00:00
-
- ## Validation request
- - [https://sos.arkansas.gov](https://sos.arkansas.gov)
- - date_published: 2024-04-02T18:06:57.055047+00:00
-
- ## Home
- - [https://arpa-h.gov](https://arpa-h.gov)
- - date_published: 2024-05-01T02:44:33.967756+00:00
-
- ## National Endowment for the Arts Home Page
- - [http://arts.gov](http://arts.gov)
- - date_published: 2024-06-21T13:58:33+00:00
-
- ## National Endowment for the Arts Home Page
- - [https://www.arts.gov](https://www.arts.gov)
- - date_published: 2024-05-04T14:26:34.204460+00:00
-
- ## City of Ashland Oregon Hub
- - [https://maps.ashlandoregon.gov](https://maps.ashlandoregon.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Bureau of Alcohol, Tobacco, Firearms and Explosives |
- - [https://www.atf.gov](https://www.atf.gov)
- - date_published: 2024-07-03T23:43:26+00:00
-
- ## Atlanta, GA | Home
- - [http://www.atlantaga.gov](http://www.atlantaga.gov)
- - date_published: 2024-07-12T19:50:32+00:00
-
- ## Home
- - [https://www.attorneygeneral.gov](https://www.attorneygeneral.gov)
- - date_published: 2024-04-23T21:24:10+00:00
- - tags: ['attorney general']
-
- ## Home | AustinTexas.gov
- - [https://austintexas.gov](https://austintexas.gov)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Austin Finance Online
- - [https://financeonline.austintexas.gov](https://financeonline.austintexas.gov)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home | AustinTexas.gov
- - [https://services.austintexas.gov](https://services.austintexas.gov)
- - date_published: 2024-06-23T18:49:01+00:00
-
- ## Home | AustinTexas.gov
- - [http://www.austintexas.gov](http://www.austintexas.gov)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Aviation Weather Center
- - [http://aviationweather.gov](http://aviationweather.gov)
- - date_published: 2024-06-17T20:49:24+00:00
-
- ## Home | Logo Signs
- - [https://511logosigns.az.gov](https://511logosigns.az.gov)
- - date_published: 2024-09-18T10:07:11.627491+00:00
-
- ## Homepage | Arizona Department of Agriculture
- - [https://agriculture.az.gov](https://agriculture.az.gov)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Welcome to az.gov | az.gov
- - [https://az.gov](https://az.gov)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## DEMA | Department of Emergency and Military Affairs
- - [https://dema.az.gov](https://dema.az.gov)
- - date_published: 2024-09-18T20:14:35.689967+00:00
-
- ## Arizona Emergency Information Network | Arizona Emergency information Network
- - [https://ein.az.gov](https://ein.az.gov)
- - date_published: 2024-07-09T22:40:22+00:00
-
- ## Arizona Department of Housing | Leading with Solutions
- - [https://housing.az.gov](https://housing.az.gov)
- - date_published: 2024-07-09T22:35:50+00:00
-
- ## OpenBooks |  Arizona's Official Transparency Website
- - [https://openbooks.az.gov](https://openbooks.az.gov)
- - date_published: 2024-07-09T21:57:48+00:00
-
- ## State of Arizona Web Portal
- - [https://static.az.gov](https://static.az.gov)
- - date_published: 2024-09-18T19:40:48+00:00
-
- ## Coconino | Official Website
- - [https://coconino.az.gov](https://coconino.az.gov)
- - date_published: 2024-05-09T06:51:04.623749+00:00
-
- ## Welcome to Arizona Attorney General | Arizona Attorney General
- - [https://www.azag.gov](https://www.azag.gov)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Home | Auditor General
- - [https://www.azauditor.gov](https://www.azauditor.gov)
- - date_published: 2024-07-09T21:51:30+00:00
-
- ## Home
- - [https://azcapitolmuseum.gov](https://azcapitolmuseum.gov)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Arizona Judicial Branch > Home
- - [https://www.azcourts.gov](https://www.azcourts.gov)
- - date_published: 2024-07-09T22:49:53.913155+00:00
-
- ## Home Page - AG Applications
- - [https://applications.azda.gov](https://applications.azda.gov)
- - date_published: 2024-09-18T20:14:33.677944+00:00
-
- ## Subscribe to our Newsletters
- - [https://listsrv.azda.gov](https://listsrv.azda.gov)
- - date_published: 2024-09-18T20:14:30.826772+00:00
-
- ## AZ Direct | Locate State Agencies & Key Contacts
- - [https://azdirect.azdoa.gov](https://azdirect.azdoa.gov)
- - date_published: 2024-07-09T22:45:32+00:00
-
- ## Attention Required! | Cloudflare
- - [https://azed.gov](https://azed.gov)
- - date_published: 2024-05-04T09:56:09.266783+00:00
-
- ## AZ School Report Cards | Home
- - [https://azreportcards.azed.gov](https://azreportcards.azed.gov)
- - date_published: 2024-05-04T09:56:02.045231+00:00
-
- ## Homepage - Arizona Game & Fish Department
- - [https://azgfd.gov](https://azgfd.gov)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Home Page - AZGFD Watercraft
- - [https://watercraft.azgfd.gov](https://watercraft.azgfd.gov)
- - date_published: 2024-07-09T22:52:58.606804+00:00
-
- ## Office of the Arizona Governor Katie Hobbs
- - [https://azgovernor.gov](https://azgovernor.gov)
- - date_published: 2024-07-09T22:32:17+00:00
-
- ## Welcome to the House of Representatives
- - [https://www.azhouse.gov](https://www.azhouse.gov)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## JLBC Home - JLBC Website
- - [https://www.azjlbc.gov](https://www.azjlbc.gov)
- - date_published: 2023-04-28T00:00:00+00:00
-
- ## Arizona State Legislature Web Applications
- - [https://apps.azleg.gov](https://apps.azleg.gov)
- - date_published: 2024-06-15T12:39:08.827547+00:00
-
- ## Arizona Legislature
- - [https://azleg.gov](https://azleg.gov)
- - date_published: 2024-05-09T06:51:27.673350+00:00
-
- ## Welcome to the Arizona State Senate
- - [https://www.azsenate.gov](https://www.azsenate.gov)
- - date_published: 2024-07-09T22:49:59.799370+00:00
-
- ## Cierpliwości...
- - [https://azsos.gov](https://azsos.gov)
- - date_published: 2024-05-11T11:04:09.957334+00:00
-
- ## Homepage | Air District 2023 Annual Report
- - [https://annualreport.baaqmd.gov](https://annualreport.baaqmd.gov)
- - date_published: 2024-07-10T08:35:12+00:00
-
- ## LoginCheck
- - [https://grants.baaqmd.gov](https://grants.baaqmd.gov)
- - date_published: 2024-07-15T11:40:36.547324+00:00
-
- ## BAAQMD
- - [https://myaironline.baaqmd.gov](https://myaironline.baaqmd.gov)
- - date_published: 2024-07-09T05:50:52+00:00
-
- ## BAAQMD
- - [https://baaqmd.gov](https://baaqmd.gov)
- - date_published: 2024-05-12T06:09:55.451052+00:00
-
- ## Mayor Brandon M. Scott
- - [https://mayor.baltimorecity.gov](https://mayor.baltimorecity.gov)
- - date_published: 2024-10-15T18:46:41+00:00
-
- ## Welcome to the Department of Planning
- - [https://planning.baltimorecity.gov](https://planning.baltimorecity.gov)
- - date_published: 2016-01-06T15:36:06+00:00
-
- ## ERROR: The request could not be satisfied
- - [https://www.baltimorecountymd.gov](https://www.baltimorecountymd.gov)
- - date_published: 2024-06-22T18:48:08.906657+00:00
-
- ## A web page that points a browser to a different page after 2 seconds
- - [https://banknet.gov](https://banknet.gov)
- - date_published: 2017-09-09T00:55:08+00:00
-
- ## Cierpliwości...
- - [https://bart.gov](https://bart.gov)
- - date_published: 2024-04-29T08:12:58.729413+00:00
-
- ## Bay County, FL | Official Website
- - [http://baycountyfl.gov](http://baycountyfl.gov)
- - date_published: 2024-06-29T23:25:25.999209+00:00
-
- ## We're sorry - something went wrong. 403
- - [https://search.bea.gov](https://search.bea.gov)
- - date_published: 2024-05-08T02:34:47.798854+00:00
-
- ## U.S. Bureau of Economic Analysis (BEA)
- - [https://bea.gov](https://bea.gov)
- - date_published: 2023-10-25T19:18:02.924414+00:00
-
- ## Welcome To BELLEVUE, IA
- - [http://bellevueia.gov](http://bellevueia.gov)
- - date_published: 2024-06-29T16:04:27.151648+00:00
-
- ## Log in | Benefits API
- - [https://api.benefits.gov](https://api.benefits.gov)
- - date_published: 2024-06-30T23:22:44+00:00
-
- ## Welcome to SSA BEST
- - [https://ssabest.benefits.gov](https://ssabest.benefits.gov)
- - date_published: 2023-11-09T16:11:50+00:00
-
- ## Welcome to Benefits.gov | Benefits.Gov
- - [https://benefits.gov](https://benefits.gov)
- - date_published: 2024-05-08T02:45:42.766059+00:00
-
- ## Home | Engraving & Printing
- - [https://www.bep.gov](https://www.bep.gov)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## The City of Berkeley
- - [https://berkeleyca.gov](https://berkeleyca.gov)
- - date_published: 2024-06-25T15:35:16+00:00
-
- ## Berkeley County Animal Center
- - [https://animalcenter.berkeleycountysc.gov](https://animalcenter.berkeleycountysc.gov)
- - date_published: 2024-06-21T14:30:24.568310+00:00
-
- ## Bernalillo County Clerk | Linda Stover
- - [https://www.berncoclerk.gov](https://www.berncoclerk.gov)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## | Indian Affairs
- - [https://bia.gov](https://bia.gov)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Homepage | Bureau of Industry and Security
- - [https://beta.bis.gov](https://beta.bis.gov)
- - date_published: 2024-05-08T02:45:06.989902+00:00
-
- ## Homepage | Bureau of Industry and Security
- - [https://bis.gov](https://bis.gov)
- - date_published: 2024-05-08T02:45:04.559679+00:00
-
- ## Home
- - [https://www.bjs.gov](https://www.bjs.gov)
- - date_published: 2024-09-06T16:25:25+00:00
-
- ## Black History Month 2024
- - [https://www.blackhistorymonth.gov](https://www.blackhistorymonth.gov)
- - date_published: 2024-09-18T04:05:20.869161+00:00
-
- ## EplanningUi
- - [https://eplanning.blm.gov](https://eplanning.blm.gov)
- - date_published: 2024-05-04T06:55:59.263144+00:00
-
- ## Alaska Interagency Coordination Center
- - [https://fire.ak.blm.gov](https://fire.ak.blm.gov)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home - BLM GLO Records
- - [https://glorecords.blm.gov](https://glorecords.blm.gov)
- - date_published: 2024-05-07T15:02:58.239086+00:00
-
- ## Pathfinder
- - [https://glorecords.pathfinder.blm.gov](https://glorecords.pathfinder.blm.gov)
- - date_published: 2022-10-26T21:02:46+00:00
-
- ## Home | Bureau of Land Management
- - [https://www.blm.gov](https://www.blm.gov)
- - date_published: 2024-05-06T14:45:30.931313+00:00
-
- ## home :  U.S. Bureau of Labor Statistics
- - [https://beta.bls.gov](https://beta.bls.gov)
- - date_published: 2022-10-14T00:00:00+00:00
-
- ## Databases, Tables & Calculators by Subject
- - [https://data.bls.gov](https://data.bls.gov)
- - date_published: 2024-05-08T02:35:00.436418+00:00
-
- ## download.bls.gov - /
- - [https://download.bls.gov](https://download.bls.gov)
- - date_published: 2024-05-08T02:35:07.690895+00:00
-
- ## U.S. Bureau of Labor Statistics
- - [https://stats.bls.gov](https://stats.bls.gov)
- - date_published: 2024-07-08T10:31:33.597139+00:00
-
- ## U.S. Bureau of Labor Statistics
- - [https://bls.gov](https://bls.gov)
- - date_published: 2023-10-25T19:18:06.559665+00:00
-
- ## BNL | Discovery Park | A new gateway to Brookhaven National Laboratory
- - [https://discoverypark.bnl.gov](https://discoverypark.bnl.gov)
- - date_published: 2024-07-06T23:34:01.886511+00:00
-
- ## Careers at Brookhaven National Laboratory
- - [https://jobs.bnl.gov](https://jobs.bnl.gov)
- - date_published: 2024-07-06T23:34:04.133437+00:00
-
- ## Brookhaven National Laboratory — a passion for discovery
- - [https://bnl.gov](https://bnl.gov)
- - date_published: 2024-03-16T00:00:00+00:00
-
- ## NNDC | National Nuclear Data Center
- - [https://www.nndc.bnl.gov](https://www.nndc.bnl.gov)
- - date_published: 2024-01-31T09:06:38+00:00
-
- ## BNL | Relativistic Heavy Ion Collider (RHIC)
- - [http://www.rhic.bnl.gov](http://www.rhic.bnl.gov)
- - date_published: 2024-10-19T07:48:34.209363+00:00
-
- ## BOEM Homepage
- - [https://boem.gov](https://boem.gov)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Career Connections
- - [https://careers.bop.gov](https://careers.bop.gov)
- - date_published: 2023-07-16T11:28:50+00:00
-
- ## BOP: Federal Bureau of Prisons Web Site
- - [https://www.bop.gov](https://www.bop.gov)
- - date_published: 2024-05-12T06:08:41.188891+00:00
-
- ## Welcome - Analyze Boston
- - [https://data.boston.gov](https://data.boston.gov)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Overview | Fleet
- - [https://patterns.boston.gov](https://patterns.boston.gov)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Boston Police Department – Boston Police
- - [https://police.boston.gov](https://police.boston.gov)
- - date_published: 2024-09-06T22:54:30+00:00
-
- ## Registry: Birth, Death, and Marriage
- - [https://registry.boston.gov](https://registry.boston.gov)
- - date_published: 2016-02-18T13:12:28+00:00
-
- ## Homepage | Boston.gov
- - [https://boston.gov](https://boston.gov)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | City of Boulder
- - [https://bouldercolorado.gov](https://bouldercolorado.gov)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## City of Boulder Open Data
- - [https://open-data.bouldercolorado.gov](https://open-data.bouldercolorado.gov)
- - date_published: 2023-11-26T14:08:47+00:00
-
- ## Bow, NH | Official Website
- - [https://bownh.gov](https://bownh.gov)
- - date_published: 2024-07-12T22:59:11.994767+00:00
-
- ## BPA.gov - Bonneville Power Administration
- - [https://www.bpa.gov](https://www.bpa.gov)
- - date_published: 2024-07-12T19:52:57.015040+00:00
-
- ## Bradford County, Florida
- - [https://www.bradfordcountyfl.gov](https://www.bradfordcountyfl.gov)
- - date_published: 2023-03-30T01:30:00+00:00
-
- ## Brevard County Government
- - [https://www.brevardfl.gov](https://www.brevardfl.gov)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home Page | Brookhaven Georgia
- - [https://www.brookhavenga.gov](https://www.brookhavenga.gov)
- - date_published: 2024-07-14T14:55:57+00:00
-
- ## Brunswick County, NC | Official Website
- - [http://brunswickcountync.gov](http://brunswickcountync.gov)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home | Bureau of Safety and Environmental Enforcement
- - [https://www.bsee.gov](https://www.bsee.gov)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## BSEE Data Center
- - [https://www.data.bsee.gov](https://www.data.bsee.gov)
- - date_published: 2024-10-15T07:22:15.843075+00:00
-
- ## Tyler Data & Insights
- - [https://data.bts.gov](https://data.bts.gov)
- - date_published: 2024-06-28T12:57:41.333553+00:00
-
- ## Freight Data Dictionary - Demo Site
- - [https://fdd.bts.gov](https://fdd.bts.gov)
- - date_published: 2024-06-28T12:57:43.471466+00:00
-
- ## National Transportation Library | Bureau of Transportation Statistics
- - [https://ntl.bts.gov](https://ntl.bts.gov)
- - date_published: 2024-06-28T12:57:37+00:00
-
- ## Welcome to ROSA P
- - [https://rosap.ntl.bts.gov](https://rosap.ntl.bts.gov)
- - date_published: 2024-06-28T10:07:08+00:00
-
- ## OST_R | BTS | Transtats
- - [https://transtats.bts.gov](https://transtats.bts.gov)
- - date_published: 2024-06-28T12:57:46.043623+00:00
-
- ## Bureau of Transportation Statistics
- - [https://www.bts.gov](https://www.bts.gov)
- - date_published: 2024-05-06T22:48:38.991664+00:00
-
- ## Burlington, NC - Official Website | Official Website
- - [https://www.burlingtonnc.gov](https://www.burlingtonnc.gov)
- - date_published: 2024-06-29T01:39:45.764948+00:00
-
- ## California abortion access
- - [https://abortion.ca.gov](https://abortion.ca.gov)
- - date_published: 2024-06-19T22:19:01+00:00
-
- ## Search for Agency Reports | California Agency Reports
- - [http://agencyreports.ca.gov](http://agencyreports.ca.gov)
- - date_published: 2024-08-08T15:04:59+00:00
-
- ## Error Page
- - [https://appellatecases.courtinfo.ca.gov](https://appellatecases.courtinfo.ca.gov)
- - date_published: 2024-05-08T02:36:17.840903+00:00
-
- ## Applicant Status Check | State of California - Department of Justice
- - [https://applicantstatus.doj.ca.gov](https://applicantstatus.doj.ca.gov)
- - date_published: 2024-05-08T02:35:55.460393+00:00
-
- ## Attorney Search - The State Bar of California
- - [https://apps.calbar.ca.gov](https://apps.calbar.ca.gov)
- - date_published: 2024-05-04T08:04:48.566769+00:00
-
- ## Apps - California Department of Fish and Wildlife!
- - [https://apps.wildlife.ca.gov](https://apps.wildlife.ca.gov)
- - date_published: 2024-09-16T04:18:25.426878+00:00
-
- ## Aquaculture Matters
- - [https://aquaculturematters.ca.gov](https://aquaculturematters.ca.gov)
- - date_published: 2024-09-08T00:52:22+00:00
-
- ## Welcome to the California State Assembly | California State Assembly
- - [http://assembly.ca.gov](http://assembly.ca.gov)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Secretary of State
- - [https://bizfileonline.sos.ca.gov](https://bizfileonline.sos.ca.gov)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Homepage | Broadband for All
- - [https://broadbandforall.cdt.ca.gov](https://broadbandforall.cdt.ca.gov)
- - date_published: 2024-07-15T10:43:19.389753+00:00
-
- ## Building California's Future
- - [https://build.ca.gov](https://build.ca.gov)
- - date_published: 2024-05-07T17:02:52+00:00
-
- ## California State Portal
- - [https://ca.gov](https://ca.gov)
- - date_published: 2024-05-08T02:35:44.121774+00:00
-
- ## CalCareers
- - [https://calcareers.ca.gov](https://calcareers.ca.gov)
- - date_published: 2024-06-21T18:26:51.308375+00:00
-
- ## WebEOC 9.18  Login
- - [https://caleoc.caloes.ca.gov](https://caleoc.caloes.ca.gov)
- - date_published: 2024-07-17T02:38:16.341968+00:00
-
- ## The California Office of Small Business Advocate (CalOSBA)
- - [https://calosba.ca.gov](https://calosba.ca.gov)
- - date_published: 2024-07-03T13:18:53.668574+00:00
-
- ## California Public Employees' Retirement System
- - [https://calpers.ca.gov](https://calpers.ca.gov)
- - date_published: 2024-07-08T10:04:15.403123+00:00
-
- ## CalRecycle Home Page
- - [https://calrecycle.ca.gov](https://calrecycle.ca.gov)
- - date_published: 2024-07-21T06:40:24.468814+00:00
-
- ## Home page
- - [https://cannabis.ca.gov](https://cannabis.ca.gov)
- - date_published: 2024-07-02T23:49:43+00:00
-
- ## Service unavailable
- - [http://capmf.cdt.ca.gov](http://capmf.cdt.ca.gov)
- - date_published: 2024-07-15T10:41:34.267817+00:00
-
- ## California Data Exchange Center
- - [https://cdec.water.ca.gov](https://cdec.water.ca.gov)
- - date_published: 2024-03-04T07:19:29.876385+00:00
-
- ## CDT - California Department of Technology
- - [https://cdt.ca.gov](https://cdt.ca.gov)
- - date_published: 2024-07-15T10:41:33.594827+00:00
-
- ## Home - Cemetery and Funeral Bureau
- - [https://cfb.ca.gov](https://cfb.ca.gov)
- - date_published: 2024-08-19T09:15:00.725097+00:00
-
- ## California Horse Racing Board
- - [http://chrb.ca.gov](http://chrb.ca.gov)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## CA Climate Action
- - [https://climateaction.ca.gov](https://climateaction.ca.gov)
- - date_published: 2024-06-21T18:26:56.539481+00:00
-
- ## covid19.ca.gov
- - [https://covid19.ca.gov](https://covid19.ca.gov)
- - date_published: 2024-05-14T04:03:52.744795+00:00
-
- ## Public Search - Safe Cosmetics
- - [https://cscpsearch.cdph.ca.gov](https://cscpsearch.cdph.ca.gov)
- - date_published: 2024-05-04T06:27:12.196571+00:00
-
- ## California Water Watch
- - [https://cww.water.ca.gov](https://cww.water.ca.gov)
- - date_published: 2024-07-09T11:45:22.548690+00:00
-
- ## CYBHI
- - [https://cybhi.chhs.ca.gov](https://cybhi.chhs.ca.gov)
- - date_published: 2024-07-15T10:42:50.036496+00:00
-
- ## Welcome - California Open Data
- - [https://data.ca.gov](https://data.ca.gov)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## The Department of Financial Protection and Innovation | Securing a fair and healthy financial services marketplace
- - [https://dbo.ca.gov](https://dbo.ca.gov)
- - date_published: 2024-07-03T13:18:01.674067+00:00
-
- ## Delta Stewardship Council
- - [https://deltacouncil.ca.gov](https://deltacouncil.ca.gov)
- - date_published: 2024-07-08T12:08:14.400546+00:00
-
- ## The Department of Financial Protection and Innovation (DFPI) | Securing a fair and healthy financial services marketplace
- - [https://dfpi.ca.gov](https://dfpi.ca.gov)
- - date_published: 2023-10-25T19:18:09.805592+00:00
-
- ## California State Digital ID Strategy
- - [https://digitalidstrategy.cdt.ca.gov](https://digitalidstrategy.cdt.ca.gov)
- - date_published: 2023-11-06T19:33:14+00:00
-
- ## CDFA Staff Directory List
- - [https://directory.cdfa.ca.gov](https://directory.cdfa.ca.gov)
- - date_published: 2024-07-08T11:55:45.273273+00:00
-
- ## Home
- - [https://docqnet.dfpi.ca.gov](https://docqnet.dfpi.ca.gov)
- - date_published: 2024-05-08T02:35:18.447963+00:00
-
- ## Online Documents
- - [https://docs.cpuc.ca.gov](https://docs.cpuc.ca.gov)
- - date_published: 2024-01-09T21:17:38+00:00
-
- ## Index of /
- - [http://downloads.leginfo.legislature.ca.gov](http://downloads.leginfo.legislature.ca.gov)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## California Water Watch
- - [https://drought.ca.gov](https://drought.ca.gov)
- - date_published: 2024-07-09T11:45:10.177409+00:00
-
- ## California Earthquake Early Warning | California Earthquake Early Warning Information
- - [https://earthquake.ca.gov](https://earthquake.ca.gov)
- - date_published: 2024-07-17T02:38:00.509880+00:00
-
- ## Employment Development Department | California
- - [https://edd.ca.gov](https://edd.ca.gov)
- - date_published: 2024-06-21T18:27:09.254331+00:00
-
- ## Request Rejected
- - [https://elections.cdn.sos.ca.gov](https://elections.cdn.sos.ca.gov)
- - date_published: 2024-06-24T11:48:34.607737+00:00
-
- ## Metropolitan Transportation Commission
- - [https://es.mtc.ca.gov](https://es.mtc.ca.gov)
- - date_published: 2024-07-06T12:09:37+00:00
-
- ## FAAST - Financial Assistance Application Submittal Tool
- - [https://faast.waterboards.ca.gov](https://faast.waterboards.ca.gov)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## ca.gov page feedback
- - [https://feedback.innovation.ca.gov](https://feedback.innovation.ca.gov)
- - date_published: 2024-07-03T13:17:13.186227+00:00
-
- ## California Fish and Game Commission Home Page
- - [https://fgc.ca.gov](https://fgc.ca.gov)
- - date_published: 2024-09-16T04:18:16.012735+00:00
-
- ## files.resources.ca.gov —  Domain default page
- - [http://files.resources.ca.gov](http://files.resources.ca.gov)
- - date_published: 2023-12-18T19:17:33+00:00
-
- ## FI$Cal - State of California. One state. One system.|
- - [https://fiscal.ca.gov](https://fiscal.ca.gov)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Franchise Tax Board Homepage | FTB.ca.gov
- - [https://ftb.ca.gov](https://ftb.ca.gov)
- - date_published: 2024-06-28T09:00:17.314517+00:00
-
- ## IIS Windows Server
- - [https://gis.hcd.ca.gov](https://gis.hcd.ca.gov)
- - date_published: 2022-07-26T17:44:38+00:00
-
- ## California Governor
- - [https://gov.ca.gov](https://gov.ca.gov)
- - date_published: 2024-05-08T02:35:15.483769+00:00
-
- ## GovOps | Government Operations
- - [https://govops.ca.gov](https://govops.ca.gov)
- - date_published: 2024-05-12T05:58:22.708639+00:00
-
- ## CA Secretary of State - Sign In
- - [https://idm.sos.ca.gov](https://idm.sos.ca.gov)
- - date_published: 2024-05-06T13:19:53.486519+00:00
-
- ## Interagency Ecological Program > Home
- - [https://iep.ca.gov](https://iep.ca.gov)
- - date_published: 2024-07-08T12:08:16.117457+00:00
-
- ## California Immigrant Guide : Home
- - [https://immigrantguide.ca.gov](https://immigrantguide.ca.gov)
- - date_published: 2024-07-15T10:43:04.938808+00:00
-
- ## Office of Data and Innovation
- - [https://innovation.ca.gov](https://innovation.ca.gov)
- - date_published: 2024-07-01T17:08:17+00:00
-
- ## CalCareers
- - [https://jobs.ca.gov](https://jobs.ca.gov)
- - date_published: 2024-05-08T02:35:12.268018+00:00
-
- ## California Fish and Wildlife Scientific Journal
- - [https://journal.wildlife.ca.gov](https://journal.wildlife.ca.gov)
- - date_published: 2024-09-15T11:34:28+00:00
-
- ## Legislative Analyst’s Office
- - [https://lao.ca.gov](https://lao.ca.gov)
- - date_published: 2024-05-08T09:21:13.795314+00:00
-
- ## California Legislative Information
- - [https://leginfo.legislature.ca.gov](https://leginfo.legislature.ca.gov)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## LISTSERV - LISTSERV Archives - LISTSERV.STATE.CA.GOV
- - [https://listserv.state.ca.gov](https://listserv.state.ca.gov)
- - date_published: 2024-05-09T04:52:29.995076+00:00
-
- ## Lieutenant Governor
- - [https://ltg.ca.gov](https://ltg.ca.gov)
- - date_published: 2024-07-03T13:17:40.590402+00:00
-
- ## My State Bar Profile - Log In
- - [https://members.calbar.ca.gov](https://members.calbar.ca.gov)
- - date_published: 2024-06-20T05:52:15.054089+00:00
-
  ## Mental health for all
  - [https://mentalhealth.ca.gov](https://mentalhealth.ca.gov)
  - date_published: 2024-05-23T21:58:38+00:00
@@ -3781,10 +2767,6 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  - [https://fueleconomy.gov](https://fueleconomy.gov)
  - date_published: 2024-06-19T17:12:16.236026+00:00
 
- ## Americans can vote. Wherever they are.
- - [https://www.fvap.gov](https://www.fvap.gov)
- - date_published: 2024-06-19T17:52:11.941190+00:00
-
  ## U.S. Fish and Wildlife Service
  - [https://fws.gov](https://fws.gov)
  - date_published: 2024-05-07T15:18:47.274430+00:00
@@ -4032,4 +3014,1020 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## GSA Office of Inspector General |
  - [https://www.gsaig.gov](https://www.gsaig.gov)
  - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home, City of Gulfport
+ - [http://www.gulfport-ms.gov](http://www.gulfport-ms.gov)
+ - date_published: 2024-06-29T23:36:20.923712+00:00
+
+ ## Hamilton County, Ohio
+ - [https://www.hamiltoncountyohio.gov](https://www.hamiltoncountyohio.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Harris County | Texas
+ - [https://www.harriscountytx.gov](https://www.harriscountytx.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Harrison County, MS
+ - [https://harrisoncountyms.gov](https://harrisoncountyms.gov)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Harrison County, Mississippi Chancery Clerk
+ - [http://harrisoncountymschanceryclerk.gov](http://harrisoncountymschanceryclerk.gov)
+ - date_published: 2024-06-29T23:35:39.250448+00:00
+
+ ## Department of the Attorney General
+ - [https://ag.hawaii.gov](https://ag.hawaii.gov)
+ - date_published: 2024-10-14T21:39:21+00:00
+
+ ## Department of Accounting and General Services
+ - [https://ags.hawaii.gov](https://ags.hawaii.gov)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Department of Budget and Finance
+ - [https://budget.hawaii.gov](https://budget.hawaii.gov)
+ - date_published: 2024-10-15T01:51:27+00:00
+
+ ## DCCA
+ - [https://cca.hawaii.gov](https://cca.hawaii.gov)
+ - date_published: 2023-10-16T07:08:56+00:00
+
+ ## Department of Business, Economic Development & Tourism
+ - [https://dbedt.hawaii.gov](https://dbedt.hawaii.gov)
+ - date_published: 2024-10-14T21:39:37+00:00
+
+ ## Department of Corrections and Rehabilitation
+ - [https://dcr.hawaii.gov](https://dcr.hawaii.gov)
+ - date_published: 2024-10-15T01:01:12+00:00
+
+ ## Department of Hawaiian Home Lands
+ - [https://dhhl.hawaii.gov](https://dhhl.hawaii.gov)
+ - date_published: 2024-10-14T21:38:58+00:00
+
+ ## Department of Human Resources Development
+ - [https://dhrd.hawaii.gov](https://dhrd.hawaii.gov)
+ - date_published: 2024-10-14T23:50:17+00:00
+
+ ## Department of Land and Natural Resources
+ - [https://dlnr.hawaii.gov](https://dlnr.hawaii.gov)
+ - date_published: 2024-05-01T08:10:29.551014+00:00
+
+ ## Department of Defense
+ - [https://dod.hawaii.gov](https://dod.hawaii.gov)
+ - date_published: 2024-10-15T07:08:28+00:00
+
+ ## Governor Josh Green, M.D.
+ - [https://governor.hawaii.gov](https://governor.hawaii.gov)
+ - date_published: 2024-10-15T07:08:39+00:00
+
+ ## Hawaii.gov
+ - [http://hawaii.gov](http://hawaii.gov)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Department of Agriculture
+ - [https://hdoa.hawaii.gov](https://hdoa.hawaii.gov)
+ - date_published: 2024-10-15T05:51:37+00:00
+
+ ## Hawaii State Department of Health
+ - [https://health.hawaii.gov](https://health.hawaii.gov)
+ - date_published: 2024-10-15T07:09:20+00:00
+
+ ## Department of Transportation
+ - [https://hidot.hawaii.gov](https://hidot.hawaii.gov)
+ - date_published: 2024-10-14T21:39:15+00:00
+
+ ## Department of Human Services
+ - [https://humanservices.hawaii.gov](https://humanservices.hawaii.gov)
+ - date_published: 2024-10-15T07:08:36+00:00
+
+ ## Business Development and Support Division
+ - [https://invest.hawaii.gov](https://invest.hawaii.gov)
+ - date_published: 2024-06-16T22:58:17.938596+00:00
+
+ ## Department of Labor and Industrial Relations
+ - [https://labor.hawaii.gov](https://labor.hawaii.gov)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Department of Law Enforcement
+ - [https://law.hawaii.gov](https://law.hawaii.gov)
+ - date_published: 2024-10-14T21:39:09+00:00
+
+ ## LRB Legislative Reference Bureau
+ - [https://lrb.hawaii.gov](https://lrb.hawaii.gov)
+ - date_published: 2024-10-14T21:38:59+00:00
+
+ ## Lieutenant Governor Sylvia Luke
+ - [https://ltgov.hawaii.gov](https://ltgov.hawaii.gov)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Welcome - Hawaii Open Data
+ - [https://opendata.hawaii.gov](https://opendata.hawaii.gov)
+ - date_published: 2024-10-13T00:00:00+00:00
+
+ ## DLNR Activity Permits & Resources | Explore Outdoor Hawaiʻi
+ - [https://outdoor.hawaii.gov](https://outdoor.hawaii.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Hawai‘i Emergency Management Agency
+ - [https://ready.hawaii.gov](https://ready.hawaii.gov)
+ - date_published: 2024-10-15T07:09:07+00:00
+
+ ## Stay Connected to Hawaii State Government
+ - [https://stayconnected.hawaii.gov](https://stayconnected.hawaii.gov)
+ - date_published: 2024-06-15T12:59:27+00:00
+
+ ## Department of Taxation | State of Hawaii
+ - [https://tax.hawaii.gov](https://tax.hawaii.gov)
+ - date_published: 2024-10-15T07:09:23+00:00
+
+ ## Hawaii County, HI | Home
+ - [https://www.hawaiicounty.gov](https://www.hawaiicounty.gov)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## City of Hayward - Official website
+ - [https://www.hayward-ca.gov](https://www.hayward-ca.gov)
+ - date_published: 2024-07-07T07:28:30+00:00
+
+ ## Home of the Office of Disease Prevention and Health Promotion - health.gov
+ - [https://health.gov](https://health.gov)
+ - date_published: 2024-08-07T17:31:15+00:00
+
+ ## CMS Healthcare Data
+ - [https://data.healthcare.gov](https://data.healthcare.gov)
+ - date_published: 2024-07-10T20:11:50+00:00
+
+ ## Still need health insurance? | HealthCare.gov
+ - [https://healthcare.gov](https://healthcare.gov)
+ - date_published: 2024-05-01T06:56:26.907647+00:00
+
+ ## Local Assistance for Health Insurance Application
+ - [https://localhelp.healthcare.gov](https://localhelp.healthcare.gov)
+ - date_published: 2024-06-16T07:54:20.576724+00:00
+
+ ## HealthData.gov
+ - [https://healthdata.gov](https://healthdata.gov)
+ - date_published: 2024-09-09T23:49:49.012653+00:00
+
+ ## ONC | Office of the National Coordinator for Health Information Technology
+ - [https://www.healthit.gov](https://www.healthit.gov)
+ - date_published: 2024-08-19T18:05:26+00:00
+
+ ## Vermont Department of Health
+ - [https://www.healthvermont.gov](https://www.healthvermont.gov)
+ - date_published: 2024-07-22T03:38:23+00:00
+
+ ## Healthy People 2030 | health.gov
+ - [https://www.healthypeople.gov](https://www.healthypeople.gov)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## HEAT.gov - National Integrated Heat Health Information System
+ - [https://www.heat.gov](https://www.heat.gov)
+ - date_published: 2024-06-19T02:55:36.767289+00:00
+
+ ## HelpWithMyBank.gov – Get Answers to Your Banking Questions
+ - [https://helpwithmybank.gov](https://helpwithmybank.gov)
+ - date_published: 2020-09-12T00:00:00+00:00
+
+ ## ASPE Homepage
+ - [https://aspe.hhs.gov](https://aspe.hhs.gov)
+ - date_published: 2024-06-28T19:05:22+00:00
+
+ ## ASPR | Homepage
+ - [https://aspr.hhs.gov](https://aspr.hhs.gov)
+ - date_published: 2023-10-25T19:22:17.545788+00:00
+
+ ## ASPR TRACIE | Healthcare Emergency Preparedness Information Gateway
+ - [https://asprtracie.hhs.gov](https://asprtracie.hhs.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Home - Centers for Medicare & Medicaid Services | CMS
+ - [https://cms.hhs.gov](https://cms.hhs.gov)
+ - date_published: 2024-09-16T12:35:39+00:00
+
+ ## ECLKC
+ - [https://eclkc.ohs.acf.hhs.gov](https://eclkc.ohs.acf.hhs.gov)
+ - date_published: 2024-10-10T17:21:53+00:00
+
+ ## Search the Exclusions Database | Office of Inspector General
+ - [https://exclusions.oig.hhs.gov](https://exclusions.oig.hhs.gov)
+ - date_published: 2024-07-03T13:21:49.510603+00:00
+
+ ## Department of Health & Human Services
+ - [https://hhs.gov](https://hhs.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## HPH Cybersecurity Gateway
+ - [https://hphcyber.hhs.gov](https://hphcyber.hhs.gov)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Home Page - Office of Minority Health (OMH)
+ - [https://minorityhealth.hhs.gov](https://minorityhealth.hhs.gov)
+ - date_published: 2024-06-23T07:30:19.313027+00:00
+
+ ## NPPES NPI Registry
+ - [https://npiregistry.cms.hhs.gov](https://npiregistry.cms.hhs.gov)
+ - date_published: 2024-06-26T00:18:59+00:00
+
+ ## U.S. Department of Health & Human Services - Office for Civil Rights
+ - [https://ocrportal.hhs.gov](https://ocrportal.hhs.gov)
+ - date_published: 2024-05-08T02:59:11.401239+00:00
+
+ ## Office of Inspector General | Government Oversight | U.S. Department of Health and Human Services
+ - [https://oig.hhs.gov](https://oig.hhs.gov)
+ - date_published: 2024-05-08T02:36:32.077870+00:00
+
+ ## ORI - The Office of Research Integrity | ORI - The Office of Research Integrity
+ - [https://ori.hhs.gov](https://ori.hhs.gov)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Telehealth.HHS.gov
+ - [https://telehealth.hhs.gov](https://telehealth.hhs.gov)
+ - date_published: 2024-10-10T14:08:11+00:00
+
+ ## Welcome To ACF | The Administration for Children and Families
+ - [https://www.acf.hhs.gov](https://www.acf.hhs.gov)
+ - date_published: 2024-06-19T03:29:34+00:00
+
+ ## Safety Reporting Portal
+ - [https://safetyreporting.hhs.gov](https://safetyreporting.hhs.gov)
+ - date_published: 2024-05-08T02:47:05.377234+00:00
+
+ ## Highlands County Avon Park Sebring Lake Placid
+ - [https://www.highlandsfl.gov](https://www.highlandsfl.gov)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## City of Hillsboro, OR | Home
+ - [https://www.hillsboro-oregon.gov](https://www.hillsboro-oregon.gov)
+ - date_published: 2024-07-04T04:56:05+00:00
+
+ ## Welcome to Hillsdale County, Michigan
+ - [https://hillsdalecounty.gov](https://hillsdalecounty.gov)
+ - date_published: 2024-05-07T14:18:45.954059+00:00
+
+ ## Home | HIREVets Medallion
+ - [https://hirevets.gov](https://hirevets.gov)
+ - date_published: 2024-05-08T02:45:48.478749+00:00
+
+ ## History Hub
+ - [https://historyhub.history.gov](https://historyhub.history.gov)
+ - date_published: 2024-06-29T18:23:46.522776+00:00
+
+ ## America's HIV Epidemic Analysis Dashboard | AHEAD
+ - [https://ahead.hiv.gov](https://ahead.hiv.gov)
+ - date_published: 2024-05-08T02:59:17.990063+00:00
+
+ ## HIV Chatbot
+ - [https://bot.hiv.gov](https://bot.hiv.gov)
+ - date_published: 2023-12-13T22:16:01+00:00
+
+ ## Clinicalinfo | Information on HIV/AIDS Treatment, Prevention and Research | NIH
+ - [https://clinicalinfo.hiv.gov](https://clinicalinfo.hiv.gov)
+ - date_published: 2024-05-08T02:59:14.843580+00:00
+
+ ## HIV Testing Sites & Care Services Locator
+ - [https://locator.hiv.gov](https://locator.hiv.gov)
+ - date_published: 2024-05-08T02:59:09.599601+00:00
+
+ ## Positive Spin
+ - [https://positivespin.hiv.gov](https://positivespin.hiv.gov)
+ - date_published: 2023-09-18T18:33:17+00:00
+
+ ## Ready, Set, PrEP
+ - [https://readysetprep.hiv.gov](https://readysetprep.hiv.gov)
+ - date_published: 2021-11-19T15:44:09+00:00
+
+ ## HIV and AIDS Resources | HIV.gov
+ - [https://hiv.gov](https://hiv.gov)
+ - date_published: 2023-10-25T19:22:20.398924+00:00
+
+ ## City and County of Honolulu
+ - [https://www.honolulu.gov](https://www.honolulu.gov)
+ - date_published: 2024-10-15T07:10:02.309254+00:00
+
+ ## Congresswoman Alma Adams
+ - [https://adams.house.gov](https://adams.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Congressman Adam Smith
+ - [https://adamsmith.house.gov](https://adamsmith.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Robert Aderholt
+ - [https://aderholt.house.gov](https://aderholt.house.gov)
+ - date_published: 2024-06-27T13:59:37.993816+00:00
+
+ ## Representative Adrian Smith
+ - [https://adriansmith.house.gov](https://adriansmith.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## House Committee on Agriculture
+ - [https://agriculture.house.gov](https://agriculture.house.gov)
+ - date_published: 2024-06-27T14:15:46+00:00
+
+ ## Pete Aguilar – Representing the California's 33rd District
+ - [https://aguilar.house.gov](https://aguilar.house.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Congressman Mark Alford
+ - [https://alford.house.gov](https://alford.house.gov)
+ - date_published: 2024-06-27T14:19:48+00:00
+
+ ## Congressman Al Green
+ - [https://algreen.house.gov](https://algreen.house.gov)
+ - date_published: 2024-06-27T14:16:22.059682+00:00
+
+ ## U.S. Representative Rick W. Allen
+ - [https://allen.house.gov](https://allen.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Colin Allred
+ - [https://allred.house.gov](https://allred.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Mark Amodei
+ - [https://amodei.house.gov](https://amodei.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Gabe Amo
+ - [https://amo.house.gov](https://amo.house.gov)
+ - date_published: 2024-06-27T14:16:18.583699+00:00
+
+ ## House Committee on Appropriations - Republicans
+ - [https://appropriations.house.gov](https://appropriations.house.gov)
+ - date_published: 2024-06-27T14:14:08.310799+00:00
+
+ ## Representative Republicans-armedservices
+ - [https://armedservices.house.gov](https://armedservices.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Representative Kelly Armstrong
+ - [https://armstrong.house.gov](https://armstrong.house.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## U.S. Representative Jodey Arrington
+ - [https://arrington.house.gov](https://arrington.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Assistant Democratic Leader Joe Neguse
+ - [https://assistantdemocraticleader.house.gov](https://assistantdemocraticleader.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | U.S. Congressman Jake Auchincloss Of Massachusetts 4th District
+ - [https://auchincloss.house.gov](https://auchincloss.house.gov)
+ - date_published: 2024-06-27T14:09:27.460917+00:00
+
+ ## United States Congressman Austin Scott
+ - [https://austinscott.house.gov](https://austinscott.house.gov)
+ - date_published: 2024-06-27T14:10:13.797074+00:00
+
+ ## U.S. Congressman Brian Babin, D.D.S
+ - [https://babin.house.gov](https://babin.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congressman Don Bacon
+ - [https://bacon.house.gov](https://bacon.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## U.S. Representative Jim Baird
+ - [https://baird.house.gov](https://baird.house.gov)
+ - date_published: 2024-06-27T14:11:27+00:00
+
+ ## Congressman Troy Balderson
+ - [https://balderson.house.gov](https://balderson.house.gov)
+ - date_published: 2024-06-27T14:02:44+00:00
+
+ ## U.S. Representative for Vermont
+ - [https://balint.house.gov](https://balint.house.gov)
+ - date_published: 2024-06-27T14:02:50+00:00
+
+ ## U.S. Congressman Jim Banks
+ - [https://banks.house.gov](https://banks.house.gov)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Congresswoman Barragan – Representative for California's 44th Congressional District
+ - [https://barragan.house.gov](https://barragan.house.gov)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Congressman Andy Barr
+ - [https://barr.house.gov](https://barr.house.gov)
+ - date_published: 2024-06-27T14:22:44.520106+00:00
+
+ ## Representative Barry Moore
+ - [https://barrymoore.house.gov](https://barrymoore.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Bean
+ - [https://bean.house.gov](https://bean.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congresswoman Joyce Beatty
+ - [https://beatty.house.gov](https://beatty.house.gov)
+ - date_published: 2024-06-27T14:12:43.306263+00:00
+
+ ## Congressman Bennie Thompson
+ - [https://benniethompson.house.gov](https://benniethompson.house.gov)
+ - date_published: 2024-01-13T00:00:00+00:00
+
+ ## Representative Cliff Bentz
+ - [https://bentz.house.gov](https://bentz.house.gov)
+ - date_published: 2024-06-27T14:15:49.767969+00:00
+
+ ## U.S. Representative Ami Bera, M.D.
+ - [https://bera.house.gov](https://bera.house.gov)
+ - date_published: 2024-06-27T14:17:53+00:00
+
+ ## U.S. Representative Jack Bergman
+ - [https://bergman.house.gov](https://bergman.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## U.S. Representative Don Beyer
+ - [https://beyer.house.gov](https://beyer.house.gov)
+ - date_published: 2024-06-27T14:17:52+00:00
+
+ ## Representative Stephanie Bice
+ - [https://bice.house.gov](https://bice.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Andy Biggs
+ - [https://biggs.house.gov](https://biggs.house.gov)
+ - date_published: 2024-06-27T14:21:01.236929+00:00
+
+ ## Congressman Gus Bilirakis
+ - [https://bilirakis.house.gov](https://bilirakis.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Congressman Sanford Bishop
+ - [https://bishop.house.gov](https://bishop.house.gov)
+ - date_published: 2024-06-27T14:21:51.930684+00:00
+
+ ## Home | U.S. Congressman Blake Moore
+ - [https://blakemoore.house.gov](https://blakemoore.house.gov)
+ - date_published: 2024-06-27T14:00:29.956811+00:00
+
+ ## Congressman Earl Blumenauer
+ - [https://blumenauer.house.gov](https://blumenauer.house.gov)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## U.S. Representative Lisa Blunt Rochester
+ - [https://bluntrochester.house.gov](https://bluntrochester.house.gov)
+ - date_published: 2024-06-27T14:12:20+00:00
+
+ ## Congressman Bobby Scott
+ - [https://bobbyscott.house.gov](https://bobbyscott.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Lauren Boebert
+ - [https://boebert.house.gov](https://boebert.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Congresswoman Suzanne Bonamici
+ - [https://bonamici.house.gov](https://bonamici.house.gov)
+ - date_published: 2024-06-27T14:02:01.699119+00:00
+
+ ## Congressman Mike Bost
+ - [https://bost.house.gov](https://bost.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Jamaal Bowman of New York's 16th District
+ - [https://bowman.house.gov](https://bowman.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Congressman Brendan Boyle
+ - [https://boyle.house.gov](https://boyle.house.gov)
+ - date_published: 2024-06-27T14:01:48.776110+00:00
+
+ ## Congressman Brandon Williams
+ - [https://brandonwilliams.house.gov](https://brandonwilliams.house.gov)
+ - date_published: 2024-06-27T14:19:37+00:00
+
+ ## Congressman Josh Brecheen
+ - [https://brecheen.house.gov](https://brecheen.house.gov)
+ - date_published: 2024-06-27T14:19:34+00:00
+
+ ## Congressman Vern Buchanan
+ - [https://buchanan.house.gov](https://buchanan.house.gov)
+ - date_published: 2024-06-27T14:13:59.317053+00:00
+
+ ## U.S. Representative Larry Bucshon, M.D.
+ - [https://bucshon.house.gov](https://bucshon.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## U.S. Representative Buddy Carter
+ - [https://buddycarter.house.gov](https://buddycarter.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home | The U.S. House Committee on the Budget - House Budget Committee
+ - [https://budget.house.gov](https://budget.house.gov)
+ - date_published: 2024-06-27T14:17:20.676899+00:00
+
+ ## Home - Nikki Budzinski
+ - [https://budzinski.house.gov](https://budzinski.house.gov)
+ - date_published: 2024-06-27T14:01:34.924505+00:00
+
+ ## Representative Tim Burchett
+ - [https://burchett.house.gov](https://burchett.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Michael Burgess
+ - [https://burgess.house.gov](https://burgess.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Representative Burlison
+ - [https://burlison.house.gov](https://burlison.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home
+ - [https://bush.house.gov](https://bush.house.gov)
+ - date_published: 2024-06-27T14:09:28.505390+00:00
+
+ ## Congressman Ken Calvert
+ - [https://calvert.house.gov](https://calvert.house.gov)
+ - date_published: 2024-06-27T14:22:16.020993+00:00
+
+ ## Representative Kat Cammack
+ - [https://cammack.house.gov](https://cammack.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## CAO | Chief Administrative Officer
+ - [http://cao.house.gov](http://cao.house.gov)
+ - date_published: 2024-06-27T14:18:53.575297+00:00
+
+ ## Representative Caraveo
+ - [https://caraveo.house.gov](https://caraveo.house.gov)
+ - date_published: 2024-06-27T14:00:34.249042+00:00
+
+ ## U.S. Congressman Salud Carbajal
+ - [https://carbajal.house.gov](https://carbajal.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home | U.S. Congressman Tony Cárdenas
+ - [https://cardenas.house.gov](https://cardenas.house.gov)
+ - date_published: 2024-06-27T14:01:28.301908+00:00
+
+ ## Representative Mike Carey
+ - [https://carey.house.gov](https://carey.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman Jerry Carl
+ - [https://carl.house.gov](https://carl.house.gov)
+ - date_published: 2024-06-27T14:19:10.451419+00:00
+
+ ## Congressman Andre Carson
+ - [https://carson.house.gov](https://carson.house.gov)
+ - date_published: 2024-06-25T04:35:02+00:00
+
+ ## U.S. Representative John Carter
+ - [https://carter.house.gov](https://carter.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Matt Cartwright
+ - [https://cartwright.house.gov](https://cartwright.house.gov)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Representative Casar
+ - [https://casar.house.gov](https://casar.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congressman Ed Case
+ - [https://case.house.gov](https://case.house.gov)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Home | U.S. Congressman Sean Casten
+ - [https://casten.house.gov](https://casten.house.gov)
+ - date_published: 2024-06-27T14:20:07.395817+00:00
+
+ ## U.S. Representative Kathy Castor
+ - [https://castor.house.gov](https://castor.house.gov)
+ - date_published: 2024-06-27T14:10:20+00:00
+
+ ## Home | U.S. Congressman Joaquin Castro
+ - [https://castro.house.gov](https://castro.house.gov)
+ - date_published: 2024-06-27T14:02:02.439009+00:00
+
+ ## United States Committee on House Administration
+ - [https://cha.house.gov](https://cha.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Office of the Chaplain, United States House of Representatives
+ - [http://chaplain.house.gov](http://chaplain.house.gov)
+ - date_published: 2024-06-27T14:21:44.610013+00:00
+
+ ## Representative Chavez-Deremer
+ - [https://chavez-deremer.house.gov](https://chavez-deremer.house.gov)
+ - date_published: 2024-06-27T14:10:16.058282+00:00
+
+ ## Representative Cherfilus-McCormick
+ - [https://cherfilus-mccormick.house.gov](https://cherfilus-mccormick.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Chris Smith | U.S. Congressman for New Jersey's 4th District
+ - [https://chrissmith.house.gov](https://chrissmith.house.gov)
+ - date_published: 2024-06-27T14:16:52+00:00
+
+ ## Representative Judy Chu
+ - [https://chu.house.gov](https://chu.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Jesus Garcia
+ - [https://chuygarcia.house.gov](https://chuygarcia.house.gov)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Representative Ciscomani
+ - [https://ciscomani.house.gov](https://ciscomani.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home - Congresswoman Yvette Clarke
+ - [https://clarke.house.gov](https://clarke.house.gov)
+ - date_published: 2022-05-26T00:00:00+00:00
+
+ ## Homepage - Congressman Clay Higgins
+ - [https://clayhiggins.house.gov](https://clayhiggins.house.gov)
+ - date_published: 2023-10-02T17:14:51+00:00
+
+ ## Congressman Emanuel Cleaver
+ - [https://cleaver.house.gov](https://cleaver.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Office of the Clerk, U.S. House of Representatives
+ - [http://clerk.house.gov](http://clerk.house.gov)
+ - date_published: 2024-06-15T12:39:19.522957+00:00
+
+ ## Committees No Longer Standing | house.gov
+ - [https://climatecrisis.house.gov](https://climatecrisis.house.gov)
+ - date_published: 2024-07-15T11:00:06+00:00
+
+ ## U.S. Congressman Ben Cline
+ - [https://cline.house.gov](https://cline.house.gov)
+ - date_published: 2024-06-27T14:13:50+00:00
+
+ ## Home - Cloud
+ - [https://cloud.house.gov](https://cloud.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congressman James E. Clyburn
+ - [https://clyburn.house.gov](https://clyburn.house.gov)
+ - date_published: 2024-06-20T19:14:01+00:00
+
+ ## U.S. Representative Andrew S. Clyde
+ - [https://clyde.house.gov](https://clyde.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Steve Cohen
+ - [https://cohen.house.gov](https://cohen.house.gov)
+ - date_published: 2024-06-27T14:00:17.636305+00:00
+
+ ## Representative Tom Cole
+ - [https://cole.house.gov](https://cole.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Collins
+ - [https://collins.house.gov](https://collins.house.gov)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Congressman James Comer
+ - [https://comer.house.gov](https://comer.house.gov)
+ - date_published: 2024-06-27T14:00:10.563925+00:00
+
+ ## U.S. Representative Gerry Connolly
+ - [https://connolly.house.gov](https://connolly.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | U.S. Congressman Lou Correa of California
+ - [https://correa.house.gov](https://correa.house.gov)
+ - date_published: 2024-06-27T14:00:00.493743+00:00
+
+ ## Congressman Jim Costa
+ - [https://costa.house.gov](https://costa.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Congressman Joe Courtney
+ - [https://courtney.house.gov](https://courtney.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Congresswoman Angie Craig
+ - [https://craig.house.gov](https://craig.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Eli Crane – Congressman for Arizona
+ - [https://crane.house.gov](https://crane.house.gov)
+ - date_published: 2024-06-27T14:00:47.648501+00:00
+
+ ## Home - Rick Crawford
+ - [https://crawford.house.gov](https://crawford.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congressman Dan Crenshaw
+ - [https://crenshaw.house.gov](https://crenshaw.house.gov)
+ - date_published: 2024-06-27T14:12:28.271603+00:00
+
+ ## Representative Crockett
+ - [https://crockett.house.gov](https://crockett.house.gov)
+ - date_published: 2024-06-27T14:22:21.500367+00:00
+
+ ## Representative Jason Crow
+ - [https://crow.house.gov](https://crow.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## U.S. Congressman Henry Cuellar, Ph.D.
+ - [https://cuellar.house.gov](https://cuellar.house.gov)
+ - date_published: 2024-06-27T14:00:08+00:00
+
+ ## U.S. Representative John Curtis
+ - [https://curtis.house.gov](https://curtis.house.gov)
+ - date_published: 2024-06-27T14:10:10+00:00
+
+ ## Congressman Dan Bishop
+ - [https://danbishop.house.gov](https://danbishop.house.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Congressman Dan Kildee
+ - [https://dankildee.house.gov](https://dankildee.house.gov)
+ - date_published: 2024-06-27T14:09:58.891882+00:00
+
+ ## U.S. Congressman David Scott
+ - [https://davidscott.house.gov](https://davidscott.house.gov)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Representative Sharice Davids
+ - [https://davids.house.gov](https://davids.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Warren Davidson
+ - [https://davidson.house.gov](https://davidson.house.gov)
+ - date_published: 2024-06-27T14:02:43.356340+00:00
+
+ ## Congressman Danny K. Davis
+ - [https://davis.house.gov](https://davis.house.gov)
+ - date_published: 2024-06-27T05:02:25+00:00
+
+ ## Congresswoman Madeleine Dean
+ - [https://dean.house.gov](https://dean.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Representative Debbie Dingell
+ - [https://debbiedingell.house.gov](https://debbiedingell.house.gov)
+ - date_published: 2024-06-27T14:20:47+00:00
+
+ ## Congresswoman Diana DeGette
+ - [https://degette.house.gov](https://degette.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congresswoman Monica De La Cruz
+ - [https://delacruz.house.gov](https://delacruz.house.gov)
+ - date_published: 2024-06-27T14:00:30+00:00
+
+ ## Congresswoman Rosa DeLauro
+ - [https://delauro.house.gov](https://delauro.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congresswoman Suzan DelBene
+ - [https://delbene.house.gov](https://delbene.house.gov)
+ - date_published: 2024-06-27T14:21:45+00:00
+
+ ## Representative Deluzio
+ - [https://deluzio.house.gov](https://deluzio.house.gov)
+ - date_published: 2024-06-27T14:17:14.780075+00:00
+
+ ## Democratic Leader Hakeem Jeffries
+ - [https://democraticleader.house.gov](https://democraticleader.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Katherine Clark Democratic Whip
+ - [https://democraticwhip.house.gov](https://democraticwhip.house.gov)
+ - date_published: 2024-06-27T14:02:45.650077+00:00
+
+ ## Home | Education & The Workforce Committee Democrats
+ - [https://democrats-edlabor.house.gov](https://democrats-edlabor.house.gov)
+ - date_published: 2024-07-07T05:04:03.643180+00:00
+
+ ## Democrats, Energy and Commerce Committee
+ - [https://democrats-energycommerce.house.gov](https://democrats-energycommerce.house.gov)
+ - date_published: 2024-06-16T20:08:52.350688+00:00
+
+ ## U.S. House Judiciary Committee Democrats
+ - [https://democrats-judiciary.house.gov](https://democrats-judiciary.house.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## House of Representatives Committee on Rules
+ - [https://democrats-rules.house.gov](https://democrats-rules.house.gov)
+ - date_published: 2024-05-08T02:59:31.634576+00:00
+
+ ## Select Committee on the CCP - Democrats
+ - [https://democrats-selectcommitteeontheccp.house.gov](https://democrats-selectcommitteeontheccp.house.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Congressman Mark Desaulnier
+ - [https://desaulnier.house.gov](https://desaulnier.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## United States Congressman Scott DesJarlais
+ - [https://desjarlais.house.gov](https://desjarlais.house.gov)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Representative D'Esposito
+ - [https://desposito.house.gov](https://desposito.house.gov)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Error - The House of Reps
+ - [https://digitalprf.house.gov](https://digitalprf.house.gov)
+ - date_published: 2024-09-14T23:21:44.778490+00:00
+
+ ## Office of the Clerk, U.S. House of Representatives
+ - [https://disclosures-clerk.house.gov](https://disclosures-clerk.house.gov)
+ - date_published: 2024-06-22T19:36:41.115785+00:00
+
+ ## Document Repository
+ - [https://docs.house.gov](https://docs.house.gov)
+ - date_published: 2022-11-29T22:26:03+00:00
+
+ ## Congressman Lloyd Doggett
+ - [https://doggett.house.gov](https://doggett.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## U.S. Congressman Byron Donalds
+ - [https://donalds.house.gov](https://donalds.house.gov)
+ - date_published: 2024-06-27T13:48:58+00:00
+
+ ## Representative Davis
+ - [https://dondavis.house.gov](https://dondavis.house.gov)
+ - date_published: 2024-06-27T14:02:21.070731+00:00
+
+ ## House Democratic Policy and Communications Committee
+ - [https://dpcc.house.gov](https://dpcc.house.gov)
+ - date_published: 2024-09-14T23:22:00.106815+00:00
+
+ ## Congressman John Duarte
+ - [https://duarte.house.gov](https://duarte.house.gov)
+ - date_published: 2024-06-27T14:24:25+00:00
+
+ ## United States Congressman Neal Dunn
+ - [https://dunn.house.gov](https://dunn.house.gov)
+ - date_published: 2024-06-27T14:16:05.643824+00:00
+
+ ## Representative Dusty Johnson
+ - [https://dustyjohnson.house.gov](https://dustyjohnson.house.gov)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Congressman Chuck Edwards
+ - [https://edwards.house.gov](https://edwards.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Committee on Education & the Workforce | Republicans
+ - [https://edworkforce.house.gov](https://edworkforce.house.gov)
+ - date_published: 2024-05-08T09:29:42.942973+00:00
+
+ ## United States Congressman Jake Ellzey
+ - [https://ellzey.house.gov](https://ellzey.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Tom Emmer
+ - [https://emmer.house.gov](https://emmer.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## House Committee on Energy and Commerce
+ - [https://energycommerce.house.gov](https://energycommerce.house.gov)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Congresswoman Veronica Escobar
+ - [https://escobar.house.gov](https://escobar.house.gov)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Congresswoman Anna Eshoo
+ - [https://eshoo.house.gov](https://eshoo.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Home | Rep. Adriano Espaillat
+ - [https://espaillat.house.gov](https://espaillat.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Ron Estes
+ - [https://estes.house.gov](https://estes.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## House Committee on Ethics
+ - [https://ethics.house.gov](https://ethics.house.gov)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Representative Dwight Evans
+ - [https://evans.house.gov](https://evans.house.gov)
+ - date_published: 2024-06-27T14:20:44.274180+00:00
+
+ ## U.S. Representative Mike Ezell
+ - [https://ezell.house.gov](https://ezell.house.gov)
+ - date_published: 2024-05-09T02:35:18.599399+00:00
+
+ ## Congressman Pat Fallon
+ - [https://fallon.house.gov](https://fallon.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Representative Randy Feenstra
+ - [https://feenstra.house.gov](https://feenstra.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## U.S. Representative Drew Ferguson
+ - [https://ferguson.house.gov](https://ferguson.house.gov)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Representative Teresa Fernandez
+ - [https://fernandez.house.gov](https://fernandez.house.gov)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Financial Services Committee
+ - [https://financialservices.house.gov](https://financialservices.house.gov)
+ - date_published: 2024-06-22T10:57:51+00:00
+
+ ## United States Congressman Brad Finstad
+ - [https://finstad.house.gov](https://finstad.house.gov)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Congresswoman Michelle Fischbach
+ - [https://fischbach.house.gov](https://fischbach.house.gov)
+ - date_published: 2024-06-27T14:13:28.402991+00:00
+
+ ## Representative Scott Fitzgerald
+ - [https://fitzgerald.house.gov](https://fitzgerald.house.gov)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Congressman Brian Fitzpatrick
+ - [https://fitzpatrick.house.gov](https://fitzpatrick.house.gov)
+ - date_published: 2024-06-27T14:21:20.113934+00:00
+
+ ## Congressman Chuck Fleischmann
+ - [https://fleischmann.house.gov](https://fleischmann.house.gov)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## U.S. Congresswoman Lizzie Fletcher
+ - [https://fletcher.house.gov](https://fletcher.house.gov)
+ - date_published: 2024-06-27T14:10:30+00:00
+
+ ## Congressman Mike Flood
+ - [https://flood.house.gov](https://flood.house.gov)
+ - date_published: 2024-06-27T14:16:29.762898+00:00
+
+ ## Congressman Vince Fong
+ - [https://fong.house.gov](https://fong.house.gov)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Committee on Foreign Affairs
+ - [https://foreignaffairs.house.gov](https://foreignaffairs.house.gov)
+ - date_published: 2024-06-27T14:21:27.946023+00:00
+
+ ## Forms
+ - [https://forms.house.gov](https://forms.house.gov)
+ - date_published: 2024-09-14T23:22:02.392630+00:00
+
+ ## Congressman Bill Foster
+ - [https://foster.house.gov](https://foster.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home - Valerie Foushee
+ - [https://foushee.house.gov](https://foushee.house.gov)
+ - date_published: 2024-06-27T14:02:29.711838+00:00
+
+ ## U.S. Congresswoman Virginia Foxx
+ - [https://foxx.house.gov](https://foxx.house.gov)
+ - date_published: 2024-06-27T14:09:36+00:00
+
+ ## U.S. Representative Lois Frankel
+ - [https://frankel.house.gov](https://frankel.house.gov)
+ - date_published: 2024-06-27T14:11:33+00:00
+
+ ## Congressman Scott Franklin
+ - [https://franklin.house.gov](https://franklin.house.gov)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Home | Congressman Maxwell Frost of Florida's 10th District
+ - [https://frost.house.gov](https://frost.house.gov)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## U.S. Representative Russell Fry
+ - [https://fry.house.gov](https://fry.house.gov)
+ - date_published: 2024-06-27T13:59:19+00:00
+
+ ## Congressman Russ Fulcher
+ - [https://fulcher.house.gov](https://fulcher.house.gov)
+ - date_published: 2024-06-27T14:24:11.814056+00:00
+
+ ## Congressman Matt Gaetz
+ - [https://gaetz.house.gov](https://gaetz.house.gov)
+ - date_published: 2024-06-27T14:21:48.586715+00:00
+
+ ## Congressman John Garamendi
+ - [https://garamendi.house.gov](https://garamendi.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Representative Andrew Garbarino
+ - [https://garbarino.house.gov](https://garbarino.house.gov)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## U.S. Congressman Garret Graves
+ - [https://garretgraves.house.gov](https://garretgraves.house.gov)
+ - date_published: 2024-06-27T14:17:56+00:00
+
+ ## Congressman Carlos Gimenez
+ - [https://gimenez.house.gov](https://gimenez.house.gov)
+ - date_published: 2024-06-27T14:09:55.921291+00:00
+
+ ## Home - Marie Gluesenkamp Perez
+ - [https://gluesenkampperez.house.gov](https://gluesenkampperez.house.gov)
+ - date_published: 2024-06-27T14:15:43.905733+00:00
 

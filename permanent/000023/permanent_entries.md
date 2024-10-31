@@ -1,23 +1,3 @@
- ## STEEPLE - A Scary Go Round Comic
- - [https://steeple.church](https://steeple.church)
- - date_published: 2020-02-16T00:00:00+00:00
-
- ## TENSOR CHURCH - AI Religion Chat
- - [https://tensor.church](https://tensor.church)
- - date_published: 2024-06-19T19:40:45.277877+00:00
-
- ## Accueil - ANRMP - Autorité Nationale de Régulation des Marchés Publics
- - [https://anrmp.ci](https://anrmp.ci)
- - date_published: 2024-09-11T18:11:45+00:00
-
- ## Home - Atlanta CI
- - [https://atlanta.ci](https://atlanta.ci)
- - date_published: 2024-05-07T08:03:00+00:00
-
- ## Auchan - Toutes vos courses en ligne
- - [https://www.auchan.ci](https://www.auchan.ci)
- - date_published: 2024-09-11T18:10:13.246393+00:00
-
  ## autofix.ci automatically fixes pull requests to increase developer productivity
  - [https://autofix.ci](https://autofix.ci)
  - date_published: 2024-07-01T20:27:16+00:00
@@ -4010,4 +3990,24 @@
  ## Base
  - [https://base.club](https://base.club)
  - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Bass Drop
+ - [https://bassdrop.club](https://bassdrop.club)
+ - date_published: 2024-08-11T00:02:26.986927+00:00
+
+ ## Bayes Club
+ - [https://bayes.club](https://bayes.club)
+ - date_published: 2024-04-30T03:49:27.963674+00:00
+
+ ## Beautiful Brains – Change tomorrow… Today!
+ - [https://beautifulbrains.club](https://beautifulbrains.club)
+ - date_published: 2024-06-12T12:47:24.972773+00:00
+
+ ## Being Boss | A Podcast + Resource + Community for Business Owners
+ - [https://beingboss.club](https://beingboss.club)
+ - date_published: 2021-09-17T00:00:00+00:00
+
+ ## BidHouse Club - The first Business Club on MultiversX
+ - [https://bidhouse.club](https://bidhouse.club)
+ - date_published: 2024-09-24T11:21:44.077539+00:00
 

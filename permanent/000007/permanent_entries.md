@@ -1,7 +1,3 @@
- ## LoanCalculator
- - [https://kreditrechner.bawag.at](https://kreditrechner.bawag.at)
- - date_published: 2024-06-27T12:29:17+00:00
-
  ## Intro | Markets
  - [https://markets.bawag.at](https://markets.bawag.at)
  - date_published: 2024-09-27T09:32:08.936413+00:00
@@ -4013,4 +4009,8 @@ Welcome 83.8.86.64 [83.8.86.64.ipv4.supernova.orange.pl]
  ## Mailinglisten auf verteiler.oesterreich.gv.at
  - [https://verteiler.oesterreich.gv.at](https://verteiler.oesterreich.gv.at)
  - date_published: 2024-05-11T07:11:10.250072+00:00
+
+ ## oesterreich.gv.at – Startseite
+ - [https://oesterreich.gv.at](https://oesterreich.gv.at)
+ - date_published: 2024-05-11T07:10:33.779112+00:00
 
