@@ -1,79 +1,3 @@
- ## Home - Effectus Media Group
- - [https://www.effectusmedia.com](https://www.effectusmedia.com)
- - date_published: 2024-06-28T16:03:02.283550+00:00
-
- ## Effectus Software | Agile Web & Mobile Software Development
- - [https://www.effectussoftware.com](https://www.effectussoftware.com)
- - date_published: 2024-06-22T09:16:35.840508+00:00
-
- ## Reach Your Audience with Video Advertising | Effectv
- - [https://www.effectv.com](https://www.effectv.com)
- - date_published: 2024-08-13T00:00:00+00:00
-
- ## Effed Up Movies
- - [https://www.effedupmovies.com](https://www.effedupmovies.com)
- - date_published: 2024-07-04T01:54:36+00:00
-
- ## Home - Law Offices of Daniel Martinez PLLC
- - [https://themartinezlaw.effexhost.com](https://themartinezlaw.effexhost.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Efficient VC
- - [https://efficientvc.com](https://efficientvc.com)
- - date_published: 2022-10-27T00:00:00+00:00
-
- ## CloudLedger: Robust, Flexible, Open - hosted LedgerSMB / EFFICITO.COM
- - [http://efficito.com](http://efficito.com)
- - date_published: 2024-07-13T16:46:55.449468+00:00
-
- ## Try now the #1 CRM solution in Europe! | efficy
- - [https://www.efficy.com](https://www.efficy.com)
- - date_published: 2024-06-18T16:17:13+00:00
-
- ## Extranet éditeur : Connection
- - [https://publisher.effiliation.com](https://publisher.effiliation.com)
- - date_published: 2024-06-25T18:23:31.267484+00:00
-
- ## Welcome to nginx!
- - [https://sso.effiliation.com](https://sso.effiliation.com)
- - date_published: 2023-03-28T17:09:24+00:00
-
- ## Effiliation, plateforme d'affiliation et de gestion de partenariats
- - [https://www.effiliation.com](https://www.effiliation.com)
- - date_published: 2017-08-23T14:32:13+00:00
-
- ## Sign in
- - [https://app.effortlessadmin.com](https://app.effortlessadmin.com)
- - date_published: 2024-07-13T11:43:04.284307+00:00
-
- ## Independent Plan Administration for Employee Benefits
- - [https://effortlessadmin.com](https://effortlessadmin.com)
- - date_published: 2024-05-11T07:17:21.434523+00:00
-
- ## Home - Effost conference
- - [http://www.effostconference.com](http://www.effostconference.com)
- - date_published: 2024-10-19T22:55:17.821972+00:00
-
- ## effx | the simplest way to navigate and operate your microservices
- - [https://effx.com](https://effx.com)
- - date_published: 2021-10-22T00:00:00+00:00
-
- ## Take a Gap Year & Travel Around The World - EF Gap Year
- - [https://efgapyear.com](https://efgapyear.com)
- - date_published: 2024-06-18T06:47:21.241058+00:00
-
- ## There's a better way to do Agile and DevOps | Eficode
- - [https://www.eficode.com](https://www.eficode.com)
- - date_published: 2024-08-16T09:54:43+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - UK - eFinancialCareers
- - [https://recruiterhub.efinancialcareers.com](https://recruiterhub.efinancialcareers.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - USA - eFinancialCareers
- - [https://efinancialcareers.com](https://efinancialcareers.com)
- - date_published: 2023-10-25T08:29:52.076490+00:00
-
  ## 403 page
  - [https://www.pilotaws.efinancialcareers.com](https://www.pilotaws.efinancialcareers.com)
  - date_published: 2021-11-10T16:44:03+00:00
@@ -4036,4 +3960,80 @@
  ## Elsevier | An Information Analytics Business
  - [https://reader.elsevier.com](https://reader.elsevier.com)
  - date_published: 2024-09-14T10:00:53.007984+00:00
+
+ ## Welcome
+ - [https://sd-cart.elsevier.com](https://sd-cart.elsevier.com)
+ - date_published: 2024-04-29T02:27:06.730853+00:00
+
+ ## Home - Elsevier Support Center
+ - [https://service.elsevier.com](https://service.elsevier.com)
+ - date_published: 2024-04-29T02:27:05.152238+00:00
+
+ ## Shop and Discover Books, Journals, Articles and more | Elsevier Shop
+ - [https://shop.elsevier.com](https://shop.elsevier.com)
+ - date_published: 2024-05-01T08:48:39.128402+00:00
+
+ ## Shop and Discover Books, Journals, Articles and more | Elsevier Shop
+ - [https://store.elsevier.com](https://store.elsevier.com)
+ - date_published: 2024-05-30T21:14:21.735592+00:00
+
+ ## ClinicalKey AI Subscriptions. Start Your Free Trial Today.
+ - [https://subscriptions.elsevier.com](https://subscriptions.elsevier.com)
+ - date_published: 2024-10-16T03:23:34.211679+00:00
+
+ ## Waseda University
+ - [https://waseda.pure.elsevier.com](https://waseda.pure.elsevier.com)
+ - date_published: 2024-06-24T03:02:50.577643+00:00
+
+ ## Media Hub
+ - [https://webinars.elsevier.com](https://webinars.elsevier.com)
+ - date_published: 2024-09-16T11:11:19.870721+00:00
+
+ ## Elsevier | An Information Analytics Business
+ - [https://elsevier.com](https://elsevier.com)
+ - date_published: 2023-11-09T12:46:24.027751+00:00
+
+ ## ScienceDirect
+ - [https://journals.elsevier.com](https://journals.elsevier.com)
+ - date_published: 2024-05-08T10:32:14.401601+00:00
+
+ ## Elsevier | An Information Analytics Business
+ - [http://www.elsevierbi.com](http://www.elsevierbi.com)
+ - date_published: 2024-10-19T06:28:20.755513+00:00
+
+ ## Home - The Bookmark
+ - [https://bookmark.elsevierhealth.com](https://bookmark.elsevierhealth.com)
+ - date_published: 2024-10-16T03:23:46.728921+00:00
+
+ ## eBooks de Medicina y Ciencias de la salud para Estudiantes y Profesionales
+ - [https://tienda.elsevierhealth.com](https://tienda.elsevierhealth.com)
+ - date_published: 2024-10-16T03:23:14.665163+00:00
+
+ ## Elsevier Health Student and Practitioner Medical Books and ebooks - Asia
+ - [https://www.asia.elsevierhealth.com](https://www.asia.elsevierhealth.com)
+ - date_published: 2024-10-16T03:23:20.336388+00:00
+
+ ## Elsevier Health Student and Practitioner Medical Books, ebooks and journals
+ - [https://www.eu.elsevierhealth.com](https://www.eu.elsevierhealth.com)
+ - date_published: 2024-10-16T03:22:56.042160+00:00
+
+ ## Elsevier Health Student and Practitioner Medical Books, ebooks and journals
+ - [https://www.mea.elsevierhealth.com](https://www.mea.elsevierhealth.com)
+ - date_published: 2024-10-16T03:23:17.439445+00:00
+
+ ## Elsevier Health Sciences Medical Books, ebooks and journals
+ - [https://www.uk.elsevierhealth.com](https://www.uk.elsevierhealth.com)
+ - date_published: 2024-10-16T03:22:58.561077+00:00
+
+ ## US Elsevier Health Bookshop | Mosby, Saunders, Netter & more
+ - [https://www.us.elsevierhealth.com](https://www.us.elsevierhealth.com)
+ - date_published: 2024-06-17T02:39:16.301408+00:00
+
+ ## Arkitektur, Design og Konservering - Dansk portal for forskning og KUV
+ - [https://adk.elsevierpure.com](https://adk.elsevierpure.com)
+ - date_published: 2024-07-08T15:05:55.842431+00:00
+
+ ## Los Alamos National Laboratory
+ - [https://lanlexperts.elsevierpure.com](https://lanlexperts.elsevierpure.com)
+ - date_published: 2024-10-16T05:30:36.659377+00:00
 

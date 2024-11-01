@@ -1,183 +1,3 @@
- ## Power Apps
- - [https://apps.powerapps.com](https://apps.powerapps.com)
- - date_published: 2024-05-07T22:24:46.370093+00:00
-
- ## Power Apps
- - [https://make.powerapps.com](https://make.powerapps.com)
- - date_published: 2024-07-02T13:14:38.511523+00:00
-
- ## Home
-		 · Customer Self-Service
- - [https://abssupport.powerappsportals.com](https://abssupport.powerappsportals.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Event Management
- - [https://echa-elm.powerappsportals.com](https://echa-elm.powerappsportals.com)
- - date_published: 2024-10-16T20:49:58.067710+00:00
-
- ## Home
- - [https://msadvertisingpartnerprogram.powerappsportals.com](https://msadvertisingpartnerprogram.powerappsportals.com)
- - date_published: 2024-10-14T12:29:32.722602+00:00
-
- ## Página principal
-		 · Autoservicio de clientes
- - [https://portalicfespqrsdf.powerappsportals.com](https://portalicfespqrsdf.powerappsportals.com)
- - date_published: 2024-09-12T13:12:51.717595+00:00
-
- ## Home
-		Data Exchange Framework Signing Portal
- - [https://signdxf.powerappsportals.com](https://signdxf.powerappsportals.com)
- - date_published: 2024-07-15T10:43:07.129867+00:00
-
- ## Microsoft Power Automate
- - [https://make.powerautomate.com](https://make.powerautomate.com)
- - date_published: 2024-06-23T09:44:04.904554+00:00
-
- ## Home - Power Automedia
- - [https://powerautomedia.com](https://powerautomedia.com)
- - date_published: 2024-05-02T09:28:21.947840+00:00
-
- ## Home
- - [http://www.powerball.com](http://www.powerball.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Not Found
- - [https://api.powerbi.com](https://api.powerbi.com)
- - date_published: 2024-08-02T23:43:18.601133+00:00
-
- ## Power BI
- - [https://app.powerbi.com](https://app.powerbi.com)
- - date_published: 1999-01-01T00:00:00+00:00
- - tags: ['project management']
-
- ## Trident Data Integration
- - [https://msitpbiadf.powerbi.com](https://msitpbiadf.powerbi.com)
- - date_published: 2024-06-28T22:34:28+00:00
-
- ## Fabric Kusto Extension
- - [https://msitpbiadx.powerbi.com](https://msitpbiadx.powerbi.com)
- - date_published: 2024-06-28T22:34:24+00:00
-
- ## React App
- - [https://msitpbiapp.powerbi.com](https://msitpbiapp.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Data Enginneering and Data Science Extension App
- - [https://msitpbides.powerbi.com](https://msitpbides.powerbi.com)
- - date_published: 2024-06-28T22:34:24+00:00
-
- ## React App
- - [https://msitpbidfw.powerbi.com](https://msitpbidfw.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## React App
- - [https://msitpbidmh.powerbi.com](https://msitpbidmh.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Retail Data Solutions
- - [https://msitpbidmr.powerbi.com](https://msitpbidmr.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## React App
- - [https://msitpbidoi.powerbi.com](https://msitpbidoi.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Trident Data Integration
- - [https://msitpbidpe.powerbi.com](https://msitpbidpe.powerbi.com)
- - date_published: 2024-06-28T22:34:28+00:00
-
- ## Environment extension app
- - [https://msitpbienv.powerbi.com](https://msitpbienv.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## React App
- - [https://msitpbiesg.powerbi.com](https://msitpbiesg.powerbi.com)
- - date_published: 2024-06-28T22:34:30+00:00
-
- ## FabricFunctionSet
- - [https://msitpbifxs.powerbi.com](https://msitpbifxs.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Gateway Admin Portal
- - [https://msitpbigap.powerbi.com](https://msitpbigap.powerbi.com)
- - date_published: 2024-06-29T04:35:32.740569+00:00
-
- ## TridentSaaSDatabase
- - [https://msitpbigql.powerbi.com](https://msitpbigql.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## HLS Cohort Extension
- - [https://msitpbihls.powerbi.com](https://msitpbihls.powerbi.com)
- - date_published: 2024-06-28T22:34:24+00:00
-
- ## Lakehouse
- - [https://msitpbilhe.powerbi.com](https://msitpbilhe.powerbi.com)
- - date_published: 2024-06-28T22:34:24+00:00
-
- ## Mounted Relational Database
- - [https://msitpbirdb.powerbi.com](https://msitpbirdb.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## React App
- - [https://msitpbirfx.powerbi.com](https://msitpbirfx.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Real-Time hub
- - [https://msitpbiriv.powerbi.com](https://msitpbiriv.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Spark core extension app
- - [https://msitpbispc.powerbi.com](https://msitpbispc.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## SQL DB extension
- - [https://msitpbisql.powerbi.com](https://msitpbisql.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Event Stream
- - [https://msitpbistm.powerbi.com](https://msitpbistm.powerbi.com)
- - date_published: 2024-06-28T22:34:24+00:00
-
- ## Warehouse extension
- - [https://msitpbiwhs.powerbi.com](https://msitpbiwhs.powerbi.com)
- - date_published: 2024-06-28T22:34:22+00:00
-
- ## Power BI Playground
- - [https://msitplayground.powerbi.com](https://msitplayground.powerbi.com)
- - date_published: 2024-06-29T04:35:06.213304+00:00
-
- ## Power BI
- - [https://msit.powerbi.com](https://msit.powerbi.com)
- - date_published: 2024-05-07T09:12:56.870130+00:00
-
- ## Trident Data Integration
- - [https://pbiadf.powerbi.com](https://pbiadf.powerbi.com)
- - date_published: 2024-05-07T09:12:46.033719+00:00
-
- ## Fabric Kusto Extension
- - [https://pbiadx.powerbi.com](https://pbiadx.powerbi.com)
- - date_published: 2024-05-07T09:12:44.930877+00:00
-
- ## React App
- - [https://pbiapp.powerbi.com](https://pbiapp.powerbi.com)
- - date_published: 2024-05-07T09:13:07.250428+00:00
-
- ## Data Enginneering and Data Science Extension App
- - [https://pbides.powerbi.com](https://pbides.powerbi.com)
- - date_published: 2024-05-07T09:13:16.438694+00:00
-
- ## React App
- - [https://pbidfw.powerbi.com](https://pbidfw.powerbi.com)
- - date_published: 2024-05-07T09:12:37.931093+00:00
-
- ## React App
- - [https://pbidmh.powerbi.com](https://pbidmh.powerbi.com)
- - date_published: 2024-05-07T09:12:56.067806+00:00
-
- ## Retail Data Solutions
- - [https://pbidmr.powerbi.com](https://pbidmr.powerbi.com)
- - date_published: 2024-05-07T09:12:55.322433+00:00
-
  ## React App
  - [https://pbidoi.powerbi.com](https://pbidoi.powerbi.com)
  - date_published: 2024-05-07T09:12:51.592875+00:00
@@ -1079,10 +899,6 @@
  ## Start - Agencja Pragmatycy
  - [https://pragmatycy.com](https://pragmatycy.com)
  - date_published: 2024-04-02T00:00:00+00:00
-
- ## Pragnakalp Techlabs: AI NLP Chatbot Development Company from India
- - [https://www.pragnakalp.com](https://www.pragnakalp.com)
- - date_published: 2024-06-19T22:48:39+00:00
 
  ## pragdave
  - [http://pragdave.pragprog.com](http://pragdave.pragprog.com)
@@ -4028,4 +3844,185 @@
  ## Sign in - Google Accounts
  - [https://management.prismamedia.com](https://management.prismamedia.com)
  - date_published: 2024-06-25T18:24:26.562576+00:00
+
+ ## Accueil - Prismamedia
+ - [https://www.prismamedia.com](https://www.prismamedia.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Prisma Data Platform Status
+ - [https://www.prisma-status.com](https://www.prisma-status.com)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Prismatext | The largest blended-language bookshelf in the world
+ - [https://prismatext.com](https://prismatext.com)
+ - date_published: 2024-10-20T23:41:26.204408+00:00
+
+ ## school assembly programs
+ - [http://www.prismaticmagic.com](http://www.prismaticmagic.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Home | Kind Tree
+ - [https://prismconcentrates.com](https://prismconcentrates.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Prism Detect | Drone detection
+ - [https://www.prismdetect.com](https://www.prismdetect.com)
+ - date_published: 2024-09-05T20:15:31.500313+00:00
+
+ ## Employee Portal
+ - [https://mhq-ep.prismhr.com](https://mhq-ep.prismhr.com)
+ - date_published: 2024-08-19T10:10:37.386399+00:00
+
+ ## The Chronicle of Philanthropy
+ - [https://the-chronicle-of-philanthropy.prismhr-hire.com](https://the-chronicle-of-philanthropy.prismhr-hire.com)
+ - date_published: 2024-06-21T23:21:10.915305+00:00
+
+ ## Prism
+ - [https://prismjs.com](https://prismjs.com)
+ - date_published: 2022-08-23T10:42:57+00:00
+
+ ## Prisms
+ - [https://www.prismsvr.com](https://www.prismsvr.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## The Prison Bitch Name Generator - What is your Prison Bitch Name?
+ - [http://www.prisonbitchname.com](http://www.prisonbitchname.com)
+ - date_published: 2019-04-28T20:33:31+00:00
+
+ ## Responsive Grey Boxes
+ - [https://prisoner.com](https://prisoner.com)
+ - date_published: 2024-04-22T21:52:00+00:00
+
+ ## PrisonerAlert
+ - [https://prisoneralert.com](https://prisoneralert.com)
+ - date_published: 2024-05-06T23:04:36.205502+00:00
+
+ ## Inmate Search & Inmate Lookup - Jails, Prisons & Correctional facilities
+ - [https://prisoninsight.com](https://prisoninsight.com)
+ - date_published: 2024-06-21T22:11:49+00:00
+
+ ## Alex Jones' Endgame
+ - [http://www.prisonplanet.com](http://www.prisonplanet.com)
+ - date_published: 2019-07-04T11:09:25+00:00
+
+ ## Pristine Auction
+ - [https://www.pristineauction.com](https://www.pristineauction.com)
+ - date_published: 2024-07-14T04:49:37.034034+00:00
+
+ ## Pristine Custom Wood Furniture Santa Rosa, CA - Desks Chairs Conference Tables
+ - [https://pristinecustomwoodfurnituresantarosaca.com](https://pristinecustomwoodfurnituresantarosaca.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## P2 - Pritesh Pawar
+ - [https://priteshpawar.com](https://priteshpawar.com)
+ - date_published: 2021-10-24T05:28:53+00:00
+
+ ## Prithviraj (Raj) Ammanabrolu
+ - [https://prithvirajva.com](https://prithvirajva.com)
+ - date_published: 2024-04-28T05:51:14.883677+00:00
+ - tags: ['personal']
+
+ ## Privacy
+ - [https://app.privacy.com](https://app.privacy.com)
+ - date_published: 2024-06-13T16:39:30+00:00
+
+ ## Virtual Cards That Protect Your Payments | Online Payment Security
+ - [https://privacy.com](https://privacy.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Privacy Status
+ - [https://status.privacy.com](https://status.privacy.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Privacy
+ - [https://support.privacy.com](https://support.privacy.com)
+ - date_published: 2024-10-02T12:27:14.874562+00:00
+
+ ## Homepage - Privacy4Cars
+ - [https://privacy4cars.com](https://privacy4cars.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## PrivacyConnect by OneTrust
+ - [https://www.privacyconnect.com](https://www.privacyconnect.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## PRIVACY EUROPE - professional advice on data privacy
+ - [https://www.privacy-europe.com](https://www.privacy-europe.com)
+ - date_published: 2020-10-30T13:06:43+00:00
+
+ ## Privacy HQ - Knowledge Base on Digital Privacy, VPN and Cyber Security - Privacy HQ
+ - [https://privacyhq.com](https://privacyhq.com)
+ - date_published: 2024-02-08T22:25:16.330746+00:00
+
+ ## Home
+ - [https://www.privacylaws.com](https://www.privacylaws.com)
+ - date_published: 2024-07-01T03:52:21.464480+00:00
+
+ ## Internet Privacy Protection
+ - [https://www.privacymonitor.com](https://www.privacymonitor.com)
+ - date_published: 2020-07-26T00:00:00+00:00
+
+ ## #1 Privacy Policy Generator: Free, CCPA, GDPR, CalOPPA - Privacy Policies
+ - [https://privacypolicies.com](https://privacypolicies.com)
+ - date_published: 2024-07-14T09:49:45+00:00
+
+ ## Invidious - search
+ - [https://invidious.privacyredirect.com](https://invidious.privacyredirect.com)
+ - date_published: 2024-06-22T13:21:50.703185+00:00
+
+ ## Home - Privacy Rules
+ - [https://privacyrules.com](https://privacyrules.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## The Privacy Sandbox: Technology for a More Private Web.
+ - [https://privacysandbox.com](https://privacysandbox.com)
+ - date_published: 2023-10-25T16:40:10.149411+00:00
+
+ ## Data Protection & Recruitment Consultancy - PrivacyTrust
+ - [https://www.privacytrust.com](https://www.privacytrust.com)
+ - date_published: 2024-07-14T11:58:32.597748+00:00
+
+ ## Join the PrivadoVPN Affiliate Program | PrivadoVPN
+ - [https://affiliates.privadovpn.com](https://affiliates.privadovpn.com)
+ - date_published: 2024-06-27T14:50:48.623723+00:00
+
+ ## Login | PrivadoVPN
+ - [https://app.privadovpn.com](https://app.privadovpn.com)
+ - date_published: 2024-06-27T14:50:44.524160+00:00
+
+ ## PrivadoVPN Blog
+ - [https://blog.privadovpn.com](https://blog.privadovpn.com)
+ - date_published: 2024-06-27T14:50:41.000422+00:00
+
+ ## Corporation PrivadoVPN WebSite
+ - [https://corporation.privadovpn.com](https://corporation.privadovpn.com)
+ - date_published: 2021-07-28T16:17:19+00:00
+
+ ## VPN Streaming Support | Ad Blocker | PrivadoVPN
+ - [https://privadovpn.com](https://privadovpn.com)
+ - date_published: 2024-05-06T21:46:45.607488+00:00
+
+ ## PrivadoVPN Plans
+ - [https://signup.privadovpn.com](https://signup.privadovpn.com)
+ - date_published: 2024-06-19T14:20:51+00:00
+
+ ## Privado VPN Customer Support | VPN Download, Setup, FAQ
+ - [https://support.privadovpn.com](https://support.privadovpn.com)
+ - date_published: 2024-06-27T14:50:52.000082+00:00
+
+ ## PrivateAI.com | Say Hello to $PGPT
+ - [https://www.privateai.com](https://www.privateai.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Home
+ - [https://www.privatebankerinternational.com](https://www.privatebankerinternational.com)
+ - date_published: 2024-10-07T16:31:28.930059+00:00
+
+ ## Private Banking Directory Wealth Management Offshore Banking Investment
+ - [http://www.privatebanking.com](http://www.privatebanking.com)
+ - date_published: 2024-06-16T04:29:03.563358+00:00
+
+ ## Private Division Official Store Buy PC Xbox PS4 Switch Game | Private Division Store
+ - [https://games.privatedivision.com](https://games.privatedivision.com)
+ - date_published: 2024-10-11T20:12:30+00:00
 

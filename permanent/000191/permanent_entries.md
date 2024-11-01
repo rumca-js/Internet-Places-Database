@@ -1,237 +1,3 @@
- ## The truth about everything* | Justin Myers | Substack
- - [https://theguyliner.substack.com](https://theguyliner.substack.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## The G Word | Grace Capobianco | Substack
- - [https://thegword.substack.com](https://thegword.substack.com)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## The Handbasket | Marisa Kabas | Substack
- - [https://thehandbasket.substack.com](https://thehandbasket.substack.com)
- - date_published: 2023-10-25T10:06:03.171125+00:00
- - tags: ['substack']
-
- ## The Health Algorithm | Mazen Ahmed | Substack
- - [https://thehealthalgorithm.substack.com](https://thehealthalgorithm.substack.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## The Heart Attack Diet | John Lawrence Aspden | Substack
- - [https://theheartattackdiet.substack.com](https://theheartattackdiet.substack.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Heavy Meta | Lorenzo Fantoni | Substack
- - [https://theheavymeta.substack.com](https://theheavymeta.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## The Hobbyist | Jonathan Wang | Substack
- - [https://thehobbyist.substack.com](https://thehobbyist.substack.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Premium Grind | Vitruvius Grind | Substack
- - [https://thehustlearchitect.substack.com](https://thehustlearchitect.substack.com)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## The Hustling Engineer | Hemant Pandey | Substack
- - [https://thehustlingengineer.substack.com](https://thehustlingengineer.substack.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## The Ice Man  | Seth Hettena | Substack
- - [https://theiceman.substack.com](https://theiceman.substack.com)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## The Immuno-Oncology Curve with Dr. Steven O'Day | Substack
- - [https://theimmunooncologycurve.substack.com](https://theimmunooncologycurve.substack.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## The Intelligent Friend | Riccardo Vocca | Substack
- - [https://theintelligentfriend.substack.com](https://theintelligentfriend.substack.com)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## The Introverted Networker | Greg | Substack
- - [https://theintrovertednetworker.substack.com](https://theintrovertednetworker.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## The Iowa Mercury | Douglas Burns | Substack
- - [https://theiowamercury.substack.com](https://theiowamercury.substack.com)
- - date_published: 2024-07-28T00:00:00+00:00
-
- ## The Irish Stoic | Enda Harte | Substack
- - [https://theirishstoic.substack.com](https://theirishstoic.substack.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## The Jaggy Thistle | Kenny Farquharson | Substack
- - [https://thejaggythistle.substack.com](https://thejaggythistle.substack.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## The Jewish Table | Leah Koenig | Substack
- - [https://thejewishtable.substack.com](https://thejewishtable.substack.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Become The Wild | Kat | Substack
- - [https://thekatgeorga.substack.com](https://thekatgeorga.substack.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## The Kennedy Beacon | Substack
- - [https://thekennedybeacon.substack.com](https://thekennedybeacon.substack.com)
- - date_published: 2024-05-07T10:32:15.530674+00:00
-
- ## The Knead | Mariette Papic | Substack
- - [https://theknead.substack.com](https://theknead.substack.com)
- - date_published: 2024-07-04T05:22:48.785305+00:00
-
- ## The Ladybird Purse • Opening up about money | Keris Fox | Substack
- - [https://theladybirdpurse.substack.com](https://theladybirdpurse.substack.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## The Lancashire Lead | Substack
- - [https://thelancashirelead.substack.com](https://thelancashirelead.substack.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## The Land of Random | David Nichols | Substack
- - [https://thelandofrandom.substack.com](https://thelandofrandom.substack.com)
- - date_published: 2024-05-01T04:29:28.870910+00:00
-
- ## The Lap | Charlie Daly | Substack
- - [https://thelap.substack.com](https://thelap.substack.com)
- - date_published: 2024-05-10T06:46:46.106332+00:00
-
- ## Adapt : Survive : Prevail | TheLastFarm | Substack
- - [https://thelastfarm.substack.com](https://thelastfarm.substack.com)
- - date_published: 2024-03-03T00:00:00+00:00
-
- ## johan’s substack | Substack
- - [https://thelastwave.substack.com](https://thelastwave.substack.com)
- - date_published: 2024-06-02T00:00:00+00:00
-
- ## The Lead | Substack
- - [https://theleaduk.substack.com](https://theleaduk.substack.com)
- - date_published: 2024-10-17T13:21:22.548357+00:00
-
- ## The Lettuce | Dave Macleod | Substack
- - [https://thelettuce.substack.com](https://thelettuce.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## The Liberal Patriot | John Halpin | Substack
- - [https://theliberalpatriot.substack.com](https://theliberalpatriot.substack.com)
- - date_published: 2024-06-29T10:59:04.295600+00:00
-
- ## The Lineup | John Pugh | Substack
- - [https://thelineupwithjohnpugh.substack.com](https://thelineupwithjohnpugh.substack.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## The Literary Compass | Georgia Clare | Substack
- - [https://theliterarycompass.substack.com](https://theliterarycompass.substack.com)
- - date_published: 2024-10-19T11:53:29.581055+00:00
-
- ## Living Fossils | The Living Fossils | Substack
- - [https://thelivingfossils.substack.com](https://thelivingfossils.substack.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## The Macro Compass | Alfonso Peccatiello (Alf) | Substack
- - [https://themacrocompass.substack.com](https://themacrocompass.substack.com)
- - date_published: 2024-01-09T01:45:22.656513+00:00
-
- ## The Magnet | Mark Frauenfelder | Substack
- - [https://themagnet.substack.com](https://themagnet.substack.com)
- - date_published: 2024-04-03T06:41:26.030404+00:00
-
- ## The Malarkey Musket | David Haggith | Substack
- - [https://themalarkeymusket.substack.com](https://themalarkeymusket.substack.com)
- - date_published: 2024-07-04T01:28:36.587732+00:00
-
- ## Media Report | Janice | Substack
- - [https://themediareport.substack.com](https://themediareport.substack.com)
- - date_published: 2024-08-19T14:44:05.237205+00:00
-
- ## Explorer's Guild Travel Log | The Middle Earth Companion | Substack
- - [https://themiddleearthcompanion.substack.com](https://themiddleearthcompanion.substack.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Misfits | Substack
- - [https://themisfits.substack.com](https://themisfits.substack.com)
- - date_published: 2024-08-18T02:58:34.793138+00:00
-
- ## The New Lede | The New Lede Staff | Substack
- - [https://thenewlede.substack.com](https://thenewlede.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## The New Urban Order | Diana Lind | Substack
- - [https://thenewurbanorder.substack.com](https://thenewurbanorder.substack.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## The Optionist  | Janice Min | Substack
- - [https://theoptionist.substack.com](https://theoptionist.substack.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## The Outlaw Ocean Project | Ian Urbina | Substack
- - [https://theoutlawocean.substack.com](https://theoutlawocean.substack.com)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## The Outpost | Cornelius Stahlblau | Substack
- - [https://theoutpostreport.substack.com](https://theoutpostreport.substack.com)
- - date_published: 2024-07-03T16:06:09.556344+00:00
-
- ## Owen’s Newsletter | Owen Young | Substack
- - [https://theowenyoung.substack.com](https://theowenyoung.substack.com)
- - date_published: 2024-05-06T22:18:48.326848+00:00
-
- ## The People's Software Engineer | Bhavana | Substack
- - [https://thepeoplessoftwareengineer.substack.com](https://thepeoplessoftwareengineer.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## The Perceptron | Casey Frechette | Substack
- - [https://theperceptron.substack.com](https://theperceptron.substack.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## The Philosophy Garden, Stoicism and beyond | Massimo Pigliucci | Substack
- - [https://thephilosophygarden.substack.com](https://thephilosophygarden.substack.com)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## The Phoenix | Shivani Singh | Substack
- - [https://thephoenix.substack.com](https://thephoenix.substack.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The Product Courier | Substack
- - [https://theproductcourier.substack.com](https://theproductcourier.substack.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## The Pudding | Substack
- - [https://thepuddingmail.substack.com](https://thepuddingmail.substack.com)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## The Quack Doctor | Caroline Rance | Substack
- - [https://thequackdoctor.substack.com](https://thequackdoctor.substack.com)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Thoughts of Commercial Real Estate | The Ranger | Substack
- - [https://theranger.substack.com](https://theranger.substack.com)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## The Rationalist | Petra | Substack
- - [https://therationalist.substack.com](https://therationalist.substack.com)
- - date_published: 2023-10-25T10:06:07.569258+00:00
- - tags: ['substack']
-
- ## The Rebooting | Brian Morrissey | Substack
- - [https://therebooting.substack.com](https://therebooting.substack.com)
- - date_published: 2024-04-30T06:56:31.533394+00:00
-
- ## The Rectangle | Callum Booth | Substack
- - [https://therectangle.substack.com](https://therectangle.substack.com)
- - date_published: 2024-01-09T01:45:25.693485+00:00
-
- ## The Revolution Continues | Substack
- - [https://therevolutioncontinues.substack.com](https://therevolutioncontinues.substack.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Rick Wilson’s Substack | Substack
- - [https://therickwilson.substack.com](https://therickwilson.substack.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Build in Private and Do Things that Scale | Jun Kim | Substack
- - [https://therne.substack.com](https://therne.substack.com)
- - date_published: 2024-10-18T20:59:47.123569+00:00
-
  ## The Run Out Grooves | Mitchell Stirling | Substack
  - [https://therunoutgrooves.substack.com](https://therunoutgrooves.substack.com)
  - date_published: 2024-07-09T00:00:00+00:00
@@ -4042,4 +3808,237 @@
  ## Limp Bizkit - Home
  - [https://store.suretone.com](https://store.suretone.com)
  - date_published: 2024-05-15T20:52:21.762091+00:00
+
+ ## suretonemerch
+ - [https://suretoneshop.com](https://suretoneshop.com)
+ - date_published: 2024-07-19T04:59:40.059230+00:00
+
+ ## Central Maine Real Estate & Homes for Sale | Surette Real Estate
+ - [https://surette-realestate.com](https://surette-realestate.com)
+ - date_published: 2021-06-22T16:03:15+00:00
+
+ ## Home | Surf303.com
+ - [http://surf303.com](http://surf303.com)
+ - date_published: 2018-06-06T06:28:09+00:00
+
+ ## SURFACE 51: Marketing, Everything.
+ - [https://surface51.com](https://surface51.com)
+ - date_published: 2024-10-15T07:24:34.712145+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://investors.surfair.com](https://investors.surfair.com)
+ - date_published: 2024-08-11T10:24:13.754771+00:00
+
+ ## Transforming regional flying through electrification - Surf Air
+ - [https://www.surfair.com](https://www.surfair.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## My blog.
+ - [https://surfcoderepeat.com](https://surfcoderepeat.com)
+ - date_published: 2023-04-22T22:35:33+00:00
+ - tags: ['personal']
+
+ ## Surfdog, Inc.
+ - [http://www.surfdog.com](http://www.surfdog.com)
+ - date_published: 2024-10-21T05:15:22.917762+00:00
+
+ ## LinkedIn prospecting, streamlined. - SURFE
+ - [https://www.surfe.com](https://www.surfe.com)
+ - date_published: 2024-01-15T16:16:46+00:00
+
+ ## Surfer — SEO, simplified.
+ - [http://surferseo.com](http://surferseo.com)
+ - date_published: 2024-07-14T13:27:28.768627+00:00
+
+ ## SurferToday.com | The Ultimate Surfing News Website
+ - [https://surfertoday.com](https://surfertoday.com)
+ - date_published: 2024-03-04T18:53:53.898974+00:00
+
+ ## Surfing Waves -  Online Resource for Surf Addicts!
+ - [https://csscdn.surfing-waves.com](https://csscdn.surfing-waves.com)
+ - date_published: 2024-07-20T19:19:20.784129+00:00
+
+ ## Surfing Waves -  Online Resource for Surf Addicts!
+ - [https://imgcdn.surfing-waves.com](https://imgcdn.surfing-waves.com)
+ - date_published: 2024-07-20T19:19:22.592992+00:00
+
+ ## Surfing Waves -  Online Resource for Surf Addicts!
+ - [https://js1.surfing-waves.com](https://js1.surfing-waves.com)
+ - date_published: 2024-07-20T19:19:16.612635+00:00
+
+ ## Surfing Waves -  Online Resource for Surf Addicts!
+ - [https://surfing-waves.com](https://surfing-waves.com)
+ - date_published: 2024-05-22T02:48:46.206387+00:00
+
+ ## Cierpliwości...
+ - [https://www.surfline.com](https://www.surfline.com)
+ - date_published: 2024-05-04T10:11:20.626239+00:00
+
+ ## Co-browse, co-sell, co-demo, co-anything | Surfly
+ - [https://surfly.com](https://surfly.com)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Surfly
+ - [https://uat.surfly.com](https://uat.surfly.com)
+ - date_published: 2024-10-11T10:16:12.389524+00:00
+
+ ## Surfly
+ - [https://surfly-us.com](https://surfly-us.com)
+ - date_published: 2024-10-11T10:16:49.687377+00:00
+
+ ## Cierpliwości...
+ - [https://my.surfshark.com](https://my.surfshark.com)
+ - date_published: 2024-04-29T07:13:31.486895+00:00
+
+ ## Sign up for Surfshark VPN account
+ - [https://order.surfshark.com](https://order.surfshark.com)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Surfshark: my account
+ - [https://search.surfshark.com](https://search.surfshark.com)
+ - date_published: 2024-07-24T02:36:59.228542+00:00
+
+ ## Cierpliwości...
+ - [https://support.surfshark.com](https://support.surfshark.com)
+ - date_published: 2024-04-29T07:13:23.596394+00:00
+
+ ## Surfshark: secure online VPN service & more
+ - [https://surfshark.com](https://surfshark.com)
+ - date_published: 2024-04-29T07:13:20.101866+00:00
+
+ ## Сергей Сурганов, дизайнер
+ - [http://surganov.com](http://surganov.com)
+ - date_published: 2024-07-13T15:02:13.068675+00:00
+
+ ## Surge: A seed platform for company builders
+ - [https://www.surgeahead.com](https://www.surgeahead.com)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## The Surgery Center - The Surgery Center Shrewsbury
+ - [https://www.surgerycentershrewsbury.com](https://www.surgerycentershrewsbury.com)
+ - date_published: 2024-07-02T03:23:16.006191+00:00
+
+ ## Surgical Robotics Technology | Robotic Surgery News
+ - [https://www.surgicalroboticstechnology.com](https://www.surgicalroboticstechnology.com)
+ - date_published: 2024-07-12T13:56:35+00:00
+
+ ## Surgimed Solutions - Medical Mounting Systems, Medical Carts, Medical Grade PCs, and Disinfectible Keyboards
+ - [https://surgimed-cart.com](https://surgimed-cart.com)
+ - date_published: 2024-06-10T13:11:12.887861+00:00
+
+ ## Suri Agro Fresh – Experience The Difference
+ - [https://www.suriagrofresh.com](https://www.suriagrofresh.com)
+ - date_published: 2024-06-19T23:09:31.356824+00:00
+
+ ## Surindra Auto Industries, Ludhiana - Manufacturer of Trailer Suspension Parts and Trailer Parts
+ - [http://www.surindraauto.com](http://www.surindraauto.com)
+ - date_published: 2024-10-15T21:37:37.976531+00:00
+
+ ## Inicia Sesión. larioja.com
+ - [https://areapersonal.surinenglish.com](https://areapersonal.surinenglish.com)
+ - date_published: 2024-07-19T21:28:01.342640+00:00
+
+ ## Business guide | Surinenglish.com |
+ - [https://business-guide.surinenglish.com](https://business-guide.surinenglish.com)
+ - date_published: 2024-07-19T21:28:26.844732+00:00
+
+ ## Classified ads | Surinenglish.com
+ - [https://classifieds.surinenglish.com](https://classifieds.surinenglish.com)
+ - date_published: 2024-07-19T21:28:17.742910+00:00
+
+ ## Sur in English in PDF version Surinenglish.com | July | 2024
+ - [https://print-edition.surinenglish.com](https://print-edition.surinenglish.com)
+ - date_published: 2024-07-19T21:27:56.987183+00:00
+
+ ## SUR in English - Spanish news in English
+ - [https://secure.surinenglish.com](https://secure.surinenglish.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## SUR in English - Spanish news in English
+ - [https://surinenglish.com](https://surinenglish.com)
+ - date_published: 2023-12-28T16:42:30.076739+00:00
+
+ ## Home
+ - [https://www.suriyun.com](https://www.suriyun.com)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## SUR LE JOURNALISME…
+ - [http://surlejournalisme.com](http://surlejournalisme.com)
+ - date_published: 2024-07-21T06:12:05.285152+00:00
+
+ ## Surperformance
+ - [https://surperformance.com](https://surperformance.com)
+ - date_published: 2024-05-04T14:28:35.723364+00:00
+
+ ## [S][J][P]
+ - [https://surplusjouissance.com](https://surplusjouissance.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## SurrealDB status
+ - [https://status.surrealdb.com](https://status.surrealdb.com)
+ - date_published: 2024-08-18T15:17:58.324737+00:00
+
+ ## SurrealDB | The ultimate multi-model database for tomorrow's applications
+ - [https://surrealdb.com](https://surrealdb.com)
+ - date_published: 2023-10-29T17:22:37.369138+00:00
+
+ ## Surreptitious Evil
+ - [http://www.surreptitiousevil.com](http://www.surreptitiousevil.com)
+ - date_published: 2024-10-21T14:30:01.133458+00:00
+
+ ## Today's Home: Surrey Real Estate
+ - [https://homes.surreynowleader.com](https://homes.surreynowleader.com)
+ - date_published: 2024-06-29T11:36:03.655214+00:00
+
+ ## Homepage
+ - [https://surrey-research-park.com](https://surrey-research-park.com)
+ - date_published: 2024-05-09T05:20:16.037179+00:00
+
+ ## lists.kernelnewbies.org Mailing Lists
+ - [http://blogs.surriel.com](http://blogs.surriel.com)
+ - date_published: 2024-07-07T04:04:15.738012+00:00
+
+ ## Rik van Riel's home page | Rik van Riel's home page
+ - [http://surriel.com](http://surriel.com)
+ - date_published: 2024-07-07T04:04:11+00:00
+
+ ## The Best Architecture and Design-Driven Shows
+ - [http://surroundpodcasts.com](http://surroundpodcasts.com)
+ - date_published: 2024-08-08T00:05:51+00:00
+
+ ## SursockHouse
+ - [https://sursockhouse.com](https://sursockhouse.com)
+ - date_published: 2023-10-25T17:19:53.345575+00:00
+
+ ## Surveillance Index
+ - [http://surveillanceindex.com](http://surveillanceindex.com)
+ - date_published: 2024-07-13T15:04:30.488435+00:00
+
+ ## Surveillance Valley | Surveillance Valley — Yasha Levine
+ - [http://surveillancevalley.com](http://surveillancevalley.com)
+ - date_published: 2024-06-28T16:32:36.024780+00:00
+
+ ## surverysparrow.com
+ - [https://surverysparrow.com](https://surverysparrow.com)
+ - date_published: 2024-08-06T21:11:06.642261+00:00
+
+ ## The Survex Project
+ - [http://survex.com](http://survex.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## SurveyCake 企業級雲端問卷｜最專業的免費線上調查表單
+ - [https://www.surveycake.com](https://www.surveycake.com)
+ - date_published: 2024-07-07T02:56:59.351387+00:00
+
+ ## Survey Generator
+ - [https://reply.surveygenerator.com](https://reply.surveygenerator.com)
+ - date_published: 2024-06-16T09:39:59.911608+00:00
+
+ ## Enkätverktyget för myndigheter, offentliga organisationer och företag – Survey Generator
+ - [https://surveygenerator.com](https://surveygenerator.com)
+ - date_published: 2024-06-27T13:24:38+00:00
+
+ ## Enkätverktyget för myndigheter, offentliga organisationer och företag – Survey Generator
+ - [http://www.surveygenerator.com](http://www.surveygenerator.com)
+ - date_published: 2024-06-27T13:24:38+00:00
 

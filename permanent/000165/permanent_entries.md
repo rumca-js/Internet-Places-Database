@@ -1,188 +1,3 @@
- ## Global Leader in Product Lifecycle Management Software | PTC
- - [https://www.ptc.com](https://www.ptc.com)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Welcome to Catalyst Group ...
- - [https://ptere.com](https://ptere.com)
- - date_published: 2018-07-03T10:29:42+00:00
-
- ## Featured Apps and Games for Windows, Mac and Android
- - [http://ptf.com](http://ptf.com)
- - date_published: 2024-07-11T12:31:55.277588+00:00
-
- ## Visit Providence Park - Home of the Timbers & Thorns
- - [https://www.ptfcmap.com](https://www.ptfcmap.com)
- - date_published: 2024-10-18T16:29:28.116701+00:00
-
- ## PTGlobal.com
- - [http://www.ptglobal.com](http://www.ptglobal.com)
- - date_published: 2024-08-06T09:29:21.168536+00:00
-
- ## Machine Vision – Area Scan Cameras | Teledyne FLIR
- - [https://www.ptgrey.com](https://www.ptgrey.com)
- - date_published: 2024-06-17T04:59:29.486472+00:00
-
- ## Photo stitching software 360 degree Panorama image software - PTGui Stitching Software
- - [https://www.ptgui.com](https://www.ptgui.com)
- - date_published: 2024-06-23T11:03:20.370480+00:00
-
- ## Pieter Taks Holding B.V. | Operating Internet Corporations
- - [http://www.ptholding.com](http://www.ptholding.com)
- - date_published: 2024-07-16T19:52:29+00:00
-
- ## Pavel Timofeev
- - [https://ptimofeev.com](https://ptimofeev.com)
- - date_published: 2023-07-04T00:00:00+00:00
-
- ## HTTP Server Test Page powered by CentOS
- - [https://old.ptinews.com](https://old.ptinews.com)
- - date_published: 2021-06-27T23:47:13+00:00
-
- ## Press Trust Of India
- - [http://www.ptinews.com](http://www.ptinews.com)
- - date_published: 2024-06-19T05:03:41+00:00
-
- ## Portugal. The Man l Official Store
- - [https://ptmmercado.com](https://ptmmercado.com)
- - date_published: 2024-05-06T23:43:09.811287+00:00
-
- ## Home
- - [https://ptmoney.com](https://ptmoney.com)
- - date_published: 2024-01-16T17:03:51.125006+00:00
-
- ## Pioneer Network
- - [https://ptnnow.com](https://ptnnow.com)
- - date_published: 2024-06-25T16:04:36.141516+00:00
-
- ## pTools - Market Information Solutions
- - [http://www.ptools.com](http://www.ptools.com)
- - date_published: 2024-06-20T21:30:25.387002+00:00
-
- ## Family Week in Provincetown
- - [https://www.ptownfamilyweek.com](https://www.ptownfamilyweek.com)
- - date_published: 2024-08-18T17:57:53.294353+00:00
-
- ## ptownie Provincetown News and Events
- - [https://ptownie.com](https://ptownie.com)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Seafood Restaurant | Lobster Pot | Provincetown
- - [https://www.ptownlobsterpot.com](https://www.ptownlobsterpot.com)
- - date_published: 2024-08-18T17:43:55.248567+00:00
-
- ## Ptrace Security GmbH - Hands-On Workshops for Ethical Hackers
- - [https://ptrace-security.com](https://ptrace-security.com)
- - date_published: 2024-04-04T06:42:23+00:00
-
- ## ptrchm
- - [https://ptrchm.com](https://ptrchm.com)
- - date_published: 2023-12-17T17:43:33.561774+00:00
-
- ## Inner Machinations of a Starfish
- - [https://blog.ptrkstr.com](https://blog.ptrkstr.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## PtrSecVerify - Security Services
- - [https://ptrsecverify.com](https://ptrsecverify.com)
- - date_published: 2023-12-06T22:55:07+00:00
-
- ## PT SWARM
- - [https://swarm.ptsecurity.com](https://swarm.ptsecurity.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Leader in results-oriented cybersecurity
- - [https://www.ptsecurity.com](https://www.ptsecurity.com)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Peter T. Shaw
- - [https://www.ptshaw.com](https://www.ptshaw.com)
- - date_published: 2024-06-04T00:27:44+00:00
-
- ## Patterson Thuente Has Joined Husch Blackwell - Patterson Thuente IP
- - [http://ptslaw.com](http://ptslaw.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## PT SportSuite | Digital Media Ecosystems for Sports
- - [https://ptsportsuite.com](https://ptsportsuite.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## PrimeTime Timing
- - [https://pttiming.com](https://pttiming.com)
- - date_published: 2024-10-18T02:28:05.738707+00:00
-
- ## PTV Blog Start Page
- - [https://blog.ptvgroup.com](https://blog.ptvgroup.com)
- - date_published: 2023-08-09T00:00:00+00:00
-
- ## Move the World as Part of Our Team
- - [https://careers.ptvgroup.com](https://careers.ptvgroup.com)
- - date_published: 2024-07-08T13:37:43.359921+00:00
-
- ## PTV Transport Consult | PTV Group
- - [https://consult.ptvgroup.com](https://consult.ptvgroup.com)
- - date_published: 2024-07-08T13:37:36.330496+00:00
-
- ## Home
-		 · Customer Self-Service
- - [https://helpdesk.ptvgroup.com](https://helpdesk.ptvgroup.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## training.ptvgroup.com
- - [https://training.ptvgroup.com](https://training.ptvgroup.com)
- - date_published: 2024-07-08T13:37:40.368053+00:00
-
- ## PTV Group - Empowering mobility for a cleaner, smarter & safer future
- - [https://ptvgroup.com](https://ptvgroup.com)
- - date_published: 2024-05-08T11:28:30.101262+00:00
-
- ## PTV Logistics: Routing & Transport Software
- - [https://www.ptvlogistics.com](https://www.ptvlogistics.com)
- - date_published: 2024-07-08T13:37:41.712297+00:00
-
- ## Customer Portal
- - [https://community.ptzoptics.com](https://community.ptzoptics.com)
- - date_published: 2023-06-19T12:36:34+00:00
-
- ## Home
- - [https://ptzoptics.com](https://ptzoptics.com)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## PUB400.COM - Your public IBM i server
- - [https://pub400.com](https://pub400.com)
- - date_published: 2024-01-30T14:37:36.318120+00:00
-
- ## Homepage Metro
- - [https://www.pubcon.com](https://www.pubcon.com)
- - date_published: 2024-07-19T18:51:21.040931+00:00
-
- ## PubExchange: the traffic exchange network
- - [https://main.pubexchange.com](https://main.pubexchange.com)
- - date_published: 2024-07-03T17:05:21.430527+00:00
-
- ## Advertising SDK For Windows UWP Games And Apps | Pubfinity
- - [https://pubfinity.com](https://pubfinity.com)
- - date_published: 2024-05-06T17:48:15.280997+00:00
-
- ## Pass Your 2017 CPA Exam On Your First Try! CPA Exam Guy
- - [http://pubfrontier.com](http://pubfrontier.com)
- - date_published: 2024-07-02T09:00:52+00:00
-
- ## cdn.pubfuture-ad.com | 502: Bad gateway
- - [https://cdn.pubfuture-ad.com](https://cdn.pubfuture-ad.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## PUBG: BATTLEGROUNDS
- - [https://www.pubg.com](https://www.pubg.com)
- - date_published: 2024-08-06T20:15:08.134843+00:00
-
- ## Document Delivery with RightFind
- - [https://pubget.com](https://pubget.com)
- - date_published: 2016-01-17T18:14:03+00:00
-
- ## Inicio - Publicaciones Confidenciales
- - [https://publicacionesconfidenciales.com](https://publicacionesconfidenciales.com)
- - date_published: 2024-07-04T03:41:20.414007+00:00
-
  ## PublicAffairs
  - [https://publicaffairsbooks.com](https://publicaffairsbooks.com)
  - date_published: 2017-06-29T17:46:37+00:00
@@ -4029,4 +3844,190 @@
  ## QCODE Media
  - [https://qcodemedia.com](https://qcodemedia.com)
  - date_published: 2024-09-21T23:07:33.073743+00:00
+
+ ## QCon Software Development Conferences | Events for Senior Software Devs
+ - [https://qconferences.com](https://qconferences.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## QCon London 2024 | April 8 - 10 | Software Development Conference
+ - [https://qconlondon.com](https://qconlondon.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## QCon New York 2023 | June 13 - 15
+ - [https://qconnewyork.com](https://qconnewyork.com)
+ - date_published: 2024-06-21T12:05:41+00:00
+
+ ## QCon San Francisco 2024 | November 18 - 22 | Software Development Conference | In-Person or Video-Only Recordings
+ - [https://qconsf.com](https://qconsf.com)
+ - date_published: 2024-07-13T16:11:25+00:00
+
+ ## qctimes.com | Read breaking news, sports and events from Davenport, Bettendorf, Moline, Rock Island and the the Quad Cities Region of Iowa and Illinois
+ - [https://qctimes.com](https://qctimes.com)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Qt Plotting Widget QCustomPlot - Introduction
+ - [https://qcustomplot.com](https://qcustomplot.com)
+ - date_published: 2024-04-29T09:54:37+00:00
+ - tags: ['qt', 'programming library']
+
+ ## Software that lives up to its promise - Qdentity
+ - [https://qdentity.com](https://qdentity.com)
+ - date_published: 2024-06-22T21:16:29.947797+00:00
+
+ ## PE供水管_中空壁设备_双高筋设备-青岛合创格瑞鑫塑料机械有限公司
+ - [http://www.qdhechuang.com](http://www.qdhechuang.com)
+ - date_published: 2024-06-28T17:14:14.955493+00:00
+
+ ## hello q_dork
+ - [http://qdork.com](http://qdork.com)
+ - date_published: 2024-06-22T14:44:21.625768+00:00
+
+ ## qdorks.com: Easy Advanced Google Query Composer
+ - [https://qdorks.com](https://qdorks.com)
+ - date_published: 2023-12-01T10:46:29.576983+00:00
+
+ ## QDPMA
+ - [http://www.qdpma.com](http://www.qdpma.com)
+ - date_published: 2024-06-06T14:08:37+00:00
+
+ ## QDragon :: Unique scripts for online entertainment
+ - [https://qdragon.com](https://qdragon.com)
+ - date_published: 2024-04-30T07:27:23.747712+00:00
+
+ ## QEII Home Lottery 2024 - Over 2,000 Prizes to be Won
+ - [https://qe2homelottery.com](https://qe2homelottery.com)
+ - date_published: 2024-05-10T02:41:18.398201+00:00
+
+ ## 我的工作分享
+ - [https://qeasyweb3.com](https://qeasyweb3.com)
+ - date_published: 2024-09-23T03:37:51+00:00
+
+ ## Amazon November Sale: 20 Fantastic Deals You Can Grab Right Now! | TECHWALTZ
+ - [https://qechtech.com](https://qechtech.com)
+ - date_published: 2020-10-10T19:37:25+00:00
+
+ ## Qeios - Empowering Researchers
+ - [https://qeios.com](https://qeios.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## QeRetail - Your eStore Handyman
+ - [https://www.qeretail.com](https://www.qeretail.com)
+ - date_published: 2024-07-03T19:00:51.230873+00:00
+
+ ## Qetail
+ - [https://qetail.com](https://qetail.com)
+ - date_published: 2024-06-19T06:52:08+00:00
+
+ ## Qewam
+ - [https://www.qewam.com](https://www.qewam.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Same Day Flower Delivery in Bellevue, WA, 98004 by your FTD florist QFC 800-900-6575
+ - [https://flowers.qfc.com](https://flowers.qfc.com)
+ - date_published: 2024-08-05T22:16:15.909776+00:00
+
+ ## QFC REWARDS World MastercardÂ®
+ - [https://www.qfcmastercard.com](https://www.qfcmastercard.com)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## QFSHUB – QUALITY FOODS AND SPICES
+ - [http://www.qfshub.com](http://www.qfshub.com)
+ - date_published: 2024-10-15T21:35:46.339943+00:00
+
+ ## Qgiv
+ - [https://secure.qgiv.com](https://secure.qgiv.com)
+ - date_published: 2024-04-29T02:41:55.928565+00:00
+
+ ## All-In-One Fundraising Platform for Nonprofits
+ - [https://www.qgiv.com](https://www.qgiv.com)
+ - date_published: 2024-08-06T10:09:16.454183+00:00
+
+ ## Redirecting to latest version of documents (master)
+ - [https://dev.qgroundcontrol.com](https://dev.qgroundcontrol.com)
+ - date_published: 2023-12-06T23:29:16+00:00
+
+ ## Redirecting to latest version of document (master)
+ - [https://docs.qgroundcontrol.com](https://docs.qgroundcontrol.com)
+ - date_published: 2024-06-10T12:25:18.122194+00:00
+
+ ## QGC - QGroundControl - Drone Control
+ - [http://qgroundcontrol.com](http://qgroundcontrol.com)
+ - date_published: 2020-02-25T00:00:00+00:00
+
+ ## 全国台湾同胞投资企业联谊会
+ - [http://www.qgtql.com](http://www.qgtql.com)
+ - date_published: 2024-05-14T02:08:32+00:00
+
+ ## 长云网
+ - [http://www.qhbtv.com](http://www.qhbtv.com)
+ - date_published: 2024-06-30T15:02:27+00:00
+
+ ## 秦皇岛新闻网
+ - [http://www.qhdnews.com](http://www.qhdnews.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Qhimm.com Forums - Index
+ - [http://forums.qhimm.com](http://forums.qhimm.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## 青海新闻网 青海门户 主流媒体
+ - [http://www.qhnews.com](http://www.qhnews.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Inicio - Q'hubo Bucaramanga
+ - [https://qhubobucaramanga.com](https://qhubobucaramanga.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Qhubo Medellín - Portada
+ - [https://qhubomedellin.com](https://qhubomedellin.com)
+ - date_published: 2024-09-10T12:41:27.995075+00:00
+
+ ## QÂ´Hubo Radio MedellÃ­n
+ - [https://qhuboradio.com](https://qhuboradio.com)
+ - date_published: 2022-10-04T13:29:04+00:00
+
+ ## 青海文明网欢迎您
+ - [http://www.qhwmw.com](http://www.qhwmw.com)
+ - date_published: 2024-06-30T17:03:13.300434+00:00
+
+ ## 半岛体育·德甲多特蒙德亚洲区域合作伙伴
+ - [https://www.qhxb1o.com](https://www.qhxb1o.com)
+ - date_published: 2024-05-08T02:29:33.407711+00:00
+
+ ## QI | Quite Interesting
+ - [https://qi.com](https://qi.com)
+ - date_published: 2024-05-07T15:55:34.236948+00:00
+
+ ## Qiaeru
+ - [https://www.qiaeru.com](https://www.qiaeru.com)
+ - date_published: 2024-08-26T21:11:52+00:00
+
+ ## 千龙网
+ - [http://www.qianlong.com](http://www.qianlong.com)
+ - date_published: 2024-06-30T14:05:46.058221+00:00
+
+ ## 个人空白简历表格|英文简历模板|求职简历模板免费下载 - 乔布简历
+ - [http://cv.qiaobutang.com](http://cv.qiaobutang.com)
+ - date_published: 2024-10-25T11:59:58.189575+00:00
+
+ ## Qiddiya the world’s ambassador of play
+ - [https://qiddiya.com](https://qiddiya.com)
+ - date_published: 2024-07-05T08:33:34+00:00
+
+ ## Qidget
+ - [https://qidget.com](https://qidget.com)
+ - date_published: 2020-12-03T02:13:41+00:00
+
+ ## QIDI Tech | EU Store | Innovative 3D Printers, Filaments & Accessories
+ - [https://eu.qidi3d.com](https://eu.qidi3d.com)
+ - date_published: 2024-05-08T12:31:16.417799+00:00
+
+ ## QIDI Tech | Innovative 3D Printers, Filaments & Accessories
+ - [https://qidi3d.com](https://qidi3d.com)
+ - date_published: 2024-03-01T19:12:57+00:00
+ - tags: ['3d printer']
+
+ ## QIDI Tech | Innovative 3D Printers, Filaments & Accessories
+ - [https://uk.qidi3d.com](https://uk.qidi3d.com)
+ - date_published: 2024-05-08T12:31:06.258568+00:00
 

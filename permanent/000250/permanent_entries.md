@@ -1,303 +1,3 @@
- ## Office of Human Resources
- - [https://hr.fsu.edu](https://hr.fsu.edu)
- - date_published: 2024-04-30T04:15:36.866397+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://hub.research.fsu.edu](https://hub.research.fsu.edu)
- - date_published: 2024-07-14T18:34:50+00:00
-
- ## FSU International Programs
- - [https://international.fsu.edu](https://international.fsu.edu)
- - date_published: 2024-07-22T03:54:39.721097+00:00
-
- ## Office of Institutional Research - Florida State University
- - [https://ir.fsu.edu](https://ir.fsu.edu)
- - date_published: 2024-04-30T04:16:22.769660+00:00
-
- ## Information Technology Services
- - [https://its.fsu.edu](https://its.fsu.edu)
- - date_published: 2024-04-30T04:15:21.474295+00:00
-
- ## Apache Tomcat/9.0.8
- - [https://java.odl.fsu.edu](https://java.odl.fsu.edu)
- - date_published: 2024-07-22T04:14:31.687251+00:00
-
- ## Careers at Florida State | Office of Human Resources
- - [https://jobs.fsu.edu](https://jobs.fsu.edu)
- - date_published: 2024-04-30T04:15:57.303544+00:00
-
- ## Welcome | PS LINKS
- - [https://jobs.omni.fsu.edu](https://jobs.omni.fsu.edu)
- - date_published: 2024-07-22T04:00:10.249855+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://knowmore.fsu.edu](https://knowmore.fsu.edu)
- - date_published: 2024-04-30T04:15:15.133854+00:00
-
- ## College of Law
- - [http://law.fsu.edu](http://law.fsu.edu)
- - date_published: 2024-07-19T21:25:35+00:00
-
- ## The Florida State Conference Center | The Florida State Conference Center
- - [https://learningforlife.fsu.edu](https://learningforlife.fsu.edu)
- - date_published: 2024-07-22T04:12:46.037873+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://library.law.fsu.edu](https://library.law.fsu.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## NHMFL
- - [https://magnet.fsu.edu](https://magnet.fsu.edu)
- - date_published: 2020-09-15T15:29:36+00:00
-
- ## Florida State University College of Medicine | College of Medicine
- - [http://med.fsu.edu](http://med.fsu.edu)
- - date_published: 2024-07-21T22:35:54+00:00
-
- ## Home
- - [https://mytag.fsu.edu](https://mytag.fsu.edu)
- - date_published: 2024-07-14T18:33:00+00:00
-
- ## Home - Florida State University News
- - [https://news.fsu.edu](https://news.fsu.edu)
- - date_published: 2023-10-25T11:22:28.015942+00:00
-
- ## College of Nursing
- - [https://nursing.fsu.edu](https://nursing.fsu.edu)
- - date_published: 2024-07-21T19:36:57+00:00
-
- ## Office of Digital Learning
- - [https://odl.fsu.edu](https://odl.fsu.edu)
- - date_published: 2024-07-19T18:18:24+00:00
-
- ## Office of Graduate Fellowships and Awards
- - [https://ogfa.fsu.edu](https://ogfa.fsu.edu)
- - date_published: 2024-07-16T14:07:29+00:00
-
- ## Login to oneFSU
- - [https://one.fsu.edu](https://one.fsu.edu)
- - date_published: 2024-07-14T16:24:02.394386+00:00
-
- ## FSU Panama City
- - [https://pc.fsu.edu](https://pc.fsu.edu)
- - date_published: 2024-07-17T18:53:37+00:00
-
- ## Florida State University Police Department
- - [https://police.fsu.edu](https://police.fsu.edu)
- - date_published: 2024-07-14T18:47:34+00:00
-
- ## Regulations and Policies
- - [https://policies.fsu.edu](https://policies.fsu.edu)
- - date_published: 2024-04-30T04:15:30.322533+00:00
-
- ## Home | Policies and Procedures
- - [http://policies.vpfa.fsu.edu](http://policies.vpfa.fsu.edu)
- - date_published: 2024-07-22T03:54:00.924782+00:00
-
- ## A Preeminent Florida University
- - [https://preeminence.fsu.edu](https://preeminence.fsu.edu)
- - date_published: 2024-04-30T04:15:35.067434+00:00
-
- ## Office of the Provost
- - [http://provost.fsu.edu](http://provost.fsu.edu)
- - date_published: 2024-07-15T19:29:45+00:00
-
- ## University Registrar
- - [https://registrar.fsu.edu](https://registrar.fsu.edu)
- - date_published: 2024-04-30T04:15:04.655930+00:00
-
- ## Regulations and Policies
- - [https://regulations.fsu.edu](https://regulations.fsu.edu)
- - date_published: 2024-04-30T04:16:33.117206+00:00
-
- ## report.fsu.edu
- - [https://report.fsu.edu](https://report.fsu.edu)
- - date_published: 2024-07-14T18:59:52+00:00
-
- ## Office of Research | FSU Office of Research
- - [https://research.fsu.edu](https://research.fsu.edu)
- - date_published: 2024-04-30T04:16:18.063722+00:00
-
- ## Ask
- - [https://servicecenter.fsu.edu](https://servicecenter.fsu.edu)
- - date_published: 2023-07-23T03:54:11+00:00
-
- ## Welcome to the FSU Drupal Site
- - [https://smr.fsu.edu](https://smr.fsu.edu)
- - date_published: 2024-04-30T04:15:09.836276+00:00
-
- ## Department of Statistics
- - [https://stat.fsu.edu](https://stat.fsu.edu)
- - date_published: 2024-07-15T21:28:36+00:00
-
- ## Loading...
- - [https://status.fsu.edu](https://status.fsu.edu)
- - date_published: 2024-06-27T07:29:53+00:00
-
- ## Stay Healthy FSU
- - [https://stayhealthy.fsu.edu](https://stayhealthy.fsu.edu)
- - date_published: 2024-07-21T19:51:07+00:00
-
- ## 2023-2027 - Strategic Plan
- - [https://strategicplan.fsu.edu](https://strategicplan.fsu.edu)
- - date_published: 2024-04-30T04:16:28.861521+00:00
-
- ## Division of Student Affairs
- - [https://studentaffairs.fsu.edu](https://studentaffairs.fsu.edu)
- - date_published: 2024-07-22T01:19:40+00:00
-
- ## Student Business Services
- - [https://studentbusiness.fsu.edu](https://studentbusiness.fsu.edu)
- - date_published: 2024-07-21T01:11:02+00:00
-
- ## Systems Group | Computer Science Systems Group
- - [https://system.cs.fsu.edu](https://system.cs.fsu.edu)
- - date_published: 2024-07-14T16:24:00.202442+00:00
-
- ## Technology Enhanced Classrooms | Florida State University
- - [https://tecs.fsu.edu](https://tecs.fsu.edu)
- - date_published: 2024-07-22T04:13:15.680143+00:00
-
- ## FSU Testing Center
- - [https://testing.fsu.edu](https://testing.fsu.edu)
- - date_published: 2024-07-17T17:21:44+00:00
-
- ## The Center for Leadership & Service
- - [https://thecenter.fsu.edu](https://thecenter.fsu.edu)
- - date_published: 2024-07-19T20:57:15+00:00
-
- ## Ticketing | Opening Nights
- - [https://tickets.openingnights.fsu.edu](https://tickets.openingnights.fsu.edu)
- - date_published: 2024-08-20T05:03:19.063253+00:00
-
- ## Transfer Student Services
- - [https://transferstudents.fsu.edu](https://transferstudents.fsu.edu)
- - date_published: 2024-07-18T18:10:13+00:00
-
- ## Home | Transportation & Parking Services
- - [https://transportation.fsu.edu](https://transportation.fsu.edu)
- - date_published: 2024-07-22T03:56:25.906240+00:00
-
- ## Tutoring Resources at FSU
- - [https://tutoring.fsu.edu](https://tutoring.fsu.edu)
- - date_published: 2024-04-30T04:15:25.549853+00:00
-
- ## University Health Services
- - [https://uhs.fsu.edu](https://uhs.fsu.edu)
- - date_published: 2024-07-19T21:59:33+00:00
-
- ## University Communications
- - [https://unicomm.fsu.edu](https://unicomm.fsu.edu)
- - date_published: 2024-04-30T04:16:34.766458+00:00
-
- ## FSU Student Union
- - [https://union.fsu.edu](https://union.fsu.edu)
- - date_published: 2024-07-15T18:47:14+00:00
-
- ## Homepage | Vires, Artes, Mores
- - [https://vam.fsu.edu](https://vam.fsu.edu)
- - date_published: 2024-07-20T05:34:44+00:00
-
- ## Student Veterans Center
- - [https://veterans.fsu.edu](https://veterans.fsu.edu)
- - date_published: 2024-04-30T04:15:16.770484+00:00
-
- ## Main Index
- - [https://visit.fsu.edu](https://visit.fsu.edu)
- - date_published: 2024-04-30T04:16:26.950490+00:00
-
- ## Home page (used as placeholder)
- - [https://vpfa.fsu.edu](https://vpfa.fsu.edu)
- - date_published: 2024-07-14T18:12:28+00:00
-
- ## Florida State University
- - [https://webmail.fsu.edu](https://webmail.fsu.edu)
- - date_published: 2024-04-30T04:16:31.602816+00:00
-
- ## Test
- - [https://webservices.its.fsu.edu](https://webservices.its.fsu.edu)
- - date_published: 2024-07-20T22:28:47.371813+00:00
-
- ## Writing Resources
- - [https://wr.english.fsu.edu](https://wr.english.fsu.edu)
- - date_published: 2024-07-14T18:47:58+00:00
-
- ## The Career Center
- - [https://career.fsu.edu](https://career.fsu.edu)
- - date_published: 2024-04-30T04:15:47.967394+00:00
-
- ## CEFA | Center for Economic Forecasting and Analysis
- - [http://www.cefa.fsu.edu](http://www.cefa.fsu.edu)
- - date_published: 2024-07-14T18:25:05+00:00
-
- ## Computer Science, FSU
- - [https://cs.fsu.edu](https://cs.fsu.edu)
- - date_published: 2024-05-11T11:52:22.118924+00:00
-
- ## FAMU-FSU
- - [https://www.eng.famu.fsu.edu](https://www.eng.famu.fsu.edu)
- - date_published: 2024-07-19T19:41:35+00:00
-
- ## Facilities
- - [https://www.facilities.fsu.edu](https://www.facilities.fsu.edu)
- - date_published: 2024-07-22T04:02:48.183407+00:00
-
- ## FREAC - Florida Resources and Environmental Analysis Center
- - [http://www.freac.fsu.edu](http://www.freac.fsu.edu)
- - date_published: 2022-05-12T18:41:58+00:00
-
- ## The Florida State University High Energy Physics Group
- - [http://www.hep.fsu.edu](http://www.hep.fsu.edu)
- - date_published: 2024-06-22T09:00:51.510924+00:00
-
- ## Home | University Libraries
- - [https://lib.fsu.edu](https://lib.fsu.edu)
- - date_published: 2024-04-30T04:15:42.474759+00:00
-
- ## Seminole 100
- - [https://www.seminole100.fsu.edu](https://www.seminole100.fsu.edu)
- - date_published: 2024-08-11T11:25:06.326116+00:00
-
- ## Sustainable Campus
- - [http://www.sustainablecampus.fsu.edu](http://www.sustainablecampus.fsu.edu)
- - date_published: 2024-07-18T18:15:43+00:00
-
- ## Titans Return: COVID-19 Recovery | California State University, Fullerton
- - [http://coronavirus.fullerton.edu](http://coronavirus.fullerton.edu)
- - date_published: 2024-07-22T03:53:42.073040+00:00
-
- - [https://escatter11.fullerton.edu](https://escatter11.fullerton.edu)
- - date_published: 2016-04-25T04:44:24+00:00
- - tags: ['math']
-
- ## California State University, Fullerton
- - [https://fullerton.edu](https://fullerton.edu)
- - date_published: 2024-07-22T03:53:47.579855+00:00
-
- ## College of Humanities and Social Sciences - College of Humanities and Social Sciences | CSUF
- - [http://hss.fullerton.edu](http://hss.fullerton.edu)
- - date_published: 2024-07-22T03:53:45.062146+00:00
-
- ## CSUF Psychology Department Research and Teaching Materials
- - [https://psych.fullerton.edu](https://psych.fullerton.edu)
- - date_published: 2022-08-31T19:03:55+00:00
-
- ## Department of Psychology - Department of Psychology | CSUF
- - [https://psychology.fullerton.edu](https://psychology.fullerton.edu)
- - date_published: 2024-04-30T04:16:47.286500+00:00
-
- ## California State University, Fullerton
- - [http://www.fullerton.edu](http://www.fullerton.edu)
- - date_published: 2024-07-22T03:53:43.808774+00:00
-
- ## Cierpliwości...
- - [https://www.fullsail.edu](https://www.fullsail.edu)
- - date_published: 2024-06-30T01:29:45.339767+00:00
-
- ## Home | Gannon University
- - [http://www.gannon.edu](http://www.gannon.edu)
- - date_published: 2024-06-28T14:31:15.872176+00:00
-
  ## Home | Office of Academic Effectiveness
  - [https://academiceffectiveness.gatech.edu](https://academiceffectiveness.gatech.edu)
  - date_published: 2024-07-18T12:53:02+00:00
@@ -4006,4 +3706,304 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## HarvardKey - Harvard University Authentication Service
  - [https://admin.my.harvard.edu](https://admin.my.harvard.edu)
  - date_published: 2024-07-21T23:10:26.815962+00:00
+
+ ## NASA/ADS
+ - [https://adsabs.harvard.edu](https://adsabs.harvard.edu)
+ - date_published: 2024-02-22T20:45:22+00:00
+
+ ## Astrophysics Data System
+ - [http://adswww.harvard.edu](http://adswww.harvard.edu)
+ - date_published: 2024-07-24T21:09:41+00:00
+
+ ## Adult Autism Health Resources
+ - [https://adult-autism.health.harvard.edu](https://adult-autism.health.harvard.edu)
+ - date_published: 2024-04-30T04:47:22.289598+00:00
+
+ ## Department of Art, Film, and Visual Studies
+ - [https://afvs.fas.harvard.edu](https://afvs.fas.harvard.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [http://alumni.afvs.fas.harvard.edu](http://alumni.afvs.fas.harvard.edu)
+ - date_published: 2024-06-22T06:03:22.368108+00:00
+
+ ## Harvard GSD Alumni and Friends Home
+ - [https://alumni.gsd.harvard.edu](https://alumni.gsd.harvard.edu)
+ - date_published: 2024-06-22T11:46:28.383119+00:00
+
+ ## Welcome to Harvard Alumni
+ - [https://alumni.harvard.edu](https://alumni.harvard.edu)
+ - date_published: 2024-06-16T04:34:50+00:00
+
+ ## Home Page
+ - [https://alumni.sph.harvard.edu](https://alumni.sph.harvard.edu)
+ - date_published: 2024-04-30T04:47:25.712309+00:00
+
+ ## Welcome to the Ames Foundation
+ - [http://amesfoundation.law.harvard.edu](http://amesfoundation.law.harvard.edu)
+ - date_published: 2024-09-06T14:29:35.480869+00:00
+
+ ## Amicus
+ - [https://amicus.law.harvard.edu](https://amicus.law.harvard.edu)
+ - date_published: 2024-04-30T04:45:57.952699+00:00
+
+ ## Homepage
+ - [https://arboretum.harvard.edu](https://arboretum.harvard.edu)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Weblogs at Harvard
+ - [https://archive.blogs.harvard.edu](https://archive.blogs.harvard.edu)
+ - date_published: 2024-04-30T04:43:14.036227+00:00
+
+ ## GC-Main
+ - [https://arep.med.harvard.edu](https://arep.med.harvard.edu)
+ - date_published: 2024-06-19T02:11:44.790860+00:00
+
+ ## Astrophysics Data System
+ - [https://articles.adsabs.harvard.edu](https://articles.adsabs.harvard.edu)
+ - date_published: 2024-07-24T21:09:41+00:00
+
+ ## Ash Center for Democratic Governance and Innovation
+ - [https://ash.harvard.edu](https://ash.harvard.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Aesthetics & Astronomy | A unique combination of astronomy and art.
+ - [http://astroart.cfa.harvard.edu](http://astroart.cfa.harvard.edu)
+ - date_published: 2023-02-19T02:31:40+00:00
+
+ ## The Atlas of Economic Complexity by @HarvardGrwthLab
+ - [https://atlas.cid.harvard.edu](https://atlas.cid.harvard.edu)
+ - date_published: 2024-07-01T16:02:02+00:00
+
+ ## awhs-fall23-update-dataviz
+ - [https://awhs-updates.hsph.harvard.edu](https://awhs-updates.hsph.harvard.edu)
+ - date_published: 2024-03-07T23:49:32+00:00
+
+ ## Bertoldi Group
+ - [https://bertoldi.seas.harvard.edu](https://bertoldi.seas.harvard.edu)
+ - date_published: 2024-09-07T23:15:17+00:00
+
+ ## Black Hole Initiative - The first worldwide center to focus on the study of black holes.
+ - [https://bhi.fas.harvard.edu](https://bhi.fas.harvard.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Bill of Health - The blog of the Petrie-Flom Center at Harvard Law School
+ - [https://blog.petrieflom.law.harvard.edu](https://blog.petrieflom.law.harvard.edu)
+ - date_published: 2024-09-04T20:20:32.537880+00:00
+
+ ## Weblogs at Harvard
+ - [https://blogs.harvard.edu](https://blogs.harvard.edu)
+ - date_published: 2023-10-25T18:51:34.410192+00:00
+
+ ## Weblogs at Harvard
+ - [https://blogs.law.harvard.edu](https://blogs.law.harvard.edu)
+ - date_published: 2024-04-29T02:48:46.761114+00:00
+
+ ## Derek Bok Center, Harvard University
+ - [https://bokcenter.harvard.edu](https://bokcenter.harvard.edu)
+ - date_published: 2024-06-20T22:16:47+00:00
+
+ ## Home - Harvard Brain Science Initiative
+ - [https://brain.harvard.edu](https://brain.harvard.edu)
+ - date_published: 2024-08-11T05:21:40.850224+00:00
+
+ ## English Crime and Execution Broadsides
+ - [http://broadsides.law.harvard.edu](http://broadsides.law.harvard.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://bsc.hks.harvard.edu](https://bsc.hks.harvard.edu)
+ - date_published: 2024-06-20T02:45:12+00:00
+
+ ## Filtering
+ - [https://bulletin.hds.harvard.edu](https://bulletin.hds.harvard.edu)
+ - date_published: 2024-07-02T11:24:51+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [https://canvas.harvard.edu](https://canvas.harvard.edu)
+ - date_published: 2024-06-22T06:03:27.270541+00:00
+
+ ## Harvard Kennedy School Case Program
+ - [https://case.hks.harvard.edu](https://case.hks.harvard.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Harvard Business Publishing Education
+ - [http://cb.hbsp.harvard.edu](http://cb.hbsp.harvard.edu)
+ - date_published: 2024-06-18T14:03:46+00:00
+
+ ## Center for Brain Science
+ - [http://cbs.fas.harvard.edu](http://cbs.fas.harvard.edu)
+ - date_published: 2024-08-11T04:33:24+00:00
+
+ ## CCVA
+ - [http://ccva.fas.harvard.edu](http://ccva.fas.harvard.edu)
+ - date_published: 2024-01-28T00:00:00+00:00
+
+ ## Home | Center for Astrophysics | Harvard & Smithsonian
+ - [https://cfa.harvard.edu](https://cfa.harvard.edu)
+ - date_published: 2024-03-27T14:19:18.084706+00:00
+
+ ## Home | Center for Astrophysics | Harvard & Smithsonian
+ - [http://cfa-www.harvard.edu](http://cfa-www.harvard.edu)
+ - date_published: 2024-08-18T20:15:08+00:00
+
+ ## Department of Chemistry and Chemical Biology
+ - [https://chemistry.harvard.edu](https://chemistry.harvard.edu)
+ - date_published: 2024-06-17T11:56:20+00:00
+
+ ## The Center for Hellenic Studies - Reassertion of the humanism of the ancient world
+ - [https://chs.harvard.edu](https://chs.harvard.edu)
+ - date_published: 2024-06-24T10:08:53.934368+00:00
+
+ ## The Collection of Historical Scientific Instruments
+ - [http://chsi.harvard.edu](http://chsi.harvard.edu)
+ - date_published: 2024-08-11T05:03:42+00:00
+
+ ## Bloomberg Center for Cities at Harvard University
+ - [https://cities.harvard.edu](https://cities.harvard.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Clinic Stories Archives - Harvard Law School
+ - [https://clinics.law.harvard.edu](https://clinics.law.harvard.edu)
+ - date_published: 2024-04-30T04:46:00.536580+00:00
+
+ ## Home - CMSA
+ - [http://cmsa.fas.harvard.edu](http://cmsa.fas.harvard.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## 哈佛大学中国能源经济环境项目
+ - [http://cn.chinaproject.harvard.edu](http://cn.chinaproject.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Culture, Cognition, and Coevolution Lab
+ - [https://coevolution.fas.harvard.edu](https://coevolution.fas.harvard.edu)
+ - date_published: 2024-06-12T12:39:54.555828+00:00
+
+ ## Cognitive Neuropsychology Laboratory
+ - [https://cogneuro.psychology.fas.harvard.edu](https://cogneuro.psychology.fas.harvard.edu)
+ - date_published: 2024-04-28T03:44:16.813661+00:00
+
+ ## Collections  – eMuseum
+ - [https://collections.peabody.harvard.edu](https://collections.peabody.harvard.edu)
+ - date_published: 2024-10-18T15:51:34.786100+00:00
+
+ ## Harvard College
+ - [https://college.harvard.edu](https://college.harvard.edu)
+ - date_published: 2024-06-22T18:28:42+00:00
+
+ ## Commencement Office
+ - [http://commencement.harvard.edu](http://commencement.harvard.edu)
+ - date_published: 2024-08-11T05:03:26+00:00
+
+ ## HarvardKey - Harvard University Authentication Service
+ - [http://community.alumni.harvard.edu](http://community.alumni.harvard.edu)
+ - date_published: 2024-04-30T04:46:05.639263+00:00
+
+ ## Search | Harvard Catalyst Profiles | Harvard Catalyst
+ - [https://connects.catalyst.harvard.edu](https://connects.catalyst.harvard.edu)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Success: HSPH Content
+ - [https://content.sph.harvard.edu](https://content.sph.harvard.edu)
+ - date_published: 2023-10-11T18:23:20+00:00
+
+ ## Classical Continuum
+ - [https://continuum.fas.harvard.edu](https://continuum.fas.harvard.edu)
+ - date_published: 2024-06-24T10:08:29.276773+00:00
+
+ ## The Harvard Law School Forum on Corporate Governance | The leading online blog in the fields of corporate governance and financial regulation.
+ - [https://corpgov.law.harvard.edu](https://corpgov.law.harvard.edu)
+ - date_published: 2023-10-25T18:51:38.896224+00:00
+
+ ## Countway Library
+ - [https://countway.harvard.edu](https://countway.harvard.edu)
+ - date_published: 2024-08-11T05:21:18.289188+00:00
+
+ ## The Committee On Course Registration
+ - [https://courseregistration.fas.harvard.edu](https://courseregistration.fas.harvard.edu)
+ - date_published: 2024-06-30T11:21:21+00:00
+
+ ## CRCS | Center for Research on Computation and Society
+ - [https://crcs.seas.harvard.edu](https://crcs.seas.harvard.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## CS50
+ - [https://cs50.harvard.edu](https://cs50.harvard.edu)
+ - date_published: 2024-06-21T15:31:32+00:00
+
+ ## Harvard Computer Science :: Harvard CS Concentration
+ - [https://csadvising.seas.harvard.edu](https://csadvising.seas.harvard.edu)
+ - date_published: 2024-04-30T04:47:06.184694+00:00
+
+ ## Cushman Lab – Template for a project, lab, dept. etc.
+ - [https://cushmanlab.fas.harvard.edu](https://cushmanlab.fas.harvard.edu)
+ - date_published: 2024-06-22T07:48:09+00:00
+
+ ## Chandra X-Ray Center
+ - [http://cxc.harvard.edu](http://cxc.harvard.edu)
+ - date_published: 2024-07-22T07:03:53.742825+00:00
+
+ ## Berkman Klein Center
+ - [https://cyber.harvard.edu](https://cyber.harvard.edu)
+ - date_published: 2024-03-11T20:54:03.223117+00:00
+
+ ## Berkman Klein Center
+ - [https://cyber.law.harvard.edu](https://cyber.law.harvard.edu)
+ - date_published: 2024-04-29T02:42:10.432644+00:00
+
+ ## Home | Digital Data Design Institute at Harvard
+ - [https://d3.harvard.edu](https://d3.harvard.edu)
+ - date_published: 2023-10-25T18:51:42.107342+00:00
+
+ ## Mapping Past Societies
+ - [https://darmc.harvard.edu](https://darmc.harvard.edu)
+ - date_published: 2024-05-06T16:59:19.797543+00:00
+
+ ## DASH Home
+ - [https://dash.harvard.edu](https://dash.harvard.edu)
+ - date_published: 2024-05-12T04:28:16.700308+00:00
+
+ ## Marcus Institute Data Archive
+ - [https://data.hsl.harvard.edu](https://data.hsl.harvard.edu)
+ - date_published: 2024-09-12T20:26:20.457027+00:00
+
+ ## Home
+ - [https://datascience.harvard.edu](https://datascience.harvard.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Harvard Dataverse
+ - [https://dataverse.harvard.edu](https://dataverse.harvard.edu)
+ - date_published: 2024-05-11T09:34:04.005381+00:00
+
+ ## Center on the Developing Child at Harvard University
+ - [https://developingchild.harvard.edu](https://developingchild.harvard.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Harvard Medical School Division of Medical Sciences
+ - [http://dms.hms.harvard.edu](http://dms.hms.harvard.edu)
+ - date_published: 2024-10-19T04:50:33.274644+00:00
+
+ ## HarvardSites | HarvardSites Drupal User Guide
+ - [https://drupal.harvardsites.harvard.edu](https://drupal.harvardsites.harvard.edu)
+ - date_published: 2024-07-21T23:19:22.821083+00:00
+
+ ## Harvard College Dean of Students Office
+ - [https://dso.college.harvard.edu](https://dso.college.harvard.edu)
+ - date_published: 2024-09-04T20:09:17+00:00
+
+ ## Data Science Services
+ - [https://dss.iq.harvard.edu](https://dss.iq.harvard.edu)
+ - date_published: 2024-07-14T14:36:27+00:00
+
+ ## Home - Early Design Education
+ - [https://earlydesigneducation.gsd.harvard.edu](https://earlydesigneducation.gsd.harvard.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Executive and Continuing Professional Education
+ - [https://ecpe.sph.harvard.edu](https://ecpe.sph.harvard.edu)
+ - date_published: 2024-04-30T04:47:28.591010+00:00
+
+ ## Home
+ - [https://embeddedethics.seas.harvard.edu](https://embeddedethics.seas.harvard.edu)
+ - date_published: 2024-06-15T12:19:24+00:00
 

@@ -1,47 +1,3 @@
- ## Meandering Shade
- - [https://meanderingshade.blogspot.com](https://meanderingshade.blogspot.com)
- - date_published: 2024-06-10T07:44:08+00:00
-
- ## Meandering Through Mathematics
- - [http://meandering-through-mathematics.blogspot.com](http://meandering-through-mathematics.blogspot.com)
- - date_published: 2024-05-28T05:00:08+00:00
-
- ## Mechanicum
- - [http://mechanicum.blogspot.com](http://mechanicum.blogspot.com)
- - date_published: 2024-10-25T11:26:59+00:00
-
- ## Mech Dude's Blog
- - [https://mechdudesblog.blogspot.com](https://mechdudesblog.blogspot.com)
- - date_published: 2024-06-24T02:23:19+00:00
-
- ## BaChOuNdA
- - [https://medbachounda.blogspot.com](https://medbachounda.blogspot.com)
- - date_published: 2024-07-11T18:05:09+00:00
-
- ## Media Confidential
- - [http://mediaconfidential.blogspot.com](http://mediaconfidential.blogspot.com)
- - date_published: 2024-07-18T09:59:00+00:00
-
- ## Media Warfare
- - [http://mediawarfare.blogspot.com](http://mediawarfare.blogspot.com)
- - date_published: 2024-03-05T04:09:32+00:00
-
- ## Medical Hypotheses
- - [http://medicalhypotheses.blogspot.com](http://medicalhypotheses.blogspot.com)
- - date_published: 2024-03-05T23:53:13+00:00
-
- ## Medieval Illumination
- - [http://medieval-illumination.blogspot.com](http://medieval-illumination.blogspot.com)
- - date_published: 2024-03-05T15:28:16+00:00
-
- ## Medieval News
- - [http://medievalnews.blogspot.com](http://medievalnews.blogspot.com)
- - date_published: 2024-03-05T04:49:16+00:00
-
- ## Blogger
- - [http://meditations71.blogspot.com](http://meditations71.blogspot.com)
- - date_published: 2024-10-21T18:35:07.223256+00:00
-
  ## Megalith Maniac
  - [http://megalithmaniac.blogspot.com](http://megalithmaniac.blogspot.com)
  - date_published: 2024-03-20T09:58:29+00:00
@@ -4018,4 +3974,48 @@
  ## PaleXO
  - [http://palexo.blogspot.com](http://palexo.blogspot.com)
  - date_published: 2024-07-04T06:02:46+00:00
+
+ ## Palladian Guard
+ - [http://palladian-guard.blogspot.com](http://palladian-guard.blogspot.com)
+ - date_published: 2024-10-09T18:01:02+00:00
+
+ ## Palmetto Pundit
+ - [http://palmettopundit.blogspot.com](http://palmettopundit.blogspot.com)
+ - date_published: 2024-03-07T23:24:18+00:00
+
+ ## Palouse Wargaming Journal
+ - [https://palousewargamingjournal.blogspot.com](https://palousewargamingjournal.blogspot.com)
+ - date_published: 2024-07-19T23:45:45+00:00
+
+ ## The Pancake Proverbs
+ - [http://pancakeproverbs.blogspot.com](http://pancakeproverbs.blogspot.com)
+ - date_published: 2024-03-05T08:02:09+00:00
+
+ ## Pandamonium - Resurrection
+ - [http://pandamonium-resurrection.blogspot.com](http://pandamonium-resurrection.blogspot.com)
+ - date_published: 2024-09-24T20:17:19+00:00
+
+ ## Pangloss' Miniature Wargaming Blogspot
+ - [http://pangloss40k.blogspot.com](http://pangloss40k.blogspot.com)
+ - date_published: 2024-08-30T06:48:37+00:00
+
+ ## Pani Bufetowa
+ - [http://panibufetowa.blogspot.com](http://panibufetowa.blogspot.com)
+ - date_published: 2023-12-08T16:07:44+00:00
+
+ ## FS
+ - [http://panicsonic.blogspot.com](http://panicsonic.blogspot.com)
+ - date_published: 2024-05-11T00:27:25+00:00
+
+ ## Pan Mieteg. (blog taki)
+ - [http://panmietek.blogspot.com](http://panmietek.blogspot.com)
+ - date_published: 2024-04-14T03:24:19+00:00
+
+ ## Paint-it-Pink
+ - [https://panther6actual.blogspot.com](https://panther6actual.blogspot.com)
+ - date_published: 2024-07-09T07:04:59+00:00
+
+ ## Pants On Fire
+ - [https://pantsaflame.blogspot.com](https://pantsaflame.blogspot.com)
+ - date_published: 2024-06-06T07:27:38.504269+00:00
 

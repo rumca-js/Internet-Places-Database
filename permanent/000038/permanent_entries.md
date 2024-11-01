@@ -1,7 +1,3 @@
- ## Heat Pumps, Solar and Clean Energy Technology | Aira Group
- - [https://company.airahome.com](https://company.airahome.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
  ## Welcome to Aira | Aira
  - [https://airahome.com](https://airahome.com)
  - date_published: 2024-05-07T10:04:36.324427+00:00
@@ -4054,4 +4050,9 @@
  ## Alex Jover
  - [https://alexjover.com](https://alexjover.com)
  - date_published: 2024-09-04T11:27:29.607612+00:00
+
+ ## Alex Panagis | Entrepreneur, SaaS Operator & Investor
+ - [https://alexjpanagis.com](https://alexjpanagis.com)
+ - date_published: 2024-01-13T18:26:31.067280+00:00
+ - tags: ['personal']
 

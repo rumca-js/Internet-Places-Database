@@ -1,359 +1,3 @@
- ## ESG POSITIVE IMPACT AWARDS 2023
- - [https://staresgawards.com.my](https://staresgawards.com.my)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## The Leaders Council
- - [https://starleaderscouncil.com.my](https://starleaderscouncil.com.my)
- - date_published: 2024-09-10T08:03:55.376090+00:00
-
- ## Sunway Group - one of Southeast Asia's leading conglomerates
- - [https://www.sunway.com.my](https://www.sunway.com.my)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Superprof - The Platform for Private Tutors
- - [https://superprof.com.my](https://superprof.com.my)
- - date_published: 2024-06-15T01:27:59.308044+00:00
-
- ## Bursa Malaysia Market Watch | The Star
- - [http://biz.thestar.com.my](http://biz.thestar.com.my)
- - date_published: 2024-09-10T08:03:48.002888+00:00
-
- ## Home - Conference
- - [https://conference.thestar.com.my](https://conference.thestar.com.my)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Star Media Group Events - Awards, Conferences, Exhibitions, Arts, Sports, Workshops & Seminars
- - [https://events.thestar.com.my](https://events.thestar.com.my)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Home
- - [https://login.thestar.com.my](https://login.thestar.com.my)
- - date_published: 2024-09-10T08:02:59.281077+00:00
-
- ## Star Newsstand
- - [https://newsstand.thestar.com.my](https://newsstand.thestar.com.my)
- - date_published: 2024-09-10T08:03:44.050570+00:00
-
- ## The Star | Malaysia News: National, Regional and World News
- - [https://sites.thestar.com.my](https://sites.thestar.com.my)
- - date_published: 2024-09-10T08:03:40.966560+00:00
-
- ## Home
- - [https://sso.thestar.com.my](https://sso.thestar.com.my)
- - date_published: 2024-09-10T08:03:49.772131+00:00
-
- ## StarSearch Online | Malaysia Classifieds Ads
- - [https://starsearch.thestar.com.my](https://starsearch.thestar.com.my)
- - date_published: 2024-09-10T08:03:26.118194+00:00
-
- ## The Star | Malaysia News: National, Regional and World News
- - [https://thestar.com.my](https://thestar.com.my)
- - date_published: 2023-11-28T01:20:51.629731+00:00
-
- ## Get access to tomorrow’s technologies with Telekom Malaysia | Telekom Malaysia
- - [https://tm.com.my](https://tm.com.my)
- - date_published: 2024-07-14T09:35:13.454809+00:00
-
- ## TM One - Your Next Is Now
- - [https://www.tmone.com.my](https://www.tmone.com.my)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.tnb.com.my](https://www.tnb.com.my)
- - date_published: 2024-09-04T02:09:59.111049+00:00
-
- ## Tonton
- - [https://watch.tonton.com.my](https://watch.tonton.com.my)
- - date_published: 2024-04-29T05:01:57.626274+00:00
-
- ## Home
- - [https://topgear.com.my](https://topgear.com.my)
- - date_published: 2024-05-10T05:42:50.842844+00:00
-
- ## Home
- - [https://trapezegroup.com.my](https://trapezegroup.com.my)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## tripadvisor.com.my
- - [https://www.tripadvisor.com.my](https://www.tripadvisor.com.my)
- - date_published: 2024-06-23T09:27:12.204548+00:00
-
- ## trivago.com.my - Compare hotel prices worldwide
- - [https://www.trivago.com.my](https://www.trivago.com.my)
- - date_published: 2024-09-04T11:21:18.392131+00:00
-
- ## We are undergoing a planned maintenance
- - [https://unifi.com.my](https://unifi.com.my)
- - date_published: 2024-09-17T18:42:20.131177+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.com.my](https://visa.com.my)
- - date_published: 2024-05-12T04:00:01.969616+00:00
-
- ## Webz - Malaysia Web Design Company
- - [https://www.webz.com.my](https://www.webz.com.my)
- - date_published: 2019-01-01T00:00:00+00:00
-
- ## Zoetis
- - [https://www2.zoetis.com.my](https://www2.zoetis.com.my)
- - date_published: 2024-06-27T09:52:45+00:00
-
- ## No Fees. No Teachers. No Classes. 100% Coding. - 42KL
- - [https://42kl.edu.my](https://42kl.edu.my)
- - date_published: 2024-04-13T00:00:00+00:00
-
- ## 42 Kuala Lumpur | Log in
- - [https://apply.42kl.edu.my](https://apply.42kl.edu.my)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Curtin University Malaysia | Top 1% Global University
- - [https://www.curtin.edu.my](https://www.curtin.edu.my)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Utama
- - [https://ipgkda.edu.my](https://ipgkda.edu.my)
- - date_published: 2024-08-25T00:00:00+00:00
-
- ## Index of /
- - [https://tapak1.ipgkda.edu.my](https://tapak1.ipgkda.edu.my)
- - date_published: 2024-08-27T00:00:00+00:00
-
- ## TOTO5D | Situs Toto Macau 5D Dapatkan Hadiah Macau 5D Sebesar 88 Juta Rupiah
- - [https://tapak2.ipgkda.edu.my](https://tapak2.ipgkda.edu.my)
- - date_published: 2024-10-11T12:14:40.837854+00:00
-
- ## Private Higher Education Institution in Malaysia – Kolej MDIS Malaysia
- - [https://www.mdis.edu.my](https://www.mdis.edu.my)
- - date_published: 2024-07-03T05:41:08.858464+00:00
-
- ## University of Nottingham Blogs – Just another WordPress site
- - [http://blogs.nottingham.edu.my](http://blogs.nottingham.edu.my)
- - date_published: 2024-07-08T09:15:04.274235+00:00
-
- ## University of Nottingham Malaysia
- - [http://www.nottingham.edu.my](http://www.nottingham.edu.my)
- - date_published: 2024-07-08T09:15:19.240043+00:00
-
- ## Home | University of Southampton Malaysia
- - [https://www.southamptonmalaysia.edu.my](https://www.southamptonmalaysia.edu.my)
- - date_published: 2024-06-18T10:52:17.962209+00:00
-
- ## Sunway Campus 360
- - [https://campus.sunway.edu.my](https://campus.sunway.edu.my)
- - date_published: 2023-11-19T05:58:11+00:00
-
- ## Sunway Innovation Labs - Sunway iLabs
- - [https://innovationlabs.sunway.edu.my](https://innovationlabs.sunway.edu.my)
- - date_published: 2024-06-09T08:31:25+00:00
-
- ## Libguides: Library Homepage: Main
- - [https://library.sunway.edu.my](https://library.sunway.edu.my)
- - date_published: 2024-09-23T13:55:55.390251+00:00
-
- ## Sunway Education Group Residence |
- - [https://residence.sunway.edu.my](https://residence.sunway.edu.my)
- - date_published: 2024-09-23T13:55:33.040596+00:00
-
- ## Home Page | Sunway Scholarship
- - [https://scholarship.sunway.edu.my](https://scholarship.sunway.edu.my)
- - date_published: 2024-09-23T13:55:46.963066+00:00
-
- ## Welcome to Sunway Campus Student LIFE
- - [https://student.sunway.edu.my](https://student.sunway.edu.my)
- - date_published: 2024-09-23T13:55:22.997589+00:00
-
- ## Sunway University | Sunway University
- - [https://studyonline.sunway.edu.my](https://studyonline.sunway.edu.my)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Sustainable Quality Education | Sunway Education Group
- - [https://sunway.edu.my](https://sunway.edu.my)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Pre University Courses & Diploma Certificate Malaysia - Sunway College
- - [https://sunwaycollege.edu.my](https://sunwaycollege.edu.my)
- - date_published: 2024-09-23T13:55:36.699594+00:00
-
- ## Home | Sunway International Schools
- - [https://sunwayschools.edu.my](https://sunwayschools.edu.my)
- - date_published: 2024-09-23T13:55:26.827188+00:00
-
- ## Sunway University, Kuala Lumpur, Malaysia | A Class Above
- - [https://sunwayuniversity.edu.my](https://sunwayuniversity.edu.my)
- - date_published: 2024-06-16T00:28:27+00:00
-
- ## UNITEN - Home
- - [https://www.uniten.edu.my](https://www.uniten.edu.my)
- - date_published: 2024-08-19T09:40:24.916397+00:00
-
- ## Human Verification
- - [https://bnm.gov.my](https://bnm.gov.my)
- - date_published: 2024-05-07T14:29:31.385919+00:00
-
- ## APIMS
- - [http://apims.doe.gov.my](http://apims.doe.gov.my)
- - date_published: 2024-02-21T04:13:47+00:00
-
- ## Home
- - [https://mydigitalinvestment.gov.my](https://mydigitalinvestment.gov.my)
- - date_published: 2024-09-23T13:42:09.645381+00:00
-
- ## Kementerian Peralihan Tenaga Dan Transformasi Air (PETRA)
- - [https://www.petra.gov.my](https://www.petra.gov.my)
- - date_published: 2024-09-04T02:08:02.895866+00:00
-
- ## Energy Commission - Home
- - [https://www.st.gov.my](https://www.st.gov.my)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Portal Rasmi Kementerian Kewangan
- - [http://www.treasury.gov.my](http://www.treasury.gov.my)
- - date_published: 2024-08-08T22:05:27+00:00
-
- ## BELLAMYBUDIMAN
- - [https://bella.my](https://bella.my)
- - date_published: 2024-07-13T04:04:12.360020+00:00
-
- ## BFM: The Business Station - Home
- - [http://www.bfm.my](http://www.bfm.my)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## 9Daily
- - [http://9-daily.blogspot.my](http://9-daily.blogspot.my)
- - date_published: 2024-02-20T17:30:45+00:00
-
- ## Nie znaleziono bloga
- - [http://heyojohere.blogspot.my](http://heyojohere.blogspot.my)
- - date_published: 2024-09-18T02:37:47.661159+00:00
-
- ## Questing GM
- - [http://questinggm.blogspot.my](http://questinggm.blogspot.my)
- - date_published: 2024-04-19T19:40:56+00:00
-
- ## Ryu Blogger Themes
- - [http://ryu-themes.blogspot.my](http://ryu-themes.blogspot.my)
- - date_published: 2024-08-28T15:50:18+00:00
-
- ## So Unbroken
- - [http://so-unbroken.blogspot.my](http://so-unbroken.blogspot.my)
- - date_published: 2024-09-01T16:21:06+00:00
-
- ## Home | CarSifu
- - [https://www.carsifu.my](https://www.carsifu.my)
- - date_published: 2024-09-10T08:03:58.071307+00:00
-
- ## CARSOME - #1 Online Used Cars Buying & Selling Platform
- - [https://www.carsome.my](https://www.carsome.my)
- - date_published: 2024-09-23T13:49:57.451915+00:00
-
- ## Buy Domain and Hosting Packages for Your Website | Crazy Domain Malaysia
- - [https://www.crazydomains.my](https://www.crazydomains.my)
- - date_published: 2024-06-16T08:52:14.998924+00:00
-
- ## DigiKey Home
- - [https://digikey.my](https://digikey.my)
- - date_published: 2024-05-01T05:03:35.566343+00:00
-
- ## Disney.my | The official home for all things Disney
- - [http://apps.disney.my](http://apps.disney.my)
- - date_published: 2024-06-16T02:01:45.591829+00:00
-
- ## Disney.my | The official home for all things Disney
- - [http://characters.disney.my](http://characters.disney.my)
- - date_published: 2024-06-16T02:01:59.421887+00:00
-
- ## Disney.my | The official home for all things Disney
- - [http://events.disney.my](http://events.disney.my)
- - date_published: 2024-06-16T02:01:56.052601+00:00
-
- ## Disney.my | The official home for all things Disney
- - [http://games.disney.my](http://games.disney.my)
- - date_published: 2024-06-16T02:01:54.526530+00:00
-
- ## Disney Movies | The Official Disney Films from Disney - Disney Malaysia
- - [https://movies.disney.my](https://movies.disney.my)
- - date_published: 2024-06-16T02:01:58.228738+00:00
-
- ## Disney.my | The official home for all things Disney
- - [https://tv.disney.my](https://tv.disney.my)
- - date_published: 2024-06-16T02:01:44.318249+00:00
-
- ## Disney.my | The official home for all things Disney
- - [https://video.disney.my](https://video.disney.my)
- - date_published: 2024-06-16T02:01:52.015384+00:00
-
- ## Disney.my | The official home for all things Disney
- - [https://disney.my](https://disney.my)
- - date_published: 2024-06-16T02:00:49.418099+00:00
-
- ## DNV.my - Safer Smarter Greener - DNV
- - [https://www.dnv.my](https://www.dnv.my)
- - date_published: 2024-09-04T15:26:07.908303+00:00
-
- ## Gambaran penuh status
- - [https://downdetector.my](https://downdetector.my)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Gaming Chair | Best Gaming Chair Brand For Gamers | DXRacer Malaysia
- - [https://www.dxracer.my](https://www.dxracer.my)
- - date_published: 2024-07-03T12:26:20.396177+00:00
-
- ## Dyson Malaysia | Official Site | Shop
- - [https://www.dyson.my](https://www.dyson.my)
- - date_published: 2024-07-07T01:57:41.789345+00:00
-
- ## Find the right property in Malaysia, New Homes, resale, buy and rent
- - [https://www.edgeprop.my](https://www.edgeprop.my)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Malaysia - eFinancialCareers
- - [https://www.efinancialcareers.my](https://www.efinancialcareers.my)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Malaysia Property - 1,273 Condos & Houses For Sale | FazWaz.my
- - [https://www.fazwaz.my](https://www.fazwaz.my)
- - date_published: 2024-01-21T00:00:00+00:00
-
- ## HamRadio.My - Ham Radio, Fun Facts, Open Source Software, Tech Insights, Product Reviews
- - [https://hamradio.my](https://hamradio.my)
- - date_published: 2024-07-20T16:10:18.034479+00:00
-
- ## Teng Wei Herr | HERR Studio
- - [https://www.herr.my](https://www.herr.my)
- - date_published: 2024-05-04T08:03:41.177837+00:00
-
- ## Log masuk ke Hostinger
- - [https://auth.hostinger.my](https://auth.hostinger.my)
- - date_published: 2024-07-13T16:42:52.842847+00:00
-
- ## The Hosting Platform Made For You - Go Online With Hostinger
- - [https://hostinger.my](https://hostinger.my)
- - date_published: 2024-05-11T07:50:19.671814+00:00
-
- ## HR.my Unlimited Employees. Free for Life.
- - [https://hr.my](https://hr.my)
- - date_published: 2024-04-16T03:27:45+00:00
-
- ## energy chains, polymer bearings, flexible cable, &amp; linear slides
- - [https://www.igus.my](https://www.igus.my)
- - date_published: 2024-08-06T23:12:49.572506+00:00
-
- ## Show HN: Internet Speed Test
- - [https://internetspeed.my](https://internetspeed.my)
- - date_published: 2023-11-03T02:20:07+00:00
-
- ## Home
- - [https://conference.ipv6forummalaysia.my](https://conference.ipv6forummalaysia.my)
- - date_published: 2024-07-07T00:03:27.851991+00:00
-
- ## IPv6 Forum Malaysia
- - [https://ipv6forummalaysia.my](https://ipv6forummalaysia.my)
- - date_published: 2024-07-06T23:59:40.929765+00:00
-
- ## JD Sports Malaysia - Shop The King of Trainers
- - [https://www.jdsports.my](https://www.jdsports.my)
- - date_published: 2024-10-21T02:16:57.496565+00:00
-
  ## Front - Jeremy Malcolm
  - [https://jere.my](https://jere.my)
  - date_published: 2024-07-13T04:16:49.774579+00:00
@@ -4042,4 +3686,361 @@
  ## HOTEL RAFFLES BALI | ⋆⋆⋆⋆⋆ | JIMBARAN, INDONESIA | SEASON DEALS FROM $1409
  - [https://raffles-bali-jimbaran.all-balihotels.net](https://raffles-bali-jimbaran.all-balihotels.net)
  - date_published: 2024-10-16T13:37:48.029545+00:00
+
+ ## BINTANG BALI RESORT | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $166
+ - [https://ramada-bintang-bali-resort-kuta.all-balihotels.net](https://ramada-bintang-bali-resort-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:26.114063+00:00
+
+ ## HOTEL RAMADA ENCORE BALI SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $38
+ - [https://ramada-encore-bali-seminyak.all-balihotels.net](https://ramada-encore-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:06.427516+00:00
+
+ ## RAMAYANA RESORT & SPA | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $151
+ - [https://ramayana-resort-and-spa-kuta.all-balihotels.net](https://ramayana-resort-and-spa-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:05.639768+00:00
+
+ ## GRAND KESAMBI RESORT AND VILLA | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $41
+ - [https://reddoorz-kerobokan-seminyak.all-balihotels.net](https://reddoorz-kerobokan-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:36.546028+00:00
+
+ ## RENAISSANCE BALI ULUWATU RESORT & SPA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $208
+ - [https://renaissance-uluwatu-resort-spa.all-balihotels.net](https://renaissance-uluwatu-resort-spa.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:50.938844+00:00
+
+ ## HOTEL RIMBUN CANGGU | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $40
+ - [https://rimbun-boutique-resort.all-balihotels.net](https://rimbun-boutique-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:43:05.694435+00:00
+
+ ## RISATA BALI RESORT & SPA | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $153
+ - [https://risata-bali-resort-spa-kuta.all-balihotels.net](https://risata-bali-resort-spa-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:23:57.893412+00:00
+
+ ## HOTEL RIVAVI FASHION | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $28
+ - [https://rivavi-fashion-legian.all-balihotels.net](https://rivavi-fashion-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:26:49.707325+00:00
+
+ ## HOTEL ROYAL PITA MAHA | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $390
+ - [https://royal-pita-maha-ubud.all-balihotels.net](https://royal-pita-maha-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:22.767930+00:00
+
+ ## ROYAL TULIP SPRINGHILL RESORT JIMBARAN | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $93
+ - [https://royal-tulip-springhill-resort-jimbaran.all-balihotels.net](https://royal-tulip-springhill-resort-jimbaran.all-balihotels.net)
+ - date_published: 2024-10-16T13:25:50.820083+00:00
+
+ ## SADARA BOUTIQUE BEACH RESORT BALI | ⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $165
+ - [https://sadara-boutique-beach-resort-nusa-dua.all-balihotels.net](https://sadara-boutique-beach-resort-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:07.893662+00:00
+
+ ## SAL SECRET SPOT GUEST HOUSE | ULUWATU, INDONESIA | SEASON DEALS FROM $100
+ - [https://sal-secret-spot-guest-house-uluwatu.all-balihotels.net](https://sal-secret-spot-guest-house-uluwatu.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:53.603736+00:00
+
+ ## SAMABE BALI SUITES & VILLAS | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $334
+ - [https://samabe-bali-suites-villas-nusa-dua.all-balihotels.net](https://samabe-bali-suites-villas-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:44.356138+00:00
+
+ ## HOTEL SANTIKA KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $61
+ - [https://santika-kuta.all-balihotels.net](https://santika-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:12.040621+00:00
+
+ ## HOTEL SANTIKA SILIGITA NUSA DUA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $49
+ - [https://santika-siligita-nusa-dua-nusa-dua.all-balihotels.net](https://santika-siligita-nusa-dua-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:46.837898+00:00
+
+ ## HOTEL SANUR AGUNG | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $23
+ - [https://sanur-agung.all-balihotels.net](https://sanur-agung.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:42.005792+00:00
+
+ ## PRIME PLAZA HOTEL SANUR - BALI | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $95
+ - [https://sanur-paradise-plaza.all-balihotels.net](https://sanur-paradise-plaza.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:47.299849+00:00
+
+ ## SARI BUANA BED & BREAKFAST | ⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $15
+ - [https://sari-buana-bed-breakfast-guest-house-tuban.all-balihotels.net](https://sari-buana-bed-breakfast-guest-house-tuban.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:33.036400+00:00
+
+ ## HOTEL SAYANG MAHA MERTHA | ⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $12
+ - [https://sayang-maha-mertha-legian.all-balihotels.net](https://sayang-maha-mertha-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:02.135295+00:00
+
+ ## SECRET GARDEN INN | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $29
+ - [https://secret-garden-inn-kuta.all-balihotels.net](https://secret-garden-inn-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:22.679424+00:00
+
+ ## HOTEL SEGARA VILLAGE | ⋆⋆⋆⋆ | SANUR, INDONESIA | SEASON DEALS FROM $103
+ - [https://segara-village-sanur.all-balihotels.net](https://segara-village-sanur.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:39.437388+00:00
+
+ ## SEMINYAK POINT GUEST HOUSE | INDONESIA | SEASON DEALS FROM $17
+ - [https://seminyak-point-guest-house.all-balihotels.net](https://seminyak-point-guest-house.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:28.211897+00:00
+
+ ## SHERATON BALI KUTA RESORT | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $167
+ - [https://sheraton-bali-kuta-resort.all-balihotels.net](https://sheraton-bali-kuta-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:24:55.469219+00:00
+
+ ## HOTEL SIESTA LEGIAN | ⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $52
+ - [https://siesta-legian.all-balihotels.net](https://siesta-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:36.028470+00:00
+
+ ## HOTEL SIX SENSES ULUWATU | ⋆⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $616
+ - [https://six-senses-uluwatu.all-balihotels.net](https://six-senses-uluwatu.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:19.106978+00:00
+
+ ## SOFITEL BALI NUSA DUA BEACH RESORT | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $248
+ - [https://sofitel-bali-nusa-dua-beach-resort.all-balihotels.net](https://sofitel-bali-nusa-dua-beach-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:56.409160+00:00
+
+ ## SOLARIS HOTEL KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $27
+ - [https://solaris-kuta-kuta.all-balihotels.net](https://solaris-kuta-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:12.182253+00:00
+
+ ## HOTEL SOL HOUSE BALI LEGIAN | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $49
+ - [https://sol-house-bali-legian.all-balihotels.net](https://sol-house-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:19.786358+00:00
+
+ ## HOTEL SPAZZIO BALI | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $15
+ - [https://spazzio.all-balihotels.net](https://spazzio.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:43.595197+00:00
+
+ ## STHALA, A TRIBUTE PORTFOLIO HOTEL, UBUD BALI | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $85
+ - [https://sthala-a-tribute-portfolio-ubud.all-balihotels.net](https://sthala-a-tribute-portfolio-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:46.696188+00:00
+
+ ## ST REGIS BALI RESORT | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $732
+ - [https://st-regis-bali-resort-nusa-dua.all-balihotels.net](https://st-regis-bali-resort-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:29:25.153639+00:00
+
+ ## ** HOTEL KERAMAS SURF CAMP, KERAMAS **
+ - [https://surf-camp-villa.all-balihotels.net](https://surf-camp-villa.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:24.994317+00:00
+
+ ## SWISS-BELINN LEGIAN | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $46
+ - [https://swiss-belinn-legian.all-balihotels.net](https://swiss-belinn-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:02.224145+00:00
+
+ ## HOTEL AVEDA BOUTIQUE | ⋆⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $58
+ - [https://swiss-bel-petitenget-seminyak.all-balihotels.net](https://swiss-bel-petitenget-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:32.690062+00:00
+
+ ## TEGES INN | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
+ - [https://teges-inn.all-balihotels.net](https://teges-inn.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:21.955494+00:00
+
+ ## *** HOTEL TERRA COTTAGES BALI, ULUWATU (BALI) ***
+ - [https://terra-cottages-bali.all-balihotels.net](https://terra-cottages-bali.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:08.198875+00:00
+
+ ## HOTEL ALANTARA SANUR | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $207
+ - [https://the-alantara-sanur.all-balihotels.net](https://the-alantara-sanur.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:24.732588+00:00
+
+ ## HOTEL ANVAYA BEACH RESORT BALI | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $1020
+ - [https://the-anvaya-beach-resorts.all-balihotels.net](https://the-anvaya-beach-resorts.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:16.047081+00:00
+
+ ## HOTEL APURVA KEMPINSKI BALI | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $353
+ - [https://the-apurva-kempinski.all-balihotels.net](https://the-apurva-kempinski.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:37.123831+00:00
+
+ ## HOTEL ATANAYA | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $91
+ - [https://the-atanaya.all-balihotels.net](https://the-atanaya.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:53.122091+00:00
+
+ ## HOTEL CRYSTAL LUXURY BAY RESORT NUSA DUA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $162
+ - [https://the-crystal-luxury-bay-resort-nusa-dua-nusa-dua.all-balihotels.net](https://the-crystal-luxury-bay-resort-nusa-dua-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:19.249050+00:00
+
+ ## HOTEL EVITEL RESORT UBUD | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $44
+ - [https://the-evitel-resort-ubud.all-balihotels.net](https://the-evitel-resort-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:06.611999+00:00
+
+ ## HOTEL HAVEN BALI SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $85
+ - [https://the-haven-bali-seminyak.all-balihotels.net](https://the-haven-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:43.036316+00:00
+
+ ## HOTEL ISLAND HOTEL BALI | ⋆⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $18
+ - [https://the-island-bali-legian.all-balihotels.net](https://the-island-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:21.575617+00:00
+
+ ## HOTEL KALYANA UBUD RESORT | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $71
+ - [https://the-kalyana-ubud-resort.all-balihotels.net](https://the-kalyana-ubud-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:01.648192+00:00
+
+ ## HOTEL KAYON JUNGLE RESORT BY PRAMANA | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $350
+ - [https://the-kayon-jungle-resort.all-balihotels.net](https://the-kayon-jungle-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:53.657502+00:00
+
+ ## HOTEL KAYON RESORT | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $268
+ - [https://the-kayon-resort-ubud.all-balihotels.net](https://the-kayon-resort-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:17.451235+00:00
+
+ ## HOTEL KUTA BEACH HERITAGE | ⋆⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $76
+ - [https://the-kuta-beach-heritage.all-balihotels.net](https://the-kuta-beach-heritage.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:32.197885+00:00
+
+ ## HOTEL LEGIAN BALI | ⋆⋆⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $523
+ - [https://the-legian-bali-seminyak.all-balihotels.net](https://the-legian-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:32.369215+00:00
+
+ ## HOTEL LOKHA UBUD | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $341
+ - [https://the-lokha-ubud.all-balihotels.net](https://the-lokha-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:12.208130+00:00
+
+ ## HOTEL OYO FLAGSHIP 760 OASIS KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $21
+ - [https://the-oasis-kuta-kuta.all-balihotels.net](https://the-oasis-kuta-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:22.654193+00:00
+
+ ## HOTEL ONE LEGIAN | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $63
+ - [https://the-one-legian.all-balihotels.net](https://the-one-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:15.571474+00:00
+
+ ## HOTEL PALMS CANGGU | INDONESIA | SEASON DEALS FROM $8
+ - [https://the-palms-canggu.all-balihotels.net](https://the-palms-canggu.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:54.609469+00:00
+
+ ## HOTEL PATRA BALI RESORT & VILLAS | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $214
+ - [https://the-patra-bali-resort-villas-tuban.all-balihotels.net](https://the-patra-bali-resort-villas-tuban.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:51.625382+00:00
+
+ ## HOTEL SAKALA RESORT BALI | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $274
+ - [https://the-sakala-resort-bali-nusa-dua.all-balihotels.net](https://the-sakala-resort-bali-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:48.319056+00:00
+
+ ## HOTEL SALAK | ⋆⋆⋆ | DENPASAR, INDONESIA | SEASON DEALS FROM $17
+ - [https://the-salak-denpasar.all-balihotels.net](https://the-salak-denpasar.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:43.370244+00:00
+
+ ## HOTEL SEMINYAK BEACH RESORT & SPA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $588
+ - [https://the-seminyak-beach-resort-spa.all-balihotels.net](https://the-seminyak-beach-resort-spa.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:01.787352+00:00
+
+ ## HOTEL STONES HOTEL - LEGIAN BALI, AUTOGRAPH COLLECTION | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $633
+ - [https://the-stones-legian-autograph-collection.all-balihotels.net](https://the-stones-legian-autograph-collection.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:54.777436+00:00
+
+ ## HOTEL TUSITA | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $22
+ - [https://the-tusita-kuta.all-balihotels.net](https://the-tusita-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:51.056070+00:00
+
+ ## HOTEL UBUD VILLAGE RESORT & SPA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $313
+ - [https://the-ubud-village-resort-spa.all-balihotels.net](https://the-ubud-village-resort-spa.all-balihotels.net)
+ - date_published: 2024-10-16T13:24:50.834793+00:00
+
+ ## HOTEL VIRA BALI BOUTIQUE HOTEL & SUITE | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $89
+ - [https://the-vira-bali-kuta.all-balihotels.net](https://the-vira-bali-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:08.731004+00:00
+
+ ## WESTIN RESORT | ⋆⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $183
+ - [https://the-westin-resort-nusa-dua-nusa-dua.all-balihotels.net](https://the-westin-resort-nusa-dua-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:58.183921+00:00
+
+ ## HOTEL TIJILI BENOA | ⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $230
+ - [https://tijili-benoa-nusa-dua.all-balihotels.net](https://tijili-benoa-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:43.949166+00:00
+
+ ## HOTEL TIJILI SEMINYAK | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $52
+ - [https://tijili-seminyak.all-balihotels.net](https://tijili-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:19.173866+00:00
+
+ ## TS SUITES BALI | ⋆⋆⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $186
+ - [https://ts-suites-bali-seminyak.all-balihotels.net](https://ts-suites-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:26:53.135983+00:00
+
+ ## HOTEL UBUD VILLAGE | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $98
+ - [https://ubud-village.all-balihotels.net](https://ubud-village.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:58.341840+00:00
+
+ ## UBUD WANA RESORT | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $112
+ - [https://ubud-wana-resort.all-balihotels.net](https://ubud-wana-resort.all-balihotels.net)
+ - date_published: 2024-10-16T13:42:55.595684+00:00
+
+ ## ULUWATU COTTAGES | INDONESIA | SEASON DEALS FROM $95
+ - [https://uluwatu-cottages.all-balihotels.net](https://uluwatu-cottages.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:03.079670+00:00
+
+ ## HOTEL VICEROY BALI | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $554
+ - [https://viceroy-bali-ubud.all-balihotels.net](https://viceroy-bali-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:09.385057+00:00
+
+ ## VILLAGE ABOVE THE CLOUDS | BEDUGUL, INDONESIA | SEASON DEALS FROM $97
+ - [https://village-above-the-clouds-bedugul.all-balihotels.net](https://village-above-the-clouds-bedugul.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:12.317831+00:00
+
+ ## HOTEL WAPA DI UME UBUD | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $334
+ - [https://wapa-di-ume-resort-spa-ubud.all-balihotels.net](https://wapa-di-ume-resort-spa-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:02.526215+00:00
+
+ ## HOTEL W BALI SEMINYAK | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $406
+ - [https://w-bali-seminyak.all-balihotels.net](https://w-bali-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:59.772563+00:00
+
+ ## Bali hotels & apartments, all accommodations in Bali
+ - [https://www.all-balihotels.net](https://www.all-balihotels.net)
+ - date_published: 2024-06-17T03:46:10.543752+00:00
+
+ ## HOTEL WYNDHAM TAMANSARI JIVVA BALI | ⋆⋆⋆⋆⋆ | GIANYAR, INDONESIA | SEASON DEALS FROM $76
+ - [https://wyndham-tamansari-jivva-bali.all-balihotels.net](https://wyndham-tamansari-jivva-bali.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:29.735879+00:00
+
+ ## ZEST HOTEL LEGIAN | ⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $31
+ - [https://zest-legian.all-balihotels.net](https://zest-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:19.091492+00:00
+
+ ## HOTEL ZIA BALI KUTA | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $43
+ - [https://zia-bali-kuta-kuta.all-balihotels.net](https://zia-bali-kuta-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:47.145104+00:00
+
+ ## HOTEL DAUN BALI SEMINYAK | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $50
+ - [https://zia-seminyak.all-balihotels.net](https://zia-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:09.241494+00:00
+
+ ## All Consuming
+ - [https://allconsuming.net](https://allconsuming.net)
+ - date_published: 2024-04-29T03:48:10.992141+00:00
+
+ ## All Day Coffee :: humor & satire :: G. Xavier Robillard
+ - [http://www.alldaycoffee.net](http://www.alldaycoffee.net)
+ - date_published: 2024-07-04T14:17:41.988202+00:00
+
+ ## AllEars.Net
+ - [https://allears.net](https://allears.net)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Home Page - Allegra Lab
+ - [https://allegralaboratory.net](https://allegralaboratory.net)
+ - date_published: 2023-12-28T19:14:48.164086+00:00
+
+ ## I Make Games
+ - [https://allenchou.net](https://allenchou.net)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## The Sentinel's Playground
+ - [http://allfearthesentinel.net](http://allfearthesentinel.net)
+ - date_published: 2024-07-11T12:41:56.706522+00:00
+
+ ## AIJ - Alliance Internationale de Journalistes
+ - [https://alliance-journalistes.net](https://alliance-journalistes.net)
+ - date_published: 2024-05-07T23:42:51.333241+00:00
+
+ ## Login - ALL IN THE LOOP
+ - [https://live.allintheloop.net](https://live.allintheloop.net)
+ - date_published: 2024-07-21T09:41:17.156310+00:00
+
+ ## All search engines in one, the new tab
+ - [https://all-io.net](https://all-io.net)
+ - date_published: 2019-12-18T00:00:00+00:00
+
+ ## Alliance of the Libertarian Left
+ - [http://all-left.net](http://all-left.net)
+ - date_published: 2024-06-27T05:15:57+00:00
+
+ ## Allmods.net
+ - [https://allmods.net](https://allmods.net)
+ - date_published: 2024-10-06T06:12:33.482232+00:00
+
+ ## Free online radio stations – listen for free at AllRadio.Net
+ - [https://allradio.net](https://allradio.net)
+ - date_published: 2024-02-15T22:15:04.024416+00:00
+ - tags: ['demoscene']
 

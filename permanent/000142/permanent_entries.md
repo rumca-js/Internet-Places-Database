@@ -1,151 +1,3 @@
- ## Microsoft security reporting portal
- - [https://cert.microsoft.com](https://cert.microsoft.com)
- - date_published: 2024-07-19T04:17:11+00:00
-
- ## Microsoft account | Privacy
- - [https://choice.microsoft.com](https://choice.microsoft.com)
- - date_published: 2024-04-28T02:26:31.382339+00:00
-
- ## Contributor License Agreements at Microsoft
- - [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com)
- - date_published: 2024-05-20T20:27:18+00:00
-
- ## Microsoft Clarity - Free Heatmaps & Session Recordings
- - [https://clarity.microsoft.com](https://clarity.microsoft.com)
- - date_published: 2024-05-06T08:59:04.538279+00:00
-
- ## Home - Cloud Perspectives Blog
- - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
- - date_published: 2023-10-25T09:34:15.781614+00:00
-
- ## Modern Work for Partners
- - [https://cloudpartners.transform.microsoft.com](https://cloudpartners.transform.microsoft.com)
- - date_published: 2024-06-25T05:11:40+00:00
-
- ## Conference Management Toolkit - Login
- - [https://cmt3.research.microsoft.com](https://cmt3.research.microsoft.com)
- - date_published: 2024-06-22T08:35:20.408488+00:00
-
- ## Microsoft Learn: Build skills that open doors in your career
- - [https://code.msdn.microsoft.com](https://code.msdn.microsoft.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Microsoft Fabric Community
- - [https://community.fabric.microsoft.com](https://community.fabric.microsoft.com)
- - date_published: 2024-06-29T04:34:01.736539+00:00
-
- ## Sign in to your account
- - [https://compliance.microsoft.com](https://compliance.microsoft.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Info
- - [https://connect.microsoft.com](https://connect.microsoft.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Microsoft Copilot: Your everyday AI companion
- - [https://copilot.microsoft.com](https://copilot.microsoft.com)
- - date_published: 2024-04-29T02:49:49.964886+00:00
-
- ## Microsoft Copilot Studio
- - [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
- - date_published: 2024-07-02T23:45:56.856874+00:00
-
- ## Free templates for social media, documents & designs | Microsoft Create
- - [https://create.microsoft.com](https://create.microsoft.com)
- - date_published: 2024-10-11T20:00:08.963148+00:00
-
- ## Microsoft Customer Stories
- - [https://customers.microsoft.com](https://customers.microsoft.com)
- - date_published: 2024-05-08T07:27:26.402375+00:00
-
- ## Sign in to your account
- - [https://customervoice.microsoft.com](https://customervoice.microsoft.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Microsoft Designer - Stunning designs in a flash
- - [https://designer.microsoft.com](https://designer.microsoft.com)
- - date_published: 2023-10-25T16:03:31.208056+00:00
-
- ## DevBlogs - Microsoft Developer Blogs
- - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
- - date_published: 2023-10-25T10:14:03.592606+00:00
-
- ## Microsoft Developer Community
- - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
- - date_published: 2024-05-08T07:27:28.574938+00:00
-
- ## Microsoft Developer
- - [https://developer.microsoft.com](https://developer.microsoft.com)
- - date_published: 2024-01-15T13:49:47.590358+00:00
-
- ## Build and sell your solutions— with the Microsoft AI Cloud Partner Program
- - [https://devicepartner.microsoft.com](https://devicepartner.microsoft.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Microsoft Loop - Think, plan and create together
- - [https://dev.loop.microsoft.com](https://dev.loop.microsoft.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Microsoft developer portal
- - [https://devportal.microsoft.com](https://devportal.microsoft.com)
- - date_published: 2024-06-15T15:56:02.532132+00:00
-
- ## Microsoft Learn: Build skills that open doors in your career
- - [https://docs.microsoft.com](https://docs.microsoft.com)
- - date_published: 2023-10-25T11:30:47.045143+00:00
-
- ## .NET | Build. Test. Deploy.
- - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
- - date_published: 2024-04-30T02:31:00.357576+00:00
-
- ## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
- - [https://download.microsoft.com](https://download.microsoft.com)
- - date_published: 2024-05-01T07:31:51.863543+00:00
-
- ## Business Applications | Microsoft Dynamics 365
- - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
- - date_published: 2024-04-28T02:27:06.759348+00:00
-
- ## Microsoft Power Platform Partner Hub
- - [https://dynamicspartners.transform.microsoft.com](https://dynamicspartners.transform.microsoft.com)
- - date_published: 2024-08-07T22:13:16.659300+00:00
-
- ## Microsoft Education Blog
- - [https://educationblog.microsoft.com](https://educationblog.microsoft.com)
- - date_published: 2024-05-31T01:54:07.750114+00:00
-
- ## Educator Center Overview - Microsoft Learn Educator Center
- - [https://education.microsoft.com](https://education.microsoft.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Microsoft Entra admin center
- - [https://entra.microsoft.com](https://entra.microsoft.com)
- - date_published: 2024-06-29T04:16:00+00:00
-
- ## Further your goals with Microsoft events
- - [https://events.microsoft.com](https://events.microsoft.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Microsoft Virtual Events Powered by Teams
- - [https://events.teams.microsoft.com](https://events.teams.microsoft.com)
- - date_published: 2024-05-11T09:33:36.685368+00:00
-
- ## Microsoft Power Automate
- - [https://flow.microsoft.com](https://flow.microsoft.com)
- - date_published: 2024-05-06T14:01:53.317175+00:00
-
- ## Fluent 2 Design System
- - [https://fluent.microsoft.com](https://fluent.microsoft.com)
- - date_published: 2024-04-29T07:04:30.314105+00:00
-
- ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
- - [https://forms.microsoft.com](https://forms.microsoft.com)
- - date_published: 2024-08-11T17:42:03.018538+00:00
-
- ## Artificial Intelligence Solutions | Microsoft AI
- - [https://fuse.microsoft.com](https://fuse.microsoft.com)
- - date_published: 2024-06-30T10:06:36.040571+00:00
-
  ## Microsoft Learn: Build skills that open doors in your career
  - [https://gallery.technet.microsoft.com](https://gallery.technet.microsoft.com)
  - date_published: 2024-01-12T00:00:00+00:00
@@ -4052,4 +3904,155 @@
  ## Mirko Pizii | Developer, Blogger, Maker
  - [https://www.mirkopizii.com](https://www.mirkopizii.com)
  - date_published: 2022-03-07T23:11:16+00:00
+
+ ## Miro Academy
+ - [https://academy.miro.com](https://academy.miro.com)
+ - date_published: 2024-07-19T20:12:09.295879+00:00
+
+ ## Miro Community Forum: A Community of Collaborators | Miro
+ - [https://community.miro.com](https://community.miro.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Miro Developer Platform
+ - [https://developers.miro.com](https://developers.miro.com)
+ - date_published: 2024-07-19T20:12:02.954173+00:00
+
+ ## Miro Help Center
+ - [https://help.miro.com](https://help.miro.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Miro | The Visual Workspace for Innovation
+ - [https://miro.com](https://miro.com)
+ - date_published: 2024-02-14T21:45:05+00:00
+ - tags: ['online tool', 'project management']
+
+ ## Miro Status
+ - [https://status.miro.com](https://status.miro.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## MIROC BEER /ミロクビール/ミロクブルワリー/MARUGAME/丸亀/クラフトビール/CRAFTBEER
+ - [https://www.miroc-beer.com](https://www.miroc-beer.com)
+ - date_published: 2024-07-10T08:10:29.320499+00:00
+
+ ## Miro Haller
+ - [https://mirohaller.com](https://mirohaller.com)
+ - date_published: 2024-10-07T20:57:08+00:00
+
+ ## Miron Construction Co., Inc. | Building Excellence
+ - [https://miron-construction.com](https://miron-construction.com)
+ - date_published: 2024-07-11T15:35:18+00:00
+
+ ## Rich Mironov's Product Bytes
+ - [https://mironov.com](https://mironov.com)
+ - date_published: 2023-10-25T16:04:55.298712+00:00
+
+ ## Miroslav Velev's Home Page
+ - [http://www.miroslav-velev.com](http://www.miroslav-velev.com)
+ - date_published: 2022-05-01T05:35:32+00:00
+
+ ## Click the link to join this call.
+ - [https://c2c.mirotalk.com](https://c2c.mirotalk.com)
+ - date_published: 2024-05-15T07:13:36+00:00
+
+ ## Click the link to make a call.
+ - [https://p2p.mirotalk.com](https://p2p.mirotalk.com)
+ - date_published: 2024-04-08T19:30:10.302707+00:00
+ - tags: ['self-host', 'video calls']
+
+ ## Click the link to make a call.
+ - [https://sfu.mirotalk.com](https://sfu.mirotalk.com)
+ - date_published: 2024-05-10T08:44:50+00:00
+
+ ## Mirova: Where Investing Meets Sustainability
+ - [https://www.mirova.com](https://www.mirova.com)
+ - date_published: 2024-07-03T05:04:27.487222+00:00
+
+ ## Mirre Yayla Séur
+ - [https://www.mirreyaylaseur.com](https://www.mirreyaylaseur.com)
+ - date_published: 2024-08-19T15:27:20.475586+00:00
+
+ ## Mirror Conf 2018
+ - [http://mirrorconf.com](http://mirrorconf.com)
+ - date_published: 2019-08-20T15:51:15+00:00
+
+ ## Mirroring360 - Screen mirroring from devices to computers and screen sharing
+ - [https://mirroring360.com](https://mirroring360.com)
+ - date_published: 2024-06-12T19:37:54.168553+00:00
+
+ ## MirrorLink® Operations Sunsetting | Car Connectivity Consortium
+ - [http://www.mirrorlink.com](http://www.mirrorlink.com)
+ - date_published: 2021-09-08T15:25:09+00:00
+
+ ## Mirror Networking – Open Source Networking for Unity
+ - [https://mirror-networking.com](https://mirror-networking.com)
+ - date_published: 2024-05-06T21:15:55.045702+00:00
+
+ ## “I Was Living A Life With No Passion Or Drive Until This… THANK YOU Dre!!!"
+ - [https://mirrorofmotivation.com](https://mirrorofmotivation.com)
+ - date_published: 2024-09-15T14:51:12.595143+00:00
+
+ ## Live news, entertainment & features. Breaking news, incredible real life stories and the very best …
+ - [https://www.mirrorpix.com](https://www.mirrorpix.com)
+ - date_published: 2019-03-20T21:54:24+00:00
+
+ ## Mirror | We're the Ruby on Rails & JavaScript Recruiters
+ - [https://mirrorplacement.com](https://mirrorplacement.com)
+ - date_published: 2024-01-06T12:25:18+00:00
+
+ ## Home
+ - [https://www.mirrorreview.com](https://www.mirrorreview.com)
+ - date_published: 2024-10-22T15:02:11.476441+00:00
+
+ ## Buy Mirror's Edge™ Catalyst – PC – EA
+ - [http://mirrorsedge.com](http://mirrorsedge.com)
+ - date_published: 2024-06-18T20:54:44+00:00
+ - tags: ['video game']
+
+ ## Mirs
+ - [https://mirsmusic.com](https://mirsmusic.com)
+ - date_published: 2024-05-10T06:41:22.481495+00:00
+
+ ## Home
+ - [https://www.mirvac.com](https://www.mirvac.com)
+ - date_published: 2024-06-20T08:44:31.472821+00:00
+
+ ## Misalignment Museum
+ - [https://misalignmentmuseum.com](https://misalignmentmuseum.com)
+ - date_published: 2024-02-26T09:12:34.053053+00:00
+
+ ## Welcome to MiscDotGeek - MiscDotGeek
+ - [https://miscdotgeek.com](https://miscdotgeek.com)
+ - date_published: 2024-06-28T16:37:35+00:00
+
+ ## www.mischellemoy.com
+ - [http://mischellemoy.com](http://mischellemoy.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Misc Objet
+ - [https://miscobjet.com](https://miscobjet.com)
+ - date_published: 2024-07-04T01:43:50.588543+00:00
+
+ ## | miscusi
+ - [https://www.miscusi.com](https://www.miscusi.com)
+ - date_published: 2024-07-17T11:14:47.996097+00:00
+
+ ## Mi Seguro Toyota
+ - [https://cliente.misegurotoyota.com](https://cliente.misegurotoyota.com)
+ - date_published: 2024-10-16T16:36:43.548929+00:00
+
+ ## Lazar Miseljic Photography
+ - [https://www.miseljic.com](https://www.miseljic.com)
+ - date_published: 2024-07-14T09:41:50.840289+00:00
+
+ ## Mis Finanzas para Invertir - Blog de inversiones
+ - [https://www.misfinanzasparainvertir.com](https://www.misfinanzasparainvertir.com)
+ - date_published: 2017-03-29T19:24:10+00:00
+
+ ## Duskers (Video Game)
+ - [http://duskers.misfits-attic.com](http://duskers.misfits-attic.com)
+ - date_published: 2014-08-11T00:00:00+00:00
+
+ ## Misfits Attic | ,
+ - [http://misfits-attic.com](http://misfits-attic.com)
+ - date_published: 2013-11-12T17:36:20+00:00
 

@@ -1,147 +1,3 @@
- ## Merci-Michel
- - [https://www.merci-michel.com](https://www.merci-michel.com)
- - date_published: 2024-06-26T21:44:44.749774+00:00
-
- ## Merck | Home
- - [http://www.merck.com](http://www.merck.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Official Website for Health Care Professionals | MerckConnect.com
- - [https://www.merckconnect.com](https://www.merckconnect.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Careers at Merck | Merck jobs
- - [https://careers.merckgroup.com](https://careers.merckgroup.com)
- - date_published: 2024-07-19T16:53:32.858414+00:00
-
- ## Merck - The Vibrant Science & Technology Company
- - [https://merckgroup.com](https://merckgroup.com)
- - date_published: 2024-04-29T03:56:56.144549+00:00
-
- ## Merck Patient Assistance Programs to Help Those in Need - Official Site
- - [https://www.merckhelps.com](https://www.merckhelps.com)
- - date_published: 2024-07-03T19:42:13.091219+00:00
-
- ## MerckVaccines.com | Official Website for Health Care Professionals
- - [https://www.merckvaccines.com](https://www.merckvaccines.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## 株式会社メルコイン
- - [https://about.mercoin.com](https://about.mercoin.com)
- - date_published: 2024-06-18T16:07:09.174591+00:00
-
- ## Mercola.com - #1 Natural Health Website
- - [https://articles.mercola.com](https://articles.mercola.com)
- - date_published: 2024-06-29T21:33:42.027452+00:00
-
- ## Mercola.com - #1 Natural Health Website
- - [https://blogs.mercola.com](https://blogs.mercola.com)
- - date_published: 2024-05-07T14:15:50.166410+00:00
-
- ## Articulos de Informacion Sobre Salud Natural del Dr. Joseph Mercola
- - [https://espanol.mercola.com](https://espanol.mercola.com)
- - date_published: 2024-06-29T21:34:11.030768+00:00
-
- ## Mercola.com - #1 Natural Health Website
- - [https://fitness.mercola.com](https://fitness.mercola.com)
- - date_published: 2024-06-29T21:34:32.130854+00:00
-
- ## Food & Nutrition Facts – Mercola.com
- - [https://foodfacts.mercola.com](https://foodfacts.mercola.com)
- - date_published: 2024-06-29T21:33:45.899020+00:00
-
- ## Articles informatifs sur la santé naturelle et Newsletter sur la Santé Joseph Mercola
- - [https://french.mercola.com](https://french.mercola.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Prendi il controllo del tua salute - Articoli di salute naturale
- - [https://italiano.mercola.com](https://italiano.mercola.com)
- - date_published: 2024-06-29T21:34:00.998094+00:00
-
- ## 죠셉 머콜라 박사의 자연 건강 정보 기사 및 건강 뉴스레터
- - [https://korean.mercola.com](https://korean.mercola.com)
- - date_published: 2024-06-29T21:33:58.643545+00:00
-
- ## Mercola Sign In
- - [https://login.mercola.com](https://login.mercola.com)
- - date_published: 2024-06-29T21:33:52.635947+00:00
-
- ## Artykuły i biuletyny dr Mercoli
- - [https://polish.mercola.com](https://polish.mercola.com)
- - date_published: 2024-06-29T21:34:35.817184+00:00
-
- ## Artigos de saúde natural e boletim informativo de saúde do Dr. Joseph Mercola
- - [https://portuguese.mercola.com](https://portuguese.mercola.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Mercola Search Engine
- - [https://search.mercola.com](https://search.mercola.com)
- - date_published: 2024-06-29T21:34:05.797400+00:00
-
- ## Mercola.com - #1 Natural Health Website
- - [https://www.mercola.com](https://www.mercola.com)
- - date_published: 2024-06-29T21:33:40.527237+00:00
-
- ## Mercola Market | Premium Natural Health Products
- - [https://www.mercolamarket.com](https://www.mercolamarket.com)
- - date_published: 2024-06-29T21:33:44.861043+00:00
-
- ## Gadget ที่ใช่ยังไงก็ Mercular ช้อปเลย ส่งฟรีทั่วไทย
- - [https://www.mercular.com](https://www.mercular.com)
- - date_published: 2024-07-13T13:33:43.327256+00:00
-
- ## 504 Gateway Time-out
- - [http://mercurialtrends.com](http://mercurialtrends.com)
- - date_published: 2023-10-25T16:01:27.958840+00:00
-
- ## Mercuria Press
- - [https://www.mercuriapress.com](https://www.mercuriapress.com)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Mercuri Urval | Reliable Leadership Advice
- - [https://www.mercuriurval.com](https://www.mercuriurval.com)
- - date_published: 2024-07-22T09:41:35.613119+00:00
-
- ## Mercury | Banking for Startups
- - [https://app.mercury.com](https://app.mercury.com)
- - date_published: 2024-05-06T14:04:45.677190+00:00
-
- ## Mercury | Banking built for startups
- - [https://cdn-development.mercury.com](https://cdn-development.mercury.com)
- - date_published: 2022-01-07T21:54:46+00:00
-
- ## Mercury | Banking built for startups
- - [https://cdn.mercury.com](https://cdn.mercury.com)
- - date_published: 2022-02-28T15:53:18+00:00
-
- ## Mercury | Banking for Startups
- - [https://demo.mercury.com](https://demo.mercury.com)
- - date_published: 2024-06-21T23:56:36+00:00
-
- ## Mercury Events
- - [https://events.mercury.com](https://events.mercury.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Online Business Banking For Startups & Personal Banking | Mercury
- - [https://mercury.com](https://mercury.com)
- - date_published: 2024-05-06T13:00:35.978832+00:00
-
- ## Meridian | A Magazine by Mercury
- - [https://meridian.mercury.com](https://meridian.mercury.com)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Rockerbox: Data-Driven Marketing Measurement and Analysis Platform
- - [https://r2kt3s7m.mercury.com](https://r2kt3s7m.mercury.com)
- - date_published: 2024-06-22T07:57:19+00:00
-
- ## Mercury/13
- - [https://mercury13.com](https://mercury13.com)
- - date_published: 2024-07-01T08:24:15.087017+00:00
-
- ## Vavada Casino Рабочее Зеркало 🃏 Официальный сайт Вавада
- - [https://mercuryhackathon2021.com](https://mercuryhackathon2021.com)
- - date_published: 2024-06-22T13:33:40.559594+00:00
-
  ## Home | Mercury Multimedia
  - [https://mercurymultimedia.com](https://mercurymultimedia.com)
  - date_published: 2024-05-13T00:00:00+00:00
@@ -2216,10 +2072,6 @@
  - [https://otc.mexc.com](https://otc.mexc.com)
  - date_published: 2024-06-20T02:21:41.295232+00:00
 
- ## Crypto Trading Platform | Buy Bitcoin, Ethereum, Altcoin, DeFi, Kickstarter | MEXC
- - [https://www.mexc.com](https://www.mexc.com)
- - date_published: 2024-05-04T07:34:24.405524+00:00
-
  ## Welcome to nginx!
  - [https://www.mexcsensors.com](https://www.mexcsensors.com)
  - date_published: 2022-03-22T09:44:23+00:00
@@ -4056,4 +3908,152 @@
  ## Microsoft Careers
  - [https://careers.microsoft.com](https://careers.microsoft.com)
  - date_published: 2024-04-28T02:27:15.800256+00:00
+
+ ## Microsoft security reporting portal
+ - [https://cert.microsoft.com](https://cert.microsoft.com)
+ - date_published: 2024-07-19T04:17:11+00:00
+
+ ## Microsoft account | Privacy
+ - [https://choice.microsoft.com](https://choice.microsoft.com)
+ - date_published: 2024-04-28T02:26:31.382339+00:00
+
+ ## Contributor License Agreements at Microsoft
+ - [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com)
+ - date_published: 2024-05-20T20:27:18+00:00
+
+ ## Microsoft Clarity - Free Heatmaps & Session Recordings
+ - [https://clarity.microsoft.com](https://clarity.microsoft.com)
+ - date_published: 2024-05-06T08:59:04.538279+00:00
+
+ ## Home - Cloud Perspectives Blog
+ - [https://cloudblogs.microsoft.com](https://cloudblogs.microsoft.com)
+ - date_published: 2023-10-25T09:34:15.781614+00:00
+
+ ## Modern Work for Partners
+ - [https://cloudpartners.transform.microsoft.com](https://cloudpartners.transform.microsoft.com)
+ - date_published: 2024-06-25T05:11:40+00:00
+
+ ## Conference Management Toolkit - Login
+ - [https://cmt3.research.microsoft.com](https://cmt3.research.microsoft.com)
+ - date_published: 2024-06-22T08:35:20.408488+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://code.msdn.microsoft.com](https://code.msdn.microsoft.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Microsoft Fabric Community
+ - [https://community.fabric.microsoft.com](https://community.fabric.microsoft.com)
+ - date_published: 2024-06-29T04:34:01.736539+00:00
+
+ ## Sign in to your account
+ - [https://compliance.microsoft.com](https://compliance.microsoft.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Info
+ - [https://connect.microsoft.com](https://connect.microsoft.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Microsoft Copilot: Your everyday AI companion
+ - [https://copilot.microsoft.com](https://copilot.microsoft.com)
+ - date_published: 2024-04-29T02:49:49.964886+00:00
+
+ ## Microsoft Copilot Studio
+ - [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
+ - date_published: 2024-07-02T23:45:56.856874+00:00
+
+ ## Free templates for social media, documents & designs | Microsoft Create
+ - [https://create.microsoft.com](https://create.microsoft.com)
+ - date_published: 2024-10-11T20:00:08.963148+00:00
+
+ ## Microsoft Customer Stories
+ - [https://customers.microsoft.com](https://customers.microsoft.com)
+ - date_published: 2024-05-08T07:27:26.402375+00:00
+
+ ## Sign in to your account
+ - [https://customervoice.microsoft.com](https://customervoice.microsoft.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Microsoft Designer - Stunning designs in a flash
+ - [https://designer.microsoft.com](https://designer.microsoft.com)
+ - date_published: 2023-10-25T16:03:31.208056+00:00
+
+ ## DevBlogs - Microsoft Developer Blogs
+ - [https://devblogs.microsoft.com](https://devblogs.microsoft.com)
+ - date_published: 2023-10-25T10:14:03.592606+00:00
+
+ ## Microsoft Developer Community
+ - [https://developercommunity.microsoft.com](https://developercommunity.microsoft.com)
+ - date_published: 2024-05-08T07:27:28.574938+00:00
+
+ ## Microsoft Developer
+ - [https://developer.microsoft.com](https://developer.microsoft.com)
+ - date_published: 2024-01-15T13:49:47.590358+00:00
+
+ ## Build and sell your solutions— with the Microsoft AI Cloud Partner Program
+ - [https://devicepartner.microsoft.com](https://devicepartner.microsoft.com)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Microsoft Loop - Think, plan and create together
+ - [https://dev.loop.microsoft.com](https://dev.loop.microsoft.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Microsoft developer portal
+ - [https://devportal.microsoft.com](https://devportal.microsoft.com)
+ - date_published: 2024-06-15T15:56:02.532132+00:00
+
+ ## Microsoft Learn: Build skills that open doors in your career
+ - [https://docs.microsoft.com](https://docs.microsoft.com)
+ - date_published: 2023-10-25T11:30:47.045143+00:00
+
+ ## .NET | Build. Test. Deploy.
+ - [https://dotnet.microsoft.com](https://dotnet.microsoft.com)
+ - date_published: 2024-04-30T02:31:00.357576+00:00
+
+ ## Download Drivers & Updates for Microsoft, Windows and more - Microsoft Download Center
+ - [https://download.microsoft.com](https://download.microsoft.com)
+ - date_published: 2024-05-01T07:31:51.863543+00:00
+
+ ## Business Applications | Microsoft Dynamics 365
+ - [https://dynamics.microsoft.com](https://dynamics.microsoft.com)
+ - date_published: 2024-04-28T02:27:06.759348+00:00
+
+ ## Microsoft Power Platform Partner Hub
+ - [https://dynamicspartners.transform.microsoft.com](https://dynamicspartners.transform.microsoft.com)
+ - date_published: 2024-08-07T22:13:16.659300+00:00
+
+ ## Microsoft Education Blog
+ - [https://educationblog.microsoft.com](https://educationblog.microsoft.com)
+ - date_published: 2024-05-31T01:54:07.750114+00:00
+
+ ## Educator Center Overview - Microsoft Learn Educator Center
+ - [https://education.microsoft.com](https://education.microsoft.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Microsoft Entra admin center
+ - [https://entra.microsoft.com](https://entra.microsoft.com)
+ - date_published: 2024-06-29T04:16:00+00:00
+
+ ## Further your goals with Microsoft events
+ - [https://events.microsoft.com](https://events.microsoft.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Microsoft Virtual Events Powered by Teams
+ - [https://events.teams.microsoft.com](https://events.teams.microsoft.com)
+ - date_published: 2024-05-11T09:33:36.685368+00:00
+
+ ## Microsoft Power Automate
+ - [https://flow.microsoft.com](https://flow.microsoft.com)
+ - date_published: 2024-05-06T14:01:53.317175+00:00
+
+ ## Fluent 2 Design System
+ - [https://fluent.microsoft.com](https://fluent.microsoft.com)
+ - date_published: 2024-04-29T07:04:30.314105+00:00
+
+ ## Microsoft Forms - Free tool to create online surveys, forms, polls, and quizzes
+ - [https://forms.microsoft.com](https://forms.microsoft.com)
+ - date_published: 2024-08-11T17:42:03.018538+00:00
+
+ ## Artificial Intelligence Solutions | Microsoft AI
+ - [https://fuse.microsoft.com](https://fuse.microsoft.com)
+ - date_published: 2024-06-30T10:06:36.040571+00:00
 

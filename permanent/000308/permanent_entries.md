@@ -1,336 +1,3 @@
- ## Employer panel
- - [https://panel.justjoin.it](https://panel.justjoin.it)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Update your profile: Matchmaking Beta - justjoin.it
- - [https://profile.justjoin.it](https://profile.justjoin.it)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Raport Wynagrodzeń Branży IT i Tech 2023/2024 – justjoin.it
- - [https://raport.justjoin.it](https://raport.justjoin.it)
- - date_published: 2024-07-19T19:46:05.193728+00:00
-
- ## JustPaste.it - paste text and share with your friends
- - [https://justpaste.it](https://justpaste.it)
- - date_published: 2024-01-08T16:56:49.864753+00:00
-
- ## discovery+
- - [https://k2tv.it](https://k2tv.it)
- - date_published: 2024-05-07T12:50:01.609870+00:00
-
- ## Kadenz
- - [https://kadenz.it](https://kadenz.it)
- - date_published: 2021-05-10T22:06:01+00:00
-
- ## Kahoot!
- - [https://assets-cdn.kahoot.it](https://assets-cdn.kahoot.it)
- - date_published: 2024-06-21T08:45:15+00:00
-
- ## Kahoot!
- - [https://kahoot.it](https://kahoot.it)
- - date_published: 2024-05-06T13:59:58.213480+00:00
-
- ## Enciclopedia “Kaspersky”
- - [https://encyclopedia.kaspersky.it](https://encyclopedia.kaspersky.it)
- - date_published: 2024-07-20T20:44:02.919281+00:00
-
- ## Nota Bene | Blog Ufficiale in italiano di Eugene Kaspersky
- - [https://eugene.kaspersky.it](https://eugene.kaspersky.it)
- - date_published: 2024-10-20T23:08:43.862454+00:00
-
- ## Soluzioni di cybersicurezza Kaspersky per le aziende e gli utenti privati  | Kaspersky
- - [https://kaspersky.it](https://kaspersky.it)
- - date_published: 2024-10-20T23:24:01.317189+00:00
-
- ## Kaspersky Knowledge Base
- - [https://support.kaspersky.it](https://support.kaspersky.it)
- - date_published: 2024-06-18T08:41:21.202984+00:00
-
- ## Blog - la Repubblica
- - [http://goffredovantaggi.blog.kataweb.it](http://goffredovantaggi.blog.kataweb.it)
- - date_published: 2024-10-19T07:32:31.834757+00:00
-
- ## ILMIOLIBRO: Pubblicare libri, e-book – Stampare, leggere libri online
- - [https://ilmiolibro.kataweb.it](https://ilmiolibro.kataweb.it)
- - date_published: 2024-05-12T06:45:24.333207+00:00
-
- ## Kataweb.it - Blog - Giornalismo d\'altri
- - [http://mariotedeschini.blog.kataweb.it](http://mariotedeschini.blog.kataweb.it)
- - date_published: 2024-08-11T06:29:32.543262+00:00
-
- ## Vendite giudiziarie: vendita case e appartamenti - Enti e Tribunali
- - [https://www.entietribunali.kataweb.it](https://www.entietribunali.kataweb.it)
- - date_published: 2024-07-14T19:56:41.785182+00:00
-
- ## Kataweb
- - [https://www.kataweb.it](https://www.kataweb.it)
- - date_published: 2024-07-16T18:44:13.238116+00:00
-
- ## KEEN Italia: Sito Ufficiale della Distribuzione Italiana
- - [https://www.keenfootwear.it](https://www.keenfootwear.it)
- - date_published: 2024-07-14T12:10:59.985905+00:00
-
- ## Whisteblowing
- - [https://epricewb_whistleblowing.keisdata.it](https://epricewb_whistleblowing.keisdata.it)
- - date_published: 2024-05-16T16:18:24+00:00
-
- ## Videoteca di Tele Kenobit
- - [https://videoteca.kenobit.it](https://videoteca.kenobit.it)
- - date_published: 2024-04-19T13:04:48+00:00
-
- ## Quotidiano online sulla digital economy e la cultura del futuro - Key4biz
- - [https://key4biz.it](https://key4biz.it)
- - date_published: 2024-05-10T17:33:00+00:00
-
- ## Homepage
- - [https://www.kfadv.it](https://www.kfadv.it)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Kipoint - Home
- - [https://www.kipoint.it](https://www.kipoint.it)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Kiwido - Federico Carra
- - [http://www.kiwido.it](http://www.kiwido.it)
- - date_published: 2020-12-09T18:50:30+00:00
-
- ## Michiel Klaver - IT Professional
- - [https://klaver.it](https://klaver.it)
- - date_published: 2024-06-04T13:14:20+00:00
-
- ## Knifeville
- - [http://knifeville.it](http://knifeville.it)
- - date_published: 2013-05-15T15:57:48+00:00
-
- ## Konecranes
- - [https://www.konecranes.it](https://www.konecranes.it)
- - date_published: 2024-06-20T23:00:08.460908+00:00
-
- ## Kozel
- - [https://www.kozelbeer.it](https://www.kozelbeer.it)
- - date_published: 2024-07-17T11:14:56.898558+00:00
-
- ## Loris Cro's Personal Website
- - [https://kristoff.it](https://kristoff.it)
- - date_published: 2023-10-25T20:15:11.394567+00:00
- - tags: ['personal']
-
- ## Kutt
- - [https://kutt.it](https://kutt.it)
- - date_published: 2024-04-30T02:11:05.023319+00:00
-
- ## TGLA7 ultime notizie
- - [http://tg.la7.it](http://tg.la7.it)
- - date_published: 2024-10-22T12:36:30.017528+00:00
-
- ## LA7 - Video e notizie su programmi TV, sport, politica e spettacolo
- - [https://www.la7.it](https://www.la7.it)
- - date_published: 2024-06-18T15:44:40.755866+00:00
-
- ## LA CIVILTÀ CATTOLICA
- - [https://www.laciviltacattolica.it](https://www.laciviltacattolica.it)
- - date_published: 2024-06-21T07:47:06+00:00
-
- ## La Cucina Italiana - Benvenuto!
- - [https://corsidigitali.lacucinaitaliana.it](https://corsidigitali.lacucinaitaliana.it)
- - date_published: 2024-07-15T11:02:46.519262+00:00
-
- ## La Scuola de la Cucina Italiana
- - [https://scuola.lacucinaitaliana.it](https://scuola.lacucinaitaliana.it)
- - date_published: 2024-07-15T11:02:48.765801+00:00
-
- ## La Cucina Italiana: ricette, news, chef, storie in cucina
- - [https://lacucinaitaliana.it](https://lacucinaitaliana.it)
- - date_published: 2024-05-12T06:00:11.088635+00:00
-
- ## Powered by CapRover
- - [https://www.lacucinasarda.it](https://www.lacucinasarda.it)
- - date_published: 2023-11-15T13:51:51+00:00
-
- ## LaFeltrinelli | Vendita Online Libri, eBook, Film, Musica, Videogiochi
- - [https://www.lafeltrinelli.it](https://www.lafeltrinelli.it)
- - date_published: 2024-09-17T21:08:17.475406+00:00
-
- ## LA FORMAZIONE PROFESSIONALE IN ITALIA - www.laformazioneprofessionale.it
- - [http://www.laformazioneprofessionale.it](http://www.laformazioneprofessionale.it)
- - date_published: 2024-06-11T15:27:48+00:00
-
- ## La Gazzetta del Mezzogiorno.it  - Ultima ora - News in tempo reale
- - [https://www.lagazzettadelmezzogiorno.it](https://www.lagazzettadelmezzogiorno.it)
- - date_published: 2024-06-18T15:44:45.242009+00:00
-
- ## Lancia: auto di classe, city car e molto altro | Lancia IT
- - [https://www.lancia.it](https://www.lancia.it)
- - date_published: 2024-06-19T07:40:20+00:00
-
- ## Land Rover. Modelli 4x4 e SUV premium
- - [https://www.landrover.it](https://www.landrover.it)
- - date_published: 2024-07-09T17:14:04.200039+00:00
-
- ## Design for better living | Lapalma
- - [https://www.lapalma.it](https://www.lapalma.it)
- - date_published: 2024-06-17T06:37:59.995000+00:00
-
- ## Previsioni meteo  - La Stampa
- - [https://meteo.lastampa.it](https://meteo.lastampa.it)
- - date_published: 2024-08-06T17:55:52.284582+00:00
-
- ## Necrologi Defunti – Annunci Necrologici - Necrologie La Stampa
- - [https://necrologie.lastampa.it](https://necrologie.lastampa.it)
- - date_published: 2024-07-16T18:48:02.676395+00:00
-
- ## Video - La Stampa
- - [https://video.lastampa.it](https://video.lastampa.it)
- - date_published: 2024-07-09T09:22:15+00:00
-
- ## La Stampa - Ultime notizie di cronaca e news dall'Italia e dal mondo
- - [https://lastampa.it](https://lastampa.it)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Last.fm | Ascolta musica, trova canzoni e scopri artisti
- - [http://www.lastfm.it](http://www.lastfm.it)
- - date_published: 2024-06-21T22:18:29.303826+00:00
-
- ## LatinaToday
- - [https://latinatoday.it](https://latinatoday.it)
- - date_published: 2024-05-11T09:56:11.322064+00:00
-
- ## Home - La Toscana di Leonardo
- - [https://www.latoscanadileonardo.it](https://www.latoscanadileonardo.it)
- - date_published: 2024-07-09T07:26:16+00:00
-
- ## Lavieri edizioni
- - [http://www.lavieri.it](http://www.lavieri.it)
- - date_published: 2020-03-28T13:33:55+00:00
-
- ## LazioPress.it
- - [http://www.laziopress.it](http://www.laziopress.it)
- - date_published: 2024-10-21T16:03:58.388459+00:00
-
- ## LeccePrima
- - [https://lecceprima.it](https://lecceprima.it)
- - date_published: 2024-05-11T10:01:57.933318+00:00
-
- ## LeccoToday
- - [https://leccotoday.it](https://leccotoday.it)
- - date_published: 2024-05-11T10:02:30.066912+00:00
-
- ## Citazioni e frasi celebri: La più grande collezione di citazioni, frasi e pensieri
- - [https://le-citazioni.it](https://le-citazioni.it)
- - date_published: 2024-07-04T06:32:02.289063+00:00
-
- ## Serie BKT - Il campionato degli italiani
- - [http://www.legab.it](http://www.legab.it)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Lega Serie A | Home
- - [http://lega-calcio.it](http://lega-calcio.it)
- - date_published: 2024-06-15T18:40:32.859436+00:00
-
- ## LegalBlink
- - [https://app.legalblink.it](https://app.legalblink.it)
- - date_published: 2024-07-13T23:40:23.990308+00:00
-
- ## Pec: Posta Elettronica Certificata | InfoCert
- - [https://legalmail.it](https://legalmail.it)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Homepage
- - [https://eserieatim.legaseriea.it](https://eserieatim.legaseriea.it)
- - date_published: 2024-09-18T22:53:27.258565+00:00
-
- ## Highlights e Gol della Lega Serie A 2024-2025 - Ultima Giornata
- - [https://highlights.legaseriea.it](https://highlights.legaseriea.it)
- - date_published: 2024-09-18T22:53:29.029460+00:00
-
- ## Lega Serie A | Home
- - [https://legaseriea.it](https://legaseriea.it)
- - date_published: 2024-09-18T22:53:42.123009+00:00
-
- ## Newsletter Lega Serie A
- - [https://newsletter.legaseriea.it](https://newsletter.legaseriea.it)
- - date_published: 2024-09-18T22:53:35.173724+00:00
-
- ## Autenticazione
- - [https://portale.legaseriea.it](https://portale.legaseriea.it)
- - date_published: 2024-09-18T22:53:43.800773+00:00
-
- ## Lega Serie A | Home
- - [http://www.legaseriea.it](http://www.legaseriea.it)
- - date_published: 2024-09-18T22:48:46.850831+00:00
-
- ## Home - LeoniBlog
- - [https://www.leoniblog.it](https://www.leoniblog.it)
- - date_published: 2024-07-03T22:21:25.329871+00:00
-
- ## leroymerlin.it
- - [https://www.leroymerlin.it](https://www.leroymerlin.it)
- - date_published: 2024-07-18T08:13:30.275584+00:00
-
- ## Le Scienze - Pubblicazioni dei Ricercatori Italiani
- - [https://segnalazioni.lescienze.it](https://segnalazioni.lescienze.it)
- - date_published: 2024-07-16T18:56:07.154565+00:00
-
- ## Le Scienze - Homepage
- - [https://www.lescienze.it](https://www.lescienze.it)
- - date_published: 2024-05-12T06:44:41.680911+00:00
-
- ## L'Espresso - News, inchieste e approfondimenti
- - [https://lespresso.it](https://lespresso.it)
- - date_published: 2024-09-02T11:13:37.720669+00:00
-
- ## Let's Block It! :: letsblock.it
- - [https://letsblock.it](https://letsblock.it)
- - date_published: 2023-10-25T20:15:12.362251+00:00
-
- ## Let's Debug It!
- - [https://letsdebug.it](https://letsdebug.it)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## lettuce.it
- - [https://lettuce.it](https://lettuce.it)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## L'Eurispes.it magazine 2023
- - [https://www.leurispes.it](https://www.leurispes.it)
- - date_published: 2024-07-02T22:47:17.258075+00:00
-
- ## Newsroom Lexus Italia
- - [https://newsroom.lexus.it](https://newsroom.lexus.it)
- - date_published: 2024-07-03T01:38:36+00:00
-
- ## Fissa un appuntamento
- - [https://libars.it](https://libars.it)
- - date_published: 2023-12-02T15:03:06+00:00
-
- ## Libero Mail - login
- - [https://account.libero.it](https://account.libero.it)
- - date_published: 2024-09-16T10:23:59.163770+00:00
-
- ## Libero Aiuto
- - [https://aiuto.libero.it](https://aiuto.libero.it)
- - date_published: 2024-09-16T10:21:43.743757+00:00
-
- ## {{pageTitle}}
- - [https://club.libero.it](https://club.libero.it)
- - date_published: 2024-06-13T14:55:08+00:00
-
- ## Libero Community Homepage
- - [https://digiland.libero.it](https://digiland.libero.it)
- - date_published: 2024-09-16T10:22:12.634350+00:00
-
- ## Libero Drive: spazio di archiviazione, cloud e backup
- - [https://drive.libero.it](https://drive.libero.it)
- - date_published: 2024-09-16T10:22:16.847358+00:00
-
- ## Giochi gratis online e divertimento per tutti!
- - [https://fun.libero.it](https://fun.libero.it)
- - date_published: 2024-06-15T06:19:31.133623+00:00
-
- ## Home
- - [https://gaming.libero.it](https://gaming.libero.it)
- - date_published: 2024-06-15T06:18:42.205460+00:00
-
  ## Info Libero
  - [https://info.libero.it](https://info.libero.it)
  - date_published: 2024-09-16T10:21:48.652828+00:00
@@ -4010,4 +3677,336 @@
  ## Le Gallerie degli Uffizi Shop
  - [https://shop.uffizi.it](https://shop.uffizi.it)
  - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Portale Trasparenza Le Gallerie degli Uffizi  - Amministrazione trasparente
+ - [https://trasparenza.uffizi.it](https://trasparenza.uffizi.it)
+ - date_published: 2024-07-04T02:08:09+00:00
+
+ ## Homepage
+ - [https://uffizi.it](https://uffizi.it)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UMANA - Agenzia per il Lavoro
+ - [https://www.umana.it](https://www.umana.it)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Una speranza per Francesca - Home
+ - [http://www.unasperanzaperfrancesca.it](http://www.unasperanzaperfrancesca.it)
+ - date_published: 2024-06-22T17:58:30.207404+00:00
+
+ ## Unbit - / -
+ - [https://unbit.it](https://unbit.it)
+ - date_published: 2024-08-11T10:52:16.735185+00:00
+
+ ## Unclutter — Reader Mode for Chrome & Firefox
+ - [https://unclutter.it](https://unclutter.it)
+ - date_published: 2023-10-25T20:15:40.192858+00:00
+
+ ## Free Online Debt Snowball/Avalanche Calculator | Undebt.it
+ - [https://undebt.it](https://undebt.it)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Computer Science and Engineering Group - Università degli Studi di Bergamo
+ - [https://cs.unibg.it](https://cs.unibg.it)
+ - date_published: 2024-04-24T10:22:19+00:00
+
+ ## Computer Science and Engineering Group - Università degli Studi di Bergamo
+ - [https://wpes09.unibg.it](https://wpes09.unibg.it)
+ - date_published: 2024-04-24T10:22:19+00:00
+
+ ## Benvenuto in AlmaRM
+ - [https://almarm.unibo.it](https://almarm.unibo.it)
+ - date_published: 2024-07-24T06:47:58.696930+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.unibo.it](https://analytics.unibo.it)
+ - date_published: 2024-07-24T03:55:57.492962+00:00
+
+ ## Bandi, gare e concorsi
+ - [https://bandi.unibo.it](https://bandi.unibo.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## BOOK - MOOCs portal of University of Bologna
+ - [https://book.unibo.it](https://book.unibo.it)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Cedolini
+ - [https://cedolini.unibo.it](https://cedolini.unibo.it)
+ - date_published: 2024-07-24T06:48:27.312486+00:00
+
+ ## Sign In
+ - [https://centri.unibo.it](https://centri.unibo.it)
+ - date_published: 2024-07-24T06:48:20.302152+00:00
+
+ ## Sign In
+ - [https://concilium.unibo.it](https://concilium.unibo.it)
+ - date_published: 2024-07-24T06:48:11.613122+00:00
+
+ ## Home page
+ - [https://cris.unibo.it](https://cris.unibo.it)
+ - date_published: 2024-07-24T06:47:57.474599+00:00
+
+ ## HomePage
+ - [https://disi.unibo.it](https://disi.unibo.it)
+ - date_published: 2024-07-24T06:48:21.446270+00:00
+
+ ## Esami online
+ - [https://eol.unibo.it](https://eol.unibo.it)
+ - date_published: 2024-07-24T06:48:05.394046+00:00
+
+ ## Incarichi extra istituzionali - Università di Bologna
+ - [https://incarichiextraistituzionali.unibo.it](https://incarichiextraistituzionali.unibo.it)
+ - date_published: 2024-07-24T06:47:59.673043+00:00
+
+ ## Sign In
+ - [https://intranet.unibo.it](https://intranet.unibo.it)
+ - date_published: 2024-07-24T06:48:03.258030+00:00
+
+ ## Job Placement
+ - [https://jobplacement.unibo.it](https://jobplacement.unibo.it)
+ - date_published: 2024-07-24T06:48:15.536684+00:00
+
+ ## UniboMagazine - Home Page
+ - [https://magazine.unibo.it](https://magazine.unibo.it)
+ - date_published: 2024-07-24T06:48:16.410489+00:00
+
+ ## Accesso alla Mailbox d'Ufficio
+ - [https://mail.unibo.it](https://mail.unibo.it)
+ - date_published: 2024-07-24T06:48:13.672761+00:00
+
+ ## NormAteneo - Normateneo
+ - [https://normateneo.unibo.it](https://normateneo.unibo.it)
+ - date_published: 2024-09-14T22:27:01.384667+00:00
+
+ ## Piano Strategico 2022-2027
+ - [https://pianostrategico.unibo.it](https://pianostrategico.unibo.it)
+ - date_published: 2024-09-14T22:27:04.259348+00:00
+
+ ## Sign In
+ - [https://presenzeweb.unibo.it](https://presenzeweb.unibo.it)
+ - date_published: 2024-07-24T06:48:22.435289+00:00
+
+ ## Sistema Bibliotecario di Ateneo — SBA
+ - [https://sba.unibo.it](https://sba.unibo.it)
+ - date_published: 2024-09-14T22:27:05.287747+00:00
+
+ ## Sign In
+ - [https://site.unibo.it](https://site.unibo.it)
+ - date_published: 2024-07-24T03:55:55.794422+00:00
+
+ ## Sociologica
+ - [https://sociologica.unibo.it](https://sociologica.unibo.it)
+ - date_published: 2024-06-21T19:57:15.492444+00:00
+
+ ## Sportelli - Università di Bologna
+ - [https://sportelli.unibo.it](https://sportelli.unibo.it)
+ - date_published: 2024-07-24T06:48:28.033913+00:00
+
+ ## SOL
+ - [https://studenti.unibo.it](https://studenti.unibo.it)
+ - date_published: 2024-07-24T06:48:26.004041+00:00
+
+ ## Sign In
+ - [https://svc.unibo.it](https://svc.unibo.it)
+ - date_published: 2024-07-24T06:48:23.820967+00:00
+
+ ## TECA
+ - [https://teca.unibo.it](https://teca.unibo.it)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Sign In
+ - [http://uniboimmagine.unibo.it](http://uniboimmagine.unibo.it)
+ - date_published: 2024-07-24T06:48:10.491703+00:00
+
+ ## Home | Virtuale
+ - [https://virtuale.unibo.it](https://virtuale.unibo.it)
+ - date_published: 2024-07-24T06:48:14.750513+00:00
+
+ ## HomePage
+ - [https://cs.unibo.it](https://cs.unibo.it)
+ - date_published: 2024-04-29T06:18:43.495506+00:00
+
+ ## DB&KB Group @ DISI, IEIIT/BO-CNR - University of Bologna
+ - [http://www-db.deis.unibo.it](http://www-db.deis.unibo.it)
+ - date_published: 2015-06-19T12:24:31+00:00
+
+ ## Museo di Palazzo Poggi - Sistema Museale di Ateneo - SMA
+ - [http://www.museopalazzopoggi.unibo.it](http://www.museopalazzopoggi.unibo.it)
+ - date_published: 2024-06-24T09:51:21.382166+00:00
+
+ ## NormAteneo - Normateneo
+ - [http://www.normateneo.unibo.it](http://www.normateneo.unibo.it)
+ - date_published: 2024-07-24T06:48:08.609900+00:00
+
+ ## Sistema Bibliotecario di Ateneo — SBA
+ - [http://www.sba.unibo.it](http://www.sba.unibo.it)
+ - date_published: 2024-07-24T06:48:25.319042+00:00
+
+ ## Sistema Museale di Ateneo - SMA
+ - [http://www.sma.unibo.it](http://www.sma.unibo.it)
+ - date_published: 2024-06-24T09:35:54.808069+00:00
+
+ ## Università di Bologna
+ - [https://www.unibo.it](https://www.unibo.it)
+ - date_published: 2024-06-14T15:03:19.496479+00:00
+
+ ## Homepage | Unibo Store
+ - [https://www.unibostore.it](https://www.unibostore.it)
+ - date_published: 2024-07-24T06:48:18.826779+00:00
+
+ ## UniCA Open Journals
+ - [https://ojs.unica.it](https://ojs.unica.it)
+ - date_published: 2024-06-30T07:24:42.989840+00:00
+
+ ## AIDA Lab – Artificial Intellingence and Data Analysis Laboratory
+ - [https://aida.unicas.it](https://aida.unicas.it)
+ - date_published: 2024-05-10T05:01:01.790395+00:00
+
+ ## Centri di ricerca |  La ricerca in Cattolica
+ - [https://centridiricerca.unicatt.it](https://centridiricerca.unicatt.it)
+ - date_published: 2024-05-07T23:43:11.760111+00:00
+
+ ## Docenti Università Cattolica del Sacro Cuore
+ - [https://docenti.unicatt.it](https://docenti.unicatt.it)
+ - date_published: 2024-05-08T05:47:44+00:00
+
+ ## Università Cattolica del Sacro Cuore
+ - [https://educatt.unicatt.it](https://educatt.unicatt.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Loading...
+ - [https://intranet.unicatt.it](https://intranet.unicatt.it)
+ - date_published: 2024-07-02T23:15:38.314802+00:00
+
+ ## Università Cattolica del Sacro Cuore
+ - [https://osservatoriocpi.unicatt.it](https://osservatoriocpi.unicatt.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Università Cattolica del Sacro Cuore
+ - [https://progetti.unicatt.it](https://progetti.unicatt.it)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## La ricerca in Cattolica
+ - [https://ricerca.unicatt.it](https://ricerca.unicatt.it)
+ - date_published: 2024-07-02T23:15:57.523379+00:00
+
+ ## Sistema bibliotecario e documentale
+ - [https://sbda.unicatt.it](https://sbda.unicatt.it)
+ - date_published: 2024-07-02T23:15:52.474767+00:00
+
+ ## Sostieni l'Università Cattolica | Università Cattolica
+ - [https://sostieni.unicatt.it](https://sostieni.unicatt.it)
+ - date_published: 2024-07-02T23:15:45+00:00
+
+ ## Università Cattolica del Sacro Cuore
+ - [https://studenticattolica.unicatt.it](https://studenticattolica.unicatt.it)
+ - date_published: 2024-07-02T23:15:35.870756+00:00
+
+ ## Verifica certificati e autocertificazioni
+ - [https://verificaautocertificazioni.unicatt.it](https://verificaautocertificazioni.unicatt.it)
+ - date_published: 2024-07-02T23:15:44.466157+00:00
+
+ ## Università Cattolica del Sacro Cuore
+ - [https://www.unicatt.it](https://www.unicatt.it)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## UniCredit - Mobile Banking
+ - [https://m.unicredit.it](https://m.unicredit.it)
+ - date_published: 2024-06-17T08:32:48+00:00
+
+ ## buddy, la Filiale remota di UniCredit con chat 24/7
+ - [https://www.buddy.unicredit.it](https://www.buddy.unicredit.it)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Privati e Famiglie
+ - [https://www.unicredit.it](https://www.unicredit.it)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UniCredit Subito Casa: Annunci immobiliari e Vendita Case
+ - [https://www.unicreditsubitocasa.it](https://www.unicreditsubitocasa.it)
+ - date_published: 2024-06-25T22:50:06.111224+00:00
+
+ ## Homepage | UNICRI :: United Nations Interregional Crime and Justice Research Institute
+ - [https://unicri.it](https://unicri.it)
+ - date_published: 2024-06-17T08:27:54+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://intranet.unict.it](https://intranet.unict.it)
+ - date_published: 2024-06-23T20:47:57.439671+00:00
+
+ ## IPLab – Image Processing Laboratory
+ - [https://iplab.dmi.unict.it](https://iplab.dmi.unict.it)
+ - date_published: 2024-06-23T20:48:56.488333+00:00
+
+ ## Mathematical Physics Research Group
+ - [https://mathphys.dmi.unict.it](https://mathphys.dmi.unict.it)
+ - date_published: 2024-01-19T10:10:00+00:00
+
+ ## CEA - Servizio centralizzato di autenticazione
+ - [https://segreterie.smartedu.unict.it](https://segreterie.smartedu.unict.it)
+ - date_published: 2024-06-23T20:48:27.331982+00:00
+
+ ## Studenti Unict - smart_edu
+ - [https://studenti.smartedu.unict.it](https://studenti.smartedu.unict.it)
+ - date_published: 2024-06-23T20:49:08.738996+00:00
+
+ ## Studium.UniCT - Universitagrave; degli Studi di Catania
+ - [http://studium.unict.it](http://studium.unict.it)
+ - date_published: 2024-06-23T20:49:10.344003+00:00
+
+ ## Dipartimento di Matematica e Informatica
+ - [https://web.dmi.unict.it](https://web.dmi.unict.it)
+ - date_published: 2024-06-23T20:37:32+00:00
+
+ ## Sign In
+ - [https://webmail365.unict.it](https://webmail365.unict.it)
+ - date_published: 2024-06-23T20:48:54.576008+00:00
+
+ ## Horde :: Log in
+ - [https://webmail.dmi.unict.it](https://webmail.dmi.unict.it)
+ - date_published: 2024-06-23T20:48:51.153825+00:00
+
+ ## Horde :: Log in
+ - [https://webmail.unict.it](https://webmail.unict.it)
+ - date_published: 2024-06-23T20:48:02.648901+00:00
+
+ ## Dipartimento di Matematica e Informatica
+ - [https://www.dmi.unict.it](https://www.dmi.unict.it)
+ - date_published: 2024-05-06T15:13:12.433419+00:00
+
+ ## Attività interdipartimentali
+ - [https://www.interdip.unict.it](https://www.interdip.unict.it)
+ - date_published: 2024-06-23T20:47:55+00:00
+
+ ## Area dei Sistemi Informativi Biblioteche e documentazione
+ - [https://www.sida.unict.it](https://www.sida.unict.it)
+ - date_published: 2024-06-23T20:48:38.155624+00:00
+
+ ## Università di Catania
+ - [https://www.unict.it](https://www.unict.it)
+ - date_published: 2024-06-23T20:27:52+00:00
+
+ ## HomePage Personali
+ - [http://web.unife.it](http://web.unife.it)
+ - date_published: 2024-06-24T09:37:27.275450+00:00
+
+ ## ECCV 2012
+ - [https://eccv2012.unifi.it](https://eccv2012.unifi.it)
+ - date_published: 2011-10-07T10:20:14+00:00
+
+ ## Sistema Informatico dell'Ateneo Fiorentino (SIAF) | UniFI
+ - [http://www3.unifi.it](http://www3.unifi.it)
+ - date_published: 2022-01-31T12:09:31+00:00
+
+ ## MICC - Media Integration and Communication Center
+ - [https://www.micc.unifi.it](https://www.micc.unifi.it)
+ - date_published: 2024-09-13T17:59:31.070792+00:00
+
+ ## Sistema Museale di Ateneo | UniFI
+ - [http://www.msn.unifi.it](http://www.msn.unifi.it)
+ - date_published: 2024-06-24T09:35:07.961322+00:00
+
+ ## PIN - Servizi alle imprese, Alta Formazione, Università.
+ - [http://www.poloprato.unifi.it](http://www.poloprato.unifi.it)
+ - date_published: 2015-01-20T13:12:35+00:00
 

@@ -1,47 +1,3 @@
- ## Derecho de la Competencia - Antitrust Law
- - [https://derechoycompetencia.blogspot.com](https://derechoycompetencia.blogspot.com)
- - date_published: 2024-10-18T19:20:10.753713+00:00
-
- ## Derek Landy Blogs Under Duress
- - [http://dereklandy.blogspot.com](http://dereklandy.blogspot.com)
- - date_published: 2024-10-24T13:38:22+00:00
-
- ## Derek says:
- - [http://derek-says.blogspot.com](http://derek-says.blogspot.com)
- - date_published: 2024-06-03T09:10:51+00:00
-
- ## Der Figurenschieber
- - [http://derfigurenschieber.blogspot.com](http://derfigurenschieber.blogspot.com)
- - date_published: 2024-06-15T06:01:22+00:00
-
- ## Derk's miniatures blog
- - [http://derkg.blogspot.com](http://derkg.blogspot.com)
- - date_published: 2024-09-09T15:15:59+00:00
-
- ## Derrick Bang on Film
- - [https://derrickbang.blogspot.com](https://derrickbang.blogspot.com)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## El Descanso del Escriba
- - [https://descansodelescriba.blogspot.com](https://descansodelescriba.blogspot.com)
- - date_published: 2024-06-18T07:17:42+00:00
-
- ## Descriptively Adequate
- - [https://descriptively.blogspot.com](https://descriptively.blogspot.com)
- - date_published: 2024-02-08T00:45:16+00:00
-
- ## Desert Cat's Paradise
- - [http://desertcat.blogspot.com](http://desertcat.blogspot.com)
- - date_published: 2024-02-07T04:17:35+00:00
-
- ## Deser(e)t Loon
- - [http://desertloon.blogspot.com](http://desertloon.blogspot.com)
- - date_published: 2024-07-01T10:53:10+00:00
-
- ## still practicing_
- - [http://desertraiders.blogspot.com](http://desertraiders.blogspot.com)
- - date_published: 2024-07-03T02:00:52+00:00
-
  ## In Iraq for 365
  - [http://desert-smink.blogspot.com](http://desert-smink.blogspot.com)
  - date_published: 2024-06-04T09:18:36+00:00
@@ -4004,4 +3960,48 @@
  ## Gaming and Ranting
  - [http://gamingranting.blogspot.com](http://gamingranting.blogspot.com)
  - date_published: 2024-08-30T11:55:44+00:00
+
+ ## Gaming Reference
+ - [https://gamingreference.blogspot.com](https://gamingreference.blogspot.com)
+ - date_published: 2024-10-24T09:47:41+00:00
+
+ ## Ganesha Games
+ - [http://ganeshagames.blogspot.com](http://ganeshagames.blogspot.com)
+ - date_published: 2024-07-04T05:58:38+00:00
+
+ ## Gangs of Mordheim
+ - [http://gangsofmordheim.blogspot.com](http://gangsofmordheim.blogspot.com)
+ - date_published: 2024-06-19T13:27:51+00:00
+
+ ## Ganor's Blog
+ - [http://ganoro.blogspot.com](http://ganoro.blogspot.com)
+ - date_published: 2024-07-15T14:00:43+00:00
+
+ ## Blogger
+ - [http://ganymedekids.blogspot.com](http://ganymedekids.blogspot.com)
+ - date_published: 2024-06-20T03:51:26.844132+00:00
+
+ ## Garage Sale Finds
+ - [http://garagesalin.blogspot.com](http://garagesalin.blogspot.com)
+ - date_published: 2024-09-18T06:47:36+00:00
+
+ ## Il giardino delle Esperidi
+ - [http://gardenofhesperides.blogspot.com](http://gardenofhesperides.blogspot.com)
+ - date_published: 2024-08-20T13:52:53+00:00
+
+ ## Welcome to the Garden of Nurgle
+ - [https://garden-of-nurgle.blogspot.com](https://garden-of-nurgle.blogspot.com)
+ - date_published: 2024-03-20T09:21:37+00:00
+
+ ## Gardens of Hecate
+ - [https://gardensofhecate.blogspot.com](https://gardensofhecate.blogspot.com)
+ - date_published: 2024-03-13T04:32:08+00:00
+
+ ## Garganthar
+ - [http://garganthar.blogspot.com](http://garganthar.blogspot.com)
+ - date_published: 2024-03-14T03:59:16+00:00
+
+ ## THE DREAD PIRATE GARNESS
+ - [http://garness.blogspot.com](http://garness.blogspot.com)
+ - date_published: 2024-10-07T05:36:06+00:00
 

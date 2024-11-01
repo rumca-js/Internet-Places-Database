@@ -1,7 +1,3 @@
- ## PCB Design Software & Tools | Altium
- - [https://cdn-static.altium.com](https://cdn-static.altium.com)
- - date_published: 2024-06-13T14:44:45+00:00
-
  ## PCB Design Courses by Altium
  - [https://education.altium.com](https://education.altium.com)
  - date_published: 2024-06-15T11:24:30.592886+00:00
@@ -4052,4 +4048,8 @@
  ## Jeff Anderson & Associates - Child Sexual Abuse Attorneys & Advocates
  - [https://andersonadvocates.com](https://andersonadvocates.com)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Anderson Dahlen Inc.
+ - [https://www.andersondahlen.com](https://www.andersondahlen.com)
+ - date_published: 2024-10-19T03:51:01.794036+00:00
 

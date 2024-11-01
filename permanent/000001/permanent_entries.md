@@ -1,79 +1,3 @@
- ## Coho AI | Make App Engagement Easy
- - [https://www.coho.ai](https://www.coho.ai)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## CoinScreener
- - [https://www.coinscreener.ai](https://www.coinscreener.ai)
- - date_published: 2024-01-24T18:41:27+00:00
-
- ## CoInvent AI
- - [https://coinvent.ai](https://coinvent.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Colibri.ai - AI Meeting Notes & Conversation Intelligence
- - [https://colibri.ai](https://colibri.ai)
- - date_published: 2024-06-19T20:56:52.046703+00:00
-
- ## Collie | One-Click Application Search
- - [https://collie.ai](https://collie.ai)
- - date_published: 2023-10-25T11:37:32.730245+00:00
-
- ## Colorify
- - [https://www.colorify.ai](https://www.colorify.ai)
- - date_published: 2024-06-19T20:34:57.964300+00:00
-
- ## Color Pop - Fun Coloring Games
- - [https://app.colorpop.ai](https://app.colorpop.ai)
- - date_published: 2024-06-19T19:11:23.481690+00:00
-
- ## Columns: your AI data storyteller
- - [https://columns.ai](https://columns.ai)
- - date_published: 2024-05-19T10:43:43.079647+00:00
-
- ## CoMaker.ai - Your AI-powered content creation partner
- - [https://www.comaker.ai](https://www.comaker.ai)
- - date_published: 2024-06-19T19:35:25.590107+00:00
-
- ## Create Comics Using AI | ComicsMaker.ai
- - [https://comicsmaker.ai](https://comicsmaker.ai)
- - date_published: 2023-10-25T11:37:36.161725+00:00
-
- ## Comigo AI
- - [https://app.comigo.ai](https://app.comigo.ai)
- - date_published: 2024-08-19T12:24:09.486010+00:00
-
- ## Comigo - Your AI Companion for ADHD
- - [https://comigo.ai](https://comigo.ai)
- - date_published: 2023-10-25T11:37:40.443111+00:00
-
- ## comma.ai blog
- - [https://blog.comma.ai](https://blog.comma.ai)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## comma.ai — make driving chill
- - [https://comma.ai](https://comma.ai)
- - date_published: 2024-07-11T03:55:45+00:00
-
- ## Command AI | AI-powered user assistance
- - [https://www.command.ai](https://www.command.ai)
- - date_published: 2024-10-15T18:11:27.431807+00:00
-
- ## Components AI — A new way to explore generative design systems
- - [https://components.ai](https://components.ai)
- - date_published: 2024-05-06T14:00:05.855494+00:00
-
- ## Compose AI: Automated Your Writing
- - [https://www.compose.ai](https://www.compose.ai)
- - date_published: 2024-06-19T19:53:40.685942+00:00
-
- ## Frame
- - [https://analytics.conductive.ai](https://analytics.conductive.ai)
- - date_published: 2024-07-10T11:21:35.594163+00:00
-
- ## Confetti AI | Ace Your Machine Learning and Data Science Interviews
- - [https://www.confetti.ai](https://www.confetti.ai)
- - date_published: 2022-10-13T16:01:45+00:00
-
  ## Conker for AI powered quizzes and more
  - [https://conker.ai](https://conker.ai)
  - date_published: 2024-02-01T00:00:00+00:00
@@ -290,14 +214,6 @@
  - [https://www.co-writer.ai](https://www.co-writer.ai)
  - date_published: 2022-06-11T00:00:00+00:00
 
- ## Automate internal document processes with AI | Cradl AI
- - [https://www.cradl.ai](https://www.cradl.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Craftly.AI - The Best AI Copywriting Assistant
- - [https://www.craftly.ai](https://www.craftly.ai)
- - date_published: 2024-03-11T00:00:00+00:00
-
  ## Cranium | U.S. & Global AI Governance
  - [https://www.cranium.ai](https://www.cranium.ai)
  - date_published: 2024-08-02T00:00:00+00:00
@@ -489,10 +405,6 @@
  - [https://danswer.ai](https://danswer.ai)
  - date_published: 2024-02-22T15:20:53.072864+00:00
 
- ## ‏Justice Intelligence Platform | Darrow
- - [https://www.darrow.ai](https://www.darrow.ai)
- - date_published: 2024-05-12T00:00:00+00:00
-
  ## Home
  - [https://dasha.ai](https://dasha.ai)
  - date_published: 2024-05-08T06:17:04.759991+00:00
@@ -596,10 +508,6 @@
  - [https://deci.ai](https://deci.ai)
  - date_published: 2023-10-25T11:38:07.322500+00:00
 
- ## Automate Your Podcast Content Workflow.
- - [https://www.deciphr.ai](https://www.deciphr.ai)
- - date_published: 2024-06-19T19:35:28.500310+00:00
-
  ## Decision Point – The Analytics Think Tank
  - [https://latam.decisionpoint.ai](https://latam.decisionpoint.ai)
  - date_published: 2024-06-29T04:46:51.520276+00:00
@@ -688,10 +596,6 @@
  - [https://deepstory.ai](https://deepstory.ai)
  - date_published: 2023-12-26T13:53:30+00:00
 
- ## Deepswap - Best AI Face Swap Online for Video & Photo
- - [https://www.deepswap.ai](https://www.deepswap.ai)
- - date_published: 2024-06-19T21:22:17.185724+00:00
-
  ## 404: NOT_FOUND
  - [https://www.delegaid.ai](https://www.delegaid.ai)
  - date_published: 2024-01-09T02:23:15.594469+00:00
@@ -771,10 +675,6 @@
  ## Welcome to Deep Graph Library Tutorials and Documentation — DGL 2.2.1 documentation
  - [https://docs.dgl.ai](https://docs.dgl.ai)
  - date_published: 2024-05-10T00:33:45+00:00
-
- ## Dicer.ai | AI Marketing Insights
- - [https://www.dicer.ai](https://www.dicer.ai)
- - date_published: 2024-07-11T16:51:35.245629+00:00
 
  ## Dify.AI · The Innovation Engine for Generative AI Applications
  - [https://dify.ai](https://dify.ai)
@@ -1040,10 +940,6 @@
  - [https://editapp.ai](https://editapp.ai)
  - date_published: 2024-06-14T08:55:04.658132+00:00
 
- ## Editby - Create AI SEO-optimized content with your brand style
- - [https://www.editby.ai](https://www.editby.ai)
- - date_published: 2024-05-24T00:00:00+00:00
-
  ## Eduaide.Ai: Instruction by Design
  - [https://www.eduaide.ai](https://www.eduaide.ai)
  - date_published: 2024-06-19T20:36:24.780595+00:00
@@ -1145,10 +1041,6 @@
  ## Elook.AI – Generate High-Quality Leads Effortlessly with Our AI Tool
  - [https://elook.ai](https://elook.ai)
  - date_published: 2024-09-21T22:51:41.908723+00:00
-
- ## Elto
- - [https://www.elto.ai](https://www.elto.ai)
- - date_published: 2024-06-11T00:00:00+00:00
 
  ## Elysian Labs
  - [https://elysianlabs.ai](https://elysianlabs.ai)
@@ -1267,10 +1159,6 @@
  ## AI-led Experience Optimization | Evolv AI
  - [https://go.evolv.ai](https://go.evolv.ai)
  - date_published: 2024-07-04T12:13:25+00:00
-
- ## EVOTO, AI-powered Photo Editor
- - [https://www.evoto.ai](https://www.evoto.ai)
- - date_published: 2024-06-19T20:04:30.485425+00:00
 
  ## Exa API Dashboard
  - [https://dashboard.exa.ai](https://dashboard.exa.ai)
@@ -1800,10 +1688,6 @@
  - [https://www.foxyapps.ai](https://www.foxyapps.ai)
  - date_published: 2024-06-19T19:08:38.839125+00:00
 
- ## Freeday AI | Revolutionizing Workflows with Generative AI Technology
- - [https://www.freeday.ai](https://www.freeday.ai)
- - date_published: 2024-06-13T00:00:00+00:00
-
  ## Free AI Image Generator - LearnWithHasan Tools 🤖
  - [https://freeimage.ai](https://freeimage.ai)
  - date_published: 2024-05-23T00:00:00+00:00
@@ -1956,10 +1840,6 @@
  ## Alter AI: The #1 AI Headshot Generator
  - [https://getalter.ai](https://getalter.ai)
  - date_published: 2024-06-14T08:55:00.143422+00:00
-
- ## Conch AI - Your Undetectable AI Essay Writing and Research Assistant
- - [https://www.getconch.ai](https://www.getconch.ai)
- - date_published: 2024-06-11T00:00:00+00:00
 
  ## Chat with Dot
  - [https://app.getdot.ai](https://app.getdot.ai)
@@ -2137,10 +2017,6 @@
  - [https://glean.ai](https://glean.ai)
  - date_published: 2024-05-06T00:00:00+00:00
 
- ## Gling - AI Video Editing Software for YouTube
- - [https://www.gling.ai](https://www.gling.ai)
- - date_published: 2024-06-19T00:00:00+00:00
-
  ## The Global Index on Responsible AI
  - [https://global-index.ai](https://global-index.ai)
  - date_published: 2024-08-29T00:00:00+00:00
@@ -2265,10 +2141,6 @@
  - [https://grando.ai](https://grando.ai)
  - date_published: 2024-06-07T00:00:00+00:00
 
- ## Training Data Platform | Granica AI
- - [https://www.granica.ai](https://www.granica.ai)
- - date_published: 2024-06-18T20:19:41+00:00
-
  ## Assisted data exploration for everyone
  - [https://grapha.ai](https://grapha.ai)
  - date_published: 2024-06-14T08:55:05.828865+00:00
@@ -2340,10 +2212,6 @@
  ## Guru Sepolia Testnet Block Explorer
  - [https://scan.gurunetwork.ai](https://scan.gurunetwork.ai)
  - date_published: 2024-09-24T00:21:46.533399+00:00
-
- ## GymBuddy | Your AI workout planner
- - [https://www.gymbuddy.ai](https://www.gymbuddy.ai)
- - date_published: 2024-06-19T00:00:00+00:00
 
  ## H2O.ai Documentation
  - [https://docs.h2o.ai](https://docs.h2o.ai)
@@ -2668,10 +2536,6 @@
  ## Humans.ai
  - [https://humans.ai](https://humans.ai)
  - date_published: 2024-09-24T01:22:02.109784+00:00
-
- ## Humata: ChatGPT for Your Data Files
- - [https://www.humata.ai](https://www.humata.ai)
- - date_published: 2024-06-19T21:05:41.979443+00:00
 
  ## AI Humanizer - Humanize AI - AI Detector Bypass | Humbot
  - [https://humbot.ai](https://humbot.ai)
@@ -3296,10 +3160,6 @@
  - [https://jumper.ai](https://jumper.ai)
  - date_published: 2024-06-16T12:31:33.615797+00:00
 
- ## Jungle AI
- - [https://www.jungle.ai](https://www.jungle.ai)
- - date_published: 2024-05-28T00:00:00+00:00
-
  ## Junia AI - #1 AI Writer for SEO & Content Generation
  - [https://www.junia.ai](https://www.junia.ai)
  - date_published: 2024-06-19T20:37:57.957034+00:00
@@ -3683,17 +3543,9 @@
  - [https://lavague.ai](https://lavague.ai)
  - date_published: 2024-06-14T00:00:00+00:00
 
- ## Lavender - Your Magical AI Email Coach
- - [https://www.lavender.ai](https://www.lavender.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
  ## Lavita
  - [https://www.lavita.ai](https://www.lavita.ai)
  - date_published: 2024-08-14T19:52:53+00:00
-
- ## Lavo Life Sciences
- - [https://www.lavo.ai](https://www.lavo.ai)
- - date_published: 2024-05-07T00:00:00+00:00
 
  ## Lazy Lions
  - [https://lazylions.ai](https://lazylions.ai)
@@ -4012,4 +3864,154 @@
 
  - [https://locofy.ai](https://locofy.ai)
  - date_published: 2024-04-25T21:21:22.657949+00:00
+
+ ## Free Logo Maker | Create a Logo Online - Logomakerr.ai
+ - [https://logomakerr.ai](https://logomakerr.ai)
+ - date_published: 2024-06-19T21:07:56.681395+00:00
+
+ ## Free Logo Maker | Create Your Own Logo Design | Logomaster.ai
+ - [https://logomaster.ai](https://logomaster.ai)
+ - date_published: 2024-06-17T01:47:08+00:00
+
+ ## Loman | The 24/7 AI Phone Agent for Restaurants
+ - [https://www.loman.ai](https://www.loman.ai)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Long Phan
+ - [https://longphan.ai](https://longphan.ai)
+ - date_published: 2024-04-12T21:47:00+00:00
+
+ ## LongShot: AI Co-Pilot for High-Ranking Factual Content
+ - [https://longshot.ai](https://longshot.ai)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## LOSEY AI
+ - [https://losey.ai](https://losey.ai)
+ - date_published: 2024-09-15T01:47:38+00:00
+
+ ## Louis Bouchard
+ - [https://www.louisbouchard.ai](https://www.louisbouchard.ai)
+ - date_published: 2024-06-20T05:36:42.655581+00:00
+
+ ## Ecommerce Stores shouldn't be static | Loup
+ - [https://loup.ai](https://loup.ai)
+ - date_published: 2024-06-20T21:59:26.009841+00:00
+
+ ## AI Voice Generator: Realistic Text to Speech & Voice Cloning
+ - [https://lovo.ai](https://lovo.ai)
+ - date_published: 2024-06-19T21:38:44.245037+00:00
+
+ ## LPCV - Low Power Computer Vision
+ - [https://lpcv.ai](https://lpcv.ai)
+ - date_published: 2024-07-22T05:42:12.424629+00:00
+
+ ## Mario Lucic
+ - [https://lucic.ai](https://lucic.ai)
+ - date_published: 2024-05-02T07:31:50+00:00
+ - tags: ['personal']
+
+ ## Stronger Business Insights with AI-Powered Knowledge Management | Lucy
+ - [https://www.lucy.ai](https://www.lucy.ai)
+ - date_published: 2024-06-19T18:48:11+00:00
+
+ ## Create hit games with the power of AI with Ludo
+ - [https://ludo.ai](https://ludo.ai)
+ - date_published: 2024-06-19T21:11:20.193367+00:00
+
+ ## Loading ...
+ - [https://www.luis.ai](https://www.luis.ai)
+ - date_published: 2024-05-02T12:44:26.847441+00:00
+
+ ## Hi, I'm LukeGPT. - Luke Burgis AI
+ - [http://www.lukeburgis.ai](http://www.lukeburgis.ai)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Luma AI - Featured Captures
+ - [https://captures.lumalabs.ai](https://captures.lumalabs.ai)
+ - date_published: 2024-06-19T19:50:02.023641+00:00
+
+ ## Luma AI
+ - [https://lumalabs.ai](https://lumalabs.ai)
+ - date_published: 2023-10-25T11:39:54.133649+00:00
+
+ ## Introduction - Documentation
+ - [https://docs.lume.ai](https://docs.lume.ai)
+ - date_published: 2023-12-06T19:47:41.218118+00:00
+
+ ## Show HN: Lume – automate data mappings using AI
+ - [https://lume.ai](https://lume.ai)
+ - date_published: 2023-12-06T17:37:48+00:00
+
+ ## Lumeros AI
+ - [https://www.lumeros.ai](https://www.lumeros.ai)
+ - date_published: 2024-07-12T16:28:28.793600+00:00
+
+ ## Lumino | Global Cloud for AI Training
+ - [https://www.luminolabs.ai](https://www.luminolabs.ai)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Lumona
+ - [https://lumona.ai](https://lumona.ai)
+ - date_published: 2024-03-29T20:12:06.449920+00:00
+
+ ## LunarTech - Empowering Tomorrow's Innovators
+ - [https://academy.lunartech.ai](https://academy.lunartech.ai)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## LunarTech
+ - [https://app.lunartech.ai](https://app.lunartech.ai)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## LunarTech - Empowering Tomorrow's Innovators
+ - [https://lunartech.ai](https://lunartech.ai)
+ - date_published: 2024-04-25T21:21:17.760872+00:00
+ - tags: ['monetization', 'service', 'education']
+
+ ## LunarTech
+ - [https://news.lunartech.ai](https://news.lunartech.ai)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## LunarTech Technologies | Shaping Futures
+ - [https://technologies.lunartech.ai](https://technologies.lunartech.ai)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Dashboard | Lunary
+ - [https://app.lunary.ai](https://app.lunary.ai)
+ - date_published: 2024-06-21T15:15:54.358748+00:00
+
+ ## Free AI Room Planner & Virtual Home Designer for Interior & Exterior | Luw.ai
+ - [https://luw.ai](https://luw.ai)
+ - date_published: 2024-05-29T19:41:10+00:00
+
+ ## Home - maadaa.ai
+ - [https://maadaa.ai](https://maadaa.ai)
+ - date_published: 2024-08-07T16:27:04.527237+00:00
+
+ ## Macha - Search Infrastructure for New Internet
+ - [http://macha.ai](http://macha.ai)
+ - date_published: 2023-09-25T11:19:04+00:00
+
+ ## MACHINES OF TOMORROW
+ - [http://www.machinesoftomorrow.ai](http://www.machinesoftomorrow.ai)
+ - date_published: 2024-06-19T23:45:29.065210+00:00
+
+ ## macky
+ - [https://macky.ai](https://macky.ai)
+ - date_published: 2024-06-14T08:53:46.619734+00:00
+
+ ## 🧙‍♀️ Welcome to Mage - Mage
+ - [https://docs.mage.ai](https://docs.mage.ai)
+ - date_published: 2024-09-15T14:50:20.563065+00:00
+
+ ## Give your data team magical powers
+ - [https://mage.ai](https://mage.ai)
+ - date_published: 2024-06-14T22:46:55.433750+00:00
+
+ ## Mage Data : Best Data Security Platform For Enterprises
+ - [https://magedata.ai](https://magedata.ai)
+ - date_published: 2024-06-19T11:08:51.998593+00:00
+
+ ## Magellan AI — Podcast advertising analytics
+ - [https://www.magellan.ai](https://www.magellan.ai)
+ - date_published: 2024-07-12T00:00:00+00:00
 

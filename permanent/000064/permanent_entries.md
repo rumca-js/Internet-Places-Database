@@ -1,47 +1,3 @@
- ## Bot
- - [https://chat.botgenuity.com](https://chat.botgenuity.com)
- - date_published: 2024-05-11T10:25:10.918777+00:00
-
- ## BotGenuity
- - [https://botgenuity.com](https://botgenuity.com)
- - date_published: 2024-03-24T12:22:35.965355+00:00
-
- ## Bothell-Kenmore Reporter
- - [https://www.bothell-reporter.com](https://www.bothell-reporter.com)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Both Sides of the Table
- - [https://bothsidesofthetable.com](https://bothsidesofthetable.com)
- - date_published: 2023-10-25T14:22:36.109786+00:00
-
- ## Botkeeper | Bookkeeping for Accounting Firms
- - [https://www.botkeeper.com](https://www.botkeeper.com)
- - date_published: 2024-06-18T21:34:34+00:00
-
- ## botmaker
- - [https://go.botmaker.com](https://go.botmaker.com)
- - date_published: 2024-06-11T23:04:51.480050+00:00
-
- ## botmaker
- - [https://partners.botmaker.com](https://partners.botmaker.com)
- - date_published: 2024-06-11T23:19:32.115279+00:00
-
- ## Your Personal AI Copywriter | Botowski
- - [https://www.botowski.com](https://www.botowski.com)
- - date_published: 2024-06-19T20:35:46.741294+00:00
-
- ## Robotic Process Automation (RPA) | BotPath by 500apps
- - [https://botpath.com](https://botpath.com)
- - date_published: 2024-06-19T20:52:48.852353+00:00
-
- ## Botpress | the Complete AI Agent Platform
- - [https://botpress.com](https://botpress.com)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## botpress #🤝help
- - [https://discord.botpress.com](https://discord.botpress.com)
- - date_published: 2024-04-29T07:59:56.103879+00:00
-
  ## Trendy drinks. Smart profits | Botrista
  - [https://www.botrista.com](https://www.botrista.com)
  - date_published: 2024-08-27T00:00:00+00:00
@@ -3253,10 +3209,6 @@
  - [https://brianbrokaw.com](https://brianbrokaw.com)
  - date_published: 2024-05-08T09:29:40.233249+00:00
 
- ## Brian Bunke
- - [https://www.brianbunke.com](https://www.brianbunke.com)
- - date_published: 2023-06-25T15:37:02+00:00
-
  ## Brian Burridge - Redeemed, Internet software developer, husband, father, grandfather.
  - [http://www.brianburridge.com](http://www.brianburridge.com)
  - date_published: 2024-07-09T12:19:10.188221+00:00
@@ -4042,4 +3994,52 @@
  ## Brighteon University
  - [https://brighteonuniversity.com](https://brighteonuniversity.com)
  - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Welcome - Polaris - Brighter IR
+ - [https://polaris.brighterir.com](https://polaris.brighterir.com)
+ - date_published: 2024-06-27T02:28:52.502617+00:00
+
+ ## Brighter Planet's 350 Challenge
+ - [http://350.brighterplanet.com](http://350.brighterplanet.com)
+ - date_published: 2012-04-11T18:20:56+00:00
+
+ ## Safety in Numbers
+ - [http://blog.brighterplanet.com](http://blog.brighterplanet.com)
+ - date_published: 2015-05-28T14:08:03+00:00
+
+ ## BYT // Brightest Young Things
+ - [http://brightestyoungthings.com](http://brightestyoungthings.com)
+ - date_published: 2024-06-29T15:20:20.966977+00:00
+
+ ## BrightFarms | Fresh Baby Greens Grown for Locals
+ - [https://www.brightfarms.com](https://www.brightfarms.com)
+ - date_published: 2024-06-23T08:03:48.739895+00:00
+
+ ## BrightFort
+ - [https://brightfort.com](https://brightfort.com)
+ - date_published: 2023-12-20T16:06:59+00:00
+
+ ## Home | Credera
+ - [http://www.brightgen.com](http://www.brightgen.com)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Bright Green Lies
+ - [https://www.brightgreenlies.com](https://www.brightgreenlies.com)
+ - date_published: 2024-07-10T09:41:38.506898+00:00
+
+ ## Bright HealthCare
+ - [http://www.brighthealthplan.com](http://www.brighthealthplan.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## BrightHub
+ - [https://brighthub.com](https://brighthub.com)
+ - date_published: 2024-03-08T23:52:47+00:00
+
+ ## Bright Hub Engineering
+ - [https://brighthubengineering.com](https://brighthubengineering.com)
+ - date_published: 2024-03-07T21:19:02+00:00
+
+ ## Bright Ideas Brewing
+ - [https://www.brightideasbrewing.com](https://www.brightideasbrewing.com)
+ - date_published: 2024-08-18T00:00:00+00:00
 

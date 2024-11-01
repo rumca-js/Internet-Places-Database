@@ -1,227 +1,3 @@
- ## Software Defined Interviews
- - [https://www.softwaredefinedinterviews.com](https://www.softwaredefinedinterviews.com)
- - date_published: 2022-08-19T16:45:27+00:00
-
- ## Software Defined Talk
- - [http://softwaredefinedtalk.com](http://softwaredefinedtalk.com)
- - date_published: 2024-06-21T07:45:03+00:00
-
- ## Software Defined Talk
- - [https://www.softwaredefinedtalk.com](https://www.softwaredefinedtalk.com)
- - date_published: 2024-05-06T13:19:27.283740+00:00
- - tags: ['podcast']
-
- ## Doug Turnbull's Blog
- - [https://softwaredoug.com](https://softwaredoug.com)
- - date_published: 2023-10-25T17:07:36.413404+00:00
-
- ## Software Engineering Daily
- - [https://softwareengineeringdaily.com](https://softwareengineeringdaily.com)
- - date_published: 2024-05-01T02:58:15.975738+00:00
-
- ## Software Engineering Handbook
- - [https://softwareengineeringhandbook.com](https://softwareengineeringhandbook.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Your favorite Software Engineering Podcast
- - [https://www.software-engineering-unlocked.com](https://www.software-engineering-unlocked.com)
- - date_published: 2024-05-01T07:46:04.720718+00:00
-
- ## SoftwareFromPeter
- - [https://softwarefrompeter.com](https://softwarefrompeter.com)
- - date_published: 2024-06-22T11:10:18+00:00
-
- ## Software Garden, Inc. Website
- - [https://softwaregarden.com](https://softwaregarden.com)
- - date_published: 2010-05-03T03:15:53+00:00
-
- ## SoftwareHow: Small Software Apps That Make Big Impact
- - [https://softwarehow.com](https://softwarehow.com)
- - date_published: 2023-12-19T22:40:53+00:00
-
- ## Single Source of Truth for Software Quality | SIG
- - [https://www.softwareimprovementgroup.com](https://www.softwareimprovementgroup.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Software is hard | More musings on software development
- - [http://www.softwareishard.com](http://www.softwareishard.com)
- - date_published: 2024-06-29T06:02:13.503012+00:00
-
- ## Juan Carlos Sánchez Calle
- - [https://softwarejuancarlos.com](https://softwarejuancarlos.com)
- - date_published: 2024-05-01T03:56:05.925264+00:00
- - tags: ['personal']
-
- ## Software Lead Weekly
- - [https://softwareleadweekly.com](https://softwareleadweekly.com)
- - date_published: 2024-05-06T13:46:40.567798+00:00
-
- ## Musings about software
- - [https://softwaremaxims.com](https://softwaremaxims.com)
- - date_published: 2024-04-01T00:00:00+00:00
- - tags: ['personal']
-
- ## SoftwareMill Tech Blog
- - [https://blog.softwaremill.com](https://blog.softwaremill.com)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Our Handbook for New Employees | SoftwareMill
- - [http://handbook.softwaremill.com](http://handbook.softwaremill.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Start with Apache Kafka - download ebook!
- - [https://kafka.softwaremill.com](https://kafka.softwaremill.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Softwaremill Handbook Assistant Demo
- - [https://llm-demo.softwaremill.com](https://llm-demo.softwaremill.com)
- - date_published: 2024-07-11T07:36:17+00:00
-
- ## Remote Software Development Ebook | SoftwareMill
- - [https://remotework.softwaremill.com](https://remotework.softwaremill.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## SoftwareMill - proactively transforming your business with technology
- - [https://softwaremill.com](https://softwaremill.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## tapir — tapir 1.x documentation
- - [https://tapir.softwaremill.com](https://tapir.softwaremill.com)
- - date_published: 2024-06-20T12:13:56+00:00
-
- ## Software for professionals and beginners
- - [https://softwareok.com](https://softwareok.com)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## SoftwareOne Client Portal
- - [https://client.softwareone.com](https://client.softwareone.com)
- - date_published: 2024-08-28T14:05:02+00:00
-
- ## SoftwareOne napędza cyfrową transformację.
- - [https://info.softwareone.com](https://info.softwareone.com)
- - date_published: 2024-09-16T03:05:57.445149+00:00
-
- ## SoftwareOne napędza cyfrową transformację.
- - [https://softwareone.com](https://softwareone.com)
- - date_published: 2024-06-15T03:45:04.233294+00:00
-
- ## Software Path | Compare Software for Your Business
- - [https://softwarepath.com](https://softwarepath.com)
- - date_published: 2024-06-27T02:30:06.462079+00:00
-
- ## Design Patterns
- - [https://softwarepatternslexicon.com](https://softwarepatternslexicon.com)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## Software Pragmatism
- - [https://softwarepragmatism.com](https://softwarepragmatism.com)
- - date_published: 2024-05-11T10:05:29.589631+00:00
-
- ## Digital Marketing with a difference - we have a reputation to die for!
- - [https://www.softwarepromotions.com](https://www.softwarepromotions.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn0.softwarereviews.com](https://cdn0.softwarereviews.com)
- - date_published: 2024-06-19T11:10:34.310792+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn1.softwarereviews.com](https://cdn1.softwarereviews.com)
- - date_published: 2024-06-19T11:10:38.983036+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn2.softwarereviews.com](https://cdn2.softwarereviews.com)
- - date_published: 2024-06-19T11:10:42.423927+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://cdn3.softwarereviews.com](https://cdn3.softwarereviews.com)
- - date_published: 2024-06-19T11:10:37.281601+00:00
-
- ## SoftwareReviews
- - [https://provider.softwarereviews.com](https://provider.softwarereviews.com)
- - date_published: 2024-06-19T11:10:27.426214+00:00
-
- ## SoftwareReviews | Discover The Best Business Software
- - [https://softwarereviews.com](https://softwarereviews.com)
- - date_published: 2024-06-19T11:10:29.695882+00:00
-
- ## Cierpliwości...
- - [https://vendor.softwareselect.com](https://vendor.softwareselect.com)
- - date_published: 2024-06-27T05:46:44.909508+00:00
-
- ## Software Sessions
- - [https://www.softwaresessions.com](https://www.softwaresessions.com)
- - date_published: 2024-05-06T13:00:49.701102+00:00
-
- ## Software Stack Investing - Investing analysis of the software companies that power next generation digital businesses
- - [https://softwarestackinvesting.com](https://softwarestackinvesting.com)
- - date_published: 2023-10-25T17:07:46.269464+00:00
-
- ## clkmg.com
- - [https://ppctrack.softwaresuggest.com](https://ppctrack.softwaresuggest.com)
- - date_published: 2024-06-16T23:01:24.059872+00:00
-
- ## Discover Top Business Software & Service Partners
- - [https://www.softwaresuggest.com](https://www.softwaresuggest.com)
- - date_published: 2024-05-01T08:11:31.161898+00:00
-
- ## Software Testing Help - FREE IT Courses and Business Software Reviews
- - [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com)
- - date_published: 2024-07-13T20:43:07+00:00
-
- ## Software Testing Magazine
- - [https://www.softwaretestingmagazine.com](https://www.softwaretestingmagazine.com)
- - date_published: 2016-03-05T08:36:53+00:00
-
- ## Software Toolbox Solutions- Industrial Data & Information Integration
- - [http://www.softwaretoolbox.com](http://www.softwaretoolbox.com)
- - date_published: 2024-09-17T15:53:45+00:00
-
- ## سایت bet90 فارسی
- - [http://softwareufabet.com](http://softwareufabet.com)
- - date_published: 2024-08-08T11:50:55.761514+00:00
-
- ## Software Downloads - SoftwareVault.com
- - [https://www.softwarevault.com](https://www.softwarevault.com)
- - date_published: 2024-09-13T19:33:52.827662+00:00
-
- ## Software Walker
- - [https://softwarewalker.com](https://softwarewalker.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## AI & Data Analytics Leader | IT Services | Consulting
- - [https://www.softwebsolutions.com](https://www.softwebsolutions.com)
- - date_published: 2024-10-28T06:25:02.379301+00:00
-
- ## SoFuckingAgile
- - [https://sofuckingagile.com](https://sofuckingagile.com)
- - date_published: 2024-04-29T05:13:59.279278+00:00
- - tags: ['personal', 'great title']
-
- ## SOFware
- - [https://sofwarellc.com](https://sofwarellc.com)
- - date_published: 2023-04-25T21:36:39+00:00
-
- ## Sogea-Satom | Construire l’Afrique de demain
- - [https://www.sogea-satom.com](https://www.sogea-satom.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Expert in Port and International Logistics since 1828 | Sogena
- - [https://www.sogena.com](https://www.sogena.com)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Sogeti
- - [https://www.sogeti.com](https://www.sogeti.com)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Transform Your Business with Sogolytics - The Leading Experience Management Platform
- - [https://www.sogosurvey.com](https://www.sogosurvey.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## 上网导航 - 轻快上网 从这里开始
- - [http://123.sogou.com](http://123.sogou.com)
- - date_published: 2024-09-04T06:14:11.728863+00:00
-
  ## 搜狗应用
  - [http://as.sogou.com](http://as.sogou.com)
  - date_published: 2024-09-04T00:00:00+00:00
@@ -4035,4 +3811,226 @@
  ## Spaceflight101 – Space News and Beyond
  - [https://spaceflight101.com](https://spaceflight101.com)
  - date_published: 2023-10-25T17:09:05.078240+00:00
+
+ ## Spaceflight Now Shop
+ - [https://shop.spaceflightnow.com](https://shop.spaceflightnow.com)
+ - date_published: 2024-04-29T05:31:11.767096+00:00
+
+ ## Spaceflight Now – The leading source for online space news
+ - [https://spaceflightnow.com](https://spaceflightnow.com)
+ - date_published: 2023-11-05T04:49:57.688623+00:00
+
+ ## U.S. Space Force - Semper Supra
+ - [https://www.spaceforce.com](https://www.spaceforce.com)
+ - date_published: 2024-07-03T13:51:39.068960+00:00
+
+ ## Spacegoods | Unlock Your Full Potential
+ - [https://spacegoods.com](https://spacegoods.com)
+ - date_published: 2024-04-29T04:29:05.628852+00:00
+
+ ## SpaceHey — a space for friends.
+ - [https://auth.spacehey.com](https://auth.spacehey.com)
+ - date_published: 2024-06-18T15:54:43.359367+00:00
+
+ ## Blogs | SpaceHey
+ - [https://blog.spacehey.com](https://blog.spacehey.com)
+ - date_published: 2024-06-14T15:05:39.778357+00:00
+
+ ## Forums | SpaceHey
+ - [https://forum.spacehey.com](https://forum.spacehey.com)
+ - date_published: 2024-06-18T15:54:34.149664+00:00
+
+ ## Groups | SpaceHey
+ - [https://groups.spacehey.com](https://groups.spacehey.com)
+ - date_published: 2024-06-18T15:54:40.339242+00:00
+
+ ## Instant Messenger (IM) | SpaceHey
+ - [https://im.spacehey.com](https://im.spacehey.com)
+ - date_published: 2024-06-18T15:54:39.419813+00:00
+
+ ## Layouts | SpaceHey
+ - [https://layouts.spacehey.com](https://layouts.spacehey.com)
+ - date_published: 2024-06-18T15:54:37.586391+00:00
+
+ ## RSS Feeds | SpaceHey
+ - [https://rss.spacehey.com](https://rss.spacehey.com)
+ - date_published: 2024-06-18T15:54:31.992507+00:00
+
+ ## SpaceHey Shop
+ - [https://shop.spacehey.com](https://shop.spacehey.com)
+ - date_published: 2024-06-18T15:54:41.893048+00:00
+
+ ## SpaceHey — a space for friends.
+ - [https://spacehey.com](https://spacehey.com)
+ - date_published: 2024-05-02T13:43:13.310100+00:00
+ - tags: ['social platform']
+
+ ## SpaceHey - Status
+ - [https://status.spacehey.com](https://status.spacehey.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## עמוד בית | SpaceIL
+ - [https://www.spaceil.com](https://www.spaceil.com)
+ - date_published: 2024-08-19T05:29:21.048959+00:00
+
+ ## Space Impulse
+ - [https://app.spaceimpulse.com](https://app.spaceimpulse.com)
+ - date_published: 2024-08-07T15:11:29+00:00
+
+ ## Space Market Intelligence & Industry News - Space Impulse
+ - [https://spaceimpulse.com](https://spaceimpulse.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home
+ - [https://events.spaceinafrica.com](https://events.spaceinafrica.com)
+ - date_published: 2024-10-23T06:17:00.068768+00:00
+
+ ## Home
+ - [https://opportunities.spaceinafrica.com](https://opportunities.spaceinafrica.com)
+ - date_published: 2024-10-23T06:17:07.233907+00:00
+
+ ## Space Intel Report - Intelligence report for the space industry
+ - [https://spaceintelreport.com](https://spaceintelreport.com)
+ - date_published: 2023-10-25T17:09:09.148488+00:00
+
+ ## Space Ipsum
+ - [http://spaceipsum.com](http://spaceipsum.com)
+ - date_published: 2024-06-26T07:18:45.014480+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.spaceitbridge.com](https://www.spaceitbridge.com)
+ - date_published: 2024-06-18T17:40:12.682417+00:00
+
+ ## SpaceKate
+ - [https://spacekate.com](https://spacekate.com)
+ - date_published: 2023-11-15T17:45:21.257199+00:00
+ - tags: ['personal']
+
+ ## Space Launch Agency - Space Marketing & Consulting
+ - [https://spacelaunchagency.com](https://spacelaunchagency.com)
+ - date_published: 2024-10-19T20:05:17.414413+00:00
+
+ ## Spaceline Technologies
+ - [https://www.spacelinetech.com](https://www.spacelinetech.com)
+ - date_published: 2024-07-24T07:30:42.939510+00:00
+
+ ## ultrajoke | faking it 'til we make it
+ - [https://blog.spacemanlabs.com](https://blog.spacemanlabs.com)
+ - date_published: 2024-06-23T15:06:01.476399+00:00
+
+ ## Space Business and Industry News at SpaceMart.com
+ - [https://spacemart.com](https://spacemart.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Space News Advertising, Defense News Advertising, Environment News Advertising, Energy News Advertising
+ - [https://spacemedianetwork.com](https://spacemedianetwork.com)
+ - date_published: 2022-04-28T09:29:49+00:00
+
+ ## 下载google应用的软件
+ - [http://dpiuz.spacemirager.com](http://dpiuz.spacemirager.com)
+ - date_published: 2024-09-18T02:33:24.360383+00:00
+
+ ## HODINKEE Shop: New and Vintage Watches, Straps, and Accessories
+ - [http://fefvu.spacemirager.com](http://fefvu.spacemirager.com)
+ - date_published: 2024-09-18T02:33:35.439702+00:00
+
+ ## 极光apk
+ - [http://hoxlw.spacemirager.com](http://hoxlw.spacemirager.com)
+ - date_published: 2024-09-18T02:33:14.471277+00:00
+
+ ## v2节点分享
+ - [http://hxvun.spacemirager.com](http://hxvun.spacemirager.com)
+ - date_published: 2024-09-18T02:33:17.393922+00:00
+
+ ## 极光apk
+ - [http://nnyuc.spacemirager.com](http://nnyuc.spacemirager.com)
+ - date_published: 2024-09-18T02:33:06.522609+00:00
+
+ ## Wake Forest University School of Business
+ - [https://spacemirager.com](https://spacemirager.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## A Taut Line
+ - [http://tnghd.spacemirager.com](http://tnghd.spacemirager.com)
+ - date_published: 2024-09-18T02:33:33.067265+00:00
+
+ ## Proach Models Canada's SPACE MODEL SPECIALIST serving the world
+ - [http://www.spacemodel.com](http://www.spacemodel.com)
+ - date_published: 2024-09-06T21:18:10.434193+00:00
+
+ ## Space Monkey X
+ - [https://spacemonkeyx.com](https://spacemonkeyx.com)
+ - date_published: 2024-08-12T04:45:44.691214+00:00
+
+ ## Home - SpaceNews
+ - [https://spacenews.com](https://spacenews.com)
+ - date_published: 2023-10-25T10:11:21.607203+00:00
+
+ ## SpaceNews Icon Awards
+ - [https://spacenewsawards.com](https://spacenewsawards.com)
+ - date_published: 2024-07-20T21:43:41+00:00
+
+ ## Coming Soon
+ - [http://www.spacenewsmag.com](http://www.spacenewsmag.com)
+ - date_published: 2019-05-11T03:29:16+00:00
+
+ ## SpacePak Central Air | Small Duct High Velocity HVAC
+ - [https://www.spacepak.com](https://www.spacepak.com)
+ - date_published: 2024-07-08T15:57:58.861520+00:00
+
+ ## Reserve Your Space Flight Ticket | Travel to Space
+ - [https://reserve.spaceperspective.com](https://reserve.spaceperspective.com)
+ - date_published: 2024-10-11T21:43:31.190901+00:00
+
+ ## Travel to Space
+ - [https://spaceperspective.com](https://spaceperspective.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## SpacePNT »
+ - [https://spacepnt.com](https://spacepnt.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## SpacePolicyOnline.com – Your first stop for news, information and analysis about civil, military and commercial space programs
+ - [https://spacepolicyonline.com](https://spacepolicyonline.com)
+ - date_published: 2023-10-25T17:09:11.721721+00:00
+
+ ## Space Politics
+ - [http://www.spacepolitics.com](http://www.spacepolitics.com)
+ - date_published: 2024-05-06T14:30:26.516505+00:00
+
+ ## Home - Space Racers
+ - [https://www.spaceracers.com](https://www.spaceracers.com)
+ - date_published: 2018-08-22T00:00:00+00:00
+
+ ## Home - SpaceRef
+ - [https://spaceref.com](https://spaceref.com)
+ - date_published: 2023-10-25T17:09:14.536126+00:00
+
+ ## Spaces4Learning: Planning & Creating High-Quality Facilities -- Spaces4Learning
+ - [https://spaces4learning.com](https://spaces4learning.com)
+ - date_published: 2024-05-07T10:29:22.768138+00:00
+
+ ## Launch your website, ideas, and future - Spaceship
+ - [https://www.spaceship.com](https://www.spaceship.com)
+ - date_published: 2024-06-23T06:15:00.455492+00:00
+
+ ## SpaceSimCentral – The oldest commissioned gaming space station still in operation in the space and sci-fi gaming sector
+ - [http://spacesimcentral.com](http://spacesimcentral.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## The Robust Book - Space Wizards Development Wiki
+ - [https://docs.spacestation14.com](https://docs.spacestation14.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## SS14 Lemmy - A Lemmy instance for Space Station 14
+ - [https://lemmy.spacestation14.com](https://lemmy.spacestation14.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Space Station 14: Multiplayer Disaster Simulator
+ - [https://spacestation14.com](https://spacestation14.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Down for maintenance...
+ - [https://www.spacesxplaces.com](https://www.spacesxplaces.com)
+ - date_published: 2024-09-11T14:39:07+00:00
 

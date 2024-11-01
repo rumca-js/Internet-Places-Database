@@ -1,76 +1,3 @@
- ## witchy
- - [https://witchy.deadjournal.com](https://witchy.deadjournal.com)
- - date_published: 2024-08-07T21:00:45.698085+00:00
-
- ## DeadJournal.com
- - [http://www.deadjournal.com](http://www.deadjournal.com)
- - date_published: 2024-06-23T17:21:10.743379+00:00
-
- ## Dead Kennedys
- - [https://www.deadkennedysstore.com](https://www.deadkennedysstore.com)
- - date_published: 2024-06-27T16:29:53.967750+00:00
-
- ## Deadline – Hollywood Entertainment Breaking News
- - [https://deadline.com](https://deadline.com)
- - date_published: 2023-10-25T10:17:40.928660+00:00
-
- ## Not Found
- - [https://video.deadline.com](https://video.deadline.com)
- - date_published: 2021-01-06T20:16:57+00:00
-
- ## Deadline
- - [http://www.deadline.com](http://www.deadline.com)
- - date_published: 2024-06-20T03:05:46.466906+00:00
-
- ## Deadline Games – Getting the opportunity to star in games
- - [https://deadlinedames.com](https://deadlinedames.com)
- - date_published: 2024-05-08T06:43:25.925840+00:00
-
- ## Free Broken Link Checking Tool
- - [https://deadlinkchecker.com](https://deadlinkchecker.com)
- - date_published: 2024-09-09T16:24:38.920731+00:00
-
- ## Deadly Ponies - Luxury Leather Bags & Accessories
- - [https://deadlyponies.com](https://deadlyponies.com)
- - date_published: 2024-09-17T01:37:56.658657+00:00
-
- ## Dead Man's Snitch — A dead simple cron job monitoring tool.
- - [https://deadmanssnitch.com](https://deadmanssnitch.com)
- - date_published: 2024-06-23T03:20:45.063421+00:00
-
- ## Dead Maze
- - [http://deadmaze.com](http://deadmaze.com)
- - date_published: 2021-02-15T13:27:00+00:00
-
- ## i8 Live: Your Ultimate Gaming Destination
- - [https://deadoralivegame.com](https://deadoralivegame.com)
- - date_published: 2024-08-09T06:42:34+00:00
-
- ## Exploring the Evolution of the "Dead or Alive" Video Game Series
- - [http://www.deadoralivegame.com](http://www.deadoralivegame.com)
- - date_published: 2024-04-01T17:15:00+00:00
-
- ## Dead Reckonings
- - [https://deadreckonings.com](https://deadreckonings.com)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## CAPCOM：Dead Rising Series
- - [https://www.deadrising.com](https://www.deadrising.com)
- - date_published: 2024-07-10T06:13:11+00:00
-
- ## Chat SDK & API for Website and Apps | DeadSimpleChat
- - [https://deadsimplechat.com](https://deadsimplechat.com)
- - date_published: 2024-06-23T07:48:36.827797+00:00
-
- ## Gallery of Simple Websites
- - [https://deadsimplesites.com](https://deadsimplesites.com)
- - date_published: 2024-03-09T14:07:33+00:00
- - tags: ['web1']
-
- ## DEAD SLED COFFEE | Coffee that you'll love to death
- - [https://deadsledcoffee.com](https://deadsledcoffee.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
  ## Dead Space™ – EA Official Site
  - [http://www.deadspace.com](http://www.deadspace.com)
  - date_published: 2024-10-25T17:25:01+00:00
@@ -4048,4 +3975,78 @@
  ## Vintage Computing
  - [https://deramp.com](https://deramp.com)
  - date_published: 2024-01-01T18:26:34+00:00
+
+ ## Bruno Dias, Freelance Graphic & Digital Designer
+ - [https://derbruno.com](https://derbruno.com)
+ - date_published: 2021-01-30T23:05:22+00:00
+
+ ## Derby City Weekend
+ - [https://derbycityweekend.com](https://derbycityweekend.com)
+ - date_published: 2024-05-07T12:48:25.372906+00:00
+
+ ## Kentucky Derby Tickets - Kentucky Derby Packages | Derby Experiences
+ - [https://derbyexperiences.com](https://derbyexperiences.com)
+ - date_published: 2024-06-19T17:51:50.535277+00:00
+
+ ## DerbyJS
+ - [https://derbyjs.com](https://derbyjs.com)
+ - date_published: 2024-05-14T04:00:00+00:00
+
+ ## Derby Warehouse
+ - [https://www.derbywarehouse.com](https://www.derbywarehouse.com)
+ - date_published: 2024-07-13T13:18:24.523398+00:00
+
+ ## Derek Eder
+ - [http://derekeder.com](http://derekeder.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Derek Erdman's Digital Infinity Palace
+ - [http://www.derekerdman.com](http://www.derekerdman.com)
+ - date_published: 2024-10-21T05:25:50.835561+00:00
+
+ ## Derek Goodwin Photography | Headshot & Branding Photographer
+ - [https://derekgoodwinphotography.com](https://derekgoodwinphotography.com)
+ - date_published: 2024-05-10T06:27:49.651281+00:00
+
+ ## derekgoodwin
+ - [https://galleries.derekgoodwinphotography.com](https://galleries.derekgoodwinphotography.com)
+ - date_published: 2024-05-10T06:27:52.208651+00:00
+
+ ## Derek Hess Superhero + Overrated Artist
+ - [http://derekhess.com](http://derekhess.com)
+ - date_published: 2024-06-28T14:14:57.917739+00:00
+
+ ## Derek Houck
+ - [https://derekhouck.com](https://derekhouck.com)
+ - date_published: 2023-12-19T02:59:18.608346+00:00
+ - tags: ['personal']
+
+ ## Derek Kedziora
+ - [https://derekkedziora.com](https://derekkedziora.com)
+ - date_published: 2024-08-16T21:12:41+00:00
+
+ ## Derek Lin
+ - [https://dereklin.com](https://dereklin.com)
+ - date_published: 2024-03-10T22:24:57+00:00
+
+ ## Derek Man Lui
+ - [http://derekmanlui.com](http://derekmanlui.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Derek Palladino: Web Developer
+ - [http://derekpalladino.com](http://derekpalladino.com)
+ - date_published: 2024-03-10T16:47:23+00:00
+
+ ## Derek Goodwin Photography | Headshot & Branding Photographer
+ - [https://derekpashupagoodwin.com](https://derekpashupagoodwin.com)
+ - date_published: 2023-11-29T17:08:37.949199+00:00
+ - tags: ['personal']
+
+ ## Work with Chef Derek Sarno | Menu Creation | Collaborations
+ - [https://dereksarno.com](https://dereksarno.com)
+ - date_published: 2024-08-16T01:10:08+00:00
+
+ ## Home - Derek Seaman's Tech Blog
+ - [https://www.derekseaman.com](https://www.derekseaman.com)
+ - date_published: 2024-09-15T19:23:46+00:00
 

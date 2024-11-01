@@ -1,315 +1,3 @@
- ## Student Manual | The University of Chicago
- - [https://studentmanual.uchicago.edu](https://studentmanual.uchicago.edu)
- - date_published: 2024-07-01T22:37:22+00:00
-
- ## | Study Abroad | The University of Chicago
- - [http://study-abroad.uchicago.edu](http://study-abroad.uchicago.edu)
- - date_published: 2024-07-01T19:28:44+00:00
-
- ## Welcome to the CCTL
- - [https://teaching.uchicago.edu](https://teaching.uchicago.edu)
- - date_published: 2024-07-01T22:33:26.876791+00:00
-
- ## Theory Group—University of Chicago Computer Science
- - [http://theory.cs.uchicago.edu](http://theory.cs.uchicago.edu)
- - date_published: 2024-06-22T10:54:04.395134+00:00
-
- ## UChicago - Sign In
- - [http://ucairapp.uchicago.edu](http://ucairapp.uchicago.edu)
- - date_published: 2024-07-01T22:37:17.268965+00:00
-
- ## UCAIR Accident/Incident Reporting System
- - [https://ucair.uchicago.edu](https://ucair.uchicago.edu)
- - date_published: 2024-05-07T20:47:02.755454+00:00
-
- ## The University of Chicago
- - [https://uchicago.edu](https://uchicago.edu)
- - date_published: 2024-05-07T20:47:12.944443+00:00
-
- ## University Community Service Center
- - [https://ucsc.uchicago.edu](https://ucsc.uchicago.edu)
- - date_published: 2024-07-01T22:33:07.511461+00:00
-
- ## UChicago CARES Website – Sandbox | University of Chicago
- - [https://umatter.uchicago.edu](https://umatter.uchicago.edu)
- - date_published: 2024-07-01T21:33:43+00:00
-
- ## IIS Windows Server
- - [https://uniflow-app-prd.uchicago.edu](https://uniflow-app-prd.uchicago.edu)
- - date_published: 2014-08-20T22:09:15+00:00
-
- ## UChicago Urban Labs
- - [http://urbanlabs.uchicago.edu](http://urbanlabs.uchicago.edu)
- - date_published: 2024-06-22T06:19:24.001911+00:00
-
- ## Visit UChicago – A Beautiful Campus in a World-Class City
- - [https://visit.uchicago.edu](https://visit.uchicago.edu)
- - date_published: 2024-05-07T20:47:08.194797+00:00
-
- ## UChicago Voices | A platform for sharing your voice
- - [https://voices.uchicago.edu](https://voices.uchicago.edu)
- - date_published: 2024-05-07T20:45:52.468264+00:00
-
- ## UChicago Website Resource Center | The University of Chicago
- - [https://websitesdev.uchicago.edu](https://websitesdev.uchicago.edu)
- - date_published: 2024-05-07T20:47:15.994608+00:00
-
- ## UChicago Website Resource Center | The University of Chicago
- - [https://websites.uchicago.edu](https://websites.uchicago.edu)
- - date_published: 2024-05-07T20:47:19.516737+00:00
-
- ## The University of Chicago Library
-                
-            
-            
-                
-            
-            - The University of Chicago Library
- - [https://www2.lib.uchicago.edu](https://www2.lib.uchicago.edu)
- - date_published: 2023-10-25T19:00:18.639938+00:00
-
- ## Biological Sciences Division at the University of Chicago
- - [http://www.bsd.uchicago.edu](http://www.bsd.uchicago.edu)
- - date_published: 2024-07-01T17:58:41+00:00
-
- ## Homepage - Department of Computer Science
- - [http://www.cs.uchicago.edu](http://www.cs.uchicago.edu)
- - date_published: 2024-06-30T08:58:51.690959+00:00
-
- ## Homepage | University of Chicago Law School
- - [http://www.law.uchicago.edu](http://www.law.uchicago.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## The University of Chicago Library
-                
-            
-            
-                
-            
-            - The University of Chicago Library
- - [https://lib.uchicago.edu](https://lib.uchicago.edu)
- - date_published: 2024-05-07T20:52:22.085559+00:00
-
- ## Institute for the Study of Ancient Cultures
- - [http://www-oi.uchicago.edu](http://www-oi.uchicago.edu)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## University of Chicago Press
- - [http://www.press.uchicago.edu](http://www.press.uchicago.edu)
- - date_published: 2024-06-23T10:01:09+00:00
-
- ## Homepage
- - [https://www.ssa.uchicago.edu](https://www.ssa.uchicago.edu)
- - date_published: 2024-07-01T22:01:20+00:00
-
- ## Home | PSD Trailblazers
- - [https://www.trailblazers.psd.uchicago.edu](https://www.trailblazers.psd.uchicago.edu)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## MyChart - Login Page
- - [https://mychart.uchospitals.edu](https://mychart.uchospitals.edu)
- - date_published: 2024-07-01T22:25:33.617598+00:00
-
- ## Hospitals, Clinics & Doctors in IL - UChicago Medicine
- - [http://www.uchospitals.edu](http://www.uchospitals.edu)
- - date_published: 2024-09-19T21:20:51.236722+00:00
-
- ## Academic Advising | UCI
- - [https://academicadvising.uci.edu](https://academicadvising.uci.edu)
- - date_published: 2024-07-01T22:15:38+00:00
-
- ## Accessibility Research Collective
- - [https://accessibility.ics.uci.edu](https://accessibility.ics.uci.edu)
- - date_published: 2022-01-01T00:00:00+00:00
-
- ## Home // Accessibility // UCI
- - [https://accessibility.uci.edu](https://accessibility.uci.edu)
- - date_published: 2024-05-09T06:49:56.338854+00:00
-
- ## ACO Center @ UCI – Algorithms, Combinatorics and Optimization
- - [https://acoi.ics.uci.edu](https://acoi.ics.uci.edu)
- - date_published: 2024-07-01T22:46:33.211388+00:00
-
- ## User account | UC Irvine Claire Trevor School of the Arts | Administration
- - [https://admin.arts.uci.edu](https://admin.arts.uci.edu)
- - date_published: 2024-07-09T22:45:16.997918+00:00
-
- ## This area is password protected [401]
- - [http://admin.education.uci.edu](http://admin.education.uci.edu)
- - date_published: 2024-07-09T22:36:27.722469+00:00
-
- ## UCI Office of Undergraduate Admissions
- - [http://admissions.uci.edu](http://admissions.uci.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## UCI School of Education Student Advising
- - [http://advise.education.uci.edu](http://advise.education.uci.edu)
- - date_published: 2024-07-09T22:36:21.222679+00:00
-
- ## Home | UCI Office of Academic Integrity & Student Conduct | UCI
- - [https://aisc.uci.edu](https://aisc.uci.edu)
- - date_published: 2024-07-01T22:55:24.909722+00:00
-
- ## Home
- - [https://alp.uci.edu](https://alp.uci.edu)
- - date_published: 2024-07-09T22:09:59+00:00
-
- ## engage.alumni.uci.edu – UCI Alumni Association
- - [http://alumni.uci.edu](http://alumni.uci.edu)
- - date_published: 2024-07-01T22:49:01.739895+00:00
-
- ## 401 No VPN
- - [http://analytics.eng.uci.edu](http://analytics.eng.uci.edu)
- - date_published: 2024-07-09T22:35:22.120007+00:00
-
- ## PeopleGrove
- - [https://antnet.uci.edu](https://antnet.uci.edu)
- - date_published: 2024-07-01T22:55:33+00:00
-
- ## Applying to UCI - UCI Graduate Division
- - [https://apply.grad.uci.edu](https://apply.grad.uci.edu)
- - date_published: 2021-08-12T20:58:52+00:00
-
- ## Home // SCPA Apps // UCI
- - [https://apps.communications.uci.edu](https://apps.communications.uci.edu)
- - date_published: 2024-07-09T22:31:48.525526+00:00
-
- ## UCI Machine Learning Repository
- - [https://archive.ics.uci.edu](https://archive.ics.uci.edu)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Department of Art | Claire Trevor School of the Arts
- - [https://art.arts.uci.edu](https://art.arts.uci.edu)
- - date_published: 2024-07-09T22:45:50.497623+00:00
-
- ## Beall Center for Art + Technology
- - [https://beallcenter.uci.edu](https://beallcenter.uci.edu)
- - date_published: 2024-07-09T22:45:42.640752+00:00
-
- ## Home // Brand // UCI
- - [https://brand.uci.edu](https://brand.uci.edu)
- - date_published: 2024-05-09T06:49:44.603622+00:00
-
- ## Home - Brilliant Future: The Campaign for UCI
- - [https://brilliantfuture.uci.edu](https://brilliantfuture.uci.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UCI CalTeach
- - [http://calteach.uci.edu](http://calteach.uci.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## UC Irvine
- - [https://campusgroups.uci.edu](https://campusgroups.uci.edu)
- - date_published: 2024-07-01T22:49:54.172325+00:00
-
- ## UCInetID Secure Web Login - Loading Session Information
- - [https://canvas.eee.uci.edu](https://canvas.eee.uci.edu)
- - date_published: 2024-07-09T22:31:40.984809+00:00
-
- ## Cardiovascular Innovation and Research Center – UCI – CIRC
- - [http://cardiovascular.eng.uci.edu](http://cardiovascular.eng.uci.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## UCI CARE | Campus Assault Resources and Education
- - [https://care.uci.edu](https://care.uci.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## UC IRVINE CASE PROGRAM
- - [http://case.education.uci.edu](http://case.education.uci.edu)
- - date_published: 2024-07-09T22:36:22.882677+00:00
-
- ## University of California, Irvine General Catalogue < University of California Irvine
- - [https://catalogue.uci.edu](https://catalogue.uci.edu)
- - date_published: 2023-09-20T13:38:38+00:00
-
- ## CERES | Connecting the EdTech Research EcoSystem
- - [https://ceres.uci.edu](https://ceres.uci.edu)
- - date_published: 2024-07-01T22:53:32+00:00
-
- ## UCI Division of Continuing Education
- - [http://ce.uci.edu](http://ce.uci.edu)
- - date_published: 2024-07-01T22:50:48.878290+00:00
-
- ## Home // Community & Government Relations // UCI
- - [https://cgr.uci.edu](https://cgr.uci.edu)
- - date_published: 2024-07-09T22:36:35.809604+00:00
-
- ## Home // Office of the Chancellor // UCI
- - [http://chancellor.uci.edu](http://chancellor.uci.edu)
- - date_published: 2024-07-01T22:49:56.727019+00:00
-
- ## Classroom Technologies – Office of Information Technology @ UCI
- - [https://classrooms.uci.edu](https://classrooms.uci.edu)
- - date_published: 2024-07-01T21:58:49+00:00
-
- ## Home | Center for Clinical Research | UCI
- - [https://clinicalresearch.som.uci.edu](https://clinicalresearch.som.uci.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Cellular & Molecular Biosciences – Gateway to Biomedical Discovery at UC Irvine
- - [https://cmb.uci.edu](https://cmb.uci.edu)
- - date_published: 2024-07-09T22:34:11.966810+00:00
-
- ## Center for Machine Learning and Intelligent Systems | University of California, Irvine
- - [https://cml.ics.uci.edu](https://cml.ics.uci.edu)
- - date_published: 2024-05-07T20:53:27.536388+00:00
-
- ## Center for the Neurobiology of Learning and Memory | UCI CNLM
- - [https://cnlm.uci.edu](https://cnlm.uci.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## The Susan & Henry Samueli College of Health Sciences – UCI Health Affairs
- - [https://cohs.uci.edu](https://cohs.uci.edu)
- - date_published: 2024-07-09T22:27:07+00:00
-
- ## Home // Strategic Communications & Public Affairs // UCI
- - [https://communications.uci.edu](https://communications.uci.edu)
- - date_published: 2024-05-09T06:50:22.332352+00:00
-
- ## Computing Services | Social Ecology Computing Services
- - [http://computing.soceco.uci.edu](http://computing.soceco.uci.edu)
- - date_published: 2024-07-09T14:19:55+00:00
-
- ## UCI Student Center & Event Services · Interact. Learn. Enjoy.
- - [http://conferencecenter.uci.edu](http://conferencecenter.uci.edu)
- - date_published: 2024-07-01T22:49:22+00:00
-
- ## Home - Connected Learning Lab
- - [https://connectedlearning.uci.edu](https://connectedlearning.uci.edu)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## landing - UCI Cybersecurity Policy & Research Institute
- - [https://cpri.uci.edu](https://cpri.uci.edu)
- - date_published: 2024-05-07T20:52:40.293444+00:00
-
- ## UCI’s Steckler Center for Responsible, Ethical, and Accessible Technology
- - [https://create.ics.uci.edu](https://create.ics.uci.edu)
- - date_published: 2024-05-07T20:53:25.866925+00:00
-
- ## Home
- - [https://cs.ics.uci.edu](https://cs.ics.uci.edu)
- - date_published: 2024-07-01T22:46:36.378434+00:00
-
- ## Home
- - [https://cs.uci.edu](https://cs.uci.edu)
- - date_published: 2024-05-07T20:52:56.467791+00:00
-
- ## Welcome to Department of Dance | Claire Trevor School of the Arts | Department of Dance | Claire Trevor School of the Arts
- - [https://dance.arts.uci.edu](https://dance.arts.uci.edu)
- - date_published: 2024-07-09T22:45:40.328573+00:00
-
- ## Data Science Initiative – UCI's Data Science Initiative
- - [https://datascience.uci.edu](https://datascience.uci.edu)
- - date_published: 2024-05-07T20:52:48.849995+00:00
-
- ## Dean LaFerla | UC Irvine Charlie Dunlop School of Biological Sciences Dean Frank LaFerla
- - [https://dean.bio.uci.edu](https://dean.bio.uci.edu)
- - date_published: 2024-07-09T22:34:29.005687+00:00
-
- ## Welcome // Division of Equal Opportunity and Compliance // UCI
- - [https://deoc.uci.edu](https://deoc.uci.edu)
- - date_published: 2024-07-09T22:33:32.676796+00:00
-
  ## Home - Charlie Dunlop School of Biological Sciences
  - [https://dev-pantheon.bio.uci.edu](https://dev-pantheon.bio.uci.edu)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -4013,4 +3701,304 @@
  ## Astronomy and Astrophysics
  - [https://www.astro.ucsc.edu](https://www.astro.ucsc.edu)
  - date_published: 2024-05-07T20:59:35.539856+00:00
+
+ ## Chemistry & Biochemistry
+ - [http://www.chemistry.ucsc.edu](http://www.chemistry.ucsc.edu)
+ - date_published: 2024-10-19T04:47:25.894279+00:00
+
+ ## UC Santa Cruz - Ecology & Evolutionary Biology
+ - [https://eeb.ucsc.edu](https://eeb.ucsc.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Planetary and Marine Computing
+ - [https://www.pmc.ucsc.edu](https://www.pmc.ucsc.edu)
+ - date_published: 2024-07-01T23:53:12.199166+00:00
+
+ ## Baskin School of Engineering – Baskin Engineering provides unique educational opportunities, world-class research with an eye to social responsibility and diversity.
+ - [https://www.soe.ucsc.edu](https://www.soe.ucsc.edu)
+ - date_published: 2024-06-22T08:09:07+00:00
+
+ ## UC Santa Cruz – A world-class public research institution comprised of ten residential college communities nestled in the redwood forests and meadows overlooking central California's Monterey Bay.
+ - [https://www.ucsc.edu](https://www.ucsc.edu)
+ - date_published: 2024-05-07T20:59:43.491454+00:00
+
+ ## UCSC Silicon Valley Extension
+ - [https://www.ucsc-extension.edu](https://www.ucsc-extension.edu)
+ - date_published: 2024-07-01T23:54:38.478868+00:00
+
+ ## UC San Diego Academic Affairs
+ - [https://academicaffairs.ucsd.edu](https://academicaffairs.ucsd.edu)
+ - date_published: 2024-04-24T14:45:51+00:00
+
+ ## Academic Connections
+ - [http://academicconnections.ucsd.edu](http://academicconnections.ucsd.edu)
+ - date_published: 2024-07-01T17:17:41+00:00
+
+ ## Academic Integrity
+ - [https://academicintegrity.ucsd.edu](https://academicintegrity.ucsd.edu)
+ - date_published: 2024-05-22T18:09:14+00:00
+
+ ## Academic Achievement Service
+ - [https://academicsupport.ucsd.edu](https://academicsupport.ucsd.edu)
+ - date_published: 2024-09-19T15:54:27+00:00
+
+ ## Accessibility
+ - [https://accessibility.ucsd.edu](https://accessibility.ucsd.edu)
+ - date_published: 2024-01-08T21:48:26+00:00
+
+ ## Accreditation
+ - [https://accreditation.ucsd.edu](https://accreditation.ucsd.edu)
+ - date_published: 2024-03-26T19:41:22+00:00
+
+ ## UCSD IT Service Portal - Information Technology
+ - [http://acsweb.ucsd.edu](http://acsweb.ucsd.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## IT Services
+ - [https://act.ucsd.edu](https://act.ucsd.edu)
+ - date_published: 2024-06-29T07:42:12+00:00
+
+ ## Admissions
+ - [https://admissions.ucsd.edu](https://admissions.ucsd.edu)
+ - date_published: 2024-06-11T19:06:51+00:00
+
+ ## Advancement
+ - [https://advancement.ucsd.edu](https://advancement.ucsd.edu)
+ - date_published: 2024-04-12T23:23:12+00:00
+
+ ## IIS Windows Server
+ - [https://adweb.ucsd.edu](https://adweb.ucsd.edu)
+ - date_published: 2020-05-21T03:31:30+00:00
+
+ ## :: SCRIPPS INSTITUTION OF OCEANOGRAPHY : UC SAN DIEGO ::
+ - [http://aerosol.ucsd.edu](http://aerosol.ucsd.edu)
+ - date_published: 2018-02-09T00:41:20+00:00
+
+ ## Home | Artificial Intelligence
+ - [https://ai.ucsd.edu](https://ai.ucsd.edu)
+ - date_published: 2024-05-07T21:00:47.190968+00:00
+
+ ## UC San Diego Alumni Home
+ - [https://alumni.ucsd.edu](https://alumni.ucsd.edu)
+ - date_published: 2024-06-13T23:27:49+00:00
+
+ ## Home - Epstein Family Amphitheater
+ - [https://amphitheater.ucsd.edu](https://amphitheater.ucsd.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## EarthScope ANF Website  :: Welcome and introduction
+ - [http://anf.ucsd.edu](http://anf.ucsd.edu)
+ - date_published: 2024-07-10T02:20:57.503504+00:00
+
+ ## Welcome - UC San Diego AP On-Line Recruit
+ - [https://apol-recruit.ucsd.edu](https://apol-recruit.ucsd.edu)
+ - date_published: 2024-07-02T01:36:49.253576+00:00
+
+ ## Academic Personnel Services
+ - [https://aps.ucsd.edu](https://aps.ucsd.edu)
+ - date_published: 2024-06-28T15:59:54+00:00
+
+ ## Birch Aquarium at Scripps
+ - [https://aquarium.ucsd.edu](https://aquarium.ucsd.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Argo
+ - [https://argo.ucsd.edu](https://argo.ucsd.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## ArtPower
+ - [https://artpower.ucsd.edu](https://artpower.ucsd.edu)
+ - date_published: 2024-05-11T07:09:24.396175+00:00
+
+ ## School of Arts and Humanities
+ - [https://artsandhumanities.ucsd.edu](https://artsandhumanities.ucsd.edu)
+ - date_published: 2024-05-07T21:07:20.815141+00:00
+
+ ## Astronomy & Astrophysics
+ - [https://astro.ucsd.edu](https://astro.ucsd.edu)
+ - date_published: 2024-06-02T02:39:04+00:00
+
+ ## Business Analytics Hub
+ - [https://bah.ucsd.edu](https://bah.ucsd.edu)
+ - date_published: 2024-05-21T00:17:05+00:00
+
+ ## Admissions
+ - [https://beatriton.ucsd.edu](https://beatriton.ucsd.edu)
+ - date_published: 2024-09-30T21:35:07+00:00
+
+ ## Home | Shu Chien - Gene Lay Department of Bioengineering
+ - [https://be.ucsd.edu](https://be.ucsd.edu)
+ - date_published: 2024-07-02T01:39:28.464025+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://bianalytics.ucsd.edu](https://bianalytics.ucsd.edu)
+ - date_published: 2024-10-14T20:55:30.229692+00:00
+
+ ## Biological Sciences
+ - [https://biology.ucsd.edu](https://biology.ucsd.edu)
+ - date_published: 2024-05-07T21:01:48.889985+00:00
+
+ ## UCSD Biological Physics
+ - [https://biophysics.ucsd.edu](https://biophysics.ucsd.edu)
+ - date_published: 2024-06-30T04:58:48.051944+00:00
+
+ ## Home - BioSci Student Success Center
+ - [https://biostudentsuccess.ucsd.edu](https://biostudentsuccess.ucsd.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Blink: Information for UC San Diego Faculty & Staff
+ - [https://blink.ucsd.edu](https://blink.ucsd.edu)
+ - date_published: 2024-06-12T01:31:50+00:00
+
+ ## Home | UC San Diego Event Calendar
+ - [https://calendar.ucsd.edu](https://calendar.ucsd.edu)
+ - date_published: 2024-05-07T21:02:13.196489+00:00
+
+ ## Giving
+ - [https://campaign.ucsd.edu](https://campaign.ucsd.edu)
+ - date_published: 2024-06-05T18:05:18+00:00
+
+ ## SINGLE SIGN-ON
+ - [http://cams.ucsd.edu](http://cams.ucsd.edu)
+ - date_published: 2024-09-13T18:37:09.413780+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://canvas.ucsd.edu](https://canvas.ucsd.edu)
+ - date_published: 2024-05-04T15:27:04.127461+00:00
+
+ ## Career Center
+ - [https://career.ucsd.edu](https://career.ucsd.edu)
+ - date_published: 2024-04-08T14:36:08+00:00
+
+ ## CARE at SARC
+ - [https://care.ucsd.edu](https://care.ucsd.edu)
+ - date_published: 2024-06-17T22:21:18+00:00
+
+ ## California Sea Grant
+ - [https://caseagrant.ucsd.edu](https://caseagrant.ucsd.edu)
+ - date_published: 2024-06-28T03:45:40+00:00
+
+ ## General Catalog 2024–25 Catalog of Record
+ - [https://catalog.ucsd.edu](https://catalog.ucsd.edu)
+ - date_published: 2024-06-20T16:39:07+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://cdn.ucsd.edu](https://cdn.ucsd.edu)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## Welcome to Student Success Center | Student Success Center
+ - [https://center.ucsd.edu](https://center.ucsd.edu)
+ - date_published: 2024-06-30T04:58:45.756775+00:00
+
+ ## Center for Global Sustainable Development
+ - [https://cgsd.ucsd.edu](https://cgsd.ucsd.edu)
+ - date_published: 2023-09-28T14:46:24+00:00
+
+ ## Office of the Chancellor
+ - [https://chancellor.ucsd.edu](https://chancellor.ucsd.edu)
+ - date_published: 2024-06-07T19:25:28+00:00
+
+ ## The Cultural Heritage Engineering Initiative (CHEI) – Engineering a Future for the Past
+ - [https://chei.ucsd.edu](https://chei.ucsd.edu)
+ - date_published: 2018-03-14T00:00:00+00:00
+
+ ## Chemistry and Biochemistry
+ - [https://chemistry.ucsd.edu](https://chemistry.ucsd.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Clinical Trials at UCSD
+ - [https://clinicaltrials.ucsd.edu](https://clinicaltrials.ucsd.edu)
+ - date_published: 2024-07-01T22:28:00+00:00
+
+ ## Center For Networked Systems – A Research Center within the Computer Science and Engineering Department at UC San Diego
+ - [http://cns.ucsd.edu](http://cns.ucsd.edu)
+ - date_published: 2018-02-06T20:09:39+00:00
+
+ ## Cog Sci
+ - [https://cogsci.ucsd.edu](https://cogsci.ucsd.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## UC San Diego Commencement
+ - [https://commencement.ucsd.edu](https://commencement.ucsd.edu)
+ - date_published: 2024-06-16T14:32:14+00:00
+
+ ## Commons Homepage
+ - [https://commons.ucsd.edu](https://commons.ucsd.edu)
+ - date_published: 2024-01-23T23:36:46+00:00
+
+ ## Department of Communication
+ - [http://communication.ucsd.edu](http://communication.ucsd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Select your identity provider
+ - [https://concur.ucsd.edu](https://concur.ucsd.edu)
+ - date_published: 2024-09-13T18:37:34.746056+00:00
+
+ ## Apply Now
+ - [https://connect.grad.ucsd.edu](https://connect.grad.ucsd.edu)
+ - date_published: 2024-06-26T17:55:10+00:00
+
+ ## Welcome to Contextual Robotics Institute | Contextual Robotics Institute
+ - [https://contextualrobotics.ucsd.edu](https://contextualrobotics.ucsd.edu)
+ - date_published: 2024-05-04T15:43:44.384148+00:00
+
+ ## CoralNet
+ - [https://coralnet.ucsd.edu](https://coralnet.ucsd.edu)
+ - date_published: 2024-06-13T17:54:35.315107+00:00
+
+ ## Center for Research in Language
+ - [http://crl.ucsd.edu](http://crl.ucsd.edu)
+ - date_published: 2020-10-03T00:00:00+00:00
+
+ ## CSE 125 -- Software System Design and Implementation
+ - [https://cse125.ucsd.edu](https://cse125.ucsd.edu)
+ - date_published: 2024-06-15T15:46:17+00:00
+
+ ## CSE 35th Anniversary
+ - [https://cse35.ucsd.edu](https://cse35.ucsd.edu)
+ - date_published: 2024-05-07T21:00:29.549788+00:00
+
+ ## CSE Annual Report
+ - [https://cse-annual-report.ucsd.edu](https://cse-annual-report.ucsd.edu)
+ - date_published: 2024-05-07T21:00:36.116463+00:00
+
+ ## CSE Research Open House| UC San Diego
+ - [https://cseopenhouse.ucsd.edu](https://cseopenhouse.ucsd.edu)
+ - date_published: 2016-11-28T21:42:49+00:00
+
+ ## Home | Computer Science
+ - [https://cse.ucsd.edu](https://cse.ucsd.edu)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Home | Computer Science
+ - [https://cseweb.ucsd.edu](https://cseweb.ucsd.edu)
+ - date_published: 2023-10-25T19:01:08.426811+00:00
+
+ ## Computational Science, Mathematics and Engineering (CSME)
+ - [https://csme.ucsd.edu](https://csme.ucsd.edu)
+ - date_published: 2023-09-28T14:03:52+00:00
+
+ ## Computational Social Science
+ - [https://css.ucsd.edu](https://css.ucsd.edu)
+ - date_published: 2024-06-20T21:35:27+00:00
+
+ ## Home | Center for Wireless Communications
+ - [http://cwc.ucsd.edu](http://cwc.ucsd.edu)
+ - date_published: 2024-10-16T02:43:37.729621+00:00
+
+ ## School of Arts and Humanities
+ - [https://dah.ucsd.edu](https://dah.ucsd.edu)
+ - date_published: 2024-05-23T17:02:04+00:00
+
+ ## Home - Halıcıoğlu Data Science Institute - UC San Diego
+ - [https://datascience.ucsd.edu](https://datascience.ucsd.edu)
+ - date_published: 2022-01-28T19:27:27+00:00
+
+ ## Home - UCSD - DDPM
+ - [https://ddpm.ucsd.edu](https://ddpm.ucsd.edu)
+ - date_published: 2024-07-01T21:17:28+00:00
+
+ ## SINGLE SIGN-ON
+ - [https://degree-planner.ucsd.edu](https://degree-planner.ucsd.edu)
+ - date_published: 2024-10-14T20:59:39.244681+00:00
 

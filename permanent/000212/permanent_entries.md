@@ -1,271 +1,3 @@
- ## Compare Textbook Prices Online | Kalamazoo College Bookstore
- - [https://kzoo.verbacompare.com](https://kzoo.verbacompare.com)
- - date_published: 2024-07-01T13:03:59.982141+00:00
-
- ## Compare Textbook Prices Online | OSU Beaver Store
- - [https://osubeaverstore.verbacompare.com](https://osubeaverstore.verbacompare.com)
- - date_published: 2024-10-15T00:04:21.026918+00:00
-
- ## Compare Textbook Prices Online | University Store
- - [https://wyoming.verbacompare.com](https://wyoming.verbacompare.com)
- - date_published: 2024-07-14T15:03:50.911906+00:00
-
- ## Verbatik - #1 Realistic Text to Speech & Voice Cloning
- - [https://verbatik.com](https://verbatik.com)
- - date_published: 2023-11-01T00:54:55+00:00
-
- ## Verbatik Media
- - [http://verbatikmedia.com](http://verbatikmedia.com)
- - date_published: 2024-06-21T09:41:00.328602+00:00
-
- ## Homepage
- - [http://www.verbatimmag.com](http://www.verbatimmag.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## VerbiAI - AI-Powered SEO description and meta content creation
- - [https://www.verbiai.com](https://www.verbiai.com)
- - date_published: 2024-06-19T21:35:25.725772+00:00
-
- ## Verbix verb conjugator
- - [http://verbix.com](http://verbix.com)
- - date_published: 2024-06-30T07:29:13.388098+00:00
-
- ## Sign in
- - [https://app.verblio.com](https://app.verblio.com)
- - date_published: 2024-06-23T21:33:41.898578+00:00
-
- ## Verblio Human + AI Content
- - [https://content.verblio.com](https://content.verblio.com)
- - date_published: 2024-06-17T12:38:45+00:00
-
- ## Blog & Content Writing Services | Professional Web Content | Verblio
- - [https://www.verblio.com](https://www.verblio.com)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Martijn Verbove
- - [https://verbove.com](https://verbove.com)
- - date_published: 2024-02-23T20:48:13.210763+00:00
-
- ## Top Rated Digital Marketing Agency – Verbsz Marketing
- - [https://www.verbszmarketing.com](https://www.verbszmarketing.com)
- - date_published: 2023-11-17T16:49:54+00:00
-
- ## VERBUND – Austria's leading electricity company
- - [https://www.verbund.com](https://www.verbund.com)
- - date_published: 2024-09-04T02:11:50.958605+00:00
-
- ## Vercel REST API
- - [https://api.vercel.com](https://api.vercel.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://assets.vercel.com](https://assets.vercel.com)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Vercel: Build and deploy the best Web experiences with The Frontend Cloud
- - [https://vercel.com](https://vercel.com)
- - date_published: 2023-10-25T17:55:50.277514+00:00
-
- ## Vercel: Build and deploy the best web experiences with the Frontend Cloud – Vercel
- - [http://www.vercel.com](http://www.vercel.com)
- - date_published: 2024-06-21T20:51:07.808842+00:00
-
- ## Observability – Vercel
- - [https://vitals.vercel-insights.com](https://vitals.vercel-insights.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://www.vercida.com](https://www.vercida.com)
- - date_published: 2024-05-02T12:41:56.411281+00:00
-
- ## 株式会社ベルダ
- - [https://www.verdadinc.com](https://www.verdadinc.com)
- - date_published: 2024-07-20T23:08:49.988515+00:00
-
- ## Facilities management | Arizona | Janitor | Custodian | Verde Clean
- - [https://www.verdeclean.com](https://www.verdeclean.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Verdensmand.com – Screw down a little bit the expectations
- - [https://verdensmand.com](https://verdensmand.com)
- - date_published: 2024-07-20T07:59:02.084643+00:00
-
- ## Verde Van
- - [https://verdevan.com](https://verdevan.com)
- - date_published: 2024-10-18T17:28:30.100438+00:00
-
- ## Home
- - [https://www.verdictfoodservice.com](https://www.verdictfoodservice.com)
- - date_published: 2024-08-19T08:00:26.568653+00:00
-
- ## GlobalData Marketing Solutions
- - [https://www.verdictmediastrategies.com](https://www.verdictmediastrategies.com)
- - date_published: 2024-05-06T21:43:14.986345+00:00
-
- ## Search over 200,000 Verdicts and Settlements | VerdictSearch
- - [https://verdictsearch.com](https://verdictsearch.com)
- - date_published: 2024-06-21T10:11:34.699419+00:00
-
- ## Home - VERDINO
- - [https://www.verdino.com](https://www.verdino.com)
- - date_published: 2024-07-20T01:10:10+00:00
-
- ## Mighil | Generalist in Chengdu
- - [https://verfasor.com](https://verfasor.com)
- - date_published: 2023-12-13T06:04:43.812181+00:00
- - tags: ['personal']
-
- ## Verge | Digital Infrastructure
- - [https://www.vergedi.com](https://www.vergedi.com)
- - date_published: 2024-07-12T19:22:31.531497+00:00
-
- ## Verhaert • Welcome to the sweet spot of innovation
- - [https://verhaert.com](https://verhaert.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Verhaert • Welcome to the sweet spot of innovation
- - [http://www.verhaert.com](http://www.verhaert.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Verified Video Interviews | Vericant
- - [https://www.vericant.com](https://www.vericant.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## RDP Login
- - [https://netview.verid.com](https://netview.verid.com)
- - date_published: 2024-10-12T14:35:59.680538+00:00
-
- ## Home
- - [https://veridiansoftware.com](https://veridiansoftware.com)
- - date_published: 2024-06-15T13:14:01.982114+00:00
-
- ## Home
- - [https://www.veridiansoftware.com](https://www.veridiansoftware.com)
- - date_published: 2024-09-18T09:49:39.172236+00:00
-
- ## Veridici - "Talent is a flame. Genius is a fire." - Bernard Williams
- - [https://veridici.com](https://veridici.com)
- - date_published: 2024-05-12T04:26:18.173896+00:00
-
- ## Veridise Home
- - [https://veridise.com](https://veridise.com)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Veridyen - Web Hosting, Domain ve Sunucu Hizmetleri
- - [https://www.veridyen.com](https://www.veridyen.com)
- - date_published: 2024-07-07T10:01:24.263703+00:00
-
- ## Verif.com - toutes les informations sur les entreprises dans le monde
- - [https://www.verif.com](https://www.verif.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Verifalia - Email address validation, email list cleaning, email list hygiene, email list scrubbing
- - [https://verifalia.com](https://verifalia.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Veriff Knowledge Base
- - [https://help.veriff.com](https://help.veriff.com)
- - date_published: 2024-06-25T17:09:13.609695+00:00
-
- ## Verification Academy: Tools and training for advanced functional verification process
- - [https://verificationacademy.com](https://verificationacademy.com)
- - date_published: 2024-06-08T11:01:36+00:00
- - tags: ['fpga', 'verilog', 'vhdl']
-
- ## .: Verification Guide :.
- - [https://verificationguide.com](https://verificationguide.com)
- - date_published: 2024-06-08T00:00:00+00:00
- - tags: ['fpga', 'verilog', 'vhdl']
-
- ## Verified First – Background Checks for Companies
- - [https://verifiedfirst.com](https://verifiedfirst.com)
- - date_published: 2024-08-10T22:36:07+00:00
-
- ## Nostr Weryfikacja adresu NIP-05 i przekaźnik premium
- - [https://verified-nostr.com](https://verified-nostr.com)
- - date_published: 2024-06-15T22:33:02.740794+00:00
-
- ## Boost customer reviews with Verified Reviews
- - [https://en.verified-reviews.com](https://en.verified-reviews.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Verifone | The Payments Architects Who Truly Understand Commerce
- - [https://www.verifone.com](https://www.verifone.com)
- - date_published: 2024-08-11T12:19:21+00:00
-
- ## Engineering Solutions for AI Based Machine Vision Solutions | Verifygn
- - [https://verifygn.com](https://verifygn.com)
- - date_published: 2023-11-23T11:45:51+00:00
-
- ## VerifyPass
- - [https://verifypass.com](https://verifypass.com)
- - date_published: 2024-05-06T16:26:04.202776+00:00
-
- ## Verilog.com
- - [https://verilog.com](https://verilog.com)
- - date_published: 2024-07-08T11:53:46+00:00
- - tags: ['verilog', 'programming language']
-
- ## Introduction to Verilog
- - [http://vol.verilog.com](http://vol.verilog.com)
- - date_published: 2023-05-17T20:12:18+00:00
-
- ## Verilog Pro
- - [https://verilogpro.com](https://verilogpro.com)
- - date_published: 2024-04-29T09:24:20+00:00
-
- ## Verily Brand Portal
- - [https://assets.verily.com](https://assets.verily.com)
- - date_published: 2024-05-06T21:41:09.484149+00:00
-
- ## Verily Public Health
- - [https://publichealth.verily.com](https://publichealth.verily.com)
- - date_published: 2023-10-25T17:55:51.105963+00:00
-
- ## Verily | Research, Care and Health Financing | Alphabet Precision Health Company
- - [https://verily.com](https://verily.com)
- - date_published: 2023-10-25T17:55:52.204653+00:00
-
- ## Enrollment
- - [https://enroll.verilyme.com](https://enroll.verilyme.com)
- - date_published: 2024-05-06T21:41:10.057357+00:00
-
- ## VERIMATRIX: Content Security, Code & Mobile App Protection
- - [https://www.verimatrix.com](https://www.verimatrix.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Sign in - Verint Connect
- - [https://connect.verint.com](https://connect.verint.com)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Verint: Customer Engagement Leaders
- - [https://www.verint.com](https://www.verint.com)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Web.com Brands
- - [https://www.verio.com](https://www.verio.com)
- - date_published: 2024-10-02T12:26:10.897516+00:00
-
- ## Verisgold – Rekomendasi Game Online PC Terbaik Tahun 2024
- - [https://verisgold.com](https://verisgold.com)
- - date_published: 2024-08-20T04:00:15.816839+00:00
-
- ## Investor Relations | VeriSign, Inc.
- - [https://investor.verisign.com](https://investor.verisign.com)
- - date_published: 2024-07-08T08:25:00+00:00
-
- ## Whois Search - Free Domain Name Lookup  - Verisign
- - [https://webwhois.verisign.com](https://webwhois.verisign.com)
- - date_published: 2024-07-08T08:34:10.952151+00:00
-
- ## Verisign is a global provider of domain name registry services and internet infrastructure - Verisign
- - [https://verisign.com](https://verisign.com)
- - date_published: 2024-05-08T10:35:49.417280+00:00
-
- ## Verisign is a global provider of domain name registry services and internet infrastructure - Verisign
- - [https://verisigninc.com](https://verisigninc.com)
- - date_published: 2024-06-12T11:30:22.281664+00:00
-
  ## DNSSEC Debugger
  - [https://dnssec-debugger.verisignlabs.com](https://dnssec-debugger.verisignlabs.com)
  - date_published: 2024-06-19T00:00:00+00:00
@@ -475,10 +207,6 @@
  ## Vermont Woodstove | The Vermont Bun Baker Wood Cook-Stove
  - [https://www.vermontwoodstove.com](https://www.vermontwoodstove.com)
  - date_published: 2024-06-17T11:33:50+00:00
-
- ## Vernée Norman | Creative Production
- - [https://www.verneenorman.com](https://www.verneenorman.com)
- - date_published: 2024-06-19T23:08:42.097538+00:00
 
  ## Verne | Sell Your SaaS to Fellow Founders
  - [https://www.vernehq.com](https://www.vernehq.com)
@@ -4039,4 +3767,274 @@
  ## Virversity - Webpages
  - [https://www.virversity.com](https://www.virversity.com)
  - date_published: 2024-09-14T07:57:06.500928+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://ae.review.visa.com](https://ae.review.visa.com)
+ - date_published: 2024-07-14T12:52:18+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://africa.visa.com](https://africa.visa.com)
+ - date_published: 2024-05-12T03:59:06.109326+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://bd.visa.com](https://bd.visa.com)
+ - date_published: 2024-05-12T03:58:40.147031+00:00
+
+ ## Visa – лидер цифровых оплат, которому доверяют
+ - [https://by.visa.com](https://by.visa.com)
+ - date_published: 2024-05-12T03:58:48.786469+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://caribbean.visa.com](https://caribbean.visa.com)
+ - date_published: 2024-05-12T04:00:17.244166+00:00
+
+ ## Visa – лидер цифровых оплат, которому доверяют
+ - [https://cis.visa.com](https://cis.visa.com)
+ - date_published: 2024-05-12T03:59:20.047203+00:00
+
+ ## Visa Corporate: A world leader in digital payments
+ - [https://corporate.visa.com](https://corporate.visa.com)
+ - date_published: 2024-07-14T03:41:12+00:00
+
+ ## Visa, lider u digitalnim plaćanjima
+ - [https://hr.review.visa.com](https://hr.review.visa.com)
+ - date_published: 2024-07-10T14:32:37+00:00
+
+ ## Visa, a trusted leader in digital payments.
+ - [https://myanmar.visa.com](https://myanmar.visa.com)
+ - date_published: 2024-05-12T03:58:50.977213+00:00
+
+ ## Visa Navigate
+ - [https://navigate.visa.com](https://navigate.visa.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Visa Partner
+ - [https://partner.visa.com](https://partner.visa.com)
+ - date_published: 2024-07-14T21:03:12.547947+00:00
+
+ ## Visa, zaufany partner w płatnościach cyfrowych
+ - [https://promotions.visa.com](https://promotions.visa.com)
+ - date_published: 2024-07-14T03:05:44+00:00
+
+ ## Pouzdani lider u digitalnim plaćanjima
+ - [https://rs.visa.com](https://rs.visa.com)
+ - date_published: 2024-05-12T03:59:13.036950+00:00
+
+ ## Visa
+ - [https://secure.checkout.visa.com](https://secure.checkout.visa.com)
+ - date_published: 2024-05-01T07:19:13.746027+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://usa.visa.com](https://usa.visa.com)
+ - date_published: 2024-05-12T03:58:24.916076+00:00
+
+ ## Visa, zaufany partner w płatnościach cyfrowych
+ - [https://visa.com](https://visa.com)
+ - date_published: 2023-01-01T00:00:00+00:00
+ - tags: ['payments', 'card company']
+
+ ## Виза, надежден лидер в дигиталните разплащания
+ - [https://visabg.com](https://visabg.com)
+ - date_published: 2024-05-12T03:59:38.396424+00:00
+
+ ## Visage Technologies - Face tracking, analysis and recognition technology
+ - [https://visagetechnologies.com](https://visagetechnologies.com)
+ - date_published: 2024-09-04T07:30:36+00:00
+
+ ## Visa, una società leader nei pagamenti digitali
+ - [https://visaitalia.com](https://visaitalia.com)
+ - date_published: 2024-05-12T03:59:32.569592+00:00
+
+ ## Visa Kami - Permanent Residence Japan Eligibility test
+ - [https://visakami.com](https://visakami.com)
+ - date_published: 2024-07-23T23:39:24.795994+00:00
+
+ ## @visakanv – ❤️ friendly, ambitious nerd ⚡️
+ - [https://visakanv.com](https://visakanv.com)
+ - date_published: 2024-01-07T00:00:00+00:00
+
+ ## 신뢰할 수 있는 디지털 결제 리더 Visa
+ - [https://visakorea.com](https://visakorea.com)
+ - date_published: 2024-05-12T03:59:07.441485+00:00
+
+ ## Full-Service Immigration Firm | Siskind Susser PC
+ - [http://www.visalaw.com](http://www.visalaw.com)
+ - date_published: 2024-07-13T10:22:10+00:00
+
+ ## Visalia/Tulare, CA - Home
+ - [https://www.visaliatimesdelta.com](https://www.visaliatimesdelta.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://ae.visamiddleeast.com](https://ae.visamiddleeast.com)
+ - date_published: 2024-05-12T03:59:11.137383+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://eg.visamiddleeast.com](https://eg.visamiddleeast.com)
+ - date_published: 2024-05-12T03:59:16.368023+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://jo.visamiddleeast.com](https://jo.visamiddleeast.com)
+ - date_published: 2024-06-16T03:00:22+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://km.visamiddleeast.com](https://km.visamiddleeast.com)
+ - date_published: 2024-05-12T03:59:03.487397+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://kw.visamiddleeast.com](https://kw.visamiddleeast.com)
+ - date_published: 2024-05-12T03:58:20.928370+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://ma.visamiddleeast.com](https://ma.visamiddleeast.com)
+ - date_published: 2024-05-12T03:58:30.345300+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://pk.visamiddleeast.com](https://pk.visamiddleeast.com)
+ - date_published: 2024-05-12T03:59:01.114168+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://qa.visamiddleeast.com](https://qa.visamiddleeast.com)
+ - date_published: 2024-05-12T03:58:59.798288+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://sa.visamiddleeast.com](https://sa.visamiddleeast.com)
+ - date_published: 2024-05-12T03:58:54.591029+00:00
+
+ ## Index
+ - [https://gvol.visaonline.com](https://gvol.visaonline.com)
+ - date_published: 2024-06-16T07:03:41.049521+00:00
+
+ ## Visarity Technologies GmbH
+ - [https://dps.visarity.com](https://dps.visarity.com)
+ - date_published: 2021-09-28T11:40:31+00:00
+
+ ## Primo Manager
+ - [https://primo.visarity.com](https://primo.visarity.com)
+ - date_published: 2024-06-24T06:37:50+00:00
+
+ ## Visarity Technologies GmbH
+ - [https://ps.visarity.com](https://ps.visarity.com)
+ - date_published: 2021-10-01T09:54:15+00:00
+
+ ## Main page redirect (generated automatically)
+ - [http://s.visarity.com](http://s.visarity.com)
+ - date_published: 2024-06-25T21:37:54.860248+00:00
+
+ ## JG Law PLLC – U.S. Immigration Law
+ - [https://visas-america.com](https://visas-america.com)
+ - date_published: 2024-06-12T13:11:40.429041+00:00
+
+ ## Visa SavingsEdge
+ - [https://www.visasavingsedge.com](https://www.visasavingsedge.com)
+ - date_published: 2024-06-25T17:49:14+00:00
+
+ ## Visa, a trusted leader in digital payments
+ - [https://visasoutheasteurope.com](https://visasoutheasteurope.com)
+ - date_published: 2024-05-12T03:59:49.699245+00:00
+
+ ## Visbox, Inc.
+ - [https://visbox.com](https://visbox.com)
+ - date_published: 2024-05-08T00:38:26.907444+00:00
+
+ ## visca.com
+ - [http://www.visca.com](http://www.visca.com)
+ - date_published: 2024-04-05T13:11:59+00:00
+
+ ## Visceral Cure
+ - [https://visceralcure.com](https://visceralcure.com)
+ - date_published: 2024-08-19T10:08:30.843424+00:00
+
+ ## Show HN: VisCircuit – A Note-Taking Website for Electronics and Circuits
+ - [https://viscircuit.com](https://viscircuit.com)
+ - date_published: 2024-07-17T16:46:14+00:00
+
+ ## Premium and Specialty Lighting | Viscor Lighting
+ - [https://www.viscor.com](https://www.viscor.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## ViscoTec - Dosing technology for industrial applications
+ - [https://www.viscotec.com](https://www.viscotec.com)
+ - date_published: 2024-10-15T21:13:52.531125+00:00
+
+ ## ViscoTec India
+ - [https://viscotec-india.com](https://viscotec-india.com)
+ - date_published: 2024-06-17T01:57:55.580771+00:00
+
+ ## Accueil | Visegrád Post
+ - [https://visegradpost.com](https://visegradpost.com)
+ - date_published: 2016-02-22T10:42:02+00:00
+
+ ## visfest.com
+ - [http://visfest.com](http://visfest.com)
+ - date_published: 2024-06-26T14:27:48.496879+00:00
+
+ ## Some Thoughts
+ - [https://vishalsodani.com](https://vishalsodani.com)
+ - date_published: 2024-07-23T23:43:03.504202+00:00
+
+ ## Vishay Intertechnology: Passives & Discrete Semiconductors
+ - [https://www.vishay.com](https://www.vishay.com)
+ - date_published: 2024-07-11T05:17:35+00:00
+
+ ## Vishnu Menon
+ - [https://vishnumenon.com](https://vishnumenon.com)
+ - date_published: 2023-09-18T18:24:46+00:00
+ - tags: ['personal']
+
+ ## Vishnu Nanduri, PHD
+ - [https://vishnunanduri.com](https://vishnunanduri.com)
+ - date_published: 2024-06-20T04:51:54.054324+00:00
+
+ ## vp's
+ - [https://vishnupadmanabhan.com](https://vishnupadmanabhan.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## VI Shots — Expert LabVIEW Consulting Services
+ - [http://vishots.com](http://vishots.com)
+ - date_published: 2024-10-14T15:37:50.791220+00:00
+
+ ## OneNeck IT Solutions
+ - [http://www.visi.com](http://www.visi.com)
+ - date_published: 2022-02-21T20:45:28+00:00
+
+ ## Home
+ - [https://community.visible.com](https://community.visible.com)
+ - date_published: 2024-06-28T17:09:57.085571+00:00
+
+ ## Visible Wireless | Unlimited Data, Talk & Text Cell Phone Plans
+ - [https://visible.com](https://visible.com)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Visible Privacy
+ - [https://visibleprivacy.com](https://visibleprivacy.com)
+ - date_published: 2024-06-20T10:32:14+00:00
+
+ ## The Visionary CTO | Matt Watson | Substack
+ - [https://blog.visionarycto.com](https://blog.visionarycto.com)
+ - date_published: 2023-10-25T17:57:32.350119+00:00
+
+ ## Parth Valerio
+ - [https://visionaryfinearts.com](https://visionaryfinearts.com)
+ - date_published: 2024-06-12T18:57:00+00:00
+
+ ## Marketing Innovation - Visionary Marketing
+ - [https://visionarymarketing.com](https://visionarymarketing.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Vision Baptist Church of South Forsyth (Alpharetta & Cumming GA)
+ - [https://visionbaptist.com](https://visionbaptist.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Index File
+ - [http://www.visionbib.com](http://www.visionbib.com)
+ - date_published: 2018-06-04T00:18:33+00:00
+
+ ## Vision Board Media – Executive Branding | Career Branding | Corporate Branding
+ - [https://visionboardmedia.com](https://visionboardmedia.com)
+ - date_published: 2024-05-04T12:42:57.792132+00:00
+
+ ## Alida | Community-Centered Research Platform
+ - [http://www.visioncritical.com](http://www.visioncritical.com)
+ - date_published: 2024-06-21T18:23:41+00:00
 

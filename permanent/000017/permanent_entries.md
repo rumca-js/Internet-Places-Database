@@ -1,416 +1,3 @@
- ## Heige S. Boehm
- - [https://www.heigeboehm.ca](https://www.heigeboehm.ca)
- - date_published: 2024-08-18T09:51:11.829665+00:00
-
- ## Home | Heiltsuknation
- - [https://www.heiltsuknation.ca](https://www.heiltsuknation.ca)
- - date_published: 2024-07-09T12:57:28.496727+00:00
-
- ## %%sitename%%
- - [https://blog.hellofresh.ca](https://blog.hellofresh.ca)
- - date_published: 2024-06-18T17:36:24.821246+00:00
-
- ## Partner with HelloFresh Group Canada | Sales & Corporate Partnerships
- - [https://partner.hellofresh.ca](https://partner.hellofresh.ca)
- - date_published: 2024-10-23T05:56:14.624914+00:00
-
- ## HelloFresh®: Free Breakfast Item For Life + $140 Off
- - [https://www.hellofresh.ca](https://www.hellofresh.ca)
- - date_published: 2024-05-02T13:59:58.514477+00:00
-
- ## Paul Henman
- - [https://henman.ca](https://henman.ca)
- - date_published: 2023-12-12T04:55:06.206081+00:00
- - tags: ['personal']
-
- ## Network visualization of 50k blogs and links
- - [https://graph.henryn.ca](https://graph.henryn.ca)
- - date_published: 2024-04-23T19:33:21+00:00
-
- ## Henry Nguyen's Website
- - [https://henryn.ca](https://henryn.ca)
- - date_published: 2024-04-24T08:33:58+00:00
- - tags: ['personal']
-
- ## time2reach
- - [https://map.henryn.ca](https://map.henryn.ca)
- - date_published: 2024-05-02T13:45:47.956333+00:00
-
- ## Simple Analytics
- - [https://sa.henryn.ca](https://sa.henryn.ca)
- - date_published: 2020-01-10T12:35:14+00:00
-
- ## Herbaland Naturals | Canada's Largest Nutritional Gummy Producer
- - [https://www.herbaland.ca](https://www.herbaland.ca)
- - date_published: 2024-06-27T13:06:40.193523+00:00
-
- ## Heritage Park Homepage | Heritage Park
- - [http://heritagepark.ca](http://heritagepark.ca)
- - date_published: 2024-10-17T18:24:30.459603+00:00
-
- ## Heritage Park Homepage | Heritage Park
- - [https://www.heritagepark.ca](https://www.heritagepark.ca)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Technoculture, Art and Games | TAG
- - [https://tag.hexagram.ca](https://tag.hexagram.ca)
- - date_published: 2024-05-09T05:25:21.302814+00:00
-
- ## Home | Renée dot ca
- - [https://heyrenee.ca](https://heyrenee.ca)
- - date_published: 2024-08-16T05:12:41+00:00
-
- ## Home - Highgo Software Inc.
- - [https://highgo.ca](https://highgo.ca)
- - date_published: 2023-12-18T21:53:17.162282+00:00
-
- ## Highgo Yum Repository
- - [https://yum.highgo.ca](https://yum.highgo.ca)
- - date_published: 2021-12-29T08:01:19+00:00
-
- ## Advancing Connected Care
- - [https://www.hillrom.ca](https://www.hillrom.ca)
- - date_published: 2024-10-17T21:27:03.138154+00:00
-
- ## Power Tools, Fasteners and Software for Construction - Hilti Canada
- - [https://www.hilti.ca](https://www.hilti.ca)
- - date_published: 2024-06-20T07:26:45.516667+00:00
-
- ## Hirad Notes | Substack
- - [http://hirad.ca](http://hirad.ca)
- - date_published: 2023-12-27T18:12:30.676212+00:00
- - tags: ['personal']
-
- ## Hired - Job Search Marketplace. Tech Job Hunting Simplified!
- - [https://hired.ca](https://hired.ca)
- - date_published: 2024-05-07T22:57:35.742248+00:00
-
- ## Over 300 Learning Tools for Educators | Historica Canada Education Portal
- - [http://education.historicacanada.ca](http://education.historicacanada.ca)
- - date_published: 2024-06-21T02:37:17.234947+00:00
-
- ## Hollyhock | Cortes Island Retreat Centre | Cortes Island Learning & Retreat Centre
- - [https://hollyhock.ca](https://hollyhock.ca)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Holodomor Research and Education Consortium - HREC
- - [https://holodomor.ca](https://holodomor.ca)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Under Construction
- - [http://www.hologic.ca](http://www.hologic.ca)
- - date_published: 2024-06-06T14:48:41+00:00
-
- ## Homecare in Canada, Canada
- - [http://www.homecare.ca](http://www.homecare.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home Hardware | Free Shipping to Store on Eligible Orders
- - [https://www.homehardware.ca](https://www.homehardware.ca)
- - date_published: 2024-08-18T14:37:12.717245+00:00
-
- ## Top 5 Top 5 Toronto Home Inspection Contractors for 2020 | HomeInspection.ca Plumbers and Plumbing Contractors for 2020 | HomeInspection.ca
- - [http://www.homeinspection.ca](http://www.homeinspection.ca)
- - date_published: 2024-06-29T17:34:34.127992+00:00
-
- ## Home Décor: Bed, Bath, Kitchen, Storage, Oudoor Décor | HomeSense
- - [https://www.homesense.ca](https://www.homesense.ca)
- - date_published: 2024-09-26T14:23:44+00:00
-
- ## Homes For Heroes |
- - [https://homesforheroesfoundation.ca](https://homesforheroesfoundation.ca)
- - date_published: 2024-05-06T20:02:15.098299+00:00
-
- ## Hoover Canada
- - [https://www.hoover.ca](https://www.hoover.ca)
- - date_published: 2024-08-05T22:31:23.283167+00:00
-
- ## HOME En - HOP TECH
- - [https://hoptech.ca](https://hoptech.ca)
- - date_published: 2024-04-29T04:46:24.920472+00:00
-
- ## Web Hosting and domain name, from only for 1.99€ | Hostico
- - [https://hostico.ca](https://hostico.ca)
- - date_published: 2024-06-16T14:57:20.816580+00:00
-
- ## Web Host Canada: Canadian Web Hosting and WordPress Services
- - [https://www.hostpapa.ca](https://www.hostpapa.ca)
- - date_published: 2024-08-11T22:40:25.936975+00:00
-
- ## Best Canadian Web Hosting with 24/7 Support - HostUpon.ca
- - [https://hostupon.ca](https://hostupon.ca)
- - date_published: 2024-06-17T01:14:38.881041+00:00
-
- ## Hotfrog - Get found online
- - [https://www.hotfrog.ca](https://www.hotfrog.ca)
- - date_published: 2024-06-29T16:51:45.783044+00:00
-
- ## Hot Tubs in Toronto, the GTA & Across Canada | Hottubs.ca by N49
- - [http://www.hottubs.ca](http://www.hottubs.ca)
- - date_published: 2024-06-29T17:38:09.062211+00:00
-
- ## House of Macadamias - Canada
- - [https://houseofmacadamias.ca](https://houseofmacadamias.ca)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## University of New Brunswick - Saint John
- - [https://howlwiththewolves.ca](https://howlwiththewolves.ca)
- - date_published: 2024-09-24T21:35:15.015288+00:00
-
- ## Hulse, Playfair & McGarry - Funeral Home & Cremation Services Ottawa
- - [https://hpmcgarry.ca](https://hpmcgarry.ca)
- - date_published: 2024-05-22T02:38:13.072122+00:00
-
- ## The Hamilton Spectator
- - [https://hsoffers.ca](https://hsoffers.ca)
- - date_published: 2024-05-06T14:30:46.264842+00:00
-
- ## Sign in - Google Accounts
- - [https://engage.hub21.ca](https://engage.hub21.ca)
- - date_published: 2024-09-19T01:30:01.745793+00:00
-
- ## HuffPost - Breaking News, U.S. and World News
- - [https://quebec.huffingtonpost.ca](https://quebec.huffingtonpost.ca)
- - date_published: 2024-05-02T11:55:09.138390+00:00
-
- ## HuffPost - Breaking News, U.S. and World News
- - [https://www.huffingtonpost.ca](https://www.huffingtonpost.ca)
- - date_published: 2024-05-02T11:55:26.888835+00:00
-
- ## Tristan's Site - Tristan Hume
- - [https://tristan.hume.ca](https://tristan.hume.ca)
- - date_published: 2023-12-05T22:51:30+00:00
-
- ## Hunt Fish | Travel Manitoba - Hunting and Fishing in Manitoba
- - [https://huntfishmanitoba.ca](https://huntfishmanitoba.ca)
- - date_published: 2024-07-21T07:56:46.006696+00:00
-
- ## Chemical-Free & Salt-Free Water Treatment Solutions | HydroFLOW Canada
- - [https://hydroflow.ca](https://hydroflow.ca)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## hypatia dot ca – Leigh Honeywell's Blog
- - [https://hypatia.ca](https://hypatia.ca)
- - date_published: 2023-10-25T09:25:27.291271+00:00
- - tags: ['personal']
-
- ## ..........
- - [http://www.hyperinfo.ca](http://www.hyperinfo.ca)
- - date_published: 2024-07-04T14:19:58.753803+00:00
-
- ## Iain M Campbell
- - [http://iainmc.ca](http://iainmc.ca)
- - date_published: 2021-03-07T21:34:14+00:00
-
- ## Ibraheem Ahmed
- - [https://ibraheem.ca](https://ibraheem.ca)
- - date_published: 2023-10-25T08:42:56.661128+00:00
- - tags: ['personal']
-
- ## Introduction | GiftManager Docs
- - [https://gift.icbest.ca](https://gift.icbest.ca)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## Domain Names | Dncanada Inc.
- - [http://icehuts.ca](http://icehuts.ca)
- - date_published: 2024-05-29T20:59:17.019602+00:00
-
- ## IBM HTTP Server
- - [https://infinity.icicibank.ca](https://infinity.icicibank.ca)
- - date_published: 2024-04-18T05:17:00+00:00
-
- ## Money Transfer to India from Canada | Financial Services | Business Banking - ICICI Bank Canada
- - [https://www.icicibank.ca](https://www.icicibank.ca)
- - date_published: 2024-06-15T15:55:34+00:00
-
- ## Money to India Canada money
- - [https://www.money2india.icicibank.ca](https://www.money2india.icicibank.ca)
- - date_published: 2024-09-26T16:29:23+00:00
-
- ## Homepage
- - [https://ictc-ctic.ca](https://ictc-ctic.ca)
- - date_published: 2024-01-16T13:42:26+00:00
-
- ## Welcome - Identi.ca
- - [https://identi.ca](https://identi.ca)
- - date_published: 2024-04-30T05:44:44.767731+00:00
-
- ## idlenomore.ca – Indigenous Revolution
- - [http://www.idlenomore.ca](http://www.idlenomore.ca)
- - date_published: 2024-08-18T18:33:41.271818+00:00
-
- ## IDRC - International Development Research Centre
- - [https://www.idrc.ca](https://www.idrc.ca)
- - date_published: 2024-07-03T08:58:33+00:00
-
- ## IDRC - International Development Research Centre
- - [https://idrc-crdi.ca](https://idrc-crdi.ca)
- - date_published: 2024-06-12T12:33:50.045959+00:00
-
- ## IEEE Toronto Metropolitan University Student Branch – Empower students by bridging the gap between industry and academia
- - [https://ieeetorontomu.ca](https://ieeetorontomu.ca)
- - date_published: 2024-04-30T05:17:28.170005+00:00
-
- ## Financial Planning & Advisor Services
- - [https://ig.ca](https://ig.ca)
- - date_published: 2024-09-18T20:24:13+00:00
-
- ## iGaming Ontario Homepage
- - [https://igamingontario.ca](https://igamingontario.ca)
- - date_published: 2022-03-04T19:15:53+00:00
-
- ## igus® - High-performance polymers for movement
- - [https://www.igus.ca](https://www.igus.ca)
- - date_published: 2024-08-06T23:13:07.403429+00:00
-
- ## Innovation + Impact Network of Canada (I-INC)
- - [https://www.iincanada.ca](https://www.iincanada.ca)
- - date_published: 2024-07-22T17:32:18.908519+00:00
-
- ## Chris Ilias
- - [https://ilias.ca](https://ilias.ca)
- - date_published: 2023-09-30T03:20:51+00:00
-
- ## Imaginary Text
- - [https://imaginarytext.ca](https://imaginarytext.ca)
- - date_published: 2024-08-03T23:42:10+00:00
-
- ## Homepage | Imagine Canada
- - [https://www.imaginecanada.ca](https://www.imaginecanada.ca)
- - date_published: 2024-07-03T02:40:29.285582+00:00
-
- ## Imhotep's Legacy Academy (ILA) – Celebrating Black Excellence in STEM
- - [https://www.imhotep.ca](https://www.imhotep.ca)
- - date_published: 2024-08-09T03:52:38.113994+00:00
-
- ## Canada Immigration, Visa, Canadian Citizenship & Permanent Residence
- - [https://www.immigration.ca](https://www.immigration.ca)
- - date_published: 2024-05-10T14:08:48+00:00
-
- ## Impact Ethics
- - [https://impactethics.ca](https://impactethics.ca)
- - date_published: 2024-04-28T01:54:30.594688+00:00
-
- ## Improv College: Your online improv school!
- - [https://improvcollege.ca](https://improvcollege.ca)
- - date_published: 2024-06-22T19:58:46.361544+00:00
-
- ## iNaturalist Canada
- - [https://inaturalist.ca](https://inaturalist.ca)
- - date_published: 2024-05-04T09:16:08.604626+00:00
-
- ## Welcome to The Inclusive Design Guide | The Inclusive Design Guide The Inclusive Design Guide
- - [https://guide.inclusivedesign.ca](https://guide.inclusivedesign.ca)
- - date_published: 2024-06-15T16:30:18.645647+00:00
-
- ## Inclusive Design Institute
- - [https://inclusivedesign.ca](https://inclusivedesign.ca)
- - date_published: 2024-03-25T17:37:56+00:00
-
- ## IDRC’s Inclusive Artificial Intelligence (AI) Initiatives | We Count
- - [https://wecount.inclusivedesign.ca](https://wecount.inclusivedesign.ca)
- - date_published: 2024-09-18T17:11:09.765831+00:00
-
- ## conference.Indexers.ca – Annual conference of Canada's professional society of indexers
- - [https://conference.indexers.ca](https://conference.indexers.ca)
- - date_published: 2024-07-14T19:06:37.499967+00:00
-
- ## indi.ca
- - [https://indi.ca](https://indi.ca)
- - date_published: 2024-07-10T08:45:38.649909+00:00
-
- ## Find Books You Love from Local Canadian Bookstores
- - [https://indiebookstores.ca](https://indiebookstores.ca)
- - date_published: 2024-05-07T09:48:41.100378+00:00
-
- ## Indigenous Tourism Association of Canada | Corporate
- - [https://indigenoustourism.ca](https://indigenoustourism.ca)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## indigo cx program
- - [https://en.feedback.indigo.ca](https://en.feedback.indigo.ca)
- - date_published: 2024-06-30T07:14:13.390976+00:00
-
- ## Support Home Page
- - [https://help.indigo.ca](https://help.indigo.ca)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
- - [https://www.chapters.indigo.ca](https://www.chapters.indigo.ca)
- - date_published: 2024-06-18T12:55:07.712220+00:00
-
- ## Indigo - Chapters - Coles | Canada's Biggest Bookstore
- - [https://indigo.ca](https://indigo.ca)
- - date_published: 2024-05-07T15:43:22.753534+00:00
-
- ## Indigo Portal
- - [https://assets.indigoimages.ca](https://assets.indigoimages.ca)
- - date_published: 2024-06-30T07:14:16.564602+00:00
-
- ## Kelowna News and Business Directory | iNFOnews |  | Find Local News & Businesses
- - [https://infotel.ca](https://infotel.ca)
- - date_published: 2024-10-16T00:00:00+00:00
-
- ## Implementing New Knowledge Environments (INKE) Partnership | A Canadian Social Knowledge Institute research partnership
- - [https://inke.ca](https://inke.ca)
- - date_published: 2024-07-11T13:08:10.219122+00:00
-
- ## Innovating Canada
- - [https://www.innovatingcanada.ca](https://www.innovatingcanada.ca)
- - date_published: 2024-08-11T07:37:51.816636+00:00
-
- ## Research Facilities Navigator
- - [https://navigator.innovation.ca](https://navigator.innovation.ca)
- - date_published: 2024-07-06T23:31:34+00:00
-
- ## Home | Canada Foundation for Innovation
- - [https://www.innovation.ca](https://www.innovation.ca)
- - date_published: 2024-07-10T10:45:15+00:00
-
- ## Accueil
- - [https://inrs.ca](https://inrs.ca)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Inside the Perimeter - News, Videos and More from Perimeter Institute
- - [https://insidetheperimeter.ca](https://insidetheperimeter.ca)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## Institut climatique du Canada: Changement climatique Canada
- - [https://institutclimatique.ca](https://institutclimatique.ca)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Insulation in Canada, Canada
- - [http://www.insulation.ca](http://www.insulation.ca)
- - date_published: 2024-06-29T17:26:14.517068+00:00
-
- ## Intact Insurance | Insurance quote for car, home, business and more
- - [https://www.intact.ca](https://www.intact.ca)
- - date_published: 2024-07-11T17:16:05.776002+00:00
-
- ## IntegrityCounts
- - [https://www.integritycounts.ca](https://www.integritycounts.ca)
- - date_published: 2024-05-04T10:05:01.145210+00:00
-
- ## Intel | Data Center Solutions, IoT, and PC Innovation
- - [https://intel.ca](https://intel.ca)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home
- - [https://www.interac.ca](https://www.interac.ca)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home | Interactive Brokers Canada Inc.
- - [https://www.interactivebrokers.ca](https://www.interactivebrokers.ca)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Interior Health | Interior Health
- - [https://www.interiorhealth.ca](https://www.interiorhealth.ca)
- - date_published: 2024-08-18T12:19:06.997703+00:00
-
- ## Cloud IT Application Provider - Intermedia Canada
- - [https://www.intermedia.ca](https://www.intermedia.ca)
- - date_published: 2024-10-18T16:20:29.770182+00:00
-
  ## Interrupt Labs
  - [https://interruptlabs.ca](https://interruptlabs.ca)
  - date_published: 2023-10-25T12:05:15.572215+00:00
@@ -4040,4 +3627,418 @@
  ## CSPC - Canadian Science Policy Centre
  - [https://sciencepolicy.ca](https://sciencepolicy.ca)
  - date_published: 2024-06-17T00:00:00+00:00
+
+ ## CSPC – Canadian Science Policy Centre
+ - [https://sciencepolicyconference.ca](https://sciencepolicyconference.ca)
+ - date_published: 2024-07-13T14:38:28+00:00
+
+ ## Today - Science World
+ - [https://www.scienceworld.ca](https://www.scienceworld.ca)
+ - date_published: 2021-01-28T00:00:00+00:00
+
+ ## Scientology - l'Eglise de la Scientology de France, Portail officiel
+ - [https://fr.scientology.ca](https://fr.scientology.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Test de personnalité
+ - [https://www.oca.fr.scientology.ca](https://www.oca.fr.scientology.ca)
+ - date_published: 2024-06-17T16:40:55.634753+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.ca](https://scientology.ca)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Home
+ - [https://www.scintillation.ca](https://www.scintillation.ca)
+ - date_published: 2024-05-24T13:32:50.540423+00:00
+ - tags: ['literary convention']
+
+ ## ACE/SCISAT - The Atmospheric Chemistry Experiment
+ - [https://ace.scisat.ca](https://ace.scisat.ca)
+ - date_published: 2024-06-30T02:57:24.199309+00:00
+
+ ## databace.scisat.ca
+ - [http://databace.scisat.ca](http://databace.scisat.ca)
+ - date_published: 2024-06-30T02:57:25.422134+00:00
+
+ ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
+ - [https://scottishritecanada.ca](https://scottishritecanada.ca)
+ - date_published: 2023-02-09T00:00:00+00:00
+ - tags: ['freemasonry']
+
+ ## Welcome! - Ancient and Accepted Scottish Rite of Freemasonry of Canada
+ - [http://www.scottishritecanada.ca](http://www.scottishritecanada.ca)
+ - date_published: 2023-02-09T00:00:00+00:00
+
+ ## Scott Redmond
+ - [https://scottredmond.ca](https://scottredmond.ca)
+ - date_published: 2022-06-20T10:54:19+00:00
+ - tags: ['personal']
+
+ ## Global Negotiation Consultancy, Global Negotiation Training | Scotwork USA
+ - [https://www.scotwork.ca](https://www.scotwork.ca)
+ - date_published: 2024-06-18T09:42:52.903402+00:00
+
+ ## Scrap Car Removal Toronto | Best Cash For Scrap Cars up to $5,000
+ - [https://scrapcartorontoshop.ca](https://scrapcartorontoshop.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Best Haunted House in Calgary - ScreamFest Calgary
+ - [http://www.screamfest.ca](http://www.screamfest.ca)
+ - date_published: 2024-10-17T18:19:56.521875+00:00
+
+ ## SCRNPRNT
+ - [https://www.scrnprnt.ca](https://www.scrnprnt.ca)
+ - date_published: 2023-11-16T19:11:13+00:00
+
+ ## Scarborough Campus Students' Union
+ - [http://scsu.ca](http://scsu.ca)
+ - date_published: 2024-09-18T05:42:52.139571+00:00
+
+ ## SCUMB
+ - [https://scumb.ca](https://scumb.ca)
+ - date_published: 2011-05-03T05:46:13+00:00
+
+ ## Home
+ - [https://www.sdmshn.ca](https://www.sdmshn.ca)
+ - date_published: 2024-02-13T15:52:50+00:00
+
+ ## Sean Marshall
+ - [https://seanmarshall.ca](https://seanmarshall.ca)
+ - date_published: 2024-08-17T16:58:32+00:00
+
+ ## SeatGeek | Your Ticket to Sports Games, Concerts & Live Shows so Fans Can Fan
+ - [https://seatgeek.ca](https://seatgeek.ca)
+ - date_published: 2024-10-17T20:32:24.304498+00:00
+
+ ## Second Best | Samuel Hammond | Substack
+ - [https://www.secondbest.ca](https://www.secondbest.ca)
+ - date_published: 2024-10-27T11:22:04.989828+00:00
+
+ ## The Second Egress: Building a Code Change
+ - [https://secondegress.ca](https://secondegress.ca)
+ - date_published: 2023-10-25T12:06:36.332747+00:00
+
+ ## Secretlab Gaming Chairs & Gaming Desk | Secretlab CA
+ - [https://secretlabchairs.ca](https://secretlabchairs.ca)
+ - date_published: 2024-09-03T20:58:47.505685+00:00
+
+ ## Servus Credit Union  - Commercial Net Banking Login
+ - [https://securenetbanking.ca](https://securenetbanking.ca)
+ - date_published: 2019-04-28T00:00:00+00:00
+
+ ## Homepage - Canadian Securities Administrators
+ - [https://info.securities-administrators.ca](https://info.securities-administrators.ca)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Homepage - Canadian Securities Administrators
+ - [https://www.securities-administrators.ca](https://www.securities-administrators.ca)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## ShieldSquare Captcha
+ - [https://sedarplus.ca](https://sedarplus.ca)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://www.seguin.ca](https://www.seguin.ca)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## The Selkirk
+ - [https://www.selkirkgrille.ca](https://www.selkirkgrille.ca)
+ - date_published: 2024-10-17T18:23:05.236988+00:00
+
+ ## Home - SenCanada.ca
+ - [https://sencanada.ca](https://sencanada.ca)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Sencia Canada Ltd. - Thunder Bay Web Design & Development
+ - [http://www.sencia.ca](http://www.sencia.ca)
+ - date_published: 2024-08-19T07:14:02.413682+00:00
+
+ ## #senseipublishing.com
+ - [http://www.senseipauldavid.ca](http://www.senseipauldavid.ca)
+ - date_published: 2024-09-12T14:03:42.579638+00:00
+
+ ## SEO Agency in Ottawa, Canada | SEO Services | SEO North
+ - [https://seonorth.ca](https://seonorth.ca)
+ - date_published: 2023-10-25T12:06:42.751440+00:00
+ - tags: ['seo', 'company']
+
+ ## Servus Credit Union
+ - [https://ib.servus.ca](https://ib.servus.ca)
+ - date_published: 2024-06-16T07:45:05.347828+00:00
+
+ ## Life - Servus Credit Union
+ - [https://servus.ca](https://servus.ca)
+ - date_published: 2024-06-16T07:45:07.775862+00:00
+
+ ## Sexshops in Canada, Canada
+ - [http://www.sexshops.ca](http://www.sexshops.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Home - SFU Beedie School of Business
+ - [https://beedie.sfu.ca](https://beedie.sfu.ca)
+ - date_published: 2024-04-30T05:13:05.722776+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://canvas.sfu.ca](https://canvas.sfu.ca)
+ - date_published: 2024-04-30T05:13:09.085968+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://cas.sfu.ca](https://cas.sfu.ca)
+ - date_published: 2024-07-21T09:38:14.346852+00:00
+
+ ## SFU Future Students
+ - [https://community.sfu.ca](https://community.sfu.ca)
+ - date_published: 2023-07-22T09:39:23+00:00
+
+ ## Error
+ - [http://connect.sfu.ca](http://connect.sfu.ca)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## SFU Library Databases
+ - [https://databases.lib.sfu.ca](https://databases.lib.sfu.ca)
+ - date_published: 2024-06-28T13:12:17+00:00
+
+ ## Digital Humanities Innovation Lab: Home | SFU Library
+ - [https://dhil.lib.sfu.ca](https://dhil.lib.sfu.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## SFU Digitized Collections
+ - [https://digital.lib.sfu.ca](https://digital.lib.sfu.ca)
+ - date_published: 2024-05-07T10:25:38.935876+00:00
+
+ ## PKP Docs - Documentation for OJS, OMP and all of the Public Knowledge Project's software
+ - [https://docs.pkp.sfu.ca](https://docs.pkp.sfu.ca)
+ - date_published: 2024-10-20T08:19:42.013521+00:00
+
+ ## PKP Community Forum
+ - [https://forum.pkp.sfu.ca](https://forum.pkp.sfu.ca)
+ - date_published: 2024-06-17T19:21:34.125861+00:00
+
+ ## Home | Open Problem Garden
+ - [http://garden.irmacs.sfu.ca](http://garden.irmacs.sfu.ca)
+ - date_published: 2024-06-30T08:27:15+00:00
+
+ ## SFU Advancement & Alumni Engagement
+ - [https://give.sfu.ca](https://give.sfu.ca)
+ - date_published: 2024-04-30T05:13:12.322242+00:00
+
+ ## Graduate Studies
+ - [https://gograd.sfu.ca](https://gograd.sfu.ca)
+ - date_published: 2024-08-19T22:13:59+00:00
+
+ ## goSFU
+ - [https://go.sfu.ca](https://go.sfu.ca)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## GrUVi - Home
+ - [https://gruvi.cs.sfu.ca](https://gruvi.cs.sfu.ca)
+ - date_published: 2023-11-25T18:10:18.335704+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://mail.sfu.ca](https://mail.sfu.ca)
+ - date_published: 2024-04-30T05:13:21.704382+00:00
+
+ ## MultiON EAI Challenge CVPR 2024
+ - [http://multion-challenge.cs.sfu.ca](http://multion-challenge.cs.sfu.ca)
+ - date_published: 2024-04-18T12:36:15+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://my.sfu.ca](https://my.sfu.ca)
+ - date_published: 2024-07-21T09:38:18.154826+00:00
+
+ ## Hosting & Services - Public Knowledge Project
+ - [https://pkpservices.sfu.ca](https://pkpservices.sfu.ca)
+ - date_published: 2024-10-20T08:19:46.367058+00:00
+
+ ## Public Knowledge Project
+ - [https://pkp.sfu.ca](https://pkp.sfu.ca)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Library Search
+ - [https://search.lib.sfu.ca](https://search.lib.sfu.ca)
+ - date_published: 2024-07-21T09:39:20.526439+00:00
+
+ ## SFU Advancement & Alumni Engagement
+ - [https://secure.give.sfu.ca](https://secure.give.sfu.ca)
+ - date_published: 2024-07-21T09:38:27.552050+00:00
+
+ ## ITServices
+ - [https://services.sfu.ca](https://services.sfu.ca)
+ - date_published: 2024-08-19T22:14:22.257092+00:00
+
+ ## Simon Fraser University
+ - [https://sfu.ca](https://sfu.ca)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## goSFU
+ - [https://sims.erp.sfu.ca](https://sims.erp.sfu.ca)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Sign In - CAS – Central Authentication Service
+ - [https://staff.lib.sfu.ca](https://staff.lib.sfu.ca)
+ - date_published: 2024-06-29T10:03:16.129198+00:00
+
+ ## Home | Summit Research Repository
+ - [https://summit.sfu.ca](https://summit.sfu.ca)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Welcome!
+ - [https://theses.lib.sfu.ca](https://theses.lib.sfu.ca)
+ - date_published: 2024-06-13T18:04:39.173849+00:00
+
+ ## Computing Science
+ - [https://www2.cs.sfu.ca](https://www2.cs.sfu.ca)
+ - date_published: 2023-11-05T04:50:03.089549+00:00
+
+ ## Computing Science
+ - [https://cs.sfu.ca](https://cs.sfu.ca)
+ - date_published: 2024-04-28T03:42:06.531645+00:00
+
+ ## Home | SFU Library
+ - [https://lib.sfu.ca](https://lib.sfu.ca)
+ - date_published: 2024-04-30T05:12:27.103899+00:00
+
+ ## dutchDesign2017
+ - [http://2017.sfudutchdesign.ca](http://2017.sfudutchdesign.ca)
+ - date_published: 2017-08-11T00:23:40+00:00
+
+ ## SGI CANADA - SGI CANADA - Liferay DXP prd01
+ - [https://www.sgicanada.ca](https://www.sgicanada.ca)
+ - date_published: 2024-07-11T17:15:57.576971+00:00
+
+ ## StraightGoods.ca
+ - [https://sgnews.ca](https://sgnews.ca)
+ - date_published: 2015-07-04T01:32:16+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.ca](https://www.sgs.ca)
+ - date_published: 2024-09-10T12:50:58.978386+00:00
+
+ ## Home - Shad Canada
+ - [https://shad.ca](https://shad.ca)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## ShadMerch
+ - [https://swag.shad.ca](https://swag.shad.ca)
+ - date_published: 2024-08-09T03:53:48.133891+00:00
+
+ ## Shaw Communications
+ - [http://members.shaw.ca](http://members.shaw.ca)
+ - date_published: 2024-09-09T13:34:37.979026+00:00
+
+ ## sheer spite press - sheer spite press
+ - [https://sheerspite.ca](https://sheerspite.ca)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## SheHacksPurple
+ - [https://shehackspurple.ca](https://shehackspurple.ca)
+ - date_published: 2024-05-01T03:48:47.291779+00:00
+ - tags: ['personal']
+
+ ## Shelf Life Books
+ - [https://store.shelflifebooks.ca](https://store.shelflifebooks.ca)
+ - date_published: 2024-05-12T07:12:49.762448+00:00
+
+ ## Sign in to your account
+ - [http://speakingbiz.sheridancollege.ca](http://speakingbiz.sheridancollege.ca)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## $name
+ - [https://www.sheridancollege.ca](https://www.sheridancollege.ca)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Welcome | Sherwin-Williams
+ - [https://www.sherwin-williams.ca](https://www.sherwin-williams.ca)
+ - date_published: 2024-10-22T20:37:37.560968+00:00
+
+ ## Shop Beer Gear
+ - [https://www.shopbeergear.ca](https://www.shopbeergear.ca)
+ - date_published: 2024-10-18T02:02:31.917125+00:00
+
+ ## Shop FSC
+ - [https://shopfsc.ca](https://shopfsc.ca)
+ - date_published: 2024-09-12T13:55:43.991872+00:00
+
+ ## Shopico.ca - Ensemble pour l'économie locale
+ - [https://shopico.ca](https://shopico.ca)
+ - date_published: 2024-05-10T02:40:56.514738+00:00
+
+ ## Start and grow your e-commerce business - 3-Day Free Trial
+ - [https://www.shopify.ca](https://www.shopify.ca)
+ - date_published: 2024-06-23T05:58:17.875196+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.shopngc.ca](https://www.shopngc.ca)
+ - date_published: 2024-07-19T22:13:43.028830+00:00
+
+ ## Shoppers Foundation for Women’s Health™
+ - [http://shoppersfoundation.ca](http://shoppersfoundation.ca)
+ - date_published: 2024-09-30T12:16:09.014609+00:00
+
+ ## Travel MB
+ - [https://shoptravelmb.ca](https://shoptravelmb.ca)
+ - date_published: 2024-07-21T07:56:47.456240+00:00
+
+ ## Showboard
+ - [https://showboard.ca](https://showboard.ca)
+ - date_published: 2024-06-09T19:19:33+00:00
+ - tags: ['bookmark manager']
+
+ ## Watch TV Shows Online | Stream Showcase Live TV and Full Episodes
+ - [http://www.showcase.ca](http://www.showcase.ca)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Siding in Canada, Canada
+ - [http://www.siding.ca](http://www.siding.ca)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Silo 57 | Inspirations décoration, roadtrip, resto & plus
+ - [https://www.silo57.ca](https://www.silo57.ca)
+ - date_published: 2024-08-19T08:10:42.064423+00:00
+
+ ## Home
+ - [https://simonandrews.ca](https://simonandrews.ca)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## New Book Releases, Bestsellers, Author Info and more at Simon &amp; Schuster Canada | Simon & Schuster Canada
+ - [https://simonandschuster.ca](https://simonandschuster.ca)
+ - date_published: 2023-10-25T12:07:24.063919+00:00
+
+ ## Home Decor, Home Goods and Furniture | Simone & Ivy | Alberta, Canada
+ - [https://simoneandivy.ca](https://simoneandivy.ca)
+ - date_published: 2024-08-11T21:38:02.023106+00:00
+
+ ## Simon Laroche Photographie | Photographe mariage, corporatif et lifestyle | Montréal & environs
+ - [https://www.simonlaroche.ca](https://www.simonlaroche.ca)
+ - date_published: 2024-09-05T11:29:48.068426+00:00
+
+ ## Simple Magic
+ - [https://www.simplemagic.ca](https://www.simplemagic.ca)
+ - date_published: 2024-09-17T17:03:24.726207+00:00
+
+ ## Really Great Tax Filing Software 2023 |  CRA & NETFILE-certified
+ - [https://simpletax.ca](https://simpletax.ca)
+ - date_published: 2024-06-16T15:05:41.978843+00:00
+
+ ## Login - SimplyCast.ca
+ - [https://app.simplycast.ca](https://app.simplycast.ca)
+ - date_published: 2024-06-16T09:01:21.817957+00:00
+
+ ## Sing UI
+ - [https://singui.ca](https://singui.ca)
+ - date_published: 2022-06-15T16:14:37+00:00
+
+ ## SIXT rent a car - Fast & Convenient Car Rentals
+ - [https://sixt.ca](https://sixt.ca)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Dianne Skoll's Web Site
+ - [https://dianne.skoll.ca](https://dianne.skoll.ca)
+ - date_published: 2024-06-18T12:43:52.235971+00:00
+
+ ## SkoolKit
+ - [https://skoolkit.ca](https://skoolkit.ca)
+ - date_published: 2024-05-11T12:32:16+00:00
 

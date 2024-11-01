@@ -1,319 +1,3 @@
- ## Home
- - [https://cyberfortress.ie](https://cyberfortress.ie)
- - date_published: 2024-06-29T06:03:50.235862+00:00
-
- ## Search Ireland's No. 1 Property Website | Daft.ie
- - [https://daft.ie](https://daft.ie)
- - date_published: 2024-06-30T06:57:18.529016+00:00
-
- ## damien.ie
- - [https://damien.ie](https://damien.ie)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Home
- - [https://www.darknessintolight.ie](https://www.darknessintolight.ie)
- - date_published: 2024-10-14T18:20:19.057678+00:00
-
- ## Homepage | Data Protection Commission
- - [https://dataprotection.ie](https://dataprotection.ie)
- - date_published: 2023-10-25T19:28:46.332271+00:00
-
- ## Data Protection Commission
- - [https://forms.dataprotection.ie](https://forms.dataprotection.ie)
- - date_published: 2024-08-19T03:24:03.987745+00:00
-
- ## David McWilliams
- - [http://www.davidmcwilliams.ie](http://www.davidmcwilliams.ie)
- - date_published: 2024-08-18T17:29:37.615896+00:00
-
- ## Home
- - [https://www.dcc.ie](https://www.dcc.ie)
- - date_published: 2024-08-05T21:42:39.492740+00:00
-
- ## Homepage - Design & Crafts Council Ireland
- - [https://www.dcci.ie](https://www.dcci.ie)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Dublin Community Television
- - [https://www.dctv.ie](https://www.dctv.ie)
- - date_published: 2024-09-13T19:33:29.373302+00:00
-
- ## DCU Web Login Service - Loading Session Information
- - [http://apps.dcu.ie](http://apps.dcu.ie)
- - date_published: 2024-07-14T13:34:23.157919+00:00
-
- ## Home - DCU Business School
- - [https://business.dcu.ie](https://business.dcu.ie)
- - date_published: 2021-07-29T08:38:39+00:00
-
- ## DCU Language Services | Home | Translation Agency in Dublin
- - [https://dculs.dcu.ie](https://dculs.dcu.ie)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Welcome to DORAS - DORAS
- - [http://doras.dcu.ie](http://doras.dcu.ie)
- - date_published: 2024-06-23T08:59:06.682872+00:00
-
- ## DCU Web Login Service - Loading Session Information
- - [http://login.mail.dcu.ie](http://login.mail.dcu.ie)
- - date_published: 2024-07-14T13:34:15.781748+00:00
-
- ## Log in to the site | DCU Loop
- - [https://loop.dcu.ie](https://loop.dcu.ie)
- - date_published: 2024-07-14T13:34:14.348316+00:00
-
- ## Dublin City University | DCU
- - [https://dcu.ie](https://dcu.ie)
- - date_published: 2022-01-09T20:20:00+00:00
-
- ## School of Electronic Engineering |
- - [http://www.eeng.dcu.ie](http://www.eeng.dcu.ie)
- - date_published: 2024-07-01T18:43:51+00:00
-
- ## DCU Accommodation – The City For Students
- - [https://www.dcuaccommodation.ie](https://www.dcuaccommodation.ie)
- - date_published: 2024-07-14T13:34:26.022601+00:00
-
- ## DCU ALPHA - Dublin's Hub of Invention
- - [https://www.dcualpha.ie](https://www.dcualpha.ie)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Home - DCU Educational Trust
- - [https://dcuedtrust.ie](https://dcuedtrust.ie)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## DCU Student Life
- - [https://dcustudentlife.ie](https://dcustudentlife.ie)
- - date_published: 2024-07-14T13:34:35.179471+00:00
-
- ## DCU Student Life
- - [https://www.dcusu.ie](https://www.dcusu.ie)
- - date_published: 2024-07-14T13:34:24.503520+00:00
-
- ## Home
- - [https://giftcard.decathlon.ie](https://giftcard.decathlon.ie)
- - date_published: 2024-09-19T13:47:27.267405+00:00
-
- ## Decathlon Ireland
- - [https://decathlon.ie](https://decathlon.ie)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Online Stockbroking | Low Fees | Trading | Broker DEGIRO
- - [https://www.degiro.ie](https://www.degiro.ie)
- - date_published: 2024-06-11T08:14:07+00:00
-
- ## Careers at Deliveroo - Discover a career full of possibility
- - [https://careers.deliveroo.ie](https://careers.deliveroo.ie)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Deliveroo
- - [https://deliveroo.ie](https://deliveroo.ie)
- - date_published: 2024-10-11T14:45:53.961525+00:00
-
- ## Conor Clarke & Company
- - [https://designfactory.ie](https://designfactory.ie)
- - date_published: 2024-10-14T22:07:09.896889+00:00
-
- ## Official Dianetics Site: Buy Hard Cover, Paperback and Audio Books by L. Ron Hubbard. Unlock the Potential of the Human Mind
- - [https://www.dianetics.ie](https://www.dianetics.ie)
- - date_published: 2024-09-04T18:05:11.499265+00:00
-
- ## DIAS Mastodon
- - [https://mastodon.dias.ie](https://mastodon.dias.ie)
- - date_published: 2024-09-10T09:41:15.757634+00:00
-
- ## DigiKey Home
- - [https://digikey.ie](https://digikey.ie)
- - date_published: 2024-05-01T05:05:04.761303+00:00
-
- ## Home - Digital Rights Ireland
- - [http://www.digitalrights.ie](http://www.digitalrights.ie)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Saint Patrick's Cathedral Tickets, Products, Bundles, Membership Plans - Buy Online
- - [https://stpatrickscathedral.digitickets.ie](https://stpatrickscathedral.digitickets.ie)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## eDIL - Irish Language Dictionary
- - [http://www.dil.ie](http://www.dil.ie)
- - date_published: 2024-06-30T07:24:51.118119+00:00
-
- ## Plan Your Next Adventure
- - [https://www.discoverireland.ie](https://www.discoverireland.ie)
- - date_published: 2024-06-20T21:30:53.636454+00:00
-
- ## Home - DMG Media
- - [https://dmgmedia.ie](https://dmgmedia.ie)
- - date_published: 2024-10-20T14:25:23.170311+00:00
-
- ## Multi-disciplinary property advisory in Ireland
- - [http://dng.ie](http://dng.ie)
- - date_published: 2024-07-13T19:34:24.231454+00:00
-
- ## Status overview
- - [https://downdetector.ie](https://downdetector.ie)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Customer Portal
- - [https://cp.dpd.ie](https://cp.dpd.ie)
- - date_published: 2024-06-16T19:51:35.317990+00:00
-
- ## DPD Ireland's largest courier company - Home
- - [https://dpd.ie](https://dpd.ie)
- - date_published: 2024-05-01T07:33:40.052509+00:00
-
- ## DPD Locator
- - [https://locator.dpd.ie](https://locator.dpd.ie)
- - date_published: 2023-03-14T10:23:19+00:00
-
- ## Homepage - Essays, Blog Posts & Book Reviews - Dublin Review of Books
- - [https://drb.ie](https://drb.ie)
- - date_published: 2023-10-25T19:28:48.128561+00:00
-
- ## The .ie Domain drop list - Dropped.ie - deleted and expired Irish domains | Dropped...
- - [http://dropped.ie](http://dropped.ie)
- - date_published: 2024-10-12T13:17:29.437231+00:00
-
- ## Information About Illegal Drugs & Alcohol Abuse - Drug-Free World
- - [https://www.drugfreeworld.ie](https://www.drugfreeworld.ie)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## 500
- - [https://i2-prod.dublinlive.ie](https://i2-prod.dublinlive.ie)
- - date_published: 2024-05-02T11:14:31.319532+00:00
-
- ## dúchas.ie
- - [https://www.duchas.ie](https://www.duchas.ie)
- - date_published: 2024-08-11T04:58:16.658546+00:00
-
- ## Dyson IE | Official Site
- - [https://www.dyson.ie](https://www.dyson.ie)
- - date_published: 2024-07-07T01:56:42.446809+00:00
-
- ## Home - Earagail Arts Festival | 13th - 28th July 2024
- - [http://eaf.ie](http://eaf.ie)
- - date_published: 2023-08-14T09:27:43+00:00
-
- ## eBay shopping cart
- - [https://cart.ebay.ie](https://cart.ebay.ie)
- - date_published: 2024-06-16T23:31:44.265476+00:00
-
- ## Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay
- - [http://ebay.ie](http://ebay.ie)
- - date_published: 2024-06-16T23:31:42.004234+00:00
-
- ## Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay
- - [http://m.ebay.ie](http://m.ebay.ie)
- - date_published: 2024-06-16T23:31:48.970215+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://mesg.ebay.ie](https://mesg.ebay.ie)
- - date_published: 2024-06-16T23:31:51.505170+00:00
-
- ## Electronics, Cars, Fashion, Collectibles & More | eBay
- - [https://motors.ebay.ie](https://motors.ebay.ie)
- - date_published: 2024-06-16T23:31:33.439319+00:00
-
- ## Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay
- - [https://pages.ebay.ie](https://pages.ebay.ie)
- - date_published: 2024-06-16T23:31:46.457620+00:00
-
- ## Sign in or Register | eBay
- - [https://pay.ebay.ie](https://pay.ebay.ie)
- - date_published: 2024-10-15T13:08:32.796408+00:00
-
- ## Security measure
- - [https://signin.ebay.ie](https://signin.ebay.ie)
- - date_published: 2024-06-16T23:31:38.685860+00:00
-
- ## Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay
- - [https://www.ebay.ie](https://www.ebay.ie)
- - date_published: 2024-05-01T08:16:05.224836+00:00
-
- ## eclipse
- - [http://www.eclipse.ie](http://www.eclipse.ie)
- - date_published: 2024-08-18T04:58:29.848383+00:00
-
- ## Department of Education
- - [http://www.education.ie](http://www.education.ie)
- - date_published: 2024-07-08T17:44:47.829742+00:00
-
- ## Finance Jobs, Banking and Tech Jobs - Ireland - eFinancialCareers
- - [https://www.efinancialcareers.ie](https://www.efinancialcareers.ie)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Elavon: Card Payment Solutions & Merchant Services
- - [https://www.elavon.ie](https://www.elavon.ie)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Ireland's Statutory, Independent Electoral Commission
- - [https://cdn.electoralcommission.ie](https://cdn.electoralcommission.ie)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Ireland's Statutory, Independent Electoral Commission
- - [https://electoralcommission.ie](https://electoralcommission.ie)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [http://www.electricpicnic.ie](http://www.electricpicnic.ie)
- - date_published: 2024-06-28T14:50:17.768434+00:00
-
- ## Elizabeth Fort
- - [http://www.elizabethfort.ie](http://www.elizabethfort.ie)
- - date_published: 2024-06-20T21:31:27.758627+00:00
-
- ## EMP | Music, Movie, TV & Gaming Merch | Alternative Clothing
- - [https://www.emp.ie](https://www.emp.ie)
- - date_published: 2024-07-24T06:34:45.023673+00:00
-
- ## Encom a leading provider of Electronic Security Systems and IT Systems in Dublin and to Irish businesses.
- - [https://encom.ie](https://encom.ie)
- - date_published: 2024-05-02T11:38:22.380581+00:00
-
- ## The English Market
- - [http://www.englishmarket.ie](http://www.englishmarket.ie)
- - date_published: 2024-06-20T21:31:06.232562+00:00
-
- ## Enterprise Car Club - Ireland
- - [https://www.enterprisecarclub.ie](https://www.enterprisecarclub.ie)
- - date_published: 2024-06-27T17:50:47+00:00
-
- ## eQualitie – digital security for civil society - eQualitie
- - [https://equalit.ie](https://equalit.ie)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Data Centre Company & Enterprise Network Technologies | Equinix
- - [https://www.equinix.ie](https://www.equinix.ie)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## EU Funds
- - [https://eufunds.ie](https://eufunds.ie)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Home - Eurodesk Ireland
- - [http://www.eurodesk.ie](http://www.eurodesk.ie)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Rent a Car & Van Worldwide with Europcar
- - [https://www.europcar.ie](https://www.europcar.ie)
- - date_published: 2024-10-20T14:12:47.821684+00:00
-
- ## Home Page | European Movement Ireland
- - [https://europeanmovement.ie](https://europeanmovement.ie)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Eventbrite
- - [https://eventbrite.ie](https://eventbrite.ie)
- - date_published: 2024-05-12T05:55:03.342597+00:00
-
- ## The Image File Photo Sales Template - Irish Examiner
- - [https://photos.examiner.ie](https://photos.examiner.ie)
- - date_published: 2024-08-18T10:52:43.631173+00:00
-
- ## Experian Ireland | Business Data, Analytical and Marketing Services
- - [https://www.experian.ie](https://www.experian.ie)
- - date_published: 2024-06-25T21:31:31.691970+00:00
-
  ## #FaceItDown
  - [https://www.faceitdown.ie](https://www.faceitdown.ie)
  - date_published: 2024-10-16T15:58:55.750580+00:00
@@ -4005,4 +3689,320 @@
  ## ZEISS Israel
  - [https://www.zeiss.co.il](https://www.zeiss.co.il)
  - date_published: 2024-09-16T07:55:45.530921+00:00
+
+ ## זמן ישראל | פוליטיקה · מדיניות · כלכלה · שלטון החוק
+ - [https://www.zman.co.il](https://www.zman.co.il)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.co.il](https://www2.zoetis.co.il)
+ - date_published: 2024-06-27T09:52:45+00:00
+
+ ## דף הבית | קמפוס IL
+ - [https://campus.gov.il](https://campus.gov.il)
+ - date_published: 2024-07-21T23:24:22.789887+00:00
+
+ ## הלשכה המרכזית לסטטיסטיקה - cbs.gov.il
+ - [https://cbs.gov.il](https://cbs.gov.il)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ - [https://supreme.court.gov.il](https://supreme.court.gov.il)
+ - date_published: 2024-01-09T03:32:15.467545+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.gov.il](https://www.gov.il)
+ - date_published: 2024-07-14T21:50:46.854906+00:00
+
+ ## https://www.idf.il
+ - [https://www.idf.il](https://www.idf.il)
+ - date_published: 2023-11-13T20:52:27.483837+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://acum.org.il](https://acum.org.il)
+ - date_published: 2024-05-10T05:57:02.182767+00:00
+
+ ## עמותת תפוח – Appleseeds – עמותת תפוח
+ - [https://appleseeds.org.il](https://appleseeds.org.il)
+ - date_published: 2024-07-04T12:27:41.249084+00:00
+
+ ## אגודת הסטודנטים בר אילן
+ - [https://www.bis.org.il](https://www.bis.org.il)
+ - date_published: 2024-08-07T15:11:49.111069+00:00
+
+ ## אתר בנק ישראל | הבנק המרכזי
+ - [https://www.boi.org.il](https://www.boi.org.il)
+ - date_published: 2024-10-06T17:00:50.255262+00:00
+
+ ## Breaking the Silence
+ - [https://www.breakingthesilence.org.il](https://www.breakingthesilence.org.il)
+ - date_published: 2024-06-18T16:24:43.641332+00:00
+
+ ## Homepage - BSF
+ - [http://www.bsf.org.il](http://www.bsf.org.il)
+ - date_published: 2024-10-27T07:55:20+00:00
+
+ ## עמותת מגן לזכויות אנושדף הבית של CCHR צפה בתשדירי השירות
+ - [http://www.cchr-israel.org.il](http://www.cchr-israel.org.il)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## עיר דוד - לסייר בין שכבות ההיסטוריה ולהתחבר לשורשים
+ - [http://www.cityofdavid.org.il](http://www.cityofdavid.org.il)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## מוזיאון גן המדע ע"ש קלור
+ - [https://gan-hamada.davidson.org.il](https://gan-hamada.davidson.org.il)
+ - date_published: 2024-06-15T01:34:50+00:00
+
+ ## The Dead Sea Scrolls
+ - [https://www.deadseascrolls.org.il](https://www.deadseascrolls.org.il)
+ - date_published: 2024-06-23T18:06:08.252850+00:00
+
+ ## דיאנטיקה: המדע המודרני של בריאות הנפש
+ - [https://www.dianetics.org.il](https://www.dianetics.org.il)
+ - date_published: 2024-06-17T16:42:14.923914+00:00
+
+ ## תולדות הדיגיטל בישראל – ארכיון תולדות המיחשוב, האינטרנט וההייטק בישראל
+ - [https://www.digital-archive.org.il](https://www.digital-archive.org.il)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## קרן אדמונד דה רוטשילד
+ - [https://edrf.org.il](https://edrf.org.il)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [https://epoch.org.il](https://epoch.org.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## אפוק - מגזין מרחיב דעת, מעורר מחשבה
+ - [https://shop.epoch.org.il](https://shop.epoch.org.il)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.football.org.il](https://www.football.org.il)
+ - date_published: 2024-07-21T21:39:15.959199+00:00
+
+ ## בתוך Scientology – הסיפור הלא מצונזר
+ - [https://www.freedommag.org.il](https://www.freedommag.org.il)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## GFI Israel – the Good Food Institute Israel - GFI Israel
+ - [https://gfi.org.il](https://gfi.org.il)
+ - date_published: 2021-05-14T14:45:29+00:00
+
+ ## פלאנט תוכנה חופשית בישראל (Planet FOSS-IL)
+ - [https://planet.hamakor.org.il](https://planet.hamakor.org.il)
+ - date_published: 2024-06-30T21:28:05.658029+00:00
+
+ ## המקור
+ - [https://www.hamakor.org.il](https://www.hamakor.org.il)
+ - date_published: 2024-07-04T12:26:51.616759+00:00
+
+ ## Main Page - Shalom Hartman Institute
+ - [https://hartman.org.il](https://hartman.org.il)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## מפעל המילון ההיסטורי
+ - [http://maagarim.hebrew-academy.org.il](http://maagarim.hebrew-academy.org.il)
+ - date_published: 2024-09-17T17:53:32.245170+00:00
+
+ ## Home
+ - [https://www.iaai.org.il](https://www.iaai.org.il)
+ - date_published: 2024-10-22T05:27:24.898368+00:00
+
+ ## Web App - Unavailable
+ - [http://www.iba.org.il](http://www.iba.org.il)
+ - date_published: 2024-06-27T07:47:33.867124+00:00
+
+ ## בית הספר למדעי המחשב
+ - [http://www.icore-algo.org.il](http://www.icore-algo.org.il)
+ - date_published: 2024-08-07T11:29:18+00:00
+
+ ## https://en.idi.org.il
+ - [https://en.idi.org.il](https://en.idi.org.il)
+ - date_published: 2023-12-31T18:32:18.786003+00:00
+
+ ## ILF - The Israeli Leadership Forum
+ - [https://ilf-en.org.il](https://ilf-en.org.il)
+ - date_published: 2024-06-26T18:34:34+00:00
+
+ ## Home | IMU
+ - [https://www.imu.org.il](https://www.imu.org.il)
+ - date_published: 2024-07-04T17:14:49.920950+00:00
+
+ ## עמותת עינבר - עמותה ישראלית לנפגעי מחלות ראומטיות, אוטואימוניות ודלקתיות
+ - [https://www.inbar.org.il](https://www.inbar.org.il)
+ - date_published: 2024-06-28T12:06:17.161336+00:00
+
+ ## חנן כהן / מידע דיגיטאלי
+ - [https://info.org.il](https://info.org.il)
+ - date_published: 2024-05-08T05:43:28.517171+00:00
+
+ ## עמוד הבית - איפה לומדים?
+ - [https://ipho2019.org.il](https://ipho2019.org.il)
+ - date_published: 2024-05-07T15:14:50.221204+00:00
+
+ ## לא רלוונטי | חנן כהן מגיב על מכתבי שרשרת ושמועות אינטרנט – מאז 2002
+ - [http://irrelevant.org.il](http://irrelevant.org.il)
+ - date_published: 2024-07-04T08:25:20.427940+00:00
+
+ ## Israel Science Foundation (ISF)
+ - [http://isf.org.il](http://isf.org.il)
+ - date_published: 2024-05-15T13:58:57+00:00
+
+ ## התאחדות משרדי הנסיעות ויועצי התיירות בישראל
+ - [http://www.ittaa.org.il](http://www.ittaa.org.il)
+ - date_published: 2024-10-21T21:57:40.691149+00:00
+
+ ## עמוד הבית - המרכז הירושלמי לענייני חוץ וביטחון
+ - [http://jcpa.org.il](http://jcpa.org.il)
+ - date_published: 2024-09-17T20:39:44+00:00
+
+ - [https://kan.org.il](https://kan.org.il)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## ניקיון משרדים במרכז - המקצוענים בניקיון משרדים!
+ - [http://www.keshev.org.il](http://www.keshev.org.il)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## אתר העפיפונים הישראלי
+ - [http://kites.org.il](http://kites.org.il)
+ - date_published: 2024-07-04T08:25:25.187432+00:00
+
+ ## ל. רון האברד – המייסד של Scientology ו-Dianetics
+ - [https://www.lronhubbard.org.il](https://www.lronhubbard.org.il)
+ - date_published: 2024-06-06T19:38:26.779991+00:00
+
+ ## כתבות, תחקירים וניתוח
+ - [http://mida.org.il](http://mida.org.il)
+ - date_published: 2024-08-18T15:32:01.680166+00:00
+
+ ## עמוד הבית - עמותת מפרקים צעירים
+ - [https://mifrakim.org.il](https://mifrakim.org.il)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Malmad Homepage
+ - [http://olduli.nli.org.il](http://olduli.nli.org.il)
+ - date_published: 2019-07-09T15:43:14+00:00
+
+ ## הספרייה הלאומית של ישראל
+ - [https://www.nli.org.il](https://www.nli.org.il)
+ - date_published: 2024-07-02T06:04:04.523713+00:00
+
+ ## OpsSchool | DevOps | Israel
+ - [https://opsschool.org.il](https://opsschool.org.il)
+ - date_published: 2024-07-04T12:27:23.381952+00:00
+
+ ## פרח | דף הבית
+ - [https://perach.org.il](https://perach.org.il)
+ - date_published: 2024-05-11T09:08:20.132479+00:00
+
+ ## המדויק והאמין ביותר
+ - [https://www.oca.scientology.org.il](https://www.oca.scientology.org.il)
+ - date_published: 2024-06-17T16:40:51.760046+00:00
+
+ ## האתר הרשמי של ארגון הסיינטולוגיה: ל. רון האברד, דיאנטיקה, מהי סיינטולוגיה?, ספרים, אמונות, דיוויד מיסקביג'
+ - [https://scientology.org.il](https://scientology.org.il)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## דת הסיינטולוגיה – הרקע, התיאולוגיה והעיסוק הדתי
+ - [https://www.scientologyreligion.org.il](https://www.scientologyreligion.org.il)
+ - date_published: 2024-06-06T19:41:18.731748+00:00
+
+ ## Sefaria: a Living Library of Jewish Texts Online
+ - [https://www.sefaria.org.il](https://www.sefaria.org.il)
+ - date_published: 2024-06-27T07:04:25.212147+00:00
+
+ ## מכון התקנים הישראלי
+ - [https://www.sii.org.il](https://www.sii.org.il)
+ - date_published: 2024-06-20T10:50:17.434164+00:00
+
+ ## Homepage - Steven Spielberg
+ - [https://spielbergfilmarchive.org.il](https://spielbergfilmarchive.org.il)
+ - date_published: 2023-11-13T12:53:02.637342+00:00
+
+ ## StatsCraft monitoring conference
+ - [https://statscraft.org.il](https://statscraft.org.il)
+ - date_published: 2023-10-01T14:48:40+00:00
+
+ ## קיבוץ תמוז - הקיבוץ העירוני בבית שמש
+ - [http://tamuz.org.il](http://tamuz.org.il)
+ - date_published: 2023-10-16T08:23:30+00:00
+
+ ## Israel Tech Policy Institute
+ - [https://techpolicy.org.il](https://techpolicy.org.il)
+ - date_published: 2024-06-18T17:36:36.642568+00:00
+
+ ## Home - The Meir Amit Intelligence and Terrorism Information Center
+ - [http://www.terrorism-info.org.il](http://www.terrorism-info.org.il)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## העין השביעית | ביקורת תקשורת ועיתונות
+ - [https://www.the7eye.org.il](https://www.the7eye.org.il)
+ - date_published: 2024-07-16T19:02:43+00:00
+
+ ## הדרך אל האושר: אופי מוסרי, לימוד, עצה טובה, ערכים אתיים, אמות מידה לחיים טובים יותר
+ - [http://www.thewaytohappiness.org.il](http://www.thewaytohappiness.org.il)
+ - date_published: 2024-09-04T17:52:38.360719+00:00
+
+ ## Wikimedia – מדריך לכתיבה אנציקלופדית
+ - [https://guide.wikimedia.org.il](https://guide.wikimedia.org.il)
+ - date_published: 2024-09-17T17:53:49.480421+00:00
+
+ ## ראשי - ויקימדיה ישראל
+ - [https://wikimedia.org.il](https://wikimedia.org.il)
+ - date_published: 2024-05-19T16:26:29+00:00
+
+ ## home page
+ - [https://wolffund.org.il](https://wolffund.org.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Error Page
+ - [https://yadvashem.org.il](https://yadvashem.org.il)
+ - date_published: 2024-09-19T01:16:58.947451+00:00
+
+ ## ארגון סגל ההוראה והמחקר באוניברסיטת תל אביב -  דף הבית
+ - [http://www.zutar.org.il](http://www.zutar.org.il)
+ - date_published: 2024-07-24T07:58:46.431854+00:00
+
+ ## 11d.im
+ - [https://11d.im](https://11d.im)
+ - date_published: 2024-05-09T07:51:10.157444+00:00
+
+ ## Bruno Adelé
+ - [http://bruno.adele.im](http://bruno.adele.im)
+ - date_published: 2016-03-09T09:21:25+00:00
+
+ ## Adium - Download
+ - [https://adium.im](https://adium.im)
+ - date_published: 2024-04-28T00:24:37.879324+00:00
+ - tags: ['social communicator', 'open source', 'chat']
+
+ ## Adium - Blog
+ - [https://blog.adium.im](https://blog.adium.im)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## The Affiliate Lab by Matt Diggity
+ - [http://affiliatelab.im](http://affiliatelab.im)
+ - date_published: 2022-05-22T13:21:36+00:00
+
+ ## Aleph.im
+ - [https://aleph.im](https://aleph.im)
+ - date_published: 2024-08-08T09:46:17+00:00
+
+ ## Angry.Im Software Forge
+ - [https://gitea.angry.im](https://gitea.angry.im)
+ - date_published: 2024-10-22T18:32:14.681178+00:00
+
+ ## Arena | Increase Engagement With Live Chat & Live Blog
+ - [https://arena.im](https://arena.im)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Avinash Sajjanshetty
+ - [https://avi.im](https://avi.im)
+ - date_published: 2023-10-25T19:29:34.523543+00:00
+ - tags: ['personal']
+
+ ## Beagle IM
+ - [https://beagle.im](https://beagle.im)
+ - date_published: 2023-06-22T15:09:33+00:00
 

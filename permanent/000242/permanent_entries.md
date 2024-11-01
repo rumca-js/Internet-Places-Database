@@ -1,301 +1,3 @@
- ## Craigory Coppola
- - [https://craigory.dev](https://craigory.dev)
- - date_published: 2024-07-18T02:09:50+00:00
-
- ## Cranelift
- - [https://cranelift.dev](https://cranelift.dev)
- - date_published: 2023-05-03T16:16:09+00:00
-
- ## Crawlee · Build reliable crawlers. Fast. | Crawlee
- - [https://crawlee.dev](https://crawlee.dev)
- - date_published: 2024-05-06T06:26:26.985096+00:00
- - tags: ['node.js', 'web scraping', 'programming library', 'python', 'open source']
-
- ## CrazyMax
- - [https://crazymax.dev](https://crazymax.dev)
- - date_published: 2024-04-08T19:27:34.886188+00:00
- - tags: ['personal']
-
- ## Doc
- - [https://doc.crds.dev](https://doc.crds.dev)
- - date_published: 2024-08-07T22:03:30.072896+00:00
-
- ## Create React App
- - [https://create-react-app.dev](https://create-react-app.dev)
- - date_published: 2022-03-24T20:09:17+00:00
-
- ## Christian Fei's Blog - cri.dev
- - [https://cri.dev](https://cri.dev)
- - date_published: 2023-10-25T08:58:26.480635+00:00
- - tags: ['personal']
-
- ## Plausible · Web analytics
- - [https://p.cri.dev](https://p.cri.dev)
- - date_published: 2024-04-29T07:34:06.303514+00:00
-
- ## Minimal Analytics
- - [https://s.cri.dev](https://s.cri.dev)
- - date_published: 2024-04-29T07:34:05.562487+00:00
-
- ## crowd.dev Changelog
- - [https://changelog.crowd.dev](https://changelog.crowd.dev)
- - date_published: 2024-07-18T13:06:14.310858+00:00
-
- ## crowd.dev | The Developer Data Platform
- - [https://crowd.dev](https://crowd.dev)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Home | Index
- - [https://docs.crowd.dev](https://docs.crowd.dev)
- - date_published: 2024-07-18T13:05:57.969724+00:00
-
- ## GO.CROWD.DEV - A Dub.co Custom Domain
- - [https://go.crowd.dev](https://go.crowd.dev)
- - date_published: 2024-07-18T13:06:09.399274+00:00
-
- ## Corbin Crutchley
- - [https://crutchcorn.dev](https://crutchcorn.dev)
- - date_published: 2024-07-02T20:47:15.492734+00:00
-
- ## Visual Studio Code for CS50
- - [https://cs50.dev](https://cs50.dev)
- - date_published: 2024-06-22T10:42:46.766783+00:00
-
- ## CSSBattle
- - [https://cssbattle.dev](https://cssbattle.dev)
- - date_published: 2024-09-04T06:46:46.542117+00:00
-
- ## Cthos (dot) Dev Mastodon
- - [https://mastodon.cthos.dev](https://mastodon.cthos.dev)
- - date_published: 2024-09-05T15:42:27.629652+00:00
-
- ## Chris Nicholas | Developer experience at Liveblocks
- - [https://ctnicholas.dev](https://ctnicholas.dev)
- - date_published: 2024-04-29T07:28:39.968298+00:00
-
- ## The Amazing CTO Book | Amazing CTO
- - [https://ctobook.dev](https://ctobook.dev)
- - date_published: 2024-07-26T12:49:07+00:00
-
- ## Cube — Semantic Layer for Building Data Applications
- - [https://cube.dev](https://cube.dev)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Cube Cloud – Deploy, Scale, and Optimize Your Cube Apps
- - [https://cubecloud.dev](https://cubecloud.dev)
- - date_published: 2024-08-08T23:24:24.640047+00:00
-
- ## CubeSigner, a refreshingly secure key manager
- - [https://cubist.dev](https://cubist.dev)
- - date_published: 2023-11-02T07:07:07+00:00
-
- ## Home | Cubxity — Full-stack Developer
- - [https://cubxity.dev](https://cubxity.dev)
- - date_published: 2023-10-25T18:37:05.670677+00:00
-
- ## Home | Cubxity's Docs
- - [https://docs.cubxity.dev](https://docs.cubxity.dev)
- - date_published: 2024-04-29T07:34:08.620870+00:00
-
- ## CuCoders | La plataforma de los programadores cubanos
- - [https://cucoders.dev](https://cucoders.dev)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## culp.dev
- - [https://culp.dev](https://culp.dev)
- - date_published: 2024-07-22T14:17:49+00:00
-
- ## Cup o' Go
- - [https://cupogo.dev](https://cupogo.dev)
- - date_published: 2024-08-19T17:24:26.191860+00:00
-
- ## CuPy
- - [https://cupy.dev](https://cupy.dev)
- - date_published: 2024-01-18T04:51:34+00:00
-
- ## Introduction - Everything curl
- - [https://everything.curl.dev](https://everything.curl.dev)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## README | Uncurled
- - [https://un.curl.dev](https://un.curl.dev)
- - date_published: 2024-04-10T12:32:31.612144+00:00
-
- ## Currents.dev
- - [https://app.currents.dev](https://app.currents.dev)
- - date_published: 2024-04-29T07:34:11.855164+00:00
-
- ## Feedback - Currents
- - [https://changelog.currents.dev](https://changelog.currents.dev)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Cypress and Playwright Dashboard. Debug, deflake and analyse CI tests in Cloud.
- - [https://currents.dev](https://currents.dev)
- - date_published: 2023-10-25T18:37:07.754644+00:00
-
- ## Join Curvenote on Slack
- - [https://slack.curvenote.dev](https://slack.curvenote.dev)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Amy is a cute iOS Developer
- - [https://cuteios.dev](https://cuteios.dev)
- - date_published: 2024-03-09T00:00:00+00:00
-
- ## Home | Cyberarm
- - [https://cyberarm.dev](https://cyberarm.dev)
- - date_published: 2021-05-12T00:00:00+00:00
-
- ## GoatCounter
- - [https://w3dhub.goat.cyberarm.dev](https://w3dhub.goat.cyberarm.dev)
- - date_published: 2024-07-01T09:32:41.988856+00:00
-
- ## Enhanced Data | cybernetic.dev
- - [https://cybernetic.dev](https://cybernetic.dev)
- - date_published: 2024-07-28T03:58:19.973287+00:00
-
- ## Cyber - Fast and concurrent scripting.
- - [https://cyberscript.dev](https://cyberscript.dev)
- - date_published: 2023-10-25T18:37:09.369506+00:00
-
- ## Go Links
- - [https://go.d1m.dev](https://go.d1m.dev)
- - date_published: 2024-07-02T20:42:52.590594+00:00
-
- ## Daggerverse
- - [https://daggerverse.dev](https://daggerverse.dev)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## 404 - Not Found
- - [https://playlists.dags.dev](https://playlists.dags.dev)
- - date_published: 2024-01-09T02:56:57.228309+00:00
-
- ## daily.dev | Where developers grow together
- - [https://api.daily.dev](https://api.daily.dev)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## daily.dev
- - [https://app.daily.dev](https://app.daily.dev)
- - date_published: 2024-04-11T15:15:32.032815+00:00
-
- ## Brand book
- - [https://brand.daily.dev](https://brand.daily.dev)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## daily.dev | Where developers grow together
- - [https://daily.dev](https://daily.dev)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Hello from daily.dev | daily.dev
- - [https://docs.daily.dev](https://docs.daily.dev)
- - date_published: 2024-08-08T22:10:05.674654+00:00
-
- ## BSA
- - [https://promote.daily.dev](https://promote.daily.dev)
- - date_published: 2023-12-19T15:12:59+00:00
-
- ## Rebrandly
- - [https://r.daily.dev](https://r.daily.dev)
- - date_published: 2022-07-05T08:14:45+00:00
-
- ## Swag Store by daily.dev
- - [https://store.daily.dev](https://store.daily.dev)
- - date_published: 2024-08-08T22:10:10.214581+00:00
-
- ## Dale French - Full Stack Developer
- - [https://dalefrench.dev](https://dalefrench.dev)
- - date_published: 2024-05-11T10:17:39.175311+00:00
-
- ## Plausible · Web analytics
- - [https://tele.dallen.dev](https://tele.dallen.dev)
- - date_published: 2024-09-04T15:38:38.645188+00:00
-
- ## Dana Ross — Engineering Leader, Full-Stack Developer, Certified Accessibility Professional
- - [https://danaross.dev](https://danaross.dev)
- - date_published: 2024-05-09T08:24:57.692036+00:00
-
- ## Dan Hannigan
- - [https://danhannigan.dev](https://danhannigan.dev)
- - date_published: 2024-08-08T12:49:26.818580+00:00
-
- ## Daniel's Site
- - [https://danielc.dev](https://danielc.dev)
- - date_published: 2024-07-28T20:23:01+00:00
-
- ## Daniel de Haas
- - [https://danielde.dev](https://danielde.dev)
- - date_published: 2024-09-16T13:12:52+00:00
-
- ## CV Daniël Krux
- - [https://danielkrux.dev](https://danielkrux.dev)
- - date_published: 2024-07-20T18:41:12.398545+00:00
-
- ## Home
- - [https://danielle-m.dev](https://danielle-m.dev)
- - date_published: 2024-05-11T10:07:50.906146+00:00
-
- ## Daniel Little Dev
- - [https://daniellittle.dev](https://daniellittle.dev)
- - date_published: 2024-06-01T05:05:51.788323+00:00
- - tags: ['personal']
-
- ## Daniel Patterson
- - [https://danielpatterson.dev](https://danielpatterson.dev)
- - date_published: 2023-11-23T00:33:06+00:00
-
- ## Introduction - Danswer Documentation
- - [https://docs.danswer.dev](https://docs.danswer.dev)
- - date_published: 2024-08-11T16:54:46.716842+00:00
-
- ## Dan Vega - Java Champion, Spring Developer Advocate, YouTuber and Lifelong Learner
- - [https://danvega.dev](https://danvega.dev)
- - date_published: 2024-01-21T00:00:00+00:00
- - tags: ['personal']
-
- ## dappKit - The simple way to start your web3 project
- - [https://dappkit.dev](https://dappkit.dev)
- - date_published: 2024-09-04T11:54:39.202279+00:00
-
- ## About dappKit | dappKit Documentation
- - [https://docs.dappkit.dev](https://docs.dappkit.dev)
- - date_published: 2024-09-04T11:54:32.595699+00:00
-
- ## @taikai/dappkit
- - [https://sdk.dappkit.dev](https://sdk.dappkit.dev)
- - date_published: 2023-03-13T10:01:42+00:00
-
- ## A blog by Yosua Ian Sebastian
- - [https://darcien.dev](https://darcien.dev)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## Darcien Home Lab Status
- - [https://status.darcien.dev](https://status.darcien.dev)
- - date_published: 2024-06-15T07:24:25.546591+00:00
-
- ## Dart - Dart API docs
- - [https://api.dart.dev](https://api.dart.dev)
- - date_published: 2024-06-23T10:42:02.712465+00:00
-
- ## Dart programming language
- - [https://dart.dev](https://dart.dev)
- - date_published: 2024-04-28T02:26:06.253045+00:00
-
- ## DartPad
- - [https://dartpad.dev](https://dartpad.dev)
- - date_published: 2024-04-29T07:44:11.474614+00:00
- - tags: ['dart', 'editor', 'flutter']
-
- ## Show HN: Darwin – Automate Your GitHub Project with AI
- - [https://darwin-ai.dev](https://darwin-ai.dev)
- - date_published: 2024-02-26T17:33:06+00:00
-
- ## dasdom.dev
- - [https://dasdom.dev](https://dasdom.dev)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Osman Cea
- - [https://daslaf.dev](https://daslaf.dev)
- - date_published: 2024-05-09T08:25:50.170872+00:00
-
  ## dasun.dev - Laravel Developer
  - [https://www.dasun.dev](https://www.dasun.dev)
  - date_published: 2024-06-01T00:00:00+00:00
@@ -4077,4 +3779,305 @@
  ## Linen | Front page for your Slack and Discord Communities
  - [https://linen.dev](https://linen.dev)
  - date_published: 2024-07-10T11:06:17.862896+00:00
+
+ ## 社区首页 - 如意玲珑 Linyaps | 如意玲珑社区官网
+ - [https://linglong.dev](https://linglong.dev)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## linnenberg.dev - Personal blog of Ferdinand Linnenberg
+ - [https://linnenberg.dev](https://linnenberg.dev)
+ - date_published: 2024-01-26T19:46:41+00:00
+
+ ## Sign in - Matomo
+ - [https://a.linus.dev](https://a.linus.dev)
+ - date_published: 2024-07-02T19:49:39.676770+00:00
+
+ ## Home — Linus Groh
+ - [https://linus.dev](https://linus.dev)
+ - date_published: 2024-05-07T23:23:07.085742+00:00
+
+ ## Services
+ - [https://services.linus.dev](https://services.linus.dev)
+ - date_published: 2023-09-22T04:49:35+00:00
+
+ ## Sign In | Shynet
+ - [https://shynet.linus.dev](https://shynet.linus.dev)
+ - date_published: 2024-07-02T19:49:41.222314+00:00
+
+ ## Test Page for the HTTP Server on Fedora
+ - [https://netdev.bots.linux.dev](https://netdev.bots.linux.dev)
+ - date_published: 2023-02-20T17:42:39+00:00
+
+ ## flag-icons: Free Country Flags in SVG
+ - [https://flagicons.lipis.dev](https://flagicons.lipis.dev)
+ - date_published: 2024-06-06T10:25:48+00:00
+
+ ## Lit
+ - [https://lit.dev](https://lit.dev)
+ - date_published: 2023-10-25T18:39:24.294606+00:00
+
+ ## Litestar
+ - [https://blog.litestar.dev](https://blog.litestar.dev)
+ - date_published: 2024-05-09T07:23:19.905496+00:00
+
+ ## Page Redirection
+ - [https://docs.litestar.dev](https://docs.litestar.dev)
+ - date_published: 2024-05-09T07:23:07.591958+00:00
+
+ ## Litestar – powerful, flexible, and highly performant Python ASGI framework
+ - [https://litestar.dev](https://litestar.dev)
+ - date_published: 2024-02-26T22:38:07+00:00
+
+ ## Home - Livebook.dev
+ - [https://livebook.dev](https://livebook.dev)
+ - date_published: 2024-04-30T00:29:09.957709+00:00
+
+ ## Livebook.dev - The Livebook Blog
+ - [https://news.livebook.dev](https://news.livebook.dev)
+ - date_published: 2023-10-25T18:39:31.130189+00:00
+
+ ## LiveCharts - LiveCharts2
+ - [https://livecharts.dev](https://livecharts.dev)
+ - date_published: 2024-05-07T16:04:25.565896+00:00
+
+ ## LizardByte
+ - [https://app.lizardbyte.dev](https://app.lizardbyte.dev)
+ - date_published: 2024-06-16T19:39:53+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.lab.llcoolserver.dev](https://plausible.lab.llcoolserver.dev)
+ - date_published: 2024-09-09T21:48:36.681062+00:00
+
+ ## Oxford LLMs
+ - [https://www.llmsforsocialsciene.dev](https://www.llmsforsocialsciene.dev)
+ - date_published: 2023-08-31T00:00:00+00:00
+
+ ## 502 Bad Gateway
+ - [https://git.l-m.dev](https://git.l-m.dev)
+ - date_published: 2024-04-29T07:57:00.329691+00:00
+
+ ## l-m.dev | Home
+ - [https://l-m.dev](https://l-m.dev)
+ - date_published: 2023-10-25T18:39:02.477432+00:00
+
+ ## 502 Bad Gateway
+ - [https://me.l-m.dev](https://me.l-m.dev)
+ - date_published: 2024-04-29T07:56:53.882906+00:00
+
+ ## Sidebar For Tiny Theme
+ - [https://sidebar-for-tiny-theme.lmika.dev](https://sidebar-for-tiny-theme.lmika.dev)
+ - date_published: 2024-04-06T02:02:05+00:00
+
+ ## Local-First Web Development
+ - [https://localfirstweb.dev](https://localfirstweb.dev)
+ - date_published: 2023-10-25T18:39:34.514760+00:00
+ - tags: ['web design', 'programming philosophy']
+
+ ## localghost
+ - [https://localghost.dev](https://localghost.dev)
+ - date_published: 2024-01-07T19:02:10.388264+00:00
+
+ ## type__error’s Twitter Archive
+ - [https://twitter.localghost.dev](https://twitter.localghost.dev)
+ - date_published: 2022-11-20T00:00:00+00:00
+
+ ## Lodash
+ - [https://lodash.dev](https://lodash.dev)
+ - date_published: 2024-07-12T17:58:28.127804+00:00
+
+ ## LogalDeveloper
+ - [https://logal.dev](https://logal.dev)
+ - date_published: 2024-07-24T21:29:22.024060+00:00
+ - tags: ['personal']
+
+ ## Logdy
+ - [https://demo.logdy.dev](https://demo.logdy.dev)
+ - date_published: 2024-04-30T00:31:38.931646+00:00
+
+ ## Logdy
+ - [https://logdy.dev](https://logdy.dev)
+ - date_published: 2024-02-06T21:45:51.770938+00:00
+
+ ## Logo API | Logo.dev Company and Brand API
+ - [https://img.logo.dev](https://img.logo.dev)
+ - date_published: 2024-07-01T05:02:19.826170+00:00
+
+ ## Logo API | Logo.dev Company and Brand API
+ - [https://www.logo.dev](https://www.logo.dev)
+ - date_published: 2024-07-01T05:02:23.482421+00:00
+
+ ## Logpipe
+ - [https://logpipe.dev](https://logpipe.dev)
+ - date_published: 2024-04-29T07:41:10.653688+00:00
+
+ ## Michi's Blog
+ - [https://blog.lohr.dev](https://blog.lohr.dev)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Michael Lohr
+ - [https://lohr.dev](https://lohr.dev)
+ - date_published: 2024-01-27T17:17:02+00:00
+
+ ## Doug Hammond
+ - [https://doug.lon.dev](https://doug.lon.dev)
+ - date_published: 2024-01-31T16:19:06.866893+00:00
+
+ ## Umami
+ - [https://analytics.lorendb.dev](https://analytics.lorendb.dev)
+ - date_published: 2024-04-30T00:31:50.044212+00:00
+
+ ## Loren's blog
+ - [https://lorendb.dev](https://lorendb.dev)
+ - date_published: 2024-01-05T15:16:20.712582+00:00
+
+ ## lorenzofox blog | Lorenzofox's dev blog
+ - [https://lorenzofox.dev](https://lorenzofox.dev)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Loro – Reimagine state management with CRDTs – Loro
+ - [https://loro.dev](https://loro.dev)
+ - date_published: 2024-04-30T00:29:47.979139+00:00
+
+ ## Lotus Docs | A Hugo Documentation Theme
+ - [https://lotusdocs.dev](https://lotusdocs.dev)
+ - date_published: 2024-05-16T02:48:08.499254+00:00
+
+ ## Lovable - The last piece of software
+ - [https://lovable.dev](https://lovable.dev)
+ - date_published: 2024-07-13T14:13:39.225321+00:00
+
+ ## Hello, I'm Lubna - Front-End Web Developer & CSS Specialist
+ - [https://lubna.dev](https://lubna.dev)
+ - date_published: 2024-03-14T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Lucas L Jordan
+ - [https://lucasjordan.dev](https://lucasjordan.dev)
+ - date_published: 2024-06-01T02:07:10+00:00
+
+ ## Lucas Queiroz | Backend Developer
+ - [https://lucasqueiroz.dev](https://lucasqueiroz.dev)
+ - date_published: 2024-05-11T10:07:45.409478+00:00
+
+ ## Lucas van Dongen - Mobile iOS and macOS Consultancy, Programming and Software Development Process Manager
+ - [https://lucasvandongen.dev](https://lucasvandongen.dev)
+ - date_published: 2024-06-23T14:50:07.145117+00:00
+
+ ## Index – Guide
+ - [https://guidelines.luckymedia.dev](https://guidelines.luckymedia.dev)
+ - date_published: 2024-06-19T09:28:57.764674+00:00
+
+ ## Lucky Media
+ - [https://luckymedia.dev](https://luckymedia.dev)
+ - date_published: 2022-09-12T00:00:00+00:00
+
+ ## Luckymike's Tech Notes
+ - [https://luckymike.dev](https://luckymike.dev)
+ - date_published: 2024-10-10T09:54:16.645453+00:00
+ - tags: ['personal']
+
+ ## Luigi Cruz - Software Developer
+ - [https://luigicruz.dev](https://luigicruz.dev)
+ - date_published: 2024-05-11T10:21:49.476512+00:00
+
+ ## luizdepra
+ - [https://luizdepra.dev](https://luizdepra.dev)
+ - date_published: 2024-02-09T14:05:09.032954+00:00
+ - tags: ['personal']
+
+ ## Lukas Hermann – Bootstraping a profitable business
+ - [https://lukashermann.dev](https://lukashermann.dev)
+ - date_published: 2023-10-25T18:39:36.060648+00:00
+
+ ## Lunar | Ground Control for 3rd Party APIs
+ - [https://lunar.dev](https://lunar.dev)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Lunni
+ - [https://lunni.dev](https://lunni.dev)
+ - date_published: 2024-09-02T09:52:08.330849+00:00
+
+ ## lunnova.dev
+ - [https://lunnova.dev](https://lunnova.dev)
+ - date_published: 2023-10-25T18:39:36.570613+00:00
+
+ ## Eddy Luten
+ - [https://luten.dev](https://luten.dev)
+ - date_published: 2024-05-30T17:43:34+00:00
+ - tags: ['personal']
+
+ ## MinIO Console
+ - [https://minio-api.cr.lvtd.dev](https://minio-api.cr.lvtd.dev)
+ - date_published: 2024-06-20T15:40:31+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.cr.lvtd.dev](https://plausible.cr.lvtd.dev)
+ - date_published: 2024-05-07T10:27:23.964670+00:00
+
+ ## Lightning Web Components foundation - OSS Documentation
+ - [https://lwc.dev](https://lwc.dev)
+ - date_published: 2024-08-19T06:53:07.528895+00:00
+
+ ## Learn. Build. Grow. Together.
+ - [https://lwj.dev](https://lwj.dev)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## lyte.dev
+ - [https://lyte.dev](https://lyte.dev)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Index • lzrd.dev
+ - [https://lzrd.dev](https://lzrd.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## MΛX - Home
+ - [https://m4xc.dev](https://m4xc.dev)
+ - date_published: 2024-10-25T10:39:44+00:00
+
+ ## Scott Mabin
+ - [https://mabez.dev](https://mabez.dev)
+ - date_published: 2023-10-25T08:48:38.285682+00:00
+ - tags: ['personal']
+
+ ## Maggie's Website
+ - [https://maggieliu.dev](https://maggieliu.dev)
+ - date_published: 2024-04-30T07:46:34.412779+00:00
+ - tags: ['personal']
+
+ ## Magic
+ - [https://magic.dev](https://magic.dev)
+ - date_published: 2024-07-08T08:34:44.956948+00:00
+
+ ## Magic Eden Developer
+ - [https://api.magiceden.dev](https://api.magiceden.dev)
+ - date_published: 2024-08-06T16:23:47.318560+00:00
+
+ ## Magic Loops
+ - [https://blog.magicloops.dev](https://blog.magicloops.dev)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Magic Loops
+ - [https://magicloops.dev](https://magicloops.dev)
+ - date_published: 2023-10-25T18:39:37.627469+00:00
+ - tags: ['artificial intelligence', 'llm', 'web scraping']
+
+ ## Mahmoud Ashraf
+ - [https://mahmoudashraf.dev](https://mahmoudashraf.dev)
+ - date_published: 2024-05-07T23:24:34.732828+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://mahood.dev](https://mahood.dev)
+ - date_published: 2024-05-14T03:31:06.625410+00:00
+
+ ## Never let a missed email cost you money again! | Mailfox
+ - [https://www.mailfox.dev](https://www.mailfox.dev)
+ - date_published: 2024-07-15T06:36:35+00:00
+
+ ## mais.dev
+ - [https://mais.dev](https://mais.dev)
+ - date_published: 2022-12-16T02:19:31+00:00
+
+ ## Programming nursery of finished & unfinished projects by ranuzz
+ - [https://makeall.dev](https://makeall.dev)
+ - date_published: 2024-06-23T17:34:43.620093+00:00
 

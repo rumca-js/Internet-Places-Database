@@ -1,119 +1,3 @@
- ## Industry
- - [http://www.itworld.com](http://www.itworld.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Technology News for IT Professionals in Canada | IT World Canada
- - [https://itworldcanada.com](https://itworldcanada.com)
- - date_published: 2023-11-26T23:26:37.745369+00:00
-
- ## ITX blockchain explorer - View ITX stats
- - [https://explorer.itxchain.com](https://explorer.itxchain.com)
- - date_published: 2024-09-24T05:56:15.249811+00:00
-
- ## ITX blockchain explorer - View ITX stats
- - [https://explorer.testnet.itxchain.com](https://explorer.testnet.itxchain.com)
- - date_published: 2024-09-24T10:29:59.377271+00:00
-
- ## Itzik Ben Shabat Research - ITZIK BEN SHABAT
- - [https://www.itzikbs.com](https://www.itzikbs.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Welcome to our career site - iubenda
- - [https://careers.iubenda.com](https://careers.iubenda.com)
- - date_published: 2024-09-30T11:37:19.422949+00:00
-
- ## Compliance Solutions for Websites, Apps and Organizations | iubenda
- - [https://iubenda.com](https://iubenda.com)
- - date_published: 2024-05-02T10:15:02.872471+00:00
-
- ## Support
- - [https://support.iubenda.com](https://support.iubenda.com)
- - date_published: 2024-06-17T14:40:44.484246+00:00
-
- ## Indiana University Athletics - Official Athletics Website
- - [https://iuhoosiers.com](https://iuhoosiers.com)
- - date_published: 2024-07-21T21:42:05.943280+00:00
-
- ## Iulius Mall Cluj
- - [https://cluj.iuliusmall.com](https://cluj.iuliusmall.com)
- - date_published: 2024-06-21T03:24:03.636483+00:00
-
- ## A World of Publishing | iUniverse
- - [https://www.iuniverse.com](https://www.iuniverse.com)
- - date_published: 2024-06-27T11:52:17.056540+00:00
-
- ## John Lam's Blog
- - [https://www.iunknown.com](https://www.iunknown.com)
- - date_published: 1997-01-01T00:00:00+00:00
-
- ## iuvity | Soluciones digitales para el sector financiero
- - [https://info.iuvity.com](https://info.iuvity.com)
- - date_published: 2024-09-16T17:07:15+00:00
-
- ## iuvity | Soluciones digitales para el sector financiero
- - [https://iuvity.com](https://iuvity.com)
- - date_published: 2024-09-16T17:07:19+00:00
-
- ## Home - Iva Cheung
- - [https://ivacheung.com](https://ivacheung.com)
- - date_published: 2024-04-29T03:19:07.648784+00:00
-
- ## Computer Vision Research Group | Intelligent Visual Analytics Lab
- - [https://www.ival-mbzuai.com](https://www.ival-mbzuai.com)
- - date_published: 2024-06-19T19:10:56.159911+00:00
-
- ## Ivana Larrosa | New York | Video Installation Artist | Performance Artist |
- - [https://ivanalarrosa.com](https://ivanalarrosa.com)
- - date_published: 2024-04-03T12:46:16.594894+00:00
- - tags: ['personal']
-
- ## Ivan Brunetti: Corpus Operis, Artium Venales et Libri.
- - [http://www.ivanbrunetti.com](http://www.ivanbrunetti.com)
- - date_published: 2024-10-21T05:17:17.814488+00:00
-
- ## Home - Ivan Duch
- - [https://ivanduch.com](https://ivanduch.com)
- - date_published: 2024-02-22T16:57:51+00:00
- - tags: ['music artist']
-
- ## ivanjcruz
- - [https://ivanjcruz.com](https://ivanjcruz.com)
- - date_published: 2024-06-16T01:23:39.902732+00:00
-
- ## iVANKY - Pro Docking Stations, Plug-and-Play Tech Accessories
- - [https://ivanky.com](https://ivanky.com)
- - date_published: 2024-02-24T10:01:42.292769+00:00
-
- ## Ivan Leo's Blog
- - [http://ivanleo.com](http://ivanleo.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Ivan Lukianchuk – Who is he? Does he know things? Let's find out!
- - [https://ivanlukianchuk.com](https://ivanlukianchuk.com)
- - date_published: 2023-12-23T07:30:09.747818+00:00
- - tags: ['personal']
-
- ## password
- - [https://www.ivanmakarov.com](https://www.ivanmakarov.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Blog
- - [https://ivanmontilla.com](https://ivanmontilla.com)
- - date_published: 2024-05-09T08:14:50.546789+00:00
-
- ## Ivan Moreale
- - [https://ivanmoreale.com](https://ivanmoreale.com)
- - date_published: 2024-05-04T14:15:26.512204+00:00
- - tags: ['personal']
-
- ## IOG Bike Fit and Consulting
- - [https://www.ivanogorman.com](https://www.ivanogorman.com)
- - date_published: 2024-07-13T02:55:28.943209+00:00
-
- ## Ivanti Community
- - [https://forums.ivanti.com](https://forums.ivanti.com)
- - date_published: 2023-09-30T00:44:26+00:00
-
  ## Ivanti - Everywhere Work. Elevated.
  - [https://www.ivanti.com](https://www.ivanti.com)
  - date_published: 2024-09-28T16:22:36+00:00
@@ -628,10 +512,6 @@
  ## International broker Just2trade
  - [https://j2t.com](https://j2t.com)
  - date_published: 2024-08-18T04:22:13+00:00
-
- ## Javvad Malik
- - [https://www.j4vv4d.com](https://www.j4vv4d.com)
- - date_published: 2024-06-19T22:55:57.579194+00:00
 
  ## _/ /\/\/\ /\/\
  - [https://www.jaaam.com](https://www.jaaam.com)
@@ -3081,10 +2961,6 @@
  - [https://um.jarylchng.com](https://um.jarylchng.com)
  - date_published: 2024-05-18T02:43:07.098605+00:00
 
- ## Specialist in packaging solutions and packaging equipment | JASA
- - [https://www.jasapackaging.com](https://www.jasapackaging.com)
- - date_published: 2024-06-19T21:11:32+00:00
-
  ## PaintShop Pro 2022 | Download Your Free Trial
  - [http://jasc.com](http://jasc.com)
  - date_published: 2024-08-18T21:44:12.446519+00:00
@@ -4093,4 +3969,126 @@
  ## Blog
  - [https://jcarlosroldan.com](https://jcarlosroldan.com)
  - date_published: 2024-01-16T14:31:47.065590+00:00
+
+ ## Juan C. Roldán blog
+ - [http://old.jcarlosroldan.com](http://old.jcarlosroldan.com)
+ - date_published: 2024-08-18T02:38:39.512576+00:00
+
+ ## JuanCRoldan's personal website
+ - [http://reallyold.jcarlosroldan.com](http://reallyold.jcarlosroldan.com)
+ - date_published: 2024-08-18T02:38:27.212832+00:00
+
+ ## JCB Home | Request a price | JCB.com
+ - [https://www.jcb.com](https://www.jcb.com)
+ - date_published: 2024-07-12T13:23:12.291660+00:00
+
+ ## jcbages
+ - [https://jcbages.com](https://jcbages.com)
+ - date_published: 2023-12-28T22:25:50.202379+00:00
+ - tags: ['personal']
+
+ ## Kerni
+ - [https://kerni.jcbages.com](https://kerni.jcbages.com)
+ - date_published: 2023-06-01T02:41:46+00:00
+
+ ## JCB USA – International Payment Brand from Japan
+ - [http://www.jcbusa.com](http://www.jcbusa.com)
+ - date_published: 2024-07-03T17:19:01.389843+00:00
+
+ ## Python, SEO, Machine Learning & Web Dev - JC Chouinard
+ - [https://www.jcchouinard.com](https://www.jcchouinard.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.jcclgroup.com](https://www.jcclgroup.com)
+ - date_published: 2024-07-03T04:00:02+00:00
+
+ ## Event Management
+ - [https://marketing-fr.jcdecaux.com](https://marketing-fr.jcdecaux.com)
+ - date_published: 2024-06-15T01:04:44.656576+00:00
+
+ ## Home | JCDecaux
+ - [https://jcdecaux.com](https://jcdecaux.com)
+ - date_published: 2024-06-15T01:04:46.629667+00:00
+
+ ## - - JC de Merez
+ - [https://jcdemerez.com](https://jcdemerez.com)
+ - date_published: 2023-12-21T08:24:43.653625+00:00
+ - tags: ['personal']
+
+ ## JCFrog home
+ - [https://jcfrog.com](https://jcfrog.com)
+ - date_published: 2024-07-08T11:03:46.269073+00:00
+
+ ## JCharisTech
+ - [https://blog.jcharistech.com](https://blog.jcharistech.com)
+ - date_published: 2024-06-22T22:51:46.536867+00:00
+
+ ## JCharisTech
+ - [https://jcharistech.com](https://jcharistech.com)
+ - date_published: 2021-11-01T19:57:45+00:00
+
+ ## Helicopter to Work
+ - [http://www.jchernov.com](http://www.jchernov.com)
+ - date_published: 2013-09-27T00:00:00+00:00
+
+ ## Jcink.com Forum Hosting
+ - [http://jcink.com](http://jcink.com)
+ - date_published: 2024-10-24T14:07:17.047900+00:00
+
+ ## Human Verification Check
+ - [http://luxlunae.b1.jcink.com](http://luxlunae.b1.jcink.com)
+ - date_published: 2024-07-17T23:32:46.107276+00:00
+
+ ## The Strider Citadel
+ - [http://stridercitadel.b1.jcink.com](http://stridercitadel.b1.jcink.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## The Aurora: A His Dark Materials RP
+ - [http://theaurorarp.b1.jcink.com](http://theaurorarp.b1.jcink.com)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Jersey City Times - The Place for Jersey City News
+ - [https://jcitytimes.com](https://jcitytimes.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Hack The World · Juan Carlos Jimenez
+ - [https://jcjc-dev.com](https://jcjc-dev.com)
+ - date_published: 2023-10-25T15:27:34.864299+00:00
+
+ ## James Clark's Random Thoughts
+ - [http://blog.jclark.com](http://blog.jclark.com)
+ - date_published: 2024-07-23T07:32:00+00:00
+
+ ## https://www.jclinepi.com
+ - [https://jclinepi.com](https://jclinepi.com)
+ - date_published: 2023-10-25T15:27:36.093054+00:00
+
+ ## 请输入验证码
+ - [https://www.jcloud.com](https://www.jcloud.com)
+ - date_published: 2024-06-22T12:10:21.488104+00:00
+
+ ## MADE-TO-ORDER, MADE IN ITALY, CUSTOMIZED PREMIUM SNEAKERS J.C.LUTZ - Made-To-Order, Customized Premium Shoes
+ - [https://www.jclutz.com](https://www.jclutz.com)
+ - date_published: 2024-09-04T18:02:42.588306+00:00
+
+ ## Home - Joe's Computer Museum
+ - [https://jcm-1.com](https://jcm-1.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home | JC Media Group
+ - [https://www.jcmediagroup.com](https://www.jcmediagroup.com)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Bob Dylan's Skipping Reels of Rhyme
+ - [https://jcodybobdylanwords.com](https://jcodybobdylanwords.com)
+ - date_published: 2024-06-30T01:15:33.608189+00:00
+
+ ## Look at the Birdie
+ - [http://birdie.jcoglan.com](http://birdie.jcoglan.com)
+ - date_published: 2024-07-14T10:54:10.929346+00:00
+
+ ## The If Works – The If Works
+ - [https://blog.jcoglan.com](https://blog.jcoglan.com)
+ - date_published: 2023-10-25T15:27:36.894719+00:00
 

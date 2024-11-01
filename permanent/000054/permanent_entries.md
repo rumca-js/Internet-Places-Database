@@ -1,47 +1,3 @@
- ## Beaver notes
- - [http://bobrochel.blogspot.com](http://bobrochel.blogspot.com)
- - date_published: 2024-02-08T11:49:18+00:00
-
- ## Anything Goes
- - [http://bobrozakis.blogspot.com](http://bobrozakis.blogspot.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Bob Sanchez
- - [http://bobsanchez1.blogspot.com](http://bobsanchez1.blogspot.com)
- - date_published: 2024-10-17T22:52:34.808977+00:00
-
- ## Bob's development blog
- - [http://bobthegnome.blogspot.com](http://bobthegnome.blogspot.com)
- - date_published: 2024-09-17T05:58:55+00:00
-
- ## Blogger
- - [http://bobthegreatblog.blogspot.com](http://bobthegreatblog.blogspot.com)
- - date_published: 2024-07-09T14:32:02.498178+00:00
-
- ## Climate Observations
- - [http://bobtisdale.blogspot.com](http://bobtisdale.blogspot.com)
- - date_published: 2024-03-24T23:32:31+00:00
-
- ## Bodemer Typewriter Collection
- - [http://bodemertypewriter.blogspot.com](http://bodemertypewriter.blogspot.com)
- - date_published: 2024-03-06T01:20:36+00:00
-
- ## Software Defined Boden
- - [http://bodenr.blogspot.com](http://bodenr.blogspot.com)
- - date_published: 2024-09-03T06:04:50+00:00
-
- ## Puget Sound - Boeing Test Flights
- - [https://boeing-test-flights.blogspot.com](https://boeing-test-flights.blogspot.com)
- - date_published: 2024-05-09T06:48:25.479021+00:00
-
- ## Boel Family Craze
- - [http://boelfamilycraze.blogspot.com](http://boelfamilycraze.blogspot.com)
- - date_published: 2024-03-19T12:12:57+00:00
-
- ## Boffy's Blog
- - [http://boffyblog.blogspot.com](http://boffyblog.blogspot.com)
- - date_published: 2024-10-21T17:27:51.336653+00:00
-
  ## O My Ruritania!
  - [http://bogdanwaz.blogspot.com](http://bogdanwaz.blogspot.com)
  - date_published: 2024-07-15T11:00:51+00:00
@@ -4010,4 +3966,48 @@
  ## DerechoMercantil
  - [http://derechomercantilespana.blogspot.com](http://derechomercantilespana.blogspot.com)
  - date_published: 2024-10-18T19:20:31.736084+00:00
+
+ ## Derecho de la Competencia - Antitrust Law
+ - [https://derechoycompetencia.blogspot.com](https://derechoycompetencia.blogspot.com)
+ - date_published: 2024-10-18T19:20:10.753713+00:00
+
+ ## Derek Landy Blogs Under Duress
+ - [http://dereklandy.blogspot.com](http://dereklandy.blogspot.com)
+ - date_published: 2024-10-24T13:38:22+00:00
+
+ ## Derek says:
+ - [http://derek-says.blogspot.com](http://derek-says.blogspot.com)
+ - date_published: 2024-06-03T09:10:51+00:00
+
+ ## Der Figurenschieber
+ - [http://derfigurenschieber.blogspot.com](http://derfigurenschieber.blogspot.com)
+ - date_published: 2024-06-15T06:01:22+00:00
+
+ ## Derk's miniatures blog
+ - [http://derkg.blogspot.com](http://derkg.blogspot.com)
+ - date_published: 2024-09-09T15:15:59+00:00
+
+ ## Derrick Bang on Film
+ - [https://derrickbang.blogspot.com](https://derrickbang.blogspot.com)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## El Descanso del Escriba
+ - [https://descansodelescriba.blogspot.com](https://descansodelescriba.blogspot.com)
+ - date_published: 2024-06-18T07:17:42+00:00
+
+ ## Descriptively Adequate
+ - [https://descriptively.blogspot.com](https://descriptively.blogspot.com)
+ - date_published: 2024-02-08T00:45:16+00:00
+
+ ## Desert Cat's Paradise
+ - [http://desertcat.blogspot.com](http://desertcat.blogspot.com)
+ - date_published: 2024-02-07T04:17:35+00:00
+
+ ## Deser(e)t Loon
+ - [http://desertloon.blogspot.com](http://desertloon.blogspot.com)
+ - date_published: 2024-07-01T10:53:10+00:00
+
+ ## still practicing_
+ - [http://desertraiders.blogspot.com](http://desertraiders.blogspot.com)
+ - date_published: 2024-07-03T02:00:52+00:00
 

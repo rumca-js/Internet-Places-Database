@@ -1,276 +1,3 @@
- ## London Street Views
- - [https://londonstreetviews.wordpress.com](https://londonstreetviews.wordpress.com)
- - date_published: 2024-06-30T01:42:50.590913+00:00
-
- ## The Long Eighteenth
- - [http://long18th.wordpress.com](http://long18th.wordpress.com)
- - date_published: 2024-10-20T06:39:03.798036+00:00
-
- ## longandvariable
- - [https://longandvariable.wordpress.com](https://longandvariable.wordpress.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Long-nosed fur seals
- - [https://longnosedfurseals.files.wordpress.com](https://longnosedfurseals.files.wordpress.com)
- - date_published: 2024-05-07T15:18:10.837353+00:00
-
- ## Long-nosed fur seals
- - [https://longnosedfurseals.wordpress.com](https://longnosedfurseals.wordpress.com)
- - date_published: 2024-01-05T21:36:43.309813+00:00
-
- ## Look at the Trees
- - [http://lookatthetreescom.wordpress.com](http://lookatthetreescom.wordpress.com)
- - date_published: 2024-09-03T23:00:11.433501+00:00
-
- ## Lord Geekington
- - [https://lordgeekington.wordpress.com](https://lordgeekington.wordpress.com)
- - date_published: 2024-10-19T05:21:28.605581+00:00
-
- ## Lord Kilgore
- - [https://lordkilgore.wordpress.com](https://lordkilgore.wordpress.com)
- - date_published: 2024-07-15T09:32:20.144198+00:00
-
- ## Lord Larac
- - [https://lordlarac.wordpress.com](https://lordlarac.wordpress.com)
- - date_published: 2024-06-23T19:03:51.813792+00:00
-
- ## Lord Matteus' Ancient Tomes and Wondrous Items
- - [https://lordmatteus.wordpress.com](https://lordmatteus.wordpress.com)
- - date_published: 2024-07-15T09:31:51.802220+00:00
-
- ## Lorelle on WordPress
- - [https://lorelle.wordpress.com](https://lorelle.wordpress.com)
- - date_published: 2024-06-30T10:13:26.352357+00:00
-
- ## Surfing Complexity
- - [https://lorinhochstein.wordpress.com](https://lorinhochstein.wordpress.com)
- - date_published: 2024-08-19T11:03:31.389532+00:00
-
- ## Brendan "Lor" Lowry
- - [https://lortarkam.wordpress.com](https://lortarkam.wordpress.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Lost Art Press
- - [https://lostartpress.wordpress.com](https://lostartpress.wordpress.com)
- - date_published: 2024-05-04T13:32:21.069006+00:00
-
- ## The Lost Generation of Autistic Adults
- - [http://lostgenerationofautistics.wordpress.com](http://lostgenerationofautistics.wordpress.com)
- - date_published: 2024-09-03T23:02:43.284586+00:00
-
- ## Lost Ghost
- - [http://lostghostblog.wordpress.com](http://lostghostblog.wordpress.com)
- - date_published: 2024-09-03T23:02:53.325866+00:00
-
- ## Lost In Transits
- - [http://lostintransits.wordpress.com](http://lostintransits.wordpress.com)
- - date_published: 2024-08-18T20:25:53.772332+00:00
-
- ## Lost on Fenris
- - [https://lostonfenris.wordpress.com](https://lostonfenris.wordpress.com)
- - date_published: 2024-10-26T12:24:01+00:00
-
- ## Lou Downe
- - [https://louisedowne.wordpress.com](https://louisedowne.wordpress.com)
- - date_published: 2024-09-16T06:15:33.467434+00:00
-
- ## LouisvilleGun
- - [https://louisvillegun.wordpress.com](https://louisvillegun.wordpress.com)
- - date_published: 2024-05-04T11:58:15.204894+00:00
-
- ## Lou LaBrant: An Annotated Bibliography
- - [https://loulabrant.wordpress.com](https://loulabrant.wordpress.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## louloureads
- - [https://louloureads.wordpress.com](https://louloureads.wordpress.com)
- - date_published: 2024-06-15T10:20:27.243567+00:00
-
- ## Lou Morgan
- - [http://loummorgan.wordpress.com](http://loummorgan.wordpress.com)
- - date_published: 2024-10-25T19:31:39.839617+00:00
-
- ## The Lovecraft eZine
- - [https://lovecraftzine.wordpress.com](https://lovecraftzine.wordpress.com)
- - date_published: 2024-06-19T09:42:48.748185+00:00
-
- ## Our Journey
- - [https://lovehopefaith.wordpress.com](https://lovehopefaith.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## loveimperialwarmuseumlibrary
- - [http://loveimperialwarmuseumlibrary.wordpress.com](http://loveimperialwarmuseumlibrary.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Love Peace & Stories
- - [https://lovepeaceandstories.wordpress.com](https://lovepeaceandstories.wordpress.com)
- - date_published: 2024-09-17T17:24:48.130701+00:00
-
- ## Low Fat Gaming
- - [http://lowfatgaming.wordpress.com](http://lowfatgaming.wordpress.com)
- - date_published: 2024-08-20T19:38:09.991604+00:00
-
- ## historywriting
- - [http://lphistorywriting.wordpress.com](http://lphistorywriting.wordpress.com)
- - date_published: 2024-10-21T23:00:30.338736+00:00
-
- ## Why does a blog need a name?
- - [https://ltworf.wordpress.com](https://ltworf.wordpress.com)
- - date_published: 2024-06-21T19:12:02.469607+00:00
-
- ## Luanne Castle: Poetry and Other Words (and cats!)
- - [http://luannecastle.wordpress.com](http://luannecastle.wordpress.com)
- - date_published: 2024-06-30T11:00:52+00:00
-
- ## Site Title
- - [http://lubnajannat.wordpress.com](http://lubnajannat.wordpress.com)
- - date_published: 2024-07-16T16:44:33.959236+00:00
-
- ## Lucas Ferreira's Blog
- - [https://lucasnascferreira.wordpress.com](https://lucasnascferreira.wordpress.com)
- - date_published: 2024-07-09T20:02:07.938824+00:00
-
- ## in   theory
- - [https://lucatrevisan.wordpress.com](https://lucatrevisan.wordpress.com)
- - date_published: 2024-05-07T15:56:39.219798+00:00
-
- ## Ludic Technologies
- - [http://ludictechnologies.wordpress.com](http://ludictechnologies.wordpress.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## LUKAS VERBURGT
- - [http://lukasverburgt.wordpress.com](http://lukasverburgt.wordpress.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Lauren Oakden-Rayner
- - [https://lukeoakdenrayner.wordpress.com](https://lukeoakdenrayner.wordpress.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Private Site
- - [http://lukepalmer.wordpress.com](http://lukepalmer.wordpress.com)
- - date_published: 2024-07-02T09:03:01.657817+00:00
-
- ## Private Site
- - [http://lurkertype.wordpress.com](http://lurkertype.wordpress.com)
- - date_published: 2024-07-04T13:18:05.652035+00:00
-
- ## Chemiotics II
- - [http://luysii.wordpress.com](http://luysii.wordpress.com)
- - date_published: 2024-06-17T11:56:27+00:00
-
- ## LWI Classic: Learn, Grow, & Change!
- - [https://lwiclassic12.wordpress.com](https://lwiclassic12.wordpress.com)
- - date_published: 2024-05-12T05:43:00.507710+00:00
-
- ## LWIClassic.Work
- - [https://lwiclassic2.wordpress.com](https://lwiclassic2.wordpress.com)
- - date_published: 2023-11-29T14:20:40.734275+00:00
- - tags: ['personal']
-
- ## Notational Notions
- - [http://lydianrain.wordpress.com](http://lydianrain.wordpress.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Free From Lymphedema
- - [https://lymphedemafree.wordpress.com](https://lymphedemafree.wordpress.com)
- - date_published: 2024-05-12T06:24:34.008807+00:00
-
- ## macbogota
- - [http://macbogota.wordpress.com](http://macbogota.wordpress.com)
- - date_published: 2024-06-20T08:54:30.400901+00:00
-
- ## Macmillan's Books for the First-Year Experience
- - [https://macmillanfyebooks.wordpress.com](https://macmillanfyebooks.wordpress.com)
- - date_published: 2024-06-21T19:25:05.764309+00:00
-
- ## "Macro Art In Nature"
- - [http://macroartinnature.wordpress.com](http://macroartinnature.wordpress.com)
- - date_published: 2024-10-19T07:03:12.143178+00:00
-
- ## Macromite's Blog
- - [https://macromite.wordpress.com](https://macromite.wordpress.com)
- - date_published: 2024-10-19T05:19:27.385096+00:00
-
- ## Macronectes
- - [http://macronectes.wordpress.com](http://macronectes.wordpress.com)
- - date_published: 2024-06-30T08:23:01.563471+00:00
-
- ## madame bibi lophile recommends
- - [http://madamebibilophilerecommends.wordpress.com](http://madamebibilophilerecommends.wordpress.com)
- - date_published: 2024-09-17T17:08:05.592580+00:00
-
- ## Madame Guillotine
- - [https://madameguillotine.wordpress.com](https://madameguillotine.wordpress.com)
- - date_published: 2024-06-24T10:30:42.605149+00:00
-
- ## Madam Grammar
- - [https://madamgrammar.wordpress.com](https://madamgrammar.wordpress.com)
- - date_published: 2024-10-19T11:05:58.065630+00:00
-
- ## Mad Camp Summer Nor Cal
- - [https://madcamp1.wordpress.com](https://madcamp1.wordpress.com)
- - date_published: 2024-08-11T13:28:07.978174+00:00
-
- ## Maddawd World
- - [https://maddawdworld.wordpress.com](https://maddawdworld.wordpress.com)
- - date_published: 2024-05-12T06:25:04.791064+00:00
-
- ## MADE IN AMERICA
- - [http://madeinamericathebook.wordpress.com](http://madeinamericathebook.wordpress.com)
- - date_published: 2024-06-25T06:43:53+00:00
-
- ## Ma Domotique
- - [http://madomotique.wordpress.com](http://madomotique.wordpress.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Sample Cinema
- - [http://madsometimes.wordpress.com](http://madsometimes.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Magdaléna Bohuslavová
- - [https://magdalenabohuslavova.wordpress.com](https://magdalenabohuslavova.wordpress.com)
- - date_published: 2024-07-08T18:48:47.927205+00:00
-
- ## Magforum blog
- - [http://magforum.wordpress.com](http://magforum.wordpress.com)
- - date_published: 2024-09-14T22:46:41.941370+00:00
-
- ## The Honest Courtesan
- - [https://maggiemcneill.wordpress.com](https://maggiemcneill.wordpress.com)
- - date_published: 2024-09-17T17:17:11+00:00
-
- ## Petafloptimism
- - [https://magicalnihilism.wordpress.com](https://magicalnihilism.wordpress.com)
- - date_published: 2024-06-26T22:29:10.232046+00:00
-
- ## Chaos Magick-User
- - [https://magickuser.wordpress.com](https://magickuser.wordpress.com)
- - date_published: 2024-07-15T09:47:17.996322+00:00
-
- ## Magicmenagerie's Blog
- - [https://magicmenagerie.wordpress.com](https://magicmenagerie.wordpress.com)
- - date_published: 2024-10-18T08:02:51+00:00
-
- ## Magnus Jamieson
- - [https://magnusjamieson.wordpress.com](https://magnusjamieson.wordpress.com)
- - date_published: 2024-10-21T15:56:01.341933+00:00
-
- ## MAGOG ON THE MARCH
- - [https://magogonthemarch.wordpress.com](https://magogonthemarch.wordpress.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## A walk in the woods.......
- - [http://mahathileo.wordpress.com](http://mahathileo.wordpress.com)
- - date_published: 2024-06-23T10:40:10.533758+00:00
-
- ## Maidenlion
- - [http://maidenlion.wordpress.com](http://maidenlion.wordpress.com)
- - date_published: 2024-09-03T22:51:01.712971+00:00
-
- ## Maidhc Ó Cathail
- - [http://maidhcocathail.wordpress.com](http://maidhcocathail.wordpress.com)
- - date_published: 2024-09-13T00:00:00+00:00
-
  ## Roch Winds
  - [https://mairnorarochwind.wordpress.com](https://mairnorarochwind.wordpress.com)
  - date_published: 2024-10-21T15:55:44.732712+00:00
@@ -4012,4 +3739,277 @@
  ## REST API Resources
  - [https://public-api.wordpress.com](https://public-api.wordpress.com)
  - date_published: 2023-12-11T16:36:56.191259+00:00
+
+ ## Publishers for Palestine
+ - [https://publishersforpalestine.wordpress.com](https://publishersforpalestine.wordpress.com)
+ - date_published: 2024-05-08T12:01:07.442727+00:00
+
+ ## puckerclust
+ - [https://puckerclust.wordpress.com](https://puckerclust.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Puff the Mutant Dragon
+ - [https://puffthemutantdragon.wordpress.com](https://puffthemutantdragon.wordpress.com)
+ - date_published: 2024-10-19T04:50:43.670229+00:00
+
+ ## Pumphrey's Math
+ - [http://pumphreysmath.wordpress.com](http://pumphreysmath.wordpress.com)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## Punch Card
+ - [https://punchcard.wordpress.com](https://punchcard.wordpress.com)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Punk Rock Operations Research
+ - [http://punkrockor.wordpress.com](http://punkrockor.wordpress.com)
+ - date_published: 2024-06-29T12:04:51+00:00
+
+ ## Then and Now Through an Aspergers Eye
+ - [http://punton9.wordpress.com](http://punton9.wordpress.com)
+ - date_published: 2024-09-03T23:09:34.071349+00:00
+
+ ## PuppyCoding
+ - [https://puppycodingcom.wordpress.com](https://puppycodingcom.wordpress.com)
+ - date_published: 2024-05-07T09:46:37.858099+00:00
+ - tags: ['artificial intelligence', 'python']
+
+ ## The Diaries of James Purcell
+ - [https://purbry.wordpress.com](https://purbry.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## PurpleSlog - The Future Will Be Kludged
+ - [http://purpleslog.wordpress.com](http://purpleslog.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## PUTANUMONIT
+ - [https://putanumonit.wordpress.com](https://putanumonit.wordpress.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Putri Augustin
+ - [http://putriaugustin17.wordpress.com](http://putriaugustin17.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## The Simplicity's Journal
+ - [http://putrisces.wordpress.com](http://putrisces.wordpress.com)
+ - date_published: 2024-06-30T04:25:43.836764+00:00
+
+ ## Puzzlvaria
+ - [https://puzzlvaria.wordpress.com](https://puzzlvaria.wordpress.com)
+ - date_published: 2024-05-01T03:11:25.060680+00:00
+
+ ## P_W999
+ - [http://pw999.wordpress.com](http://pw999.wordpress.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Python Helper
+ - [https://pyhelper.wordpress.com](https://pyhelper.wordpress.com)
+ - date_published: 2024-06-28T20:06:58.473697+00:00
+
+ ## Sarah Cawkwell's Blog
+ - [http://pyroriffic.wordpress.com](http://pyroriffic.wordpress.com)
+ - date_published: 2024-10-25T19:29:21.411221+00:00
+
+ ## Taming Serpents and Pachyderms
+ - [https://pyrseas.wordpress.com](https://pyrseas.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Python for Dads
+ - [https://python4dads.wordpress.com](https://python4dads.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Python Monopoly
+ - [https://pythonmonopoly.wordpress.com](https://pythonmonopoly.wordpress.com)
+ - date_published: 2024-06-28T20:09:10.055005+00:00
+
+ ## Q & A
+ - [https://qandampa.wordpress.com](https://qandampa.wordpress.com)
+ - date_published: 2024-10-20T20:53:41.418108+00:00
+
+ ## Quantum Bayesian Networks
+ - [http://qbnets.wordpress.com](http://qbnets.wordpress.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Annoying Precision
+ - [https://qchu.wordpress.com](https://qchu.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Ένας Επιζών των Quantum Diaries
+ - [http://qdepizwn.wordpress.com](http://qdepizwn.wordpress.com)
+ - date_published: 2024-10-19T07:32:42.863096+00:00
+
+ ## Qendresa's creative stories
+ - [https://qendresahoti.wordpress.com](https://qendresahoti.wordpress.com)
+ - date_published: 2024-07-09T08:05:36.664939+00:00
+
+ ## The Bite Stuff
+ - [https://qilong.wordpress.com](https://qilong.wordpress.com)
+ - date_published: 2024-10-19T05:16:27.956283+00:00
+
+ ## Centre for Discrete Mathematics, QMUL
+ - [http://qmdiscrete.wordpress.com](http://qmdiscrete.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## QM Money Advice
+ - [https://qmmoneyadvice.wordpress.com](https://qmmoneyadvice.wordpress.com)
+ - date_published: 2024-10-20T07:52:49.076179+00:00
+
+ ## Quadralectic Architecture
+ - [https://quadralectics.wordpress.com](https://quadralectics.wordpress.com)
+ - date_published: 2024-06-23T03:51:21+00:00
+
+ ## quanta rei
+ - [https://quantarei.wordpress.com](https://quantarei.wordpress.com)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Quantix
+ - [https://quantixcap.wordpress.com](https://quantixcap.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Quantum Frontiers
+ - [https://quantumfrontiers.wordpress.com](https://quantumfrontiers.wordpress.com)
+ - date_published: 2024-07-20T23:38:57.876593+00:00
+
+ ## Quantum Moxie
+ - [http://quantummoxie.wordpress.com](http://quantummoxie.wordpress.com)
+ - date_published: 2024-10-19T07:34:36.065641+00:00
+
+ ## Queendom Blog | Insight at your fingertips – www.queendom.com
+ - [https://queendomblog.wordpress.com](https://queendomblog.wordpress.com)
+ - date_published: 2023-10-25T18:15:26.032988+00:00
+
+ ## Queen Lawunmi
+ - [http://queenlawunmi.wordpress.com](http://queenlawunmi.wordpress.com)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Change At Jamaica
+ - [https://queenstransit.wordpress.com](https://queenstransit.wordpress.com)
+ - date_published: 2024-05-06T22:50:19.920803+00:00
+
+ ## A View from the Battlements
+ - [http://queenwilly.wordpress.com](http://queenwilly.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## QA9
+ - [https://queuea9.wordpress.com](https://queuea9.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Quick. Concept.
+ - [https://quickconcept.wordpress.com](https://quickconcept.wordpress.com)
+ - date_published: 2024-01-12T10:32:14.301346+00:00
+
+ ## Quid Sapio's Climate Stuff
+ - [https://quidsapioclimate.wordpress.com](https://quidsapioclimate.wordpress.com)
+ - date_published: 2024-06-28T18:35:38.589647+00:00
+
+ ## Quipster
+ - [http://quipster.wordpress.com](http://quipster.wordpress.com)
+ - date_published: 2024-06-27T10:22:32.467937+00:00
+
+ ## (no title)
+ - [https://quitewriteyourtype.wordpress.com](https://quitewriteyourtype.wordpress.com)
+ - date_published: 2024-07-18T17:12:18.936386+00:00
+
+ ## Qulog
+ - [http://qulog.wordpress.com](http://qulog.wordpress.com)
+ - date_published: 2024-10-19T07:38:23.247815+00:00
+
+ ## Quod She 2.0
+ - [https://quodshe.wordpress.com](https://quodshe.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Quomodocumque
+ - [https://quomodocumque.wordpress.com](https://quomodocumque.wordpress.com)
+ - date_published: 2024-05-07T15:48:08.190847+00:00
+
+ ## Quotation Celebration
+ - [https://quotationcelebration.wordpress.com](https://quotationcelebration.wordpress.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Researcher to Reader Conference — London — 25-26 February 2025
+ - [https://r2rconf.wordpress.com](https://r2rconf.wordpress.com)
+ - date_published: 2024-10-20T04:45:29.613875+00:00
+
+ ## RaceOnline 2012 - Blog
+ - [http://raceonline2012.wordpress.com](http://raceonline2012.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## RachelCreative
+ - [http://rachelcreative.wordpress.com](http://rachelcreative.wordpress.com)
+ - date_published: 2024-10-19T07:05:06.920005+00:00
+
+ ## (no title)
+ - [https://racheldominica.wordpress.com](https://racheldominica.wordpress.com)
+ - date_published: 2024-02-08T16:49:44.688152+00:00
+
+ ## Rachel Wollaston
+ - [http://rachelewollaston.wordpress.com](http://rachelewollaston.wordpress.com)
+ - date_published: 2024-07-15T07:16:15.834711+00:00
+
+ ## Rachel Spangler
+ - [https://rachelspangler.wordpress.com](https://rachelspangler.wordpress.com)
+ - date_published: 2024-02-08T22:01:50.995260+00:00
+
+ ## rachleona's GSoC
+ - [https://rachleona.wordpress.com](https://rachleona.wordpress.com)
+ - date_published: 2024-07-13T07:22:55+00:00
+
+ ## Private Site
+ - [http://raddblog.wordpress.com](http://raddblog.wordpress.com)
+ - date_published: 2024-06-20T04:06:46.830529+00:00
+
+ ## Radek's tech blog
+ - [https://radektech.wordpress.com](https://radektech.wordpress.com)
+ - date_published: 2024-07-18T12:24:25.085001+00:00
+
+ ## Radhegovind
+ - [https://radhegovind.wordpress.com](https://radhegovind.wordpress.com)
+ - date_published: 2024-07-01T08:22:52.654652+00:00
+
+ ## iif_alt
+ - [http://radiant-ailcic.wordpress.com](http://radiant-ailcic.wordpress.com)
+ - date_published: 2024-08-19T04:59:19.766045+00:00
+
+ ## dr. p.l. (paul) thomas
+ - [https://radicalscholarship.wordpress.com](https://radicalscholarship.wordpress.com)
+ - date_published: 2024-05-07T10:13:19.837280+00:00
+
+ ## Radio Free Africa
+ - [https://radiofreeafrica.wordpress.com](https://radiofreeafrica.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Radish
+ - [https://radishmag.wordpress.com](https://radishmag.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Rafał Cieślak's blog
+ - [https://rafalcieslak.wordpress.com](https://rafalcieslak.wordpress.com)
+ - date_published: 2023-10-25T18:15:34.497692+00:00
+
+ ## The Emergent Fool
+ - [http://rafefurst.wordpress.com](http://rafefurst.wordpress.com)
+ - date_published: 2024-10-19T04:34:11.411514+00:00
+
+ ## Raffles Museum News III (2007 – 2014)
+ - [https://rafflesmuseum.wordpress.com](https://rafflesmuseum.wordpress.com)
+ - date_published: 2024-10-19T05:21:24.886261+00:00
+
+ ## RAF Meteorology Man – Roy Cook ~ Former Weatherman of Sark
+ - [https://rafmetman.wordpress.com](https://rafmetman.wordpress.com)
+ - date_published: 2023-10-25T18:15:38.538826+00:00
+
+ ## GEEK Lvl 60
+ - [https://rafpark.wordpress.com](https://rafpark.wordpress.com)
+ - date_published: 2024-10-26T21:39:27.760737+00:00
+
+ ## Rage Against the Algorithm
+ - [https://rageagainstthealgorithm.wordpress.com](https://rageagainstthealgorithm.wordpress.com)
+ - date_published: 2024-07-12T05:57:55.452504+00:00
+
+ ## Focus Home
+ - [https://raghavmehracom.wordpress.com](https://raghavmehracom.wordpress.com)
+ - date_published: 2024-05-12T05:27:52.868091+00:00
+
+ ## Smoke words every day.
+ - [http://rahulgaurblog.wordpress.com](http://rahulgaurblog.wordpress.com)
+ - date_published: 2024-07-12T22:35:26+00:00
 

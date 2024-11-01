@@ -1,8 +1,3 @@
- ## Alex Panagis | Entrepreneur, SaaS Operator & Investor
- - [https://alexjpanagis.com](https://alexjpanagis.com)
- - date_published: 2024-01-13T18:26:31.067280+00:00
- - tags: ['personal']
-
  ## Posts
  - [https://alexklibisz.com](https://alexklibisz.com)
  - date_published: 2024-09-29T20:05:03.999152+00:00
@@ -4043,4 +4038,8 @@
  ## Open Positions & Careers | Join Altium's Team of PCB System Engineers & Designers
  - [https://careers.altium.com](https://careers.altium.com)
  - date_published: 2024-06-13T14:45:07+00:00
+
+ ## PCB Design Software & Tools | Altium
+ - [https://cdn-static.altium.com](https://cdn-static.altium.com)
+ - date_published: 2024-06-13T14:44:45+00:00
 

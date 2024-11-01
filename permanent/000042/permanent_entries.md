@@ -1,31 +1,3 @@
- ## Apartments.com: Apartments and Homes for Rent
- - [https://apartments.com](https://apartments.com)
- - date_published: 2024-05-08T04:31:44.073853+00:00
-
- ## Home | CoStar Group
- - [https://auth.apartments.com](https://auth.apartments.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Apartments.com: Apartments and Homes for Rent
- - [https://ecom.apartments.com](https://ecom.apartments.com)
- - date_published: 2024-07-04T02:31:33.317786+00:00
-
- ## CoStar AH
- - [https://images1.apartments.com](https://images1.apartments.com)
- - date_published: 2024-06-24T17:51:07+00:00
-
- ## Apartments.com: Apartments and Homes for Rent
- - [https://leasing.apartments.com](https://leasing.apartments.com)
- - date_published: 2024-07-04T02:31:43.667420+00:00
-
- ## Apartments.com Payments
- - [https://payments.apartments.com](https://payments.apartments.com)
- - date_published: 2024-06-24T17:45:28+00:00
-
- ## ApartmentsFor | Where Local Insight Inspires Confident Housing Decisions
- - [https://www.apartmentsfor.com](https://www.apartmentsfor.com)
- - date_published: 2024-06-27T16:49:59.015602+00:00
-
  ## Apartments near UGA - Athens, GA - ApartmentsForAthens
  - [https://www.apartmentsforathens.com](https://www.apartmentsforathens.com)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -4041,4 +4013,33 @@ my personal blog
  ## Alabama Open Data Portal
  - [https://data-algeohub.opendata.arcgis.com](https://data-algeohub.opendata.arcgis.com)
  - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Nevada Bureau of Mines and Geology
+ - [https://data-nbmg.opendata.arcgis.com](https://data-nbmg.opendata.arcgis.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Nevada Division of Minerals Open Data Site
+ - [https://data-ndom.opendata.arcgis.com](https://data-ndom.opendata.arcgis.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## U.S. Forest Service - Geospatial Data Discovery
+ - [https://data-usfs.hub.arcgis.com](https://data-usfs.hub.arcgis.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## DCRA Community Database
+ - [https://dcra-cdo-dcced.opendata.arcgis.com](https://dcra-cdo-dcced.opendata.arcgis.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## ArcGIS Developers
+ - [https://developers.arcgis.com](https://developers.arcgis.com)
+ - date_published: 2024-05-07T16:04:35.367855+00:00
+ - tags: ['gis', 'geoinformatics']
+
+ ## ArcGIS Hub
+ - [https://dia-mundial-medio-ambiente-mads.hub.arcgis.com](https://dia-mundial-medio-ambiente-mads.hub.arcgis.com)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Discover DEQ's Data
+ - [https://discover-mtdeq.hub.arcgis.com](https://discover-mtdeq.hub.arcgis.com)
+ - date_published: 2024-07-09T00:00:00+00:00
 

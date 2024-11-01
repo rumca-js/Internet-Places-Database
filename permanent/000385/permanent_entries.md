@@ -1,449 +1,3 @@
- ## Uptime Kuma Status
- - [https://status.kuma.pet](https://status.kuma.pet)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Uptime Kuma
- - [https://uptime.kuma.pet](https://uptime.kuma.pet)
- - date_published: 2024-04-08T19:31:09.402349+00:00
- - tags: ['self-host']
-
- ## Uptime Kuma Weblate
- - [https://weblate.kuma.pet](https://weblate.kuma.pet)
- - date_published: 2024-07-18T14:22:09.486680+00:00
-
- ## 140 cats in a trench coat
- - [https://lea.pet](https://lea.pet)
- - date_published: 2024-07-15T06:33:21.982749+00:00
-
- ## lily's cabin
- - [https://lily.pet](https://lily.pet)
- - date_published: 2024-06-23T22:52:35+00:00
-
- ## home | mavica's corner!
- - [http://maple.pet](http://maple.pet)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Pal.
- - [https://metapals.pet](https://metapals.pet)
- - date_published: 2024-09-23T13:13:12.719426+00:00
-
- ## A digital pet, on the blockchain
- - [https://onchain.pet](https://onchain.pet)
- - date_published: 2024-08-17T22:19:10.418619+00:00
-
- ## Piss.Pet
- - [https://piss.pet](https://piss.pet)
- - date_published: 2022-05-17T20:40:23+00:00
-
- ## (cat.)vin.pet
- - [https://cat.vin.pet](https://cat.vin.pet)
- - date_published: 2023-05-09T21:14:33+00:00
-
- ## Vin pet pet pet
- - [https://vin.pet](https://vin.pet)
- - date_published: 2024-01-10T07:29:59+00:00
-
- ## MARARA Paiement – Avec MARARA Paiement, vos moyens de paiement évoluent
- - [https://www.mararapaiement.pf](https://www.mararapaiement.pf)
- - date_published: 2024-09-26T12:38:32.535636+00:00
-
- ## METEO FRANCE POLYNESIE FRANCAISE - SITE OFFICIEL - Météo Tahiti, Moorea, Bora-Bora, îles Marquises, ...
- - [https://meteo.pf](https://meteo.pf)
- - date_published: 2024-07-03T19:33:06+00:00
-
- ## NiuPay vous propose un compte, une carte et une application mobile accessibles au plus grand nombre. Téléchargez notre application et soyez parmi les premiers à rejoindre l'univers Niupay ! Disponible en Français et Reo Tahiti !
- - [http://www.niupay.pf](http://www.niupay.pf)
- - date_published: 2024-09-06T02:23:16+00:00
-
- ## Home - BCL
- - [https://www.bcl.com.pg](https://www.bcl.com.pg)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.com.pg](https://maps.google.com.pg)
- - date_published: 2024-07-20T07:36:13.677710+00:00
-
- ## Google
- - [https://www.google.com.pg](https://www.google.com.pg)
- - date_published: 2024-06-21T22:22:26.248821+00:00
-
- ## Papua New Guinea Property for Sale & Rent | Hausples.com.pg
- - [https://www.hausples.com.pg](https://www.hausples.com.pg)
- - date_published: 2024-06-20T17:46:28.003823+00:00
-
- ## 3M Science. Applied to Life. | 3M Philippines
- - [https://www.3mphilippines.com.ph](https://www.3mphilippines.com.ph)
- - date_published: 2024-08-06T10:38:54.536606+00:00
-
- ## adidas Official Website | adidas Philippines
- - [https://www.adidas.com.ph](https://www.adidas.com.ph)
- - date_published: 2024-07-14T12:13:45.716795+00:00
-
- ## Airbnb | Mga matutuluyang bakasyunan, cabin, beach house, at higit pa
- - [https://airbnb.com.ph](https://airbnb.com.ph)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Bosch home appliances: experience quality, reliability and precision.
- - [https://www.bosch-home.com.ph](https://www.bosch-home.com.ph)
- - date_published: 2024-06-16T21:35:32.117397+00:00
-
- ## Wannatalk.ai - Chatbot for WhatsApp and Facebook Messenger
- - [https://brobot.brother.com.ph](https://brobot.brother.com.ph)
- - date_published: 2024-06-18T06:02:24.512704+00:00
-
- ## Welcome to Brother Philippines
- - [https://www.brother.com.ph](https://www.brother.com.ph)
- - date_published: 2024-05-02T11:29:58.214950+00:00
-
- ## BusinessMirror | BusinessMirror
- - [https://businessmirror.com.ph](https://businessmirror.com.ph)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## CITIZEN WATCH
- - [https://www.citizen.com.ph](https://www.citizen.com.ph)
- - date_published: 2024-07-03T09:58:45.476942+00:00
-
- ## Facebook
- - [http://www.columbiapictures.com.ph](http://www.columbiapictures.com.ph)
- - date_published: 2024-07-28T03:59:30.250436+00:00
-
- ## Furniture, Houseware and Gifts | Crate and Barrel Philippines
- - [https://www.crateandbarrel.com.ph](https://www.crateandbarrel.com.ph)
- - date_published: 2024-08-05T22:45:40.718651+00:00
-
- ## Dodge Philippines Official Site – Muscle Cars & Sports Cars
- - [https://www.dodge.com.ph](https://www.dodge.com.ph)
- - date_published: 2024-06-19T09:01:51.893574+00:00
-
- ## Globe Labs: Explore the Possibilities
- - [http://www.globelabs.com.ph](http://www.globelabs.com.ph)
- - date_published: 2023-02-03T04:26:03+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.com.ph](https://maps.google.com.ph)
- - date_published: 2024-07-20T07:40:06.424173+00:00
-
- ## Google
- - [https://www.google.com.ph](https://www.google.com.ph)
- - date_published: 2024-06-21T22:22:49.339286+00:00
-
- ## Great Place To Work Philppines
- - [https://greatplacetowork.com.ph](https://greatplacetowork.com.ph)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Furniture fittings, architectural hardware, electronic locking systems - Häfele
- - [https://hafele.com.ph](https://hafele.com.ph)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Homepage
- - [https://www.hilti.com.ph](https://www.hilti.com.ph)
- - date_published: 2024-06-20T07:26:14.909378+00:00
-
- ## HSBC Philippines - Personal Banking, Credit cards and Loans
- - [https://www.hsbc.com.ph](https://www.hsbc.com.ph)
- - date_published: 2024-08-17T18:48:47+00:00
-
- ## INQUIRER Shop with Promo
- - [https://shop.inquirer.com.ph](https://shop.inquirer.com.ph)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Philippine Daily Inquirer
- - [https://www.inquirer.com.ph](https://www.inquirer.com.ph)
- - date_published: 2024-08-18T13:24:02.777420+00:00
-
- ## Jeep® Philippines SUV & Crossover Cars | Sports Utility Vehicle | Official Jeep®  Site
- - [https://www.jeep.com.ph](https://www.jeep.com.ph)
- - date_published: 2024-06-19T08:42:03.798307+00:00
-
- ## Jobs in Philippines - Search Job Vacancies - Career | Jobstreet
- - [https://www.jobstreet.com.ph](https://www.jobstreet.com.ph)
- - date_published: 2024-07-12T18:28:52.355577+00:00
-
- ## Home
- - [https://kbeautycafe.com.ph](https://kbeautycafe.com.ph)
- - date_published: 2024-07-22T10:20:57.537319+00:00
-
- ## Buy, Sell, & Rent Property Online - Real Estate Philippines | Lamudi
- - [https://www.lamudi.com.ph](https://www.lamudi.com.ph)
- - date_published: 2024-06-20T17:46:18.340271+00:00
-
- ## Seller Center
- - [https://sellercenter.lazada.com.ph](https://sellercenter.lazada.com.ph)
- - date_published: 2024-06-16T06:32:49.262289+00:00
-
- ## Lazada University
- - [https://university.lazada.com.ph](https://university.lazada.com.ph)
- - date_published: 2024-09-26T12:51:09.754119+00:00
-
- ## Lexcode - Language is not a barrier, but an opportunity.
- - [https://lexcode.com.ph](https://lexcode.com.ph)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Life Insurance and Investment Company | Manulife Philippines
- - [http://www.manulife.com.ph](http://www.manulife.com.ph)
- - date_published: 2024-10-05T00:01:00+00:00
-
- ## Wealth & asset management | Manulife Investment Management Philippines
- - [https://www.manulifeim.com.ph](https://www.manulifeim.com.ph)
- - date_published: 2024-10-07T08:15:25+00:00
-
- ## Official Website | Maserati PH
- - [http://www.maserati.com.ph](http://www.maserati.com.ph)
- - date_published: 2024-07-12T05:33:59+00:00
-
- ## Mastercard - A Global Technology Company in The Payments Industry
- - [https://www.mastercard.com.ph](https://www.mastercard.com.ph)
- - date_published: 2024-04-17T13:51:32+00:00
-
- ## Manila Bulletin  - The Nation's Leading Newspaper
- - [https://mb.com.ph](https://mb.com.ph)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home
- - [https://www.medcheck.com.ph](https://www.medcheck.com.ph)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home - Metro Pacific Investments Corporation
- - [https://www.mpic.com.ph](https://www.mpic.com.ph)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Nestlé Philippines
- - [http://www.nestle.com.ph](http://www.nestle.com.ph)
- - date_published: 2024-09-14T18:07:17+00:00
-
- ## PERI Asia Philippines
- - [https://www.peri.com.ph](https://www.peri.com.ph)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Official Website of RAM Trucks Philippines
- - [https://www.ramtrucks.com.ph](https://www.ramtrucks.com.ph)
- - date_published: 2024-06-19T09:09:16.436864+00:00
-
- ## Skyscanner
- - [https://www.skyscanner.com.ph](https://www.skyscanner.com.ph)
- - date_published: 2024-05-14T10:10:11+00:00
-
- ## Sony Philippines | Latest Technology News | Electronics | Entertainment
- - [http://www.sony.com.ph](http://www.sony.com.ph)
- - date_published: 2024-10-21T07:37:12.710042+00:00
-
- ## SOS International Group
- - [http://www.soscanada.com.ph](http://www.soscanada.com.ph)
- - date_published: 2023-11-24T02:48:21+00:00
-
- ## Home - Sta. Lucia Land Inc.
- - [https://stalucialand.com.ph](https://stalucialand.com.ph)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Summit Media : The Philippines' Leading Magazine Publisher
- - [https://www.summitmedia.com.ph](https://www.summitmedia.com.ph)
- - date_published: 2024-06-21T21:35:38.697302+00:00
-
- ## SunStar e-paper
- - [http://epaper.sunstar.com.ph](http://epaper.sunstar.com.ph)
- - date_published: 2024-06-30T05:58:47.070046+00:00
-
- ## Sun.Star Philippines Gallery
- - [https://gallery.sunstar.com.ph](https://gallery.sunstar.com.ph)
- - date_published: 2024-06-30T05:58:43.812030+00:00
-
- ## SunStar | Latest Philippine Community News in English and Bisaya
- - [https://sunstar.com.ph](https://sunstar.com.ph)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Suzuki Philippines | Discover the Latest Suzuki Car Model
- - [https://auto.suzuki.com.ph](https://auto.suzuki.com.ph)
- - date_published: 2024-07-19T21:30:57.022062+00:00
-
- ## Philippine Car Prices, News, and Reviews
- - [https://topgear.com.ph](https://topgear.com.ph)
- - date_published: 2024-05-10T05:42:59.796728+00:00
-
- ## tripadvisor.com.ph
- - [https://www.tripadvisor.com.ph](https://www.tripadvisor.com.ph)
- - date_published: 2024-06-23T09:27:40.298330+00:00
-
- ## trivago.com.ph - Compare hotel prices worldwide
- - [https://www.trivago.com.ph](https://www.trivago.com.ph)
- - date_published: 2024-09-04T11:21:25.174239+00:00
-
- ## Visa, a trusted leader in digital payments.
- - [https://visa.com.ph](https://visa.com.ph)
- - date_published: 2024-05-12T03:59:26.122809+00:00
-
- ## Homepage
- - [https://www.yamaha-motor.com.ph](https://www.yamaha-motor.com.ph)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Yelp
- - [https://en.m.yelp.com.ph](https://en.m.yelp.com.ph)
- - date_published: 2024-07-01T06:44:37.272296+00:00
-
- ## Yelp
- - [https://en.yelp.com.ph](https://en.yelp.com.ph)
- - date_published: 2024-07-01T06:44:32.627412+00:00
-
- ## Yelp
- - [https://fil.m.yelp.com.ph](https://fil.m.yelp.com.ph)
- - date_published: 2024-07-01T06:56:53.770729+00:00
-
- ## Yelp
- - [https://fil.yelp.com.ph](https://fil.yelp.com.ph)
- - date_published: 2024-07-01T06:52:38.894767+00:00
-
- ## College of Development Communication
- - [https://devcom.edu.ph](https://devcom.edu.ph)
- - date_published: 2024-06-20T08:53:47.214330+00:00
-
- ## Far Eastern University
- - [https://www.feu.edu.ph](https://www.feu.edu.ph)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## University of the Philippines Press | University of the Philippines Press
- - [https://press.up.edu.ph](https://press.up.edu.ph)
- - date_published: 2024-07-21T21:40:35.572715+00:00
-
- ## University of the Philippines
- - [https://social.up.edu.ph](https://social.up.edu.ph)
- - date_published: 2024-07-10T09:20:58.212974+00:00
-
- ## Home
- - [https://ceza.gov.ph](https://ceza.gov.ph)
- - date_published: 2019-09-05T00:43:56+00:00
-
- ## Attention Required! | Cloudflare
- - [http://www.congress.gov.ph](http://www.congress.gov.ph)
- - date_published: 2024-07-16T21:23:08.120410+00:00
-
- ## Open Data Philippines
- - [https://data.gov.ph](https://data.gov.ph)
- - date_published: 2023-03-01T09:21:03+00:00
-
- ## DENR | Department of Environment and Natural Resources
- - [https://www.denr.gov.ph](https://www.denr.gov.ph)
- - date_published: 2024-06-20T08:47:48.987626+00:00
-
- ## Cierpliwości...
- - [https://dfa.gov.ph](https://dfa.gov.ph)
- - date_published: 2024-06-20T08:47:28.405503+00:00
-
- ## eTravel
- - [https://etravel.gov.ph](https://etravel.gov.ph)
- - date_published: 2024-09-25T12:56:06.349833+00:00
-
- ## The Book Shelf - Supreme Court E-Library
- - [https://elibrary.judiciary.gov.ph](https://elibrary.judiciary.gov.ph)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## EPS microsite - Supreme Court of the Philippines
- - [https://epayment.judiciary.gov.ph](https://epayment.judiciary.gov.ph)
- - date_published: 2023-04-27T08:51:59+00:00
-
- ## OFFICE OF THE COURT        ADMINISTRATOR
- - [https://oca.judiciary.gov.ph](https://oca.judiciary.gov.ph)
- - date_published: 2024-07-08T14:23:36.906173+00:00
-
- ## Home - Supreme Court of the Philippines
- - [https://sc.judiciary.gov.ph](https://sc.judiciary.gov.ph)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Bot Verification
- - [http://ovp.gov.ph](http://ovp.gov.ph)
- - date_published: 2024-07-16T21:23:02.138556+00:00
-
- ## Philippine News Agency
- - [https://pna.gov.ph](https://pna.gov.ph)
- - date_published: 2024-05-12T07:09:36.056538+00:00
-
- ## Attention Required! | Cloudflare
- - [https://pnp.gov.ph](https://pnp.gov.ph)
- - date_published: 2024-05-08T11:34:09.943616+00:00
-
- ## HOME
- - [https://www.privacy.gov.ph](https://www.privacy.gov.ph)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home - SEC - Securities and Exchange Commission
- - [https://www.sec.gov.ph](https://www.sec.gov.ph)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.senate.gov.ph](https://www.senate.gov.ph)
- - date_published: 2024-07-16T21:22:59.962081+00:00
-
- ## Home - Love the Philippines! Welcome to the DOT's Corporate Site
- - [https://beta.tourism.gov.ph](https://beta.tourism.gov.ph)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## Daily Tribune
- - [https://tribune.net.ph](https://tribune.net.ph)
- - date_published: 2023-12-16T10:37:57.398069+00:00
-
- ## LGOGACOR : Link Login Terbaru Situs Cuan Saat Ini Di Asia — LGOGACOR
- - [http://www.wikimedia.org.ph](http://www.wikimedia.org.ph)
- - date_published: 2024-07-11T04:48:56+00:00
-
- ## Make A Donation
- - [https://support.wwf.org.ph](https://support.wwf.org.ph)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home
- - [https://wwf.org.ph](https://wwf.org.ph)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home - ADAS 2024
- - [https://www.adas.ph](https://www.adas.ph)
- - date_published: 2024-07-08T22:32:34.592305+00:00
-
- ## Internet Archive
- - [https://archive.ph](https://archive.ph)
- - date_published: 2023-11-13T12:03:03+00:00
- - tags: ['internet archive']
-
- ## Audi Philippines
- - [https://www.audi.ph](https://www.audi.ph)
- - date_published: 2024-07-19T20:57:17+00:00
-
- ## BARE International: Mystery Shopping, Customer Experience Research
- - [https://www.bareinternational.ph](https://www.bareinternational.ph)
- - date_published: 2024-09-15T21:23:55.421115+00:00
-
- ## Coins Mobile Wallet
- - [https://app.coins.ph](https://app.coins.ph)
- - date_published: 2023-10-31T10:37:32+00:00
-
- ## Coins.ph | Coins.ph
- - [https://coins.ph](https://coins.ph)
- - date_published: 2024-05-01T07:28:45.412738+00:00
-
- ## Coins.ph
- - [https://pro.coins.ph](https://pro.coins.ph)
- - date_published: 2024-06-16T13:25:33.017565+00:00
-
- ## Coins.ph Help Center
- - [https://support.coins.ph](https://support.coins.ph)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Crystal Camarao
- - [https://crystal.ph](https://crystal.ph)
- - date_published: 2021-08-06T02:15:47+00:00
-
- ## DigiKey Home
- - [https://digikey.ph](https://digikey.ph)
- - date_published: 2024-05-01T05:10:13.801235+00:00
-
- ## Disney.ph | The official home for all things Disney
- - [http://apps.disney.ph](http://apps.disney.ph)
- - date_published: 2024-06-16T02:15:23.813580+00:00
-
- ## Disney.ph | The official home for all things Disney
- - [http://characters.disney.ph](http://characters.disney.ph)
- - date_published: 2024-06-16T02:15:21.013912+00:00
-
- ## Disney.ph | The official home for all things Disney
- - [http://events.disney.ph](http://events.disney.ph)
- - date_published: 2024-06-16T02:15:07.887230+00:00
-
  ## Disney.ph | The official home for all things Disney
  - [http://games.disney.ph](http://games.disney.ph)
  - date_published: 2024-06-16T02:15:10.063702+00:00
@@ -4037,4 +3591,459 @@
  ## Vavada Casino Online | Zaloguj się w Vavada Kasyno i Odbierz Bonus
  - [https://vavada.net.pl](https://vavada.net.pl)
  - date_published: 2024-06-26T23:57:08.938881+00:00
+
+ ## Tworzymy strony i aplikacje internetowe | Vela.net.pl
+ - [http://www.vela.net.pl](http://www.vela.net.pl)
+ - date_published: 2024-08-18T13:40:56.268396+00:00
+
+ ## home
+ - [https://winnik.net.pl](https://winnik.net.pl)
+ - date_published: 2024-07-09T13:30:38+00:00
+
+ ## Przedsiębiorstwo Wodociągów i Kanalizacji WODNIK Sp. z o.o. - "WODNIK"
+ - [https://www.wodnik.net.pl](https://www.wodnik.net.pl)
+ - date_published: 2024-08-18T17:10:25.392749+00:00
+
+ ## WRC Motorsport&Beyond
+ - [https://wrc.net.pl](https://wrc.net.pl)
+ - date_published: 2024-06-18T07:26:14+00:00
+
+ ## Związek Celowy Gmin MG-6
+ - [https://www.zcg.net.pl](https://www.zcg.net.pl)
+ - date_published: 2024-07-13T19:14:37.260724+00:00
+
+ ## Kuratorium Oświaty w Olsztynie – Kuratorium Oświaty w Olsztynie al. Piłsudskiego 7/9, 10-959 Olsztyn tel. 89 52-32-600, 89 52-72-250
+ - [http://www.ko.olsztyn.pl](http://www.ko.olsztyn.pl)
+ - date_published: 2024-08-19T21:18:41.979890+00:00
+
+ ## Warmińsko-Mazurska Rada Bezpieczeństwa Ruchu Drogowego
+ - [http://www.wrbrd.olsztyn.pl](http://www.wrbrd.olsztyn.pl)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Repertuar - NCPP
+ - [https://bilety.ncpp.opole.pl](https://bilety.ncpp.opole.pl)
+ - date_published: 2024-08-18T15:18:28.937359+00:00
+
+ ## Przebojowe Opole: Oficjalny portal Miasta Opola
+ - [https://www.opole.pl](https://www.opole.pl)
+ - date_published: 2024-05-29T09:57:54.512243+00:00
+
+ ## 7-ZIP - Program do Pakowania 7-Zip
+ - [https://7-zip.org.pl](https://7-zip.org.pl)
+ - date_published: 2024-05-21T20:33:07+00:00
+ - tags: ['archive program']
+
+ ## Program Aktywni Obywatele
+ - [https://aktywniobywatele.org.pl](https://aktywniobywatele.org.pl)
+ - date_published: 2024-07-14T21:45:03.433835+00:00
+
+ ## Portal AMIGA ORG PL – amiga.org.pl
+ - [https://amiga.org.pl](https://amiga.org.pl)
+ - date_published: 2024-02-06T13:37:32.589117+00:00
+ - tags: ['amiga']
+
+ ## amiga online – dobre miejsce na debiut dla twórczych amigowców
+ - [https://sklep.amiga.org.pl](https://sklep.amiga.org.pl)
+ - date_published: 2023-12-11T16:55:39.925424+00:00
+
+ ## Księgarnia Patriotyczna ANTYK
+ - [http://ksiegarnia.antyk.org.pl](http://ksiegarnia.antyk.org.pl)
+ - date_published: 2024-08-06T22:40:31.195790+00:00
+
+ ## Fundacja Pomocy Antyk
+ - [http://www.antyk.org.pl](http://www.antyk.org.pl)
+ - date_published: 2016-12-30T12:24:06+00:00
+
+ ## atari . area. Twoje źródło informacji o Atari
+ - [http://atari.org.pl](http://atari.org.pl)
+ - date_published: 2024-09-04T17:27:37.958827+00:00
+
+ ## rAzem posTawmy na goDność - ATD Czwarty Świat Polska
+ - [http://www.atd.org.pl](http://www.atd.org.pl)
+ - date_published: 2024-07-13T19:49:09.011484+00:00
+
+ ## Aktualności - Orienteering Baltic Cup
+ - [https://www.balticcup.org.pl](https://www.balticcup.org.pl)
+ - date_published: 2024-07-16T14:52:20+00:00
+
+ ## bash.org.pl: śmieszne cytaty
+ - [http://bash.org.pl](http://bash.org.pl)
+ - date_published: 2024-01-06T08:41:47+00:00
+ - tags: ['funny']
+
+ ## Strona główna - Fundacja im. Stefana Batorego
+ - [https://www.batory.org.pl](https://www.batory.org.pl)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Business Centre Club
+ - [https://www.bcc.org.pl](https://www.bcc.org.pl)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Biblioteka Narodowa
+ - [https://bn.org.pl](https://bn.org.pl)
+ - date_published: 2024-04-18T10:06:08+00:00
+ - tags: ['national library']
+
+ ## Księgarnia Biblioteki Narodowej
+ - [http://ksiegarnia.bn.org.pl](http://ksiegarnia.bn.org.pl)
+ - date_published: 2024-08-11T03:11:03.496383+00:00
+
+ ## przepisy katalogowania
+ - [http://przepisy.bn.org.pl](http://przepisy.bn.org.pl)
+ - date_published: 2024-08-11T03:11:00.015429+00:00
+
+ ## Chabad Lubawicz Polska – Centrum Żydowskie – Chabad Lubawicz – najbardziej dynamiczna siła we współczesnym żydowskim życiu. To filozofia, ruch i organizacja. Jesteśmy tym domem, którego szukają Żydzi.
+ - [https://chabad.org.pl](https://chabad.org.pl)
+ - date_published: 2024-01-30T02:12:28.571971+00:00
+
+ ## CSM – Centrum Stosunków Międzynarodowych
+ - [https://csm.org.pl](https://csm.org.pl)
+ - date_published: 2024-01-30T02:20:38.570360+00:00
+
+ ## Fundacja Cultus - Historia. Sztuka. Kultura.
+ - [http://cultus.org.pl](http://cultus.org.pl)
+ - date_published: 2024-08-06T22:37:10.364038+00:00
+
+ ## DBLots - Online Game
+ - [http://dblots.org.pl](http://dblots.org.pl)
+ - date_published: 2024-07-10T02:05:46.823383+00:00
+
+ ## Akademia Fact-Checkingu. Jak odróżniać fake newsy od prawdy?
+ - [https://akademia.demagog.org.pl](https://akademia.demagog.org.pl)
+ - date_published: 2020-09-04T13:54:48+00:00
+
+ ## DEMAGOG - fakty są najważniejsze! Weryfikujemy i kontrolujemy.
+ - [https://demagog.org.pl](https://demagog.org.pl)
+ - date_published: 2023-10-25T22:25:14.949568+00:00
+ - tags: ['fact check']
+
+ ## Platforma edukacyjna Demagoga
+ - [https://platforma.demagog.org.pl](https://platforma.demagog.org.pl)
+ - date_published: 2024-05-12T04:02:24.111894+00:00
+
+ ## DFR – Miliony złotych na wsparcie przedsiębiorców z Dolnego Śląska
+ - [http://www.dfr.org.pl](http://www.dfr.org.pl)
+ - date_published: 2020-09-10T07:20:32+00:00
+
+ ## Dolnośląska Organizacja Turystyczna – Portal Stowarzyszenia DOT
+ - [https://dot.org.pl](https://dot.org.pl)
+ - date_published: 2024-07-15T04:52:42.478395+00:00
+
+ ## Łukasz Rybka
+ - [https://dragonia.org.pl](https://dragonia.org.pl)
+ - date_published: 2024-05-11T10:07:15.528075+00:00
+
+ ## Strona główna - Towarzystwo Inicjatyw Twórczych 'ę'
+ - [https://e.org.pl](https://e.org.pl)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Lista aktualnie trwających konkursów ofert
+ - engo.org.pl
+ - [https://dolnoslaskie.engo.org.pl](https://dolnoslaskie.engo.org.pl)
+ - date_published: 2024-07-17T07:45:59.941036+00:00
+
+ ## Fundacja Moje Państwo
+ - [https://epf.org.pl](https://epf.org.pl)
+ - date_published: 2024-05-06T09:20:32.550709+00:00
+
+ ## Narodowa Agencja Erasmus+
+ - [https://erasmusplus.org.pl](https://erasmusplus.org.pl)
+ - date_published: 2024-07-09T13:23:42.457256+00:00
+
+ ## Fototeka
+ - [https://fototeka.fn.org.pl](https://fototeka.fn.org.pl)
+ - date_published: 2024-07-20T17:52:52.786037+00:00
+
+ ## Gapla - Galeria plakatu filmowego
+ - [https://gapla.fn.org.pl](https://gapla.fn.org.pl)
+ - date_published: 2024-07-20T17:52:53.787530+00:00
+
+ ## FINA strona główna
+ - [http://www.fn.org.pl](http://www.fn.org.pl)
+ - date_published: 2024-07-09T07:27:35.625872+00:00
+
+ ## Fototeka
+ - [http://www.fototeka.fn.org.pl](http://www.fototeka.fn.org.pl)
+ - date_published: 2024-07-20T17:52:41.753730+00:00
+
+ ## Kino Iluzjon Filmoteki Narodowej
+ - [https://www.iluzjon.fn.org.pl](https://www.iluzjon.fn.org.pl)
+ - date_published: 2024-07-20T17:52:38.491232+00:00
+
+ ## Repozytorium Cyfrowe Filmoteki Narodowej
+ - [http://www.repozytorium.fn.org.pl](http://www.repozytorium.fn.org.pl)
+ - date_published: 2024-07-20T17:52:54+00:00
+
+ ## Home
+ - [https://for.org.pl](https://for.org.pl)
+ - date_published: 2024-05-13T03:23:55.456171+00:00
+
+ ## Sklep - Sklep FOR
+ - [https://sklep.for.org.pl](https://sklep.for.org.pl)
+ - date_published: 2022-11-28T00:00:00+00:00
+
+ ## Fundacja FORCE
+ - [https://force.org.pl](https://force.org.pl)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Polska, Polityka, Historia, Wiadomości - FORUM-ZNAK
+ - [http://www.forum-znak.org.pl](http://www.forum-znak.org.pl)
+ - date_published: 2024-07-15T07:20:22.812854+00:00
+
+ ## Strona główna - FPOP
+ - [https://fpop.org.pl](https://fpop.org.pl)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## FRK – Fundacja Rozwoju Kina – Fundacja Rozwoju Kina
+ - [http://www.frk.org.pl](http://www.frk.org.pl)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Forum Gothic Up
+ - [https://forum.gothic.org.pl](https://forum.gothic.org.pl)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Gothic Up - Polskie centrum Gothic, Risen oraz Elex.
+ - [https://gothic.org.pl](https://gothic.org.pl)
+ - date_published: 2024-05-09T20:41:27+00:00
+ - tags: ['gothic game']
+
+ ## GUST: Polska Grupa Użytkowników Systemu TeX — GUST Web Presence
+ - [https://www.gust.org.pl](https://www.gust.org.pl)
+ - date_published: 2024-07-13T16:55:17.422388+00:00
+
+ ## FORUM.HISTORIA.org.pl - Forum historyczne
+ - [https://forum.historia.org.pl](https://forum.historia.org.pl)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Historia.org.pl - Polski portal historyczny
+ - [https://historia.org.pl](https://historia.org.pl)
+ - date_published: 2023-10-25T22:25:19.313712+00:00
+
+ ## IAB 25-lecie
+ - [https://25lat.iab.org.pl](https://25lat.iab.org.pl)
+ - date_published: 2024-06-18T16:33:28.169423+00:00
+
+ ## Digital w dobie kryzysu
+ - [http://covid.iab.org.pl](http://covid.iab.org.pl)
+ - date_published: 2024-06-18T16:32:52.613709+00:00
+
+ ## Strona główna - IAB
+ - [https://howto.iab.org.pl](https://howto.iab.org.pl)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## IAB Polska
+ - [https://iab.org.pl](https://iab.org.pl)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Strona główna | MAPA BRANŻY INTERAKTYWNEJ IAB POLSKA
+ - [https://mapa.iab.org.pl](https://mapa.iab.org.pl)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Raport Strategiczny – Internet 2023/24
+ - [https://raportstrategiczny.iab.org.pl](https://raportstrategiczny.iab.org.pl)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Wszystko o RODO
+ - [https://rodo.iab.org.pl](https://rodo.iab.org.pl)
+ - date_published: 2024-06-18T16:33:14.099294+00:00
+
+ ## Home :: Izba Energetyki Przemysłowej i Odbiorców Energii
+ - [http://iep.org.pl](http://iep.org.pl)
+ - date_published: 2024-07-14T05:35:57.561920+00:00
+
+ ## Instytut Kościuszki
+ - [https://ik.org.pl](https://ik.org.pl)
+ - date_published: 2024-09-10T07:29:24.623067+00:00
+
+ ## Domena ikw.org.pl jest utrzymywana na serwerach nazwa.pl
+ - [http://ikw.org.pl](http://ikw.org.pl)
+ - date_published: 2024-09-02T14:32:17.866163+00:00
+
+ ## Strona Główna - Influencer Marketing
+ - [https://influencermarketing.org.pl](https://influencermarketing.org.pl)
+ - date_published: 2024-06-18T16:33:02.139890+00:00
+
+ ## innowacyjna wielkopolska – strona Departamentu Gospodarki UMWW
+ - [http://iw.org.pl](http://iw.org.pl)
+ - date_published: 2024-07-13T19:04:33.033944+00:00
+
+ ## Try JavaScript Online | Simple Web-based JavaScript Console Input
+ - [https://try.javascript.org.pl](https://try.javascript.org.pl)
+ - date_published: 2024-05-05T17:35:06+00:00
+
+ ## Fundacja Ośrodka KARTA |
+ - [http://www.karta.org.pl](http://www.karta.org.pl)
+ - date_published: 2024-07-09T07:27:25.716537+00:00
+
+ ## Krajowy Instytut Gospodarki Senioralnej
+ - [http://kigs.org.pl](http://kigs.org.pl)
+ - date_published: 2024-08-18T17:09:09.328359+00:00
+
+ ## Stowarzyszenie Klon/Jawor
+ - [http://www.klon.org.pl](http://www.klon.org.pl)
+ - date_published: 2024-06-11T08:33:54+00:00
+
+ ## Centrum Nauki Kopernik | Odkrywaj. Myśl. Działaj.
+ - [https://www.kopernik.org.pl](https://www.kopernik.org.pl)
+ - date_published: 2024-09-10T07:28:35.592996+00:00
+
+ ## Związek Polskiego Leasingu
+ - [http://www.leasing.org.pl](http://www.leasing.org.pl)
+ - date_published: 2024-07-14T05:24:13.101977+00:00
+
+ ## Liga Liero
+ - [https://liero.org.pl](https://liero.org.pl)
+ - date_published: 2024-05-09T19:21:57+00:00
+ - tags: ['liero']
+
+ ## Strona główna - Fundacja Świętego Mikołaja
+ - [https://mikolaj.org.pl](https://mikolaj.org.pl)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## MCPL | Minecraft Polska - Społeczność graczy Minecraft Polska
+ - [https://minecraft.org.pl](https://minecraft.org.pl)
+ - date_published: 2024-04-09T17:49:40+00:00
+ - tags: ['minecraft fan page']
+
+ ## Papieskie Dzieła Misyjne |
+ - [https://missio.org.pl](https://missio.org.pl)
+ - date_published: 2024-05-26T15:51:23.118818+00:00
+
+ ## Forum o grach MMO / MMORPG / MOBA
+ - [https://forum.mmorpg.org.pl](https://forum.mmorpg.org.pl)
+ - date_published: 2024-08-18T15:46:59.287282+00:00
+
+ ## Darmowe MMORPG - spis gier MMO, MMOFPS, MMORPG 3d, MOBA
+ - [https://mmorpg.org.pl](https://mmorpg.org.pl)
+ - date_published: 2023-10-26T18:37:58.388090+00:00
+
+ ## MOIPIP - Małopolska Okręgowa Izba Pielęgniarek i Położnych w Krakowie
+ - [http://www.moipip.org.pl](http://www.moipip.org.pl)
+ - date_published: 2024-09-02T17:26:59.913824+00:00
+
+ ## Jak omawiać drażliwe tematy ze współczuciem i szacunkiem – Jak poruszać się po drażliwych tematach ze współczuciem i zrozumieniem
+ - [https://mortis.org.pl](https://mortis.org.pl)
+ - date_published: 2024-06-04T10:58:52+00:00
+
+ ## MyPortal - Strona domowa MyPlayer (IPTV)
+ - [http://mp.org.pl](http://mp.org.pl)
+ - date_published: 2024-08-20T19:35:42.825561+00:00
+
+ ## NIL
+ - [http://www.nil.org.pl](http://www.nil.org.pl)
+ - date_published: 2024-09-02T17:26:55.081872+00:00
+
+ ## NOSPR
+ - [http://www.nospr.org.pl](http://www.nospr.org.pl)
+ - date_published: 2024-07-17T08:35:59.499010+00:00
+
+ ## eNOT.pl
+ - [https://not.org.pl](https://not.org.pl)
+ - date_published: 2024-07-17T16:27:35.368787+00:00
+
+ ## Niezależne Zrzeszenie Studentów
+ - [http://www.nzs.org.pl](http://www.nzs.org.pl)
+ - date_published: 2024-08-19T21:17:45.917775+00:00
+
+ ## Moderowany spis firm, katalog stron i linkowanie - obywatel.org.pl
+ - [http://www.obywatel.org.pl](http://www.obywatel.org.pl)
+ - date_published: 2024-08-19T21:16:28.052744+00:00
+
+ ## Oświęcimskie Centrum Kultury -
+ - [http://www.ock.org.pl](http://www.ock.org.pl)
+ - date_published: 2024-07-09T13:22:19.284519+00:00
+
+ ## Ognisko
+ - [https://www.ognisko.org.pl](https://www.ognisko.org.pl)
+ - date_published: 2024-07-09T13:23:07.472272+00:00
+
+ ## OpenStreetMap Polska - Portal polskiej społeczności OpenStreetMap
+ - [https://openstreetmap.org.pl](https://openstreetmap.org.pl)
+ - date_published: 2024-05-07T23:55:08.324991+00:00
+
+ ## Ośrodek Przetwarzania Informacji
+ - [https://opi.org.pl](https://opi.org.pl)
+ - date_published: 2020-04-01T15:11:39+00:00
+
+ ## Bezpieczenstwo
+ - [https://bezpieczenstwo.opoka.org.pl](https://bezpieczenstwo.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:49.613800+00:00
+
+ ## Gospodarka
+ - [https://gospodarka.opoka.org.pl](https://gospodarka.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:40.891368+00:00
+
+ ## Moja Opoka
+ - [https://moja.opoka.org.pl](https://moja.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:51.327489+00:00
+
+ ## OPOKA. Portal katolicki
+ - [https://opoka.org.pl](https://opoka.org.pl)
+ - date_published: 2023-10-25T22:25:23.274370+00:00
+ - tags: ['catholic', 'religion']
+
+ ## Opoka Poczta :: Witamy w Opoka Poczta
+ - [https://poczta.opoka.org.pl](https://poczta.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:56+00:00
+
+ ## Sponsorowane
+ - [https://sponsorowane.opoka.org.pl](https://sponsorowane.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:41.767094+00:00
+
+ ## Twoja finansowa opoka
+ - [https://twojafinansowa.opoka.org.pl](https://twojafinansowa.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:44.505031+00:00
+
+ ## Zbudowani
+ - [https://zbudowani.opoka.org.pl](https://zbudowani.opoka.org.pl)
+ - date_published: 2024-07-07T06:39:47.748214+00:00
+
+ ## Prawo Jazdy
+ - [https://osk.org.pl](https://osk.org.pl)
+ - date_published: 2024-07-13T19:17:08.846578+00:00
+
+ ## Polska Akcja Humanitarna - organizacja humanitarna, non-profit - pomoc potrzebującym, ofiarom konfliktów zbrojnych i katastrof naturalnych
+ - [https://www.pah.org.pl](https://www.pah.org.pl)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Program Badań Przesiewowych - Raka Jelita Grubego
+ - [http://pbp.org.pl](http://pbp.org.pl)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Polska Fundacja Fantastyki Naukowej
+ - [https://pffn.org.pl](https://pffn.org.pl)
+ - date_published: 2024-08-19T23:57:36.287510+00:00
+
+ ## Kultura bez barier
+ - [https://kultura-bez-barier.pfron.org.pl](https://kultura-bez-barier.pfron.org.pl)
+ - date_published: 2024-07-09T13:22:56.678443+00:00
+
+ ## Strona główna
+ - [http://www.pik.org.pl](http://www.pik.org.pl)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Prawo i Sprawiedliwość
+ - [https://bip.pis.org.pl](https://bip.pis.org.pl)
+ - date_published: 2024-05-29T09:07:48.129687+00:00
+
+ ## Prawo i Sprawiedliwość
+ - [https://pis.org.pl](https://pis.org.pl)
+ - date_published: 2024-02-23T16:25:58.565767+00:00
+ - tags: ['government party']
+
+ ## GetResponse MAX | Online Marketing Platform
+ - [https://newsletter.pmm.org.pl](https://newsletter.pmm.org.pl)
+ - date_published: 2024-09-02T13:48:33.042063+00:00
+
+ ## Strona główna | Polska Misja Medyczna
+ - [https://pmm.org.pl](https://pmm.org.pl)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Fundacja Podaj Dalej - półtora procent podatku na pomoc i rehabilitację dla osób niepełnosprawnych - fundacja Doktor Janaszek
+ - [http://podajdalej.org.pl](http://podajdalej.org.pl)
+ - date_published: 2024-08-18T17:09:39.834861+00:00
+
+ ## Fundacja Dzieciom Pomagaj - przekaż 1 % podatku
+ - [https://www.pomagaj.org.pl](https://www.pomagaj.org.pl)
+ - date_published: 2024-09-20T18:53:20.199633+00:00
 

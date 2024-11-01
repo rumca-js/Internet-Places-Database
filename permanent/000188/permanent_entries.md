@@ -1,235 +1,3 @@
- ## Support Center
- - [https://support.stratasys.com](https://support.stratasys.com)
- - date_published: 2024-05-04T08:41:50.901474+00:00
-
- ## Order 3D Printed Parts Online | 3D Print On Demand | Stratasys Direct
- - [https://quotes.stratasysdirect.com](https://quotes.stratasysdirect.com)
- - date_published: 2024-05-22T03:32:42+00:00
-
- ## On-Demand 3D Printing Service | Stratasys Direct
- - [https://stratasysdirect.com](https://stratasysdirect.com)
- - date_published: 2024-05-04T08:41:43.234314+00:00
- - tags: ['3d printing']
-
- ## The Stratechery Forum
- - [https://forum.stratechery.com](https://forum.stratechery.com)
- - date_published: 2024-05-23T02:47:37.033861+00:00
-
- ## Stratechery by Ben Thompson – On the business, strategy, and impact of technology.
- - [https://stratechery.com](https://stratechery.com)
- - date_published: 2023-10-25T17:17:59.521705+00:00
- - tags: ['personal', 'blog']
-
- ## StrategicAero Research
- - [http://www.strategicaeroresearch.com](http://www.strategicaeroresearch.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Strategic Alchemy Lab – Your gateway to the exploration of what’s possible
- - [https://strategicalchemylab.com](https://strategicalchemylab.com)
- - date_published: 2024-04-29T03:59:19.022759+00:00
-
- ## Strategic Audience Map is now Samhub | SAM
- - [https://strategicaudiencemap.com](https://strategicaudiencemap.com)
- - date_published: 2023-10-10T20:42:35+00:00
-
- ## Strategic Studies Book Club
- - [http://strategic-book-club.com](http://strategic-book-club.com)
- - date_published: 2024-06-30T11:04:55.492528+00:00
-
- ## StrategicCFO360 - StrategicCFO360
- - [https://strategiccfo360.com](https://strategiccfo360.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - StrategicCHRO360
- - [https://strategicchro360.com](https://strategicchro360.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Strategic Horizons- The Home of The Experience Economy
- - [https://strategichorizons.com](https://strategichorizons.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Strategic Media Inc.
- - [https://www.strategicmediainc.com](https://www.strategicmediainc.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Strategize Your Career | Fran Soto | Substack
- - [https://strategizeyourcareer.com](https://strategizeyourcareer.com)
- - date_published: 2024-04-14T00:00:00+00:00
-
- ## Home
- - [http://strategyandtacticsmagazine.com](http://strategyandtacticsmagazine.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Strategy & Tactics
- - [http://shop.strategyandtacticspress.com](http://shop.strategyandtacticspress.com)
- - date_published: 2024-07-09T14:03:42.584632+00:00
-
- ## Strategy & Tactics Press
- - [http://strategyandtacticspress.com](http://strategyandtacticspress.com)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Strategy Games | Strategy and Wargaming
- - [https://strategyandwargaming.com](https://strategyandwargaming.com)
- - date_published: 2024-05-23T11:32:08+00:00
- - tags: ['video game news']
-
- ## strategy+business: international business strategy news articles and award-winning analysis
- - [https://www.strategy-business.com](https://www.strategy-business.com)
- - date_published: 2024-05-07T20:27:48.667795+00:00
-
- ## Home | Strategy Institute
- - [https://strategyinstitute.com](https://strategyinstitute.com)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Home
- - [https://strategyn.com](https://strategyn.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Strategy of Security
- - [https://strategyofsecurity.com](https://strategyofsecurity.com)
- - date_published: 2024-04-05T18:24:21.415168+00:00
-
- ## StrategyPage | Military News Humor Photos
- - [http://strategypage.com](http://strategypage.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## StrategyPage | Military News Humor Photos
- - [https://www.strategypage.com](https://www.strategypage.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## GameSpy: PC Games, Reviews, News, Previews, Demos, Mods & Patches
- - [http://www.strategyplanet.com](http://www.strategyplanet.com)
- - date_published: 2016-10-20T19:28:14+00:00
-
- ## Ares - A Yuri's Revenge Expansion DLL
- - [https://ares.strategy-x.com](https://ares.strategy-x.com)
- - date_published: 2024-07-01T09:32:17.491574+00:00
-
- ## Stratemats.com
- - [https://www.stratemats.com](https://www.stratemats.com)
- - date_published: 2024-10-26T21:47:20.593082+00:00
-
- ## RANE Geopolitical Intelligence
- - [https://lp.stratfor.com](https://lp.stratfor.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Stratfor: The World's Leading Geopolitical Intelligence Platform
- - [https://worldview.stratfor.com](https://worldview.stratfor.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Stratfor: The World's Leading Geopolitical Intelligence Platform
- - [https://stratfor.com](https://stratfor.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Stratford projects | One of our most fun projects!
- - [https://stratfordprojects.com](https://stratfordprojects.com)
- - date_published: 2024-08-07T21:17:31.344168+00:00
-
- ## Strathlachlan
- - [http://www.strathlachlan.com](http://www.strathlachlan.com)
- - date_published: 2014-04-08T00:00:00+00:00
-
- ## Strath Union
- - [https://www.strathunion.com](https://www.strathunion.com)
- - date_published: 2024-07-12T16:51:22.192199+00:00
-
- ## Strathweb. A free flowing tech monologue.
- - [https://strathweb.com](https://strathweb.com)
- - date_published: 2024-05-01T03:45:48.918276+00:00
-
- ## Stratio : Transform and build your digital strategy around Big Data and
-    AI
- - [https://www.stratio.com](https://www.stratio.com)
- - date_published: 2024-05-01T07:40:37.321644+00:00
-
- ## Stratis Auroria Testnet blockchain explorer
- - [https://auroria.explorer.stratisevm.com](https://auroria.explorer.stratisevm.com)
- - date_published: 2024-09-24T00:28:28.657892+00:00
-
- ## Stratis Auroria Faucet
- - [https://auroria.faucet.stratisevm.com](https://auroria.faucet.stratisevm.com)
- - date_published: 2024-09-24T00:40:39.956840+00:00
-
- ## Stratis blockchain explorer
- - [https://explorer.stratisevm.com](https://explorer.stratisevm.com)
- - date_published: 2024-09-23T16:45:12.997845+00:00
-
- ## Home – StratisPlatform - StratisPlatform
- - [https://www.stratisplatform.com](https://www.stratisplatform.com)
- - date_published: 2024-09-01T00:00:00+00:00
-
- ## Strativia | Delivering Technology, Consulting and Professional Services
- - [https://www.strativia.com](https://www.strativia.com)
- - date_published: 2024-08-19T17:45:47.630149+00:00
-
- ## Get Latest Trending News | Breaking News | StratNewsGlobal
- - [https://stratnewsglobal.com](https://stratnewsglobal.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## StratObserve
- - [https://stratobserve.com](https://stratobserve.com)
- - date_published: 2024-04-29T05:34:16.407386+00:00
-
- ## STRATO Kunden-Login | Schneller Zugang zu Ihren Produkten
- - [https://strato-editor.com](https://strato-editor.com)
- - date_published: 2024-07-24T07:15:58.109851+00:00
-
- ## Stratoflow - High-Performance Software Development Company
- - [https://stratoflow.com](https://stratoflow.com)
- - date_published: 2023-10-25T17:18:01.529316+00:00
-
- ## The Future of Hypersonic Testing
- - [https://www.stratolaunch.com](https://www.stratolaunch.com)
- - date_published: 2024-06-27T14:57:35+00:00
-
- ## Hardwar
- - [https://stratominis.com](https://stratominis.com)
- - date_published: 2024-10-26T22:04:49.036548+00:00
-
- ## Stratosphere Games - Stratosphere Games
- - [https://stratosphere-games.com](https://stratosphere-games.com)
- - date_published: 2024-05-13T03:55:08.572136+00:00
-
- ## Home
- - [https://www.strattic.com](https://www.strattic.com)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Stratum Security Blog
- - [https://blog.stratumsecurity.com](https://blog.stratumsecurity.com)
- - date_published: 2024-06-12T18:54:36.781709+00:00
-
- ## Stratus Technologies | Zero-touch Edge Computing
- - [https://www.stratus.com](https://www.stratus.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Software Engineering Blog by Trevor Brown - Stratus3D
- - [https://stratus3d.com](https://stratus3d.com)
- - date_published: 2024-06-22T15:57:03.970627+00:00
-
- ## Stratus Admissions Counseling
- - [https://www.stratusadmissionscounseling.com](https://www.stratusadmissionscounseling.com)
- - date_published: 2024-06-26T08:30:11.828331+00:00
-
- ## Kirk Strauser
- - [https://strauser.com](https://strauser.com)
- - date_published: 2023-11-01T23:23:26+00:00
-
- ## Herbal Supplements | Strauss Naturals!
- - [https://straussnaturals.com](https://straussnaturals.com)
- - date_published: 2024-09-16T19:47:01.508319+00:00
-
- ## Strava | Running, Cycling & Hiking App - Train, Track & Share
- - [http://app.strava.com](http://app.strava.com)
- - date_published: 2024-07-09T18:45:50.805381+00:00
-
- ## Strava | Stories
- - [https://blog.strava.com](https://blog.strava.com)
- - date_published: 2024-06-26T08:58:10.680715+00:00
-
- ## Strava Business: Grow your brand with Strava
- - [https://business.strava.com](https://business.strava.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
  ## Strava | Partners
  - [https://partners.strava.com](https://partners.strava.com)
  - date_published: 2024-06-26T08:58:14.031777+00:00
@@ -892,10 +660,6 @@
  ## Free Registration & Ticketing Software - Stride Events
  - [https://www.strideevents.com](https://www.strideevents.com)
  - date_published: 2024-09-19T22:46:11.640281+00:00
-
- ## Stride: Lifelong Learning Solutions & Programs
- - [https://www.stridelearning.com](https://www.stridelearning.com)
- - date_published: 2024-06-19T20:35:40+00:00
 
  ## The Strident Conservative ™ The Strident Conservative
  - [https://www.stridentconservative.com](https://www.stridentconservative.com)
@@ -4081,4 +3845,243 @@
  ## Coffee Club By Bottle | Andy Blechman | Substack
  - [https://bottlelabs.substack.com](https://bottlelabs.substack.com)
  - date_published: 2024-09-06T00:00:00+00:00
+
+ ## The Bottom Feeder | Substack
+ - [https://bottomfeeder.substack.com](https://bottomfeeder.substack.com)
+ - date_published: 2024-06-30T10:24:01.414850+00:00
+
+ ## The Botulist Substack | Substack
+ - [https://botulist.substack.com](https://botulist.substack.com)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## GROSS - Cinema history and criticism | Steve Bowbrick | Substack
+ - [https://bowbrick.substack.com](https://bowbrick.substack.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## An Ordinary Disaster | Bowen Dwelle | Substack
+ - [https://bowendwelle.substack.com](https://bowendwelle.substack.com)
+ - date_published: 2024-06-01T04:49:59.743947+00:00
+
+ ## BQ Rail | Substack
+ - [https://bqrail.substack.com](https://bqrail.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Brad DeLong's Grasping Reality | Substack
+ - [https://braddelong.substack.com](https://braddelong.substack.com)
+ - date_published: 2024-02-24T00:00:00+00:00
+
+ ## Motorhead | Substack
+ - [https://bradmunchen.substack.com](https://bradmunchen.substack.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Brain Breakthrough Lifestyle | 𝐀𝐧𝐠𝐞𝐥𝐚 𝐒𝐡𝐮𝐫𝐢𝐧𝐚 | Substack
+ - [https://brainbreakthrough.substack.com](https://brainbreakthrough.substack.com)
+ - date_published: 2024-05-08T03:21:24.242717+00:00
+
+ ## Seth's Substack | Seth Moskowitz | Substack
+ - [https://braincandy.substack.com](https://braincandy.substack.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Brain Pizza by Shane O'Mara | Substack
+ - [https://brainpizza.substack.com](https://brainpizza.substack.com)
+ - date_published: 2023-10-25T09:44:15.485628+00:00
+ - tags: ['substack']
+
+ ## Business Brainstorms | Substack
+ - [https://brainstorms.substack.com](https://brainstorms.substack.com)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## The Inner Brand | Miles Hanson | Substack
+ - [https://brandthrive.substack.com](https://brandthrive.substack.com)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Brandy’s Substack | Brandy Jensen | Substack
+ - [https://brandyjensen.substack.com](https://brandyjensen.substack.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Global Inequality and More 3.0 | Branko Milanovic | Substack
+ - [https://branko2f7.substack.com](https://branko2f7.substack.com)
+ - date_published: 2024-04-28T04:54:56.841189+00:00
+
+ ## Brass Ring Daily | Kara Cutruzzula | Substack
+ - [https://brassringdaily.substack.com](https://brassringdaily.substack.com)
+ - date_published: 2024-08-18T02:24:09.611565+00:00
+
+ ## Ribbonfarm Studio | Venkatesh Rao | Substack
+ - [https://breakingsmart.substack.com](https://breakingsmart.substack.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Brendan Graham Dempsey | Substack
+ - [https://brendangrahamdempsey.substack.com](https://brendangrahamdempsey.substack.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Brendan’s Substack | Brendan McCord | Substack
+ - [https://brendanmccord.substack.com](https://brendanmccord.substack.com)
+ - date_published: 2024-08-18T06:33:57.279684+00:00
+
+ ## The Briefing | Brennan Center | Substack
+ - [https://brennancenter.substack.com](https://brennancenter.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Bretton Goods | Pradyumna Prasad | Substack
+ - [https://brettongoods.substack.com](https://brettongoods.substack.com)
+ - date_published: 2023-10-25T09:44:23.031308+00:00
+ - tags: ['substack']
+
+ ## Altered States of Monetary Consciousness | Brett Scott | Substack
+ - [https://brettscott.substack.com](https://brettscott.substack.com)
+ - date_published: 2023-10-25T09:44:25.834898+00:00
+ - tags: ['substack']
+
+ ## Brevarthan Research | Anon | Substack
+ - [http://brevarthanresearch.substack.com](http://brevarthanresearch.substack.com)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Thursday Brew | Fiona | Substack
+ - [https://brewtime.substack.com](https://brewtime.substack.com)
+ - date_published: 2024-09-07T22:10:32.278127+00:00
+
+ ## type click type | brian grubb | Substack
+ - [https://briancgrubb.substack.com](https://briancgrubb.substack.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Poetry & Process | Brian Funke | Substack
+ - [https://brianfunke.substack.com](https://brianfunke.substack.com)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Britain Remade | Sam Richards | Substack
+ - [https://britainremade.substack.com](https://britainremade.substack.com)
+ - date_published: 2024-04-29T00:35:41.014692+00:00
+
+ ## Writerly Things with Brooke Warner | Substack
+ - [https://brookewarner.substack.com](https://brookewarner.substack.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## A Small and Simple Thing | Brooks Reitz | Substack
+ - [https://brooksreitz.substack.com](https://brooksreitz.substack.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Brownstone Insights | JeffreyTucker | Substack
+ - [https://brownstone.substack.com](https://brownstone.substack.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Web Browser Engineering Blog | Pavel Panchekha | Substack
+ - [https://browserbook.substack.com](https://browserbook.substack.com)
+ - date_published: 2024-06-28T12:40:22.755745+00:00
+
+ ## Keeping Tabs by The Browser Company | Substack
+ - [https://browsercompany.substack.com](https://browsercompany.substack.com)
+ - date_published: 2024-06-09T17:27:59.244298+00:00
+
+ ## Clerestory | Bryan Kam | Substack
+ - [https://bryankam.substack.com](https://bryankam.substack.com)
+ - date_published: 2024-05-12T06:24:01.662299+00:00
+
+ ## Burning the Midnight Coffee | Sir Whinesalot | Substack
+ - [https://btmc.substack.com](https://btmc.substack.com)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Bucket Overflow | Lucy Keer | Substack
+ - [https://bucketoverflow.substack.com](https://bucketoverflow.substack.com)
+ - date_published: 2024-05-01T07:48:26.836334+00:00
+
+ ## Buck on Software | Substack
+ - [https://buckonsoftware.substack.com](https://buckonsoftware.substack.com)
+ - date_published: 2024-06-17T14:57:00.976817+00:00
+
+ ## The OBU Newsletter | The Open Buddhist University | Substack
+ - [https://buddhistuniversity.substack.com](https://buddhistuniversity.substack.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## BG Shipping Log 🛳 | BuidlGuidl | Substack
+ - [https://buidlguidl.substack.com](https://buidlguidl.substack.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Cognitive Resonance | Benjamin Riley | Substack
+ - [https://buildcognitiveresonance.substack.com](https://buildcognitiveresonance.substack.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Build in Climate | Matt Yao | Substack
+ - [https://buildinclimate.substack.com](https://buildinclimate.substack.com)
+ - date_published: 2024-07-04T08:10:33.072763+00:00
+
+ ## BR: Technical Program Manager’s Field Manual | Aadil Maan | Substack
+ - [https://buildingromes.substack.com](https://buildingromes.substack.com)
+ - date_published: 2024-06-15T09:30:10.700142+00:00
+
+ ## Build In Public Newsletter | KP | Substack
+ - [https://buildinpublichub.substack.com](https://buildinpublichub.substack.com)
+ - date_published: 2023-10-25T09:44:28.188768+00:00
+ - tags: ['substack']
+
+ ## Build Startup In Public  | Priyanka Nath | Substack
+ - [https://buildstartupinpublic.substack.com](https://buildstartupinpublic.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Better Built By Burkhard | Substack
+ - [https://burkhardstubert.substack.com](https://burkhardstubert.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Hot Box | Tony Pierce | Substack
+ - [https://busblog.substack.com](https://busblog.substack.com)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Business Models for Developers | Substack
+ - [https://businessmodelsfordevelopers.substack.com](https://businessmodelsfordevelopers.substack.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Buster's Rickshaw | Substack
+ - [https://buster.substack.com](https://buster.substack.com)
+ - date_published: 2024-05-08T04:02:48.386519+00:00
+
+ ## button mash | Alanna Okun | Substack
+ - [https://buttonmash.substack.com](https://buttonmash.substack.com)
+ - date_published: 2023-10-25T09:44:29.640025+00:00
+ - tags: ['substack']
+
+ ## By George Journal Substack | Chris George | Substack
+ - [https://bygeorgejournal.substack.com](https://bygeorgejournal.substack.com)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## Bytes, Data, Action! | Blake Burch | Substack
+ - [https://bytesdataaction.substack.com](https://bytesdataaction.substack.com)
+ - date_published: 2023-10-25T09:44:30.830112+00:00
+ - tags: ['substack']
+
+ ## Byte-Sized Design | Substack
+ - [https://bytesizeddesign.substack.com](https://bytesizeddesign.substack.com)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Bytewax | Oli Makhasoeva | Substack
+ - [https://bytewax.substack.com](https://bytewax.substack.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Bzogramming | Charles Rosenbauer | Substack
+ - [https://bzogrammer.substack.com](https://bzogrammer.substack.com)
+ - date_published: 2023-10-25T09:44:33.337037+00:00
+ - tags: ['substack']
+
+ ## Cafétech | Jérôme Marin | Substack
+ - [https://cafetech.substack.com](https://cafetech.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## The Caffeinated Writer | Michelle Richmond | Substack
+ - [https://caffeinatedwriter.substack.com](https://caffeinatedwriter.substack.com)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Philosophy For Party Girls | Cailey | Substack
+ - [https://cailey.substack.com](https://cailey.substack.com)
+ - date_published: 2024-08-19T14:32:48.619390+00:00
+
+ ## Jason Calacanis on Startups | jason@calacanis.com | Substack
+ - [https://calacanis.substack.com](https://calacanis.substack.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## CalculatedRisk Newsletter | CalculatedRisk by Bill McBride | Substack
+ - [https://calculatedrisk.substack.com](https://calculatedrisk.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## CALIFORNIA EATING | Tamara Palmer | Substack
+ - [https://californiaeating.substack.com](https://californiaeating.substack.com)
+ - date_published: 2024-06-04T00:00:00+00:00
 

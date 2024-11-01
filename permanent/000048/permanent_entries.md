@@ -1,48 +1,3 @@
- ## Haywire Frontier, by Nathan Ho
- - [https://nathanho.bandcamp.com](https://nathanho.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Nation of Language
- - [https://nationoflanguage.bandcamp.com](https://nationoflanguage.bandcamp.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Navegante Records
- - [https://naveganterecords.bandcamp.com](https://naveganterecords.bandcamp.com)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Under The Bridge
- - [https://ndrthebridge.bandcamp.com](https://ndrthebridge.bandcamp.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Nebyoolae
- - [https://nebyoolae.bandcamp.com](https://nebyoolae.bandcamp.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Nein Records
- - [https://neinrecords.bandcamp.com](https://neinrecords.bandcamp.com)
- - date_published: 2024-10-22T20:17:21.666309+00:00
-
- ## linear, by Nerve Filter
- - [http://nervefilter.bandcamp.com](http://nervefilter.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Never Come Ashore
- - [https://nevercomeashore.bandcamp.com](https://nevercomeashore.bandcamp.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## New Age Steppers
- - [https://newagesteppers.bandcamp.com](https://newagesteppers.bandcamp.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## NEW HINKSEY RECORDINGS
- - [https://newhinkseyrecordings.bandcamp.com](https://newhinkseyrecordings.bandcamp.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## NewRetroWave
- - [https://newretrowave.bandcamp.com](https://newretrowave.bandcamp.com)
- - date_published: 2023-11-13T09:21:49.604230+00:00
- - tags: ['synthwave', 'new retro wave']
-
  ## Virginia/ Below/ Glass (Single), by GLOM
  - [https://newyorkglom.bandcamp.com](https://newyorkglom.bandcamp.com)
  - date_published: 2024-05-07T00:00:00+00:00
@@ -4011,4 +3966,48 @@ rain or shine
  ## Project management software, online collaboration
  - [http://www.basecamp.com](http://www.basecamp.com)
  - date_published: 2024-06-17T19:10:00+00:00
+
+ ## Project management software, online collaboration
+ - [http://www.basecamphq.com](http://www.basecamphq.com)
+ - date_published: 2024-07-11T02:10:55+00:00
+
+ ## Improve Your Data Health with BaseCap
+ - [https://basecapanalytics.com](https://basecapanalytics.com)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Basedash
+ - [https://app.basedash.com](https://app.basedash.com)
+ - date_published: 2024-06-26T22:37:08.742451+00:00
+
+ ## Basedash | The admin panel you don't have to build
+ - [https://basedash.com](https://basedash.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Basedash docs
+ - [https://docs.basedash.com](https://docs.basedash.com)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Basedash Feedback
+ - [https://feedback.basedash.com](https://feedback.basedash.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Basedash - Status
+ - [https://status.basedash.com](https://status.basedash.com)
+ - date_published: 2024-06-26T22:37:33.082976+00:00
+
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://thirtythree-thirtynine.basedash.com](https://thirtythree-thirtynine.basedash.com)
+ - date_published: 2024-06-26T20:41:24+00:00
+
+ ## Building brands with cultural impact | Base Design
+ - [https://www.basedesign.com](https://www.basedesign.com)
+ - date_published: 2024-06-25T21:16:28.688591+00:00
+
+ ## Based In - Co-working Space for creative entrepreneurs
+ - [https://basedin.com](https://basedin.com)
+ - date_published: 2024-06-17T04:05:53.947631+00:00
+
+ ## Based In
+ - [https://members.basedin.com](https://members.basedin.com)
+ - date_published: 2024-10-16T17:18:01.937202+00:00
 

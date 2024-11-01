@@ -1,48 +1,3 @@
- ## JLOUIS Ramblings
- - [https://jlouisramblings.blogspot.com](https://jlouisramblings.blogspot.com)
- - date_published: 2024-02-20T19:40:51.773282+00:00
- - tags: ['personal']
-
- ## Being Eclipsed
- - [http://jmj-eclipse.blogspot.com](http://jmj-eclipse.blogspot.com)
- - date_published: 2024-03-13T00:03:52+00:00
-
- ## Kish Collections
- - [http://jnkish.blogspot.com](http://jnkish.blogspot.com)
- - date_published: 2024-03-13T16:45:15+00:00
-
- ## Joan Mora
- - [http://joanmorawrites.blogspot.com](http://joanmorawrites.blogspot.com)
- - date_published: 2024-10-17T22:58:00.720085+00:00
-
- ## I Have Seen The Whole Of The Internet
- - [http://joannecasey.blogspot.com](http://joannecasey.blogspot.com)
- - date_published: 2024-07-09T05:52:30+00:00
-
- ## Joanne Mattera Art Blog
- - [http://joannemattera.blogspot.com](http://joannemattera.blogspot.com)
- - date_published: 2024-06-24T06:43:27+00:00
-
- ## Jo-Anne's Ramblings
- - [http://jo-annemotherandnanna.blogspot.com](http://jo-annemotherandnanna.blogspot.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Memoirs in Motion: Journaling My Life
- - [https://jodiunedited.blogspot.com](https://jodiunedited.blogspot.com)
- - date_published: 2024-08-11T03:54:00+00:00
-
- ## The Allens!!!
- - [http://joeandjoy.blogspot.com](http://joeandjoy.blogspot.com)
- - date_published: 2024-03-05T04:20:16+00:00
-
- ## Blogger
- - [http://joebaronesblog.blogspot.com](http://joebaronesblog.blogspot.com)
- - date_published: 2024-10-17T23:11:28.034545+00:00
-
- ## Joel, Val, Sawyer, & London
- - [http://joelandval.blogspot.com](http://joelandval.blogspot.com)
- - date_published: 2024-07-04T06:00:21+00:00
-
  ## Joel R Phillips Art
  - [https://joelrpart.blogspot.com](https://joelrpart.blogspot.com)
  - date_published: 2024-10-11T23:21:55+00:00
@@ -4012,4 +3967,48 @@
  ## retired doc's thoughts
  - [http://mdredux.blogspot.com](http://mdredux.blogspot.com)
  - date_published: 2024-06-18T13:28:47+00:00
+
+ ## Meandering Shade
+ - [https://meanderingshade.blogspot.com](https://meanderingshade.blogspot.com)
+ - date_published: 2024-06-10T07:44:08+00:00
+
+ ## Meandering Through Mathematics
+ - [http://meandering-through-mathematics.blogspot.com](http://meandering-through-mathematics.blogspot.com)
+ - date_published: 2024-05-28T05:00:08+00:00
+
+ ## Mechanicum
+ - [http://mechanicum.blogspot.com](http://mechanicum.blogspot.com)
+ - date_published: 2024-10-25T11:26:59+00:00
+
+ ## Mech Dude's Blog
+ - [https://mechdudesblog.blogspot.com](https://mechdudesblog.blogspot.com)
+ - date_published: 2024-06-24T02:23:19+00:00
+
+ ## BaChOuNdA
+ - [https://medbachounda.blogspot.com](https://medbachounda.blogspot.com)
+ - date_published: 2024-07-11T18:05:09+00:00
+
+ ## Media Confidential
+ - [http://mediaconfidential.blogspot.com](http://mediaconfidential.blogspot.com)
+ - date_published: 2024-07-18T09:59:00+00:00
+
+ ## Media Warfare
+ - [http://mediawarfare.blogspot.com](http://mediawarfare.blogspot.com)
+ - date_published: 2024-03-05T04:09:32+00:00
+
+ ## Medical Hypotheses
+ - [http://medicalhypotheses.blogspot.com](http://medicalhypotheses.blogspot.com)
+ - date_published: 2024-03-05T23:53:13+00:00
+
+ ## Medieval Illumination
+ - [http://medieval-illumination.blogspot.com](http://medieval-illumination.blogspot.com)
+ - date_published: 2024-03-05T15:28:16+00:00
+
+ ## Medieval News
+ - [http://medievalnews.blogspot.com](http://medievalnews.blogspot.com)
+ - date_published: 2024-03-05T04:49:16+00:00
+
+ ## Blogger
+ - [http://meditations71.blogspot.com](http://meditations71.blogspot.com)
+ - date_published: 2024-10-21T18:35:07.223256+00:00
 

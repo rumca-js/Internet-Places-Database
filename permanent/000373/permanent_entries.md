@@ -1,450 +1,3 @@
- ## Protecting rivers and rights - International Rivers Resource Hub
- - [https://riverresourcehub.org](https://riverresourcehub.org)
- - date_published: 2024-05-12T07:37:59.845197+00:00
-
- ## River Valley Credit Union - Dayton, Ohio Local Credit Union
- - [https://www.rivervalleycu.org](https://www.rivervalleycu.org)
- - date_published: 2024-09-28T19:59:17.176097+00:00
-
- ## Home - Riverview Center
- - [https://riverviewcenter.org](https://riverviewcenter.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Republican Jewish Coalition
- - [https://www.rjchq.org](https://www.rjchq.org)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## RJI – Donald W. Reynolds Journalism Institute
- - [https://rjionline.org](https://rjionline.org)
- - date_published: 2024-07-04T05:32:46.758344+00:00
-
- ## Ramakrishna Mission Vivekananda Centenary College - Alumni Portal
- - [http://alumni.rkmvccrahara.org](http://alumni.rkmvccrahara.org)
- - date_published: 2024-09-14T22:11:13.670872+00:00
-
- ## RKMVCC - Departments
- - [http://department.rkmvccrahara.org](http://department.rkmvccrahara.org)
- - date_published: 2024-09-14T22:11:17.199938+00:00
-
- ## JASER, Ramakrishna Mission Vivekananda Centenary College, Rahara
- - [https://jaser.rkmvccrahara.org](https://jaser.rkmvccrahara.org)
- - date_published: 2024-09-14T22:10:55.340601+00:00
-
- ## Ramakrishna Mission Vivekananda Centenary College, Rahara
- - [https://rkmvccrahara.org](https://rkmvccrahara.org)
- - date_published: 2024-06-14T14:48:44.217908+00:00
-
- ## rkyv - rkyv
- - [https://rkyv.org](https://rkyv.org)
- - date_published: 2024-01-13T07:27:30.454779+00:00
-
- ## Home | RLC Berlin
- - [https://www.rlc-berlin.org](https://www.rlc-berlin.org)
- - date_published: 2024-09-11T01:30:33.623409+00:00
-
- ## Railway & Locomotive Historical Society, Inc.
- - [https://rlhs.org](https://rlhs.org)
- - date_published: 2024-08-11T14:38:12.879591+00:00
-
- ## Manage the Life Cycle of your Package Functions
- - [https://lifecycle.r-lib.org](https://lifecycle.r-lib.org)
- - date_published: 2023-11-06T16:12:23+00:00
-
- ## Another Approach to Package Installation
- - [https://pak.r-lib.org](https://pak.r-lib.org)
- - date_published: 2024-06-25T08:46:04+00:00
-
- ## Build websites for R packages
- - [https://pkgdown.r-lib.org](https://pkgdown.r-lib.org)
- - date_published: 2024-06-28T15:20:42+00:00
-
- ## Select from a Set of Strings
- - [https://tidyselect.r-lib.org](https://tidyselect.r-lib.org)
- - date_published: 2024-03-12T07:22:58+00:00
-
- ## Religious Liberty Partnership
- - [https://rlpartnership.org](https://rlpartnership.org)
- - date_published: 2023-11-20T00:00:00+00:00
-
- ## Quality Care for Northeast Alabama | Regional Medical Center
- - [https://rmccares.org](https://rmccares.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.rmef.org](https://www.rmef.org)
- - date_published: 2024-07-12T13:24:04.869255+00:00
-
- ## Cierpliwości...
- - [https://jobs.rmets.org](https://jobs.rmets.org)
- - date_published: 2024-06-17T17:46:02.440077+00:00
-
- ## Royal Meteorological Society
- - [http://rmets.org](http://rmets.org)
- - date_published: 2024-06-17T17:45:47.258201+00:00
-
- ## Royal Meteorological Society - Online Shop
- - [https://shop.rmets.org](https://shop.rmets.org)
- - date_published: 2024-06-17T17:45:48.312410+00:00
-
- ## Royal Meteorological Society
- - [https://www.rmets.org](https://www.rmets.org)
- - date_published: 2024-05-02T10:52:03.663895+00:00
-
- ## ufabet เว็บตรงทางเข้า มือ ถือ แทงบอลออนไลน์เว็บตรงครบวงจร
- - [http://www.rmetzner-greenearth.org](http://www.rmetzner-greenearth.org)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Home
- - [https://www.rmhawaii.org](https://www.rmhawaii.org)
- - date_published: 2024-08-18T03:23:51+00:00
-
- ## Ronald McDonald House Charities | RMHC
- - [https://rmhc.org](https://rmhc.org)
- - date_published: 2024-10-16T16:45:50.850714+00:00
-
- ## Home | RMHC-EIWI
- - [https://rmhc-eiwi.org](https://rmhc-eiwi.org)
- - date_published: 2024-05-04T09:28:00.504767+00:00
-
- ## RMI
- - [https://give.rmi.org](https://give.rmi.org)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## RMI
- - [https://rmi.org](https://rmi.org)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Iokwe Iok
- - [https://rmicourts.org](https://rmicourts.org)
- - date_published: 2024-09-25T10:37:15.650627+00:00
-
- ## Home
- - [https://rmla.org](https://rmla.org)
- - date_published: 2024-06-17T02:25:43.089885+00:00
-
- ## RML | Robotics and Mechatronics Lab
- - [http://rmlab.org](http://rmlab.org)
- - date_published: 2024-08-02T18:43:09+00:00
-
- ## Welcome!, Railroad Museum of Long Island
- - [http://rmli.org](http://rmli.org)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## CDP
- - [https://donate.rmpbs.org](https://donate.rmpbs.org)
- - date_published: 2024-07-07T05:15:00+00:00
-
- ## Home
- - [https://sam.rmpbs.org](https://sam.rmpbs.org)
- - date_published: 2024-03-04T00:00:00+00:00
-
- ## Rocky Mountain PBS | Home
- - [https://rmpbs.org](https://rmpbs.org)
- - date_published: 2024-05-08T09:30:29.725869+00:00
-
- ## Rocky Mountain School of Expeditionary Learning - Home
- - [http://www.rmsel.org](http://www.rmsel.org)
- - date_published: 2024-07-03T14:37:59+00:00
-
- ## Home - Rocky Mountain Tribal Leaders Council
- - [https://www.rmtlc.org](https://www.rmtlc.org)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Rocky Mountain IPv6 Taskforce
- - [http://www.rmv6tf.org](http://www.rmv6tf.org)
- - date_published: 2024-07-07T01:25:17.315767+00:00
-
- ## Religion News Association
- - [https://rna.org](https://rna.org)
- - date_published: 2024-04-29T04:48:13.858400+00:00
-
- ## RNA
- - [http://rnajournal.org](http://rnajournal.org)
- - date_published: 2024-06-17T11:48:23.759552+00:00
- - tags: ['rna']
-
- ## RNA Manuscript Processing System
- - [http://submit.rnajournal.org](http://submit.rnajournal.org)
- - date_published: 2024-10-19T04:06:55.901250+00:00
-
- ## Accueil
- - [http://www.rnbm.org](http://www.rnbm.org)
- - date_published: 2024-10-11T18:49:54+00:00
-
- ## RNCD – REDE NACIONAL DE COMBATE À DESINFORMAÇÃO
- - [https://rncd.org](https://rncd.org)
- - date_published: 2024-09-25T17:09:58+00:00
-
- ## NIMBLE – An R package for programming with BUGS models and compiling parts of R.
- - [https://r-nimble.org](https://r-nimble.org)
- - date_published: 2024-06-22T21:59:51.368347+00:00
-
- ## Home - Rheumatology Nurses Society
- - [http://rnsnurse.org](http://rnsnurse.org)
- - date_published: 2024-06-28T12:08:48.187298+00:00
-
- ## GPS/GNSS Security, Backup and GPS Timing Alternatives | RNTF
- - [https://rntfnd.org](https://rntfnd.org)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## THE ROAD TO 30
- - [https://www.roadto30.org](https://www.roadto30.org)
- - date_published: 2024-06-24T11:39:05.220183+00:00
-
- ## Roanoke Arts Commission → Progress, Art & Fun in Roanoke, Virginia
- - [https://roanokearts.org](https://roanokearts.org)
- - date_published: 2024-09-14T22:14:22.872937+00:00
-
- ## Robert Caro | Author of The Power Broker and The Years of Lyndon Johnson
- - [https://www.robertcaro.org](https://www.robertcaro.org)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Robert-E-Howard: Electronic Amateur Press Association
- - [http://www.robert-e-howard.org](http://www.robert-e-howard.org)
- - date_published: 2011-07-18T14:48:44+00:00
-
- ## Articles On Linux, Command-line & Software Engineering
- - [https://amp-blog.robertelder.org](https://amp-blog.robertelder.org)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Articles On Linux, Command-line & Software Engineering
- - [https://blog.robertelder.org](https://blog.robertelder.org)
- - date_published: 2023-10-25T22:03:37.326786+00:00
-
- ## Robert Elder Software Inc. Store
- - [https://store.robertelder.org](https://store.robertelder.org)
- - date_published: 2024-05-31T21:46:15+00:00
-
- ## Robert Elder Software Inc.
- - [https://www.robertelder.org](https://www.robertelder.org)
- - date_published: 2024-08-14T19:47:27.087895+00:00
- - tags: ['personal']
-
- ## Pages of Fun – Robert Wm. Gomez's Website
- - [http://www.robertgomez.org](http://www.robertgomez.org)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Homepage - Robert H Jackson Center
- - [https://roberthjackson.org](https://roberthjackson.org)
- - date_published: 2023-10-25T22:03:42.146332+00:00
-
- ## Robert Johnson Blues Foundation
- - [http://www.robertjohnsonbluesfoundation.org](http://www.robertjohnsonbluesfoundation.org)
- - date_published: 2024-06-27T06:47:23+00:00
-
- ## Robert Reich
- - [http://robertreich.org](http://robertreich.org)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Roberts Library
- - [https://robertslibrary.org](https://robertslibrary.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Robertson County, TN
- - [http://www.robertsoncountytn.org](http://www.robertsoncountytn.org)
- - date_published: 2024-06-30T12:16:19.996755+00:00
-
- ## Robertson Scholars
- - [https://robertsonscholars.org](https://robertsonscholars.org)
- - date_published: 2018-04-04T17:13:02+00:00
-
- ## Robert W. Gehl | About
- - [https://robertwgehl.org](https://robertwgehl.org)
- - date_published: 2024-05-11T09:34:18.481189+00:00
-
- ## RobGo.org
- - [http://robgo.org](http://robgo.org)
- - date_published: 2015-10-21T00:00:00+00:00
-
- ## Ways to Give - Robin Hood
- - [https://give.robinhood.org](https://give.robinhood.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Blue Ridge Labs @ Robin Hood
- - [https://labs.robinhood.org](https://labs.robinhood.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - Robin Hood
- - [https://robinhood.org](https://robinhood.org)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## RobinMcAlpine.org | Opinion Analysis Ideas
- - [https://robinmcalpine.org](https://robinmcalpine.org)
- - date_published: 2024-10-04T13:51:14.146181+00:00
- - tags: ['personal']
-
- ## Arkadiusz Robiński | Strona Arkadiusza Robińskiego. Wrzucam tu artykuły na różne tematy związane z szeroko pojętą informatyką. Jest tu też podstrona o układzie klawiatury Polski Międzynarodowy.
- - [https://robinski.org](https://robinski.org)
- - date_published: 2024-04-25T18:37:01+00:00
- - tags: ['personal']
-
- ## RoboHash
- - [https://robohash.org](https://robohash.org)
- - date_published: 2024-05-14T03:53:01.946109+00:00
-
- ## Robohub - Connecting the robotics community to the world
- - [https://robohub.org](https://robohub.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Robo 3T | Free, open-source MongoDB GUI (formerly Robomongo)
- - [https://robomongo.org](https://robomongo.org)
- - date_published: 2024-06-04T12:33:08+00:00
-
- ## Pittsburgh Robotics Network |
- - [https://robopgh.org](https://robopgh.org)
- - date_published: 2024-06-10T00:00:00+00:00
- - tags: ['robotics']
-
- ## Robot Framework
- - [https://robotframework.org](https://robotframework.org)
- - date_published: 2023-10-25T22:03:42.661228+00:00
-
- ## REx Lab: Home
- - [http://roboticexplorationlab.org](http://roboticexplorationlab.org)
- - date_published: 2024-06-04T17:54:22+00:00
-
- ## Robotics Alley
- - [http://roboticsalley.org](http://roboticsalley.org)
- - date_published: 2024-07-15T07:09:10.069837+00:00
-
- ## Robotics Career - Techs, Specialists, Integrators - RoboticsCareer.org
- - [https://www.roboticscareer.org](https://www.roboticscareer.org)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Home | Robotics: Science and Systems
- - [https://roboticsconference.org](https://roboticsconference.org)
- - date_published: 2024-06-13T08:26:18+00:00
-
- ## Home | Robotics: Science and Systems
- - [http://www.roboticsconference.org](http://www.roboticsconference.org)
- - date_published: 2024-06-21T05:16:06+00:00
-
- ## Robotics Factory - Create, Accelerate, Scale
- - [https://www.roboticsfactory.org](https://www.roboticsfactory.org)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Robotics Library
- - [https://www.roboticslibrary.org](https://www.roboticslibrary.org)
- - date_published: 2024-06-22T21:59:58.570993+00:00
-
- ## Robotics: Science and Systems - Online Proceedings
- - [https://www.roboticsproceedings.org](https://www.roboticsproceedings.org)
- - date_published: 2023-06-29T21:49:02+00:00
-
- ## Robotic Vision Australia
- - [https://roboticvision.org](https://roboticvision.org)
- - date_published: 2024-06-22T11:30:27.729200+00:00
-
- ## The Web Robots Pages
- - [http://www.robotstxt.org](http://www.robotstxt.org)
- - date_published: 2020-05-03T13:29:25+00:00
-
- ## | Rob Richardson | rob rich
- - [https://robrich.org](https://robrich.org)
- - date_published: 2024-07-23T17:39:07+00:00
-
- ## Art | Rochester Art Center | Minnesota
- - [https://rochesterartcenter.org](https://rochesterartcenter.org)
- - date_published: 2024-07-12T21:43:32.501126+00:00
-
- ## Rock Chalk Forever
- - [https://www.rockchalkforever.org](https://www.rockchalkforever.org)
- - date_published: 2023-10-19T17:37:15+00:00
-
- ## Home
- - [https://rockedge.org](https://rockedge.org)
- - date_published: 2011-12-30T02:40:58+00:00
-
- ## RF | Home
- - [https://assets.rockefellerfoundation.org](https://assets.rockefellerfoundation.org)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## RF | Home
- - [https://rockefellerfoundation.org](https://rockefellerfoundation.org)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Rocker Project - The Rocker Project
- - [https://rocker-project.org](https://rocker-project.org)
- - date_published: 2024-06-12T05:42:39+00:00
-
- ## Rocket Center Foundation – Supporting the mission of the U.S. Space and Rocket Center
- - [https://rocketcenterfoundation.org](https://rocketcenterfoundation.org)
- - date_published: 2024-06-17T09:53:02.323893+00:00
-
- ## Homepage - Rocket Community Fund
- - [https://www.rocketcommunityfund.org](https://www.rocketcommunityfund.org)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Home - RocketSTEM
- - [https://www.rocketstem.org](https://www.rocketstem.org)
- - date_published: 2024-08-18T20:13:52.215218+00:00
-
- ## RF | Home
- - [https://rockfound.org](https://rockfound.org)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Homepage | Rock Island Public Library
- - [https://www.rockislandlibrary.org](https://www.rockislandlibrary.org)
- - date_published: 2024-07-14T15:19:21+00:00
-
- ## Home - Rockefeller Philanthropy Advisors
- - [https://rockpa.org](https://rockpa.org)
- - date_published: 2024-05-25T08:25:04.466479+00:00
-
- ## Rockridge Institute – The Spirit Magazine – Rockridge Institute is a magazine with various dream meanings, spiritual meanings, angel numbers and zodiac.
- - [http://www.rockridgeinstitute.org](http://www.rockridgeinstitute.org)
- - date_published: 2024-07-23T19:43:36+00:00
-
- ## rockridgenation.org
- - [http://www.rockridgenation.org](http://www.rockridgenation.org)
- - date_published: 2024-08-06T08:55:05.460349+00:00
-
- ## RocksDB | A persistent key-value store
- - [https://rocksdb.org](https://rocksdb.org)
- - date_published: 2024-08-17T00:22:55+00:00
-
- ## RockStarProgrammer - Recent Posts
- - [http://www.rockstarprogrammer.org](http://www.rockstarprogrammer.org)
- - date_published: 2011-12-23T08:02:38+00:00
-
- ## Rock the Vote
- - [https://rockthevote.org](https://rockthevote.org)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Site is undergoing maintenance
- - [https://rockthevoteactionfund.org](https://rockthevoteactionfund.org)
- - date_published: 2023-10-30T19:12:30+00:00
-
- ## Home - Documentation
- - [https://docs.rockylinux.org](https://docs.rockylinux.org)
- - date_published: 2024-08-16T21:25:42+00:00
-
- ## Rocky Linux
- - [https://rockylinux.org](https://rockylinux.org)
- - date_published: 2023-10-25T22:03:43.968856+00:00
- - tags: ['operating system']
-
- ## Rocky Mountain Community Radio
- - [https://rockymountaincommunityradio.org](https://rockymountaincommunityradio.org)
- - date_published: 2024-05-08T09:30:05.371440+00:00
-
- ## RPLF
- - [https://foundation.roc-lang.org](https://foundation.roc-lang.org)
- - date_published: 2024-05-11T05:38:58.495436+00:00
-
- ## The Roc Programming Language
- - [https://roc-lang.org](https://roc-lang.org)
- - date_published: 2024-05-06T15:16:43.034767+00:00
- - tags: ['programming language']
-
- ## Rocpridefest
- - [https://www.rocpridefest.org](https://www.rocpridefest.org)
- - date_published: 2024-08-20T03:59:08.680684+00:00
-
- ## Rodale Institute - Global Leaders in Organic Agriculture Research
- - [http://www.rodaleinstitute.org](http://www.rodaleinstitute.org)
- - date_published: 2024-10-19T05:27:06.963913+00:00
-
  ## Home | Roddenberry Foundation
  - [https://roddenberryfoundation.org](https://roddenberryfoundation.org)
  - date_published: 2023-09-04T00:00:00+00:00
@@ -4038,4 +3591,449 @@
  ## Geometric Analysis in Samothrace, a tribute to Gérard Besson - Sciencesconf.org
  - [http://besson60.sciencesconf.org](http://besson60.sciencesconf.org)
  - date_published: 2020-12-07T07:41:57+00:00
+
+ ## Arithmétique des formes automorphes, une conférence en l'honneur de Laurent Clozel - Sciencesconf.org
+ - [https://clozel2023.sciencesconf.org](https://clozel2023.sciencesconf.org)
+ - date_published: 2024-06-30T09:09:16.942877+00:00
+
+ ## 2014 Digital HPS Consortium Annual Meeting - Sciencesconf.org
+ - [https://dhps2014.sciencesconf.org](https://dhps2014.sciencesconf.org)
+ - date_published: 2020-06-26T07:50:07+00:00
+
+ ## Documentation
+ - [https://doc.sciencesconf.org](https://doc.sciencesconf.org)
+ - date_published: 2024-09-26T10:16:23+00:00
+
+ ## European Congress of Arachnology - Sciencesconf.org
+ - [https://eca2024.sciencesconf.org](https://eca2024.sciencesconf.org)
+ - date_published: 2024-08-18T21:58:37.669380+00:00
+
+ ## European Signal Processing Conference, 2024 - Sciencesconf.org
+ - [https://eusipcolyon.sciencesconf.org](https://eusipcolyon.sciencesconf.org)
+ - date_published: 2024-07-01T20:04:57.115406+00:00
+
+ ## Journées Plénières du GDR NEMO - Sciencesconf.org
+ - [https://gdr-nemo.sciencesconf.org](https://gdr-nemo.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:35.228190+00:00
+
+ ## /gʁafematik/ 2024 — Grapholinguistics in the 21st Century - Sciencesconf.org
+ - [https://grafematik2024.sciencesconf.org](https://grafematik2024.sciencesconf.org)
+ - date_published: 2024-07-13T16:55:13.510395+00:00
+
+ ## 7th workshop on Graph Classes, Optimization, and Width Parameters - Sciencesconf.org
+ - [https://grow2015.sciencesconf.org](https://grow2015.sciencesconf.org)
+ - date_published: 2020-10-16T06:42:01+00:00
+
+ ## International Faust Conference 2020 - Sciencesconf.org
+ - [https://ifc20.sciencesconf.org](https://ifc20.sciencesconf.org)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Ecole d'Eté 2016 de l'Institut Fourier - Sciencesconf.org
+ - [http://if-summer2016.sciencesconf.org](http://if-summer2016.sciencesconf.org)
+ - date_published: 2020-12-22T07:20:50+00:00
+
+ ## IntACT Advanced Course 2019 - Sciencesconf.org
+ - [https://intact-course01.sciencesconf.org](https://intact-course01.sciencesconf.org)
+ - date_published: 2023-01-16T08:31:28+00:00
+
+ ## Linux Audio Conference 2020 - Sciencesconf.org
+ - [https://lac2020.sciencesconf.org](https://lac2020.sciencesconf.org)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## L'agape - Foundations of Physics - Sciencesconf.org
+ - [https://lagape.sciencesconf.org](https://lagape.sciencesconf.org)
+ - date_published: 2021-09-09T06:19:56+00:00
+
+ ## Machine Learning for Evolutionary Genomics Data - Sciencesconf.org
+ - [https://legend2024.sciencesconf.org](https://legend2024.sciencesconf.org)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## ANF METAAL-SHS 2024 - Sciencesconf.org
+ - [https://metaal-shs-2024.sciencesconf.org](https://metaal-shs-2024.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:32.092534+00:00
+
+ ## SciencesConf.org
+ - [https://portal.sciencesconf.org](https://portal.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:30.917958+00:00
+
+ ## SILICAMICS 4 : Biogeochemistry, ecology and genomics of silicifiers - Sciencesconf.org
+ - [https://silicamics4.sciencesconf.org](https://silicamics4.sciencesconf.org)
+ - date_published: 2024-10-14T15:38:33.862392+00:00
+
+ ## Workshop on Reverse Mathematics and its Philosophy - Sciencesconf.org
+ - [https://wrmp2022.sciencesconf.org](https://wrmp2022.sciencesconf.org)
+ - date_published: 2024-08-17T22:28:55.681238+00:00
+
+ ## Sciencesconf - Sciencesconf
+ - [http://www.sciencesconf.org](http://www.sciencesconf.org)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## ScienceSeeker | Science News Aggregator
+ - [http://scienceseeker.org](http://scienceseeker.org)
+ - date_published: 2024-08-12T10:28:35+00:00
+
+ ## ScienceSites
+ - [http://sciencesites.org](http://sciencesites.org)
+ - date_published: 2024-07-01T05:46:37.886280+00:00
+
+ ## Home
+ - [https://web.sciencesocieties.org](https://web.sciencesocieties.org)
+ - date_published: 2024-07-14T03:48:44.289747+00:00
+
+ ## Predictability of Scientific Success
+ - [http://www.sciencesuccess.org](http://www.sciencesuccess.org)
+ - date_published: 2016-09-30T00:00:00+00:00
+
+ ## Science United
+ - [https://scienceunited.org](https://scienceunited.org)
+ - date_published: 2024-04-30T03:27:55.707823+00:00
+
+ ## Scientific Linux | Information about the Scientific Linux distribution
+ - [https://scientificlinux.org](https://scientificlinux.org)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Scientific Linux | Information about the Scientific Linux distribution
+ - [http://www.scientificlinux.org](http://www.scientificlinux.org)
+ - date_published: 2024-06-16T21:04:30.076060+00:00
+
+ ## Blog -
+ - [https://blog.scientific-python.org](https://blog.scientific-python.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Scientific Python
+ - [https://discuss.scientific-python.org](https://discuss.scientific-python.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Learn -
+ - [https://learn.scientific-python.org](https://learn.scientific-python.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Scientific Python Lectures — Scientific Python Lectures
+ - [https://lectures.scientific-python.org](https://lectures.scientific-python.org)
+ - date_published: 2024-07-03T17:28:33+00:00
+
+ ## Scientific Python -
+ - [https://scientific-python.org](https://scientific-python.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Tools -
+ - [https://tools.scientific-python.org](https://tools.scientific-python.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Plausible · Web analytics
+ - [https://views.scientific-python.org](https://views.scientific-python.org)
+ - date_published: 2024-04-28T03:27:12.424277+00:00
+
+ ## Scientific Style and Format Online - TOC Welcome
+ - [https://www.scientificstyleandformat.org](https://www.scientificstyleandformat.org)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://m.scientology.org](https://m.scientology.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Official Church of Scientology: What is Scientology?
+ - [https://scientology.org](https://scientology.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+ - tags: ['scientology']
+
+ ## Free Scientology Online Courses from the Scientology Handbook
+ - [https://www.scientologycourses.org](https://www.scientologycourses.org)
+ - date_published: 2024-05-02T10:38:10.258307+00:00
+
+ ## Free Scientology Online Courses from the Scientology Handbook
+ - [https://scientologyhandbook.org](https://scientologyhandbook.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## https://www.scientologynews.org/
+ - [https://scientologynews.org](https://scientologynews.org)
+ - date_published: 2023-11-27T13:01:04+00:00
+ - tags: ['scientology news']
+
+ ## Scientology Religion - Background, Theology and Religious Practice
+ - [https://scientologyreligion.org](https://scientologyreligion.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+ - tags: ['scientology']
+
+ ## Church of Scientology of Tampa—All Are Welcome!
+ - [https://es.scientology-tampa.org](https://es.scientology-tampa.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Church of Scientology of Tampa—All Are Welcome!
+ - [https://www.scientology-tampa.org](https://www.scientology-tampa.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Christina's LIS Rant
+ - [https://christinaslisrant.scientopia.org](https://christinaslisrant.scientopia.org)
+ - date_published: 2022-12-28T00:00:00+00:00
+
+ ## Datahound
+ - [https://datahound.scientopia.org](https://datahound.scientopia.org)
+ - date_published: 2016-10-04T00:00:00+00:00
+
+ ## Watching out for Ol' Doc Murphy – Rants and musings on the business of science
+ - [https://docmurphy.scientopia.org](https://docmurphy.scientopia.org)
+ - date_published: 2020-02-04T00:00:00+00:00
+
+ ## Drugmonkey
+ - [https://drugmonkey.scientopia.org](https://drugmonkey.scientopia.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## In Baby Attach Mode – Just another Scientopia site
+ - [https://inbabyattachmode.scientopia.org](https://inbabyattachmode.scientopia.org)
+ - date_published: 2020-02-20T00:00:00+00:00
+
+ ## Scientopia
+ - [https://scientopia.org](https://scientopia.org)
+ - date_published: 2024-05-07T15:56:30.994374+00:00
+
+ ## 生态环境部华南环境科学研究所
+ - [http://www.scies.org](http://www.scies.org)
+ - date_published: 2024-06-30T16:00:18.644807+00:00
+
+ ## Sciety
+ - [https://sciety.org](https://sciety.org)
+ - date_published: 2024-10-20T04:40:35.395120+00:00
+
+ ## Stellar : Message of the Day
+ - [http://scifab2050.org](http://scifab2050.org)
+ - date_published: 2024-06-20T03:46:35.727942+00:00
+
+ ## SCIFI, Inc.
+ - [http://www.scifiinc.org](http://www.scifiinc.org)
+ - date_published: 2024-07-04T13:32:36.994788+00:00
+
+ ## Scientific GOD Inc.
+ - [https://scigod.org](https://scigod.org)
+ - date_published: 2024-09-07T22:49:51.157123+00:00
+
+ ## SciHi Blog
+ - [http://scihi.org](http://scihi.org)
+ - date_published: 2024-07-03T09:00:38.348511+00:00
+
+ ## scikit-bio — scikit-bio
+ - [http://scikit-bio.org](http://scikit-bio.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Home
+ - [https://scikit-hep.org](https://scikit-hep.org)
+ - date_published: 2024-07-07T17:06:32+00:00
+
+ ## scikit-image: Image processing in Python — scikit-image
+ - [https://scikit-image.org](https://scikit-image.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## scikit-learn Blog
+ - [https://blog.scikit-learn.org](https://blog.scikit-learn.org)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## scikit-learn: machine learning in Python — scikit-learn 0.16.1 documentation
+ - [https://scikit-learn.org](https://scikit-learn.org)
+ - date_published: 2024-05-06T13:46:23.174530+00:00
+
+ ## Yellowbrick: Machine Learning Visualization — Yellowbrick v1.5 documentation
+ - [https://www.scikit-yb.org](https://www.scikit-yb.org)
+ - date_published: 2022-08-21T00:00:00+00:00
+
+ ## Scilab | Scilab
+ - [https://scilab.org](https://scilab.org)
+ - date_published: 2024-07-08T11:55:11+00:00
+ - tags: ['scilab', 'programming language']
+
+ ## SciMathMN - Powering Minnesota to meet 21st century needs through K-12 mathematics, science and techinology.
+ - [http://www.scimathmn.org](http://www.scimathmn.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Science Media Exchange - Scimex
+ - [https://scimex.org](https://scimex.org)
+ - date_published: 2023-10-25T22:06:56.073682+00:00
+
+ ## Scintilla and SciTE
+ - [https://scintilla.org](https://scintilla.org)
+ - date_published: 2023-10-25T22:06:57.037238+00:00
+ - tags: ['open source']
+
+ ## Corporación SCIO
+ - [https://sciocorp.org](https://sciocorp.org)
+ - date_published: 2021-05-29T04:09:28+00:00
+
+ ## Sci Phi Journal - A Universe of Wonder
+ - [https://sciphijournal.org](https://sciphijournal.org)
+ - date_published: 2023-10-25T11:13:33.009612+00:00
+
+ ## SCIP
+ - [https://scipopt.org](https://scipopt.org)
+ - date_published: 2024-07-15T07:08:37.539964+00:00
+
+ ## SciPost Homepage
+ - [https://scipost.org](https://scipost.org)
+ - date_published: 2024-09-13T17:26:11.129341+00:00
+
+ ## Overview - SCIPR
+ - [http://www.scipr-lab.org](http://www.scipr-lab.org)
+ - date_published: 2020-06-03T13:52:58+00:00
+
+ ## SciPy Conferences
+ - [https://conference.scipy.org](https://conference.scipy.org)
+ - date_published: 2024-09-06T01:44:23+00:00
+
+ ## Numpy and Scipy Documentation — Numpy and Scipy documentation
+ - [https://docs.scipy.org](https://docs.scipy.org)
+ - date_published: 2024-05-07T14:11:10.761104+00:00
+
+ ## SciPy -
+ - [http://projects.scipy.org](http://projects.scipy.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## SciPy -
+ - [https://scipy.org](https://scipy.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## SciPy Conference 2021 -- Scientific Computing with Python
+ - [https://www.scipy2021.scipy.org](https://www.scipy2021.scipy.org)
+ - date_published: 2024-06-20T23:46:55.004305+00:00
+
+ ## SciPy 2024
+ - [https://scipy2024.scipy.org](https://scipy2024.scipy.org)
+ - date_published: 2024-05-08T12:03:00.915868+00:00
+
+ ## Scipy Lecture Notes — Scipy lecture notes
+ - [http://scipy-lectures.org](http://scipy-lectures.org)
+ - date_published: 2023-06-30T18:22:25+00:00
+
+ ## Paper Submission System - Home
+ - [https://papersubmission.scirp.org](https://papersubmission.scirp.org)
+ - date_published: 2024-08-08T17:03:59.610139+00:00
+
+ ## SCIRP Open Access
+ - [https://scirp.org](https://scirp.org)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Scissortail Traditional Dance Society | Oklahoma's contra dance, English country dance, and more!
+ - [http://scissortail.org](http://scissortail.org)
+ - date_published: 2024-08-20T05:21:17.599835+00:00
+
+ ## SciStarter - SciStarter
+ - [https://scistarter.org](https://scistarter.org)
+ - date_published: 2024-05-11T09:19:37.240968+00:00
+
+ ## Browser Compatibility
+ - [https://static.scistarter.org](https://static.scistarter.org)
+ - date_published: 2024-04-24T11:58:06+00:00
+
+ ## American Association of Physics Teachers | AIP Publishing
+ - [https://aapt.scitation.org](https://aapt.scitation.org)
+ - date_published: 2023-10-25T22:07:00.202610+00:00
+
+ ## AIP Publishing Portfolio | AIP Publishing
+ - [https://aip.scitation.org](https://aip.scitation.org)
+ - date_published: 2023-10-25T22:07:04.043537+00:00
+
+ ## Acoustical Society of America | AIP Publishing
+ - [https://asa.scitation.org](https://asa.scitation.org)
+ - date_published: 2024-05-07T21:01:14.294930+00:00
+
+ ## Physics Today | AIP Publishing
+ - [https://physicstoday.scitation.org](https://physicstoday.scitation.org)
+ - date_published: 2023-10-25T22:07:12.198844+00:00
+
+ ## AIP Publishing
+ - [https://scitationinfo.org](https://scitationinfo.org)
+ - date_published: 2024-06-30T04:18:25.941149+00:00
+
+ ## SCITEPRESS
+ - [https://www.scitepress.org](https://www.scitepress.org)
+ - date_published: 2024-07-07T10:11:57.685542+00:00
+
+ ## BIOSTEC, 18th International Joint Conference on Biomedical Engineering Systems and Technologies
+ - [https://biostec.scitevents.org](https://biostec.scitevents.org)
+ - date_published: 2024-06-19T07:39:26.260204+00:00
+
+ ## DeLTA, 6th Int'l. Conf. on Deep Learning Theory and Applications
+ - [https://delta.scitevents.org](https://delta.scitevents.org)
+ - date_published: 2024-10-28T06:56:48.650337+00:00
+
+ ## ICAART, 17th Int'l. Conf. on Agents and Artificial Intelligence
+ - [https://icaart.scitevents.org](https://icaart.scitevents.org)
+ - date_published: 2024-06-19T07:39:56.922225+00:00
+
+ ## ICEIS, 27th Int'l. Conf. on Enterprise Information Systems
+ - [https://iceis.scitevents.org](https://iceis.scitevents.org)
+ - date_published: 2024-08-08T21:18:49.172073+00:00
+
+ ## ICISSP, 11th Int'l. Conf. on Information Systems Security and Privacy
+ - [https://icissp.scitevents.org](https://icissp.scitevents.org)
+ - date_published: 2024-10-28T06:56:12.328999+00:00
+
+ ## ICORES, 14th Int'l. Conf. on Operations Research and Enterprise Systems
+ - [https://icores.scitevents.org](https://icores.scitevents.org)
+ - date_published: 2024-10-28T06:59:38.998606+00:00
+
+ ## ICPRAM, 14th Int'l. Conf. on Pattern Recognition Applications and Methods
+ - [https://icpram.scitevents.org](https://icpram.scitevents.org)
+ - date_published: 2024-06-19T07:39:53.422573+00:00
+
+ ## PHOTOPTICS, 13th Int'l. Conf. on Photonics, Optics and Laser Technology
+ - [https://photoptics.scitevents.org](https://photoptics.scitevents.org)
+ - date_published: 2024-07-07T10:12:00.834805+00:00
+
+ ## ROBOVIS, 5th Int'l. Conf. on Robotics, Computer Vision and Intelligent Systems
+ - [https://robovis.scitevents.org](https://robovis.scitevents.org)
+ - date_published: 2024-10-28T06:59:24.539491+00:00
+
+ ## Explore State-of-the-art in your Research Field - Sciweavers
+ - [https://sciweavers.org](https://sciweavers.org)
+ - date_published: 2024-05-08T10:03:48.404576+00:00
+
+ ## NASA Science Explorer
+ - [https://scixplorer.org](https://scixplorer.org)
+ - date_published: 2024-07-07T03:11:54.375568+00:00
+
+ ## Scldfriends
+ - [https://scldfriends.org](https://scldfriends.org)
+ - date_published: 2024-08-20T03:59:36.241635+00:00
+
+ ## representing researchers & clinicians systemic sclerosis
+ - [https://sclerodermaclinicaltrialsconsortium.org](https://sclerodermaclinicaltrialsconsortium.org)
+ - date_published: 2018-11-09T23:21:11+00:00
+
+ ## 中国宋庆龄基金会
+ - [https://www.sclf.org](https://www.sclf.org)
+ - date_published: 2024-06-28T09:28:36+00:00
+
+ ## MyChart - Login Page
+ - [https://mychart.sclhealth.org](https://mychart.sclhealth.org)
+ - date_published: 2024-09-19T22:07:23.909700+00:00
+
+ ## Home - Intermountain Health
+ - [https://www.sclhealth.org](https://www.sclhealth.org)
+ - date_published: 2024-09-19T22:07:20.277767+00:00
+
+ ## Live Music & Event Venue in Grand Rapids MI - St. Cecilia Music Center
+ - [https://scmcgr.org](https://scmcgr.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## SCOAP3 – The Sponsoring Consortium for Open Access Publishing in Particle Physics
+ - [https://scoap3.org](https://scoap3.org)
+ - date_published: 2024-06-19T04:32:02+00:00
+
+ ## SCons: A software construction tool
+ - [https://scons.org](https://scons.org)
+ - date_published: 2024-03-18T00:49:11+00:00
+
+ ## Blibb Blobb - The Chiptune Podcast
+ - [https://scoopex.org](https://scoopex.org)
+ - date_published: 2015-05-15T00:00:00+00:00
+
+ ## Accueil | Union régionale Auvergne Rhône Alpes
+ - [https://www.scop.org](https://www.scop.org)
+ - date_published: 2024-07-06T22:43:51+00:00
+
+ ## New York City
+ - [https://newyorkcity.score.org](https://newyorkcity.score.org)
+ - date_published: 2024-10-16T09:01:53+00:00
+
+ ## Home page
+ - [https://score.org](https://score.org)
+ - date_published: 2024-05-12T06:13:33.393158+00:00
 
