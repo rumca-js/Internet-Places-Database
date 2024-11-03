@@ -69,6 +69,8 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 
 The database is distributed as a set of JSON files. We do not want to store binary data, binary files. SQL files should be fine, but I am going with JSON files for now.
 
+Note: If you have problems with git clone, you can try downloading repository as a zip file.
+
 Each link contains a set of attributes, like:
  - title
  - description
