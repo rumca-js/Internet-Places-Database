@@ -1,4005 +1,4051 @@
- ## Information Technology | Kent State University
- - [https://support.kent.edu](https://support.kent.edu)
- - date_published: 2024-07-01T03:56:43+00:00
+ ## Seán Barry
+ - [https://seanbarry.dev](https://seanbarry.dev)
+ - date_published: 2023-10-25T18:41:53.898962+00:00
 
- ## Welcome to KSU | Kent State University
- - [https://welcome.kent.edu](https://welcome.kent.edu)
- - date_published: 2024-07-01T00:13:24+00:00
+ ## Sean Rogers
+ - [https://seanrogers.dev](https://seanrogers.dev)
+ - date_published: 2024-05-09T08:44:23.938491+00:00
 
- ## Cleveland Urban Design Collaborative
- - [https://cudc.kent.edu](https://cudc.kent.edu)
- - date_published: 2024-05-07T19:16:31.408465+00:00
+ ## Searchbase API Reference
+ - [https://docs.searchbase.dev](https://docs.searchbase.dev)
+ - date_published: 2024-02-03T00:56:20+00:00
 
- ## Kent Campus | Kent State University Kent State, one of Ohio’s leading public universities
- - [https://www.kent.edu](https://www.kent.edu)
- - date_published: 2023-10-25T11:22:42.294245+00:00
+ ## Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data
+ - [https://searchbase.dev](https://searchbase.dev)
+ - date_published: 2024-02-19T04:59:19+00:00
 
- ## University Libraries | Kent State University Libraries
- - [https://library.kent.edu](https://library.kent.edu)
+ ## listmonk - Mailing list
+ - [https://mailings.sebastix.dev](https://mailings.sebastix.dev)
+ - date_published: 2024-07-10T07:30:53.989127+00:00
+
+ ## sebibasti.dev
+ - [https://sebibasti.dev](https://sebibasti.dev)
+ - date_published: 2024-05-11T10:23:59.119654+00:00
+
+ ## OpenSSF Scorecard
+ - [https://api.securityscorecards.dev](https://api.securityscorecards.dev)
+ - date_published: 2024-07-07T09:05:53.847595+00:00
+
+ ## Home
+ - [https://securityscorecards.dev](https://securityscorecards.dev)
+ - date_published: 2024-07-07T09:05:50.789379+00:00
+
+ ## Home
+ - [https://segredo.dev](https://segredo.dev)
  - date_published: 2024-05-06T00:00:00+00:00
 
- ## Chicago-Kent College of Law | Chicago-Kent College of Law
- - [https://www.kentlaw.edu](https://www.kentlaw.edu)
- - date_published: 2024-03-24T16:57:37.545830+00:00
+ ## Selenium
+ - [https://selenium.dev](https://selenium.dev)
+ - date_published: 2024-04-30T02:15:06.109583+00:00
+ - tags: ['web testing', 'web scraping', 'browser automation']
 
- ## Branding
- - [http://brand.kgi.edu](http://brand.kgi.edu)
- - date_published: 2024-04-05T00:00:00+00:00
+ ## The Self-Improving Developer
+ - [https://selfimproving.dev](https://selfimproving.dev)
+ - date_published: 2023-01-03T09:04:15+00:00
 
- ## KGI - Ebook Download
- - [https://ebook.kgi.edu](https://ebook.kgi.edu)
- - date_published: 2018-04-25T00:00:00+00:00
+ ## Welcome 👋 | Sematic
+ - [https://docs.sematic.dev](https://docs.sematic.dev)
+ - date_published: 2024-08-19T03:52:36.675222+00:00
+
+ ## Sematic – The open-source ML orchestrator loved by ML teams
+ - [https://sematic.dev](https://sematic.dev)
+ - date_published: 2023-10-25T18:41:55.378126+00:00
+ - tags: ['open source', '. machine learning']
+
+ ## Semgrep Academy - Learn to create secure software!
+ - [https://academy.semgrep.dev](https://academy.semgrep.dev)
+ - date_published: 2024-07-08T16:13:43.384931+00:00
+
+ ## Semgrep - Make shift left work
+ - [https://get.semgrep.dev](https://get.semgrep.dev)
+ - date_published: 2024-06-17T02:51:25.404507+00:00
+
+ ## Semgrep — Find bugs and enforce code standards
+ - [https://semgrep.dev](https://semgrep.dev)
+ - date_published: 2024-04-28T02:55:58.313973+00:00
+
+ ## Sentry Developer Documentation
+ - [https://develop.sentry.dev](https://develop.sentry.dev)
+ - date_published: 2024-06-22T22:29:06.398178+00:00
+
+ ## Sentry Docs | Application Performance Monitoring &amp; Error Tracking Software
+ - [https://sentry-docs-5n4y8501b.sentry.dev](https://sentry-docs-5n4y8501b.sentry.dev)
+ - date_published: 2024-08-07T19:33:32.275815+00:00
+
+ ## Seo · SEO Apps
+ - [https://seoapps.dev](https://seoapps.dev)
+ - date_published: 2024-07-02T21:00:04.609502+00:00
+
+ - [https://www.sequential.dev](https://www.sequential.dev)
+ - date_published: 2024-01-09T02:57:34.721900+00:00
+
+ ## Home | Campbell Jones
+ - [https://serebit.dev](https://serebit.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Dominio no encontrado
+ - [https://sergiomartin.dev](https://sergiomartin.dev)
+ - date_published: 2020-07-17T10:01:47+00:00
+
+ ## SerialCoder.dev
+ - [https://serialcoder.dev](https://serialcoder.dev)
+ - date_published: 2024-06-22T18:54:28+00:00
+
+ ## servant – A Type-Level Web DSL — Servant  documentation
+ - [https://docs.servant.dev](https://docs.servant.dev)
+ - date_published: 2023-06-25T10:05:15+00:00
+
+ ## Servant - haskell-servant
+ - [http://www.servant.dev](http://www.servant.dev)
+ - date_published: 2022-06-10T13:46:03+00:00
+
+ ## ServBay - The best local PHP, Node.js, MySQL, PostgreSQL Web development environment Mac PHP Brew MAMP XAMPP Node.js Wordpress
+    Install
+ - [https://download.servbay.dev](https://download.servbay.dev)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## ServBay
+ - [https://telegram.servbay.dev](https://telegram.servbay.dev)
+ - date_published: 2024-07-18T23:13:29.477093+00:00
+
+ ## Software Engineering Intelligence
+ - [https://cod-twister-production.cl-us-east-3.servd.dev](https://cod-twister-production.cl-us-east-3.servd.dev)
+ - date_published: 2024-06-16T08:04:33.492083+00:00
+
+ ## Show HN: ServerlessAI – Build, scale, and monetize AI apps without back end
+ - [https://serverlessai.dev](https://serverlessai.dev)
+ - date_published: 2024-10-07T12:37:38+00:00
+
+ ## Serverless Handbook for Frontend Engineers
+ - [https://serverlesshandbook.dev](https://serverlesshandbook.dev)
+ - date_published: 2024-06-23T03:21:22.617558+00:00
+
+ ## ServerlessReact.dev
+ - [https://serverlessreact.dev](https://serverlessreact.dev)
+ - date_published: 2024-08-19T17:33:22.960766+00:00
+
+ ## Work with us at Serverpod - Serverpod
+ - [https://careers.serverpod.dev](https://careers.serverpod.dev)
+ - date_published: 2024-04-30T02:15:41.962143+00:00
+
+ ## Installing Serverpod | Serverpod
+ - [https://docs.serverpod.dev](https://docs.serverpod.dev)
+ - date_published: 2024-04-30T02:15:07.605327+00:00
+
+ ## Serverpod – The Flutter Backend
+ - [https://serverpod.dev](https://serverpod.dev)
+ - date_published: 2023-10-03T10:11:04+00:00
+
+ ## Home | servicer
+ - [https://servicer.dev](https://servicer.dev)
+ - date_published: 2023-08-15T15:12:21+00:00
+
+ ## Seth Michael Larson — Python, open source, and the internet
+ - [https://sethmlarson.dev](https://sethmlarson.dev)
+ - date_published: 2023-10-25T08:48:58.444338+00:00
+ - tags: ['personal']
+
+ ## Sourabh's Blog
+ - [https://sevzero.dev](https://sevzero.dev)
+ - date_published: 2024-10-25T18:59:32.829163+00:00
+
+ ## Blazej Sewera - Programmer
+ - [https://www.sewera.dev](https://www.sewera.dev)
+ - date_published: 2024-09-19T13:34:36.997139+00:00
+ - tags: ['personal']
+
+ ## https://shadeup.dev
+ - [https://shadeup.dev](https://shadeup.dev)
+ - date_published: 2024-01-17T17:49:00.747046+00:00
+
+ ## Shadeup Home
+ - [https://unreal.shadeup.dev](https://unreal.shadeup.dev)
+ - date_published: 2024-04-30T02:16:48.145164+00:00
+
+ ## Sharavanan
+ - [https://lite.sharavananpa.dev](https://lite.sharavananpa.dev)
+ - date_published: 2024-09-07T23:51:25.197544+00:00
+
+ ## Sharavanan
+ - [https://sharavananpa.dev](https://sharavananpa.dev)
+ - date_published: 2024-07-16T17:18:44+00:00
+
+ ## Shayon Mukherjee
+ - [https://shayon.dev](https://shayon.dev)
+ - date_published: 2023-12-21T17:41:52.153062+00:00
+
+ ## Christian Rebischke
+ - [https://shibumi.dev](https://shibumi.dev)
+ - date_published: 2024-05-19T00:00:00+00:00
+
+ ## Shielded.dev
+ - [https://shielded.dev](https://shielded.dev)
+ - date_published: 2024-09-04T03:56:21.702132+00:00
+
+ ## ShiftMag
+ - [https://shiftmag.dev](https://shiftmag.dev)
+ - date_published: 2023-11-11T21:40:32.425246+00:00
+
+ ## Shinya Kato / 加藤 真也
+ - [https://shinyakato.dev](https://shinyakato.dev)
+ - date_published: 2024-10-22T16:48:39.745009+00:00
+
+ ## Shivam Mishra - Software developer, designer.
+ - [https://shivam.dev](https://shivam.dev)
+ - date_published: 2024-08-08T12:25:03.091694+00:00
+
+ ## Shokku
+ - [https://shokku.dev](https://shokku.dev)
+ - date_published: 2024-01-22T09:38:37+00:00
 
  ## Home
- - [https://kgi.edu](https://kgi.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Give Now
- - [https://legacy.kgi.edu](https://legacy.kgi.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Home - Professional and Continuing Education
- - [https://pce.kgi.edu](https://pce.kgi.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Kirkwood Community College
- - [https://apply.kirkwood.edu](https://apply.kirkwood.edu)
- - date_published: 2024-06-20T16:48:48.205510+00:00
-
- ## Kirkwood MyHub
- - [https://hub.kirkwood.edu](https://hub.kirkwood.edu)
- - date_published: 2024-05-29T14:50:26+00:00
-
- ## Welcome | Kirkwood Bookstore & EagleShop
- - [https://shop.kirkwood.edu](https://shop.kirkwood.edu)
- - date_published: 2024-06-20T16:48:36.038713+00:00
-
- ## Homepage | Kirkwood Community College | Cedar Rapids, Iowa
- - [https://www.kirkwood.edu](https://www.kirkwood.edu)
- - date_published: 2024-05-04T09:28:08.118028+00:00
-
- ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
- - [https://ae.iti.kit.edu](https://ae.iti.kit.edu)
- - date_published: 2024-08-18T18:45:34.893256+00:00
-
- ## KIT – ITI Algorithm Engineering –  Willkommen am Institut für Theoretische Informatik, Algorithm Engineering
- - [https://algo2.iti.kit.edu](https://algo2.iti.kit.edu)
- - date_published: 2024-08-18T18:45:49.700533+00:00
-
- ## KIT - Computergrafik - Startseite
- - [https://cg.ivd.kit.edu](https://cg.ivd.kit.edu)
- - date_published: 2024-06-22T07:29:11.391219+00:00
-
- ## KIT - Startseite
- - [http://doktorandenkonvent.informatik.kit.edu](http://doktorandenkonvent.informatik.kit.edu)
- - date_published: 2024-07-24T04:12:08.748227+00:00
-
- ## H²T Startseite
- - [https://h2t.iar.kit.edu](https://h2t.iar.kit.edu)
- - date_published: 2024-07-24T04:12:15.158627+00:00
-
- ## Web Login Service
- - [https://intranet.kit.edu](https://intranet.kit.edu)
- - date_published: 2024-07-22T12:13:45.102339+00:00
-
- ## Unconfigured server
- - [https://static.scc.kit.edu](https://static.scc.kit.edu)
- - date_published: 2024-07-22T12:13:32.744242+00:00
-
- ## KIT - Stiftungsprofessur für zuverlässige Softwaresysteme in der Automobilindustrie, gefördert vom Daimler-Fonds im Stifterverband für die Deutsche Wissenschaft
- - [http://verialg.iti.kit.edu](http://verialg.iti.kit.edu)
- - date_published: 2024-08-18T18:46:05.377984+00:00
-
- ## KIT-Bibliothek |  KIT-Bibliothek Startseite
- - [http://www.bibliothek.kit.edu](http://www.bibliothek.kit.edu)
- - date_published: 2024-10-20T03:36:58.675768+00:00
-
- ## KIT-CSE- Startseite
- - [https://www.cse.kit.edu](https://www.cse.kit.edu)
- - date_published: 2024-07-22T12:13:54.048838+00:00
-
- ## KIT - IAI - Institut
- - [https://www.iai.kit.edu](https://www.iai.kit.edu)
- - date_published: 2024-07-02T17:18:00.449014+00:00
-
- ## KIT – Fakultät für Informatik – Startseite
- - [https://informatik.kit.edu](https://informatik.kit.edu)
- - date_published: 2024-04-29T06:57:26.121582+00:00
-
- ## KIT-INTL  Portal
- - [https://www.intl.kit.edu](https://www.intl.kit.edu)
- - date_published: 2024-07-22T12:13:37.263495+00:00
-
- ## KIT - IRM - Startseite
- - [https://www.irm.kit.edu](https://www.irm.kit.edu)
- - date_published: 2024-07-22T12:13:50.525574+00:00
-
- ## KIT - Karlsruhe House of Young Scientists (KHYS) Startseite
- - [https://www.khys.kit.edu](https://www.khys.kit.edu)
- - date_published: 2024-07-22T12:13:56.098781+00:00
-
- ## KIT - Karlsruher Institut für Technologie
- - [https://kit.edu](https://kit.edu)
- - date_published: 2024-04-30T02:11:02.437703+00:00
-
- ## KIT - Konvent Startseite
- - [http://www.konvent.kit.edu](http://www.konvent.kit.edu)
- - date_published: 2024-07-22T12:13:46.743043+00:00
-
- ## KIT -  PSE - Startseite
- - [https://www.pse.kit.edu](https://www.pse.kit.edu)
- - date_published: 2024-07-22T12:13:30.961762+00:00
-
- ## KIT - Dienstleistungseinheit Studium und Lehre - Startseite
- - [https://www.sle.kit.edu](https://www.sle.kit.edu)
- - date_published: 2024-07-22T12:13:48.528177+00:00
-
- ## KIT - STS - Startseite
- - [https://www.sts.kit.edu](https://www.sts.kit.edu)
- - date_published: 2024-07-22T12:13:41.977740+00:00
-
- ## KIT - Technologietransfer - Startseite
- - [https://www.techtransfer.kit.edu](https://www.techtransfer.kit.edu)
- - date_published: 2024-07-22T12:13:39.205078+00:00
-
- ## KIT Wirtschaftsinformatik - Startseite
- - [https://www.wirtschaftsinformatik.kit.edu](https://www.wirtschaftsinformatik.kit.edu)
- - date_published: 2024-07-24T04:12:13.705274+00:00
-
- ## Korea University Websites
- - [https://www.korea.edu](https://www.korea.edu)
- - date_published: 2022-02-21T08:07:34+00:00
-
- ## College of Architecture, Planning and Design at Kansas State University
- - [https://apdesign.k-state.edu](https://apdesign.k-state.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## College of Arts and Sciences
- - [https://artsci.k-state.edu](https://artsci.k-state.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://canvas.k-state.edu](https://canvas.k-state.edu)
- - date_published: 2024-05-07T19:16:58.132635+00:00
-
- ## Kansas State University - Acalog ACMS™
- - [https://catalog.k-state.edu](https://catalog.k-state.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## College of Business Administration
- - [https://cba.k-state.edu](https://cba.k-state.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Center for Cybersecurity and Trustworthy Systems
- - [https://cisa.k-state.edu](https://cisa.k-state.edu)
- - date_published: 2023-10-19T00:00:00+00:00
-
- ## K-State College of Education
- - [https://coe.k-state.edu](https://coe.k-state.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Recent events update | News and Communications Services | Kansas State University
- - [https://connect.k-state.edu](https://connect.k-state.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Academics | Kansas State University
- - [https://courses.k-state.edu](https://courses.k-state.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://eid.k-state.edu](https://eid.k-state.edu)
- - date_published: 2024-07-01T11:14:54.064117+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.k-state.edu](https://engg.k-state.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Events Calendar - Events
- - [https://events.k-state.edu](https://events.k-state.edu)
- - date_published: 2024-07-01T11:14:22.079055+00:00
-
- ## Research Guides
- - [https://guides.lib.k-state.edu](https://guides.lib.k-state.edu)
- - date_published: 2024-07-01T11:20:48.381988+00:00
-
- ## Housing and Dining Services
- - [https://housing.k-state.edu](https://housing.k-state.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Center for Cybersecurity and Trustworthy Systems
- - [https://kcats.k-state.edu](https://kcats.k-state.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## K-REx :: Home
- - [https://krex.k-state.edu](https://krex.k-state.edu)
- - date_published: 2024-07-01T11:21:11.244256+00:00
-
- ## K-State Research and Extension
- - [https://ksre.k-state.edu](https://ksre.k-state.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## K-State Libraries
- - [https://lib.k-state.edu](https://lib.k-state.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## K-State Olathe
- - [https://olathe.k-state.edu](https://olathe.k-state.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## K-State Online
- - [https://online.k-state.edu](https://online.k-state.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Kansas State University
- - [https://orgcentral.k-state.edu](https://orgcentral.k-state.edu)
- - date_published: 2024-05-07T19:17:11.652087+00:00
-
- ## Recreational Services
- - [https://recservices.k-state.edu](https://recservices.k-state.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Kansas State Salina
- - [https://salina.k-state.edu](https://salina.k-state.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Search | Kansas State University
- - [https://search.k-state.edu](https://search.k-state.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Login - Sign in | Kansas State University
- - [https://signin.k-state.edu](https://signin.k-state.edu)
- - date_published: 2024-07-01T11:19:57.768703+00:00
-
- ## Qualtrics
- - [https://survey.k-state.edu](https://survey.k-state.edu)
- - date_published: 2023-06-14T00:00:00+00:00
-
- ## K-State Student Union | Kansas State University
- - [https://union.k-state.edu](https://union.k-state.edu)
- - date_published: 2024-07-01T10:25:54+00:00
-
- ## CMS Redirect
- - [https://webcms.k-state.edu](https://webcms.k-state.edu)
- - date_published: 2024-05-07T19:17:44.188672+00:00
-
- ## Please wait...
- - [https://webmail.k-state.edu](https://webmail.k-state.edu)
- - date_published: 2024-05-07T19:17:01.570828+00:00
-
- ## College of Agriculture
- - [https://www.ag.k-state.edu](https://www.ag.k-state.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Department of Agronomy | Kansas State University
- - [https://www.agronomy.k-state.edu](https://www.agronomy.k-state.edu)
- - date_published: 2023-06-27T00:00:00+00:00
-
- ## Department of Communications and Agricultural Education
- - [https://www.communications.k-state.edu](https://www.communications.k-state.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.k-state.edu](https://cs.k-state.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## College of Health and Human Sciences
- - [https://www.hhs.k-state.edu](https://www.hhs.k-state.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Kansas State University
- - [https://k-state.edu](https://k-state.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## K-State College of Veterinary Medicine Home Page
- - [https://www.vet.k-state.edu](https://www.vet.k-state.edu)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## K-State Association for Computing Machinery
- - [https://acm.cs.ksu.edu](https://acm.cs.ksu.edu)
- - date_published: 2024-04-17T03:05:42+00:00
-
- ## K-State ACM SIGAI
- - [https://acm-sigai.cs.ksu.edu](https://acm-sigai.cs.ksu.edu)
- - date_published: 2024-07-11T13:09:50.053496+00:00
-
- ## ALT+CS Lab
- - [https://alt.cs.ksu.edu](https://alt.cs.ksu.edu)
- - date_published: 2024-06-27T16:51:28+00:00
-
- ## CS Applications - Home
- - [https://apps.cs.ksu.edu](https://apps.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:12.648572+00:00
-
- ## Center for Artificial Intelligence and Data Science
- - [https://caids.cs.ksu.edu](https://caids.cs.ksu.edu)
- - date_published: 2024-03-05T23:08:49+00:00
-
- ## home    [Machine Learning and Data Science Lab @ K-State]
- - [http://caragea-wiki.cs.ksu.edu](http://caragea-wiki.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:36.621884+00:00
-
- ## Engineering Computing Services | Engineering Computing Services
- - [https://cecs.engg.ksu.edu](https://cecs.engg.ksu.edu)
- - date_published: 2024-07-01T10:35:28+00:00
-
- ## Department of Computer Science at K-State
- - [https://cs.ksu.edu](https://cs.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Semantics Lab
- - [https://daselab.cs.ksu.edu](https://daselab.cs.ksu.edu)
- - date_published: 2024-07-01T11:14:44.703164+00:00
-
- ## Carl R. Ice College of Engineering at K-State
- - [https://engg.ksu.edu](https://engg.ksu.edu)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## K-State GDC
- - [https://gdc.cs.ksu.edu](https://gdc.cs.ksu.edu)
- - date_published: 2020-02-03T06:08:13+00:00
-
- ## Kansas State University
- - [https://ksu.edu](https://ksu.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Multiagent & Cooperative Reasoning Laboratory - Kansas State University
- - [http://macr.cs.ksu.edu](http://macr.cs.ksu.edu)
- - date_published: 2016-12-08T20:03:10+00:00
-
- ## K-State MDC
- - [https://mdc.cs.ksu.edu](https://mdc.cs.ksu.edu)
- - date_published: 2024-05-07T19:17:04.324614+00:00
-
- ## K-State ACM SIGAI
- - [https://people.cis.ksu.edu](https://people.cis.ksu.edu)
- - date_published: 2024-05-09T09:12:16.301047+00:00
-
- ## People
- - [https://people.cs.ksu.edu](https://people.cs.ksu.edu)
- - date_published: 2023-10-25T18:53:27.215934+00:00
-
- ## K-State Web Dev Club
- - [https://wdc.cs.ksu.edu](https://wdc.cs.ksu.edu)
- - date_published: 2019-02-27T01:14:52+00:00
-
- ## Please wait...
- - [https://webmail.ksu.edu](https://webmail.ksu.edu)
- - date_published: 2024-07-01T11:22:25.357090+00:00
-
- ## Agricultural Economics | Kansas State University
- - [https://www.ageconomics.ksu.edu](https://www.ageconomics.ksu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Department of Computer Science at K-State
- - [https://cis.ksu.edu](https://cis.ksu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home Page
- - [https://admissions.ktu.edu](https://admissions.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home
- - [https://advancedmaterials.ktu.edu](https://advancedmaterials.ktu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Pradžia
- - [https://aicentre.ktu.edu](https://aicentre.ktu.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Kauno technologijos universiteto alumnų asociacija. KTU alumnai.
- - [https://alumni.ktu.edu](https://alumni.ktu.edu)
- - date_published: 2024-05-18T00:00:00+00:00
-
- ## APCIS
- - [https://apcis.ktu.edu](https://apcis.ktu.edu)
- - date_published: 2024-07-01T11:24:39.197337+00:00
-
- ## Research
- - [https://apinien.ktu.edu](https://apinien.ktu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Mokslas
- - [https://apini.ktu.edu](https://apini.ktu.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Kaunas University of Technology
- - [https://apply.ktu.edu](https://apply.ktu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Research
- - [https://asien.ktu.edu](https://asien.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://asi.ktu.edu](https://asi.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Pradžia
- - [https://bendrabuciai.ktu.edu](https://bendrabuciai.ktu.edu)
- - date_published: 2024-07-01T11:24:05.276622+00:00
-
- ## Bibliotekos paslaugos
- - [https://biblioteka.ktu.edu](https://biblioteka.ktu.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Apie
- - [https://biomedicina.ktu.edu](https://biomedicina.ktu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## About
- - [https://biomedicine.ktu.edu](https://biomedicine.ktu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home
- - [https://business.ktu.edu](https://business.ktu.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Home
- - [https://centenary.ktu.edu](https://centenary.ktu.edu)
- - date_published: 2023-11-06T00:00:00+00:00
-
- ## Home
- - [https://compsystems.ktu.edu](https://compsystems.ktu.edu)
- - date_published: 2023-06-22T00:00:00+00:00
-
- ## Home
- - [https://csci.ktu.edu](https://csci.ktu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ctf.ktu.edu](https://ctf.ktu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Pradžia
- - [https://dicentras.ktu.edu](https://dicentras.ktu.edu)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Pradžia
- - [https://dormitory.ktu.edu](https://dormitory.ktu.edu)
- - date_published: 2023-12-22T00:00:00+00:00
-
- ## ECIU University
- - [https://eciu-en.ktu.edu](https://eciu-en.ktu.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Apie ECIU universitetą
- - [https://eciu.ktu.edu](https://eciu.ktu.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Home
- - [https://edulab-en.ktu.edu](https://edulab-en.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pradžia
- - [https://edulab.ktu.edu](https://edulab.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Pradinis
- - [https://eef.ktu.edu](https://eef.ktu.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Pradžia
- - [https://emeritus.ktu.edu](https://emeritus.ktu.edu)
- - date_published: 2024-05-07T19:17:49.924180+00:00
-
- ## Home
- - [https://en.ktu.edu](https://en.ktu.edu)
- - date_published: 2023-12-25T16:53:53.461151+00:00
-
- ## Pradinis puslapis
- - [https://evf.ktu.edu](https://evf.ktu.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://fcea.ktu.edu](https://fcea.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://fct.ktu.edu](https://fct.ktu.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Home
- - [https://feee.ktu.edu](https://feee.ktu.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home
- - [https://fi.ktu.edu](https://fi.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://fmed.ktu.edu](https://fmed.ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home
- - [https://fmns.ktu.edu](https://fmns.ktu.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Research
- - [https://food.ktu.edu](https://food.ktu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Home
- - [https://fssah.ktu.edu](https://fssah.ktu.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://if.ktu.edu](https://if.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ktu.edu](https://ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Pradžia
- - [https://leidykla.ktu.edu](https://leidykla.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Library Services
- - [https://library.ktu.edu](https://library.ktu.edu)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## Mokslas
- - [https://maistas.ktu.edu](https://maistas.ktu.edu)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Research
- - [https://materials.ktu.edu](https://materials.ktu.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Research
- - [https://mechatronics.ktu.edu](https://mechatronics.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://mechatronika.ktu.edu](https://mechatronika.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Mokslas
- - [https://medziagos.ktu.edu](https://medziagos.ktu.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://mgmf.ktu.edu](https://mgmf.ktu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Pradžia
- - [https://midf.ktu.edu](https://midf.ktu.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## KTU kviečia mokyklas atrasti technologijų pasaulį!
- - [https://mokykloms.ktu.edu](https://mokykloms.ktu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Prisijungti
- - [http://moodle.ktu.edu](http://moodle.ktu.edu)
- - date_published: 2024-07-01T11:54:14.466148+00:00
-
- ## Home
- - [https://museum.ktu.edu](https://museum.ktu.edu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Pradžia
- - [https://muziejus.ktu.edu](https://muziejus.ktu.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Home
- - [https://niec.ktu.edu](https://niec.ktu.edu)
- - date_published: 2021-07-23T00:00:00+00:00
-
- ## Pradžia
- - [https://nivc.ktu.edu](https://nivc.ktu.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Pradžia
- - [https://oac.ktu.edu](https://oac.ktu.edu)
- - date_published: 2022-12-21T00:00:00+00:00
-
- ## Centre for Packaging Innovations and Research
- - [https://packaging.ktu.edu](https://packaging.ktu.edu)
- - date_published: 2023-12-20T00:00:00+00:00
-
- ## Home
- - [https://pftb.ktu.edu](https://pftb.ktu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Pradžia
- - [https://poilsiavietes.ktu.edu](https://poilsiavietes.ktu.edu)
- - date_published: 2022-04-26T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://ptvf.ktu.edu](https://ptvf.ktu.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Pradinis puslapis
- - [https://saf.ktu.edu](https://saf.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Home
- - [https://scpconference.ktu.edu](https://scpconference.ktu.edu)
- - date_published: 2023-03-29T00:00:00+00:00
-
- ## Home
- - [https://seb.ktu.edu](https://seb.ktu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Socialinių, humanitarinių mokslų ir menų fakultetas | KTU
- - [https://shmmf.ktu.edu](https://shmmf.ktu.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## About us
- - [https://startupspace-en.ktu.edu](https://startupspace-en.ktu.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Pradžia
- - [https://stojantiesiems.ktu.edu](https://stojantiesiems.ktu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## KTU studentams
- - [https://studentams.ktu.edu](https://studentams.ktu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## For KTU Students
- - [https://students.ktu.edu](https://students.ktu.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Home
- - [https://su.ktu.edu](https://su.ktu.edu)
- - date_published: 2023-09-25T00:00:00+00:00
-
- ## Research
- - [https://telematics.ktu.edu](https://telematics.ktu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Mokslas
- - [https://telematika.ktu.edu](https://telematika.ktu.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Elektroniniai mokslo duomenų ištekliai / Research Guides
- - [https://temos.ktu.edu](https://temos.ktu.edu)
- - date_published: 2024-07-01T11:24:12.037515+00:00
-
- ## Technologinių ir fizinių mokslų ekscelencijos centras
- - [https://tifec.ktu.edu](https://tifec.ktu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Virtualusis KTU turas
- - [https://tour.ktu.edu](https://tour.ktu.edu)
- - date_published: 2024-05-07T19:18:54.656718+00:00
-
- ## Mokslas
- - [https://ultragarsas.ktu.edu](https://ultragarsas.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Research
- - [https://ultrasound.ktu.edu](https://ultrasound.ktu.edu)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Home
- - [https://up4skill-en.ktu.edu](https://up4skill-en.ktu.edu)
- - date_published: 2024-05-07T19:18:22.995417+00:00
-
- ## Pradžia
- - [https://up4skill.ktu.edu](https://up4skill.ktu.edu)
- - date_published: 2024-07-01T11:25:44.074620+00:00
-
- ## Pradžia
- - [https://verslas.ktu.edu](https://verslas.ktu.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## KTU ir įmonių bendradarbiavimo platforma
- - [https://wanted.ktu.edu](https://wanted.ktu.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home
- - [https://accessibility.ku.edu](https://accessibility.ku.edu)
- - date_published: 2024-05-07T19:20:08.692147+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.ku.edu](https://admissions.ku.edu)
- - date_published: 2024-06-30T05:23:04+00:00
-
- ## Home
- - [https://affordability.ku.edu](https://affordability.ku.edu)
- - date_published: 2024-07-01T12:40:55.653266+00:00
-
- ## KU Alerts
- - [https://alerts.ku.edu](https://alerts.ku.edu)
- - date_published: 2024-05-07T19:20:10.447984+00:00
-
- ## Home
- - [https://anthropology.ku.edu](https://anthropology.ku.edu)
- - date_published: 2024-06-22T19:11:43.000242+00:00
-
- ## Biodiversity Institute and Natural History Museum
- - [https://biodiversity.ku.edu](https://biodiversity.ku.edu)
- - date_published: 2024-07-01T12:34:32.275639+00:00
-
- ## KU College Stories – College of Liberal Arts and Sciences
- - [http://blog.college.ku.edu](http://blog.college.ku.edu)
- - date_published: 2024-07-01T12:21:15.828705+00:00
-
- ## Events Calendar
- - [https://calendar.ku.edu](https://calendar.ku.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## KU Libraries Calendar -
-        University of Kansas
- - [https://calendar.lib.ku.edu](https://calendar.lib.ku.edu)
- - date_published: 2024-07-01T12:21:58.557095+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://canvas.ku.edu](https://canvas.ku.edu)
- - date_published: 2024-05-07T19:19:58.132135+00:00
-
- ## Home
- - [https://career.ku.edu](https://career.ku.edu)
- - date_published: 2024-07-01T12:35:38.080405+00:00
-
- ## KU Library Catalog
- - [https://catalog.lib.ku.edu](https://catalog.lib.ku.edu)
- - date_published: 2017-12-28T16:58:50+00:00
-
- ## Office of the Chancellor
- - [https://chancellor.ku.edu](https://chancellor.ku.edu)
- - date_published: 2024-07-01T12:42:21.472891+00:00
-
- ## Home
- - [https://civilrights.ku.edu](https://civilrights.ku.edu)
- - date_published: 2024-07-01T12:37:11.778104+00:00
-
- ## Account Suspended
- - [https://cms2demo.cm.ku.edu](https://cms2demo.cm.ku.edu)
- - date_published: 2024-07-01T12:42:36.356056+00:00
-
- ## Account Suspended
- - [https://cms2.ku.edu](https://cms2.ku.edu)
- - date_published: 2024-07-01T12:42:46.199494+00:00
-
- ## KU CMS
- - [https://cms-drupal7.ku.edu](https://cms-drupal7.ku.edu)
- - date_published: 2024-07-01T12:41:29.425200+00:00
-
- ## Home | CMS Guide
- - [https://cms.ku.edu](https://cms.ku.edu)
- - date_published: 2024-05-07T19:20:19.887650+00:00
-
- ## Home
- - [https://coga.ku.edu](https://coga.ku.edu)
- - date_published: 2024-07-01T12:21:09.948836+00:00
-
- ## Home | College Dean's Office
- - [http://collegedean.ku.edu](http://collegedean.ku.edu)
- - date_published: 2024-07-01T12:21:12.005905+00:00
-
- ## Home | College of Liberal Arts & Sciences
- - [https://college.ku.edu](https://college.ku.edu)
- - date_published: 2024-05-07T19:19:10.376228+00:00
-
- ## Home
- - [http://collegeonline.ku.edu](http://collegeonline.ku.edu)
- - date_published: 2024-07-01T12:21:18.163344+00:00
-
- ## Welcome to College Undergraduate Academic Services
- - [https://collegeundergrad.ku.edu](https://collegeundergrad.ku.edu)
- - date_published: 2024-07-01T12:21:30.015566+00:00
-
- ## Home
- - [https://courseware.ku.edu](https://courseware.ku.edu)
- - date_published: 2024-07-01T12:42:39.579272+00:00
-
- ## Home
- - [https://dance.ku.edu](https://dance.ku.edu)
- - date_published: 2024-07-01T12:20:42.807084+00:00
-
- ## Home | Online Directory | KU
- - [https://directory.ku.edu](https://directory.ku.edu)
- - date_published: 2024-07-01T12:41:21.413564+00:00
-
- ## Homepage
- - [https://employment.ku.edu](https://employment.ku.edu)
- - date_published: 2024-05-07T19:20:02.795579+00:00
-
- ## Browse Exhibits · KU Libraries Exhibits
- - [https://exhibits.lib.ku.edu](https://exhibits.lib.ku.edu)
- - date_published: 2024-07-01T12:22:22.242406+00:00
-
- ## Home
- - [https://financialaid.ku.edu](https://financialaid.ku.edu)
- - date_published: 2024-07-01T12:35:42.297146+00:00
-
- ## Undergraduate Admissions
- - [https://go2.ku.edu](https://go2.ku.edu)
- - date_published: 2024-06-30T05:23:04+00:00
-
- ## Subject & Course Guides: Home: Subject Guides
- - [https://guides.lib.ku.edu](https://guides.lib.ku.edu)
- - date_published: 2024-05-07T19:19:12.540128+00:00
-
- ## Homepage
- - [http://humanresources.ku.edu](http://humanresources.ku.edu)
- - date_published: 2024-07-01T12:35:33.241531+00:00
-
- ## WebRetrieve
- - [https://illiad.lib.ku.edu](https://illiad.lib.ku.edu)
- - date_published: 2022-05-20T21:56:55+00:00
-
- ## Home
- - [http://ioa.ku.edu](http://ioa.ku.edu)
- - date_published: 2024-07-01T12:35:45.641541+00:00
-
- ## International Support Services
- - [https://iss.ku.edu](https://iss.ku.edu)
- - date_published: 2024-07-01T12:40:48.552280+00:00
-
- ## Jayhawk Community Partners
- - [https://jayhawkcommunitypartners.ku.edu](https://jayhawkcommunitypartners.ku.edu)
- - date_published: 2024-07-01T12:36:34.933937+00:00
-
- ## Journals@KU
- - [https://journals.ku.edu](https://journals.ku.edu)
- - date_published: 2024-02-17T15:56:43.422549+00:00
-
- ## The University of Kansas
- - [https://ku.edu](https://ku.edu)
- - date_published: 2024-05-07T19:20:16.222242+00:00
-
- ## Welcome to KU Police Department
- - [https://kupolice.ku.edu](https://kupolice.ku.edu)
- - date_published: 2024-07-01T12:41:05.579095+00:00
-
- ## KU ScholarWorks
- - [https://kuscholarworks.ku.edu](https://kuscholarworks.ku.edu)
- - date_published: 2024-05-07T19:19:22.823922+00:00
-
- ## Home
- - [https://kutheatre.ku.edu](https://kutheatre.ku.edu)
- - date_published: 2024-07-01T12:20:47.698136+00:00
-
- ## Welcome to KU Libraries
- - [https://lib.ku.edu](https://lib.ku.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://login.ku.edu](https://login.ku.edu)
- - date_published: 2024-07-01T12:41:58.399131+00:00
-
- ## Outlook
- - [https://mail.ku.edu](https://mail.ku.edu)
- - date_published: 2024-07-01T12:24:48.096346+00:00
-
- ## Homepage
- - [https://music.ku.edu](https://music.ku.edu)
- - date_published: 2024-07-15T06:07:00.317920+00:00
-
- ## MyIdentity Services | Information Technology
- - [https://myidentity.ku.edu](https://myidentity.ku.edu)
- - date_published: 2024-07-01T12:35:05.013454+00:00
-
- ## myKU Welcome | myKU Portal
- - [https://my.ku.edu](https://my.ku.edu)
- - date_published: 2024-05-07T19:20:22.923772+00:00
-
- ## New2KU
- - [https://new2.ku.edu](https://new2.ku.edu)
- - date_published: 2024-07-01T12:35:02.950648+00:00
-
- ## Homepage
- - [https://newhires.ku.edu](https://newhires.ku.edu)
- - date_published: 2024-07-01T12:35:35.922720+00:00
-
- ## Featured news and headlines | KU News
- - [https://news.ku.edu](https://news.ku.edu)
- - date_published: 2024-02-24T10:01:56.501520+00:00
-
- ## Home
- - [https://online.ku.edu](https://online.ku.edu)
- - date_published: 2024-07-01T12:40:58.165378+00:00
-
- ## Open Access
- - [http://openaccess.ku.edu](http://openaccess.ku.edu)
- - date_published: 2024-07-01T12:24:44.306930+00:00
-
- ## | The University of Kansas
- - [https://opsmaps.ku.edu](https://opsmaps.ku.edu)
- - date_published: 2022-04-07T16:09:14+00:00
-
- ## Home
- - [https://otp.ku.edu](https://otp.ku.edu)
- - date_published: 2024-07-01T12:41:07.627319+00:00
-
- ## Paleontological Institute
- - [https://paleo.ku.edu](https://paleo.ku.edu)
- - date_published: 2024-05-07T19:19:52.003258+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://people.eecs.ku.edu](https://people.eecs.ku.edu)
- - date_published: 2023-06-06T16:28:35+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [http://people.ku.edu](http://people.ku.edu)
- - date_published: 2024-09-07T22:41:21.725121+00:00
-
- ## Welcome | Policy Library
- - [http://policy.ku.edu](http://policy.ku.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Office of Public Affairs
- - [https://publicaffairs.ku.edu](https://publicaffairs.ku.edu)
- - date_published: 2024-07-01T12:37:09.836091+00:00
-
- ## Welcome to KU Police Department
- - [https://publicsafety.ku.edu](https://publicsafety.ku.edu)
- - date_published: 2024-07-01T12:37:17.074709+00:00
-
- ## Research Help - LibAnswers
- - [https://ref.lib.ku.edu](https://ref.lib.ku.edu)
- - date_published: 2024-07-01T12:21:41.640691+00:00
-
- ## Office of the University Registrar
- - [https://registrar.ku.edu](https://registrar.ku.edu)
- - date_published: 2024-07-01T12:41:03.233595+00:00
-
- ## Homepage
- - [https://research.ku.edu](https://research.ku.edu)
- - date_published: 2024-07-01T12:34:15.806867+00:00
-
- ## - Rock Chalk Central
- - [https://rockchalkcentral.ku.edu](https://rockchalkcentral.ku.edu)
- - date_published: 2024-07-01T12:42:03.316303+00:00
-
- ## Sexual Assault Prevention and Education Center
- - [https://sapec.ku.edu](https://sapec.ku.edu)
- - date_published: 2024-07-01T12:37:14.046482+00:00
-
- ## Homepage
- - [http://sota.ku.edu](http://sota.ku.edu)
- - date_published: 2024-07-01T12:20:45.864913+00:00
-
- ## Homepage
- - [https://spencer.lib.ku.edu](https://spencer.lib.ku.edu)
- - date_published: 2024-07-01T12:22:10.232885+00:00
-
- ## Watkins Health Services
- - [https://studenthealth.ku.edu](https://studenthealth.ku.edu)
- - date_published: 2024-07-01T12:37:07.918901+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://teams.ku.edu](https://teams.ku.edu)
- - date_published: 2024-07-01T12:41:53.279435+00:00
-
- ## KU Information Technology
- - [https://technology.ku.edu](https://technology.ku.edu)
- - date_published: 2024-07-01T12:35:06.821172+00:00
-
- ## Theatre & Dance
- - [https://theatredance.ku.edu](https://theatredance.ku.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## KU Today | The University of Kansas
- - [https://today.ku.edu](https://today.ku.edu)
- - date_published: 2023-10-25T18:53:30.550703+00:00
-
- ## Homepage
- - [https://tsc.ku.edu](https://tsc.ku.edu)
- - date_published: 2024-07-01T12:35:09.302051+00:00
-
- ## KU Web Media Directory
- - [https://webmedia.ku.edu](https://webmedia.ku.edu)
- - date_published: 2022-07-08T20:22:40+00:00
-
- ## Homepage
- - [https://websupport.ku.edu](https://websupport.ku.edu)
- - date_published: 2024-07-01T12:47:48.298351+00:00
-
- ## Institute for Information Sciences Home
- - [http://www.ittc.ku.edu](http://www.ittc.ku.edu)
- - date_published: 2024-07-11T07:54:48.309671+00:00
-
- ## Museum
- - [http://clendening.kumc.edu](http://clendening.kumc.edu)
- - date_published: 2024-06-24T09:45:39.504342+00:00
-
- ## University of Kansas Medical Center
- - [https://www.kumc.edu](https://www.kumc.edu)
- - date_published: 2024-07-01T12:35:40.463773+00:00
-
- ## Home of the Kutztown University Research Commons
- - [https://research.library.kutztown.edu](https://research.library.kutztown.edu)
- - date_published: 2024-07-02T10:48:37.331167+00:00
-
- ## Kutztown University
- - [https://www.kutztown.edu](https://www.kutztown.edu)
- - date_published: 2024-07-09T17:16:44.114611+00:00
-
- ## Accessibility at K –  | Kalamazoo College
- - [https://access.kzoo.edu](https://access.kzoo.edu)
- - date_published: 2024-05-07T19:24:30.279103+00:00
-
- ## Arcus Center Radical Futures Now Podcast –  | Kalamazoo College
- - [http://acsjlradicalfutures.kzoo.edu](http://acsjlradicalfutures.kzoo.edu)
- - date_published: 2024-07-01T14:31:48.756964+00:00
-
- ## Admission –  | Kalamazoo College
- - [https://admission.kzoo.edu](https://admission.kzoo.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Advising –  | Kalamazoo College
- - [https://advising.kzoo.edu](https://advising.kzoo.edu)
- - date_published: 2024-05-07T19:22:03.340633+00:00
-
- ## African Studies –  | Kalamazoo College
- - [https://africanstudies.kzoo.edu](https://africanstudies.kzoo.edu)
- - date_published: 2024-05-07T19:24:27.952564+00:00
-
- ## American Studies –  | Kalamazoo College
- - [https://americanstudies.kzoo.edu](https://americanstudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:30.207816+00:00
-
- ## Anthropology and Sociology –  | Kalamazoo College
- - [https://anso.kzoo.edu](https://anso.kzoo.edu)
- - date_published: 2024-05-07T19:22:50.972691+00:00
-
- ## Alcohol and Other Drugs – Education, Prevention, and Intervention –  | Kalamazoo College
- - [https://aod.kzoo.edu](https://aod.kzoo.edu)
- - date_published: 2024-05-07T19:23:08.531810+00:00
-
- ## Admission –  | Kalamazoo College
- - [https://apply.kzoo.edu](https://apply.kzoo.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Arabic –  | Kalamazoo College
- - [https://arabic.kzoo.edu](https://arabic.kzoo.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Lillian Anderson Arboretum –  | Kalamazoo College
- - [https://arboretum.kzoo.edu](https://arboretum.kzoo.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## College Archives –  | Kalamazoo College
- - [https://archives.kzoo.edu](https://archives.kzoo.edu)
- - date_published: 2024-05-07T19:23:11.169551+00:00
-
- ## Arcus Center for Social Justice Leadership –  | Kalamazoo College
- - [https://arcuscenter.kzoo.edu](https://arcuscenter.kzoo.edu)
- - date_published: 2024-05-07T19:24:52.364476+00:00
-
- ## Art and Art History –  | Kalamazoo College
- - [https://art.kzoo.edu](https://art.kzoo.edu)
- - date_published: 2024-05-07T19:22:26.978143+00:00
-
- ## Black Faculty and Staff Association –  | Kalamazoo College
- - [https://bafsa.kzoo.edu](https://bafsa.kzoo.edu)
- - date_published: 2024-05-07T19:21:24.545397+00:00
-
- ## Student Accounts –  | Kalamazoo College
- - [https://billing.kzoo.edu](https://billing.kzoo.edu)
- - date_published: 2024-05-07T19:23:13.966047+00:00
-
- ## Biology –  | Kalamazoo College
- - [https://biology.kzoo.edu](https://biology.kzoo.edu)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Room Reservations –  | Kalamazoo College
- - [https://bookaroom.kzoo.edu](https://bookaroom.kzoo.edu)
- - date_published: 2024-05-07T19:24:13.323399+00:00
-
- ## BrandK –  | Kalamazoo College
- - [https://brandk.kzoo.edu](https://brandk.kzoo.edu)
- - date_published: 2024-05-07T19:24:10.909125+00:00
-
- ## DSpace
- - [https://cache.kzoo.edu](https://cache.kzoo.edu)
- - date_published: 2024-02-27T07:26:20+00:00
-
- ## Campus Safety –  | Kalamazoo College
- - [https://campussafety.kzoo.edu](https://campussafety.kzoo.edu)
- - date_published: 2024-05-07T19:23:30.879105+00:00
-
- ## Center for Career and Professional Development –  | Kalamazoo College
- - [https://career.kzoo.edu](https://career.kzoo.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Careers in Health –  | Kalamazoo College
- - [https://careersinhealth.kzoo.edu](https://careersinhealth.kzoo.edu)
- - date_published: 2024-05-07T19:22:56.389888+00:00
-
- ## The Cauldron – Kalamazoo's annual literary and visual arts magazine –  | Kalamazoo College
- - [https://cauldron.kzoo.edu](https://cauldron.kzoo.edu)
- - date_published: 2024-05-07T19:21:55.073843+00:00
-
- ## Center for Civic Engagement –  | Kalamazoo College
- - [https://cce.kzoo.edu](https://cce.kzoo.edu)
- - date_published: 2024-05-07T19:25:04.811810+00:00
-
- ## Center for Complex Systems Studies –  | Kalamazoo College
- - [https://ccss.kzoo.edu](https://ccss.kzoo.edu)
- - date_published: 2024-05-07T19:22:01.068287+00:00
-
- ## Department of Chemistry and Biochemistry –  | Kalamazoo College
- - [https://chemistry.kzoo.edu](https://chemistry.kzoo.edu)
- - date_published: 2024-05-07T19:22:40.957290+00:00
-
- ## Center for International Programs –  | Kalamazoo College
- - [https://cip.kzoo.edu](https://cip.kzoo.edu)
- - date_published: 2024-05-07T19:21:49.147558+00:00
-
- ## Classics –  | Kalamazoo College
- - [https://classics.kzoo.edu](https://classics.kzoo.edu)
- - date_published: 2024-05-07T19:24:05.747587+00:00
-
- ## Commencement –  | Kalamazoo College
- - [https://commencement.kzoo.edu](https://commencement.kzoo.edu)
- - date_published: 2024-02-08T17:31:34.676457+00:00
-
- ## Computer Science –  | Kalamazoo College
- - [https://computerscience.kzoo.edu](https://computerscience.kzoo.edu)
- - date_published: 2024-05-07T19:23:50.796434+00:00
-
- ## Copyright at K –  | Kalamazoo College
- - [https://copyright.kzoo.edu](https://copyright.kzoo.edu)
- - date_published: 2024-05-07T19:24:17.499264+00:00
-
- ## Counseling Center –  | Kalamazoo College
- - [https://counseling.kzoo.edu](https://counseling.kzoo.edu)
- - date_published: 2024-05-07T19:21:33.332935+00:00
-
- ## COVID-19 Information –  | Kalamazoo College
- - [https://covid.kzoo.edu](https://covid.kzoo.edu)
- - date_published: 2024-05-07T19:30:16.485068+00:00
-
- ## Critical Ethnic Studies –  | Kalamazoo College
- - [https://criticalethnicstudies.kzoo.edu](https://criticalethnicstudies.kzoo.edu)
- - date_published: 2024-05-07T19:24:26.268394+00:00
-
- ## Critical Theory Concentration –  | Kalamazoo College
- - [https://criticaltheory.kzoo.edu](https://criticaltheory.kzoo.edu)
- - date_published: 2024-05-07T19:21:19.374102+00:00
-
- ## DEI – Diversity, Equity and Inclusion Initiatives at K –  | Kalamazoo College
- - [https://dei.kzoo.edu](https://dei.kzoo.edu)
- - date_published: 2024-05-07T19:23:43.222020+00:00
- - tags: ['dei']
-
- ## Disability Services for Students –  | Kalamazoo College
- - [https://disabilities.kzoo.edu](https://disabilities.kzoo.edu)
- - date_published: 2024-05-07T19:24:47.880874+00:00
-
- ## East Asian Studies –  | Kalamazoo College
- - [https://eas.kzoo.edu](https://eas.kzoo.edu)
- - date_published: 2024-05-07T19:22:10.135714+00:00
-
- ## Economics and Business –  | Kalamazoo College
- - [https://econbusn.kzoo.edu](https://econbusn.kzoo.edu)
- - date_published: 2024-05-07T19:22:20.551036+00:00
-
- ## EMS Redirect
- - [https://ems.kzoo.edu](https://ems.kzoo.edu)
- - date_published: 2023-10-16T19:08:29+00:00
-
- ## English –  | Kalamazoo College
- - [https://english.kzoo.edu](https://english.kzoo.edu)
- - date_published: 2024-05-07T19:21:57.626281+00:00
-
- ## Environmental Studies –  | Kalamazoo College
- - [https://environmentalstudies.kzoo.edu](https://environmentalstudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:23.723753+00:00
-
- ## Environmental Stewardship Center –  | Kalamazoo College
- - [https://envirostewardship.kzoo.edu](https://envirostewardship.kzoo.edu)
- - date_published: 2024-05-07T19:24:21.709206+00:00
-
- ## Educational Policies Committee –  | Kalamazoo College
- - [https://epc.kzoo.edu](https://epc.kzoo.edu)
- - date_published: 2024-05-07T19:22:59.036045+00:00
-
- ## Facilities Management –  | Kalamazoo College
- - [https://facilities.kzoo.edu](https://facilities.kzoo.edu)
- - date_published: 2024-05-07T19:22:15.602461+00:00
-
- ## Faculty Grant Assistance –  | Kalamazoo College
- - [https://facultygrants.kzoo.edu](https://facultygrants.kzoo.edu)
- - date_published: 2024-05-07T19:22:53.435750+00:00
-
- ## Log in to Faculty Development Committee
- - [https://fdc.kzoo.edu](https://fdc.kzoo.edu)
- - date_published: 2024-05-07T19:21:46.604098+00:00
-
- ## Grants, Scholarships and Fellowships –  | Kalamazoo College
- - [https://fellowships.kzoo.edu](https://fellowships.kzoo.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Festival Playhouse –  | Kalamazoo College
- - [https://festivalplayhouse.kzoo.edu](https://festivalplayhouse.kzoo.edu)
- - date_published: 2024-05-07T19:23:32.930640+00:00
-
- ## Film and Media Studies –  | Kalamazoo College
- - [https://filmandmediastudies.kzoo.edu](https://filmandmediastudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:21.062141+00:00
-
- ## Office of Financial Aid –  | Kalamazoo College
- - [https://finaid.kzoo.edu](https://finaid.kzoo.edu)
- - date_published: 2024-05-07T19:25:02.513515+00:00
-
- ## Fitness & Wellness Center –  | Kalamazoo College
- - [https://fitnesscenter.kzoo.edu](https://fitnesscenter.kzoo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Log in to Faculty Personnel Committee
- - [https://fpc.kzoo.edu](https://fpc.kzoo.edu)
- - date_published: 2024-05-07T19:22:24.888096+00:00
-
- ## French and Francophone Studies –  | Kalamazoo College
- - [https://french.kzoo.edu](https://french.kzoo.edu)
- - date_published: 2024-05-07T19:24:36.709196+00:00
-
- ## First Year Experience –  | Kalamazoo College
- - [https://fye.kzoo.edu](https://fye.kzoo.edu)
- - date_published: 2024-07-01T13:07:06.521166+00:00
-
- ## Gardens and Growing Spaces –  | Kalamazoo College
- - [https://gardens.kzoo.edu](https://gardens.kzoo.edu)
- - date_published: 2024-05-07T19:24:50.232506+00:00
-
- ## Department of German Studies –  | Kalamazoo College
- - [https://german.kzoo.edu](https://german.kzoo.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Global Crossroads –  | Kalamazoo College
- - [https://globalcrossroads.kzoo.edu](https://globalcrossroads.kzoo.edu)
- - date_published: 2024-05-07T19:22:29.079782+00:00
-
- ## Student Health Center –  | Kalamazoo College
- - [https://healthcenter.kzoo.edu](https://healthcenter.kzoo.edu)
- - date_published: 2024-05-07T19:21:36.379512+00:00
-
- ## HILL Project – Humanities Integrated Locational Learning –  | Kalamazoo College
- - [https://hill.kzoo.edu](https://hill.kzoo.edu)
- - date_published: 2024-05-07T19:24:19.761219+00:00
-
- ## History Department –  | Kalamazoo College
- - [https://history.kzoo.edu](https://history.kzoo.edu)
- - date_published: 2024-05-07T19:23:57.402201+00:00
-
- ## Log in to Hornet Hive
- - [https://hive.kzoo.edu](https://hive.kzoo.edu)
- - date_published: 2024-05-07T19:20:54.316236+00:00
-
- ## Homecoming and Reunions –  | Kalamazoo College
- - [https://homecoming.kzoo.edu](https://homecoming.kzoo.edu)
- - date_published: 2024-07-01T12:48:19.910931+00:00
-
- ## Kalamazoo College Hornet HQ - Ellucian Student Application
- - [https://hornethq.kzoo.edu](https://hornethq.kzoo.edu)
- - date_published: 2024-05-07T19:20:56.475717+00:00
-
- ## Kalamazoo College Athletics
- - [https://hornets.kzoo.edu](https://hornets.kzoo.edu)
- - date_published: 2024-05-07T19:21:09.425711+00:00
-
- ## Human Resources –  | Kalamazoo College
- - [https://hr.kzoo.edu](https://hr.kzoo.edu)
- - date_published: 2024-05-07T19:22:18.632001+00:00
-
- ## Institutional Assessment –  | Kalamazoo College
- - [https://ia.kzoo.edu](https://ia.kzoo.edu)
- - date_published: 2024-05-07T19:20:47.849753+00:00
-
- ## International and Area Studies –  | Kalamazoo College
- - [https://ias.kzoo.edu](https://ias.kzoo.edu)
- - date_published: 2024-05-07T19:24:54.522691+00:00
-
- ## Inclusive Excellence Initiatives –  | Kalamazoo College
- - [https://inclusiveexcellence.kzoo.edu](https://inclusiveexcellence.kzoo.edu)
- - date_published: 2024-05-07T19:20:34.033986+00:00
-
- ## The Index – The Student Newspaper of Kalamazoo College
- - [https://index.kzoo.edu](https://index.kzoo.edu)
- - date_published: 2024-05-07T19:24:38.235925+00:00
-
- ## Intercultural Student Life –  | Kalamazoo College
- - [https://intercultural.kzoo.edu](https://intercultural.kzoo.edu)
- - date_published: 2024-05-07T19:23:37.547180+00:00
-
- ## Intramural Sports –  | Kalamazoo College
- - [https://intramurals.kzoo.edu](https://intramurals.kzoo.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Institutional Review Board –  | Kalamazoo College
- - [https://irb.kzoo.edu](https://irb.kzoo.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Institutional Research –  | Kalamazoo College
- - [https://ir.kzoo.edu](https://ir.kzoo.edu)
- - date_published: 2024-05-07T19:21:41.665156+00:00
-
- ## Information Services –  | Kalamazoo College
- - [https://is.kzoo.edu](https://is.kzoo.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Jewish Studies –  | Kalamazoo College
- - [https://jewishstudies.kzoo.edu](https://jewishstudies.kzoo.edu)
- - date_published: 2024-05-07T19:30:18.804746+00:00
-
- ## Land Acknowledgment –  | Kalamazoo College
- - [https://land.kzoo.edu](https://land.kzoo.edu)
- - date_published: 2024-07-01T12:48:16.711916+00:00
-
- ## LandSea –  | Kalamazoo College
- - [https://landsea.kzoo.edu](https://landsea.kzoo.edu)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Learning Commons –  | Kalamazoo College
- - [https://learningcommons.kzoo.edu](https://learningcommons.kzoo.edu)
- - date_published: 2024-05-07T19:23:22.437613+00:00
-
- ## Learning Support –  | Kalamazoo College
- - [https://learningsupport.kzoo.edu](https://learningsupport.kzoo.edu)
- - date_published: 2024-05-07T19:22:12.610474+00:00
-
- ## Resources for LGBTQAI+ Students –  | Kalamazoo College
- - [https://lgbtqaiplus.kzoo.edu](https://lgbtqaiplus.kzoo.edu)
- - date_published: 2024-05-07T19:22:31.049956+00:00
-
- ## Library –  | Kalamazoo College
- - [https://library.kzoo.edu](https://library.kzoo.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Mail and Copy Center –  | Kalamazoo College
- - [https://mailandcopy.kzoo.edu](https://mailandcopy.kzoo.edu)
- - date_published: 2024-05-07T19:24:15.465235+00:00
-
- ## Math Department –  | Kalamazoo College
- - [https://mathematics.kzoo.edu](https://mathematics.kzoo.edu)
- - date_published: 2024-05-07T19:21:21.736782+00:00
-
- ## Kalamazoo College Moodle
- - [https://moodle.kzoo.edu](https://moodle.kzoo.edu)
- - date_published: 2024-05-07T19:21:27.963153+00:00
-
- ## Math/Physics Center –  | Kalamazoo College
- - [https://mpc.kzoo.edu](https://mpc.kzoo.edu)
- - date_published: 2024-05-07T19:23:24.951429+00:00
-
- ## Music Department –  | Kalamazoo College
- - [https://music.kzoo.edu](https://music.kzoo.edu)
- - date_published: 2024-05-07T19:22:22.689215+00:00
-
- ## MyChart - Login Page
- - [https://mychart.kzoo.edu](https://mychart.kzoo.edu)
- - date_published: 2024-07-01T12:56:47.079707+00:00
-
- ## Office of Religious and Spiritual Life –  | Kalamazoo College
- - [https://orsl.kzoo.edu](https://orsl.kzoo.edu)
- - date_published: 2024-05-07T19:25:12.361773+00:00
-
- ## Outdoor Programs –  | Kalamazoo College
- - [https://outdoor.kzoo.edu](https://outdoor.kzoo.edu)
- - date_published: 2024-05-07T19:30:14.043520+00:00
-
- ## For Parents and Families –  | Kalamazoo College
- - [https://parents.kzoo.edu](https://parents.kzoo.edu)
+ - [https://shom.dev](https://shom.dev)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Shopify Blockchain
+ - [https://blockchain.shopify.dev](https://blockchain.shopify.dev)
+ - date_published: 2024-09-07T22:26:50.809869+00:00
+
+ ## Hydrogen: Shopify’s headless commerce framework
+ - [https://hydrogen.shopify.dev](https://hydrogen.shopify.dev)
+ - date_published: 2024-04-29T03:43:43.341193+00:00
+
+ ## Ruby Style Guide
+ - [https://ruby-style-guide.shopify.dev](https://ruby-style-guide.shopify.dev)
+ - date_published: 2023-12-01T20:06:51+00:00
+
+ ## Shopify Developers Platform—Build. Innovate. Get paid.
+ - [https://shopify.dev](https://shopify.dev)
+ - date_published: 2024-04-28T04:58:16.582225+00:00
+
+ ## Shorebird Console
+ - [https://console.shorebird.dev](https://console.shorebird.dev)
+ - date_published: 2024-05-14T04:06:34.348644+00:00
+
+ ## Getting Started
+ - [https://docs.shorebird.dev](https://docs.shorebird.dev)
+ - date_published: 2024-05-14T04:06:29.954938+00:00
+
+ ## Shorebird
+ - [https://shorebird.dev](https://shorebird.dev)
+ - date_published: 2024-04-08T20:31:17.090700+00:00
+
+ ## ShotShare
+ - [https://demo.shotshare.dev](https://demo.shotshare.dev)
+ - date_published: 2024-04-08T19:27:50.836641+00:00
+ - tags: ['self-host', 'image sharing']
+
+ ## Shrecknt's Forgejo Instance
+ - [https://git.shrecked.dev](https://git.shrecked.dev)
+ - date_published: 2024-10-27T12:26:30.554231+00:00
+
+ ## Shrecknt's Silly Site
+ - [https://shrecked.dev](https://shrecked.dev)
+ - date_published: 2024-04-17T01:09:37+00:00
+
+ ## Shri Khalpada
+ - [https://shrikhalpada.dev](https://shrikhalpada.dev)
+ - date_published: 2024-05-06T23:05:02.550672+00:00
+
+ ## StudentMate
+ - [https://studentmate.shuchir.dev](https://studentmate.shuchir.dev)
+ - date_published: 2024-06-19T18:48:22.692245+00:00
+
+ ## @sshumate
+ - [https://shumate.dev](https://shumate.dev)
  - date_published: 2024-01-09T00:00:00+00:00
 
- ## Payroll –  | Kalamazoo College
- - [https://payroll.kzoo.edu](https://payroll.kzoo.edu)
- - date_published: 2024-07-01T13:08:46.292800+00:00
+ ## Ye Shu (@yechs) | Ye Shu
+ - [https://shuye.dev](https://shuye.dev)
+ - date_published: 2024-09-26T00:14:48+00:00
 
- ## Physical Education –  | Kalamazoo College
- - [https://pe.kzoo.edu](https://pe.kzoo.edu)
- - date_published: 2024-05-07T19:21:13.896670+00:00
+ ## Sideko
+ - [https://hacker-news.sideko.dev](https://hacker-news.sideko.dev)
+ - date_published: 2023-10-25T18:42:00.575012+00:00
 
- ## Phi Beta Kappa –  | Kalamazoo College
- - [https://phibetakappa.kzoo.edu](https://phibetakappa.kzoo.edu)
- - date_published: 2024-05-07T19:24:59.306343+00:00
+ ## Sidharth Vinod
+ - [https://sidharth.dev](https://sidharth.dev)
+ - date_published: 2024-07-03T21:47:06.875828+00:00
 
- ## Kalamazoo Philharmonia –  | Kalamazoo College
- - [https://philharmonia.kzoo.edu](https://philharmonia.kzoo.edu)
- - date_published: 2024-05-07T19:23:19.815414+00:00
+ ## SIGDEV
+ - [https://sig.dev](https://sig.dev)
+ - date_published: 2024-07-03T21:37:51.032107+00:00
 
- ## Philosophy Department –  | Kalamazoo College
- - [https://philosophy.kzoo.edu](https://philosophy.kzoo.edu)
- - date_published: 2024-05-07T19:20:44.980188+00:00
+ ## Sigstore Blog - Sigstore Blog
+ - [https://blog.sigstore.dev](https://blog.sigstore.dev)
+ - date_published: 2023-10-25T18:42:02.108244+00:00
 
- ## Physics Department –  | Kalamazoo College
- - [https://physics.kzoo.edu](https://physics.kzoo.edu)
- - date_published: 2024-05-07T19:20:59.149175+00:00
+ ## Overview
+ - [https://docs.sigstore.dev](https://docs.sigstore.dev)
+ - date_published: 0001-01-01T00:00:00+00:00
 
- ## Political Science –  | Kalamazoo College
- - [https://politicalscience.kzoo.edu](https://politicalscience.kzoo.edu)
- - date_published: 2024-05-07T19:22:48.516111+00:00
+ ## sigstore
+ - [https://rekor.sigstore.dev](https://rekor.sigstore.dev)
+ - date_published: 2024-07-07T06:26:56.089653+00:00
 
- ## Pre-Law Advising Program –  | Kalamazoo College
- - [https://prelawadvising.kzoo.edu](https://prelawadvising.kzoo.edu)
- - date_published: 2024-05-07T19:21:53.156120+00:00
-
- ## Office of the Provost –  | Kalamazoo College
- - [https://provost.kzoo.edu](https://provost.kzoo.edu)
- - date_published: 2024-05-07T19:23:52.862089+00:00
-
- ## Psychology Department –  | Kalamazoo College
- - [https://psychology.kzoo.edu](https://psychology.kzoo.edu)
- - date_published: 2024-05-07T19:24:00.215974+00:00
-
- ## Office of the Registrar –  | Kalamazoo College
- - [https://registrar.kzoo.edu](https://registrar.kzoo.edu)
- - date_published: 2024-05-07T19:20:42.501618+00:00
-
- ## Religion Department –  | Kalamazoo College
- - [https://religion.kzoo.edu](https://religion.kzoo.edu)
- - date_published: 2024-05-07T19:21:11.743419+00:00
-
- ## Residential Life –  | Kalamazoo College
- - [https://reslife.kzoo.edu](https://reslife.kzoo.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Sexual Violence Prevention and Advocacy –  | Kalamazoo College
- - [https://sexualsafety.kzoo.edu](https://sexualsafety.kzoo.edu)
- - date_published: 2024-05-07T19:23:48.236571+00:00
-
- ## Shared Passages Program –  | Kalamazoo College
- - [https://sharedpassages.kzoo.edu](https://sharedpassages.kzoo.edu)
- - date_published: 2024-05-07T19:22:34.885488+00:00
-
- ## Sophomore Experience –  | Kalamazoo College
- - [https://sophomore.kzoo.edu](https://sophomore.kzoo.edu)
- - date_published: 2024-05-07T19:23:04.203597+00:00
-
- ## Spanish Language and Literature –  | Kalamazoo College
- - [https://spanish.kzoo.edu](https://spanish.kzoo.edu)
- - date_published: 2024-05-07T19:23:06.419372+00:00
-
- ## Student Activities –  | Kalamazoo College
- - [https://studentactivities.kzoo.edu](https://studentactivities.kzoo.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Student Development –  | Kalamazoo College
- - [https://studev.kzoo.edu](https://studev.kzoo.edu)
- - date_published: 2024-05-07T19:24:24.172291+00:00
-
- ## Support Staff –  | Kalamazoo College
- - [https://supportstaff.kzoo.edu](https://supportstaff.kzoo.edu)
- - date_published: 2024-05-07T19:24:07.762051+00:00
-
- ## Sustainability at K –  | Kalamazoo College
- - [https://sustainability.kzoo.edu](https://sustainability.kzoo.edu)
- - date_published: 2024-05-07T19:20:38.995233+00:00
-
- ## Teaching Commons –  | Kalamazoo College
- - [https://teachingcommons.kzoo.edu](https://teachingcommons.kzoo.edu)
- - date_published: 2024-05-07T19:24:42.474005+00:00
-
- ## Theatre Arts Department –  | Kalamazoo College
- - [https://theatre.kzoo.edu](https://theatre.kzoo.edu)
- - date_published: 2024-05-07T19:22:44.386782+00:00
-
- ## Title IX –  | Kalamazoo College
- - [https://titleix.kzoo.edu](https://titleix.kzoo.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Teaching and Learning Committee –  | Kalamazoo College
- - [https://tlc.kzoo.edu](https://tlc.kzoo.edu)
- - date_published: 2024-05-07T19:23:01.543570+00:00
-
- ## Women, Gender, and Sexuality –  | Kalamazoo College
- - [https://wgs.kzoo.edu](https://wgs.kzoo.edu)
- - date_published: 2024-05-07T19:25:10.116874+00:00
-
- ## Writing Center –  | Kalamazoo College
- - [https://writingcenter.kzoo.edu](https://writingcenter.kzoo.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Kalamazoo College – Kalamazoo College
- - [https://kzoo.edu](https://kzoo.edu)
- - date_published: 2024-05-07T19:20:36.564844+00:00
-
- ## Shibboleth Authentication Request
- - [https://ezproxy.lafayette.edu](https://ezproxy.lafayette.edu)
- - date_published: 2024-06-30T01:26:24.933053+00:00
-
- ## Home - LaGuardia Community College
- - [https://www.laguardia.edu](https://www.laguardia.edu)
- - date_published: 2022-11-04T15:21:26+00:00
-
- ## Pauls Online Math Notes
- - [https://tutorial.math.lamar.edu](https://tutorial.math.lamar.edu)
- - date_published: 2024-06-27T17:22:18.882748+00:00
-
- ## Everyday Idioms!!!
- - [http://idioms.languagesystems.edu](http://idioms.languagesystems.edu)
- - date_published: 2024-02-08T17:32:14.922710+00:00
-
- ## Study English in the USA - English School in Los Angeles!
- - [http://languagesystems.edu](http://languagesystems.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Language Systems Lifestyle!
- - [http://lifestyle.languagesystems.edu](http://lifestyle.languagesystems.edu)
- - date_published: 2024-09-02T08:57:16+00:00
-
- ## CONTRACT AND RFP NOTIFICATION SYSTEM
- - [https://co.apps.laregents.edu](https://co.apps.laregents.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Board of Regents' Power-Based Violence Resource Hub
- - [https://pbv.laregents.edu](https://pbv.laregents.edu)
- - date_published: 2023-03-08T15:38:03+00:00
-
- ## Louisiana Board of Regents – Louisiana Prospers: Driving Our Talent Imperative
- - [https://www.laregents.edu](https://www.laregents.edu)
- - date_published: 2024-07-14T05:09:56.441709+00:00
-
- ## La Salle University Digital Commons | La Salle University Research
- - [https://digitalcommons.lasalle.edu](https://digitalcommons.lasalle.edu)
- - date_published: 2024-07-02T10:47:56.919883+00:00
-
- ## Las Positas College
- - [http://www.laspositascollege.edu](http://www.laspositascollege.edu)
- - date_published: 2024-06-29T22:49:54.609892+00:00
-
- ## WeBWorK
- - [https://webwork.latech.edu](https://webwork.latech.edu)
- - date_published: 2024-02-08T16:50:39.557450+00:00
-
- ## Columbus School of Law
- - [https://law.edu](https://law.edu)
- - date_published: 2024-06-14T22:02:48+00:00
-
- ## Welcome to Lewis & Clark in Beautiful Portland, Oregon
- - [https://www.lclark.edu](https://www.lclark.edu)
- - date_published: 2024-07-12T19:47:53+00:00
-
- ## Lake Erie College of Osteopathic Medicine (LECOM) | Erie, PA
- - [http://lecom.edu](http://lecom.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## AIRWeb: Adversarial Information Retrieval on the Web
- - [http://airweb.cse.lehigh.edu](http://airweb.cse.lehigh.edu)
- - date_published: 2011-01-12T01:57:51+00:00
-
- ## COR@L – Computational Optimization Research At Lehigh
- - [http://coral.ie.lehigh.edu](http://coral.ie.lehigh.edu)
- - date_published: 2024-08-08T03:13:27.499259+00:00
-
- ## COR@L – Computational Optimization Research At Lehigh
- - [https://coral.ise.lehigh.edu](https://coral.ise.lehigh.edu)
- - date_published: 2024-08-08T03:13:28.817482+00:00
-
- ## Lehigh Engineering: Integrated Education and Research
- - [https://engineering.lehigh.edu](https://engineering.lehigh.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## SeDuMi | Optimization over symmetric cones
- - [https://sedumi.ie.lehigh.edu](https://sedumi.ie.lehigh.edu)
- - date_published: 2024-04-28T01:58:14.252018+00:00
+ ## sigstore
+ - [https://sigstore.dev](https://sigstore.dev)
+ - date_published: 2024-05-11T07:03:32.513801+00:00
 
  ## Home
- - [https://www1.lehigh.edu](https://www1.lehigh.edu)
- - date_published: 2024-06-29T21:03:04+00:00
+ - [https://silbernagel.dev](https://silbernagel.dev)
+ - date_published: 2024-07-22T11:51:00.374323+00:00
 
- ## Home
- - [https://www2.lehigh.edu](https://www2.lehigh.edu)
- - date_published: 2024-06-29T21:03:04+00:00
+ ## Home | drew's dev blog
+ - [https://drew.silcock.dev](https://drew.silcock.dev)
+ - date_published: 2024-08-05T15:32:30.706791+00:00
 
- ## Home
- - [http://www.lehigh.edu](http://www.lehigh.edu)
- - date_published: 2024-07-01T20:03:03+00:00
-
- ## Lehman College | Lehman College
- - [http://www.lehman.edu](http://www.lehman.edu)
- - date_published: 2024-06-28T13:25:18.678211+00:00
-
- ## Redirect to Lockhaven.edu
- - [https://www.lhup.edu](https://www.lhup.edu)
- - date_published: 2024-05-07T15:42:12.265148+00:00
-
- ## Liberty University: A Christian University in Virginia and Online
- - [https://liberty.edu](https://liberty.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fitness Certification Classes and Programs - Life Time Academy
- - [https://www.lifetimeacademy.edu](https://www.lifetimeacademy.edu)
- - date_published: 2024-06-19T10:13:42.076162+00:00
-
- ## Digital Commons@Lindenwood University
- - [https://digitalcommons.lindenwood.edu](https://digitalcommons.lindenwood.edu)
- - date_published: 2024-07-08T21:39:42.618789+00:00
-
- ## Long Island University
- - [https://liu.edu](https://liu.edu)
- - date_published: 2024-06-26T12:31:59.198224+00:00
-
- ## Loyola Law School
- - [https://www.lls.edu](https://www.lls.edu)
- - date_published: 2024-09-15T23:30:53.260162+00:00
-
- ## Loma Linda University
- - [http://www.llu.edu](http://www.llu.edu)
- - date_published: 2024-06-24T09:01:34+00:00
-
- ## Admission
- - [http://admission.lmu.edu](http://admission.lmu.edu)
- - date_published: 2024-09-09T21:59:39.728906+00:00
-
- ## Seaver College of Science and Engineering - Loyola Marymount University
- - [https://cse.lmu.edu](https://cse.lmu.edu)
- - date_published: 2024-09-06T19:50:49.053168+00:00
-
- ## https://cs.lmu.edu
- - [https://cs.lmu.edu](https://cs.lmu.edu)
- - date_published: 2024-01-09T02:59:22.375629+00:00
-
- ## Digital Commons at Loyola Marymount University and Loyola Law School | Loyola Marymount University and Loyola Law School Research
- - [https://digitalcommons.lmu.edu](https://digitalcommons.lmu.edu)
- - date_published: 2024-09-15T23:30:48.651955+00:00
-
- ## Shibboleth Authentication Request
- - [http://electra.lmu.edu](http://electra.lmu.edu)
- - date_published: 2024-06-30T01:25:33.164003+00:00
-
- ## Loyola Marymount University
- - [http://lmu.edu](http://lmu.edu)
- - date_published: 2024-09-09T21:59:42.917287+00:00
-
- ## Viewbook - Digital Viewbook
- - [https://viewbook.lmu.edu](https://viewbook.lmu.edu)
- - date_published: 2024-04-30T06:57:21.481187+00:00
-
- ## London Business School Publishing - Case Collection
- - [https://publishing.london.edu](https://publishing.london.edu)
+ ## simeonGriggs.dev | Thoughts on Internet
+ - [https://simeongriggs.dev](https://simeongriggs.dev)
  - date_published: 2024-04-19T00:00:00+00:00
 
- ## Home | London Business School
- - [https://www.london.edu](https://www.london.edu)
- - date_published: 2024-06-20T22:45:42.682744+00:00
-
- ## Calendar
- - [https://calendar.louisiana.edu](https://calendar.louisiana.edu)
- - date_published: 2024-06-14T19:08:22+00:00
-
- ## Make a Gift
- - [https://give.louisiana.edu](https://give.louisiana.edu)
- - date_published: 2024-07-02T04:10:19.576903+00:00
-
- ## Another Degree of Success
- - [https://gradschool.louisiana.edu](https://gradschool.louisiana.edu)
- - date_published: 2024-07-01T21:01:12+00:00
-
- ## Human Resources
- - [https://humanresources.louisiana.edu](https://humanresources.louisiana.edu)
- - date_published: 2024-07-02T03:53:33+00:00
-
- ## University Libraries
- - [https://library.louisiana.edu](https://library.louisiana.edu)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## University of Louisiana at Lafayette
- - [https://louisiana.edu](https://louisiana.edu)
- - date_published: 2024-05-07T21:31:24.047115+00:00
-
- ## Home | Home
- - [https://moodle.louisiana.edu](https://moodle.louisiana.edu)
- - date_published: 2024-07-02T04:10:38+00:00
-
- ## Office of Communications & Marketing
- - [https://ocm.louisiana.edu](https://ocm.louisiana.edu)
- - date_published: 2024-07-02T04:10:30.591706+00:00
-
- ## Education that fits.
- - [https://online.louisiana.edu](https://online.louisiana.edu)
- - date_published: 2024-07-01T20:59:20+00:00
-
- ## University Police
- - [https://police.louisiana.edu](https://police.louisiana.edu)
- - date_published: 2024-07-02T03:38:47+00:00
-
- ## Office of Admissions
- - [https://apply.louisville.edu](https://apply.louisville.edu)
- - date_published: 2024-06-27T12:00:31.796714+00:00
-
- ## Blackboard Learn
- - [https://blackboard.louisville.edu](https://blackboard.louisville.edu)
- - date_published: 2004-06-27T12:00:49+00:00
-
- ## University of Louisville – College of Business
- - [https://business.louisville.edu](https://business.louisville.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## University of Louisville
- - [https://businessops.louisville.edu](https://businessops.louisville.edu)
- - date_published: 2024-05-02T14:48:53+00:00
-
- ## Academic Catalogs < University of Louisville
- - [https://catalog.louisville.edu](https://catalog.louisville.edu)
- - date_published: 2024-06-24T13:12:18+00:00
-
- ## ULink Sign-in
- - [https://csprd.louisville.edu](https://csprd.louisville.edu)
- - date_published: 2024-06-27T12:00:42.690096+00:00
-
- ## Events Calendar - University of Louisville
- - [https://events.louisville.edu](https://events.louisville.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Oracle PeopleSoft Sign-in
- - [https://fip.louisville.edu](https://fip.louisville.edu)
- - date_published: 2024-06-27T12:00:37.460152+00:00
-
- ## Home — Graduate School
- - [https://graduate.louisville.edu](https://graduate.louisville.edu)
- - date_published: 2024-06-27T12:01:49.916448+00:00
-
- ## University of Louisville | Here and Beyond – The University of Louisville is a public university in Louisville, Kentucky. It is a member of the Kentucky state university system.
- - [https://hereandbeyond.louisville.edu](https://hereandbeyond.louisville.edu)
- - date_published: 2024-06-27T12:00:27.377300+00:00
-
- ## Identity Self-Service Login
- - [https://identity.louisville.edu](https://identity.louisville.edu)
- - date_published: 2024-06-27T12:01:55.879184+00:00
-
- ## Sign in to your account
- - [https://iris.louisville.edu](https://iris.louisville.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## ThinkIR: The University of Louisville's Institutional Repository
- - [https://ir.library.louisville.edu](https://ir.library.louisville.edu)
- - date_published: 2024-05-19T02:41:08.119153+00:00
-
- ## UofL Libraries: University of Louisville Libraries: Home
- - [https://library.louisville.edu](https://library.louisville.edu)
- - date_published: 2024-06-22T07:13:49.040806+00:00
-
- ## University of Louisville
- - [https://louisville.edu](https://louisville.edu)
- - date_published: 2024-05-02T14:48:53+00:00
-
- ## Sign in to your account
- - [https://otms.louisville.edu](https://otms.louisville.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Search UofL
- - [https://search.louisville.edu](https://search.louisville.edu)
- - date_published: 2024-01-25T00:58:45+00:00
-
- ## ULink Portal
- - [https://ulink.louisville.edu](https://ulink.louisville.edu)
- - date_published: 2024-03-10T00:00:00+00:00
-
- ## University of Louisville
- - [http://www.louisville.edu](http://www.louisville.edu)
- - date_published: 2024-05-02T14:48:53+00:00
-
- ## College of Law | Loyola University New Orleans
- - [http://law.loyno.edu](http://law.loyno.edu)
- - date_published: 2024-06-17T10:26:49+00:00
-
- ## My Apps
- - [https://sso.loyno.edu](https://sso.loyno.edu)
- - date_published: 2024-10-18T22:34:12.007731+00:00
-
- ## Welcome to Loyola University | Loyola University New Orleans
- - [https://www.loyno.edu](https://www.loyno.edu)
- - date_published: 2024-10-14T18:07:51+00:00
-
- ## Events Calendar
- - [https://calendar.lr.edu](https://calendar.lr.edu)
- - date_published: 2024-08-07T16:53:12.606705+00:00
-
- ## Log In to Canvas
- - [https://canvas.lr.edu](https://canvas.lr.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home | Lenoir-Rhyne University
- - [https://lr.edu](https://lr.edu)
- - date_published: 2024-04-28T03:37:48.331975+00:00
-
- ## Sign in to your account
- - [https://portal.lr.edu](https://portal.lr.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Homepage | Lake Region State College
- - [https://www.lrsc.edu](https://www.lrsc.edu)
- - date_published: 2024-07-01T15:48:42+00:00
-
- ## Undergraduate Admissions
- - [https://admissions.lsu.edu](https://admissions.lsu.edu)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Online Tech Bootcamps | Louisiana State University
- - [https://bootcamp.online.lsu.edu](https://bootcamp.online.lsu.edu)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## LSU E. J. Ourso College of Business
- - [https://business.lsu.edu](https://business.lsu.edu)
- - date_published: 2024-07-01T14:41:13.321824+00:00
-
- ## Events Calendar - Louisiana State University
- - [https://calendar.lsu.edu](https://calendar.lsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Louisiana State University - Acalog ACMS™
- - [https://catalog.lsu.edu](https://catalog.lsu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## COLLEGE OF ART & DESIGN
- - [https://design.lsu.edu](https://design.lsu.edu)
- - date_published: 2024-07-01T14:40:51.559571+00:00
-
- ## LSU Giving Day
- - [https://givingday.lsu.edu](https://givingday.lsu.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## GROK Knowledge Base
- - [http://grok.lsu.edu](http://grok.lsu.edu)
- - date_published: 2024-07-01T14:42:10.174092+00:00
-
- ## Highland Road Park Observatory
- - [https://hrpo.lsu.edu](https://hrpo.lsu.edu)
- - date_published: 2024-08-11T23:29:53.016186+00:00
-
- ## Home
- - [https://itservice.lsu.edu](https://itservice.lsu.edu)
- - date_published: 2024-05-07T19:30:45.434428+00:00
-
- ## Welcome to LSU, a top research university | Baton Rouge, La.
- - [https://lsu.edu](https://lsu.edu)
- - date_published: 2024-05-07T19:30:48.158325+00:00
-
- ## Louisiana State University LSU
- - [https://map.lsu.edu](https://map.lsu.edu)
- - date_published: 2024-07-01T14:40:42.568388+00:00
-
- ## myLSU - Single Sign On
- - [https://mylsu.apps.lsu.edu](https://mylsu.apps.lsu.edu)
- - date_published: 2024-05-07T19:30:59.182311+00:00
-
- ## LSU Online
- - [https://online.lsu.edu](https://online.lsu.edu)
- - date_published: 2024-07-01T14:40:26.617404+00:00
-
- ## Pre-College Programs
- - [https://precollege.lsu.edu](https://precollege.lsu.edu)
- - date_published: 2024-07-01T14:40:32.271999+00:00
-
- ## LSU Scholarly Repository | Louisiana State University Research
- - [https://repository.lsu.edu](https://repository.lsu.edu)
- - date_published: 2024-06-30T02:30:53.509351+00:00
-
- ## Home | SciViz
- - [http://sciviz.cct.lsu.edu](http://sciviz.cct.lsu.edu)
- - date_published: 2013-04-09T20:36:37+00:00
-
- ## Louisiana State University
- - [https://tigerlink.lsu.edu](https://tigerlink.lsu.edu)
- - date_published: 2024-05-07T19:30:53.429998+00:00
-
- ## LSU TigerWare Online
- - [http://tigerware.lsu.edu](http://tigerware.lsu.edu)
- - date_published: 2024-07-07T05:34:22.150397+00:00
-
- ## Center for Computation & Technology | Interdisciplinary  |  Innovative  | Inventive
- - [https://cct.lsu.edu](https://cct.lsu.edu)
- - date_published: 2024-05-08T09:32:45.803687+00:00
-
- ## Electrical & Computer Engineering, Division of
- - [https://www.ece.lsu.edu](https://www.ece.lsu.edu)
- - date_published: 2023-10-25T11:24:20.932943+00:00
-
- ## High Performance Computing | Louisiana State University
- - [http://www.hpc.lsu.edu](http://www.hpc.lsu.edu)
- - date_published: 2024-07-07T05:34:20.231485+00:00
-
- ## LSU Law
- - [http://www.law.lsu.edu](http://www.law.lsu.edu)
- - date_published: 2024-06-17T11:15:28+00:00
-
- ## Welcome to LSU Libraries | LSU Libraries
- - [https://www.lib.lsu.edu](https://www.lib.lsu.edu)
- - date_published: 2024-07-01T14:40:47.428824+00:00
-
- ## LSU Math team awarded NSF Research Training Grant | LSU Math
- - [https://www.math.lsu.edu](https://www.math.lsu.edu)
- - date_published: 2024-07-02T09:18:32+00:00
-
- ## Home | LSU Online and Continuing Education
- - [https://www.outreach.lsu.edu](https://www.outreach.lsu.edu)
- - date_published: 2024-07-01T14:41:09.158405+00:00
-
- ## LSU Office of Research & Economic Development
- - [http://www.research.lsu.edu](http://www.research.lsu.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - LTER
- - [https://lternet.edu](https://lternet.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Northern Gulf of Alaska LTER - Northern Gulf of Alaska
- - [https://nga.lternet.edu](https://nga.lternet.edu)
- - date_published: 2024-10-19T20:03:17.335840+00:00
-
- ## Home: Loyola University Chicago
- - [https://catalog.luc.edu](https://catalog.luc.edu)
- - date_published: 2024-08-29T14:30:05+00:00
-
- ## Infor Lawson
- - [https://ess.luc.edu](https://ess.luc.edu)
- - date_published: 2022-08-21T13:12:14+00:00
-
- ## Graduate and Professional Admission Loyola Chicago
- - [https://gpem.luc.edu](https://gpem.luc.edu)
- - date_published: 2024-09-02T10:35:53.525647+00:00
-
- ## Italo Alves
- - [https://ialves.sites.luc.edu](https://ialves.sites.luc.edu)
- - date_published: 2023-03-17T00:00:00+00:00
-
- ## An Introduction to Computer Networks
- - [https://intronetworks.cs.luc.edu](https://intronetworks.cs.luc.edu)
- - date_published: 2020-08-19T20:57:55+00:00
-
- ## UKG Workforce Central(R)
- - [https://kronos.luc.edu](https://kronos.luc.edu)
- - date_published: 2024-09-02T10:36:08.409356+00:00
-
- ## Welcome to Loyola University Chicago Libraries | Loyola University Chicago Libraries
- - [http://libraries.luc.edu](http://libraries.luc.edu)
- - date_published: 2024-09-02T06:49:02+00:00
-
- ## LUTE: Loyola University Technology Ensemble -
- - [https://lute.luc.edu](https://lute.luc.edu)
- - date_published: 2024-03-21T15:49:11+00:00
-
- ## Home
- - [https://news.luc.edu](https://news.luc.edu)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## LUC Sakai : Gateway : Welcome
- - [https://sakai.luc.edu](https://sakai.luc.edu)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Home
- - [https://stories.luc.edu](https://stories.luc.edu)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## Loyola University Chicago | Undergraduate Admission Explore2: Loyola University Chicago
- - [https://uao.luc.edu](https://uao.luc.edu)
- - date_published: 2024-09-02T10:36:14.345145+00:00
-
- ## Loyola University
- - [https://luc.edu](https://luc.edu)
- - date_published: 2024-05-24T22:29:23.201109+00:00
-
- ## LUMCON Website – The Louisiana Universities Marine Consortium
- - [http://www.lumcon.edu](http://www.lumcon.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Macalester College
- - [https://www.macalester.edu](https://www.macalester.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## The University of Maine at Machias — UMaine's Coastal Campus
- - [https://machias.edu](https://machias.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## UMS User Account Management
- - [https://accounts.maine.edu](https://accounts.maine.edu)
- - date_published: 2024-05-07T21:27:43.700017+00:00
-
- ## UMS Careers
- - [http://careers.maine.edu](http://careers.maine.edu)
- - date_published: 2024-07-02T03:48:22.142583+00:00
-
- ## UMS Single Sign-On - Loading Session Information
- - [https://courses.maine.edu](https://courses.maine.edu)
- - date_published: 2024-05-07T21:27:34.315112+00:00
-
- ## UMS Single Sign-On - Loading Session Information
- - [http://gmail.maine.edu](http://gmail.maine.edu)
- - date_published: 2024-05-07T21:27:30.655514+00:00
-
- ## University of Maine School of Law
- - [https://mainelaw.maine.edu](https://mainelaw.maine.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## MaineStreet Links
- - [https://mainestreet.maine.edu](https://mainestreet.maine.edu)
- - date_published: 2024-05-07T21:27:41.577698+00:00
-
- ## Please select your identity provider. - UMS
- - [https://mycampus.maine.edu](https://mycampus.maine.edu)
- - date_published: 2024-07-01T02:52:25.122583+00:00
-
- ## UMS PeopleSearch  - University of Maine System
- - [http://peoplesearch.maine.edu](http://peoplesearch.maine.edu)
- - date_published: 2024-07-01T20:33:41+00:00
-
- ## TeamDynamix Sign-In
- - [https://tdx.maine.edu](https://tdx.maine.edu)
- - date_published: 2024-04-17T19:45:22+00:00
-
- ## University of Southern Maine
- - [https://usm.maine.edu](https://usm.maine.edu)
- - date_published: 2024-07-01T21:40:03+00:00
-
- ## University of Maine System  - University of Maine System
- - [https://maine.edu](https://maine.edu)
- - date_published: 2024-05-07T21:27:45.724796+00:00
-
- ## UMF
- - [https://www.umf.maine.edu](https://www.umf.maine.edu)
- - date_published: 2024-07-01T20:10:28+00:00
-
- ## Malone University - A Christian University in Northeast Ohio
- - [http://www.malone.edu](http://www.malone.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Your Support Transforms Futures at Mansfield | Change Site Title In Key Manager
- - [https://give.mansfield.edu](https://give.mansfield.edu)
- - date_published: 2024-06-03T15:28:59+00:00
-
- ## Home
- - [http://www.marietta.edu](http://www.marietta.edu)
- - date_published: 2024-06-28T13:51:49+00:00
-
- ## Home of the Marist Poll | Polls, Analysis, Learning, and More
- - [https://maristpoll.marist.edu](https://maristpoll.marist.edu)
- - date_published: 2024-06-29T10:52:46.744357+00:00
-
- ## Homepage | Marquette University Law School
- - [http://law.marquette.edu](http://law.marquette.edu)
- - date_published: 2024-06-17T11:12:05.602004+00:00
-
- ## We Are Marquette
- - [https://stories.marquette.edu](https://stories.marquette.edu)
- - date_published: 2024-07-04T05:02:34.235735+00:00
-
- ## A Marquette education prepares students to Be The Difference.
- - [http://www.marquette.edu](http://www.marquette.edu)
- - date_published: 2024-07-22T09:07:52.853722+00:00
-
- ## Marshall Advanced Manufacturing Center
- - [https://www.mfg.marshall.edu](https://www.mfg.marshall.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## MPower Maryland
- - [http://mpower.maryland.edu](http://mpower.maryland.edu)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Home
- - [https://online.maryville.edu](https://online.maryville.edu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## School and District Profiles
- - [https://profiles.doe.mass.edu](https://profiles.doe.mass.edu)
- - date_published: 2024-08-18T17:45:53.700945+00:00
-
- ## Home Page
- - [https://massachusetts.edu](https://massachusetts.edu)
- - date_published: 2024-05-07T21:25:07.569886+00:00
-
- ## The Master's University | For Christ & Scripture
- - [http://masters.edu](http://masters.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## TMU Online Master's and Bachelor's Degrees | Online Degree Programs | The Master's University
- - [https://online.masters.edu](https://online.masters.edu)
+ ## Simon Aronsson
+ - [https://simme.dev](https://simme.dev)
+ - date_published: 2023-10-25T08:58:52.820047+00:00
+ - tags: ['personal']
+
+ ## All posts
+ - [https://simonam.dev](https://simonam.dev)
+ - date_published: 2023-11-02T00:00:00+00:00
+
+ ## Simon's Crypta
+ - [https://simoncrypta.dev](https://simoncrypta.dev)
+ - date_published: 2024-04-29T14:12:28.585076+00:00
+ - tags: ['personal']
+
+ ## Dev
+ - [https://sincerely.dev](https://sincerely.dev)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Fast & responsive websites that will bring you joy
+ - [https://sitejoy.dev](https://sitejoy.dev)
+ - date_published: 2024-07-23T23:40:44.960510+00:00
+
+ ## Sitwell
+ - [https://fv.sitwell.dev](https://fv.sitwell.dev)
+ - date_published: 2024-07-15T06:32:49.414100+00:00
+
+ ## Skaffold
+ - [https://skaffold.dev](https://skaffold.dev)
+ - date_published: 2024-05-08T03:27:45.672820+00:00
+
+ ## Skii.dev
+ - [https://skii.dev](https://skii.dev)
+ - date_published: 2024-01-26T20:00:32.296350+00:00
+
+ ## Coding Interview Questions + Land Your Dev Job | Skilled.dev
+ - [https://skilled.dev](https://skilled.dev)
+ - date_published: 2024-06-11T01:09:52+00:00
+
+ ## Skill Icons
+ - [https://skillicons.dev](https://skillicons.dev)
+ - date_published: 2024-05-09T06:24:30.590630+00:00
+
+ ## uses.skydiver.dev
+ - [https://uses.skydiver.dev](https://uses.skydiver.dev)
+ - date_published: 2024-05-11T10:18:35.597230+00:00
+
+ ## SkylaDev | Home
+ - [https://skyla.dev](https://skyla.dev)
+ - date_published: 2024-10-27T12:26:12.567541+00:00
+
+ ## Skypack: search millions of open source JavaScript packages
+ - [https://cdn.skypack.dev](https://cdn.skypack.dev)
+ - date_published: 2024-04-30T02:17:13.432907+00:00
+
+ ## Introduction | Skypack Docs
+ - [https://docs.skypack.dev](https://docs.skypack.dev)
+ - date_published: 2024-07-22T11:59:17.288994+00:00
+
+ ## Skypack - Status
+ - [https://status.skypack.dev](https://status.skypack.dev)
+ - date_published: 2024-07-22T11:59:15.194317+00:00
+
+ ## Skypack: search millions of open source JavaScript packages
+ - [https://www.skypack.dev](https://www.skypack.dev)
+ - date_published: 2024-06-23T02:36:34.068154+00:00
+
+ ## Skywalk
+ - [https://skywalk.dev](https://skywalk.dev)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Alex Chi Z.
+ - [https://skyzh.dev](https://skyzh.dev)
+ - date_published: 2024-05-04T15:32:10.225105+00:00
+
+ ## Slack Platform Developer Tools
+ - [https://slack.dev](https://slack.dev)
+ - date_published: 2024-07-09T21:03:03+00:00
+
+ ## slama.dev
+ - [https://slama.dev](https://slama.dev)
+ - date_published: 2023-10-25T08:58:54.013566+00:00
+ - tags: ['personal']
+
+ ## Slidev
+ - [https://br.sli.dev](https://br.sli.dev)
+ - date_published: 2024-07-07T03:05:21.033583+00:00
+
+ ## Join the Slidev Discord Server!
+ - [https://chat.sli.dev](https://chat.sli.dev)
+ - date_published: 2024-07-03T17:20:00+00:00
+
+ ## Slidev 中文文档
+ - [https://cn.sli.dev](https://cn.sli.dev)
+ - date_published: 2024-07-07T03:05:21.669657+00:00
+
+ ## Slidev
+ - [https://de.sli.dev](https://de.sli.dev)
+ - date_published: 2024-07-07T03:05:13.692896+00:00
+
+ ## Slidev
+ - [https://el.sli.dev](https://el.sli.dev)
+ - date_published: 2024-07-07T03:05:09.669286+00:00
+
+ ## Slidev
+ - [https://es.sli.dev](https://es.sli.dev)
+ - date_published: 2024-07-07T03:05:16.922571+00:00
+
+ ## Slidev
+ - [https://fr.sli.dev](https://fr.sli.dev)
+ - date_published: 2024-07-07T03:05:19.453118+00:00
+
+ ## Slidev
+ - [https://ja.sli.dev](https://ja.sli.dev)
+ - date_published: 2024-07-07T03:05:10.740391+00:00
+
+ ## Slidev
+ - [https://ru.sli.dev](https://ru.sli.dev)
+ - date_published: 2024-07-07T03:05:15.828318+00:00
+
+ ## Slidev
+ - [https://sli.dev](https://sli.dev)
+ - date_published: 2024-05-08T09:01:19.377444+00:00
+
+ ## Slidev
+ - [https://vn.sli.dev](https://vn.sli.dev)
+ - date_published: 2024-07-07T03:05:12.337491+00:00
+
+ ## Home — Isaac Clayton
+ - [https://slightknack.dev](https://slightknack.dev)
+ - date_published: 2023-10-25T08:48:59.054260+00:00
+ - tags: ['personal']
+
+ ## Introduction - SlimeVR Docs
+ - [https://docs.slimevr.dev](https://docs.slimevr.dev)
+ - date_published: 2024-04-30T02:18:05.609761+00:00
+
+ ## SlimeVR Store
+ - [https://shop.slimevr.dev](https://shop.slimevr.dev)
+ - date_published: 2024-06-05T11:56:00.511738+00:00
+
+ ## SlimeVR Full-Body Tracker
+ - [https://slimevr.dev](https://slimevr.dev)
+ - date_published: 2023-11-26T21:42:42+00:00
+ - tags: ['virtual reality', 'hardware', 'vr']
+
+ ## Slinky - Write React apps in Scala just like ES6
+ - [https://slinky.dev](https://slinky.dev)
+ - date_published: 2024-06-20T14:02:54.380129+00:00
+
+ ## Slint Mattermost
+ - [https://chat.slint.dev](https://chat.slint.dev)
+ - date_published: 2024-04-29T04:46:35.683779+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.slint.dev](https://matomo.slint.dev)
+ - date_published: 2024-08-05T18:04:31.719286+00:00
+
+ ## Slint |
+            Declarative GUI for Rust, C++ & JavaScript
+ - [https://slint.dev](https://slint.dev)
+ - date_published: 2023-10-25T18:42:03.965621+00:00
+
+ ## Sloth - Sloth
+ - [https://sloth.dev](https://sloth.dev)
+ - date_published: 2022-10-27T06:12:24+00:00
+
+ ## Supply-chain Levels for Software Artifacts
+ - [https://slsa.dev](https://slsa.dev)
+ - date_published: 2024-09-04T03:28:00.064317+00:00
+
+ ## SmartPy - Smart Contracts on Tezos
+ - [https://smartpy.dev](https://smartpy.dev)
+ - date_published: 2024-10-22T17:38:22.951008+00:00
+
+ ## Smart Wallet
+ - [https://smartwallet.dev](https://smartwallet.dev)
+ - date_published: 2024-09-21T23:36:05.164759+00:00
+
+ ## Scott Leggett | @smlx's blog
+ - [https://smlx.dev](https://smlx.dev)
+ - date_published: 2024-02-14T19:23:45.960903+00:00
+
+ ## SmolCSS
+ - [https://smolcss.dev](https://smolcss.dev)
+ - date_published: 2024-04-30T00:34:56.467195+00:00
+
+ ## Snaplet
+ - [https://www.snaplet.dev](https://www.snaplet.dev)
  - date_published: 2024-05-14T00:00:00+00:00
 
- ## The Master's University Bookstore
- - [https://ue.masters.edu](https://ue.masters.edu)
- - date_published: 2024-06-22T05:51:42.820240+00:00
+ ## Error
+ - [https://img.snaplink.dev](https://img.snaplink.dev)
+ - date_published: 2024-04-28T01:46:06.742156+00:00
 
- ## The Master's University | For Christ & Scripture
- - [https://www.masters.edu](https://www.masters.edu)
- - date_published: 2024-04-29T00:00:00+00:00
+ ## Snaptail - One File React Apps
+ - [https://snaptail.dev](https://snaptail.dev)
+ - date_published: 2024-09-02T09:52:36.658268+00:00
 
- ## Medical Innovation - Mayo Clinic News Network
- - [https://advancingthescience.mayo.edu](https://advancingthescience.mayo.edu)
- - date_published: 2024-07-01T14:47:38.209096+00:00
+ ## Snowpack
+ - [https://www.snowpack.dev](https://www.snowpack.dev)
+ - date_published: 2024-05-06T13:11:48.505017+00:00
 
- ## Mayo Clinic Alumni Association
- - [https://alumniassociation.mayo.edu](https://alumniassociation.mayo.edu)
+ ## Socheat Sok
+ - [https://socheat.dev](https://socheat.dev)
+ - date_published: 2024-05-11T10:20:32.970537+00:00
+
+ ## Socket - Secure your dependencies. Ship with confidence.
+ - [https://api.socket.dev](https://api.socket.dev)
  - date_published: 2024-04-26T00:00:00+00:00
 
- ## Mayo Clinic School of Continuous Professional Development
- - [https://ce.mayo.edu](https://ce.mayo.edu)
- - date_published: 2024-06-17T08:47:23+00:00
-
- ## Home - Mayo Clinic College of Medicine & Science
- - [https://college.mayo.edu](https://college.mayo.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Medical Research & Education - Mayo Clinic News Network
- - [https://discoverysedge.mayo.edu](https://discoverysedge.mayo.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Executive Education at Mayo Clinic
- - [https://executiveeducation.mayo.edu](https://executiveeducation.mayo.edu)
- - date_published: 2024-10-17T20:48:46.410515+00:00
-
- ## WSO2 Management Console
- - [https://login.edlink.mayo.edu](https://login.edlink.mayo.edu)
- - date_published: 2024-06-17T09:03:39.021626+00:00
-
- ## Mayo Clinic QHS Apps Home Page
- - [https://rtools.mayo.edu](https://rtools.mayo.edu)
- - date_published: 2024-02-08T17:32:56.480098+00:00
-
- ## Mayo Clinic Alumni Association
- - [https://store.alumniassociation.mayo.edu](https://store.alumniassociation.mayo.edu)
- - date_published: 2024-10-17T20:55:30.651337+00:00
-
- ## Education and Research at Mayo Clinic - Education and Research at Mayo Clinic
- - [https://mayo.edu](https://mayo.edu)
- - date_published: 2024-05-07T19:31:04.510313+00:00
-
- ## Mayville State University :: Mayville, ND
- - [https://mayvillestate.edu](https://mayvillestate.edu)
- - date_published: 2024-07-01T16:01:01.271377+00:00
-
- ## Montgomery Blair High School
- - [https://mbhs.edu](https://mbhs.edu)
- - date_published: 2024-10-15T23:39:21.580500+00:00
-
- ## Montgomery Blair High School
- - [http://www.mbhs.edu](http://www.mbhs.edu)
- - date_published: 2024-07-04T14:34:28.953981+00:00
-
- ## Home | Marine Biological Laboratory
- - [https://www.mbl.edu](https://www.mbl.edu)
- - date_published: 2024-06-29T20:53:36+00:00
-
- ## Home
- - [http://law.mc.edu](http://law.mc.edu)
- - date_published: 2021-10-09T17:49:21+00:00
-
- ## MCAD | Minneapolis College of Art and Design
- - [https://mcad.edu](https://mcad.edu)
- - date_published: 2024-07-09T15:38:12+00:00
-
- ## Metropolitan Community College, Kansas City
- - [http://www.mcckc.edu](http://www.mcckc.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home
- - [https://www.mccneb.edu](https://www.mccneb.edu)
- - date_published: 2024-09-05T20:37:00.424548+00:00
-
- ## Hoover Library: Hoover Library - homepage: Home
- - [https://lib.hoover.mcdaniel.edu](https://lib.hoover.mcdaniel.edu)
- - date_published: 2024-07-04T13:15:43.118209+00:00
-
- ## Redirect
- - [http://www2.mcdaniel.edu](http://www2.mcdaniel.edu)
- - date_published: 2014-07-21T15:22:22+00:00
-
- ## Home | Medical College of Wisconsin
- - [https://www.mcw.edu](https://www.mcw.edu)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Events Calendar
- - [https://calendar.mdc.edu](https://calendar.mdc.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Index Page
- - [https://cs.mdc.edu](https://cs.mdc.edu)
- - date_published: 2024-01-11T06:32:01+00:00
-
- ## FAQ – Frequently Asked Questions
- - [https://faq.mdc.edu](https://faq.mdc.edu)
- - date_published: 2024-05-07T19:31:38.316870+00:00
-
- ## Miami Dade College Alumni Association Website
- - [https://foundation.mdc.edu](https://foundation.mdc.edu)
- - date_published: 2024-05-07T19:31:14.312990+00:00
-
- ## MDConnect | Miami Dade College
- - [https://mdconnect.mdc.edu](https://mdconnect.mdc.edu)
- - date_published: 2024-05-07T19:31:36.053490+00:00
-
- ## Sign In
- - [https://mycourses.mdc.edu](https://mycourses.mdc.edu)
- - date_published: 2024-05-07T19:31:45.603581+00:00
-
- ## Student Portal | Miami Dade College
- - [https://my.mdc.edu](https://my.mdc.edu)
- - date_published: 2024-05-07T19:31:50.148259+00:00
-
- ## Sign In
- - [https://myoffice.mdc.edu](https://myoffice.mdc.edu)
- - date_published: 2024-07-01T01:39:41.142189+00:00
-
- ## MDC News
- - [https://news.mdc.edu](https://news.mdc.edu)
- - date_published: 2024-05-07T19:31:52.213450+00:00
-
- ## NWSA | Miami Dade College
- - [https://nwsa.mdc.edu](https://nwsa.mdc.edu)
- - date_published: 2024-05-07T19:31:20.975929+00:00
-
- ## Sign In
- - [http://orientation.mdc.edu](http://orientation.mdc.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## - SharkNet
- - [https://sharknet.mdc.edu](https://sharknet.mdc.edu)
- - date_published: 2024-05-07T19:32:02.286290+00:00
-
- ## Official Miami Dade College Homepage
- - [https://mdc.edu](https://mdc.edu)
- - date_published: 2023-10-25T11:22:46.236242+00:00
-
- ## Maine College of Art & Design
- - [https://meca.edu](https://meca.edu)
- - date_published: 2024-06-01T00:00:00+00:00
-
- ## Middle East Institute
- - [https://www.mei.edu](https://www.mei.edu)
- - date_published: 2024-06-28T19:51:11+00:00
-
- ## The University of Memphis
- - [http://www.memphis.edu](http://www.memphis.edu)
- - date_published: 2024-07-15T03:02:38.195327+00:00
-
- ## Home - College of Menominee Nation
- - [http://www.menominee.edu](http://www.menominee.edu)
- - date_published: 2024-07-02T03:18:44.530020+00:00
-
- ## The Den - News and Feature Stories from Mercer University
- - [https://den.mercer.edu](https://den.mercer.edu)
- - date_published: 2024-07-02T12:00:03.747907+00:00
-
- ## Mercer University School of Law
- - [http://law.mercer.edu](http://law.mercer.edu)
- - date_published: 2024-07-22T02:26:08.566660+00:00
-
- ## Homepage | Mercyhurst
- - [http://www.mercyhurst.edu](http://www.mercyhurst.edu)
- - date_published: 2024-06-27T20:46:35+00:00
-
- ## Mosaic - Messiah's Open Scholarship And Intellectual Creativity
- - [https://mosaic.messiah.edu](https://mosaic.messiah.edu)
- - date_published: 2024-07-02T10:48:26.207359+00:00
-
- ## Methodist University | Fayetteville, NC | Engage. Enrich. Empower.
- - [https://www.methodist.edu](https://www.methodist.edu)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [http://access.library.miami.edu](http://access.library.miami.edu)
- - date_published: 2024-06-30T01:27:57.879791+00:00
-
- ## Alumni + Friends | University of Miami
- - [https://alumni.miami.edu](https://alumni.miami.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## College of Arts and Sciences | University of Miami
- - [https://as.miami.edu](https://as.miami.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Camner Center for Academic Resources
- - [https://camnercenter.miami.edu](https://camnercenter.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## University of Miami School of Architecture Career |University of Miami
- - [https://career.arc.miami.edu](https://career.arc.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Careers at the University of Miami | University of Miami jobs
- - [https://careers.miami.edu](https://careers.miami.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Site Under Construction
- - [https://cdn.miami.edu](https://cdn.miami.edu)
- - date_published: 2024-05-18T08:31:48+00:00
-
- ## UM School of Communication
- - [https://com.miami.edu](https://com.miami.edu)
- - date_published: 2024-07-08T14:53:45+00:00
-
- ## Blackboard Learn
- - [https://courses.miami.edu](https://courses.miami.edu)
- - date_published: 2004-07-08T14:59:01+00:00
-
- ## Home | School of Architecture Center for Urban and Community Design | University of Miami
- - [https://cucd.arc.miami.edu](https://cucd.arc.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Division of Continuing and International Education | University of Miami
- - [https://dcie.miami.edu](https://dcie.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Rosenstiel School of Marine, Atmospheric, and Earth Science| University of Miami
- - [https://earth.miami.edu](https://earth.miami.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## School of Education and Human Development | University of Miami
- - [https://edu.miami.edu](https://edu.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Home - Miami Herbert Business School Online - Universidad De Miami
- - [https://exed.miami.edu](https://exed.miami.edu)
- - date_published: 2024-10-25T10:36:25+00:00
-
- ## Frost School of Music at the University of Miami
- - [https://frost.miami.edu](https://frost.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## U-SoA Graduate Programs | University of Miami
- - [https://grad.arc.miami.edu](https://grad.arc.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Graduate School | University of Miami
- - [https://grad.miami.edu](https://grad.miami.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Welcome to Miami Herbert Business School
- - [https://herbert.miami.edu](https://herbert.miami.edu)
- - date_published: 2024-07-08T15:04:38.658119+00:00
-
- ## International Student and Scholar Services
- - [https://isss.miami.edu](https://isss.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## University of Miami Information Technology
- - [https://it.miami.edu](https://it.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## University of Miami School of Law | Explore Programs & Faculty
- - [https://law.miami.edu](https://law.miami.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Master of Construction Management
- - [https://mcm.arc.miami.edu](https://mcm.arc.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Miller School of Medicine
- - [https://med.miami.edu](https://med.miami.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## University of Miami
- - [http://miami.edu](http://miami.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Master of Real Estate Development + Urbanism
- - [https://mredu.arc.miami.edu](https://mredu.arc.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Sign In
- - [https://myum.miami.edu](https://myum.miami.edu)
- - date_published: 2024-07-08T14:59:10.127325+00:00
-
- ## InventUM
- - [https://news.med.miami.edu](https://news.med.miami.edu)
- - date_published: 2024-07-02T15:04:10.821411+00:00
-
- ## University of Miami News and Events
- - [https://news.miami.edu](https://news.miami.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## People | University of Miami
- - [https://people.miami.edu](https://people.miami.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Parking and Transportation | Facilities Operations and Planning | University of Miami
- - [http://pt.ref.miami.edu](http://pt.ref.miami.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Office of the University Registrar | University of Miami
- - [http://registrar.miami.edu](http://registrar.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Roadmap to Our New Century | University of Miami
- - [https://roadmap.miami.edu](https://roadmap.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## School of Nursing and Health Studies I University of Miami
- - [https://sonhs.miami.edu](https://sonhs.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## SUSTAIN | Rosenstiel School | University of Miami
- - [https://sustain.earth.miami.edu](https://sustain.earth.miami.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## College of Arts and Sciences | University of Miami
- - [https://web.as.miami.edu](https://web.as.miami.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## University of Miami
- - [https://welcome.miami.edu](https://welcome.miami.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## School of Architecture | University of Miami
- - [https://arc.miami.edu](https://arc.miami.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## 'Canes Central | University of Miami
- - [https://www.canescentral.miami.edu](https://www.canescentral.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## College of Engineering | University of Miami
- - [https://www.coe.miami.edu](https://www.coe.miami.edu)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Computer Science | College of Arts and Sciences | University of Miami
- - [http://www.cs.miami.edu](http://www.cs.miami.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Home | Office of Student Accounts | University of Miami
- - [https://www.osas.miami.edu](https://www.osas.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Student Affairs  I University of Miami
- - [https://www.studentaffairs.miami.edu](https://www.studentaffairs.miami.edu)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Admission and Aid
- - [https://admission.miamioh.edu](https://admission.miamioh.edu)
- - date_published: 2024-09-26T15:32:08.041435+00:00
-
- ## Miami University Online Bookstore
- - [https://campusstore.miamioh.edu](https://campusstore.miamioh.edu)
- - date_published: 2024-06-16T06:51:40.287203+00:00
-
- ## CONTENTdm
- - [https://digital.lib.miamioh.edu](https://digital.lib.miamioh.edu)
- - date_published: 2024-09-26T15:33:08.984500+00:00
-
- ## Events Calendar
- - [https://events.miamioh.edu](https://events.miamioh.edu)
- - date_published: 2024-06-16T06:51:15.829938+00:00
-
- ## Catalog of the Miami University Libraries (Sherlock)
- - [https://holmes.lib.miamioh.edu](https://holmes.lib.miamioh.edu)
- - date_published: 2024-09-26T15:32:16.879255+00:00
-
- ## IIS Windows Server
- - [https://ill.lib.miamioh.edu](https://ill.lib.miamioh.edu)
- - date_published: 2017-08-08T20:36:29+00:00
-
- ## Ask Us! - AskUs
- - [https://libanswers.lib.miamioh.edu](https://libanswers.lib.miamioh.edu)
- - date_published: 2024-09-26T15:33:06.320158+00:00
-
- ## Subject & Course Guides
- - [https://libguides.lib.miamioh.edu](https://libguides.lib.miamioh.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Miami University Libraries
- - [https://lib.miamioh.edu](https://lib.miamioh.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Miami University
- - [https://map.miamioh.edu](https://map.miamioh.edu)
- - date_published: 2024-06-16T06:51:32.525664+00:00
-
- ## No. 3 Public for Undergrad Teaching
- - [https://miamioh.edu](https://miamioh.edu)
- - date_published: 2024-05-01T05:55:34.598366+00:00
-
- ## CAS - Central Authentication Service
- - [https://mymiami.miamioh.edu](https://mymiami.miamioh.edu)
- - date_published: 2024-06-16T06:51:37.360020+00:00
-
- ## Miami University Program Finder – Program and Career Finder
- - [https://programs.miamioh.edu](https://programs.miamioh.edu)
- - date_published: 2024-06-16T06:51:42.524240+00:00
-
- ## Miami University
- - [https://stories.miamioh.edu](https://stories.miamioh.edu)
- - date_published: 2024-09-26T15:30:16.114954+00:00
-
- ## MICA
- - [http://mica.edu](http://mica.edu)
- - date_published: 2024-07-04T10:58:42.475626+00:00
-
- ## The Middlebury Sites Network – Middlebury’s WordPress-based, self-service, website creation space.
- - [https://sites.middlebury.edu](https://sites.middlebury.edu)
- - date_published: 2024-05-11T11:19:03.488578+00:00
-
- ## vision.middlebury.edu
- - [http://vision.middlebury.edu](http://vision.middlebury.edu)
- - date_published: 2024-07-11T16:06:23.182325+00:00
-
- ## Middlebury
- - [https://www.middlebury.edu](https://www.middlebury.edu)
- - date_published: 2024-06-30T04:01:21+00:00
-
- ## James Martin Center for Nonproliferation Studies (CNS)
- - [http://cns.miis.edu](http://cns.miis.edu)
- - date_published: 2024-07-14T05:11:04.634470+00:00
-
- ## Millersville University - Welcome to Millersville University
- - [http://www.millersville.edu](http://www.millersville.edu)
- - date_published: 2024-07-11T15:11:47.183330+00:00
-
- ## The #1 Most Innovative University in the World
- - [http://minerva.edu](http://minerva.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The #1 Most Innovative University in the World
- - [https://www.minerva.edu](https://www.minerva.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Home - Mines@150
- - [https://150.mines.edu](https://150.mines.edu)
- - date_published: 2024-06-16T22:26:10.548983+00:00
-
- ## Home - Applied Mathematics and Statistics
- - [https://ams.mines.edu](https://ams.mines.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Home - Graduate Programs
- - [https://applygrad.mines.edu](https://applygrad.mines.edu)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## Home - Undergraduate Admissions
- - [https://apply.mines.edu](https://apply.mines.edu)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Home - Communications and Marketing
- - [https://brand.mines.edu](https://brand.mines.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Campus Events Calendar
- - [https://calendar.mines.edu](https://calendar.mines.edu)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://campaign.mines.edu](https://campaign.mines.edu)
- - date_published: 2024-10-15T01:34:43.447486+00:00
-
- ## Mines Campus Events • Campus Events
- - [http://campusevents.mines.edu](http://campusevents.mines.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Home - Career Center
- - [http://careers.mines.edu](http://careers.mines.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## CASA - Center for Academic Services and Advising (CASA)
- - [http://casa.mines.edu](http://casa.mines.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## RC home - Research Computing
- - [https://ciarc.mines.edu](https://ciarc.mines.edu)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## eLearning Resources - Mines Online
- - [http://elearning.mines.edu](http://elearning.mines.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home / EMS
- - [http://events.mines.edu](http://events.mines.edu)
- - date_published: 2024-10-15T01:40:13.884901+00:00
-
- ## Home - Financial Aid
- - [http://finaid.mines.edu](http://finaid.mines.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Home - Department of Geology and Geological Engineering
- - [http://geology.mines.edu](http://geology.mines.edu)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [http://giving.mines.edu](http://giving.mines.edu)
- - date_published: 2024-10-15T01:30:34.607884+00:00
-
- ## Home - Graduate Programs
- - [https://gradprograms.mines.edu](https://gradprograms.mines.edu)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Graduate Student Government - Graduate Student Government
- - [http://gsg.mines.edu](http://gsg.mines.edu)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Home - Humanities, Arts and Social Sciences
- - [http://hass.mines.edu](http://hass.mines.edu)
- - date_published: 2024-10-03T00:00:00+00:00
-
- ## Human Subjects Research - Human Subjects Research
- - [https://hsr.mines.edu](https://hsr.mines.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## McNeil Home - McNeil Center for Entrepreneurship and Innovation
- - [https://innovation.mines.edu](https://innovation.mines.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - Institutional Research | Strategic Analytics
- - [https://ir.mines.edu](https://ir.mines.edu)
- - date_published: 2024-08-20T00:00:00+00:00
-
- ## Explore Positions at Mines - Human Resources
- - [http://jobs.mines.edu](http://jobs.mines.edu)
- - date_published: 2024-08-15T00:00:00+00:00
-
- ## Home - Labriola Innovation Hub
- - [https://labriola.mines.edu](https://labriola.mines.edu)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## All Questions - Frequently Asked Questions
- - [https://libanswers.mines.edu](https://libanswers.mines.edu)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Library Calendars -
-        Arthur Lakes Library
- - [https://libcal.mines.edu](https://libcal.mines.edu)
- - date_published: 2024-10-15T01:36:29.338598+00:00
-
- ## Library Guides
- - [https://libguides.mines.edu](https://libguides.mines.edu)
- - date_published: 2024-10-15T01:37:29.992456+00:00
-
- ## Colorado School of Mines - Arthur Lakes Library
- - [http://library.mines.edu](http://library.mines.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Mines Magazine - The Colorado School of Mines Magazine Website
- - [http://magazine.mines.edu](http://magazine.mines.edu)
- - date_published: 2024-06-16T22:26:33.409293+00:00
-
- ## Home - Metallurgical and Materials Engineering
- - [http://metallurgy.mines.edu](http://metallurgy.mines.edu)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Colorado School of Mines | A Premier Engineering University
- - [https://mines.edu](https://mines.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Home - Mining Engineering
- - [https://mining.mines.edu](https://mining.mines.edu)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Nuclear Science and Engineering Center - Nuclear Science and Engineering Center
- - [https://nusec.mines.edu](https://nusec.mines.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Home - Office of Industry Relations
- - [https://oir.mines.edu](https://oir.mines.edu)
- - date_published: 2024-10-15T01:51:13+00:00
-
- ## Home - Mines Online
- - [https://online.mines.edu](https://online.mines.edu)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Home - Office of Research Administration
- - [https://ora.mines.edu](https://ora.mines.edu)
- - date_published: 2024-09-19T00:00:00+00:00
-
- ## Colorado School of Mines
- - [https://oreconnect.mines.edu](https://oreconnect.mines.edu)
- - date_published: 2024-10-15T01:45:15.792883+00:00
-
- ## Home - Payne Institute for Public Policy
- - [https://payneinstitute.mines.edu](https://payneinstitute.mines.edu)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## Quantum Engineering - Quantum Engineering
- - [https://quantum.mines.edu](https://quantum.mines.edu)
- - date_published: 2024-10-13T00:00:00+00:00
-
- ## The Mines Repository
- - [https://repository.mines.edu](https://repository.mines.edu)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Home - Research and Technology Transfer
- - [http://research.mines.edu](http://research.mines.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home - Space Resources Program
- - [https://space.mines.edu](https://space.mines.edu)
- - date_published: 2024-10-15T01:51:02+00:00
-
- ## Home - Student Activities
- - [http://studentactivities.mines.edu](http://studentactivities.mines.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Experience Our Campus - Campus Tour
- - [http://tour.mines.edu](http://tour.mines.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Colorado School of Mines - Sign In
- - [https://trailhead.mines.edu](https://trailhead.mines.edu)
- - date_published: 2024-10-15T01:52:37.102824+00:00
-
- ## Home - Squier Group
- - [https://ultrafastoptics.mines.edu](https://ultrafastoptics.mines.edu)
- - date_published: 2024-10-15T01:41:26+00:00
-
- ## Home - Undergraduate Student Government
- - [https://usg.mines.edu](https://usg.mines.edu)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Beck Venture Center - Beck Venture Center
- - [https://ventures.mines.edu](https://ventures.mines.edu)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://weare.mines.edu](https://weare.mines.edu)
- - date_published: 2024-10-15T01:34:49.196975+00:00
-
- ## Colorado School of Mines | A Premier Engineering University
- - [https://webapps.mines.edu](https://webapps.mines.edu)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Student Health Center - Student Health
- - [http://wellnesscenter.mines.edu](http://wellnesscenter.mines.edu)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home / EMS
- - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
- - date_published: 2024-02-08T16:36:57.109155+00:00
-
- ## Home
- - [https://servicedesk.minnstate.edu](https://servicedesk.minnstate.edu)
- - date_published: 2024-05-07T19:32:10.852282+00:00
-
- ## StarID Self Service - Minnesota State
- - [https://starid.minnstate.edu](https://starid.minnstate.edu)
- - date_published: 2024-03-04T22:46:53+00:00
-
- ## Minnesota State - 
-			Minnesota State Colleges and Universities
- - [https://www.minnstate.edu](https://www.minnstate.edu)
- - date_published: 2024-07-01T05:41:17+00:00
-
- ## Minot State University
- - [https://www.minotstateu.edu](https://www.minotstateu.edu)
- - date_published: 2024-07-01T16:01:10.733633+00:00
-
- ## Misericordia Digital Commons
- - [https://digitalcommons.misericordia.edu](https://digitalcommons.misericordia.edu)
- - date_published: 2024-07-02T10:48:04.883410+00:00
-
- ## Mississippi Public Universities - Advancing Our State Together
- - [http://www.mississippi.edu](http://www.mississippi.edu)
- - date_published: 2024-07-02T11:16:11.327865+00:00
-
- ## Home
- - [https://admissions.missouri.edu](https://admissions.missouri.edu)
- - date_published: 2024-07-01T14:57:49.689220+00:00
-
- ## Events Calendar
- - [https://calendar.missouri.edu](https://calendar.missouri.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Office of Institutional Equity
- - [https://civilrights.missouri.edu](https://civilrights.missouri.edu)
- - date_published: 2024-07-01T14:58:50.870809+00:00
-
- ## Office of Institutional Equity
- - [https://equity.missouri.edu](https://equity.missouri.edu)
- - date_published: 2024-07-01T14:57:59.718714+00:00
-
- ## Mizzou Families // University of Missouri
- - [https://families.missouri.edu](https://families.missouri.edu)
- - date_published: 2024-05-07T19:32:32.502186+00:00
-
- ## Office of Human Resources | Office of Human Resources - Office of Human Resources
- - [https://hr.missouri.edu](https://hr.missouri.edu)
- - date_published: 2024-06-25T15:57:51+00:00
-
- ## Missouri School of Journalism – Official Website for the Missouri School of Journalism at the University of Missouri.
- - [https://journalism.missouri.edu](https://journalism.missouri.edu)
- - date_published: 2024-05-09T06:25:35.863279+00:00
-
- ## School of Law
- - [http://law.missouri.edu](http://law.missouri.edu)
- - date_published: 2024-09-15T23:32:57.496651+00:00
-
- ## Library Guides
- - [https://libraryguides.missouri.edu](https://libraryguides.missouri.edu)
- - date_published: 2024-10-22T08:52:45.252093+00:00
-
- ## Libraries // Mizzou // University of Missouri
- - [https://library.missouri.edu](https://library.missouri.edu)
- - date_published: 2024-06-18T14:24:03.788444+00:00
-
- ## Undergraduate Programs A-Z
- - [https://majors.missouri.edu](https://majors.missouri.edu)
- - date_published: 2024-07-01T14:58:08.013269+00:00
-
- ## Mizzou // Campus Map
- - [http://map.missouri.edu](http://map.missouri.edu)
- - date_published: 2023-11-22T15:48:41+00:00
-
- ## Mizzou
- - [https://missouri.edu](https://missouri.edu)
- - date_published: 2024-05-07T19:32:23.394021+00:00
-
- ## Service Discovery
- - [https://mizzouone.missouri.edu](https://mizzouone.missouri.edu)
- - date_published: 2024-07-01T14:59:19.260591+00:00
-
- ## MU Alert
- - [https://mualert.missouri.edu](https://mualert.missouri.edu)
- - date_published: 2024-06-13T14:12:29+00:00
-
- ## Show Me Mizzou // University of Missouri
- - [https://munews.missouri.edu](https://munews.missouri.edu)
- - date_published: 2024-07-01T14:58:40.693808+00:00
-
- ## Show Me Mizzou // University of Missouri
- - [https://news.missouri.edu](https://news.missouri.edu)
- - date_published: 2024-07-01T14:58:10.672765+00:00
-
- ## New Student Programs
- - [https://newstudent.missouri.edu](https://newstudent.missouri.edu)
- - date_published: 2024-07-01T14:58:23.239514+00:00
-
- ## Parking & Transportation // University of Missouri
- - [https://parking.missouri.edu](https://parking.missouri.edu)
- - date_published: 2024-07-01T14:57:58.020473+00:00
-
- ## Home
- - [https://president.missouri.edu](https://president.missouri.edu)
- - date_published: 2024-05-07T19:32:22.041569+00:00
-
- ## Office of the University Registrar
- - [https://registrar.missouri.edu](https://registrar.missouri.edu)
- - date_published: 2024-07-01T14:58:25.045842+00:00
-
- ## Show Me Mizzou // University of Missouri
- - [https://showme.missouri.edu](https://showme.missouri.edu)
- - date_published: 2024-02-08T18:02:26.036563+00:00
-
- ## Student Affairs // University of Missouri
- - [https://studentaffairs.missouri.edu](https://studentaffairs.missouri.edu)
- - date_published: 2024-07-01T14:59:13.359318+00:00
-
- ## Webmail // Mizzou // University of Missouri
- - [https://webmail.missouri.edu](https://webmail.missouri.edu)
- - date_published: 2023-07-14T16:38:31+00:00
-
- ## Welcome Week // University of Missouri
- - [https://welcomeweek.missouri.edu](https://welcomeweek.missouri.edu)
- - date_published: 2024-07-01T14:58:27.114838+00:00
-
- ## Student Health & Well-Being // University of Missouri
- - [https://wellbeing.missouri.edu](https://wellbeing.missouri.edu)
- - date_published: 2024-07-01T14:59:15.942381+00:00
-
- ## Class Schedule - Missouri State
- - [http://courses.missouristate.edu](http://courses.missouristate.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## 3D Generative Adversarial Network
- - [http://3dgan.csail.mit.edu](http://3dgan.csail.mit.edu)
- - date_published: 2019-07-19T23:42:33+00:00
-
- ## 3D Interpreter Networks
- - [http://3dinterpreter.csail.mit.edu](http://3dinterpreter.csail.mit.edu)
- - date_published: 2024-04-15T07:14:10+00:00
-
- ## MIT Status
- - [http://3down.mit.edu](http://3down.mit.edu)
- - date_published: 2024-06-16T12:36:55.538636+00:00
-
- ## 3D-Aware Scene Manipulation via Inverse Graphics
- - [http://3dsdn.csail.mit.edu](http://3dsdn.csail.mit.edu)
- - date_published: 2018-12-17T14:24:49+00:00
-
- ## 3D Scene Layout Networks
- - [http://3dsln.csail.mit.edu](http://3dsln.csail.mit.edu)
- - date_published: 2020-07-27T20:46:00+00:00
-
- ## Redirect
- - [https://61600.csail.mit.edu](https://61600.csail.mit.edu)
- - date_published: 2024-02-02T22:10:22+00:00
-
- ## Redirect
- - [https://65610.csail.mit.edu](https://65610.csail.mit.edu)
- - date_published: 2024-05-20T13:34:04+00:00
-
- ## Abstraction
- - [http://abstraction.csail.mit.edu](http://abstraction.csail.mit.edu)
- - date_published: 2020-09-17T17:04:02+00:00
-
- ## Home | Captioning and Accessibility
- - [https://accessibility.mit.edu](https://accessibility.mit.edu)
- - date_published: 2024-05-07T19:33:10.706026+00:00
-
- ## Art, Culture, and Technology (ACT)
- - [https://act.mit.edu](https://act.mit.edu)
- - date_published: 2024-05-08T10:20:24.083955+00:00
-
- ## aera
- - [https://aera.mit.edu](https://aera.mit.edu)
- - date_published: 2023-10-25T18:53:43.612659+00:00
-
- ## MIT AeroAstro
- - [https://aeroastro.mit.edu](https://aeroastro.mit.edu)
- - date_published: 2024-05-07T19:35:18.393154+00:00
-
- ## What to know today... | MIT AgeLab
- - [https://agelab.mit.edu](https://agelab.mit.edu)
- - date_published: 2024-07-07T04:54:40.071792+00:00
-
- ## MIT MAS.S68 | Generative AI for Constructive Communication
- - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
- - date_published: 2023-06-10T07:09:27+00:00
-
- ## MIT – Alana Down Syndrome Center
- - [https://alana.mit.edu](https://alana.mit.edu)
- - date_published: 2024-05-08T12:04:20.829620+00:00
-
- ## The Algonauts Project 2023
- - [http://algonauts.csail.mit.edu](http://algonauts.csail.mit.edu)
- - date_published: 2023-08-28T16:13:02+00:00
-
- ## Algorithmic Alignment Group
- - [https://algorithmicalignment.csail.mit.edu](https://algorithmicalignment.csail.mit.edu)
- - date_published: 2024-04-28T19:11:11+00:00
-
- ## Join MIT Alumni Online Community
- - [https://alumcommunity.mit.edu](https://alumcommunity.mit.edu)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## MIT Alumni Association
- - [https://alum.mit.edu](https://alum.mit.edu)
- - date_published: 2024-05-08T10:20:28.518474+00:00
-
- ## Home - MIT Alumni Advisors Hub
- - [https://alumniadvisors.mit.edu](https://alumniadvisors.mit.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Why MIT Sloan? | About | MIT Sloan
- - [https://applymitsloan.mit.edu](https://applymitsloan.mit.edu)
- - date_published: 2024-07-01T00:34:17+00:00
-
- ## Touchstone@MIT : Please Authenticate
- - [https://applysdm.mit.edu](https://applysdm.mit.edu)
- - date_published: 2024-07-01T15:26:44.034781+00:00
-
- ## Home | Architecture
- - [https://architecture.mit.edu](https://architecture.mit.edu)
- - date_published: 2024-02-08T22:04:29.437169+00:00
-
- ## ArchivesSpace Public Interface | MIT ArchivesSpace
- - [https://archivesspace.mit.edu](https://archivesspace.mit.edu)
- - date_published: 2024-07-01T15:12:43.793100+00:00
-
- ## Arts at MIT
- - [https://arts.mit.edu](https://arts.mit.edu)
- - date_published: 2024-05-04T15:41:04.617889+00:00
-
- ## Web SSH access to athena.dialup.mit.edu
- - [https://athena.dialup.mit.edu](https://athena.dialup.mit.edu)
- - date_published: 2024-05-07T19:37:23.896673+00:00
-
- ## Touchstone@MIT : Please Authenticate
- - [http://atlas.mit.edu](http://atlas.mit.edu)
- - date_published: 2024-06-29T14:04:17.641170+00:00
-
- ## MIT Status
- - [https://atlas-status.mit.edu](https://atlas-status.mit.edu)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Audio-Visual Navigation
- - [http://avn.csail.mit.edu](http://avn.csail.mit.edu)
- - date_published: 2020-10-19T20:18:13+00:00
-
- ## The MIT Department of Brain and Cognitive Sciences | Brain and Cognitive Sciences
- - [https://bcs.mit.edu](https://bcs.mit.edu)
- - date_published: 2024-05-07T19:36:56.737105+00:00
-
- ## Home | MIT Department of Biological Engineering
- - [https://be.mit.edu](https://be.mit.edu)
- - date_published: 2024-07-20T21:30:51.484392+00:00
-
- ## Benchmarking Interpretability
- - [https://benchmarking-interpretability.csail.mit.edu](https://benchmarking-interpretability.csail.mit.edu)
- - date_published: 2024-05-10T05:02:33.957574+00:00
-
- ## MIT for a Better World
- - [https://betterworld.mit.edu](https://betterworld.mit.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## William T. Freeman Home | William T. Freeman
- - [http://billf.mit.edu](http://billf.mit.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Homepage
- - [https://biology.mit.edu](https://biology.mit.edu)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Blocks
- - [http://blocks.csail.mit.edu](http://blocks.csail.mit.edu)
- - date_published: 2018-10-08T02:43:47+00:00
-
- ## MIT Media Lab
- - [http://blog.media.mit.edu](http://blog.media.mit.edu)
- - date_published: 2024-03-19T03:21:16+00:00
-
- ## Multi-Plane Program Induction with 3D Box Priors
- - [http://bpi.csail.mit.edu](http://bpi.csail.mit.edu)
- - date_published: 2021-02-16T23:05:26+00:00
-
- ## Home | MIT Brand Guide
- - [https://brand.mit.edu](https://brand.mit.edu)
- - date_published: 2024-06-24T17:55:29+00:00
-
- ## Events Calendar - MIT Events
- - [https://calendar.mit.edu](https://calendar.mit.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Camera Culture | Making the invisible visible–inside our bodies, around us, and beyond–for health, work, and connection.
- - [https://cameraculture.media.mit.edu](https://cameraculture.media.mit.edu)
- - date_published: 2024-06-22T09:45:53.304065+00:00
-
- ## Certificate Server
- - [https://ca.mit.edu](https://ca.mit.edu)
- - date_published: 2024-10-06T17:15:36.488417+00:00
-
- ## MIT Canvas - Login
- - [https://canvas.mit.edu](https://canvas.mit.edu)
- - date_published: 2024-07-01T15:11:32.219522+00:00
-
- ## Yuan Cao's Homepage
- - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
- - date_published: 2024-01-09T01:37:28.741983+00:00
-
- ## Home
- - [https://cap.csail.mit.edu](https://cap.csail.mit.edu)
- - date_published: 2024-05-07T19:33:54.697062+00:00
-
- ## Career Advising & Professional Development | MIT
- - [https://capd.mit.edu](https://capd.mit.edu)
- - date_published: 2024-06-09T17:27:14.522346+00:00
-
- ## Jobs at MIT Lincoln Laboratory
- - [https://careers.ll.mit.edu](https://careers.ll.mit.edu)
- - date_published: 2024-05-07T19:38:14.314198+00:00
-
- ## Careers | MIT Human Resources
- - [https://careers.mit.edu](https://careers.mit.edu)
- - date_published: 2024-05-07T19:37:57.410306+00:00
-
- ## Welcome! < MIT
- - [https://catalog.mit.edu](https://catalog.mit.edu)
- - date_published: 2024-04-16T15:35:10+00:00
-
- ## CBMM, NSF STC | The Center for Brains, Minds & Machines
- - [https://cbmm.mit.edu](https://cbmm.mit.edu)
- - date_published: 2024-06-22T08:35:23.495594+00:00
-
- ## Homepage
- - [https://cdfg.mit.edu](https://cdfg.mit.edu)
- - date_published: 2024-06-22T07:47:03.967376+00:00
-
- ## Career Development Office | MIT Sloan School of Management
- - [https://cdo.mit.edu](https://cdo.mit.edu)
- - date_published: 2024-05-07T19:35:56.496755+00:00
-
- ## MIT CEE - Homepage | Nexus of People, Systems & Sustainability
- - [https://cee.mit.edu](https://cee.mit.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Homepage
- - [http://cfg.mit.edu](http://cfg.mit.edu)
- - date_published: 2024-06-22T07:36:40.152724+00:00
-
- ## Databases, Revenues, & Repertory: The French Stage Online, 1680–1793
- - [https://cfrp.mitpress.mit.edu](https://cfrp.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## MIT Department of Chemistry – Department of Chemistry at MIT
- - [https://chemistry.mit.edu](https://chemistry.mit.edu)
- - date_published: 2024-05-07T19:37:10.613963+00:00
-
- ## MIT–Chile Workshop
- - [https://chileconf.mit.edu](https://chileconf.mit.edu)
- - date_published: 2024-07-03T11:56:06.490034+00:00
-
- ## Institute Office of Communications | MIT - Massachusetts Institute of Technology
- - [http://ci.mit.edu](http://ci.mit.edu)
- - date_published: 2024-07-01T15:28:18.644110+00:00
-
- ## MIT Center for Civic Media – Creating Technology for Social Change
- - [https://civic.mit.edu](https://civic.mit.edu)
- - date_published: 2020-08-20T19:30:40+00:00
-
- ## The Internet Classics Archive: 441 searchable works of classical literature
- - [http://classics.mit.edu](http://classics.mit.edu)
- - date_published: 2023-05-11T00:49:58+00:00
-
- ## CLEVRER
- - [http://clevrer.csail.mit.edu](http://clevrer.csail.mit.edu)
- - date_published: 2020-10-20T01:34:20+00:00
-
- ## Home | MIT Climate Portal
- - [https://climate.mit.edu](https://climate.mit.edu)
- - date_published: 2023-10-25T18:53:47.317024+00:00
-
- ## Climate Science, Risk & Solutions
- - [https://climateprimer.mit.edu](https://climateprimer.mit.edu)
- - date_published: 2024-05-07T19:33:25.203653+00:00
-
- ## Home - Club Sports
- - [https://clubsports.mit.edu](https://clubsports.mit.edu)
- - date_published: 2024-05-07T19:36:47.705971+00:00
-
- ## CMS/W
- - [http://cmsw.mit.edu](http://cmsw.mit.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Computational Cognitive Science – Department of Brain and Cognitive Sciences, MIT
- - [https://cocosci.mit.edu](https://cocosci.mit.edu)
- - date_published: 2024-05-04T15:15:12.767805+00:00
-
- ## Home | codeforgood
- - [https://codeforgood.mit.edu](https://codeforgood.mit.edu)
- - date_published: 2024-01-14T18:29:02+00:00
-
- ## Home | Commencement
- - [https://commencement.mit.edu](https://commencement.mit.edu)
- - date_published: 2024-06-27T16:36:34+00:00
-
- ## Institute Office of Communications | Massachusetts Institute of Technology
- - [https://comms.mit.edu](https://comms.mit.edu)
- - date_published: 2024-05-07T19:36:20.409053+00:00
-
- ## MIT Schwarzman College of Computing
- - [https://computing.mit.edu](https://computing.mit.edu)
- - date_published: 2024-05-07T19:33:59.330514+00:00
-
- ## MIT Copytech
- - [https://copytech.mit.edu](https://copytech.mit.edu)
- - date_published: 2024-07-01T13:03:57+00:00
-
- ## courses.csail.mit.edu
- - [https://courses.csail.mit.edu](https://courses.csail.mit.edu)
- - date_published: 2016-02-18T05:29:48+00:00
-
- ## MIT Press on COVID-19
- - [https://covid-19.mitpress.mit.edu](https://covid-19.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## MIT Covid Apps – Supporting Institute operations during the COVID-19 pandemic
- - [https://covidapps.mit.edu](https://covidapps.mit.edu)
- - date_published: 2024-06-29T02:52:56.751168+00:00
-
- ## Crowd-Guided Ensembles. How Can We Choreograph Crowd Workers for Video Segmentation?
- - [http://crowdensembles.csail.mit.edu](http://crowdensembles.csail.mit.edu)
- - date_published: 2020-09-22T14:39:12+00:00
-
- ## Home Page | MIT CSAIL
- - [https://csail.mit.edu](https://csail.mit.edu)
- - date_published: 2024-06-20T00:16:34+00:00
-
- ## Computation Structures Group
- - [http://csg.csail.mit.edu](http://csg.csail.mit.edu)
- - date_published: 2019-12-02T22:57:39+00:00
-
- ## MIT CSAIL Computer Systems Security Group
- - [https://css.csail.mit.edu](https://css.csail.mit.edu)
- - date_published: 2023-11-13T12:03:27+00:00
-
- ## Daniela Rus – Robotics
- - [http://danielarus.csail.mit.edu](http://danielarus.csail.mit.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home - Daper
- - [https://daper.mit.edu](https://daper.mit.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Data Feminism
- - [https://data-feminism.mitpress.mit.edu](https://data-feminism.mitpress.mit.edu)
+ ## Getting started
+ - [https://docs.socket.dev](https://docs.socket.dev)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Socket Feedback
+ - [https://feedback.socket.dev](https://feedback.socket.dev)
  - date_published: 2024-01-30T00:00:00+00:00
 
- ## MIT Database Group
- - [http://db.csail.mit.edu](http://db.csail.mit.edu)
- - date_published: 2024-07-01T20:10:24.223424+00:00
-
- ## Introduction to Data-Centric AI
- - [https://dcai.csail.mit.edu](https://dcai.csail.mit.edu)
- - date_published: 2023-10-25T18:53:49.969803+00:00
-
- ## MIT Digital Currency Initiative
- - [https://dci.mit.edu](https://dci.mit.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Debathena
- - [https://debathena.mit.edu](https://debathena.mit.edu)
- - date_published: 2016-11-13T21:08:10+00:00
-
- ## MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
- - [https://deeplearning.mit.edu](https://deeplearning.mit.edu)
- - date_published: 2020-07-05T00:00:00+00:00
-
- ## 6.S063 Design for the Web: Languages and User Interfaces
- - [https://designftw.mit.edu](https://designftw.mit.edu)
- - date_published: 2024-08-19T17:22:39.126618+00:00
-
- ## Morningside Academy for Design
- - [https://design.mit.edu](https://design.mit.edu)
- - date_published: 2024-07-01T15:02:37.479720+00:00
-
- ## DeepFakes, Can You Spot Them?
- - [https://detectfakes.media.mit.edu](https://detectfakes.media.mit.edu)
- - date_published: 2024-07-03T11:55:33.026889+00:00
-
- ## Decentralized Information Group
- - [http://dig.csail.mit.edu](http://dig.csail.mit.edu)
- - date_published: 2017-04-03T21:18:23+00:00
-
- ## Digital Credentials Consortium
- - [https://digitalcredentials.mit.edu](https://digitalcredentials.mit.edu)
- - date_published: 2024-06-26T19:34:06+00:00
-
- ## Digital Humanities at MIT
- - [https://digitalhumanities.mit.edu](https://digitalhumanities.mit.edu)
- - date_published: 2024-05-14T04:03:49.179662+00:00
-
- ## MIT Press
- - [https://direct.mit.edu](https://direct.mit.edu)
- - date_published: 2023-10-25T18:53:52.060229+00:00
-
- ## disobedience  archive
- - [http://disobedience.mit.edu](http://disobedience.mit.edu)
- - date_published: 2024-05-24T22:29:39.562778+00:00
-
- ## Understanding the Role of Individual Units in a Deep Network
- - [https://dissect.csail.mit.edu](https://dissect.csail.mit.edu)
- - date_published: 2020-09-17T03:49:07+00:00
-
- ## Dissection of Deep Networks
- - [http://dissection.csail.mit.edu](http://dissection.csail.mit.edu)
- - date_published: 2021-09-26T09:31:09+00:00
-
- ## Home | MIT D-Lab
- - [https://d-lab.mit.edu](https://d-lab.mit.edu)
- - date_published: 2024-06-20T00:22:17+00:00
-
- ## MIT Department of Materials Science and Engineering
- - [https://dmse.mit.edu](https://dmse.mit.edu)
- - date_published: 2024-07-20T21:30:55.449375+00:00
-
- ## MIT – Docubase
- - [http://docubase.mit.edu](http://docubase.mit.edu)
- - date_published: 2024-07-13T04:39:26+00:00
-
- ## Documentarity
- - [https://documentarity.mitpress.mit.edu](https://documentarity.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Dome Home
- - [http://dome.mit.edu](http://dome.mit.edu)
- - date_published: 2024-07-17T12:28:54.939802+00:00
-
- ## DPI-Net
- - [http://dpi.csail.mit.edu](http://dpi.csail.mit.edu)
- - date_published: 2019-10-18T02:45:48+00:00
-
- ## Drake: Model-Based Design and Verification for Robotics
- - [https://drake.mit.edu](https://drake.mit.edu)
- - date_published: 2024-07-11T06:47:06+00:00
-
- ## Data Systems Group (DSG) @ MIT
- - [http://dsg.csail.mit.edu](http://dsg.csail.mit.edu)
- - date_published: 2024-07-20T22:30:42+00:00
-
- ## DSpace@MIT Home
- - [https://dspace.mit.edu](https://dspace.mit.edu)
- - date_published: 2023-10-25T18:53:53.742765+00:00
-
- ## Distributed Systems Reading Group
- - [http://dsrg.pdos.csail.mit.edu](http://dsrg.pdos.csail.mit.edu)
- - date_published: 2016-06-26T00:00:00+00:00
-
- ## Home | DUSP
- - [https://dusp.mit.edu](https://dusp.mit.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## MIT EAPS
- - [https://eaps.mit.edu](https://eaps.mit.edu)
- - date_published: 2024-05-01T08:10:08.595185+00:00
-
- ## MIT EAPS
- - [https://eapsweb.mit.edu](https://eapsweb.mit.edu)
- - date_published: 2024-05-07T19:37:04.039158+00:00
-
- ## Trillian.MIT.EDU -- ECF Guest Machine
- - [http://ecf-guest.mit.edu](http://ecf-guest.mit.edu)
- - date_published: 2001-01-09T02:22:10+00:00
-
- ## Home | MIT Economics
- - [https://economics.mit.edu](https://economics.mit.edu)
- - date_published: 2024-06-21T17:08:34+00:00
-
- ## Home | MIT Edgerton Center
- - [https://edgerton.mit.edu](https://edgerton.mit.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Editing Conditional Radiance Fields
- - [http://editnerf.csail.mit.edu](http://editnerf.csail.mit.edu)
- - date_published: 2021-11-21T15:09:17+00:00
-
- ## Account Provider Selection
- - [https://eecseduportal.mit.edu](https://eecseduportal.mit.edu)
- - date_published: 2024-06-20T17:11:32.383511+00:00
-
- ## Home - Embodied Intelligence
- - [https://ei.csail.mit.edu](https://ei.csail.mit.edu)
- - date_published: 2022-12-26T18:29:33+00:00
-
- ## The Miller Lab
- - [https://ekmillerlab.mit.edu](https://ekmillerlab.mit.edu)
- - date_published: 2024-05-07T09:59:41.269970+00:00
-
- ## MIT ELO
- - [https://elo.mit.edu](https://elo.mit.edu)
- - date_published: 2022-01-27T00:00:00+00:00
-
- ## ELX
- - [https://elx.mit.edu](https://elx.mit.edu)
- - date_published: 2024-03-21T04:30:54+00:00
-
- ## MIT Emergency Information
- - [https://emergency.mit.edu](https://emergency.mit.edu)
- - date_published: 2024-05-07T19:34:52.925624+00:00
-
- ## Home - Electromechanical Systems Group
- - [https://emsg.mit.edu](https://emsg.mit.edu)
- - date_published: 2016-07-06T00:00:00+00:00
-
- ## Encoding Culture (21H.S05)
- - [https://encodingculture.dhlab.mit.edu](https://encodingculture.dhlab.mit.edu)
- - date_published: 2023-01-23T23:08:15+00:00
-
- ## Homepage
- - [https://energy.mit.edu](https://energy.mit.edu)
- - date_published: 2024-01-07T21:07:19.748100+00:00
-
- ## MIT School of Engineering |
- - [https://engineering.mit.edu](https://engineering.mit.edu)
- - date_published: 2014-10-01T10:10:10+00:00
-
- ## Home | Environmental Solutions Initiative
- - [https://environmentalsolutions.mit.edu](https://environmentalsolutions.mit.edu)
- - date_published: 2016-02-25T04:04:57+00:00
-
- ## Enzyme AD
- - [https://enzyme.mit.edu](https://enzyme.mit.edu)
- - date_published: 2024-05-08T09:43:46.491692+00:00
-
- ## Engineering Quantum Systems Group |
- - [https://equs.mit.edu](https://equs.mit.edu)
- - date_published: 2024-06-20T16:19:39+00:00
-
- ## Home | Environmental Solutions Initiative
- - [https://esi.mit.edu](https://esi.mit.edu)
- - date_published: 2016-02-25T04:04:57+00:00
-
- ## MIT ESP - Home
- - [https://esp.mit.edu](https://esp.mit.edu)
- - date_published: 2024-05-07T15:14:40.277505+00:00
-
- ## Sign in - Matomo
- - [http://esp-piwik.mit.edu](http://esp-piwik.mit.edu)
- - date_published: 2024-06-30T04:19:13.066591+00:00
-
- ## Events Calendar - MIT Events
- - [https://events.mit.edu](https://events.mit.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Data and Disruption: Mastering AI and Machine Learning for Finance
- - [https://events.sloanreview.mit.edu](https://events.sloanreview.mit.edu)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Eric von Hippel
- - [https://evhippel.mit.edu](https://evhippel.mit.edu)
- - date_published: 2024-06-20T22:45:01.623945+00:00
-
- ## MIT Sloan Executive Education
- - [https://exec.mit.edu](https://exec.mit.edu)
- - date_published: 2023-07-02T15:27:47+00:00
-
- ## MIT Sloan Executive Education
- - [https://executive-ed.mit.edu](https://executive-ed.mit.edu)
- - date_published: 2024-07-19T18:53:58.483678+00:00
-
- ## MIT xPRO
- - [https://executive-ed.xpro.mit.edu](https://executive-ed.xpro.mit.edu)
- - date_published: 2024-06-19T19:05:31.009224+00:00
-
- ## MIT Sloan Executive Education
- - [https://executive.mit.edu](https://executive.mit.edu)
- - date_published: 2023-07-02T15:27:13+00:00
-
- ## Fab Central
- - [https://fab.cba.mit.edu](https://fab.cba.mit.edu)
- - date_published: 2023-01-25T11:46:53+00:00
-
- ## On Learning Associations of Faces and Voices
- - [http://facevoice.csail.mit.edu](http://facevoice.csail.mit.edu)
- - date_published: 2019-02-15T19:43:39+00:00
-
- ## MIT Fast Code Seminar
- - [http://fast-code.csail.mit.edu](http://fast-code.csail.mit.edu)
- - date_published: 2024-06-22T10:20:13.516589+00:00
-
- ## The Fiete Lab @ MIT
- - [https://fietelab.mit.edu](https://fietelab.mit.edu)
- - date_published: 2024-07-11T14:31:38.154205+00:00
-
- ## MIT Office of Foundation Relations
- - [http://foundations.mit.edu](http://foundations.mit.edu)
- - date_published: 2024-07-01T15:18:15.255093+00:00
-
- ## MIT 6.512, Spring 2023
- - [https://frap.csail.mit.edu](https://frap.csail.mit.edu)
- - date_published: 2024-08-18T22:42:49.675231+00:00
-
- ## FutureTech
- - [https://futuretech.mit.edu](https://futuretech.mit.edu)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Grammar-Based Grounded Lexicon Learning
- - [https://g2l2.csail.mit.edu](https://g2l2.csail.mit.edu)
- - date_published: 2021-12-11T16:11:02+00:00
-
- ## Galileo
- - [http://galileo.csail.mit.edu](http://galileo.csail.mit.edu)
- - date_published: 2019-07-19T23:44:01+00:00
-
- ## GANalyze - MIT
- - [http://ganalyze.csail.mit.edu](http://ganalyze.csail.mit.edu)
- - date_published: 2019-06-25T09:56:09+00:00
-
- ## GAN Dissection
- - [https://gandissect.csail.mit.edu](https://gandissect.csail.mit.edu)
- - date_published: 2024-02-24T14:49:37+00:00
-
- ## Generative Unfoldings
- - [https://generative-unfoldings.mit.edu](https://generative-unfoldings.mit.edu)
- - date_published: 2021-03-23T18:16:00+00:00
-
- ## Generalizable Reconstruction (GenRe)
- - [http://genre.csail.mit.edu](http://genre.csail.mit.edu)
- - date_published: 2021-06-27T18:46:46+00:00
-
- ## Home | Giving to MIT
- - [https://giving.mit.edu](https://giving.mit.edu)
- - date_published: 2024-05-07T19:35:00.529936+00:00
-
- ## MIT Global Shakespeares – Video and Performance Archive
- - [http://globalshakespeares.mit.edu](http://globalshakespeares.mit.edu)
- - date_published: 2024-08-08T19:37:30.230407+00:00
-
- ## Improving Global Healthcare Delivery - Groundwork Initiative
- - [https://groundwork.mit.edu](https://groundwork.mit.edu)
- - date_published: 2024-06-20T03:54:18.325105+00:00
-
- ## Research | MIT CSAIL
- - [https://groups.csail.mit.edu](https://groups.csail.mit.edu)
- - date_published: 2023-11-25T21:49:19.475927+00:00
-
- ## Redirecting to Athena List Management
- - [https://groups.mit.edu](https://groups.mit.edu)
- - date_published: 2014-05-04T20:40:56+00:00
-
- ## Hacking Life
- - [https://hackinglife.mitpress.mit.edu](https://hackinglife.mitpress.mit.edu)
+ ## Socket - Secure your supply chain. Ship with confidence.
+ - [https://socket.dev](https://socket.dev)
+ - date_published: 2023-10-25T18:42:09.401241+00:00
+
+ ## Socket Status
+ - [https://status.socket.dev](https://status.socket.dev)
+ - date_published: 2024-04-30T02:18:13.912061+00:00
+
+ ## Software at Scale | Utsav Shah | Substack
+ - [https://softwareatscale.dev](https://softwareatscale.dev)
  - date_published: 2024-05-27T00:00:00+00:00
 
- ## HACS Dataset
- - [http://hacs.csail.mit.edu](http://hacs.csail.mit.edu)
- - date_published: 2021-04-05T18:28:29+00:00
+ ## Out of the Software Crisis: The Newsletter
+ - [https://softwarecrisis.dev](https://softwarecrisis.dev)
+ - date_published: 2023-10-25T18:42:14.589232+00:00
 
- ## MIT HAN Lab – Efficient AI Computing
- - [https://hanlab18.mit.edu](https://hanlab18.mit.edu)
- - date_published: 2024-06-22T09:07:19.318935+00:00
+ ## https://softwaregarden.dev/en/
+ - [https://softwaregarden.dev](https://softwaregarden.dev)
+ - date_published: 2024-07-24T06:05:04.897502+00:00
 
- ## Haystack Group @ MIT CSAIL
- - [https://haystack.csail.mit.edu](https://haystack.csail.mit.edu)
- - date_published: 2022-05-18T22:59:40+00:00
+ ## Software Social
+ - [https://softwaresocial.dev](https://softwaresocial.dev)
+ - date_published: 2024-02-01T00:00:00+00:00
 
- ## HCI Engineering Group
- - [https://hcie.csail.mit.edu](https://hcie.csail.mit.edu)
- - date_published: 2024-05-28T15:37:03+00:00
+ ## Solace Codelabs
+ - [https://codelabs.solace.dev](https://codelabs.solace.dev)
+ - date_published: 2024-07-02T00:00:00+00:00
 
- ## Harvard Data Science Review
- - [https://hdsr.mitpress.mit.edu](https://hdsr.mitpress.mit.edu)
- - date_published: 2024-05-07T19:53:34.562634+00:00
+ ## Home
+ - [https://solace.dev](https://solace.dev)
+ - date_published: 2024-07-04T11:31:18.959358+00:00
 
- ## Heiman Lab – Neuroscience Research at MIT
- - [https://heiman.mit.edu](https://heiman.mit.edu)
- - date_published: 2017-04-26T00:00:00+00:00
+ ## Home
+ - [https://tutorials.solace.dev](https://tutorials.solace.dev)
+ - date_published: 2024-07-04T11:31:13.016093+00:00
 
- ## Home | MIT Hong Kong Innovation Node
- - [https://hkinnovationnode.mit.edu](https://hkinnovationnode.mit.edu)
- - date_published: 2024-08-07T15:56:38.690060+00:00
+ ## Solara documentation
+ - [https://solara.dev](https://solara.dev)
+ - date_published: 2024-06-28T20:08:36.004569+00:00
 
- ## 403 Error
- - [http://hlt.media.mit.edu](http://hlt.media.mit.edu)
- - date_published: 2022-12-05T16:33:56+00:00
+ ## solivan.dev
+ - [https://solivan.dev](https://solivan.dev)
+ - date_published: 2024-04-20T00:00:00+00:00
 
- ## Housing & Residential Services
- - [http://housing.mit.edu](http://housing.mit.edu)
- - date_published: 2024-06-20T20:23:31+00:00
+ ## solnic.dev
+ - [https://solnic.dev](https://solnic.dev)
+ - date_published: 2024-04-30T07:17:47.782282+00:00
 
- ## Welcome | MIT Human Resources
- - [https://hr.mit.edu](https://hr.mit.edu)
+ ## Some Antics: Accessibility made approachable.
+ - [https://someantics.dev](https://someantics.dev)
+ - date_published: 2024-07-02T19:01:14.243301+00:00
+
+ ## Some Natalie’s corner of the internet
+ - [https://some-natalie.dev](https://some-natalie.dev)
+ - date_published: 2024-03-24T00:00:00+00:00
+
+ ## Soreine
+ - [https://soreine.dev](https://soreine.dev)
+ - date_published: 2023-02-17T10:04:51+00:00
+
+ ## Sorry Cypress - open source cypress dashboard
+ - [https://sorry-cypress.dev](https://sorry-cypress.dev)
+ - date_published: 2024-06-19T22:35:36.814497+00:00
+
+ ## Soumya Ranjan Mohanty
+ - [https://soumya.dev](https://soumya.dev)
+ - date_published: 2024-05-07T23:16:34.702695+00:00
+
+ ## SourceAI | AI-Powered Code Generator
+ - [https://sourceai.dev](https://sourceai.dev)
+ - date_published: 2024-06-14T09:00:02.893664+00:00
+
+ ## Sourcebot
+ - [https://demo.sourcebot.dev](https://demo.sourcebot.dev)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## Sovran Dev
+ - [https://sovran.dev](https://sovran.dev)
+ - date_published: 2024-09-16T13:06:05.295009+00:00
+
+ ## Throwing Exceptions :construction:
+ - [https://sowrensen.dev](https://sowrensen.dev)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Index – Next Cloudinary
+ - [https://next-cloudinary.spacejelly.dev](https://next-cloudinary.spacejelly.dev)
+ - date_published: 2024-08-09T03:12:18.564560+00:00
+
+ ## Space Jelly - Web Development Tutorials for _This_ Universe
+ - [https://spacejelly.dev](https://spacejelly.dev)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Spaceraccoon's Blog
+ - [https://spaceraccoon.dev](https://spaceraccoon.dev)
  - date_published: 2024-05-27T00:00:00+00:00
 
- ## Homepage - MIT Initiative on the Digital Economy
- - [https://ide.mit.edu](https://ide.mit.edu)
- - date_published: 2024-06-21T00:00:00+00:00
+ ## home :: spacetime.dev
+ - [https://spacetime.dev](https://spacetime.dev)
+ - date_published: 2020-12-16T00:00:00+00:00
 
- ## MIT IDM - Integrated Design & Management
- - [https://idm.mit.edu](https://idm.mit.edu)
- - date_published: 2024-05-07T00:00:00+00:00
+ ## Spaghettify🍝
+ - [https://spaghettify.dev](https://spaghettify.dev)
+ - date_published: 2023-10-25T18:42:15.749345+00:00
 
- ## Touchstone@MIT : Help
- - [https://idp.mit.edu](https://idp.mit.edu)
- - date_published: 2024-03-22T23:30:32+00:00
+ ## SparkShell - Code, Connect, Create.
+ - [https://sparkshell.dev](https://sparkshell.dev)
+ - date_published: 2024-09-02T09:46:07.119578+00:00
 
- ## Home - IDSS
- - [http://idss.mit.edu](http://idss.mit.edu)
- - date_published: 2024-08-11T23:31:36.044519+00:00
+ ## Home - Sparrow Computing
+ - [https://sparrow.dev](https://sparrow.dev)
+ - date_published: 2024-01-05T00:00:00+00:00
 
- ## MIT Industrial Liaison Program | ILP
- - [https://ilp.mit.edu](https://ilp.mit.edu)
- - date_published: 2024-06-22T11:08:21.386143+00:00
+ ## SPDX – Linux Foundation Projects Site
+ - [https://spdx.dev](https://spdx.dev)
+ - date_published: 2024-06-17T09:37:46.482442+00:00
 
- ## Home | Institute for Medical Engineering & Science
- - [http://imes.mit.edu](http://imes.mit.edu)
- - date_published: 2024-07-20T21:30:53.152529+00:00
+ ## Speakeasy Dashboard
+ - [https://app.speakeasyapi.dev](https://app.speakeasyapi.dev)
+ - date_published: 2024-06-26T07:54:10.484182+00:00
 
- ## Design Innovation Workshop 2015 | MIT Media Lab India Initiative
- - [http://india.media.mit.edu](http://india.media.mit.edu)
- - date_published: 2019-01-18T16:27:07+00:00
+ ## SDKs & Terraform Providers for Your API | Speakeasy
+ - [https://speakeasyapi.dev](https://speakeasyapi.dev)
+ - date_published: 2024-05-06T18:18:35.350956+00:00
 
- ## Welcome | MIT Institute Events
- - [http://institute-events.mit.edu](http://institute-events.mit.edu)
- - date_published: 2024-07-01T15:17:28+00:00
+ ## Speakeasy Status
+ - [https://status.speakeasyapi.dev](https://status.speakeasyapi.dev)
+ - date_published: 2024-06-26T07:54:12.947524+00:00
 
- ## Home - Internet Policy Research Initiative at MIT
- - [https://internetpolicy.mit.edu](https://internetpolicy.mit.edu)
- - date_published: 2024-06-20T04:28:58.753333+00:00
+ ## Automated Testing, CI/CD for Looker | Spectacles
+ - [https://spectacles.dev](https://spectacles.dev)
+ - date_published: 2024-09-18T00:00:00+00:00
 
- ## Home Page - Intramural Sports
- - [https://intramurals.mit.edu](https://intramurals.mit.edu)
- - date_published: 2024-02-22T00:00:00+00:00
+ ## Speedlify
+ - [https://speedlify.dev](https://speedlify.dev)
+ - date_published: 2024-05-07T18:48:45.462637+00:00
 
- ## 6.390 | IntroML | Spring24
- - [https://introml.mit.edu](https://introml.mit.edu)
- - date_published: 2024-05-07T19:33:31.765414+00:00
+ ## SpeedTyper.dev | Typing practice for programmers
+ - [https://speedtyper.dev](https://speedtyper.dev)
+ - date_published: 2024-06-22T18:29:55+00:00
 
- ## IPC | Innovation. Productivity. Competitiveness.
- - [https://ipc.mit.edu](https://ipc.mit.edu)
- - date_published: 2024-05-07T10:00:20.661194+00:00
+ ## spianoDev
+ - [https://spiano.dev](https://spiano.dev)
+ - date_published: 2020-01-11T16:31:18+00:00
 
- ## Information Systems & Technology
- - [http://ist.mit.edu](http://ist.mit.edu)
- - date_published: 2024-06-16T10:33:45+00:00
+ ## The Spicy Web
+ - [https://social.spicyweb.dev](https://social.spicyweb.dev)
+ - date_published: 2024-04-30T02:18:27.343078+00:00
 
- ## Redirecting...
- - [http://jmlr.csail.mit.edu](http://jmlr.csail.mit.edu)
- - date_published: 2024-06-23T10:40:48.980860+00:00
+ ## The Spicy Web: Vanilla has never tasted so hot.
+ - [https://spicyweb.dev](https://spicyweb.dev)
+ - date_published: 2023-10-25T18:42:22.583492+00:00
 
- ## Journal of Design and Science
- - [https://jods.mitpress.mit.edu](https://jods.mitpress.mit.edu)
- - date_published: 2024-05-27T00:00:00+00:00
+ ## Home
+ - [https://spidermonkey.dev](https://spidermonkey.dev)
+ - date_published: 2024-05-15T00:00:00+00:00
 
- ## Julia Lab: Language, Composability, and Scientific Machine Learning (SciML)
- - [https://julia.mit.edu](https://julia.mit.edu)
- - date_published: 2024-04-29T14:31:38+00:00
+ ## SpinKube
+ - [https://spinkube.dev](https://spinkube.dev)
+ - date_published: 2024-05-04T05:55:58.634825+00:00
 
- ## MIT Edgerton Center - K12 Makerspaces
- - [https://k12maker.mit.edu](https://k12maker.mit.edu)
- - date_published: 2024-07-07T09:21:49.422090+00:00
+ ## Spoofax - Spoofax: The Language Designer's Workbench
+ - [https://www.spoofax.dev](https://www.spoofax.dev)
+ - date_published: 2024-10-17T21:10:23.047061+00:00
 
- ## Kalyan Veeramachaneni | Kalyan Veeramachaneni | Principal Research Scientist | MIT Schwarzman College of Computing
- - [https://kalyan.lids.mit.edu](https://kalyan.lids.mit.edu)
- - date_published: 2024-06-22T09:46:25.654032+00:00
-
- ## The Knowledge Base - Home - Hermes
- - [https://kb.mit.edu](https://kb.mit.edu)
- - date_published: 2024-05-01T06:45:16.815288+00:00
-
- ## Ketterle Group – Atomic Quantum Gases at MIT
- - [https://ketterle-group.mit.edu](https://ketterle-group.mit.edu)
- - date_published: 2024-06-20T17:11:14+00:00
-
- ## Knowledge Futures
- - [https://kfg.mit.edu](https://kfg.mit.edu)
- - date_published: 2024-05-07T19:35:26.291952+00:00
-
- ## Consortium status update | MIT Consortium for Kerberos and Internet Trust
- - [http://kit.mit.edu](http://kit.mit.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Knowledge Unbound
- - [https://knowledgeunbound.mitpress.mit.edu](https://knowledgeunbound.mitpress.mit.edu)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Compositional Koopman Operators
- - [http://koopman.csail.mit.edu](http://koopman.csail.mit.edu)
- - date_published: 2020-05-01T16:54:37+00:00
-
- ## La Casa: A cultural house at MIT
- - [https://la-casa.mit.edu](https://la-casa.mit.edu)
- - date_published: 2024-05-04T15:41:23.439519+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://larch-www.lcs.mit.edu](http://larch-www.lcs.mit.edu)
- - date_published: 2016-08-16T20:40:23+00:00
-
- ## MIT Computational Law Report
- - [https://law.mit.edu](https://law.mit.edu)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Home | LCAU
- - [https://lcau.mit.edu](https://lcau.mit.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Home Page | MIT CSAIL
- - [https://lcs.mit.edu](https://lcs.mit.edu)
- - date_published: 2024-08-19T20:13:00+00:00
-
- ## Future of Learning Group
- - [https://learning.media.mit.edu](https://learning.media.mit.edu)
- - date_published: 2002-08-05T16:24:05+00:00
-
- ## We are Invention Education | Lemelson
- - [https://lemelson.mit.edu](https://lemelson.mit.edu)
- - date_published: 2024-07-15T05:24:06.426940+00:00
-
- ## MIT Leaders for Global Operations
- - [https://lgo.mit.edu](https://lgo.mit.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## LGO-SDM PROGRAM AT MIT - Welcome
- - [https://lgosdm.mit.edu](https://lgosdm.mit.edu)
- - date_published: 2021-06-09T12:44:30+00:00
-
- ## Quick Answers: social sciences & management - MIT Libraries
- - [https://libanswers.mit.edu](https://libanswers.mit.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Research guides & expert librarians | MIT Libraries
- - [https://libguides.mit.edu](https://libguides.mit.edu)
- - date_published: 2024-05-07T19:33:46.320514+00:00
-
- ## Search | MIT Libraries
- - [https://lib.mit.edu](https://lib.mit.edu)
- - date_published: 2024-07-01T15:13:08.535145+00:00
-
- ## MIT Libraries
- - [https://libraries.mit.edu](https://libraries.mit.edu)
- - date_published: 2024-05-07T19:33:43.568942+00:00
-
- ## MIT Libraries
- - [https://libraries-stage.mit.edu](https://libraries-stage.mit.edu)
- - date_published: 2024-07-01T15:13:15.961326+00:00
-
- ## MIT LIDS | Laboratory for Information & Decision Systems
- - [https://lids.mit.edu](https://lids.mit.edu)
- - date_published: 2024-05-09T06:35:20.075142+00:00
-
- ## MIT Linguistics – Department of Linguistics and Philosophy
- - [https://linguistics.mit.edu](https://linguistics.mit.edu)
- - date_published: 2024-05-08T11:14:32.604588+00:00
-
- ## Learning and Intelligent Systems Group
- - [https://lis.csail.mit.edu](https://lis.csail.mit.edu)
- - date_published: 2024-05-04T15:15:52.963723+00:00
-
- ## Home | MIT List Visual Arts Center
- - [https://listart.mit.edu](https://listart.mit.edu)
- - date_published: 2022-01-13T16:06:12+00:00
-
- ## CSAIL Mailing List Server
- - [https://lists.csail.mit.edu](https://lists.csail.mit.edu)
- - date_published: 2023-02-09T18:23:29+00:00
-
- ## LIT@MIT | LITERATURE AT MIT
- - [http://lit.mit.edu](http://lit.mit.edu)
- - date_published: 2024-06-22T11:01:22.744639+00:00
-
- ## Living Wage Calculator
- - [https://livingwage.mit.edu](https://livingwage.mit.edu)
- - date_published: 2023-10-25T18:53:56.639883+00:00
-
- ## MIT Media Lab Login
- - [https://login.media.mit.edu](https://login.media.mit.edu)
- - date_published: 2024-05-07T19:37:54.351217+00:00
-
- ## Logitext
- - [http://logitext.mit.edu](http://logitext.mit.edu)
- - date_published: 2024-06-30T09:42:32.518260+00:00
-
- ## LSC: The MIT Lecture Series Committee
- - [http://lsc.mit.edu](http://lsc.mit.edu)
- - date_published: 2024-05-07T19:37:24.722204+00:00
-
- ## Luca Carlone – Associate Professor, Department of Aeronautics and Astronautics
- - [https://lucacarlone.mit.edu](https://lucacarlone.mit.edu)
- - date_published: 2024-06-22T10:03:35.882534+00:00
-
- ## LUCHA
- - [https://lucha.mit.edu](https://lucha.mit.edu)
- - date_published: 2024-05-04T15:41:32.895854+00:00
-
- ## MarrNet
- - [http://marrnet.csail.mit.edu](http://marrnet.csail.mit.edu)
- - date_published: 2019-07-19T23:42:17+00:00
-
- ## mastodon.mit.edu
- - [https://mastodon.mit.edu](https://mastodon.mit.edu)
- - date_published: 2024-09-16T03:55:07.065904+00:00
-
- ## MIT Mathematics
- - [https://math.mit.edu](https://math.mit.edu)
- - date_published: 2023-10-25T18:54:09.948920+00:00
-
- ## √mathroots @ MIT |
- - [http://mathroots.mit.edu](http://mathroots.mit.edu)
- - date_published: 2024-05-07T19:34:28.593031+00:00
-
- ## Sign in - Matomo
- - [https://matomo.libraries.mit.edu](https://matomo.libraries.mit.edu)
- - date_published: 2024-05-07T19:33:48.111967+00:00
-
- ## Unraveling the Mysteries of the Brain - MIT McGovern Institute
- - [https://mcgovern.mit.edu](https://mcgovern.mit.edu)
- - date_published: 2024-06-16T22:24:12.300561+00:00
-
- ## home | MIT Department of Mechanical Engineering
- - [http://meche.mit.edu](http://meche.mit.edu)
- - date_published: 2024-06-22T08:15:22.030467+00:00
-
- ## News + Updates – MIT Media Lab
- - [http://media.mit.edu](http://media.mit.edu)
- - date_published: 2024-06-19T23:46:46.301915+00:00
-
- ## Home | MIT Entrepreneurship and FinTech Integrator (MEFTI)
- - [https://mefti.mit.edu](https://mefti.mit.edu)
+ ## SpruceKit Introduction | SpruceKit
+ - [https://spruceid.dev](https://spruceid.dev)
  - date_published: 2024-06-28T00:00:00+00:00
 
- ## Home | MIT Entrepreneurship and Maker Skills Integrator (MEMSI)
- - [https://memsi.mit.edu](https://memsi.mit.edu)
- - date_published: 2024-08-07T15:57:16.461115+00:00
+ ## Attention Required! | Cloudflare
+ - [https://spyda.dev](https://spyda.dev)
+ - date_published: 2024-06-10T07:08:10.785248+00:00
 
- ## MITx MicroMasters
- - [https://micromasters.mit.edu](https://micromasters.mit.edu)
- - date_published: 2024-01-15T18:04:13.077285+00:00
+ ## Dashboard
+ - [https://dashboard.sqlc.dev](https://dashboard.sqlc.dev)
+ - date_published: 2024-07-03T06:44:39.738084+00:00
 
- ## The Missing Semester of Your CS Education
- - [https://missing.csail.mit.edu](https://missing.csail.mit.edu)
- - date_published: 2023-10-25T18:54:11.265361+00:00
+ ## sqlc Documentation — sqlc 1.26.0 documentation
+ - [https://docs.sqlc.dev](https://docs.sqlc.dev)
+ - date_published: 2024-06-15T16:01:43+00:00
 
- ## Home Page | MITAC
- - [https://mitac.mit.edu](https://mitac.mit.edu)
- - date_published: 2024-07-01T01:46:46.071840+00:00
+ ## sqlc Downloads
+ - [https://downloads.sqlc.dev](https://downloads.sqlc.dev)
+ - date_published: 2024-03-28T21:32:19+00:00
 
- ## MIT Communication Lab
- - [https://mitcommlab.mit.edu](https://mitcommlab.mit.edu)
- - date_published: 2024-06-20T17:11:26.860775+00:00
+ ## sqlc - Playground
+ - [https://play.sqlc.dev](https://play.sqlc.dev)
+ - date_published: 2024-07-03T06:44:31.376489+00:00
 
- ## MIT Center for Real Estate
- - [https://mitcre.mit.edu](https://mitcre.mit.edu)
- - date_published: 2024-05-08T00:00:00+00:00
+ ## Plausible Analytics
+ - [https://proxy.sqlc.dev](https://proxy.sqlc.dev)
+ - date_published: 2024-07-02T12:41:46+00:00
 
- ## The Massachusetts Institute of Technology (MIT)
- - [https://mit.edu](https://mit.edu)
+ ## Compile SQL to type-safe code
+ - [https://sqlc.dev](https://sqlc.dev)
+ - date_published: 2024-05-08T00:40:22.433465+00:00
+
+ ## SQLSync
+ - [https://sqlsync.dev](https://sqlsync.dev)
+ - date_published: 2023-12-01T17:37:45.763365+00:00
+
+ ## Resume of Sreedev Kodichath
+ - [https://resume.sree.dev](https://resume.sree.dev)
+ - date_published: 2024-07-07T00:19:58+00:00
+
+ ## Sreedev Kodichath
+ - [https://sree.dev](https://sree.dev)
+ - date_published: 2024-05-09T08:01:29.145632+00:00
+
+ ## Akkoma
+ - [https://fedi.srijan.dev](https://fedi.srijan.dev)
+ - date_published: 2024-04-30T06:11:48.075079+00:00
+
+ ## EmailEngine
+ - [https://emailengine.srv.dev](https://emailengine.srv.dev)
+ - date_published: 2024-10-13T07:40:31.086980+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.srv.dev](https://plausible.srv.dev)
+ - date_published: 2024-06-16T19:41:29.252783+00:00
+
+ ## Hello World! Welcome to my site! Enjoy!
+ - [https://ss10.dev](https://ss10.dev)
+ - date_published: 2024-07-01T06:11:08.059962+00:00
+ - tags: ['personal']
+
+ ## Sedat Kapanoglu – Medium
+ - [https://ssg.dev](https://ssg.dev)
+ - date_published: 2024-04-16T11:32:34.726324+00:00
+
+ ## Console
+ - [https://console.sst.dev](https://console.sst.dev)
+ - date_published: 2024-08-20T05:02:53+00:00
+
+ ## SST Guide
+ - [https://guide.sst.dev](https://guide.sst.dev)
+ - date_published: 2024-08-21T20:07:17+00:00
+
+ ## SST
+ - [https://sst.dev](https://sst.dev)
+ - date_published: 2024-05-28T23:55:51+00:00
+
+ ## The stacking workflow
+ - [https://stacking.dev](https://stacking.dev)
+ - date_published: 2024-04-29T07:45:39.225701+00:00
+
+ ## Introduction
+ - [https://stackpath.dev](https://stackpath.dev)
+ - date_published: 2024-06-16T08:19:52.377902+00:00
+
+ ## Stanley Davis - Games Programmer
+ - [https://standavis.dev](https://standavis.dev)
+ - date_published: 2024-02-01T13:56:39+00:00
+
+ ## starter.dev - Awesome starter kits!
+ - [https://starter.dev](https://starter.dev)
+ - date_published: 2024-04-30T07:11:15.969337+00:00
+
+ ## Starter AI
+ - [https://www.starterai.dev](https://www.starterai.dev)
  - date_published: 2024-05-07T00:00:00+00:00
 
- ## Home - MIT-IBM Watson AI Lab
- - [https://mitibmwatsonailab.mit.edu](https://mitibmwatsonailab.mit.edu)
- - date_published: 2024-05-06T00:00:00+00:00
+ ## Docs
+ - [https://statamic.dev](https://statamic.dev)
+ - date_published: 2024-06-20T00:00:00+00:00
 
- ## MIT Museum Homepage | MIT Museum
- - [http://mitmuseum.mit.edu](http://mitmuseum.mit.edu)
- - date_published: 2024-06-22T00:00:00+00:00
+ ## Welcome to the world of Statecharts
+ - [https://statecharts.dev](https://statecharts.dev)
+ - date_published: 2021-10-30T23:43:22+00:00
 
- ## Home | MIT.nano
- - [https://mitnano.mit.edu](https://mitnano.mit.edu)
- - date_published: 2024-05-08T10:20:34.574918+00:00
+ ## Statiq - Your Imagination, Your Generator
+ - [https://statiq.dev](https://statiq.dev)
+ - date_published: 2024-06-17T03:29:16.334345+00:00
 
- ## MIT Press Open Architecture and Urban Studies
- - [https://mitp-arch.mitpress.mit.edu](https://mitp-arch.mitpress.mit.edu)
- - date_published: 2024-05-21T00:00:00+00:00
+ ## Stefan Bogdanović - Software Engineer
+ - [https://stefanbogdanovic.dev](https://stefanbogdanovic.dev)
+ - date_published: 2024-05-09T08:25:55.807857+00:00
 
- ## Index
- - [https://mitp-content-server.mit.edu](https://mitp-content-server.mit.edu)
- - date_published: 2021-02-22T22:32:26+00:00
+ ## The Conquest of Bread by Petr Alekseevich Kropotkin
+ - [https://fediverse-share-button.stefanbohacek.dev](https://fediverse-share-button.stefanbohacek.dev)
+ - date_published: 2024-06-10T13:42:17+00:00
 
- ## The MIT Press Bookstore
- - [https://mitpressbookstore.mit.edu](https://mitpressbookstore.mit.edu)
- - date_published: 2024-05-08T00:00:00+00:00
+ ## Sign in - Matomo
+ - [https://matomo.stefanbohacek.dev](https://matomo.stefanbohacek.dev)
+ - date_published: 2024-08-18T22:23:51.034564+00:00
 
- ## Home Page
- - [https://mitpressjournals.mit.edu](https://mitpressjournals.mit.edu)
+ ## Stefan Zweifel • Full Stack Developer
+ - [https://stefanzweifel.dev](https://stefanzweifel.dev)
+ - date_published: 2024-05-11T10:10:10.523801+00:00
+
+ ## Stenography
+ - [https://stenography.dev](https://stenography.dev)
+ - date_published: 2022-03-27T23:10:02+00:00
+
+ ## stephane.dev
+ - [https://stephane.dev](https://stephane.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## stephfh.dev
+ - [https://stephfh.dev](https://stephfh.dev)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://stevedylan.dev](https://stevedylan.dev)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Steve Frenzel - Web Developer & Accessibility Advocate
+ - [https://stevefrenzel.dev](https://stevefrenzel.dev)
+ - date_published: 2024-08-06T23:38:03.508802+00:00
+
+ ## Home
+ - [https://stilwell.dev](https://stilwell.dev)
+ - date_published: 2024-03-20T14:15:44+00:00
+
+ ## Stitches — CSS-in-JS with near-zero runtime
+ - [https://stitches.dev](https://stitches.dev)
+ - date_published: 2024-06-23T06:26:19.835852+00:00
+
+ ## Vegard S. Hagen
+ - [https://blog.stonegarden.dev](https://blog.stonegarden.dev)
+ - date_published: 2024-05-28T20:52:53.957016+00:00
+
+ ## Home | Jacob Stordahl
+ - [https://stordahl.dev](https://stordahl.dev)
+ - date_published: 2024-05-07T23:22:46.596740+00:00
+
+ ## Stratospheric - Spring Boot and AWS
+ - [https://stratospheric.dev](https://stratospheric.dev)
+ - date_published: 2022-04-04T12:40:10+00:00
+
+ ## Developer experience, reimagined | Stripe
+ - [https://beta.stripe.dev](https://beta.stripe.dev)
+ - date_published: 2024-04-29T07:14:36.344373+00:00
+
+ ## Live dashboard of Stripe systems during Black Friday
+ - [https://bfcm.stripe.dev](https://bfcm.stripe.dev)
+ - date_published: 2023-11-24T12:13:21+00:00
+
+ ## Explore Stripe Checkout
+ - [https://checkout.stripe.dev](https://checkout.stripe.dev)
+ - date_published: 2024-08-06T15:42:34.895946+00:00
+
+ ## Stripe Insiders
+ - [https://insiders.stripe.dev](https://insiders.stripe.dev)
  - date_published: 2024-06-27T00:00:00+00:00
 
- ## Home Page - MIT Press
- - [https://mitpress.mit.edu](https://mitpress.mit.edu)
- - date_published: 2023-10-25T18:54:21.358865+00:00
+ ## Stripe Developer Resources
+ - [https://stripe.dev](https://stripe.dev)
+ - date_published: 2024-05-03T00:35:40+00:00
 
- ## The MIT Press - open access @ PubPub
- - [https://mitpressonpubpub.mitpress.mit.edu](https://mitpressonpubpub.mitpress.mit.edu)
- - date_published: 2024-04-28T00:00:00+00:00
+ ## Studio Alex
+ - [https://www.studioalex.dev](https://www.studioalex.dev)
+ - date_published: 2024-05-11T10:11:14.076090+00:00
 
- ## MIT Sloan
- - [https://mitsloan.mit.edu](https://mitsloan.mit.edu)
- - date_published: 2023-10-25T18:54:22.918721+00:00
+ ## Stump | Stump
+ - [https://stumpapp.dev](https://stumpapp.dev)
+ - date_published: 2024-09-07T02:17:50+00:00
 
- ## MITWPL - MIT Working Papers in Linguistics
- - [http://mitwpl.mit.edu](http://mitwpl.mit.edu)
- - date_published: 2024-07-08T12:23:37.961531+00:00
+ ## stylesh dev
+ - [https://stylessh.dev](https://stylessh.dev)
+ - date_published: 2024-05-09T06:18:29.933662+00:00
 
- ## MITx Online
- - [https://mitxonline.mit.edu](https://mitxonline.mit.edu)
- - date_published: 2023-10-25T18:54:25.878690+00:00
+ ## Style Stage from Modern CSS Solutions
+ - [https://stylestage.dev](https://stylestage.dev)
+ - date_published: 2024-07-02T19:29:14.095685+00:00
 
- ## Moments in Time
- - [http://moments.csail.mit.edu](http://moments.csail.mit.edu)
- - date_published: 2018-06-16T00:00:00+00:00
+ ## Suborbital | We've joined F5
+ - [https://suborbital.dev](https://suborbital.dev)
+ - date_published: 2024-06-15T22:10:33.542222+00:00
 
- ## Moral Machine
- - [https://moralmachine.mit.edu](https://moralmachine.mit.edu)
- - date_published: 2024-05-04T07:14:59.440166+00:00
+ ## Subvert | Subvert
+ - [https://subvert.dev](https://subvert.dev)
+ - date_published: 2024-04-08T19:30:56.186910+00:00
+ - tags: ['artificial intelligence', 'subtitles']
 
- ## Motion Sculpture (MoSculp)
- - [http://mosculp.csail.mit.edu](http://mosculp.csail.mit.edu)
- - date_published: 2021-06-27T18:53:30+00:00
+ ## sudorandom.dev — Depth-first search into networking, programming, random tech topics.
+ - [https://sudorandom.dev](https://sudorandom.dev)
+ - date_published: 2024-04-14T07:37:07.121941+00:00
+ - tags: ['personal']
 
- ## Mosh: the mobile shell
- - [https://mosh.mit.edu](https://mosh.mit.edu)
- - date_published: 2022-10-31T00:00:00+00:00
+ ## Suncoast Developers Guild
+ - [https://suncoast.dev](https://suncoast.dev)
+ - date_published: 2024-07-14T10:08:35.316705+00:00
 
- ## Multidisciplinary Simulation, Estimation, and Assimilation Systems (MSEAS)
- - [http://mseas.mit.edu](http://mseas.mit.edu)
- - date_published: 2024-08-07T15:53:42.003857+00:00
+ ## Sungdoo.dev
+ - [https://sungdoo.dev](https://sungdoo.dev)
+ - date_published: 2024-01-30T00:00:00+00:00
 
- ## Massachusetts Institute of Technology
- - [http://mta.mit.edu](http://mta.mit.edu)
- - date_published: 2024-06-22T10:09:36+00:00
+ ## Home
+ - [https://sunilpai.dev](https://sunilpai.dev)
+ - date_published: 2024-02-06T00:00:00+00:00
 
- ## Machines that Make
- - [https://mtm.cba.mit.edu](https://mtm.cba.mit.edu)
- - date_published: 2024-05-02T14:48:30+00:00
+ ## The Sunlight CT Log
+ - [https://sunlight.dev](https://sunlight.dev)
+ - date_published: 2024-04-28T03:11:14.862975+00:00
 
- ## MySloan - Login
- - [https://mysloan.mit.edu](https://mysloan.mit.edu)
- - date_published: 2024-07-01T00:00:00+00:00
+ ## supastarter.nextjs - Application
+ - [https://demo.supastarter.dev](https://demo.supastarter.dev)
+ - date_published: 2024-07-10T11:06:35.343802+00:00
 
- ## Home | Nanousers
- - [https://nanousers.mit.edu](https://nanousers.mit.edu)
- - date_published: 2024-06-05T00:00:00+00:00
+ ## Welcome to the supastarter docs! – supastarter documentation
+ - [https://docs.supastarter.dev](https://docs.supastarter.dev)
+ - date_published: 2024-07-10T11:06:38.435580+00:00
 
- ## Network Dissection
- - [https://netdissect.csail.mit.edu](https://netdissect.csail.mit.edu)
- - date_published: 2020-11-17T13:37:52+00:00
+ ## supastarter.nuxt - Application
+ - [https://nuxt-demo.supastarter.dev](https://nuxt-demo.supastarter.dev)
+ - date_published: 2024-07-10T11:06:34.072004+00:00
 
- ## Synthetic Neurobiology Home - Synthetic Neurobiology Group
- - [http://neuro.media.mit.edu](http://neuro.media.mit.edu)
- - date_published: 2024-06-18T00:00:00+00:00
+ ## supastarter - Ship your SaaS in days
+ - [https://supastarter.dev](https://supastarter.dev)
+ - date_published: 2024-05-09T08:38:18.792729+00:00
 
- ## MIT News | Massachusetts Institute of Technology
- - [https://news.mit.edu](https://news.mit.edu)
- - date_published: 2023-10-25T11:20:44.709795+00:00
+ ## Supersaas - Nuxt 3 Fullstack Starter Kit with DB, Auth, Payments, Emails, File Storage.
+ - [https://supersaas.dev](https://supersaas.dev)
+ - date_published: 2024-09-02T11:47:49.170972+00:00
 
- ## MIT News | Massachusetts Institute of Technology
- - [https://newsoffice.mit.edu](https://newsoffice.mit.edu)
- - date_published: 2024-07-01T15:26:43+00:00
+ ## SupportsCSS
+ - [https://supportscss.dev](https://supportscss.dev)
+ - date_published: 2024-08-08T22:54:19.268730+00:00
 
- ## Neurally-Guided Structure Inference
- - [http://ngsi.csail.mit.edu](http://ngsi.csail.mit.edu)
- - date_published: 2020-10-20T01:07:11+00:00
+ ## Home
+ - [https://suraj.dev](https://suraj.dev)
+ - date_published: 2024-07-23T23:30:55.452490+00:00
 
- ## Networks and Mobile Systems
- - [http://nms.csail.mit.edu](http://nms.csail.mit.edu)
- - date_published: 2022-11-14T19:52:54+00:00
+ ## Sam Ruggerio • Portfolio
+ - [https://surg.dev](https://surg.dev)
+ - date_published: 2024-07-21T21:53:06.055492+00:00
 
- ## The Massachusetts Institute of Technology (MIT)
- - [https://now.mit.edu](https://now.mit.edu)
- - date_published: 2024-07-01T00:00:00+00:00
+ ## surma.dev
+ - [https://surma.dev](https://surma.dev)
+ - date_published: 2023-10-25T18:42:23.561265+00:00
+ - tags: ['personal']
 
- ## The Neuro-Symbolic Concept Learner
- - [http://nscl.csail.mit.edu](http://nscl.csail.mit.edu)
- - date_published: 2020-10-20T01:08:33+00:00
+ ## Suyu Chat
+ - [https://chat.suyu.dev](https://chat.suyu.dev)
+ - date_published: 2024-05-09T07:05:53.446449+00:00
 
- ## Neural Scene De-rendering
- - [http://nsd.csail.mit.edu](http://nsd.csail.mit.edu)
- - date_published: 2019-07-19T23:44:43+00:00
+ ## Suyu Git
+ - [https://git.suyu.dev](https://git.suyu.dev)
+ - date_published: 2024-05-09T07:05:52.000176+00:00
 
- ## Neural-Symbolic VQA
- - [http://nsvqa.csail.mit.edu](http://nsvqa.csail.mit.edu)
- - date_published: 2019-07-19T23:48:41+00:00
+ ## Suyu: A Nintendo Switch emulator for hardware preservation and research
+ - [https://suyu.dev](https://suyu.dev)
+ - date_published: 2024-03-10T07:08:46+00:00
+ - tags: ['nintendo', 'emulator']
 
- ## Nuts and Bolts of New Ventures
- - [http://nutsandbolts.mit.edu](http://nutsandbolts.mit.edu)
- - date_published: 2024-06-20T04:07:56.248377+00:00
+ ## Suze Shardlow :: Home
+ - [https://suze.dev](https://suze.dev)
+ - date_published: 2024-05-07T23:10:59.041571+00:00
 
- ## MIT OpenCourseWare | Free Online Course Materials
- - [https://ocw.mit.edu](https://ocw.mit.edu)
- - date_published: 2023-10-25T18:54:28.607293+00:00
+ ## SvelteKit • Web development, streamlined
+ - [https://kit.svelte.dev](https://kit.svelte.dev)
+ - date_published: 2024-04-29T07:47:36.154546+00:00
 
- ## Office of Graduate Education
- - [https://odge.mit.edu](https://odge.mit.edu)
+ ## Welcome to Svelte • Svelte Tutorial
+ - [https://learn.svelte.dev](https://learn.svelte.dev)
+ - date_published: 2024-05-06T14:48:10.232077+00:00
+
+ ## Sapper • The predecessor of SvelteKit
+ - [https://sapper.svelte.dev](https://sapper.svelte.dev)
+ - date_published: 2023-01-11T17:18:54+00:00
+
+ ## Svelte • Cybernetically enhanced web apps
+ - [https://svelte.dev](https://svelte.dev)
+ - date_published: 2023-10-25T18:42:29.946623+00:00
+ - tags: ['website development', 'web applications', 'company', 'open source']
+
+ ## SvelteLab
+ - [https://sveltelab.dev](https://sveltelab.dev)
+ - date_published: 2024-07-14T09:41:10.203955+00:00
+
+ ## Advent of Svelte
+ - [https://advent.sveltesociety.dev](https://advent.sveltesociety.dev)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Plausible · Web analytics
+ - [https://analytics.sveltesociety.dev](https://analytics.sveltesociety.dev)
+ - date_published: 2024-06-20T05:54:09.489794+00:00
+
+ ## Home - Svelte Society
+ - [https://sveltesociety.dev](https://sveltesociety.dev)
+ - date_published: 2024-05-06T14:13:51.164879+00:00
+
+ ## SVG Viewer – View, edit, and optimize SVGs
+ - [https://svgviewer.dev](https://svgviewer.dev)
+ - date_published: 2024-04-27T15:43:54+00:00
+ - tags: ['svg files', 'online tool']
+
+ ## Brian Swank — Software Engineer
+ - [https://swank.dev](https://swank.dev)
+ - date_published: 2024-05-11T10:05:17.975823+00:00
+
+ ## Sweep AI
+ - [https://community.sweep.dev](https://community.sweep.dev)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Sweep: AI-powered junior dev
+ - [https://docs.sweep.dev](https://docs.sweep.dev)
+ - date_published: 2023-10-25T18:42:31.067579+00:00
+
+ ## Sweep: turn bugs and feature requests into code changes.
+ - [https://sweep.dev](https://sweep.dev)
+ - date_published: 2024-04-30T02:18:49.706732+00:00
+
+ ## Swift Toolkit
+ - [https://swifttoolkit.dev](https://swifttoolkit.dev)
+ - date_published: 2024-06-23T15:37:11.262410+00:00
+
+ ## Christopher Swingley's Home Page
+ - [https://swingley.dev](https://swingley.dev)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## InstantPersonas | Get Started
+ - [https://swotanalysis.dev](https://swotanalysis.dev)
+ - date_published: 2024-10-30T06:44:01.686525+00:00
+
+ ## Sylveon
+ - [https://sylveon.dev](https://sylveon.dev)
+ - date_published: 2024-08-18T19:42:56.622130+00:00
+
+ ## Geoffrey Copin's  blog
+ - [https://blog.sylver.dev](https://blog.sylver.dev)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Webhook Integrations - Made Easy
+ - [https://www.syncd.dev](https://www.syncd.dev)
+ - date_published: 2024-06-27T02:18:51.566233+00:00
+
+ ## JiG Gaming Portal
+ - [https://a.synth.dev](https://a.synth.dev)
+ - date_published: 2024-10-21T03:56:20.276286+00:00
+
+ ## SynthQL: Type-safe, composable queries | SynthQL
+ - [https://synthql.dev](https://synthql.dev)
+ - date_published: 2024-08-19T17:25:23.318503+00:00
+
+ ## Kainoa's Portfolio
+ - [https://t1c.dev](https://t1c.dev)
+ - date_published: 2024-02-08T05:21:34+00:00
+
+ ## Tabserve - A HTTPS URL for localhost using just your browser
+ - [https://tabserve.dev](https://tabserve.dev)
+ - date_published: 2023-08-28T23:09:12+00:00
+
+ ## Tabserve
+ - [https://x.tabserve.dev](https://x.tabserve.dev)
+ - date_published: 2023-09-10T03:09:24+00:00
+
+ ## Tailscale Community
+ - [https://tailscale.dev](https://tailscale.dev)
+ - date_published: 2023-10-25T18:42:33.180270+00:00
+
+ ## TakeNote
+ - [https://takenote.dev](https://takenote.dev)
+ - date_published: 2024-08-11T21:05:09.170530+00:00
+
+ ## Tales from Dev
+ - [https://talesfrom.dev](https://talesfrom.dev)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Christopher Talke Buscaino.
+ - [https://talke.dev](https://talke.dev)
+ - date_published: 2024-05-11T10:08:13.774110+00:00
+
+ ## TALL Stack: Tailwind CSS, Alpine.js, Laravel, and Livewire. One Happy Family.
+ - [https://tallstack.dev](https://tallstack.dev)
+ - date_published: 2024-10-28T23:33:22.998339+00:00
+
+ ## Talos Linux
+ - [https://talos.dev](https://talos.dev)
+ - date_published: 2024-03-05T07:21:13+00:00
+ - tags: ['operating system']
+
+ ## Tamagui — React Native + Web UI kit
+ - [https://tamagui.dev](https://tamagui.dev)
+ - date_published: 2023-10-25T18:42:39.860419+00:00
+
+ ## Login
+ - [https://app.tandoor.dev](https://app.tandoor.dev)
+ - date_published: 2024-07-20T10:31:40.518360+00:00
+
+ ## Tandoor Recipes
+ - [https://docs.tandoor.dev](https://docs.tandoor.dev)
+ - date_published: 2024-05-18T18:25:40.247941+00:00
+
+ ## Tandoor: Smart recipe management
+ - [https://tandoor.dev](https://tandoor.dev)
+ - date_published: 2024-07-20T10:31:41.804729+00:00
+
+ ## tane.dev
+ - [https://tane.dev](https://tane.dev)
+ - date_published: 2024-07-23T23:26:38.768229+00:00
+
+ ## A11y Up – Digital Accessibility Consulting
+ - [https://taner-aydin.dev](https://taner-aydin.dev)
+ - date_published: 2024-08-06T23:37:35.432429+00:00
+
+ ## Dependency Management Data
+ - [https://dmd.tanna.dev](https://dmd.tanna.dev)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Tap Tab - Switching tabs is just a tap away.
+ - [https://taptab.dev](https://taptab.dev)
+ - date_published: 2024-10-17T15:23:18.343554+00:00
+
+ ## lily :3
+ - [https://tauon.dev](https://tauon.dev)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Team Nutshell
+ - [https://www.team-nutshell.dev](https://www.team-nutshell.dev)
+ - date_published: 2024-02-27T08:03:39.841230+00:00
+
+ ## Awesome Tech Blogs
+ - [https://tech-blogs.dev](https://tech-blogs.dev)
+ - date_published: 2024-07-14T09:21:45.884714+00:00
+
+ ## Grow Your Career with TechJobs
+ - [https://techjobs.dev](https://techjobs.dev)
+ - date_published: 2024-07-08T18:19:05.550457+00:00
+
+ ## technicalwriting.dev
+ - [https://technicalwriting.dev](https://technicalwriting.dev)
+ - date_published: 2024-05-07T23:00:18.098562+00:00
+
+ ## TechRay Apps - Discover the Power of Innovation | TechRay Apps
+ - [https://apps.techray.dev](https://apps.techray.dev)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Tekton
+ - [https://tekton.dev](https://tekton.dev)
+ - date_published: 2024-05-09T08:44:00.097502+00:00
+
+ ## Telepush
+ - [https://telepush.dev](https://telepush.dev)
+ - date_published: 2024-09-02T14:49:20.130353+00:00
+
+ ## Trevor Elkins Blog
+ - [https://telkins.dev](https://telkins.dev)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Terminal 7
+ - [https://pwa.terminal7.dev](https://pwa.terminal7.dev)
+ - date_published: 2024-10-20T15:20:11.144836+00:00
+
+ ## Terminal7
+ - [https://terminal7.dev](https://terminal7.dev)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Redirecting…
+ - [https://termux.dev](https://termux.dev)
+ - date_published: 2023-10-25T18:42:40.262222+00:00
+
+ ## Territory
+ - [https://app.territory.dev](https://app.territory.dev)
+ - date_published: 2024-06-28T14:27:18+00:00
+
+ ## An infinite canvas for code exploration
+ - [https://territory.dev](https://territory.dev)
+ - date_published: 2024-05-06T21:03:54+00:00
+
+ ## Tess - Terminal for the new era
+ - [https://tessapp.dev](https://tessapp.dev)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Android Testify | Android Testify
+ - [https://testify.dev](https://testify.dev)
+ - date_published: 2024-09-04T14:11:16+00:00
+
+ ## testlify-api
+ - [https://api.testlify.dev](https://api.testlify.dev)
+ - date_published: 2024-08-09T13:46:19+00:00
+
+ ## texastim.dev
+ - [https://texastim.dev](https://texastim.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Log In - Campus Pickup Settings
+ - [https://texttogo.dev](https://texttogo.dev)
+ - date_published: 2024-07-14T15:03:43.635148+00:00
+
+ ## Find Pre-trained Models | Kaggle
+ - [https://tfhub.dev](https://tfhub.dev)
+ - date_published: 2024-07-12T17:58:27.369443+00:00
+
+ ## thanks.dev – open source funding platform
+ - [https://thanks.dev](https://thanks.dev)
+ - date_published: 2023-10-25T18:42:40.674475+00:00
+
+ ## Andrew's Class Notes: üè† Home
+ - [https://notes.thatother.dev](https://notes.thatother.dev)
+ - date_published: 2024-03-03T11:15:38.185651+00:00
+ - tags: ['personal']
+
+ ## Verma Notes
+ - [https://blog.theabhishek.dev](https://blog.theabhishek.dev)
+ - date_published: 2023-10-25T18:42:42.879233+00:00
+
+ ## The Basics – Front-End Web Development Courses by Geoff Graham
+ - [https://thebasics.dev](https://thebasics.dev)
+ - date_published: 2024-06-05T17:12:51+00:00
+
+ ## The David Dias | Front-End Developer, Podcaster & Content Creator
+ - [https://thedaviddias.dev](https://thedaviddias.dev)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## thefoggiest.dev
+ - [https://thefoggiest.dev](https://thefoggiest.dev)
+ - date_published: 2024-01-30T06:11:51.457009+00:00
+
+ ## Hello. - TheGiftCode's Digital Garden
+ - [https://notes.thegiftcode.dev](https://notes.thegiftcode.dev)
+ - date_published: 2024-07-14T09:12:24.725874+00:00
+
+ ## thegoodalright.dev
+ - [https://thegoodalright.dev](https://thegoodalright.dev)
+ - date_published: 2024-06-23T15:06:36.673042+00:00
+
+ ## The Guild Newsletter
+ - [https://newsletter.the-guild.dev](https://newsletter.the-guild.dev)
+ - date_published: 2024-04-30T02:19:02.324614+00:00
+
+ ## GraphQL – The Guild
+ - [https://the-guild.dev](https://the-guild.dev)
+ - date_published: 2023-10-25T18:42:41.689819+00:00
+
+ ## Open Minds, Open Source
+ - [https://blog.thekush.dev](https://blog.thekush.dev)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## theme.park Docs
+ - [https://docs.theme-park.dev](https://docs.theme-park.dev)
+ - date_published: 2024-10-07T20:12:41+00:00
+
+ ## theme.park - A collection of themes/skins for your favorite apps!
+ - [https://theme-park.dev](https://theme-park.dev)
+ - date_published: 2024-06-15T18:12:16+00:00
+
+ ## themer - development environment theme creator
+ - [https://themer.dev](https://themer.dev)
+ - date_published: 2023-10-25T18:42:43.703160+00:00
+
+ ## The Narrative
+ - [https://thenarrative.dev](https://thenarrative.dev)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Hacking SaaS | Hacking SaaS Editor | Substack
+ - [https://hackingsaas.thenile.dev](https://hackingsaas.thenile.dev)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Nile Database — Serverless Postgres for modern SaaS
+ - [https://thenile.dev](https://thenile.dev)
+ - date_published: 2024-04-30T02:19:35.996458+00:00
+
+ ## Odyssey
+ - [https://theodyssey.dev](https://theodyssey.dev)
+ - date_published: 2023-07-09T07:12:08+00:00
+
+ ## The Pasture | The musings, ideas, discussions, and sometimes silly words from a digital sheep magician
+ - [https://thephd.dev](https://thephd.dev)
+ - date_published: 2023-10-25T18:42:55.519026+00:00
+
+ ## DartPad
+ - [https://dartpad.thermion.dev](https://dartpad.thermion.dev)
+ - date_published: 2024-06-29T01:30:50.766039+00:00
+
+ ## Show HN: Thermion, an open source 3D rendering toolkit for Flutter and/or Dart
+ - [https://thermion.dev](https://thermion.dev)
+ - date_published: 2024-06-28T08:47:56+00:00
+
+ ## OdooGPT ~ Integrate Odoo with ChatGPT
+ - [https://odoogpt.thespino.dev](https://odoogpt.thespino.dev)
+ - date_published: 2023-09-12T19:32:19+00:00
+
+ ## thesys
+ - [https://www.thesys.dev](https://www.thesys.dev)
+ - date_published: 2024-10-31T12:35:19.899544+00:00
+
+ ## The T-Shaped Dev | Petar Ivanov | Substack
+ - [https://thetshaped.dev](https://thetshaped.dev)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## @arkhamcookie
+ - [https://theuntitledproject.dev](https://theuntitledproject.dev)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## The Valuable Dev
+ - [https://thevaluable.dev](https://thevaluable.dev)
+ - date_published: 2023-10-25T18:42:57.493336+00:00
+
+ ## Thin Backend: Instead of manually writing REST API endpoints or GraphQL resolvers you can use a Thin Backend server to automatically get a fully featured API backend.
+ - [https://thin.dev](https://thin.dev)
+ - date_published: 2024-06-16T01:03:59.774785+00:00
+
+ ## home @ thinliquid's [studio]
+ - [https://thinliquid.dev](https://thinliquid.dev)
+ - date_published: 2024-10-29T09:27:52.153536+00:00
+
+ ## Thomas Philippot
+ - [https://thomas-philippot.dev](https://thomas-philippot.dev)
+ - date_published: 2024-07-08T10:50:14.792450+00:00
+
+ ## Thomas Ricci - Home
+ - [https://thomasricci.dev](https://thomasricci.dev)
+ - date_published: 2024-10-27T12:15:17.881181+00:00
+
+ ## Thomas SIMON
+ - [https://thomassimon.dev](https://thomassimon.dev)
+ - date_published: 2023-10-25T08:49:00.185996+00:00
+ - tags: ['personal']
+
+ ## https://thorp.dev
+ - [https://thorp.dev](https://thorp.dev)
+ - date_published: 2023-12-18T22:40:03.169679+00:00
+ - tags: ['personal']
+
+ ## Thriv - Future of Work
+ - [https://www.thriv.dev](https://www.thriv.dev)
+ - date_published: 2024-05-04T07:15:57.346911+00:00
+
+ ## thunderseethe's devlog
+ - [https://thunderseethe.dev](https://thunderseethe.dev)
+ - date_published: 2023-10-25T08:58:54.572602+00:00
+ - tags: ['personal']
+
+ ## Meet Panda - TickleThePanda
+ - [https://www.ticklethepanda.dev](https://www.ticklethepanda.dev)
+ - date_published: 2024-08-08T15:24:28.115645+00:00
+
+ ## Tidbyt | Dev
+ - [https://tidbyt.dev](https://tidbyt.dev)
+ - date_published: 2024-05-11T11:18:01.807581+00:00
+
+ ## the archives
+ - [https://archive.tiffanywhite.dev](https://archive.tiffanywhite.dev)
+ - date_published: 2024-07-14T09:54:27.138586+00:00
+
+ ## tiff's blog
+ - [https://tiffanywhite.dev](https://tiffanywhite.dev)
+ - date_published: 2024-05-11T10:22:06.790253+00:00
+
+ ## Tigris Storage
+ - [https://console.tigris.dev](https://console.tigris.dev)
+ - date_published: 2024-05-06T18:19:30.220685+00:00
+
+ ## Tigris Status
+ - [https://status.tigris.dev](https://status.tigris.dev)
+ - date_published: 2024-05-06T18:19:24.260915+00:00
+
+ ## Tigran Hakobyan's personal blog
+ - [https://tik.dev](https://tik.dev)
+ - date_published: 2024-07-02T20:47:32.380491+00:00
+
+ ## PGF/TikZ Manual - Complete Online Documentation
+ - [https://tikz.dev](https://tikz.dev)
+ - date_published: 2024-04-11T10:31:33+00:00
+
+ ## Tilt
+ - [https://tilt.dev](https://tilt.dev)
+ - date_published: 2024-07-12T17:58:17.664956+00:00
+
+ ## Tilting at Windmills
+ - [https://tiltingatwindmills.dev](https://tiltingatwindmills.dev)
+ - date_published: 2023-11-21T11:56:53+00:00
+
+ ## Developer Relations, speaker, NuxtJS Ambassador, Content Creator
+ - [https://timbenniks.dev](https://timbenniks.dev)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Tim Condon
+ - [https://www.timc.dev](https://www.timc.dev)
+ - date_published: 2023-08-17T10:22:42+00:00
+
+ ## timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
+ - [https://timclicks.dev](https://timclicks.dev)
+ - date_published: 2024-04-28T05:59:36.885129+00:00
+
+ ## Tim Eaton  | Home
+ - [https://timeaton.dev](https://timeaton.dev)
+ - date_published: 2024-03-13T20:19:02+00:00
+
+ ## Show HN: Timelock.dev – Send a secret into the future using timelock encryption
+ - [https://timelock.dev](https://timelock.dev)
+ - date_published: 2024-03-10T18:46:19+00:00
+
+ ## Tim's Super Awesome Dev Site
+ - [https://timmorgan.dev](https://timmorgan.dev)
+ - date_published: 2021-06-05T00:00:00+00:00
+
+ ## Timothy Miller || Timothy Miller
+ - [https://timothymiller.dev](https://timothymiller.dev)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Tailwind CSS 11-color Palette Generator and API
+ - [https://tints.dev](https://tints.dev)
+ - date_published: 2024-04-30T02:20:04.142212+00:00
+
+ ## All – Tiny Helpers
+ - [https://tiny-helpers.dev](https://tiny-helpers.dev)
+ - date_published: 2024-07-14T09:23:53.060023+00:00
+
+ ## Tiny Projects
+ - [https://daily.tinyprojects.dev](https://daily.tinyprojects.dev)
+ - date_published: 2024-01-12T17:27:24+00:00
+
+ ## Tiny Projects
+ - [https://tinyprojects.dev](https://tinyprojects.dev)
+ - date_published: 2024-01-12T17:31:03+00:00
+ - tags: ['personal']
+
+ ## Tiptap Cloud
+ - [https://cloud.tiptap.dev](https://cloud.tiptap.dev)
+ - date_published: 2024-08-08T21:20:15.640301+00:00
+
+ ## No problems detected. | Tiptap
+ - [https://status.tiptap.dev](https://status.tiptap.dev)
+ - date_published: 2024-08-08T21:20:20.003619+00:00
+
+ ## Tiptap block editor template
+ - [https://templates.tiptap.dev](https://templates.tiptap.dev)
+ - date_published: 2024-08-08T21:20:14.774749+00:00
+
+ ## Tiptap - Dev Toolkit Editor Suite
+ - [https://tiptap.dev](https://tiptap.dev)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Tyranid's Lair
+ - [https://www.tiraniddo.dev](https://www.tiraniddo.dev)
+ - date_published: 2024-06-05T21:33:02+00:00
+
+ ## tldraw SDK
+ - [https://tldraw.dev](https://tldraw.dev)
+ - date_published: 2024-07-09T19:09:15.792784+00:00
+
+ ## tlock.dev
+ - [https://tlock.dev](https://tlock.dev)
+ - date_published: 2024-04-30T05:41:31.545851+00:00
+
+ ## Home | TLVCommunity
+ - [https://tlvcommunity.dev](https://tlvcommunity.dev)
+ - date_published: 2024-05-08T06:21:32.608787+00:00
+
+ ## Home | Tim Mendez Blog
+ - [https://tmendez.dev](https://tmendez.dev)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## the New Dynamic
+ - [https://www.tnd.dev](https://www.tnd.dev)
+ - date_published: 2021-10-06T00:00:00+00:00
+
+ ## Toast: The Best Place to Stack your JAM
+ - [https://toast.dev](https://toast.dev)
+ - date_published: 2024-06-22T13:59:20.472301+00:00
+
+ ## Home of Todd Libby
+ - [https://toddl.dev](https://toddl.dev)
+ - date_published: 2024-08-06T23:39:38.057547+00:00
+
+ ## toddle - The open-source front-end editor
+ - [https://toddle.dev](https://toddle.dev)
+ - date_published: 2024-09-15T12:25:51.841376+00:00
+
+ ## Toji.dev | Brandon Jones - Graphics and XR on the web
+ - [https://toji.dev](https://toji.dev)
+ - date_published: 2023-10-25T18:42:59.243389+00:00
+
+ ## WEBISTE????????
+ - [https://tominhisroom.dev](https://tominhisroom.dev)
+ - date_published: 2024-06-21T15:16:25+00:00
+
+ ## Tom Large | Developer | home
+ - [https://tomlarge.dev](https://tomlarge.dev)
+ - date_published: 2024-05-11T10:05:15.678783+00:00
+
+ ## Tony Alicea | Udemy and Pluralsight Instructor | JavaScript, HTML, CSS, NodeJS, UX | Tony Alicea
+ - [https://tonyalicea.dev](https://tonyalicea.dev)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## sourceware.org:  Free software!  Get your fresh hot free software!
+ - [https://toolchain.dev](https://toolchain.dev)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Torchlight
+ - [https://app.torchlight.dev](https://app.torchlight.dev)
+ - date_published: 2024-09-09T16:28:20.383408+00:00
+
+ ## Torchlight - the API for Syntax Highlighting
+ - [https://torchlight.dev](https://torchlight.dev)
+ - date_published: 2024-04-30T00:32:50.438654+00:00
+
+ ## Harrison Totty
+ - [https://harrison.totty.dev](https://harrison.totty.dev)
+ - date_published: 2023-10-24T19:42:56+00:00
+ - tags: ['personal']
+
+ ## Tournant UI
+ - [https://ui.tournant.dev](https://ui.tournant.dev)
+ - date_published: 2024-09-04T14:54:45.114669+00:00
+
+ ## toyos.dev :: Home
+ - [https://toyos.dev](https://toyos.dev)
+ - date_published: 2024-08-08T00:00:32.809481+00:00
+
+ ## Tamas Piros - Developer Experience Engineer and Technical Educator
+ - [https://tpiros.dev](https://tpiros.dev)
+ - date_published: 2024-10-20T08:57:39.808628+00:00
+
+ ## Certificate Transparency : Certificate Transparency
+ - [https://certificate.transparency.dev](https://certificate.transparency.dev)
+ - date_published: 2024-04-29T07:19:20.632415+00:00
+
+ ## An open-source append only ledger
+         |
+       Trillian
+ - [https://transparency.dev](https://transparency.dev)
+ - date_published: 2024-07-16T16:18:30+00:00
+
+ ## Treehook - Webhook Relay
+ - [https://treehook.dev](https://treehook.dev)
+ - date_published: 2024-09-19T18:47:21.533793+00:00
+
+ ## Trekhleb | Senior Software Engineer @ Uber. Author of 170k ★️ javascript-algorithms repo on GitHub
+ - [https://trekhleb.dev](https://trekhleb.dev)
+ - date_published: 2024-09-13T07:49:53+00:00
+
+ ## tremblay.dev
+ - [https://tremblay.dev](https://tremblay.dev)
+ - date_published: 2020-01-29T20:50:00+00:00
+
+ ## Trench Demo
+ - [https://demo.trench.dev](https://demo.trench.dev)
+ - date_published: 2024-10-31T20:25:33.519428+00:00
+
+ ## Trickster Dev
+ - [https://www.trickster.dev](https://www.trickster.dev)
+ - date_published: 2024-08-20T09:27:13+00:00
+
+ ## Trigg | Build and Debug Visually. Deploy in Seconds.
+ - [https://trigg.dev](https://trigg.dev)
+ - date_published: 2024-05-09T05:47:56.442005+00:00
+
+ ## Login to Trigger.dev
+ - [https://cloud.trigger.dev](https://cloud.trigger.dev)
+ - date_published: 2024-04-30T02:25:37.011571+00:00
+
+ ## Feedback - Trigger.dev
+ - [https://feedback.trigger.dev](https://feedback.trigger.dev)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Trigger.dev Status
+ - [https://status.trigger.dev](https://status.trigger.dev)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Trigger.dev | The open source background jobs framework
+ - [https://trigger.dev](https://trigger.dev)
+ - date_published: 2023-10-25T08:34:42.404388+00:00
+
+ ## pecunia.trilab.dev
+ - [https://pecunia.trilab.dev](https://pecunia.trilab.dev)
+ - date_published: 2024-09-20T06:55:32.455559+00:00
+
+ ## Triplit Demo Environment
+ - [https://demo.triplit.dev](https://demo.triplit.dev)
+ - date_published: 2024-07-22T17:19:29.727926+00:00
+
+ ## Triplit | The Fullstack Database
+ - [https://triplit.dev](https://triplit.dev)
+ - date_published: 2024-04-30T00:29:38.454460+00:00
+
+ ## Trivy Home - Trivy
+ - [https://trivy.dev](https://trivy.dev)
+ - date_published: 2024-06-22T12:26:21.671558+00:00
+
+ ## filiptronicek - Overview
+ - [https://trnck.dev](https://trnck.dev)
+ - date_published: 2024-07-23T23:40:42.299645+00:00
+
+ ## Welcome :: troyv.dev
+ - [https://troyv.dev](https://troyv.dev)
+ - date_published: 2024-05-07T23:23:18.942693+00:00
+
+ ## Trunk: Build, bundle and ship your Rust WASM application to the web
+ - [https://trunkrs.dev](https://trunkrs.dev)
+ - date_published: 2024-07-23T14:15:31+00:00
+
+ ## Trusty by Stacklok - Software Supply Chain Security
+ - [https://www.trustypkg.dev](https://www.trustypkg.dev)
+ - date_published: 2024-10-27T23:18:05.762353+00:00
+
+ ## Truth - Fluent assertions for Java and Android
+ - [https://truth.dev](https://truth.dev)
+ - date_published: 2024-05-04T08:30:46.003932+00:00
+
+ ## trycatch.dev
+ - [https://trycatch.dev](https://trycatch.dev)
+ - date_published: 2023-10-25T09:26:21.531803+00:00
+ - tags: ['personal']
+
+ ## Try Hamilton | Try Hamilton
+ - [https://tryhamilton.dev](https://tryhamilton.dev)
+ - date_published: 2024-04-24T22:49:02+00:00
+
+ ## Nova
+ - [https://trynova.dev](https://trynova.dev)
+ - date_published: 2024-08-27T20:19:32+00:00
+
+ ## TypeScript + Defold
+ - [https://ts-defold.dev](https://ts-defold.dev)
+ - date_published: 2024-08-12T05:23:36+00:00
+
+ ## TSDocs.dev: type docs for any javascript library
+ - [https://tsdocs.dev](https://tsdocs.dev)
+ - date_published: 2023-12-19T16:34:15+00:00
+
+ ## Tim Severien
+ - [https://tsev.dev](https://tsev.dev)
+ - date_published: 2024-07-02T18:36:18.254982+00:00
+
+ ## Tshark | tshark.dev
+ - [https://tshark.dev](https://tshark.dev)
+ - date_published: 2024-04-22T09:21:25+00:00
+ - tags: ['network tool', 'wireshark', 'open source']
+
+ ## Tsia – Bits, Trains, Pixels
+ - [https://tsia.dev](https://tsia.dev)
+ - date_published: 2021-03-21T00:00:00+00:00
+
+ ## tufo's site
+ - [https://tufo.dev](https://tufo.dev)
+ - date_published: 2024-10-27T11:43:04+00:00
+
+ ## Tunnel - Bug reporting infrastructure for software comapanies
+ - [https://tunnel.dev](https://tunnel.dev)
+ - date_published: 2024-07-23T22:46:24.044533+00:00
+
+ ## tunnelto.dev -- expose your local web server to the internet with a public URL
+ - [https://tunnelto.dev](https://tunnelto.dev)
+ - date_published: 2024-06-23T03:30:23.261779+00:00
+
+ ## Tushar Sadhwani
+ - [https://tusharsadhwani.dev](https://tusharsadhwani.dev)
+ - date_published: 2024-03-12T10:29:33+00:00
+
+ ## Tvix – A New Implementation of Nix
+ - [https://tvix.dev](https://tvix.dev)
+ - date_published: 2024-04-16T21:51:27+00:00
+ - tags: ['open source', 'package manager']
+
+ ## Twitter Open Source
+ - [https://opensource.twitter.dev](https://opensource.twitter.dev)
+ - date_published: 2024-05-04T15:34:57.381300+00:00
+ - tags: ['open source']
+
+ ## Plausible · Web analytics
+ - [https://plausible.apps.twoducks.dev](https://plausible.apps.twoducks.dev)
+ - date_published: 2024-07-10T11:07:42.576152+00:00
+
+ ## TXT
+ - [https://txt.dev](https://txt.dev)
+ - date_published: 2024-07-09T19:28:28.132244+00:00
+
+ ## eye - Cloudflare Images Relay
+ - [https://i.tycrek.dev](https://i.tycrek.dev)
+ - date_published: 2024-07-19T15:05:27.339590+00:00
+
+ ## Tyler Pfledderer | Web Developer
+ - [https://tylerpweb.dev](https://tylerpweb.dev)
+ - date_published: 2024-06-23T08:13:23.940181+00:00
+
+ ## Typecraft Dev
+ - [https://learn.typecraft.dev](https://learn.typecraft.dev)
+ - date_published: 2024-07-02T20:21:13.700837+00:00
+
+ ## typecraft
+ - [https://www.typecraft.dev](https://www.typecraft.dev)
+ - date_published: 2024-09-04T12:35:24.673337+00:00
+
+ ## Next.js
+ - [https://og.typehero.dev](https://og.typehero.dev)
+ - date_published: 2024-05-10T05:57:53.362169+00:00
+
+ ## Typehero: All you need to become a TypeScript menace
+ - [https://typehero.dev](https://typehero.dev)
+ - date_published: 2023-12-04T03:53:55+00:00
+
+ ## TypL
+ - [https://typl.dev](https://typl.dev)
+ - date_published: 2020-07-06T17:34:18+00:00
+
+ ## Tyrel's Git Files
+ - [https://gitea.tyrel.dev](https://gitea.tyrel.dev)
+ - date_published: 2024-04-30T02:25:40.431460+00:00
+
+ ## Tyrel Souza's Website
+ - [https://tyrel.dev](https://tyrel.dev)
+ - date_published: 2024-01-14T08:12:19.493787+00:00
+
+ ## tyrone.dev
+ - [https://tyrone.dev](https://tyrone.dev)
+ - date_published: 2024-05-09T08:15:44.392328+00:00
+
+ ## UaStar - Web Software Development and DevOps Services
+ - [https://uastar.dev](https://uastar.dev)
+ - date_published: 2024-10-19T23:36:07.864509+00:00
+
+ ## ublog - @ubugeeei blog
+ - [https://ublog.dev](https://ublog.dev)
+ - date_published: 2024-07-09T06:27:08.656111+00:00
+
+ ## Introduction | TIL - Today I Learned
+ - [https://til.ugross.dev](https://til.ugross.dev)
+ - date_published: 2024-07-14T10:08:46.473442+00:00
+
+ ## Rostyslav Ugryniuk - Front-end Developer
+ - [https://ugross.dev](https://ugross.dev)
+ - date_published: 2024-05-11T10:23:33.224211+00:00
+
+ ## ui.dev | JavaScript, but fun.
+ - [https://ui.dev](https://ui.dev)
+ - date_published: 2024-05-06T21:26:14.650961+00:00
+
+ ## Ujjwal Goel
+ - [https://ujjwal.dev](https://ujjwal.dev)
+ - date_published: 2023-10-25T08:49:01.473893+00:00
+ - tags: ['personal']
+
+ ## ula bitinaitis
+ - [https://www.ulabit.dev](https://www.ulabit.dev)
+ - date_published: 2024-06-21T23:55:28+00:00
+
+ ## unc0ver
+ - [https://unc0ver.dev](https://unc0ver.dev)
+ - date_published: 2024-07-22T11:36:42.009206+00:00
+
+ ## Dashboard | umami
+ - [https://analytik.uncenter.dev](https://analytik.uncenter.dev)
+ - date_published: 2024-07-02T18:30:11.488813+00:00
+
+ ## uncenter.dev
+ - [https://uncenter.dev](https://uncenter.dev)
+ - date_published: 2024-05-07T23:11:16.535844+00:00
+
+ ## Newsletter for Front-end Devs & UX/UI Designers
+ - [https://unicornclub.dev](https://unicornclub.dev)
+ - date_published: 2024-06-20T07:00:13.647416+00:00
+
+ ## Uniform's Visual Workspace for Enterprise Digital Teams
+ - [https://uniform.dev](https://uniform.dev)
+ - date_published: 2024-06-26T14:19:09.991169+00:00
+
+ ## Unit Zero Stagenet blockchain explorer - View Unit Zero Stagenet stats | Blockscout
+ - [https://explorer-stagenet.unit0.dev](https://explorer-stagenet.unit0.dev)
+ - date_published: 2024-09-23T19:52:20.696588+00:00
+
+ ## Unit Zero Testnet blockchain explorer - View Unit Zero Testnet stats
+ - [https://explorer-testnet.unit0.dev](https://explorer-testnet.unit0.dev)
+ - date_published: 2024-09-23T15:21:16.777904+00:00
+
+ ## Unkey
+ - [https://unkey.dev](https://unkey.dev)
+ - date_published: 2024-06-22T17:26:25.786795+00:00
+
+ ## Unlighthouse
+ - [https://inspect.unlighthouse.dev](https://inspect.unlighthouse.dev)
+ - date_published: 2024-04-30T02:25:48.403889+00:00
+
+ ## Unlighthouse - Site-wide Google Lighthouse · Unlighthouse
+ - [https://unlighthouse.dev](https://unlighthouse.dev)
+ - date_published: 2023-10-25T18:43:02.237015+00:00
+
+ ## UnoCSS: The instant on-demand Atomic CSS engine
+ - [https://unocss.dev](https://unocss.dev)
+ - date_published: 2024-09-04T11:16:52.143746+00:00
+
+ ## Unovis
+ - [https://unovis.dev](https://unovis.dev)
+ - date_published: 2023-10-25T18:43:05.156320+00:00
+
+ ## Unravelled Development
+ - [https://unravelled.dev](https://unravelled.dev)
+ - date_published: 2023-10-25T18:43:07.018711+00:00
+
+ ## Nishu Goel - Product Engineer @Epilot, Web Google Developer Expert, Microsoft MVP
+ - [https://unravelweb.dev](https://unravelweb.dev)
+ - date_published: 2024-03-24T20:22:33.316186+00:00
+ - tags: ['personal']
+
+ ## Federico Vitale - Resume
+ - [https://resume.untitled.dev](https://resume.untitled.dev)
+ - date_published: 2024-07-14T08:41:07.615053+00:00
+
+ ## Unzip.dev - Developer trends newsletter
+ - [https://unzip.dev](https://unzip.dev)
+ - date_published: 2023-10-25T18:43:08.774440+00:00
+
+ ## Uptrace
+ - [https://app.uptrace.dev](https://app.uptrace.dev)
+ - date_published: 2023-10-25T18:43:14.827578+00:00
+
+ ## Bun: SQL client for Golang
+ - [https://bun.uptrace.dev](https://bun.uptrace.dev)
+ - date_published: 2023-05-11T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://get.uptrace.dev](https://get.uptrace.dev)
+ - date_published: 2023-06-27T11:51:09+00:00
+
+ ## MessagePack encoding for Go
+ - [https://msgpack.uptrace.dev](https://msgpack.uptrace.dev)
+ - date_published: 2021-10-04T00:00:00+00:00
+
+ ## Uptrace: Open Source Observability Platform
+ - [https://uptrace.dev](https://uptrace.dev)
+ - date_published: 2024-07-02T12:27:40+00:00
+
+ ## urban style engineering
+ - [https://urbanisierung.dev](https://urbanisierung.dev)
+ - date_published: 2024-05-11T10:06:45.075450+00:00
+
+ ## User Persona | Free AI-Powered Personas in Seconds
+ - [https://userpersona.dev](https://userpersona.dev)
+ - date_published: 2024-06-19T19:35:44.524852+00:00
+
+ ## Utix
+ - [https://utix.dev](https://utix.dev)
+ - date_published: 2023-07-11T14:04:35+00:00
+
+ ## Find Hacker News candidates and jobs powered by ChatGPT
+ - [https://hnjobs.u-turn.dev](https://hnjobs.u-turn.dev)
+ - date_published: 2023-11-01T15:43:46.245419+00:00
+
+ ## v0 by Vercel
+ - [https://v0.dev](https://v0.dev)
+ - date_published: 2024-05-06T21:41:02.873338+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.v17.dev](https://analytics.v17.dev)
+ - date_published: 2024-07-18T06:57:33.949778+00:00
+
+ ## V8 JavaScript engine
+ - [https://v8.dev](https://v8.dev)
+ - date_published: 2023-10-25T18:43:16.107391+00:00
+ - tags: ['open source', 'javascript engine', 'javascript', 'webassembly']
+
+ ## About Vac | Vac Research
+ - [https://vac.dev](https://vac.dev)
+ - date_published: 2024-08-27T15:37:36+00:00
+
+ ## Douglas Vaghetti
+ - [https://vaghetti.dev](https://vaghetti.dev)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Vala Documentation
+ - [https://docs.vala.dev](https://docs.vala.dev)
+ - date_published: 2024-06-13T21:39:02+00:00
+
+ ## Vala Programming Language
+ - [https://vala.dev](https://vala.dev)
+ - date_published: 2024-04-08T12:44:57+00:00
+ - tags: ['programming language']
+
+ ## The Vale programming language
+ - [https://vale.dev](https://vale.dev)
+ - date_published: 2023-12-29T05:00:00+00:00
+
+ ## Hylo | The Hylo Programming Language
+ - [https://val-lang.dev](https://val-lang.dev)
+ - date_published: 2023-10-25T18:43:18.033836+00:00
+
+ ## a (mostly) pointless blog
+ - [https://blog.vamc19.dev](https://blog.vamc19.dev)
+ - date_published: 2024-11-06T14:14:19.232282+00:00
+ - tags: ['personal']
+
+ ## \/\/\/\/\/\/ vamist \/\/\/\/\/\/
+ - [https://vamist.dev](https://vamist.dev)
+ - date_published: 2024-07-30T18:37:14+00:00
+
+ ## Zowie van Dillen
+ - [https://z.vandillen.dev](https://z.vandillen.dev)
+ - date_published: 2023-10-25T18:43:19.713621+00:00
+
+ ## vangemert
+ - [https://www.vangemert.dev](https://www.vangemert.dev)
+ - date_published: 2024-09-07T19:07:21+00:00
+
+ ## Vasilis
+ - [https://vasi.dev](https://vasi.dev)
+ - date_published: 2024-08-06T05:13:05.757567+00:00
+
+ ## Vasilika Klimova
+ - [https://vasilika.dev](https://vasilika.dev)
+ - date_published: 2024-08-24T01:05:14+00:00
+
+ ## Random Thoughts
+ - [https://vcsjones.dev](https://vcsjones.dev)
+ - date_published: 2024-05-01T03:46:25.058518+00:00
+
+ ## Join the Vector Discord Server!
+ - [https://chat.vector.dev](https://chat.vector.dev)
+ - date_published: 2024-04-30T02:26:22.976992+00:00
+
+ ## Vector
+ - [https://vector.dev](https://vector.dev)
+ - date_published: 2024-02-08T12:21:52.860550+00:00
+
+ ## Vencord
+ - [https://vencord.dev](https://vencord.dev)
+ - date_published: 2024-10-22T22:03:09.488947+00:00
+
+ ## Vee's Site
+ - [https://vendicated.dev](https://vendicated.dev)
+ - date_published: 2024-06-19T02:24:41.526125+00:00
+
+ ## Discord User Widget
+ - [https://widgets.vendicated.dev](https://widgets.vendicated.dev)
+ - date_published: 2024-10-27T12:14:41.800609+00:00
+
+ ## verbosemode | Mirco | Substack
+ - [https://verbosemode.dev](https://verbosemode.dev)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## https://verdagon.dev
+ - [https://verdagon.dev](https://verdagon.dev)
+ - date_published: 2024-01-09T02:57:36.072519+00:00
+
+ ## Verdant
+ - [https://verdant.dev](https://verdant.dev)
+ - date_published: 2024-04-30T00:30:01.885698+00:00
+
+ ## Presentation Debugger
+ - [https://present.verifiablecredentials.dev](https://present.verifiablecredentials.dev)
+ - date_published: 2024-04-30T02:26:58.180774+00:00
+
+ ## Verifiable Credentials
+ - [https://verifiablecredentials.dev](https://verifiablecredentials.dev)
+ - date_published: 2023-10-25T18:43:28.655087+00:00
+
+ ## Vinícius Cardoso - Blog pessoal
+ - [https://vfcardoso.dev](https://vfcardoso.dev)
+ - date_published: 2023-07-09T06:23:20+00:00
+
+ ## VGV Dev | Developer Tools & Resources by Very Good Ventures
+ - [https://vgv.dev](https://vgv.dev)
  - date_published: 2024-06-12T00:00:00+00:00
 
- ## MIT Open Learning brings Online Learning to MIT and the world
- - [https://odl.mit.edu](https://odl.mit.edu)
- - date_published: 2024-05-07T19:34:55.639610+00:00
+ ## Viam C++ SDK: Viam C++ SDK
+ - [https://cpp.viam.dev](https://cpp.viam.dev)
+ - date_published: 2024-06-27T16:24:03+00:00
 
- ## Open Encylopedia of Cognitive Science
- - [https://oecs.mit.edu](https://oecs.mit.edu)
- - date_published: 2024-07-01T15:24:47.628564+00:00
+ ## viam_sdk - Dart API docs
+ - [https://flutter.viam.dev](https://flutter.viam.dev)
+ - date_published: 2024-06-25T18:38:40+00:00
 
- ## Office of Graduate Education
- - [https://oge.mit.edu](https://oge.mit.edu)
- - date_published: 2024-07-01T01:46:18.166906+00:00
+ ## Viam Python SDK — Viam Python SDK  documentation
+ - [https://python.viam.dev](https://python.viam.dev)
+ - date_published: 2024-06-25T18:32:21+00:00
 
- ## Computational Perception & Cognition
- - [http://olivalab.mit.edu](http://olivalab.mit.edu)
- - date_published: 2023-11-22T02:32:35+00:00
+ ## Viam SDK
+ - [https://ts.viam.dev](https://ts.viam.dev)
+ - date_published: 2024-06-25T19:11:03+00:00
 
- ## Open Access
- - [https://openaccesseks.mitpress.mit.edu](https://openaccesseks.mitpress.mit.edu)
- - date_published: 2024-01-21T00:00:00+00:00
+ ## Vicky Bhandari - Web & Front End Developer from India 🇮🇳
+ - [https://vicky.dev](https://vicky.dev)
+ - date_published: 2024-06-07T00:00:00+00:00
 
- ## Home - MIT Open Documentary Lab
- - [http://opendoclab.mit.edu](http://opendoclab.mit.edu)
- - date_published: 2024-06-22T11:01:17.418273+00:00
+ ## victoria.dev
+ - [https://victoria.dev](https://victoria.dev)
+ - date_published: 2023-10-25T09:26:22.317356+00:00
+ - tags: ['personal']
 
- ## MIT Open Learning brings Online Learning to MIT and the world
- - [https://openlearning-dev.mit.edu](https://openlearning-dev.mit.edu)
- - date_published: 2024-07-14T15:23:47.259305+00:00
+ ## Victor Pierre
+ - [https://victorpierre.dev](https://victorpierre.dev)
+ - date_published: 2024-02-17T00:00:00+00:00
 
- ## Welcome! | Open Learning
- - [https://openlearning-intranet.mit.edu](https://openlearning-intranet.mit.edu)
- - date_published: 2024-05-11T11:37:20.490684+00:00
+ ## Vieb - Vim bindings for the web by design
+ - [https://vieb.dev](https://vieb.dev)
+ - date_published: 2024-01-04T11:07:27+00:00
 
- ## MIT Open Learning Library | Open Learning
- - [https://openlearninglibrary.mit.edu](https://openlearninglibrary.mit.edu)
- - date_published: 2024-03-26T19:30:53.109672+00:00
- - tags: ['digital library', 'internet archive']
+ ## Vike
+ - [https://vike.dev](https://vike.dev)
+ - date_published: 2024-05-07T10:56:10.378926+00:00
 
- ## MIT Open Learning brings Online Learning to MIT and the world
- - [https://openlearning.mit.edu](https://openlearning.mit.edu)
- - date_published: 2024-05-07T19:33:36.409985+00:00
+ ## The V word
+ - [https://vikky.dev](https://vikky.dev)
+ - date_published: 2024-10-30T09:02:53.401917+00:00
 
- ## Operations Research Center
- - [https://orc.mit.edu](https://orc.mit.edu)
- - date_published: 2024-08-08T02:57:04+00:00
+ ## Home | vili.dev
+ - [https://vili.dev](https://vili.dev)
+ - date_published: 2024-08-02T14:27:36+00:00
 
- ## MIT Office of the Vice Chancellor | Advancing academic innovation at MIT
- - [https://ovc.mit.edu](https://ovc.mit.edu)
- - date_published: 2024-07-01T15:00:25.967783+00:00
+ ## home
+ - [https://vimproved.dev](https://vimproved.dev)
+ - date_published: 2024-06-23T09:06:14+00:00
 
- ## Perspective Plane Program Induction from a Single Image
- - [http://p3i.csail.mit.edu](http://p3i.csail.mit.edu)
- - date_published: 2020-10-20T01:05:28+00:00
+ ## Vincents.dev
+ - [https://vincentsg.dev](https://vincentsg.dev)
+ - date_published: 2024-01-01T06:20:20.098022+00:00
 
- ## Paint by Word
- - [http://paintbyword.csail.mit.edu](http://paintbyword.csail.mit.edu)
- - date_published: 2023-03-29T20:46:13+00:00
+ ## Introduction | Vircadia Developer Documentation
+ - [https://docs.vircadia.dev](https://docs.vircadia.dev)
+ - date_published: 2024-05-27T14:49:30+00:00
 
- ## parts.mit.edu is no more
- - [http://parts.mit.edu](http://parts.mit.edu)
- - date_published: 2015-10-23T15:09:25+00:00
+ ## Visibly
+ - [https://visibly.dev](https://visibly.dev)
+ - date_published: 2023-10-25T18:43:30.995597+00:00
 
- ## The Art and Science of PCB Design
- - [https://pcb.mit.edu](https://pcb.mit.edu)
- - date_published: 2023-12-30T01:59:09+00:00
+ ## VisionScript - VisionScript Documentation
+ - [https://visionscript.dev](https://visionscript.dev)
+ - date_published: 2023-10-25T18:43:37.995056+00:00
 
- ## MIT CSAIL Parallel and Distributed Operating Systems Group
- - [https://pdos.csail.mit.edu](https://pdos.csail.mit.edu)
- - date_published: 2023-10-25T18:54:29.573498+00:00
+ ## The Visual Framework for life science websites
+ - [https://latest.visual-framework.dev](https://latest.visual-framework.dev)
+ - date_published: 2024-05-20T00:00:00+00:00
 
- ## People | MIT CSAIL
- - [https://people.csail.mit.edu](https://people.csail.mit.edu)
- - date_published: 2023-10-25T18:54:31.453216+00:00
+ ## The Visual Framework for life science websites
+ - [https://stable.visual-framework.dev](https://stable.visual-framework.dev)
+ - date_published: 2024-05-02T00:00:00+00:00
 
- ## Persci – Perceptual Science Group @ MIT
- - [https://persci.mit.edu](https://persci.mit.edu)
- - date_published: 2024-05-08T03:58:05.753777+00:00
+ ## Loading...
+ - [https://vitebook.dev](https://vitebook.dev)
+ - date_published: 2024-06-22T23:32:31.994057+00:00
 
- ## Program Guided Image Manipulators
- - [http://pgim.csail.mit.edu](http://pgim.csail.mit.edu)
- - date_published: 2020-10-20T01:05:52+00:00
+ ## Join the Vite Land Discord Server!
+ - [https://chat.vitejs.dev](https://chat.vitejs.dev)
+ - date_published: 2024-08-16T20:07:53+00:00
+
+ ## Vite
+ - [https://cn.vitejs.dev](https://cn.vitejs.dev)
+ - date_published: 2024-08-19T03:52:24.401203+00:00
+
+ ## Vite
+ - [https://de.vitejs.dev](https://de.vitejs.dev)
+ - date_published: 2024-08-19T03:52:25.548669+00:00
+
+ ## Vite
+ - [https://es.vitejs.dev](https://es.vitejs.dev)
+ - date_published: 2024-08-19T03:52:29.090270+00:00
+
+ ## Vite
+ - [https://ja.vitejs.dev](https://ja.vitejs.dev)
+ - date_published: 2024-08-19T03:52:23.648333+00:00
+
+ ## Vite
+ - [https://ko.vitejs.dev](https://ko.vitejs.dev)
+ - date_published: 2024-08-19T03:52:22.522068+00:00
+
+ ## Vite
+ - [https://pt.vitejs.dev](https://pt.vitejs.dev)
+ - date_published: 2024-08-19T03:52:26.636386+00:00
+
+ ## Vite
+ - [https://v2.vitejs.dev](https://v2.vitejs.dev)
+ - date_published: 2024-08-19T03:52:27.368546+00:00
+
+ ## Vite
+ - [https://v3.vitejs.dev](https://v3.vitejs.dev)
+ - date_published: 2024-08-19T03:52:31.324964+00:00
+
+ ## Vite
+ - [https://v4.vitejs.dev](https://v4.vitejs.dev)
+ - date_published: 2024-08-19T03:52:28.413436+00:00
+
+ ## Vite | Next Generation Frontend Tooling
+ - [https://vitejs.dev](https://vitejs.dev)
+ - date_published: 2023-10-25T18:43:39.671574+00:00
+ - tags: ['typescript', 'web server']
+
+ ## VitePress | Vite & Vue Powered Static Site Generator
+ - [https://vitepress.dev](https://vitepress.dev)
+ - date_published: 2024-05-11T09:09:56.419559+00:00
+
+ ## Join the Vitest Dev Discord Server!
+ - [https://chat.vitest.dev](https://chat.vitest.dev)
+ - date_published: 2024-07-23T22:31:05.817222+00:00
+
+ ## Vitest
+ - [https://cn.vitest.dev](https://cn.vitest.dev)
+ - date_published: 2024-07-23T22:31:06.976746+00:00
+
+ ## Vitest
+ - [https://main.vitest.dev](https://main.vitest.dev)
+ - date_published: 2024-07-23T22:31:08.264634+00:00
+
+ ## Vitest
+ - [https://v0.vitest.dev](https://v0.vitest.dev)
+ - date_published: 2024-07-23T22:31:03.324268+00:00
+
+ ## Vitest
+ - [https://v1.vitest.dev](https://v1.vitest.dev)
+ - date_published: 2024-07-23T22:31:04.565635+00:00
+
+ ## Vitest
+ - [https://vitest.dev](https://vitest.dev)
+ - date_published: 2024-04-29T07:32:05.022845+00:00
+
+ ## vitoo
+ - [https://vitoo.dev](https://vitoo.dev)
+ - date_published: 2024-07-08T22:24:05.387106+00:00
+
+ ## viveknathani - home
+ - [https://vivekn.dev](https://vivekn.dev)
+ - date_published: 2024-07-29T19:30:44+00:00
+
+ ## Vocode - Open source voice AI agents
+ - [https://www.vocode.dev](https://www.vocode.dev)
+ - date_published: 2024-08-07T17:59:43.868203+00:00
+
+ ## Vonage API Developer
+ - [https://vonage.dev](https://vonage.dev)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## VR向け3Dアバターファイルフォーマット | VRM
+ - [https://vrm.dev](https://vrm.dev)
+ - date_published: 2024-10-25T05:53:06+00:00
+
+ ## Visual Studio Code for the Web
+ - [https://vscode.dev](https://vscode.dev)
+ - date_published: 2024-01-09T02:57:37.976917+00:00
+
+ ## Vuestic UI — Vue.js 3.0 UI Framework
+ - [https://ui.vuestic.dev](https://ui.vuestic.dev)
+ - date_published: 2024-09-04T14:53:14.352587+00:00
+
+ ## Vue Vine
+ - [https://vue-vine.dev](https://vue-vine.dev)
+ - date_published: 2024-07-14T14:23:40.819781+00:00
+
+ ## Lane's Blog
+ - [https://wagslane.dev](https://wagslane.dev)
+ - date_published: 2023-10-25T18:43:41.490625+00:00
+
+ ## Wakapi - Coding Statistics
+ - [https://wakapi.dev](https://wakapi.dev)
+ - date_published: 2024-06-19T22:09:57.508398+00:00
+
+ ## Walid Ziouche
+ - [https://walid.dev](https://walid.dev)
+ - date_published: 2023-10-25T18:43:48.534864+00:00
+
+ ## Wan Ahmad Lutfi iOS Developer | Wan Ahmad Lutfi iOS Developer
+ - [https://wanlutfi.dev](https://wanlutfi.dev)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Warp
+ - [https://app.warp.dev](https://app.warp.dev)
+ - date_published: 2024-04-30T02:28:45.774531+00:00
+
+ ## What is Warp? | Warp Documentation
+ - [https://docs.warp.dev](https://docs.warp.dev)
+ - date_published: 2024-04-30T02:28:46.859403+00:00
+
+ ## Warp Status
+ - [https://status.warp.dev](https://status.warp.dev)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Warp: Your terminal, reimagined
+ - [https://warp.dev](https://warp.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+ - tags: ['terminal', 'cli tool', 'application']
+
+ ## Warrant - Authorization & Access Control Infrastructure for Developers
+ - [https://app.warrant.dev](https://app.warrant.dev)
+ - date_published: 2024-04-30T02:29:19.510671+00:00
+
+ ## Warrant Blog | Warrant Blog
+ - [https://blog.warrant.dev](https://blog.warrant.dev)
+ - date_published: 2023-10-25T18:44:06.101677+00:00
+
+ ## Warrant Demo App
+ - [https://demo.warrant.dev](https://demo.warrant.dev)
+ - date_published: 2024-04-30T02:29:20.083309+00:00
+
+ ## Introduction | Warrant Docs
+ - [https://docs.warrant.dev](https://docs.warrant.dev)
+ - date_published: 2024-04-30T02:29:17.547194+00:00
+
+ ## Warrant | Trust Center
+ - [https://security.warrant.dev](https://security.warrant.dev)
+ - date_published: 2024-04-30T02:29:21.460593+00:00
+
+ ## Warrant | Authorization & Access Control Infrastructure for Developers
+ - [https://warrant.dev](https://warrant.dev)
+ - date_published: 2024-04-30T02:29:16.616712+00:00
+
+ ## Washi
+ - [https://blog.washi.dev](https://blog.washi.dev)
+ - date_published: 2023-10-25T18:44:10.022725+00:00
+
+ ## Introduction | WASI.dev
+ - [https://wasi.dev](https://wasi.dev)
+ - date_published: 2024-06-21T22:07:14+00:00
+
+ ## Wasm By Example
+ - [https://wasmbyexample.dev](https://wasmbyexample.dev)
+ - date_published: 2023-11-15T15:16:15.958415+00:00
+
+ ## wasmCloud.com Redirect
+ - [https://wasmcloud.dev](https://wasmcloud.dev)
+ - date_published: 2024-05-09T08:43:46.629117+00:00
+
+ ## WasmFX: Effect Handlers for WebAssembly
+ - [https://wasmfx.dev](https://wasmfx.dev)
+ - date_published: 2023-11-07T23:04:21+00:00
+
+ ## Wasm Labs at VMware OCTO
+ - [https://wasmlabs.dev](https://wasmlabs.dev)
+ - date_published: 2023-10-25T18:44:11.962330+00:00
+
+ ## WordPress in browser / Wasm Labs
+ - [https://wordpress.wasmlabs.dev](https://wordpress.wasmlabs.dev)
+ - date_published: 2024-04-30T02:29:24.395863+00:00
+
+ ## Wasm Workers Server | Wasm Workers Server
+ - [https://workers.wasmlabs.dev](https://workers.wasmlabs.dev)
+ - date_published: 2024-04-30T02:29:23.784801+00:00
+
+ ## Wasmtime
+ - [https://wasmtime.dev](https://wasmtime.dev)
+ - date_published: 2024-05-06T16:08:06+00:00
+
+ ## Wasp
+ - [https://wasp-lang.dev](https://wasp-lang.dev)
+ - date_published: 2023-10-25T18:44:13.919020+00:00
+
+ ## WatermelonDB
+ - [https://watermelondb.dev](https://watermelondb.dev)
+ - date_published: 2023-10-15T18:54:05+00:00
+
+ ## Stephen Watts in Birmingham, Alabama | SEO, Web Strategy, B2B IT | 310-606-9232
+ - [https://watts.dev](https://watts.dev)
+ - date_published: 2024-04-21T13:26:55+00:00
+
+ ## Wave Terminal Blog
+ - [https://blog.waveterm.dev](https://blog.waveterm.dev)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Introduction - Wave Terminal
+ - [https://docs.waveterm.dev](https://docs.waveterm.dev)
+ - date_published: 2024-05-10T05:15:11.027142+00:00
+
+ ## Waveterm
+ - [https://waveterm.dev](https://waveterm.dev)
+ - date_published: 2023-12-10T03:33:48+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.wcedmisten.dev](https://plausible.wcedmisten.dev)
+ - date_published: 2024-07-01T05:12:02.837486+00:00
+
+ ## WeaveDB - NoSQL Database as a Smart Contract
+ - [https://weavedb.dev](https://weavedb.dev)
+ - date_published: 2024-09-04T12:22:32.237494+00:00
+
+ ## PageSpeed Insights
+ - [https://pagespeed.web.dev](https://pagespeed.web.dev)
+ - date_published: 2024-05-04T08:25:46.585361+00:00
+
+ ## web.dev
+ - [https://web.dev](https://web.dev)
+ - date_published: 2023-10-25T18:44:17.767137+00:00
+
+ ## WEB3CON
+ - [https://www.web3con.dev](https://www.web3con.dev)
+ - date_published: 2024-06-22T13:35:42.502978+00:00
+
+ ## Web3Software
+ - [https://web3software.dev](https://web3software.dev)
+ - date_published: 2024-07-03T07:22:28+00:00
+
+ ## WebArena: A Realistic Web Environment for Building Autonomous Agents
+ - [https://webarena.dev](https://webarena.dev)
+ - date_published: 2023-10-25T18:44:21.189861+00:00
+
+ ## webbar.dev
+ - [https://webbar.dev](https://webbar.dev)
+ - date_published: 2023-07-01T10:09:25+00:00
+
+ ## Web Component Essentials - Video Course and EBook - Cory Rylan
+ - [https://webcomponent.dev](https://webcomponent.dev)
+ - date_published: 2023-12-02T17:14:39+00:00
+
+ ## WebExtension Playground
+ - [https://play.web-extensions.dev](https://play.web-extensions.dev)
+ - date_published: 2024-06-23T06:13:36.048951+00:00
+
+ ## Georg Tavonius Webprofil
+ - [https://t.webgeist.dev](https://t.webgeist.dev)
+ - date_published: 2023-06-20T11:46:09+00:00
+
+ ## Webgeist.dev
+ - [https://webgeist.dev](https://webgeist.dev)
+ - date_published: 2023-12-12T23:23:10.380140+00:00
+ - tags: ['personal']
+
+ ## webinstall.dev
+ - [https://webinstall.dev](https://webinstall.dev)
+ - date_published: 2023-12-31T09:06:51+00:00
+
+ ## Jeff Triplett's Micro.blog
+ - [https://micro.webology.dev](https://micro.webology.dev)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## WebRelay - Free Https and TCP tunnels for everyone
+ - [https://webrelay.dev](https://webrelay.dev)
+ - date_published: 2024-09-11T04:32:19+00:00
+
+ ## web-scraping.dev
+ - [http://web-scraping.dev](http://web-scraping.dev)
+ - date_published: 2024-10-28T00:21:20.708614+00:00
+
+ ## New Website Tutorials - WordPress Website Help, Tutorials, Courses, and More!
+ - [https://websitewizard.dev](https://websitewizard.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## NPTV - Niezależna Polska TV Rodacy Kamraci, Jabłonowski, Olszański, Osadowski, kamraci, rodacy, żywiec, wiec, marsz,
+ - [https://k0fssq.webwave.dev](https://k0fssq.webwave.dev)
+ - date_published: 2024-10-17T10:51:32.584911+00:00
+
+ ## Full stack game development
+ - [https://wecan.dev](https://wecan.dev)
+ - date_published: 2024-10-02T09:12:08+00:00
+
+ ## Home | Andy Hippo
+ - [https://werat.dev](https://werat.dev)
+ - date_published: 2023-10-25T18:44:22.806744+00:00
+
+ ## Gustav Westling
+ - [https://westling.dev](https://westling.dev)
+ - date_published: 2023-10-25T18:44:24.486704+00:00
+
+ ## wevm
+ - [https://wevm.dev](https://wevm.dev)
+ - date_published: 2024-06-26T13:57:03.401835+00:00
+
+ - [https://wgrant.dev](https://wgrant.dev)
+ - date_published: 2024-04-08T09:32:59.180181+00:00
+
+ ## whaies.dev
+ - [https://whaies.dev](https://whaies.dev)
+ - date_published: 2023-10-24T00:00:00+00:00
+
+ ## mike wheaton
+ - [https://wheaton.dev](https://wheaton.dev)
+ - date_published: 2024-04-29T07:32:19.694927+00:00
+
+ ## One-click bug reports – whitespace.dev
+ - [https://whitespace.dev](https://whitespace.dev)
+ - date_published: 2024-07-08T16:13:07.877396+00:00
+
+ ## Whizzy - Build Filament apps in seconds, not days.
+ - [https://whizzy.dev](https://whizzy.dev)
+ - date_published: 2024-06-19T02:45:37.052950+00:00
+
+ ## WillAdamsDotDev
+ - [https://willadams.dev](https://willadams.dev)
+ - date_published: 2024-05-11T10:06:46.908496+00:00
+
+ ## willbush
+ - [https://willbush.dev](https://willbush.dev)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Boost your Go/Golang skills. One article at a time.
+ - [https://willem.dev](https://willem.dev)
+ - date_published: 2024-01-06T17:32:27.814127+00:00
+
+ ## Billy Rowell |  CV
+ - [https://williamrowell.dev](https://williamrowell.dev)
+ - date_published: 2024-08-07T03:53:39+00:00
+
+ ## Gitea
+ - [https://git.wilw.dev](https://git.wilw.dev)
+ - date_published: 2024-07-10T07:20:52.954233+00:00
+
+ ## Home | Will Webberley
+ - [https://wilw.dev](https://wilw.dev)
+ - date_published: 2024-05-09T07:59:14.754023+00:00
+
+ ## Windmill Hub
+ - [https://hub.windmill.dev](https://hub.windmill.dev)
+ - date_published: 2024-04-30T02:30:33.378500+00:00
+
+ ## Windmill
+ - [https://windmill.dev](https://windmill.dev)
+ - date_published: 2024-07-22T10:49:56.773035+00:00
+
+ ## Drew Winstel
+ - [https://winstel.dev](https://winstel.dev)
+ - date_published: 2024-03-01T14:12:56+00:00
+
+ ## Grammar, On My Terms
+ - [https://wippler.dev](https://wippler.dev)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## p1g30nh4ck
+ - [https://wittek.dev](https://wittek.dev)
+ - date_published: 2021-02-05T00:00:00+00:00
+
+ ## A corner of the internet for people who love building digital products.
+ - [https://wking.dev](https://wking.dev)
+ - date_published: 2023-11-06T19:19:56.497567+00:00
+
+ ## WMD Blog
+ - [https://blog.wmd.dev](https://blog.wmd.dev)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Wave Motion Digital
+ - [https://wmd.dev](https://wmd.dev)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Women Who Code - Empowering women to excel in tech careers
+ - [https://admin.womenwhocode.dev](https://admin.womenwhocode.dev)
+ - date_published: 2024-06-20T12:54:45.997155+00:00
+
+ ## wonger's website
+ - [https://wonger.dev](https://wonger.dev)
+ - date_published: 2024-05-07T23:28:04.511007+00:00
+
+ ## woob library — woob 3.6 documentation
+ - [https://woob.dev](https://woob.dev)
+ - date_published: 2023-05-23T14:51:22+00:00
+
+ ## Word Wrap
+ - [https://wordwrap.dev](https://wordwrap.dev)
+ - date_published: 2024-07-22T12:50:54.232530+00:00
+
+ ## Counterscale
+ - [https://counterscale.rita.workers.dev](https://counterscale.rita.workers.dev)
+ - date_published: 2024-06-26T21:27:08.270089+00:00
+
+ ## Counterscale: Web Analytics
+ - [https://counterscale.stordahldev.workers.dev](https://counterscale.stordahldev.workers.dev)
+ - date_published: 2024-07-02T19:46:40.718474+00:00
+
+ ## main.dvd3000
+ - [https://main.dvd3000.workers.dev](https://main.dvd3000.workers.dev)
+ - date_published: 2024-07-15T07:04:32.568609+00:00
+
+ ## PostHog
+ - [https://ph.justadd.workers.dev](https://ph.justadd.workers.dev)
+ - date_published: 2023-07-07T00:00:00+00:00
+
+ ## https://readable_techcrunch.mvlab.workers.dev
+ - [https://readable_techcrunch.mvlab.workers.dev](https://readable_techcrunch.mvlab.workers.dev)
+ - date_published: 2024-01-09T02:57:39.772632+00:00
+
+ ## Umami
+ - [https://umami-tr.pt-pt.workers.dev](https://umami-tr.pt-pt.workers.dev)
+ - date_published: 2024-07-02T19:31:03.975644+00:00
+
+ ## Phil Wolstenholme's personal website, blog and portfolio
+ - [https://wolstenhol-no-css.philgw.workers.dev](https://wolstenhol-no-css.philgw.workers.dev)
+ - date_published: 2024-07-02T19:59:05.111850+00:00
+
+ ## Cloudflare Workers©
+ - [https://workers.dev](https://workers.dev)
+ - date_published: 2024-07-12T17:58:22.497100+00:00
+
+ ## workingsoftware.dev
+ - [https://workingsoftware.dev](https://workingsoftware.dev)
+ - date_published: 2024-07-22T10:49:30.936822+00:00
+
+ ## Workpad
+ - [https://workpad.dev](https://workpad.dev)
+ - date_published: 2024-06-22T13:44:46.567224+00:00
+
+ ## WeAreDevelopers World Congress • July 2024 • Berlin, Germany
+ - [https://worldcongress.dev](https://worldcongress.dev)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## go.wppool.dev - domain configured to handle links from cutt.ly - Link Management Platform
+ - [https://go.wppool.dev](https://go.wppool.dev)
+ - date_published: 2024-10-28T06:34:57.901315+00:00
+
+ ## WPTurbo - Generate WordPress code snippets blazing fast.
+ - [https://wpturbo.dev](https://wpturbo.dev)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Matt's Dev Log
+ - [https://matt.writefreely.dev](https://matt.writefreely.dev)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## WSCP's blog
+ - [https://wscp.dev](https://wscp.dev)
+ - date_published: 2024-01-09T01:38:06.059471+00:00
+
+ ## WeaveVM blockchain explorer - View WeaveVM stats
+ - [https://explorer.wvm.dev](https://explorer.wvm.dev)
+ - date_published: 2024-09-24T03:44:48.392295+00:00
+
+ ## WeaveVM | The hyperscalable EVM network on Arweave
+ - [https://wvm.dev](https://wvm.dev)
+ - date_published: 2024-09-24T06:27:57.829826+00:00
+
+ ## News, Resources and Articles, Templates about Web-Development
+ - [https://wweb.dev](https://wweb.dev)
+ - date_published: 2024-10-22T19:23:03.504263+00:00
+
+ ## Next-gen Web Extension Framework – WXT
+ - [https://wxt.dev](https://wxt.dev)
+ - date_published: 2024-09-02T09:51:10.069893+00:00
+
+ ## Arx Chess
+ - [https://arx.wyczawski.dev](https://arx.wyczawski.dev)
+ - date_published: 2024-09-02T09:51:18.940391+00:00
+
+ ## dotMorten | .NET Ramblings, XAML hacking and some GIS endeavors
+ - [https://xaml.dev](https://xaml.dev)
+ - date_published: 2023-10-25T08:59:01.383042+00:00
+ - tags: ['personal']
+
+ ## Homepage | National Axial Spondyloarthritis Society
+ - [https://nass.xarma.dev](https://nass.xarma.dev)
+ - date_published: 2024-09-17T00:43:53.691773+00:00
+
+ ## Xarray documentation
+ - [https://docs.xarray.dev](https://docs.xarray.dev)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## XD1 Log entries. Begin... Â· Hyprland crash course
+ - [https://xd1.dev](https://xd1.dev)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Developers Forum for XinFin XDC Network
+ - [https://xdc.dev](https://xdc.dev)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## xDSL
+ - [https://xdsl.dev](https://xdsl.dev)
+ - date_published: 2024-02-06T11:59:14+00:00
+
+ ## XINF
+ - [https://xinf.dev](https://xinf.dev)
+ - date_published: 2023-10-25T18:44:30.785844+00:00
+
+ ## Xinto's web
+ - [https://xinto.dev](https://xinto.dev)
+ - date_published: 2024-01-31T17:06:50+00:00
+
+ ## Hello World! · Kostas "xkon" Xenos
+ - [https://xkon.dev](https://xkon.dev)
+ - date_published: 2024-03-12T21:13:45+00:00
+
+ ## Djinni
+ - [https://djinni.xlcpp.dev](https://djinni.xlcpp.dev)
+ - date_published: 2023-10-23T20:47:02+00:00
+
+ ## Xbox One Research Wiki
+ - [https://xosft.dev](https://xosft.dev)
+ - date_published: 2024-05-07T09:43:41.420234+00:00
+
+ ## XPLAVerse-Mainnet XPLAVerse-Mainnet Explorer
+ - [https://explorer-xpla-verse.xpla.dev](https://explorer-xpla-verse.xpla.dev)
+ - date_published: 2024-09-23T19:52:55.380842+00:00
+
+ ## Xr0
+ - [https://xr0.dev](https://xr0.dev)
+ - date_published: 2024-03-28T23:52:22.644430+00:00
+ - tags: ['ansi c', 'personal']
+
+ ## 🌸 katspace 🌸
+ - [https://xtract.dev](https://xtract.dev)
+ - date_published: 2024-06-17T20:08:57+00:00
+
+ ## xy2
+ - [https://xy2.dev](https://xy2.dev)
+ - date_published: 2023-10-25T18:44:33.489903+00:00
+
+ ## Yaky's
+ - [https://yaky.dev](https://yaky.dev)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## yp's home page
+ - [https://yalinpala.dev](https://yalinpala.dev)
+ - date_published: 2024-08-08T15:21:14.926444+00:00
+
+ ## YAML8n | Streamline Your App Localization with Type-Safe Translations
+ - [https://yaml8n.dev](https://yaml8n.dev)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Yarn Spinner
+ - [http://yarnspinner.dev](http://yarnspinner.dev)
+ - date_published: 2024-07-12T22:10:05.841529+00:00
+
+ ## Yasin Miran
+ - [https://www.yasint.dev](https://www.yasint.dev)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Ali Khaleqi Yekta
+ - [https://yekta.dev](https://yekta.dev)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Welcome! - Yiming Chen
+ - [https://yiming.dev](https://yiming.dev)
+ - date_published: 2022-07-12T15:44:04+00:00
+
+ ## Max Yinger ☞ UI Engineer
+ - [https://yinger.dev](https://yinger.dev)
+ - date_published: 2024-05-02T13:27:09.989255+00:00
+ - tags: ['personal']
+
+ ## Yish
+ - [https://yish.dev](https://yish.dev)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Yjs Community
+ - [https://discuss.yjs.dev](https://discuss.yjs.dev)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Introduction | Yjs Docs
+ - [https://docs.yjs.dev](https://docs.yjs.dev)
+ - date_published: 2024-06-23T06:17:28.928913+00:00
+
+ ## Yjs Shared Editing
+ - [https://yjs.dev](https://yjs.dev)
+ - date_published: 2024-04-30T00:30:40.198560+00:00
+
+ ## Tous les posts
+ - [https://blog.yoannfleury.dev](https://blog.yoannfleury.dev)
+ - date_published: 2024-05-11T10:19:04.453247+00:00
+
+ ## Yoann Fleury - Web Developer
+ - [https://yoannfleury.dev](https://yoannfleury.dev)
+ - date_published: 2024-06-23T08:14:36.111500+00:00
+
+ - [https://yobulk.dev](https://yobulk.dev)
+ - date_published: 2024-01-09T02:57:40.846844+00:00
+
+ ## Yoga
+ - [https://www.yogalayout.dev](https://www.yogalayout.dev)
+ - date_published: 2024-06-23T06:03:28.425164+00:00
+
+ ## AI Explained Cartoon Series - 🎨 AI Explained
+ - [https://ai-explained.yoko.dev](https://ai-explained.yoko.dev)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Yonatan's dev blog
+ - [https://blog.yonatan.dev](https://blog.yonatan.dev)
+ - date_published: 2024-06-20T06:59:52.870181+00:00
+ - tags: ['personal']
+
+ ## 🤘Welcome to Yo! Swift | YoSwift!
+ - [https://yoswift.dev](https://yoswift.dev)
+ - date_published: 2021-05-08T08:26:12+00:00
+
+ ## You don't need a modal window
+ - [https://youdontneedamodalwindow.dev](https://youdontneedamodalwindow.dev)
+ - date_published: 2023-10-25T18:44:35.045129+00:00
+
+ ## Hao Qi Wu
+ - [https://yourwaifu.dev](https://yourwaifu.dev)
+ - date_published: 2022-05-25T00:00:00+00:00
+ - tags: ['interesting page design', 'personal']
+
+ ## Introduction - yshui --log-level=trace
+ - [https://trace.yshui.dev](https://trace.yshui.dev)
+ - date_published: 2024-05-10T07:03:10.134857+00:00
+
+ ## ytreza.dev
+ - [https://www.ytreza.dev](https://www.ytreza.dev)
+ - date_published: 2024-07-08T11:02:20.927191+00:00
+
+ ## yuanchuan
+ - [https://yuanchuan.dev](https://yuanchuan.dev)
+ - date_published: 2023-10-25T18:44:37.242773+00:00
+
+ ## Kot
+ - [https://yukata.dev](https://yukata.dev)
+ - date_published: 2024-10-22T22:02:36.835841+00:00
+
+ ## Yves Kalume's Blog
+ - [https://yveskalume.dev](https://yveskalume.dev)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## YYT: eCommerce Agency
+ - [https://yyt.dev](https://yyt.dev)
+ - date_published: 2024-07-02T19:28:59.626848+00:00
+
+ ## Zach Daniel | Substack
+ - [https://www.zachdaniel.dev](https://www.zachdaniel.dev)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## Home | SecWiki
+ - [https://wiki.zacheller.dev](https://wiki.zacheller.dev)
+ - date_published: 2024-05-11T08:24:38.853507+00:00
+
+ ## Zach's Blog
+ - [https://blog.zachpovey.dev](https://blog.zachpovey.dev)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## zackoverflow
+ - [https://zackoverflow.dev](https://zackoverflow.dev)
+ - date_published: 2023-10-25T18:44:39.698343+00:00
+
+ ## zacksiri.dev
+ - [https://zacksiri.dev](https://zacksiri.dev)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## ZakKa.Dev | Full Stack Developer & UX enthusiast
+ - [https://zakka.dev](https://zakka.dev)
+ - date_published: 2024-05-22T02:44:16.627189+00:00
+
+ ## The Stoic Mind
+ - [https://stoic.zaps.dev](https://stoic.zaps.dev)
+ - date_published: 2024-08-08T17:48:04.249447+00:00
+
+ ## Zarar's blog
+ - [https://zarar.dev](https://zarar.dev)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Welcome
+ - [https://zarl.dev](https://zarl.dev)
+ - date_published: 2024-03-01T19:15:36.177869+00:00
+ - tags: ['personal']
+
+ ## Zed - Status
+ - [https://status.zed.dev](https://status.zed.dev)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Zed - Code at the speed of thought
+ - [https://zed.dev](https://zed.dev)
+ - date_published: 2023-10-25T18:44:46.883335+00:00
+ - tags: ['open source', 'programming ide', 'code editor']
+
+ ## ZeldaRET
+ - [https://zelda64.dev](https://zelda64.dev)
+ - date_published: 2024-05-09T09:01:57.255844+00:00
+
+ ## Zellij
+ - [https://zellij.dev](https://zellij.dev)
+ - date_published: 2023-10-25T18:44:48.356849+00:00
+
+ ## Horace
+ - [https://zenhorace.dev](https://zenhorace.dev)
+ - date_published: 2024-03-18T06:25:03+00:00
+
+ ## ZENIQ Documentation | ZENIQ Documentation
+ - [https://www.zeniq.dev](https://www.zeniq.dev)
+ - date_published: 2023-11-07T14:46:31+00:00
+
+ ## What's New in Zenn
+ - [https://info.zenn.dev](https://info.zenn.dev)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Zenn｜エンジニアのための情報共有コミュニティ
+ - [https://zenn.dev](https://zenn.dev)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Praise Be The Code
+ - [https://zennou.dev](https://zennou.dev)
+ - date_published: 2024-05-08T10:45:14.541337+00:00
+
+ ## The Blog of Random
+ - [https://blog.zerolimits.dev](https://blog.zerolimits.dev)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Dashboard - ZeroNet
+ - [https://proxy.zeronet.dev](https://proxy.zeronet.dev)
+ - date_published: 2024-06-23T17:31:25.866667+00:00
+
+ ## Zero
+ - [https://zerosync.dev](https://zerosync.dev)
+ - date_published: 2024-10-04T23:51:23.124919+00:00
+
+ ## Script Writing Software for Storytellers
+ - [http://celtxmaindomain.zesty.dev](http://celtxmaindomain.zesty.dev)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Zeynep Evecen
+ - [https://www.zeynepevecen.dev](https://www.zeynepevecen.dev)
+ - date_published: 2024-08-01T16:18:40.668034+00:00
+ - tags: ['personal']
+
+ ## Zhizhuo (Z) Zhou
+ - [https://www.zhiz.dev](https://www.zhiz.dev)
+ - date_published: 2024-06-22T10:02:10.452822+00:00
+
+ ## Ziggit
+ - [https://ziggit.dev](https://ziggit.dev)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Zilvinas Kucinskas — Ruby on Rails Software Engineer
+ - [https://ziku.dev](https://ziku.dev)
+ - date_published: 2024-05-11T10:18:04.175240+00:00
+
+ ## ZIO Chat
+ - [http://chat.zio.dev](http://chat.zio.dev)
+ - date_published: 2024-07-24T03:17:47.828156+00:00
+
+ ## ZIO | ZIO
+ - [https://zio.dev](https://zio.dev)
+ - date_published: 2024-04-29T07:04:45.531743+00:00
+
+ ## ZipTie - Indexing Intelligence Platform
+ - [https://dashboard.ziptie.dev](https://dashboard.ziptie.dev)
+ - date_published: 2024-06-16T05:36:36.904717+00:00
+
+ ## ZipTie.dev SEO tool
+ - [https://ziptie.dev](https://ziptie.dev)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## ZK Bench
+ - [https://zkbench.dev](https://zkbench.dev)
+ - date_published: 2024-09-21T23:26:32.027060+00:00
+
+ ## zkSync Era Discord Invite
+ - [https://join.zksync.dev](https://join.zksync.dev)
+ - date_published: 2024-09-22T00:01:08.469648+00:00
+
+ ## 🤫🔍 ZKtools.dev - Zero Knowledge Tools for Developers
+ - [https://zktools.dev](https://zktools.dev)
+ - date_published: 2024-09-23T12:20:04.301662+00:00
+
+ ## Zlatko's Photo Site
+ - [https://photos.zlatko.dev](https://photos.zlatko.dev)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Zlatko Đurić
+ - [https://zlatko.dev](https://zlatko.dev)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## TypeScript-first schema validation with static type inference
+ - [https://zod.dev](https://zod.dev)
+ - date_published: 2024-04-29T07:30:39.565510+00:00
+
+ ## Zoo status
+ - [https://status.zoo.dev](https://status.zoo.dev)
+ - date_published: 2024-04-30T02:31:55.005519+00:00
+
+ ## Zoo Store
+ - [https://store.zoo.dev](https://store.zoo.dev)
+ - date_published: 2024-04-30T02:31:56.607242+00:00
+
+ ## Zoo: Home
+ - [https://zoo.dev](https://zoo.dev)
+ - date_published: 2023-12-20T23:10:16.596825+00:00
+
+ ## Kyoo
+ - [https://kyoo.zoriya.dev](https://kyoo.zoriya.dev)
+ - date_published: 2024-04-06T06:34:50+00:00
+ - tags: ['self-host', 'video streaming app']
+
+ ## Zoe's blog
+ - [https://zoriya.dev](https://zoriya.dev)
+ - date_published: 2024-04-06T06:35:30+00:00
+ - tags: ['personal']
+
+ ## Redirecting
+ - [https://zotregistry.dev](https://zotregistry.dev)
+ - date_published: 2024-05-31T19:11:59+00:00
+
+ ## ZSchoen
+ - [https://zschoen.dev](https://zschoen.dev)
+ - date_published: 2022-06-12T00:00:00+00:00
+
+ ## zuhayr.dev
+ - [https://blog.zuhayr.dev](https://blog.zuhayr.dev)
+ - date_published: 2024-10-28T00:14:58.222493+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://ton.diamonds](https://ton.diamonds)
+ - date_published: 2024-07-04T09:26:51.978599+00:00
+
+ ## .Diet Domain Names | The .Diet Registry
+ - [https://nic.diet](https://nic.diet)
+ - date_published: 2024-10-17T15:07:02.072198+00:00
+
+ ## .Diet Domain Names
+ - [https://xyz.diet](https://xyz.diet)
+ - date_published: 2024-06-17T07:44:31.730133+00:00
+
+ ## 128 Club Webflow Templates
+ - [https://www.128.digital](https://www.128.digital)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Webflow Agency UK - 3SIX5 Webflow Experts
+ - [https://3six5.digital](https://3six5.digital)
+ - date_published: 2024-10-22T15:38:28.976158+00:00
+
+ ## 56
+ - [http://56.digital](http://56.digital)
+ - date_published: 2024-07-13T15:55:53.943983+00:00
+
+ ## 7at7.digital
+ - [https://7at7.digital](https://7at7.digital)
+ - date_published: 2023-03-07T19:25:54+00:00
+
+ ## A1 Digital - European technology service provider for IoT, Cloud,…
+ - [https://www.a1.digital](https://www.a1.digital)
+ - date_published: 2024-07-21T06:36:59.904623+00:00
+
+ ## Award-Winning Digital Marketing Agency
+ - [https://absolute.digital](https://absolute.digital)
+ - date_published: 2024-06-29T12:05:19+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.agefi.digital](https://analytics.agefi.digital)
+ - date_published: 2024-10-14T21:40:40.053490+00:00
+
+ ## We Deliver Exceptional Digital Projects - Agitate Digital
+ - [https://www.agitate.digital](https://www.agitate.digital)
+ - date_published: 2024-10-29T10:52:42+00:00
+
+ ## Welcome Home • Alchemy Digital
+ - [https://alchemy.digital](https://alchemy.digital)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Welcome Home • Alchemy Digital
+ - [https://cms.alchemy.digital](https://cms.alchemy.digital)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Digitalagentur für App- & Webentwicklung
+ - [https://ambient.digital](https://ambient.digital)
+ - date_published: 2024-06-11T09:07:54.306195+00:00
+
+ ## Wagtail - Sign in
+ - [https://backend.ambient.digital](https://backend.ambient.digital)
+ - date_published: 2024-09-09T16:41:20.127831+00:00
+
+ ## Anchored Digital
+ - [https://anchored.digital](https://anchored.digital)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## AND Digital: developing & delivering digital products and platforms
+ - [https://and.digital](https://and.digital)
+ - date_published: 2024-07-18T04:20:11+00:00
+
+ ## Virtual Exhibition
+ - [https://www.artes-exhibition.digital](https://www.artes-exhibition.digital)
+ - date_published: 2024-09-02T15:47:04.110141+00:00
+
+ ## astral.digital
+ - [https://astral.digital](https://astral.digital)
+ - date_published: 2024-07-13T23:39:55.278935+00:00
+
+ ## Centro de Autonomía Digital | Privacidad Digital, Seguridad y Anonimato
+ - [https://autonomia.digital](https://autonomia.digital)
+ - date_published: 2024-09-03T15:09:46+00:00
+
+ ## Awana Digital • Co-developing Technology for Social Justice
+ - [https://awana.digital](https://awana.digital)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## Demo ES | Digital Marketing Agency Canada, Greece, Colombia
+ - [https://backbone.digital](https://backbone.digital)
+ - date_published: 2024-10-29T04:42:40.501339+00:00
+
+ ## BASECAMP - Die Plattform der digitalen Community in Berlin
+ - [https://www.basecamp.digital](https://www.basecamp.digital)
+ - date_published: 2024-10-12T12:10:16+00:00
+
+ ## basto.digital - Ta strona jest na sprzedaż! - basto Zasoby i informacje.
+ - [https://basto.digital](https://basto.digital)
+ - date_published: 2024-07-24T16:26:24.110543+00:00
+
+ ## bbox.digital - Nous donnons vie à vos idées.
+ - [https://www.bbox.digital](https://www.bbox.digital)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Becom - Dé Belgische e-business federatie
+ - [https://becom.digital](https://becom.digital)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Becom - Dé Belgische e-business federatie
+ - [https://trustmark.becom.digital](https://trustmark.becom.digital)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Home - Becom Wiki
+ - [https://wiki.becom.digital](https://wiki.becom.digital)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Becom  – Belgian eCommerce Awards
+ - [https://becomawards.digital](https://becomawards.digital)
+ - date_published: 2024-09-15T20:51:32.118673+00:00
+
+ ## Bergamot Digital
+ - [https://bergamot.digital](https://bergamot.digital)
+ - date_published: 2023-11-05T06:34:15+00:00
+
+ ## Digital Marketing Agency Brisbane | BFJ Digital
+ - [https://bfj.digital](https://bfj.digital)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Blackstar | Digital Design Specialist
+ - [https://blackstar.digital](https://blackstar.digital)
+ - date_published: 2024-07-10T10:01:08.593551+00:00
+
+ ## Brackets Digital | websites and whatnotz
+ - [https://www.brackets.digital](https://www.brackets.digital)
+ - date_published: 2024-09-25T18:26:58.249649+00:00
+
+ ## Home page EMEA
+ - [https://varnish-prod-cdn-origin.brayleino.digital](https://varnish-prod-cdn-origin.brayleino.digital)
+ - date_published: 2024-04-16T13:05:39+00:00
+
+ ## Broadside Digital · Mobile & Web App Developers in Seattle
+ - [http://broadside.digital](http://broadside.digital)
+ - date_published: 2024-09-02T14:29:00.044780+00:00
+
+ ## Dashboard / Brother Base
+ - [https://base.brother.digital](https://base.brother.digital)
+ - date_published: 2024-06-18T06:02:33.440280+00:00
+
+ ## Myze – Print and Embroidery Workflow Software | Workflow Software for DTG, DTF, Embroidery
+ - [https://myze.brother.digital](https://myze.brother.digital)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | Buffet
+ - [https://www.buffet.digital](https://www.buffet.digital)
+ - date_published: 2024-08-11T20:36:31.196887+00:00
+
+ ## CCP Digital Marketing & Advertising | Digital Marketing & Advertising Agency in Kansas City, SF, NYC, LA | CCP Digital
+ - [http://ccp.digital](http://ccp.digital)
+ - date_published: 2021-12-21T22:03:02+00:00
+
+ ## Česko.Digital – Skrz jedničky a nuly měníme Česko k lepšímu
+ - [https://cesko.digital](https://cesko.digital)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Breaking news, Business, Kenya, Politics, Sports, Lifestyle, Entertainment, Opinion, TV, Radio & Podcasts
+ - [https://citizen.digital](https://citizen.digital)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## CLOQ | Shared Timer for Remote Teams
+ - [https://cloq.digital](https://cloq.digital)
+ - date_published: 2024-05-12T05:29:42.056337+00:00
+
+ ## Home | CMT Digital
+ - [https://cmt.digital](https://cmt.digital)
+ - date_published: 2024-05-11T08:47:45.252739+00:00
+
+ ## Cobalt Digital, Top Marketing Plans and Solutions
+ - [https://www.cobalt.digital](https://www.cobalt.digital)
+ - date_published: 2024-06-22T06:07:58.739653+00:00
+
+ ## Colab | Branding and Design Agency | Design, Development and Strategy
+ - [https://colab.digital](https://colab.digital)
+ - date_published: 2024-09-14T23:25:49.144285+00:00
+
+ ## COMPOST ISSUE 03
+ - [https://three.compost.digital](https://three.compost.digital)
+ - date_published: 2023-07-01T17:54:04+00:00
+
+ ## A Digital Marketing Agency With a No 'BS' Approach | Concise
+ - [https://www.concise.digital](https://www.concise.digital)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Portada
+ - [https://confidencial.digital](https://confidencial.digital)
+ - date_published: 2024-09-02T06:18:15+00:00
+
+ ## AI, automation and integrations as easy as pressing a button. | Connex Digital
+ - [https://connex.digital](https://connex.digital)
+ - date_published: 2024-02-25T19:23:33.401138+00:00
+
+ ## Home Page | Contango
+ - [https://www.contango.digital](https://www.contango.digital)
+ - date_published: 2024-09-25T16:06:21.933458+00:00
+
+ ## a zorua's personal planet
+ - [https://corvidae.digital](https://corvidae.digital)
+ - date_published: 2024-07-22T11:46:38.890811+00:00
+
+ ## cyberdragon
+ - [https://www.cyberdragon.digital](https://www.cyberdragon.digital)
+ - date_published: 2024-06-09T09:16:10.472733+00:00
+ - tags: ['personal']
+
+ ## Bespoke Ergonomic Keyboards | Cyboard
+ - [https://cyboard.digital](https://cyboard.digital)
+ - date_published: 2024-05-09T08:40:09.713706+00:00
+
+ ## Startseite
+ - [https://de.digital](https://de.digital)
+ - date_published: 2024-04-29T06:31:01.671327+00:00
+
+ ## Diesdas Digital is your partner for all things digital.
+ - [https://diesdas.digital](https://diesdas.digital)
+ - date_published: 2024-06-28T16:33:18+00:00
+
+ ## muziek voor iedereen
+ - [https://dj-bertus-muziek-kanon-uit-flevoland.digital](https://dj-bertus-muziek-kanon-uit-flevoland.digital)
+ - date_published: 2024-06-13T21:26:07.189161+00:00
+
+ ## Double Smart-Buyer Detection
+ - [https://doublesmart.digital](https://doublesmart.digital)
+ - date_published: 2019-08-05T19:03:06+00:00
+
+ ## E23 Digital | Compelling digital creative lives here.
+ - [https://e23.digital](https://e23.digital)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Home
+ - [https://www.eha.digital](https://www.eha.digital)
+ - date_published: 2024-08-18T15:09:40.682486+00:00
+
+ ## EIDOS by Tobias Faisst
+ - [http://eidos.digital](http://eidos.digital)
+ - date_published: 2017-09-26T08:02:53+00:00
+
+ ## Emilia Digital | Digital Agency | Web Design, Development & Branding
+ - [https://www.emilia.digital](https://www.emilia.digital)
+ - date_published: 2023-06-30T02:03:28+00:00
+
+ ## En.Digital Podcast: El podcast por y para los profesionales del mundo digital
+ - [https://en.digital](https://en.digital)
+ - date_published: 2019-04-12T00:00:00+00:00
+
+ ## Strengthening European democracies with digital technologies
+ - [https://europx.digital](https://europx.digital)
+ - date_published: 2024-05-10T06:12:20.044944+00:00
+
+ ## fair.digital – Digitale Zukunft fair gestalten. Mit dem Gütesiegel fair.digital.
+ - [https://fair.digital](https://fair.digital)
+ - date_published: 2024-07-10T08:08:02.515958+00:00
+
+ ## F-At Digital | Farrelly Atkinson | Editorial and design services for the cycle industry
+ - [https://fat.digital](https://fat.digital)
+ - date_published: 2024-04-30T05:45:39.115237+00:00
+
+ ## Homepage
+ - [https://fem.digital](https://fem.digital)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Welcome to Gibe Digital
+ - [https://gibe.digital](https://gibe.digital)
+ - date_published: 2024-06-21T10:57:44.469098+00:00
+
+ ## Home | Glauca Digital
+ - [https://glauca.digital](https://glauca.digital)
+ - date_published: 2024-06-05T15:54:17+00:00
+
+ ## Brighton based Digital Marketing and Creative Website Design Agency. - Grandad Digital
+ - [https://grandad.digital](https://grandad.digital)
+ - date_published: 2024-07-08T10:44:16+00:00
+
+ ## BCGPLA TestMultisite Global
+ - [https://pla.gutegruende.digital](https://pla.gutegruende.digital)
+ - date_published: 2024-06-15T19:17:12.651224+00:00
+
+ ## Holtzbrinck Digital
+ - [https://www.holtzbrinck.digital](https://www.holtzbrinck.digital)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Hungry Bear Digital
+ - [https://hungrybear.digital](https://hungrybear.digital)
+ - date_published: 2024-03-01T07:37:34+00:00
+
+ ## Identity Digital | Create authentic digital identities with the world's largest and most relevant domain extension portfolio.
+ - [https://identity.digital](https://identity.digital)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Sanctioned Entities Network
+ - [https://sanctions.inca.digital](https://sanctions.inca.digital)
+ - date_published: 2024-07-08T20:51:23.297623+00:00
+
+ ## Login
+ - [https://customerarea.infocert.digital](https://customerarea.infocert.digital)
+ - date_published: 2024-09-18T14:02:19+00:00
+
+ ## InfoCert Developers Portal
+ - [https://developers.infocert.digital](https://developers.infocert.digital)
+ - date_published: 2023-10-16T00:00:00+00:00
+
+ ## InfoCert Support
+ - [https://help.infocert.digital](https://help.infocert.digital)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## InfoCert Digital: Certification Authority and Digital Trust Services
+ - [https://infocert.digital](https://infocert.digital)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Enterprise Knowledge Center
+ - [https://knowledgecenter.infocert.digital](https://knowledgecenter.infocert.digital)
+ - date_published: 2024-06-16T11:19:51.087425+00:00
+
+ ## InfoCert Digital: Certification Authority and Digital Trust Services
+ - [https://landing.infocert.digital](https://landing.infocert.digital)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## IO Digital | Leading Digital Transformation Agency
+ - [https://www.i-o.digital](https://www.i-o.digital)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## ITG.Builder
+ - [https://app.itg.digital](https://app.itg.digital)
+ - date_published: 2024-03-12T10:41:05+00:00
+
+ ## julian.digital
+ - [https://julian.digital](https://julian.digital)
+ - date_published: 2023-10-25T18:44:50.401929+00:00
+
+ ## Kamikaze | Agencja kreatywna Łódź, Warszawa
+ - [https://kamikaze.digital](https://kamikaze.digital)
+ - date_published: 2024-10-22T21:08:58.924311+00:00
+
+ ## KÖNIGSTEINER digital – Digitale Recruiting Kampagnen
+ - [https://www.koenigsteiner.digital](https://www.koenigsteiner.digital)
+ - date_published: 2024-05-06T17:57:26.566005+00:00
+
+ ## Startseite Mittelstand-Digital Fokus Mensch
+ - [https://www.kompetenzzentrum-usability.digital](https://www.kompetenzzentrum-usability.digital)
+ - date_published: 2024-07-24T05:46:34.234336+00:00
+
+ ## كتاب رقمي - لبيع وشراء الكتب الرقمية
+ - [https://ktab.digital](https://ktab.digital)
+ - date_published: 2024-06-23T07:56:57.471550+00:00
+
+ ## L1D - Institutional Investing in Crypto
+ - [https://www.l1.digital](https://www.l1.digital)
+ - date_published: 2024-09-24T11:02:50.001336+00:00
+
+ ## Leo Digital – Multi-disciplinary Digital Consulting & Servicing Agency
+ - [https://leo.digital](https://leo.digital)
+ - date_published: 2024-06-26T08:47:59.477662+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.liliana.digital](https://plausible.liliana.digital)
+ - date_published: 2024-10-27T12:26:13.938785+00:00
+
+ ## A Sustainable Digital Consultancy | Low-Carbon Digital
+ - [https://low-carbon.digital](https://low-carbon.digital)
+ - date_published: 2024-02-03T14:25:00+00:00
+
+ ## SaaS SEO & Link Building Agency | MADX Digital
+ - [https://www.madx.digital](https://www.madx.digital)
+ - date_published: 2024-09-19T14:01:32+00:00
+
+ ## Loading...
+ - [https://epiphany.masterworks.digital](https://epiphany.masterworks.digital)
+ - date_published: 2024-06-19T15:57:33.994229+00:00
+
+ ## Подкаст «Всё круто, но надо переделать»
+ - [https://lepekhin.mave.digital](https://lepekhin.mave.digital)
+ - date_published: 2024-07-22T18:54:39.315804+00:00
+
+ ## Minerva Wallet
+ - [https://minerva.digital](https://minerva.digital)
+ - date_published: 2024-09-21T23:42:08.002838+00:00
+
+ ## Lausanne - Journal
+ - [https://lejournal.miru.digital](https://lejournal.miru.digital)
+ - date_published: 2024-02-02T15:21:04+00:00
+
+ ## Monsoon
+ - [https://www.monsoon.digital](https://www.monsoon.digital)
+ - date_published: 2024-06-29T10:33:18.018051+00:00
+
+ ## Web development with Python and Django
+ - [https://www.nephila.digital](https://www.nephila.digital)
+ - date_published: 2014-09-11T09:59:08.077506+00:00
+
+ ## Nexigen Digital - Growing Australian Businesses
+ - [https://nexigen.digital](https://nexigen.digital)
+ - date_published: 2024-06-16T07:53:59.279218+00:00
+
+ ## NPG Opt-Out
+ - [http://donotsell.npg.digital](http://donotsell.npg.digital)
+ - date_published: 2021-09-16T15:09:35+00:00
+
+ ## Home
+ - [https://nuernberg.digital](https://nuernberg.digital)
+ - date_published: 2024-07-12T23:10:43.051194+00:00
+
+ ## Aviary - CMS - NYPR
+ - [https://cms.prod.nypr.digital](https://cms.prod.nypr.digital)
+ - date_published: 2024-05-04T08:35:03.202011+00:00
+
+ ## Confluence
+ - [https://wiki.nypr.digital](https://wiki.nypr.digital)
+ - date_published: 2024-06-20T11:41:50.507715+00:00
+
+ ## ODDLY DIGITAL: Websites made easy😊✨
+ - [https://oddly.digital](https://oddly.digital)
+ - date_published: 2021-06-22T09:35:39+00:00
+
+ ## Hearts and minds: how Europeans think and feel about immigration
+ - [https://heartsandminds.odi.digital](https://heartsandminds.odi.digital)
+ - date_published: 2024-05-02T09:58:18.419975+00:00
+
+ ## OH Digital | Manchester Web Development
+ - [https://oh.digital](https://oh.digital)
+ - date_published: 2024-07-13T12:37:15.848899+00:00
+
+ ## Share a link
+ - [https://share.oh.digital](https://share.oh.digital)
+ - date_published: 2024-07-13T12:37:14.992205+00:00
+
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://descriptive-elegant.oikos.digital](https://descriptive-elegant.oikos.digital)
+ - date_published: 2024-07-16T15:20:31+00:00
+
+ ## Home - Oikos Digital
+ - [https://oikos.digital](https://oikos.digital)
+ - date_published: 2023-10-14T20:55:27+00:00
+
+ ## OneID – die Ad ID für den Schweizer Markt
+ - [https://www.oneid.digital](https://www.oneid.digital)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Osu: Master Rhythm and Precision with the Ultimate Music Game
+ - [https://osu.digital](https://osu.digital)
+ - date_published: 2024-03-01T14:47:30+00:00
+
+ ## HOME OFICIAL - People Media
+ - [https://www.peoplemedia.digital](https://www.peoplemedia.digital)
+ - date_published: 2024-04-05T16:11:21+00:00
+
+ ## Phoebe
+ - [https://phoebe.digital](https://phoebe.digital)
+ - date_published: 2024-06-07T23:48:59+00:00
+
+ ## Pipes
+ - [https://www.pipes.digital](https://www.pipes.digital)
+ - date_published: 2024-07-01T03:30:08.638047+00:00
+
+ ## Pleno Internacional
+ - [https://www.pleno.digital](https://www.pleno.digital)
+ - date_published: 2024-09-12T21:55:50.842332+00:00
+
+ ## PRISMS Open Scholarship
+ - [https://www.prisms.digital](https://www.prisms.digital)
+ - date_published: 2024-10-20T06:37:55.685457+00:00
+
+ ## Home - Q.Digital, Inc.
+ - [https://q.digital](https://q.digital)
+ - date_published: 2024-05-07T10:02:15.691644+00:00
+
+ ## Randy Daniel — Product & Interaction Designer
+ - [https://randy.digital](https://randy.digital)
+ - date_published: 2024-05-11T10:04:41.937280+00:00
+
+ ## 36 Days of Type | Reflektor Digital
+ - [https://36days.reflektor.digital](https://36days.reflektor.digital)
+ - date_published: 2024-08-06T20:03:31.295104+00:00
+
+ ## Robb Owen - Independent Creative Developer
+ - [https://robbowen.digital](https://robbowen.digital)
+ - date_published: 2024-08-18T21:24:48.279800+00:00
+
+ ## Rockfax Digital
+ - [https://rockfax.digital](https://rockfax.digital)
+ - date_published: 2024-05-11T10:48:03.279911+00:00
+
+ ## RulingDigital - 學術網站系統專家
+ - [https://ruling.digital](https://ruling.digital)
+ - date_published: 2024-10-16T07:59:29.069521+00:00
+
+ ## Zadbaj o swój wizerunek online | Produkty i usługi cyfrowe | Rytm.Digital | Zadbaj o swój wizerunek online | Produkty i usługi cyfrowe
+ - [http://rytm.digital](http://rytm.digital)
+ - date_published: 2024-07-17T09:13:18.373469+00:00
+
+ ## SEDA.digital - Digital agency for modern software development
+ - [https://seda.digital](https://seda.digital)
+ - date_published: 2024-06-25T22:19:46.466146+00:00
+
+ ## September - Maakt digitaal waar
+ - [https://september.digital](https://september.digital)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Sezoo - Radically improve trust in digital interactions for the benefit of all
+ - [https://sezoo.digital](https://sezoo.digital)
+ - date_published: 2024-07-22T07:30:53+00:00
+
+ ## SF.DIGITAL | Create amazing websites
+ - [https://sf.digital](https://sf.digital)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Sonica - Trusted partner in asset tokenization
+ - [http://sonica.digital](http://sonica.digital)
+ - date_published: 2024-09-25T15:13:16.183022+00:00
+
+ ## The AI Entrepreneurs
+ - [https://aientrepreneurs.standout.digital](https://aientrepreneurs.standout.digital)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Surface Impression
+ - [https://beta.surfaceimpression.digital](https://beta.surfaceimpression.digital)
+ - date_published: 2024-07-05T08:14:51+00:00
+
+ ## Surface Impression
+ - [https://surfaceimpression.digital](https://surfaceimpression.digital)
+ - date_published: 2024-05-08T10:34:58.297168+00:00
+
+ ## Web Design Kent | Tilt Digital Agency in Kent
+ - [https://tilt.digital](https://tilt.digital)
+ - date_published: 2024-10-21T00:00:52.613480+00:00
+
+ ## time4.digital
+ - [https://time4.digital](https://time4.digital)
+ - date_published: 2023-11-13T09:00:05+00:00
+
+ ## Homepage - Trive digital - Ecommerce design and development
+ - [https://trive.digital](https://trive.digital)
+ - date_published: 2024-09-16T02:16:41.254237+00:00
+
+ ## UMusic
+ - [https://umusic.digital](https://umusic.digital)
+ - date_published: 2024-08-18T22:39:37.207588+00:00
+
+ ## Digital products to shape our world
+ - [https://verhaert.digital](https://verhaert.digital)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Agence Web à Toulouse - Création de sites internet | Verywell Digital
+ - [https://www.verywell.digital](https://www.verywell.digital)
+ - date_published: 2024-05-03T09:02:51+00:00
+
+ ## Web Design & Mobile App Development by Waterfront Digital
+ - [https://waterfront.digital](https://waterfront.digital)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## WMT Calendar - WMT Calendar
+ - [https://calendar.wmt.digital](https://calendar.wmt.digital)
+ - date_published: 2024-09-09T09:46:02+00:00
+
+ ## Full Service Technology Firm | Web, App, OTT, e-commerce, Data, Subscription, Video and Digital Marketing.
+ - [https://wmt.digital](https://wmt.digital)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## RDTR01
+ - [https://rdtr01.xl.digital](https://rdtr01.xl.digital)
+ - date_published: 2023-10-25T18:44:52.509130+00:00
+
+ ## YB.Digital
+ - [https://yb.digital](https://yb.digital)
+ - date_published: 2023-02-20T14:53:28+00:00
+
+ ## YOO | just digital
+ - [https://blog.yoo.digital](https://blog.yoo.digital)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## Deine Digital Agentur für Transformation & Software-Entwicklung
+ - [https://yoo.digital](https://yoo.digital)
+ - date_published: 2024-06-15T15:39:53.630896+00:00
+
+ ## You & Me Digital - Coming Soon!
+ - [https://youandme.digital](https://youandme.digital)
+ - date_published: 2020-01-06T10:30:25+00:00
+
+ ## yuk.digital - yuk Zasoby i informacje.
+ - [http://yuk.digital](http://yuk.digital)
+ - date_published: 2024-07-13T15:12:53+00:00
+
+ ## Startseite » YUMMY
+ - [https://yummy.digital](https://yummy.digital)
+ - date_published: 2024-07-19T16:35:59.005888+00:00
+
+ ## Z1 Digital Studio
+ - [http://www.z1.digital](http://www.z1.digital)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Innity | Advenue Direct
+ - [https://advenue.direct](https://advenue.direct)
+ - date_published: 2024-06-25T20:19:17.757765+00:00
+
+ ## Logiciel de gestion complet pour les cabinets de conseil – BestConsultant
+ - [https://bc.direct](https://bc.direct)
+ - date_published: 2024-04-28T02:57:51.283511+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.bc.direct](https://plausible.bc.direct)
+ - date_published: 2024-08-07T19:17:45.470463+00:00
+
+ ## The best solution to manage your consulting firm
+ - [https://sandbox.bc.direct](https://sandbox.bc.direct)
+ - date_published: 2024-08-01T10:55:54+00:00
+
+ ## FASTPANEL BILLING
+ - [https://cp.fastpanel.direct](https://cp.fastpanel.direct)
+ - date_published: 2024-06-18T08:30:37+00:00
+
+ ## FASTPANEL ®
+ - [https://fastpanel.direct](https://fastpanel.direct)
+ - date_published: 2024-05-05T09:58:08.200218+00:00
+
+ ## Welcome | FASTPANEL knowledge base
+ - [https://kb.fastpanel.direct](https://kb.fastpanel.direct)
+ - date_published: 2024-06-19T10:38:24+00:00
+
+ ## Macmillan Education Direct
+ - [https://macmillaneducation.direct](https://macmillaneducation.direct)
+ - date_published: 2024-10-19T11:05:44.794163+00:00
+
+ ## Refine – Marketing e tecnologia al servizio dei risultati
+ - [https://www.refine.direct](https://www.refine.direct)
+ - date_published: 2024-05-06T17:45:12.350769+00:00
+
+ ## 2FA Directory
+ - [https://2fa.directory](https://2fa.directory)
+ - date_published: 2024-07-14T10:23:00.700027+00:00
+
+ ## The first & largest directory of 3D printing companies - VoxelMatters
+ - [https://www.3dprintingbusiness.directory](https://www.3dprintingbusiness.directory)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## ADHD Directory | Boots Medication Stock Checker & Pharmacy Finder
+ - [https://www.adhd.directory](https://www.adhd.directory)
+ - date_published: 2024-05-06T08:55:27.431293+00:00
+
+ ## Advisors & Consultants in  United States
+ - [http://advisors.directory](http://advisors.directory)
+ - date_published: 2024-05-07T13:28:02.957388+00:00
+
+ ## Date Me Directory
+ - [https://dateme.directory](https://dateme.directory)
+ - date_published: 2024-07-14T10:32:56.130260+00:00
+
+ ## Doctrine Directory
+ - [https://doctrine.directory](https://doctrine.directory)
+ - date_published: 2024-08-18T22:54:41.532667+00:00
+
+ ## EIP, ERC, CAIP, and RIP Directory
+ - [https://eip.directory](https://eip.directory)
+ - date_published: 2024-09-04T04:38:00.156822+00:00
+
+ ## fursona.directory
+ - [https://fursona.directory](https://fursona.directory)
+ - date_published: 2024-08-07T20:20:01.616527+00:00
+
+ ## gemfile.directory
+ - [https://gemfile.directory](https://gemfile.directory)
+ - date_published: 2024-07-02T20:42:29.617066+00:00
+
+ ## lol.directory
+ - [https://lol.directory](https://lol.directory)
+ - date_published: 2024-07-04T06:07:24.428597+00:00
+
+ ## Nostr public keys of Twitter Accounts
+ - [https://nostr.directory](https://nostr.directory)
+ - date_published: 2024-06-21T18:20:45.391870+00:00
+
+ ## ooh.directory: a place to find good blogs that interest you
+ - [https://ooh.directory](https://ooh.directory)
+ - date_published: 2023-10-25T18:44:56.352626+00:00
+ - tags: ['blogs', 'personal', 'personal sites source']
+
+ ## Partnerhub® Directory
+ - [https://partnerhub.directory](https://partnerhub.directory)
+ - date_published: 2024-05-10T02:43:18.322361+00:00
+
+ ## Passkeys.directory
+ - [https://passkeys.directory](https://passkeys.directory)
+ - date_published: 2024-01-29T22:50:04.643974+00:00
+
+ ## Phish Directory
+ - [https://phish.directory](https://phish.directory)
+ - date_published: 2024-10-31T03:25:53.561377+00:00
+
+ ## Do more with POAPs
+ - [https://poap.directory](https://poap.directory)
+ - date_published: 2024-09-25T14:34:56.219535+00:00
+
+ ## Pressbooks Directory
+ - [https://pressbooks.directory](https://pressbooks.directory)
+ - date_published: 2023-06-01T19:26:27+00:00
+
+ ## The Productivity Blog
+ - [https://blog.productivity.directory](https://blog.productivity.directory)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## The Productivity Newsletter
+ - [https://newsletter.productivity.directory](https://newsletter.productivity.directory)
+ - date_published: 2024-05-09T05:39:20.252125+00:00
+
+ ## Productivity Directory: Best Productivity Apps and Tools List - Reviews, Guides and Hacks
+ - [https://productivity.directory](https://productivity.directory)
+ - date_published: 2024-05-09T05:39:17.553158+00:00
+
+ ## retro.directory - Find Retro and Vintage Shops, Museums, Clubs, Websites and More in our Free Directory! - retro.directory
+ - [https://retro.directory](https://retro.directory)
+ - date_published: 2024-04-28T04:44:45.187540+00:00
+
+ ## Robby's blog
+ - [https://www.rob.directory](https://www.rob.directory)
+ - date_published: 2024-09-17T16:22:33.236774+00:00
+
+ ## Sui Directory
+ - [https://sui.directory](https://sui.directory)
+ - date_published: 2023-04-06T00:00:00+00:00
+
+ ## Vision Directory
+ - [https://vision.directory](https://vision.directory)
+ - date_published: 2024-09-12T14:08:02.358699+00:00
+
+ ## GitHub - surprisetalk/wigwams: curated list of alternative projects
+ - [https://wigwam.directory](https://wigwam.directory)
+ - date_published: 2024-05-02T10:23:09.961086+00:00
+
+ ## VerifyPass
+ - [https://id.discount](https://id.discount)
+ - date_published: 2024-05-08T02:30:03.925420+00:00
+
+ ## FUZE
+ - [https://www.fuze.dj](https://www.fuze.dj)
+ - date_published: 2024-06-18T16:32:27.845807+00:00
+
+ ## Grafika Google
+ - [https://images.google.dj](https://images.google.dj)
+ - date_published: 2024-07-20T07:37:26.261897+00:00
+
+ ## Google
+ - [https://www.google.dj](https://www.google.dj)
+ - date_published: 2024-06-21T22:25:19.327788+00:00
+
+ ## RaveDJ - Music Mixer
+ - [https://rave.dj](https://rave.dj)
+ - date_published: 2024-06-23T18:08:01.770713+00:00
+
+ ## umru
+ - [https://umru.dj](https://umru.dj)
+ - date_published: 2024-06-18T16:55:01.574265+00:00
+
+ ## 100Potentialer
+ - [https://100potentialer.dk](https://100potentialer.dk)
+ - date_published: 2024-03-08T14:58:58+00:00
+
+ ## Forside - 16:9 filmtidsskrift
+ - [http://www.16-9.dk](http://www.16-9.dk)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Nyheder om Teknologi, IT, Tele, Internet & Sikkerhed – 24tech.dk
+ - [https://24tech.dk](https://24tech.dk)
+ - date_published: 2024-06-22T15:57:47.901395+00:00
+
+ ## 3 | Smartphones, abonnementer med 3LikeHome & tilbehør | 3.dk
+ - [https://www.3.dk](https://www.3.dk)
+ - date_published: 2024-07-17T11:17:49.136995+00:00
+
+ ## 3M Science. Applied to Life.™ | 3M Danmark
+ - [https://www.3mdanmark.dk](https://www.3mdanmark.dk)
+ - date_published: 2024-08-06T10:39:11.397018+00:00
+
+ ## 7-Eleven Danmark
+ - [https://www.7-eleven.dk](https://www.7-eleven.dk)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Nyheder - 92 GRUPPEN
+ - [https://www.92grp.dk](https://www.92grp.dk)
+ - date_published: 2024-07-03T02:09:39+00:00
+
+ ## Aabne-samlinger bloggen
+ - [http://www.aabne-samlinger.dk](http://www.aabne-samlinger.dk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Forside - Arkitektskolen Aarhus
+ - [https://aarch.dk](https://aarch.dk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Moodle / Arkitektskolen Aarhus
+ - [https://moodle.aarch.dk](https://moodle.aarch.dk)
+ - date_published: 2024-07-08T15:04:29+00:00
+
+ ## Sign in - Matomo
+ - [https://statistik.aarch.dk](https://statistik.aarch.dk)
+ - date_published: 2024-07-08T15:05:47.457577+00:00
+
+ ## Kemp Login Screen
+ - [https://webmail.aarch.dk](https://webmail.aarch.dk)
+ - date_published: 2024-07-08T15:05:58.016371+00:00
+
+ ## Department of Electronic Systems
+ - [https://es.aau.dk](https://es.aau.dk)
+ - date_published: 2024-09-13T20:23:13.880060+00:00
+
+ ## Numb3rs
+ - [http://numb3rs.math.aau.dk](http://numb3rs.math.aau.dk)
+ - date_published: 2024-06-30T08:20:28.979383+00:00
+
+ ## Aalborg Universitets forskningsportal
+ - [https://vbn.aau.dk](https://vbn.aau.dk)
+ - date_published: 2024-07-14T07:44:50.563028+00:00
+
+ ## Welcome
+ - [https://wayf.aau.dk](https://wayf.aau.dk)
+ - date_published: 2024-08-07T09:57:47.038346+00:00
+
+ ## Aalborg University - Knowledge for the World
+ - [https://www.en.aau.dk](https://www.en.aau.dk)
+ - date_published: 2024-07-01T11:38:01.444464+00:00
+
+ ## The Faculty of Social Sciences and Humanities
+ - [https://www.en.ssh.aau.dk](https://www.en.ssh.aau.dk)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## vap.aau.dk | Visual Analysis and Perception Laboratory
+ - [http://www.vap.aau.dk](http://www.vap.aau.dk)
+ - date_published: 2024-08-07T14:38:34.818070+00:00
+
+ ## Mode online fra mere end 1500 topmærker | ABOUT YOU
+ - [https://m.aboutyou.dk](https://m.aboutyou.dk)
+ - date_published: 2024-09-17T18:06:18+00:00
+
+ ## Mode online fra mere end 1500 topmærker | ABOUT YOU
+ - [https://www.aboutyou.dk](https://www.aboutyou.dk)
+ - date_published: 2024-09-17T18:06:18+00:00
+
+ ## Adam Stück's blog
+ - [https://adast.dk](https://adast.dk)
+ - date_published: 2023-03-04T00:00:00+00:00
+
+ ## Adgang for alle, online oplæsning
+ - [https://adgangforalle.dk](https://adgangforalle.dk)
+ - date_published: 1899-12-30T00:00:00+00:00
+
+ ## adidas officiel hjemmeside | adidas Danmark
+ - [https://www.adidas.dk](https://www.adidas.dk)
+ - date_published: 2024-07-14T12:14:24.480774+00:00
+
+ ## Afrikansk dans & kultur - undervisning og optræden
+ - [http://www.afrikanskdans.dk](http://www.afrikanskdans.dk)
+ - date_published: 2024-09-12T17:22:54.887989+00:00
+
+ ## Gratis Spil: 💥 5000+ Sjove Spil til dig!
+ - [https://www.afterdawn.dk](https://www.afterdawn.dk)
+ - date_published: 2023-11-01T11:29:56+00:00
+
+ ## Agronetto Danmark - en markedsplads på nettet til landbrugsmaskiner og reservedele
+ - [https://agronetto.dk](https://agronetto.dk)
+ - date_published: 2024-08-11T15:40:09.395250+00:00
+
+ ## A Hereford Beefstouw
+ - [https://ahb.dk](https://ahb.dk)
+ - date_published: 2024-06-25T16:54:09.932816+00:00
+
+ ## Pioneer Centre for Artificial Intelligence
+ - [https://www.aicentre.dk](https://www.aicentre.dk)
+ - date_published: 2024-06-22T08:47:58.775053+00:00
+
+ ## Airbnb | Ferieboliger, hytter, strandhuse med mere
+ - [https://airbnb.dk](https://airbnb.dk)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Aktuel Naturvidenskab - Nyheder fra den Naturvidenskabelige Verden
+ - [http://aktuelnaturvidenskab.dk](http://aktuelnaturvidenskab.dk)
+ - date_published: 2024-07-22T10:18:43.553888+00:00
+
+ ## Alexanderband
+ - [http://www.alexanderband.dk](http://www.alexanderband.dk)
+ - date_published: 2024-07-04T14:43:48.418786+00:00
+
+ ## hjespersenfoto
+ - [https://alexanderhjespersen.dk](https://alexanderhjespersen.dk)
+ - date_published: 2024-07-04T01:52:47.664440+00:00
+
+ ## Alkohol & Samfund
+ - [https://alkohologsamfund.dk](https://alkohologsamfund.dk)
+ - date_published: 2024-10-18T21:25:10.918932+00:00
+
+ ## Forsikringer til dig og dine behov | Alm. Brand
+ - [https://www.almbrand.dk](https://www.almbrand.dk)
+ - date_published: 2024-06-25T16:50:12.978336+00:00
+
+ ## Apowersoft – Multimedie-løsninger til Erhvervsmæssige og Daglige Behov
+ - [https://www.apowersoft.dk](https://www.apowersoft.dk)
+ - date_published: 2024-06-23T16:05:43.321589+00:00
+
+ ## Umami
+ - [https://umami.apprunner.dk](https://umami.apprunner.dk)
+ - date_published: 2024-06-27T17:14:50.417760+00:00
+
+ ## Arcadia Finans | Find de bedste lån fra 25.000 til 400.000 kr.
+ - [https://arcadiafinans.dk](https://arcadiafinans.dk)
+ - date_published: 2024-10-31T00:48:55.439467+00:00
+
+ ## Arkitektforeningen
+ - [https://arkitektforeningen.dk](https://arkitektforeningen.dk)
+ - date_published: 2024-07-22T06:11:49+00:00
+
+ ## Arla
+ - [https://www.arla.dk](https://www.arla.dk)
+ - date_published: 2024-06-25T22:17:36.280127+00:00
+
+ ## Arnon Shimoni
+ - [https://arnon.dk](https://arnon.dk)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Aarhus Universitet - Glemt adgangskode eller brugernavn
+ - [https://adgang.au.dk](https://adgang.au.dk)
+ - date_published: 2024-07-22T18:34:07.867338+00:00
+
+ ## AIAS
+ - [https://aias.au.dk](https://aias.au.dk)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## aie.au.dk
+ - [https://aie.au.dk](https://aie.au.dk)
+ - date_published: 2019-08-21T00:00:00+00:00
+
+ ## Aarhus Universitets Alumnenetværk – et univers af viden og relationer
+ - [https://alumner.au.dk](https://alumner.au.dk)
+ - date_published: 2024-07-22T10:15:48.643065+00:00
+
+ ## Institut for Husdyr- og Veterinærvidenskab, Aarhus Universitet
+ - [https://anis.au.dk](https://anis.au.dk)
+ - date_published: 2024-07-22T10:15:16.803577+00:00
+
+ ## Arctic Research Centre at Aarhus University Department of Biology
+ - [https://arctic.au.dk](https://arctic.au.dk)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Faculty of Arts | Aarhus Universitet
+ - [https://arts.au.dk](https://arts.au.dk)
+ - date_published: 2024-07-22T10:20:23.620857+00:00
+
+ ## Aarhus Universitet
+ - [https://au.dk](https://au.dk)
+ - date_published: 2024-04-30T02:32:56.498553+00:00
+
+ ## PURE 404 fejl
+ - [https://auinstallation28.cs.au.dk](https://auinstallation28.cs.au.dk)
+ - date_published: 2024-07-22T10:14:53.294529+00:00
+
+ ## PURE 404 fejl
+ - [https://auinstallation30.cs.au.dk](https://auinstallation30.cs.au.dk)
+ - date_published: 2024-04-30T02:32:53.532533+00:00
+
+ ## AU webshop |  Forside
+ - [https://auwebshop.au.dk](https://auwebshop.au.dk)
+ - date_published: 2024-07-22T10:17:49.432854+00:00
+
+ ## Vil du læse en bacheloruddannelse på Aarhus Universitet?
+ - [https://bachelor.au.dk](https://bachelor.au.dk)
+ - date_published: 2024-04-30T02:33:00.607954+00:00
+
+ ## Institut for Biologi - Aarhus Universitet
+ - [https://bio.au.dk](https://bio.au.dk)
+ - date_published: 2024-04-30T02:33:18.772397+00:00
+
+ ## Institut for Biomedicin - for medarbejdere
+ - [https://biomed.medarbejdere.au.dk](https://biomed.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:19:21.326445+00:00
+
+ ## Institut for Ecoscience
+ - [https://bios.au.dk](https://bios.au.dk)
+ - date_published: 2024-07-22T10:17:44.401183+00:00
+
+ ## 403 - siden er adgangsbegrænset / access is restricted
+ - [https://bios.medarbejdere.au.dk](https://bios.medarbejdere.au.dk)
+ - date_published: 2024-09-04T17:10:31.507398+00:00
+
+ ## Department of Biology - Staff - Aarhus University
+ - [https://bio.staff.au.dk](https://bio.staff.au.dk)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://brightspace.au.dk](https://brightspace.au.dk)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Institut for Kultur og Samfund - Aarhus Universitet
+ - [https://cas.au.dk](https://cas.au.dk)
+ - date_published: 2024-08-28T00:00:00+00:00
+
+ ## CAVI
+ - [https://cavi.au.dk](https://cavi.au.dk)
+ - date_published: 2024-04-30T02:32:38.476403+00:00
+
+ ## Institut for Kommunikation og Kultur - Aarhus Universitet
+ - [https://cc.au.dk](https://cc.au.dk)
+ - date_published: 2024-07-22T10:20:22.436824+00:00
+
+ ## Centre for Educational Development | Aarhus Universitet
+ - [https://ced.au.dk](https://ced.au.dk)
+ - date_published: 2024-07-22T10:16:06.612088+00:00
+
+ ## Center for Humanities Computing | Aarhus University
+ - [https://chc.au.dk](https://chc.au.dk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Institut for Kemi
+ - [https://chem.au.dk](https://chem.au.dk)
+ - date_published: 2024-04-30T02:33:22.643051+00:00
+
+ ## chem.medarbejdere.au.dk
+ - [https://chem.medarbejdere.au.dk](https://chem.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:16:35.809616+00:00
+
+ ## Medarbejdere - Institut for Klinisk Medicin
+ - [https://clin.medarbejdere.au.dk](https://clin.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:19:10.704716+00:00
+
+ ## conferences.au.dk
+ - [https://conferences.au.dk](https://conferences.au.dk)
+ - date_published: 2024-07-22T04:46:52.034687+00:00
+
+ ## Consent-O-Matic
+ - [https://consentomatic.au.dk](https://consentomatic.au.dk)
+ - date_published: 2023-10-25T18:44:57.884515+00:00
+
+ ## Study Computer Science at Aarhus University
+ - [https://cs.au.dk](https://cs.au.dk)
+ - date_published: 2024-04-30T02:33:36.864279+00:00
+
+ ## Center for Videnskabsstudier
+ - [https://css.au.dk](https://css.au.dk)
+ - date_published: 2024-07-22T10:14:29.909777+00:00
+
+ ## cs.staff.au.dk
+ - [https://cs.staff.au.dk](https://cs.staff.au.dk)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## danishtvdrama.au.dk
+ - [https://danishtvdrama.au.dk](https://danishtvdrama.au.dk)
+ - date_published: 2018-09-26T00:00:00+00:00
+
+ ## Medarbejdere - Institut for Odontologi og Oral Sundhed
+ - [https://dent.medarbejdere.au.dk](https://dent.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:19:14.200547+00:00
+
+ ## Institut for Ingeniørvidenskab
+ - [https://eng.au.dk](https://eng.au.dk)
+ - date_published: 2024-07-22T10:18:15.835569+00:00
+
+ ## Institut for Geoscience
+ - [https://geo.au.dk](https://geo.au.dk)
+ - date_published: 2024-04-30T02:33:39.426622+00:00
+
+ ## geo.medarbejdere.au.dk
+ - [https://geo.medarbejdere.au.dk](https://geo.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:14:41.525117+00:00
+
+ ## Health
+ - [https://health.au.dk](https://health.au.dk)
+ - date_published: 2023-12-31T13:28:23.869975+00:00
+
+ ## Medarbejderportal - Health
+ - [https://health.medarbejdere.au.dk](https://health.medarbejdere.au.dk)
+ - date_published: 2024-04-30T02:32:48.635796+00:00
+
+ ## Services for international staff at Aarhus University
+ - [http://ias.au.dk](http://ias.au.dk)
+ - date_published: 2024-07-22T10:17:01.315486+00:00
+
+ ## The Interdisciplinary Nanoscience Center at Aarhus University: inano.au.dk
+ - [https://inano.au.dk](https://inano.au.dk)
+ - date_published: 2023-11-21T16:46:11.636457+00:00
+
+ ## Inano.medarbejdere.au.dk
+ - [https://inano.medarbejdere.au.dk](https://inano.medarbejdere.au.dk)
+ - date_published: 2024-04-30T02:33:05.014543+00:00
+
+ ## PhD Programme in Nanoscience at Graduate School of Natural Sciences
+ - [https://inanoschool.au.dk](https://inanoschool.au.dk)
+ - date_published: 2024-04-30T02:33:07.171036+00:00
+
+ ## Læs til ingeniør - AU Engineering, Aarhus Universitet
+ - [https://ingenioer.au.dk](https://ingenioer.au.dk)
+ - date_published: 2024-07-22T10:14:44.568028+00:00
+
+ ## interactingminds.au.dk
+ - [https://interactingminds.au.dk](https://interactingminds.au.dk)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Aarhus University – a top 100 research-intensive university
+ - [https://international.au.dk](https://international.au.dk)
+ - date_published: 2024-04-30T02:32:59.196385+00:00
+
+ ## Services for international staff at Aarhus University
+ - [https://internationalstaff.au.dk](https://internationalstaff.au.dk)
+ - date_published: 2024-07-22T10:18:22.289715+00:00
+
+ ## Jobbank.au.dk
+ - [https://jobbank.au.dk](https://jobbank.au.dk)
+ - date_published: 2024-07-22T10:15:39.049123+00:00
+
+ ## Kandidat på Aarhus Universitet
+ - [https://kandidat.au.dk](https://kandidat.au.dk)
+ - date_published: 2024-04-30T02:33:32.002950+00:00
+
+ ## Kursuskatalog - Aarhus Universitet
+ - [https://kursuskatalog.au.dk](https://kursuskatalog.au.dk)
+ - date_published: 2024-07-22T10:16:07.654792+00:00
+
+ ## Kvalitetsarbejde på Aarhus Universitet
+ - [https://kvalitet.au.dk](https://kvalitet.au.dk)
+ - date_published: 2024-07-22T10:15:44.812326+00:00
+
+ ## Aarhus University Library - Din genvej til viden
+ - [https://library.au.dk](https://library.au.dk)
+ - date_published: 2024-07-22T10:15:41.405973+00:00
+
+ ## Study at Aarhus University in Denmark
+ - [https://masters.au.dk](https://masters.au.dk)
+ - date_published: 2024-04-30T02:33:16.311709+00:00
+
+ ## Institut for Matematik
+ - [https://math.au.dk](https://math.au.dk)
+ - date_published: 2024-04-30T02:33:41.722804+00:00
+
+ ## math.medarbejdere.au.dk
+ - [https://math.medarbejdere.au.dk](https://math.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:14:32.167287+00:00
+
+ ## Institut for Molekylærbiologi og Genetik, Aarhus Universitet
+ - [https://mbg.au.dk](https://mbg.au.dk)
+ - date_published: 2024-04-30T02:33:25.544132+00:00
+
+ ## 403 - siden er adgangsbegrænset / access is restricted
+ - [https://mbg.medarbejdere.au.dk](https://mbg.medarbejdere.au.dk)
+ - date_published: 2024-07-22T10:16:14.787483+00:00
+
+ ## medarbejdere.au.dk
+ - [https://medarbejdere.au.dk](https://medarbejdere.au.dk)
+ - date_published: 2024-04-30T02:32:44.373163+00:00
+
+ ## Sign in to your account
+ - [https://mit.medarbejdere.au.dk](https://mit.medarbejdere.au.dk)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## mitstudie.au.dk
+ - [https://mitstudie.au.dk](https://mitstudie.au.dk)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## Faculty of Natural Sciences - Fakultet ved Aarhus Universitet
+ - [https://nat.au.dk](https://nat.au.dk)
+ - date_published: 2023-12-07T14:50:55.311344+00:00
+
+ ## Medarbejderportal - Faculty of Natural Sciences, Aarhus Universitet
+ - [https://nat.medarbejdere.au.dk](https://nat.medarbejdere.au.dk)
+ - date_published: 2024-04-30T02:33:30.360792+00:00
+
+ ## Offentlige foredrag i Naturvidenskab, Aarhus Universitet | Livestream og live
+ - [https://ofn.au.dk](https://ofn.au.dk)
+ - date_published: 2024-07-19T08:56:25+00:00
+
+ ## Omnibus - Universitetsavisen på Aarhus Universitet
+ - [https://omnibus.au.dk](https://omnibus.au.dk)
+ - date_published: 2024-07-22T10:20:10.721281+00:00
+
+ ## Find en medarbejder
+ - [https://person.au.dk](https://person.au.dk)
+ - date_published: 2024-07-22T10:15:34.752704+00:00
 
