@@ -1,3 +1,107 @@
+ ## Florida Department of Health in Lafayette
+ - [https://lafayette.floridahealth.gov](https://lafayette.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:13.356400+00:00
+
+ ## Florida Department of Health in Lake
+ - [https://lake.floridahealth.gov](https://lake.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:22.703414+00:00
+
+ ## Florida Department of Health in Lee
+ - [https://lee.floridahealth.gov](https://lee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:42.326987+00:00
+
+ ## Florida Department of Health in Leon
+ - [https://leon.floridahealth.gov](https://leon.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:37.888464+00:00
+
+ ## Florida Department of Health in Levy
+ - [https://levy.floridahealth.gov](https://levy.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:06.495337+00:00
+
+ ## Florida Department of Health in Liberty
+ - [https://liberty.floridahealth.gov](https://liberty.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:20.613010+00:00
+
+ ## Florida Department of Health in Madison
+ - [https://madison.floridahealth.gov](https://madison.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:36.081039+00:00
+
+ ## Florida Department of Health in Manatee
+ - [https://manatee.floridahealth.gov](https://manatee.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:35.542586+00:00
+
+ ## Florida Department of Health in Marion
+ - [https://marion.floridahealth.gov](https://marion.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:44.546982+00:00
+
+ ## Florida Department of Health in Martin
+ - [https://martin.floridahealth.gov](https://martin.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:54.793089+00:00
+
+ ## Florida Department of Health in Miami-Dade
+ - [https://miamidade.floridahealth.gov](https://miamidade.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:40.834685+00:00
+
+ ## Florida Department of Health in Monroe
+ - [https://monroe.floridahealth.gov](https://monroe.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:18.122465+00:00
+
+ ## Florida Department of Health in Nassau
+ - [https://nassau.floridahealth.gov](https://nassau.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:45.384361+00:00
+
+ ## Florida Department of Health in Okaloosa
+ - [https://okaloosa.floridahealth.gov](https://okaloosa.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:51.123298+00:00
+
+ ## Florida Department of Health in Okeechobee
+ - [https://okeechobee.floridahealth.gov](https://okeechobee.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:23.010199+00:00
+
+ ## Florida Department of Health in Orange
+ - [https://orange.floridahealth.gov](https://orange.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:03.053483+00:00
+
+ ## Florida Department of Health in Osceola
+ - [https://osceola.floridahealth.gov](https://osceola.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:47.339697+00:00
+
+ ## Florida Department of Health in Palm Beach
+ - [https://palmbeach.floridahealth.gov](https://palmbeach.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:18.388085+00:00
+
+ ## Florida Department of Health in Pasco
+ - [https://pasco.floridahealth.gov](https://pasco.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:33.675855+00:00
+
+ ## Florida Department of Health in Pinellas
+ - [https://pinellas.floridahealth.gov](https://pinellas.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:29.607637+00:00
+
+ ## Florida Department of Health in Polk
+ - [https://polk.floridahealth.gov](https://polk.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:57.307444+00:00
+
+ ## Florida Department of Health in Putnam
+ - [https://putnam.floridahealth.gov](https://putnam.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:00.349286+00:00
+
+ ## Florida Department of Health in Santa Rosa
+ - [https://santarosa.floridahealth.gov](https://santarosa.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:47.417910+00:00
+
+ ## Florida Department of Health in Sarasota
+ - [https://sarasota.floridahealth.gov](https://sarasota.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:32.905599+00:00
+
+ ## Florida Department of Health in Seminole
+ - [https://seminole.floridahealth.gov](https://seminole.floridahealth.gov)
+ - date_published: 2024-07-03T14:50:31.981026+00:00
+
+ ## Florida Department of Health in St Johns
+ - [https://stjohns.floridahealth.gov](https://stjohns.floridahealth.gov)
+ - date_published: 2024-01-01T00:00:00+00:00
+
  ## Florida Department of Health in St Lucie
  - [https://stlucie.floridahealth.gov](https://stlucie.floridahealth.gov)
  - date_published: 2024-07-03T14:47:22.621675+00:00
@@ -3913,108 +4017,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Shuttle Buses
  - [https://shuttles.lbl.gov](https://shuttles.lbl.gov)
  - date_published: 2018-12-13T00:00:00+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://software.lbl.gov](https://software.lbl.gov)
- - date_published: 2024-07-15T02:49:06.678057+00:00
-
- ## Stewardship – Berkeley Lab
- - [https://stewardship.lbl.gov](https://stewardship.lbl.gov)
- - date_published: 2024-07-15T02:40:44.726062+00:00
-
- ## Sign in - Google Accounts
- - [http://tap.lbl.gov](http://tap.lbl.gov)
- - date_published: 2024-07-15T02:49:36.675790+00:00
-
- ## Telework@Berkeley Lab
- - [https://telework.lbl.gov](https://telework.lbl.gov)
- - date_published: 2024-07-15T02:49:08.199288+00:00
-
- ## Berkeley Lab Training
- - [https://training.lbl.gov](https://training.lbl.gov)
- - date_published: 2024-05-12T04:46:55.189881+00:00
-
- ## Waste Guide
- - [http://wasteguide.lbl.gov](http://wasteguide.lbl.gov)
- - date_published: 2024-07-15T02:48:38.958580+00:00
-
- ## We Are Berkeley Lab
- - [https://we-are-berkeley-lab.lbl.gov](https://we-are-berkeley-lab.lbl.gov)
- - date_published: 2024-07-08T15:39:17.327208+00:00
-
- ## Wildfire Smoke and Air Quality
- - [https://wildfiresmoke.lbl.gov](https://wildfiresmoke.lbl.gov)
- - date_published: 2024-07-14T18:02:59.290395+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://workrequest.lbl.gov](https://workrequest.lbl.gov)
- - date_published: 2024-07-15T02:48:17.853759+00:00
-
- ## Berkeley Lab | Delivering Science Solutions for the World
- - [http://www2.lbl.gov](http://www2.lbl.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Dark Energy Spectroscopic Instrument (DESI)
- - [https://www.desi.lbl.gov](https://www.desi.lbl.gov)
- - date_published: 2024-07-21T21:50:50.441342+00:00
-
- ## Welcome to the Federal LCA Commons | Life Cycle Assessment Commons
- - [https://www.lcacommons.gov](https://www.lcacommons.gov)
- - date_published: 2024-06-27T21:13:34+00:00
-
- ## Planifique con anticipación para los desastres | Ready.gov
- - [https://www.listo.gov](https://www.listo.gov)
- - date_published: 2024-07-22T17:03:25+00:00
-
- ## Sign On
- - [http://analytics.llnl.gov](http://analytics.llnl.gov)
- - date_published: 2024-09-19T20:22:55.642315+00:00
-
- ## Advanced Simulation and Computing
- - [https://asc.llnl.gov](https://asc.llnl.gov)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Careers
- - [https://careers.llnl.gov](https://careers.llnl.gov)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## CDN @ LLNL
- - [https://cdn.llnl.gov](https://cdn.llnl.gov)
- - date_published: 2024-04-25T15:59:04+00:00
-
- ## CGSR
- - [https://cgsr.llnl.gov](https://cgsr.llnl.gov)
- - date_published: 2024-07-14T05:11:00.234548+00:00
-
- ## Home | Computing
- - [https://computing.llnl.gov](https://computing.llnl.gov)
- - date_published: 2024-05-01T04:32:49.850199+00:00
-
- ## Content Hub
- - [https://contenthub.llnl.gov](https://contenthub.llnl.gov)
- - date_published: 2024-09-13T19:33:20+00:00
-
- ## Data Science Institute
- - [https://data-science.llnl.gov](https://data-science.llnl.gov)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Science Education Program | Science and Technology
- - [https://education.llnl.gov](https://education.llnl.gov)
- - date_published: 2024-09-13T19:44:51.696652+00:00
-
- ## Engineering
- - [https://engineering.llnl.gov](https://engineering.llnl.gov)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Environmental Stewardship and Occupational Health and Safety
- - [https://enviroinfo.llnl.gov](https://enviroinfo.llnl.gov)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Exascale
- - [https://exascale.llnl.gov](https://exascale.llnl.gov)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Lawrence Livermore National Laboratory
- - [https://fcoi.llnl.gov](https://fcoi.llnl.gov)
- - date_published: 2022-06-24T00:00:00+00:00
 

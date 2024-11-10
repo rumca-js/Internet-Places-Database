@@ -1,3 +1,67 @@
+ ## Partners
+ - [https://partnerspodcast.squarespace.com](https://partnerspodcast.squarespace.com)
+ - date_published: 2022-05-25T00:00:00+00:00
+
+ ## Party Qs - #1 Questions App for Conversation Starters
+ - [https://partyqs.squarespace.com](https://partyqs.squarespace.com)
+ - date_published: 2024-06-23T10:00:07.560291+00:00
+
+ ## Patrick Keefe – Designer + Leader + Fun Loving Irishman
+ - [http://patrick-keefe.squarespace.com](http://patrick-keefe.squarespace.com)
+ - date_published: 2024-08-18T09:39:56.885147+00:00
+
+ ## BlackBox
+ - [https://patrick-mcgowan-bwfc.squarespace.com](https://patrick-mcgowan-bwfc.squarespace.com)
+ - date_published: 2024-07-07T10:47:09.080978+00:00
+
+ ## Paul Layzell
+ - [https://paul-layzell.squarespace.com](https://paul-layzell.squarespace.com)
+ - date_published: 2024-09-14T23:09:02.211578+00:00
+
+ ## Paul Pedrazzi
+ - [https://paul-pedrazzi.squarespace.com](https://paul-pedrazzi.squarespace.com)
+ - date_published: 2024-05-06T22:40:28.801616+00:00
+
+ ## Paul Shipper Studio | Award Winning Film Poster Artist
+ - [https://paulshipper.squarespace.com](https://paulshipper.squarespace.com)
+ - date_published: 2024-07-09T23:16:14.748431+00:00
+
+ ## Pauls Valley
+ - [https://paulsvalley.squarespace.com](https://paulsvalley.squarespace.com)
+ - date_published: 2024-05-06T22:45:38.853636+00:00
+
+ ## Princejvstin Photography
+ - [https://paul-weimer-wzhl.squarespace.com](https://paul-weimer-wzhl.squarespace.com)
+ - date_published: 2024-06-19T09:44:20.155461+00:00
+
+ ## Publisher's Creative Systems
+ - [https://pcspublink.squarespace.com](https://pcspublink.squarespace.com)
+ - date_published: 2024-06-15T21:42:40.642626+00:00
+
+ ## Recipes that Make All Eaters Feel Great | Two Raw Sisters
+ - [https://pear-bulldog-dedg.squarespace.com](https://pear-bulldog-dedg.squarespace.com)
+ - date_published: 2024-10-28T11:53:09.677902+00:00
+
+ ## Ticket Buyer Bill of Rights
+ - [https://pear-perch-6ycy.squarespace.com](https://pear-perch-6ycy.squarespace.com)
+ - date_published: 2024-10-14T07:50:28.937885+00:00
+
+ ## The Pen Addict
+ - [https://penaddict.squarespace.com](https://penaddict.squarespace.com)
+ - date_published: 2024-06-29T20:27:55.984410+00:00
+
+ ## Red Shirt Jeff
+ - [https://penguin-bluebird-xh4g.squarespace.com](https://penguin-bluebird-xh4g.squarespace.com)
+ - date_published: 2024-06-02T05:21:54.548570+00:00
+
+ ## Nathan Pai Schmitt
+ - [https://pentagon-dachshund-hlnt.squarespace.com](https://pentagon-dachshund-hlnt.squarespace.com)
+ - date_published: 2024-08-18T08:46:24.207116+00:00
+
+ ## FOB Kitchen | Top Bay Area Filipino Restaurant | Queer Woman POC Owned
+ - [https://pentagon-guppy-trwc.squarespace.com](https://pentagon-guppy-trwc.squarespace.com)
+ - date_published: 2024-06-26T07:37:51.781587+00:00
+
  ## Multiboard
  - [https://pentagon-swan-dmyh.squarespace.com](https://pentagon-swan-dmyh.squarespace.com)
  - date_published: 2024-01-29T00:00:00+00:00
@@ -3950,68 +4014,4 @@
  ## Proof Assistants Meta Stack Exchange
  - [https://proofassistants.meta.stackexchange.com](https://proofassistants.meta.stackexchange.com)
  - date_published: 2024-05-25T00:00:00+00:00
-
- ## Proof Assistants Stack Exchange
- - [https://proofassistants.stackexchange.com](https://proofassistants.stackexchange.com)
- - date_published: 2023-10-27T23:10:18.343496+00:00
-
- ## Puzzling Meta Stack Exchange
- - [https://puzzling.meta.stackexchange.com](https://puzzling.meta.stackexchange.com)
- - date_published: 2024-08-06T06:23:30.596746+00:00
-
- ## Puzzling Stack Exchange
- - [https://puzzling.stackexchange.com](https://puzzling.stackexchange.com)
- - date_published: 2023-10-25T17:14:03.428352+00:00
-
- ## Quantitative Finance Meta Stack Exchange
- - [https://quant.meta.stackexchange.com](https://quant.meta.stackexchange.com)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Quantitative Finance Stack Exchange
- - [https://quant.stackexchange.com](https://quant.stackexchange.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Quantum Computing Meta Stack Exchange
- - [https://quantumcomputing.meta.stackexchange.com](https://quantumcomputing.meta.stackexchange.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Quantum Computing Stack Exchange
- - [https://quantumcomputing.stackexchange.com](https://quantumcomputing.stackexchange.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Raspberry Pi Meta Stack Exchange
- - [https://raspberrypi.meta.stackexchange.com](https://raspberrypi.meta.stackexchange.com)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Raspberry Pi Stack Exchange
- - [https://raspberrypi.stackexchange.com](https://raspberrypi.stackexchange.com)
- - date_published: 2023-11-06T10:17:19.467869+00:00
-
- ## Retrocomputing Meta Stack Exchange
- - [https://retrocomputing.meta.stackexchange.com](https://retrocomputing.meta.stackexchange.com)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Retrocomputing Stack Exchange
- - [https://retrocomputing.stackexchange.com](https://retrocomputing.stackexchange.com)
- - date_published: 2023-10-25T17:14:06.682774+00:00
-
- ## Reverse Engineering Meta Stack Exchange
- - [https://reverseengineering.meta.stackexchange.com](https://reverseengineering.meta.stackexchange.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Reverse Engineering Stack Exchange
- - [https://reverseengineering.stackexchange.com](https://reverseengineering.stackexchange.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Robotics Meta Stack Exchange
- - [https://robotics.meta.stackexchange.com](https://robotics.meta.stackexchange.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Robotics Stack Exchange
- - [https://robotics.stackexchange.com](https://robotics.stackexchange.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Role-playing Games Meta Stack Exchange
- - [https://rpg.meta.stackexchange.com](https://rpg.meta.stackexchange.com)
- - date_published: 2024-07-09T12:58:19.172562+00:00
 

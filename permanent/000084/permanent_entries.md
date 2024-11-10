@@ -1,3 +1,15 @@
+ ## Demuxed, The Conference for Video Engineers
+ - [https://2018.demuxed.com](https://2018.demuxed.com)
+ - date_published: 2024-07-20T04:42:03.516088+00:00
+
+ ## Demuxed, The Conference for Video Engineers
+ - [https://2019.demuxed.com](https://2019.demuxed.com)
+ - date_published: 2024-07-20T04:42:10.159978+00:00
+
+ ## Demuxed 2020
+ - [https://2020.demuxed.com](https://2020.demuxed.com)
+ - date_published: 2024-07-20T04:41:50.177152+00:00
+
  ## Demuxed 2021
  - [https://2021.demuxed.com](https://2021.demuxed.com)
  - date_published: 2024-07-20T04:41:52.971370+00:00
@@ -4010,16 +4022,4 @@
  ## Devon Dundee
  - [https://devondundee.com](https://devondundee.com)
  - date_published: 2024-07-30T00:00:00+00:00
-
- ## Home - DE Digital
- - [https://www.devoneddydigital.com](https://www.devoneddydigital.com)
- - date_published: 2022-04-03T00:00:00+00:00
-
- ## 500
- - [https://i2-prod.devonlive.com](https://i2-prod.devonlive.com)
- - date_published: 2024-05-02T11:22:16.005893+00:00
-
- ## Devon Live - Latest local news, sport & business from Devon
- - [https://www.devonlive.com](https://www.devonlive.com)
- - date_published: 2024-09-03T23:18:15.917538+00:00
 

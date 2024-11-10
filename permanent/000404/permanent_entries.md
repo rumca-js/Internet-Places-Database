@@ -1,3 +1,183 @@
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://anpc.ro](https://anpc.ro)
+ - date_published: 2024-05-07T10:11:22.137888+00:00
+
+ ## Despre noi
+ - [https://reclamatiisal.anpc.ro](https://reclamatiisal.anpc.ro)
+ - date_published: 2024-06-29T09:05:39.663508+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://sesizari1.anpc.ro](https://sesizari1.anpc.ro)
+ - date_published: 2024-06-29T09:05:46.014996+00:00
+
+ ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
+ - [https://sesizari.anpc.ro](https://sesizari.anpc.ro)
+ - date_published: 2024-06-29T09:05:42.700173+00:00
+
+ ## A.N.S.V.S.A.
+ - [http://www.ansvsa.ro](http://www.ansvsa.ro)
+ - date_published: 2024-07-13T17:43:50.793510+00:00
+
+ ## Protecţia consumatorilor - APC
+ - [http://www.apc-romania.ro](http://www.apc-romania.ro)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Asociația pentru Tehnologie și Internet | Susținem o lume digitală liberă prin promovarea vieții private, libertății de exprimare și a tehnologiilor deschise pe Internet.
+ - [https://apti.ro](https://apti.ro)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Supravegherea spațiului public românesc
+ - [https://cctv.apti.ro](https://cctv.apti.ro)
+ - date_published: 2023-07-29T12:48:55+00:00
+
+ ## Home
+ - [https://www.arnia.ro](https://www.arnia.ro)
+ - date_published: 2024-07-10T08:52:46+00:00
+
+ ## Societatea Culturală Aromână
+ - [http://www.aromanii.ro](http://www.aromanii.ro)
+ - date_published: 2013-05-30T23:26:31+00:00
+
+ ## ARTmania – where art & entertainment meet
+ - [https://artmania.ro](https://artmania.ro)
+ - date_published: 2024-10-29T09:08:40.809845+00:00
+
+ ## ARTmania Festival – Transylvania – Sibiu
+ - [https://www.artmaniafestival.ro](https://www.artmaniafestival.ro)
+ - date_published: 2024-06-19T14:56:10.589833+00:00
+
+ ## Antena Sport
+ - [https://as.ro](https://as.ro)
+ - date_published: 2024-07-12T15:22:46+00:00
+
+ ## Acasa - Academia de Studii Economice Bucuresti
+ - [https://ase.ro](https://ase.ro)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Skills of the Future
+ - [https://exed.fabiz.ase.ro](https://exed.fabiz.ase.ro)
+ - date_published: 2024-09-24T20:53:19.612544+00:00
+
+ ## Home
+ - [https://www.fabiz.ase.ro](https://www.fabiz.ase.ro)
+ - date_published: 2024-06-16T04:06:22.529341+00:00
+
+ ## Asociația P.A.T.R.U.
+ - [http://asociatiapatru.ro](http://asociatiapatru.ro)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Audi România » Aflați detaliile despre modelele disponibile și ofertele aferente
+ - [http://www.audi.ro](http://www.audi.ro)
+ - date_published: 2024-07-19T22:43:50.556517+00:00
+
+ ## Știri auto, teste auto, mașini noi, teste comparative, accesorii auto
+ - [https://www.auto-bild.ro](https://www.auto-bild.ro)
+ - date_published: 2024-07-24T21:32:06.909545+00:00
+
+ ## Programul de afiliere autoDNA
+ - [https://afilio.autodna.ro](https://afilio.autodna.ro)
+ - date_published: 2024-07-13T19:19:44.847509+00:00
+
+ ## Faceți cunoștință cu serviciul autoDNA
+ - [https://autodna.ro](https://autodna.ro)
+ - date_published: 2024-05-11T08:19:31.032065+00:00
+
+ ## Centrul de ajutor autoDNA
+ - [https://support.autodna.ro](https://support.autodna.ro)
+ - date_published: 2024-07-13T19:19:16.865188+00:00
+
+ ## carmarket
+ - [https://carmarket.autoitalia.ro](https://carmarket.autoitalia.ro)
+ - date_published: 2024-10-28T20:41:20.038743+00:00
+
+ ## Piese si accesorii originale
+ - [https://moparstore.autoitalia.ro](https://moparstore.autoitalia.ro)
+ - date_published: 2024-10-28T21:30:57.387717+00:00
+
+ ## Creare magazin online - Avanticart.ro
+ - [https://www.avanticart.ro](https://www.avanticart.ro)
+ - date_published: 2024-09-19T15:00:16.215224+00:00
+
+ ## Explicăm legislația pentru milioane de români, în fiecare lună
+ - [https://avocatnet.ro](https://avocatnet.ro)
+ - date_published: 2024-09-19T15:00:01.403453+00:00
+
+ ## Awesome Projects
+ - [https://www.awesomeprojects.ro](https://www.awesomeprojects.ro)
+ - date_published: 2024-06-16T14:56:45.293655+00:00
+
+ ## AYG - Homepage - AYG
+ - [http://ayg.ro](http://ayg.ro)
+ - date_published: 2024-09-19T14:44:25.549603+00:00
+
+ ## Bacania Veche - Bacania Veche este o poveste despre gusturi nealterate, de la tara, despre arome autentice si mancare sanatoasa. Descopera pravalia si bistro Bacania Veche.
+ - [https://bacaniaveche.ro](https://bacaniaveche.ro)
+ - date_published: 2024-07-14T14:47:49.498396+00:00
+
+ ## Blogul BT | Banca Transilvania
+ - [https://blog.bancatransilvania.ro](https://blog.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:04.838500+00:00
+
+ ## BT Cariere
+ - [https://cariere.bancatransilvania.ro](https://cariere.bancatransilvania.ro)
+ - date_published: 2024-07-03T14:02:57+00:00
+
+ ## Campanii CSR - BT Comunitate | Banca Transilvania
+ - [https://comunitate.bancatransilvania.ro](https://comunitate.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:23.652572+00:00
+
+ ## Banca Transilvania. Bank for Entrepreneurs
+ - [https://en.bancatransilvania.ro](https://en.bancatransilvania.ro)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## BT GO | Aplicația ta de business
+ - [https://go.bancatransilvania.ro](https://go.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:01.249802+00:00
+
+ ## Banca Transilvania. Bank vállalkozóknak
+ - [https://hu.bancatransilvania.ro](https://hu.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:05:21.194811+00:00
+
+ ## Întreb BT | Banca Transilvania
+ - [https://intreb.bancatransilvania.ro](https://intreb.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:04:33.807808+00:00
+
+ ## Banca Transilvania. Banca per gli imprenditori
+ - [https://it.bancatransilvania.ro](https://it.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:04:59.678925+00:00
+
+ ## Banca Transilvania. Банк для підприємців
+ - [https://ukr.bancatransilvania.ro](https://ukr.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:04:25.941209+00:00
+
+ ## Banca Transilvania. Banca Oamenilor Întreprinzători
+ - [https://www.bancatransilvania.ro](https://www.bancatransilvania.ro)
+ - date_published: 2024-09-16T03:04:52.427216+00:00
+
+ ## Owlet BBC BASIC Editor
+ - [https://bbcmic.ro](https://bbcmic.ro)
+ - date_published: 2024-01-17T05:11:30.033411+00:00
+
+ ## VirtualBeeb - BBC Micro 3D simulation
+ - [https://virtual.bbcmic.ro](https://virtual.bbcmic.ro)
+ - date_published: 2021-12-01T00:00:00+00:00
+
+ ## BCR - Persoane fizice
+ - [https://www.bcr.ro](https://www.bcr.ro)
+ - date_published: 2024-10-02T10:28:52+00:00
+
+ ## Biblioteca Centrală Universitară "Lucian Blaga" Cluj-Napoca |
+ - [http://www.bcucluj.ro](http://www.bcucluj.ro)
+ - date_published: 2024-06-23T08:14:30+00:00
+
+ ## BEREA OFICIALĂ A REDACȚIEI TIMES NEW ROMAN
+ - [https://bereatnr.ro](https://bereatnr.ro)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Bitdefender - Lider global software de securitate cibernetică
+ - [https://www.bitdefender.ro](https://www.bitdefender.ro)
+ - date_published: 2024-07-20T02:26:46.575962+00:00
+
  ## Custom web applications and websites | BIXEL - Web development agency
  - [http://bixel.ro](http://bixel.ro)
  - date_published: 2024-10-16T20:53:44.530561+00:00
@@ -3845,185 +4025,4 @@ A slim and mobile-friendly IIIF document viewer
  ## Главная - Фитнес пульс
  - [http://basketballjersey.ru](http://basketballjersey.ru)
  - date_published: 2024-06-10T00:00:00+00:00
-
- ## Battle Teams 2 — бесплатный онлайн-шутер с разнообразным контентом.
- - [https://battleteams2.ru](https://battleteams2.ru)
- - date_published: 2024-10-25T10:46:37.167204+00:00
-
- ## The Symbol - модный женский журнал
- - [http://bazaar.ru](http://bazaar.ru)
- - date_published: 2024-06-25T18:52:55.257359+00:00
-
- ## билайн — официальный сайт оператора сотовой связи
- - [https://moskva.beeline.ru](https://moskva.beeline.ru)
- - date_published: 2024-06-21T14:37:27.493844+00:00
-
- ## Belconsole.ru
- - [https://belconsole.ru](https://belconsole.ru)
- - date_published: 2024-10-17T07:03:46.038474+00:00
-
- ## Привет!
- - [https://bespoyasov.ru](https://bespoyasov.ru)
- - date_published: 2024-07-03T13:40:38+00:00
-
- ## Купить бетон с доставкой в Мытищах, заказать бетон от производителя | Титан
- - [https://beton-mytishhi24.ru](https://beton-mytishhi24.ru)
- - date_published: 2024-09-19T16:41:42.326028+00:00
-
- ## bibimot
- - [https://bibimot.ru](https://bibimot.ru)
- - date_published: 2024-07-19T19:58:29.700797+00:00
-
- ## Bible Online
- - [https://www.bibleonline.ru](https://www.bibleonline.ru)
- - date_published: 2024-06-30T07:24:21.501538+00:00
-
- ## BigTv.ru
- - [https://www.bigtv.ru](https://www.bigtv.ru)
- - date_published: 2024-07-13T13:24:16.992296+00:00
-
- ## Битрикс24: 5 важных инструментов для бизнеса
- - [https://bitrix24.ru](https://bitrix24.ru)
- - date_published: 2024-10-17T14:43:44.159242+00:00
-
- ## РБК Франшизы — новости, материалы, статьи, исследования и кейсы :: РБК
- - [https://biztorg.ru](https://biztorg.ru)
- - date_published: 2024-07-04T10:12:29.748818+00:00
-
- ## БК на андроид — скачать приложения для ставок на спорт на телефон
- - [https://bk-android.ru](https://bk-android.ru)
- - date_published: 2023-07-06T00:00:00+00:00
-
- ## Автобус или автомобиль? Выбирайте поездки по низким ценам | BlaBlaCar
- - [https://blablacar.ru](https://blablacar.ru)
- - date_published: 2024-06-15T01:01:04.240807+00:00
-
- ## BlaBlaLife
- - [https://blog.blablacar.ru](https://blog.blablacar.ru)
- - date_published: 2024-09-15T19:55:23.567215+00:00
-
- ## Bleep-Love | -8-bit, Chiptune netlabel-
- - [https://bleeplove.ru](https://bleeplove.ru)
- - date_published: 2013-07-18T00:00:00+00:00
-
- ## Эгея — движок блога
- - [https://blogengine.ru](https://blogengine.ru)
- - date_published: 2024-08-18T09:36:04.637678+00:00
-
- ## 4Kbench
- - [https://4kbench.blogspot.ru](https://4kbench.blogspot.ru)
- - date_published: 2024-09-04T22:15:29+00:00
-
- ## PyPy Status Blog
- - [http://morepypy.blogspot.ru](http://morepypy.blogspot.ru)
- - date_published: 2024-09-02T09:16:29+00:00
-
- ## Explosive blog | Взлом и защита, с перевесом первого
- - [https://bo0om.ru](https://bo0om.ru)
- - date_published: 2024-06-19T22:55:52.754073+00:00
-
- ## Boeing Global
- - [http://www.boeing.ru](http://www.boeing.ru)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Болеро тур
- - [https://bolerotour.ru](https://bolerotour.ru)
- - date_published: 2024-05-11T10:51:14.424587+00:00
-
- ## Форум
- - [http://annelovegil.borda.ru](http://annelovegil.borda.ru)
- - date_published: 2024-06-18T21:38:44.933208+00:00
-
- ## Borda.ru - создать бесплатный форум. Сервис по созданию форумов.
- - [https://borda.ru](https://borda.ru)
- - date_published: 2024-10-25T19:13:49.917344+00:00
-
- ## Сергей Бронников
- - [https://bronevichok.ru](https://bronevichok.ru)
- - date_published: 2023-11-29T14:19:59.554741+00:00
- - tags: ['personal']
-
- ## Brother Online
- - [https://atyourside.brother.ru](https://atyourside.brother.ru)
- - date_published: 2024-06-17T21:03:41.344402+00:00
-
- ## Brother
- - [https://www.brother.ru](https://www.brother.ru)
- - date_published: 2024-05-02T11:27:23.016086+00:00
-
- ## Brownfox Type
- - [https://brownfox-type.ru](https://brownfox-type.ru)
- - date_published: 2024-06-19T16:29:42.070727+00:00
-
- ## Браузер Atom
- - [https://browser.ru](https://browser.ru)
- - date_published: 2024-06-29T13:36:26.182602+00:00
-
- ## БСХ Бытовые Приборы
- - [https://www.bsh-russia.ru](https://www.bsh-russia.ru)
- - date_published: 2024-05-27T08:46:55+00:00
-
- ## BurdaStyle.ru: для тех, кто шьёт
- - [https://burdastyle.ru](https://burdastyle.ru)
- - date_published: 2024-07-10T03:42:10.383751+00:00
-
- ## Рассказы о вещах
- - [https://bvlgarireplica.ru](https://bvlgarireplica.ru)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Календарь событий 2024 - праздники, именины, дни городов, памятные даты и производственные календари
- - [https://www.calend.ru](https://www.calend.ru)
- - date_published: 2024-06-30T03:42:52.377867+00:00
-
- ## Capitaller - организация и коллективное управление сетевым бизнесом
- - [https://www.capitaller.ru](https://www.capitaller.ru)
- - date_published: 2024-07-04T08:37:06.892531+00:00
-
- ## Main Cards.Ru
- - [https://cards.ru](https://cards.ru)
- - date_published: 2024-07-20T11:30:16.929375+00:00
-
- ## Expertisakr.ru - Недвижимость
- - [https://www.carolinaherrerareplica.ru](https://www.carolinaherrerareplica.ru)
- - date_published: 2024-06-27T06:36:17.517997+00:00
-
- ## carpc-project.ru - Главная
- - [http://carpc-project.ru](http://carpc-project.ru)
- - date_published: 2024-09-06T19:26:42+00:00
-
- ## Авто
- - [https://www.cartierreplicas.ru](https://www.cartierreplicas.ru)
- - date_published: 2024-08-11T21:52:16.562934+00:00
-
- ## Cataloxy   - каталог фирм и организаций, бесплатное создание сайтов-визиток в России
- - [https://www.cataloxy.ru](https://www.cataloxy.ru)
- - date_published: 2024-06-29T19:39:35.701873+00:00
-
- ## Cataloxy   - каталог фирм и организаций, бесплатное создание сайтов-визиток в Беларуси
- - [https://www.cataloxy-by.ru](https://www.cataloxy-by.ru)
- - date_published: 2024-06-29T19:39:33.860721+00:00
-
- ## Cataloxy   - каталог фирм и организаций, бесплатное создание сайтов-визиток в Казахстане
- - [https://www.cataloxy-kz.ru](https://www.cataloxy-kz.ru)
- - date_published: 2024-06-29T19:39:23.374003+00:00
-
- ## Центральный банк Российской Федерации | Банк России
- - [https://cbr.ru](https://cbr.ru)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Координационный центр доменов .RU/.РФ
- - [http://www.cctld.ru](http://www.cctld.ru)
- - date_published: 2024-06-21T21:37:37.200650+00:00
-
- ## Данный домен возможно продается.
- - [http://web.cdx.ru](http://web.cdx.ru)
- - date_published: 2024-07-11T21:49:32.454521+00:00
-
- ## СИС — Сертифицированные информационные системы — Заявитель и изготовитель программного обеспечения, сертифицированного в системе ФСТЭК по требованиям безопасности информации
- - [http://certsys.ru](http://certsys.ru)
- - date_published: 2024-06-21T14:54:39.033190+00:00
-
- ## Центр Финансовых Технологий. Программное обеспечение
- - [https://www.cft.ru](https://www.cft.ru)
- - date_published: 2024-06-21T14:53:53.238719+00:00
 

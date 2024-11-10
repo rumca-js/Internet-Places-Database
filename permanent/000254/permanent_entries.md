@@ -1,3 +1,99 @@
+ ## Google
+ - [https://www.google.dm](https://www.google.dm)
+ - date_published: 2024-06-21T22:25:25.232720+00:00
+
+ ## me.dm by Medium.com
+ - [https://me.dm](https://me.dm)
+ - date_published: 2024-05-01T05:42:33.983359+00:00
+
+ ## 3M Ciencia. Aplicada a la vida. | 3M República Dominicana
+ - [https://www.3m.com.do](https://www.3m.com.do)
+ - date_published: 2024-08-06T10:42:17.889426+00:00
+
+ ## Audi República Dominicana | Vive el futuro de la movilidad premium
+ - [https://www.audi.com.do](https://www.audi.com.do)
+ - date_published: 2024-07-19T20:44:16+00:00
+
+ ## Chrysler
+ - [http://www.chrysler.com.do](http://www.chrysler.com.do)
+ - date_published: 2024-06-19T09:09:17.891723+00:00
+
+ ## Citroën República Dominicana: Automóviles Nuevos. Post Venta
+ - [https://citroen.com.do](https://citroen.com.do)
+ - date_published: 2023-12-11T16:03:59.081023+00:00
+
+ ## Dodge República Dominicana
+ - [https://dodge.com.do](https://dodge.com.do)
+ - date_published: 2024-06-22T11:59:00+00:00
+
+ ## ESPN República Dominicana - Lo Último del Mundo Deportivo
+ - [https://www.espn.com.do](https://www.espn.com.do)
+ - date_published: 2024-05-02T09:41:26.565027+00:00
+
+ ## Grafika Google
+ - [https://images.google.com.do](https://images.google.com.do)
+ - date_published: 2024-07-20T07:38:33.741901+00:00
+
+ ## Google
+ - [https://www.google.com.do](https://www.google.com.do)
+ - date_published: 2024-06-21T22:24:04.304136+00:00
+
+ ## IKEA Santo Domingo - Tienda online de muebles y decoración
+ - [https://www.ikea.com.do](https://www.ikea.com.do)
+ - date_published: 2024-07-19T23:50:51.984396+00:00
+
+ ## SUV y crossovers Jeep® | Sitio oficial de Jeep
+ - [https://www.jeep.com.do](https://www.jeep.com.do)
+ - date_published: 2024-10-28T22:11:22.148848+00:00
+
+ ## Ktech Solutions - Soluciones de internet, Diseno Grafico, Web Design, Web Hosting, Social Media, Paginas de internet, Paginas Web en Santo Domingo, República Dominicana, Mantenimiento de Websites
+ - [https://ktech.com.do](https://ktech.com.do)
+ - date_published: 2024-09-10T13:56:48.243842+00:00
+
+ ## Mercado Libre República Dominicana - Envíos Gratis en el día
+ - [https://www.mercadolibre.com.do](https://www.mercadolibre.com.do)
+ - date_published: 2020-07-20T03:12:15+00:00
+
+ ## Open... Operaciones y Entrenamiento
+ - [https://open.com.do](https://open.com.do)
+ - date_published: 2022-09-24T02:22:05+00:00
+
+ ## Camionetas RAM | Es temporada de Ram
+ - [http://www.ramtrucks.com.do](http://www.ramtrucks.com.do)
+ - date_published: 2024-06-19T09:10:50.902665+00:00
+
+ ## restaurantenoah
+ - [https://restaurantenoah.com.do](https://restaurantenoah.com.do)
+ - date_published: 2024-07-26T02:25:28+00:00
+
+ ## SANTILLANA
+ - [https://santillana.com.do](https://santillana.com.do)
+ - date_published: 2024-06-12T13:05:26.096169+00:00
+
+ ## Santillana Compartir República Dominicana
+ - [https://santillanacompartir.com.do](https://santillanacompartir.com.do)
+ - date_published: 2024-09-13T10:42:44.304231+00:00
+
+ ## Sony República Dominicana  | Últimas noticias sobre tecnología | Productos electrónicos | Entretenimiento
+ - [http://www.sony.com.do](http://www.sony.com.do)
+ - date_published: 2024-10-21T07:38:05.532662+00:00
+
+ ## Visa, un líder confiable en pagos digitales
+ - [https://visa.com.do](https://visa.com.do)
+ - date_published: 2024-05-12T04:00:04.501872+00:00
+
+ ## home
+ - [https://www.alfaromeo.do](https://www.alfaromeo.do)
+ - date_published: 2024-05-28T10:27:42+00:00
+
+ ## Alfredo Lopez
+ - [https://alfre.do](https://alfre.do)
+ - date_published: 2024-07-13T04:18:06.196261+00:00
+
+ ## A simple to do list for you and your team
+ - [https://any.do](https://any.do)
+ - date_published: 2024-06-16T09:30:40.564146+00:00
+
  ## Organize your life and manage your team's work with Any.do
  - [https://app.any.do](https://app.any.do)
  - date_published: 2024-06-13T12:34:07+00:00
@@ -3912,100 +4008,4 @@
  ## Baylor Center for Developmental Disabilities
  - [https://bcdd.soe.baylor.edu](https://bcdd.soe.baylor.edu)
  - date_published: 2023-06-12T13:48:00+00:00
-
- ## Baylor Center for School Leadership | Baylor University
- - [https://bcsl.soe.baylor.edu](https://bcsl.soe.baylor.edu)
- - date_published: 2022-11-21T11:10:00+00:00
-
- ## Beall Poetry Festival
- - [https://beall.artsandsciences.baylor.edu](https://beall.artsandsciences.baylor.edu)
- - date_published: 2022-01-21T14:04:00+00:00
-
- ## Beall-Russell Lectures in the Humanities
- - [https://beallrussell.web.baylor.edu](https://beallrussell.web.baylor.edu)
- - date_published: 2021-09-13T14:10:00+00:00
-
- ## Baylor Bear Habitat
- - [https://bearhabitat.web.baylor.edu](https://bearhabitat.web.baylor.edu)
- - date_published: 2023-05-05T11:33:00+00:00
-
- ## Behavior Analysis Research (BeAR) Lab
- - [https://bearlab.soe.baylor.edu](https://bearlab.soe.baylor.edu)
- - date_published: 2023-10-18T11:28:00+00:00
-
- ## Baylor BearsAbroad
- - [https://bearsabroad.baylor.edu](https://bearsabroad.baylor.edu)
- - date_published: 2024-08-19T18:27:50.173623+00:00
-
- ## Baylor Initiative on Christianity and the Arts
- - [https://bica.artsandsciences.baylor.edu](https://bica.artsandsciences.baylor.edu)
- - date_published: 2024-03-28T14:11:00+00:00
-
- ## Baylor Interdisciplinary Core
- - [https://bic.honors.baylor.edu](https://bic.honors.baylor.edu)
- - date_published: 2023-05-18T15:24:00+00:00
-
- ## Department of Biology
- - [https://biology.artsandsciences.baylor.edu](https://biology.artsandsciences.baylor.edu)
- - date_published: 2022-10-01T09:08:00+00:00
-
- ## Blogs @ Baylor University
- - [https://blogs.baylor.edu](https://blogs.baylor.edu)
- - date_published: 2024-08-19T17:35:00+00:00
-
- ## Baylor News
- - [https://bn.web.baylor.edu](https://bn.web.baylor.edu)
- - date_published: 2023-01-09T10:16:00+00:00
-
- ## Board of Regents
- - [https://boardofregents.web.baylor.edu](https://boardofregents.web.baylor.edu)
- - date_published: 2022-05-06T14:34:00+00:00
-
- ## Baylor University Brand Guide
- - [https://brand.web.baylor.edu](https://brand.web.baylor.edu)
- - date_published: 2021-07-28T08:44:00+00:00
-
- ## Baylor Research and Innovation Collaborative
- - [https://bric.research.baylor.edu](https://bric.research.baylor.edu)
- - date_published: 2022-05-16T11:51:00+00:00
-
- ## Home
- - [https://brights.artsandsciences.baylor.edu](https://brights.artsandsciences.baylor.edu)
- - date_published: 2023-07-05T09:52:00+00:00
-
- ## Brooks College
- - [https://brookscollege.web.baylor.edu](https://brookscollege.web.baylor.edu)
- - date_published: 2023-05-02T16:20:00+00:00
-
- ## Baylor Sciences Building
- - [https://bsb.artsandsciences.baylor.edu](https://bsb.artsandsciences.baylor.edu)
- - date_published: 2022-12-02T15:07:00+00:00
-
- ## Planning & Budgeting
- - [https://budget.web.baylor.edu](https://budget.web.baylor.edu)
- - date_published: 2023-04-20T10:11:00+00:00
-
- ## Hankamer School of Business
- - [https://business.baylor.edu](https://business.baylor.edu)
- - date_published: 2022-06-07T10:09:00+00:00
-
- ## Creative Arts Experience
- - [https://cae.artsandsciences.baylor.edu](https://cae.artsandsciences.baylor.edu)
- - date_published: 2022-04-27T14:44:00+00:00
-
- ## Events | Calendar | Baylor University
- - [https://calendar.web.baylor.edu](https://calendar.web.baylor.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Campus Recreation
- - [https://campusrec.web.baylor.edu](https://campusrec.web.baylor.edu)
- - date_published: 2023-03-03T14:22:00+00:00
-
- ## Campus Services
- - [https://campusservices.web.baylor.edu](https://campusservices.web.baylor.edu)
- - date_published: 2022-09-12T11:48:00+00:00
-
- ## Canvas
- - [https://canvas.web.baylor.edu](https://canvas.web.baylor.edu)
- - date_published: 2022-07-06T13:44:00+00:00
 

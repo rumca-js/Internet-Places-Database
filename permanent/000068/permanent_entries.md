@@ -1,3 +1,7 @@
+ ## Location not Supported | BritBox
+ - [https://britbox.com](https://britbox.com)
+ - date_published: 2024-04-29T05:16:08.813430+00:00
+
  ## BritBox
  - [https://help.britbox.com](https://help.britbox.com)
  - date_published: 2024-02-26T00:00:00+00:00
@@ -1263,6 +1267,10 @@
  - [https://brutalresonance.com](https://brutalresonance.com)
  - date_published: 2024-04-16T00:00:00+00:00
  - tags: ['music news']
+
+ ## Brute Ratel C4
+ - [https://bruteratel.com](https://bruteratel.com)
+ - date_published: 2024-10-30T06:16:01+00:00
 
  ## Home
  - [https://brutkasten.com](https://brutkasten.com)
@@ -4025,12 +4033,4 @@
  ## Business Travel Awards Europe
  - [https://businesstravelawardseurope.com](https://businesstravelawardseurope.com)
  - date_published: 2024-02-05T00:00:00+00:00
-
- ## Business Travel News
- - [https://businesstravelnews.com](https://businesstravelnews.com)
- - date_published: 2024-05-08T04:01:05.261795+00:00
-
- ## The BTN Group
- - [https://sales.businesstravelnews.com](https://sales.businesstravelnews.com)
- - date_published: 2024-07-03T20:43:13.792642+00:00
 

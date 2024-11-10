@@ -1,3 +1,7 @@
+ ## The PyCon US Blog
+ - [https://pycon.blogspot.com](https://pycon.blogspot.com)
+ - date_published: 2024-05-06T23:45:56.764189+00:00
+
  ## PyDev adventures
  - [http://pydev.blogspot.com](http://pydev.blogspot.com)
  - date_published: 2024-06-14T01:35:10+00:00
@@ -4007,8 +4011,4 @@
  ## Rail Thing - Friends of the S&D
  - [http://somersetanddorset.blogspot.com](http://somersetanddorset.blogspot.com)
  - date_published: 2024-03-21T15:46:42+00:00
-
- ## SOMETHING IN THE DUNGEON
- - [https://somethinginthedungeon.blogspot.com](https://somethinginthedungeon.blogspot.com)
- - date_published: 2024-06-29T15:52:03+00:00
 

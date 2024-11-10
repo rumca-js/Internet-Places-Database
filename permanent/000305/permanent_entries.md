@@ -1,3 +1,108 @@
+ ## Liangbin Xie @ University of Macau
+ - [https://liangbinxie.github.io](https://liangbinxie.github.io)
+ - date_published: 2024-04-08T04:53:45+00:00
+
+ ## Liang Chen - The University of Adelaide
+ - [https://liangchen527.github.io](https://liangchen527.github.io)
+ - date_published: 2024-03-17T11:12:13+00:00
+
+ ## Liber Brunoniana
+ - [https://liber-brunoniana.github.io](https://liber-brunoniana.github.io)
+ - date_published: 2016-09-10T16:03:13+00:00
+
+ ## The libexif C EXIF library
+ - [https://libexif.github.io](https://libexif.github.io)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## GD Graphics Library
+ - [https://libgd.github.io](https://libgd.github.io)
+ - date_published: 2021-09-12T00:00:00+00:00
+
+ ## LibRedirect - Privacy-friendly Redirector
+ - [https://libredirect.github.io](https://libredirect.github.io)
+ - date_published: 2024-05-26T06:02:02+00:00
+
+ ## Licheng Yu - Facebook AI
+ - [https://lichengunc.github.io](https://lichengunc.github.io)
+ - date_published: 2024-02-27T07:38:43+00:00
+
+ ## Chongyi Li
+ - [https://li-chongyi.github.io](https://li-chongyi.github.io)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## lieuxnoir
+ - [https://lieux.github.io](https://lieux.github.io)
+ - date_published: 2023-09-02T15:42:07+00:00
+
+ ## Byoungyoung Lee @SNU
+ - [https://lifeasageek.github.io](https://lifeasageek.github.io)
+ - date_published: 2024-08-29T00:39:04+00:00
+
+ ## Zhixiang Wang
+ - [https://lightchaserx.github.io](https://lightchaserx.github.io)
+ - date_published: 2024-06-16T05:28:35+00:00
+
+ ## Lightspark
+ - [https://lightspark.github.io](https://lightspark.github.io)
+ - date_published: 2011-01-01T00:00:00+00:00
+ - tags: ['flash player']
+
+ ## Seongmin Lee
+ - [https://ligi214.github.io](https://ligi214.github.io)
+ - date_published: 2024-05-22T17:33:18+00:00
+
+ ## Haoyi's Programming Blog
+ - [https://lihaoyi.github.io](https://lihaoyi.github.io)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## Lihe Yang
+ - [https://liheyoung.github.io](https://liheyoung.github.io)
+ - date_published: 2024-04-28T03:39:21.103590+00:00
+
+ ## Lija Esela
+ - [https://lija-esela.github.io](https://lija-esela.github.io)
+ - date_published: 2022-10-25T19:58:43+00:00
+
+ ## Jiaman Li Homepage
+ - [https://lijiaman.github.io](https://lijiaman.github.io)
+ - date_published: 2023-12-08T04:28:26+00:00
+
+ ## Jing Li's homepage
+ - [https://lijing1996.github.io](https://lijing1996.github.io)
+ - date_published: 2024-07-19T03:44:58+00:00
+
+ ## Kenneth Li
+ - [https://likenneth.github.io](https://likenneth.github.io)
+ - date_published: 2024-06-24T21:42:24+00:00
+
+ ## Zhihao Xia
+ - [https://likesum.github.io](https://likesum.github.io)
+ - date_published: 2024-03-12T20:23:18+00:00
+
+ ## likle.github.io
+ - [https://likle.github.io](https://likle.github.io)
+ - date_published: 2018-09-05T15:47:07+00:00
+
+ ## About
+ - [https://lilei-nlp.github.io](https://lilei-nlp.github.io)
+ - date_published: 2024-07-04T02:53:42+00:00
+
+ ## Lil'Log
+ - [https://lilianweng.github.io](https://lilianweng.github.io)
+ - date_published: 2023-10-25T19:48:19.880822+00:00
+
+ ## Manling Li
+ - [https://limanling.github.io](https://limanling.github.io)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Ming Li
+ - [https://liming-ai.github.io](https://liming-ai.github.io)
+ - date_published: 2024-04-17T04:32:22+00:00
+
+ ## Laura Lindzey
+ - [https://lindzey.github.io](https://lindzey.github.io)
+ - date_published: 2020-10-21T04:13:12+00:00
+
  ## Lines That Connect
  - [https://linesthatconnect.github.io](https://linesthatconnect.github.io)
  - date_published: 2024-04-22T02:31:13.321868+00:00
@@ -2653,6 +2758,10 @@
  - [https://openbiohazard2.github.io](https://openbiohazard2.github.io)
  - date_published: 2023-04-20T00:00:00+00:00
 
+ ## OpenCoder: Open Cookbook for Top-Tier Code Large Language Models
+ - [https://opencoder-llm.github.io](https://opencoder-llm.github.io)
+ - date_published: 2024-11-09T17:27:30+00:00
+
  ## OpenDAC: Discovering sorbents for DAC using AI
  - [https://open-dac.github.io](https://open-dac.github.io)
  - date_published: 2024-05-14T03:02:09+00:00
@@ -3933,112 +4042,4 @@
  ## Blogs
  - [https://rdivyanshu.github.io](https://rdivyanshu.github.io)
  - date_published: 2024-08-03T12:26:41+00:00
-
- ## R. D. Müller – making the software-world a better place one document at a time
- - [https://rdmueller.github.io](https://rdmueller.github.io)
- - date_published: 2020-11-02T03:10:40+00:00
-
- ## React Bootstrap | React Bootstrap
- - [https://react-bootstrap.github.io](https://react-bootstrap.github.io)
- - date_published: 2024-02-05T17:39:32+00:00
-
- ## ReAct: Synergizing Reasoning and Acting in Language Models
- - [https://react-lm.github.io](https://react-lm.github.io)
- - date_published: 2022-11-27T22:43:10+00:00
-
- ## Storybook
- - [https://reactstrap.github.io](https://reactstrap.github.io)
- - date_published: 2022-10-27T18:09:14+00:00
-
- ## Learning Customized Visual Models with Retrieval-Augmented Knowledge
- - [https://react-vl.github.io](https://react-vl.github.io)
- - date_published: 2023-01-18T03:06:27+00:00
-
- ## Readout Guidance: Learning Control from Diffusion Features
- - [https://readout-guidance.github.io](https://readout-guidance.github.io)
- - date_published: 2024-05-16T20:49:37+00:00
-
- ## Gen Li
- - [https://reagan1311.github.io](https://reagan1311.github.io)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Reagent: Minimalistic React for ClojureScript
- - [https://reagent-project.github.io](https://reagent-project.github.io)
- - date_published: 2023-03-11T21:33:16+00:00
-
- ## Real2Code: Reconstruct Articulated Objects with Code Generation
- - [https://real2code.github.io](https://real2code.github.io)
- - date_published: 2024-06-13T17:38:44+00:00
-
- ## RealFill
- - [https://realfill.github.io](https://realfill.github.io)
- - date_published: 2023-10-25T19:51:39.362206+00:00
-
- ## Neumorphism UI by Themesberg
- - [https://realliyifei.github.io](https://realliyifei.github.io)
- - date_published: 2024-04-19T00:27:19+00:00
-
- ## Realm Open Source
- - [https://realm.github.io](https://realm.github.io)
- - date_published: 2017-08-14T23:17:11+00:00
-
- ## Real-time volumetric rendering of dynamic humans
- - [https://real-time-humans.github.io](https://real-time-humans.github.io)
- - date_published: 2023-03-22T13:19:23+00:00
-
- ## Reanimate
- - [https://reanimate.github.io](https://reanimate.github.io)
- - date_published: 2020-09-23T05:00:16+00:00
-
- ## Reason · Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.
- - [https://reasonml.github.io](https://reasonml.github.io)
- - date_published: 2024-03-21T14:08:44+00:00
-
- ## About Me
- - [https://recktenwald.github.io](https://recktenwald.github.io)
- - date_published: 2024-01-05T11:32:47+00:00
-
- ## ReconFusion: 3D Reconstruction with Diffusion Priors
- - [https://reconfusion.github.io](https://reconfusion.github.io)
- - date_published: 2023-12-08T16:44:34+00:00
-
- ## Zhenggang Tang’s Personal Website
- - [https://recordmp3.github.io](https://recordmp3.github.io)
- - date_published: 2024-02-26T22:07:03+00:00
-
- ## redex | Reason Package Index
- - [https://redex.github.io](https://redex.github.io)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## Guidelines for Red Hat Documentation
- - [https://redhat-documentation.github.io](https://redhat-documentation.github.io)
- - date_published: 2022-08-08T15:21:59+00:00
-
- ## Redis plugins for Grafana
- - [https://redisgrafana.github.io](https://redisgrafana.github.io)
- - date_published: 2023-07-24T16:10:26+00:00
-
- ## Zaid Humayun’s Blog
- - [https://redixhumayun.github.io](https://redixhumayun.github.io)
- - date_published: 2024-01-12T07:51:30.350642+00:00
-
- ## RedWolf Recovery Project
- - [https://redwolfrecovery.github.io](https://redwolfrecovery.github.io)
- - date_published: 2018-04-16T18:57:17+00:00
-
- ## Ref-NPR: Reference-Based Non-Photorealistic Radiance Fields
- - [https://ref-npr.github.io](https://ref-npr.github.io)
- - date_published: 2023-06-04T13:10:22+00:00
-
- ## reibitto's blog
- - [https://reibitto.github.io](https://reibitto.github.io)
- - date_published: 2022-07-11T00:00:00+00:00
-
- ## Guanhong Wang
- - [https://rejoicelf.github.io](https://rejoicelf.github.io)
- - date_published: 2024-03-04T07:26:54+00:00
-
- ## ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots
- - [https://rekep-robot.github.io](https://rekep-robot.github.io)
- - date_published: 2024-09-29T12:59:49+00:00
 

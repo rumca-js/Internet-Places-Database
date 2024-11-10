@@ -1,3 +1,103 @@
+ ## Welcome to MCAE | MCAE
+ - [http://mcae.umn.edu](http://mcae.umn.edu)
+ - date_published: 2024-07-12T16:13:40+00:00
+
+ ## Medical School
+ - [https://med-d9.prd.umn.edu](https://med-d9.prd.umn.edu)
+ - date_published: 2024-05-07T21:30:07.863681+00:00
+
+ ## Web Login Service
+ - [https://mediaspace.umn.edu](https://mediaspace.umn.edu)
+ - date_published: 2024-07-02T04:07:14.343163+00:00
+
+ ## Medical School
+ - [https://med.umn.edu](https://med.umn.edu)
+ - date_published: 2023-10-25T19:02:48.728498+00:00
+
+ ## Paul Meehl | Paul E. Meehl
+ - [http://meehl.umn.edu](http://meehl.umn.edu)
+ - date_published: 2024-06-12T15:02:49+00:00
+
+ ## Minnesota Invasive Terrestrial Plants and Pests Center
+ - [https://mitppc.umn.edu](https://mitppc.umn.edu)
+ - date_published: 2024-07-08T17:32:26+00:00
+
+ ## University of Minnesota Morris
+ - [https://morris.umn.edu](https://morris.umn.edu)
+ - date_published: 2024-05-11T07:55:42.951152+00:00
+
+ ## The Circuits and Biology Lab at UMN
+ - [https://mriedel.ece.umn.edu](https://mriedel.ece.umn.edu)
+ - date_published: 2024-05-07T21:31:14.438714+00:00
+
+ ## C&I faculty members receive prestigious fellowship award on Antisemitism and Jewish Inclusion
+ - [https://news.cehd.umn.edu](https://news.cehd.umn.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## News Center Home Page
+ - [https://news.d.umn.edu](https://news.d.umn.edu)
+ - date_published: 2024-07-12T19:23:44+00:00
+
+ ## Welcome to the Office for Conflict Resolution | Office for Conflict Resolution
+ - [http://ocr.umn.edu](http://ocr.umn.edu)
+ - date_published: 2024-07-10T15:52:13+00:00
+
+ ## Education Program | Office for Equity & Diversity Education Program
+ - [https://oeded.umn.edu](https://oeded.umn.edu)
+ - date_published: 2024-07-10T14:18:09+00:00
+
+ ## Please Login | OED Intranet
+ - [https://oedintranet.umn.edu](https://oedintranet.umn.edu)
+ - date_published: 2024-07-13T17:12:21+00:00
+
+ ## Report Web Disability-Related Issue
+ - [https://oit-drupal-prd-web.oit.umn.edu](https://oit-drupal-prd-web.oit.umn.edu)
+ - date_published: 2024-05-07T21:29:50.648111+00:00
+
+ ## Home | Crookston One Stop Student Services
+ - [http://onestop.crk.umn.edu](http://onestop.crk.umn.edu)
+ - date_published: 2024-06-20T19:00:39+00:00
+
+ ## Home | Duluth One Stop Student Services
+ - [http://onestop.d.umn.edu](http://onestop.d.umn.edu)
+ - date_published: 2024-06-27T13:19:32+00:00
+
+ ## Home | Morris One Stop Student Services
+ - [http://onestop.morris.umn.edu](http://onestop.morris.umn.edu)
+ - date_published: 2024-07-01T19:37:47+00:00
+
+ ## Home | Rochester One Stop Student Services
+ - [http://onestop.r.umn.edu](http://onestop.r.umn.edu)
+ - date_published: 2024-07-01T18:24:15+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop-tc.prd.umn.edu](https://onestop-tc.prd.umn.edu)
+ - date_published: 2024-07-01T18:27:01+00:00
+
+ ## Home | Twin Cities One Stop Student Services
+ - [https://onestop.umn.edu](https://onestop.umn.edu)
+ - date_published: 2024-05-07T21:30:12.406123+00:00
+
+ ## Online Learning | University of Minnesota Morris
+ - [https://onlinelearning.morris.umn.edu](https://onlinelearning.morris.umn.edu)
+ - date_published: 2024-07-12T21:39:39+00:00
+
+ ## Publishing Services
+ - [https://open.lib.umn.edu](https://open.lib.umn.edu)
+ - date_published: 2024-05-08T06:58:55.509369+00:00
+
+ ## Center for Open Education
+ - [https://open.umn.edu](https://open.umn.edu)
+ - date_published: 2023-10-25T19:02:55.930942+00:00
+
+ ## Orientation | UMN Duluth
+ - [https://orientation.d.umn.edu](https://orientation.d.umn.edu)
+ - date_published: 2024-07-10T14:03:11+00:00
+
+ ## Welcome! | Office for Student Affairs
+ - [https://osa.umn.edu](https://osa.umn.edu)
+ - date_published: 2024-07-10T14:48:04+00:00
+
  ## Office for Supplier Diversity | Office for Business & Community Economic Development
  - [https://osd.umn.edu](https://osd.umn.edu)
  - date_published: 2024-07-13T17:12:54+00:00
@@ -3917,104 +4017,4 @@
  ## Penn Engineering Events |
  - [https://events.seas.upenn.edu](https://events.seas.upenn.edu)
  - date_published: 2024-05-07T21:58:19.158165+00:00
-
- ## Home Page
- - [https://executiveeducation.wharton.upenn.edu](https://executiveeducation.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## EMBA Homepage
- - [https://executivemba.wharton.upenn.edu](https://executivemba.wharton.upenn.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Home Page
- - [https://executive.wharton.upenn.edu](https://executive.wharton.upenn.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home | University of Pennsylvania Facilities and Real Estate Services
- - [https://facilities.upenn.edu](https://facilities.upenn.edu)
- - date_published: 2024-05-07T21:58:22.982068+00:00
-
- ## Faculty Affairs |
- - [https://facultyaffairs.seas.upenn.edu](https://facultyaffairs.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:21.514810+00:00
-
- ## Wharton Faculty Platform
- - [https://faculty.wharton.upenn.edu](https://faculty.wharton.upenn.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home
- - [https://fisher.wharton.upenn.edu](https://fisher.wharton.upenn.edu)
- - date_published: 2024-06-21T11:42:59.091675+00:00
-
- ## Franklin - University of Pennsylvania
- - [https://franklin.library.upenn.edu](https://franklin.library.upenn.edu)
- - date_published: 2024-09-07T22:49:37.055258+00:00
-
- ## Giving to Penn
- - [https://giving.apps.upenn.edu](https://giving.apps.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Giving to Penn
- - [https://giving.aws.cloud.upenn.edu](https://giving.aws.cloud.upenn.edu)
- - date_published: 2024-02-27T14:54:09+00:00
-
- ## Inspiring Impact | University of Pennsylvania
- - [http://giving.upenn.edu](http://giving.upenn.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Penn Global
- - [https://global.upenn.edu](https://global.upenn.edu)
- - date_published: 2024-06-18T13:45:23+00:00
-
- ## Home Page
- - [https://global.wharton.upenn.edu](https://global.wharton.upenn.edu)
- - date_published: 2024-06-16T21:53:26.976137+00:00
-
- ## Wharton Global Youth Program Home
- - [https://globalyouth.wharton.upenn.edu](https://globalyouth.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:54.245043+00:00
-
- ## Penn Engineering Graduate Admissions
- - [https://gradadm.seas.upenn.edu](https://gradadm.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:45.434601+00:00
-
- ## Graduate Affairs |
- - [https://grad.seas.upenn.edu](https://grad.seas.upenn.edu)
- - date_published: 2024-06-22T10:04:21.307517+00:00
-
- ## GRASP Laboratory
- - [https://grasp.upenn.edu](https://grasp.upenn.edu)
- - date_published: 2024-05-19T02:40:45.984065+00:00
-
- ## groups.sas.upenn.edu Mailing Lists
- - [https://groups.sas.upenn.edu](https://groups.sas.upenn.edu)
- - date_published: 2024-05-07T21:59:00.890305+00:00
-
- ## The Wharton School
- - [https://groups.wharton.upenn.edu](https://groups.wharton.upenn.edu)
- - date_published: 2024-10-14T20:09:48.142003+00:00
-
- ## Guides: Guides Home: Research Guides
- - [https://guides.library.upenn.edu](https://guides.library.upenn.edu)
- - date_published: 2024-07-01T18:48:13.998189+00:00
-
- ## Andreas Haeberlen
- - [https://haeberlen.cis.upenn.edu](https://haeberlen.cis.upenn.edu)
- - date_published: 2024-07-02T10:29:50.654958+00:00
-
- ## University of Pennsylvania Libraries - Handle Testing
- - [http://hdl.library.upenn.edu](http://hdl.library.upenn.edu)
- - date_published: 2021-10-30T00:18:01+00:00
-
- ## Penn Computer & Information Science Highlights – Inventing the future
- - [https://highlights.cis.upenn.edu](https://highlights.cis.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Human Resources |
- - [https://hr.seas.upenn.edu](https://hr.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:28.412548+00:00
-
- ## Penn Arts and Sciences High School Programs
- - [https://hs.sas.upenn.edu](https://hs.sas.upenn.edu)
- - date_published: 2024-07-02T10:33:57.730525+00:00
 

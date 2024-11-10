@@ -1,3 +1,115 @@
+ ## پیشخوان | مرکز انفورماتيک
+ - [https://id.aut.ac.ir](https://id.aut.ac.ir)
+ - date_published: 2024-10-22T05:53:29.950163+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی صنایع و سیستم‌های مدیریت
+ - [https://ie.aut.ac.ir](https://ie.aut.ac.ir)
+ - date_published: 2024-10-22T06:03:35.231489+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  پارک علم و فناوری
+ - [http://inotec.aut.ac.ir](http://inotec.aut.ac.ir)
+ - date_published: 2024-10-22T05:48:22.892983+00:00
+
+ ## Amirkabir University of Technology Journals Management System
+ - [http://journals.aut.ac.ir](http://journals.aut.ac.ir)
+ - date_published: 2024-10-22T05:59:03.201212+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  پردیس بین المللی کیش
+ - [http://kish.aut.ac.ir](http://kish.aut.ac.ir)
+ - date_published: 2024-10-22T05:48:02.309196+00:00
+
+ ## خانه
+ - [http://library.aut.ac.ir](http://library.aut.ac.ir)
+ - date_published: 2024-10-22T06:01:46.349123+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  واحد آموزشی بندر ماهشهر
+ - [https://mahshahr.aut.ac.ir](https://mahshahr.aut.ac.ir)
+ - date_published: 2024-10-22T05:49:26.857966+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مدیریت امور مالی
+ - [http://mali.aut.ac.ir](http://mali.aut.ac.ir)
+ - date_published: 2024-10-22T05:50:47.307803+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی دریا
+ - [https://marinetech.aut.ac.ir](https://marinetech.aut.ac.ir)
+ - date_published: 2024-10-22T06:01:25.375762+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده ریاضی و علوم کامپیوتر
+ - [https://math.aut.ac.ir](https://math.aut.ac.ir)
+ - date_published: 2024-10-22T05:56:36.161080+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی مکانیک
+ - [https://me.aut.ac.ir](https://me.aut.ac.ir)
+ - date_published: 2024-10-22T06:04:24.069992+00:00
+
+ ## AUT Journal of Modeling and Simulation
+ - [https://miscj.aut.ac.ir](https://miscj.aut.ac.ir)
+ - date_published: 2024-10-22T06:02:21.264398+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی مواد و متالورژی
+ - [https://mme.aut.ac.ir](https://mme.aut.ac.ir)
+ - date_published: 2024-10-22T06:01:33.228646+00:00
+
+ ## سایت دانشکده مدیریت، علم و فناوری دانشگاه صنعتی امیرکبیر
+ - [http://mst.aut.ac.ir](http://mst.aut.ac.ir)
+ - date_published: 2024-10-22T05:56:18.297849+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشجویان ورودی جدید دانشگاه صنعتی امیرکبیر
+ - [https://newstudents.aut.ac.ir](https://newstudents.aut.ac.ir)
+ - date_published: 2024-10-22T06:01:59.160289+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  پژوهشكده فناوری های نو
+ - [http://ntrc.aut.ac.ir](http://ntrc.aut.ac.ir)
+ - date_published: 2024-10-22T05:53:10.713790+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مدیریت برنامه  بودجه و تحول اداری
+ - [http://pbo.aut.ac.ir](http://pbo.aut.ac.ir)
+ - date_published: 2024-10-22T05:47:18.603120+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی نفت
+ - [https://petroleum.aut.ac.ir](https://petroleum.aut.ac.ir)
+ - date_published: 2024-10-22T05:56:25.513816+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  اداره امور هیات علمی
+ - [https://pfaculty.aut.ac.ir](https://pfaculty.aut.ac.ir)
+ - date_published: 2024-10-22T06:02:14.435831+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی انرژی و فیزیک
+ - [https://phee.aut.ac.ir](https://phee.aut.ac.ir)
+ - date_published: 2024-10-22T06:00:43.302392+00:00
+
+ ## دفترچه تلفن دانشگاه صنعتی امیرکبیر -  دانشگاه صنعتی امیرکبیر
+ - [http://phone.aut.ac.ir](http://phone.aut.ac.ir)
+ - date_published: 2024-10-22T05:58:50.764585+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  گروه آموزشی تربیت بدنی
+ - [http://physical.aut.ac.ir](http://physical.aut.ac.ir)
+ - date_published: 2024-10-22T06:03:27.411620+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی پلیمر و رنگ
+ - [https://polymer.aut.ac.ir](https://polymer.aut.ac.ir)
+ - date_published: 2024-10-22T05:53:37.019123+00:00
+
+ ## صفحه اول
+ - [http://research.aut.ac.ir](http://research.aut.ac.ir)
+ - date_published: 2024-10-22T05:52:54.303274+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  اداره امور پژوهشی
+ - [http://researchoffice.aut.ac.ir](http://researchoffice.aut.ac.ir)
+ - date_published: 2024-10-22T06:00:35.525841+00:00
+
+ ## میز خدمت دانشگاه صنعتی امیرکبیر
+ - [https://sarv.aut.ac.ir](https://sarv.aut.ac.ir)
+ - date_published: 2024-10-22T05:53:04.606535+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  اداره تربیت بدنی و فوق برنامه ورزشی
+ - [https://sport.aut.ac.ir](https://sport.aut.ac.ir)
+ - date_published: 2024-10-22T05:50:18.257304+00:00
+
+ ## مدیریت یکپارچه آموزش
+ - [https://stm.aut.ac.ir](https://stm.aut.ac.ir)
+ - date_published: 2024-10-22T05:57:16.259112+00:00
+
  ## دانشگاه صنعتی امیرکبیر -  معاونت فرهنگی و دانشجویی
  - [http://student.aut.ac.ir](http://student.aut.ac.ir)
  - date_published: 2024-10-22T05:58:12.426133+00:00
@@ -3917,116 +4029,4 @@
  ## Ministero dell'Istruzione e del Merito
  - [https://www.miur.gov.it](https://www.miur.gov.it)
  - date_published: 2024-06-23T21:05:53.403068+00:00
-
- ## Dipartimento per le Pari Opportunità -
- - [http://www.pariopportunita.gov.it](http://www.pariopportunita.gov.it)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## homepage
- - [https://www.politicheagricole.gov.it](https://www.politicheagricole.gov.it)
- - date_published: 2024-06-23T20:15:24+00:00
-
- ## Loading...
- - [https://www.protezionecivile.gov.it](https://www.protezionecivile.gov.it)
- - date_published: 2024-05-29T22:47:14+00:00
-
- ## Home - Quello che conta
- - [https://www.quellocheconta.gov.it](https://www.quellocheconta.gov.it)
- - date_published: 2024-09-26T21:01:11+00:00
-
- ## Ministero della Salute
- - [https://www.salute.gov.it](https://www.salute.gov.it)
- - date_published: 2021-05-14T13:05:35+00:00
-
- ## SPID - Sistema Pubblico di identità Digitale
- - [https://www.spid.gov.it](https://www.spid.gov.it)
- - date_published: 2022-01-03T00:00:00+00:00
-
- ## Home | Unioncamere
- - [http://www.unioncamere.gov.it](http://www.unioncamere.gov.it)
- - date_published: 2024-07-14T16:10:16.501204+00:00
-
- ## Il Sole 24 Ore: notizie di economia, finanza, borsa, fisco, cronaca italiana ed esteri
- - [https://i2.res.24o.it](https://i2.res.24o.it)
- - date_published: 2019-11-21T13:47:58+00:00
-
- ## 3CX. PBX. Live Chat. Videoconferenza
- - [https://3cx.it](https://3cx.it)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## 3M Science. Applied to Life.™ | 3M Italia Sito Ufficiale
- - [https://www.3mitalia.it](https://www.3mitalia.it)
- - date_published: 2024-08-06T10:41:29.339397+00:00
-
- ## 50 Top Pizza – Guide to the BestPizzerias in the world
- - [https://www.50toppizza.it](https://www.50toppizza.it)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## 64b.it | Software Development & Quality Consulting
- - [https://64b.it](https://64b.it)
- - date_published: 2024-08-08T15:18:19.747259+00:00
-
- ## NOT Dexter's Lab
- - [https://www.a2p.it](https://www.a2p.it)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Sito ufficiale Abarth - Auto sportive | Abarth
- - [https://www.abarth.it](https://www.abarth.it)
- - date_published: 2024-06-05T14:57:53+00:00
-
- ## Valutazione auto usate : stima auto usate | Abarth IT
- - [https://www.valutazioneusato.abarth.it](https://www.valutazioneusato.abarth.it)
- - date_published: 2024-10-28T21:42:00.898863+00:00
-
- ## Home page - Abbazia di San Giorgio Maggiore
- - [https://abbaziasangiorgio.it](https://abbaziasangiorgio.it)
- - date_published: 2023-04-18T16:16:55+00:00
-
- ## Abbonamenti a riviste, prodotti e servizi - Abbonamenti.it
- - [https://www.abbonamenti.it](https://www.abbonamenti.it)
- - date_published: 2024-07-15T11:02:36.613733+00:00
-
- ## Homepage - Abbonationline
- - [https://www.abbonationline.it](https://www.abbonationline.it)
- - date_published: 2024-09-20T17:25:05.643371+00:00
-
- ## Magazine
- - [https://abbonatiqui.it](https://abbonatiqui.it)
- - date_published: 2024-05-12T06:00:08.830769+00:00
-
- ## Magazine
- - [https://offerte.abbonatiqui.it](https://offerte.abbonatiqui.it)
- - date_published: 2024-07-15T11:02:31.779664+00:00
-
- ## AbeBooks | Libri, Arte e Collezionismo
- - [https://abebooks.it](https://abebooks.it)
- - date_published: 2024-09-15T23:49:00.408027+00:00
-
- ## Abebooks
- - [https://supporto.abebooks.it](https://supporto.abebooks.it)
- - date_published: 2023-09-16T23:50:29+00:00
-
- ## Abitare | Rivista d'Architettura e Design
- - [http://www.abitare.it](http://www.abitare.it)
- - date_published: 2024-09-02T10:41:08.140512+00:00
-
- ## About Amazon Italia
- - [https://aboutamazon.it](https://aboutamazon.it)
- - date_published: 2024-05-01T02:02:27.509499+00:00
-
- ## Home - Amazon Sustainability
- - [https://sostenibilita.aboutamazon.it](https://sostenibilita.aboutamazon.it)
- - date_published: 2024-06-15T02:15:07.409446+00:00
-
- ## AboutBits | Software Development and Consulting Agency
- - [https://aboutbits.it](https://aboutbits.it)
- - date_published: 2024-08-19T16:43:58.344387+00:00
-
- ## Proposte di moda online da oltre 1500 grandi brand | ABOUT YOU
- - [https://m.aboutyou.it](https://m.aboutyou.it)
- - date_published: 2024-09-17T18:06:41+00:00
-
- ## Proposte di moda online da oltre 1500 grandi brand | ABOUT YOU
- - [https://www.aboutyou.it](https://www.aboutyou.it)
- - date_published: 2024-09-17T18:06:41+00:00
 

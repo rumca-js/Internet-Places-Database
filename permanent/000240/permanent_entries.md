@@ -1,3 +1,91 @@
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [https://lehreronline.adspirit.de](https://lehreronline.adspirit.de)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Metal Hammer Ticketshop
+ - [https://metal-hammer.adticket.de](https://metal-hammer.adticket.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Advanced Magic
+ - [https://neovox.advancedmagic.de](https://neovox.advancedmagic.de)
+ - date_published: 2022-10-27T13:46:43+00:00
+
+ ## Startseite
+ - [https://advertorial.de](https://advertorial.de)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Rechtsanwaltskanzlei Heng
+ - [http://www.advocatus.de](http://www.advocatus.de)
+ - date_published: 2024-07-13T10:25:57.692021+00:00
+
+ ## Niedersächsische Akademie der Wissenschaften zu Göttingen
+ - [https://adw-goe.de](https://adw-goe.de)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## ADZINE - Magazin für Media. Marketing. Technologie.
+ - [https://www.adzine.de](https://www.adzine.de)
+ - date_published: 2024-06-25T20:46:23.560379+00:00
+
+ ## AEP Emulation Page - Emulation News :: Online seit dem 1. April 1998
+ - [https://www.aep-emu.de](https://www.aep-emu.de)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## AERO International
+ - [http://www.aerointernational.de](http://www.aerointernational.de)
+ - date_published: 2024-07-09T09:20:06+00:00
+
+ ## aerokurier | Das Piloten-Magazin
+ - [http://www.aerokurier.de](http://www.aerokurier.de)
+ - date_published: 2024-07-09T21:50:30.209332+00:00
+
+ ## MTU AEROREPORT
+ - [https://aeroreport.de](https://aeroreport.de)
+ - date_published: 2024-07-09T22:29:56.316936+00:00
+
+ ## Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin
+ - [https://aerzteblatt.de](https://aerzteblatt.de)
+ - date_published: 2024-04-29T07:11:14.147120+00:00
+
+ ## Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin
+ - [https://cfcdn.aerzteblatt.de](https://cfcdn.aerzteblatt.de)
+ - date_published: 2024-07-24T03:00:19.155174+00:00
+
+ ## Shop für Praxisbedarf & mehr | Deutscher Ärzteverlag
+ - [https://shop.aerzteverlag.de](https://shop.aerzteverlag.de)
+ - date_published: 2024-07-24T03:00:23.902698+00:00
+
+ ## Deutscher Ärzteverlag
+ - [http://www.aerzteverlag.de](http://www.aerzteverlag.de)
+ - date_published: 2024-07-24T03:00:30.079222+00:00
+
+ ## Home - AEWB
+ - [https://www.aewb-nds.de](https://www.aewb-nds.de)
+ - date_published: 2024-07-02T23:20:54.312311+00:00
+
+ ## AfD - Alternative für Deutschland
+ - [https://www.afd.de](https://www.afd.de)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Afeefa Kollektiv
+ - [https://kollektiv.afeefa.de](https://kollektiv.afeefa.de)
+ - date_published: 2024-07-09T18:51:48.171486+00:00
+
+ ## Startseite - Affiliate Marketing Blog
+ - [https://www.affiliateblog.de](https://www.affiliateblog.de)
+ - date_published: 2024-01-31T00:00:00+00:00
+
+ ## Afghanistan Forum in Deutschland
+ - [https://afghanistan-forum.de](https://afghanistan-forum.de)
+ - date_published: 2024-09-12T16:02:48.127991+00:00
+
+ ## afgis
+ - [https://www.afgis.de](https://www.afgis.de)
+ - date_published: 2024-07-24T21:31:01.507500+00:00
+
+ ## AFRAID | Sony Pictures Germany
+ - [http://www.afraid-film.de](http://www.afraid-film.de)
+ - date_published: 2024-07-04T00:00:00+00:00
+
  ## AFVD Datenbank – Backend für AFVD Webauftritte
  - [https://db.afvd.de](https://db.afvd.de)
  - date_published: 2024-09-25T19:13:28.009920+00:00
@@ -3933,92 +4021,4 @@ und Stadtentwicklung
  ## DIP
  - [https://dip.bundestag.de](https://dip.bundestag.de)
  - date_published: 2024-04-29T05:56:33.167668+00:00
-
- ## Deutscher Bundestag - Startseite
- - [https://dserver.bundestag.de](https://dserver.bundestag.de)
- - date_published: 2024-06-28T21:40:50.347993+00:00
-
- ## Petitionen: Startseite
- - [https://epetitionen.bundestag.de](https://epetitionen.bundestag.de)
- - date_published: 2024-04-29T05:56:15.208106+00:00
-
- ## Login - Lobbyregister beim Deutschen Bundestag
- - [https://iv.lobbyregister.bundestag.de](https://iv.lobbyregister.bundestag.de)
- - date_published: 2024-07-24T17:40:33.759131+00:00
-
- ## Lobbyregister beim Deutschen Bundestag
- - [https://lobbyregister.bundestag.de](https://lobbyregister.bundestag.de)
- - date_published: 2024-04-29T05:56:34.771274+00:00
-
- ## OPAC: Katalog
- - [https://opac.bundestag.de](https://opac.bundestag.de)
- - date_published: 2024-04-29T05:56:20.460097+00:00
-
- ## Ihr Besuchswunsch
- - [https://visite.bundestag.de](https://visite.bundestag.de)
- - date_published: 2024-04-29T05:56:35.712521+00:00
-
- ## Deutscher Bundestag - Startseite
- - [https://webtv.bundestag.de](https://webtv.bundestag.de)
- - date_published: 2024-04-29T05:56:28.539670+00:00
-
- ## Bundestagsshop
- - [https://bundestagsshop.de](https://bundestagsshop.de)
- - date_published: 2023-12-07T12:22:20.768351+00:00
-
- ## Historische Souvenirs zum Thema Reichstagsgebäude - Bundestagsshop
- - [https://info.bundestagsshop.de](https://info.bundestagsshop.de)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## BundesTelefonbuch Startseite
- - [https://www.bundes-telefonbuch.de](https://www.bundes-telefonbuch.de)
- - date_published: 2024-09-30T13:15:43.715362+00:00
-
- ## Bundesverband Crowdfunding – Interessensvertretung der Crowdfunding-Plattformen
- - [https://www.bundesverband-crowdfunding.de](https://www.bundesverband-crowdfunding.de)
- - date_published: 2024-10-02T10:47:12.727176+00:00
-
- ## Home | Bundesverband Mobile Beratung
- - [https://bundesverband-mobile-beratung.de](https://bundesverband-mobile-beratung.de)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Start · Bundesverband Trans*
- - [https://www.bundesverband-trans.de](https://www.bundesverband-trans.de)
- - date_published: 2024-09-12T14:30:33+00:00
-
- ## Bundesverfassungsgericht  -  Startseite
- - [https://bundesverfassungsgericht.de](https://bundesverfassungsgericht.de)
- - date_published: 2023-10-25T18:28:33.150667+00:00
-
- ## Bundeswehr
- - [https://www.bundeswehr.de](https://www.bundeswehr.de)
- - date_published: 2024-07-09T14:17:30.268924+00:00
-
- ## Bundesweite Anlaufstelle - Die Landeskoordinierungsstellen Glücksspielsucht
- - [https://www.bundesweit-gegen-gluecksspielsucht.de](https://www.bundesweit-gegen-gluecksspielsucht.de)
- - date_published: 2024-07-14T02:16:53.752526+00:00
-
- ## bunkverlag - bunkverlag – Kulturmedien + Kulturcommunication
- - [https://bunkverlag.de](https://bunkverlag.de)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## BUNTE.de: Promi-News zu deinen Stars, Royals & VIPs
- - [https://www.bunte.de](https://www.bunte.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Burda Digital Health
- - [https://www.burdadigitalhealth.de](https://www.burdadigitalhealth.de)
- - date_published: 2024-10-07T10:21:21+00:00
-
- ## BurdaForward - Das sind gute Nachrichten
- - [https://burda-forward.de](https://burda-forward.de)
- - date_published: 2024-05-07T10:55:52.394725+00:00
-
- ## BurdaForward SelfService
- - [https://login.burda-forward.de](https://login.burda-forward.de)
- - date_published: 2024-08-13T14:20:51+00:00
-
- ## Burda Journalistenschule
- - [https://burda-journalistenschule.de](https://burda-journalistenschule.de)
- - date_published: 2024-09-30T01:30:22+00:00
 

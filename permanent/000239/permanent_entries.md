@@ -1,3 +1,91 @@
+ ## Atomic Charge Calculator II
+ - [https://acc2.ncbr.muni.cz](https://acc2.ncbr.muni.cz)
+ - date_published: 2024-06-29T16:39:34.519569+00:00
+
+ ## Aleph main menu
+ - [https://aleph.muni.cz](https://aleph.muni.cz)
+ - date_published: 2019-08-02T16:53:07+00:00
+
+ ## AlphaCharges
+ - [https://alphacharges.ncbr.muni.cz](https://alphacharges.ncbr.muni.cz)
+ - date_published: 2024-06-29T16:39:35.375061+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.ics.muni.cz](https://analytics.ics.muni.cz)
+ - date_published: 2024-07-08T18:51:22.127410+00:00
+
+ ## Munispace - Web Analytics Reports - Matomo
+ - [https://analytics.journals.muni.cz](https://analytics.journals.muni.cz)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Ústav botaniky a zoologie
+ - [https://botzool.sci.muni.cz](https://botzool.sci.muni.cz)
+ - date_published: 2024-07-08T18:48:29.661565+00:00
+
+ ## Webová stavebnice WebCentrum | WebCentrum
+ - [https://cdn.muni.cz](https://cdn.muni.cz)
+ - date_published: 2024-07-08T18:48:04.738293+00:00
+
+ ## Dílna rozvoje pedagogických kompetencí | CERPEK
+ - [https://cerpek.muni.cz](https://cerpek.muni.cz)
+ - date_published: 2024-07-08T18:50:59.484874+00:00
+
+ ## Centrum informačních technologií FF | IT služby Masarykovy univerzity
+ - [https://cit.phil.muni.cz](https://cit.phil.muni.cz)
+ - date_published: 2024-07-08T18:52:40.651758+00:00
+
+ ## Masarykova univerzita založila dceřinou společnost MUNI Ventures, ve které drží 100% vlastnický podíl | Centrum pro transfer technologií Masarykovy univerzity
+ - [https://ctt.muni.cz](https://ctt.muni.cz)
+ - date_published: 2024-05-08T16:50:16.011981+00:00
+
+ ## Home - Centre for International Cooperation | Masaryk University
+ - [http://czs.muni.cz](http://czs.muni.cz)
+ - date_published: 2024-07-08T18:51:09+00:00
+
+ ## | Digital Library of the Faculty of Arts Masaryk University
+ - [https://digilib.phil.muni.cz](https://digilib.phil.muni.cz)
+ - date_published: 2024-05-08T16:49:21.208693+00:00
+
+ ## Digitalia MUNI ARTS – důvěryhodná infrastruktura pro digitální platformy FF MU. | Digitalia MUNI ARTS | MUNI PHIL
+ - [https://digitalia.phil.muni.cz](https://digitalia.phil.muni.cz)
+ - date_published: 2024-07-08T18:48:03.040231+00:00
+
+ ## Home | ELF
+ - [https://elf.phil.muni.cz](https://elf.phil.muni.cz)
+ - date_published: 2024-07-08T18:52:49+00:00
+
+ ## EMIS
+ - [http://emis.muni.cz](http://emis.muni.cz)
+ - date_published: 2023-08-22T15:28:54+00:00
+
+ ## Zpravodajský portál Masarykovy univerzity Magazín M
+ - [https://em.muni.cz](https://em.muni.cz)
+ - date_published: 2024-05-08T16:49:49.745055+00:00
+
+ ## Portál elektronických informačních zdrojů MU
+ - [https://ezdroje.muni.cz](https://ezdroje.muni.cz)
+ - date_published: 2024-07-08T18:53:02.478773+00:00
+
+ ## Špičkový partner pro řešení IT potřeb | Ústav výpočetní techniky
+ - [https://ics.muni.cz](https://ics.muni.cz)
+ - date_published: 2024-05-08T16:50:09.935884+00:00
+
+ ## Discovery service
+ - [https://idm.ics.muni.cz](https://idm.ics.muni.cz)
+ - date_published: 2024-09-16T00:42:00.168418+00:00
+
+ ## Enter your username and password | MUNI Unified Login
+ - [https://inet.muni.cz](https://inet.muni.cz)
+ - date_published: 2024-07-08T18:48:59.135477+00:00
+
+ ## Informační systém
+ - [https://is.muni.cz](https://is.muni.cz)
+ - date_published: 2024-05-08T16:49:22.692562+00:00
+
+ ## IT služby Masarykovy univerzity | IT služby Masarykovy univerzity
+ - [https://it.muni.cz](https://it.muni.cz)
+ - date_published: 2024-07-08T18:48:06.193777+00:00
+
  ## Časopisy Masarykovy univerzity
  - [https://journals.muni.cz](https://journals.muni.cz)
  - date_published: 2000-01-01T00:00:00+00:00
@@ -3936,92 +4024,4 @@ web | Webarchiv.cz
  ## AdServer - Login
  - [https://konradin.adspirit.de](https://konradin.adspirit.de)
  - date_published: 2024-06-30T08:38:23+00:00
-
- ## Apache HTTP Server Test Page powered by CentOS
- - [https://lehreronline.adspirit.de](https://lehreronline.adspirit.de)
- - date_published: 2014-10-16T13:20:58+00:00
-
- ## Metal Hammer Ticketshop
- - [https://metal-hammer.adticket.de](https://metal-hammer.adticket.de)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Advanced Magic
- - [https://neovox.advancedmagic.de](https://neovox.advancedmagic.de)
- - date_published: 2022-10-27T13:46:43+00:00
-
- ## Startseite
- - [https://advertorial.de](https://advertorial.de)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Rechtsanwaltskanzlei Heng
- - [http://www.advocatus.de](http://www.advocatus.de)
- - date_published: 2024-07-13T10:25:57.692021+00:00
-
- ## Niedersächsische Akademie der Wissenschaften zu Göttingen
- - [https://adw-goe.de](https://adw-goe.de)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## ADZINE - Magazin für Media. Marketing. Technologie.
- - [https://www.adzine.de](https://www.adzine.de)
- - date_published: 2024-06-25T20:46:23.560379+00:00
-
- ## AEP Emulation Page - Emulation News :: Online seit dem 1. April 1998
- - [https://www.aep-emu.de](https://www.aep-emu.de)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## AERO International
- - [http://www.aerointernational.de](http://www.aerointernational.de)
- - date_published: 2024-07-09T09:20:06+00:00
-
- ## aerokurier | Das Piloten-Magazin
- - [http://www.aerokurier.de](http://www.aerokurier.de)
- - date_published: 2024-07-09T21:50:30.209332+00:00
-
- ## MTU AEROREPORT
- - [https://aeroreport.de](https://aeroreport.de)
- - date_published: 2024-07-09T22:29:56.316936+00:00
-
- ## Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin
- - [https://aerzteblatt.de](https://aerzteblatt.de)
- - date_published: 2024-04-29T07:11:14.147120+00:00
-
- ## Deutsches Ärzteblatt: Aktuelles aus Gesundheitspolitik und Medizin
- - [https://cfcdn.aerzteblatt.de](https://cfcdn.aerzteblatt.de)
- - date_published: 2024-07-24T03:00:19.155174+00:00
-
- ## Shop für Praxisbedarf & mehr | Deutscher Ärzteverlag
- - [https://shop.aerzteverlag.de](https://shop.aerzteverlag.de)
- - date_published: 2024-07-24T03:00:23.902698+00:00
-
- ## Deutscher Ärzteverlag
- - [http://www.aerzteverlag.de](http://www.aerzteverlag.de)
- - date_published: 2024-07-24T03:00:30.079222+00:00
-
- ## Home - AEWB
- - [https://www.aewb-nds.de](https://www.aewb-nds.de)
- - date_published: 2024-07-02T23:20:54.312311+00:00
-
- ## AfD - Alternative für Deutschland
- - [https://www.afd.de](https://www.afd.de)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Afeefa Kollektiv
- - [https://kollektiv.afeefa.de](https://kollektiv.afeefa.de)
- - date_published: 2024-07-09T18:51:48.171486+00:00
-
- ## Startseite - Affiliate Marketing Blog
- - [https://www.affiliateblog.de](https://www.affiliateblog.de)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Afghanistan Forum in Deutschland
- - [https://afghanistan-forum.de](https://afghanistan-forum.de)
- - date_published: 2024-09-12T16:02:48.127991+00:00
-
- ## afgis
- - [https://www.afgis.de](https://www.afgis.de)
- - date_published: 2024-07-24T21:31:01.507500+00:00
-
- ## AFRAID | Sony Pictures Germany
- - [http://www.afraid-film.de](http://www.afraid-film.de)
- - date_published: 2024-07-04T00:00:00+00:00
 

@@ -1,3 +1,91 @@
+ ## JPlace
+ - [https://jplace.de](https://jplace.de)
+ - date_published: 2022-08-28T15:23:09+00:00
+
+ ## INDIVIDUAL COMPUTERS [jens schoenfeld] GmbH (forwarder)
+ - [http://www.jschoenfeld.de](http://www.jschoenfeld.de)
+ - date_published: 2014-08-20T14:52:41+00:00
+
+ ## Jan-Thorben Brinkmann - adesso SE | LinkedIn
+ - [https://jtbrinkmann.de](https://jtbrinkmann.de)
+ - date_published: 2024-10-30T10:50:26.999675+00:00
+
+ ## JTL-Connect 2024
+ - [https://jtl-connect.de](https://jtl-connect.de)
+ - date_published: 2024-10-22T20:06:36.644814+00:00
+
+ ## Anmeldung
+ - [https://crm.jtl-software.de](https://crm.jtl-software.de)
+ - date_published: 2024-08-09T04:25:55.574396+00:00
+
+ ## Supportforum für JTL-Wawi, JTL-Shop, JTL-POS, JTL-WMS, JTL-eazyAuction und JTL-Connectoren von JTL-Software
+ - [https://forum.jtl-software.de](https://forum.jtl-software.de)
+ - date_published: 2024-08-09T04:25:38+00:00
+
+ ## Kundencenter JTL-Software-GmbH
+ - [https://kundencenter.jtl-software.de](https://kundencenter.jtl-software.de)
+ - date_published: 2024-08-09T04:25:57.681408+00:00
+
+ ## Startseite
+ - [https://www.jtl-software.de](https://www.jtl-software.de)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Startseite
+ - [https://jtl-url.de](https://jtl-url.de)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Java User Group Darmstadt Community der Java Anwender in und um Darmstadt
+ - [https://www.jug-da.de](https://www.jug-da.de)
+ - date_published: 2024-06-19T22:22:20+00:00
+
+ ## Startseite
+ - [https://www.jugendbruecke.de](https://www.jugendbruecke.de)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Jugendfolkorchester
+ - [https://www.jugendfolkorchester.de](https://www.jugendfolkorchester.de)
+ - date_published: 2024-08-08T03:45:11.193689+00:00
+
+ ## Home - Stiftung Jugend forscht e. V.
+ - [https://www.jugend-forscht.de](https://www.jugend-forscht.de)
+ - date_published: 2024-07-24T07:54:49.439986+00:00
+
+ ## Organisation Youth for Human Rights: Video über die Geschichte der Menschenrechte, Informationen, Neuigkeiten, Informationsmappe und Hefte
+ - [http://www.jugend-fuer-menschenrechte.de](http://www.jugend-fuer-menschenrechte.de)
+ - date_published: 2024-08-30T00:31:12+00:00
+
+ ## Jugend hackt – Mit Code die Welt verbessern
+ - [http://jugendhackt.de](http://jugendhackt.de)
+ - date_published: 2019-07-11T14:26:10+00:00
+
+ ## Startseite
+ - [https://blog.jugendherberge.de](https://blog.jugendherberge.de)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Jugendherbergen in Deutschland entdecken
+ - [https://www.jugendherberge.de](https://www.jugendherberge.de)
+ - date_published: 2024-06-21T11:43:10.157092+00:00
+
+ ## Jugendpresse Deutschland e.V. - Jugendpresse Deutschland e.V.
+ - [https://jugendpresse.de](https://jugendpresse.de)
+ - date_published: 2024-09-12T16:03:26.932649+00:00
+
+ ## Landesstelle Jugendschutz Niedersachsen | Die LJS arbeitet zu aktuellen Themen des Kinder- und Jugendschutzes
+ - [https://www.jugendschutz-niedersachsen.de](https://www.jugendschutz-niedersachsen.de)
+ - date_published: 2024-07-02T23:20:45.631096+00:00
+
+ ## Home - JusProg Jugendschutzprogramm
+ - [https://jugendschutzprogramm.de](https://jugendschutzprogramm.de)
+ - date_published: 2024-05-13T03:45:22.293720+00:00
+
+ ## Jugend und Bildung -  Startseite
+ - [https://jugend-und-bildung.de](https://jugend-und-bildung.de)
+ - date_published: 2024-06-17T15:41:25.341844+00:00
+
+ ## Herzlich Willkommen bei Jugendwohnen im Kiez - Jugendwohnen im Kiez Jugendwohnen im Kiez
+ - [http://www.jugendwohnen-berlin.de](http://www.jugendwohnen-berlin.de)
+ - date_published: 2024-06-29T14:09:29.854563+00:00
+
  ## JUG Oberpfalz | Meetup
  - [https://jug-oberpfalz.de](https://jug-oberpfalz.de)
  - date_published: 2024-07-01T05:18:43.834959+00:00
@@ -3932,92 +4020,4 @@
  ## The Web Design and Development agency from Berlin
  - [https://mobiteam.de](https://mobiteam.de)
  - date_published: 2024-06-20T16:05:34.442561+00:00
-
- ## KIT - Fakultät für Mathematik - Der Modellansatz Podcast
- - [http://modellansatz.de](http://modellansatz.de)
- - date_published: 2024-08-18T16:47:34.418880+00:00
-
- ## moderneREGIONAL
- - [https://www.moderne-regional.de](https://www.moderne-regional.de)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Möbel & Deko günstig online kaufen: Mit dem Preisvergleich auf moebel.de
- - [https://www.moebel.de](https://www.moebel.de)
- - date_published: 2024-09-17T21:42:59.689478+00:00
-
- ## Qualitätsmöbel günstig online kaufen - Möbelconnection Outlet
- - [https://www.moebelconnection.de](https://www.moebelconnection.de)
- - date_published: 2024-07-12T16:55:27.529446+00:00
-
- ## moenchengladbach.de
- - [https://www.moenchengladbach.de](https://www.moenchengladbach.de)
- - date_published: 2024-10-31T05:33:45.587403+00:00
-
- ## 54. moers festival 06.-09.06.25
- - [https://www.moers-festival.de](https://www.moers-festival.de)
- - date_published: 2024-10-31T04:42:37.343849+00:00
-
- ## moin.de – Nachrichten aus Hamburg und dem Norden
- - [https://www.moin.de](https://www.moin.de)
- - date_published: 2024-10-27T23:00:20.624128+00:00
-
- ## Umami
- - [https://analytics.mokkapps.de](https://analytics.mokkapps.de)
- - date_published: 2024-07-14T07:53:33.753512+00:00
-
- ## Home | Michael Hoffmann
- - [https://mokkapps.de](https://mokkapps.de)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## molily
- - [https://molily.de](https://molily.de)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Billigflüge - Finde günstige Flüge im momondo Flugvergleich
- - [https://www.momondo.de](https://www.momondo.de)
- - date_published: 2024-10-18T18:58:00.436008+00:00
-
- ## MOMWORX Technikblog
- - [http://momworx.de](http://momworx.de)
- - date_published: 2024-10-27T12:11:12.758326+00:00
-
- ## Mon Chéri
- - [http://www.moncheri.de](http://www.moncheri.de)
- - date_published: 2024-10-21T08:21:15+00:00
-
- ## LMd
- - [https://monde-diplomatique.de](https://monde-diplomatique.de)
- - date_published: 2024-05-13T03:11:51.089685+00:00
-
- ## Neuester Blog mit Gratisproben | MONETENFUCHS
- - [http://www.monetenfuchs.de](http://www.monetenfuchs.de)
- - date_published: 2024-09-04T07:47:37+00:00
-
- ## Das Buchhaltungsprogramm für den Unternehmer
- - [https://www.moneybird.de](https://www.moneybird.de)
- - date_published: 2024-06-16T00:06:37+00:00
-
- ## MoneyLab Berlin: March 26-28, 2021
- - [https://moneylab-berlin.de](https://moneylab-berlin.de)
- - date_published: 2021-03-26T00:00:00+00:00
-
- ## Monnem Bike
- - [https://monnem-bike.de](https://monnem-bike.de)
- - date_published: 2024-07-17T08:01:25.144895+00:00
-
- ## Monopol
- - [https://www.monopol-magazin.de](https://www.monopol-magazin.de)
- - date_published: 2024-08-19T17:09:57.528407+00:00
-
- ## All-in-One Font Manager | Unbegrenzte Schriften | Monotype-Schriften
- - [https://www.monotypefonts.de](https://www.monotypefonts.de)
- - date_published: 2024-10-22T03:24:16.888343+00:00
-
- ## Jobs. Tipps. Mächtig Support. l Monster.de
- - [https://www.monster.de](https://www.monster.de)
- - date_published: 2024-06-16T14:03:17.657596+00:00
-
- ## MOOK Group | Themengastronomie aus Frankfurt am Main
- - [http://www.mook-group.de](http://www.mook-group.de)
- - date_published: 2024-06-20T21:40:31.254725+00:00
 

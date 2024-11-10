@@ -1,3 +1,154 @@
+ ## Software Freedom Law Center
+ - [https://www.softwarefreedom.org](https://www.softwarefreedom.org)
+ - date_published: 2023-10-13T16:46:53+00:00
+
+ ## Index of /
+ - [https://annex.softwareheritage.org](https://annex.softwareheritage.org)
+ - date_published: 2024-02-17T00:00:00+00:00
+
+ ## Welcome to the Software Heritage archive
+ - [https://archive.softwareheritage.org](https://archive.softwareheritage.org)
+ - date_published: 2024-05-19T02:43:24.642386+00:00
+
+ ## Welcome to Software Heritage documentation — Software Heritage  documentation
+ - [https://docs.softwareheritage.org](https://docs.softwareheritage.org)
+ - date_published: 2024-07-20T02:33:13+00:00
+
+ ## Explore projects · GitLab
+ - [https://gitlab.softwareheritage.org](https://gitlab.softwareheritage.org)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Home Page
+ - [https://softwareheritage.org](https://softwareheritage.org)
+ - date_published: 2024-07-08T11:02:28.507123+00:00
+
+ ## Software Heritage
+ - [https://status.softwareheritage.org](https://status.softwareheritage.org)
+ - date_published: 2024-07-20T11:47:44.351863+00:00
+
+ ## Software Lab - Department of Computer Science - University of Stuttgart
+ - [https://software-lab.org](https://software-lab.org)
+ - date_published: 2024-05-15T23:32:01+00:00
+
+ ## Software Made in Germany | Eine Initiative des BITMi
+ - [https://www.software-made-in-germany.org](https://www.software-made-in-germany.org)
+ - date_published: 2024-10-30T08:57:09.373171+00:00
+
+ ## Software Preservation Group
+        —
+        Software Preservation Group
+ - [https://softwarepreservation.org](https://softwarepreservation.org)
+ - date_published: 2023-10-25T22:09:52.170128+00:00
+
+ ## Willkommen! - SWK
+ - [https://softwerkskammer.org](https://softwerkskammer.org)
+ - date_published: 2024-06-22T14:05:34.404095+00:00
+
+ ## Homepage - The Sogorea Te Land Trust
+ - [https://sogoreate-landtrust.org](https://sogoreate-landtrust.org)
+ - date_published: 2024-08-17T23:37:16.653646+00:00
+
+ ## The Sohn Conference Foundation
+ - [https://www.sohnconference.org](https://www.sohnconference.org)
+ - date_published: 2024-06-23T02:48:32.828230+00:00
+
+ ## SOI Foundation – Inspiring Leadership for a Sustainable Future
+ - [https://soifoundation.org](https://soifoundation.org)
+ - date_published: 2024-08-09T03:53:53.752698+00:00
+
+ ## Center for Science of Information
+ - [https://soihub.org](https://soihub.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Home - Soil | Soil Science Society of America
+ - [https://soils.org](https://soils.org)
+ - date_published: 2024-05-11T09:16:51.656428+00:00
+
+ ## Home | Soils 4 Teachers
+ - [https://www.soils4teachers.org](https://www.soils4teachers.org)
+ - date_published: 2024-07-14T03:49:42.367624+00:00
+
+ ## Sol-1 74 Series Logic Homebrew CPU - 2.5MHz
+ - [http://sol-1.org](http://sol-1.org)
+ - date_published: 2023-12-07T00:00:00+00:00
+
+ ## The Solana Foundation
+ - [https://solana.org](https://solana.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Home :: Solar Cookers International
+ - [https://solarcookers.org](https://solarcookers.org)
+ - date_published: 2024-05-09T04:40:17.288267+00:00
+
+ ## Solar Cooking
+ - [http://solarcooking.org](http://solarcooking.org)
+ - date_published: 2024-03-03T23:24:50.152750+00:00
+
+ ## JCAP
+ - [https://solarfuelshub.org](https://solarfuelshub.org)
+ - date_published: 2024-04-30T03:34:31.695156+00:00
+
+ ## Solargraph: A Ruby Language Server
+ - [https://solargraph.org](https://solargraph.org)
+ - date_published: 2024-06-23T08:43:21.581565+00:00
+
+ ## Arizona Crisis Services - Solari Crisis Response Network
+ - [https://crisis.solari-inc.org](https://crisis.solari-inc.org)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## www.SolarMonitor.org
+ - [https://solarmonitor.org](https://solarmonitor.org)
+ - date_published: 2024-08-06T18:25:18.573633+00:00
+
+ ## SolarPACES - International CSP research
+ - [https://solarpaces.org](https://solarpaces.org)
+ - date_published: 2023-10-25T22:09:59.992144+00:00
+
+ ## Solarus Documentation
+ - [https://docs.solarus-games.org](https://docs.solarus-games.org)
+ - date_published: 2024-05-05T10:56:36+00:00
+
+ ## Solarus
+ - [https://solarus-games.org](https://solarus-games.org)
+ - date_published: 2024-03-30T00:00:00+00:00
+ - tags: ['open source', 'video game engine']
+
+ ## Solayer | Restaking on Solana
+ - [https://solayer.org](https://solayer.org)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Welcome
+ - [http://www.soldiersangels.org](http://www.soldiersangels.org)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Army Benevolent Fund
+ - [http://www.soldierscharity.org](http://www.soldierscharity.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Army Benevolent Fund Shop
+ - [https://soldierscharityshop.org](https://soldierscharityshop.org)
+ - date_published: 2024-10-21T15:49:18.503312+00:00
+
+ ## Solidaires
+ - [https://solidaires.org](https://solidaires.org)
+ - date_published: 2024-07-08T10:48:40.376294+00:00
+
+ ## Solidaires Informatique – Ne restez pas isolé, syndiquez-vous !
+ - [https://solidairesinformatique.org](https://solidairesinformatique.org)
+ - date_published: 2024-07-08T10:48:42.714591+00:00
+
+ ## Advancing Social Justice In Europe and Worldwide - solidar.org
+ - [https://www.solidar.org](https://www.solidar.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Startseite :: Netzwerk Solidarische Landwirtschaft e.V.
+ - [https://www.solidarische-landwirtschaft.org](https://www.solidarische-landwirtschaft.org)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Solidarité & Progrès
+ - [http://www.solidariteetprogres.org](http://www.solidariteetprogres.org)
+ - date_published: 2024-07-13T17:58:02+00:00
+
  ## The Solidarity Center - Promoting Worker Rights Worldwide
  - [https://solidaritycenter.org](https://solidaritycenter.org)
  - date_published: 2024-07-15T06:58:35+00:00
@@ -3887,152 +4038,4 @@ photonics applied research.
  ## Listas de distribución de lists.sugarlabs.org
  - [http://lists.sugarlabs.org](http://lists.sugarlabs.org)
  - date_published: 2024-07-10T02:57:54.315499+00:00
-
- ## Sugar Labs People's web folders
- - [http://people.sugarlabs.org](http://people.sugarlabs.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Planet Sugar
- - [https://planet.sugarlabs.org](https://planet.sugarlabs.org)
- - date_published: 2019-06-16T00:00:00+00:00
-
- ## Sugar Labs
- - [https://sugarlabs.org](https://sugarlabs.org)
- - date_published: 2024-05-09T07:18:52.849249+00:00
-
- ## Sugar Activity Library
- - [https://v4.activities.sugarlabs.org](https://v4.activities.sugarlabs.org)
- - date_published: 2024-03-16T00:51:46+00:00
-
- ## Sugar Labs
- - [https://wiki.sugarlabs.org](https://wiki.sugarlabs.org)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## Suhosin PHP hardening project
- - [https://suhosin.org](https://suhosin.org)
- - date_published: 2021-08-03T13:52:52+00:00
-
- ## Suicide.org: Suicide Prevention, Suicide Awareness, Suicide Support - Suicide.org! Suicide.org! Suicide.org!
- - [http://suicide.org](http://suicide.org)
- - date_published: 2019-10-25T23:00:39+00:00
-
- ## 988 Suicide & Crisis Lifeline
- - [https://suicidepreventionlifeline.org](https://suicidepreventionlifeline.org)
- - date_published: 2024-06-23T06:55:18.389271+00:00
-
- ## Home | Sulabhmuseum
- - [http://sulabhtoiletmuseum.org](http://sulabhtoiletmuseum.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Sullenberger Aviation Museum in Charlotte, NC
- - [https://sullenbergeraviation.org](https://sullenbergeraviation.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Free PDF Reader - Sumatra PDF
- - [https://sumatrapdfreader.org](https://sumatrapdfreader.org)
- - date_published: 2024-05-10T05:41:10.429170+00:00
-
- ## Summaeverythang - Community Center
- - [https://summaeverythang.org](https://summaeverythang.org)
- - date_published: 2024-09-06T21:47:09.798568+00:00
-
- ## Summer Fling Singers
- - [https://summerfling.org](https://summerfling.org)
- - date_published: 2024-07-14T09:13:12.925278+00:00
-
- ## Home - Summer Scamper
- - [http://summerscamper.org](http://summerscamper.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## SSP International "The educational experience of a lifetime"...since 1959 An experience of a lifetime since 1959
- - [https://summerscience.org](https://summerscience.org)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Summit Coach
- - [https://summitcoach.org](https://summitcoach.org)
- - date_published: 2016-10-27T11:24:01+00:00
-
- ## Summit County Land Bank
- - [https://www.summitlandbank.org](https://www.summitlandbank.org)
- - date_published: 2024-10-15T18:57:51.294595+00:00
-
- ## :: Action Days :: Summit of the future
- - [https://summitofthefutureun.org](https://summitofthefutureun.org)
- - date_published: 2024-09-11T14:00:18+00:00
-
- ## Welcome - Summit Talk
- - [https://summittalk.org](https://summittalk.org)
- - date_published: 2022-12-31T21:01:14+00:00
-
- ## Home - Summit Tunnel Conservation Association
- - [https://summittunnel.org](https://summittunnel.org)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Ekō - People and planet over profits
- - [https://www.sumofus.org](https://www.sumofus.org)
- - date_published: 2024-08-02T18:01:32.086844+00:00
-
- ## Welcome to Sumter County, SC
- - [https://sumtercountysc.org](https://sumtercountysc.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Sumter County Sheriff, SC
- - [http://www.sumtersheriff.org](http://www.sumtersheriff.org)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home Page
- - [https://search.sunbiz.org](https://search.sunbiz.org)
- - date_published: 2024-08-08T18:06:44.904069+00:00
-
- ## Sunburst project
- - [https://sunburst-project.org](https://sunburst-project.org)
- - date_published: 2024-05-28T22:29:07+00:00
-
- ## Science After Sunclipse | "no matter how gifted, you alone cannot change the world"
- - [https://sunclipse.org](https://sunclipse.org)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## SunCoast Blood Centers
- - [https://suncoastblood.org](https://suncoastblood.org)
- - date_published: 2024-10-30T00:43:33.176795+00:00
-
- ## 2024 Sundance Film Festival
- - [https://festival.sundance.org](https://festival.sundance.org)
- - date_published: 2024-07-21T03:28:48.048526+00:00
-
- ## Sundance Institute - sundance.org
- - [https://www.sundance.org](https://www.sundance.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home
- - [https://www.sundeepteki.org](https://www.sundeepteki.org)
- - date_published: 2024-08-11T10:52:19.732323+00:00
-
- ## SUNLIT UPLANDS
- - [http://www.sunlituplands.org](http://www.sunlituplands.org)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Смотреть секс видео онлайн, скачать порно бесплатно, новая порнуха!
- - [http://www.sun-nation.org](http://www.sun-nation.org)
- - date_published: 2024-10-18T15:42:15.865735+00:00
-
- ## Greater Fort Lauderdale Hotels, Things to Do & Trip Planning
- - [https://www.sunny.org](https://www.sunny.org)
- - date_published: 2024-06-29T07:53:24+00:00
-
- ## Sunny View - Front Porch
- - [https://sunny-view.org](https://sunny-view.org)
- - date_published: 2024-05-06T22:29:36.696876+00:00
-
- ## SunPy
- - [https://sunpy.org](https://sunpy.org)
- - date_published: 2024-07-19T20:56:40+00:00
-
- ## Home - Sunrise Movement
- - [https://www.sunrisemovement.org](https://www.sunrisemovement.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Sunset and sunrise times API - Sunrise-Sunset.org
- - [https://api.sunrise-sunset.org](https://api.sunrise-sunset.org)
- - date_published: 2024-07-11T00:00:00+00:00
 

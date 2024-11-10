@@ -1,3 +1,111 @@
+ ## R. D. Müller – making the software-world a better place one document at a time
+ - [https://rdmueller.github.io](https://rdmueller.github.io)
+ - date_published: 2020-11-02T03:10:40+00:00
+
+ ## React Bootstrap | React Bootstrap
+ - [https://react-bootstrap.github.io](https://react-bootstrap.github.io)
+ - date_published: 2024-02-05T17:39:32+00:00
+
+ ## ReAct: Synergizing Reasoning and Acting in Language Models
+ - [https://react-lm.github.io](https://react-lm.github.io)
+ - date_published: 2022-11-27T22:43:10+00:00
+
+ ## Storybook
+ - [https://reactstrap.github.io](https://reactstrap.github.io)
+ - date_published: 2022-10-27T18:09:14+00:00
+
+ ## Learning Customized Visual Models with Retrieval-Augmented Knowledge
+ - [https://react-vl.github.io](https://react-vl.github.io)
+ - date_published: 2023-01-18T03:06:27+00:00
+
+ ## Readout Guidance: Learning Control from Diffusion Features
+ - [https://readout-guidance.github.io](https://readout-guidance.github.io)
+ - date_published: 2024-05-16T20:49:37+00:00
+
+ ## Gen Li
+ - [https://reagan1311.github.io](https://reagan1311.github.io)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Reagent: Minimalistic React for ClojureScript
+ - [https://reagent-project.github.io](https://reagent-project.github.io)
+ - date_published: 2023-03-11T21:33:16+00:00
+
+ ## Real2Code: Reconstruct Articulated Objects with Code Generation
+ - [https://real2code.github.io](https://real2code.github.io)
+ - date_published: 2024-06-13T17:38:44+00:00
+
+ ## RealFill
+ - [https://realfill.github.io](https://realfill.github.io)
+ - date_published: 2023-10-25T19:51:39.362206+00:00
+
+ ## Neumorphism UI by Themesberg
+ - [https://realliyifei.github.io](https://realliyifei.github.io)
+ - date_published: 2024-04-19T00:27:19+00:00
+
+ ## Realm Open Source
+ - [https://realm.github.io](https://realm.github.io)
+ - date_published: 2017-08-14T23:17:11+00:00
+
+ ## Real-time volumetric rendering of dynamic humans
+ - [https://real-time-humans.github.io](https://real-time-humans.github.io)
+ - date_published: 2023-03-22T13:19:23+00:00
+
+ ## Reanimate
+ - [https://reanimate.github.io](https://reanimate.github.io)
+ - date_published: 2020-09-23T05:00:16+00:00
+
+ ## Reason · Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.
+ - [https://reasonml.github.io](https://reasonml.github.io)
+ - date_published: 2024-03-21T14:08:44+00:00
+
+ ## About Me
+ - [https://recktenwald.github.io](https://recktenwald.github.io)
+ - date_published: 2024-01-05T11:32:47+00:00
+
+ ## ReconFusion: 3D Reconstruction with Diffusion Priors
+ - [https://reconfusion.github.io](https://reconfusion.github.io)
+ - date_published: 2023-12-08T16:44:34+00:00
+
+ ## Zhenggang Tang’s Personal Website
+ - [https://recordmp3.github.io](https://recordmp3.github.io)
+ - date_published: 2024-02-26T22:07:03+00:00
+
+ ## redex | Reason Package Index
+ - [https://redex.github.io](https://redex.github.io)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Guidelines for Red Hat Documentation
+ - [https://redhat-documentation.github.io](https://redhat-documentation.github.io)
+ - date_published: 2022-08-08T15:21:59+00:00
+
+ ## Redis plugins for Grafana
+ - [https://redisgrafana.github.io](https://redisgrafana.github.io)
+ - date_published: 2023-07-24T16:10:26+00:00
+
+ ## Zaid Humayun’s Blog
+ - [https://redixhumayun.github.io](https://redixhumayun.github.io)
+ - date_published: 2024-01-12T07:51:30.350642+00:00
+
+ ## RedWolf Recovery Project
+ - [https://redwolfrecovery.github.io](https://redwolfrecovery.github.io)
+ - date_published: 2018-04-16T18:57:17+00:00
+
+ ## Ref-NPR: Reference-Based Non-Photorealistic Radiance Fields
+ - [https://ref-npr.github.io](https://ref-npr.github.io)
+ - date_published: 2023-06-04T13:10:22+00:00
+
+ ## reibitto's blog
+ - [https://reibitto.github.io](https://reibitto.github.io)
+ - date_published: 2022-07-11T00:00:00+00:00
+
+ ## Guanhong Wang
+ - [https://rejoicelf.github.io](https://rejoicelf.github.io)
+ - date_published: 2024-03-04T07:26:54+00:00
+
+ ## ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robots
+ - [https://rekep-robot.github.io](https://rekep-robot.github.io)
+ - date_published: 2024-09-29T12:59:49+00:00
+
  ## Simplex Sigillum Veri
  - [https://remusao.github.io](https://remusao.github.io)
  - date_published: 2023-10-25T19:51:47.504665+00:00
@@ -2300,6 +2408,10 @@
  - [https://swiftyfinch.github.io](https://swiftyfinch.github.io)
  - date_published: 2023-04-22T00:00:00+00:00
 
+ ## Filippo Scognamiglio — Android Software Engineer
+ - [https://swordfish90.github.io](https://swordfish90.github.io)
+ - date_published: 2024-10-28T20:20:08+00:00
+
  ## hi, i'm sam!
  - [https://sxlijin.github.io](https://sxlijin.github.io)
  - date_published: 2024-10-11T04:56:01+00:00
@@ -3917,116 +4029,4 @@ Visualization
  ## Vrroom’s Blog
  - [https://vrroom.github.io](https://vrroom.github.io)
  - date_published: 2024-02-23T00:00:00+00:00
-
- ## vshymanskyy.github.io
- - [https://vshymanskyy.github.io](https://vshymanskyy.github.io)
- - date_published: 2017-12-01T22:45:25+00:00
-
- ## Vincent Sitzmann
- - [https://vsitzmann.github.io](https://vsitzmann.github.io)
- - date_published: 2024-04-25T18:27:46+00:00
-
- ## Home
- - [https://vsoch.github.io](https://vsoch.github.io)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Victor Stinner blog 3
- - [https://vstinner.github.io](https://vstinner.github.io)
- - date_published: 2023-10-25T19:55:09.424906+00:00
-
- ## Sumanth Varambally
- - [https://vsumanth99.github.io](https://vsumanth99.github.io)
- - date_published: 2023-11-02T04:05:42+00:00
-
- ## VUnit documentation
- - [https://vunit.github.io](https://vunit.github.io)
- - date_published: 2024-08-21T19:36:35+00:00
-
- ## Dakotah Lambert
- - [https://vvulpes0.github.io](https://vvulpes0.github.io)
- - date_published: 2024-07-16T09:44:55+00:00
-
- ## Val on Programming
- - [https://vvvvalvalval.github.io](https://vvvvalvalval.github.io)
- - date_published: 2023-10-25T08:49:30.971591+00:00
- - tags: ['personal']
-
- ## Mission
- - [https://w3c-ccg.github.io](https://w3c-ccg.github.io)
- - date_published: 2024-01-22T19:21:21+00:00
-
- ## W3C on GitHub
- - [https://w3c.github.io](https://w3c.github.io)
- - date_published: 2015-06-29T00:00:00+00:00
-
- ## Wadim Kehl
- - [https://wadimkehl.github.io](https://wadimkehl.github.io)
- - date_published: 2023-11-09T13:13:24+00:00
-
- ## WAFR 2022
- - [https://wafr2022.github.io](https://wafr2022.github.io)
- - date_published: 2022-08-26T14:01:08+00:00
-
- ## SolarPunk
- - [https://wags-1314.github.io](https://wags-1314.github.io)
- - date_published: 2024-03-11T23:40:28+00:00
-
- ## Games for Windows and the DirectX SDK blog
- - [https://walbourn.github.io](https://walbourn.github.io)
- - date_published: 2024-05-23T18:21:17+00:00
-
- ## Di Yang
- - [https://walker1126.github.io](https://walker1126.github.io)
- - date_published: 2024-02-17T01:13:17+00:00
-
- ## Cracking the Shell
- - [https://walnut356.github.io](https://walnut356.github.io)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Photorealistic Video Generation with Diffusion Models
- - [https://walt-video-diffusion.github.io](https://walt-video-diffusion.github.io)
- - date_published: 2023-12-11T18:00:07+00:00
-
- ## wangjw18.github.io
- - [https://wangjw18.github.io](https://wangjw18.github.io)
- - date_published: 2023-10-23T16:14:25+00:00
-
- ## Lu Wang
- - [https://wanglusdu.github.io](https://wanglusdu.github.io)
- - date_published: 2024-06-19T02:20:24+00:00
-
- ## Yixuan Wang
- - [https://wangyixuan12.github.io](https://wangyixuan12.github.io)
- - date_published: 2023-11-08T19:31:33+00:00
-
- ## Personal Profile
- - [https://wangyuhuix.github.io](https://wangyuhuix.github.io)
- - date_published: 2022-06-02T21:01:52+00:00
-
- ## About Me
- - [https://wangzhecheng.github.io](https://wangzhecheng.github.io)
- - date_published: 2024-04-03T00:50:38+00:00
-
- ## Smallest Federated Wiki Videos
- - [https://wardcunningham.github.io](https://wardcunningham.github.io)
- - date_published: 2015-05-09T23:52:19+00:00
-
- ## Wayward Types Viewer | 2.13.5-beta
- - [https://waywardgame.github.io](https://waywardgame.github.io)
- - date_published: 2024-10-20T16:53:47.609885+00:00
-
- ## HU, Wenbo's Homepage
- - [https://wbhu.github.io](https://wbhu.github.io)
- - date_published: 2024-04-28T03:40:35.737230+00:00
-
- ## WeaSul2021
- - [https://weasul.github.io](https://weasul.github.io)
- - date_published: 2021-07-09T11:34:34+00:00
-
- - [https://webassembly.github.io](https://webassembly.github.io)
- - date_published: 2024-02-18T14:57:31.409414+00:00
-
- ## Webcoyote.github.io by webcoyote
- - [https://webcoyote.github.io](https://webcoyote.github.io)
- - date_published: 2013-04-06T04:01:15+00:00
 

@@ -1,3 +1,11 @@
+ ## Start Python Club
+ - [https://startpython.connpass.com](https://startpython.connpass.com)
+ - date_published: 2024-07-03T04:47:41.295127+00:00
+
+ ## UIT
+ - [https://uit.connpass.com](https://uit.connpass.com)
+ - date_published: 2024-09-18T17:56:12.001977+00:00
+
  ## ユーザベース
  - [https://uzabase-tech.connpass.com](https://uzabase-tech.connpass.com)
  - date_published: 2024-09-18T17:57:14.004521+00:00
@@ -4030,12 +4038,4 @@
  ## Counter the Chinese Communist Party (CCP)
  - [https://countertheccp.com](https://countertheccp.com)
  - date_published: 2024-10-27T12:49:26.968215+00:00
-
- ## Country and Town House | A Life in Balance
- - [https://www.countryandtownhouse.com](https://www.countryandtownhouse.com)
- - date_published: 2024-10-31T11:09:34+00:00
-
- ## International Country Calling Codes and World Time Zones
- - [https://www.countrycallingcodes.com](https://www.countrycallingcodes.com)
- - date_published: 2024-07-02T15:59:03.436220+00:00
 

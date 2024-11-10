@@ -1,3 +1,7 @@
+ ## Home - BenBella Books
+ - [https://www.benbellabooks.com](https://www.benbellabooks.com)
+ - date_published: 2024-10-19T08:08:45.343514+00:00
+
  ## Ben Bjurstrom
  - [https://benbjurstrom.com](https://benbjurstrom.com)
  - date_published: 2024-10-30T21:20:45+00:00
@@ -4034,8 +4038,4 @@
  ## Maintenance
  - [https://backmatter.bigcartel.com](https://backmatter.bigcartel.com)
  - date_published: 2024-07-03T15:58:40.573991+00:00
-
- ## Bernadett Timko
- - [https://bernadetttimko.bigcartel.com](https://bernadetttimko.bigcartel.com)
- - date_published: 2024-06-27T05:00:41.262055+00:00
 

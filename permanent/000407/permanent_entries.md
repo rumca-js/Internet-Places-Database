@@ -1,3 +1,185 @@
+ ## Datorföreningen vid LU & LTH - git
+ - [https://git.dflund.se](https://git.dflund.se)
+ - date_published: 2024-07-07T04:17:02.964653+00:00
+
+ ## DF Webmail :: Welcome to DF Webmail
+ - [https://mail.dflund.se](https://mail.dflund.se)
+ - date_published: 2024-07-07T04:17:08+00:00
+
+ ## :DFRI – Föreningen för Digitala Fri- och Rättigheter
+ - [https://dfri.se](https://dfri.se)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Börssnack
+ - [https://borssnack.di.se](https://borssnack.di.se)
+ - date_published: 2024-10-15T19:06:29.289416+00:00
+
+ ## Dagens industri - Di.se nyhetssajt
+ - [https://di.se](https://di.se)
+ - date_published: 2024-10-15T19:05:44.349466+00:00
+
+ ## Energimarknaden - Affärsnyheter & insikter inom energibranschen
+ - [https://energimarknaden.di.se](https://energimarknaden.di.se)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Di e-tidning
+ - [https://etidning.di.se](https://etidning.di.se)
+ - date_published: 2024-10-15T19:06:45.879346+00:00
+
+ ## Finansmarknaden - Affärsnyheter inom bank- och finansbranschen
+ - [https://finansmarknaden.di.se](https://finansmarknaden.di.se)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Di Gasell |
+ - [https://gasell.di.se](https://gasell.di.se)
+ - date_published: 2024-10-15T19:06:28.624150+00:00
+
+ ## Pensioner & Förmåner - Affärsnyheter för dig i pensionsbranschen
+ - [https://pensionerochformaner.di.se](https://pensionerochformaner.di.se)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Prenumerera på Dagens industri, löpande månadsbetalning
+ - [https://prenumerera.di.se](https://prenumerera.di.se)
+ - date_published: 2024-10-15T19:05:46.713091+00:00
+
+ ## Risk & Försäkring - Affärsnyheter för dig i försäkringsbranschen
+ - [https://riskochforsakring.di.se](https://riskochforsakring.di.se)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Skogsindustrin - Affärsnyheter & insikter inom skogsbranschen
+ - [https://skogsindustrin.di.se](https://skogsindustrin.di.se)
+ - date_published: 2024-10-15T00:00:00+00:00
+
+ ## Dianetik: Hur tanken påverkar kroppen
+ - [https://www.dianetics.se](https://www.dianetics.se)
+ - date_published: 2024-06-17T16:42:29.909614+00:00
+
+ ## Dianetik: Hur tanken påverkar kroppen
+ - [http://www.dianetik.se](http://www.dianetik.se)
+ - date_published: 2024-09-04T18:46:07.575243+00:00
+
+ ## DICE - We exist to push the boundaries of creative entertainment
+ - [https://dice.se](https://dice.se)
+ - date_published: 2023-11-06T11:01:20.422931+00:00
+ - tags: ['video game developer', 'battlefield', 'pinball', 'amiga']
+
+ ## DigiKey Home
+ - [https://digikey.se](https://digikey.se)
+ - date_published: 2024-05-01T05:04:46.659128+00:00
+
+ ## Digitala lektioner | En öppen lärarresurs
+ - [https://digitalalektioner.se](https://digitalalektioner.se)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Digital Sense | The digital marketing book of 2017 by Travis Wright & Chris J Snook
+ - [http://digitalsen.se](http://digitalsen.se)
+ - date_published: 2024-07-04T10:10:57.493876+00:00
+
+ ## DigitaltMuseum
+ - [https://digitaltmuseum.se](https://digitaltmuseum.se)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## CDON | Välkommen till CDON!
+ - [https://www.discshop.se](https://www.discshop.se)
+ - date_published: 2024-06-17T05:43:07.956736+00:00
+
+ ## Disney Sverige | Den officiella webbplatsen för Disney-filmer
+ - [https://disney.se](https://disney.se)
+ - date_published: 2024-05-01T05:25:55.853985+00:00
+
+ ## David Marby
+ - [https://dmarby.se](https://dmarby.se)
+ - date_published: 2024-05-08T19:27:46+00:00
+
+ ## Arkivet - DN.se
+ - [https://arkivet.dn.se](https://arkivet.dn.se)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## DN Granskar
+ - [https://dngranskar.dn.se](https://dngranskar.dn.se)
+ - date_published: 2024-06-17T18:21:52.773764+00:00
+
+ ## Dagens Nyheter – senaste nyheterna från Sverige och världen
+ - [https://dn.se](https://dn.se)
+ - date_published: 2024-10-20T05:53:36.752717+00:00
+
+ ## DN.Erbjudanden
+ - [https://erbjudanden.dn.se](https://erbjudanden.dn.se)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## eDN
+ - [https://etidning.dn.se](https://etidning.dn.se)
+ - date_published: 2024-06-17T18:21:57.810887+00:00
+
+ ## Logga in – Bonnier News
+ - [https://id.dn.se](https://id.dn.se)
+ - date_published: 2024-06-17T18:22:04.270859+00:00
+
+ ## Annonsera hos Dagens Nyheter
+ - [https://kampanj.dn.se](https://kampanj.dn.se)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## Prenumerera - DN.se
+ - [https://kampanjer.dn.se](https://kampanjer.dn.se)
+ - date_published: 2024-10-20T05:55:55.489632+00:00
+
+ ## Prenumerera - DN.se
+ - [https://prenumerera.dn.se](https://prenumerera.dn.se)
+ - date_published: 2024-06-17T18:22:09.038905+00:00
+
+ ## DN Skola - Dagens Nyheter till elever - DN.se
+ - [https://skola.www.dn.se](https://skola.www.dn.se)
+ - date_published: 2024-06-17T18:22:16.855396+00:00
+
+ ## DNB Sverige | Företag
+ - [https://www.dnb.se](https://www.dnb.se)
+ - date_published: 2024-06-15T21:06:03+00:00
+
+ ## DNB Portal
+ - [https://dnbportal.se](https://dnbportal.se)
+ - date_published: 2022-01-13T13:40:09+00:00
+
+ ## Inleed Docsign
+ - [https://docsign.se](https://docsign.se)
+ - date_published: 2024-06-16T17:36:17.071162+00:00
+
+ ## Dooer
+ - [https://dooer.se](https://dooer.se)
+ - date_published: 2024-04-30T13:04:52+00:00
+
+ ## Statusöversikt
+ - [https://downdetector.se](https://downdetector.se)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Johan Driessen
+ - [https://johan.driessen.se](https://johan.driessen.se)
+ - date_published: 2023-08-23T00:00:00+00:00
+ - tags: ['personal', 'retro games']
+
+ ## Driftinformation från Loopia
+ - [https://www.driftbloggen.se](https://www.driftbloggen.se)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Business Communications Today and Tomorrow | Dstny
+ - [https://www.dstny.se](https://www.dstny.se)
+ - date_published: 2024-10-20T21:59:40.570124+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://www.duracell.se](https://www.duracell.se)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Dysons officiella webbplats  | Dyson.se
+ - [https://www.dyson.se](https://www.dyson.se)
+ - date_published: 2024-07-07T01:56:15.112931+00:00
+
+ ## Easyrig - Saving backs since 1994
+ - [http://easyrig.se](http://easyrig.se)
+ - date_published: 2019-03-06T08:30:41+00:00
+
+ ## Stays | Eckerö Linjen
+ - [https://destination.eckerolinjen.se](https://destination.eckerolinjen.se)
+ - date_published: 2024-09-13T09:10:48+00:00
+
  ## Välkommen - Eckerö Linjen
  - [https://www.eckerolinjen.se](https://www.eckerolinjen.se)
  - date_published: 2024-09-18T11:41:02+00:00
@@ -3832,184 +4014,4 @@
  ## Tillitis Bug Bounty Program – Tillitis Bug Bounty Program
  - [https://bugbounty.tillitis.se](https://bugbounty.tillitis.se)
  - date_published: 2024-08-18T00:00:00+00:00
-
- ## Tillitis TKey Developer Handbook
- - [https://dev.tillitis.se](https://dev.tillitis.se)
- - date_published: 2023-12-25T18:51:42.187765+00:00
-
- ## List Index - Tillitis mailing lists
- - [https://lists.tillitis.se](https://lists.tillitis.se)
- - date_published: 2024-08-18T16:33:43.055274+00:00
-
- ## Tillitis Shop
- - [https://shop.tillitis.se](https://shop.tillitis.se)
- - date_published: 2024-08-18T09:10:43.511291+00:00
-
- ## Tillitis – Tillitis – The creator of TKey, the open source USB security key alternative.
- - [https://tillitis.se](https://tillitis.se)
- - date_published: 2023-10-25T22:37:38.676725+00:00
-
- ## Tillväxtverket
- - [https://www.tillvaxtverket.se](https://www.tillvaxtverket.se)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Timbro Förlag - Timbro
- - [http://www.timbrobokhandel.se](http://www.timbrobokhandel.se)
- - date_published: 2024-10-21T14:43:13.765144+00:00
-
- ## TingPing’s blog
- - [https://blog.tingping.se](https://blog.tingping.se)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Welcome to Tink - Tink
- - [https://jobs.tink.se](https://jobs.tink.se)
- - date_published: 2024-08-11T04:56:08.464233+00:00
-
- ## Tandvårds-Läkemedelförmånsverket - Tandvårds- och läkemedelsförmånsverket TLV
- - [http://www.tlv.se](http://www.tlv.se)
- - date_published: 2024-10-18T21:04:14.937942+00:00
-
- ## B2 Cloud Storage: Low Cost, High Performance Object Storage
- - [https://f2.toyhou.se](https://f2.toyhou.se)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Toyhouse
- - [https://toyhou.se](https://toyhou.se)
- - date_published: 2024-05-08T10:43:55.522136+00:00
-
- ## Toyota Easy Privatleasing
- - [https://easyprivatleasing.toyota.se](https://easyprivatleasing.toyota.se)
- - date_published: 2024-10-16T15:45:04.553528+00:00
-
- ## Toyota My Finance
- - [https://minfinansiering.toyota.se](https://minfinansiering.toyota.se)
- - date_published: 2024-07-30T12:36:14+00:00
-
- ## Sälj din bil
- - [https://saljdinbil.toyota.se](https://saljdinbil.toyota.se)
- - date_published: 2023-10-17T15:44:50+00:00
-
- ## Logon - Privacy Policy Application
- - [https://samtycke.toyota.se](https://samtycke.toyota.se)
- - date_published: 2024-10-16T15:46:30.137347+00:00
-
- ## IIS Windows Server
- - [https://servicebokning.toyota.se](https://servicebokning.toyota.se)
- - date_published: 2020-05-15T11:53:46+00:00
-
- ## Toyota Sverige – Nya bilar, återförsäljare, service.
- - [https://www.toyota.se](https://www.toyota.se)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## OFS Management
- - [https://ofs.toyota-fs.se](https://ofs.toyota-fs.se)
- - date_published: 2024-10-16T15:45:19.980345+00:00
-
- ## Förarprov - Bokning
- - [https://fp.trafikverket.se](https://fp.trafikverket.se)
- - date_published: 2024-07-22T02:10:53.391301+00:00
-
- ## Train & Rail
- - [https://www.trainrail.se](https://www.trainrail.se)
- - date_published: 2024-06-28T12:52:53.901568+00:00
-
- ## Portalen för Transportforskning
- - [https://transportportal.se](https://transportportal.se)
- - date_published: 2024-03-25T15:27:16+00:00
-
- ## Tripadvisor: Över en miljard omdömen och inlägg om hotell, sevärdheter, restauranger och mer därtill
- - [https://www.tripadvisor.se](https://www.tripadvisor.se)
- - date_published: 2024-06-23T09:26:46.429263+00:00
-
- ## trivago.se - Compare hotel prices worldwide
- - [https://www.trivago.se](https://www.trivago.se)
- - date_published: 2024-09-04T11:20:20.560215+00:00
-
- ## Bilen
- - [https://bilen.trygghansa.se](https://bilen.trygghansa.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Familjen
- - [https://familjen.trygghansa.se](https://familjen.trygghansa.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Hemmet
- - [https://hemmet.trygghansa.se](https://hemmet.trygghansa.se)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Trygg-Hansa Försäkringar - Trygghet för livet
- - [https://trygghansa.se](https://trygghansa.se)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Trygg Hansa Säkerhetsshop | Säkerhetsprodukter
- - [https://www.trygghansashop.se](https://www.trygghansashop.se)
- - date_published: 2024-07-12T06:51:40.128680+00:00
-
- ## TT Nyhetsbyrån - Sveriges nationella nyhetsbyrå sedan 1921 - Nyheter - bild
- - [https://tt.se](https://tt.se)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## Via TT
- - [https://via.tt.se](https://via.tt.se)
- - date_published: 2024-05-06T22:56:53.718348+00:00
-
- ## TTELA | Nyheter från Trollhättan, Vänersborg, Lilla Edet & Mellerud
- - [https://www.ttela.se](https://www.ttela.se)
- - date_published: 2024-08-18T02:00:21+00:00
-
- ## Tidningsutgivarna - Mediehusens branschorganisation
- - [https://tu.se](https://tu.se)
- - date_published: 2024-06-29T04:22:49.594633+00:00
-
- ## Resor med TUI – flyg, hotell & charter till drömdestinationer
- - [https://www.tui.se](https://www.tui.se)
- - date_published: 2024-10-29T08:49:40+00:00
-
- ## Startsida - Tumba bruksmuseum
- - [https://tumbabruksmuseum.se](https://tumbabruksmuseum.se)
- - date_published: 2024-10-18T15:51:54.017918+00:00
-
- ## Välkommen till Tupalo
- - [https://www.tupalo.se](https://www.tupalo.se)
- - date_published: 2024-06-29T19:12:18.431727+00:00
-
- ## At your secret service
- - [https://tutus.se](https://tutus.se)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Nyheter från TV4
- - [https://www.tv4.se](https://www.tv4.se)
- - date_published: 2024-08-18T12:21:51.345868+00:00
-
- ## TV4 Play | Hela Sveriges streamingtjänst
- - [https://tv4play.se](https://tv4play.se)
- - date_published: 2024-07-14T09:23:02.210502+00:00
-
- ## Tyda - lexikon, översättningar och synonymer
- - [http://tyda.se](http://tyda.se)
- - date_published: 2024-07-02T09:34:41.390239+00:00
-
- ## UC - Ledande på affärs- och kreditinformation
- - [https://uc.se](https://uc.se)
- - date_published: 2024-05-07T23:55:18.165522+00:00
-
- ## Högskolepedagogisk utveckling
- - [https://hpu.uhr.se](https://hpu.uhr.se)
- - date_published: 2024-10-12T19:23:44.682883+00:00
-
- ## Startsida
- - [https://uhr.se](https://uhr.se)
- - date_published: 2024-06-16T17:38:02.172768+00:00
-
- ## UI.se
- - [https://www.ui.se](https://www.ui.se)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Umbracokalaset 2024
- - [https://www.umbracokalaset.se](https://www.umbracokalaset.se)
- - date_published: 2024-08-11T17:43:38.700621+00:00
-
- ## Index of /
- - [http://ftp.acc.umu.se](http://ftp.acc.umu.se)
- - date_published: 2023-08-01T18:18:03+00:00
 

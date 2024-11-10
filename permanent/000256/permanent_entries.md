@@ -1,3 +1,101 @@
+ ## CalArts School of Art
+ - [https://art.calarts.edu](https://art.calarts.edu)
+ - date_published: 2024-09-06T21:42:25.404356+00:00
+
+ ## Accessibility | Accessibility
+ - [https://accessibility.calpoly.edu](https://accessibility.calpoly.edu)
+ - date_published: 2024-07-19T23:07:03+00:00
+
+ ## Administration & Finance Services - Cal Poly
+ - [https://afd.calpoly.edu](https://afd.calpoly.edu)
+ - date_published: 2024-07-22T07:11:00.495161+00:00
+
+ ## Cal Poly | Learn by Doing
+ - [https://calpoly.edu](https://calpoly.edu)
+ - date_published: 2024-07-21T19:57:51+00:00
+
+ ## Catalog Home | Cal Poly Academic Catalog
+ - [https://catalog.calpoly.edu](https://catalog.calpoly.edu)
+ - date_published: 2024-06-17T20:30:18+00:00
+
+ ## Cal Poly | Learn by Doing
+ - [https://cci.calpoly.edu](https://cci.calpoly.edu)
+ - date_published: 2024-07-02T18:52:32+00:00
+
+ ## College of Engineering Home -
+ - [https://ceng.calpoly.edu](https://ceng.calpoly.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## #Home | Campus Health & Wellbeing
+ - [https://chw.calpoly.edu](https://chw.calpoly.edu)
+ - date_published: 2024-07-19T22:07:56+00:00
+
+ ## HOME
+ - [https://csc.calpoly.edu](https://csc.calpoly.edu)
+ - date_published: 2024-04-30T03:32:39.736497+00:00
+
+ ## DigitalCommons@CalPoly | California Polytechnic State University, San Luis Obispo Research
+ - [http://digitalcommons.calpoly.edu](http://digitalcommons.calpoly.edu)
+ - date_published: 2024-08-19T22:13:32.117287+00:00
+
+ ## Campus Maps - Cal Poly
+ - [https://maps.calpoly.edu](https://maps.calpoly.edu)
+ - date_published: 2023-01-24T20:46:25+00:00
+
+ ## Cal Poly Web Login Service
+ - [https://my.calpoly.edu](https://my.calpoly.edu)
+ - date_published: 2019-09-18T00:00:00+00:00
+
+ ## Home - Senior Project Expo
+ - [https://projectexpo.calpoly.edu](https://projectexpo.calpoly.edu)
+ - date_published: 2024-07-22T07:11:07.352144+00:00
+
+ ## #Welcome to the Statistics Department! | Statistics Department
+ - [https://statistics.calpoly.edu](https://statistics.calpoly.edu)
+ - date_published: 2024-06-29T15:06:15+00:00
+
+ ## https://users.csc.calpoly.edu
+ - [http://users.csc.calpoly.edu](http://users.csc.calpoly.edu)
+ - date_published: 2019-09-05T18:20:11+00:00
+
+ ## Cal State Open Journals
+ - [https://journals.calstate.edu](https://journals.calstate.edu)
+ - date_published: 2024-09-15T15:01:18.378229+00:00
+
+ ## California State University Office of the Chancellor
+| CSU
+ - [https://www2.calstate.edu](https://www2.calstate.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## California State University Office of the Chancellor
+| CSU
+ - [https://www.calstate.edu](https://www.calstate.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## access.caltech.edu
+ - [https://access.caltech.edu](https://access.caltech.edu)
+ - date_published: 2001-12-01T00:00:00+00:00
+
+ ## Accreditation
+ - [https://accreditation.caltech.edu](https://accreditation.caltech.edu)
+ - date_published: 2024-07-22T06:27:05.568550+00:00
+
+ ## Advanced Composition Explorer (ACE) Home Page
+ - [http://ace.srl.caltech.edu](http://ace.srl.caltech.edu)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions22.divisions.caltech.edu](https://admissions22.divisions.caltech.edu)
+ - date_published: 2024-07-22T06:51:10+00:00
+
+ ## Undergraduate Admissions
+ - [https://admissions.caltech.edu](https://admissions.caltech.edu)
+ - date_published: 2024-04-30T03:42:45.189365+00:00
+
+ ## Advancement and Alumni Relations
+ - [https://advancement.caltech.edu](https://advancement.caltech.edu)
+ - date_published: 2024-09-27T10:14:55+00:00
+
  ## Autonomous Robotics and Control Lab at Caltech
  - [https://aerospacerobotics.caltech.edu](https://aerospacerobotics.caltech.edu)
  - date_published: 2024-07-22T06:27:41.018442+00:00
@@ -3920,100 +4018,4 @@ Mellon University
  ## courses.cit.cornell.edu
  - [http://courses.cit.cornell.edu](http://courses.cit.cornell.edu)
  - date_published: 2024-06-30T11:17:24.870842+00:00
-
- ## Cornell University - Modern Campus Catalog™
- - [http://courses.cornell.edu](http://courses.cornell.edu)
- - date_published: 2024-08-06T17:29:58.482467+00:00
-
- ## COVID-19 Information & Resources | Cornell Health
- - [https://covid.cornell.edu](https://covid.cornell.edu)
- - date_published: 2024-07-21T13:45:15+00:00
-
- ## Center for Regional Economic Advancement – We support and empower people to to start and grow new ventures
- - [https://crea.cornell.edu](https://crea.cornell.edu)
- - date_published: 2024-04-30T03:59:34.321423+00:00
-
- ## Home | Department of Computer Science
- - [https://cs.cornell.edu](https://cs.cornell.edu)
- - date_published: 2023-10-25T18:50:50.915149+00:00
-
- ## Home - Center For Technology Licensing
- - [https://ctl.cornell.edu](https://ctl.cornell.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Clinical & Translational Science Center | Weill Cornell Medicine
- - [https://ctscweb.weill.cornell.edu](https://ctscweb.weill.cornell.edu)
- - date_published: 2024-07-22T04:50:34+00:00
-
- ## About | CUinfo | Cornell University
- - [https://cuinfo.cornell.edu](https://cuinfo.cornell.edu)
- - date_published: 2024-07-19T03:26:00+00:00
-
- ## CULearn
- - [https://culearn.cornell.edu](https://culearn.cornell.edu)
- - date_published: 2013-07-18T00:00:00+00:00
-
- ## Cornell Virtual Workshop
- - [https://cvw.cac.cornell.edu](https://cvw.cac.cornell.edu)
- - date_published: 2023-10-25T18:50:32.946582+00:00
-
- ## Cornell Wildlife Health Lab | Promoting wildlife health and sustainability through the integration of wildlife ecology and veterinary medicine
- - [https://cwhl.ahdc.vet.cornell.edu](https://cwhl.ahdc.vet.cornell.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Cornell Wildlife Health Lab | Promoting wildlife health and sustainability through the integration of wildlife ecology and veterinary medicine
- - [https://cwhl.vet.cornell.edu](https://cwhl.vet.cornell.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Cornell Data Services
- - [https://data.research.cornell.edu](https://data.research.cornell.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Cornell University Library Digital Collections
- - [https://digital.library.cornell.edu](https://digital.library.cornell.edu)
- - date_published: 2024-04-30T03:59:15.450311+00:00
-
- ## Directory | Weill Cornell Medicine
- - [https://directory.weill.cornell.edu](https://directory.weill.cornell.edu)
- - date_published: 2024-04-30T03:59:00.234474+00:00
-
- ## Cornell Bowers CIS DEI
- - [https://diversity.cis.cornell.edu](https://diversity.cis.cornell.edu)
- - date_published: 2024-04-30T04:00:34.949447+00:00
-
- ## Welcome | Cornell University Diversity and Inclusion
- - [https://diversity.cornell.edu](https://diversity.cornell.edu)
- - date_published: 2024-04-30T03:59:20.675227+00:00
-
- ## Dyson Homepage
- - [https://dyson.cornell.edu](https://dyson.cornell.edu)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home Page
- - [http://easternflorida.alumni.cornell.edu](http://easternflorida.alumni.cornell.edu)
- - date_published: 2024-08-06T17:45:01.353141+00:00
-
- ## LibGuides: Ebooks at Cornell: Searching for ebooks
- - [http://ebooks.library.cornell.edu](http://ebooks.library.cornell.edu)
- - date_published: 2024-06-29T22:15:47.565073+00:00
-
- ## Electrical and Computer Engineering | Electrical and Computer Engineering
- - [https://ece.cornell.edu](https://ece.cornell.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Cornell eCommons :: Home
- - [http://ecommons.cornell.edu](http://ecommons.cornell.edu)
- - date_published: 2024-06-07T19:20:02.257562+00:00
-
- ## Economic Impact at Cornell University
- - [http://economicimpact.cornell.edu](http://economicimpact.cornell.edu)
- - date_published: 2024-07-22T05:24:37.886269+00:00
-
- ## Home - eCornell
- - [https://ecornell.cornell.edu](https://ecornell.cornell.edu)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## New York Extension Disaster Education Network
- - [https://eden.cce.cornell.edu](https://eden.cce.cornell.edu)
- - date_published: 2024-04-30T03:59:55.687129+00:00
 

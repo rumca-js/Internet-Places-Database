@@ -1,3 +1,101 @@
+ ## INSEAD Knowledge
+ - [https://knowledge.insead.edu](https://knowledge.insead.edu)
+ - date_published: 2024-06-16T02:03:04+00:00
+
+ ## POST data
+ - [https://my.insead.edu](https://my.insead.edu)
+ - date_published: 2024-07-03T17:48:53.722432+00:00
+
+ ## INSEAD Publishing
+ - [https://publishing.insead.edu](https://publishing.insead.edu)
+ - date_published: 2024-07-03T16:54:06+00:00
+
+ ## All Blogs | InTheKnow
+ - [http://the-insead-mba-experience.insead.edu](http://the-insead-mba-experience.insead.edu)
+ - date_published: 2024-07-02T09:30:59+00:00
+
+ ## Home
+ - [http://www.internet2.edu](http://www.internet2.edu)
+ - date_published: 2024-07-02T04:55:15.506928+00:00
+
+ ## Inver Hills News
+ - [https://news.inverhills.edu](https://news.inverhills.edu)
+ - date_published: 2024-07-12T21:42:57.356854+00:00
+
+ ## Public Universities
+ - [https://www.iowaregents.edu](https://www.iowaregents.edu)
+ - date_published: 2024-07-02T04:37:02.909402+00:00
+
+ ## SAGE: 
+Data Services
+ - [https://ds.iris.edu](https://ds.iris.edu)
+ - date_published: 2024-05-09T07:09:18.968854+00:00
+
+ ## SAGE
+ - [https://iris.edu](https://iris.edu)
+ - date_published: 2024-05-09T07:09:14.945431+00:00
+
+ ## NSF SAGE: 
+  DMC Web Services
+ - [https://service.iris.edu](https://service.iris.edu)
+ - date_published: 2024-07-10T02:20:14.488171+00:00
+
+ ## USC Information Sciences Insitute
+ - [https://ai.isi.edu](https://ai.isi.edu)
+ - date_published: 2024-04-30T05:01:02.237687+00:00
+
+ ## The ANT Lab: Analysis of Network Traffic
+ - [https://ant.isi.edu](https://ant.isi.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Information Sciences Institute
+ - [https://isi.edu](https://isi.edu)
+ - date_published: 2023-10-25T18:53:13.988342+00:00
+
+ ## STEEL: Security Research Lab
+ - [https://steel.isi.edu](https://steel.isi.edu)
+ - date_published: 2024-09-17T01:21:00.822079+00:00
+
+ ## The International Space University - Official website
+ - [https://www.isunet.edu](https://www.isunet.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Accessibility
+ - [https://accessibility.iu.edu](https://accessibility.iu.edu)
+ - date_published: 2024-04-30T05:01:14.874264+00:00
+
+ ## Alumni Association
+ - [https://alumni.iu.edu](https://alumni.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Branding
+ - [https://assets.iu.edu](https://assets.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## IU Kelley School of Business Indianapolis – Go from Moment to Momentum
+ - [https://blog.kelley.indianapolis.iu.edu](https://blog.kelley.indianapolis.iu.edu)
+ - date_published: 2024-09-05T10:08:38+00:00
+
+ ## Investors generally underestimated the risk and impact of hurricanes, prior to feeling “Superstorm” Sandy’s fury on Wall Street
+ - [https://blog.kelley.iu.edu](https://blog.kelley.iu.edu)
+ - date_published: 2024-06-08T11:45:05.690945+00:00
+
+ ## IU Blogs – Educational blogs from our community
+ - [https://blogs.iu.edu](https://blogs.iu.edu)
+ - date_published: 2024-07-13T17:11:34+00:00
+
+ ## Indiana University Bloomington
+ - [https://bloomington.iu.edu](https://bloomington.iu.edu)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## IU Brand: Indiana University
+ - [https://brand.iu.edu](https://brand.iu.edu)
+ - date_published: 2024-07-01T22:47:15.569928+00:00
+
+ ## Canvas:
+ - [https://canvas.iu.edu](https://canvas.iu.edu)
+ - date_published: 2024-04-30T05:01:28.442979+00:00
+
  ## UITS Change Management
  - [https://change.uits.iu.edu](https://change.uits.iu.edu)
  - date_published: 2024-07-21T21:41:10.742123+00:00
@@ -3909,100 +4007,4 @@
  ## Certificate Server
  - [https://ca.mit.edu](https://ca.mit.edu)
  - date_published: 2024-10-06T17:15:36.488417+00:00
-
- ## MIT Canvas - Login
- - [https://canvas.mit.edu](https://canvas.mit.edu)
- - date_published: 2024-07-01T15:11:32.219522+00:00
-
- ## Yuan Cao's Homepage
- - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
- - date_published: 2024-01-09T01:37:28.741983+00:00
-
- ## Home
- - [https://cap.csail.mit.edu](https://cap.csail.mit.edu)
- - date_published: 2024-05-07T19:33:54.697062+00:00
-
- ## Career Advising & Professional Development | MIT
- - [https://capd.mit.edu](https://capd.mit.edu)
- - date_published: 2024-06-09T17:27:14.522346+00:00
-
- ## Jobs at MIT Lincoln Laboratory
- - [https://careers.ll.mit.edu](https://careers.ll.mit.edu)
- - date_published: 2024-05-07T19:38:14.314198+00:00
-
- ## Careers | MIT Human Resources
- - [https://careers.mit.edu](https://careers.mit.edu)
- - date_published: 2024-05-07T19:37:57.410306+00:00
-
- ## Welcome! < MIT
- - [https://catalog.mit.edu](https://catalog.mit.edu)
- - date_published: 2024-04-16T15:35:10+00:00
-
- ## CBMM, NSF STC | The Center for Brains, Minds & Machines
- - [https://cbmm.mit.edu](https://cbmm.mit.edu)
- - date_published: 2024-06-22T08:35:23.495594+00:00
-
- ## Homepage - MIT Center for Constructive Communication
- - [https://ccc.mit.edu](https://ccc.mit.edu)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Homepage
- - [https://cdfg.mit.edu](https://cdfg.mit.edu)
- - date_published: 2024-06-22T07:47:03.967376+00:00
-
- ## Career Development Office | MIT Sloan School of Management
- - [https://cdo.mit.edu](https://cdo.mit.edu)
- - date_published: 2024-05-07T19:35:56.496755+00:00
-
- ## MIT CEE - Homepage | Nexus of People, Systems & Sustainability
- - [https://cee.mit.edu](https://cee.mit.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Homepage
- - [http://cfg.mit.edu](http://cfg.mit.edu)
- - date_published: 2024-06-22T07:36:40.152724+00:00
-
- ## Databases, Revenues, & Repertory: The French Stage Online, 1680–1793
- - [https://cfrp.mitpress.mit.edu](https://cfrp.mitpress.mit.edu)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## MIT Department of Chemistry – Department of Chemistry at MIT
- - [https://chemistry.mit.edu](https://chemistry.mit.edu)
- - date_published: 2024-05-07T19:37:10.613963+00:00
-
- ## MIT–Chile Workshop
- - [https://chileconf.mit.edu](https://chileconf.mit.edu)
- - date_published: 2024-07-03T11:56:06.490034+00:00
-
- ## Institute Office of Communications | MIT - Massachusetts Institute of Technology
- - [http://ci.mit.edu](http://ci.mit.edu)
- - date_published: 2024-07-01T15:28:18.644110+00:00
-
- ## MIT Center for Civic Media – Creating Technology for Social Change
- - [https://civic.mit.edu](https://civic.mit.edu)
- - date_published: 2020-08-20T19:30:40+00:00
-
- ## The Internet Classics Archive: 441 searchable works of classical literature
- - [http://classics.mit.edu](http://classics.mit.edu)
- - date_published: 2023-05-11T00:49:58+00:00
-
- ## CLEVRER
- - [http://clevrer.csail.mit.edu](http://clevrer.csail.mit.edu)
- - date_published: 2020-10-20T01:34:20+00:00
-
- ## Home | MIT Climate Portal
- - [https://climate.mit.edu](https://climate.mit.edu)
- - date_published: 2023-10-25T18:53:47.317024+00:00
-
- ## Climate Science, Risk & Solutions
- - [https://climateprimer.mit.edu](https://climateprimer.mit.edu)
- - date_published: 2024-05-07T19:33:25.203653+00:00
-
- ## Home - Club Sports
- - [https://clubsports.mit.edu](https://clubsports.mit.edu)
- - date_published: 2024-05-07T19:36:47.705971+00:00
-
- ## CMS/W
- - [http://cmsw.mit.edu](http://cmsw.mit.edu)
- - date_published: 2024-06-20T00:00:00+00:00
 

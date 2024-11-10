@@ -1,3 +1,83 @@
+ ## VideoPress
+ - [https://v0.wordpress.com](https://v0.wordpress.com)
+ - date_published: 2024-04-28T04:22:21.712717+00:00
+
+ ## Academical Freedom
+ - [https://vafreedom.wordpress.com](https://vafreedom.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Valerie Aurora's blog
+ - [https://valerieaurora.wordpress.com](https://valerieaurora.wordpress.com)
+ - date_published: 2024-07-07T04:04:13.495625+00:00
+
+ ## Small Town Tech
+ - [https://valmj.wordpress.com](https://valmj.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## The value of the variable
+ - [https://valuevar.wordpress.com](https://valuevar.wordpress.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## HANNA'S WALK
+ - [http://vandreture.wordpress.com](http://vandreture.wordpress.com)
+ - date_published: 2024-09-18T10:00:11.302223+00:00
+
+ ## A Programmers Place | Observations, Reviews, and Essays
+ - [https://vanemden.wordpress.com](https://vanemden.wordpress.com)
+ - date_published: 2023-10-25T18:17:55.236218+00:00
+
+ ## Vanessa Berry World
+ - [https://vanessaberryworld.wordpress.com](https://vanessaberryworld.wordpress.com)
+ - date_published: 2024-07-18T17:17:13.063519+00:00
+
+ ## Vasek Rozhon's blog
+ - [https://vasekrozhon.wordpress.com](https://vasekrozhon.wordpress.com)
+ - date_published: 2024-10-05T22:12:25.590902+00:00
+
+ ## Vaughn Climenhaga's Math Blog
+ - [https://vaughnclimenhaga.wordpress.com](https://vaughnclimenhaga.wordpress.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## The Other One's Vault of the Undead
+ - [http://vaultoftheundead.wordpress.com](http://vaultoftheundead.wordpress.com)
+ - date_published: 2024-07-11T15:28:43.350762+00:00
+
+ ## Vittoria Daiello PhD
+ - [http://vdaiello.wordpress.com](http://vdaiello.wordpress.com)
+ - date_published: 2024-06-30T04:30:11.654308+00:00
+
+ ## ve3ips
+ - [https://ve3ips.wordpress.com](https://ve3ips.wordpress.com)
+ - date_published: 2024-06-27T02:16:00+00:00
+
+ ## (no title)
+ - [http://vectoreditors.wordpress.com](http://vectoreditors.wordpress.com)
+ - date_published: 2024-06-24T10:15:50.640395+00:00
+
+ ## vegafrank
+ - [http://vegafrank.wordpress.com](http://vegafrank.wordpress.com)
+ - date_published: 2024-06-30T11:01:31.343281+00:00
+
+ ## Sebastian Veg
+ - [https://vegsebastian.wordpress.com](https://vegsebastian.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## RJ's Blog
+ - [http://velociraptor256.wordpress.com](http://velociraptor256.wordpress.com)
+ - date_published: 2024-09-03T23:02:26.759185+00:00
+
+ ## My programming and machine learning blog
+ - [https://venefrombucharest.wordpress.com](https://venefrombucharest.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Earth...Brains...Technology...Design
+ - [https://ventrellathing.wordpress.com](https://ventrellathing.wordpress.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## what will you do now?
+ - [https://verityvirtue.wordpress.com](https://verityvirtue.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
  ## 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗 | Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.
  - [https://vermaden.wordpress.com](https://vermaden.wordpress.com)
  - date_published: 2023-10-25T18:18:04.756895+00:00
@@ -3935,84 +4015,4 @@
  ## CybeReady – Finally a security awareness training solution that works for you.
  - [https://cybereadystgg.wpengine.com](https://cybereadystgg.wpengine.com)
  - date_published: 2024-07-16T20:50:53.190612+00:00
-
- ## Cyber Security Awareness Training Platform | CybeReady
- - [https://cybereadystg.wpengine.com](https://cybereadystg.wpengine.com)
- - date_published: 2024-07-16T20:51:01.308424+00:00
-
- ## Dataseat Mobile DSP | Transparent, privacy-first user acquisition
- - [https://dataseat.wpengine.com](https://dataseat.wpengine.com)
- - date_published: 2024-06-25T21:53:44.101597+00:00
-
- ## Daymak - Your #1 Ebike, Mobility Scooter and LEV Manufacturer
- - [https://daymakwp.wpengine.com](https://daymakwp.wpengine.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## USC Viterbi | Daniel J. Epstein Department of Industrial & Systems Engineering
- - [http://deptise.wpengine.com](http://deptise.wpengine.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## DesignFast Component Selection Made Simple - DesignFast
- - [https://designfastmkt.wpengine.com](https://designfastmkt.wpengine.com)
- - date_published: 2021-10-29T00:00:00+00:00
-
- ## Detectify | Life at Detectify
- - [https://detectify1.wpengine.com](https://detectify1.wpengine.com)
- - date_published: 2024-10-02T10:43:56.258718+00:00
-
- ## SaaS Management Platform (SMP) Leader | BetterCloud
- - [https://devbettercloud.wpengine.com](https://devbettercloud.wpengine.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Michigan Engineering
- - [https://devcoewww.wpengine.com](https://devcoewww.wpengine.com)
- - date_published: 2024-05-09T09:17:24+00:00
-
- ## Headless Archives - Builders
- - [http://developers.wpengine.com](http://developers.wpengine.com)
- - date_published: 2024-06-16T07:06:36.754710+00:00
-
- ## iClicker: Student Response Systems & Classroom Engagement Tools
- - [https://deviclickr.wpengine.com](https://deviclickr.wpengine.com)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Jim Daly
- - [https://devjimd.wpengine.com](https://devjimd.wpengine.com)
- - date_published: 2024-10-29T12:49:25.540915+00:00
-
- ## Distilled – Now Brainlabs
- - [https://distilled1.wpengine.com](https://distilled1.wpengine.com)
- - date_published: 2024-06-18T10:09:10.732380+00:00
-
- ## Don Q Rum
- - [https://donqstaging.wpengine.com](https://donqstaging.wpengine.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Daniel Stowe Botanical Garden, Belmont, North Carolina
- - [https://dsbg.wpengine.com](https://dsbg.wpengine.com)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## Home
- - [https://dscplace.wpengine.com](https://dscplace.wpengine.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Teaching English with Oxford Blog
- - [https://eltglobalblog.wpengine.com](https://eltglobalblog.wpengine.com)
- - date_published: 2024-10-19T10:25:21.287403+00:00
-
- ## EMURGO | Supporting Adoption Of Cardano And Blockchain Tech
- - [https://emurgo.wpengine.com](https://emurgo.wpengine.com)
- - date_published: 2024-09-25T15:05:55.351347+00:00
-
- ## Home
- - [https://engineersgarag.wpengine.com](https://engineersgarag.wpengine.com)
- - date_published: 2024-06-17T08:35:24.616614+00:00
-
- ## Home - equivant
- - [http://equivant.wpengine.com](http://equivant.wpengine.com)
- - date_published: 2024-07-01T17:12:53.563691+00:00
-
- ## Entrepreneurship at Cornell - Entrepreneurship at Cornell
- - [https://eshipatcornell.wpengine.com](https://eshipatcornell.wpengine.com)
- - date_published: 2021-08-04T00:00:00+00:00
 

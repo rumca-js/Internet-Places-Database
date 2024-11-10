@@ -1,3 +1,159 @@
+ ## LITERIA.pl - księgarnia internetowa - książki, czasopisma, prenumerata
+ - [https://literia.pl](https://literia.pl)
+ - date_published: 2024-05-11T09:32:23.710011+00:00
+
+ ## Litres - serwis e-booków i audiobooków, pobierz w formacie fb2 i mp3, czytaj i słuchaj online na Litres
+ - [https://litres.pl](https://litres.pl)
+ - date_published: 2024-09-18T23:47:33.001663+00:00
+
+ ## LiveAgent | Proste oprogramowanie do obsługi klienta dla zespołów
+ - [https://www.live-agent.pl](https://www.live-agent.pl)
+ - date_published: 2024-10-19T20:26:26.356647+00:00
+
+ ## Spring Boot: LiveBook
+ - [https://livebooks.pl](https://livebooks.pl)
+ - date_published: 2023-09-14T05:36:31+00:00
+
+ ## Bilety na koncerty oraz daty koncertów na trasach koncertowych | Live Nation Polska
+ - [https://www.livenation.pl](https://www.livenation.pl)
+ - date_published: 2024-06-28T08:37:57.682280+00:00
+
+ ## Live Sound & Installation - nagłośnienie, oświetlenie,realizacje, eventy
+ - [https://livesound.pl](https://livesound.pl)
+ - date_published: 2024-07-15T04:11:43+00:00
+
+ ## Panel Administracyjny BIPLO
+ - [https://vip2.lo.pl](https://vip2.lo.pl)
+ - date_published: 2024-07-17T15:43:02.414253+00:00
+
+ ## Alternator:
+ - [http://alternator.zak.lodz.pl](http://alternator.zak.lodz.pl)
+ - date_published: 2024-06-30T06:25:22.148829+00:00
+
+ ## Aquapark Fala
+ - [https://aquapark.lodz.pl](https://aquapark.lodz.pl)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Biuletyn informacji publicznej
+ - [https://bip.uml.lodz.pl](https://bip.uml.lodz.pl)
+ - date_published: 2024-06-28T19:20:19.881986+00:00
+
+ ## BIP | Miejski Ogród Zoologiczny w Łodzi Sp. z o.o. - Strona główna
+ - [http://bip.zoo.lodz.pl](http://bip.zoo.lodz.pl)
+ - date_published: 2024-06-28T19:21:05+00:00
+
+ ## Strona główna
+ - [http://bip.zzm.lodz.pl](http://bip.zzm.lodz.pl)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Łódzki Budżet Obywatelski 2023/2024
+ - [https://budzetobywatelski.uml.lodz.pl](https://budzetobywatelski.uml.lodz.pl)
+ - date_published: 2024-05-06T23:41:12.465741+00:00
+
+ ## Strona Główna - Politechnika Łódzka we współpracy z HackerU - Kurs Cybersecurity
+ - [https://cybersecurity.p.lodz.pl](https://cybersecurity.p.lodz.pl)
+ - date_published: 2024-11-08T12:25:49.286189+00:00
+
+ ## Journals University of Lodz
+ - [https://czasopisma.uni.lodz.pl](https://czasopisma.uni.lodz.pl)
+ - date_published: 2024-06-23T20:16:48.752438+00:00
+
+ ## Strona główna
+ - [http://kreatywna.lodz.pl](http://kreatywna.lodz.pl)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [https://lcw.lodz.pl](https://lcw.lodz.pl)
+ - date_published: 2024-05-06T23:40:42.825814+00:00
+
+ ## Strona główna
+ - [https://lodz.pl](https://lodz.pl)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Strona startowa PL - MPK-Łódź Spółka z o.o.
+ - [https://mpk.lodz.pl](https://mpk.lodz.pl)
+ - date_published: 2024-05-06T23:40:39.503685+00:00
+
+ ## Orientarium ZOO Łódź
+ - [https://orientarium.lodz.pl](https://orientarium.lodz.pl)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Politechnika Łódzka
+ - [https://p.lodz.pl](https://p.lodz.pl)
+ - date_published: 2024-07-01T11:38:00.002997+00:00
+
+ ## STUDIUM JĘZYKA POLSKIEGO DLA CUDZOZIEMCÓW UŁ
+ - [http://sjpdc.uni.lodz.pl](http://sjpdc.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:18.973272+00:00
+
+ ## Omega-PSIR
+ - [https://son.uni.lodz.pl](https://son.uni.lodz.pl)
+ - date_published: 2024-06-13T00:05:24+00:00
+
+ ## Strona główna
+ - [https://uml.lodz.pl](https://uml.lodz.pl)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## UNIWERSYTET ŁÓDZKI | UWOLNIJ UMYSŁ!
+ - [https://uni.lodz.pl](https://uni.lodz.pl)
+ - date_published: 2024-05-06T23:40:30.971464+00:00
+
+ ## WYDZIAŁ BIOLOGII I OCHRONY ŚRODOWISKA
+ - [https://www.biol.uni.lodz.pl](https://www.biol.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:39.940668+00:00
+
+ ## BIP
+ - [https://www.bip.uni.lodz.pl](https://www.bip.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:21.523455+00:00
+
+ ## BIURO KARIER
+ - [https://www.biurokarier.uni.lodz.pl](https://www.biurokarier.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:11.027080+00:00
+
+ ## Ogród Botaniczny
+ - [https://www.botaniczny.lodz.pl](https://www.botaniczny.lodz.pl)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## WYDZIAŁ CHEMII UNIWERSYTETU ŁÓDZKIEGO
+ - [https://www.chemia.uni.lodz.pl](https://www.chemia.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:27.734126+00:00
+
+ ## AKADEMICKI CHÓR UNIWERSYTETU ŁÓDZKIEGO
+ - [https://www.chorakademicki.uni.lodz.pl](https://www.chorakademicki.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:53.230471+00:00
+
+ ## TRANSFER TECHNOLOGII UŁ
+ - [https://www.ctt.uni.lodz.pl](https://www.ctt.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:09.537170+00:00
+
+ ## WYDZIAŁ EKONOMICZNO-SOCJOLOGICZNY
+ - [https://www.eksoc.uni.lodz.pl](https://www.eksoc.uni.lodz.pl)
+ - date_published: 2024-06-28T19:08:07.954258+00:00
+
+ ## FILIA W TOMASZOWIE MAZOWIECKIM
+ - [https://www.filia.uni.lodz.pl](https://www.filia.uni.lodz.pl)
+ - date_published: 2024-06-28T19:08:26.329736+00:00
+
+ ## WYDZIAŁ FILOLOGICZNY
+ - [https://www.filolog.uni.lodz.pl](https://www.filolog.uni.lodz.pl)
+ - date_published: 2024-06-28T19:09:35.971263+00:00
+
+ ## WYDZIAŁ NAUK GEOGRAFICZNYCH
+ - [https://www.geo.uni.lodz.pl](https://www.geo.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:11.586366+00:00
+
+ ## British International School of the University of Lodz
+ - [http://www.interschool.uni.lodz.pl](http://www.interschool.uni.lodz.pl)
+ - date_published: 2024-06-28T19:07:22.470441+00:00
+
+ ## Kuratorium Oświaty w Łodzi – Aktualności, adresy i telefony, regulaminy, niezbędne informacje dla ludzi związanych z oświatą.
+ - [http://www.kuratorium.lodz.pl](http://www.kuratorium.lodz.pl)
+ - date_published: 2024-08-19T21:15:05.701716+00:00
+
+ ## BIBLIOTEKA UŁ
+ - [http://www.lib.uni.lodz.pl](http://www.lib.uni.lodz.pl)
+ - date_published: 2024-06-28T19:10:23.234309+00:00
+
  ## PUBLICZNE LICEUM OGÓLNOKSZTAŁCĄCE UŁ
  - [http://www.liceum.uni.lodz.pl](http://www.liceum.uni.lodz.pl)
  - date_published: 2024-06-28T19:07:29.942199+00:00
@@ -3575,6 +3731,7 @@
  ## Computerworld - Wiadomości IT, biznes IT, praca w IT, konferencje
  - [https://www.pcworld.pl](https://www.pcworld.pl)
  - date_published: 2024-11-08T19:49:44.882217+00:00
+ - tags: ['news', 'computers', 'technology']
 
  ## Księgarnia logopedyczna Pedagogus
  - [https://www.pedagogus.pl](https://www.pedagogus.pl)
@@ -3936,166 +4093,4 @@
  ## Profilaktyka chorób nowotworowych - jak uniknąć raka - Planuję Długie Życie
  - [https://planujedlugiezycie.pl](https://planujedlugiezycie.pl)
  - date_published: 2024-07-03T00:00:00+00:00
-
- ## Plexi na wymiar i do kształtu • Płyty plexi ★ PlasticExpress
- - [https://plasticexpress.pl](https://plasticexpress.pl)
- - date_published: 2024-10-07T22:41:10.073208+00:00
-
- ## Home page
-
-     - Platforma Zakupowa
- - [https://platformazakupowa.pl](https://platformazakupowa.pl)
- - date_published: 2024-09-03T19:25:16.981589+00:00
-
- ## Play.pl - Telewizja, Internet, Abonament komórkowy | Play
- - [https://www.play.pl](https://www.play.pl)
- - date_published: 2024-08-11T07:25:20.837130+00:00
-
- ## Index of /
- - [http://www.play4now.pl](http://www.play4now.pl)
- - date_published: 2021-09-01T00:00:00+00:00
-
- ## Playa.PL - gry, recenzje gier, kody do gier
- - [https://playa.pl](https://playa.pl)
- - date_published: 2023-10-29T13:08:48.581758+00:00
-
- ## Seriale, Filmy, Programy, kanały TV Online - wejdź i oglądaj na Player.pl
- - [https://player.pl](https://player.pl)
- - date_published: 2024-04-23T00:00:00+00:00
- - tags: ['tv online']
-
- ## Centrum Pomocy Player
- - [https://pomoc.player.pl](https://pomoc.player.pl)
- - date_published: 2024-06-16T01:40:56.307376+00:00
-
- ## Sprawdź pakiet, z którym oglądasz bez reklam!
- - [https://promocja.player.pl](https://promocja.player.pl)
- - date_published: 2024-05-10T05:28:14.305935+00:00
-
- ## Premiery seriali i programów, na żywo, płatne pakiety TV bez reklam - sklep Player.pl
- - [https://sklep.player.pl](https://sklep.player.pl)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Playpuls.pl - strona główna
- - [https://playpuls.pl](https://playpuls.pl)
- - date_published: 2024-08-05T16:17:01.326457+00:00
-
- ## Plejada -
-        
-        Poznaj kulisy show-biznesu
- - [https://plejada.pl](https://plejada.pl)
- - date_published: 2024-05-31T14:39:23.728101+00:00
-
- ## pleograf.pl -
- - [https://pleograf.pl](https://pleograf.pl)
- - date_published: 2024-07-20T17:52:40.104167+00:00
-
- ## PKP Polskie Linie Kolejowe S.A.
- - [https://www.plk-sa.pl](https://www.plk-sa.pl)
- - date_published: 2024-07-14T05:36:57.512055+00:00
-
- ## Plotek.pl - Najnowsze Plotki, Gwiazdy, Zdjęcia bez Cenzury
- - [https://www.plotek.pl](https://www.plotek.pl)
- - date_published: 2024-08-18T11:29:08.784583+00:00
-
- ## Plotki Biznesowe - Plotki Biznesowe
- - [https://plotkibiznesowe.pl](https://plotkibiznesowe.pl)
- - date_published: 2023-10-25T22:29:47.710612+00:00
-
- ## Plotkosfera.pl - Najnowsze informacje, wiadomości o Gwiazdach i plotki
- - [https://plotkosfera.pl](https://plotkosfera.pl)
- - date_published: 2023-12-08T12:30:28+00:00
-
- ## Plus dla biznesu | Strona główna
- - [https://biznes.plus.pl](https://biznes.plus.pl)
- - date_published: 2024-07-12T15:25:56.632941+00:00
-
- ## Baza wiedzy Plus
- - [https://bok.plus.pl](https://bok.plus.pl)
- - date_published: 2024-07-12T15:25:59.552719+00:00
-
- ## Plus.pl: doładuj telefon
- - [https://doladuj.plus.pl](https://doladuj.plus.pl)
- - date_published: 2024-07-08T05:49:34+00:00
-
- ## Internet, telefonia i telewizja | Plus
- - [https://plus.pl](https://plus.pl)
- - date_published: 2024-07-12T15:22:03.566385+00:00
-
- ## Konfiguruj telefon - Plus
- - [https://ustaw.plus.pl](https://ustaw.plus.pl)
- - date_published: 2024-07-12T15:26:05.993653+00:00
-
- ## Plus GSM
- - [https://ssl.plusgsm.pl](https://ssl.plusgsm.pl)
- - date_published: 2009-05-07T15:04:45+00:00
-
- ## PMPG SA - Platforma Mediowa Point Group (PGM)
- - [http://www.media.pmpg.pl](http://www.media.pmpg.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## PMPG SA - Platforma Mediowa Point Group (PGM)
- - [http://www.pmpg.pl](http://www.pmpg.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## pocketbook
- - [https://pocketbook.pl](https://pocketbook.pl)
- - date_published: 2024-07-20T16:11:58.895766+00:00
-
- ## BIP Poczta Polska S.A. | Biuletyn Informacji Publicznej
- - [https://bip.poczta-polska.pl](https://bip.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:12.149062+00:00
-
- ## Cennik - Informacje
- - [https://cennik.poczta-polska.pl](https://cennik.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:18.811634+00:00
-
- ## Doładowania liczników energetycznych online - Poczta Polska
- - [https://doladowania.poczta-polska.pl](https://doladowania.poczta-polska.pl)
- - date_published: 2024-07-08T05:49:36+00:00
-
- ## e-Polecony Poczta Polska
- - [https://edoreczenia.poczta-polska.pl](https://edoreczenia.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:01.364027+00:00
-
- ## Śledzenie przesyłek - Tracking | emonitoring.poczta-polska.pl
- - [https://emonitoring.poczta-polska.pl](https://emonitoring.poczta-polska.pl)
- - date_published: 2023-11-01T08:44:38.654053+00:00
-
- ## Sklep Internetowy Poczty Polskiej
- - [https://esklep.poczta-polska.pl](https://esklep.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:15.877847+00:00
-
- ## ezwroty
- - [https://ezwroty.poczta-polska.pl](https://ezwroty.poczta-polska.pl)
- - date_published: 2024-06-11T08:43:04+00:00
-
- ## Biuro prasowe Poczty Polskiej
- - [https://media.poczta-polska.pl](https://media.poczta-polska.pl)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Nieruchomości Poczta Polska
- - [http://nieruchomosci.poczta-polska.pl](http://nieruchomosci.poczta-polska.pl)
- - date_published: 2024-08-18T14:51:57.356716+00:00
-
- ## https://www.poczta-polska.pl
- - [https://poczta-polska.pl](https://poczta-polska.pl)
- - date_published: 2023-11-01T08:44:39.037871+00:00
-
- ## Sklep Internetowy Poczty Polskiej
- - [https://sklep.poczta-polska.pl](https://sklep.poczta-polska.pl)
- - date_published: 2024-08-18T14:52:09.393089+00:00
-
- ## For You - Pocztex
- - [https://www.pocztex.pl](https://www.pocztex.pl)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Montaż podcastów. Edycja podcastów. Maszyna podcastowych treści.
- - [https://podcastuje.pl](https://podcastuje.pl)
- - date_published: 2024-07-11T23:51:52.894118+00:00
-
- ## podhale24.pl - Podhalański Portal Informacyjny
- - [https://alert.podhale24.pl](https://alert.podhale24.pl)
- - date_published: 2024-05-09T05:17:09.247905+00:00
- - tags: ['local news']
 

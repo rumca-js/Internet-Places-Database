@@ -1,3 +1,7 @@
+ ## SOMETHING IN THE DUNGEON
+ - [https://somethinginthedungeon.blogspot.com](https://somethinginthedungeon.blogspot.com)
+ - date_published: 2024-06-29T15:52:03+00:00
+
  ## Something You Might Like
  - [http://something-you-might-like.blogspot.com](http://something-you-might-like.blogspot.com)
  - date_published: 2024-03-05T12:50:50+00:00
@@ -4008,8 +4012,4 @@
  ## Tobi's Paint Pot
  - [http://tobispaintpot.blogspot.com](http://tobispaintpot.blogspot.com)
  - date_published: 2024-07-20T03:31:00+00:00
-
- ## Toc de somatent!
- - [http://tocdesomatent.blogspot.com](http://tocdesomatent.blogspot.com)
- - date_published: 2024-07-02T06:23:14+00:00
 

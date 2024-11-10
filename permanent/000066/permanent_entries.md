@@ -1,3 +1,7 @@
+ ## Bob Dylan Center | Tulsa, OK
+ - [https://bobdylancenter.com](https://bobdylancenter.com)
+ - date_published: 2024-06-30T01:14:25.874417+00:00
+
  ## Come Writers And Critics, The Bob Dylan paper site
  - [http://www.bobdylan-comewritersandcritics.com](http://www.bobdylan-comewritersandcritics.com)
  - date_published: 2024-06-30T01:13:49.970709+00:00
@@ -4030,8 +4034,4 @@
  ## Box | Login
  - [https://georgetown.box.com](https://georgetown.box.com)
  - date_published: 2024-07-13T12:24:35.403313+00:00
-
- ## Box | Login
- - [https://globalstrategygroup.app.box.com](https://globalstrategygroup.app.box.com)
- - date_published: 2024-06-29T10:52:29.843008+00:00
 

@@ -1,3 +1,7 @@
+ ## Blogger Templates
+ - [http://blogger-templates.blogspot.com](http://blogger-templates.blogspot.com)
+ - date_published: 2024-06-08T05:52:45+00:00
+
  ## Blogging Pompeii
  - [http://bloggingpompeii.blogspot.com](http://bloggingpompeii.blogspot.com)
  - date_published: 2024-03-20T13:17:00+00:00
@@ -4006,8 +4010,4 @@
  ## De Silentio Umbrae (old)
  - [http://darkgorydirtywarhammer.blogspot.com](http://darkgorydirtywarhammer.blogspot.com)
  - date_published: 2024-10-05T07:10:11+00:00
-
- ## Colourtime
- - [http://darkknight1980.blogspot.com](http://darkknight1980.blogspot.com)
- - date_published: 2024-09-07T02:56:58+00:00
 

@@ -1,3 +1,7 @@
+ ## Ariel Flesler
+ - [http://flesler.blogspot.com](http://flesler.blogspot.com)
+ - date_published: 2024-03-08T03:50:48+00:00
+
  ## A PERSON IN THE DARK
  - [http://flickchick1953.blogspot.com](http://flickchick1953.blogspot.com)
  - date_published: 2024-07-17T10:54:23+00:00
@@ -4008,8 +4012,4 @@
  ## Information Transfer Economics
  - [http://informationtransfereconomics.blogspot.com](http://informationtransfereconomics.blogspot.com)
  - date_published: 2024-03-13T07:28:57+00:00
-
- ## Cybersecurity Blog
- - [http://infosecninja.blogspot.com](http://infosecninja.blogspot.com)
- - date_published: 2020-08-14T00:00:00+00:00
 

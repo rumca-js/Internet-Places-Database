@@ -1,3 +1,28 @@
+ ## I Hate the New York Times
+ - [https://ihatenytimes.com](https://ihatenytimes.com)
+ - date_published: 2024-10-29T20:17:24.009811+00:00
+
+ ## I Hate Systemd!
+ - [https://ihatesystemd.com](https://ihatesystemd.com)
+ - date_published: 2024-06-22T12:06:37.735624+00:00
+
+ ## I HATE THE MEDIA ™
+ - [https://www.ihatethemedia.com](https://www.ihatethemedia.com)
+ - date_published: 2024-05-06T21:00:26.071438+00:00
+
+ ## Watch Free Online Documentaries
+ - [https://ihavenotv.com](https://ihavenotv.com)
+ - date_published: 2024-01-15T23:31:41.045358+00:00
+
+ ## https://ihavesomanyideas.com
+ - [https://ihavesomanyideas.com](https://ihavesomanyideas.com)
+ - date_published: 2023-11-29T17:12:57.364392+00:00
+ - tags: ['personal']
+
+ ## International Human Design School
+ - [https://www.ihdschool.com](https://www.ihdschool.com)
+ - date_published: 2024-08-18T02:50:24.668565+00:00
+
  ## Infinite Health Collaborative (i-Health) | Independence in Healthcare
  - [https://i-health.com](https://i-health.com)
  - date_published: 2024-02-27T00:00:00+00:00
@@ -4011,28 +4036,4 @@ Gastronomía, ...
  ## Times Internet Ltd.
  - [https://jsso.indiatimes.com](https://jsso.indiatimes.com)
  - date_published: 2022-01-05T12:16:34+00:00
-
- ## Legal News | Latest Legal Industry News, Supreme Court News, Judgement and Updates: ET LegalWorld
- - [https://legal.economictimes.indiatimes.com](https://legal.economictimes.indiatimes.com)
- - date_published: 2024-08-19T08:55:27+00:00
-
- ## ET Manufacturing | Latest Manufacturing News
- - [https://manufacturing.economictimes.indiatimes.com](https://manufacturing.economictimes.indiatimes.com)
- - date_published: 2024-08-19T08:54:54+00:00
-
- ## Maharashtra Times
- - [https://marathi.indiatimes.com](https://marathi.indiatimes.com)
- - date_published: 2024-06-26T08:23:01+00:00
-
- ## Executive Training Programmes | ETMasterclass
- - [https://masterclass.economictimes.indiatimes.com](https://masterclass.economictimes.indiatimes.com)
- - date_published: 2024-08-19T00:13:20+00:00
-
- ## Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Lok Sabha Election Result 2024 News in Marathi | Maharashtra Times
- - [https://mtpwafeeds.indiatimes.com](https://mtpwafeeds.indiatimes.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Mumbai News – Latest and Breaking Mumbai News | Mumbai Mirror
- - [https://mumbaimirror.indiatimes.com](https://mumbaimirror.indiatimes.com)
- - date_published: 2024-06-22T20:28:06.252133+00:00
 

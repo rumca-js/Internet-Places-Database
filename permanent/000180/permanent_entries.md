@@ -1,3 +1,59 @@
+ ## SavvyAviation
+ - [https://apps.savvyaviation.com](https://apps.savvyaviation.com)
+ - date_published: 2024-06-27T16:10:45+00:00
+
+ ## Savvy Aviation - Take Control of Your Aircraft Maintenance
+ - [https://www.savvyaviation.com](https://www.savvyaviation.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## SavvyCal changelog
+ - [https://changelog.savvycal.com](https://changelog.savvycal.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## SavvyCal Help
+ - [https://docs.savvycal.com](https://docs.savvycal.com)
+ - date_published: 2024-09-09T14:23:49.206246+00:00
+
+ ## Open Graph Image Generator by SavvyCal
+ - [https://og-image.savvycal.com](https://og-image.savvycal.com)
+ - date_published: 2024-09-09T14:23:52.721061+00:00
+
+ ## Scheduling Software Everyone Will Love · SavvyCal
+ - [https://savvycal.com](https://savvycal.com)
+ - date_published: 2024-04-28T03:11:36.003746+00:00
+
+ ## Time Zone Converter by SavvyCal
+ - [https://time.savvycal.com](https://time.savvycal.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Members Area - Savvy Homemade
+ - [https://members.savvyhomemade.com](https://members.savvyhomemade.com)
+ - date_published: 2021-12-03T10:56:03+00:00
+
+ ## Savvy Homemade Things For Mind Body & Home
+ - [https://savvyhomemade.com](https://savvyhomemade.com)
+ - date_published: 2021-11-29T11:20:45+00:00
+
+ ## Savvy Learning | Make reading your child's super power.
+ - [http://learner.savvylearning.com](http://learner.savvylearning.com)
+ - date_published: 2024-08-08T18:26:19.501836+00:00
+
+ ## Home
+ - [https://savvylearning.com](https://savvylearning.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## SavvyMoney Award-Winning Credit Score and Digital Personalization Solutions
+ - [https://www.savvymoney.com](https://www.savvymoney.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## SavvyMX Maintenance Plan - SavvyAviation
+ - [https://savvymx.com](https://savvymx.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## SavvyRoo: Online Brainstorming, get better input
+ - [http://savvyroo.com](http://savvyroo.com)
+ - date_published: 2024-07-11T12:26:19.794885+00:00
+
  ## Tech Savvy Teachers
  - [https://tech.savvyteachers.com](https://tech.savvyteachers.com)
  - date_published: 2024-02-25T00:00:00+00:00
@@ -371,6 +427,10 @@
  ## NameBright - Domain Expired
  - [http://www.scaffoldage.com](http://www.scaffoldage.com)
  - date_published: 2024-08-18T08:37:28.845110+00:00
+
+ ## The Scalable Thread | Sidharth | Substack
+ - [https://newsletter.scalablethread.com](https://newsletter.scalablethread.com)
+ - date_published: 2024-11-09T16:33:57.680466+00:00
 
  ## Scalar API Documentation — Manage & Create beautiful API Documentation
  - [https://docs.scalar.com](https://docs.scalar.com)
@@ -3939,6 +3999,10 @@ Scopus - Welcome to Scopus
  - date_published: 2020-08-31T09:10:44+00:00
 
  ## Home
+ - [https://go.screenpal.com](https://go.screenpal.com)
+ - date_published: 2024-11-09T18:04:01.227762+00:00
+
+ ## Home
  - [https://screenpal.com](https://screenpal.com)
  - date_published: 2024-07-19T00:00:00+00:00
 
@@ -3975,68 +4039,4 @@ Scopus - Welcome to Scopus
  ## Screenshot the THING - Capture and Download High-Resolution Screenshots with Ease
  - [https://www.screenshotthething.com](https://www.screenshotthething.com)
  - date_published: 2024-06-28T17:16:57.266663+00:00
-
- ## Screenshot to Code
- - [https://screenshottocode.com](https://screenshottocode.com)
- - date_published: 2024-05-11T07:39:00.532038+00:00
-
- ## Screen Size Map
- - [https://screensizemap.com](https://screensizemap.com)
- - date_published: 2024-10-22T19:20:59.660523+00:00
-
- ## Careers, jobs and skills training in film, TV, VFX, animation and games
- - [https://screenskills.com](https://screenskills.com)
- - date_published: 2024-05-07T14:34:25.243927+00:00
-
- ## Screen Slate | Cinematic Excellence Est. 2011 | Upcoming Film Showtimes NYC
- - [https://screenslate.com](https://screenslate.com)
- - date_published: 2023-10-25T17:00:00.067981+00:00
-
- ## Screen Slate Super Store
- - [https://shop.screenslate.com](https://shop.screenslate.com)
- - date_published: 2024-04-29T02:35:50.337243+00:00
-
- ## Screenstab
- - [https://screenstab.com](https://screenstab.com)
- - date_published: 2023-10-25T17:00:01.292835+00:00
-
- ## NEP Screenworks - Provider of Video Display Solutions in Sports, Concerts, and Corporate Events
- - [https://www.screenworksnep.com](https://www.screenworksnep.com)
- - date_published: 2023-06-05T00:00:00+00:00
-
- ## Screeps: MMO RTS sandbox for programmers
- - [https://screeps.com](https://screeps.com)
- - date_published: 2023-10-05T19:34:20+00:00
-
- ## screwfactoryartists.com
- - [http://www.screwfactoryartists.com](http://www.screwfactoryartists.com)
- - date_published: 2024-06-28T14:34:08.447574+00:00
-
- ## Screwfix | The UK's Leading Retailer of Trade Tools & Hardware | Screwfix
- - [https://www.screwfix.com](https://www.screwfix.com)
- - date_published: 2024-09-03T19:36:28.364726+00:00
-
- ## once was scribble
- - [http://scribble.com](http://scribble.com)
- - date_published: 2023-07-29T18:37:57+00:00
-
- ## Scribble Diffusion
- - [https://scribblediffusion.com](https://scribblediffusion.com)
- - date_published: 2023-10-25T17:00:06.661637+00:00
-
- ## Scribble Hub - The Home of Original Stories
- - [https://www.scribblehub.com](https://www.scribblehub.com)
- - date_published: 2024-07-19T19:05:10.204582+00:00
-
- ## Scribble
- - [https://www.scribblekidsbooks.com](https://www.scribblekidsbooks.com)
- - date_published: 2024-07-04T05:38:36.446746+00:00
-
- ## Ebooks, Guides, & More | Rock Content
- - [https://pages.scribblelive.com](https://pages.scribblelive.com)
- - date_published: 2024-06-29T18:55:01.075869+00:00
-
- ## Draw On Maps and Make Them Easily
- - [https://www.scribblemaps.com](https://www.scribblemaps.com)
- - date_published: 2024-02-13T00:00:00+00:00
 

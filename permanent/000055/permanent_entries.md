@@ -1,3 +1,7 @@
+ ## John Ray's pictorial home page
+ - [https://accessjonjayray.blogspot.com](https://accessjonjayray.blogspot.com)
+ - date_published: 2024-02-19T15:21:35+00:00
+
  ## Accidental Dong
  - [http://accidentaldong.blogspot.com](http://accidentaldong.blogspot.com)
  - date_published: 2024-10-29T17:43:47+00:00
@@ -4013,8 +4017,4 @@
  ## Bloggers For Charity
  - [http://bloggersforcharity.blogspot.com](http://bloggersforcharity.blogspot.com)
  - date_published: 2024-09-09T21:26:39+00:00
-
- ## Blogger Templates
- - [http://blogger-templates.blogspot.com](http://blogger-templates.blogspot.com)
- - date_published: 2024-06-08T05:52:45+00:00
 

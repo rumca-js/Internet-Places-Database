@@ -1,3 +1,137 @@
+ ## 石黒プロジェクト ムーンショット型研究開発事業 目標1：2050年までに、人が身体、脳、空間、時間の制約から解放された社会を実現 - 「誰もが自在に活躍できるアバター共生社会の実現」
+ - [https://avatar-ss.org](https://avatar-ss.org)
+ - date_published: 2024-07-23T23:15:23.792074+00:00
+
+ ## AV-ATLAS - The Threat Intelligence Platform by AV-TEST
+ - [https://av-atlas.org](https://av-atlas.org)
+ - date_published: 2020-04-07T08:54:18+00:00
+
+ ## AV-ATLAS
+ - [https://portal.av-atlas.org](https://portal.av-atlas.org)
+ - date_published: 2024-02-12T07:53:36+00:00
+
+ ## Home
+ - [https://www.av-comparatives.org](https://www.av-comparatives.org)
+ - date_published: 2024-08-11T07:14:57+00:00
+
+ ## Anderson Valley Community Services District
+ - [http://www.avcsd.org](http://www.avcsd.org)
+ - date_published: 2024-09-16T04:03:29.454537+00:00
+
+ ## Arthur Vining Davis Foundations
+ - [https://www.avdf.org](https://www.avdf.org)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## avdi.codes
+ - [http://avdi.org](http://avdi.org)
+ - date_published: 2024-10-15T23:36:35.095585+00:00
+
+ ## Avens Publishing Group-Home Page-Open Access Journals
+ - [https://www.avensonline.org](https://www.avensonline.org)
+ - date_published: 2013-07-18T00:00:00+00:00
+
+ ## Avenues of Honour – Australia's Living Memorials
+ - [https://avenuesofhonour.org](https://avenuesofhonour.org)
+ - date_published: 2024-09-14T17:46:24+00:00
+
+ ## Avera Health | Avera.org
+ - [https://avera.org](https://avera.org)
+ - date_published: 2024-05-12T05:10:30.938429+00:00
+
+ ## Welcome! - Avera Foundation
+ - [https://www.averafoundationevents.org](https://www.averafoundationevents.org)
+ - date_published: 2024-07-15T04:26:12.513067+00:00
+
+ ## Be in the KNOW
+ - [https://avert.org](https://avert.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## A Very Special Christmas
+ - [http://averyspecialchristmas.org](http://averyspecialchristmas.org)
+ - date_published: 2024-09-19T22:03:11.828888+00:00
+
+ ## ASA Home
+ - [http://www.aviationsuppliers.org](http://www.aviationsuppliers.org)
+ - date_published: 2023-11-05T08:41:21+00:00
+
+ ## https://avidemux.org
+ - [https://avidemux.org](https://avidemux.org)
+ - date_published: 2023-10-27T15:09:51.491446+00:00
+ - tags: ['video editor', 'desktop program']
+
+ ## Avishay Tal
+ - [https://www.avishaytal.org](https://www.avishaytal.org)
+ - date_published: 2024-06-22T10:19:44.530083+00:00
+
+ ## Main Page - Avisynth
+ - [https://avisynth.org](https://avisynth.org)
+ - date_published: 2020-09-22T17:23:57+00:00
+ - tags: ['video editor']
+
+ ## Asheville Radio Museum | Asheville NC
+ - [https://www.avlradiomuseum.org](https://www.avlradiomuseum.org)
+ - date_published: 2024-06-28T22:46:50.974260+00:00
+
+ ## AVMA Congressional Advocacy Network
+ - [https://avmacan.avma.org](https://avmacan.avma.org)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## AVMA Journals
+ - [https://avmajournals.avma.org](https://avmajournals.avma.org)
+ - date_published: 2024-08-05T17:13:06.965161+00:00
+
+ ## Home
+ - [https://avma.org](https://avma.org)
+ - date_published: 2024-04-29T04:49:22.845924+00:00
+
+ ## AVMA Axon
+ - [https://axon.avma.org](https://axon.avma.org)
+ - date_published: 2024-08-05T17:13:52+00:00
+
+ ## American Veterinary Medical Association (AVMA), AVMA Veterinary Career Center|Find Your Career Here
+ - [https://jobs.avma.org](https://jobs.avma.org)
+ - date_published: 2024-08-05T17:13:56.916693+00:00
+
+ ## Home – AVMA My Veterinary Life
+ - [https://myvetlife.avma.org](https://myvetlife.avma.org)
+ - date_published: 2024-08-05T17:13:12.510473+00:00
+
+ ## Life & Disability Insurance for Veterinarians | AVMA LIFE
+ - [https://avmalife.org](https://avmalife.org)
+ - date_published: 2024-08-05T17:13:51.095553+00:00
+
+ ## American Veterinary Medical Foundation
+ - [https://www.avmf.org](https://www.avmf.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home - avoe.org
+ - [http://www.avoe.org](http://www.avoe.org)
+ - date_published: 2024-06-28T13:24:56.613007+00:00
+
+ ## The Avram Davidson Website
+ - [http://www.avramdavidson.org](http://www.avramdavidson.org)
+ - date_published: 2023-05-05T01:57:38+00:00
+
+ ## Avril-L.org // an Avril Lavigne fan site
+ - [http://avril-l.org](http://avril-l.org)
+ - date_published: 2024-08-08T19:33:54.331431+00:00
+
+ ## AVS - Home
+ - [http://avs.org](http://avs.org)
+ - date_published: 2024-06-17T11:46:28.088177+00:00
+
+ ## AVS Science and Technology (AVS), AVS Career Center|Find Your Career Here
+ - [https://careers.avs.org](https://careers.avs.org)
+ - date_published: 2024-10-19T03:52:09.365786+00:00
+
+ ## AVSS 2024
+ - [https://avss2024.org](https://avss2024.org)
+ - date_published: 2024-09-05T19:34:20.305994+00:00
+
+ ## AV-TEST | Antivirus & Security Software & AntiMalware Reviews
+ - [https://www.av-test.org](https://www.av-test.org)
+ - date_published: 2024-05-02T12:05:23.604394+00:00
+
  ## HOME | AVVISI MAP Site
  - [https://www.avvisoproject.org](https://www.avvisoproject.org)
  - date_published: 2024-06-26T21:36:15.132298+00:00
@@ -3893,136 +4027,4 @@
  ## Homepage – Blueprint Biosecurity
  - [https://blueprintbiosecurity.org](https://blueprintbiosecurity.org)
  - date_published: 2024-05-08T09:58:37.457232+00:00
-
- ## The Blue Pyramid
- - [http://bluepyramid.org](http://bluepyramid.org)
- - date_published: 2023-07-26T05:18:04+00:00
-
- ## Blue Ridge Institute & Museum
- - [http://www.blueridgeinstitute.org](http://www.blueridgeinstitute.org)
- - date_published: 2024-06-30T07:50:20.176649+00:00
-
- ## Blue Ripple Politics
- - [https://blueripplepolitics.org](https://blueripplepolitics.org)
- - date_published: 2024-04-30T03:49:24.269828+00:00
-
- ## The Blues Foundation
- - [https://blues.org](https://blues.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Sean Davis
- - [https://bluesabre.org](https://bluesabre.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Show HN: I made a Bluesky video downloader that can download videos from Bluesky
- - [https://blueskyvideodownloader.org](https://blueskyvideodownloader.org)
- - date_published: 2024-10-25T09:57:44+00:00
-
- ## [[ b l u e s o c k . o r g ]]
- - [https://bluesock.org](https://bluesock.org)
- - date_published: 2017-11-12T00:15:02+00:00
-
- ## Home - Blue Stakes of Utah 811
- - [http://www.bluestakes.org](http://www.bluestakes.org)
- - date_published: 2024-10-22T02:47:18.876204+00:00
-
- ## Welcome to Blue Star Families
- - [http://www.bluestarfam.org](http://www.bluestarfam.org)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## Index - Blue Static
- - [https://bluestatic.org](https://bluestatic.org)
- - date_published: 2020-08-08T00:00:00+00:00
-
- ## src.bluestatic.org Git
- - [https://src.bluestatic.org](https://src.bluestatic.org)
- - date_published: 2024-09-09T21:06:54.144277+00:00
-
- ## BlueStem Jazz - BlueStem Jazz - Madison, Wisconsin
- - [http://bluestemjazz.org](http://bluestemjazz.org)
- - date_published: 2019-07-17T02:25:34+00:00
-
- ## Bluetile - full-featured tiling for the GNOME desktop environment
- - [http://bluetile.org](http://bluetile.org)
- - date_published: 2016-02-11T16:56:23+00:00
-
- ## Bluetooth Technology Website | The official website of Bluetooth technology.
- - [https://bluetooth.org](https://bluetooth.org)
- - date_published: 2024-05-08T03:00:06.275256+00:00
-
- ## Bluff Lake Nature Center
- - [http://www.blufflake.org](http://www.blufflake.org)
- - date_published: 2024-07-14T14:06:39.283701+00:00
-
- ## Branham High Bionic Bruins Hackathon 2024
- - [https://blushacks.org](https://blushacks.org)
- - date_published: 2024-03-25T00:47:32+00:00
-
- ## BLX.org
- - [https://blx.org](https://blx.org)
- - date_published: 2020-11-08T00:00:00+00:00
-
- ## Bloxchain
- - [https://explorer.blx.org](https://explorer.blx.org)
- - date_published: 2023-02-23T16:01:40+00:00
-
- ## BLXQ Explorer.
- - [https://explorer.blxq.org](https://explorer.blxq.org)
- - date_published: 2024-09-24T09:29:43.964519+00:00
-
- ## BMC Portal
- - [https://assets.bmc.org](https://assets.bmc.org)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Award-winning clinical care for everyone | Boston Medical Center
- - [https://bmc.org](https://bmc.org)
- - date_published: 2024-04-30T03:29:47.716669+00:00
-
- ## Search Page
- - [https://careers.bmc.org](https://careers.bmc.org)
- - date_published: 2024-07-22T07:21:05.192371+00:00
-
- ## Home | Boston Medical Center Giving
- - [https://development.bmc.org](https://development.bmc.org)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home - HealthCity
- - [https://healthcity.bmc.org](https://healthcity.bmc.org)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Home - BMC Jobs
- - [https://jobs.bmc.org](https://jobs.bmc.org)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Bryn Mawr Classical Review
- - [http://www.bmcreview.org](http://www.bmcreview.org)
- - date_published: 2024-03-08T19:07:30+00:00
-
- ## bmd-v2
- - [https://bmdhub.org](https://bmdhub.org)
- - date_published: 2023-06-06T04:28:38+00:00
-
- ## Home - British Model Flying Association
- - [https://bmfa.org](https://bmfa.org)
- - date_published: 2024-07-20T09:57:22.094739+00:00
-
- ## Boston Medical Library - A Resource For Lifelong Learning in MA
- - [https://bml.org](https://bml.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Bugzilla Main Page
- - [https://bug1765615.bmoattachments.org](https://bug1765615.bmoattachments.org)
- - date_published: 2024-08-11T18:09:27.535590+00:00
-
- ## Bugzilla Main Page
- - [https://bug1874826.bmoattachments.org](https://bug1874826.bmoattachments.org)
- - date_published: 2024-08-11T18:09:17.826102+00:00
-
- ## Bioinformatics Munich Student Lab e.V. – Research for Students by Students
- - [http://www.bmsl.org](http://www.bmsl.org)
- - date_published: 2024-08-11T22:27:21.277109+00:00
-
- ## Homepage
- - [https://www.bmsmusic.org](https://www.bmsmusic.org)
- - date_published: 2024-07-14T17:27:41.747025+00:00
 

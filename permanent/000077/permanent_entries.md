@@ -1,3 +1,11 @@
+ ## Carl Sandburg College
+ - [https://sandburg.college-tour.com](https://sandburg.college-tour.com)
+ - date_published: 2024-07-14T15:20:41.925594+00:00
+
+ ## Ursinus College
+ - [https://ursinus.college-tour.com](https://ursinus.college-tour.com)
+ - date_published: 2024-07-02T10:48:53.747911+00:00
+
  ## Best Colleges - Rankings, Statistics & Data - CollegeStats.org
  - [http://www.collegeview.com](http://www.collegeview.com)
  - date_published: 2024-07-22T08:58:17.373011+00:00
@@ -4022,12 +4030,4 @@ Real Estate Supercenter
  ## Sicss Society Public Events
  - [https://sicss.connpass.com](https://sicss.connpass.com)
  - date_published: 2024-07-07T05:26:53.452596+00:00
-
- ## Start Python Club
- - [https://startpython.connpass.com](https://startpython.connpass.com)
- - date_published: 2024-07-03T04:47:41.295127+00:00
-
- ## UIT
- - [https://uit.connpass.com](https://uit.connpass.com)
- - date_published: 2024-09-18T17:56:12.001977+00:00
 

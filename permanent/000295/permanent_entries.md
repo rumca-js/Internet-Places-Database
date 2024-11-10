@@ -1,3 +1,107 @@
+ ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
+ - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
+ - date_published: 2024-05-06T13:41:13.342135+00:00
+
+ ## ShodhShuddhi | Enhancing Research Quality
+ - [https://shodhshuddhi.inflibnet.ac.in](https://shodhshuddhi.inflibnet.ac.in)
+ - date_published: 2024-06-23T07:10:46.629772+00:00
+
+ ## UGC MOOCs |SWAYAM| UG AND PG COURSE
+ - [http://ugcmoocs.inflibnet.ac.in](http://ugcmoocs.inflibnet.ac.in)
+ - date_published: 2024-09-11T17:36:47.207835+00:00
+
+ ## Indian Statistical Institute
+ - [https://www.isical.ac.in](https://www.isical.ac.in)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Best University in Bangalore | JAIN (Deemed-to-be University)
+ - [https://www.jainuniversity.ac.in](https://www.jainuniversity.ac.in)
+ - date_published: 2024-07-14T09:57:11.757195+00:00
+
+ ## JEE (Advanced) 2024
+ - [https://jeeadv.ac.in](https://jeeadv.ac.in)
+ - date_published: 2024-07-27T08:47:23+00:00
+
+ ## Official Website of Jamia Millia Islamia - Jamia
+ - [http://jmi.ac.in](http://jmi.ac.in)
+ - date_published: 2024-09-11T17:46:55.381289+00:00
+
+ ## Jawaharlal Nehru University
+ - [http://www.jnu.ac.in](http://www.jnu.ac.in)
+ - date_published: 2024-09-11T17:57:50.162014+00:00
+
+ ## University of Kerala
+ - [http://www.keralauniversity.ac.in](http://www.keralauniversity.ac.in)
+ - date_published: 2024-10-15T14:21:02.123410+00:00
+
+ ## SPACE 2022
+ - [http://space2022.lnmiit.ac.in](http://space2022.lnmiit.ac.in)
+ - date_published: 2023-12-02T12:13:54+00:00
+
+ ## Manipur University
+ - [https://www.manipuruniv.ac.in](https://www.manipuruniv.ac.in)
+ - date_published: 2024-09-11T18:06:09.044034+00:00
+
+ ## :: Maulana Azad National Urdu University ::
+ - [http://www.manuu.ac.in](http://www.manuu.ac.in)
+ - date_published: 2024-09-11T17:53:04.244449+00:00
+
+ ## Campuses - MES
+ - [https://campuses.mes.ac.in](https://campuses.mes.ac.in)
+ - date_published: 2017-01-17T07:11:14+00:00
+
+ ## Chembur Campus - MES
+ - [https://chemburcampus.mes.ac.in](https://chemburcampus.mes.ac.in)
+ - date_published: 2017-03-04T07:07:21+00:00
+
+ ## Khanda Campus - MES
+ - [https://khandacampus.mes.ac.in](https://khandacampus.mes.ac.in)
+ - date_published: 2017-03-04T07:08:52+00:00
+
+ ## Mahatma Education Society - MES
+ - [https://mes.ac.in](https://mes.ac.in)
+ - date_published: 2024-10-15T21:07:04.774348+00:00
+
+ ## Mahatma Education Society's Pillai Group of Institutions: Log in to the site
+ - [https://mockcet.mes.ac.in](https://mockcet.mes.ac.in)
+ - date_published: 2024-10-15T21:06:52.668871+00:00
+
+ ## Panvel Campus - MES
+ - [https://panvelcampus.mes.ac.in](https://panvelcampus.mes.ac.in)
+ - date_published: 2017-03-04T07:08:05+00:00
+
+ ## Pillai College of Engineering
+ - [https://pcestudentportal.mes.ac.in](https://pcestudentportal.mes.ac.in)
+ - date_published: 2024-10-15T21:06:37.880091+00:00
+
+ ## Pillai HOCL Educational Campus - MES
+ - [https://rasayanicampus.mes.ac.in](https://rasayanicampus.mes.ac.in)
+ - date_published: 2017-03-04T07:07:47+00:00
+
+ ## Top University in Pune Maharashtra - MIT ADT University
+ - [https://mituniversity.ac.in](https://mituniversity.ac.in)
+ - date_published: 2024-08-17T23:38:14.494870+00:00
+
+ ## Malaviya National Institute of Technology Jaipur
+ - [http://www.mnit.ac.in](http://www.mnit.ac.in)
+ - date_published: 2024-09-11T18:02:18.444844+00:00
+
+ ## Home
+ - [http://www.mnnit.ac.in](http://www.mnnit.ac.in)
+ - date_published: 2024-09-11T18:04:31+00:00
+
+ ## Madras School of Economics
+ - [https://www.mse.ac.in](https://www.mse.ac.in)
+ - date_published: 2024-09-09T21:55:51.673424+00:00
+
+ ## MSRVVP
+ - [https://msrvvp.ac.in](https://msrvvp.ac.in)
+ - date_published: 2024-09-09T14:23:37+00:00
+
+ ## Nagaland University | Labor et Honor
+ - [http://nagalanduniversity.ac.in](http://nagalanduniversity.ac.in)
+ - date_published: 2024-09-11T17:55:39+00:00
+
  ## Web Site Blocked
  - [http://www.nehu.ac.in](http://www.nehu.ac.in)
  - date_published: 2024-09-11T17:39:02.471165+00:00
@@ -3916,110 +4020,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## ITW 2022
  - [https://itw2022.in](https://itw2022.in)
  - date_published: 2024-07-01T20:06:04.635526+00:00
-
- ## Home | ASTROSAT SCIENCE SUPPORT CELL
- - [http://astrosat-ssc.iucaa.in](http://astrosat-ssc.iucaa.in)
- - date_published: 2024-10-16T07:19:31.003935+00:00
-
- ## jacklin nguyen / graphic designer
- - [https://jackl.in](https://jackl.in)
- - date_published: 2024-07-13T04:12:33.902467+00:00
-
- ## Jaguar India: Luxury Sedans, Sports Cars & SUVs - Best in Class & Technology
- - [https://www.jaguar.in](https://www.jaguar.in)
- - date_published: 2024-07-15T05:01:24.772913+00:00
-
- ## Baptiste Jamin
- - [https://jam.in](https://jam.in)
- - date_published: 2024-07-13T04:28:48.524062+00:00
-
- ## ജന്മഭൂമി - Janmabhumi : Latest Malayalam News
- - [https://janmabhumi.in](https://janmabhumi.in)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Jaylin Herskovitz
- - [https://jayl.in](https://jayl.in)
- - date_published: 2023-11-17T19:43:34+00:00
-
- ## Journal of Comparative Literature and Aesthetics - JCLA
- - [https://jcla.in](https://jcla.in)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## JEEP TRAILS
- - [https://jeeptrails.in](https://jeeptrails.in)
- - date_published: 2024-10-28T16:08:24.429397+00:00
-
- ## Jeff Wainwright
- - [https://jeffry.in](https://jeffry.in)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Jenoptik India: Smart systems for your production
- - [https://www.jenoptik.in](https://www.jenoptik.in)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Jeremy Morin · Bangkok
- - [https://jermor.in](https://jermor.in)
- - date_published: 2024-09-14T08:03:46.914252+00:00
-
- ## Loan on Mutual Funds and Home Loans | Jio Finance Limited
- - [https://www.jiofinance.in](https://www.jiofinance.in)
- - date_published: 2024-10-21T07:25:53.569283+00:00
-
- ## Homepage
- - [https://www.jnj.in](https://www.jnj.in)
- - date_published: 2024-08-18T14:53:59.096389+00:00
-
- ## Mkt Student
- - [https://joach.in](https://joach.in)
- - date_published: 2024-07-13T04:29:19.145553+00:00
-
- ## Joind.in
- - [http://joind.in](http://joind.in)
- - date_published: 2024-07-12T16:44:28.411201+00:00
-
- ## Ditto Insurance: Buy the best insurance plan for you today through our expert advisors!
- - [https://joinditto.in](https://joinditto.in)
- - date_published: 2024-04-28T01:40:01.128614+00:00
-
- ## Joker123
- - [https://joker123th.in](https://joker123th.in)
- - date_published: 2024-10-22T14:46:44.253184+00:00
-
- ## Jonathan Jin
- - [https://jonathanj.in](https://jonathanj.in)
- - date_published: 2024-04-28T06:15:25.975182+00:00
- - tags: ['personal']
-
- ## Jophin Mathai – Personal Site
- - [https://joph.in](https://joph.in)
- - date_published: 2024-02-26T08:25:34.178010+00:00
- - tags: ['personal']
-
- ## Jordin
- - [https://jord.in](https://jord.in)
- - date_published: 2024-07-13T04:28:51.304541+00:00
-
- ## Jrsensors | Temperature Sensor Online | NTC Thermistor
- - [https://jrsensors.in](https://jrsensors.in)
- - date_published: 2015-12-14T07:14:55+00:00
-
- ## JSConf India 2023
- - [https://jsconf.in](https://jsconf.in)
- - date_published: 2024-06-23T01:30:23.797220+00:00
-
- ## JS features
- - [https://jsfeatures.in](https://jsfeatures.in)
- - date_published: 2024-06-03T11:19:25.729390+00:00
-
- ## JSW Group - Amongst India's largest conglomerates
- - [https://www.jsw.in](https://www.jsw.in)
- - date_published: 2024-10-15T21:11:37.128530+00:00
-
- ## Play Online Rummy Games at Jungleerummy India
- - [https://jungleerummyindia.in](https://jungleerummyindia.in)
- - date_published: 2024-08-07T21:30:24.567570+00:00
-
- ## Juspay | Payments Infrastructure for Scale and Simplicity
- - [https://juspay.in](https://juspay.in)
- - date_published: 2024-05-04T15:56:59.515968+00:00
 

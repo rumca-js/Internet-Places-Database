@@ -1,3 +1,11 @@
+ ## CARTO · alexmoa public feed
+ - [https://alexmoa.carto.com](https://alexmoa.carto.com)
+ - date_published: 2024-05-12T07:32:20.725697+00:00
+
+ ## CARTO · Ben Wellington public feed
+ - [https://benwellington.carto.com](https://benwellington.carto.com)
+ - date_published: 2024-05-06T20:35:03.403538+00:00
+
  ## Location Intelligence Platform for Spatial Analytics | CARTO
  - [https://carto.com](https://carto.com)
  - date_published: 2024-06-26T00:00:00+00:00
@@ -4032,12 +4040,4 @@
  ## Accueil - centre aquatique couserans-pyrénées
  - [https://www.centre-aquatique-du-couserans.com](https://www.centre-aquatique-du-couserans.com)
  - date_published: 2024-07-01T00:00:00+00:00
-
- ## Official Marketing Site | Centre County Favorites
- - [https://centrecountyfavorites.com](https://centrecountyfavorites.com)
- - date_published: 2024-05-08T04:46:22.421925+00:00
-
- ## State College Breaking News & Sports | Centre Daily Times
- - [https://centredaily.com](https://centredaily.com)
- - date_published: 2024-05-07T00:00:00+00:00
 

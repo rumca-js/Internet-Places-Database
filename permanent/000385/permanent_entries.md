@@ -1,3 +1,153 @@
+ ## Home | Military Times Service Members of the Year
+ - [https://servicemembersoftheyear.org](https://servicemembersoftheyear.org)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Samuel J. Heyman Service to America Medals ®
+ - [https://servicetoamericamedals.org](https://servicetoamericamedals.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## The Serving Library
+ - [https://www.servinglibrary.org](https://www.servinglibrary.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## The Servo Book - The Servo Book
+ - [https://book.servo.org](https://book.servo.org)
+ - date_published: 2024-05-31T05:48:39+00:00
+
+ ## Servo Experiments
+ - [https://demo.servo.org](https://demo.servo.org)
+ - date_published: 2024-01-17T18:28:02+00:00
+
+ ## Download - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+ - [https://download.servo.org](https://download.servo.org)
+ - date_published: 2024-07-31T16:46:08+00:00
+
+ ## Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+ - [https://servo.org](https://servo.org)
+ - date_published: 2023-10-25T22:08:07.109939+00:00
+ - tags: ['web rendering engine']
+
+ ## Servo WPT CSS scores
+ - [https://wpt.servo.org](https://wpt.servo.org)
+ - date_published: 2024-08-11T08:51:56+00:00
+
+ ## Home - Special Education Service Agency
+ - [https://sesa.org](https://sesa.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Southeast Seattle Education Coalition
+ - [https://sesecwa.org](https://sesecwa.org)
+ - date_published: 2024-04-29T05:28:16.677244+00:00
+
+ ## SeSeSe.org - Публикации
+ - [https://www.sesese.org](https://www.sesese.org)
+ - date_published: 2024-07-09T09:13:30.654443+00:00
+
+ ## FAJARTOTO: Bandar Toto Macau Resmi dengan Keluaran Tercepat
+ - [http://www.sesrtcic.org](http://www.sesrtcic.org)
+ - date_published: 2024-09-24T21:39:13.052995+00:00
+
+ ## Sest India - Exceptional Blogs
+ - [http://www.sestindia.org](http://www.sestindia.org)
+ - date_published: 2024-10-29T17:20:57.719123+00:00
+
+ ## Home - Southeastern Trade Adjustment Assistance Center
+ - [http://setaac.org](http://setaac.org)
+ - date_published: 2024-07-22T03:40:35.544717+00:00
+
+ ## Madsci Network: Research
+ - [http://family.sethi.org](http://family.sethi.org)
+ - date_published: 2024-07-07T07:03:08.313058+00:00
+
+ ## Sethi Research and Professional Activities
+ - [https://research.sethi.org](https://research.sethi.org)
+ - date_published: 2024-05-08T09:50:22.690033+00:00
+
+ ## Sethi Family HomePage
+ - [https://sethi.org](https://sethi.org)
+ - date_published: 2024-05-08T09:50:07.612299+00:00
+
+ ## Seth Thompson
+ - [http://seththompson.org](http://seththompson.org)
+ - date_published: 2024-07-13T15:01:50.269168+00:00
+
+ ## Drake Awards 2023
+ - [https://drakeawards.seti.org](https://drakeawards.seti.org)
+ - date_published: 2024-05-09T18:03:49+00:00
+
+ ## Home
+ - [https://seti.org](https://seti.org)
+ - date_published: 2023-11-08T20:10:13.771332+00:00
+ - tags: ['organization', 'science', 'space', 'universe']
+
+ ## Setmana Mundial de l'Educació Superior 2022 - World Higher Education Week 2022
+ - [https://setmanamundialeducaciosuperior2022.org](https://setmanamundialeducaciosuperior2022.org)
+ - date_published: 2024-07-02T10:36:00.350673+00:00
+
+ ## Just another blog
+ - [https://setphaserstostun.org](https://setphaserstostun.org)
+ - date_published: 2023-11-26T00:00:00+00:00
+
+ ## Scholarship Essay Tips: Step-by-Step Guide to a Winning Paper | setscholars.org
+ - [http://www.setscholars.org](http://www.setscholars.org)
+ - date_published: 2024-10-29T17:21:17.821846+00:00
+
+ ## 説話文学会 - The Narrative Literary Society
+ - [http://www.setsuwa.org](http://www.setsuwa.org)
+ - date_published: 2024-07-02T11:33:44+00:00
+
+ ## Casa del Popolo di Settignano
+ - [https://cdp.settignano.org](https://cdp.settignano.org)
+ - date_published: 2024-06-29T04:21:41.038635+00:00
+
+ ## Settlus | The upcoming standard of creator economy
+ - [https://settlus.org](https://settlus.org)
+ - date_published: 2024-08-01T06:55:14+00:00
+
+ ## Archives
+ - [https://archives.seul.org](https://archives.seul.org)
+ - date_published: 2001-04-11T23:25:02+00:00
+
+ ## gBib
+ - [http://gbib.seul.org](http://gbib.seul.org)
+ - date_published: 2004-04-07T00:00:00+00:00
+
+ ## The GDIS Home Page
+ - [http://gdis.seul.org](http://gdis.seul.org)
+ - date_published: 2003-11-13T01:39:26+00:00
+
+ ## IPTraf - An IP Network Monitor
+ - [http://iptraf.seul.org](http://iptraf.seul.org)
+ - date_published: 2000-06-30T00:00:00+00:00
+
+ ## Pingus - Home
+ - [https://pingus.seul.org](https://pingus.seul.org)
+ - date_published: 2018-01-14T19:34:26+00:00
+
+ ## Seul.org Home Page
+ - [http://www.seul.org](http://www.seul.org)
+ - date_published: 2016-11-20T21:58:49+00:00
+
+ ## XArchon
+ - [https://xarchon.seul.org](https://xarchon.seul.org)
+ - date_published: 2001-04-11T23:25:02+00:00
+
+ ## | Sioux Empire United Way
+ - [https://www.seuw.org](https://www.seuw.org)
+ - date_published: 2024-07-14T06:30:07+00:00
+
+ ## Север Реалии
+ - [https://www.severreal.org](https://www.severreal.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## NAGA138: Link Slot Live Pasti WD Kemenangan 98% Semua Permainan
+ - [http://www.sewerhistory.org](http://www.sewerhistory.org)
+ - date_published: 2024-10-18T15:43:23.951226+00:00
+
+ ## SeyCCAT - The Seychelles Conservation and Climate Adaptation Trust - We strategically invest in ocean stakeholders to generate new learning, bold action and sustainable blue prosperity in Seychelles.
+ - [https://seyccat.org](https://seyccat.org)
+ - date_published: 2024-07-15T07:32:07.146431+00:00
+
  ## SEZARC - Animal Reproduction, Conservation, Collaboration
  - [https://sezarc.org](https://sezarc.org)
  - date_published: 2024-05-08T06:03:44.116239+00:00
@@ -3881,155 +4031,4 @@ Santa Rosa Veterans Building, Santa Rosa, CA |
  ## Software Donation – Donate software to people in need
  - [https://softwaredonation.org](https://softwaredonation.org)
  - date_published: 2024-07-04T04:24:19.751849+00:00
-
- ## Software Freedom Law Center
- - [https://www.softwarefreedom.org](https://www.softwarefreedom.org)
- - date_published: 2023-10-13T16:46:53+00:00
-
- ## Index of /
- - [https://annex.softwareheritage.org](https://annex.softwareheritage.org)
- - date_published: 2024-02-17T00:00:00+00:00
-
- ## Welcome to the Software Heritage archive
- - [https://archive.softwareheritage.org](https://archive.softwareheritage.org)
- - date_published: 2024-05-19T02:43:24.642386+00:00
-
- ## Welcome to Software Heritage documentation — Software Heritage  documentation
- - [https://docs.softwareheritage.org](https://docs.softwareheritage.org)
- - date_published: 2024-07-20T02:33:13+00:00
-
- ## Explore projects · GitLab
- - [https://gitlab.softwareheritage.org](https://gitlab.softwareheritage.org)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Home Page
- - [https://softwareheritage.org](https://softwareheritage.org)
- - date_published: 2024-07-08T11:02:28.507123+00:00
-
- ## Software Heritage
- - [https://status.softwareheritage.org](https://status.softwareheritage.org)
- - date_published: 2024-07-20T11:47:44.351863+00:00
-
- ## Software Lab - Department of Computer Science - University of Stuttgart
- - [https://software-lab.org](https://software-lab.org)
- - date_published: 2024-05-15T23:32:01+00:00
-
- ## Software Made in Germany | Eine Initiative des BITMi
- - [https://www.software-made-in-germany.org](https://www.software-made-in-germany.org)
- - date_published: 2024-10-30T08:57:09.373171+00:00
-
- ## Software Preservation Group
-        —
-        Software Preservation Group
- - [https://softwarepreservation.org](https://softwarepreservation.org)
- - date_published: 2023-10-25T22:09:52.170128+00:00
-
- ## Willkommen! - SWK
- - [https://softwerkskammer.org](https://softwerkskammer.org)
- - date_published: 2024-06-22T14:05:34.404095+00:00
-
- ## Homepage - The Sogorea Te Land Trust
- - [https://sogoreate-landtrust.org](https://sogoreate-landtrust.org)
- - date_published: 2024-08-17T23:37:16.653646+00:00
-
- ## The Sohn Conference Foundation
- - [https://www.sohnconference.org](https://www.sohnconference.org)
- - date_published: 2024-06-23T02:48:32.828230+00:00
-
- ## SOI Foundation – Inspiring Leadership for a Sustainable Future
- - [https://soifoundation.org](https://soifoundation.org)
- - date_published: 2024-08-09T03:53:53.752698+00:00
-
- ## Center for Science of Information
- - [https://soihub.org](https://soihub.org)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home - Soil | Soil Science Society of America
- - [https://soils.org](https://soils.org)
- - date_published: 2024-05-11T09:16:51.656428+00:00
-
- ## Home | Soils 4 Teachers
- - [https://www.soils4teachers.org](https://www.soils4teachers.org)
- - date_published: 2024-07-14T03:49:42.367624+00:00
-
- ## Sol-1 74 Series Logic Homebrew CPU - 2.5MHz
- - [http://sol-1.org](http://sol-1.org)
- - date_published: 2023-12-07T00:00:00+00:00
-
- ## The Solana Foundation
- - [https://solana.org](https://solana.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home :: Solar Cookers International
- - [https://solarcookers.org](https://solarcookers.org)
- - date_published: 2024-05-09T04:40:17.288267+00:00
-
- ## Solar Cooking
- - [http://solarcooking.org](http://solarcooking.org)
- - date_published: 2024-03-03T23:24:50.152750+00:00
-
- ## JCAP
- - [https://solarfuelshub.org](https://solarfuelshub.org)
- - date_published: 2024-04-30T03:34:31.695156+00:00
-
- ## Solargraph: A Ruby Language Server
- - [https://solargraph.org](https://solargraph.org)
- - date_published: 2024-06-23T08:43:21.581565+00:00
-
- ## Arizona Crisis Services - Solari Crisis Response Network
- - [https://crisis.solari-inc.org](https://crisis.solari-inc.org)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## www.SolarMonitor.org
- - [https://solarmonitor.org](https://solarmonitor.org)
- - date_published: 2024-08-06T18:25:18.573633+00:00
-
- ## SolarPACES - International CSP research
- - [https://solarpaces.org](https://solarpaces.org)
- - date_published: 2023-10-25T22:09:59.992144+00:00
-
- ## Solarus Documentation
- - [https://docs.solarus-games.org](https://docs.solarus-games.org)
- - date_published: 2024-05-05T10:56:36+00:00
-
- ## Solarus
- - [https://solarus-games.org](https://solarus-games.org)
- - date_published: 2024-03-30T00:00:00+00:00
- - tags: ['open source', 'video game engine']
-
- ## Solayer | Restaking on Solana
- - [https://solayer.org](https://solayer.org)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Welcome
- - [http://www.soldiersangels.org](http://www.soldiersangels.org)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Army Benevolent Fund
- - [http://www.soldierscharity.org](http://www.soldierscharity.org)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Army Benevolent Fund Shop
- - [https://soldierscharityshop.org](https://soldierscharityshop.org)
- - date_published: 2024-10-21T15:49:18.503312+00:00
-
- ## Solidaires
- - [https://solidaires.org](https://solidaires.org)
- - date_published: 2024-07-08T10:48:40.376294+00:00
-
- ## Solidaires Informatique – Ne restez pas isolé, syndiquez-vous !
- - [https://solidairesinformatique.org](https://solidairesinformatique.org)
- - date_published: 2024-07-08T10:48:42.714591+00:00
-
- ## Advancing Social Justice In Europe and Worldwide - solidar.org
- - [https://www.solidar.org](https://www.solidar.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Startseite :: Netzwerk Solidarische Landwirtschaft e.V.
- - [https://www.solidarische-landwirtschaft.org](https://www.solidarische-landwirtschaft.org)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Solidarité & Progrès
- - [http://www.solidariteetprogres.org](http://www.solidariteetprogres.org)
- - date_published: 2024-07-13T17:58:02+00:00
 

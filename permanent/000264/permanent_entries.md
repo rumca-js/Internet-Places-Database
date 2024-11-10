@@ -1,3 +1,103 @@
+ ## Home - Digital Accessibility
+ - [https://accessibility.rutgers.edu](https://accessibility.rutgers.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.camden.rutgers.edu](https://admissions.camden.rutgers.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## EAS Service Catalog | Enterprise Application Services
+ - [https://admissionservices.rutgers.edu](https://admissionservices.rutgers.edu)
+ - date_published: 2015-11-13T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.newark.rutgers.edu](https://admissions.newark.rutgers.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.newbrunswick.rutgers.edu](https://admissions.newbrunswick.rutgers.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://admissions.rutgers.edu](https://admissions.rutgers.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Academic Foundations Center
+ - [https://afc.newark.rutgers.edu](https://afc.newark.rutgers.edu)
+ - date_published: 2024-07-14T23:43:58.710058+00:00
+
+ ## Alumni Community | Rutgers University Foundation
+ - [https://alumni.rutgers.edu](https://alumni.rutgers.edu)
+ - date_published: 2024-05-07T20:08:53.518412+00:00
+
+ ## Alumni and Community Engagement at Rutgers SEBS and NJAES
+ - [https://alumni.sebs.rutgers.edu](https://alumni.sebs.rutgers.edu)
+ - date_published: 2024-07-01T18:44:04.023196+00:00
+
+ ## DIMACS
+ - [http://archive.dimacs.rutgers.edu](http://archive.dimacs.rutgers.edu)
+ - date_published: 2018-08-15T12:49:43+00:00
+
+ ## General - Ask a Librarian
+ - [https://askalibrarian.rutgers.edu](https://askalibrarian.rutgers.edu)
+ - date_published: 2024-01-22T00:00:00+00:00
+
+ ## Assets
+ - [https://assets.rutgers.edu](https://assets.rutgers.edu)
+ - date_published: 2024-03-05T15:53:01+00:00
+
+ ## myRutgers Portal
+ - [https://beta-my.rutgers.edu](https://beta-my.rutgers.edu)
+ - date_published: 2024-06-05T13:14:02+00:00
+
+ ## Welcome
+ - [https://biology.rutgers.edu](https://biology.rutgers.edu)
+ - date_published: 2024-07-01T18:42:24+00:00
+
+ ## Transition From Blackboard | Rutgers myTech@Newark
+ - [https://blackboard.rutgers.edu](https://blackboard.rutgers.edu)
+ - date_published: 2024-07-14T23:45:02.104206+00:00
+
+ ## Edward J. Bloustein School of Planning and Public Policy
+ - [https://bloustein.rutgers.edu](https://bloustein.rutgers.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Coastal Climate Risk and Resilience
+ - [https://c2r2.rutgers.edu](https://c2r2.rutgers.edu)
+ - date_published: 2024-07-01T18:43:31.870220+00:00
+
+ ## Homepage | Rutgers University-Camden
+ - [https://camden.rutgers.edu](https://camden.rutgers.edu)
+ - date_published: 2024-05-07T20:08:50.571553+00:00
+
+ ## Home - Canvas
+ - [https://canvas.rutgers.edu](https://canvas.rutgers.edu)
+ - date_published: 2024-05-12T04:30:28.758626+00:00
+
+ ## Career Center - Career Center
+ - [https://careercenter.camden.rutgers.edu](https://careercenter.camden.rutgers.edu)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Career Resources and Exploration | Rutgers University - Newark
+ - [https://careers.newark.rutgers.edu](https://careers.newark.rutgers.edu)
+ - date_published: 2024-07-01T18:31:59.694279+00:00
+
+ ## Career Exploration and Success | Career Exploration and Success
+ - [https://careers.rutgers.edu](https://careers.rutgers.edu)
+ - date_published: 2024-05-07T20:08:45.746636+00:00
+
+ ## CAS - Central Authentication Service NetID Login
+ - [https://cas.rutgers.edu](https://cas.rutgers.edu)
+ - date_published: 2024-07-01T18:42:14.643316+00:00
+
+ ## Center for American Women and Politics
+ - [https://cawp.rutgers.edu](https://cawp.rutgers.edu)
+ - date_published: 2024-08-08T18:37:14+00:00
+
+ ## Welcome to Cell Biology and Neuroscience (CBN)
+ - [https://cbn.rutgers.edu](https://cbn.rutgers.edu)
+ - date_published: 2024-07-01T18:42:26+00:00
+
  ## Career Center - Career Center
  - [https://cc.camden.rutgers.edu](https://cc.camden.rutgers.edu)
  - date_published: 2024-05-07T20:08:55.786824+00:00
@@ -3907,104 +4007,4 @@
  ## Beyond IT | Division of Information Technology
  - [https://it.stonybrook.edu](https://it.stonybrook.edu)
  - date_published: 2024-04-29T04:27:23.123828+00:00
-
- ## lcpc2020.cs.stonybrook.edu
- - [https://lcpc2020.cs.stonybrook.edu](https://lcpc2020.cs.stonybrook.edu)
- - date_published: 2024-05-07T21:17:03.219784+00:00
-
- ## Stony Brook University Libraries
- - [https://library.stonybrook.edu](https://library.stonybrook.edu)
- - date_published: 2024-09-15T15:12:33.203418+00:00
-
- ## Stony Brook University Magazine - Spring 2024 - SBU Magazine
- - [https://magazine.stonybrook.edu](https://magazine.stonybrook.edu)
- - date_published: 2024-09-15T15:12:37.072476+00:00
-
- ## Login - Stony Brook University
- - [https://mycourses.stonybrook.edu](https://mycourses.stonybrook.edu)
- - date_published: 2024-09-15T15:12:28.612928+00:00
-
- ## Home - SBU News Home
- - [https://news.stonybrook.edu](https://news.stonybrook.edu)
- - date_published: 2018-03-30T20:15:25+00:00
-
- ## Resources | Office of the Vice President for Research
- - [https://research.stonybrook.edu](https://research.stonybrook.edu)
- - date_published: 2024-09-15T15:12:04.629818+00:00
-
- ## SCGP – Simons Center for Geometry and Physics
- - [http://scgp.stonybrook.edu](http://scgp.stonybrook.edu)
- - date_published: 2024-06-30T08:24:58.486633+00:00
-
- ## Stony Brook University
- - [https://stonybrook.edu](https://stonybrook.edu)
- - date_published: 2024-06-14T23:31:13.879086+00:00
-
- ## Untitled
- - [http://www3.cs.stonybrook.edu](http://www3.cs.stonybrook.edu)
- - date_published: 2022-05-24T22:11:37+00:00
-
- ## HOME | Department of Computer Science
- - [http://www.cs.stonybrook.edu](http://www.cs.stonybrook.edu)
- - date_published: 2024-06-23T20:38:28.319548+00:00
-
- ## The School of Marine and Atmospheric Sciences | School of Marine and Atmospheric Sciences
- - [https://www.somas.stonybrook.edu](https://www.somas.stonybrook.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Eastern Long Island Hospital | Eastern Long Island Hospital
- - [https://elih.stonybrookmedicine.edu](https://elih.stonybrookmedicine.edu)
- - date_published: 2024-09-11T19:27:28+00:00
-
- ## Homepage | Stony Brook Southampton Hospital
- - [https://southampton.stonybrookmedicine.edu](https://southampton.stonybrookmedicine.edu)
- - date_published: 2024-09-15T15:12:19.886321+00:00
-
- ## Stony Brook Medicine | Stony Brook Medicine
- - [https://stonybrookmedicine.edu](https://stonybrookmedicine.edu)
- - date_published: 2024-09-15T11:15:35+00:00
-
- ## MAST Home
- - [http://archive.stsci.edu](http://archive.stsci.edu)
- - date_published: 2024-09-07T23:15:08.055800+00:00
-
- ## DrizzlePac
- - [http://drizzlepac.stsci.edu](http://drizzlepac.stsci.edu)
- - date_published: 2024-07-04T18:28:08.732465+00:00
-
- ## ETC
- - [http://etc.stsci.edu](http://etc.stsci.edu)
- - date_published: 2024-07-04T18:28:25.497253+00:00
-
- ## Welcome to the Hubble Legacy Archive
- - [https://hla.stsci.edu](https://hla.stsci.edu)
- - date_published: 2022-03-19T00:00:00+00:00
-
- ## HST Calibration Reference Data System (CRDS)
- - [https://hst-crds.stsci.edu](https://hst-crds.stsci.edu)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## HST User Documentation - HDox - HST User Documentation
- - [https://hst-docs.stsci.edu](https://hst-docs.stsci.edu)
- - date_published: 2024-07-04T18:28:02.761667+00:00
-
- ## STScI | Mikulski Archive for Space Telescopes (MAST) Portal
- - [https://mast.stsci.edu](https://mast.stsci.edu)
- - date_published: 2023-04-27T14:29:45+00:00
-
- ## Site Home - STScI Outerspace
- - [https://outerspace.stsci.edu](https://outerspace.stsci.edu)
- - date_published: 2024-08-11T15:11:00.913057+00:00
-
- ## Welcome to the Proposal/Person (ProPer) Application
- - [https://proper.stsci.edu](https://proper.stsci.edu)
- - date_published: 2024-07-04T18:28:27.260804+00:00
-
- ## Home
- - [https://stsci.edu](https://stsci.edu)
- - date_published: 2024-05-08T07:32:42.863208+00:00
-
- ## ULLYSES Project
- - [https://ullyses.stsci.edu](https://ullyses.stsci.edu)
- - date_published: 2023-03-20T22:24:53+00:00
 

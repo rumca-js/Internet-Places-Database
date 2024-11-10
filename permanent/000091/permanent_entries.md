@@ -1,3 +1,15 @@
+ ## Bowler Hat Fox, LLC
+ - [http://www.elisashoenberger.com](http://www.elisashoenberger.com)
+ - date_published: 2024-07-04T04:49:45.342538+00:00
+
+ ## Dr. Elisa Tersigni
+ - [https://elisatersigni.com](https://elisatersigni.com)
+ - date_published: 2024-06-29T10:13:50.427710+00:00
+
+ ## A cup of dev by Eli H. Schei
+ - [https://elischei.com](https://elischei.com)
+ - date_published: 2024-07-02T17:13:36.340131+00:00
+
  ## Eli Schiff
  - [http://www.elischiff.com](http://www.elischiff.com)
  - date_published: 2019-07-01T00:00:00+00:00
@@ -4029,16 +4041,4 @@
  ## Homepage
  - [http://www.endurancecorner.com](http://www.endurancecorner.com)
  - date_published: 2024-11-01T00:49:22.096766+00:00
-
- ## Welcome to Endurance Planet
- - [https://enduranceplanet.com](https://enduranceplanet.com)
- - date_published: 2024-11-01T00:45:25.242867+00:00
-
- ## Welcome to Endurance Promotions!
- - [https://endurancepromotions.com](https://endurancepromotions.com)
- - date_published: 2024-05-08T03:31:18.734629+00:00
-
- ## Endurescreens - Projection Dome Screens
- - [http://www.endurescreens.com](http://www.endurescreens.com)
- - date_published: 2024-07-08T15:23:26.309420+00:00
 

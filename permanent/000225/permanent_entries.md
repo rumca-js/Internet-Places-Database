@@ -1,3 +1,80 @@
+ ## Google Cloud Model Cards
+ - [https://modelcards.withgoogle.com](https://modelcards.withgoogle.com)
+ - date_published: 2024-05-13T18:26:36+00:00
+
+ ## Hello Morse - Experiments with Google
+ - [http://morse.withgoogle.com](http://morse.withgoogle.com)
+ - date_published: 2024-06-20T09:10:29.258922+00:00
+
+ ## Google News Initiative - Home
+ - [https://newsinitiative.withgoogle.com](https://newsinitiative.withgoogle.com)
+ - date_published: 2024-06-12T01:29:02.211184+00:00
+
+ ## NSynth Super
+ - [https://nsynthsuper.withgoogle.com](https://nsynthsuper.withgoogle.com)
+ - date_published: 2024-08-19T17:12:29.342318+00:00
+
+ ## People + AI Research
+ - [https://pair.withgoogle.com](https://pair.withgoogle.com)
+ - date_published: 2023-10-25T18:07:44.673354+00:00
+
+ ## Looking to expand your business with the help of Google Ads experts?
+ - [https://partnersdirectory.withgoogle.com](https://partnersdirectory.withgoogle.com)
+ - date_published: 2024-06-20T20:45:19.916595+00:00
+
+ ## Pattern Radio: Whale Songs
+ - [https://patternradio.withgoogle.com](https://patternradio.withgoogle.com)
+ - date_published: 2024-08-19T17:12:30.668185+00:00
+
+ ## Take Jigsaw's Phishing Quiz
+ - [https://phishingquiz.withgoogle.com](https://phishingquiz.withgoogle.com)
+ - date_published: 2023-08-24T13:10:58+00:00
+
+ ## Grow with Google - Szkolenia online do rozwoju firmy i kariery- Grow with Google
+ - [https://pourlespros.withgoogle.com](https://pourlespros.withgoogle.com)
+ - date_published: 2024-06-20T09:30:00.171613+00:00
+
+ ## Project Shield
+ - [https://projectshield.withgoogle.com](https://projectshield.withgoogle.com)
+ - date_published: 2024-08-14T21:58:32+00:00
+
+ ## Quick, Draw!
+ - [https://quickdraw.withgoogle.com](https://quickdraw.withgoogle.com)
+ - date_published: 2024-05-11T09:54:43.659797+00:00
+
+ ## Google re:Work
+ - [https://rework.withgoogle.com](https://rework.withgoogle.com)
+ - date_published: 2024-06-21T09:19:07.983363+00:00
+
+ ## Google for Education - Materiały dla nauczycieli i uczniów dostępne online
+ - [https://sciencejournal.withgoogle.com](https://sciencejournal.withgoogle.com)
+ - date_published: 2024-05-04T09:41:02.351957+00:00
+
+ ## Site Kit by Google
+ - [https://sitekit.withgoogle.com](https://sitekit.withgoogle.com)
+ - date_published: 2019-10-08T00:00:00+00:00
+
+ ## Google for Small Business - Resources to get your small business online
+ - [https://smallbusiness.withgoogle.com](https://smallbusiness.withgoogle.com)
+ - date_published: 2024-09-16T17:57:12.250110+00:00
+
+ ## Home | Google Summer of Code
+ - [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com)
+ - date_published: 2023-10-25T18:07:48.328715+00:00
+
+ ## Project Sunroof
+ - [https://sunroof.withgoogle.com](https://sunroof.withgoogle.com)
+ - date_published: 2023-10-25T18:07:51.710648+00:00
+
+ ## Google Teachable Machine
+ - [https://teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
+ - date_published: 2024-01-07T03:20:02+00:00
+ - tags: ['machine learning']
+
+ ## Tech Day at Google
+ - [https://techday.withgoogle.com](https://techday.withgoogle.com)
+ - date_published: 2024-04-27T08:04:12.783223+00:00
+
  ## TextFX
  - [https://textfx.withgoogle.com](https://textfx.withgoogle.com)
  - date_published: 2023-10-25T18:07:53.024899+00:00
@@ -3956,80 +4033,4 @@ Company :: Home
  ## Private Site
  - [http://allthingsct.wordpress.com](http://allthingsct.wordpress.com)
  - date_published: 2024-06-27T08:32:27.836190+00:00
-
- ## All Things Shining
- - [http://allthingsshiningbook.wordpress.com](http://allthingsshiningbook.wordpress.com)
- - date_published: 2024-08-06T00:00:00+00:00
-
- ## Ally Writes Things
- - [https://allywritesthingsblog.wordpress.com](https://allywritesthingsblog.wordpress.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Poor Richard's Almanack 2.0
- - [http://almanac2010.wordpress.com](http://almanac2010.wordpress.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## doop HQ
- - [http://almostinfamous.wordpress.com](http://almostinfamous.wordpress.com)
- - date_published: 2024-10-29T19:16:35.563030+00:00
-
- ## Almost Originality
- - [https://almostoriginality.wordpress.com](https://almostoriginality.wordpress.com)
- - date_published: 2024-05-07T15:58:27.279135+00:00
-
- ## Almost Sure
- - [https://almostsure.wordpress.com](https://almostsure.wordpress.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## alone ... with cats
- - [http://alonewithcats.wordpress.com](http://alonewithcats.wordpress.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Al ritmo político
- - [http://alritmopolitico.wordpress.com](http://alritmopolitico.wordpress.com)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## alterlistings
- - [https://alterlistings.wordpress.com](https://alterlistings.wordpress.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Alternativeaction Blog
- - [https://alternativeaction.wordpress.com](https://alternativeaction.wordpress.com)
- - date_published: 2024-10-21T15:09:38.181604+00:00
-
- ## Alternatives
- - [https://alternativenatives.wordpress.com](https://alternativenatives.wordpress.com)
- - date_published: 2024-08-11T03:23:07.029817+00:00
-
- ## alwayslearningweb
- - [https://alwayslearningweb.wordpress.com](https://alwayslearningweb.wordpress.com)
- - date_published: 2024-05-07T15:27:57.868701+00:00
-
- ## Tobias S. Buckell
- - [https://alwaysplural.wordpress.com](https://alwaysplural.wordpress.com)
- - date_published: 2024-07-04T15:05:44+00:00
-
- ## Alyssa Hillary
- - [http://alyssahillary.wordpress.com](http://alyssahillary.wordpress.com)
- - date_published: 2024-09-03T23:02:31.184857+00:00
-
- ## Alyssa Paula
- - [https://alyssapaula.wordpress.com](https://alyssapaula.wordpress.com)
- - date_published: 2024-05-12T05:31:29.122678+00:00
-
- ## Site Title
- - [http://alzaeemazcb.wordpress.com](http://alzaeemazcb.wordpress.com)
- - date_published: 2024-06-30T05:55:23.163352+00:00
-
- ## ALZWA BLOG
- - [https://alzwa.wordpress.com](https://alzwa.wordpress.com)
- - date_published: 2024-08-17T10:24:10+00:00
-
- ## Dr. Amanda K. Allen
- - [https://amandakallen.wordpress.com](https://amandakallen.wordpress.com)
- - date_published: 2024-07-04T13:15:10.668610+00:00
-
- ## Amanda McCarter's Blog
- - [http://amandamccarter.wordpress.com](http://amandamccarter.wordpress.com)
- - date_published: 2024-07-04T00:00:00+00:00
 

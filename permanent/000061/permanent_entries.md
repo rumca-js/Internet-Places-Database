@@ -1,3 +1,7 @@
+ ## I Dreamed I Saw Grace P. Last Night
+ - [http://neverdied.blogspot.com](http://neverdied.blogspot.com)
+ - date_published: 2024-06-05T12:56:06+00:00
+
  ## The Neverness Hobby Chronicle
  - [http://nevernesshobby.blogspot.com](http://nevernesshobby.blogspot.com)
  - date_published: 2024-06-17T00:00:00+00:00
@@ -4010,8 +4014,4 @@
  ## On Clouds, Poems, Python and more...
  - [http://pycloud.blogspot.com](http://pycloud.blogspot.com)
  - date_published: 2024-02-20T18:20:53+00:00
-
- ## The PyCon US Blog
- - [https://pycon.blogspot.com](https://pycon.blogspot.com)
- - date_published: 2024-05-06T23:45:56.764189+00:00
 

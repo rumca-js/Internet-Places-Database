@@ -1,3 +1,91 @@
+ ## Förderverein "Anhaltische Gemäldegalerie und Georgengarten" Dessau e.V.
+ - [http://www.georgium.de](http://www.georgium.de)
+ - date_published: 2024-07-13T16:18:20.289507+00:00
+
+ ## Description - GeoSetter
+ - [http://www.geosetter.de](http://www.geosetter.de)
+ - date_published: 2022-11-28T00:00:00+00:00
+
+ ## GEO Television
+ - [https://www.geo-television.de](https://www.geo-television.de)
+ - date_published: 2024-10-14T21:46:06.890422+00:00
+
+ ## Gerade Jetzt. Für Alle.
+ - [https://gerade-jetzt-fuer-alle.de](https://gerade-jetzt-fuer-alle.de)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Geraspora*
+ - [https://geraspora.de](https://geraspora.de)
+ - date_published: 2024-07-17T07:23:22.459978+00:00
+
+ ## Geraspora*
+ - [https://pod.geraspora.de](https://pod.geraspora.de)
+ - date_published: 2024-05-13T03:11:54.364148+00:00
+
+ ## Gerd Kluge
+ - [https://www.gerd-kluge.de](https://www.gerd-kluge.de)
+ - date_published: 2024-07-10T05:34:55.031353+00:00
+
+ ## Gerhard Seyfried
+ - [http://gerhardseyfried.de](http://gerhardseyfried.de)
+ - date_published: 2024-07-02T06:05:30.339188+00:00
+
+ ## German Amiga Community :: Index
+ - [https://german-amiga-community.de](https://german-amiga-community.de)
+ - date_published: 2024-01-09T02:56:14.964245+00:00
+
+ ## Home | German Films
+ - [https://watch.german-films.de](https://watch.german-films.de)
+ - date_published: 2024-09-16T08:04:37.417817+00:00
+
+ ## GRG | German Remix Group | Creators of the retro remix tribute albums...
+ - [https://germanremixgroup.de](https://germanremixgroup.de)
+ - date_published: 2024-05-07T19:09:37.069675+00:00
+
+ ## GermanTechJobs
+ - [https://germantechjobs.de](https://germantechjobs.de)
+ - date_published: 2024-06-19T15:34:32+00:00
+
+ ## German U15 e.V.
+ - [https://german-u15.de](https://german-u15.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## German Water Partnership
+ - [https://germanwaterpartnership.de](https://germanwaterpartnership.de)
+ - date_published: 2024-09-28T23:25:50.663581+00:00
+
+ ## Dr. Gernot Starke
+ - [https://gernotstarke.de](https://gernotstarke.de)
+ - date_published: 2024-06-15T16:42:36.569341+00:00
+
+ ## Gesetze im Internet
+ - [https://www.gesetze-im-internet.de](https://www.gesetze-im-internet.de)
+ - date_published: 2024-06-25T11:08:27+00:00
+
+ ## Keine Gesichtserkennung zur Massenüberwachung
+ - [https://gesichtserkennung-stoppen.de](https://gesichtserkennung-stoppen.de)
+ - date_published: 2024-03-12T12:31:57+00:00
+
+ ## Gesichtsform bestimmen mit KI
+ - [https://www.gesichtsform-bestimmen.de](https://www.gesichtsform-bestimmen.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Gesicht Zeigen! | Für ein weltoffenes Deutschland
+ - [https://www.gesichtzeigen.de](https://www.gesichtzeigen.de)
+ - date_published: 2024-09-12T16:11:35.471803+00:00
+
+ ## Gesine Todt | Design und Schriftgestaltung
+ - [http://www.gesine-todt.de](http://www.gesine-todt.de)
+ - date_published: 2022-10-31T18:01:29+00:00
+
+ ## Ausbildung & Studium | Stadt Mannheim | Startseite
+ - [https://gestaltemannheim.de](https://gestaltemannheim.de)
+ - date_published: 2024-07-17T06:08:19.600865+00:00
+
+ ## Startseite
+ - [https://gesundheit-ernaehrung-fitness.de](https://gesundheit-ernaehrung-fitness.de)
+ - date_published: 2019-12-02T15:33:19+00:00
+
  ## gesund leben - Die Messe für Gesundheit, Ernährung & Fitness
  - [https://gesundleben-messe.de](https://gesundleben-messe.de)
  - date_published: 2024-02-27T00:00:00+00:00
@@ -3923,92 +4011,4 @@
  ## Mailinglisten - JPBerlin - Politischer Provider
  - [https://listi.jpberlin.de](https://listi.jpberlin.de)
  - date_published: 2021-01-07T15:23:12+00:00
-
- ## JPlace
- - [https://jplace.de](https://jplace.de)
- - date_published: 2022-08-28T15:23:09+00:00
-
- ## INDIVIDUAL COMPUTERS [jens schoenfeld] GmbH (forwarder)
- - [http://www.jschoenfeld.de](http://www.jschoenfeld.de)
- - date_published: 2014-08-20T14:52:41+00:00
-
- ## Jan-Thorben Brinkmann - adesso SE | LinkedIn
- - [https://jtbrinkmann.de](https://jtbrinkmann.de)
- - date_published: 2024-10-30T10:50:26.999675+00:00
-
- ## JTL-Connect 2024
- - [https://jtl-connect.de](https://jtl-connect.de)
- - date_published: 2024-10-22T20:06:36.644814+00:00
-
- ## Anmeldung
- - [https://crm.jtl-software.de](https://crm.jtl-software.de)
- - date_published: 2024-08-09T04:25:55.574396+00:00
-
- ## Supportforum für JTL-Wawi, JTL-Shop, JTL-POS, JTL-WMS, JTL-eazyAuction und JTL-Connectoren von JTL-Software
- - [https://forum.jtl-software.de](https://forum.jtl-software.de)
- - date_published: 2024-08-09T04:25:38+00:00
-
- ## Kundencenter JTL-Software-GmbH
- - [https://kundencenter.jtl-software.de](https://kundencenter.jtl-software.de)
- - date_published: 2024-08-09T04:25:57.681408+00:00
-
- ## Startseite
- - [https://www.jtl-software.de](https://www.jtl-software.de)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Startseite
- - [https://jtl-url.de](https://jtl-url.de)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Java User Group Darmstadt Community der Java Anwender in und um Darmstadt
- - [https://www.jug-da.de](https://www.jug-da.de)
- - date_published: 2024-06-19T22:22:20+00:00
-
- ## Startseite
- - [https://www.jugendbruecke.de](https://www.jugendbruecke.de)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Jugendfolkorchester
- - [https://www.jugendfolkorchester.de](https://www.jugendfolkorchester.de)
- - date_published: 2024-08-08T03:45:11.193689+00:00
-
- ## Home - Stiftung Jugend forscht e. V.
- - [https://www.jugend-forscht.de](https://www.jugend-forscht.de)
- - date_published: 2024-07-24T07:54:49.439986+00:00
-
- ## Organisation Youth for Human Rights: Video über die Geschichte der Menschenrechte, Informationen, Neuigkeiten, Informationsmappe und Hefte
- - [http://www.jugend-fuer-menschenrechte.de](http://www.jugend-fuer-menschenrechte.de)
- - date_published: 2024-08-30T00:31:12+00:00
-
- ## Jugend hackt – Mit Code die Welt verbessern
- - [http://jugendhackt.de](http://jugendhackt.de)
- - date_published: 2019-07-11T14:26:10+00:00
-
- ## Startseite
- - [https://blog.jugendherberge.de](https://blog.jugendherberge.de)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Jugendherbergen in Deutschland entdecken
- - [https://www.jugendherberge.de](https://www.jugendherberge.de)
- - date_published: 2024-06-21T11:43:10.157092+00:00
-
- ## Jugendpresse Deutschland e.V. - Jugendpresse Deutschland e.V.
- - [https://jugendpresse.de](https://jugendpresse.de)
- - date_published: 2024-09-12T16:03:26.932649+00:00
-
- ## Landesstelle Jugendschutz Niedersachsen | Die LJS arbeitet zu aktuellen Themen des Kinder- und Jugendschutzes
- - [https://www.jugendschutz-niedersachsen.de](https://www.jugendschutz-niedersachsen.de)
- - date_published: 2024-07-02T23:20:45.631096+00:00
-
- ## Home - JusProg Jugendschutzprogramm
- - [https://jugendschutzprogramm.de](https://jugendschutzprogramm.de)
- - date_published: 2024-05-13T03:45:22.293720+00:00
-
- ## Jugend und Bildung -  Startseite
- - [https://jugend-und-bildung.de](https://jugend-und-bildung.de)
- - date_published: 2024-06-17T15:41:25.341844+00:00
-
- ## Herzlich Willkommen bei Jugendwohnen im Kiez - Jugendwohnen im Kiez Jugendwohnen im Kiez
- - [http://www.jugendwohnen-berlin.de](http://www.jugendwohnen-berlin.de)
- - date_published: 2024-06-29T14:09:29.854563+00:00
 

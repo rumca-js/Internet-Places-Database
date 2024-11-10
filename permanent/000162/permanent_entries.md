@@ -1,3 +1,51 @@
+ ## Home Page - Palestine Chronicle Italia
+ - [https://palestinechronicleitalia.com](https://palestinechronicleitalia.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## The Home Of All Ethnically Cleansed Palestinians. Palestine Picture before and after Nakba, Palestine Maps, Zionist FAQ, Zionist Quotes, and Nakba Oral History
+ - [https://www.palestineremembered.com](https://www.palestineremembered.com)
+ - date_published: 2024-09-16T18:58:07.475175+00:00
+
+ ## Palestinian Youth Movement
+ - [https://palestinianyouthmovement.com](https://palestinianyouthmovement.com)
+ - date_published: 2024-05-08T12:01:05.819379+00:00
+
+ ## Morelia Gourmet Paletas | The Best Ice Cream Experience
+ - [https://www.paletasmorelia.com](https://www.paletasmorelia.com)
+ - date_published: 2019-09-08T04:14:31+00:00
+
+ ## Palettab, For Chrome
+ - [https://palettab.com](https://palettab.com)
+ - date_published: 2024-05-06T13:56:36.025039+00:00
+
+ ## PaletteBrain - ChatGPT for Mac
+ - [https://palettebrain.com](https://palettebrain.com)
+ - date_published: 2024-06-19T20:09:24.813962+00:00
+
+ ## Palette Dome Cuisine | Personal Chef & Boutique Catering
+ - [https://palettedome.com](https://palettedome.com)
+ - date_published: 2015-06-02T11:50:39+00:00
+
+ ## Create Natural Palettes from Images
+ - [https://palettegenerator.com](https://palettegenerator.com)
+ - date_published: 2024-06-23T17:53:40.665138+00:00
+
+ ## John Tejada
+ - [http://paletterecordings.com](http://paletterecordings.com)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Palettescan
+ - [https://palettescan.com](https://palettescan.com)
+ - date_published: 2024-06-04T04:11:42+00:00
+
+ ## Palettescan
+ - [https://testnet.palettescan.com](https://testnet.palettescan.com)
+ - date_published: 2023-06-05T05:04:35+00:00
+
+ ## Palette Tea House - San Francisco, CA
+ - [https://paletteteahouse.com](https://paletteteahouse.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
  ## Paletton - The Color Scheme Designer
  - [https://paletton.com](https://paletton.com)
  - date_published: 2023-03-06T11:32:20+00:00
@@ -3978,52 +4026,4 @@
  ## Pastel Defender Heliotrope
  - [http://www.pasteldefender.com](http://www.pasteldefender.com)
  - date_published: 2020-12-03T22:37:11+00:00
-
- ## pastelhell
- - [https://pastelhello.com](https://pastelhello.com)
- - date_published: 2024-05-27T05:05:54+00:00
-
- ## Attention Required! | Cloudflare
- - [https://pastemagazine.com](https://pastemagazine.com)
- - date_published: 2024-06-15T22:20:56.782433+00:00
-
- ## Past Horizons Archaeology Trowels and Tools
- - [http://www.pasthorizons.com](http://www.pasthorizons.com)
- - date_published: 2024-06-26T21:37:06.233445+00:00
-
- ## Pastmaps: Maps for Historical Research
- - [https://pastmaps.com](https://pastmaps.com)
- - date_published: 2024-10-28T07:12:53.328779+00:00
-
- ## Online Collections | Conway Public Library
- - [http://conway.pastperfectonline.com](http://conway.pastperfectonline.com)
- - date_published: 2024-07-12T23:08:37.681832+00:00
-
- ## Online Collections | Sandusky Library
- - [http://sandusky.pastperfectonline.com](http://sandusky.pastperfectonline.com)
- - date_published: 2024-06-24T10:52:44.851871+00:00
-
- ## PASTPRESENTFUTURE / The Future Starts Here
- - [http://www.pastpresentfuture.com](http://www.pastpresentfuture.com)
- - date_published: 2019-06-21T20:51:33+00:00
-
- ## Chef Caroline Schiff | Pastry Chef in New York, NY
- - [https://www.pastryschiff.com](https://www.pastryschiff.com)
- - date_published: 2024-06-19T08:14:44.082392+00:00
-
- ## The Past Speaks
- - [http://pastspeaks.com](http://pastspeaks.com)
- - date_published: 2024-10-31T07:59:53.492950+00:00
-
- ## Past The Wire | Horse Racing News
- - [https://pastthewire.com](https://pastthewire.com)
- - date_published: 2024-05-06T23:11:34.298220+00:00
-
- ## Mire et mires couleurs pour caméra de cinéma
- - [https://pat-acc.com](https://pat-acc.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## This is Bears Ears
- - [http://bearsears.patagonia.com](http://bearsears.patagonia.com)
- - date_published: 2024-06-23T06:24:02.884179+00:00
 

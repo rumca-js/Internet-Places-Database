@@ -1,3 +1,15 @@
+ ## Pikachizer
+ - [http://pikachize.eye-of-newt.com](http://pikachize.eye-of-newt.com)
+ - date_published: 2013-01-29T23:57:22+00:00
+
+ ## Eye of Newt Books
+ - [https://www.eyeofnewtpress.com](https://www.eyeofnewtpress.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Eye of Riyadh
+ - [http://m.eyeofriyadh.com](http://m.eyeofriyadh.com)
+ - date_published: 2024-09-25T00:00:00+00:00
+
  ## Eye of Riyadh
  - [https://www.eyeofriyadh.com](https://www.eyeofriyadh.com)
  - date_published: 2024-06-16T00:00:00+00:00
@@ -4011,16 +4023,4 @@ software - three powerful and versatile products from EZB Systems.
  ## Bernard's Watch Wiki
  - [https://bernardswatch.fandom.com](https://bernardswatch.fandom.com)
  - date_published: 2024-09-03T15:50:43+00:00
-
- ## Berserk Wiki
- - [https://berserk.fandom.com](https://berserk.fandom.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Besiege Wiki
- - [https://besiege.fandom.com](https://besiege.fandom.com)
- - date_published: 2024-06-16T23:03:34+00:00
-
- ## Best Friends Whenever Wiki
- - [https://bestfriendswhenever.fandom.com](https://bestfriendswhenever.fandom.com)
- - date_published: 2024-06-05T14:02:17.319140+00:00
 

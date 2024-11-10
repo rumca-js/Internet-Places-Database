@@ -1,3 +1,195 @@
+ ## Заклади вищої освіти | Реєстр суб'єктів освітньої діяльності
+ - [https://registry.edbo.gov.ua](https://registry.edbo.gov.ua)
+ - date_published: 2024-05-02T10:41:54.729551+00:00
+
+ ## #ВСТУП 2024 | електронний кабінет | конкурс
+ - [https://vstup.edbo.gov.ua](https://vstup.edbo.gov.ua)
+ - date_published: 2024-10-19T23:05:35.624131+00:00
+
+ ## Diia.Business Trade With Ukraine
+ - [https://imp.export.gov.ua](https://imp.export.gov.ua)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Комісія з регулювання азартних ігор та лотерей
+ - [https://www.gc.gov.ua](https://www.gc.gov.ua)
+ - date_published: 2024-10-13T08:29:41.162614+00:00
+
+ ## Головне управління розвідки МО України
+ - [https://gur.gov.ua](https://gur.gov.ua)
+ - date_published: 2024-07-01T10:30:08+00:00
+
+ ## Вища школа публічного управління -
+ - [https://hs.gov.ua](https://hs.gov.ua)
+ - date_published: 2024-10-19T23:08:07.081889+00:00
+
+ ## Інститут модернізації змісту освіти
+ - [https://imzo.gov.ua](https://imzo.gov.ua)
+ - date_published: 2024-06-17T17:09:58.981266+00:00
+
+ ## Електронна бібліотека
+ - [https://lib.imzo.gov.ua](https://lib.imzo.gov.ua)
+ - date_published: 2024-06-17T17:10:12.832413+00:00
+
+ ## Головна
+ - [https://www.inforesurs.gov.ua](https://www.inforesurs.gov.ua)
+ - date_published: 2024-10-19T23:05:34.550970+00:00
+
+ ## Інвестиції в Київ та Україну, інвестиційні проекти Києва, пропозиції для бізнесу від України та Києва
+ - [https://investinkyiv.gov.ua](https://investinkyiv.gov.ua)
+ - date_published: 2024-09-18T16:57:38.397233+00:00
+
+ ## European integration portal
+ - [https://eu-ua.kmu.gov.ua](https://eu-ua.kmu.gov.ua)
+ - date_published: 2024-06-17T17:08:28.846745+00:00
+
+ ## Електронні петиції до Кабінету Міністрів України
+ - [https://petition.kmu.gov.ua](https://petition.kmu.gov.ua)
+ - date_published: 2023-08-30T21:00:01+00:00
+
+ ## Кабінет Міністрів України - Головна
+ - [https://www.kmu.gov.ua](https://www.kmu.gov.ua)
+ - date_published: 2024-05-02T10:42:04.299791+00:00
+
+ ## Безоплатна правнича допомога
+ - [https://legalaid.gov.ua](https://legalaid.gov.ua)
+ - date_published: 2019-05-08T09:59:33+00:00
+
+ ## Платформа правових консультацій - WikiLegalAid
+ - [https://wiki.legalaid.gov.ua](https://wiki.legalaid.gov.ua)
+ - date_published: 2024-10-19T23:22:23.439324+00:00
+
+ ## Міністерство економіки України
+ - [https://me.gov.ua](https://me.gov.ua)
+ - date_published: 2024-10-19T23:13:36.376703+00:00
+
+ ## Ukraine Facility Plan
+ - [https://www.ukrainefacility.me.gov.ua](https://www.ukrainefacility.me.gov.ua)
+ - date_published: 2024-10-19T23:13:38.350408+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://czechia.mfa.gov.ua](https://czechia.mfa.gov.ua)
+ - date_published: 2024-07-17T08:37:26.215317+00:00
+
+ ## Україна – НАТО - Головна
+ - [http://ukraine-nato.mfa.gov.ua](http://ukraine-nato.mfa.gov.ua)
+ - date_published: 2024-09-19T19:47:56.600165+00:00
+
+ ## Десантно-штурмові війська – Десантно-штурмові війська Збройних Сил України
+ - [https://dshv.mil.gov.ua](https://dshv.mil.gov.ua)
+ - date_published: 2024-09-19T19:47:51.719390+00:00
+
+ ## Міністерство
+ - [https://mil.gov.ua](https://mil.gov.ua)
+ - date_published: 2024-06-15T21:19:10.140758+00:00
+
+ ## СИЛИ СПЕЦІАЛЬНИХ ОПЕРАЦІЙ ЗС УКРАЇНИ
+ - [http://sof.mil.gov.ua](http://sof.mil.gov.ua)
+ - date_published: 2024-09-19T19:43:00+00:00
+
+ ## Сили територіальної оборони ЗСУ: офіційна сторінка СТрО Збройних Сил України, тероборона ЗСУ України
+ - [https://tro.mil.gov.ua](https://tro.mil.gov.ua)
+ - date_published: 2022-11-17T11:30:09+00:00
+
+ ## Головна сторінка - Турбота про військовослужбовця - ваш військовий асистент
+ - [https://turbota.mil.gov.ua](https://turbota.mil.gov.ua)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Національний проєкт з медіаграмотності Міністерства культури та інформаційної політики
+ - [https://filter.mkip.gov.ua](https://filter.mkip.gov.ua)
+ - date_published: 2024-07-15T02:17:03+00:00
+
+ ## Армія+
+ - [https://aplus.mod.gov.ua](https://aplus.mod.gov.ua)
+ - date_published: 2024-09-19T11:36:39+00:00
+
+ ## Signin
+ - [https://mod.gov.ua](https://mod.gov.ua)
+ - date_published: 2024-09-19T19:46:30.235546+00:00
+
+ ## Реєстрація в чергу
+ - [https://q.mod.gov.ua](https://q.mod.gov.ua)
+ - date_published: 2024-07-25T07:58:32+00:00
+
+ ## Резерв+ (кабінет призовника, військовозобов'язаного та резервіста)
+ - [https://reserveplus.mod.gov.ua](https://reserveplus.mod.gov.ua)
+ - date_published: 2024-08-23T09:10:28+00:00
+
+ ## Міністерство освіти і науки України - Головна
+ - [https://mon.gov.ua](https://mon.gov.ua)
+ - date_published: 2024-05-02T10:42:27.016861+00:00
+
+ ## | Головна
+ - [https://numo.mon.gov.ua](https://numo.mon.gov.ua)
+ - date_published: 2024-06-17T17:10:04.156572+00:00
+
+ ## Cierpliwości...
+ - [https://moz.gov.ua](https://moz.gov.ua)
+ - date_published: 2024-06-17T17:13:11.775016+00:00
+
+ ## МВС України
+ - [https://mvs.gov.ua](https://mvs.gov.ua)
+ - date_published: 2024-10-19T23:00:08.476319+00:00
+
+ ## Національне агентство України з питань державної служби - Головна
+ - [https://nads.gov.ua](https://nads.gov.ua)
+ - date_published: 2024-06-17T17:08:05.246896+00:00
+
+ ## Публічний портал Національне агентство України з питань державної служби
+ - [https://public.nads.gov.ua](https://public.nads.gov.ua)
+ - date_published: 2024-10-19T23:08:00.014129+00:00
+
+ ## НАЗК | Національне агентство з питань запобігання корупції
+ - [http://nazk.gov.ua](http://nazk.gov.ua)
+ - date_published: 2024-09-19T19:47:31.623032+00:00
+
+ ## ПУНКТ НЕЗЛАМНОСТІ
+ - [https://nezlamnist.gov.ua](https://nezlamnist.gov.ua)
+ - date_published: 2023-09-02T11:36:28+00:00
+
+ ## Ставай частиною команди Нацгвардії
+ - [https://join.ngu.gov.ua](https://join.ngu.gov.ua)
+ - date_published: 2024-10-19T23:37:46.856048+00:00
+
+ ## Уповноважений Верховної Ради України з прав людини - Головна
+ - [http://www.ombudsman.gov.ua](http://www.ombudsman.gov.ua)
+ - date_published: 2024-06-17T17:10:34.149085+00:00
+
+ ## Електронні петиції — Офіційне інтернет-представництво Президента України
+ - [https://petition.president.gov.ua](https://petition.president.gov.ua)
+ - date_published: 2024-05-02T10:42:34.003714+00:00
+
+ ## Офіційне інтернет-представництво Президента України
+ - [https://president.gov.ua](https://president.gov.ua)
+ - date_published: 2024-06-17T17:10:51.754134+00:00
+
+ ## ПРОСТІР - Національна платіжна система України
+ - [http://prostir.gov.ua](http://prostir.gov.ua)
+ - date_published: 2024-09-25T16:17:17.372230+00:00
+
+ ## Open Public Finance
+ - [https://www.publicfinance.gov.ua](https://www.publicfinance.gov.ua)
+ - date_published: 2024-10-19T23:11:37.121943+00:00
+
+ ## Пульс - фідбек від бізнесу
+ - [https://pulse.gov.ua](https://pulse.gov.ua)
+ - date_published: 2024-10-19T23:19:51.955655+00:00
+
+ ## Головна | Фотобанк
+ - [https://fotobank.rada.gov.ua](https://fotobank.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:00.969315+00:00
+
+ ## Glory to Ukraine - charitable foundation
+ - [https://glory2ukraine.rada.gov.ua](https://glory2ukraine.rada.gov.ua)
+ - date_published: 2024-03-13T15:01:21+00:00
+
+ ## Електронний кабінет громадянина
+ - [http://itd.rada.gov.ua](http://itd.rada.gov.ua)
+ - date_published: 2024-06-17T17:11:03.383101+00:00
+
+ ## Бібліотечні ресурси
+ - [http://lib.rada.gov.ua](http://lib.rada.gov.ua)
+ - date_published: 2024-06-17T17:10:50.290112+00:00
+
  ## Освітній центр
  - [https://osvita.rada.gov.ua](https://osvita.rada.gov.ua)
  - date_published: 2024-06-17T17:11:02.169185+00:00
@@ -3817,198 +4009,4 @@
  ## TERMINALFOUR
  - [https://t4-cms.imperial.ac.uk](https://t4-cms.imperial.ac.uk)
  - date_published: 2024-05-02T10:55:00.203271+00:00
-
- ## Imperial College London
- - [http://www3.imperial.ac.uk](http://www3.imperial.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Imperial College London
- - [https://wwwf.imperial.ac.uk](https://wwwf.imperial.ac.uk)
- - date_published: 2024-05-02T10:54:54.525764+00:00
-
- ## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
- - [https://intarch.ac.uk](https://intarch.ac.uk)
- - date_published: 2023-10-25T22:48:44.581467+00:00
- - tags: ['archaeology']
-
- ## Jisc
- - [http://www.intute.ac.uk](http://www.intute.ac.uk)
- - date_published: 2024-06-28T21:09:17.506258+00:00
-
- ## Welcome to Digital Education Resource Archive (DERA) - Digital Education Resource Archive (DERA)
- - [https://dera.ioe.ac.uk](https://dera.ioe.ac.uk)
- - date_published: 2024-05-07T10:13:20.710879+00:00
-
- ## Log in | Jisc Online Surveys
- - [https://app.onlinesurveys.jisc.ac.uk](https://app.onlinesurveys.jisc.ac.uk)
- - date_published: 2024-10-20T05:07:02.974993+00:00
-
- ## Home - Archives Hub
- - [https://archiveshub.jisc.ac.uk](https://archiveshub.jisc.ac.uk)
- - date_published: 2024-10-20T05:28:10.276486+00:00
-
- ## Homepage | Jisc community
- - [https://community.jisc.ac.uk](https://community.jisc.ac.uk)
- - date_published: 2024-07-10T10:11:15.286447+00:00
-
- ## Jisc
- - [https://jisc.ac.uk](https://jisc.ac.uk)
- - date_published: 2024-07-08T16:36:43.292971+00:00
-
- ## Licence subscriptions manager
- - [https://subscriptionsmanager.jisc.ac.uk](https://subscriptionsmanager.jisc.ac.uk)
- - date_published: 2024-08-18T13:08:03.181149+00:00
-
- ## JISCMail
- - [https://www.jiscmail.ac.uk](https://www.jiscmail.ac.uk)
- - date_published: 2024-07-09T10:35:35.816952+00:00
-
- ## career-advice.jobs.ac.uk
- - [https://career-advice.jobs.ac.uk](https://career-advice.jobs.ac.uk)
- - date_published: 2024-10-18T19:11:53.462427+00:00
-
- ## Jobs | Job Search | Job Vacancies on jobs.ac.uk
- - [https://www.jobs.ac.uk](https://www.jobs.ac.uk)
- - date_published: 2024-06-17T10:59:00.008621+00:00
-
- ## JournalTOCs
- - [https://www.journaltocs.ac.uk](https://www.journaltocs.ac.uk)
- - date_published: 2024-08-18T14:43:37.042837+00:00
-
- ## King's Blogs – Blogs at King's College London
- - [http://blogs.kcl.ac.uk](http://blogs.kcl.ac.uk)
- - date_published: 2024-06-17T11:03:46.189087+00:00
-
- ## Centre for the Study of Governance & Society
- - [https://csgs.kcl.ac.uk](https://csgs.kcl.ac.uk)
- - date_published: 2017-11-21T18:03:17+00:00
-
- ## Error
- - [https://insaph.kcl.ac.uk](https://insaph.kcl.ac.uk)
- - date_published: 2024-06-24T10:09:01.070419+00:00
-
- ## Intranet Home
- - [https://internal.kcl.ac.uk](https://internal.kcl.ac.uk)
- - date_published: 2024-05-02T10:55:19.445036+00:00
-
- ## King's College London
- - [https://kcl.ac.uk](https://kcl.ac.uk)
- - date_published: 2024-05-02T10:55:13.171423+00:00
-
- ## Password resets and management | King’s IT | King’s College London
- - [http://kclpword.kcl.ac.uk](http://kclpword.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:07.276447+00:00
-
- ## Sign in to your account
- - [https://keats.kcl.ac.uk](https://keats.kcl.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## King's College London
- - [https://myselection.kcl.ac.uk](https://myselection.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:29.214603+00:00
-
- ## Faculty of Natural, Mathematical & Engineering Sciences | King’s College London
- - [https://nms.kcl.ac.uk](https://nms.kcl.ac.uk)
- - date_published: 2024-07-03T03:25:22.826840+00:00
-
- ## PaperCut Login for King's College London
- - [https://printing.kcl.ac.uk](https://printing.kcl.ac.uk)
- - date_published: 2024-06-17T18:05:28.358064+00:00
-
- ## Home
-		 · Student Services Online
- - [https://self-service.kcl.ac.uk](https://self-service.kcl.ac.uk)
- - date_published: 2024-05-02T10:55:15.597909+00:00
-
- ## Department of Mathematics | King’s College London
- - [http://www.mth.kcl.ac.uk](http://www.mth.kcl.ac.uk)
- - date_published: 2024-06-30T08:50:40.853111+00:00
-
- ## King Edward VI College, Stourbridge
- - [https://www.kedst.ac.uk](https://www.kedst.ac.uk)
- - date_published: 2024-10-20T01:47:03.628201+00:00
-
- ## Home
- - [https://www.keele.ac.uk](https://www.keele.ac.uk)
- - date_published: 2024-06-22T07:13:29.517136+00:00
-
- ## Blogs at Kent – Showcasing groundbreaking work at Kent
- - [https://blogs.kent.ac.uk](https://blogs.kent.ac.uk)
- - date_published: 2024-07-24T04:42:13.492242+00:00
-
- ## Jobs at the University of Kent
- - [https://jobs.kent.ac.uk](https://jobs.kent.ac.uk)
- - date_published: 2024-07-24T04:42:07.292114+00:00
-
- ## Welcome to Kent Academic Repository - Kent Academic Repository
- - [https://kar.kent.ac.uk](https://kar.kent.ac.uk)
- - date_published: 2024-06-26T21:47:16.859414+00:00
-
- ## We stand for ambition. Yours
- - [https://kent.ac.uk](https://kent.ac.uk)
- - date_published: 2024-04-29T06:47:04.840011+00:00
-
- ## Research at Kent - University of Kent
- - [https://research.kent.ac.uk](https://research.kent.ac.uk)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Sign in to your account
- - [https://staff.kent.ac.uk](https://staff.kent.ac.uk)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Home
- - [http://www.cs.kent.ac.uk](http://www.cs.kent.ac.uk)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Kent and Medway Medical School
- - [https://kmms.ac.uk](https://kmms.ac.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home - Lancaster University
- - [https://www.lancaster.ac.uk](https://www.lancaster.ac.uk)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## AuroraWatch UK · AuroraWatch UK
- - [https://aurorawatch.lancs.ac.uk](https://aurorawatch.lancs.ac.uk)
- - date_published: 2020-09-30T11:56:45+00:00
-
- ## UCREL Corpus Application Server
- - [http://corpora.lancs.ac.uk](http://corpora.lancs.ac.uk)
- - date_published: 2021-03-18T09:48:04+00:00
-
- ## ES webpages
- - [http://cres1.lancs.ac.uk](http://cres1.lancs.ac.uk)
- - date_published: 2023-11-08T17:17:23+00:00
-
- ## UCREL NLP Group
- - [http://ucrel.lancs.ac.uk](http://ucrel.lancs.ac.uk)
- - date_published: 2024-02-15T16:52:11+00:00
-
- ## Lancaster University | Just another WordPress site
- - [http://wp.lancs.ac.uk](http://wp.lancs.ac.uk)
- - date_published: 2024-07-12T16:51:36.934252+00:00
-
- ## Loughborough University
- - [https://www.lboro.ac.uk](https://www.lboro.ac.uk)
- - date_published: 2024-07-01T12:05:51+00:00
-
- ## Home
- - [https://www.lcb.ac.uk](https://www.lcb.ac.uk)
- - date_published: 2024-08-06T10:59:34.103541+00:00
-
- ## Leverhulme Centre for the Future of Intelligence: Home
- - [http://lcfi.ac.uk](http://lcfi.ac.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Home
- - [https://citizen.le.ac.uk](https://citizen.le.ac.uk)
- - date_published: 2024-06-16T22:51:20.290342+00:00
-
- ## A Leading UK University | University of Leicester
- - [https://le.ac.uk](https://le.ac.uk)
- - date_published: 2024-05-01T08:04:50.520357+00:00
-
- ## CONTENTdm
- - [http://specialcollections.le.ac.uk](http://specialcollections.le.ac.uk)
- - date_published: 2024-08-08T19:40:08.577853+00:00
 

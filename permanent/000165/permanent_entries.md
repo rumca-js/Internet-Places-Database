@@ -1,3 +1,53 @@
+ ## Index - Mark's Notes
+ - [https://notes.philoserf.com](https://notes.philoserf.com)
+ - date_published: 2024-05-06T23:15:20.992604+00:00
+
+ ## Reversing entropy, locally
+ - [https://philoserf.com](https://philoserf.com)
+ - date_published: 2023-12-03T01:43:34.806253+00:00
+ - tags: ['personal']
+
+ ## philosidee
+ - [http://philosidee.com](http://philosidee.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Alex King
+ - [https://philosopher-king.com](https://philosopher-king.com)
+ - date_published: 2023-06-25T21:26:13+00:00
+
+ ## The Philosophical-Science Blog
+ - [http://philosophical-science.com](http://philosophical-science.com)
+ - date_published: 2024-09-03T23:09:09.880474+00:00
+
+ ## philosophyandpsychology.com - Ta strona jest na sprzedaż! - philosophyandpsychology Zasoby i informacje.
+ - [http://philosophyandpsychology.com](http://philosophyandpsychology.com)
+ - date_published: 2024-08-06T05:39:18+00:00
+
+ ## philosophy bites
+ - [https://www.philosophybites.com](https://www.philosophybites.com)
+ - date_published: 2024-05-06T13:17:04.438271+00:00
+ - tags: ['podcast']
+
+ ## Philosophy Bro
+ - [https://philosophybro.com](https://philosophybro.com)
+ - date_published: 2024-05-06T23:15:24.444962+00:00
+
+ ## Philosophy Football - T-Shirts - Philosophy Football
+ - [http://www.philosophyfootball.com](http://www.philosophyfootball.com)
+ - date_published: 2024-10-21T18:58:56.384473+00:00
+
+ ## Philosophy vs. Improv – Philosophy vs. Improv
+ - [https://philosophyimprov.com](https://philosophyimprov.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 神灯vp加速器 一键直达 更快更稳
+ - [http://www.philosphybites.com](http://www.philosphybites.com)
+ - date_published: 2024-05-12T01:57:28+00:00
+
+ ## 💬 John Philpin
+ - [https://john.philpin.com](https://john.philpin.com)
+ - date_published: 2024-07-06T20:49:57+00:00
+
  ## philringnalda.com is almost here!
  - [http://philringnalda.com](http://philringnalda.com)
  - date_published: 2024-09-13T21:16:11+00:00
@@ -62,6 +112,7 @@
  ## https://phind.com
  - [https://phind.com](https://phind.com)
  - date_published: 2023-10-25T16:34:07.856025+00:00
+ - tags: ['artificial intelligence bot']
 
  ## TOP | PhindMI 医療用医薬品Q＆A 検索サービス
  - [https://www.phindmi.com](https://www.phindmi.com)
@@ -3993,52 +4044,4 @@ Unified Availability Website Monitoring
  ## Pittsburgh Injury Lawyers P.C.
  - [https://www.pittsburgh-injury-lawyers.com](https://www.pittsburgh-injury-lawyers.com)
  - date_published: 2024-10-17T21:11:45.810398+00:00
-
- ## Pittsburgh Magazine | Restaurants, Best of, Entertainment, Doctors, Sports, Weddings
- - [http://www.pittsburghmagazine.com](http://www.pittsburghmagazine.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## A Night With Panthers - Pitt Panthers #H2P - Official Athletics Website
- - [https://pittsburghpanthers.com](https://pittsburghpanthers.com)
- - date_published: 2024-07-01T16:58:17.090041+00:00
-
- ## Pittsburgh Star - Local Pittsburgh News | International Headlines
- - [http://www.pittsburghstar.com](http://www.pittsburghstar.com)
- - date_published: 2024-07-13T22:58:07.642081+00:00
-
- ## PITTSBURHXPLOSION
- - [https://www.pittsburghxplosion.com](https://www.pittsburghxplosion.com)
- - date_published: 2024-08-20T04:08:27.205564+00:00
-
- ## PiTunnel - Access your Raspberry Pi projects from anywhere
- - [https://pitunnel.com](https://pitunnel.com)
- - date_published: 2024-05-12T06:12:41.438569+00:00
-
- ## piumarta.com
- - [http://piumarta.com](http://piumarta.com)
- - date_published: 2019-05-25T00:12:02+00:00
-
- ## Home - PiunikaWeb
- - [https://piunikaweb.com](https://piunikaweb.com)
- - date_published: 2023-10-25T16:35:36.299294+00:00
-
- ## Pius Bacher
- - [http://piusbacher.com](http://piusbacher.com)
- - date_published: 2023-05-17T08:22:00+00:00
-
- ## Piva Gomme | Vendita e Cambio Pneumatici
- - [https://www.pivagomme.com](https://www.pivagomme.com)
- - date_published: 2024-07-14T16:43:39.865717+00:00
-
- ## Pivotal Economics
- - [https://pivotaleconomics.com](https://pivotaleconomics.com)
- - date_published: 2024-10-07T16:35:06.613319+00:00
-
- ## VMware Tanzu Labs: A Better Way to Build Software
- - [http://pivotallabs.com](http://pivotallabs.com)
- - date_published: 2024-05-08T03:34:19.283943+00:00
-
- ## Agile Project Management
- - [https://pivotaltracker.com](https://pivotaltracker.com)
- - date_published: 2020-04-13T00:00:00+00:00
 

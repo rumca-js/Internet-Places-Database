@@ -1,3 +1,15 @@
+ ## Home - DE Digital
+ - [https://www.devoneddydigital.com](https://www.devoneddydigital.com)
+ - date_published: 2022-04-03T00:00:00+00:00
+
+ ## 500
+ - [https://i2-prod.devonlive.com](https://i2-prod.devonlive.com)
+ - date_published: 2024-05-02T11:22:16.005893+00:00
+
+ ## Devon Live - Latest local news, sport & business from Devon
+ - [https://www.devonlive.com](https://www.devonlive.com)
+ - date_published: 2024-09-03T23:18:15.917538+00:00
+
  ## Devon Rowland Photography
  - [https://gallery.devonrowland.com](https://gallery.devonrowland.com)
  - date_published: 2024-09-16T07:36:24.881024+00:00
@@ -4030,16 +4042,4 @@ A blog about programming, distributed systems and others
  ## Baja California, México - Official Travel Website
  - [http://www.discoverbajacalifornia.com](http://www.discoverbajacalifornia.com)
  - date_published: 2024-06-11T00:00:00+00:00
-
- ## Boothill - Discover Boothill Graveyard
- - [https://discoverboothill.com](https://discoverboothill.com)
- - date_published: 2024-10-28T04:31:59.562121+00:00
-
- ## DiscoverBSD - The BSD community linklog
- - [https://discoverbsd.com](https://discoverbsd.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Apply for a Credit Card Online from Discover
- - [https://www.discovercard.com](https://www.discovercard.com)
- - date_published: 2024-06-14T19:39:22+00:00
 

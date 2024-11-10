@@ -1,3 +1,139 @@
+ ## Foothills Performing Arts & Civic Center | Welcome to Foothills PAC
+ - [http://www.foothillspac.org](http://www.foothillspac.org)
+ - date_published: 2024-08-19T13:55:02.162682+00:00
+
+ ## How many planets does it take to sustain your lifestyle?
+ - [https://footprintcalculator.org](https://footprintcalculator.org)
+ - date_published: 2024-01-22T16:17:08+00:00
+
+ ## Open Data Platform
+ - [https://data.footprintnetwork.org](https://data.footprintnetwork.org)
+ - date_published: 2023-08-26T14:22:10+00:00
+
+ ## Food Footprint Platform
+ - [https://food.footprintnetwork.org](https://food.footprintnetwork.org)
+ - date_published: 2023-07-09T15:25:58+00:00
+
+ ## Home - Global Footprint Network
+ - [https://footprintnetwork.org](https://footprintnetwork.org)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Earth Overshoot Day home - #MoveTheDate
+ - [https://overshoot.footprintnetwork.org](https://overshoot.footprintnetwork.org)
+ - date_published: 2024-05-08T11:21:59.008106+00:00
+
+ ## Friends of the Oakland Public Library
+ - [https://fopl.org](https://fopl.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## HOME | Forage Testing
+ - [http://www.foragetesting.org](http://www.foragetesting.org)
+ - date_published: 2024-09-18T20:27:37.040499+00:00
+
+ ## forBootCamp.org - Alternate drivers and tools for Macbooks running Windows 10: Trackpad++, Power Plan Assistant, ExtraMagic
+ - [http://forbootcamp.org](http://forbootcamp.org)
+ - date_published: 2024-04-11T11:44:24+00:00
+
+ ## Power Plan Assistant
+ - [http://powerplan.forbootcamp.org](http://powerplan.forbootcamp.org)
+ - date_published: 2024-05-17T11:03:18+00:00
+
+ ## Upstream
+ - [https://upstream.force11.org](https://upstream.force11.org)
+ - date_published: 2024-10-20T04:39:30.691186+00:00
+
+ ## FORCE11 – The Future of Research Communications and e-Scholarship
+ - [https://www.force11.org](https://www.force11.org)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## FORCE2017 - Home
+ - [https://www.force2017.org](https://www.force2017.org)
+ - date_published: 2023-02-26T01:32:13+00:00
+
+ ## FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More
+ - [https://force-color.org](https://force-color.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Backbone
+ - [https://backbone.forcrowd.org](https://backbone.forcrowd.org)
+ - date_published: 2019-07-29T18:50:38+00:00
+
+ ## forCrowd
+ - [https://forcrowd.org](https://forcrowd.org)
+ - date_published: 2024-03-29T14:48:16+00:00
+
+ ## Global Goals Fund
+ - [https://globalgoalsfund.forcrowd.org](https://globalgoalsfund.forcrowd.org)
+ - date_published: 2018-10-15T18:58:40+00:00
+
+ ## Wealth Framework
+ - [https://wealth.forcrowd.org](https://wealth.forcrowd.org)
+ - date_published: 2018-12-08T09:44:11+00:00
+
+ ## The Darlie Routier Case: A Tragic and Controversial Case of Maternal Filicide
+ - [https://fordarlieroutier.org](https://fordarlieroutier.org)
+ - date_published: 2024-06-15T19:51:58+00:00
+
+ ## Ford Foundation Homepage - Ford Foundation
+ - [https://www.fordfound.org](https://www.fordfound.org)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Ford Foundation Homepage - Ford Foundation
+ - [https://fordfoundation.org](https://fordfoundation.org)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Homepage | Ford Philanthropy
+ - [https://www.fordfund.org](https://www.fordfund.org)
+ - date_published: 2024-05-04T06:43:23.689383+00:00
+
+ ## The Thomas B. Fordham Institute
+ - [https://fordhaminstitute.org](https://fordhaminstitute.org)
+ - date_published: 2024-06-28T18:40:45+00:00
+
+ ## Fordham Intellectual Property, Media & Entertainment Law Journal
+ - [http://www.fordhamiplj.org](http://www.fordhamiplj.org)
+ - date_published: 2024-10-18T22:36:03.079745+00:00
+
+ ## Visit the Edsel & Eleanor Ford House | Grosse Pointe Shores, MI
+ - [https://www.fordhouse.org](https://www.fordhouse.org)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Homepage | Ford Philanthropy
+ - [https://www.fordphilanthropy.org](https://www.fordphilanthropy.org)
+ - date_published: 2024-06-18T12:48:26+00:00
+
+ ## Forecasting Research Institute
+ - [https://forecastingresearch.org](https://forecastingresearch.org)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Forensic Architecture
+ - [https://forensic-architecture.org](https://forensic-architecture.org)
+ - date_published: 2024-01-24T09:11:40.343367+00:00
+
+ ## ForensicBites
+ - [https://forensicbites.org](https://forensicbites.org)
+ - date_published: 2024-08-18T20:45:19.569776+00:00
+
+ ## Foresight Institute - Catalyzing Transformative Technologies
+ - [https://foresight.org](https://foresight.org)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Continuing Care Retirement Community - Durham NC | The Forest at Duke
+ - [https://forestduke.org](https://forestduke.org)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Forest | Voice and friend of the smoker
+ - [https://forestonline.org](https://forestonline.org)
+ - date_published: 2024-10-21T14:25:21.117709+00:00
+
+ ## Forethought Foundation
+ - [https://www.forethought.org](https://www.forethought.org)
+ - date_published: 2024-06-21T11:38:58.268235+00:00
+
+ ## Forever Fit Summer Camp |  An Affordable and Comprehensive Summer Weight Loss Day Camp
+ - [http://www.foreverfitcamp.org](http://www.foreverfitcamp.org)
+ - date_published: 2019-02-07T00:00:00+00:00
+
  ## ForgeFed
  - [https://forgefed.org](https://forgefed.org)
  - date_published: 2023-10-25T21:21:36.586257+00:00
@@ -159,6 +295,11 @@
  ## Forum 18
  - [http://www.forum18.org](http://www.forum18.org)
  - date_published: 2024-06-24T00:00:00+00:00
+
+ ## 3DCenter Forum
+ - [https://forum-3dcenter.org](https://forum-3dcenter.org)
+ - date_published: 2024-11-09T09:22:34+00:00
+ - tags: ['hardware', 'internet forum', 'computers']
 
  ## 3DCenter Forum
  - [http://www.forum-3dcenter.org](http://www.forum-3dcenter.org)
@@ -3911,148 +4052,4 @@ encryption
  ## GDP
  - [https://www.gdp-planetarium.org](https://www.gdp-planetarium.org)
  - date_published: 2022-11-07T12:58:23+00:00
-
- ## GDPR: General Data Protection Regulation
- - [https://www.gdpreu.org](https://www.gdpreu.org)
- - date_published: 2020-07-10T09:25:50+00:00
-
- ## 广东省直机关党建网
- - [http://www.gdszjgdj.org](http://www.gdszjgdj.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## GÉANT CONNECT Online
- - [http://connect.geant.org](http://connect.geant.org)
- - date_published: 2019-05-17T13:54:43+00:00
-
- ## GÉANT
- - [https://geant.org](https://geant.org)
- - date_published: 2019-05-08T01:38:14+00:00
-
- ## GÉANT mailing list manager - home
- - [https://lists.geant.org](https://lists.geant.org)
- - date_published: 2024-09-18T15:13:20.319273+00:00
-
- ## GÉANT Resources
- - [https://resources.geant.org](https://resources.geant.org)
- - date_published: 2024-10-20T04:40:49.103341+00:00
-
- ## Home
- | Geany
- - [https://geany.org](https://geany.org)
- - date_published: 2023-11-01T08:44:20.592858+00:00
- - tags: ['programming ide']
-
- ## Plugins for Geany []
- - [https://plugins.geany.org](https://plugins.geany.org)
- - date_published: 2024-07-03T11:52:31.271411+00:00
-
- ## Geany Wiki - Geany Wiki
- - [https://wiki.geany.org](https://wiki.geany.org)
- - date_published: 2024-07-03T11:52:32.385286+00:00
-
- ## GameHacking.org | Home
- - [http://geckocodes.org](http://geckocodes.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.gecu-ep.org](https://www.gecu-ep.org)
- - date_published: 2024-07-10T04:09:56.749547+00:00
-
- ## gEDA Project's Homepage
- - [http://www.geda-project.org](http://www.geda-project.org)
- - date_published: 2012-11-01T16:12:18+00:00
-
- ## Geds-to-phds - Daftar Game Android Terbaik Google Play Best of 2024
- - [https://geds-to-phds.org](https://geds-to-phds.org)
- - date_published: 2024-08-20T04:14:00.484418+00:00
-
- ## geecon 2024
- - [https://2024.geecon.org](https://2024.geecon.org)
- - date_published: 2024-06-20T12:30:02+00:00
-
- ## 极客时间-轻松学习，高效学习-极客邦
- - [https://time.geekbang.org](https://time.geekbang.org)
- - date_published: 2024-07-02T17:58:05.235994+00:00
-
- ## Andreas Thorstensson | bds
- - [http://www.geekboys.org](http://www.geekboys.org)
- - date_published: 2023-09-19T19:08:10+00:00
-
- ## b’s buzz
- - [https://bethanye.geekery.org](https://bethanye.geekery.org)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Geekery Mastodon
- - [https://mastodon.geekery.org](https://mastodon.geekery.org)
- - date_published: 2024-08-07T20:32:44.670204+00:00
-
- ## Geek Feminism Blog
- - [http://geekfeminism.org](http://geekfeminism.org)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## geekhack - Index
- - [https://cdn.geekhack.org](https://cdn.geekhack.org)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## geekhack - Index
- - [https://geekhack.org](https://geekhack.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## GeekHackWiki
- - [http://wiki.geekhack.org](http://wiki.geekhack.org)
- - date_published: 2022-12-30T18:44:47+00:00
-
- ## Forrest Cameranesi – Geek of All Trades
- - [https://geekofalltrades.org](https://geekofalltrades.org)
- - date_published: 2024-05-12T03:52:55.189511+00:00
-
- ## GeeksforGeeks | A computer science portal for geeks
- - [https://cdncontribute.geeksforgeeks.org](https://cdncontribute.geeksforgeeks.org)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## GeeksforGeeks | A computer science portal for geeks
- - [https://geeksforgeeks.org](https://geeksforgeeks.org)
- - date_published: 2024-03-24T00:00:00+00:00
-
- ## GeeksforGeeks
- - [https://practice.geeksforgeeks.org](https://practice.geeksforgeeks.org)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Geek Studies
- - [http://www.geekstudies.org](http://www.geekstudies.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## geeky NEWS - geeky NEWS: Navigating the New Age of Cutting-Edge Technology in AI, Robotics, Space, and the latest tech Gadgets
- - [https://geekynews.org](https://geekynews.org)
- - date_published: 2024-05-12T01:22:47.507808+00:00
- - tags: ['tech news']
-
- ## GeePawHill.org – Helping Geeks Produce.
- - [https://geepawhill.org](https://geepawhill.org)
- - date_published: 2024-04-29T02:19:18.266185+00:00
-
- ## Geffen Playhouse
- - [https://www.geffenplayhouse.org](https://www.geffenplayhouse.org)
- - date_published: 2024-07-06T20:37:04+00:00
-
- ## GEFIRA
- - [https://gefira.org](https://gefira.org)
- - date_published: 2024-05-07T18:52:34.794496+00:00
-
- ## GeGeWeb.42, le « Ouaibe » à Gégé - De tout, de rien... surtout rien d'intéressant !
- - [https://blog.gegeweb.org](https://blog.gegeweb.org)
- - date_published: 2024-07-08T11:02:57.976558+00:00
-
- ## GEGL
- - [https://www.gegl.org](https://www.gegl.org)
- - date_published: 2024-02-11T21:14:20+00:00
-
- ## gem5: The gem5 simulator system
- - [https://gem5.org](https://gem5.org)
- - date_published: 2024-06-08T17:55:03+00:00
- - tags: ['simulator']
-
- ## gem5 Resources
- - [https://resources.gem5.org](https://resources.gem5.org)
- - date_published: 2024-02-28T02:54:47+00:00
 

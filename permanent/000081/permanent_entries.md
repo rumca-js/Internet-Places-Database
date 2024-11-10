@@ -1,3 +1,15 @@
+ ## AskAuckland - University of Auckland
+ - [https://uoa.custhelp.com](https://uoa.custhelp.com)
+ - date_published: 2024-07-24T03:15:34.136068+00:00
+
+ ## Volvo Car USA Support | Contact us | Help
+ - [https://volvo.custhelp.com](https://volvo.custhelp.com)
+ - date_published: 2024-05-07T11:00:44.835130+00:00
+
+ ## Custify - Customer Success Software
+ - [https://app.custify.com](https://app.custify.com)
+ - date_published: 2024-06-20T15:49:10+00:00
+
  ## Custify API docs
  - [https://docs.custify.com](https://docs.custify.com)
  - date_published: 2024-06-07T09:37:43+00:00
@@ -4027,16 +4039,4 @@ for your agency
  ## Daniel Lange's blog
  - [https://daniel-lange.com](https://daniel-lange.com)
  - date_published: 2024-06-20T00:00:00+00:00
-
- ## Daniel Laursen – UX Specialist & experience enthusiast.
- - [http://daniellaursen.com](http://daniellaursen.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Danielle Atkins photography | Food photographer | Nashville, TN
- - [https://www.danielleatkins.com](https://www.danielleatkins.com)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Danielle Baskin
- - [https://daniellebaskin.com](https://daniellebaskin.com)
- - date_published: 2024-09-14T23:23:35.372345+00:00
 

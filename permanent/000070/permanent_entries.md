@@ -1,3 +1,11 @@
+ ## Camper Shoes - Official Online Shop Poland
+ - [https://www.camper.com](https://www.camper.com)
+ - date_published: 2024-07-09T15:41:06.155656+00:00
+
+ ## Camperguru — Best camping spots
+ - [https://www.camperguru.com](https://www.camperguru.com)
+ - date_published: 2024-10-19T02:23:57.072594+00:00
+
  ## Project management software, online collaboration
  - [https://campfirenow.com](https://campfirenow.com)
  - date_published: 2024-05-01T07:16:11.087046+00:00
@@ -4015,12 +4023,4 @@
  ## CARTO Academy | Academy
  - [https://academy.carto.com](https://academy.carto.com)
  - date_published: 2024-10-22T06:50:32.734360+00:00
-
- ## CARTO · alexmoa public feed
- - [https://alexmoa.carto.com](https://alexmoa.carto.com)
- - date_published: 2024-05-12T07:32:20.725697+00:00
-
- ## CARTO · Ben Wellington public feed
- - [https://benwellington.carto.com](https://benwellington.carto.com)
- - date_published: 2024-05-06T20:35:03.403538+00:00
 

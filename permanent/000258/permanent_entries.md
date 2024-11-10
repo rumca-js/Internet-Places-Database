@@ -1,3 +1,99 @@
+ ## Kendall College of Art and Design Grand Rapids Michigan
+ - [https://kcad.ferris.edu](https://kcad.ferris.edu)
+ - date_published: 2024-02-08T17:43:57.760533+00:00
+
+ ## Campus Osprey Web Cam - Ferris State University
+ - [https://osprey.ferris.edu](https://osprey.ferris.edu)
+ - date_published: 2024-05-13T20:07:33+00:00
+
+ ## Transfer to Ferris State Univesity
+ - [https://transfer.ferris.edu](https://transfer.ferris.edu)
+ - date_published: 2024-07-22T04:24:35.916946+00:00
+
+ ## Florida Gulf Coast University | Turning Ideas Into Impact
+ - [https://fgcu.edu](https://fgcu.edu)
+ - date_published: 2024-10-15T06:42:13.739522+00:00
+
+ ## Foothill De-Anza Foundation
+ - [https://foundation.fhda.edu](https://foundation.fhda.edu)
+ - date_published: 2024-09-10T07:30:23.623769+00:00
+
+ ## Foothill-De Anza – Campus Single Sign-On
+ - [https://myportal.fhda.edu](https://myportal.fhda.edu)
+ - date_published: 2024-07-10T11:37:08.471996+00:00
+
+ ## Welcome to Foothill-De Anza
+ - [http://www.fhda.edu](http://www.fhda.edu)
+ - date_published: 2024-07-10T11:37:10.746946+00:00
+
+ ## Home | The Franklin Institute
+ - [https://fi.edu](https://fi.edu)
+ - date_published: 2024-08-18T20:46:20+00:00
+
+ ## Home - Frankfurt International School
+ - [https://www.fis.edu](https://www.fis.edu)
+ - date_published: 2024-06-21T20:33:39.980839+00:00
+
+ ## College of Engineering and Science | Florida Tech
+ - [https://coe.fit.edu](https://coe.fit.edu)
+ - date_published: 2024-07-14T11:19:12.343552+00:00
+
+ ## Home - Florida Tech Department of Computer Sciences
+ - [https://cs.fit.edu](https://cs.fit.edu)
+ - date_published: 2024-05-11T10:37:53.918626+00:00
+
+ ## www.fit.edu | Florida Tech
+ - [https://fit.edu](https://fit.edu)
+ - date_published: 2024-07-14T11:19:16.944202+00:00
+
+ ## Florida Tech News
+ - [https://news.fit.edu](https://news.fit.edu)
+ - date_published: 2024-07-07T02:45:54+00:00
+
+ ## Florida Tech ACM | Association for Computing Machinery
+ - [http://pppj2015.cs.fit.edu](http://pppj2015.cs.fit.edu)
+ - date_published: 2024-07-14T16:25:26.111936+00:00
+
+ ## Accessibility @ FIU
+ - [https://accessibility.fiu.edu](https://accessibility.fiu.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Access, Compliance, and Equal ﻿Opportunity
+ - [https://ace.fiu.edu](https://ace.fiu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Admissions
+ - [https://admissions.fiu.edu](https://admissions.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Medina Aquarius Program
+ - [https://aquarius.fiu.edu](https://aquarius.fiu.edu)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Brand Style Guide
+ - [https://brand.fiu.edu](https://brand.fiu.edu)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Events Calendar - Florida International University
+ - [https://calendar.fiu.edu](https://calendar.fiu.edu)
+ - date_published: 2024-04-30T04:15:01.587208+00:00
+
+ ## Florida International University - Campus Maps
+ - [https://campusmaps.fiu.edu](https://campusmaps.fiu.edu)
+ - date_published: 2024-04-30T04:14:57.859721+00:00
+
+ ## FIU Canvas
+ - [https://canvas.fiu.edu](https://canvas.fiu.edu)
+ - date_published: 2024-04-30T04:14:50.043009+00:00
+
+ ## College of Communication, Architecture + The Arts
+ - [http://carta.fiu.edu](http://carta.fiu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Florida International University Catalog
+ - [https://catalog.fiu.edu](https://catalog.fiu.edu)
+ - date_published: 2024-07-22T04:16:13.532903+00:00
+
  ## Central Reservations
  - [https://centralreservations.fiu.edu](https://centralreservations.fiu.edu)
  - date_published: 2024-08-30T00:00:00+00:00
@@ -3909,100 +4005,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## My Study Abroad - Georgia State University
  - [http://mystudyabroad.gsu.edu](http://mystudyabroad.gsu.edu)
  - date_published: 2024-05-10T00:00:00+00:00
-
- ## ascend Portal
- - [https://netcommunity.gsu.edu](https://netcommunity.gsu.edu)
- - date_published: 2023-07-21T18:42:34+00:00
-
- ## Georgia State University - Georgia State News Hub
- - [https://news.gsu.edu](https://news.gsu.edu)
- - date_published: 2023-12-05T19:07:31.936621+00:00
-
- ## The National Institute for Student Success at Georgia State – The NISS helps colleges and universities identify and resolve institutional barriers to equity and college completion by increasing their capacity to implement proven student-success systems and data-driven interventions, and enact systemic change.
- - [https://niss.gsu.edu](https://niss.gsu.edu)
- - date_published: 2024-07-22T02:08:21.286470+00:00
-
- ## Georgia State Naval ROTC - Georgia State Naval ROTC
- - [https://nrotc.gsu.edu](https://nrotc.gsu.edu)
- - date_published: 2024-07-22T02:08:54.088481+00:00
-
- ## Home - Student Nutrition Services
- - [https://nutritionservices.gsu.edu](https://nutritionservices.gsu.edu)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Office of Institutional Effectiveness - Office of Institutional Effectiveness
- - [https://oie.gsu.edu](https://oie.gsu.edu)
- - date_published: 2024-04-30T04:32:23.594292+00:00
-
- ## Office of the Ombudsperson
- - [https://ombuds.gsu.edu](https://ombuds.gsu.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Georgia State Online
- - [https://online.gsu.edu](https://online.gsu.edu)
- - date_published: 2024-07-21T23:50:49.488249+00:00
-
- ## Office of Executive Vice President and Chief Operating Officer - Executive Vice President and Chief Operating Officer
- - [https://operations.gsu.edu](https://operations.gsu.edu)
- - date_published: 2024-01-27T00:00:00+00:00
-
- ## Panther Band Home
- - [https://pantherband.gsu.edu](https://pantherband.gsu.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## PantherCard - Auxiliary Services
- - [https://panthercard.gsu.edu](https://panthercard.gsu.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## AuthnRequest
- - [https://panthermart.gsu.edu](https://panthermart.gsu.edu)
- - date_published: 2024-04-30T04:32:00.035109+00:00
-
- ## Home - Parking & Transportation
- - [https://parking.gsu.edu](https://parking.gsu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## PawPrints - Auxiliary Services
- - [https://pawprints.gsu.edu](https://pawprints.gsu.edu)
- - date_published: 2024-04-30T04:30:24.931762+00:00
-
- ## Sign Into PAWS
- - [https://paws.gsu.edu](https://paws.gsu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## GSU PAWS Portal
- - [https://pawsportal.gsu.edu](https://pawsportal.gsu.edu)
- - date_published: 2024-06-07T19:38:14+00:00
-
- ## Professional Excellence Program
- - [https://peprogram.gsu.edu](https://peprogram.gsu.edu)
- - date_published: 2024-07-20T18:42:50.303362+00:00
-
- ## Perimeter College
- - [https://perimeter.gsu.edu](https://perimeter.gsu.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Philosophy - Philosophy at Georgia State
- - [http://philosophy.gsu.edu](http://philosophy.gsu.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## - Panther Involvement Network (PIN)
- - [https://pin.gsu.edu](https://pin.gsu.edu)
- - date_published: 2024-04-30T04:33:17.911502+00:00
-
- ## University Policies
- - [https://policies.oie.gsu.edu](https://policies.oie.gsu.edu)
- - date_published: 2024-04-30T04:35:23.857067+00:00
-
- ## Office of Postdoctoral Affairs - Georgia State Office of Postdoctoral Affairs
- - [https://postdocs.gsu.edu](https://postdocs.gsu.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## President M. Brian Blake - Georgia State M. Brian Blake, Georgia State University President
- - [https://president.gsu.edu](https://president.gsu.edu)
- - date_published: 2024-04-30T04:31:11.743239+00:00
-
- ## Public Relations & Marketing Communications
- - [https://pr.gsu.edu](https://pr.gsu.edu)
- - date_published: 2024-04-30T04:30:43.167126+00:00
 

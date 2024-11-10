@@ -1,3 +1,91 @@
+ ## Deutscher Bundestag - Startseite
+ - [https://dserver.bundestag.de](https://dserver.bundestag.de)
+ - date_published: 2024-06-28T21:40:50.347993+00:00
+
+ ## Petitionen: Startseite
+ - [https://epetitionen.bundestag.de](https://epetitionen.bundestag.de)
+ - date_published: 2024-04-29T05:56:15.208106+00:00
+
+ ## Login - Lobbyregister beim Deutschen Bundestag
+ - [https://iv.lobbyregister.bundestag.de](https://iv.lobbyregister.bundestag.de)
+ - date_published: 2024-07-24T17:40:33.759131+00:00
+
+ ## Lobbyregister beim Deutschen Bundestag
+ - [https://lobbyregister.bundestag.de](https://lobbyregister.bundestag.de)
+ - date_published: 2024-04-29T05:56:34.771274+00:00
+
+ ## OPAC: Katalog
+ - [https://opac.bundestag.de](https://opac.bundestag.de)
+ - date_published: 2024-04-29T05:56:20.460097+00:00
+
+ ## Ihr Besuchswunsch
+ - [https://visite.bundestag.de](https://visite.bundestag.de)
+ - date_published: 2024-04-29T05:56:35.712521+00:00
+
+ ## Deutscher Bundestag - Startseite
+ - [https://webtv.bundestag.de](https://webtv.bundestag.de)
+ - date_published: 2024-04-29T05:56:28.539670+00:00
+
+ ## Bundestagsshop
+ - [https://bundestagsshop.de](https://bundestagsshop.de)
+ - date_published: 2023-12-07T12:22:20.768351+00:00
+
+ ## Historische Souvenirs zum Thema Reichstagsgebäude - Bundestagsshop
+ - [https://info.bundestagsshop.de](https://info.bundestagsshop.de)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## BundesTelefonbuch Startseite
+ - [https://www.bundes-telefonbuch.de](https://www.bundes-telefonbuch.de)
+ - date_published: 2024-09-30T13:15:43.715362+00:00
+
+ ## Bundesverband Crowdfunding – Interessensvertretung der Crowdfunding-Plattformen
+ - [https://www.bundesverband-crowdfunding.de](https://www.bundesverband-crowdfunding.de)
+ - date_published: 2024-10-02T10:47:12.727176+00:00
+
+ ## Home | Bundesverband Mobile Beratung
+ - [https://bundesverband-mobile-beratung.de](https://bundesverband-mobile-beratung.de)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Start · Bundesverband Trans*
+ - [https://www.bundesverband-trans.de](https://www.bundesverband-trans.de)
+ - date_published: 2024-09-12T14:30:33+00:00
+
+ ## Bundesverfassungsgericht  -  Startseite
+ - [https://bundesverfassungsgericht.de](https://bundesverfassungsgericht.de)
+ - date_published: 2023-10-25T18:28:33.150667+00:00
+
+ ## Bundeswehr
+ - [https://www.bundeswehr.de](https://www.bundeswehr.de)
+ - date_published: 2024-07-09T14:17:30.268924+00:00
+
+ ## Bundesweite Anlaufstelle - Die Landeskoordinierungsstellen Glücksspielsucht
+ - [https://www.bundesweit-gegen-gluecksspielsucht.de](https://www.bundesweit-gegen-gluecksspielsucht.de)
+ - date_published: 2024-07-14T02:16:53.752526+00:00
+
+ ## bunkverlag - bunkverlag – Kulturmedien + Kulturcommunication
+ - [https://bunkverlag.de](https://bunkverlag.de)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## BUNTE.de: Promi-News zu deinen Stars, Royals & VIPs
+ - [https://www.bunte.de](https://www.bunte.de)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Burda Digital Health
+ - [https://www.burdadigitalhealth.de](https://www.burdadigitalhealth.de)
+ - date_published: 2024-10-07T10:21:21+00:00
+
+ ## BurdaForward - Das sind gute Nachrichten
+ - [https://burda-forward.de](https://burda-forward.de)
+ - date_published: 2024-05-07T10:55:52.394725+00:00
+
+ ## BurdaForward SelfService
+ - [https://login.burda-forward.de](https://login.burda-forward.de)
+ - date_published: 2024-08-13T14:20:51+00:00
+
+ ## Burda Journalistenschule
+ - [https://burda-journalistenschule.de](https://burda-journalistenschule.de)
+ - date_published: 2024-09-30T01:30:22+00:00
+
  ## burda Schnittmuster und Nähmagazine | BurdaStyle
  - [https://www.burdastyle.de](https://www.burdastyle.de)
  - date_published: 2024-07-10T03:42:16.674334+00:00
@@ -3929,92 +4017,4 @@ Heinsohn
  ## Sign in - Matomo
  - [https://matomo.dmscn.de](https://matomo.dmscn.de)
  - date_published: 2024-07-11T23:39:53.716475+00:00
-
- ## Webhosting, Webspace, Domains und SSL für Shops und CMS
- - [https://www.dmsolutions.de](https://www.dmsolutions.de)
- - date_published: 2024-09-24T16:42:07+00:00
-
- ## Die IT-Spezialisten bei dm | dmTECH.de
- - [http://www.dmtech.de](http://www.dmtech.de)
- - date_published: 2024-08-11T13:11:49.252225+00:00
-
- ## Startseite
- - [https://dnb.de](https://dnb.de)
- - date_published: 2024-07-24T03:55:13.112897+00:00
-
- ## Mailinglisten auf lists.dnb.de
- - [https://lists.dnb.de](https://lists.dnb.de)
- - date_published: 2024-07-24T03:55:15.439783+00:00
-
- ## Deutscher Naturschutzring | Deutscher Naturschutzring
- - [https://www.dnr.de](https://www.dnr.de)
- - date_published: 2024-09-12T16:08:47.422170+00:00
-
- ## DNV.de - When trust matters - Klassifikationsgesellschaft, Zertifizierungs- und Beratungsdienstleister - DNV
- - [https://www.dnv.de](https://www.dnv.de)
- - date_published: 2024-09-04T15:25:56.617879+00:00
-
- ## Home of Gerwin Klein
- - [https://doclsf.de](https://doclsf.de)
- - date_published: 2023-10-12T21:40:24+00:00
-
- ## Documentation As Code
- - [https://docs-as-co.de](https://docs-as-co.de)
- - date_published: 2024-07-24T06:05:40.944227+00:00
-
- ## documenta
- - [http://www.documenta.de](http://www.documenta.de)
- - date_published: 2024-07-13T14:40:20.477550+00:00
-
- ## documenta 14
- - [http://documenta14.de](http://documenta14.de)
- - date_published: 2024-07-13T14:56:08.588530+00:00
-
- ## documenta archiv
- - [http://www.documenta-archiv.de](http://www.documenta-archiv.de)
- - date_published: 2024-07-13T14:32:00.214375+00:00
-
- ## documenta-bauhaus.de - Ta strona jest na sprzedaż! - documenta bauhaus Zasoby i informacje.
- - [https://www.documenta-bauhaus.de](https://www.documenta-bauhaus.de)
- - date_published: 2024-07-13T14:40:24+00:00
-
- ## documenta fifteen
- - [https://documenta-fifteen.de](https://documenta-fifteen.de)
- - date_published: 2024-07-13T16:00:24.184719+00:00
-
- ## Start | Dörenberg Klinik
- - [https://www.doerenberg-klinik.de](https://www.doerenberg-klinik.de)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Senior Software Engineer Doğan Uçar: Practical Knowledge & Blog
- - [https://www.dogan-ucar.de](https://www.dogan-ucar.de)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Home
- - [https://dog-feeding.de](https://dog-feeding.de)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## DOGK - der Deutsche Obst und Gemüse Kongress
- - [https://www.dogkongress.de](https://www.dogkongress.de)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Natürliche Ergänzungen für Hunde - Dog-Native
- - [https://dog-native.de](https://dog-native.de)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Do it at Leipzig
- - [http://www.doitatleipzig.de](http://www.doitatleipzig.de)
- - date_published: 2024-07-14T02:09:35.667624+00:00
-
- ## DokChess als Beispiel für arc42
- - [https://dokchess.de](https://dokchess.de)
- - date_published: 2024-05-02T07:10:27+00:00
-
- ## Domain - Domain News - Domain Ratgeber - Domain Maketing - Domain Recht - Domain Alliance
- - [https://www.domainalliance.de](https://www.domainalliance.de)
- - date_published: 2024-07-15T02:19:57.127896+00:00
-
- ## Domain-Anwälte - domain-recht.de
- - [https://www.domain-anwalt.de](https://www.domain-anwalt.de)
- - date_published: 2024-09-30T11:32:51.855421+00:00
 

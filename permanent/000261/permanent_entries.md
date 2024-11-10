@@ -1,3 +1,99 @@
+ ## MIT Canvas - Login
+ - [https://canvas.mit.edu](https://canvas.mit.edu)
+ - date_published: 2024-07-01T15:11:32.219522+00:00
+
+ ## Yuan Cao's Homepage
+ - [https://caoyuan.scripts.mit.edu](https://caoyuan.scripts.mit.edu)
+ - date_published: 2024-01-09T01:37:28.741983+00:00
+
+ ## Home
+ - [https://cap.csail.mit.edu](https://cap.csail.mit.edu)
+ - date_published: 2024-05-07T19:33:54.697062+00:00
+
+ ## Career Advising & Professional Development | MIT
+ - [https://capd.mit.edu](https://capd.mit.edu)
+ - date_published: 2024-06-09T17:27:14.522346+00:00
+
+ ## Jobs at MIT Lincoln Laboratory
+ - [https://careers.ll.mit.edu](https://careers.ll.mit.edu)
+ - date_published: 2024-05-07T19:38:14.314198+00:00
+
+ ## Careers | MIT Human Resources
+ - [https://careers.mit.edu](https://careers.mit.edu)
+ - date_published: 2024-05-07T19:37:57.410306+00:00
+
+ ## Welcome! < MIT
+ - [https://catalog.mit.edu](https://catalog.mit.edu)
+ - date_published: 2024-04-16T15:35:10+00:00
+
+ ## CBMM, NSF STC | The Center for Brains, Minds & Machines
+ - [https://cbmm.mit.edu](https://cbmm.mit.edu)
+ - date_published: 2024-06-22T08:35:23.495594+00:00
+
+ ## Homepage - MIT Center for Constructive Communication
+ - [https://ccc.mit.edu](https://ccc.mit.edu)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Homepage
+ - [https://cdfg.mit.edu](https://cdfg.mit.edu)
+ - date_published: 2024-06-22T07:47:03.967376+00:00
+
+ ## Career Development Office | MIT Sloan School of Management
+ - [https://cdo.mit.edu](https://cdo.mit.edu)
+ - date_published: 2024-05-07T19:35:56.496755+00:00
+
+ ## MIT CEE - Homepage | Nexus of People, Systems & Sustainability
+ - [https://cee.mit.edu](https://cee.mit.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Homepage
+ - [http://cfg.mit.edu](http://cfg.mit.edu)
+ - date_published: 2024-06-22T07:36:40.152724+00:00
+
+ ## Databases, Revenues, & Repertory: The French Stage Online, 1680–1793
+ - [https://cfrp.mitpress.mit.edu](https://cfrp.mitpress.mit.edu)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## MIT Department of Chemistry – Department of Chemistry at MIT
+ - [https://chemistry.mit.edu](https://chemistry.mit.edu)
+ - date_published: 2024-05-07T19:37:10.613963+00:00
+
+ ## MIT–Chile Workshop
+ - [https://chileconf.mit.edu](https://chileconf.mit.edu)
+ - date_published: 2024-07-03T11:56:06.490034+00:00
+
+ ## Institute Office of Communications | MIT - Massachusetts Institute of Technology
+ - [http://ci.mit.edu](http://ci.mit.edu)
+ - date_published: 2024-07-01T15:28:18.644110+00:00
+
+ ## MIT Center for Civic Media – Creating Technology for Social Change
+ - [https://civic.mit.edu](https://civic.mit.edu)
+ - date_published: 2020-08-20T19:30:40+00:00
+
+ ## The Internet Classics Archive: 441 searchable works of classical literature
+ - [http://classics.mit.edu](http://classics.mit.edu)
+ - date_published: 2023-05-11T00:49:58+00:00
+
+ ## CLEVRER
+ - [http://clevrer.csail.mit.edu](http://clevrer.csail.mit.edu)
+ - date_published: 2020-10-20T01:34:20+00:00
+
+ ## Home | MIT Climate Portal
+ - [https://climate.mit.edu](https://climate.mit.edu)
+ - date_published: 2023-10-25T18:53:47.317024+00:00
+
+ ## Climate Science, Risk & Solutions
+ - [https://climateprimer.mit.edu](https://climateprimer.mit.edu)
+ - date_published: 2024-05-07T19:33:25.203653+00:00
+
+ ## Home - Club Sports
+ - [https://clubsports.mit.edu](https://clubsports.mit.edu)
+ - date_published: 2024-05-07T19:36:47.705971+00:00
+
+ ## CMS/W
+ - [http://cmsw.mit.edu](http://cmsw.mit.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
  ## Computational Cognitive Science – Department of Brain and Cognitive Sciences, MIT
  - [https://cocosci.mit.edu](https://cocosci.mit.edu)
  - date_published: 2024-05-04T15:15:12.767805+00:00
@@ -369,6 +465,10 @@
  ## MIT HAN Lab – Efficient AI Computing
  - [https://hanlab18.mit.edu](https://hanlab18.mit.edu)
  - date_published: 2024-06-22T09:07:19.318935+00:00
+
+ ## MIT HAN Lab
+ - [https://hanlab.mit.edu](https://hanlab.mit.edu)
+ - date_published: 2024-11-09T07:50:51+00:00
 
  ## Haystack Group @ MIT CSAIL
  - [https://haystack.csail.mit.edu](https://haystack.csail.mit.edu)
@@ -3904,104 +4004,4 @@
  ## Design and Build the Future with Us | Hillier College of Architecture and Design
  - [http://design.njit.edu](http://design.njit.edu)
  - date_published: 2024-07-01T15:22:37+00:00
-
- ## Digital Commons @ New Jersey Institute of Technology
- - [https://digitalcommons.njit.edu](https://digitalcommons.njit.edu)
- - date_published: 2024-07-01T16:03:05.834852+00:00
-
- ## Digital Skills Bootcamps | New Jersey Institute of Technology
- - [https://digitalskills.njit.edu](https://digitalskills.njit.edu)
- - date_published: 2024-07-01T16:10:34.228026+00:00
-
- ## Directory Search | People
- - [https://directory.njit.edu](https://directory.njit.edu)
- - date_published: 2024-05-07T19:46:46.639082+00:00
-
- ## Institute for Brain and Neuroscience Research | ibnr
- - [http://ibnr.njit.edu](http://ibnr.njit.edu)
- - date_published: 2024-06-30T23:24:20+00:00
-
- ## Welcome to IST | Information Services and Technology
- - [http://ist.njit.edu](http://ist.njit.edu)
- - date_published: 2024-06-30T17:05:31+00:00
-
- ## Home | Robert W. Van Houten Library
- - [https://library.njit.edu](https://library.njit.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Microfabrication Innovation Center | Microfabrication Lab
- - [http://mfc.njit.edu](http://mfc.njit.edu)
- - date_published: 2024-07-01T09:15:55+00:00
-
- ## Webauth Authentication Service
- - [https://my.njit.edu](https://my.njit.edu)
- - date_published: 2016-07-26T00:00:00+00:00
-
- ## NJIT News
- - [https://news.njit.edu](https://news.njit.edu)
- - date_published: 2023-12-24T14:21:23.481370+00:00
-
- ## Login - Highlander Nexus
- - [https://nexus.njit.edu](https://nexus.njit.edu)
- - date_published: 2024-07-01T16:10:04.435751+00:00
-
- ## New Jersey Institute of Technology |
- - [https://njit.edu](https://njit.edu)
- - date_published: 2024-05-07T19:46:26.999979+00:00
-
- ## Directory Search | People
- - [https://people.njit.edu](https://people.njit.edu)
- - date_published: 2024-07-01T16:09:58.869150+00:00
-
- ## Physics | Department of Physics
- - [http://physics.njit.edu](http://physics.njit.edu)
- - date_published: 2024-06-30T17:18:07+00:00
-
- ## Research | Research
- - [https://research.njit.edu](https://research.njit.edu)
- - date_published: 2024-05-07T19:46:33.495049+00:00
-
- ## New Jersey Institute of Technology
- - [http://researchwith.njit.edu](http://researchwith.njit.edu)
- - date_published: 2024-07-01T16:09:06.284921+00:00
-
- ## NJIT Service Portal - IST ServiceDesk
- - [http://servicedesk.njit.edu](http://servicedesk.njit.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Strategic Events and Conference Services | Conference Services
- - [https://strategicevents.njit.edu](https://strategicevents.njit.edu)
- - date_published: 2024-06-30T20:55:55+00:00
-
- ## Welcome to NCTIP at NJIT
- - [http://transportation.njit.edu](http://transportation.njit.edu)
- - date_published: 2024-07-01T16:10:16.483293+00:00
-
- ## Webauth Authentication Service
- - [http://webmail.njit.edu](http://webmail.njit.edu)
- - date_published: 2016-07-26T00:00:00+00:00
-
- ## New Jersey Institute of Technology |
- - [https://www5.njit.edu](https://www5.njit.edu)
- - date_published: 2024-07-01T00:57:04+00:00
-
- ## New Jersey Institute of Technology |
- - [http://www6.njit.edu](http://www6.njit.edu)
- - date_published: 2024-07-01T00:57:04+00:00
-
- ## Big Bear Solar Observatory
- - [http://www.bbso.njit.edu](http://www.bbso.njit.edu)
- - date_published: 2023-05-30T20:57:12+00:00
-
- ## EOVSA - Home Page
- - [http://www.ovsa.njit.edu](http://www.ovsa.njit.edu)
- - date_published: 2024-07-01T16:10:07.460669+00:00
-
- ## Welcome | Otto H. York Center for Environmental Engineering and Science
- - [http://www.ycees.njit.edu](http://www.ycees.njit.edu)
- - date_published: 2024-07-01T08:46:26+00:00
-
- ## Salmon P. Chase College of Law
- - [https://chaselaw.nku.edu](https://chaselaw.nku.edu)
- - date_published: 2024-10-11T00:00:00+00:00
 

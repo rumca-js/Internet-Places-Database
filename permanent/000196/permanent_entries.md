@@ -1,3 +1,72 @@
+ ## Metadash | Ivan Malopinsky | Substack
+ - [https://metadash.substack.com](https://metadash.substack.com)
+ - date_published: 2024-07-12T23:49:17.070808+00:00
+
+ ## Metals and Miners  | Substack
+ - [https://metalsandminers.substack.com](https://metalsandminers.substack.com)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## Metamoderna | Emil Ejner Friis | Substack
+ - [https://metamoderna.substack.com](https://metamoderna.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Metanoia of Vermont Reflections | Mark Kutolowski | Substack
+ - [https://metanoiavt.substack.com](https://metanoiavt.substack.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Methexis | Kevin Fischer | Substack
+ - [https://methexis.substack.com](https://methexis.substack.com)
+ - date_published: 2023-10-25T09:58:53.573354+00:00
+ - tags: ['substack']
+
+ ## Enough About That | Martin O'Leary | Substack
+ - [https://mewo2.substack.com](https://mewo2.substack.com)
+ - date_published: 2024-08-17T22:26:30.140002+00:00
+
+ ## Just an invitation... | Marco Fioretti | Substack
+ - [https://mfioretti.substack.com](https://mfioretti.substack.com)
+ - date_published: 2024-06-01T04:49:58.685235+00:00
+
+ ## Michael Geist | Substack
+ - [https://mgeist.substack.com](https://mgeist.substack.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Hack or Be Hacked | Masayuki Hatta | Substack
+ - [https://mhatta.substack.com](https://mhatta.substack.com)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## This Week In Bond | MI6 HQ | Substack
+ - [https://mi6hq.substack.com](https://mi6hq.substack.com)
+ - date_published: 2024-06-27T10:55:09.994078+00:00
+
+ ## Pseudo Luddite In A Digital World | MW Arau | Substack
+ - [https://michaelarau.substack.com](https://michaelarau.substack.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Words For the Wise | Michael Balter | Substack
+ - [https://michaelbalter.substack.com](https://michaelbalter.substack.com)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## The Bonner Report | Michael Bonner | Substack
+ - [https://michaelbonner.substack.com](https://michaelbonner.substack.com)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Michael’s Substack | Michael Bready | Substack
+ - [https://michaelbready.substack.com](https://michaelbready.substack.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Michael’s Substack | Michael DeHaan | Substack
+ - [https://michaeldehaan.substack.com](https://michaeldehaan.substack.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Situation Normal | Michael Estrin | Substack
+ - [https://michaelestrin.substack.com](https://michaelestrin.substack.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Future Fossils with Michael Garfield | Substack
+ - [https://michaelgarfield.substack.com](https://michaelgarfield.substack.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
  ## Michael Goitein's Upstream, Full-Stack Journal | Mike Goitein | Substack
  - [https://michaelgoitein.substack.com](https://michaelgoitein.substack.com)
  - date_published: 2024-03-06T00:00:00+00:00
@@ -4003,73 +4072,4 @@
  ## undervaluedjapan | Otto Oehring | Substack
  - [https://undervaluedjapan.substack.com](https://undervaluedjapan.substack.com)
  - date_published: 2024-08-19T09:38:53.176772+00:00
-
- ## Unfashionable | Sven Schnieders | Substack
- - [https://unfashionable.substack.com](https://unfashionable.substack.com)
- - date_published: 2023-10-25T10:07:06.313221+00:00
- - tags: ['substack']
-
- ## The Deep Dive | Unify AI | Substack
- - [https://unifyai.substack.com](https://unifyai.substack.com)
- - date_published: 2024-07-14T05:08:50.447535+00:00
-
- ## Union Weekly | Joe Galvin | Substack
- - [https://unionweekly.substack.com](https://unionweekly.substack.com)
- - date_published: 2024-09-16T06:26:48.337454+00:00
-
- ## Universal-Sci Weekly | Substack
- - [https://universalsci.substack.com](https://universalsci.substack.com)
- - date_published: 2024-05-06T21:16:04.529423+00:00
-
- ## Unlearn | Substack
- - [https://unlearnai.substack.com](https://unlearnai.substack.com)
- - date_published: 2024-10-16T18:13:40.081658+00:00
-
- ## Unreal Assets Daily CRE Update | Unreal Assets Staff | Substack
- - [https://unreal.substack.com](https://unreal.substack.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## Unseen St. Louis | Jackie Dana | Substack
- - [https://unseenstlouis.substack.com](https://unseenstlouis.substack.com)
- - date_published: 2024-03-17T00:00:00+00:00
-
- ## Unstabler Ontology | Jessica | Substack
- - [https://unstablerontology.substack.com](https://unstablerontology.substack.com)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Untangled with Charley Johnson | Substack
- - [https://untangled.substack.com](https://untangled.substack.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Ben @ Uphold.ai | Substack
- - [https://uphold.substack.com](https://uphold.substack.com)
- - date_published: 2024-10-30T20:40:13.367848+00:00
-
- ## Upper90’s Newsletter | Substack
- - [https://upper90capital.substack.com](https://upper90capital.substack.com)
- - date_published: 2024-06-19T10:01:06.969757+00:00
-
- ## Uranium-238 | Isabel | Substack
- - [https://uranium238.substack.com](https://uranium238.substack.com)
- - date_published: 2024-10-31T22:41:59.786059+00:00
-
- ## Urbanomics | Substack
- - [https://urbanomics.substack.com](https://urbanomics.substack.com)
- - date_published: 2024-01-17T00:00:00+00:00
-
- ## Use AI | Sjoerd Tiemensma | Substack
- - [https://useai.substack.com](https://useai.substack.com)
- - date_published: 2024-10-21T16:13:16.902543+00:00
-
- ## https://usefulfictions.substack.com
- - [https://usefulfictions.substack.com](https://usefulfictions.substack.com)
- - date_published: 2024-01-13T15:01:08.490019+00:00
-
- ## User Insight | Erman Misirlisoy, PhD | Substack
- - [https://userinsight.substack.com](https://userinsight.substack.com)
- - date_published: 2024-02-08T17:00:46.530379+00:00
-
- ## Extra Credit | UT Austin Liberal Arts | Substack
- - [https://utaustinliberalarts.substack.com](https://utaustinliberalarts.substack.com)
- - date_published: 2024-05-13T00:00:00+00:00
 

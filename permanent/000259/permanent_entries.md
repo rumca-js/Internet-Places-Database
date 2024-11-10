@@ -1,3 +1,99 @@
+ ## ascend Portal
+ - [https://netcommunity.gsu.edu](https://netcommunity.gsu.edu)
+ - date_published: 2023-07-21T18:42:34+00:00
+
+ ## Georgia State University - Georgia State News Hub
+ - [https://news.gsu.edu](https://news.gsu.edu)
+ - date_published: 2023-12-05T19:07:31.936621+00:00
+
+ ## The National Institute for Student Success at Georgia State – The NISS helps colleges and universities identify and resolve institutional barriers to equity and college completion by increasing their capacity to implement proven student-success systems and data-driven interventions, and enact systemic change.
+ - [https://niss.gsu.edu](https://niss.gsu.edu)
+ - date_published: 2024-07-22T02:08:21.286470+00:00
+
+ ## Georgia State Naval ROTC - Georgia State Naval ROTC
+ - [https://nrotc.gsu.edu](https://nrotc.gsu.edu)
+ - date_published: 2024-07-22T02:08:54.088481+00:00
+
+ ## Home - Student Nutrition Services
+ - [https://nutritionservices.gsu.edu](https://nutritionservices.gsu.edu)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Office of Institutional Effectiveness - Office of Institutional Effectiveness
+ - [https://oie.gsu.edu](https://oie.gsu.edu)
+ - date_published: 2024-04-30T04:32:23.594292+00:00
+
+ ## Office of the Ombudsperson
+ - [https://ombuds.gsu.edu](https://ombuds.gsu.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Georgia State Online
+ - [https://online.gsu.edu](https://online.gsu.edu)
+ - date_published: 2024-07-21T23:50:49.488249+00:00
+
+ ## Office of Executive Vice President and Chief Operating Officer - Executive Vice President and Chief Operating Officer
+ - [https://operations.gsu.edu](https://operations.gsu.edu)
+ - date_published: 2024-01-27T00:00:00+00:00
+
+ ## Panther Band Home
+ - [https://pantherband.gsu.edu](https://pantherband.gsu.edu)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## PantherCard - Auxiliary Services
+ - [https://panthercard.gsu.edu](https://panthercard.gsu.edu)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## AuthnRequest
+ - [https://panthermart.gsu.edu](https://panthermart.gsu.edu)
+ - date_published: 2024-04-30T04:32:00.035109+00:00
+
+ ## Home - Parking & Transportation
+ - [https://parking.gsu.edu](https://parking.gsu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## PawPrints - Auxiliary Services
+ - [https://pawprints.gsu.edu](https://pawprints.gsu.edu)
+ - date_published: 2024-04-30T04:30:24.931762+00:00
+
+ ## Sign Into PAWS
+ - [https://paws.gsu.edu](https://paws.gsu.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## GSU PAWS Portal
+ - [https://pawsportal.gsu.edu](https://pawsportal.gsu.edu)
+ - date_published: 2024-06-07T19:38:14+00:00
+
+ ## Professional Excellence Program
+ - [https://peprogram.gsu.edu](https://peprogram.gsu.edu)
+ - date_published: 2024-07-20T18:42:50.303362+00:00
+
+ ## Perimeter College
+ - [https://perimeter.gsu.edu](https://perimeter.gsu.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Philosophy - Philosophy at Georgia State
+ - [http://philosophy.gsu.edu](http://philosophy.gsu.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## - Panther Involvement Network (PIN)
+ - [https://pin.gsu.edu](https://pin.gsu.edu)
+ - date_published: 2024-04-30T04:33:17.911502+00:00
+
+ ## University Policies
+ - [https://policies.oie.gsu.edu](https://policies.oie.gsu.edu)
+ - date_published: 2024-04-30T04:35:23.857067+00:00
+
+ ## Office of Postdoctoral Affairs - Georgia State Office of Postdoctoral Affairs
+ - [https://postdocs.gsu.edu](https://postdocs.gsu.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## President M. Brian Blake - Georgia State M. Brian Blake, Georgia State University President
+ - [https://president.gsu.edu](https://president.gsu.edu)
+ - date_published: 2024-04-30T04:31:11.743239+00:00
+
+ ## Public Relations & Marketing Communications
+ - [https://pr.gsu.edu](https://pr.gsu.edu)
+ - date_published: 2024-04-30T04:30:43.167126+00:00
+
  ## PawPrints
  - [https://promoproducts.gsu.edu](https://promoproducts.gsu.edu)
  - date_published: 2024-07-22T02:45:15.693176+00:00
@@ -3911,102 +4007,4 @@ IDEALS
  ## Inspire Success with INSEAD | InTheKnow
  - [https://intheknow.insead.edu](https://intheknow.insead.edu)
  - date_published: 2024-07-03T03:24:18+00:00
-
- ## INSEAD Knowledge
- - [https://knowledge.insead.edu](https://knowledge.insead.edu)
- - date_published: 2024-06-16T02:03:04+00:00
-
- ## POST data
- - [https://my.insead.edu](https://my.insead.edu)
- - date_published: 2024-07-03T17:48:53.722432+00:00
-
- ## INSEAD Publishing
- - [https://publishing.insead.edu](https://publishing.insead.edu)
- - date_published: 2024-07-03T16:54:06+00:00
-
- ## All Blogs | InTheKnow
- - [http://the-insead-mba-experience.insead.edu](http://the-insead-mba-experience.insead.edu)
- - date_published: 2024-07-02T09:30:59+00:00
-
- ## Home
- - [http://www.internet2.edu](http://www.internet2.edu)
- - date_published: 2024-07-02T04:55:15.506928+00:00
-
- ## Inver Hills News
- - [https://news.inverhills.edu](https://news.inverhills.edu)
- - date_published: 2024-07-12T21:42:57.356854+00:00
-
- ## Public Universities
- - [https://www.iowaregents.edu](https://www.iowaregents.edu)
- - date_published: 2024-07-02T04:37:02.909402+00:00
-
- ## SAGE: 
-Data Services
- - [https://ds.iris.edu](https://ds.iris.edu)
- - date_published: 2024-05-09T07:09:18.968854+00:00
-
- ## SAGE
- - [https://iris.edu](https://iris.edu)
- - date_published: 2024-05-09T07:09:14.945431+00:00
-
- ## NSF SAGE: 
-  DMC Web Services
- - [https://service.iris.edu](https://service.iris.edu)
- - date_published: 2024-07-10T02:20:14.488171+00:00
-
- ## USC Information Sciences Insitute
- - [https://ai.isi.edu](https://ai.isi.edu)
- - date_published: 2024-04-30T05:01:02.237687+00:00
-
- ## The ANT Lab: Analysis of Network Traffic
- - [https://ant.isi.edu](https://ant.isi.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Information Sciences Institute
- - [https://isi.edu](https://isi.edu)
- - date_published: 2023-10-25T18:53:13.988342+00:00
-
- ## STEEL: Security Research Lab
- - [https://steel.isi.edu](https://steel.isi.edu)
- - date_published: 2024-09-17T01:21:00.822079+00:00
-
- ## The International Space University - Official website
- - [https://www.isunet.edu](https://www.isunet.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Accessibility
- - [https://accessibility.iu.edu](https://accessibility.iu.edu)
- - date_published: 2024-04-30T05:01:14.874264+00:00
-
- ## Alumni Association
- - [https://alumni.iu.edu](https://alumni.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Branding
- - [https://assets.iu.edu](https://assets.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## IU Kelley School of Business Indianapolis – Go from Moment to Momentum
- - [https://blog.kelley.indianapolis.iu.edu](https://blog.kelley.indianapolis.iu.edu)
- - date_published: 2024-09-05T10:08:38+00:00
-
- ## Investors generally underestimated the risk and impact of hurricanes, prior to feeling “Superstorm” Sandy’s fury on Wall Street
- - [https://blog.kelley.iu.edu](https://blog.kelley.iu.edu)
- - date_published: 2024-06-08T11:45:05.690945+00:00
-
- ## IU Blogs – Educational blogs from our community
- - [https://blogs.iu.edu](https://blogs.iu.edu)
- - date_published: 2024-07-13T17:11:34+00:00
-
- ## Indiana University Bloomington
- - [https://bloomington.iu.edu](https://bloomington.iu.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## IU Brand: Indiana University
- - [https://brand.iu.edu](https://brand.iu.edu)
- - date_published: 2024-07-01T22:47:15.569928+00:00
-
- ## Canvas:
- - [https://canvas.iu.edu](https://canvas.iu.edu)
- - date_published: 2024-04-30T05:01:28.442979+00:00
 

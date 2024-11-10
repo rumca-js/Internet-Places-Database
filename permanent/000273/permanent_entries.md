@@ -1,3 +1,110 @@
+ ## Student Resources
+ | IT at Yale
+ - [https://studenttechnology.yale.edu](https://studenttechnology.yale.edu)
+ - date_published: 2024-05-07T22:42:13.027761+00:00
+
+ ## Yale Summer Session
+ - [https://summer.yale.edu](https://summer.yale.edu)
+ - date_published: 2024-07-02T14:51:34+00:00
+
+ ## Home | Yale Sustainability
+ - [https://sustainability.yale.edu](https://sustainability.yale.edu)
+ - date_published: 2024-07-02T12:50:09+00:00
+
+ ## Welcome
+ | Timothy Dwight College
+ - [https://timothydwight.yalecollege.yale.edu](https://timothydwight.yalecollege.yale.edu)
+ - date_published: 2024-07-02T13:23:53+00:00
+
+ ## Tobin Center for Economic Policy
+ - [https://tobin.yale.edu](https://tobin.yale.edu)
+ - date_published: 2024-07-14T13:36:10+00:00
+
+ ## Usability & Web Accessibility | Create useful, usable websites that meet the needs of your audience
+ - [https://usability.yale.edu](https://usability.yale.edu)
+ - date_published: 2024-05-07T22:41:03.128353+00:00
+
+ ## Welcome
+ | Department of Mathematics
+ - [https://users.math.yale.edu](https://users.math.yale.edu)
+ - date_published: 2024-05-28T04:48:51.458519+00:00
+
+ ## Yale Ventures at Yale University | Innovation and Entrepreneurship
+ - [https://ventures.yale.edu](https://ventures.yale.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Application Unavailable | IT at Yale
+ - [https://veritas.its.yale.edu](https://veritas.its.yale.edu)
+ - date_published: 2024-05-07T22:42:36.117435+00:00
+
+ ## Error
+ - [https://view.message.yale.edu](https://view.message.yale.edu)
+ - date_published: 2024-07-02T16:03:31.828247+00:00
+
+ ## Vision Laboratory
+ - [https://vision.cs.yale.edu](https://vision.cs.yale.edu)
+ - date_published: 2024-07-08T23:52:37+00:00
+
+ ## Welcome to the Visitor Center | Yale Visitor Center
+ - [https://visitorcenter.yale.edu](https://visitorcenter.yale.edu)
+ - date_published: 2024-05-07T22:42:43.773305+00:00
+
+ ## Case Studies | Cases Volume 12
+ - [https://vol12.cases.som.yale.edu](https://vol12.cases.som.yale.edu)
+ - date_published: 2024-06-15T19:16:39.254152+00:00
+
+ ## Home
+ | Walden Peer Counseling
+ - [http://walden.sites.yale.edu](http://walden.sites.yale.edu)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Homepage
+ | Yale Library
+ - [https://web.library.yale.edu](https://web.library.yale.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Welcome
+ | Yale West Campus
+ - [https://westcampus.yale.edu](https://westcampus.yale.edu)
+ - date_published: 2024-07-02T14:57:21+00:00
+
+ ## Wright Laboratory
+ - [https://wlab.yale.edu](https://wlab.yale.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Maurice R. Greenberg World Fellows Program – At Yale University
+ - [https://worldfellows.yale.edu](https://worldfellows.yale.edu)
+ - date_published: 2024-06-23T12:22:27+00:00
+
+ ## Welcome
+ | International Toolkit
+ - [https://world-toolkit.yale.edu](https://world-toolkit.yale.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Yale and the World |
+ - [https://world.yale.edu](https://world.yale.edu)
+ - date_published: 2024-05-07T22:43:59.761008+00:00
+
+ ## redirecting...
+ - [https://www.eng.yale.edu](https://www.eng.yale.edu)
+ - date_published: 2016-05-25T16:11:51+00:00
+
+ ## Yale Sustainable Food Program
+ - [https://www.sustainablefood.yale.edu](https://www.sustainablefood.yale.edu)
+ - date_published: 2024-07-02T15:45:57.848991+00:00
+
+ ## Home - Yale University Press
+ - [https://yalebooks.yale.edu](https://yalebooks.yale.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Yale College
+ - [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Yale University
+ - [https://yaleconnect.yale.edu](https://yaleconnect.yale.edu)
+ - date_published: 2024-07-02T16:03:21.284611+00:00
+
  ## Yale University
  - [https://yale.edu](https://yale.edu)
  - date_published: 2024-05-07T22:43:02.347115+00:00
@@ -3916,104 +4023,4 @@
  ## Carwow | Disfruta el cambio de coche
  - [https://www.carwow.es](https://www.carwow.es)
  - date_published: 2024-06-18T15:52:32.070082+00:00
-
- ## Casa Batlló de Gaudí, Barcelona | Web oficial
- - [https://www.casabatllo.es](https://www.casabatllo.es)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Casa Gourmet | Tienda Online de Productos Gourmet
- - [https://www.casagourmet.es](https://www.casagourmet.es)
- - date_published: 2024-10-14T21:32:22.575938+00:00
-
- ## HOME
- - [https://casa-mediterraneo.es](https://casa-mediterraneo.es)
- - date_published: 2024-10-15T04:36:46.056750+00:00
-
- ## Descubre, disfruta, piensa y ven
- - [https://www.casamerica.es](https://www.casamerica.es)
- - date_published: 2024-08-08T19:03:39+00:00
-
- ## Mejores 50 casas de apuestas deportivas online | Julio 2024
- - [https://www.casasapuestasdeportivas.es](https://www.casasapuestasdeportivas.es)
- - date_published: 2024-07-17T04:42:09.594800+00:00
-
- ## Segunda Mano: Productos al mejor precio | Cash Converters
- - [https://www.cashconverters.es](https://www.cashconverters.es)
- - date_published: 2024-07-09T15:40:44.189250+00:00
-
- ## Homepage
- - [https://casinoble.es](https://casinoble.es)
- - date_published: 2024-09-19T20:32:21.699343+00:00
-
- ## Inicio | Ciudadanía Digital de Castilla-La Mancha
- - [https://ciudadaniadigital.castillalamancha.es](https://ciudadaniadigital.castillalamancha.es)
- - date_published: 2024-09-10T21:06:53.871986+00:00
-
- ## Inicio | Gobierno de Castilla-La Mancha
- - [https://www.castillalamancha.es](https://www.castillalamancha.es)
- - date_published: 2024-08-08T19:04:56.540673+00:00
-
- ## Catálogos online, Promociones y Ofertas -
- - [https://catalogosydescuentos.es](https://catalogosydescuentos.es)
- - date_published: 2024-05-11T10:50:56.470752+00:00
-
- ## Cataloxy   es un directorio de empresas y negocios. ¡Crea tu página web de presentación gratis!  España
- - [https://www.cataloxy.es](https://www.cataloxy.es)
- - date_published: 2024-06-29T19:39:38.243452+00:00
-
- ## Inicio - Cátedra de derecho notarial
- - [https://www.catedraderechonotarial.es](https://www.catedraderechonotarial.es)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## Cátedra de la Marca Corporativa de la Universidad de Alicante (España)
- - [https://catedramarcacorporativa.es](https://catedramarcacorporativa.es)
- - date_published: 2024-10-15T02:56:58.710789+00:00
-
- ## Web del Consejo de Cooperación Bibliotecaria - CCB
- - [http://www.ccbiblio.es](http://www.ccbiblio.es)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Consejo de Colegios de Ingeniería Informática
- - [https://ccii.es](https://ccii.es)
- - date_published: 2019-01-21T11:29:33+00:00
-
- ## Comisión Española de Ayuda al Refugiado - CEAR
- - [https://www.cear.es](https://www.cear.es)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## CEDID, Centro español de documentación e investigación sobre discapacidad
- - [https://cedid.es](https://cedid.es)
- - date_published: 2024-06-12T11:15:59.099211+00:00
-
- ## RIBERDIS
- - [http://riberdis.cedid.es](http://riberdis.cedid.es)
- - date_published: 2024-09-12T11:55:10.193102+00:00
-
- ## CEI: Centro de Estudios de Innovación - Diseño y Marketing
- - [https://cei.es](https://cei.es)
- - date_published: 2020-11-18T19:33:25+00:00
-
- ## Cepsa Particulares: Gasolineras, carga eléctrica y lavado cerca de ti
- - [https://www.cepsa.es](https://www.cepsa.es)
- - date_published: 2024-08-08T19:03:45.316148+00:00
-
- ## CERMI| Comité Español de Representantes de Personas con Discapacidad
- - [https://cermi.es](https://cermi.es)
- - date_published: 2024-06-12T11:16:00.778692+00:00
-
- ## Comunidad para la sostenibilidad del sector social | COMPASSS
- - [https://compasss.cermi.es](https://compasss.cermi.es)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Exámenes - Instituto Cervantes |
- - [https://examenes.cervantes.es](https://examenes.cervantes.es)
- - date_published: 2024-10-15T00:53:40+00:00
-
- ## Instituto Cervantes v Praze.
- - [https://praga.cervantes.es](https://praga.cervantes.es)
- - date_published: 2024-07-17T08:46:39.404249+00:00
-
- ## Instituto Cervantes
- - [http://www.cervantes.es](http://www.cervantes.es)
- - date_published: 2024-10-15T01:00:28+00:00
 

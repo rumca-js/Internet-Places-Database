@@ -1,3 +1,15 @@
+ ## Dazzle Camouflage
+ - [https://dazzlecamouflage.com](https://dazzlecamouflage.com)
+ - date_published: 2019-01-05T23:13:56+00:00
+
+ ## Home – Corporates and Institutions
+ - [https://corporates.db.com](https://corporates.db.com)
+ - date_published: 2024-09-25T12:20:59.877237+00:00
+
+ ## Deutsche Bank
+ - [https://db.com](https://db.com)
+ - date_published: 2024-07-10T03:23:08.854449+00:00
+
  ## Open Banking | Beyond PSD2 | Deutsche Bank API Program
  - [https://developer.db.com](https://developer.db.com)
  - date_published: 2024-08-22T14:35:21+00:00
@@ -4039,16 +4051,4 @@
  ## Demuxed, The Conference for Video Engineers
  - [https://2017.demuxed.com](https://2017.demuxed.com)
  - date_published: 2017-10-05T00:00:00+00:00
-
- ## Demuxed, The Conference for Video Engineers
- - [https://2018.demuxed.com](https://2018.demuxed.com)
- - date_published: 2024-07-20T04:42:03.516088+00:00
-
- ## Demuxed, The Conference for Video Engineers
- - [https://2019.demuxed.com](https://2019.demuxed.com)
- - date_published: 2024-07-20T04:42:10.159978+00:00
-
- ## Demuxed 2020
- - [https://2020.demuxed.com](https://2020.demuxed.com)
- - date_published: 2024-07-20T04:41:50.177152+00:00
 

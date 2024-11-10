@@ -1,3 +1,11 @@
+ ## Country and Town House | A Life in Balance
+ - [https://www.countryandtownhouse.com](https://www.countryandtownhouse.com)
+ - date_published: 2024-10-31T11:09:34+00:00
+
+ ## International Country Calling Codes and World Time Zones
+ - [https://www.countrycallingcodes.com](https://www.countrycallingcodes.com)
+ - date_published: 2024-07-02T15:59:03.436220+00:00
+
  ## Home
  - [https://countrycrock.com](https://countrycrock.com)
  - date_published: 2024-02-23T23:28:02.209553+00:00
@@ -2004,6 +2012,10 @@
  ## Making Memes Extreme - Crazy Shit
  - [https://crazyshit.com](https://crazyshit.com)
  - date_published: 2024-06-23T20:29:27.504863+00:00
+
+ ## Crazy Stupid Tech
+ - [https://crazystupidtech.com](https://crazystupidtech.com)
+ - date_published: 2024-11-09T23:08:35.014836+00:00
 
  ## Cristian Álvarez Belaustegui
  - [https://crbelaus.com](https://crbelaus.com)
@@ -4024,16 +4036,4 @@
  ## Cross Cutting Concerns
  - [https://crosscuttingconcerns.com](https://crosscuttingconcerns.com)
  - date_published: 2024-06-23T07:15:27.000743+00:00
-
- ## cross divisions .com by rafaël rozendaal, 2016
- - [https://www.crossdivisions.com](https://www.crossdivisions.com)
- - date_published: 2024-09-13T01:17:27+00:00
-
- ## Crossed Genres
- - [http://crossedgenres.com](http://crossedgenres.com)
- - date_published: 2024-07-04T13:57:47.936532+00:00
-
- ## Crossfire Consulting
- - [http://www.crossfireconsulting.com](http://www.crossfireconsulting.com)
- - date_published: 2024-06-21T09:18:40.653150+00:00
 

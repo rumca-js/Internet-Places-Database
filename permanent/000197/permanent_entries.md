@@ -1,3 +1,72 @@
+ ## Unfashionable | Sven Schnieders | Substack
+ - [https://unfashionable.substack.com](https://unfashionable.substack.com)
+ - date_published: 2023-10-25T10:07:06.313221+00:00
+ - tags: ['substack']
+
+ ## The Deep Dive | Unify AI | Substack
+ - [https://unifyai.substack.com](https://unifyai.substack.com)
+ - date_published: 2024-07-14T05:08:50.447535+00:00
+
+ ## Union Weekly | Joe Galvin | Substack
+ - [https://unionweekly.substack.com](https://unionweekly.substack.com)
+ - date_published: 2024-09-16T06:26:48.337454+00:00
+
+ ## Universal-Sci Weekly | Substack
+ - [https://universalsci.substack.com](https://universalsci.substack.com)
+ - date_published: 2024-05-06T21:16:04.529423+00:00
+
+ ## Unlearn | Substack
+ - [https://unlearnai.substack.com](https://unlearnai.substack.com)
+ - date_published: 2024-10-16T18:13:40.081658+00:00
+
+ ## Unreal Assets Daily CRE Update | Unreal Assets Staff | Substack
+ - [https://unreal.substack.com](https://unreal.substack.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## Unseen St. Louis | Jackie Dana | Substack
+ - [https://unseenstlouis.substack.com](https://unseenstlouis.substack.com)
+ - date_published: 2024-03-17T00:00:00+00:00
+
+ ## Unstabler Ontology | Jessica | Substack
+ - [https://unstablerontology.substack.com](https://unstablerontology.substack.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Untangled with Charley Johnson | Substack
+ - [https://untangled.substack.com](https://untangled.substack.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Ben @ Uphold.ai | Substack
+ - [https://uphold.substack.com](https://uphold.substack.com)
+ - date_published: 2024-10-30T20:40:13.367848+00:00
+
+ ## Upper90’s Newsletter | Substack
+ - [https://upper90capital.substack.com](https://upper90capital.substack.com)
+ - date_published: 2024-06-19T10:01:06.969757+00:00
+
+ ## Uranium-238 | Isabel | Substack
+ - [https://uranium238.substack.com](https://uranium238.substack.com)
+ - date_published: 2024-10-31T22:41:59.786059+00:00
+
+ ## Urbanomics | Substack
+ - [https://urbanomics.substack.com](https://urbanomics.substack.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## Use AI | Sjoerd Tiemensma | Substack
+ - [https://useai.substack.com](https://useai.substack.com)
+ - date_published: 2024-10-21T16:13:16.902543+00:00
+
+ ## https://usefulfictions.substack.com
+ - [https://usefulfictions.substack.com](https://usefulfictions.substack.com)
+ - date_published: 2024-01-13T15:01:08.490019+00:00
+
+ ## User Insight | Erman Misirlisoy, PhD | Substack
+ - [https://userinsight.substack.com](https://userinsight.substack.com)
+ - date_published: 2024-02-08T17:00:46.530379+00:00
+
+ ## Extra Credit | UT Austin Liberal Arts | Substack
+ - [https://utaustinliberalarts.substack.com](https://utaustinliberalarts.substack.com)
+ - date_published: 2024-05-13T00:00:00+00:00
+
  ## UX Movement Newsletter | Anthony | Substack
  - [https://uxmovement.substack.com](https://uxmovement.substack.com)
  - date_published: 2024-01-12T00:00:00+00:00
@@ -3966,72 +4035,4 @@
  ## Sustainability by numbers | Hannah Ritchie | Substack
  - [https://sustainabilitybynumbers.com](https://sustainabilitybynumbers.com)
  - date_published: 2023-11-05T15:52:28.331482+00:00
-
- ## Sustainability Expo | Where Tech Meets Sustainability
- - [https://sustainability-expo.com](https://sustainability-expo.com)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Sustainability Illustrated
- - [https://sustainabilityillustrated.com](https://sustainabilityillustrated.com)
- - date_published: 2024-05-08T11:27:56.646805+00:00
-
- ## Sustainability LIVE 2024
- - [https://sustainability-live.com](https://sustainability-live.com)
- - date_published: 2024-06-14T14:52:34+00:00
-
- ## The Global Sustainability & ESG Awards 2024
- - [https://awards.sustainabilitymag.com](https://awards.sustainabilitymag.com)
- - date_published: 2024-09-16T09:43:53+00:00
-
- ## Home of Sustainability News
- - [https://sustainabilitymag.com](https://sustainabilitymag.com)
- - date_published: 2024-09-16T13:29:09.863255+00:00
-
- ## Blockchain Education - Sustainable ADA
- - [https://sustainableada.com](https://sustainableada.com)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Global Events | Sustainable Brands
- - [https://events.sustainablebrands.com](https://events.sustainablebrands.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Sustainable Brands
- - [https://sustainablebrands.com](https://sustainablebrands.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## ESG Investing Data Research & Ratings :: Sustainable Fitch
- - [https://www.sustainablefitch.com](https://www.sustainablefitch.com)
- - date_published: 2024-10-27T18:56:20.083094+00:00
-
- ## Sustainable Fuels Europe Summit | 17 June  2025 | IFEMA, Madrid
- - [https://www.sustainablefuelseurope.com](https://www.sustainablefuelseurope.com)
- - date_published: 2024-09-04T02:20:25.047485+00:00
-
- ## Sustainable Website Hosts
- - [https://sustainablehosts.com](https://sustainablehosts.com)
- - date_published: 2024-06-28T16:02:04.070087+00:00
-
- ## https://www.sustainableplastics.com
- - [https://sustainableplastics.com](https://sustainableplastics.com)
- - date_published: 2023-10-25T17:19:58.477450+00:00
-
- ## Sustainable Pulse
- - [http://sustainablepulse.com](http://sustainablepulse.com)
- - date_published: 2024-09-16T20:03:08.788759+00:00
-
- ## Sustainable Web Development with Ruby on Rails
- - [https://sustainable-rails.com](https://sustainable-rails.com)
- - date_published: 2023-12-08T02:04:05+00:00
-
- ## Sustainable Secure Food Blog
- - [https://sustainable-secure-food-blog.com](https://sustainable-secure-food-blog.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Homepage - Sustainable Views
- - [https://www.sustainableviews.com](https://www.sustainableviews.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Sustainable Web Manifesto
- - [https://www.sustainablewebmanifesto.com](https://www.sustainablewebmanifesto.com)
- - date_published: 2023-02-16T00:00:00+00:00
 

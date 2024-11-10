@@ -1,3 +1,27 @@
+ ## Legal News | Latest Legal Industry News, Supreme Court News, Judgement and Updates: ET LegalWorld
+ - [https://legal.economictimes.indiatimes.com](https://legal.economictimes.indiatimes.com)
+ - date_published: 2024-08-19T08:55:27+00:00
+
+ ## ET Manufacturing | Latest Manufacturing News
+ - [https://manufacturing.economictimes.indiatimes.com](https://manufacturing.economictimes.indiatimes.com)
+ - date_published: 2024-08-19T08:54:54+00:00
+
+ ## Maharashtra Times
+ - [https://marathi.indiatimes.com](https://marathi.indiatimes.com)
+ - date_published: 2024-06-26T08:23:01+00:00
+
+ ## Executive Training Programmes | ETMasterclass
+ - [https://masterclass.economictimes.indiatimes.com](https://masterclass.economictimes.indiatimes.com)
+ - date_published: 2024-08-19T00:13:20+00:00
+
+ ## Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Lok Sabha Election Result 2024 News in Marathi | Maharashtra Times
+ - [https://mtpwafeeds.indiatimes.com](https://mtpwafeeds.indiatimes.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Mumbai News – Latest and Breaking Mumbai News | Mumbai Mirror
+ - [https://mumbaimirror.indiatimes.com](https://mumbaimirror.indiatimes.com)
+ - date_published: 2024-06-22T20:28:06.252133+00:00
+
  ## My Times - Times of India
  - [http://mytimes.indiatimes.com](http://mytimes.indiatimes.com)
  - date_published: 2024-06-26T08:42:55+00:00
@@ -2759,6 +2783,10 @@
  - [https://www.inkhive.com](https://www.inkhive.com)
  - date_published: 2024-06-29T07:51:54.703461+00:00
 
+ ## inkl – The world’s news at your fingertips
+ - [https://www.inkl.com](https://www.inkl.com)
+ - date_published: 2024-11-09T08:58:09.186399+00:00
+
  ## Inkless Editions
  - [http://www.inklesseditions.com](http://www.inklesseditions.com)
  - date_published: 2023-05-15T19:32:48+00:00
@@ -3998,32 +4026,4 @@
  ## Shop IG
  - [https://igstore.insightglobal.com](https://igstore.insightglobal.com)
  - date_published: 2024-08-20T00:00:00+00:00
-
- ## Home Page V2
- - [https://insightglobal.com](https://insightglobal.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Log in
- - [https://portal.insightglobal.com](https://portal.insightglobal.com)
- - date_published: 2024-09-05T22:37:06.675877+00:00
-
- ## Cierpliwości...
- - [https://metaverse.insighthack.com](https://metaverse.insighthack.com)
- - date_published: 2024-06-19T20:35:26.265337+00:00
-
- ## Welcome to Insight Investment
- - [https://www.insightinvestment.com](https://www.insightinvestment.com)
- - date_published: 2024-08-17T23:50:45.157973+00:00
-
- ## InsightJini: Chat with your Data and get Instant Insights!
- - [https://insightjini.com](https://insightjini.com)
- - date_published: 2024-07-05T10:45:49+00:00
-
- ## In-Sight Publishing
- - [https://in-sightjournal.com](https://in-sightjournal.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Insightly | The modern, scalable CRM teams love
- - [https://insightly.com](https://insightly.com)
- - date_published: 2024-05-28T00:00:00+00:00
 

@@ -1,3 +1,103 @@
+ ## Login - Academica
+ - [https://academica.aws.wayne.edu](https://academica.aws.wayne.edu)
+ - date_published: 2024-07-02T14:00:04.199469+00:00
+
+ ## Welcome
+ - [https://accessibility.wayne.edu](https://accessibility.wayne.edu)
+ - date_published: 2024-07-02T13:51:08.411600+00:00
+
+ ## Office of Alumni Relations
+ - [https://alumni.wayne.edu](https://alumni.wayne.edu)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Archivematica Dashboard -
+ - [https://archivematica.library.wayne.edu](https://archivematica.library.wayne.edu)
+ - date_published: 2024-07-02T14:00:07.886480+00:00
+
+ ## Login - Academica
+ - [https://canvas.wayne.edu](https://canvas.wayne.edu)
+ - date_published: 2024-07-02T13:59:36.202404+00:00
+
+ ## A degree in chemistry
+ - [http://chem.wayne.edu](http://chem.wayne.edu)
+ - date_published: 2024-06-17T12:17:52.857027+00:00
+
+ ## Welcome
+ - [https://clas.wayne.edu](https://clas.wayne.edu)
+ - date_published: 2024-07-02T13:51:00.158994+00:00
+
+ ## Computing & Information Technology - Wayne State University
+ - [https://computing.wayne.edu](https://computing.wayne.edu)
+ - date_published: 2017-04-07T00:00:00+00:00
+
+ ## Welcome
+ - [https://diversity.wayne.edu](https://diversity.wayne.edu)
+ - date_published: 2024-07-02T13:51:03.941990+00:00
+
+ ## Your student life
+ - [https://doso.wayne.edu](https://doso.wayne.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Welcome
+ - [https://education.wayne.edu](https://education.wayne.edu)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Main Events Calendar - Wayne State University Events Calendar
+ - [https://events.wayne.edu](https://events.wayne.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Welcome, please login using your AccessID and Password - Formy
+ - [https://forms.wayne.edu](https://forms.wayne.edu)
+ - date_published: 2024-05-07T22:28:03.359705+00:00
+
+ ## Login - GitLab
+ - [https://git.wayne.edu](https://git.wayne.edu)
+ - date_published: 2024-07-02T14:00:10.781970+00:00
+
+ ## Giving
+ - [https://giving.wayne.edu](https://giving.wayne.edu)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Wayne State University
+ - [https://go.wayne.edu](https://go.wayne.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Time is precious. We'll help you make the most of yours.
+ - [https://housing.wayne.edu](https://housing.wayne.edu)
+ - date_published: 2021-03-24T00:00:00+00:00
+
+ ## Welcome
+ - [https://hr.wayne.edu](https://hr.wayne.edu)
+ - date_published: 2024-07-02T13:58:52.652714+00:00
+
+ ## Welcome
+ - [https://irda.wayne.edu](https://irda.wayne.edu)
+ - date_published: 2017-10-03T00:00:00+00:00
+
+ ## Career Opportunities
+ - [https://jobs.wayne.edu](https://jobs.wayne.edu)
+ - date_published: 2024-07-02T13:51:23.847863+00:00
+
+ ## Wayne State University Libraries
+ - [https://library.wayne.edu](https://library.wayne.edu)
+ - date_published: 2024-07-02T13:51:21.550453+00:00
+
+ ## Login - Academica
+ - [https://login.wayne.edu](https://login.wayne.edu)
+ - date_published: 2024-05-07T22:28:05.167624+00:00
+
+ ## Campus Map - Wayne State University
+ - [https://maps.wayne.edu](https://maps.wayne.edu)
+ - date_published: 2024-07-02T13:50:53.761377+00:00
+
+ ## People
+ - [https://people.wayne.edu](https://people.wayne.edu)
+ - date_published: 2024-07-03T22:08:21.562937+00:00
+
+ ## Police and campus safety
+ - [https://police.wayne.edu](https://police.wayne.edu)
+ - date_published: 2024-07-02T13:51:12.274659+00:00
+
  ## Welcome from the president
  - [https://president.wayne.edu](https://president.wayne.edu)
  - date_published: 2024-07-02T13:58:37.023647+00:00
@@ -3946,111 +4046,4 @@
  | Office of the Secretary and Vice President for University Life
  - [http://studentlife.yale.edu](http://studentlife.yale.edu)
  - date_published: 2024-07-02T15:43:58+00:00
-
- ## Student Resources
- | IT at Yale
- - [https://studenttechnology.yale.edu](https://studenttechnology.yale.edu)
- - date_published: 2024-05-07T22:42:13.027761+00:00
-
- ## Yale Summer Session
- - [https://summer.yale.edu](https://summer.yale.edu)
- - date_published: 2024-07-02T14:51:34+00:00
-
- ## Home | Yale Sustainability
- - [https://sustainability.yale.edu](https://sustainability.yale.edu)
- - date_published: 2024-07-02T12:50:09+00:00
-
- ## Welcome
- | Timothy Dwight College
- - [https://timothydwight.yalecollege.yale.edu](https://timothydwight.yalecollege.yale.edu)
- - date_published: 2024-07-02T13:23:53+00:00
-
- ## Tobin Center for Economic Policy
- - [https://tobin.yale.edu](https://tobin.yale.edu)
- - date_published: 2024-07-14T13:36:10+00:00
-
- ## Usability & Web Accessibility | Create useful, usable websites that meet the needs of your audience
- - [https://usability.yale.edu](https://usability.yale.edu)
- - date_published: 2024-05-07T22:41:03.128353+00:00
-
- ## Welcome
- | Department of Mathematics
- - [https://users.math.yale.edu](https://users.math.yale.edu)
- - date_published: 2024-05-28T04:48:51.458519+00:00
-
- ## Yale Ventures at Yale University | Innovation and Entrepreneurship
- - [https://ventures.yale.edu](https://ventures.yale.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Application Unavailable | IT at Yale
- - [https://veritas.its.yale.edu](https://veritas.its.yale.edu)
- - date_published: 2024-05-07T22:42:36.117435+00:00
-
- ## Error
- - [https://view.message.yale.edu](https://view.message.yale.edu)
- - date_published: 2024-07-02T16:03:31.828247+00:00
-
- ## Vision Laboratory
- - [https://vision.cs.yale.edu](https://vision.cs.yale.edu)
- - date_published: 2024-07-08T23:52:37+00:00
-
- ## Welcome to the Visitor Center | Yale Visitor Center
- - [https://visitorcenter.yale.edu](https://visitorcenter.yale.edu)
- - date_published: 2024-05-07T22:42:43.773305+00:00
-
- ## Case Studies | Cases Volume 12
- - [https://vol12.cases.som.yale.edu](https://vol12.cases.som.yale.edu)
- - date_published: 2024-06-15T19:16:39.254152+00:00
-
- ## Home
- | Walden Peer Counseling
- - [http://walden.sites.yale.edu](http://walden.sites.yale.edu)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Homepage
- | Yale Library
- - [https://web.library.yale.edu](https://web.library.yale.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Welcome
- | Yale West Campus
- - [https://westcampus.yale.edu](https://westcampus.yale.edu)
- - date_published: 2024-07-02T14:57:21+00:00
-
- ## Wright Laboratory
- - [https://wlab.yale.edu](https://wlab.yale.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Maurice R. Greenberg World Fellows Program – At Yale University
- - [https://worldfellows.yale.edu](https://worldfellows.yale.edu)
- - date_published: 2024-06-23T12:22:27+00:00
-
- ## Welcome
- | International Toolkit
- - [https://world-toolkit.yale.edu](https://world-toolkit.yale.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Yale and the World |
- - [https://world.yale.edu](https://world.yale.edu)
- - date_published: 2024-05-07T22:43:59.761008+00:00
-
- ## redirecting...
- - [https://www.eng.yale.edu](https://www.eng.yale.edu)
- - date_published: 2016-05-25T16:11:51+00:00
-
- ## Yale Sustainable Food Program
- - [https://www.sustainablefood.yale.edu](https://www.sustainablefood.yale.edu)
- - date_published: 2024-07-02T15:45:57.848991+00:00
-
- ## Home - Yale University Press
- - [https://yalebooks.yale.edu](https://yalebooks.yale.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Yale College
- - [https://yalecollege.yale.edu](https://yalecollege.yale.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Yale University
- - [https://yaleconnect.yale.edu](https://yaleconnect.yale.edu)
- - date_published: 2024-07-02T16:03:21.284611+00:00
 

@@ -1,3 +1,7 @@
+ ## Toc de somatent!
+ - [http://tocdesomatent.blogspot.com](http://tocdesomatent.blogspot.com)
+ - date_published: 2024-07-02T06:23:14+00:00
+
  ## Today in Mesopotamia
  - [http://todayinmesopotamia.blogspot.com](http://todayinmesopotamia.blogspot.com)
  - date_published: 2024-06-20T17:50:13+00:00
@@ -4004,8 +4008,4 @@
  ## Primeval Papa
  - [http://www.primevalpapa.blogspot.com](http://www.primevalpapa.blogspot.com)
  - date_published: 2024-04-08T17:55:29+00:00
-
- ## Public Defender Dude
- - [http://www.publicdefenderdude.blogspot.com](http://www.publicdefenderdude.blogspot.com)
- - date_published: 2024-07-12T07:20:25+00:00
 

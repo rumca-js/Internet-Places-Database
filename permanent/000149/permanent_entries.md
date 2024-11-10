@@ -1,3 +1,51 @@
+ ## Careers at Moody's
+ - [https://careers.moodys.com](https://careers.moodys.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Climate Risk Management - Moody's
+ - [https://climate.moodys.com](https://climate.moodys.com)
+ - date_published: 2024-07-05T17:15:19+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://ir.moodys.com](https://ir.moodys.com)
+ - date_published: 2024-07-19T20:33:50.806663+00:00
+
+ ## Moody's - credit ratings, research, and data for global capital markets
+ - [https://moodys.com](https://moodys.com)
+ - date_published: 2024-01-30T19:27:39.027867+00:00
+
+ ## Ratings.Moodys.com
+ - [http://ratings.moodys.com](http://ratings.moodys.com)
+ - date_published: 2024-07-05T09:23:33+00:00
+
+ ## Commercial Real Estate Data Analytics | Moody's CRE
+ - [https://cre.moodysanalytics.com](https://cre.moodysanalytics.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Moogfest — CyKiK
+ - [http://moogfest.com](http://moogfest.com)
+ - date_published: 2024-06-23T07:03:51.789514+00:00
+
+ ## Moogfest | May 19-22, 2016
+ - [http://partner.moogfest.com](http://partner.moogfest.com)
+ - date_published: 2016-03-02T18:21:36+00:00
+
+ ## APEX AIOps
+ - [https://docs.moogsoft.com](https://docs.moogsoft.com)
+ - date_published: 2024-08-14T18:04:09+00:00
+
+ ## Moogsoft Research | Improving AI Research for IT Operations
+ - [https://research.moogsoft.com](https://research.moogsoft.com)
+ - date_published: 2020-02-07T00:00:00+00:00
+
+ ## Moogsoft | Industry Leading AIOps Platform for IT Operations
+ - [https://www.moogsoft.com](https://www.moogsoft.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Moogulator - Britzelpop - concerts, releases
+ - [https://www.moogulator.com](https://www.moogulator.com)
+ - date_published: 2020-10-09T18:01:48+00:00
+
  ## Moo Jin Kim
  - [https://moojink.com](https://moojink.com)
  - date_published: 2024-06-17T20:51:04+00:00
@@ -3989,54 +4037,4 @@
  - [https://muddasheep.com](https://muddasheep.com)
  - date_published: 2024-06-06T11:57:31+00:00
  - tags: ['personal']
-
- ## Personal Halfquake
- - [https://phq.muddasheep.com](https://phq.muddasheep.com)
- - date_published: 2024-06-06T11:47:55.410624+00:00
- - tags: ['half-life', 'video game mod']
-
- ## Muddasheep's Store
- - [https://store.muddasheep.com](https://store.muddasheep.com)
- - date_published: 2024-06-06T12:01:38.390680+00:00
-
- ## Muddlegeist Software – Yeah, a job would be nice. Thanks!
- - [https://www.muddlegeist.com](https://www.muddlegeist.com)
- - date_published: 2024-07-07T05:14:47.304588+00:00
-
- ## Muddy Bites | Bite Sized Waffle Cones Filled with Chocolate!
- - [https://muddybites.com](https://muddybites.com)
- - date_published: 2024-04-29T04:30:20.917790+00:00
-
- ## Home
- - [https://www.muddycolors.com](https://www.muddycolors.com)
- - date_published: 2024-07-19T23:40:08.456960+00:00
-
- ## Mudflap
- - [https://api.mudflapinc.com](https://api.mudflapinc.com)
- - date_published: 2024-09-14T09:57:35.785958+00:00
-
- ## Mudflap
- - [https://dashboard.mudflapinc.com](https://dashboard.mudflapinc.com)
- - date_published: 2024-09-14T09:57:32.111549+00:00
-
- ## Mudflap Fleet
- - [https://fleet.mudflapinc.com](https://fleet.mudflapinc.com)
- - date_published: 2024-09-13T20:01:11+00:00
-
- ## Mudflap - Best Fuel Discounts for Truckers
- - [https://mudflapinc.com](https://mudflapinc.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## MudGate: Heroes of the Sanctuary
- - [https://mudgate.com](https://mudgate.com)
- - date_published: 2024-04-24T19:46:54+00:00
- - tags: ['mud game']
-
- ## Polski Producent Budzików i Telefonów - Poznaj Mudita
- - [https://mudita.com](https://mudita.com)
- - date_published: 2024-08-18T08:22:57.645322+00:00
-
- ## MUD Jeans | Circular Denim
- - [https://mudjeans.com](https://mudjeans.com)
- - date_published: 2024-09-04T00:00:00+00:00
 

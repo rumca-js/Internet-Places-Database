@@ -2732,10 +2732,6 @@
  - [https://beeldsterk.com](https://beeldsterk.com)
  - date_published: 2024-11-08T11:35:29.042465+00:00
 
- ## Videoproductiebedrijf Beeldsterk - video met impact
- - [https://www.beeldsterk.com](https://www.beeldsterk.com)
- - date_published: 2024-11-08T11:35:27.246254+00:00
-
  ## Beelinguapp | Learn languages with music & audiobooks
  - [https://beelinguapp.com](https://beelinguapp.com)
  - date_published: 2024-06-23T11:48:15.478987+00:00
@@ -4015,4 +4011,8 @@
  ## Ben Bashford - Journal
  - [http://journal.benbashford.com](http://journal.benbashford.com)
  - date_published: 2024-09-14T22:49:55.300148+00:00
+
+ ## BEN B. SCHWARTZ & SONS
+ - [http://www.benbdetroit.com](http://www.benbdetroit.com)
+ - date_published: 2024-09-16T12:29:42.269359+00:00
 

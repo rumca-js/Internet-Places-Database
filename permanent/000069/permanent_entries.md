@@ -1,3 +1,11 @@
+ ## Business Travel News
+ - [https://businesstravelnews.com](https://businesstravelnews.com)
+ - date_published: 2024-05-08T04:01:05.261795+00:00
+
+ ## The BTN Group
+ - [https://sales.businesstravelnews.com](https://sales.businesstravelnews.com)
+ - date_published: 2024-07-03T20:43:13.792642+00:00
+
  ## Business Travel News Europe | Business Travel News Europe
  - [https://businesstravelnewseurope.com](https://businesstravelnewseurope.com)
  - date_published: 2023-10-25T13:15:19.832394+00:00
@@ -4028,12 +4036,4 @@
  ## Cam Pegg: Digital product and strategy guy
  - [https://campegg.com](https://campegg.com)
  - date_published: 2024-08-08T12:44:27.350275+00:00
-
- ## Camper Shoes - Official Online Shop Poland
- - [https://www.camper.com](https://www.camper.com)
- - date_published: 2024-07-09T15:41:06.155656+00:00
-
- ## Camperguru — Best camping spots
- - [https://www.camperguru.com](https://www.camperguru.com)
- - date_published: 2024-10-19T02:23:57.072594+00:00
 

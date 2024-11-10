@@ -1,3 +1,134 @@
+ ## Te Herenga Waka — Victoria University of Wellington
+ - [https://people.wgtn.ac.nz](https://people.wgtn.ac.nz)
+ - date_published: 2024-07-01T20:23:22.924541+00:00
+
+ ## Home
+		 | Pūaha | Victoria University of Wellington
+ - [https://puaha.wgtn.ac.nz](https://puaha.wgtn.ac.nz)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Where do you stand?
+ - [https://wellington.wgtn.ac.nz](https://wellington.wgtn.ac.nz)
+ - date_published: 2023-03-23T01:10:01+00:00
+
+ ## Victoria University of Wellington
+ - [https://wgtn.ac.nz](https://wgtn.ac.nz)
+ - date_published: 2022-08-23T22:24:40+00:00
+
+ ## Te Pūkenga – New Zealand Institute of Skills and Technology
+ - [https://www.xn--tepkenga-szb.ac.nz](https://www.xn--tepkenga-szb.ac.nz)
+ - date_published: 2024-07-03T23:09:49.893615+00:00
+
+ ## NZ Music Reviews & Interviews | The 13th Floor
+ - [https://13thfloor.co.nz](https://13thfloor.co.nz)
+ - date_published: 2024-10-31T21:29:35+00:00
+
+ ## 1News
+ - [https://www.1news.co.nz](https://www.1news.co.nz)
+ - date_published: 2024-05-04T05:50:41.824531+00:00
+
+ ## 3M Science. Applied to Life. | 3M New Zealand
+ - [https://www.3mnz.co.nz](https://www.3mnz.co.nz)
+ - date_published: 2024-08-06T10:37:40.281185+00:00
+
+ ## Science and Technology News and Commentary: Aardvark Daily
+ - [https://aardvark.co.nz](https://aardvark.co.nz)
+ - date_published: 2024-05-29T20:57:06.618700+00:00
+ - tags: ['science news', 'tech news']
+
+ ## New Zealand’s Leading Recruitment Agency | Adecco NZ
+ - [http://www.adecco.co.nz](http://www.adecco.co.nz)
+ - date_published: 2024-10-29T04:25:51.693613+00:00
+
+ ## NZME AdHub Campaign Manager
+ - [https://digital.adhub.co.nz](https://digital.adhub.co.nz)
+ - date_published: 2024-08-18T21:20:21.129095+00:00
+
+ ## adidas Official Website | adidas New Zealand
+ - [https://www.adidas.co.nz](https://www.adidas.co.nz)
+ - date_published: 2024-07-14T12:14:51.106677+00:00
+
+ ## NZAero Home : NZAero
+ - [http://www.aerospace.co.nz](http://www.aerospace.co.nz)
+ - date_published: 2024-07-09T22:16:28.364318+00:00
+
+ ## Airbnb | Holiday rentals, cabins, beach houses & more
+ - [https://airbnb.co.nz](https://airbnb.co.nz)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Staff Login | Air Napier - Staff | Flights around New Zealand
+ - [https://staff.airnapier.co.nz](https://staff.airnapier.co.nz)
+ - date_published: 2024-08-07T11:52:50.618575+00:00
+
+ ## Private & Nationwide JET Charters | FBO | Air Napier
+ - [https://www.airnapier.co.nz](https://www.airnapier.co.nz)
+ - date_published: 2024-08-07T11:52:57.273381+00:00
+
+ ## Air New Zealand | Flights to more than 260 destinations
+ - [https://airnewzealand.co.nz](https://airnewzealand.co.nz)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Air New Zealand | Flights, Hotels & Rental Cars
+ - [https://auth.airnewzealand.co.nz](https://auth.airnewzealand.co.nz)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Air New Zealand Careers
+ - [https://careers.airnewzealand.co.nz](https://careers.airnewzealand.co.nz)
+ - date_published: 2024-07-03T23:07:20.802635+00:00
+
+ ## Air New Zealand | Flights, Hotels & Rental Cars
+ - [https://flightbookings.airnewzealand.co.nz](https://flightbookings.airnewzealand.co.nz)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Logistics & Specialist Transportation
+		 | Alexander Group
+ - [https://alexandergroup.co.nz](https://alexandergroup.co.nz)
+ - date_published: 2024-05-01T03:59:04.430428+00:00
+
+ ## Alfa Romeo New Zealand: Premium Italian Cars
+ - [http://www.alfaromeo.co.nz](http://www.alfaromeo.co.nz)
+ - date_published: 2024-07-12T06:15:14.325852+00:00
+
+ ## allbirds.co.nz
+ - [https://www.allbirds.co.nz](https://www.allbirds.co.nz)
+ - date_published: 2024-06-29T05:20:21.087256+00:00
+
+ ## Allegion NZ Homepage
+ - [https://www.allegion.co.nz](https://www.allegion.co.nz)
+ - date_published: 2024-07-09T08:08:55+00:00
+
+ ## Alpha Domus Winery & Cellar Door | Winery New Zealand
+ - [https://alphadomus.co.nz](https://alphadomus.co.nz)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## Alpha Rail - Rail Design, Consultancy, Construction and Plant
+ - [https://alpharail.co.nz](https://alpharail.co.nz)
+ - date_published: 2023-10-25T20:49:14.642345+00:00
+
+ ## ANZ Bank New Zealand
+ - [https://comms.anz.co.nz](https://comms.anz.co.nz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Sign In
+ - [https://fund.anz.co.nz](https://fund.anz.co.nz)
+ - date_published: 2024-09-28T20:48:59.995165+00:00
+
+ ## Financial wellbeing | ANZ
+ - [https://fwb.anz.co.nz](https://fwb.anz.co.nz)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Find help | ANZ
+ - [https://help.anz.co.nz](https://help.anz.co.nz)
+ - date_published: 2024-09-28T20:49:07.998643+00:00
+
+ ## ANZ Bank New Zealand
+ - [https://www.anz.co.nz](https://www.anz.co.nz)
+ - date_published: 2024-06-15T19:16:47+00:00
+
+ ## Home - Apata
+ - [https://www.apata.co.nz](https://www.apata.co.nz)
+ - date_published: 2024-09-06T01:50:26+00:00
+
  ## Home
  - [http://architecturenow.co.nz](http://architecturenow.co.nz)
  - date_published: 2024-07-21T06:41:50.762216+00:00
@@ -3898,134 +4029,4 @@ I post about Tech, Privacy, Games...
  ## BANTEN CILEGON
  - [https://www.bantencilegon.online](https://www.bantencilegon.online)
  - date_published: 2024-08-20T04:08:05.108404+00:00
-
- ## Base64 Decoder
- - [https://base64-decode.online](https://base64-decode.online)
- - date_published: 2024-07-09T14:53:53.038577+00:00
-
- ## Base64 Encoder
- - [https://base64-encode.online](https://base64-encode.online)
- - date_published: 2024-07-09T14:53:53.971409+00:00
-
- ## Rebecca Owen
- - [https://beccais.online](https://beccais.online)
- - date_published: 2023-12-25T17:17:34.309163+00:00
- - tags: ['personal']
-
- ## BENGKULU
- - [https://www.bengkulu.online](https://www.bengkulu.online)
- - date_published: 2024-08-20T04:30:34.584117+00:00
-
- ## BESC - First Blockchain Energy Savings Consortium in Malaysia
- - [https://www.besc.online](https://www.besc.online)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## BIG POTATO – Grzegorz gada bez sensu!
- - [https://bigpotato.online](https://bigpotato.online)
- - date_published: 2024-09-02T08:41:59.500067+00:00
- - tags: ['personal']
-
- ## Home - BSFV
- - [https://www.bsfv.online](https://www.bsfv.online)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Бизнес Журнал Федеральный
- - [https://business-magazine.online](https://business-magazine.online)
- - date_published: 2024-10-22T12:40:08.880485+00:00
-
- ## Центр Бизнес Журнал
- - [https://center.business-magazine.online](https://center.business-magazine.online)
- - date_published: 2024-10-22T12:40:26.378860+00:00
-
- ## Checkly Status
- - [https://is.checkly.online](https://is.checkly.online)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## ChessDiagram.online
- - [https://chessdiagram.online](https://chessdiagram.online)
- - date_published: 2022-08-14T14:56:01+00:00
-
- ## Child Protection Resource | Collecting information, resources and support for everyone involved in the child protection system in the UK
- - [http://childprotectionresource.online](http://childprotectionresource.online)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Chillin - Next-Gen AI Video & Motion Editor
- - [https://chillin.online](https://chillin.online)
- - date_published: 2024-09-02T09:51:30.714652+00:00
-
- ## Code Blue | Grove Atlantic
- - [http://www.codeblue.online](http://www.codeblue.online)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## CoMake开发者社区
- - [http://comake.online](http://comake.online)
- - date_published: 2024-07-10T03:11:20.129546+00:00
-
- ## Commonplace
- - [https://commonplace.online](https://commonplace.online)
- - date_published: 2023-10-28T19:11:46.865259+00:00
-
- ## Contratar Online - Comparador de precios y ofertas
- - [https://contratar.online](https://contratar.online)
- - date_published: 2018-08-02T12:11:02+00:00
-
- ## CppExpert | The best way to Learn C++ for free
- - [https://cppexpert.online](https://cppexpert.online)
- - date_published: 2024-11-08T19:40:46.913806+00:00
-
- ## Home | CREATE e-Academy
- - [https://www.createacademy.online](https://www.createacademy.online)
- - date_published: 2024-07-09T23:21:33.839865+00:00
-
- ## Best Crypto Casinos in 2024 Play Online With BTC ETH LTC
- - [https://cryptocasinos.online](https://cryptocasinos.online)
- - date_published: 2024-10-30T23:32:35+00:00
-
- ## Cryptopiece
- - [https://cryptopiece.online](https://cryptopiece.online)
- - date_published: 2021-12-05T00:00:00+00:00
-
- ## In Solidarity with Library Genesis and Sci-hub
- - [https://custodians.online](https://custodians.online)
- - date_published: 2018-10-21T11:28:15+00:00
-
- ## Cyberika: Mobile Action Cyberpunk RPG
- - [https://cyberika.online](https://cyberika.online)
- - date_published: 2023-04-24T09:51:01+00:00
-
- ## Home - Cyber Kick-Back
- - [https://cyberkickback.online](https://cyberkickback.online)
- - date_published: 2023-09-27T19:45:26+00:00
-
- ## DAERAH ISTIMEWA YOGYAKARTA
- - [https://www.daerahistimewayogyakarta.online](https://www.daerahistimewayogyakarta.online)
- - date_published: 2024-08-20T04:09:58.772613+00:00
-
- ## The Secure Engineer
- - [https://tech.daher.online](https://tech.daher.online)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## ورود به سایت دنس بت بدون فیلتر | دانلود برنامه دنس بت برای اندروید
- - [http://dancebetvorod.online](http://dancebetvorod.online)
- - date_published: 2024-08-08T11:57:35.789126+00:00
-
- ## Online DDoS Attack Simulation - ddosattack.online
- - [https://ddosattack.online](https://ddosattack.online)
- - date_published: 2024-06-28T15:45:34.928327+00:00
-
- ## Dead End Shrine Online
- - [https://deadendshrine.online](https://deadendshrine.online)
- - date_published: 2024-05-06T15:04:27.458840+00:00
-
- ## Death Grips - Death Grips is Online
- - [http://deathgripsis.online](http://deathgripsis.online)
- - date_published: 2018-06-22T04:33:30+00:00
-
- ## Data Engineering Design Patterns (DEDP)
- - [https://dedp.online](https://dedp.online)
- - date_published: 2023-12-07T15:51:49+00:00
-
- ## The Design of Forms in Government departments
- - [https://design-of-forms.online](https://design-of-forms.online)
- - date_published: 2024-07-02T18:29:41.111476+00:00
 

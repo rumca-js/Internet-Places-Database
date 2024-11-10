@@ -1,3 +1,16 @@
+ ## EDISOUND - Log in
+ - [https://publishers.edisound.com](https://publishers.edisound.com)
+ - date_published: 2024-07-01T08:33:56.151371+00:00
+
+ ## English Editing Services, Professional Editing Services | Editage
+ - [https://editage.com](https://editage.com)
+ - date_published: 2024-10-29T20:42:18.728521+00:00
+
+ ## Publication-Focused Editing services | Wolters Kluwer in partnership with Editage | Lippincott Williams &
+        Wilkins | Medknow
+ - [https://wkauthorservices.editage.com](https://wkauthorservices.editage.com)
+ - date_published: 2024-06-26T07:48:19+00:00
+
  ## 606 Evertonians - Portal
  - [http://evertoniansof606.editboard.com](http://evertoniansof606.editboard.com)
  - date_published: 2024-10-17T19:05:14.624680+00:00
@@ -4020,16 +4033,4 @@
  ## Homepage - Elisa IndustrIQ
  - [http://www.elisaindustriq.com](http://www.elisaindustriq.com)
  - date_published: 2024-08-16T00:00:00+00:00
-
- ## Bowler Hat Fox, LLC
- - [http://www.elisashoenberger.com](http://www.elisashoenberger.com)
- - date_published: 2024-07-04T04:49:45.342538+00:00
-
- ## Dr. Elisa Tersigni
- - [https://elisatersigni.com](https://elisatersigni.com)
- - date_published: 2024-06-29T10:13:50.427710+00:00
-
- ## A cup of dev by Eli H. Schei
- - [https://elischei.com](https://elischei.com)
- - date_published: 2024-07-02T17:13:36.340131+00:00
 

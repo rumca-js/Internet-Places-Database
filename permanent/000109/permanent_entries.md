@@ -1,3 +1,19 @@
+ ## Myagi | Software That Helps Brands & Retailers Sell Better Together
+ - [https://getmyagi.com](https://getmyagi.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Automatisiertes Rechnungsmanagement - GetMyInvoices
+ - [http://getmyinvoices.com](http://getmyinvoices.com)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Welcome getmyth.com - BlueHost.com
+ - [http://getmyth.com](http://getmyth.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Nametag: Identity Verification for Helpdesks
+ - [https://getnametag.com](https://getnametag.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
  ## Nametag | Trust Center
  - [https://trust.getnametag.com](https://trust.getnametag.com)
  - date_published: 2024-07-14T04:46:11.322270+00:00
@@ -3182,6 +3198,16 @@
  - date_published: 2024-11-08T19:40:53+00:00
  - tags: ['c++']
 
+ ## GitHub - infinition/Bjorn: Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
+ - [https://github.com/infinition/Bjorn](https://github.com/infinition/Bjorn)
+ - date_published: 2024-11-09T18:33:03+00:00
+ - tags: ['hacking', 'cybersecurity']
+
+ ## GitHub - 7h30th3r0n3/Evil-M5Core2: Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
+ - [https://github.com/7h30th3r0n3/Evil-M5Core2](https://github.com/7h30th3r0n3/Evil-M5Core2)
+ - date_published: 2024-11-09T18:45:21+00:00
+ - tags: ['hacking']
+
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
  - date_published: 2024-04-18T13:56:46+00:00
@@ -4019,29 +4045,4 @@
  ## GlareDB | Your Data Pipeline, Simplified
  - [https://glaredb.com](https://glaredb.com)
  - date_published: 2024-08-18T16:38:21.392558+00:00
-
- ## Home - Glasair Aviation USA
- - [http://www.glasairaviation.com](http://www.glasairaviation.com)
- - date_published: 2024-07-09T21:51:51.284251+00:00
-
- ## Glas-Col®: Tools for Scientists®
- - [https://www.glascol.com](https://www.glascol.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Home | Championing Glasgow Since 1783
- - [https://www.glasgowchamberofcommerce.com](https://www.glasgowchamberofcommerce.com)
- - date_published: 2024-10-19T21:54:04.890665+00:00
-
- ## Interntional Photography Gallery
- - [http://www.glasgowgalleryofphotography.com](http://www.glasgowgalleryofphotography.com)
- - date_published: 2024-06-30T23:22:39.902708+00:00
-
- ## The Glasgow Gallivanter – Adventures at home and abroad
- - [https://glasgowgallivanter.com](https://glasgowgallivanter.com)
- - date_published: 2023-12-10T17:30:01.706680+00:00
- - tags: ['personal']
-
- ## Glasgow Improvisers Orchestra
- - [http://www.glasgowimprovisersorchestra.com](http://www.glasgowimprovisersorchestra.com)
- - date_published: 2024-08-19T21:48:31.511520+00:00
 

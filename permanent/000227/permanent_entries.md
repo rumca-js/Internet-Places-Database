@@ -1,3 +1,79 @@
+ ## dapprman
+ - [https://dapprman.wordpress.com](https://dapprman.wordpress.com)
+ - date_published: 2024-06-29T20:33:26.881720+00:00
+
+ ## Dario Ciriello
+ - [http://dariospeaks.wordpress.com](http://dariospeaks.wordpress.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Darkblog
+ - [http://darkmanblog.wordpress.com](http://darkmanblog.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## The Ryoga´s gyroscope
+ - [https://darkryoga.wordpress.com](https://darkryoga.wordpress.com)
+ - date_published: 2024-07-20T19:54:52.022515+00:00
+
+ ## (no title)
+ - [https://darksunart.wordpress.com](https://darksunart.wordpress.com)
+ - date_published: 2024-10-27T02:29:22.885867+00:00
+
+ ## Darnell (Creative Outlet)
+ - [https://darnelldotco.wordpress.com](https://darnelldotco.wordpress.com)
+ - date_published: 2024-07-01T10:41:36.719420+00:00
+
+ ## Metal Miniatures
+ - [https://darrenbolton40.wordpress.com](https://darrenbolton40.wordpress.com)
+ - date_published: 2024-10-31T18:59:04.346139+00:00
+
+ ## Darren Wilkinson's blog
+ - [http://darrenjw.wordpress.com](http://darrenjw.wordpress.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Dart-Throwing Chimp
+ - [http://dartthrowingchimp.wordpress.com](http://dartthrowingchimp.wordpress.com)
+ - date_published: 2024-09-04T03:16:18.082136+00:00
+
+ ## Amanda's Tales
+ - [http://daschundluver.wordpress.com](http://daschundluver.wordpress.com)
+ - date_published: 2024-09-03T22:54:19.357198+00:00
+
+ ## WordPress.com
+ - [http://dashboard.wordpress.com](http://dashboard.wordpress.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Data in Beta
+ - [http://databeta.wordpress.com](http://databeta.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## DataGeeek
+ - [https://datageeek.wordpress.com](https://datageeek.wordpress.com)
+ - date_published: 2024-06-27T15:21:17.759194+00:00
+
+ ## Lý thuyết Hàm Suy Rộng
+ - [https://datuan5pdes.wordpress.com](https://datuan5pdes.wordpress.com)
+ - date_published: 2024-05-07T15:01:53.316828+00:00
+
+ ## DAUGHTER BY DESIGN -
+ - [https://daughterbydesign.wordpress.com](https://daughterbydesign.wordpress.com)
+ - date_published: 2017-02-13T00:00:00+00:00
+
+ ## LifestyleReviews
+ - [https://daveatherton.wordpress.com](https://daveatherton.wordpress.com)
+ - date_published: 2024-10-21T15:01:44.033453+00:00
+
+ ## daveavrandotcom
+ - [https://daveavrandotcom.wordpress.com](https://daveavrandotcom.wordpress.com)
+ - date_published: 2024-01-20T12:59:58.360297+00:00
+
+ ## David A. Burton
+ - [http://daveburton.wordpress.com](http://daveburton.wordpress.com)
+ - date_published: 2024-09-16T21:09:55.412064+00:00
+
+ ## Dave Tardon
+ - [https://davetardon.wordpress.com](https://davetardon.wordpress.com)
+ - date_published: 2024-07-07T06:06:19.360984+00:00
+
  ## Dave Blair Camera & Editing.
  - [https://davidblairportfolio.wordpress.com](https://davidblairportfolio.wordpress.com)
  - date_published: 2024-06-26T21:34:35.034105+00:00
@@ -3929,80 +4005,4 @@
  ## IntenseDebate Support
  - [https://idsupport.wordpress.com](https://idsupport.wordpress.com)
  - date_published: 2024-10-20T20:40:44.501784+00:00
-
- ## Dumbest Blog Ever
- - [https://ifbaird1989.wordpress.com](https://ifbaird1989.wordpress.com)
- - date_published: 2024-05-07T15:13:35.392954+00:00
-
- ## Thinbasic Adventure Builder
- - [https://ifiction.wordpress.com](https://ifiction.wordpress.com)
- - date_published: 2024-07-10T02:40:04.083468+00:00
-
- ## IF Only:
- - [https://ifonlytefl.wordpress.com](https://ifonlytefl.wordpress.com)
- - date_published: 2024-07-10T02:39:13.633100+00:00
-
- ## spooky action at a distance
- - [https://ifsff.wordpress.com](https://ifsff.wordpress.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## if-then knots
- - [http://ifthenknots.wordpress.com](http://ifthenknots.wordpress.com)
- - date_published: 2024-06-30T11:03:39.783568+00:00
-
- ## Since it is not ...
- - [https://ifwisdomwereteachable.wordpress.com](https://ifwisdomwereteachable.wordpress.com)
- - date_published: 2024-05-07T15:58:00.794251+00:00
-
- ## IGF-Turkey
- - [https://igfturkey.wordpress.com](https://igfturkey.wordpress.com)
- - date_published: 2024-02-08T17:06:05.402005+00:00
-
- ## Nachopp's Blog
- - [https://ignaciopp.wordpress.com](https://ignaciopp.wordpress.com)
- - date_published: 2024-08-08T18:55:05+00:00
-
- ## Ignite Seattle
- - [https://igniteseattle.wordpress.com](https://igniteseattle.wordpress.com)
- - date_published: 2024-07-01T08:15:11+00:00
-
- ## Igor Pak's blog
- - [https://igorpak.wordpress.com](https://igorpak.wordpress.com)
- - date_published: 2024-05-07T15:48:06.428578+00:00
-
- ## iheartingrid
- - [http://iheartingrid.wordpress.com](http://iheartingrid.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## threadbared
- - [http://iheartthreadbared.wordpress.com](http://iheartthreadbared.wordpress.com)
- - date_published: 2024-09-19T00:59:37.106547+00:00
-
- ## IIII
- - [https://iiiidevlog.wordpress.com](https://iiiidevlog.wordpress.com)
- - date_published: 2024-10-31T18:33:34.634584+00:00
-
- ## Ikaruga 2
- - [https://ikaruga2.wordpress.com](https://ikaruga2.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## The Accidental Mathematician
- - [https://ilaba.wordpress.com](https://ilaba.wordpress.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Cammini Evolutivi -il blog di Stefano Alessi Taran
- - [https://ilboscodeinoccioli.wordpress.com](https://ilboscodeinoccioli.wordpress.com)
- - date_published: 2024-09-02T16:48:08.349457+00:00
-
- ## Detour with Me by Ileana Alberti
- - [http://ileanaalberti.wordpress.com](http://ileanaalberti.wordpress.com)
- - date_published: 2024-06-26T07:33:16.202730+00:00
-
- ## Heather LeFevre
- - [http://illchangeyourlife.wordpress.com](http://illchangeyourlife.wordpress.com)
- - date_published: 2024-09-09T13:21:16.841833+00:00
-
- ## Revealed
- - [http://illustrationrevealed.wordpress.com](http://illustrationrevealed.wordpress.com)
- - date_published: 2024-06-24T09:45:18.861146+00:00
 

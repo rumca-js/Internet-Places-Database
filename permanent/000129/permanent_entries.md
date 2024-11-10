@@ -1,3 +1,35 @@
+ ## Jotform Spring Sale. Get 50% for a limited time
+ - [https://form.jotformpro.com](https://form.jotformpro.com)
+ - date_published: 2024-07-15T02:49:38+00:00
+
+ ## Free Online Form Builder & Form Creator | Jotform
+ - [https://jotformpro.com](https://jotformpro.com)
+ - date_published: 2024-05-24T21:04:15.881173+00:00
+
+ ## Free Online Form Builder & Form Creator | Jotform
+ - [https://submit.jotformpro.com](https://submit.jotformpro.com)
+ - date_published: 2024-08-05T16:24:52+00:00
+
+ ## Jothi Prasath
+ - [https://jothiprasath.com](https://jothiprasath.com)
+ - date_published: 2024-08-08T15:10:40+00:00
+
+ ## Jottacloud
+ - [https://blog.jottacloud.com](https://blog.jottacloud.com)
+ - date_published: 2024-06-16T09:14:54.307737+00:00
+
+ ## Jottacloud Help Center
+ - [https://docs.jottacloud.com](https://docs.jottacloud.com)
+ - date_published: 2024-05-01T07:11:48.598213+00:00
+
+ ## Jottacloud – Cloud storage made easy
+ - [https://jottacloud.com](https://jottacloud.com)
+ - date_published: 2024-09-29T00:47:58.505674+00:00
+
+ ## Jottings.com might be for sale. Request the price today.
+ - [https://jottings.com](https://jottings.com)
+ - date_published: 2024-04-28T01:51:42.537980+00:00
+
  ## Johannes Schnatmann
  - [http://jotundes.com](http://jotundes.com)
  - date_published: 2024-10-29T14:30:01.491482+00:00
@@ -4002,36 +4034,4 @@
  ## Kakao
  - [https://kakaocorp.com](https://kakaocorp.com)
  - date_published: 2024-05-17T02:47:02.778629+00:00
-
- ## 아레스 : 라이즈 오브 가디언즈 | Kakaogames
- - [https://ares.kakaogames.com](https://ares.kakaogames.com)
- - date_published: 2024-04-24T05:02:18+00:00
-
- ## 에버소울 지금 바로 플레이!
- - [https://eversoul.kakaogames.com](https://eversoul.kakaogames.com)
- - date_published: 2024-05-30T02:17:18+00:00
-
- ## 오딘: 발할라 라이징 | Daum게임
- - [https://odin.kakaogames.com](https://odin.kakaogames.com)
- - date_published: 2024-06-28T13:08:58.019630+00:00
-
- ## Document
- - [https://rom.kakaogames.com](https://rom.kakaogames.com)
- - date_published: 2024-06-12T03:51:30+00:00
-
- ## 우마무스메 프리티 더비
- - [https://umamusume.kakaogames.com](https://umamusume.kakaogames.com)
- - date_published: 2024-06-14T08:00:08+00:00
-
- ## 카카오게임즈
- - [https://www.kakaogames.com](https://www.kakaogames.com)
- - date_published: 2019-05-14T00:00:00+00:00
-
- ## 카카오게임즈
- - [https://www.kakaogamescorp.com](https://www.kakaogamescorp.com)
- - date_published: 2019-05-14T00:00:00+00:00
-
- ## 駆け出し物語
- - [http://kakedashi-xx.com](http://kakedashi-xx.com)
- - date_published: 2024-07-05T12:23:09+00:00
 

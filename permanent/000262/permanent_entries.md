@@ -1,3 +1,103 @@
+ ## Digital Commons @ New Jersey Institute of Technology
+ - [https://digitalcommons.njit.edu](https://digitalcommons.njit.edu)
+ - date_published: 2024-07-01T16:03:05.834852+00:00
+
+ ## Digital Skills Bootcamps | New Jersey Institute of Technology
+ - [https://digitalskills.njit.edu](https://digitalskills.njit.edu)
+ - date_published: 2024-07-01T16:10:34.228026+00:00
+
+ ## Directory Search | People
+ - [https://directory.njit.edu](https://directory.njit.edu)
+ - date_published: 2024-05-07T19:46:46.639082+00:00
+
+ ## Institute for Brain and Neuroscience Research | ibnr
+ - [http://ibnr.njit.edu](http://ibnr.njit.edu)
+ - date_published: 2024-06-30T23:24:20+00:00
+
+ ## Welcome to IST | Information Services and Technology
+ - [http://ist.njit.edu](http://ist.njit.edu)
+ - date_published: 2024-06-30T17:05:31+00:00
+
+ ## Home | Robert W. Van Houten Library
+ - [https://library.njit.edu](https://library.njit.edu)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Microfabrication Innovation Center | Microfabrication Lab
+ - [http://mfc.njit.edu](http://mfc.njit.edu)
+ - date_published: 2024-07-01T09:15:55+00:00
+
+ ## Webauth Authentication Service
+ - [https://my.njit.edu](https://my.njit.edu)
+ - date_published: 2016-07-26T00:00:00+00:00
+
+ ## NJIT News
+ - [https://news.njit.edu](https://news.njit.edu)
+ - date_published: 2023-12-24T14:21:23.481370+00:00
+
+ ## Login - Highlander Nexus
+ - [https://nexus.njit.edu](https://nexus.njit.edu)
+ - date_published: 2024-07-01T16:10:04.435751+00:00
+
+ ## New Jersey Institute of Technology |
+ - [https://njit.edu](https://njit.edu)
+ - date_published: 2024-05-07T19:46:26.999979+00:00
+
+ ## Directory Search | People
+ - [https://people.njit.edu](https://people.njit.edu)
+ - date_published: 2024-07-01T16:09:58.869150+00:00
+
+ ## Physics | Department of Physics
+ - [http://physics.njit.edu](http://physics.njit.edu)
+ - date_published: 2024-06-30T17:18:07+00:00
+
+ ## Research | Research
+ - [https://research.njit.edu](https://research.njit.edu)
+ - date_published: 2024-05-07T19:46:33.495049+00:00
+
+ ## New Jersey Institute of Technology
+ - [http://researchwith.njit.edu](http://researchwith.njit.edu)
+ - date_published: 2024-07-01T16:09:06.284921+00:00
+
+ ## NJIT Service Portal - IST ServiceDesk
+ - [http://servicedesk.njit.edu](http://servicedesk.njit.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Strategic Events and Conference Services | Conference Services
+ - [https://strategicevents.njit.edu](https://strategicevents.njit.edu)
+ - date_published: 2024-06-30T20:55:55+00:00
+
+ ## Welcome to NCTIP at NJIT
+ - [http://transportation.njit.edu](http://transportation.njit.edu)
+ - date_published: 2024-07-01T16:10:16.483293+00:00
+
+ ## Webauth Authentication Service
+ - [http://webmail.njit.edu](http://webmail.njit.edu)
+ - date_published: 2016-07-26T00:00:00+00:00
+
+ ## New Jersey Institute of Technology |
+ - [https://www5.njit.edu](https://www5.njit.edu)
+ - date_published: 2024-07-01T00:57:04+00:00
+
+ ## New Jersey Institute of Technology |
+ - [http://www6.njit.edu](http://www6.njit.edu)
+ - date_published: 2024-07-01T00:57:04+00:00
+
+ ## Big Bear Solar Observatory
+ - [http://www.bbso.njit.edu](http://www.bbso.njit.edu)
+ - date_published: 2023-05-30T20:57:12+00:00
+
+ ## EOVSA - Home Page
+ - [http://www.ovsa.njit.edu](http://www.ovsa.njit.edu)
+ - date_published: 2024-07-01T16:10:07.460669+00:00
+
+ ## Welcome | Otto H. York Center for Environmental Engineering and Science
+ - [http://www.ycees.njit.edu](http://www.ycees.njit.edu)
+ - date_published: 2024-07-01T08:46:26+00:00
+
+ ## Salmon P. Chase College of Law
+ - [https://chaselaw.nku.edu](https://chaselaw.nku.edu)
+ - date_published: 2024-10-11T00:00:00+00:00
+
  ## 4-H Healthy Habits Home | New Mexico State University | BE BOLD. Shape the Future.
  - [https://4hhealthyhabits.nmsu.edu](https://4hhealthyhabits.nmsu.edu)
  - date_published: 2024-07-01T16:11:00.309185+00:00
@@ -3900,104 +4000,4 @@
  ## Pelotonia – Team Buckeye | OSUCCC – James
  - [https://teambuckeye.osu.edu](https://teambuckeye.osu.edu)
  - date_published: 2024-05-07T19:52:21.359255+00:00
-
- ## Home |  Tech Hub
- - [https://techhub.osu.edu](https://techhub.osu.edu)
- - date_published: 2024-06-16T14:39:13+00:00
-
- ## Board of Trustees | The Ohio State University
- - [https://trustees.osu.edu](https://trustees.osu.edu)
- - date_published: 2024-05-12T07:43:44.161686+00:00
-
- ## Home | Transportation and Traffic Management
- - [https://ttm.osu.edu](https://ttm.osu.edu)
- - date_published: 2024-07-01T16:55:14.768367+00:00
-
- ## Home | Urban Arts Space
- - [https://uas.osu.edu](https://uas.osu.edu)
- - date_published: 2024-07-01T16:55:12.287112+00:00
-
- ## Undergraduate Education at The Ohio State University |
- - [https://ugeducation.osu.edu](https://ugeducation.osu.edu)
- - date_published: 2024-10-14T18:10:16+00:00
-
- ## Home | Undergraduate Research & Creative Inquiry
- - [https://ugresearch.osu.edu](https://ugresearch.osu.edu)
- - date_published: 2024-05-12T07:43:40.790121+00:00
-
- ## Your story begins here - The Ohio State University
- - [https://undergrad.osu.edu](https://undergrad.osu.edu)
- - date_published: 2024-05-12T07:43:37.681135+00:00
-
- ## Office of Marketing and Communications | The Ohio State University
- - [https://universitymarketing.osu.edu](https://universitymarketing.osu.edu)
- - date_published: 2024-07-01T16:45:58.295253+00:00
-
- ## U.OSU
- - [https://u.osu.edu](https://u.osu.edu)
- - date_published: 2024-05-01T08:01:21.985728+00:00
-
- ## Home | College of Veterinary Medicine
- - [https://vet.osu.edu](https://vet.osu.edu)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Home | Veterinary Medical Center
- - [https://vmc.vet.osu.edu](https://vmc.vet.osu.edu)
- - date_published: 2024-07-17T03:42:54.328836+00:00
-
- ## PlantFacts
- - [https://webgarden.osu.edu](https://webgarden.osu.edu)
- - date_published: 2024-05-07T19:52:51.930970+00:00
-
- ## Health and Wellness | The Ohio State University
- - [https://wellness.osu.edu](https://wellness.osu.edu)
- - date_published: 2024-05-12T07:43:22.301175+00:00
-
- ## The Ohio State University Wexner Medical Center
- - [https://wexnermedical.osu.edu](https://wexnermedical.osu.edu)
- - date_published: 2024-05-12T07:44:35.236307+00:00
-
- ## WHEEL Noble Gas Laboratory
- - [https://wheel.osu.edu](https://wheel.osu.edu)
- - date_published: 2024-07-02T14:42:59+00:00
-
- ## Ohio State Wi-Fi | The Ohio State University
- - [http://wireless.osu.edu](http://wireless.osu.edu)
- - date_published: 2024-05-06T14:26:13+00:00
-
- ## Home
- - [https://womensplace.osu.edu](https://womensplace.osu.edu)
- - date_published: 2024-07-01T16:55:09.850343+00:00
-
- ## Home | CFAES Wooster
- - [https://wooster.osu.edu](https://wooster.osu.edu)
- - date_published: 2024-07-17T03:36:12.925954+00:00
-
- ## Home | Wooster Venues
- - [https://woostervenues.osu.edu](https://woostervenues.osu.edu)
- - date_published: 2024-07-17T03:36:19.478440+00:00
-
- ## Workday
- - [https://workday.osu.edu](https://workday.osu.edu)
- - date_published: 2023-04-05T19:41:23+00:00
-
- ## Campus Chemical Instrument Center
- - [https://www.ccic.osu.edu](https://www.ccic.osu.edu)
- - date_published: 2024-07-15T15:23:20+00:00
-
- ## Mathematics Research Institute | Department of Mathematics
- - [http://www.mri.osu.edu](http://www.mri.osu.edu)
- - date_published: 2024-06-29T23:03:38+00:00
-
- ## Your Plan for Health
- - [http://yp4h.osu.edu](http://yp4h.osu.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Oregon State University - Cascades
- - [https://bendbeavscentral.osucascades.edu](https://bendbeavscentral.osucascades.edu)
- - date_published: 2024-10-15T01:19:36.556974+00:00
-
- ## OSU-Cascades
- - [https://osucascades.edu](https://osucascades.edu)
- - date_published: 2024-06-15T00:44:10+00:00
 

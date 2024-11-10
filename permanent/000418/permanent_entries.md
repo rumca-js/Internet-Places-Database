@@ -1,3 +1,197 @@
+ ## Imperial College London
+ - [http://www3.imperial.ac.uk](http://www3.imperial.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Imperial College London
+ - [https://wwwf.imperial.ac.uk](https://wwwf.imperial.ac.uk)
+ - date_published: 2024-05-02T10:54:54.525764+00:00
+
+ ## Internet Archaeology - Global. Open. Free. Peer-reviewed archaeological research
+ - [https://intarch.ac.uk](https://intarch.ac.uk)
+ - date_published: 2023-10-25T22:48:44.581467+00:00
+ - tags: ['archaeology']
+
+ ## Jisc
+ - [http://www.intute.ac.uk](http://www.intute.ac.uk)
+ - date_published: 2024-06-28T21:09:17.506258+00:00
+
+ ## Welcome to Digital Education Resource Archive (DERA) - Digital Education Resource Archive (DERA)
+ - [https://dera.ioe.ac.uk](https://dera.ioe.ac.uk)
+ - date_published: 2024-05-07T10:13:20.710879+00:00
+
+ ## Log in | Jisc Online Surveys
+ - [https://app.onlinesurveys.jisc.ac.uk](https://app.onlinesurveys.jisc.ac.uk)
+ - date_published: 2024-10-20T05:07:02.974993+00:00
+
+ ## Home - Archives Hub
+ - [https://archiveshub.jisc.ac.uk](https://archiveshub.jisc.ac.uk)
+ - date_published: 2024-10-20T05:28:10.276486+00:00
+
+ ## Homepage | Jisc community
+ - [https://community.jisc.ac.uk](https://community.jisc.ac.uk)
+ - date_published: 2024-07-10T10:11:15.286447+00:00
+
+ ## Jisc
+ - [https://jisc.ac.uk](https://jisc.ac.uk)
+ - date_published: 2024-07-08T16:36:43.292971+00:00
+
+ ## Licence subscriptions manager
+ - [https://subscriptionsmanager.jisc.ac.uk](https://subscriptionsmanager.jisc.ac.uk)
+ - date_published: 2024-08-18T13:08:03.181149+00:00
+
+ ## JISCMail
+ - [https://www.jiscmail.ac.uk](https://www.jiscmail.ac.uk)
+ - date_published: 2024-07-09T10:35:35.816952+00:00
+
+ ## career-advice.jobs.ac.uk
+ - [https://career-advice.jobs.ac.uk](https://career-advice.jobs.ac.uk)
+ - date_published: 2024-10-18T19:11:53.462427+00:00
+
+ ## Jobs | Job Search | Job Vacancies on jobs.ac.uk
+ - [https://www.jobs.ac.uk](https://www.jobs.ac.uk)
+ - date_published: 2024-06-17T10:59:00.008621+00:00
+
+ ## JournalTOCs
+ - [https://www.journaltocs.ac.uk](https://www.journaltocs.ac.uk)
+ - date_published: 2024-08-18T14:43:37.042837+00:00
+
+ ## King's Blogs – Blogs at King's College London
+ - [http://blogs.kcl.ac.uk](http://blogs.kcl.ac.uk)
+ - date_published: 2024-06-17T11:03:46.189087+00:00
+
+ ## Centre for the Study of Governance & Society
+ - [https://csgs.kcl.ac.uk](https://csgs.kcl.ac.uk)
+ - date_published: 2017-11-21T18:03:17+00:00
+
+ ## Error
+ - [https://insaph.kcl.ac.uk](https://insaph.kcl.ac.uk)
+ - date_published: 2024-06-24T10:09:01.070419+00:00
+
+ ## Intranet Home
+ - [https://internal.kcl.ac.uk](https://internal.kcl.ac.uk)
+ - date_published: 2024-05-02T10:55:19.445036+00:00
+
+ ## King's College London
+ - [https://kcl.ac.uk](https://kcl.ac.uk)
+ - date_published: 2024-05-02T10:55:13.171423+00:00
+
+ ## Password resets and management | King’s IT | King’s College London
+ - [http://kclpword.kcl.ac.uk](http://kclpword.kcl.ac.uk)
+ - date_published: 2024-06-17T18:05:07.276447+00:00
+
+ ## Sign in to your account
+ - [https://keats.kcl.ac.uk](https://keats.kcl.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## King's College London
+ - [https://myselection.kcl.ac.uk](https://myselection.kcl.ac.uk)
+ - date_published: 2024-06-17T18:05:29.214603+00:00
+
+ ## Faculty of Natural, Mathematical & Engineering Sciences | King’s College London
+ - [https://nms.kcl.ac.uk](https://nms.kcl.ac.uk)
+ - date_published: 2024-07-03T03:25:22.826840+00:00
+
+ ## PaperCut Login for King's College London
+ - [https://printing.kcl.ac.uk](https://printing.kcl.ac.uk)
+ - date_published: 2024-06-17T18:05:28.358064+00:00
+
+ ## Home
+		 · Student Services Online
+ - [https://self-service.kcl.ac.uk](https://self-service.kcl.ac.uk)
+ - date_published: 2024-05-02T10:55:15.597909+00:00
+
+ ## Department of Mathematics | King’s College London
+ - [http://www.mth.kcl.ac.uk](http://www.mth.kcl.ac.uk)
+ - date_published: 2024-06-30T08:50:40.853111+00:00
+
+ ## King Edward VI College, Stourbridge
+ - [https://www.kedst.ac.uk](https://www.kedst.ac.uk)
+ - date_published: 2024-10-20T01:47:03.628201+00:00
+
+ ## Home
+ - [https://www.keele.ac.uk](https://www.keele.ac.uk)
+ - date_published: 2024-06-22T07:13:29.517136+00:00
+
+ ## Blogs at Kent – Showcasing groundbreaking work at Kent
+ - [https://blogs.kent.ac.uk](https://blogs.kent.ac.uk)
+ - date_published: 2024-07-24T04:42:13.492242+00:00
+
+ ## Jobs at the University of Kent
+ - [https://jobs.kent.ac.uk](https://jobs.kent.ac.uk)
+ - date_published: 2024-07-24T04:42:07.292114+00:00
+
+ ## Welcome to Kent Academic Repository - Kent Academic Repository
+ - [https://kar.kent.ac.uk](https://kar.kent.ac.uk)
+ - date_published: 2024-06-26T21:47:16.859414+00:00
+
+ ## We stand for ambition. Yours
+ - [https://kent.ac.uk](https://kent.ac.uk)
+ - date_published: 2024-04-29T06:47:04.840011+00:00
+
+ ## Research at Kent - University of Kent
+ - [https://research.kent.ac.uk](https://research.kent.ac.uk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Sign in to your account
+ - [https://staff.kent.ac.uk](https://staff.kent.ac.uk)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Home
+ - [http://www.cs.kent.ac.uk](http://www.cs.kent.ac.uk)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Kent and Medway Medical School
+ - [https://kmms.ac.uk](https://kmms.ac.uk)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Home - Lancaster University
+ - [https://www.lancaster.ac.uk](https://www.lancaster.ac.uk)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## AuroraWatch UK · AuroraWatch UK
+ - [https://aurorawatch.lancs.ac.uk](https://aurorawatch.lancs.ac.uk)
+ - date_published: 2020-09-30T11:56:45+00:00
+
+ ## UCREL Corpus Application Server
+ - [http://corpora.lancs.ac.uk](http://corpora.lancs.ac.uk)
+ - date_published: 2021-03-18T09:48:04+00:00
+
+ ## ES webpages
+ - [http://cres1.lancs.ac.uk](http://cres1.lancs.ac.uk)
+ - date_published: 2023-11-08T17:17:23+00:00
+
+ ## UCREL NLP Group
+ - [http://ucrel.lancs.ac.uk](http://ucrel.lancs.ac.uk)
+ - date_published: 2024-02-15T16:52:11+00:00
+
+ ## Lancaster University | Just another WordPress site
+ - [http://wp.lancs.ac.uk](http://wp.lancs.ac.uk)
+ - date_published: 2024-07-12T16:51:36.934252+00:00
+
+ ## Loughborough University
+ - [https://www.lboro.ac.uk](https://www.lboro.ac.uk)
+ - date_published: 2024-07-01T12:05:51+00:00
+
+ ## Home
+ - [https://www.lcb.ac.uk](https://www.lcb.ac.uk)
+ - date_published: 2024-08-06T10:59:34.103541+00:00
+
+ ## Leverhulme Centre for the Future of Intelligence: Home
+ - [http://lcfi.ac.uk](http://lcfi.ac.uk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home
+ - [https://citizen.le.ac.uk](https://citizen.le.ac.uk)
+ - date_published: 2024-06-16T22:51:20.290342+00:00
+
+ ## A Leading UK University | University of Leicester
+ - [https://le.ac.uk](https://le.ac.uk)
+ - date_published: 2024-05-01T08:04:50.520357+00:00
+
+ ## CONTENTdm
+ - [http://specialcollections.le.ac.uk](http://specialcollections.le.ac.uk)
+ - date_published: 2024-08-08T19:40:08.577853+00:00
+
  ## A Leading UK University | University of Leicester
  - [https://www2.le.ac.uk](https://www2.le.ac.uk)
  - date_published: 2024-10-10T00:00:00+00:00
@@ -3816,196 +4010,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Ulster University Branch Campuses
  - [https://qa.ulster.ac.uk](https://qa.ulster.ac.uk)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Welcome to Ulster University
- - [https://ulster.ac.uk](https://ulster.ac.uk)
- - date_published: 2024-05-10T06:48:53.308875+00:00
-
- ## Home
- - [https://unialliance.ac.uk](https://unialliance.ac.uk)
- - date_published: 2024-10-20T02:25:16.505788+00:00
-
- ## Login
- - [https://st-andrews.unidesk.ac.uk](https://st-andrews.unidesk.ac.uk)
- - date_published: 2024-06-17T19:10:08.193210+00:00
-
- ## Login
- - [https://um.unidesk.ac.uk](https://um.unidesk.ac.uk)
- - date_published: 2024-07-02T22:20:32.269582+00:00
-
- ## Universities UK
- - [https://www.universitiesuk.ac.uk](https://www.universitiesuk.ac.uk)
- - date_published: 2024-07-09T14:17:07.671568+00:00
-
- ## UOS Login
- - [https://login.uos.ac.uk](https://login.uos.ac.uk)
- - date_published: 2024-08-07T09:51:35.143312+00:00
-
- ## Find a course - UWE Bristol: Courses
- - [http://courses.uwe.ac.uk](http://courses.uwe.ac.uk)
- - date_published: 2024-10-16T08:20:46.063271+00:00
-
- ## UWS | University of the West of Scotland
- - [http://uws.ac.uk](http://uws.ac.uk)
- - date_published: 2024-10-15T04:36:07.251129+00:00
-
- ## CONTENTdm
- - [http://www.vads.ac.uk](http://www.vads.ac.uk)
- - date_published: 2024-06-24T09:21:40.947931+00:00
-
- ## Explore the Collections · V&A
- - [https://collections.vam.ac.uk](https://collections.vam.ac.uk)
- - date_published: 2024-05-02T09:54:13.037295+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://framemark.vam.ac.uk](https://framemark.vam.ac.uk)
- - date_published: 2020-12-30T10:50:26+00:00
-
- ## The family of art, design and performance museums · V&A
- - [https://vam.ac.uk](https://vam.ac.uk)
- - date_published: 2024-10-18T08:06:13.346399+00:00
-
- ## RDF Planner
- - [https://rdfplanner.vitae.ac.uk](https://rdfplanner.vitae.ac.uk)
- - date_published: 2024-06-17T18:15:20+00:00
-
- ## Researcher professional development
- - [https://vitae.ac.uk](https://vitae.ac.uk)
- - date_published: 2024-10-20T05:13:53.472568+00:00
-
- ## Exchanges: The Interdisciplinary Research Journal
- - [https://exchanges.warwick.ac.uk](https://exchanges.warwick.ac.uk)
- - date_published: 2023-12-26T16:32:30.722613+00:00
-
- ## Single Sign-on | ITS Web Team | University of Warwick
- - [https://idp.warwick.ac.uk](https://idp.warwick.ac.uk)
- - date_published: 2024-06-30T01:18:57.717424+00:00
-
- ## University of Warwick Press: Journals
- - [https://journals.warwick.ac.uk](https://journals.warwick.ac.uk)
- - date_published: 2024-10-17T06:49:34.142607+00:00
-
- ## PhDLife Blog
- - [https://phdlife.warwick.ac.uk](https://phdlife.warwick.ac.uk)
- - date_published: 2024-05-02T10:13:14.235451+00:00
-
- ## Warwick Search
- - [https://search.warwick.ac.uk](https://search.warwick.ac.uk)
- - date_published: 2024-05-02T11:10:18.726125+00:00
-
- ## University of Warwick Status
- - [https://status.warwick.ac.uk](https://status.warwick.ac.uk)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Welcome to the University of Warwick
- - [https://warwick.ac.uk](https://warwick.ac.uk)
- - date_published: 2024-02-14T08:03:03.894929+00:00
-
- ## Single Sign-on | ITS Web Team | University of Warwick
- - [https://websignon.warwick.ac.uk](https://websignon.warwick.ac.uk)
- - date_published: 2024-05-02T11:10:30.105473+00:00
-
- ## Welcome to the University of Warwick
- - [https://www2.warwick.ac.uk](https://www2.warwick.ac.uk)
- - date_published: 2024-05-01T08:04:33.642476+00:00
-
- ## Department of Computer Science, University of Warwick
- - [https://www.dcs.warwick.ac.uk](https://www.dcs.warwick.ac.uk)
- - date_published: 2024-01-09T03:48:16.468095+00:00
-
- ## my.wbs | Sign in
- - [https://my.wbs.ac.uk](https://my.wbs.ac.uk)
- - date_published: 2024-10-14T19:33:26.179595+00:00
-
- ## Warwick Business School | WBS | The University of Warwick
- - [https://wbs.ac.uk](https://wbs.ac.uk)
- - date_published: 2024-10-14T19:33:16.253349+00:00
-
- ## Home | Wellcome
- - [https://blog.wellcome.ac.uk](https://blog.wellcome.ac.uk)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home | Wellcome
- - [https://wellcome.ac.uk](https://wellcome.ac.uk)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## University of Westminster, London
- - [https://www.westminster.ac.uk](https://www.westminster.ac.uk)
- - date_published: 2024-06-21T15:53:43+00:00
-
- ## White Rose Research Online
- - [http://eprints.whiterose.ac.uk](http://eprints.whiterose.ac.uk)
- - date_published: 2024-06-24T10:32:06.043646+00:00
-
- ## Wiltshire College & University Centre
- - [https://www.wiltshire.ac.uk](https://www.wiltshire.ac.uk)
- - date_published: 2024-08-06T10:59:45.802625+00:00
-
- ## Winchester Online Store
- - [https://store.winchester.ac.uk](https://store.winchester.ac.uk)
- - date_published: 2024-06-18T10:52:43.271696+00:00
-
- ## Home - University of Winchester
- - [https://winchester.ac.uk](https://winchester.ac.uk)
- - date_published: 2024-10-21T10:16:35.668976+00:00
-
- ## University of Wolverhampton - University of Wolverhampton
- - [http://www.wlv.ac.uk](http://www.wlv.ac.uk)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## HOW College | Heart of Worcestershire College
- - [http://www.wortech.ac.uk](http://www.wortech.ac.uk)
- - date_published: 2024-08-06T10:59:41.452979+00:00
-
- ## White Rose College of the Arts & Humanities
- - [https://wrocah.ac.uk](https://wrocah.ac.uk)
- - date_published: 2024-07-04T13:15:06.170631+00:00
-
- ## WUN
- - [http://www.wun.ac.uk](http://www.wun.ac.uk)
- - date_published: 2024-10-21T18:52:53.544929+00:00
-
- ## University of York Directory
- - [https://directory.york.ac.uk](https://directory.york.ac.uk)
- - date_published: 2024-05-02T11:10:49.526939+00:00
-
- ## Please log in to continue...
- - [https://evision.york.ac.uk](https://evision.york.ac.uk)
- - date_published: 2024-05-02T11:10:52.894496+00:00
-
- ## Jobs - The University of York
- - [https://jobs.york.ac.uk](https://jobs.york.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Sign in - Google Accounts
- - [http://mail.york.ac.uk](http://mail.york.ac.uk)
- - date_published: 2024-05-02T11:10:54.013934+00:00
-
- ## University of York
- - [https://shib.york.ac.uk](https://shib.york.ac.uk)
- - date_published: 2021-03-09T16:54:44+00:00
-
- ## Sign in - Matomo
- - [https://styx.york.ac.uk](https://styx.york.ac.uk)
- - date_published: 2024-06-17T18:03:53.701484+00:00
-
- ## Subject Guides: Subject Guides Home: Subject Guides homepage
- - [https://subjectguides.york.ac.uk](https://subjectguides.york.ac.uk)
- - date_published: 2024-10-20T08:31:22.725825+00:00
-
- ## Guides for Online Learning Tools at University of York, UK
- - [https://vle-support.york.ac.uk](https://vle-support.york.ac.uk)
- - date_published: 2024-06-12T11:18:28+00:00
-
- ## Yorkshare
- - [https://vle.york.ac.uk](https://vle.york.ac.uk)
- - date_published: 2004-06-17T19:23:24+00:00
-
- ## Computer Science - Computer Science, University of York
- - [https://www.cs.york.ac.uk](https://www.cs.york.ac.uk)
- - date_published: 2023-10-25T22:50:02.708001+00:00
-
- ## University of York
- - [http://www-users.cs.york.ac.uk](http://www-users.cs.york.ac.uk)
- - date_published: 2024-06-08T03:34:25+00:00
 

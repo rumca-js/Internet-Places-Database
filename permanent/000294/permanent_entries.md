@@ -1,3 +1,108 @@
+ ## Homepage - The Gloss Magazine
+ - [https://thegloss.ie](https://thegloss.ie)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Events Venue Dublin | Conference Centre & Theatre Hire | The Helix DCU
+ - [https://thehelix.ie](https://thehelix.ie)
+ - date_published: 2024-07-14T13:34:36.535753+00:00
+
+ ## Home - The Ivy Cottage
+ - [https://www.theivycottage.ie](https://www.theivycottage.ie)
+ - date_published: 2024-06-22T11:00:40+00:00
+
+ ## TheJournal.ie Advertising
+ - [https://advertising.thejournal.ie](https://advertising.thejournal.ie)
+ - date_published: 2024-08-08T17:32:20.996558+00:00
+
+ ## static.thejournal.ie
+ - [https://b0.thejournal.ie](https://b0.thejournal.ie)
+ - date_published: 2024-08-08T09:22:49+00:00
+
+ ## TheJournal.ie
+ - [https://businessetc.thejournal.ie](https://businessetc.thejournal.ie)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## TheJournal.ie Careers
+ - [https://careers.thejournal.ie](https://careers.thejournal.ie)
+ - date_published: 2024-08-08T17:32:28.470625+00:00
+
+ ## The Daily Edge
+ - [https://thedailyedge.thejournal.ie](https://thedailyedge.thejournal.ie)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## TheJournal.ie
+ - [https://thejournal.ie](https://thejournal.ie)
+ - date_published: 2023-12-16T00:26:08.230995+00:00
+ - tags: ['news']
+
+ ## ThemeParks.ie
+ - [https://www.themeparks.ie](https://www.themeparks.ie)
+ - date_published: 2024-05-25T15:15:09+00:00
+
+ ## The North Face | Outdoor Clothing, Backpacks & Shoes
+ - [https://www.thenorthface.ie](https://www.thenorthface.ie)
+ - date_published: 2024-07-12T07:36:18.460974+00:00
+
+ ## Niamh Smith Photography, Dublin Ireland
+ - [https://www.thephotographyhub.ie](https://www.thephotographyhub.ie)
+ - date_published: 2024-07-13T19:44:38.809133+00:00
+
+ ## The Irish Sun
+ - [https://link.thesun.ie](https://link.thesun.ie)
+ - date_published: 2024-10-21T08:10:28.159237+00:00
+
+ ## The Irish Sun
+ - [https://www.thesun.ie](https://www.thesun.ie)
+ - date_published: 2024-05-02T12:22:20.509295+00:00
+
+ ## The Times of London | Subscribe to The Times and The Sunday Times Ireland Edition
+ - [https://store.thetimes.ie](https://store.thetimes.ie)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Home - Cloughjordan Ecovillage
+ - [https://thevillage.ie](https://thevillage.ie)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Web Design Dublin | Web Design Ireland | Web Bureau
+ - [https://www.thewebbureau.ie](https://www.thewebbureau.ie)
+ - date_published: 2024-07-04T17:43:46.542911+00:00
+
+ ## Home - Threshold
+ - [http://www.threshold.ie](http://www.threshold.ie)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home - Thyme Out Dalkey
+ - [https://thymeout.ie](https://thymeout.ie)
+ - date_published: 2022-01-25T06:37:48+00:00
+
+ ## Let's Get Your Identity Verified
+ - [https://www.ticketmaster.ie](https://www.ticketmaster.ie)
+ - date_published: 2024-04-29T06:43:22.764170+00:00
+
+ ## Toyota Approved Used Cars | Toyota Ireland
+ - [https://approvedused.toyota.ie](https://approvedused.toyota.ie)
+ - date_published: 2024-10-16T15:58:49.051215+00:00
+
+ ## Toyota Approved Used Cars | Toyota Ireland
+ - [https://assuredusedcars.toyota.ie](https://assuredusedcars.toyota.ie)
+ - date_published: 2024-10-16T15:58:43.008207+00:00
+
+ ## New and Used Cars, Car Finance & Service | Toyota Ireland
+ - [https://www.toyota.ie](https://www.toyota.ie)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Get a Service Quote for Your Toyota   | Toyota Service
+ - [https://www.toyotaservice.ie](https://www.toyotaservice.ie)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## tripadvisor.ie
+ - [https://www.tripadvisor.ie](https://www.tripadvisor.ie)
+ - date_published: 2024-06-23T09:18:55.823776+00:00
+
+ ## Triskel Arts Centre – Live Music, Cinema, Visual Art and more
+ - [https://triskelartscentre.ie](https://triskelartscentre.ie)
+ - date_published: 2024-06-20T21:30:47.603574+00:00
+
  ## Tristam – Plays with tech.
  - [https://tristam.ie](https://tristam.ie)
  - date_published: 2023-10-25T19:29:24.615760+00:00
@@ -3908,108 +4013,4 @@ Indian Institute of Science, Bangalore
  ## ShodhShuddhi | Enhancing Research Quality
  - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
  - date_published: 2024-06-23T07:10:33.956210+00:00
-
- ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
- - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
- - date_published: 2024-05-06T13:41:13.342135+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://shodhshuddhi.inflibnet.ac.in](https://shodhshuddhi.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:46.629772+00:00
-
- ## UGC MOOCs |SWAYAM| UG AND PG COURSE
- - [http://ugcmoocs.inflibnet.ac.in](http://ugcmoocs.inflibnet.ac.in)
- - date_published: 2024-09-11T17:36:47.207835+00:00
-
- ## Indian Statistical Institute
- - [https://www.isical.ac.in](https://www.isical.ac.in)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Best University in Bangalore | JAIN (Deemed-to-be University)
- - [https://www.jainuniversity.ac.in](https://www.jainuniversity.ac.in)
- - date_published: 2024-07-14T09:57:11.757195+00:00
-
- ## JEE (Advanced) 2024
- - [https://jeeadv.ac.in](https://jeeadv.ac.in)
- - date_published: 2024-07-27T08:47:23+00:00
-
- ## Official Website of Jamia Millia Islamia - Jamia
- - [http://jmi.ac.in](http://jmi.ac.in)
- - date_published: 2024-09-11T17:46:55.381289+00:00
-
- ## Jawaharlal Nehru University
- - [http://www.jnu.ac.in](http://www.jnu.ac.in)
- - date_published: 2024-09-11T17:57:50.162014+00:00
-
- ## University of Kerala
- - [http://www.keralauniversity.ac.in](http://www.keralauniversity.ac.in)
- - date_published: 2024-10-15T14:21:02.123410+00:00
-
- ## SPACE 2022
- - [http://space2022.lnmiit.ac.in](http://space2022.lnmiit.ac.in)
- - date_published: 2023-12-02T12:13:54+00:00
-
- ## Manipur University
- - [https://www.manipuruniv.ac.in](https://www.manipuruniv.ac.in)
- - date_published: 2024-09-11T18:06:09.044034+00:00
-
- ## :: Maulana Azad National Urdu University ::
- - [http://www.manuu.ac.in](http://www.manuu.ac.in)
- - date_published: 2024-09-11T17:53:04.244449+00:00
-
- ## Campuses - MES
- - [https://campuses.mes.ac.in](https://campuses.mes.ac.in)
- - date_published: 2017-01-17T07:11:14+00:00
-
- ## Chembur Campus - MES
- - [https://chemburcampus.mes.ac.in](https://chemburcampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:21+00:00
-
- ## Khanda Campus - MES
- - [https://khandacampus.mes.ac.in](https://khandacampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:52+00:00
-
- ## Mahatma Education Society - MES
- - [https://mes.ac.in](https://mes.ac.in)
- - date_published: 2024-10-15T21:07:04.774348+00:00
-
- ## Mahatma Education Society's Pillai Group of Institutions: Log in to the site
- - [https://mockcet.mes.ac.in](https://mockcet.mes.ac.in)
- - date_published: 2024-10-15T21:06:52.668871+00:00
-
- ## Panvel Campus - MES
- - [https://panvelcampus.mes.ac.in](https://panvelcampus.mes.ac.in)
- - date_published: 2017-03-04T07:08:05+00:00
-
- ## Pillai College of Engineering
- - [https://pcestudentportal.mes.ac.in](https://pcestudentportal.mes.ac.in)
- - date_published: 2024-10-15T21:06:37.880091+00:00
-
- ## Pillai HOCL Educational Campus - MES
- - [https://rasayanicampus.mes.ac.in](https://rasayanicampus.mes.ac.in)
- - date_published: 2017-03-04T07:07:47+00:00
-
- ## Top University in Pune Maharashtra - MIT ADT University
- - [https://mituniversity.ac.in](https://mituniversity.ac.in)
- - date_published: 2024-08-17T23:38:14.494870+00:00
-
- ## Malaviya National Institute of Technology Jaipur
- - [http://www.mnit.ac.in](http://www.mnit.ac.in)
- - date_published: 2024-09-11T18:02:18.444844+00:00
-
- ## Home
- - [http://www.mnnit.ac.in](http://www.mnnit.ac.in)
- - date_published: 2024-09-11T18:04:31+00:00
-
- ## Madras School of Economics
- - [https://www.mse.ac.in](https://www.mse.ac.in)
- - date_published: 2024-09-09T21:55:51.673424+00:00
-
- ## MSRVVP
- - [https://msrvvp.ac.in](https://msrvvp.ac.in)
- - date_published: 2024-09-09T14:23:37+00:00
-
- ## Nagaland University | Labor et Honor
- - [http://nagalanduniversity.ac.in](http://nagalanduniversity.ac.in)
- - date_published: 2024-09-11T17:55:39+00:00
 

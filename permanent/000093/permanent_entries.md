@@ -1,3 +1,15 @@
+ ## École Supérieure de Commerce d'Amiens
+ - [https://esc-amiens.com](https://esc-amiens.com)
+ - date_published: 2024-05-08T00:26:46.443321+00:00
+
+ ## ESC AMIENS ALUMNI | Le réseau des diplômés de l'ESC Amiens
+ - [https://www.esc-amiens-alumni.com](https://www.esc-amiens-alumni.com)
+ - date_published: 2024-07-03T05:35:26.626431+00:00
+
+ ## e-testing.fr | Solution en ligne d'évaluation de compétences
+ - [https://esc-amiens-profil.com](https://esc-amiens-profil.com)
+ - date_published: 2024-07-03T05:35:29.050914+00:00
+
  ## e-testing.fr | Solution en ligne d'évaluation de compétences
  - [https://www.esc-amiens-training.com](https://www.esc-amiens-training.com)
  - date_published: 2024-07-03T05:35:10.245967+00:00
@@ -4030,16 +4042,4 @@
  ## UCAN Build Apps with IPFS
  - [https://ucanbuildappswithipfs.eventbrite.com](https://ucanbuildappswithipfs.eventbrite.com)
  - date_published: 2024-09-23T13:09:50.743525+00:00
-
- ## FREE WEBINAR: Bring Your Family With You When You Study in GERMANY!
- - [https://ue0816.eventbrite.com](https://ue0816.eventbrite.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Discover Your Path: Join the UK and Ireland Education Open Day
- - [https://ukandirelandopenday.eventbrite.com](https://ukandirelandopenday.eventbrite.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## FREE WEBINAR: Study Masters in Canada and Bring Your Family with You!
- - [https://unf0812.eventbrite.com](https://unf0812.eventbrite.com)
- - date_published: 2024-08-12T00:00:00+00:00
 

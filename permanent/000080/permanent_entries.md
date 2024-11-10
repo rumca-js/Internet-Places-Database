@@ -1,3 +1,15 @@
+ ## cross divisions .com by rafaël rozendaal, 2016
+ - [https://www.crossdivisions.com](https://www.crossdivisions.com)
+ - date_published: 2024-09-13T01:17:27+00:00
+
+ ## Crossed Genres
+ - [http://crossedgenres.com](http://crossedgenres.com)
+ - date_published: 2024-07-04T13:57:47.936532+00:00
+
+ ## Crossfire Consulting
+ - [http://www.crossfireconsulting.com](http://www.crossfireconsulting.com)
+ - date_published: 2024-06-21T09:18:40.653150+00:00
+
  ## CROSSFIRE STARS
  - [https://www.crossfirestars.com](https://www.crossfirestars.com)
  - date_published: 2024-10-25T10:46:47.413022+00:00
@@ -4025,16 +4037,4 @@
  ## Support Home Page
  - [https://unm-student.custhelp.com](https://unm-student.custhelp.com)
  - date_published: 2024-05-07T21:44:11.874632+00:00
-
- ## AskAuckland - University of Auckland
- - [https://uoa.custhelp.com](https://uoa.custhelp.com)
- - date_published: 2024-07-24T03:15:34.136068+00:00
-
- ## Volvo Car USA Support | Contact us | Help
- - [https://volvo.custhelp.com](https://volvo.custhelp.com)
- - date_published: 2024-05-07T11:00:44.835130+00:00
-
- ## Custify - Customer Success Software
- - [https://app.custify.com](https://app.custify.com)
- - date_published: 2024-06-20T15:49:10+00:00
 

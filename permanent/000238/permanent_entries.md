@@ -1,3 +1,91 @@
+ ## ΓΗΠΕΔΟ - ΕΦΗΜΕΡΙΔΑ ΠΟΛΙΤΗΣ
+ - [https://gipedo.politis.com.cy](https://gipedo.politis.com.cy)
+ - date_published: 2024-09-18T02:47:25.675787+00:00
+
+ ## Παράθυρο - Λοξές ματιές στον πολιτισμό
+ - [https://parathyro.politis.com.cy](https://parathyro.politis.com.cy)
+ - date_published: 2024-09-18T02:47:15.222053+00:00
+
+ ## ΠΟΛΙΤΗΣ - Τα λέει όλα
+ - [https://politis.com.cy](https://politis.com.cy)
+ - date_published: 2024-06-15T12:15:37.345988+00:00
+
+ ## SiliconBlue Corporation Ltd. - Official distributors of BROTHER printers in Cyprus and Greece
+ - [http://www.siliconblue.com.cy](http://www.siliconblue.com.cy)
+ - date_published: 2024-06-17T20:18:44.477600+00:00
+
+ ## Welcome to Toyota Cyprus (Dickran Ouzounian Co.Ltd)
+ - [https://www.toyota.com.cy](https://www.toyota.com.cy)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Visa, ένας από τους έμπιστους ηγέτες στις ψηφιακές πληρωμές.
+ - [https://visa.com.cy](https://visa.com.cy)
+ - date_published: 2024-05-12T03:59:20.988187+00:00
+
+ ## Agency AI
+ - [https://agen.cy](https://agen.cy)
+ - date_published: 2024-10-30T16:52:50.093398+00:00
+
+ ## FLIC - Food & life in Cyprus
+ - [https://flic.cy](https://flic.cy)
+ - date_published: 2024-09-17T21:36:14+00:00
+
+ ## Homepage
+ - [https://www.franklincovey.cy](https://www.franklincovey.cy)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Gomibo.cy - All phones and accessories
+ - [https://www.gomibo.cy](https://www.gomibo.cy)
+ - date_published: 2024-10-21T22:24:28.651296+00:00
+
+ ## L'Officiel Cyprus
+ - [https://www.lofficiel.cy](https://www.lofficiel.cy)
+ - date_published: 2024-09-16T09:58:55.159538+00:00
+
+ ## Επιτροπή Κεφαλαιαγοράς Κύπρου |
+ - [https://www.cysec.gov.cy](https://www.cysec.gov.cy)
+ - date_published: 2024-07-04T03:44:05.111001+00:00
+
+ ## EUROGRAPHICS | 2024
+ - [https://eg2024.cyens.org.cy](https://eg2024.cyens.org.cy)
+ - date_published: 2024-07-24T05:49:11.645251+00:00
+
+ ## CYENS - Thinker Maker Space
+ - [https://makerspace.cyens.org.cy](https://makerspace.cyens.org.cy)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Eurodesk Cyprus
+ - [https://eurodesk.idep.org.cy](https://eurodesk.idep.org.cy)
+ - date_published: 2024-09-15T20:56:06.472698+00:00
+
+ ## Αρχική
+ - [http://onek.org.cy](http://onek.org.cy)
+ - date_published: 2024-09-15T19:45:57+00:00
+
+ ## Αρχική
+ - [https://www.research.org.cy](https://www.research.org.cy)
+ - date_published: 2024-10-30T11:33:45.569937+00:00
+
+ ## Golwg360
+ - [https://golwg.360.cymru](https://golwg.360.cymru)
+ - date_published: 2024-07-04T05:24:41.304894+00:00
+
+ ## Bylines Cymru – Powerful Citizen Journalism
+ - [https://bylines.cymru](https://bylines.cymru)
+ - date_published: 2024-07-03T21:22:27.468128+00:00
+
+ ## YR ŴYL
+ - [https://dinasgerddcaerdydd.cymru](https://dinasgerddcaerdydd.cymru)
+ - date_published: 2024-06-27T16:39:05.040385+00:00
+
+ ## Homepage - Ein Cartref Arlein
+ - [http://eincartrefarlein.cymru](http://eincartrefarlein.cymru)
+ - date_published: 2024-10-11T20:13:59.999620+00:00
+
+ ## Hacio'r Iaith
+ - [https://haciaith.cymru](https://haciaith.cymru)
+ - date_published: 2024-07-04T05:24:38.440129+00:00
+
  ## Home - Inclusive Journalism Cymru
  - [https://inclusivejournalism.cymru](https://inclusivejournalism.cymru)
  - date_published: 2024-07-04T13:21:49.011246+00:00
@@ -3930,92 +4018,4 @@
  ## CD, LP, DVD, Bluray, hudební a filmové dárky - u nás najdete vše - Multiland.cz
  - [https://multiland.cz](https://multiland.cz)
  - date_published: 2024-07-12T19:50:06.989681+00:00
-
- ## Atomic Charge Calculator II
- - [https://acc2.ncbr.muni.cz](https://acc2.ncbr.muni.cz)
- - date_published: 2024-06-29T16:39:34.519569+00:00
-
- ## Aleph main menu
- - [https://aleph.muni.cz](https://aleph.muni.cz)
- - date_published: 2019-08-02T16:53:07+00:00
-
- ## AlphaCharges
- - [https://alphacharges.ncbr.muni.cz](https://alphacharges.ncbr.muni.cz)
- - date_published: 2024-06-29T16:39:35.375061+00:00
-
- ## Sign in - Matomo
- - [https://analytics.ics.muni.cz](https://analytics.ics.muni.cz)
- - date_published: 2024-07-08T18:51:22.127410+00:00
-
- ## Munispace - Web Analytics Reports - Matomo
- - [https://analytics.journals.muni.cz](https://analytics.journals.muni.cz)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## Ústav botaniky a zoologie
- - [https://botzool.sci.muni.cz](https://botzool.sci.muni.cz)
- - date_published: 2024-07-08T18:48:29.661565+00:00
-
- ## Webová stavebnice WebCentrum | WebCentrum
- - [https://cdn.muni.cz](https://cdn.muni.cz)
- - date_published: 2024-07-08T18:48:04.738293+00:00
-
- ## Dílna rozvoje pedagogických kompetencí | CERPEK
- - [https://cerpek.muni.cz](https://cerpek.muni.cz)
- - date_published: 2024-07-08T18:50:59.484874+00:00
-
- ## Centrum informačních technologií FF | IT služby Masarykovy univerzity
- - [https://cit.phil.muni.cz](https://cit.phil.muni.cz)
- - date_published: 2024-07-08T18:52:40.651758+00:00
-
- ## Masarykova univerzita založila dceřinou společnost MUNI Ventures, ve které drží 100% vlastnický podíl | Centrum pro transfer technologií Masarykovy univerzity
- - [https://ctt.muni.cz](https://ctt.muni.cz)
- - date_published: 2024-05-08T16:50:16.011981+00:00
-
- ## Home - Centre for International Cooperation | Masaryk University
- - [http://czs.muni.cz](http://czs.muni.cz)
- - date_published: 2024-07-08T18:51:09+00:00
-
- ## | Digital Library of the Faculty of Arts Masaryk University
- - [https://digilib.phil.muni.cz](https://digilib.phil.muni.cz)
- - date_published: 2024-05-08T16:49:21.208693+00:00
-
- ## Digitalia MUNI ARTS – důvěryhodná infrastruktura pro digitální platformy FF MU. | Digitalia MUNI ARTS | MUNI PHIL
- - [https://digitalia.phil.muni.cz](https://digitalia.phil.muni.cz)
- - date_published: 2024-07-08T18:48:03.040231+00:00
-
- ## Home | ELF
- - [https://elf.phil.muni.cz](https://elf.phil.muni.cz)
- - date_published: 2024-07-08T18:52:49+00:00
-
- ## EMIS
- - [http://emis.muni.cz](http://emis.muni.cz)
- - date_published: 2023-08-22T15:28:54+00:00
-
- ## Zpravodajský portál Masarykovy univerzity Magazín M
- - [https://em.muni.cz](https://em.muni.cz)
- - date_published: 2024-05-08T16:49:49.745055+00:00
-
- ## Portál elektronických informačních zdrojů MU
- - [https://ezdroje.muni.cz](https://ezdroje.muni.cz)
- - date_published: 2024-07-08T18:53:02.478773+00:00
-
- ## Špičkový partner pro řešení IT potřeb | Ústav výpočetní techniky
- - [https://ics.muni.cz](https://ics.muni.cz)
- - date_published: 2024-05-08T16:50:09.935884+00:00
-
- ## Discovery service
- - [https://idm.ics.muni.cz](https://idm.ics.muni.cz)
- - date_published: 2024-09-16T00:42:00.168418+00:00
-
- ## Enter your username and password | MUNI Unified Login
- - [https://inet.muni.cz](https://inet.muni.cz)
- - date_published: 2024-07-08T18:48:59.135477+00:00
-
- ## Informační systém
- - [https://is.muni.cz](https://is.muni.cz)
- - date_published: 2024-05-08T16:49:22.692562+00:00
-
- ## IT služby Masarykovy univerzity | IT služby Masarykovy univerzity
- - [https://it.muni.cz](https://it.muni.cz)
- - date_published: 2024-07-08T18:48:06.193777+00:00
 

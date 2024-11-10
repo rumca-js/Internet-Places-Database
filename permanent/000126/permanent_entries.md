@@ -1,3 +1,35 @@
+ ## 🎖️ Free WordPress Themes - iThemer
+ - [https://ithemer.com](https://ithemer.com)
+ - date_published: 2023-01-13T00:00:00+00:00
+
+ ## Home
+ - [https://ithemes.com](https://ithemes.com)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Plagiarism Detection Software | iThenticate
+ - [https://www.ithenticate.com](https://www.ithenticate.com)
+ - date_published: 2024-10-19T16:46:38.054152+00:00
+
+ ## iThinkDifferent
+ - [https://cdn.ithinkdiff.com](https://cdn.ithinkdiff.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## iThinkDifferent | Apple News, Reviews, and Guides
+ - [https://ithinkdiff.com](https://ithinkdiff.com)
+ - date_published: 2024-05-11T09:09:31.910086+00:00
+
+ ## Ithmar Media
+ - [https://ithmarmedia.com](https://ithmarmedia.com)
+ - date_published: 2024-09-25T10:14:40.919149+00:00
+
+ ## IT之家
+ - [https://www.ithome.com](https://www.ithome.com)
+ - date_published: 2024-08-18T06:57:52+00:00
+
+ ## Ithra Virtual Tour
+ - [https://360.ithra.com](https://360.ithra.com)
+ - date_published: 2024-01-14T10:37:10+00:00
+
  ## Ithraeyat
  - [https://api.ithraeyat.ithra.com](https://api.ithraeyat.ithra.com)
  - date_published: 2022-08-29T05:54:30+00:00
@@ -4047,38 +4079,4 @@
  ## Java Code Geeks
  - [https://www.javacodegeeks.com](https://www.javacodegeeks.com)
  - date_published: 2024-05-04T15:13:09.078434+00:00
-
- ## Explore, Learn, and Master Industry-Standard Patterns
- - [https://java-design-patterns.com](https://java-design-patterns.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## The Java GUI programming resources and its open source friends - PHP, Apache, MySQL database, Java GUI, Java visual web applications, NetBeans IDE etc
- - [https://www.javaguicodexample.com](https://www.javaguicodexample.com)
- - date_published: 2019-01-29T01:55:30+00:00
-
- ## Java House | Home
- - [https://www.javahouseafrica.com](https://www.javahouseafrica.com)
- - date_published: 2024-07-15T07:16:13.452927+00:00
-
- ## Javal Nanda
- - [https://javalnanda.com](https://javalnanda.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Javamex: Java tutorials and performance information
- - [https://www.javamex.com](https://www.javamex.com)
- - date_published: 2021-01-20T20:37:24+00:00
-
- ## Java Performance Tuning
- - [http://javaperformancetuning.com](http://javaperformancetuning.com)
- - date_published: 2024-11-08T19:49:29+00:00
- - tags: ['java']
-
- ## Java Playground
- - [https://java-playground.com](https://java-playground.com)
- - date_published: 2023-10-25T15:27:20.226781+00:00
- - tags: ['online tool']
-
- ## Java+++
- - [http://javaplusplusplus.com](http://javaplusplusplus.com)
- - date_published: 2024-10-19T15:05:17.385579+00:00
 

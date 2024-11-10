@@ -1,3 +1,92 @@
+ ## Zahid Mahmood
+ - [https://zmdev.com](https://zmdev.com)
+ - date_published: 2024-10-30T08:44:39.763960+00:00
+
+ ## ZME Science: not exactly rocket science
+ - [https://cdn.zmescience.com](https://cdn.zmescience.com)
+ - date_published: 2019-05-22T18:02:25+00:00
+
+ ## ZME Science: not exactly rocket science
+ - [https://zmescience.com](https://zmescience.com)
+ - date_published: 2023-11-09T06:35:18.336550+00:00
+ - tags: ['news', 'science news']
+
+ ## 宙世代 - 元宇宙
+ - [https://www.z-metaspace.com](https://www.z-metaspace.com)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## 知更鸟 | 崇尚专注 追求极致
+ - [https://zmingcx.com](https://zmingcx.com)
+ - date_published: 2024-08-17T13:49:21+00:00
+
+ ## zmknox
+ - [https://zmknox.com](https://zmknox.com)
+ - date_published: 2024-06-23T15:18:08.968134+00:00
+
+ ## Home Page
+ - [https://www.zmonline.com](https://www.zmonline.com)
+ - date_published: 2024-08-18T21:19:43+00:00
+
+ ## ZMS - Open Source Content Management for Science, Technology and Medicine
+ - [https://zms-publishing.com](https://zms-publishing.com)
+ - date_published: 2024-04-29T06:02:27.894118+00:00
+
+ ## Zaap | A Single Page For Your Links | Linktree + Gumroad Alternative
+ - [https://znaplink.com](https://znaplink.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## 网站建设|广州网站建设-星洋网络网站建设公司
+ - [http://www.znbo.com](http://www.znbo.com)
+ - date_published: 2024-07-01T02:21:54+00:00
+
+ ## Zneaker.com | Main
+ - [https://zneaker.com](https://zneaker.com)
+ - date_published: 2016-01-01T00:00:00+00:00
+
+ ## Zobia Alvi
+ - [https://zobiaalvi.com](https://zobiaalvi.com)
+ - date_published: 2024-01-01T17:20:33.744821+00:00
+
+ ## Branding • Print • Web • Austin, Texas - Zócalo Design
+ - [https://www.zocalodesign.com](https://www.zocalodesign.com)
+ - date_published: 2024-07-02T17:46:40+00:00
+
+ ## Zocdoc for Developers | Zocdoc
+ - [https://developer.zocdoc.com](https://developer.zocdoc.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Zocdoc | Find a Doctor Near You | Book Doctors Online
+ - [https://preview.zocdoc.com](https://preview.zocdoc.com)
+ - date_published: 2024-10-06T17:27:47.461428+00:00
+
+ ## zocdoc.com
+ - [https://support.zocdoc.com](https://support.zocdoc.com)
+ - date_published: 2024-10-06T17:27:49.001114+00:00
+
+ ## The Paper Gown
+ - [https://thepapergown.zocdoc.com](https://thepapergown.zocdoc.com)
+ - date_published: 2024-06-16T12:37:32.365750+00:00
+
+ ## Home page - Practice Resources
+ - [https://thescript.zocdoc.com](https://thescript.zocdoc.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Zocdoc | Find a Doctor Near You | Book Doctors Online
+ - [https://www.zocdoc.com](https://www.zocdoc.com)
+ - date_published: 2024-05-01T06:45:24.169286+00:00
+
+ ## Zocdoc | Find a Doctor Near You | Book Doctors Online
+ - [http://zocdoc.com](http://zocdoc.com)
+ - date_published: 2024-06-19T23:39:04.340402+00:00
+
+ ## Games for kids & adults | Official Zoch Verlag Shop
+ - [https://www.zoch-verlag.com](https://www.zoch-verlag.com)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## 8-Bit-Nirvana - Homepage für 8-Bit-Computer und Videospiele
+ - [https://zock.com](https://zock.com)
+ - date_published: 2024-04-29T05:48:24.471250+00:00
+
  ## Online Shopping for Premium Mens Clothes and Accessories | Zodiac
  - [https://www.zodiaconline.com](https://www.zodiaconline.com)
  - date_published: 2024-09-04T17:22:52.628190+00:00
@@ -3940,92 +4029,4 @@
  ## POLITIS TORA LTD
  - [https://campaign.politis.com.cy](https://campaign.politis.com.cy)
  - date_published: 2024-09-18T02:47:39.458009+00:00
-
- ## ΓΗΠΕΔΟ - ΕΦΗΜΕΡΙΔΑ ΠΟΛΙΤΗΣ
- - [https://gipedo.politis.com.cy](https://gipedo.politis.com.cy)
- - date_published: 2024-09-18T02:47:25.675787+00:00
-
- ## Παράθυρο - Λοξές ματιές στον πολιτισμό
- - [https://parathyro.politis.com.cy](https://parathyro.politis.com.cy)
- - date_published: 2024-09-18T02:47:15.222053+00:00
-
- ## ΠΟΛΙΤΗΣ - Τα λέει όλα
- - [https://politis.com.cy](https://politis.com.cy)
- - date_published: 2024-06-15T12:15:37.345988+00:00
-
- ## SiliconBlue Corporation Ltd. - Official distributors of BROTHER printers in Cyprus and Greece
- - [http://www.siliconblue.com.cy](http://www.siliconblue.com.cy)
- - date_published: 2024-06-17T20:18:44.477600+00:00
-
- ## Welcome to Toyota Cyprus (Dickran Ouzounian Co.Ltd)
- - [https://www.toyota.com.cy](https://www.toyota.com.cy)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Visa, ένας από τους έμπιστους ηγέτες στις ψηφιακές πληρωμές.
- - [https://visa.com.cy](https://visa.com.cy)
- - date_published: 2024-05-12T03:59:20.988187+00:00
-
- ## Agency AI
- - [https://agen.cy](https://agen.cy)
- - date_published: 2024-10-30T16:52:50.093398+00:00
-
- ## FLIC - Food & life in Cyprus
- - [https://flic.cy](https://flic.cy)
- - date_published: 2024-09-17T21:36:14+00:00
-
- ## Homepage
- - [https://www.franklincovey.cy](https://www.franklincovey.cy)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Gomibo.cy - All phones and accessories
- - [https://www.gomibo.cy](https://www.gomibo.cy)
- - date_published: 2024-10-21T22:24:28.651296+00:00
-
- ## L'Officiel Cyprus
- - [https://www.lofficiel.cy](https://www.lofficiel.cy)
- - date_published: 2024-09-16T09:58:55.159538+00:00
-
- ## Επιτροπή Κεφαλαιαγοράς Κύπρου |
- - [https://www.cysec.gov.cy](https://www.cysec.gov.cy)
- - date_published: 2024-07-04T03:44:05.111001+00:00
-
- ## EUROGRAPHICS | 2024
- - [https://eg2024.cyens.org.cy](https://eg2024.cyens.org.cy)
- - date_published: 2024-07-24T05:49:11.645251+00:00
-
- ## CYENS - Thinker Maker Space
- - [https://makerspace.cyens.org.cy](https://makerspace.cyens.org.cy)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Eurodesk Cyprus
- - [https://eurodesk.idep.org.cy](https://eurodesk.idep.org.cy)
- - date_published: 2024-09-15T20:56:06.472698+00:00
-
- ## Αρχική
- - [http://onek.org.cy](http://onek.org.cy)
- - date_published: 2024-09-15T19:45:57+00:00
-
- ## Αρχική
- - [https://www.research.org.cy](https://www.research.org.cy)
- - date_published: 2024-10-30T11:33:45.569937+00:00
-
- ## Golwg360
- - [https://golwg.360.cymru](https://golwg.360.cymru)
- - date_published: 2024-07-04T05:24:41.304894+00:00
-
- ## Bylines Cymru – Powerful Citizen Journalism
- - [https://bylines.cymru](https://bylines.cymru)
- - date_published: 2024-07-03T21:22:27.468128+00:00
-
- ## YR ŴYL
- - [https://dinasgerddcaerdydd.cymru](https://dinasgerddcaerdydd.cymru)
- - date_published: 2024-06-27T16:39:05.040385+00:00
-
- ## Homepage - Ein Cartref Arlein
- - [http://eincartrefarlein.cymru](http://eincartrefarlein.cymru)
- - date_published: 2024-10-11T20:13:59.999620+00:00
-
- ## Hacio'r Iaith
- - [https://haciaith.cymru](https://haciaith.cymru)
- - date_published: 2024-07-04T05:24:38.440129+00:00
 

@@ -1,3 +1,7 @@
+ ## Public Defender Dude
+ - [http://www.publicdefenderdude.blogspot.com](http://www.publicdefenderdude.blogspot.com)
+ - date_published: 2024-07-12T07:20:25+00:00
+
  ## Quantum meruit
  - [http://www.quantummeruit.blogspot.com](http://www.quantummeruit.blogspot.com)
  - date_published: 2024-03-13T20:55:26+00:00
@@ -4043,8 +4047,4 @@
  ## Bob Dylan "Like A Rolling Stone" - Official Interactive Video!
  - [https://video.bobdylan.com](https://video.bobdylan.com)
  - date_published: 2023-08-24T19:25:30+00:00
-
- ## Bob Dylan Center | Tulsa, OK
- - [https://bobdylancenter.com](https://bobdylancenter.com)
- - date_published: 2024-06-30T01:14:25.874417+00:00
 

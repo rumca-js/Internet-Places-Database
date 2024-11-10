@@ -1,3 +1,173 @@
+ ## www.wroclaw.pl – najświeższe wiadomości z Wrocławia
+ - [https://www.wroclaw.pl](https://www.wroclaw.pl)
+ - date_published: 2024-04-08T05:16:42+00:00
+
+ ## Strona startowa - ZOO Wrocław
+ - [https://bilety.zoo.wroclaw.pl](https://bilety.zoo.wroclaw.pl)
+ - date_published: 2024-08-11T04:29:00.251545+00:00
+
+ ## ZOO Wrocław - największy Polski ogród zoologiczny
+ - [https://zoo.wroclaw.pl](https://zoo.wroclaw.pl)
+ - date_published: 2024-04-17T00:00:00+00:00
+ - tags: ['zoo', 'poland', 'wrocław']
+
+ ## Strona główna
+ - [https://www.ec.zgora.pl](https://www.ec.zgora.pl)
+ - date_published: 2024-07-09T16:30:59.728194+00:00
+
+ ## Lubuski Fundusz Pożyczkowy
+ - [http://www.lfp.region.zgora.pl](http://www.lfp.region.zgora.pl)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Szpital Uniwersytecki im. Karola Marcinkowskiego w Zielonej Górze
+ - [http://www.szpital.zgora.pl](http://www.szpital.zgora.pl)
+ - date_published: 2024-07-13T19:12:42.100866+00:00
+
+ ## Instytut Sztuk Wizualnych
+ - [http://www.isw.uz.zgora.pl](http://www.isw.uz.zgora.pl)
+ - date_published: 2024-07-01T07:53:38.818414+00:00
+
+ ## Aaron's place – a personal blog
+ - [https://aaron.place](https://aaron.place)
+ - date_published: 2024-08-08T15:26:13.736570+00:00
+
+ ## Campus Complex
+ - [https://campuscomplex.place](https://campuscomplex.place)
+ - date_published: 2024-09-23T13:41:05.908277+00:00
+
+ ## Xero1 - commn.place
+ - [https://commn.place](https://commn.place)
+ - date_published: 2024-08-07T20:48:39.820434+00:00
+
+ ## daily.place
+ - [https://daily.place](https://daily.place)
+ - date_published: 2023-10-25T22:33:40.137685+00:00
+
+ ## Ceru's Place
+ - [https://derpy.place](https://derpy.place)
+ - date_published: 2024-07-22T11:44:30.567136+00:00
+
+ ## Gamedev Mastodon
+ - [https://mastodon.gamedev.place](https://mastodon.gamedev.place)
+ - date_published: 2023-10-24T20:13:37.006720+00:00
+ - tags: ['mastodon']
+
+ ## Humankind Candles
+ - [https://humankind.place](https://humankind.place)
+ - date_published: 2024-07-21T04:59:00.866036+00:00
+
+ ## JCR's Commonplace Garden
+ - [https://jcr.place](https://jcr.place)
+ - date_published: 2024-08-18T07:05:22.282485+00:00
+
+ ## Katherine Yang
+ - [https://kayserifserif.place](https://kayserifserif.place)
+ - date_published: 2024-05-04T15:11:38.153621+00:00
+
+ ## home · キーリ
+ - [https://keeri.place](https://keeri.place)
+ - date_published: 2024-05-07T19:14:10+00:00
+
+ ## Marble Place 0.0.1
+ - [https://marble.place](https://marble.place)
+ - date_published: 2024-07-09T19:28:40.929693+00:00
+
+ ## mine - 第一線の「ひらめいた！」を私のものに。
+ - [https://mine.place](https://mine.place)
+ - date_published: 2023-03-29T00:00:00+00:00
+
+ ## Mirage at Apple Park
+ - [https://mirage.place](https://mirage.place)
+ - date_published: 2024-07-09T19:12:23.329140+00:00
+
+ ## offline ~ home
+ - [https://offline.place](https://offline.place)
+ - date_published: 2024-05-23T14:57:39+00:00
+
+ ## orf.place
+ - [https://orf.place](https://orf.place)
+ - date_published: 2024-08-29T11:15:04+00:00
+
+ ## ottawa.place
+ - [https://ottawa.place](https://ottawa.place)
+ - date_published: 2024-07-14T19:31:46.445416+00:00
+
+ ## phire.place
+ - [https://phire.place](https://phire.place)
+ - date_published: 2024-05-12T06:15:21.860192+00:00
+
+ ## Plebs.place
+ - [https://plebs.place](https://plebs.place)
+ - date_published: 2024-06-15T22:33:35.399447+00:00
+
+ ## Postcard Place
+ - [https://postcard.place](https://postcard.place)
+ - date_published: 2023-11-05T19:26:38+00:00
+
+ ## Niltalk chat - Niltalk
+ - [https://www.shadow.server.run.place](https://www.shadow.server.run.place)
+ - date_published: 2024-07-06T19:19:40.560209+00:00
+
+ ## ScribblePlace
+ - [https://scribble.place](https://scribble.place)
+ - date_published: 2024-04-28T06:08:35.151711+00:00
+
+ ## The Starlight Cafe
+ - [https://fin600.slime.place](https://fin600.slime.place)
+ - date_published: 2024-02-27T20:03:21+00:00
+
+ ## Sprout | Your space, your call
+ - [https://sprout.place](https://sprout.place)
+ - date_published: 2024-05-04T14:03:01.806446+00:00
+
+ ## https://www.starter.place
+ - [https://www.starter.place](https://www.starter.place)
+ - date_published: 2024-01-09T03:44:51.201995+00:00
+
+ ## Streams
+ - [https://streams.place](https://streams.place)
+ - date_published: 2024-09-13T20:18:40.465908+00:00
+
+ ## The Commonplace | Tsh Oxenreider | Substack
+ - [https://thecommon.place](https://thecommon.place)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## The Union Place
+ - [https://union.place](https://union.place)
+ - date_published: 2024-07-04T10:31:50.977423+00:00
+
+ ## عائلة راديوهات يا مكان
+ - [https://yamakan.place](https://yamakan.place)
+ - date_published: 2022-03-22T09:08:45+00:00
+
+ ## Popular places in Lubanie, Poland
+ - [https://yellow.place](https://yellow.place)
+ - date_published: 2024-05-07T13:40:18.894144+00:00
+
+ ## Bedford Plumber | Boiler Service | Heating Engineer | Gas | Leaks
+ - [https://bedford.plumbing](https://bedford.plumbing)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## dt: duck tape for your unix pipes
+ - [https://dt.plumbing](https://dt.plumbing)
+ - date_published: 2023-10-25T22:33:46.557069+00:00
+
+ ## security.plumbing
+ - [https://social.security.plumbing](https://social.security.plumbing)
+ - date_published: 2024-05-10T06:11:11.577300+00:00
+
+ ## Welcome to your Strapi app
+ - [https://cms.step.plumbing](https://cms.step.plumbing)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Bear Plus | Award Winning Digital Agency
+ - [https://bear.plus](https://bear.plus)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Before you continue to YouTube
+ - [https://www.bet.plus](https://www.bet.plus)
+ - date_published: 2024-06-17T10:17:56.997800+00:00
+
  ## Camera+: Pro Camera & Editor
  - [https://camera.plus](https://camera.plus)
  - date_published: 2023-08-09T07:08:34+00:00
@@ -724,6 +894,19 @@
  ## ABI laboratory
  - [https://abi-laboratory.pro](https://abi-laboratory.pro)
  - date_published: 2024-07-16T20:08:48.038792+00:00
+
+ ## Adobe Illustrator Pro 28.7.1 FREE DOWNLOAD [2024]
+ - [https://adobeillustrator.pro](https://adobeillustrator.pro)
+ - date_published: 2024-09-28T17:25:41+00:00
+
+ ## Adobe Photoshop Crack (v 25.12) Free Download 2024 Version
+ - [https://adobephotoshop.pro](https://adobephotoshop.pro)
+ - date_published: 2024-09-26T19:23:56+00:00
+
+ ## Adobe Premiere Pro 2024 (v24.6.1.002) Free Download ✅
+ - [https://adobepremie.pro](https://adobepremie.pro)
+ - date_published: 2024-10-27T22:17:19+00:00
+ - tags: ['piracy']
 
  ## AFFiNE - All In One KnowledgeOS
  - [https://affine.pro](https://affine.pro)
@@ -3832,184 +4015,4 @@
  ## Empresa de web design e desenvolvimento de sites - Livetech
  - [https://livetech.pt](https://livetech.pt)
  - date_published: 2024-09-05T14:02:01.029342+00:00
-
- ## livroscotovia.pt
- - [http://www.livroscotovia.pt](http://www.livroscotovia.pt)
- - date_published: 2024-07-12T20:48:18.299542+00:00
-
- ## Home
- - [https://www.logic.pt](https://www.logic.pt)
- - date_published: 2024-09-19T02:31:57.481521+00:00
-
- ## L. Ron Hubbard — Fundador de Scientology e Dianetics
- - [https://www.lronhubbard.pt](https://www.lronhubbard.pt)
- - date_published: 2024-06-06T19:38:21.226274+00:00
-
- ## MAIDOT - Software House com Desenvolvimento Web à Medida
- - [https://www.maidot.pt](https://www.maidot.pt)
- - date_published: 2024-07-02T22:20:22.246359+00:00
-
- ## www.make-it-in-germany.com/pt
- - [https://www.make-it-in-germany.pt](https://www.make-it-in-germany.pt)
- - date_published: 2024-07-13T17:32:17.094482+00:00
-
- ## Mary Kay Portugal
- - [https://www.marykay.pt](https://www.marykay.pt)
- - date_published: 2024-06-30T09:56:07.217271+00:00
-
- ## Maserati PT Official Website - Automóveis de luxo italianos
- - [http://www.maserati.pt](http://www.maserati.pt)
- - date_published: 2024-07-12T05:10:01+00:00
-
- ## Master.D - Cursos e Formação Profissional
- - [https://www.masterd.pt](https://www.masterd.pt)
- - date_published: 2024-09-05T15:01:00.288223+00:00
-
- ## Mastodon (PT)
- - [https://masto.pt](https://masto.pt)
- - date_published: 2024-06-23T17:08:55.196272+00:00
-
- ## Máxima: Moda, beleza, lifestyle e comportamento
- - [http://www.maxima.pt](http://www.maxima.pt)
- - date_published: 2024-06-25T18:51:41.608290+00:00
-
- ## Bem-vindos à Mazak Portugal | Página Inicial | Mazak Portugal
- - [http://www.mazakeu.pt](http://www.mazakeu.pt)
- - date_published: 2024-07-16T17:31:42.890425+00:00
-
- ## Juntos Criamos o Futuro - Mediacapital
- - [http://www.mediacapital.pt](http://www.mediacapital.pt)
- - date_published: 2024-09-12T21:41:49.491632+00:00
-
- ## Medialivre
- - [http://quiosque.medialivre.pt](http://quiosque.medialivre.pt)
- - date_published: 2024-07-12T20:30:35.075948+00:00
-
- ## Página Inicial | Medialivre Boost Solutions
- - [https://www.medialivreboostsolutions.pt](https://www.medialivreboostsolutions.pt)
- - date_published: 2024-07-12T20:30:51.437146+00:00
-
- ## Medicare | Plano de Saúde eleito Escolha do Consumidor
- - [https://medicare.pt](https://medicare.pt)
- - date_published: 2024-09-09T20:11:09.965918+00:00
-
- ## Encontros | encontre solteiros no site de encontros Meetic
- - [https://www.meetic.pt](https://www.meetic.pt)
- - date_published: 2024-09-04T11:50:08.432388+00:00
-
- ## MEO Blueticket | Bilhetes para espetáculos e eventos
- - [https://blueticket.meo.pt](https://blueticket.meo.pt)
- - date_published: 2024-06-10T06:58:01.236907+00:00
-
- ## ID MEO
- - [https://cliente.meo.pt](https://cliente.meo.pt)
- - date_published: 2024-09-05T15:40:57.591151+00:00
-
- ## MEO - Broadband, TV, 5G Mobile, Phones, Electricity and Health Care
- - [https://en.meo.pt](https://en.meo.pt)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Telemóveis e Smartphones - iPhone, Samsung, Xiaomi - Loja Online | MEO
- - [https://loja.meo.pt](https://loja.meo.pt)
- - date_published: 2024-09-05T15:40:52.291679+00:00
-
- ## MEO - 5G, TV, Net, Telefone, Telemóveis, Eletricidade e Saúde
- - [https://meo.pt](https://meo.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Meteorologia marítima - Previsões marítimas gratuitas para 15 dias - METEO CONSULT MARINE
- - [https://maritima.meteoconsult.pt](https://maritima.meteoconsult.pt)
- - date_published: 2024-06-21T09:01:00.203431+00:00
-
- ## Meteorologia França - Previsões METEOROLOGIA DETALHADAS para 15 dias - METEO CONSULT
- - [https://pro.meteoconsult.pt](https://pro.meteoconsult.pt)
- - date_published: 2024-05-08T00:38:10.903322+00:00
-
- ## Meteorologia e Proteção Civil
- - [https://www.meteoestrela.pt](https://www.meteoestrela.pt)
- - date_published: 2017-09-14T17:27:24+00:00
-
- ## Seguros de Vida e Acidentes Pessoais - Metlife
- - [https://www.metlife.pt](https://www.metlife.pt)
- - date_published: 2024-07-19T16:50:27+00:00
-
- ## Ministros Voluntários de Scientology : Cursos Gratuitos
- - [http://www.ministrosvoluntarios.pt](http://www.ministrosvoluntarios.pt)
- - date_published: 2024-09-04T17:51:12.524979+00:00
-
- ## ULS da Lezíria - Unidade Local de Saúde da Lezíria
- - [https://www.hds.min-saude.pt](https://www.hds.min-saude.pt)
- - date_published: 2024-09-05T15:27:32.408880+00:00
-
- ## Peças auto - Venda online — MISTER-AUTO
- - [https://www.mister-auto.pt](https://www.mister-auto.pt)
- - date_published: 2024-10-31T02:36:56.419776+00:00
-
- ## MJJ Auto – Venda de Automoveis
- - [https://mjjauto.pt](https://mjjauto.pt)
- - date_published: 2024-09-05T15:05:47.262437+00:00
-
- ## Mobpro
- - [https://mobpro.pt](https://mobpro.pt)
- - date_published: 2024-06-25T18:50:25.902337+00:00
-
- ## MOCHE - Net móvel 5G, gigas, chamadas, SMS e roupa streetwear
- - [https://moche.pt](https://moche.pt)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Moxie - Your OutSystems Partner
- - [https://www.moxie.pt](https://www.moxie.pt)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Mulheres à Obra - Comunidade de Empreendedorismo Feminino
- - [https://www.mulheresaobra.pt](https://www.mulheresaobra.pt)
- - date_published: 2024-06-19T18:25:55.961958+00:00
-
- ## Assinatura Multipublicações
- - [https://assinaturas.multipublicacoes.pt](https://assinaturas.multipublicacoes.pt)
- - date_published: 2024-09-05T14:57:41.620799+00:00
-
- ## Assinatura Multipublicações
- - [http://multipublicacoes.pt](http://multipublicacoes.pt)
- - date_published: 2024-09-05T15:19:03.274451+00:00
-
- ## Página inicial
- - [http://www.museudearteantiga.pt](http://www.museudearteantiga.pt)
- - date_published: 2024-07-04T15:15:44.266103+00:00
-
- ## Museu de Lisboa
- - [https://acervo.museudelisboa.pt](https://acervo.museudelisboa.pt)
- - date_published: 2024-10-20T06:38:02.149078+00:00
-
- ## Museu do Aljube
- - [https://www.museudoaljube.pt](https://www.museudoaljube.pt)
- - date_published: 2024-05-04T13:34:48.830766+00:00
-
- ## Mycorp®
- - [http://www.mycorp.pt](http://www.mycorp.pt)
- - date_published: 2022-06-22T11:13:47+00:00
-
- ## Website da Fundação para um Mundo Sem Drogas: Factos sobre Drogas e Toxicodependência de Adultos e Adolescentes, Livros Informativos sobre as Drogas, Educação
- - [http://www.naoasdrogas.pt](http://www.naoasdrogas.pt)
- - date_published: 2024-09-04T17:51:28.903269+00:00
-
- ## Narconon | Reabilitação de Toxicodependentes | Educação Sobre as Drogas
- - [https://www.narconon.pt](https://www.narconon.pt)
- - date_published: 2024-09-04T18:08:48.119588+00:00
-
- ## National Geographic Portugal - Site Oficial - Ciência, natureza, história e viagens
- - [https://www.nationalgeographic.pt](https://www.nationalgeographic.pt)
- - date_published: 2024-10-14T22:48:30+00:00
-
- ## Página Inicial | Media Trends
- - [https://mediatrends.negocios.pt](https://mediatrends.negocios.pt)
- - date_published: 2024-07-12T20:30:57.336857+00:00
-
- ## Nestlé Portugal
- - [https://empresa.nestle.pt](https://empresa.nestle.pt)
- - date_published: 2024-09-14T19:39:58+00:00
-
- ## New Era Publications International ApS
- - [https://newerapublications.pt](https://newerapublications.pt)
- - date_published: 2024-06-06T19:42:34.080259+00:00
 

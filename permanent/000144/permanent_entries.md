@@ -1,4 +1,48 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-devices-startups.medicaltechoutlook.com](https://medtech-devices-startups.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:00.985076+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-europe.medicaltechoutlook.com](https://medtech-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:07.774739+00:00
+
+ ## Top Medical Technology Trends and Benefits | Medical Tech Outlook
+ - [https://med-tech.medicaltechoutlook.com](https://med-tech.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:27.718806+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-startups-apac.medicaltechoutlook.com](https://medtech-startups-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:56.629649+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://mena.medicaltechoutlook.com](https://mena.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:13:18.258888+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://mobility-aids.medicaltechoutlook.com](https://mobility-aids.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:30.040879+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://molecular-diagnostics-apac.medicaltechoutlook.com](https://molecular-diagnostics-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:20.753058+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://neurology.medicaltechoutlook.com](https://neurology.medicaltechoutlook.com)
+ - date_published: 2024-05-07T13:59:59.189697+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://neuromodulation-devices-europe.medicaltechoutlook.com](https://neuromodulation-devices-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:28.296294+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://non-invasive-device-europe.medicaltechoutlook.com](https://non-invasive-device-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:05.657864+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://orthopedic-apac.medicaltechoutlook.com](https://orthopedic-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:15.504394+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://orthopedic-europe.medicaltechoutlook.com](https://orthopedic-europe.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:19:02.091479+00:00
 
@@ -3985,48 +4029,4 @@
  ## Eliezer Yudkowsky – Medium
  - [https://yudkowsky.medium.com](https://yudkowsky.medium.com)
  - date_published: 2024-07-07T07:20:11.831145+00:00
-
- ## Yugant Nakhawa – Medium
- - [https://yugantnakhawa.medium.com](https://yugantnakhawa.medium.com)
- - date_published: 2024-06-22T07:05:23.142462+00:00
-
- ## Zachary Thomas – Medium
- - [https://zachary-thomas.medium.com](https://zachary-thomas.medium.com)
- - date_published: 2023-10-25T10:23:48.150446+00:00
-
- ## Zameer – Medium
- - [https://zameermfm.medium.com](https://zameermfm.medium.com)
- - date_published: 2024-07-29T04:28:35.209981+00:00
-
- ## Zeda.io – Medium
- - [https://zedaio.medium.com](https://zedaio.medium.com)
- - date_published: 2024-10-30T22:08:43.229854+00:00
-
- ## danah boyd – Medium
- - [https://zephoria.medium.com](https://zephoria.medium.com)
- - date_published: 2024-06-22T13:58:25.883528+00:00
-
- ## ZkNoid – Medium
- - [https://zknoid.medium.com](https://zknoid.medium.com)
- - date_published: 2024-09-21T23:29:36.561968+00:00
-
- ## zkTube – Medium
- - [https://zktmeta.medium.com](https://zktmeta.medium.com)
- - date_published: 2024-09-21T23:26:26.828250+00:00
-
- ## Alex Zlatkus – Medium
- - [https://zlatkus-alex.medium.com](https://zlatkus-alex.medium.com)
- - date_published: 2024-08-11T02:40:36.526743+00:00
-
- ## ZORA
- - [http://zora.medium.com](http://zora.medium.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Distributor of fonts by international designers.
- - [http://mediumextrabold.com](http://mediumextrabold.com)
- - date_published: 2024-07-13T15:11:56.953122+00:00
-
- ## medium-large.com
- - [http://medium-large.com](http://medium-large.com)
- - date_published: 2024-08-18T08:32:40.032733+00:00
 

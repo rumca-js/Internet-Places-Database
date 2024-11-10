@@ -1,3 +1,37 @@
+ ## Explore, Learn, and Master Industry-Standard Patterns
+ - [https://java-design-patterns.com](https://java-design-patterns.com)
+ - date_published: 2024-06-09T00:00:00+00:00
+
+ ## The Java GUI programming resources and its open source friends - PHP, Apache, MySQL database, Java GUI, Java visual web applications, NetBeans IDE etc
+ - [https://www.javaguicodexample.com](https://www.javaguicodexample.com)
+ - date_published: 2019-01-29T01:55:30+00:00
+
+ ## Java House | Home
+ - [https://www.javahouseafrica.com](https://www.javahouseafrica.com)
+ - date_published: 2024-07-15T07:16:13.452927+00:00
+
+ ## Javal Nanda
+ - [https://javalnanda.com](https://javalnanda.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Javamex: Java tutorials and performance information
+ - [https://www.javamex.com](https://www.javamex.com)
+ - date_published: 2021-01-20T20:37:24+00:00
+
+ ## Java Performance Tuning
+ - [http://javaperformancetuning.com](http://javaperformancetuning.com)
+ - date_published: 2024-11-08T19:49:29+00:00
+ - tags: ['java']
+
+ ## Java Playground
+ - [https://java-playground.com](https://java-playground.com)
+ - date_published: 2023-10-25T15:27:20.226781+00:00
+ - tags: ['online tool']
+
+ ## Java+++
+ - [http://javaplusplusplus.com](http://javaplusplusplus.com)
+ - date_published: 2024-10-19T15:05:17.385579+00:00
+
  ## JavaRanch - A friendly Place for Java Greenhorns
  - [https://javaranch.com](https://javaranch.com)
  - date_published: 2024-07-15T11:41:03.595164+00:00
@@ -4046,37 +4080,4 @@
  ## Jussi-Petteri Kemppainen – Professional portfolio
  - [https://www.jkemppainen.com](https://www.jkemppainen.com)
  - date_published: 2024-05-01T08:17:20.450056+00:00
-
- ## jkevinmorton.com is coming soon
- - [http://www.jkevinmorton.com](http://www.jkevinmorton.com)
- - date_published: 2024-07-13T10:29:12.276542+00:00
-
- ## Jamie & Lion
- - [http://jkg3.com](http://jkg3.com)
- - date_published: 2024-08-27T23:10:16+00:00
-
- ## John Kimmel Creative | Print | Web | Illustration | Lincoln Nebraska
- - [https://jkimmelcreative.com](https://jkimmelcreative.com)
- - date_published: 2024-06-15T23:45:22.843720+00:00
-
- ## jkkmobile
- - [http://jkkmobile.com](http://jkkmobile.com)
- - date_published: 2024-06-13T03:58:06+00:00
-
- ## Tax Help: Plan, Prepare, News, Tips | J.K. Lasser
- - [https://www.jklasser.com](https://www.jklasser.com)
- - date_published: 2024-07-11T13:06:22.278375+00:00
-
- ## Jaso'n k'Leinberg is still here | jkleinberg.com
- - [https://jkleinberg.com](https://jkleinberg.com)
- - date_published: 2024-01-10T23:53:20.981430+00:00
- - tags: ['personal']
-
- ## Jessica Kingsley Publishers - USA
- - [https://us.jkp.com](https://us.jkp.com)
- - date_published: 2024-07-20T18:06:54.152491+00:00
-
- ## Jessica Kingsley Publishers
- - [https://www.jkp.com](https://www.jkp.com)
- - date_published: 2024-10-21T03:16:05.987956+00:00
 

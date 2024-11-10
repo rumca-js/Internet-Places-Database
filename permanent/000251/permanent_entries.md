@@ -1,3 +1,91 @@
+ ## KitQL
+ - [https://kitql.dev](https://kitql.dev)
+ - date_published: 2024-04-30T02:19:11.843749+00:00
+
+ ## Roma’s Unpolished Posts
+ - [https://blog.kizu.dev](https://blog.kizu.dev)
+ - date_published: 2024-04-29T07:55:58.901762+00:00
+
+ ## Articles & Experiments by Roman Komarov
+ - [https://kizu.dev](https://kizu.dev)
+ - date_published: 2023-10-25T18:38:53.890565+00:00
+
+ ## Sindre Kjelsrud
+ - [https://kjelsrud.dev](https://kjelsrud.dev)
+ - date_published: 2024-07-29T19:31:10+00:00
+
+ ## Grand Line Webring
+ - [https://webring.kjelsrud.dev](https://webring.kjelsrud.dev)
+ - date_published: 2024-06-21T19:43:43+00:00
+
+ ## klange.dev
+ - [https://klange.dev](https://klange.dev)
+ - date_published: 2023-11-27T01:24:20+00:00
+
+ ## Rebrandly
+ - [https://klgh.dev](https://klgh.dev)
+ - date_published: 2022-07-05T08:14:45+00:00
+
+ ## Ivan Klimchuk
+ - [https://klimchuk.dev](https://klimchuk.dev)
+ - date_published: 2024-01-31T18:44:56.110018+00:00
+
+ ## kmcd.dev
+ - [https://kmcd.dev](https://kmcd.dev)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Redirecting
+ - [https://knative.dev](https://knative.dev)
+ - date_published: 2024-05-06T21:42:14.534615+00:00
+
+ ## Welcome – Nathan Knowler
+ - [https://knowler.dev](https://knowler.dev)
+ - date_published: 2024-05-07T23:28:08.131498+00:00
+
+ ## Karen Fletcher
+ - [https://knpfletcher.dev](https://knpfletcher.dev)
+ - date_published: 2022-08-16T16:03:28+00:00
+
+ ## Tom.K
+ - [https://tom.kobalt.dev](https://tom.kobalt.dev)
+ - date_published: 2024-06-20T21:56:01.626084+00:00
+
+ ## koch.dev
+ - [https://koch.dev](https://koch.dev)
+ - date_published: 2024-04-29T07:56:14.627737+00:00
+
+ ## chshersh aka Dmitrii Kovanikov
+ - [http://kodimensional.dev](http://kodimensional.dev)
+ - date_published: 2023-10-25T18:38:58.685350+00:00
+
+ ## kodimensional.dev
+ - [http://ww12.kodimensional.dev](http://ww12.kodimensional.dev)
+ - date_published: 2024-08-19T03:54:33.665897+00:00
+
+ ## Koel
+ - [https://demo.koel.dev](https://demo.koel.dev)
+ - date_published: 2024-06-19T22:24:43.920040+00:00
+
+ ## What Is Koel? | koel
+ - [https://docs.koel.dev](https://docs.koel.dev)
+ - date_published: 2024-10-31T05:50:13.369872+00:00
+
+ ## koel
+ - [https://koel.dev](https://koel.dev)
+ - date_published: 2024-06-19T22:28:20.709246+00:00
+
+ ## crypticat
+ - [https://c.kognise.dev](https://c.kognise.dev)
+ - date_published: 2024-06-24T03:36:02.024674+00:00
+
+ ## Color-it
+ - [https://coit.kognise.dev](https://coit.kognise.dev)
+ - date_published: 2024-06-24T03:36:38.272684+00:00
+
+ ## S1 Dashboard
+ - [https://dash.s1.kognise.dev](https://dash.s1.kognise.dev)
+ - date_published: 2024-06-24T03:36:37.708668+00:00
+
  ## FontKey
  - [https://fontkey.kognise.dev](https://fontkey.kognise.dev)
  - date_published: 2024-06-24T03:35:55.489184+00:00
@@ -971,6 +1059,10 @@
  ## Matteo Bianchi
  - [http://mb-consulting.dev](http://mb-consulting.dev)
  - date_published: 2024-09-04T12:04:31.476789+00:00
+
+ ## Prelude - Modern Java
+ - [https://javabook.mccue.dev](https://javabook.mccue.dev)
+ - date_published: 2024-11-09T17:38:11.813044+00:00
 
  ## mccue.dev
  - [https://mccue.dev](https://mccue.dev)
@@ -3987,98 +4079,4 @@
  - [https://sarajoy.dev](https://sarajoy.dev)
  - date_published: 2024-05-04T14:14:33.787926+00:00
  - tags: ['personal']
-
- ## sarcevic.dev — my website
- - [https://sarcevic.dev](https://sarcevic.dev)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Piotr Sarna
- - [https://bio.sarna.dev](https://bio.sarna.dev)
- - date_published: 2024-05-07T19:07:53.528691+00:00
-
- ## Crate comparator v0.0.42
- - [https://compare-crates.sarna.dev](https://compare-crates.sarna.dev)
- - date_published: 2022-02-24T12:17:23+00:00
-
- ## Sat Naing - A Full-stack Developer
- - [https://satnaing.dev](https://satnaing.dev)
- - date_published: 2024-08-18T02:57:12.889538+00:00
-
- ## Imprints by Saurabh Thakur
- - [https://imprints.saurabhthakur.dev](https://imprints.saurabhthakur.dev)
- - date_published: 2024-05-10T06:26:33.528424+00:00
-
- ## Saurabh Thakur
- - [https://saurabhthakur.dev](https://saurabhthakur.dev)
- - date_published: 2023-11-29T17:09:57.500467+00:00
- - tags: ['personal']
-
- ## Sayak Paul
- - [https://sayak.dev](https://sayak.dev)
- - date_published: 2024-06-21T05:23:51+00:00
-
- ## Scalar - We help you scale
- - [https://www.scalar.dev](https://www.scalar.dev)
- - date_published: 2024-07-11T16:16:54.341555+00:00
-
- ## the scapegoat dev
- - [https://the.scapegoat.dev](https://the.scapegoat.dev)
- - date_published: 2023-10-25T18:41:46.416695+00:00
-
- ## Scarlett Gately Moore – Kubuntu, KDE, Debian, KDE Neon, Ubuntu Snap Developer Blog
- - [https://www.scarlettgatelymoore.dev](https://www.scarlettgatelymoore.dev)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Building Modern Web Apps with React and Next.js
- - [https://learn.scastiel.dev](https://learn.scastiel.dev)
- - date_published: 2024-08-19T03:52:44.124989+00:00
-
- ## Sebastien Castiel · Developer, writer, indie hacker · 📍 Montreal, QC
- - [https://scastiel.dev](https://scastiel.dev)
- - date_published: 2023-10-25T18:41:47.971907+00:00
- - tags: ['personal']
-
- ## SCAYLE Academy
- - [https://academy.scayle.dev](https://academy.scayle.dev)
- - date_published: 2024-09-17T21:45:11.508682+00:00
-
- ## SCAYLE
- - [https://new.scayle.dev](https://new.scayle.dev)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Notes · Boris Schapira
- - [https://boris.schapira.dev](https://boris.schapira.dev)
- - date_published: 2024-06-28T16:03:30.188713+00:00
-
- ## Schedule-X | Material Design Event Calendar
- - [https://premium.schedule-x.dev](https://premium.schedule-x.dev)
- - date_published: 2024-06-05T07:55:42.983133+00:00
-
- ## Schedule-X
- - [https://schedule-x.dev](https://schedule-x.dev)
- - date_published: 2024-01-02T13:33:58.392698+00:00
-
- ## Tobias' blog
- - [https://schmidl.dev](https://schmidl.dev)
- - date_published: 2024-05-09T08:24:45.629313+00:00
-
- ## scnlib: Page Redirection
- - [https://scnlib.dev](https://scnlib.dev)
- - date_published: 2024-06-15T17:09:57+00:00
-
- ## Scorecard: Assess Open Source Project Security
- - [https://scorecard.dev](https://scorecard.dev)
- - date_published: 2024-07-10T17:13:22+00:00
-
- ## Custom Web Design & Development
- - [https://www.scottcarr.dev](https://www.scottcarr.dev)
- - date_published: 2024-07-04T03:28:14.739433+00:00
-
- ## porkbun.com | parked domain
- - [http://scribe.dev](http://scribe.dev)
- - date_published: 2024-07-04T05:38:43.306063+00:00
-
- ## Scriptified
- - [https://scriptified.dev](https://scriptified.dev)
- - date_published: 2024-05-27T00:00:00+00:00
 

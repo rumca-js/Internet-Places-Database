@@ -1,3 +1,15 @@
+ ## Berserk Wiki
+ - [https://berserk.fandom.com](https://berserk.fandom.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Besiege Wiki
+ - [https://besiege.fandom.com](https://besiege.fandom.com)
+ - date_published: 2024-06-16T23:03:34+00:00
+
+ ## Best Friends Whenever Wiki
+ - [https://bestfriendswhenever.fandom.com](https://bestfriendswhenever.fandom.com)
+ - date_published: 2024-06-05T14:02:17.319140+00:00
+
  ## Best Student Council Wiki
  - [https://beststudentcouncil.fandom.com](https://beststudentcouncil.fandom.com)
  - date_published: 2024-06-17T08:27:17+00:00
@@ -3986,16 +3998,4 @@
  ## The Fantage Wiki!
  - [https://fantage.fandom.com](https://fantage.fandom.com)
  - date_published: 2024-10-24T10:55:13+00:00
-
- ## Fantastic Four Movies Wiki
- - [https://fantasticfourmovies.fandom.com](https://fantasticfourmovies.fandom.com)
- - date_published: 2024-06-17T08:18:54+00:00
-
- ## Fantasy Life Wiki
- - [https://fantasy-life.fandom.com](https://fantasy-life.fandom.com)
- - date_published: 2024-06-17T06:03:46+00:00
-
- ## Fantasy Zone Database Wiki
- - [https://fantasyzone.fandom.com](https://fantasyzone.fandom.com)
- - date_published: 2024-06-17T19:36:45+00:00
 

@@ -1,3 +1,15 @@
+ ## FREE WEBINAR: Bring Your Family With You When You Study in GERMANY!
+ - [https://ue0816.eventbrite.com](https://ue0816.eventbrite.com)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Discover Your Path: Join the UK and Ireland Education Open Day
+ - [https://ukandirelandopenday.eventbrite.com](https://ukandirelandopenday.eventbrite.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## FREE WEBINAR: Study Masters in Canada and Bring Your Family with You!
+ - [https://unf0812.eventbrite.com](https://unf0812.eventbrite.com)
+ - date_published: 2024-08-12T00:00:00+00:00
+
  ## University of Wollongong Open Day!
  - [https://uowopendaywithaug.eventbrite.com](https://uowopendaywithaug.eventbrite.com)
  - date_published: 2024-09-13T16:22:38.428074+00:00
@@ -4012,16 +4024,4 @@
  ## Eye of Justice | Exploring and Creating Things
  - [https://www.eyeofjustice.com](https://www.eyeofjustice.com)
  - date_published: 2024-01-21T00:06:11+00:00
-
- ## Pikachizer
- - [http://pikachize.eye-of-newt.com](http://pikachize.eye-of-newt.com)
- - date_published: 2013-01-29T23:57:22+00:00
-
- ## Eye of Newt Books
- - [https://www.eyeofnewtpress.com](https://www.eyeofnewtpress.com)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Eye of Riyadh
- - [http://m.eyeofriyadh.com](http://m.eyeofriyadh.com)
- - date_published: 2024-09-25T00:00:00+00:00
 

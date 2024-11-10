@@ -1,3 +1,27 @@
+ ## History Magazines: Subscribe Today at HistoryNet.com!
+ - [https://shop.historynet.com](https://shop.historynet.com)
+ - date_published: 2024-08-19T09:27:52.277557+00:00
+
+ ## The History of English Podcast | The Spoken History of a Global Language
+ - [https://historyofenglishpodcast.com](https://historyofenglishpodcast.com)
+ - date_published: 2024-07-10T02:18:59.772783+00:00
+
+ ## History of Information
+ - [https://www.historyofinformation.com](https://www.historyofinformation.com)
+ - date_published: 2024-06-20T01:18:34.813634+00:00
+
+ ## The History of Personal Computing
+ - [http://historyofpersonalcomputing.com](http://historyofpersonalcomputing.com)
+ - date_published: 2024-09-09T13:48:39.498497+00:00
+
+ ## Jeremy Norman’s HistoryofScience.com - Rare Books, Manuscripts & Autographs, Publications, Appraisals, Traditions & Culture of Collecting
+ - [http://www.historyofscience.com](http://www.historyofscience.com)
+ - date_published: 2024-06-24T09:31:29.273856+00:00
+
+ ## History of Westeros Podcast
+ - [http://www.historyofwesteros.com](http://www.historyofwesteros.com)
+ - date_published: 2024-07-06T00:00:00+00:00
+
  ## h-madness
  - [https://historypsychiatry.com](https://historypsychiatry.com)
  - date_published: 2024-10-29T18:23:30.410056+00:00
@@ -4005,28 +4029,4 @@
  ## Tyrol hotels & apartments, all accommodations in Tyrol
  - [https://www.hotels-in-tyrol.com](https://www.hotels-in-tyrol.com)
  - date_published: 2024-06-21T16:24:08.032132+00:00
-
- ## STUDIO 6-LAFAYETTE, LA - BROUSSARD HOTEL 2⋆ ::: LA, UNITED STATES ::: COMPARE HOTEL RATES
- - [https://studio-6-broussard.hotels-lafayette.com](https://studio-6-broussard.hotels-lafayette.com)
- - date_published: 2024-10-22T04:03:17.006369+00:00
-
- ## Hotel 10 Keys Milan - new 2024 prices, reviews, book now
- - [http://10-keys-milano.hotels-lombardy.com](http://10-keys-milano.hotels-lombardy.com)
- - date_published: 2024-06-29T12:18:01.451970+00:00
-
- ## Hotel 21 House Of Stories Citta Studi Milan - new 2024 prices, reviews, book now
- - [http://21wol-milano-centro.hotels-lombardy.com](http://21wol-milano-centro.hotels-lombardy.com)
- - date_published: 2024-06-29T12:54:09.311513+00:00
-
- ## Hotel 43 Station Milan - new 2024 prices, reviews, book now
- - [http://43-station-hotel.hotels-lombardy.com](http://43-station-hotel.hotels-lombardy.com)
- - date_published: 2024-06-29T12:28:59.043809+00:00
-
- ## Hotel Abacus Sesto San Giovanni - new 2024 prices, reviews, book now
- - [http://abacus-sesto-san-giovanni.hotels-lombardy.com](http://abacus-sesto-san-giovanni.hotels-lombardy.com)
- - date_published: 2024-06-29T12:54:00.827917+00:00
-
- ## Hotel Mantegna Stazione Mantova - new 2024 prices, reviews, book now
- - [http://abc-comfort-hotel-mantova-city-centre.hotels-lombardy.com](http://abc-comfort-hotel-mantova-city-centre.hotels-lombardy.com)
- - date_published: 2024-06-29T12:17:47.430194+00:00
 

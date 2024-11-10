@@ -1,3 +1,111 @@
+ ## Homepage - Scholarshipnet.info
+ - [http://www.scholarshipnet.info](http://www.scholarshipnet.info)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Scholars Portal
+ - [https://books.scholarsportal.info](https://books.scholarsportal.info)
+ - date_published: 2024-02-23T14:04:33+00:00
+
+ ## Borealis: The Canadian Dataverse Repository
+ - [https://dataverse.scholarsportal.info](https://dataverse.scholarsportal.info)
+ - date_published: 2024-06-27T21:35:09+00:00
+
+ ## SCHR
+ - [http://schr.info](http://schr.info)
+ - date_published: 2024-08-07T22:28:37.207389+00:00
+
+ ## Schweizerdeutsch Info
+ - [https://www.schweizerdeutsch.info](https://www.schweizerdeutsch.info)
+ - date_published: 2024-07-11T15:29:59.424958+00:00
+
+ ## נסיכת המדעים
+ - [http://www.sci-princess.info](http://www.sci-princess.info)
+ - date_published: 2024-06-30T09:10:33.902930+00:00
+
+ ## Screen Size Calculator
+ - [https://screen-size.info](https://screen-size.info)
+ - date_published: 2024-07-23T23:39:50.625367+00:00
+
+ ## Ads Pro - Advanced WordPress Ad Manager, Advertising Plugin
+ - [https://adspro.scripteo.info](https://adspro.scripteo.info)
+ - date_published: 2024-06-25T16:20:19.887735+00:00
+
+ ## Homepage - Tabnine
+ - [https://tabnine.scriptics.info](https://tabnine.scriptics.info)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Unofficial Road to Dynamic Server Meshing
+ - [https://sc-server-meshing.info](https://sc-server-meshing.info)
+ - date_published: 2023-10-25T19:34:35.685051+00:00
+
+ ## Stavros Diolatzis
+ - [https://sdiolatz.info](https://sdiolatz.info)
+ - date_published: 2024-05-17T13:57:32.791306+00:00
+ - tags: ['personal']
+
+ ## Synth DIY Wiki
+ - [https://sdiy.info](https://sdiy.info)
+ - date_published: 2024-07-04T18:19:15+00:00
+
+ ## Sea-level and climate change information
+ - [https://sealevel.info](https://sealevel.info)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## John Elliott's homepage
+ - [https://www.seasip.info](https://www.seasip.info)
+ - date_published: 2018-01-31T21:06:08+00:00
+ - tags: ['personal']
+
+ ## Le blog de Seboss666 – Les divagations d'un pseudo-geek curieux
+ - [https://blog.seboss666.info](https://blog.seboss666.info)
+ - date_published: 2024-09-05T18:06:36.582660+00:00
+
+ ## Informed Consent
+ - [http://www.secgov.info](http://www.secgov.info)
+ - date_published: 2024-03-13T02:49:26+00:00
+
+ ## The Information Technology Daily
+ - [https://securityexpress.info](https://securityexpress.info)
+ - date_published: 2024-07-14T08:23:30+00:00
+
+ ## Penetration Testing
+ - [https://cdn-0.securityonline.info](https://cdn-0.securityonline.info)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Penetration Testing • Information Security
+ - [https://securityonline.info](https://securityonline.info)
+ - date_published: 2023-10-25T19:34:38.319127+00:00
+ - tags: ['cybersecurity']
+
+ ## 16 years of CVE-2008-0166 – Debian OpenSSL Bug
+ - [https://16years.secvuln.info](https://16years.secvuln.info)
+ - date_published: 2024-05-12T09:19:35+00:00
+
+ ## NO STARTTLS
+ - [https://nostarttls.secvuln.info](https://nostarttls.secvuln.info)
+ - date_published: 2023-10-25T19:34:40.409030+00:00
+
+ ## Alles over sekswerk in Nederland | Sekswerk.info
+ - [https://www.sekswerk.info](https://www.sekswerk.info)
+ - date_published: 2024-06-27T11:49:32+00:00
+
+ ## Comparez et réduisez vos factures avec Selectra
+ - [https://selectra.info](https://selectra.info)
+ - date_published: 2021-06-10T14:06:20+00:00
+
+ ## Mike Jones: self-issued – Musings on Digital Identity
+ - [https://self-issued.info](https://self-issued.info)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Self-Refine: Iterative Refinement with Self-Feedback
+ - [https://selfrefine.info](https://selfrefine.info)
+ - date_published: 2024-01-13T18:35:06+00:00
+
+ ## Website search engine, Reverse IP Lookup
+ - [https://sengine.info](https://sengine.info)
+ - date_published: 2024-06-10T07:08:56.525284+00:00
+ - tags: ['search engine']
+
  ## Obsolete
  - [http://septicisle.info](http://septicisle.info)
  - date_published: 2024-06-18T11:10:28.020225+00:00
@@ -3924,109 +4032,4 @@
  ## Introduction to GitOps and Argo CD - Online Course by Akuity
  - [https://academy.akuity.io](https://academy.akuity.io)
  - date_published: 2024-04-28T02:36:23.684395+00:00
-
- ## Deploy to Kubernetes safely and at scale with Argo CD as a managed service | Akuity
- - [https://akuity.io](https://akuity.io)
- - date_published: 2023-10-25T19:37:25.269732+00:00
-
- ## Akuity Platform Overview | Akuity Docs
- - [https://docs.akuity.io](https://docs.akuity.io)
- - date_published: 2024-04-28T02:36:28.840977+00:00
-
- ## What is Kargo? | Kargo Docs
- - [https://kargo.akuity.io](https://kargo.akuity.io)
- - date_published: 2024-04-28T02:36:27.718703+00:00
-
- ## Akuity Status
- - [https://status.akuity.io](https://status.akuity.io)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Trust Center
- - [https://trust.akuity.io](https://trust.akuity.io)
- - date_published: 2024-04-28T02:36:35.221711+00:00
-
- ## Albert Cory
- - [https://www.albertcory.io](https://www.albertcory.io)
- - date_published: 2024-08-19T15:02:10.218730+00:00
-
- ## Alembic
- - [https://alembic.io](https://alembic.io)
- - date_published: 2016-07-06T22:25:38+00:00
-
- ## Open Index Protocol
- - [https://www.alexandria.io](https://www.alexandria.io)
- - date_published: 2024-06-14T11:58:29.014793+00:00
-
- ## if err ≠ nil
- - [https://alexejk.io](https://alexejk.io)
- - date_published: 2023-07-04T17:29:48+00:00
-
- ## Alex Ellis' Blog
- - [https://blog.alexellis.io](https://blog.alexellis.io)
- - date_published: 2023-10-25T08:59:05.007883+00:00
- - tags: ['personal']
-
- ## The Treasure Trove - weekly Insiders' Updates from Alex Ellis
- - [https://insiders.alexellis.io](https://insiders.alexellis.io)
- - date_published: 2024-06-27T16:02:32.170139+00:00
-
- ## Create awareness. Reach developers.
- - [https://www.alexellis.io](https://www.alexellis.io)
- - date_published: 2022-09-23T07:28:48+00:00
-
- ## Alex Flint
- - [http://www.alexflint.io](http://www.alexflint.io)
- - date_published: 2024-08-07T16:37:15.446814+00:00
-
- ## Alf.io
- - [https://alf.io](https://alf.io)
- - date_published: 2024-06-19T22:14:50.972414+00:00
-
- ## Alf.io, the open source ticket reservation system
- - [https://demo.alf.io](https://demo.alf.io)
- - date_published: 2024-06-19T22:10:17.951045+00:00
-
- ## AlgoMaster Newsletter | Ashish Pratap Singh | Substack
- - [https://blog.algomaster.io](https://blog.algomaster.io)
- - date_published: 2024-03-31T00:00:00+00:00
-
- ## Algomint
- - [https://www.algomint.io](https://www.algomint.io)
- - date_published: 2024-03-07T16:01:39+00:00
-
- ## Algora
- - [https://console.algora.io](https://console.algora.io)
- - date_published: 2023-10-25T19:37:26.590641+00:00
-
- ## Alguna: Modern SaaS Pricing, Quoting & Billing Platform
- - [https://alguna.io](https://alguna.io)
- - date_published: 2024-04-29T07:41:33.417127+00:00
-
- ## Alguna
- - [https://blog.alguna.io](https://blog.alguna.io)
- - date_published: 2024-07-23T22:15:46.588460+00:00
-
- ## Concepts - Alguna Docs
- - [https://docs.alguna.io](https://docs.alguna.io)
- - date_published: 2024-07-23T22:15:48.310603+00:00
-
- ## Alien Worlds: Master the Metaverse
- - [https://alienworlds.io](https://alienworlds.io)
- - date_published: 2024-06-20T01:14:09.491541+00:00
-
- ## Build Alien Worlds with Galactic Hubs
- - [https://ghubs.alienworlds.io](https://ghubs.alienworlds.io)
- - date_published: 2024-10-31T15:02:47.949417+00:00
-
- ## Alien Worlds
- - [https://play.alienworlds.io](https://play.alienworlds.io)
- - date_published: 2024-10-31T15:02:50.654677+00:00
-
- ## Alien Worlds: Master the Metaverse
- - [https://support.alienworlds.io](https://support.alienworlds.io)
- - date_published: 2024-10-31T15:02:49.612941+00:00
-
- ## Alien Worlds, Teleport
- - [https://teleport.alienworlds.io](https://teleport.alienworlds.io)
- - date_published: 2024-10-31T15:02:42.043969+00:00
 
