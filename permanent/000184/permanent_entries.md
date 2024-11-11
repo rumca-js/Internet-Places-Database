@@ -1,3 +1,56 @@
+ ## AI Recruiting: Screening Candidates Effectively | ShortlistIQ
+ - [https://www.shortlistiq.com](https://www.shortlistiq.com)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Before you continue to YouTube
+ - [https://shortlogs.com](https://shortlogs.com)
+ - date_published: 2024-04-29T07:48:48.466265+00:00
+
+ ## ShortlyAI | Your AI Writing Partner. Get rid of writer's block.
+ - [https://www.shortlyai.com](https://www.shortlyai.com)
+ - date_published: 2024-01-24T17:59:11+00:00
+
+ ## Watch the Best Short Films | Short of the Week
+ - [https://www.shortoftheweek.com](https://www.shortoftheweek.com)
+ - date_published: 2024-07-21T04:22:17.708914+00:00
+
+ ## Shortpacked! - Blog
+ - [http://www.shortpacked.com](http://www.shortpacked.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Smart Image/CSS/JS Optimization Services and CDN for Websites
+ - [https://shortpixel.com](https://shortpixel.com)
+ - date_published: 2024-06-19T21:10:28.437345+00:00
+
+ ## ShortPixel status
+ - [https://status.shortpixel.com](https://status.shortpixel.com)
+ - date_published: 2024-08-06T20:16:37.744964+00:00
+
+ ## Short Ruby Newsletter | Lucian Ghinda | Substack
+ - [https://newsletter.shortruby.com](https://newsletter.shortruby.com)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Short Ruby
+ - [https://shortruby.com](https://shortruby.com)
+ - date_published: 2024-07-10T11:06:01.806152+00:00
+
+ ## Home | The Short Story Project
+ - [https://shortstoryproject.com](https://shortstoryproject.com)
+ - date_published: 2021-10-24T06:55:45+00:00
+
+ ## Book Summaries in Minutes
+ - [https://shortsummarybook.com](https://shortsummarybook.com)
+ - date_published: 2023-12-17T05:07:22.055260+00:00
+ - tags: ['personal']
+
+ ## Short Walks ~ Long Paths
+ - [https://shortwalkslongpaths.com](https://shortwalkslongpaths.com)
+ - date_published: 2024-05-02T12:44:13.856603+00:00
+
+ ## Shortwave — The smartest email app on planet Earth
+ - [https://app.shortwave.com](https://app.shortwave.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
  ## Shortwave — The smartest email app on planet Earth
  - [https://shortwave.com](https://shortwave.com)
  - date_published: 2023-10-25T17:03:40.767954+00:00
@@ -3991,57 +4044,4 @@
  ## Sinclair ZX80 / ZX81 / Z88 Forums - Index page
  - [https://www.sinclairzxworld.com](https://www.sinclairzxworld.com)
  - date_published: 2024-08-07T00:00:00+00:00
-
- ## Sinden Lightgun® – The official site for the Sinden Lightgun®
- - [https://sindenlightgun.com](https://sindenlightgun.com)
- - date_published: 2024-09-04T01:30:38.399456+00:00
-
- ## Home
- - [https://store.sinderlyn.com](https://store.sinderlyn.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## Sindhu Shivaprasad
- - [https://sindhushivaprasad.com](https://sindhushivaprasad.com)
- - date_published: 2024-01-05T10:28:36.978417+00:00
-
- ## Sindice - The semantic web index
- - [http://sindice.com](http://sindice.com)
- - date_published: 2020-08-04T18:44:36+00:00
-
- ## Sindre Sorhus
- - [https://sindresorhus.com](https://sindresorhus.com)
- - date_published: 2023-10-25T17:05:01.970721+00:00
- - tags: ['personal']
-
- ## Sindrome Contenta, el síndrome de Down en Positivo
- - [https://www.sindromecontenta.com](https://www.sindromecontenta.com)
- - date_published: 2024-08-06T22:45:30.462447+00:00
-
- ## Sinergise
- - [https://sinergise.com](https://sinergise.com)
- - date_published: 2024-07-08T12:53:35.694814+00:00
-
- ## SineRider
- - [https://sinerider.com](https://sinerider.com)
- - date_published: 2024-05-04T09:13:18.975738+00:00
-
- ## Sineus Financial Services GmbH
- - [https://www.sineus.com](https://www.sineus.com)
- - date_published: 2024-10-09T12:19:21.030183+00:00
-
- ## Sinewave Design :: Edinburgh Digital Agency
- - [http://sinewavedesign.com](http://sinewavedesign.com)
- - date_published: 2024-07-14T05:00:15.998820+00:00
-
- ## Singapore Airlines Agent 360 Official Website
- - [https://agent360.singaporeair.com](https://agent360.singaporeair.com)
- - date_published: 2019-12-10T09:17:02+00:00
-
- ## Login
- - [https://auagencysales.singaporeair.com](https://auagencysales.singaporeair.com)
- - date_published: 2024-09-25T12:55:28.899790+00:00
-
- ## Singapore Airlines Official Website | Book International Flight Tickets
- - [http://www.singaporeair.com](http://www.singaporeair.com)
- - date_published: 2024-06-16T14:51:31.803387+00:00
 

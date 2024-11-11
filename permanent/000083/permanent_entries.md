@@ -1,3 +1,15 @@
+ ## Dazeland - On ne vous fera pas suer avec les cookies !
+ - [http://www.dazeland.com](http://www.dazeland.com)
+ - date_published: 2024-08-31T21:26:50+00:00
+
+ ## DAZN
+ - [http://watch.dazn.com](http://watch.dazn.com)
+ - date_published: 2024-07-03T13:13:25+00:00
+
+ ## DAZN
+ - [https://www.dazn.com](https://www.dazn.com)
+ - date_published: 2024-07-03T13:13:25+00:00
+
  ## Dazzle Camouflage
  - [https://dazzlecamouflage.com](https://dazzlecamouflage.com)
  - date_published: 2019-01-05T23:13:56+00:00
@@ -3263,6 +3275,10 @@
  - [https://surveys-help.delighted.com](https://surveys-help.delighted.com)
  - date_published: 2024-06-16T10:20:32.812798+00:00
 
+ ## Delighted – Customer feedback with Net Promoter Score
+ - [https://web.delighted.com](https://web.delighted.com)
+ - date_published: 2024-11-10T07:39:04.320139+00:00
+
  ## / [Homepage]
  - [https://delightedapp.com](https://delightedapp.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -4035,20 +4051,4 @@
  ## HOME | Dempsey Food
  - [https://www.dempseyfood.com](https://www.dempseyfood.com)
  - date_published: 1970-01-01T00:00:00+00:00
-
- ## HOME | Dempsey Industrial
- - [https://www.dempseyindustrial.com](https://www.dempseyindustrial.com)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Demuxed 2015
- - [https://2015.demuxed.com](https://2015.demuxed.com)
- - date_published: 2016-05-16T20:21:25+00:00
-
- ## Demuxed, The Conference for Video Engineers
- - [https://2016.demuxed.com](https://2016.demuxed.com)
- - date_published: 2016-10-13T00:00:00+00:00
-
- ## Demuxed, The Conference for Video Engineers
- - [https://2017.demuxed.com](https://2017.demuxed.com)
- - date_published: 2017-10-05T00:00:00+00:00
 

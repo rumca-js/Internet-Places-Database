@@ -1,3 +1,95 @@
+ ## Research Guides: Home: Home
+ - [https://library.stevens.edu](https://library.stevens.edu)
+ - date_published: 2024-05-07T20:31:33.640131+00:00
+
+ ## Stevens Institute of Technology - Sign In
+ - [https://login.stevens.edu](https://login.stevens.edu)
+ - date_published: 2024-05-07T20:31:38.475638+00:00
+
+ ## Stevens Institute of Technology
+ - [https://stevens.edu](https://stevens.edu)
+ - date_published: 2023-11-02T13:02:30.527891+00:00
+
+ ## Stevens-Henager College in Utah and Idaho
+ - [http://www.stevenshenager.edu](http://www.stevenshenager.edu)
+ - date_published: 2024-10-18T05:52:49.373590+00:00
+
+ ## St. John's Law Scholarship Repository | St. John's University School of Law Research
+ - [https://scholarship.law.stjohns.edu](https://scholarship.law.stjohns.edu)
+ - date_published: 2024-03-01T13:48:16.671327+00:00
+
+ ## St. John's University - Sign In
+ - [https://signon.stjohns.edu](https://signon.stjohns.edu)
+ - date_published: 2024-07-08T17:45:18.692362+00:00
+
+ ## Turn Passion into Purpose at St. John's University | New York, NY
+ - [https://www.stjohns.edu](https://www.stjohns.edu)
+ - date_published: 2024-05-08T12:19:09.769369+00:00
+
+ ## Home - St. John's College
+ - [https://community.stjohnscollege.edu](https://community.stjohnscollege.edu)
+ - date_published: 2024-05-07T20:24:54.452245+00:00
+
+ ## Admissions & Aid
+ - [https://apply.stlawu.edu](https://apply.stlawu.edu)
+ - date_published: 2024-07-07T22:01:39+00:00
+
+ ## Student Scholarship Showcase | Scholar
+ - [https://scholar.stlawu.edu](https://scholar.stlawu.edu)
+ - date_published: 2024-08-18T04:06:12.031357+00:00
+
+ ## St. Lawrence University
+ - [https://stlawu.edu](https://stlawu.edu)
+ - date_published: 2024-05-08T10:52:04.996530+00:00
+
+ ## St. Lawrence University
+ - [https://student.stlawu.edu](https://student.stlawu.edu)
+ - date_published: 2024-07-07T18:57:43+00:00
+
+ ## A House of Priestly Formation and Theological Education | St. Mary Seminary
+ - [https://stmarysem.edu](https://stmarysem.edu)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Stonehill College
+ - [https://www.stonehill.edu](https://www.stonehill.edu)
+ - date_published: 2024-10-31T05:28:41.063678+00:00
+
+ ## Stony Brook University
+ - [https://alumniandfriends.stonybrook.edu](https://alumniandfriends.stonybrook.edu)
+ - date_published: 2024-09-15T15:12:40.179791+00:00
+
+ ## Stony Brook University
+ - [https://calendar.stonybrook.edu](https://calendar.stonybrook.edu)
+ - date_published: 2024-09-15T15:12:45.445631+00:00
+
+ ## Career Center | Stony Brook University
+ - [https://career.stonybrook.edu](https://career.stonybrook.edu)
+ - date_published: 2024-09-15T15:12:17.766620+00:00
+
+ ## Home | Cybersecurity
+ - [https://cybersecurity.stonybrook.edu](https://cybersecurity.stonybrook.edu)
+ - date_published: 2024-08-05T20:38:51.873529+00:00
+
+ ## Undergraduate Admissions at Stony Brook University
+ - [https://enroll.stonybrook.edu](https://enroll.stonybrook.edu)
+ - date_published: 2024-09-15T15:12:23.602083+00:00
+
+ ## Stony Brook University
+ - [http://go.stonybrook.edu](http://go.stonybrook.edu)
+ - date_published: 2024-08-05T20:38:54.118097+00:00
+
+ ## Home
+ - [https://help.stonybrook.edu](https://help.stonybrook.edu)
+ - date_published: 2024-08-05T20:38:55.678700+00:00
+
+ ## ISC 2019: 22nd Information Security Conference
+ - [https://isc2019.cs.stonybrook.edu](https://isc2019.cs.stonybrook.edu)
+ - date_published: 2019-09-18T16:02:47+00:00
+
+ ## Beyond IT | Division of Information Technology
+ - [https://it.stonybrook.edu](https://it.stonybrook.edu)
+ - date_published: 2024-04-29T04:27:23.123828+00:00
+
  ## lcpc2020.cs.stonybrook.edu
  - [https://lcpc2020.cs.stonybrook.edu](https://lcpc2020.cs.stonybrook.edu)
  - date_published: 2024-05-07T21:17:03.219784+00:00
@@ -3917,96 +4009,4 @@
  ## Interactive Map - University of Colorado, Denver
  - [https://map.ucdenver.edu](https://map.ucdenver.edu)
  - date_published: 2024-08-11T06:21:09.827297+00:00
-
- ## Sign in to Outlook
- - [http://myemail.ucdenver.edu](http://myemail.ucdenver.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## News Home - CU Denver News
- - [https://news.ucdenver.edu](https://news.ucdenver.edu)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Home | Colorado PROFILES
- - [https://profiles.ucdenver.edu](https://profiles.ucdenver.edu)
- - date_published: 2024-07-22T05:15:41.583879+00:00
-
- ## CU Anschutz Off-Campus Access (EZProxy)
- - [https://proxy.hsl.ucdenver.edu](https://proxy.hsl.ucdenver.edu)
- - date_published: 2022-12-19T00:00:00+00:00
-
- ## Home / EMS
- - [https://ptssweb316.ucdenver.edu](https://ptssweb316.ucdenver.edu)
- - date_published: 2024-07-22T04:56:19.340882+00:00
-
- ## CU Denver School of Public Affairs Home Page
- - [https://publicaffairs.ucdenver.edu](https://publicaffairs.ucdenver.edu)
- - date_published: 2024-08-09T00:05:56+00:00
-
- ## Office of Research Services & Research Administration | CU Denver
- - [https://research.ucdenver.edu](https://research.ucdenver.edu)
- - date_published: 2024-08-10T00:11:04+00:00
-
- ## Home / EMS
- - [https://schedule.ucdenver.edu](https://schedule.ucdenver.edu)
- - date_published: 2024-07-22T18:41:28.756483+00:00
-
- ## School of Medicine | University of Colorado
- - [https://som.ucdenver.edu](https://som.ucdenver.edu)
- - date_published: 2023-01-13T21:35:31+00:00
-
- ## University of Colorado Denver | CU Denver
- - [https://ucdenver.edu](https://ucdenver.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Advising
- - [https://appleseed.cs.ucf.edu](https://appleseed.cs.ucf.edu)
- - date_published: 2024-05-11T07:18:07.290047+00:00
-
- ## Admissions - College of Graduate Studies
- - [https://applynow.graduate.ucf.edu](https://applynow.graduate.ucf.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Home - College of Graduate Studies
- - [https://apps.graduate.ucf.edu](https://apps.graduate.ucf.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Academic Program Quality
- - [https://apq.ucf.edu](https://apq.ucf.edu)
- - date_published: 2024-07-13T11:52:01.801726+00:00
-
- ## UCF Board of Trustees
- - [https://bot.ucf.edu](https://bot.ucf.edu)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Summer 2024 | Academic Calendar | UCF
- - [http://calendar.ucf.edu](http://calendar.ucf.edu)
- - date_published: 2024-07-13T11:52:34.626450+00:00
-
- ## Department of Computer Science
- - [https://cs.ucf.edu](https://cs.ucf.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Bounce, Stomp, Splash, Cheer! | UCF Day of Giving 2024
- - [https://dayofgiving.ucf.edu](https://dayofgiving.ucf.edu)
- - date_published: 2024-07-13T11:52:06.682831+00:00
-
- ## Autonomous and Intelligent Systems – Just another WordPress site
- - [https://eecs.ucf.edu](https://eecs.ucf.edu)
- - date_published: 2024-01-09T03:28:03.267934+00:00
-
- ## University of Central Florida Events | Today's Events
- - [https://events.ucf.edu](https://events.ucf.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Graduate Catalog | University of Central Florida
- - [http://graduatecatalog.ucf.edu](http://graduatecatalog.ucf.edu)
- - date_published: 2024-07-13T11:52:08.030699+00:00
-
- ## Graduate Council
- - [https://graduatecouncil.ucf.edu](https://graduatecouncil.ucf.edu)
- - date_published: 2024-07-13T11:52:25.396881+00:00
-
- ## Home - College of Graduate Studies
- - [https://graduate.ucf.edu](https://graduate.ucf.edu)
- - date_published: 2024-04-11T00:00:00+00:00
 

@@ -1,3 +1,95 @@
+ ## Human Rights Library- University of Minnesota
+ - [http://hrlibrary.umn.edu](http://hrlibrary.umn.edu)
+ - date_published: 2022-05-07T15:59:08+00:00
+
+ ## Sign In | HRMS Instruction
+ - [https://hrms.umn.edu](https://hrms.umn.edu)
+ - date_published: 2024-06-21T17:10:55+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://hr.umn.edu](https://hr.umn.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Health Sciences Library | Health Sciences Libraries
+ - [https://hsl.lib.umn.edu](https://hsl.lib.umn.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Home | University of Minnesota Office of Human Resources
+ - [https://humanresources.umn.edu](https://humanresources.umn.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://ici.umn.edu](https://ici.umn.edu)
+ - date_published: 2024-09-06T13:40:41.144415+00:00
+
+ ## Institute for Diversity, Equity, and Advocacy | Institute for Diversity, Equity and Advocacy
+ - [http://idea.umn.edu](http://idea.umn.edu)
+ - date_published: 2024-07-10T14:59:09+00:00
+
+ ## Home
+ - [https://interact.csom.umn.edu](https://interact.csom.umn.edu)
+ - date_published: 2024-07-03T18:08:12+00:00
+
+ ## IT@UMN | The people behind the technology |
+ - [https://it.umn.edu](https://it.umn.edu)
+ - date_published: 2024-07-02T01:40:28+00:00
+
+ ## IVR Initiative Home Page | CIDRAP
+ - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
+ - date_published: 2024-05-07T21:30:46.779392+00:00
+
+ ## We Are the Noise: The Echoes of Our Ancestors | University of Minnesota Juneteenth Celebration
+ - [https://juneteenth.umn.edu](https://juneteenth.umn.edu)
+ - date_published: 2024-07-10T14:51:45+00:00
+
+ ## Kusske Design Initiative
+ - [https://kdi.umn.edu](https://kdi.umn.edu)
+ - date_published: 2024-07-08T14:57:40.332054+00:00
+
+ ## LATIS | CLA Neighborhood
+ - [http://latis.umn.edu](http://latis.umn.edu)
+ - date_published: 2024-07-01T21:26:53+00:00
+
+ ## Kathryn A. Martin Library | UMN Duluth
+ - [https://lib.d.umn.edu](https://lib.d.umn.edu)
+ - date_published: 2024-07-13T16:50:48+00:00
+
+ ## Home - UMN Libraries News & Events
+ - [https://libnews.umn.edu](https://libnews.umn.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Rodney A. Briggs Library | UMN Morris Library
+ - [https://library.morris.umn.edu](https://library.morris.umn.edu)
+ - date_published: 2024-07-10T14:22:37+00:00
+
+ ## Libraries home | University of Minnesota Libraries
+ - [https://lib.umn.edu](https://lib.umn.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Labovitz School of Business and Economics | UMN Duluth
+ - [https://lsbe.d.umn.edu](https://lsbe.d.umn.edu)
+ - date_published: 2024-07-11T15:46:00+00:00
+
+ ## Web Login Service
+ - [http://mail.umn.edu](http://mail.umn.edu)
+ - date_published: 2024-07-13T17:15:25.969779+00:00
+
+ ## Home page | Majors
+ - [https://majors.umn.edu](https://majors.umn.edu)
+ - date_published: 2024-07-10T14:13:21+00:00
+
+ ## Donate to the University of Minnesota
+ - [https://makingagift.umn.edu](https://makingagift.umn.edu)
+ - date_published: 2024-05-07T21:30:21.659502+00:00
+
+ ## Manifold @uminnpress
+ - [https://manifold.umn.edu](https://manifold.umn.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## UMN - MARS Lab
+ - [http://mars.cs.umn.edu](http://mars.cs.umn.edu)
+ - date_published: 2019-11-08T00:00:00+00:00
+
  ## Welcome to MCAE | MCAE
  - [http://mcae.umn.edu](http://mcae.umn.edu)
  - date_published: 2024-07-12T16:13:40+00:00
@@ -3924,97 +4016,4 @@
  ## Wellness at Penn | Wellness at Penn
  - [http://coronavirus.upenn.edu](http://coronavirus.upenn.edu)
  - date_published: 2024-09-15T15:18:33.697551+00:00
-
- ## Search Classes
- - [https://courses.upenn.edu](https://courses.upenn.edu)
- - date_published: 2024-06-18T19:31:59+00:00
-
- ## Department of Criminology
- - [http://crim.sas.upenn.edu](http://crim.sas.upenn.edu)
- - date_published: 2024-06-22T06:01:41+00:00
-
- ## Welcome - The Center for Social Impact Strategy
- - [https://csis.upenn.edu](https://csis.upenn.edu)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Computational Social Science Lab | Projects and Labs
- - [https://css.seas.upenn.edu](https://css.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:35.839983+00:00
-
- ## Penn CURF
- - [https://curf.upenn.edu](https://curf.upenn.edu)
- - date_published: 2024-07-02T03:46:41+00:00
-
- ## Development and Alumni Relations |
- - [https://dar.seas.upenn.edu](https://dar.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:50.740386+00:00
-
- ## MSE in Data Science
- - [https://dats.seas.upenn.edu](https://dats.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:43.441043+00:00
-
- ## Wharton Digital Content Archive
- - [https://dca.wharton.upenn.edu](https://dca.wharton.upenn.edu)
- - date_published: 2024-10-14T20:17:09.010291+00:00
-
- ## Digital.library server at Penn Libraries
- - [https://digital.library.upenn.edu](https://digital.library.upenn.edu)
- - date_published: 2022-07-29T17:55:35+00:00
-
- ## Penn Online Directory - Search
- - [https://directory.apps.upenn.edu](https://directory.apps.upenn.edu)
- - date_published: 2024-05-07T21:58:26.537026+00:00
-
- ## Faculty Directory |
- - [https://directory.seas.upenn.edu](https://directory.seas.upenn.edu)
- - date_published: 2024-07-02T10:30:40.094131+00:00
-
- ## Office of Diversity, Equity and Inclusion |
- - [https://diversity.seas.upenn.edu](https://diversity.seas.upenn.edu)
- - date_published: 2024-07-02T10:29:58.936381+00:00
-
- ## Diversity and Inclusion | Penn Diversity and Inclusion
- - [https://diversity.upenn.edu](https://diversity.upenn.edu)
- - date_published: 2024-07-02T05:36:46+00:00
- - tags: ['dei']
-
- ## Homepage
- - [https://doctoral.wharton.upenn.edu](https://doctoral.wharton.upenn.edu)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Distributed Systems Laboratory – Investigating Advanced Distributed Systems and Networking Technologies
- - [https://dsl.cis.upenn.edu](https://dsl.cis.upenn.edu)
- - date_published: 2024-07-02T10:30:52.757825+00:00
-
- ## Engineering Entrepreneurship | Fostering Innovation for Future Leaders
- - [https://eent.seas.upenn.edu](https://eent.seas.upenn.edu)
- - date_published: 2024-07-02T10:32:48.406481+00:00
-
- ## Home Page
- - [https://employers.mbacareers.wharton.upenn.edu](https://employers.mbacareers.wharton.upenn.edu)
- - date_published: 2024-09-29T00:00:00+00:00
-
- ## Engheta Group – At the University of Pennsylvania
- - [https://engheta.seas.upenn.edu](https://engheta.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:26.449680+00:00
-
- ## Homepage
- - [https://entrepreneurship.wharton.upenn.edu](https://entrepreneurship.wharton.upenn.edu)
- - date_published: 2024-06-16T21:52:57.298608+00:00
-
- ## Engineering Operational Services |
- - [https://eos.seas.upenn.edu](https://eos.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:31.521423+00:00
-
- ## EPM – Electronic Photonic Microsystems Lab
- - [https://epm.seas.upenn.edu](https://epm.seas.upenn.edu)
- - date_published: 2024-07-07T09:23:23.194643+00:00
-
- ## Home Page
- - [https://esg.wharton.upenn.edu](https://esg.wharton.upenn.edu)
- - date_published: 2024-10-18T22:36:28.488774+00:00
-
- ## Penn Engineering Events |
- - [https://events.seas.upenn.edu](https://events.seas.upenn.edu)
- - date_published: 2024-05-07T21:58:19.158165+00:00
 

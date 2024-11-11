@@ -1,3 +1,96 @@
+ ## UW Email Preference Center
+ - [https://subscribe.gifts.washington.edu](https://subscribe.gifts.washington.edu)
+ - date_published: 2024-05-08T09:17:45.769653+00:00
+
+ ## The Taskar Center for Accessible Technology – Designing for the fullness of human experience
+ - [https://tcat.cs.washington.edu](https://tcat.cs.washington.edu)
+ - date_published: 2024-02-08T21:51:19.755775+00:00
+
+ ## ArtsUW Events | Arts Events
+ - [https://tickets.artsevents.washington.edu](https://tickets.artsevents.washington.edu)
+ - date_published: 2024-06-19T23:11:24+00:00
+
+ ## types.cs.washington.edu
+ - [https://types.cs.washington.edu](https://types.cs.washington.edu)
+ - date_published: 2017-01-30T19:26:47+00:00
+
+ ## Celebrate Black freedom this Juneteenth
+ - [http://washington.edu](http://washington.edu)
+ - date_published: 2024-06-17T05:53:08+00:00
+ - tags: ['university']
+
+ ## APL-UW Website - Home
+ - [https://www.apl.washington.edu](https://www.apl.washington.edu)
+ - date_published: 2024-06-30T06:32:43.642140+00:00
+
+ ## ARTT:  Analysis and Response Toolkit for Trust
+ - [https://www.artt.cs.washington.edu](https://www.artt.cs.washington.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Department of Atmospheric and Climate Science | An academic department of the University of Washington College of the Environment
+ - [https://www.atmos.washington.edu](https://www.atmos.washington.edu)
+ - date_published: 2024-08-19T04:33:00.311404+00:00
+
+ ## Home | Biostatistics
+ - [http://www.biostat.washington.edu](http://www.biostat.washington.edu)
+ - date_published: 2024-06-28T15:55:35+00:00
+
+ ## Homepage - The University of Washington Bothell
+ - [http://www.bothell.washington.edu](http://www.bothell.washington.edu)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## UW Civil & Environmental Engineering Home Page | Civil & Environmental Engineering
+ - [http://www.ce.washington.edu](http://www.ce.washington.edu)
+ - date_published: 2024-09-18T19:13:15.165394+00:00
+
+ ## UW Chemical Engineering Homepage
+ - [http://www.cheme.washington.edu](http://www.cheme.washington.edu)
+ - date_published: 2024-09-18T19:13:21.102986+00:00
+
+ ## The Integrator 2020
+ - [http://www.ee.washington.edu](http://www.ee.washington.edu)
+ - date_published: 2024-06-22T09:50:58.023215+00:00
+
+ ## University of Washington College of Engineering
+ - [https://www.engr.washington.edu](https://www.engr.washington.edu)
+ - date_published: 2024-06-30T05:46:07.945539+00:00
+
+ ## Home | UW School of Law
+ - [http://www.law.washington.edu](http://www.law.washington.edu)
+ - date_published: 2024-06-17T11:15:39.451297+00:00
+
+ ## Department of Mathematics | University of Washington
+ - [http://www.math.washington.edu](http://www.math.washington.edu)
+ - date_published: 2024-06-30T06:56:42+00:00
+
+ ## UW Mechanical Engineering Homepage
+ - [http://www.me.washington.edu](http://www.me.washington.edu)
+ - date_published: 2024-09-18T19:13:10.824358+00:00
+
+ ## UW Materials Science & Engineering
+ - [http://www.mse.washington.edu](http://www.mse.washington.edu)
+ - date_published: 2024-09-18T19:13:01.697553+00:00
+
+ ## Institute for Nano-engineered Systems
+ - [http://www.nano.washington.edu](http://www.nano.washington.edu)
+ - date_published: 2024-06-29T22:27:06.286110+00:00
+
+ ## Department of Political Science | University of Washington
+ - [http://www.polisci.washington.edu](http://www.polisci.washington.edu)
+ - date_published: 2024-06-17T10:05:36+00:00
+
+ ## Home | University of Washington Department of Statistics
+ - [http://www.stat.washington.edu](http://www.stat.washington.edu)
+ - date_published: 2024-06-22T21:06:16+00:00
+
+ ## Affordable & Accredited Online Certificate Programs by WTI
+ - [https://www.washingtontech.edu](https://www.washingtontech.edu)
+ - date_published: 2024-06-25T16:18:21.739658+00:00
+
+ ## Washington & Jefferson College
+ - [http://www.washjeff.edu](http://www.washjeff.edu)
+ - date_published: 2024-02-23T00:00:00+00:00
+
  ## Login - Academica
  - [https://academica.aws.wayne.edu](https://academica.aws.wayne.edu)
  - date_published: 2024-07-02T14:00:04.199469+00:00
@@ -3945,105 +4038,4 @@
  ## Poorvu Center for Teaching and Learning
  - [https://poorvucenter.yale.edu](https://poorvucenter.yale.edu)
  - date_published: 2024-07-02T00:00:00+00:00
-
- ## Office of the President
- - [https://president.yale.edu](https://president.yale.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Welcome
- | University Privacy Office
- - [https://privacy.yale.edu](https://privacy.yale.edu)
- - date_published: 2024-07-02T13:35:27+00:00
-
- ## Office of the Provost
- - [http://provost.yale.edu](http://provost.yale.edu)
- - date_published: 2024-07-02T15:47:09+00:00
-
- ## Home
- |  Department of Psychology
- - [https://psychology.yale.edu](https://psychology.yale.edu)
- - date_published: 2024-06-22T08:13:38+00:00
-
- ## Welcome to Yale Recycling
- | Yale Recycling
- - [https://recycling.yale.edu](https://recycling.yale.edu)
- - date_published: 2024-07-02T10:10:52+00:00
-
- ## Welcome | University Registrar's Office
- - [http://registrar.yale.edu](http://registrar.yale.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Welcome
- | Registration Resources
- - [https://registration.yale.edu](https://registration.yale.edu)
- - date_published: 2024-07-02T11:35:17+00:00
-
- ## Yale Center for Research Computing
- - [https://research.computing.yale.edu](https://research.computing.yale.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Homepage
- - [https://research.yale.edu](https://research.yale.edu)
- - date_published: 2024-07-01T14:46:24+00:00
-
- ## Popular Romance Fiction: The Literature of Hope 
- | Popular Romance Fiction Conference
- - [https://romancefictionconference.yale.edu](https://romancefictionconference.yale.edu)
- - date_published: 2024-07-04T10:26:30+00:00
-
- ## Home | Student Accessibility Services
- - [https://sas.yale.edu](https://sas.yale.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Yale Library Study Spaces Scheduling -
-        Yale University Library
- - [https://schedule.yale.edu](https://schedule.yale.edu)
- - date_published: 2024-07-01T03:31:52.664337+00:00
-
- ## Quicksearch - Yale Library
- - [https://search.library.yale.edu](https://search.library.yale.edu)
- - date_published: 2024-07-02T15:45:00.452444+00:00
-
- ## Yale School of Engineering & Applied Science
- - [https://seas.yale.edu](https://seas.yale.edu)
- - date_published: 2024-07-02T13:41:33+00:00
-
- ## Welcome
- | Office of the Secretary and Vice President for University Life
- - [https://secretary.yale.edu](https://secretary.yale.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Central Authentication Service | Yale University
- - [https://secure.its.yale.edu](https://secure.its.yale.edu)
- - date_published: 2024-07-02T15:44:03.924366+00:00
-
- ## Yale Peabody Museum
- - [https://shop.peabody.yale.edu](https://shop.peabody.yale.edu)
- - date_published: 2024-07-02T15:50:18.997272+00:00
-
- ## Welcome
- | Title IX at Yale
- - [http://smr.yale.edu](http://smr.yale.edu)
- - date_published: 2024-07-02T10:33:58+00:00
-
- ## Services - IT at Yale
- - [https://software.yale.edu](https://software.yale.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## Join Yale SOM Connect
- - [https://somconnect.yale.edu](https://somconnect.yale.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Yale School of Management | Educating Leaders for Business and Society
- - [https://som.yale.edu](https://som.yale.edu)
- - date_published: 2024-05-07T22:43:51.615080+00:00
-
- ## Yale School of Public Health
- - [https://sph.yale.edu](https://sph.yale.edu)
- - date_published: 2024-05-07T22:44:18.373285+00:00
-
- ## Student Life
- | Office of the Secretary and Vice President for University Life
- - [http://studentlife.yale.edu](http://studentlife.yale.edu)
- - date_published: 2024-07-02T15:43:58+00:00
 

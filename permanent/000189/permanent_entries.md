@@ -1,3 +1,59 @@
+ ## Essential Intelligence
+ - [https://prod.spglobal.com](https://prod.spglobal.com)
+ - date_published: 2024-08-07T23:00:21+00:00
+
+ ## Essential Intelligence
+ - [https://spgi-mkto.spglobal.com](https://spgi-mkto.spglobal.com)
+ - date_published: 2024-06-18T15:45:01+00:00
+
+ ## Essential Intelligence
+ - [https://spglobal.com](https://spglobal.com)
+ - date_published: 2024-07-08T10:00:41+00:00
+
+ ## {title}
+ - [https://www.marketplace.spglobal.com](https://www.marketplace.spglobal.com)
+ - date_published: 2024-06-18T15:55:13.669571+00:00
+
+ ## Home - Strategic Planning Group
+ - [https://www.spgutah.com](https://www.spgutah.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Das Sphärentor - Dein Tor zu fantastischen Welten!
+ - [http://www.sphaerentor.com](http://www.sphaerentor.com)
+ - date_published: 2024-07-02T20:56:47.738159+00:00
+
+ ## SPH Engineering
+ - [https://www.sphengineering.com](https://www.sphengineering.com)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Sphere Abacus - Entertainment that Counts
+ - [https://www.sphere-abacus.com](https://www.sphere-abacus.com)
+ - date_published: 2024-10-22T09:53:59.068082+00:00
+
+ ## SPHERE Magazine
+ - [https://www.spherelife.com](https://www.spherelife.com)
+ - date_published: 2024-10-31T10:42:21+00:00
+
+ ## Accueil - Sphere Media Productions
+ - [https://sphere-media.com](https://sphere-media.com)
+ - date_published: 2024-10-22T09:54:01.666426+00:00
+
+ ## Creating trust in a digital world - Sphereon
+ - [https://sphereon.com](https://sphereon.com)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## Spherical Cow Consulting - Translating geek to human
+ - [https://sphericalcowconsulting.com](https://sphericalcowconsulting.com)
+ - date_published: 2023-10-25T17:10:09.453631+00:00
+
+ ## Home - Spherity
+ - [https://spherity.com](https://spherity.com)
+ - date_published: 2024-07-22T11:21:13.922652+00:00
+
+ ## Bienvenue dans l’espace mis à disposition du DITP et ses partenaires par la société Le Sphinx !
+ - [https://sgmap.sphinxdeclic.com](https://sgmap.sphinxdeclic.com)
+ - date_published: 2023-09-22T09:05:46+00:00
+
  ## Sphinx Fine Art
  - [http://www.sphinxfineart.com](http://www.sphinxfineart.com)
  - date_published: 2024-06-24T09:08:47.426889+00:00
@@ -3180,6 +3236,7 @@
  ## HARVESTELLA for Nintendo Switch & Steam | SQUARE ENIX
  - [https://harvestella.square-enix-games.com](https://harvestella.square-enix-games.com)
  - date_published: 2024-10-25T10:57:20.520401+00:00
+ - tags: ['video game']
 
  ## Square Enix Store | Italia
  - [https://it.store.square-enix-games.com](https://it.store.square-enix-games.com)
@@ -3192,6 +3249,7 @@
  ## VISIONS OF MANA for PlayStation 5, 4, Xbox Series X | S, PC via Steam | SQUARE ENIX
  - [https://mana.square-enix-games.com](https://mana.square-enix-games.com)
  - date_published: 2024-06-16T00:00:00+00:00
+ - tags: ['video game']
 
  ## Square Enix Store | North America
  - [https://na.store.square-enix-games.com](https://na.store.square-enix-games.com)
@@ -3974,60 +4032,4 @@
  ## THE BITTER SOUTHERNER - Great Stories from the South
  - [https://bittersoutherner.squarespace.com](https://bittersoutherner.squarespace.com)
  - date_published: 2024-05-10T05:42:13.820676+00:00
-
- ## Roote
- - [https://blackbird-grouse-je9z.squarespace.com](https://blackbird-grouse-je9z.squarespace.com)
- - date_published: 2024-09-12T19:51:26.678879+00:00
-
- ## Open-RMF
- - [https://blackbird-leopard-8err.squarespace.com](https://blackbird-leopard-8err.squarespace.com)
- - date_published: 2024-07-08T12:38:30.299300+00:00
-
- ## Blackheart
- - [https://blackheartnew.squarespace.com](https://blackheartnew.squarespace.com)
- - date_published: 2024-08-20T05:23:39.537525+00:00
-
- ## Seattle Anxiety Specialists - Psychiatry, Psychology, and Psychotherapy
- - [https://blake-thompson-c9d9.squarespace.com](https://blake-thompson-c9d9.squarespace.com)
- - date_published: 2024-08-05T18:30:26.601134+00:00
-
- ## Art and Poetry — Sherrie Lovler
- - [https://blenny-parakeet-dtj4.squarespace.com](https://blenny-parakeet-dtj4.squarespace.com)
- - date_published: 2024-09-19T22:50:01.860964+00:00
-
- ## The Official Squarespace Newsroom
- - [http://blog.squarespace.com](http://blog.squarespace.com)
- - date_published: 2024-06-26T22:05:25.291309+00:00
-
- ## Sport Oregon / A Nonprofit Promoting Sports in Oregon
- - [https://blueberry-carrot-ydxs.squarespace.com](https://blueberry-carrot-ydxs.squarespace.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Agility Robotics
- - [https://blueberry-minnow-94wp.squarespace.com](https://blueberry-minnow-94wp.squarespace.com)
- - date_published: 2024-05-01T02:42:15.419008+00:00
-
- ## Mike Lull Custom Guitars
- - [https://bluebird-daffodil-es5y.squarespace.com](https://bluebird-daffodil-es5y.squarespace.com)
- - date_published: 2024-08-19T21:04:44.547710+00:00
-
- ## Mike Sgier Comics, Prints & Illustration
- - [https://bluebird-squid-ffrw.squarespace.com](https://bluebird-squid-ffrw.squarespace.com)
- - date_published: 2024-09-05T22:23:59.070204+00:00
-
- ## Minds Behind Maps
- - [https://bluebird-star-4e83.squarespace.com](https://bluebird-star-4e83.squarespace.com)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## APPG on the Future of Work
- - [https://blue-eagle-fnhp.squarespace.com](https://blue-eagle-fnhp.squarespace.com)
- - date_published: 2024-07-13T11:56:17.964746+00:00
-
- ## Bone Health Policy Institute
- - [https://blue-red-3bt7.squarespace.com](https://blue-red-3bt7.squarespace.com)
- - date_published: 2024-10-15T06:18:16.766266+00:00
-
- ## Bobbie Chen
- - [https://bobbie-chen-wztt.squarespace.com](https://bobbie-chen-wztt.squarespace.com)
- - date_published: 2024-05-08T03:03:58.251405+00:00
 

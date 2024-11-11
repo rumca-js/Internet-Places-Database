@@ -746,7 +746,7 @@
  ## Find new games
  - [https://50gameslike.com](https://50gameslike.com)
  - date_published: 2023-10-27T13:24:34.247396+00:00
- - tags: ['ranking']
+ - tags: ['page rank']
 
  ## 50Hertz Tingly Foods
  - [https://50hertzfoods.com](https://50hertzfoods.com)
@@ -1679,6 +1679,7 @@
  ## 8-Bit Hordes on Steam
  - [http://www.8bithordes.com](http://www.8bithordes.com)
  - date_published: 2024-10-26T22:31:26.856664+00:00
+ - tags: ['video game']
 
  ## 8Bitiz
  - [https://8bitiz.com](https://8bitiz.com)

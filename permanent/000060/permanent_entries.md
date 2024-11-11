@@ -1,3 +1,11 @@
+ ## Little Devices That Could
+ - [http://littledevicesthatcould.blogspot.com](http://littledevicesthatcould.blogspot.com)
+ - date_published: 2024-05-11T13:33:31+00:00
+
+ ## Little Flower Petals
+ - [http://littleflowerpetals.blogspot.com](http://littleflowerpetals.blogspot.com)
+ - date_published: 2024-03-17T06:24:13+00:00
+
  ## Little Lead People
  - [http://littleleadpeople.blogspot.com](http://littleleadpeople.blogspot.com)
  - date_published: 2024-03-14T04:18:18+00:00
@@ -4003,12 +4011,4 @@
  ## Neuroskeptic
  - [http://neuroskeptic.blogspot.com](http://neuroskeptic.blogspot.com)
  - date_published: 2024-02-15T00:00:00+00:00
-
- ## neurotic Iraqi wife
- - [http://neurotic-iraqi-wife.blogspot.com](http://neurotic-iraqi-wife.blogspot.com)
- - date_published: 2019-11-11T00:00:00+00:00
-
- ## Never Come Ashore
- - [https://nevercomeashore.blogspot.com](https://nevercomeashore.blogspot.com)
- - date_published: 1999-01-01T00:00:00+00:00
 

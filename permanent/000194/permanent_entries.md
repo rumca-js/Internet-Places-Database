@@ -1,3 +1,55 @@
+ ## Stripes Korea
+ - [https://korea.stripes.com](https://korea.stripes.com)
+ - date_published: 2024-08-19T02:05:27+00:00
+
+ ## Santas home Page | letterstosanta2
+ - [https://letterstosanta.stripes.com](https://letterstosanta.stripes.com)
+ - date_published: 2024-08-19T05:12:40.006759+00:00
+
+ ## Stars and Stripes | Month of the Military Child
+ - [https://militarychild.stripes.com](https://militarychild.stripes.com)
+ - date_published: 2024-07-19T07:27:14+00:00
+
+ ## Obituaries
+ - [https://obituaries.stripes.com](https://obituaries.stripes.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## PenPal | Stars and Stripes
+ - [https://penpal.stripes.com](https://penpal.stripes.com)
+ - date_published: 2024-08-19T05:13:03.173911+00:00
+
+ ## Stripes Printshop
+ - [https://printshop.stripes.com](https://printshop.stripes.com)
+ - date_published: 2024-08-19T05:12:57.221444+00:00
+
+ ## Stars and Stripes | The U.S. military's independent news source.
+ - [https://stripes.com](https://stripes.com)
+ - date_published: 2023-10-25T17:18:37.243036+00:00
+
+ ## Largest source of military transition assistance information and jobs for today's veterans
+ - [https://veteranjobs.stripes.com](https://veteranjobs.stripes.com)
+ - date_published: 2024-08-19T05:12:43.412157+00:00
+
+ ## Contact Us | Stars and Stripes
+ - [https://ww2.stripes.com](https://ww2.stripes.com)
+ - date_published: 2024-08-19T03:37:06.356947+00:00
+
+ ## Stripe Transfer - Reliably migrate a Stripe account
+ - [https://stripetransfer.com](https://stripetransfer.com)
+ - date_published: 2023-09-22T11:28:33+00:00
+
+ ## Peer Stritzinger GmbH — Stritzinger.com
+ - [https://stritzinger.com](https://stritzinger.com)
+ - date_published: 2021-08-01T09:50:40+00:00
+
+ ## Transforming Kidney Care - Strive Health
+ - [https://strivehealth.com](https://strivehealth.com)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Strixus
+ - [https://strixus.com](https://strixus.com)
+ - date_published: 2021-01-27T00:00:00+00:00
+
  ## Wouter van Oortmerssen
  - [https://strlen.com](https://strlen.com)
  - date_published: 2022-12-07T18:52:23+00:00
@@ -760,6 +812,15 @@
  ## Studio Yip!
  - [https://studioyip.com](https://studioyip.com)
  - date_published: 2024-06-21T21:54:56+00:00
+
+ ## Careers homepage
+ - [https://jobs.studocu.com](https://jobs.studocu.com)
+ - date_published: 2024-11-10T07:40:03.900931+00:00
+
+ ## Studocu Global - Study Notes for Students Worldwide
+ - [https://studocu.com](https://studocu.com)
+ - date_published: 2024-11-10T07:36:40+00:00
+ - tags: ['students', 'cheating', 'education']
 
  ## College Entrance Exam Test Prep: ACT, SAT, AP and More
  - [https://collegeprep.study.com](https://collegeprep.study.com)
@@ -4034,64 +4095,4 @@
  - [https://dakotavadams.substack.com](https://dakotavadams.substack.com)
  - date_published: 2023-10-25T09:46:25.312897+00:00
  - tags: ['substack']
-
- ## Ma Petite Lettre | Damien Aresta | Substack
- - [https://damienaa.substack.com](https://damienaa.substack.com)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Mania Riddle | Damien Laird | Substack
- - [https://damienlaird.substack.com](https://damienlaird.substack.com)
- - date_published: 2024-05-08T09:58:33.719465+00:00
-
- ## Damn Dev | Abhishek Sriwastav | Substack
- - [https://damndev.substack.com](https://damndev.substack.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Notes from the Middleground | Damon Linker | Substack
- - [https://damonlinker.substack.com](https://damonlinker.substack.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Sober Soulful | Dana Leigh Lyons | Substack
- - [https://danaleighlyons.substack.com](https://danaleighlyons.substack.com)
- - date_published: 2024-01-08T15:36:32.857614+00:00
-
- ## Look Behind You! | Dan Carlin | Substack
- - [https://dancarlin.substack.com](https://dancarlin.substack.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Alex Danco's Newsletter | Substack
- - [https://danco.substack.com](https://danco.substack.com)
- - date_published: 2024-06-29T21:20:23.756047+00:00
-
- ## The Held Report | Dan Held | Substack
- - [https://danheld.substack.com](https://danheld.substack.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## DanHonMusic | Substack
- - [https://danhon.substack.com](https://danhon.substack.com)
- - date_published: 2024-06-21T01:54:01.613720+00:00
-
- ## Keep the Republic | Daniel Bobinski | Substack
- - [https://danielbobinski.substack.com](https://danielbobinski.substack.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Daniel Chang | Substack
- - [https://danielchang.substack.com](https://danielchang.substack.com)
- - date_published: 2024-08-19T14:54:03.087049+00:00
-
- ## Drezner’s World | Daniel W. Drezner | Substack
- - [https://danieldrezner.substack.com](https://danieldrezner.substack.com)
- - date_published: 2024-04-29T04:47:22.043174+00:00
-
- ## Israel from the Inside with Daniel Gordis | Substack
- - [https://danielgordis.substack.com](https://danielgordis.substack.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## LEJOG 2023 | Daniel Janus | Substack
- - [https://danieljanus.substack.com](https://danieljanus.substack.com)
- - date_published: 2024-06-01T05:05:56.263230+00:00
-
- ## Future History | Daniel Jeffries | Substack
- - [https://danieljeffries.substack.com](https://danieljeffries.substack.com)
- - date_published: 2024-01-09T01:39:10.786106+00:00
 

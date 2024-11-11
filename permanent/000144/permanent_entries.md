@@ -1,4 +1,44 @@
  ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-design-and-development.medicaltechoutlook.com](https://medical-device-design-and-development.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:03.410390+00:00
+
+ ## Latest in Medical Device Manufacturing APAC 2019 | MedTech Outlook
+ - [https://medical-device-manufacturing-apac.medicaltechoutlook.com](https://medical-device-manufacturing-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:33.099526+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-manufacturing-mena.medicaltechoutlook.com](https://medical-device-manufacturing-mena.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:22.727480+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-regulatory-and-compliance.medicaltechoutlook.com](https://medical-device-regulatory-and-compliance.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:10:50.101659+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-device-sterilization-europe.medicaltechoutlook.com](https://medical-device-sterilization-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:28.277641+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-equipment-maintenance-apac.medicaltechoutlook.com](https://medical-equipment-maintenance-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:19:04.014883+00:00
+
+ ## Latest Trends in Medical Equipment Manufacturing | Medical Tech Outlook
+ - [https://medical-equipment-maintenance.medicaltechoutlook.com](https://medical-equipment-maintenance.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:26.167282+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-imaging-equipment.medicaltechoutlook.com](https://medical-imaging-equipment.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:14.792789+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medical-sensor-equipment-europe.medicaltechoutlook.com](https://medical-sensor-equipment-europe.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:11:38.461585+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
+ - [https://medtech-apac.medicaltechoutlook.com](https://medtech-apac.medicaltechoutlook.com)
+ - date_published: 2024-06-29T20:12:18.776202+00:00
+
+ ## MedTech Outlook: Medical Technology Magazine for Healthcare System
  - [https://medtech-devices-startups.medicaltechoutlook.com](https://medtech-devices-startups.medicaltechoutlook.com)
  - date_published: 2024-06-29T20:12:00.985076+00:00
 
@@ -3988,45 +4028,4 @@
  ## Yann Eves – Medium
  - [https://yanneves.medium.com](https://yanneves.medium.com)
  - date_published: 2024-07-02T21:21:08.953922+00:00
-
- ## Yash Banka – Medium
- - [https://yashbanka.medium.com](https://yashbanka.medium.com)
- - date_published: 2024-05-10T06:45:27.709317+00:00
-
- ## Yassine EL KHAL – Medium
- - [https://yassineelkhal.medium.com](https://yassineelkhal.medium.com)
- - date_published: 2024-04-30T07:42:33.970310+00:00
- - tags: ['personal']
-
- ## John Pradeep Vincent – Medium
- - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
- - date_published: 2023-10-25T10:23:46.196937+00:00
-
- ## From Narrow To General AI – Medium
- - [https://ykulbashian.medium.com](https://ykulbashian.medium.com)
- - date_published: 2024-06-14T08:16:11.550055+00:00
-
- ## Yoav Goldwein – Medium
- - [https://yoav298.medium.com](https://yoav298.medium.com)
- - date_published: 2024-09-12T19:00:21.115520+00:00
-
- ## Yogesh Malik – Medium
- - [https://yogeshmalik.medium.com](https://yogeshmalik.medium.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Submit a request – Medium Help Center
- - [http://yourfriends.medium.com](http://yourfriends.medium.com)
- - date_published: 2024-08-07T19:14:44.865957+00:00
-
- ## Medium
- - [https://youssefraafat57.medium.com](https://youssefraafat57.medium.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Yancey Strickler – Medium
- - [https://ystrickler.medium.com](https://ystrickler.medium.com)
- - date_published: 2024-04-28T04:55:18.569319+00:00
-
- ## Eliezer Yudkowsky – Medium
- - [https://yudkowsky.medium.com](https://yudkowsky.medium.com)
- - date_published: 2024-07-07T07:20:11.831145+00:00
 

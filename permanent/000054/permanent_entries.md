@@ -1,3 +1,11 @@
+ ## Vermont Business Directory : Businesses in Vermont
+ - [https://vermont.bizhwy.com](https://vermont.bizhwy.com)
+ - date_published: 2024-06-29T19:24:42.039679+00:00
+
+ ## Virginia Business Directory : Businesses in Virginia
+ - [https://virginia.bizhwy.com](https://virginia.bizhwy.com)
+ - date_published: 2024-06-29T19:24:12.221753+00:00
+
  ## Washington Business Directory : Businesses in Washington
  - [https://washington.bizhwy.com](https://washington.bizhwy.com)
  - date_published: 2024-06-29T19:24:33.508250+00:00
@@ -4042,12 +4050,4 @@
  ## Academic Jungle
  - [https://academic-jungle.blogspot.com](https://academic-jungle.blogspot.com)
  - date_published: 2024-03-14T18:03:10+00:00
-
- ## A Canadian in Space
- - [http://acanadianinspace.blogspot.com](http://acanadianinspace.blogspot.com)
- - date_published: 2024-08-29T08:44:02+00:00
-
- ## a cat and twenty.
- - [http://acatandtwenty.blogspot.com](http://acatandtwenty.blogspot.com)
- - date_published: 2024-10-19T08:21:46.313162+00:00
 

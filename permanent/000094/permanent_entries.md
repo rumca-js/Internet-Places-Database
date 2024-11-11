@@ -1,3 +1,19 @@
+ ## The 2024 San Francisco Rosé Soirée
+ - [https://the2024sanfranciscorosesoiree.eventbrite.com](https://the2024sanfranciscorosesoiree.eventbrite.com)
+ - date_published: 2024-07-14T12:49:13.115456+00:00
+
+ ## FINEXPO - Traders Fair & Traders Awards
+ - [https://tradersfair.eventbrite.com](https://tradersfair.eventbrite.com)
+ - date_published: 2024-09-13T16:25:43.332267+00:00
+
+ ## Transition Chat with Lauren
+ - [https://transitionchat.eventbrite.com](https://transitionchat.eventbrite.com)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## UCAN Build Apps with IPFS
+ - [https://ucanbuildappswithipfs.eventbrite.com](https://ucanbuildappswithipfs.eventbrite.com)
+ - date_published: 2024-09-23T13:09:50.743525+00:00
+
  ## FREE WEBINAR: Bring Your Family With You When You Study in GERMANY!
  - [https://ue0816.eventbrite.com](https://ue0816.eventbrite.com)
  - date_published: 2024-08-16T00:00:00+00:00
@@ -4008,20 +4024,4 @@
  ## Eye Magazine | Eye Magazine
  - [http://eyemagazine.com](http://eyemagazine.com)
  - date_published: 2024-08-14T00:00:00+00:00
-
- ## Home | eyeo
- - [https://eyeo.com](https://eyeo.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Adblock Plus
- - [https://help.eyeo.com](https://help.eyeo.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Eyeo Festival | Converge to Inspire
- - [https://eyeofestival.com](https://eyeofestival.com)
- - date_published: 2024-05-09T08:39:37.602282+00:00
-
- ## Eye of Justice | Exploring and Creating Things
- - [https://www.eyeofjustice.com](https://www.eyeofjustice.com)
- - date_published: 2024-01-21T00:06:11+00:00
 

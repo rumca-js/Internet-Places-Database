@@ -1,3 +1,123 @@
+ ## Scoop.it Blog
+ - [https://blog.scoop.it](https://blog.scoop.it)
+ - date_published: 2024-06-29T18:33:23.527673+00:00
+
+ ## Publish curated content for targeted audience | Scoop.it
+ - [https://info.scoop.it](https://info.scoop.it)
+ - date_published: 2018-09-04T00:00:00+00:00
+
+ ## Scoop.it - Content Curation Tool | Scoop.it
+ - [http://scoop.it](http://scoop.it)
+ - date_published: 2024-06-16T12:29:20.192524+00:00
+
+ ## Consulenza e Corsi di Negoziazione Globali | Scotwork Italia
+ - [https://www.scotwork.it](https://www.scotwork.it)
+ - date_published: 2024-06-18T09:43:07.726332+00:00
+
+ ## Scrapp - Take back control of your bookmarks
+ - [https://scrapp.it](https://scrapp.it)
+ - date_published: 2024-05-08T12:18:21.275575+00:00
+
+ ## Scrapp - Take back control of your bookmarks
+ - [https://static.scrapp.it](https://static.scrapp.it)
+ - date_published: 2024-07-08T17:37:34.080371+00:00
+
+ ## Scuola del Fatto Quotidiano
+ - [https://www.scuoladelfatto.it](https://www.scuoladelfatto.it)
+ - date_published: 2024-07-15T03:15:26.183224+00:00
+
+ ## Limes pages
+ - [https://scuoladilimes.it](https://scuoladilimes.it)
+ - date_published: 2024-07-16T18:33:50.858329+00:00
+
+ ## INTERACTIVE SCHOOL
+ - [https://liceoclassicostatalepz.scuolainfo.it](https://liceoclassicostatalepz.scuolainfo.it)
+ - date_published: 2024-10-13T07:09:09.392238+00:00
+
+ ## Scuole Manfredini SRL Società Benefit
+ - [https://varese.scuolemanfredini.it](https://varese.scuolemanfredini.it)
+ - date_published: 2024-10-02T00:00:00+00:00
+
+ ## HomeSDAit
+ - [https://www.sda.it](https://www.sda.it)
+ - date_published: 2024-06-16T09:56:20.650460+00:00
+
+ ## Sean Ryan Fanello
+ - [http://www.seanfanello.it](http://www.seanfanello.it)
+ - date_published: 2024-08-07T16:10:16.547799+00:00
+
+ ## Blog e Influencer Marketing in SeedingUp connette
+ - [https://account.seedingup.it](https://account.seedingup.it)
+ - date_published: 2024-09-15T20:59:47+00:00
+
+ ## Blog e Influencer Marketing in SeedingUp connette
+ - [https://seedingup.it](https://seedingup.it)
+ - date_published: 2024-06-15T01:19:24+00:00
+
+ ## Seeweb: Servizi di Cloud Computing
+ - [https://seeweb.it](https://seeweb.it)
+ - date_published: 2024-07-10T06:33:00.494827+00:00
+
+ ## SeeZeit 30.08. – 01.09.2024 – Chaos Computer Club Frankfurt e.V.
+ - [https://seeze.it](https://seeze.it)
+ - date_published: 2024-08-19T04:42:27.677837+00:00
+
+ ## Sella Broker: Soluzioni assicurative personalizzate - Broker
+ - [https://broker.sella.it](https://broker.sella.it)
+ - date_published: 2024-09-25T10:41:32.561013+00:00
+
+ ## Sella CIB: Corporate e Investment Banking - CIB
+ - [https://cib.sella.it](https://cib.sella.it)
+ - date_published: 2024-09-25T10:41:11.059586+00:00
+
+ ## Sella Leasing: immobiliare, veicoli, strumentale, nautico e NLT - Sella Leasing
+ - [https://leasing.sella.it](https://leasing.sella.it)
+ - date_published: 2024-09-25T10:41:28.635175+00:00
+
+ ## Home - Percorsi di educazione finanziaria
+ - [https://percorsi.sella.it](https://percorsi.sella.it)
+ - date_published: 2024-09-25T10:41:06.414915+00:00
+
+ ## Sella Personal Credit: prestiti e cessione del quinto - Sella Personal Credit
+ - [https://personalcredit.sella.it](https://personalcredit.sella.it)
+ - date_published: 2024-09-25T10:41:33.795545+00:00
+
+ ## Home - Soci Banca Sella
+ - [https://soci.sella.it](https://soci.sella.it)
+ - date_published: 2024-09-25T10:41:30.353280+00:00
+
+ ## Virtual Assistant
+ - [https://virtualassistant.sella.it](https://virtualassistant.sella.it)
+ - date_published: 2024-09-25T10:41:36.701840+00:00
+
+ ## Banca Sella: Banca Online per Privati, Aziende, Trader
+ - [http://www.sella.it](http://www.sella.it)
+ - date_published: 2024-06-16T04:30:50.418947+00:00
+
+ ## Homepage - Sepa
+ - [https://sepavenezia.it](https://sepavenezia.it)
+ - date_published: 2023-05-18T00:00:00+00:00
+
+ ## Progettazione e produzione circuiti stampati • Serp |
+ - [http://www.serp.it](http://www.serp.it)
+ - date_published: 2024-07-09T09:09:47.096268+00:00
+
+ ## Serroplast
+ - [https://www.serroplast.it](https://www.serroplast.it)
+ - date_published: 2018-01-12T10:11:28+00:00
+
+ ## Servizio Didattico Trieste – Comune di Trieste
+ - [http://serviziodidattico.it](http://serviziodidattico.it)
+ - date_published: 2024-06-20T12:58:50.907119+00:00
+
+ ## settesei.it
+ - [https://www.settesei.it](https://www.settesei.it)
+ - date_published: 2024-07-20T04:11:01.317208+00:00
+
+ ## SFSCON
+ - [https://www.sfscon.it](https://www.sfscon.it)
+ - date_published: 2024-07-11T13:21:21+00:00
+
  ## Siamo l'azienda leader nel mondo per i servizi di ispezione, verifica, analisi e certificazione.
  - [https://www.sgsgroup.it](https://www.sgsgroup.it)
  - date_published: 2024-09-10T12:52:11.310877+00:00
@@ -3880,124 +4000,4 @@
  ## 静岡大学 イノベーション社会連携推進機構
  - [https://www.oisc.shizuoka.ac.jp](https://www.oisc.shizuoka.ac.jp)
  - date_published: 2024-06-19T06:54:26+00:00
-
- ## 静岡理工科大学
- - [https://www.sist.ac.jp](https://www.sist.ac.jp)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## 椙山女学園大学 現代マネジメント学部
- - [https://www.mgt.sugiyama-u.ac.jp](https://www.mgt.sugiyama-u.ac.jp)
- - date_published: 2024-03-15T03:13:14+00:00
-
- ## TACT : Gateway : お知らせ
- - [https://tact.ac.thers.ac.jp](https://tact.ac.thers.ac.jp)
- - date_published: 2024-06-23T22:15:26+00:00
-
- ## Tokai Open Innovation Complex 名古屋サイト（TOIC名古屋/NAGOYA）
- - [https://toic-n.aip.thers.ac.jp](https://toic-n.aip.thers.ac.jp)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## 東海国立大学機構
- - [https://www.thers.ac.jp](https://www.thers.ac.jp)
- - date_published: 2024-05-06T15:28:05.943454+00:00
-
- ## 東工大 社会理工学研究科
- - [http://www.dst.titech.ac.jp](http://www.dst.titech.ac.jp)
- - date_published: 2017-08-24T07:56:06+00:00
-
- ## 東工大附高公式
- - [https://www.g.hst.titech.ac.jp](https://www.g.hst.titech.ac.jp)
- - date_published: 2024-07-03T20:17:34.217380+00:00
-
- ## 岡崎研究室
- - [https://www.nlp.c.titech.ac.jp](https://www.nlp.c.titech.ac.jp)
- - date_published: 2024-07-10T12:50:17+00:00
-
- ## Okutomi lab
- - [http://www.ok.sc.e.titech.ac.jp](http://www.ok.sc.e.titech.ac.jp)
- - date_published: 2024-08-07T16:51:12.633144+00:00
-
- ## 東京工業大学
- - [https://www.titech.ac.jp](https://www.titech.ac.jp)
- - date_published: 2024-06-21T04:56:01+00:00
-
- ## 国立大学法人 東京医科歯科大学
- - [http://www.tmd.ac.jp](http://www.tmd.ac.jp)
- - date_published: 2024-06-28T12:07:49.426991+00:00
-
- ## 東京都立大学
- - [https://www.tmu.ac.jp](https://www.tmu.ac.jp)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## 東日本大震災公開動画検索システム
- - [http://311movie.irides.tohoku.ac.jp](http://311movie.irides.tohoku.ac.jp)
- - date_published: 2024-07-12T18:09:38.409119+00:00
-
- ## COLLABO TERRACE
- - [https://alliance.dx.tohoku.ac.jp](https://alliance.dx.tohoku.ac.jp)
- - date_published: 2024-07-12T18:08:52.789951+00:00
-
- ## APRU-IRIDeS | APRU Multi-Hazards Program
- - [http://aprumh.irides.tohoku.ac.jp](http://aprumh.irides.tohoku.ac.jp)
- - date_published: 2024-07-12T18:09:17.920775+00:00
-
- ## 東北大学 施設・設備利用案内
- - [https://asset.tohoku.ac.jp](https://asset.tohoku.ac.jp)
- - date_published: 2024-07-12T18:06:39.713276+00:00
-
- ## DX cabiNET.
- - [https://case.dx.tohoku.ac.jp](https://case.dx.tohoku.ac.jp)
- - date_published: 2024-07-12T18:08:57.017353+00:00
-
- ## 指定国立大 災害科学 世界トップレベル研究拠点
- - [http://dsmca.irides.tohoku.ac.jp](http://dsmca.irides.tohoku.ac.jp)
- - date_published: 2024-07-12T18:09:28.590943+00:00
-
- ## 東北大学　災害科学・安全学国際共同大学院プログラム　GP-RSS
- - [http://gp-rss.tohoku.ac.jp](http://gp-rss.tohoku.ac.jp)
- - date_published: 2024-07-01T00:40:36+00:00
-
- ## 東北大学SSO - TOHOKU University SSO -
- - [https://gw.tohoku.ac.jp](https://gw.tohoku.ac.jp)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## 東北大学国際共修クラス | Intercultural Co-learning Class, Tohoku University
- - [https://intercul.ihe.tohoku.ac.jp](https://intercul.ihe.tohoku.ac.jp)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## 東北大学 災害科学国際研究所 IRIDeS
- - [https://irides.tohoku.ac.jp](https://irides.tohoku.ac.jp)
- - date_published: 2024-05-10T05:48:37.285218+00:00
-
- ## トップページ
- - [https://ital.ihe.tohoku.ac.jp](https://ital.ihe.tohoku.ac.jp)
- - date_published: 2024-09-02T16:29:55.177113+00:00
-
- ## 東北大学 産学連携先端材料研究開発センター (MaSC)
- - [https://masc.tohoku.ac.jp](https://masc.tohoku.ac.jp)
- - date_published: 2024-07-12T18:07:15.790515+00:00
-
- ## 東北大学オープンイノベーション事業戦略機構
- - [https://oi.tohoku.ac.jp](https://oi.tohoku.ac.jp)
- - date_published: 2024-06-13T00:27:23+00:00
-
- ## 東北大学海外同窓会ネットワーク
- - [https://overseas-alumni.bureau.tohoku.ac.jp](https://overseas-alumni.bureau.tohoku.ac.jp)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## 東北大学 - 産学連携機構イノベーション戦略推進センター
- - [http://promo-innov.tohoku.ac.jp](http://promo-innov.tohoku.ac.jp)
- - date_published: 2024-07-08T01:04:31+00:00
-
- ## 歴史文化資料保全の大学・共同利用機関ネットワーク事業
- - [https://rekishi.irides.tohoku.ac.jp](https://rekishi.irides.tohoku.ac.jp)
- - date_published: 2024-07-12T18:09:46.796211+00:00
-
- ## 東北大学スタートアップ事業化センター
- - [https://startup.tohoku.ac.jp](https://startup.tohoku.ac.jp)
- - date_published: 2024-07-12T18:07:28.605035+00:00
-
- ## TU Support – TOHOKU UNIVERSITY International Support Center –
- - [https://sup.bureau.tohoku.ac.jp](https://sup.bureau.tohoku.ac.jp)
- - date_published: 2024-05-10T05:48:30.209267+00:00
 

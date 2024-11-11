@@ -1,3 +1,11 @@
+ ## Ben Bashford - Journal
+ - [http://journal.benbashford.com](http://journal.benbashford.com)
+ - date_published: 2024-09-14T22:49:55.300148+00:00
+
+ ## BEN B. SCHWARTZ & SONS
+ - [http://www.benbdetroit.com](http://www.benbdetroit.com)
+ - date_published: 2024-09-16T12:29:42.269359+00:00
+
  ## Home - BenBella Books
  - [https://www.benbellabooks.com](https://www.benbellabooks.com)
  - date_published: 2024-10-19T08:08:45.343514+00:00
@@ -4030,12 +4038,4 @@
  ## Atakontu
  - [https://atakontu.bigcartel.com](https://atakontu.bigcartel.com)
  - date_published: 2024-10-29T11:49:36.145323+00:00
-
- ## Avery Hill Publishing
- - [https://averyhillpublishing.bigcartel.com](https://averyhillpublishing.bigcartel.com)
- - date_published: 2024-05-13T03:39:36.200223+00:00
-
- ## Maintenance
- - [https://backmatter.bigcartel.com](https://backmatter.bigcartel.com)
- - date_published: 2024-07-03T15:58:40.573991+00:00
 

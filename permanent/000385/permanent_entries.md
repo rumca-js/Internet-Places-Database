@@ -1,3 +1,155 @@
+ ## sequoia_openpgp - Rust
+ - [https://docs.sequoia-pgp.org](https://docs.sequoia-pgp.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sequoia-PGP
+ - [https://sequoia-pgp.org](https://sequoia-pgp.org)
+ - date_published: 2024-05-11T08:50:00.677708+00:00
+
+ ## The Sequoia Project
+ - [https://sequoiaproject.org](https://sequoiaproject.org)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Society for Ecological Restoration (SER)
+ - [https://chapter.ser.org](https://chapter.ser.org)
+ - date_published: 2024-10-15T03:11:13.436721+00:00
+
+ ## Society for Ecological Restoration (SER)
+ - [http://www.ser.org](http://www.ser.org)
+ - date_published: 2024-07-03T15:09:10.446267+00:00
+
+ ## Šahovski savez Srbije | Serbia chess Federation
+ - [https://serbiachess.org](https://serbiachess.org)
+ - date_published: 2024-07-20T00:00:00+00:00
+
+ ## SERC – Systems Engineering Research Center
+ - [https://sercuarc.org](https://sercuarc.org)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Serena Shim Award for Uncompromised Integrity in Journalism
+ - [https://serenashimaward.org](https://serenashimaward.org)
+ - date_published: 2024-06-27T11:48:20.925719+00:00
+
+ ## Home - Serene Programming Language
+ - [https://serene-lang.org](https://serene-lang.org)
+ - date_published: 2023-11-25T21:19:21+00:00
+
+ ## Serene Moments
+ - [https://serenemoments.org](https://serenemoments.org)
+ - date_published: 2024-06-22T20:24:05.171745+00:00
+
+ ## Serener.org
+ - [http://www.serener.org](http://www.serener.org)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## SerenityOS
+ - [https://serenityos.org](https://serenityos.org)
+ - date_published: 2023-10-11T04:40:04+00:00
+
+ ## Home - Serenity Press
+ - [https://www.serenitypress.org](https://www.serenitypress.org)
+ - date_published: 2024-10-27T18:30:22.867734+00:00
+
+ ## Home - Serge Betsen Academy
+ - [https://www.sergebetsenacademy.org](https://www.sergebetsenacademy.org)
+ - date_published: 2024-10-30T05:13:51.564518+00:00
+
+ ## I me mine
+ - [http://blog.sergiusens.org](http://blog.sergiusens.org)
+ - date_published: 2020-04-28T20:00:59+00:00
+
+ ## serialdeviant.org(y)
+ - [http://serialdeviant.org](http://serialdeviant.org)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Serialhacker.org
+ - [http://serialhacker.org](http://serialhacker.org)
+ - date_published: 2024-06-22T10:15:42.662563+00:00
+
+ ## ‘Serial’ Season 4: Guantánamo
+ - [https://serialpodcast.org](https://serialpodcast.org)
+ - date_published: 2024-03-21T02:25:11+00:00
+
+ ## Welcome to The Serial Port on RAQ
+ - [https://raq.serialport.org](https://raq.serialport.org)
+ - date_published: 2024-01-09T03:42:30.617157+00:00
+
+ ## Serial Port – Virtual Computer Museum
+ - [https://serialport.org](https://serialport.org)
+ - date_published: 2024-08-18T04:33:30.267418+00:00
+
+ ## Serial Reader | Classic Books in Daily Bits for iOS and Android
+ - [https://serialreader.org](https://serialreader.org)
+ - date_published: 2023-10-25T22:08:05.962650+00:00
+
+ ## MATS Program
+ - [https://www.serimats.org](https://www.serimats.org)
+ - date_published: 2024-06-21T11:42:15.459286+00:00
+
+ ## Inicio - Pueblos Originarios de Chile Ser Indigena
+ - [http://diccionarios.serindigena.org](http://diccionarios.serindigena.org)
+ - date_published: 2024-07-12T02:49:17+00:00
+
+ ## Serious Games At Work
+ - [https://seriousgamesatwork.org](https://seriousgamesatwork.org)
+ - date_published: 2024-05-09T05:26:12.183604+00:00
+
+ ## Serious Science
+ - [http://serious-science.org](http://serious-science.org)
+ - date_published: 2024-07-03T22:21:31.861446+00:00
+
+ ## Serlo Communitychat
+ - [https://community.serlo.org](https://community.serlo.org)
+ - date_published: 2024-07-21T01:58:12.070888+00:00
+
+ ## Serlo – Die freie Lernplattform
+ - [https://de.serlo.org](https://de.serlo.org)
+ - date_published: 2024-07-21T00:03:13.983729+00:00
+
+ ## The Open Learning Platform
+ - [https://en.serlo.org](https://en.serlo.org)
+ - date_published: 2024-04-30T07:47:21.444142+00:00
+
+ ## Simple Analytics
+ - [https://sa.serlo.org](https://sa.serlo.org)
+ - date_published: 2020-01-10T12:35:14+00:00
+
+ ## Serpentine Galleries
+ - [https://serpentinegalleries.org](https://serpentinegalleries.org)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Serpentine Galleries Online Shop
+ - [https://shop.serpentinegalleries.org](https://shop.serpentinegalleries.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Serpentine Galleries
+ - [https://ticketing.serpentinegalleries.org](https://ticketing.serpentinegalleries.org)
+ - date_published: 2024-06-27T16:56:34.332351+00:00
+
+ ## Página inicial - Instituto Serrapilheira
+ - [https://serrapilheira.org](https://serrapilheira.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## ServerMom - Teaching Babies How To Manage Unmanaged Servers
+ - [https://www.servermom.org](https://www.servermom.org)
+ - date_published: 2024-05-20T02:45:05.824802+00:00
+
+ ## Instant Application | In 2 minutes
+ - [https://account.servicecu.org](https://account.servicecu.org)
+ - date_published: 2024-06-14T22:43:37+00:00
+
+ ## Welcome to Service Credit Union – Banking Services
+ - [https://cdn.servicecu.org](https://cdn.servicecu.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Welcome to Service Credit Union – Banking Services
+ - [https://servicecu.org](https://servicecu.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Service Credit Union Impact Foundation - Improving Lives
+ - [https://servicecuimpactfoundation.org](https://servicecuimpactfoundation.org)
+ - date_published: 2024-05-28T00:00:00+00:00
+
  ## Home | Military Times Service Members of the Year
  - [https://servicemembersoftheyear.org](https://servicemembersoftheyear.org)
  - date_published: 2024-05-24T00:00:00+00:00
@@ -3877,158 +4029,4 @@ Computation (SMECC)
  ## Mapa Socioambiental
  - [https://mapa.socioambiental.org](https://mapa.socioambiental.org)
  - date_published: 2024-07-14T14:50:24.329904+00:00
-
- ## Povos Indígenas no Brasil
- - [https://pib.socioambiental.org](https://pib.socioambiental.org)
- - date_published: 2024-03-27T00:16:18.528932+00:00
-
- ## Rodapé para sites do Instituto Socioambiental
- - [https://rodape.socioambiental.org](https://rodape.socioambiental.org)
- - date_published: 2021-09-08T17:34:46+00:00
-
- ## ISA - Instituto Socioambiental
- - [https://site-antigo.socioambiental.org](https://site-antigo.socioambiental.org)
- - date_published: 2024-07-14T14:50:27.968978+00:00
-
- ## Somos o ISA, Instituto Socioambiental
- - [https://socioambiental.org](https://socioambiental.org)
- - date_published: 2024-05-11T11:32:44.908441+00:00
-
- ## Início | Terras Indígenas no Brasil
- - [https://ti.socioambiental.org](https://ti.socioambiental.org)
- - date_published: 2024-07-14T12:22:05+00:00
-
- ## Início | Unidades de Conservação no Brasil
- - [https://uc.socioambiental.org](https://uc.socioambiental.org)
- - date_published: 2024-07-14T14:50:42.117047+00:00
-
- ## Sociocracia Práctica - Sociocracy For All
- - [https://sociocraciapractica.org](https://sociocraciapractica.org)
- - date_published: 2020-06-29T13:22:18+00:00
-
- ## Sociocracy For All
- - [https://forums.sociocracyforall.org](https://forums.sociocracyforall.org)
- - date_published: 2024-07-25T00:00:00+00:00
-
- ## Sociocracy for All -- Learn  | Sociocracy For All
- - [https://learn.sociocracyforall.org](https://learn.sociocracyforall.org)
- - date_published: 2024-09-11T16:56:28+00:00
-
- ## Attention Required! | Cloudflare
- - [https://sociocracyforall.org](https://sociocracyforall.org)
- - date_published: 2024-06-12T12:38:38.282932+00:00
-
- ## The Socjournal - A new media journal of sociology and society
- - [https://sociology.org](https://sociology.org)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## The Darwinian Era
- - [https://www.sociopathy.org](https://www.sociopathy.org)
- - date_published: 2023-08-05T01:02:53+00:00
-
- ## flammin75.com
- - [https://www.sociosite.org](https://www.sociosite.org)
- - date_published: 2024-09-24T12:23:38+00:00
-
- ## Sockethub - a polyglot messaging service
- - [http://sockethub.org](http://sockethub.org)
- - date_published: 2021-09-02T22:17:12+00:00
-
- ## index — Quarrelsome
- - [https://sockpuppet.org](https://sockpuppet.org)
- - date_published: 2017-01-20T04:13:08+00:00
-
- ## Les Cagettes Chouettes
- - [https://lescagetteschouettes.socleo.org](https://lescagetteschouettes.socleo.org)
- - date_published: 2022-06-02T00:00:00+00:00
-
- ## Saturday, September 28, 2024 | 
-Santa Rosa Veterans Building, Santa Rosa, CA | 
-10:00 am - 3:00 pm
- - [https://www.socovegfest.org](https://www.socovegfest.org)
- - date_published: 2024-09-16T01:21:20.380725+00:00
-
- ## SoCraTes UK - Home
- - [https://socratesuk.org](https://socratesuk.org)
- - date_published: 2024-07-16T20:04:38+00:00
-
- ## Get unstuck. Learn better. | Socratic
- - [https://socratic.org](https://socratic.org)
- - date_published: 2024-06-14T08:52:38.917373+00:00
-
- ## Home - SOCVR
- - [https://socvr.org](https://socvr.org)
- - date_published: 2024-08-18T21:23:20.253282+00:00
-
- ## SODA – Public Digital Money Use Cases
- - [https://sodapublicmoney.org](https://sodapublicmoney.org)
- - date_published: 2024-10-11T22:04:48.061154+00:00
-
- ## Home | Society of Digital Psychiatry
- - [https://www.sodpsych.org](https://www.sodpsych.org)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## SOFA - Simulation Open Framework Architecture
- - [https://www.sofa-framework.org](https://www.sofa-framework.org)
- - date_published: 2024-11-08T19:37:41.422317+00:00
-
- ## Articles – Stefan Scherfke
- - [https://stefan.sofa-rockers.org](https://stefan.sofa-rockers.org)
- - date_published: 2024-03-06T18:25:12+00:00
-
- ## South Fork Natural History Museum & Nature Center
- - [https://sofo.org](https://sofo.org)
- - date_published: 2024-07-22T01:18:37+00:00
-
- ## Softbites
- - [https://softbites.org](https://softbites.org)
- - date_published: 2024-08-18T20:45:26.499698+00:00
-
- ## フリーソフト速報 ソフトコレクション
- - [https://softcollection.org](https://softcollection.org)
- - date_published: 2024-07-09T20:12:19.500005+00:00
-
- ## Купить ключи Microsoft и пр. лицензии в SoftComputers
- - [https://softcomputers.org](https://softcomputers.org)
- - date_published: 2018-08-20T21:48:48+00:00
-
- ## Software Development Team: Welcome
- - [https://soft-dev.org](https://soft-dev.org)
- - date_published: 1999-01-01T00:00:00+00:00
-
- ## SoftEther VPN Project - SoftEther VPN Project
- - [https://www.softether.org](https://www.softether.org)
- - date_published: 2024-07-01T16:22:53+00:00
-
- ## Soft Machines – Some personal views on nanotechnology, science and science policy from Richard Jones
- - [http://www.softmachines.org](http://www.softmachines.org)
- - date_published: 2024-06-17T11:58:38.322557+00:00
-
- ## Softpanorama: (slightly skeptical) Open Source Software Educational Society
- - [http://www.softpanorama.org](http://www.softpanorama.org)
- - date_published: 2024-06-23T18:16:59.490990+00:00
-
- ## Software Preservation Society
- - [http://softpres.org](http://softpres.org)
- - date_published: 2023-12-11T18:33:05.002198+00:00
-
- ## Software Carpentry
- - [https://software-carpentry.org](https://software-carpentry.org)
- - date_published: 2024-06-21T18:03:39+00:00
-
- ## Software Cost Estimation
- - [http://softwarecost.org](http://softwarecost.org)
- - date_published: 2024-08-19T10:07:00.217062+00:00
-
- ## Manifesto for Software Craftsmanship
- - [https://manifesto.softwarecraftsmanship.org](https://manifesto.softwarecraftsmanship.org)
- - date_published: 2023-06-26T10:44:04+00:00
-
- ## Software Craftsmanship North America 2018
- - [http://scna.softwarecraftsmanship.org](http://scna.softwarecraftsmanship.org)
- - date_published: 2018-04-27T15:43:31+00:00
-
- ## Software Donation – Donate software to people in need
- - [https://softwaredonation.org](https://softwaredonation.org)
- - date_published: 2024-07-04T04:24:19.751849+00:00
 

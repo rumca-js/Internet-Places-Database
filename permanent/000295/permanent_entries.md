@@ -1,3 +1,100 @@
+ ## Academic Documents Request | IITR
+ - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
+ - date_published: 2024-06-21T06:55:42+00:00
+
+ ## EICT Academy - eict.iitr.ac.in
+ - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Home | Expectations IIT Roorkee
+ - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
+ - date_published: 2021-10-31T11:12:36+00:00
+
+ ## Finance & Accounts Office, IITR
+ - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:28.888432+00:00
+
+ ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
+ - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:06.639736+00:00
+
+ ## GNEC IITR
+ - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:22.309314+00:00
+
+ ## i-Connect
+ - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:26.941083+00:00
+
+ ## Indian Institute of Technology Roorkee
+ - [https://iitr.ac.in](https://iitr.ac.in)
+ - date_published: 2024-05-04T15:42:45.009337+00:00
+
+ ## Home - IPR
+ - [https://ipr.iitr.ac.in](https://ipr.iitr.ac.in)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## IITR | IR | International Relations
+ - [https://ir.iitr.ac.in](https://ir.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:42.432264+00:00
+
+ ## LHCC Booking System
+ - [https://lhcbooking.iitr.ac.in](https://lhcbooking.iitr.ac.in)
+ - date_published: 2024-05-30T11:27:48+00:00
+
+ ## Home
+ - [https://liaisoncellscst.iitr.ac.in](https://liaisoncellscst.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:40.521503+00:00
+
+ ## Mahatma Gandhi Central Library, IIT Roorkee
+ - [https://mgcl.iitr.ac.in](https://mgcl.iitr.ac.in)
+ - date_published: 2024-03-20T08:25:52+00:00
+
+ ## Material Management
+ - [https://mm.iitr.ac.in](https://mm.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:14.342626+00:00
+
+ ## Email | IITR
+ - [https://newwebmail.iitr.ac.in](https://newwebmail.iitr.ac.in)
+ - date_published: 2024-06-22T11:40:50.155541+00:00
+
+ ## IIT Roorkee Fees Payment Portal
+ - [https://payment.iitr.ac.in](https://payment.iitr.ac.in)
+ - date_published: 2022-06-04T19:11:36+00:00
+
+ ## Online Academic
+    Support and Information System
+ - [https://queryportal.iitr.ac.in](https://queryportal.iitr.ac.in)
+ - date_published: 2024-06-06T10:21:57+00:00
+
+ ## Technology Development | Human Resources | Technology Incubation | Startups, and international collaborative research - iHub DivyaSampark
+ - [https://tih.iitr.ac.in](https://tih.iitr.ac.in)
+ - date_published: 2024-06-22T11:32:39.015402+00:00
+
+ ## Wellness Centre – Express ● Engage ● Emerge
+ - [https://wellness.iitr.ac.in](https://wellness.iitr.ac.in)
+ - date_published: 2024-06-22T11:31:45.546579+00:00
+
+ ## Indian Institute of Technology Ropar | भारतीय प्रौद्योगिकी संस्थान रोपड़
+ - [http://www.iitrpr.ac.in](http://www.iitrpr.ac.in)
+ - date_published: 2024-09-11T11:51:49+00:00
+
+ ## Home | Council of Indian Institute of Technology
+ - [https://www.iitsystem.ac.in](https://www.iitsystem.ac.in)
+ - date_published: 2024-06-22T11:41:09.625374+00:00
+
+ ## e-PGPathshala
+ - [https://epgp.inflibnet.ac.in](https://epgp.inflibnet.ac.in)
+ - date_published: 2024-09-11T17:28:19.483660+00:00
+
+ ## ETD 2023
+ - [https://etd2023.inflibnet.ac.in](https://etd2023.inflibnet.ac.in)
+ - date_published: 2024-06-23T07:10:53.957022+00:00
+
+ ## ShodhShuddhi | Enhancing Research Quality
+ - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
+ - date_published: 2024-06-23T07:10:33.956210+00:00
+
  ## Shodhganga : a reservoir of Indian theses @ INFLIBNET
  - [https://shodhganga.inflibnet.ac.in](https://shodhganga.inflibnet.ac.in)
  - date_published: 2024-05-06T13:41:13.342135+00:00
@@ -3923,101 +4020,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Internet Freedom Foundation - Internet Freedom Foundation
  - [https://internetfreedom.in](https://internetfreedom.in)
  - date_published: 2023-10-25T19:30:47.904368+00:00
-
- ## Internet Freedom Foundation - Internet Freedom Foundation
- - [https://static.internetfreedom.in](https://static.internetfreedom.in)
- - date_published: 2024-04-28T01:40:43.208445+00:00
-
- ## Hindi news, हिंदी न्यूज़ , Hindi Samachar, हिंदी समाचार, Latest News in Hindi, Breaking News in Hindi, ताजा ख़बरें, Aaj Tak News
- - [https://aajtak.intoday.in](https://aajtak.intoday.in)
- - date_published: 2024-07-17T10:10:33+00:00
-
- ## Business News India: Latest Business News Today, Share Market, Economy
- - [http://businesstoday.intoday.in](http://businesstoday.intoday.in)
- - date_published: 2024-07-17T10:13:43.783556+00:00
-
- ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
- - [http://education.intoday.in](http://education.intoday.in)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
- - [https://feeds.intoday.in](https://feeds.intoday.in)
- - date_published: 2024-04-27T00:00:00+00:00
-
- ## Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - IndiaToday
- - [http://indiatoday.intoday.in](http://indiatoday.intoday.in)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Error
- - [https://marketapi.intoday.in](https://marketapi.intoday.in)
- - date_published: 2024-04-28T01:38:14.868924+00:00
-
- ## Personal Finance News: Tax, Saving Schemes, FDs, Investment Planning, Insurance
- - [http://moneytoday.intoday.in](http://moneytoday.intoday.in)
- - date_published: 2024-07-17T10:18:52.810264+00:00
-
- ## Power Grid
- - [http://specials.intoday.in](http://specials.intoday.in)
- - date_published: 2023-06-09T11:42:37+00:00
-
- ## Magazines Subscriptions on India Today Group | Subscription | Subscription
- - [https://subscriptions.intoday.in](https://subscriptions.intoday.in)
- - date_published: 2024-04-28T01:38:55.809244+00:00
-
- ## INDIA TODAY GROUP: India Today, Business Today, Aaj Tak, Care
-    Today, Mail Today, Cosmopolitan, Reader's Digest, India Today Conclave
- - [http://www.intoday.in](http://www.intoday.in)
- - date_published: 2024-08-08T12:30:33.443831+00:00
-
- ## Iraj | institute of research and journals
- - [http://iraj.in](http://iraj.in)
- - date_published: 2024-10-29T17:19:27.539032+00:00
-
- ## Iram Art
- - [https://iramart.in](https://iramart.in)
- - date_published: 2024-05-02T12:56:09.975648+00:00
-
- ## ISBR- Top Business School in Bangalore, Best MBA College India
- - [https://www.isbr.in](https://www.isbr.in)
- - date_published: 2024-10-09T06:09:41+00:00
-
- ## ISCA: International Science Community  Association| isca.in
- - [http://www.isca.in](http://www.isca.in)
- - date_published: 2024-10-29T17:02:29.075254+00:00
-
- ## confirm-password-reset
- - [https://uat-sso.isha.in](https://uat-sso.isha.in)
- - date_published: 2024-09-12T18:40:25.202270+00:00
-
- ## isij.in
- - [http://isij.in](http://isij.in)
- - date_published: 2024-10-29T16:38:22.854909+00:00
-
- ## Eduindex News
- - [http://www.isoar.in](http://www.isoar.in)
- - date_published: 2024-10-29T17:32:10.281498+00:00
-
- ## Status Overview
- - [https://istheservicedown.in](https://istheservicedown.in)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Transportation | Logistics | Aviation | Shipping | Supply Chain
- - [https://www.itln.in](https://www.itln.in)
- - date_published: 2024-06-16T19:51:14.136716+00:00
-
- ## @itskevin
- - [https://itskev.in](https://itskev.in)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## curioAI : The best AI Tool 🔥
- - [https://curioai.itsvg.in](https://curioai.itsvg.in)
- - date_published: 2024-09-18T05:04:51+00:00
-
- ## Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness
- - [https://iturl.in](https://iturl.in)
- - date_published: 2024-06-26T08:45:03.722043+00:00
-
- ## ITW 2022
- - [https://itw2022.in](https://itw2022.in)
- - date_published: 2024-07-01T20:06:04.635526+00:00
 

@@ -1,3 +1,20 @@
+ ## Translating MotoPress
+ - [https://translate.getmotopress.com](https://translate.getmotopress.com)
+ - date_published: 2024-07-09T13:33:19.711580+00:00
+
+ ## Motor Admin | No-Code Admin Panel
+ - [https://www.getmotoradmin.com](https://www.getmotoradmin.com)
+ - date_published: 2023-08-09T14:04:49+00:00
+
+ ## Meet Munch - The #1 AI Video Repurposing Platform.
+ - [https://getmunch.com](https://getmunch.com)
+ - date_published: 2024-10-30T11:27:01+00:00
+
+ ## MusicBee - The Ultimate Music Manager and Player
+ - [https://getmusicbee.com](https://getmusicbee.com)
+ - date_published: 2024-04-11T19:09:10+00:00
+ - tags: ['music player']
+
  ## Myagi | Software That Helps Brands & Retailers Sell Better Together
  - [https://getmyagi.com](https://getmyagi.com)
  - date_published: 2024-07-04T00:00:00+00:00
@@ -3208,6 +3225,21 @@
  - date_published: 2024-11-09T18:45:21+00:00
  - tags: ['hacking']
 
+ ## GitHub - praydog/UEVR: Universal Unreal Engine VR Mod (4.8 - 5.4)
+ - [https://github.com/praydog/UEVR](https://github.com/praydog/UEVR)
+ - date_published: 2024-11-10T08:28:35+00:00
+ - tags: ['video game mod']
+
+ ## GitHub - SpotX-Official/SpotX: SpotX patcher used for patching the desktop version of Spotify
+ - [https://github.com/SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX)
+ - date_published: 2024-11-10T11:57:08+00:00
+ - tags: ['spotify', 'ad block']
+
+ ## GitHub - gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+ - [https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)
+ - date_published: 2024-11-10T11:58:44+00:00
+ - tags: ['ad block']
+
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
  - date_published: 2024-04-18T13:56:46+00:00
@@ -4017,32 +4049,4 @@
  ## Glamly: Shop Online Clothing for Women | Madame | Camla | Msecret
  - [https://www.glamly.com](https://www.glamly.com)
  - date_published: 2024-07-11T23:59:13.841365+00:00
-
- ## Magnetic Eyelashes & Press-on Nails I Glamnetic
- - [https://glamnetic.com](https://glamnetic.com)
- - date_published: 2024-04-29T04:29:20.503417+00:00
-
- ## Women's Issues, Politics, Fashion, Beauty, Entertainment News
- - [https://glamour.com](https://glamour.com)
- - date_published: 2024-05-04T08:12:57.639031+00:00
-
- ## Guilherme Lampert
- - [http://glampert.com](http://glampert.com)
- - date_published: 2024-04-05T17:58:09+00:00
-
- ## Últimas noticias de Argentina y el mundo
- - [https://resizer.glanacion.com](https://resizer.glanacion.com)
- - date_published: 2024-07-19T22:09:33+00:00
-
- ## Unlock a World of Entertainment with Glance Smart Lock Screen
- - [https://www.glance.com](https://www.glance.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Glance
- - [https://www.glance-mediametrie.com](https://www.glance-mediametrie.com)
- - date_published: 2024-06-21T09:39:46+00:00
-
- ## GlareDB | Your Data Pipeline, Simplified
- - [https://glaredb.com](https://glaredb.com)
- - date_published: 2024-08-18T16:38:21.392558+00:00
 

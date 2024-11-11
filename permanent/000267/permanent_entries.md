@@ -1,3 +1,95 @@
+ ## Home | Orientation Programs and Parent Services
+ - [http://orientation.sa.ucsb.edu](http://orientation.sa.ucsb.edu)
+ - date_published: 2024-09-07T15:37:22+00:00
+
+ ## Home | Student Engagement & Leadership
+ - [https://osl.sa.ucsb.edu](https://osl.sa.ucsb.edu)
+ - date_published: 2024-09-10T20:20:05+00:00
+
+ ## Home | Department of Physics | UC Santa Barbara
+ - [http://physics.ucsb.edu](http://physics.ucsb.edu)
+ - date_published: 2024-08-19T20:53:52.603925+00:00
+
+ ## Home | UC Santa Barbara | Policies & Procedures
+ - [https://policy.ucsb.edu](https://policy.ucsb.edu)
+ - date_published: 2024-05-07T20:58:49.552323+00:00
+
+ ## Home | UC Santa Barbara | Privacy
+ - [https://privacy.ucsb.edu](https://privacy.ucsb.edu)
+ - date_published: 2024-05-07T20:58:43.684216+00:00
+
+ ## UCSB Professional and Continuing Education
+ - [https://professional.ucsb.edu](https://professional.ucsb.edu)
+ - date_published: 2024-09-13T18:42:51+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://proxy.library.ucsb.edu](https://proxy.library.ucsb.edu)
+ - date_published: 2024-09-14T10:13:50.782127+00:00
+
+ ## Department of Statistics and Applied Probability - UC Santa Barbara
+ - [https://pstat.ucsb.edu](https://pstat.ucsb.edu)
+ - date_published: 2024-07-01T23:16:53+00:00
+
+ ## UCSB NSF Quantum Foundry | CNSI | UC Santa Barbara | UCSB NSF Quantum Foundry | CNSI | UC Santa Barbara
+ - [https://quantumfoundry.ucsb.edu](https://quantumfoundry.ucsb.edu)
+ - date_published: 2024-10-19T08:09:08.995694+00:00
+
+ ## Home | Research Computing and Data
+ - [https://rcd.ucsb.edu](https://rcd.ucsb.edu)
+ - date_published: 2024-09-13T10:32:09+00:00
+
+ ## Home | Department of Recreation
+ - [https://recreation.sa.ucsb.edu](https://recreation.sa.ucsb.edu)
+ - date_published: 2024-06-13T22:25:46+00:00
+
+ ## Home | Department of Recreation
+ - [https://recreation.ucsb.edu](https://recreation.ucsb.edu)
+ - date_published: 2024-09-10T23:37:39+00:00
+
+ ## Welcome - Recruit
+ - [https://recruit.ap.ucsb.edu](https://recruit.ap.ucsb.edu)
+ - date_published: 2024-10-19T08:20:36.782157+00:00
+
+ ## UCSB Recreation
+ - [https://register.recreation.ucsb.edu](https://register.recreation.ucsb.edu)
+ - date_published: 2024-09-14T10:11:38.352118+00:00
+
+ ## Home - UCSB Office of the Registrar
+ - [https://registrar.sa.ucsb.edu](https://registrar.sa.ucsb.edu)
+ - date_published: 2024-09-14T10:14:37.557644+00:00
+
+ ## Home | Reich Lab | Chemistry and Biochemistry | UC Santa Barbara
+ - [http://reich.chem.ucsb.edu](http://reich.chem.ucsb.edu)
+ - date_published: 2024-10-19T08:20:22.035666+00:00
+
+ ## Housing Mediation Services
+ - [https://rentallistings.housing.ucsb.edu](https://rentallistings.housing.ucsb.edu)
+ - date_published: 2024-09-14T10:14:49.605144+00:00
+
+ ## Home | Office of Research
+ - [https://research.ucsb.edu](https://research.ucsb.edu)
+ - date_published: 2024-06-13T20:42:36+00:00
+
+ ## scg-ucsb
+ - [http://scg.ece.ucsb.edu](http://scg.ece.ucsb.edu)
+ - date_published: 2020-04-08T20:57:24+00:00
+
+ ## Home | Student Engagement & Leadership
+ - [https://seal.sa.ucsb.edu](https://seal.sa.ucsb.edu)
+ - date_published: 2024-09-10T20:20:05+00:00
+
+ ## SecLab - Welcome
+ - [http://seclab.cs.ucsb.edu](http://seclab.cs.ucsb.edu)
+ - date_published: 2024-06-23T19:32:14+00:00
+
+ ## Academic Senate - University of California, Santa Barbara
+ - [https://senate.ucsb.edu](https://senate.ucsb.edu)
+ - date_published: 2024-09-14T10:17:13.561306+00:00
+
+ ## UCSB Shared Instrumentation Network
+ - [https://sharedinstrumentation.ucsb.edu](https://sharedinstrumentation.ucsb.edu)
+ - date_published: 2024-09-14T09:43:59+00:00
+
  ## UC Santa Barbara
  - [https://shoreline.ucsb.edu](https://shoreline.ucsb.edu)
  - date_published: 2024-09-14T10:12:24.185976+00:00
@@ -3910,96 +4002,4 @@
  ## IDHD | University of Illinois Chicago
  - [https://idhd.ahs.uic.edu](https://idhd.ahs.uic.edu)
  - date_published: 2024-07-02T02:40:31.017606+00:00
-
- ## Center for Student Involvement | University of Illinois Chicago
- - [https://involvement.uic.edu](https://involvement.uic.edu)
- - date_published: 2024-07-02T02:48:47.511550+00:00
-
- ## Information Technology | University of Illinois Chicago
- - [https://it.uic.edu](https://it.uic.edu)
- - date_published: 2024-07-02T02:40:47.348561+00:00
-
- ## Journals@UIC
- - [http://journals.uic.edu](http://journals.uic.edu)
- - date_published: 2024-07-09T10:09:03.534307+00:00
-
- ## Latin American and Latino Studies | University of Illinois Chicago
- - [https://lals.uic.edu](https://lals.uic.edu)
- - date_published: 2024-07-02T02:47:22.100878+00:00
-
- ## Latin American Recruitment and Educational Services (LARES) Splash Page | University of Illinois Chicago
- - [https://lares.uic.edu](https://lares.uic.edu)
- - date_published: 2024-07-02T02:48:52.634603+00:00
-
- ## College of Liberal Arts and Sciences | University of Illinois Chicago
- - [https://las.uic.edu](https://las.uic.edu)
- - date_published: 2024-07-15T11:30:09.940280+00:00
-
- ## Rafael Cintrón Ortiz Latino Cultural Center | University of Illinois Chicago
- - [https://latinocultural.uic.edu](https://latinocultural.uic.edu)
- - date_published: 2024-07-02T02:48:58.684775+00:00
-
- ## UIC Law | University of Illinois Chicago
- - [https://law.uic.edu](https://law.uic.edu)
- - date_published: 2024-07-02T02:48:07.482384+00:00
-
- ## Language and Culture Learning Center | University of Illinois Chicago
- - [https://lclc.uic.edu](https://lclc.uic.edu)
- - date_published: 2024-07-02T02:48:46.310707+00:00
-
- ## School of Literatures, Cultural Studies and Linguistics | University of Illinois Chicago
- - [https://lcsl.uic.edu](https://lcsl.uic.edu)
- - date_published: 2024-07-02T02:49:01.886995+00:00
-
- ## University Library | University of Illinois Chicago
- - [https://library.uic.edu](https://library.uic.edu)
- - date_published: 2024-05-07T21:14:41.570523+00:00
-
- ## Campus Map | University of Illinois at Chicago
- - [https://maps.uic.edu](https://maps.uic.edu)
- - date_published: 2024-05-07T21:15:09.937582+00:00
-
- ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
- - [https://math.uic.edu](https://math.uic.edu)
- - date_published: 2024-05-12T06:09:10.409396+00:00
-
- ## Meetings & Conferences | University of Illinois Chicago
- - [https://meetings.uic.edu](https://meetings.uic.edu)
- - date_published: 2024-07-02T02:47:28.927865+00:00
-
- ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
- - [https://mscs.uic.edu](https://mscs.uic.edu)
- - date_published: 2024-07-15T11:29:52.550205+00:00
-
- ## Math & Science Learning Center | University of Illinois Chicago
- - [https://mslc.uic.edu](https://mslc.uic.edu)
- - date_published: 2024-07-02T02:47:23.889279+00:00
-
- ## Welcome | myUIC
- - [https://my.uic.edu](https://my.uic.edu)
- - date_published: 2024-06-21T13:02:37.657561+00:00
-
- ## Native American Support Program | University of Illinois Chicago
- - [https://nasp.uic.edu](https://nasp.uic.edu)
- - date_published: 2024-07-02T02:48:19.656923+00:00
-
- ## College of Nursing | University of Illinois Chicago
- - [https://nursing.uic.edu](https://nursing.uic.edu)
- - date_published: 2024-07-02T02:46:51.172996+00:00
-
- ## Office for Access and Equity | University of Illinois Chicago
- - [http://oae.uic.edu](http://oae.uic.edu)
- - date_published: 2024-07-02T02:38:32.029810+00:00
-
- ## Office of External Fellowships | University of Illinois Chicago
- - [https://oef.uic.edu](https://oef.uic.edu)
- - date_published: 2024-07-02T02:47:13.173449+00:00
-
- ## Office of International Services | University of Illinois Chicago
- - [https://ois.uic.edu](https://ois.uic.edu)
- - date_published: 2024-07-02T02:47:42.455513+00:00
-
- ## Orientation | University of Illinois Chicago
- - [https://orientation.uic.edu](https://orientation.uic.edu)
- - date_published: 2024-07-02T02:47:26.039002+00:00
 

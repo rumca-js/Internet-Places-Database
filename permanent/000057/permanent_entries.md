@@ -1,3 +1,11 @@
+ ## Dark Gathering
+ - [http://darkgathering.blogspot.com](http://darkgathering.blogspot.com)
+ - date_published: 2024-08-28T11:34:31+00:00
+
+ ## De Silentio Umbrae (old)
+ - [http://darkgorydirtywarhammer.blogspot.com](http://darkgorydirtywarhammer.blogspot.com)
+ - date_published: 2024-10-05T07:10:11+00:00
+
  ## Colourtime
  - [http://darkknight1980.blogspot.com](http://darkknight1980.blogspot.com)
  - date_published: 2024-09-07T02:56:58+00:00
@@ -3998,12 +4006,4 @@
  ## The Flaxen Wave
  - [http://flaxenwave.blogspot.com](http://flaxenwave.blogspot.com)
  - date_published: 2024-06-11T03:06:52+00:00
-
- ## LGSA Fledgelings
- - [https://fledgelings.blogspot.com](https://fledgelings.blogspot.com)
- - date_published: 2024-04-13T12:36:47+00:00
-
- ## Flekkzo
- - [http://flekkzo.blogspot.com](http://flekkzo.blogspot.com)
- - date_published: 2024-09-02T08:01:37+00:00
 

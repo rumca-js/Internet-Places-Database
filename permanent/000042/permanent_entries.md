@@ -1,3 +1,12 @@
+ ## Home - WomensNet | Grants for Women in Business | Small Business Grants
+ - [https://ambergrantsforwomen.com](https://ambergrantsforwomen.com)
+ - date_published: 2024-05-01T02:34:46.008010+00:00
+
+ ## Amber Krowiarz / Now
+ - [http://amberkrowiarz.com](http://amberkrowiarz.com)
+ - date_published: 2023-12-30T15:38:02.194396+00:00
+ - tags: ['personal']
+
  ## Amber: Programming language compiled to Bash
  - [https://amber-lang.com](https://amber-lang.com)
  - date_published: 2024-05-21T18:15:27+00:00
@@ -4069,12 +4078,4 @@
  ## INTERNET CLUB
  - [http://internetclubdotcom.angelfire.com](http://internetclubdotcom.angelfire.com)
  - date_published: 2024-07-05T00:00:00+00:00
-
- ## Self-Hosted Web Analytics | Angelfish Software
- - [http://www.angelfishstats.com](http://www.angelfishstats.com)
- - date_published: 2024-08-18T04:06:11+00:00
-
- ## AngelHack - Growing Innovation & Developer Ecosystems
- - [https://angelhack.com](https://angelhack.com)
- - date_published: 2024-08-16T00:00:00+00:00
 

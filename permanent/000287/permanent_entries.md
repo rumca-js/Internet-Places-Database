@@ -1,3 +1,95 @@
+ ## Florida Department of Health in Collier
+ - [https://collier.floridahealth.gov](https://collier.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:25.812015+00:00
+
+ ## Florida Department of Health in Columbia
+ - [https://columbia.floridahealth.gov](https://columbia.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:10.152307+00:00
+
+ ## Florida Department of Health in Desoto
+ - [https://desoto.floridahealth.gov](https://desoto.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:15.906721+00:00
+
+ ## Florida Department of Health in Dixie
+ - [https://dixie.floridahealth.gov](https://dixie.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:38.726428+00:00
+
+ ## Florida Department of Health in Duval
+ - [https://duval.floridahealth.gov](https://duval.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:58.240167+00:00
+
+ ## Florida Department of Health in Escambia
+ - [https://escambia.floridahealth.gov](https://escambia.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:12.168072+00:00
+
+ ## Florida Department of Health in Flagler
+ - [https://flagler.floridahealth.gov](https://flagler.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:45.361877+00:00
+
+ ## Florida Department of Health
+ - [https://floridahealth.gov](https://floridahealth.gov)
+ - date_published: 2023-10-25T19:21:43.397423+00:00
+
+ ## Florida Department of Health in Franklin
+ - [https://franklin.floridahealth.gov](https://franklin.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:14.560811+00:00
+
+ ## Florida Department of Health in Gadsden
+ - [https://gadsden.floridahealth.gov](https://gadsden.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:20.619149+00:00
+
+ ## Florida Department of Health in Gilchrist
+ - [https://gilchrist.floridahealth.gov](https://gilchrist.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:04.735553+00:00
+
+ ## Florida Department of Health in Glades
+ - [https://glades.floridahealth.gov](https://glades.floridahealth.gov)
+ - date_published: 2024-05-08T02:50:43.075054+00:00
+
+ ## Florida Department of Health in Gulf
+ - [https://gulf.floridahealth.gov](https://gulf.floridahealth.gov)
+ - date_published: 2024-05-08T02:47:47.666958+00:00
+
+ ## Florida Department of Health in Hamilton
+ - [https://hamilton.floridahealth.gov](https://hamilton.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:42.884375+00:00
+
+ ## Florida Department of Health in Hardee
+ - [https://hardee.floridahealth.gov](https://hardee.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:49.550370+00:00
+
+ ## Florida Department of Health in Hendry
+ - [https://hendry.floridahealth.gov](https://hendry.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:30.104891+00:00
+
+ ## Florida Department of Health in Hernando
+ - [https://hernando.floridahealth.gov](https://hernando.floridahealth.gov)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Florida Department of Health in Highlands
+ - [https://highlands.floridahealth.gov](https://highlands.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:51.480804+00:00
+
+ ## Florida Department of Health in Hillsborough
+ - [https://hillsborough.floridahealth.gov](https://hillsborough.floridahealth.gov)
+ - date_published: 2024-05-08T02:48:02.986884+00:00
+
+ ## Florida Department of Health in Holmes
+ - [https://holmes.floridahealth.gov](https://holmes.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:00.507269+00:00
+
+ ## Florida Department of Health in Indian River
+ - [https://indianriver.floridahealth.gov](https://indianriver.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:20.832913+00:00
+
+ ## Florida Department of Health in Jackson
+ - [https://jackson.floridahealth.gov](https://jackson.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:11.226262+00:00
+
+ ## Florida Department of Health in Jefferson
+ - [https://jefferson.floridahealth.gov](https://jefferson.floridahealth.gov)
+ - date_published: 2024-05-08T02:49:53.711003+00:00
+
  ## Florida Department of Health in Lafayette
  - [https://lafayette.floridahealth.gov](https://lafayette.floridahealth.gov)
  - date_published: 2024-05-08T02:48:13.356400+00:00
@@ -3925,96 +4017,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## learning.lbl.gov
  - [http://learning.lbl.gov](http://learning.lbl.gov)
  - date_published: 2024-07-15T02:48:59.392144+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://lessonslearned.lbl.gov](https://lessonslearned.lbl.gov)
- - date_published: 2024-07-15T02:40:41.481397+00:00
-
- ## Lighting Projects
- - [https://lightingprojects.lbl.gov](https://lightingprojects.lbl.gov)
- - date_published: 2024-07-15T02:48:47.839497+00:00
-
- ## Lawrence Berkeley Lab
- - [http://map.lbl.gov](http://map.lbl.gov)
- - date_published: 2021-03-01T17:16:03+00:00
-
- ## Home – Berkeley Lab News Center
- - [https://newscenter.lbl.gov](https://newscenter.lbl.gov)
- - date_published: 2023-10-25T19:22:51.346360+00:00
-
- ## Berkeley Lab Notify
- - [https://notify.lbl.gov](https://notify.lbl.gov)
- - date_published: 2024-07-15T02:48:21.217426+00:00
-
- ## Sign in ・ Cloudflare Access
- - [https://ocfo.lbl.gov](https://ocfo.lbl.gov)
- - date_published: 2024-07-15T02:48:12.929256+00:00
-
- ## Operations – Berkeley Lab Operations
- - [https://ops.lbl.gov](https://ops.lbl.gov)
- - date_published: 2024-05-12T04:46:43.999256+00:00
-
- ## Home
- - [http://pathways.lbl.gov](http://pathways.lbl.gov)
- - date_published: 2024-07-15T02:49:34.427947+00:00
-
- ## Particle Data Group
- - [http://pdg.lbl.gov](http://pdg.lbl.gov)
- - date_published: 2024-10-19T07:30:35.956064+00:00
-
- ## pdgLive
- - [https://pdglive.lbl.gov](https://pdglive.lbl.gov)
- - date_published: 2024-07-16T17:26:17.676390+00:00
-
- ## Phonebook
- - [https://phonebook.lbl.gov](https://phonebook.lbl.gov)
- - date_published: 2024-05-12T04:46:30.432390+00:00
-
- ## Cookie Consent - Berkeley Lab Photo Archive
- - [https://photos.lbl.gov](https://photos.lbl.gov)
- - date_published: 2024-07-15T02:46:26.610378+00:00
-
- ## Physical Sciences Area Homepage – Physical Sciences Area
- - [https://physicalsciences.lbl.gov](https://physicalsciences.lbl.gov)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Berkeley Lab PIMD – Projects & Infrastructure Modernization
- - [https://pim.lbl.gov](https://pim.lbl.gov)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Berkeley Lab PMO – Project Management Office
- - [https://pmo.lbl.gov](https://pmo.lbl.gov)
- - date_published: 2024-05-12T04:47:00.710395+00:00
-
- ## Resources
- - [http://postdocresources.lbl.gov](http://postdocresources.lbl.gov)
- - date_published: 2024-07-15T02:49:30.277401+00:00
-
- ## Procurement & Property — Office of the Chief Financial Officer
- - [https://procurement.lbl.gov](https://procurement.lbl.gov)
- - date_published: 2024-07-15T02:48:11.548420+00:00
-
- ## SES – Security & Emergency Services (SES)
- - [http://ps.lbl.gov](http://ps.lbl.gov)
- - date_published: 2024-07-15T02:40:30.878640+00:00
-
- ## Recruiting @ LBL
- - [https://recruiting.lbl.gov](https://recruiting.lbl.gov)
- - date_published: 2024-07-15T02:49:31.898981+00:00
-
- ## Sustainable Berkeley Lab – (SBL) – Lawrence Berkeley National Laboratory
- - [https://sbl.lbl.gov](https://sbl.lbl.gov)
- - date_published: 2024-07-15T02:48:01.995221+00:00
-
- ## Search – Berkeley Lab
- - [https://search.lbl.gov](https://search.lbl.gov)
- - date_published: 2024-05-12T04:46:32.294909+00:00
-
- ## SES – Security & Emergency Services (SES)
- - [https://securityandemergencyservices.lbl.gov](https://securityandemergencyservices.lbl.gov)
- - date_published: 2024-05-12T04:46:50.942063+00:00
-
- ## Shuttle Buses
- - [https://shuttles.lbl.gov](https://shuttles.lbl.gov)
- - date_published: 2018-12-13T00:00:00+00:00
 

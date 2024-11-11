@@ -1,3 +1,83 @@
+ ## Ibn Kafka's obiter dicta - divagations d'un juriste marocain en liberté surveillée
+ - [http://ibnkafkasobiterdicta.wordpress.com](http://ibnkafkasobiterdicta.wordpress.com)
+ - date_published: 2024-10-21T18:37:25.943022+00:00
+
+ ## Michael Allen Potter
+ - [http://icartographer.wordpress.com](http://icartographer.wordpress.com)
+ - date_published: 2024-06-30T04:11:19.583426+00:00
+
+ ## cairo-ickle
+ - [https://ickle.wordpress.com](https://ickle.wordpress.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Iconic Photos
+ - [https://iconicphotos.wordpress.com](https://iconicphotos.wordpress.com)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Private Site
+ - [https://icsihealthcareblog.wordpress.com](https://icsihealthcareblog.wordpress.com)
+ - date_published: 2024-06-15T18:49:54.564466+00:00
+
+ ## ICTs for Development
+ - [https://ict4dblog.wordpress.com](https://ict4dblog.wordpress.com)
+ - date_published: 2024-06-20T03:48:07.710480+00:00
+
+ ## ICT for Peacebuilding (#ICT4Peace)
+ - [https://ict4peace.wordpress.com](https://ict4peace.wordpress.com)
+ - date_published: 2024-05-09T05:24:17.601007+00:00
+
+ ## idealisticautistic
+ - [http://idealisticautistic.wordpress.com](http://idealisticautistic.wordpress.com)
+ - date_published: 2024-09-03T22:47:41.749078+00:00
+
+ ## Ideas Man 2
+ - [http://ideasmanv2.wordpress.com](http://ideasmanv2.wordpress.com)
+ - date_published: 2024-10-19T07:02:13.673013+00:00
+
+ ## Ideas Man
+ - [http://ideasman.wordpress.com](http://ideasman.wordpress.com)
+ - date_published: 2024-06-17T12:04:02.572153+00:00
+
+ ## Thoughts on Papyrus
+ - [https://ideasonpapyrus.wordpress.com](https://ideasonpapyrus.wordpress.com)
+ - date_published: 2024-09-17T17:12:06.649179+00:00
+
+ ## idées fig's du coyote
+ - [https://ideefigs.wordpress.com](https://ideefigs.wordpress.com)
+ - date_published: 2024-10-26T21:45:53.143961+00:00
+
+ ## IDEIAS EM BLOG
+ - [http://ideiasblogsite.wordpress.com](http://ideiasblogsite.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## idiosynchrony
+ - [http://idiosynchrony.wordpress.com](http://idiosynchrony.wordpress.com)
+ - date_published: 2024-10-29T18:04:25.242810+00:00
+
+ ## idlewilderno1's Blog
+ - [http://idlewilding.wordpress.com](http://idlewilding.wordpress.com)
+ - date_published: 2024-08-06T11:38:13.712575+00:00
+
+ ## Loose Canon
+ - [https://idlings.wordpress.com](https://idlings.wordpress.com)
+ - date_published: 2024-08-19T16:09:07+00:00
+
+ ## Maths, Stats & Functional Programming
+ - [https://idontgetoutmuch.wordpress.com](https://idontgetoutmuch.wordpress.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## SewToFit2
+ - [http://idosewtofit.wordpress.com](http://idosewtofit.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## idothei
+ - [https://idothei.wordpress.com](https://idothei.wordpress.com)
+ - date_published: 2024-07-04T16:35:25+00:00
+
+ ## IntenseDebate Support
+ - [https://idsupport.wordpress.com](https://idsupport.wordpress.com)
+ - date_published: 2024-10-20T20:40:44.501784+00:00
+
  ## Dumbest Blog Ever
  - [https://ifbaird1989.wordpress.com](https://ifbaird1989.wordpress.com)
  - date_published: 2024-05-07T15:13:35.392954+00:00
@@ -3932,84 +4012,4 @@
  ## My Obsessive Compulsive Disorder Gaming Blog
  - [https://mmocdb.wordpress.com](https://mmocdb.wordpress.com)
  - date_published: 2024-10-31T14:52:51+00:00
-
- ## moggi's blog about Libreoffice hacking
- - [https://mmohrhard.wordpress.com](https://mmohrhard.wordpress.com)
- - date_published: 2024-07-07T00:00:00+00:00
-
- ## mNm Math
- - [http://mnmmath.wordpress.com](http://mnmmath.wordpress.com)
- - date_published: 2024-09-09T23:46:56.314422+00:00
-
- ## Some Thoughts on a Mysterious Universe
- - [https://moalquraishi.wordpress.com](https://moalquraishi.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## The Mobius function Blog
- - [http://mobiusfunction.wordpress.com](http://mobiusfunction.wordpress.com)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Always Look On The Modeling Side Of Life
- - [https://modelingsideoflife.wordpress.com](https://modelingsideoflife.wordpress.com)
- - date_published: 2024-07-18T12:20:29.339441+00:00
-
- ## ModernityBlog
- - [http://modernityblog.wordpress.com](http://modernityblog.wordpress.com)
- - date_published: 2024-10-21T13:57:03.767750+00:00
-
- ## Moe for moe?
- - [https://moeformoe.wordpress.com](https://moeformoe.wordpress.com)
- - date_published: 2024-08-09T03:44:32.591233+00:00
-
- ## MOERG: Play, Games and Context for Learning
- - [https://moerg.wordpress.com](https://moerg.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Mohammad Atari
- - [https://mohammadataricom.wordpress.com](https://mohammadataricom.wordpress.com)
- - date_published: 2024-06-06T11:30:18.898865+00:00
-
- ## moja Albania
- - [http://mojalbania.wordpress.com](http://mojalbania.wordpress.com)
- - date_published: 2024-06-28T19:06:04.176584+00:00
-
- ## MOLLIE DAVIDSON - AUDIO PRODUCER
- - [https://molliedavidson.wordpress.com](https://molliedavidson.wordpress.com)
- - date_published: 2024-06-22T07:02:48.741738+00:00
-
- ## Intuitive physics
- - [https://mollyccom.wordpress.com](https://mollyccom.wordpress.com)
- - date_published: 2024-04-30T07:46:31.166474+00:00
-
- ## mollymooly
- - [http://mollymooly.wordpress.com](http://mollymooly.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Molly's Musings
- - [http://mollysmusingsonlife.wordpress.com](http://mollysmusingsonlife.wordpress.com)
- - date_published: 2024-09-03T23:06:49.418310+00:00
-
- ## Private Site
- - [http://moniyawlinguist.wordpress.com](http://moniyawlinguist.wordpress.com)
- - date_published: 2024-07-02T09:15:42.674778+00:00
-
- ## Monkeynoodle.Org
- - [https://monkeynoodleorg.wordpress.com](https://monkeynoodleorg.wordpress.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Monrovia City Corporation
- - [https://monroviacitycorporation.wordpress.com](https://monroviacitycorporation.wordpress.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Monsoon Grey
- - [https://monsoongrey.wordpress.com](https://monsoongrey.wordpress.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Monster Gunslingers The Game®
- - [https://monstergunslingers.wordpress.com](https://monstergunslingers.wordpress.com)
- - date_published: 2024-10-29T00:48:20.159942+00:00
-
- ## Monster Legacy
- - [http://monsterlegacy.wordpress.com](http://monsterlegacy.wordpress.com)
- - date_published: 2024-06-18T05:26:54+00:00
 

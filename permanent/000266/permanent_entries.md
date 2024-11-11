@@ -1,3 +1,95 @@
+ ## Sign in to Outlook
+ - [http://myemail.ucdenver.edu](http://myemail.ucdenver.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## News Home - CU Denver News
+ - [https://news.ucdenver.edu](https://news.ucdenver.edu)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## Home | Colorado PROFILES
+ - [https://profiles.ucdenver.edu](https://profiles.ucdenver.edu)
+ - date_published: 2024-07-22T05:15:41.583879+00:00
+
+ ## CU Anschutz Off-Campus Access (EZProxy)
+ - [https://proxy.hsl.ucdenver.edu](https://proxy.hsl.ucdenver.edu)
+ - date_published: 2022-12-19T00:00:00+00:00
+
+ ## Home / EMS
+ - [https://ptssweb316.ucdenver.edu](https://ptssweb316.ucdenver.edu)
+ - date_published: 2024-07-22T04:56:19.340882+00:00
+
+ ## CU Denver School of Public Affairs Home Page
+ - [https://publicaffairs.ucdenver.edu](https://publicaffairs.ucdenver.edu)
+ - date_published: 2024-08-09T00:05:56+00:00
+
+ ## Office of Research Services & Research Administration | CU Denver
+ - [https://research.ucdenver.edu](https://research.ucdenver.edu)
+ - date_published: 2024-08-10T00:11:04+00:00
+
+ ## Home / EMS
+ - [https://schedule.ucdenver.edu](https://schedule.ucdenver.edu)
+ - date_published: 2024-07-22T18:41:28.756483+00:00
+
+ ## School of Medicine | University of Colorado
+ - [https://som.ucdenver.edu](https://som.ucdenver.edu)
+ - date_published: 2023-01-13T21:35:31+00:00
+
+ ## University of Colorado Denver | CU Denver
+ - [https://ucdenver.edu](https://ucdenver.edu)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Advising
+ - [https://appleseed.cs.ucf.edu](https://appleseed.cs.ucf.edu)
+ - date_published: 2024-05-11T07:18:07.290047+00:00
+
+ ## Admissions - College of Graduate Studies
+ - [https://applynow.graduate.ucf.edu](https://applynow.graduate.ucf.edu)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Home - College of Graduate Studies
+ - [https://apps.graduate.ucf.edu](https://apps.graduate.ucf.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Academic Program Quality
+ - [https://apq.ucf.edu](https://apq.ucf.edu)
+ - date_published: 2024-07-13T11:52:01.801726+00:00
+
+ ## UCF Board of Trustees
+ - [https://bot.ucf.edu](https://bot.ucf.edu)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Summer 2024 | Academic Calendar | UCF
+ - [http://calendar.ucf.edu](http://calendar.ucf.edu)
+ - date_published: 2024-07-13T11:52:34.626450+00:00
+
+ ## Department of Computer Science
+ - [https://cs.ucf.edu](https://cs.ucf.edu)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## Bounce, Stomp, Splash, Cheer! | UCF Day of Giving 2024
+ - [https://dayofgiving.ucf.edu](https://dayofgiving.ucf.edu)
+ - date_published: 2024-07-13T11:52:06.682831+00:00
+
+ ## Autonomous and Intelligent Systems – Just another WordPress site
+ - [https://eecs.ucf.edu](https://eecs.ucf.edu)
+ - date_published: 2024-01-09T03:28:03.267934+00:00
+
+ ## University of Central Florida Events | Today's Events
+ - [https://events.ucf.edu](https://events.ucf.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Graduate Catalog | University of Central Florida
+ - [http://graduatecatalog.ucf.edu](http://graduatecatalog.ucf.edu)
+ - date_published: 2024-07-13T11:52:08.030699+00:00
+
+ ## Graduate Council
+ - [https://graduatecouncil.ucf.edu](https://graduatecouncil.ucf.edu)
+ - date_published: 2024-07-13T11:52:25.396881+00:00
+
+ ## Home - College of Graduate Studies
+ - [https://graduate.ucf.edu](https://graduate.ucf.edu)
+ - date_published: 2024-04-11T00:00:00+00:00
+
  ## Institutional Knowledge Management
  - [https://ikm.ucf.edu](https://ikm.ucf.edu)
  - date_published: 2024-07-13T11:52:37.298429+00:00
@@ -3933,96 +4025,4 @@
  ## Home Page - ORCOI
  - [https://orcoi.research.ucsb.edu](https://orcoi.research.ucsb.edu)
  - date_published: 2024-09-14T10:11:03.766244+00:00
-
- ## Home | Orientation Programs and Parent Services
- - [http://orientation.sa.ucsb.edu](http://orientation.sa.ucsb.edu)
- - date_published: 2024-09-07T15:37:22+00:00
-
- ## Home | Student Engagement & Leadership
- - [https://osl.sa.ucsb.edu](https://osl.sa.ucsb.edu)
- - date_published: 2024-09-10T20:20:05+00:00
-
- ## Home | Department of Physics | UC Santa Barbara
- - [http://physics.ucsb.edu](http://physics.ucsb.edu)
- - date_published: 2024-08-19T20:53:52.603925+00:00
-
- ## Home | UC Santa Barbara | Policies & Procedures
- - [https://policy.ucsb.edu](https://policy.ucsb.edu)
- - date_published: 2024-05-07T20:58:49.552323+00:00
-
- ## Home | UC Santa Barbara | Privacy
- - [https://privacy.ucsb.edu](https://privacy.ucsb.edu)
- - date_published: 2024-05-07T20:58:43.684216+00:00
-
- ## UCSB Professional and Continuing Education
- - [https://professional.ucsb.edu](https://professional.ucsb.edu)
- - date_published: 2024-09-13T18:42:51+00:00
-
- ## Shibboleth Authentication Request
- - [https://proxy.library.ucsb.edu](https://proxy.library.ucsb.edu)
- - date_published: 2024-09-14T10:13:50.782127+00:00
-
- ## Department of Statistics and Applied Probability - UC Santa Barbara
- - [https://pstat.ucsb.edu](https://pstat.ucsb.edu)
- - date_published: 2024-07-01T23:16:53+00:00
-
- ## UCSB NSF Quantum Foundry | CNSI | UC Santa Barbara | UCSB NSF Quantum Foundry | CNSI | UC Santa Barbara
- - [https://quantumfoundry.ucsb.edu](https://quantumfoundry.ucsb.edu)
- - date_published: 2024-10-19T08:09:08.995694+00:00
-
- ## Home | Research Computing and Data
- - [https://rcd.ucsb.edu](https://rcd.ucsb.edu)
- - date_published: 2024-09-13T10:32:09+00:00
-
- ## Home | Department of Recreation
- - [https://recreation.sa.ucsb.edu](https://recreation.sa.ucsb.edu)
- - date_published: 2024-06-13T22:25:46+00:00
-
- ## Home | Department of Recreation
- - [https://recreation.ucsb.edu](https://recreation.ucsb.edu)
- - date_published: 2024-09-10T23:37:39+00:00
-
- ## Welcome - Recruit
- - [https://recruit.ap.ucsb.edu](https://recruit.ap.ucsb.edu)
- - date_published: 2024-10-19T08:20:36.782157+00:00
-
- ## UCSB Recreation
- - [https://register.recreation.ucsb.edu](https://register.recreation.ucsb.edu)
- - date_published: 2024-09-14T10:11:38.352118+00:00
-
- ## Home - UCSB Office of the Registrar
- - [https://registrar.sa.ucsb.edu](https://registrar.sa.ucsb.edu)
- - date_published: 2024-09-14T10:14:37.557644+00:00
-
- ## Home | Reich Lab | Chemistry and Biochemistry | UC Santa Barbara
- - [http://reich.chem.ucsb.edu](http://reich.chem.ucsb.edu)
- - date_published: 2024-10-19T08:20:22.035666+00:00
-
- ## Housing Mediation Services
- - [https://rentallistings.housing.ucsb.edu](https://rentallistings.housing.ucsb.edu)
- - date_published: 2024-09-14T10:14:49.605144+00:00
-
- ## Home | Office of Research
- - [https://research.ucsb.edu](https://research.ucsb.edu)
- - date_published: 2024-06-13T20:42:36+00:00
-
- ## scg-ucsb
- - [http://scg.ece.ucsb.edu](http://scg.ece.ucsb.edu)
- - date_published: 2020-04-08T20:57:24+00:00
-
- ## Home | Student Engagement & Leadership
- - [https://seal.sa.ucsb.edu](https://seal.sa.ucsb.edu)
- - date_published: 2024-09-10T20:20:05+00:00
-
- ## SecLab - Welcome
- - [http://seclab.cs.ucsb.edu](http://seclab.cs.ucsb.edu)
- - date_published: 2024-06-23T19:32:14+00:00
-
- ## Academic Senate - University of California, Santa Barbara
- - [https://senate.ucsb.edu](https://senate.ucsb.edu)
- - date_published: 2024-09-14T10:17:13.561306+00:00
-
- ## UCSB Shared Instrumentation Network
- - [https://sharedinstrumentation.ucsb.edu](https://sharedinstrumentation.ucsb.edu)
- - date_published: 2024-09-14T09:43:59+00:00
 

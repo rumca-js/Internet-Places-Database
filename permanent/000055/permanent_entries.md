@@ -1,3 +1,11 @@
+ ## A Canadian in Space
+ - [http://acanadianinspace.blogspot.com](http://acanadianinspace.blogspot.com)
+ - date_published: 2024-08-29T08:44:02+00:00
+
+ ## a cat and twenty.
+ - [http://acatandtwenty.blogspot.com](http://acatandtwenty.blogspot.com)
+ - date_published: 2024-10-19T08:21:46.313162+00:00
+
  ## John Ray's pictorial home page
  - [https://accessjonjayray.blogspot.com](https://accessjonjayray.blogspot.com)
  - date_published: 2024-02-19T15:21:35+00:00
@@ -4009,12 +4017,4 @@
  ## Bloggerhythms
  - [https://bloggerhythms.blogspot.com](https://bloggerhythms.blogspot.com)
  - date_published: 2024-06-27T21:54:42+00:00
-
- ## Bloggers4UKIP
- - [http://bloggers4ukip.blogspot.com](http://bloggers4ukip.blogspot.com)
- - date_published: 2024-10-21T15:24:29.342417+00:00
-
- ## Bloggers For Charity
- - [http://bloggersforcharity.blogspot.com](http://bloggersforcharity.blogspot.com)
- - date_published: 2024-09-09T21:26:39+00:00
 

@@ -1,3 +1,156 @@
+ ## Kampania - Domowe zasady ekranowe
+ - [https://www.domowezasadyekranowe.fdds.pl](https://www.domowezasadyekranowe.fdds.pl)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Platforma edukacyjna Fundacji Dajemy Dzieciom Siłę | Platforma edukacyjna FDDS
+ - [https://www.edu.fdds.pl](https://www.edu.fdds.pl)
+ - date_published: 2024-09-02T13:52:38+00:00
+
+ ## FEGIME POLSKA
+ - [http://www.fegime.pl](http://www.fegime.pl)
+ - date_published: 2024-09-02T14:25:42.652744+00:00
+
+ ## Strona korporacyjna Grupy Ferrero
+ - [https://www.ferrero.pl](https://www.ferrero.pl)
+ - date_published: 2024-05-04T05:56:13.887697+00:00
+
+ ## Loteria Ferrero - Przemień chwile w złoty blask
+ - [https://www.loteria.ferrerorocher.pl](https://www.loteria.ferrerorocher.pl)
+ - date_published: 2024-10-27T17:54:58.440360+00:00
+
+ ## Digital Festival 2023 - MOŻESZ WIĘCEJ | Dołącz do DIGITAL FESTIVAL 2023 i przekonaj się, że #MożeszWięcej, gdy korzystasz ze sztucznej inteligencji.
+ - [http://festiwalcyfryzacji.pl](http://festiwalcyfryzacji.pl)
+ - date_published: 2024-06-07T17:48:18+00:00
+
+ ## Tauron Nowa Muzyka Katowice
+ - [http://2016.festiwalnowamuzyka.pl](http://2016.festiwalnowamuzyka.pl)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Tauron Nowa Muzyka Katowice
+ - [http://2017.festiwalnowamuzyka.pl](http://2017.festiwalnowamuzyka.pl)
+ - date_published: 2024-07-10T10:35:38.682387+00:00
+
+ ## Tauron Nowa Muzyka Katowice
+ - [http://2018.festiwalnowamuzyka.pl](http://2018.festiwalnowamuzyka.pl)
+ - date_published: 2024-07-10T10:35:40.146381+00:00
+
+ ## Tauron Nowa Muzyka Katowice
+ - [https://festiwalnowamuzyka.pl](https://festiwalnowamuzyka.pl)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Festiwal Rezonanse 2024 - Festiwal Rezonanse
+ - [https://festiwalrezonanse.pl](https://festiwalrezonanse.pl)
+ - date_published: 2024-08-18T11:26:32.141895+00:00
+
+ ## Fest
+ - [https://sklep.fest-materace.pl](https://sklep.fest-materace.pl)
+ - date_published: 2024-09-25T17:28:14.553531+00:00
+
+ ## Fest - Sklep z Materacami i Łóżkami Poznań
+ - [https://www.fest-materace.pl](https://www.fest-materace.pl)
+ - date_published: 2024-06-16T05:45:40.223282+00:00
+
+ ## Fundacja Firmy Rodzinne
+ - [https://ffr.pl](https://ffr.pl)
+ - date_published: 2024-05-26T17:36:00.205194+00:00
+
+ ## Wyprzedaż samochodów dostępnych u dealerów
+ - [https://salon.fiat.pl](https://salon.fiat.pl)
+ - date_published: 2024-10-28T19:15:34.368475+00:00
+
+ ## Samochody Fiat, samochody dostawcze i mobilnosc | Fiat PL
+ - [https://www.fiat.pl](https://www.fiat.pl)
+ - date_published: 2024-06-18T10:21:10+00:00
+
+ ## Filary Biznesu
+ - [https://filarybiznesu.pl](https://filarybiznesu.pl)
+ - date_published: 2024-06-30T09:14:39+00:00
+
+ ## Filharmonia Gorzowska
+ - [https://filharmoniagorzowska.pl](https://filharmoniagorzowska.pl)
+ - date_published: 2024-07-13T19:15:38.785381+00:00
+
+ ## Filharmonia Poznańska
+ - [http://www.filharmoniapoznanska.pl](http://www.filharmoniapoznanska.pl)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Filigranowe Studio : pracownia graficzna
+ - [http://filigranowestudio.pl](http://filigranowestudio.pl)
+ - date_published: 2024-03-20T08:14:27+00:00
+
+ ## fillup - formalności wypełnione. Program wypełniający druki i wzory.
+ - [https://www.fillup.pl](https://www.fillup.pl)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Filman cc - Darmowe Seriale i Filmy Online HD z lektorem pl
+ - [https://filman-tv.pl](https://filman-tv.pl)
+ - date_published: 2024-11-08T12:02:45.665548+00:00
+
+ ## FilmBooster.pl
+ - [https://www.filmbooster.pl](https://www.filmbooster.pl)
+ - date_published: 2024-10-03T08:25:19.486323+00:00
+
+ ## FILMOMANIAK.pl serwis dla maniaków filmów i seriali
+ - [https://filmomaniak.pl](https://filmomaniak.pl)
+ - date_published: 2024-05-09T04:53:33.513657+00:00
+
+ ## FILMOTEKA SZKOLNA – Strona Filmoteki Szkolnej
+ - [http://www.filmotekaszkolna.pl](http://www.filmotekaszkolna.pl)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Filmaza.pl • Świat filmów i seriali online
+ - [https://filmovod.pl](https://filmovod.pl)
+ - date_published: 2024-11-08T12:01:00.703136+00:00
+
+ ## Strona Główna - Wytwórnia Filmów Fabularnych we Wrocławiu
+ - [https://filmstudioceta.pl](https://filmstudioceta.pl)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Filmweb - filmy takie jak Ty!
+ - [https://filmweb.pl](https://filmweb.pl)
+ - date_published: 2023-10-27T13:25:39.706562+00:00
+ - tags: ['page rank', 'movies']
+
+ ## Kurs tworzenia filmów z podróży - Dodatek Podróżniczy
+ - [https://filmypodroznicze.pl](https://filmypodroznicze.pl)
+ - date_published: 2024-06-27T13:33:15+00:00
+
+ ## Portal edukacji finansowej Finansiaki
+ - [https://finansiaki.pl](https://finansiaki.pl)
+ - date_published: 2024-06-16T17:10:39.741601+00:00
+
+ ## Finansowa Forteca
+ - [https://finansowaforteca.pl](https://finansowaforteca.pl)
+ - date_published: 2024-07-11T16:20:17.167660+00:00
+
+ ## Chwilówki online - najtańsze chwilówki przez internet - Finansowysupermarket.pl
+ - [https://www.finansowysupermarket.pl](https://www.finansowysupermarket.pl)
+ - date_published: 2024-10-18T04:01:29.532421+00:00
+
+ ## Biura do wynajęcia, Coworking, Magazyny na wynajem | finne.pl
+ - [https://finne.pl](https://finne.pl)
+ - date_published: 2024-09-25T16:47:35.788360+00:00
+
+ ## Pobierz najszybszego Firefoksa w historii
+ - [http://firefox.pl](http://firefox.pl)
+ - date_published: 2024-09-03T23:30:20.513357+00:00
+
+ ## Fishermanshop.pl - prezenty dla wędkarzy
+ - [https://fishermanshop.pl](https://fishermanshop.pl)
+ - date_published: 2024-05-26T22:01:13.807315+00:00
+
+ ## Fishster.pl: Największa platforma wędkarska w Polsce
+ - [https://fishster.pl](https://fishster.pl)
+ - date_published: 2024-09-19T13:39:43.993691+00:00
+
+ ## FISZ EMADE - TWORZYWO
+ - [https://fiszemade.pl](https://fiszemade.pl)
+ - date_published: 2024-01-09T03:44:12.023195+00:00
+
+ ## FISZ EMADE TWORZYWO
+ - [https://sklep.fiszemade.pl](https://sklep.fiszemade.pl)
+ - date_published: 2023-10-29T15:32:44.993626+00:00
+
  ## Fiszki Polityki
  - [https://www.fiszkipolityki.pl](https://www.fiszkipolityki.pl)
  - date_published: 2024-06-30T06:28:26.909721+00:00
@@ -3920,160 +4073,4 @@
  ## home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, eSklep, Office 365
  - [https://lesniczowkanibork.pl](https://lesniczowkanibork.pl)
  - date_published: 2024-06-30T06:28:32.663574+00:00
-
- ## Digital Marketing szkolenia doradztwo | VIP Leszek A. Nowak | Twoja osobista, jednoosobowa agencja w świecie cyfrowym
- - [https://leszeknowak.pl](https://leszeknowak.pl)
- - date_published: 2024-10-22T21:14:41.225644+00:00
-
- ## Let's go retro! Komputery, gry i elektronika użytkowa
- - [https://letsgoretro.pl](https://letsgoretro.pl)
- - date_published: 2024-01-02T11:55:50+00:00
- - tags: ['retro games']
-
- ## Sklep wydawnictwa Wolters Kluwer, w którym kupisz produkty LEX
- - [https://www.lex.pl](https://www.lex.pl)
- - date_published: 2024-08-18T15:35:23.570003+00:00
-
- ## System informacji prawnej LexLege: akty prawne, orzecznictwo, wzory dokumentów
- - [https://lexlege.pl](https://lexlege.pl)
- - date_published: 2024-09-03T22:36:32.285695+00:00
-
- ## Lexus Polska: samochody luksusowe i hybrydowe
- - [https://www.lexus-polska.pl](https://www.lexus-polska.pl)
- - date_published: 2024-10-22T21:12:33.461753+00:00
-
- ## Lexus Wrocław
- - [https://lexus-wroclaw.pl](https://lexus-wroclaw.pl)
- - date_published: 2024-07-17T15:45:21.935915+00:00
-
- ## LFPK – Lubuski Fundusz Poręczeń Kredytowych – LFPK – Lubuski Fundusz Poręczeń Kredytowych
- - [https://lfpk.pl](https://lfpk.pl)
- - date_published: 2024-05-11T08:18:45.189345+00:00
-
- ## Biuro prasowe LG Polska
- - [https://lgnews.pl](https://lgnews.pl)
- - date_published: 2024-05-04T12:26:12.977880+00:00
-
- ## Hosting i Domeny • LH.pl • Zamów Teraz
- - [https://lh.pl](https://lh.pl)
- - date_published: 2023-12-13T14:57:16.265740+00:00
- - tags: ['server hosting']
-
- ## LH Poczta :: Welcome to LH Poczta
- - [https://poczta.lh.pl](https://poczta.lh.pl)
- - date_published: 2024-05-26T14:01:02.208057+00:00
-
- ## Jacek Sierpiński
- - [http://sierp.libertarianizm.pl](http://sierp.libertarianizm.pl)
- - date_published: 2024-06-30T06:16:09.727891+00:00
-
- ## Akademia Librus
- - [https://akademia.librus.pl](https://akademia.librus.pl)
- - date_published: 2024-05-26T14:11:14.634611+00:00
-
- ## e-Biblioteka
- - [https://biblioteka.librus.pl](https://biblioteka.librus.pl)
- - date_published: 2024-05-26T14:11:07.813536+00:00
-
- ## Konto LIBRUS
- - [https://konto.librus.pl](https://konto.librus.pl)
- - date_published: 2024-08-29T11:05:15+00:00
-
- ## Librus - Systemy informatyczne wspierające edukację
- - [https://librus.pl](https://librus.pl)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Portal LIBRUS
- - [https://nauczanie.librus.pl](https://nauczanie.librus.pl)
- - date_published: 2024-05-26T14:11:13.956542+00:00
-
- ## Portal LIBRUS
- - [https://portal.librus.pl](https://portal.librus.pl)
- - date_published: 2024-05-26T14:11:12.079823+00:00
-
- ## LIBRUS Sekretariat
- - [https://sekretariat.librus.pl](https://sekretariat.librus.pl)
- - date_published: 2024-05-26T14:11:05.842079+00:00
-
- ## LIBRUS - e-Świadectwa
- - [https://swiadectwa.librus.pl](https://swiadectwa.librus.pl)
- - date_published: 2015-04-10T00:00:00+00:00
-
- ## Portal LIBRUS
- - [https://synergia.librus.pl](https://synergia.librus.pl)
- - date_published: 2023-10-29T15:21:47.167426+00:00
- - tags: ['social platform', 'government']
-
- ## LiderShe – Stowarzyszenie wyjątkowych kobiet – kobiet liderek.
- - [https://lidershe.pl](https://lidershe.pl)
- - date_published: 2024-07-14T05:29:36.601409+00:00
-
- ## Lidl Polska - Zakupy robię w Lidlu!
- - [https://www.lidl.pl](https://www.lidl.pl)
- - date_published: 2024-06-25T19:03:26.134848+00:00
-
- ## Life Architect | Odkryj radość życia!
- - [https://lifearchitect.pl](https://lifearchitect.pl)
- - date_published: 2024-09-02T12:43:18+00:00
-
- ## Metin2 • Strona główna
- - [http://boardmetin2pl.like.pl](http://boardmetin2pl.like.pl)
- - date_published: 2024-07-10T02:05:50.866968+00:00
-
- ## | Likeness | Agencja Marketingowa
- - [https://likeness.pl](https://likeness.pl)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## LINAK — systemy ruchu oparte na technologii elektrycznych siłowników liniowych
- - [https://www.linak.pl](https://www.linak.pl)
- - date_published: 2024-09-05T21:29:43.363921+00:00
-
- ## Strona główna - Centrum Wsparcia
- - [https://liniawsparcia.pl](https://liniawsparcia.pl)
- - date_published: 2021-12-14T00:00:00+00:00
-
- ## LINK4 Trwały Nośnik
- - [https://dokumenty.link4.pl](https://dokumenty.link4.pl)
- - date_published: 2020-05-29T09:06:40+00:00
-
- ## LINK4 Kalkulator OC AC
- - [https://kalkulatory.link4.pl](https://kalkulatory.link4.pl)
- - date_published: 2024-05-09T05:05:41.149352+00:00
-
- ## LINK4 | Kariera w LINK4 – zLINKuj się z nami!
- - [https://kariera.link4.pl](https://kariera.link4.pl)
- - date_published: 2024-05-09T05:05:43.069949+00:00
-
- ## OC, AC, ubezpieczenie samochodu, polisy turystyczne online => www.link4.pl
- - [https://link4.pl](https://link4.pl)
- - date_published: 2024-03-04T15:36:16+00:00
- - tags: ['car insurance']
-
- ## Dołącz do mam, które nie boją się bać!
- - [https://link4mama.pl](https://link4mama.pl)
- - date_published: 2024-05-09T05:05:40.618586+00:00
-
- ## Linkologia - linki i skróty internetowe
- - [http://www.linkologia.pl](http://www.linkologia.pl)
- - date_published: 2024-07-11T16:33:50.662411+00:00
-
- ## ListaPrzetargow.pl
- - [https://listaprzetargow.pl](https://listaprzetargow.pl)
- - date_published: 2024-07-11T16:19:50.995414+00:00
-
- ## Strony Patriotyczne
- - [http://patriotyczna.listastron.pl](http://patriotyczna.listastron.pl)
- - date_published: 2024-08-19T21:15:47.023317+00:00
-
- ## Lista TV - Darmowa telewizja, internetowa tv online
- - [http://listatv.pl](http://listatv.pl)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Darmowy internetowy licznik liter : liczy litery i znaki, gdy ilość znaków jest ograniczona
- - [https://ile.liter.pl](https://ile.liter.pl)
- - date_published: 2024-06-19T21:03:23+00:00
-
- ## Strona główna - APH Literacka Podróż Hestii
- - [https://literackapodrozhestii.pl](https://literackapodrozhestii.pl)
- - date_published: 2024-07-09T12:42:15.659074+00:00
 

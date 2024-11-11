@@ -1,3 +1,155 @@
+ ## Welcome to Admission | Admission
+ - [https://admission.lums.edu.pk](https://admission.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:34+00:00
+
+ ## LUMS Online Admission
+ - [https://admissions.lums.edu.pk](https://admissions.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:34.934258+00:00
+
+ ## Welcome to Alumni | Alumni
+ - [https://alumni.lums.edu.pk](https://alumni.lums.edu.pk)
+ - date_published: 2024-07-08T14:09:21+00:00
+
+ ## LUMS - Academic Report 2024
+ - [https://ar2024.lums.edu.pk](https://ar2024.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:40.329256+00:00
+
+ ## Centre for Continuing Education Studies
+ - [https://ces.lums.edu.pk](https://ces.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:38.193304+00:00
+
+ ## Connect Login
+ - [https://connect.lums.edu.pk](https://connect.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:48.792446+00:00
+
+ ## Welcome to Financial Aid | Financial Aid
+ - [https://financial-aid.lums.edu.pk](https://financial-aid.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to Giving | Giving
+ - [https://giving.lums.edu.pk](https://giving.lums.edu.pk)
+ - date_published: 2024-07-08T14:09:23+00:00
+
+ ## Welcome to HR | HR
+ - [https://hr.lums.edu.pk](https://hr.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to International | International
+ - [https://international.lums.edu.pk](https://international.lums.edu.pk)
+ - date_published: 2024-07-08T14:09:21+00:00
+
+ ## Welcome to Library | Library
+ - [https://library.lums.edu.pk](https://library.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to LUMS | LUMS
+ - [https://lums.edu.pk](https://lums.edu.pk)
+ - date_published: 2024-07-08T14:06:29+00:00
+
+ ## Welcome to MGSHSS | MGSHSS
+ - [https://mgshss.lums.edu.pk](https://mgshss.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:05+00:00
+
+ ## Welcome to LUMS - NOP Centre | LUMS - NOP Centre
+ - [https://nop.lums.edu.pk](https://nop.lums.edu.pk)
+ - date_published: 2024-07-08T14:07:54+00:00
+
+ ## Welcome to OR | OR
+ - [https://or.lums.edu.pk](https://or.lums.edu.pk)
+ - date_published: 2024-07-08T14:18:23+00:00
+
+ ## Welcome to Office of Students Affairs | Office of Students Affairs
+ - [https://osa.lums.edu.pk](https://osa.lums.edu.pk)
+ - date_published: 2024-07-04T07:36:05+00:00
+
+ ## LUMS - Online Payment
+ - [https://pay.lums.edu.pk](https://pay.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:06.144026+00:00
+
+ ## Welcome to Office of the Provost | Office of the Provost
+ - [https://provost.lums.edu.pk](https://provost.lums.edu.pk)
+ - date_published: 2024-07-08T11:37:56+00:00
+
+ ## Welcome to REDC
+ - [https://redc.lums.edu.pk](https://redc.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:20.774441+00:00
+
+ ## Welcome to SAHSOL | SAHSOL
+ - [https://sahsol.lums.edu.pk](https://sahsol.lums.edu.pk)
+ - date_published: 2024-07-08T14:39:44.026335+00:00
+
+ ## Welcome to SBASSE | SBASSE
+ - [http://sbasse.lums.edu.pk](http://sbasse.lums.edu.pk)
+ - date_published: 2024-07-08T14:08:05+00:00
+
+ ## Welcome to SDSB | SDSB
+ - [https://sdsb.lums.edu.pk](https://sdsb.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:04+00:00
+
+ ## Welcome to SOE | SOE
+ - [https://soe.lums.edu.pk](https://soe.lums.edu.pk)
+ - date_published: 2024-07-08T14:06:06+00:00
+
+ ## Welcome to VC Office | VC Office
+ - [https://vc.lums.edu.pk](https://vc.lums.edu.pk)
+ - date_published: 2024-07-08T11:51:59+00:00
+
+ ## Cierpliwości...
+ - [https://seecs.nust.edu.pk](https://seecs.nust.edu.pk)
+ - date_published: 2024-05-04T15:28:25.365834+00:00
+
+ ## Best Computer Science & It Courses Institute In Lahore
+ - [https://peaksolutions.edu.pk](https://peaksolutions.edu.pk)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## SAIMS – Sir AdamJee Institute of Management Sciences
+ - [https://saims.edu.pk](https://saims.edu.pk)
+ - date_published: 2024-06-12T11:43:58.226004+00:00
+
+ ## University of Peshawar
+ - [http://www.uop.edu.pk](http://www.uop.edu.pk)
+ - date_published: 2024-10-30T20:16:17.051982+00:00
+
+ ## Westminster Islamabad
+ - [https://westminster.edu.pk](https://westminster.edu.pk)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Election Commission of Pakistan
+ - [https://ecp.gov.pk](https://ecp.gov.pk)
+ - date_published: 2024-09-26T18:07:08.395401+00:00
+
+ ## PTA CMS
+ - [https://complaint.pta.gov.pk](https://complaint.pta.gov.pk)
+ - date_published: 2024-08-18T04:23:45.272451+00:00
+
+ ## DVS | About Dirbs
+ - [https://dirbs.pta.gov.pk](https://dirbs.pta.gov.pk)
+ - date_published: 2023-07-20T12:18:29+00:00
+
+ ## Home | NT CERT
+ - [https://ntcert.pta.gov.pk](https://ntcert.pta.gov.pk)
+ - date_published: 2024-08-09T10:59:57+00:00
+
+ ## Home page
+ - [https://pta.gov.pk](https://pta.gov.pk)
+ - date_published: 2024-01-09T03:43:44.494290+00:00
+
+ ## Ignite - National Technology Fund | Incubation Centers | Seed Fund
+ - [https://ignite.org.pk](https://ignite.org.pk)
+ - date_published: 2024-09-25T10:15:42.428880+00:00
+
+ ## NCGSA — National Center of GIS and Space Application
+ - [https://ncgsa.org.pk](https://ncgsa.org.pk)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Pakistan Aeronautical Complex Kamra - 403.shtml
+ - [http://pac.org.pk](http://pac.org.pk)
+ - date_published: 2024-07-09T22:02:28.119320+00:00
+
+ ## Pakrheumatology | Home
+ - [http://www.pakrheumatology.org.pk](http://www.pakrheumatology.org.pk)
+ - date_published: 2024-04-24T15:59:36+00:00
+
  ## Arab News PK
  - [http://arabnews.pk](http://arabnews.pk)
  - date_published: 2024-06-24T00:00:00+00:00
@@ -3916,163 +4068,4 @@ Polska 1939
  - [https://antyweb.pl](https://antyweb.pl)
  - date_published: 2023-10-25T09:37:36.960984+00:00
  - tags: ['tech news']
-
- ## Apaczka Mapa - Demo
- - [https://mapa.apaczka.pl](https://mapa.apaczka.pl)
- - date_published: 2024-10-16T19:13:45.516895+00:00
-
- ## Automatyka przemysłowa i budynkowa – APA Group
- - [https://www.apagroup.pl](https://www.apagroup.pl)
- - date_published: 2024-07-14T05:24:36.066441+00:00
-
- ## Zarządzanie finansami firmy online. Bezpieczne finanse - Apfino
- - [https://apfino.pl](https://apfino.pl)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Aplauz - Aplauz - Profesjonalne rozwiązania audio
- - [https://aplauzaudio.pl](https://aplauzaudio.pl)
- - date_published: 2024-05-26T20:31:00.239962+00:00
-
- ## Drogowskaz – Aplikacja Kościoła
- - [https://aplikacjadrogowskaz.pl](https://aplikacjadrogowskaz.pl)
- - date_published: 2024-07-17T17:41:22.534659+00:00
- - tags: ['religion', 'mobile app']
-
- ## Oferty pracy - Aplikuj.pl
- - [https://www.aplikuj.pl](https://www.aplikuj.pl)
- - date_published: 2024-07-09T07:28:28.377289+00:00
-
- ## APN IT - Strony WWW | Social Media | Projekty Grafczne
- - [https://www.apnit.pl](https://www.apnit.pl)
- - date_published: 2024-08-18T04:23:36+00:00
-
- ## Apowersoft - Rozwiązania Multimedialne dla Codziennych Potrzeb Biznesowych
- - [https://www.apowersoft.pl](https://www.apowersoft.pl)
- - date_published: 2024-06-23T16:06:01.435464+00:00
-
- ## Najciekawsza wystawa edukacyjna w Warszawie – Apple Muzeum Polska
- - [https://applemuzeumpolska.pl](https://applemuzeumpolska.pl)
- - date_published: 2024-08-19T23:57:28.345773+00:00
-
- ## Opieka farmaceutyczna - to proste - Aptekarz.pl
- - [https://aptekarz.pl](https://aptekarz.pl)
- - date_published: 2018-02-13T09:01:15+00:00
-
- ## Twoja niezawodna apteka internetowa w Polsce | Apteka SuperVita
- - [https://aptekasupervita.pl](https://aptekasupervita.pl)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Strona główna - aptekaszpitalna.pl
- - [https://aptekaszpitalna.pl](https://aptekaszpitalna.pl)
- - date_published: 2024-05-08T00:02:16.546097+00:00
-
- ## Sklep internetowy AptusShop - profesjonalne oprogramowanie sklepu internetowego
- - [https://www.aptusshop.pl](https://www.aptusshop.pl)
- - date_published: 2024-10-07T22:42:11.040335+00:00
-
- ## Aqua Hotel w Polkowicach - Aqua Hotel w Polkowicach
- - [https://www.aquahotel.pl](https://www.aquahotel.pl)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## Oferta sprzedaży domeny: aqua-nature.pl
- - [http://aqua-nature.pl](http://aqua-nature.pl)
- - date_published: 2024-08-06T22:30:21.529566+00:00
-
- ## arachnophobia.pl
- - [http://arachnophobia.pl](http://arachnophobia.pl)
- - date_published: 2024-06-30T06:19:52.575806+00:00
-
- ## Agencja Rozwoju Aglomeracji Wrocławskiej
- - [https://araw.pl](https://araw.pl)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## Arcade Classics Muzeum Gier Wideo z lat 90 w Elblągu  zaprasza.
- - [https://www.arcadeclassics.pl](https://www.arcadeclassics.pl)
- - date_published: 2024-08-19T23:57:26.920895+00:00
-
- ## Archicom Ogólnopolski Deweloper – mieszkania, biura, nieruchomości
- - [https://archicom.pl](https://archicom.pl)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Homepage - Flow
- - [https://flow.archicom.pl](https://flow.archicom.pl)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Fuzja - Fuzja
- - [https://fuzja.archicom.pl](https://fuzja.archicom.pl)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Moje M
- - [https://mojem.archicom.pl](https://mojem.archicom.pl)
- - date_published: 2024-06-28T19:22:00.433871+00:00
-
- ## Homepage - Wieża Jeżyce
- - [https://wieza.archicom.pl](https://wieza.archicom.pl)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Archidiecezja częstochowska
- - [http://archiczest.pl](http://archiczest.pl)
- - date_published: 2024-09-03T19:26:14.225168+00:00
-
- ## Referat Katechetyczny Kurii Metropolitalnej w Częstochowie
- - [https://katecheza.archiczest.pl](https://katecheza.archiczest.pl)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Nawiedzenie Matki Bożej w Archidiecezji Częstochowskiej
- - [https://nawiedzenie.archiczest.pl](https://nawiedzenie.archiczest.pl)
- - date_published: 2024-09-03T19:26:19.048763+00:00
-
- ## Archikatedra Oliwska w Gdańsku
- - [http://www.archikatedraoliwa.pl](http://www.archikatedraoliwa.pl)
- - date_published: 2024-07-17T07:14:25.204751+00:00
-
- ## Magazyn o designie, sztuce, architekturze - architekci, projekty, realizacje i konkursy architektoniczne, architektura wnętrz, design, sztuka - AD Polska
- - [https://architecturaldigest.pl](https://architecturaldigest.pl)
- - date_published: 2024-07-15T11:03:02.726210+00:00
-
- ## Architektura - architekci, projekty, realizacje i konkursy architektoniczne, architektura polska i współczesna, design - Architektura-Murator
- - [http://architekturamurator.pl](http://architekturamurator.pl)
- - date_published: 2024-07-09T17:51:41.619113+00:00
-
- ## Archiwum Osiatyńskiego - monitorujemy praworządność w Polsce
- - [https://archiwumosiatynskiego.pl](https://archiwumosiatynskiego.pl)
- - date_published: 2024-04-07T14:02:31.482357+00:00
- - tags: ['poland', 'society activism']
-
- ## ECMS3
- - [http://archpoznan.pl](http://archpoznan.pl)
- - date_published: 2024-09-02T13:45:12.152816+00:00
-
- ## Ardant.pl - Lampy i Oświetlenie - sklep internetowy
- - [https://ardant.pl](https://ardant.pl)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Arena Gorzów - Hala Sportowo-Widowiskowa
- - [https://arenagorzow.pl](https://arenagorzow.pl)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## ARENA - Hala Widowiskowo-Sportowa
- - [https://arenapoznan.pl](https://arenapoznan.pl)
- - date_published: 2024-08-18T14:41:02.519373+00:00
-
- ## Arka Noego | Oficjalna strona zespołu
- - [https://arkanoego.pl](https://arkanoego.pl)
- - date_published: 2024-07-01T14:20:03+00:00
- - tags: ['music band']
-
- ## Agencja Rozwoju Przemysłu S.A.
-      
-      
-        
-          - Agencja Rozwoju Przemysłu S.A.
- - [https://www.arp.pl](https://www.arp.pl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Arsen Mosiichuk
- - [https://arsenmosiichuk.pl](https://arsenmosiichuk.pl)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## ArsLege - testy na egzamin z prawa
- - [https://www.arslege.pl](https://www.arslege.pl)
- - date_published: 2024-08-18T15:34:32.607426+00:00
 

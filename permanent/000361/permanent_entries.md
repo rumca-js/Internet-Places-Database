@@ -1,3 +1,157 @@
+ ## dailycal.org
+ - [https://dailycal.org](https://dailycal.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## The Daily Climate
+ - [http://www.dailyclimate.org](http://www.dailyclimate.org)
+ - date_published: 2024-07-08T12:05:36.243330+00:00
+
+ ## DAILY EFFECTIVE PRAYER
+ - [https://www.dailyeffectiveprayer.org](https://www.dailyeffectiveprayer.org)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Whyte Inktrap
+ - [https://dailyfont.org](https://dailyfont.org)
+ - date_published: 2024-07-08T00:00:36+00:00
+
+ ## The Daily Sceptic
+ - [https://dailysceptic.org](https://dailysceptic.org)
+ - date_published: 2023-10-25T10:18:01.741807+00:00
+ - tags: ['conspiracy theories', 'disinformation', 'misinformation']
+
+ ## Daily Wireless - Honest Reviews of Phone Plans, TV Services & Internet Providers
+ - [http://www.dailywireless.org](http://www.dailywireless.org)
+ - date_published: 2024-08-06T08:09:51+00:00
+
+ ## Arachne
+ - [https://arachne.dainst.org](https://arachne.dainst.org)
+ - date_published: 2024-06-20T12:25:14+00:00
+
+ ## Deutsches Archäologisches Institut - www.dainst.org
+ - [https://www.dainst.org](https://www.dainst.org)
+ - date_published: 2024-06-24T10:08:44.602728+00:00
+
+ ## Home - The DAISY Consortium
+ - [http://www.daisy.org](http://www.daisy.org)
+ - date_published: 2024-10-31T14:41:32.303486+00:00
+
+ ## New Homepage | DAISY Foundation
+ - [https://www.daisyfoundation.org](https://www.daisyfoundation.org)
+ - date_published: 2024-07-02T13:07:55+00:00
+
+ ## Dakshana Foundation - JEE Free Coaching in India
+ - [https://www.dakshana.org](https://www.dakshana.org)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Dalio Philanthropies
+ - [https://www.daliophilanthropies.org](https://www.daliophilanthropies.org)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Dallas Arboretum and Botanical Garden
+ - [http://www.dallasarboretum.org](http://www.dallasarboretum.org)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Dallas Farmers Market | Fun Things To Do in Dallas TX | Cultivating Life!
+ - [https://dallasfarmersmarket.org](https://dallasfarmersmarket.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Federal Reserve Bank of Dallas -
+        Dallasfed.org
+ - [https://dallasfed.org](https://dallasfed.org)
+ - date_published: 2023-10-25T21:12:12.982710+00:00
+
+ ## Dallas Makerspace – A Community Workshop
+ - [https://dallasmakerspace.org](https://dallasmakerspace.org)
+ - date_published: 2024-09-18T12:29:09.763495+00:00
+
+ ## Dallas Museum of Art
+ - [http://dallasmuseumofart.org](http://dallasmuseumofart.org)
+ - date_published: 2023-11-24T19:36:19+00:00
+
+ ## Dallas Paleontological Society - Home
+ - [http://www.dallaspaleo.org](http://www.dallaspaleo.org)
+ - date_published: 2024-07-02T14:44:06.271409+00:00
+
+ ## Dallas Parks, TX - Official Website | Official Website
+ - [https://www.dallasparks.org](https://www.dallasparks.org)
+ - date_published: 2024-09-18T13:16:16.290727+00:00
+
+ ## The Dalton School Home Page
+ - [https://www.dalton.org](https://www.dalton.org)
+ - date_published: 2024-06-21T20:34:12.956035+00:00
+
+ ## Dalton/LSDalton program - Home
+ - [https://daltonprogram.org](https://daltonprogram.org)
+ - date_published: 2023-01-04T13:29:30+00:00
+
+ ## Digital Art Museum - DAM
+ - [https://dam.org](https://dam.org)
+ - date_published: 2024-04-29T06:44:27.889870+00:00
+
+ ## Damanhur Spiritual Community
+ - [https://damanhur.org](https://damanhur.org)
+ - date_published: 2024-09-12T17:29:32.016002+00:00
+
+ ## ASDSO Lessons Learned
+ - [https://damfailures.org](https://damfailures.org)
+ - date_published: 2024-07-14T20:14:23.662375+00:00
+
+ ## DSL 2024 Information
+ - [https://damnsmalllinux.org](https://damnsmalllinux.org)
+ - date_published: 2024-07-13T19:27:58.604935+00:00
+
+ ## DaMoN
+ - [https://damon-db.org](https://damon-db.org)
+ - date_published: 2024-06-18T05:40:22+00:00
+
+ ## Design Arts Medias | La revue
+ - [https://journal.dampress.org](https://journal.dampress.org)
+ - date_published: 2024-07-10T08:34:02.800646+00:00
+
+ ## homepage | DAM Projects
+ - [https://www.damprojects.org](https://www.damprojects.org)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Home - Association of State Dam Safety Officials
+ - [https://collaborate.damsafety.org](https://collaborate.damsafety.org)
+ - date_published: 2024-05-12T07:38:13.088496+00:00
+
+ ## Association of State Dam Safety
+ - [https://damsafety.org](https://damsafety.org)
+ - date_published: 2024-04-05T18:56:52.997802+00:00
+
+ ## ASDSO Webinars:  Home
+ - [https://learningcenter.damsafety.org](https://learningcenter.damsafety.org)
+ - date_published: 2024-05-12T07:38:48.184585+00:00
+
+ ## ASDSO Portal
+ - [https://portal.damsafety.org](https://portal.damsafety.org)
+ - date_published: 2024-05-12T07:38:19.179671+00:00
+
+ ## Association of State Dam Safety
+ - [https://prod.damsafety.org](https://prod.damsafety.org)
+ - date_published: 2024-07-17T00:00:07.884434+00:00
+
+ ## ASDSO Dam Safety Toolbox
+ - [https://damtoolbox.org](https://damtoolbox.org)
+ - date_published: 2024-02-19T03:23:11+00:00
+
+ ## Immunotherapy for Cancer: What it Is, How it Works, and Where it’s Going
+ - [https://blog.dana-farber.org](https://blog.dana-farber.org)
+ - date_published: 2024-10-29T16:33:28.401157+00:00
+
+ ## Nursing and Clinical Research Jobs | Dana-Farber Careers, Boston MA
+ - [https://careers.dana-farber.org](https://careers.dana-farber.org)
+ - date_published: 2024-10-29T16:33:44.515107+00:00
+
+ ## Homepage | Dana-Farber Cancer Institute
+ - [http://www.dana-farber.org](http://www.dana-farber.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home - Dana-Farber Brigham Cancer Center
+ - [https://www.dana-farberbrigham.org](https://www.dana-farberbrigham.org)
+ - date_published: 2024-10-29T16:33:41.886707+00:00
+
  ## danah boyd
  - [https://www.danah.org](https://www.danah.org)
  - date_published: 2024-02-07T20:34:42+00:00
@@ -3882,157 +4036,4 @@
  ## สล็อตเว็บตรง อัพเดทเกมใหม่และความสนุกสุดคุ้มปลอดภัยทุกการเล่น
  - [https://docpad.org](https://docpad.org)
  - date_published: 2024-05-31T00:00:00+00:00
-
- ## Wir bieten Ihnen benutzerfreundliche und kostenlose Tools zur Veröffentlichung und Austausch von Daten.
- - [https://docplayer.org](https://docplayer.org)
- - date_published: 2024-05-07T15:34:02.403125+00:00
-
- ## Doctor Popular's Weblog
- - [https://docpop.org](https://docpop.org)
- - date_published: 2024-08-18T06:41:28.982368+00:00
-
- ## Docs 4 Patient Care Foundation | By Doctors, For Patients
- - [http://docs4patientcare.org](http://docs4patientcare.org)
- - date_published: 2024-06-20T04:22:04.026979+00:00
-
- ## webpack
- - [https://webpack.docschina.org](https://webpack.docschina.org)
- - date_published: 2024-04-19T03:41:30+00:00
-
- ## Docspell – Simple Document Organizer
- - [https://docspell.org](https://docspell.org)
- - date_published: 2024-04-08T19:28:06.775705+00:00
- - tags: ['document management system', 'document library', 'self-host']
-
- ## DocsTeach
- - [https://www.docsteach.org](https://www.docsteach.org)
- - date_published: 2024-06-29T18:24:13+00:00
-
- ## Dr. Hugo Heyrman
- - [http://www.doctorhugo.org](http://www.doctorhugo.org)
- - date_published: 2024-06-18T07:59:13+00:00
-
- ## Home | Doctors Without Borders - USA
- - [https://doctorswithoutborders.org](https://doctorswithoutborders.org)
- - date_published: 2023-11-11T16:04:52.293520+00:00
-
- ## Help save lives. Donate now.
- - [https://donate.doctorswithoutborders.org](https://donate.doctorswithoutborders.org)
- - date_published: 2024-07-08T08:30:28+00:00
-
- ## Doctrine of Discovery
- - [https://doctrineofdiscovery.org](https://doctrineofdiscovery.org)
- - date_published: 2024-08-07T20:29:45.048287+00:00
-
- ## Doctrine: PHP Open Source Project
- - [https://doctrine-project.org](https://doctrine-project.org)
- - date_published: 2024-05-12T06:38:59.114988+00:00
-
- ## Homepage
- - [https://www.documentary.org](https://www.documentary.org)
- - date_published: 2024-07-15T06:53:30.105160+00:00
-
- ## Api Root – Django REST framework
- - [https://api.www.documentcloud.org](https://api.www.documentcloud.org)
- - date_published: 2024-06-15T10:37:11.536518+00:00
-
- ## DocumentCloud
- - [https://beta.documentcloud.org](https://beta.documentcloud.org)
- - date_published: 2024-07-03T23:49:48.615203+00:00
-
- ## DocumentCloud
- - [https://documentcloud.org](https://documentcloud.org)
- - date_published: 2023-10-25T21:14:58.036496+00:00
-
- ## DocumentCloud
- - [https://embed.documentcloud.org](https://embed.documentcloud.org)
- - date_published: 2024-05-04T06:48:14.373719+00:00
-
- ## Start | The ACM Symposium on Document Engineering
- - [https://www.documentengineering.org](https://www.documentengineering.org)
- - date_published: 2024-08-08T21:53:28.338335+00:00
-
- ## Documenters.org: Making Local Government More Accountable
- - [https://www.documenters.org](https://www.documenters.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## The Document Foundation Blog - The home of LibreOffice
- - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
- - date_published: 2023-10-25T21:14:59.845814+00:00
-
- ## Bugzilla Main Page
- - [https://bugs.documentfoundation.org](https://bugs.documentfoundation.org)
- - date_published: 2024-07-07T06:07:39.831185+00:00
-
- ## The Document Foundation Community
- - [https://community.documentfoundation.org](https://community.documentfoundation.org)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Blog der The Document Foundation
- - [https://de.blog.documentfoundation.org](https://de.blog.documentfoundation.org)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## LibreOffice Design Team
- - [https://design.blog.documentfoundation.org](https://design.blog.documentfoundation.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
- - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
- - date_published: 2023-10-25T21:15:02.330486+00:00
-
- ## The Document Foundation - The House of LibreOffice and Document Liberation Project — The Document Foundation
- - [https://documentfoundation.org](https://documentfoundation.org)
- - date_published: 2024-05-08T09:35:15.408433+00:00
-
- ## Index of /
- - [https://download.documentfoundation.org](https://download.documentfoundation.org)
- - date_published: 2018-04-06T11:28:55+00:00
-
- ## Blog de LibreOffice Hispano
- - [https://es.blog.documentfoundation.org](https://es.blog.documentfoundation.org)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://matomo.documentfoundation.org](https://matomo.documentfoundation.org)
- - date_published: 2024-07-07T06:08:00.824058+00:00
-
- ## Authentication portal
- - [https://membership.documentfoundation.org](https://membership.documentfoundation.org)
- - date_published: 2024-07-07T06:05:38.567393+00:00
-
- ## Sign in - Matomo
- - [https://metrics.documentfoundation.org](https://metrics.documentfoundation.org)
- - date_published: 2024-08-18T19:45:02.930690+00:00
-
- ## Authentication portal
- - [https://nextcloud.documentfoundation.org](https://nextcloud.documentfoundation.org)
- - date_published: 2024-07-07T06:06:01.922059+00:00
-
- ## Authentication portal
- - [http://owncloud.documentfoundation.org](http://owncloud.documentfoundation.org)
- - date_published: 2024-07-03T03:43:13.540889+00:00
-
- ## The Document Foundation Pad
- - [http://pad.documentfoundation.org](http://pad.documentfoundation.org)
- - date_published: 2024-07-03T03:43:11.791514+00:00
-
- ## Sign in - Matomo
- - [https://piwik.documentfoundation.org](https://piwik.documentfoundation.org)
- - date_published: 2024-05-08T09:35:25.405726+00:00
-
- ## The Document Foundation Planet
- - [https://planet.documentfoundation.org](https://planet.documentfoundation.org)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## LibreOffice QA Blog
- - [https://qa.blog.documentfoundation.org](https://qa.blog.documentfoundation.org)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## The Document Foundation Redmine
- - [https://redmine.documentfoundation.org](https://redmine.documentfoundation.org)
- - date_published: 2024-08-18T19:44:57.598669+00:00
-
- ## TDF Weblate - LibreOffice
- - [https://translations.documentfoundation.org](https://translations.documentfoundation.org)
- - date_published: 2024-07-07T06:07:51.626610+00:00
 

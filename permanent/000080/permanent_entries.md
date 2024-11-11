@@ -1,3 +1,15 @@
+ ## Cross-Currents
+ - [https://cross-currents.com](https://cross-currents.com)
+ - date_published: 2024-06-25T15:45:58+00:00
+
+ ## Black Arts Legacies: A celebration across time and genres
+ - [https://blackartslegacies.crosscut.com](https://blackartslegacies.crosscut.com)
+ - date_published: 2024-05-08T06:59:35.011746+00:00
+
+ ## Cross Cutting Concerns
+ - [https://crosscuttingconcerns.com](https://crosscuttingconcerns.com)
+ - date_published: 2024-06-23T07:15:27.000743+00:00
+
  ## cross divisions .com by rafaël rozendaal, 2016
  - [https://www.crossdivisions.com](https://www.crossdivisions.com)
  - date_published: 2024-09-13T01:17:27+00:00
@@ -1014,6 +1026,7 @@
  ## Cry of Fear on Steam
  - [http://www.cry-of-fear.com](http://www.cry-of-fear.com)
  - date_published: 2024-10-25T10:48:47.646139+00:00
+ - tags: ['video game']
 
  ## Continuous monitoring of cryopreserved specimens, blood samples, Covid-19 vaccines, biologics, and premixed adhesives.
  - [https://www.cryoguard.com](https://www.cryoguard.com)
@@ -4025,16 +4038,4 @@
  ## Find Answers
  - [https://unisaonline.custhelp.com](https://unisaonline.custhelp.com)
  - date_published: 2024-07-08T20:07:13.096291+00:00
-
- ## Login - Intelligent Advisor Hub
- - [https://unisa-opa.custhelp.com](https://unisa-opa.custhelp.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Support Home Page
- - [https://unm.custhelp.com](https://unm.custhelp.com)
- - date_published: 2024-05-07T21:43:47.172843+00:00
-
- ## Support Home Page
- - [https://unm-student.custhelp.com](https://unm-student.custhelp.com)
- - date_published: 2024-05-07T21:44:11.874632+00:00
 

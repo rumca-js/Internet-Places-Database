@@ -1,3 +1,119 @@
+ ## Philips - العراق
+ - [https://www.philips.iq](https://www.philips.iq)
+ - date_published: 2024-10-30T08:12:14+00:00
+
+ ## 1 trillion robots
+ - [https://shar.iq](https://shar.iq)
+ - date_published: 2024-04-22T22:24:59+00:00
+
+ ## صفحه اصلی-انجمن حشره شناسی ایران
+ - [https://entsoc.areeo.ac.ir](https://entsoc.areeo.ac.ir)
+ - date_published: 2024-07-09T21:17:29.450679+00:00
+
+ ## سامانه ورود یکپارچه - سامانه ورود یکپارچه
+ - [https://accounts.aut.ac.ir](https://accounts.aut.ac.ir)
+ - date_published: 2024-10-22T05:56:04.256364+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی هوافضا
+ - [https://ae.aut.ac.ir](https://ae.aut.ac.ir)
+ - date_published: 2024-10-22T05:46:37.310809+00:00
+
+ ## AUT Journal of Mathematics and Computing
+ - [https://ajmc.aut.ac.ir](https://ajmc.aut.ac.ir)
+ - date_published: 2024-10-22T05:47:54.732944+00:00
+
+ ## جامعه دانش‌آموختگان دانشگاه صنعتي امیرکبیر (پلی‌تکنیک تهران)
+ - [http://alumni.aut.ac.ir](http://alumni.aut.ac.ir)
+ - date_published: 2024-10-22T05:47:04.256279+00:00
+
+ ## مرکز پژوهشی آپا - دانشگاه صنعتی امیرکبیر
+ - [https://apa.aut.ac.ir](https://apa.aut.ac.ir)
+ - date_published: 2024-10-22T05:55:55.528788+00:00
+
+ ## دانشگاه صنعتی امیرکبیر
+ - [http://aut.ac.ir](http://aut.ac.ir)
+ - date_published: 2024-06-18T13:35:02+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی پزشکی
+ - [https://bme.aut.ac.ir](https://bme.aut.ac.ir)
+ - date_published: 2024-10-22T05:59:43.382739+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی کامپیوتر
+ - [https://ce.aut.ac.ir](https://ce.aut.ac.ir)
+ - date_published: 2024-10-22T06:02:06.294761+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده شیمی
+ - [http://chem.aut.ac.ir](http://chem.aut.ac.ir)
+ - date_published: 2024-10-22T06:01:39.609641+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی شیمی
+ - [https://chemeng.aut.ac.ir](https://chemeng.aut.ac.ir)
+ - date_published: 2024-10-22T05:59:09.681195+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مرکز فناوری اطلاعات امنیت و هوشمندسازی
+ - [http://cic.aut.ac.ir](http://cic.aut.ac.ir)
+ - date_published: 2024-10-22T05:46:45.687531+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی عمران و محیط زیست
+ - [https://civil.aut.ac.ir](https://civil.aut.ac.ir)
+ - date_published: 2024-10-22T05:49:19.345705+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  پردیس دریا ساحلی دانشگاه صنعتی امیرکبیر
+ - [https://cmc.aut.ac.ir](https://cmc.aut.ac.ir)
+ - date_published: 2024-10-22T05:56:12.168773+00:00
+
+ ## پژوهشکده رنگ و پلیمر
+ - [https://cprc.aut.ac.ir](https://cprc.aut.ac.ir)
+ - date_published: 2024-10-22T06:04:18.102550+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مرکز مطالعات و برنامه‌ریزی راهبردی
+ - [https://csp.aut.ac.ir](https://csp.aut.ac.ir)
+ - date_published: 2024-10-22T05:59:15.164762+00:00
+
+ ## سامانه یکپارچه کتابخانه های دانشگاه صنعتي امیر کبیر ، کتابخانه 2.0 ثنا
+ - [http://digitallib.aut.ac.ir](http://digitallib.aut.ac.ir)
+ - date_published: 2024-10-22T06:01:52.544364+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی معدن
+ - [https://dme.aut.ac.ir](https://dme.aut.ac.ir)
+ - date_published: 2024-10-22T05:49:13.210596+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مدیریت امور اداری و پشتیبانی
+ - [http://edari.aut.ac.ir](http://edari.aut.ac.ir)
+ - date_published: 2024-10-22T06:00:29.076024+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  معاونت آموزشی و تحصیلات تکمیلی
+ - [https://edu.aut.ac.ir](https://edu.aut.ac.ir)
+ - date_published: 2024-10-22T05:47:01.195160+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  دانشکده مهندسی برق
+ - [https://ee.aut.ac.ir](https://ee.aut.ac.ir)
+ - date_published: 2024-10-22T05:57:23.600275+00:00
+
+ ## AUT Journal of Electrical Engineering
+ - [https://eej.aut.ac.ir](https://eej.aut.ac.ir)
+ - date_published: 2024-10-22T05:59:26.553120+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مدیریت امور فرهنگی و اجتماعی دانشگاه صنعتی امیرکبیر
+ - [http://farhangi.aut.ac.ir](http://farhangi.aut.ac.ir)
+ - date_published: 2024-10-22T05:47:12.067120+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  واحد دانشگاهی گرمسار
+ - [http://garmsar.aut.ac.ir](http://garmsar.aut.ac.ir)
+ - date_published: 2024-10-22T05:53:23.488253+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مدیریت تحصیلات تکمیلی
+ - [https://grad.aut.ac.ir](https://grad.aut.ac.ir)
+ - date_published: 2024-10-22T05:59:50.312491+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  اداره استعدادهای درخشان
+ - [https://gto.aut.ac.ir](https://gto.aut.ac.ir)
+ - date_published: 2024-10-22T06:03:11.315354+00:00
+
+ ## دانشگاه صنعتی امیرکبیر -  مدیریت حراست
+ - [http://herasat.aut.ac.ir](http://herasat.aut.ac.ir)
+ - date_published: 2024-10-22T06:03:42.925684+00:00
+
  ## پیشخوان | مرکز انفورماتيک
  - [https://id.aut.ac.ir](https://id.aut.ac.ir)
  - date_published: 2024-10-22T05:53:29.950163+00:00
@@ -213,6 +329,10 @@
  ## چارپا اولین بازار حیوانات ایران | مرکز تخصصی حیوانات و باغ و مزرعه
  - [https://charpa.ir](https://charpa.ir)
  - date_published: 2024-06-30T07:42:26.465479+00:00
+
+ ## دیما - گروه نرم افزاری دیما - طراحی وب و طراحی فونت
+ - [http://www.dima.ir](http://www.dima.ir)
+ - date_published: 2024-11-10T19:00:29+00:00
 
  ## دونیتون | سیستم جامع حمایت مالی
  - [https://donateon.ir](https://donateon.ir)
@@ -3909,124 +4029,4 @@
  ## Home
  - [https://www.isit100.fe.it](https://www.isit100.fe.it)
  - date_published: 2021-04-13T23:13:59+00:00
-
- ## Musei Civici Fiorentini | Cultura
- - [http://museicivicifiorentini.comune.fi.it](http://museicivicifiorentini.comune.fi.it)
- - date_published: 2024-08-19T20:45:52.489140+00:00
-
- ## Esposizioni on-line  - Istituto e Museo di Storia della Scienza
- - [http://brunelleschi.imss.fi.it](http://brunelleschi.imss.fi.it)
- - date_published: 2024-05-30T11:52:47+00:00
-
- ## Agenzia per la Cybersicurezza Nazionale - ACN
- - [https://acn.gov.it](https://acn.gov.it)
- - date_published: 2024-10-13T07:35:59.382407+00:00
-
- ## GlobaLeaks
- - [https://whistleblowing.acn.gov.it](https://whistleblowing.acn.gov.it)
- - date_published: 2024-10-13T07:36:01.019063+00:00
-
- ## Agenzia delle Entrate - Dichiarazione Precompilata
- - [https://dichiarazioneprecompilata.agenziaentrate.gov.it](https://dichiarazioneprecompilata.agenziaentrate.gov.it)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Agenzia delle Entrate - Area riservata
- - [https://iampe.agenziaentrate.gov.it](https://iampe.agenziaentrate.gov.it)
- - date_published: 2024-09-28T21:58:05.486837+00:00
-
- ## Agenzia delle Entrate - Whatsapp
- - [https://infoprecompilata.agenziaentrate.gov.it](https://infoprecompilata.agenziaentrate.gov.it)
- - date_published: 2024-07-09T12:49:50+00:00
-
- ## Agenzia delle Entrate - Strumenti
- - [https://portale.agenziaentrate.gov.it](https://portale.agenziaentrate.gov.it)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Agenzia delle Entrate - Dichiarazione precompilata 2024
- - [https://www.agenziaentrate.gov.it](https://www.agenziaentrate.gov.it)
- - date_published: 2024-05-01T06:13:36.493549+00:00
-
- ## AGID Form | Home
- - [https://form.agid.gov.it](https://form.agid.gov.it)
- - date_published: 2024-05-06T15:15:17.633592+00:00
-
- ## CSIRT Italia
- - [https://www.csirt.gov.it](https://www.csirt.gov.it)
- - date_published: 2024-07-30T09:15:01+00:00
-
- ## CVCN
- - [https://www.cvcn.gov.it](https://www.cvcn.gov.it)
- - date_published: 2024-10-13T07:36:42.586444+00:00
-
- ## Export.gov.it
- - [https://export.gov.it](https://export.gov.it)
- - date_published: 2024-06-14T10:27:41+00:00
-
- ## Dipartimento per la trasformazione digitale
- - [https://innovazione.gov.it](https://innovazione.gov.it)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Eligendo - Ministero dell'Interno DAIT
- - [https://elezioni.interno.gov.it](https://elezioni.interno.gov.it)
- - date_published: 2024-07-14T16:18:54.015215+00:00
-
- ## The Electronic Identity Card (CIE)
- - [https://www.cartaidentita.interno.gov.it](https://www.cartaidentita.interno.gov.it)
- - date_published: 2024-07-14T16:19:39.430289+00:00
-
- ## Ministero dell‘Interno
- - [https://www.interno.gov.it](https://www.interno.gov.it)
- - date_published: 2024-06-21T17:50:58+00:00
-
- ## homepage
- - [http://www.isprambiente.gov.it](http://www.isprambiente.gov.it)
- - date_published: 2024-06-16T22:50:48.095450+00:00
-
- ## Home - Italia Domani - Portale PNRR
- - [https://italiadomani.gov.it](https://italiadomani.gov.it)
- - date_published: 2024-09-16T10:57:39.342068+00:00
-
- ## Home page | Ministero del Lavoro e delle Politiche Sociali
- - [https://www.lavoro.gov.it](https://www.lavoro.gov.it)
- - date_published: 2024-06-23T21:06:03.345870+00:00
-
- ## Made in italy, simply extraordinary
- - [https://madeinitaly.gov.it](https://madeinitaly.gov.it)
- - date_published: 2024-08-10T23:32:59.133490+00:00
-
- ## OpenBDAP | I dati della Finanza Pubblica
- - [https://openbdap.rgs.mef.gov.it](https://openbdap.rgs.mef.gov.it)
- - date_published: 2024-07-08T15:41:51.547778+00:00
-
- ## Ministero dell'Economia e delle Finanze
- - [https://www.mef.gov.it](https://www.mef.gov.it)
- - date_published: 2024-06-23T21:01:10+00:00
-
- ## Ministero delle Imprese e del Made in Italy
- - [https://www.mimit.gov.it](https://www.mimit.gov.it)
- - date_published: 2024-07-14T16:10:20+00:00
-
- ## Ministero del Turismo
- - [https://www.ministeroturismo.gov.it](https://www.ministeroturismo.gov.it)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Ecobonus
- - [https://ecobonus.mise.gov.it](https://ecobonus.mise.gov.it)
- - date_published: 2024-07-12T06:27:54.045032+00:00
-
- ## Ministero delle Imprese e del Made in Italy
- - [https://www.mise.gov.it](https://www.mise.gov.it)
- - date_published: 2024-06-23T21:05:43+00:00
-
- ## Home page | Ministero delle infrastrutture e dei trasporti
- - [https://www.mit.gov.it](https://www.mit.gov.it)
- - date_published: 2024-06-23T21:05:40+00:00
-
- ## | Ministero dell'Ambiente e della Sicurezza Energetica
- - [https://www.mite.gov.it](https://www.mite.gov.it)
- - date_published: 2024-10-15T06:44:00.324878+00:00
-
- ## Ministero dell'Istruzione e del Merito
- - [https://www.miur.gov.it](https://www.miur.gov.it)
- - date_published: 2024-06-23T21:05:53.403068+00:00
 

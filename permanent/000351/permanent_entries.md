@@ -1,3 +1,144 @@
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://idp.lincoln.ac.nz](https://idp.lincoln.ac.nz)
+ - date_published: 2024-07-23T23:51:24+00:00
+
+ ## Home
+ - [https://macdiarmid.ac.nz](https://macdiarmid.ac.nz)
+ - date_published: 2018-12-24T22:10:58+00:00
+
+ ## Open Days
+ - [https://events.massey.ac.nz](https://events.massey.ac.nz)
+ - date_published: 2024-10-19T10:37:34.570088+00:00
+
+ ## Massey University
+ - [https://foundation.massey.ac.nz](https://foundation.massey.ac.nz)
+ - date_published: 2024-10-19T10:37:31.047544+00:00
+
+ ## IT Services
+ - [https://idp.massey.ac.nz](https://idp.massey.ac.nz)
+ - date_published: 2024-08-07T10:00:24.355353+00:00
+
+ ## Massey University of New Zealand - Te Kunenga ki Pūrehuroa
+ - [https://massey.ac.nz](https://massey.ac.nz)
+ - date_published: 2024-10-19T10:37:37.504981+00:00
+
+ ## The University of Auckland Login Service
+ - [https://www.myaucklanduni.ac.nz](https://www.myaucklanduni.ac.nz)
+ - date_published: 2024-07-24T03:15:14.169239+00:00
+
+ ## Department of Anatomy Home, Department of Anatomy | University of Otago
+ - [http://anatomy.otago.ac.nz](http://anatomy.otago.ac.nz)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## Home
+		 - AskOtago Service Portal
+ - [https://ask.otago.ac.nz](https://ask.otago.ac.nz)
+ - date_published: 2024-08-18T15:07:24.372976+00:00
+
+ ## Blogging: University of Otago | University of Otago
+ - [https://blogs.otago.ac.nz](https://blogs.otago.ac.nz)
+ - date_published: 2024-06-19T16:53:57.788168+00:00
+
+ ## University of Otago
+ - [https://otago.ac.nz](https://otago.ac.nz)
+ - date_published: 2023-10-30T21:58:29.556224+00:00
+
+ ## Te Pūnaha Matatini
+ - [http://www.tepunahamatatini.ac.nz](http://www.tepunahamatatini.ac.nz)
+ - date_published: 2024-07-24T03:16:45.037852+00:00
+
+ ## The Inside Word at The University of Auckland
+ - [https://www.theinsideword.ac.nz](https://www.theinsideword.ac.nz)
+ - date_published: 2024-07-24T03:15:08.341519+00:00
+
+ ## Te Wānanga o Aotearoa | Bridging & Tertiary Courses NZ | TWoA
+ - [https://www.twoa.ac.nz](https://www.twoa.ac.nz)
+ - date_published: 2024-10-28T08:38:00.257903+00:00
+
+ ## Unitec Enrolment Portal
+ - [https://enrol.unitec.ac.nz](https://enrol.unitec.ac.nz)
+ - date_published: 2024-04-24T09:06:12+00:00
+
+ ## UbiQuity
+ - [https://e.unitec.ac.nz](https://e.unitec.ac.nz)
+ - date_published: 2024-07-03T23:09:57.793224+00:00
+
+ ## Subject & Study Guides: Library: Home
+ - [http://library.unitec.ac.nz](http://library.unitec.ac.nz)
+ - date_published: 2024-07-03T23:09:55.480954+00:00
+
+ ## Unitec
+ - [https://unitec.ac.nz](https://unitec.ac.nz)
+ - date_published: 2024-05-08T04:19:15.692893+00:00
+
+ ## School of Engineering and Computer Science | Te Kura Mātai Pūkaha, Pūrorohiko / School of Engineering and Computer Science | Te Herenga Waka—Victoria University of Wellington
+ - [https://ecs.victoria.ac.nz](https://ecs.victoria.ac.nz)
+ - date_published: 2018-11-23T01:07:11+00:00
+
+ ## The Library | Te Herenga Waka—Victoria University of Wellington
+ - [https://library.victoria.ac.nz](https://library.victoria.ac.nz)
+ - date_published: 2024-05-20T20:38:22+00:00
+
+ ## Te Herenga Waka—Victoria University of Wellington
+ - [https://victoria.ac.nz](https://victoria.ac.nz)
+ - date_published: 2022-08-23T22:24:40+00:00
+
+ ## CareerHub Login
+ - [https://careerhub.vuw.ac.nz](https://careerhub.vuw.ac.nz)
+ - date_published: 2024-10-14T16:24:25.756623+00:00
+
+ ## ECS Web Hosting | ECS | Victoria University of Wellington
+ - [https://ecs.vuw.ac.nz](https://ecs.vuw.ac.nz)
+ - date_published: 2024-10-14T16:24:34.801248+00:00
+
+ ## Web Home | Te Kura Mātai Pūkaha, Pūrorohiko / School of Engineering and Computer Science | Te Herenga Waka—Victoria University of Wellington
+ - [http://homepages.ecs.vuw.ac.nz](http://homepages.ecs.vuw.ac.nz)
+ - date_published: 2024-06-16T21:14:53.375421+00:00
+
+ ## Te Herenga Waka—Victoria University of Wellington
+ - [https://vuw.ac.nz](https://vuw.ac.nz)
+ - date_published: 2022-08-24T10:24:40+00:00
+
+ ## (none) | MSCS | Victoria University of Wellington
+ - [https://www.mcs.vuw.ac.nz](https://www.mcs.vuw.ac.nz)
+ - date_published: 2024-05-08T09:32:59.102353+00:00
+
+ ## Apply to study at Waikato :: University of Waikato
+ - [https://enrol.waikato.ac.nz](https://enrol.waikato.ac.nz)
+ - date_published: 2024-10-29T19:50:37.223586+00:00
+
+ ## Index of /
+ - [https://idp.waikato.ac.nz](https://idp.waikato.ac.nz)
+ - date_published: 2024-08-07T10:10:47.946493+00:00
+
+ ## DSpace
+ - [https://researchcommons.waikato.ac.nz](https://researchcommons.waikato.ac.nz)
+ - date_published: 2024-06-04T06:32:33+00:00
+
+ ## Te Aka Mātuatua | School of Science :: University of Waikato
+ - [http://sci.waikato.ac.nz](http://sci.waikato.ac.nz)
+ - date_published: 2024-06-19T16:56:29.032823+00:00
+
+ ## University of Waikato :: University of Waikato
+ - [https://waikato.ac.nz](https://waikato.ac.nz)
+ - date_published: 2024-10-19T10:36:25.028326+00:00
+
+ ## Home - WERO | Working to End Racial Oppression
+ - [https://wero.ac.nz](https://wero.ac.nz)
+ - date_published: 2024-10-28T08:38:06.357828+00:00
+
+ ## Te Herenga Waka—Victoria University of Wellington
+ - [https://cms.wgtn.ac.nz](https://cms.wgtn.ac.nz)
+ - date_published: 2022-08-23T22:24:40+00:00
+
+ ## School of Engineering and Computer Science | Te Kura Mātai Pūkaha, Pūrorohiko / School of Engineering and Computer Science | Te Herenga Waka—Victoria University of Wellington
+ - [https://ecs.wgtn.ac.nz](https://ecs.wgtn.ac.nz)
+ - date_published: 2018-11-23T13:07:11+00:00
+
+ ## Sign In
+ - [https://nuku.wgtn.ac.nz](https://nuku.wgtn.ac.nz)
+ - date_published: 2024-06-29T20:55:41.616256+00:00
+
  ## Te Herenga Waka — Victoria University of Wellington
  - [https://people.wgtn.ac.nz](https://people.wgtn.ac.nz)
  - date_published: 2024-07-01T20:23:22.924541+00:00
@@ -3887,146 +4028,4 @@ I post about Tech, Privacy, Games...
  - [https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
  - date_published: 2024-06-01T05:43:16+00:00
  - tags: ['interesting page domain']
-
- ## L(o*62).ong
- - [https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.oooooooooooooooooooooooooooooooooooooooooooooooonger.than.loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.oooooooooooooooooooooooooooooooooooooooooooooooonger.than.loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
- - date_published: 2024-09-04T04:55:24.016812+00:00
-
- ## Obl.ong
- - [https://admin.obl.ong](https://admin.obl.ong)
- - date_published: 2024-08-18T21:16:51.207621+00:00
-
- ## Index | dn42 wiki
- - [https://dn42.obl.ong](https://dn42.obl.ong)
- - date_published: 2024-08-18T19:47:49+00:00
-
- ## Obl.ong Community
- - [https://forum.obl.ong](https://forum.obl.ong)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Obl.ong
- - [https://home.obl.ong](https://home.obl.ong)
- - date_published: 2024-08-18T21:16:51.898104+00:00
-
- ## Obl.ong
- - [https://obl.ong](https://obl.ong)
- - date_published: 2023-10-25T20:52:14.964448+00:00
-
- ## Mastodon
- - [https://465.onl](https://465.onl)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Authorization
- - [https://asuka.onl](https://asuka.onl)
- - date_published: 2024-09-09T20:23:51.344021+00:00
-
- ## Anthony Bucci
- - [https://bucci.onl](https://bucci.onl)
- - date_published: 2024-02-28T17:38:14+00:00
-
- ## Andrew Marble
- - [https://marble.onl](https://marble.onl)
- - date_published: 2024-01-09T01:37:39.440161+00:00
-
- ## Adam Nelson
- - [https://adam.nels.onl](https://adam.nels.onl)
- - date_published: 2024-02-14T11:11:41.408469+00:00
- - tags: ['personal']
-
- ## .ONL | Because You Do It All - Online
- - [https://www.nic.onl](https://www.nic.onl)
- - date_published: 2024-09-15T19:36:12.023196+00:00
-
- ## Rik Lewis
- - [https://rik.onl](https://rik.onl)
- - date_published: 2023-12-03T23:31:31.330248+00:00
- - tags: ['personal']
-
- ## Query Δ-44203 Online
- - [https://query.44203.online](https://query.44203.online)
- - date_published: 2024-09-09T15:02:02+00:00
-
- ## 4x4bet สมัครเว็บสล็อต สล็อตวอเลท เว็บตรง เล่นง่ายจ่ายจริง คาสิโนออนไลน์ ไม่ผ่านเอเยนต์ ฝากถอน 24 ชั่วโมง
- - [https://4x4betcash.online](https://4x4betcash.online)
- - date_published: 2024-09-12T13:03:52+00:00
-
- ## Ads4media.online | Advertising Platform For Publishers And Advertisers
- - [https://www.ads4media.online](https://www.ads4media.online)
- - date_published: 2024-07-11T23:43:49.914382+00:00
-
- ## Advantech Co-Creating the Future of the IoT World
- - [https://campaign.advantech.online](https://campaign.advantech.online)
- - date_published: 2024-09-05T18:29:48+00:00
-
- ## AeroExpo - The B2B marketplace for aeronautical material and products: aircraft, ground support, airport terminal equipment, etc.
- - [https://www.aeroexpo.online](https://www.aeroexpo.online)
- - date_published: 2024-10-21T23:35:47.264396+00:00
-
- ## AgriExpo - The B2B marketplace for agricultural equipment: tractors, agricultural machinery, material for livestock, irrigation, etc.
- - [https://www.agriexpo.online](https://www.agriexpo.online)
- - date_published: 2024-10-21T23:35:42.373499+00:00
-
- ## AI Coloring Pages Online
- - [https://www.aicoloringpages.online](https://www.aicoloringpages.online)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Aileen's Portfolio
- - [https://www.aileenis.online](https://www.aileenis.online)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## AIRBOT Play | 智能轻型机械臂
- - [https://airbots.online](https://airbots.online)
- - date_published: 2024-10-28T23:45:59.484021+00:00
-
- ## aisthesisouv
- - [https://aisthesisouv.online](https://aisthesisouv.online)
- - date_published: 2024-07-04T01:59:43.184944+00:00
-
- ## ALCI | Arch Linux Calamares Installer - learn how to create ISOs
- - [https://alci.online](https://alci.online)
- - date_published: 2024-05-19T02:58:51.822492+00:00
-
- ## American Eagle MTB | Born to Bike
- - [https://americaneagle.online](https://americaneagle.online)
- - date_published: 2024-09-17T23:58:18.380922+00:00
-
- ## Angland
- - [https://angland.online](https://angland.online)
- - date_published: 2024-07-09T23:09:25+00:00
-
- ## Appwrite status
- - [https://appwrite.online](https://appwrite.online)
- - date_published: 2024-05-14T03:34:57.357977+00:00
-
- ## Appwrite status
- - [https://status.appwrite.online](https://status.appwrite.online)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## AutoAE - Create viral hook in seconds with AI
- - [http://autoae.online](http://autoae.online)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## 歩のポートフォリオサイト
- - [https://www.ayumu.online](https://www.ayumu.online)
- - date_published: 2024-02-14T11:15:52+00:00
-
- ## Baatchit
- - [https://baatchit.online](https://baatchit.online)
- - date_published: 2024-06-21T21:34:37+00:00
-
- ## BALI DENPASAR
- - [https://www.balidenpasar.online](https://www.balidenpasar.online)
- - date_published: 2024-08-20T04:10:45.073297+00:00
-
- ## BALI PROV
- - [https://www.baliprov.online](https://www.baliprov.online)
- - date_published: 2024-08-20T03:58:33.244938+00:00
-
- ## BANDA ACEH
- - [https://www.bandaaceh.online](https://www.bandaaceh.online)
- - date_published: 2024-08-20T04:09:20.004557+00:00
-
- ## BANTEN CILEGON
- - [https://www.bantencilegon.online](https://www.bantencilegon.online)
- - date_published: 2024-08-20T04:08:05.108404+00:00
 

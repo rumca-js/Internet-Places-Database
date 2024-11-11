@@ -1,3 +1,95 @@
+ ## Center for Student Involvement | University of Illinois Chicago
+ - [https://involvement.uic.edu](https://involvement.uic.edu)
+ - date_published: 2024-07-02T02:48:47.511550+00:00
+
+ ## Information Technology | University of Illinois Chicago
+ - [https://it.uic.edu](https://it.uic.edu)
+ - date_published: 2024-07-02T02:40:47.348561+00:00
+
+ ## Journals@UIC
+ - [http://journals.uic.edu](http://journals.uic.edu)
+ - date_published: 2024-07-09T10:09:03.534307+00:00
+
+ ## Latin American and Latino Studies | University of Illinois Chicago
+ - [https://lals.uic.edu](https://lals.uic.edu)
+ - date_published: 2024-07-02T02:47:22.100878+00:00
+
+ ## Latin American Recruitment and Educational Services (LARES) Splash Page | University of Illinois Chicago
+ - [https://lares.uic.edu](https://lares.uic.edu)
+ - date_published: 2024-07-02T02:48:52.634603+00:00
+
+ ## College of Liberal Arts and Sciences | University of Illinois Chicago
+ - [https://las.uic.edu](https://las.uic.edu)
+ - date_published: 2024-07-15T11:30:09.940280+00:00
+
+ ## Rafael Cintrón Ortiz Latino Cultural Center | University of Illinois Chicago
+ - [https://latinocultural.uic.edu](https://latinocultural.uic.edu)
+ - date_published: 2024-07-02T02:48:58.684775+00:00
+
+ ## UIC Law | University of Illinois Chicago
+ - [https://law.uic.edu](https://law.uic.edu)
+ - date_published: 2024-07-02T02:48:07.482384+00:00
+
+ ## Language and Culture Learning Center | University of Illinois Chicago
+ - [https://lclc.uic.edu](https://lclc.uic.edu)
+ - date_published: 2024-07-02T02:48:46.310707+00:00
+
+ ## School of Literatures, Cultural Studies and Linguistics | University of Illinois Chicago
+ - [https://lcsl.uic.edu](https://lcsl.uic.edu)
+ - date_published: 2024-07-02T02:49:01.886995+00:00
+
+ ## University Library | University of Illinois Chicago
+ - [https://library.uic.edu](https://library.uic.edu)
+ - date_published: 2024-05-07T21:14:41.570523+00:00
+
+ ## Campus Map | University of Illinois at Chicago
+ - [https://maps.uic.edu](https://maps.uic.edu)
+ - date_published: 2024-05-07T21:15:09.937582+00:00
+
+ ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
+ - [https://math.uic.edu](https://math.uic.edu)
+ - date_published: 2024-05-12T06:09:10.409396+00:00
+
+ ## Meetings & Conferences | University of Illinois Chicago
+ - [https://meetings.uic.edu](https://meetings.uic.edu)
+ - date_published: 2024-07-02T02:47:28.927865+00:00
+
+ ## Dept of Math, Stat, & Comp Sci | University of Illinois Chicago
+ - [https://mscs.uic.edu](https://mscs.uic.edu)
+ - date_published: 2024-07-15T11:29:52.550205+00:00
+
+ ## Math & Science Learning Center | University of Illinois Chicago
+ - [https://mslc.uic.edu](https://mslc.uic.edu)
+ - date_published: 2024-07-02T02:47:23.889279+00:00
+
+ ## Welcome | myUIC
+ - [https://my.uic.edu](https://my.uic.edu)
+ - date_published: 2024-06-21T13:02:37.657561+00:00
+
+ ## Native American Support Program | University of Illinois Chicago
+ - [https://nasp.uic.edu](https://nasp.uic.edu)
+ - date_published: 2024-07-02T02:48:19.656923+00:00
+
+ ## College of Nursing | University of Illinois Chicago
+ - [https://nursing.uic.edu](https://nursing.uic.edu)
+ - date_published: 2024-07-02T02:46:51.172996+00:00
+
+ ## Office for Access and Equity | University of Illinois Chicago
+ - [http://oae.uic.edu](http://oae.uic.edu)
+ - date_published: 2024-07-02T02:38:32.029810+00:00
+
+ ## Office of External Fellowships | University of Illinois Chicago
+ - [https://oef.uic.edu](https://oef.uic.edu)
+ - date_published: 2024-07-02T02:47:13.173449+00:00
+
+ ## Office of International Services | University of Illinois Chicago
+ - [https://ois.uic.edu](https://ois.uic.edu)
+ - date_published: 2024-07-02T02:47:42.455513+00:00
+
+ ## Orientation | University of Illinois Chicago
+ - [https://orientation.uic.edu](https://orientation.uic.edu)
+ - date_published: 2024-07-02T02:47:26.039002+00:00
+
  ## Parking Services | University of Illinois Chicago
  - [https://parking.uic.edu](https://parking.uic.edu)
  - date_published: 2024-07-02T02:46:58.643532+00:00
@@ -3914,96 +4006,4 @@ Center for Information Technology Integration
  ## On-Campus Living
  - [https://housing.umn.edu](https://housing.umn.edu)
  - date_published: 2024-05-11T07:55:40.804057+00:00
-
- ## Human Rights Library- University of Minnesota
- - [http://hrlibrary.umn.edu](http://hrlibrary.umn.edu)
- - date_published: 2022-05-07T15:59:08+00:00
-
- ## Sign In | HRMS Instruction
- - [https://hrms.umn.edu](https://hrms.umn.edu)
- - date_published: 2024-06-21T17:10:55+00:00
-
- ## Home | University of Minnesota Office of Human Resources
- - [https://hr.umn.edu](https://hr.umn.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Health Sciences Library | Health Sciences Libraries
- - [https://hsl.lib.umn.edu](https://hsl.lib.umn.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home | University of Minnesota Office of Human Resources
- - [https://humanresources.umn.edu](https://humanresources.umn.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://ici.umn.edu](https://ici.umn.edu)
- - date_published: 2024-09-06T13:40:41.144415+00:00
-
- ## Institute for Diversity, Equity, and Advocacy | Institute for Diversity, Equity and Advocacy
- - [http://idea.umn.edu](http://idea.umn.edu)
- - date_published: 2024-07-10T14:59:09+00:00
-
- ## Home
- - [https://interact.csom.umn.edu](https://interact.csom.umn.edu)
- - date_published: 2024-07-03T18:08:12+00:00
-
- ## IT@UMN | The people behind the technology |
- - [https://it.umn.edu](https://it.umn.edu)
- - date_published: 2024-07-02T01:40:28+00:00
-
- ## IVR Initiative Home Page | CIDRAP
- - [https://ivr.cidrap.umn.edu](https://ivr.cidrap.umn.edu)
- - date_published: 2024-05-07T21:30:46.779392+00:00
-
- ## We Are the Noise: The Echoes of Our Ancestors | University of Minnesota Juneteenth Celebration
- - [https://juneteenth.umn.edu](https://juneteenth.umn.edu)
- - date_published: 2024-07-10T14:51:45+00:00
-
- ## Kusske Design Initiative
- - [https://kdi.umn.edu](https://kdi.umn.edu)
- - date_published: 2024-07-08T14:57:40.332054+00:00
-
- ## LATIS | CLA Neighborhood
- - [http://latis.umn.edu](http://latis.umn.edu)
- - date_published: 2024-07-01T21:26:53+00:00
-
- ## Kathryn A. Martin Library | UMN Duluth
- - [https://lib.d.umn.edu](https://lib.d.umn.edu)
- - date_published: 2024-07-13T16:50:48+00:00
-
- ## Home - UMN Libraries News & Events
- - [https://libnews.umn.edu](https://libnews.umn.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Rodney A. Briggs Library | UMN Morris Library
- - [https://library.morris.umn.edu](https://library.morris.umn.edu)
- - date_published: 2024-07-10T14:22:37+00:00
-
- ## Libraries home | University of Minnesota Libraries
- - [https://lib.umn.edu](https://lib.umn.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Labovitz School of Business and Economics | UMN Duluth
- - [https://lsbe.d.umn.edu](https://lsbe.d.umn.edu)
- - date_published: 2024-07-11T15:46:00+00:00
-
- ## Web Login Service
- - [http://mail.umn.edu](http://mail.umn.edu)
- - date_published: 2024-07-13T17:15:25.969779+00:00
-
- ## Home page | Majors
- - [https://majors.umn.edu](https://majors.umn.edu)
- - date_published: 2024-07-10T14:13:21+00:00
-
- ## Donate to the University of Minnesota
- - [https://makingagift.umn.edu](https://makingagift.umn.edu)
- - date_published: 2024-05-07T21:30:21.659502+00:00
-
- ## Manifold @uminnpress
- - [https://manifold.umn.edu](https://manifold.umn.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## UMN - MARS Lab
- - [http://mars.cs.umn.edu](http://mars.cs.umn.edu)
- - date_published: 2019-11-08T00:00:00+00:00
 

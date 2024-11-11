@@ -1,3 +1,11 @@
+ ## neurotic Iraqi wife
+ - [http://neurotic-iraqi-wife.blogspot.com](http://neurotic-iraqi-wife.blogspot.com)
+ - date_published: 2019-11-11T00:00:00+00:00
+
+ ## Never Come Ashore
+ - [https://nevercomeashore.blogspot.com](https://nevercomeashore.blogspot.com)
+ - date_published: 1999-01-01T00:00:00+00:00
+
  ## I Dreamed I Saw Grace P. Last Night
  - [http://neverdied.blogspot.com](http://neverdied.blogspot.com)
  - date_published: 2024-06-05T12:56:06+00:00
@@ -4006,12 +4014,4 @@
  ## Paul's Eclipse Blog
  - [http://pweclipse.blogspot.com](http://pweclipse.blogspot.com)
  - date_published: 2024-03-07T22:42:20+00:00
-
- ## Python bytes
- - [http://pybites.blogspot.com](http://pybites.blogspot.com)
- - date_published: 2024-06-27T11:53:27+00:00
-
- ## On Clouds, Poems, Python and more...
- - [http://pycloud.blogspot.com](http://pycloud.blogspot.com)
- - date_published: 2024-02-20T18:20:53+00:00
 

@@ -1,3 +1,95 @@
+ ## Home - MIT Alumni Advisors Hub
+ - [https://alumniadvisors.mit.edu](https://alumniadvisors.mit.edu)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Why MIT Sloan? | About | MIT Sloan
+ - [https://applymitsloan.mit.edu](https://applymitsloan.mit.edu)
+ - date_published: 2024-07-01T00:34:17+00:00
+
+ ## Touchstone@MIT : Please Authenticate
+ - [https://applysdm.mit.edu](https://applysdm.mit.edu)
+ - date_published: 2024-07-01T15:26:44.034781+00:00
+
+ ## Home | Architecture
+ - [https://architecture.mit.edu](https://architecture.mit.edu)
+ - date_published: 2024-02-08T22:04:29.437169+00:00
+
+ ## ArchivesSpace Public Interface | MIT ArchivesSpace
+ - [https://archivesspace.mit.edu](https://archivesspace.mit.edu)
+ - date_published: 2024-07-01T15:12:43.793100+00:00
+
+ ## Arts at MIT
+ - [https://arts.mit.edu](https://arts.mit.edu)
+ - date_published: 2024-05-04T15:41:04.617889+00:00
+
+ ## Web SSH access to athena.dialup.mit.edu
+ - [https://athena.dialup.mit.edu](https://athena.dialup.mit.edu)
+ - date_published: 2024-05-07T19:37:23.896673+00:00
+
+ ## Touchstone@MIT : Please Authenticate
+ - [http://atlas.mit.edu](http://atlas.mit.edu)
+ - date_published: 2024-06-29T14:04:17.641170+00:00
+
+ ## MIT Status
+ - [https://atlas-status.mit.edu](https://atlas-status.mit.edu)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Audio-Visual Navigation
+ - [http://avn.csail.mit.edu](http://avn.csail.mit.edu)
+ - date_published: 2020-10-19T20:18:13+00:00
+
+ ## The MIT Department of Brain and Cognitive Sciences | Brain and Cognitive Sciences
+ - [https://bcs.mit.edu](https://bcs.mit.edu)
+ - date_published: 2024-05-07T19:36:56.737105+00:00
+
+ ## Home | MIT Department of Biological Engineering
+ - [https://be.mit.edu](https://be.mit.edu)
+ - date_published: 2024-07-20T21:30:51.484392+00:00
+
+ ## Benchmarking Interpretability
+ - [https://benchmarking-interpretability.csail.mit.edu](https://benchmarking-interpretability.csail.mit.edu)
+ - date_published: 2024-05-10T05:02:33.957574+00:00
+
+ ## MIT for a Better World
+ - [https://betterworld.mit.edu](https://betterworld.mit.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## William T. Freeman Home | William T. Freeman
+ - [http://billf.mit.edu](http://billf.mit.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Homepage
+ - [https://biology.mit.edu](https://biology.mit.edu)
+ - date_published: 2024-03-12T00:00:00+00:00
+
+ ## Blocks
+ - [http://blocks.csail.mit.edu](http://blocks.csail.mit.edu)
+ - date_published: 2018-10-08T02:43:47+00:00
+
+ ## MIT Media Lab
+ - [http://blog.media.mit.edu](http://blog.media.mit.edu)
+ - date_published: 2024-03-19T03:21:16+00:00
+
+ ## Multi-Plane Program Induction with 3D Box Priors
+ - [http://bpi.csail.mit.edu](http://bpi.csail.mit.edu)
+ - date_published: 2021-02-16T23:05:26+00:00
+
+ ## Home | MIT Brand Guide
+ - [https://brand.mit.edu](https://brand.mit.edu)
+ - date_published: 2024-06-24T17:55:29+00:00
+
+ ## Events Calendar - MIT Events
+ - [https://calendar.mit.edu](https://calendar.mit.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Camera Culture | Making the invisible visible–inside our bodies, around us, and beyond–for health, work, and connection.
+ - [https://cameraculture.media.mit.edu](https://cameraculture.media.mit.edu)
+ - date_published: 2024-06-22T09:45:53.304065+00:00
+
+ ## Certificate Server
+ - [https://ca.mit.edu](https://ca.mit.edu)
+ - date_published: 2024-10-06T17:15:36.488417+00:00
+
  ## MIT Canvas - Login
  - [https://canvas.mit.edu](https://canvas.mit.edu)
  - date_published: 2024-07-01T15:11:32.219522+00:00
@@ -3912,96 +4004,4 @@
  ## A University in New York City | The New School
  - [https://www.newschool.edu](https://www.newschool.edu)
  - date_published: 2024-07-14T19:32:32.772395+00:00
-
- ## Nightingale College: Accredited Nursing School
- - [https://nightingale.edu](https://nightingale.edu)
- - date_published: 2024-06-15T04:48:15.637637+00:00
-
- ## shopnightingale
- - [https://shop.nightingale.edu](https://shop.nightingale.edu)
- - date_published: 2024-09-16T06:47:22.732681+00:00
-
- ## Support : Nightingale College
- - [https://support.nightingale.edu](https://support.nightingale.edu)
- - date_published: 2024-09-16T06:47:24.906174+00:00
-
- ## National Institute of Technology, Trichy
- - [http://www.nitt.edu](http://www.nitt.edu)
- - date_published: 2024-09-11T17:53:14.241070+00:00
-
- ## NIU College of Education
- - [https://cedu.news.niu.edu](https://cedu.news.niu.edu)
- - date_published: 2024-07-03T15:07:42.461673+00:00
-
- ## College of Engineering and Engineering Technology
- - [https://ceet.news.niu.edu](https://ceet.news.niu.edu)
- - date_published: 2024-07-03T15:06:28.288038+00:00
-
- ## College of Health and Human Sciences
- - [https://chhs.news.niu.edu](https://chhs.news.niu.edu)
- - date_published: 2024-07-03T15:06:26.629573+00:00
-
- ## College of Business
- - [https://cob.news.niu.edu](https://cob.news.niu.edu)
- - date_published: 2024-07-03T15:06:33.759391+00:00
-
- ## About POWRR
- - [https://digitalpowrr.niu.edu](https://digitalpowrr.niu.edu)
- - date_published: 2012-09-17T18:54:58+00:00
-
- ## Directory - Northern Illinois University
- - [https://directory.niu.edu](https://directory.niu.edu)
- - date_published: 2024-07-03T15:06:31.946172+00:00
-
- ## Experts Guide | Northern Illinois University
- - [https://experts.niu.edu](https://experts.niu.edu)
- - date_published: 2022-06-02T14:42:06+00:00
-
- ## College of Law
- - [https://law.news.niu.edu](https://law.news.niu.edu)
- - date_published: 2024-07-03T15:06:44.017351+00:00
-
- ## Home | NIU Newsroom
- - [https://newsroom.niu.edu](https://newsroom.niu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Northern Illinois University - Your Future. Our Focus.
- - [https://niu.edu](https://niu.edu)
- - date_published: 2024-07-03T15:06:49.444960+00:00
-
- ## Homepage | Barbara and Leonard Littman Architecture and Design Library
- - [https://archlib.njit.edu](https://archlib.njit.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Ask Us - Ask the NJIT Library
- - [https://askthelibrary.njit.edu](https://askthelibrary.njit.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Strategic Events and Conference Services | Conference Services
- - [https://campuscenter.njit.edu](https://campuscenter.njit.edu)
- - date_published: 2024-05-07T19:46:38.297602+00:00
-
- ## NJIT Canvas | Canvas
- - [http://canvas.njit.edu](http://canvas.njit.edu)
- - date_published: 2024-06-30T19:43:43+00:00
-
- ## Welcome | Research Institutes, Centers and Specialized Laboratories
- - [https://centers.njit.edu](https://centers.njit.edu)
- - date_published: 2024-05-07T19:46:48.376683+00:00
-
- ## Admissions | New Jersey Institute of Technology
- - [https://connect.njit.edu](https://connect.njit.edu)
- - date_published: 2024-07-01T03:14:00+00:00
-
- ## LDI Courses Archive
- - [https://continuing.njit.edu](https://continuing.njit.edu)
- - date_published: 2024-05-07T19:46:53.330351+00:00
-
- ## DANA
- - [http://dana.njit.edu](http://dana.njit.edu)
- - date_published: 2024-07-01T16:09:56.500915+00:00
-
- ## Design and Build the Future with Us | Hillier College of Architecture and Design
- - [http://design.njit.edu](http://design.njit.edu)
- - date_published: 2024-07-01T15:22:37+00:00
 

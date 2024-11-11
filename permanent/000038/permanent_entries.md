@@ -575,6 +575,10 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  - [https://www.addleshawgoddard.com](https://www.addleshawgoddard.com)
  - date_published: 2024-09-15T11:17:21.891470+00:00
 
+ ## ADDMAN - Advanced Manufacturing Service Provider
+ - [https://www.addmangroup.com](https://www.addmangroup.com)
+ - date_published: 2024-11-10T21:57:32.725149+00:00
+
  ## Customer Review Management Software | AddMe Reviews
  - [http://www.addme.com](http://www.addme.com)
  - date_published: 2024-10-21T22:59:57.360991+00:00
@@ -4020,8 +4024,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## The Bookseller | At the heart of publishing since 1858
  - [https://books.affino.com](https://books.affino.com)
  - date_published: 2024-05-06T16:30:58.825731+00:00
-
- ## The Bookseller | At the heart of publishing since 1858
- - [https://thebookseller.affino.com](https://thebookseller.affino.com)
- - date_published: 2024-05-06T16:30:56.257253+00:00
 

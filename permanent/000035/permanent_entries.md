@@ -2735,10 +2735,12 @@
  ## The Official Website of LEGO 2K Games
  - [https://lego.2k.com](https://lego.2k.com)
  - date_published: 2024-08-20T03:42:11.994766+00:00
+ - tags: ['video game']
 
  ## Marvel's Midnight Suns | Official Website
  - [https://midnightsuns.2k.com](https://midnightsuns.2k.com)
  - date_published: 2024-08-20T03:42:14.138011+00:00
+ - tags: ['video game']
 
  ## Basketball Video Games | NBA Video Games | NBA 2K
  - [https://nba.2k.com](https://nba.2k.com)
@@ -2757,6 +2759,7 @@
  ## Golf Video Games | PGA TOUR 2K
  - [https://pgatour.2k.com](https://pgatour.2k.com)
  - date_published: 2024-08-20T03:42:08.438049+00:00
+ - tags: ['video game']
 
  ## Tiny Tina's Wonderlands: Official Site
  - [https://playwonderlands.2k.com](https://playwonderlands.2k.com)
@@ -2786,6 +2789,7 @@
  ## Wrestling Games | Official WWE 2K Website
  - [https://wwe.2k.com](https://wwe.2k.com)
  - date_published: 2024-08-20T03:42:15.903064+00:00
+ - tags: ['video game']
 
  ## 2k20lockercode
  - [https://2k20lockercode.com](https://2k20lockercode.com)

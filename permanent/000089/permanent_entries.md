@@ -1,3 +1,19 @@
+ ## DX Code of Conduct
+ - [http://dx-code.com](http://dx-code.com)
+ - date_published: 2020-04-25T23:01:54+00:00
+
+ ## dxdao.com - Ta strona jest na sprzedaż! - dxdao Zasoby i informacje.
+ - [https://dxdao.com](https://dxdao.com)
+ - date_published: 2024-09-21T23:27:09+00:00
+
+ ## Radio DXFUN Cluster - www.dxfuncluster.com
+ - [http://www.dxfuncluster.com](http://www.dxfuncluster.com)
+ - date_published: 2024-07-15T04:11:57.015261+00:00
+
+ ## DX Info Centre
+ - [https://www.dxinfocentre.com](https://www.dxinfocentre.com)
+ - date_published: 2024-08-20T23:37:16+00:00
+
  ## DX Marathon
  - [https://www.dxmarathon.com](https://www.dxmarathon.com)
  - date_published: 2024-05-02T13:46:00.493074+00:00
@@ -4011,20 +4027,4 @@
  ## e-Discovery Team | LAW and TECHNOLOGY – Ralph Losey © 2006-2023
  - [https://e-discoveryteam.com](https://e-discoveryteam.com)
  - date_published: 2023-10-25T14:00:41.659209+00:00
-
- ## e-Discovery Team Training
- - [https://e-discoveryteamtraining.com](https://e-discoveryteamtraining.com)
- - date_published: 2024-05-01T08:00:31.568227+00:00
-
- ## eDiscovery Today by Doug Austin
- - [https://ediscoverytoday.com](https://ediscoverytoday.com)
- - date_published: 2024-09-15T14:08:22+00:00
-
- ## Edison Group
- - [https://www.edisoninvestmentresearch.com](https://www.edisoninvestmentresearch.com)
- - date_published: 2024-07-12T09:13:32.298974+00:00
-
- ## Home - Edison Research
- - [https://edisonresearch.com](https://edisonresearch.com)
- - date_published: 2023-10-25T14:03:36.948928+00:00
 

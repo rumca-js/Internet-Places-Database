@@ -1,3 +1,37 @@
+ ## HR Brain Pickings
+ - [https://www.hrbrainpickings.com](https://www.hrbrainpickings.com)
+ - date_published: 2024-10-29T21:00:27+00:00
+
+ ## Home
+ - [http://content.hrchitect.com](http://content.hrchitect.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home
+ - [https://hrchitect.com](https://hrchitect.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## HR Software to Improve Employee Experience & Employee Engagement
+ - [https://hrcloud.com](https://hrcloud.com)
+ - date_published: 2024-06-16T09:43:09+00:00
+
+ ## Monster Solutions
+											    Log in
+ - [https://dallasnewscorporation.mua.hrdepartment.com](https://dallasnewscorporation.mua.hrdepartment.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Royal Roads
+											    Log in
+ - [https://royalroads.mua.hrdepartment.com](https://royalroads.mua.hrdepartment.com)
+ - date_published: 2024-10-11T00:00:00+00:00
+
+ ## HR News and Analysis | HR Dive
+ - [https://hrdive.com](https://hrdive.com)
+ - date_published: 2024-04-29T04:57:33.602556+00:00
+
+ ## 3D printed Magic tricks :: hreb3d.com
+ - [https://hreb3d.com](https://hreb3d.com)
+ - date_published: 2024-07-12T02:16:53.835171+00:00
+
  ## HREFLANG Tags for WordPress – HREFLANG Tags for WordPress
  - [https://www.hreflangtags.com](https://www.hreflangtags.com)
  - date_published: 2024-06-21T23:11:16.562644+00:00
@@ -3994,36 +4028,4 @@ Weinberger)
  ## Baltimore Personal Injury Lawyer
  - [https://www.iamelelawfirmbaltimore.com](https://www.iamelelawfirmbaltimore.com)
  - date_published: 2024-06-28T10:22:50+00:00
-
- ## Faux Pas blog
- - [http://www.iamfauxpas.com](http://www.iamfauxpas.com)
- - date_published: 2024-10-21T04:12:59.237600+00:00
-
- ## Fran's Realm
- - [https://iamfran.com](https://iamfran.com)
- - date_published: 2024-01-16T18:44:59.319304+00:00
-
- ## Iamgreta-derfilm - Berita Game terbaru hari ini, info yang berkaitan dengan Game Android terkini, kabar Game Android terbaru.
- - [https://iamgreta-derfilm.com](https://iamgreta-derfilm.com)
- - date_published: 2024-08-20T04:13:32.966193+00:00
-
- ## Meta For Home
- - [https://iamgujarat.com](https://iamgujarat.com)
- - date_published: 2024-06-26T08:39:13+00:00
-
- ## 华体网页版-华体（中国）
- - [http://www.iamjeepmobile.com](http://www.iamjeepmobile.com)
- - date_published: 2024-10-28T21:11:55.629608+00:00
-
- ## JH—SW3
- - [http://iamjonathanhan.com](http://iamjonathanhan.com)
- - date_published: 2024-07-13T14:32:22.358949+00:00
-
- ## Jon Chau
- - [https://iamjonchau.com](https://iamjonchau.com)
- - date_published: 2024-09-06T21:39:57.435107+00:00
-
- ## iamJoshKnox
- - [https://iamjoshknox.com](https://iamjoshknox.com)
- - date_published: 2024-08-11T08:41:43.186968+00:00
 

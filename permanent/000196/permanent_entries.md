@@ -1,3 +1,68 @@
+ ## Meaningness | David Chapman | Substack
+ - [https://meaningness.substack.com](https://meaningness.substack.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Meanwhile | Daniel Benneworth-Gray | Substack
+ - [https://meanwhile.substack.com](https://meanwhile.substack.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## El Substack de ¿Ahora | ¿Ahora qué? | Substack
+ - [https://mediamosconciencia.substack.com](https://mediamosconciencia.substack.com)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## Offline: dating that works | Shreeda Segan | Substack
+ - [https://meetmeoffline.substack.com](https://meetmeoffline.substack.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Megan’s Substack | Megan Elisabeth Kelly | Substack
+ - [https://meganelisabethkelly.substack.com](https://meganelisabethkelly.substack.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Megan J. Robinson | Substack
+ - [https://meganjrobinson.substack.com](https://meganjrobinson.substack.com)
+ - date_published: 2024-05-05T00:00:00+00:00
+
+ ## Off-Topic | Meghan Boilard | Substack
+ - [https://meghanboilard.substack.com](https://meghanboilard.substack.com)
+ - date_published: 2024-01-09T01:42:13.267759+00:00
+
+ ## The Unspeakable with Meghan Daum | Substack
+ - [https://meghandaum.substack.com](https://meghandaum.substack.com)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## FIELD NOTES | Meghan J. Ward | Substack
+ - [https://meghanjward.substack.com](https://meghanjward.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## What does that have to do with gender? | Mélina Magdelénat | Substack
+ - [https://melinamagdelenat.substack.com](https://melinamagdelenat.substack.com)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Melos Han-Tani | Substack
+ - [https://melodicambient.substack.com](https://melodicambient.substack.com)
+ - date_published: 2023-10-25T09:58:46.701668+00:00
+ - tags: ['substack']
+
+ ## Public Nuisance Feminist | Melodie Garcia, MPA | Substack
+ - [https://melodiekg.substack.com](https://melodiekg.substack.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## The Melt by Jason Diamond  | Substack
+ - [https://meltedcheeseonwhitefish.substack.com](https://meltedcheeseonwhitefish.substack.com)
+ - date_published: 2024-01-09T01:42:17.605787+00:00
+
+ ## memoirs & rambles | Yakko | Substack
+ - [https://memoirsandrambles.substack.com](https://memoirsandrambles.substack.com)
+ - date_published: 2024-01-05T15:16:39.796562+00:00
+
+ ## The Electric Grandma | Meredith Angwin | Substack
+ - [https://meredithangwin.substack.com](https://meredithangwin.substack.com)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Meryl’s COVID Newsletter | Meryl Nass | Substack
+ - [https://merylnass.substack.com](https://merylnass.substack.com)
+ - date_published: 2024-05-01T03:02:34.728042+00:00
+
  ## Metadash | Ivan Malopinsky | Substack
  - [https://metadash.substack.com](https://metadash.substack.com)
  - date_published: 2024-07-12T23:49:17.070808+00:00
@@ -4007,69 +4072,4 @@
  - [https://tylerglaiel.substack.com](https://tylerglaiel.substack.com)
  - date_published: 2023-10-25T10:06:56.239008+00:00
  - tags: ['substack']
-
- ## Type Classes | Chris Martin | Substack
- - [https://typeclasses.substack.com](https://typeclasses.substack.com)
- - date_published: 2023-10-25T10:06:58.858555+00:00
- - tags: ['substack']
-
- ## Monkeys on Typewriters | Arijit Chakravarty | Substack
- - [http://typingmonkeys.substack.com](http://typingmonkeys.substack.com)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## https://u4all.substack.com
- - [https://u4all.substack.com](https://u4all.substack.com)
- - date_published: 2024-02-08T18:06:49.384939+00:00
-
- ## Ubidrop Product Updates | Alex Styl | Substack
- - [https://ubidrop.substack.com](https://ubidrop.substack.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## University of Chicago Free Speech Alliance | UChicago Free Speech | Substack
- - [https://uchicagofreespeech.substack.com](https://uchicagofreespeech.substack.com)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## IEEE at UCLA Newsletter | Theo Zhang | Substack
- - [https://uclaieeenewsletter.substack.com](https://uclaieeenewsletter.substack.com)
- - date_published: 2024-06-20T12:57:12.860041+00:00
-
- ## Ukrinform Newsletters | Ukrinform's Subscription | Substack
- - [https://ukrinformsubscription.substack.com](https://ukrinformsubscription.substack.com)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## УКРІНФОРМ: РОЗСИЛКА НОВИН | Substack
- - [https://ukrinform.substack.com](https://ukrinform.substack.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## This Beautiful Life | Ulrich Beinert | Substack
- - [https://ulrichbeinert.substack.com](https://ulrichbeinert.substack.com)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Missives from Beyond the Veil of Sleep | Ben Laurence | Substack
- - [https://ultansdoor.substack.com](https://ultansdoor.substack.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Unbundl’s Substack | Substack
- - [https://unbundl.substack.com](https://unbundl.substack.com)
- - date_published: 2024-09-04T12:20:28.103465+00:00
-
- ## Uncaptured Media | Dan Cohen | Substack
- - [https://uncaptured.substack.com](https://uncaptured.substack.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## The Uncertainty Mindset (soon to become tbd) | Vaughn Tan | Substack
- - [https://uncertaintymindset.substack.com](https://uncertaintymindset.substack.com)
- - date_published: 2024-08-18T18:00:54.260778+00:00
-
- ## Unchained | Laura Shin | Substack
- - [https://unchainedcrypto.substack.com](https://unchainedcrypto.substack.com)
- - date_published: 2024-05-06T21:13:11.608800+00:00
-
- ## FOIA Around And Find Out | UndeadFOIA | Substack
- - [https://undeadfoia.substack.com](https://undeadfoia.substack.com)
- - date_published: 2024-05-11T09:36:02.714653+00:00
-
- ## undervaluedjapan | Otto Oehring | Substack
- - [https://undervaluedjapan.substack.com](https://undervaluedjapan.substack.com)
- - date_published: 2024-08-19T09:38:53.176772+00:00
 

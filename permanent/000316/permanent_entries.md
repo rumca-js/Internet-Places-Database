@@ -1,3 +1,123 @@
+ ## Musei Civici Fiorentini | Cultura
+ - [http://museicivicifiorentini.comune.fi.it](http://museicivicifiorentini.comune.fi.it)
+ - date_published: 2024-08-19T20:45:52.489140+00:00
+
+ ## Esposizioni on-line  - Istituto e Museo di Storia della Scienza
+ - [http://brunelleschi.imss.fi.it](http://brunelleschi.imss.fi.it)
+ - date_published: 2024-05-30T11:52:47+00:00
+
+ ## Agenzia per la Cybersicurezza Nazionale - ACN
+ - [https://acn.gov.it](https://acn.gov.it)
+ - date_published: 2024-10-13T07:35:59.382407+00:00
+
+ ## GlobaLeaks
+ - [https://whistleblowing.acn.gov.it](https://whistleblowing.acn.gov.it)
+ - date_published: 2024-10-13T07:36:01.019063+00:00
+
+ ## Agenzia delle Entrate - Dichiarazione Precompilata
+ - [https://dichiarazioneprecompilata.agenziaentrate.gov.it](https://dichiarazioneprecompilata.agenziaentrate.gov.it)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Agenzia delle Entrate - Area riservata
+ - [https://iampe.agenziaentrate.gov.it](https://iampe.agenziaentrate.gov.it)
+ - date_published: 2024-09-28T21:58:05.486837+00:00
+
+ ## Agenzia delle Entrate - Whatsapp
+ - [https://infoprecompilata.agenziaentrate.gov.it](https://infoprecompilata.agenziaentrate.gov.it)
+ - date_published: 2024-07-09T12:49:50+00:00
+
+ ## Agenzia delle Entrate - Strumenti
+ - [https://portale.agenziaentrate.gov.it](https://portale.agenziaentrate.gov.it)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Agenzia delle Entrate - Dichiarazione precompilata 2024
+ - [https://www.agenziaentrate.gov.it](https://www.agenziaentrate.gov.it)
+ - date_published: 2024-05-01T06:13:36.493549+00:00
+
+ ## AGID Form | Home
+ - [https://form.agid.gov.it](https://form.agid.gov.it)
+ - date_published: 2024-05-06T15:15:17.633592+00:00
+
+ ## CSIRT Italia
+ - [https://www.csirt.gov.it](https://www.csirt.gov.it)
+ - date_published: 2024-07-30T09:15:01+00:00
+
+ ## CVCN
+ - [https://www.cvcn.gov.it](https://www.cvcn.gov.it)
+ - date_published: 2024-10-13T07:36:42.586444+00:00
+
+ ## Export.gov.it
+ - [https://export.gov.it](https://export.gov.it)
+ - date_published: 2024-06-14T10:27:41+00:00
+
+ ## Dipartimento per la trasformazione digitale
+ - [https://innovazione.gov.it](https://innovazione.gov.it)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Eligendo - Ministero dell'Interno DAIT
+ - [https://elezioni.interno.gov.it](https://elezioni.interno.gov.it)
+ - date_published: 2024-07-14T16:18:54.015215+00:00
+
+ ## The Electronic Identity Card (CIE)
+ - [https://www.cartaidentita.interno.gov.it](https://www.cartaidentita.interno.gov.it)
+ - date_published: 2024-07-14T16:19:39.430289+00:00
+
+ ## Ministero dell‘Interno
+ - [https://www.interno.gov.it](https://www.interno.gov.it)
+ - date_published: 2024-06-21T17:50:58+00:00
+
+ ## homepage
+ - [http://www.isprambiente.gov.it](http://www.isprambiente.gov.it)
+ - date_published: 2024-06-16T22:50:48.095450+00:00
+
+ ## Home - Italia Domani - Portale PNRR
+ - [https://italiadomani.gov.it](https://italiadomani.gov.it)
+ - date_published: 2024-09-16T10:57:39.342068+00:00
+
+ ## Home page | Ministero del Lavoro e delle Politiche Sociali
+ - [https://www.lavoro.gov.it](https://www.lavoro.gov.it)
+ - date_published: 2024-06-23T21:06:03.345870+00:00
+
+ ## Made in italy, simply extraordinary
+ - [https://madeinitaly.gov.it](https://madeinitaly.gov.it)
+ - date_published: 2024-08-10T23:32:59.133490+00:00
+
+ ## OpenBDAP | I dati della Finanza Pubblica
+ - [https://openbdap.rgs.mef.gov.it](https://openbdap.rgs.mef.gov.it)
+ - date_published: 2024-07-08T15:41:51.547778+00:00
+
+ ## Ministero dell'Economia e delle Finanze
+ - [https://www.mef.gov.it](https://www.mef.gov.it)
+ - date_published: 2024-06-23T21:01:10+00:00
+
+ ## Ministero delle Imprese e del Made in Italy
+ - [https://www.mimit.gov.it](https://www.mimit.gov.it)
+ - date_published: 2024-07-14T16:10:20+00:00
+
+ ## Ministero del Turismo
+ - [https://www.ministeroturismo.gov.it](https://www.ministeroturismo.gov.it)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Ecobonus
+ - [https://ecobonus.mise.gov.it](https://ecobonus.mise.gov.it)
+ - date_published: 2024-07-12T06:27:54.045032+00:00
+
+ ## Ministero delle Imprese e del Made in Italy
+ - [https://www.mise.gov.it](https://www.mise.gov.it)
+ - date_published: 2024-06-23T21:05:43+00:00
+
+ ## Home page | Ministero delle infrastrutture e dei trasporti
+ - [https://www.mit.gov.it](https://www.mit.gov.it)
+ - date_published: 2024-06-23T21:05:40+00:00
+
+ ## | Ministero dell'Ambiente e della Sicurezza Energetica
+ - [https://www.mite.gov.it](https://www.mite.gov.it)
+ - date_published: 2024-10-15T06:44:00.324878+00:00
+
+ ## Ministero dell'Istruzione e del Merito
+ - [https://www.miur.gov.it](https://www.miur.gov.it)
+ - date_published: 2024-06-23T21:05:53.403068+00:00
+
  ## Dipartimento per le Pari Opportunità -
  - [http://www.pariopportunita.gov.it](http://www.pariopportunita.gov.it)
  - date_published: 2024-06-28T00:00:00+00:00
@@ -3893,125 +4013,4 @@
  ## Home - I.I.S. Curie-Levi
  - [https://www.iiscurielevi.it](https://www.iiscurielevi.it)
  - date_published: 2024-07-23T00:00:00+00:00
-
- ## Istituto Istruzione Superiore 'E. Fermi' Logo Istituto Istruzione Superiore 'E. Fermi'
- - [https://www.iisfermisarno.it](https://www.iisfermisarno.it)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Istituto Istruzione Superiore "Galileo Ferraris" - Vercelli (VC)
- - [http://www.iis-galileoferraris.it](http://www.iis-galileoferraris.it)
- - date_published: 2024-10-13T00:00:00+00:00
-
- ## Notizie
- - [https://www.iisgiustinofortunato.it](https://www.iisgiustinofortunato.it)
- - date_published: 2024-10-13T07:14:28+00:00
-
- ## Istituto di Istruzione Superiore Merloni Miliani
- - [https://www.iismerlonimiliani.it](https://www.iismerlonimiliani.it)
- - date_published: 2024-10-13T07:27:48.518429+00:00
-
- ## Home IIS Meucci Massa
- - [https://www.iismeuccimassa.it](https://www.iismeuccimassa.it)
- - date_published: 2024-10-13T07:17:54.817916+00:00
-
- ## IIS IPSAR Piranesi
- - [https://www.iispiranesi.it](https://www.iispiranesi.it)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## I.I.S. E.Fermi Aragona
- - [https://www.iissenricofermi.it](https://www.iissenricofermi.it)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Istituto Istruzione Superiore "Carlo Emilio Gadda"
- - [https://www.iissgadda.it](https://www.iissgadda.it)
- - date_published: 2024-10-13T07:11:09.970242+00:00
-
- ## Istituto Istruzione Secondaria Superiore Gandhi Merano
- - [https://www.iiss-gandhi-merano.it](https://www.iiss-gandhi-merano.it)
- - date_published: 2024-10-13T07:01:11.616539+00:00
-
- ## Istituti Tecnici Vito Sante Longo
- - [https://www.iisstecnicomonopoli.it](https://www.iisstecnicomonopoli.it)
- - date_published: 2024-10-13T06:59:31.042739+00:00
-
- ## I.I.S.T.C.G. - DON GAVINO PES
- - [https://www.iistcgdongavinopes.it](https://www.iistcgdongavinopes.it)
- - date_published: 2024-10-13T06:52:33.387920+00:00
-
- ## Polo Liceale "Pomponio Leto"
- - [https://www.iisteggiano.it](https://www.iisteggiano.it)
- - date_published: 2024-10-10T00:00:00+00:00
-
- ## I.I.S. "Janello Torriani" | Cremona
- - [https://www.iistorriani.it](https://www.iistorriani.it)
- - date_published: 2024-10-13T06:53:52+00:00
-
- ## IIS "Marzotto-Luzzatti" – Valdagno – Tecnologico – Economico – Professionale
- - [https://www.iisvaldagno.it](https://www.iisvaldagno.it)
- - date_published: 2024-10-13T07:06:28.256831+00:00
-
- ## Istituto Italiano di Tecnologia - IIT
- - [https://www.iit.it](https://www.iit.it)
- - date_published: 2024-10-28T23:46:49.626052+00:00
-
- ## Hosting, Domini, Server dedicati, VPS, Cloud | Ikoula Italia
- - [https://www.ikoula.it](https://www.ikoula.it)
- - date_published: 2024-07-07T05:18:34+00:00
-
- ## Il Calderone Magico - (sito no profit)
- - [http://www.ilcalderonemagico.it](http://www.ilcalderonemagico.it)
- - date_published: 2015-10-31T10:27:56+00:00
-
- ## Il Cerchio della Luna
- - [http://www.ilcerchiodellaluna.it](http://www.ilcerchiodellaluna.it)
- - date_published: 2021-02-17T16:12:34+00:00
-
- ## Disqus Connect
- - [https://comments.ilfattoquotidiano.it](https://comments.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:08+00:00
-
- ## Home - Community Web3
- - [https://community.ilfattoquotidiano.it](https://community.ilfattoquotidiano.it)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Fatto da Voi
- - [https://fattodavoi.ilfattoquotidiano.it](https://fattodavoi.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:08+00:00
-
- ## Il Fatto Quotidiano - News su politica, cronaca, giustizia ed economia
- - [https://ilfattoquotidiano.it](https://ilfattoquotidiano.it)
- - date_published: 2024-05-12T04:56:02.975121+00:00
-
- ## Previsioni Meteo - Il Fatto Quotidiano
- - [https://meteo.ilfattoquotidiano.it](https://meteo.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:28.664261+00:00
-
- ## Il Fatto Social Club
- - [http://shop.ilfattoquotidiano.it](http://shop.ilfattoquotidiano.it)
- - date_published: 2012-04-17T21:31:03+00:00
-
- ## Le migliori offerte per il tuo shopping online - Codice Sconto IlFattoQuotidiano
- - [https://www.codicesconto.ilfattoquotidiano.it](https://www.codicesconto.ilfattoquotidiano.it)
- - date_published: 2024-07-15T03:15:48.085233+00:00
-
- ## Il Foglio - Edizione Online
- - [https://www.ilfoglio.it](https://www.ilfoglio.it)
- - date_published: 2024-07-03T22:12:57+00:00
-
- ## il Giornale
- - [http://www.ilgiornale.it](http://www.ilgiornale.it)
- - date_published: 2024-07-03T22:20:22.112238+00:00
-
- ## Offerte mobile, fibra e smartphone
- - iliad
- - [https://www.iliad.it](https://www.iliad.it)
- - date_published: 2024-09-18T22:53:47.241287+00:00
-
- ## Stand Virtuale | Food Service ILIP - Passion for Packaging
- - [https://foodservice.ilip.it](https://foodservice.ilip.it)
- - date_published: 2024-10-31T10:00:30.298370+00:00
-
- ## Stand Virtuale | Fresh Produce ILIP - Passion for Packaging
- - [https://freshproduce.ilip.it](https://freshproduce.ilip.it)
- - date_published: 2024-10-31T10:00:20.528738+00:00
 

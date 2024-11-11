@@ -1,3 +1,7 @@
+ ## The Bookseller | At the heart of publishing since 1858
+ - [https://thebookseller.affino.com](https://thebookseller.affino.com)
+ - date_published: 2024-05-06T16:30:56.257253+00:00
+
  ## Home
  - [https://wyvex.affino.com](https://wyvex.affino.com)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -4017,8 +4021,4 @@
  ## AI Tools: The Best All in One New AI Tool Platform
  - [https://aitoolmall.com](https://aitoolmall.com)
  - date_published: 2024-07-19T00:00:00+00:00
-
- ## Aitoolnet - Discover AI Tools That Simplify Your Life!
- - [https://aitoolnet.com](https://aitoolnet.com)
- - date_published: 2024-04-04T00:00:00+00:00
 

@@ -1,3 +1,11 @@
+ ## Bloggers4UKIP
+ - [http://bloggers4ukip.blogspot.com](http://bloggers4ukip.blogspot.com)
+ - date_published: 2024-10-21T15:24:29.342417+00:00
+
+ ## Bloggers For Charity
+ - [http://bloggersforcharity.blogspot.com](http://bloggersforcharity.blogspot.com)
+ - date_published: 2024-09-09T21:26:39+00:00
+
  ## Blogger Templates
  - [http://blogger-templates.blogspot.com](http://blogger-templates.blogspot.com)
  - date_published: 2024-06-08T05:52:45+00:00
@@ -4002,12 +4010,4 @@
  ## Dark Future Games
  - [http://darkfuturegaming.blogspot.com](http://darkfuturegaming.blogspot.com)
  - date_published: 2024-06-18T10:00:00+00:00
-
- ## Dark Gathering
- - [http://darkgathering.blogspot.com](http://darkgathering.blogspot.com)
- - date_published: 2024-08-28T11:34:31+00:00
-
- ## De Silentio Umbrae (old)
- - [http://darkgorydirtywarhammer.blogspot.com](http://darkgorydirtywarhammer.blogspot.com)
- - date_published: 2024-10-05T07:10:11+00:00
 

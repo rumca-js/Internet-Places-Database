@@ -1,3 +1,43 @@
+ ## Meteor Cloud Status
+ - [https://status.meteor.com](https://status.meteor.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Jira Service Management
+ - [https://support.portal.meteor.com](https://support.portal.meteor.com)
+ - date_published: 2024-01-18T00:00:00+00:00
+
+ ## Docs
+ - [https://v3-docs.meteor.com](https://v3-docs.meteor.com)
+ - date_published: 2024-09-02T12:27:22.481913+00:00
+
+ ## MeteorOps | DevOps Services
+ - [https://meteorops.com](https://meteorops.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Meteor Up - Deploy Meteor apps
+ - [http://meteor-up.com](http://meteor-up.com)
+ - date_published: 2023-01-25T18:22:31+00:00
+
+ ## Meteosolutions: Prodotti e servizi ad alto valore aggiunto per la Meteorologia
+ - [https://www.meteosolutions.com](https://www.meteosolutions.com)
+ - date_published: 2024-09-15T10:17:51+00:00
+
+ ## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
+ - [https://meteosource.com](https://meteosource.com)
+ - date_published: 2023-10-25T16:02:04.837084+00:00
+
+ ## Professional Solar Forecast for PV output
+ - [https://solar.meteosource.com](https://solar.meteosource.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## Professional Wind power production forecast
+ - [https://wind.meteosource.com](https://wind.meteosource.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## MeteoStar
+ - [https://www.meteostar.com](https://www.meteostar.com)
+ - date_published: 2023-10-12T17:46:29+00:00
+
  ## Meter Dashboard
  - [https://dashboard.meter.com](https://dashboard.meter.com)
  - date_published: 2024-08-19T07:53:25.613328+00:00
@@ -4016,48 +4056,4 @@
  - [https://brutalamiga.mikendezign.com](https://brutalamiga.mikendezign.com)
  - date_published: 2024-06-14T05:12:55.977869+00:00
  - tags: ['amiga']
-
- ## AmigaGames - Downfall
- - [https://downfall.mikendezign.com](https://downfall.mikendezign.com)
- - date_published: 2024-06-14T07:06:26.215345+00:00
- - tags: ['amiga']
-
- ## Link on youtube channel
- - [https://kas1e.mikendezign.com](https://kas1e.mikendezign.com)
- - date_published: 2024-07-11T22:25:54.400897+00:00
-
- ## KIFFO's RETRO GAMER COMP
- - [https://kiffosretrocomp.mikendezign.com](https://kiffosretrocomp.mikendezign.com)
- - date_published: 2024-06-14T07:06:30.259745+00:00
- - tags: ['amiga']
-
- ## Maxwell Mouse
- - [https://maxwell.mikendezign.com](https://maxwell.mikendezign.com)
- - date_published: 2024-06-14T07:06:32.042150+00:00
- - tags: ['amiga']
-
- ## Mike 'n' Dezign
- - [https://mikendezign.com](https://mikendezign.com)
- - date_published: 2010-01-13T08:52:16+00:00
-
- ## ModP3 - Amiga Mods as Mp3s!
- - [https://modp3.mikendezign.com](https://modp3.mikendezign.com)
- - date_published: 2024-06-14T07:06:40.393224+00:00
- - tags: ['amiga', 'keygen', 'demoscene', 'chiptune']
-
- ## Remainder Software - Home
- - [http://remaindersoftware.mikendezign.com](http://remaindersoftware.mikendezign.com)
- - date_published: 2024-09-13T20:14:11.648466+00:00
-
- ## Summer Chill 2024 Round 7: Worms Directors Cut
- - [https://superleague.mikendezign.com](https://superleague.mikendezign.com)
- - date_published: 2024-06-14T07:06:42.674107+00:00
-
- ## x86 Amiga - Amithlon / AROS
- - [https://x86amiga.mikendezign.com](https://x86amiga.mikendezign.com)
- - date_published: 2002-06-23T00:00:00+00:00
-
- ## Mike Ness
- - [http://www.mikeness.com](http://www.mikeness.com)
- - date_published: 2024-08-11T03:44:28.122074+00:00
 

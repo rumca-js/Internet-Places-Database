@@ -1,3 +1,157 @@
+ ## Local Media Association | Local Media Foundation
+ - [https://localmedia.org](https://localmedia.org)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home
+ - [https://www.localnaturelab.org](https://www.localnaturelab.org)
+ - date_published: 2024-07-12T08:49:31.938028+00:00
+
+ ## Local News Matters
+ - [https://localnewsmatters.org](https://localnewsmatters.org)
+ - date_published: 2024-07-13T04:22:16+00:00
+
+ ## The Roadmap for Local News
+ - [https://localnewsroadmap.org](https://localnewsroadmap.org)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## LocalSend: Open-source, cross-platform file sharing to nearby devices
+ - [https://localsend.org](https://localsend.org)
+ - date_published: 2024-03-10T21:38:06+00:00
+ - tags: ['file send', 'open source']
+
+ ## Global Business Directory | Free Online Advertising | Local Business Listing
+ - [https://localstar.org](https://localstar.org)
+ - date_published: 2024-05-07T13:43:28.073352+00:00
+
+ ## Join us and share what you love about where you live.
+ - [https://localwiki.org](https://localwiki.org)
+ - date_published: 2024-08-17T22:58:06.501341+00:00
+
+ ## Locating London's Past
+ - [https://www.locatinglondon.org](https://www.locatinglondon.org)
+ - date_published: 2024-10-22T02:06:35.654750+00:00
+
+ ## Lockman - Bible questions and answers
+ - [https://bible.lockman.org](https://bible.lockman.org)
+ - date_published: 2024-10-21T10:21:32.809855+00:00
+
+ ## The Lockman Foundation Store
+ - [https://shop.lockman.org](https://shop.lockman.org)
+ - date_published: 2024-10-21T10:21:31.307294+00:00
+
+ ## Lockman Foundation - Home
+ - [http://www.lockman.org](http://www.lockman.org)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## SSDeV | Sportsfreunde der Sperrtechnik – Deutschland e.V.
+ - [http://www.lockpicking.org](http://www.lockpicking.org)
+ - date_published: 2024-07-16T19:26:10.863459+00:00
+
+ ## LOCKSS Documentation Portal — LOCKSS Documentation Portal
+ - [https://docs.lockss.org](https://docs.lockss.org)
+ - date_published: 2024-04-11T08:43:26+00:00
+
+ ## LOCKSS Program
+ - [https://lockss.org](https://lockss.org)
+ - date_published: 2024-05-09T06:40:19.234121+00:00
+
+ ## Lock Your Meds
+ - [https://lockyourmeds.org](https://lockyourmeds.org)
+ - date_published: 2024-06-12T20:39:52.333596+00:00
+ - tags: ['activism']
+
+ ## Locob Loco
+ - [http://www.locobloco.org](http://www.locobloco.org)
+ - date_published: 2024-06-27T15:01:48+00:00
+
+ ## LoCoBot · An Open Source Low Cost Robot
+ - [http://locobot.org](http://locobot.org)
+ - date_published: 2024-06-13T18:24:47.809401+00:00
+
+ ## Locura en Argentina
+ - [https://locuraenargentina.org](https://locuraenargentina.org)
+ - date_published: 2024-05-04T13:47:27.363094+00:00
+
+ ## Locus Medicus Lundensis - Samlingspunkten för medicinare i Lund
+ - [https://www.locusmedicus.org](https://www.locusmedicus.org)
+ - date_published: 2024-08-09T14:38:31+00:00
+
+ ## Lode Vandevenne
+ - [https://lodev.org](https://lodev.org)
+ - date_published: 2020-12-28T01:04:13+00:00
+
+ ## Living on Earth: Public Radio's Environmental News Magazine
+ - [http://www.loe.org](http://www.loe.org)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Home – Loeys-Dietz Syndrome Foundation Canada - Loeys-Dietz Syndrome Foundation Canada
+ - [http://loeysdietzcanada.org](http://loeysdietzcanada.org)
+ - date_published: 2024-06-10T02:24:43+00:00
+
+ ## LOFAR | ASTRON
+ - [http://www.lofar.org](http://www.lofar.org)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Home Page - The Loft Cinema
+ - [https://loftcinema.org](https://loftcinema.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Reva and David Logan Foundation - The Reva and David Logan Foundation
+ - [http://www.loganfdn.org](http://www.loganfdn.org)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Stokes Nature Center
+ - [https://logannature.org](https://logannature.org)
+ - date_published: 2024-07-13T07:35:21.349180+00:00
+
+ ## Log Cabin Republicans - Building A More Inclusive GOP
+ - [http://www.logcabin.org](http://www.logcabin.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Learning on Graphs Conference
+ - [https://logconference.org](https://logconference.org)
+ - date_published: 2024-06-16T13:46:33+00:00
+
+ ## Logical Disconnect
+ - [https://logicaldisconnect.org](https://logicaldisconnect.org)
+ - date_published: 2024-06-15T18:51:05.192604+00:00
+
+ ## Association for Logic Programming
+ - [https://logicprogramming.org](https://logicprogramming.org)
+ - date_published: 2024-07-17T05:49:55+00:00
+
+ ## Accueil · Logilab
+ - [https://www.logilab.org](https://www.logilab.org)
+ - date_published: 2024-06-28T19:57:38.431723+00:00
+
+ ## Tristan Miller
+ - [https://logological.org](https://logological.org)
+ - date_published: 2024-06-26T15:24:19+00:00
+
+ ## Logos Research Pages |
+ - [http://logosresourcepages.org](http://logosresourcepages.org)
+ - date_published: 2024-09-16T20:17:30.275536+00:00
+
+ ## Logux
+ - [https://logux.org](https://logux.org)
+ - date_published: 2024-08-07T23:41:58+00:00
+
+ ## Thâu-ia̍h - Lohankhapedia
+ - [http://taigi.lohankhapedia.org](http://taigi.lohankhapedia.org)
+ - date_published: 2023-10-01T14:43:40+00:00
+
+ ## Opening the target...
+ - [https://mw.lojban.org](https://mw.lojban.org)
+ - date_published: 2022-01-10T20:38:51+00:00
+
+ ## Digital Kingdom
+ - [http://vrici.lojban.org](http://vrici.lojban.org)
+ - date_published: 2021-01-08T07:23:41+00:00
+
+ ## Lokinet | Anonymous internet access
+ - [https://lokinet.org](https://lokinet.org)
+ - date_published: 2024-06-23T17:23:57.705355+00:00
+
  ## London Aesthetics Forum – Philosophy of art in the heart of London
  - [http://www.londonaestheticsforum.org](http://www.londonaestheticsforum.org)
  - date_published: 2024-06-23T09:42:33.822616+00:00
@@ -3886,160 +4040,4 @@ Intro
  ## Mason Enterprise Center – Fairfax – A Space for Startups
  - [https://www.mec-fairfax.org](https://www.mec-fairfax.org)
  - date_published: 2024-07-22T02:55:49.064369+00:00
-
- ## MechWarrior 2: Resource Forum - Index page
- - [http://mech2.org](http://mech2.org)
- - date_published: 2024-05-09T00:00:00+00:00
- - tags: ['internet forum']
-
- ## Mechanical Library: An introduction to delightful engineering solutions to complicated problems
- - [https://mechanical-library.org](https://mechanical-library.org)
- - date_published: 2024-05-08T09:58:44.804059+00:00
-
- ## Home
- - [https://mecouncil.org](https://mecouncil.org)
- - date_published: 2024-10-21T19:04:29.475730+00:00
-
- ## MECS Press
- - [https://mecs-press.org](https://mecs-press.org)
- - date_published: 2024-03-03T14:00:43.953312+00:00
-
- ## Home
- - [https://www.meda.org](https://www.meda.org)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Medellin Java users group / Grupo de usuarios java Medellín
- - [https://medellinjug.org](https://medellinjug.org)
- - date_published: 2018-02-27T21:42:31+00:00
-
- ## Mémoire des luttes
- - [http://www.medelu.org](http://www.medelu.org)
- - date_published: 2024-10-21T18:18:54.945666+00:00
-
- ## MedHelp - Health community, health information, medical questions, and medical apps
- - [http://www.medhelp.org](http://www.medhelp.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Medical Humanities Blog
- - [http://www.medhumanities.org](http://www.medhumanities.org)
- - date_published: 2024-03-14T16:10:59+00:00
-
- ## How do politicians and media overcome their adversarial relationship?
- - [http://www.media-accountability.org](http://www.media-accountability.org)
- - date_published: 2024-07-15T07:18:46.289770+00:00
-
- ## Media Art History
- - [http://www.mediaarthistory.org](http://www.mediaarthistory.org)
- - date_published: 2024-06-24T09:18:34.188404+00:00
-
- ## Media Development Center – ЦРМ
- - [https://mediacenterbg.org](https://mediacenterbg.org)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Welcome mediachannel.org - BlueHost.com
- - [http://www.mediachannel.org](http://www.mediachannel.org)
- - date_published: 2024-06-28T21:27:15.635998+00:00
-
- ## Media Chrome Docs
- - [https://www.media-chrome.org](https://www.media-chrome.org)
- - date_published: 2024-06-23T03:21:55.518990+00:00
-
- ## Media Cloud
- - [https://mediacloud.org](https://mediacloud.org)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Media Cloud
- - [https://search.mediacloud.org](https://search.mediacloud.org)
- - date_published: 2024-06-17T10:14:02.638910+00:00
-
- ## Media Computation Teachers Website
- - [http://mediacomputation.org](http://mediacomputation.org)
- - date_published: 2024-06-30T02:12:45.055257+00:00
-
- ## Home
- - [http://mediademocracyfund.org](http://mediademocracyfund.org)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Home - Media Diversity Institute
- - [https://media-diversity.org](https://media-diversity.org)
- - date_published: 2020-02-18T17:48:18+00:00
- - tags: ['news', 'gender', 'race', 'religion', 'dei']
-
- ## Media Ecology Association - Home
- - [https://media-ecology.org](https://media-ecology.org)
- - date_published: 2024-02-24T18:11:17.745970+00:00
-
- ## Media Ecosystems Analysis Group
- - [https://www.mediaecosystems.org](https://www.mediaecosystems.org)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Homepage - Center for Media Engagement
- - [https://mediaengagement.org](https://mediaengagement.org)
- - date_published: 2014-01-22T06:41:29+00:00
-
- ## Home - Media Freedom Coalition
- - [https://mediafreedomcoalition.org](https://mediafreedomcoalition.org)
- - date_published: 2023-03-14T09:43:17+00:00
-
- ## Welcome to GNU MediaGoblin’s documentation! — GNU MediaGoblin 0.13.0 documentation
- - [https://docs.mediagoblin.org](https://docs.mediagoblin.org)
- - date_published: 2023-10-18T03:53:41+00:00
-
- ## GNU MediaGoblin
- - [https://issues.mediagoblin.org](https://issues.mediagoblin.org)
- - date_published: 2023-04-11T00:00:00+00:00
-
- ## MediaGoblin
- - [https://mediagoblin.org](https://mediagoblin.org)
- - date_published: 2024-05-19T02:44:42.794773+00:00
- - tags: ['open source', 'self-host']
-
- ## GNU MediaGoblin Wiki
- - [https://wiki.mediagoblin.org](https://wiki.mediagoblin.org)
- - date_published: 2023-10-17T01:11:38+00:00
-
- ## Media Guild of the West
- - [https://www.mediaguildwest.org](https://www.mediaguildwest.org)
- - date_published: 2024-05-04T11:59:09.330450+00:00
-
- ## Media History Digital Library
- - [http://mediahistoryproject.org](http://mediahistoryproject.org)
- - date_published: 2024-08-08T19:41:32.271035+00:00
-
- ## Home - Media Law Resource Center
- - [http://www.medialaw.org](http://www.medialaw.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Media Lens
- - [https://medialens.org](https://medialens.org)
- - date_published: 2024-05-08T10:04:24.156915+00:00
-
- ## mediale pfade - politische Bildung für die digitale Gesellschaft
- - [https://medialepfade.org](https://medialepfade.org)
- - date_published: 2024-09-12T16:07:51.560457+00:00
-
- ## Media Literacy Network
- - [https://medialiteracynetwork.org](https://medialiteracynetwork.org)
- - date_published: 2024-05-07T23:40:33.557866+00:00
-
- ## Media Literacy Now | Media Literacy Now
- - [https://medialiteracynow.org](https://medialiteracynow.org)
- - date_published: 2020-09-18T15:48:10+00:00
-
- ## Donate to Media Matters
- - [https://action.mediamatters.org](https://action.mediamatters.org)
- - date_published: 2024-05-08T10:04:26.463689+00:00
-
- ## Homepage | Media Matters for America
- - [https://mediamatters.org](https://mediamatters.org)
- - date_published: 2023-10-25T09:30:18.940421+00:00
- - tags: ['watchdog', 'the left wing', 'democrats', 'propaganda']
-
- ## mediamentor.org
- - [https://mediamentor.org](https://mediamentor.org)
- - date_published: 2024-05-07T23:42:15.801825+00:00
-
- ## Home
- - [https://www.mediamigrationacademy.org](https://www.mediamigrationacademy.org)
- - date_published: 2024-02-13T00:00:00+00:00
 

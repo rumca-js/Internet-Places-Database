@@ -1,3 +1,35 @@
+ ## Henry Corrigan-Gibbs
+ - [https://www.henrycg.com](https://www.henrycg.com)
+ - date_published: 2024-06-06T12:25:28+00:00
+
+ ## Henry Chamberlain
+ - [https://www.henry-chamberlain.com](https://www.henry-chamberlain.com)
+ - date_published: 2024-07-17T06:25:26.775582+00:00
+
+ ## HENRY COUNTY
+ - [https://www.henrycountybattlefield.com](https://www.henrycountybattlefield.com)
+ - date_published: 2024-08-20T04:14:52.440696+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.henrydalziel.com](https://stats.henrydalziel.com)
+ - date_published: 2024-07-04T11:43:05.260158+00:00
+
+ ## Henry Heffernan - Software Engineer
+ - [https://henryheffernan.com](https://henryheffernan.com)
+ - date_published: 2024-08-06T20:08:06.979914+00:00
+
+ ## Henry Holt & Company
+ - [https://henryholt.com](https://henryholt.com)
+ - date_published: 2024-09-20T15:35:41.989237+00:00
+
+ ## Henry Holt & Company
+ - [http://www.henryholt.com](http://www.henryholt.com)
+ - date_published: 2024-07-13T11:09:17.274366+00:00
+
+ ## Henry's Website
+ - [https://henryjeynes.com](https://henryjeynes.com)
+ - date_published: 2024-01-19T02:49:46+00:00
+
  ## Henry Kuo - User Experience, Creative Direction, and Front-End Development
  - [https://www.henrykuo.com](https://www.henrykuo.com)
  - date_published: 2023-06-16T03:16:04+00:00
@@ -4002,37 +4034,4 @@
  ## Historic Photographer of the Year
  - [https://photographer.historyhit.com](https://photographer.historyhit.com)
  - date_published: 2024-08-19T09:28:03.534195+00:00
-
- ## History Hit Shop - Best Gifts for History Lovers
- - [https://shop.historyhit.com](https://shop.historyhit.com)
- - date_published: 2024-08-19T09:28:07.195374+00:00
-
- ## Historic Holidays and Trips | HistoryHit Travel
- - [https://trips.historyhit.com](https://trips.historyhit.com)
- - date_published: 2024-08-19T09:27:58.779210+00:00
-
- ## History House Online
- - [http://www.historyhouse.com](http://www.historyhouse.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## History In Coins - Hammered and Milled Coins of England Scotland and
-Ireland.
- - [http://www.historyincoins.com](http://www.historyincoins.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## History Investor
- - [https://historyinvestor.com](https://historyinvestor.com)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## History Investor Notes
- - [https://notes.historyinvestor.com](https://notes.historyinvestor.com)
- - date_published: 2024-05-08T04:03:47.788128+00:00
-
- ## History Is A Weapon
- - [http://www.historyisaweapon.com](http://www.historyisaweapon.com)
- - date_published: 2024-10-21T18:49:11.735014+00:00
-
- ## HistoryNet: Your Authoritative Source for U.S. & World History
- - [https://historynet.com](https://historynet.com)
- - date_published: 2023-10-25T14:59:55.420364+00:00
 

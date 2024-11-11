@@ -1,3 +1,12 @@
+ ## Cam Pedersen
+ - [https://campedersen.com](https://campedersen.com)
+ - date_published: 2024-05-12T04:55:17.317282+00:00
+ - tags: ['personal']
+
+ ## Cam Pegg: Digital product and strategy guy
+ - [https://campegg.com](https://campegg.com)
+ - date_published: 2024-08-08T12:44:27.350275+00:00
+
  ## Camper Shoes - Official Online Shop Poland
  - [https://www.camper.com](https://www.camper.com)
  - date_published: 2024-07-09T15:41:06.155656+00:00
@@ -4015,12 +4024,4 @@
  ## Fondation Cartier pour l'art contemporain
  - [http://fondation.cartier.com](http://fondation.cartier.com)
  - date_published: 2024-04-13T00:00:00+00:00
-
- ## Cartier® Official Website - Jeweller and Watchmaker since 1847
- - [https://www.cartier.com](https://www.cartier.com)
- - date_published: 2024-09-04T17:21:47.960524+00:00
-
- ## CARTO Academy | Academy
- - [https://academy.carto.com](https://academy.carto.com)
- - date_published: 2024-10-22T06:50:32.734360+00:00
 

@@ -1,3 +1,99 @@
+ ## Swan River Press | Dedicated to the literature of the fantastic
+ - [https://swanriverpress.ie](https://swanriverpress.ie)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Home - Sweet Heart Shop- Co. Cork
+ - [https://sweetheartshop.ie](https://sweetheartshop.ie)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Compare Ireland's Best Energy, Broadband & Mobile Deals
+ - [https://switcher.ie](https://switcher.ie)
+ - date_published: 2024-08-19T03:23:29.310862+00:00
+
+ ## REBEL LIVE NOW
+ - [http://www.swp.ie](http://www.swp.ie)
+ - date_published: 2024-10-21T16:52:40.992061+00:00
+
+ ## iTunes U - Trinity College Dublin
+ - [https://itunes.tcd.ie](https://itunes.tcd.ie)
+ - date_published: 2024-07-24T05:53:50.958927+00:00
+
+ ## School of Computer Science and Statistics: Publications - Trinity College Dublin
+ - [https://publications.scss.tcd.ie](https://publications.scss.tcd.ie)
+ - date_published: 2024-07-24T05:53:56.726300+00:00
+
+ ## SCSS - School of Computer Science and Statistics | Trinity College Dublin
+ - [https://scss.tcd.ie](https://scss.tcd.ie)
+ - date_published: 2024-04-29T06:29:53.908511+00:00
+
+ ## School of Computer Science and Statistics: Seminars - Trinity College Dublin
+ - [https://seminars.scss.tcd.ie](https://seminars.scss.tcd.ie)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Trinity College Dublin
+ - [https://tcd.ie](https://tcd.ie)
+ - date_published: 2023-10-27T11:57:09.533071+00:00
+
+ ## Teaching and Learning – School of Computer Science and Statistics
+ - [https://teaching.scss.tcd.ie](https://teaching.scss.tcd.ie)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## The Irish Longitudinal Study on Ageing (TILDA) - Trinity College Dublin
+ - [https://tilda.tcd.ie](https://tilda.tcd.ie)
+ - date_published: 2024-07-13T19:41:08.378601+00:00
+
+ ## School of Mathematics - Trinity College Dublin
+ - [http://www.maths.tcd.ie](http://www.maths.tcd.ie)
+ - date_published: 2024-07-08T18:52:01.572256+00:00
+
+ ## Teagasc | Agriculture and Food Development Authority
+ - [https://www.teagasc.ie](https://www.teagasc.ie)
+ - date_published: 2024-07-21T21:39:20.324794+00:00
+
+ ## Home Page
+ - [https://technology.ie](https://technology.ie)
+ - date_published: 2024-10-12T12:35:31+00:00
+
+ ## Home
+ - [https://tescoireland.ie](https://tescoireland.ie)
+ - date_published: 2024-10-07T21:39:26.981203+00:00
+
+ ## The 2 Johnnies | Irish Comedians, Musicians & Podcasts
+ - [https://www.the2johnnies.ie](https://www.the2johnnies.ie)
+ - date_published: 2024-07-13T19:44:27.475487+00:00
+
+ ## The 42
+ - [https://www.the42.ie](https://www.the42.ie)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## The Barbican Centre Drogheda | Venue, Office, Room Hire
+ - [https://www.thebarbican.ie](https://www.thebarbican.ie)
+ - date_published: 2024-07-13T19:34:49.828934+00:00
+
+ ## The Book Resort Book Subscription Box| Irish Subscription Box
+ - [https://thebookresort.ie](https://thebookresort.ie)
+ - date_published: 2023-12-02T08:10:41.745901+00:00
+
+ ## F.X. Buckley Restaurants and Bars | The Buckley Collection | Dublin
+ - [https://www.thebuckleycollection.ie](https://www.thebuckleycollection.ie)
+ - date_published: 2024-06-22T20:08:50.374914+00:00
+
+ ## The Code Hub
+ - [https://www.thecodehub.ie](https://www.thecodehub.ie)
+ - date_published: 2021-10-19T11:19:08+00:00
+
+ ## Garden House - Ireland's leading garden centre
+ - [http://thegardenhouse.ie](http://thegardenhouse.ie)
+ - date_published: 2024-07-13T19:34:35.699675+00:00
+
+ ## Room Reservations
+ - [https://secure.theghotel.ie](https://secure.theghotel.ie)
+ - date_published: 2024-10-20T08:58:44.255842+00:00
+
+ ## The Gist
+ - [https://thegist.ie](https://thegist.ie)
+ - date_published: 2024-01-07T17:49:46.908231+00:00
+
  ## Homepage - The Gloss Magazine
  - [https://thegloss.ie](https://thegloss.ie)
  - date_published: 2024-01-24T00:00:00+00:00
@@ -3916,101 +4012,4 @@ Indian Institute of Science, Bangalore
  ## dinc, grivance, suggestion, gallery, diversity, Inclusion, Committee, IIT, roorkee, IITR, Dinc, DInC, dinc.iitr.ac.in, iitr.ac.in,
  - [http://dinc.iitr.ac.in](http://dinc.iitr.ac.in)
  - date_published: 2024-06-22T11:40:33.386378+00:00
-
- ## Academic Documents Request | IITR
- - [https://documentacad.iitr.ac.in](https://documentacad.iitr.ac.in)
- - date_published: 2024-06-21T06:55:42+00:00
-
- ## EICT Academy - eict.iitr.ac.in
- - [https://eict.iitr.ac.in](https://eict.iitr.ac.in)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home | Expectations IIT Roorkee
- - [https://expectations.iitr.ac.in](https://expectations.iitr.ac.in)
- - date_published: 2021-10-31T11:12:36+00:00
-
- ## Finance & Accounts Office, IITR
- - [https://finance.iitr.ac.in](https://finance.iitr.ac.in)
- - date_published: 2024-06-22T11:32:28.888432+00:00
-
- ## IIT ROORKEE GUEST HOUSE RESERVATION SYSTEM
- - [https://ghbooking.iitr.ac.in](https://ghbooking.iitr.ac.in)
- - date_published: 2024-06-22T11:32:06.639736+00:00
-
- ## GNEC IITR
- - [https://gnec.iitr.ac.in](https://gnec.iitr.ac.in)
- - date_published: 2024-06-22T11:31:22.309314+00:00
-
- ## i-Connect
- - [https://iconnect.iitr.ac.in](https://iconnect.iitr.ac.in)
- - date_published: 2024-06-22T11:31:26.941083+00:00
-
- ## Indian Institute of Technology Roorkee
- - [https://iitr.ac.in](https://iitr.ac.in)
- - date_published: 2024-05-04T15:42:45.009337+00:00
-
- ## Home - IPR
- - [https://ipr.iitr.ac.in](https://ipr.iitr.ac.in)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## IITR | IR | International Relations
- - [https://ir.iitr.ac.in](https://ir.iitr.ac.in)
- - date_published: 2024-06-22T11:31:42.432264+00:00
-
- ## LHCC Booking System
- - [https://lhcbooking.iitr.ac.in](https://lhcbooking.iitr.ac.in)
- - date_published: 2024-05-30T11:27:48+00:00
-
- ## Home
- - [https://liaisoncellscst.iitr.ac.in](https://liaisoncellscst.iitr.ac.in)
- - date_published: 2024-06-22T11:40:40.521503+00:00
-
- ## Mahatma Gandhi Central Library, IIT Roorkee
- - [https://mgcl.iitr.ac.in](https://mgcl.iitr.ac.in)
- - date_published: 2024-03-20T08:25:52+00:00
-
- ## Material Management
- - [https://mm.iitr.ac.in](https://mm.iitr.ac.in)
- - date_published: 2024-06-22T11:40:14.342626+00:00
-
- ## Email | IITR
- - [https://newwebmail.iitr.ac.in](https://newwebmail.iitr.ac.in)
- - date_published: 2024-06-22T11:40:50.155541+00:00
-
- ## IIT Roorkee Fees Payment Portal
- - [https://payment.iitr.ac.in](https://payment.iitr.ac.in)
- - date_published: 2022-06-04T19:11:36+00:00
-
- ## Online Academic
-    Support and Information System
- - [https://queryportal.iitr.ac.in](https://queryportal.iitr.ac.in)
- - date_published: 2024-06-06T10:21:57+00:00
-
- ## Technology Development | Human Resources | Technology Incubation | Startups, and international collaborative research - iHub DivyaSampark
- - [https://tih.iitr.ac.in](https://tih.iitr.ac.in)
- - date_published: 2024-06-22T11:32:39.015402+00:00
-
- ## Wellness Centre – Express ● Engage ● Emerge
- - [https://wellness.iitr.ac.in](https://wellness.iitr.ac.in)
- - date_published: 2024-06-22T11:31:45.546579+00:00
-
- ## Indian Institute of Technology Ropar | भारतीय प्रौद्योगिकी संस्थान रोपड़
- - [http://www.iitrpr.ac.in](http://www.iitrpr.ac.in)
- - date_published: 2024-09-11T11:51:49+00:00
-
- ## Home | Council of Indian Institute of Technology
- - [https://www.iitsystem.ac.in](https://www.iitsystem.ac.in)
- - date_published: 2024-06-22T11:41:09.625374+00:00
-
- ## e-PGPathshala
- - [https://epgp.inflibnet.ac.in](https://epgp.inflibnet.ac.in)
- - date_published: 2024-09-11T17:28:19.483660+00:00
-
- ## ETD 2023
- - [https://etd2023.inflibnet.ac.in](https://etd2023.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:53.957022+00:00
-
- ## ShodhShuddhi | Enhancing Research Quality
- - [https://pds.inflibnet.ac.in](https://pds.inflibnet.ac.in)
- - date_published: 2024-06-23T07:10:33.956210+00:00
 

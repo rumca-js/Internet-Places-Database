@@ -1,3 +1,11 @@
+ ## hot lava, by Prima
+ - [https://prima1.bandcamp.com](https://prima1.bandcamp.com)
+ - date_published: 2024-03-19T00:00:00+00:00
+
+ ## Private Lives
+ - [https://privatelivesmtl.bandcamp.com](https://privatelivesmtl.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Merch from Private Selection Records
  - [https://privateselection.bandcamp.com](https://privateselection.bandcamp.com)
  - date_published: 2024-09-06T00:00:00+00:00
@@ -4005,12 +4013,4 @@ rain or shine
  ## Baton Rouge
  - [http://m.baton-rouge.com](http://m.baton-rouge.com)
  - date_published: 2024-05-23T14:33:34+00:00
-
- ## Baton Rouge Post - Covers Local Baton Rouge News & Louisiana
- - [http://www.batonrougepost.com](http://www.batonrougepost.com)
- - date_published: 2024-07-13T22:56:54.717146+00:00
-
- ## BATOTO - Read Manga Online
- - [https://batotoo.com](https://batotoo.com)
- - date_published: 2024-10-25T10:38:39.178830+00:00
 

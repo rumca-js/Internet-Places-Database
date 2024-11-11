@@ -1,3 +1,156 @@
+ ## Wir bieten Ihnen benutzerfreundliche und kostenlose Tools zur Veröffentlichung und Austausch von Daten.
+ - [https://docplayer.org](https://docplayer.org)
+ - date_published: 2024-05-07T15:34:02.403125+00:00
+
+ ## Doctor Popular's Weblog
+ - [https://docpop.org](https://docpop.org)
+ - date_published: 2024-08-18T06:41:28.982368+00:00
+
+ ## Docs 4 Patient Care Foundation | By Doctors, For Patients
+ - [http://docs4patientcare.org](http://docs4patientcare.org)
+ - date_published: 2024-06-20T04:22:04.026979+00:00
+
+ ## webpack
+ - [https://webpack.docschina.org](https://webpack.docschina.org)
+ - date_published: 2024-04-19T03:41:30+00:00
+
+ ## Docspell – Simple Document Organizer
+ - [https://docspell.org](https://docspell.org)
+ - date_published: 2024-04-08T19:28:06.775705+00:00
+ - tags: ['document management system', 'document library', 'self-host']
+
+ ## DocsTeach
+ - [https://www.docsteach.org](https://www.docsteach.org)
+ - date_published: 2024-06-29T18:24:13+00:00
+
+ ## Dr. Hugo Heyrman
+ - [http://www.doctorhugo.org](http://www.doctorhugo.org)
+ - date_published: 2024-06-18T07:59:13+00:00
+
+ ## Home | Doctors Without Borders - USA
+ - [https://doctorswithoutborders.org](https://doctorswithoutborders.org)
+ - date_published: 2023-11-11T16:04:52.293520+00:00
+
+ ## Help save lives. Donate now.
+ - [https://donate.doctorswithoutborders.org](https://donate.doctorswithoutborders.org)
+ - date_published: 2024-07-08T08:30:28+00:00
+
+ ## Doctrine of Discovery
+ - [https://doctrineofdiscovery.org](https://doctrineofdiscovery.org)
+ - date_published: 2024-08-07T20:29:45.048287+00:00
+
+ ## Doctrine: PHP Open Source Project
+ - [https://doctrine-project.org](https://doctrine-project.org)
+ - date_published: 2024-05-12T06:38:59.114988+00:00
+
+ ## Homepage
+ - [https://www.documentary.org](https://www.documentary.org)
+ - date_published: 2024-07-15T06:53:30.105160+00:00
+
+ ## Api Root – Django REST framework
+ - [https://api.www.documentcloud.org](https://api.www.documentcloud.org)
+ - date_published: 2024-06-15T10:37:11.536518+00:00
+
+ ## DocumentCloud
+ - [https://beta.documentcloud.org](https://beta.documentcloud.org)
+ - date_published: 2024-07-03T23:49:48.615203+00:00
+
+ ## DocumentCloud
+ - [https://documentcloud.org](https://documentcloud.org)
+ - date_published: 2023-10-25T21:14:58.036496+00:00
+
+ ## DocumentCloud
+ - [https://embed.documentcloud.org](https://embed.documentcloud.org)
+ - date_published: 2024-05-04T06:48:14.373719+00:00
+
+ ## Start | The ACM Symposium on Document Engineering
+ - [https://www.documentengineering.org](https://www.documentengineering.org)
+ - date_published: 2024-08-08T21:53:28.338335+00:00
+
+ ## Documenters.org: Making Local Government More Accountable
+ - [https://www.documenters.org](https://www.documenters.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## The Document Foundation Blog - The home of LibreOffice
+ - [https://blog.documentfoundation.org](https://blog.documentfoundation.org)
+ - date_published: 2023-10-25T21:14:59.845814+00:00
+
+ ## Bugzilla Main Page
+ - [https://bugs.documentfoundation.org](https://bugs.documentfoundation.org)
+ - date_published: 2024-07-07T06:07:39.831185+00:00
+
+ ## The Document Foundation Community
+ - [https://community.documentfoundation.org](https://community.documentfoundation.org)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## Blog der The Document Foundation
+ - [https://de.blog.documentfoundation.org](https://de.blog.documentfoundation.org)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## LibreOffice Design Team
+ - [https://design.blog.documentfoundation.org](https://design.blog.documentfoundation.org)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## LibreOffice Development Blog - Blog for the LibreOffice Developers Community; Tutorials, tips and tricks for working with the LibreOffice code
+ - [https://dev.blog.documentfoundation.org](https://dev.blog.documentfoundation.org)
+ - date_published: 2023-10-25T21:15:02.330486+00:00
+
+ ## The Document Foundation - The House of LibreOffice and Document Liberation Project — The Document Foundation
+ - [https://documentfoundation.org](https://documentfoundation.org)
+ - date_published: 2024-05-08T09:35:15.408433+00:00
+
+ ## Index of /
+ - [https://download.documentfoundation.org](https://download.documentfoundation.org)
+ - date_published: 2018-04-06T11:28:55+00:00
+
+ ## Blog de LibreOffice Hispano
+ - [https://es.blog.documentfoundation.org](https://es.blog.documentfoundation.org)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.documentfoundation.org](https://matomo.documentfoundation.org)
+ - date_published: 2024-07-07T06:08:00.824058+00:00
+
+ ## Authentication portal
+ - [https://membership.documentfoundation.org](https://membership.documentfoundation.org)
+ - date_published: 2024-07-07T06:05:38.567393+00:00
+
+ ## Sign in - Matomo
+ - [https://metrics.documentfoundation.org](https://metrics.documentfoundation.org)
+ - date_published: 2024-08-18T19:45:02.930690+00:00
+
+ ## Authentication portal
+ - [https://nextcloud.documentfoundation.org](https://nextcloud.documentfoundation.org)
+ - date_published: 2024-07-07T06:06:01.922059+00:00
+
+ ## Authentication portal
+ - [http://owncloud.documentfoundation.org](http://owncloud.documentfoundation.org)
+ - date_published: 2024-07-03T03:43:13.540889+00:00
+
+ ## The Document Foundation Pad
+ - [http://pad.documentfoundation.org](http://pad.documentfoundation.org)
+ - date_published: 2024-07-03T03:43:11.791514+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.documentfoundation.org](https://piwik.documentfoundation.org)
+ - date_published: 2024-05-08T09:35:25.405726+00:00
+
+ ## The Document Foundation Planet
+ - [https://planet.documentfoundation.org](https://planet.documentfoundation.org)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## LibreOffice QA Blog
+ - [https://qa.blog.documentfoundation.org](https://qa.blog.documentfoundation.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## The Document Foundation Redmine
+ - [https://redmine.documentfoundation.org](https://redmine.documentfoundation.org)
+ - date_published: 2024-08-18T19:44:57.598669+00:00
+
+ ## TDF Weblate - LibreOffice
+ - [https://translations.documentfoundation.org](https://translations.documentfoundation.org)
+ - date_published: 2024-07-07T06:07:51.626610+00:00
+
  ## Welcome to The Document Foundation’s wiki - The Document Foundation Wiki
  - [https://wiki.documentfoundation.org](https://wiki.documentfoundation.org)
  - date_published: 2023-10-25T21:15:04.376783+00:00
@@ -3874,158 +4027,4 @@
  ## CampusPress Themes | Just another Edublogs site
  - [https://campuspress-themes.edublogs.org](https://campuspress-themes.edublogs.org)
  - date_published: 2024-07-02T03:10:38.725075+00:00
-
- ## Kevin's Meandering Mind | If you don't live it, it won't come out of your horn.  ~ Charlie Parker
- - [https://dogtrax.edublogs.org](https://dogtrax.edublogs.org)
- - date_published: 2024-05-08T05:51:07.174769+00:00
- - tags: ['personal']
-
- ## Edublogs – free blogs for education
- - [https://edublogs.org](https://edublogs.org)
- - date_published: 2024-06-29T16:53:14.260632+00:00
-
- ## Edublogs Help and Support
- - [https://help.edublogs.org](https://help.edublogs.org)
- - date_published: 2024-07-02T15:43:41.721645+00:00
-
- ## Reflections, Ruminations, and Renderings | “By seeking and blundering we learn” – Johann Wolfgang von Goethe
- - [http://inspirepassion.edublogs.org](http://inspirepassion.edublogs.org)
- - date_published: 2024-07-04T18:00:39.349964+00:00
-
- ## Blog doesn't exist
- - [https://jezuden.edublogs.org](https://jezuden.edublogs.org)
- - date_published: 2024-05-29T04:07:50.002766+00:00
-
- ## Blog doesn't exist
- - [http://lasdandkhanacademy.edublogs.org](http://lasdandkhanacademy.edublogs.org)
- - date_published: 2024-06-20T03:51:04.684992+00:00
-
- ## Realsociology | A hyperreflexive blog focussing on critical sociology, infographics, Buddhism and extreme early retirement
- - [http://realsociology.edublogs.org](http://realsociology.edublogs.org)
- - date_published: 2024-06-30T03:25:04.510341+00:00
-
- ## Blog doesn't exist
- - [https://talkovlaw.edublogs.org](https://talkovlaw.edublogs.org)
- - date_published: 2024-05-07T13:28:49.887443+00:00
-
- ## What Else
- - [http://whatelse.edublogs.org](http://whatelse.edublogs.org)
- - date_published: 2024-07-04T18:00:59.213784+00:00
-
- ## Edubuntu
- - [https://edubuntu.org](https://edubuntu.org)
- - date_published: 2024-04-13T18:23:28+00:00
- - tags: ['operating system']
-
- ## Educated Guesswork
- - [https://educatedguesswork.org](https://educatedguesswork.org)
- - date_published: 2023-10-25T21:16:41.328615+00:00
-
- ## Home - Educate Magis
- - [https://www.educatemagis.org](https://www.educatemagis.org)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## EducatioNation
- - [http://www.educationation.org](http://www.educationation.org)
- - date_published: 2024-05-02T00:25:50+00:00
-
- ## Education Bug - Articles, Public & Private Schools, Colleges
- - [http://www.educationbug.org](http://www.educationbug.org)
- - date_published: 2024-06-27T07:33:21.454133+00:00
-
- ## Education Data Initiative: College Costs & Student Loan Research
- - [https://educationdata.org](https://educationdata.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## The Education Fund
- - [https://www.educationfund.org](https://www.educationfund.org)
- - date_published: 2024-10-29T06:51:57.464930+00:00
-
- ## Education in Action - Education in Action
- - [https://educationinaction.org](https://educationinaction.org)
- - date_published: 2024-10-19T05:11:25.936917+00:00
-
- ## WIDE Education Inequalities
- - [https://www.education-inequalities.org](https://www.education-inequalities.org)
- - date_published: 2024-06-17T16:11:48.398865+00:00
-
- ## Education Minnesota
- - [https://educationminnesota.org](https://educationminnesota.org)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Education Next - A Journal of Opinion and Research About Education Policy
- - [https://educationnext.org](https://educationnext.org)
- - date_published: 2023-10-25T21:16:46.987080+00:00
-
- ## Scoping Progress in Education
- - [https://www.education-progress.org](https://www.education-progress.org)
- - date_published: 2024-10-19T17:47:09.319798+00:00
-
- ## Race to Zero for Universities and Colleges
- - [https://www.educationracetozero.org](https://www.educationracetozero.org)
- - date_published: 2024-07-20T15:44:25.173151+00:00
-
- ## Home
- - [https://educopia.org](https://educopia.org)
- - date_published: 2024-10-31T03:35:57.415617+00:00
-
- ## Home
- - [https://catalogue.edulib.org](https://catalogue.edulib.org)
- - date_published: 2024-09-16T00:54:32.888320+00:00
-
- ## Home
- - [https://www.edumed.org](https://www.edumed.org)
- - date_published: 2024-07-21T09:00:48+00:00
-
- ## The International Student Guide to studying in the USA
- - [http://edupass.org](http://edupass.org)
- - date_published: 2024-07-23T16:52:32+00:00
-
- ## EduPub - International Book Publisher
- - [https://edupediapublications.org](https://edupediapublications.org)
- - date_published: 2024-10-28T08:54:51+00:00
-
- ## eduroam Configuration Assistant Tool
- - [https://cat.eduroam.org](https://cat.eduroam.org)
- - date_published: 2024-07-19T05:45:30.908396+00:00
-
- ## Home
- - [https://edutopia.org](https://edutopia.org)
- - date_published: 2023-11-13T12:55:19.508453+00:00
-
- ## Log In ‹ Edutopia — WordPress
- - [https://wpvip.edutopia.org](https://wpvip.edutopia.org)
- - date_published: 2024-08-18T13:37:57.606351+00:00
-
- ## eduvaites
- - [https://eduvaites.org](https://eduvaites.org)
- - date_published: 2024-09-09T13:58:55+00:00
-
- ## Edward
- - [https://discourse.edwardlib.org](https://discourse.edwardlib.org)
- - date_published: 2024-05-06T21:49:17.839942+00:00
-
- ## Edward – Home
- - [https://edwardlib.org](https://edwardlib.org)
- - date_published: 2024-03-18T16:28:37+00:00
-
- ## Edward Said
- - [http://www.edwardsaid.org](http://www.edwardsaid.org)
- - date_published: 2024-10-21T18:57:32.185676+00:00
-
- ## Education Week - K-12 education news and information
- - [http://blogs.edweek.org](http://blogs.edweek.org)
- - date_published: 2022-12-28T10:00:55.347000+00:00
-
- ## Education Week - K-12 education news and information
- - [https://edweek.org](https://edweek.org)
- - date_published: 2022-12-28T10:00:55.347000+00:00
-
- ## K-12 Intel for Business Leaders - Market Brief
- - [https://marketbrief.edweek.org](https://marketbrief.edweek.org)
- - date_published: 2024-05-15T19:01:18.965000+00:00
-
- ## Build new skills. Advance your career.
- - [https://courses.edx.org](https://courses.edx.org)
- - date_published: 2024-09-03T21:30:03+00:00
 

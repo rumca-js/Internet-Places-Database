@@ -1,3 +1,35 @@
+ ## Health News | Latest Healthcare Sector & Healthcare Industry news, Information and Updates: ET HealthWorld
+ - [https://health.economictimes.indiatimes.com](https://health.economictimes.indiatimes.com)
+ - date_published: 2024-08-08T14:01:21+00:00
+
+ ## Hospitality | Latest Hospitality Industry Information and Updates: ET Hospitality
+ - [https://hospitality.economictimes.indiatimes.com](https://hospitality.economictimes.indiatimes.com)
+ - date_published: 2024-08-08T14:00:18+00:00
+
+ ## HR News | Latest HR sector Information and Updates: ETHRWorld
+ - [https://hr.economictimes.indiatimes.com](https://hr.economictimes.indiatimes.com)
+ - date_published: 2024-06-26T08:43:45+00:00
+
+ ## ET HREMEA | HR News Europe, Middle East and Africa | Latest HR Industry News
+ - [https://hrme.economictimes.indiatimes.com](https://hrme.economictimes.indiatimes.com)
+ - date_published: 2024-08-19T08:54:05+00:00
+
+ ## ET HRSEA- HR News Southeast Asia | Latest HR Industry Updates from Singapore, Malaysia, Thailand, Indonesia & The Philippines
+ - [https://hrsea.economictimes.indiatimes.com](https://hrsea.economictimes.indiatimes.com)
+ - date_published: 2024-08-19T08:54:53+00:00
+
+ ## Desktop
+ - [https://iagfeed.indiatimes.com](https://iagfeed.indiatimes.com)
+ - date_published: 2024-06-26T08:39:54+00:00
+
+ ## Latest Infrastructure News | ET Infra
+ - [https://infra.economictimes.indiatimes.com](https://infra.economictimes.indiatimes.com)
+ - date_published: 2024-06-16T19:50:15+00:00
+
+ ## Times Internet Ltd.
+ - [https://jsso.indiatimes.com](https://jsso.indiatimes.com)
+ - date_published: 2022-01-05T12:16:34+00:00
+
  ## Legal News | Latest Legal Industry News, Supreme Court News, Judgement and Updates: ET LegalWorld
  - [https://legal.economictimes.indiatimes.com](https://legal.economictimes.indiatimes.com)
  - date_published: 2024-08-19T08:55:27+00:00
@@ -3994,36 +4026,4 @@
  ## Renewals & Warranty Manager
  - [https://rwmanager.insight.com](https://rwmanager.insight.com)
  - date_published: 2024-09-15T09:58:49.991382+00:00
-
- ## Solutions and Systems Integrator | Computer Hardware, Software, Technology Services
- - [https://www.insight.com](https://www.insight.com)
- - date_published: 2024-09-15T09:58:52.048004+00:00
-
- ## Elevating Your Audit Experience | Insight Assurance
- - [https://insightassurance.com](https://insightassurance.com)
- - date_published: 2024-08-06T04:10:07+00:00
-
- ## Luxor: Eclipse of the Century tour with Sky & Telescope
- - [http://www.insightcruises.com](http://www.insightcruises.com)
- - date_published: 2024-06-20T16:08:06+00:00
-
- ## Insight
- - [https://blog.insightdatascience.com](https://blog.insightdatascience.com)
- - date_published: 2024-08-18T13:08:38.956243+00:00
-
- ## Insight Editions
- - [https://insighteditions.com](https://insighteditions.com)
- - date_published: 2024-09-13T16:56:44.502153+00:00
-
- ## Insight Global Careers
- - [https://careers.insightglobal.com](https://careers.insightglobal.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Evergreen
- - [https://evergreen.insightglobal.com](https://evergreen.insightglobal.com)
- - date_published: 2024-09-05T22:37:08+00:00
-
- ## Shop IG
- - [https://igstore.insightglobal.com](https://igstore.insightglobal.com)
- - date_published: 2024-08-20T00:00:00+00:00
 

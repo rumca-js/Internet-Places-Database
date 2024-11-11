@@ -1,3 +1,83 @@
+ ## Homepage - Crypto News
+ - [https://cryptonews.whatfinger.com](https://cryptonews.whatfinger.com)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Whatfinger Daily – The Relentless Pursuit of Creating The Greatest Aggregate Link News Site On Earth
+ - [https://daily.whatfinger.com](https://daily.whatfinger.com)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Entertainment News 24/7 Updates – Entertainment direct from all sources
+ - [https://entertainment.whatfinger.com](https://entertainment.whatfinger.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Humor Clips – Whatfinger Entertainment And Fun
+ - [https://entertainme.whatfinger.com](https://entertainme.whatfinger.com)
+ - date_published: 2024-09-19T20:08:23.430491+00:00
+
+ ## Homepage - Whatfinger News Food And Drink
+ - [https://food.whatfinger.com](https://food.whatfinger.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Whatfinger News' General Dispatch – Fake News Flounders With The Facts
+ - [https://generaldispatch.whatfinger.com](https://generaldispatch.whatfinger.com)
+ - date_published: 2024-09-19T20:07:24.906349+00:00
+
+ ## Health – Whatfinger
+ - [https://health.whatfinger.com](https://health.whatfinger.com)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Whatfinger News Vids - Main Stream Videos
+ - [https://mainstream.whatfinger.com](https://mainstream.whatfinger.com)
+ - date_published: 2024-06-15T21:20:55.479124+00:00
+
+ ## Military & War News – Military & War News Mashup
+ - [https://militarywar.whatfinger.com](https://militarywar.whatfinger.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Homepage - Whatfinger Business & Money & The World & News Mashup
+ - [https://money.whatfinger.com](https://money.whatfinger.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Whatfinger News Vids - Whatfinger Wire News
+ - [https://news.whatfinger.com](https://news.whatfinger.com)
+ - date_published: 2024-06-15T21:21:10.526602+00:00
+
+ ## Science & Tech Super Aggregate News Site – Science & Tech News from all sources
+ - [https://scitech.whatfinger.com](https://scitech.whatfinger.com)
+ - date_published: 2024-06-15T21:20:26.387836+00:00
+
+ ## Whatfinger Sports – Sports News Super-Aggregate
+ - [https://sports.whatfinger.com](https://sports.whatfinger.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Homepage - Whatfinger Startup And Small Business
+ - [https://startup.whatfinger.com](https://startup.whatfinger.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Homepage - Whatfinger News Summary
+ - [https://summarynews.whatfinger.com](https://summarynews.whatfinger.com)
+ - date_published: 2024-09-19T20:08:26.817827+00:00
+
+ ## top10 – Whatfinger
+ - [https://top10.whatfinger.com](https://top10.whatfinger.com)
+ - date_published: 2024-09-19T20:07:44.938422+00:00
+
+ ## Whatfinger News Vids - Whatfinger News - Videos
+ - [https://videos.whatfinger.com](https://videos.whatfinger.com)
+ - date_published: 2024-06-15T21:20:23.432171+00:00
+
+ ## Webmaster Partners
+ - [http://webmaster.whatfinger.com](http://webmaster.whatfinger.com)
+ - date_published: 2024-09-19T20:09:40.571996+00:00
+
+ ## Home - Whatfinger News®
+ - [https://whatfinger.com](https://whatfinger.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## searx
+ - [https://whatfingersearch.whatfinger.com](https://whatfingersearch.whatfinger.com)
+ - date_published: 2024-06-15T21:21:05.901830+00:00
+
  ## Whatfinger News Vids - World News
  - [https://worldnews.whatfinger.com](https://worldnews.whatfinger.com)
  - date_published: 2024-06-15T21:20:36.170231+00:00
@@ -3939,84 +4019,4 @@
  ## The SMG4/GLITCH Wiki
  - [http://supermarioglitchy4.wikia.com](http://supermarioglitchy4.wikia.com)
  - date_published: 2024-06-17T05:10:38+00:00
-
- ## Super Smash Bros. Fanon
- - [http://supersmashbrosfanon.wikia.com](http://supersmashbrosfanon.wikia.com)
- - date_published: 2024-06-17T08:16:26+00:00
-
- ## Smashpedia
- - [http://supersmashbros.wikia.com](http://supersmashbros.wikia.com)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Sushi Girl Wiki
- - [http://sushi-girl.wikia.com](http://sushi-girl.wikia.com)
- - date_published: 2024-10-24T04:10:52+00:00
-
- ## Kalle Anka Sverige Wiki
- - [http://sv.kalleankasverige.wikia.com](http://sv.kalleankasverige.wikia.com)
- - date_published: 2024-09-03T16:02:12+00:00
-
- ## Star Wars Wiki
- - [http://sv.starwars.wikia.com](http://sv.starwars.wikia.com)
- - date_published: 2024-06-17T23:10:40+00:00
-
- ## Star Wars: The Old Republic Wiki
- - [http://swtor.wikia.com](http://swtor.wikia.com)
- - date_published: 2024-06-17T16:51:37+00:00
-
- ## Synthwave Wiki
- - [https://synthwave.wikia.com](https://synthwave.wikia.com)
- - date_published: 2024-05-02T14:44:25.354512+00:00
-
- ## Takt Op. Wiki
- - [https://takt-op.wikia.com](https://takt-op.wikia.com)
- - date_published: 2024-10-23T06:54:57+00:00
-
- ## Tales of Erin Wiki
- - [https://talesoferin.wikia.com](https://talesoferin.wikia.com)
- - date_published: 2024-06-17T08:11:16+00:00
-
- ## Taylor Swift Wiki
- - [http://taylorswift.wikia.com](http://taylorswift.wikia.com)
- - date_published: 2024-10-25T09:47:15+00:00
-
- ## Tales From My D&D Campaign Wiki
- - [https://tddc.wikia.com](https://tddc.wikia.com)
- - date_published: 2024-05-13T03:24:00.165326+00:00
-
- ## Tearaway Wiki
- - [http://tearaway.wikia.com](http://tearaway.wikia.com)
- - date_published: 2024-06-17T20:06:31+00:00
-
- ## Teen Beach Movie Wiki
- - [http://teenbeachmovie.wikia.com](http://teenbeachmovie.wikia.com)
- - date_published: 2024-06-17T18:11:21+00:00
-
- ## Television Wiki
- - [http://television.wikia.com](http://television.wikia.com)
- - date_published: 2024-06-17T07:42:36+00:00
-
- ## Tensei Shitara Slime Datta Ken Wiki
- - [https://tensura.wikia.com](https://tensura.wikia.com)
- - date_published: 2024-06-17T06:53:06+00:00
-
- ## Terra Formars Wiki
- - [https://terraformars.wikia.com](https://terraformars.wikia.com)
- - date_published: 2024-06-17T02:38:47+00:00
-
- ## Terraria: Mobile Wiki
- - [http://terrariamobileversion.wikia.com](http://terrariamobileversion.wikia.com)
- - date_published: 2024-10-24T10:57:14+00:00
-
- ## The 100 Wiki
- - [http://the100.wikia.com](http://the100.wikia.com)
- - date_published: 2024-10-24T07:18:24+00:00
-
- ## The 7D Fanon Wikia
- - [http://the-7d-fanon.wikia.com](http://the-7d-fanon.wikia.com)
- - date_published: 2024-06-17T18:24:17+00:00
-
- ## The 7D Wiki
- - [http://the7d.wikia.com](http://the7d.wikia.com)
- - date_published: 2024-06-17T01:39:06+00:00
 

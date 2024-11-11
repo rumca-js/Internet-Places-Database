@@ -1,3 +1,36 @@
+ ## History Hit Shop - Best Gifts for History Lovers
+ - [https://shop.historyhit.com](https://shop.historyhit.com)
+ - date_published: 2024-08-19T09:28:07.195374+00:00
+
+ ## Historic Holidays and Trips | HistoryHit Travel
+ - [https://trips.historyhit.com](https://trips.historyhit.com)
+ - date_published: 2024-08-19T09:27:58.779210+00:00
+
+ ## History House Online
+ - [http://www.historyhouse.com](http://www.historyhouse.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## History In Coins - Hammered and Milled Coins of England Scotland and
+Ireland.
+ - [http://www.historyincoins.com](http://www.historyincoins.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
+ ## History Investor
+ - [https://historyinvestor.com](https://historyinvestor.com)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## History Investor Notes
+ - [https://notes.historyinvestor.com](https://notes.historyinvestor.com)
+ - date_published: 2024-05-08T04:03:47.788128+00:00
+
+ ## History Is A Weapon
+ - [http://www.historyisaweapon.com](http://www.historyisaweapon.com)
+ - date_published: 2024-10-21T18:49:11.735014+00:00
+
+ ## HistoryNet: Your Authoritative Source for U.S. & World History
+ - [https://historynet.com](https://historynet.com)
+ - date_published: 2023-10-25T14:59:55.420364+00:00
+
  ## History Magazines: Subscribe Today at HistoryNet.com!
  - [https://shop.historynet.com](https://shop.historynet.com)
  - date_published: 2024-08-19T09:27:52.277557+00:00
@@ -3997,36 +4030,4 @@
  ## PLANET HOLLYWOOD RESORT & CASINO 4⋆ ::: LAS VEGAS, NV ::: COMPARE HOTEL RATES
  - [https://planet-hollywood.hotelsinlasvegasnevada.com](https://planet-hollywood.hotelsinlasvegasnevada.com)
  - date_published: 2024-10-22T04:14:46.102895+00:00
-
- ## LA COPA INN 2⋆ ::: MCALLEN, TX ::: COMPARE HOTEL RATES
- - [https://la-copa-inn-78.hotels-in-mcallen.com](https://la-copa-inn-78.hotels-in-mcallen.com)
- - date_published: 2024-10-22T04:03:44.564553+00:00
-
- ## Farm stay Agroturismo Son Juaneda Ciutadella (Menorca), Spain - book now, 2024 prices
- - [https://agroturismo-son-juaneda-villa.hotels-in-menorca-island.com](https://agroturismo-son-juaneda-villa.hotels-in-menorca-island.com)
- - date_published: 2024-05-04T13:04:03.852480+00:00
-
- ## Menorca hotels & apartments, all accommodations in Menorca
- - [https://www.hotels-in-menorca-island.com](https://www.hotels-in-menorca-island.com)
- - date_published: 2024-06-21T16:21:09.555028+00:00
-
- ## New York City Hotels ★ Hotel Rooms In NYC » New York City Hotel Rooms ★ Official Site
- - [http://www.hotels-innewyorkcity.com](http://www.hotels-innewyorkcity.com)
- - date_published: 2023-08-29T17:44:06+00:00
-
- ## COLORS ON WHITE ::: FL, UNITED STATES ::: COMPARE RATES
- - [https://colors-on-white-apartment.hotelsinthekeywest.com](https://colors-on-white-apartment.hotelsinthekeywest.com)
- - date_published: 2024-10-22T04:02:41.760773+00:00
-
- ## NEW ORLEANS HOUSE - GAY MALE-ONLY GUESTHOUSE 2⋆ ::: FL, UNITED STATES ::: COMPARE HOTEL RATES
- - [https://new-orleans-house-all-gay-male-guesthouse.hotelsinthekeywest.com](https://new-orleans-house-all-gay-male-guesthouse.hotelsinthekeywest.com)
- - date_published: 2024-10-22T04:00:03.438622+00:00
-
- ## Apartment Apartment Barbara-1 By Interhome Fuegen, Austria - book now, 2024 prices
- - [https://apartment-barbara1.hotels-in-tyrol.com](https://apartment-barbara1.hotels-in-tyrol.com)
- - date_published: 2024-05-04T13:04:17.285211+00:00
-
- ## Tyrol hotels & apartments, all accommodations in Tyrol
- - [https://www.hotels-in-tyrol.com](https://www.hotels-in-tyrol.com)
- - date_published: 2024-06-21T16:24:08.032132+00:00
 

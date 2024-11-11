@@ -1,3 +1,181 @@
+ ## Swansea University
+ - [http://www.swan.ac.uk](http://www.swan.ac.uk)
+ - date_published: 2024-06-24T10:53:26.599328+00:00
+
+ ## Events at Swansea University
+ - [https://events.swansea.ac.uk](https://events.swansea.ac.uk)
+ - date_published: 2024-10-14T23:49:14.256254+00:00
+
+ ## The home of current students - Swansea University
+ - [https://myuni.swansea.ac.uk](https://myuni.swansea.ac.uk)
+ - date_published: 2024-10-14T23:49:21.852900+00:00
+
+ ## Sign in to your account
+ - [https://staff.swansea.ac.uk](https://staff.swansea.ac.uk)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Swansea University
+ - [https://www.swansea.ac.uk](https://www.swansea.ac.uk)
+ - date_published: 2024-06-16T22:22:46.946543+00:00
+
+ ## Tameside College Courses for School Leavers, Adults and Employers in Greater Manchester
+ - [https://www.tameside.ac.uk](https://www.tameside.ac.uk)
+ - date_published: 2024-08-06T11:06:12.450454+00:00
+
+ ## Journal of the British Academy
+ - [https://journal.thebritishacademy.ac.uk](https://journal.thebritishacademy.ac.uk)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Home
+ - [https://thebritishacademy.ac.uk](https://thebritishacademy.ac.uk)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## British Museum
+ - [http://www.thebritishmuseum.ac.uk](http://www.thebritishmuseum.ac.uk)
+ - date_published: 2024-06-24T10:20:32+00:00
+
+ ## LTE Group / The Manchester College
+ - [https://idp1.themanchestercollege.ac.uk](https://idp1.themanchestercollege.ac.uk)
+ - date_published: 2024-03-13T20:19:54+00:00
+
+ ## Trinity Laban Conservatoire of Music and Dance
+ - [https://www.trinitylaban.ac.uk](https://www.trinitylaban.ac.uk)
+ - date_published: 2024-09-16T03:40:56.937711+00:00
+
+ ## Home | The Alan Turing Institute
+ - [https://www.turing.ac.uk](https://www.turing.ac.uk)
+ - date_published: 2024-06-15T19:35:52+00:00
+
+ ## Tyndall Centre for Climate Change Research
+ - [https://tyndall.ac.uk](https://tyndall.ac.uk)
+ - date_published: 2021-07-23T08:41:09+00:00
+
+ ## University of Cambridge
+ - [http://www.ucam.ac.uk](http://www.ucam.ac.uk)
+ - date_published: 2024-07-07T10:43:22+00:00
+
+ ## UCL Blockchain
+ - [http://blockchain.cs.ucl.ac.uk](http://blockchain.cs.ucl.ac.uk)
+ - date_published: 2024-07-11T12:56:23.712179+00:00
+
+ ## UCL UCL Blogs
+ - [http://blogs.ucl.ac.uk](http://blogs.ucl.ac.uk)
+ - date_published: 2024-06-17T10:42:48+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [https://cdn.ucl.ac.uk](https://cdn.ucl.ac.uk)
+ - date_published: 2024-06-23T20:45:32.318819+00:00
+
+ ## UCL Centre for Research on Evolution, Search and Testing (CREST)
+ - [http://crest.cs.ucl.ac.uk](http://crest.cs.ucl.ac.uk)
+ - date_published: 2019-12-27T08:24:11+00:00
+
+ ## UCL Discovery 
+      -
+      UCL Discovery
+ - [https://discovery.ucl.ac.uk](https://discovery.ucl.ac.uk)
+ - date_published: 2024-04-29T03:31:19.059512+00:00
+
+ ## SGP | UCL
+ - [http://geometry.cs.ucl.ac.uk](http://geometry.cs.ucl.ac.uk)
+ - date_published: 2024-06-22T09:03:20.495023+00:00
+
+ ## University College London research repository - Browse
+ - [https://rdr.ucl.ac.uk](https://rdr.ucl.ac.uk)
+ - date_published: 2024-06-15T21:23:36.668793+00:00
+
+ ## Sign in to your account
+ - [https://rps.ucl.ac.uk](https://rps.ucl.ac.uk)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## UCL Information Security Research Group (UCL ISec)
+ - [https://sec.cs.ucl.ac.uk](https://sec.cs.ucl.ac.uk)
+ - date_published: 2024-05-06T15:12:24.771658+00:00
+
+ ## Home Page
+ - [https://shop.ucl.ac.uk](https://shop.ucl.ac.uk)
+ - date_published: 2024-05-02T11:09:27.827961+00:00
+
+ ## UCL – University College London
+ - [https://ucl.ac.uk](https://ucl.ac.uk)
+ - date_published: 2024-06-21T10:28:12+00:00
+
+ ## VECG
+ - [http://vecg.cs.ucl.ac.uk](http://vecg.cs.ucl.ac.uk)
+ - date_published: 2020-12-09T20:43:51+00:00
+
+ ## Visual at UCL
+ - [http://visual.cs.ucl.ac.uk](http://visual.cs.ucl.ac.uk)
+ - date_published: 2014-04-11T10:16:34+00:00
+
+ ## UCL Computer Science
+ - [http://www0.cs.ucl.ac.uk](http://www0.cs.ucl.ac.uk)
+ - date_published: 2018-07-04T14:27:51+00:00
+
+ ## Wellcome Centre for Human Neuroimaging | FIL | UCL
+ - [http://www.fil.ion.ucl.ac.uk](http://www.fil.ion.ucl.ac.uk)
+ - date_published: 2024-06-23T09:42:01.736393+00:00
+
+ ## PERSONAL WEB PAGE DISCLAIMER
+ - [http://www.homepages.ucl.ac.uk](http://www.homepages.ucl.ac.uk)
+ - date_published: 2018-03-21T09:42:43+00:00
+
+ ## UCL Faculty of Laws
+ - [http://www.laws.ucl.ac.uk](http://www.laws.ucl.ac.uk)
+ - date_published: 2017-08-18T14:03:12+00:00
+
+ ## UCL School of Management
+ - [https://www.mgmt.ucl.ac.uk](https://www.mgmt.ucl.ac.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Resources and Tools in Speech, Hearing and Phonetics
+ - [http://www.phon.ucl.ac.uk](http://www.phon.ucl.ac.uk)
+ - date_published: 2024-07-02T05:40:35.850541+00:00
+
+ ## UEA WA&VE - Login
+ - [https://testwave.uea.ac.uk](https://testwave.uea.ac.uk)
+ - date_published: 2024-05-02T11:09:52.582715+00:00
+
+ ## UEA WA&VE - Login
+ - [https://uatwave.uea.ac.uk](https://uatwave.uea.ac.uk)
+ - date_published: 2024-05-02T11:09:42.058992+00:00
+
+ ## Find your place at UEA
+ - [https://uea.ac.uk](https://uea.ac.uk)
+ - date_published: 2024-10-20T08:13:28.142634+00:00
+
+ ## Vacancy Search Results - UEA
+ - [https://vacancies.uea.ac.uk](https://vacancies.uea.ac.uk)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## UEA WA&VE - Login
+ - [https://wave.uea.ac.uk](https://wave.uea.ac.uk)
+ - date_published: 2024-05-02T11:09:54.387993+00:00
+
+ ## Climatic Research Unit
+ - [http://www.cru.uea.ac.uk](http://www.cru.uea.ac.uk)
+ - date_published: 2024-06-27T07:44:10.509640+00:00
+
+ ## Home
+ - [http://www.cs.ukc.ac.uk](http://www.cs.ukc.ac.uk)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## UKOLN Home Page
+ - [http://www.ukoln.ac.uk](http://www.ukoln.ac.uk)
+ - date_published: 2015-07-31T15:57:45+00:00
+
+ ## CAIN: Northern Ireland Conflict, Politics, and Society.  Information on 'the troubles'.
+ - [http://cain.ulst.ac.uk](http://cain.ulst.ac.uk)
+ - date_published: 2024-06-12T11:43:42+00:00
+
+ ## Ulster University
+ - [https://pure.ulster.ac.uk](https://pure.ulster.ac.uk)
+ - date_published: 2024-07-12T23:52:23.747750+00:00
+
+ ## Ulster University Branch Campuses
+ - [https://qa.ulster.ac.uk](https://qa.ulster.ac.uk)
+ - date_published: 2024-06-26T00:00:00+00:00
+
  ## Welcome to Ulster University
  - [https://ulster.ac.uk](https://ulster.ac.uk)
  - date_published: 2024-05-10T06:48:53.308875+00:00
@@ -3841,180 +4019,4 @@ Anglesey - PC Repairs & Upgrades
  ## Amazon.com: Books
  - [http://www.bookdepository.co.uk](http://www.bookdepository.co.uk)
  - date_published: 2024-06-24T00:00:00+00:00
-
- ## BookEntertainment UK | Book entertainment for your event instantly!
- - [https://bookentertainment.co.uk](https://bookentertainment.co.uk)
- - date_published: 2024-10-21T03:43:13.062452+00:00
-
- ## Booker Wholesale UK | Wholesaler | Foodservice | Cash & Carry | Booker.co.uk
- - [https://www.booker.co.uk](https://www.booker.co.uk)
- - date_published: 2024-10-07T21:39:29.015564+00:00
-
- ## Bookmarks Home Page
- - [https://bookmarksbookshop.co.uk](https://bookmarksbookshop.co.uk)
- - date_published: 2024-10-21T18:55:52.924214+00:00
-
- ## Book Protectors
- - [https://bookprotectors.co.uk](https://bookprotectors.co.uk)
- - date_published: 2024-08-12T04:28:46.603351+00:00
-
- ## Home - The Bookroom Art Press
- - [https://www.bookroomartpress.co.uk](https://www.bookroomartpress.co.uk)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Books First Blog | A great eye for good books
- - [https://booksfirst.co.uk](https://booksfirst.co.uk)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## We are a digital agency dedicated to the world of books
- - [https://bookswarm.co.uk](https://bookswarm.co.uk)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## book word
- - [http://www.bookword.co.uk](http://www.bookword.co.uk)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Boommarketing | Full Service Creative Marketing Agency West Yorkshire
- - [https://boommarketing.co.uk](https://boommarketing.co.uk)
- - date_published: 2024-10-20T16:36:07.357999+00:00
-
- ## The UK's Food, Wine and Grocery Store | Booths Supermarket
- - [https://www.booths.co.uk](https://www.booths.co.uk)
- - date_published: 2024-10-17T07:20:08+00:00
-
- ## Home
- - [http://www.bosch.co.uk](http://www.bosch.co.uk)
- - date_published: 2024-10-14T04:15:06+00:00
-
- ## Bosch home appliances: Experience quality, reliability and precision | Bosch UK
- - [https://www.bosch-home.co.uk](https://www.bosch-home.co.uk)
- - date_published: 2024-06-16T21:36:54.690497+00:00
-
- ## Bose | Headphones, Speakers, Wearables
- - [https://www.bose.co.uk](https://www.bose.co.uk)
- - date_published: 2024-10-20T13:37:40.921246+00:00
-
- ## No Win No Fee Solicitors | Bott and Co
- - [https://www.bottonline.co.uk](https://www.bottonline.co.uk)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Best Gaming Chairs UK - Boulies Chairs
- - [https://boulies.co.uk](https://boulies.co.uk)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Bounce Sales & Marketing
- - [http://www.bouncemarketing.co.uk](http://www.bouncemarketing.co.uk)
- - date_published: 2024-10-20T23:45:16.476180+00:00
-
- ## Bournemouth and Poole News, Sport, Events - Bournemouth Echo
- - [https://bournemouthecho.co.uk](https://bournemouthecho.co.uk)
- - date_published: 2024-05-08T09:36:05.796826+00:00
-
- ## Bournemouth Echo Business Directory
- - [https://directory.bournemouthecho.co.uk](https://directory.bournemouthecho.co.uk)
- - date_published: 2024-07-07T06:12:43.784286+00:00
-
- ## Bournemouth Echo
- - [http://leap.bournemouthecho.co.uk](http://leap.bournemouthecho.co.uk)
- - date_published: 2024-07-07T06:12:39+00:00
-
- ## Creamy, Crumbly Intense Cheese | Boursin Cheese
- - [https://www.boursin.co.uk](https://www.boursin.co.uk)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## We are BOXPARK. Street Food | Bars | Events | BOXPARK
- - [http://www.boxpark.co.uk](http://www.boxpark.co.uk)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## About us
- - [https://boxtube.co.uk](https://boxtube.co.uk)
- - date_published: 2024-05-07T10:16:06.079671+00:00
-
- ## Ray Bradbury - Books, Stories, Films, TV
- - [http://www.bradburymedia.co.uk](http://www.bradburymedia.co.uk)
- - date_published: 2020-08-21T07:31:30+00:00
-
- ## Bradford Literature Festival | 27 June - 6 July 2025
- - [https://www.bradfordlitfest.co.uk](https://www.bradfordlitfest.co.uk)
- - date_published: 2024-10-18T18:01:22.349333+00:00
-
- ## Artist | Bradley Childs
- - [https://www.bradleychilds.co.uk](https://www.bradleychilds.co.uk)
- - date_published: 2024-07-04T01:54:16.409364+00:00
-
- ## Milton Keynes Brass Band | Bradwell Silver Band
- - [https://bradwellband.co.uk](https://bradwellband.co.uk)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Braehead – home to fashion, food & fun
- - [https://www.braehead.co.uk](https://www.braehead.co.uk)
- - date_published: 2024-08-08T03:21:02.379494+00:00
-
- ## Brainsteam
- - [https://brainsteam.co.uk](https://brainsteam.co.uk)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## Brand-ing | Website design | graphic design | plexal | E20 3BS
- - [http://brand-ing.co.uk](http://brand-ing.co.uk)
- - date_published: 2024-06-26T08:57:36.806271+00:00
-
- ## The Steampunk Forum at Brass Goggles - Index
- - [http://brassgoggles.co.uk](http://brassgoggles.co.uk)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## breadNET
- - [http://breadnet.co.uk](http://breadnet.co.uk)
- - date_published: 2024-08-18T04:32:33.759214+00:00
-
- ## Breaking Convention
- - [http://breakingconvention.co.uk](http://breakingconvention.co.uk)
- - date_published: 2024-08-05T20:12:43+00:00
-
- ## Breakthrough Assault – The Ultimate Wargaming & Miniatures Blog
- - [https://breakthroughassault.co.uk](https://breakthroughassault.co.uk)
- - date_published: 2024-06-19T15:08:34.681812+00:00
-
- ## Brendan O’Neill
- - [http://brendanoneill.co.uk](http://brendanoneill.co.uk)
- - date_published: 2013-09-27T00:00:00+00:00
-
- ## science fiction grandmaster & author of English prose
- - [https://brianaldiss.co.uk](https://brianaldiss.co.uk)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## The Official Home Of Brian May Guitars
- - [https://shop.brianmayguitars.co.uk](https://shop.brianmayguitars.co.uk)
- - date_published: 2024-10-17T12:03:44.904536+00:00
-
- ## Brickabrac - Retired LEGO sets Star Wars LEGO and Polybags specialist
- - [https://brickabrac.co.uk](https://brickabrac.co.uk)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## Brick Court Chambers
- - [https://brickcourt.co.uk](https://brickcourt.co.uk)
- - date_published: 2024-10-18T22:07:50.625967+00:00
-
- ## Home - Bridge Command
- - [https://bridgecommand.co.uk](https://bridgecommand.co.uk)
- - date_published: 2024-05-09T09:10:13.491230+00:00
-
- ## Bridgeman Images | Art, Culture and History images and videos for licensing
- - [https://www.bridgemanimages.co.uk](https://www.bridgemanimages.co.uk)
- - date_published: 2024-10-20T07:33:27.368299+00:00
-
- ## Bridge Agency | Model and Influencer Agency in London and New York
- - [https://www.bridgemodels.co.uk](https://www.bridgemodels.co.uk)
- - date_published: 2024-10-16T01:24:32.509857+00:00
-
- ## Web Design Kent | Creative & Effective Websites | Bridget Designs
- - [http://www.bridgetdesigns.co.uk](http://www.bridgetdesigns.co.uk)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## The Bridgewater Hall, Manchester
- - [https://www.bridgewater-hall.co.uk](https://www.bridgewater-hall.co.uk)
- - date_published: 2024-06-29T05:17:26.829592+00:00
-
- ## Bridgeway Consulting Limited
- - [https://www.bridgeway-aerial.co.uk](https://www.bridgeway-aerial.co.uk)
- - date_published: 2024-07-20T09:57:44.027784+00:00
 

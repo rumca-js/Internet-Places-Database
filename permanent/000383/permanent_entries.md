@@ -1,3 +1,155 @@
+ ## Home - ReelAbilities International
+ - [https://reelabilities.org](https://reelabilities.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Jim Rees
+ - [https://jim.rees.org](https://jim.rees.org)
+ - date_published: 2024-06-10T22:55:04+00:00
+
+ ## Glamour Reese Witherspoon – reese-witherspoon.org
+ - [http://www.reese-witherspoon.org](http://www.reese-witherspoon.org)
+ - date_published: 2024-09-04T02:48:19.571265+00:00
+
+ ## ReFindit
+ - [https://refindit.org](https://refindit.org)
+ - date_published: 2021-10-13T11:09:11+00:00
+
+ ## RefLaw - Referencing Law - Public, Criminal and More
+ - [https://reflaw.org](https://reflaw.org)
+ - date_published: 2024-10-18T21:14:40.130741+00:00
+
+ ## Reflection Group on the 2030 Agenda for Sustainable Developmet
+ - [http://www.reflectiongroup.org](http://www.reflectiongroup.org)
+ - date_published: 2024-08-19T12:57:58+00:00
+
+ ## Build something amazing.
+ - [https://reflexjs.org](https://reflexjs.org)
+ - date_published: 2024-08-06T05:24:46.989316+00:00
+
+ ## International Drug Policy Reform Conference
+ - [http://www.reformconference.org](http://www.reformconference.org)
+ - date_published: 2024-10-21T13:08:41.122988+00:00
+
+ ## Home - Reform Pharma Now
+ - [https://reformpharmanow.org](https://reformpharmanow.org)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home - Refract | The Seattle Glass Experience
+ - [http://www.refractseattle.org](http://www.refractseattle.org)
+ - date_published: 2024-10-21T20:03:35.340316+00:00
+
+ ## Refrakt
+ - [http://refrakt.org](http://refrakt.org)
+ - date_published: 2024-10-29T14:04:21.257956+00:00
+
+ ## ReFrame
+ - [https://www.reframeproject.org](https://www.reframeproject.org)
+ - date_published: 2024-07-03T16:20:08.173766+00:00
+
+ ## Refresh DC – The best and brightest new media professionals in the DC metro area
+ - [https://refresh-dc.org](https://refresh-dc.org)
+ - date_published: 2024-07-02T20:42:27.496313+00:00
+
+ ## REFSQ 2021
+ - [https://2021.refsq.org](https://2021.refsq.org)
+ - date_published: 2024-08-06T04:30:04.274688+00:00
+
+ ## REFSQ 2022
+ - [https://2022.refsq.org](https://2022.refsq.org)
+ - date_published: 2024-08-06T04:29:58.345259+00:00
+
+ ## REFSQ 2023
+ - [https://2023.refsq.org](https://2023.refsq.org)
+ - date_published: 2024-08-06T04:28:18.564222+00:00
+
+ ## REFSQ 2024
+ - [https://2024.refsq.org](https://2024.refsq.org)
+ - date_published: 2024-08-06T04:30:40.609142+00:00
+
+ ## REFSQ 2025
+ - [https://2025.refsq.org](https://2025.refsq.org)
+ - date_published: 2024-08-06T04:30:33.080385+00:00
+
+ ## The Refugee Advocacy Lab
+ - [https://www.refugeeadvocacylab.org](https://www.refugeeadvocacylab.org)
+ - date_published: 2024-10-29T11:29:07.947027+00:00
+
+ ## Global Voices for Rights and Refuge - Refugees International
+ - [https://www.refugeesinternational.org](https://www.refugeesinternational.org)
+ - date_published: 2024-06-19T15:42:02.197656+00:00
+
+ ## Information and support on tech abuse | Refuge Tech Safety
+ - [https://refugetechsafety.org](https://refugetechsafety.org)
+ - date_published: 2024-10-20T22:20:11.509911+00:00
+
+ ## Home - Refusing to Forget
+ - [https://refusingtoforget.org](https://refusingtoforget.org)
+ - date_published: 2018-11-27T09:16:54+00:00
+
+ ## Refworld | UNHCR's Global Law and Policy Database
+ - [https://www.refworld.org](https://www.refworld.org)
+ - date_published: 2024-06-14T20:08:50+00:00
+
+ ## Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
+ - [https://blog.regehr.org](https://blog.regehr.org)
+ - date_published: 2023-10-25T22:02:51.074554+00:00
+
+ ## Regeneration International
+ - [https://regenerationinternational.org](https://regenerationinternational.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Initiative Regenerative Marktwirtschaft | Thomas Schindler | Substack
+ - [https://blog.regenerativemarktwirtschaft.org](https://blog.regenerativemarktwirtschaft.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## New Wohlstand
+ - [https://podcast.regenerativemarktwirtschaft.org](https://podcast.regenerativemarktwirtschaft.org)
+ - date_published: 2024-07-12T20:13:04.914298+00:00
+
+ ## IRM | Initiative Regenerative Marktwirtschaft
+ - [https://regenerativemarktwirtschaft.org](https://regenerativemarktwirtschaft.org)
+ - date_published: 2024-04-23T15:24:37+00:00
+
+ ## Regent: a Language for Implicit Task-based Parallelism | Regent
+ - [https://regent-lang.org](https://regent-lang.org)
+ - date_published: 2023-03-28T05:47:07+00:00
+
+ ## Regen Tribe – We empower the creation, growth, and success of Regenerative Neighborhoods
+ - [https://regentribe.org](https://regentribe.org)
+ - date_published: 2024-09-12T18:52:02.099316+00:00
+
+ ## Regex Licensing
+ - [https://regexlicensing.org](https://regexlicensing.org)
+ - date_published: 2023-10-25T22:02:53.291382+00:00
+
+ ## The Regional Studies Association
+ - [https://www.regionalstudies.org](https://www.regionalstudies.org)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## REGULACE.ORG - HW & SW Development
+ - [http://www.regulace.org](http://www.regulace.org)
+ - date_published: 2024-10-16T10:59:38.033206+00:00
+
+ ## AI Regulations, Artificial Intelligence Regulation - RegulatingAI
+ - [https://regulatingai.org](https://regulatingai.org)
+ - date_published: 2024-10-31T10:36:20.313011+00:00
+
+ ## The Robert E. Howard Foundation
+ - [http://www.rehfoundation.org](http://www.rehfoundation.org)
+ - date_published: 2024-07-20T09:25:58.445475+00:00
+
+ ## Jim Rehg
+ - [http://rehg.org](http://rehg.org)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Reid Hoffman
+ - [http://reidhoffman.org](http://reidhoffman.org)
+ - date_published: 2024-07-03T22:25:37.434578+00:00
+
+ ## REI Cooperative Action Fund
+ - [https://www.reifund.org](https://www.reifund.org)
+ - date_published: 2024-06-21T14:32:54+00:00
+
  ## Liga Indonesia⚽️Situs Judi Bola Liga Indonesia Terpercaya 2024
  - [https://reijatim.org](https://reijatim.org)
  - date_published: 2024-07-07T02:40:54.664748+00:00
@@ -3889,156 +4041,4 @@
  ## Safecast
  - [https://safecast.org](https://safecast.org)
  - date_published: 2024-04-29T02:46:09.043530+00:00
-
- ## Safecast
- - [http://shop.safecast.org](http://shop.safecast.org)
- - date_published: 2024-07-09T09:34:56.741477+00:00
-
- ## Home - SAFECode
- - [https://safecode.org](https://safecode.org)
- - date_published: 2023-06-22T00:00:00+00:00
-
- ## Beyond Everyday Banking | SAFE Credit Union
- - [https://blog.safecu.org](https://blog.safecu.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Links | SAFE Credit Union
- - [https://info.safecu.org](https://info.safecu.org)
- - date_published: 2024-06-15T08:08:57+00:00
-
- ## SAFE Credit Union
- - [https://safecu.org](https://safecu.org)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## SAFE Credit Union
- - [https://share.safecu.org](https://share.safecu.org)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.safecuhb.org](https://www.safecuhb.org)
- - date_published: 2024-06-16T07:15:07.697901+00:00
-
- ## Safer Digital Intimacy
- - [https://www.safedigitalintimacy.org](https://www.safedigitalintimacy.org)
- - date_published: 2024-07-22T07:26:45.053573+00:00
-
- ## Electrical Safety: Nationally Recognized Safe Electricity® - Safe Electricity
- - [https://safeelectricity.org](https://safeelectricity.org)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Safeguarding Sunday
- - [https://safeguardingsunday.org](https://safeguardingsunday.org)
- - date_published: 2024-08-19T21:34:25.217295+00:00
-
- ## Safe Harbor | Greenville, SC
- - [https://www.safeharborsc.org](https://www.safeharborsc.org)
- - date_published: 2024-10-30T04:27:09.167307+00:00
-
- ## NCH Safe & Healthy Children's Coalition of Collier County
- - [https://www.safehealthychildren.org](https://www.safehealthychildren.org)
- - date_published: 2024-07-03T14:49:02.899175+00:00
-
- ## Home | Safe helpline
- - [https://safehelpline.org](https://safehelpline.org)
- - date_published: 2024-05-22T13:55:13.173438+00:00
-
- ## Safe Helpline
- - [https://shop.safehelpline.org](https://shop.safehelpline.org)
- - date_published: 2024-07-20T21:12:05.225485+00:00
-
- ## Home page - Safe Housing Partnerships
- - [https://safehousingpartnerships.org](https://safehousingpartnerships.org)
- - date_published: 2024-10-27T09:47:08.553649+00:00
-
- ## Mental Health Charity for Gamers - Safe In Our World
- - [https://safeinourworld.org](https://safeinourworld.org)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Autonomi Forum (Safe)
- - [https://safenetforum.org](https://safenetforum.org)
- - date_published: 2024-09-14T08:39:07.431834+00:00
-
- ## SAFE PLN
- - [https://www.safepln.org](https://www.safepln.org)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Home
- - [https://safergamblinguk.org](https://safergamblinguk.org)
- - date_published: 2024-10-13T08:02:36.635420+00:00
-
- ## Home - Safer Internet Day - BIK Community
- - [https://saferinternet.org](https://saferinternet.org)
- - date_published: 2024-05-07T23:43:41.152318+00:00
-
- ## Home - Safer Internet Day - BIK Community
- - [https://www.saferinternetday.org](https://www.saferinternetday.org)
- - date_published: 2024-06-18T10:23:23.594442+00:00
-
- ## Safe & Secure AI Innovation Act
- - [https://safesecureai.org](https://safesecureai.org)
- - date_published: 2024-05-07T16:01:18.459250+00:00
-
- ## SAFE Summit 2025
- - [https://safesummit.org](https://safesummit.org)
- - date_published: 2024-07-09T14:47:07+00:00
-
- ## SafeToC –
- - [https://safetoc.org](https://safetoc.org)
- - date_published: 2024-04-30T04:59:28.764769+00:00
-
- ## Safe to Compete
- - [https://www.safetocompete.org](https://www.safetocompete.org)
- - date_published: 2023-11-28T00:00:00+00:00
-
- ## Safety First PDX
- - [http://safetyfirstpdx.org](http://safetyfirstpdx.org)
- - date_published: 2019-11-25T21:25:59+00:00
-
- ## SafetyNest by Branch
- - [https://www.safetynest.org](https://www.safetynest.org)
- - date_published: 2023-01-13T00:00:00+00:00
-
- ## Southern African Legal Information Institute
- - [http://www.saflii.org](http://www.saflii.org)
- - date_published: 2024-08-18T10:27:34.011986+00:00
-
- ## Index - Icelandic Saga Database
- - [http://sagadb.org](http://sagadb.org)
- - date_published: 2022-01-11T13:27:54+00:00
-
- ## SaGa Wiki
- - [https://sagawiki.org](https://sagawiki.org)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Sage
- - [https://sage-future.org](https://sage-future.org)
- - date_published: 2024-06-21T11:38:06.524811+00:00
-
- ## Planet Sage
- - [https://planet.sagemath.org](https://planet.sagemath.org)
- - date_published: 2020-12-03T00:00:00+00:00
-
- ## Sage Cell Server
- - [https://sagecell.sagemath.org](https://sagecell.sagemath.org)
- - date_published: 2024-08-18T13:50:28.197991+00:00
-
- ## SageMath Mathematical Software System - Sage
- - [http://sagemath.org](http://sagemath.org)
- - date_published: 2024-03-20T14:23:05+00:00
-
- ## SageWiki - Sagemath Wiki
- - [https://wiki.sagemath.org](https://wiki.sagemath.org)
- - date_published: 2024-06-30T09:07:37.193922+00:00
-
- ## SAGE – Advocacy & Services for LGBTQ+ Elders
- - [https://www.sageusa.org](https://www.sageusa.org)
- - date_published: 2018-03-19T00:00:00+00:00
-
- ## Blog Sagrada Família
- - [https://blog.sagradafamilia.org](https://blog.sagradafamilia.org)
- - date_published: 2024-09-17T21:23:51.391531+00:00
-
- ## La Sagrada Familia inspirará al mundo
- - [https://giving.sagradafamilia.org](https://giving.sagradafamilia.org)
- - date_published: 2024-09-17T21:23:58.297739+00:00
 

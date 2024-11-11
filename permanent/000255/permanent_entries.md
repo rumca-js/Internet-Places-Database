@@ -1,3 +1,95 @@
+ ## Alleluia Conference
+ - [https://alleluia.music.baylor.edu](https://alleluia.music.baylor.edu)
+ - date_published: 2022-12-12T10:54:00+00:00
+
+ ## Alumni-Elected Regents
+ - [https://alumniregents.web.baylor.edu](https://alumniregents.web.baylor.edu)
+ - date_published: 2021-12-10T09:43:00+00:00
+
+ ## Alumni
+ - [https://alumni.web.baylor.edu](https://alumni.web.baylor.edu)
+ - date_published: 2023-07-05T13:18:00+00:00
+
+ ## American Studies
+ - [https://americanstudies.artsandsciences.baylor.edu](https://americanstudies.artsandsciences.baylor.edu)
+ - date_published: 2022-03-15T10:54:00+00:00
+
+ ## Department of Anthropology
+ - [https://anthropology.artsandsciences.baylor.edu](https://anthropology.artsandsciences.baylor.edu)
+ - date_published: 2023-08-23T11:31:00+00:00
+
+ ## Undergraduate Admissions
+ - [https://apply.baylor.edu](https://apply.baylor.edu)
+ - date_published: 2022-05-20T15:32:00+00:00
+
+ ## Aquatic Ecology Lab - Ryan S. King
+ - [https://aquaticlab.artsandsciences.baylor.edu](https://aquaticlab.artsandsciences.baylor.edu)
+ - date_published: 2023-01-20T09:30:00+00:00
+
+ ## Anesthesia Nursing DNP Program
+ - [https://armydnp.nursing.baylor.edu](https://armydnp.nursing.baylor.edu)
+ - date_published: 2023-04-04T15:47:00+00:00
+
+ ## Military Science Dept. - Army ROTC
+ - [https://armyrotc.artsandsciences.baylor.edu](https://armyrotc.artsandsciences.baylor.edu)
+ - date_published: 2022-11-21T10:53:00+00:00
+
+ ## Department of Art and Art History
+ - [https://art.artsandsciences.baylor.edu](https://art.artsandsciences.baylor.edu)
+ - date_published: 2023-05-08T13:19:00+00:00
+
+ ## College of Arts & Sciences
+ - [https://artsandsciences.baylor.edu](https://artsandsciences.baylor.edu)
+ - date_published: 2022-12-12T15:02:00+00:00
+
+ ## Baylor Athletics
+ - [https://athletics.web.baylor.edu](https://athletics.web.baylor.edu)
+ - date_published: 2023-11-10T08:46:00+00:00
+
+ ## Home
+ - [https://atl.web.baylor.edu](https://atl.web.baylor.edu)
+ - date_published: 2023-09-28T09:02:00+00:00
+
+ ## Baylor Institute for Aviation Sciences
+ - [https://aviation.artsandsciences.baylor.edu](https://aviation.artsandsciences.baylor.edu)
+ - date_published: 2023-04-13T09:43:00+00:00
+
+ ## Beauchamp Addiction Recovery Center
+ - [https://barc.web.baylor.edu](https://barc.web.baylor.edu)
+ - date_published: 2022-11-11T07:48:00+00:00
+
+ ## Baylor & Beyond LLC
+ - [https://baylorandbeyondllc.web.baylor.edu](https://baylorandbeyondllc.web.baylor.edu)
+ - date_published: 2023-03-02T14:37:00+00:00
+
+ ## Baptist and Christian Character of Baylor
+ - [https://baylorcharacter.web.baylor.edu](https://baylorcharacter.web.baylor.edu)
+ - date_published: 2021-10-19T09:07:00+00:00
+
+ ## Baylor University | A Nationally Ranked Christian University, Undergraduate & Graduate Research Colleges Universities Schools in Texas
+ - [https://baylor.edu](https://baylor.edu)
+ - date_published: 2022-12-22T14:00:00+00:00
+
+ ## Baylor Proud
+ - [https://baylorproud.web.baylor.edu](https://baylorproud.web.baylor.edu)
+ - date_published: 2023-04-25T16:28:00+00:00
+
+ ## Baylor Religion Survey
+ - [https://baylorreligionsurvey.research.baylor.edu](https://baylorreligionsurvey.research.baylor.edu)
+ - date_published: 2023-09-14T14:11:00+00:00
+
+ ## Baylor University
+ - [https://bbis.baylor.edu](https://bbis.baylor.edu)
+ - date_published: 2024-04-30T03:15:01.030395+00:00
+
+ ## Fall 2023 - Baylor Business Review | Fall 2023 Issue
+ - [https://bbr.baylor.edu](https://bbr.baylor.edu)
+ - date_published: 2024-06-18T16:17:11.290109+00:00
+
+ ## Baylor Center for Developmental Disabilities
+ - [https://bcdd.soe.baylor.edu](https://bcdd.soe.baylor.edu)
+ - date_published: 2023-06-12T13:48:00+00:00
+
  ## Baylor Center for School Leadership | Baylor University
  - [https://bcsl.soe.baylor.edu](https://bcsl.soe.baylor.edu)
  - date_published: 2022-11-21T11:10:00+00:00
@@ -3911,96 +4003,4 @@
  ## About
  - [https://about.byuh.edu](https://about.byuh.edu)
  - date_published: 2024-07-17T03:07:33.508836+00:00
-
- ## Brigham Young University–Hawaii
- - [https://byuh.edu](https://byuh.edu)
- - date_published: 2024-05-12T07:41:54.262140+00:00
-
- ## Counseling Services
- - [https://counseling.byuh.edu](https://counseling.byuh.edu)
- - date_published: 2024-07-17T03:07:54.326913+00:00
-
- ## Disability Services
- - [https://disability.byuh.edu](https://disability.byuh.edu)
- - date_published: 2024-07-17T03:07:35.834655+00:00
-
- ## University Events
- - [https://events.byuh.edu](https://events.byuh.edu)
- - date_published: 2024-07-17T03:07:40.234579+00:00
-
- ## Hoʻokele
- - [https://hookele.byuh.edu](https://hookele.byuh.edu)
- - date_published: 2024-07-17T03:07:46.403318+00:00
-
- ## Human Resources
- - [https://hr.byuh.edu](https://hr.byuh.edu)
- - date_published: 2024-07-17T03:07:37.533493+00:00
-
- ## Legal Notices
- - [https://legal.byuh.edu](https://legal.byuh.edu)
- - date_published: 2024-07-17T03:08:02.289461+00:00
-
- ## Joseph F. Smith Library
- - [https://library.byuh.edu](https://library.byuh.edu)
- - date_published: 2024-07-17T03:08:06.660945+00:00
-
- ## Brigham Young University-Hawaii
- - [https://map.byuh.edu](https://map.byuh.edu)
- - date_published: 2024-07-17T03:07:31.420810+00:00
-
- ## BYU–Hawaii
- - [https://my.byuh.edu](https://my.byuh.edu)
- - date_published: 2024-07-17T03:07:44.401452+00:00
-
- ## News Homepage
- - [https://news.byuh.edu](https://news.byuh.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## News Homepage
- - [https://newsroom.byuh.edu](https://newsroom.byuh.edu)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Office of the Registrar
- - [https://registrar.byuh.edu](https://registrar.byuh.edu)
- - date_published: 2024-07-17T03:08:04.254783+00:00
-
- ## Report a Concern
- - [https://reportaconcern.byuh.edu](https://reportaconcern.byuh.edu)
- - date_published: 2024-07-17T03:07:49.995345+00:00
-
- ## Campus Safety & Security
- - [https://safetyandsecurity.byuh.edu](https://safetyandsecurity.byuh.edu)
- - date_published: 2024-07-17T03:08:14.527553+00:00
-
- ## Title IX
- - [https://titleix.byuh.edu](https://titleix.byuh.edu)
- - date_published: 2024-07-17T03:07:52.259891+00:00
-
- ## BYU-Idaho
- - [https://byui.edu](https://byui.edu)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Brigham Young University-Idaho
- - [http://calendar.byui.edu](http://calendar.byui.edu)
- - date_published: 2024-07-17T03:25:57.916854+00:00
-
- ## David O. McKay Library
- - [http://library.byui.edu](http://library.byui.edu)
- - date_published: 2024-05-22T19:17:47+00:00
-
- ## BYU-Idaho Map
- - [https://maps.byui.edu](https://maps.byui.edu)
- - date_published: 2022-09-27T17:06:34+00:00
-
- ## BYU-Idaho
- - [https://my.byui.edu](https://my.byui.edu)
- - date_published: 2024-07-17T03:25:53.956527+00:00
-
- ## TeamDynamix Sign-In
- - [https://td.byui.edu](https://td.byui.edu)
- - date_published: 2024-04-17T19:45:22+00:00
-
- ## BYU-Pathway Worldwide | BYU-Pathway | Apply Today
- - [https://byupathway.edu](https://byupathway.edu)
- - date_published: 2024-07-11T00:00:00+00:00
 

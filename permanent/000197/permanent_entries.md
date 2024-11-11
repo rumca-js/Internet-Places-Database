@@ -1,3 +1,68 @@
+ ## Type Classes | Chris Martin | Substack
+ - [https://typeclasses.substack.com](https://typeclasses.substack.com)
+ - date_published: 2023-10-25T10:06:58.858555+00:00
+ - tags: ['substack']
+
+ ## Monkeys on Typewriters | Arijit Chakravarty | Substack
+ - [http://typingmonkeys.substack.com](http://typingmonkeys.substack.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## https://u4all.substack.com
+ - [https://u4all.substack.com](https://u4all.substack.com)
+ - date_published: 2024-02-08T18:06:49.384939+00:00
+
+ ## Ubidrop Product Updates | Alex Styl | Substack
+ - [https://ubidrop.substack.com](https://ubidrop.substack.com)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## University of Chicago Free Speech Alliance | UChicago Free Speech | Substack
+ - [https://uchicagofreespeech.substack.com](https://uchicagofreespeech.substack.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## IEEE at UCLA Newsletter | Theo Zhang | Substack
+ - [https://uclaieeenewsletter.substack.com](https://uclaieeenewsletter.substack.com)
+ - date_published: 2024-06-20T12:57:12.860041+00:00
+
+ ## Ukrinform Newsletters | Ukrinform's Subscription | Substack
+ - [https://ukrinformsubscription.substack.com](https://ukrinformsubscription.substack.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## УКРІНФОРМ: РОЗСИЛКА НОВИН | Substack
+ - [https://ukrinform.substack.com](https://ukrinform.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## This Beautiful Life | Ulrich Beinert | Substack
+ - [https://ulrichbeinert.substack.com](https://ulrichbeinert.substack.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Missives from Beyond the Veil of Sleep | Ben Laurence | Substack
+ - [https://ultansdoor.substack.com](https://ultansdoor.substack.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Unbundl’s Substack | Substack
+ - [https://unbundl.substack.com](https://unbundl.substack.com)
+ - date_published: 2024-09-04T12:20:28.103465+00:00
+
+ ## Uncaptured Media | Dan Cohen | Substack
+ - [https://uncaptured.substack.com](https://uncaptured.substack.com)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## The Uncertainty Mindset (soon to become tbd) | Vaughn Tan | Substack
+ - [https://uncertaintymindset.substack.com](https://uncertaintymindset.substack.com)
+ - date_published: 2024-08-18T18:00:54.260778+00:00
+
+ ## Unchained | Laura Shin | Substack
+ - [https://unchainedcrypto.substack.com](https://unchainedcrypto.substack.com)
+ - date_published: 2024-05-06T21:13:11.608800+00:00
+
+ ## FOIA Around And Find Out | UndeadFOIA | Substack
+ - [https://undeadfoia.substack.com](https://undeadfoia.substack.com)
+ - date_published: 2024-05-11T09:36:02.714653+00:00
+
+ ## undervaluedjapan | Otto Oehring | Substack
+ - [https://undervaluedjapan.substack.com](https://undervaluedjapan.substack.com)
+ - date_published: 2024-08-19T09:38:53.176772+00:00
+
  ## Unfashionable | Sven Schnieders | Substack
  - [https://unfashionable.substack.com](https://unfashionable.substack.com)
  - date_published: 2023-10-25T10:07:06.313221+00:00
@@ -756,6 +821,10 @@
  ## substrakt
  - [http://substrakt.com](http://substrakt.com)
  - date_published: 2024-06-12T12:57:04+00:00
+
+ ## Extracts
+ - [https://subsublibrarian.com](https://subsublibrarian.com)
+ - date_published: 2024-11-10T20:53:25.800485+00:00
 
  ## Home Page | SubTel Forum Industry Directory
  - [https://directory.subtelforum.com](https://directory.subtelforum.com)
@@ -3966,73 +4035,4 @@
  ## SUSE Partner Portal
  - [https://partner.suse.com](https://partner.suse.com)
  - date_published: 2023-08-20T22:28:52+00:00
-
- ## SUSE Container Images
- - [https://registry.suse.com](https://registry.suse.com)
- - date_published: 2024-06-22T15:38:06.173413+00:00
-
- ## SUSE Customer Center
- - [https://scc.suse.com](https://scc.suse.com)
- - date_published: 2024-05-07T10:18:06.386180+00:00
-
- ## SUSE Collective
- - [https://susecollective.suse.com](https://susecollective.suse.com)
- - date_published: 2024-06-29T09:49:24.933235+00:00
-
- ## Open Source Solutions for Enterprise Servers & Cloud | SUSE
- - [https://suse.com](https://suse.com)
- - date_published: 2024-06-22T15:30:31.340238+00:00
- - tags: ['operating system', 'open source']
-
- ## Thoughts - Create intelligent tweets
- - [https://thoughts.sushant-kumar.com](https://thoughts.sushant-kumar.com)
- - date_published: 2024-10-30T21:25:00.200383+00:00
-
- ## Swap | Sushi 🍣
- - [https://app.sushi.com](https://app.sushi.com)
- - date_published: 2024-10-31T15:00:10.191170+00:00
-
- ## Sushi Swap
- - [https://forum.sushi.com](https://forum.sushi.com)
- - date_published: 2023-10-25T17:19:58.195025+00:00
-
- ## SushiSwap
- - [https://sushi.com](https://sushi.com)
- - date_published: 2024-06-04T11:32:25.585835+00:00
-
- ## About Jina
- - [https://sushiandrobots.com](https://sushiandrobots.com)
- - date_published: 2023-10-25T00:00:00+00:00
-
- ## Sushi Goemon SF – Top Rated Japanese Sushi & Sake
- - [http://sushigoemonsf.com](http://sushigoemonsf.com)
- - date_published: 2024-06-22T18:51:44.400972+00:00
-
- ## SPACEMAN88 🐾 Situs Slot Online Lucky Neko Demo PG Soft Mudah Maxwin 2024
- - [https://sushijetdimsumfund.com](https://sushijetdimsumfund.com)
- - date_published: 2024-07-06T06:37:44+00:00
-
- ## https://sushi-sake.com
- - [https://sushi-sake.com](https://sushi-sake.com)
- - date_published: 2024-02-08T17:43:47.413621+00:00
-
- ## (no title)
- - [http://www.susiemadrak.com](http://www.susiemadrak.com)
- - date_published: 2024-09-10T06:01:46+00:00
-
- ## Suspended In Light - Suspended In Light
- - [https://suspendedinlight.com](https://suspendedinlight.com)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Suspicious Developments
- - [https://suspiciousdevelopments.com](https://suspiciousdevelopments.com)
- - date_published: 2024-02-06T23:09:50+00:00
-
- ## Sussan Deyhim
- - [http://sussandeyhim.com](http://sussandeyhim.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Sustainability by numbers | Hannah Ritchie | Substack
- - [https://sustainabilitybynumbers.com](https://sustainabilitybynumbers.com)
- - date_published: 2023-11-05T15:52:28.331482+00:00
 

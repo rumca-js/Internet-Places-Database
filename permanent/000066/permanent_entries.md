@@ -1,3 +1,11 @@
+ ## Explore Studio A. Revisited.
+ - [http://thecuttingedge.bobdylan.com](http://thecuttingedge.bobdylan.com)
+ - date_published: 2024-05-24T16:40:18+00:00
+
+ ## Bob Dylan "Like A Rolling Stone" - Official Interactive Video!
+ - [https://video.bobdylan.com](https://video.bobdylan.com)
+ - date_published: 2023-08-24T19:25:30+00:00
+
  ## Bob Dylan Center | Tulsa, OK
  - [https://bobdylancenter.com](https://bobdylancenter.com)
  - date_published: 2024-06-30T01:14:25.874417+00:00
@@ -4026,12 +4034,4 @@
  ## Box | Login
  - [https://freedphoto.app.box.com](https://freedphoto.app.box.com)
  - date_published: 2024-08-11T23:05:08.662503+00:00
-
- ## Box | Login
- - [https://georgetown.app.box.com](https://georgetown.app.box.com)
- - date_published: 2024-07-13T12:23:55.963376+00:00
-
- ## Box | Login
- - [https://georgetown.box.com](https://georgetown.box.com)
- - date_published: 2024-07-13T12:24:35.403313+00:00
 

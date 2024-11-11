@@ -1,3 +1,157 @@
+ ## Povos Indígenas no Brasil
+ - [https://pib.socioambiental.org](https://pib.socioambiental.org)
+ - date_published: 2024-03-27T00:16:18.528932+00:00
+
+ ## Rodapé para sites do Instituto Socioambiental
+ - [https://rodape.socioambiental.org](https://rodape.socioambiental.org)
+ - date_published: 2021-09-08T17:34:46+00:00
+
+ ## ISA - Instituto Socioambiental
+ - [https://site-antigo.socioambiental.org](https://site-antigo.socioambiental.org)
+ - date_published: 2024-07-14T14:50:27.968978+00:00
+
+ ## Somos o ISA, Instituto Socioambiental
+ - [https://socioambiental.org](https://socioambiental.org)
+ - date_published: 2024-05-11T11:32:44.908441+00:00
+
+ ## Início | Terras Indígenas no Brasil
+ - [https://ti.socioambiental.org](https://ti.socioambiental.org)
+ - date_published: 2024-07-14T12:22:05+00:00
+
+ ## Início | Unidades de Conservação no Brasil
+ - [https://uc.socioambiental.org](https://uc.socioambiental.org)
+ - date_published: 2024-07-14T14:50:42.117047+00:00
+
+ ## Sociocracia Práctica - Sociocracy For All
+ - [https://sociocraciapractica.org](https://sociocraciapractica.org)
+ - date_published: 2020-06-29T13:22:18+00:00
+
+ ## Sociocracy For All
+ - [https://forums.sociocracyforall.org](https://forums.sociocracyforall.org)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Sociocracy for All -- Learn  | Sociocracy For All
+ - [https://learn.sociocracyforall.org](https://learn.sociocracyforall.org)
+ - date_published: 2024-09-11T16:56:28+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://sociocracyforall.org](https://sociocracyforall.org)
+ - date_published: 2024-06-12T12:38:38.282932+00:00
+
+ ## The Socjournal - A new media journal of sociology and society
+ - [https://sociology.org](https://sociology.org)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## The Darwinian Era
+ - [https://www.sociopathy.org](https://www.sociopathy.org)
+ - date_published: 2023-08-05T01:02:53+00:00
+
+ ## flammin75.com
+ - [https://www.sociosite.org](https://www.sociosite.org)
+ - date_published: 2024-09-24T12:23:38+00:00
+
+ ## Sockethub - a polyglot messaging service
+ - [http://sockethub.org](http://sockethub.org)
+ - date_published: 2021-09-02T22:17:12+00:00
+
+ ## index — Quarrelsome
+ - [https://sockpuppet.org](https://sockpuppet.org)
+ - date_published: 2017-01-20T04:13:08+00:00
+
+ ## Les Cagettes Chouettes
+ - [https://lescagetteschouettes.socleo.org](https://lescagetteschouettes.socleo.org)
+ - date_published: 2022-06-02T00:00:00+00:00
+
+ ## Saturday, September 28, 2024 | 
+Santa Rosa Veterans Building, Santa Rosa, CA | 
+10:00 am - 3:00 pm
+ - [https://www.socovegfest.org](https://www.socovegfest.org)
+ - date_published: 2024-09-16T01:21:20.380725+00:00
+
+ ## SoCraTes UK - Home
+ - [https://socratesuk.org](https://socratesuk.org)
+ - date_published: 2024-07-16T20:04:38+00:00
+
+ ## Get unstuck. Learn better. | Socratic
+ - [https://socratic.org](https://socratic.org)
+ - date_published: 2024-06-14T08:52:38.917373+00:00
+
+ ## Home - SOCVR
+ - [https://socvr.org](https://socvr.org)
+ - date_published: 2024-08-18T21:23:20.253282+00:00
+
+ ## SODA – Public Digital Money Use Cases
+ - [https://sodapublicmoney.org](https://sodapublicmoney.org)
+ - date_published: 2024-10-11T22:04:48.061154+00:00
+
+ ## Home | Society of Digital Psychiatry
+ - [https://www.sodpsych.org](https://www.sodpsych.org)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## SOFA - Simulation Open Framework Architecture
+ - [https://www.sofa-framework.org](https://www.sofa-framework.org)
+ - date_published: 2024-11-08T19:37:41.422317+00:00
+
+ ## Articles – Stefan Scherfke
+ - [https://stefan.sofa-rockers.org](https://stefan.sofa-rockers.org)
+ - date_published: 2024-03-06T18:25:12+00:00
+
+ ## South Fork Natural History Museum & Nature Center
+ - [https://sofo.org](https://sofo.org)
+ - date_published: 2024-07-22T01:18:37+00:00
+
+ ## Softbites
+ - [https://softbites.org](https://softbites.org)
+ - date_published: 2024-08-18T20:45:26.499698+00:00
+
+ ## フリーソフト速報 ソフトコレクション
+ - [https://softcollection.org](https://softcollection.org)
+ - date_published: 2024-07-09T20:12:19.500005+00:00
+
+ ## Купить ключи Microsoft и пр. лицензии в SoftComputers
+ - [https://softcomputers.org](https://softcomputers.org)
+ - date_published: 2018-08-20T21:48:48+00:00
+
+ ## Software Development Team: Welcome
+ - [https://soft-dev.org](https://soft-dev.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## SoftEther VPN Project - SoftEther VPN Project
+ - [https://www.softether.org](https://www.softether.org)
+ - date_published: 2024-07-01T16:22:53+00:00
+
+ ## Soft Machines – Some personal views on nanotechnology, science and science policy from Richard Jones
+ - [http://www.softmachines.org](http://www.softmachines.org)
+ - date_published: 2024-06-17T11:58:38.322557+00:00
+
+ ## Softpanorama: (slightly skeptical) Open Source Software Educational Society
+ - [http://www.softpanorama.org](http://www.softpanorama.org)
+ - date_published: 2024-06-23T18:16:59.490990+00:00
+
+ ## Software Preservation Society
+ - [http://softpres.org](http://softpres.org)
+ - date_published: 2023-12-11T18:33:05.002198+00:00
+
+ ## Software Carpentry
+ - [https://software-carpentry.org](https://software-carpentry.org)
+ - date_published: 2024-06-21T18:03:39+00:00
+
+ ## Software Cost Estimation
+ - [http://softwarecost.org](http://softwarecost.org)
+ - date_published: 2024-08-19T10:07:00.217062+00:00
+
+ ## Manifesto for Software Craftsmanship
+ - [https://manifesto.softwarecraftsmanship.org](https://manifesto.softwarecraftsmanship.org)
+ - date_published: 2023-06-26T10:44:04+00:00
+
+ ## Software Craftsmanship North America 2018
+ - [http://scna.softwarecraftsmanship.org](http://scna.softwarecraftsmanship.org)
+ - date_published: 2018-04-27T15:43:31+00:00
+
+ ## Software Donation – Donate software to people in need
+ - [https://softwaredonation.org](https://softwaredonation.org)
+ - date_published: 2024-07-04T04:24:19.751849+00:00
+
  ## Software Freedom Law Center
  - [https://www.softwarefreedom.org](https://www.softwarefreedom.org)
  - date_published: 2023-10-13T16:46:53+00:00
@@ -3886,156 +4040,4 @@ photonics applied research.
  ## About
  - [https://sublinks.org](https://sublinks.org)
  - date_published: 2024-05-30T14:57:16+00:00
-
- ## Subscribe to Open Community of Practice
- - [https://subscribetoopencommunity.org](https://subscribetoopencommunity.org)
- - date_published: 2021-12-06T00:00:00+00:00
-
- ## Subsonic Forum • Index page
- - [http://forum.subsonic.org](http://forum.subsonic.org)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Subsonic
- - [https://subsonic.org](https://subsonic.org)
- - date_published: 2024-05-16T14:20:26.394185+00:00
-
- ## SubsPlease – One stop shop for new anime
- - [https://subsplease.org](https://subsplease.org)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Subsurface Divelog
- - [https://subsurface-divelog.org](https://subsurface-divelog.org)
- - date_published: 2024-05-12T06:53:38.700815+00:00
-
- ## Subtext programming language
- - [http://www.subtext-lang.org](http://www.subtext-lang.org)
- - date_published: 2023-09-25T21:10:21+00:00
-
- ## autistici.org
- - [https://subvertising.org](https://subvertising.org)
- - date_published: 2019-08-18T17:07:55+00:00
-
- ## Public Charter Schools NYC | K-12 | Success Academy
- - [http://www.successacademies.org](http://www.successacademies.org)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Home - Successful Student
- - [https://successfulstudent.org](https://successfulstudent.org)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home | Successif
- - [https://successif.org](https://successif.org)
- - date_published: 2024-05-08T09:58:07.167867+00:00
-
- ## SUCCESS MURI – Self-assessment and Understanding of Competence and Conditions to Ensure System Success
- - [https://successmuri.org](https://successmuri.org)
- - date_published: 2024-09-04T19:02:29.601173+00:00
-
- ## Welcome to suche.org
- - [https://suche.org](https://suche.org)
- - date_published: 2024-06-19T22:43:22+00:00
-
- ## SuchScience Unraveling the World, One Fact at a Time
- - [https://suchscience.org](https://suchscience.org)
- - date_published: 2024-03-11T11:46:52.711442+00:00
-
- ## core - userspace foundation | suckless.org software that sucks less
- - [https://core.suckless.org](https://core.suckless.org)
- - date_published: 2024-04-05T10:26:20+00:00
-
- ## Index of /
- - [https://dl.suckless.org](https://dl.suckless.org)
- - date_published: 2024-07-08T09:48:32.577699+00:00
-
- ## dwm - dynamic window manager | suckless.org software that sucks less
- - [https://dwm.suckless.org](https://dwm.suckless.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## e.V. | suckless.org software that sucks less
- - [https://ev.suckless.org](https://ev.suckless.org)
- - date_published: 2024-04-05T10:26:27+00:00
-
- ## Repositories
- - [https://git.suckless.org](https://git.suckless.org)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## libraries | suckless.org software that sucks less
- - [https://libs.suckless.org](https://libs.suckless.org)
- - date_published: 2023-10-25T22:11:45.970346+00:00
-
- ## st - simple terminal | suckless.org software that sucks less
- - [https://st.suckless.org](https://st.suckless.org)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## software that sucks less | suckless.org software that sucks less
- - [https://suckless.org](https://suckless.org)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## surf | suckless.org software that sucks less
- - [https://surf.suckless.org](https://surf.suckless.org)
- - date_published: 2024-04-05T10:26:29+00:00
-
- ## tools | suckless.org software that sucks less
- - [https://tools.suckless.org](https://tools.suckless.org)
- - date_published: 2024-02-18T20:18:17.466459+00:00
-
- ## Sudanese Archive
- - [https://sudanesearchive.org](https://sudanesearchive.org)
- - date_published: 2024-06-06T09:42:18+00:00
-
- ## Accueil
- - [https://www.sudeducation.org](https://www.sudeducation.org)
- - date_published: 2024-07-08T10:48:36.479438+00:00
-
- ## List Index - sudoroom.org
- - [http://lists.sudoroom.org](http://lists.sudoroom.org)
- - date_published: 2024-09-14T08:56:57.604286+00:00
-
- ## Sudo Room – Creative community and hackerspace
- - [https://sudoroom.org](https://sudoroom.org)
- - date_published: 2024-06-14T08:33:14+00:00
-
- ## Sud PTT - fédération des activités postales et des télécommunications
- - [http://www.sudptt.org](http://www.sudptt.org)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Sue Gardner's Blog
- - [https://suegardner.org](https://suegardner.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home
- - [https://www.sueryder.org](https://www.sueryder.org)
- - date_published: 2024-10-31T04:11:51.312565+00:00
-
- ## Home
- - [https://portal.suffolklibrarysystem.org](https://portal.suffolklibrarysystem.org)
- - date_published: 2024-07-20T22:30:11+00:00
-
- ## The Suffolk LIT Lab — About the LIT Lab
- - [https://suffolklitlab.org](https://suffolklitlab.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Sugarizer
- - [https://server.sugarizer.org](https://server.sugarizer.org)
- - date_published: 2024-04-10T19:59:07+00:00
-
- ## Sugarizer | The leading learning platform for children
- - [https://sugarizer.org](https://sugarizer.org)
- - date_published: 2024-05-08T09:02:04.893338+00:00
-
- ## Sugarizer
- - [https://try.sugarizer.org](https://try.sugarizer.org)
- - date_published: 2024-04-10T19:59:07+00:00
-
- ## Activities for Sugar
- - [https://activities.sugarlabs.org](https://activities.sugarlabs.org)
- - date_published: 2024-05-09T07:18:43.875002+00:00
-
- ## Welcome to Sugar’s documentation! — Sugar 0.118 documentation
- - [https://help.sugarlabs.org](https://help.sugarlabs.org)
- - date_published: 2024-05-09T07:18:54.410301+00:00
-
- ## Listas de distribución de lists.sugarlabs.org
- - [http://lists.sugarlabs.org](http://lists.sugarlabs.org)
- - date_published: 2024-07-10T02:57:54.315499+00:00
 

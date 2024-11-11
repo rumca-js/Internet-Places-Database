@@ -1,3 +1,19 @@
+ ## e-Discovery Team Training
+ - [https://e-discoveryteamtraining.com](https://e-discoveryteamtraining.com)
+ - date_published: 2024-05-01T08:00:31.568227+00:00
+
+ ## eDiscovery Today by Doug Austin
+ - [https://ediscoverytoday.com](https://ediscoverytoday.com)
+ - date_published: 2024-09-15T14:08:22+00:00
+
+ ## Edison Group
+ - [https://www.edisoninvestmentresearch.com](https://www.edisoninvestmentresearch.com)
+ - date_published: 2024-07-12T09:13:32.298974+00:00
+
+ ## Home - Edison Research
+ - [https://edisonresearch.com](https://edisonresearch.com)
+ - date_published: 2023-10-25T14:03:36.948928+00:00
+
  ## EDISOUND - Log in
  - [https://publishers.edisound.com](https://publishers.edisound.com)
  - date_published: 2024-07-01T08:33:56.151371+00:00
@@ -2998,7 +3014,7 @@
  ## Compare Electric Companies and find the Lowest Rate
  - [https://electricrate.com](https://electricrate.com)
  - date_published: 2023-10-25T14:04:52.809394+00:00
- - tags: ['ranking page']
+ - tags: ['page rank']
 
  ## Electric Scotland is all about the history of Scotland and the Scots.
  - [http://www.electricscotland.com](http://www.electricscotland.com)
@@ -4016,21 +4032,4 @@
  ## Elisabeth Irgens
  - [https://elisabethirgens.com](https://elisabethirgens.com)
  - date_published: 2006-01-01T00:00:00+00:00
-
- ## ELISABETH NICULA // interdisciplinary artist
- - [https://elisabethnicula.com](https://elisabethnicula.com)
- - date_published: 2024-06-03T22:07:31+00:00
-
- ## Elisa Doucette
- - [https://elisadoucette.com](https://elisadoucette.com)
- - date_published: 2023-12-20T00:58:34.049564+00:00
- - tags: ['personal']
-
- ## Elisa Ferrari Ferrari Photography front page
- - [https://elisaferrari.com](https://elisaferrari.com)
- - date_published: 2024-10-29T23:04:03.420269+00:00
-
- ## Homepage - Elisa IndustrIQ
- - [http://www.elisaindustriq.com](http://www.elisaindustriq.com)
- - date_published: 2024-08-16T00:00:00+00:00
 

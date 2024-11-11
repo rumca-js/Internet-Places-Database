@@ -1,4 +1,41 @@
  ## Jotform Spring Sale. Get 50% for a limited time
+ - [https://jotform.com](https://jotform.com)
+ - date_published: 2024-06-06T11:58:40+00:00
+ - tags: ['web forms', 'online tool', 'online service', 'forms']
+
+ ## nine - Sign In
+ - [https://nineradio.jotform.com](https://nineradio.jotform.com)
+ - date_published: 2024-07-12T07:53:26.549469+00:00
+
+ ## Free Online Form Builder & Form Creator | Jotform
+ - [https://oembed.jotform.com](https://oembed.jotform.com)
+ - date_published: 2024-08-06T21:23:42+00:00
+
+ ## Sign in to your account
+ - [https://osumc.jotform.com](https://osumc.jotform.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Jotform Status
+ - [https://status.jotform.com](https://status.jotform.com)
+ - date_published: 2024-03-09T00:00:00+00:00
+
+ ## Jotform Stories
+ - [https://stories.jotform.com](https://stories.jotform.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Jotform Spring Sale. Get 50% for a limited time
+ - [https://submit.jotform.com](https://submit.jotform.com)
+ - date_published: 2024-06-06T11:30:13.658006+00:00
+
+ ## Sign in to your account
+ - [https://tep.jotform.com](https://tep.jotform.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Free Online Form Builder & Form Creator | Jotform
+ - [https://form.jotformeu.com](https://form.jotformeu.com)
+ - date_published: 2024-06-27T15:26:08+00:00
+
+ ## Jotform Spring Sale. Get 50% for a limited time
  - [https://form.jotformpro.com](https://form.jotformpro.com)
  - date_published: 2024-07-15T02:49:38+00:00
 
@@ -3998,40 +4035,4 @@
  ## 카카오스토리
  - [https://story.kakao.com](https://story.kakao.com)
  - date_published: 2024-06-18T07:10:49.957148+00:00
-
- ## 카카오같이가치
- - [https://together.kakao.com](https://together.kakao.com)
- - date_published: 2024-06-28T13:09:30.219969+00:00
-
- ## 카카오TV
- - [https://tv.kakao.com](https://tv.kakao.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## KakaoTV
- - [https://video.kakao.com](https://video.kakao.com)
- - date_published: 2024-06-28T13:10:51.943365+00:00
-
- ## 카카오웹툰 - KAKAO WEBTOON
- - [https://webtoon.kakao.com](https://webtoon.kakao.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## 동반성장 with kakao
- - [https://winwin.kakao.com](https://winwin.kakao.com)
- - date_published: 2018-01-15T00:00:00+00:00
-
- ## kakao제휴안내
- - [https://with.kakao.com](https://with.kakao.com)
- - date_published: 2024-06-26T08:07:26.728175+00:00
-
- ## Karlo - Inspire Ideas, Generate Impressive AI Images
- - [https://bedit.kakaobrain.com](https://bedit.kakaobrain.com)
- - date_published: 2024-06-19T21:24:44.021603+00:00
-
- ## 카카오브레인
- - [https://www.kakaobrain.com](https://www.kakaobrain.com)
- - date_published: 2024-06-22T08:13:09.149732+00:00
-
- ## Kakao
- - [https://kakaocorp.com](https://kakaocorp.com)
- - date_published: 2024-05-17T02:47:02.778629+00:00
 

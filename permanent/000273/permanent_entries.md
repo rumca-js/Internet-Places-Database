@@ -1,3 +1,104 @@
+ ## Office of the President
+ - [https://president.yale.edu](https://president.yale.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Welcome
+ | University Privacy Office
+ - [https://privacy.yale.edu](https://privacy.yale.edu)
+ - date_published: 2024-07-02T13:35:27+00:00
+
+ ## Office of the Provost
+ - [http://provost.yale.edu](http://provost.yale.edu)
+ - date_published: 2024-07-02T15:47:09+00:00
+
+ ## Home
+ |  Department of Psychology
+ - [https://psychology.yale.edu](https://psychology.yale.edu)
+ - date_published: 2024-06-22T08:13:38+00:00
+
+ ## Welcome to Yale Recycling
+ | Yale Recycling
+ - [https://recycling.yale.edu](https://recycling.yale.edu)
+ - date_published: 2024-07-02T10:10:52+00:00
+
+ ## Welcome | University Registrar's Office
+ - [http://registrar.yale.edu](http://registrar.yale.edu)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Welcome
+ | Registration Resources
+ - [https://registration.yale.edu](https://registration.yale.edu)
+ - date_published: 2024-07-02T11:35:17+00:00
+
+ ## Yale Center for Research Computing
+ - [https://research.computing.yale.edu](https://research.computing.yale.edu)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Homepage
+ - [https://research.yale.edu](https://research.yale.edu)
+ - date_published: 2024-07-01T14:46:24+00:00
+
+ ## Popular Romance Fiction: The Literature of Hope 
+ | Popular Romance Fiction Conference
+ - [https://romancefictionconference.yale.edu](https://romancefictionconference.yale.edu)
+ - date_published: 2024-07-04T10:26:30+00:00
+
+ ## Home | Student Accessibility Services
+ - [https://sas.yale.edu](https://sas.yale.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Yale Library Study Spaces Scheduling -
+        Yale University Library
+ - [https://schedule.yale.edu](https://schedule.yale.edu)
+ - date_published: 2024-07-01T03:31:52.664337+00:00
+
+ ## Quicksearch - Yale Library
+ - [https://search.library.yale.edu](https://search.library.yale.edu)
+ - date_published: 2024-07-02T15:45:00.452444+00:00
+
+ ## Yale School of Engineering & Applied Science
+ - [https://seas.yale.edu](https://seas.yale.edu)
+ - date_published: 2024-07-02T13:41:33+00:00
+
+ ## Welcome
+ | Office of the Secretary and Vice President for University Life
+ - [https://secretary.yale.edu](https://secretary.yale.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Central Authentication Service | Yale University
+ - [https://secure.its.yale.edu](https://secure.its.yale.edu)
+ - date_published: 2024-07-02T15:44:03.924366+00:00
+
+ ## Yale Peabody Museum
+ - [https://shop.peabody.yale.edu](https://shop.peabody.yale.edu)
+ - date_published: 2024-07-02T15:50:18.997272+00:00
+
+ ## Welcome
+ | Title IX at Yale
+ - [http://smr.yale.edu](http://smr.yale.edu)
+ - date_published: 2024-07-02T10:33:58+00:00
+
+ ## Services - IT at Yale
+ - [https://software.yale.edu](https://software.yale.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Join Yale SOM Connect
+ - [https://somconnect.yale.edu](https://somconnect.yale.edu)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Yale School of Management | Educating Leaders for Business and Society
+ - [https://som.yale.edu](https://som.yale.edu)
+ - date_published: 2024-05-07T22:43:51.615080+00:00
+
+ ## Yale School of Public Health
+ - [https://sph.yale.edu](https://sph.yale.edu)
+ - date_published: 2024-05-07T22:44:18.373285+00:00
+
+ ## Student Life
+ | Office of the Secretary and Vice President for University Life
+ - [http://studentlife.yale.edu](http://studentlife.yale.edu)
+ - date_published: 2024-07-02T15:43:58+00:00
+
  ## Student Resources
  | IT at Yale
  - [https://studenttechnology.yale.edu](https://studenttechnology.yale.edu)
@@ -3931,96 +4032,4 @@
  ## Búsqueda Local - La guía de empresas gratuita en tu localidad
  - [https://www.busqueda-local.es](https://www.busqueda-local.es)
  - date_published: 2019-03-09T00:00:00+00:00
-
- ## Buval -
- - [http://buval.es](http://buval.es)
- - date_published: 2024-10-15T02:06:49.483444+00:00
-
- ## Buy Muscle | Tienda Online de Suplementación Deportiva
- - [https://tienda.buymuscle.es](https://tienda.buymuscle.es)
- - date_published: 2024-08-12T00:00:00+00:00
-
- ## CAAD - Página principal
- - [http://foro.caad.es](http://foro.caad.es)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## Home
- - [http://www.caad.es](http://www.caad.es)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## CADENA 100. La mejor variedad musical
- - [https://www.cadena100.es](https://www.cadena100.es)
- - date_published: 2024-06-23T08:27:02+00:00
-
- ## Bienvenido a Cadena Feeling
- - [https://cadenafeeling.es](https://cadenafeeling.es)
- - date_published: 2021-04-21T19:14:18+00:00
-
- ## TribunaSur - Noticias de Actualidad y Artículos de Interés
- - [https://cafebabel.es](https://cafebabel.es)
- - date_published: 2022-10-24T12:57:56+00:00
-
- ## CARMENES • Home
- - [http://carmenes.caha.es](http://carmenes.caha.es)
- - date_published: 2023-10-02T11:55:21+00:00
-
- ## KOBE
- - [https://kobe.caha.es](https://kobe.caha.es)
- - date_published: 2023-06-06T07:10:26+00:00
-
- ## Inicio - Camara de Comercio de Oviedo
- - [https://www.camara-ovi.es](https://www.camara-ovi.es)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## GPartners | Login backoffice
- - [https://canaletico.es](https://canaletico.es)
- - date_published: 2024-06-25T18:36:45.449111+00:00
-
- ## Canastillas para bebés - Mari Carmen Cerezo
- - [https://www.canastillabebes.es](https://www.canastillabebes.es)
- - date_published: 2024-07-12T16:09:48.593283+00:00
-
- ## capcom-town.es
- - [http://capcom-town.es](http://capcom-town.es)
- - date_published: 2024-07-11T20:54:34.867650+00:00
-
- ## Capital Radio
- - [https://www.capitalradio.es](https://www.capitalradio.es)
- - date_published: 2024-06-21T23:56:37.661185+00:00
-
- ## Capterra te ayuda a encontrar el software adecuado para tu empresa
- - [https://www.capterra.es](https://www.capterra.es)
- - date_published: 2024-07-20T19:26:42.511725+00:00
-
- ## Carmen Van den Eynde -
- - [http://www.carmenvan.es](http://www.carmenvan.es)
- - date_published: 2024-07-14T11:31:04.957835+00:00
-
- ## CarNewsChina.es
- - [https://carnewschina.es](https://carnewschina.es)
- - date_published: 2024-05-08T04:30:06.101792+00:00
-
- ## Carrefour: Ofertas en Electrodomésticos, Moda, Alimentación, Informática..
- - [https://carrefour.es](https://carrefour.es)
- - date_published: 2024-06-12T11:15:31.116952+00:00
-
- ## Viajes Carrefour | Agencia de Viajes | Vuelos, Hoteles, Cruceros
- - [https://www.viajes.carrefour.es](https://www.viajes.carrefour.es)
- - date_published: 2024-09-12T11:43:32.094788+00:00
-
- ## ¡Corre! Hay mucho que ganar
- - [https://carreracancerpancreas.es](https://carreracancerpancreas.es)
- - date_published: 2024-09-30T00:00:00+00:00
-
- ## CartoCiudad
- - [http://www.cartociudad.es](http://www.cartociudad.es)
- - date_published: 2024-06-12T10:59:08.527796+00:00
-
- ## Carwow | Conviértete en concesionario de Carwow - La manera más inteligente de vender
- - [https://concesionarios.carwow.es](https://concesionarios.carwow.es)
- - date_published: 2024-10-22T16:08:39.082393+00:00
-
- ## Carwow | Disfruta el cambio de coche
- - [https://www.carwow.es](https://www.carwow.es)
- - date_published: 2024-06-18T15:52:32.070082+00:00
 

@@ -1,3 +1,156 @@
+ ## Accueil Fondation Sopra Steria
+ - [https://www.fondationsoprasteria.org](https://www.fondationsoprasteria.org)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Accueil | Fondation Université Paris Cité
+ - [https://fondation-uparis.org](https://fondation-uparis.org)
+ - date_published: 2024-07-02T22:32:07+00:00
+
+ ## Fondazione il Fatto Quotidiano
+ - [https://www.fondazioneilfattoquotidiano.org](https://www.fondazioneilfattoquotidiano.org)
+ - date_published: 2024-07-15T03:15:50.287967+00:00
+
+ ## ERICH LINDENBERG - ART FOUNDATION
+ - [http://fondazionelindenberg.org](http://fondazionelindenberg.org)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Fondazione Pirelli - Milano | Fondazione Pirelli
+ - [http://www.fondazionepirelli.org](http://www.fondazionepirelli.org)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## RONG ZHAI – PRADA – ROMA 1950 – 1965
+ - [http://rongzhai.fondazioneprada.org](http://rongzhai.fondazioneprada.org)
+ - date_published: 2024-09-16T23:15:08.884587+00:00
+
+ ## Home - Fondazione Sviluppo Sostenibile
+ - [https://www.fondazionesvilupposostenibile.org](https://www.fondazionesvilupposostenibile.org)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Benvenuto in Fondazione Valter Longo
+ - [http://fondazionevalterlongo.org](http://fondazionevalterlongo.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Fonds pour une presse libre
+ - [https://fondspresselibre.org](https://fondspresselibre.org)
+ - date_published: 2024-07-09T07:02:41.469233+00:00
+
+ ## FoneSpy – Best Phone Spy Apps without Permission
+ - [https://fonespy.org](https://fonespy.org)
+ - date_published: 2024-05-09T08:05:57.364484+00:00
+
+ ## FONJEP | Le Fonds de Coopération de la Jeunesse et de l’Education Populaire
+ - [https://www.fonjep.org](https://www.fonjep.org)
+ - date_published: 2024-09-11T19:43:22.253583+00:00
+
+ ## Font Generator - Free Copy and Paste Text
+ - [http://fontcdn.org](http://fontcdn.org)
+ - date_published: 2024-10-20T08:07:53.880703+00:00
+
+ ## FontForge
+ - [https://fontforge.org](https://fontforge.org)
+ - date_published: 2023-01-01T06:09:39+00:00
+
+ ## Font Library
+ - [https://fontlibrary.org](https://fontlibrary.org)
+ - date_published: 2024-06-16T11:31:57.526993+00:00
+
+ ## Font Police
+ - [http://fontpolice.org](http://fontpolice.org)
+ - date_published: 2024-10-19T11:04:51.257497+00:00
+
+ ## Fontsource
+ - [https://fontsource.org](https://fontsource.org)
+ - date_published: 2024-08-09T03:26:08.869577+00:00
+
+ ## foobar2000
+ - [https://foobar2000.org](https://foobar2000.org)
+ - date_published: 2023-11-01T08:41:06.699661+00:00
+ - tags: ['media player', 'desktop program', 'music player']
+
+ ## Food & Friends | Delivering hope, one meal at a time.
+ - [https://foodandfriends.org](https://foodandfriends.org)
+ - date_published: 2024-06-29T15:22:14.626709+00:00
+
+ ## Foodandwaterinstitute
+ - [https://www.foodandwaterinstitute.org](https://www.foodandwaterinstitute.org)
+ - date_published: 2024-08-20T04:08:48.626385+00:00
+
+ ## Food & Water Watch
+ - [https://www.foodandwaterwatch.org](https://www.foodandwaterwatch.org)
+ - date_published: 2024-08-27T00:00:00+00:00
+
+ ## Food Bank For New York City Blog
+ - [https://blog.foodbanknyc.org](https://blog.foodbanknyc.org)
+ - date_published: 2024-09-17T07:05:38+00:00
+
+ ## Food Bank For New York City | One Mission. Five Boroughs. Feed All.
+ - [https://foodbanknyc.org](https://foodbanknyc.org)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Food Bank For New York City
+ - [https://store.foodbanknyc.org](https://store.foodbanknyc.org)
+ - date_published: 2024-09-17T21:13:05.532474+00:00
+
+ ## FOOD for Lane County | Food Bank in Oregon
+ - [https://foodforlanecounty.org](https://foodforlanecounty.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Food impacts
+ - [https://foodimpacts.org](https://foodimpacts.org)
+ - date_published: 2023-08-27T21:17:57+00:00
+
+ ## Home - Food Empowerment Project
+ - [https://foodispower.org](https://foodispower.org)
+ - date_published: 2024-10-22T18:29:31.343229+00:00
+
+ ## Food Pantries | Soup Kitchens | Food Banks
+ - [https://www.foodpantries.org](https://www.foodpantries.org)
+ - date_published: 2024-08-08T17:51:09.128357+00:00
+
+ ## Home
+ - [https://foodrevolution.org](https://foodrevolution.org)
+ - date_published: 2018-07-11T00:53:26+00:00
+
+ ## FoodTalk
+ - [https://foodtalk.org](https://foodtalk.org)
+ - date_published: 2024-07-02T02:23:55.402749+00:00
+
+ ## foodwatch International
+ - [https://www.foodwatch.org](https://www.foodwatch.org)
+ - date_published: 2024-07-03T16:01:12.839091+00:00
+
+ ## Foodwise : Education. Farmers markets. Community.
+ - [https://foodwise.org](https://foodwise.org)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Daniel Stone
+ - [https://www.fooishbar.org](https://www.fooishbar.org)
+ - date_published: 2018-07-29T00:00:00+00:00
+
+ ## Home | Mohammed Sameer's
+ - [http://foolab.org](http://foolab.org)
+ - date_published: 2024-07-09T08:05:05.093309+00:00
+
+ ## FoolControl: Phear the penguin
+ - [https://foolcontrol.org](https://foolcontrol.org)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Motley Fool Foundation Impact Report – Paying it Foolward
+ - [https://foolforward.org](https://foolforward.org)
+ - date_published: 2024-09-16T01:11:17.910966+00:00
+
+ ## The Motley Fool Foundation – Financial Freedom for all
+ - [https://foolfoundation.org](https://foolfoundation.org)
+ - date_published: 2024-06-15T02:55:39.321119+00:00
+
+ ## Foone Wiki
+ - [http://foone.org](http://foone.org)
+ - date_published: 2023-04-24T00:00:00+00:00
+
+ ## Foone Wiki
+ - [https://wiki.foone.org](https://wiki.foone.org)
+ - date_published: 2023-04-24T00:00:00+00:00
+
  ## Foothills Performing Arts & Civic Center | Welcome to Foothills PAC
  - [http://www.foothillspac.org](http://www.foothillspac.org)
  - date_published: 2024-08-19T13:55:02.162682+00:00
@@ -3898,158 +4051,4 @@ encryption
  ## EDGE | Green building certification
  - [https://edge.gbci.org](https://edge.gbci.org)
  - date_published: 2024-06-20T13:09:40.368570+00:00
-
- ## Home | GBCI | Guiding Principles
- - [https://guidingprinciples.gbci.org](https://guidingprinciples.gbci.org)
- - date_published: 2024-06-20T13:09:33.489703+00:00
-
- ## Parksmart | Advancing sustainable parking structures
- - [https://parksmart.gbci.org](https://parksmart.gbci.org)
- - date_published: 2024-06-20T13:04:28.506296+00:00
-
- ## Home | PEER
- - [http://peer.gbci.org](http://peer.gbci.org)
- - date_published: 2024-06-20T13:04:31.797318+00:00
-
- ## Sustainability Excellence
- - [https://sustainability-excellence.gbci.org](https://sustainability-excellence.gbci.org)
- - date_published: 2024-06-20T13:04:30.376664+00:00
-
- ## TRUE
- - [https://true.gbci.org](https://true.gbci.org)
- - date_published: 2024-06-20T13:00:45.214518+00:00
-
- ## Green Business Certification Inc.
- - [https://www.gbci.org](https://www.gbci.org)
- - date_published: 2024-05-04T08:47:51.463797+00:00
-
- ## GBH.org
- - [https://gbh.org](https://gbh.org)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Homepage | Global Brain Health Institute
- - [https://www.gbhi.org](https://www.gbhi.org)
- - date_published: 2024-07-01T13:59:14+00:00
-
- ## GBIF API
- - [https://api.gbif.org](https://api.gbif.org)
- - date_published: 2022-02-01T22:58:38+00:00
-
- ## GBIF Data Blog
- - [https://data-blog.gbif.org](https://data-blog.gbif.org)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## GBIF community forum
- - [https://discourse.gbif.org](https://discourse.gbif.org)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## GBIF Documentation Guidelines
- - [https://docs.gbif.org](https://docs.gbif.org)
- - date_published: 2023-06-14T00:00:00+00:00
-
- ## GBIF
- - [https://gbif.org](https://gbif.org)
- - date_published: 2024-06-12T12:17:09.024864+00:00
-
- ## Geopick
- - [https://geopick.gbif.org](https://geopick.gbif.org)
- - date_published: 2024-03-07T10:42:28+00:00
-
- ## Webpack App
- - [https://react-components.gbif.org](https://react-components.gbif.org)
- - date_published: 2024-09-02T09:13:33+00:00
-
- ## GRSciColl
- - [https://scientific-collections.gbif.org](https://scientific-collections.gbif.org)
- - date_published: 2024-09-12T15:16:11.647392+00:00
-
- ## Technical Documentation :: Technical Documentation
- - [https://techdocs.gbif.org](https://techdocs.gbif.org)
- - date_published: 2023-12-19T12:18:18+00:00
-
- ## Home | Greater Boston Legal Services
- - [https://www.gbls.org](https://www.gbls.org)
- - date_published: 2024-10-03T20:38:06+00:00
-
- ## Home
- - [https://gbsn.org](https://gbsn.org)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## JiG Gender Based Violence Handbook
- - [https://gbvjournalism.org](https://gbvjournalism.org)
- - date_published: 2024-05-07T20:09:17.958032+00:00
- - tags: ['gender', 'feminism']
-
- ## Home - Global Center on Adaptation
- - [https://gca.org](https://gca.org)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## IEEE GCAIoT – IEEE Global Conference on Artificial Intelligence & Internet of Things (2024 IEEE GCAIoT)
- - [https://gcaiot.org](https://gcaiot.org)
- - date_published: 2024-07-07T01:25:29.081578+00:00
-
- ## G-CAN
- - [http://www.g-can.org](http://www.g-can.org)
- - date_published: 2024-06-28T11:55:32.947240+00:00
-
- ## Home - The Governing Council of the Cat Fancy
- - [https://www.gccfcats.org](https://www.gccfcats.org)
- - date_published: 2024-10-21T11:46:00.900824+00:00
-
- ## Welcome to GCentral
- - [http://gcentral.org](http://gcentral.org)
- - date_published: 2024-05-02T01:09:50+00:00
-
- ## Home | Greater Cincinnati Foundation
- - [https://www.gcfdn.org](https://www.gcfdn.org)
- - date_published: 2024-10-28T18:10:05+00:00
-
- ## Global Campus of Human Rights - Education & Research
- - [https://gchumanrights.org](https://gchumanrights.org)
- - date_published: 2024-10-18T21:01:33.249924+00:00
-
- ## Adélie Linux / gcompat · GitLab
- - [https://gcompat.org](https://gcompat.org)
- - date_published: 2024-08-18T06:51:17.568690+00:00
-
- ## Greater City Providence
- - [https://gcpvd.org](https://gcpvd.org)
- - date_published: 2024-05-06T22:57:17.576092+00:00
-
- ## Global Catastrophic Risk Institute
- - [https://gcrinstitute.org](https://gcrinstitute.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## GDACS - Global Disaster Alert and Coordination System
- - [https://gdacs.org](https://gdacs.org)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## GDAL — GDAL  documentation
- - [https://gdal.org](https://gdal.org)
- - date_published: 2024-04-28T05:59:44.751322+00:00
- - tags: ['library', 'geoinformatics', 'open street map']
-
- ## GDELT Analysis Service: The Global Database of Events, Language, and Tone
- - [http://analysis.gdeltproject.org](http://analysis.gdeltproject.org)
- - date_published: 2020-09-12T23:03:33+00:00
-
- ## The GDELT Project
- - [https://blog.gdeltproject.org](https://blog.gdeltproject.org)
- - date_published: 2024-02-25T00:00:00+00:00
-
- ## The GDELT Project
- - [https://gdeltproject.org](https://gdeltproject.org)
- - date_published: 1979-01-01T00:00:00+00:00
-
- ## GDG Tokyo
- - [https://tokyo.gdgjapan.org](https://tokyo.gdgjapan.org)
- - date_published: 2021-11-07T08:25:29+00:00
-
- ## Devfest Lille
- - [https://devfest.gdglille.org](https://devfest.gdglille.org)
- - date_published: 2024-08-11T01:59:54+00:00
-
- ## GDP
- - [https://www.gdp-planetarium.org](https://www.gdp-planetarium.org)
- - date_published: 2022-11-07T12:58:23+00:00
 

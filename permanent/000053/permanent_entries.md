@@ -1,3 +1,11 @@
+ ## Avery Hill Publishing
+ - [https://averyhillpublishing.bigcartel.com](https://averyhillpublishing.bigcartel.com)
+ - date_published: 2024-05-13T03:39:36.200223+00:00
+
+ ## Maintenance
+ - [https://backmatter.bigcartel.com](https://backmatter.bigcartel.com)
+ - date_published: 2024-07-03T15:58:40.573991+00:00
+
  ## Bernadett Timko
  - [https://bernadetttimko.bigcartel.com](https://bernadetttimko.bigcartel.com)
  - date_published: 2024-06-27T05:00:41.262055+00:00
@@ -4019,12 +4027,4 @@
  ## Utah Business Directory : Businesses in Utah
  - [https://utah.bizhwy.com](https://utah.bizhwy.com)
  - date_published: 2024-06-29T19:24:22.753483+00:00
-
- ## Vermont Business Directory : Businesses in Vermont
- - [https://vermont.bizhwy.com](https://vermont.bizhwy.com)
- - date_published: 2024-06-29T19:24:42.039679+00:00
-
- ## Virginia Business Directory : Businesses in Virginia
- - [https://virginia.bizhwy.com](https://virginia.bizhwy.com)
- - date_published: 2024-06-29T19:24:12.221753+00:00
 

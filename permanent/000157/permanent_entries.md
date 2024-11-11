@@ -1,3 +1,47 @@
+ ## The Leader in OT Cybersecurity Technology | Nozomi Networks
+ - [https://nozominetworks.com](https://nozominetworks.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Nozomi Networks Partner Program | Home
+ - [https://partners.nozominetworks.com](https://partners.nozominetworks.com)
+ - date_published: 2024-09-21T23:09:13.915208+00:00
+
+ ## A líder em tecnologia de segurança cibernética OT  Nozomi Networks
+ - [https://pt-br.nozominetworks.com](https://pt-br.nozominetworks.com)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## PSIRT
+ - [https://security.nozominetworks.com](https://security.nozominetworks.com)
+ - date_published: 2024-09-20T08:42:44+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://npaper-wehaa.com](https://npaper-wehaa.com)
+ - date_published: 2024-07-09T23:29:45.203807+00:00
+
+ ## Npcap: Windows Packet Capture Library & Driver
+ - [https://npcap.com](https://npcap.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## RPG D&D Random NPC Generator with GPT-3 AI
+ - [https://npcgeneratorai.com](https://npcgeneratorai.com)
+ - date_published: 2024-10-30T09:59:05.313275+00:00
+
+ ## NPCG GAMING | 中国领先电子竞技服务者
+ - [https://www.npcggaming.com](https://www.npcggaming.com)
+ - date_published: 2024-04-05T12:46:15+00:00
+
+ ## NPC Observer Monthly | Changhao Wei | Substack
+ - [https://newsletter.npcobserver.com](https://newsletter.npcobserver.com)
+ - date_published: 2024-06-30T04:01:59.200839+00:00
+
+ ## NPC Observer - Covering China’s National People’s Congress and its Standing Committee
+ - [https://npcobserver.com](https://npcobserver.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Circana Analytics
+ - [https://analyticsolutions.npd.com](https://analyticsolutions.npd.com)
+ - date_published: 2024-05-03T23:07:19+00:00
+
  ## Checkout
  - [https://checkouthub.npd.com](https://checkouthub.npd.com)
  - date_published: 2024-06-21T18:17:06+00:00
@@ -527,6 +571,10 @@
  - NSTA Science Supply Guide
  - [http://nstasciencesupplyguide.com](http://nstasciencesupplyguide.com)
  - date_published: 2024-10-19T20:04:45.166105+00:00
+
+ ## Another simple online DNS query tool
+ - [https://nstoolbox.com](https://nstoolbox.com)
+ - date_published: 2024-11-10T21:58:17+00:00
 
  ## Ripples in the Ether – Emanations from Amateur Radio Station NT7S
  - [https://nt7s.com](https://nt7s.com)
@@ -3986,53 +4034,4 @@
  - [https://developer.oculus.com](https://developer.oculus.com)
  - date_published: 2024-04-24T07:12:11+00:00
  - tags: ['virtual reality']
-
- ## Gogle VR Meta Quest, gry i wyposażenie | Meta Quest
- - [https://oculus.com](https://oculus.com)
- - date_published: 2024-03-21T00:00:00+00:00
- - tags: ['virtual reality']
-
- ## GEN77 -^ Melayani Anda 7x24 Jam Dengan Keramahan Livechat
- - [http://oculusrift-blog.com](http://oculusrift-blog.com)
- - date_published: 2024-07-04T14:55:15+00:00
-
- ## Meta Community Forums
- - [https://forums.oculusvr.com](https://forums.oculusvr.com)
- - date_published: 2024-07-16T17:04:00.878660+00:00
-
- ## Oda
- - [https://oda.com](https://oda.com)
- - date_published: 2024-07-02T19:50:48.762250+00:00
-
- ## Oddbee | Digital Hive
- - [https://oddbee.com](https://oddbee.com)
- - date_published: 2024-08-06T17:44:33.127284+00:00
-
- ## blog.oddbit.com
- - [https://blog.oddbit.com](https://blog.oddbit.com)
- - date_published: 2023-10-25T16:24:27.134295+00:00
-
- ## The Odd Bit
- - [https://oddbit.com](https://oddbit.com)
- - date_published: 2023-02-14T01:26:31+00:00
-
- ## Home |Odd Dot Publisher in New York
- - [https://www.odddot.com](https://www.odddot.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Oddhead Blog | Musings of a computer scientist on predictions, odds, and markets
- - [http://blog.oddhead.com](http://blog.oddhead.com)
- - date_published: 2024-06-30T05:33:19.948442+00:00
-
- ## Oddio Overplay
- - [http://www.oddiooverplay.com](http://www.oddiooverplay.com)
- - date_published: 2024-10-21T04:21:00.512814+00:00
-
- ## Homework AI | AI Homework Helper | Oddity AI
- - [https://oddityai.com](https://oddityai.com)
- - date_published: 2024-10-30T07:05:38.876685+00:00
-
- ## Oddity Central - Weird Places, Odd Events, Bizarre News, Strange People and A Lot More
- - [https://odditycentral.com](https://odditycentral.com)
- - date_published: 2023-10-25T16:24:35.768219+00:00
 

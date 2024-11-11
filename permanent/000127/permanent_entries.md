@@ -1,3 +1,39 @@
+ ## Santam Switch
+ - [https://jasure.com](https://jasure.com)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## The global hub for automotive market intelligence and analysis
+ - [https://jato.com](https://jato.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ - [https://java.com](https://java.com)
+ - date_published: 2024-07-08T11:53:26+00:00
+ - tags: ['programming language']
+
+ ## Java67
+ - [http://www.java67.com](http://www.java67.com)
+ - date_published: 2024-09-03T21:47:00+00:00
+
+ ## Welcome To The Java Advent Calendar - JVM Advent
+ - [https://javaadvent.com](https://javaadvent.com)
+ - date_published: 2023-10-25T15:27:22.352791+00:00
+
+ ## Best Programming Online Video Courses - Java Code Geeks
+ - [https://courses.javacodegeeks.com](https://courses.javacodegeeks.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Java Code Geeks Deals
+ - [https://deals.javacodegeeks.com](https://deals.javacodegeeks.com)
+ - date_published: 2024-06-22T07:45:55.201779+00:00
+
+ ## Java Code Geeks
+ - [https://examples.javacodegeeks.com](https://examples.javacodegeeks.com)
+ - date_published: 2024-06-22T07:45:57.625003+00:00
+
+ ## Java Code Geeks
+ - [https://www.javacodegeeks.com](https://www.javacodegeeks.com)
+ - date_published: 2024-05-04T15:13:09.078434+00:00
+
  ## Explore, Learn, and Master Industry-Standard Patterns
  - [https://java-design-patterns.com](https://java-design-patterns.com)
  - date_published: 2024-06-09T00:00:00+00:00
@@ -4043,41 +4079,4 @@
  ## Domain Names Registration, Domain Transfer, SSL Certificates, Free DNS, Privacy Protection • JJInfosys.com
  - [http://www.jjinfosys.com](http://www.jjinfosys.com)
  - date_published: 2024-06-29T19:04:42.330807+00:00
-
- ## JJinuxLand
- - [http://www.jjinux.com](http://www.jjinux.com)
- - date_published: 2024-06-28T05:32:09+00:00
-
- ## Safety & Compliance for DOT Transportation, OSHA, HR - J. J. Keller & Associates, Inc.
- - [https://www.jjkeller.com](https://www.jjkeller.com)
- - date_published: 2024-06-22T19:22:42.879741+00:00
-
- ## Jjot
- - [https://www.jjot.com](https://www.jjot.com)
- - date_published: 2023-08-03T22:02:20+00:00
-
- ## Jeffrey Rowland's Internet Comics
- - [http://jjrowland.com](http://jjrowland.com)
- - date_published: 2024-07-17T10:00:35.199893+00:00
-
- ## Home
- - [https://jjrscott.com](https://jjrscott.com)
- - date_published: 2024-06-13T09:52:16+00:00
-
- ## The Mackerel Corporate Newsletter - Pressroom
- - [https://the-mackerel.jjsea.com](https://the-mackerel.jjsea.com)
- - date_published: 2024-08-11T05:52:12.759715+00:00
-
- ## Joseph Jude - Coach • CTO • Podcast Host
- - [https://jjude.com](https://jjude.com)
- - date_published: 2023-12-05T14:37:52.987095+00:00
- - tags: ['personal']
-
- ## Jonathan Katz
- - [https://jkatz05.com](https://jkatz05.com)
- - date_published: 2023-10-25T15:29:21.287258+00:00
-
- ## Jussi-Petteri Kemppainen – Professional portfolio
- - [https://www.jkemppainen.com](https://www.jkemppainen.com)
- - date_published: 2024-05-01T08:17:20.450056+00:00
 

@@ -1,3 +1,92 @@
+ ## DEV: Challenge Accepted 2024 - The Third Wave
+ - [https://www.challengeaccepted.dev](https://www.challengeaccepted.dev)
+ - date_published: 2024-06-07T21:24:04+00:00
+
+ ## Chaos Engineering | Francisco Javier Arceo | Substack
+ - [https://www.chaos-engineering.dev](https://www.chaos-engineering.dev)
+ - date_published: 2023-10-25T18:36:19.103017+00:00
+
+ ## My Interweb homepage
+ - [https://www.charleslanglois.dev](https://www.charleslanglois.dev)
+ - date_published: 2021-03-28T05:22:20+00:00
+
+ ## Recent Posts | Charron Developer Blog
+ - [https://charron.dev](https://charron.dev)
+ - date_published: 2024-07-23T23:42:06.982153+00:00
+
+ ## ChartGPT
+ - [https://www.chartgpt.dev](https://www.chartgpt.dev)
+ - date_published: 2024-06-19T18:52:05.975264+00:00
+
+ ## Chase Myers
+ - [https://chasem.dev](https://chasem.dev)
+ - date_published: 2024-05-09T08:30:17.819844+00:00
+
+ ## Chat2Code
+ - [https://chat2code.dev](https://chat2code.dev)
+ - date_published: 2024-06-19T21:13:37.758855+00:00
+
+ ## ChatGPT Hackers
+ - [https://www.chatgpthackers.dev](https://www.chatgpthackers.dev)
+ - date_published: 2024-08-19T11:36:44.840687+00:00
+
+ ## Hello from cheehow.dev | cheehow.dev
+ - [https://cheehow.dev](https://cheehow.dev)
+ - date_published: 2024-05-07T23:11:53.317846+00:00
+
+ ## Cherif BOUCHELAGHEM
+ - [https://cherifbouchelaghem.dev](https://cherifbouchelaghem.dev)
+ - date_published: 2024-05-09T08:24:52.652309+00:00
+
+ ## Home - Chester Devs
+ - [https://chester.dev](https://chester.dev)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Chevy Ray
+ - [https://chevyray.dev](https://chevyray.dev)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## Chiamaka Ikeanyi
+ - [https://chiamakaikeanyi.dev](https://chiamakaikeanyi.dev)
+ - date_published: 2024-05-11T10:21:23.960380+00:00
+
+ ## Chirpy
+ - [https://chirpy.dev](https://chirpy.dev)
+ - date_published: 2024-04-08T19:27:27.624836+00:00
+ - tags: ['disqus alternate', 'self-host']
+
+ ## About
+ - [https://chittur.dev](https://chittur.dev)
+ - date_published: 2024-04-28T12:27:14+00:00
+
+ ## You Code, We Orchestrate
+ - [https://choreo.dev](https://choreo.dev)
+ - date_published: 2024-06-23T11:46:43.127773+00:00
+
+ ## Hi, I'm Christian Engel
+ - [https://chringel.dev](https://chringel.dev)
+ - date_published: 2021-12-21T00:00:00+00:00
+
+ ## Chris Armstrong
+ - [https://www.chrisarmstrong.dev](https://www.chrisarmstrong.dev)
+ - date_published: 2024-10-28T07:13:12.290128+00:00
+
+ ## I Build Things
+ - [https://chrismcleod.dev](https://chrismcleod.dev)
+ - date_published: 2024-01-13T14:02:26.119531+00:00
+
+ ## Sign in - Indiekit
+ - [https://indieweb.chrismcleod.dev](https://indieweb.chrismcleod.dev)
+ - date_published: 2024-04-29T07:28:35.432099+00:00
+
+ ## Chris Nicholas | Developer experience at Liveblocks
+ - [https://chrisnicholas.dev](https://chrisnicholas.dev)
+ - date_published: 2024-01-02T15:32:22.185407+00:00
+
+ ## Chris Otto | Father, Developer, SDET
+ - [https://chrisotto.dev](https://chrisotto.dev)
+ - date_published: 2024-05-11T10:21:26.931408+00:00
+
  ## Library
  - [https://library.chrisotto.dev](https://library.chrisotto.dev)
  - date_published: 2024-07-14T09:43:25.722989+00:00
@@ -2898,6 +2987,10 @@
  - [https://nsblog.hashnode.dev](https://nsblog.hashnode.dev)
  - date_published: 2024-07-14T09:54:22.727553+00:00
 
+ ## NullByte Tech Journals
+ - [https://nullbyte.hashnode.dev](https://nullbyte.hashnode.dev)
+ - date_published: 2024-11-10T17:37:01.817192+00:00
+
  ## Pair Debugging with Ada Lovelace
  - [https://pairdebuggingwithlovelace.hashnode.dev](https://pairdebuggingwithlovelace.hashnode.dev)
  - date_published: 2024-10-08T00:00:00+00:00
@@ -3983,98 +4076,4 @@
  ## kamilcodes.dev
  - [https://kamilcodes.dev](https://kamilcodes.dev)
  - date_published: 2022-06-16T00:00:00+00:00
-
- ## Pitu - Overview
- - [https://kana.dev](https://kana.dev)
- - date_published: 2024-10-31T05:26:07.233437+00:00
-
- ## Kapitan: Keep your ship together
- - [https://kapitan.dev](https://kapitan.dev)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## katlyn
- - [https://katlyn.dev](https://katlyn.dev)
- - date_published: 2024-10-27T12:14:57.011721+00:00
-
- ## katt.dev
- - [https://katt.dev](https://katt.dev)
- - date_published: 2024-06-23T03:50:19.558758+00:00
-
- ## kayh.dev
- - [https://www.kayh.dev](https://www.kayh.dev)
- - date_published: 2024-05-17T03:12:35+00:00
-
- ## Kevin K's Blog
- - [https://kbknapp.dev](https://kbknapp.dev)
- - date_published: 2024-02-03T00:00:00+00:00
-
- ## Keadex - Experiment. Learn. Share.
- - [https://keadex.dev](https://keadex.dev)
- - date_published: 2024-05-08T04:07:15.596785+00:00
-
- ## Introduction - Keep
- - [https://docs.keephq.dev](https://docs.keephq.dev)
- - date_published: 2024-04-29T07:49:59.093797+00:00
-
- ## Keep - Open-source AIOps platform
- - [https://keephq.dev](https://keephq.dev)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Join Keep Community on Slack
- - [https://slack.keephq.dev](https://slack.keephq.dev)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Wordpress and Magento Web Developer in Belfast, NI
- - [https://keithgreer.dev](https://keithgreer.dev)
- - date_published: 2024-04-03T06:24:14.279907+00:00
- - tags: ['personal']
-
- ## Contact
- - [https://ken.dev](https://ken.dev)
- - date_published: 2024-06-23T06:03:31.662096+00:00
-
- ## Kevin Black
- - [https://kevinblack.dev](https://kevinblack.dev)
- - date_published: 2024-07-06T00:50:53+00:00
-
- ## Quick start | Keycloakify
- - [https://docs.keycloakify.dev](https://docs.keycloakify.dev)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## KeyDB - The Faster Redis Alternative
- - [https://docs.keydb.dev](https://docs.keydb.dev)
- - date_published: 2023-05-03T05:00:38+00:00
-
- ## KeyDB - The Faster Redis Alternative
- - [https://keydb.dev](https://keydb.dev)
- - date_published: 2024-04-29T07:50:48.587700+00:00
-
- ## KFR | Fast, modern C&#43;&#43; DSP framework
- - [https://www.kfr.dev](https://www.kfr.dev)
- - date_published: 2024-04-04T14:28:36+00:00
-
- ## Kash Goudarzi
- - [https://kg.dev](https://kg.dev)
- - date_published: 2023-10-25T08:48:37.577143+00:00
- - tags: ['personal']
-
- ## samara's site
- - [https://khcrysalis.dev](https://khcrysalis.dev)
- - date_published: 2024-10-27T12:14:55.865307+00:00
-
- ## Open-Source, Personal AI
- - [https://khoj.dev](https://khoj.dev)
- - date_published: 2024-08-06T09:28:36.805752+00:00
-
- ## Kiesel JavaScript Engine
- - [https://kiesel.dev](https://kiesel.dev)
- - date_published: 2024-06-15T20:24:36+00:00
-
- ## Show HN: Interactive map of the convenience store "turf war" in Japan
- - [https://conbini.kikkia.dev](https://conbini.kikkia.dev)
- - date_published: 2024-09-23T13:49:31+00:00
-
- ## Gerol Petruzella Ph.D.
- - [https://kindo.dev](https://kindo.dev)
- - date_published: 2024-07-23T23:26:07.113791+00:00
 

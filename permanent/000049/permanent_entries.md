@@ -1,3 +1,11 @@
+ ## Carry On (Plastic Heart Radio Remix), by Alex Chilltown
+ - [https://alexchilltown.bandcamp.com](https://alexchilltown.bandcamp.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Alex FX
+ - [https://alexfx.bandcamp.com](https://alexfx.bandcamp.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
  ## ALEX
  - [https://alexofficial.bandcamp.com](https://alexofficial.bandcamp.com)
  - date_published: 2023-12-11T15:36:59.071098+00:00
@@ -3992,12 +4000,4 @@
  ## Pressure Sounds
  - [https://pressuresounds.bandcamp.com](https://pressuresounds.bandcamp.com)
  - date_published: 2024-06-29T00:00:00+00:00
-
- ## hot lava, by Prima
- - [https://prima1.bandcamp.com](https://prima1.bandcamp.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Private Lives
- - [https://privatelivesmtl.bandcamp.com](https://privatelivesmtl.bandcamp.com)
- - date_published: 2024-09-16T00:00:00+00:00
 

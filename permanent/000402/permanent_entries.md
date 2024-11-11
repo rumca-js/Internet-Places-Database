@@ -1,3 +1,157 @@
+ ## Jakość z Natury • Żywiec Zdrój
+ - [https://www.zywiec-zdroj.pl](https://www.zywiec-zdroj.pl)
+ - date_published: 2024-07-14T05:28:49.593114+00:00
+
+ ## Estrada Rzeszowska
+ - [https://estrada.rzeszow.pl](https://estrada.rzeszow.pl)
+ - date_published: 2024-05-29T09:58:07.074343+00:00
+
+ ## Wzory wniosków i zaświadczeń dla nauczycieli ubiegających się o nadanie stopnia nauczyciela dyplomowanego.
+ - [http://www.ko.rzeszow.pl](http://www.ko.rzeszow.pl)
+ - date_published: 2024-08-19T21:16:16.653917+00:00
+
+ ## Strefa Zdrowia
+ - [https://www.strefazdrowia.sanok.pl](https://www.strefazdrowia.sanok.pl)
+ - date_published: 2024-07-09T13:31:08.300306+00:00
+
+ ## Amazonki Stargard
+ - [https://www.amazonki.stargard.pl](https://www.amazonki.stargard.pl)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Strona główna - WORD Szczecin
+ - [http://zwrbrd.word.szczecin.pl](http://zwrbrd.word.szczecin.pl)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Wzorowy Blog
+ - [http://www.wzorcownia.tm.pl](http://www.wzorcownia.tm.pl)
+ - date_published: 2024-07-17T12:14:40.661563+00:00
+
+ ## Wielkopolski Urząd Wojewódzki w Poznaniu
+ - [https://www.poznan.uw.gov.pl](https://www.poznan.uw.gov.pl)
+ - date_published: 2024-09-13T16:25:29+00:00
+
+ ## Oficjalna strona Zamku Książ w Wałbrzychu
+ - [https://www.ksiaz.walbrzych.pl](https://www.ksiaz.walbrzych.pl)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Internetowa Stolica Polski -
+ - [http://arch.warszawa.pl](http://arch.warszawa.pl)
+ - date_published: 2024-07-19T21:55:59.228381+00:00
+
+ ## gfx.pl.warszawa.pl
+ - [http://gfx.pl.warszawa.pl](http://gfx.pl.warszawa.pl)
+ - date_published: 2024-07-17T12:14:46.261321+00:00
+
+ ## Home
+ - [https://en.um.warszawa.pl](https://en.um.warszawa.pl)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Strona Główna
+ - [https://kultura.um.warszawa.pl](https://kultura.um.warszawa.pl)
+ - date_published: 2024-06-30T06:13:17.730497+00:00
+
+ ## Strona Główna
+ - [https://um.warszawa.pl](https://um.warszawa.pl)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Warszawa.pl – Strona Główna
+ - [https://www.warszawa.pl](https://www.warszawa.pl)
+ - date_published: 2023-12-05T15:23:45+00:00
+ - tags: ['warsow']
+
+ ## DSH - Strona głowna
+ - [https://dsh.waw.pl](https://dsh.waw.pl)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Strona główna
+ - [http://www.hospicjum.waw.pl](http://www.hospicjum.waw.pl)
+ - date_published: 2024-08-18T17:09:00.325261+00:00
+
+ ## Home Page - Systems Research Institute Polish Academy of Sciences
+ - [https://www.ibspan.waw.pl](https://www.ibspan.waw.pl)
+ - date_published: 2024-10-18T20:29:33.561784+00:00
+
+ ## Instytut - Instytut Podstaw Informatyki Polskiej Akademii Nauk
+ - [http://www.ipipan.waw.pl](http://www.ipipan.waw.pl)
+ - date_published: 2024-08-06T22:27:00+00:00
+
+ ## Home - MZA
+ - [https://www.mza.waw.pl](https://www.mza.waw.pl)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## OSW Ośrodek Studiów Wschodnich
+ - [https://osw.waw.pl](https://osw.waw.pl)
+ - date_published: 2024-04-07T14:03:15.091143+00:00
+
+ ## WAW POKEMON - największy Polski serwis o Pokemon! 😎
+ - [http://pokemon.waw.pl](http://pokemon.waw.pl)
+ - date_published: 2024-06-03T08:07:58+00:00
+
+ ## Rozrywka - Jolki - Krzyżówki - Sudoku
+ - [https://rozrywka.waw.pl](https://rozrywka.waw.pl)
+ - date_published: 2024-07-01T09:52:37+00:00
+
+ ## sikorsoft.waw.pl
+ - [https://sikorsoft.waw.pl](https://sikorsoft.waw.pl)
+ - date_published: 2024-05-07T23:54:50.301034+00:00
+
+ ## Strona główna - Wojewódzki Ośrodek Ruchu Drogowego w Warszawie
+ - [http://bip.word.waw.pl](http://bip.word.waw.pl)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## WORD Warszawa - Strona główna
+ - [https://word.waw.pl](https://word.waw.pl)
+ - date_published: 2024-05-29T10:28:22.372524+00:00
+
+ ## ZTM Warszawa
+ - [http://www.ztm.waw.pl](http://www.ztm.waw.pl)
+ - date_published: 2024-08-19T23:58:28+00:00
+ - tags: ['public transportation', 'government']
+
+ ## Wojewódzki Inspektorat Weterynarii we Wrocławiu
+ - [https://wroc.wiw.gov.pl](https://wroc.wiw.gov.pl)
+ - date_published: 2024-09-26T11:23:38.617152+00:00
+
+ ## Strona główna
+ - [https://zgora.wiw.gov.pl](https://zgora.wiw.gov.pl)
+ - date_published: 2024-09-26T11:23:40+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://airport.wroclaw.pl](https://airport.wroclaw.pl)
+ - date_published: 2024-07-17T15:45:20.808004+00:00
+
+ ## HOME - Convention Bureau Wrocław
+ - [https://convention.wroclaw.pl](https://convention.wroclaw.pl)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Centrum Usług Informatycznych we Wrocławiu – Strona główna
+ - [http://cui.wroclaw.pl](http://cui.wroclaw.pl)
+ - date_published: 2024-07-17T15:42:49.597134+00:00
+
+ ## Strona logowania - DeklaracjeDostepnosci 2.0.5
+ - [https://wcag.cui.wroclaw.pl](https://wcag.cui.wroclaw.pl)
+ - date_published: 2024-07-17T15:44:30.823876+00:00
+
+ ## Oferta sprzedaży domeny: devfest.wroclaw.pl
+ - [https://devfest.wroclaw.pl](https://devfest.wroclaw.pl)
+ - date_published: 2024-06-23T21:44:21.963497+00:00
+
+ ## SIP - System Informacji Przestrzennej Wrocławia
+ - [https://geoportal.wroclaw.pl](https://geoportal.wroclaw.pl)
+ - date_published: 2024-05-14T02:46:35.401433+00:00
+
+ ## Wydarzenia we Wrocławiu. Sprawdź aktualny kalendarz imprez
+ - [https://go.wroclaw.pl](https://go.wroclaw.pl)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Sign in | Formularze wroclaw.pl
+ - [https://sonda.wroclaw.pl](https://sonda.wroclaw.pl)
+ - date_published: 2024-05-14T02:47:22.318708+00:00
+
+ ## Dialog Międzykulturowy Wrocław | Intercultural Dialogue Wrocław – Informacje o działaniach z zakresu dialogu międzykulturowego we Wrocławiu
+ - [https://wielokultury.wroclaw.pl](https://wielokultury.wroclaw.pl)
+ - date_published: 2024-05-14T02:47:38.514376+00:00
+
  ## www.wroclaw.pl – najświeższe wiadomości z Wrocławia
  - [https://www.wroclaw.pl](https://www.wroclaw.pl)
  - date_published: 2024-04-08T05:16:42+00:00
@@ -3862,157 +4016,4 @@
  ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
  - [https://www.jack-wolfskin.pt](https://www.jack-wolfskin.pt)
  - date_published: 2024-07-14T12:16:01.561750+00:00
-
- ## Javali - Open Source – Websites/Portais, Drupal, Mobile, CRM
- - [http://www.javali.pt](http://www.javali.pt)
- - date_published: 2024-05-16T10:46:54+00:00
-
- ## JD Sports Portugal: Loja online de sapatilhas e roupa
- - [https://www.jdsports.pt](https://www.jdsports.pt)
- - date_published: 2024-10-21T02:17:22.247796+00:00
-
- ## Comprar carros SUV Jeep®, modelos 4x4 e acessórios | Jeep® PT
- - [https://www.jeep.pt](https://www.jeep.pt)
- - date_published: 2024-06-18T14:02:45+00:00
-
- ## Estimativa do seu veiculo | Retoma Jeep PT
- - [https://www.retoma.jeep.pt](https://www.retoma.jeep.pt)
- - date_published: 2024-10-28T16:39:45.642535+00:00
-
- ## Junta de Freguesia da União de Freguesias do Montijo e Afonsoeiro
- - [https://jf-montijoeafonsoeiro.pt](https://jf-montijoeafonsoeiro.pt)
- - date_published: 2024-09-05T15:41:35.355048+00:00
-
- ## Comprar ou arrendar casa, apartamento e outros imóveis | JLL
- - [https://residential.jll.pt](https://residential.jll.pt)
- - date_published: 2024-06-25T16:23:09.805420+00:00
-
- ## Consultores e profissionais imobiliários | JLL Portugal
- - [https://www.jll.pt](https://www.jll.pt)
- - date_published: 2024-10-30T21:39:56.621527+00:00
-
- ## Global Media Group -
- - [https://invoice.jn.pt](https://invoice.jn.pt)
- - date_published: 2024-07-12T21:24:21.834021+00:00
-
- ## Jornal de Notícias
- - [https://jn.pt](https://jn.pt)
- - date_published: 2024-05-10T06:16:41.978312+00:00
-
- ## Welcome to nginx!
- - [https://previous-assets.jn.pt](https://previous-assets.jn.pt)
- - date_published: 2018-12-04T14:52:24+00:00
-
- ## Publicidade - JN
- - [https://publicidade.jn.pt](https://publicidade.jn.pt)
- - date_published: 2024-07-12T21:24:15.362933+00:00
-
- ## Welcome to WildFly Application Server 8
- - [https://quiosque.jn.pt](https://quiosque.jn.pt)
- - date_published: 2014-11-20T22:43:22+00:00
-
- ## Notícias da atualidade | Jornal de Abrantes
- - [https://jornaldeabrantes.pt](https://jornaldeabrantes.pt)
- - date_published: 2024-09-05T14:02:02.747995+00:00
-
- ## Página Inicial | Jogo da Bolsa
- - [http://jogodabolsa.jornaldenegocios.pt](http://jogodabolsa.jornaldenegocios.pt)
- - date_published: 2024-07-12T20:30:19.934788+00:00
-
- ## Negócios: Cotações, Mercados, Economia, Empresas
- - [http://www.jornaldenegocios.pt](http://www.jornaldenegocios.pt)
- - date_published: 2024-06-25T18:53:12.382199+00:00
-
- ## A Revista Must do Jornal de Negócios
- - [https://www.must.jornaldenegocios.pt](https://www.must.jornaldenegocios.pt)
- - date_published: 2024-07-12T20:30:41.089236+00:00
-
- ## Easy Tax | Jornal Económico & EY
- - [https://easytax.jornaleconomico.pt](https://easytax.jornaleconomico.pt)
- - date_published: 2024-02-09T00:00:00+00:00
-
- ## O Jornal Económico
- - [https://jornaleconomico.pt](https://jornaleconomico.pt)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Leitor | Jornal Económico
- - [https://leitor.jornaleconomico.pt](https://leitor.jornaleconomico.pt)
- - date_published: 2024-09-05T14:01:21.150165+00:00
-
- ## Leitor | Jornal Económico
- - [https://registo.jornaleconomico.pt](https://registo.jornaleconomico.pt)
- - date_published: 2024-09-05T14:01:07.188678+00:00
-
- ## AN E+ JA
- - [https://juventude.pt](https://juventude.pt)
- - date_published: 2024-09-15T20:57:54.823771+00:00
-
- ## Organização Youth For Human Rights: Vídeo Documentário A História dos Direitos Humanos, Informação, Notícias, Kit do Professor e Livros
- - [http://www.juventudeparaosdireitoshumanos.pt](http://www.juventudeparaosdireitoshumanos.pt)
- - date_published: 2024-08-30T00:40:37+00:00
-
- ## Segurança cibernética Kaspersky para particulares e empresas  | Kaspersky
- - [https://www.kaspersky.pt](https://www.kaspersky.pt)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Keep it Simple
- - [https://keepitsimple.pt](https://keepitsimple.pt)
- - date_published: 2024-09-03T15:13:01+00:00
-
- ## Kia Portugal | Descubra a gama de carros Kia aqui
- - [https://kia.pt](https://kia.pt)
- - date_published: 2024-07-08T16:34:21+00:00
-
- ## Konecranes
- - [https://www.konecranes.pt](https://www.konecranes.pt)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## KULTGAMES
- - [https://kultgames.pt](https://kultgames.pt)
- - date_published: 2024-07-02T13:05:45.702286+00:00
- - tags: ['shop', 'wargames', 'toys']
-
- ## Lancia: o carro urbano com classe | Site oficial | Lancia PT
- - [http://www.lancia.pt](http://www.lancia.pt)
- - date_published: 2024-04-23T11:10:25+00:00
-
- ## Land Rover. Veículos 4x4 e SUV Sofisticados
- - [https://www.landrover.pt](https://www.landrover.pt)
- - date_published: 2024-07-09T17:15:03.558825+00:00
-
- ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
- - [https://www.languagetrainers.pt](https://www.languagetrainers.pt)
- - date_published: 2024-07-02T09:21:08.290410+00:00
-
- ## Lavva Digital Agency - Branding & Websites
- - [https://www.lavva.pt](https://www.lavva.pt)
- - date_published: 2024-10-14T21:27:41.447949+00:00
-
- ## NewLayjan - Talent management
- - [https://layjan.pt](https://layjan.pt)
- - date_published: 2024-09-05T14:58:31.344462+00:00
-
- ## Home - Líder TV
- - [https://lidertv.pt](https://lidertv.pt)
- - date_published: 2024-09-05T15:41:05.778493+00:00
-
- ## Lidl Portugal - lidl.pt
- - [https://www.lidl.pt](https://www.lidl.pt)
- - date_published: 2024-06-25T19:02:20.647944+00:00
-
- ## Vogue Portugal and GQ Portugal official online store
- - [https://shop.light-house.pt](https://shop.light-house.pt)
- - date_published: 2024-06-18T07:24:24.444353+00:00
-
- ## Agenda Cultural de Lisboa - Descubra a parte mais interessante da cidade
- - [http://www.lisboacultural.pt](http://www.lisboacultural.pt)
- - date_published: 2024-07-12T20:50:10.640552+00:00
-
- ## CCL - Centro de Congressos de Lisboa
- - [https://ccl.lisbonvenues.pt](https://ccl.lisbonvenues.pt)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Empresa de web design e desenvolvimento de sites - Livetech
- - [https://livetech.pt](https://livetech.pt)
- - date_published: 2024-09-05T14:02:01.029342+00:00
 

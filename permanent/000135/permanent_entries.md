@@ -1,3 +1,39 @@
+ ## Subscribe to the Express Times - Lehighvalleylive.com
+ - [https://subscribe.lehighvalleylive.com](https://subscribe.lehighvalleylive.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Lehigh Valley news, Easton, Bethlehem, Allentown, Phillipsburg and Lehigh Valley sports & weather
+ - [http://www.lehighvalleylive.com](http://www.lehighvalleylive.com)
+ - date_published: 2024-06-24T11:17:12+00:00
+
+ ## Lehigh Valley United
+ - [http://www.lehighvalleyunited.com](http://www.lehighvalleyunited.com)
+ - date_published: 2024-07-09T16:03:52+00:00
+
+ ## LEHMAN, LEE & XU LLP - A Top-3 China Law Firm
+ - [http://chinablawg.lehmanlaw.com](http://chinablawg.lehmanlaw.com)
+ - date_published: 2024-07-13T10:41:13.695791+00:00
+
+ ## Leia Inc. | Immersity on Any Device
+ - [http://www.leiainc.com](http://www.leiainc.com)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Leia the Cat
+ - [https://leiaonsolana.com](https://leiaonsolana.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Homepage | Leica Camera PL
+ - [https://leica-camera.com](https://leica-camera.com)
+ - date_published: 2024-05-08T11:42:47.190233+00:00
+
+ ## Homepage | Leica Camera AG
+ - [https://store.leica-camera.com](https://store.leica-camera.com)
+ - date_published: 2024-06-23T06:52:07+00:00
+
+ ## Homepage | Leica Camera US
+ - [http://us.leica-camera.com](http://us.leica-camera.com)
+ - date_published: 2024-07-04T06:40:20+00:00
+
  ## Leica Geosystems
  - [http://www.leica-geosystems.com](http://www.leica-geosystems.com)
  - date_published: 2024-10-16T05:49:21.394018+00:00
@@ -3706,7 +3742,7 @@
  ## LibHunt - Trending open-source projects and their alternatives
  - [https://libhunt.com](https://libhunt.com)
  - date_published: 2024-04-25T17:18:07+00:00
- - tags: ['programming library', 'page database', 'open source', 'ranking page']
+ - tags: ['programming library', 'page database', 'open source', 'page rank']
 
  ## Awesome Node.js | LibHunt
  - [https://nodejs.libhunt.com](https://nodejs.libhunt.com)
@@ -4036,40 +4072,4 @@
  ## About LibRaw LLC | LibRaw LLC
  - [http://www.libraw.com](http://www.libraw.com)
  - date_published: 2024-10-16T07:25:04+00:00
-
- ## Mastodon Libre-Entreprise
- - [https://mastodon.libre-entreprise.com](https://mastodon.libre-entreprise.com)
- - date_published: 2024-07-19T05:20:03.643181+00:00
-
- ## LibreHacker's Capsule
- - [http://gem.librehacker.com](http://gem.librehacker.com)
- - date_published: 2024-04-28T06:11:54.829959+00:00
-
- ## Welcome
- - [http://libreivan.com](http://libreivan.com)
- - date_published: 2024-08-03T09:05:20+00:00
-
- ## Categories - docs.librekb.com
- - [https://docs.librekb.com](https://docs.librekb.com)
- - date_published: 2024-09-13T17:28:11.611816+00:00
-
- ## LibreKB
- - [https://librekb.com](https://librekb.com)
- - date_published: 2024-06-13T08:36:32.555332+00:00
-
- ## LibreLeaf Acres – Sustainable Homesteading by Kolomona Myer
- - [https://libreleaf.com](https://libreleaf.com)
- - date_published: 2024-09-19T21:47:32.492947+00:00
-
- ## LibreLinkUp
- - [https://librelinkup.com](https://librelinkup.com)
- - date_published: 2024-07-11T20:58:52.886339+00:00
-
- ## Librelist: Welcome to librelist.com
- - [http://librelist.com](http://librelist.com)
- - date_published: 2022-06-01T16:09:11+00:00
-
- ## Sign in · GitLab
- - [https://git.libremobileos.com](https://git.libremobileos.com)
- - date_published: 2024-10-27T07:45:19.910526+00:00
 

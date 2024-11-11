@@ -1,3 +1,19 @@
+ ## Careers and Jobs at Fourthwall
+ - [https://jobs.fourthwall.com](https://jobs.fourthwall.com)
+ - date_published: 2024-03-18T18:59:20+00:00
+
+ ## True Crime Goods
+ - [https://law-crime-shop.fourthwall.com](https://law-crime-shop.fourthwall.com)
+ - date_published: 2024-06-21T10:26:46.416871+00:00
+
+ ## Fourthwall
+ - [https://link.fourthwall.com](https://link.fourthwall.com)
+ - date_published: 2024-07-14T13:04:24.512687+00:00
+
+ ## MadsMitch
+ - [https://mads-mitch-shop.fourthwall.com](https://mads-mitch-shop.fourthwall.com)
+ - date_published: 2024-06-15T17:19:31.400548+00:00
+
  ## Orly Shani
  - [https://orly-shani-shop.fourthwall.com](https://orly-shani-shop.fourthwall.com)
  - date_published: 2024-06-15T17:19:35.163108+00:00
@@ -4012,20 +4028,4 @@
  ## Fronius  - Repowering Tool
  - [https://repowering.fronius.com](https://repowering.fronius.com)
  - date_published: 2024-05-28T07:24:00+00:00
-
- ## Fronius Resources
- - [https://resources.fronius.com](https://resources.fronius.com)
- - date_published: 2022-07-07T10:38:43+00:00
-
- ## Front Academy
- - [https://academy.front.com](https://academy.front.com)
- - date_published: 2024-06-16T06:00:33.228504+00:00
-
- ## Front Community | Community
- - [https://community.front.com](https://community.front.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Front - Customer Service Platform
- - [https://front.com](https://front.com)
- - date_published: 2024-05-09T08:46:09.439360+00:00
 

@@ -1,3 +1,15 @@
+ ## Login - Intelligent Advisor Hub
+ - [https://unisa-opa.custhelp.com](https://unisa-opa.custhelp.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Support Home Page
+ - [https://unm.custhelp.com](https://unm.custhelp.com)
+ - date_published: 2024-05-07T21:43:47.172843+00:00
+
+ ## Support Home Page
+ - [https://unm-student.custhelp.com](https://unm-student.custhelp.com)
+ - date_published: 2024-05-07T21:44:11.874632+00:00
+
  ## AskAuckland - University of Auckland
  - [https://uoa.custhelp.com](https://uoa.custhelp.com)
  - date_published: 2024-07-24T03:15:34.136068+00:00
@@ -1085,8 +1097,9 @@ for your agency
  - date_published: 2024-10-22T02:19:34.402268+00:00
 
  ## CyberPunks.com — High-Tech Low-Life
- - [https://www.cyberpunks.com](https://www.cyberpunks.com)
- - date_published: 2024-06-18T00:00:00+00:00
+ - [https://cyberpunks.com](https://cyberpunks.com)
+ - date_published: 2024-11-10T08:36:56+00:00
+ - tags: ['cyberpunk', 'news']
 
  ## Cyber Security Risk Management I The Resilience Solution
  - [https://www.cyberresilience.com](https://www.cyberresilience.com)
@@ -4026,17 +4039,4 @@ for your agency
  ## Dániel Kophelyi
  - [http://danielkophelyi.com](http://danielkophelyi.com)
  - date_published: 2024-07-13T15:19:39.705044+00:00
-
- ## Yes you are here!
- - [https://danielkrasner.com](https://danielkrasner.com)
- - date_published: 2020-06-11T08:21:15+00:00
-
- ## Daniel Krieger Photography
- - [https://www.danielkrieger.com](https://www.danielkrieger.com)
- - date_published: 2024-05-06T18:15:42.081379+00:00
- - tags: ['personal']
-
- ## Daniel Lange's blog
- - [https://daniel-lange.com](https://daniel-lange.com)
- - date_published: 2024-06-20T00:00:00+00:00
 

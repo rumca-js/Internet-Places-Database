@@ -1,3 +1,95 @@
+ ## Campus Recreation
+ - [http://recreation.union.rpi.edu](http://recreation.union.rpi.edu)
+ - date_published: 2024-07-01T18:29:28.502102+00:00
+
+ ## Office for Research | Rensselaer Polytechnic Institute
+ - [https://research.rpi.edu](https://research.rpi.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ROTC | Rensselaer Polytechnic Institute
+ - [https://rotc.rpi.edu](https://rotc.rpi.edu)
+ - date_published: 2024-07-01T18:24:25+00:00
+
+ ## Rensselaer Polytechnic Institute
+ - [https://rpi.edu](https://rpi.edu)
+ - date_published: 2024-05-07T20:08:25.719125+00:00
+
+ ## RPInfo | RPI INFO
+ - [http://rpinfo.rpi.edu](http://rpinfo.rpi.edu)
+ - date_published: 2024-07-01T18:28:13.345096+00:00
+
+ ## Home | Office of Community Engagement and Communications
+ - [https://scer.rpi.edu](https://scer.rpi.edu)
+ - date_published: 2024-05-07T20:08:27.436933+00:00
+
+ ## School of Science at Rensselaer | Science at Rensselaer
+ - [https://science.rpi.edu](https://science.rpi.edu)
+ - date_published: 2024-07-01T18:28:03+00:00
+
+ ## RPI Student Government
+ - [https://sg.rpi.edu](https://sg.rpi.edu)
+ - date_published: 2024-07-01T18:29:08.254752+00:00
+
+ ## Redirect to Banner 8 SIS Login Page
+ - [http://sis.rpi.edu](http://sis.rpi.edu)
+ - date_published: 2023-01-31T18:25:44+00:00
+
+ ## Student Living and Learning | Rensselaer Polytechnic Institute
+ - [https://sll.rpi.edu](https://sll.rpi.edu)
+ - date_published: 2024-07-01T18:25:40+00:00
+
+ ## Student Health and Wellness | Rensselaer Polytechnic Institute
+ - [http://studenthealth.rpi.edu](http://studenthealth.rpi.edu)
+ - date_published: 2024-07-01T18:29:19+00:00
+
+ ## The Division of Student Life | RPI INFO
+ - [http://studentlife.rpi.edu](http://studentlife.rpi.edu)
+ - date_published: 2024-07-01T18:27:27.973906+00:00
+
+ ## Student Success | Rensselaer Polytechnic Institute
+ - [https://success.studentlife.rpi.edu](https://success.studentlife.rpi.edu)
+ - date_published: 2024-07-01T18:26:51+00:00
+
+ ## Summer@Rensselaer | Rensselaer Polytechnic Institute
+ - [https://summer.rpi.edu](https://summer.rpi.edu)
+ - date_published: 2024-07-01T18:21:53+00:00
+
+ ## The Arch | Rensselaer Polytechnic Institute
+ - [https://the-arch.rpi.edu](https://the-arch.rpi.edu)
+ - date_published: 2024-07-01T15:17:06+00:00
+
+ ## Home
+ - [http://union.rpi.edu](http://union.rpi.edu)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## W2SZ
+ - [https://w2sz.union.rpi.edu](https://w2sz.union.rpi.edu)
+ - date_published: 2024-04-06T01:30:02+00:00
+
+ ## Home | Webforms
+ - [https://webforms.rpi.edu](https://webforms.rpi.edu)
+ - date_published: 2024-07-01T18:27:36+00:00
+
+ ## Arts | The School of Humanities, Arts, and Social Sciences
+ - [http://www.arts.rpi.edu](http://www.arts.rpi.edu)
+ - date_published: 2024-08-19T15:10:40+00:00
+
+ ## Welcome to ECSE | Electrical, Computer, and Systems Engineering
+ - [http://www.ecse.rpi.edu](http://www.ecse.rpi.edu)
+ - date_published: 2024-08-08T13:23:15+00:00
+
+ ## Science and Technology Studies | The School of Humanities, Arts, and Social Sciences
+ - [http://www.sts.rpi.edu](http://www.sts.rpi.edu)
+ - date_published: 2024-08-19T14:41:39+00:00
+
+ ## University Academic Affairs | University Academic Affairs
+ - [https://academicaffairs.rutgers.edu](https://academicaffairs.rutgers.edu)
+ - date_published: 2024-05-07T20:23:06.413200+00:00
+
+ ## Home
+ - [https://academichealth.rutgers.edu](https://academichealth.rutgers.edu)
+ - date_published: 2024-05-07T20:08:59.375648+00:00
+
  ## Home - Digital Accessibility
  - [https://accessibility.rutgers.edu](https://accessibility.rutgers.edu)
  - date_published: 2024-02-13T00:00:00+00:00
@@ -3915,96 +4007,4 @@
  ## Ask a Librarian - Library Answers
  - [https://libanswers.stevens.edu](https://libanswers.stevens.edu)
  - date_published: 2024-05-16T00:00:00+00:00
-
- ## Research Guides: Home: Home
- - [https://library.stevens.edu](https://library.stevens.edu)
- - date_published: 2024-05-07T20:31:33.640131+00:00
-
- ## Stevens Institute of Technology - Sign In
- - [https://login.stevens.edu](https://login.stevens.edu)
- - date_published: 2024-05-07T20:31:38.475638+00:00
-
- ## Stevens Institute of Technology
- - [https://stevens.edu](https://stevens.edu)
- - date_published: 2023-11-02T13:02:30.527891+00:00
-
- ## Stevens-Henager College in Utah and Idaho
- - [http://www.stevenshenager.edu](http://www.stevenshenager.edu)
- - date_published: 2024-10-18T05:52:49.373590+00:00
-
- ## St. John's Law Scholarship Repository | St. John's University School of Law Research
- - [https://scholarship.law.stjohns.edu](https://scholarship.law.stjohns.edu)
- - date_published: 2024-03-01T13:48:16.671327+00:00
-
- ## St. John's University - Sign In
- - [https://signon.stjohns.edu](https://signon.stjohns.edu)
- - date_published: 2024-07-08T17:45:18.692362+00:00
-
- ## Turn Passion into Purpose at St. John's University | New York, NY
- - [https://www.stjohns.edu](https://www.stjohns.edu)
- - date_published: 2024-05-08T12:19:09.769369+00:00
-
- ## Home - St. John's College
- - [https://community.stjohnscollege.edu](https://community.stjohnscollege.edu)
- - date_published: 2024-05-07T20:24:54.452245+00:00
-
- ## Admissions & Aid
- - [https://apply.stlawu.edu](https://apply.stlawu.edu)
- - date_published: 2024-07-07T22:01:39+00:00
-
- ## Student Scholarship Showcase | Scholar
- - [https://scholar.stlawu.edu](https://scholar.stlawu.edu)
- - date_published: 2024-08-18T04:06:12.031357+00:00
-
- ## St. Lawrence University
- - [https://stlawu.edu](https://stlawu.edu)
- - date_published: 2024-05-08T10:52:04.996530+00:00
-
- ## St. Lawrence University
- - [https://student.stlawu.edu](https://student.stlawu.edu)
- - date_published: 2024-07-07T18:57:43+00:00
-
- ## A House of Priestly Formation and Theological Education | St. Mary Seminary
- - [https://stmarysem.edu](https://stmarysem.edu)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## Stonehill College
- - [https://www.stonehill.edu](https://www.stonehill.edu)
- - date_published: 2024-10-31T05:28:41.063678+00:00
-
- ## Stony Brook University
- - [https://alumniandfriends.stonybrook.edu](https://alumniandfriends.stonybrook.edu)
- - date_published: 2024-09-15T15:12:40.179791+00:00
-
- ## Stony Brook University
- - [https://calendar.stonybrook.edu](https://calendar.stonybrook.edu)
- - date_published: 2024-09-15T15:12:45.445631+00:00
-
- ## Career Center | Stony Brook University
- - [https://career.stonybrook.edu](https://career.stonybrook.edu)
- - date_published: 2024-09-15T15:12:17.766620+00:00
-
- ## Home | Cybersecurity
- - [https://cybersecurity.stonybrook.edu](https://cybersecurity.stonybrook.edu)
- - date_published: 2024-08-05T20:38:51.873529+00:00
-
- ## Undergraduate Admissions at Stony Brook University
- - [https://enroll.stonybrook.edu](https://enroll.stonybrook.edu)
- - date_published: 2024-09-15T15:12:23.602083+00:00
-
- ## Stony Brook University
- - [http://go.stonybrook.edu](http://go.stonybrook.edu)
- - date_published: 2024-08-05T20:38:54.118097+00:00
-
- ## Home
- - [https://help.stonybrook.edu](https://help.stonybrook.edu)
- - date_published: 2024-08-05T20:38:55.678700+00:00
-
- ## ISC 2019: 22nd Information Security Conference
- - [https://isc2019.cs.stonybrook.edu](https://isc2019.cs.stonybrook.edu)
- - date_published: 2019-09-18T16:02:47+00:00
-
- ## Beyond IT | Division of Information Technology
- - [https://it.stonybrook.edu](https://it.stonybrook.edu)
- - date_published: 2024-04-29T04:27:23.123828+00:00
 

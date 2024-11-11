@@ -1,3 +1,95 @@
+ ## Brigham Young University–Hawaii
+ - [https://byuh.edu](https://byuh.edu)
+ - date_published: 2024-05-12T07:41:54.262140+00:00
+
+ ## Counseling Services
+ - [https://counseling.byuh.edu](https://counseling.byuh.edu)
+ - date_published: 2024-07-17T03:07:54.326913+00:00
+
+ ## Disability Services
+ - [https://disability.byuh.edu](https://disability.byuh.edu)
+ - date_published: 2024-07-17T03:07:35.834655+00:00
+
+ ## University Events
+ - [https://events.byuh.edu](https://events.byuh.edu)
+ - date_published: 2024-07-17T03:07:40.234579+00:00
+
+ ## Hoʻokele
+ - [https://hookele.byuh.edu](https://hookele.byuh.edu)
+ - date_published: 2024-07-17T03:07:46.403318+00:00
+
+ ## Human Resources
+ - [https://hr.byuh.edu](https://hr.byuh.edu)
+ - date_published: 2024-07-17T03:07:37.533493+00:00
+
+ ## Legal Notices
+ - [https://legal.byuh.edu](https://legal.byuh.edu)
+ - date_published: 2024-07-17T03:08:02.289461+00:00
+
+ ## Joseph F. Smith Library
+ - [https://library.byuh.edu](https://library.byuh.edu)
+ - date_published: 2024-07-17T03:08:06.660945+00:00
+
+ ## Brigham Young University-Hawaii
+ - [https://map.byuh.edu](https://map.byuh.edu)
+ - date_published: 2024-07-17T03:07:31.420810+00:00
+
+ ## BYU–Hawaii
+ - [https://my.byuh.edu](https://my.byuh.edu)
+ - date_published: 2024-07-17T03:07:44.401452+00:00
+
+ ## News Homepage
+ - [https://news.byuh.edu](https://news.byuh.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## News Homepage
+ - [https://newsroom.byuh.edu](https://newsroom.byuh.edu)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.byuh.edu](https://registrar.byuh.edu)
+ - date_published: 2024-07-17T03:08:04.254783+00:00
+
+ ## Report a Concern
+ - [https://reportaconcern.byuh.edu](https://reportaconcern.byuh.edu)
+ - date_published: 2024-07-17T03:07:49.995345+00:00
+
+ ## Campus Safety & Security
+ - [https://safetyandsecurity.byuh.edu](https://safetyandsecurity.byuh.edu)
+ - date_published: 2024-07-17T03:08:14.527553+00:00
+
+ ## Title IX
+ - [https://titleix.byuh.edu](https://titleix.byuh.edu)
+ - date_published: 2024-07-17T03:07:52.259891+00:00
+
+ ## BYU-Idaho
+ - [https://byui.edu](https://byui.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Brigham Young University-Idaho
+ - [http://calendar.byui.edu](http://calendar.byui.edu)
+ - date_published: 2024-07-17T03:25:57.916854+00:00
+
+ ## David O. McKay Library
+ - [http://library.byui.edu](http://library.byui.edu)
+ - date_published: 2024-05-22T19:17:47+00:00
+
+ ## BYU-Idaho Map
+ - [https://maps.byui.edu](https://maps.byui.edu)
+ - date_published: 2022-09-27T17:06:34+00:00
+
+ ## BYU-Idaho
+ - [https://my.byui.edu](https://my.byui.edu)
+ - date_published: 2024-07-17T03:25:53.956527+00:00
+
+ ## TeamDynamix Sign-In
+ - [https://td.byui.edu](https://td.byui.edu)
+ - date_published: 2024-04-17T19:45:22+00:00
+
+ ## BYU-Pathway Worldwide | BYU-Pathway | Apply Today
+ - [https://byupathway.edu](https://byupathway.edu)
+ - date_published: 2024-07-11T00:00:00+00:00
+
  ## CalArts School of Art
  - [https://art.calarts.edu](https://art.calarts.edu)
  - date_published: 2024-09-06T21:42:25.404356+00:00
@@ -3926,96 +4018,4 @@ Mellon University
  ## Introducing Cornell Bowers CIS
  - [https://campaign.cis.cornell.edu](https://campaign.cis.cornell.edu)
  - date_published: 2022-12-12T00:00:00+00:00
-
- ## Canvas@Cornell
- - [https://canvas.cornell.edu](https://canvas.cornell.edu)
- - date_published: 2022-08-04T10:54:07+00:00
-
- ## Capra
- - [https://capra.cs.cornell.edu](https://capra.cs.cornell.edu)
- - date_published: 2024-08-08T19:05:28+00:00
-
- ## Join Our Team!
- - [https://careers.universityrelations.cornell.edu](https://careers.universityrelations.cornell.edu)
- - date_published: 2024-05-20T14:02:52+00:00
-
- ## Careers at Weill Cornell Medicine | Weill Cornell Medicine
- - [https://careers.weill.cornell.edu](https://careers.weill.cornell.edu)
- - date_published: 2024-07-22T05:24:18+00:00
-
- ## Cornell University Library Catalog
- - [https://catalog.library.cornell.edu](https://catalog.library.cornell.edu)
- - date_published: 2024-07-22T05:27:57.365309+00:00
-
- ## Catherwood Library
- - [https://catherwood.library.cornell.edu](https://catherwood.library.cornell.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Cornell Cooperative Extension
- - [http://cce.cornell.edu](http://cce.cornell.edu)
- - date_published: 2024-07-21T17:56:46+00:00
-
- ## Home Page
- - [http://ccgh.alumni.cornell.edu](http://ccgh.alumni.cornell.edu)
- - date_published: 2024-08-06T17:45:06.217747+00:00
-
- ## Cornell University Library Digital Collections
- - [http://cidc.library.cornell.edu](http://cidc.library.cornell.edu)
- - date_published: 2024-06-17T02:41:53.710970+00:00
-
- ## Cornell Computing and Information Science |
- - [https://cis.cornell.edu](https://cis.cornell.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## The 2030 Project
- - [https://climate.cornell.edu](https://climate.cornell.edu)
- - date_published: 2024-07-22T05:28:12.916454+00:00
-
- ## Radical Collaboration | Cornell University
- - [https://collaboration.cornell.edu](https://collaboration.cornell.edu)
- - date_published: 2024-04-30T03:59:37.257883+00:00
-
- ## Communication
- - [https://communication.cals.cornell.edu](https://communication.cals.cornell.edu)
- - date_published: 2024-06-07T17:39:55.716045+00:00
-
- ## Welcome | Office of the Chief Risk Officer
- - [https://complianceandrisk.cornell.edu](https://complianceandrisk.cornell.edu)
- - date_published: 2024-07-02T02:03:34+00:00
-
- ## Welcome | University Compliance
- - [https://compliance.cornell.edu](https://compliance.cornell.edu)
- - date_published: 2024-07-08T15:43:13+00:00
-
- ## Home | Cornell Phonetics Lab
- - [http://conf.ling.cornell.edu](http://conf.ling.cornell.edu)
- - date_published: 2024-07-02T10:21:20.493242+00:00
-
- ## Choose how to Login - Dashboard
- - [https://confluence.cornell.edu](https://confluence.cornell.edu)
- - date_published: 2024-04-30T04:00:50.004553+00:00
-
- ## LibGuides: Copyright Services: Copyright Support
- - [https://copyright.cornell.edu](https://copyright.cornell.edu)
- - date_published: 2024-07-22T05:31:16.434574+00:00
-
- ## Cornell Connect! | Cornell University
- - [https://cornellconnect.cornell.edu](https://cornellconnect.cornell.edu)
- - date_published: 2023-10-30T19:19:16+00:00
-
- ## Cornell University
- - [https://cornell.edu](https://cornell.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Cornellians
- - [https://cornellians.cornell.edu](https://cornellians.cornell.edu)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Office of General Counsel
- - [https://counsel.cornell.edu](https://counsel.cornell.edu)
- - date_published: 2013-07-18T00:00:00+00:00
-
- ## courses.cit.cornell.edu
- - [http://courses.cit.cornell.edu](http://courses.cit.cornell.edu)
- - date_published: 2024-06-30T11:17:24.870842+00:00
 

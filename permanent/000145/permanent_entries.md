@@ -1,3 +1,44 @@
+ ## Yash Banka – Medium
+ - [https://yashbanka.medium.com](https://yashbanka.medium.com)
+ - date_published: 2024-05-10T06:45:27.709317+00:00
+
+ ## Yassine EL KHAL – Medium
+ - [https://yassineelkhal.medium.com](https://yassineelkhal.medium.com)
+ - date_published: 2024-04-30T07:42:33.970310+00:00
+ - tags: ['personal']
+
+ ## John Pradeep Vincent – Medium
+ - [https://yehohanan7.medium.com](https://yehohanan7.medium.com)
+ - date_published: 2023-10-25T10:23:46.196937+00:00
+
+ ## From Narrow To General AI – Medium
+ - [https://ykulbashian.medium.com](https://ykulbashian.medium.com)
+ - date_published: 2024-06-14T08:16:11.550055+00:00
+
+ ## Yoav Goldwein – Medium
+ - [https://yoav298.medium.com](https://yoav298.medium.com)
+ - date_published: 2024-09-12T19:00:21.115520+00:00
+
+ ## Yogesh Malik – Medium
+ - [https://yogeshmalik.medium.com](https://yogeshmalik.medium.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Submit a request – Medium Help Center
+ - [http://yourfriends.medium.com](http://yourfriends.medium.com)
+ - date_published: 2024-08-07T19:14:44.865957+00:00
+
+ ## Medium
+ - [https://youssefraafat57.medium.com](https://youssefraafat57.medium.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Yancey Strickler – Medium
+ - [https://ystrickler.medium.com](https://ystrickler.medium.com)
+ - date_published: 2024-04-28T04:55:18.569319+00:00
+
+ ## Eliezer Yudkowsky – Medium
+ - [https://yudkowsky.medium.com](https://yudkowsky.medium.com)
+ - date_published: 2024-07-07T07:20:11.831145+00:00
+
  ## Yugant Nakhawa – Medium
  - [https://yugantnakhawa.medium.com](https://yugantnakhawa.medium.com)
  - date_published: 2024-06-22T07:05:23.142462+00:00
@@ -3318,7 +3359,7 @@
  ## Movie Reviews, TV Reviews, Game Reviews, and Music Reviews
  - [https://metacritic.com](https://metacritic.com)
  - date_published: 2023-10-24T20:20:31.185064+00:00
- - tags: ['ranking']
+ - tags: ['page rank']
 
  ## Certified Salesforce PDO Partner for ISV App Integration & Development
  - [https://europe.metacube.com](https://europe.metacube.com)
@@ -3988,44 +4029,4 @@
  ## Stop fighting with frameworks and start shipping real apps - Meteor.js
  - [https://meteor.com](https://meteor.com)
  - date_published: 2024-05-25T09:10:56.534005+00:00
-
- ## Meteor Cloud Status
- - [https://status.meteor.com](https://status.meteor.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Jira Service Management
- - [https://support.portal.meteor.com](https://support.portal.meteor.com)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## Docs
- - [https://v3-docs.meteor.com](https://v3-docs.meteor.com)
- - date_published: 2024-09-02T12:27:22.481913+00:00
-
- ## MeteorOps | DevOps Services
- - [https://meteorops.com](https://meteorops.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Meteor Up - Deploy Meteor apps
- - [http://meteor-up.com](http://meteor-up.com)
- - date_published: 2023-01-25T18:22:31+00:00
-
- ## Meteosolutions: Prodotti e servizi ad alto valore aggiunto per la Meteorologia
- - [https://www.meteosolutions.com](https://www.meteosolutions.com)
- - date_published: 2024-09-15T10:17:51+00:00
-
- ## Meteosource - The Global Weather API & Mapping Platform - current weather and forecast data
- - [https://meteosource.com](https://meteosource.com)
- - date_published: 2023-10-25T16:02:04.837084+00:00
-
- ## Professional Solar Forecast for PV output
- - [https://solar.meteosource.com](https://solar.meteosource.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Professional Wind power production forecast
- - [https://wind.meteosource.com](https://wind.meteosource.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## MeteoStar
- - [https://www.meteostar.com](https://www.meteostar.com)
- - date_published: 2023-10-12T17:46:29+00:00
 

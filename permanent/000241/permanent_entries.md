@@ -1,3 +1,91 @@
+ ## Startseite | Max Rubner-Institut
+ - [https://www.mri.bund.de](https://www.mri.bund.de)
+ - date_published: 2024-07-24T04:06:55.819274+00:00
+
+ ## Startseite Bundesarchiv - Internetauftritt
+ - [https://www.bundesarchiv.de](https://www.bundesarchiv.de)
+ - date_published: 2024-07-03T11:45:53.256191+00:00
+
+ ## Homepage
+ - [https://www.bundesbank.de](https://www.bundesbank.de)
+ - date_published: 2024-06-22T11:08:14.008332+00:00
+
+ ## Home
+ - [https://alt.bundesblock.de](https://alt.bundesblock.de)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Home
+ - [https://bundesblock.de](https://bundesblock.de)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Der Beauftragte der Bundesregierung für Sucht- und Drogenfragen
+ - [https://www.bundesdrogenbeauftragter.de](https://www.bundesdrogenbeauftragter.de)
+ - date_published: 2024-07-14T14:49:04.501686+00:00
+
+ ## Die Bundesdruckerei-Gruppe | Sicherheitslösungen "Made in Germany"
+ - [https://bundesdruckerei.de](https://bundesdruckerei.de)
+ - date_published: 2024-04-29T06:11:16.624912+00:00
+
+ ## Homepage des Bundeselternnetzwerk der Migrantenorganisationen für Bildung und Teilhabe (bbt)
+ - [https://www.bundeselternnetzwerk.de](https://www.bundeselternnetzwerk.de)
+ - date_published: 2024-09-12T15:57:31.486535+00:00
+
+ ## Startseite - Bundesfinanzministerium
+ - [https://www.bundesfinanzministerium.de](https://www.bundesfinanzministerium.de)
+ - date_published: 2024-07-06T21:31:57.267267+00:00
+
+ ## Bundesministerium für Gesundheit (BMG)
+ - [https://bundesgesundheitsministerium.de](https://bundesgesundheitsministerium.de)
+ - date_published: 2024-05-11T11:32:33.850304+00:00
+
+ ## Startseite
+ - [https://www.bundesjustizamt.de](https://www.bundesjustizamt.de)
+ - date_published: 2024-06-28T21:27:16+00:00
+
+ ## Der Bundeskanzler der Bundesrepublik Deutschland | Startseite
+ - [https://www.bundeskanzler.de](https://www.bundeskanzler.de)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## Startseite
+ - [https://www.bundeskartellamt.de](https://www.bundeskartellamt.de)
+ - date_published: 2024-06-28T21:40:59+00:00
+
+ ## Bundeskonferenz der Migrantenorganisationen – Türkische Gemeinde in Deutschland e. V.  (TGD)
+ - [https://www.bundeskonferenz-mo.de](https://www.bundeskonferenz-mo.de)
+ - date_published: 2024-09-03T10:12:09+00:00
+
+ ## Startseite
+ - [https://www.bundesrat.de](https://www.bundesrat.de)
+ - date_published: 2024-07-09T14:15:31+00:00
+
+ ## Die Bundesregierung informiert | Startseite
+ - [https://bundesregierung.de](https://bundesregierung.de)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Bundesstiftung zur Aufarbeitung der SED-Diktatur
+ - [https://www.bundesstiftung-aufarbeitung.de](https://www.bundesstiftung-aufarbeitung.de)
+ - date_published: 2024-07-09T14:15:30.379218+00:00
+
+ ## Deutscher Bundestag Bilddatenbank.
+ - [https://bilddatenbank.bundestag.de](https://bilddatenbank.bundestag.de)
+ - date_published: 2024-04-29T05:56:24.133822+00:00
+
+ ## Deutscher Bundestag Bilddatenbank.
+ - [https://bilderdienst.bundestag.de](https://bilderdienst.bundestag.de)
+ - date_published: 2024-07-24T17:40:49.390707+00:00
+
+ ## Deutscher Bundestag - Startseite
+ - [https://bundestag.de](https://bundestag.de)
+ - date_published: 2024-07-24T17:40:41.112764+00:00
+
+ ## DIP
+ - [https://dipbt.bundestag.de](https://dipbt.bundestag.de)
+ - date_published: 2023-11-28T10:11:40+00:00
+
+ ## DIP
+ - [https://dip.bundestag.de](https://dip.bundestag.de)
+ - date_published: 2024-04-29T05:56:33.167668+00:00
+
  ## Deutscher Bundestag - Startseite
  - [https://dserver.bundestag.de](https://dserver.bundestag.de)
  - date_published: 2024-06-28T21:40:50.347993+00:00
@@ -3928,93 +4016,4 @@ Heinsohn
  ## Welcome to the DKRZ Documentation Portal — DKRZ Documentation  documentation
  - [https://docs.dkrz.de](https://docs.dkrz.de)
  - date_published: 2024-08-06T18:12:16+00:00
-
- ## Sign in · GitLab
- - [https://gitlab.dkrz.de](https://gitlab.dkrz.de)
- - date_published: 2024-07-04T08:19:06.508910+00:00
-
- ## Sign in - Matomo
- - [https://matomo.dkrz.de](https://matomo.dkrz.de)
- - date_published: 2024-08-11T10:44:11.070981+00:00
-
- ## DKT-10 - Startseite
- - [https://www.dkt-10.de](https://www.dkt-10.de)
- - date_published: 2023-02-26T01:23:55+00:00
-
- ## DKT-11 - Startseite
- - [https://www.dkt-11.de](https://www.dkt-11.de)
- - date_published: 2023-02-26T01:33:11+00:00
-
- ## DKT-12 - Home
- - [https://www.dkt-12.de](https://www.dkt-12.de)
- - date_published: 2022-02-17T12:01:11+00:00
-
- ## DKT-13 - Home
- - [https://www.dkt-13.de](https://www.dkt-13.de)
- - date_published: 2024-08-23T00:21:23+00:00
-
- ## Hardy's Themenseite
- - [https://dl1glh.de](https://dl1glh.de)
- - date_published: 2024-05-09T04:20:48.529794+00:00
- - tags: ['personal']
-
- ## Deutschlandfunk - Alles von Relevanz
- - [https://dlf.de](https://dlf.de)
- - date_published: 2024-06-18T15:37:49+00:00
-
- ## Dlf Podcastfinder
- - [https://dlf-podcastfinder.de](https://dlf-podcastfinder.de)
- - date_published: 2024-07-17T08:08:37.023833+00:00
-
- ## D.LIVE
- - [https://www.d-live.de](https://www.d-live.de)
- - date_published: 2024-10-17T18:03:14.604591+00:00
-
- ## electronic library -
- - [https://elib.dlr.de](https://elib.dlr.de)
- - date_published: 2024-04-29T07:10:54.114021+00:00
-
- ## DLR Event
- - [https://event.dlr.de](https://event.dlr.de)
- - date_published: 2024-10-14T21:51:13.991082+00:00
-
- ## Index of /
- - [http://pba-freesoftware.eoc.dlr.de](http://pba-freesoftware.eoc.dlr.de)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## | DLR Projektträger
- - [https://projekttraeger.dlr.de](https://projekttraeger.dlr.de)
- - date_published: 2024-07-12T12:14:44+00:00
-
- ## New release of the IMPC webportal
- - [http://swaciweb.dlr.de](http://swaciweb.dlr.de)
- - date_published: 2017-04-05T00:00:00+00:00
-
- ## Deutsches Zentrum für Luft- und Raumfahrt
- - [https://www.dlr.de](https://www.dlr.de)
- - date_published: 2024-06-16T22:07:26.411647+00:00
-
- ## DLRG-Jugend Bayern | DLRG-Jugend Landesverband Bayern
- - [https://bayern.dlrg-jugend.de](https://bayern.dlrg-jugend.de)
- - date_published: 2024-09-12T16:07:37.990150+00:00
-
- ## DLUG - Düsseldorfer Linux User Group - Home
- - [https://dlug.de](https://dlug.de)
- - date_published: 2024-04-27T18:19:56+00:00
-
- ## Deutscher Landwirtschaftsverlag - Shop
- - [https://www.dlv-shop.de](https://www.dlv-shop.de)
- - date_published: 2024-10-31T09:58:50.669333+00:00
-
- ## Bleibt echt | DMAX | Kostenlos DMAX Sendungen in der Mediathek sehen.
- - [https://dmax.de](https://dmax.de)
- - date_published: 2024-05-07T12:49:49.573418+00:00
-
- ## Der Morgendliche Blick aus dem Schlafzimmerfenster
- - [https://dmbadsf.de](https://dmbadsf.de)
- - date_published: 2024-05-07T23:07:26.480541+00:00
-
- ## Sign in - Matomo
- - [https://matomo.dmscn.de](https://matomo.dmscn.de)
- - date_published: 2024-07-11T23:39:53.716475+00:00
 

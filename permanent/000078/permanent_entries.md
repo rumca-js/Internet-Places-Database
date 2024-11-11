@@ -1,3 +1,15 @@
+ ## Red Hat Partner Enablement Japan
+ - [https://redhat-open.connpass.com](https://redhat-open.connpass.com)
+ - date_published: 2024-07-03T04:47:55.961280+00:00
+
+ ## Rubygemsコードリーディング部
+ - [https://rubygems-code-reading.connpass.com](https://rubygems-code-reading.connpass.com)
+ - date_published: 2024-07-02T20:44:24.789511+00:00
+
+ ## Sicss Society Public Events
+ - [https://sicss.connpass.com](https://sicss.connpass.com)
+ - date_published: 2024-07-07T05:26:53.452596+00:00
+
  ## Start Python Club
  - [https://startpython.connpass.com](https://startpython.connpass.com)
  - date_published: 2024-07-03T04:47:41.295127+00:00
@@ -4026,16 +4038,4 @@
  ## Counterpoint - Technology Market Research & Industry Analysis Firm
  - [https://counterpointresearch.com](https://counterpointresearch.com)
  - date_published: 2024-01-09T02:32:59.228942+00:00
-
- ## Counter Records
- - [http://counterrecords.com](http://counterrecords.com)
- - date_published: 2024-07-19T20:44:13.040958+00:00
-
- ## Counterspace
- - [http://counterspace-studio.com](http://counterspace-studio.com)
- - date_published: 2024-07-13T15:29:52.852008+00:00
-
- ## Counter the Chinese Communist Party (CCP)
- - [https://countertheccp.com](https://countertheccp.com)
- - date_published: 2024-10-27T12:49:26.968215+00:00
 

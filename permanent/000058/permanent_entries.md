@@ -1,3 +1,11 @@
+ ## LGSA Fledgelings
+ - [https://fledgelings.blogspot.com](https://fledgelings.blogspot.com)
+ - date_published: 2024-04-13T12:36:47+00:00
+
+ ## Flekkzo
+ - [http://flekkzo.blogspot.com](http://flekkzo.blogspot.com)
+ - date_published: 2024-09-02T08:01:37+00:00
+
  ## Ariel Flesler
  - [http://flesler.blogspot.com](http://flesler.blogspot.com)
  - date_published: 2024-03-08T03:50:48+00:00
@@ -4004,12 +4012,4 @@
  - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
  - date_published: 2023-10-25T09:09:06.318517+00:00
  - tags: ['personal']
-
- ## Informatics and engineering
- - [http://informatics-science.blogspot.com](http://informatics-science.blogspot.com)
- - date_published: 2024-03-13T06:51:24+00:00
-
- ## Information Transfer Economics
- - [http://informationtransfereconomics.blogspot.com](http://informationtransfereconomics.blogspot.com)
- - date_published: 2024-03-13T07:28:57+00:00
 

@@ -1,3 +1,156 @@
+ ## Javali - Open Source – Websites/Portais, Drupal, Mobile, CRM
+ - [http://www.javali.pt](http://www.javali.pt)
+ - date_published: 2024-05-16T10:46:54+00:00
+
+ ## JD Sports Portugal: Loja online de sapatilhas e roupa
+ - [https://www.jdsports.pt](https://www.jdsports.pt)
+ - date_published: 2024-10-21T02:17:22.247796+00:00
+
+ ## Comprar carros SUV Jeep®, modelos 4x4 e acessórios | Jeep® PT
+ - [https://www.jeep.pt](https://www.jeep.pt)
+ - date_published: 2024-06-18T14:02:45+00:00
+
+ ## Estimativa do seu veiculo | Retoma Jeep PT
+ - [https://www.retoma.jeep.pt](https://www.retoma.jeep.pt)
+ - date_published: 2024-10-28T16:39:45.642535+00:00
+
+ ## Junta de Freguesia da União de Freguesias do Montijo e Afonsoeiro
+ - [https://jf-montijoeafonsoeiro.pt](https://jf-montijoeafonsoeiro.pt)
+ - date_published: 2024-09-05T15:41:35.355048+00:00
+
+ ## Comprar ou arrendar casa, apartamento e outros imóveis | JLL
+ - [https://residential.jll.pt](https://residential.jll.pt)
+ - date_published: 2024-06-25T16:23:09.805420+00:00
+
+ ## Consultores e profissionais imobiliários | JLL Portugal
+ - [https://www.jll.pt](https://www.jll.pt)
+ - date_published: 2024-10-30T21:39:56.621527+00:00
+
+ ## Global Media Group -
+ - [https://invoice.jn.pt](https://invoice.jn.pt)
+ - date_published: 2024-07-12T21:24:21.834021+00:00
+
+ ## Jornal de Notícias
+ - [https://jn.pt](https://jn.pt)
+ - date_published: 2024-05-10T06:16:41.978312+00:00
+
+ ## Welcome to nginx!
+ - [https://previous-assets.jn.pt](https://previous-assets.jn.pt)
+ - date_published: 2018-12-04T14:52:24+00:00
+
+ ## Publicidade - JN
+ - [https://publicidade.jn.pt](https://publicidade.jn.pt)
+ - date_published: 2024-07-12T21:24:15.362933+00:00
+
+ ## Welcome to WildFly Application Server 8
+ - [https://quiosque.jn.pt](https://quiosque.jn.pt)
+ - date_published: 2014-11-20T22:43:22+00:00
+
+ ## Notícias da atualidade | Jornal de Abrantes
+ - [https://jornaldeabrantes.pt](https://jornaldeabrantes.pt)
+ - date_published: 2024-09-05T14:02:02.747995+00:00
+
+ ## Página Inicial | Jogo da Bolsa
+ - [http://jogodabolsa.jornaldenegocios.pt](http://jogodabolsa.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:19.934788+00:00
+
+ ## Negócios: Cotações, Mercados, Economia, Empresas
+ - [http://www.jornaldenegocios.pt](http://www.jornaldenegocios.pt)
+ - date_published: 2024-06-25T18:53:12.382199+00:00
+
+ ## A Revista Must do Jornal de Negócios
+ - [https://www.must.jornaldenegocios.pt](https://www.must.jornaldenegocios.pt)
+ - date_published: 2024-07-12T20:30:41.089236+00:00
+
+ ## Easy Tax | Jornal Económico & EY
+ - [https://easytax.jornaleconomico.pt](https://easytax.jornaleconomico.pt)
+ - date_published: 2024-02-09T00:00:00+00:00
+
+ ## O Jornal Económico
+ - [https://jornaleconomico.pt](https://jornaleconomico.pt)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Leitor | Jornal Económico
+ - [https://leitor.jornaleconomico.pt](https://leitor.jornaleconomico.pt)
+ - date_published: 2024-09-05T14:01:21.150165+00:00
+
+ ## Leitor | Jornal Económico
+ - [https://registo.jornaleconomico.pt](https://registo.jornaleconomico.pt)
+ - date_published: 2024-09-05T14:01:07.188678+00:00
+
+ ## AN E+ JA
+ - [https://juventude.pt](https://juventude.pt)
+ - date_published: 2024-09-15T20:57:54.823771+00:00
+
+ ## Organização Youth For Human Rights: Vídeo Documentário A História dos Direitos Humanos, Informação, Notícias, Kit do Professor e Livros
+ - [http://www.juventudeparaosdireitoshumanos.pt](http://www.juventudeparaosdireitoshumanos.pt)
+ - date_published: 2024-08-30T00:40:37+00:00
+
+ ## Segurança cibernética Kaspersky para particulares e empresas  | Kaspersky
+ - [https://www.kaspersky.pt](https://www.kaspersky.pt)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Keep it Simple
+ - [https://keepitsimple.pt](https://keepitsimple.pt)
+ - date_published: 2024-09-03T15:13:01+00:00
+
+ ## Kia Portugal | Descubra a gama de carros Kia aqui
+ - [https://kia.pt](https://kia.pt)
+ - date_published: 2024-07-08T16:34:21+00:00
+
+ ## Konecranes
+ - [https://www.konecranes.pt](https://www.konecranes.pt)
+ - date_published: 2024-05-21T00:00:00+00:00
+
+ ## KULTGAMES
+ - [https://kultgames.pt](https://kultgames.pt)
+ - date_published: 2024-07-02T13:05:45.702286+00:00
+ - tags: ['shop', 'wargames', 'toys']
+
+ ## Lancia: o carro urbano com classe | Site oficial | Lancia PT
+ - [http://www.lancia.pt](http://www.lancia.pt)
+ - date_published: 2024-04-23T11:10:25+00:00
+
+ ## Land Rover. Veículos 4x4 e SUV Sofisticados
+ - [https://www.landrover.pt](https://www.landrover.pt)
+ - date_published: 2024-07-09T17:15:03.558825+00:00
+
+ ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
+ - [https://www.languagetrainers.pt](https://www.languagetrainers.pt)
+ - date_published: 2024-07-02T09:21:08.290410+00:00
+
+ ## Lavva Digital Agency - Branding & Websites
+ - [https://www.lavva.pt](https://www.lavva.pt)
+ - date_published: 2024-10-14T21:27:41.447949+00:00
+
+ ## NewLayjan - Talent management
+ - [https://layjan.pt](https://layjan.pt)
+ - date_published: 2024-09-05T14:58:31.344462+00:00
+
+ ## Home - Líder TV
+ - [https://lidertv.pt](https://lidertv.pt)
+ - date_published: 2024-09-05T15:41:05.778493+00:00
+
+ ## Lidl Portugal - lidl.pt
+ - [https://www.lidl.pt](https://www.lidl.pt)
+ - date_published: 2024-06-25T19:02:20.647944+00:00
+
+ ## Vogue Portugal and GQ Portugal official online store
+ - [https://shop.light-house.pt](https://shop.light-house.pt)
+ - date_published: 2024-06-18T07:24:24.444353+00:00
+
+ ## Agenda Cultural de Lisboa - Descubra a parte mais interessante da cidade
+ - [http://www.lisboacultural.pt](http://www.lisboacultural.pt)
+ - date_published: 2024-07-12T20:50:10.640552+00:00
+
+ ## CCL - Centro de Congressos de Lisboa
+ - [https://ccl.lisbonvenues.pt](https://ccl.lisbonvenues.pt)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Empresa de web design e desenvolvimento de sites - Livetech
+ - [https://livetech.pt](https://livetech.pt)
+ - date_published: 2024-09-05T14:02:01.029342+00:00
+
  ## livroscotovia.pt
  - [http://www.livroscotovia.pt](http://www.livroscotovia.pt)
  - date_published: 2024-07-12T20:48:18.299542+00:00
@@ -3879,157 +4032,4 @@
  ## SGFR
  - [https://sgfr.highquality.rip](https://sgfr.highquality.rip)
  - date_published: 2024-07-09T23:30:21+00:00
-
- ## RIP HTTP
- - [http://http.rip](http://http.rip)
- - date_published: 2023-09-23T05:34:28+00:00
-
- ## didntask
- - [https://inpieces.rip](https://inpieces.rip)
- - date_published: 2024-09-11T15:52:10.644694+00:00
- - tags: ['personal']
-
- ## home - evergreen
- - [https://itsevergreen.rip](https://itsevergreen.rip)
- - date_published: 2022-05-09T20:28:06+00:00
-
- ## evergreen
- - [https://shop.itsevergreen.rip](https://shop.itsevergreen.rip)
- - date_published: 2023-12-22T00:00:00+00:00
-
- ## A new home
- - [https://krautchan.rip](https://krautchan.rip)
- - date_published: 2022-11-03T09:21:14+00:00
-
- ## NIST Computer Security Resource Center | CSRC
- - [https://csrc.nist.rip](https://csrc.nist.rip)
- - date_published: 2024-05-08T07:04:07.308799+00:00
-
- ## River dot rip
- - [https://river.rip](https://river.rip)
- - date_published: 2024-05-13T00:43:21+00:00
-
- ## 468 720 (+1 250) військових втратила російська армія станом на сьогодні - 30 квітня 2024
- - [https://russianwarship.rip](https://russianwarship.rip)
- - date_published: 2024-05-01T05:43:30.430573+00:00
-
- ## Scribe
- - [https://scribe.rip](https://scribe.rip)
- - date_published: 2023-10-25T22:35:39.461506+00:00
-
- ## Homepage
- - [https://thread.seam.rip](https://thread.seam.rip)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## ARISE, YE SKELETON KING!
- - [https://skeletonking.rip](https://skeletonking.rip)
- - date_published: 2024-08-05T16:33:19.498048+00:00
-
- ## 🔥 welcome to the house of spiders 🔥
- - [https://spiders.rip](https://spiders.rip)
- - date_published: 2024-02-15T16:22:01+00:00
-
- ## Sunnyside Reapers - Sunnyside Reapers
- - [https://ssr.rip](https://ssr.rip)
- - date_published: 2024-05-06T21:15:59.981129+00:00
-
- ## Tomb Log
- - [https://tomblog.rip](https://tomblog.rip)
- - date_published: 2016-01-01T00:00:00+00:00
-
- ## $WHATLAB.RIP$
- - [https://whatlab.rip](https://whatlab.rip)
- - date_published: 2023-02-28T15:48:05+00:00
-
- ## _ is a Wyvern
- - [https://is-a.wyvern.rip](https://is-a.wyvern.rip)
- - date_published: 2024-07-10T08:34:56.262024+00:00
-
- ## 3M Science. Applied to Life.™ | 3M Romania
- - [https://www.3m.com.ro](https://www.3m.com.ro)
- - date_published: 2024-08-06T10:38:55.975916+00:00
-
- ## Airbnb | Case de vacanță, cabane, case pe plajă și multe altele
- - [https://airbnb.com.ro](https://airbnb.com.ro)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Bioflux - Aquaculture, Aquarium, Conservation & Legislation
- - [http://www.bioflux.com.ro](http://www.bioflux.com.ro)
- - date_published: 2024-10-29T16:58:44.943285+00:00
-
- ## Bosch România
- - [http://www.bosch.com.ro](http://www.bosch.com.ro)
- - date_published: 2024-10-13T22:00:06+00:00
-
- ## Dyson Romania | Site oficial
- - [https://www.dyson.com.ro](https://www.dyson.com.ro)
- - date_published: 2024-07-07T01:57:06.767510+00:00
-
- ## Site-ul oficial Fiat Romania - Mașini noi, promoții și mobilitate
- - [https://www.fiat.com.ro](https://www.fiat.com.ro)
- - date_published: 2024-06-07T15:28:49+00:00
-
- ## pocketbook
- - [https://pocketbook.com.ro](https://pocketbook.com.ro)
- - date_published: 2024-07-20T16:13:11.919691+00:00
-
- ## Constructor Website Gratuit — Soluția pentru Crearea unui Website — uCoz
- - [https://www.ucoz.com.ro](https://www.ucoz.com.ro)
- - date_published: 2024-07-13T21:02:44.310533+00:00
-
- ## Music Channel Romania
- - [https://www.1music.ro](https://www.1music.ro)
- - date_published: 2024-08-18T08:47:46.224516+00:00
-
- ## Modă online de la mai mult de 1500 branduri de top | ABOUT YOU
- - [https://m.aboutyou.ro](https://m.aboutyou.ro)
- - date_published: 2024-09-17T16:04:52+00:00
-
- ## Modă online de la mai mult de 1500 branduri de top | ABOUT YOU
- - [https://www.aboutyou.ro](https://www.aboutyou.ro)
- - date_published: 2024-09-17T16:04:52+00:00
-
- ## Găsește-ți acum viitorul tău job!
- - [https://www.adecco.ro](https://www.adecco.ro)
- - date_published: 2024-10-29T04:23:43.866383+00:00
-
- ## Știri, ultima oră, știri locale, video, foto, comunitate
- - [https://adevarul.ro](https://adevarul.ro)
- - date_published: 2024-08-18T08:42:14+00:00
-
- ## ADZ-Online - Startseite
- - [https://adz.ro](https://adz.ro)
- - date_published: 2024-07-12T03:32:28.882636+00:00
-
- ## AFFICIO - Coming Soon Page
- - [https://www.afficio.ro](https://www.afficio.ro)
- - date_published: 2022-09-08T15:28:45+00:00
-
- ## Agrobiznes.ro | Agricultură fără frontiere
- - [https://agrobiznes.ro](https://agrobiznes.ro)
- - date_published: 2024-10-31T08:11:48+00:00
-
- ## Agronetto România – platformă on line pentru vânzarea de utilaje agricole și piese de schimb
- - [https://agronetto.ro](https://agronetto.ro)
- - date_published: 2024-08-11T15:40:54.450021+00:00
-
- ## Monitorizare GPS auto - Suport 24/24 - SAS Fleet Tracking
- - [https://www.alarma.ro](https://www.alarma.ro)
- - date_published: 2024-09-20T12:33:35+00:00
-
- ## alexand.ro
- - [https://alexand.ro](https://alexand.ro)
- - date_published: 2020-10-13T08:47:19+00:00
-
- ## Alexandru Mărășteanu - Inginer Software
- - [http://alexei.ro](http://alexei.ro)
- - date_published: 2024-07-16T17:01:25.970975+00:00
-
- ## Home - Site oficial Alfa Romeo
- - [https://www.alfaromeo.ro](https://www.alfaromeo.ro)
- - date_published: 2024-06-18T13:22:38+00:00
-
- ## Alvaro
- - [https://alva.ro](https://alva.ro)
- - date_published: 2023-12-20T20:48:38+00:00
 

@@ -1,3 +1,160 @@
+ ## SberAds - технологичная рекламная платформа для бизнеса
+ - [https://ads.sber.ru](https://ads.sber.ru)
+ - date_published: 2024-07-02T11:34:49+00:00
+
+ ## Вакуумные технологии: Автоматизация, перемещение, фиксация | Schmalz
+ - [https://www.schmalz.ru](https://www.schmalz.ru)
+ - date_published: 2024-09-05T21:05:57.914008+00:00
+
+ ## Селектор казино (Selector casino)
+ - [http://school05-privolnoe.ru](http://school05-privolnoe.ru)
+ - date_published: 2024-09-24T15:00:00+00:00
+
+ ## Узел выпускников Московской физико-математической школы №2 - Лицея "Вторая школа"
+ - [http://www.school2.ru](http://www.school2.ru)
+ - date_published: 2023-11-24T08:03:35+00:00
+
+ ## Лучшие онлайн казино России: ТОП рейтинг лицензионных казино на деньги
+ - [https://schoolkovran.ru](https://schoolkovran.ru)
+ - date_published: 2024-10-13T09:40:47+00:00
+
+ ## «Научная Россия» - электронное периодическое издание
+ - [https://scientificrussia.ru](https://scientificrussia.ru)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Официальная Церковь Саентологии: Л. Рон Хаббард, Дианетика, Что такое Саентология?, Книги, Верования, Дэвид Мицкевич
+ - [https://scientology.ru](https://scientology.ru)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Тест личности
+ - [https://www.oca.scientology.ru](https://www.oca.scientology.ru)
+ - date_published: 2024-06-17T16:40:59.104685+00:00
+
+ ## Саентологическая религия: история, теология и религиозная практика
+ - [https://www.scientologyreligion.ru](https://www.scientologyreligion.ru)
+ - date_published: 2024-06-06T19:41:43.860344+00:00
+
+ ## Sci-Hub: science for the people
+ - [https://sci-hub.ru](https://sci-hub.ru)
+ - date_published: 2023-10-25T22:36:17.135520+00:00
+
+ ## SCP Foundation
+ - [http://scpfoundation.ru](http://scpfoundation.ru)
+ - date_published: 2024-10-18T17:48:13.270335+00:00
+
+ ## Securelist | Аналитика и отчеты о киберугрозах «Лаборатории Касперского»
+ - [https://securelist.ru](https://securelist.ru)
+ - date_published: 2024-04-29T03:00:22.609084+00:00
+
+ ## Международная выставка Securika Moscow 2025
+ - [https://securika-moscow.ru](https://securika-moscow.ru)
+ - date_published: 2024-10-17T10:20:51.743877+00:00
+
+ ## SecurityLab.ru
+ - [https://securitylab.ru](https://securitylab.ru)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Kubek
+ - [https://kubek.seeroy.ru](https://kubek.seeroy.ru)
+ - date_published: 2024-06-19T22:10:40.601561+00:00
+
+ ## Seldon.Basis  — поиск и проверка контрагентов
+ - [https://basis.seldon.ru](https://basis.seldon.ru)
+ - date_published: 2024-06-21T21:37:23.395538+00:00
+
+ ## Selectel — аренда IT-инфраструктуры для бизнеса
+ - [https://selectel.ru](https://selectel.ru)
+ - date_published: 2024-10-11T09:42:15+00:00
+
+ ## Литрес: Самиздат
+ - [https://selfpub.ru](https://selfpub.ru)
+ - date_published: 2024-09-18T23:48:01.961603+00:00
+
+ ## SEOnews: продвижение сайта, все о поисковом маркетинге и поисковых системах, раскрутка сайта в интернете - Новости Seo-индустрии
+ - [http://seonews.ru](http://seonews.ru)
+ - date_published: 2024-10-17T14:43:10.850220+00:00
+
+ ## Создание сайтов «под ключ». Не конструктор!
+ - [https://sergeev-web.ru](https://sergeev-web.ru)
+ - date_published: 2022-03-19T00:00:00+00:00
+
+ ## Сергей Король
+ - [https://sergeykorol.ru](https://sergeykorol.ru)
+ - date_published: 2023-01-27T21:58:42+00:00
+
+ ## Serious Site
+ - [https://www.serioussite.ru](https://www.serioussite.ru)
+ - date_published: 2024-06-14T00:00:00+00:00
+ - tags: ['fan page', 'serious sam']
+
+ ## Обзор последних событий
+ - [http://servernews.ru](http://servernews.ru)
+ - date_published: 2024-10-17T14:43:29.207492+00:00
+
+ ## Сферум
+ - [https://sferum.ru](https://sferum.ru)
+ - date_published: 2024-06-25T07:54:44+00:00
+
+ ## Screenplays for You - free movie scripts and screenplays
+ - [https://sfy.ru](https://sfy.ru)
+ - date_published: 2023-10-25T22:36:17.819317+00:00
+
+ ## Сергей Глазов — full-stack веб-разработчик Nuxt, Laravel
+ - [https://sglazov.ru](https://sglazov.ru)
+ - date_published: 2024-05-09T07:49:36.125624+00:00
+
+ ## We are the world's leading testing, inspection and certification company.
+ - [https://www.sgs.ru](https://www.sgs.ru)
+ - date_published: 2024-09-10T12:51:25.077210+00:00
+
+ ## SEO блог Михаила Шакина
+ - [http://shakin.ru](http://shakin.ru)
+ - date_published: 2024-08-18T12:17:09.168905+00:00
+
+ ## Шерри
+ - [https://sharrymania.ru](https://sharrymania.ru)
+ - date_published: 2024-10-04T13:10:25+00:00
+
+ ## Шкулёв Медиа Холдинг - ведущий медиахолдинг России | Shkulev Media Holding
+ - [https://shkulevholding.ru](https://shkulevholding.ru)
+ - date_published: 2024-10-27T11:30:47.208484+00:00
+
+ ## Алексей Шпаковский
+ - [http://alexey.shpakovsky.ru](http://alexey.shpakovsky.ru)
+ - date_published: 2021-07-15T17:10:55+00:00
+
+ ## Вулкан казино официальный сайт - играть в игровые автоматы Vulcan на реально деньги онлайн
+ - [http://shpalikov.ru](http://shpalikov.ru)
+ - date_published: 2024-10-14T14:41:53.943817+00:00
+
+ ## ШТОСМ
+ - [http://shtosm.ru](http://shtosm.ru)
+ - date_published: 2024-07-08T12:52:59.837418+00:00
+
+ ## Главная
+ - [https://sibastro.ru](https://sibastro.ru)
+ - date_published: 2024-08-18T18:28:23.876024+00:00
+
+ ## Сима-ленд — интернет-магазин товаров для комфортной жизни
+ - [https://www.sima-land.ru](https://www.sima-land.ru)
+ - date_published: 2024-07-13T13:34:30.267819+00:00
+
+ ## Благотворительный фонд «Система»
+ - [http://bf.sistema.ru](http://bf.sistema.ru)
+ - date_published: 2024-07-13T15:29:09.717249+00:00
+
+ ## Создание сайтов в Москве 👍 Сайтмедиа - сайты, которые продают!
+ - [https://sitemedia.ru](https://sitemedia.ru)
+ - date_published: 2024-09-09T16:43:45+00:00
+
+ ## SITEROST - Рейтинг хостингов, партнёрских программ, рекламных сетей
+ - [http://siterost.ru](http://siterost.ru)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Andrey Sitnik
+ - [https://sitnik.ru](https://sitnik.ru)
+ - date_published: 2024-05-07T23:30:55+00:00
+
  ## Академия наставников
  - [https://academy.sk.ru](https://academy.sk.ru)
  - date_published: 2024-10-23T06:51:37.073927+00:00
@@ -3859,163 +4016,4 @@
  ## Corren, Östgöta Correspondenten
  - [https://corren.se](https://corren.se)
  - date_published: 2024-06-29T04:22:13.031205+00:00
-
- ## Cosense - Share Experience, Make Co-sense, and Go！
- - [https://cosen.se](https://cosen.se)
- - date_published: 2024-10-28T02:34:46.917408+00:00
-
- ## CPS week
- - [http://www.cpsweek2010.se](http://www.cpsweek2010.se)
- - date_published: 2024-08-19T20:40:58.307674+00:00
-
- ## Crafoordska stiftelsen - Grundad av Holger Crafoord 1980
- - [https://crafoord.se](https://crafoord.se)
- - date_published: 2024-02-08T22:09:07.290463+00:00
-
- ## Welcome to the Crafoord Prize - Crafoord Prize
- - [https://www.crafoordprize.se](https://www.crafoordprize.se)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## CrazyGames - Gratis Onlinespel på CrazyGames.se
- - [https://crazygames.se](https://crazygames.se)
- - date_published: 2024-05-08T06:51:46.279022+00:00
-
- ## Välkommen till Creative Commons Sverige - CC Sweden
- - [https://creativecommons.se](https://creativecommons.se)
- - date_published: 2023-10-29T00:00:00+00:00
-
- ## Crisp's Blog - from the Crisp Consultants
- - [https://blog.crisp.se](https://blog.crisp.se)
- - date_published: 2024-05-04T14:10:33.627222+00:00
-
- ## Med vår hjälp blomstrar hållbara företag
- - [https://crisp.se](https://crisp.se)
- - date_published: 2024-01-15T00:00:00+00:00
-
- ## Centrala studiestödsnämnden
- - [https://www.csn.se](https://www.csn.se)
- - date_published: 2024-05-01T06:31:26.414976+00:00
-
- ## Bli au pair i USA | Cultural Care
- - [https://www.culturalcare.se](https://www.culturalcare.se)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## curl
- - [https://curl.se](https://curl.se)
- - date_published: 2023-10-25T22:37:05.022651+00:00
- - tags: ['page downloader', 'open source']
-
- ## Skapa ditt jobb-vinnande cv
- - [https://cvkungen.se](https://cvkungen.se)
- - date_published: 2024-05-06T09:20:53.742032+00:00
-
- ## CVkungen.se FAQ
- - [https://help.cvkungen.se](https://help.cvkungen.se)
- - date_published: 2024-06-22T22:10:52.588648+00:00
-
- ## Creo Media Player
- - [https://player.cvm3.se](https://player.cvm3.se)
- - date_published: 2024-09-25T12:33:31+00:00
-
- ## Home
- - [https://cyberfortress.se](https://cyberfortress.se)
- - date_published: 2024-06-29T06:04:16.338209+00:00
-
- ## Dagens Arbete
- - [https://da.se](https://da.se)
- - date_published: 2023-10-31T14:57:36.906065+00:00
-
- ## Tipsa oss
- - [https://tipsa.da.se](https://tipsa.da.se)
- - date_published: 2024-08-18T15:01:12.288773+00:00
-
- ## Dagen: en tidning på kristen grund – nyheter, debatt, kultur
- - [https://www.dagen.se](https://www.dagen.se)
- - date_published: 2024-06-29T04:21:39+00:00
-
- ## dagensse
- - [https://dagens.se](https://dagens.se)
- - date_published: 2024-05-01T03:29:18.754979+00:00
-
- ## Dagens Arena
- - [https://www.dagensarena.se](https://www.dagensarena.se)
- - date_published: 2024-06-29T04:22:39.032462+00:00
-
- ## Dagens bästa speltips hos DagensBetting.se
- - [https://dagensbetting.se](https://dagensbetting.se)
- - date_published: 2021-01-28T11:05:23+00:00
-
- ## Daniel Bruce
- - [https://danielbruce.se](https://danielbruce.se)
- - date_published: 2023-07-16T16:40:09+00:00
- - tags: ['personal']
-
- ## datagubbe.se
- - [https://datagubbe.se](https://datagubbe.se)
- - date_published: 2023-10-25T22:37:06.570837+00:00
- - tags: ['hobby page', 'amiga', 'personal', 'commodore']
-
- ## DataJuristen
- - [https://www.datajurist.se](https://www.datajurist.se)
- - date_published: 2024-06-28T20:44:18+00:00
-
- ## Datamuseet – Datorernas fascinerande historia
- - [http://www.datamuseet.se](http://www.datamuseet.se)
- - date_published: 2024-08-07T02:43:34.348302+00:00
-
- ## Datasaab
- - [https://datasaab.se](https://datasaab.se)
- - date_published: 2024-04-28T05:00:27.983648+00:00
-
- ## Dataskuggan
- - [https://dataskuggan.se](https://dataskuggan.se)
- - date_published: 2024-07-04T08:26:07.969887+00:00
-
- ## Dataspelsbranschen
- - [https://dataspelsbranschen.se](https://dataspelsbranschen.se)
- - date_published: 2024-07-17T13:41:47.921243+00:00
-
- ## DataTjej - En ideell organisation för kvinnor och ickebinära med ett intresse för IT och Data
- - [http://datatjej.se](http://datatjej.se)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## We make applications for people
- - [https://datenstrom.se](https://datenstrom.se)
- - date_published: 2024-07-10T09:01:57+00:00
-
- ## Deadnet Internet Services
- - [http://www.deadnet.se](http://www.deadnet.se)
- - date_published: 2023-12-28T16:13:35+00:00
-
- ## Decathlon I  Världens största sportkedja
- - [https://decathlon.se](https://decathlon.se)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Hjälp
- - [https://help.decathlon.se](https://help.decathlon.se)
- - date_published: 2024-09-19T13:42:58.785404+00:00
-
- ## Deculture | För fans, av fans
- - [http://deculture.se](http://deculture.se)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Onlinemäklare | Lågt courtage | Investera | Mäklare DEGIRO
- - [https://www.degiro.se](https://www.degiro.se)
- - date_published: 2024-05-31T14:31:33+00:00
-
- ## Den officiella besöksguiden till Uppsala - Destination Uppsala
- - [https://destinationuppsala.se](https://destinationuppsala.se)
- - date_published: 2024-10-18T15:53:12.787655+00:00
-
- ## DevSum - Developer Conference in Sweden
- - [https://devsum.se](https://devsum.se)
- - date_published: 2024-06-15T16:17:47.174744+00:00
-
- ## Datorföreningen vid LU & LTH - Välkommen
- - [https://dflund.se](https://dflund.se)
- - date_published: 2024-05-08T09:17:34.577920+00:00
-
- ## Join the Datorföreningen vid LU & LTH Discord Server!
- - [https://discord.dflund.se](https://discord.dflund.se)
- - date_published: 2024-07-03T17:20:00+00:00
 

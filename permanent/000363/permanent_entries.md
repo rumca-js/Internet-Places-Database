@@ -1,3 +1,157 @@
+ ## Kevin's Meandering Mind | If you don't live it, it won't come out of your horn.  ~ Charlie Parker
+ - [https://dogtrax.edublogs.org](https://dogtrax.edublogs.org)
+ - date_published: 2024-05-08T05:51:07.174769+00:00
+ - tags: ['personal']
+
+ ## Edublogs – free blogs for education
+ - [https://edublogs.org](https://edublogs.org)
+ - date_published: 2024-06-29T16:53:14.260632+00:00
+
+ ## Edublogs Help and Support
+ - [https://help.edublogs.org](https://help.edublogs.org)
+ - date_published: 2024-07-02T15:43:41.721645+00:00
+
+ ## Reflections, Ruminations, and Renderings | “By seeking and blundering we learn” – Johann Wolfgang von Goethe
+ - [http://inspirepassion.edublogs.org](http://inspirepassion.edublogs.org)
+ - date_published: 2024-07-04T18:00:39.349964+00:00
+
+ ## Blog doesn't exist
+ - [https://jezuden.edublogs.org](https://jezuden.edublogs.org)
+ - date_published: 2024-05-29T04:07:50.002766+00:00
+
+ ## Blog doesn't exist
+ - [http://lasdandkhanacademy.edublogs.org](http://lasdandkhanacademy.edublogs.org)
+ - date_published: 2024-06-20T03:51:04.684992+00:00
+
+ ## Realsociology | A hyperreflexive blog focussing on critical sociology, infographics, Buddhism and extreme early retirement
+ - [http://realsociology.edublogs.org](http://realsociology.edublogs.org)
+ - date_published: 2024-06-30T03:25:04.510341+00:00
+
+ ## Blog doesn't exist
+ - [https://talkovlaw.edublogs.org](https://talkovlaw.edublogs.org)
+ - date_published: 2024-05-07T13:28:49.887443+00:00
+
+ ## What Else
+ - [http://whatelse.edublogs.org](http://whatelse.edublogs.org)
+ - date_published: 2024-07-04T18:00:59.213784+00:00
+
+ ## Edubuntu
+ - [https://edubuntu.org](https://edubuntu.org)
+ - date_published: 2024-04-13T18:23:28+00:00
+ - tags: ['operating system']
+
+ ## Educated Guesswork
+ - [https://educatedguesswork.org](https://educatedguesswork.org)
+ - date_published: 2023-10-25T21:16:41.328615+00:00
+
+ ## Home - Educate Magis
+ - [https://www.educatemagis.org](https://www.educatemagis.org)
+ - date_published: 2024-08-09T00:00:00+00:00
+
+ ## EducatioNation
+ - [http://www.educationation.org](http://www.educationation.org)
+ - date_published: 2024-05-02T00:25:50+00:00
+
+ ## Education Bug - Articles, Public & Private Schools, Colleges
+ - [http://www.educationbug.org](http://www.educationbug.org)
+ - date_published: 2024-06-27T07:33:21.454133+00:00
+
+ ## Education Data Initiative: College Costs & Student Loan Research
+ - [https://educationdata.org](https://educationdata.org)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## The Education Fund
+ - [https://www.educationfund.org](https://www.educationfund.org)
+ - date_published: 2024-10-29T06:51:57.464930+00:00
+
+ ## Education in Action - Education in Action
+ - [https://educationinaction.org](https://educationinaction.org)
+ - date_published: 2024-10-19T05:11:25.936917+00:00
+
+ ## WIDE Education Inequalities
+ - [https://www.education-inequalities.org](https://www.education-inequalities.org)
+ - date_published: 2024-06-17T16:11:48.398865+00:00
+
+ ## Education Minnesota
+ - [https://educationminnesota.org](https://educationminnesota.org)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Education Next - A Journal of Opinion and Research About Education Policy
+ - [https://educationnext.org](https://educationnext.org)
+ - date_published: 2023-10-25T21:16:46.987080+00:00
+
+ ## Scoping Progress in Education
+ - [https://www.education-progress.org](https://www.education-progress.org)
+ - date_published: 2024-10-19T17:47:09.319798+00:00
+
+ ## Race to Zero for Universities and Colleges
+ - [https://www.educationracetozero.org](https://www.educationracetozero.org)
+ - date_published: 2024-07-20T15:44:25.173151+00:00
+
+ ## Home
+ - [https://educopia.org](https://educopia.org)
+ - date_published: 2024-10-31T03:35:57.415617+00:00
+
+ ## Home
+ - [https://catalogue.edulib.org](https://catalogue.edulib.org)
+ - date_published: 2024-09-16T00:54:32.888320+00:00
+
+ ## Home
+ - [https://www.edumed.org](https://www.edumed.org)
+ - date_published: 2024-07-21T09:00:48+00:00
+
+ ## The International Student Guide to studying in the USA
+ - [http://edupass.org](http://edupass.org)
+ - date_published: 2024-07-23T16:52:32+00:00
+
+ ## EduPub - International Book Publisher
+ - [https://edupediapublications.org](https://edupediapublications.org)
+ - date_published: 2024-10-28T08:54:51+00:00
+
+ ## eduroam Configuration Assistant Tool
+ - [https://cat.eduroam.org](https://cat.eduroam.org)
+ - date_published: 2024-07-19T05:45:30.908396+00:00
+
+ ## Home
+ - [https://edutopia.org](https://edutopia.org)
+ - date_published: 2023-11-13T12:55:19.508453+00:00
+
+ ## Log In ‹ Edutopia — WordPress
+ - [https://wpvip.edutopia.org](https://wpvip.edutopia.org)
+ - date_published: 2024-08-18T13:37:57.606351+00:00
+
+ ## eduvaites
+ - [https://eduvaites.org](https://eduvaites.org)
+ - date_published: 2024-09-09T13:58:55+00:00
+
+ ## Edward
+ - [https://discourse.edwardlib.org](https://discourse.edwardlib.org)
+ - date_published: 2024-05-06T21:49:17.839942+00:00
+
+ ## Edward – Home
+ - [https://edwardlib.org](https://edwardlib.org)
+ - date_published: 2024-03-18T16:28:37+00:00
+
+ ## Edward Said
+ - [http://www.edwardsaid.org](http://www.edwardsaid.org)
+ - date_published: 2024-10-21T18:57:32.185676+00:00
+
+ ## Education Week - K-12 education news and information
+ - [http://blogs.edweek.org](http://blogs.edweek.org)
+ - date_published: 2022-12-28T10:00:55.347000+00:00
+
+ ## Education Week - K-12 education news and information
+ - [https://edweek.org](https://edweek.org)
+ - date_published: 2022-12-28T10:00:55.347000+00:00
+
+ ## K-12 Intel for Business Leaders - Market Brief
+ - [https://marketbrief.edweek.org](https://marketbrief.edweek.org)
+ - date_published: 2024-05-15T19:01:18.965000+00:00
+
+ ## Build new skills. Advance your career.
+ - [https://courses.edx.org](https://courses.edx.org)
+ - date_published: 2024-09-03T21:30:03+00:00
+
  ## HarvardX: CS50's Introduction to Computer Science
  - [https://cs50.edx.org](https://cs50.edx.org)
  - date_published: 2024-06-22T10:42:37.983151+00:00
@@ -3886,157 +4040,4 @@ Home Page
  ## Europe PMC News Blog
  - [http://blog.europepmc.org](http://blog.europepmc.org)
  - date_published: 2024-07-18T00:00:00+00:00
-
- ## Europe PMC
- - [https://europepmc.org](https://europepmc.org)
- - date_published: 2024-02-26T21:43:40.591938+00:00
-
- ## Europe PMC plus
- - [https://plus.europepmc.org](https://plus.europepmc.org)
- - date_published: 2024-07-28T23:03:36+00:00
-
- ## Europeum Institute for European Policy
- - [https://www.europeum.org](https://www.europeum.org)
- - date_published: 2024-07-14T07:37:50.524903+00:00
-
- ## European region | ExxonMobil
- - [http://www.europeunconventionalgas.org](http://www.europeunconventionalgas.org)
- - date_published: 2024-10-21T14:25:02.943611+00:00
-
- ## Europex – Association of European Energy Exchanges
- - [http://www.europex.org](http://www.europex.org)
- - date_published: 2024-07-20T04:59:46+00:00
-
- ## EuroPython Society
- - [https://europython-society.org](https://europython-society.org)
- - date_published: 2024-07-20T17:51:18.814008+00:00
-
- ## [EuroRanch Weblog]
- - [http://www.euroranch.org](http://www.euroranch.org)
- - date_published: 2024-10-21T05:06:27.938330+00:00
-
- ## EuroSciPy home
- - [https://euroscipy.org](https://euroscipy.org)
- - date_published: 2024-05-11T09:07:36.891012+00:00
-
- ## Eurosurveillance
- - [https://eurosurveillance.org](https://eurosurveillance.org)
- - date_published: 2023-11-24T19:04:26.701922+00:00
- - tags: ['diseases', 'epidemiology']
-
- ## EuroSys'18
- - [http://2018.eurosys.org](http://2018.eurosys.org)
- - date_published: 2019-07-11T17:09:13+00:00
-
- ## EuroSys 2019
- - [http://2019.eurosys.org](http://2019.eurosys.org)
- - date_published: 2019-07-11T16:09:58+00:00
-
- ## EUROSYS 2020
- - [https://2020.eurosys.org](https://2020.eurosys.org)
- - date_published: 2022-08-01T10:30:11+00:00
-
- ## EuroSys 2021
- - [https://2021.eurosys.org](https://2021.eurosys.org)
- - date_published: 2021-06-01T14:01:43+00:00
-
- ## EuroSys 2022 – April 5-8, 2022, Rennes, France
- - [https://2022.eurosys.org](https://2022.eurosys.org)
- - date_published: 2023-09-04T07:41:29+00:00
-
- ## EuroSys 2023
- - [https://2023.eurosys.org](https://2023.eurosys.org)
- - date_published: 2024-04-03T15:32:21+00:00
-
- ## EuroSys 2024
- - [https://2024.eurosys.org](https://2024.eurosys.org)
- - date_published: 2024-05-04T15:44:09.059472+00:00
-
- ## EuroSys 2025
- - [https://2025.eurosys.org](https://2025.eurosys.org)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## European Chapter of ACM SIGOPS
- - [https://www.eurosys.org](https://www.eurosys.org)
- - date_published: 2024-05-11T07:20:51.109395+00:00
-
- ## Eurosys2017 Greets You with a Warm Welcome Note
- - [http://eurosys2017.org](http://eurosys2017.org)
- - date_published: 2024-07-21T03:35:31.766949+00:00
-
- ## EUROSYS 2020
- - [https://www.eurosys2020.org](https://www.eurosys2020.org)
- - date_published: 2024-07-03T06:10:31.742464+00:00
-
- ## EuroVis 2019 -
- - [http://www.eurovis2019.org](http://www.eurovis2019.org)
- - date_published: 2024-07-02T13:33:43.091284+00:00
-
- ## Euruko 2023
- - [https://2023.euruko.org](https://2023.euruko.org)
- - date_published: 2023-10-10T11:56:28+00:00
-
- ## スポーツ好きの新婚さんは新婚旅行で海外スポーツ観戦しよう
- - [http://www.euruko2015.org](http://www.euruko2015.org)
- - date_published: 2023-12-04T01:09:48+00:00
-
- ## Online-gambling.com and Eurunion.org
- - [http://www.eurunion.org](http://www.eurunion.org)
- - date_published: 2024-06-27T09:38:34.966749+00:00
-
- ## 三重で求人も趣味も充実！看護師求人サイト情報
- - [http://www.eusci.org](http://www.eusci.org)
- - date_published: 2024-10-21T17:24:27.433283+00:00
-
- ## Eusem - European Society For Emergency Medicine
- - [https://eusem.org](https://eusem.org)
- - date_published: 2024-10-14T23:09:48+00:00
-
- ## EUSEM Congress 2023
- - [https://eusemcongress.org](https://eusemcongress.org)
- - date_published: 2024-10-14T23:10:00.974125+00:00
-
- ## EUSIMULATIONS.ORG
- - [http://eusimulations.org](http://eusimulations.org)
- - date_published: 2024-05-09T05:24:21.817358+00:00
-
- ## Attention Required! | Cloudflare
- - [https://eu-ua.org](https://eu-ua.org)
- - date_published: 2024-09-10T11:51:39.633204+00:00
-
- ## Effective Ventures
- - [https://ev.org](https://ev.org)
- - date_published: 2024-03-01T00:00:00+00:00
-
- - [https://evageeks.org](https://evageeks.org)
- - date_published: 2024-07-14T11:32:17+00:00
- - tags: ['neon genesis evangelion']
-
- ## EvaGeeks.org Forum - an Evangelion Fan Community - Index page
- - [https://forum.evageeks.org](https://forum.evageeks.org)
- - date_published: 2024-07-14T00:00:00+00:00
-
- ## EvaWiki - An Evangelion Wiki - EvaGeeks.org
- - [https://wiki.evageeks.org](https://wiki.evageeks.org)
- - date_published: 2024-04-23T19:52:20+00:00
-
- ## Hi, I'm Aditya Athalye.
- - [https://evalapply.org](https://evalapply.org)
- - date_published: 2023-10-25T21:19:33.111462+00:00
-
- ## The CFA’s Rate of Return (ROR) Program | Evaluate Life Insurance
- - [http://www.evaluatelifeinsurance.org](http://www.evaluatelifeinsurance.org)
- - date_published: 2024-06-29T15:35:06.353127+00:00
-
- ## Evangelical Times | Informing and connecting God's people
- - [https://www.evangelical-times.org](https://www.evangelical-times.org)
- - date_published: 2024-06-22T12:53:37.970312+00:00
-
- ## Home Page of Evan Miller
- - [https://evanmiller.org](https://evanmiller.org)
- - date_published: 2023-10-25T21:19:35.240645+00:00
-
- ## Evansville Museum of Arts, History & Science
- - [https://evansvillemuseum.org](https://evansvillemuseum.org)
- - date_published: 2024-07-01T17:42:45.159782+00:00
 

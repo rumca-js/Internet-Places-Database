@@ -1,3 +1,95 @@
+ ## Honors College
+ - [http://honors.gsu.edu](http://honors.gsu.edu)
+ - date_published: 2024-07-21T23:54:02.847701+00:00
+
+ ## Human Resources at Georgia State
+ - [https://hr.gsu.edu](https://hr.gsu.edu)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## International Center for Public Policy - International Center for Public Policy
+ - [https://icepp.gsu.edu](https://icepp.gsu.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## iCollege - iCollege
+ - [https://icollege.gsu.edu](https://icollege.gsu.edu)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Intensive English Program | Georgia State University
+ - [https://iep.gsu.edu](https://iep.gsu.edu)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Georgia State University | IMPACT Georgia State Crowdfunding
+ - [https://impact.gsu.edu](https://impact.gsu.edu)
+ - date_published: 2024-08-06T17:39:18.073664+00:00
+
+ ## Instructional Innovation & Technology
+ - [http://innovation.gsu.edu](http://innovation.gsu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## International Initiatives - Georgia State University
+ - [http://international.gsu.edu](http://international.gsu.edu)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Georgia State University Login
+ - [https://intranet.library.gsu.edu](https://intranet.library.gsu.edu)
+ - date_published: 2024-07-22T02:23:38.178300+00:00
+
+ ## International Student and Scholar Services - International Student & Scholar Services
+ - [http://isss.gsu.edu](http://isss.gsu.edu)
+ - date_published: 2024-07-21T23:54:16.234894+00:00
+
+ ## College of Law
+ - [http://law.gsu.edu](http://law.gsu.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Georgia State University College of Law Library
+ - [https://lawlibrary.gsu.edu](https://lawlibrary.gsu.edu)
+ - date_published: 2024-04-30T04:31:34.280907+00:00
+
+ ## Home - Georgia State University
+ - [https://legacy.gsu.edu](https://legacy.gsu.edu)
+ - date_published: 2024-08-11T08:07:36.649253+00:00
+
+ ## Legal Affairs - Office of Legal Affairs
+ - [https://legalaffairs.gsu.edu](https://legalaffairs.gsu.edu)
+ - date_published: 2024-04-30T04:32:12.778458+00:00
+
+ ## Byrdine F. Lewis College of Nursing and Health Professions
+ - [https://lewis.gsu.edu](https://lewis.gsu.edu)
+ - date_published: 2024-07-22T02:08:25.240071+00:00
+
+ ## Georgia State University Library - Georgia State University Library
+ - [https://library.gsu.edu](https://library.gsu.edu)
+ - date_published: 2024-04-30T04:31:58.166270+00:00
+
+ ## Georgia State University Magazine
+ - [https://magazine.gsu.edu](https://magazine.gsu.edu)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## Georgia State Markeplace - Georgia State Marketplace
+ - [http://marketplace.gsu.edu](http://marketplace.gsu.edu)
+ - date_published: 2024-08-01T00:00:00+00:00
+
+ ## Georgia State University
+ - [https://mediaspace.gsu.edu](https://mediaspace.gsu.edu)
+ - date_published: 2024-08-11T19:41:41+00:00
+
+ ## Military Outreach
+ - [https://military.gsu.edu](https://military.gsu.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Housing
+ - [https://myhousing.gsu.edu](https://myhousing.gsu.edu)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Georgia State University - Recreation Portal
+ - [https://myrec.gsu.edu](https://myrec.gsu.edu)
+ - date_published: 2024-08-10T22:38:32.857247+00:00
+
+ ## My Study Abroad - Georgia State University
+ - [http://mystudyabroad.gsu.edu](http://mystudyabroad.gsu.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
  ## ascend Portal
  - [https://netcommunity.gsu.edu](https://netcommunity.gsu.edu)
  - date_published: 2023-07-21T18:42:34+00:00
@@ -3915,96 +4007,4 @@ IDEALS
  ## The Media School
  - [https://mediaschool.indiana.edu](https://mediaschool.indiana.edu)
  - date_published: 2024-03-07T00:00:00+00:00
-
- ## Luddy School of Informatics, Computing, and Engineering News Archive
- - [https://news.luddy.indiana.edu](https://news.luddy.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Paul H. O’Neill School of Public and Environmental Affairs
- - [https://oneill.indiana.edu](https://oneill.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Ostrom Workshop
- - [https://ostromworkshop.indiana.edu](https://ostromworkshop.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Welcome, alumni leaders! : Our IU
- - [https://our.indiana.edu](https://our.indiana.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Strengthening connections with rural communities
- - [https://rural.indiana.edu](https://rural.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## IU School of Informatics, Computing, and Engineering
- - [https://sice.indiana.edu](https://sice.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## IU School of Informatics, Computing, and Engineering
- - [https://soic.indiana.edu](https://soic.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Security and Privacy in Informatics, Computing, and Engineering
- - [https://spice.sice.indiana.edu](https://spice.sice.indiana.edu)
- - date_published: 2024-06-17T10:11:33.365080+00:00
-
- ## Student Central @ IU
- - [https://studentcentral.indiana.edu](https://studentcentral.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Home
- - [http://sysseclab.informatics.indiana.edu](http://sysseclab.informatics.indiana.edu)
- - date_published: 2013-05-25T14:09:20+00:00
-
- ## College Unit Base
- - [https://unitbase.college.indiana.edu](https://unitbase.college.indiana.edu)
- - date_published: 2024-09-18T22:36:53.644428+00:00
-
- ## IU Computer Vision Lab | Indiana University
- - [http://vision.soic.indiana.edu](http://vision.soic.indiana.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Workshop on the Ostrom Workshop
- - [https://wow.indiana.edu](https://wow.indiana.edu)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## SoIC Wordpress Homepage Site
- - [https://wphomes.soic.indiana.edu](https://wphomes.soic.indiana.edu)
- - date_published: 2024-07-08T15:08:15.837764+00:00
-
- ## Indiana Institute on Disability and Community
- - [https://www.iidc.indiana.edu](https://www.iidc.indiana.edu)
- - date_published: 2022-09-15T00:00:00+00:00
-
- ## Indiana University Mathematics Journal
- - [http://www.iumj.indiana.edu](http://www.iumj.indiana.edu)
- - date_published: 2023-02-23T21:42:36+00:00
-
- ## Indiana State University Homepage | Indiana State University
- - [http://www.indstate.edu](http://www.indstate.edu)
- - date_published: 2024-07-01T17:18:05+00:00
-
- ## The Business School for the World | INSEAD
- - [https://60.insead.edu](https://60.insead.edu)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## INSEAD Annual Report – 2022
- - [https://annual-report.insead.edu](https://annual-report.insead.edu)
- - date_published: 2024-07-03T17:48:46+00:00
-
- ## digital@INSEAD
- - [https://digital.insead.edu](https://digital.insead.edu)
- - date_published: 2024-07-03T17:43:33+00:00
-
- ## Homepage
- - [https://forceforgood.insead.edu](https://forceforgood.insead.edu)
- - date_published: 2024-07-03T12:27:22+00:00
-
- ## The Business School for the World | INSEAD
- - [https://insead.edu](https://insead.edu)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Inspire Success with INSEAD | InTheKnow
- - [https://intheknow.insead.edu](https://intheknow.insead.edu)
- - date_published: 2024-07-03T03:24:18+00:00
 

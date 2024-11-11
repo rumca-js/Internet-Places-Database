@@ -1,3 +1,20 @@
+ ## Devolver Direct 2024: Volvy's 15th Birthday Party
+ - [https://devolverdirect.com](https://devolverdirect.com)
+ - date_published: 2024-06-21T13:14:02.590205+00:00
+ - tags: ['convention']
+
+ ## Boutique DEVOME
+ - [https://boutique.devome.com](https://boutique.devome.com)
+ - date_published: 2024-10-31T06:04:25.129063+00:00
+
+ ## DEVOME
+ - [https://grr.devome.com](https://grr.devome.com)
+ - date_published: 2024-06-19T22:35:22+00:00
+
+ ## Devon Dundee
+ - [https://devondundee.com](https://devondundee.com)
+ - date_published: 2024-07-30T00:00:00+00:00
+
  ## Home - DE Digital
  - [https://www.devoneddydigital.com](https://www.devoneddydigital.com)
  - date_published: 2022-04-03T00:00:00+00:00
@@ -4026,20 +4043,4 @@ A blog about programming, distributed systems and others
  ## Discover Technology: Build Your Craft
  - [https://technology.discover.com](https://technology.discover.com)
  - date_published: 2024-06-16T09:02:11.821600+00:00
-
- ## Discover Airlines
- - [https://newsroom-en.discover-airlines.com](https://newsroom-en.discover-airlines.com)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Discover Airlines
- - [https://www.discover-airlines.com](https://www.discover-airlines.com)
- - date_published: 2024-06-16T16:24:45.238434+00:00
-
- ## الصفحة الرئيسية
- - [https://discoveraseer.com](https://discoveraseer.com)
- - date_published: 2024-08-29T07:51:08+00:00
-
- ## Baja California, México - Official Travel Website
- - [http://www.discoverbajacalifornia.com](http://www.discoverbajacalifornia.com)
- - date_published: 2024-06-11T00:00:00+00:00
 

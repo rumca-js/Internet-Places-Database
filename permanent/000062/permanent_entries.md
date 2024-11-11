@@ -1,3 +1,11 @@
+ ## Python bytes
+ - [http://pybites.blogspot.com](http://pybites.blogspot.com)
+ - date_published: 2024-06-27T11:53:27+00:00
+
+ ## On Clouds, Poems, Python and more...
+ - [http://pycloud.blogspot.com](http://pycloud.blogspot.com)
+ - date_published: 2024-02-20T18:20:53+00:00
+
  ## The PyCon US Blog
  - [https://pycon.blogspot.com](https://pycon.blogspot.com)
  - date_published: 2024-05-06T23:45:56.764189+00:00
@@ -4003,12 +4011,4 @@
  ## some   LANDSCAPES
  - [https://some-landscapes.blogspot.com](https://some-landscapes.blogspot.com)
  - date_published: 2024-06-23T11:30:10+00:00
-
- ## some of nothing
- - [http://someofnothing.blogspot.com](http://someofnothing.blogspot.com)
- - date_published: 2024-03-08T15:37:57+00:00
-
- ## Rail Thing - Friends of the S&D
- - [http://somersetanddorset.blogspot.com](http://somersetanddorset.blogspot.com)
- - date_published: 2024-03-21T15:46:42+00:00
 

@@ -1,3 +1,95 @@
+ ## College of Social Sciences, Arts and Humanities
+ - [http://cssah.famu.edu](http://cssah.famu.edu)
+ - date_published: 2024-07-08T14:54:26.986075+00:00
+
+ ## The School of Graduate Studies and Research
+ - [http://graduateschool.famu.edu](http://graduateschool.famu.edu)
+ - date_published: 2024-07-08T14:54:06.222416+00:00
+
+ ## LibGuides: FAMU Libraries: Home
+ - [https://library.famu.edu](https://library.famu.edu)
+ - date_published: 2024-07-08T14:53:42.072882+00:00
+
+ ## myFAMU Home - Florida A&M University Foundation
+ - [http://my.famu.edu](http://my.famu.edu)
+ - date_published: 2024-07-08T14:54:24.709342+00:00
+
+ ## Redirecting...
+ - [http://mymail.famu.edu](http://mymail.famu.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## School of Architecture and Engineering Technology
+ - [https://saet.famu.edu](https://saet.famu.edu)
+ - date_published: 2024-05-08T11:43:39.986531+00:00
+
+ ## Florida A&M University - FAMU
+ - [https://www.famu.edu](https://www.famu.edu)
+ - date_published: 2024-07-08T14:53:58.150425+00:00
+
+ ## FAU | College of Business - Undergraduate, Graduate Degrees & Executive Education
+ - [https://business.fau.edu](https://business.fau.edu)
+ - date_published: 2024-09-02T12:29:33.438934+00:00
+
+ ## Events Calendar
+ - [https://calendar.fau.edu](https://calendar.fau.edu)
+ - date_published: 2024-04-30T04:14:14.611405+00:00
+
+ ## FAU Single Sign-On
+ - [https://canvas.fau.edu](https://canvas.fau.edu)
+ - date_published: 2024-07-22T04:25:26.371390+00:00
+
+ ## FAU directory
+ - [https://directory.fau.edu](https://directory.fau.edu)
+ - date_published: 2024-04-30T04:14:17.637913+00:00
+
+ ## Florida Atlantic University
+ - [https://fau.edu](https://fau.edu)
+ - date_published: 2024-04-30T04:14:25.546745+00:00
+
+ ## FAU Foundation Inc
+ - [https://fauf.fau.edu](https://fauf.fau.edu)
+ - date_published: 2024-04-03T00:00:00+00:00
+
+ ## MYFAU
+ - [https://myfau.fau.edu](https://myfau.fau.edu)
+ - date_published: 2024-07-22T04:25:22.553140+00:00
+
+ ## One-Stop Shop for Student Services : Florida Atlantic University
+ - [https://onestop.fau.edu](https://onestop.fau.edu)
+ - date_published: 2024-04-30T04:14:12.323236+00:00
+
+ ## One-Stop Shop for Student Services : Florida Atlantic University
+ - [https://supportcentral.fau.edu](https://supportcentral.fau.edu)
+ - date_published: 2024-07-22T04:26:23.605525+00:00
+
+ ## Florida Atlantic University
+ - [https://swise.fau.edu](https://swise.fau.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Home - Florida Atlantic University
+ - [https://transcendtomorrow.fau.edu](https://transcendtomorrow.fau.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Department of Electrical Engineering and Computer Science
+ - [http://www.cse.fau.edu](http://www.cse.fau.edu)
+ - date_published: 2024-06-22T09:32:42.331132+00:00
+
+ ## Home | Fairfax County Public Schools | Fairfax County, Virginia
+ - [https://www.fcps.edu](https://www.fcps.edu)
+ - date_published: 2024-07-08T13:57:04.352300+00:00
+
+ ## Ferris State University
+ - [https://360.ferris.edu](https://360.ferris.edu)
+ - date_published: 2024-04-30T04:14:31.121666+00:00
+
+ ## Ferris State University
+ - [https://ferris.edu](https://ferris.edu)
+ - date_published: 2024-04-30T04:14:29.753716+00:00
+
+ ## Jim Crow Museum of Racist Imagery
+ - [https://jimcrowmuseum.ferris.edu](https://jimcrowmuseum.ferris.edu)
+ - date_published: 2024-07-22T04:25:09.043743+00:00
+
  ## Kendall College of Art and Design Grand Rapids Michigan
  - [https://kcad.ferris.edu](https://kcad.ferris.edu)
  - date_published: 2024-02-08T17:43:57.760533+00:00
@@ -3913,96 +4005,4 @@ Washington Journalism and Media Conference (WJMC) - WSP
  ## Homecoming Week | Georgia State University
  - [https://homecoming.gsu.edu](https://homecoming.gsu.edu)
  - date_published: 2024-07-22T02:12:17.958277+00:00
-
- ## Honors College
- - [http://honors.gsu.edu](http://honors.gsu.edu)
- - date_published: 2024-07-21T23:54:02.847701+00:00
-
- ## Human Resources at Georgia State
- - [https://hr.gsu.edu](https://hr.gsu.edu)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## International Center for Public Policy - International Center for Public Policy
- - [https://icepp.gsu.edu](https://icepp.gsu.edu)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## iCollege - iCollege
- - [https://icollege.gsu.edu](https://icollege.gsu.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Intensive English Program | Georgia State University
- - [https://iep.gsu.edu](https://iep.gsu.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Georgia State University | IMPACT Georgia State Crowdfunding
- - [https://impact.gsu.edu](https://impact.gsu.edu)
- - date_published: 2024-08-06T17:39:18.073664+00:00
-
- ## Instructional Innovation & Technology
- - [http://innovation.gsu.edu](http://innovation.gsu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## International Initiatives - Georgia State University
- - [http://international.gsu.edu](http://international.gsu.edu)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Georgia State University Login
- - [https://intranet.library.gsu.edu](https://intranet.library.gsu.edu)
- - date_published: 2024-07-22T02:23:38.178300+00:00
-
- ## International Student and Scholar Services - International Student & Scholar Services
- - [http://isss.gsu.edu](http://isss.gsu.edu)
- - date_published: 2024-07-21T23:54:16.234894+00:00
-
- ## College of Law
- - [http://law.gsu.edu](http://law.gsu.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Georgia State University College of Law Library
- - [https://lawlibrary.gsu.edu](https://lawlibrary.gsu.edu)
- - date_published: 2024-04-30T04:31:34.280907+00:00
-
- ## Home - Georgia State University
- - [https://legacy.gsu.edu](https://legacy.gsu.edu)
- - date_published: 2024-08-11T08:07:36.649253+00:00
-
- ## Legal Affairs - Office of Legal Affairs
- - [https://legalaffairs.gsu.edu](https://legalaffairs.gsu.edu)
- - date_published: 2024-04-30T04:32:12.778458+00:00
-
- ## Byrdine F. Lewis College of Nursing and Health Professions
- - [https://lewis.gsu.edu](https://lewis.gsu.edu)
- - date_published: 2024-07-22T02:08:25.240071+00:00
-
- ## Georgia State University Library - Georgia State University Library
- - [https://library.gsu.edu](https://library.gsu.edu)
- - date_published: 2024-04-30T04:31:58.166270+00:00
-
- ## Georgia State University Magazine
- - [https://magazine.gsu.edu](https://magazine.gsu.edu)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## Georgia State Markeplace - Georgia State Marketplace
- - [http://marketplace.gsu.edu](http://marketplace.gsu.edu)
- - date_published: 2024-08-01T00:00:00+00:00
-
- ## Georgia State University
- - [https://mediaspace.gsu.edu](https://mediaspace.gsu.edu)
- - date_published: 2024-08-11T19:41:41+00:00
-
- ## Military Outreach
- - [https://military.gsu.edu](https://military.gsu.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Housing
- - [https://myhousing.gsu.edu](https://myhousing.gsu.edu)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Georgia State University - Recreation Portal
- - [https://myrec.gsu.edu](https://myrec.gsu.edu)
- - date_published: 2024-08-10T22:38:32.857247+00:00
-
- ## My Study Abroad - Georgia State University
- - [http://mystudyabroad.gsu.edu](http://mystudyabroad.gsu.edu)
- - date_published: 2024-05-10T00:00:00+00:00
 

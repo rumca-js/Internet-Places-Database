@@ -1,3 +1,19 @@
+ ## HOME | Dempsey Industrial
+ - [https://www.dempseyindustrial.com](https://www.dempseyindustrial.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Demuxed 2015
+ - [https://2015.demuxed.com](https://2015.demuxed.com)
+ - date_published: 2016-05-16T20:21:25+00:00
+
+ ## Demuxed, The Conference for Video Engineers
+ - [https://2016.demuxed.com](https://2016.demuxed.com)
+ - date_published: 2016-10-13T00:00:00+00:00
+
+ ## Demuxed, The Conference for Video Engineers
+ - [https://2017.demuxed.com](https://2017.demuxed.com)
+ - date_published: 2017-10-05T00:00:00+00:00
+
  ## Demuxed, The Conference for Video Engineers
  - [https://2018.demuxed.com](https://2018.demuxed.com)
  - date_published: 2024-07-20T04:42:03.516088+00:00
@@ -4005,21 +4021,4 @@
  ## Devolver Digital - Game Pitch Submission
  - [https://pitch.devolverdigital.com](https://pitch.devolverdigital.com)
  - date_published: 2024-06-21T13:13:44.824476+00:00
-
- ## Devolver Direct 2024: Volvy's 15th Birthday Party
- - [https://devolverdirect.com](https://devolverdirect.com)
- - date_published: 2024-06-21T13:14:02.590205+00:00
- - tags: ['convention']
-
- ## Boutique DEVOME
- - [https://boutique.devome.com](https://boutique.devome.com)
- - date_published: 2024-10-31T06:04:25.129063+00:00
-
- ## DEVOME
- - [https://grr.devome.com](https://grr.devome.com)
- - date_published: 2024-06-19T22:35:22+00:00
-
- ## Devon Dundee
- - [https://devondundee.com](https://devondundee.com)
- - date_published: 2024-07-30T00:00:00+00:00
 

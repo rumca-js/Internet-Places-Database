@@ -1,3 +1,63 @@
+ ## Ma Petite Lettre | Damien Aresta | Substack
+ - [https://damienaa.substack.com](https://damienaa.substack.com)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Mania Riddle | Damien Laird | Substack
+ - [https://damienlaird.substack.com](https://damienlaird.substack.com)
+ - date_published: 2024-05-08T09:58:33.719465+00:00
+
+ ## Damn Dev | Abhishek Sriwastav | Substack
+ - [https://damndev.substack.com](https://damndev.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Notes from the Middleground | Damon Linker | Substack
+ - [https://damonlinker.substack.com](https://damonlinker.substack.com)
+ - date_published: 2024-03-06T00:00:00+00:00
+
+ ## Sober Soulful | Dana Leigh Lyons | Substack
+ - [https://danaleighlyons.substack.com](https://danaleighlyons.substack.com)
+ - date_published: 2024-01-08T15:36:32.857614+00:00
+
+ ## Look Behind You! | Dan Carlin | Substack
+ - [https://dancarlin.substack.com](https://dancarlin.substack.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Alex Danco's Newsletter | Substack
+ - [https://danco.substack.com](https://danco.substack.com)
+ - date_published: 2024-06-29T21:20:23.756047+00:00
+
+ ## The Held Report | Dan Held | Substack
+ - [https://danheld.substack.com](https://danheld.substack.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## DanHonMusic | Substack
+ - [https://danhon.substack.com](https://danhon.substack.com)
+ - date_published: 2024-06-21T01:54:01.613720+00:00
+
+ ## Keep the Republic | Daniel Bobinski | Substack
+ - [https://danielbobinski.substack.com](https://danielbobinski.substack.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Daniel Chang | Substack
+ - [https://danielchang.substack.com](https://danielchang.substack.com)
+ - date_published: 2024-08-19T14:54:03.087049+00:00
+
+ ## Drezner’s World | Daniel W. Drezner | Substack
+ - [https://danieldrezner.substack.com](https://danieldrezner.substack.com)
+ - date_published: 2024-04-29T04:47:22.043174+00:00
+
+ ## Israel from the Inside with Daniel Gordis | Substack
+ - [https://danielgordis.substack.com](https://danielgordis.substack.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## LEJOG 2023 | Daniel Janus | Substack
+ - [https://danieljanus.substack.com](https://danieljanus.substack.com)
+ - date_published: 2024-06-01T05:05:56.263230+00:00
+
+ ## Future History | Daniel Jeffries | Substack
+ - [https://danieljeffries.substack.com](https://danieljeffries.substack.com)
+ - date_published: 2024-01-09T01:39:10.786106+00:00
+
  ## Daniel Pinchbeck’s Newsletter | Substack
  - [https://danielpinchbeck.substack.com](https://danielpinchbeck.substack.com)
  - date_published: 2024-03-23T00:00:00+00:00
@@ -2916,6 +2976,10 @@
  - date_published: 2023-10-25T09:56:12.153586+00:00
  - tags: ['substack']
 
+ ## Juri’s Engineering Blog | Juri Adam | Substack
+ - [https://juriadam.substack.com](https://juriadam.substack.com)
+ - date_published: 2024-11-10T16:30:59.930856+00:00
+
  ## Justifications | Fergus McCullough | Substack
  - [https://justifications.substack.com](https://justifications.substack.com)
  - date_published: 2024-05-06T16:46:05.389873+00:00
@@ -4016,69 +4080,4 @@
  ## Meaning Alignment Institute | Joe Edelman | Substack
  - [https://meaningalignment.substack.com](https://meaningalignment.substack.com)
  - date_published: 2024-07-07T07:16:07.946737+00:00
-
- ## Meaningness | David Chapman | Substack
- - [https://meaningness.substack.com](https://meaningness.substack.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Meanwhile | Daniel Benneworth-Gray | Substack
- - [https://meanwhile.substack.com](https://meanwhile.substack.com)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## El Substack de ¿Ahora | ¿Ahora qué? | Substack
- - [https://mediamosconciencia.substack.com](https://mediamosconciencia.substack.com)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Offline: dating that works | Shreeda Segan | Substack
- - [https://meetmeoffline.substack.com](https://meetmeoffline.substack.com)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Megan’s Substack | Megan Elisabeth Kelly | Substack
- - [https://meganelisabethkelly.substack.com](https://meganelisabethkelly.substack.com)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Megan J. Robinson | Substack
- - [https://meganjrobinson.substack.com](https://meganjrobinson.substack.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Off-Topic | Meghan Boilard | Substack
- - [https://meghanboilard.substack.com](https://meghanboilard.substack.com)
- - date_published: 2024-01-09T01:42:13.267759+00:00
-
- ## The Unspeakable with Meghan Daum | Substack
- - [https://meghandaum.substack.com](https://meghandaum.substack.com)
- - date_published: 2024-03-08T00:00:00+00:00
-
- ## FIELD NOTES | Meghan J. Ward | Substack
- - [https://meghanjward.substack.com](https://meghanjward.substack.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## What does that have to do with gender? | Mélina Magdelénat | Substack
- - [https://melinamagdelenat.substack.com](https://melinamagdelenat.substack.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Melos Han-Tani | Substack
- - [https://melodicambient.substack.com](https://melodicambient.substack.com)
- - date_published: 2023-10-25T09:58:46.701668+00:00
- - tags: ['substack']
-
- ## Public Nuisance Feminist | Melodie Garcia, MPA | Substack
- - [https://melodiekg.substack.com](https://melodiekg.substack.com)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## The Melt by Jason Diamond  | Substack
- - [https://meltedcheeseonwhitefish.substack.com](https://meltedcheeseonwhitefish.substack.com)
- - date_published: 2024-01-09T01:42:17.605787+00:00
-
- ## memoirs & rambles | Yakko | Substack
- - [https://memoirsandrambles.substack.com](https://memoirsandrambles.substack.com)
- - date_published: 2024-01-05T15:16:39.796562+00:00
-
- ## The Electric Grandma | Meredith Angwin | Substack
- - [https://meredithangwin.substack.com](https://meredithangwin.substack.com)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## Meryl’s COVID Newsletter | Meryl Nass | Substack
- - [https://merylnass.substack.com](https://merylnass.substack.com)
- - date_published: 2024-05-01T03:02:34.728042+00:00
 

@@ -1,3 +1,11 @@
+ ## Business Travel Awards Europe
+ - [https://btn.businesstravelawards.com](https://btn.businesstravelawards.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Business Travel Awards Europe
+ - [https://businesstravelawardseurope.com](https://businesstravelawardseurope.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
  ## Business Travel News
  - [https://businesstravelnews.com](https://businesstravelnews.com)
  - date_published: 2024-05-08T04:01:05.261795+00:00
@@ -4027,13 +4035,4 @@
  ## DocNetwork
  - [http://app.campdoc.com](http://app.campdoc.com)
  - date_published: 2024-06-27T15:34:30+00:00
-
- ## Cam Pedersen
- - [https://campedersen.com](https://campedersen.com)
- - date_published: 2024-05-12T04:55:17.317282+00:00
- - tags: ['personal']
-
- ## Cam Pegg: Digital product and strategy guy
- - [https://campegg.com](https://campegg.com)
- - date_published: 2024-08-08T12:44:27.350275+00:00
 

@@ -1,3 +1,95 @@
+ ## Canvas@Cornell
+ - [https://canvas.cornell.edu](https://canvas.cornell.edu)
+ - date_published: 2022-08-04T10:54:07+00:00
+
+ ## Capra
+ - [https://capra.cs.cornell.edu](https://capra.cs.cornell.edu)
+ - date_published: 2024-08-08T19:05:28+00:00
+
+ ## Join Our Team!
+ - [https://careers.universityrelations.cornell.edu](https://careers.universityrelations.cornell.edu)
+ - date_published: 2024-05-20T14:02:52+00:00
+
+ ## Careers at Weill Cornell Medicine | Weill Cornell Medicine
+ - [https://careers.weill.cornell.edu](https://careers.weill.cornell.edu)
+ - date_published: 2024-07-22T05:24:18+00:00
+
+ ## Cornell University Library Catalog
+ - [https://catalog.library.cornell.edu](https://catalog.library.cornell.edu)
+ - date_published: 2024-07-22T05:27:57.365309+00:00
+
+ ## Catherwood Library
+ - [https://catherwood.library.cornell.edu](https://catherwood.library.cornell.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Cornell Cooperative Extension
+ - [http://cce.cornell.edu](http://cce.cornell.edu)
+ - date_published: 2024-07-21T17:56:46+00:00
+
+ ## Home Page
+ - [http://ccgh.alumni.cornell.edu](http://ccgh.alumni.cornell.edu)
+ - date_published: 2024-08-06T17:45:06.217747+00:00
+
+ ## Cornell University Library Digital Collections
+ - [http://cidc.library.cornell.edu](http://cidc.library.cornell.edu)
+ - date_published: 2024-06-17T02:41:53.710970+00:00
+
+ ## Cornell Computing and Information Science |
+ - [https://cis.cornell.edu](https://cis.cornell.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## The 2030 Project
+ - [https://climate.cornell.edu](https://climate.cornell.edu)
+ - date_published: 2024-07-22T05:28:12.916454+00:00
+
+ ## Radical Collaboration | Cornell University
+ - [https://collaboration.cornell.edu](https://collaboration.cornell.edu)
+ - date_published: 2024-04-30T03:59:37.257883+00:00
+
+ ## Communication
+ - [https://communication.cals.cornell.edu](https://communication.cals.cornell.edu)
+ - date_published: 2024-06-07T17:39:55.716045+00:00
+
+ ## Welcome | Office of the Chief Risk Officer
+ - [https://complianceandrisk.cornell.edu](https://complianceandrisk.cornell.edu)
+ - date_published: 2024-07-02T02:03:34+00:00
+
+ ## Welcome | University Compliance
+ - [https://compliance.cornell.edu](https://compliance.cornell.edu)
+ - date_published: 2024-07-08T15:43:13+00:00
+
+ ## Home | Cornell Phonetics Lab
+ - [http://conf.ling.cornell.edu](http://conf.ling.cornell.edu)
+ - date_published: 2024-07-02T10:21:20.493242+00:00
+
+ ## Choose how to Login - Dashboard
+ - [https://confluence.cornell.edu](https://confluence.cornell.edu)
+ - date_published: 2024-04-30T04:00:50.004553+00:00
+
+ ## LibGuides: Copyright Services: Copyright Support
+ - [https://copyright.cornell.edu](https://copyright.cornell.edu)
+ - date_published: 2024-07-22T05:31:16.434574+00:00
+
+ ## Cornell Connect! | Cornell University
+ - [https://cornellconnect.cornell.edu](https://cornellconnect.cornell.edu)
+ - date_published: 2023-10-30T19:19:16+00:00
+
+ ## Cornell University
+ - [https://cornell.edu](https://cornell.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Cornellians
+ - [https://cornellians.cornell.edu](https://cornellians.cornell.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## Office of General Counsel
+ - [https://counsel.cornell.edu](https://counsel.cornell.edu)
+ - date_published: 2013-07-18T00:00:00+00:00
+
+ ## courses.cit.cornell.edu
+ - [http://courses.cit.cornell.edu](http://courses.cit.cornell.edu)
+ - date_published: 2024-06-30T11:17:24.870842+00:00
+
  ## Cornell University - Modern Campus Catalog™
  - [http://courses.cornell.edu](http://courses.cornell.edu)
  - date_published: 2024-08-06T17:29:58.482467+00:00
@@ -3906,96 +3998,4 @@
  ## Florida A&M University - Modern Campus Catalog™
  - [https://catalog.famu.edu](https://catalog.famu.edu)
  - date_published: 2024-07-08T00:00:00+00:00
-
- ## College of Social Sciences, Arts and Humanities
- - [http://cssah.famu.edu](http://cssah.famu.edu)
- - date_published: 2024-07-08T14:54:26.986075+00:00
-
- ## The School of Graduate Studies and Research
- - [http://graduateschool.famu.edu](http://graduateschool.famu.edu)
- - date_published: 2024-07-08T14:54:06.222416+00:00
-
- ## LibGuides: FAMU Libraries: Home
- - [https://library.famu.edu](https://library.famu.edu)
- - date_published: 2024-07-08T14:53:42.072882+00:00
-
- ## myFAMU Home - Florida A&M University Foundation
- - [http://my.famu.edu](http://my.famu.edu)
- - date_published: 2024-07-08T14:54:24.709342+00:00
-
- ## Redirecting...
- - [http://mymail.famu.edu](http://mymail.famu.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## School of Architecture and Engineering Technology
- - [https://saet.famu.edu](https://saet.famu.edu)
- - date_published: 2024-05-08T11:43:39.986531+00:00
-
- ## Florida A&M University - FAMU
- - [https://www.famu.edu](https://www.famu.edu)
- - date_published: 2024-07-08T14:53:58.150425+00:00
-
- ## FAU | College of Business - Undergraduate, Graduate Degrees & Executive Education
- - [https://business.fau.edu](https://business.fau.edu)
- - date_published: 2024-09-02T12:29:33.438934+00:00
-
- ## Events Calendar
- - [https://calendar.fau.edu](https://calendar.fau.edu)
- - date_published: 2024-04-30T04:14:14.611405+00:00
-
- ## FAU Single Sign-On
- - [https://canvas.fau.edu](https://canvas.fau.edu)
- - date_published: 2024-07-22T04:25:26.371390+00:00
-
- ## FAU directory
- - [https://directory.fau.edu](https://directory.fau.edu)
- - date_published: 2024-04-30T04:14:17.637913+00:00
-
- ## Florida Atlantic University
- - [https://fau.edu](https://fau.edu)
- - date_published: 2024-04-30T04:14:25.546745+00:00
-
- ## FAU Foundation Inc
- - [https://fauf.fau.edu](https://fauf.fau.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## MYFAU
- - [https://myfau.fau.edu](https://myfau.fau.edu)
- - date_published: 2024-07-22T04:25:22.553140+00:00
-
- ## One-Stop Shop for Student Services : Florida Atlantic University
- - [https://onestop.fau.edu](https://onestop.fau.edu)
- - date_published: 2024-04-30T04:14:12.323236+00:00
-
- ## One-Stop Shop for Student Services : Florida Atlantic University
- - [https://supportcentral.fau.edu](https://supportcentral.fau.edu)
- - date_published: 2024-07-22T04:26:23.605525+00:00
-
- ## Florida Atlantic University
- - [https://swise.fau.edu](https://swise.fau.edu)
- - date_published: 2024-07-18T00:00:00+00:00
-
- ## Home - Florida Atlantic University
- - [https://transcendtomorrow.fau.edu](https://transcendtomorrow.fau.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Department of Electrical Engineering and Computer Science
- - [http://www.cse.fau.edu](http://www.cse.fau.edu)
- - date_published: 2024-06-22T09:32:42.331132+00:00
-
- ## Home | Fairfax County Public Schools | Fairfax County, Virginia
- - [https://www.fcps.edu](https://www.fcps.edu)
- - date_published: 2024-07-08T13:57:04.352300+00:00
-
- ## Ferris State University
- - [https://360.ferris.edu](https://360.ferris.edu)
- - date_published: 2024-04-30T04:14:31.121666+00:00
-
- ## Ferris State University
- - [https://ferris.edu](https://ferris.edu)
- - date_published: 2024-04-30T04:14:29.753716+00:00
-
- ## Jim Crow Museum of Racist Imagery
- - [https://jimcrowmuseum.ferris.edu](https://jimcrowmuseum.ferris.edu)
- - date_published: 2024-07-22T04:25:09.043743+00:00
 

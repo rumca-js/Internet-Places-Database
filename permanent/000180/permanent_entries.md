@@ -1,3 +1,55 @@
+ ## Best Historic Bar in North Beach San Francisco | Savoy Tivoli
+ - [https://www.savoytivoli.com](https://www.savoytivoli.com)
+ - date_published: 2024-05-06T16:29:06.428351+00:00
+
+ ## Savunma Sanayi Haberlerinin Takibi ve Duyurulması İçin Kurulmuş Yayın Şirketi | SAVTÜRK
+ - [https://www.savturk.com](https://www.savturk.com)
+ - date_published: 2024-09-19T19:59:03.523537+00:00
+
+ ## SavunmaSanayiST.com | Savunma Sanayi Haberleri | SavunmaSanayiST
+ - [https://www.savunmasanayist.com](https://www.savunmasanayist.com)
+ - date_published: 2018-05-16T08:56:46+00:00
+
+ ## Homeschool Curriculum – Online Homeschool Resources – Savvas
+ - [https://homeschool.savvas.com](https://homeschool.savvas.com)
+ - date_published: 2024-07-14T23:49:28.056912+00:00
+
+ ## Savvas International - Savvas Learning Company
+ - [https://international.savvas.com](https://international.savvas.com)
+ - date_published: 2024-07-14T23:49:37.630635+00:00
+
+ ## Login
+ - [https://oasis.savvas.com](https://oasis.savvas.com)
+ - date_published: 2024-07-14T23:49:39.200755+00:00
+
+ ## Savvas Learning Company Subscription Worktext Self Service Portal-
+ - [https://worktext-subscriptions.savvas.com](https://worktext-subscriptions.savvas.com)
+ - date_published: 2024-07-14T23:49:35.662662+00:00
+
+ ## Savvas Learning Company
+ - [https://www.savvas.com](https://www.savvas.com)
+ - date_published: 2024-07-14T23:49:41.358590+00:00
+
+ ## Savvas Sign In
+ - [https://savvaseasybridge.com](https://savvaseasybridge.com)
+ - date_published: 2024-07-14T23:49:34.563773+00:00
+
+ ## Savvas Realize ® - Savvas Learning Company
+ - [https://www.savvasrealize.com](https://www.savvasrealize.com)
+ - date_published: 2024-06-14T02:06:21+00:00
+
+ ## Partner Marketing Platform - Ingenious Technologies AG
+ - [https://coming-wondongni.savviihq.com](https://coming-wondongni.savviihq.com)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Loading...
+ - [https://savvisstation.savvis.com](https://savvisstation.savvis.com)
+ - date_published: 2024-06-16T09:02:49.835690+00:00
+
+ ## SAVVITAS
+ - [https://www.savvitas.com](https://www.savvitas.com)
+ - date_published: 2024-10-30T05:36:14.359798+00:00
+
  ## SavvyAviation
  - [https://apps.savvyaviation.com](https://apps.savvyaviation.com)
  - date_published: 2024-06-27T16:10:45+00:00
@@ -3985,58 +4037,4 @@ Scopus - Welcome to Scopus
  ## Loading…
  - [https://cms.screenlace.com](https://cms.screenlace.com)
  - date_published: 2024-04-29T02:35:46.805575+00:00
-
- ## Screenlace - How people started successful YouTube channels
- - [https://screenlace.com](https://screenlace.com)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Screenland Armour
- - [https://www.screenland.com](https://www.screenland.com)
- - date_published: 2024-07-03T03:55:30.466790+00:00
-
- ## Screenotate: Recognize text in your screenshots
- - [https://screenotate.com](https://screenotate.com)
- - date_published: 2020-08-31T09:10:44+00:00
-
- ## Home
- - [https://go.screenpal.com](https://go.screenpal.com)
- - date_published: 2024-11-09T18:04:01.227762+00:00
-
- ## Home
- - [https://screenpal.com](https://screenpal.com)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Screenpresso: The Ultimate Screen Capture Tool for Windows
- - [http://www.screenpresso.com](http://www.screenpresso.com)
- - date_published: 2024-08-18T03:42:52.908658+00:00
-
- ## ScreenRant
- - [https://screenrant.com](https://screenrant.com)
- - date_published: 2024-01-10T15:08:21+00:00
- - tags: ['news', 'movie news']
-
- ## Screensavers Planet - 1548 Free Screensaver Downloads
- - [https://screensaversplanet.com](https://screensaversplanet.com)
- - date_published: 2024-03-19T12:16:18+00:00
-
- ## screen-scrapeable - Thoughts, tips, and updates on screen-scraping
- - [http://blog.screen-scraper.com](http://blog.screen-scraper.com)
- - date_published: 2019-12-12T00:00:00+00:00
-
- ## screen-scraper: Data extraction software and services
- - [https://screen-scraper.com](https://screen-scraper.com)
- - date_published: 2018-08-29T23:35:27+00:00
- - tags: ['web scraping']
-
- ## screen-scraper community | screen-scraper community
- - [https://support.screen-scraper.com](https://support.screen-scraper.com)
- - date_published: 2024-04-29T02:35:45.904033+00:00
-
- ## screenshotlayer API | Free, Powerful Screenshot API
- - [https://screenshotlayer.com](https://screenshotlayer.com)
- - date_published: 2024-06-29T11:21:07.842912+00:00
-
- ## Screenshot the THING - Capture and Download High-Resolution Screenshots with Ease
- - [https://www.screenshotthething.com](https://www.screenshotthething.com)
- - date_published: 2024-06-28T17:16:57.266663+00:00
 
