@@ -61,6 +61,7 @@ Google Search is known to be susceptible to malvertising. Predatory web pages ca
 
 - [Internet Archive](https://www.archive.org/)
 - [Common Crawl](https://commoncrawl.org/)
+- [Open page rank](https://publicapi.dev/open-page-rank-api)
 - [Arxiv](https://arxiv.org/)
 - [Anna's Archive](https://annas-archive.org/)
 - [Guardian newspaper](https://theguardian.newspapers.com/)
