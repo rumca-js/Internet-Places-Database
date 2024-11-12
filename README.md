@@ -25,10 +25,16 @@ Some zen rules:
  - Anything not obeying the law will be removed from lists
  - Internet operates in ... many countries, so there are many laws
  - If things are offensive, they do not have to be removed
+ - I might suspect that a page is notorious, I may flag it with a tag, like "piracy", but it may not be true
  - If page content is obnoxious, it can, and possible should be demoted
  - I do not always follow these rules strictly
+ 
+# I do not have resources to verify all links
 
-If any link is suspicious, and should be removed, plaese create an Issue in this repository. Links are captured from the Internet automatically. I do not have resources to verify them all. Use 'votes' to see credibility of domains.
+ - Links are captured from the Internet automatically
+ - If any link is suspicious, and should be removed, please create an Issue in this repository
+ - Use 'votes' to see credibility of domains
+ - Be careful, Internet is a dangerous space. You should know what you are doing when using this list
 
 # Sources of data
 
