@@ -1,3 +1,19 @@
+ ## Powering Best Practice | ITIL®, PRINCE2® and MSP® | Axelos
+ - [https://www.axelos.com](https://www.axelos.com)
+ - date_published: 2024-06-14T09:51:29+00:00
+
+ ## Axel Pelletanche
+ - [https://axelpelletanche.com](https://axelpelletanche.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Axel Scheffler's official website | Home
+ - [http://axelscheffler.com](http://axelscheffler.com)
+ - date_published: 2024-06-18T11:28:23.896700+00:00
+
+ ## Home
+ - [https://axelspringer.com](https://axelspringer.com)
+ - date_published: 2024-04-29T05:50:23.951461+00:00
+
  ## Axel Springer Karriere - Axel Springer Karriere
  - [https://career.axelspringer.com](https://career.axelspringer.com)
  - date_published: 2024-04-29T05:50:38.664259+00:00
@@ -4010,20 +4026,4 @@
  ## A. K. Toney
  - [https://aktoney.bandcamp.com](https://aktoney.bandcamp.com)
  - date_published: 2024-07-04T00:00:00+00:00
-
- ## Alberto Melloni
- - [https://albertomelloni.bandcamp.com](https://albertomelloni.bandcamp.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Echo Dancing, by Alejandro Escovedo
- - [https://alejandroescovedo.bandcamp.com](https://alejandroescovedo.bandcamp.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Alexander Brandon
- - [http://alexanderbrandon.bandcamp.com](http://alexanderbrandon.bandcamp.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Tundra, by Alex Catana
- - [https://alexcatana.bandcamp.com](https://alexcatana.bandcamp.com)
- - date_published: 2024-04-28T00:00:00+00:00
 

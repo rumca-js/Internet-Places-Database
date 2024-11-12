@@ -1,3 +1,87 @@
+ ## Innovation for Software and Cybersecurity
+ - [https://itemis.com](https://itemis.com)
+ - date_published: 2024-10-13T17:14:04+00:00
+
+ ## itemis AG - Allgemeine Geschäftsbedingungen
+ - [https://legal.itemis.com](https://legal.itemis.com)
+ - date_published: 2023-05-31T12:37:54+00:00
+
+ ## Bushel Barn
+ - [https://bushelbarn.itemorder.com](https://bushelbarn.itemorder.com)
+ - date_published: 2024-10-22T21:33:48.709347+00:00
+
+ ## Lycos 2020
+ - [https://lycos.itemorder.com](https://lycos.itemorder.com)
+ - date_published: 2024-06-02T11:07:00.631425+00:00
+
+ ## Ultium Cells
+ - [https://ultium-cells.itemorder.com](https://ultium-cells.itemorder.com)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## University of Northern Iowa School of Music Spirit Wear
+ - [https://universityofnotherniowaschoolofmusic.itemorder.com](https://universityofnotherniowaschoolofmusic.itemorder.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Global Forum - ITEMS International - Strategic consulting in a digital world
+ - [http://globalforum.items-int.com](http://globalforum.items-int.com)
+ - date_published: 2024-07-07T01:27:30.647288+00:00
+
+ ## Log in | Iterable
+ - [https://app.iterable.com](https://app.iterable.com)
+ - date_published: 2024-07-02T17:21:07.514968+00:00
+
+ ## Select your region
+ - [http://community.iterable.com](http://community.iterable.com)
+ - date_published: 2024-07-02T17:20:55.927111+00:00
+
+ ## Home
+ - [https://go.iterable.com](https://go.iterable.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Home
+ - [https://iterable.com](https://iterable.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Home
+ - [https://links.iterable.com](https://links.iterable.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Iterable Support Center
+ - [https://support.iterable.com](https://support.iterable.com)
+ - date_published: 2024-07-02T17:20:58.791659+00:00
+
+ ## Iteright: Empowering Product Teams through Rigorous Idea Validation & Business Outcomes
+ - [https://www.iteright.com](https://www.iteright.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Dashboard
+ - [https://aggregator.iteris-atis.com](https://aggregator.iteris-atis.com)
+ - date_published: 2020-03-12T18:35:34+00:00
+
+ ## iTerm2 - macOS Terminal Replacement
+ - [https://iterm2.com](https://iterm2.com)
+ - date_published: 2023-10-25T15:24:29.565257+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://cdn.iterwebcms.com](https://cdn.iterwebcms.com)
+ - date_published: 2024-07-09T15:40:04.870367+00:00
+
+ ## IT Europa
+ - [https://iteuropa.com](https://iteuropa.com)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## ITEXPO | The Business Technology Event
+ - [https://www.itexpo.com](https://www.itexpo.com)
+ - date_published: 2015-10-09T00:04:41+00:00
+
+ ## The Leading PDF Library for Developers | iText
+ - [https://itextpdf.com](https://itextpdf.com)
+ - date_published: 2024-07-03T08:16:45+00:00
+
+ ## Buy crypto easily with your bank card
+ - [https://itez.com](https://itez.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
  ## Branding Domain (All) | GCTG
  - [http://www.itgarage.com](http://www.itgarage.com)
  - date_published: 2024-08-06T09:29:34.894954+00:00
@@ -2382,6 +2466,10 @@
  - [https://jamcomments.com](https://jamcomments.com)
  - date_published: 2024-08-18T02:23:44.511850+00:00
 
+ ## Show HN: I made a tiny device for automatically recording digital pianos
+ - [https://jamcorder.com](https://jamcorder.com)
+ - date_published: 2024-11-07T23:41:39+00:00
+
  ## Home
  - [https://jamcruise.com](https://jamcruise.com)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -3987,96 +4075,4 @@
  ## Jason Santa Maria
  - [https://v5.jasonsantamaria.com](https://v5.jasonsantamaria.com)
  - date_published: 2017-07-27T00:00:00+00:00
-
- ## Jason’s Big Adventure
- - [https://jasonsbigadventure.com](https://jasonsbigadventure.com)
- - date_published: 2023-12-12T13:08:50.689435+00:00
- - tags: ['personal']
-
- ## jasonschlarb.com
- - [https://jasonschlarb.com](https://jasonschlarb.com)
- - date_published: 2024-11-01T00:41:57.230937+00:00
-
- ## Jason Shen | Cultivating Resilience
- - [https://jasonshen.com](https://jasonshen.com)
- - date_published: 2023-10-25T08:46:15.822607+00:00
- - tags: ['personal']
-
- ## Jason Shulman
- - [https://jasonshulmanstudio.com](https://jasonshulmanstudio.com)
- - date_published: 2023-10-25T08:46:16.648529+00:00
- - tags: ['personal']
-
- ## 在线购彩-安全购彩
- - [http://jasonspeaking.com](http://jasonspeaking.com)
- - date_published: 2024-07-24T02:21:48.717960+00:00
-
- ## The Official Website of Jason Tako | Western Fine Art
- - [https://jasontako.com](https://jasontako.com)
- - date_published: 2024-09-04T01:15:18.500692+00:00
- - tags: ['personal']
-
- ## Jason Crabtree's Internet Hangtime
- - [https://blog.jasontcrabtree.com](https://blog.jasontcrabtree.com)
- - date_published: 2024-05-07T23:28:31.428320+00:00
-
- ## Jason Crabtree | Full Stack Developer
- - [https://jasontcrabtree.com](https://jasontcrabtree.com)
- - date_published: 2024-05-07T23:27:16.618824+00:00
-
- ## Jason Vincion
- - [https://jasonvincion.com](https://jasonvincion.com)
- - date_published: 2024-01-12T22:14:28.431705+00:00
-
- ## Jason Y. Zhang
- - [https://jasonyzhang.com](https://jasonyzhang.com)
- - date_published: 2024-06-22T10:02:05.182833+00:00
-
- ## Home
- - [https://jasonzurita.com](https://jasonzurita.com)
- - date_published: 2024-01-05T18:47:33+00:00
-
- ## Jason Zweig | A safe haven for investors by Jason Zweig of The Wall Street Journal.
- - [https://jasonzweig.com](https://jasonzweig.com)
- - date_published: 2023-10-25T15:27:17.416854+00:00
-
- ## Jasper Bernaers
- - [https://jasperbernaers.com](https://jasperbernaers.com)
- - date_published: 2024-09-18T14:45:05.471931+00:00
-
- ## Jasper Denkers - PhD Candidate @ TU Delft & Canon Production Printing
- - [https://jasperdenkers.com](https://jasperdenkers.com)
- - date_published: 2023-07-27T07:49:42+00:00
-
- ## JASPER remanufactured engines, transmissions & differentials
- - [http://www.jasperengines.com](http://www.jasperengines.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Jasper Morrison | Home
- - [https://jaspermorrison.com](https://jaspermorrison.com)
- - date_published: 2024-05-08T06:05:06.013277+00:00
-
- ## Jasper Morrison Shop | Jasper Morrison Shop
- - [http://www.jaspermorrisonshop.com](http://www.jaspermorrisonshop.com)
- - date_published: 2024-07-04T10:58:47.803983+00:00
-
- ## Jasper Tran O'Leary
- - [http://jasperoleary.com](http://jasperoleary.com)
- - date_published: 2024-06-27T19:53:39+00:00
-
- ## https://lib.jasperplayer.com
- - [https://lib.jasperplayer.com](https://lib.jasperplayer.com)
- - date_published: 2023-12-12T08:41:31.534121+00:00
-
- ## Home
- - [https://community.jaspersoft.com](https://community.jaspersoft.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Embedded Analytics & Reporting Platform | Jaspersoft
- - [https://jaspersoft.com](https://jaspersoft.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## JA Studio
- - [https://jastudiodesign.com](https://jastudiodesign.com)
- - date_published: 2024-10-29T14:19:26.085777+00:00
 

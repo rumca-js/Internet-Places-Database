@@ -1,3 +1,7 @@
+ ## Adam Fisher
+ - [https://adamfishertrumpet.com](https://adamfishertrumpet.com)
+ - date_published: 2024-01-09T02:29:07.213553+00:00
+
  ## Adam Fishman - Growth & Product Leader and Advisor
  - [https://www.adamfishman.com](https://www.adamfishman.com)
  - date_published: 2023-12-21T00:00:00+00:00
@@ -4020,8 +4024,4 @@ Service - ADAM MARK ZACHS - Convicted Murderer and Fugitive
  ## Affinity Spotlight | Photography, Design & Illustration
  - [https://affinityspotlight.com](https://affinityspotlight.com)
  - date_published: 2024-04-29T03:16:51.741903+00:00
-
- ## The Bookseller | At the heart of publishing since 1858
- - [https://books.affino.com](https://books.affino.com)
- - date_published: 2024-05-06T16:30:58.825731+00:00
 

@@ -1,3 +1,24 @@
+ ## BERITA INFO CUAN ONLINE
+ - [https://infoangpaobesar.blogspot.com](https://infoangpaobesar.blogspot.com)
+ - date_published: 2023-11-23T00:00:00+00:00
+
+ ## INFO BARANG ANTIK
+ - [https://infobarangantikindonesia.blogspot.com](https://infobarangantikindonesia.blogspot.com)
+ - date_published: 2023-11-28T00:00:00+00:00
+
+ ## INFO BERITA TRUSTED
+ - [https://infoberitabolatrusted.blogspot.com](https://infoberitabolatrusted.blogspot.com)
+ - date_published: 2023-11-27T00:00:00+00:00
+
+ ## INFO BIGO VIRAL
+ - [https://infobigoviral.blogspot.com](https://infobigoviral.blogspot.com)
+ - date_published: 2023-11-27T00:00:00+00:00
+
+ ## Information Processing
+ - [https://infoproc.blogspot.com](https://infoproc.blogspot.com)
+ - date_published: 2023-10-25T09:09:06.318517+00:00
+ - tags: ['personal']
+
  ## Informatics and engineering
  - [http://informatics-science.blogspot.com](http://informatics-science.blogspot.com)
  - date_published: 2024-03-13T06:51:24+00:00
@@ -3991,24 +4012,4 @@
  ## Lithyscaphe
  - [https://lithyscaphe.blogspot.com](https://lithyscaphe.blogspot.com)
  - date_published: 2024-10-05T02:03:47+00:00
-
- ## Literature Reviews: A Blog for the Exasperated
- - [https://litreviewsfortheexasperated.blogspot.com](https://litreviewsfortheexasperated.blogspot.com)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## My 40k stuff
- - [http://littlbitz.blogspot.com](http://littlbitz.blogspot.com)
- - date_published: 2024-03-13T09:08:16+00:00
-
- ## Little Big Wars
- - [http://littlebigwars.blogspot.com](http://littlebigwars.blogspot.com)
- - date_published: 2024-03-06T03:06:10+00:00
-
- ## Little Blog In The Big Woods
- - [https://littlebloginthebigwoods.blogspot.com](https://littlebloginthebigwoods.blogspot.com)
- - date_published: 2024-06-26T07:40:32+00:00
-
- ## Blogger
- - [http://littlecountrylost.blogspot.com](http://littlecountrylost.blogspot.com)
- - date_published: 2024-10-29T19:14:07.048275+00:00
 

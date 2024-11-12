@@ -1,3 +1,47 @@
+ ## Small Business - The Demopolis Times | The Demopolis Times
+ - [https://smb.demopolistimes.com](https://smb.demopolistimes.com)
+ - date_published: 2024-06-29T01:44:31.569602+00:00
+
+ ## Demopond | Create Interactive Product Demos with Ease
+ - [https://app.demopond.com](https://app.demopond.com)
+ - date_published: 2024-07-10T13:05:59.750914+00:00
+
+ ## Demopond | Create Interactive Product Demos with Ease
+ - [https://demopond.com](https://demopond.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Demo Publish - AD Formats
+ - [https://demopublish.com](https://demopublish.com)
+ - date_published: 2024-06-25T19:23:24.205285+00:00
+
+ ## Show HN: I built an interactive demo builder for your sales team
+ - [https://demoshake.com](https://demoshake.com)
+ - date_published: 2024-08-02T15:31:55+00:00
+
+ ## DemoTime. Magic highlights after every demo!
+ - [https://demotime.com](https://demotime.com)
+ - date_published: 2023-10-25T13:49:00.328092+00:00
+
+ ## demowebsite.com
+ - [http://demowebsite.com](http://demowebsite.com)
+ - date_published: 2024-07-13T00:02:42.698972+00:00
+
+ ## HOME | Dempsey Beauty
+ - [https://www.dempsey-beauty.com](https://www.dempsey-beauty.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Dempsey Corporation | Product Distribution
+ - [https://dempseycorporation.com](https://dempseycorporation.com)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Dempsey Corporation | Sustainability
+ - [https://www.dempseyesg.com](https://www.dempseyesg.com)
+ - date_published: 2024-10-14T18:04:56.136213+00:00
+
+ ## HOME | Dempsey Food
+ - [https://www.dempseyfood.com](https://www.dempseyfood.com)
+ - date_published: 1970-01-01T00:00:00+00:00
+
  ## HOME | Dempsey Industrial
  - [https://www.dempseyindustrial.com](https://www.dempseyindustrial.com)
  - date_published: 1970-01-01T00:00:00+00:00
@@ -3859,6 +3903,11 @@
  - [https://devildash.com](https://devildash.com)
  - date_published: 2024-05-02T00:00:00+00:00
 
+ ## Devil May Cry（DMC）
+ - [http://devilmaycry.com](http://devilmaycry.com)
+ - date_published: 2024-10-10T06:09:30+00:00
+ - tags: ['video game']
+
  ## ULTRAKILL on Steam
  - [http://devilmayquake.com](http://devilmayquake.com)
  - date_published: 2024-06-23T18:32:44.050606+00:00
@@ -3972,53 +4021,4 @@
  ## /dev/nonsense
  - [https://devnonsense.com](https://devnonsense.com)
  - date_published: 2023-10-25T13:51:05.256311+00:00
-
- ## GoatCounter
- - [https://karma.devnonsense.com](https://karma.devnonsense.com)
- - date_published: 2024-05-01T04:49:26.373365+00:00
-
- ## Devographics
- - [http://devographics.com](http://devographics.com)
- - date_published: 2024-08-11T08:40:11.702337+00:00
-
- ## Devographics Surveys
- - [https://survey.devographics.com](https://survey.devographics.com)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Devolutions Portal
- - [https://portal.devolutions.com](https://portal.devolutions.com)
- - date_published: 2024-05-07T18:10:46+00:00
-
- ## Devolutions Send - End to End encrypted password share
- - [http://send.devolutions.com](http://send.devolutions.com)
- - date_published: 2024-06-13T19:08:05+00:00
-
- ## Devolver Digital
- - [https://devolverdigital.com](https://devolverdigital.com)
- - date_published: 2024-06-18T06:00:34.787966+00:00
- - tags: ['video game developer']
-
- ## The Devolver Digital Forkcast
- - [https://forkcast.devolverdigital.com](https://forkcast.devolverdigital.com)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Devolver Digital - Influencers Hub
- - [https://influencers.devolverdigital.com](https://influencers.devolverdigital.com)
- - date_published: 2024-06-21T13:13:47.843061+00:00
-
- ## Home
- - [https://investors.devolverdigital.com](https://investors.devolverdigital.com)
- - date_published: 2024-06-21T13:13:46.669594+00:00
-
- ## Devolver Digital
- - [https://legal.devolverdigital.com](https://legal.devolverdigital.com)
- - date_published: 2024-06-21T13:13:59.107909+00:00
-
- ## Devolver Digital Official Merchandise Store
- - [https://merch.devolverdigital.com](https://merch.devolverdigital.com)
- - date_published: 2024-06-21T13:14:05.075341+00:00
-
- ## Devolver Digital - Game Pitch Submission
- - [https://pitch.devolverdigital.com](https://pitch.devolverdigital.com)
- - date_published: 2024-06-21T13:13:44.824476+00:00
 

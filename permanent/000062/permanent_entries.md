@@ -1,3 +1,23 @@
+ ## Pursuit of Patriotism
+ - [http://pursuitofpatriotism.blogspot.com](http://pursuitofpatriotism.blogspot.com)
+ - date_published: 2024-06-21T06:08:17+00:00
+
+ ## Pushing Metal and Talking Rubbish
+ - [http://pushingmetal.blogspot.com](http://pushingmetal.blogspot.com)
+ - date_published: 2024-10-13T21:43:25+00:00
+
+ ## Nie znaleziono bloga
+ - [https://putpainton.blogspot.com](https://putpainton.blogspot.com)
+ - date_published: 2024-09-03T22:24:29.077501+00:00
+
+ ## Put to the Brush
+ - [http://puttothebrush.blogspot.com](http://puttothebrush.blogspot.com)
+ - date_published: 2024-09-16T04:16:08+00:00
+
+ ## Paul's Eclipse Blog
+ - [http://pweclipse.blogspot.com](http://pweclipse.blogspot.com)
+ - date_published: 2024-03-07T22:42:20+00:00
+
  ## Python bytes
  - [http://pybites.blogspot.com](http://pybites.blogspot.com)
  - date_published: 2024-06-27T11:53:27+00:00
@@ -3991,24 +4011,4 @@
  ## SOLO IP  for sole and small IP practices
  - [http://soloip.blogspot.com](http://soloip.blogspot.com)
  - date_published: 2024-10-18T19:15:09.665404+00:00
-
- ## Solomon's Mindfield
- - [http://solomonsmindfield.blogspot.com](http://solomonsmindfield.blogspot.com)
- - date_published: 2024-10-21T16:46:49.383741+00:00
-
- ## Blogger
- - [http://solonexus.blogspot.com](http://solonexus.blogspot.com)
- - date_published: 2024-07-20T09:10:33.046054+00:00
-
- ## Sombras De Oster
- - [https://sombrasdeoster.blogspot.com](https://sombrasdeoster.blogspot.com)
- - date_published: 2024-09-02T02:36:58+00:00
-
- ## A tale of some gamers
- - [http://somegamers.blogspot.com](http://somegamers.blogspot.com)
- - date_published: 2024-07-07T05:49:51+00:00
-
- ## some   LANDSCAPES
- - [https://some-landscapes.blogspot.com](https://some-landscapes.blogspot.com)
- - date_published: 2024-06-23T11:30:10+00:00
 

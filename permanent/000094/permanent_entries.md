@@ -1,3 +1,55 @@
+ ## FREE WEBINAR: Study and Earn Through Programs with Co-op in CANADA!
+ - [https://seneca0813.eventbrite.com](https://seneca0813.eventbrite.com)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Robotics and Tech Happy Hour: Featuring Gecko Robotics
+ - [https://sept24robohappyhour.eventbrite.com](https://sept24robohappyhour.eventbrite.com)
+ - date_published: 2024-09-05T22:59:38.718202+00:00
+
+ ## Immerse Academy
+ - [https://serenitydreamers.eventbrite.com](https://serenitydreamers.eventbrite.com)
+ - date_published: 2024-09-18T17:06:33.432788+00:00
+
+ ## Sonrise Christian Center
+ - [https://sonrisechristiancenter.eventbrite.com](https://sonrisechristiancenter.eventbrite.com)
+ - date_published: 2024-09-02T12:47:22.843037+00:00
+
+ ## SOS Canada - Philippine Team
+ - [https://soscanada.eventbrite.com](https://soscanada.eventbrite.com)
+ - date_published: 2024-09-12T15:25:18.542872+00:00
+
+ ## Fulfil your dream  of studying in Australia with SP Jain UG and PG Courses
+ - [https://spjainugandpgwithaug.eventbrite.com](https://spjainugandpgwithaug.eventbrite.com)
+ - date_published: 2024-09-13T16:23:25.170778+00:00
+
+ ## Standard Proof Whiskey Co. Austin
+ - [https://standardproofwhiskeyco.eventbrite.com](https://standardproofwhiskeyco.eventbrite.com)
+ - date_published: 2024-09-18T17:08:08.590538+00:00
+
+ ## GO! Study Abroad Fair 2024!
+ - [https://studyabroad2024.eventbrite.com](https://studyabroad2024.eventbrite.com)
+ - date_published: 2024-09-12T15:25:09.101029+00:00
+
+ ## Study and Stay in Canada and Korea Expo 2024 | Oct 5, 1 PM
+ - [https://studyandstayexpowithsos.eventbrite.com](https://studyandstayexpowithsos.eventbrite.com)
+ - date_published: 2024-09-12T15:25:51.003160+00:00
+
+ ## Meet Australian Catholic University
+ - [https://studyinaustraliawithacu.eventbrite.com](https://studyinaustraliawithacu.eventbrite.com)
+ - date_published: 2024-09-13T16:23:32.713722+00:00
+
+ ## Study In Perth Open Day
+ - [https://studyinperthopenday.eventbrite.com](https://studyinperthopenday.eventbrite.com)
+ - date_published: 2024-09-13T16:22:50.413444+00:00
+
+ ## Study in Australia with University of Sydney
+ - [https://studyinusydwtaug.eventbrite.com](https://studyinusydwtaug.eventbrite.com)
+ - date_published: 2024-09-13T16:23:22.053116+00:00
+
+ ## Superintelligence Summit
+ - [https://superintelligence-summit.eventbrite.com](https://superintelligence-summit.eventbrite.com)
+ - date_published: 2024-09-25T16:04:52.114961+00:00
+
  ## The 2024 San Francisco Rosé Soirée
  - [https://the2024sanfranciscorosesoiree.eventbrite.com](https://the2024sanfranciscorosesoiree.eventbrite.com)
  - date_published: 2024-07-14T12:49:13.115456+00:00
@@ -1305,6 +1357,7 @@
  ## Evil Dead: The Game - Official Website
  - [https://www.evildeadthegame.com](https://www.evildeadthegame.com)
  - date_published: 2023-09-20T15:35:15+00:00
+ - tags: ['video game']
 
  ## Home - Evil Empire
  - [https://evilempirestudio.com](https://evilempirestudio.com)
@@ -3972,56 +4025,4 @@
  ## Buy Prescription Glasses Online from $9 | Eyebuydirect
  - [https://au.eyebuydirect.com](https://au.eyebuydirect.com)
  - date_published: 2024-07-09T10:17:15.487267+00:00
-
- ## Buy Prescription Glasses Online from $6 | Eyebuydirect
- - [https://eyebuydirect.com](https://eyebuydirect.com)
- - date_published: 2024-05-09T04:38:02.162227+00:00
-
- ## Eyecandy - Visual Technique Library
- - [https://eyecannndy.com](https://eyecannndy.com)
- - date_published: 2024-09-07T23:46:11.369953+00:00
-
- ## Eyecare Business
- - [https://www.eyecarebusiness.com](https://www.eyecarebusiness.com)
- - date_published: 2024-10-28T06:39:47.298597+00:00
-
- ## LASIK Panama City | Cataracts Panama City | The Eye Center of North Florida
- - [https://www.eyecarenow.com](https://www.eyecarenow.com)
- - date_published: 2024-06-29T23:13:51.269084+00:00
-
- ## Custom Eye Chart Maker
- - [http://www.eyechartmaker.com](http://www.eyechartmaker.com)
- - date_published: 2024-07-04T14:36:20.646525+00:00
-
- ## EyeContact – Spirited discussion about New Zealand art and visual culture.
- - [http://eyecontactsite.com](http://eyecontactsite.com)
- - date_published: 2024-10-29T13:54:20.439712+00:00
-
- ## Home - Eye Eaters - Creative Studio
- - [http://eyeeaters.com](http://eyeeaters.com)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## EyeEm | Authentic Stock Photography and Royalty-Free Images
- - [https://www.eyeem.com](https://www.eyeem.com)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Travel Industry News & Conferences - Reuters Events |
- - [http://www.eyefortravel.com](http://www.eyefortravel.com)
- - date_published: 2024-10-11T10:52:13+00:00
-
- ## IJ Instruments Ltd.
- - [http://www.eyejayinstruments.com](http://www.eyejayinstruments.com)
- - date_published: 2024-07-15T09:13:37.961327+00:00
-
- ## Eyekiller - Your Digital Agency
- - [https://eyekiller.com](https://eyekiller.com)
- - date_published: 2024-07-17T17:58:05.010358+00:00
-
- ## Eye Magazine | Eye Magazine
- - [http://blog.eyemagazine.com](http://blog.eyemagazine.com)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Eye Magazine | Eye Magazine
- - [http://eyemagazine.com](http://eyemagazine.com)
- - date_published: 2024-08-14T00:00:00+00:00
 

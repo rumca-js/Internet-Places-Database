@@ -1,3 +1,7 @@
+ ## Academy of Canadian Cinema and Television
+ - [https://www.academy.ca](https://www.academy.ca)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## Home | Association of Canadian Advertisers
  - [https://acaweb.ca](https://acaweb.ca)
  - date_published: 2024-09-12T00:00:00+00:00
@@ -4021,8 +4025,4 @@
  ## General Motors Canada: Pushing the Limits of Transportation & Technology
  - [http://www.gm.ca](http://www.gm.ca)
  - date_published: 2024-06-18T13:57:53+00:00
-
- ## GM Envolve Canada: Transforming How Business is Done
- - [https://www.gmenvolve.ca](https://www.gmenvolve.ca)
- - date_published: 2024-06-20T07:44:57.126535+00:00
 

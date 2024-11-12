@@ -1,3 +1,23 @@
+ ## Literature Reviews: A Blog for the Exasperated
+ - [https://litreviewsfortheexasperated.blogspot.com](https://litreviewsfortheexasperated.blogspot.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## My 40k stuff
+ - [http://littlbitz.blogspot.com](http://littlbitz.blogspot.com)
+ - date_published: 2024-03-13T09:08:16+00:00
+
+ ## Little Big Wars
+ - [http://littlebigwars.blogspot.com](http://littlebigwars.blogspot.com)
+ - date_published: 2024-03-06T03:06:10+00:00
+
+ ## Little Blog In The Big Woods
+ - [https://littlebloginthebigwoods.blogspot.com](https://littlebloginthebigwoods.blogspot.com)
+ - date_published: 2024-06-26T07:40:32+00:00
+
+ ## Blogger
+ - [http://littlecountrylost.blogspot.com](http://littlecountrylost.blogspot.com)
+ - date_published: 2024-10-29T19:14:07.048275+00:00
+
  ## Little Devices That Could
  - [http://littledevicesthatcould.blogspot.com](http://littledevicesthatcould.blogspot.com)
  - date_published: 2024-05-11T13:33:31+00:00
@@ -3991,24 +4011,4 @@
  ## Network Musings
  - [http://networkmusings.blogspot.com](http://networkmusings.blogspot.com)
  - date_published: 2024-03-19T23:11:05+00:00
-
- ## NeueArbeit Macht Frei
- - [http://neuearbeitmachtfrei.blogspot.com](http://neuearbeitmachtfrei.blogspot.com)
- - date_published: 2012-10-28T04:20:00+00:00
-
- ## The Neurocritic
- - [http://neurocritic.blogspot.com](http://neurocritic.blogspot.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## NeuroDojo
- - [http://neurodojo.blogspot.com](http://neurodojo.blogspot.com)
- - date_published: 2024-10-19T10:22:24.370425+00:00
-
- ## try
- - [http://neuroraz.blogspot.com](http://neuroraz.blogspot.com)
- - date_published: 2024-03-08T17:35:22+00:00
-
- ## Neuroskeptic
- - [http://neuroskeptic.blogspot.com](http://neuroskeptic.blogspot.com)
- - date_published: 2024-02-15T00:00:00+00:00
 

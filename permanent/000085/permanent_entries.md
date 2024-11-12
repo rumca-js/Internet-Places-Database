@@ -1,3 +1,52 @@
+ ## GoatCounter
+ - [https://karma.devnonsense.com](https://karma.devnonsense.com)
+ - date_published: 2024-05-01T04:49:26.373365+00:00
+
+ ## Devographics
+ - [http://devographics.com](http://devographics.com)
+ - date_published: 2024-08-11T08:40:11.702337+00:00
+
+ ## Devographics Surveys
+ - [https://survey.devographics.com](https://survey.devographics.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Devolutions Portal
+ - [https://portal.devolutions.com](https://portal.devolutions.com)
+ - date_published: 2024-05-07T18:10:46+00:00
+
+ ## Devolutions Send - End to End encrypted password share
+ - [http://send.devolutions.com](http://send.devolutions.com)
+ - date_published: 2024-06-13T19:08:05+00:00
+
+ ## Devolver Digital
+ - [https://devolverdigital.com](https://devolverdigital.com)
+ - date_published: 2024-06-18T06:00:34.787966+00:00
+ - tags: ['video game developer']
+
+ ## The Devolver Digital Forkcast
+ - [https://forkcast.devolverdigital.com](https://forkcast.devolverdigital.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Devolver Digital - Influencers Hub
+ - [https://influencers.devolverdigital.com](https://influencers.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:47.843061+00:00
+
+ ## Home
+ - [https://investors.devolverdigital.com](https://investors.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:46.669594+00:00
+
+ ## Devolver Digital
+ - [https://legal.devolverdigital.com](https://legal.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:59.107909+00:00
+
+ ## Devolver Digital Official Merchandise Store
+ - [https://merch.devolverdigital.com](https://merch.devolverdigital.com)
+ - date_published: 2024-06-21T13:14:05.075341+00:00
+
+ ## Devolver Digital - Game Pitch Submission
+ - [https://pitch.devolverdigital.com](https://pitch.devolverdigital.com)
+ - date_published: 2024-06-21T13:13:44.824476+00:00
+
  ## Devolver Direct 2024: Volvy's 15th Birthday Party
  - [https://devolverdirect.com](https://devolverdirect.com)
  - date_published: 2024-06-21T13:14:02.590205+00:00
@@ -3995,52 +4044,4 @@ A blog about programming, distributed systems and others
  ## discourse CDN
  - [https://yyz1.discourse-cdn.com](https://yyz1.discourse-cdn.com)
  - date_published: 2024-05-09T02:33:25.561732+00:00
-
- ## discourse CDN
- - [https://yyz2.discourse-cdn.com](https://yyz2.discourse-cdn.com)
- - date_published: 2024-08-11T10:10:15.738721+00:00
-
- ## Discourse  | The Mercatus Center | Substack
- - [https://www.discoursemagazine.com](https://www.discoursemagazine.com)
- - date_published: 2023-10-25T13:53:18.416854+00:00
-
- ## Online Bank from Discover | Open an Online Bank Account Today
- - [https://bank.discover.com](https://bank.discover.com)
- - date_published: 2024-09-27T18:23:46+00:00
-
- ## Discover Developer Center
- - [https://developer.discover.com](https://developer.discover.com)
- - date_published: 2024-09-28T23:13:05.683995+00:00
-
- ## Discover Consumer Bank - Online Banking, Credit Cards & Loans
- - [https://discover.com](https://discover.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Home Loans – Tap Into Your Equity | Discover Home Loans
- - [https://homeloans.discover.com](https://homeloans.discover.com)
- - date_published: 2024-06-14T14:52:09+00:00
-
- ## Attention Required! | Cloudflare
- - [https://investorrelations.discover.com](https://investorrelations.discover.com)
- - date_published: 2024-06-16T09:02:17.403568+00:00
-
- ## Discover Financial Services Careers Homepage
- - [https://jobs.discover.com](https://jobs.discover.com)
- - date_published: 2024-06-16T09:02:06.637401+00:00
-
- ## Personal Loans from $2,500 to $40,000 - Apply Online | Discover
- - [https://personalloans.discover.com](https://personalloans.discover.com)
- - date_published: 2024-06-15T09:43:08+00:00
-
- ## Discover Consumer Bank - Online Banking, Credit Cards & Loans
- - [https://portal.discover.com](https://portal.discover.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Student Loans with Great Rates | Discover
- - [https://studentloans.discover.com](https://studentloans.discover.com)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Discover Technology: Build Your Craft
- - [https://technology.discover.com](https://technology.discover.com)
- - date_published: 2024-06-16T09:02:11.821600+00:00
 

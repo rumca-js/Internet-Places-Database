@@ -1,3 +1,168 @@
+ ## Sällskapsspel & Brädspel - Tusentals spel
+ - [https://www.spelexperten.com](https://www.spelexperten.com)
+ - date_published: 2024-10-03T08:42:51.358959+00:00
+
+ ## Spellbrush
+ - [https://spellbrush.com](https://spellbrush.com)
+ - date_published: 2023-12-06T21:32:46.624790+00:00
+
+ ## SPELLCROW
+ - [https://www.spellcrow.com](https://www.spellcrow.com)
+ - date_published: 2024-10-26T22:09:53.987931+00:00
+
+ ## Gratis Online Spelletjes - Spellen2
+ - [https://spellen2.com](https://spellen2.com)
+ - date_published: 2024-05-04T11:46:15.855615+00:00
+
+ ## Spellify - An Automatic Text Field Spell Checker for web and CRM 2011
+ - [http://www.spellify.com](http://www.spellify.com)
+ - date_published: 2024-06-21T15:07:24.198699+00:00
+
+ ## Scripps National Spelling Bee
+ - [https://spellingbee.com](https://spellingbee.com)
+ - date_published: 2024-06-14T16:54:11.546247+00:00
+
+ ## Spelling Mistakes Cost Lives /// Darren Cullen /// Art and Satire
+ - [https://www.spellingmistakescostlives.com](https://www.spellingmistakescostlives.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## High Voltage Power Supplies | Spellman
+ - [https://spellmanhv.com](https://spellmanhv.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Spellpage
+ - [https://www.spellpage.com](https://www.spellpage.com)
+ - date_published: 2023-04-29T06:53:13+00:00
+
+ ## Spell Tracker for Pathfinder 1e
+ - [https://www.spelltrackerapp.com](https://www.spelltrackerapp.com)
+ - date_published: 2019-10-26T00:00:00+00:00
+
+ ## Spelunky World
+ - [https://spelunkyworld.com](https://spelunkyworld.com)
+ - date_published: 2015-04-16T03:35:58+00:00
+
+ ## Spencer Dixon
+ - [https://spencerdixon.com](https://spencerdixon.com)
+ - date_published: 2024-01-03T01:12:12.725734+00:00
+
+ ## Home - Spencer Fane
+ - [https://www.spencerfane.com](https://www.spencerfane.com)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Spencer Greenberg
+ - [https://www.spencergreenberg.com](https://www.spencergreenberg.com)
+ - date_published: 2024-06-20T22:42:54.699738+00:00
+
+ ## Spencer Harston
+ - [https://www.spencerharston.com](https://www.spencerharston.com)
+ - date_published: 2024-08-08T12:43:57.975772+00:00
+
+ ## spencerjquinn – Writer and Author Spencer J. Quinn
+ - [https://www.spencerjquinn.com](https://www.spencerjquinn.com)
+ - date_published: 2024-06-27T11:58:02.858579+00:00
+
+ ## Articles
+ - [https://spencermortensen.com](https://spencermortensen.com)
+ - date_published: 2023-11-22T15:19:29.713479+00:00
+
+ ## Executive Search, Board & Leadership Consulting | Spencer Stuart
+ - [https://spencerstuart.com](https://spencerstuart.com)
+ - date_published: 2024-08-18T18:46:23.050631+00:00
+
+ ## Home - Spencer Web Design, Inc.
+ - [https://spencerwebdesign.com](https://spencerwebdesign.com)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Money Manager & Budget Planner | Spendee
+ - [http://spendee.com](http://spendee.com)
+ - date_published: 2024-08-19T19:25:57.803364+00:00
+
+ ## Company cards & spend management software | Spendesk
+ - [https://www.spendesk.com](https://www.spendesk.com)
+ - date_published: 2024-06-23T11:57:55.187945+00:00
+
+ ## Save up to 30% on your SaaS stack with Spendflo.
+ - [https://www.spendflo.com](https://www.spendflo.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Home - Spendthrift - A Kentucky Thoroughbred Stallion Farm
+ - [https://www.spendthriftfarm.com](https://www.spendthriftfarm.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Spend With Ukraine to Stand With Ukraine
+ - [http://www.spendwithukraine.com](http://www.spendwithukraine.com)
+ - date_published: 2024-10-19T23:28:12.474191+00:00
+
+ ## Spencer Pope
+ - [https://spenpo.com](https://spenpo.com)
+ - date_published: 2024-04-03T06:23:29.052820+00:00
+ - tags: ['personal']
+
+ ## Gene Vincent
+ - [http://www.spentbrothers.com](http://www.spentbrothers.com)
+ - date_published: 2024-10-29T20:15:52.411594+00:00
+
+ ## SocketPro - Cloud data transfer relay
+ - [http://www.spentrance.com](http://www.spentrance.com)
+ - date_published: 2024-06-30T04:04:16.945362+00:00
+
+ ## Sper Scientific Instruments | Environmental Measurement Instruments
+ - [https://sperdirect.com](https://sperdirect.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Sperry Canada | Official Sperry Site - Easy Shipping & Returns! Wide selections for Men, Women & Kids, exceptional quality with all your classic looks.
+ - [https://www.sperry.com](https://www.sperry.com)
+ - date_published: 2024-10-11T13:57:27.983763+00:00
+
+ ## Jason Sperske
+ - [http://jason.sperske.com](http://jason.sperske.com)
+ - date_published: 2021-02-15T01:44:22+00:00
+
+ ## Special Projects
+ - [https://mastodon.spesh.com](https://mastodon.spesh.com)
+ - date_published: 2024-08-17T22:29:31.809986+00:00
+
+ ## Special Projects
+ - [https://spesh.com](https://spesh.com)
+ - date_published: 2006-12-18T23:09:32+00:00
+
+ ## Spesoft - Home
+ - [https://spesoft.com](https://spesoft.com)
+ - date_published: 2024-09-15T07:44:25+00:00
+
+ ## spf13
+ - [https://spf13.com](https://spf13.com)
+ - date_published: 2023-10-25T17:10:00.325400+00:00
+
+ ## spf13-vim - The Ultimate Vim Distribution
+ - [https://vim.spf13.com](https://vim.spf13.com)
+ - date_published: 2024-04-29T05:42:30.051121+00:00
+
+ ## Specialty Products Group (SPG) – Sustainable Solutions for Construction
+ - [http://www.spggogreen.com](http://www.spggogreen.com)
+ - date_published: 2024-07-04T06:23:55+00:00
+
+ ## S&P Global Apply
+ - [https://careers.spglobal.com](https://careers.spglobal.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Contact Us
+ - [https://commodityinsights.spglobal.com](https://commodityinsights.spglobal.com)
+ - date_published: 2024-10-22T16:44:37.949962+00:00
+
+ ## Investor Relations Overview - S&P Global
+ - [https://investor.spglobal.com](https://investor.spglobal.com)
+ - date_published: 2024-06-18T16:01:13.288818+00:00
+
+ ## S&P Global Market Intelligence
+ - [https://marketintelligence.spglobal.com](https://marketintelligence.spglobal.com)
+ - date_published: 2024-08-19T08:47:10.551667+00:00
+
+ ## News Release Archive - Press Releases
+ - [https://press.spglobal.com](https://press.spglobal.com)
+ - date_published: 2012-01-04T00:00:00+00:00
+
  ## Essential Intelligence
  - [https://prod.spglobal.com](https://prod.spglobal.com)
  - date_published: 2024-08-07T23:00:21+00:00
@@ -1672,6 +1837,10 @@
  - [https://www.sportsdirect.com](https://www.sportsdirect.com)
  - date_published: 2024-06-28T16:01:12.625857+00:00
 
+ ## Live Scores, Football News and Transfer Updates- Sportsdunia
+ - [https://www.sportsdunia.com](https://www.sportsdunia.com)
+ - date_published: 2024-11-11T14:10:43.522266+00:00
+
  ## Homepage - Sportsengine Theme Builder
  - [https://vip.sportsengine.com](https://vip.sportsengine.com)
  - date_published: 2024-06-06T00:00:00+00:00
@@ -3198,6 +3367,7 @@
  ## FANTASIAN NEO DIMENSION | SQUARE ENIX
  - [https://fantasianneodimension.square-enix-games.com](https://fantasianneodimension.square-enix-games.com)
  - date_published: 2024-07-11T00:00:00+00:00
+ - tags: ['video game']
 
  ## Hidden Hope | FF Trading Card Game
  - [https://fftcg.square-enix-games.com](https://fftcg.square-enix-games.com)
@@ -3262,6 +3432,7 @@
  ## NieR Replicant ver.1.22474487139... | SQUARE ENIX
  - [https://nier.square-enix-games.com](https://nier.square-enix-games.com)
  - date_published: 2023-03-21T12:28:42+00:00
+ - tags: ['video game']
 
  ## PowerWash Simulator | SQUARE ENIX
  - [https://powerwash-simulator.square-enix-games.com](https://powerwash-simulator.square-enix-games.com)
@@ -3864,172 +4035,4 @@
  ## Obvious Pixel
  - [https://bagpipe-banjo-wdkr.squarespace.com](https://bagpipe-banjo-wdkr.squarespace.com)
  - date_published: 2024-06-28T11:24:50.695115+00:00
-
- ## Thompson Organisations
- - [https://bagpipe-blenny-bnrt.squarespace.com](https://bagpipe-blenny-bnrt.squarespace.com)
- - date_published: 2024-08-18T08:40:45.378814+00:00
-
- ## FarSounder 3D Forward Looking Sonar for Navigation - Home
- - [https://bamboo-dinosaur-8d9h.squarespace.com](https://bamboo-dinosaur-8d9h.squarespace.com)
- - date_published: 2024-06-20T02:04:38.383581+00:00
-
- ## PEI Writers' Guild
- - [https://banjo-cornet-cd57.squarespace.com](https://banjo-cornet-cd57.squarespace.com)
- - date_published: 2024-07-07T03:36:59.665242+00:00
-
- ## HUMP!
- - [https://banjo-khaki-ggmf.squarespace.com](https://banjo-khaki-ggmf.squarespace.com)
- - date_published: 2024-07-09T15:13:41.918502+00:00
-
- ## BARANI
- - [https://barani.squarespace.com](https://barani.squarespace.com)
- - date_published: 2024-07-09T07:41:56.847234+00:00
-
- ## Barbara Wesselingh | Human Design training & ontwikkeling
- - [https://barbara-wesselingh.squarespace.com](https://barbara-wesselingh.squarespace.com)
- - date_published: 2024-08-18T02:50:23.104206+00:00
-
- ## Barry Morisse
- - [https://barry-morisse-2x8y.squarespace.com](https://barry-morisse-2x8y.squarespace.com)
- - date_published: 2024-08-18T07:30:58.638284+00:00
-
- ## Base Template
- - [http://base-template.squarespace.com](http://base-template.squarespace.com)
- - date_published: 2024-07-21T06:41:45.428353+00:00
-
- ## Swimming Lessons for All Ages | Colorado Swim School
- - [https://bat-chimes-nzmk.squarespace.com](https://bat-chimes-nzmk.squarespace.com)
- - date_published: 2024-07-26T04:11:01.557480+00:00
-
- ## Maximum Progress
- - [https://bat-cranberry-w72m.squarespace.com](https://bat-cranberry-w72m.squarespace.com)
- - date_published: 2024-06-19T02:15:08.254501+00:00
-
- ## Sam Escobar is an editor, writer, and content strategist in NYC
- - [https://bat-okra-ly9f.squarespace.com](https://bat-okra-ly9f.squarespace.com)
- - date_published: 2024-07-11T15:43:29.355403+00:00
-
- ## Bauer Media Group: Legal
- - [https://bauer-legal.squarespace.com](https://bauer-legal.squarespace.com)
- - date_published: 2024-06-18T07:06:15.175590+00:00
-
- ## Mountains for the Mind
- - [https://bauer-mountainsforthemind.squarespace.com](https://bauer-mountainsforthemind.squarespace.com)
- - date_published: 2024-07-14T12:13:01.348808+00:00
-
- ## Financial Times Board Director Programme
- - [https://bdpuat.squarespace.com](https://bdpuat.squarespace.com)
- - date_published: 2024-06-19T23:37:13.658135+00:00
-
- ## SEVN-X | Cybersecurity
- - [https://beagle-viola-g7kr.squarespace.com](https://beagle-viola-g7kr.squarespace.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Open Index Protocol
- - [https://bear-fuchsia-3l5d.squarespace.com](https://bear-fuchsia-3l5d.squarespace.com)
- - date_published: 2024-09-14T09:01:06.305782+00:00
-
- ## Cody Schultz
- - [https://bear-pike-6a6x.squarespace.com](https://bear-pike-6a6x.squarespace.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Kevin Cornell
- - [https://bearskinrug.squarespace.com](https://bearskinrug.squarespace.com)
- - date_published: 2024-07-01T08:45:46.024066+00:00
-
- ## Almanack of Naval Ravikant
- - [https://begonia-copper-63nb.squarespace.com](https://begonia-copper-63nb.squarespace.com)
- - date_published: 2024-06-23T10:27:09.579094+00:00
-
- ## Black Queer Creative Summit | September 14-17 | Los Angeles, California
- - [https://begonia-pelican-bzb6.squarespace.com](https://begonia-pelican-bzb6.squarespace.com)
- - date_published: 2024-07-14T22:12:10.250954+00:00
-
- ## Ann Hermes Photo & Video
- - [https://beige-coral-yyke.squarespace.com](https://beige-coral-yyke.squarespace.com)
- - date_published: 2024-05-09T06:07:19.133240+00:00
-
- ## SciPy 2024
- - [https://beige-flute-jxhs.squarespace.com](https://beige-flute-jxhs.squarespace.com)
- - date_published: 2024-07-08T16:42:27.981262+00:00
-
- ## Stop Ecocide International
- - [https://bell-harmonica-g83z.squarespace.com](https://bell-harmonica-g83z.squarespace.com)
- - date_published: 2024-07-03T02:10:25.161153+00:00
-
- ## buns from home
- - [https://bell-tunny-s26d.squarespace.com](https://bell-tunny-s26d.squarespace.com)
- - date_published: 2024-06-20T20:53:27.184103+00:00
-
- ## Bellwether Coffee
- - [https://bellwetherroast.squarespace.com](https://bellwetherroast.squarespace.com)
- - date_published: 2024-08-19T10:09:11.055301+00:00
-
- ## Benedict Evans
- - [https://benedict-evans.squarespace.com](https://benedict-evans.squarespace.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Benjamin Burchfiel
- - [http://benjamin-burchfiel-36bw.squarespace.com](http://benjamin-burchfiel-36bw.squarespace.com)
- - date_published: 2024-07-11T14:29:12.706290+00:00
-
- ## Then Do Better
- - [https://ben-yeoh.squarespace.com](https://ben-yeoh.squarespace.com)
- - date_published: 2024-06-21T23:20:41.205210+00:00
-
- ## Beyond Electric Sheep
- - [https://besheep.squarespace.com](https://besheep.squarespace.com)
- - date_published: 2024-07-14T12:19:04.527504+00:00
-
- ## Best Practical Solutions: The open-source ticket management system
- - [https://bestpractical.squarespace.com](https://bestpractical.squarespace.com)
- - date_published: 2024-10-31T04:24:33.865974+00:00
-
- ## Wedding and Elopement Photography | Elizabeth Ladean Photography
- - [https://beth-powell.squarespace.com](https://beth-powell.squarespace.com)
- - date_published: 2024-06-29T21:27:53.337320+00:00
-
- ## Between The Hacks
- - [https://betweenthehacks.squarespace.com](https://betweenthehacks.squarespace.com)
- - date_published: 2024-07-14T22:45:00.822783+00:00
-
- ## The Be Well Collective
- - [https://bewellcollective.squarespace.com](https://bewellcollective.squarespace.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Big Sky Theory
- - [https://big-sky-theory.squarespace.com](https://big-sky-theory.squarespace.com)
- - date_published: 2024-07-20T09:51:26.084264+00:00
-
- ## billdane.com
- - [https://bill-dane.squarespace.com](https://bill-dane.squarespace.com)
- - date_published: 2024-06-26T07:38:36.837272+00:00
-
- ## Maria Tumarkin
- - [http://billie-tumarkin.squarespace.com](http://billie-tumarkin.squarespace.com)
- - date_published: 2024-07-12T21:58:19.344862+00:00
-
- ## bio arc
- - [https://bioarc.squarespace.com](https://bioarc.squarespace.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## The Swarthmorean Archives
- - [https://bird-smilodon-h2ms.squarespace.com](https://bird-smilodon-h2ms.squarespace.com)
- - date_published: 2024-06-21T20:39:38.204551+00:00
-
- ## - Bishop Hill blog
- - [https://bishophill.squarespace.com](https://bishophill.squarespace.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## The Amateur Gourmet
- - [https://bison-goose-5dz6.squarespace.com](https://bison-goose-5dz6.squarespace.com)
- - date_published: 2024-07-03T18:13:02.440768+00:00
-
- ## Fabrizio Dell'Acqua
- - [https://bison-harp-zc2x.squarespace.com](https://bison-harp-zc2x.squarespace.com)
- - date_published: 2024-06-16T21:51:30.687064+00:00
-
- ## THE BITTER SOUTHERNER - Great Stories from the South
- - [https://bittersoutherner.squarespace.com](https://bittersoutherner.squarespace.com)
- - date_published: 2024-05-10T05:42:13.820676+00:00
 

@@ -1,3 +1,20 @@
+ ## BATMAN NOTES
+ - [https://batmannotes.com](https://batmannotes.com)
+ - date_published: 2024-07-11T16:23:41+00:00
+ - tags: ['batman']
+
+ ## Comics Bookcase - Writing About Comics
+ - [https://batmansbookcase.com](https://batmansbookcase.com)
+ - date_published: 2024-07-17T10:42:47.011516+00:00
+
+ ## Baton Rouge
+ - [https://baton-rouge.com](https://baton-rouge.com)
+ - date_published: 2024-05-08T09:32:09.400669+00:00
+
+ ## Baton Rouge
+ - [http://m.baton-rouge.com](http://m.baton-rouge.com)
+ - date_published: 2024-05-23T14:33:34+00:00
+
  ## Baton Rouge Post - Covers Local Baton Rouge News & Louisiana
  - [http://www.batonrougepost.com](http://www.batonrougepost.com)
  - date_published: 2024-07-13T22:56:54.717146+00:00
@@ -3999,20 +4016,4 @@
  ## Ben Alman
  - [https://benalman.com](https://benalman.com)
  - date_published: 2024-04-29T03:35:26.909058+00:00
-
- ## The Ben and Emil Show
- - [https://benandemilshow.com](https://benandemilshow.com)
- - date_published: 2024-06-15T17:19:41.064210+00:00
-
- ## Benard Makaa | Electrical Engineer, Writer, Lecturer, Programmer
- - [https://benardmakaa.com](https://benardmakaa.com)
- - date_published: 2024-01-05T01:04:54.810679+00:00
-
- ## BEN BALCOM
- - [https://www.benbalcom.com](https://www.benbalcom.com)
- - date_published: 2024-07-06T19:23:13.076893+00:00
-
- ## Ben Barnes Fan
- - [http://benbarnesfan.com](http://benbarnesfan.com)
- - date_published: 2024-09-04T02:48:17.757365+00:00
 

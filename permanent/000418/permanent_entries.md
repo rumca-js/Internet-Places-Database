@@ -1,3 +1,396 @@
+ ## Home | City College Norwich
+ - [http://www.easton-college.ac.uk](http://www.easton-college.ac.uk)
+ - date_published: 2024-08-06T10:59:26.112677+00:00
+
+ ## AlphaFold Protein Structure Database
+ - [https://alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk)
+ - date_published: 2024-06-13T07:24:35.396863+00:00
+
+ ## EMBL-EBI homepage | EMBL-EBI
+ - [https://www.ebi.ac.uk](https://www.ebi.ac.uk)
+ - date_published: 2023-10-25T22:48:33.245753+00:00
+
+ ## The Economics Network
+ - [https://economicsnetwork.ac.uk](https://economicsnetwork.ac.uk)
+ - date_published: 2024-05-09T05:22:37.281918+00:00
+
+ ## Equality Charters | Advance HE
+ - [https://ecu.ac.uk](https://ecu.ac.uk)
+ - date_published: 2024-05-08T12:18:36.908204+00:00
+
+ ## AMLaP2024
+ - [http://amlap2024.ed.ac.uk](http://amlap2024.ed.ac.uk)
+ - date_published: 2024-06-14T09:00:25+00:00
+
+ ## blogs.ed – Staff and student blogs for our connected learning community
+ - [https://blogs.ed.ac.uk](https://blogs.ed.ac.uk)
+ - date_published: 2024-05-02T10:54:09.859024+00:00
+
+ ## Centre for Statistics
+ - [https://centreforstatistics.maths.ed.ac.uk](https://centreforstatistics.maths.ed.ac.uk)
+ - date_published: 2024-05-02T10:54:10.888092+00:00
+
+ ## Computing help in the School of Informatics | Documentation
+ - [http://computing.help.inf.ed.ac.uk](http://computing.help.inf.ed.ac.uk)
+ - date_published: 2024-08-07T15:21:34.974329+00:00
+
+ ## Informatics Conferences Server
+ - [http://conferences.inf.ed.ac.uk](http://conferences.inf.ed.ac.uk)
+ - date_published: 2024-07-21T03:30:13.860186+00:00
+
+ ## Home - Domus
+ - [https://domus.ed.ac.uk](https://domus.ed.ac.uk)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## about
+ - [http://edinburghnlp.inf.ed.ac.uk](http://edinburghnlp.inf.ed.ac.uk)
+ - date_published: 2024-08-07T17:22:12.370196+00:00
+
+ ## Edinburgh Futures Institute - Edinburgh Futures Institute
+ - [https://efi.ed.ac.uk](https://efi.ed.ac.uk)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Edinburgh Mathematical Physics Group | Welcome
+ - [http://empg.maths.ed.ac.uk](http://empg.maths.ed.ac.uk)
+ - date_published: 2020-12-09T10:45:43+00:00
+
+ ## School of Engineering
+ - [https://eng.ed.ac.uk](https://eng.ed.ac.uk)
+ - date_published: 2024-04-30T05:56:14.002565+00:00
+
+ ## Edinburgh Global
+ - [https://global.ed.ac.uk](https://global.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:48.023260+00:00
+
+ ## Informatics Group Pages Server
+ - [https://groups.inf.ed.ac.uk](https://groups.inf.ed.ac.uk)
+ - date_published: 2024-06-23T08:58:55.091441+00:00
+
+ ## Informatics Homepages Server
+ - [https://homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk)
+ - date_published: 2024-04-28T03:45:38.567021+00:00
+
+ ## Edinburgh Impact | The University of Edinburgh - Research
+ - [https://impact.ed.ac.uk](https://impact.ed.ac.uk)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Linguistics and English Language
+ - [https://lel.ed.ac.uk](https://lel.ed.ac.uk)
+ - date_published: 2024-04-23T23:25:28.634108+00:00
+
+ ## Library & University Collections
+ - [http://libraryblogs.is.ed.ac.uk](http://libraryblogs.is.ed.ac.uk)
+ - date_published: 2024-10-29T18:44:30.511707+00:00
+
+ ## Linguistics and English Language
+ - [http://ling.ed.ac.uk](http://ling.ed.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Informatics Mailing Lists Server
+ - [http://lists.inf.ed.ac.uk](http://lists.inf.ed.ac.uk)
+ - date_published: 2024-08-07T13:27:51.269551+00:00
+
+ ## 404
+ - [https://mailings.ed.ac.uk](https://mailings.ed.ac.uk)
+ - date_published: 2024-04-09T17:39:17.034725+00:00
+
+ ## Degree finder
+ - [https://postgraduate.degrees.ed.ac.uk](https://postgraduate.degrees.ed.ac.uk)
+ - date_published: 2024-10-17T06:37:18.532133+00:00
+
+ ## School of Philosophy, Psychology & Language Sciences
+ - [https://ppls.ed.ac.uk](https://ppls.ed.ac.uk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Proof General
+ - [https://proofgeneral.inf.ed.ac.uk](https://proofgeneral.inf.ed.ac.uk)
+ - date_published: 2024-05-17T02:59:18.218334+00:00
+
+ ## SAFE website Login
+ - [https://safe.epcc.ed.ac.uk](https://safe.epcc.ed.ac.uk)
+ - date_published: 2024-06-17T17:29:17.275122+00:00
+
+ ## Search results | The University of Edinburgh
+ - [https://search.ed.ac.uk](https://search.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:50.026219+00:00
+
+ ## School of Mathematics Teaching
+ - [https://teaching.maths.ed.ac.uk](https://teaching.maths.ed.ac.uk)
+ - date_published: 2024-05-02T10:54:02.253074+00:00
+
+ ## Degree finder
+ - [https://undergraduate.degrees.ed.ac.uk](https://undergraduate.degrees.ed.ac.uk)
+ - date_published: 2024-10-17T06:37:22.145255+00:00
+
+ ## InfWeb | InfWeb
+ - [https://web.inf.ed.ac.uk](https://web.inf.ed.ac.uk)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Physics & Astronomy
+ - [http://www2.ph.ed.ac.uk](http://www2.ph.ed.ac.uk)
+ - date_published: 2024-06-20T14:45:50+00:00
+
+ ## Accommodation, Catering and Events at The University of Edinburgh
+ - [https://www.accom.ed.ac.uk](https://www.accom.ed.ac.uk)
+ - date_published: 2024-05-02T10:53:49.061701+00:00
+
+ ## University of Edinburgh Business School
+ - [https://www.business-school.ed.ac.uk](https://www.business-school.ed.ac.uk)
+ - date_published: 2024-10-14T19:32:01.636477+00:00
+
+ ## Centre for the Study of Christian Origins
+ - [http://www.christianorigins.div.ed.ac.uk](http://www.christianorigins.div.ed.ac.uk)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Home - Current Law Students
+ - [http://www.currentstudents.law.ed.ac.uk](http://www.currentstudents.law.ed.ac.uk)
+ - date_published: 2024-10-18T22:23:37.232547+00:00
+
+ ## The University of Edinburgh
+ - [https://www.ed.ac.uk](https://www.ed.ac.uk)
+ - date_published: 2024-02-26T15:42:27.741470+00:00
+
+ ## Edinburgh University Students' Association
+ - [https://www.eusa.ed.ac.uk](https://www.eusa.ed.ac.uk)
+ - date_published: 2024-08-07T12:06:45+00:00
+
+ ## Home | Edinburgh Law School
+ - [http://www.law.ed.ac.uk](http://www.law.ed.ac.uk)
+ - date_published: 2024-06-17T11:15:33.311374+00:00
+
+ ## LFCS | InfWeb
+ - [http://www.lfcs.inf.ed.ac.uk](http://www.lfcs.inf.ed.ac.uk)
+ - date_published: 2024-08-18T18:21:07.084648+00:00
+
+ ## School of Mathematics | School of Mathematics
+ - [https://www.maths.ed.ac.uk](https://www.maths.ed.ac.uk)
+ - date_published: 2023-10-25T22:48:35.495631+00:00
+
+ ## Reid School of Music | Edinburgh College of Art
+ - [http://www.music.ed.ac.uk](http://www.music.ed.ac.uk)
+ - date_published: 2024-08-08T03:36:53.927004+00:00
+
+ ## MyEd Student and Staff Portal
+ - [https://www.myed.ed.ac.uk](https://www.myed.ed.ac.uk)
+ - date_published: 2024-01-24T10:38:29+00:00
+
+ ## Physics & Astronomy
+ - [http://www.ph.ed.ac.uk](http://www.ph.ed.ac.uk)
+ - date_published: 2024-06-17T17:45:05+00:00
+
+ ## Log in - Your University Login - The University of Edinburgh
+ - [https://www.pure.ed.ac.uk](https://www.pure.ed.ac.uk)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## University of Edinburgh Research Explorer
+ - [https://www.research.ed.ac.uk](https://www.research.ed.ac.uk)
+ - date_published: 2024-04-28T04:01:00.882394+00:00
+
+ ## Home | Tower Block
+ - [http://www.towerblock.eca.ed.ac.uk](http://www.towerblock.eca.ed.ac.uk)
+ - date_published: 2024-09-14T22:47:24.448503+00:00
+
+ ## Dashboard - Wiki Service
+ - [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
+ - date_published: 2024-07-21T06:43:07.730143+00:00
+
+ ## Environmental Information Data Centre | EIDC
+ - [https://eidc.ac.uk](https://eidc.ac.uk)
+ - date_published: 2024-05-02T10:52:18.599276+00:00
+
+ ## Edinburgh Mathematical Society
+ - [https://ems.ac.uk](https://ems.ac.uk)
+ - date_published: 2024-06-17T17:51:20.737823+00:00
+
+ ## The English Association | The English Association
+ - [https://englishassociation.ac.uk](https://englishassociation.ac.uk)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Enhancement Themes
+ - [https://www.enhancementthemes.ac.uk](https://www.enhancementthemes.ac.uk)
+ - date_published: 2024-07-04T09:50:42+00:00
+
+ ## Engineering and Physical Sciences Research Council (EPSRC)
+ - [http://epsrc.ac.uk](http://epsrc.ac.uk)
+ - date_published: 2024-07-08T17:37:09.965108+00:00
+
+ ## Escape Studios | School of Animation, Games and VFX
+ - [https://www.escapestudios.ac.uk](https://www.escapestudios.ac.uk)
+ - date_published: 2024-10-20T03:46:35.312911+00:00
+
+ ## Welcome
+ - [https://www.escg.ac.uk](https://www.escg.ac.uk)
+ - date_published: 2024-08-06T11:06:03.955022+00:00
+
+ ## Economic and Social Research Council (ESRC)
+ - [http://www.esrc.ac.uk](http://www.esrc.ac.uk)
+ - date_published: 2024-10-20T06:12:46.465817+00:00
+
+ ## Sixty Stories for Sixty Years
+ - [https://60stories.essex.ac.uk](https://60stories.essex.ac.uk)
+ - date_published: 2024-05-11T07:21:53.649032+00:00
+
+ ## AnaWiki: Creating anaphorically annotated resources through Web cooperation
+ - [http://anawiki.essex.ac.uk](http://anawiki.essex.ac.uk)
+ - date_published: 2020-09-22T19:16:58+00:00
+
+ ## Online Bachelors and Masters degree programmes
+ - [https://online.essex.ac.uk](https://online.essex.ac.uk)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Untitled Document
+ - [https://bart.exeter.ac.uk](https://bart.exeter.ac.uk)
+ - date_published: 2010-11-18T14:26:59+00:00
+
+ ## University of Exeter WordPress -
+ - [http://blogs.exeter.ac.uk](http://blogs.exeter.ac.uk)
+ - date_published: 2024-08-11T13:43:49.015297+00:00
+
+ ## University of Exeter Business School  | University of Exeter Business School | University of Exeter
+ - [https://business-school.exeter.ac.uk](https://business-school.exeter.ac.uk)
+ - date_published: 2024-06-17T17:52:11.098686+00:00
+
+ ## Expertise · Business School · University of Exeter
+ - [https://business-school-expertise.exeter.ac.uk](https://business-school-expertise.exeter.ac.uk)
+ - date_published: 2024-10-20T04:13:01.468112+00:00
+
+ ## Home | University of Exeter
+ - [https://exeter.ac.uk](https://exeter.ac.uk)
+ - date_published: 2024-10-20T04:09:12.241076+00:00
+
+ ## Fundraising | Fundraising | University of Exeter
+ - [https://fundraising.exeter.ac.uk](https://fundraising.exeter.ac.uk)
+ - date_published: 2024-06-17T17:51:56.389126+00:00
+
+ ## Home - Green Futures Network
+ - [https://gfn.exeter.ac.uk](https://gfn.exeter.ac.uk)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Homepage · GreenFutures
+ - [https://greenfutures.exeter.ac.uk](https://greenfutures.exeter.ac.uk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## College of Humanities  | Humanities | University of Exeter
+ - [https://humanities.exeter.ac.uk](https://humanities.exeter.ac.uk)
+ - date_published: 2023-11-03T20:30:03+00:00
+
+ ## Secure Portal Redirect
+ - [https://jobs.exeter.ac.uk](https://jobs.exeter.ac.uk)
+ - date_published: 2023-07-06T09:19:11+00:00
+
+ ## Sign in to your account
+ - [https://mytimetable.exeter.ac.uk](https://mytimetable.exeter.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## News
+ - [https://news.exeter.ac.uk](https://news.exeter.ac.uk)
+ - date_published: 2023-11-05T21:53:50.885706+00:00
+
+ ## Home
+		 · PS Connect
+ - [https://psconnect.exeter.ac.uk](https://psconnect.exeter.ac.uk)
+ - date_published: 2024-06-17T17:52:12.259867+00:00
+
+ ## University of Exeter WordPress
+ - [https://sites.exeter.ac.uk](https://sites.exeter.ac.uk)
+ - date_published: 2024-10-20T04:09:57.925856+00:00
+
+ ## College of Social Sciences and International Studies  | College of Social Sciences and International Studies | University of Exeter
+ - [https://socialsciences.exeter.ac.uk](https://socialsciences.exeter.ac.uk)
+ - date_published: 2023-09-29T17:30:12+00:00
+
+ ## Sport  | Sport | University of Exeter
+ - [https://sport.exeter.ac.uk](https://sport.exeter.ac.uk)
+ - date_published: 2024-06-17T17:51:57.277109+00:00
+
+ ## Log in to the portal
+ - [https://srs.exeter.ac.uk](https://srs.exeter.ac.uk)
+ - date_published: 2024-04-19T00:00:00+00:00
+
+ ## Secure Portal Redirect
+ - [https://staff.exeter.ac.uk](https://staff.exeter.ac.uk)
+ - date_published: 2020-11-18T17:20:43+00:00
+
+ ## Faculty of Occupational Medicine
+ - [http://www.fom.ac.uk](http://www.fom.ac.uk)
+ - date_published: 2024-07-03T15:35:16.030310+00:00
+
+ ## Home | Forth Valley College
+ - [https://www.forthvalley.ac.uk](https://www.forthvalley.ac.uk)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## GATE Cloud: Text Analytics in the Cloud
+ - [http://cloud.gate.ac.uk](http://cloud.gate.ac.uk)
+ - date_published: 2024-08-07T16:58:43.695321+00:00
+
+ ## GATE.ac.uk  - index.html
+ - [https://gate.ac.uk](https://gate.ac.uk)
+ - date_published: 2024-04-28T03:36:36.486418+00:00
+
+ ## Joker Slot: Keseruan Tanpa Batas dalam Permainan Favorit
+ - [http://www.genomicsnetwork.ac.uk](http://www.genomicsnetwork.ac.uk)
+ - date_published: 2024-10-19T07:06:36.575958+00:00
+
+ ## Welcome to Enlighten Publications - Enlighten Publications
+ - [http://eprints.gla.ac.uk](http://eprints.gla.ac.uk)
+ - date_published: 2024-06-18T13:07:27.083645+00:00
+
+ ## Historical Thesaurus :: Home :: Welcome
+ - [https://historicalthesaurus.arts.gla.ac.uk](https://historicalthesaurus.arts.gla.ac.uk)
+ - date_published: 2024-05-07T15:44:57.773361+00:00
+
+ ## University of Glasgow - Schools - School of Computing Science - Research - Research sections - IDA-Section - Information Retrieval
+ - [http://ir.dcs.gla.ac.uk](http://ir.dcs.gla.ac.uk)
+ - date_published: 2024-06-18T13:08:19.916184+00:00
+
+ ## A Thesaurus of Old English :: Home :: Welcome
+ - [http://oldenglishthesaurus.arts.gla.ac.uk](http://oldenglishthesaurus.arts.gla.ac.uk)
+ - date_published: 2024-06-30T07:37:19.410882+00:00
+
+ ## Graham Woan's Home Page
+ - [http://radio.astro.gla.ac.uk](http://radio.astro.gla.ac.uk)
+ - date_published: 2020-02-24T13:32:14+00:00
+
+ ## University of Glasgow Events
+ - [https://samoa.dcs.gla.ac.uk](https://samoa.dcs.gla.ac.uk)
+ - date_published: 2024-04-28T04:06:58.154890+00:00
+
+ ## University of Glasgow - MyGlasgow - Archives & Special Collections - Collections
+ - [http://special.lib.gla.ac.uk](http://special.lib.gla.ac.uk)
+ - date_published: 2024-06-24T09:18:05.561781+00:00
+
+ ## The Terrier Team
+ - [https://terrierteam.dcs.gla.ac.uk](https://terrierteam.dcs.gla.ac.uk)
+ - date_published: 2024-02-28T10:17:26+00:00
+
+ ## Astronomy & Astrophysics Group | University of Glasgow
+ - [https://www.astro.gla.ac.uk](https://www.astro.gla.ac.uk)
+ - date_published: 2023-12-19T10:03:15.681293+00:00
+
+ ## University of Glasgow - Schools - School of Chemistry
+ - [https://www.chem.gla.ac.uk](https://www.chem.gla.ac.uk)
+ - date_published: 2024-10-19T05:49:35.019304+00:00
+
+ ## The University of Glasgow, Scotland, UK. A world top 100 university
+ - [http://www.gla.ac.uk](http://www.gla.ac.uk)
+ - date_published: 2024-11-04T19:56:29.892248+00:00
+
+ ## University of Glasgow - The Hunterian
+ - [http://www.hunterian.gla.ac.uk](http://www.hunterian.gla.ac.uk)
+ - date_published: 2024-06-24T09:07:04.302704+00:00
+
+ ## The University of Glasgow, Scotland, UK. A world top 100 university
+ - [https://glasgow.ac.uk](https://glasgow.ac.uk)
+ - date_published: 2024-10-17T06:38:04.103128+00:00
+
+ ## Godalming College
+ - [https://www.godalming.ac.uk](https://www.godalming.ac.uk)
+ - date_published: 2024-06-29T03:30:44.889214+00:00
+
+ ## Sign in to your account
+ - [https://learn.gold.ac.uk](https://learn.gold.ac.uk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
  ## Welcome to the Goldsmiths Virtual Tour - Goldsmiths Virtual Tour
  - [https://virtualtours.gold.ac.uk](https://virtualtours.gold.ac.uk)
  - date_published: 2024-06-27T15:06:01+00:00
@@ -3616,396 +4009,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Sheffield Students' Union
  - [https://su.sheffield.ac.uk](https://su.sheffield.ac.uk)
  - date_published: 2024-08-07T17:00:21+00:00
-
- ## University of Sheffield International College: Study in the UK
- - [http://usic.sheffield.ac.uk](http://usic.sheffield.ac.uk)
- - date_published: 2024-08-07T17:00:17.085903+00:00
-
- ## Sheffield Solar – The UK photovoltaic industry’s leading scientific data resource
- - [https://www.solar.sheffield.ac.uk](https://www.solar.sheffield.ac.uk)
- - date_published: 2024-05-02T12:21:42.054175+00:00
-
- ## Sherpa v3
- - [https://beta.sherpa.ac.uk](https://beta.sherpa.ac.uk)
- - date_published: 2024-07-08T16:36:39.229838+00:00
-
- ## Research Funders' Open Access Policies - Sherpa Services
- - [https://v2.sherpa.ac.uk](https://v2.sherpa.ac.uk)
- - date_published: 2024-05-08T12:02:27.564687+00:00
-
- ## Research Funders' Open Access Policies - Sherpa Services
- - [http://www.sherpa.ac.uk](http://www.sherpa.ac.uk)
- - date_published: 2024-06-30T05:43:55.297178+00:00
-
- ## Home  | Sheffield Hallam University
- - [https://www.shu.ac.uk](https://www.shu.ac.uk)
- - date_published: 2024-09-12T18:50:40.993904+00:00
-
- ## Home - SICSA - The Scottish Informatics & Computer Science Alliance
- - [https://sicsa.ac.uk](https://sicsa.ac.uk)
- - date_published: 2024-05-08T07:35:48.830371+00:00
-
- ## Blogs from around SOAS University of London – Blogs from around SOAS University of London
- - [https://blogs.soas.ac.uk](https://blogs.soas.ac.uk)
- - date_published: 2024-06-30T07:39:11.183853+00:00
-
- ## Welcome to SOAS
- - [https://www.soas.ac.uk](https://www.soas.ac.uk)
- - date_published: 2024-06-30T03:02:19+00:00
-
- ## Welcome to AAMAS 2023 - AAMAS 2023
- - [https://aamas2023.soton.ac.uk](https://aamas2023.soton.ac.uk)
- - date_published: 2024-09-04T19:02:27.764928+00:00
-
- ## School of Electronics and Computer Science
- - [https://ecs.soton.ac.uk](https://ecs.soton.ac.uk)
- - date_published: 2024-04-30T03:33:03.559266+00:00
-
- ## Welcome to ePrints Soton - ePrints Soton
- - [https://eprints.soton.ac.uk](https://eprints.soton.ac.uk)
- - date_published: 2024-07-07T07:17:46.719265+00:00
-
- ## go.soton.ac.uk
- - [http://go.soton.ac.uk](http://go.soton.ac.uk)
- - date_published: 2024-07-10T09:01:22.143859+00:00
-
- ## Recruitment at the University of Southampton
- - [https://jobs.soton.ac.uk](https://jobs.soton.ac.uk)
- - date_published: 2024-06-18T10:52:10.922625+00:00
-
- ## LibGuides@Southampton: Library Services: Home
- - [https://library.soton.ac.uk](https://library.soton.ac.uk)
- - date_published: 2024-07-08T11:24:26.911235+00:00
-
- ## Manifold Scholarship
- - [https://manifold.soton.ac.uk](https://manifold.soton.ac.uk)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Optoelectronics Research Centre (ORC)
- - [https://orc.soton.ac.uk](https://orc.soton.ac.uk)
- - date_published: 2024-10-21T19:14:12.910812+00:00
-
- ## Sign in to your account
- - [https://sussed.soton.ac.uk](https://sussed.soton.ac.uk)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Homepage
- - [http://users.ecs.soton.ac.uk](http://users.ecs.soton.ac.uk)
- - date_published: 2024-07-07T09:38:20+00:00
-
- ## Winchester School of Art
- - [http://wsa.soton.ac.uk](http://wsa.soton.ac.uk)
- - date_published: 2024-07-10T08:58:30+00:00
-
- ## Airguide Photonics | University of Southampton
- - [https://www.airguide.soton.ac.uk](https://www.airguide.soton.ac.uk)
- - date_published: 2024-06-18T11:27:39.373444+00:00
-
- ## Centre for Health Technologies
- - [https://www.cht.ecs.soton.ac.uk](https://www.cht.ecs.soton.ac.uk)
- - date_published: 2024-07-22T07:03:19+00:00
-
- ## Centre for Internet of Things and Pervasive Systems
- - [https://www.c-iot.ecs.soton.ac.uk](https://www.c-iot.ecs.soton.ac.uk)
- - date_published: 2024-07-22T06:58:30+00:00
-
- ## Centre for Machine Intelligence
- - [https://www.cmi.ecs.soton.ac.uk](https://www.cmi.ecs.soton.ac.uk)
- - date_published: 2024-07-22T06:32:47+00:00
-
- ## Home Page
- - [http://www.hpcc.ecs.soton.ac.uk](http://www.hpcc.ecs.soton.ac.uk)
- - date_published: 2024-04-05T15:23:46+00:00
-
- ## Homepage
- - [https://www.soton.ac.uk](https://www.soton.ac.uk)
- - date_published: 2024-05-02T12:38:47.346883+00:00
-
- ## GitHub - libvips/libvips: A fast image processing library with low memory needs.
- - [http://www.vips.ecs.soton.ac.uk](http://www.vips.ecs.soton.ac.uk)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Zepler Institute
- - [https://zepler.soton.ac.uk](https://zepler.soton.ac.uk)
- - date_published: 2024-06-18T10:58:39+00:00
-
- ## University of Southampton Online Store
- - [https://store.southampton.ac.uk](https://store.southampton.ac.uk)
- - date_published: 2024-07-22T07:04:59.929624+00:00
-
- ## Homepage
- - [https://www.southampton.ac.uk](https://www.southampton.ac.uk)
- - date_published: 2024-05-02T12:29:57.550421+00:00
-
- ## SRHE | Society for Research into Higher Education | SRHE.ac.uk
- - [https://srhe.ac.uk](https://srhe.ac.uk)
- - date_published: 2024-10-19T10:18:37.330350+00:00
-
- ## Home
- - [https://www.sruc.ac.uk](https://www.sruc.ac.uk)
- - date_published: 2024-07-26T00:00:00+00:00
-
- ## Jobs at Staffs
- - [https://jobs.staffs.ac.uk](https://jobs.staffs.ac.uk)
- - date_published: 2024-05-09T09:16:27.322459+00:00
-
- ## Home - Staffordshire University
- - [https://staffs.ac.uk](https://staffs.ac.uk)
- - date_published: 2023-12-12T13:24:55.758245+00:00
-
- ## Sign in to your account
- - [https://workvivo.staffs.ac.uk](https://workvivo.staffs.ac.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home - Staffordshire University London
- - [https://staffslondon.ac.uk](https://staffslondon.ac.uk)
- - date_published: 2024-05-09T09:16:30.519523+00:00
-
- ## CS Proxy Service
- - [http://www.dcs.st-and.ac.uk](http://www.dcs.st-and.ac.uk)
- - date_published: 2024-05-14T14:55:56+00:00
-
- ## MacTutor Index
- - [http://www-groups.dcs.st-and.ac.uk](http://www-groups.dcs.st-and.ac.uk)
- - date_published: 2024-06-28T08:29:32+00:00
-
- ## Research Computing Server
- - [https://arts.st-andrews.ac.uk](https://arts.st-andrews.ac.uk)
- - date_published: 2024-01-16T15:37:58+00:00
-
- ## Computer Science WordPress – School of Computer Science, University of St Andrews
- - [https://blogs.cs.st-andrews.ac.uk](https://blogs.cs.st-andrews.ac.uk)
- - date_published: 2024-07-04T18:54:47.657147+00:00
-
- ## Events
- - [https://events.st-andrews.ac.uk](https://events.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:42.143458+00:00
-
- ## Information for current CS students
- - [https://info.cs.st-andrews.ac.uk](https://info.cs.st-andrews.ac.uk)
- - date_published: 2024-07-04T18:54:46.757251+00:00
-
- ## IT Services blog – Latest news, advice and information from the IT Services team
- - [https://itservices.wp.st-andrews.ac.uk](https://itservices.wp.st-andrews.ac.uk)
- - date_published: 2023-10-25T22:49:46.498310+00:00
-
- ## MacTutor Index - MacTutor History of Mathematics
- - [https://mathshistory.st-andrews.ac.uk](https://mathshistory.st-andrews.ac.uk)
- - date_published: 2023-10-25T22:49:48.719060+00:00
-
- ## Home | Moodle
- - [https://moody.st-andrews.ac.uk](https://moody.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:38.746062+00:00
-
- ## News | University of St Andrews
- - [https://news.st-andrews.ac.uk](https://news.st-andrews.ac.uk)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Research Computing Team
- - [https://researchcomputing.wp.st-andrews.ac.uk](https://researchcomputing.wp.st-andrews.ac.uk)
- - date_published: 2024-07-09T20:40:20.560995+00:00
-
- ## Special Collections blog
- - [https://special-collections.wp.st-andrews.ac.uk](https://special-collections.wp.st-andrews.ac.uk)
- - date_published: 2024-06-29T10:08:11.912096+00:00
-
- ## University of St Andrews - Scotland's first university, founded 1413
- - [https://st-andrews.ac.uk](https://st-andrews.ac.uk)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## WordPress at St Andrews
- - [https://wp.st-andrews.ac.uk](https://wp.st-andrews.ac.uk)
- - date_published: 2018-03-21T16:41:14+00:00
-
- ## School of Computer Science - University of St Andrews
- - [https://www.cs.st-andrews.ac.uk](https://www.cs.st-andrews.ac.uk)
- - date_published: 2024-05-08T07:35:46.046567+00:00
-
- ## Welcome
- - [https://www.vacancies.st-andrews.ac.uk](https://www.vacancies.st-andrews.ac.uk)
- - date_published: 2024-05-09T06:35:43.358963+00:00
-
- ## WelcomePage - Starlink
- - [https://www.starlink.ac.uk](https://www.starlink.ac.uk)
- - date_published: 2024-10-16T08:39:38.776989+00:00
-
- ## Science and Technology Facilities Council (STFC)
- - [http://www.stfc.ac.uk](http://www.stfc.ac.uk)
- - date_published: 2024-07-02T10:06:11.708286+00:00
-
- ## UKATC
- - [http://www.ukatc.stfc.ac.uk](http://www.ukatc.stfc.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## University of Stirling Blog
- - [https://blog.stir.ac.uk](https://blog.stir.ac.uk)
- - date_published: 2024-10-11T00:00:00+00:00
-
- ## University of Stirling - My Portal
- - [https://portal.stir.ac.uk](https://portal.stir.ac.uk)
- - date_published: 2024-10-11T16:07:28+00:00
-
- ## University of Stirling Online Shop
- - [https://shop.stir.ac.uk](https://shop.stir.ac.uk)
- - date_published: 2024-10-14T23:52:55.561649+00:00
-
- ## Institute of Aquaculture | About | University of Stirling
- - [http://www.aqua.stir.ac.uk](http://www.aqua.stir.ac.uk)
- - date_published: 2024-01-16T00:00:00+00:00
-
- ## Home |  | University of Stirling
- - [https://www.stir.ac.uk](https://www.stir.ac.uk)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## StrathSDR - University of Strathclyde 5G Software Defined Radio Research Lab
- - [https://5g.eee.strath.ac.uk](https://5g.eee.strath.ac.uk)
- - date_published: 2024-07-08T12:12:12.570878+00:00
-
- ## Pegasus
- - [https://ben.mis.strath.ac.uk](https://ben.mis.strath.ac.uk)
- - date_published: 2024-04-07T09:22:50+00:00
-
- ## Home | classes
- - [https://classes.myplace.strath.ac.uk](https://classes.myplace.strath.ac.uk)
- - date_published: 2024-07-12T16:51:15+00:00
-
- ## University of Strathclyde International Study Centre | Scotland
- - [https://isc.strath.ac.uk](https://isc.strath.ac.uk)
- - date_published: 2024-07-12T16:51:08.838770+00:00
-
- ## Mathematically Structured Programming Group @ University of Strathclyde
- - [https://msp.cis.strath.ac.uk](https://msp.cis.strath.ac.uk)
- - date_published: 2024-05-07T16:54:36+00:00
-
- ## Home | University of Strathclyde
- - [https://og.is.strath.ac.uk](https://og.is.strath.ac.uk)
- - date_published: 2024-07-09T18:01:48+00:00
-
- ## Pegasus
- - [https://pegasus.strath.ac.uk](https://pegasus.strath.ac.uk)
- - date_published: 2024-04-07T09:22:50+00:00
-
- ## CIS Personal Web Pages
- - [http://personal.cis.strath.ac.uk](http://personal.cis.strath.ac.uk)
- - date_published: 2024-07-04T11:16:13.478788+00:00
-
- ## University of Strathclyde
- - [https://pureportal.strath.ac.uk](https://pureportal.strath.ac.uk)
- - date_published: 2024-07-12T16:51:06.736733+00:00
-
- ## University of Strathclyde
- - [https://pure.strath.ac.uk](https://pure.strath.ac.uk)
- - date_published: 2024-07-12T16:51:13.617637+00:00
-
- ## StrathSDR - University of Strathclyde 5G Software Defined Radio Research Lab
- - [https://sdr.eee.strath.ac.uk](https://sdr.eee.strath.ac.uk)
- - date_published: 2024-05-08T11:07:15.010845+00:00
-
- ## University of Strathclyde - Service Catalogue
- - [https://servicecatalogue.strath.ac.uk](https://servicecatalogue.strath.ac.uk)
- - date_published: 2023-10-03T08:25:54+00:00
-
- ## University of Strathclyde - Service Status
- - [https://status.strath.ac.uk](https://status.strath.ac.uk)
- - date_published: 2024-01-22T00:00:00+00:00
-
- ## STAX
- - [https://stax.strath.ac.uk](https://stax.strath.ac.uk)
- - date_published: 2024-05-10T05:39:33.530643+00:00
-
- ## Strathprints: The University of Strathclyde institutional repository - Strathprints
- - [https://strathprints.strath.ac.uk](https://strathprints.strath.ac.uk)
- - date_published: 2023-12-07T17:36:01.374666+00:00
-
- ## Telephone Directory - Search
- - [https://teledir.strath.ac.uk](https://teledir.strath.ac.uk)
- - date_published: 2024-07-12T16:51:19.428053+00:00
-
- ## University of Strathclyde, Glasgow
- - [https://www.strath.ac.uk](https://www.strath.ac.uk)
- - date_published: 2024-05-10T05:39:32.331054+00:00
-
- ## Studying Economics
- - [https://www.studyingeconomics.ac.uk](https://www.studyingeconomics.ac.uk)
- - date_published: 2024-07-02T13:49:39+00:00
-
- ## Suffolk New College - Further Education Provider of the Year
- - [https://www.suffolk.ac.uk](https://www.suffolk.ac.uk)
- - date_published: 2024-08-06T10:26:39+00:00
-
- ## University of Sunderland in London
- - [https://london.sunderland.ac.uk](https://london.sunderland.ac.uk)
- - date_published: 2024-10-20T03:47:00.211194+00:00
-
- ## Home | My.SUPA
- - [http://my.supa.ac.uk](http://my.supa.ac.uk)
- - date_published: 2024-06-17T17:53:17+00:00
-
- ## Scottish Universities Physics Alliance |
- - [https://www.supa.ac.uk](https://www.supa.ac.uk)
- - date_published: 2024-05-02T10:54:23.791727+00:00
-
- ## International Conference on 3D Vision 2021   - International Conference on 3D Vision 2021
- - [https://3dv2021.surrey.ac.uk](https://3dv2021.surrey.ac.uk)
- - date_published: 2024-07-24T05:50:05.178369+00:00
-
- ## University of Surrey Blogs
- - [https://blogs.surrey.ac.uk](https://blogs.surrey.ac.uk)
- - date_published: 2024-02-08T16:44:58.359175+00:00
-
- ## University of Surrey International Study Centre | UK University Preparation
- - [https://isc.surrey.ac.uk](https://isc.surrey.ac.uk)
- - date_published: 2024-05-09T05:20:18.915303+00:00
-
- ## MORPH – A blog about languages and how they change
- - [https://morph.surrey.ac.uk](https://morph.surrey.ac.uk)
- - date_published: 2024-07-02T10:14:48.714128+00:00
-
- ## University Of Surrey | MySurrey
- - [https://my.surrey.ac.uk](https://my.surrey.ac.uk)
- - date_published: 2024-05-09T05:20:20.165436+00:00
-
- ## HTTP Server Test Page powered by: Rocky Linux
- - [http://personal.ee.surrey.ac.uk](http://personal.ee.surrey.ac.uk)
- - date_published: 2022-07-27T18:04:30+00:00
-
- ## Surrey Online Store
- - [https://store.surrey.ac.uk](https://store.surrey.ac.uk)
- - date_published: 2024-07-09T13:46:29.553402+00:00
-
- ## Sign in to Outlook
- - [https://surrey365.surrey.ac.uk](https://surrey365.surrey.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## University of Surrey
- - [https://surrey.ac.uk](https://surrey.ac.uk)
- - date_published: 2024-05-09T05:20:14.677825+00:00
-
- ## Sign in to your account
- - [https://surreylearn.surrey.ac.uk](https://surreylearn.surrey.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Teaching Innovations
- - [https://teachinginnovations.surrey.ac.uk](https://teachinginnovations.surrey.ac.uk)
- - date_published: 2024-05-09T05:20:25.816078+00:00
-
- ## Welcome to Surrey
- - [https://welcome.surrey.ac.uk](https://welcome.surrey.ac.uk)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## University Of Surrey | MySurrey
- - [https://wellbeing.surrey.ac.uk](https://wellbeing.surrey.ac.uk)
- - date_published: 2024-07-08T13:02:55+00:00
-
- ## Search Home
- - [https://cronfa.swan.ac.uk](https://cronfa.swan.ac.uk)
- - date_published: 2024-10-14T23:48:57.706442+00:00
-
- ## IMO – Immersive Media Observatory , CoE research department for the practical use of VR into teaching, industry and research
- - [https://eng-imo.swan.ac.uk](https://eng-imo.swan.ac.uk)
- - date_published: 2024-06-16T15:28:39.042685+00:00
-
- ## Home - Y Ganolfan Eifftaidd / Egypt Centre
- - [https://www.egypt.swan.ac.uk](https://www.egypt.swan.ac.uk)
- - date_published: 2024-08-20T00:00:00+00:00
 

@@ -1,3 +1,83 @@
+ ## Investing.com - שוק ההון, קריפטו, מניות, מט
+ - [https://il.investing.com](https://il.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com - Stock Market Quotes & Financial News
+ - [https://investing.com](https://investing.com)
+ - date_published: 2024-05-11T10:49:11.855610+00:00
+
+ ## Investing.com - Quotazioni, Borsa, Economia e Finanza
+ - [https://it.investing.com](https://it.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース
+ - [https://jp.investing.com](https://jp.investing.com)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## 주식시장 시세와 금융뉴스 - Investing.com
+ - [https://kr.investing.com](https://kr.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com - Stock Market Quotes & Financial News
+ - [https://m.investing.com](https://m.investing.com)
+ - date_published: 2024-09-25T10:35:44.915004+00:00
+
+ ## Investing.com - Sebutan Pasaran Saham, Berita Kewangan
+ - [https://ms.investing.com](https://ms.investing.com)
+ - date_published: 2024-09-09T23:12:14.614534+00:00
+
+ ## Investing.com UK - Financial News, Shares, Quotes & Charts
+ - [https://m.uk.investing.com](https://m.uk.investing.com)
+ - date_published: 2024-10-22T18:37:20.986521+00:00
+
+ ## Investing.com México - Finanzas, Bolsa y Forex
+ - [https://mx.investing.com](https://mx.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com Nigeria - Financial News, Shares, Quotes & Charts
+ - [https://ng.investing.com](https://ng.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com - Aandelenkoersen, Financieel Nieuws
+ - [https://nl.investing.com](https://nl.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com Philippines - Financial News & Stock Quotes
+ - [https://ph.investing.com](https://ph.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com Polska: Kursy walut, kryptowalut, notowania akcji
+ - [https://pl.investing.com](https://pl.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com Portugal - Finanças, Mercado de Ações e Bolsas
+ - [https://pt.investing.com](https://pt.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com - котировки и финансовые новости
+ - [https://ru.investing.com](https://ru.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## السلع، أسواق الأسهم، عملات، أخبار اقتصادية - Investing.com
+ - [https://sa.investing.com](https://sa.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com Sverige - Aktier, Råvaror, Valuta, Finans och Börs live
+ - [https://se.investing.com](https://se.investing.com)
+ - date_published: 2024-09-09T23:12:50.364572+00:00
+
+ ## Investing.com - ราคาซื้อขายในตลาดหุ้น & ข่าวการเงิน
+ - [https://th.investing.com](https://th.investing.com)
+ - date_published: 2024-09-09T23:12:17.221881+00:00
+
+ ## Investing.com - Döviz, Kripto, Hisse, Emtia ve Finans Haberleri
+ - [https://tr.investing.com](https://tr.investing.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## Investing.com UK - Financial News, Shares, Quotes & Charts
+ - [https://uk.investing.com](https://uk.investing.com)
+ - date_published: 2024-09-09T23:12:28.920452+00:00
+
  ## Tin chứng khoán, dữ liệu kinh tế, tài chính - Investing.com
  - [https://vn.investing.com](https://vn.investing.com)
  - date_published: 2024-09-04T00:00:00+00:00
@@ -2876,6 +2956,10 @@
  - [https://isitarealemail.com](https://isitarealemail.com)
  - date_published: 2024-08-19T05:16:58.922642+00:00
 
+ ## Is it Bandcamp Friday?
+ - [https://isitbandcampfriday.com](https://isitbandcampfriday.com)
+ - date_published: 2024-11-11T20:43:59.519495+00:00
+
  ## Is it Cat Safe?
  - [https://isitcatsafe.com](https://isitcatsafe.com)
  - date_published: 2024-02-29T17:46:00.970958+00:00
@@ -3950,88 +4034,4 @@
  ## Innovation for Software and Cybersecurity
  - [https://info.itemis.com](https://info.itemis.com)
  - date_published: 2024-10-13T17:14:04+00:00
-
- ## Innovation for Software and Cybersecurity
- - [https://itemis.com](https://itemis.com)
- - date_published: 2024-10-13T17:14:04+00:00
-
- ## itemis AG - Allgemeine Geschäftsbedingungen
- - [https://legal.itemis.com](https://legal.itemis.com)
- - date_published: 2023-05-31T12:37:54+00:00
-
- ## Bushel Barn
- - [https://bushelbarn.itemorder.com](https://bushelbarn.itemorder.com)
- - date_published: 2024-10-22T21:33:48.709347+00:00
-
- ## Lycos 2020
- - [https://lycos.itemorder.com](https://lycos.itemorder.com)
- - date_published: 2024-06-02T11:07:00.631425+00:00
-
- ## Ultium Cells
- - [https://ultium-cells.itemorder.com](https://ultium-cells.itemorder.com)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## University of Northern Iowa School of Music Spirit Wear
- - [https://universityofnotherniowaschoolofmusic.itemorder.com](https://universityofnotherniowaschoolofmusic.itemorder.com)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Global Forum - ITEMS International - Strategic consulting in a digital world
- - [http://globalforum.items-int.com](http://globalforum.items-int.com)
- - date_published: 2024-07-07T01:27:30.647288+00:00
-
- ## Log in | Iterable
- - [https://app.iterable.com](https://app.iterable.com)
- - date_published: 2024-07-02T17:21:07.514968+00:00
-
- ## Select your region
- - [http://community.iterable.com](http://community.iterable.com)
- - date_published: 2024-07-02T17:20:55.927111+00:00
-
- ## Home
- - [https://go.iterable.com](https://go.iterable.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home
- - [https://iterable.com](https://iterable.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home
- - [https://links.iterable.com](https://links.iterable.com)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Iterable Support Center
- - [https://support.iterable.com](https://support.iterable.com)
- - date_published: 2024-07-02T17:20:58.791659+00:00
-
- ## Iteright: Empowering Product Teams through Rigorous Idea Validation & Business Outcomes
- - [https://www.iteright.com](https://www.iteright.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Dashboard
- - [https://aggregator.iteris-atis.com](https://aggregator.iteris-atis.com)
- - date_published: 2020-03-12T18:35:34+00:00
-
- ## iTerm2 - macOS Terminal Replacement
- - [https://iterm2.com](https://iterm2.com)
- - date_published: 2023-10-25T15:24:29.565257+00:00
-
- ## Attention Required! | Cloudflare
- - [https://cdn.iterwebcms.com](https://cdn.iterwebcms.com)
- - date_published: 2024-07-09T15:40:04.870367+00:00
-
- ## IT Europa
- - [https://iteuropa.com](https://iteuropa.com)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## ITEXPO | The Business Technology Event
- - [https://www.itexpo.com](https://www.itexpo.com)
- - date_published: 2015-10-09T00:04:41+00:00
-
- ## The Leading PDF Library for Developers | iText
- - [https://itextpdf.com](https://itextpdf.com)
- - date_published: 2024-07-03T08:16:45+00:00
-
- ## Buy crypto easily with your bank card
- - [https://itez.com](https://itez.com)
- - date_published: 2024-07-17T00:00:00+00:00
 

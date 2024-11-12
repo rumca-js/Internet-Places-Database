@@ -1,3 +1,166 @@
+ ## Savage Thoughts
+ - [http://savagethoughts.com](http://savagethoughts.com)
+ - date_published: 2024-06-23T06:56:51.948318+00:00
+
+ ## Home - Savannah Alalia
+ - [https://savannahalalia.com](https://savannahalalia.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Savannah Goldfields – A gold production and growth story unfolding in North Queensland.
+ - [https://savannahgoldfields.com](https://savannahgoldfields.com)
+ - date_published: 2024-09-16T22:24:43.428030+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://chat.savannahnow.com](https://chat.savannahnow.com)
+ - date_published: 2024-10-31T20:47:26.918441+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [http://cm.savannahnow.com](http://cm.savannahnow.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://eu.savannahnow.com](https://eu.savannahnow.com)
+ - date_published: 2024-10-31T20:46:12.198681+00:00
+
+ ## Help Center - Savannah Morning News
+ - [https://help.savannahnow.com](https://help.savannahnow.com)
+ - date_published: 2024-06-20T02:00:27.533943+00:00
+
+ ## Newsletters | Savannah Morning News
+ - [https://profile.savannahnow.com](https://profile.savannahnow.com)
+ - date_published: 2024-06-20T02:00:25.348253+00:00
+
+ ## Savannah Morning News: Local News, Politics & Sports in Savannah, GA
+ - [https://savannahnow.com](https://savannahnow.com)
+ - date_published: 2024-10-31T20:47:30.426367+00:00
+
+ ## The New Frontier of Experience & Research Technology | Forsta
+ - [https://surveys.savanta.com](https://surveys.savanta.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Show HN: Sava OS – A desktop interface for you web browser
+ - [https://savaos.com](https://savaos.com)
+ - date_published: 2024-10-17T16:20:30+00:00
+
+ ## Savaria Dance Studio
+ - [https://savariadance.com](https://savariadance.com)
+ - date_published: 2024-02-08T22:52:14.864745+00:00
+
+ ## Lawn Care and Tree Care Service | SavATree
+ - [https://www.savatree.com](https://www.savatree.com)
+ - date_published: 2024-10-28T08:16:05.121656+00:00
+
+ ## Save A Lot | Low Price Grocery Stores
+ - [https://savealot.com](https://savealot.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Save America from Trump
+ - [http://saveamericafromtrump.com](http://saveamericafromtrump.com)
+ - date_published: 2024-07-13T15:01:59.818690+00:00
+
+ ## Save Empire Earth - Index page
+ - [http://www.save-ee.com](http://www.save-ee.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Home
+ - [http://www.save-food.com](http://www.save-food.com)
+ - date_published: 2024-10-31T07:45:07+00:00
+
+ ## Save Game | Game Save Download free Save Files
+ - [https://savegameworld.com](https://savegameworld.com)
+ - date_published: 2024-06-08T18:38:06+00:00
+ - tags: ['save games', 'video games', 'video game save games']
+
+ ## South Africa Accommodation, Hotels and Travel
+ - [http://www.sa-venues.com](http://www.sa-venues.com)
+ - date_published: 2024-08-19T20:26:21.077824+00:00
+
+ ## Policy Recommendations for Election Law
+ - [https://saveourelections.com](https://saveourelections.com)
+ - date_published: 2024-10-27T12:49:29.437079+00:00
+
+ ## Home
+ - [https://saveourschools.com](https://saveourschools.com)
+ - date_published: 2024-10-27T12:49:25.853621+00:00
+
+ ## diktat
+ - [https://diktat.saveourtool.com](https://diktat.saveourtool.com)
+ - date_published: 2024-07-12T17:30:11+00:00
+
+ ## Home - Save Our Water, California
+ - [https://saveourwater.com](https://saveourwater.com)
+ - date_published: 2024-05-09T02:32:49.913948+00:00
+
+ ## Accueil | Saverglass
+ - [https://www.saverglass.com](https://www.saverglass.com)
+ - date_published: 2024-06-21T10:48:12+00:00
+
+ ## Joseph Saveri Law Firm - Antitrust & Class Action Litigation Law Group
+ - [https://saverilawfirm.com](https://saverilawfirm.com)
+ - date_published: 2024-07-15T15:11:50+00:00
+
+ ## Dewanaga77 - Link Alternatif Game Judi Online Terbaik 2024
+ - [http://savespacecamp.com](http://savespacecamp.com)
+ - date_published: 2024-10-18T04:50:04.258790+00:00
+
+ ## Strona główna
+ - [http://savethefloppy.com](http://savethefloppy.com)
+ - date_published: 2024-08-19T23:59:22.082132+00:00
+
+ ## Net Neutrality
+ - [https://savetheinternet.com](https://savetheinternet.com)
+ - date_published: 2024-05-10T06:32:11.832717+00:00
+ - tags: ['net neutrality', 'free speech', 'activism']
+
+ ## Kay Savetz
+ - [https://savetz.com](https://savetz.com)
+ - date_published: 2024-05-25T07:10:00.883363+00:00
+ - tags: ['personal']
+
+ ## Savetz Publishing
+ - [https://www.savetzpublishing.com](https://www.savetzpublishing.com)
+ - date_published: 2024-06-22T14:30:26.223890+00:00
+
+ ## Home
+ - [http://www.saveur.com](http://www.saveur.com)
+ - date_published: 2024-06-20T05:11:21.453960+00:00
+
+ ## Save Walter White
+ - [http://www.savewalterwhite.com](http://www.savewalterwhite.com)
+ - date_published: 2023-06-21T17:59:15+00:00
+
+ ## Savills UK | Find a Property
+ - [https://search.savills.com](https://search.savills.com)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Saving Africa from Lies that Kill
+ - [https://savingafricafromliesthatkill.com](https://savingafricafromliesthatkill.com)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## - Saving Country Music
+ - [https://savingcountrymusic.com](https://savingcountrymusic.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Saving For The Day
+ - [https://savingforthedaymovie.com](https://savingforthedaymovie.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## savinsucks.com
+ - [http://savinsucks.com](http://savinsucks.com)
+ - date_published: 2011-12-26T05:18:19+00:00
+
+ ## Savoir Claire | I Would Love to Marry You!
+ - [https://www.savoirclaire.com](https://www.savoirclaire.com)
+ - date_published: 2024-08-06T15:42:03.737696+00:00
+
+ ## Savoir-faire Linux | Chef de file en technologies open source et logiciels libres
+ - [https://savoirfairelinux.com](https://savoirfairelinux.com)
+ - date_published: 2024-07-07T04:08:07.547386+00:00
+
+ ## The Best Spices, Seasonings & Herbs Online Store | Savory Spice
+ - [https://www.savoryspiceshop.com](https://www.savoryspiceshop.com)
+ - date_published: 2024-06-23T04:13:39.701789+00:00
+
  ## Best Historic Bar in North Beach San Francisco | Savoy Tivoli
  - [https://www.savoytivoli.com](https://www.savoytivoli.com)
  - date_published: 2024-05-06T16:29:06.428351+00:00
@@ -967,6 +1130,7 @@
  ## SCDKey –All kinds of windows and office keys are available here, Cheap Global Digital Game CD Keys, Game Keys Marketplace,
  - [https://pt.scdkey.com](https://pt.scdkey.com)
  - date_published: 2024-09-05T15:25:21.017476+00:00
+ - tags: ['piracy', 'cd keys']
 
  ## Southern California Edison Power Saver Rewards Program
  - [https://powersaver.sce.com](https://powersaver.sce.com)
@@ -3874,167 +4038,4 @@ Scopus - Welcome to Scopus
  - [https://scrapingbee.com](https://scrapingbee.com)
  - date_published: 2023-10-25T16:59:56.121936+00:00
  - tags: ['web scraping service']
-
- ## Full-Stack Web Scraping API & World Class Data Extraction Services | Zyte
- - [https://scrapinghub.com](https://scrapinghub.com)
- - date_published: 2024-05-06T15:17:35.458086+00:00
-
- ## Loading ...
- - [https://dashboard.scrapingrobot.com](https://dashboard.scrapingrobot.com)
- - date_published: 2021-12-14T18:56:43+00:00
-
- ## Basic Usage
- - [https://docs.scrapingrobot.com](https://docs.scrapingrobot.com)
- - date_published: 2024-07-18T06:54:32.755742+00:00
-
- ## User feedback software - Upvoty
- - [https://roadmap.scrapingrobot.com](https://roadmap.scrapingrobot.com)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Scraping Robot | Quality Web Scraping | Try Our API Today
- - [https://scrapingrobot.com](https://scrapingrobot.com)
- - date_published: 2024-05-14T03:37:24.211666+00:00
-
- ## ScrapingZone
- - [https://scrapingzone.com](https://scrapingzone.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Scrap Mechanic: Welcome to the machine-filled creative paradise of Scrap Mechanic, a multiplayer sandbox game with imagination and ingenuity at its core.
- - [http://scrapmechanic.com](http://scrapmechanic.com)
- - date_published: 2024-10-27T08:11:55.982069+00:00
-
- ## ScrappleFace
- - [http://www.scrappleface.com](http://www.scrappleface.com)
- - date_published: 2024-06-03T09:52:37+00:00
-
- ## ScrapYard Armory
- - [https://www.scrapyardarmory.com](https://www.scrapyardarmory.com)
- - date_published: 2024-07-09T14:31:56.245589+00:00
-
- ## Scratchapixel 4.0, Learn Computer Graphics Programming
- - [https://scratchapixel.com](https://scratchapixel.com)
- - date_published: 2024-03-24T15:08:21.783897+00:00
-
- ## Online scratch cards, top scratch card resources, best scratch card bonus offers only at ScratchBrand.com
- - [https://scratchbrand.com](https://scratchbrand.com)
- - date_published: 2024-06-12T21:21:52.275007+00:00
-
- ## Sign in - Google Accounts
- - [https://app.scratchdata.com](https://app.scratchdata.com)
- - date_published: 2024-04-29T02:35:42.472501+00:00
-
- ## What is Scratch Data? - Scratch Data Documentation
- - [https://docs.scratchdata.com](https://docs.scratchdata.com)
- - date_published: 2024-04-12T13:42:38+00:00
-
- ## Scratch Data
- - [https://scratchdata.com](https://scratchdata.com)
- - date_published: 2024-05-09T18:12:14.285830+00:00
-
- ## ScratchDB
- - [https://scratchdb.com](https://scratchdb.com)
- - date_published: 2023-10-25T16:59:56.874210+00:00
-
- ## HOME | SGK
- - [https://www.scratchgourmet.com](https://www.scratchgourmet.com)
- - date_published: 2024-08-18T03:05:28.990263+00:00
-
- ## Unicode NSIS
- - [http://www.scratchpaper.com](http://www.scratchpaper.com)
- - date_published: 2024-07-12T16:57:08.154685+00:00
-
- ## Screaming Circuits
- - [https://www.screamingcircuits.com](https://www.screamingcircuits.com)
- - date_published: 2024-10-08T18:46:51+00:00
-
- ## Screaming in the Cloud Archives
- - [https://screaminginthecloud.com](https://screaminginthecloud.com)
- - date_published: 2024-05-06T13:01:27.322947+00:00
-
- ## Screamscape
- - [http://www.screamscape.com](http://www.screamscape.com)
- - date_published: 2024-07-20T14:26:58+00:00
-
- ## Screeble | Work hard. Play hard. Think hard.
- - [https://screeble.com](https://screeble.com)
- - date_published: 2024-09-15T19:33:24.932036+00:00
-
- ## Powerful APIs to Create Screenshots, PDFs and More from Websites • screeenly.com
- - [https://3.screeenly.com](https://3.screeenly.com)
- - date_published: 2024-07-14T08:45:26.629175+00:00
-
- ## Screely - Generate Website Mockups
- - [https://www.screely.com](https://www.screely.com)
- - date_published: 2024-10-22T19:19:16.689421+00:00
-
- ## Free Online Screen Recorder | Online Video Recorder
- - [https://screencapture.com](https://screencapture.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## TechSmith Screencast
- - [https://app.screencast.com](https://app.screencast.com)
- - date_published: 2024-07-20T23:55:55.301389+00:00
-
- ## TechSmith | Screencast.com, Home
- - [https://screencast.com](https://screencast.com)
- - date_published: 2024-04-30T07:49:01.107791+00:00
-
- ## screencasting.com by Aaron Francis
- - [https://screencasting.com](https://screencasting.com)
- - date_published: 2024-05-06T13:46:09.510201+00:00
-
- ## Home
- - [https://screencast-o-matic.com](https://screencast-o-matic.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Apple iPad, iPhone & Mac Video Tutorials from ScreenCastsOnline
- - [https://screencastsonline.com](https://screencastsonline.com)
- - date_published: 2024-07-09T12:53:14.703612+00:00
-
- ## ScreenCrush
- - [https://screencrush.com](https://screencrush.com)
- - date_published: 2024-05-06T20:30:36.837709+00:00
- - tags: ['cinema news']
-
- ## ScreenCrush Merch Store
- - [http://screencrushmerch.com](http://screencrushmerch.com)
- - date_published: 2024-06-27T02:32:08.814955+00:00
-
- ## AD: Frontend
- - [https://account.screendaily.com](https://account.screendaily.com)
- - date_published: 2024-06-24T05:52:01.119738+00:00
-
- ## Screen International Subscriptions
- - [https://subs.screendaily.com](https://subs.screendaily.com)
- - date_published: 2024-06-24T05:50:21.445673+00:00
-
- ## Screen Daily | Film News, Film Reviews, Film Festivals and Awards
- - [https://www.screendaily.com](https://www.screendaily.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## ScreenHeights - Advertise Differently
- - [https://screenheights.com](https://screenheights.com)
- - date_published: 2024-10-29T01:30:57+00:00
-
- ## Slack Huddles - Virtual Meeting & Web Conferencing Platform
- - [https://screenhero.com](https://screenhero.com)
- - date_published: 2024-05-08T03:32:46.988112+00:00
-
- ## Hiragino Fonts – Perfectly balanced with clean lines
- - [https://www.screen-hiragino.com](https://www.screen-hiragino.com)
- - date_published: 2024-04-25T04:29:31+00:00
-
- ## Screen Idle - Funny Movie News for Groovy People
- - [https://screen-idle.com](https://screen-idle.com)
- - date_published: 2023-10-25T16:59:58.854404+00:00
- - tags: ['satire', 'comedy', 'funny']
-
- ## Before you continue to YouTube
- - [http://screenjunkies.com](http://screenjunkies.com)
- - date_published: 2024-06-28T14:35:45+00:00
- - tags: ['honest trailers']
-
- ## Loading…
- - [https://cms.screenlace.com](https://cms.screenlace.com)
- - date_published: 2024-04-29T02:35:46.805575+00:00
 

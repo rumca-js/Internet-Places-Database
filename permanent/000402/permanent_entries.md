@@ -1,3 +1,371 @@
+ ## Wysokie Obcasy
+ - [https://www.wysokieobcasy.pl](https://www.wysokieobcasy.pl)
+ - date_published: 2024-07-01T08:02:16.251020+00:00
+
+ ## Wysokie Szpilki – Magazyn dla ambitnych kobiet…
+ - [https://wysokieszpilki.pl](https://wysokieszpilki.pl)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Strona główna
+ - [https://wzdw.pl](https://wzdw.pl)
+ - date_published: 2024-07-13T19:04:03+00:00
+
+ ## Gość Niedzielny
+ - [https://wf1.xcdn.pl](https://wf1.xcdn.pl)
+ - date_published: 2024-07-17T07:09:01.671557+00:00
+
+ ## Xenico Pharma® - nowoczesne preparaty farmaceutyczne
+ - [https://xenico.pl](https://xenico.pl)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## XGP.pl | Portal o grach i konsolach
+ - [https://xgp.pl](https://xgp.pl)
+ - date_published: 2023-10-30T11:51:26.196647+00:00
+
+ ## Indywidualne sklepy internetowe XIR Shop - PrestaShop - XIR Shop - nowoczesne sklepy internetowe
+ - [https://xirshop.pl](https://xirshop.pl)
+ - date_published: 2024-08-18T14:41:42.221312+00:00
+
+ ## x-kom.pl - Sklep komputerowy
+ - [https://www.x-kom.pl](https://www.x-kom.pl)
+ - date_published: 2023-10-24T20:17:46.684016+00:00
+ - tags: ['shop', 'pc parts']
+
+ ## SKRBEŃSKO
+ - [https://skrbensko.xlx.pl](https://skrbensko.xlx.pl)
+ - date_published: 2024-07-11T16:33:05.904747+00:00
+
+ ## Xoxo.pl - podziel się czymś ciekawym lub śmiesznym
+ - [https://xoxo.pl](https://xoxo.pl)
+ - date_published: 2024-05-09T14:14:03.386751+00:00
+
+ ## Xpn.pl
+ - [http://www.xpn.pl](http://www.xpn.pl)
+ - date_published: 2024-08-18T14:10:02.336504+00:00
+
+ ## Trojmiasto.pl - wiadomości i  informacje z Trójmiasta
+ - [https://x-trojmiasto.pl](https://x-trojmiasto.pl)
+ - date_published: 2024-08-18T16:51:16+00:00
+
+ ## XV Parówek
+ - [http://www.xvp.pl](http://www.xvp.pl)
+ - date_published: 2019-08-20T13:25:34+00:00
+
+ ## Xzone.pl - Odzież i gadżety dla fanów gier, filmów i komiksów
+ - [https://www.xzone.pl](https://www.xzone.pl)
+ - date_published: 2024-09-16T02:06:59.431500+00:00
+
+ ## Kalkulator belek online
+ - [http://www.belki.y0.pl](http://www.belki.y0.pl)
+ - date_published: 2023-11-13T11:31:35.615429+00:00
+ - tags: ['online calculator']
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache.yatta.pl](https://cache.yatta.pl)
+ - date_published: 2024-08-20T05:49:04.444020+00:00
+
+ ## Lato z mangą!
+ - [https://lato.yatta.pl](https://lato.yatta.pl)
+ - date_published: 2024-08-20T05:49:08.085829+00:00
+
+ ## YattaReader
+ - [https://reader.yatta.pl](https://reader.yatta.pl)
+ - date_published: 2024-05-24T13:37:29.246514+00:00
+
+ ## Wiosenny Festiwal Mangowy 2024
+ - [https://wfm.yatta.pl](https://wfm.yatta.pl)
+ - date_published: 2024-05-24T13:37:38.754402+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://yatta.pl](https://yatta.pl)
+ - date_published: 2023-12-02T12:55:35+00:00
+ - tags: ['anime', 'shop', 'manga']
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache1.yatta-static.pl](https://cache1.yatta-static.pl)
+ - date_published: 2024-05-24T13:37:41.853491+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache2.yatta-static.pl](https://cache2.yatta-static.pl)
+ - date_published: 2024-05-24T13:37:23.325551+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache3.yatta-static.pl](https://cache3.yatta-static.pl)
+ - date_published: 2024-05-24T13:37:26.301073+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache4.yatta-static.pl](https://cache4.yatta-static.pl)
+ - date_published: 2024-08-20T05:49:20.500445+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache5.yatta-static.pl](https://cache5.yatta-static.pl)
+ - date_published: 2024-08-20T05:49:06.594399+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache6.yatta-static.pl](https://cache6.yatta-static.pl)
+ - date_published: 2024-05-24T13:37:32.430442+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://cache.yatta-static.pl](https://cache.yatta-static.pl)
+ - date_published: 2024-05-24T13:37:35.879638+00:00
+
+ ## YATTA.PL - Sklep z mangą i komiksami
+ - [https://yatta-static.pl](https://yatta-static.pl)
+ - date_published: 2024-05-24T13:37:44.964778+00:00
+
+ ## Homepage
+ - [https://biz.yelp.pl](https://biz.yelp.pl)
+ - date_published: 2024-10-22T17:19:21.866867+00:00
+
+ ## Yelp
+ - [https://m.yelp.pl](https://m.yelp.pl)
+ - date_published: 2024-07-01T07:06:18.973832+00:00
+
+ ## Yelp
+ - [https://yelp.pl](https://yelp.pl)
+ - date_published: 2024-07-01T06:42:20.113832+00:00
+
+ ## Wyjątkowa biżuteria | Jubiler YES.pl
+ - [https://www.yes.pl](https://www.yes.pl)
+ - date_published: 2024-09-02T13:53:58.203225+00:00
+
+ ## Yggdrasil – Drzewo światów o Grach Fabularnych Online
+ - [https://ygg.pl](https://ygg.pl)
+ - date_published: 2024-06-28T19:50:16.491466+00:00
+
+ ## Yggdrasil - portal młodych przedsiębiorców
+ - [http://yggdrasil.pl](http://yggdrasil.pl)
+ - date_published: 2021-03-19T00:00:00+00:00
+
+ ## Oferta sprzedaży domeny: ylo.pl
+ - [http://ylo.pl](http://ylo.pl)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## Kalkulator OC AC dla młodych - obliczanie składki ubezpieczenia samochodu online | You Can Drive
+ - [https://kalkulator.youcandrive.pl](https://kalkulator.youcandrive.pl)
+ - date_published: 2024-06-15T15:04:32+00:00
+
+ ## Ubezpieczenia indywidualne online dla młodych | youcandrive.pl
+ - [https://youcandrive.pl](https://youcandrive.pl)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Your KAYA – naturalne produkty łagodne dla ciała
+ - [https://yourkaya.pl](https://yourkaya.pl)
+ - date_published: 2024-06-20T08:19:22.987949+00:00
+
+ ## yoyo.pl - yoyo Zasoby i informacje.
+ - [http://www.theplessklan.yoyo.pl](http://www.theplessklan.yoyo.pl)
+ - date_published: 2024-07-10T02:06:16+00:00
+
+ ## Strona główna | Zaufana Trzecia Strona
+ - [https://z3s.pl](https://z3s.pl)
+ - date_published: 2024-10-21T10:01:46.572878+00:00
+
+ ## Uwolnij Swój Czas | Żabka
+ - [https://www.zabka.pl](https://www.zabka.pl)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Zaimki.pl
+ - [https://zaimki.pl](https://zaimki.pl)
+ - date_published: 2023-10-25T08:30:22.237407+00:00
+ - tags: ['gender', 'pronouns', 'the left wing']
+
+ ## Blog i podcast o inwestowaniu w nieruchomości
+ - [https://zainwestowani.pl](https://zainwestowani.pl)
+ - date_published: 2016-09-28T11:31:40+00:00
+
+ ## ZAJĘCIA 24
+ - [https://zajecia24.pl](https://zajecia24.pl)
+ - date_published: 2024-07-19T19:59:49.499569+00:00
+
+ ## Buty i odzież online na Zalando. Moda damska, męska i dziecięca
+ - [https://zalando.pl](https://zalando.pl)
+ - date_published: 2024-04-18T00:00:00+00:00
+ - tags: ['company', 'e-commerce', 'fashion']
+
+ ## Lounge by Zalando – Outlet online: moda & dom
+ - [https://www.zalando-lounge.pl](https://www.zalando-lounge.pl)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Zalchem
+ - [http://zalchem.pl](http://zalchem.pl)
+ - date_published: 2024-08-11T19:14:18.665899+00:00
+
+ ## Zamość onLine
+ - [http://www.zamosconline.pl](http://www.zamosconline.pl)
+ - date_published: 2024-08-19T21:16:11.557587+00:00
+
+ ## Za okładki płotem. Rzetelne recenzje od 2011 roku
+ - [https://www.zaokladkiplotem.pl](https://www.zaokladkiplotem.pl)
+ - date_published: 2024-07-02T16:01:43+00:00
+
+ ## Zapach Papieru
+ - [https://zapach-papieru.pl](https://zapach-papieru.pl)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## ZapisyNaKolede.pl - parafialne zapisy wiernych na kolędę
+ - [https://zapisynakolede.pl](https://zapisynakolede.pl)
+ - date_published: 2024-05-14T03:30:20.896386+00:00
+
+ ## Zapłać mandat online- Poczta Polska
+ - [http://poczta-polska.zaplacmandat.pl](http://poczta-polska.zaplacmandat.pl)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Zapoluj na nagrody | Jägermeister
+ - [https://zapolujnanagrody.pl](https://zapolujnanagrody.pl)
+ - date_published: 2024-10-31T13:14:46.986032+00:00
+
+ ## Zaprogramuj Życie
+ - [https://zaprogramujzycie.pl](https://zaprogramujzycie.pl)
+ - date_published: 2024-09-02T14:19:20.143825+00:00
+
+ ## Strona Główna - zasadygry
+ - [https://zasadygry.pl](https://zasadygry.pl)
+ - date_published: 2024-07-17T04:42:52.507561+00:00
+
+ ## Zaufana Trzecia Strona
+ - [https://zaufanatrzeciastrona.pl](https://zaufanatrzeciastrona.pl)
+ - date_published: 2023-10-25T22:33:38+00:00
+ - tags: ['cybersecurity news', 'tech news']
+
+ ## Książka "Zaufanie, czyli waluta przyszłości" - sklep autora
+ - [https://zaufanieczyliwaluta.pl](https://zaufanieczyliwaluta.pl)
+ - date_published: 2024-07-11T16:19:42.593218+00:00
+
+ ## Kurs Zawodowy Podróżnik – zapisz się na mialing - Kurs online Zawodowy Podróżnik
+ - [https://www.zawodowypodroznik.pl](https://www.zawodowypodroznik.pl)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Zawód Typer - Największa społeczność bukmacherska w Polsce
+ - [https://zawodtyper.pl](https://zawodtyper.pl)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Wydawnictwo militarne ZBiAM
+ - [http://zbiam.pl](http://zbiam.pl)
+ - date_published: 2024-09-19T19:46:18.763327+00:00
+
+ ## ZBP - General information
+ - [https://www.zbp.pl](https://www.zbp.pl)
+ - date_published: 2024-07-14T05:30:09.260567+00:00
+
+ ## Home - ZDG TOR - Zespół Doradców Gospodarczych TOR
+ - [https://zdgtor.pl](https://zdgtor.pl)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Pri – Przepisy – Pri Ziemniaczki, Pri Buraczki, Pri Marchewka
+ - [https://zdrowe-a-gotowe.pl](https://zdrowe-a-gotowe.pl)
+ - date_published: 2024-01-19T01:25:34+00:00
+
+ ## TVN Zdrowie - wszystko o zdrowiu i medycynie
+ - [https://zdrowietvn.pl](https://zdrowietvn.pl)
+ - date_published: 2023-10-25T10:34:35.348293+00:00
+
+ ## 🏆 ZDZISLOWICZ.PL - Tworzenie stron internetowych Rzeszów, Kraków, Strony WWW, Sklepy internetowe - Warszawa, Wrocław
+ - [https://zdzislowicz.pl](https://zdzislowicz.pl)
+ - date_published: 2024-09-03T19:25:45.160977+00:00
+
+ ## ZEISS Polska
+ - [https://www.zeiss.pl](https://www.zeiss.pl)
+ - date_published: 2024-09-16T07:55:27.239804+00:00
+
+ ## Promocje bankowe 🔥 zarabiaj na bankach! - Zgarnijpremie.pl
+ - [https://zgarnijpremie.pl](https://zgarnijpremie.pl)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Forum ZielonyOgrodek.pl
+ - [https://forum.zielonyogrodek.pl](https://forum.zielonyogrodek.pl)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## Zielony Ogródek | Twój internetowy sklep ogrodniczy online
+ - [https://sklep.zielonyogrodek.pl](https://sklep.zielonyogrodek.pl)
+ - date_published: 2024-05-26T22:36:14.041624+00:00
+
+ ## Zielony Ogródek – Najlepszy poradnik ogrodniczy w Internecie!
+ - [https://zielonyogrodek.pl](https://zielonyogrodek.pl)
+ - date_published: 2023-12-13T14:59:08.276268+00:00
+ - tags: ['garden']
+
+ ## Ziemia Niczyja | Mariusz Herma - Blog muzycznyBlog muzycznyZiemia Niczyja | Mariusz Herma
+ - [https://www.ziemianiczyja.pl](https://www.ziemianiczyja.pl)
+ - date_published: 2024-06-30T06:13:51.518551+00:00
+
+ ## Związek Cyfrowa Polska
+ - [http://www.zipsee.pl](http://www.zipsee.pl)
+ - date_published: 2024-09-10T07:28:45.631761+00:00
+
+ ## Złapani w sieć
+ - [https://zlapaniwsiec.pl](https://zlapaniwsiec.pl)
+ - date_published: 2024-06-16T13:41:09.445945+00:00
+
+ ## Złote Przeboje - radio, muzyka, wiadomości, quizy
+ - [https://zloteprzeboje.pl](https://zloteprzeboje.pl)
+ - date_published: 2024-08-18T11:25:54+00:00
+
+ ## Zmień Piec | Zmień piec
+ - [https://zmienpiec.pl](https://zmienpiec.pl)
+ - date_published: 2024-05-14T02:47:03.996997+00:00
+
+ ## Support
+ - [https://support.zooplus.pl](https://support.zooplus.pl)
+ - date_published: 2024-09-26T11:23:36.510217+00:00
+
+ ## Internetowy sklep zoologiczny: karma i akcesoria dla zwierząt w zooplus
+ - [https://www.zooplus.pl](https://www.zooplus.pl)
+ - date_published: 2024-06-16T06:27:38.127935+00:00
+
+ ## Zostań specką! - platforma wiedzy WP, CSS, HTML, SEO, grafikZostań specką! - platforma wiedzy WP, CSS, HTM
+ - [https://zostanspecka.pl](https://zostanspecka.pl)
+ - date_published: 2021-12-08T00:00:00+00:00
+
+ ## Producent urządzeń dla elektroenergetyki - ZPUE S.A.
+ - [http://zpue.pl](http://zpue.pl)
+ - date_published: 2024-07-14T05:35:59+00:00
+
+ ## Na Zrzutka.pl zbierzesz pieniądze na co chcesz - załóż własną zrzutkę | zrzutka.pl
+ - [https://zrzutka.pl](https://zrzutka.pl)
+ - date_published: 2023-12-04T17:43:38+00:00
+ - tags: ['crowdfunding']
+
+ ## Zespół Szkół Salezjańskich w Poznaniu im. Bł. Piątki Poznańskiej
+ - [https://zssp.pl](https://zssp.pl)
+ - date_published: 2024-10-26T14:19:13+00:00
+
+ ## Zespół Szkół Specjalnych w Piekarach Śląskich – Ucząc innych, sami się uczymy
+ - [http://www.zsspiekary.pl](http://www.zsspiekary.pl)
+ - date_published: 2024-07-08T19:01:35.056607+00:00
+
+ ## Projektowanie stron Warszawa - Zstudio
+ - [https://www.zstudio.pl](https://www.zstudio.pl)
+ - date_published: 2024-10-31T09:07:24.317310+00:00
+
+ ## Zasadnicza Szkoła Zawodowa w Czarnym Dunajcu
+ - [https://zszdunajec.pl](https://zszdunajec.pl)
+ - date_published: 2024-05-08T05:50:05+00:00
+
+ ## Strona główna - ZUS
+ - [https://www.zus.pl](https://www.zus.pl)
+ - date_published: 2024-07-14T05:27:28.675739+00:00
+
+ ## ZwiedzajLubelskie.pl - panoramy sferyczne i gigapanoramy województwa Lubelskiego
+ - [http://zwiedzajlubelskie.pl](http://zwiedzajlubelskie.pl)
+ - date_published: 2024-08-18T09:39:34.804654+00:00
+
+ ## Magazyn Zwierciadło - psychologia, kultura, uroda, moda, trendy
+ - [https://zwierciadlo.pl](https://zwierciadlo.pl)
+ - date_published: 2024-10-22T21:12:49.465183+00:00
+
+ ## zatrzymaj samobójstwo - Życie warte jest rozmowy
+ - [https://zwjr.pl](https://zwjr.pl)
+ - date_published: 2024-09-10T07:28:37.421498+00:00
+
+ ## zyciesiedleckie.pl
+ - [https://zyciesiedleckie.pl](https://zyciesiedleckie.pl)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Żywe trupy – Newsy, nowości ze świata zombie, żywych trupów.
+ - [http://www.zywetrupy.pl](http://www.zywetrupy.pl)
+ - date_published: 2024-06-28T19:50:05.342354+00:00
+
  ## Jakość z Natury • Żywiec Zdrój
  - [https://www.zywiec-zdroj.pl](https://www.zywiec-zdroj.pl)
  - date_published: 2024-07-14T05:28:49.593114+00:00
@@ -3656,364 +4024,4 @@
  ## Giro HC
  - [http://girohc.pt](http://girohc.pt)
  - date_published: 2024-09-05T15:19:21.927745+00:00
-
- ## Homepage
- - [https://global.pt](https://global.pt)
- - date_published: 2024-06-25T16:23:23.928340+00:00
-
- ## Welcome to Keycloak
- - [https://sso.globalnoticias.pt](https://sso.globalnoticias.pt)
- - date_published: 2024-07-12T21:24:19.914648+00:00
-
- ## GLS Portugal - Transport & Logistics
- - [https://www.gls-portugal.pt](https://www.gls-portugal.pt)
- - date_published: 2024-06-20T12:17:56.517857+00:00
-
- ## Gonçalo MB
- - [https://gmb.pt](https://gmb.pt)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## Golden Eagle | Smart Living in Nature
- - [https://goldeneagle.pt](https://goldeneagle.pt)
- - date_published: 2024-04-05T16:41:06+00:00
-
- ## Gomibo.pt - Todos os telemóveis e acessórios
- - [https://www.gomibo.pt](https://www.gomibo.pt)
- - date_published: 2024-10-21T22:25:37.124576+00:00
-
- ## Consultoria em Marketing Digital, SEO e Web Design • GOMO Digital (Portugal)
- - [https://www.gomo.pt](https://www.gomo.pt)
- - date_published: 2023-12-27T00:00:00+00:00
-
- ## Google
- - [https://google.pt](https://google.pt)
- - date_published: 2024-05-26T13:42:31.881937+00:00
-
- ## Grafika Google
- - [https://images.google.pt](https://images.google.pt)
- - date_published: 2024-07-20T07:39:56.520860+00:00
-
- ## governa.pt
- - [https://governa.pt](https://governa.pt)
- - date_published: 2023-04-08T14:54:08+00:00
-
- ## Goweb Agency - A sua agência digital
- - [https://gowebagency.pt](https://gowebagency.pt)
- - date_published: 2024-10-28T22:29:34+00:00
-
- ## Atualidade Moda Grooming Bon Vivant GQ TV MOTY
- - [https://gqportugal.pt](https://gqportugal.pt)
- - date_published: 2024-06-15T21:06:04.577812+00:00
-
- ## livraria online da editora gradiva
- - [http://www.gradiva.pt](http://www.gradiva.pt)
- - date_published: 2024-07-12T20:50:04.202484+00:00
-
- ## facebook-f icon
- - [https://conteudo.greatplacetowork.pt](https://conteudo.greatplacetowork.pt)
- - date_published: 2024-09-10T23:54:03.737194+00:00
-
- ## Autoridade global sobre a cultura do lugar de trabalho
- - [https://greatplacetowork.pt](https://greatplacetowork.pt)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Assinatura Multipublicações
- - [https://assinaturas.greensavers.pt](https://assinaturas.greensavers.pt)
- - date_published: 2024-09-05T15:27:46.656511+00:00
-
- ## Página inicial Grünenthal
- - [https://www.grunenthal.pt](https://www.grunenthal.pt)
- - date_published: 2024-10-16T18:48:43.468489+00:00
-
- ## Grupo BEL | Grupo Empresarial Português %
- - [https://grupobel.pt](https://grupobel.pt)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Grupo Sicosta
- - [http://www.gruposicosta.pt](http://www.gruposicosta.pt)
- - date_published: 2024-09-05T15:05:06.149948+00:00
-
- ## Melgaço Radical: Onde a Aventura Começa
- - [http://www.guimaraes-ed.pt](http://www.guimaraes-ed.pt)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Helena Vaz da Silva
- - [https://helenavazdasilva.pt](https://helenavazdasilva.pt)
- - date_published: 2024-08-18T11:27:58.208546+00:00
-
- ## Henkel
- - [https://www.henkel.pt](https://www.henkel.pt)
- - date_published: 2024-10-18T20:18:24.740859+00:00
-
- ## HenriCartoon
- - [https://henricartoon.pt](https://henricartoon.pt)
- - date_published: 2024-09-05T15:21:39.242266+00:00
-
- ## Ferramentas para profissionais da construção civil
- - [https://www.hilti.pt](https://www.hilti.pt)
- - date_published: 2024-06-20T07:26:04.950627+00:00
-
- ## Home
- - [https://www.hospitalvilafrancadexira.pt](https://www.hospitalvilafrancadexira.pt)
- - date_published: 2024-09-05T15:27:18.939402+00:00
-
- ## Web Hosting and domain name, from only for 1.99€ | Hostico
- - [https://hostico.pt](https://hostico.pt)
- - date_published: 2024-06-16T14:56:59.947803+00:00
-
- ## Faça login na Hostinger
- - [https://auth.hostinger.pt](https://auth.hostinger.pt)
- - date_published: 2024-07-13T16:43:41.906392+00:00
-
- ## Alojamento Web Feito Para Si - Fique Online com a Hostinger
- - [https://hostinger.pt](https://hostinger.pt)
- - date_published: 2024-05-11T07:50:38.927157+00:00
-
- ## Hostwinds: Soluções de hospedagem na web centradas no cliente
- - [https://www.hostwinds.pt](https://www.hostwinds.pt)
- - date_published: 2024-06-18T17:17:08+00:00
-
- ## Bem-vindo à Hotfrog
- - [https://www.hotfrog.pt](https://www.hotfrog.pt)
- - date_published: 2024-06-29T16:52:26.467965+00:00
-
- ## Bem-vindo ao site da Hyundai Portugal
- - [https://www.hyundai.pt](https://www.hyundai.pt)
- - date_published: 2024-10-20T21:34:04.497799+00:00
-
- ## iCalendário : Calendário online gratuito
- - [https://icalendario.pt](https://icalendario.pt)
- - date_published: 2024-07-11T22:10:17.901289+00:00
-
- ## i-charging
- - [https://i-charging.pt](https://i-charging.pt)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Ideias de Ler
- - [http://www.ideiasdeler.pt](http://www.ideiasdeler.pt)
- - date_published: 2024-07-12T20:48:28.972647+00:00
-
- ## TRAVESSEIRO DE CORPO COBRE IKEA,CAPAS DE ALMOFADAS DE CORPO,TRAVESSEIROS DE CORPO AMAZON,TRAVESSEIROS DE CORPO PARA DORMENTES LATERAIS
- - [http://www.ifl.pt](http://www.ifl.pt)
- - date_published: 2024-07-11T20:18:37.264307+00:00
-
- ## IG Electrodomésticos
- - [https://ig-electrodomesticos.pt](https://ig-electrodomesticos.pt)
- - date_published: 2024-09-05T15:05:43.349082+00:00
-
- ## igus® | Polímeros para qualquer tipo de movimento
- - [https://www.igus.pt](https://www.igus.pt)
- - date_published: 2024-08-06T23:12:12.873380+00:00
-
- ## Alojamento web | Servidor dedicado
- - [https://www.ikoula.pt](https://www.ikoula.pt)
- - date_published: 2024-07-07T05:18:34+00:00
-
- ## Inicio
- - [http://www.iledeoya.pt](http://www.iledeoya.pt)
- - date_published: 2024-07-16T17:30:52.487368+00:00
-
- ## Approved by locals
- - [https://sdistribution.impresa.pt](https://sdistribution.impresa.pt)
- - date_published: 2024-06-27T22:00:00+00:00
-
- ## Homepage
- - [https://www.impresa.pt](https://www.impresa.pt)
- - date_published: 2024-10-20T21:35:38.447006+00:00
-
- ## infor.media
- - [https://in4.pt](https://in4.pt)
- - date_published: 2024-09-05T14:58:04.332303+00:00
-
- ## Bem-vindos | INCM
- - [http://www.incm.pt](http://www.incm.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Statistics Portugal - Web Portal
- - [http://www.ine.pt](http://www.ine.pt)
- - date_published: 2024-07-12T20:31:35.456448+00:00
-
- ## ER 2023 – The 42nd International Conference on Conceptual Modeling. Nov. 6-9, 2023, Lisbon, Portugal
- - [https://er2023.inesc-id.pt](https://er2023.inesc-id.pt)
- - date_published: 2024-06-20T04:29:00.497979+00:00
-
- ## Distributed Systems Group
- - [https://www.gsd.inesc-id.pt](https://www.gsd.inesc-id.pt)
- - date_published: 2024-09-05T23:23:49.519557+00:00
-
- ## Home - Thematic Lines - INESC-ID
- - [https://www.inesc-id.pt](https://www.inesc-id.pt)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## INESC TEC
- - [https://www.inesctec.pt](https://www.inesctec.pt)
- - date_published: 2024-10-28T23:45:10.404281+00:00
-
- ## Infocasa - Líder na Informação Imobiliária
- - [https://infocasa.pt](https://infocasa.pt)
- - date_published: 2024-09-05T14:01:48.437319+00:00
-
- ## Home - Camões - Instituto da Cooperação e da Língua
- - [http://www.instituto-camoes.pt](http://www.instituto-camoes.pt)
- - date_published: 2024-07-12T20:49:02+00:00
-
- ## Cybersecurity | Internet Security Services for your Business
- - [https://integrity.pt](https://integrity.pt)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home | INTEGRITY Labs
- - [https://labs.integrity.pt](https://labs.integrity.pt)
- - date_published: 2024-04-11T10:31:57+00:00
-
- ## Cybersecurity | Internet Security Services for your Business
- - [https://videos.integrity.pt](https://videos.integrity.pt)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## CNN Portugal
- - [https://cnnportugal.iol.pt](https://cnnportugal.iol.pt)
- - date_published: 2024-09-05T15:41:56.542622+00:00
-
- ## TVI Notícias
- - [https://tvi24.iol.pt](https://tvi24.iol.pt)
- - date_published: 2024-09-13T10:35:07.354879+00:00
-
- ## TVI
- - [https://tvi.iol.pt](https://tvi.iol.pt)
- - date_published: 2024-09-13T10:35:16.353705+00:00
-
- ## Notícias de hoje - IOL
- - [http://www.iol.pt](http://www.iol.pt)
- - date_published: 2024-09-12T21:52:27.876327+00:00
-
- ## Maisfutebol
- - [http://www.maisfutebol.iol.pt](http://www.maisfutebol.iol.pt)
- - date_published: 2024-09-12T21:45:35.101294+00:00
-
- ## TVI Notícias
- - [http://www.portugaldiario.iol.pt](http://www.portugaldiario.iol.pt)
- - date_published: 2024-09-12T21:39:03.560530+00:00
-
- ## Instituto Politécnico de Coimbra – O Instituto Politécnico de Coimbra é uma instituição de ensino superior politécnico pública, sediada em Coimbra.
- - [https://www.ipc.pt](https://www.ipc.pt)
- - date_published: 2024-09-05T14:57:09.293086+00:00
-
- ## Instituto Politécnico de Castelo Branco
- - [https://www.ipcb.pt](https://www.ipcb.pt)
- - date_published: 2024-10-22T05:32:44.186430+00:00
-
- ## Home | Escola Superior de Comunicação Social
- - [https://escs.ipl.pt](https://escs.ipl.pt)
- - date_published: 2024-07-12T15:19:48+00:00
-
- ## Plataforma de E-Learning
- - [http://elearning.ipma.pt](http://elearning.ipma.pt)
- - date_published: 2024-08-07T22:48:01+00:00
-
- ## IPMA Escolas
- - [https://escolas.ipma.pt](https://escolas.ipma.pt)
- - date_published: 2024-04-09T00:00:00+00:00
-
- ## GelAvista - IPMA
- - [http://gelavista.ipma.pt](http://gelavista.ipma.pt)
- - date_published: 2024-08-07T22:48:21.744420+00:00
-
- ## Instituto Português do Mar e da Atmosfera
- - [https://ipma.pt](https://ipma.pt)
- - date_published: 2024-04-28T02:22:39.098512+00:00
-
- ## Observar - Instituto Português do Mar e da Atmosfera, I.P.
- - [https://observar.ipma.pt](https://observar.ipma.pt)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Instituto Portuguï¿½s do Mar e da Atmosfera
- - [http://pda.ipma.pt](http://pda.ipma.pt)
- - date_published: 2024-08-07T22:48:22.786400+00:00
-
- ## Portugal ShakeMap
- - [http://shakemap.ipma.pt](http://shakemap.ipma.pt)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Subscreva as listas de distribuição
- - [http://subscricoes.ipma.pt](http://subscricoes.ipma.pt)
- - date_published: 2024-08-07T22:47:57.589217+00:00
-
- ## Inquéritos IPMA
- - [https://survey.ipma.pt](https://survey.ipma.pt)
- - date_published: 2024-08-07T22:48:05+00:00
-
- ## Instituto Pedro Nunes
- - [https://www.ipn.pt](https://www.ipn.pt)
- - date_published: 2024-09-25T10:10:42.102779+00:00
-
- ## CISTER - Research Centre in Real-Time Computing & Embedded Computing Systems
- - [https://www.cister.isep.ipp.pt](https://www.cister.isep.ipp.pt)
- - date_published: 2024-06-21T19:12:01.259101+00:00
-
- ## P.PORTO | Ensino Superior Público
- - [https://www.ipp.pt](https://www.ipp.pt)
- - date_published: 2024-09-15T23:56:11.182098+00:00
-
- ## CBS | Coimbra Business School
- - [https://bs.iscac.pt](https://bs.iscac.pt)
- - date_published: 2024-07-02T23:34:20.054745+00:00
-
- ## Home
- - [https://cies.iscte.pt](https://cies.iscte.pt)
- - date_published: 2024-05-07T23:40:40.296153+00:00
-
- ## Home
- - [https://cies.iscte-iul.pt](https://cies.iscte-iul.pt)
- - date_published: 2024-07-02T22:36:09.107792+00:00
-
- ## IPPS-Iscte - Melhores Políticas Públicas
- - [http://ipps.iscte-iul.pt](http://ipps.iscte-iul.pt)
- - date_published: 2024-07-21T06:11:55+00:00
-
- ## iServices - Especialista em Reparações e Recondicionados
- - [https://iservices.pt](https://iservices.pt)
- - date_published: 2024-09-05T15:25:13.473356+00:00
-
- ## ISOC.PT - Repositório de documentação
- - [https://docs.isoc.pt](https://docs.isoc.pt)
- - date_published: 2023-12-23T19:55:54+00:00
-
- ## ISOC.PT - Internet
- - [https://isoc.isoc.pt](https://isoc.isoc.pt)
- - date_published: 2024-05-14T17:52:16+00:00
-
- ## ISOC.PT – Internet Society Portugal
- - [https://isoc.pt](https://isoc.pt)
- - date_published: 2024-05-06T23:55:57.568419+00:00
-
- ## ISOC.PT - Observatório da Internet Portuguesa
- - [https://observatory.isoc.pt](https://observatory.isoc.pt)
- - date_published: 2024-06-24T09:01:43+00:00
-
- ## Internet Society Portuguese Chapter - Scientific      Prize
- - [https://premio2024.isoc.pt](https://premio2024.isoc.pt)
- - date_published: 2024-05-19T17:38:32+00:00
-
- ## IT - website
- - [https://it.pt](https://it.pt)
- - date_published: 2024-08-07T13:24:17.588001+00:00
-
- ## LxMLS Lisbon Machine Learning School
- - [http://lxmls.it.pt](http://lxmls.it.pt)
- - date_published: 2024-03-25T19:27:08+00:00
-
- ## Networks 2014 - 16th International Telecommunications Network Strategy and Planning Symposium
- - [http://networks2014.av.it.pt](http://networks2014.av.it.pt)
- - date_published: 2014-09-21T14:55:15+00:00
-
- ## IT - Instituto de Telecomunicacoes
- - [http://www.lx.it.pt](http://www.lx.it.pt)
- - date_published: 2010-06-26T02:19:22+00:00
-
- ## IT Security - Para um Mundo Digital Mais Seguro
- - [https://www.itsecurity.pt](https://www.itsecurity.pt)
- - date_published: 2024-06-28T22:08:19.018065+00:00
-
- ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
- - [https://www.jack-wolfskin.pt](https://www.jack-wolfskin.pt)
- - date_published: 2024-07-14T12:16:01.561750+00:00
 

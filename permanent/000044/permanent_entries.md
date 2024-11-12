@@ -1,3 +1,11 @@
+ ## Apparent Software - Useful, friendly and unique software for Mac
+ - [https://www.apparentsoft.com](https://www.apparentsoft.com)
+ - date_published: 2024-10-14T15:52:17.108805+00:00
+
+ ## AppArmor
+ - [https://apparmor.com](https://apparmor.com)
+ - date_published: 2024-07-02T01:51:50.151168+00:00
+
  ## Dashboard: Florida International University
  - [https://fiu.apparmor.com](https://fiu.apparmor.com)
  - date_published: 2024-07-22T04:16:36.542798+00:00
@@ -4028,12 +4036,4 @@
  ## WNEM | News, Weather, Sports | Saginaw, MI
  - [https://gray-wnem-prod.cdn.arcpublishing.com](https://gray-wnem-prod.cdn.arcpublishing.com)
  - date_published: 2024-06-29T21:53:30+00:00
-
- ## Cleveland 19 News | WOIO | Cleveland, Ohio
- - [https://gray-woio-prod.cdn.arcpublishing.com](https://gray-woio-prod.cdn.arcpublishing.com)
- - date_published: 2024-05-08T05:34:53.644738+00:00
-
- ## WOWT | Nebraska Breaking News, Weather, Sports | Omaha, NE
- - [https://gray-wowt-prod.cdn.arcpublishing.com](https://gray-wowt-prod.cdn.arcpublishing.com)
- - date_published: 2024-05-07T16:12:30.388254+00:00
 

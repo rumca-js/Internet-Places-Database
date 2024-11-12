@@ -1,4 +1,28 @@
  ## Box | Login
+ - [https://duke.box.com](https://duke.box.com)
+ - date_published: 2024-09-04T19:37:52.634034+00:00
+
+ ## Box | Login
+ - [https://ent.box.com](https://ent.box.com)
+ - date_published: 2024-06-29T13:14:56.708933+00:00
+
+ ## Box | Login
+ - [https://eventbrite.app.box.com](https://eventbrite.app.box.com)
+ - date_published: 2024-07-15T10:17:58.737990+00:00
+
+ ## Box Events
+ - [https://events.box.com](https://events.box.com)
+ - date_published: 2024-09-26T20:49:52.214905+00:00
+
+ ## Box Developer Community
+ - [https://forum.box.com](https://forum.box.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Box | Login
+ - [https://freedphoto.app.box.com](https://freedphoto.app.box.com)
+ - date_published: 2024-08-11T23:05:08.662503+00:00
+
+ ## Box | Login
  - [https://georgetown.app.box.com](https://georgetown.app.box.com)
  - date_published: 2024-07-13T12:23:55.963376+00:00
 
@@ -4019,28 +4043,4 @@
  - [https://britannica.com](https://britannica.com)
  - date_published: 2023-10-25T13:31:42.757671+00:00
  - tags: ['encyclopedia']
-
- ## Britannica
- - [https://cam.britannica.com](https://cam.britannica.com)
- - date_published: 2024-05-08T03:46:00.870831+00:00
-
- ## Welcome to Britannica - Encyclopædia Britannica, Inc. Corporate Site
- - [https://corporate.britannica.com](https://corporate.britannica.com)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Britannica Kids
- - [https://kids.britannica.com](https://kids.britannica.com)
- - date_published: 2024-05-08T03:45:37.762969+00:00
-
- ## Britannica Memberships for the Whole Family
- - [https://premium.britannica.com](https://premium.britannica.com)
- - date_published: 2024-05-08T03:46:18.864948+00:00
-
- ## Subscription
- - [https://subscription.britannica.com](https://subscription.britannica.com)
- - date_published: 2024-05-08T03:46:23.372228+00:00
-
- ## Britannica Education
- - [https://britannicaeducation.com](https://britannicaeducation.com)
- - date_published: 2024-05-21T00:00:00+00:00
 

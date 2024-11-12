@@ -1,3 +1,7 @@
+ ## Lausanne musées
+ - [https://lausanne-musees.ch](https://lausanne-musees.ch)
+ - date_published: 2024-04-30T06:00:05.364221+00:00
+
  ## Loading...
  - [https://api.lausannemusees.ch](https://api.lausannemusees.ch)
  - date_published: 2023-12-19T09:34:59+00:00
@@ -4013,8 +4017,4 @@ Fakultät | Universität Basel
  ## ASTARA | Alfa Romeo CH
  - [https://www.webstore-alfaromeo.ch](https://www.webstore-alfaromeo.ch)
  - date_published: 2024-10-28T22:15:53.529705+00:00
-
- ## ASTARA | Fiat Switzerland
- - [https://www.webstore-fiat.ch](https://www.webstore-fiat.ch)
- - date_published: 2024-10-28T19:36:51.656917+00:00
 

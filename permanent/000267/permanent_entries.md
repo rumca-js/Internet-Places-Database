@@ -1,3 +1,268 @@
+ ## Home | College of Letters & Science
+ - [https://college.ucsb.edu](https://college.ucsb.edu)
+ - date_published: 2024-05-07T20:58:45.475138+00:00
+
+ ## COMMA – Center for Modern Literature, Materialism and Aesthetics
+ - [http://comma.english.ucsb.edu](http://comma.english.ucsb.edu)
+ - date_published: 2023-05-26T23:21:40+00:00
+
+ ## Home | Conference & Hospitality Services
+ - [https://conferences.ucsb.edu](https://conferences.ucsb.edu)
+ - date_published: 2024-09-14T10:15:05.575129+00:00
+
+ ## Home | Undergraduate Admissions
+ - [https://connect.admissions.ucsb.edu](https://connect.admissions.ucsb.edu)
+ - date_published: 2024-09-13T15:46:33+00:00
+
+ ## Home | UCSB Computer Science
+ - [http://cs.ucsb.edu](http://cs.ucsb.edu)
+ - date_published: 2024-06-27T13:57:03.759938+00:00
+
+ ## Data Science Initiative - UC Santa Barbara
+ - [https://datascience.ucsb.edu](https://datascience.ucsb.edu)
+ - date_published: 2024-07-01T22:51:19+00:00
+
+ ## Home | Institutional Advancement
+ - [https://dia.ucsb.edu](https://dia.ucsb.edu)
+ - date_published: 2024-05-07T20:58:40.757409+00:00
+
+ ## Home | UCSB Dining
+ - [https://dining.ucsb.edu](https://dining.ucsb.edu)
+ - date_published: 2024-09-14T10:15:03.945604+00:00
+
+ ## Home | Disabled Students Program
+ - [https://dsp.sa.ucsb.edu](https://dsp.sa.ucsb.edu)
+ - date_published: 2024-09-11T23:37:41+00:00
+
+ ## Division of Undergraduate Education - UC Santa Barbara
+ - [https://duels.ucsb.edu](https://duels.ucsb.edu)
+ - date_published: 2024-07-01T23:50:57+00:00
+
+ ## UCSB English Broadside Ballad Archive
+ - [http://ebba.english.ucsb.edu](http://ebba.english.ucsb.edu)
+ - date_published: 2024-08-08T03:29:14.437622+00:00
+
+ ## Expressive Computation Lab
+ - [https://ecl.mat.ucsb.edu](https://ecl.mat.ucsb.edu)
+ - date_published: 2024-04-27T19:34:55+00:00
+
+ ## Home | The Gevirtz School (GGSE) - UC Santa Barbara
+ - [https://education.ucsb.edu](https://education.ucsb.edu)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Log In - UCSB Authentication Service
+ - [https://egrades.sa.ucsb.edu](https://egrades.sa.ucsb.edu)
+ - date_published: 2024-09-14T10:16:49.261430+00:00
+
+ ## The Early Modern Center – Department of English, University of California at Santa Barbara
+ - [http://emc.english.ucsb.edu](http://emc.english.ucsb.edu)
+ - date_published: 2024-07-01T23:41:22.057880+00:00
+
+ ## Home | Emergency Management & Mission Continuity
+ - [http://emergency.ucsb.edu](http://emergency.ucsb.edu)
+ - date_published: 2024-09-11T03:56:37+00:00
+
+ ## College of Engineering - UC Santa Barbara
+ - [https://engineering.ucsb.edu](https://engineering.ucsb.edu)
+ - date_published: 2024-06-13T23:55:26+00:00
+
+ ## UCSB English Department
+ - [https://english.ucsb.edu](https://english.ucsb.edu)
+ - date_published: 2024-05-07T20:58:11.492113+00:00
+
+ ## University of California at Santa Barbara Extension a leader in continuing education, special programs, professional training, and certificate and award programs. Earning a certificate or award through UCSB Extension will give you personal enrichment and a competitive edge in your current job or help you move into a new career.
+ - [https://enroll.professional.ucsb.edu](https://enroll.professional.ucsb.edu)
+ - date_published: 2024-09-14T10:15:17.754563+00:00
+
+ ## Literature and the Environment – A Research Center at UCSB Department of English
+ - [http://environment.english.ucsb.edu](http://environment.english.ucsb.edu)
+ - date_published: 2024-07-01T23:41:25.343952+00:00
+
+ ## UCSB Professional and Continuing Education
+ - [https://extension.ucsb.edu](https://extension.ucsb.edu)
+ - date_published: 2024-06-14T14:39:37.464428+00:00
+
+ ## Home | Basic Needs
+ - [https://food.ucsb.edu](https://food.ucsb.edu)
+ - date_published: 2024-09-06T22:51:43+00:00
+
+ ## Giving to the University of California, Santa Barbara
+ - [https://giving.ucsb.edu](https://giving.ucsb.edu)
+ - date_published: 2024-05-07T20:58:47.966068+00:00
+
+ ## Home | UCSB Global Engagement
+ - [https://globalengagement.ucsb.edu](https://globalengagement.ucsb.edu)
+ - date_published: 2024-09-14T10:11:05.424365+00:00
+
+ ## Home | Global Latinidades
+ - [https://globallatinidades.ucsb.edu](https://globallatinidades.ucsb.edu)
+ - date_published: 2024-07-01T23:41:23.869734+00:00
+
+ ## Home | Graduate Division
+ - [https://graddiv.ucsb.edu](https://graddiv.ucsb.edu)
+ - date_published: 2024-06-12T23:43:23+00:00
+
+ ## Sign In
+ - [https://gradpoint.ucsb.edu](https://gradpoint.ucsb.edu)
+ - date_published: 2024-09-14T10:16:46.344155+00:00
+
+ ## Home | Grad Slam
+ - [https://gradslam.ucsb.edu](https://gradslam.ucsb.edu)
+ - date_published: 2024-08-29T05:33:03+00:00
+
+ ## Hai Lab UCSB
+ - [https://hai.chem.ucsb.edu](https://hai.chem.ucsb.edu)
+ - date_published: 2024-10-19T08:20:24.774717+00:00
+
+ ## Home | Housing, Dining & Auxiliary Enterprises
+ - [https://hdae.ucsb.edu](https://hdae.ucsb.edu)
+ - date_published: 2024-09-14T10:14:57.284045+00:00
+
+ ## Help Center | UCSB Professional and Continuing Education Help Center
+ - [https://help.professional.ucsb.edu](https://help.professional.ucsb.edu)
+ - date_published: 2024-09-10T22:40:32+00:00
+
+ ## Hemispheric South/s – University of California Santa Barbara
+ - [http://hemsouths.english.ucsb.edu](http://hemsouths.english.ucsb.edu)
+ - date_published: 2024-07-01T23:47:13.886733+00:00
+
+ ## UCSB High Energy Physics Home Page
+ - [http://hep.ucsb.edu](http://hep.ucsb.edu)
+ - date_published: 2022-06-29T17:11:05+00:00
+
+ ## Home | Campus Housing
+ - [https://housing.ucsb.edu](https://housing.ucsb.edu)
+ - date_published: 2024-06-14T14:39:34.554272+00:00
+
+ ## Untitled Document
+ - [https://hpca2018.ece.ucsb.edu](https://hpca2018.ece.ucsb.edu)
+ - date_published: 2020-10-07T01:23:01+00:00
+
+ ## Home | Four Eyes Lab
+ - [https://ilab.cs.ucsb.edu](https://ilab.cs.ucsb.edu)
+ - date_published: 2023-04-15T22:08:38+00:00
+
+ ## Home | UC Santa Barbara | Residential Network (ResNet)
+ - [https://info.resnet.ucsb.edu](https://info.resnet.ucsb.edu)
+ - date_published: 2024-09-14T10:14:53.474171+00:00
+
+ ## Home | UCSB Innovation + Entrepreneurship
+ - [https://innovation.ucsb.edu](https://innovation.ucsb.edu)
+ - date_published: 2024-08-29T23:19:10+00:00
+
+ ## LibCal -
+        University of California, Santa Barbara
+ - [https://libcal.library.ucsb.edu](https://libcal.library.ucsb.edu)
+ - date_published: 2024-09-14T10:13:58.510433+00:00
+
+ ## UCSB Library
+ - [https://library.ucsb.edu](https://library.ucsb.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## lists.cs.ucsb.edu Mailing Lists
+ - [https://lists.cs.ucsb.edu](https://lists.cs.ucsb.edu)
+ - date_published: 2024-06-27T13:57:05.595609+00:00
+
+ ## Alan Liu
+ - [https://liu.english.ucsb.edu](https://liu.english.ucsb.edu)
+ - date_published: 2024-07-01T23:48:54.660957+00:00
+
+ ## Home | Ludkovski
+ - [https://ludkovski.pstat.ucsb.edu](https://ludkovski.pstat.ucsb.edu)
+ - date_published: 2000-01-01T00:00:00+00:00
+
+ ## Fall/Winter 2023 Home
+ - [https://magazine.ucsb.edu](https://magazine.ucsb.edu)
+ - date_published: 2024-05-07T20:58:41.991720+00:00
+
+ ## UC Santa Barbara Campus Map
+ - [https://maps.ucsb.edu](https://maps.ucsb.edu)
+ - date_published: 2024-06-14T14:39:06.348042+00:00
+
+ ## UC Santa Barbara Campus Map
+ - [https://map.ucsb.edu](https://map.ucsb.edu)
+ - date_published: 2024-06-14T14:39:08.512610+00:00
+
+ ## Materials - UC Santa Barbara
+ - [https://materials.ucsb.edu](https://materials.ucsb.edu)
+ - date_published: 2024-09-13T19:44:05+00:00
+
+ ## Home | UCSB Multicultural Center
+ - [https://mcc.sa.ucsb.edu](https://mcc.sa.ucsb.edu)
+ - date_published: 2024-09-14T10:12:35.511635+00:00
+
+ ## McNair Scholars Program - UC Santa Barbara
+ - [https://mcnair.ucsb.edu](https://mcnair.ucsb.edu)
+ - date_published: 2024-02-08T22:06:39.602435+00:00
+
+ ## Medieval Literatures | Medieval Literature Scholars of the English Department at UC Santa Barbara
+ - [http://medieval.english.ucsb.edu](http://medieval.english.ucsb.edu)
+ - date_published: 2024-07-01T23:47:06.275692+00:00
+
+ ## Mechanical Engineering - UC Santa Barbara
+ - [https://me.ucsb.edu](https://me.ucsb.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## LITERATURE AND MIND
+ - [http://mind.english.ucsb.edu](http://mind.english.ucsb.edu)
+ - date_published: 2024-07-01T23:47:07.727847+00:00
+
+ ## Home | Mind and Machine Intelligence | UC Santa Barbara
+ - [https://mind-machine.ucsb.edu](https://mind-machine.ucsb.edu)
+ - date_published: 2024-07-01T23:48:58.343024+00:00
+
+ ## Home | UCSB Marine Science Institute
+ - [https://msi.ucsb.edu](https://msi.ucsb.edu)
+ - date_published: 2024-10-19T08:20:50.498018+00:00
+
+ ## Insert title here
+ - [https://mybarc.ucsb.edu](https://mybarc.ucsb.edu)
+ - date_published: 2024-09-14T10:17:17.712866+00:00
+
+ ## Login
+ - [https://myclas.sa.ucsb.edu](https://myclas.sa.ucsb.edu)
+ - date_published: 2024-09-14T10:16:40.981902+00:00
+
+ ## MyUCSB Start Page
+ - [https://my.sa.ucsb.edu](https://my.sa.ucsb.edu)
+ - date_published: 2024-06-14T14:39:40.224233+00:00
+
+ ## UC Santa Barbara News & Events | The Current
+ - [https://news.ucsb.edu](https://news.ucsb.edu)
+ - date_published: 2023-10-25T19:00:57.283089+00:00
+
+ ## Home | Non-Traditional Student Resource Center
+ - [https://nontrad.sa.ucsb.edu](https://nontrad.sa.ucsb.edu)
+ - date_published: 2024-08-29T00:21:21+00:00
+
+ ## Home | UCSB Office Of International Students & Scholars
+ - [https://oiss.ucsb.edu](https://oiss.ucsb.edu)
+ - date_published: 2024-09-06T22:39:20+00:00
+
+ ## KITP Online Talks: Conferences, Lectures and Seminars
+ - [http://online.itp.ucsb.edu](http://online.itp.ucsb.edu)
+ - date_published: 2024-07-21T22:12:14.387870+00:00
+
+ ## KITP Online Talks: Conferences, Lectures and Seminars
+ - [http://online.kitp.ucsb.edu](http://online.kitp.ucsb.edu)
+ - date_published: 2024-07-01T14:46:18.776278+00:00
+
+ ## ORahs 2.0: 	Login
+ - [https://orahs.research.ucsb.edu](https://orahs.research.ucsb.edu)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Login (ver:1.1.1.37)
+ - [https://orams.research.ucsb.edu](https://orams.research.ucsb.edu)
+ - date_published: 2024-09-14T10:10:51.754864+00:00
+
+ ## Log In - UCSB Authentication Service
+ - [https://orbit.research.ucsb.edu](https://orbit.research.ucsb.edu)
+ - date_published: 2024-09-14T10:10:59.239868+00:00
+
+ ## Home Page - ORCOI
+ - [https://orcoi.research.ucsb.edu](https://orcoi.research.ucsb.edu)
+ - date_published: 2024-09-14T10:11:03.766244+00:00
+
  ## Home | Orientation Programs and Parent Services
  - [http://orientation.sa.ucsb.edu](http://orientation.sa.ucsb.edu)
  - date_published: 2024-09-07T15:37:22+00:00
@@ -3737,269 +4002,4 @@
  ## UH Libraries News |  University of Houston Libraries
  - [https://weblogs.lib.uh.edu](https://weblogs.lib.uh.edu)
  - date_published: 2024-06-24T00:00:00+00:00
-
- ## TIMES – Texas Institute for Measurement, Evaluation, and Statistics
- - [http://www2.times.uh.edu](http://www2.times.uh.edu)
- - date_published: 2024-07-02T02:36:51.282613+00:00
-
- ## UH Department of Biomedical Engineering
- - [https://www.bme.uh.edu](https://www.bme.uh.edu)
- - date_published: 2024-07-02T02:36:25.937267+00:00
-
- ## William A. Brookshire Department of Chemical and Biomolecular Engineering
- - [https://www.chee.uh.edu](https://www.chee.uh.edu)
- - date_published: 2024-07-02T02:36:14.788811+00:00
-
- ## UH Department of Civil and Environmental Engineering
- - [https://www.cive.uh.edu](https://www.cive.uh.edu)
- - date_published: 2024-07-02T02:36:22.625898+00:00
-
- ## College of Liberal Arts and Social Sciences
- - [http://www.class.uh.edu](http://www.class.uh.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## UH Department of Electrical and Computer Engineering
- - [https://www.ece.uh.edu](https://www.ece.uh.edu)
- - date_published: 2024-07-02T02:36:11.381475+00:00
-
- ## UH Department of Industrial Engineering
- - [https://www.ie.uh.edu](https://www.ie.uh.edu)
- - date_published: 2024-07-02T02:36:05.332139+00:00
-
- ## UH Department of Mechanical and Aerospace Engineering
- - [https://www.me.uh.edu](https://www.me.uh.edu)
- - date_published: 2024-07-02T02:35:56.185671+00:00
-
- ## Home - College of Optometry
- - [https://www.opt.uh.edu](https://www.opt.uh.edu)
- - date_published: 2010-12-14T00:00:00+00:00
-
- ## UH Department of Petroleum Engineering
- - [https://www.petro.uh.edu](https://www.petro.uh.edu)
- - date_published: 2024-07-02T02:36:09.253450+00:00
-
- ## Small Business Consulting in Houston | Southeast Texas UH SBDC
- - [https://www.sbdc.uh.edu](https://www.sbdc.uh.edu)
- - date_published: 2024-07-02T02:34:28.838289+00:00
-
- ## University of Houston - University of Houston System
- - [https://uhsystem.edu](https://uhsystem.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## African American Academic Network | University of Illinois Chicago
- - [https://aaan.uic.edu](https://aaan.uic.edu)
- - date_published: 2024-07-02T02:48:30.916234+00:00
-
- ## Asian American Resource and Cultural Center | University of Illinois Chicago
- - [https://aarcc.uic.edu](https://aarcc.uic.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Asian American Student Academic Program | University of Illinois Chicago
- - [https://aasap.uic.edu](https://aasap.uic.edu)
- - date_published: 2024-07-02T02:47:18.577158+00:00
-
- ## Digital Accessibility | Information Technology | University of Illinois Chicago
- - [http://accessweb.uic.edu](http://accessweb.uic.edu)
- - date_published: 2024-07-02T02:41:07.041802+00:00
-
- ## Academic Center for Excellence | University of Illinois Chicago
- - [https://ace.uic.edu](https://ace.uic.edu)
- - date_published: 2024-07-02T02:48:27.617920+00:00
-
- ## UIC Admissions |
- - [http://admissions.uic.edu](http://admissions.uic.edu)
- - date_published: 2024-07-02T02:37:55.791724+00:00
-
- ## Office for Advising Development | University of Illinois Chicago
- - [https://advising.uic.edu](https://advising.uic.edu)
- - date_published: 2024-07-02T02:49:11.888875+00:00
-
- ## College of Applied Health Sciences | University of Illinois at Chicago
- - [https://ahs.uic.edu](https://ahs.uic.edu)
- - date_published: 2024-05-04T12:30:31.024816+00:00
-
- ## Arab American Cultural Center Splash Page | University of Illinois Chicago
- - [https://arabamcc.uic.edu](https://arabamcc.uic.edu)
- - date_published: 2024-07-02T02:47:47.664737+00:00
-
- ## Help Center - Help Center
- - [https://ask.library.uic.edu](https://ask.library.uic.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Black Cultural Center | University of Illinois Chicago
- - [https://blacc.uic.edu](https://blacc.uic.edu)
- - date_published: 2024-07-02T02:46:29.462025+00:00
-
- ## Budget and Financial Analysis | University of Illinois Chicago
- - [https://budget.uic.edu](https://budget.uic.edu)
- - date_published: 2024-06-30T02:12:43.257163+00:00
-
- ## Campus Advocacy Network | University of Illinois Chicago
- - [https://can.uic.edu](https://can.uic.edu)
- - date_published: 2024-07-02T02:47:07.130214+00:00
-
- ## Career Services | University of Illinois Chicago
- - [http://careerservices.uic.edu](http://careerservices.uic.edu)
- - date_published: 2024-07-02T02:38:12.358585+00:00
-
- ## Campus Auxiliary Services | University of Illinois Chicago
- - [http://cas.uic.edu](http://cas.uic.edu)
- - date_published: 2024-07-02T02:38:09.385229+00:00
-
- ## University of Illinois Chicago < University of Illinois Chicago
- - [https://catalog.uic.edu](https://catalog.uic.edu)
- - date_published: 2024-05-07T21:14:42.882549+00:00
-
- ## Chancellor’s Committee on the Status of Persons with Disabilities | University of Illinois Chicago
- - [https://ccspd.uic.edu](https://ccspd.uic.edu)
- - date_published: 2024-07-02T02:40:32.224240+00:00
-
- ## CHANCE Program | University of Illinois Chicago
- - [https://chance.uic.edu](https://chance.uic.edu)
- - date_published: 2024-07-02T02:48:21.950427+00:00
-
- ## Chemistry | University of Illinois Chicago
- - [http://chem.uic.edu](http://chem.uic.edu)
- - date_published: 2024-10-19T04:48:07.354045+00:00
-
- ## College of Medicine Chicago | University of Illinois College of Medicine
- - [https://chicago.medicine.uic.edu](https://chicago.medicine.uic.edu)
- - date_published: 2024-07-02T02:46:40.655361+00:00
-
- ## Children's Center | University of Illinois Chicago
- - [https://childrenscenter.uic.edu](https://childrenscenter.uic.edu)
- - date_published: 2024-07-02T02:46:44.364985+00:00
-
- ## UIC Applied Health Sciences – College of Applied Health Sciences at University of Illinois-Chicago
- - [https://cms.ahs.uic.edu](https://cms.ahs.uic.edu)
- - date_published: 2024-06-21T13:03:03.013434+00:00
-
- ## Counseling Center | University of Illinois Chicago
- - [https://counseling.uic.edu](https://counseling.uic.edu)
- - date_published: 2024-07-02T02:38:35.176040+00:00
-
- ## MSCS Courses | University of Illinois Chicago
- - [https://courses.mscs.uic.edu](https://courses.mscs.uic.edu)
- - date_published: 2024-07-15T11:29:54.836164+00:00
-
- ## Commuter and Off‑Campus Life | University of Illinois Chicago
- - [https://csrc.uic.edu](https://csrc.uic.edu)
- - date_published: 2024-07-02T02:48:04.770693+00:00
-
- ## Disability Cultural Center | University of Illinois Chicago
- - [http://dcc.uic.edu](http://dcc.uic.edu)
- - date_published: 2024-07-02T02:41:23.220616+00:00
-
- ## College of Dentistry | University of Illinois Chicago
- - [https://dentistry.uic.edu](https://dentistry.uic.edu)
- - date_published: 2024-07-02T02:39:27.213205+00:00
-
- ## Dining Services | University of Illinois Chicago
- - [https://dining.uic.edu](https://dining.uic.edu)
- - date_published: 2024-07-02T02:46:32.599610+00:00
-
- ## Disability Resources | University of Illinois Chicago
- - [https://disabilityresources.uic.edu](https://disabilityresources.uic.edu)
- - date_published: 2024-05-07T21:15:07.158529+00:00
-
- ## Office of Diversity, Equity & Engagement | University of Illinois Chicago
- - [https://diversity.uic.edu](https://diversity.uic.edu)
- - date_published: 2024-07-02T02:47:38.681094+00:00
- - tags: ['dei']
-
- ## Office of the Dean of Students | University of Illinois Chicago
- - [https://dos.uic.edu](https://dos.uic.edu)
- - date_published: 2024-05-07T21:14:46.387096+00:00
-
- ## Disability Resource Center | University of Illinois Chicago
- - [http://drc.uic.edu](http://drc.uic.edu)
- - date_published: 2024-07-02T02:41:08.695374+00:00
-
- ## Home - UIC Specialized Care for Children
- - [https://dscc.uic.edu](https://dscc.uic.edu)
- - date_published: 2024-07-02T02:41:13.415664+00:00
-
- ## Environmental Health and Safety | University of Illinois Chicago
- - [https://ehso.uic.edu](https://ehso.uic.edu)
- - date_published: 2024-07-02T02:48:38.997305+00:00
-
- ## Emergency Communications
- - [https://emergency.uic.edu](https://emergency.uic.edu)
- - date_published: 2024-05-07T21:15:02.826770+00:00
-
- ## Citrix Gateway
- - [https://employee.hospital.uic.edu](https://employee.hospital.uic.edu)
- - date_published: 2024-06-26T04:00:01+00:00
-
- ## Equity and Inclusion in Engineering Program | University of Illinois Chicago
- - [https://engineeringequity.uic.edu](https://engineeringequity.uic.edu)
- - date_published: 2024-07-02T02:47:34.535058+00:00
-
- ## Events | UIC today
- - [https://events.uic.edu](https://events.uic.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## UIC today
- - [http://falconcam.uic.edu](http://falconcam.uic.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Sign in to your account
- - [https://fimmanager.vcas.uic.edu](https://fimmanager.vcas.uic.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [http://fimweb.fim.uic.edu](http://fimweb.fim.uic.edu)
- - date_published: 2024-07-02T02:41:16.142272+00:00
-
- ## Student Financial Aid and Scholarships | University of Illinois Chicago
- - [https://financialaid.uic.edu](https://financialaid.uic.edu)
- - date_published: 2024-07-02T02:47:50.561032+00:00
-
- ## Isadore and Sadie Dorin Forum | University of Illinois Chicago
- - [https://forum.uic.edu](https://forum.uic.edu)
- - date_published: 2024-07-02T02:49:06.621371+00:00
-
- ## LAS Giving | University of Illinois Chicago
- - [https://give.las.uic.edu](https://give.las.uic.edu)
- - date_published: 2024-07-15T11:29:51.019162+00:00
-
- ## Global Asian Studies | University of Illinois Chicago
- - [https://glas.uic.edu](https://glas.uic.edu)
- - date_published: 2024-07-02T02:47:54.430704+00:00
-
- ## UIC GoTime
- - [https://gotime.uic.edu](https://gotime.uic.edu)
- - date_published: 2024-06-10T18:13:46+00:00
-
- ## Webtools | Short URLs
- - [https://go.uic.edu](https://go.uic.edu)
- - date_published: 2019-05-08T16:06:02+00:00
-
- ## Greenhouse | University of Illinois Chicago
- - [https://greenhouse.bios.uic.edu](https://greenhouse.bios.uic.edu)
- - date_published: 2024-07-02T02:47:04.466768+00:00
-
- ## UIC Heritage Garden
- - [https://heritagegarden.uic.edu](https://heritagegarden.uic.edu)
- - date_published: 2024-07-02T02:46:45.597281+00:00
-
- ## homepages.math.uic.edu
- - [http://homepages.math.uic.edu](http://homepages.math.uic.edu)
- - date_published: 2018-02-15T19:03:35+00:00
-
- ## Honors College | University of Illinois Chicago
- - [http://honors.uic.edu](http://honors.uic.edu)
- - date_published: 2024-07-02T02:48:34.440506+00:00
-
- ## Campus Housing | University of Illinois Chicago
- - [https://housing.uic.edu](https://housing.uic.edu)
- - date_published: 2024-07-02T02:46:38.354182+00:00
-
- ## ID Center | University of Illinois Chicago
- - [https://idcenter.uic.edu](https://idcenter.uic.edu)
- - date_published: 2024-07-02T02:48:17.210068+00:00
-
- ## IDHD | University of Illinois Chicago
- - [https://idhd.ahs.uic.edu](https://idhd.ahs.uic.edu)
- - date_published: 2024-07-02T02:40:31.017606+00:00
 

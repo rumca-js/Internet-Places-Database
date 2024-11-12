@@ -1,3 +1,251 @@
+ ## Age of Revolutions
+ - [https://ageofrevolutionsdotcom.wordpress.com](https://ageofrevolutionsdotcom.wordpress.com)
+ - date_published: 2024-05-01T02:40:36.990877+00:00
+
+ ## Age Of Sail
+ - [http://ageofsail.wordpress.com](http://ageofsail.wordpress.com)
+ - date_published: 2024-09-07T00:00:00+00:00
+
+ ## agilekeys
+ - [http://agilekeys.wordpress.com](http://agilekeys.wordpress.com)
+ - date_published: 2024-07-29T00:00:00+00:00
+
+ ## Adam Litke
+ - [https://aglitke.wordpress.com](https://aglitke.wordpress.com)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## A Good Stopping Point
+ - [http://agoodstoppingpoint.wordpress.com](http://agoodstoppingpoint.wordpress.com)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Turing's Invisible Hand
+ - [https://agtb.wordpress.com](https://agtb.wordpress.com)
+ - date_published: 2024-05-07T16:16:04.993575+00:00
+
+ ## AGW Observer
+ - [https://agwobserver.wordpress.com](https://agwobserver.wordpress.com)
+ - date_published: 2024-05-07T14:59:23.828217+00:00
+
+ ## Aharoni in Unicode
+ - [https://aharoni.wordpress.com](https://aharoni.wordpress.com)
+ - date_published: 2024-06-26T12:11:41+00:00
+
+ ## ahcravo gorim Blog
+ - [http://ahcravo.wordpress.com](http://ahcravo.wordpress.com)
+ - date_published: 2024-07-12T21:02:54.899298+00:00
+
+ ## AhDinnaeKen
+ - [http://ahdinnaeken.wordpress.com](http://ahdinnaeken.wordpress.com)
+ - date_published: 2024-10-21T15:53:27.566554+00:00
+
+ ## Theories and Theorems
+ - [https://ahilado.wordpress.com](https://ahilado.wordpress.com)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Ahmnodt Heare for President
+ - [http://ahmnodtheare.wordpress.com](http://ahmnodtheare.wordpress.com)
+ - date_published: 2024-06-27T06:47:35.578135+00:00
+
+ ## Retroactive Fiction
+ - [https://ahopeful.wordpress.com](https://ahopeful.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## a hot cup of pleasure
+ - [https://ahotcupofpleasureagain.wordpress.com](https://ahotcupofpleasureagain.wordpress.com)
+ - date_published: 2024-09-17T17:07:35.113516+00:00
+
+ ## matjjin-nehen
+ - [http://aidhoss.wordpress.com](http://aidhoss.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## AI Ethics
+ - [https://aiethicscom.wordpress.com](https://aiethicscom.wordpress.com)
+ - date_published: 2024-06-16T21:49:28+00:00
+
+ ## On Machine Intelligence
+ - [http://aimatters.wordpress.com](http://aimatters.wordpress.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Private Site
+ - [http://aimeecorrigan.wordpress.com](http://aimeecorrigan.wordpress.com)
+ - date_published: 2024-06-20T03:53:16.576545+00:00
+
+ ## Me n My Programming
+ - [https://ainamosi.wordpress.com](https://ainamosi.wordpress.com)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Airship Ambassador
+ - [http://airshipambassador.wordpress.com](http://airshipambassador.wordpress.com)
+ - date_published: 2024-08-19T22:01:45.905389+00:00
+
+ ## airwar19141918
+ - [http://airwar19141918.wordpress.com](http://airwar19141918.wordpress.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## AI Thought
+ - [https://aithoughtcom.wordpress.com](https://aithoughtcom.wordpress.com)
+ - date_published: 2024-05-01T02:55:19.865157+00:00
+
+ ## aitype from singapore
+ - [https://aitype.wordpress.com](https://aitype.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Yada yada yada
+ - [http://ajaysingh.wordpress.com](http://ajaysingh.wordpress.com)
+ - date_published: 2024-10-19T07:27:44.509860+00:00
+
+ ## gallerytester
+ - [http://ajfaraday.wordpress.com](http://ajfaraday.wordpress.com)
+ - date_published: 2024-07-18T04:42:20.076591+00:00
+
+ ## ajmarciniak
+ - [https://ajmarciniak.wordpress.com](https://ajmarciniak.wordpress.com)
+ - date_published: 2024-06-30T04:57:05.379199+00:00
+
+ ## Akismet
+ - [https://akismet455732288.wordpress.com](https://akismet455732288.wordpress.com)
+ - date_published: 2024-05-01T02:58:08.811000+00:00
+
+ ## Akki's Workbook
+ - [https://akkidevblog.wordpress.com](https://akkidevblog.wordpress.com)
+ - date_published: 2024-07-07T06:06:51.918367+00:00
+
+ ## Andrzej's C++ blog
+ - [https://akrzemi1.wordpress.com](https://akrzemi1.wordpress.com)
+ - date_published: 2024-05-10T05:33:38.919363+00:00
+
+ ## MiniAvocados
+ - [https://akshobby.wordpress.com](https://akshobby.wordpress.com)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Daily Life with Asperger's
+ - [http://akutil86.wordpress.com](http://akutil86.wordpress.com)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Hydrobates
+ - [https://alanrendall.wordpress.com](https://alanrendall.wordpress.com)
+ - date_published: 2024-05-07T15:48:47.112505+00:00
+
+ ## AlansLGBTautsimsite
+ - [https://alanslgbtautismsite634285482.wordpress.com](https://alanslgbtautismsite634285482.wordpress.com)
+ - date_published: 2024-09-03T22:55:58.983883+00:00
+
+ ## Private Site
+ - [http://alaphiladelphia.wordpress.com](http://alaphiladelphia.wordpress.com)
+ - date_published: 2024-06-28T13:45:31.139186+00:00
+
+ ## Poli-ticks
+ - [http://alaskamac.wordpress.com](http://alaskamac.wordpress.com)
+ - date_published: 2024-06-27T09:45:05.137854+00:00
+
+ ## Alastair's Adversaria
+ - [http://alastairadversaria.wordpress.com](http://alastairadversaria.wordpress.com)
+ - date_published: 2024-06-22T13:52:12.173124+00:00
+
+ ## Aleklett's Energy Mix
+ - [http://aleklett.wordpress.com](http://aleklett.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Além da Torre de Observação 2
+ - [https://alemdatorredeobservacao.wordpress.com](https://alemdatorredeobservacao.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## The Aleph One Plex
+ - [https://alephoneplex.wordpress.com](https://alephoneplex.wordpress.com)
+ - date_published: 2024-07-21T02:21:27+00:00
+
+ ## Aletho News
+ - [https://alethonews.wordpress.com](https://alethonews.wordpress.com)
+ - date_published: 2024-05-01T03:03:12.326481+00:00
+
+ ## The Searchers
+ - [https://alexcomber.wordpress.com](https://alexcomber.wordpress.com)
+ - date_published: 2024-06-21T09:43:47.916102+00:00
+
+ ## Alex Danco's Newsletter
+ - [https://alexdanco.wordpress.com](https://alexdanco.wordpress.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## alexgoldblat
+ - [http://alexgoldblat.wordpress.com](http://alexgoldblat.wordpress.com)
+ - date_published: 2024-07-08T19:02:04.686052+00:00
+
+ ## Alexis Gaming Reviews
+ - [https://alexisgaming21.wordpress.com](https://alexisgaming21.wordpress.com)
+ - date_published: 2024-08-07T23:54:57.741047+00:00
+
+ ## The Traveling Writer
+ - [https://alexisgrant.wordpress.com](https://alexisgrant.wordpress.com)
+ - date_published: 2024-10-17T23:01:05.251154+00:00
+
+ ## Private Site
+ - [http://alexjc38.wordpress.com](http://alexjc38.wordpress.com)
+ - date_published: 2024-06-28T18:39:45.196946+00:00
+
+ ## Alex Gustafson
+ - [https://alexjgustafson.wordpress.com](https://alexjgustafson.wordpress.com)
+ - date_published: 2024-08-18T08:22:11.054407+00:00
+
+ ## Alex Sisto
+ - [https://alexsisto.wordpress.com](https://alexsisto.wordpress.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## The Academic Wikipedian
+ - [https://alexstinson.wordpress.com](https://alexstinson.wordpress.com)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Alexander Wragge-Morley
+ - [https://alexwraggemorley.wordpress.com](https://alexwraggemorley.wordpress.com)
+ - date_published: 2024-10-29T18:29:50.975299+00:00
+
+ ## Alf on programming (mostly C++)
+ - [http://alfps.wordpress.com](http://alfps.wordpress.com)
+ - date_published: 2024-07-12T16:42:38.758470+00:00
+
+ ## Algorithmic Fairness
+ - [https://algorithmicfairness.wordpress.com](https://algorithmicfairness.wordpress.com)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Algorithm Soup
+ - [https://algorithmsoup.wordpress.com](https://algorithmsoup.wordpress.com)
+ - date_published: 2024-01-27T17:35:33.493914+00:00
+
+ ## Alice's Elder Scrolls Website
+ - [https://alicemorrowindmods.wordpress.com](https://alicemorrowindmods.wordpress.com)
+ - date_published: 2024-04-28T03:23:15.936554+00:00
+
+ ## The Journey of My Left Foot (whilst remembering my son)
+ - [http://alienblob.wordpress.com](http://alienblob.wordpress.com)
+ - date_published: 2024-06-26T07:33:38.154565+00:00
+
+ ## Dog Alien's homework
+ - [http://aliendog.wordpress.com](http://aliendog.wordpress.com)
+ - date_published: 2024-10-19T07:32:37.435171+00:00
+
+ ## 30 anni di ALIENS
+ - [https://aliens30anni.wordpress.com](https://aliens30anni.wordpress.com)
+ - date_published: 2024-10-25T21:32:15+00:00
+
+ ## Strange Shapes
+ - [http://alienseries.wordpress.com](http://alienseries.wordpress.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## A Life In Badges
+ - [https://alifeinbadges.wordpress.com](https://alifeinbadges.wordpress.com)
+ - date_published: 2024-07-04T05:37:15.464460+00:00
+
+ ## Aline's Weblog
+ - [http://alineagc.wordpress.com](http://alineagc.wordpress.com)
+ - date_published: 2024-06-30T11:18:22.104126+00:00
+
+ ## Aline Stanway  Ceramics
+ - [https://alinestanwayceramics.wordpress.com](https://alinestanwayceramics.wordpress.com)
+ - date_published: 2024-07-20T14:22:57.738076+00:00
+
+ ## Alisen Dopf
+ - [http://alisendopf.wordpress.com](http://alisendopf.wordpress.com)
+ - date_published: 2024-06-30T04:13:26.264723+00:00
+
  ## Alison in Cambodia
  - [https://alisonincambodia.wordpress.com](https://alisonincambodia.wordpress.com)
  - date_published: 2024-05-06T00:00:00+00:00
@@ -3762,253 +4010,4 @@
  ## dearly beloved,
  - [https://crystalpie2303.wordpress.com](https://crystalpie2303.wordpress.com)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## CS 007: Personal Finance for Engineers
- - [https://cs007dotblog.wordpress.com](https://cs007dotblog.wordpress.com)
- - date_published: 2024-08-19T11:12:10+00:00
-
- ## Building Plocs
- - [https://cstauden.wordpress.com](https://cstauden.wordpress.com)
- - date_published: 2024-06-28T18:07:07.711462+00:00
-
- ## CUFPa
- - [http://cufpa.wordpress.com](http://cufpa.wordpress.com)
- - date_published: 2024-09-16T20:10:56.146884+00:00
-
- ## Cultural Property & Archaeology Law
- - [http://culturalpropertylaw.wordpress.com](http://culturalpropertylaw.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Culture and Capitalism
- - [https://cultureandcapitalismblog.wordpress.com](https://cultureandcapitalismblog.wordpress.com)
- - date_published: 2024-10-29T19:32:38+00:00
-
- ## The Culture Engine v1
- - [https://cultureengine.wordpress.com](https://cultureengine.wordpress.com)
- - date_published: 2024-09-14T22:59:29.868587+00:00
-
- ## Cultures of Nature and Wellbeing
- - [https://culturenaturewellbeing.wordpress.com](https://culturenaturewellbeing.wordpress.com)
- - date_published: 2024-10-29T18:15:38.373763+00:00
-
- ## Cultures of Exclusion in the Early Modern World
- - [https://culturesofexclusion.wordpress.com](https://culturesofexclusion.wordpress.com)
- - date_published: 2024-10-29T18:10:15.372707+00:00
-
- ## Cumbrian Sky
- - [https://cumbriansky.wordpress.com](https://cumbriansky.wordpress.com)
- - date_published: 2024-08-18T20:28:17.943165+00:00
-
- ## Blog Toán Học
- - [https://cuoichutdi.wordpress.com](https://cuoichutdi.wordpress.com)
- - date_published: 2024-06-30T08:28:16.747906+00:00
-
- ## A Curious Programmer
- - [https://curiousprogrammer.wordpress.com](https://curiousprogrammer.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Curious Reasoning
- - [http://curiousreasoning.wordpress.com](http://curiousreasoning.wordpress.com)
- - date_published: 2024-06-30T11:03:32.376540+00:00
-
- ## The Curious Terran
- - [https://curiousterran.wordpress.com](https://curiousterran.wordpress.com)
- - date_published: 2023-11-29T14:22:05.627993+00:00
- - tags: ['personal']
-
- ## Curry Quotes
- - [https://curryquotes.wordpress.com](https://curryquotes.wordpress.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Rage on the Page
- - [https://cursivecurses.wordpress.com](https://cursivecurses.wordpress.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Curtis Galloway
- - [https://curtisgalloway.wordpress.com](https://curtisgalloway.wordpress.com)
- - date_published: 2024-07-03T08:42:29.490638+00:00
-
- ## cussing culinaire
- - [http://cussingculinaire.wordpress.com](http://cussingculinaire.wordpress.com)
- - date_published: 2024-10-18T15:11:07.682249+00:00
-
- ## Customize Minifigures Intelligence
- - [https://customizeminifiguresintelligence.wordpress.com](https://customizeminifiguresintelligence.wordpress.com)
- - date_published: 2024-10-26T16:52:53.775699+00:00
-
- ## Site Title
- - [http://customwindows8.wordpress.com](http://customwindows8.wordpress.com)
- - date_published: 2024-08-20T19:38:20.878113+00:00
-
- ## Josh Stone
- - [https://cuviper.wordpress.com](https://cuviper.wordpress.com)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Hidden Clause
- - [https://cvalcarcel.wordpress.com](https://cvalcarcel.wordpress.com)
- - date_published: 2024-07-18T12:27:16.586300+00:00
-
- ## CVPR2020 Workshop on Text and Documents in the Deep Learning Era
- - [https://cvpr2020text.wordpress.com](https://cvpr2020text.wordpress.com)
- - date_published: 2024-06-22T08:05:52.499848+00:00
-
- ## Content Translation Update
- - [https://cxupdate.wordpress.com](https://cxupdate.wordpress.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Catherine Daze's Blog
- - [https://cyberdaze.wordpress.com](https://cyberdaze.wordpress.com)
- - date_published: 2024-05-09T07:24:04.960536+00:00
-
- ## Cybermantra
- - [https://cybermantra.wordpress.com](https://cybermantra.wordpress.com)
- - date_published: 2024-10-31T17:14:59.658734+00:00
-
- ## Kudelski Security Research
- - [https://cybermashup.wordpress.com](https://cybermashup.wordpress.com)
- - date_published: 2024-05-04T10:13:33.113799+00:00
-
- ## Cyber Strategies for a World at War
- - [http://cyberstrategies.wordpress.com](http://cyberstrategies.wordpress.com)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Private Site
- - [http://cybleinc.wordpress.com](http://cybleinc.wordpress.com)
- - date_published: 2024-07-09T17:17:13.676898+00:00
-
- ## Eliza and Sander's cycling adventures
- - [https://cyclingadventures.wordpress.com](https://cyclingadventures.wordpress.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## cyhscaevola
- - [http://cyhscaevola.wordpress.com](http://cyhscaevola.wordpress.com)
- - date_published: 2024-06-30T06:40:50.264186+00:00
-
- ## Cynan Jones
- - [https://cynan1975.wordpress.com](https://cynan1975.wordpress.com)
- - date_published: 2024-07-02T10:11:35.365102+00:00
-
- ## Cynni's Blog
- - [http://cynnisblog.wordpress.com](http://cynnisblog.wordpress.com)
- - date_published: 2024-09-03T22:59:36.341396+00:00
-
- ## Site privado
- - [https://d55rpg.wordpress.com](https://d55rpg.wordpress.com)
- - date_published: 2024-05-07T14:58:08.995619+00:00
-
- ## Dabbling with Data
- - [https://dabblingwithdata.wordpress.com](https://dabblingwithdata.wordpress.com)
- - date_published: 2024-08-18T02:38:58+00:00
-
- ## DA Trippers
- - [https://dacryptic.wordpress.com](https://dacryptic.wordpress.com)
- - date_published: 2024-07-04T16:43:18+00:00
-
- ## Dad2059's Webzine of Science Fiction, Science Fact and Esoterica
- - [http://dad2059.wordpress.com](http://dad2059.wordpress.com)
- - date_published: 2024-08-18T20:16:19.528659+00:00
-
- ## Dagan.Education
- - [https://daganbernstein.wordpress.com](https://daganbernstein.wordpress.com)
- - date_published: 2024-07-22T18:51:14.042290+00:00
-
- ## (no title)
- - [https://daggasoft.wordpress.com](https://daggasoft.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Dagger and Brush
- - [http://daggerandbrush.wordpress.com](http://daggerandbrush.wordpress.com)
- - date_published: 2024-10-26T17:55:54.775995+00:00
-
- ## Dahlia Reads and Forgets
- - [http://dahliadonovanreads.wordpress.com](http://dahliadonovanreads.wordpress.com)
- - date_published: 2024-09-03T22:51:25.990332+00:00
-
- ## Moved!
- - [https://dahliamalkhi.wordpress.com](https://dahliamalkhi.wordpress.com)
- - date_published: 2024-07-16T22:23:04.903448+00:00
-
- ## 🌞The Daily L.E.A.R.N.I.N.G Habit™💪
- - [https://dailylearninghabit.wordpress.com](https://dailylearninghabit.wordpress.com)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## The Daily Post
- - [https://dailypost.wordpress.com](https://dailypost.wordpress.com)
- - date_published: 2024-05-07T15:16:30.331785+00:00
-
- ## Trailer Park Refugee
- - [http://daisyfae.wordpress.com](http://daisyfae.wordpress.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## dajeeps
- - [http://dajeeps.wordpress.com](http://dajeeps.wordpress.com)
- - date_published: 2024-10-27T11:11:03.183803+00:00
-
- ## Dan Kaminsky's Blog
- - [https://dakami1.wordpress.com](https://dakami1.wordpress.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## DaleAD's Blog
- - [http://dalead.wordpress.com](http://dalead.wordpress.com)
- - date_published: 2024-10-29T19:54:22.041052+00:00
-
- ## Dalektricity
- - [https://dalektricity.wordpress.com](https://dalektricity.wordpress.com)
- - date_published: 2024-10-31T17:21:15.036399+00:00
-
- ## The Invisible Moth
- - [http://daleydowning.wordpress.com](http://daleydowning.wordpress.com)
- - date_published: 2024-09-03T23:02:28.631756+00:00
-
- ## Dalrock
- - [http://dalrock.wordpress.com](http://dalrock.wordpress.com)
- - date_published: 2024-02-18T00:00:00+00:00
-
- ## Daly History Blog
- - [http://dalyhistory.wordpress.com](http://dalyhistory.wordpress.com)
- - date_published: 2024-08-11T12:51:43.616012+00:00
-
- ## (no title)
- - [https://damekdavis.wordpress.com](https://damekdavis.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## BaffleDev
- - [http://damianwojcikblog.wordpress.com](http://damianwojcikblog.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Software Engineering
- - [https://damienbod.wordpress.com](https://damienbod.wordpress.com)
- - date_published: 2024-05-01T03:45:16.411938+00:00
-
- ## A Gael in Greece
- - [http://damomac.wordpress.com](http://damomac.wordpress.com)
- - date_published: 2024-10-18T21:13:06.723532+00:00
-
- ## Refactoring Leadership
- - [https://damonpaynecom.wordpress.com](https://damonpaynecom.wordpress.com)
- - date_published: 2024-10-31T22:25:02+00:00
-
- ## Dan S. Charlton
- - [https://dancharblog.wordpress.com](https://dancharblog.wordpress.com)
- - date_published: 2024-08-19T16:52:55.091438+00:00
-
- ## Dancing off the Edge of the World
- - [http://dancingofftheedgeoftheworld.wordpress.com](http://dancingofftheedgeoftheworld.wordpress.com)
- - date_published: 2024-09-03T22:56:21.337453+00:00
-
- ## Gigi on Games
- - [http://dandago.wordpress.com](http://dandago.wordpress.com)
- - date_published: 2024-11-08T21:30:29.222019+00:00
-
- ## +++++
- - [http://dangerouscake.wordpress.com](http://dangerouscake.wordpress.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Dangerous Times
- - [http://dangeroustimes.wordpress.com](http://dangeroustimes.wordpress.com)
- - date_published: 2024-06-27T08:42:58.661115+00:00
-
- ## danger ranger
- - [https://dangerranger.wordpress.com](https://dangerranger.wordpress.com)
- - date_published: 2024-05-06T16:28:20.055894+00:00
 

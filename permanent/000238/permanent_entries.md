@@ -1,3 +1,272 @@
+ ## Hackers/Founders – By Founders, For Founders
+ - [https://hf.cx](https://hf.cx)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## interloper
+ - [https://intr.cx](https://intr.cx)
+ - date_published: 2024-04-16T22:14:51+00:00
+
+ ## Jesper Cockx - About me
+ - [https://jesper.cx](https://jesper.cx)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Home - Keiichi Matsuda
+ - [http://km.cx](http://km.cx)
+ - date_published: 2024-06-20T05:12:39.694242+00:00
+
+ ## lambda.cx blog
+ - [https://blog.lambda.cx](https://blog.lambda.cx)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Réducteur de lien : créer des liens courts et des QR Codes
+ - [https://lc.cx](https://lc.cx)
+ - date_published: 2024-09-13T09:10:06+00:00
+
+ ## Gen 3 CX Automation Built for Retail | Linc
+ - [https://www.linc.cx](https://www.linc.cx)
+ - date_published: 2024-10-27T15:32:47+00:00
+
+ ## Linux Manpages Online - man.cx manual pages
+ - [https://man.cx](https://man.cx)
+ - date_published: 2024-07-13T17:40:42.322750+00:00
+
+ ## Mastodon
+ - [https://feed.mccormick.cx](https://feed.mccormick.cx)
+ - date_published: 2024-07-14T13:18:17.426160+00:00
+
+ ## Chris McCormick - computer programming.
+ - [https://mccormick.cx](https://mccormick.cx)
+ - date_published: 2024-03-25T02:00:34.854016+00:00
+ - tags: ['personal']
+
+ ## Kostya's Boring Codec World
+ - [https://codecs.multimedia.cx](https://codecs.multimedia.cx)
+ - date_published: 2023-10-25T18:27:06.338688+00:00
+ - tags: ['blog', 'personal']
+
+ ## Andrew Hicks' eMpTyV
+ - [http://emptyv.multimedia.cx](http://emptyv.multimedia.cx)
+ - date_published: 2007-01-11T17:27:54+00:00
+
+ ## Gaming Pathology
+ - [http://games.multimedia.cx](http://games.multimedia.cx)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Lair Of The Multimedia Guru
+ - [http://guru.multimedia.cx](http://guru.multimedia.cx)
+ - date_published: 2024-06-20T05:20:30.798317+00:00
+
+ ## Content @ Multimedia.cx
+ - [https://multimedia.cx](https://multimedia.cx)
+ - date_published: 2022-03-13T21:34:16+00:00
+
+ ## MultimediaWiki
+ - [https://wiki.multimedia.cx](https://wiki.multimedia.cx)
+ - date_published: 2023-09-29T05:09:21+00:00
+
+ ## الرئيسية | منير
+ - [https://muneer.cx](https://muneer.cx)
+ - date_published: 2024-09-04T05:28:51+00:00
+
+ ## newton.cx
+ - [https://newton.cx](https://newton.cx)
+ - date_published: 2017-06-10T19:54:21+00:00
+
+ ## Erin O’Connor
+ - [http://erin.oconnor.cx](http://erin.oconnor.cx)
+ - date_published: 2022-01-16T04:32:22+00:00
+
+ ## Theresa O’Connor’s website
+ - [https://tess.oconnor.cx](https://tess.oconnor.cx)
+ - date_published: 2024-08-18T17:32:02+00:00
+
+ ## ONIX Exchange
+ - [https://onix.cx](https://onix.cx)
+ - date_published: 2024-07-21T21:38:35.692929+00:00
+
+ ## Sign in - Matomo
+ - [https://stats.ox.cx](https://stats.ox.cx)
+ - date_published: 2024-08-18T17:03:21.741114+00:00
+
+ ## blog
+ - [https://blog.paul.cx](https://blog.paul.cx)
+ - date_published: 2022-06-06T00:00:00+00:00
+
+ ## pow.cx
+ - [https://pow.cx](https://pow.cx)
+ - date_published: 2024-05-25T09:10:20.881819+00:00
+
+ ## REcon - Home
+ - [https://recon.cx](https://recon.cx)
+ - date_published: 2024-05-04T15:33:13.107918+00:00
+
+ ## Recon Conference
+ - [https://tickets.recon.cx](https://tickets.recon.cx)
+ - date_published: 2024-05-07T19:03:47.579498+00:00
+
+ ## Remote Office
+ - [https://remoteoffice.cx](https://remoteoffice.cx)
+ - date_published: 2021-08-06T14:19:48+00:00
+
+ ## Amiga Hardware Database
+ - [https://amiga.resource.cx](https://amiga.resource.cx)
+ - date_published: 2023-11-02T10:38:55.509567+00:00
+ - tags: ['amiga']
+
+ ## Jami
+ - [http://ring.cx](http://ring.cx)
+ - date_published: 2024-06-14T11:58:01.443143+00:00
+
+ ## Sandoche Adittane | Portfolio of a Web & Blockchain Developer and Designer
+ - [https://san.cx](https://san.cx)
+ - date_published: 2024-07-04T04:24:04.846834+00:00
+
+ ## scenery.cx | 502: Bad gateway
+ - [https://scenery.cx](https://scenery.cx)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Grafana Network Weathermap Plugin
+ - [https://grafana-weathermap.seth.cx](https://grafana-weathermap.seth.cx)
+ - date_published: 2023-07-05T00:58:13+00:00
+
+ ## Seth Knights
+ - [https://seth.cx](https://seth.cx)
+ - date_published: 2024-02-10T21:55:59+00:00
+
+ ## DANGER
+ - [https://soma.cx](https://soma.cx)
+ - date_published: 2022-11-20T15:57:13+00:00
+
+ ## StardustNetwork - irc.stardust.cx
+ - [https://stardust.cx](https://stardust.cx)
+ - date_published: 2024-09-03T23:11:26.471571+00:00
+
+ ## Support Human Jobs
+ - [https://www.jobs.supporthuman.cx](https://www.jobs.supporthuman.cx)
+ - date_published: 2024-06-22T12:52:52.611293+00:00
+
+ ## Support Human
+ - [https://www.supporthuman.cx](https://www.supporthuman.cx)
+ - date_published: 2024-06-22T12:52:55.637306+00:00
+
+ ## Interesting things – Notes on things I've figured out
+ - [https://blog.tmm.cx](https://blog.tmm.cx)
+ - date_published: 2024-05-07T10:17:19.440430+00:00
+
+ ## Mastodon
+ - [https://mastodon.tmm.cx](https://mastodon.tmm.cx)
+ - date_published: 2024-06-29T09:47:59.997342+00:00
+
+ ## TO BE DISCONTINUED.
+ - [https://tof.cx](https://tof.cx)
+ - date_published: 2024-10-26T22:13:16.950517+00:00
+
+ ## maggie's photos
+ - [https://uwu.cx](https://uwu.cx)
+ - date_published: 2024-06-13T20:00:52.443647+00:00
+ - tags: ['personal']
+
+ ## William Svoboda
+ - [https://will.cx](https://will.cx)
+ - date_published: 2024-08-08T15:32:48.276324+00:00
+
+ ## Wonderland – Platform for European Architecture
+ - [https://wonderland.cx](https://wonderland.cx)
+ - date_published: 2024-02-08T21:53:12.921280+00:00
+
+ ## Wyvern
+ - [https://wyvern.cx](https://wyvern.cx)
+ - date_published: 2024-06-12T21:31:30.020859+00:00
+ - tags: ['video games', 'video game cheats']
+
+ ## European University Cyprus: #1 university for international and EU students
+ - [https://euc.ac.cy](https://euc.ac.cy)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Blackboard Learn
+ - [https://virtualcampus.euc.ac.cy](https://virtualcampus.euc.ac.cy)
+ - date_published: 2004-07-02T23:13:50+00:00
+
+ ## [NUP] Neapolis University Pafos
+ - [https://lms.nup.ac.cy](https://lms.nup.ac.cy)
+ - date_published: 2024-07-04T09:18:10+00:00
+
+ ## Neapolis University Pafos
+ - [https://nup.ac.cy](https://nup.ac.cy)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## ECOOP-08 Cyprus
+ - [https://ecoop08.cs.ucy.ac.cy](https://ecoop08.cs.ucy.ac.cy)
+ - date_published: 2008-07-02T13:14:30+00:00
+
+ ## EDBT/ICDT 2021 | 24th International Conference on Extending Database Technology
+ - [https://edbticdt2021.cs.ucy.ac.cy](https://edbticdt2021.cs.ucy.ac.cy)
+ - date_published: 2021-05-20T05:00:49+00:00
+
+ ## RAID 2022 – The 25th International Symposium on Research in Attacks, Intrusions and Defenses
+ - [https://raid2022.cs.ucy.ac.cy](https://raid2022.cs.ucy.ac.cy)
+ - date_published: 2022-12-21T07:08:36+00:00
+
+ ## Virtual Gate to Online Conference
+ - [https://vgate.cs.ucy.ac.cy](https://vgate.cs.ucy.ac.cy)
+ - date_published: 2024-06-22T11:54:39.962149+00:00
+
+ ## Login
+ - [https://apply.unic.ac.cy](https://apply.unic.ac.cy)
+ - date_published: 2024-07-12T09:05:05+00:00
+
+ ## Careers - University of Nicosia
+ - [https://careers.unic.ac.cy](https://careers.unic.ac.cy)
+ - date_published: 2024-07-12T09:05:10.650466+00:00
+
+ ## Login
+ - [https://courses.unic.ac.cy](https://courses.unic.ac.cy)
+ - date_published: 2024-07-12T09:05:03.597552+00:00
+
+ ## Forecasting
+ - [https://mofc.unic.ac.cy](https://mofc.unic.ac.cy)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## UNIC Portal
+ - [https://portal.unic.ac.cy](https://portal.unic.ac.cy)
+ - date_published: 2024-07-12T09:05:06.700699+00:00
+
+ ## UNIC | Research Portal
+ - [https://pure.unic.ac.cy](https://pure.unic.ac.cy)
+ - date_published: 2024-07-12T09:05:00.075233+00:00
+
+ ## Redirecting...
+ - [http://webmail.unic.ac.cy](http://webmail.unic.ac.cy)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Home - University of Nicosia
+ - [https://www.unic.ac.cy](https://www.unic.ac.cy)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Online μόδα με περισσότερες από 3.000 κορυφαίες μάρκες | ABOUT YOU
+ - [https://www.aboutyou.com.cy](https://www.aboutyou.com.cy)
+ - date_published: 2024-09-17T20:02:01+00:00
+
+ ## Alfa Romeo Official Website | SUVs &amp; Crossover | Alfa Romeo
+ - [https://www.alfaromeo.com.cy](https://www.alfaromeo.com.cy)
+ - date_published: 2024-05-28T11:45:02+00:00
+
+ ## Audi Cyprus
+ - [http://www.audi.com.cy](http://www.audi.com.cy)
+ - date_published: 2024-07-19T20:37:41+00:00
+
+ ## Make IT Happen | IT & Hosting Services
+ - [https://bts.com.cy](https://bts.com.cy)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Cape IT Ltd – Your Internet Solutions Provider
+ - [https://capeit.com.cy](https://capeit.com.cy)
+ - date_published: 2024-06-20T17:58:03.572770+00:00
+
+ ## New Cars, Vans and Servicing | Automotive |  Citroën Cyprus
+ - [https://citroen.com.cy](https://citroen.com.cy)
+ - date_published: 2024-05-08T05:30:50.581268+00:00
+
  ## Citroën Origins
  - [https://www.citroenorigins.com.cy](https://www.citroenorigins.com.cy)
  - date_published: 2024-07-04T06:13:38+00:00
@@ -3752,270 +4021,4 @@
  ## Lunchmeat.cz
  - [https://www.lunchmeat.cz](https://www.lunchmeat.cz)
  - date_published: 2024-05-03T05:28:00+00:00
-
- ## Blogy - Lupa.cz
- - [https://blog.lupa.cz](https://blog.lupa.cz)
- - date_published: 2024-09-09T22:46:54.507539+00:00
-
- ## Lupa.cz - server o českém Internetu
- - [https://www.lupa.cz](https://www.lupa.cz)
- - date_published: 2024-09-04T12:32:43.723524+00:00
-
- ## Knihkupectví Luxor – Největší výběr knih v ČR
- - [https://www.luxor.cz](https://www.luxor.cz)
- - date_published: 2024-09-05T17:07:42.708801+00:00
-
- ## Lynt services s.r.o. - Marketingová a technologická agentura
- - [https://lynt.cz](https://lynt.cz)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Madame Tussauds Praha
- - [http://madametussaudsprague.cz](http://madametussaudsprague.cz)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Mediální skupina MAFRA
- - [https://www.mafra.cz](https://www.mafra.cz)
- - date_published: 2024-06-25T19:55:06.947576+00:00
-
- ## MAILservis - Vše pro automatický e-mail marketing a jeho analýzu
- - [https://mailservis.cz](https://mailservis.cz)
- - date_published: 2024-07-17T08:36:53.468398+00:00
-
- ## Originální háčkované výrobky
- - [https://www.makaron.cz](https://www.makaron.cz)
- - date_published: 2024-05-04T09:55:23.561281+00:00
-
- ## Maker Faire Česká republika - Světová přehlídka kreativity
- - [https://makerfaire.cz](https://makerfaire.cz)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## Homepage - MakerMarket.cz
- - [https://makermarket.cz](https://makermarket.cz)
- - date_published: 2024-06-17T09:38:49.240597+00:00
-
- ## MALL.CZ – bílé zboží, elektronika, PC, outdoor, hobby, hračky, kosmetika, chovatelské potřeby
- - [https://www.mall.cz](https://www.mall.cz)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Má mozek ještě šanci?
- - [https://mamozekjestesanci.cz](https://mamozekjestesanci.cz)
- - date_published: 2024-01-05T10:35:54+00:00
-
- ## Články pro manažery a pracovníky marketingu | Management News
- - [https://www.managementnews.cz](https://www.managementnews.cz)
- - date_published: 2024-09-02T16:02:39.171983+00:00
-
- ## MAPAŠKOLSTVÍ.cz
- - [http://mapaskolstvi.cz](http://mapaskolstvi.cz)
- - date_published: 2024-07-01T10:20:36.552709+00:00
-
- ## Mapotic - chytré mapy ve službách vaší mise
- - [https://www.mapotic.cz](https://www.mapotic.cz)
- - date_published: 2024-07-08T13:35:03.693456+00:00
-
- ## Mapy pro webové a mobilní aplikace – MapTiler
- - [https://maptiler.cz](https://maptiler.cz)
- - date_published: 2024-02-10T12:31:05+00:00
-
- ## Developer Mapy.cz
- - [https://api.mapy.cz](https://api.mapy.cz)
- - date_published: 2024-05-07T19:06:11.113572+00:00
-
- ## Mapy.cz
- - [https://de.mapy.cz](https://de.mapy.cz)
- - date_published: 2024-05-07T19:06:06.698622+00:00
-
- ## Developer Mapy.cz
- - [https://developer.mapy.cz](https://developer.mapy.cz)
- - date_published: 2024-07-01T10:22:47.193552+00:00
-
- ## Mapy.cz
- - [https://en.mapy.cz](https://en.mapy.cz)
- - date_published: 2024-05-07T19:06:07.251335+00:00
-
- ## Mapy.cz
- - [https://mapy.cz](https://mapy.cz)
- - date_published: 2023-10-25T18:27:28.698444+00:00
-
- ## Mapy.cz
- - [https://pl.mapy.cz](https://pl.mapy.cz)
- - date_published: 2024-05-07T19:06:08.268037+00:00
-
- ## Mapy.cz
- - [https://sk.mapy.cz](https://sk.mapy.cz)
- - date_published: 2024-05-07T19:06:09.180780+00:00
-
- ## Staré dobré Mapy.cz
- - [https://staredobre.mapy.cz](https://staredobre.mapy.cz)
- - date_published: 2022-10-24T08:11:16+00:00
-
- ## Marathon Studio | Značky, které mají výdrž
- - [https://www.marathonstudio.cz](https://www.marathonstudio.cz)
- - date_published: 2024-05-25T00:00:00+00:00
-
- ## Marianne | Online magazín pro ženy, které jsou IN!
- - [https://admin.marianne.cz](https://admin.marianne.cz)
- - date_published: 2024-09-05T16:52:04+00:00
-
- ## Dny Marianne podzim 2024
- - [https://dny.marianne.cz](https://dny.marianne.cz)
- - date_published: 2024-09-05T16:46:26.489096+00:00
-
- ## Marianne | Online magazín pro ženy, které jsou IN!
- - [https://marianne.cz](https://marianne.cz)
- - date_published: 2024-06-10T10:36:53.398720+00:00
- - tags: ['fashion']
-
- ## Marianne | Testujte produkty zdarma, nebo se slevou
- - [https://testovani.marianne.cz](https://testovani.marianne.cz)
- - date_published: 2024-09-05T17:44:51.346567+00:00
-
- ## Martin Hujer blog — Martin Hujer blog
- - [https://blog.martinhujer.cz](https://blog.martinhujer.cz)
- - date_published: 2023-04-03T15:26:31+00:00
-
- ## Gramática del español
- - [https://espanol.martinhujer.cz](https://espanol.martinhujer.cz)
- - date_published: 2019-01-03T19:58:44+00:00
-
- ## Martin Hujer - PHP a Symfony vývojář na volné noze
- - [https://martinhujer.cz](https://martinhujer.cz)
- - date_published: 2024-06-15T15:52:49.462978+00:00
-
- ## Seznam receptů — Martinovy Recepty
- - [https://recepty.martinhujer.cz](https://recepty.martinhujer.cz)
- - date_published: 2024-07-21T11:27:48+00:00
-
- ## Výrobce vozů značky Maserati: Maserati S.p.A - Modena | Maserati CZ
- - [http://www.maserati.cz](http://www.maserati.cz)
- - date_published: 2024-07-12T05:41:15+00:00
-
- ## Mastercard - globální technologická společnost v oblasti platebních řešení
- - [https://www.mastercard.cz](https://www.mastercard.cz)
- - date_published: 2024-07-24T05:19:58.311741+00:00
-
- ## MastodonCzech
- - [https://mastodonczech.cz](https://mastodonczech.cz)
- - date_published: 2024-07-08T14:40:31.836288+00:00
-
- ## Burza - Databáze materiálů - RONDL
- - [https://material-market.cz](https://material-market.cz)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Matfyz.cz
- - [https://www.matfyz.cz](https://www.matfyz.cz)
- - date_published: 2024-09-09T22:46:56.457096+00:00
-
- ## Všechny tituly | matfyzpress.cz
- - [http://matfyzpress.cz](http://matfyzpress.cz)
- - date_published: 2024-07-01T10:10:37.080445+00:00
-
- ## Mattoni
- - [https://www.mattoni.cz](https://www.mattoni.cz)
- - date_published: 2024-07-17T08:36:36.070483+00:00
-
- ## Welcome to Mazak
- - [https://www.mazakeu.cz](https://www.mazakeu.cz)
- - date_published: 2024-07-16T17:31:27.469655+00:00
-
- ## Medevio
- - [https://www.medevio.cz](https://www.medevio.cz)
- - date_published: 2024-09-09T22:12:35.629084+00:00
-
- ## Homepage
- - [https://www.mediaguru.cz](https://www.mediaguru.cz)
- - date_published: 2024-09-02T16:03:37.441376+00:00
-
- ## Médiář
- - [https://www.mediar.cz](https://www.mediar.cz)
- - date_published: 2024-09-14T09:30:23.475820+00:00
-
- ## Meetea | tea art experience
- - [https://www.meetea.cz](https://www.meetea.cz)
- - date_published: 2024-07-15T02:50:29.693947+00:00
-
- ## Seznamka: poznejte seriózní nezadané | Meetic
- - [https://www.meetic.cz](https://www.meetic.cz)
- - date_published: 2024-09-04T11:50:18.054484+00:00
-
- ## Úvod - Jan Melvil Publishing
- - [https://www.melvil.cz](https://www.melvil.cz)
- - date_published: 2018-11-26T19:08:04+00:00
-
- ## Mendelova univerzita v Brně
- - [http://mendelu.cz](http://mendelu.cz)
- - date_published: 2024-03-15T00:00:00+00:00
-
- ## Mensa Česko: nadané děti: O nás
- - [http://deti.mensa.cz](http://deti.mensa.cz)
- - date_published: 2024-07-01T10:20:28.468732+00:00
-
- ## MentůvShop.cz
- - [https://www.mentuvshop.cz](https://www.mentuvshop.cz)
- - date_published: 2024-07-01T10:12:49.866356+00:00
-
- ## Měšec.cz - váš průvodce finančním světem
- - [https://www.mesec.cz](https://www.mesec.cz)
- - date_published: 2024-09-09T22:09:11.607140+00:00
-
- ## Počasí Meteocentrum - nejpřesnější předpověď počasí, počasí aktuálně
- - [https://meteocentrum.cz](https://meteocentrum.cz)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Meteo počasí a meteostanice
- - [https://www.meteo-pocasi.cz](https://www.meteo-pocasi.cz)
- - date_published: 2024-07-01T10:21:55.260743+00:00
-
- ## Meteoskop - podrobná předpověď počasí pro celou ČR.
- - [https://www.meteoskop.cz](https://www.meteoskop.cz)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Úvod | MetLife.cz
- - [https://www.metlife.cz](https://www.metlife.cz)
- - date_published: 2024-07-19T16:41:57+00:00
-
- ## We Bleed: Heartbleed Bug in the Czech Republic 2014–2015
- - [https://heartbleed.michalspacek.cz](https://heartbleed.michalspacek.cz)
- - date_published: 2024-09-18T15:02:58.292776+00:00
-
- ## Michal Špaček
- - [https://michalspacek.cz](https://michalspacek.cz)
- - date_published: 2024-06-15T15:52:50.511844+00:00
-
- ## Pulse
- - [https://pulse.michalspacek.cz](https://pulse.michalspacek.cz)
- - date_published: 2024-06-15T15:52:51.427257+00:00
-
- ## MIDORINI.cz. Personalizované šperky
- - [http://www.midorini.cz](http://www.midorini.cz)
- - date_published: 2024-10-18T03:45:19.967638+00:00
-
- ## Miton
- - [https://www.miton.cz](https://www.miton.cz)
- - date_published: 2024-09-02T05:35:59+00:00
-
- ## Ministerstvo kultury České republiky
- - [https://www.mkcr.cz](https://www.mkcr.cz)
- - date_published: 2024-07-17T07:18:51.769746+00:00
-
- ## Jiří Rostecký: Business podcaster & mentor | rostecky
- - [https://mladypodnikatel.cz](https://mladypodnikatel.cz)
- - date_published: 2024-10-18T03:47:04.487558+00:00
-
- ## Jozef Mlích – Personal blog
- - [https://blog.mlich.cz](https://blog.mlich.cz)
- - date_published: 2024-02-23T02:32:09.898834+00:00
- - tags: ['personal']
-
- ## Výsledky vyhledávání
- - [https://search.mlp.cz](https://search.mlp.cz)
- - date_published: 2024-10-02T14:10:51.971616+00:00
-
- ## Městská knihovna v Praze - Jsme tu pro každého…
- - [https://www.mlp.cz](https://www.mlp.cz)
- - date_published: 2024-06-16T11:20:03.113534+00:00
-
- ## Moda.cz
- - [https://www.moda.cz](https://www.moda.cz)
- - date_published: 2024-07-17T12:41:51.892062+00:00
 

@@ -1,3 +1,269 @@
+ ## Bunetz's Blog
+ - [https://bunetz.dev](https://bunetz.dev)
+ - date_published: 2024-07-11T16:46:53.070454+00:00
+
+ ## Bunzz | Smart Contract as a Service, functioning similarly to Docker Hub in the web3
+ - [https://app.bunzz.dev](https://app.bunzz.dev)
+ - date_published: 2024-09-21T23:46:03.890252+00:00
+
+ ## Blogs - Bunzz Blog
+ - [https://blog.bunzz.dev](https://blog.bunzz.dev)
+ - date_published: 2022-01-01T15:12:27+00:00
+
+ ## Bunzz | Modular Smart Contracts Dev & AI-Based Audit
+ - [https://bunzz.dev](https://bunzz.dev)
+ - date_published: 2024-06-16T03:36:42.877060+00:00
+
+ ## What is Bunzz? | Bunzz
+ - [https://docs.bunzz.dev](https://docs.bunzz.dev)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Kevin Burke | The golden age is before us, not behind us
+ - [https://burke.dev](https://burke.dev)
+ - date_published: 2024-08-19T04:13:48.967285+00:00
+
+ ## Kevin Burke | The golden age is before us, not behind us
+ - [https://kevin.burke.dev](https://kevin.burke.dev)
+ - date_published: 2023-10-25T18:35:57.306361+00:00
+
+ ## ButtonBuddy - Accessible button contrast generator
+ - [https://buttonbuddy.dev](https://buttonbuddy.dev)
+ - date_published: 2024-07-22T12:50:39.198668+00:00
+
+ ## Join Bytes - Your weekly dose of JavaScript
+ - [https://bytes.dev](https://bytes.dev)
+ - date_published: 2024-05-06T21:26:15.878599+00:00
+
+ ## Plausible · Web analytics
+ - [https://plausible.c0d3r.dev](https://plausible.c0d3r.dev)
+ - date_published: 2024-08-11T11:20:21.204025+00:00
+
+ ## caarlos0 | links
+ - [https://caarlos0.dev](https://caarlos0.dev)
+ - date_published: 2022-06-09T00:00:00+00:00
+
+ ## calculang 💬
+ - [http://calculang.dev](http://calculang.dev)
+ - date_published: 2024-07-14T10:32:11.750822+00:00
+
+ ## Blog with Dec 📝 – Calc with Dec 🧮 🤓
+ - [https://calcwithdec.dev](https://calcwithdec.dev)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## INEVM - Caldera Chain
+ - [https://inevm.caldera.dev](https://inevm.caldera.dev)
+ - date_published: 2024-09-25T15:51:02.232360+00:00
+
+ ## Manta - Caldera Chain
+ - [https://manta-testnet.caldera.dev](https://manta-testnet.caldera.dev)
+ - date_published: 2024-09-24T08:13:58.780679+00:00
+
+ ## Callosum API Design and Testing tool
+ - [https://callosum.dev](https://callosum.dev)
+ - date_published: 2024-01-18T05:52:15+00:00
+
+ ## All posts
+ - [https://camillehdl.dev](https://camillehdl.dev)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Camilo Romero - Full Snack Web Developer
+ - [https://camiloromero.dev](https://camiloromero.dev)
+ - date_published: 2022-03-18T02:03:09+00:00
+
+ ## Candid Development
+ - [https://candid.dev](https://candid.dev)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## caneco.dev
+ - [https://caneco.dev](https://caneco.dev)
+ - date_published: 2024-05-11T10:24:26.471828+00:00
+
+ ## Apps SDK documentation - Canva Apps SDK Documentation
+ - [https://canva.dev](https://canva.dev)
+ - date_published: 2023-10-25T18:35:59.119954+00:00
+
+ ## Canva Developers Community - Learn all about the Canva Apps SDK, Connect APIs, and how to build using Canva's Developers Tools
+ - [https://community.canva.dev](https://community.canva.dev)
+ - date_published: 2024-04-29T07:27:18.111568+00:00
+
+ ## Can We Use
+ - [https://canwe.dev](https://canwe.dev)
+ - date_published: 2023-12-16T21:22:31+00:00
+
+ ## GitHub - jmhessel/caption_contest_corpus: Corpus to accompany: "Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest"
+ - [http://capcon.dev](http://capcon.dev)
+ - date_published: 2024-08-06T20:42:51.079191+00:00
+
+ ## kokada
+ - [https://kokada.capivaras.dev](https://kokada.capivaras.dev)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Carbide · C4 Model Software Architecture Tool
+ - [https://carbide.dev](https://carbide.dev)
+ - date_published: 2024-05-08T04:07:05.364934+00:00
+
+ ## Career Ladders for Tech, Open Sourced
+ - [https://career-ladders.dev](https://career-ladders.dev)
+ - date_published: 2024-06-23T10:26:54.738509+00:00
+
+ ## Dan Cargill
+ - [https://cargill.dev](https://cargill.dev)
+ - date_published: 2024-05-09T07:48:24.532189+00:00
+
+ ## Carmen Huidobro
+ - [https://carmenh.dev](https://carmenh.dev)
+ - date_published: 2024-06-12T17:08:51+00:00
+
+ ## Carretta Riccardo's Portfolio
+ - [https://carrettariccardo.dev](https://carrettariccardo.dev)
+ - date_published: 2024-05-11T10:20:39.097346+00:00
+
+ ## DevCasp's Code Stash
+ - [https://casp.dev](https://casp.dev)
+ - date_published: 2024-08-20T04:00:15+00:00
+
+ ## Cassey Lottman
+ - [https://cassey.dev](https://cassey.dev)
+ - date_published: 2024-04-29T07:27:18.965088+00:00
+
+ ## Home | Gilles Castel
+ - [https://castel.dev](https://castel.dev)
+ - date_published: 2023-10-25T18:36:01.301678+00:00
+
+ ## My Homepage
+ - [https://casuallyblue.dev](https://casuallyblue.dev)
+ - date_published: 2024-07-22T11:48:18.457022+00:00
+
+ ## Catching Up With Web Performance
+ - [https://catchingup.dev](https://catchingup.dev)
+ - date_published: 2024-06-28T16:01:33.994979+00:00
+
+ ## Cavelab blog —
+        Stories from the Cavelab
+ - [https://blog.cavelab.dev](https://blog.cavelab.dev)
+ - date_published: 2024-01-12T02:35:25.482447+00:00
+
+ ## Chris Barrick
+ - [https://cbarrick.dev](https://cbarrick.dev)
+ - date_published: 2024-02-21T17:56:12.952667+00:00
+
+ ## CBAX dot DEV
+ - [https://cbax.dev](https://cbax.dev)
+ - date_published: 2024-06-19T02:25:54.751446+00:00
+
+ ## cc.dev - Database-Driven Email Marketing
+ - [https://cc.dev](https://cc.dev)
+ - date_published: 2023-10-25T18:36:03.249709+00:00
+
+ ## Ccache — Compiler cache
+ - [https://ccache.dev](https://ccache.dev)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## CCT+
+ - [https://cctplus.dev](https://cctplus.dev)
+ - date_published: 2024-06-23T14:36:21.843279+00:00
+
+ ## Home - Caribbean Developers Conference 2022
+ - [https://cdc.dev](https://cdc.dev)
+ - date_published: 2024-06-26T21:33:45.625711+00:00
+
+ ## Home - CDLA
+ - [https://cdla.dev](https://cdla.dev)
+ - date_published: 2024-06-19T07:38:22.924357+00:00
+
+ ## Cedric van Putten
+ - [https://cedric.dev](https://cedric.dev)
+ - date_published: 2024-06-21T20:21:52.910113+00:00
+
+ ## CEL  |  Common Expression Language
+ - [https://cel.dev](https://cel.dev)
+ - date_published: 2024-02-20T16:26:57+00:00
+
+ ## Celery - Distributed Task Queue — Celery 5.3.6 documentation
+ - [https://docs.celeryq.dev](https://docs.celeryq.dev)
+ - date_published: 2024-02-08T17:57:32.682953+00:00
+
+ ## Show HN: Celest – Flutter Cloud Platform
+ - [https://celest.dev](https://celest.dev)
+ - date_published: 2024-04-01T14:00:55+00:00
+
+ ## Hello, I'm Cendyne
+ - [https://cendyne.dev](https://cendyne.dev)
+ - date_published: 2023-10-25T18:36:04.595071+00:00
+
+ ## Census Engineering
+ - [https://census.dev](https://census.dev)
+ - date_published: 2023-10-25T18:36:08.128182+00:00
+
+ ## Centrifugo – scalable real-time messaging server in a language-agnostic way. Set up once and forever. | Centrifugo
+ - [https://centrifugal.dev](https://centrifugal.dev)
+ - date_published: 2024-06-15T11:53:54+00:00
+
+ ## Jack's home on the web
+ - [https://cep.dev](https://cep.dev)
+ - date_published: 2024-05-06T13:26:06.318856+00:00
+ - tags: ['personal']
+
+ ## Cerbos: Open-Source Authorization Layer & Access Control System
+ - [https://cerbos.dev](https://cerbos.dev)
+ - date_published: 2024-06-19T22:14:39.431746+00:00
+
+ ## cerboscommunity #announcements
+ - [https://community.cerbos.dev](https://community.cerbos.dev)
+ - date_published: 2024-04-29T07:58:50.539658+00:00
+
+ ## Painless access control for your software :: Cerbos // Documentation
+ - [https://docs.cerbos.dev](https://docs.cerbos.dev)
+ - date_published: 2024-07-23T21:20:57.965262+00:00
+
+ ## Cerbos Playground - Prototype, test and share policies
+ - [https://play.cerbos.dev](https://play.cerbos.dev)
+ - date_published: 2024-06-19T13:12:13+00:00
+
+ ## Trust Center
+ - [https://trust.cerbos.dev](https://trust.cerbos.dev)
+ - date_published: 2024-10-31T04:46:19.703902+00:00
+
+ ## Certification of Competency for Modern Developers
+ - [https://certificates.dev](https://certificates.dev)
+ - date_published: 2024-06-22T23:43:39.752298+00:00
+
+ ## Virtual meetups, workshops and conferences for developers / CFE.dev
+ - [https://cfe.dev](https://cfe.dev)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Call For Papers
+ - [https://devoxxfr2024.cfp.dev](https://devoxxfr2024.cfp.dev)
+ - date_published: 2024-07-03T11:56:26+00:00
+
+ ## Call For Papers
+ - [https://dvbe24.cfp.dev](https://dvbe24.cfp.dev)
+ - date_published: 2024-07-24T06:08:24.852454+00:00
+
+ ## chadxz.dev
+ - [https://chadxz.dev](https://chadxz.dev)
+ - date_published: 2023-10-25T18:36:14.744551+00:00
+
+ ## Chainguard: Fortified Software Delivery
+ - [https://chainguard.dev](https://chainguard.dev)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Chainguard
+ - [https://console.chainguard.dev](https://console.chainguard.dev)
+ - date_published: 2024-07-23T23:02:35.467695+00:00
+
+ ## chainguard.skilljar.com
+ - [https://courses.chainguard.dev](https://courses.chainguard.dev)
+ - date_published: 2024-08-08T20:07:50.591458+00:00
+
+ ## Chainguard Academy — Software Supply Chain Security Knowledge Base
+ - [https://edu.chainguard.dev](https://edu.chainguard.dev)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Chainguard
+ - [https://images.chainguard.dev](https://images.chainguard.dev)
+ - date_published: 2024-04-29T07:27:57.886148+00:00
+
  ## DEV: Challenge Accepted 2024 - The Third Wave
  - [https://www.challengeaccepted.dev](https://www.challengeaccepted.dev)
  - date_published: 2024-06-07T21:24:04+00:00
@@ -3805,275 +4071,4 @@
  ## jetc.dev: Jetpack Compose Resources
  - [https://jetc.dev](https://jetc.dev)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## Jethro Kuan
- - [https://blog.jethro.dev](https://blog.jethro.dev)
- - date_published: 2021-12-25T00:00:00+00:00
-
- ## Jani Eväkallio
- - [https://jevakallio.dev](https://jevakallio.dev)
- - date_published: 2024-07-22T17:18:10.382398+00:00
-
- ## John Freeman
- - [https://jfreeman.dev](https://jfreeman.dev)
- - date_published: 2023-10-25T08:58:37.230030+00:00
- - tags: ['personal']
-
- ## Feed – jhey.dev
- - [https://jhey.dev](https://jhey.dev)
- - date_published: 2024-04-30T02:02:07.171068+00:00
-
- ## One Hundred Days
- - [https://100.jimmitchell.dev](https://100.jimmitchell.dev)
- - date_published: 2024-08-07T20:27:45.771053+00:00
-
- ## Jim Mitchell
- - [https://jimmitchell.dev](https://jimmitchell.dev)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## @jimmyislive
- - [https://jimmyislive.dev](https://jimmyislive.dev)
- - date_published: 2023-10-25T09:21:43.382608+00:00
- - tags: ['personal']
-
- ## JIT: AI-powered coding platform and community
- - [https://jit.dev](https://jit.dev)
- - date_published: 2024-10-30T18:51:18.586160+00:00
-
- ## Build software better, together
- - [https://app.jiter.dev](https://app.jiter.dev)
- - date_published: 2024-04-29T07:49:07.034565+00:00
-
- ## Jiter Docs | Jiter Docs
- - [https://docs.jiter.dev](https://docs.jiter.dev)
- - date_published: 2024-04-29T07:49:10.144168+00:00
-
- ## Just in Time Webhooks | Jiter
- - [https://jiter.dev](https://jiter.dev)
- - date_published: 2023-10-25T18:38:47.496168+00:00
-
- ## JJTech
- - [https://jjtech.dev](https://jjtech.dev)
- - date_published: 2023-11-26T15:19:14+00:00
-
- ## Julien Landuré - jlandure.dev
- - [https://jlandure.dev](https://jlandure.dev)
- - date_published: 2024-07-29T16:05:14+00:00
-
- ## Jan-Lukas Else
- - [https://jlelse.dev](https://jlelse.dev)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Front-end development taken seriously.
- - [https://jlozovei.dev](https://jlozovei.dev)
- - date_published: 2023-01-26T15:44:29+00:00
-
- ## EndTRACKER
- - [https://hugo-dynamic.jmmv.dev](https://hugo-dynamic.jmmv.dev)
- - date_published: 2024-04-29T07:49:23.876478+00:00
-
- ## Julio Merino (jmmv.dev)
- - [https://jmmv.dev](https://jmmv.dev)
- - date_published: 2023-10-25T08:58:38.049908+00:00
- - tags: ['personal']
-
- ## ~ Sylvie ~
- - [https://degoogle.jmoore.dev](https://degoogle.jmoore.dev)
- - date_published: 2024-05-14T04:04:40.131985+00:00
- - tags: ['personal']
-
- ## John Morrice
- - [https://jmorrice.dev](https://jmorrice.dev)
- - date_published: 2023-10-25T09:21:44.400786+00:00
- - tags: ['personal']
-
- ## Plausible · Web analytics
- - [https://analytics.jmx.dev](https://analytics.jmx.dev)
- - date_published: 2024-05-12T05:24:18.344555+00:00
-
- ## Senior Engineer Jobsearch
- - [https://jobsearch.dev](https://jobsearch.dev)
- - date_published: 2024-06-22T17:06:34.657147+00:00
-
- ## joev.dev: thoughts, engineering, art, life
- - [https://joev.dev](https://joev.dev)
- - date_published: 2023-12-31T19:01:54.757850+00:00
-
- ## Home - Joff Tiquez
- - [https://jofftiquez.dev](https://jofftiquez.dev)
- - date_published: 2024-02-22T02:49:46+00:00
-
- ## Jogendra
- - [https://jogendra.dev](https://jogendra.dev)
- - date_published: 2024-05-18T00:02:12+00:00
-
- ## Johannes Konings
- - [https://johanneskonings.dev](https://johanneskonings.dev)
- - date_published: 2024-04-20T00:00:00+00:00
-
- ## John Garrett
- - [https://johngarrett.dev](https://johngarrett.dev)
- - date_published: 2019-04-23T00:00:00+00:00
-
- ## John O'Reilly
- - [https://johnoreilly.dev](https://johnoreilly.dev)
- - date_published: 2024-01-11T05:09:58.589540+00:00
-
- ## JokeAPI
- - [https://jokeapi.dev](https://jokeapi.dev)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## JokeAPI
- - [https://v2.jokeapi.dev](https://v2.jokeapi.dev)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## JollyUI
- - [https://www.jollyui.dev](https://www.jollyui.dev)
- - date_published: 2024-06-23T03:51:59.844727+00:00
-
- ## Jonas Hungershausen
- - [https://jonas-jonas.dev](https://jonas-jonas.dev)
- - date_published: 2024-07-18T12:27:23.413483+00:00
-
- ## Home | Jon Mease
- - [https://jonmmease.dev](https://jonmmease.dev)
- - date_published: 2023-07-03T13:38:18+00:00
-
- ## Tabs & Spaces
- - [https://jorgearuv.dev](https://jorgearuv.dev)
- - date_published: 2024-05-11T10:07:27.756318+00:00
-
- ## Jorge Cortés' Website, and Blog about PHP, Laravel and Javascript
- - [https://jorgecortes.dev](https://jorgecortes.dev)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home
- - [https://josefaidt.dev](https://josefaidt.dev)
- - date_published: 2024-05-11T10:07:10.796580+00:00
-
- ## Joseph Shambrook
- - [https://josephshambrook.dev](https://josephshambrook.dev)
- - date_published: 2024-05-07T23:16:48.183829+00:00
-
- ## joshcole.dev - a million projects
- - [https://joshcole.dev](https://joshcole.dev)
- - date_published: 2024-01-01T00:07:45+00:00
-
- ## joshthomas.dev
- - [https://joshthomas.dev](https://joshthomas.dev)
- - date_published: 2024-05-11T10:03:48.129723+00:00
-
- ## Mastodon
- - [https://social.joshthomas.dev](https://social.joshthomas.dev)
- - date_published: 2024-07-13T07:57:55.707296+00:00
-
- ## The Blog of Josias
- - [https://josias.dev](https://josias.dev)
- - date_published: 2024-05-09T08:02:00.015430+00:00
-
- ## Plausible · Web analytics
- - [https://p.jpoehnelt.dev](https://p.jpoehnelt.dev)
- - date_published: 2024-07-14T09:09:53.414452+00:00
-
- ## Mastodon
- - [https://social.jpoehnelt.dev](https://social.jpoehnelt.dev)
- - date_published: 2024-07-14T09:09:52.524015+00:00
-
- ## jr dot dev
- - [https://jr.dev](https://jr.dev)
- - date_published: 2024-08-07T20:30:26.324478+00:00
-
- ## Jared Rhizor
- - [https://jrhizor.dev](https://jrhizor.dev)
- - date_published: 2024-05-14T04:03:33+00:00
- - tags: ['personal']
-
- ## Jeremy Frank | Homepage
- - [https://jrmy.dev](https://jrmy.dev)
- - date_published: 2024-04-30T02:16:44.898549+00:00
-
- ## Jesco Wuester - Frontend development and Design
- - [https://jsco.dev](https://jsco.dev)
- - date_published: 2024-05-06T14:18:09.571719+00:00
-
- ## jsgroth.dev
- - [https://jsgroth.dev](https://jsgroth.dev)
- - date_published: 2024-05-26T04:57:13+00:00
-
- ## JSPM - ES Module Package Manager and CDN
- - [https://jspm.dev](https://jspm.dev)
- - date_published: 2024-01-13T20:41:58+00:00
-
- ## Hi, I'm John. - Thoughts and Ideas
- - [https://md.jtmn.dev](https://md.jtmn.dev)
- - date_published: 2000-01-01T00:00:00+00:00
-
- ## Home
- - [https://juanhz.dev](https://juanhz.dev)
- - date_published: 2024-09-16T23:09:16.418386+00:00
-
- ## Snowglobe
- - [https://snowglobe.judahbrown.dev](https://snowglobe.judahbrown.dev)
- - date_published: 2024-06-20T15:24:32.240640+00:00
-
- ## Julian Heuser
- - [https://julianh.dev](https://julianh.dev)
- - date_published: 2024-07-20T19:25:31.603975+00:00
- - tags: ['personal']
-
- ## Juliaviolet.dev
- - [https://juliaviolet.dev](https://juliaviolet.dev)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## JuMP
- - [https://jump.dev](https://jump.dev)
- - date_published: 2024-04-28T01:58:17.126647+00:00
-
- ## Home
- - [https://juri.dev](https://juri.dev)
- - date_published: 2024-06-20T07:00:43.655905+00:00
-
- ## Just for Fun. No, Really.
- - [https://justforfunnoreally.dev](https://justforfunnoreally.dev)
- - date_published: 2023-10-25T18:38:48.340384+00:00
-
- ## Justin's Blog
- - [https://justinphu.dev](https://justinphu.dev)
- - date_published: 2024-01-14T17:11:36.340538+00:00
-
- ## Just Simply | Stop saying how simple things are in our docs
- - [https://justsimply.dev](https://justsimply.dev)
- - date_published: 2023-10-25T18:38:49.030871+00:00
-
- ## Home - Julien Vanelian
- - [https://jvanelian.dev](https://jvanelian.dev)
- - date_published: 2024-07-23T23:32:01.639744+00:00
-
- ## The website of jyn
- - [https://jyn.dev](https://jyn.dev)
- - date_published: 2023-10-25T18:38:50.121076+00:00
-
- ## Kubernetes Community
- - [https://k8s.dev](https://k8s.dev)
- - date_published: 2024-10-19T17:42:12.545030+00:00
-
- ## Kalan's Blog
- - [https://blog.kalan.dev](https://blog.kalan.dev)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Home
- - [https://life.kalan.dev](https://life.kalan.dev)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## 自我介紹 - 愷開（Kalan）
- - [https://me.kalan.dev](https://me.kalan.dev)
- - date_published: 2024-07-10T07:19:51.909202+00:00
-
- ## 四零二曜日
- - [https://weekly.kalan.dev](https://weekly.kalan.dev)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## kamilcodes.dev
- - [https://kamilcodes.dev](https://kamilcodes.dev)
- - date_published: 2022-06-16T00:00:00+00:00
 

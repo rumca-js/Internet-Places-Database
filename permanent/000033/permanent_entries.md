@@ -1,3 +1,7 @@
+ ## Storied. Brand storytelling for the mobile age.
+ - [https://cloud.storied.co](https://cloud.storied.co)
+ - date_published: 2024-06-15T19:55:11.836966+00:00
+
  ## Storied Knowledge Base
  - [https://help.storied.co](https://help.storied.co)
  - date_published: 2024-09-19T01:32:03.589226+00:00
@@ -4011,8 +4015,4 @@
  ## Zona Caribe - ZCAR / Universidad Nacional Abierta y a Distancia UNAD
  - [https://caribe.unad.edu.co](https://caribe.unad.edu.co)
  - date_published: 2023-07-13T13:37:02+00:00
-
- ## Zona Centro Oriente - ZCORI/ Universidad Nacional Abierta y a Distancia UNAD
- - [https://centroriente.unad.edu.co](https://centroriente.unad.edu.co)
- - date_published: 2023-07-14T13:52:28+00:00
 

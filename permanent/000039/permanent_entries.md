@@ -1,4 +1,8 @@
  ## The Bookseller | At the heart of publishing since 1858
+ - [https://books.affino.com](https://books.affino.com)
+ - date_published: 2024-05-06T16:30:58.825731+00:00
+
+ ## The Bookseller | At the heart of publishing since 1858
  - [https://thebookseller.affino.com](https://thebookseller.affino.com)
  - date_published: 2024-05-06T16:30:56.257253+00:00
 
@@ -4017,8 +4021,4 @@
  ## Ai Tool Hunt - Best Free AI Tools 2024 | Ultimate List of AI Software & Websites | AI Online Free
  - [https://aitoolhunt.com](https://aitoolhunt.com)
  - date_published: 2024-09-14T07:48:38.134264+00:00
-
- ## AI Tools: The Best All in One New AI Tool Platform
- - [https://aitoolmall.com](https://aitoolmall.com)
- - date_published: 2024-07-19T00:00:00+00:00
 

@@ -1,3 +1,268 @@
+ ## The Mines Repository
+ - [https://repository.mines.edu](https://repository.mines.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Home - Research and Technology Transfer
+ - [http://research.mines.edu](http://research.mines.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Home - Space Resources Program
+ - [https://space.mines.edu](https://space.mines.edu)
+ - date_published: 2024-10-15T01:51:02+00:00
+
+ ## Home - Student Activities
+ - [http://studentactivities.mines.edu](http://studentactivities.mines.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Experience Our Campus - Campus Tour
+ - [http://tour.mines.edu](http://tour.mines.edu)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Colorado School of Mines - Sign In
+ - [https://trailhead.mines.edu](https://trailhead.mines.edu)
+ - date_published: 2024-10-15T01:52:37.102824+00:00
+
+ ## Home - Squier Group
+ - [https://ultrafastoptics.mines.edu](https://ultrafastoptics.mines.edu)
+ - date_published: 2024-10-15T01:41:26+00:00
+
+ ## Home - Undergraduate Student Government
+ - [https://usg.mines.edu](https://usg.mines.edu)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Beck Venture Center - Beck Venture Center
+ - [https://ventures.mines.edu](https://ventures.mines.edu)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://weare.mines.edu](https://weare.mines.edu)
+ - date_published: 2024-10-15T01:34:49.196975+00:00
+
+ ## Colorado School of Mines | A Premier Engineering University
+ - [https://webapps.mines.edu](https://webapps.mines.edu)
+ - date_published: 2024-10-01T00:00:00+00:00
+
+ ## Student Health Center - Student Health
+ - [http://wellnesscenter.mines.edu](http://wellnesscenter.mines.edu)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Home / EMS
+ - [https://minnstate.bookitadmin.minnstate.edu](https://minnstate.bookitadmin.minnstate.edu)
+ - date_published: 2024-02-08T16:36:57.109155+00:00
+
+ ## Home
+ - [https://servicedesk.minnstate.edu](https://servicedesk.minnstate.edu)
+ - date_published: 2024-05-07T19:32:10.852282+00:00
+
+ ## StarID Self Service - Minnesota State
+ - [https://starid.minnstate.edu](https://starid.minnstate.edu)
+ - date_published: 2024-03-04T22:46:53+00:00
+
+ ## Minnesota State - 
+			Minnesota State Colleges and Universities
+ - [https://www.minnstate.edu](https://www.minnstate.edu)
+ - date_published: 2024-07-01T05:41:17+00:00
+
+ ## Minot State University
+ - [https://www.minotstateu.edu](https://www.minotstateu.edu)
+ - date_published: 2024-07-01T16:01:10.733633+00:00
+
+ ## Misericordia Digital Commons
+ - [https://digitalcommons.misericordia.edu](https://digitalcommons.misericordia.edu)
+ - date_published: 2024-07-02T10:48:04.883410+00:00
+
+ ## Mississippi Public Universities - Advancing Our State Together
+ - [http://www.mississippi.edu](http://www.mississippi.edu)
+ - date_published: 2024-07-02T11:16:11.327865+00:00
+
+ ## Home
+ - [https://admissions.missouri.edu](https://admissions.missouri.edu)
+ - date_published: 2024-07-01T14:57:49.689220+00:00
+
+ ## Events Calendar
+ - [https://calendar.missouri.edu](https://calendar.missouri.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Office of Institutional Equity
+ - [https://civilrights.missouri.edu](https://civilrights.missouri.edu)
+ - date_published: 2024-07-01T14:58:50.870809+00:00
+
+ ## Home - Reading Recovery Council of North America
+ - [http://csoc.missouri.edu](http://csoc.missouri.edu)
+ - date_published: 2024-10-31T07:59:04.476539+00:00
+
+ ## Office of Institutional Equity
+ - [https://equity.missouri.edu](https://equity.missouri.edu)
+ - date_published: 2024-07-01T14:57:59.718714+00:00
+
+ ## Mizzou Families // University of Missouri
+ - [https://families.missouri.edu](https://families.missouri.edu)
+ - date_published: 2024-05-07T19:32:32.502186+00:00
+
+ ## Office of Human Resources | Office of Human Resources - Office of Human Resources
+ - [https://hr.missouri.edu](https://hr.missouri.edu)
+ - date_published: 2024-06-25T15:57:51+00:00
+
+ ## Missouri School of Journalism – Official Website for the Missouri School of Journalism at the University of Missouri.
+ - [https://journalism.missouri.edu](https://journalism.missouri.edu)
+ - date_published: 2024-05-09T06:25:35.863279+00:00
+
+ ## School of Law
+ - [http://law.missouri.edu](http://law.missouri.edu)
+ - date_published: 2024-09-15T23:32:57.496651+00:00
+
+ ## Library Guides
+ - [https://libraryguides.missouri.edu](https://libraryguides.missouri.edu)
+ - date_published: 2024-10-22T08:52:45.252093+00:00
+
+ ## Libraries // Mizzou // University of Missouri
+ - [https://library.missouri.edu](https://library.missouri.edu)
+ - date_published: 2024-06-18T14:24:03.788444+00:00
+
+ ## Undergraduate Programs A-Z
+ - [https://majors.missouri.edu](https://majors.missouri.edu)
+ - date_published: 2024-07-01T14:58:08.013269+00:00
+
+ ## Mizzou // Campus Map
+ - [http://map.missouri.edu](http://map.missouri.edu)
+ - date_published: 2023-11-22T15:48:41+00:00
+
+ ## Mizzou
+ - [https://missouri.edu](https://missouri.edu)
+ - date_published: 2024-05-07T19:32:23.394021+00:00
+
+ ## Service Discovery
+ - [https://mizzouone.missouri.edu](https://mizzouone.missouri.edu)
+ - date_published: 2024-07-01T14:59:19.260591+00:00
+
+ ## MU Alert
+ - [https://mualert.missouri.edu](https://mualert.missouri.edu)
+ - date_published: 2024-06-13T14:12:29+00:00
+
+ ## Show Me Mizzou // University of Missouri
+ - [https://munews.missouri.edu](https://munews.missouri.edu)
+ - date_published: 2024-07-01T14:58:40.693808+00:00
+
+ ## Show Me Mizzou // University of Missouri
+ - [https://news.missouri.edu](https://news.missouri.edu)
+ - date_published: 2024-07-01T14:58:10.672765+00:00
+
+ ## New Student Programs
+ - [https://newstudent.missouri.edu](https://newstudent.missouri.edu)
+ - date_published: 2024-07-01T14:58:23.239514+00:00
+
+ ## Parking & Transportation // University of Missouri
+ - [https://parking.missouri.edu](https://parking.missouri.edu)
+ - date_published: 2024-07-01T14:57:58.020473+00:00
+
+ ## Home
+ - [https://president.missouri.edu](https://president.missouri.edu)
+ - date_published: 2024-05-07T19:32:22.041569+00:00
+
+ ## Office of the University Registrar
+ - [https://registrar.missouri.edu](https://registrar.missouri.edu)
+ - date_published: 2024-07-01T14:58:25.045842+00:00
+
+ ## Show Me Mizzou // University of Missouri
+ - [https://showme.missouri.edu](https://showme.missouri.edu)
+ - date_published: 2024-02-08T18:02:26.036563+00:00
+
+ ## Student Affairs // University of Missouri
+ - [https://studentaffairs.missouri.edu](https://studentaffairs.missouri.edu)
+ - date_published: 2024-07-01T14:59:13.359318+00:00
+
+ ## Webmail // Mizzou // University of Missouri
+ - [https://webmail.missouri.edu](https://webmail.missouri.edu)
+ - date_published: 2023-07-14T16:38:31+00:00
+
+ ## Welcome Week // University of Missouri
+ - [https://welcomeweek.missouri.edu](https://welcomeweek.missouri.edu)
+ - date_published: 2024-07-01T14:58:27.114838+00:00
+
+ ## Student Health & Well-Being // University of Missouri
+ - [https://wellbeing.missouri.edu](https://wellbeing.missouri.edu)
+ - date_published: 2024-07-01T14:59:15.942381+00:00
+
+ ## Class Schedule - Missouri State
+ - [http://courses.missouristate.edu](http://courses.missouristate.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## 3D Generative Adversarial Network
+ - [http://3dgan.csail.mit.edu](http://3dgan.csail.mit.edu)
+ - date_published: 2019-07-19T23:42:33+00:00
+
+ ## 3D Interpreter Networks
+ - [http://3dinterpreter.csail.mit.edu](http://3dinterpreter.csail.mit.edu)
+ - date_published: 2024-04-15T07:14:10+00:00
+
+ ## MIT Status
+ - [http://3down.mit.edu](http://3down.mit.edu)
+ - date_published: 2024-06-16T12:36:55.538636+00:00
+
+ ## 3D-Aware Scene Manipulation via Inverse Graphics
+ - [http://3dsdn.csail.mit.edu](http://3dsdn.csail.mit.edu)
+ - date_published: 2018-12-17T14:24:49+00:00
+
+ ## 3D Scene Layout Networks
+ - [http://3dsln.csail.mit.edu](http://3dsln.csail.mit.edu)
+ - date_published: 2020-07-27T20:46:00+00:00
+
+ ## Redirect
+ - [https://61600.csail.mit.edu](https://61600.csail.mit.edu)
+ - date_published: 2024-02-02T22:10:22+00:00
+
+ ## Redirect
+ - [https://65610.csail.mit.edu](https://65610.csail.mit.edu)
+ - date_published: 2024-05-20T13:34:04+00:00
+
+ ## Abstraction
+ - [http://abstraction.csail.mit.edu](http://abstraction.csail.mit.edu)
+ - date_published: 2020-09-17T17:04:02+00:00
+
+ ## Home | Captioning and Accessibility
+ - [https://accessibility.mit.edu](https://accessibility.mit.edu)
+ - date_published: 2024-05-07T19:33:10.706026+00:00
+
+ ## Art, Culture, and Technology (ACT)
+ - [https://act.mit.edu](https://act.mit.edu)
+ - date_published: 2024-05-08T10:20:24.083955+00:00
+
+ ## aera
+ - [https://aera.mit.edu](https://aera.mit.edu)
+ - date_published: 2023-10-25T18:53:43.612659+00:00
+
+ ## MIT AeroAstro
+ - [https://aeroastro.mit.edu](https://aeroastro.mit.edu)
+ - date_published: 2024-05-07T19:35:18.393154+00:00
+
+ ## What to know today... | MIT AgeLab
+ - [https://agelab.mit.edu](https://agelab.mit.edu)
+ - date_published: 2024-07-07T04:54:40.071792+00:00
+
+ ## MIT MAS.S68 | Generative AI for Constructive Communication
+ - [https://ai4comm.media.mit.edu](https://ai4comm.media.mit.edu)
+ - date_published: 2023-06-10T07:09:27+00:00
+
+ ## MIT – Alana Down Syndrome Center
+ - [https://alana.mit.edu](https://alana.mit.edu)
+ - date_published: 2024-05-08T12:04:20.829620+00:00
+
+ ## The Algonauts Project 2023
+ - [http://algonauts.csail.mit.edu](http://algonauts.csail.mit.edu)
+ - date_published: 2023-08-28T16:13:02+00:00
+
+ ## Algorithmic Alignment Group
+ - [https://algorithmicalignment.csail.mit.edu](https://algorithmicalignment.csail.mit.edu)
+ - date_published: 2024-04-28T19:11:11+00:00
+
+ ## Join MIT Alumni Online Community
+ - [https://alumcommunity.mit.edu](https://alumcommunity.mit.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## MIT Alumni Association
+ - [https://alum.mit.edu](https://alum.mit.edu)
+ - date_published: 2024-05-08T10:20:28.518474+00:00
+
  ## Home - MIT Alumni Advisors Hub
  - [https://alumniadvisors.mit.edu](https://alumniadvisors.mit.edu)
  - date_published: 2024-02-28T00:00:00+00:00
@@ -3740,268 +4005,4 @@
  ## Notre Dame Fire Department
  - [https://ndfd.nd.edu](https://ndfd.nd.edu)
  - date_published: 2024-05-02T15:47:14+00:00
-
- ## Notre Dame Philosophical Reviews
- - [https://ndpr.nd.edu](https://ndpr.nd.edu)
- - date_published: 2024-05-07T16:16:12.105690+00:00
-
- ## Home
- - [https://ndworks.nd.edu](https://ndworks.nd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Notre Dame News | University of Notre Dame
- - [https://news.nd.edu](https://news.nd.edu)
- - date_published: 2023-10-25T18:55:35.076777+00:00
-
- ## Office of Information Technology
- - [http://oit.nd.edu](http://oit.nd.edu)
- - date_published: 2024-06-28T19:01:34+00:00
-
- ## Office of Public Affairs and Communications
- - [https://opac.nd.edu](https://opac.nd.edu)
- - date_published: 2024-01-18T19:52:55+00:00
-
- ## Home
- - [https://performingarts.nd.edu](https://performingarts.nd.edu)
- - date_published: 2024-07-01T15:56:20.551173+00:00
-
- ## Home // Department of Philosophy // University of Notre Dame
- - [https://philosophy.nd.edu](https://philosophy.nd.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Notre Dame Police Department
- - [https://police.nd.edu](https://police.nd.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home // Department of Political Science // University of Notre Dame
- - [https://politicalscience.nd.edu](https://politicalscience.nd.edu)
- - date_published: 2024-06-28T19:49:24+00:00
-
- ## RecSports
- - [https://recsports.nd.edu](https://recsports.nd.edu)
- - date_published: 2024-10-02T10:28:13.033536+00:00
-
- ## Office of the Registrar
- - [https://registrar.nd.edu](https://registrar.nd.edu)
- - date_published: 2024-06-06T13:38:12+00:00
-
- ## myNotreDame
- - [https://reunion.nd.edu](https://reunion.nd.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Risk Management and Safety
- - [https://riskmanagement.nd.edu](https://riskmanagement.nd.edu)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Campus Safety and University Operations
- - [https://safetyandoperations.nd.edu](https://safetyandoperations.nd.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Search Notre Dame | University of Notre Dame
- - [https://search.nd.edu](https://search.nd.edu)
- - date_published: 2024-01-02T13:51:28+00:00
-
- ## Speak Up
- - [http://speakup.nd.edu](http://speakup.nd.edu)
- - date_published: 2024-10-02T10:30:20.271418+00:00
-
- ## static.nd.edu | University of Notre Dame
- - [https://static.nd.edu](https://static.nd.edu)
- - date_published: 2018-04-17T16:10:09+00:00
-
- ## Stories
- - [https://stories.nd.edu](https://stories.nd.edu)
- - date_published: 2024-05-07T19:45:24.023439+00:00
-
- ## University Strategic Framework
- - [https://strategicframework.nd.edu](https://strategicframework.nd.edu)
- - date_published: 2024-09-13T00:00:00+00:00
-
- ## Technology Ethics Center
- - [https://techethics.nd.edu](https://techethics.nd.edu)
- - date_published: 2024-07-12T13:47:58+00:00
-
- ## Home - ThinkND
- - [https://think.nd.edu](https://think.nd.edu)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Campus Tour
- - [https://tour.nd.edu](https://tour.nd.edu)
- - date_published: 2024-03-22T20:36:56+00:00
-
- ## myNotreDame
- - [https://travelingirish.nd.edu](https://travelingirish.nd.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Home // We Are ND // University of Notre Dame
- - [https://weare.nd.edu](https://weare.nd.edu)
- - date_published: 2024-10-02T10:29:54.951639+00:00
-
- ## University of Notre Dame
- - [http://www3.nd.edu](http://www3.nd.edu)
- - date_published: 2024-08-06T04:24:24.456910+00:00
-
- ## Home | University of Notre Dame | University of Notre Dame
- - [https://wwwnd.nd.edu](https://wwwnd.nd.edu)
- - date_published: 2024-06-14T17:56:44+00:00
-
- ## Homepage | North Dakota State College of Science (NDSCS) | Wahpeton/Fargo
- - [https://www.ndscs.edu](https://www.ndscs.edu)
- - date_published: 2024-07-01T15:37:46+00:00
-
- ## Career and Advising Center - North Dakota State University
- - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
- - date_published: 2024-05-07T19:46:04.013334+00:00
-
- ## Career and Advising Center - North Dakota State University
- - [https://career.ndsu.edu](https://career.ndsu.edu)
- - date_published: 2024-07-01T16:01:34.483513+00:00
-
- ## IT Knowledge Base
- - [https://kb.ndsu.edu](https://kb.ndsu.edu)
- - date_published: 2024-07-01T16:02:13.033419+00:00
-
- ## | NDSU Libraries
- - [https://library.ndsu.edu](https://library.ndsu.edu)
- - date_published: 2024-05-07T19:45:50.428351+00:00
-
- ## - myNDSU| North Dakota State University
- - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
- - date_published: 2024-05-07T19:46:13.913614+00:00
-
- ## NDSU - North Dakota State University
- - [https://ndsu.edu](https://ndsu.edu)
- - date_published: 2023-10-25T18:55:39.000458+00:00
-
- ## Home
- - [https://capstone.ndu.edu](https://capstone.ndu.edu)
- - date_published: 2024-06-22T07:07:08.838470+00:00
-
- ## Center for Applied Strategic Learning
- - [http://casl.ndu.edu](http://casl.ndu.edu)
- - date_published: 2024-07-08T21:39:19.622264+00:00
-
- ## Home
- - [https://cic.ndu.edu](https://cic.ndu.edu)
- - date_published: 2024-05-08T02:44:04.388879+00:00
-
- ## Institute for National Strategic Studies (INSS)
- - [https://inss.ndu.edu](https://inss.ndu.edu)
- - date_published: 2024-07-07T04:55:16.136208+00:00
-
- ## Center for the Study of Weapons of Mass Destruction > Home
- - [https://wmdcenter.ndu.edu](https://wmdcenter.ndu.edu)
- - date_published: 2024-06-17T10:48:04.873119+00:00
-
- ## National Defense University
- - [https://www.ndu.edu](https://www.ndu.edu)
- - date_published: 2024-07-03T13:48:41.778164+00:00
-
- ## Blackboard Learn
- - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
- - date_published: 2004-07-01T16:00:49+00:00
-
- ## Buffett Institute - Home
- - [http://buffettinstitute.nebraska.edu](http://buffettinstitute.nebraska.edu)
- - date_published: 2024-07-02T04:49:17.126924+00:00
-
- ## University of Nebraska System Office Employment Opportunities | Home
- - [https://careers.nebraska.edu](https://careers.nebraska.edu)
- - date_published: 2024-07-02T04:49:25+00:00
-
- ## ITS
- - [http://its.nebraska.edu](http://its.nebraska.edu)
- - date_published: 2024-07-02T04:55:02.863686+00:00
-
- ## MYRED
- - [https://myred.nebraska.edu](https://myred.nebraska.edu)
- - date_published: 2023-11-20T02:16:29+00:00
-
- ## University of Nebraska System
- - [https://nebraska.edu](https://nebraska.edu)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## National Strategic Research Institute
- - [https://nsri.nebraska.edu](https://nsri.nebraska.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home
- - [https://nusupport.nebraska.edu](https://nusupport.nebraska.edu)
- - date_published: 2024-07-02T04:51:01.792615+00:00
-
- ## Home
- - [http://online.nebraska.edu](http://online.nebraska.edu)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Peter Kiewit Institute | About UNO | University of Nebraska Omaha
- - [https://pki.nebraska.edu](https://pki.nebraska.edu)
- - date_published: 2024-10-17T22:25:18.777288+00:00
-
- ## Nebraska Scholarly Commons | University of Nebraska Research
- - [https://scholarlycommons.nebraska.edu](https://scholarlycommons.nebraska.edu)
- - date_published: 2024-06-30T03:04:29.441964+00:00
-
- ## IT Status
- - [http://status.nebraska.edu](http://status.nebraska.edu)
- - date_published: 2024-07-02T04:55:22.457606+00:00
-
- ## TrueYou Self Service | Home
- - [https://trueyou.nebraska.edu](https://trueyou.nebraska.edu)
- - date_published: 2024-07-02T04:55:16.713655+00:00
-
- ## Request Rejected
- - [http://unit.nebraska.edu](http://unit.nebraska.edu)
- - date_published: 2024-07-02T04:55:17.983786+00:00
-
- ## Water for Food
- - [http://waterforfood.nebraska.edu](http://waterforfood.nebraska.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home - Khoury College of Computer Sciences
- - [http://ccs.neu.edu](http://ccs.neu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Dark Patterns Research at Northeastern University · Dark Patterns Research at Northeastern University
- - [https://darkpatterns.ccs.neu.edu](https://darkpatterns.ccs.neu.edu)
- - date_published: 2021-09-01T00:00:00+00:00
-
- ## Department of Electrical & Computer Engineering - Northeastern University
- - [https://ece.neu.edu](https://ece.neu.edu)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## Select Your Destination – The Hubs
- - [http://myneu.neu.edu](http://myneu.neu.edu)
- - date_published: 2024-07-17T09:15:49+00:00
-
- ## Redirect by Primary Affiliation
- - [https://neuidmsso.neu.edu](https://neuidmsso.neu.edu)
- - date_published: 2020-09-02T18:53:30+00:00
-
- ## Auditing Algorithms
- - [https://personalization.ccs.neu.edu](https://personalization.ccs.neu.edu)
- - date_published: 2024-05-28T18:15:37+00:00
-
- ## NEU PRL
- - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
- - date_published: 2024-05-07T19:48:15.637520+00:00
-
- ## Your Page Title
- - [https://prod-web.neu.edu](https://prod-web.neu.edu)
- - date_published: 2021-07-09T20:44:05+00:00
-
- ## Home - Northeastern University
- - [https://www.neu.edu](https://www.neu.edu)
- - date_published: 2024-07-11T10:33:29.575870+00:00
-
- ## NSHE
- - [https://nshe.nevada.edu](https://nshe.nevada.edu)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## Home - University of Nevada Press
- - [https://unpress.nevada.edu](https://unpress.nevada.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## A University in New York City | The New School
- - [https://www.newschool.edu](https://www.newschool.edu)
- - date_published: 2024-07-14T19:32:32.772395+00:00
 

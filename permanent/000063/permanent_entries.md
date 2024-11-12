@@ -1,3 +1,23 @@
+ ## Solomon's Mindfield
+ - [http://solomonsmindfield.blogspot.com](http://solomonsmindfield.blogspot.com)
+ - date_published: 2024-10-21T16:46:49.383741+00:00
+
+ ## Blogger
+ - [http://solonexus.blogspot.com](http://solonexus.blogspot.com)
+ - date_published: 2024-07-20T09:10:33.046054+00:00
+
+ ## Sombras De Oster
+ - [https://sombrasdeoster.blogspot.com](https://sombrasdeoster.blogspot.com)
+ - date_published: 2024-09-02T02:36:58+00:00
+
+ ## A tale of some gamers
+ - [http://somegamers.blogspot.com](http://somegamers.blogspot.com)
+ - date_published: 2024-07-07T05:49:51+00:00
+
+ ## some   LANDSCAPES
+ - [https://some-landscapes.blogspot.com](https://some-landscapes.blogspot.com)
+ - date_published: 2024-06-23T11:30:10+00:00
+
  ## some of nothing
  - [http://someofnothing.blogspot.com](http://someofnothing.blogspot.com)
  - date_published: 2024-03-08T15:37:57+00:00
@@ -2436,6 +2456,10 @@
  - [http://thediceodyssey.blogspot.com](http://thediceodyssey.blogspot.com)
  - date_published: 2024-09-20T10:58:31+00:00
 
+ ## The Digger's Daughter
+ - [https://thediggersdaughter.blogspot.com](https://thediggersdaughter.blogspot.com)
+ - date_published: 2024-11-06T03:05:58+00:00
+
  ## 28mm Miniature Soldier Journey plus anything else that takes my fancy.
  - [http://thediomedef16.blogspot.com](http://thediomedef16.blogspot.com)
  - date_published: 2024-03-13T00:32:09+00:00
@@ -3988,28 +4012,4 @@
  ## TOMHET
  - [http://tmht-itm.blogspot.com](http://tmht-itm.blogspot.com)
  - date_published: 2024-04-03T07:26:20+00:00
-
- ## Ramblings on pretty much anything technical.
- - [http://tmielke.blogspot.com](http://tmielke.blogspot.com)
- - date_published: 2024-03-19T22:17:18+00:00
-
- ## Tzvetan Mikov's Blog
- - [https://tmikov.blogspot.com](https://tmikov.blogspot.com)
- - date_published: 2023-10-25T13:06:10.222159+00:00
-
- ## Networking Eclipse
- - [http://tmober.blogspot.com](http://tmober.blogspot.com)
- - date_published: 2024-03-19T05:04:48+00:00
-
- ## TMRh20s Project Blog
- - [https://tmrh20.blogspot.com](https://tmrh20.blogspot.com)
- - date_published: 2024-05-09T04:23:23.727931+00:00
-
- ## There's No Better Country
- - [http://tnbcbook.blogspot.com](http://tnbcbook.blogspot.com)
- - date_published: 2024-03-21T11:20:30+00:00
-
- ## The Rest of the Story: Tobacco and Alcohol News Analysis and Commentary
- - [http://tobaccoanalysis.blogspot.com](http://tobaccoanalysis.blogspot.com)
- - date_published: 2024-10-21T14:43:02.267994+00:00
 

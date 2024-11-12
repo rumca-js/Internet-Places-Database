@@ -1,3 +1,44 @@
+ ## Daniel Hart
+ - [https://www.danielhartmusic.com](https://www.danielhartmusic.com)
+ - date_published: 2024-06-26T21:24:54.804599+00:00
+
+ ## Daniel Havir
+ - [https://danielhavir.com](https://danielhavir.com)
+ - date_published: 2024-07-12T19:40:37+00:00
+
+ ## Daniel Heil
+ - [http://danielheil.com](http://danielheil.com)
+ - date_published: 2024-10-29T14:29:35.404909+00:00
+
+ ## Daniel Hoang – Experienced management consultant x creative. Xennial bridging analog with digital at the intersection of humanity and machine. Scrappy, creative, and fast.
+ - [https://danielhoang.com](https://danielhoang.com)
+ - date_published: 2023-12-12T09:24:31.582869+00:00
+
+ ## British Travel Writer: Specialist in Portugal, Sustainable & No-Fly Travel - Daniel James Clarke
+ - [https://danieljamesclarke.com](https://danieljamesclarke.com)
+ - date_published: 2024-08-05T00:00:00+00:00
+
+ ## Home - Daniel Afonso
+ - [https://danieljcafonso.com](https://danieljcafonso.com)
+ - date_published: 2024-10-27T23:12:11.925985+00:00
+
+ ## Daniel Kay Hertz
+ - [https://danielkayhertz.com](https://danielkayhertz.com)
+ - date_published: 2024-05-06T22:50:18.379960+00:00
+
+ ## Daniel Khashabi
+ - [https://danielkhashabi.com](https://danielkhashabi.com)
+ - date_published: 2024-04-28T05:51:17.100757+00:00
+ - tags: ['personal']
+
+ ## Daniel Kob | Marketing Leader, Venture Builder & Online Educator
+ - [https://www.danielkob.com](https://www.danielkob.com)
+ - date_published: 2024-06-23T11:57:45.367982+00:00
+
+ ## Dániel Kophelyi
+ - [http://danielkophelyi.com](http://danielkophelyi.com)
+ - date_published: 2024-07-13T15:19:39.705044+00:00
+
  ## Yes you are here!
  - [https://danielkrasner.com](https://danielkrasner.com)
  - date_published: 2020-06-11T08:21:15+00:00
@@ -4026,44 +4067,4 @@
  ## distillation equipment&brewing equipment&fermentation tank&distiller&beer equipment, , Manufacturer & Supplier - DAEYOO
  - [https://www.dayuwz.com](https://www.dayuwz.com)
  - date_published: 2024-06-24T06:05:37.504441+00:00
-
- ## Dayviews - A place for your photos. A place for your memories.
- - [http://dayviews.com](http://dayviews.com)
- - date_published: 2024-07-22T10:53:01.120102+00:00
-
- ## dayvonjersen dot com
- - [https://dayvonjersen.com](https://dayvonjersen.com)
- - date_published: 2023-12-06T09:34:40+00:00
-
- ## music.dayvonjersen.com
- - [https://music.dayvonjersen.com](https://music.dayvonjersen.com)
- - date_published: 2023-06-10T04:33:28+00:00
-
- ## Day You Were Born Personalised Gifts
- - [https://dayyouwereborn.com](https://dayyouwereborn.com)
- - date_published: 2024-06-16T01:05:59.520075+00:00
-
- ## DayZ
- - [https://dayz.com](https://dayz.com)
- - date_published: 2024-05-22T09:10:40+00:00
-
- ## dayzerosec
- - [https://dayzerosec.com](https://dayzerosec.com)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Daze Between NOLA – April 30-May 1 | New Orleans, LA – Lettuce With John Scofield, Gov't Mule With Special Guests and More!
- - [https://dazebetweennola.com](https://dazebetweennola.com)
- - date_published: 2024-05-04T06:57:14.713379+00:00
-
- ## Dazed & Confused Magazine | Fashion, Art, Music, Film, Ideas | Dazed
- - [https://dazeddigital.com](https://dazeddigital.com)
- - date_published: 2023-10-25T13:46:21.108219+00:00
-
- ## Welcome to our career site - Dazed Media
- - [https://careers.dazedmedia.com](https://careers.dazedmedia.com)
- - date_published: 2024-05-01T04:16:54.337150+00:00
-
- ## Dazed Media | Dazed Media
- - [https://dazedmedia.com](https://dazedmedia.com)
- - date_published: 2024-06-15T19:40:08.134075+00:00
 

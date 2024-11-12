@@ -1,3 +1,267 @@
+ ## Notre Dame Philosophical Reviews
+ - [https://ndpr.nd.edu](https://ndpr.nd.edu)
+ - date_published: 2024-05-07T16:16:12.105690+00:00
+
+ ## Home
+ - [https://ndworks.nd.edu](https://ndworks.nd.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Notre Dame News | University of Notre Dame
+ - [https://news.nd.edu](https://news.nd.edu)
+ - date_published: 2023-10-25T18:55:35.076777+00:00
+
+ ## Office of Information Technology
+ - [http://oit.nd.edu](http://oit.nd.edu)
+ - date_published: 2024-06-28T19:01:34+00:00
+
+ ## Office of Public Affairs and Communications
+ - [https://opac.nd.edu](https://opac.nd.edu)
+ - date_published: 2024-01-18T19:52:55+00:00
+
+ ## Home
+ - [https://performingarts.nd.edu](https://performingarts.nd.edu)
+ - date_published: 2024-07-01T15:56:20.551173+00:00
+
+ ## Home // Department of Philosophy // University of Notre Dame
+ - [https://philosophy.nd.edu](https://philosophy.nd.edu)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Notre Dame Police Department
+ - [https://police.nd.edu](https://police.nd.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home // Department of Political Science // University of Notre Dame
+ - [https://politicalscience.nd.edu](https://politicalscience.nd.edu)
+ - date_published: 2024-06-28T19:49:24+00:00
+
+ ## RecSports
+ - [https://recsports.nd.edu](https://recsports.nd.edu)
+ - date_published: 2024-10-02T10:28:13.033536+00:00
+
+ ## Office of the Registrar
+ - [https://registrar.nd.edu](https://registrar.nd.edu)
+ - date_published: 2024-06-06T13:38:12+00:00
+
+ ## myNotreDame
+ - [https://reunion.nd.edu](https://reunion.nd.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Risk Management and Safety
+ - [https://riskmanagement.nd.edu](https://riskmanagement.nd.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Campus Safety and University Operations
+ - [https://safetyandoperations.nd.edu](https://safetyandoperations.nd.edu)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Search Notre Dame | University of Notre Dame
+ - [https://search.nd.edu](https://search.nd.edu)
+ - date_published: 2024-01-02T13:51:28+00:00
+
+ ## Speak Up
+ - [http://speakup.nd.edu](http://speakup.nd.edu)
+ - date_published: 2024-10-02T10:30:20.271418+00:00
+
+ ## static.nd.edu | University of Notre Dame
+ - [https://static.nd.edu](https://static.nd.edu)
+ - date_published: 2018-04-17T16:10:09+00:00
+
+ ## Stories
+ - [https://stories.nd.edu](https://stories.nd.edu)
+ - date_published: 2024-05-07T19:45:24.023439+00:00
+
+ ## University Strategic Framework
+ - [https://strategicframework.nd.edu](https://strategicframework.nd.edu)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Technology Ethics Center
+ - [https://techethics.nd.edu](https://techethics.nd.edu)
+ - date_published: 2024-07-12T13:47:58+00:00
+
+ ## Home - ThinkND
+ - [https://think.nd.edu](https://think.nd.edu)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Campus Tour
+ - [https://tour.nd.edu](https://tour.nd.edu)
+ - date_published: 2024-03-22T20:36:56+00:00
+
+ ## myNotreDame
+ - [https://travelingirish.nd.edu](https://travelingirish.nd.edu)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home // We Are ND // University of Notre Dame
+ - [https://weare.nd.edu](https://weare.nd.edu)
+ - date_published: 2024-10-02T10:29:54.951639+00:00
+
+ ## University of Notre Dame
+ - [http://www3.nd.edu](http://www3.nd.edu)
+ - date_published: 2024-08-06T04:24:24.456910+00:00
+
+ ## Home | University of Notre Dame | University of Notre Dame
+ - [https://wwwnd.nd.edu](https://wwwnd.nd.edu)
+ - date_published: 2024-06-14T17:56:44+00:00
+
+ ## Homepage | North Dakota State College of Science (NDSCS) | Wahpeton/Fargo
+ - [https://www.ndscs.edu](https://www.ndscs.edu)
+ - date_published: 2024-07-01T15:37:46+00:00
+
+ ## Career and Advising Center - North Dakota State University
+ - [https://career-advising.ndsu.edu](https://career-advising.ndsu.edu)
+ - date_published: 2024-05-07T19:46:04.013334+00:00
+
+ ## Career and Advising Center - North Dakota State University
+ - [https://career.ndsu.edu](https://career.ndsu.edu)
+ - date_published: 2024-07-01T16:01:34.483513+00:00
+
+ ## IT Knowledge Base
+ - [https://kb.ndsu.edu](https://kb.ndsu.edu)
+ - date_published: 2024-07-01T16:02:13.033419+00:00
+
+ ## | NDSU Libraries
+ - [https://library.ndsu.edu](https://library.ndsu.edu)
+ - date_published: 2024-05-07T19:45:50.428351+00:00
+
+ ## - myNDSU| North Dakota State University
+ - [https://myndsu.ndsu.edu](https://myndsu.ndsu.edu)
+ - date_published: 2024-05-07T19:46:13.913614+00:00
+
+ ## NDSU - North Dakota State University
+ - [https://ndsu.edu](https://ndsu.edu)
+ - date_published: 2023-10-25T18:55:39.000458+00:00
+
+ ## Home
+ - [https://capstone.ndu.edu](https://capstone.ndu.edu)
+ - date_published: 2024-06-22T07:07:08.838470+00:00
+
+ ## Center for Applied Strategic Learning
+ - [http://casl.ndu.edu](http://casl.ndu.edu)
+ - date_published: 2024-07-08T21:39:19.622264+00:00
+
+ ## Home
+ - [https://cic.ndu.edu](https://cic.ndu.edu)
+ - date_published: 2024-05-08T02:44:04.388879+00:00
+
+ ## Institute for National Strategic Studies (INSS)
+ - [https://inss.ndu.edu](https://inss.ndu.edu)
+ - date_published: 2024-07-07T04:55:16.136208+00:00
+
+ ## Center for the Study of Weapons of Mass Destruction > Home
+ - [https://wmdcenter.ndu.edu](https://wmdcenter.ndu.edu)
+ - date_published: 2024-06-17T10:48:04.873119+00:00
+
+ ## National Defense University
+ - [https://www.ndu.edu](https://www.ndu.edu)
+ - date_published: 2024-07-03T13:48:41.778164+00:00
+
+ ## Blackboard Learn
+ - [https://blackboard.ndus.edu](https://blackboard.ndus.edu)
+ - date_published: 2004-07-01T16:00:49+00:00
+
+ ## Buffett Institute - Home
+ - [http://buffettinstitute.nebraska.edu](http://buffettinstitute.nebraska.edu)
+ - date_published: 2024-07-02T04:49:17.126924+00:00
+
+ ## University of Nebraska System Office Employment Opportunities | Home
+ - [https://careers.nebraska.edu](https://careers.nebraska.edu)
+ - date_published: 2024-07-02T04:49:25+00:00
+
+ ## ITS
+ - [http://its.nebraska.edu](http://its.nebraska.edu)
+ - date_published: 2024-07-02T04:55:02.863686+00:00
+
+ ## MYRED
+ - [https://myred.nebraska.edu](https://myred.nebraska.edu)
+ - date_published: 2023-11-20T02:16:29+00:00
+
+ ## University of Nebraska System
+ - [https://nebraska.edu](https://nebraska.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## National Strategic Research Institute
+ - [https://nsri.nebraska.edu](https://nsri.nebraska.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home
+ - [https://nusupport.nebraska.edu](https://nusupport.nebraska.edu)
+ - date_published: 2024-07-02T04:51:01.792615+00:00
+
+ ## Home
+ - [http://online.nebraska.edu](http://online.nebraska.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Peter Kiewit Institute | About UNO | University of Nebraska Omaha
+ - [https://pki.nebraska.edu](https://pki.nebraska.edu)
+ - date_published: 2024-10-17T22:25:18.777288+00:00
+
+ ## Nebraska Scholarly Commons | University of Nebraska Research
+ - [https://scholarlycommons.nebraska.edu](https://scholarlycommons.nebraska.edu)
+ - date_published: 2024-06-30T03:04:29.441964+00:00
+
+ ## IT Status
+ - [http://status.nebraska.edu](http://status.nebraska.edu)
+ - date_published: 2024-07-02T04:55:22.457606+00:00
+
+ ## TrueYou Self Service | Home
+ - [https://trueyou.nebraska.edu](https://trueyou.nebraska.edu)
+ - date_published: 2024-07-02T04:55:16.713655+00:00
+
+ ## Request Rejected
+ - [http://unit.nebraska.edu](http://unit.nebraska.edu)
+ - date_published: 2024-07-02T04:55:17.983786+00:00
+
+ ## Water for Food
+ - [http://waterforfood.nebraska.edu](http://waterforfood.nebraska.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Home - Khoury College of Computer Sciences
+ - [http://ccs.neu.edu](http://ccs.neu.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Dark Patterns Research at Northeastern University · Dark Patterns Research at Northeastern University
+ - [https://darkpatterns.ccs.neu.edu](https://darkpatterns.ccs.neu.edu)
+ - date_published: 2021-09-01T00:00:00+00:00
+
+ ## Department of Electrical & Computer Engineering - Northeastern University
+ - [https://ece.neu.edu](https://ece.neu.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Select Your Destination – The Hubs
+ - [http://myneu.neu.edu](http://myneu.neu.edu)
+ - date_published: 2024-07-17T09:15:49+00:00
+
+ ## Redirect by Primary Affiliation
+ - [https://neuidmsso.neu.edu](https://neuidmsso.neu.edu)
+ - date_published: 2020-09-02T18:53:30+00:00
+
+ ## Auditing Algorithms
+ - [https://personalization.ccs.neu.edu](https://personalization.ccs.neu.edu)
+ - date_published: 2024-05-28T18:15:37+00:00
+
+ ## NEU PRL
+ - [https://prl.ccs.neu.edu](https://prl.ccs.neu.edu)
+ - date_published: 2024-05-07T19:48:15.637520+00:00
+
+ ## Your Page Title
+ - [https://prod-web.neu.edu](https://prod-web.neu.edu)
+ - date_published: 2021-07-09T20:44:05+00:00
+
+ ## Home - Northeastern University
+ - [https://www.neu.edu](https://www.neu.edu)
+ - date_published: 2024-07-11T10:33:29.575870+00:00
+
+ ## NSHE
+ - [https://nshe.nevada.edu](https://nshe.nevada.edu)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Home - University of Nevada Press
+ - [https://unpress.nevada.edu](https://unpress.nevada.edu)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## A University in New York City | The New School
+ - [https://www.newschool.edu](https://www.newschool.edu)
+ - date_published: 2024-07-14T19:32:32.772395+00:00
+
  ## Nightingale College: Accredited Nursing School
  - [https://nightingale.edu](https://nightingale.edu)
  - date_published: 2024-06-15T04:48:15.637637+00:00
@@ -3736,268 +4000,4 @@
  ## Log In | Inventions
  - [https://innovate.osu.edu](https://innovate.osu.edu)
  - date_published: 2024-07-17T03:38:21.592822+00:00
-
- ## Inspire 2023 - Inspire
- - [https://inspire.ehe.osu.edu](https://inspire.ehe.osu.edu)
- - date_published: 2023-03-13T04:17:09+00:00
-
- ## Involved Living
- - [http://involvedliving.osu.edu](http://involvedliving.osu.edu)
- - date_published: 2024-07-17T03:38:13.640228+00:00
-
- ## Department of Integrated Systems Engineering
- - [http://ise.osu.edu](http://ise.osu.edu)
- - date_published: 2019-06-04T15:55:00+00:00
-
- ## Home
- - [https://it.osu.edu](https://it.osu.edu)
- - date_published: 2024-05-12T07:44:45.943677+00:00
-
- ## Journal of Money, Credit & Banking | Department of Economics
- - [https://jmcb.osu.edu](https://jmcb.osu.edu)
- - date_published: 2024-09-19T18:27:14+00:00
-
- ## DSpace
- - [https://kb.osu.edu](https://kb.osu.edu)
- - date_published: 2024-06-25T11:24:08+00:00
-
- ## Home
- - [https://keenan.osu.edu](https://keenan.osu.edu)
- - date_published: 2024-05-12T07:43:04.501456+00:00
-
- ## Knowlton School
- - [http://knowlton.osu.edu](http://knowlton.osu.edu)
- - date_published: 2020-03-05T10:57:00+00:00
-
- ## Knowledge Exchange
- - [http://kx.osu.edu](http://kx.osu.edu)
- - date_published: 2024-06-21T20:43:50+00:00
-
- ## Leadership and Community Engagement
- - [https://lead.osu.edu](https://lead.osu.edu)
- - date_published: 2024-07-17T03:50:21.884047+00:00
-
- ## Home | Learning Spaces Directory
- - [https://learningspaces.osu.edu](https://learningspaces.osu.edu)
- - date_published: 2024-07-01T16:55:04.270677+00:00
-
- ## Welcome to The Ohio State University at Newark
- - [https://legacy-newark.osu.edu](https://legacy-newark.osu.edu)
- - date_published: 2024-07-17T03:37:04.846750+00:00
-
- ## Ask Us - LibAnswers
- - [https://libanswers.osu.edu](https://libanswers.osu.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Ohio State University Libraries
- - [https://library.osu.edu](https://library.osu.edu)
- - date_published: 2024-05-12T07:44:38.694450+00:00
-
- ## Home | The Ohio State University at Lima
- - [https://lima.osu.edu](https://lima.osu.edu)
- - date_published: 2024-05-12T07:43:51.453437+00:00
-
- ## Home | Local Foods
- - [http://localfoods.osu.edu](http://localfoods.osu.edu)
- - date_published: 2024-10-15T07:37:38.057026+00:00
-
- ## Department of Mechanical and Aerospace Engineering
- - [http://mae.osu.edu](http://mae.osu.edu)
- - date_published: 2014-05-15T09:26:00+00:00
-
- ## The Ohio State University at Mansfield
- - [https://mansfield.osu.edu](https://mansfield.osu.edu)
- - date_published: 2024-05-12T07:43:39.206902+00:00
-
- ## Campus Maps | The Ohio State University
- - [https://maps.osu.edu](https://maps.osu.edu)
- - date_published: 2024-08-20T17:58:03+00:00
-
- ## Home | Department of Mathematics
- - [https://math.osu.edu](https://math.osu.edu)
- - date_published: 2024-06-30T03:00:40.319489+00:00
-
- ## Home | Mathematical Biosciences Institute
- - [https://mbi.osu.edu](https://mbi.osu.edu)
- - date_published: 2024-06-30T09:43:55.506468+00:00
-
- ## Home | MCIC
- - [https://mcic.osu.edu](https://mcic.osu.edu)
- - date_published: 2024-02-12T00:00:00+00:00
-
- ## Ohio State College of Medicine | Ohio State College of Medicine
- - [https://medicine.osu.edu](https://medicine.osu.edu)
- - date_published: 2024-07-17T03:43:38.833921+00:00
-
- ## Microsoft 365
- - [https://microsoft365.osu.edu](https://microsoft365.osu.edu)
- - date_published: 2022-11-29T22:09:42+00:00
-
- ## Home | Moritz College of Law
- - [https://moritzlaw.osu.edu](https://moritzlaw.osu.edu)
- - date_published: 2024-07-17T03:49:54.848100+00:00
-
- ## Department of Materials Science and Engineering
- - [http://mse.osu.edu](http://mse.osu.edu)
- - date_published: 2019-07-26T10:07:00+00:00
-
- ## MyChart - Login Page
- - [https://mychart.osu.edu](https://mychart.osu.edu)
- - date_published: 2024-07-01T16:54:18.541508+00:00
-
- ## login - OSU Identity Management Landing Page
- - [https://my.osu.edu](https://my.osu.edu)
- - date_published: 2024-05-12T07:43:06.452277+00:00
-
- ## The Ohio State University at Newark
- - [https://newark.osu.edu](https://newark.osu.edu)
- - date_published: 2024-05-12T07:43:48.028100+00:00
-
- ## Ohio State News
- - [https://news.osu.edu](https://news.osu.edu)
- - date_published: 2023-10-25T18:56:36.422788+00:00
-
- ## Home Page | The Ohio State University College of Nursing
- - [https://nursing.osu.edu](https://nursing.osu.edu)
- - date_published: 2024-07-16T21:27:35+00:00
-
- ## Office of Academic Affairs, The Ohio State University
- - [https://oaa.osu.edu](https://oaa.osu.edu)
- - date_published: 2024-07-01T16:45:20.016626+00:00
-
- ## About CFAES Research | Office for Research and Graduate Education
- - [https://oardc.osu.edu](https://oardc.osu.edu)
- - date_published: 2024-07-17T03:36:29.124987+00:00
-
- ## Home
- - [https://ocio.osu.edu](https://ocio.osu.edu)
- - date_published: 2024-05-07T19:52:33.582132+00:00
-
- ## Home
- - [https://odee.osu.edu](https://odee.osu.edu)
- - date_published: 2024-07-01T14:44:15+00:00
-
- ## Off-Campus and Commuter Student Engagement
- - [https://offcampus.osu.edu](https://offcampus.osu.edu)
- - date_published: 2024-05-12T07:44:25.294709+00:00
-
- ## Home
- - [http://ohioline.osu.edu](http://ohioline.osu.edu)
- - date_published: 2024-06-07T00:00:00+00:00
-
- ## Homepage | Office of Innovation and Economic Development, The Ohio State University
- - [https://oied.osu.edu](https://oied.osu.edu)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Office of Marketing and Communications | The Ohio State University
- - [https://omc.osu.edu](https://omc.osu.edu)
- - date_published: 2024-05-07T19:52:43.553637+00:00
-
- ## On Campus | The Ohio State University
- - [https://oncampus.osu.edu](https://oncampus.osu.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Home
- - [https://online.osu.edu](https://online.osu.edu)
- - date_published: 2024-05-12T07:43:17.717940+00:00
-
- ## The Ohio State University Avatar Service | OPIC
- - [https://opic.osu.edu](https://opic.osu.edu)
- - date_published: 2024-05-07T19:51:19.259089+00:00
-
- ## Home | Institute for Optical Science
- - [https://opticalscience.osu.edu](https://opticalscience.osu.edu)
- - date_published: 2024-07-17T03:37:11.656760+00:00
-
- ## Home | College of Optometry
- - [https://optometry.osu.edu](https://optometry.osu.edu)
- - date_published: 2024-07-15T18:20:58+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://orapps.osu.edu](https://orapps.osu.edu)
- - date_published: 2024-07-17T03:37:35.985461+00:00
-
- ## University Orientation | The Ohio State University
- - [https://orientation.osu.edu](https://orientation.osu.edu)
- - date_published: 2024-06-04T14:21:36+00:00
-
- ## | Origins
- - [https://origins.osu.edu](https://origins.osu.edu)
- - date_published: 2024-04-05T18:56:08.025429+00:00
-
- ## Human Subjects | Ohio State Office of Research
- - [https://orrp.osu.edu](https://orrp.osu.edu)
- - date_published: 2024-07-16T20:41:24+00:00
-
- ## Home | Orton Geological Museum
- - [https://ortongeologicalmuseum.osu.edu](https://ortongeologicalmuseum.osu.edu)
- - date_published: 2024-07-02T14:43:06.036808+00:00
-
- ## Office of Academic Affairs, The Ohio State University
- - [https://osas.osu.edu](https://osas.osu.edu)
- - date_published: 2024-10-14T20:40:16.330656+00:00
-
- ## Home | The Ohio State University
- - [https://osu.edu](https://osu.edu)
- - date_published: 2024-04-05T21:48:57+00:00
-
- ## Home | The Ohio State University at Marion
- - [https://osumarion.osu.edu](https://osumarion.osu.edu)
- - date_published: 2024-05-12T07:44:40.456460+00:00
-
- ## Ohio State University Retirees Association
- - [http://osura.osu.edu](http://osura.osu.edu)
- - date_published: 2024-07-17T03:50:49.167997+00:00
-
- ## Ohio Union Activities Board
- - [https://ouab.osu.edu](https://ouab.osu.edu)
- - date_published: 2024-07-17T03:50:24.502088+00:00
-
- ## People @ Ohio State Engineering
- - [https://people.engineering.osu.edu](https://people.engineering.osu.edu)
- - date_published: 2024-06-30T23:48:01+00:00
-
- ## Home | Arne Slettebak Planetarium at Ohio State
- - [https://planetarium.osu.edu](https://planetarium.osu.edu)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## PlantFacts · Welcome · PlantFacts.osu.edu
- - [https://plantfacts.osu.edu](https://plantfacts.osu.edu)
- - date_published: 2024-02-08T22:53:17.623276+00:00
-
- ## University Policies
- - [http://policies.osu.edu](http://policies.osu.edu)
- - date_published: 2024-07-01T16:45:14+00:00
-
- ## Office of the President | The Ohio State University
- - [https://president.osu.edu](https://president.osu.edu)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## College of Engineering Professional and Distance Education Programs
- - [https://professionals.engineering.osu.edu](https://professionals.engineering.osu.edu)
- - date_published: 2014-09-29T10:33:00+00:00
-
- ## Home | Prohibition
- - [https://prohibition.osu.edu](https://prohibition.osu.edu)
- - date_published: 2024-07-16T23:32:40.177942+00:00
-
- ## Home | Department of Psychology
- - [https://psychology.osu.edu](https://psychology.osu.edu)
- - date_published: 2024-07-01T19:51:27.114258+00:00
-
- ## Reading Like A Victorian
- - [https://readinglikeavictorian.osu.edu](https://readinglikeavictorian.osu.edu)
- - date_published: 2024-08-19T04:44:28.701996+00:00
-
- ## Home | Real Money. Real World.
- - [http://realmoneyrealworld.osu.edu](http://realmoneyrealworld.osu.edu)
- - date_published: 2024-10-15T07:36:44.655014+00:00
-
- ## Recreational Sports
- - [https://recsports.osu.edu](https://recsports.osu.edu)
- - date_published: 2024-05-12T07:42:58.147953+00:00
-
- ## Ohio State Campuses | The Ohio State University
- - [http://regional.osu.edu](http://regional.osu.edu)
- - date_published: 2024-06-17T18:30:04+00:00
 

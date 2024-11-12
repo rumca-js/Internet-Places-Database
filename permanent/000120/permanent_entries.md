@@ -1,3 +1,84 @@
+ ## H.P. Lovecraft Film Festival & CthulhuCon | The only convention that understands
+ - [http://hplfilmfestival.com](http://hplfilmfestival.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## The H.P. Lovecraft Archive
+ - [https://hplovecraft.com](https://hplovecraft.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Harry Potter and the Methods of Rationality | Petunia married a professor, and Harry grew up reading science and science fiction.
+ - [https://hpmor.com](https://hpmor.com)
+ - date_published: 2024-05-06T14:17:15.235232+00:00
+ - tags: ['fanfic', 'harry potter']
+
+ ## The Methods of Rationality Podcast
+ - [https://hpmorpodcast.com](https://hpmorpodcast.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Home - Home Protection Plus
+ - [http://www.hppservices.com](http://www.hppservices.com)
+ - date_published: 2024-06-16T16:53:50.073120+00:00
+
+ ## Hprose Home
+ - [http://hprose.com](http://hprose.com)
+ - date_published: 2019-04-14T03:17:57+00:00
+
+ ## HP Smart
+ - [https://www.hpsmart.com](https://www.hpsmart.com)
+ - date_published: 2024-08-18T14:11:08+00:00
+
+ ## HPS Simulations: Home
+ - [http://www.hpssims.com](http://www.hpssims.com)
+ - date_published: 2024-07-09T14:49:27.515681+00:00
+
+ ## HP Tech Ventures — Reinventing the future.
+ - [https://hptechventures.com](https://hptechventures.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Best Shopping Center in Dallas | Luxury Shopping | Highland Park Village
+ - [http://hpvillage.com](http://hpvillage.com)
+ - date_published: 2024-06-20T21:40:42.181830+00:00
+
+ ## HqO | Real Estate Experience Software - Elevating the Tenant & Real Estate Experience
+ - [https://www.hqo.com](https://www.hqo.com)
+ - date_published: 2023-12-05T00:00:00+00:00
+
+ ## Electronic Components Distributor - HQonline Electronics
+ - [https://www.hqonline.com](https://www.hqonline.com)
+ - date_published: 2024-07-07T06:08:39.401781+00:00
+
+ ## HQProp
+ - [https://hqprop.com](https://hqprop.com)
+ - date_published: 2024-06-10T12:21:58.023498+00:00
+
+ ## Headquarter
+ - [https://ecommerce.hqwargames.com](https://ecommerce.hqwargames.com)
+ - date_published: 2024-07-02T21:47:46.484698+00:00
+
+ ## 【环球网校官方网站】职业教育在线_移动学习、职达未来！
+ - [http://www.hqwx.com](http://www.hqwx.com)
+ - date_published: 2024-06-22T12:12:01+00:00
+
+ ## HR.com - We help create inspired workforces by maximizing human potential
+ - [https://www.hr.com](https://www.hr.com)
+ - date_published: 2024-09-05T12:53:24.885421+00:00
+
+ ## Best Web Hosting Services by Real Uptime Tracker - HRANK.com
+ - [https://www.hrank.com](https://www.hrank.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## HR Annie Consulting - Customized Human Resource Solutions & HR Services Portland OR
+ - [https://www.hrannieconsulting.com](https://www.hrannieconsulting.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## HR Answers, Inc. – Whatever the Question
+ - [https://hranswers.com](https://hranswers.com)
+ - date_published: 2024-07-04T08:24:00.567685+00:00
+
+ ## HRaspirin
+ - [https://hraspirin.com](https://hraspirin.com)
+ - date_published: 2024-09-09T19:58:50.745059+00:00
+
  ## HR Brain Pickings
  - [https://www.hrbrainpickings.com](https://www.hrbrainpickings.com)
  - date_published: 2024-10-29T21:00:27+00:00
@@ -3946,86 +4027,4 @@ Weinberger)
  ## Home | Independent Agent Magazine
  - [https://www.iamagazine.com](https://www.iamagazine.com)
  - date_published: 2024-10-27T21:17:49.779077+00:00
-
- ## Ivan Akulov
- - [https://iamakulov.com](https://iamakulov.com)
- - date_published: 2024-10-28T03:51:16+00:00
-
- ## I Stand With Immigrants
- - [http://iamanimmigrant.com](http://iamanimmigrant.com)
- - date_published: 2024-10-27T18:49:04.922498+00:00
-
- ## I Am Better Than Your Kids - Page 1
- - [http://iambetterthanyourkids.com](http://iambetterthanyourkids.com)
- - date_published: 2024-07-19T10:37:11.926564+00:00
- - tags: ['funny']
-
- ## Attention Required! | Cloudflare
- - [https://www.iambillynomates.com](https://www.iambillynomates.com)
- - date_published: 2024-06-27T16:31:44.216017+00:00
-
- ## IAM/Boeing::Joint Programs
- - [http://www.iam-boeing.com](http://www.iam-boeing.com)
- - date_published: 2024-07-09T22:22:32.718527+00:00
-
- ## IamBozdar.com | Abdul-Jabbar Bozdar's Website About STEM
- - [https://iambozdar.com](https://iambozdar.com)
- - date_published: 2024-01-16T23:53:57.054198+00:00
-
- ## Cal's Code Stuff
- - [http://code.iamcal.com](http://code.iamcal.com)
- - date_published: 2024-08-17T22:15:56.274096+00:00
-
- ## Cal's GitHub Stuff
- - [http://github.iamcal.com](http://github.iamcal.com)
- - date_published: 2024-08-17T22:15:59.055940+00:00
-
- ## iamcal.com
- - [https://iamcal.com](https://iamcal.com)
- - date_published: 2024-02-01T18:46:46.785729+00:00
-
- ## iamcal software
- - [http://software.iamcal.com](http://software.iamcal.com)
- - date_published: 2024-08-17T22:16:04.380649+00:00
-
- ## Backyard Goats
- - [https://backyardgoats.iamcountryside.com](https://backyardgoats.iamcountryside.com)
- - date_published: 2024-06-20T02:57:00.316853+00:00
-
- ## Coworker
- - [https://www.iamcoworker.com](https://www.iamcoworker.com)
- - date_published: 2024-07-16T09:13:09+00:00
-
- ## Dann Berg: Thoughts and Musings
- - [http://iamdann.com](http://iamdann.com)
- - date_published: 2024-01-25T14:53:15+00:00
-
- ## Dan W, Software Developer
- - [https://tumblr.iamdanw.com](https://tumblr.iamdanw.com)
- - date_published: 2024-06-15T04:24:06.709894+00:00
-
- ## Dan Williams – London based software developer and creative technologist
- - [http://www.iamdanw.com](http://www.iamdanw.com)
- - date_published: 2020-01-15T23:31:32+00:00
-
- ## Dennis Field —  Brand & Employee Experience Designer
- - [https://iamdennisfield.com](https://iamdennisfield.com)
- - date_published: 2024-01-04T08:12:28.678294+00:00
- - tags: ['personal']
-
- ## Join the iamdeveloper.com community Discord Server!
- - [https://discord.iamdeveloper.com](https://discord.iamdeveloper.com)
- - date_published: 2024-06-28T19:19:50+00:00
-
- ## Well, hello there! - Just Some Dev
- - [https://iamdeveloper.com](https://iamdeveloper.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## edson
- - [https://iamedson.com](https://iamedson.com)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Baltimore Personal Injury Lawyer
- - [https://www.iamelelawfirmbaltimore.com](https://www.iamelelawfirmbaltimore.com)
- - date_published: 2024-06-28T10:22:50+00:00
 

@@ -1,3 +1,7 @@
+ ## INTERNET CLUB
+ - [http://internetclubdotcom.angelfire.com](http://internetclubdotcom.angelfire.com)
+ - date_published: 2024-07-05T00:00:00+00:00
+
  ## Self-Hosted Web Analytics | Angelfish Software
  - [http://www.angelfishstats.com](http://www.angelfishstats.com)
  - date_published: 2024-08-18T04:06:11+00:00
@@ -1996,6 +2000,9 @@
  ## Home Page | Antietam Broadband
  - [http://www.antietamcable.com](http://www.antietamcable.com)
  - date_published: 2024-06-29T15:41:35.015980+00:00
+
+ - [https://antifa.com](https://antifa.com)
+ - date_published: 2024-11-11T09:24:39+00:00
 
  ## Antigone: an open forum for Classics
  - [https://antigonejournal.com](https://antigonejournal.com)
@@ -4046,12 +4053,4 @@ my personal blog
  ## Mobile Market Data and App Insights | data.ai (fka App Annie)
  - [https://appannie.com](https://appannie.com)
  - date_published: 2024-05-06T23:30:12.421769+00:00
-
- ## Apparent Software - Useful, friendly and unique software for Mac
- - [https://www.apparentsoft.com](https://www.apparentsoft.com)
- - date_published: 2024-10-14T15:52:17.108805+00:00
-
- ## AppArmor
- - [https://apparmor.com](https://apparmor.com)
- - date_published: 2024-07-02T01:51:50.151168+00:00
 

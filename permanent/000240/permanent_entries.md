@@ -1,3 +1,268 @@
+ ## Startseite
+ - [https://4p.de](https://4p.de)
+ - date_published: 2024-10-27T07:11:07+00:00
+ - tags: ['video games']
+
+ ## Startseite
+ - [https://www.4players.de](https://www.4players.de)
+ - date_published: 2024-03-08T00:00:00+00:00
+
+ ## Analysis - a music and art disc for the web
+ - [https://analysis.4sceners.de](https://analysis.4sceners.de)
+ - date_published: 2024-02-07T22:23:28+00:00
+
+ ## 50PLUS.de – im besten Alter, Senioren haben mehr vom Leben - 50PLUS.de
+ - [http://50plus.de](http://50plus.de)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## 5FSoftware | Plattform für Datenaustausch und Kommunikation
+ - [https://www.5fsoftware.de](https://www.5fsoftware.de)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## 5π Consulting
+ - [https://5pi.de](https://5pi.de)
+ - date_published: 2024-04-23T01:30:21+00:00
+
+ ## 64'er – Das Magazin für Computer-Fans
+ - [https://64er-magazin.de](https://64er-magazin.de)
+ - date_published: 2024-05-06T22:25:27.617820+00:00
+
+ ## 6G-Plattform – Die Plattform für zukünftige Kommunikationstechnologien und 6G
+ - [https://www.6g-plattform.de](https://www.6g-plattform.de)
+ - date_published: 2024-09-05T12:09:20.881301+00:00
+
+ ## 7pass
+ - [https://www.7pass.de](https://www.7pass.de)
+ - date_published: 2024-03-12T07:14:53+00:00
+
+ ## Leiterplattenbestückung - Bittele Electronics
+ - [https://www.7pcb.de](https://www.7pcb.de)
+ - date_published: 2024-06-17T01:07:37.054095+00:00
+
+ ## 7th International Verification Methods Workshop
+ - [https://www.7thverificationworkshop.de](https://www.7thverificationworkshop.de)
+ - date_published: 2024-09-02T00:00:00+00:00
+
+ ## 7-Zip » 7-zip.de
+ - [http://www.7-zip.de](http://www.7-zip.de)
+ - date_published: 2024-06-19T16:03:46+00:00
+
+ ## 90min | Aktuelle News zu Transfers, Transfergerüchte und Fan Opinion
+ - [https://www.90min.de](https://www.90min.de)
+ - date_published: 2024-06-25T23:17:51+00:00
+
+ ## Das ist 90s90s Radio!
+ - [http://90s90s.de](http://90s90s.de)
+ - date_published: 2024-07-14T23:05:28.759785+00:00
+
+ ## streams.90s90s.de - Livestream - 90s90s - Sommerhits
+ - [https://streams.90s90s.de](https://streams.90s90s.de)
+ - date_published: 2024-05-12T04:23:46.495276+00:00
+
+ ## Projects - A24 landschaft
+ - [https://a24-landschaft.de](https://a24-landschaft.de)
+ - date_published: 2024-07-13T14:34:19.890813+00:00
+
+ ## A59 Bildagentur | Impressum
+ - [https://a59.de](https://a59.de)
+ - date_published: 2024-06-28T21:50:40.160086+00:00
+
+ ## Aaron Czichon - Home
+ - [https://aaronczichon.de](https://aaronczichon.de)
+ - date_published: 2024-08-06T13:58:53+00:00
+
+ ## Abarth Deutschland | Power-Kleinwagen | 70 Jahre Spaß
+ - [https://www.abarth.de](https://www.abarth.de)
+ - date_published: 2024-06-17T14:09:49+00:00
+
+ ## Der Domainname abcgewinnspiele.de steht zum Verkauf.
+ - [http://www.abcgewinnspiele.de](http://www.abcgewinnspiele.de)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Amin Abdulrahman - PhD Student
+ - [https://abdulrahman.de](https://abdulrahman.de)
+ - date_published: 2024-02-01T07:38:09+00:00
+
+ ## AbeBooks | Bücher, Kunst und Sammlerstücke
+ - [https://abebooks.de](https://abebooks.de)
+ - date_published: 2024-05-09T04:33:04.094735+00:00
+
+ ## Abebooks
+ - [https://kundenservice.abebooks.de](https://kundenservice.abebooks.de)
+ - date_published: 2023-07-10T09:57:37+00:00
+
+ ## News aus München, Sport, Promis, Bayern und der Welt
+ - [https://www.abendzeitung-muenchen.de](https://www.abendzeitung-muenchen.de)
+ - date_published: 2024-06-25T18:09:42.427007+00:00
+
+ ## Freizeitaktivitäten, Ausflugsziele & Attraktionen
+ - [https://abenteuerfreizeit.de](https://abenteuerfreizeit.de)
+ - date_published: 2021-04-16T02:30:02+00:00
+
+ ## HOME | Abenteuerhallen Kalk
+ - [https://abenteuerhallenkalk.de](https://abenteuerhallenkalk.de)
+ - date_published: 2024-10-16T10:42:31.024731+00:00
+
+ ## HOME | Abenteuerhallen Kalk
+ - [https://ahk.abenteuerhallenkalk.de](https://ahk.abenteuerhallenkalk.de)
+ - date_published: 2024-06-17T03:33:21.342742+00:00
+
+ ## Sign in - Matomo
+ - [http://matomo.abenteuerhallenkalk.de](http://matomo.abenteuerhallenkalk.de)
+ - date_published: 2024-10-16T10:42:29.074236+00:00
+
+ ## Home
+ - [https://www.abk-stuttgart.de](https://www.abk-stuttgart.de)
+ - date_published: 2024-07-13T16:04:05.112208+00:00
+
+ ## Abload geht offline / Abload goes offline - abload.de
+ - [https://abload.de](https://abload.de)
+ - date_published: 2024-05-13T03:46:01.106606+00:00
+
+ ## About Amazon
+ - [https://aboutamazon.de](https://aboutamazon.de)
+ - date_published: 2024-05-01T02:01:43.896179+00:00
+
+ ## About Amazon
+ - [https://blog.aboutamazon.de](https://blog.aboutamazon.de)
+ - date_published: 2024-05-09T04:33:09.404471+00:00
+
+ ## Unser Beitrag für die Umwelt
+ - [https://nachhaltigkeit.aboutamazon.de](https://nachhaltigkeit.aboutamazon.de)
+ - date_published: 2024-06-15T02:04:04.066682+00:00
+
+ ## Order safely and securely from About You.
+ - [https://checkout-en.aboutyou.de](https://checkout-en.aboutyou.de)
+ - date_published: 2024-09-17T21:47:02.037956+00:00
+
+ ## SCAYLE
+ - [https://checkout-v3.aboutyou.de](https://checkout-v3.aboutyou.de)
+ - date_published: 2024-09-17T21:46:09.322416+00:00
+
+ ## ABOUT YOU: Corporate page
+ - [https://corporate.aboutyou.de](https://corporate.aboutyou.de)
+ - date_published: 2024-01-26T00:00:00+00:00
+
+ ## Online fashion from over 3000 top brands  | ABOUT YOU
+ - [https://en.aboutyou.de](https://en.aboutyou.de)
+ - date_published: 2024-06-15T03:12:13+00:00
+
+ ## Investor Relations -  ABOUT YOU Holding SE
+ - [https://ir.aboutyou.de](https://ir.aboutyou.de)
+ - date_published: 2024-06-15T11:13:44.897713+00:00
+
+ ## Online fashion from over 3000 top brands  | ABOUT YOU
+ - [https://m.aboutyou.de](https://m.aboutyou.de)
+ - date_published: 2024-09-17T17:50:32+00:00
+
+ ## Online fashion from over 3000 top brands  | ABOUT YOU
+ - [https://m-en.aboutyou.de](https://m-en.aboutyou.de)
+ - date_published: 2024-09-17T17:50:32+00:00
+
+ ## Online fashion from over 3000 top brands  | ABOUT YOU
+ - [https://www.aboutyou.de](https://www.aboutyou.de)
+ - date_published: 2024-09-17T17:50:32+00:00
+
+ ## ABOUT YOU Outlet: Fashion Deals mit bis zu 70% Rabatt
+ - [https://aboutyou-outlet.de](https://aboutyou-outlet.de)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## absatzwirtschaft - das Medium fürs Marketing
+ - [https://www.absatzwirtschaft.de](https://www.absatzwirtschaft.de)
+ - date_published: 2024-06-25T20:46:14.594308+00:00
+
+ ## Abschluss HSD Sommersemester 2017
+ - [http://abschluss-hsd.de](http://abschluss-hsd.de)
+ - date_published: 2018-05-24T20:20:19+00:00
+
+ ## Jobs für Absolventen, Berufseinsteiger & Berufserfahrene | Absolventa
+ - [https://www.absolventa.de](https://www.absolventa.de)
+ - date_published: 2024-06-25T22:36:58.621412+00:00
+
+ ## ABSt Sachsen e.V.
+ - [https://abstsachsen.de](https://abstsachsen.de)
+ - date_published: 2024-08-06T18:28:12.977843+00:00
+
+ ## Abyss-Connection
+ - [https://acqua.abyss-connection.de](https://acqua.abyss-connection.de)
+ - date_published: 2024-09-04T17:10:50.621408+00:00
+
+ ## Academic Cloud Login
+ - [https://survey.academiccloud.de](https://survey.academiccloud.de)
+ - date_published: 2024-07-20T17:50:06.612836+00:00
+
+ ## PUMA
+ - [https://academic-puma.de](https://academic-puma.de)
+ - date_published: 2024-09-02T13:22:38.544429+00:00
+
+ ## academics - der führende Stellenmarkt für Wissenschaft, Forschung, Öffentliches & Gesellschaft
+ - [https://academics.de](https://academics.de)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Stellenanzeigen-Erfassung | academics | DIE ZEIT
+ - [https://inserieren.academics.de](https://inserieren.academics.de)
+ - date_published: 2024-07-25T09:28:33+00:00
+
+ ## Angelos Blog – Full-Stack-Developer für IONOS in Karlsruhe
+ - [https://blog.acali.de](https://blog.acali.de)
+ - date_published: 2024-08-18T06:41:58.869323+00:00
+
+ ## Newsroom | Accenture
+ - [https://newsroom.accenture.de](https://newsroom.accenture.de)
+ - date_published: 2024-06-11T06:27:53+00:00
+
+ ## action press international gmbh
+ - [https://www.actionpress.de](https://www.actionpress.de)
+ - date_published: 2016-06-06T09:10:39+00:00
+
+ ## Active Group GmbH - Der Spezialist für funktionale Programmierung
+ - [https://www.active-group.de](https://www.active-group.de)
+ - date_published: 2024-08-10T09:45:37+00:00
+
+ ## ActiveTrail Email Marketing
+ - [https://www.activetrail.de](https://www.activetrail.de)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Adality – A new era of digital advertising
+ - [https://adality.de](https://adality.de)
+ - date_published: 2024-05-06T17:33:00.515712+00:00
+
+ ## AdNow - Ad Alliance
+ - [https://adnow.ad-alliance.de](https://adnow.ad-alliance.de)
+ - date_published: 2024-06-25T22:01:52.364853+00:00
+
+ ## Ad-Alliance
+ - [https://www.ad-alliance.de](https://www.ad-alliance.de)
+ - date_published: 2024-05-06T17:49:10.061015+00:00
+
+ ## Startseite
+ - [https://www.adb.de](https://www.adb.de)
+ - date_published: 2024-07-09T13:40:50+00:00
+
+ ## Adecco Personaldienstleistungen | Jetzt mit neuen Jobs
+ - [http://www.adecco.de](http://www.adecco.de)
+ - date_published: 2024-10-08T16:27:06+00:00
+
+ ## Lerne Adecco Group Deutschland kennen
+ - [https://www.adeccogroup.de](https://www.adeccogroup.de)
+ - date_published: 2024-07-02T17:13:53.809660+00:00
+
+ ## Adele in Munich
+ - [https://www.adeleinmunich.de](https://www.adeleinmunich.de)
+ - date_published: 2024-07-17T11:16:10.432368+00:00
+
+ ## Sign in - Matomo
+ - [http://matomo.adelphi.de](http://matomo.adelphi.de)
+ - date_published: 2024-07-24T04:05:36.994378+00:00
+
+ ## Welcome to adelphi
+ - [https://www.adelphi.de](https://www.adelphi.de)
+ - date_published: 2024-09-13T16:20:40+00:00
+
+ ## adesso SE - Führender IT-Dienstleister im deutschsprachigen Raum
+ - [https://www.adesso.de](https://www.adesso.de)
+ - date_published: 2024-07-03T04:20:50.856069+00:00
+
  ## Verkehrswende mit dem Fahrrad
  - [https://www.adfc.de](https://www.adfc.de)
  - date_published: 2024-07-10T08:19:58.469442+00:00
@@ -3757,268 +4022,4 @@ und Stadtentwicklung
  ## BR-KLASSIK: Die ganze Welt der Klassischen Musik | BR-Klassik
  - [https://br-klassik.de](https://br-klassik.de)
  - date_published: 2024-05-12T06:56:16+00:00
-
- ## musica viva - Die Konzertreihe des Bayerischen Rundfunks für Neue Musik
- - [https://br-musica-viva.de](https://br-musica-viva.de)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## Home - app & simple | Software & Web
- - [https://broadcastx.de](https://broadcastx.de)
- - date_published: 2022-09-23T06:46:09+00:00
-
- ## Gemeinsam für eine gerechte Welt
- - [https://www.brot-fuer-die-welt.de](https://www.brot-fuer-die-welt.de)
- - date_published: 2024-07-13T02:18:58.981196+00:00
-
- ## Brother Online
- - [https://atyourside.brother.de](https://atyourside.brother.de)
- - date_published: 2024-06-17T21:03:34.264815+00:00
-
- ## Karriere bei Brother
- - [https://karriere.brother.de](https://karriere.brother.de)
- - date_published: 2024-06-18T06:02:27.038622+00:00
-
- ## Brother Online Store
- - [https://store.brother.de](https://store.brother.de)
- - date_published: 2024-06-18T06:02:29.770347+00:00
-
- ## Brother Deutschland – At your side
- - [https://www.brother.de](https://www.brother.de)
- - date_published: 2024-05-02T11:35:21.815999+00:00
-
- ## BRouter: Advanced OSM Routing
- - [https://brouter.de](https://brouter.de)
- - date_published: 2023-06-03T14:56:32+00:00
-
- ## BRSO & Sir Simon Rattle: Eine neue Ära beginnt
- - [https://www.br-so.de](https://www.br-so.de)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## BRSO & Sir Simon Rattle: Eine neue Ära beginnt
- - [https://brso.de](https://brso.de)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Mariss Jansons - Mariss Jansons - Symphonieorchester des Bayerischen Rundfunks
- - [https://mj.brso.de](https://mj.brso.de)
- - date_published: 2024-07-17T07:29:36.087195+00:00
-
- ## Konzerte Archiv - BRticket
- - [http://shop.br-ticket.de](http://shop.br-ticket.de)
- - date_published: 2024-07-17T07:23:49.829922+00:00
-
- ## Brücke-Museum
- - [https://www.bruecke-museum.de](https://www.bruecke-museum.de)
- - date_published: 2024-07-13T14:32:59.414340+00:00
-
- ## Bildungsstätte Anne Frank: Home
- - [https://www.bs-anne-frank.de](https://www.bs-anne-frank.de)
- - date_published: 2024-09-12T16:02:59.913403+00:00
-
- ## Braunschweiger Linux-User-Group / BS-LUG
- - [https://bs-lug.de](https://bs-lug.de)
- - date_published: 2024-09-14T08:53:06.443625+00:00
-
- ## Berliner Stadtreinigung
- - [http://www.bsr.de](http://www.bsr.de)
- - date_published: 2024-09-25T19:03:24.826937+00:00
-
- ## Bastelei e. V. – digitale Bastelei
- - [https://bstly.de](https://bstly.de)
- - date_published: 2024-05-09T08:02:14.325665+00:00
-
- ## Mastodon
- - [https://mastodon.bstly.de](https://mastodon.bstly.de)
- - date_published: 2024-07-10T07:45:45.263058+00:00
-
- ## Bastelei e. V.
- - [https://membership.bstly.de](https://membership.bstly.de)
- - date_published: 2021-02-12T00:00:00+00:00
-
- ## we.bstly
- - [https://we.bstly.de](https://we.bstly.de)
- - date_published: 2024-03-28T10:18:48+00:00
-
- ## Bastelei Wiki
- - [https://wiki.bstly.de](https://wiki.bstly.de)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## Recent News - Jonathan Brachthäuser
- - [https://b-studios.de](https://b-studios.de)
- - date_published: 2022-03-10T20:51:27+00:00
-
- ## Suche - Südwestdeutscher Bibliotheksverbund
- - [https://swb.boss.bsz-bw.de](https://swb.boss.bsz-bw.de)
- - date_published: 2024-09-13T19:57:05.844985+00:00
-
- ## Dashboard - BSZ-WIKI
- - [https://wiki.bsz-bw.de](https://wiki.bsz-bw.de)
- - date_published: 2024-09-13T19:57:07.219865+00:00
-
- ## Home - BSZ
- - [https://www.bsz-bw.de](https://www.bsz-bw.de)
- - date_published: 2024-06-14T04:11:55.585267+00:00
-
- ## BTC-ECHO
- - [https://account.btc-echo.de](https://account.btc-echo.de)
- - date_published: 2024-09-25T13:52:58.250942+00:00
-
- ## IOAM
- - [https://data-50b219a31f.btc-echo.de](https://data-50b219a31f.btc-echo.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## Info | BTC-ECHO
- - [https://info.btc-echo.de](https://info.btc-echo.de)
- - date_published: 2024-09-25T13:54:33.189731+00:00
-
- ## BTC-ECHO | News zu Bitcoin, Blockchain & Kryptowährungen
- - [https://www.btc-echo.de](https://www.btc-echo.de)
- - date_published: 2024-06-06T00:00:00+00:00
-
- ## btf • bildundtonfabrik
- - [https://btf.de](https://btf.de)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Deutscher Bundestag - Download- und Bestellservice für Infomaterial - Kategorienauswahl
- - [https://www.btg-bestellservice.de](https://www.btg-bestellservice.de)
- - date_published: 2024-04-29T05:56:32.164903+00:00
-
- ## Game Design // UE
- - [http://gamedesign.btk-fh.de](http://gamedesign.btk-fh.de)
- - date_published: 2024-06-22T14:46:36.930461+00:00
-
- ## BTW 2015 Hamburg
- - [http://www.btw-2015.de](http://www.btw-2015.de)
- - date_published: 2015-05-11T17:32:55+00:00
-
- ## Bubatzkarte - Abstandsregeln in Farbe
- - [https://bubatzkarte.de](https://bubatzkarte.de)
- - date_published: 2024-03-26T21:54:00.313037+00:00
-
- ## Buchhandlung Walther König
- - [https://www.buchhandlung-walther-koenig.de](https://www.buchhandlung-walther-koenig.de)
- - date_published: 2024-06-19T16:18:37.799079+00:00
-
- ## Buchholz fährt Rad e.V. | Bike Community
- - [https://buchholz-faehrt-rad.de](https://buchholz-faehrt-rad.de)
- - date_published: 2024-07-10T08:20:00.948972+00:00
-
- ## Frankfurt Connect. Die digitale Plattform der Frankfurter Buchmesse.
- - [https://connect.buchmesse.de](https://connect.buchmesse.de)
- - date_published: 2024-10-20T04:45:24.999141+00:00
-
- ## Frankfurter Buchmesse | Home
- - [https://www.buchmesse.de](https://www.buchmesse.de)
- - date_published: 2024-06-17T17:52:14+00:00
-
- ## buchreport - die wichtigsten News und Analysen zur Buchbranche
- - [https://www.buchreport.de](https://www.buchreport.de)
- - date_published: 2024-07-24T04:44:24.957706+00:00
-
- ## Buddenbohm & Söhne
- - [https://www.buddenbohm-und-soehne.de](https://www.buddenbohm-und-soehne.de)
- - date_published: 2024-07-02T18:00:41.995518+00:00
-
- ## Budgey - verifizierter Cashback &amp; Gutscheine
- - [https://www.budgey.de](https://www.budgey.de)
- - date_published: 2024-07-03T05:25:37.900315+00:00
-
- ## Startseite - Büchner-Verlag
- - [https://www.buechner-verlag.de](https://www.buechner-verlag.de)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## bueltge.de [by:ltge.de] – Frank Bültge schreibt auf bueltge.de zu den Themen Webentwicklung, WordPress, Sport und andere Themen die mir vor die Nase kommen
- - [https://bueltge.de](https://bueltge.de)
- - date_published: 2024-05-07T23:10:11.114502+00:00
-
- ## Generator für hCard/vCard
- - [http://hcard.bueltge.de](http://hcard.bueltge.de)
- - date_published: 2024-07-02T18:19:17.557398+00:00
-
- ## Zeitschrift Bürger und Staat
- - [http://www.buergerimstaat.de](http://www.buergerimstaat.de)
- - date_published: 2024-10-16T20:54:49.355913+00:00
-
- ## Buergerinitiative bedingungsloses Grundeinkommen Berlin
- - [http://www.buergerinitiative-grundeinkommen.de](http://www.buergerinitiative-grundeinkommen.de)
- - date_published: 2023-06-14T22:03:28+00:00
-
- ## Home  | BüSo - Bürgerrechtsbewegung Solidarität
- - [https://bueso.de](https://bueso.de)
- - date_published: 2024-07-13T17:58:01.606795+00:00
-
- ## Bütz mich - die Partnersuche für Köln.
- - [https://buetzmich.de](https://buetzmich.de)
- - date_published: 2024-07-24T05:45:59.970766+00:00
-
- ## buffed - Das Portal für Online-Spiele, Filme, Serien & Nerd-Krams
- - [https://buffed.de](https://buffed.de)
- - date_published: 2024-04-29T06:35:29.770696+00:00
-
- ## IOAM
- - [https://data-c5925d7d99.buffed.de](https://data-c5925d7d99.buffed.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## buffed.de Community Foren
- - [https://forum.buffed.de](https://forum.buffed.de)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## buffed.de - Stellenmarkt
- - [https://jobs.buffed.de](https://jobs.buffed.de)
- - date_published: 2024-07-11T16:38:57.167488+00:00
-
- ## Startseite - Geschlechtergerechte Hochschulpolitik in der bukof
- - [http://www.bukof.de](http://www.bukof.de)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Online Gold kaufen und Silber und Platin kaufen zu den besten Preisen – BullionVault
- - [https://bullionvault.de](https://bullionvault.de)
- - date_published: 2024-10-21T00:00:56.406960+00:00
-
- ## Online Gold kaufen und Silber und Platin kaufen zu den besten Preisen – BullionVault
- - [https://gold.bullionvault.de](https://gold.bullionvault.de)
- - date_published: 2024-06-18T08:56:20.388584+00:00
-
- ## AusweisApp - Software zur Nutzung der Online-Ausweisfunktion
- - [https://ausweisapp.bund.de](https://ausweisapp.bund.de)
- - date_published: 2024-04-29T06:11:43.795200+00:00
-
- ## BMDV - Startseite
- - [https://bmdv.bund.de](https://bmdv.bund.de)
- - date_published: 2024-07-08T17:21:43.931337+00:00
-
- ## Startseite
- - [https://bmi.bund.de](https://bmi.bund.de)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Bundesamt für Sicherheit in der Informationstechnik
- - [https://bsi.bund.de](https://bsi.bund.de)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## Startseite
- - [https://bvl.bund.de](https://bvl.bund.de)
- - date_published: 2024-09-26T10:28:48+00:00
-
- ## Geodatenzentrum des Bundesamtes für Kartographie und Geodäsie
- - [https://gdz.bkg.bund.de](https://gdz.bkg.bund.de)
- - date_published: 2024-07-08T12:43:07.686059+00:00
-
- ## Startseite
- - [https://recht.bund.de](https://recht.bund.de)
- - date_published: 2024-05-11T11:32:30.887264+00:00
-
- ## social.bund.de
- - [https://social.bund.de](https://social.bund.de)
- - date_published: 2023-10-25T18:28:31.356395+00:00
-
- ## Startseite
- - [https://www.bfdi.bund.de](https://www.bfdi.bund.de)
- - date_published: 2024-06-23T11:57:46+00:00
-
- ## Homepage - Deutsch - BfR
- - [https://www.bfr.bund.de](https://www.bfr.bund.de)
- - date_published: 2024-07-24T04:06:52.107305+00:00
-
- ## BKG  -  Bundesamt für Kartographie und Geodäsie
- - [https://www.bkg.bund.de](https://www.bkg.bund.de)
- - date_published: 2024-07-08T12:43:11.862130+00:00
 

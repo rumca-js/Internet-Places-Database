@@ -1,3 +1,7 @@
+ ## 3M Science. Applied to Life.  3M United States
+ - [http://solutions.3m.com](http://solutions.3m.com)
+ - date_published: 2024-08-06T10:41:34.060707+00:00
+
  ## 3mdeb | Our open source software your solution
  - [https://3mdeb.com](https://3mdeb.com)
  - date_published: 2024-06-30T02:17:19.150160+00:00
@@ -460,6 +464,7 @@
  ## 4J Studios - Scottish award winning game development studio
  - [https://4jstudios.com](https://4jstudios.com)
  - date_published: 2021-02-22T16:12:34+00:00
+ - tags: ['video game developer']
 
  ## 4K Download – Free and useful applications for PC, Mac and Linux
  - [https://4kdownload.com](https://4kdownload.com)
@@ -4046,8 +4051,4 @@ Personal Consulting
  ## Press release archive
  - [https://press.aboutamazon.com](https://press.aboutamazon.com)
  - date_published: 2023-11-28T18:21:10.358258+00:00
-
- ## Delivered with Care: 2022 Safety, Health, and Well-Being Report
- - [https://safety.aboutamazon.com](https://safety.aboutamazon.com)
- - date_published: 2024-05-01T02:02:14.090876+00:00
 

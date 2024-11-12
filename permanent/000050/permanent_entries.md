@@ -1,3 +1,19 @@
+ ## Practical Records
+ - [https://practicalrecords.bandcamp.com](https://practicalrecords.bandcamp.com)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## Prado Records
+ - [https://pradorecords.bandcamp.com](https://pradorecords.bandcamp.com)
+ - date_published: 2024-10-16T00:00:00+00:00
+
+ ## Precious Recordings of London
+ - [https://preciousrecordingsoflondon.bandcamp.com](https://preciousrecordingsoflondon.bandcamp.com)
+ - date_published: 2024-09-14T00:00:00+00:00
+
+ ## Pressure Sounds
+ - [https://pressuresounds.bandcamp.com](https://pressuresounds.bandcamp.com)
+ - date_published: 2024-06-29T00:00:00+00:00
+
  ## hot lava, by Prima
  - [https://prima1.bandcamp.com](https://prima1.bandcamp.com)
  - date_published: 2024-03-19T00:00:00+00:00
@@ -3996,21 +4012,4 @@ rain or shine
  - [https://batman-news.com](https://batman-news.com)
  - date_published: 2024-05-07T18:48:11.981947+00:00
  - tags: ['batman']
-
- ## BATMAN NOTES
- - [https://batmannotes.com](https://batmannotes.com)
- - date_published: 2024-07-11T16:23:41+00:00
- - tags: ['batman']
-
- ## Comics Bookcase - Writing About Comics
- - [https://batmansbookcase.com](https://batmansbookcase.com)
- - date_published: 2024-07-17T10:42:47.011516+00:00
-
- ## Baton Rouge
- - [https://baton-rouge.com](https://baton-rouge.com)
- - date_published: 2024-05-08T09:32:09.400669+00:00
-
- ## Baton Rouge
- - [http://m.baton-rouge.com](http://m.baton-rouge.com)
- - date_published: 2024-05-23T14:33:34+00:00
 

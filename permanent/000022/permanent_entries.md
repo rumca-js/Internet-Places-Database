@@ -1,3 +1,7 @@
+ ## Latest updates - Linux @ CERN
+ - [https://linux.web.cern.ch](https://linux.web.cern.ch)
+ - date_published: 2024-09-18T09:48:40+00:00
+
  ## MapCERN
  - [https://maps.web.cern.ch](https://maps.web.cern.ch)
  - date_published: 2024-09-03T03:24:15+00:00
@@ -4006,8 +4010,4 @@
  ## Accueil - Lausanne Jardins 24
  - [https://lausannejardins.ch](https://lausannejardins.ch)
  - date_published: 2024-09-13T12:07:18+00:00
-
- ## Lausanne musées
- - [https://lausanne-musees.ch](https://lausanne-musees.ch)
- - date_published: 2024-04-30T06:00:05.364221+00:00
 

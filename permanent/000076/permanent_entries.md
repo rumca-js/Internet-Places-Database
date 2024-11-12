@@ -1,3 +1,27 @@
+ ## CNN Travel | Global Destinations, Tips & Video | CNN
+ - [http://travel.cnn.com](http://travel.cnn.com)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Breaking News, Latest News and Videos | CNN
+ - [https://us.cnn.com](https://us.cnn.com)
+ - date_published: 2024-01-02T12:59:15.005555+00:00
+
+ ## فر غوغل بلاى CNN الاقتصادية
+ - [https://app.cnnbusinessarabic.com](https://app.cnnbusinessarabic.com)
+ - date_published: 2024-09-19T11:22:18+00:00
+
+ ## CNN Business Arabic
+ - [https://careers.cnnbusinessarabic.com](https://careers.cnnbusinessarabic.com)
+ - date_published: 2024-09-25T15:42:59.841546+00:00
+
+ ## CNN الاقتصادية: أخبار الاقتصاد، الاسواق المالية في الشرق الأوسط والعالم، تقارير، فيديو.
+ - [https://cnnbusinessarabic.com](https://cnnbusinessarabic.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## CNN الاقتصادية: أخبار الاقتصاد، الاسواق المالية في الشرق الأوسط والعالم، تقارير، فيديو.
+ - [https://editor.cnnbusinessarabic.com](https://editor.cnnbusinessarabic.com)
+ - date_published: 2024-09-25T00:00:00+00:00
+
  ## Últimas noticias de Estados Unidos, Latinoamérica y el mundo, hoy | CNN en Español
  - [https://cnnespanol.com](https://cnnespanol.com)
  - date_published: 2024-05-08T05:45:50.880375+00:00
@@ -4016,28 +4040,4 @@ Glass, Collectibles
  ## College Pulse
  - [https://www.collegepulse.com](https://www.collegepulse.com)
  - date_published: 2024-06-29T10:48:17.531003+00:00
-
- ## Course Search
- - [https://alaska.search.collegescheduler.com](https://alaska.search.collegescheduler.com)
- - date_published: 2023-12-22T01:25:56+00:00
-
- ## Sign in to your account
- - [http://ensign.collegescheduler.com](http://ensign.collegescheduler.com)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Sign in to your account
- - [https://unm.collegescheduler.com](https://unm.collegescheduler.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home
- - [https://collegesofdistinction.com](https://collegesofdistinction.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## TES: Log In
- - [https://tes.collegesource.com](https://tes.collegesource.com)
- - date_published: 2024-06-22T09:15:19.962730+00:00
-
- ## CollegeSportsInfo.com: Conference Realignment Updates and College Sports Business News
- - [https://collegesportsinfo.com](https://collegesportsinfo.com)
- - date_published: 2024-02-08T18:21:32.911150+00:00
 

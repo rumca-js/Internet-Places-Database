@@ -1,3 +1,7 @@
+ ## 陕西省人民检察院
+ - [http://www.sn.jcy.gov.cn](http://www.sn.jcy.gov.cn)
+ - date_published: 2024-06-30T13:20:29.410314+00:00
+
  ## 山西省人民检察院
  - [http://www.sx.jcy.gov.cn](http://www.sx.jcy.gov.cn)
  - date_published: 2024-06-30T13:20:48.023320+00:00
@@ -3993,8 +3997,4 @@
  ## 中国华文教育基金会
  - [http://www.clef.org.cn](http://www.clef.org.cn)
  - date_published: 2024-02-08T00:00:00+00:00
-
- ## 中国探月与深空探测网
- - [http://www.clep.org.cn](http://www.clep.org.cn)
- - date_published: 2024-06-28T07:53:11+00:00
 

@@ -1,4 +1,364 @@
  ## Wikipedia
+ - [https://ak.wikipedia.org](https://ak.wikipedia.org)
+ - date_published: 2024-06-27T10:33:58+00:00
+
+ ## Alemannische Wikipedia
+ - [https://als.m.wikipedia.org](https://als.m.wikipedia.org)
+ - date_published: 2024-07-12T02:43:21+00:00
+
+ ## Alemannische Wikipedia
+ - [https://als.wikipedia.org](https://als.wikipedia.org)
+ - date_published: 2024-05-10T04:17:27.469974+00:00
+
+ ## Википедия
+ - [https://alt.m.wikipedia.org](https://alt.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## Википедия
+ - [https://alt.wikipedia.org](https://alt.wikipedia.org)
+ - date_published: 2024-05-10T04:28:14.765685+00:00
+
+ ## Wikipedia
+ - [https://ami.m.wikipedia.org](https://ami.m.wikipedia.org)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Wikipedia
+ - [https://ami.wikipedia.org](https://ami.wikipedia.org)
+ - date_published: 2024-05-10T04:28:10.337541+00:00
+
+ ## ውክፔዲያ
+ - [https://am.m.wikipedia.org](https://am.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## ውክፔዲያ
+ - [https://am.wikipedia.org](https://am.wikipedia.org)
+ - date_published: 2024-05-10T04:28:16.976778+00:00
+
+ ## Wikipǣdia
+ - [https://ang.m.wikipedia.org](https://ang.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## Wikipǣdia
+ - [https://ang.wikipedia.org](https://ang.wikipedia.org)
+ - date_published: 2024-05-10T04:25:58.204542+00:00
+
+ ## Biquipedia
+ - [https://an.m.wikipedia.org](https://an.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## विकिपीडिया
+ - [https://anp.m.wikipedia.org](https://anp.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## विकिपीडिया
+ - [https://anp.wikipedia.org](https://anp.wikipedia.org)
+ - date_published: 2024-05-10T04:27:12.941757+00:00
+
+ ## Biquipedia
+ - [https://an.wikipedia.org](https://an.wikipedia.org)
+ - date_published: 2024-05-10T04:16:50.443046+00:00
+
+ ## ܘܝܩܝܦܕܝܐ
+ - [https://arc.m.wikipedia.org](https://arc.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## ܘܝܩܝܦܕܝܐ
+ - [https://arc.wikipedia.org](https://arc.wikipedia.org)
+ - date_published: 2024-05-10T04:28:04.511425+00:00
+
+ ## ويكيبيديا، الموسوعة الحرة
+ - [https://ar.m.wikipedia.org](https://ar.m.wikipedia.org)
+ - date_published: 2024-07-11T21:51:33+00:00
+
+ ## ويكيبيديا، الموسوعة الحرة
+ - [https://ar.wikipedia.org](https://ar.wikipedia.org)
+ - date_published: 2024-05-10T03:55:33.916888+00:00
+
+ ## ويكيپيديا
+ - [https://ary.m.wikipedia.org](https://ary.m.wikipedia.org)
+ - date_published: 2024-07-11T18:43:15+00:00
+
+ ## ويكيپيديا
+ - [https://ary.wikipedia.org](https://ary.wikipedia.org)
+ - date_published: 2024-05-10T04:30:10.991791+00:00
+
+ ## ويكيبيديا
+ - [https://arz.m.wikipedia.org](https://arz.m.wikipedia.org)
+ - date_published: 2024-07-11T15:37:54+00:00
+
+ ## ويكيبيديا
+ - [https://arz.wikipedia.org](https://arz.wikipedia.org)
+ - date_published: 2024-05-10T04:24:56.201532+00:00
+
+ ## অসমীয়া ৱিকিপিডিয়া
+ - [https://as.m.wikipedia.org](https://as.m.wikipedia.org)
+ - date_published: 2024-07-06T00:00:00+00:00
+
+ ## Wikipedia
+ - [https://ast.m.wikipedia.org](https://ast.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipedia
+ - [https://ast.wikipedia.org](https://ast.wikipedia.org)
+ - date_published: 2024-05-10T04:19:12.108451+00:00
+
+ ## অসমীয়া ৱিকিপিডিয়া
+ - [https://as.wikipedia.org](https://as.wikipedia.org)
+ - date_published: 2024-05-10T04:16:13.151541+00:00
+
+ ## Wikipetcia
+ - [https://atj.m.wikipedia.org](https://atj.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipetcia
+ - [https://atj.wikipedia.org](https://atj.wikipedia.org)
+ - date_published: 2024-05-10T04:29:36.862768+00:00
+
+ ## Wikipedia
+ - [https://avk.m.wikipedia.org](https://avk.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipedia
+ - [https://avk.wikipedia.org](https://avk.wikipedia.org)
+ - date_published: 2024-05-10T04:26:15.895843+00:00
+
+ ## Википедия — эркенаб энциклопедия
+ - [https://av.m.wikipedia.org](https://av.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Википедия — эркенаб энциклопедия
+ - [https://av.wikipedia.org](https://av.wikipedia.org)
+ - date_published: 2024-05-10T04:29:41.178649+00:00
+
+ ## विकिपीडिया
+ - [https://awa.m.wikipedia.org](https://awa.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## विकिपीडिया
+ - [https://awa.wikipedia.org](https://awa.wikipedia.org)
+ - date_published: 2024-05-10T04:28:37.353763+00:00
+
+ ## Wikipedia
+ - [https://ay.m.wikipedia.org](https://ay.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipedia
+ - [https://ay.wikipedia.org](https://ay.wikipedia.org)
+ - date_published: 2024-05-10T04:18:07.104872+00:00
+
+ ## ویکی‌پدیا، آچیق بیلیک‌لیک
+ - [https://azb.m.wikipedia.org](https://azb.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## ویکی‌پدیا، آچیق بیلیک‌لیک
+ - [https://azb.wikipedia.org](https://azb.wikipedia.org)
+ - date_published: 2024-05-10T04:24:46.601004+00:00
+
+ ## Vikipediya
+ - [https://az.m.wikipedia.org](https://az.m.wikipedia.org)
+ - date_published: 2024-07-11T15:00:19+00:00
+
+ ## Vikipediya
+ - [https://az.wikipedia.org](https://az.wikipedia.org)
+ - date_published: 2024-05-10T03:55:29.856842+00:00
+
+ ## Википедия
+ - [https://ba.m.wikipedia.org](https://ba.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipédia
+ - [https://ban.m.wikipedia.org](https://ban.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipédia
+ - [https://ban.wikipedia.org](https://ban.wikipedia.org)
+ - date_published: 2024-05-10T04:25:28.680810+00:00
+
+ ## Boarische Wikipedia
+ - [https://bar.m.wikipedia.org](https://bar.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Boarische Wikipedia
+ - [https://bar.wikipedia.org](https://bar.wikipedia.org)
+ - date_published: 2024-05-10T04:30:22.204890+00:00
+
+ ## Wikipedia
+ - [https://bat-smg.m.wikipedia.org](https://bat-smg.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipedia
+ - [https://bat-smg.wikipedia.org](https://bat-smg.wikipedia.org)
+ - date_published: 2024-05-10T04:18:33.607740+00:00
+
+ ## Википедия
+ - [https://ba.wikipedia.org](https://ba.wikipedia.org)
+ - date_published: 2024-05-10T03:55:42.343773+00:00
+
+ ## Wikipedia
+ - [https://bbc.m.wikipedia.org](https://bbc.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipedia
+ - [https://bbc.wikipedia.org](https://bbc.wikipedia.org)
+ - date_published: 2024-05-10T04:24:54.163923+00:00
+
+ ## Wikipedia
+ - [https://bcl.m.wikipedia.org](https://bcl.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Wikipedia
+ - [https://bcl.wikipedia.org](https://bcl.wikipedia.org)
+ - date_published: 2024-05-10T04:30:29.340370+00:00
+
+ ## Wikipidia
+ - [https://bdr.wikipedia.org](https://bdr.wikipedia.org)
+ - date_published: 2024-08-13T11:45:48+00:00
+
+ ## Вікіпедыя
+ - [https://be.m.wikipedia.org](https://be.m.wikipedia.org)
+ - date_published: 2024-07-11T15:50:22+00:00
+
+ ## Вікіпэдыя
+ - [https://be-tarask.m.wikipedia.org](https://be-tarask.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Вікіпэдыя
+ - [https://be-tarask.wikipedia.org](https://be-tarask.wikipedia.org)
+ - date_published: 2024-05-10T03:54:56.044590+00:00
+
+ ## Вікіпедыя
+ - [https://be.wikipedia.org](https://be.wikipedia.org)
+ - date_published: 2024-05-10T03:55:40.684872+00:00
+
+ ## Wikipédi
+ - [https://bew.m.wikipedia.org](https://bew.m.wikipedia.org)
+ - date_published: 2024-08-30T18:21:26+00:00
+
+ ## Wikipedia
+ - [https://bew.wikipedia.org](https://bew.wikipedia.org)
+ - date_published: 2024-05-29T07:08:17.961660+00:00
+
+ ## Уикипедия
+ - [https://bg.m.wikipedia.org](https://bg.m.wikipedia.org)
+ - date_published: 2024-07-11T12:31:39+00:00
+
+ ## Уикипедия
+ - [https://bg.wikipedia.org](https://bg.wikipedia.org)
+ - date_published: 2024-05-10T03:54:45.838982+00:00
+
+ ## विकिपीडिया
+ - [https://bh.m.wikipedia.org](https://bh.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## विकिपीडिया
+ - [https://bh.wikipedia.org](https://bh.wikipedia.org)
+ - date_published: 2024-05-10T04:16:45.887566+00:00
+
+ ## Wikipedia
+ - [https://bi.m.wikipedia.org](https://bi.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Wikipedia
+ - [https://bi.wikipedia.org](https://bi.wikipedia.org)
+ - date_published: 2024-05-10T04:24:28.290502+00:00
+
+ ## Wikipidia Banjar, kindai pangatahuan
+ - [https://bjn.m.wikipedia.org](https://bjn.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Wikipidia Banjar, kindai pangatahuan
+ - [https://bjn.wikipedia.org](https://bjn.wikipedia.org)
+ - date_published: 2024-05-10T04:17:29.832782+00:00
+
+ ## ဝီခီပီးဒီးယား
+ - [https://blk.m.wikipedia.org](https://blk.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## ဝီခီပီးဒီးယား
+ - [https://blk.wikipedia.org](https://blk.wikipedia.org)
+ - date_published: 2024-05-10T04:26:18.877517+00:00
+
+ ## Wikipedia
+ - [https://bm.m.wikipedia.org](https://bm.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Wikipedia
+ - [https://bm.wikipedia.org](https://bm.wikipedia.org)
+ - date_published: 2024-05-10T04:30:20.652415+00:00
+
+ ## উইকিপিডিয়া, একটি মুক্ত বিশ্বকোষ
+ - [https://bn.m.wikipedia.org](https://bn.m.wikipedia.org)
+ - date_published: 2024-07-11T16:31:55+00:00
+
+ ## উইকিপিডিয়া, একটি মুক্ত বিশ্বকোষ
+ - [https://bn.wikipedia.org](https://bn.wikipedia.org)
+ - date_published: 2024-05-10T04:30:40.895873+00:00
+
+ ## Wikipedia
+ - [https://bo.m.wikipedia.org](https://bo.m.wikipedia.org)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Wikipedia
+ - [https://bo.wikipedia.org](https://bo.wikipedia.org)
+ - date_published: 2024-05-10T04:18:27.078867+00:00
+
+ ## উইকিপিডিয়া
+ - [https://bpy.m.wikipedia.org](https://bpy.m.wikipedia.org)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## উইকিপিডিয়া
+ - [https://bpy.wikipedia.org](https://bpy.wikipedia.org)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## Wikipedia
+ - [https://br.m.wikipedia.org](https://br.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Wikipedia
+ - [https://br.wikipedia.org](https://br.wikipedia.org)
+ - date_published: 2024-05-10T04:24:32.781120+00:00
+
+ ## Wikipedia
+ - [https://bs.m.wikipedia.org](https://bs.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:28+00:00
+
+ ## Wikipedia
+ - [https://bs.wikipedia.org](https://bs.wikipedia.org)
+ - date_published: 2024-05-10T04:17:23.785150+00:00
+
+ ## Wikipedia
+ - [https://btm.wikipedia.org](https://btm.wikipedia.org)
+ - date_published: 2024-07-09T12:21:28+00:00
+
+ ## Wikipedia
+ - [https://bug.m.wikipedia.org](https://bug.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:28+00:00
+
+ ## Wikipedia
+ - [https://bug.wikipedia.org](https://bug.wikipedia.org)
+ - date_published: 2024-05-10T04:28:20.351633+00:00
+
+ ## Wikipedia
+ - [https://bxr.m.wikipedia.org](https://bxr.m.wikipedia.org)
+ - date_published: 2024-07-09T21:50:18+00:00
+
+ ## Wikipedia
+ - [https://bxr.wikipedia.org](https://bxr.wikipedia.org)
+ - date_published: 2024-05-10T04:26:36.588144+00:00
+
+ ## Viquipèdia
+ - [https://ca.m.wikipedia.org](https://ca.m.wikipedia.org)
+ - date_published: 2024-07-11T22:18:24+00:00
+
+ ## Viquipèdia
+ - [https://ca.wikipedia.org](https://ca.wikipedia.org)
+ - date_published: 2024-05-10T04:27:30.929286+00:00
+
+ ## Wikipedia
+ - [https://cbk-zam.m.wikipedia.org](https://cbk-zam.m.wikipedia.org)
+ - date_published: 2024-07-09T12:21:28+00:00
+
+ ## Wikipedia
  - [https://cbk-zam.wikipedia.org](https://cbk-zam.wikipedia.org)
  - date_published: 2024-05-10T04:29:57.805804+00:00
 
@@ -3640,364 +4000,4 @@
  ## Wikisource
  - [https://lg.wikisource.org](https://lg.wikisource.org)
  - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikivivàgna
- - [https://lij.wikisource.org](https://lij.wikisource.org)
- - date_published: 2024-06-11T12:31:44+00:00
-
- ## Wikibrónne
- - [https://li.wikisource.org](https://li.wikisource.org)
- - date_published: 2024-06-11T12:31:44+00:00
-
- ## Wikisource
- - [https://lld.wikisource.org](https://lld.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ln.wikisource.org](https://ln.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Vikišaltiniai
- - [https://lt.wikisource.org](https://lt.wikisource.org)
- - date_published: 2024-06-11T12:31:44+00:00
-
- ## Wikisource
- - [https://lv.wikisource.org](https://lv.wikisource.org)
- - date_published: 2024-09-07T06:41:58+00:00
-
- ## Wikisource
- - [https://map-bms.wikisource.org](https://map-bms.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://mg.wikisource.org](https://mg.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://min.wikisource.org](https://min.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://mk.wikisource.org](https://mk.wikisource.org)
- - date_published: 2024-06-11T12:31:45+00:00
-
- ## വിക്കിഗ്രന്ഥശാല
- - [https://ml.wikisource.org](https://ml.wikisource.org)
- - date_published: 2024-06-11T12:31:45+00:00
-
- ## Wikisource
- - [https://mn.wikisource.org](https://mn.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://mnw.wikisource.org](https://mnw.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## विकिस्रोत
- - [https://mr.wikisource.org](https://mr.wikisource.org)
- - date_published: 2024-06-11T12:31:45+00:00
-
- ## Wikisource
- - [https://ms.wikisource.org](https://ms.wikisource.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Wikisource
- - [https://mt.wikisource.org](https://mt.wikisource.org)
- - date_published: 2024-09-07T06:41:58+00:00
-
- ## Wikisource
- - [https://m.wikisource.org](https://m.wikisource.org)
- - date_published: 2024-06-04T08:08:05+00:00
-
- ## Wikisource
- - [https://mwl.wikisource.org](https://mwl.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://my.wikisource.org](https://my.wikisource.org)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Wikisource
- - [https://nah.wikisource.org](https://nah.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://nap.wikisource.org](https://nap.wikisource.org)
- - date_published: 2024-06-11T12:31:45+00:00
-
- ## Wikisource
- - [https://ne.wikisource.org](https://ne.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://nia.wikisource.org](https://nia.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://nl.wikisource.org](https://nl.wikisource.org)
- - date_published: 2024-06-11T12:31:46+00:00
-
- ## Wikisource
- - [https://nov.wikisource.org](https://nov.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikikilden
- - [https://no.wikisource.org](https://no.wikisource.org)
- - date_published: 2024-06-11T12:31:46+00:00
-
- ## ଉଇକିପାଠାଗାର
- - [https://or.wikisource.org](https://or.wikisource.org)
- - date_published: 2024-06-11T12:31:46+00:00
-
- ## Wikisource
- - [https://pag.wikisource.org](https://pag.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://pam.wikisource.org](https://pam.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://pap.wikisource.org](https://pap.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## ਵਿਕੀਸਰੋਤ
- - [https://pa.wikisource.org](https://pa.wikisource.org)
- - date_published: 2024-06-11T12:31:47+00:00
-
- ## Wikiźródła, wolna biblioteka
- - [https://pl.wikisource.org](https://pl.wikisource.org)
- - date_published: 2024-06-17T19:50:04+00:00
-
- ## Wikisource
- - [https://pms.wikisource.org](https://pms.wikisource.org)
- - date_published: 2024-06-11T12:31:47+00:00
-
- ## Wikisource
- - [https://pnb.wikisource.org](https://pnb.wikisource.org)
- - date_published: 2024-09-07T06:41:58+00:00
-
- ## Wikisource
- - [https://pnt.wikisource.org](https://pnt.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ps.wikisource.org](https://ps.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://pt.wikisource.org](https://pt.wikisource.org)
- - date_published: 2024-06-17T16:00:07+00:00
-
- ## Wikisource
- - [https://qu.wikisource.org](https://qu.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://rm.wikisource.org](https://rm.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ro.wikisource.org](https://ro.wikisource.org)
- - date_published: 2024-06-11T12:31:48+00:00
-
- ## Викитека — свободная библиотека
- - [https://ru.m.wikisource.org](https://ru.m.wikisource.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Викитека — свободная библиотека
- - [https://ru.wikisource.org](https://ru.wikisource.org)
- - date_published: 2024-05-10T03:55:26.918991+00:00
-
- ## Wikisource
- - [https://rw.wikisource.org](https://rw.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Бикитиэкэ
- - [https://sah.wikisource.org](https://sah.wikisource.org)
- - date_published: 2024-06-11T12:31:48+00:00
-
- ## Wikisource
- - [https://sat.wikisource.org](https://sat.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## विकिस्रोतः
- - [https://sa.wikisource.org](https://sa.wikisource.org)
- - date_published: 2024-06-11T12:31:48+00:00
-
- ## Wikisource
- - [https://sco.wikisource.org](https://sco.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://shi.wikisource.org](https://shi.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://shn.wikisource.org](https://shn.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://sh.wikisource.org](https://sh.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://si.wikisource.org](https://si.wikisource.org)
- - date_published: 2024-09-07T06:41:58+00:00
-
- ## Wikisource
- - [https://skr.wikisource.org](https://skr.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikizdroje
- - [https://sk.wikisource.org](https://sk.wikisource.org)
- - date_published: 2024-06-11T12:31:49+00:00
-
- ## Wikivir
- - [https://sl.wikisource.org](https://sl.wikisource.org)
- - date_published: 2024-06-11T12:31:49+00:00
-
- ## Wikisource
- - [https://so.wikisource.org](https://so.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Викизворник
- - [https://sr.wikisource.org](https://sr.wikisource.org)
- - date_published: 2024-06-11T12:31:50+00:00
-
- ## Wikisource
- - [https://ss.wikisource.org](https://ss.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikipabukon
- - [https://su.wikisource.org](https://su.wikisource.org)
- - date_published: 2024-06-29T14:16:20+00:00
-
- ## Wikisource
- - [https://sv.wikisource.org](https://sv.wikisource.org)
- - date_published: 2024-06-13T20:41:39+00:00
-
- ## விக்கிமூலம்
- - [https://ta.wikisource.org](https://ta.wikisource.org)
- - date_published: 2024-06-11T12:31:50+00:00
-
- ## Wikisource
- - [https://tcy.wikisource.org](https://tcy.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## వికీసోర్స్
- - [https://te.wikisource.org](https://te.wikisource.org)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Wikisource
- - [https://tg.wikisource.org](https://tg.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## วิกิซอร์ซ
- - [https://th.wikisource.org](https://th.wikisource.org)
- - date_published: 2024-06-11T12:31:51+00:00
-
- ## Wikisource
- - [https://tk.wikisource.org](https://tk.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://tl.wikisource.org](https://tl.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://tly.wikisource.org](https://tly.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://tn.wikisource.org](https://tn.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Vikikaynak
- - [https://tr.wikisource.org](https://tr.wikisource.org)
- - date_published: 2024-06-14T16:39:50+00:00
-
- ## Wikisource
- - [https://tw.wikisource.org](https://tw.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://tyv.wikisource.org](https://tyv.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://ug.wikisource.org](https://ug.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Вікіджерела — вільна бібліотека
- - [https://uk.wikisource.org](https://uk.wikisource.org)
- - date_published: 2024-06-12T16:30:53+00:00
-
- ## Wikisource
- - [https://ur.wikisource.org](https://ur.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://uz.wikisource.org](https://uz.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://vec.wikisource.org](https://vec.wikisource.org)
- - date_published: 2024-06-11T12:31:52+00:00
-
- ## Wikisource
- - [https://ve.wikisource.org](https://ve.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource, văn thư lưu trữ mở
- - [https://vi.wikisource.org](https://vi.wikisource.org)
- - date_published: 2024-06-16T07:30:53+00:00
-
- ## Wikisource
- - [https://wa.wikisource.org](https://wa.wikisource.org)
- - date_published: 2024-06-11T12:31:54+00:00
-
- ## Wikisource
- - [https://wikisource.org](https://wikisource.org)
- - date_published: 2024-05-02T11:13:55.188594+00:00
-
- ## Wikisource
- - [https://wo.wikisource.org](https://wo.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://xmf.wikisource.org](https://xmf.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## װיקיביבליאָטעק
- - [https://yi.wikisource.org](https://yi.wikisource.org)
- - date_published: 2024-06-11T12:31:54+00:00
-
- ## Wikisource
- - [https://yo.wikisource.org](https://yo.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://za.wikisource.org](https://za.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wikisource
- - [https://zgh.wikisource.org](https://zgh.wikisource.org)
- - date_published: 2024-07-03T13:48:39+00:00
-
- ## Wiki Tô·-su-kóan
- - [https://zh-min-nan.wikisource.org](https://zh-min-nan.wikisource.org)
- - date_published: 2024-06-11T12:31:54+00:00
-
- ## 维基文库，自由的图书馆
- - [https://zh.wikisource.org](https://zh.wikisource.org)
- - date_published: 2024-06-17T16:09:31+00:00
-
- ## Wikimedia Small Projects
- - [https://wikisp.org](https://wikisp.org)
- - date_published: 2024-07-14T03:09:10.436696+00:00
-
- ## Wikispecies, free species directory
- - [https://en.wikispecies.org](https://en.wikispecies.org)
- - date_published: 2024-04-16T00:00:00+00:00
 

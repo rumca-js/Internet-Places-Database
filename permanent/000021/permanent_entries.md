@@ -1,3 +1,7 @@
+ ## AutoML24 – International Conference on Automatd Machine Learning
+ - [https://automl.cc](https://automl.cc)
+ - date_published: 2024-08-18T20:44:39.249877+00:00
+
  ## Autonomi.cc
  - [https://autonomi.cc](https://autonomi.cc)
  - date_published: 2024-05-09T07:46:16.893873+00:00
@@ -4022,8 +4026,4 @@
  ## Linux @ CERN
  - [https://linuxsoft.cern.ch](https://linuxsoft.cern.ch)
  - date_published: 2024-06-15T18:24:12.857300+00:00
-
- ## Latest updates - Linux @ CERN
- - [https://linux.web.cern.ch](https://linux.web.cern.ch)
- - date_published: 2024-09-18T09:48:40+00:00
 

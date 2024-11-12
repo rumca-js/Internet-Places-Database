@@ -1,3 +1,7 @@
+ ## MaisCuidado
+ - [https://admin.maiscuidado.com.br](https://admin.maiscuidado.com.br)
+ - date_published: 2024-06-03T23:46:17+00:00
+
  ## Mais Esports - Notícias de LoL, CS, VALORANT, e outros Esports
  - [https://maisesports.com.br](https://maisesports.com.br)
  - date_published: 2024-08-06T03:58:44.101607+00:00
@@ -4004,8 +4008,4 @@
  ## About Amazon
  - [https://aboutamazon.ca](https://aboutamazon.ca)
  - date_published: 2024-05-01T02:02:39.410125+00:00
-
- ## Academy of Canadian Cinema and Television
- - [https://www.academy.ca](https://www.academy.ca)
- - date_published: 2024-06-04T00:00:00+00:00
 

@@ -1,3 +1,267 @@
+ ## Se former à Delphi - Formations Delphi
+ - [https://se-former-a-delphi.fr](https://se-former-a-delphi.fr)
+ - date_published: 2024-10-16T11:03:33.470160+00:00
+
+ ## seizeheures.fr
+ - [https://seizeheures.fr](https://seizeheures.fr)
+ - date_published: 2024-02-10T01:59:49+00:00
+
+ ## ANTOINE SELAH
+ - [https://selah.fr](https://selah.fr)
+ - date_published: 2024-10-29T14:24:21.267603+00:00
+
+ ## Selency - Site de brocante en ligne où vendre, chiner et s'inspirer.
+ - [https://selency.fr](https://selency.fr)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Henri SELMER Paris
+ - [https://selmer.fr](https://selmer.fr)
+ - date_published: 2024-05-12T05:27:04.491690+00:00
+
+ ## e-pétitions du Sénat
+ - [https://petitions.senat.fr](https://petitions.senat.fr)
+ - date_published: 2024-09-12T17:08:25.261204+00:00
+
+ ## Sénat - Accueil
+ - [https://www.senat.fr](https://www.senat.fr)
+ - date_published: 2024-08-12T04:28:40.259967+00:00
+
+ ## Sentinelles de la nature | France Nature Environnement
+ - [https://sentinellesdelanature.fr](https://sentinellesdelanature.fr)
+ - date_published: 2024-10-15T15:41:31.692386+00:00
+
+ ## Agence SEO Paris : Référencement naturel - Depuis 1998 ✅
+ - [https://www.seo.fr](https://www.seo.fr)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Septième Largeur - Chaussures pour hommes de qualité
+ - [https://www.septiemelargeur.fr](https://www.septiemelargeur.fr)
+ - date_published: 2024-09-04T18:02:34.079715+00:00
+
+ ## Serial Investisseur - Réussir vos investissements immobiliers
+ - [https://serialinvestisseur.fr](https://serialinvestisseur.fr)
+ - date_published: 2024-05-01T01:58:09.837988+00:00
+
+ ## Serial Streameur
+ - [https://serialstreameur.fr](https://serialstreameur.fr)
+ - date_published: 2024-10-16T11:02:31.893801+00:00
+
+ ## Accueil | Entreprendre.Service-Public.fr
+ - [https://entreprendre.service-public.fr](https://entreprendre.service-public.fr)
+ - date_published: 2024-04-30T07:58:15.029430+00:00
+
+ ## Annuaire | Service-Public.fr
+ - [https://lannuaire.service-public.fr](https://lannuaire.service-public.fr)
+ - date_published: 2024-07-20T23:38:14.073633+00:00
+
+ ## Accueil | Service-Public.fr
+ - [https://mon.service-public.fr](https://mon.service-public.fr)
+ - date_published: 2024-10-12T13:25:54.545205+00:00
+
+ ## Accueil | Service-Public.fr
+ - [https://service-public.fr](https://service-public.fr)
+ - date_published: 2024-06-14T14:49:05.305426+00:00
+
+ ## Accueil - Société Française de Physique
+ - [https://www.sfpnet.fr](https://www.sfpnet.fr)
+ - date_published: 2024-08-19T18:51:27.421650+00:00
+
+ ## Actu ciné, séries, tv, tech, sport, jeux et musique
+ - [https://actus.sfr.fr](https://actus.sfr.fr)
+ - date_published: 2024-06-25T22:25:49.260445+00:00
+
+ ## Assistance SFR, nos services SAV - SFR
+ - [https://assistance.sfr.fr](https://assistance.sfr.fr)
+ - date_published: 2024-06-25T22:25:43.785683+00:00
+
+ ## Boutiques SFR près de chez vous : offres mobiles et internet
+ - [https://boutique.sfr.fr](https://boutique.sfr.fr)
+ - date_published: 2024-06-25T06:59:38+00:00
+
+ ## Dommages Réseaux : signaler un équipement endommagé - SFR
+ - [https://dommages-reseaux.sfr.fr](https://dommages-reseaux.sfr.fr)
+ - date_published: 2024-06-25T22:25:55.055539+00:00
+
+ ## Espace Client SFR - Gestion de mon compte SFR
+ - [https://espace-client.sfr.fr](https://espace-client.sfr.fr)
+ - date_published: 2024-06-25T22:25:46.887121+00:00
+
+ ## Authentification - La boutique SFR Home
+ - [https://home.sfr.fr](https://home.sfr.fr)
+ - date_published: 2024-06-25T22:25:58+00:00
+
+ ## La Communauté SFR
+ - [https://la-communaute.sfr.fr](https://la-communaute.sfr.fr)
+ - date_published: 2024-06-25T22:26:03.012632+00:00
+
+ ## SFR TV sur PC
+ - [https://tv.sfr.fr](https://tv.sfr.fr)
+ - date_published: 2024-03-28T09:03:22+00:00
+
+ ## SFR Mail – Retrouvez votre Webmail, boite mail et adresse mail
+ - [https://webmail.sfr.fr](https://webmail.sfr.fr)
+ - date_published: 2024-06-25T22:25:38.244560+00:00
+
+ ## SFR Cloud
+ - [https://www.sfrcloud.sfr.fr](https://www.sfrcloud.sfr.fr)
+ - date_published: 2024-06-25T22:25:58.832587+00:00
+
+ ## SFR | Forfait Mobile, Téléphone, Internet Fibre et ADSL, TV
+ - [https://www.sfr.fr](https://www.sfr.fr)
+ - date_published: 2024-05-06T17:57:39.065664+00:00
+
+ ## Mobile & Téléphonie, Internet, Cybersécurité & Cloud | SFR Business
+ - [https://www.sfrbusiness.fr](https://www.sfrbusiness.fr)
+ - date_published: 2024-06-14T14:02:15+00:00
+
+ ## SG - Banque et Assurance au plus proche de vous
+ - [https://particuliers.sg.fr](https://particuliers.sg.fr)
+ - date_published: 2024-07-03T05:32:45.426888+00:00
+
+ ## SGS est le leader mondial du testing, de l'inspection et de la certification.
+ - [https://www.sgsgroup.fr](https://www.sgsgroup.fr)
+ - date_published: 2024-09-10T12:52:14.640532+00:00
+
+ ## Shadowrun.fr
+ - [http://shadowrun.fr](http://shadowrun.fr)
+ - date_published: 2024-07-24T05:21:24.618400+00:00
+
+ ## wiki.shadowrun-jdr.fr
+ - [https://wiki.shadowrun-jdr.fr](https://wiki.shadowrun-jdr.fr)
+ - date_published: 2024-05-02T00:45:49+00:00
+
+ ## Shaft Inc.
+ - [https://www.shaftinc.fr](https://www.shaftinc.fr)
+ - date_published: 2022-08-23T00:00:00+00:00
+
+ ## Shenmue Master - l'actualité de la saga Shenmue et de Shenmue III
+ - [http://shenmuemaster.fr](http://shenmuemaster.fr)
+ - date_published: 2024-06-06T21:04:22+00:00
+
+ ## Le compte pro en ligne qui simplifie votre quotidien
+ - [https://www.shine.fr](https://www.shine.fr)
+ - date_published: 2024-09-15T00:00:00+00:00
+
+ ## SHOP! est la fédération qui rassemble, représente et défend les acteurs du Retail
+ - [https://www.shopassociation.fr](https://www.shopassociation.fr)
+ - date_published: 2024-10-30T09:35:15.204000+00:00
+
+ ## SHOP! Awards 2025 – Concours des SHOP! Awards 2025
+ - [https://shop-awards.fr](https://shop-awards.fr)
+ - date_published: 2024-10-30T09:36:33.348542+00:00
+
+ ## Disney Store FR | Nouveau Site Officiel | Boutique Disney
+ - [https://www.shopdisney.fr](https://www.shopdisney.fr)
+ - date_published: 2024-09-20T20:21:17.546543+00:00
+
+ ## Accueil - SIAE
+ - [http://www.siae.fr](http://www.siae.fr)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## SIAL Paris
+ - [https://badge.sialparis.fr](https://badge.sialparis.fr)
+ - date_published: 2024-09-11T18:11:55.839923+00:00
+
+ ## Blog d'Eric SIBER
+ - [https://eric.siber.fr](https://eric.siber.fr)
+ - date_published: 2024-07-08T10:51:03.455457+00:00
+
+ ## Siècle Digital
+ - [https://abonnement.siecledigital.fr](https://abonnement.siecledigital.fr)
+ - date_published: 2024-05-08T00:39:16.036900+00:00
+
+ ## Siècle Digital - L'actualité internationale de l'économie du numérique
+ - [https://siecledigital.fr](https://siecledigital.fr)
+ - date_published: 2023-10-25T19:15:41.666599+00:00
+
+ ## / [sieg.fr/ied]
+ - [https://sieg.fr](https://sieg.fr)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Cyprien Heusse
+ - [https://sigmaserv.fr](https://sigmaserv.fr)
+ - date_published: 2024-08-18T04:34:24.862896+00:00
+
+ ## Page d'accueil ⋆ Signal Spam
+ - [https://www.signal-spam.fr](https://www.signal-spam.fr)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Siick's services
+ - [https://services.siick.fr](https://services.siick.fr)
+ - date_published: 2024-07-08T10:49:55.058879+00:00
+
+ ## Silicon
+ - [https://www.silicon.fr](https://www.silicon.fr)
+ - date_published: 2024-06-23T12:33:02.937163+00:00
+
+ ## Simon Rodriguez
+ - [http://simonrodriguez.fr](http://simonrodriguez.fr)
+ - date_published: 2024-08-10T17:56:38+00:00
+
+ ## simons_fr – Convivialisme, communs et citoyenneté
+ - [https://simons.fr](https://simons.fr)
+ - date_published: 2024-07-08T11:00:28.965368+00:00
+
+ ## Simperfit – A story of web developpement
+ - [http://simperfit.fr](http://simperfit.fr)
+ - date_published: 2024-07-08T10:50:52.171218+00:00
+
+ ## Afi Esca -
+ - [https://www.simulation-assurance-de-prets.fr](https://www.simulation-assurance-de-prets.fr)
+ - date_published: 2024-07-03T05:19:00.111719+00:00
+
+ ## Sinners
+ - [http://sinners.fr](http://sinners.fr)
+ - date_published: 2024-07-03T06:36:15.719799+00:00
+
+ ## Siosm’s blog
+ - [https://tim.siosm.fr](https://tim.siosm.fr)
+ - date_published: 2023-12-20T01:47:50.797689+00:00
+
+ ## SixMania
+ - [http://www.sixmania.fr](http://www.sixmania.fr)
+ - date_published: 2024-06-21T14:57:33.886878+00:00
+
+ ## SIXT Location de Voiture | Pour tous vos déplacements
+ - [https://sixt.fr](https://sixt.fr)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Libérez votre pouvoir d'achat avec Skarlett ! | Skarlett
+ - [https://www.skarlett.fr](https://www.skarlett.fr)
+ - date_published: 2024-09-15T20:54:01.981103+00:00
+
+ ## Skaze Tools - Log in
+ - [https://sts.skaze.fr](https://sts.skaze.fr)
+ - date_published: 2024-06-25T22:36:25.700254+00:00
+
+ ## Skling !
+ - [http://www.skling.fr](http://www.skling.fr)
+ - date_published: 2024-07-09T09:49:39.981431+00:00
+
+ ## ŠKODA WE LOVE CYCLING FRANCE
+ - [https://skodawelovecycling.fr](https://skodawelovecycling.fr)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## Skyscanner
+ - [https://www.skyscanner.fr](https://www.skyscanner.fr)
+ - date_published: 2024-05-14T10:10:11+00:00
+
+ ## Jeux Vidéo Minecraft Indépendant | Découvrez l'association Skytale
+ - [https://skytale.fr](https://skytale.fr)
+ - date_published: 2024-10-22T10:26:54.374687+00:00
+
+ ## korii. - L'actu des nouvelles économies et des nouvelles techno par Slate.fr
+ - [https://korii.slate.fr](https://korii.slate.fr)
+ - date_published: 2024-07-18T05:27:54+00:00
+
+ ## Slate.fr - Culture, politique, économie, tech, sciences, santé
+ - [http://www.slate.fr](http://www.slate.fr)
+ - date_published: 2024-08-18T01:38:11+00:00
+
+ ## About Slint
+ - [https://slint.fr](https://slint.fr)
+ - date_published: 2023-10-07T00:00:00+00:00
+
  ## Assurances pour les professionnels et les particuliers
  - [https://www.smabtp.fr](https://www.smabtp.fr)
  - date_published: 2024-09-11T18:10:16.935659+00:00
@@ -3747,269 +4011,4 @@ Secrétariat d'État chargé de la Mer
  ## The K Language Wiki
  - [https://wiki.cor.fyi](https://wiki.cor.fyi)
  - date_published: 2023-10-03T09:32:27+00:00
-
- ## It's Craney... FYI 🤷‍♂️
- - [https://craney.fyi](https://craney.fyi)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Manfred Touron
- - [https://crpt.fyi](https://crpt.fyi)
- - date_published: 2024-08-18T15:59:47.910519+00:00
-
- ## CUBE CSS | CUBE CSS
- - [https://cube.fyi](https://cube.fyi)
- - date_published: 2024-07-23T22:06:57.724549+00:00
-
- ## Damian Mehers’ blog
- - [https://damian.fyi](https://damian.fyi)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## DevBase - Product Gallery for Developers
- - [https://devbase.fyi](https://devbase.fyi)
- - date_published: 2023-10-25T19:15:55.735011+00:00
-
- ## Developing Skills | John Crickett | Substack
- - [https://read.developingskills.fyi](https://read.developingskills.fyi)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
- - [https://dirt.fyi](https://dirt.fyi)
- - date_published: 2023-10-25T19:15:57.266413+00:00
-
- ## The Dirt Store
- - [https://shop.dirt.fyi](https://shop.dirt.fyi)
- - date_published: 2024-05-08T00:40:52.310561+00:00
-
- ## Dorsa Sadigh
- - [https://dorsa.fyi](https://dorsa.fyi)
- - date_published: 2024-04-17T22:03:06+00:00
-
- ## Autopilot
- - [http://driverassistance.fyi](http://driverassistance.fyi)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## duck zone
- - [https://duck.fyi](https://duck.fyi)
- - date_published: 2024-08-06T04:58:57.863047+00:00
-
- ## Home - Dym FYI
- - [https://dym.fyi](https://dym.fyi)
- - date_published: 2024-09-24T08:22:59.865485+00:00
-
- ## Tim and Jeni
- - [https://ellis.fyi](https://ellis.fyi)
- - date_published: 2024-03-05T16:08:01.801164+00:00
-
- ## ESPP.fyi - ESPP Calculator
- - [https://espp.fyi](https://espp.fyi)
- - date_published: 2023-10-25T19:15:58.160226+00:00
-
- ## Introduction - Etherspot Developer Documentation
- - [https://etherspot.fyi](https://etherspot.fyi)
- - date_published: 2024-09-23T12:08:44.477323+00:00
-
- ## GitHub - expo/fyi: Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
- - [https://expo.fyi](https://expo.fyi)
- - date_published: 2024-07-07T03:05:35.595412+00:00
-
- ## Fluid – Мы делaем digital-дизaйн и рaзрaботку на Webflow
- - [https://fluid.fyi](https://fluid.fyi)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## GotGhosted.fyi
- - [https://www.gotghosted.fyi](https://www.gotghosted.fyi)
- - date_published: 2024-09-02T22:05:03+00:00
-
- ## Hirable
- - [https://hirable.fyi](https://hirable.fyi)
- - date_published: 2024-10-30T06:57:55.133227+00:00
-
- ## iliana.fyi
- - [https://iliana.fyi](https://iliana.fyi)
- - date_published: 2023-10-25T19:15:59.645382+00:00
-
- ## moon
- - [http://imogen.fyi](http://imogen.fyi)
- - date_published: 2024-07-13T15:16:37.741857+00:00
-
- ## An open system to manage data without a central server | IPFS
- - [https://ipfs.fyi](https://ipfs.fyi)
- - date_published: 2024-05-04T16:00:13.322326+00:00
-
- ## jade's www site
- - [https://jade.fyi](https://jade.fyi)
- - date_published: 2024-01-09T18:46:42.354724+00:00
-
- ## Jochen Stierberger
- - [https://jochen.fyi](https://jochen.fyi)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Ken Zinser
- - [https://ken.fyi](https://ken.fyi)
- - date_published: 2024-02-12T08:32:03.708550+00:00
- - tags: ['personal']
-
- ## Konstantin
- - [https://kons.fyi](https://kons.fyi)
- - date_published: 2024-06-17T07:31:23.980763+00:00
-
- ## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
- - [https://layoffs.fyi](https://layoffs.fyi)
- - date_published: 2023-10-25T19:16:02.675285+00:00
- - tags: ['layoff', 'page tracker']
-
- ## le chef
- - [https://www.lechef.fyi](https://www.lechef.fyi)
- - date_published: 2024-09-09T13:41:41.915279+00:00
-
- ## Plausible · Web analytics
- - [https://al.levels.fyi](https://al.levels.fyi)
- - date_published: 2024-05-08T00:41:20.821116+00:00
-
- ## Levels.fyi | Salaries & Tools to Level Up Your Career
- - [https://levels.fyi](https://levels.fyi)
- - date_published: 2024-05-08T00:41:17.077556+00:00
-
- ## Lunar - The defacto app for controlling monitor brightness
- - [https://lunar.fyi](https://lunar.fyi)
- - date_published: 2024-08-19T10:52:19.090768+00:00
-
- ## Mads Brodt - Front-end developer and teacher
- - [https://mads.fyi](https://mads.fyi)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Marva Jackson Lord
- - [https://marva.fyi](https://marva.fyi)
- - date_published: 2008-01-01T00:00:00+00:00
-
- ## MetaTerminal
- - [https://metaterminal.fyi](https://metaterminal.fyi)
- - date_published: 2024-06-15T09:47:51.298633+00:00
-
- ## mly.fyi
- - [https://mly.fyi](https://mly.fyi)
- - date_published: 2024-07-09T19:17:18.587213+00:00
-
- ## moon
- - [http://moon.fyi](http://moon.fyi)
- - date_published: 2024-07-13T15:42:20.086874+00:00
-
- ## MSB.fyi
- - [https://msb.fyi](https://msb.fyi)
- - date_published: 2024-08-04T00:00:00+00:00
-
- ## Not a Number
- - [https://nan.fyi](https://nan.fyi)
- - date_published: 2024-05-08T00:41:23.065747+00:00
-
- ## Home
- - [https://www.niklas.fyi](https://www.niklas.fyi)
- - date_published: 2024-01-11T00:00:00+00:00
-
- ## Not By AI — Add the Badge to Your Human-Created Content
- - [https://notbyai.fyi](https://notbyai.fyi)
- - date_published: 2023-10-25T19:16:11.639093+00:00
-
- ## 2 Weeks Notice/Layoff Checklist
- - [https://notice.fyi](https://notice.fyi)
- - date_published: 2023-10-25T19:16:13.369510+00:00
-
- ## Scale & Ship Faster with a Composable Web Architecture | Netlify
- - [https://ntl.fyi](https://ntl.fyi)
- - date_published: 2024-06-23T06:28:04.972506+00:00
-
- - [https://nudges.fyi](https://nudges.fyi)
- - date_published: 2024-01-09T03:30:11.356804+00:00
-
- ## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
- - [https://onsites.fyi](https://onsites.fyi)
- - date_published: 2023-12-03T13:29:53+00:00
-
- ## OpenSauced
- - [https://oss.fyi](https://oss.fyi)
- - date_published: 2024-06-20T15:43:19.082979+00:00
-
- ## OpenSecurityTraining2
- - [https://ost2.fyi](https://ost2.fyi)
- - date_published: 2024-06-10T19:54:16+00:00
-
- ## | OpenSecurityTraining2
- - [https://p.ost2.fyi](https://p.ost2.fyi)
- - date_published: 2024-03-10T00:00:00+00:00
-
- ## OTS - One Time Secrets
- - [https://ots.fyi](https://ots.fyi)
- - date_published: 2024-06-19T22:22:33.433818+00:00
-
- ## Page - Life is short. Network.
- - [https://page.fyi](https://page.fyi)
- - date_published: 2024-06-18T16:15:40.264324+00:00
-
- ## Page Store - The world's smartest way to network
- - [https://store.page.fyi](https://store.page.fyi)
- - date_published: 2024-10-22T18:57:26.908690+00:00
-
- ## Paisa
- - [https://demo1.paisa.fyi](https://demo1.paisa.fyi)
- - date_published: 2024-05-08T00:41:28.103122+00:00
-
- ## Paisa
- - [https://demo.paisa.fyi](https://demo.paisa.fyi)
- - date_published: 2024-05-08T00:41:26.721569+00:00
-
- ## Paisa
- - [https://paisa.fyi](https://paisa.fyi)
- - date_published: 2023-10-25T19:16:14.401445+00:00
-
- ## Ask a Philosopher
- - [https://philosophy.fyi](https://philosophy.fyi)
- - date_published: 2024-10-30T07:30:39.927427+00:00
-
- ## physician.fyi
- - [https://physician.fyi](https://physician.fyi)
- - date_published: 2023-10-25T19:16:19.520735+00:00
-
- ## pirroh - Overview
- - [https://pirroh.fyi](https://pirroh.fyi)
- - date_published: 2024-04-28T04:38:03.350734+00:00
-
- ## population.fyi | Substack
- - [https://www.population.fyi](https://www.population.fyi)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Portable thoughts
- - [https://portable.fyi](https://portable.fyi)
- - date_published: 2023-11-11T11:13:33+00:00
-
- ## US Presidents, Ranked
- - [https://presidents.fyi](https://presidents.fyi)
- - date_published: 2024-04-29T03:11:06.569257+00:00
-
- ## programmers.fyi is a custom short domain
- - [https://programmers.fyi](https://programmers.fyi)
- - date_published: 2024-10-03T19:36:34.815272+00:00
-
- ## progression.fyi
- - [https://progression.fyi](https://progression.fyi)
- - date_published: 2024-06-23T12:25:24.834097+00:00
-
- ## Hello! - Rafal - indie maker, solopreneur
- - [https://rafal.fyi](https://rafal.fyi)
- - date_published: 2024-05-10T06:10:39.738215+00:00
-
- ## Reel.fyi - AI Copilot for LinkedIn
- - [https://www.reel.fyi](https://www.reel.fyi)
- - date_published: 2023-12-21T00:00:00+00:00
-
- ## Consider deploying cross-origin resource policy!
- - [https://resourcepolicy.fyi](https://resourcepolicy.fyi)
- - date_published: 2020-10-05T18:51:30+00:00
-
- ## rfc.fyi
- - [https://rfc.fyi](https://rfc.fyi)
- - date_published: 2024-08-17T09:42:17+00:00
-
- ## rustjobs.fyi
- - [https://rustjobs.fyi](https://rustjobs.fyi)
- - date_published: 2023-10-25T19:16:20.460320+00:00
 

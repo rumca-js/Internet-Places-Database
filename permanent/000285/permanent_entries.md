@@ -1,3 +1,268 @@
+ ## It's Craney... FYI 🤷‍♂️
+ - [https://craney.fyi](https://craney.fyi)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Manfred Touron
+ - [https://crpt.fyi](https://crpt.fyi)
+ - date_published: 2024-08-18T15:59:47.910519+00:00
+
+ ## CUBE CSS | CUBE CSS
+ - [https://cube.fyi](https://cube.fyi)
+ - date_published: 2024-07-23T22:06:57.724549+00:00
+
+ ## Damian Mehers’ blog
+ - [https://damian.fyi](https://damian.fyi)
+ - date_published: 2024-03-30T00:00:00+00:00
+
+ ## DevBase - Product Gallery for Developers
+ - [https://devbase.fyi](https://devbase.fyi)
+ - date_published: 2023-10-25T19:15:55.735011+00:00
+
+ ## Developing Skills | John Crickett | Substack
+ - [https://read.developingskills.fyi](https://read.developingskills.fyi)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Digital culture and entertainment insights daily: Digital culture and entertainment insights daily
+ - [https://dirt.fyi](https://dirt.fyi)
+ - date_published: 2023-10-25T19:15:57.266413+00:00
+
+ ## The Dirt Store
+ - [https://shop.dirt.fyi](https://shop.dirt.fyi)
+ - date_published: 2024-05-08T00:40:52.310561+00:00
+
+ ## Dorsa Sadigh
+ - [https://dorsa.fyi](https://dorsa.fyi)
+ - date_published: 2024-04-17T22:03:06+00:00
+
+ ## Autopilot
+ - [http://driverassistance.fyi](http://driverassistance.fyi)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## duck zone
+ - [https://duck.fyi](https://duck.fyi)
+ - date_published: 2024-08-06T04:58:57.863047+00:00
+
+ ## Home - Dym FYI
+ - [https://dym.fyi](https://dym.fyi)
+ - date_published: 2024-09-24T08:22:59.865485+00:00
+
+ ## Tim and Jeni
+ - [https://ellis.fyi](https://ellis.fyi)
+ - date_published: 2024-03-05T16:08:01.801164+00:00
+
+ ## ESPP.fyi - ESPP Calculator
+ - [https://espp.fyi](https://espp.fyi)
+ - date_published: 2023-10-25T19:15:58.160226+00:00
+
+ ## Introduction - Etherspot Developer Documentation
+ - [https://etherspot.fyi](https://etherspot.fyi)
+ - date_published: 2024-09-23T12:08:44.477323+00:00
+
+ ## GitHub - expo/fyi: Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
+ - [https://expo.fyi](https://expo.fyi)
+ - date_published: 2024-07-07T03:05:35.595412+00:00
+
+ ## Fluid – Мы делaем digital-дизaйн и рaзрaботку на Webflow
+ - [https://fluid.fyi](https://fluid.fyi)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## GotGhosted.fyi
+ - [https://www.gotghosted.fyi](https://www.gotghosted.fyi)
+ - date_published: 2024-09-02T22:05:03+00:00
+
+ ## Hirable
+ - [https://hirable.fyi](https://hirable.fyi)
+ - date_published: 2024-10-30T06:57:55.133227+00:00
+
+ ## iliana.fyi
+ - [https://iliana.fyi](https://iliana.fyi)
+ - date_published: 2023-10-25T19:15:59.645382+00:00
+
+ ## moon
+ - [http://imogen.fyi](http://imogen.fyi)
+ - date_published: 2024-07-13T15:16:37.741857+00:00
+
+ ## An open system to manage data without a central server | IPFS
+ - [https://ipfs.fyi](https://ipfs.fyi)
+ - date_published: 2024-05-04T16:00:13.322326+00:00
+
+ ## jade's www site
+ - [https://jade.fyi](https://jade.fyi)
+ - date_published: 2024-01-09T18:46:42.354724+00:00
+
+ ## Jochen Stierberger
+ - [https://jochen.fyi](https://jochen.fyi)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Ken Zinser
+ - [https://ken.fyi](https://ken.fyi)
+ - date_published: 2024-02-12T08:32:03.708550+00:00
+ - tags: ['personal']
+
+ ## Konstantin
+ - [https://kons.fyi](https://kons.fyi)
+ - date_published: 2024-06-17T07:31:23.980763+00:00
+
+ ## Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+ - [https://layoffs.fyi](https://layoffs.fyi)
+ - date_published: 2023-10-25T19:16:02.675285+00:00
+ - tags: ['layoff', 'page tracker']
+
+ ## le chef
+ - [https://www.lechef.fyi](https://www.lechef.fyi)
+ - date_published: 2024-09-09T13:41:41.915279+00:00
+
+ ## Plausible · Web analytics
+ - [https://al.levels.fyi](https://al.levels.fyi)
+ - date_published: 2024-05-08T00:41:20.821116+00:00
+
+ ## Levels.fyi | Salaries & Tools to Level Up Your Career
+ - [https://levels.fyi](https://levels.fyi)
+ - date_published: 2024-05-08T00:41:17.077556+00:00
+
+ ## Lunar - The defacto app for controlling monitor brightness
+ - [https://lunar.fyi](https://lunar.fyi)
+ - date_published: 2024-08-19T10:52:19.090768+00:00
+
+ ## Mads Brodt - Front-end developer and teacher
+ - [https://mads.fyi](https://mads.fyi)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Marva Jackson Lord
+ - [https://marva.fyi](https://marva.fyi)
+ - date_published: 2008-01-01T00:00:00+00:00
+
+ ## MetaTerminal
+ - [https://metaterminal.fyi](https://metaterminal.fyi)
+ - date_published: 2024-06-15T09:47:51.298633+00:00
+
+ ## mly.fyi
+ - [https://mly.fyi](https://mly.fyi)
+ - date_published: 2024-07-09T19:17:18.587213+00:00
+
+ ## moon
+ - [http://moon.fyi](http://moon.fyi)
+ - date_published: 2024-07-13T15:42:20.086874+00:00
+
+ ## MSB.fyi
+ - [https://msb.fyi](https://msb.fyi)
+ - date_published: 2024-08-04T00:00:00+00:00
+
+ ## Not a Number
+ - [https://nan.fyi](https://nan.fyi)
+ - date_published: 2024-05-08T00:41:23.065747+00:00
+
+ ## Home
+ - [https://www.niklas.fyi](https://www.niklas.fyi)
+ - date_published: 2024-01-11T00:00:00+00:00
+
+ ## Not By AI — Add the Badge to Your Human-Created Content
+ - [https://notbyai.fyi](https://notbyai.fyi)
+ - date_published: 2023-10-25T19:16:11.639093+00:00
+
+ ## 2 Weeks Notice/Layoff Checklist
+ - [https://notice.fyi](https://notice.fyi)
+ - date_published: 2023-10-25T19:16:13.369510+00:00
+
+ ## Scale & Ship Faster with a Composable Web Architecture | Netlify
+ - [https://ntl.fyi](https://ntl.fyi)
+ - date_published: 2024-06-23T06:28:04.972506+00:00
+
+ - [https://nudges.fyi](https://nudges.fyi)
+ - date_published: 2024-01-09T03:30:11.356804+00:00
+
+ ## Show HN: Onsites.fyi - Curated Big Tech Interview Experiences
+ - [https://onsites.fyi](https://onsites.fyi)
+ - date_published: 2023-12-03T13:29:53+00:00
+
+ ## OpenSauced
+ - [https://oss.fyi](https://oss.fyi)
+ - date_published: 2024-06-20T15:43:19.082979+00:00
+
+ ## OpenSecurityTraining2
+ - [https://ost2.fyi](https://ost2.fyi)
+ - date_published: 2024-06-10T19:54:16+00:00
+
+ ## | OpenSecurityTraining2
+ - [https://p.ost2.fyi](https://p.ost2.fyi)
+ - date_published: 2024-03-10T00:00:00+00:00
+
+ ## OTS - One Time Secrets
+ - [https://ots.fyi](https://ots.fyi)
+ - date_published: 2024-06-19T22:22:33.433818+00:00
+
+ ## Page - Life is short. Network.
+ - [https://page.fyi](https://page.fyi)
+ - date_published: 2024-06-18T16:15:40.264324+00:00
+
+ ## Page Store - The world's smartest way to network
+ - [https://store.page.fyi](https://store.page.fyi)
+ - date_published: 2024-10-22T18:57:26.908690+00:00
+
+ ## Paisa
+ - [https://demo1.paisa.fyi](https://demo1.paisa.fyi)
+ - date_published: 2024-05-08T00:41:28.103122+00:00
+
+ ## Paisa
+ - [https://demo.paisa.fyi](https://demo.paisa.fyi)
+ - date_published: 2024-05-08T00:41:26.721569+00:00
+
+ ## Paisa
+ - [https://paisa.fyi](https://paisa.fyi)
+ - date_published: 2023-10-25T19:16:14.401445+00:00
+
+ ## Ask a Philosopher
+ - [https://philosophy.fyi](https://philosophy.fyi)
+ - date_published: 2024-10-30T07:30:39.927427+00:00
+
+ ## physician.fyi
+ - [https://physician.fyi](https://physician.fyi)
+ - date_published: 2023-10-25T19:16:19.520735+00:00
+
+ ## pirroh - Overview
+ - [https://pirroh.fyi](https://pirroh.fyi)
+ - date_published: 2024-04-28T04:38:03.350734+00:00
+
+ ## population.fyi | Substack
+ - [https://www.population.fyi](https://www.population.fyi)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Portable thoughts
+ - [https://portable.fyi](https://portable.fyi)
+ - date_published: 2023-11-11T11:13:33+00:00
+
+ ## US Presidents, Ranked
+ - [https://presidents.fyi](https://presidents.fyi)
+ - date_published: 2024-04-29T03:11:06.569257+00:00
+
+ ## programmers.fyi is a custom short domain
+ - [https://programmers.fyi](https://programmers.fyi)
+ - date_published: 2024-10-03T19:36:34.815272+00:00
+
+ ## progression.fyi
+ - [https://progression.fyi](https://progression.fyi)
+ - date_published: 2024-06-23T12:25:24.834097+00:00
+
+ ## Hello! - Rafal - indie maker, solopreneur
+ - [https://rafal.fyi](https://rafal.fyi)
+ - date_published: 2024-05-10T06:10:39.738215+00:00
+
+ ## Reel.fyi - AI Copilot for LinkedIn
+ - [https://www.reel.fyi](https://www.reel.fyi)
+ - date_published: 2023-12-21T00:00:00+00:00
+
+ ## Consider deploying cross-origin resource policy!
+ - [https://resourcepolicy.fyi](https://resourcepolicy.fyi)
+ - date_published: 2020-10-05T18:51:30+00:00
+
+ ## rfc.fyi
+ - [https://rfc.fyi](https://rfc.fyi)
+ - date_published: 2024-08-17T09:42:17+00:00
+
+ ## rustjobs.fyi
+ - [https://rustjobs.fyi](https://rustjobs.fyi)
+ - date_published: 2023-10-25T19:16:20.460320+00:00
+
  ## SecondBrain.fyi | Tired of Answering the Same Questions? Let SecondBrain.fyi Do the Talking
  - [https://www.secondbrain.fyi](https://www.secondbrain.fyi)
  - date_published: 2024-10-30T17:34:58.715661+00:00
@@ -1385,6 +1650,10 @@
  - [https://git.gay](https://git.gay)
  - date_published: 2024-07-10T08:12:25.052485+00:00
 
+ ## hazycora
+ - [https://hazy.gay](https://hazy.gay)
+ - date_published: 2024-11-11T20:44:07.285151+00:00
+
  ## Gruntz Fan Server - GoToSocial
  - [https://k.iim.gay](https://k.iim.gay)
  - date_published: 2024-07-17T18:08:27.940532+00:00
@@ -1949,6 +2218,7 @@
  ## Login |  Triage
  - [https://tria.ge](https://tria.ge)
  - date_published: 2024-05-02T00:00:00+00:00
+ - tags: ['sandbox', 'cybersecurity', 'malware']
 
  ## Vendoo Admin
  - [https://api.vendoo.ge](https://api.vendoo.ge)
@@ -3768,272 +4038,4 @@
  ## Sign in - Matomo
  - [https://webstats.ecloud.global](https://webstats.ecloud.global)
  - date_published: 2024-05-28T18:06:03.862857+00:00
-
- ## Ēnosys Bridge
- - [https://bridge.enosys.global](https://bridge.enosys.global)
- - date_published: 2024-09-25T12:20:50.015502+00:00
-
- ## Future Forces Forum
- - [https://fff.global](https://fff.global)
- - date_published: 2024-07-02T22:01:36.467726+00:00
-
- ## FinTech Global
- - [https://fintech.global](https://fintech.global)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Foreign Legion
- - [http://www.foreign-legion.global](http://www.foreign-legion.global)
- - date_published: 2019-01-18T00:00:00+00:00
-
- ## Fortify Health
- - [https://www.fortifyhealth.global](https://www.fortifyhealth.global)
- - date_published: 2024-06-21T11:40:55.744795+00:00
-
- ## fullcircle
- - [https://fullcircle.global](https://fullcircle.global)
- - date_published: 2024-04-02T23:23:27+00:00
-
- ## fullcircle | Thomas Schindler | Substack
- - [https://spore.fullcircle.global](https://spore.fullcircle.global)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## FUSION | Technology | Education | Community | Humanity
- - [https://fusion.global](https://fusion.global)
- - date_published: 2024-07-20T13:57:57.959840+00:00
-
- ## Home - gamescom 2024 | gamescom
- - [https://b2b.gamescom.global](https://b2b.gamescom.global)
- - date_published: 2024-07-01T11:06:57.869067+00:00
-
- ## gamescom latam 2024 | Companies
- - [https://b2b.latam.gamescom.global](https://b2b.latam.gamescom.global)
- - date_published: 2024-06-26T21:57:04.205836+00:00
-
- ## Home - gamescom 2024 | gamescom
- - [https://gamescom.global](https://gamescom.global)
- - date_published: 2024-07-01T11:07:09.092074+00:00
-
- ## Participate in one of the biggest B2B events in the gaming industry
- - [https://latam.gamescom.global](https://latam.gamescom.global)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Legal notice
- - [https://legal.gamescom.global](https://legal.gamescom.global)
- - date_published: 2024-07-01T11:07:06.100627+00:00
-
- ## Ticketshop
- - [https://tickets.gamescom.global](https://tickets.gamescom.global)
- - date_published: 2024-07-01T11:07:10.580446+00:00
-
- ## homepage - GESDA - Geneva Science and Diplomacy Anticipator
- - [https://gesda.global](https://gesda.global)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Home - GESDA
- - [https://radar.gesda.global](https://radar.gesda.global)
- - date_published: 2024-10-22T08:50:54.710396+00:00
-
- ## Custom Domain by Bitly
- - [https://gfw.global](https://gfw.global)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## GITA | Global Impact Tech Alliance
- - [https://gita.global](https://gita.global)
- - date_published: 2024-05-10T06:13:04.420549+00:00
-
- ## Grant Thornton International Ltd. Home
- - [https://www.grantthornton.global](https://www.grantthornton.global)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Impossible Cloud Network
- - [https://www.icn.global](https://www.icn.global)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## ICPC Documents – Important documents associated with ICPC
- - [https://docs.icpc.global](https://docs.icpc.global)
- - date_published: 2024-05-08T05:48:55.416101+00:00
-
- ## The ICPC International Collegiate Programming Contest
- - [https://icpc.global](https://icpc.global)
- - date_published: 2024-05-08T05:48:53.820172+00:00
-
- ## ICPC Live
- - [https://live.icpc.global](https://live.icpc.global)
- - date_published: 2024-04-11T05:23:38+00:00
-
- ## ICPC News – The official news source for the ICPC, the premier global competitive programming competition.
- - [https://news.icpc.global](https://news.icpc.global)
- - date_published: 2024-05-08T05:48:53.056051+00:00
-
- ## ICPC U |
- - [https://u.icpc.global](https://u.icpc.global)
- - date_published: 2024-07-04T09:17:45.230649+00:00
-
- ## ICPC
- - [https://worldfinals.icpc.global](https://worldfinals.icpc.global)
- - date_published: 2024-05-08T05:49:16.593441+00:00
-
- ## IIOM - International Institute of Obsolescence Management
- - [https://www.iiom.global](https://www.iiom.global)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Innovative Learning and Living Institute
- - [https://ilali.global](https://ilali.global)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Innobrand | Comunicaciones estratégicas, marketing digital y PR – Boutique creativa global. Somos una fábrica de ideas.
- - [https://www.innobrand.global](https://www.innobrand.global)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Tony Blair Institute for Global Change (TBI)
- - [https://institute.global](https://institute.global)
- - date_published: 2024-05-06T20:48:43.864497+00:00
-
- ## iQ Global - AI technology to empower the Internet Infrastructure Community
- - [https://iq.global](https://iq.global)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home
- - [https://jesuits.global](https://jesuits.global)
- - date_published: 2024-06-12T11:02:53.012716+00:00
-
- ## Jesuit Global Vocations: Change the world with us
- - [https://vocations.jesuits.global](https://vocations.jesuits.global)
- - date_published: 2024-09-11T17:09:50.370135+00:00
-
- ## Kamerton
- - [https://kamerton.global](https://kamerton.global)
- - date_published: 2024-09-21T22:40:30.358297+00:00
-
- ## Make a loan, change a life | Kiva
- - [https://www.kiva.global](https://www.kiva.global)
- - date_published: 2024-06-16T12:59:45.265115+00:00
-
- ## Lab42
- - [https://lab42.global](https://lab42.global)
- - date_published: 2024-05-10T05:01:49.293281+00:00
-
- ## Welcome to the sic42 Documentation!
- - [https://sic.lab42.global](https://sic.lab42.global)
- - date_published: 2023-11-30T12:18:03+00:00
-
- ## MATTR Learn | MATTR Learn
- - [https://learn.mattr.global](https://learn.mattr.global)
- - date_published: 2024-09-11T22:37:17+00:00
-
- ## MATTR | TrustTech solutions - where high assurance meets convenience
- - [https://mattr.global](https://mattr.global)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Mavin Enterprise IT Services and Powercube DataCentre Solutions
- - [https://mavin.global](https://mavin.global)
- - date_published: 2024-01-24T00:00:00+00:00
-
- ## MB Group
- - [https://mbgroup.global](https://mbgroup.global)
- - date_published: 2019-11-29T09:32:10+00:00
-
- ## Blog
- - [https://mika.global](https://mika.global)
- - date_published: 2024-10-26T17:21:17.541251+00:00
-
- ## Moneta Digital
- - [https://moneta.global](https://moneta.global)
- - date_published: 2024-09-25T00:09:30+00:00
-
- ## Looking Glass NetShop ISP | Leading Web Hosting & Data Center Services
- - [https://lg.netshop.global](https://lg.netshop.global)
- - date_published: 2023-08-13T11:45:20+00:00
-
- ## NoNoNames: Your Marks
- - [https://nononames.global](https://nononames.global)
- - date_published: 2023-07-01T03:50:51+00:00
-
- ## Buy and Sell Premium Aged Domains & Websites for SEO - Odys Global
- - [https://odys.global](https://odys.global)
- - date_published: 2024-10-20T13:00:06.089605+00:00
-
- ## Home - Optris
- - [https://optris.global](https://optris.global)
- - date_published: 2024-04-29T06:15:07.413520+00:00
-
- ## Home
- - [https://www.opus.global](https://www.opus.global)
- - date_published: 2018-05-21T13:42:39+00:00
-
- ## Oticon hearing aids | Life-changing hearing technology
- - [https://www.oticon.global](https://www.oticon.global)
- - date_published: 2024-06-22T08:48:00.885006+00:00
-
- ## Unternehmen/ Home
- - [http://www.pcn.global](http://www.pcn.global)
- - date_published: 2024-09-17T19:19:00+00:00
-
- ## Pollinate - Home
- - [https://www.pollinate.global](https://www.pollinate.global)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## QSMP - The World's First Multilingual Minecraft server by Quackity
- - [https://qsmp.global](https://qsmp.global)
- - date_published: 2024-10-27T08:39:09.902452+00:00
-
- ## USPS Cheap Shipping Labels at Discount Price
- - [https://qwintry.global](https://qwintry.global)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Sites-RalphLauren_Global-Site
- - [https://www.ralphlauren.global](https://www.ralphlauren.global)
- - date_published: 2023-01-26T00:00:00+00:00
-
- ## Reap | All-in-one business solution
- - [https://dashboard.reap.global](https://dashboard.reap.global)
- - date_published: 2024-09-25T07:52:56+00:00
-
- ## Extinction Rebellion | Join The Fight Against Climate and Ecological Collapse
- - [https://rebellion.global](https://rebellion.global)
- - date_published: 2024-07-14T20:17:09+00:00
-
- ## Pioneer – Corn. Revolutionized.
- - [https://cornrevolution.resn.global](https://cornrevolution.resn.global)
- - date_published: 2021-02-04T09:40:30+00:00
-
- ## Resolve
- - [https://resolve.global](https://resolve.global)
- - date_published: 2024-09-26T21:37:13.268486+00:00
-
- ## The #RISK AI series of in-person and digital events
- - [https://www.riskai.global](https://www.riskai.global)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## risr/home — risr/
- - [https://risr.global](https://risr.global)
- - date_published: 2024-06-17T18:21:02.567338+00:00
-
- ## Roar Global | The Gateway for Digital Business Growth in the Asia-Pacific
- - [https://roar.global](https://roar.global)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Safe{Wallet}
- - [https://app.safe.global](https://app.safe.global)
- - date_published: 2024-06-13T06:48:44+00:00
-
- ## Join the Safe Community Discord Server!
- - [https://chat.safe.global](https://chat.safe.global)
- - date_published: 2024-09-20T21:55:59+00:00
-
- ## Safe{Con}2: Smart account builder conference | 23 May 2024 Berlin
- - [https://conf.safe.global](https://conf.safe.global)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Safe Docs
- - [https://docs.safe.global](https://docs.safe.global)
- - date_published: 2024-09-20T10:01:54+00:00
-
- ## Get in Touch with Safe
- - [https://ecosystem-contact.safe.global](https://ecosystem-contact.safe.global)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Safe Ecosystem Database
- - [https://ecosystem-database.safe.global](https://ecosystem-database.safe.global)
- - date_published: 2024-09-16T12:17:57+00:00
 
