@@ -1,3 +1,107 @@
+ ## Congratulations to the class of 2T4!
+ - [https://medicine.utoronto.ca](https://medicine.utoronto.ca)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Memories of UTSC | Memories of Scarborough Campus
+ - [https://memory.digital.utsc.utoronto.ca](https://memory.digital.utsc.utoronto.ca)
+ - date_published: 2024-07-20T22:24:13+00:00
+
+ ## Communications for Academic Administrators – University of Toronto
+ - [https://memos.provost.utoronto.ca](https://memos.provost.utoronto.ca)
+ - date_published: 2024-07-15T09:57:11.628540+00:00
+
+ ## Home - Student Mental Health Resource
+ - [https://mentalhealth.utoronto.ca](https://mentalhealth.utoronto.ca)
+ - date_published: 2023-11-30T00:00:00+00:00
+
+ ## Microrobotics Lab | University of Toronto
+ - [https://microrobotics.mie.utoronto.ca](https://microrobotics.mie.utoronto.ca)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Munk School of Global Affairs & Public Policy
+ - [https://munkschool.utoronto.ca](https://munkschool.utoronto.ca)
+ - date_published: 2024-04-30T05:30:14.576417+00:00
+
+ ## Home | University of Toronto Libraries
+ - [http://myaccess.library.utoronto.ca](http://myaccess.library.utoronto.ca)
+ - date_published: 2024-07-20T07:03:17+00:00
+
+ ## Navi Widgets Console
+ - [https://navi.studentlife.utoronto.ca](https://navi.studentlife.utoronto.ca)
+ - date_published: 2024-07-01T21:36:10.871531+00:00
+
+ ## U of T Engineering News
+ - [https://news.engineering.utoronto.ca](https://news.engineering.utoronto.ca)
+ - date_published: 2024-10-17T15:36:11.303819+00:00
+
+ ## Observatory - University of Toronto at Scarborough
+ - [http://observatory.utsc.utoronto.ca](http://observatory.utsc.utoronto.ca)
+ - date_published: 2022-08-19T20:19:48+00:00
+
+ ## Welcome | OISE Library
+ - [https://oise.library.utoronto.ca](https://oise.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:37.849250+00:00
+
+ ## OISE Library K-12 Manipulatives
+ - [https://omekaoise.library.utoronto.ca](https://omekaoise.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:12.826278+00:00
+
+ ## University of Toronto Libraries
+ - [https://onesearch.library.utoronto.ca](https://onesearch.library.utoronto.ca)
+ - date_published: 2024-04-30T05:28:23.048700+00:00
+
+ ## Dialects of Ontario / University of Toronto
+ - [http://ontariodialects.chass.utoronto.ca](http://ontariodialects.chass.utoronto.ca)
+ - date_published: 2024-07-19T15:19:59.645549+00:00
+
+ ## Occupational Science & Occupational Therapy
+ - [https://ot.utoronto.ca](https://ot.utoronto.ca)
+ - date_published: 2024-04-30T05:30:56.871646+00:00
+
+ ## Home - Parents & Supporters
+ - [https://parentsandsupporters.utoronto.ca](https://parentsandsupporters.utoronto.ca)
+ - date_published: 2022-01-14T00:00:00+00:00
+
+ ## Physics Computing Services
+ - [https://pcs.physics.utoronto.ca](https://pcs.physics.utoronto.ca)
+ - date_published: 2024-07-03T23:23:41.330490+00:00
+
+ ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
+ - [https://people.utoronto.ca](https://people.utoronto.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Home - Department of Philosophy
+ - [https://philosophy.utoronto.ca](https://philosophy.utoronto.ca)
+ - date_published: 2024-09-10T08:45:54.010692+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [http://portal.utoronto.ca](http://portal.utoronto.ca)
+ - date_published: 2024-06-17T10:57:47.858909+00:00
+
+ ## Positive Space at U of T
+ - [https://positivespace.utoronto.ca](https://positivespace.utoronto.ca)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## SAP Web Application Server Error
+ - [https://ppm-wd.utoronto.ca](https://ppm-wd.utoronto.ca)
+ - date_published: 2024-07-21T08:23:06.580985+00:00
+
+ ## Division of the Vice-President & Provost – University of Toronto
+ - [https://provost.utoronto.ca](https://provost.utoronto.ca)
+ - date_published: 2024-05-12T05:53:21.602613+00:00
+
+ ## University of Toronto Libraries
+ - [https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca](https://pubmed-ncbi-nlm-nih-gov.myaccess.library.utoronto.ca)
+ - date_published: 2024-07-21T08:23:50.780661+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://q.utoronto.ca](https://q.utoronto.ca)
+ - date_published: 2024-04-30T05:28:45.010073+00:00
+
+ ## UTORid Account Recovery - Password Reset
+ - [https://recover.utorid.utoronto.ca](https://recover.utorid.utoronto.ca)
+ - date_published: 2024-07-01T21:36:00.293881+00:00
+
  ## recreation.utoronto.ca
  - [https://recreation.utoronto.ca](https://recreation.utoronto.ca)
  - date_published: 2024-09-05T11:53:35.293863+00:00
@@ -3890,6 +3994,10 @@
  - date_published: 2024-03-14T11:16:02.668575+00:00
  - tags: ['personal']
 
+ ## 2Embed - Stream Movies, Tv-Shows, Anime IMDB, TMDB API
+ - [https://www.2embed.cc](https://www.2embed.cc)
+ - date_published: 2024-11-12T17:08:36.592906+00:00
+
  ## 8BitMixtape-NEO Documentation
  - [https://wiki.8bitmixtape.cc](https://wiki.8bitmixtape.cc)
  - date_published: 2019-03-26T18:31:08+00:00
@@ -3902,115 +4010,4 @@
  - [http://abominable.cc](http://abominable.cc)
  - date_published: 2024-06-14T00:00:00+00:00
  - tags: ['comics', 'webcomics']
-
- ## Acentek
- - [http://www.acegroup.cc](http://www.acegroup.cc)
- - date_published: 2024-06-29T16:10:20.623013+00:00
-
- ## ACNH Fringe Fest
- - [https://acnhfringe.cc](https://acnhfringe.cc)
- - date_published: 2024-05-10T06:45:11.099751+00:00
-
- ## Oysape
- - [https://blog.aifetel.cc](https://blog.aifetel.cc)
- - date_published: 2024-11-08T19:57:47.167947+00:00
-
- ## 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)
- - [https://aisec.cc](https://aisec.cc)
- - date_published: 2024-06-17T13:55:31+00:00
-
- ## Arachne
- - [http://arachne.cc](http://arachne.cc)
- - date_published: 2021-01-17T00:00:00+00:00
-
- ## Arduino Cloud
- - [https://app.arduino.cc](https://app.arduino.cc)
- - date_published: 2024-07-11T13:08:41+00:00
-
- ## Arduino - Home
- - [https://arduino.cc](https://arduino.cc)
- - date_published: 2024-04-29T09:29:22+00:00
- - tags: ['microcontrollers', 'arduino']
-
- ## Arduino Blog
- - [https://blog.arduino.cc](https://blog.arduino.cc)
- - date_published: 2023-10-25T11:14:33.506767+00:00
-
- ## Arduino Cloud | Build, Control, Monitor Your IoT Projects
- - [https://cloud.arduino.cc](https://cloud.arduino.cc)
- - date_published: 2024-04-29T09:35:10.850667+00:00
-
- ## Arduino Cloud
- - [https://create.arduino.cc](https://create.arduino.cc)
- - date_published: 2024-04-29T09:34:34.331192+00:00
-
- ## Arduino Forum
- - [https://forum.arduino.cc](https://forum.arduino.cc)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Arduino - Home
- - [https://login.arduino.cc](https://login.arduino.cc)
- - date_published: 2024-04-29T09:35:17.766841+00:00
-
- ## Arduino Playground - HomePage
- - [https://playground.arduino.cc](https://playground.arduino.cc)
- - date_published: 2020-09-04T12:11:10+00:00
-
- ## Arduino Project Hub
- - [https://projecthub.arduino.cc](https://projecthub.arduino.cc)
- - date_published: 2023-10-25T11:14:36.830518+00:00
- - tags: ['dyi', 'pronects']
-
- ## Arduino Official Store | Boards Shields Kits Accessories
- - [https://store.arduino.cc](https://store.arduino.cc)
- - date_published: 2023-10-25T11:14:39.964485+00:00
-
- ## Arduino Official Store | Boards Shields Kits Accessories
- - [https://store-usa.arduino.cc](https://store-usa.arduino.cc)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Cierpliwości...
- - [https://support.arduino.cc](https://support.arduino.cc)
- - date_published: 2024-04-30T05:41:53.697776+00:00
-
- ## ASIN.cc: Amazon Link Shortener
- - [https://asin.cc](https://asin.cc)
- - date_published: 2024-06-15T04:07:39.260436+00:00
-
- ## Assembla API Documentation Site
- - [https://api-docs.assembla.cc](https://api-docs.assembla.cc)
- - date_published: 2023-12-19T10:24:22+00:00
-
- ## Asteroids | Play Online for Free
- - [https://asteroids.cc](https://asteroids.cc)
- - date_published: 2023-07-05T09:11:21+00:00
-
- ## A hackable text editor for the 21st Century
- - [https://atom-editor.cc](https://atom-editor.cc)
- - date_published: 2023-12-11T12:08:34+00:00
- - tags: ['programming ide']
-
- ## Atom
- - [https://flight-manual.atom-editor.cc](https://flight-manual.atom-editor.cc)
- - date_published: 2024-04-30T05:42:12.116988+00:00
-
- ## GitHub for Atom
- - [https://github.atom-editor.cc](https://github.atom-editor.cc)
- - date_published: 2024-04-30T05:42:13.235252+00:00
-
- ## Code together in real time in Atom
- - [https://teletype.atom-editor.cc](https://teletype.atom-editor.cc)
- - date_published: 2024-04-30T05:42:17.681523+00:00
-
- ## aut. architektur und tirol
- - [https://aut.cc](https://aut.cc)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## AutoML 2023
- - [https://2023.automl.cc](https://2023.automl.cc)
- - date_published: 2024-02-16T12:20:37+00:00
-
- ## AutoML24 – International Conference on Automatd Machine Learning
- - [https://2024.automl.cc](https://2024.automl.cc)
- - date_published: 2024-07-13T03:07:21.693792+00:00
 

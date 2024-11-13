@@ -1,3 +1,15 @@
+ ## Homey - Get the app
+ - [https://get.homey.app](https://get.homey.app)
+ - date_published: 2024-01-25T16:16:43+00:00
+
+ ## Homey - A Better Smart Home
+ - [https://homey.app](https://homey.app)
+ - date_published: 2024-04-29T04:04:01.939925+00:00
+
+ ## My Homey
+ - [https://my.homey.app](https://my.homey.app)
+ - date_published: 2024-08-05T12:36:28+00:00
+
  ## Homey Status
  - [https://status.homey.app](https://status.homey.app)
  - date_published: 2024-05-09T00:00:00+00:00
@@ -182,6 +194,10 @@
  ## Invitation 🎉
  - [https://invitation.app](https://invitation.app)
  - date_published: 2024-08-07T20:30:11.523192+00:00
+
+ ## Home
+ - [https://iptv-web.app](https://iptv-web.app)
+ - date_published: 2024-11-12T16:58:23.884211+00:00
 
  ## IronIQ LLC
  - [https://ironiq.app](https://ironiq.app)
@@ -1925,6 +1941,10 @@
  - [https://moboard.netlify.app](https://moboard.netlify.app)
  - date_published: 2024-03-20T06:54:45+00:00
 
+ ## MoodieMoovy - Forget Choosing, Just Watch
+ - [https://moodiemoovy.netlify.app](https://moodiemoovy.netlify.app)
+ - date_published: 2024-11-12T17:04:51.074815+00:00
+
  ## movietoemojiwebmain
  - [https://movietoemoji.netlify.app](https://movietoemoji.netlify.app)
  - date_published: 2024-06-19T19:53:28.837718+00:00
@@ -2291,6 +2311,10 @@
  - [https://streamlit-components-tutorial.netlify.app](https://streamlit-components-tutorial.netlify.app)
  - date_published: 2024-06-22T22:52:56.701067+00:00
 
+ ## Stremio Addons - Community List
+ - [https://stremio-addons.netlify.app](https://stremio-addons.netlify.app)
+ - date_published: 2024-11-12T17:19:51.212687+00:00
+
  ## Sudoku
  - [https://sudoku-aj.netlify.app](https://sudoku-aj.netlify.app)
  - date_published: 2024-01-08T18:13:11.190452+00:00
@@ -2386,6 +2410,10 @@
  ## Pdf Labeller
  - [https://treena-labeller.netlify.app](https://treena-labeller.netlify.app)
  - date_published: 2024-07-21T02:33:05.174777+00:00
+
+ ## Tvflix | Watch Tv in your browser
+ - [https://tvflix.netlify.app](https://tvflix.netlify.app)
+ - date_published: 2024-11-12T17:02:00.538600+00:00
 
  ## 太微中文教程 — 中文社区共建的TiddlyWiki教程，体验从入门到知识管理大师之路
  - [https://tw-cn.netlify.app](https://tw-cn.netlify.app)
@@ -2539,6 +2567,10 @@
  ## Yifan Wang
  - [https://yifita.netlify.app](https://yifita.netlify.app)
  - date_published: 2024-08-07T16:08:29.523051+00:00
+
+ ## YIFY CLONE
+ - [https://yify.netlify.app](https://yify.netlify.app)
+ - date_published: 2024-11-12T17:13:15.815909+00:00
 
  ## YUJUN CAI
  - [https://yujuncai.netlify.app](https://yujuncai.netlify.app)
@@ -2939,6 +2971,7 @@
  ## Pastefy
  - [https://pastefy.app](https://pastefy.app)
  - date_published: 2024-06-19T22:11:11.043087+00:00
+ - tags: ['pastebin', 'open source', 'self-host']
 
  ## iPad用お絵描きアプリ「Pastela（パステラ）」
  - [https://pastela.app](https://pastela.app)
@@ -4003,36 +4036,4 @@
  ## SkinTheory
  - [https://skintheory.app](https://skintheory.app)
  - date_published: 2023-03-05T11:03:08+00:00
-
- ## SkyFeed
- - [https://skyfeed.app](https://skyfeed.app)
- - date_published: 2024-05-02T13:43:24.763590+00:00
-
- ## Slant it - Screen recordings to catchy 3D videos in minutes
- - [https://slantit.app](https://slantit.app)
- - date_published: 2024-05-01T02:57:40.601612+00:00
-
- ## Slater | AI Custom Code Tool For Webflow Projects
- - [https://slater.app](https://slater.app)
- - date_published: 2024-03-20T00:00:00+00:00
-
- ## Slater | AI Custom Code Tool For Webflow Projects
- - [https://staging.slater.app](https://staging.slater.app)
- - date_published: 2024-10-28T11:59:59.082934+00:00
-
- ## Feedback | Academia.edu
- - [https://665a80a1d207b.sleekplan.app](https://665a80a1d207b.sleekplan.app)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Feedback | eM Client
- - [https://emclient.sleekplan.app](https://emclient.sleekplan.app)
- - date_published: 2024-10-16T14:40:23.820915+00:00
-
- ## Feedback | Playtronica
- - [https://playtronica.sleekplan.app](https://playtronica.sleekplan.app)
- - date_published: 2024-05-11T08:47:57.819194+00:00
-
- ## What's new | Vizard
- - [https://vizard.sleekplan.app](https://vizard.sleekplan.app)
- - date_published: 2024-10-30T18:55:23.528213+00:00
 

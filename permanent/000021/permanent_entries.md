@@ -1,3 +1,123 @@
+ ## Acentek
+ - [http://www.acegroup.cc](http://www.acegroup.cc)
+ - date_published: 2024-06-29T16:10:20.623013+00:00
+
+ ## ACNH Fringe Fest
+ - [https://acnhfringe.cc](https://acnhfringe.cc)
+ - date_published: 2024-05-10T06:45:11.099751+00:00
+
+ ## Oysape
+ - [https://blog.aifetel.cc](https://blog.aifetel.cc)
+ - date_published: 2024-11-08T19:57:47.167947+00:00
+
+ ## 17th ACM Workshop on Artificial Intelligence and Security (AISec 2024)
+ - [https://aisec.cc](https://aisec.cc)
+ - date_published: 2024-06-17T13:55:31+00:00
+
+ ## Arachne
+ - [http://arachne.cc](http://arachne.cc)
+ - date_published: 2021-01-17T00:00:00+00:00
+
+ ## Arduino Cloud
+ - [https://app.arduino.cc](https://app.arduino.cc)
+ - date_published: 2024-07-11T13:08:41+00:00
+
+ ## Arduino - Home
+ - [https://arduino.cc](https://arduino.cc)
+ - date_published: 2024-04-29T09:29:22+00:00
+ - tags: ['microcontrollers', 'arduino']
+
+ ## Arduino Blog
+ - [https://blog.arduino.cc](https://blog.arduino.cc)
+ - date_published: 2023-10-25T11:14:33.506767+00:00
+
+ ## Arduino Cloud | Build, Control, Monitor Your IoT Projects
+ - [https://cloud.arduino.cc](https://cloud.arduino.cc)
+ - date_published: 2024-04-29T09:35:10.850667+00:00
+
+ ## Arduino Cloud
+ - [https://create.arduino.cc](https://create.arduino.cc)
+ - date_published: 2024-04-29T09:34:34.331192+00:00
+
+ ## Arduino Forum
+ - [https://forum.arduino.cc](https://forum.arduino.cc)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Arduino - Home
+ - [https://login.arduino.cc](https://login.arduino.cc)
+ - date_published: 2024-04-29T09:35:17.766841+00:00
+
+ ## Arduino Playground - HomePage
+ - [https://playground.arduino.cc](https://playground.arduino.cc)
+ - date_published: 2020-09-04T12:11:10+00:00
+
+ ## Arduino Project Hub
+ - [https://projecthub.arduino.cc](https://projecthub.arduino.cc)
+ - date_published: 2023-10-25T11:14:36.830518+00:00
+ - tags: ['dyi', 'pronects']
+
+ ## Arduino Official Store | Boards Shields Kits Accessories
+ - [https://store.arduino.cc](https://store.arduino.cc)
+ - date_published: 2023-10-25T11:14:39.964485+00:00
+
+ ## Arduino Official Store | Boards Shields Kits Accessories
+ - [https://store-usa.arduino.cc](https://store-usa.arduino.cc)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Cierpliwości...
+ - [https://support.arduino.cc](https://support.arduino.cc)
+ - date_published: 2024-04-30T05:41:53.697776+00:00
+
+ ## ASIN.cc: Amazon Link Shortener
+ - [https://asin.cc](https://asin.cc)
+ - date_published: 2024-06-15T04:07:39.260436+00:00
+
+ ## Assembla API Documentation Site
+ - [https://api-docs.assembla.cc](https://api-docs.assembla.cc)
+ - date_published: 2023-12-19T10:24:22+00:00
+
+ ## Asteroids | Play Online for Free
+ - [https://asteroids.cc](https://asteroids.cc)
+ - date_published: 2023-07-05T09:11:21+00:00
+
+ ## A hackable text editor for the 21st Century
+ - [https://atom-editor.cc](https://atom-editor.cc)
+ - date_published: 2023-12-11T12:08:34+00:00
+ - tags: ['programming ide']
+
+ ## Atom
+ - [https://flight-manual.atom-editor.cc](https://flight-manual.atom-editor.cc)
+ - date_published: 2024-04-30T05:42:12.116988+00:00
+
+ ## GitHub for Atom
+ - [https://github.atom-editor.cc](https://github.atom-editor.cc)
+ - date_published: 2024-04-30T05:42:13.235252+00:00
+
+ ## Code together in real time in Atom
+ - [https://teletype.atom-editor.cc](https://teletype.atom-editor.cc)
+ - date_published: 2024-04-30T05:42:17.681523+00:00
+
+ ## aut. architektur und tirol
+ - [https://aut.cc](https://aut.cc)
+ - date_published: 2024-03-05T00:00:00+00:00
+
+ ## Autoembed - Next generation Video Streaming API
+ - [https://autoembed.cc](https://autoembed.cc)
+ - date_published: 2024-10-28T13:13:50+00:00
+
+ ## Autoembed ─ Watch latest movies online
+ - [https://watch.autoembed.cc](https://watch.autoembed.cc)
+ - date_published: 2024-10-31T14:37:37+00:00
+ - tags: ['movies', 'piracy']
+
+ ## AutoML 2023
+ - [https://2023.automl.cc](https://2023.automl.cc)
+ - date_published: 2024-02-16T12:20:37+00:00
+
+ ## AutoML24 – International Conference on Automatd Machine Learning
+ - [https://2024.automl.cc](https://2024.automl.cc)
+ - date_published: 2024-07-13T03:07:21.693792+00:00
+
  ## AutoML24 – International Conference on Automatd Machine Learning
  - [https://automl.cc](https://automl.cc)
  - date_published: 2024-08-18T20:44:39.249877+00:00
@@ -106,6 +226,11 @@
  ## Brett Shavers – Holen Sie sich attraktive deutsche Flyer Designs
  - [http://brettshavers.cc](http://brettshavers.cc)
  - date_published: 2023-08-29T00:00:00+00:00
+
+ ## BROFLIX - Watch Latest Blockbuster Movies & TV Series
+ - [https://broflix.cc](https://broflix.cc)
+ - date_published: 2024-11-12T17:16:34.776975+00:00
+ - tags: ['movies', 'piracy']
 
  ## Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams
  - [https://www.budgetflow.cc](https://www.budgetflow.cc)
@@ -927,9 +1052,17 @@
  - [https://followup.cc](https://followup.cc)
  - date_published: 2024-08-05T23:58:46.060751+00:00
 
+ ## Footybite - The Official Reddit Soccer Streams
+ - [https://www1.footybite.cc](https://www1.footybite.cc)
+ - date_published: 2024-11-12T17:23:21.272031+00:00
+
  ## Forest - Stay focused, be present
  - [https://www.forestapp.cc](https://www.forestapp.cc)
  - date_published: 2024-05-17T02:25:18+00:00
+
+ ## Formula 1 Streams - Official Reddit F1 Streams
+ - [https://reddit.formula1stream.cc](https://reddit.formula1stream.cc)
+ - date_published: 2024-11-12T17:27:59+00:00
 
  ## Frankfort Plant Board
  - [http://fpb.cc](http://fpb.cc)
@@ -954,6 +1087,10 @@
  ## gndclouds
  - [https://gndclouds.cc](https://gndclouds.cc)
  - date_published: 2024-08-08T03:05:53.506626+00:00
+
+ ## Watch anime online, English anime online - Gogoanime
+ - [https://gogoanime3.cc](https://gogoanime3.cc)
+ - date_published: 2024-11-12T17:20:39.725784+00:00
 
  ## Native
  - [https://www.gonative.cc](https://www.gonative.cc)
@@ -1005,6 +1142,15 @@
  - [https://llava.hliu.cc](https://llava.hliu.cc)
  - date_published: 2024-01-30T00:00:00+00:00
 
+ ## 2Embed - Stream Movies, Tv-Shows, Anime IMDB, TMDB API
+ - [https://hnembed.cc](https://hnembed.cc)
+ - date_published: 2024-11-12T18:23:05.790109+00:00
+
+ ## Hollymoviehd Official
+ - [https://hollymoviehd.cc](https://hollymoviehd.cc)
+ - date_published: 2024-11-12T17:12:39+00:00
+ - tags: ['movies', 'piracy']
+
  ## Connor Clark
  - [https://hoten.cc](https://hoten.cc)
  - date_published: 2023-11-28T01:42:19+00:00
@@ -1032,6 +1178,11 @@
  ## Hydra | Hydra
  - [https://hydra.cc](https://hydra.cc)
  - date_published: 2024-04-03T21:45:53+00:00
+
+ ## hydrahd - Watch Movies and Series in High Definition
+ - [https://hydrahd.cc](https://hydrahd.cc)
+ - date_published: 2024-11-12T17:05:22.759948+00:00
+ - tags: ['movies', 'piracy']
 
  ## was yea ra enne ar ciel.
  - [https://hymmnos.cc](https://hymmnos.cc)
@@ -1341,6 +1492,10 @@
  - [https://mltrain.cc](https://mltrain.cc)
  - date_published: 2024-07-22T11:00:42+00:00
 
+ ## MMA Streams - Best reddit MMA UFC stream links
+ - [https://tonight.mmastreams.cc](https://tonight.mmastreams.cc)
+ - date_published: 2024-11-12T17:23:16+00:00
+
  ## 墨刀 - 百万产品团队的共同选择
  - [https://modao.cc](https://modao.cc)
  - date_published: 2024-07-13T20:39:47.953671+00:00
@@ -1455,6 +1610,11 @@
  - [https://papers.nips.cc](https://papers.nips.cc)
  - date_published: 2024-04-28T03:55:10.790179+00:00
 
+ ## Nkiri - Watch Free Movies and TV Shows Online on Official Nkiri
+ - [https://nkiri.cc](https://nkiri.cc)
+ - date_published: 2024-06-13T15:39:31+00:00
+ - tags: ['movies', 'piracy']
+
  ## No Deposit Bonus Codes Updated Daily
  - [https://www.nodepositbonus.cc](https://www.nodepositbonus.cc)
  - date_published: 2024-07-17T04:38:36.325534+00:00
@@ -1565,6 +1725,10 @@
  ## № 1 · Politiques des communs
  - [https://politiquesdescommuns.cc](https://politiquesdescommuns.cc)
  - date_published: 2023-12-11T16:19:45.155743+00:00
+
+ ## Popcorntime | Watch Movies & TV Series on Popcorn time Online
+ - [https://popcorntimeonline.cc](https://popcorntimeonline.cc)
+ - date_published: 2024-06-27T15:26:24+00:00
 
  ## Portaly
  - [https://portaly.cc](https://portaly.cc)
@@ -1691,6 +1855,10 @@
  ## React Native Newsletter
  - [https://reactnative.cc](https://reactnative.cc)
  - date_published: 2023-07-05T20:51:21+00:00
+
+ ## Redditsport.cc - Live Sports Streaming
+ - [https://redditsport.cc](https://redditsport.cc)
+ - date_published: 2024-11-12T17:07:54.269638+00:00
 
  ## Red Velvet
  - [https://redvelvet.cc](https://redvelvet.cc)
@@ -1907,6 +2075,10 @@
  - [https://stats.snapdragon.cc](https://stats.snapdragon.cc)
  - date_published: 2024-07-22T18:51:01.167043+00:00
 
+ ## SoaperTV - Watch Full Movies & TV Shows Free Online on Soaper TV
+ - [https://soapertv.cc](https://soapertv.cc)
+ - date_published: 2024-06-27T15:23:56+00:00
+
  ## Sofiane's Blog
  - [https://blog.sofiane.cc](https://blog.sofiane.cc)
  - date_published: 2024-06-15T00:00:00+00:00
@@ -1982,6 +2154,10 @@
  ## Strudel: A live coding platform to write dynamic music pieces in the browser
  - [https://strudel.cc](https://strudel.cc)
  - date_published: 2024-04-03T22:38:38+00:00
+
+ ## Subtitle One - Free Online Tool for Conversion, Sync, Shift, Adjustment and Translation
+ - [https://subtitleone.cc](https://subtitleone.cc)
+ - date_published: 2024-11-12T10:16:09+00:00
 
  ## Wiki
  - [http://wiki.sunfounder.cc](http://wiki.sunfounder.cc)
@@ -3857,173 +4033,4 @@
  ## Accueil | Admin e-guide
  - [https://admin-eguide.web.cern.ch](https://admin-eguide.web.cern.ch)
  - date_published: 2024-07-21T06:34:31.643562+00:00
-
- ## Home | ALPHA Experiment
- - [http://alpha.web.cern.ch](http://alpha.web.cern.ch)
- - date_published: 2024-06-14T12:18:18+00:00
-
- ## Home | CERN Alumni
- - [https://alumni.web.cern.ch](https://alumni.web.cern.ch)
- - date_published: 2024-08-11T11:51:14.315547+00:00
-
- ## CERN Analysis Preservation
- - [https://analysispreservation.cern.ch](https://analysispreservation.cern.ch)
- - date_published: 2023-10-19T10:00:27+00:00
-
- ## CERN Users Portal
- - [https://auth.cern.ch](https://auth.cern.ch)
- - date_published: 2024-07-01T07:45:42+00:00
-
- ## Authorization Service
- - [https://auth.docs.cern.ch](https://auth.docs.cern.ch)
- - date_published: 2024-07-04T10:58:02+00:00
-
- ## Home | Careers at CERN
- - [https://careers-at-cern.web.cern.ch](https://careers-at-cern.web.cern.ch)
- - date_published: 2024-07-17T16:58:57+00:00
-
- ## What's up on CDS – News, announcements and future developments of CDS services at CERN
- - [https://cds-blog.web.cern.ch](https://cds-blog.web.cern.ch)
- - date_published: 2024-06-15T04:01:23.501496+00:00
-
- ## CERN Document Server
- - [https://cds.cern.ch](https://cds.cern.ch)
- - date_published: 2024-05-01T02:17:47.123653+00:00
-
- ## CERN Document Server
- - [http://cdsweb.cern.ch](http://cdsweb.cern.ch)
- - date_published: 2024-06-30T08:14:17.453770+00:00
-
- ## CERN is celebrating 60 years of science for peace in 2014 | CERN's 60th anniversary
- - [https://cern60.web.cern.ch](https://cern60.web.cern.ch)
- - date_published: 2020-09-15T21:19:04+00:00
-
- ## CERN70 – Inspiring the Future
- - [https://cern-70-wordpress.web.cern.ch](https://cern-70-wordpress.web.cern.ch)
- - date_published: 2024-07-21T05:41:12+00:00
-
- ## Home | CERN
- - [https://cern.ch](https://cern.ch)
- - date_published: 2024-04-30T05:57:39.966832+00:00
-
- ## Home | CERN Open Hardware Licence
- - [https://cern-ohl.web.cern.ch](https://cern-ohl.web.cern.ch)
- - date_published: 2024-07-07T08:38:10.895181+00:00
-
- ## CernVM
- - [https://cernvm.cern.ch](https://cernvm.cern.ch)
- - date_published: 2023-10-25T12:13:02.528440+00:00
-
- ## Dr Sue Cheatham
- - [https://cheatham.web.cern.ch](https://cheatham.web.cern.ch)
- - date_published: 2019-08-08T11:12:25+00:00
-
- ## CERN Long Term Collections | CERN Long Term Collections
- - [https://clt.web.cern.ch](https://clt.web.cern.ch)
- - date_published: 2024-07-21T06:34:22.932887+00:00
-
- ## Sign in to CERN
- - [http://cmsdoc.cern.ch](http://cmsdoc.cern.ch)
- - date_published: 2024-06-30T08:14:34.294514+00:00
-
- ## Sign in to CERN
- - [http://cms.web.cern.ch](http://cms.web.cern.ch)
- - date_published: 2024-06-30T08:14:18.940771+00:00
-
- ## Terms of Use for CERN Audiovisual Media | Copyright and terms of use of CERN content
- - [https://copyright.web.cern.ch](https://copyright.web.cern.ch)
- - date_published: 2024-04-30T05:57:59.148456+00:00
-
- ## Welcome to the CERN Council | CERN Council
- - [https://council.web.cern.ch](https://council.web.cern.ch)
- - date_published: 2024-07-15T14:16:46+00:00
-
- ## Sign in to CERN
- - [https://discourse.web.cern.ch](https://discourse.web.cern.ch)
- - date_published: 2024-07-21T06:40:03.425022+00:00
-
- ## Welcome! | Diversity & Inclusion Programme
- - [http://diversity-and-inclusion.web.cern.ch](http://diversity-and-inclusion.web.cern.ch)
- - date_published: 2024-07-21T06:34:33.761444+00:00
-
- ## Welcome ! | Dosimetry Service
- - [https://dosimetry.web.cern.ch](https://dosimetry.web.cern.ch)
- - date_published: 2024-07-02T15:04:51+00:00
-
- ## Educational Resources | CERN
- - [https://educational-resources.web.cern.ch](https://educational-resources.web.cern.ch)
- - date_published: 2024-04-30T05:57:57.887458+00:00
-
- ## CERN toolbar examples
- - [https://framework.web.cern.ch](https://framework.web.cern.ch)
- - date_published: 2024-03-01T03:24:16+00:00
-
- ## Home | CERN Games Club
- - [https://games-club.web.cern.ch](https://games-club.web.cern.ch)
- - date_published: 2024-07-10T02:03:50.320271+00:00
-
- ## Home | CERN
- - [https://home.web.cern.ch](https://home.web.cern.ch)
- - date_published: 2024-05-14T04:03:55.177397+00:00
-
- ## Welcome to CERN | Human Resources
- - [https://hr.web.cern.ch](https://hr.web.cern.ch)
- - date_published: 2024-04-30T05:58:56.750770+00:00
-
- ## HSE Unit | HSE unit at CERN
- - [https://hse.web.cern.ch](https://hse.web.cern.ch)
- - date_published: 2024-07-21T06:12:05+00:00
-
- ## Home · ILC Agenda (Indico)
- - [http://ilcagenda.cern.ch](http://ilcagenda.cern.ch)
- - date_published: 2024-07-20T22:27:32.541780+00:00
-
- ## Home · Indico
- - [http://indicobeta.cern.ch](http://indicobeta.cern.ch)
- - date_published: 2024-06-30T08:14:38.177483+00:00
-
- ## Home · Indico
- - [https://indico.cern.ch](https://indico.cern.ch)
- - date_published: 2024-02-28T12:13:35.444822+00:00
-
- ## Learning Indico
- - [https://indico.docs.cern.ch](https://indico.docs.cern.ch)
- - date_published: 2024-04-09T11:57:01+00:00
-
- ## http://info.cern.ch
- - [https://info.cern.ch](https://info.cern.ch)
- - date_published: 2014-02-05T16:00:31+00:00
- - tags: ['internet history']
-
- ## Welcome to the IT Department | IT Department
- - [http://information-technology.web.cern.ch](http://information-technology.web.cern.ch)
- - date_published: 2024-08-16T08:56:54+00:00
-
- ## Home | internal-audit-service.web.cern.ch
- - [https://internal-audit-service.web.cern.ch](https://internal-audit-service.web.cern.ch)
- - date_published: 2024-04-30T05:58:59.938788+00:00
-
- ## Turn-key research data management repository
- - [https://inveniordm.docs.cern.ch](https://inveniordm.docs.cern.ch)
- - date_published: 2024-06-16T20:25:35+00:00
-
- ## InvenioRDM
- - [https://inveniordm.web.cern.ch](https://inveniordm.web.cern.ch)
- - date_published: 2024-06-19T22:29:30.789443+00:00
-
- ## Invenio
- - [https://invenio-talk.web.cern.ch](https://invenio-talk.web.cern.ch)
- - date_published: 2024-10-31T05:55:42.981191+00:00
-
- ## Kubernetes @ CERN
- - [https://kubernetes.web.cern.ch](https://kubernetes.web.cern.ch)
- - date_published: 2024-06-27T08:23:43+00:00
-
- ## Line Mode Browser 2013
- - [http://line-mode.cern.ch](http://line-mode.cern.ch)
- - date_published: 2023-12-15T16:57:19+00:00
-
- ## Linux @ CERN
- - [https://linuxsoft.cern.ch](https://linuxsoft.cern.ch)
- - date_published: 2024-06-15T18:24:12.857300+00:00
 

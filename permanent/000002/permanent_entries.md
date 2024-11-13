@@ -1,3 +1,15 @@
+ ## Inkdrop - Visually Deploy Cloud Architecture
+ - [https://platform.inkdrop.ai](https://platform.inkdrop.ai)
+ - date_published: 2023-12-04T18:33:50+00:00
+
+ ## Data and AI by INNOQ, Development and Consulting
+ - [https://www.innoq.ai](https://www.innoq.ai)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## Innova Apps
+ - [https://site.innovaapps.ai](https://site.innovaapps.ai)
+ - date_published: 2024-10-30T22:27:08.846978+00:00
+
  ## InOrbit Connect
  - [https://connect.inorbit.ai](https://connect.inorbit.ai)
  - date_published: 2024-08-06T23:24:18+00:00
@@ -4008,16 +4020,4 @@
  ## Quickchat AI | Customised AI Assistant for your Business
  - [https://app.quickchat.ai](https://app.quickchat.ai)
  - date_published: 2024-10-30T22:44:21.546579+00:00
-
- ## Introduction | Quickchat AI Documentation
- - [https://docs.quickchat.ai](https://docs.quickchat.ai)
- - date_published: 2024-10-30T22:44:20.754867+00:00
-
- ## Quickchat AI | Custom AI Assistant for your business
- - [https://www.quickchat.ai](https://www.quickchat.ai)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Quickcode
- - [https://hs.quickcode.ai](https://hs.quickcode.ai)
- - date_published: 2024-07-10T15:51:33+00:00
 
