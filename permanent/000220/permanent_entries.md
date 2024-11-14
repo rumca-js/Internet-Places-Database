@@ -1,3 +1,104 @@
+ ## Vista Forums
+ - [https://www.vistax64.com](https://www.vistax64.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Now It All Adds Up | Vistex®
+ - [https://www.vistex.com](https://www.vistex.com)
+ - date_published: 2024-07-08T10:32:50.009233+00:00
+
+ ## Home - The Vistria Group
+ - [http://www.vistria.com](http://www.vistria.com)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## 邢台械人科技有限公司
+ - [http://www.visualastronomy.com](http://www.visualastronomy.com)
+ - date_published: 2024-08-18T20:28:12.553985+00:00
+
+ ## Home
+ - [https://advisor.visualcapitalist.com](https://advisor.visualcapitalist.com)
+ - date_published: 2013-10-21T14:49:21+00:00
+
+ ## Decarbonization Channel by Visual Capitalist and NPUC
+ - [https://decarbonization.visualcapitalist.com](https://decarbonization.visualcapitalist.com)
+ - date_published: 2021-03-29T14:49:21+00:00
+
+ ## Home
+ - [https://elements.visualcapitalist.com](https://elements.visualcapitalist.com)
+ - date_published: 2021-03-29T14:49:21+00:00
+
+ ## Visual Capitalist Licensing – License infographics from Visual Capitalist
+ - [https://licensing.visualcapitalist.com](https://licensing.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:16.604094+00:00
+
+ ## Home - The Money Project
+ - [https://money.visualcapitalist.com](https://money.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:06.565402+00:00
+
+ ## The Visual Capitalist Store – Shop the latest merch from Visual Capitalist.
+ - [https://store.visualcapitalist.com](https://store.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:14.872253+00:00
+
+ ## Visual Capitalist
+ - [https://visualcapitalist.com](https://visualcapitalist.com)
+ - date_published: 2013-10-21T14:49:21+00:00
+ - tags: ['statistics', 'visualisation']
+
+ ## Wealth 101
+ - [https://wealth.visualcapitalist.com](https://wealth.visualcapitalist.com)
+ - date_published: 2024-05-07T10:50:12.576359+00:00
+
+ ## VCR: Visual Commonsense Reasoning
+ - [https://visualcommonsense.com](https://visualcommonsense.com)
+ - date_published: 2019-11-26T00:23:37+00:00
+
+ ## Visual C++ .Net programming tutorial: learn step by step C++ .NET programming through program examples and source code samples
+ - [https://www.visualcplusdotnet.com](https://www.visualcplusdotnet.com)
+ - date_published: 2019-01-31T15:30:08+00:00
+
+ ## VisualCron | Partners
+ - [https://partners.visualcron.com](https://partners.visualcron.com)
+ - date_published: 2024-10-03T12:04:09+00:00
+
+ ## VisualCron - Windows Scheduling Software and Task Automation |  Task Scheduler Alternative
+ - [https://www.visualcron.com](https://www.visualcron.com)
+ - date_published: 2024-06-19T20:52:03.360322+00:00
+
+ ## Human Verification
+ - [https://app.visualcv.com](https://app.visualcv.com)
+ - date_published: 2024-06-29T16:51:30.149599+00:00
+
+ ## VisualCV Knowledge Base
+ - [https://support.visualcv.com](https://support.visualcv.com)
+ - date_published: 2024-06-29T16:51:29.164464+00:00
+
+ ## VisualCV: Online CV Builder & Professional Resume Maker
+ - [https://visualcv.com](https://visualcv.com)
+ - date_published: 2024-05-07T13:28:16.289741+00:00
+
+ ## Show HN: Visual DB – Web front end for your database
+ - [https://visualdb.com](https://visualdb.com)
+ - date_published: 2024-09-10T17:25:00+00:00
+
+ ## VisualDx | Visual Clinical Decision Support System (CDSS)
+ - [http://www.visualdx.com](http://www.visualdx.com)
+ - date_published: 2024-07-01T20:18:37.777452+00:00
+
+ ## Visual Electric
+ - [https://blog.visualelectric.com](https://blog.visualelectric.com)
+ - date_published: 2024-06-26T23:55:34.554697+00:00
+
+ ## Cierpliwości...
+ - [https://community.visualelectric.com](https://community.visualelectric.com)
+ - date_published: 2024-06-26T23:55:38.801420+00:00
+
+ ## Visual Electric
+ - [https://visualelectric.com](https://visualelectric.com)
+ - date_published: 2024-05-06T20:26:44.459975+00:00
+
+ ## Cantonese Fonts
+ - [https://docs.visual-fonts.com](https://docs.visual-fonts.com)
+ - date_published: 2024-05-07T10:50:02.503160+00:00
+
  ## Visual Fonts
  - [https://forum.visual-fonts.com](https://forum.visual-fonts.com)
  - date_published: 2024-01-20T00:00:00+00:00
@@ -3944,104 +4045,4 @@
  ## WP Themes - Best Professional WordPress Themes and Templates
  - [https://www.vwthemes.com](https://www.vwthemes.com)
  - date_published: 2024-06-28T00:00:00+00:00
-
- ## Volkswagen Tire Center
- - [https://www.vwtirestore.com](https://www.vwtirestore.com)
- - date_published: 2024-06-29T14:21:59.143884+00:00
-
- ## Home - VX Company
- - [https://vxcompany.com](https://vxcompany.com)
- - date_published: 2024-07-20T13:18:01+00:00
-
- ## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
- - [https://api.vxtwitter.com](https://api.vxtwitter.com)
- - date_published: 2024-05-07T11:04:15.623291+00:00
-
- ## GitHub - dylanpdx/BetterTwitFix: Fix Twitter video embeds in Discord (and Telegram!)
- - [https://vxtwitter.com](https://vxtwitter.com)
- - date_published: 2024-01-06T02:26:04.304605+00:00
-
- ## Vyer Viewer
- - [https://app.vyer.com](https://app.vyer.com)
- - date_published: 2024-05-07T11:04:19.006824+00:00
-
- ## Effektiv drift och förvaltning | Vyer Technologies AB | Sweden
- - [https://vyer.com](https://vyer.com)
- - date_published: 2023-11-29T14:19:39.041120+00:00
-
- ## World Places Map Directory - VYMaps
- - [https://vymaps.com](https://vymaps.com)
- - date_published: 2024-05-07T13:43:21.832368+00:00
-
- ## Vyond Product Releases
- - [https://product.vyond.com](https://product.vyond.com)
- - date_published: 2024-10-30T14:37:39.618624+00:00
-
- ## Video Animation Software for Businesses | Vyond
- - [https://www.vyond.com](https://www.vyond.com)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## The Best VPN Provider for a Private Internet | VyprVPN | VyprVPN
- - [https://www.vyprvpn.com](https://www.vyprvpn.com)
- - date_published: 2024-09-04T13:39:31+00:00
-
- ## Dacast Backoffice
- - [https://app.vzaar.com](https://app.vzaar.com)
- - date_published: 2024-05-06T16:13:47.392497+00:00
-
- ## 加载中...
- - [https://wx.vzan.com](https://wx.vzan.com)
- - date_published: 2024-06-25T03:14:46+00:00
-
- ## Oakland Personal Injury Lawyers
- - [https://www.vzlawfirm.com](https://www.vzlawfirm.com)
- - date_published: 2024-06-28T10:01:54+00:00
-
- ## The Hive
- - [https://vzqk50.com](https://vzqk50.com)
- - date_published: 2024-01-10T00:00:00+00:00
-
- ## Carbon offsetting with V-ZUG
- - [https://co2.vzug.com](https://co2.vzug.com)
- - date_published: 2024-06-19T15:39:52.654091+00:00
-
- ## Household appliances for maximum comfort | V-ZUG Ltd.
- - [https://www.vzug.com](https://www.vzug.com)
- - date_published: 2024-10-29T11:16:41.346868+00:00
-
- ## Vytautas Žurauskas
- - [https://www.vzurauskas.com](https://www.vzurauskas.com)
- - date_published: 2021-07-24T11:23:15+00:00
-
- ## Verizon: Wireless, Internet, TV and Phone Services | Official Site
- - [https://mobile.vzw.com](https://mobile.vzw.com)
- - date_published: 2024-05-09T06:03:07.631329+00:00
-
- ## Citrix Gateway
- - [https://m-sit.vzw.com](https://m-sit.vzw.com)
- - date_published: 2024-06-09T08:00:01+00:00
-
- ## MyBusiness
- - [https://scache1.vzw.com](https://scache1.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## MyBusiness
- - [https://scache2.vzw.com](https://scache2.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## MyBusiness
- - [https://scache3.vzw.com](https://scache3.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## MyBusiness
- - [https://scache.vzw.com](https://scache.vzw.com)
- - date_published: 2024-02-28T15:41:46+00:00
-
- ## Verizon: Wireless, Internet, TV and Phone Services | Official Site
- - [https://vzw.com](https://vzw.com)
- - date_published: 2024-04-29T04:14:39.892921+00:00
-
- ## bmn's MGS stuff
- - [http://www.w00ty.com](http://www.w00ty.com)
- - date_published: 2024-06-29T08:16:00.494886+00:00
 

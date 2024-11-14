@@ -1,3 +1,102 @@
+ ## seventysomething  | Susie Kaufman | Substack
+ - [https://susiekaufman.substack.com](https://susiekaufman.substack.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Why Aren't I Writing? | Suw Charman-Anderson | Substack
+ - [https://suwca.substack.com](https://suwca.substack.com)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## The (Unofficial) Svelte JS Newsletter | Dani Sandoval | Substack
+ - [https://svelte.substack.com](https://svelte.substack.com)
+ - date_published: 2024-06-23T11:02:41.142406+00:00
+
+ ## Software Engineering Career Advice Newsletter | Rahul Thathoo | Substack
+ - [https://swecareer.substack.com](https://swecareer.substack.com)
+ - date_published: 2024-08-18T18:12:35.919977+00:00
+
+ ## Friends of the Baby | Sweet Baby | Substack
+ - [https://sweetbabynews.substack.com](https://sweetbabynews.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Swift Centre: Highlights | Substack
+ - [https://swiftcentre.substack.com](https://swiftcentre.substack.com)
+ - date_published: 2024-01-16T00:00:00+00:00
+
+ ## Swift Evolution Monthly | Cihat Gündüz | Substack
+ - [https://swiftevolution.substack.com](https://swiftevolution.substack.com)
+ - date_published: 2024-06-23T14:59:17.936251+00:00
+
+ ## Switched On Pop | Substack
+ - [https://switchedonpop.substack.com](https://switchedonpop.substack.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Latent Space | swyx & Alessio | Substack
+ - [https://swyx.substack.com](https://swyx.substack.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Accidents and Incidents | Sylvia Wrigley | Substack
+ - [https://sylviawrigley.substack.com](https://sylviawrigley.substack.com)
+ - date_published: 2024-10-28T08:27:25.219635+00:00
+
+ ## Symposium | Robert Tracinski | Substack
+ - [https://symposium.substack.com](https://symposium.substack.com)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## Syncretica | Alex Turnbull | Substack
+ - [https://syncretica.substack.com](https://syncretica.substack.com)
+ - date_published: 2024-10-31T22:49:29.365485+00:00
+
+ ## Synthedia | Bret Kinsella | Substack
+ - [https://synthedia.substack.com](https://synthedia.substack.com)
+ - date_published: 2023-10-25T10:04:58.013922+00:00
+ - tags: ['substack']
+
+ ## Syntopikon | Substack
+ - [https://syntopikon.substack.com](https://syntopikon.substack.com)
+ - date_published: 2023-10-25T10:05:00.115504+00:00
+ - tags: ['substack']
+
+ ## Synvert's Substack | Richard Huang | Substack
+ - [https://synvert.substack.com](https://synvert.substack.com)
+ - date_published: 2024-08-17T23:28:14.342947+00:00
+
+ ## Synystron Synlogica | Substack
+ - [https://synystron.substack.com](https://synystron.substack.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Systems Approach | Bruce Davie | Substack
+ - [https://systemsapproach.substack.com](https://systemsapproach.substack.com)
+ - date_published: 2023-10-25T10:05:02.967943+00:00
+ - tags: ['substack']
+
+ ## Racket News | Matt Taibbi | Substack
+ - [https://taibbi.substack.com](https://taibbi.substack.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Talking About Finance | Dave Coker | Substack
+ - [https://talkingaboutfinance.substack.com](https://talkingaboutfinance.substack.com)
+ - date_published: 2024-06-19T23:44:04.972294+00:00
+
+ ## Talk Therapy | Fiona Smith | Substack
+ - [https://talktherapy.substack.com](https://talktherapy.substack.com)
+ - date_published: 2024-05-06T13:56:04.416572+00:00
+
+ ## Tamer’s Substack | Tamer Noah | Substack
+ - [https://tamernoah.substack.com](https://tamernoah.substack.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Letters from Tammy Strobel | Substack
+ - [https://tammystrobel.substack.com](https://tammystrobel.substack.com)
+ - date_published: 2024-06-26T09:46:04.228103+00:00
+
+ ## Tangent design | Eduardo Hernandez | Substack
+ - [https://tangentdesign.substack.com](https://tangentdesign.substack.com)
+ - date_published: 2024-07-02T21:00:24.687118+00:00
+
+ ## Tania’s List | Tania Rascia | Substack
+ - [https://taniarascia.substack.com](https://taniarascia.substack.com)
+ - date_published: 2024-08-11T21:05:09.972781+00:00
+
  ## Joy Is My Justice | Tanmeet Sethi, MD | Substack
  - [https://tanmeetsethimd.substack.com](https://tanmeetsethimd.substack.com)
  - date_published: 2024-08-09T00:00:00+00:00
@@ -3954,101 +4053,4 @@
  ## Concrete and Construction Contractor in Texas
  - [http://www.superiorconstructionservices.com](http://www.superiorconstructionservices.com)
  - date_published: 2024-07-04T17:21:22.136521+00:00
-
- ## SuperiorEssentials
- - [https://superioressentials.com](https://superioressentials.com)
- - date_published: 2024-09-02T10:54:42.710060+00:00
-
- ## Home
- - [https://superiorglove.com](https://superiorglove.com)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## SUPERIORITY BURGER
- - [https://www.superiorityburger.com](https://www.superiorityburger.com)
- - date_published: 2024-06-29T10:07:13.112008+00:00
-
- ## Superior Realities
- - [http://superior-realities.com](http://superior-realities.com)
- - date_published: 2024-09-03T23:01:41.512800+00:00
-
- ## Superior Resources
- - [https://www.superiorresourcesllc.com](https://www.superiorresourcesllc.com)
- - date_published: 2024-09-16T22:27:11.663016+00:00
-
- ## Welcome to Superior Sauna & Steam
- - [https://superiorsaunas.com](https://superiorsaunas.com)
- - date_published: 2024-05-12T06:10:50.932721+00:00
-
- ## Superior Solitaire: Ad-free card game collection
- - [https://www.superiorsolitaire.com](https://www.superiorsolitaire.com)
- - date_published: 2024-07-20T18:51:40.349134+00:00
-
- ## Superior Telegram - Superior Telegram | News, weather, sports from Superior Wisconsin
- - [https://www.superiortelegram.com](https://www.superiortelegram.com)
- - date_published: 2024-07-13T12:47:58.871065+00:00
-
- ## Superjet International
- - [http://www.superjetinternational.com](http://www.superjetinternational.com)
- - date_published: 2024-07-09T21:53:09.553561+00:00
-
- ## SuperKids Educational Software Review.
- - [https://www.superkids.com](https://www.superkids.com)
- - date_published: 2024-08-19T06:48:39.641641+00:00
-
- ## Cierpliwości...
- - [https://profiles.superlawyers.com](https://profiles.superlawyers.com)
- - date_published: 2024-05-04T12:14:58.767840+00:00
-
- ## Cierpliwości...
- - [https://superlawyers.com](https://superlawyers.com)
- - date_published: 2024-05-06T22:20:14.941872+00:00
-
- ## SuperLectures
- - [http://blog.superlectures.com](http://blog.superlectures.com)
- - date_published: 2024-07-23T23:57:20.525841+00:00
-
- ## SuperLectures
- - [https://superlectures.com](https://superlectures.com)
- - date_published: 2024-04-29T07:19:43.725715+00:00
-
- ## SuperLenny Casino - Your Ultimate Home for Online Gaming
- - [https://superlennycasino.com](https://superlennycasino.com)
- - date_published: 2024-08-07T21:33:41.729595+00:00
-
- ## Superlinguo
- - [http://superlinguo.com](http://superlinguo.com)
- - date_published: 2024-06-26T14:28:14.730933+00:00
-
- ## LINKS.SUPERLINKED.COM - A Dub.co Custom Domain
- - [https://links.superlinked.com](https://links.superlinked.com)
- - date_published: 2024-07-04T11:29:02.891121+00:00
-
- ## Superlinked - The Vector Computer
- - [https://superlinked.com](https://superlinked.com)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## Superlist: Home to all your lists
- - [https://www.superlist.com](https://www.superlist.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Super Luigi Bros - Home of the Marioverse, Mario & Luigi Mega Fansite
- - [http://www.superluigibros.com](http://www.superluigibros.com)
- - date_published: 2024-07-08T10:35:48+00:00
-
- ## Superlunar
- - [https://superlunar.com](https://superlunar.com)
- - date_published: 2022-12-15T00:00:00+00:00
-
- ## Superman Homepage
- - [https://supermanhomepage.com](https://supermanhomepage.com)
- - date_published: 2024-07-02T11:24:08+00:00
-
- ## Supermassive Games - Supermassive Games
- - [https://www.supermassivegames.com](https://www.supermassivegames.com)
- - date_published: 2024-10-25T17:44:22.073062+00:00
-
- ## Supermaven
- - [https://supermaven.com](https://supermaven.com)
- - date_published: 2024-02-22T22:32:11.351596+00:00
- - tags: ['code completion']
 

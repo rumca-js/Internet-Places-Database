@@ -1,3 +1,115 @@
+ ## Duke Fuqua Student Blogs | Duke's Fuqua School of Business
+ - [http://blogs.fuqua.duke.edu](http://blogs.fuqua.duke.edu)
+ - date_published: 2024-06-17T03:22:18.049915+00:00
+
+ ## News, Events & Exhibits - Duke University Libraries Blogs
+ - [https://blogs.library.duke.edu](https://blogs.library.duke.edu)
+ - date_published: 2024-05-01T20:00:50.690868+00:00
+
+ ## Duke Biomedical Engineering
+ - [https://bme.duke.edu](https://bme.duke.edu)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## This is Duke - Brand Guide
+ - [https://brand.duke.edu](https://brand.duke.edu)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Duke Event Calendar
+ - [https://calendar.duke.edu](https://calendar.duke.edu)
+ - date_published: 2024-06-07T21:24:53.643996+00:00
+
+ ## Homepage | Canvas
+ - [https://canvas.duke.edu](https://canvas.duke.edu)
+ - date_published: 2024-09-26T17:27:31+00:00
+
+ ## Duke Careers
+ - [https://careers.duke.edu](https://careers.duke.edu)
+ - date_published: 2024-08-08T22:19:13.804554+00:00
+
+ ## Aleph Catalog
+ - [http://catalog.library.duke.edu](http://catalog.library.duke.edu)
+ - date_published: 2021-01-26T16:48:20+00:00
+
+ ## Fuqua Centers
+ - [https://centers.fuqua.duke.edu](https://centers.fuqua.duke.edu)
+ - date_published: 2024-09-26T18:00:39.875407+00:00
+
+ ## Welcome | Duke University Chapel
+ - [https://chapel.duke.edu](https://chapel.duke.edu)
+ - date_published: 2024-09-26T18:09:47+00:00
+
+ ## Duke Center for Human Systems Immunology logo
+ - [https://chsi.duke.edu](https://chsi.duke.edu)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Duke Learning Innovation
+ - [http://cit.duke.edu](http://cit.duke.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## The Duke Climate Commitment
+ - [https://climate.duke.edu](https://climate.duke.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Program on Climate, Resilience and Mobility - Program on Climate, Resilience and Mobility
+ - [https://climatemigration.duke.edu](https://climatemigration.duke.edu)
+ - date_published: 2024-09-26T17:59:47.958313+00:00
+
+ ## Front Page | Computational Media, Arts & Cultures
+ - [https://cmac.duke.edu](https://cmac.duke.edu)
+ - date_published: 2024-06-16T06:48:04+00:00
+
+ ## Communicator Toolkit - Communicator Toolkit
+ - [https://commskit.duke.edu](https://commskit.duke.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Let me tell you a story... - Communications and Marketing
+ - [https://communications.duke.edu](https://communications.duke.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Communicator Toolkit - Communicator Toolkit
+ - [https://communicators.duke.edu](https://communicators.duke.edu)
+ - date_published: 2024-09-26T00:00:00+00:00
+
+ ## Updates on Duke’s Coronavirus Response
+ - [https://coronavirus.duke.edu](https://coronavirus.duke.edu)
+ - date_published: 2024-04-30T04:13:03.759771+00:00
+
+ ## Duke Computer Science
+ - [https://courses.cs.duke.edu](https://courses.cs.duke.edu)
+ - date_published: 2024-07-03T09:03:36.459097+00:00
+
+ ## Front Page | Continuing Studies
+ - [https://courses.learnmore.duke.edu](https://courses.learnmore.duke.edu)
+ - date_published: 2024-09-26T17:10:55+00:00
+
+ ## Front Page | Department of Computer Science
+ - [https://cs.duke.edu](https://cs.duke.edu)
+ - date_published: 2024-04-29T03:30:31.922892+00:00
+
+ ## Front Page | Dance Program
+ - [https://danceprogram.duke.edu](https://danceprogram.duke.edu)
+ - date_published: 2024-06-16T06:51:03+00:00
+
+ ## Duke MIDS
+ - [https://datascience.duke.edu](https://datascience.duke.edu)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Duke Database Devils
+ - [https://db.cs.duke.edu](https://db.cs.duke.edu)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Homepage | Duke Center for International Development
+ - [https://dcid.sanford.duke.edu](https://dcid.sanford.duke.edu)
+ - date_published: 2024-07-20T18:49:41+00:00
+
+ ## Service Portal - Service Portal
+ - [https://dhts.duke.edu](https://dhts.duke.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## Homepage | Duke Institute for Brain Sciences
+ - [https://dibs.duke.edu](https://dibs.duke.edu)
+ - date_published: 2024-06-16T07:15:23+00:00
+
  ## Front Page | DIGITAL HUMANITIES
  - [http://digitalhumanities.duke.edu](http://digitalhumanities.duke.edu)
  - date_published: 2024-09-26T00:00:00+00:00
@@ -3887,117 +3999,4 @@
  ## Massive Data Institute - Massive Data Institute
  - [https://mdi.georgetown.edu](https://mdi.georgetown.edu)
  - date_published: 2024-07-22T07:26:36.064371+00:00
-
- ## Medical Humanities Initiative - Medical Humanities Initiative
- - [https://medicalhumanities.georgetown.edu](https://medicalhumanities.georgetown.edu)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Home Page - Department of Medicine
- - [https://medicine.georgetown.edu](https://medicine.georgetown.edu)
- - date_published: 2024-06-28T12:11:10.711943+00:00
-
- ## McDonough School of Business | Georgetown University
- - [https://msb.georgetown.edu](https://msb.georgetown.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## GU Experience - Experience
- - [https://myaccess.georgetown.edu](https://myaccess.georgetown.edu)
- - date_published: 2024-10-22T05:41:46.357129+00:00
-
- ## Georgetown University Advancement
- - [https://my.giving.georgetown.edu](https://my.giving.georgetown.edu)
- - date_published: 2024-07-13T12:24:05.862803+00:00
-
- ## The School of Nursing & Health Studies is now the School of Nursing and the School of Health - Georgetown University Medical Center
- - [https://nhs.georgetown.edu](https://nhs.georgetown.edu)
- - date_published: 2024-07-13T12:23:41.673267+00:00
-
- ## Home Page - Doctor of Nurse Anesthesia Practice Program
- - [https://nurseanesthesia.georgetown.edu](https://nurseanesthesia.georgetown.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home Page - School of Nursing
- - [https://nursing.georgetown.edu](https://nursing.georgetown.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Online Nursing Programs
- - [https://online.nursing.georgetown.edu](https://online.nursing.georgetown.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home Page - Office of Research Oversight/Regulatory Affairs
- - [http://ora.georgetown.edu](http://ora.georgetown.edu)
- - date_published: 2024-07-13T12:23:59.667866+00:00
-
- ## Joint Office of Research Administration (JORA) - Georgetown Research Services
- - [https://osr.gumc.georgetown.edu](https://osr.gumc.georgetown.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Home Page - Online Executive Master's in Clinical Quality, Safety & Leadership
- - [https://patientsafetymasters.georgetown.edu](https://patientsafetymasters.georgetown.edu)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Home Page - Human Resources Policy Manual
- - [https://policymanual.hr.georgetown.edu](https://policymanual.hr.georgetown.edu)
- - date_published: 2024-10-22T05:40:14.350346+00:00
-
- ## Georgetown University Press
- - [https://press.georgetown.edu](https://press.georgetown.edu)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Home Page - Protection of Minors
- - [http://protectionofminors.georgetown.edu](http://protectionofminors.georgetown.edu)
- - date_published: 2024-09-02T13:07:06.278399+00:00
-
- ## GU-Q - Georgetown University in Qatar
- - [http://qatar.sfs.georgetown.edu](http://qatar.sfs.georgetown.edu)
- - date_published: 2024-10-22T05:41:44.783331+00:00
-
- ## Home Page - University Registrar
- - [https://registrar.georgetown.edu](https://registrar.georgetown.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## DigitalGeorgetown Home
- - [https://repository.library.georgetown.edu](https://repository.library.georgetown.edu)
- - date_published: 2024-04-05T18:55:25.692886+00:00
-
- ## Georgetown Research Services - Georgetown Research Services
- - [https://researchservices.georgetown.edu](https://researchservices.georgetown.edu)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Rome Office Homepage
- - [https://romeoffice.georgetown.edu](https://romeoffice.georgetown.edu)
- - date_published: 2024-06-21T09:01:47.044013+00:00
-
- ## Room Reservations -
-        Dahlgren Memorial Library
- - [https://rooms.dml.georgetown.edu](https://rooms.dml.georgetown.edu)
- - date_published: 2024-07-13T12:27:32.431904+00:00
-
- ## The Nation's Premiere ROTC Battalion  - The Hoya Battalion
- - [http://rotc.georgetown.edu](http://rotc.georgetown.edu)
- - date_published: 2024-10-22T05:40:31.825647+00:00
-
- ## Home Page - The Ruesch Center for the Cure of Gastrointestinal Cancers
- - [https://ruesch.georgetown.edu](https://ruesch.georgetown.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home Page - Schedule of Classes
- - [https://schedule.georgetown.edu](https://schedule.georgetown.edu)
- - date_published: 2024-10-22T05:42:07.032134+00:00
-
- ## Scholarship @ GEORGETOWN LAW
- - [https://scholarship.law.georgetown.edu](https://scholarship.law.georgetown.edu)
- - date_published: 2024-07-08T09:03:55.158542+00:00
-
- ## Search - Georgetown University
- - [https://search.georgetown.edu](https://search.georgetown.edu)
- - date_published: 2023-10-25T10:11:11+00:00
-
- ## Search - Georgetown University
- - [https://search.uis.georgetown.edu](https://search.uis.georgetown.edu)
- - date_published: 2023-10-25T10:11:11+00:00
-
- ## Homepage - SFS - School of Foreign Service - Georgetown University
- - [https://sfs.georgetown.edu](https://sfs.georgetown.edu)
- - date_published: 2024-07-08T00:00:00+00:00
 

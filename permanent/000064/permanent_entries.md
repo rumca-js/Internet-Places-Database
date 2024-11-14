@@ -1,3 +1,27 @@
+ ## The Wild Riders of Saim Hann
+ - [http://thewildridersofsaimhann.blogspot.com](http://thewildridersofsaimhann.blogspot.com)
+ - date_published: 2024-08-21T11:59:14+00:00
+
+ ## The Wishful Writer
+ - [https://thewishfulwriter.blogspot.com](https://thewishfulwriter.blogspot.com)
+ - date_published: 2024-04-17T06:51:24+00:00
+
+ ## THE WORK OF         SHAITAN
+ - [http://theworkofshaitan.blogspot.com](http://theworkofshaitan.blogspot.com)
+ - date_published: 2024-07-01T20:48:05+00:00
+
+ ## The World in Black & White
+ - [http://theworldinblackwhite.blogspot.com](http://theworldinblackwhite.blogspot.com)
+ - date_published: 2024-07-15T13:56:50+00:00
+
+ ## The World of Air Above us: Climate Reality, and Change
+ - [http://theworldofairaboveus.blogspot.com](http://theworldofairaboveus.blogspot.com)
+ - date_published: 2015-01-07T00:00:00+00:00
+
+ ## The Wraith Gate
+ - [http://thewraithgate.blogspot.com](http://thewraithgate.blogspot.com)
+ - date_published: 2024-10-05T02:05:48+00:00
+
  ## The Writers Alley
  - [http://thewritersalleys.blogspot.com](http://thewritersalleys.blogspot.com)
  - date_published: 2024-10-17T23:00:57.097670+00:00
@@ -3985,28 +4009,4 @@
  ## Erik's Choice
  - [http://www.eriklerouge.blogspot.com](http://www.eriklerouge.blogspot.com)
  - date_published: 2024-09-26T03:52:21+00:00
-
- ## Excessive Exclamation!!
- - [http://www.excessiveexclamation.blogspot.com](http://www.excessiveexclamation.blogspot.com)
- - date_published: 2024-10-19T11:04:30.884015+00:00
-
- ## Fair Deal Phil
- - [http://www.fairdealphil.blogspot.com](http://www.fairdealphil.blogspot.com)
- - date_published: 2024-10-21T12:01:04.321226+00:00
-
- ## The Belmont Club
- - [http://www.fallbackbelmont.blogspot.com](http://www.fallbackbelmont.blogspot.com)
- - date_published: 2024-06-02T18:02:36+00:00
-
- ## The FAPE Page
- - [http://www.fapepage.blogspot.com](http://www.fapepage.blogspot.com)
- - date_published: 2024-03-23T18:51:24+00:00
-
- ## PERGE MODO
- - [http://www.farmboyz.blogspot.com](http://www.farmboyz.blogspot.com)
- - date_published: 2024-09-21T23:37:39+00:00
-
- ## Blogger
- - [https://www.fathermanseekingpeace.blogspot.com](https://www.fathermanseekingpeace.blogspot.com)
- - date_published: 2024-08-19T21:46:56.274929+00:00
 

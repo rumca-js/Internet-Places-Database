@@ -1,3 +1,39 @@
+ ## David Walbert
+ - [https://social.davidwalbert.com](https://social.davidwalbert.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Essays in Idleness
+ - [http://www.davidwarrenonline.com](http://www.davidwarrenonline.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Home
+ - [http://davidwhitehouse.com](http://davidwhitehouse.com)
+ - date_published: 2024-06-15T04:16:51.072328+00:00
+
+ ## David Whyte
+ - [https://davidwhyte.com](https://davidwhyte.com)
+ - date_published: 2024-05-08T03:04:07.590172+00:00
+
+ ## David Windham
+ - [https://davidwindham.com](https://davidwindham.com)
+ - date_published: 2024-01-09T15:48:22+00:00
+
+ ## David Wipf
+ - [http://www.davidwipf.com](http://www.davidwipf.com)
+ - date_published: 2024-06-22T09:46:38.959658+00:00
+
+ ## david wolfpaw – digital citizen
+ - [https://davidwolfpaw.com](https://davidwolfpaw.com)
+ - date_published: 2024-01-08T07:26:59.799541+00:00
+
+ ## David W Parker | Developer
+ - [https://davidwparker.com](https://davidwparker.com)
+ - date_published: 2024-07-23T23:40:30.878491+00:00
+
+ ## Home
+ - [https://davidyoungcommunications.com](https://davidyoungcommunications.com)
+ - date_published: 2024-07-04T04:47:37.530327+00:00
+
  ## David Yurman | Designer Jewelry & Watches for Women and Men
  - [https://www.davidyurman.com](https://www.davidyurman.com)
  - date_published: 2024-06-26T09:38:05.750444+00:00
@@ -4012,41 +4048,4 @@
  ## Deloitte Digital | CE
  - [https://www.deloittedigital.com](https://www.deloittedigital.com)
  - date_published: 2024-02-21T00:00:00+00:00
-
- ## Sign in to your account
- - [https://eu.deloitte-halo.com](https://eu.deloitte-halo.com)
- - date_published: 2024-07-24T00:00:00+00:00
-
- ## Delorean Motor Company
- - [https://delorean.com](https://delorean.com)
- - date_published: 2023-10-25T13:48:49.685212+00:00
-
- ## Home page | Official Classic DeLorean Motor Company® | New, Original, and Reproduction Parts
- - [https://store.delorean.com](https://store.delorean.com)
- - date_published: 2024-06-15T21:51:21.699335+00:00
-
- ## Portal - DeLorean Motor Company
- - [https://support.delorean.com](https://support.delorean.com)
- - date_published: 2024-06-15T21:51:26.630279+00:00
-
- ## delorie software
- - [https://delorie.com](https://delorie.com)
- - date_published: 2019-01-01T00:00:00+00:00
- - tags: ['djgpp']
-
- ## Delphia | Invest with your data, not your money.
- - [https://delphia.com](https://delphia.com)
- - date_published: 2024-06-26T18:59:19+00:00
-
- ## Delphi Books
- - [https://delphi-books.com](https://delphi-books.com)
- - date_published: 2024-05-14T20:19:21+00:00
-
- ## Tüm Platformlar için Delphi ile Hızlı Uygulama Geliştirme Kitabı
- - [http://kitap.delphican.com](http://kitap.delphican.com)
- - date_published: 2024-02-06T08:24:11+00:00
-
- ## Delphi Can
- - [http://www.delphican.com](http://www.delphican.com)
- - date_published: 2024-06-17T03:35:26.675220+00:00
 

@@ -1,3 +1,104 @@
+ ## Persiflage | Galois Representations and more!
+ - [https://galoisrepresentations.wordpress.com](https://galoisrepresentations.wordpress.com)
+ - date_published: 2024-05-07T15:57:05.156863+00:00
+
+ ## Game Balance Concepts
+ - [http://gamebalanceconcepts.wordpress.com](http://gamebalanceconcepts.wordpress.com)
+ - date_published: 2024-07-09T14:22:50.050879+00:00
+
+ ## Game Design Concepts
+ - [https://gamedesignconcepts.wordpress.com](https://gamedesignconcepts.wordpress.com)
+ - date_published: 2024-05-09T05:23:49.501971+00:00
+
+ ## Gamer Multiclass
+ - [http://gamermulticlass.wordpress.com](http://gamermulticlass.wordpress.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## GAMERS WEB
+ - [https://gamerswebweb.wordpress.com](https://gamerswebweb.wordpress.com)
+ - date_published: 2024-10-26T17:47:36.270649+00:00
+
+ ## (pas de titre)
+ - [https://gamescustom.wordpress.com](https://gamescustom.wordpress.com)
+ - date_published: 2024-10-26T21:45:56.181725+00:00
+
+ ## Games for social transformation
+ - [https://gamesforsocialtransformation.wordpress.com](https://gamesforsocialtransformation.wordpress.com)
+ - date_published: 2024-07-09T14:07:44.465046+00:00
+
+ ## Game programming and moar!
+ - [https://gamesnippets.wordpress.com](https://gamesnippets.wordpress.com)
+ - date_published: 2024-05-09T08:54:30.571886+00:00
+
+ ## Games to Learn
+ - [http://gamestolearn.wordpress.com](http://gamestolearn.wordpress.com)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Gaming Grad
+ - [http://gaminggrad.wordpress.com](http://gaminggrad.wordpress.com)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Gaming History 101
+ - [https://gaminghistory101.wordpress.com](https://gaminghistory101.wordpress.com)
+ - date_published: 2023-12-11T16:51:07.418089+00:00
+
+ ## 高大伟 David Cowhig's Translation Blog
+ - [https://gaodawei.wordpress.com](https://gaodawei.wordpress.com)
+ - date_published: 2023-10-25T18:12:05.460382+00:00
+
+ ## Gap-finding Project
+ - [https://gapfindingproject.wordpress.com](https://gapfindingproject.wordpress.com)
+ - date_published: 2024-07-13T23:56:21.986030+00:00
+
+ ## Workers’ Playtime
+ - [http://gapingsilence.wordpress.com](http://gapingsilence.wordpress.com)
+ - date_published: 2024-10-21T12:07:03.656077+00:00
+
+ ## Garen McMillian
+ - [https://garenmcmilliandotcom.wordpress.com](https://garenmcmilliandotcom.wordpress.com)
+ - date_published: 2023-12-18T22:40:13.835646+00:00
+ - tags: ['personal']
+
+ ## garethecuador
+ - [http://garethecuador.wordpress.com](http://garethecuador.wordpress.com)
+ - date_published: 2024-10-17T13:08:11.224052+00:00
+
+ ## Gareth Nicholas Blog
+ - [https://garethnicholasblog.wordpress.com](https://garethnicholasblog.wordpress.com)
+ - date_published: 2024-10-26T19:28:44.867191+00:00
+
+ ## It's a Wonderful Life
+ - [https://garykwong.wordpress.com](https://garykwong.wordpress.com)
+ - date_published: 2024-07-07T10:30:01.949135+00:00
+
+ ## Gas station without pumps
+ - [https://gasstationwithoutpumps.wordpress.com](https://gasstationwithoutpumps.wordpress.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Gato Pingado
+ - [http://gatopingado.wordpress.com](http://gatopingado.wordpress.com)
+ - date_published: 2024-07-12T21:13:28+00:00
+
+ ## Lamentations on Chemistry
+ - [http://gaussling.wordpress.com](http://gaussling.wordpress.com)
+ - date_published: 2024-06-17T11:58:47.834746+00:00
+
+ ## gavc law - geert van calster
+ - [https://gavclaw.wordpress.com](https://gavclaw.wordpress.com)
+ - date_published: 2024-10-18T21:06:24.516022+00:00
+
+ ## Appalachia, Insha'Allah
+ - [https://gavincwillow.wordpress.com](https://gavincwillow.wordpress.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Gazette
+ - [https://gazettedemo.wordpress.com](https://gazettedemo.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Walking the British Coast
+ - [https://gbcoastwalk.wordpress.com](https://gbcoastwalk.wordpress.com)
+ - date_published: 2024-05-07T14:47:35.217900+00:00
+
  ## The Godly Chic Diaries
  - [http://gcdiaries.wordpress.com](http://gcdiaries.wordpress.com)
  - date_published: 2024-06-30T11:04:08.728181+00:00
@@ -3909,104 +4010,4 @@
  ## The Long Eighteenth
  - [http://long18th.wordpress.com](http://long18th.wordpress.com)
  - date_published: 2024-10-20T06:39:03.798036+00:00
-
- ## longandvariable
- - [https://longandvariable.wordpress.com](https://longandvariable.wordpress.com)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Long-nosed fur seals
- - [https://longnosedfurseals.files.wordpress.com](https://longnosedfurseals.files.wordpress.com)
- - date_published: 2024-05-07T15:18:10.837353+00:00
-
- ## Long-nosed fur seals
- - [https://longnosedfurseals.wordpress.com](https://longnosedfurseals.wordpress.com)
- - date_published: 2024-01-05T21:36:43.309813+00:00
-
- ## Look at the Trees
- - [http://lookatthetreescom.wordpress.com](http://lookatthetreescom.wordpress.com)
- - date_published: 2024-09-03T23:00:11.433501+00:00
-
- ## Lord Geekington
- - [https://lordgeekington.wordpress.com](https://lordgeekington.wordpress.com)
- - date_published: 2024-10-19T05:21:28.605581+00:00
-
- ## Lord Kilgore
- - [https://lordkilgore.wordpress.com](https://lordkilgore.wordpress.com)
- - date_published: 2024-07-15T09:32:20.144198+00:00
-
- ## Lord Larac
- - [https://lordlarac.wordpress.com](https://lordlarac.wordpress.com)
- - date_published: 2024-06-23T19:03:51.813792+00:00
-
- ## Lord Matteus' Ancient Tomes and Wondrous Items
- - [https://lordmatteus.wordpress.com](https://lordmatteus.wordpress.com)
- - date_published: 2024-07-15T09:31:51.802220+00:00
-
- ## Lorelle on WordPress
- - [https://lorelle.wordpress.com](https://lorelle.wordpress.com)
- - date_published: 2024-06-30T10:13:26.352357+00:00
-
- ## Surfing Complexity
- - [https://lorinhochstein.wordpress.com](https://lorinhochstein.wordpress.com)
- - date_published: 2024-08-19T11:03:31.389532+00:00
-
- ## Brendan "Lor" Lowry
- - [https://lortarkam.wordpress.com](https://lortarkam.wordpress.com)
- - date_published: 2024-09-15T00:00:00+00:00
-
- ## Lost Art Press
- - [https://lostartpress.wordpress.com](https://lostartpress.wordpress.com)
- - date_published: 2024-05-04T13:32:21.069006+00:00
-
- ## The Lost Generation of Autistic Adults
- - [http://lostgenerationofautistics.wordpress.com](http://lostgenerationofautistics.wordpress.com)
- - date_published: 2024-09-03T23:02:43.284586+00:00
-
- ## Lost Ghost
- - [http://lostghostblog.wordpress.com](http://lostghostblog.wordpress.com)
- - date_published: 2024-09-03T23:02:53.325866+00:00
-
- ## Lost In Transits
- - [http://lostintransits.wordpress.com](http://lostintransits.wordpress.com)
- - date_published: 2024-08-18T20:25:53.772332+00:00
-
- ## Lost on Fenris
- - [https://lostonfenris.wordpress.com](https://lostonfenris.wordpress.com)
- - date_published: 2024-10-26T12:24:01+00:00
-
- ## Lou Downe
- - [https://louisedowne.wordpress.com](https://louisedowne.wordpress.com)
- - date_published: 2024-09-16T06:15:33.467434+00:00
-
- ## LouisvilleGun
- - [https://louisvillegun.wordpress.com](https://louisvillegun.wordpress.com)
- - date_published: 2024-05-04T11:58:15.204894+00:00
-
- ## Lou LaBrant: An Annotated Bibliography
- - [https://loulabrant.wordpress.com](https://loulabrant.wordpress.com)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## louloureads
- - [https://louloureads.wordpress.com](https://louloureads.wordpress.com)
- - date_published: 2024-06-15T10:20:27.243567+00:00
-
- ## Lou Morgan
- - [http://loummorgan.wordpress.com](http://loummorgan.wordpress.com)
- - date_published: 2024-10-25T19:31:39.839617+00:00
-
- ## The Lovecraft eZine
- - [https://lovecraftzine.wordpress.com](https://lovecraftzine.wordpress.com)
- - date_published: 2024-06-19T09:42:48.748185+00:00
-
- ## Our Journey
- - [https://lovehopefaith.wordpress.com](https://lovehopefaith.wordpress.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## loveimperialwarmuseumlibrary
- - [http://loveimperialwarmuseumlibrary.wordpress.com](http://loveimperialwarmuseumlibrary.wordpress.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Love Peace & Stories
- - [https://lovepeaceandstories.wordpress.com](https://lovepeaceandstories.wordpress.com)
- - date_published: 2024-09-17T17:24:48.130701+00:00
 

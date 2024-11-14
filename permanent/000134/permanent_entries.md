@@ -1,3 +1,52 @@
+ ## Laravel Up & Running - An O'Reilly book from Matt Stauffer
+ - [https://laravelupandrunning.com](https://laravelupandrunning.com)
+ - date_published: 2024-06-18T10:24:11.724321+00:00
+
+ ## Home | La Raza del Noroeste
+ - [https://www.larazanw.com](https://www.larazanw.com)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Lara Zeus Demo App
+ - [https://demo.larazeus.com](https://demo.larazeus.com)
+ - date_published: 2024-10-28T23:37:25.565199+00:00
+
+ ## Lara Zeus | filamentphp free and premium plugin, and open source laravel packages
+ - [https://larazeus.com](https://larazeus.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## all our premium and open source plugins | Lara Zeus
+ - [https://store.larazeus.com](https://store.larazeus.com)
+ - date_published: 2024-10-28T23:37:35.083813+00:00
+
+ ## LARB Pub Lab | Reassembling publishing | Incubating ideas from the LA Review of Books Publishing Workshop
+ - [https://larbpublab.com](https://larbpublab.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## L'Arca degli Esposti
+ - [https://larcadegliesposti.com](https://larcadegliesposti.com)
+ - date_published: 2024-07-09T20:40:49.871613+00:00
+
+ ## home - larch lab
+ - [https://larchlab.com](https://larchlab.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## LARCHMONT VILLAGE WINE, SPIRITS & CHEESE
+ - [https://www.larchmontvillagewine.com](https://www.larchmontvillagewine.com)
+ - date_published: 2024-06-20T16:56:59.519110+00:00
+
+ ## Lardera Coffee | Try Samples | Free Shipping with $49
+ - [https://www.lardera.com](https://www.lardera.com)
+ - date_published: 2024-06-29T18:09:48.205911+00:00
+
+ ## La REcyclerie
+ - [http://www.larecyclerie.com](http://www.larecyclerie.com)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Lares Labs
+ - [https://labs.lares.com](https://labs.lares.com)
+ - date_published: 2024-02-11T14:35:07.711728+00:00
+ - tags: ['tech news']
+
  ## Lares - Empowering Organizations to Maximize Their Security Potential
  - [https://lares.com](https://lares.com)
  - date_published: 2024-02-19T00:00:00+00:00
@@ -518,6 +567,10 @@
  ## Customer
  - [https://support.lastpass.com](https://support.lastpass.com)
  - date_published: 2023-06-22T09:38:11+00:00
+
+ ## Home - Last Place Comics
+ - [https://lastplacecomics.com](https://lastplacecomics.com)
+ - date_published: 2024-11-13T09:44:01+00:00
 
  ## Last Stand Games - Home Page
  - [http://www.laststandgames.com](http://www.laststandgames.com)
@@ -3984,56 +4037,4 @@ LearnWorlds
  ## LEE Filters: Masters of Light
  - [https://www.leefilters.com](https://www.leefilters.com)
  - date_published: 2024-07-04T06:50:49.562122+00:00
-
- ## UISP
- - [https://leeflets.com](https://leeflets.com)
- - date_published: 2024-04-18T14:42:44+00:00
-
- ## Leeham News and Analysis
- - [https://leehamnews.com](https://leehamnews.com)
- - date_published: 2024-03-12T17:42:46.755654+00:00
-
- ## HOME
- - [https://leeimported.com](https://leeimported.com)
- - date_published: 2024-08-07T21:18:51.680091+00:00
-
- ## Lee Kelleher
- - [https://leekelleher.com](https://leekelleher.com)
- - date_published: 2024-01-05T01:04:04.453499+00:00
-
- ## Leela Corman
- - [http://leelacorman.com](http://leelacorman.com)
- - date_published: 2024-05-13T03:39:38.223788+00:00
-
- ## Home
- - [https://www.leelewis.com](https://www.leelewis.com)
- - date_published: 2024-06-18T14:24:33+00:00
-
- ## Equipment & services for geophysical & measurement market
- - [http://www.leemangeophysical.com](http://www.leemangeophysical.com)
- - date_published: 2021-02-17T00:44:58+00:00
-
- ## leemeichin.com
- - [https://www.leemeichin.com](https://www.leemeichin.com)
- - date_published: 2023-11-10T01:09:18.680703+00:00
-
- ## Leena Trivedi-Grenier
- - [https://leenaeats.com](https://leenaeats.com)
- - date_published: 2024-05-08T05:01:03.781947+00:00
-
- ## https://www.leenau.com
- - [http://leenau.com](http://leenau.com)
- - date_published: 2024-02-08T16:28:51.965848+00:00
-
- ## Leenova Kitchen Equipments - CE & ISO 9001:2015 Certified Company
- - [https://www.leenovakitchenequipments.com](https://www.leenovakitchenequipments.com)
- - date_published: 2024-10-09T00:00:00+00:00
-
- ## Lee Petty
- - [https://leepetty.com](https://leepetty.com)
- - date_published: 2024-07-14T16:56:03.437715+00:00
-
- ## Lee Potts
- - [http://www.leepotts.com](http://www.leepotts.com)
- - date_published: 2024-06-24T09:52:28.079056+00:00
 

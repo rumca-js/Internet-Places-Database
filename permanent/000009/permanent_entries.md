@@ -1,3 +1,11 @@
+ ## 9Now - Watch Channel 9 Live and On Demand
+ - [https://www.9now.com.au](https://www.9now.com.au)
+ - date_published: 2024-07-12T07:50:05.843793+00:00
+
+ ## Australian Academy of Business Leadership
+ - [http://aabl.com.au](http://aabl.com.au)
+ - date_published: 2024-10-29T17:37:03.630257+00:00
+
  ## Australian Associated Press – AAP is Australia's national news agency, delivering a continuous stream of breaking news, information and photographs direct to subscribers.
  - [https://aap.com.au](https://aap.com.au)
  - date_published: 2023-10-25T11:53:09.162126+00:00
@@ -4001,12 +4009,4 @@
  ## www.kingsgate.com.au – Kingsgate is an expert in gold exploration, development and mining.
  - [https://www.kingsgate.com.au](https://www.kingsgate.com.au)
  - date_published: 2024-09-16T22:24:28.669816+00:00
-
- ## Kingston Resources Limited
- - [https://kingstonresources.com.au](https://kingstonresources.com.au)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Patronus Resources
- - [https://www.kinmining.com.au](https://www.kinmining.com.au)
- - date_published: 2024-09-16T00:00:00+00:00
 

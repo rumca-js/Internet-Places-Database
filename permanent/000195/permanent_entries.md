@@ -1,3 +1,100 @@
+ ## Better Strangers | Matt Hershberger | Substack
+ - [https://betterstrangers.substack.com](https://betterstrangers.substack.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Better things are possible | Malcolm McCracken | Substack
+ - [https://betterthingsarepossible.substack.com](https://betterthingsarepossible.substack.com)
+ - date_published: 2024-10-31T22:46:40.259224+00:00
+
+ ## Beyond Intractability | Heidi and Guy Burgess | Substack
+ - [https://beyondintractability.substack.com](https://beyondintractability.substack.com)
+ - date_published: 2024-01-05T00:00:00+00:00
+
+ ## Beyond the Peloton | Spencer Martin | Substack
+ - [https://beyondthepeloton.substack.com](https://beyondthepeloton.substack.com)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Beyond the Wizard | Erica Drayton | Substack
+ - [https://beyondthewizard.substack.com](https://beyondthewizard.substack.com)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Bibliopunk | Luis Senna | Substack
+ - [https://bibliopunk.substack.com](https://bibliopunk.substack.com)
+ - date_published: 2024-03-09T06:48:27.036350+00:00
+
+ ## The Biblioracle Recommends | John Warner | Substack
+ - [https://biblioracle.substack.com](https://biblioracle.substack.com)
+ - date_published: 2023-10-25T09:43:51.496319+00:00
+ - tags: ['substack']
+
+ ## Big Tech on Trial | Matt Stoller | Substack
+ - [https://bigtechontrial.substack.com](https://bigtechontrial.substack.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## 'I have serious news...' | Bill Gardner | Substack
+ - [https://billgardner.substack.com](https://billgardner.substack.com)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## The Crucial Years | Bill McKibben | Substack
+ - [https://billmckibben.substack.com](https://billmckibben.substack.com)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## These Foolish Games | Bill Willingham | Substack
+ - [https://billwillingham.substack.com](https://billwillingham.substack.com)
+ - date_published: 2023-10-25T09:43:54.589904+00:00
+ - tags: ['substack']
+
+ ## Premise Check | Wm. J. Beck III | Substack
+ - [https://billybeck.substack.com](https://billybeck.substack.com)
+ - date_published: 2024-10-31T22:40:17.583975+00:00
+
+ ## BioHarmony | Substack
+ - [https://bioharmony.substack.com](https://bioharmony.substack.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Bird History | Robert Francis | Substack
+ - [https://birdhistory.substack.com](https://birdhistory.substack.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Bit Byte Bit | Zarar Siddiqi | Substack
+ - [https://bitbytebit.substack.com](https://bitbytebit.substack.com)
+ - date_published: 2023-10-25T09:43:57.102966+00:00
+ - tags: ['substack']
+
+ ## Bite code! | Substack
+ - [https://bitecode.substack.com](https://bitecode.substack.com)
+ - date_published: 2023-10-25T09:44:01.792299+00:00
+ - tags: ['substack']
+
+ ## Bit Maybe Wise | Hercules Merscher | Substack
+ - [https://bitmaybewise.substack.com](https://bitmaybewise.substack.com)
+ - date_published: 2023-10-25T09:44:04.612495+00:00
+ - tags: ['substack']
+
+ ## Black Eyes: Speaking In Tongues | Substack
+ - [https://blackeyesdischord.substack.com](https://blackeyesdischord.substack.com)
+ - date_published: 2024-05-07T09:31:23.870547+00:00
+
+ ## Hacking Chronicles | Black Hat Ethical Hacking | Substack
+ - [https://blackhatethicalhacking.substack.com](https://blackhatethicalhacking.substack.com)
+ - date_published: 2024-06-22T12:51:36.482050+00:00
+
+ ## Energy Transition Absurdities | David Blackmon | Substack
+ - [https://blackmon.substack.com](https://blackmon.substack.com)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## George Blackshaw | George Blackshaw 🤘🎸🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Substack
+ - [https://blackshaw.substack.com](https://blackshaw.substack.com)
+ - date_published: 2024-06-01T04:57:27.972638+00:00
+
+ ## Black Tech Pipeline | Substack
+ - [https://blacktechpipeline.substack.com](https://blacktechpipeline.substack.com)
+ - date_published: 2024-07-11T10:53:50.922084+00:00
+
+ ## Better Writing with Blake Atwood | Substack
+ - [https://blakeatwood.substack.com](https://blakeatwood.substack.com)
+ - date_published: 2024-05-04T12:49:39.180459+00:00
+
  ## Solopreneur from $0 - $1M | Blake Harber | Substack
  - [https://blakeharber.substack.com](https://blakeharber.substack.com)
  - date_published: 2024-06-21T11:52:35.842539+00:00
@@ -3991,98 +4088,4 @@
  ## Journal of Free Black Moms | Substack
  - [https://journaloffreeblackmoms.substack.com](https://journaloffreeblackmoms.substack.com)
  - date_published: 2024-10-31T22:48:38.571033+00:00
-
- ## Joyce Carol Oates: A Writer's Journal  | Substack
- - [https://joycecaroloates.substack.com](https://joycecaroloates.substack.com)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Civil Discourse with Joyce Vance  | Substack
- - [https://joycevance.substack.com](https://joycevance.substack.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Finding Joy | Joy Lere, Psy.D. | Substack
- - [https://joylere.substack.com](https://joylere.substack.com)
- - date_published: 2023-10-25T09:56:00.200869+00:00
- - tags: ['substack']
-
- ## MP's former JPG Newsletter (soon notepad) | María Paula | Substack
- - [https://jpg100.substack.com](https://jpg100.substack.com)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Pandith’s Newsletter | Pandith Jantakahalli | Substack
- - [https://jppandith.substack.com](https://jppandith.substack.com)
- - date_published: 2024-05-06T13:33:48.114705+00:00
-
- ## Delayed Branch | Jason Rahman | Substack
- - [https://jprahman.substack.com](https://jprahman.substack.com)
- - date_published: 2024-01-09T01:41:28.615386+00:00
-
- ## Greenjack's Journal | J R Leach | Substack
- - [https://jrleach.substack.com](https://jrleach.substack.com)
- - date_published: 2024-01-14T00:00:00+00:00
-
- ## JavaScript Development Substack | JavaScript Development Space | Substack
- - [https://jsdevspace.substack.com](https://jsdevspace.substack.com)
- - date_published: 2024-09-22T00:00:00+00:00
-
- ## JSLegendDev’s Substack | Substack
- - [https://jslegenddev.substack.com](https://jslegenddev.substack.com)
- - date_published: 2024-03-02T00:00:00+00:00
-
- ## Jules' Bools | Julian Richey | Substack
- - [https://julesbools.substack.com](https://julesbools.substack.com)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Julia Fletcher Studio | Substack
- - [https://juliafletcherstudio.substack.com](https://juliafletcherstudio.substack.com)
- - date_published: 2024-10-29T13:24:42.426039+00:00
-
- ## Julian's Newsletter | Julian Christian Anderson | Substack
- - [https://juliancanderson.substack.com](https://juliancanderson.substack.com)
- - date_published: 2024-08-19T19:26:04.266468+00:00
-
- ## Homecoming | Julie Gabrielli | Substack
- - [https://juliegabrielli.substack.com](https://juliegabrielli.substack.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## On Looking | Julien Posture | Substack
- - [https://julienposture.substack.com](https://julienposture.substack.com)
- - date_published: 2024-03-30T00:00:00+00:00
-
- ## Humor Me | Julie Vick | Substack
- - [https://julievick.substack.com](https://julievick.substack.com)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## The Jungle Gym | Nick DeWilde | Substack
- - [https://junglegym.substack.com](https://junglegym.substack.com)
- - date_published: 2024-05-07T12:52:13.595878+00:00
-
- ## Teaching computers how to talk | Jurgen Gravestein | Substack
- - [https://jurgengravestein.substack.com](https://jurgengravestein.substack.com)
- - date_published: 2023-10-25T09:56:12.153586+00:00
- - tags: ['substack']
-
- ## Juri’s Engineering Blog | Juri Adam | Substack
- - [https://juriadam.substack.com](https://juriadam.substack.com)
- - date_published: 2024-11-10T16:30:59.930856+00:00
-
- ## Justifications | Fergus McCullough | Substack
- - [https://justifications.substack.com](https://justifications.substack.com)
- - date_published: 2024-05-06T16:46:05.389873+00:00
-
- ## Justin Smith-Ruiu’s Hinternet | Substack
- - [https://justinehsmith.substack.com](https://justinehsmith.substack.com)
- - date_published: 2024-01-09T01:41:31.303927+00:00
-
- ## Think Like A Game Designer  | Justin Gary | Substack
- - [https://justingarydesign.substack.com](https://justingarydesign.substack.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Extracurricular | Justin Lind | Substack
- - [https://justinlind.substack.com](https://justinlind.substack.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## The Next  | Justin Mares | Substack
- - [https://justinmares.substack.com](https://justinmares.substack.com)
- - date_published: 2024-06-11T00:00:00+00:00
 

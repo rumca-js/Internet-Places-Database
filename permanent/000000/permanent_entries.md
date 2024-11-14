@@ -192,6 +192,11 @@
  - [https://rak.ac](https://rak.ac)
  - date_published: 2024-04-05T02:18:14+00:00
 
+ ## sht.ac - Anonymous URL Shortener
+ - [https://sht.ac](https://sht.ac)
+ - date_published: 2024-11-13T14:35:46+00:00
+ - tags: ['link service']
+
  ## Scratchpad of Mathias Sablé-Meyer
  - [https://blog.s-m.ac](https://blog.s-m.ac)
  - date_published: 2021-07-08T18:52:48+00:00
@@ -4015,8 +4020,4 @@
  ## API Security | Unified API Protection
  - [https://pages.cequence.ai](https://pages.cequence.ai)
  - date_published: 2024-10-29T07:37:13.541577+00:00
-
- ## Cerebral Valley
- - [https://cerebralvalley.ai](https://cerebralvalley.ai)
- - date_published: 2024-07-23T21:18:47.618020+00:00
 

@@ -1,3 +1,7 @@
+ ## SkinTheory
+ - [https://skintheory.app](https://skintheory.app)
+ - date_published: 2023-03-05T11:03:08+00:00
+
  ## SkyFeed
  - [https://skyfeed.app](https://skyfeed.app)
  - date_published: 2024-05-02T13:43:24.763590+00:00
@@ -4015,8 +4019,4 @@
  - [https://x61.ar](https://x61.ar)
  - date_published: 2024-05-10T16:04:40.590647+00:00
  - tags: ['interesting page design', 'personal']
-
- ## 3M Ciencia. Aplicada a la vida. | 3M Argentina
- - [https://www.3m.com.ar](https://www.3m.com.ar)
- - date_published: 2024-08-06T10:39:22.718345+00:00
 

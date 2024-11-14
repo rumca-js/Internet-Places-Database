@@ -1,3 +1,115 @@
+ ## Home - New York Graduate School of Psychoanalysis
+ - [https://nygsp.bgsp.edu](https://nygsp.bgsp.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## The Office of Admissions
+ - [https://admissions.bgsu.edu](https://admissions.bgsu.edu)
+ - date_published: 2024-09-18T22:48:16+00:00
+
+ ## Bowling Green State University: #1 Student Experience in Ohio
+ - [https://bgsu.edu](https://bgsu.edu)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Bowling Green State University - Modern Campus Catalog™
+ - [https://catalog.bgsu.edu](https://catalog.bgsu.edu)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Make A Gift: Fund Search - Bowling Green State University
+ - [https://connect.bgsu.edu](https://connect.bgsu.edu)
+ - date_published: 2024-09-18T23:34:58.105982+00:00
+
+ ## Digital Gallery - BGSU University Libraries
+ - [http://digitalgallery.bgsu.edu](http://digitalgallery.bgsu.edu)
+ - date_published: 1919-04-15T00:00:00+00:00
+
+ ## Events Calendar
+ - [https://events.bgsu.edu](https://events.bgsu.edu)
+ - date_published: 2024-09-18T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://ezproxy.bgsu.edu](https://ezproxy.bgsu.edu)
+ - date_published: 2024-09-18T23:34:54.821882+00:00
+
+ ## University Libraries
+ - [https://lib.bgsu.edu](https://lib.bgsu.edu)
+ - date_published: 2024-09-18T22:47:03+00:00
+
+ ## Bowling Green State University
+ - [http://map.bgsu.edu](http://map.bgsu.edu)
+ - date_published: 2024-09-18T23:35:23.383622+00:00
+
+ ## Catalog - BGSU University Libraries
+ - [https://maurice.bgsu.edu](https://maurice.bgsu.edu)
+ - date_published: 2024-09-18T23:34:56.065215+00:00
+
+ ## Welcome - MyBGSU
+ - [https://my.bgsu.edu](https://my.bgsu.edu)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## The Henry A. Wallace Police Crime Database
+ - [https://policecrime.bgsu.edu](https://policecrime.bgsu.edu)
+ - date_published: 2024-06-20T02:38:20.283087+00:00
+
+ ## ScholarWorks@BGSU
+ - [http://scholarworks.bgsu.edu](http://scholarworks.bgsu.edu)
+ - date_published: 2024-09-18T23:35:25.515005+00:00
+
+ ## U.S. Department of the Interior | Bureau of Indian Education
+ - [https://bie.edu](https://bie.edu)
+ - date_published: 2024-09-17T00:00:00+00:00
+
+ ## Oracle Linux 7 Web Server
+ - [http://bingweb.binghamton.edu](http://bingweb.binghamton.edu)
+ - date_published: 2022-04-06T12:30:40+00:00
+
+ ## PUBLIC COMPUTING LABS | Information Technology Services | Binghamton University
+ - [http://pods.binghamton.edu](http://pods.binghamton.edu)
+ - date_published: 2024-07-09T09:25:52.494786+00:00
+
+ ## Binghamton University
+ - [https://www.binghamton.edu](https://www.binghamton.edu)
+ - date_published: 2024-08-10T22:17:38.714326+00:00
+
+ ## Computer Science | Binghamton University
+ - [https://www.cs.binghamton.edu](https://www.cs.binghamton.edu)
+ - date_published: 2024-07-19T19:33:41.892729+00:00
+
+ ## Unbound Bible Project - Biola University
+ - [http://unbound.biola.edu](http://unbound.biola.edu)
+ - date_published: 2024-07-02T09:49:41.517042+00:00
+
+ ## Bloomsburg Foundation | Bloomsburg University Foundation
+ - [https://giving.bloomu.edu](https://giving.bloomu.edu)
+ - date_published: 2024-06-04T13:03:01+00:00
+
+ ## Boise State University
+ - [https://www.boisestate.edu](https://www.boisestate.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Bowdoin Library
+ - [http://library.bowdoin.edu](http://library.bowdoin.edu)
+ - date_published: 2023-10-27T00:00:00+00:00
+
+ ## Home | Bowie State
+ - [https://www.bowiestate.edu](https://www.bowiestate.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Index
+ - [https://www.bpcc.edu](https://www.bpcc.edu)
+ - date_published: 2024-10-28T05:05:15.133649+00:00
+
+ ## Brandeis Users' Home Pages
+ - [http://people.brandeis.edu](http://people.brandeis.edu)
+ - date_published: 2021-06-01T15:28:23+00:00
+
+ ## Brandeis University
+ - [https://www.brandeis.edu](https://www.brandeis.edu)
+ - date_published: 2024-06-22T06:18:32.633489+00:00
+
+ ## Staying Ahead in an Ever-Evolving Field
+ - [http://www.cs.brandeis.edu](http://www.cs.brandeis.edu)
+ - date_published: 2024-08-19T20:54:56.593181+00:00
+
  ## MaxGuides: Maxwell Library Homepage: Home
  - [https://library.bridgew.edu](https://library.bridgew.edu)
  - date_published: 2024-06-30T01:30:19.568744+00:00
@@ -3907,116 +4019,4 @@ Mellon University
  ## Home - Institute of Behavioral Science
  - [https://behavioralscience.colorado.edu](https://behavioralscience.colorado.edu)
  - date_published: 2024-10-18T22:29:00.939041+00:00
-
- ## Federated Identity Service | University of Colorado Boulder - Loading Session Information
- - [https://buffportal.colorado.edu](https://buffportal.colorado.edu)
- - date_published: 2024-04-30T03:47:23.280588+00:00
-
- ## Events Calendar - University of Colorado Boulder
- - [https://calendar.colorado.edu](https://calendar.colorado.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Federated Identity Service | University of Colorado Boulder - Loading Session Information
- - [https://canvas.colorado.edu](https://canvas.colorado.edu)
- - date_published: 2024-04-30T03:47:32.075794+00:00
-
- ## University of Colorado Boulder < University of Colorado Boulder
- - [https://catalog.colorado.edu](https://catalog.colorado.edu)
- - date_published: 2024-04-30T03:47:28.139932+00:00
-
- ## CCAR Research Websites | CU-Boulder
- - [http://ccar.colorado.edu](http://ccar.colorado.edu)
- - date_published: 2019-02-11T21:14:41+00:00
-
- ## University of Colorado Boulder
- - [https://cdn.colorado.edu](https://cdn.colorado.edu)
- - date_published: 2024-07-20T21:33:45+00:00
-
- ## Welcome
- - [https://cires.colorado.edu](https://cires.colorado.edu)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Search Classes
- - [https://classes.colorado.edu](https://classes.colorado.edu)
- - date_published: 2024-04-30T03:47:20.966550+00:00
-
- ## College of Media, Communication and Information
- - [http://cmci.colorado.edu](http://cmci.colorado.edu)
- - date_published: 2024-07-01T19:50:06.925236+00:00
-
- ## University of Colorado Boulder
- - [https://colorado.edu](https://colorado.edu)
- - date_published: 2024-04-28T01:52:15.551326+00:00
-
- ## Search
- - [http://cusearch.colorado.edu](http://cusearch.colorado.edu)
- - date_published: 2017-10-05T20:10:38+00:00
-
- ## Home - FOCS 2021
- - [https://focs2021.cs.colorado.edu](https://focs2021.cs.colorado.edu)
- - date_published: 2024-06-30T11:15:36.326208+00:00
-
- ## Computer Science | University of Colorado Boulder
- - [https://home.cs.colorado.edu](https://home.cs.colorado.edu)
- - date_published: 2024-02-02T01:26:07+00:00
-
- ## Institute for Behavioral Genetics
- - [http://ibg.colorado.edu](http://ibg.colorado.edu)
- - date_published: 2024-08-18T12:53:03.875250+00:00
-
- ## InsideCIRES
- - [https://insidecires.colorado.edu](https://insidecires.colorado.edu)
- - date_published: 2024-07-08T11:24:18.002697+00:00
-
- ## | JILA - Exploring the Frontiers of Physics
- - [http://jila.colorado.edu](http://jila.colorado.edu)
- - date_published: 2024-08-06T10:22:40.953124+00:00
-
- ## Home
- - [http://lasp.colorado.edu](http://lasp.colorado.edu)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## Word Embedding Analysis
- - [http://lsa.colorado.edu](http://lsa.colorado.edu)
- - date_published: 2022-11-10T17:49:21+00:00
-
- ## National Education Policy Center
- - [https://nepc.colorado.edu](https://nepc.colorado.edu)
- - date_published: 2024-05-07T10:11:49.292610+00:00
-
- ## New Worlds
- - [http://newworlds.colorado.edu](http://newworlds.colorado.edu)
- - date_published: 2015-05-27T18:29:33+00:00
-
- ## CU Boulder Outreach
- - [https://outreach.colorado.edu](https://outreach.colorado.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## PhET Interactive Simulations
- - [https://phet.colorado.edu](https://phet.colorado.edu)
- - date_published: 2024-07-03T09:01:00.297430+00:00
-
- ## Police Department
- - [http://police.colorado.edu](http://police.colorado.edu)
- - date_published: 2024-07-22T06:10:06.685422+00:00
-
- ## Political Science
- - [http://polsci.colorado.edu](http://polsci.colorado.edu)
- - date_published: 2024-06-17T11:15:52.891276+00:00
-
- ## Center for Science and Technology Policy Research
- - [http://sciencepolicy.colorado.edu](http://sciencepolicy.colorado.edu)
- - date_published: 2024-07-04T08:18:02.223739+00:00
-
- ## welcome | Sea Level Research Group
- - [https://sealevel.colorado.edu](https://sealevel.colorado.edu)
- - date_published: 2024-05-08T11:33:06.437877+00:00
-
- ## Introduction | CU Boulder Web Style Guide | University of Colorado Boulder
- - [https://styleguide.colorado.edu](https://styleguide.colorado.edu)
- - date_published: 2024-01-23T00:00:00+00:00
-
- ## Admissions
- - [https://ugrad.apply.colorado.edu](https://ugrad.apply.colorado.edu)
- - date_published: 2019-07-26T14:29:33+00:00
 

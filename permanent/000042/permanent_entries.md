@@ -2521,6 +2521,10 @@
  - date_published: 2024-05-06T18:15:34.284121+00:00
  - tags: ['personal']
 
+ ## Covering the Supreme Court and the Judiciary in (Mostly) Plain English
+ - [https://amylhowe.com](https://amylhowe.com)
+ - date_published: 2024-11-13T16:27:48+00:00
+
  ## Investors | Amylyx Pharmaceuticals, Inc.
  - [https://investors.amylyx.com](https://investors.amylyx.com)
  - date_published: 2024-06-04T00:00:00+00:00
@@ -4066,8 +4070,4 @@
  ## https://andychirch.com
  - [https://andychirch.com](https://andychirch.com)
  - date_published: 2024-01-02T10:19:55.009650+00:00
-
- ## Andy Cleff - • Creative Thinker • Change Agent • Agile Pragmatist
- - [https://andycleff.com](https://andycleff.com)
- - date_published: 2023-10-25T12:41:14.237119+00:00
 

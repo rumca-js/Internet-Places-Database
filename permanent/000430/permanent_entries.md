@@ -1,3 +1,153 @@
+ ## New-Year Bible Verse
+ - [https://newyear.shelomoh.work](https://newyear.shelomoh.work)
+ - date_published: 2024-07-02T20:43:48.370622+00:00
+
+ ## Sheet2Cards
+ - [https://sheet2cards.shelomoh.work](https://sheet2cards.shelomoh.work)
+ - date_published: 2024-07-02T20:43:44.292195+00:00
+
+ ## Shelomoh Khual
+ - [https://shelomoh.work](https://shelomoh.work)
+ - date_published: 2024-05-07T23:26:10.104403+00:00
+
+ ## Lawyer-Made HR Documents  | goHeather
+ - [http://tally.work](http://tally.work)
+ - date_published: 2023-10-25T23:01:38.366632+00:00
+
+ ## Tekio
+ - [https://store.tekio.work](https://store.tekio.work)
+ - date_published: 2024-05-04T06:33:45.139917+00:00
+
+ ## tillywork
+ - [https://app.tilly.work](https://app.tilly.work)
+ - date_published: 2024-07-20T15:27:54+00:00
+
+ ## Overview | tillywork
+ - [https://docs.tilly.work](https://docs.tilly.work)
+ - date_published: 2024-06-01T16:32:38.244872+00:00
+
+ ## tillywork - Work management for all your teams
+ - [https://tilly.work](https://tilly.work)
+ - date_published: 2024-05-21T18:07:40.723542+00:00
+
+ ## Traba - Industrial Staffing Solution
+ - [https://traba.work](https://traba.work)
+ - date_published: 2024-08-08T01:04:09+00:00
+
+ ## wildflower.work
+ - [https://wildflower.work](https://wildflower.work)
+ - date_published: 2024-06-22T19:18:24.956143+00:00
+ - tags: ['personal']
+
+ ## Home — workshops.work
+ - [https://workshops.work](https://workshops.work)
+ - date_published: 2024-07-15T02:25:09+00:00
+
+ ## xmpp.work – The XMPP Job Board
+ - [https://xmpp.work](https://xmpp.work)
+ - date_published: 2024-08-18T17:28:51.844101+00:00
+
+ ## WCAG 2.2 & ADA Website Compliance Consultants: Accessibility.Works
+ - [https://www.accessibility.works](https://www.accessibility.works)
+ - date_published: 2024-09-18T15:21:55.742359+00:00
+
+ ## Afterlogic.Works | A full-stack web&app development agency
+ - [https://afterlogic.works](https://afterlogic.works)
+ - date_published: 2024-07-18T06:25:42.038729+00:00
+
+ ## Aletheia
+ - [http://aletheia.works](http://aletheia.works)
+ - date_published: 2024-10-29T14:25:23.048246+00:00
+
+ ## Alabama Transgender Rights Action Coalition
+ - [https://altrac.works](https://altrac.works)
+ - date_published: 2024-08-15T03:33:57+00:00
+
+ ## !Boring Software
+ - [https://www.andy.works](https://www.andy.works)
+ - date_published: 2024-05-25T00:00:00+00:00
+
+ ## Anvil: Web Apps with Nothing but Python
+ - [https://anvil.works](https://anvil.works)
+ - date_published: 2024-06-28T17:32:55+00:00
+
+ ## BASE2
+ - [https://base2.works](https://base2.works)
+ - date_published: 2022-06-19T00:00:00+00:00
+
+ ## Home | Betaworks
+ - [http://beta.works](http://beta.works)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Explore All Actions
+ - [https://actions.buddy.works](https://actions.buddy.works)
+ - date_published: 2024-06-16T10:10:31.085103+00:00
+
+ ## Buddy
+ - [https://app.buddy.works](https://app.buddy.works)
+ - date_published: 2024-06-16T10:10:35.299780+00:00
+
+ ## Buddy: The DevOps Automation Platform
+ - [https://buddy.works](https://buddy.works)
+ - date_published: 2024-05-01T06:27:44.588673+00:00
+
+ ## Buddy
+ - [https://cdn.buddy.works](https://cdn.buddy.works)
+ - date_published: 2024-09-30T16:22:43.918840+00:00
+
+ ## Overview | Docs
+ - [https://docs.buddy.works](https://docs.buddy.works)
+ - date_published: 2024-06-16T10:10:33.087500+00:00
+
+ ## Event server
+ - [https://es.buddy.works](https://es.buddy.works)
+ - date_published: 2024-06-16T10:10:33.939683+00:00
+
+ ## Buddy
+ - [https://eu.buddy.works](https://eu.buddy.works)
+ - date_published: 2024-06-16T10:10:36.026127+00:00
+
+ ## Buddy
+ - [https://eu-cdn.buddy.works](https://eu-cdn.buddy.works)
+ - date_published: 2024-09-30T16:22:49.741677+00:00
+
+ ## Buddy status
+ - [https://status.buddy.works](https://status.buddy.works)
+ - date_published: 2024-06-16T10:10:26.763914+00:00
+
+ ## carpet – Ein guter Grund
+ - [https://carpet.works](https://carpet.works)
+ - date_published: 2024-09-09T21:45:24.902817+00:00
+
+ ## Civic Skunk Works – Medium
+ - [http://civicskunk.works](http://civicskunk.works)
+ - date_published: 2024-07-04T05:39:05.550869+00:00
+
+ ## Omnichannel Customer Engagement Platform | Omnichannel Customer Engagement Platform
+ - [https://forms.cp.works](https://forms.cp.works)
+ - date_published: 2024-10-31T10:25:35.239943+00:00
+
+ ## Cukier.works
+ - [http://cukier.works](http://cukier.works)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## Daria
+ - [https://daria.works](https://daria.works)
+ - date_published: 2024-05-09T06:11:46.420266+00:00
+
+ ## Hi, I'm kmille
+ - [https://debugging.works](https://debugging.works)
+ - date_published: 2023-10-25T08:56:55.059280+00:00
+ - tags: ['personal']
+
+ ## Democracy Works | Democracy Works
+ - [https://www.democracy.works](https://www.democracy.works)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Déploiement et gestion d'infrastructures sous Kubernetes
+ - [https://devops.works](https://devops.works)
+ - date_published: 2023-04-25T13:42:48+00:00
+
  ## Home
  - [https://emperor.works](https://emperor.works)
  - date_published: 2024-10-19T21:51:00.704036+00:00
@@ -3903,152 +4053,4 @@ VANCOUVER BC PROGRAMMER
  ## ETHChicago
  - [https://ethchicago.xyz](https://ethchicago.xyz)
  - date_published: 2024-09-24T21:08:55.957832+00:00
-
- ## Ethereal Ventures
- - [https://ethereal.xyz](https://ethereal.xyz)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Streaming Ticket
- - [https://ethereumfilm.xyz](https://ethereumfilm.xyz)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Ethernow - Ethereum Transaction Explorer
- - [https://www.ethernow.xyz](https://www.ethernow.xyz)
- - date_published: 2024-09-19T00:41:18.686831+00:00
-
- ## .eth Leaderboard
- - [https://ethleaderboard.xyz](https://ethleaderboard.xyz)
- - date_published: 2024-08-06T07:29:36.608234+00:00
-
- ## ETHMilan 2024 – Italy's Largest ETH & Web3 Conference
- - [https://ethmilan.xyz](https://ethmilan.xyz)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Home
- - [https://ethsafari.xyz](https://ethsafari.xyz)
- - date_published: 2024-06-16T05:13:32.497556+00:00
-
- ## EthSign
- - [https://ethsign.xyz](https://ethsign.xyz)
- - date_published: 2024-07-26T06:25:45+00:00
-
- ## Euclidea - Geometric Constructions Game with Straightedge and Compass
- - [https://euclidea.xyz](https://euclidea.xyz)
- - date_published: 2024-05-07T09:29:22.290764+00:00
-
- ## Euler Labs
- - [https://euler.xyz](https://euler.xyz)
- - date_published: 2024-06-23T16:52:37.935104+00:00
-
- ## The Extramundane
- - [https://extramundane.xyz](https://extramundane.xyz)
- - date_published: 2023-11-23T00:00:00+00:00
-
- ## Eye for AI
- - [https://eyeforai.xyz](https://eyeforai.xyz)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## eyetower
- - [https://eyetower.xyz](https://eyetower.xyz)
- - date_published: 2024-05-06T15:04:04.989929+00:00
-
- ## Eyre
- - [https://eyre.xyz](https://eyre.xyz)
- - date_published: 2024-09-02T17:08:27.042856+00:00
-
- ## EZKL
- - [https://ezkl.xyz](https://ezkl.xyz)
- - date_published: 2024-09-04T12:25:25.372709+00:00
-
- ## FacilitatingXYZ: A Free Online Resource for ALL Facilitators
- - [http://www.facilitating.xyz](http://www.facilitating.xyz)
- - date_published: 2024-08-06T16:57:40.655183+00:00
-
- ## HQ | Faewulf's Basement
- - [https://faewulf.xyz](https://faewulf.xyz)
- - date_published: 2024-08-06T04:45:48.769018+00:00
-
- ## Attention Required! | Cloudflare
- - [https://fair.xyz](https://fair.xyz)
- - date_published: 2024-07-07T07:30:22.977660+00:00
-
- ## FairMath
- - [https://fairmath.xyz](https://fairmath.xyz)
- - date_published: 2024-09-23T15:25:56+00:00
-
- ## Welcome to my website.
- - [https://famfo.xyz](https://famfo.xyz)
- - date_published: 2024-06-22T08:08:04+00:00
-
- ## My Comic on Fantoons
- - [https://www.fantoons.xyz](https://www.fantoons.xyz)
- - date_published: 2023-12-05T01:27:06+00:00
-
- ## Farcaster
- - [https://docs.farcaster.xyz](https://docs.farcaster.xyz)
- - date_published: 2024-07-07T07:32:37.873590+00:00
-
- ## Farcaster
- - [https://farcaster.xyz](https://farcaster.xyz)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## FarCon 2024
- - [https://www.farcon.xyz](https://www.farcon.xyz)
- - date_published: 2024-05-02T16:16:29+00:00
-
- ## Fazley Rabbi Web Developer Portfolio
- - [https://fazleyrabbi.xyz](https://fazleyrabbi.xyz)
- - date_published: 2024-05-11T10:17:28.509790+00:00
-
- ## Factor Capital
- - [https://fc.xyz](https://fc.xyz)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## ferum
- - [https://www.ferum.xyz](https://www.ferum.xyz)
- - date_published: 2024-06-23T16:52:21.432267+00:00
-
- ## Fight for the Future
- - [https://fftf.xyz](https://fftf.xyz)
- - date_published: 2024-07-15T11:26:45.520662+00:00
-
- ## FilterBlade - PoE Filter Customizer - Finetuned for NeverSink's Filter
- - [http://beta.filterblade.xyz](http://beta.filterblade.xyz)
- - date_published: 2024-07-01T18:30:43+00:00
-
- ## FilterBlade - PoE Filter Customizer - Finetuned for NeverSink's Filter
- - [https://filterblade.xyz](https://filterblade.xyz)
- - date_published: 2024-05-08T02:09:12.132677+00:00
-
- ## Fimio App
- - [https://app.fimio.xyz](https://app.fimio.xyz)
- - date_published: 2024-10-02T23:13:32+00:00
-
- ## Fimio – Home
- - [https://fimio.xyz](https://fimio.xyz)
- - date_published: 2024-05-16T03:31:29+00:00
-
- ## Fina Money
- - [https://fina.xyz](https://fina.xyz)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Fire Eyes
- - [https://fireeyes.xyz](https://fireeyes.xyz)
- - date_published: 2023-12-12T21:22:55+00:00
-
- ## FirstBatch | Enabling Safe AGI Through Collaboration
- - [https://www.firstbatch.xyz](https://www.firstbatch.xyz)
- - date_published: 2024-09-25T12:08:39.935125+00:00
-
- ## Resume Reviewer
- - [https://www.fixmyresume.xyz](https://www.fixmyresume.xyz)
- - date_published: 2024-06-19T15:17:16+00:00
-
- ## Flag Testnet Faucet
- - [https://faucet.flagscan.xyz](https://faucet.flagscan.xyz)
- - date_published: 2024-09-23T16:41:58.574646+00:00
-
- ## Flag Mainnet  Explorer
- - [https://flagscan.xyz](https://flagscan.xyz)
- - date_published: 2024-09-24T03:05:28.326187+00:00
 

@@ -1,3 +1,137 @@
+ ## ACM Special Interest Group on Logic and Computation
+ - [https://siglog.org](https://siglog.org)
+ - date_published: 2024-08-07T17:23:24.308277+00:00
+
+ ## The Sigma Awards
+ - [https://www.sigmaawards.org](https://www.sigmaawards.org)
+ - date_published: 2024-06-22T12:52:36.745475+00:00
+
+ ## Sigma Delta Pi
+ - [https://sigmadeltapi.org](https://sigmadeltapi.org)
+ - date_published: 2024-06-30T06:22:55+00:00
+
+ ## Sigma.js
+ - [http://www.sigmajs.org](http://www.sigmajs.org)
+ - date_published: 2024-10-29T16:53:21+00:00
+
+ ## Sigma Home Page
+ - [https://www.sigmanursing.org](https://www.sigmanursing.org)
+ - date_published: 2024-08-19T18:27:41.436264+00:00
+
+ ## Home - Sigma Xi
+ - [https://community.sigmaxi.org](https://community.sigmaxi.org)
+ - date_published: 2024-10-19T03:59:51.920506+00:00
+
+ ## Your industry Internships - Sigma Xi - Intern Board
+ - [http://internships.sigmaxi.org](http://internships.sigmaxi.org)
+ - date_published: 2024-06-17T11:47:57.631431+00:00
+
+ ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
+ - [http://jobs.sigmaxi.org](http://jobs.sigmaxi.org)
+ - date_published: 2024-06-17T11:47:42.237589+00:00
+
+ ## Home
+ - [https://sigmaxi.org](https://sigmaxi.org)
+ - date_published: 2024-06-17T11:48:07.771145+00:00
+
+ ## ACM SIGMETRICS
+ - [http://sigmetrics.org](http://sigmetrics.org)
+ - date_published: 2024-08-07T17:23:08.473446+00:00
+
+ ## ACM SIGMICRO: Home
+ - [https://sigmicro.org](https://sigmicro.org)
+ - date_published: 2023-11-29T17:19:24.251668+00:00
+
+ ## ACM SIGMM Records – News for the Multimedia Community
+ - [http://records.sigmm.org](http://records.sigmm.org)
+ - date_published: 2024-09-14T08:42:16.733066+00:00
+
+ ## ACM SIGMM - the Special Interest Group on Multimedia
+ - [http://sigmm.org](http://sigmm.org)
+ - date_published: 2024-06-14T10:02:05+00:00
+
+ ## Redirecting...
+ - [https://sigmobile.org](https://sigmobile.org)
+ - date_published: 2018-10-30T21:10:33+00:00
+
+ ## The 2021 ACM SIGMOD/PODS Conference: Xi'an, Shaanxi, China - Welcome
+ - [https://2021.sigmod.org](https://2021.sigmod.org)
+ - date_published: 2024-08-11T07:40:05.241740+00:00
+
+ ## The 2022 ACM SIGMOD/PODS Conference: Philidelphia, Pennsylvania, USA - Welcome
+ - [https://2022.sigmod.org](https://2022.sigmod.org)
+ - date_published: 2024-07-01T20:04:36.323647+00:00
+
+ ## The 2023 ACM SIGMOD/PODS Conference: Seattle, Washington, USA - Welcome
+ - [http://2023.sigmod.org](http://2023.sigmod.org)
+ - date_published: 2024-07-02T13:33:20.798166+00:00
+
+ ## The 2024 ACM SIGMOD/PODS Conference: Santiago, Chile - Welcome
+ - [http://2024.sigmod.org](http://2024.sigmod.org)
+ - date_published: 2024-07-09T13:47:51.543967+00:00
+
+ ## The 2025 ACM SIGMOD/PODS Conference: Berlin, Germany - Welcome
+ - [https://2025.sigmod.org](https://2025.sigmod.org)
+ - date_published: 2024-07-09T13:48:01.748150+00:00
+
+ ## ACM SIGMOD Availability & Reproducibility Initiative
+ - [https://reproducibility.sigmod.org](https://reproducibility.sigmod.org)
+ - date_published: 2024-06-28T21:21:06+00:00
+
+ ## SIGMOD Website
+ - [https://sigmod.org](https://sigmod.org)
+ - date_published: 2024-07-01T20:06:40.765534+00:00
+
+ ## ACM SIGMOD Blog
+ - [http://wp.sigmod.org](http://wp.sigmod.org)
+ - date_published: 2024-07-09T13:48:03.982588+00:00
+
+ ## The 2014 ACM SIGMOD/PODS Conference: Snowbird, Utah, USA - Welcome
+ - [http://www.sigmod2014.org](http://www.sigmod2014.org)
+ - date_published: 2024-09-02T16:19:20.015270+00:00
+
+ ## The 2018 ACM SIGMOD/PODS Conference: Houston, TX, USA - Welcome
+ - [https://sigmod2018.org](https://sigmod2018.org)
+ - date_published: 2024-07-01T19:51:07.896162+00:00
+
+ ## SIGMOD Record – SIGMOD Record Site
+ - [https://sigmodrecord.org](https://sigmodrecord.org)
+ - date_published: 2023-10-25T22:08:28.470823+00:00
+
+ ## Signal Messenger: Speak Freely
+ - [https://signal.org](https://signal.org)
+ - date_published: 2023-10-24T20:12:52.142794+00:00
+ - tags: ['social communicator']
+
+ ## https://support.signal.org
+ - [https://support.signal.org](https://support.signal.org)
+ - date_published: 2023-11-08T23:51:03.659129+00:00
+
+ ## Local news and resources for Clevelanders by Clevelanders
+ - [https://signalcleveland.org](https://signalcleveland.org)
+ - date_published: 2024-06-21T13:17:49+00:00
+
+ ## Home
+ - [http://signalculture.org](http://signalculture.org)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Signal Foundation
+ - [https://signalfoundation.org](https://signalfoundation.org)
+ - date_published: 2024-04-23T17:25:08+00:00
+ - tags: ['activism', 'free speech', 'open source', 'organisation']
+
+ ## Signal K Server
+ - [https://demo.signalk.org](https://demo.signalk.org)
+ - date_published: 2024-08-18T18:35:08.297219+00:00
+
+ ## Signal K » Welcome
+ - [https://signalk.org](https://signalk.org)
+ - date_published: 2023-10-25T22:08:31.584869+00:00
+
+ ## IEEE Signal Processing Society (SPS) ASI – IEEE Autonomous Systems Initiative (ASI)
+ - [https://ieeeasi.signalprocessingsociety.org](https://ieeeasi.signalprocessingsociety.org)
+ - date_published: 2024-07-02T01:31:36.748138+00:00
+
  ## Home
  - [https://rc.signalprocessingsociety.org](https://rc.signalprocessingsociety.org)
  - date_published: 2024-04-26T00:00:00+00:00
@@ -3903,136 +4037,4 @@ photonics applied research.
  ## SPLASH 2017
  - [https://2017.splashcon.org](https://2017.splashcon.org)
  - date_published: 2024-06-16T21:15:19.181763+00:00
-
- ## SPLASH 2018
- - [https://2018.splashcon.org](https://2018.splashcon.org)
- - date_published: 2024-06-16T21:15:15.051496+00:00
-
- ## SPLASH 2019
- - [https://2019.splashcon.org](https://2019.splashcon.org)
- - date_published: 2024-06-16T21:15:44.745207+00:00
-
- ## SPLASH 2020
- - [https://2020.splashcon.org](https://2020.splashcon.org)
- - date_published: 2024-06-16T21:15:42.021927+00:00
-
- ## SPLASH 2021
- - [https://2021.splashcon.org](https://2021.splashcon.org)
- - date_published: 2024-06-16T21:15:47.356337+00:00
-
- ## SPLASH 2022
- - [https://2022.splashcon.org](https://2022.splashcon.org)
- - date_published: 2024-06-16T21:15:16.467619+00:00
-
- ## SPLASH 2023
- - [https://2023.splashcon.org](https://2023.splashcon.org)
- - date_published: 2024-05-07T10:16:51.185532+00:00
-
- ## SPLASH 2024
- - [https://2024.splashcon.org](https://2024.splashcon.org)
- - date_published: 2024-05-13T02:45:39.026777+00:00
-
- ## SPLASH 2025
- - [https://2025.splashcon.org](https://2025.splashcon.org)
- - date_published: 2024-10-14T16:27:24.863028+00:00
-
- ## SPLASH 2024
- - [http://splashcon.org](http://splashcon.org)
- - date_published: 2024-06-16T21:15:48.988167+00:00
-
- ## Main Page
- - [https://splatoonwiki.org](https://splatoonwiki.org)
- - date_published: 2024-05-02T21:52:53+00:00
-
- ## Southern Poverty Law Center
- - [https://secure.splcenter.org](https://secure.splcenter.org)
- - date_published: 2024-08-18T17:39:13+00:00
-
- ## Southern Poverty Law Center
- - [https://splcenter.org](https://splcenter.org)
- - date_published: 2023-10-25T22:10:28.735082+00:00
-
- ## The Splendid Table with Francis Lam
- - [https://splendidtable.org](https://splendidtable.org)
- - date_published: 2024-05-08T09:29:01.606219+00:00
-
- ## Welcome [splitbrain.org]
- - [https://splitbrain.org](https://splitbrain.org)
- - date_published: 2024-06-01T04:52:03.455639+00:00
-
- ## Splits | Financial infrastructure for onchain teams
- - [https://splits.org](https://splits.org)
- - date_published: 2024-10-10T19:26:43.040355+00:00
-
- ## Homepage + Playlists | SPNN
- - [https://spnn.org](https://spnn.org)
- - date_published: 2024-05-08T10:00:38.115398+00:00
-
- ## Spokane is Reading
- - [https://spokaneisreading.org](https://spokaneisreading.org)
- - date_published: 2024-08-11T08:44:13.960262+00:00
-
- ## Attend / Reserve - Spokane Public Library
- - [http://bookings.spokanelibrary.org](http://bookings.spokanelibrary.org)
- - date_published: 2024-08-11T08:43:47.690933+00:00
-
- ## Attend / Reserve - Spokane Public Library
- - [https://events.spokanelibrary.org](https://events.spokanelibrary.org)
- - date_published: 2024-08-11T08:44:09.655692+00:00
-
- ## Imagine the Library of the Future
- - [http://future.spokanelibrary.org](http://future.spokanelibrary.org)
- - date_published: 2022-10-20T22:36:48+00:00
-
- ## Browse Collections · Spokane Public Library
- - [https://lange.spokanelibrary.org](https://lange.spokanelibrary.org)
- - date_published: 2024-08-11T08:44:07.487507+00:00
-
- ## Spokane Public Library
- - [http://research.spokanelibrary.org](http://research.spokanelibrary.org)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Spokane Public Library
- - [https://spokanelibrary.org](https://spokanelibrary.org)
- - date_published: 2024-03-29T00:00:00+00:00
-
- ## Spokane Public Library
- - [https://wp_www2021_dev.spokanelibrary.org](https://wp_www2021_dev.spokanelibrary.org)
- - date_published: 2024-08-02T00:00:00+00:00
-
- ## Spokane Public Library Foundation – Supporting Spokane Public Libraries
- - [http://www.spokanelibraryfoundation.org](http://www.spokanelibraryfoundation.org)
- - date_published: 2024-08-11T08:43:57.121762+00:00
-
- ## Spoken Tutorial Project, IIT Bombay
- - [https://spoken-tutorial.org](https://spoken-tutorial.org)
- - date_published: 2024-09-11T17:28:25.258073+00:00
-
- ## Spondylitis Association of America - Raising Awareness of Spondyloarthritis
- - [https://spondylitis.org](https://spondylitis.org)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## SpongeBob Wiki, the SpongeBob encyclopedia
- - [https://spongebobwiki.org](https://spongebobwiki.org)
- - date_published: 2024-05-02T13:30:27.583832+00:00
-
- ## Home | Georgia Public Broadcasting
- - [https://sponsorgpb.org](https://sponsorgpb.org)
- - date_published: 2024-06-09T15:58:48+00:00
-
- ## Home | Houston Public Media
- - [http://sponsorhoustonpublicmedia.org](http://sponsorhoustonpublicmedia.org)
- - date_published: 2024-07-09T16:02:25+00:00
-
- ## Home | KCRW
- - [https://www.sponsorkcrw.org](https://www.sponsorkcrw.org)
- - date_published: 2024-05-04T09:28:16.463542+00:00
-
- ## Home | KJZZ
- - [https://www.sponsorkjzz.org](https://www.sponsorkjzz.org)
- - date_published: 2024-07-15T15:41:21+00:00
-
- ## KNKX
- - [https://sponsorknkx.org](https://sponsorknkx.org)
- - date_published: 2024-05-08T09:19:19.694835+00:00
 

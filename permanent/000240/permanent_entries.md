@@ -1,3 +1,103 @@
+ ## Výzkumný ústav veterinárního lékařství, v. v. i.
+ - [https://www.vri.cz](https://www.vri.cz)
+ - date_published: 2024-01-24T00:00:00+00:00
+
+ ## VŠB - Technická univerzita Ostrava - VŠB-TUO
+ - [https://www.vsb.cz](https://www.vsb.cz)
+ - date_published: 2024-07-15T11:33:51+00:00
+
+ ## Vědeckotechnický park profesora Lista | Vědeckotechnický park profesora Lista
+ - [http://www.vtppl.cz](http://www.vtppl.cz)
+ - date_published: 2024-09-16T00:41:06.834433+00:00
+
+ ## Ministerstvo obrany – Vojenský ústřední archiv
+ - [http://www.vuapraha.cz](http://www.vuapraha.cz)
+ - date_published: 2024-10-29T16:13:58.142587+00:00
+
+ ## VÚB, a.s., pobočka Praha
+ - [http://www.vub.cz](http://www.vub.cz)
+ - date_published: 2024-09-26T21:05:02.923430+00:00
+
+ ## Home
+ - [https://bublina.favu.vut.cz](https://bublina.favu.vut.cz)
+ - date_published: 2024-09-16T00:42:41.122858+00:00
+
+ ## Centrum sportovních aktivit
+ - [https://cesa.vut.cz](https://cesa.vut.cz)
+ - date_published: 2024-06-15T02:48:55+00:00
+
+ ## FaVU / Workshops
+ - [https://dilny.favu.vut.cz](https://dilny.favu.vut.cz)
+ - date_published: 2024-09-16T00:42:27.460181+00:00
+
+ ## DSpace Angular :: Home
+ - [https://dspace.vut.cz](https://dspace.vut.cz)
+ - date_published: 2024-07-01T10:22:16.805508+00:00
+
+ ## Fakulta výtvarných umění VUT
+ - [https://favu.vut.cz](https://favu.vut.cz)
+ - date_published: 2024-09-16T00:42:24+00:00
+
+ ## Web fakulty chemické VUT v Brně
+ - [https://fch.vut.cz](https://fch.vut.cz)
+ - date_published: 2024-09-16T00:42:50+00:00
+
+ ## Faculty of Information Technology
+ - [https://fit.vut.cz](https://fit.vut.cz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Matter FAVU
+ - [https://matter.favu.vut.cz](https://matter.favu.vut.cz)
+ - date_published: 2024-09-16T00:42:40.130418+00:00
+
+ ## Přihlásit se na stránky | E-LEARNING VUT
+ - [https://moodle.vut.cz](https://moodle.vut.cz)
+ - date_published: 2024-09-16T00:42:35.420535+00:00
+
+ ## VIDEOGRAM
+ - [https://videogram.favu.vut.cz](https://videogram.favu.vut.cz)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Vysoké učení technické v Brně
+ - [https://vut.cz](https://vut.cz)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Home | FEKT VUT
+ - [https://www.fekt.vut.cz](https://www.fekt.vut.cz)
+ - date_published: 2024-09-16T00:41:08.763782+00:00
+
+ ## Fakulta podnikatelská, VUT v Brně
+ - [https://www.fp.vut.cz](https://www.fp.vut.cz)
+ - date_published: 2024-09-16T00:46:12.515974+00:00
+
+ ## Poradenské centrum Alfons
+ - [https://alfons.vutbr.cz](https://alfons.vutbr.cz)
+ - date_published: 1990-01-01T00:00:00+00:00
+
+ ## Alumni klub
+ - [https://alumni.fbm.vutbr.cz](https://alumni.fbm.vutbr.cz)
+ - date_published: 2024-09-16T00:46:06.213038+00:00
+
+ ## Authentication Required
+ - [https://cas.fit.vutbr.cz](https://cas.fit.vutbr.cz)
+ - date_published: 1983-04-18T00:00:00+00:00
+
+ ## Citace PRO
+ - [https://citace.lib.vutbr.cz](https://citace.lib.vutbr.cz)
+ - date_published: 2024-07-01T10:22:18.708099+00:00
+
+ ## DSpace Angular :: Home
+ - [https://dspace.vutbr.cz](https://dspace.vutbr.cz)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Fakulta výtvarných umění VUT
+ - [https://favu.vutbr.cz](https://favu.vutbr.cz)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Web fakulty chemické VUT v Brně
+ - [https://fch.vutbr.cz](https://fch.vutbr.cz)
+ - date_published: 2024-06-15T02:48:37+00:00
+
  ## Home | FEKT VUT
  - [https://fekt.vutbr.cz](https://fekt.vutbr.cz)
  - date_published: 2024-05-28T00:00:00+00:00
@@ -3925,105 +4025,4 @@ web | Webarchiv.cz
  - [https://bild.de](https://bild.de)
  - date_published: 2023-10-29T18:16:15.369094+00:00
  - tags: ['german news']
-
- ## BILDplus Shop Hardware Bundle BILDplus
- - [https://bildplusshop.bild.de](https://bildplusshop.bild.de)
- - date_published: 2024-07-19T22:54:52.582037+00:00
-
- ## Bild-Bußgeldcheck - Einspruch gegen Bußgeld, Punkte und Fahrverbot
- - [https://bussgeldcheck.bild.de](https://bussgeldcheck.bild.de)
- - date_published: 2024-04-29T05:50:48.757286+00:00
-
- ## Abo Kündigung
- - [https://cancellation.prod.ps.bild.de](https://cancellation.prod.ps.bild.de)
- - date_published: 2024-04-29T05:50:19.492858+00:00
-
- ## IOAM
- - [https://data-861bbf2127.bild.de](https://data-861bbf2127.bild.de)
- - date_published: 2024-04-29T05:55:55.299127+00:00
-
- ## IOAM
- - [https://data-bb21a2f11b.bild.de](https://data-bb21a2f11b.bild.de)
- - date_published: 2024-04-29T05:49:53.409996+00:00
-
- ## BILD ePaper
- - [https://epaper.bild.de](https://epaper.bild.de)
- - date_published: 1970-01-01T00:00:00+00:00
-
- ## Online Führerscheintest
- - [https://fahrschule.bild.de](https://fahrschule.bild.de)
- - date_published: 2024-04-29T05:50:18.082942+00:00
-
- ## Fehler
- - [https://fonti.prod.ps.bild.de](https://fonti.prod.ps.bild.de)
- - date_published: 2024-07-24T03:23:28.948697+00:00
-
- ## bild slotmachine
- - [https://gluecksdreh.bild.de](https://gluecksdreh.bild.de)
- - date_published: 2024-04-29T05:50:37.598085+00:00
-
- ## Kostenlose Gutscheine für alle Top-Online-Shops - BILD
- - [https://gutscheine.bild.de](https://gutscheine.bild.de)
- - date_published: 2024-04-29T05:50:03.502164+00:00
-
- ## Fehler 404 invalid url
- - [https://hds.ak.token.bild.de](https://hds.ak.token.bild.de)
- - date_published: 2024-04-29T05:50:05.624408+00:00
-
- ## Hey_ Ihr Helfer mit KI
- - [https://hey.bild.de](https://hey.bild.de)
- - date_published: 2024-04-29T05:50:00.492442+00:00
-
- ## Der große IQ-Trainer
- - [https://iqtest.bild.de](https://iqtest.bild.de)
- - date_published: 2024-04-29T05:55:52.269493+00:00
-
- ## BILD Jobs Stellenmarkt
- - [https://jobs.bild.de](https://jobs.bild.de)
- - date_published: 2024-04-29T05:50:44.837748+00:00
-
- ## Login - oculus - Axel Springer
- - [https://marketing.bild.de](https://marketing.bild.de)
- - date_published: 2024-04-29T05:50:49.716403+00:00
-
- ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
- - [https://marktplatz.bild.de](https://marktplatz.bild.de)
- - date_published: 2024-04-29T05:50:31.050510+00:00
-
- ## Aktuelle Nachrichten | BILD.de
- - [https://m.bild.de](https://m.bild.de)
- - date_published: 2023-10-29T18:15:30.206767+00:00
- - tags: ['news']
-
- ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
- - [https://m.sportbild.bild.de](https://m.sportbild.bild.de)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
- - [https://m.sport.bild.de](https://m.sport.bild.de)
- - date_published: 2024-04-29T05:55:54.730835+00:00
-
- ## {bdeTitle}
- - [https://m.wetter.bild.de](https://m.wetter.bild.de)
- - date_published: 2024-04-29T05:50:12.924192+00:00
-
- ## Bild PLAY | Der innovative Video Feed
- - [https://play.bild.de](https://play.bild.de)
- - date_published: 2024-04-29T05:50:18.940780+00:00
-
- ## Fehler
- - [https://rosetta.prod.ps.bild.de](https://rosetta.prod.ps.bild.de)
- - date_published: 2024-04-29T05:50:22.057313+00:00
-
- ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
- - [https://shop.bild.de](https://shop.bild.de)
- - date_published: 2024-07-24T20:15:07.165079+00:00
-
- ## Kostenlose Onlinegames: Jetzt gratis online spielen
- - [https://spiele.bild.de](https://spiele.bild.de)
- - date_published: 2024-04-29T05:49:45.914739+00:00
-
- ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
- - [https://sportbild.bild.de](https://sportbild.bild.de)
- - date_published: 2024-04-28T00:00:00+00:00
 

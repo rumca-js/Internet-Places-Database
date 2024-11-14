@@ -1,3 +1,115 @@
+ ## Unsupported Web Browser
+ - [https://connect.ohsu.edu](https://connect.ohsu.edu)
+ - date_published: 2024-06-17T11:29:36.723143+00:00
+
+ ## MyChart - Login Page
+ - [https://mychartweb.ohsu.edu](https://mychartweb.ohsu.edu)
+ - date_published: 2024-06-17T11:29:38.883029+00:00
+
+ ## Home | OHSU News
+ - [https://news.ohsu.edu](https://news.ohsu.edu)
+ - date_published: 2023-10-25T18:56:26.525047+00:00
+
+ ## Oregon Health & Science University
+ - [https://o2.ohsu.edu](https://o2.ohsu.edu)
+ - date_published: 2024-06-17T11:29:46.709747+00:00
+
+ ## NetScaler AAA
+ - [https://portal.ohsu.edu](https://portal.ohsu.edu)
+ - date_published: 2024-05-07T19:51:43.285429+00:00
+
+ ## OHSU | Healing Begins with Discovery
+ - [https://www.ohsu.edu](https://www.ohsu.edu)
+ - date_published: 2024-05-07T19:51:34.427320+00:00
+
+ ## Oregon Institute of Technology
+ - [https://www.oit.edu](https://www.oit.edu)
+ - date_published: 2024-07-14T11:34:48+00:00
+
+ ## Student Accessibility Services - Oklahoma State University
+ - [https://accessibility.okstate.edu](https://accessibility.okstate.edu)
+ - date_published: 2021-08-10T21:28:06.572000+00:00
+
+ ## Office of the Bursar - Oklahoma State University
+ - [https://bursar.okstate.edu](https://bursar.okstate.edu)
+ - date_published: 2020-06-01T21:23:49.006000+00:00
+
+ ## OSU Stillwater Calendar - Oklahoma State University
+ - [https://calendar.okstate.edu](https://calendar.okstate.edu)
+ - date_published: 2016-09-26T18:40:26.650000+00:00
+
+ ## Leadership and Campus Life - Oklahoma State University
+ - [https://campuslife.okstate.edu](https://campuslife.okstate.edu)
+ - date_published: 2020-08-20T21:22:22.886000+00:00
+
+ ## CAS - Central Authentication Service Login
+ - [https://canvas.okstate.edu](https://canvas.okstate.edu)
+ - date_published: 2024-06-26T22:10:54.099198+00:00
+
+ ## Career Services - Oklahoma State University
+ - [https://careerservices.okstate.edu](https://careerservices.okstate.edu)
+ - date_published: 2024-10-27T11:37:05.157152+00:00
+
+ ## College of Arts and Sciences - Oklahoma State University
+ - [https://cas.okstate.edu](https://cas.okstate.edu)
+ - date_published: 2024-10-27T11:36:48.368277+00:00
+
+ ## University Catalog < Oklahoma State University
+ - [http://catalog.okstate.edu](http://catalog.okstate.edu)
+ - date_published: 2024-05-30T13:02:22+00:00
+
+ ## Access and Community Impact - Oklahoma State University
+ - [https://community.okstate.edu](https://community.okstate.edu)
+ - date_published: 2019-03-14T14:32:23.516000+00:00
+
+ ## Oklahoma State University Brand Portal
+ - [https://digitalassets.okstate.edu](https://digitalassets.okstate.edu)
+ - date_published: 2024-06-26T22:11:15.399097+00:00
+
+ ## OSU A&M System Online Directory
+ - [https://directory.okstate.edu](https://directory.okstate.edu)
+ - date_published: 2024-06-26T22:11:03.112948+00:00
+
+ ## Equal Opportunity - Oklahoma State University
+ - [https://eeo.okstate.edu](https://eeo.okstate.edu)
+ - date_published: 2020-03-26T13:48:20.111000+00:00
+
+ ## OSU Extension - Home - Oklahoma State University
+ - [https://extension.okstate.edu](https://extension.okstate.edu)
+ - date_published: 2019-05-22T19:18:16.131000+00:00
+
+ ## Oklahoma State University - Oklahoma State University
+ - [https://go.okstate.edu](https://go.okstate.edu)
+ - date_published: 2018-10-29T19:19:42.236000+00:00
+
+ ## Graduate College - Oklahoma State University
+ - [https://gradcollege.okstate.edu](https://gradcollege.okstate.edu)
+ - date_published: 2019-06-03T16:27:04.682000+00:00
+
+ ## Oklahoma State University Center for Health Sciences - Oklahoma State University
+ - [https://health.okstate.edu](https://health.okstate.edu)
+ - date_published: 2020-03-13T21:04:48.836000+00:00
+
+ ## Information Technology - Oklahoma State University
+ - [https://it.okstate.edu](https://it.okstate.edu)
+ - date_published: 2019-05-13T20:22:01.555000+00:00
+
+ ## Recruitment - Oklahoma State University
+ - [http://jobs.okstate.edu](http://jobs.okstate.edu)
+ - date_published: 2022-06-07T21:15:45.056000+00:00
+
+ ## Home - Oklahoma State University Library
+ - [https://library.okstate.edu](https://library.okstate.edu)
+ - date_published: 2024-06-26T22:10:48.935933+00:00
+
+ ## Oklahoma State University
+ - [https://map.okstate.edu](https://map.okstate.edu)
+ - date_published: 2024-10-27T11:37:06.917701+00:00
+
+ ## Campus Maps - Oklahoma State University
+ - [https://maps.okstate.edu](https://maps.okstate.edu)
+ - date_published: 2018-11-21T20:30:48.192000+00:00
+
  ## CAS - Central Authentication Service Login
  - [https://my.okstate.edu](https://my.okstate.edu)
  - date_published: 2024-06-26T22:10:46.109799+00:00
@@ -3894,116 +4006,4 @@
  ## Home Page | Quinnipiac University Poll
  - [https://poll.qu.edu](https://poll.qu.edu)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home
- - [https://www.rccd.edu](https://www.rccd.edu)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Find people - Public directory - Reed College
- - [https://directory.reed.edu](https://directory.reed.edu)
- - date_published: 2024-07-13T02:52:51.075897+00:00
-
- ## Events Calendar
- - [https://events.reed.edu](https://events.reed.edu)
- - date_published: 2024-07-13T02:52:59.621576+00:00
-
- ## Web Login Service
- - [https://iris.reed.edu](https://iris.reed.edu)
- - date_published: 2024-07-13T02:52:47.953333+00:00
-
- ## Staff Jobs - Human Resources - Reed College
- - [https://jobs.reed.edu](https://jobs.reed.edu)
- - date_published: 2024-07-13T02:52:53.501429+00:00
-
- ## Reed College
- - [https://reed.edu](https://reed.edu)
- - date_published: 2024-05-10T06:59:48.090653+00:00
-
- ## RDGS Home
- - [https://www.reissdavis.edu](https://www.reissdavis.edu)
- - date_published: 2024-07-20T18:06:56.958839+00:00
-
- ## Home
- - [https://access.rice.edu](https://access.rice.edu)
- - date_published: 2024-05-07T20:05:07.913628+00:00
-
- ## Rice
- - [https://admission.rice.edu](https://admission.rice.edu)
- - date_published: 2024-05-07T20:04:40.530964+00:00
-
- ## Access, Equity and Equal Opportunity (AEEO)
- - [https://aeeo.rice.edu](https://aeeo.rice.edu)
- - date_published: 2024-05-04T16:20:40+00:00
-
- ## Alumni
- - [https://alumni.rice.edu](https://alumni.rice.edu)
- - date_published: 2024-05-07T20:05:21.017192+00:00
-
- ## Ancient Mediterranean Civilizations
- - [https://amc.rice.edu](https://amc.rice.edu)
- - date_published: 2024-06-16T01:53:07+00:00
-
- ## Anthropology
- - [https://anthropology.rice.edu](https://anthropology.rice.edu)
- - date_published: 2024-06-05T20:52:57+00:00
-
- ## Access and Opportunity Portal
- - [https://aop.rice.edu](https://aop.rice.edu)
- - date_published: 2024-07-01T17:58:51.682053+00:00
-
- ## You Belong Here
- - [https://apply.business.rice.edu](https://apply.business.rice.edu)
- - date_published: 2024-07-01T17:16:44+00:00
-
- ## Architecture | Rice University
- - [https://arch.rice.edu](https://arch.rice.edu)
- - date_published: 2024-05-07T20:05:34.835835+00:00
-
- ## Art History
- - [https://arthistory.rice.edu](https://arthistory.rice.edu)
- - date_published: 2024-05-30T18:01:13+00:00
-
- ## Celebrating the Arts at Rice University | Rice Arts
- - [https://arts.rice.edu](https://arts.rice.edu)
- - date_published: 2024-05-07T20:04:58.330259+00:00
-
- ## Home
- - [https://asianstudies.rice.edu](https://asianstudies.rice.edu)
- - date_published: 2024-06-10T18:59:14+00:00
-
- ## ASPLOS 2013 | Eighteenth International Conference on Architectural Support for Programming Languages and Operating Systems, Houston, Texas, March 16-20 2013
- - [http://asplos13.rice.edu](http://asplos13.rice.edu)
- - date_published: 2024-09-13T19:13:14+00:00
-
- ## Home | Rice bikes
- - [http://bikes.rice.edu](http://bikes.rice.edu)
- - date_published: 2024-07-01T18:03:02.704338+00:00
-
- ## Rice University Biotech Launch Pad
- - [https://biotechlaunchpad.rice.edu](https://biotechlaunchpad.rice.edu)
- - date_published: 2024-07-01T17:57:36.045235+00:00
-
- ## Rice University Blogs
- - [http://blogs.rice.edu](http://blogs.rice.edu)
- - date_published: 2024-06-22T11:53:55.480961+00:00
-
- ## Boniuk Institute
- - [https://boniuk.rice.edu](https://boniuk.rice.edu)
- - date_published: 2024-06-14T03:50:36+00:00
-
- ## Brand
- - [https://brand.rice.edu](https://brand.rice.edu)
- - date_published: 2024-04-29T21:28:52+00:00
-
- ## BRIDGE
- - [https://bridge.rice.edu](https://bridge.rice.edu)
- - date_published: 2024-05-04T13:48:12+00:00
-
- ## Home
- - [https://buildingricesfuture.rice.edu](https://buildingricesfuture.rice.edu)
- - date_published: 2024-05-05T06:29:49+00:00
-
- ## You Belong Here
- - [https://business.rice.edu](https://business.rice.edu)
- - date_published: 2024-05-07T20:05:02.683503+00:00
 

@@ -1,3 +1,27 @@
+ ## RealTime Data Compression
+ - [https://fastcompression.blogspot.com](https://fastcompression.blogspot.com)
+ - date_published: 2024-06-07T14:50:34+00:00
+
+ ## Antonio Fatas on the Global Economy
+ - [http://fatasmihov.blogspot.com](http://fatasmihov.blogspot.com)
+ - date_published: 2024-02-19T08:21:40+00:00
+
+ ## BioArtGal
+ - [https://fat-emma.blogspot.com](https://fat-emma.blogspot.com)
+ - date_published: 2024-06-24T04:39:00+00:00
+
+ ## The Fat Finger Werks
+ - [http://fatfingerwerks.blogspot.com](http://fatfingerwerks.blogspot.com)
+ - date_published: 2024-08-27T11:20:28+00:00
+
+ ## Bán căn hộ chung cư giá rẻ đường Mai Chí Thọ
+ - [http://fatihaamiludin.blogspot.com](http://fatihaamiludin.blogspot.com)
+ - date_published: 2024-08-28T17:35:49+00:00
+
+ ## fat lazy painter
+ - [http://fatlazypainter.blogspot.com](http://fatlazypainter.blogspot.com)
+ - date_published: 2024-09-10T12:28:33+00:00
+
  ## Fat Man on a Keyboard
  - [http://fatmanonakeyboard.blogspot.com](http://fatmanonakeyboard.blogspot.com)
  - date_published: 2024-10-21T12:00:47.604099+00:00
@@ -3987,28 +4011,4 @@
  ## Interactive Fiction Writing Month
  - [https://ifmonth.blogspot.com](https://ifmonth.blogspot.com)
  - date_published: 2023-08-21T10:08:50+00:00
-
- ## I Folletti di Bosco Fatato
- - [https://ifollettidiboscofatato.blogspot.com](https://ifollettidiboscofatato.blogspot.com)
- - date_published: 2024-08-30T08:19:17+00:00
-
- ## ifthethunderdontgetya™³²®©
- - [http://ifthethunderdontgetya.blogspot.com](http://ifthethunderdontgetya.blogspot.com)
- - date_published: 2024-06-14T07:12:13+00:00
-
- ## MeMeMe
- - [http://ifyoucantbeatthem.blogspot.com](http://ifyoucantbeatthem.blogspot.com)
- - date_published: 2024-10-05T02:00:59+00:00
-
- ## Imperial Guard 4 The Win
- - [http://ig4tw.blogspot.com](http://ig4tw.blogspot.com)
- - date_published: 2024-09-02T07:52:48+00:00
-
- ## Ignatum
- - [http://ignatum.blogspot.com](http://ignatum.blogspot.com)
- - date_published: 2024-09-01T17:03:40+00:00
-
- ## Ignorance Without Arrogance
- - [http://ignorancewithoutarrogance.blogspot.com](http://ignorancewithoutarrogance.blogspot.com)
- - date_published: 2024-02-08T00:19:20+00:00
 

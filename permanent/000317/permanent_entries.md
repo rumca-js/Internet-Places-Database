@@ -1,3 +1,119 @@
+ ## DEV Challenge
+ - [https://www.devchallenge.it](https://www.devchallenge.it)
+ - date_published: 2024-05-14T00:00:00+00:00
+
+ ## Home | Devol
+ - [https://devol.it](https://devol.it)
+ - date_published: 2023-01-06T11:40:18+00:00
+
+ ## Uptime Kuma
+ - [https://uptime.devol.it](https://uptime.devol.it)
+ - date_published: 2024-06-23T21:18:53.162207+00:00
+
+ ## Scopri il nuovo Devoto-Oli 2024 - Devoto-Oli
+ - [https://www.devoto-oli.it](https://www.devoto-oli.it)
+ - date_published: 2024-07-02T06:24:53.936460+00:00
+
+ ## dfir it!
+ - [https://dfir.it](https://dfir.it)
+ - date_published: 2019-02-26T20:40:04+00:00
+
+ ## Dianetics: La Forza delPensiero sul Corpo
+ - [https://www.dianetics.it](https://www.dianetics.it)
+ - date_published: 2024-06-17T16:42:23.606568+00:00
+
+ ## Aeronautica Militare | Home
+ - [http://www.aeronautica.difesa.it](http://www.aeronautica.difesa.it)
+ - date_published: 2024-08-07T22:48:37.378320+00:00
+
+ ## Ministero della Difesa
+ - [https://www.difesa.it](https://www.difesa.it)
+ - date_published: 2024-06-23T21:06:05.247049+00:00
+
+ ## DigiKey
+ - [https://digikey.it](https://digikey.it)
+ - date_published: 2024-05-01T05:04:24.572230+00:00
+
+ ## DigitalSide Threat-Intel - Just another OSINT hub
+ - [https://osint.digitalside.it](https://osint.digitalside.it)
+ - date_published: 2024-09-06T00:00:00+00:00
+
+ ## DiLei
+ - [https://dilei.it](https://dilei.it)
+ - date_published: 2024-06-15T06:19:06.690130+00:00
+
+ ## - Dintec
+ - [http://www.dintec.it](http://www.dintec.it)
+ - date_published: 2024-07-14T16:10:24.456208+00:00
+
+ ## Museum of Comparative Anatomy – Bologna – Laboratorio and Department of Experimental Evolutionary Biology
+ - [http://www.dipartimentobiologia.it](http://www.dipartimentobiologia.it)
+ - date_published: 2024-06-24T09:36:59.726749+00:00
+
+ ## DiPI Online - Dizionario di Pronuncia Italiana
+ - [https://www.dipionline.it](https://www.dipionline.it)
+ - date_published: 2024-07-02T06:31:35.827499+00:00
+
+ ## Discover Trieste - Your Official Trieste City Guide
+ - [https://www.discover-trieste.it](https://www.discover-trieste.it)
+ - date_published: 2024-06-20T12:58:39.801933+00:00
+
+ ## Disney.it | Pagina ufficiale italiana del mondo Disney
+ - [https://disney.it](https://disney.it)
+ - date_published: 2024-06-16T01:51:16.503778+00:00
+
+ ## Disney TV | Disney Italia
+ - [https://tv.disney.it](https://tv.disney.it)
+ - date_published: 2024-09-20T20:45:54.195808+00:00
+
+ ## Disney TV | Disney Italia
+ - [http://video.disney.it](http://video.disney.it)
+ - date_published: 2024-06-16T02:03:04.311050+00:00
+
+ ## Disney Magic Moments – Attività, video e molto altro | Italia
+ - [https://www.disneymagicmoments.it](https://www.disneymagicmoments.it)
+ - date_published: 2024-09-20T20:46:42.462800+00:00
+
+ ## Disney Store IT | Negozio Online Dei Prodotti Disney
+ - [https://disneystore.it](https://disneystore.it)
+ - date_published: 2024-06-16T02:01:19.741245+00:00
+
+ ## Disney Store Guest Services
+ - [https://support.disneystore.it](https://support.disneystore.it)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Distretto Cyber Security
+ - [https://www.distrettocybersecurity.it](https://www.distrettocybersecurity.it)
+ - date_published: 2022-06-21T09:21:06+00:00
+
+ ## DivinBaffo | Una selezione hand-made di prodotti culinari dai migliori e-commerce italiani
+ - [https://divinbaffo.it](https://divinbaffo.it)
+ - date_published: 2024-06-26T21:21:36.170162+00:00
+
+ ## Benvenuti nel sito dell'IIS-Di Vittorio - Lattanzio  Roma
+ - [https://divittoriolattanzio.it](https://divittoriolattanzio.it)
+ - date_published: 2024-10-13T07:15:41+00:00
+
+ ## Do It Yourself - biglietti concerti, teatro, sport, cultura
+ - [https://www.diyticket.it](https://www.diyticket.it)
+ - date_published: 2024-07-10T10:35:31.770482+00:00
+
+ ## dlvr.it - #1 Social Media Automation Tool
+ - [http://dlvr.it](http://dlvr.it)
+ - date_published: 2024-06-27T03:04:17+00:00
+
+ ## DMAX.it è il sito di DMAX, canale 52 del digitale terrestre
+ - [https://dmax.it](https://dmax.it)
+ - date_published: 2024-07-17T11:15:03.958832+00:00
+
+ ## Sign in - Matomo
+ - [https://matomo.dmcultura.it](https://matomo.dmcultura.it)
+ - date_published: 2024-07-02T23:49:25.918199+00:00
+
+ ## DnaX Web Site
+ - [https://www.dnax.it](https://www.dnax.it)
+ - date_published: 2024-07-11T11:37:20+00:00
+
  ## DNV.it - When trust matters - DNV
  - [https://www.dnv.it](https://www.dnv.it)
  - date_published: 2024-09-04T15:26:24.209087+00:00
@@ -1475,6 +1591,10 @@
  ## HuffPost Italia: Notizie, ultim&apos;ora e commenti su L&apos;HuffPost
  - [https://www.huffingtonpost.it](https://www.huffingtonpost.it)
  - date_published: 2024-05-02T11:55:15.838571+00:00
+
+ ## hn security
+ - [https://security.humanativaspa.it](https://security.humanativaspa.it)
+ - date_published: 2024-11-13T10:49:20.530272+00:00
 
  ## Home - Hardware Upgrade Media Group
  - [https://www.hwmediagroup.it](https://www.hwmediagroup.it)
@@ -3899,125 +4019,4 @@
  ## Digital Safari -
  - [https://joinus.coworking.nanabianca.it](https://joinus.coworking.nanabianca.it)
  - date_published: 2024-03-20T00:00:00+00:00
-
- ## Nana Bianca | We build the future
- - [https://nanabianca.it](https://nanabianca.it)
- - date_published: 2024-06-14T15:19:33.205526+00:00
-
- ## NapoliToday
- - [https://napolitoday.it](https://napolitoday.it)
- - date_published: 2024-05-11T09:55:59.409926+00:00
-
- ## NARS Cosmetics | Store ufficiale | Makeup e trattamenti
- - [http://www.narscosmetics.it](http://www.narscosmetics.it)
- - date_published: 2024-10-29T09:02:07+00:00
-
- ## National Geographic Italia - Le bellezze della natura, i labirinti della storia e i segreti della scienza
- - [https://nationalgeographic.it](https://nationalgeographic.it)
- - date_published: 2024-05-12T06:44:30.978213+00:00
-
- ## Besuche uns im Naturmuseum Südtirol
- - [http://www.naturmuseum.it](http://www.naturmuseum.it)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - NBFC
- - [https://www.nbfc.it](https://www.nbfc.it)
- - date_published: 2024-10-18T19:23:47.686296+00:00
-
- ## Needleye | Reshaping biopsy and needle-based therapy
- - [https://www.needleye.it](https://www.needleye.it)
- - date_published: 2024-10-28T23:46:44.764460+00:00
-
- ## Nestlé: Good food, Good life
- - [http://www.nestle.it](http://www.nestle.it)
- - date_published: 2024-09-14T20:12:35+00:00
-
- ## Homepage - Netalia
- - [https://www.netalia.it](https://www.netalia.it)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## NeT-ArT: Portale d'arte internazionale - International art resource
- - [http://www.net-art.it](http://www.net-art.it)
- - date_published: 2024-06-24T09:16:56.943756+00:00
-
- ## Centralino, email, hotspot e cloud aziendale | Nethesis.it
- - [https://nethesis.it](https://nethesis.it)
- - date_published: 2024-06-16T02:50:34.288304+00:00
-
- ## NethShop
- - [https://nethshop.nethesis.it](https://nethshop.nethesis.it)
- - date_published: 2024-09-21T22:44:09.300569+00:00
-
- ## IT-Sicherheit ~ Zwei Faktor Authentisierung ~ Verschlüsselung
- - [https://netknights.it](https://netknights.it)
- - date_published: 2024-06-24T10:56:06+00:00
-
- ## Neural | Critical digital culture and media arts · Since 1993
- - [http://neural.it](http://neural.it)
- - date_published: 2024-08-19T17:11:24.330212+00:00
-
- ## Never Settle | Denver’s Best Digital Marketing Agency
- - [https://neversettle.it](https://neversettle.it)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## New Era Publications International ApS
- - [https://newerapublications.it](https://newerapublications.it)
- - date_published: 2024-06-06T19:42:28.239169+00:00
-
- ## New Italian Books — Explore Italian Publishing, Language, and Culture Worldwide
- - [https://www.newitalianbooks.it](https://www.newitalianbooks.it)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Web agency modena - siti internet modena - NewLogic S.r.l.
- - [http://www.newlogic.it](http://www.newlogic.it)
- - date_published: 2024-07-09T13:06:05.068006+00:00
-
- ## Login  - Newradio S.R.L. - MediaCP
- - [http://nr12.newradio.it](http://nr12.newradio.it)
- - date_published: 2024-08-11T20:04:46.770792+00:00
-
- ## Login  - Newradio S.r.l. - MediaCP
- - [https://nrf1.newradio.it](https://nrf1.newradio.it)
- - date_published: 2024-10-14T22:22:29.102111+00:00
-
- ## Newsonline Advertising - Concessionaria Digital ADV e Network Editoriale
- - [https://www.newsonline.it](https://www.newsonline.it)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Tutto dal mondo tech: notizie, test, guide, video e altro
- - [https://www.nextpit.it](https://www.nextpit.it)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Ricerca e Alta Tecnologia per il domani: yachting, living, IT, Telecomunicazioni
- - [http://www.nextworks.it](http://www.nextworks.it)
- - date_published: 2024-07-07T04:38:36+00:00
-
- ## Home - NHAZCA | Natural HAZards Control and Assessment
- - [https://nhazca.it](https://nhazca.it)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Nickelodeon Italia
- - [https://www.nicktv.it](https://www.nicktv.it)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Nicola Losito
- - [https://nicolalosito.it](https://nicolalosito.it)
- - date_published: 2024-06-21T22:18:32.909546+00:00
-
- ## Nifty Naples
- - [https://niftynaples.it](https://niftynaples.it)
- - date_published: 2024-09-24T11:18:06.447279+00:00
-
- ## ① Nine Casino ᐉ sito ufficiale, giocare online gratuitamente
- - [https://ninecasinos.it](https://ninecasinos.it)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Sito ufficiale di Nintendo Italia
- - [https://www.nintendo.it](https://www.nintendo.it)
- - date_published: 2024-05-06T15:46:30.990088+00:00
-
- ## nitter.it
- - [http://nitter.it](http://nitter.it)
- - date_published: 2023-11-22T06:56:02+00:00
- - tags: ['twitter', 'x']
 

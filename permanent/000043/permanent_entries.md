@@ -1,3 +1,7 @@
+ ## Andy Cleff - • Creative Thinker • Change Agent • Agile Pragmatist
+ - [https://andycleff.com](https://andycleff.com)
+ - date_published: 2023-10-25T12:41:14.237119+00:00
+
  ## Andy Croll
  - [http://andycroll.com](http://andycroll.com)
  - date_published: 2024-07-23T21:35:18.598067+00:00
@@ -936,6 +940,10 @@
  ## The Anime Fanlistings Network | Uniting Fans
  - [https://animefanlistings.com](https://animefanlistings.com)
  - date_published: 2024-07-12T16:40:36.085283+00:00
+
+ ## Anime Feminist - Japanese pop culture through a feminist lens
+ - [https://www.animefeminist.com](https://www.animefeminist.com)
+ - date_published: 2024-11-13T19:55:13.229304+00:00
 
  ## Anime Filler Guide
  - [https://www.animefillerguide.com](https://www.animefillerguide.com)
@@ -4045,13 +4053,5 @@
 
  ## Online Nonprofit & Church Software | Aplos
  - [https://app.staging.aplos.com](https://app.staging.aplos.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## aplosstatus Status
- - [https://status.aplos.com](https://status.aplos.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Online Nonprofit & Church Software | Aplos
- - [https://www.koinos.aplos.com](https://www.koinos.aplos.com)
  - date_published: 2024-09-11T00:00:00+00:00
 

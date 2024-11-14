@@ -1,3 +1,7 @@
+ ## Cerebral Valley
+ - [https://cerebralvalley.ai](https://cerebralvalley.ai)
+ - date_published: 2024-07-23T21:18:47.618020+00:00
+
  ## cerebralvalley #02-general-community-chat
  - [https://linen.cerebralvalley.ai](https://linen.cerebralvalley.ai)
  - date_published: 2024-04-29T07:59:14.238351+00:00
@@ -4007,8 +4011,4 @@ Welcome
  ## Idea Validator • Informly • Validate your Business Idea instantly. Powered with AI.
  - [https://validator.informly.ai](https://validator.informly.ai)
  - date_published: 2024-06-14T08:51:46.429014+00:00
-
- ## Home - Inkdrop
- - [https://inkdrop.ai](https://inkdrop.ai)
- - date_published: 2024-01-22T16:24:51+00:00
 

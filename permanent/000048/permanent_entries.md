@@ -1,3 +1,19 @@
+ ## Find And Compare Open Source Projects
+ - [https://awesomeopensource.com](https://awesomeopensource.com)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Awesome Python
+ - [https://awesome-python.com](https://awesome-python.com)
+ - date_published: 2021-02-04T06:08:18+00:00
+
+ ## Awesome Screenshot -- Screen recorder and Screen capture
+ - [https://awesomescreenshot.com](https://awesomescreenshot.com)
+ - date_published: 2022-11-30T00:00:00+00:00
+
+ ## Awesome Screenshot Blog
+ - [https://blog.awesomescreenshot.com](https://blog.awesomescreenshot.com)
+ - date_published: 2024-08-19T00:00:00+00:00
+
  ## Awesome Screenshot -- Screen recorder and Screen capture
  - [https://resource.awesomescreenshot.com](https://resource.awesomescreenshot.com)
  - date_published: 2022-11-30T00:00:00+00:00
@@ -4010,20 +4026,4 @@
  ## BambooHR: The Complete HR Software for People, Payroll & Benefits
  - [https://virginred.bamboohr.com](https://virginred.bamboohr.com)
  - date_published: 2024-10-15T16:20:44+00:00
-
- ## Virtuozzo - Sign In
- - [https://virtuozzo.bamboohr.com](https://virtuozzo.bamboohr.com)
- - date_published: 2024-09-09T20:14:14.852994+00:00
-
- ## Sign in to your account
- - [https://watchtowr.bamboohr.com](https://watchtowr.bamboohr.com)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Login – Web 3.0 Technologies Foundation
- - [https://web3.bamboohr.com](https://web3.bamboohr.com)
- - date_published: 2024-10-11T21:59:17.445049+00:00
-
- ## Login – Westeck Windows & Doors
- - [https://westeckwindows2021.bamboohr.com](https://westeckwindows2021.bamboohr.com)
- - date_published: 2024-07-21T09:26:27.334333+00:00
 

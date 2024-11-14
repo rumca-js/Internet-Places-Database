@@ -1,3 +1,27 @@
+ ## Strategic Legal Technology
+ - [http://prismlegal.blogspot.com](http://prismlegal.blogspot.com)
+ - date_published: 2024-03-14T00:14:37+00:00
+
+ ## BEN'S PRISON BLOG - Lifer On The Loose
+ - [http://prisonerben.blogspot.com](http://prisonerben.blogspot.com)
+ - date_published: 2024-10-21T13:55:10.047877+00:00
+
+ ## Blogger
+ - [http://prisonerofstarvation.blogspot.com](http://prisonerofstarvation.blogspot.com)
+ - date_published: 2024-06-18T11:23:43.185268+00:00
+
+ ## Privacy Log
+ - [https://privacylog.blogspot.com](https://privacylog.blogspot.com)
+ - date_published: 2024-06-15T06:00:52+00:00
+
+ ## Process Algebra Diary
+ - [http://processalgebra.blogspot.com](http://processalgebra.blogspot.com)
+ - date_published: 2024-06-20T17:50:04+00:00
+
+ ## Procedural World
+ - [https://procworld.blogspot.com](https://procworld.blogspot.com)
+ - date_published: 2024-06-11T04:18:09+00:00
+
  ## Blogger
  - [http://prodicus.blogspot.com](http://prodicus.blogspot.com)
  - date_published: 2024-10-21T15:52:38.082798+00:00
@@ -3987,29 +4011,4 @@
  ## Blogger
  - [http://skangerland.blogspot.com](http://skangerland.blogspot.com)
  - date_published: 2024-10-21T13:58:42.305012+00:00
-
- ## The Ward Save
- - [http://skanwy.blogspot.com](http://skanwy.blogspot.com)
- - date_published: 2024-09-02T07:31:10+00:00
-
- ## Skarsnik And Old Lead
- - [https://skarsnikandoldlead.blogspot.com](https://skarsnikandoldlead.blogspot.com)
- - date_published: 2024-05-17T22:20:00+00:00
- - tags: ['miniatures']
-
- ## by: Brandon, the Random Man
- - [http://skattagun.blogspot.com](http://skattagun.blogspot.com)
- - date_published: 2024-03-05T08:42:13+00:00
-
- ## Circular Reasoning
- - [http://skepticscircle.blogspot.com](http://skepticscircle.blogspot.com)
- - date_published: 2024-03-13T11:57:04+00:00
-
- ## Skeptic's Play
- - [http://skepticsplay.blogspot.com](http://skepticsplay.blogspot.com)
- - date_published: 2024-03-14T07:21:47+00:00
-
- ## Skeptic Wonder
- - [http://skepticwonder.blogspot.com](http://skepticwonder.blogspot.com)
- - date_published: 2024-10-19T05:04:11.176335+00:00
 

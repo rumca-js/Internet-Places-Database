@@ -1,3 +1,15 @@
+ ## Atwood Magazine: For the Love of Music
+ - [https://atwoodmagazine.com](https://atwoodmagazine.com)
+ - date_published: 2024-07-03T23:05:05.036519+00:00
+
+ ## Home
+ - [https://atxfestival.com](https://atxfestival.com)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## ATX Game Makers
+ - [https://www.atxgamemakers.com](https://www.atxgamemakers.com)
+ - date_published: 2023-02-13T17:53:31+00:00
+
  ## Home - ATX TV
  - [https://atxtv.com](https://atxtv.com)
  - date_published: 2024-02-14T00:00:00+00:00
@@ -595,6 +607,10 @@
  ## Audio Valentine
  - [https://social.audiovalentine.com](https://social.audiovalentine.com)
  - date_published: 2024-07-02T19:35:49.050481+00:00
+
+ ## AudiowaveAI - Convert text to audiobook quality sound
+ - [https://www.audiowaveai.com](https://www.audiowaveai.com)
+ - date_published: 2024-11-13T16:36:12.650301+00:00
 
  ## Luxury Sedans, SUVs, Electric Vehicles & More | Audi Qatar
  - [https://www.audi-qatar.com](https://www.audi-qatar.com)
@@ -1855,7 +1871,7 @@
  ## Autodesk empowers innovators everywhere to make the new possible
  - [https://autodesk.com](https://autodesk.com)
  - date_published: 2024-04-10T03:59:42+00:00
- - tags: ['cad', 'autocad', 'fusion', 'company']
+ - tags: ['fusion', '3ds max', 'cad', 'autocad', 'company']
 
  ## Autodesk Feedback Community
  - [https://beta.autodesk.com](https://beta.autodesk.com)
@@ -4020,20 +4036,4 @@
  - [http://www.awesomenauts.com](http://www.awesomenauts.com)
  - date_published: 2024-06-20T08:19:05.655614+00:00
  - tags: ['video game', 'moba']
-
- ## Find And Compare Open Source Projects
- - [https://awesomeopensource.com](https://awesomeopensource.com)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Awesome Python
- - [https://awesome-python.com](https://awesome-python.com)
- - date_published: 2021-02-04T06:08:18+00:00
-
- ## Awesome Screenshot -- Screen recorder and Screen capture
- - [https://awesomescreenshot.com](https://awesomescreenshot.com)
- - date_published: 2022-11-30T00:00:00+00:00
-
- ## Awesome Screenshot Blog
- - [https://blog.awesomescreenshot.com](https://blog.awesomescreenshot.com)
- - date_published: 2024-08-19T00:00:00+00:00
 

@@ -1,3 +1,103 @@
+ ## Das Telefonbuch >> Mehr als Adressen und Telefonnummern!
+ - [https://www.dastelefonbuch.de](https://www.dastelefonbuch.de)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## DAT Karriere
+ - [https://career.dat.de](https://career.dat.de)
+ - date_published: 2024-08-11T04:06:18.287376+00:00
+
+ ## DE
+ - [https://dat.de](https://dat.de)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## DAT Report
+ - [https://report.dat.de](https://report.dat.de)
+ - date_published: 2024-07-11T14:38:27.414704+00:00
+
+ ## data2day 2024– Die Konferenz für Data Scientists, Data Engineers und Data Teams
+ - [https://www.data2day.de](https://www.data2day.de)
+ - date_published: 2024-07-24T07:16:56.193623+00:00
+
+ ## data:unplugged am 07.03.2024!
+ - [https://www.data-unplugged.de](https://www.data-unplugged.de)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Datawrapper Academy
+ - [https://academy.datawrapper.de](https://academy.datawrapper.de)
+ - date_published: 2024-04-29T06:02:07.790040+00:00
+
+ ## Datawrapper
+ - [https://app.datawrapper.de](https://app.datawrapper.de)
+ - date_published: 2024-04-29T06:02:06.409109+00:00
+
+ ## Datawrapper Blog
+ - [https://blog.datawrapper.de](https://blog.datawrapper.de)
+ - date_published: 2023-10-25T18:29:23.861867+00:00
+
+ ## Datawrapper: Create charts, maps, and tables
+ - [https://datawrapper.de](https://datawrapper.de)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Getting Started
+ - [https://developer.datawrapper.de](https://developer.datawrapper.de)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://pwk.datawrapper.de](https://pwk.datawrapper.de)
+ - date_published: 2024-04-29T06:02:05.528406+00:00
+
+ ## Datawrapper River
+ - [https://river.datawrapper.de](https://river.datawrapper.de)
+ - date_published: 2024-04-29T06:02:18.985375+00:00
+
+ ## Blogless — Writing Articles online without a Blog
+ - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
+ - date_published: 2021-09-23T22:00:00+00:00
+
+ ## datenbrei.de
+ - [http://datenbrei.de](http://datenbrei.de)
+ - date_published: 2024-07-24T07:56:14.199348+00:00
+
+ ## Martin DÃ¶ring
+ - [https://martin.datenbrei.de](https://martin.datenbrei.de)
+ - date_published: 2024-04-29T06:02:26.813129+00:00
+
+ ## mobiki — the mobile first wiki
+ - [http://mobiki.datenbrei.de](http://mobiki.datenbrei.de)
+ - date_published: 2017-02-01T00:00:00+00:00
+
+ ## Reisen
+ - [http://reisen.datenbrei.de](http://reisen.datenbrei.de)
+ - date_published: 2017-01-02T00:00:00+00:00
+
+ ## Aram Bartholl
+ - [http://datenform.de](http://datenform.de)
+ - date_published: 2024-07-13T16:14:49.729681+00:00
+
+ ## Home - Software für Hochschulen | Datenlotsen Informationssysteme GmbH
+ - [http://www.datenlotsen.de](http://www.datenlotsen.de)
+ - date_published: 2024-10-22T05:20:17.054305+00:00
+
+ ## Startseite - Berliner Beauftragte für Datenschutz und Informationsfreiheit
+ - [https://www.datenschutz-berlin.de](https://www.datenschutz-berlin.de)
+ - date_published: 2024-06-23T11:48:24.147849+00:00
+
+ ## Datenschutzerklärung Generator - kostenlos & DSGVO sicher
+ - [https://datenschutz-generator.de](https://datenschutz-generator.de)
+ - date_published: 2024-02-22T00:00:00+00:00
+
+ ## datensicherheit.de - Informationen zu Datensicherheit und Datenschutz
+ - [https://www.datensicherheit.de](https://www.datensicherheit.de)
+ - date_published: 2024-09-27T00:00:00+00:00
+
+ ## Datenspuren 2024
+ - [https://datenspuren.de](https://datenspuren.de)
+ - date_published: 2024-04-29T05:57:59.049558+00:00
+
+ ## Home
+ - [https://dateo-software.de](https://dateo-software.de)
+ - date_published: 2024-06-18T06:03:57.515516+00:00
+
  ## Daumenkinographie Volker Gerling
  - [https://www.daumenkinographie.de](https://www.daumenkinographie.de)
  - date_published: 2018-06-11T12:29:54+00:00
@@ -3914,104 +4014,4 @@ Heinsohn
  ## Flüstertüte Marketing für kleine Unternehmen und Selbstständige
  - [https://fluestertuete-marketing.de](https://fluestertuete-marketing.de)
  - date_published: 2021-02-09T00:00:00+00:00
-
- ## FLUG REVUE - Aktuelles aus der Luftfahrt-Branche
- - [http://www.flugrevue.de](http://www.flugrevue.de)
- - date_published: 2024-07-09T21:50:59.339938+00:00
-
- ## FluxFM
- - [https://www.fluxfm.de](https://www.fluxfm.de)
- - date_published: 2024-06-22T13:11:25.002905+00:00
-
- ## Cutting Edge Software for the Enterprise
- - [https://www.flyingdog.de](https://www.flyingdog.de)
- - date_published: 2024-06-19T19:27:39.168641+00:00
-
- ## Informationen zur Fachschaft - Fachschaft Mathe/Info
- - [http://www.fmi-wuerzburg.de](http://www.fmi-wuerzburg.de)
- - date_published: 2024-06-26T22:12:51.506323+00:00
-
- ## Home - FMX | EN
- - [https://fmx.de](https://fmx.de)
- - date_published: 2024-04-29T06:29:59.809601+00:00
-
- ## freenet.de Partnersuche: Deutschlands erfolgreiche Partnerbörse
- - [https://partnersuche.fn.de](https://partnersuche.fn.de)
- - date_published: 2024-06-16T10:12:11.432129+00:00
-
- ## fnordig.de
- - [https://fnordig.de](https://fnordig.de)
- - date_published: 2024-06-04T21:33:18+00:00
-
- ## Redis RDB
- - [https://rdb.fnordig.de](https://rdb.fnordig.de)
- - date_published: 2015-09-21T19:04:30+00:00
-
- ## Fnordon
- - [https://fnordon.de](https://fnordon.de)
- - date_published: 2024-05-09T07:50:38.936097+00:00
-
- ## Fnordon Status
- - [https://status.fnordon.de](https://status.fnordon.de)
- - date_published: 2024-07-10T07:04:54.625643+00:00
-
- ## Regionale Nachrichten aus Frankfurt, Rhein-Main und Hessen | fnp.de
- - [https://www.fnp.de](https://www.fnp.de)
- - date_published: 2024-07-24T07:40:59.710741+00:00
-
- ## Aktuelle Nachrichten aus Tauberbischofsheim und der Region - Fränkische Nachrichten
- - [https://www.fnweb.de](https://www.fnweb.de)
- - date_published: 2024-07-24T04:00:00+00:00
-
- ## FOCUS online - Nachrichten
- - [https://amp.focus.de](https://amp.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Focus Online
- - [https://article.focus.de](https://article.focus.de)
- - date_published: 2024-09-18T17:35:31.696868+00:00
-
- ## contentpass
- - [https://cp.focus.de](https://cp.focus.de)
- - date_published: 2024-09-18T17:34:27.776684+00:00
-
- ## IOAM
- - [https://data-1818d50639.focus.de](https://data-1818d50639.focus.de)
- - date_published: 2024-01-17T09:13:53+00:00
-
- ## ETF-Sparplan-Vergleich 2024: Empfehlungen + Tests | FOCUS
- - [https://etf-sparplan.focus.de](https://etf-sparplan.focus.de)
- - date_published: 2024-09-18T17:35:33.272372+00:00
-
- ## Festgeld-Vergleich 09/2024 | Beste Zinsen fürs Festgeldkonto | FOCUS
- - [https://festgeld.focus.de](https://festgeld.focus.de)
- - date_published: 2024-09-18T17:35:02.484835+00:00
-
- ## FOCUS online - Nachrichten
- - [https://focus.de](https://focus.de)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## Kostenlose Online Spiele: Jetzt spielen | FOCUS.de
- - [https://games.focus.de](https://games.focus.de)
- - date_published: 2024-09-18T17:34:45.105504+00:00
-
- ## Girokonto-Vergleich 2024: Bestes Konto finden | FOCUS
- - [https://girokonto.focus.de](https://girokonto.focus.de)
- - date_published: 2024-09-18T17:34:40.271363+00:00
-
- ## FOCUS Online Gutscheine - Ihr Partner für Gutscheine & Rabatte
- - [https://gutscheine.focus.de](https://gutscheine.focus.de)
- - date_published: 2024-09-18T17:35:24.276631+00:00
-
- ## FOCUS Online
- - [https://kreditkarte.focus.de](https://kreditkarte.focus.de)
- - date_published: 2024-09-18T17:34:43.175084+00:00
-
- ## Jetzt online kündigen mit aboalarm & FOCUS Online
- - [https://kuendigen.focus.de](https://kuendigen.focus.de)
- - date_published: 2024-09-18T17:35:49.531818+00:00
-
- ## FOCUS online - Nachrichten
- - [https://m.focus.de](https://m.focus.de)
- - date_published: 2024-09-18T00:00:00+00:00
 

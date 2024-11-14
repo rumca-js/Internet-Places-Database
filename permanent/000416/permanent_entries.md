@@ -1,3 +1,151 @@
+ ## DIŞ KAYNAKLI PROJE TAKİP SİSTEMİ
+ - [https://form.sivas.edu.tr](https://form.sivas.edu.tr)
+ - date_published: 2024-06-17T16:08:48.198500+00:00
+
+ ## Genel Sekreterlik - Anasayfa
+ - [https://genelsekreterlik.sivas.edu.tr](https://genelsekreterlik.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:05.906720+00:00
+
+ ## Havacılık ve Uzay Bilimleri Fakültesi
+ - [https://havacilik.sivas.edu.tr](https://havacilik.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:26.025272+00:00
+
+ ## AMASMA - Anasayfa
+ - [http://hukukm.sivas.edu.tr](http://hukukm.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:28.785509+00:00
+
+ ## İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://imid.sivas.edu.tr](http://imid.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:18.150062+00:00
+
+ ## Kalite Koordinatörlüğü - Anasayfa
+ - [https://kalite.sivas.edu.tr](https://kalite.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:01.531008+00:00
+
+ ## Kampüs Kart
+ - [https://kampuskart.sivas.edu.tr](https://kampuskart.sivas.edu.tr)
+ - date_published: 1980-01-01T00:00:00+00:00
+
+ ## Kariyer Merkezi - Anasayfa
+ - [https://kariyer.sivas.edu.tr](https://kariyer.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:14.392298+00:00
+
+ ## Kütüphane ve Dokümantasyon Daire Başkanlığı - Anasayfa
+ - [http://kutuphane.sivas.edu.tr](http://kutuphane.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:41.146967+00:00
+
+ ## LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ - Anasayfa
+ - [http://lee.sivas.edu.tr](http://lee.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:16.445597+00:00
+
+ ## SBTÜ LMS
+ - [https://lms.sivas.edu.tr](https://lms.sivas.edu.tr)
+ - date_published: 2024-10-19T16:59:15.525770+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://mail.sivas.edu.tr](https://mail.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:11.347839+00:00
+
+ ## Mühendislik ve Doğa Bilimleri Fakültesi
+ - [https://muhendislik.sivas.edu.tr](https://muhendislik.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:09.437419+00:00
+
+ ## ORTAK DERSLER BÖLÜM BAŞKANLIĞI - Anasayfa
+ - [https://odb.sivas.edu.tr](https://odb.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:44.823060+00:00
+
+ ## Öğrenci İşleri Daire Başkanlığı - Anasayfa
+ - [http://oidb.sivas.edu.tr](http://oidb.sivas.edu.tr)
+ - date_published: 2024-06-17T16:06:02.941754+00:00
+
+ ## PERSONEL DAİRE BAŞKANLIĞI - Anasayfa
+ - [https://personel.sivas.edu.tr](https://personel.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:03.007416+00:00
+
+ ## Anasayfa
+ - [https://sem.sivas.edu.tr](https://sem.sivas.edu.tr)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Anasayfa
+ - [https://sivas.edu.tr](https://sivas.edu.tr)
+ - date_published: 2024-05-02T10:28:58.209897+00:00
+
+ ## SBTU | Sivas TTO
+ - [https://sivastto.sivas.edu.tr](https://sivastto.sivas.edu.tr)
+ - date_published: 2024-10-19T16:12:28.104521+00:00
+
+ ## SAĞLIK, KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://sks.sivas.edu.tr](http://sks.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:27.844943+00:00
+
+ ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Sivas Bim ve Teknoloji Üniversitesi Aktif Cihaz ve Hat Kullanım İstati
+ - [http://stat.sivas.edu.tr](http://stat.sivas.edu.tr)
+ - date_published: 2024-10-19T17:07:48.190501+00:00
+
+ ## Strateji Geliştirme Daire Başkanlığı - Anasayfa
+ - [http://strateji.sivas.edu.tr](http://strateji.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:43.819168+00:00
+
+ ## Prospective Student - SBTÜ
+ - [https://student.sivas.edu.tr](https://student.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:11.241635+00:00
+
+ ## Sivas Bilim ve Teknoloji Üniversitesi
+ - [https://ubys.sivas.edu.tr](https://ubys.sivas.edu.tr)
+ - date_published: 2024-05-02T10:29:15.433716+00:00
+
+ ## Uzaktan Eğitim Uygulama ve Araştırma Merkezi - Anasayfa
+ - [https://uzem.sivas.edu.tr](https://uzem.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:22.690726+00:00
+
+ ## YAPI İŞLERİ TEKNİK DAİRE BAŞKANLIĞI - Anasayfa
+ - [http://yapi.sivas.edu.tr](http://yapi.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:24.545872+00:00
+
+ ## YABANCI DÄ°LLER YĂśKSEKOKULU - Anasayfa
+ - [https://ydyo.sivas.edu.tr](https://ydyo.sivas.edu.tr)
+ - date_published: 2022-01-01T00:00:00+00:00
+
+ ## SBTU | Yeşil Kampüs
+ - [https://yesilkampus.sivas.edu.tr](https://yesilkampus.sivas.edu.tr)
+ - date_published: 2024-10-19T16:12:11.599914+00:00
+
+ ## Tarım Bilimleri ve Teknolojileri Fakültesi
+ - [http://ziraat.sivas.edu.tr](http://ziraat.sivas.edu.tr)
+ - date_published: 2024-06-17T16:05:47.673988+00:00
+
+ ## Trakya Üniversitesi Merkez Kütüphanesi
+ - [https://katalog.trakya.edu.tr](https://katalog.trakya.edu.tr)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Trakya Üniversitesi Rektörlüğü
+ - [http://www.trakya.edu.tr](http://www.trakya.edu.tr)
+ - date_published: 2024-06-24T09:53:38.555820+00:00
+
+ ## nobel.gen.tr
+ - [http://www.nobel.gen.tr](http://www.nobel.gen.tr)
+ - date_published: 2024-10-29T17:19:18.766038+00:00
+
+ ## Türkiye Cumhuriyeti Adalet Bakanlığı
+ - [http://www.adalet.gov.tr](http://www.adalet.gov.tr)
+ - date_published: 2024-10-19T14:58:52.490226+00:00
+
+ ## Adapazarı Kaymakamlığı
+ - [http://www.adapazari.gov.tr](http://www.adapazari.gov.tr)
+ - date_published: 2024-10-19T14:52:23.796115+00:00
+
+ ## T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı
+ - [https://www.afad.gov.tr](https://www.afad.gov.tr)
+ - date_published: 2024-09-19T19:52:11+00:00
+
+ ## T.C. Aile ve Sosyal Hizmetler Bakanlığı
+ - [https://aile.gov.tr](https://aile.gov.tr)
+ - date_published: 2024-10-19T12:38:37.118517+00:00
+
+ ## AİLEM Engelsiz İletişim Merkezi
+ - [https://ailemtid.aile.gov.tr](https://ailemtid.aile.gov.tr)
+ - date_published: 2024-10-19T12:37:57.267571+00:00
+
  ## Anasayfa - Alo 176
  - [http://www.alo176.gov.tr](http://www.alo176.gov.tr)
  - date_published: 2024-06-20T08:42:37.202257+00:00
@@ -3929,153 +4077,4 @@ NMHSs DIRECTORS
  ## Titan OS | Re-thinking TV
  - [https://www.titanos.tv](https://www.titanos.tv)
  - date_published: 2024-10-30T11:21:29+00:00
-
- ## TMG Studios
- - [https://tmgstudios.tv](https://tmgstudios.tv)
- - date_published: 2024-06-15T17:19:13.592048+00:00
-
- ## UTokyo TV
- - [https://todai.tv](https://todai.tv)
- - date_published: 2024-05-06T15:41:57.097642+00:00
-
- ## TopCartoons.TV: Watch Online Cartoons
- - [https://www.topcartoons.tv](https://www.topcartoons.tv)
- - date_published: 2024-11-09T14:39:53+00:00
-
- ## ICI TOU.TV | Vos séries, films et documentaires préférés
- - [http://ici.tou.tv](http://ici.tou.tv)
- - date_published: 2024-07-10T05:32:21.183942+00:00
-
- ## Trakt Blog
- - [https://blog.trakt.tv](https://blog.trakt.tv)
- - date_published: 2024-06-18T12:42:00.346251+00:00
-
- ## Trakt Forums
- - [https://forums.trakt.tv](https://forums.trakt.tv)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## Trakt Release Notes
- - [https://releasenotes.trakt.tv](https://releasenotes.trakt.tv)
- - date_published: 2024-10-22T02:02:01.497051+00:00
-
- ## Trakt
- - [https://status.trakt.tv](https://status.trakt.tv)
- - date_published: 2024-06-18T12:41:55.691114+00:00
-
- ## Support
- - [https://support.trakt.tv](https://support.trakt.tv)
- - date_published: 2024-06-18T12:41:57.213176+00:00
-
- ## Track. Discover. Share.
- - [https://trakt.tv](https://trakt.tv)
- - date_published: 2024-05-02T12:50:39.866297+00:00
-
- ## Andrew Betts | Web developer and cocktail nut from London
- - [https://trib.tv](https://trib.tv)
- - date_published: 2024-09-16T06:27:38.626639+00:00
-
- ## True North - making stand-out factual content for global audiences
- - [http://www.truenorth.tv](http://www.truenorth.tv)
- - date_published: 2024-07-18T22:03:45.788798+00:00
-
- ## TrueNuff.tv  | Index
- - [https://www.truenuff.tv](https://www.truenuff.tv)
- - date_published: 2024-07-12T22:22:00.815389+00:00
-
- ## Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws.
- - [https://gdpr.tubi.tv](https://gdpr.tubi.tv)
- - date_published: 2024-05-12T07:53:14.703600+00:00
-
- ## Log in
- - [https://elroy.twit.tv](https://elroy.twit.tv)
- - date_published: 2024-06-21T09:57:03+00:00
-
- ## TWiT Live Chat
- - [http://irc.twit.tv](http://irc.twit.tv)
- - date_published: 2023-11-13T18:48:26+00:00
-
- ## Looking for Live Content? | TWiT.TV
- - [https://live.twit.tv](https://live.twit.tv)
- - date_published: 2024-05-06T18:14:49.140812+00:00
-
- ## Podcasts | TWiT.TV
- - [https://podcasts.twit.tv](https://podcasts.twit.tv)
- - date_published: 2024-06-21T09:56:59.090220+00:00
-
- ## Tech Podcasts From People You Trust | TWiT.tv - This Week in Tech
- - [https://twit.tv](https://twit.tv)
- - date_published: 2024-05-04T11:58:33.826239+00:00
-
- ## Twitch Help Portal
- - [https://affiliate.twitch.tv](https://affiliate.twitch.tv)
- - date_published: 2023-06-18T16:52:06+00:00
-
- ## Twitch Blog
- - [https://blog.twitch.tv](https://blog.twitch.tv)
- - date_published: 2023-10-25T22:47:52.990838+00:00
-
- ## Brand Assets
- - [https://brand.twitch.tv](https://brand.twitch.tv)
- - date_published: 2024-05-21T13:46:47+00:00
-
- ## imgix - Image Processing On-Demand, Served By CDN
- - [https://cdn.m7g.twitch.tv](https://cdn.m7g.twitch.tv)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Twitch
- - [https://clips.twitch.tv](https://clips.twitch.tv)
- - date_published: 2023-11-10T05:49:59.405958+00:00
-
- ## Twitch
- - [https://dashboard.twitch.tv](https://dashboard.twitch.tv)
- - date_published: 2024-07-09T10:04:52.155348+00:00
-
- ## Statuspage | Atlassian
- - [https://devstatus.twitch.tv](https://devstatus.twitch.tv)
- - date_published: 2024-06-17T16:52:00.641597+00:00
-
- ## Home
- - [https://dev.twitch.tv](https://dev.twitch.tv)
- - date_published: 2024-05-02T10:39:21.619261+00:00
-
- ## Twitch
- - [https://embed.twitch.tv](https://embed.twitch.tv)
- - date_published: 2023-12-11T18:31:02.049722+00:00
-
- ## Twitch
- - [https://go.twitch.tv](https://go.twitch.tv)
- - date_published: 2024-06-21T19:39:11.763019+00:00
-
- ## Twitch Help Portal
- - [https://help.twitch.tv](https://help.twitch.tv)
- - date_published: 2023-06-17T14:52:11+00:00
-
- ## Twitch | Twitch
- - [https://meetups.twitch.tv](https://meetups.twitch.tv)
- - date_published: 2024-05-02T10:39:18.225255+00:00
-
- ## Twitch
- - [https://m.twitch.tv](https://m.twitch.tv)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## login - Twitch
- - [https://passport.twitch.tv](https://passport.twitch.tv)
- - date_published: 2024-05-02T10:39:30.319050+00:00
-
- ## Twitch
- - [https://player.twitch.tv](https://player.twitch.tv)
- - date_published: 2024-05-01T05:00:25.261790+00:00
-
- ## Twitch
- - [https://pl.twitch.tv](https://pl.twitch.tv)
- - date_published: 2024-06-03T08:51:56.497999+00:00
-
- ## Twitch
- - [https://sings.twitch.tv](https://sings.twitch.tv)
- - date_published: 2024-06-17T16:51:38.226324+00:00
-
- ## Twitch
- - [https://twitch.tv](https://twitch.tv)
- - date_published: 2023-12-11T17:52:57.347740+00:00
- - tags: ['game streaming']
 

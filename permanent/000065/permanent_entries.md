@@ -1,3 +1,27 @@
+ ## Excessive Exclamation!!
+ - [http://www.excessiveexclamation.blogspot.com](http://www.excessiveexclamation.blogspot.com)
+ - date_published: 2024-10-19T11:04:30.884015+00:00
+
+ ## Fair Deal Phil
+ - [http://www.fairdealphil.blogspot.com](http://www.fairdealphil.blogspot.com)
+ - date_published: 2024-10-21T12:01:04.321226+00:00
+
+ ## The Belmont Club
+ - [http://www.fallbackbelmont.blogspot.com](http://www.fallbackbelmont.blogspot.com)
+ - date_published: 2024-06-02T18:02:36+00:00
+
+ ## The FAPE Page
+ - [http://www.fapepage.blogspot.com](http://www.fapepage.blogspot.com)
+ - date_published: 2024-03-23T18:51:24+00:00
+
+ ## PERGE MODO
+ - [http://www.farmboyz.blogspot.com](http://www.farmboyz.blogspot.com)
+ - date_published: 2024-09-21T23:37:39+00:00
+
+ ## Blogger
+ - [https://www.fathermanseekingpeace.blogspot.com](https://www.fathermanseekingpeace.blogspot.com)
+ - date_published: 2024-08-19T21:46:56.274929+00:00
+
  ## dan's kitchen
  - [http://www.favini.blogspot.com](http://www.favini.blogspot.com)
  - date_published: 2024-06-10T17:58:13+00:00
@@ -4018,28 +4042,4 @@
  ## BNNGPT
  - [https://bnngpt.com](https://bnngpt.com)
  - date_published: 2024-07-19T21:14:58.708403+00:00
-
- ## BNO News - Breaking News, Developing Stories, Latest News Videos
- - [https://bnonews.com](https://bnonews.com)
- - date_published: 2023-10-25T10:37:15.012724+00:00
-
- ## B2B Digital Marketing Agency | BNP Engage
- - [https://bnpengage.com](https://bnpengage.com)
- - date_published: 2024-04-29T03:01:20.126927+00:00
-
- ## CE Center - CE Center Home
- - [https://continuingeducation.bnpmedia.com](https://continuingeducation.bnpmedia.com)
- - date_published: 2024-07-19T15:37:55.853466+00:00
-
- ## Engineering Center - CE Center Home
- - [https://engineeringcenter.bnpmedia.com](https://engineeringcenter.bnpmedia.com)
- - date_published: 2024-04-29T03:01:21.599678+00:00
-
- ## BNP Media
- - [https://www.bnpmedia.com](https://www.bnpmedia.com)
- - date_published: 2024-04-29T03:01:17.100206+00:00
-
- ## Banque BNP Paribas | La banque d'un monde qui change
- - [https://bnpparibas.com](https://bnpparibas.com)
- - date_published: 2024-09-28T23:29:19.376183+00:00
 

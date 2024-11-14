@@ -1,3 +1,152 @@
+ ## Conic.css - nice, simple conic gradients
+ - [https://conic.style](https://conic.style)
+ - date_published: 2024-04-30T02:01:22.130835+00:00
+
+ ## Dress David Rose
+ - [https://davidrose.style](https://davidrose.style)
+ - date_published: 2024-09-14T23:32:25.602754+00:00
+
+ ## Dragon Style
+ - [https://dragon.style](https://dragon.style)
+ - date_published: 2024-07-10T07:29:27.005777+00:00
+
+ ## CSS HD Gradients
+ - [https://gradient.style](https://gradient.style)
+ - date_published: 2024-04-30T02:00:32.617915+00:00
+
+ ## LISTEN
+ - [https://listen.style](https://listen.style)
+ - date_published: 2024-06-20T17:13:47.788205+00:00
+
+ ## missing.css
+ - [https://the.missing.style](https://the.missing.style)
+ - date_published: 1985-10-26T08:15:00+00:00
+
+ ## Open Props: sub-atomic styles
+ - [https://open-props.style](https://open-props.style)
+ - date_published: 2023-10-25T22:43:20.777027+00:00
+
+ ## Pika – Image Generation made easy
+ - [https://pika.style](https://pika.style)
+ - date_published: 2024-09-04T11:13:57.204246+00:00
+
+ ## Show HN: Winamp and other media players, rebuilt for the web with Web Components
+ - [https://player.style](https://player.style)
+ - date_published: 2024-10-08T18:27:46+00:00
+
+ ## Primer
+ - [https://primer.style](https://primer.style)
+ - date_published: 2024-05-04T08:10:26.223991+00:00
+
+ ## Scroll-driven Animations
+ - [https://scroll-driven-animations.style](https://scroll-driven-animations.style)
+ - date_published: 2024-04-30T02:02:23.380850+00:00
+
+ ## Shiki
+ - [https://shiki.style](https://shiki.style)
+ - date_published: 2024-05-06T08:55:02.938653+00:00
+ - tags: ['javascript library', 'programming', 'syntax highlighting']
+
+ ## Shoelace: A forward-thinking library of web components.
+ - [https://shoelace.style](https://shoelace.style)
+ - date_published: 2024-01-10T21:16:04.845566+00:00
+
+ ## argyleink/transition.css
+ - [https://transition.style](https://transition.style)
+ - date_published: 2024-04-30T02:00:55.629270+00:00
+
+ ## vanilla-extract — Zero-runtime Stylesheets-in-TypeScript.
+ - [https://vanilla-extract.style](https://vanilla-extract.style)
+ - date_published: 2024-06-29T06:28:02.564259+00:00
+
+ ## xz/fonts
+ - [https://fonts.xz.style](https://fonts.xz.style)
+ - date_published: 2024-07-19T23:56:25.057842+00:00
+
+ ## A71.su
+ - [https://a71.su](https://a71.su)
+ - date_published: 2024-05-04T21:55:54.968207+00:00
+ - tags: ['personal']
+
+ ## Andrew's Git
+ - [https://git.a71.su](https://git.a71.su)
+ - date_published: 2024-05-04T21:55:43.550176+00:00
+
+ ## acorn.su Junk store
+ - [https://acorn.su](https://acorn.su)
+ - date_published: 2024-09-03T23:11:56.112749+00:00
+
+ ## ATI.SU – биржа грузоперевозок. Грузы, транспорт, тендеры.
+ - [https://ati.su](https://ati.su)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Профессиональный форум ATI.SU: грузоперевозки, поиск работы, недобросовестные партнеры.
+ - [https://forums.ati.su](https://forums.ati.su)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## ATI.SU — частые вопросы
+ - [https://help.ati.su](https://help.ati.su)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## catflix.su | Watch Movies Online, Free Movie Streaming
+ - [https://catflix.su](https://catflix.su)
+ - date_published: 2024-11-12T17:26:55.791335+00:00
+ - tags: ['movies', 'piracy']
+
+ ## Сообщество Canon S5 IS от кота Васи - Главная страница
+ - [http://canons5is.clan.su](http://canons5is.clan.su)
+ - date_published: 1970-01-01T00:00:10+00:00
+
+ ## CHDK - альтернативная прошивка - Главная страница
+ - [http://chdk.clan.su](http://chdk.clan.su)
+ - date_published: 2024-07-02T02:52:32+00:00
+
+ ## YouPlay - Home page
+ - [https://youplay.clan.su](https://youplay.clan.su)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Welcome to nginx!
+ - [https://dee.su](https://dee.su)
+ - date_published: 2024-04-28T03:52:05.884996+00:00
+
+ ## Download CS 1.6 Non Steam: Download Counter-Strike 1.6 Free 🆓
+ - [https://down-cs.su](https://down-cs.su)
+ - date_published: 2020-12-06T15:56:49+00:00
+
+ ## Не работает сайт? Детекция сбоев сайта | Downdetector
+ - [https://downdetector.su](https://downdetector.su)
+ - date_published: 2024-04-04T08:00:13+00:00
+ - tags: ['down detector']
+
+ ## Encode's Forum
+ - [https://encode.su](https://encode.su)
+ - date_published: 2024-06-23T17:50:51.204393+00:00
+
+ ## Rossa Primavera
+ - [https://eu.eot.su](https://eu.eot.su)
+ - date_published: 2024-09-16T19:51:34.462269+00:00
+
+ ## Shortening Links - Short URLs | Goo.su
+ - [https://goo.su](https://goo.su)
+ - date_published: 2024-09-24T21:01:09.173471+00:00
+
+ ## Node.js cloud products and services | Nodejitsu Inc.
+ - [http://rapbot.jit.su](http://rapbot.jit.su)
+ - date_published: 2024-07-08T11:35:43+00:00
+
+ ## server test
+ - [https://www2.kangran.su](https://www2.kangran.su)
+ - date_published: 2020-05-17T12:16:28+00:00
+
+ ## Kemono
+ - [https://kemono.su](https://kemono.su)
+ - date_published: 2024-04-03T05:24:24+00:00
+ - tags: ['internet archive']
+
+ ## kemono.party Service Monitoring
+ - [https://status.kemono.su](https://status.kemono.su)
+ - date_published: 2024-05-12T05:23:01.867838+00:00
+
  ## KOCMOHABT
  - [http://kozmonavt.su](http://kozmonavt.su)
  - date_published: 2024-06-29T07:18:16.334873+00:00
@@ -3550,6 +3699,10 @@
  - [http://teachtogether.tech](http://teachtogether.tech)
  - date_published: 2022-05-03T21:55:11+00:00
 
+ ## Tealok Blog
+ - [https://blog.tealok.tech](https://blog.tealok.tech)
+ - date_published: 2024-11-13T00:27:29+00:00
+
  ## Techlore Blog - Digital Rights for All 🔐
  - [https://blog.techlore.tech](https://blog.techlore.tech)
  - date_published: 2024-07-08T18:18:09.112703+00:00
@@ -3883,152 +4036,4 @@
  ## YDB.tech blog
  - [https://blog.ydb.tech](https://blog.ydb.tech)
  - date_published: 2024-01-16T01:14:45.782732+00:00
-
- ## YDB — an open source Distributed SQL Database
- - [https://ydb.tech](https://ydb.tech)
- - date_published: 2024-05-08T06:17:12.231560+00:00
-
- ## polywork®️
- - [https://polywork.yuxxeun.tech](https://polywork.yuxxeun.tech)
- - date_published: 2024-05-10T06:59:44.636148+00:00
-
- ## umami
- - [https://umami.yuxxeun.tech](https://umami.yuxxeun.tech)
- - date_published: 2024-05-10T06:59:45.641913+00:00
-
- ## yuxxeun.
- - [https://yuxxeun.tech](https://yuxxeun.tech)
- - date_published: 2024-05-10T06:59:36.124076+00:00
-
- ## Zerodha Tech Blog - Technology blog of India's largest stock broker
- - [https://zerodha.tech](https://zerodha.tech)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Home
- - [https://zettascale.tech](https://zettascale.tech)
- - date_published: 2024-05-06T14:56:58.559763+00:00
-
- ## Zuru Tech - Changing the way we build
- - [https://zuru.tech](https://zuru.tech)
- - date_published: 2023-10-27T12:08:43.088416+00:00
-
- ## Automata blockchain explorer - View Automata stats
- - [https://automata-orbit-testnet-explorer.alt.technology](https://automata-orbit-testnet-explorer.alt.technology)
- - date_published: 2024-09-24T10:25:20.978552+00:00
-
- ## Automata blockchain explorer | Automata
- - [https://automata-testnet-explorer.alt.technology](https://automata-testnet-explorer.alt.technology)
- - date_published: 2024-09-24T03:12:17.559091+00:00
-
- ## Gmnetwork Sepolia Explorer
- - [https://gmnetwork-testnet-explorer.alt.technology](https://gmnetwork-testnet-explorer.alt.technology)
- - date_published: 2024-09-23T19:30:36.516851+00:00
-
- ## hashkeychain blockchain explorer | hashkeychain
- - [https://hashkeychain-testnet-explorer.alt.technology](https://hashkeychain-testnet-explorer.alt.technology)
- - date_published: 2024-09-24T04:00:34.046530+00:00
-
- ## MUSTER blockchain explorer | Blockscout
- - [https://muster-explorer.alt.technology](https://muster-explorer.alt.technology)
- - date_published: 2024-09-24T06:50:21.705389+00:00
-
- ## Rollup Bridge
- - [https://op-bridge.alt.technology](https://op-bridge.alt.technology)
- - date_published: 2024-09-23T11:55:06.412157+00:00
-
- ## Annoying Technology
- - [https://annoying.technology](https://annoying.technology)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Azul Technology
- - [https://azul.technology](https://azul.technology)
- - date_published: 2024-05-11T10:19:25.050485+00:00
-
- ## Backstop L2
- - [https://backstop.technology](https://backstop.technology)
- - date_published: 2024-07-19T00:51:06+00:00
-
- ## Backstop L2 Testnet Bridge
- - [https://testnet.bridge.backstop.technology](https://testnet.bridge.backstop.technology)
- - date_published: 2024-09-05T04:02:45+00:00
-
- ## BTC20
- - [https://bitcoincode.technology](https://bitcoincode.technology)
- - date_published: 2024-09-24T01:14:32.855253+00:00
-
- ## BTC20 Smart Chain  Explorer
- - [https://scan.bitcoincode.technology](https://scan.bitcoincode.technology)
- - date_published: 2024-09-23T23:51:53.970944+00:00
-
- ## Blockops - A battle-tested blockchain/web3 development company
- - [https://blockops.technology](https://blockops.technology)
- - date_published: 2024-06-04T06:12:26.339115+00:00
-
- ## CARIAD – Automotive Software for Volkswagen
- - [https://cariad.technology](https://cariad.technology)
- - date_published: 2024-05-08T11:28:44.537269+00:00
-
- ## Classic Computer Brochures
- - [https://classic.technology](https://classic.technology)
- - date_published: 2024-09-14T23:12:58.241049+00:00
-
- ## Save the date: Oct 31 to Nov 1, 2023.
- - [https://cosm.technology](https://cosm.technology)
- - date_published: 2024-07-01T15:32:26.567105+00:00
-
- ## Carter Sande
- - [https://carter.sande.duodecima.technology](https://carter.sande.duodecima.technology)
- - date_published: 2024-05-06T14:04:25.778125+00:00
-
- ## DXC Technology
- - [https://www.dxc.technology](https://www.dxc.technology)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Institute of Free Technology
- - [https://free.technology](https://free.technology)
- - date_published: 2024-09-21T23:59:21.655602+00:00
-
- ## girlfriend technology
- - [https://girlfriend.technology](https://girlfriend.technology)
- - date_published: 2024-08-01T22:31:15+00:00
-
- ## Gnostic Technology
- - [https://gnostic.technology](https://gnostic.technology)
- - date_published: 2024-03-21T21:16:46+00:00
-
- ## the greg technology blog
- - [https://blog.greg.technology](https://blog.greg.technology)
- - date_published: 2024-01-02T19:55:59.856399+00:00
-
- ## Greg Technology
- - [https://greg.technology](https://greg.technology)
- - date_published: 2024-05-08T00:42:45.156585+00:00
-
- ## what is this
- - [https://recurse.greg.technology](https://recurse.greg.technology)
- - date_published: 2024-02-24T12:59:06+00:00
-
- ## Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real
- - [https://sagittarius.greg.technology](https://sagittarius.greg.technology)
- - date_published: 2023-12-11T02:17:39+00:00
-
- ## IDLab
- - [https://idlab.technology](https://idlab.technology)
- - date_published: 2024-04-29T09:52:09+00:00
-
- ## IOP Developer Portal
- - [https://developer.iop.technology](https://developer.iop.technology)
- - date_published: 2023-01-31T06:49:39+00:00
-
- ## Welcome - The LGBTQ in Technology Slack
- - [https://lgbtq.technology](https://lgbtq.technology)
- - date_published: 2023-09-11T12:14:23+00:00
-
- ## Longevity.Technology - Latest News, Opinions and Analysis
- - [https://longevity.technology](https://longevity.technology)
- - date_published: 2024-07-09T19:53:22.743460+00:00
-
- ## Jamie Lord
- - [https://lord.technology](https://lord.technology)
- - date_published: 2024-08-26T19:26:17+00:00
 

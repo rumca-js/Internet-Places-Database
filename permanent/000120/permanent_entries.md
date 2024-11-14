@@ -1,3 +1,43 @@
+ ## Auto
+ - [https://auto.howstuffworks.com](https://auto.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Computer
+ - [https://computer.howstuffworks.com](https://computer.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## HowStuffWorks Coupons, Promo Codes and Deals
+ - [https://coupons.howstuffworks.com](https://coupons.howstuffworks.com)
+ - date_published: 2024-05-11T08:04:35.206550+00:00
+
+ ## Electronics
+ - [https://electronics.howstuffworks.com](https://electronics.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Entertainment
+ - [https://entertainment.howstuffworks.com](https://entertainment.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## Health
+ - [https://health.howstuffworks.com](https://health.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## History
+ - [https://history.howstuffworks.com](https://history.howstuffworks.com)
+ - date_published: 2008-02-27T08:00:00+00:00
+
+ ## Home & Garden
+ - [https://home.howstuffworks.com](https://home.howstuffworks.com)
+ - date_published: 2006-01-29T05:00:00+00:00
+
+ ## HowStuffWorks - Learn How Everything Works!
+ - [https://howstuffworks.com](https://howstuffworks.com)
+ - date_published: 2024-05-11T08:04:33.534172+00:00
+
+ ## Lifestyle
+ - [https://lifestyle.howstuffworks.com](https://lifestyle.howstuffworks.com)
+ - date_published: 2014-02-11T08:00:00+00:00
+
  ## Money
  - [https://money.howstuffworks.com](https://money.howstuffworks.com)
  - date_published: 2006-01-29T05:00:00+00:00
@@ -3981,44 +4021,4 @@
  ## HYPER ISLAND | Get ready for the unknown
  - [https://www.hyperisland.com](https://www.hyperisland.com)
  - date_published: 2024-07-01T08:15:20+00:00
-
- ## Thoughts while building | Zsolt Ero | Substack
- - [https://blog.hyperknot.com](https://blog.hyperknot.com)
- - date_published: 2024-10-23T04:36:01.756869+00:00
-
- ## Ted Nelson Home Page
- - [http://hyperland.com](http://hyperland.com)
- - date_published: 2018-08-01T11:34:04+00:00
-
- ## Ted Nelson Home Page
- - [http://ted.hyperland.com](http://ted.hyperland.com)
- - date_published: 2018-08-01T11:34:04+00:00
-
- ## Hyper Light Breaker
- - [https://www.hyperlightbreaker.com](https://www.hyperlightbreaker.com)
- - date_published: 2024-06-20T21:42:34.483253+00:00
-
- ## Home - Hipermak
- - [http://www.hypermach.com](http://www.hypermach.com)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Premium Figma plugins to 1,000x your workflows. - Hypermatic
- - [https://www.hypermatic.com](https://www.hypermatic.com)
- - date_published: 2024-06-23T07:01:53.356050+00:00
-
- ## Hyper Mega Tech!
- - [https://www.hypermegatech.com](https://www.hypermegatech.com)
- - date_published: 2024-07-20T20:59:22.593600+00:00
-
- ## Home
- - [https://hypermind.com](https://hypermind.com)
- - date_published: 2024-06-19T02:11:04.927001+00:00
-
- ## Hypermind Prediction Market
- - [https://lepoint.hypermind.com](https://lepoint.hypermind.com)
- - date_published: 2024-07-07T07:23:32.725532+00:00
-
- ## Hypermind Prediction Market
- - [https://prod.hypermind.com](https://prod.hypermind.com)
- - date_published: 2024-06-19T02:12:22.424851+00:00
 

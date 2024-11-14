@@ -1,3 +1,95 @@
+ ## Apache Spark 3.5 Tutorial with Examples
+ - [https://sparkbyexamples.com](https://sparkbyexamples.com)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Spark Capital
+ - [https://www.sparkcapital.com](https://www.sparkcapital.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Customer Acquisition For B2B SaaS | Spark Creative Technologies
+ - [https://www.sparkcreativetechnologies.com](https://www.sparkcreativetechnologies.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Spark Databox LMS
+ - [https://sparkdatabox.com](https://sparkdatabox.com)
+ - date_published: 2024-10-31T05:12:01.538502+00:00
+
+ ## Spark | Digital Design & Development Agency
+ - [https://sparkdsg.com](https://sparkdsg.com)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Spark Edition Newsletter
+ - [https://sparkedition.com](https://sparkedition.com)
+ - date_published: 2024-04-28T05:59:52.589753+00:00
+
+ ## Home - Sparket
+ - [https://www.sparketrnr.com](https://www.sparketrnr.com)
+ - date_published: 2024-09-28T00:00:00+00:00
+
+ ## Blog | SparkFabrik
+ - [https://blog.sparkfabrik.com](https://blog.sparkfabrik.com)
+ - date_published: 2024-06-27T00:24:47+00:00
+
+ ## https://careers.sparkfabrik.com/it/
+ - [https://careers.sparkfabrik.com](https://careers.sparkfabrik.com)
+ - date_published: 2024-04-09T14:34:30+00:00
+
+ ## SparkFabrik Playbook
+ - [https://playbook.sparkfabrik.com](https://playbook.sparkfabrik.com)
+ - date_published: 2024-06-28T10:53:46.233044+00:00
+
+ ## SparkFabrik - DevOps, Kubernetes, Agile Web Development, Cloud Native, Drupal Experts, Drupal Consultancy, Angular Development | SparkFabrik
+ - [https://sparkfabrik.com](https://sparkfabrik.com)
+ - date_published: 2024-05-06T22:31:29.849924+00:00
+
+ ## https://tech.sparkfabrik.com/en/
+ - [https://tech.sparkfabrik.com](https://tech.sparkfabrik.com)
+ - date_published: 2024-06-24T10:21:07+00:00
+
+ ## Retail Technology Solutions | Sparkfly
+ - [https://sparkfly.com](https://sparkfly.com)
+ - date_published: 2024-09-05T22:15:44.138016+00:00
+
+ ## Home | Spark Foundry
+ - [https://www.sparkfoundryww.com](https://www.sparkfoundryww.com)
+ - date_published: 2024-06-25T23:15:54.985563+00:00
+
+ ## SparkFun À La Carte - À La Carte - SparkFun Electronics
+ - [https://alc.sparkfun.com](https://alc.sparkfun.com)
+ - date_published: 2024-04-29T05:35:39.357735+00:00
+
+ ## SparkFun Electronics
+ - [https://avc.sparkfun.com](https://avc.sparkfun.com)
+ - date_published: 2024-08-22T00:00:00+00:00
+
+ ## SparkFun Community
+ - [https://community.sparkfun.com](https://community.sparkfun.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## SparkFun Forum - SparkFun Electronics Forum
+ - [https://forum.sparkfun.com](https://forum.sparkfun.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Learn at SparkFun Electronics - SparkFun Learn
+ - [https://learn.sparkfun.com](https://learn.sparkfun.com)
+ - date_published: 2023-10-25T17:09:28.626320+00:00
+
+ ## SparkFun Electronics
+ - [https://sparkfun.com](https://sparkfun.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## SparkFun Education - Maker Education
+ - [https://sparkfuneducation.com](https://sparkfuneducation.com)
+ - date_published: 2024-04-29T05:35:49.923160+00:00
+
+ ## Sparkgeo provides geospatial expertise to tech companies.
+ - [https://sparkgeo.com](https://sparkgeo.com)
+ - date_published: 2024-05-08T11:28:46.676965+00:00
+
+ ## Class VI Pathfinder
+ - [http://www.sparkgrowthstrategies.com](http://www.sparkgrowthstrategies.com)
+ - date_published: 2022-10-29T21:28:37+00:00
+
  ## Sparkhaus Media GmbH | LinkedIn
  - [http://www.sparkhausmedia.com](http://www.sparkhausmedia.com)
  - date_published: 2024-06-21T13:42:09.122317+00:00
@@ -3944,96 +4036,4 @@ Equity & GIS
  ## Spyro Reignited Trilogy | Home
  - [https://spyrothedragon.com](https://spyrothedragon.com)
  - date_published: 2024-04-11T19:56:34+00:00
-
- ## Spyro Wiki, the Spyro and Skylanders encyclopedia
- - [https://spyrowiki.com](https://spyrowiki.com)
- - date_published: 2024-05-02T13:29:48.232217+00:00
-
- ## SQC - Service Quality Centre
- - [http://www.sqcentre.com](http://www.sqcentre.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Beepy by SQFMI x Beeper | Beepy
- - [https://beepberry.sqfmi.com](https://beepberry.sqfmi.com)
- - date_published: 2024-01-09T02:49:24.589380+00:00
-
- ## Beepy by SQFMI x Beeper | Beepy
- - [https://beepy.sqfmi.com](https://beepy.sqfmi.com)
- - date_published: 2024-04-26T03:01:46+00:00
-
- ## Sqily
- - [https://www.sqily.com](https://www.sqily.com)
- - date_published: 2024-07-12T16:54:42.940035+00:00
-
- ## SQlab GmbH Online Shop | SQlab - Ergonomic bike equipment, award winner,
- - [https://www.sq-lab.com](https://www.sq-lab.com)
- - date_published: 2024-09-18T01:24:40.944180+00:00
-
- ## SQL Server Performance Tuning Expert - SQL Authority with Pinal Dave
- - [https://blog.sqlauthority.com](https://blog.sqlauthority.com)
- - date_published: 2024-06-15T16:45:29.356368+00:00
-
- ## SQL Bits – You're here to find quick SQL recipes.
- - [https://sql-bits.com](https://sql-bits.com)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## SQLBolt - Learn SQL - Introduction to SQL
- - [https://sqlbolt.com](https://sqlbolt.com)
- - date_published: 2015-04-01T00:00:00+00:00
-
- ## SqlDBM - online database modeler
- - [https://sqldbm.com](https://sqldbm.com)
- - date_published: 2024-07-19T22:03:52.042575+00:00
-
- ## Home - Sqlephant
- - [https://www.sqlephant.com](https://www.sqlephant.com)
- - date_published: 2024-02-15T00:00:00+00:00
-
- ## SQL Fiddle - Online SQL Compiler for learning & practice
- - [https://sqlfiddle.com](https://sqlfiddle.com)
- - date_published: 2024-08-07T02:37:16.219252+00:00
-
- ## 📜 The SQL Linter for Humans — SQLFluff stable_version documentation
- - [https://docs.sqlfluff.com](https://docs.sqlfluff.com)
- - date_published: 2024-07-03T17:33:39+00:00
-
- ## SQLFluff
- - [https://www.sqlfluff.com](https://www.sqlfluff.com)
- - date_published: 2024-07-19T16:22:09.080431+00:00
-
- ## Introduction to sqlfmt | sqlfmt
- - [https://docs.sqlfmt.com](https://docs.sqlfmt.com)
- - date_published: 2024-05-08T10:50:39.072565+00:00
-
- ## sqlfmt: The autoformatter for dbt SQL
- - [https://sqlfmt.com](https://sqlfmt.com)
- - date_published: 2024-05-08T10:50:41.398191+00:00
-
- ## SQLforDevs.com - Database Tips & Tricks
- - [https://sqlfordevs.com](https://sqlfordevs.com)
- - date_published: 2023-10-25T17:11:28.657539+00:00
-
- ## Practical SQL course for Marketers, Product Managers and Data Analysts
- - [https://sqlhabit.com](https://sqlhabit.com)
- - date_published: 2024-05-04T14:10:41.343000+00:00
-
- ## SQLite Home Page
- - [https://sqlite.com](https://sqlite.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## sqlkitty
- - [https://sqlkitty.com](https://sqlkitty.com)
- - date_published: 2024-07-03T20:01:31.410862+00:00
-
- ## SQLPerformance.com
- - [https://sqlperformance.com](https://sqlperformance.com)
- - date_published: 2024-06-15T16:45:33.722341+00:00
-
- ## SQL Performance Explained - buy directly from the author with free delivery
- - [https://sql-performance-explained.com](https://sql-performance-explained.com)
- - date_published: 2024-06-27T11:02:41+00:00
-
- ## SQL Practice Problems – SQL Practice Problems
- - [http://www.sqlpracticeproblems.com](http://www.sqlpracticeproblems.com)
- - date_published: 2024-09-18T23:02:33.494437+00:00
 

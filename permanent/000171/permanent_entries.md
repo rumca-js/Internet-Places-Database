@@ -1,3 +1,84 @@
+ ## Punching Robots 2084
+ - [https://punchingrobots.com](https://punchingrobots.com)
+ - date_published: 2024-07-10T07:05:41.652874+00:00
+ - tags: ['personal']
+
+ ## Attention Required! | Cloudflare
+ - [https://www.punchline.com](https://www.punchline.com)
+ - date_published: 2024-08-11T06:51:56.612572+00:00
+
+ ## Make 'em laugh and you've got 'em for life.
+ - [https://punchlinecopy.com](https://punchlinecopy.com)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Homepage New - Healthwise
+ - [https://healthwise.punchng.com](https://healthwise.punchng.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Punch newspapers - Breaking News, Nigerian News & Top Stories
+ - [https://punchng.com](https://punchng.com)
+ - date_published: 2023-10-25T10:15:32.859277+00:00
+
+ ## Punctuation Matters – Punctuation: Important for academic and published writing. Not a bad idea if you just want to be understood.
+ - [https://punctuationmatters.com](https://punctuationmatters.com)
+ - date_published: 2023-10-25T16:42:20.055212+00:00
+
+ ## punctum books – An independent, open-access para-academic publisher
+ - [https://punctumbooks.com](https://punctumbooks.com)
+ - date_published: 2024-07-01T15:25:37.482370+00:00
+
+ ## Pune Business Directory, Indian Manufacturers, Suppliers
+ - [https://www.punebusinessdirectory.com](https://www.punebusinessdirectory.com)
+ - date_published: 2024-10-15T21:04:38.562885+00:00
+
+ ## Punjabi Language,پنجابی,ਪੰਜਾਬੀ, पंजाबी,shahmukhi, Gurmukhi,Eastern Punjabi, Western Punjabi
+ - [http://punjabiandpunjab.com](http://punjabiandpunjab.com)
+ - date_published: 2024-09-18T03:42:25.004299+00:00
+
+ ## Punjabi Tribune Online - ਪੰਜਾਬੀ ਟ੍ਰਿਬਿਊਨ Daily Punjabi News Paper.
+ - [https://epaper.punjabitribuneonline.com](https://epaper.punjabitribuneonline.com)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Punjabi Tribune Online
+ - [https://m.punjabitribuneonline.com](https://m.punjabitribuneonline.com)
+ - date_published: 2024-07-09T12:32:35.624240+00:00
+
+ ## Access the latest Punjab News | Punjabi Tribune
+ - [https://punjabitribuneonline.com](https://punjabitribuneonline.com)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Punk and Bunny Tattoo
+ - [https://www.punkandbunnytattoo.com](https://www.punkandbunnytattoo.com)
+ - date_published: 2024-07-12T17:52:17.692883+00:00
+
+ ## Punk Rock Bowling – May 2025 in Downtown Las Vegas
+ - [https://punkrockbowling.com](https://punkrockbowling.com)
+ - date_published: 2024-09-17T16:32:39.007562+00:00
+
+ ## Punk Rock Dev – Developing apps with a kick!
+ - [https://punkrockdev.com](https://punkrockdev.com)
+ - date_published: 2023-08-29T06:21:37+00:00
+
+ ## Beautiful artist websites. Home of the Artist Web School.
+ - [https://punktdigital.com](https://punktdigital.com)
+ - date_published: 2019-12-03T00:00:00+00:00
+
+ ## PunnyPeak.com - Elevating Humor with Playful Puns and Jokes!
+ - [https://punnypeak.com](https://punnypeak.com)
+ - date_published: 2022-03-17T07:40:52+00:00
+
+ ## Puns Studio
+ - [https://punsstudio.com](https://punsstudio.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Welcome
+ - [https://www.puntacana.com](https://www.puntacana.com)
+ - date_published: 2024-09-16T09:51:39.336720+00:00
+
+ ## Puntland Post — News from Somalia, Puntland, Somaliland
+ - [http://www.puntlandpost.com](http://www.puntlandpost.com)
+ - date_published: 2024-07-02T05:40:04.722667+00:00
+
  ## Juan Pablo Garcia Sossa | jpgs
  - [https://www.puntojpgs.com](https://www.puntojpgs.com)
  - date_published: 2023-08-04T12:04:26+00:00
@@ -890,6 +971,10 @@
  ## The Puzzle Society: The best puzzles online. Updated daily.
  - [https://www.puzzlesociety.com](https://www.puzzlesociety.com)
  - date_published: 2024-06-24T07:49:55.371109+00:00
+
+ ## Show HN: A simple image puzzle generator
+ - [https://puzzlip.com](https://puzzlip.com)
+ - date_published: 2024-11-13T15:37:22+00:00
 
  ## Puzzmo — The (new) place for thoughtful puzzles.
  - [https://puzzmo.com](https://puzzmo.com)
@@ -3967,88 +4052,4 @@
  ## Home - Quantiphi
  - [https://quantiphi.com](https://quantiphi.com)
  - date_published: 2024-06-19T17:03:00+00:00
-
- ## SISA allows you to do statistical analysis directly on the Internet.
- - [http://www.quantitativeskills.com](http://www.quantitativeskills.com)
- - date_published: 2024-06-01T08:26:30+00:00
-
- ## Quant Trading Rules | Quantitativo | Substack
- - [https://www.quantitativo.com](https://www.quantitativo.com)
- - date_published: 2024-06-15T00:00:00+00:00
-
- ## QQ - Quantity Queries Builder
- - [https://quantityqueries.com](https://quantityqueries.com)
- - date_published: 2024-10-22T19:23:53.283900+00:00
-
- ## Articles
- - [https://quantnet.com](https://quantnet.com)
- - date_published: 2024-05-04T15:44:31.041229+00:00
-
- ## A place to share my gained knowledge and experience
- - [https://quantonganh.com](https://quantonganh.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Smart services for a sustainable world | Quant
- - [http://www.quantservice.com](http://www.quantservice.com)
- - date_published: 2024-09-02T13:07:29.374308+00:00
-
- ## Quantstamp - Public Security Assessments
- - [https://certificate.quantstamp.com](https://certificate.quantstamp.com)
- - date_published: 2024-05-08T05:52:17.419777+00:00
-
- ## Quantstamp: Securing the Future of Web3
- - [https://protocol.quantstamp.com](https://protocol.quantstamp.com)
- - date_published: 2024-09-21T23:30:44.091783+00:00
-
- ## Quantstamp: Securing the Future of Web3
- - [https://quantstamp.com](https://quantstamp.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Azerion - Digital entertainment & media platform
- - [http://quantum-advertising.com](http://quantum-advertising.com)
- - date_published: 2024-06-25T10:22:05+00:00
-
- ## QuantumCast
- - [https://www.quantum-cast.com](https://www.quantum-cast.com)
- - date_published: 2024-07-14T23:05:25.419853+00:00
-
- ## QuantumCast Documentation
- - [https://docs.quantumcast-digital.com](https://docs.quantumcast-digital.com)
- - date_published: 2023-08-22T11:00:36+00:00
-
- ## QuantumCast
- - [https://www.quantumcast-digital.com](https://www.quantumcast-digital.com)
- - date_published: 2024-05-06T17:32:22.541518+00:00
-
- ## Ultra Clean Holdings, Inc. - Services
- - [https://quantumclean.com](https://quantumclean.com)
- - date_published: 2024-09-26T20:56:21.963915+00:00
-
- ## Digital Agency for Web, Mobile App Development & WordPress Services
- - [https://www.quantumcloud.com](https://www.quantumcloud.com)
- - date_published: 2024-06-19T19:33:02.272352+00:00
-
- ## Quantum Computing Report - Market Analysis, News & Resources
- - [https://quantumcomputingreport.com](https://quantumcomputingreport.com)
- - date_published: 2024-10-15T04:06:42.060148+00:00
-
- ## Encoder Manufacturer | Optical Encoder Manufacturer
- - [https://quantumdev.com](https://quantumdev.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## QuantumDots-Info | The QD Expert
- - [https://www.quantumdots-info.com](https://www.quantumdots-info.com)
- - date_published: 2024-06-20T17:45:57+00:00
-
- ## QEVM
- - [https://quantumevm.com](https://quantumevm.com)
- - date_published: 2024-09-04T11:56:55.079021+00:00
-
- ## quantumfaxmachine.com
- - [https://quantumfaxmachine.com](https://quantumfaxmachine.com)
- - date_published: 2024-09-04T04:08:53.162062+00:00
-
- ## Get Blazing Fast Fiber Internet for Your Home or Business
- - [http://www.quantumfiber.com](http://www.quantumfiber.com)
- - date_published: 2024-09-09T20:21:04.151647+00:00
 

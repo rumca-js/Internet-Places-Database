@@ -1,3 +1,123 @@
+ ## EF Education First | Latvija
+ - [https://www.ef.lv](https://www.ef.lv)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Bezmaksas tiešsaistes ievadkurss par mākslīgo intelektu
+ - [https://www.elementsofai.lv](https://www.elementsofai.lv)
+ - date_published: 2024-07-01T08:46:56.549664+00:00
+
+ ## Etigroup
+ - [https://www.etigroup.lv](https://www.etigroup.lv)
+ - date_published: 2024-09-02T14:25:01+00:00
+
+ ## Latvijas E-veikalu Asociācija
+ - [https://www.e-va.lv](https://www.e-va.lv)
+ - date_published: 2024-10-13T21:44:20.557966+00:00
+
+ ## Fiat LV
+ - [https://www.fiat.lv](https://www.fiat.lv)
+ - date_published: 2024-06-17T14:50:02+00:00
+
+ ## Fiat Professional Latvija | Komerctransports
+ - [https://www.fiatprofessional.lv](https://www.fiatprofessional.lv)
+ - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Autobusu braucieni pa Eiropu | FlixBus
+ - [https://www.flixbus.lv](https://www.flixbus.lv)
+ - date_published: 2024-06-28T10:10:28+00:00
+
+ ## Oficiālais Ford pārstāvis Latvijā | Ford Latvia
+ - [https://ford.lv](https://ford.lv)
+ - date_published: 2024-10-29T21:42:36.460128+00:00
+
+ ## FranklinCovey Latvia
+ - [https://www.franklincovey.lv](https://www.franklincovey.lv)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Sākumlapa
+ - [https://www.gemius.lv](https://www.gemius.lv)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Gomibo.lv - All phones and accessories
+ - [https://www.gomibo.lv](https://www.gomibo.lv)
+ - date_published: 2024-10-21T22:24:19.132779+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.lv](https://maps.google.lv)
+ - date_published: 2024-07-20T07:37:22.872249+00:00
+
+ ## Google
+ - [https://www.google.lv](https://www.google.lv)
+ - date_published: 2024-06-21T22:25:17.474715+00:00
+
+ ## LIKTA Gudrā Latvija brieduma tests
+ - [https://www.gudralatvija.lv](https://www.gudralatvija.lv)
+ - date_published: 2024-07-02T22:47:46.945580+00:00
+
+ ## Būvniecības instrumenti, preces un risinājumi
+ - [https://www.hilti.lv](https://www.hilti.lv)
+ - date_published: 2024-06-20T07:26:41.988858+00:00
+
+ ## Geriausi internetiniai kazino Latvija 2024 🥇| Top 1060 lošimo svetainių | HolyMolyCasinos 🎰
+ - [https://holymolykazino.lv](https://holymolykazino.lv)
+ - date_published: 2024-10-31T00:16:01.770340+00:00
+
+ ## Web Hosting and domain name, from only for 1.99€ | Hostico
+ - [https://hostico.lv](https://hostico.lv)
+ - date_published: 2024-06-16T14:57:01.672819+00:00
+
+ ## Piesakieties Hostinger
+ - [https://auth.hostinger.lv](https://auth.hostinger.lv)
+ - date_published: 2024-07-13T16:42:44.333619+00:00
+
+ ## Tev Veidota Hostinga Platforma – Publicē ar Hostinger
+ - [https://hostinger.lv](https://hostinger.lv)
+ - date_published: 2024-05-11T07:50:16.582658+00:00
+
+ ## IBAN pārbaudītājs: starptautiskā bankas konta numura validācija
+ - [https://www.iban.lv](https://www.iban.lv)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## IKEA – mēbeles, interjera priekšmeti un iedvesma mājokļa labiekārtošanai | IKEA Latvija
+ - [https://www.ikea.lv](https://www.ikea.lv)
+ - date_published: 2024-07-19T23:51:41.991894+00:00
+
+ ## Ford Latvija
+ - [https://ford.inchcape.lv](https://ford.inchcape.lv)
+ - date_published: 2024-10-29T21:42:38.087595+00:00
+
+ ## IR.lv
+ - [http://www.irlv.lv](http://www.irlv.lv)
+ - date_published: 2024-08-06T10:26:51.105542+00:00
+
+ ## Outdoor Apparel, Footwear & Equipment – JACK WOLFSKIN
+ - [https://www.jack-wolfskin.lv](https://www.jack-wolfskin.lv)
+ - date_published: 2024-07-14T12:16:11.126044+00:00
+
+ ## JĀNIS ROZE E-VEIKALS
+ - [https://www.janisroze.lv](https://www.janisroze.lv)
+ - date_published: 2024-07-11T10:48:34.091593+00:00
+
+ ## Jeep® Latvija | Jaunie Jeep Visurgājēji | 5 g. garantija
+ - [https://www.jeep.lv](https://www.jeep.lv)
+ - date_published: 2015-07-12T14:50:38+00:00
+
+ ## Jelgavas tipogrāfija
+ - [https://jt.lv](https://jt.lv)
+ - date_published: 2024-06-19T16:20:35.352498+00:00
+
+ ## Kaspars Dambis 🇱🇻 – Par dzīvi, elektroniku un personīgajām finansēm
+ - [https://kasparsdambis.lv](https://kasparsdambis.lv)
+ - date_published: 2024-08-18T03:48:47+00:00
+
+ ## Konecranes
+ - [https://lv.konecranes.lv](https://lv.konecranes.lv)
+ - date_published: 2024-06-20T23:11:52.038057+00:00
+
+ ## Konecranes
+ - [https://ru.konecranes.lv](https://ru.konecranes.lv)
+ - date_published: 2024-06-20T22:56:26.551920+00:00
+
  ## Index of /
  - [https://alpine.koyanet.lv](https://alpine.koyanet.lv)
  - date_published: 2024-07-20T15:59:08.809221+00:00
@@ -3948,126 +4068,4 @@
  ## funnyname
  - [https://social.funnyna.me](https://social.funnyna.me)
  - date_published: 2024-08-07T20:43:00.210786+00:00
-
- ## FYI - Focus Your Ideas
- - [https://fyi.me](https://fyi.me)
- - date_published: 2024-02-21T03:13:48+00:00
-
- ## FYI
- - [https://help.fyi.me](https://help.fyi.me)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Gabriel Talbert Bunt
- - [https://gabrieltb.me](https://gabrieltb.me)
- - date_published: 2024-06-10T18:00:37+00:00
-
- ## Galen Cuthbertson
- - [https://galen.me](https://galen.me)
- - date_published: 2024-05-11T10:09:06.171372+00:00
-
- ## gallon.me – a prisoner of curiosity …
- - [https://gallon.me](https://gallon.me)
- - date_published: 2024-07-08T16:50:59.411878+00:00
-
- ## فيديوهات تشويقية للألعاب وعروض بث مباشر ومقابلات | Gamereactor Middle East
- - [https://www.gamereactor.me](https://www.gamereactor.me)
- - date_published: 2024-07-17T13:05:48.339290+00:00
-
- ## Gang Liao
- - [http://gangliao.me](http://gangliao.me)
- - date_published: 2024-06-10T16:40:49+00:00
-
- ## GAP-Index
- - [https://g-a-p.me](https://g-a-p.me)
- - date_published: 2023-12-11T19:07:24.408783+00:00
-
- ## Attention Required! | Cloudflare
- - [http://gayan.me](http://gayan.me)
- - date_published: 2024-07-08T15:12:51.569060+00:00
-
- ## Idan Gazit
- - [https://gazit.me](https://gazit.me)
- - date_published: 2024-05-04T08:11:04.897538+00:00
-
- ## genecoin.me
- - [http://genecoin.me](http://genecoin.me)
- - date_published: 2024-07-14T10:31:12.287294+00:00
-
- ## Home - Geoff Graham
- - [https://geoffgraham.me](https://geoffgraham.me)
- - date_published: 2023-10-25T08:50:25.138457+00:00
- - tags: ['personal']
-
- ## Ge Ricci's Personal Site
- - [https://gericci.me](https://gericci.me)
- - date_published: 2024-06-14T10:38:55+00:00
-
- ## Get Your Own Personal Domain Name - Register Dot Me Domains
- - [http://getpersonalwith.me](http://getpersonalwith.me)
- - date_published: 2021-02-05T00:00:00+00:00
-
- ## Proton VPN: Fast, private, and secure VPN service
- - [https://go.getproton.me](https://go.getproton.me)
- - date_published: 2024-02-24T18:08:34.943270+00:00
-
- ## Remote Desktop from Any Device
- - [https://getscreen.me](https://getscreen.me)
- - date_published: 2024-07-10T05:51:26.195362+00:00
-
- ## Greg Holste
- - [https://gholste.me](https://gholste.me)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## /james/notes - James Gibbard
- - [https://gibbard.me](https://gibbard.me)
- - date_published: 2024-01-09T13:03:23.516752+00:00
-
- ## Free AI Message Generator Olivia
- - [https://wish.gifft.me](https://wish.gifft.me)
- - date_published: 2024-06-19T20:51:26.959545+00:00
-
- ## Thomas Gigold. Social. Media. Content.
- - [https://gigold.me](https://gigold.me)
- - date_published: 2024-07-02T18:00:51.654050+00:00
-
- ## Gilbert Pellegrom - Software Engineer from Scotland
- - [https://gilbitron.me](https://gilbitron.me)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## λm.me - home
- - [https://gilmi.me](https://gilmi.me)
- - date_published: 2024-06-01T04:56:37.679200+00:00
- - tags: ['personal']
-
- ## suppi
- - [https://vcs.gilmi.me](https://vcs.gilmi.me)
- - date_published: 2024-08-31T00:00:00+00:00
-
- ## GitMeme
- - [https://gitme.me](https://gitme.me)
- - date_published: 2024-06-30T06:57:17.466782+00:00
-
- ## Adam Gleave
- - [https://gleave.me](https://gleave.me)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## Slow we go
- - [https://1000-msec.glitch.me](https://1000-msec.glitch.me)
- - date_published: 2024-05-07T13:19:00+00:00
-
- ## 1-Line Layouts
- - [https://1linelayouts.glitch.me](https://1linelayouts.glitch.me)
- - date_published: 2024-07-17T06:51:39+00:00
-
- ## reflection
- - [https://a722r.glitch.me](https://a722r.glitch.me)
- - date_published: 2024-05-07T02:17:08+00:00
-
- ## ---
- - [https://a-clear-spring.glitch.me](https://a-clear-spring.glitch.me)
- - date_published: 2023-07-25T02:35:49+00:00
-
- ## 👁 a dream I had  👁
- - [https://a-dream-i-had.glitch.me](https://a-dream-i-had.glitch.me)
- - date_published: 2023-02-16T07:01:22+00:00
 

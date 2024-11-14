@@ -1,3 +1,136 @@
+ ## CEPIC
+ - [https://cepic.org](https://cepic.org)
+ - date_published: 2024-08-08T20:10:25.399753+00:00
+
+ ## CEP – Conseil de l'Ethique Publicitaire
+ - [https://www.cep-pub.org](https://www.cep-pub.org)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Home | CEPR
+ - [https://cepr.org](https://cepr.org)
+ - date_published: 2023-10-25T21:06:56.328532+00:00
+
+ ## The Council for Evidence-based Psychiatry
+ - [http://cepuk.org](http://cepuk.org)
+ - date_published: 2024-06-21T19:42:27.249388+00:00
+
+ ## Home
+ - [https://cercles.org](https://cercles.org)
+ - date_published: 2024-09-02T14:06:53.122893+00:00
+
+ ## CerebralPalsy.org | Help, Resources for Children with CP
+ - [https://cerebralpalsy.org](https://cerebralpalsy.org)
+ - date_published: 2024-05-12T06:10:59.454967+00:00
+
+ ## Home
+ - [https://ceres.org](https://ceres.org)
+ - date_published: 2024-05-08T10:47:54.017648+00:00
+
+ ## Ceres Solver — A Large Scale Non-linear Optimization Library
+ - [http://ceres-solver.org](http://ceres-solver.org)
+ - date_published: 2024-01-30T18:27:12+00:00
+
+ ## Раздел новостей Церкви Иисуса Христа Святых последних дней
+ - [https://novosti-by.cerkoviisusahrista.org](https://novosti-by.cerkoviisusahrista.org)
+ - date_published: 2024-05-11T09:03:12.246310+00:00
+
+ ## Новости Церкви Иисуса Христа Святых последних дней
+ - [https://novosti-kz.cerkoviisusahrista.org](https://novosti-kz.cerkoviisusahrista.org)
+ - date_published: 2024-05-11T09:03:42.169359+00:00
+
+ ## Новости Церкви Иисуса Христа Святых последних дней (мормоны)
+ - [https://novosti-ru.cerkoviisusahrista.org](https://novosti-ru.cerkoviisusahrista.org)
+ - date_published: 2024-05-11T09:01:56.625424+00:00
+
+ ## CERL Datasets
+ - [https://data.cerl.org](https://data.cerl.org)
+ - date_published: 2024-06-17T18:19:04.973125+00:00
+
+ ## CeroWrt notebook: On fixing the internet since 2011 - http://blog.cerowrt.org/
+ - [https://blog.cerowrt.org](https://blog.cerowrt.org)
+ - date_published: 2023-10-25T21:06:57.314728+00:00
+
+ ## The CERT Division | Software Engineering Institute
+ - [https://cert.org](https://cert.org)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## CERT Vulnerability Notes Database
+ - [https://kb.cert.org](https://kb.cert.org)
+ - date_published: 2023-10-25T21:06:59.207138+00:00
+
+ ## Vulnerability Analysis - Wiki - VulWiki
+ - [https://vuls.cert.org](https://vuls.cert.org)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Certi Diritti – Dal 2008 per i diritti civili e le libertà sessuali 🌈
+ - [https://www.certidiritti.org](https://www.certidiritti.org)
+ - date_published: 2024-07-02T21:26:54.720833+00:00
+
+ ## Certificate Transparency : Certificate Transparency
+ - [https://certificate-transparency.org](https://certificate-transparency.org)
+ - date_published: 2024-04-28T02:51:30.999430+00:00
+
+ ## Certified Analytics Professional
+ - [https://certifiedanalytics.org](https://certifiedanalytics.org)
+ - date_published: 2024-05-08T08:45:41.824034+00:00
+
+ ## Home | Certified Crop Adviser
+ - [https://www.certifiedcropadviser.org](https://www.certifiedcropadviser.org)
+ - date_published: 2024-07-14T03:48:18.530020+00:00
+
+ ## Humane Farm Animal Care the administrator of the Certified Humane program
+ - [https://certifiedhumane.org](https://certifiedhumane.org)
+ - date_published: 2024-07-13T17:43:48.185914+00:00
+
+ ## Main Page - Certified Senders Alliance
+ - [https://certified-senders.org](https://certified-senders.org)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Clean Energy States Alliance (CESA) - Advancing Clean Energy
+ - [https://www.cesa.org](https://www.cesa.org)
+ - date_published: 2024-10-17T17:50:10.821779+00:00
+
+ ## Home
+ - [http://www.cesaer.org](http://www.cesaer.org)
+ - date_published: 2024-07-02T05:37:17.265510+00:00
+
+ ## Center for Economic and Social Rights
+ - [https://www.cesr.org](https://www.cesr.org)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## CES Infosec Home
+ - [https://www.cessecurity.org](https://www.cessecurity.org)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Cessna Flyer Association - Home
+ - [https://www.cessnaflyer.org](https://www.cessnaflyer.org)
+ - date_published: 2024-08-07T11:52:17+00:00
+
+ ## CETAF - Consortium of European Taxonomic Facilities - CETAF
+ - [https://cetaf.org](https://cetaf.org)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## VSOLJ   under construction now
+ - [http://vsolj.cetus-net.org](http://vsolj.cetus-net.org)
+ - date_published: 2023-07-01T00:00:00+00:00
+
+ ## CEUR-WS.org - CEUR Workshop Proceedings (free, open-access publishing, computer science/information systems)
+ - [https://ceur-ws.org](https://ceur-ws.org)
+ - date_published: 2023-12-11T00:38:50.835707+00:00
+
+ ## Fabio Cevasco's Web Page
+ - [https://cevasco.org](https://cevasco.org)
+ - date_published: 2023-08-12T03:46:39+00:00
+
+ ## C-evo, Empire Building Game
+ - [https://c-evo.org](https://c-evo.org)
+ - date_published: 2024-05-14T13:53:47+00:00
+ - tags: ['open source', 'video game']
+
+ ## Home | CEWIT
+ - [http://www.cewit.org](http://www.cewit.org)
+ - date_published: 2024-08-01T00:00:00+00:00
+
  ## CF.ORG
  - [https://www.cf.org](https://www.cf.org)
  - date_published: 2024-09-16T19:52:31.928516+00:00
@@ -3919,137 +4052,4 @@ feel and do
  ## Home Page - Citizens For Modern Transit
  - [http://www.cmt-stl.org](http://www.cmt-stl.org)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## CMU Computer Club
- - [http://www.cmucc.org](http://www.cmucc.org)
- - date_published: 2024-07-20T10:31:34.365390+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.cmuccdc.org](https://www.cmuccdc.org)
- - date_published: 2024-09-24T02:47:10.883353+00:00
-
- ## CMUCL Home Page
- - [https://cmucl.org](https://cmucl.org)
- - date_published: 2024-03-22T23:00:11+00:00
-
- ## CMU CREATE Lab
- - [http://cmucreatelab.org](http://cmucreatelab.org)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## CMU FLAME Center - Home
- - [https://cmuflame.org](https://cmuflame.org)
- - date_published: 2024-03-29T21:22:25+00:00
-
- ## Home, CMU SSA - Singapore Students' Association
- - [https://cmussa.org](https://cmussa.org)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Welcome to Cheyenne Mountain Zoo - CMZoo
- - [https://www.cmzoo.org](https://www.cmzoo.org)
- - date_published: 2024-06-16T00:00:00+00:00
-
- ## National Security Analysis
- - [https://www.cna.org](https://www.cna.org)
- - date_published: 2024-06-30T03:59:40.769844+00:00
-
- ## Center for North American Prosperity and Security | CNAPS.org
- - [https://cnaps.org](https://cnaps.org)
- - date_published: 2024-08-19T00:00:00+00:00
-
- ## Center for a New American Security (en-US)
- - [https://cnas.org](https://cnas.org)
- - date_published: 2024-05-09T05:22:50.912473+00:00
-
- ## Christina Noble Children's Foundation
- - [https://cncf.org](https://cncf.org)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## Command & Conquer Online - CnCNet
- - [https://cncnet.org](https://cncnet.org)
- - date_published: 2023-11-17T21:37:56+00:00
- - tags: ['retro games', 'red alert']
-
- ## CnCNet Community Forums
- - [https://forums.cncnet.org](https://forums.cncnet.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Ladder - CnCNet
- - [https://ladder.cncnet.org](https://ladder.cncnet.org)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## CnCWorld | Command & Conquer, Generals 2, Tiberian Twilight, The First Decade
- - [https://cncworld.org](https://cncworld.org)
- - date_published: 2024-05-13T12:19:53+00:00
-
- ## My China News Digest
- - [http://www.cnd.org](http://www.cnd.org)
- - date_published: 2024-07-14T19:20:01+00:00
-
- ## CND - Campaigning for peace and a nuclear free world
- - [http://www.cnduk.org](http://www.cnduk.org)
- - date_published: 2024-10-21T13:45:07.641896+00:00
-
- ## A Console-Friendly Pastebin with binary support
- - [https://paste.c-net.org](https://paste.c-net.org)
- - date_published: 2024-10-20T23:08:42+00:00
-
- ## Welcome to Certified Naturally Grown
- - [https://www.cngfarming.org](https://www.cngfarming.org)
- - date_published: 2024-10-30T04:36:59.966363+00:00
-
- ## CNI: Coalition for Networked Information
- - [http://www.cni.org](http://www.cni.org)
- - date_published: 2024-07-17T00:00:00+00:00
-
- ## Council for the National Interest
- - [https://cnionline.org](https://cnionline.org)
- - date_published: 2024-09-16T20:13:51.314985+00:00
-
- ## Find a Nurse – Home
- - [https://registry.cno.org](https://registry.cno.org)
- - date_published: 2024-09-04T01:57:38.130402+00:00
-
- ## CnPack Open Source Projects - Home Page
- - [https://www.cnpack.org](https://www.cnpack.org)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Cloud Native Transformation Patterns
- - [https://cnpatterns.org](https://cnpatterns.org)
- - date_published: 2023-06-01T13:31:34+00:00
-
- ## CNPS Online Store | CA native plant books and educational materials
- - [http://store.cnps.org](http://store.cnps.org)
- - date_published: 2024-10-19T05:51:34.817963+00:00
-
- ## Chambre des notaires du Québec | CNQ
- - [http://www.cnq.org](http://www.cnq.org)
- - date_published: 2024-07-16T00:00:00+00:00
-
- ## Lethal Restraint from The Howard Centers for Investigative Journalism
- - [https://police.cnsmaryland.org](https://police.cnsmaryland.org)
- - date_published: 2024-08-18T20:44:25.866871+00:00
-
- ## Clausewitz Netzwerk für strategische Studien e.V. - Clausewitz Netzwerk für Strategische Studien
- - [http://www.cnss.org](http://www.cnss.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## Center for Neighborhood Technology
- - [https://www.cnt.org](https://www.cnt.org)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## Confédération nationale du travail - Un syndicat de lutte des classes !
- - [http://www.cnt-f.org](http://www.cnt-f.org)
- - date_published: 2024-07-06T00:00:00+00:00
-
- ## CNU
- - [https://cnu.org](https://cnu.org)
- - date_published: 2023-11-21T21:54:59.568176+00:00
-
- ## Attention Required! | Cloudflare
- - [https://cnvc.org](https://cnvc.org)
- - date_published: 2024-05-12T06:12:09.940537+00:00
-
- ## OpenStax | Free Textbooks Online with No Catch
- - [http://cnx.org](http://cnx.org)
- - date_published: 2024-06-12T16:06:21+00:00
 

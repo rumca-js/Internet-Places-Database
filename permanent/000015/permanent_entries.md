@@ -1,3 +1,11 @@
+ ## <mxstbr/>
+ - [https://mxstbr.blog](https://mxstbr.blog)
+ - date_published: 2018-02-21T00:00:00+00:00
+
+ ## Zondax
+ - [https://zondax.mymidnight.blog](https://zondax.mymidnight.blog)
+ - date_published: 2024-09-21T23:55:53.478352+00:00
+
  ## my silent voice/ my stil stem
  - [http://mysilentvoice.blog](http://mysilentvoice.blog)
  - date_published: 2024-09-03T23:07:36.422957+00:00
@@ -4031,12 +4039,4 @@ Educação
  ## LexisNexis Risk Solutions | Transforme sua tomada de decisão de risco
  - [https://risk.lexisnexis.com.br](https://risk.lexisnexis.com.br)
  - date_published: 2024-06-16T17:26:20.136282+00:00
-
- ## LINAK - Tecnologia de sistemas de atuadores elétricos para movimento
- - [https://www.linak.com.br](https://www.linak.com.br)
- - date_published: 2024-09-05T21:36:00.178683+00:00
-
- ## Liti Saúde
- - [https://www.litisaude.com.br](https://www.litisaude.com.br)
- - date_published: 2024-10-29T22:05:49+00:00
 

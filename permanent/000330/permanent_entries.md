@@ -1,3 +1,125 @@
+ ## The National Guard - Official Website of the National Guard
+ - [https://www.nationalguard.mil](https://www.nationalguard.mil)
+ - date_published: 2024-05-08T02:43:14.560223+00:00
+
+ ## US Naval Observatory Astronomical Applications Department
+ - [https://aa.usno.navy.mil](https://aa.usno.navy.mil)
+ - date_published: 2024-01-27T11:16:44.471272+00:00
+
+ ## Home
+ - [https://allhands.navy.mil](https://allhands.navy.mil)
+ - date_published: 2024-07-03T13:49:46.568975+00:00
+
+ ## Celestial Reference Frame Department - Home | USNO
+ - [https://crf.usno.navy.mil](https://crf.usno.navy.mil)
+ - date_published: 2023-10-27T12:05:30.068659+00:00
+
+ ## NHHC
+ - [https://history.navy.mil](https://history.navy.mil)
+ - date_published: 2023-10-25T20:22:52.200634+00:00
+
+ ## EO | USNO
+ - [https://maia.usno.navy.mil](https://maia.usno.navy.mil)
+ - date_published: 2024-08-18T14:29:03.221267+00:00
+
+ ## U.S. Naval Research Laboratory Marine Meteorology Division, Monterey
+ - [https://nrlmry.navy.mil](https://nrlmry.navy.mil)
+ - date_published: 2024-04-30T02:48:53.728265+00:00
+
+ ## Navy App Locker
+ - [https://www.applocker.navy.mil](https://www.applocker.navy.mil)
+ - date_published: 2022-07-19T19:22:49+00:00
+
+ ## Home
+ - [https://www.cnic.navy.mil](https://www.cnic.navy.mil)
+ - date_published: 2024-07-03T18:00:52.966595+00:00
+
+ ## CNMOC
+ - [https://www.cnmoc.usff.navy.mil](https://www.cnmoc.usff.navy.mil)
+ - date_published: 2024-07-09T13:08:14.479833+00:00
+
+ ## Naval Meteorology and Oceanography Command | Public Facing
+ - [https://www.metoc.navy.mil](https://www.metoc.navy.mil)
+ - date_published: 2021-09-24T18:03:39+00:00
+
+ ## Military Sealift Command
+ - [https://www.msc.usff.navy.mil](https://www.msc.usff.navy.mil)
+ - date_published: 2024-06-26T09:17:08.328748+00:00
+
+ ## MyNavyHR
+ - [https://www.mynavyhr.navy.mil](https://www.mynavyhr.navy.mil)
+ - date_published: 2024-06-29T21:39:21.610214+00:00
+
+ ## Home Page
+ - [https://www.navsea.navy.mil](https://www.navsea.navy.mil)
+ - date_published: 2024-06-22T11:53:16.339244+00:00
+
+ ## United States Navy - Home
+ - [https://www.navy.mil](https://www.navy.mil)
+ - date_published: 2024-05-08T02:44:14.482691+00:00
+
+ ## Home
+ - [https://www.ncis.navy.mil](https://www.ncis.navy.mil)
+ - date_published: 2024-07-02T01:26:01.359378+00:00
+
+ ## Office of Naval Research
+ - [https://www.nre.navy.mil](https://www.nre.navy.mil)
+ - date_published: 2024-05-07T21:01:19.212837+00:00
+
+ ## NRL
+ - [https://www.nrl.navy.mil](https://www.nrl.navy.mil)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Office of Naval Research
+ - [https://www.onr.navy.mil](https://www.onr.navy.mil)
+ - date_published: 2024-07-01T20:01:07+00:00
+
+ ## Home 
+	- 
+	SECRETARY OF THE NAVY
+ - [https://www.secnav.navy.mil](https://www.secnav.navy.mil)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Alaska National Guard - Home
+ - [https://ak.ng.mil](https://ak.ng.mil)
+ - date_published: 2024-07-03T12:56:42.856988+00:00
+
+ ## Georgia National Guard - Home
+ - [https://ga.ng.mil](https://ga.ng.mil)
+ - date_published: 2024-09-04T19:56:42.537915+00:00
+
+ ## Utah National Guard - Home
+ - [https://ut.ng.mil](https://ut.ng.mil)
+ - date_published: 2024-07-19T16:47:30.214270+00:00
+
+ ## South Carolina National Guard : Home
+ - [https://www.scguard.ng.mil](https://www.scguard.ng.mil)
+ - date_published: 2024-06-21T14:31:12.688214+00:00
+
+ ## NGA - Office of Geomatics
+ - [https://earth-info.nga.mil](https://earth-info.nga.mil)
+ - date_published: 2024-06-17T03:15:37.635021+00:00
+
+ ## GEOAxIS
+ - [https://map.nga.mil](https://map.nga.mil)
+ - date_published: 2024-10-16T07:35:29.803427+00:00
+
+ ## Maritime Safety Information
+ - [https://msi.nga.mil](https://msi.nga.mil)
+ - date_published: 2024-05-12T07:25:49.347285+00:00
+
+ ## GEOAxIS
+ - [https://portal.geo.nga.mil](https://portal.geo.nga.mil)
+ - date_published: 2024-10-16T07:34:32.027793+00:00
+
+ ## GEOAxIS
+ - [https://services.gvs.nga.mil](https://services.gvs.nga.mil)
+ - date_published: 2024-10-16T07:35:35.743416+00:00
+
+ ## GEOAxIS
+ - [https://webanalytics.nga.mil](https://webanalytics.nga.mil)
+ - date_published: 2024-10-16T07:35:41.924671+00:00
+
  ## GEOAxIS
  - [https://websvcs.geo.nga.mil](https://websvcs.geo.nga.mil)
  - date_published: 2024-10-16T07:35:47.860689+00:00
@@ -3913,124 +4035,4 @@
  ## Home
  - [https://switches.mx](https://switches.mx)
  - date_published: 2024-07-10T11:23:03.023041+00:00
-
- ## Tala México | Préstamos Personales Rápidos (hasta $10,000)
- - [https://talamobile.mx](https://talamobile.mx)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Home - Santiago Degetau's Design & Web Development Portfolio
- - [https://taus.mx](https://taus.mx)
- - date_published: 2020-07-07T13:08:13+00:00
-
- ## Tecnológico de Monterrey | Sitio de oportunidades
- - [https://jobs.tec.mx](https://jobs.tec.mx)
- - date_published: 2024-08-19T04:59:58.910388+00:00
-
- ## Inicio | Tecnológico de Monterrey
- - [https://tec.mx](https://tec.mx)
- - date_published: 2024-06-30T22:30:35+00:00
-
- ## Noticias CdMx EN VIVO hoy en Telediario| Telediario México
- - [https://www.telediario.mx](https://www.telediario.mx)
- - date_published: 2024-10-31T21:49:51.587651+00:00
-
- ## The Pool Coworking Space, Renta de Oficinas y Salas de Juntas por Hora en Polanco, Juárez, San Ángel y Montes Urales
- - [http://thepool.mx](http://thepool.mx)
- - date_published: 2024-08-18T09:53:19.404962+00:00
-
- ## Bright
- - [https://cuenta.thinkbright.mx](https://cuenta.thinkbright.mx)
- - date_published: 2024-07-03T18:21:08+00:00
-
- ## Servicio de energía solar sin inversión
- - [https://thinkbright.mx](https://thinkbright.mx)
- - date_published: 2024-05-08T04:28:43.856419+00:00
-
- ## Top Doctors | Para tu tranquilidad, sólo los mejores médicos | Top Doctors
- - [https://www.topdoctors.mx](https://www.topdoctors.mx)
- - date_published: 2024-09-06T12:45:41.878349+00:00
-
- ## Fichajes de fútbol, rumores, valores de mercado y noticias
- - [https://www.transfermarkt.mx](https://www.transfermarkt.mx)
- - date_published: 2024-07-24T06:23:28.812569+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://xamanek.izt.uam.mx](http://xamanek.izt.uam.mx)
- - date_published: 2019-05-28T00:11:09+00:00
-
- ## Universidad Cristóbal Colón :: Educar para Servir
- - [https://www.ucc.mx](https://www.ucc.mx)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Universidad de Colima
- - [http://www.ucol.mx](http://www.ucol.mx)
- - date_published: 2024-10-30T20:23:40.350821+00:00
-
- ## Inicio | Universidad de Guadalajara
- - [http://udg.mx](http://udg.mx)
- - date_published: 2024-07-04T03:15:08+00:00
-
- ## uDiscover Store MX
- - [https://udiscover.mx](https://udiscover.mx)
- - date_published: 2024-06-26T10:37:19.860267+00:00
-
- ## UDLAP - Universidad de las Américas Puebla
- - [http://www.udlap.mx](http://www.udlap.mx)
- - date_published: 2024-10-30T20:26:40.312950+00:00
-
- ## Piloto BSF+ - Ultra Biotech México
- - [https://ultrabiotech.mx](https://ultrabiotech.mx)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## IIMAS-UNAM – Líder en las diversas áreas de las matemáticas aplicadas, la ciencia e ingeniería de la computación y los sistemas
- - [https://iimas.unam.mx](https://iimas.unam.mx)
- - date_published: 2024-07-12T08:38:50.361586+00:00
-
- ## Correo de Ingenieria
- - [https://ingenieria.unam.mx](https://ingenieria.unam.mx)
- - date_published: 2024-07-09T08:12:03.327342+00:00
-
- ## Departamento de Ciencias de la Computación
- - [https://turing.iimas.unam.mx](https://turing.iimas.unam.mx)
- - date_published: 2024-05-10T05:04:16.291437+00:00
-
- ## Facultad de Medicina UNAM
- - [http://www.facmed.unam.mx](http://www.facmed.unam.mx)
- - date_published: 2024-06-24T09:31:36.910111+00:00
-
- ## IPv6 México, Capítulo Mexicano del Foro IPv6
- - [http://www.ipv6.unam.mx](http://www.ipv6.unam.mx)
- - date_published: 2011-05-25T19:21:57+00:00
-
- ## LANMR 2024
- - [http://www.lanmr.unam.mx](http://www.lanmr.unam.mx)
- - date_published: 2024-08-08T03:36:21+00:00
-
- ## Unidad Cuernavaca del Instituto de Matemáticas, UNAM
- - [http://www.matcuer.unam.mx](http://www.matcuer.unam.mx)
- - date_published: 2024-06-30T09:20:40.868769+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.unam.mx](https://www.unam.mx)
- - date_published: 2024-07-01T16:32:18.184198+00:00
-
- ## Unidos por los Derechos Humanos, materiales educativos, videos
- - [https://www.unidosporlosderechoshumanos.mx](https://www.unidosporlosderechoshumanos.mx)
- - date_published: 2024-09-04T17:58:01.741288+00:00
-
- ## Inicio
- - [https://www.upaep.mx](https://www.upaep.mx)
- - date_published: 2024-10-30T23:10:50+00:00
-
- ## Encuentra el embrague en nuestro buscador de kits de embragues | Valeo Service
- - [https://www.valeoservice.mx](https://www.valeoservice.mx)
- - date_published: 2024-10-31T11:24:27+00:00
-
- ## Espacio turístico virtual de Morelos más completo de todos
- - [https://visitmorelos.mx](https://visitmorelos.mx)
- - date_published: 2024-09-10T13:10:46.000178+00:00
-
- ## Página de inicio de VisitTheUSA.com
- - [https://www.visittheusa.mx](https://www.visittheusa.mx)
- - date_published: 2024-07-08T14:22:28.492886+00:00
 

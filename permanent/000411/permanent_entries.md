@@ -1,3 +1,145 @@
+ ## Filozofická fakulta | Fakulty Katolíckej univerzity | Filozofická fakulta Katolíckej univerzity v&nbsp;Ružomberku
+ - [http://ff.ku.sk](http://ff.ku.sk)
+ - date_published: 2024-07-02T23:19:22+00:00
+
+ ## MEDart
+ - [http://medart.ku.sk](http://medart.ku.sk)
+ - date_published: 2024-07-02T23:19:21.535611+00:00
+
+ ## Médiá KU – Mediálny portál študentov žurnalistiky na FF KU
+ - [http://media.ku.sk](http://media.ku.sk)
+ - date_published: 2024-07-02T23:19:17.155103+00:00
+
+ ## Rodina a médiá
+ - [http://rodinaamedia.ku.sk](http://rodinaamedia.ku.sk)
+ - date_published: 2024-05-07T23:43:59.630313+00:00
+
+ ## TV UNICA
+ - [http://unica.ku.sk](http://unica.ku.sk)
+ - date_published: 2024-07-02T23:19:12.714457+00:00
+
+ ## ZUMAG
+ - [http://zumag.ku.sk](http://zumag.ku.sk)
+ - date_published: 2024-07-02T23:19:18.406380+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.kulman.sk](https://analytics.kulman.sk)
+ - date_published: 2024-09-04T03:36:27.573916+00:00
+
+ ## Igor Kulman
+ - [https://blog.kulman.sk](https://blog.kulman.sk)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Igor Kulman
+ - [https://kulman.sk](https://kulman.sk)
+ - date_published: 2024-06-01T04:51:26.335793+00:00
+ - tags: ['personal']
+
+ ## Aktuálne letáky a akcie online | Kupino.sk
+ - [https://www.kupino.sk](https://www.kupino.sk)
+ - date_published: 2024-09-05T17:08:32.873559+00:00
+
+ ## Land Rover | Objavte luxusné SUV a vozidlá 4x4 | Land Rover Slovakia
+ - [https://www.landrover.sk](https://www.landrover.sk)
+ - date_published: 2024-07-09T17:15:16.017816+00:00
+
+ ## Laura – Združenie mladých – Cieľom činnosti je rozvíjanie osobnosti mladých ľudí – so špeciálnou pozornosťou na dievčatá a mladé ženy – a plnohodnotné využitie voľného času.
+ - [https://www.laura-mladez.sk](https://www.laura-mladez.sk)
+ - date_published: 2024-07-02T22:29:54.238398+00:00
+
+ ## Lidl.sk | Správna voľba
+ - [https://www.lidl.sk](https://www.lidl.sk)
+ - date_published: 2024-06-25T19:03:16.749644+00:00
+
+ ## LiveAgent | Jednoduchý softvér zákazníckej podpory pre tímy
+ - [https://www.liveagent.sk](https://www.liveagent.sk)
+ - date_published: 2024-10-19T20:26:59.273532+00:00
+
+ ## MALL.SK - domáce spotrebiče, elektronika, notebooky, televízory, outdoor, hobby a záhrada, hračky, chovateľské potreby
+ - [https://www.mall.sk](https://www.mall.sk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Martinus - Najväčšie internetové kníhkupectvo
+ - [https://www.martinus.sk](https://www.martinus.sk)
+ - date_published: 2024-07-11T10:51:11.667521+00:00
+
+ ## HOME | Mediálna škola
+ - [https://medialnaskola.sk](https://medialnaskola.sk)
+ - date_published: 2024-05-07T23:40:07.947253+00:00
+
+ ## Aktuality | Mediálna škola
+ - [http://old.medialnaskola.sk](http://old.medialnaskola.sk)
+ - date_published: 2024-07-02T22:29:44.997136+00:00
+
+ ## Medialna Výchova - Centrum mediálnej gramotnosti
+ - [https://medialnavychova.sk](https://medialnavychova.sk)
+ - date_published: 2024-05-07T23:40:53.900613+00:00
+
+ ## Mediatex – Všeobecné obchodné podmenky
+ - [https://vop.mediatex.sk](https://vop.mediatex.sk)
+ - date_published: 2024-08-08T17:08:23.265319+00:00
+
+ ## Zoznamka: spoznajte ľudí, ktorí hľadajú vážny vzťah | Meetic
+ - [https://www.meetic.sk](https://www.meetic.sk)
+ - date_published: 2024-09-04T11:50:09.967940+00:00
+
+ ## Poisťovňa MetLife | metlife.sk
+ - [https://www.metlife.sk](https://www.metlife.sk)
+ - date_published: 2024-07-19T16:44:48+00:00
+
+ ## Microsoft – cloud, počítače, aplikácie a hry
+ - [http://www.microsoft.sk](http://www.microsoft.sk)
+ - date_published: 2024-07-12T14:11:11.721766+00:00
+
+ ## Michal's low level corner
+ - [https://migeel.sk](https://migeel.sk)
+ - date_published: 2023-10-25T08:55:55.090139+00:00
+ - tags: ['personal']
+
+ ## Domov | Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky
+ - [https://www.minedu.sk](https://www.minedu.sk)
+ - date_published: 2024-07-02T22:29:51.019339+00:00
+
+ ## Ministerstvo životného prostredia
+ - [https://www.minzp.sk](https://www.minzp.sk)
+ - date_published: 2024-08-08T17:07:30.543672+00:00
+
+ ## About - Marián Mižik
+ - [https://mizik.sk](https://mizik.sk)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## MLAR – Media Literacy and Academic Research
+ - [http://www.mlar.sk](http://www.mlar.sk)
+ - date_published: 2024-07-02T22:45:08.062087+00:00
+
+ ## MMA & BJJ - Nitra
+ - [https://mmanitra.sk](https://mmanitra.sk)
+ - date_published: 2023-08-29T00:00:00+00:00
+
+ ## Electronic Components Distributor - Mouser Electronics Slovakia
+ - [https://www.mouser.sk](https://www.mouser.sk)
+ - date_published: 2024-07-01T20:55:46.376170+00:00
+
+ ## Bezplatný rodokmeň, genealógia, história rodiny a testovanie DNA
+ - [https://www.myheritage.sk](https://www.myheritage.sk)
+ - date_published: 2024-10-30T07:55:45.328603+00:00
+
+ ## SUBWAY® Slovensko | Objav viac ako 29 chutí pre Tvoj obed či večeru.
+ - [https://mysubway.sk](https://mysubway.sk)
+ - date_published: 2024-05-12T00:00:00+00:00
+
+ ## Domov - MZV
+ - [https://www.mzv.sk](https://www.mzv.sk)
+ - date_published: 2024-10-16T10:15:24.114063+00:00
+
+ ## Nadácia Pontis - Silné spojenia pre pozitívne zmeny
+ - [https://www.nadaciapontis.sk](https://www.nadaciapontis.sk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## NetSuccess - Online Marketing a webové technológie
+ - [https://www.netsuccess.sk](https://www.netsuccess.sk)
+ - date_published: 2023-05-16T00:00:00+00:00
+
  ## Nextech | NEXTECH
  - [https://www.nextech.sk](https://www.nextech.sk)
  - date_published: 2024-07-02T23:42:55.488164+00:00
@@ -3910,145 +4052,4 @@ conflicts of interest and restore Community Trust.
  ## Angular and .NET Consultancy from Experts - Offering Solutions Software - Angular, .NET
  - [https://offering.solutions](https://offering.solutions)
  - date_published: 2024-04-12T00:00:00+00:00
-
- ## OS DS Audience Discovery
- - [https://app.osdata.solutions](https://app.osdata.solutions)
- - date_published: 2024-06-24T22:46:47+00:00
-
- ## Pez Solutions
- - [https://pez.solutions](https://pez.solutions)
- - date_published: 2024-08-08T15:21:17.425929+00:00
-
- ## Karl Solgård
- - [https://blog.solgard.solutions](https://blog.solgard.solutions)
- - date_published: 2024-05-12T21:43:05.671319+00:00
-
- ## Spawn Solutions
- - [https://spawn.solutions](https://spawn.solutions)
- - date_published: 2023-06-01T20:32:21+00:00
-
- ## stateless
- - [https://www.stateless.solutions](https://www.stateless.solutions)
- - date_published: 2024-09-23T19:01:19.909304+00:00
-
- ## Suboptimal Code
- - [https://git.suboptimal.solutions](https://git.suboptimal.solutions)
- - date_published: 2024-08-17T00:00:00+00:00
-
- ## SynPro Solutions
- - [https://synpro.solutions](https://synpro.solutions)
- - date_published: 2024-04-29T10:24:51+00:00
-
- ## Home - Twirltech Solutions
- - [https://twirltech.solutions](https://twirltech.solutions)
- - date_published: 2024-06-29T09:11:15.180223+00:00
-
- ## Home | Unearthed
- - [https://unearthed.solutions](https://unearthed.solutions)
- - date_published: 2024-05-10T05:10:17.274394+00:00
-
- ## unified/ban - Management and protection systems for Twitch and Telegram
- - [https://dash.unifiedban.solutions](https://dash.unifiedban.solutions)
- - date_published: 2024-06-27T12:17:47.371210+00:00
-
- ## Join the influencer.camp Discord Server!
- - [https://ds.unifiedban.solutions](https://ds.unifiedban.solutions)
- - date_published: 2024-06-27T00:39:58+00:00
-
- ## unified/ban - Management and protection systems for Twitch and Telegram
- - [https://unifiedban.solutions](https://unifiedban.solutions)
- - date_published: 2023-02-22T12:40:06+00:00
-
- ## Velociraptor Aerospace Dynamics
- - [https://vad.solutions](https://vad.solutions)
- - date_published: 2018-02-03T21:30:32+00:00
-
- ## Yasha Solutions
- - [https://yasha.solutions](https://yasha.solutions)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## OpenZeppelin Forum
- - [https://forum.zeppelin.solutions](https://forum.zeppelin.solutions)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Sony AI – Unleash Human Imagination and Creativity with AI
- - [https://ai.sony](https://ai.sony)
- - date_published: 2024-04-28T03:29:04.335323+00:00
-
- ## Sony Locator
- - [https://locator.sony](https://locator.sony)
- - date_published: 2024-07-29T08:08:47.066629+00:00
-
- ## Change Country
- - [https://pro.sony](https://pro.sony)
- - date_published: 2024-04-29T05:17:02.682603+00:00
-
- ## Sony Research
- - [https://research.sony](https://research.sony)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Consoom.Soy
- - [https://consoom.soy](https://consoom.soy)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Hello .soy
- - [https://iam.soy](https://iam.soy)
- - date_published: 2024-05-10T05:46:42.756080+00:00
-
- ## ilyakooo0
- - [https://iko.soy](https://iko.soy)
- - date_published: 2024-03-25T09:46:57+00:00
-
- ## null & void Danger Ultraviolet
- - [https://0ultraviolet.space](https://0ultraviolet.space)
- - date_published: 2024-04-30T07:17:35.274995+00:00
-
- ## 0ut3r Space
- - [https://0ut3r.space](https://0ut3r.space)
- - date_published: 2023-10-25T22:41:55.742385+00:00
-
- ## Umami
- - [https://stats.0ut3r.space](https://stats.0ut3r.space)
- - date_published: 2024-08-18T16:12:41.775012+00:00
-
- ## Alan's Space
- - [https://18alan.space](https://18alan.space)
- - date_published: 2023-10-25T09:24:43.871441+00:00
- - tags: ['personal']
-
- ## Darcs, friendly version control
- - [https://darcsbook.acmelabs.space](https://darcsbook.acmelabs.space)
- - date_published: 2020-10-25T10:18:31+00:00
-
- ## Mike He
- - [https://ad1024.space](https://ad1024.space)
- - date_published: 2024-06-01T01:27:13+00:00
-
- ## ADRIANNE'S SPACE
- - [https://adrianne.space](https://adrianne.space)
- - date_published: 2024-06-20T21:32:08.113022+00:00
-
- ## Adventures in Outer Space
- - [https://www.adventuresinouter.space](https://www.adventuresinouter.space)
- - date_published: 2024-05-19T01:49:38+00:00
-
- ## SPACE AdServer
- - [https://adx.space](https://adx.space)
- - date_published: 2023-04-05T11:10:05+00:00
-
- ## Space in Africa – Market Intelligence, Consulting, and Media focused on the African Space Industry
- - [https://africanews.space](https://africanews.space)
- - date_published: 2024-06-18T17:37:44.996779+00:00
-
- ## Home
- - [https://opportunities.africanews.space](https://opportunities.africanews.space)
- - date_published: 2024-10-23T06:17:04.488395+00:00
-
- ## AISpeak: Practice English speaking
- - [https://aispeak.space](https://aispeak.space)
- - date_published: 2024-06-19T18:52:59+00:00
-
- ## Alanna Irving
- - [https://www.alanna.space](https://www.alanna.space)
- - date_published: 2024-07-15T11:09:56.271172+00:00
 

@@ -1,3 +1,104 @@
+ ## BILDplus Shop Hardware Bundle BILDplus
+ - [https://bildplusshop.bild.de](https://bildplusshop.bild.de)
+ - date_published: 2024-07-19T22:54:52.582037+00:00
+
+ ## Bild-Bußgeldcheck - Einspruch gegen Bußgeld, Punkte und Fahrverbot
+ - [https://bussgeldcheck.bild.de](https://bussgeldcheck.bild.de)
+ - date_published: 2024-04-29T05:50:48.757286+00:00
+
+ ## Abo Kündigung
+ - [https://cancellation.prod.ps.bild.de](https://cancellation.prod.ps.bild.de)
+ - date_published: 2024-04-29T05:50:19.492858+00:00
+
+ ## IOAM
+ - [https://data-861bbf2127.bild.de](https://data-861bbf2127.bild.de)
+ - date_published: 2024-04-29T05:55:55.299127+00:00
+
+ ## IOAM
+ - [https://data-bb21a2f11b.bild.de](https://data-bb21a2f11b.bild.de)
+ - date_published: 2024-04-29T05:49:53.409996+00:00
+
+ ## BILD ePaper
+ - [https://epaper.bild.de](https://epaper.bild.de)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Online Führerscheintest
+ - [https://fahrschule.bild.de](https://fahrschule.bild.de)
+ - date_published: 2024-04-29T05:50:18.082942+00:00
+
+ ## Fehler
+ - [https://fonti.prod.ps.bild.de](https://fonti.prod.ps.bild.de)
+ - date_published: 2024-07-24T03:23:28.948697+00:00
+
+ ## bild slotmachine
+ - [https://gluecksdreh.bild.de](https://gluecksdreh.bild.de)
+ - date_published: 2024-04-29T05:50:37.598085+00:00
+
+ ## Kostenlose Gutscheine für alle Top-Online-Shops - BILD
+ - [https://gutscheine.bild.de](https://gutscheine.bild.de)
+ - date_published: 2024-04-29T05:50:03.502164+00:00
+
+ ## Fehler 404 invalid url
+ - [https://hds.ak.token.bild.de](https://hds.ak.token.bild.de)
+ - date_published: 2024-04-29T05:50:05.624408+00:00
+
+ ## Hey_ Ihr Helfer mit KI
+ - [https://hey.bild.de](https://hey.bild.de)
+ - date_published: 2024-04-29T05:50:00.492442+00:00
+
+ ## Der große IQ-Trainer
+ - [https://iqtest.bild.de](https://iqtest.bild.de)
+ - date_published: 2024-04-29T05:55:52.269493+00:00
+
+ ## BILD Jobs Stellenmarkt
+ - [https://jobs.bild.de](https://jobs.bild.de)
+ - date_published: 2024-04-29T05:50:44.837748+00:00
+
+ ## Login - oculus - Axel Springer
+ - [https://marketing.bild.de](https://marketing.bild.de)
+ - date_published: 2024-04-29T05:50:49.716403+00:00
+
+ ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
+ - [https://marktplatz.bild.de](https://marktplatz.bild.de)
+ - date_published: 2024-04-29T05:50:31.050510+00:00
+
+ ## Aktuelle Nachrichten | BILD.de
+ - [https://m.bild.de](https://m.bild.de)
+ - date_published: 2023-10-29T18:15:30.206767+00:00
+ - tags: ['news']
+
+ ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
+ - [https://m.sportbild.bild.de](https://m.sportbild.bild.de)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
+ - [https://m.sport.bild.de](https://m.sport.bild.de)
+ - date_published: 2024-04-29T05:55:54.730835+00:00
+
+ ## {bdeTitle}
+ - [https://m.wetter.bild.de](https://m.wetter.bild.de)
+ - date_published: 2024-04-29T05:50:12.924192+00:00
+
+ ## Bild PLAY | Der innovative Video Feed
+ - [https://play.bild.de](https://play.bild.de)
+ - date_published: 2024-04-29T05:50:18.940780+00:00
+
+ ## Fehler
+ - [https://rosetta.prod.ps.bild.de](https://rosetta.prod.ps.bild.de)
+ - date_published: 2024-04-29T05:50:22.057313+00:00
+
+ ## BILD Marktplatz - Dein Marktplatz für sicheres Einkaufen
+ - [https://shop.bild.de](https://shop.bild.de)
+ - date_published: 2024-07-24T20:15:07.165079+00:00
+
+ ## Kostenlose Onlinegames: Jetzt gratis online spielen
+ - [https://spiele.bild.de](https://spiele.bild.de)
+ - date_published: 2024-04-29T05:49:45.914739+00:00
+
+ ## Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos | Sportbild.de
+ - [https://sportbild.bild.de](https://sportbild.bild.de)
+ - date_published: 2024-04-28T00:00:00+00:00
+
  ## Sport Ergebnisse, Spiele und Liveticker von Heute - 29.04.2024
  - [https://sport.bild.de](https://sport.bild.de)
  - date_published: 2024-04-29T05:49:59.043688+00:00
@@ -3915,104 +4016,4 @@ home
  ## Personensuche im Internet - kostenlos bei Das Telefonbuch
  - [https://personensuche.dastelefonbuch.de](https://personensuche.dastelefonbuch.de)
  - date_published: 2024-08-13T00:00:00+00:00
-
- ## Das Telefonbuch >> Mehr als Adressen und Telefonnummern!
- - [https://www.dastelefonbuch.de](https://www.dastelefonbuch.de)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## DAT Karriere
- - [https://career.dat.de](https://career.dat.de)
- - date_published: 2024-08-11T04:06:18.287376+00:00
-
- ## DE
- - [https://dat.de](https://dat.de)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## DAT Report
- - [https://report.dat.de](https://report.dat.de)
- - date_published: 2024-07-11T14:38:27.414704+00:00
-
- ## data2day 2024– Die Konferenz für Data Scientists, Data Engineers und Data Teams
- - [https://www.data2day.de](https://www.data2day.de)
- - date_published: 2024-07-24T07:16:56.193623+00:00
-
- ## data:unplugged am 07.03.2024!
- - [https://www.data-unplugged.de](https://www.data-unplugged.de)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Datawrapper Academy
- - [https://academy.datawrapper.de](https://academy.datawrapper.de)
- - date_published: 2024-04-29T06:02:07.790040+00:00
-
- ## Datawrapper
- - [https://app.datawrapper.de](https://app.datawrapper.de)
- - date_published: 2024-04-29T06:02:06.409109+00:00
-
- ## Datawrapper Blog
- - [https://blog.datawrapper.de](https://blog.datawrapper.de)
- - date_published: 2023-10-25T18:29:23.861867+00:00
-
- ## Datawrapper: Create charts, maps, and tables
- - [https://datawrapper.de](https://datawrapper.de)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## Getting Started
- - [https://developer.datawrapper.de](https://developer.datawrapper.de)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://pwk.datawrapper.de](https://pwk.datawrapper.de)
- - date_published: 2024-04-29T06:02:05.528406+00:00
-
- ## Datawrapper River
- - [https://river.datawrapper.de](https://river.datawrapper.de)
- - date_published: 2024-04-29T06:02:18.985375+00:00
-
- ## Blogless — Writing Articles online without a Blog
- - [https://blogless.datenbrei.de](https://blogless.datenbrei.de)
- - date_published: 2021-09-23T22:00:00+00:00
-
- ## datenbrei.de
- - [http://datenbrei.de](http://datenbrei.de)
- - date_published: 2024-07-24T07:56:14.199348+00:00
-
- ## Martin DÃ¶ring
- - [https://martin.datenbrei.de](https://martin.datenbrei.de)
- - date_published: 2024-04-29T06:02:26.813129+00:00
-
- ## mobiki — the mobile first wiki
- - [http://mobiki.datenbrei.de](http://mobiki.datenbrei.de)
- - date_published: 2017-02-01T00:00:00+00:00
-
- ## Reisen
- - [http://reisen.datenbrei.de](http://reisen.datenbrei.de)
- - date_published: 2017-01-02T00:00:00+00:00
-
- ## Aram Bartholl
- - [http://datenform.de](http://datenform.de)
- - date_published: 2024-07-13T16:14:49.729681+00:00
-
- ## Home - Software für Hochschulen | Datenlotsen Informationssysteme GmbH
- - [http://www.datenlotsen.de](http://www.datenlotsen.de)
- - date_published: 2024-10-22T05:20:17.054305+00:00
-
- ## Startseite - Berliner Beauftragte für Datenschutz und Informationsfreiheit
- - [https://www.datenschutz-berlin.de](https://www.datenschutz-berlin.de)
- - date_published: 2024-06-23T11:48:24.147849+00:00
-
- ## Datenschutzerklärung Generator - kostenlos & DSGVO sicher
- - [https://datenschutz-generator.de](https://datenschutz-generator.de)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## datensicherheit.de - Informationen zu Datensicherheit und Datenschutz
- - [https://www.datensicherheit.de](https://www.datensicherheit.de)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Datenspuren 2024
- - [https://datenspuren.de](https://datenspuren.de)
- - date_published: 2024-04-29T05:57:59.049558+00:00
-
- ## Home
- - [https://dateo-software.de](https://dateo-software.de)
- - date_published: 2024-06-18T06:03:57.515516+00:00
 

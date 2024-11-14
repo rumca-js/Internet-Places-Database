@@ -1,3 +1,11 @@
+ ## LINAK - Tecnologia de sistemas de atuadores elétricos para movimento
+ - [https://www.linak.com.br](https://www.linak.com.br)
+ - date_published: 2024-09-05T21:36:00.178683+00:00
+
+ ## Liti Saúde
+ - [https://www.litisaude.com.br](https://www.litisaude.com.br)
+ - date_published: 2024-10-29T22:05:49+00:00
+
  ## LiveAgent | Software simples de suporte ao cliente para equipes
  - [https://www.liveagent.com.br](https://www.liveagent.com.br)
  - date_published: 2024-10-19T20:27:14.339827+00:00
@@ -4002,12 +4010,4 @@
  ## Ansuz - Matthew Skala's home page
  - [https://ansuz.sooke.bc.ca](https://ansuz.sooke.bc.ca)
  - date_published: 2024-07-07T07:19:18.693771+00:00
-
- ## Home
- - [http://spca.bc.ca](http://spca.bc.ca)
- - date_published: 2024-06-27T12:56:53.108009+00:00
-
- ## Vancouver Art Gallery
- - [http://www.vanartgallery.bc.ca](http://www.vanartgallery.bc.ca)
- - date_published: 2024-06-19T00:00:00+00:00
 

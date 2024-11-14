@@ -1,3 +1,55 @@
+ ## Rio Arjuna – Medium
+ - [https://ri0arjuna.medium.com](https://ri0arjuna.medium.com)
+ - date_published: 2024-07-04T10:59:59.870301+00:00
+
+ ## Riccardo Giorato – Medium
+ - [https://riccardogiorato.medium.com](https://riccardogiorato.medium.com)
+ - date_published: 2024-05-12T05:27:46.411322+00:00
+
+ ## Richa – Medium
+ - [https://richa-56657.medium.com](https://richa-56657.medium.com)
+ - date_published: 2024-09-25T12:29:22.093007+00:00
+
+ ## Richard Kenneth Eng – Medium
+ - [https://richardeng.medium.com](https://richardeng.medium.com)
+ - date_published: 2023-10-25T10:22:29.415887+00:00
+
+ ## Richard Muirhead – Medium
+ - [https://richardmuirhead.medium.com](https://richardmuirhead.medium.com)
+ - date_published: 2024-09-23T14:14:05.060846+00:00
+
+ ## Richard D. Bartlett – Medium
+ - [https://richdecibels.medium.com](https://richdecibels.medium.com)
+ - date_published: 2024-07-15T11:10:42.904094+00:00
+
+ ## Rebecca Murphey – Medium
+ - [https://rmurphey.medium.com](https://rmurphey.medium.com)
+ - date_published: 2024-07-14T11:34:16.978536+00:00
+
+ ## Robert Higdon – Medium
+ - [https://roberthigdon.medium.com](https://roberthigdon.medium.com)
+ - date_published: 2024-06-21T11:37:00.583538+00:00
+
+ ## Robert Roy Britt – Medium
+ - [https://robertroybritt.medium.com](https://robertroybritt.medium.com)
+ - date_published: 2024-07-14T23:29:47.042406+00:00
+
+ ## Roger Martin – Medium
+ - [https://rogermartin.medium.com](https://rogermartin.medium.com)
+ - date_published: 2024-07-14T03:50:33.978095+00:00
+
+ ## Rogier Dijkman – Medium
+ - [https://rogierdijkman.medium.com](https://rogierdijkman.medium.com)
+ - date_published: 2024-06-29T05:37:18.635847+00:00
+
+ ## Roman Pichler – Medium
+ - [https://romanpichler.medium.com](https://romanpichler.medium.com)
+ - date_published: 2024-10-15T19:16:48.720680+00:00
+
+ ## Rosie Harman – Medium
+ - [https://rosie-harman.medium.com](https://rosie-harman.medium.com)
+ - date_published: 2024-02-08T17:50:07.027749+00:00
+
  ## Rosie Sherry – Medium
  - [https://rosiesherry.medium.com](https://rosiesherry.medium.com)
  - date_published: 2023-10-25T10:22:31.783188+00:00
@@ -3966,58 +4018,4 @@
  ## Messy Matters | Bring your own data
  - [http://messymatters.com](http://messymatters.com)
  - date_published: 2024-06-25T00:44:31+00:00
-
- ## Messy Nessy Chic
- - [https://messynessychic.com](https://messynessychic.com)
- - date_published: 2024-04-17T17:53:29+00:00
- - tags: ['personal']
-
- ## Shop Messy Nessy Chic Books and Collectibles
- - [https://shop.messynessychic.com](https://shop.messynessychic.com)
- - date_published: 2024-08-11T03:53:13.822397+00:00
-
- ## Messy Nessy Chic
- - [https://static.messynessychic.com](https://static.messynessychic.com)
- - date_published: 2024-08-11T03:53:11.464040+00:00
-
- ## MeStephen.com
- - [http://mestephen.com](http://mestephen.com)
- - date_published: 2013-10-20T06:40:17+00:00
-
- ## Il Mestiere di Scrivere - Blog
- - [http://blog.mestierediscrivere.com](http://blog.mestierediscrivere.com)
- - date_published: 2024-07-04T08:25:34.474883+00:00
-
- ## Il mestiere di scrivere
- - [https://mestierediscrivere.com](https://mestierediscrivere.com)
- - date_published: 2018-12-05T22:53:52+00:00
-
- ## 企业数字化转型解决方案服务商_工业智能化顶层规划咨询及项目实施__北京麦斯时代信息技术有限公司
- - [http://www.mestime.com](http://www.mestime.com)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Meta | Social Metaverse Company
- - [https://about.meta.com](https://about.meta.com)
- - date_published: 2024-04-28T03:10:45.713960+00:00
-
- ## AI Demos | Meta FAIR
- - [https://aidemos.meta.com](https://aidemos.meta.com)
- - date_published: 2024-09-06T23:01:47.993969+00:00
-
- ## Error
- - [https://ai.meta.com](https://ai.meta.com)
- - date_published: 2023-12-05T18:26:53.355058+00:00
-
- ## Program overview | Meta Bug Bounty
- - [https://bugbounty.meta.com](https://bugbounty.meta.com)
- - date_published: 2024-07-19T02:31:57.716356+00:00
-
- ## VR dla firm i gogle VR do prowadzenia działalności | Meta for Work
- - [https://forwork.meta.com](https://forwork.meta.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## Llama
- - [https://llama.meta.com](https://llama.meta.com)
- - date_published: 2024-03-02T19:19:13.297005+00:00
- - tags: ['llm', 'artificial intelligence']
 

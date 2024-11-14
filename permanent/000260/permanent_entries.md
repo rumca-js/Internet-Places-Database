@@ -1,3 +1,116 @@
+ ## Home | Institute for Advanced Study
+ - [https://ias.edu](https://ias.edu)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Redirecting...
+ - [https://mail.ias.edu](https://mail.ias.edu)
+ - date_published: 2024-07-01T18:45:15.432604+00:00
+
+ ## School of Mathematics
+ - [https://math.ias.edu](https://math.ias.edu)
+ - date_published: 2019-09-11T19:48:03+00:00
+
+ ## Faculty & Emeriti
+ - [https://publications.ias.edu](https://publications.ias.edu)
+ - date_published: 2019-12-26T21:39:37+00:00
+
+ ## School of Natural Sciences
+ - [https://sns.ias.edu](https://sns.ias.edu)
+ - date_published: 2009-10-19T23:20:51+00:00
+
+ ## IAS Store
+ - [https://store.ias.edu](https://store.ias.edu)
+ - date_published: 2024-04-30T04:56:28.052317+00:00
+
+ ## AccessPlus Login
+ - [http://accessplus.iastate.edu](http://accessplus.iastate.edu)
+ - date_published: 2024-07-09T13:09:18.066119+00:00
+
+ ## Iowa State University
+ - [https://apps.admissions.iastate.edu](https://apps.admissions.iastate.edu)
+ - date_published: 2024-07-01T06:37:20.702093+00:00
+
+ ## Iowa State University - Signing in...
+ - [http://canvas.iastate.edu](http://canvas.iastate.edu)
+ - date_published: 2024-07-09T13:09:03.620249+00:00
+
+ ## Iowa State University | Iowa State University Catalog
+ - [http://catalog.iastate.edu](http://catalog.iastate.edu)
+ - date_published: 2024-06-26T16:44:51+00:00
+
+ ## IAState Web Theme
+ - [https://cdn.theme.iastate.edu](https://cdn.theme.iastate.edu)
+ - date_published: 2024-07-03T18:12:02.285441+00:00
+
+ ## Integrated Crop Management
+ - [https://crops.extension.iastate.edu](https://crops.extension.iastate.edu)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Iowa State University - Signing in...
+ - [http://cymail.iastate.edu](http://cymail.iastate.edu)
+ - date_published: 2024-07-09T13:09:20.206027+00:00
+
+ ## Laboratory for Software Design
+ - [http://design.cs.iastate.edu](http://design.cs.iastate.edu)
+ - date_published: 2024-05-31T18:23:01+00:00
+
+ ## Digital Accessibility - Information Technology Services
+ - [https://digitalaccess.iastate.edu](https://digitalaccess.iastate.edu)
+ - date_published: 2024-08-09T03:40:12.059304+00:00
+
+ ## DSpace
+ - [https://dr.lib.iastate.edu](https://dr.lib.iastate.edu)
+ - date_published: 2024-06-25T23:26:45+00:00
+
+ ## Department of Electrical and Computer Engineering – College of Engineering, Iowa State University
+ - [https://ece.iastate.edu](https://ece.iastate.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+ - tags: ['university']
+
+ ## Home • Electronics and Technology Group • Iowa State University
+ - [https://etg.ece.iastate.edu](https://etg.ece.iastate.edu)
+ - date_published: 2024-08-09T03:40:19.081407+00:00
+
+ ## Faculty and Staff Information
+ - [https://facultystaff.info.iastate.edu](https://facultystaff.info.iastate.edu)
+ - date_published: 2024-07-01T06:37:28.424363+00:00
+
+ ## Free Speech
+ - [https://freespeech.iastate.edu](https://freespeech.iastate.edu)
+ - date_published: 2024-07-03T18:12:06.266649+00:00
+
+ ## Iowa State University
+ - [https://iastate.edu](https://iastate.edu)
+ - date_published: 2024-07-01T06:37:24.891319+00:00
+
+ ## Welcome - Directory Information - Iowa State University
+ - [http://info.iastate.edu](http://info.iastate.edu)
+ - date_published: 2024-07-09T13:09:00.198309+00:00
+
+ ## Employment Opportunities
+ - [https://jobs.iastate.edu](https://jobs.iastate.edu)
+ - date_published: 2024-08-09T03:40:04.718648+00:00
+
+ ## College of Liberal Arts and Sciences - Iowa State University
+ - [https://las.iastate.edu](https://las.iastate.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Connecting LAS alumni and friends
+ - [https://link.las.iastate.edu](https://link.las.iastate.edu)
+ - date_published: 2024-07-03T18:11:59.267433+00:00
+
+ ## Iowa State University - Sign In
+ - [https://login.iastate.edu](https://login.iastate.edu)
+ - date_published: 2020-06-23T14:12:38+00:00
+
+ ## Department of Mathematics
+ - [https://math.iastate.edu](https://math.iastate.edu)
+ - date_published: 2024-06-30T03:00:26.661502+00:00
+
+ ## College of Engineering News - Iowa State University
+ - [https://news.engineering.iastate.edu](https://news.engineering.iastate.edu)
+ - date_published: 2024-08-09T03:40:20.805593+00:00
+
  ## Iowa State University - Signing in...
  - [http://outlook.iastate.edu](http://outlook.iastate.edu)
  - date_published: 2024-07-09T13:09:10.852804+00:00
@@ -3897,116 +4010,4 @@ Data Services
  ## Kalamazoo Philharmonia –  | Kalamazoo College
  - [https://philharmonia.kzoo.edu](https://philharmonia.kzoo.edu)
  - date_published: 2024-05-07T19:23:19.815414+00:00
-
- ## Philosophy Department –  | Kalamazoo College
- - [https://philosophy.kzoo.edu](https://philosophy.kzoo.edu)
- - date_published: 2024-05-07T19:20:44.980188+00:00
-
- ## Physics Department –  | Kalamazoo College
- - [https://physics.kzoo.edu](https://physics.kzoo.edu)
- - date_published: 2024-05-07T19:20:59.149175+00:00
-
- ## Political Science –  | Kalamazoo College
- - [https://politicalscience.kzoo.edu](https://politicalscience.kzoo.edu)
- - date_published: 2024-05-07T19:22:48.516111+00:00
-
- ## Pre-Law Advising Program –  | Kalamazoo College
- - [https://prelawadvising.kzoo.edu](https://prelawadvising.kzoo.edu)
- - date_published: 2024-05-07T19:21:53.156120+00:00
-
- ## Office of the Provost –  | Kalamazoo College
- - [https://provost.kzoo.edu](https://provost.kzoo.edu)
- - date_published: 2024-05-07T19:23:52.862089+00:00
-
- ## Psychology Department –  | Kalamazoo College
- - [https://psychology.kzoo.edu](https://psychology.kzoo.edu)
- - date_published: 2024-05-07T19:24:00.215974+00:00
-
- ## Office of the Registrar –  | Kalamazoo College
- - [https://registrar.kzoo.edu](https://registrar.kzoo.edu)
- - date_published: 2024-05-07T19:20:42.501618+00:00
-
- ## Religion Department –  | Kalamazoo College
- - [https://religion.kzoo.edu](https://religion.kzoo.edu)
- - date_published: 2024-05-07T19:21:11.743419+00:00
-
- ## Residential Life –  | Kalamazoo College
- - [https://reslife.kzoo.edu](https://reslife.kzoo.edu)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Shared Passages Program –  | Kalamazoo College
- - [https://sharedpassages.kzoo.edu](https://sharedpassages.kzoo.edu)
- - date_published: 2024-05-07T19:22:34.885488+00:00
-
- ## Sophomore Experience –  | Kalamazoo College
- - [https://sophomore.kzoo.edu](https://sophomore.kzoo.edu)
- - date_published: 2024-05-07T19:23:04.203597+00:00
-
- ## Spanish Language and Literature –  | Kalamazoo College
- - [https://spanish.kzoo.edu](https://spanish.kzoo.edu)
- - date_published: 2024-05-07T19:23:06.419372+00:00
-
- ## Student Activities –  | Kalamazoo College
- - [https://studentactivities.kzoo.edu](https://studentactivities.kzoo.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Student Development –  | Kalamazoo College
- - [https://studev.kzoo.edu](https://studev.kzoo.edu)
- - date_published: 2024-05-07T19:24:24.172291+00:00
-
- ## Support Staff –  | Kalamazoo College
- - [https://supportstaff.kzoo.edu](https://supportstaff.kzoo.edu)
- - date_published: 2024-05-07T19:24:07.762051+00:00
-
- ## Sustainability at K –  | Kalamazoo College
- - [https://sustainability.kzoo.edu](https://sustainability.kzoo.edu)
- - date_published: 2024-05-07T19:20:38.995233+00:00
-
- ## Teaching Commons –  | Kalamazoo College
- - [https://teachingcommons.kzoo.edu](https://teachingcommons.kzoo.edu)
- - date_published: 2024-05-07T19:24:42.474005+00:00
-
- ## Theatre Arts Department –  | Kalamazoo College
- - [https://theatre.kzoo.edu](https://theatre.kzoo.edu)
- - date_published: 2024-05-07T19:22:44.386782+00:00
-
- ## Title IX –  | Kalamazoo College
- - [https://titleix.kzoo.edu](https://titleix.kzoo.edu)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Teaching and Learning Committee –  | Kalamazoo College
- - [https://tlc.kzoo.edu](https://tlc.kzoo.edu)
- - date_published: 2024-05-07T19:23:01.543570+00:00
-
- ## Writing Center –  | Kalamazoo College
- - [https://writingcenter.kzoo.edu](https://writingcenter.kzoo.edu)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [https://ezproxy.lafayette.edu](https://ezproxy.lafayette.edu)
- - date_published: 2024-06-30T01:26:24.933053+00:00
-
- ## Home - LaGuardia Community College
- - [https://www.laguardia.edu](https://www.laguardia.edu)
- - date_published: 2022-11-04T15:21:26+00:00
-
- ## Pauls Online Math Notes
- - [https://tutorial.math.lamar.edu](https://tutorial.math.lamar.edu)
- - date_published: 2024-06-27T17:22:18.882748+00:00
-
- ## Everyday Idioms!!!
- - [http://idioms.languagesystems.edu](http://idioms.languagesystems.edu)
- - date_published: 2024-02-08T17:32:14.922710+00:00
-
- ## Study English in the USA - English School in Los Angeles!
- - [http://languagesystems.edu](http://languagesystems.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Language Systems Lifestyle!
- - [http://lifestyle.languagesystems.edu](http://lifestyle.languagesystems.edu)
- - date_published: 2024-09-02T08:57:16+00:00
-
- ## CONTRACT AND RFP NOTIFICATION SYSTEM
- - [https://co.apps.laregents.edu](https://co.apps.laregents.edu)
- - date_published: 2024-07-11T00:00:00+00:00
 

@@ -1,3 +1,35 @@
+ ## CRIPCO
+ - [https://cripco.com](https://cripco.com)
+ - date_published: 2024-08-06T16:21:38.969422+00:00
+
+ ## Cripto247 - Últimas noticias sobre Bitcoin, Ethereum, blockchain y criptomonedas
+ - [https://cripto247.com](https://cripto247.com)
+ - date_published: 2024-09-28T22:23:09.515607+00:00
+
+ ## Conocé Criptodólar (UXD) la cripto vinculada al dólar
+ - [https://www.criptodolar.com](https://www.criptodolar.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## Electric air and ground mobility solutions | CRISALION Mobility
+ - [https://crisalion.com](https://crisalion.com)
+ - date_published: 2024-10-23T06:38:19.065345+00:00
+
+ ## Notes on the Crises
+ - [https://crisesnotes.com](https://crisesnotes.com)
+ - date_published: 2023-11-07T19:56:40.157638+00:00
+
+ ## CRISIL: Making markets function better
+ - [https://www.crisil.com](https://www.crisil.com)
+ - date_published: 2024-10-22T16:47:50.045300+00:00
+
+ ## Cris-Inst
+ - [https://cris-inst.com](https://cris-inst.com)
+ - date_published: 2023-11-16T16:49:39+00:00
+
+ ## Crisis Response Journal | Global information resource for all aspects of human-induced disasters or natural hazards, spanning response, disaster risk reduction, resilience, business continuity and security.
+ - [https://www.crisis-response.com](https://www.crisis-response.com)
+ - date_published: 2024-09-19T19:57:24.091153+00:00
+
  ## Crisp Classes LLC
  - [https://www.crispclasses.com](https://www.crispclasses.com)
  - date_published: 2024-07-11T20:58:40.379323+00:00
@@ -3771,6 +3803,10 @@
  - [https://www.curatesolutions.com](https://www.curatesolutions.com)
  - date_published: 2024-08-06T21:27:52.566476+00:00
 
+ ## Curatle
+ - [https://curatle.com](https://curatle.com)
+ - date_published: 2024-11-13T11:50:48.703193+00:00
+
  ## Curator's Office
  - [http://www.curatorsoffice.com](http://www.curatorsoffice.com)
  - date_published: 2024-03-22T11:20:39+00:00
@@ -4002,43 +4038,4 @@
  ## Electric vehicles on-demand
  - [https://www.currentvehicles.com](https://www.currentvehicles.com)
  - date_published: 2022-03-14T21:28:52+00:00
-
- ## User Activity Monitoring, DLP & Web Filtering Tools | CurrentWare
- - [https://www.currentware.com](https://www.currentware.com)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## Security Awareness Training For Employees
- - [https://www.curricula.com](https://www.curricula.com)
- - date_published: 2024-06-17T04:14:18.729454+00:00
-
- ## Proposals
- | Curriculum
- - [https://ecu.curriculog.com](https://ecu.curriculog.com)
- - date_published: 2024-09-27T21:48:25.187700+00:00
-
- ## Proposals
- | Curriculum
- - [https://umbc.curriculog.com](https://umbc.curriculog.com)
- - date_published: 2024-07-02T03:34:15.116312+00:00
-
- ## Proposals
- | Curriculum
- - [https://wwu.curriculog.com](https://wwu.curriculog.com)
- - date_published: 2024-07-02T15:41:38.811926+00:00
-
- ## i-Ready Evidence-Based Curriculum | Curriculum Associates
- - [https://www.curriculumassociates.com](https://www.curriculumassociates.com)
- - date_published: 2024-10-14T16:28:01.287808+00:00
-
- ## Home | Curry In A Hurry
- - [https://www.curryinahurrytruck.com](https://www.curryinahurrytruck.com)
- - date_published: 2024-06-30T11:40:06.100625+00:00
-
- ## Fandom
- - [http://www.curse.com](http://www.curse.com)
- - date_published: 2024-10-24T08:06:46.577480+00:00
-
- ## Fandom
- - [https://hydra-media.cursecdn.com](https://hydra-media.cursecdn.com)
- - date_published: 2024-06-18T20:11:46.084423+00:00
 

@@ -1,3 +1,99 @@
+ ## Do it for the Vimes
+ - [https://dukeofankh.tumblr.com](https://dukeofankh.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Tumblr
+ - [https://dukope.tumblr.com](https://dukope.tumblr.com)
+ - date_published: 2024-05-01T07:50:00.412224+00:00
+
+ ## little lamb
+ - [https://dumbest-bb.tumblr.com](https://dumbest-bb.tumblr.com)
+ - date_published: 2024-10-23T07:45:18.153913+00:00
+
+ ## dummdida
+ - [https://dummdida.tumblr.com](https://dummdida.tumblr.com)
+ - date_published: 2024-09-02T15:05:52.942727+00:00
+
+ ## DUPES
+ - [http://dupes-the-game.tumblr.com](http://dupes-the-game.tumblr.com)
+ - date_published: 2024-06-22T14:46:26.373148+00:00
+
+ ## dead roses;
+ - [http://dustflwr.tumblr.com](http://dustflwr.tumblr.com)
+ - date_published: 2024-10-23T07:56:28.916493+00:00
+
+ ## The Great Tit
+ - [https://dutchfish.tumblr.com](https://dutchfish.tumblr.com)
+ - date_published: 2024-08-05T16:55:24.164108+00:00
+
+ ## The Pool Room
+ - [https://dwindlebunnies.tumblr.com](https://dwindlebunnies.tumblr.com)
+ - date_published: 2024-06-27T04:16:42.866362+00:00
+
+ ## urban fantasy oracle
+ - [https://dxppercxdxver.tumblr.com](https://dxppercxdxver.tumblr.com)
+ - date_published: 2024-06-27T03:01:45.546959+00:00
+
+ ## secret math fan
+ - [https://dykecastiels.tumblr.com](https://dykecastiels.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Tumblr
+ - [https://dysfunctionalqueer.tumblr.com](https://dysfunctionalqueer.tumblr.com)
+ - date_published: 2024-06-27T03:35:37.113704+00:00
+
+ ## Tumblr
+ - [https://dysphoria-things.tumblr.com](https://dysphoria-things.tumblr.com)
+ - date_published: 2024-06-26T10:12:17.014957+00:00
+
+ ## KEEP TASING ME.
+ - [https://e-102.tumblr.com](https://e-102.tumblr.com)
+ - date_published: 2024-10-17T17:05:27.912767+00:00
+
+ ## Death, Trains & Houseplants
+ - [https://earlgreybot.tumblr.com](https://earlgreybot.tumblr.com)
+ - date_published: 2024-05-10T06:29:28.894402+00:00
+
+ ## I hate sand
+ - [https://eater-of-the-sand.tumblr.com](https://eater-of-the-sand.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Elizabeth B. Martin, Author & Illustrator
+ - [https://ebmartin70.tumblr.com](https://ebmartin70.tumblr.com)
+ - date_published: 2014-05-26T00:00:00+00:00
+
+ ## EC Comics
+ - [http://ec-comics.tumblr.com](http://ec-comics.tumblr.com)
+ - date_published: 2024-10-25T10:34:55.678251+00:00
+
+ ## We are the cosmos dreaming of itself~
+ - [https://echo-echo31.tumblr.com](https://echo-echo31.tumblr.com)
+ - date_published: 2024-10-27T05:46:26.702087+00:00
+
+ ## Notes in the Margins
+ - [https://edenfenixblogs.tumblr.com](https://edenfenixblogs.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Love Letter to Edinburgh
+ - [https://edinburgh-by-the-sea.tumblr.com](https://edinburgh-by-the-sea.tumblr.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## In Another Room
+ - [https://edstrid.tumblr.com](https://edstrid.tumblr.com)
+ - date_published: 2024-10-22T10:07:29.680988+00:00
+
+ ## It's fun to stay at the Last Homely House
+ - [http://eeeeeeeeeeeeeeeelroooooooooooond.tumblr.com](http://eeeeeeeeeeeeeeeelroooooooooooond.tumblr.com)
+ - date_published: 2024-09-04T18:24:03.908810+00:00
+
+ ## Effector Theme
+ - [https://effectortheme.tumblr.com](https://effectortheme.tumblr.com)
+ - date_published: 2015-08-17T00:00:00+00:00
+
+ ## Tumblr
+ - [https://effington.tumblr.com](https://effington.tumblr.com)
+ - date_published: 2024-05-06T20:42:03.382111+00:00
+
  ## Tumblr
  - [https://egax.tumblr.com](https://egax.tumblr.com)
  - date_published: 2024-05-06T20:43:12.792487+00:00
@@ -3906,100 +4002,4 @@ wasabi
  ## it is its own penguin
  - [https://maridiayachtclub.tumblr.com](https://maridiayachtclub.tumblr.com)
  - date_published: 2024-06-26T00:00:00+00:00
-
- ## not a fetish blog. sorry to disappoint
- - [https://markipliersfoot.tumblr.com](https://markipliersfoot.tumblr.com)
- - date_published: 2024-10-27T05:47:02.647179+00:00
-
- ## Markiplier
- - [http://markiplier.tumblr.com](http://markiplier.tumblr.com)
- - date_published: 2024-06-19T01:21:23.882588+00:00
-
- ## Markiplites & Septiceyes
- - [https://markiplitessepticeyes.tumblr.com](https://markiplitessepticeyes.tumblr.com)
- - date_published: 2024-10-27T05:46:58.190389+00:00
-
- ## limmy factkin
- - [https://markodragic.tumblr.com](https://markodragic.tumblr.com)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## Blogatog
- - [http://markrosewater.tumblr.com](http://markrosewater.tumblr.com)
- - date_published: 2024-10-27T05:17:22.803872+00:00
-
- ## Marlette
- - [https://marlette-au.tumblr.com](https://marlette-au.tumblr.com)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Marlin
- - [https://marlinspirkhall.tumblr.com](https://marlinspirkhall.tumblr.com)
- - date_published: 2024-06-27T02:33:46.928363+00:00
-
- ## Martine's Simblr
- - [http://martinessimblr.tumblr.com](http://martinessimblr.tumblr.com)
- - date_published: 2024-01-07T00:00:00+00:00
-
- ## The Marvel Comics of the 1980s
- - [https://marvel1980s.tumblr.com](https://marvel1980s.tumblr.com)
- - date_published: 2024-09-04T17:19:37.225263+00:00
-
- ## Marvel Entertainment
- - [https://marvelentertainment.tumblr.com](https://marvelentertainment.tumblr.com)
- - date_published: 2024-05-04T14:32:44.962286+00:00
-
- ## Never laugh at live dragons
- - [https://marvelingjules.tumblr.com](https://marvelingjules.tumblr.com)
- - date_published: 2024-09-03T00:00:00+00:00
-
- ## Gilded Age Garbage Fire
- - [https://marzipanandminutiae.tumblr.com](https://marzipanandminutiae.tumblr.com)
- - date_published: 2024-06-27T02:33:21.627256+00:00
-
- ## hi for the love of god hello
- - [https://mashmouths.tumblr.com](https://mashmouths.tumblr.com)
- - date_published: 2024-06-27T04:17:37.859715+00:00
-
- ## The Mysterious Masked Linguist
- - [https://maskedlinguist.tumblr.com](https://maskedlinguist.tumblr.com)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## matadorrecords
- - [https://matadorrecords.tumblr.com](https://matadorrecords.tumblr.com)
- - date_published: 2024-09-17T01:04:21.779279+00:00
-
- ## Improving MATE desktop environment
- - [https://mategsoc.tumblr.com](https://mategsoc.tumblr.com)
- - date_published: 2024-07-13T19:31:48.768836+00:00
-
- ## 137
- - [https://mathani.tumblr.com](https://mathani.tumblr.com)
- - date_published: 2024-08-07T13:25:58.032755+00:00
-
- ## It's a great life if you don't weaken.
- - [http://matociquala.tumblr.com](http://matociquala.tumblr.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Observations on Credit and Surveillance
- - [https://mattstoller.tumblr.com](https://mattstoller.tumblr.com)
- - date_published: 2024-09-10T09:38:56.676463+00:00
-
- ## I Don't Know
- - [https://max1461.tumblr.com](https://max1461.tumblr.com)
- - date_published: 2024-06-27T03:16:12.027433+00:00
-
- ## max💥
- - [https://maxidango.tumblr.com](https://maxidango.tumblr.com)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## I've moved to maxknightley.tumblr.com!
- - [http://maxiesatanofficial.tumblr.com](http://maxiesatanofficial.tumblr.com)
- - date_published: 2024-07-11T14:04:21.708603+00:00
-
- ## Maxis Match CC World
- - [https://maxismatchccworld.tumblr.com](https://maxismatchccworld.tumblr.com)
- - date_published: 2024-10-23T07:37:08.757819+00:00
-
- ## Maxsus Store
- - [https://maxsus.tumblr.com](https://maxsus.tumblr.com)
- - date_published: 2024-10-23T07:39:31.887054+00:00
 

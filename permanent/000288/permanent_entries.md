@@ -1,3 +1,115 @@
+ ## Congressman Dan Newhouse
+ - [https://newhouse.house.gov](https://newhouse.house.gov)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Congressman Wiley Nickel
+ - [https://nickel.house.gov](https://nickel.house.gov)
+ - date_published: 2024-06-27T14:12:12+00:00
+
+ ## Home - Nikema Williams
+ - [https://nikemawilliams.house.gov](https://nikemawilliams.house.gov)
+ - date_published: 2024-06-27T14:19:36.983297+00:00
+
+ ## United States Congressman Donald Norcross
+ - [https://norcross.house.gov](https://norcross.house.gov)
+ - date_published: 2024-06-27T14:21:22.341172+00:00
+
+ ## U.S. Representative Ralph Norman
+ - [https://norman.house.gov](https://norman.house.gov)
+ - date_published: 2024-06-27T13:59:47+00:00
+
+ ## Congresswoman Eleanor Holmes Norton
+ - [https://norton.house.gov](https://norton.house.gov)
+ - date_published: 2024-06-27T14:13:39.002587+00:00
+
+ ## Home - Congressman Zach Nunn
+ - [https://nunn.house.gov](https://nunn.house.gov)
+ - date_published: 2023-12-15T22:19:14+00:00
+
+ ## Representative Jay Obernolte
+ - [https://obernolte.house.gov](https://obernolte.house.gov)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Representative Ocasio-Cortez
+ - [https://ocasio-cortez.house.gov](https://ocasio-cortez.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Office of Congressional Ethics
+ - [https://oce.house.gov](https://oce.house.gov)
+ - date_published: 2024-06-27T14:09:31.658508+00:00
+
+ ## Office of General Counsel
+ - [https://ogc.house.gov](https://ogc.house.gov)
+ - date_published: 2024-06-27T14:01:52.776380+00:00
+
+ ## Representative Ogles
+ - [https://ogles.house.gov](https://ogles.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Representative Ilhan Omar
+ - [https://omar.house.gov](https://omar.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## House Committee on Oversight and Reform
+ - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
+ - date_published: 2023-11-28T18:21:20.465630+00:00
+
+ ## United States House Committee on Oversight and Accountability -
+ - [https://oversight.house.gov](https://oversight.house.gov)
+ - date_published: 2023-10-25T19:22:27.238039+00:00
+
+ ## Home - Burgess Owens
+ - [https://owens.house.gov](https://owens.house.gov)
+ - date_published: 2024-06-27T14:22:11.466905+00:00
+
+ ## Congressman Frank Pallone
+ - [https://pallone.house.gov](https://pallone.house.gov)
+ - date_published: 2024-06-27T14:22:47.046438+00:00
+
+ ## Congressman Gary Palmer
+ - [https://palmer.house.gov](https://palmer.house.gov)
+ - date_published: 2024-06-27T14:19:02.892179+00:00
+
+ ## Congressman Jimmy Panetta
+ - [https://panetta.house.gov](https://panetta.house.gov)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## Congressman Chris Pappas
+ - [https://pappas.house.gov](https://pappas.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## U.S. Representative Bill Pascrell
+ - [https://pascrell.house.gov](https://pascrell.house.gov)
+ - date_published: 2024-04-30T19:22:37.713623+00:00
+
+ ## Congressman Pat Ryan
+ - [https://patryan.house.gov](https://patryan.house.gov)
+ - date_published: 2024-06-27T13:59:09.775437+00:00
+
+ ## Representative Nancy Pelosi
+ - [https://pelosi.house.gov](https://pelosi.house.gov)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## U.S. Representative Mary Sattler Peltola
+ - [https://peltola.house.gov](https://peltola.house.gov)
+ - date_published: 2024-06-27T14:18:58+00:00
+
+ ## Representative Greg Pence
+ - [https://pence.house.gov](https://pence.house.gov)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Congressman Scott Perry
+ - [https://perry.house.gov](https://perry.house.gov)
+ - date_published: 2024-06-27T14:01:56+00:00
+
+ ## U.S. Representative Brittany Pettersen
+ - [https://pettersen.house.gov](https://pettersen.house.gov)
+ - date_published: 2024-06-27T14:09:29+00:00
+
+ ## Congressman August Pfluger
+ - [https://pfluger.house.gov](https://pfluger.house.gov)
+ - date_published: 2024-06-27T14:21:07+00:00
+
  ## U.S. Representative Dean Phillips
  - [https://phillips.house.gov](https://phillips.house.gov)
  - date_published: 2024-06-27T14:02:13+00:00
@@ -3905,116 +4017,4 @@
  ## NJ DOS - Division of Elections
  - [https://voter.svrs.nj.gov](https://voter.svrs.nj.gov)
  - date_published: 2024-02-24T00:27:15+00:00
-
- ## NJ Legislature
- - [https://pub.njleg.gov](https://pub.njleg.gov)
- - date_published: 2024-05-06T17:02:38.917240+00:00
-
- ## IIS Windows Server
- - [https://apps.nlrb.gov](https://apps.nlrb.gov)
- - date_published: 2019-06-22T02:36:18+00:00
-
- ## https://www.nlrb.gov
- - [https://nlrb.gov](https://nlrb.gov)
- - date_published: 2024-01-09T03:31:29.688759+00:00
-
- ## New Mexico Environment Department
- - [https://www.env.nm.gov](https://www.env.nm.gov)
- - date_published: 2024-10-16T05:31:03.254181+00:00
-
- ## Homepage
- - [https://nnlm.gov](https://nnlm.gov)
- - date_published: 2024-07-02T03:20:04+00:00
-
- ## Home - Adopt A Drifter
- - [https://adp.noaa.gov](https://adp.noaa.gov)
- - date_published: 2024-10-19T20:03:20.540734+00:00
-
- ## Alaska
- - [https://alaskafisheries.noaa.gov](https://alaskafisheries.noaa.gov)
- - date_published: 2024-09-15T04:44:00+00:00
-
- ## National Marine Sanctuary of American Samoa
- - [https://americansamoa.noaa.gov](https://americansamoa.noaa.gov)
- - date_published: 2024-10-14T21:54:08.416907+00:00
-
- ## Blog | NOAA's Office of Response & Restoration Blog
- - [https://blog.response.restoration.noaa.gov](https://blog.response.restoration.noaa.gov)
- - date_published: 2024-08-19T03:48:54.292000+00:00
-
- ## Channel Islands National Marine Sanctuary
- - [https://channelislands.noaa.gov](https://channelislands.noaa.gov)
- - date_published: 2024-10-14T21:54:20.176796+00:00
-
- ## Home
- - [https://coastalscience.noaa.gov](https://coastalscience.noaa.gov)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## NOAA Office for Coastal Management
- - [https://coast.noaa.gov](https://coast.noaa.gov)
- - date_published: 2024-07-09T15:29:58+00:00
-
- ## NOAA Coral Reef Watch Homepage and Near Real-Time Products Portal
- - [https://coralreefwatch.noaa.gov](https://coralreefwatch.noaa.gov)
- - date_published: 2024-09-16T20:25:50.272418+00:00
-
- ## Cordell Bank National Marine Sanctuary
- - [https://cordellbank.noaa.gov](https://cordellbank.noaa.gov)
- - date_published: 2024-10-14T21:53:56.060080+00:00
-
- ## Climate Prediction Center
- - [https://cpc.ncep.noaa.gov](https://cpc.ncep.noaa.gov)
- - date_published: 2023-10-25T19:24:13.204472+00:00
-
- ## NOAA Chemical Sciences Laboratory
- - [https://csl.noaa.gov](https://csl.noaa.gov)
- - date_published: 2024-06-30T02:57:30.312637+00:00
-
- ## DODS Access
- - [https://dods.ndbc.noaa.gov](https://dods.ndbc.noaa.gov)
- - date_published: 2024-10-30T00:33:12.674849+00:00
-
- ## Greater Farallones National Marine Sanctuary
- - [https://farallones.noaa.gov](https://farallones.noaa.gov)
- - date_published: 2024-10-14T21:54:06.676492+00:00
-
- ## Welcome to NOAA | NOAA Fisheries
- - [https://fisheries.noaa.gov](https://fisheries.noaa.gov)
- - date_published: 2023-10-25T19:24:18.167307+00:00
-
- ## Florida Keys National Marine Sanctuary
- - [https://floridakeys.noaa.gov](https://floridakeys.noaa.gov)
- - date_published: 2024-08-26T00:00:00+00:00
-
- ## Flower Garden Banks National Marine Sanctuary
- - [https://flowergarden.noaa.gov](https://flowergarden.noaa.gov)
- - date_published: 2024-10-01T00:00:00+00:00
-
- ## Index of /
- - [http://ftp.ncep.noaa.gov](http://ftp.ncep.noaa.gov)
- - date_published: 2024-08-19T03:47:05.835919+00:00
-
- ## Home
- - [https://geodesy.noaa.gov](https://geodesy.noaa.gov)
- - date_published: 2024-05-09T07:09:00.657242+00:00
-
- ## Home - Global Ocean Monitoring and Observing
- - [https://globalocean.noaa.gov](https://globalocean.noaa.gov)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## NOAA Global Monitoring Laboratory
- - [https://gml.noaa.gov](https://gml.noaa.gov)
- - date_published: 2024-02-23T00:00:00+00:00
-
- ## Gray's Reef National Marine Sanctuary
- - [https://graysreef.noaa.gov](https://graysreef.noaa.gov)
- - date_published: 2024-10-14T21:53:49.293012+00:00
-
- ## NOAA - Global Systems Laboratory
- - [https://gsl.noaa.gov](https://gsl.noaa.gov)
- - date_published: 2024-07-29T00:00:00+00:00
-
- ## Hawaiian Islands Humpback Whale National Marine Sanctuary
- - [https://hawaiihumpbackwhale.noaa.gov](https://hawaiihumpbackwhale.noaa.gov)
- - date_published: 2024-10-14T21:54:11.532150+00:00
 

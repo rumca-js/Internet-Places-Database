@@ -1,3 +1,7 @@
+ ## Séjours, Loisirs, Gastronomie, Cadre de Vie | Valais Suisse
+ - [https://www.valais.ch](https://www.valais.ch)
+ - date_published: 2024-02-26T00:00:00+00:00
+
  ## Home - VALUEx Klosters
  - [https://valuex.ch](https://valuex.ch)
  - date_published: 2024-04-23T00:00:00+00:00
@@ -4008,8 +4012,4 @@
  ## Sign in - Matomo
  - [https://bouygues.matomo.cloud](https://bouygues.matomo.cloud)
  - date_published: 2024-07-03T04:55:54.896766+00:00
-
- ## Sign in - Matomo
- - [https://brauerbund.matomo.cloud](https://brauerbund.matomo.cloud)
- - date_published: 2024-10-14T16:36:46.917857+00:00
 

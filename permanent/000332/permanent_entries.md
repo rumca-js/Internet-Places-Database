@@ -1,3 +1,123 @@
+ ## ASTON DENPASAR HOTEL AND CONVENTION CENTER | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $60
+ - [https://aston-denpasar-convention-center.all-balihotels.net](https://aston-denpasar-convention-center.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:25.716626+00:00
+
+ ## ASTON KUTA HOTEL AND RESIDENCE | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $618
+ - [https://aston-kuta-and-residence.all-balihotels.net](https://aston-kuta-and-residence.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:01.520797+00:00
+
+ ## AYANA RESORT AND SPA | ⋆⋆⋆⋆⋆ | JIMBARAN, INDONESIA | SEASON DEALS FROM $401
+ - [https://ayana-resort-and-spa-jimbaran.all-balihotels.net](https://ayana-resort-and-spa-jimbaran.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:05.365527+00:00
+
+ ## BAHANA GUEST HOUSE | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $31
+ - [https://bahana-guest-house-by-gamma-hospitality-tuban.all-balihotels.net](https://bahana-guest-house-by-gamma-hospitality-tuban.all-balihotels.net)
+ - date_published: 2024-10-16T13:29:45.613233+00:00
+
+ ## BAKUNG BEACH RESORT | ⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
+ - [https://bakung-beach-resort-kuta.all-balihotels.net](https://bakung-beach-resort-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:40:25.386211+00:00
+
+ ## BALANGAN PARADISE HOSTEL AND RESTAURANT | JIMBARAN, INDONESIA | SEASON DEALS FROM $17
+ - [https://balangan-paradise-hostel-and-restaurant-jimbaran.all-balihotels.net](https://balangan-paradise-hostel-and-restaurant-jimbaran.all-balihotels.net)
+ - date_published: 2024-10-16T13:24:41.813811+00:00
+
+ ## BALI AGUNG VILLAGE | ⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $76
+ - [https://bali-agung-village-seminyak.all-balihotels.net](https://bali-agung-village-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:11.422434+00:00
+
+ ## BALI DYNASTY RESORT | ⋆⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $204
+ - [https://bali-dynasty-resort-kuta.all-balihotels.net](https://bali-dynasty-resort-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:41:18.970119+00:00
+
+ ## BALI ECO VILLAGE | PLAGA, INDONESIA | SEASON DEALS FROM $128
+ - [https://bali-eco-village.all-balihotels.net](https://bali-eco-village.all-balihotels.net)
+ - date_published: 2024-10-16T13:43:27.681545+00:00
+
+ ## BALI GARDEN BEACH RESORT | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $100
+ - [https://bali-garden-beach-resort-kuta.all-balihotels.net](https://bali-garden-beach-resort-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:18.543591+00:00
+
+ ## HOTEL BALI NUSA DUA | ⋆⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $176
+ - [https://bali-nusa-dua.all-balihotels.net](https://bali-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:42.293259+00:00
+
+ ## HOTEL BALI RANI | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $137
+ - [https://bali-rani-kuta.all-balihotels.net](https://bali-rani-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:57.195996+00:00
+
+ ## HOTEL BALISANI PADMA | ⋆⋆ | LEGIAN, INDONESIA | SEASON DEALS FROM $23
+ - [https://balisani-padma-legian.all-balihotels.net](https://balisani-padma-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:04.880740+00:00
+
+ ## BALI TROPIC RESORT & SPA | ⋆⋆⋆⋆ | NUSA DUA, INDONESIA | SEASON DEALS FROM $136
+ - [https://bali-tropic-resort-spa-nusa-dua.all-balihotels.net](https://bali-tropic-resort-spa-nusa-dua.all-balihotels.net)
+ - date_published: 2024-10-16T13:43:08.971689+00:00
+
+ ## BALI TRUE LIVING | ⋆⋆ | DENPASAR, INDONESIA | SEASON DEALS FROM $25
+ - [https://bali-true-living-apartment-denpasar.all-balihotels.net](https://bali-true-living-apartment-denpasar.all-balihotels.net)
+ - date_published: 2024-10-16T13:27:52.014751+00:00
+
+ ## HOTEL BEDROCK | ⋆⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $32
+ - [https://bedrock-kuta.all-balihotels.net](https://bedrock-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:43:31.169983+00:00
+
+ ## HOTEL BEST WESTERN KUTA BEACH | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $43
+ - [https://best-western-kuta-beach.all-balihotels.net](https://best-western-kuta-beach.all-balihotels.net)
+ - date_published: 2024-10-16T13:35:35.679970+00:00
+
+ ## BEST WESTERN RESORT KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $55
+ - [https://best-western-resort-kuta-kuta.all-balihotels.net](https://best-western-resort-kuta-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:33:30.286216+00:00
+
+ ## HOTEL BINTANG KUTA | ⋆⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $66
+ - [https://bintang-kuta.all-balihotels.net](https://bintang-kuta.all-balihotels.net)
+ - date_published: 2024-10-16T13:34:26.623486+00:00
+
+ ## HOTEL BISMA EIGHT | ⋆⋆⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $369
+ - [https://bisma-eight-ubud.all-balihotels.net](https://bisma-eight-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:25:04.677897+00:00
+
+ ## HOTEL BLISS SURFER | ⋆⋆⋆⋆ | BALI, INDONESIA | SEASON DEALS FROM $34
+ - [https://bliss-surfer.all-balihotels.net](https://bliss-surfer.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:47.177088+00:00
+
+ ## BNB STYLE HOTEL SEMINYAK | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $19
+ - [https://bnb-style-seminyak.all-balihotels.net](https://bnb-style-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:28:34.980071+00:00
+
+ ## BRAW INN CANGGU | INDONESIA | SEASON DEALS FROM $19
+ - [https://braw-inn-canggu.all-balihotels.net](https://braw-inn-canggu.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:41.151382+00:00
+
+ ## HOTEL BROWN FEATHER | ⋆⋆⋆ | SEMINYAK, INDONESIA | SEASON DEALS FROM $42
+ - [https://brown-feather-seminyak.all-balihotels.net](https://brown-feather-seminyak.all-balihotels.net)
+ - date_published: 2024-10-16T13:31:47.809633+00:00
+
+ ## BULGARI RESORT BALI | ⋆⋆⋆⋆⋆ | ULUWATU, INDONESIA | SEASON DEALS FROM $1091
+ - [https://bulgari-resort-bali-uluwatu.all-balihotels.net](https://bulgari-resort-bali-uluwatu.all-balihotels.net)
+ - date_published: 2024-10-16T13:36:01.228782+00:00
+
+ ## CANGGU BEACH | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $168
+ - [https://canggu-beach-apartments.all-balihotels.net](https://canggu-beach-apartments.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:03.067557+00:00
+
+ ## CANGGU DREAM VILLAGE | ⋆⋆⋆ | INDONESIA | SEASON DEALS FROM $25
+ - [https://canggu-dream-village.all-balihotels.net](https://canggu-dream-village.all-balihotels.net)
+ - date_published: 2024-10-16T13:39:39.505493+00:00
+
+ ## ** CAPSULE INN BALI, LEGIAN (BALI) **
+ - [https://capsule-inn-bali-legian.all-balihotels.net](https://capsule-inn-bali-legian.all-balihotels.net)
+ - date_published: 2024-10-16T13:38:39.219089+00:00
+
+ ## CARA CARA INN | ⋆⋆⋆ | KUTA, INDONESIA | SEASON DEALS FROM $25
+ - [https://cara-cara-inn.all-balihotels.net](https://cara-cara-inn.all-balihotels.net)
+ - date_published: 2024-10-16T13:30:58.693439+00:00
+
+ ## HOTEL CHAMPLUNG SARI | ⋆⋆⋆ | UBUD, INDONESIA | SEASON DEALS FROM $36
+ - [https://champlung-sari-ubud.all-balihotels.net](https://champlung-sari-ubud.all-balihotels.net)
+ - date_published: 2024-10-16T13:32:59.566334+00:00
+
  ## **** HOTEL CITADINES BERAWA BEACH BALI, CANGGU (BALI) ****
  - [https://citadines-berawa-beach-bali.all-balihotels.net](https://citadines-berawa-beach-bali.all-balihotels.net)
  - date_published: 2024-10-16T13:34:29.718767+00:00
@@ -3927,124 +4047,4 @@
  ## Student Web Services | University of Toronto
  - [https://p301easiwo-1e76ac309bf15782fb70-endpoint.azureedge.net](https://p301easiwo-1e76ac309bf15782fb70-endpoint.azureedge.net)
  - date_published: 2024-09-18T06:19:16+00:00
-
- ## Home - UW Professional & Continuing Education
- - [https://pce.azureedge.net](https://pce.azureedge.net)
- - date_published: 2024-07-02T13:47:33.915064+00:00
-
- ## Parks Canada
- - [https://pcweb2.azureedge.net](https://pcweb2.azureedge.net)
- - date_published: 2024-10-27T23:48:09.617494+00:00
-
- ## Home Page | InfoCert
- - [https://prd-istituzionale-infocert-cdn.azureedge.net](https://prd-istituzionale-infocert-cdn.azureedge.net)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Druid
- - [https://prod-au-druid-cdn.azureedge.net](https://prod-au-druid-cdn.azureedge.net)
- - date_published: 2024-06-14T11:15:32+00:00
-
- ## Development tenants
- - [https://prod-locatorv2-essilorlux-ditac.azureedge.net](https://prod-locatorv2-essilorlux-ditac.azureedge.net)
- - date_published: 2024-05-09T04:38:03.799338+00:00
-
- ## Page moved
- - [https://pxt.azureedge.net](https://pxt.azureedge.net)
- - date_published: 2024-03-27T17:17:16+00:00
-
- ## Connectors, Cables, Optics, RF, Silicon to Silicon Solutions | Samtec
- - [https://samtec-bundle-cdn.azureedge.net](https://samtec-bundle-cdn.azureedge.net)
- - date_published: 2024-10-11T19:37:29+00:00
-
- ## Savvas Learning Company
- - [https://savvas-media-cdn.azureedge.net](https://savvas-media-cdn.azureedge.net)
- - date_published: 2024-07-14T23:49:25.052615+00:00
-
- ## AI-Powered Web Scraping Tool & Web Data Extractor | ScrapeStorm
- - [https://scrapestorm-static.azureedge.net](https://scrapestorm-static.azureedge.net)
- - date_published: 2024-10-30T22:39:31.758445+00:00
-
- ## Search results | Find available job openings at Microsoft
- - [https://search-ui.azureedge.net](https://search-ui.azureedge.net)
- - date_published: 2024-07-25T11:12:26+00:00
-
- ## Development tenants
- - [https://staging-locatorv2-essilorlux-ditac.azureedge.net](https://staging-locatorv2-essilorlux-ditac.azureedge.net)
- - date_published: 2024-07-05T08:51:32+00:00
-
- ## Swimming News | Swimming World
- - [https://swimmingworld.azureedge.net](https://swimmingworld.azureedge.net)
- - date_published: 2024-07-21T06:50:18.510604+00:00
-
- ## Hey, I'm imgproxy!
- - [https://taikai.azureedge.net](https://taikai.azureedge.net)
- - date_published: 2024-09-04T12:05:24.263327+00:00
-
- ## Eén platform voor alle boekhoudsoftware
- - [https://tf365websi-516020d6ffc950329fae-endpoint.azureedge.net](https://tf365websi-516020d6ffc950329fae-endpoint.azureedge.net)
- - date_published: 2024-09-06T00:00:00+00:00
-
- ## Ticketportal vstupenky na dosah
- - [https://tpczprodcdn.azureedge.net](https://tpczprodcdn.azureedge.net)
- - date_published: 2024-07-24T05:20:14.397000+00:00
-
- ## ASP.NET Core | Open-source web framework for .NET
- - [https://www-asp.azureedge.net](https://www-asp.azureedge.net)
- - date_published: 2024-06-28T16:02:50.512590+00:00
-
- ## The World's Premier Talent Solutions Provider | LHH
- - [https://www-eur-prd-lhh930-com.azureedge.net](https://www-eur-prd-lhh930-com.azureedge.net)
- - date_published: 2024-07-01T03:35:27.745567+00:00
-
- ## Zoos Victoria
- - [https://zoosvic-endpoint-website-prod-public.azureedge.net](https://zoosvic-endpoint-website-prod-public.azureedge.net)
- - date_published: 2024-07-04T10:37:51.940898+00:00
-
- ## Alcaldía de Medellín | Portal institucional
- - [https://cdnwordpresstestcss-frf3h3b3anekcshj.z01.azurefd.net](https://cdnwordpresstestcss-frf3h3b3anekcshj.z01.azurefd.net)
- - date_published: 2024-09-12T00:30:59+00:00
-
- ## Alcaldía de Medellín | Portal institucional
- - [https://cdnwordpresstest-f0ekdgevcngegudb.z01.azurefd.net](https://cdnwordpresstest-f0ekdgevcngegudb.z01.azurefd.net)
- - date_published: 2024-09-12T00:30:59+00:00
-
- ## Alcaldía de Medellín | Portal institucional
- - [https://cdnwordpresstestjs-eufuhqb0czcfayeu.z01.azurefd.net](https://cdnwordpresstestjs-eufuhqb0czcfayeu.z01.azurefd.net)
- - date_published: 2024-09-12T00:30:59+00:00
-
- ## Events Assistant
- - [https://fde-eventsassistant-prod-wus2-bcamfddgdqgsdzad.b01.azurefd.net](https://fde-eventsassistant-prod-wus2-bcamfddgdqgsdzad.b01.azurefd.net)
- - date_published: 2024-07-08T10:58:41+00:00
-
- ## FHF - Fiskeri- og havbruksnæringens forskningsfinansiering
- - [https://fhf-cdn-gdexgwgdcuf5dga0.z01.azurefd.net](https://fhf-cdn-gdexgwgdcuf5dga0.z01.azurefd.net)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Live Center
- - [https://livecenter-aus-hpc9audwdke2c0fm.z01.azurefd.net](https://livecenter-aus-hpc9audwdke2c0fm.z01.azurefd.net)
- - date_published: 2024-08-18T21:20:09.449834+00:00
-
- ## Digizuite DAM for Hootsuite
- - [https://mango-tree-001f62003.1.azurestaticapps.net](https://mango-tree-001f62003.1.azurestaticapps.net)
- - date_published: 2023-07-31T06:31:07+00:00
-
- ## Banco de proyectos
- - [https://proud-ground-03115c710.2.azurestaticapps.net](https://proud-ground-03115c710.2.azurestaticapps.net)
- - date_published: 2022-11-15T18:28:41+00:00
-
- ## Triton Digital
- - [https://zealous-meadow-0f2313e10.2.azurestaticapps.net](https://zealous-meadow-0f2313e10.2.azurestaticapps.net)
- - date_published: 2024-06-21T18:28:42+00:00
-
- ## Partner directory
- - [https://main.int.marketplacepartnerdirectory.azure-test.net](https://main.int.marketplacepartnerdirectory.azure-test.net)
- - date_published: 2024-05-15T14:17:00+00:00
-
- ## Digital Wonderlab - The digital impact agency
- - [https://20bbc343-02b0-4829-bb29-0dfbc551e97e-1.azurewebsites.net](https://20bbc343-02b0-4829-bb29-0dfbc551e97e-1.azurewebsites.net)
- - date_published: 2024-10-20T02:15:01.849958+00:00
-
- ## Home
- - [https://651fc6ac-af8b-4f33-826d-b81a8a139185.azurewebsites.net](https://651fc6ac-af8b-4f33-826d-b81a8a139185.azurewebsites.net)
- - date_published: 2024-06-15T05:06:14.810994+00:00
 

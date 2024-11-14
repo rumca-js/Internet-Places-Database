@@ -1,3 +1,135 @@
+ ## Ticket Buyer Bill of Rights
+ - [https://www.ticketbuyerbillofrights.org](https://www.ticketbuyerbillofrights.org)
+ - date_published: 2024-06-16T20:08:49.902004+00:00
+
+ ## Ticket for Change
+ - [https://www.ticketforchange.org](https://www.ticketforchange.org)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Ticketpass - The Ethical Ticketing Platform for Events
+ - [https://app.ticketpass.org](https://app.ticketpass.org)
+ - date_published: 2024-06-18T10:10:42.724618+00:00
+
+ ## Ticketpass - The Ethical Ticketing Platform for Events
+ - [https://ticketpass.org](https://ticketpass.org)
+ - date_published: 2024-05-02T12:26:10.928526+00:00
+
+ ## National Mall Tidal Basin | Tidal Basin Ideas Lab
+ - [https://tidalbasinideaslab.org](https://tidalbasinideaslab.org)
+ - date_published: 2024-07-12T18:21:54.662502+00:00
+
+ ## Live code with Tidal Cycles | Tidal Cycles
+ - [https://tidalcycles.org](https://tidalcycles.org)
+ - date_published: 2024-09-02T20:27:47+00:00
+
+ ## TiddlyMap.org | Wiki-Based Concept-Mapping Software
+ - [http://tiddlymap.org](http://tiddlymap.org)
+ - date_published: 2024-09-06T20:07:53.675563+00:00
+
+ ## links.tiddlywiki.org — TiddlyWiki community links
+ - [https://links.tiddlywiki.org](https://links.tiddlywiki.org)
+ - date_published: 2024-09-06T20:10:38+00:00
+
+ ## Talk TW
+ - [https://talk.tiddlywiki.org](https://talk.tiddlywiki.org)
+ - date_published: 2024-07-26T00:00:00+00:00
+
+ ## tiddlywiki.org — community matters for TiddlyWiki
+ - [https://tiddlywiki.org](https://tiddlywiki.org)
+ - date_published: 2024-07-27T03:07:17.537368+00:00
+
+ ## Home - Transparency International Defence & Security
+ - [https://www.ti-defence.org](https://www.ti-defence.org)
+ - date_published: 2024-09-11T00:00:00+00:00
+
+ ## Tidepool Home
+ - [https://www.tidepool.org](https://www.tidepool.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## A Common API to Modeling and Analysis Functions
+ - [https://parsnip.tidymodels.org](https://parsnip.tidymodels.org)
+ - date_published: 2024-09-09T20:18:53+00:00
+
+ ## Preprocessing and Feature Engineering Steps for Modeling
+ - [https://recipes.tidymodels.org](https://recipes.tidymodels.org)
+ - date_published: 2024-09-09T21:52:39+00:00
+
+ ## General Resampling Infrastructure
+ - [https://rsample.tidymodels.org](https://rsample.tidymodels.org)
+ - date_published: 2022-02-28T00:00:00+00:00
+
+ ## tidymodels
+ - [https://tidymodels.org](https://tidymodels.org)
+ - date_published: 2024-04-30T06:59:40.155109+00:00
+
+ ## Easily Install and Load the Tidymodels Packages
+ - [https://tidymodels.tidymodels.org](https://tidymodels.tidymodels.org)
+ - date_published: 2024-08-15T20:47:44+00:00
+
+ ## Tidy Tuning Tools
+ - [https://tune.tidymodels.org](https://tune.tidymodels.org)
+ - date_published: 2024-08-15T21:10:53+00:00
+
+ ## Tidy Characterizations of Model Performance
+ - [https://yardstick.tidymodels.org](https://yardstick.tidymodels.org)
+ - date_published: 2024-04-19T23:34:10+00:00
+
+ ## A dplyr backend for databases
+ - [https://dbplyr.tidyverse.org](https://dbplyr.tidyverse.org)
+ - date_published: 2024-06-11T16:01:06+00:00
+
+ ## A Grammar of Data Manipulation
+ - [https://dplyr.tidyverse.org](https://dplyr.tidyverse.org)
+ - date_published: 2024-04-30T00:29:16.808189+00:00
+
+ ## Data Table Back-End for dplyr
+ - [https://dtplyr.tidyverse.org](https://dtplyr.tidyverse.org)
+ - date_published: 2024-09-05T15:38:42+00:00
+
+ ## ggplot2 extensions
+ - [https://exts.ggplot2.tidyverse.org](https://exts.ggplot2.tidyverse.org)
+ - date_published: 2020-03-31T23:39:23+00:00
+
+ ## Create Elegant Data Visualisations Using the Grammar of Graphics
+ - [https://ggplot2.tidyverse.org](https://ggplot2.tidyverse.org)
+ - date_published: 2024-04-30T06:59:40.923712+00:00
+
+ ## A Forward-Pipe Operator for R
+ - [https://magrittr.tidyverse.org](https://magrittr.tidyverse.org)
+ - date_published: 2023-03-08T13:37:58+00:00
+
+ ## Functional Programming Tools
+ - [https://purrr.tidyverse.org](https://purrr.tidyverse.org)
+ - date_published: 2024-04-30T06:59:29.216411+00:00
+
+ ## Prepare Reproducible Example Code via the Clipboard
+ - [https://reprex.tidyverse.org](https://reprex.tidyverse.org)
+ - date_published: 2024-09-10T22:36:18+00:00
+
+ ## Tidy Messy Data
+ - [https://tidyr.tidyverse.org](https://tidyr.tidyverse.org)
+ - date_published: 2024-04-30T06:59:23.984439+00:00
+
+ ## Tidyverse
+ - [https://tidyverse.org](https://tidyverse.org)
+ - date_published: 2024-07-21T09:33:39.142673+00:00
+
+ ## TiE
+ - [https://bangalore.tie.org](https://bangalore.tie.org)
+ - date_published: 2024-10-11T09:22:36+00:00
+
+ ## TiE Pittsburgh
+ - [http://pittsburgh.tie.org](http://pittsburgh.tie.org)
+ - date_published: 2024-06-28T14:06:23.758888+00:00
+
+ ## Tiefling Name Generator - Tiefling Names for DnD(Dungeons & Dragons)
+ - [https://tieflingnamegenerator.org](https://tieflingnamegenerator.org)
+ - date_published: 2024-01-29T00:00:00+00:00
+
+ ## Luis Villa: Open Tech and Policy
+ - [http://tieguy.org](http://tieguy.org)
+ - date_published: 2024-06-30T01:05:50+00:00
+
  ## Tienda Humboldt - Investigación en biodiversidad
  - [https://tiendahumboldt.org](https://tiendahumboldt.org)
  - date_published: 2021-01-11T10:19:11+00:00
@@ -3910,137 +4042,4 @@ http://754r.ucbtest.org
  ## 浮世絵検索 - 浮世絵検索
  - [https://ja.ukiyo-e.org](https://ja.ukiyo-e.org)
  - date_published: 2024-06-23T06:48:18.558122+00:00
-
- ## Japanese Woodblock Print Search - Ukiyo-e Search
- - [https://ukiyo-e.org](https://ukiyo-e.org)
- - date_published: 2024-05-06T13:34:32.415819+00:00
-
- ## UK Jewish Film
- - [https://ukjewishfilm.org](https://ukjewishfilm.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## UKMTO
- - [https://www.ukmto.org](https://www.ukmto.org)
- - date_published: 2024-06-21T02:37:21.607345+00:00
-
- ## Ukraine Today .org
- - [https://ukrainetoday.org](https://ukrainetoday.org)
- - date_published: 2024-07-08T20:48:29+00:00
-
- ## UkraineWorld
- - [https://ukraineworld.org](https://ukraineworld.org)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Ukrainian Archive
- - [https://ukrainianarchive.org](https://ukrainianarchive.org)
- - date_published: 2024-06-27T15:25:00+00:00
-
- ## –Ukrainian Patriot
- - [https://ukrainianpatriot.org](https://ukrainianpatriot.org)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Home page | HOLODOMOR DESCENDANTS NETWORK
- - [https://hdn.ukrainianworldcongress.org](https://hdn.ukrainianworldcongress.org)
- - date_published: 2024-05-12T04:55:47.921156+00:00
-
- ## JOIN THE GLOBAL RALLY On February 24, 2024, Stand With Ukraine!
- - [https://standwithukraine.ukrainianworldcongress.org](https://standwithukraine.ukrainianworldcongress.org)
- - date_published: 2024-02-24T00:00:00+00:00
-
- ## Stand With Ukraine!
- - [https://standwithukraineworld.ukrainianworldcongress.org](https://standwithukraineworld.ukrainianworldcongress.org)
- - date_published: 2024-07-15T03:14:36.961919+00:00
-
- ## International Organization - Ukrainian World Congress
- - [https://ukrainianworldcongress.org](https://ukrainianworldcongress.org)
- - date_published: 2024-04-01T07:02:41.553203+00:00
-
- ## Arts and Humanities Research Council (AHRC)
- - [https://ahrc.ukri.org](https://ahrc.ukri.org)
- - date_published: 2024-05-04T15:14:27.764366+00:00
-
- ## Environmental Data Service | NERC Environmental Data Service
- - [https://eds.ukri.org](https://eds.ukri.org)
- - date_published: 2024-06-17T17:47:27.636154+00:00
-
- ## Engineering and Physical Sciences Research Council (EPSRC)
- - [https://epsrc.ukri.org](https://epsrc.ukri.org)
- - date_published: 2024-05-08T07:35:42.799166+00:00
-
- ## Economic and Social Research Council (ESRC)
- - [https://esrc.ukri.org](https://esrc.ukri.org)
- - date_published: 2024-06-17T18:32:29.688615+00:00
-
- ## EPSRC Grants on the Web - Notice
- - [https://gow.epsrc.ukri.org](https://gow.epsrc.ukri.org)
- - date_published: 2024-01-18T10:44:14+00:00
-
- ## Research England
- - [https://re.ukri.org](https://re.ukri.org)
- - date_published: 2024-06-17T18:37:59.241242+00:00
-
- ## Science and Technology Facilities Council (STFC)
- - [https://stfc.ukri.org](https://stfc.ukri.org)
- - date_published: 2024-10-20T04:16:54.098287+00:00
-
- ## UK National Quantum Technologies Programme
- - [https://uknqt.ukri.org](https://uknqt.ukri.org)
- - date_published: 2024-10-19T05:49:42.785339+00:00
-
- ## UK Research and Innovation
- - [https://ukri.org](https://ukri.org)
- - date_published: 2023-12-07T17:40:19.222248+00:00
- - tags: ['organization']
-
- ## Discover UKRI
- - [https://www.discover.ukri.org](https://www.discover.ukri.org)
- - date_published: 2024-10-20T06:03:02.724695+00:00
-
- ## Ukrinform新闻
- - [https://www.ukrinform.org](https://www.ukrinform.org)
- - date_published: 2024-05-02T10:44:14.962972+00:00
-
- ## Home - UK Research Integrity Office
- - [https://ukrio.org](https://ukrio.org)
- - date_published: 2024-06-22T18:55:01.343291+00:00
-
- ## Ефірне телебачення та радіомовлення в Україні
- - [https://ukrtvr.org](https://ukrtvr.org)
- - date_published: 2024-10-29T09:27:47.079199+00:00
-
- ## Insights
- - [http://insights.uksg.org](http://insights.uksg.org)
- - date_published: 2024-07-15T02:59:50.633661+00:00
-
- ## Welcome to UKSG | UKSG
- - [https://uksg.org](https://uksg.org)
- - date_published: 2024-05-12T04:53:21.338795+00:00
-
- ## UKSGA | Student Government Association | Lexington
- - [http://uksga.org](http://uksga.org)
- - date_published: 2024-07-09T17:24:07.561923+00:00
-
- ## uksz
- - [https://uksz.org](https://uksz.org)
- - date_published: 2024-07-16T20:42:47+00:00
-
- ## UKUI 桌面环境
- - [https://www.ukui.org](https://www.ukui.org)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## Custom Domain by Bitly
- - [https://s.ul.org](https://s.ul.org)
- - date_published: 2024-06-25T11:02:58+00:00
-
- ## UL Research Institutes | Discoveries in Safety
- - [https://ul.org](https://ul.org)
- - date_published: 2024-07-20T21:56:10+00:00
-
- ## Homepage - Americas: ULI Toronto
- - [https://toronto.uli.org](https://toronto.uli.org)
- - date_published: 2024-07-23T00:00:00+00:00
-
- ## Urban Land Magazine  - Urban Land Magazine
- - [http://urbanland.uli.org](http://urbanland.uli.org)
- - date_published: 2024-06-28T13:46:47.043465+00:00
 

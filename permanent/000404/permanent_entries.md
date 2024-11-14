@@ -1,3 +1,140 @@
+ ## HOME
+ - [https://www.sporting.pt](https://www.sporting.pt)
+ - date_published: 2018-01-17T01:49:53+00:00
+
+ ## SPOTICAR | Venda e compra de carros usados
+ - [https://spoticar.pt](https://spoticar.pt)
+ - date_published: 2024-10-28T19:46:48+00:00
+
+ ## Homepage - Sociedade Portuguesa de Reumatologia
+ - [http://www.spreumatologia.pt](http://www.spreumatologia.pt)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## sequel  fumpt
+ - [https://sqlfum.pt](https://sqlfum.pt)
+ - date_published: 2024-05-08T04:29:30.815238+00:00
+
+ ## Carros usados,Comerciais,Máquinas,Barcos,Motas | StandCM
+ - [https://www.standcm.pt](https://www.standcm.pt)
+ - date_published: 2024-07-12T20:30:22.460064+00:00
+
+ ## Checking your browser - reCAPTCHA
+ - [http://www.staples.pt](http://www.staples.pt)
+ - date_published: 2024-08-05T21:54:00.338335+00:00
+
+ ## Statkraft
+ - [https://www.statkraft.pt](https://www.statkraft.pt)
+ - date_published: 2023-11-17T00:00:00+00:00
+
+ ## Imprima os seus autocolantes e as suas etiquetas personalizadas!
+ - [https://stickerapp.pt](https://stickerapp.pt)
+ - date_published: 2024-04-30T02:46:12.280628+00:00
+
+ ## Shop • Stolen Books
+ - [https://stolenbooks.pt](https://stolenbooks.pt)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## mesa digitalizadora com tela, tablet gráfico de desenho | XP-PEN Portugal Loja Oficial
+ - [https://storexppen.pt](https://storexppen.pt)
+ - date_published: 2024-05-30T18:42:28.916038+00:00
+
+ ## JackHammer
+ - [https://imagens.supercasa.pt](https://imagens.supercasa.pt)
+ - date_published: 2024-09-05T14:01:50.052938+00:00
+
+ ## SUPERCASA - Moradias e apartamentos, arrendamento e venda, anúncios gratuitos - SUPERCASA
+ - [https://supercasa.pt](https://supercasa.pt)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Superprof - A comunidade de professores particulares
+ - [https://superprof.pt](https://superprof.pt)
+ - date_published: 2024-06-15T01:27:44.389176+00:00
+
+ ## Tudo para informática ao melhor preço!
+ - [https://www.switchtechnology.pt](https://www.switchtechnology.pt)
+ - date_published: 2023-10-24T15:40:42+00:00
+
+ ## Bem-vindo ao site oficial do Tavfer Hoteis
+ - [https://tavferhoteis.pt](https://tavferhoteis.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Taylor's Port - Since 1692 making the finest Port wine
+ - [https://www.taylor.pt](https://www.taylor.pt)
+ - date_published: 2024-10-21T03:32:25.241595+00:00
+
+ ## LÍDER | Tema Central | Loja Online
+ - [https://loja.temacentral.pt](https://loja.temacentral.pt)
+ - date_published: 2024-09-05T15:41:21.870377+00:00
+
+ ## LÍDER | Tema Central | Loja Online
+ - [https://temacentral.pt](https://temacentral.pt)
+ - date_published: 2024-09-05T15:41:24.135044+00:00
+
+ ## O Tempo para 14 dias - tempo.pt | Meteored
+ - [https://www.tempo.pt](https://www.tempo.pt)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Tempo & Radar Portugal
+ - [https://tempoeradar.pt](https://tempoeradar.pt)
+ - date_published: 2024-05-07T13:25:10.701026+00:00
+
+ ## terramar.pt
+ - [http://www.terramar.pt](http://www.terramar.pt)
+ - date_published: 2024-07-12T20:50:12.381429+00:00
+
+ ## Home - The Next Big Idea
+ - [https://thenextbigidea.pt](https://thenextbigidea.pt)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Homepage
+ - [https://www.thenorthface.pt](https://www.thenorthface.pt)
+ - date_published: 2024-07-12T07:35:57.709480+00:00
+
+ ## Ticketline
+ - [https://ticketline.pt](https://ticketline.pt)
+ - date_published: 2024-07-01T14:24:51.681739+00:00
+
+ ## Tinta da china - Tinta da China
+ - [http://www.tintadachina.pt](http://www.tintadachina.pt)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Toyota Portugal - Automóveis Novos e Usados
+ - [https://www.toyota.pt](https://www.toyota.pt)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Início | Trade Stories
+ - [https://tradestories.pt](https://tradestories.pt)
+ - date_published: 2024-05-11T09:35:48.634502+00:00
+
+ ## Mercado de transferências, rumores, Valores de mercado e notícias
+ - [https://www.transfermarkt.pt](https://www.transfermarkt.pt)
+ - date_published: 2024-07-24T06:29:39.030988+00:00
+
+ ## | Tribuna Expresso
+ - [https://tribunaexpresso.pt](https://tribunaexpresso.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Tripadvisor: mais de mil milhões de avaliações e contribuições sobre hotéis, atrações, restaurantes e muito mais
+ - [https://www.tripadvisor.pt](https://www.tripadvisor.pt)
+ - date_published: 2024-06-23T09:27:36.495461+00:00
+
+ ## trivago.pt - Compare hotel prices worldwide
+ - [https://www.trivago.pt](https://www.trivago.pt)
+ - date_published: 2024-09-04T11:20:54.314623+00:00
+
+ ## Compras online com a Trusted Shops
+ - [https://www.trustedshops.pt](https://www.trustedshops.pt)
+ - date_published: 2023-01-30T00:00:00+00:00
+
+ ## Loja Trust in News - Loja TIN
+ - [https://loja.trustinnews.pt](https://loja.trustinnews.pt)
+ - date_published: 2024-09-05T15:01:44.279292+00:00
+
+ ## TTMB - Distribuição e Logística Lda |
+ TTMB - Distribuição e Logística Lda
+ - [https://ttmb.pt](https://ttmb.pt)
+ - date_published: 2024-09-19T02:31:43.878494+00:00
+
  ## Habilite estudantes fazerem o seu melhor e produzir trabalhos com originalidade| Turnitin
  - [https://www.turnitin.pt](https://www.turnitin.pt)
  - date_published: 2024-09-23T16:27:20+00:00
@@ -3899,140 +4036,4 @@
  ## Songdoro
  - [https://songdo.ro](https://songdo.ro)
  - date_published: 2023-11-15T21:54:38+00:00
-
- ## Sony România | Ultimele știri despre tehnologii | Electronice | Divertisment
- - [http://www.sony.ro](http://www.sony.ro)
- - date_published: 2024-10-21T07:39:06.886792+00:00
-
- ## Încălțăminte, genți și îmbrăcăminte | Livrare Gratuită | SPARTOO
- - [https://spartoo.ro](https://spartoo.ro)
- - date_published: 2024-09-11T18:38:24.627283+00:00
-
- ## ACASA - Spitalul Municipal Caritas
- - [https://www.spitalulcaritasrosiori.ro](https://www.spitalulcaritasrosiori.ro)
- - date_published: 2024-09-10T00:00:00+00:00
-
- ## Societatea Română de Reumatologie
- - [https://srreumatologie.ro](https://srreumatologie.ro)
- - date_published: 2024-06-28T11:55:18.726527+00:00
-
- ## StareaDemocratiei.ro – Starea Democratiei
- - [https://www.stareademocratiei.ro](https://www.stareademocratiei.ro)
- - date_published: 2024-06-28T21:51:23.389876+00:00
-
- ## StartupCafe.ro - Site-ul antreprenorilor bine informați
- - [https://www.startupcafe.ro](https://www.startupcafe.ro)
- - date_published: 2024-10-18T23:54:22.135380+00:00
-
- ## Főoldal | StartUp HUB
- - [https://startup-hub.ro](https://startup-hub.ro)
- - date_published: 2023-04-21T12:48:06+00:00
-
- ## Știri de Ultima Oră - Știrile zilei online, reportaje și exclusivități din țară și din străinătate - Știrile ProTV
- - [https://stirileprotv.ro](https://stirileprotv.ro)
- - date_published: 2024-10-18T23:54:24.015276+00:00
-
- ## Stiri pe surse - Cele mai noi stiri
- - [https://www.stiripesurse.ro](https://www.stiripesurse.ro)
- - date_published: 2024-07-11T21:51:52.520315+00:00
-
- ## Home
- - [https://www.supercazino.ro](https://www.supercazino.ro)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Hire Dedicated Developers in Eastern Europe
- - [https://teamextension.ro](https://teamextension.ro)
- - date_published: 2024-07-12T08:39:59.893484+00:00
-
- ## TechTalent - Dedicated Software Development Teams - powered by Arnia Software
- - [https://www.techtalent.ro](https://www.techtalent.ro)
- - date_published: 2024-07-14T14:48:06.522133+00:00
-
- ## TEHNE Romania - Education, Innovation, Development
- - [https://tehne.ro](https://tehne.ro)
- - date_published: 2024-01-12T09:06:29+00:00
-
- ## O singură platformă. Toate datele!
- - [http://www.termene.ro](http://www.termene.ro)
- - date_published: 2024-07-13T17:19:55.839058+00:00
-
- ## Times New Roman - Cotidian independent de umor voluntar
- - [https://timesnewroman.ro](https://timesnewroman.ro)
- - date_published: 2024-03-26T20:40:51.272736+00:00
-
- ## Attention Required! | Cloudflare
- - [https://tokero.ro](https://tokero.ro)
- - date_published: 2024-09-24T20:52:56.840259+00:00
-
- ## Totul despre mame - Sarcina, Bebelusi, Copii, Parenting
- - [https://totuldespremame.ro](https://totuldespremame.ro)
- - date_published: 2024-10-18T23:54:19.618077+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://my.toyota.ro](https://my.toyota.ro)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://www.toyota.ro](https://www.toyota.ro)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
- - [https://toyotamea.ro](https://toyotamea.ro)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## TrackGPS – Soluția completă de management al flotei auto
- - [https://trackgps.ro](https://trackgps.ro)
- - date_published: 2024-10-04T00:00:00+00:00
-
- ## Traduceri legalizate
- - [http://traduceri--legalizate.ro](http://traduceri--legalizate.ro)
- - date_published: 2016-01-17T08:50:01+00:00
-
- ## Traian Brumă
- - [https://traianbruma.ro](https://traianbruma.ro)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Transferuri de fotbal, zvonuri, valori de piață și știri
- - [https://www.transfermarkt.ro](https://www.transfermarkt.ro)
- - date_published: 2024-07-24T06:29:42.326506+00:00
-
- ## Driving agility into highly complex software engineering projects - Tremend
- - [https://www.tremend.ro](https://www.tremend.ro)
- - date_published: 2024-10-18T23:54:44.114511+00:00
-
- ## Tribuna.ro
- - [https://www.tribuna.ro](https://www.tribuna.ro)
- - date_published: 2024-10-29T09:08:25.604444+00:00
-
- ## trivago.ro - Compare hotel prices worldwide
- - [https://www.trivago.ro](https://www.trivago.ro)
- - date_published: 2024-09-04T11:20:18.550251+00:00
-
- ## True HR și dp-Payroll - soluții software de HR și payroll - UCMS by AROBS
- - [https://truehr.ro](https://truehr.ro)
- - date_published: 2024-10-14T21:08:20.303489+00:00
-
- ## Păreri de încredere de la clienții magazinelor online din România
- - [https://feedback.trusted.ro](https://feedback.trusted.ro)
- - date_published: 2024-09-19T15:00:37.332453+00:00
-
- ## Magazine online și site-uri profesionale de încredere, consumatori avizați
- - [https://nl.trusted.ro](https://nl.trusted.ro)
- - date_published: 2017-05-23T00:00:00+00:00
-
- ## Magazine online și site-uri profesionale de încredere, consumatori avizați
- - [https://trusted.ro](https://trusted.ro)
- - date_published: 2017-05-23T00:00:00+00:00
-
- ## Annals of the Tiberiu Popoviciu Seminar of Functional Equations, Approximation and Convexity Home Page
- - [http://atps.tucn.ro](http://atps.tucn.ro)
- - date_published: 2020-01-14T16:56:49+00:00
-
- ## https://profs.info.uaic.ro
- - [https://profs.info.uaic.ro](https://profs.info.uaic.ro)
- - date_published: 2024-01-11T21:02:01.927273+00:00
-
- ## Universitatea Alexandru Ioan Cuza din Iași
- - [https://uaic.ro](https://uaic.ro)
- - date_published: 2024-07-25T00:00:00+00:00
 

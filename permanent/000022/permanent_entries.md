@@ -1,3 +1,11 @@
+ ## Welcome | ActiWiz
+ - [http://actiwiz.web.cern.ch](http://actiwiz.web.cern.ch)
+ - date_published: 2024-06-14T13:14:30+00:00
+
+ ## Accueil | Admin e-guide
+ - [https://admin-eguide.web.cern.ch](https://admin-eguide.web.cern.ch)
+ - date_published: 2024-07-21T06:34:31.643562+00:00
+
  ## Home | ALPHA Experiment
  - [http://alpha.web.cern.ch](http://alpha.web.cern.ch)
  - date_published: 2024-06-14T12:18:18+00:00
@@ -4003,12 +4011,4 @@
  ## Sign in - Matomo
  - [https://matomo.kevingrandjean.ch](https://matomo.kevingrandjean.ch)
  - date_published: 2024-09-04T04:46:06.239938+00:00
-
- ## Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!
- - [https://kinder-lei.ch](https://kinder-lei.ch)
- - date_published: 2024-06-13T13:53:27+00:00
-
- ## kinderseele
- - [https://www.kinderseele.ch](https://www.kinderseele.ch)
- - date_published: 2024-10-29T11:16:08.006246+00:00
 

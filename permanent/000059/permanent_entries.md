@@ -1,3 +1,27 @@
+ ## I Folletti di Bosco Fatato
+ - [https://ifollettidiboscofatato.blogspot.com](https://ifollettidiboscofatato.blogspot.com)
+ - date_published: 2024-08-30T08:19:17+00:00
+
+ ## ifthethunderdontgetya™³²®©
+ - [http://ifthethunderdontgetya.blogspot.com](http://ifthethunderdontgetya.blogspot.com)
+ - date_published: 2024-06-14T07:12:13+00:00
+
+ ## MeMeMe
+ - [http://ifyoucantbeatthem.blogspot.com](http://ifyoucantbeatthem.blogspot.com)
+ - date_published: 2024-10-05T02:00:59+00:00
+
+ ## Imperial Guard 4 The Win
+ - [http://ig4tw.blogspot.com](http://ig4tw.blogspot.com)
+ - date_published: 2024-09-02T07:52:48+00:00
+
+ ## Ignatum
+ - [http://ignatum.blogspot.com](http://ignatum.blogspot.com)
+ - date_published: 2024-09-01T17:03:40+00:00
+
+ ## Ignorance Without Arrogance
+ - [http://ignorancewithoutarrogance.blogspot.com](http://ignorancewithoutarrogance.blogspot.com)
+ - date_published: 2024-02-08T00:19:20+00:00
+
  ## Что интересного происходит в науке
  - [http://igorivanov.blogspot.com](http://igorivanov.blogspot.com)
  - date_published: 2024-09-02T09:11:53+00:00
@@ -3988,28 +4012,4 @@
  ## Le voyageur du ludique
  - [http://levoyageurduludique.blogspot.com](http://levoyageurduludique.blogspot.com)
  - date_published: 2024-10-05T03:18:23+00:00
-
- ## Lewisham '77
- - [http://lewisham77.blogspot.com](http://lewisham77.blogspot.com)
- - date_published: 2024-10-21T18:51:08.318505+00:00
-
- ## Маємо те, що маємо. Усе що відбувається - на краще
- - [https://lexxai.blogspot.com](https://lexxai.blogspot.com)
- - date_published: 2024-08-17T21:38:54+00:00
-
- ## For What It's Worth(Page Two)
- - [http://leyhane2.blogspot.com](http://leyhane2.blogspot.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## For What It's Worth
- - [https://leyhane.blogspot.com](https://leyhane.blogspot.com)
- - date_published: 2024-07-19T00:01:04+00:00
-
- ## Lead, Follow. or...
- - [http://lfogootw.blogspot.com](http://lfogootw.blogspot.com)
- - date_published: 2024-02-07T02:57:31+00:00
-
- ## Notes on the LHC
- - [http://lhc-compiler.blogspot.com](http://lhc-compiler.blogspot.com)
- - date_published: 2024-03-13T08:42:55+00:00
 

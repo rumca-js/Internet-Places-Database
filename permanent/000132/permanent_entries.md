@@ -1,3 +1,48 @@
+ ## Magnet Service V2
+ - [https://magnetapi.klangoo.com](https://magnetapi.klangoo.com)
+ - date_published: 2018-12-19T01:44:54+00:00
+
+ ## Klangphonics | band
+ - [https://klangphonics.com](https://klangphonics.com)
+ - date_published: 2024-06-19T14:45:27+00:00
+ - tags: ['music band']
+
+ ## Virtual tour | VR | 360 | Create and explore the world
+ - [https://www.klapty.com](https://www.klapty.com)
+ - date_published: 2024-10-19T11:18:45.288622+00:00
+
+ ## klara feenstra
+ - [https://www.klarafeenstra.com](https://www.klarafeenstra.com)
+ - date_published: 2024-09-09T21:55:41.152276+00:00
+
+ ## Klara Inc | Open Source Development. Reimagined.
+ - [https://klarasystems.com](https://klarasystems.com)
+ - date_published: 2023-10-25T15:38:07.509792+00:00
+
+ ## Klarda - DeFi Platform for Investing Bitcoin, Ethereum, Altcoin
+ - [http://klarda.com](http://klarda.com)
+ - date_published: 2024-06-16T04:35:44.283696+00:00
+
+ ## Klark Teknik | Home
+ - [https://www.klarkteknik.com](https://www.klarkteknik.com)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Klarna
+ - [https://app.klarna.com](https://app.klarna.com)
+ - date_published: 2024-05-04T09:47:15.735385+00:00
+
+ ## Klarna brand guidelines
+ - [https://brand.klarna.com](https://brand.klarna.com)
+ - date_published: 2024-06-20T22:26:06.653131+00:00
+
+ ## Klarna Creator Platform - For Creators & Brands
+ - [https://c.klarna.com](https://c.klarna.com)
+ - date_published: 2024-06-27T12:55:02+00:00
+
+ ## Klarna Docs
+ - [https://docs.klarna.com](https://docs.klarna.com)
+ - date_published: 2024-05-04T09:48:22.699786+00:00
+
  ## Klarna Engineering
  - [https://engineering.klarna.com](https://engineering.klarna.com)
  - date_published: 2024-05-02T00:00:00+00:00
@@ -2067,6 +2112,10 @@ vous accompagner et réussir vos projets web.
  - [https://www.konga.com](https://www.konga.com)
  - date_published: 2024-07-15T07:17:44.537905+00:00
 
+ ## Show HN: Konga Beat – A custom track editor for Donkey Konga 2 and 3
+ - [https://www.kongabeat.com](https://www.kongabeat.com)
+ - date_published: 2024-11-13T16:39:55+00:00
+
  ## 【孔夫子旧书网】网上买书：图书_书籍_古籍_二手书，网上卖书：网上书店_古旧书拍卖，国内专业的古旧书交易平台
  - [http://www.kongfz.com](http://www.kongfz.com)
  - date_published: 2024-10-25T11:42:01+00:00
@@ -3987,52 +4036,4 @@ vous accompagner et réussir vos projets web.
  ## onvideo快手云剪-快手官方在线视频创作平台
  - [https://onvideo.kuaishou.com](https://onvideo.kuaishou.com)
  - date_published: 2024-09-04T19:27:51.515682+00:00
-
- ## 精彩推荐-快手
- - [https://pay.ssl.kuaishou.com](https://pay.ssl.kuaishou.com)
- - date_published: 2024-06-07T15:19:55.677129+00:00
-
- ## 快压-压缩和解压缩利器
- - [http://kuaizip.com](http://kuaizip.com)
- - date_published: 2024-06-29T17:09:50.799562+00:00
-
- ## Kuali.com - Recipes, Food and Restaurant Reviews, Cooking Hacks...
- - [https://www.kuali.com](https://www.kuali.com)
- - date_published: 2024-09-10T08:03:32.516040+00:00
-
- ## Kuali
- - [https://ucsd.kualibuild.com](https://ucsd.kualibuild.com)
- - date_published: 2024-10-14T19:00:29+00:00
-
- ## MyKualo - Kualo Customer Area Login
- - [https://my.kualo.com](https://my.kualo.com)
- - date_published: 2024-05-06T21:47:01.548959+00:00
-
- ## Personal Budget & Cash Flow Forecasting (App & Web) | Kualto
- - [https://www.kualto.com](https://www.kualto.com)
- - date_published: 2018-12-22T00:00:00+00:00
-
- ## Kuarzo – Entertainment In Argentina
- - [http://www.kuarzo.com](http://www.kuarzo.com)
- - date_published: 2024-06-28T15:58:58.045124+00:00
-
- ## Kansas Jayhawks
- - [https://kuathletics.com](https://kuathletics.com)
- - date_published: 2024-07-01T12:36:23.390781+00:00
-
- ## Jacob Martin
- - [https://kubamartin.com](https://kubamartin.com)
- - date_published: 2024-08-19T08:34:18.175093+00:00
-
- ## Kubanda Cryotherapy
- - [https://kubandacryotherapy.com](https://kubandacryotherapy.com)
- - date_published: 2024-07-09T09:58:16.776920+00:00
-
- ## Kubbix | Digital Powered
- - [https://kubbix.com](https://kubbix.com)
- - date_published: 2024-02-14T20:53:32+00:00
-
- ## Learn Kubernetes with Lessons & Tutorials | Kube by Example
- - [https://kubebyexample.com](https://kubebyexample.com)
- - date_published: 2024-05-21T02:46:08.516315+00:00
 

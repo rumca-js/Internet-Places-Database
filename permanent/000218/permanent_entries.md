@@ -1,3 +1,104 @@
+ ## Login : Validity
+ - [https://api.everest.validity.com](https://api.everest.validity.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## ValidKube | Validate, Clean & Secure Your K8s YAML
+ - [http://www.validkube.com](http://www.validkube.com)
+ - date_published: 2024-07-04T12:12:07.246417+00:00
+
+ ## validlab home page http://www.validlab.com
+ - [https://validlab.com](https://validlab.com)
+ - date_published: 2018-04-09T06:22:20+00:00
+
+ ## Services - Validus Certified Programs | Validus Services
+ - [http://www.validuscertified.com](http://www.validuscertified.com)
+ - date_published: 2024-07-04T08:56:36.449271+00:00
+
+ ## Validvent | Expert Blockchain & Web3 Consulting Solutions
+ - [https://validvent.com](https://validvent.com)
+ - date_published: 2024-01-18T22:34:10+00:00
+
+ ## Valimail
+ - [https://app.valimail.com](https://app.valimail.com)
+ - date_published: 2024-08-18T10:11:55.064783+00:00
+
+ ## Email Sender Identity Verification, Authentication & Security Solutions | Valimail
+ - [https://domain-checker.valimail.com](https://domain-checker.valimail.com)
+ - date_published: 2024-02-08T18:12:19+00:00
+
+ ## Valimail Help Center
+ - [https://support.valimail.com](https://support.valimail.com)
+ - date_published: 2024-08-18T10:11:53.490781+00:00
+
+ ## Home – Google Readiness Countdown - Valimail
+ - [https://valimail.com](https://valimail.com)
+ - date_published: 2023-12-18T08:07:52+00:00
+
+ ## valinux.com - Ta strona jest na sprzedaż! - valinux Zasoby i informacje.
+ - [https://www.valinux.com](https://www.valinux.com)
+ - date_published: 2024-07-14T18:27:57+00:00
+
+ ## Valio Con 2016
+ - [http://valiocon.com](http://valiocon.com)
+ - date_published: 2024-03-21T19:17:29+00:00
+
+ ## Homepage - Valiuz
+ - [https://www.valiuz.com](https://www.valiuz.com)
+ - date_published: 2024-05-06T17:33:15.879963+00:00
+
+ ## Van der Valk Hotels & Restaurants | Valk.com
+ - [https://www.valk.com](https://www.valk.com)
+ - date_published: 2024-07-02T19:51:21.076490+00:00
+
+ ## ETF Homepage | CoinShares
+ - [https://valkyrie-funds.com](https://valkyrie-funds.com)
+ - date_published: 2024-10-17T21:45:25.279994+00:00
+
+ ## Golden State Valkyries
+ - [https://valkyries.com](https://valkyries.com)
+ - date_published: 2024-06-20T16:42:56.928573+00:00
+
+ ## Valkyries Horn Amateur Mead competition: 2024
+ - [https://comp.valkyrieshorn.com](https://comp.valkyrieshorn.com)
+ - date_published: 2024-06-20T01:48:03.123472+00:00
+
+ ## Work - Vallée Duhamel
+ - [https://valleeduhamel.com](https://valleeduhamel.com)
+ - date_published: 2024-06-26T22:16:59.873385+00:00
+
+ ## Game Color - Vallejo
+ - [https://www.vallejoacrylics.com](https://www.vallejoacrylics.com)
+ - date_published: 2023-10-09T00:00:00+00:00
+ - tags: ['miniatures paints']
+
+ ## The Vallejo Sun: An independent news publication for Solano County
+ - [https://www.vallejosun.com](https://www.vallejosun.com)
+ - date_published: 2023-10-25T17:54:48.425962+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://onlinebanking.valley.com](https://onlinebanking.valley.com)
+ - date_published: 2024-07-10T05:11:25.705194+00:00
+
+ ## Personal
+ - [https://www.valley.com](https://www.valley.com)
+ - date_published: 2024-07-09T23:19:15+00:00
+
+ ## Valley Advocate | Local Savings in Northampton, MA
+ - [https://local.valleyadvocate.com](https://local.valleyadvocate.com)
+ - date_published: 2024-07-04T11:20:15.574169+00:00
+
+ ## Valley Advocate - Alternative Pioneer Valley news, arts & entertainment
+ - [https://valleyadvocate.com](https://valleyadvocate.com)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## ValleyCare
+ - [https://valleycare.com](https://valleycare.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Valley Deals 365
+ - [https://www.valleydeals365.com](https://www.valleydeals365.com)
+ - date_published: 2024-05-07T14:03:50.681085+00:00
+
  ## Valley Direct - Valley Bank
  - [https://valleydirect.com](https://valleydirect.com)
  - date_published: 2024-05-09T07:37:35.229014+00:00
@@ -3934,108 +4035,4 @@
  ## VFX Voice Magazine
  - [http://vfxvoice.com](http://vfxvoice.com)
  - date_published: 2024-06-22T08:49:40.449807+00:00
-
- ## VG247
- - [https://vg247.com](https://vg247.com)
- - date_published: 2023-11-28T13:23:37.145498+00:00
- - tags: ['video game news']
-
- ## Videogame Questions and Answers
- - [https://vgassist.com](https://vgassist.com)
- - date_published: 2023-12-13T16:15:17.027932+00:00
-
- ## VG百科 - 联合游戏玩家共同编撰一部关于电子游戏的百科全书。
- - [https://www.vgbaike.com](https://www.vgbaike.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## VG Cats - Continue?
- - [http://www.vgcats.com](http://www.vgcats.com)
- - date_published: 2024-09-09T23:16:37.511023+00:00
-
- ## Video Game Charts, Game Sales, Top Sellers, Game Data - VGChartz
- - [http://www.vgchartz.com](http://www.vgchartz.com)
- - date_published: 2024-10-29T00:51:29.107950+00:00
-
- ## Video Game Facts and Trivia - VGFacts
- - [https://vgfacts.com](https://vgfacts.com)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## VGMaps.com: The Video Game Atlas
- - [https://vgmaps.com](https://vgmaps.com)
- - date_published: 2024-05-13T07:20:45+00:00
- - tags: ['video game maps', 'video games']
-
- ## Video Game Music Preservation Foundation Wiki
- - [https://vgmpf.com](https://vgmpf.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## VGMpire
- - [https://vgmpire.com](https://vgmpire.com)
- - date_published: 2024-04-28T04:42:51.769653+00:00
-
- ## Centova Cast
- - [https://radio.vgmradio.com](https://radio.vgmradio.com)
- - date_published: 2024-05-01T00:28:31.900310+00:00
-
- ## VGM Radio
- - [https://vgmradio.com](https://vgmradio.com)
- - date_published: 2012-01-01T00:00:00+00:00
-
- ## The Video Game Museum
- - [https://vgmuseum.com](https://vgmuseum.com)
- - date_published: 2024-03-05T00:00:00+00:00
- - tags: ['game endings', 'video games', 'fan page']
-
- ## VGMusic - 31806 Game Music MIDI files
- - [https://vgmusic.com](https://vgmusic.com)
- - date_published: 2024-05-11T10:48:29.536497+00:00
-
- ## The Vintage Gaming Network – Archive – Just another WordPress site
- - [https://vg-network.com](https://vg-network.com)
- - date_published: 2024-06-14T15:50:53.448680+00:00
-
- ## Physical Indie Publisher | VGNYsoft | United States
- - [https://www.vgnysoft.com](https://www.vgnysoft.com)
- - date_published: 2024-08-22T22:17:22.994551+00:00
-
- ## Mathijs van Gorcum
- - [https://mathijs.vgorcum.com](https://mathijs.vgorcum.com)
- - date_published: 2023-12-06T20:42:46+00:00
-
- ## vgperson's Stuff
- - [http://www.vgperson.com](http://www.vgperson.com)
- - date_published: 2024-10-17T20:43:57+00:00
-
- ## Branding Agency + Graphic & Web Design Studio, Manila Philippines
- - [http://vgrafiks.com](http://vgrafiks.com)
- - date_published: 2023-02-11T00:00:00+00:00
-
- ## VGMix
- - [https://vgremix.com](https://vgremix.com)
- - date_published: 2024-06-14T15:50:25.495530+00:00
-
- ## The VG Resource
- - [https://vg-resource.com](https://vg-resource.com)
- - date_published: 2024-04-08T18:01:44+00:00
- - tags: ['image assets']
-
- ## The VG Resource Wiki
- - [https://wiki.vg-resource.com](https://wiki.vg-resource.com)
- - date_published: 2023-08-10T18:09:11+00:00
-
- ## V Group | Signage & Print Experts
- - [https://vgroupsigns.com](https://vgroupsigns.com)
- - date_published: 2024-07-09T23:05:58.780760+00:00
-
- ## IIS Windows Server
- - [http://gis.vgsi.com](http://gis.vgsi.com)
- - date_published: 2022-01-26T21:33:14+00:00
-
- ## Facebook
- - [https://www.vh1.com](https://www.vh1.com)
- - date_published: 2024-06-17T10:18:06.815976+00:00
-
- ## Vanderbilt Health Affiliated Network – This is rewarding care. This is VHAN.
- - [http://vhan.com](http://vhan.com)
- - date_published: 2024-07-10T00:00:00+00:00
 

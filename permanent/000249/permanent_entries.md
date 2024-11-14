@@ -1,3 +1,107 @@
+ ## Videogameszone Forum
+ - [https://forum.videogameszone.de](https://forum.videogameszone.de)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## videogameszone.de - Stellenmarkt
+ - [https://jobs.videogameszone.de](https://jobs.videogameszone.de)
+ - date_published: 2024-08-06T17:59:39.025494+00:00
+
+ ## News, Tests, Tipps, Cheats, Videos zu PS3, Wii, DS, Xbox 360 - Videogameszone.de
+ - [https://mobile.videogameszone.de](https://mobile.videogameszone.de)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## News, Tests, Tipps, Cheats, Videos zu PS3, Wii, DS, Xbox 360 - Videogameszone.de
+ - [https://videogameszone.de](https://videogameszone.de)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Startseite - Vielfalt Plus⁺
+ - [https://www.vielfalt-plus.de](https://www.vielfalt-plus.de)
+ - date_published: 2019-08-24T12:59:49+00:00
+
+ ## Willkommen - Virtuelle Fachbibliothek Biologie (vifabio)
+ - [http://www.vifabio.de](http://www.vifabio.de)
+ - date_published: 2024-08-18T14:43:53.799577+00:00
+
+ ## Villa Hügel in Essen
+ - [http://www.villahuegel.de](http://www.villahuegel.de)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Vimcar Support - FAQ Bereich | Vimcar GmbH
+ - [https://support.vimcar.de](https://support.vimcar.de)
+ - date_published: 2024-10-25T09:32:57+00:00
+
+ ## Fahrzeugverwaltung professionell und effizient | Vimcar
+ - [https://vimcar.de](https://vimcar.de)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## VIMpay Support Center
+ - [https://support.vimpay.de](https://support.vimpay.de)
+ - date_published: 2024-10-09T12:24:38.568441+00:00
+
+ ## Violence Prevention Network
+ - [https://violence-prevention-network.de](https://violence-prevention-network.de)
+ - date_published: 2024-09-12T16:04:02.604246+00:00
+
+ ## Home / Viren im Wasser
+ - [https://viren-im-wasser.de](https://viren-im-wasser.de)
+ - date_published: 2024-04-29T06:57:45.959379+00:00
+
+ ## Wir gestalten die digitale Zukunft Deutschlands
+ - [https://virtual7.de](https://virtual7.de)
+ - date_published: 2024-07-24T06:05:24.023948+00:00
+
+ ## Virtual Dimension Multimedia Produktionen
+ - [http://aktuell.virtualdimension.de](http://aktuell.virtualdimension.de)
+ - date_published: 2022-03-09T11:07:50+00:00
+
+ ## European Modular Adtechnology Full Stack | virtual minds GmbH
+ - [https://virtualminds.de](https://virtualminds.de)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Virtuopolis Ticket System
+ - [https://www.virtuopolis.de](https://www.virtuopolis.de)
+ - date_published: 2024-10-17T18:08:45.211027+00:00
+
+ ## Visa, ein zuverlässiger Partner für digitale Zahlungen
+ - [https://visa.de](https://visa.de)
+ - date_published: 2024-05-12T03:59:55.905717+00:00
+
+ ## Home
+ - [https://www.viscotec.de](https://www.viscotec.de)
+ - date_published: 2024-10-15T21:13:40.742503+00:00
+
+ ## Alles über Berlins offizielle Tourismus- und Kongressorganisation | about.visitBerlin.de
+ - [https://about.visitberlin.de](https://about.visitberlin.de)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## Berlin Startseite
+ - [https://buchen.visitberlin.de](https://buchen.visitberlin.de)
+ - date_published: 2024-09-23T13:40:21.236592+00:00
+
+ ## Eventorganisation für Meetings & Großveranstaltungen - Berlin Convention Office
+ - [https://convention.visitberlin.de](https://convention.visitberlin.de)
+ - date_published: 2024-09-23T13:40:23+00:00
+
+ ## Sign in - Matomo
+ - [https://piwik.visitberlin.de](https://piwik.visitberlin.de)
+ - date_published: 2024-09-23T13:40:14.416347+00:00
+
+ ## Berlins offizielles Reiseportal - visitBerlin.de
+ - [https://visitberlin.de](https://visitberlin.de)
+ - date_published: 2024-09-23T13:36:09+00:00
+
+ ## Visit Mannheim
+ - [https://visit-mannheim.de](https://visit-mannheim.de)
+ - date_published: 2024-05-13T03:13:09.586715+00:00
+
+ ## Visit Seattle Washington | Travel & Tourism | Official Site
+ - [http://www.visitseattle.de](http://www.visitseattle.de)
+ - date_published: 2024-10-21T20:04:02.914366+00:00
+
+ ## Schweden für die Reisebranche
+ - [https://traveltrade.visitsweden.de](https://traveltrade.visitsweden.de)
+ - date_published: 2024-06-29T13:23:51.013465+00:00
+
  ## Schweden - <br> von Natur aus anders
  - [https://visitsweden.de](https://visitsweden.de)
  - date_published: 2024-05-07T10:49:54.941288+00:00
@@ -3627,6 +3731,10 @@ Bibliotheken / Z39.50
  - [https://client.aigur.dev](https://client.aigur.dev)
  - date_published: 2024-06-19T21:26:22.181598+00:00
 
+ ## Aikido — AppSec Platform For Code & Cloud Security
+ - [https://www.aikido.dev](https://www.aikido.dev)
+ - date_published: 2024-11-13T14:34:30+00:00
+
  ## AI opt-out for web developers
  - [https://aioptout.dev](https://aioptout.dev)
  - date_published: 2024-09-10T08:22:11.662838+00:00
@@ -3918,112 +4026,4 @@ Bibliotheken / Z39.50
  ## Yet another place where a developer rants
  - [https://antopiras.dev](https://antopiras.dev)
  - date_published: 2024-05-11T10:22:22.547294+00:00
-
- ## antunes.dev
- - [https://antunes.dev](https://antunes.dev)
- - date_published: 2024-06-15T16:41:27.733908+00:00
-
- ## Abraham A. Aremu (aka anubra266) - Software Engineer and Open Source Enthusiast
- - [https://anubra266.dev](https://anubra266.dev)
- - date_published: 2024-06-23T08:14:30.277827+00:00
-
- ## Home Page
- - [https://anuraj.dev](https://anuraj.dev)
- - date_published: 2024-06-02T04:36:23+00:00
-
- ## Blog
- - [https://via.anuraj.dev](https://via.anuraj.dev)
- - date_published: 2024-08-30T00:00:00+00:00
-
- ## any.dev
- - [https://any.dev](https://any.dev)
- - date_published: 2024-10-21T09:26:56.447328+00:00
-
- ## Anzui.dev - Home
- - [https://anzui.dev](https://anzui.dev)
- - date_published: 2024-05-09T07:52:02.202397+00:00
-
- ## Anzui's PeerTube
- - [https://peertube.anzui.dev](https://peertube.anzui.dev)
- - date_published: 2024-07-10T07:16:50.129606+00:00
-
- ## Anzui's Pixelfed
- - [https://pixelfed.anzui.dev](https://pixelfed.anzui.dev)
- - date_published: 2024-07-10T07:16:52.085351+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.anzui.dev](https://plausible.anzui.dev)
- - date_published: 2024-07-10T07:16:50.851071+00:00
-
- ## Home - Anna Kudriavtsev
- - [https://ap5.dev](https://ap5.dev)
- - date_published: 2023-01-10T00:00:00+00:00
-
- ## linja suwi
- - [https://linjasuwi.ap5.dev](https://linjasuwi.ap5.dev)
- - date_published: 2022-12-26T21:41:19+00:00
-
- ## The personal garden of a broken doll. - Aphrodite.dev
- - [https://aphrodite.dev](https://aphrodite.dev)
- - date_published: 2024-05-09T08:15:34.356700+00:00
-
- ## API Breaking-Change Management - Detection & Remediation
- - [https://apicontract.dev](https://apicontract.dev)
- - date_published: 2024-07-26T13:43:54+00:00
-
- ## API Governance | Ensure API best practices, industry-standards | Automated API reviews
- - [https://apigovernance.dev](https://apigovernance.dev)
- - date_published: 2024-07-25T10:53:33+00:00
-
- ## API Performance: Enhance Your API's Speed and Reliability
- - [https://apiperformance.dev](https://apiperformance.dev)
- - date_published: 2024-07-25T14:14:28+00:00
-
- ## API RANK | Benchmarks of public APIs, by Escape
- - [https://apirank.dev](https://apirank.dev)
- - date_published: 2023-10-25T18:34:50.703389+00:00
-
- ## Release AI - Track & document API changes, generates release notes
- - [https://apirelease.dev](https://apirelease.dev)
- - date_published: 2024-07-22T07:58:45+00:00
-
- ## API Test
- - [https://apitests.dev](https://apitests.dev)
- - date_published: 2024-07-26T13:28:59+00:00
-
- ## AI-Powered API Versioning Platform
- - [https://apiversion.dev](https://apiversion.dev)
- - date_published: 2024-07-26T13:15:06+00:00
-
- ## Apoxy - The Proxy Platform
- - [https://apoxy.dev](https://apoxy.dev)
- - date_published: 2024-04-29T07:19:40.352175+00:00
-
- ## Apoxy - Dashboard
- - [https://dashboard.apoxy.dev](https://dashboard.apoxy.dev)
- - date_published: 2024-07-23T23:57:26.895901+00:00
-
- ## PostHog
- - [https://e.apoxy.dev](https://e.apoxy.dev)
- - date_published: 2023-07-07T00:00:00+00:00
-
- ## Envoy Playground
- - [https://envoy-playground.apoxy.dev](https://envoy-playground.apoxy.dev)
- - date_published: 2023-07-27T21:58:37+00:00
-
- ## Join Apoxy Community on Slack
- - [https://slack.apoxy.dev](https://slack.apoxy.dev)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## App Defense Alliance
- - [https://appdefensealliance.dev](https://appdefensealliance.dev)
- - date_published: 2023-11-08T16:56:52+00:00
-
- ## AppMakers.Dev
- - [https://appmakers.dev](https://appmakers.dev)
- - date_published: 2024-06-23T11:39:58+00:00
-
- ## AI-Driven Application Security Testing for API Security - Aptori
- - [https://aptori.dev](https://aptori.dev)
- - date_published: 2024-10-28T17:48:02+00:00
 

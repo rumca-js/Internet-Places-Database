@@ -1,3 +1,115 @@
+ ## Homepage EN - Klär.graphics
+ - [https://klar.graphics](https://klar.graphics)
+ - date_published: 2021-10-07T18:01:38+00:00
+
+ ## LNX GFX
+ - [https://lnx.graphics](https://lnx.graphics)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Magnum Engine Blog
+ - [https://blog.magnum.graphics](https://blog.magnum.graphics)
+ - date_published: 2022-08-02T00:00:00+00:00
+
+ ## Magnum Engine
+ - [https://magnum.graphics](https://magnum.graphics)
+ - date_published: 2022-08-02T00:00:00+00:00
+
+ ## Melanie Leung
+ - [https://mel.graphics](https://mel.graphics)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## more.graphics — more creativity!
+ - [https://more.graphics](https://more.graphics)
+ - date_published: 2024-06-19T20:52:51.104946+00:00
+
+ ## neil.graphics
+ - [https://neil.graphics](https://neil.graphics)
+ - date_published: 2024-02-03T00:00:00+00:00
+
+ ## homepage :: sebastian.graphics
+ - [https://sebastian.graphics](https://sebastian.graphics)
+ - date_published: 2024-05-09T07:45:28.005397+00:00
+
+ ## Taichi 中文论坛
+ - [https://forum.taichi.graphics](https://forum.taichi.graphics)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Mingkuan Xu
+ - [https://mingkuan.taichi.graphics](https://mingkuan.taichi.graphics)
+ - date_published: 2022-04-01T00:00:00+00:00
+
+ ## Taichi Lang: High-performance Parallel Programming in Python
+ - [https://taichi.graphics](https://taichi.graphics)
+ - date_published: 2024-08-18T18:19:13.572920+00:00
+
+ ## Yuanming Hu
+ - [https://yuanming.taichi.graphics](https://yuanming.taichi.graphics)
+ - date_published: 2021-03-01T00:00:00+00:00
+
+ ## Xenographics – Weird but (sometimes) useful charts
+ - [https://www.xeno.graphics](https://www.xeno.graphics)
+ - date_published: 2024-06-22T13:18:08.832491+00:00
+
+ ## Redirecting to Michael's link…
+ - [https://michael.gratis](https://michael.gratis)
+ - date_published: 2024-04-29T04:47:04.933812+00:00
+
+ ## Nur.Gratis: Kostenlose Dinge aus dem Web mit Mehrwert + Gutscheine
+ - [https://nur.gratis](https://nur.gratis)
+ - date_published: 2024-06-03T06:37:49.769077+00:00
+
+ ## Find Ethical & Sustainable Banks In Your Area - Bank.Green
+ - [https://bank.green](https://bank.green)
+ - date_published: 2024-08-07T19:18:33.821591+00:00
+
+ ## Réduire son empreinte carbone et capter les émissions de ses infrastructures informatiques
+ - [https://www.clo2.green](https://www.clo2.green)
+ - date_published: 2024-09-15T22:22:35.685902+00:00
+
+ ## Comment lutter contre le réchauffement climatique ? | EcoTree
+ - [https://ecotree.green](https://ecotree.green)
+ - date_published: 2024-08-11T18:04:49.669139+00:00
+
+ ## Ever.green: High-impact Tax Credits and RECs that accelerate the transition to net-zero
+ - [https://www.ever.green](https://www.ever.green)
+ - date_published: 2024-07-22T00:00:00+00:00
+
+ ## HTML in the Park
+ - [https://html.green](https://html.green)
+ - date_published: 2024-06-13T18:39:06+00:00
+
+ ## Mastodon.green
+ - [https://mastodon.green](https://mastodon.green)
+ - date_published: 2024-05-04T07:48:59.264690+00:00
+
+ ## Node.js ES2015/ES6, ES2016 and ES2017 support
+ - [http://node.green](http://node.green)
+ - date_published: 2024-09-02T12:22:23.433312+00:00
+
+ ## Planted I All-in-One Plattform für ESG-Management
+ - [https://planted.green](https://planted.green)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## GREEN+ Programme
+ - [https://programme.green](https://programme.green)
+ - date_published: 2024-05-20T15:05:19+00:00
+
+ ## Soylent Green
+ - [https://soylent.green](https://soylent.green)
+ - date_published: 2024-07-09T08:14:27.577139+00:00
+
+ ## ~green
+ - [https://tilde.green](https://tilde.green)
+ - date_published: 2024-07-20T21:10:36.382387+00:00
+
+ ## We Were One of the First  Crypto Exchanges
+ - [https://100x.group](https://100x.group)
+ - date_published: 2024-08-19T09:43:33+00:00
+
+ ## A1 Group - A1 Group
+ - [https://www.a1.group](https://www.a1.group)
+ - date_published: 2024-07-16T00:00:00+00:00
+
  ## AIDOS Lab
  - [https://aidos.group](https://aidos.group)
  - date_published: 2024-07-08T08:43:57+00:00
@@ -3900,117 +4012,4 @@
  ## portavita
  - [https://portavita.prd.cgm.punkt.hosting](https://portavita.prd.cgm.punkt.hosting)
  - date_published: 2024-06-22T09:13:23.527058+00:00
-
- ## WEDOS Status - aktuální stav služeb
- - [https://status.wedos.hosting](https://status.wedos.hosting)
- - date_published: 2024-10-10T22:30:49+00:00
-
- ## Hosting i Domene AKCIJA 1+1 - WMD.HOSTING
- - [https://wmd.hosting](https://wmd.hosting)
- - date_published: 2024-06-19T21:56:45.485045+00:00
-
- ## Allium House
- - [https://allium.house](https://allium.house)
- - date_published: 2024-03-01T10:14:49.687453+00:00
- - tags: ['personal']
-
- ## besties
- - [https://besties.house](https://besties.house)
- - date_published: 2024-07-09T08:58:59+00:00
-
- ## covid.house
- - [https://covid.house](https://covid.house)
- - date_published: 2024-05-10T06:28:13.030997+00:00
- - tags: ['blog', 'personal']
-
- ## Bastille | Doom Days House
- - [https://doomdays.house](https://doomdays.house)
- - date_published: 2019-06-25T20:34:29+00:00
-
- ## Goop House
- - [https://goop.house](https://goop.house)
- - date_published: 2024-05-08T02:29:05.752377+00:00
-
- ## Helios House Press
- - [https://www.helios.house](https://www.helios.house)
- - date_published: 2024-06-19T15:18:57.021782+00:00
-
- ## lunacb's funky site
- - [https://lunacb.house](https://lunacb.house)
- - date_published: 2024-02-26T19:49:17+00:00
-
- ## Newspeak House
- - [https://newspeak.house](https://newspeak.house)
- - date_published: 2024-07-06T19:50:46.205826+00:00
-
- ## The Nostrich.House - Get your Nostr address NIP-05
- - [https://nostrich.house](https://nostrich.house)
- - date_published: 2024-06-15T22:33:50.138579+00:00
-
- ## ozlabs.house
- - [https://ozlabs.house](https://ozlabs.house)
- - date_published: 2024-08-19T16:34:19.732594+00:00
-
- ## Packhouse Git
- - [https://git.pack.house](https://git.pack.house)
- - date_published: 2024-05-17T21:10:31.609518+00:00
-
- ## Piedmont, CA Housing Data
- - [https://piedmont.house](https://piedmont.house)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Prop House
- - [https://prop.house](https://prop.house)
- - date_published: 2024-06-18T16:03:48.562509+00:00
-
- ## rate.house • The comprehensive media database.
- - [https://rate.house](https://rate.house)
- - date_published: 2024-11-12T17:08:54.450891+00:00
-
- ## rite.house
- - [http://rite.house](http://rite.house)
- - date_published: 2022-10-04T18:45:21+00:00
-
- ## Runhouse | Programmable Remote Compute and Data
- - [https://run.house](https://run.house)
- - date_published: 2023-10-25T19:28:07.838403+00:00
-
- ## skip’s house
- - [https://skip.house](https://skip.house)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## House Targaryen
- - [https://social.targaryen.house](https://social.targaryen.house)
- - date_published: 2024-07-15T12:36:55.170854+00:00
-
- ## The Brick House Cooperative
- - [https://thebrick.house](https://thebrick.house)
- - date_published: 2020-12-09T00:00:00+00:00
-
- ## The Crush House
- - [https://thecrush.house](https://thecrush.house)
- - date_published: 2024-06-21T13:13:56.731133+00:00
-
- ## Трофейный дом - Таксидермия, оформление охотничьих трофеев, создание интерьеров, чучела животных (Киев, Украина)
- - [http://trofey.house](http://trofey.house)
- - date_published: 2024-08-20T05:36:19.675692+00:00
-
- ## m.unix.house
- - [https://m.unix.house](https://m.unix.house)
- - date_published: 2024-06-23T08:56:52.667679+00:00
-
- - [https://abby.how](https://abby.how)
- - date_published: 2024-01-09T03:31:50.062520+00:00
-
- ## Lifecycle & Governance
- - [http://apis.how](http://apis.how)
- - date_published: 2023-03-17T17:41:22+00:00
-
- ## Everything Engineering
- - [https://backend.how](https://backend.how)
- - date_published: 2024-07-16T18:17:07.856811+00:00
-
- ## New
- - [https://beecreative.how](https://beecreative.how)
- - date_published: 2023-12-20T17:04:27+00:00
 

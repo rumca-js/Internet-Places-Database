@@ -1,3 +1,143 @@
+ ## Domæneshop
+ - [https://xn--domne-ura.shop](https://xn--domne-ura.shop)
+ - date_published: 2024-06-16T15:13:24.375218+00:00
+
+ ## Domänshop
+ - [https://xn--domn-noa.shop](https://xn--domn-noa.shop)
+ - date_published: 2024-05-18T00:00:00+00:00
+
+ ## Create an Ecommerce Website and Sell Online! Ecommerce Software by Shopify
+ - [http://zerowastenyc.shop](http://zerowastenyc.shop)
+ - date_published: 2023-10-25T22:39:01.212212+00:00
+
+ ## Delitraiteur – Grimbergen – Boortmeerbeek – Sint-Martens-Latem
+ - [https://deli.shopping](https://deli.shopping)
+ - date_published: 2024-07-15T07:09:31.041780+00:00
+
+ ## Choose your country - Meest Shopping - Delivery of purchases from online stores
+ - [https://meest.shopping](https://meest.shopping)
+ - date_published: 2024-07-15T03:13:32.573186+00:00
+
+ ## Azure DevOps Podcast
+ - [https://azuredevops.show](https://azuredevops.show)
+ - date_published: 2024-06-14T18:59:36+00:00
+
+ ## Azure DevOps Podcast
+ - [http://feed.azuredevops.show](http://feed.azuredevops.show)
+ - date_published: 2024-07-03T15:13:07+00:00
+
+ ## banger.show - video maker app for busy musicians
+ - [https://banger.show](https://banger.show)
+ - date_published: 2023-10-25T22:39:02.762788+00:00
+
+ ## https://bearen.show
+ - [https://bearen.show](https://bearen.show)
+ - date_published: 2024-01-15T06:18:04.913904+00:00
+
+ ## Bézier • A podcast on Spotify for Podcasters
+ - [https://bezier.show](https://bezier.show)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## Big Data
+ - [http://bigdata.show](http://bigdata.show)
+ - date_published: 2017-01-27T07:52:39+00:00
+
+ ## Coder Radio
+ - [https://coder.show](https://coder.show)
+ - date_published: 2024-06-13T14:00:34+00:00
+
+ ## Coming Soon
+ - [https://meeportal.feedback.control.show](https://meeportal.feedback.control.show)
+ - date_published: 2024-01-23T09:34:12+00:00
+
+ ## Couchtuner Free TV
+ - [https://www.couchtuner.show](https://www.couchtuner.show)
+ - date_published: 2024-11-12T06:36:04+00:00
+
+ ## TechSee Application Template
+ - [https://kukaprod.desktop.show](https://kukaprod.desktop.show)
+ - date_published: 2023-06-11T07:29:12+00:00
+
+ ## TechSee Application Template
+ - [http://telus.desktop.show](http://telus.desktop.show)
+ - date_published: 2023-06-11T06:18:35+00:00
+
+ ## The Modern .NET Show
+ - [https://dotnetcore.show](https://dotnetcore.show)
+ - date_published: 2024-10-30T21:53:53.327744+00:00
+
+ ## Eggplant: The Secret Lives of Games
+ - [https://eggplant.show](https://eggplant.show)
+ - date_published: 2024-07-12T17:41:31+00:00
+
+ ## Empower Apps
+ - [https://www.empowerapps.show](https://www.empowerapps.show)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## THE SHOW ESCAPE GAME par Enigma Escape - Toulouse
+ - [https://escapegame.show](https://escapegame.show)
+ - date_published: 2024-05-31T05:39:03.792716+00:00
+
+ ## Exit Scam
+ - [https://www.exitscam.show](https://www.exitscam.show)
+ - date_published: 2024-06-23T07:43:07.026859+00:00
+
+ ## Jupiter Extras
+ - [https://extras.show](https://extras.show)
+ - date_published: 2024-04-19T02:02:35+00:00
+
+ ## FullyCharged.Show | Home Energy | Electric Vehicles
+ - [https://fullycharged.show](https://fullycharged.show)
+ - date_published: 2024-10-20T09:39:00.479137+00:00
+
+ ## Hear. Here.
+ - [https://www.hearhere.show](https://www.hearhere.show)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## corrode Rust Consulting
+ - [https://hello-rust.show](https://hello-rust.show)
+ - date_published: 2024-04-29T07:41:46.118129+00:00
+
+ ## IvyPanda Show Podcast: Your Ultimate Study Companion
+ - [https://ivypanda.show](https://ivypanda.show)
+ - date_published: 2024-10-30T11:10:32.106982+00:00
+
+ ## Lemmy for LUS - The Linux User Space Lemmy Instance
+ - [https://lemmy.linuxuserspace.show](https://lemmy.linuxuserspace.show)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Linux User Space
+ - [https://linuxuserspace.show](https://linuxuserspace.show)
+ - date_published: 2024-06-15T05:04:14+00:00
+
+ ## manu.show
+ - [https://www.manu.show](https://www.manu.show)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## MODEM Podcast
+ - [https://www.modem.show](https://www.modem.show)
+ - date_published: 2023-09-28T00:00:00+00:00
+
+ ## Partners
+ - [https://feed.partners.show](https://feed.partners.show)
+ - date_published: 2022-05-25T07:00:00+00:00
+
+ ## Partners
+ - [https://partners.show](https://partners.show)
+ - date_published: 2022-05-25T00:00:00+00:00
+
+ ## Seed VC Canada | Mistral
+ - [http://pmf.show](http://pmf.show)
+ - date_published: 2023-10-10T14:22:09+00:00
+
+ ## Positioning With April Dunford
+ - [https://www.positioning.show](https://www.positioning.show)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## Reflector, a documentary-style podcast
+ - [https://www.reflector.show](https://www.reflector.show)
+ - date_published: 2024-06-04T00:00:00+00:00
+
  ## Archives: Episode
  - [http://restorations.show](http://restorations.show)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3881,146 +4021,4 @@
  ## Košice IT Valley
  - [https://www.kosiceitvalley.sk](https://www.kosiceitvalley.sk)
  - date_published: 2024-07-02T23:43:18.754883+00:00
-
- ## Filozofická fakulta | Fakulty Katolíckej univerzity | Filozofická fakulta Katolíckej univerzity v&nbsp;Ružomberku
- - [http://ff.ku.sk](http://ff.ku.sk)
- - date_published: 2024-07-02T23:19:22+00:00
-
- ## MEDart
- - [http://medart.ku.sk](http://medart.ku.sk)
- - date_published: 2024-07-02T23:19:21.535611+00:00
-
- ## Médiá KU – Mediálny portál študentov žurnalistiky na FF KU
- - [http://media.ku.sk](http://media.ku.sk)
- - date_published: 2024-07-02T23:19:17.155103+00:00
-
- ## Rodina a médiá
- - [http://rodinaamedia.ku.sk](http://rodinaamedia.ku.sk)
- - date_published: 2024-05-07T23:43:59.630313+00:00
-
- ## TV UNICA
- - [http://unica.ku.sk](http://unica.ku.sk)
- - date_published: 2024-07-02T23:19:12.714457+00:00
-
- ## ZUMAG
- - [http://zumag.ku.sk](http://zumag.ku.sk)
- - date_published: 2024-07-02T23:19:18.406380+00:00
-
- ## Sign in - Matomo
- - [https://analytics.kulman.sk](https://analytics.kulman.sk)
- - date_published: 2024-09-04T03:36:27.573916+00:00
-
- ## Igor Kulman
- - [https://blog.kulman.sk](https://blog.kulman.sk)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Igor Kulman
- - [https://kulman.sk](https://kulman.sk)
- - date_published: 2024-06-01T04:51:26.335793+00:00
- - tags: ['personal']
-
- ## Aktuálne letáky a akcie online | Kupino.sk
- - [https://www.kupino.sk](https://www.kupino.sk)
- - date_published: 2024-09-05T17:08:32.873559+00:00
-
- ## Land Rover | Objavte luxusné SUV a vozidlá 4x4 | Land Rover Slovakia
- - [https://www.landrover.sk](https://www.landrover.sk)
- - date_published: 2024-07-09T17:15:16.017816+00:00
-
- ## Laura – Združenie mladých – Cieľom činnosti je rozvíjanie osobnosti mladých ľudí – so špeciálnou pozornosťou na dievčatá a mladé ženy – a plnohodnotné využitie voľného času.
- - [https://www.laura-mladez.sk](https://www.laura-mladez.sk)
- - date_published: 2024-07-02T22:29:54.238398+00:00
-
- ## Lidl.sk | Správna voľba
- - [https://www.lidl.sk](https://www.lidl.sk)
- - date_published: 2024-06-25T19:03:16.749644+00:00
-
- ## LiveAgent | Jednoduchý softvér zákazníckej podpory pre tímy
- - [https://www.liveagent.sk](https://www.liveagent.sk)
- - date_published: 2024-10-19T20:26:59.273532+00:00
-
- ## MALL.SK - domáce spotrebiče, elektronika, notebooky, televízory, outdoor, hobby a záhrada, hračky, chovateľské potreby
- - [https://www.mall.sk](https://www.mall.sk)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Martinus - Najväčšie internetové kníhkupectvo
- - [https://www.martinus.sk](https://www.martinus.sk)
- - date_published: 2024-07-11T10:51:11.667521+00:00
-
- ## HOME | Mediálna škola
- - [https://medialnaskola.sk](https://medialnaskola.sk)
- - date_published: 2024-05-07T23:40:07.947253+00:00
-
- ## Aktuality | Mediálna škola
- - [http://old.medialnaskola.sk](http://old.medialnaskola.sk)
- - date_published: 2024-07-02T22:29:44.997136+00:00
-
- ## Medialna Výchova - Centrum mediálnej gramotnosti
- - [https://medialnavychova.sk](https://medialnavychova.sk)
- - date_published: 2024-05-07T23:40:53.900613+00:00
-
- ## Mediatex – Všeobecné obchodné podmenky
- - [https://vop.mediatex.sk](https://vop.mediatex.sk)
- - date_published: 2024-08-08T17:08:23.265319+00:00
-
- ## Zoznamka: spoznajte ľudí, ktorí hľadajú vážny vzťah | Meetic
- - [https://www.meetic.sk](https://www.meetic.sk)
- - date_published: 2024-09-04T11:50:09.967940+00:00
-
- ## Poisťovňa MetLife | metlife.sk
- - [https://www.metlife.sk](https://www.metlife.sk)
- - date_published: 2024-07-19T16:44:48+00:00
-
- ## Microsoft – cloud, počítače, aplikácie a hry
- - [http://www.microsoft.sk](http://www.microsoft.sk)
- - date_published: 2024-07-12T14:11:11.721766+00:00
-
- ## Michal's low level corner
- - [https://migeel.sk](https://migeel.sk)
- - date_published: 2023-10-25T08:55:55.090139+00:00
- - tags: ['personal']
-
- ## Domov | Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky
- - [https://www.minedu.sk](https://www.minedu.sk)
- - date_published: 2024-07-02T22:29:51.019339+00:00
-
- ## Ministerstvo životného prostredia
- - [https://www.minzp.sk](https://www.minzp.sk)
- - date_published: 2024-08-08T17:07:30.543672+00:00
-
- ## About - Marián Mižik
- - [https://mizik.sk](https://mizik.sk)
- - date_published: 2024-01-04T00:00:00+00:00
-
- ## MLAR – Media Literacy and Academic Research
- - [http://www.mlar.sk](http://www.mlar.sk)
- - date_published: 2024-07-02T22:45:08.062087+00:00
-
- ## MMA & BJJ - Nitra
- - [https://mmanitra.sk](https://mmanitra.sk)
- - date_published: 2023-08-29T00:00:00+00:00
-
- ## Electronic Components Distributor - Mouser Electronics Slovakia
- - [https://www.mouser.sk](https://www.mouser.sk)
- - date_published: 2024-07-01T20:55:46.376170+00:00
-
- ## Bezplatný rodokmeň, genealógia, história rodiny a testovanie DNA
- - [https://www.myheritage.sk](https://www.myheritage.sk)
- - date_published: 2024-10-30T07:55:45.328603+00:00
-
- ## SUBWAY® Slovensko | Objav viac ako 29 chutí pre Tvoj obed či večeru.
- - [https://mysubway.sk](https://mysubway.sk)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Domov - MZV
- - [https://www.mzv.sk](https://www.mzv.sk)
- - date_published: 2024-10-16T10:15:24.114063+00:00
-
- ## Nadácia Pontis - Silné spojenia pre pozitívne zmeny
- - [https://www.nadaciapontis.sk](https://www.nadaciapontis.sk)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## NetSuccess - Online Marketing a webové technológie
- - [https://www.netsuccess.sk](https://www.netsuccess.sk)
- - date_published: 2023-05-16T00:00:00+00:00
 

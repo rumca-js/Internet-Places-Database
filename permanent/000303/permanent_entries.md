@@ -1,3 +1,116 @@
+ ## Pete Codes - Founder and Twitter ghost writer
+ - [https://petecodes.ghost.io](https://petecodes.ghost.io)
+ - date_published: 2024-05-06T09:09:21.178608+00:00
+ - tags: ['personal']
+
+ ## Philip Joubert
+ - [https://philip-joubert.ghost.io](https://philip-joubert.ghost.io)
+ - date_published: 2024-05-06T23:14:28.657293+00:00
+
+ ## Phil Sturgeon's Blog
+ - [https://phil-sturgeon.ghost.io](https://phil-sturgeon.ghost.io)
+ - date_published: 2024-09-09T21:05:13.797697+00:00
+
+ ## Phoenix R&D
+ - [https://phoenix-r-d.ghost.io](https://phoenix-r-d.ghost.io)
+ - date_published: 2024-04-28T00:24:27.010896+00:00
+
+ ## phospho
+ - [https://phospho.ghost.io](https://phospho.ghost.io)
+ - date_published: 2024-07-10T02:08:06.669167+00:00
+
+ ## Phylum
+ - [https://phylum.ghost.io](https://phylum.ghost.io)
+ - date_published: 2024-05-06T09:09:23.646040+00:00
+
+ ## Pickcode Blog
+ - [https://pickcode-blog.ghost.io](https://pickcode-blog.ghost.io)
+ - date_published: 2024-07-13T05:18:30.795631+00:00
+
+ ## Pixel Parmesan
+ - [https://pixelparmesan.ghost.io](https://pixelparmesan.ghost.io)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Planned Obsolescence
+ - [https://planned-obsolescence.ghost.io](https://planned-obsolescence.ghost.io)
+ - date_published: 2024-08-20T00:00:00+00:00
+
+ ## Platformer
+ - [https://platformer.ghost.io](https://platformer.ghost.io)
+ - date_published: 2024-08-18T21:31:49.107565+00:00
+
+ ## PolyInnovator LLC | Official Website for Dustin Miller
+ - [https://polyinnovator.ghost.io](https://polyinnovator.ghost.io)
+ - date_published: 2024-08-18T11:59:52.427314+00:00
+
+ ## Power Moves
+ - [https://power-moves.ghost.io](https://power-moves.ghost.io)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## The Pragmatic Engineer
+ - [https://pragmatic-engineer.ghost.io](https://pragmatic-engineer.ghost.io)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Primary Focus
+ - [https://primary-focus.ghost.io](https://primary-focus.ghost.io)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## PySaaS Blog
+ - [https://pysaas-blog.ghost.io](https://pysaas-blog.ghost.io)
+ - date_published: 2024-06-22T21:32:04.710323+00:00
+
+ ## Python for Engineers
+ - [https://python-for-engineers.ghost.io](https://python-for-engineers.ghost.io)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## Quantum Tea
+ - [https://quantum-tea.ghost.io](https://quantum-tea.ghost.io)
+ - date_published: 2024-05-07T10:01:22.342043+00:00
+
+ ## Radix
+ - [https://radix-ai.ghost.io](https://radix-ai.ghost.io)
+ - date_published: 2024-08-05T23:01:37.179874+00:00
+
+ ## Rafael Quintanilha
+ - [https://rafael-quintanilha.ghost.io](https://rafael-quintanilha.ghost.io)
+ - date_published: 2024-07-14T08:07:38.102239+00:00
+
+ ## ralphbarsi.com
+ - [https://ralphbarsi-com.ghost.io](https://ralphbarsi-com.ghost.io)
+ - date_published: 2024-05-12T06:23:33.395982+00:00
+
+ ## Raptors With Hats
+ - [https://raptors-with-hats.ghost.io](https://raptors-with-hats.ghost.io)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Rascal News
+ - [https://rascal-news.ghost.io](https://rascal-news.ghost.io)
+ - date_published: 2024-07-22T10:34:16.579880+00:00
+
+ ## The ReadMe Blog
+ - [https://readmeio.ghost.io](https://readmeio.ghost.io)
+ - date_published: 2024-06-29T10:45:51.247765+00:00
+
+ ## Read This
+ - [https://read-this.ghost.io](https://read-this.ghost.io)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## ReadySet Blog
+ - [https://readyset-blog.ghost.io](https://readyset-blog.ghost.io)
+ - date_published: 2024-05-06T09:20:06.043649+00:00
+
+ ## Reasoning Tokens
+ - [https://reasoning-tokens.ghost.io](https://reasoning-tokens.ghost.io)
+ - date_published: 2024-04-20T00:00:00+00:00
+
+ ## Renaissance Life
+ - [https://renaissancelife.ghost.io](https://renaissancelife.ghost.io)
+ - date_published: 2024-05-10T06:28:21.146377+00:00
+
+ ## Charter - Future of Work, AI, Management, Hybrid
+ - [https://resetwork.ghost.io](https://resetwork.ghost.io)
+ - date_published: 2024-06-26T08:17:31.228558+00:00
+
  ## Ringzer0
  - [https://ringzer0.ghost.io](https://ringzer0.ghost.io)
  - date_published: 2024-06-29T09:21:14.867290+00:00
@@ -3918,118 +4031,4 @@
  - [https://chaosmail.github.io](https://chaosmail.github.io)
  - date_published: 2019-06-06T10:18:05+00:00
  - tags: ['personal']
-
- ## Chao-tic
- - [https://chao-tic.github.io](https://chao-tic.github.io)
- - date_published: 2018-12-25T05:49:46+00:00
- - tags: ['personal']
-
- ## Chaoyi Zhang
- - [https://chaoyivision.github.io](https://chaoyivision.github.io)
- - date_published: 2023-09-08T00:32:54+00:00
-
- ## Cool Stuff
- - [https://charlesaverill.github.io](https://charlesaverill.github.io)
- - date_published: 2024-06-23T17:09:42+00:00
-
- ## Liqian Ma's Homepage
- - [http://charliememory.github.io](http://charliememory.github.io)
- - date_published: 2024-07-24T05:49:24.653568+00:00
-
- ## home | charlienash
- - [https://charlienash.github.io](https://charlienash.github.io)
- - date_published: 2019-01-03T16:40:38+00:00
-
- ## Homepage
- - [https://charlotteml.github.io](https://charlotteml.github.io)
- - date_published: 2024-08-16T02:08:29+00:00
-
- ## ChartAccent
- - [https://chartaccent.github.io](https://chartaccent.github.io)
- - date_published: 2017-11-23T06:58:47+00:00
-
- ## ICDAR 2023 - CHART-Infographics Competition
- - [https://chartinfo.github.io](https://chartinfo.github.io)
- - date_published: 2023-04-16T01:48:20+00:00
-
- ## Chase Roycroft
- - [https://chaseroycroft.github.io](https://chaseroycroft.github.io)
- - date_published: 2016-09-27T00:00:00+00:00
-
- ## Chase Sobey
- - [https://chasesobey.github.io](https://chasesobey.github.io)
- - date_published: 2024-04-29T07:41:02.836762+00:00
-
- ## Christian Cepe | Portfolio
- - [https://chcepe.github.io](https://chcepe.github.io)
- - date_published: 2024-03-20T10:21:23+00:00
-
- ## Redirecting to https://github.com/parasj/checkmate/
- - [https://checkmateai.github.io](https://checkmateai.github.io)
- - date_published: 2020-03-20T17:58:41+00:00
-
- ## Cheng Chi
- - [https://cheng-chi.github.io](https://cheng-chi.github.io)
- - date_published: 2024-05-09T09:15:36.189810+00:00
-
- ## Xuxin Cheng
- - [https://chengxuxin.github.io](https://chengxuxin.github.io)
- - date_published: 2024-04-28T03:45:11.205795+00:00
-
- ## Cheng-Yu Hsieh
- - [https://chengyuhsieh.github.io](https://chengyuhsieh.github.io)
- - date_published: 2024-07-01T17:59:08+00:00
-
- ## Jixuan Chen
- - [https://chenjix.github.io](https://chenjix.github.io)
- - date_published: 2024-07-17T13:43:16+00:00
-
- ## Wuyang Chen
- - [https://chenwydj.github.io](https://chenwydj.github.io)
- - date_published: 2024-04-28T21:33:17+00:00
-
- ## Chernova
- - [http://chernoooova.github.io](http://chernoooova.github.io)
- - date_published: 2022-03-17T21:21:44+00:00
-
- ## Brief Biography
- - [https://cheungdaven.github.io](https://cheungdaven.github.io)
- - date_published: 2024-06-18T21:26:38+00:00
-
- ## Chun-Han (Hank) Yao - Home
- - [https://chhankyao.github.io](https://chhankyao.github.io)
- - date_published: 2024-08-20T22:29:31+00:00
-
- ## Weirong Chen
- - [https://chiaki530.github.io](https://chiaki530.github.io)
- - date_published: 2024-06-12T16:08:46+00:00
-
- ## index
- - [https://chihyaoma.github.io](https://chihyaoma.github.io)
- - date_published: 2024-04-28T21:15:14+00:00
-
- ## ACM CHIIR 2024
- - [https://chiir2024.github.io](https://chiir2024.github.io)
- - date_published: 2024-03-25T20:52:08+00:00
-
- ## Jinge Li's Blog
- - [https://chinapandaman.github.io](https://chinapandaman.github.io)
- - date_published: 2024-01-15T15:47:00+00:00
-
- ## Qing Shuai | 帅青
- - [https://chingswy.github.io](https://chingswy.github.io)
- - date_published: 2023-08-17T08:41:37+00:00
- - tags: ['personal']
-
- ## Home
- - [https://chloamme.github.io](https://chloamme.github.io)
- - date_published: 2023-05-27T05:41:55+00:00
-
- ## About · Raymond Cheng
- - [https://chngr.github.io](https://chngr.github.io)
- - date_published: 2024-06-03T12:29:51+00:00
-
- ## Christian's Blog – Engineering | Mathematics | Algorithms | Life
- - [https://choward1491.github.io](https://choward1491.github.io)
- - date_published: 2024-08-30T03:56:59+00:00
 

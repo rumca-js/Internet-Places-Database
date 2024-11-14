@@ -1,3 +1,92 @@
+ ## The Future Of Higher Education | QS Reimagine Education Awards
+ - [https://www.reimagine-education.com](https://www.reimagine-education.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## ReImagining Liberty by Aaron Ross Powell
+ - [https://www.reimaginingliberty.com](https://www.reimaginingliberty.com)
+ - date_published: 2024-09-10T08:06:33.972999+00:00
+
+ ## Reincubate — Get more from your devices
+ - [https://reincubate.com](https://reincubate.com)
+ - date_published: 2024-05-06T13:04:23.498519+00:00
+
+ ## Reindeer Farm | Reindeer Tours & Activities in Palmer, Alaska
+ - [https://www.reindeerfarm.com](https://www.reindeerfarm.com)
+ - date_published: 2024-09-16T07:00:27.747515+00:00
+
+ ## Seven Lucky Stars - A Kidney Transplant Story
+ - [http://reindeermotel.com](http://reindeermotel.com)
+ - date_published: 2009-04-28T21:07:07+00:00
+
+ ## Obsession Du Jour 2
+ - [https://blog.reinderdijkhuis.com](https://blog.reinderdijkhuis.com)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Comics, writing and music by Reinder Dijkhuis.
+ - [https://reinderdijkhuis.com](https://reinderdijkhuis.com)
+ - date_published: 2024-04-07T14:24:50.203996+00:00
+ - tags: ['comics strips', 'cartoon', 'personal']
+
+ ## Reine Blanche
+ - [http://www.reineblanche.com](http://www.reineblanche.com)
+ - date_published: 2024-07-13T16:28:32.606693+00:00
+
+ ## Reinhard  Heckel
+ - [http://www.reinhardheckel.com](http://www.reinhardheckel.com)
+ - date_published: 2024-08-04T08:03:12+00:00
+
+ ## reinteractive - top Ruby on Rails web and mobile development
+ - [https://reinteractive.com](https://reinteractive.com)
+ - date_published: 2024-02-05T10:03:40.635857+00:00
+
+ ## Home - Reinvent Art
+ - [https://art.reinvent.com](https://art.reinvent.com)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## Reinvent
+ - [https://reinvent.com](https://reinvent.com)
+ - date_published: 2024-05-06T23:28:41.994159+00:00
+
+ ## Reinventairmobility
+ - [https://reinventairmobility.com](https://reinventairmobility.com)
+ - date_published: 2024-08-20T04:01:18.562013+00:00
+
+ ## Rei Mainnet Explorer
+ - [https://reiscan.com](https://reiscan.com)
+ - date_published: 2024-09-23T21:11:28.536374+00:00
+
+ ## Rei Testnet Explorer
+ - [https://testnet.reiscan.com](https://testnet.reiscan.com)
+ - date_published: 2024-09-24T05:15:50.160988+00:00
+
+ ## Lokales Reisebüro in Hanoi Saigon Ho Chi Minh Vietnam
+ - [https://reise-nach-vietnam.com](https://reise-nach-vietnam.com)
+ - date_published: 2024-10-22T07:35:52.825753+00:00
+
+ ## ReisenAKTUELL.COM ➡️ Günstige Angebote für Ihren Urlaub
+ - [https://www.reisenaktuell.com](https://www.reisenaktuell.com)
+ - date_published: 2024-10-19T15:08:07.846072+00:00
+
+ ## Reisenthel Online Shop
+ - [https://www.reisenthel.com](https://www.reisenthel.com)
+ - date_published: 2024-07-09T09:44:36.097546+00:00
+
+ ## REIT – Reitcircles Platform Introduction
+ - [https://reitcircles.com](https://reitcircles.com)
+ - date_published: 2024-09-25T14:55:56.344533+00:00
+
+ ## Reitstoen.com
+ - [http://www.reitstoen.com](http://www.reitstoen.com)
+ - date_published: 2024-07-02T06:10:48.744340+00:00
+
+ ## Reitzen ad absurdum
+ - [https://reitzen.com](https://reitzen.com)
+ - date_published: 2024-05-09T06:34:11.622970+00:00
+
+ ## レイワセダ株式会社 | 動画編集超効率化AIプラグイン
+ - [https://www.reiwaseda.com](https://www.reiwaseda.com)
+ - date_published: 2024-06-19T18:51:56.271817+00:00
+
  ## RejectedSoftware Forums
  - [https://forum.rejectedsoftware.com](https://forum.rejectedsoftware.com)
  - date_published: 2024-04-20T00:00:00+00:00
@@ -1751,6 +1840,11 @@
  - [https://repables.com](https://repables.com)
  - date_published: 2023-10-27T10:31:30.534866+00:00
  - tags: ['3d printing', 'model assets']
+
+ ## Download games via torrent on PC RePack from R.G. Mechanics
+ - [https://repack-mechanics.com](https://repack-mechanics.com)
+ - date_published: 2024-11-13T13:35:02+00:00
+ - tags: ['video games', 'piracy']
 
  ## Repaint
  - [https://app.repaint.com](https://app.repaint.com)
@@ -3952,98 +4046,4 @@ TechPortal Login: The Online Dashboard for Computer Repair
  ## ロイター |  経済、株価、ビジネス、国際、政治ニュース
  - [https://jp.reuters.com](https://jp.reuters.com)
  - date_published: 2024-09-18T00:00:00+00:00
-
- ## Reuters Liaison
- - [https://liaison.reuters.com](https://liaison.reuters.com)
- - date_published: 2024-04-28T04:45:58.805856+00:00
-
- ## Reuters | Breaking International News & Views
- - [http://mobile.reuters.com](http://mobile.reuters.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## reuters.com
- - [https://polling.reuters.com](https://polling.reuters.com)
- - date_published: 2024-09-09T23:49:18.750370+00:00
-
- ## Reuters | Breaking International News & Views
- - [https://reuters.com](https://reuters.com)
- - date_published: 2024-06-14T00:00:00+00:00
- - tags: ['news agency']
-
- ## Reuters | Breaking International News & Views
- - [http://uk.reuters.com](http://uk.reuters.com)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## 404 - Not found or no permission to access
- - [https://info.reutersagency.com](https://info.reutersagency.com)
- - date_published: 2024-04-28T04:45:46.772305+00:00
-
- ## International News Agency | Multimedia News Provider | Reuters
- - [https://reutersagency.com](https://reutersagency.com)
- - date_published: 2023-10-25T16:50:47.197541+00:00
-
- ## Reuters Connect
- - [https://reutersconnect.com](https://reutersconnect.com)
- - date_published: 2024-04-29T03:12:45.131408+00:00
-
- ## 404 - Not found or no permission to access
- - [https://1.reutersevents.com](https://1.reutersevents.com)
- - date_published: 2024-04-28T05:21:33.262238+00:00
-
- ## Reuters Events
- - [https://events.reutersevents.com](https://events.reutersevents.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Global News Coverage For Professionals | Reuters Professional
- - [https://www.reutersprofessional.com](https://www.reutersprofessional.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Freelancers
- - [https://freelancer.rev.com](https://freelancer.rev.com)
- - date_published: 2024-01-19T00:00:00+00:00
-
- ## Rev | AI Speech to Text Transcription Service
- - [https://rev.com](https://rev.com)
- - date_published: 2023-11-27T13:30:27+00:00
- - tags: ['transcript', 'artificial intelligence']
-
- ## Cierpliwości...
- - [https://support.rev.com](https://support.rev.com)
- - date_published: 2024-04-28T04:46:03.357313+00:00
-
- ## Home
- - [https://rev1engineering.com](https://rev1engineering.com)
- - date_published: 2024-09-05T00:00:00+00:00
-
- ## Revath S Kumar
- - [http://blog.revathskumar.com](http://blog.revathskumar.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Secure Mail
- - [https://northmemorial.revation.com](https://northmemorial.revation.com)
- - date_published: 2024-06-24T05:04:10.389045+00:00
-
- ## Index of /
- - [https://prebidads.revcatch.com](https://prebidads.revcatch.com)
- - date_published: 2021-10-13T00:00:00+00:00
-
- ## Charlie Revett (@revcd) • Software Engineer
- - [https://revcd.com](https://revcd.com)
- - date_published: 2024-01-13T18:26:52.208850+00:00
-
- ## Help Center
- - [https://help.revcontent.com](https://help.revcontent.com)
- - date_published: 2024-05-06T18:03:07.580161+00:00
-
- ## Reveal by Itty Bitty Apps
- - [https://revealapp.com](https://revealapp.com)
- - date_published: 2024-06-12T23:54:39+00:00
-
- ## Revealing Errors
- - [https://revealingerrors.com](https://revealingerrors.com)
- - date_published: 2010-09-01T00:00:00+00:00
-
- ## The HTML presentation framework | reveal.js
- - [https://revealjs.com](https://revealjs.com)
- - date_published: 2024-05-06T12:58:00.719289+00:00
 

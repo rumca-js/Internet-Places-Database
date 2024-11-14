@@ -1,3 +1,115 @@
+ ## מפעל הפיס  - וואלה פיס בתרבות
+ - [https://paisculture.walla.co.il](https://paisculture.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## שידוכים מושלמים  - וואלה יקבי בנימינה
+ - [https://perfectmatch.walla.co.il](https://perfectmatch.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## שמים אצבע על הדופק  - וואלה שמים אצבע על הדופק
+ - [https://sanofi.walla.co.il](https://sanofi.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה חיפוש
+ - [https://search.walla.co.il](https://search.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## משרות לאזרחים ותיקים - וואלה! פיס לאזרחים ותיקים  - וואלה פיס לאזרחים ותיקים
+ - [https://seniors.walla.co.il](https://seniors.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה שבע דרום: כל מה שקורה בנגב ועדכוני חדשות מהדרום  - וואלה שבע דרום
+ - [https://sheva7.walla.co.il](https://sheva7.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## לגימה של שקמה  - וואלה מתחם התוכן חדש באתר וואלה
+ - [https://shikma.walla.co.il](https://shikma.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה ספורט | חדשות ועדכוני ספורט, כדורגל ישראל ועולמי, כדורסל, NBA, תקצירים ותוצאות  - וואלה ספורט
+ - [https://sports.walla.co.il](https://sports.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## סטארקיסט  - וואלה כל מה שטוב בטונה
+ - [https://starkist.walla.co.il](https://starkist.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## השמנה בקרב בני נוער  - וואלה השמנה בקרב בני נוער
+ - [https://stayinghealthy.walla.co.il](https://stayinghealthy.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה! תגיות  - וואלה תגיות
+ - [https://tags.walla.co.il](https://tags.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה טכנולוגיה | כל הטכנולוגיה, הסייבר והסטארטאפים בערוץ אחד  - וואלה טכנולוגיה
+ - [https://tech.walla.co.il](https://tech.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה טוב לדעת  - וואלה טוב לדעת
+ - [https://tld.walla.co.il](https://tld.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## תמיר  - וואלה מחזור זה כל הקטע
+ - [https://tmirecycle.walla.co.il](https://tmirecycle.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה תיירות | כל מה שמעניין בתיירות בארץ ובחו"ל, טיסות, חופשות, אטרקציות וטיולים  - וואלה תיירות
+ - [https://travel.walla.co.il](https://travel.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה טלוויזיה  - וואלה לוח שידורים
+ - [https://tv-guide.walla.co.il](https://tv-guide.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה ויוה האתר הרשמי - סדרות, לוח שידורים, שחקנים, פורום ועוד | ויוה  - וואלה viva
+ - [https://viva.walla.co.il](https://viva.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## צפייה ישירה - וואלה VOD  - וואלה VOD
+ - [https://vod.walla.co.il](https://vod.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה מזג האוויר: תחזית מזג האוויר יומית ושבועית בישראל  - וואלה מזג אויר
+ - [https://weather.walla.co.il](https://weather.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## וואלה חדשות. ספורט. סלבס. אוכל - עדכונים ודיווחים שוטפים
+ - [https://www.walla.co.il](https://www.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## שומרים על כדור הארץ  - וואלה שומרים על כדור הארץ
+ - [https://yarokkl.walla.co.il](https://yarokkl.walla.co.il)
+ - date_published: 2024-09-12T00:00:00+00:00
+
+ ## לימודים בישראל | מרכז הלימודים של ישראל - יורם לימודים
+ - [https://yoram.walla.co.il](https://yoram.walla.co.il)
+ - date_published: 2024-09-17T17:55:16.566447+00:00
+
+ ## מגזין יין 2024  - וואלה zoom
+ - [https://zoom.walla.co.il](https://zoom.walla.co.il)
+ - date_published: 2024-09-17T17:58:36.877870+00:00
+
+ ## albume
+ - [https://www.wallaprint.co.il](https://www.wallaprint.co.il)
+ - date_published: 2024-09-17T17:55:40.627596+00:00
+
+ ## וואלה שופס
+ - [https://www.wallashops.co.il](https://www.wallashops.co.il)
+ - date_published: 2024-09-17T17:58:10.535777+00:00
+
+ ## וובסטר – הבלוג של חנן כהן
+ - [http://webster.co.il](http://webster.co.il)
+ - date_published: 2024-07-04T03:55:17+00:00
+
+ ## wpPlugins פיתוח תוספי וורדפרס
+ - [https://wpplugins.co.il](https://wpplugins.co.il)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## אתר המנויים וההטבות של ידיעות אחרונות
+ - [https://yedioth.co.il](https://yedioth.co.il)
+ - date_published: 2024-03-07T00:00:00+00:00
+
  ## פלאנט- כל הסרטים החדשים
  - [http://www.yesplanet.co.il](http://www.yesplanet.co.il)
  - date_published: 2024-07-23T00:00:00+00:00
@@ -3900,117 +4012,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Master Blackjack at Home - Learn Rules & Strategies
  - [https://blackjackrules.in](https://blackjackrules.in)
  - date_published: 2024-08-07T21:33:25.744990+00:00
-
- ## Blitzwing Main Page
- - [https://www.blitzw.in](https://www.blitzw.in)
- - date_published: 2024-08-07T19:31:48+00:00
-
- ## Blockchain For Productivity Forum
- - [https://blockchainforproductivity.in](https://blockchainforproductivity.in)
- - date_published: 2024-07-06T23:59:35.819013+00:00
-
- ## Audio Pervert
- - [http://audiopervert.blogspot.in](http://audiopervert.blogspot.in)
- - date_published: 2024-06-11T03:07:11+00:00
-
- ## Basil
- - [http://basil-soratemplates.blogspot.in](http://basil-soratemplates.blogspot.in)
- - date_published: 2019-08-21T00:00:00+00:00
-
- ## EVA
- - [http://eva-way2themes.blogspot.in](http://eva-way2themes.blogspot.in)
- - date_published: 2015-03-04T00:00:00+00:00
-
- ## EyeforTravel: Online Travel Insights
- - [https://eyefortravelblog.blogspot.in](https://eyefortravelblog.blogspot.in)
- - date_published: 2024-02-22T06:35:50+00:00
-
- ## Foothill Agrarian
- - [https://flyingmule.blogspot.in](https://flyingmule.blogspot.in)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Google Online Security Blog
- - [http://googleonlinesecurity.blogspot.in](http://googleonlinesecurity.blogspot.in)
- - date_published: 2024-10-27T17:31:16+00:00
-
- ## Ἡλληνιστεύκοντος
- - [https://hellenisteukontos.blogspot.in](https://hellenisteukontos.blogspot.in)
- - date_published: 2024-05-07T15:42:24.293166+00:00
-
- ## Not PC
- - [http://pc.blogspot.in](http://pc.blogspot.in)
- - date_published: 2024-07-13T09:16:00+00:00
-
- ## Tek Info Tree
- - [https://tekinfotree.blogspot.in](https://tekinfotree.blogspot.in)
- - date_published: 2024-05-11T16:08:00+00:00
-
- ## Blogger
- - [http://winstonsmithministryoftruth.blogspot.in](http://winstonsmithministryoftruth.blogspot.in)
- - date_published: 2024-09-16T20:19:07.802989+00:00
-
- ## Bharat Prakashan (Delhi) Limited - Bharat Prakashan (Delhi) Limited
- - [https://bpdl.in](https://bpdl.in)
- - date_published: 2024-05-08T11:20:26.270921+00:00
-
- ## Ecopy of Organiser and Panchjanya Magazines
- - [https://ecopy.bpdl.in](https://ecopy.bpdl.in)
- - date_published: 2024-01-03T00:00:00+00:00
-
- ## John Breslin, University of Galway Professor, Startup Co-Founder, Advisor, Board Member, Educator, Engineer, Entrepreneur
- - [https://bresl.in](https://bresl.in)
- - date_published: 2024-06-19T15:41:07+00:00
-
- ## Brides Today: Bridal Dresses, Bridal Wear, Grooming Dresses News and Stories
- - [https://bridestoday.in](https://bridestoday.in)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## British Council | India
- - [https://www.britishcouncil.in](https://www.britishcouncil.in)
- - date_published: 2024-09-17T15:38:24+00:00
-
- ## BroSisCo
- - [https://brosisco.in](https://brosisco.in)
- - date_published: 2023-11-29T17:12:31.729602+00:00
- - tags: ['personal']
-
- ## Best Printer, Sewing Machine, Label Printer | Brother India
- - [https://www.brother.in](https://www.brother.in)
- - date_published: 2024-05-02T11:35:48.841211+00:00
-
- ## bruise
- - [https://bruise.in](https://bruise.in)
- - date_published: 2024-03-11T10:27:57+00:00
-
- ## Bhushan Shah
- - [https://blog.bshah.in](https://blog.bshah.in)
- - date_published: 2024-08-04T09:17:20+00:00
-
- ## BSides Odisha 2023
- - [https://bsidesodisha.in](https://bsidesodisha.in)
- - date_published: 2024-06-14T07:48:20+00:00
-
- ## Mostbet India Official Online Website — Mostbet Login and Register
- - [https://bslimited.in](https://bslimited.in)
- - date_published: 2024-09-04T15:30:30.035974+00:00
-
- ## SQL-Ease
- - [https://sqlease.buildnship.in](https://sqlease.buildnship.in)
- - date_published: 2023-04-14T03:43:26+00:00
-
- ## Business News - Read Latest Startup, Tech, Markets, Finance, Science News - Business Insider India
- - [https://businessinsider.in](https://businessinsider.in)
- - date_published: 2023-10-25T10:58:21.187120+00:00
-
- ## Business News in Hindi: बिजनेस न्यूज, बिजनेस समाचार, शेयर मार्केट की ताज़ा खबरें, व्यापार समाचार - BT Bazaar
- - [https://bazaar.businesstoday.in](https://bazaar.businesstoday.in)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Business News India: Latest Business News Today, Share Market, Economy
- - [https://businesstoday.in](https://businesstoday.in)
- - date_published: 2023-10-25T19:30:33.199366+00:00
-
- ## Latest Business Economy Breaking News Updates Today in India
- - [https://businessworld.in](https://businessworld.in)
- - date_published: 2024-09-19T00:00:00+00:00
 

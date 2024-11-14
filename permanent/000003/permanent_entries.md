@@ -1,3 +1,7 @@
+ ## Quickchat AI | Customised AI Assistant for your Business
+ - [https://app.quickchat.ai](https://app.quickchat.ai)
+ - date_published: 2024-10-30T22:44:21.546579+00:00
+
  ## Introduction | Quickchat AI Documentation
  - [https://docs.quickchat.ai](https://docs.quickchat.ai)
  - date_published: 2024-10-30T22:44:20.754867+00:00
@@ -4014,8 +4018,4 @@ Creative Solutions
  ## Wanda Design System
  - [https://design.wonderflow.ai](https://design.wonderflow.ai)
  - date_published: 2024-06-23T07:33:45.563110+00:00
-
- ## Wonderin AI - AI Resume Builder
- - [https://wonderin.ai](https://wonderin.ai)
- - date_published: 2024-10-30T16:00:22.795829+00:00
 

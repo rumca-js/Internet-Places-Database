@@ -1,3 +1,115 @@
+ ## Home
+ - [https://energy.appstate.edu](https://energy.appstate.edu)
+ - date_published: 2024-06-20T16:23:13+00:00
+
+ ## Appalachian State University
+ - [https://mediaspace.appstate.edu](https://mediaspace.appstate.edu)
+ - date_published: 2021-01-01T00:00:00+00:00
+
+ ## Appalachian State University Policy Manual
+ - [https://policy.appstate.edu](https://policy.appstate.edu)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Disco Student Learning Center
+ - [https://studentlearningcenter.appstate.edu](https://studentlearningcenter.appstate.edu)
+ - date_published: 2024-08-07T16:52:31+00:00
+
+ ## A Search fro Trojan Planets
+ - [http://www.trojanplanets.appstate.edu](http://www.trojanplanets.appstate.edu)
+ - date_published: 2001-08-29T16:05:37+00:00
+
+ ## Austin Peay State University
+ - [https://www.apsu.edu](https://www.apsu.edu)
+ - date_published: 2024-07-01T15:47:22.983582+00:00
+
+ ## Welcome to Azusa Pacific University
+ - [http://www.apu.edu](http://www.apu.edu)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Home
+ - [http://www.arbor.edu](http://www.arbor.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## ScholarWorks@Arcadia -- The open access, institutional repository of Arcadia University
+ - [https://scholarworks.arcadia.edu](https://scholarworks.arcadia.edu)
+ - date_published: 2024-07-02T10:47:58.877391+00:00
+
+ ## Home | Arizona Center for Accelerated Biomedical Innovation (ACABI)
+ - [https://acabi.uahs.arizona.edu](https://acabi.uahs.arizona.edu)
+ - date_published: 2024-04-30T03:04:49.821843+00:00
+
+ ## ACMS:HOME
+ - [http://acms.math.arizona.edu](http://acms.math.arizona.edu)
+ - date_published: 2023-08-01T20:31:29+00:00
+
+ ## University of Arizona Libraries |
+ - [https://admin-mn-d7.lib.arizona.edu](https://admin-mn-d7.lib.arizona.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Aegis home
+ - [https://aegis.uahs.arizona.edu](https://aegis.uahs.arizona.edu)
+ - date_published: 2021-10-07T21:56:19+00:00
+
+ ## Home
+ - [https://aging.arizona.edu](https://aging.arizona.edu)
+ - date_published: 2024-08-19T11:53:36+00:00
+
+ ## Health Sciences Library
+ - [https://ahsl.arizona.edu](https://ahsl.arizona.edu)
+ - date_published: 2024-07-22T08:49:23.026464+00:00
+
+ ## Advancing the UAHS Pillars of Excellence | Asthma and Airway Disease Research Center
+ - [https://airways.uahs.arizona.edu](https://airways.uahs.arizona.edu)
+ - date_published: 2024-04-30T03:04:37.783045+00:00
+
+ ## Home
+ - [https://alumni.arizona.edu](https://alumni.arizona.edu)
+ - date_published: 2024-07-09T17:11:18+00:00
+
+ ## Home | the Department of Anesthesiology
+ - [https://anesth.medicine.arizona.edu](https://anesth.medicine.arizona.edu)
+ - date_published: 2024-09-15T15:02:26+00:00
+
+ ## 2023 Annual Report
+ - [https://annualreport.it.arizona.edu](https://annualreport.it.arizona.edu)
+ - date_published: 2024-07-06T12:04:27+00:00
+
+ ## Home - UAHS Annual Report
+ - [https://annualreports.healthsciences.arizona.edu](https://annualreports.healthsciences.arizona.edu)
+ - date_published: 2023-12-18T00:00:00+00:00
+
+ ## University of Arizona
+ - [https://arizona.edu](https://arizona.edu)
+ - date_published: 2024-07-06T11:43:11+00:00
+
+ ## Welcome to the University of Arizona Arthritis Center | Arizona Arthritis Center
+ - [https://arthritis.arizona.edu](https://arthritis.arizona.edu)
+ - date_published: 2024-08-19T18:53:23+00:00
+
+ ## Home - University of Arizona Libraries
+ - [https://ask.library.arizona.edu](https://ask.library.arizona.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Home | ASTEC - Arizona Simulation Technology and Education Center
+ - [https://astec.arizona.edu](https://astec.arizona.edu)
+ - date_published: 2024-01-21T00:00:00+00:00
+
+ ## Home | The Arizona Astrobiology Center
+ - [https://astrobiology.arizona.edu](https://astrobiology.arizona.edu)
+ - date_published: 2024-05-09T05:50:28.173927+00:00
+
+ ## UA Hydrology and Atmospheric Sciences
+ - [http://atmo.arizona.edu](http://atmo.arizona.edu)
+ - date_published: 2024-05-08T10:20:54.054572+00:00
+
+ ## Home Page: Andrew Weil Center for Integrative Medicine
+ - [https://awcim.arizona.edu](https://awcim.arizona.edu)
+ - date_published: 2021-06-14T21:55:21+00:00
+
+ ## Home | Arizona Area Health Education Centers
+ - [https://azahec.arizona.edu](https://azahec.arizona.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
  ## AZGS
  - [https://azgs.arizona.edu](https://azgs.arizona.edu)
  - date_published: 2024-06-29T12:13:26+00:00
@@ -3891,116 +4003,4 @@
  ## Welcome - The Institute of Counseling and Psychoanalytic Studies
  - [https://nj.bgsp.edu](https://nj.bgsp.edu)
  - date_published: 2024-02-05T00:00:00+00:00
-
- ## Home - New York Graduate School of Psychoanalysis
- - [https://nygsp.bgsp.edu](https://nygsp.bgsp.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## The Office of Admissions
- - [https://admissions.bgsu.edu](https://admissions.bgsu.edu)
- - date_published: 2024-09-18T22:48:16+00:00
-
- ## Bowling Green State University: #1 Student Experience in Ohio
- - [https://bgsu.edu](https://bgsu.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Bowling Green State University - Modern Campus Catalog™
- - [https://catalog.bgsu.edu](https://catalog.bgsu.edu)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Make A Gift: Fund Search - Bowling Green State University
- - [https://connect.bgsu.edu](https://connect.bgsu.edu)
- - date_published: 2024-09-18T23:34:58.105982+00:00
-
- ## Digital Gallery - BGSU University Libraries
- - [http://digitalgallery.bgsu.edu](http://digitalgallery.bgsu.edu)
- - date_published: 1919-04-15T00:00:00+00:00
-
- ## Events Calendar
- - [https://events.bgsu.edu](https://events.bgsu.edu)
- - date_published: 2024-09-18T00:00:00+00:00
-
- ## Shibboleth Authentication Request
- - [https://ezproxy.bgsu.edu](https://ezproxy.bgsu.edu)
- - date_published: 2024-09-18T23:34:54.821882+00:00
-
- ## University Libraries
- - [https://lib.bgsu.edu](https://lib.bgsu.edu)
- - date_published: 2024-09-18T22:47:03+00:00
-
- ## Bowling Green State University
- - [http://map.bgsu.edu](http://map.bgsu.edu)
- - date_published: 2024-09-18T23:35:23.383622+00:00
-
- ## Catalog - BGSU University Libraries
- - [https://maurice.bgsu.edu](https://maurice.bgsu.edu)
- - date_published: 2024-09-18T23:34:56.065215+00:00
-
- ## Welcome - MyBGSU
- - [https://my.bgsu.edu](https://my.bgsu.edu)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## The Henry A. Wallace Police Crime Database
- - [https://policecrime.bgsu.edu](https://policecrime.bgsu.edu)
- - date_published: 2024-06-20T02:38:20.283087+00:00
-
- ## ScholarWorks@BGSU
- - [http://scholarworks.bgsu.edu](http://scholarworks.bgsu.edu)
- - date_published: 2024-09-18T23:35:25.515005+00:00
-
- ## U.S. Department of the Interior | Bureau of Indian Education
- - [https://bie.edu](https://bie.edu)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Oracle Linux 7 Web Server
- - [http://bingweb.binghamton.edu](http://bingweb.binghamton.edu)
- - date_published: 2022-04-06T12:30:40+00:00
-
- ## PUBLIC COMPUTING LABS | Information Technology Services | Binghamton University
- - [http://pods.binghamton.edu](http://pods.binghamton.edu)
- - date_published: 2024-07-09T09:25:52.494786+00:00
-
- ## Binghamton University
- - [https://www.binghamton.edu](https://www.binghamton.edu)
- - date_published: 2024-08-10T22:17:38.714326+00:00
-
- ## Computer Science | Binghamton University
- - [https://www.cs.binghamton.edu](https://www.cs.binghamton.edu)
- - date_published: 2024-07-19T19:33:41.892729+00:00
-
- ## Unbound Bible Project - Biola University
- - [http://unbound.biola.edu](http://unbound.biola.edu)
- - date_published: 2024-07-02T09:49:41.517042+00:00
-
- ## Bloomsburg Foundation | Bloomsburg University Foundation
- - [https://giving.bloomu.edu](https://giving.bloomu.edu)
- - date_published: 2024-06-04T13:03:01+00:00
-
- ## Boise State University
- - [https://www.boisestate.edu](https://www.boisestate.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Bowdoin Library
- - [http://library.bowdoin.edu](http://library.bowdoin.edu)
- - date_published: 2023-10-27T00:00:00+00:00
-
- ## Home | Bowie State
- - [https://www.bowiestate.edu](https://www.bowiestate.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Index
- - [https://www.bpcc.edu](https://www.bpcc.edu)
- - date_published: 2024-10-28T05:05:15.133649+00:00
-
- ## Brandeis Users' Home Pages
- - [http://people.brandeis.edu](http://people.brandeis.edu)
- - date_published: 2021-06-01T15:28:23+00:00
-
- ## Brandeis University
- - [https://www.brandeis.edu](https://www.brandeis.edu)
- - date_published: 2024-06-22T06:18:32.633489+00:00
-
- ## Staying Ahead in an Ever-Evolving Field
- - [http://www.cs.brandeis.edu](http://www.cs.brandeis.edu)
- - date_published: 2024-08-19T20:54:56.593181+00:00
 

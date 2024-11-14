@@ -1,3 +1,103 @@
+ ## Prat Vemana's Blog
+ - [https://pratvemana.wordpress.com](https://pratvemana.wordpress.com)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Praxis
+ - [http://praxisblog.wordpress.com](http://praxisblog.wordpress.com)
+ - date_published: 2024-06-30T04:27:06.466596+00:00
+
+ ## PrayogShala
+ - [https://prayogshala.wordpress.com](https://prayogshala.wordpress.com)
+ - date_published: 2024-06-28T20:06:03.388382+00:00
+
+ ## PRDeving – typeof  FUN
+ - [https://prdeving.wordpress.com](https://prdeving.wordpress.com)
+ - date_published: 2023-10-25T18:14:52.804446+00:00
+
+ ## Fred Klonsky
+ - [http://preaprez.wordpress.com](http://preaprez.wordpress.com)
+ - date_published: 2024-06-25T00:11:49+00:00
+
+ ## Predesign for Safe Driving App
+ - [https://predesign.wordpress.com](https://predesign.wordpress.com)
+ - date_published: 2024-06-20T04:05:40.032826+00:00
+
+ ## predictablyunconventional
+ - [https://predictablyunconventional.wordpress.com](https://predictablyunconventional.wordpress.com)
+ - date_published: 2024-10-26T16:18:43.173723+00:00
+
+ ## Writing To Be Read
+ - [https://premkumarrao.wordpress.com](https://premkumarrao.wordpress.com)
+ - date_published: 2024-10-17T23:10:45.122382+00:00
+
+ ## Present Discontent
+ - [http://presentdiscontent.wordpress.com](http://presentdiscontent.wordpress.com)
+ - date_published: 2024-06-27T10:25:29.214481+00:00
+
+ ## Pressed Leaf Reader
+ - [https://pressedleafreader.wordpress.com](https://pressedleafreader.wordpress.com)
+ - date_published: 2024-10-22T18:49:43.356896+00:00
+
+ ## preston history
+ - [https://prestonhistory.wordpress.com](https://prestonhistory.wordpress.com)
+ - date_published: 2024-07-17T05:27:22.505943+00:00
+
+ ## Nic Prigg's Blog
+ - [https://priggy.wordpress.com](https://priggy.wordpress.com)
+ - date_published: 2024-10-21T15:41:11.633527+00:00
+
+ ## Pythia Guide and PrimaSounds
+ - [https://primasounds.wordpress.com](https://primasounds.wordpress.com)
+ - date_published: 2024-06-16T21:49:32+00:00
+
+ ## Primes2h's Weblog
+ - [https://primes2h.wordpress.com](https://primes2h.wordpress.com)
+ - date_published: 2024-09-21T22:51:08+00:00
+
+ ## Age of Dusk
+ - [https://princeofnothingblogs.wordpress.com](https://princeofnothingblogs.wordpress.com)
+ - date_published: 2024-08-18T09:24:09.383432+00:00
+
+ ## Prinny's Taylor - Louis Bazalgette (1750-1830)
+ - [http://prinnystaylor.wordpress.com](http://prinnystaylor.wordpress.com)
+ - date_published: 2024-09-09T00:00:00+00:00
+
+ ## prior probability
+ - [https://priorprobability.wordpress.com](https://priorprobability.wordpress.com)
+ - date_published: 2024-06-30T11:04:53.146113+00:00
+
+ ## Prisoners of Faith
+ - [http://prisonersoffaith.wordpress.com](http://prisonersoffaith.wordpress.com)
+ - date_published: 2024-06-28T21:19:57.809889+00:00
+
+ ## Priya's Learning Centre
+ - [http://priyaslearningcentre.wordpress.com](http://priyaslearningcentre.wordpress.com)
+ - date_published: 2024-07-12T22:36:24.116263+00:00
+
+ ## The Proactionary Transhumanist
+ - [https://proactiontranshuman.wordpress.com](https://proactiontranshuman.wordpress.com)
+ - date_published: 2024-06-16T00:00:00+00:00
+
+ ## Probably Dance
+ - [https://probablydance.wordpress.com](https://probablydance.wordpress.com)
+ - date_published: 2024-05-07T09:29:15.413480+00:00
+
+ ## Problemas e Teoremas
+ - [http://problemasteoremas.wordpress.com](http://problemasteoremas.wordpress.com)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Probus Global
+ - [https://probusglobal.wordpress.com](https://probusglobal.wordpress.com)
+ - date_published: 2024-07-15T03:51:48.311235+00:00
+
+ ## PRODUCTIVITY REPORT
+ - [https://productivityreportorg.wordpress.com](https://productivityreportorg.wordpress.com)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## profkeithdevlin.org
+ - [http://profkeithdevlin.wordpress.com](http://profkeithdevlin.wordpress.com)
+ - date_published: 2024-07-04T00:00:00+00:00
+
  ## Global Warming: Man or Myth?
  - [https://profmandia.wordpress.com](https://profmandia.wordpress.com)
  - date_published: 2024-06-30T02:49:08.847306+00:00
@@ -3912,104 +4012,4 @@
  ## Helpless Dancer
  - [http://thehelplessdancer.wordpress.com](http://thehelplessdancer.wordpress.com)
  - date_published: 2024-06-27T06:45:10.085662+00:00
-
- ## The HFT Guy
- - [https://thehftguy.wordpress.com](https://thehftguy.wordpress.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## theHigherGeometer
- - [https://thehighergeometer.wordpress.com](https://thehighergeometer.wordpress.com)
- - date_published: 2024-05-07T16:15:52.320063+00:00
-
- ## The History of How We Play – Video game history, pontifications, and other ludic touches.
- - [https://thehistoryofhowweplay.wordpress.com](https://thehistoryofhowweplay.wordpress.com)
- - date_published: 2023-10-25T18:17:25.574500+00:00
-
- ## Private Site
- - [https://thehurstreview.wordpress.com](https://thehurstreview.wordpress.com)
- - date_published: 2024-05-07T14:44:52.981568+00:00
-
- ## The Identity Function
- - [https://theidentityfunction.wordpress.com](https://theidentityfunction.wordpress.com)
- - date_published: 2024-06-30T09:25:34.613235+00:00
-
- ## The Imperfect Modeller
- - [https://theimperfectmodeller.wordpress.com](https://theimperfectmodeller.wordpress.com)
- - date_published: 2024-10-31T17:26:27.757768+00:00
-
- ## Private Site
- - [http://theinkedautist20.wordpress.com](http://theinkedautist20.wordpress.com)
- - date_published: 2024-09-03T23:02:25.241857+00:00
-
- ## The Inquisitive Anystid
- - [https://theinquisitiveanystid.wordpress.com](https://theinquisitiveanystid.wordpress.com)
- - date_published: 2024-10-19T05:15:13.549649+00:00
-
- ## The Invasion Network
- - [https://theinvasionnetwork.wordpress.com](https://theinvasionnetwork.wordpress.com)
- - date_published: 2024-08-05T00:00:00+00:00
-
- ## Paul Isaacs' Blog
- - [http://theisaacs22.wordpress.com](http://theisaacs22.wordpress.com)
- - date_published: 2024-09-03T23:09:28.290338+00:00
-
- ## the jeanSpace
- - [http://thejeanspace.wordpress.com](http://thejeanspace.wordpress.com)
- - date_published: 2024-09-03T23:00:56.457343+00:00
-
- ## The Jenkins
- - [https://thejenkinscomic.wordpress.com](https://thejenkinscomic.wordpress.com)
- - date_published: 2024-05-22T13:50:02.426443+00:00
-
- ## The joy in small things
- - [https://thejoyinsmallthings.wordpress.com](https://thejoyinsmallthings.wordpress.com)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## thekiltedgerman
- - [https://thekiltedgerman.wordpress.com](https://thekiltedgerman.wordpress.com)
- - date_published: 2024-10-26T16:37:55.462299+00:00
-
- ## Left Luggage
- - [http://theleftluggage.wordpress.com](http://theleftluggage.wordpress.com)
- - date_published: 2024-10-21T13:47:38.342239+00:00
-
- ## The Lexicans
- - [https://thelexicans.wordpress.com](https://thelexicans.wordpress.com)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## The Linguist Blogger
- - [http://thelinguistblogger.wordpress.com](http://thelinguistblogger.wordpress.com)
- - date_published: 2024-07-01T14:46:43.159653+00:00
-
- ## The Lintas
- - [https://thelintas.wordpress.com](https://thelintas.wordpress.com)
- - date_published: 2024-06-30T04:32:47.898882+00:00
-
- ## LinuxJedi's /dev/null
- - [https://thelinuxjedi.files.wordpress.com](https://thelinuxjedi.files.wordpress.com)
- - date_published: 2024-05-02T12:07:39.564180+00:00
-
- ## LinuxJedi's /dev/null
- - [https://thelinuxjedi.wordpress.com](https://thelinuxjedi.wordpress.com)
- - date_published: 2024-05-02T12:07:40.764309+00:00
-
- ## Lion & Unicorn
- - [https://thelionandunicorn.wordpress.com](https://thelionandunicorn.wordpress.com)
- - date_published: 2024-10-02T07:48:55.802309+00:00
-
- ## The Literary Omnivore
- - [http://theliteraryomnivore.wordpress.com](http://theliteraryomnivore.wordpress.com)
- - date_published: 2024-07-20T09:23:58+00:00
-
- ## theliterarysisters
- - [https://theliterarysisters.wordpress.com](https://theliterarysisters.wordpress.com)
- - date_published: 2024-09-11T05:18:44+00:00
-
- ## The Lore of Yss
- - [https://theloreofyss.wordpress.com](https://theloreofyss.wordpress.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## The Lost and the Damned
- - [http://thelostandthedamned.wordpress.com](http://thelostandthedamned.wordpress.com)
- - date_published: 2024-07-08T16:16:18+00:00
 

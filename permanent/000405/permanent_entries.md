@@ -1,3 +1,139 @@
+ ## Sony România | Ultimele știri despre tehnologii | Electronice | Divertisment
+ - [http://www.sony.ro](http://www.sony.ro)
+ - date_published: 2024-10-21T07:39:06.886792+00:00
+
+ ## Încălțăminte, genți și îmbrăcăminte | Livrare Gratuită | SPARTOO
+ - [https://spartoo.ro](https://spartoo.ro)
+ - date_published: 2024-09-11T18:38:24.627283+00:00
+
+ ## ACASA - Spitalul Municipal Caritas
+ - [https://www.spitalulcaritasrosiori.ro](https://www.spitalulcaritasrosiori.ro)
+ - date_published: 2024-09-10T00:00:00+00:00
+
+ ## Societatea Română de Reumatologie
+ - [https://srreumatologie.ro](https://srreumatologie.ro)
+ - date_published: 2024-06-28T11:55:18.726527+00:00
+
+ ## StareaDemocratiei.ro – Starea Democratiei
+ - [https://www.stareademocratiei.ro](https://www.stareademocratiei.ro)
+ - date_published: 2024-06-28T21:51:23.389876+00:00
+
+ ## StartupCafe.ro - Site-ul antreprenorilor bine informați
+ - [https://www.startupcafe.ro](https://www.startupcafe.ro)
+ - date_published: 2024-10-18T23:54:22.135380+00:00
+
+ ## Főoldal | StartUp HUB
+ - [https://startup-hub.ro](https://startup-hub.ro)
+ - date_published: 2023-04-21T12:48:06+00:00
+
+ ## Știri de Ultima Oră - Știrile zilei online, reportaje și exclusivități din țară și din străinătate - Știrile ProTV
+ - [https://stirileprotv.ro](https://stirileprotv.ro)
+ - date_published: 2024-10-18T23:54:24.015276+00:00
+
+ ## Stiri pe surse - Cele mai noi stiri
+ - [https://www.stiripesurse.ro](https://www.stiripesurse.ro)
+ - date_published: 2024-07-11T21:51:52.520315+00:00
+
+ ## Home
+ - [https://www.supercazino.ro](https://www.supercazino.ro)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Hire Dedicated Developers in Eastern Europe
+ - [https://teamextension.ro](https://teamextension.ro)
+ - date_published: 2024-07-12T08:39:59.893484+00:00
+
+ ## TechTalent - Dedicated Software Development Teams - powered by Arnia Software
+ - [https://www.techtalent.ro](https://www.techtalent.ro)
+ - date_published: 2024-07-14T14:48:06.522133+00:00
+
+ ## TEHNE Romania - Education, Innovation, Development
+ - [https://tehne.ro](https://tehne.ro)
+ - date_published: 2024-01-12T09:06:29+00:00
+
+ ## O singură platformă. Toate datele!
+ - [http://www.termene.ro](http://www.termene.ro)
+ - date_published: 2024-07-13T17:19:55.839058+00:00
+
+ ## Times New Roman - Cotidian independent de umor voluntar
+ - [https://timesnewroman.ro](https://timesnewroman.ro)
+ - date_published: 2024-03-26T20:40:51.272736+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://tokero.ro](https://tokero.ro)
+ - date_published: 2024-09-24T20:52:56.840259+00:00
+
+ ## Totul despre mame - Sarcina, Bebelusi, Copii, Parenting
+ - [https://totuldespremame.ro](https://totuldespremame.ro)
+ - date_published: 2024-10-18T23:54:19.618077+00:00
+
+ ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
+ - [https://my.toyota.ro](https://my.toyota.ro)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
+ - [https://www.toyota.ro](https://www.toyota.ro)
+ - date_published: 2024-02-28T00:00:00+00:00
+
+ ## Toyota Romania - Modele noi, hibride, 4x4, utilitare
+ - [https://toyotamea.ro](https://toyotamea.ro)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## TrackGPS – Soluția completă de management al flotei auto
+ - [https://trackgps.ro](https://trackgps.ro)
+ - date_published: 2024-10-04T00:00:00+00:00
+
+ ## Traduceri legalizate
+ - [http://traduceri--legalizate.ro](http://traduceri--legalizate.ro)
+ - date_published: 2016-01-17T08:50:01+00:00
+
+ ## Traian Brumă
+ - [https://traianbruma.ro](https://traianbruma.ro)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## Transferuri de fotbal, zvonuri, valori de piață și știri
+ - [https://www.transfermarkt.ro](https://www.transfermarkt.ro)
+ - date_published: 2024-07-24T06:29:42.326506+00:00
+
+ ## Driving agility into highly complex software engineering projects - Tremend
+ - [https://www.tremend.ro](https://www.tremend.ro)
+ - date_published: 2024-10-18T23:54:44.114511+00:00
+
+ ## Tribuna.ro
+ - [https://www.tribuna.ro](https://www.tribuna.ro)
+ - date_published: 2024-10-29T09:08:25.604444+00:00
+
+ ## trivago.ro - Compare hotel prices worldwide
+ - [https://www.trivago.ro](https://www.trivago.ro)
+ - date_published: 2024-09-04T11:20:18.550251+00:00
+
+ ## True HR și dp-Payroll - soluții software de HR și payroll - UCMS by AROBS
+ - [https://truehr.ro](https://truehr.ro)
+ - date_published: 2024-10-14T21:08:20.303489+00:00
+
+ ## Păreri de încredere de la clienții magazinelor online din România
+ - [https://feedback.trusted.ro](https://feedback.trusted.ro)
+ - date_published: 2024-09-19T15:00:37.332453+00:00
+
+ ## Magazine online și site-uri profesionale de încredere, consumatori avizați
+ - [https://nl.trusted.ro](https://nl.trusted.ro)
+ - date_published: 2017-05-23T00:00:00+00:00
+
+ ## Magazine online și site-uri profesionale de încredere, consumatori avizați
+ - [https://trusted.ro](https://trusted.ro)
+ - date_published: 2017-05-23T00:00:00+00:00
+
+ ## Annals of the Tiberiu Popoviciu Seminar of Functional Equations, Approximation and Convexity Home Page
+ - [http://atps.tucn.ro](http://atps.tucn.ro)
+ - date_published: 2020-01-14T16:56:49+00:00
+
+ ## https://profs.info.uaic.ro
+ - [https://profs.info.uaic.ro](https://profs.info.uaic.ro)
+ - date_published: 2024-01-11T21:02:01.927273+00:00
+
+ ## Universitatea Alexandru Ioan Cuza din Iași
+ - [https://uaic.ro](https://uaic.ro)
+ - date_published: 2024-07-25T00:00:00+00:00
+
  ## Facultatea de Informatică – University Alexandru Ioan Cuza, România
  - [https://www.info.uaic.ro](https://www.info.uaic.ro)
  - date_published: 2024-08-18T03:24:50.205939+00:00
@@ -3886,140 +4022,4 @@ A slim and mobile-friendly IIIF document viewer
  ## ИТМО/Онлайн
  - [https://online.itmo.ru](https://online.itmo.ru)
  - date_published: 2024-06-18T10:13:01+00:00
-
- ## Open Education
- - [https://openeducation.itmo.ru](https://openeducation.itmo.ru)
- - date_published: 2024-07-04T09:20:11.136487+00:00
-
- ## PI + team
- - [https://pi.itmo.ru](https://pi.itmo.ru)
- - date_published: 2024-06-04T06:48:11+00:00
-
- ## ПИШ ИТМО
- - [https://pish.itmo.ru](https://pish.itmo.ru)
- - date_published: 2024-06-03T08:01:54+00:00
-
- ## Квантовый потанцевал. Первый научный стендап клуб
- - [https://smeshno.itmo.ru](https://smeshno.itmo.ru)
- - date_published: 2024-07-04T09:18:58.550596+00:00
-
- ## ITMO.STARS
- - [https://stars.itmo.ru](https://stars.itmo.ru)
- - date_published: 2024-06-04T06:55:34+00:00
-
- ## ИТМО.СТАРТ
- - [https://start.itmo.ru](https://start.itmo.ru)
- - date_published: 2024-07-02T10:09:47+00:00
-
- ## ITMO.STUDENTS
- - [https://student.itmo.ru](https://student.itmo.ru)
- - date_published: 2024-07-04T09:20:18.625175+00:00
-
- ## ITSOFT: веб-студия и дата-центр
- - [https://itsoft.ru](https://itsoft.ru)
- - date_published: 2024-07-24T14:06:07+00:00
-
- ## itWeek
- - [https://www.itweek.ru](https://www.itweek.ru)
- - date_published: 2024-07-14T19:49:17.462648+00:00
-
- ## IT-World: Мир информационных технологий
- - [http://it-world.ru](http://it-world.ru)
- - date_published: 2024-10-17T14:44:11.076508+00:00
-
- ## Attention Required! | Cloudflare
- - [https://iuorao.ru](https://iuorao.ru)
- - date_published: 2024-09-10T13:35:24.633200+00:00
-
- ## ИВА НОВА
- - [http://www.iva-nova.ru](http://www.iva-nova.ru)
- - date_published: 2024-07-19T20:26:23.150153+00:00
-
- ## Website iwcreplica.ru is ready. The content is to be added
- - [https://www.iwcreplica.ru](https://www.iwcreplica.ru)
- - date_published: 2024-06-27T06:36:24.165037+00:00
-
- ## DDoS-Guard
- - [https://iz.ru](https://iz.ru)
- - date_published: 2024-06-21T14:37:24.484350+00:00
-
- ## Центральный Javascript-ресурс. Учебник с примерами скриптов. Форум. Книги и многое другое.
- - [https://javascript.ru](https://javascript.ru)
- - date_published: 2024-08-08T04:09:58+00:00
-
- ## Современный учебник JavaScript
- - [https://learn.javascript.ru](https://learn.javascript.ru)
- - date_published: 2024-04-28T01:55:34.766663+00:00
-
- ## Конструктор контента JBZoo для создания интернет-магазина, каталога товаров, различных сайтов - Каталоги и магазин для Joomla
- - [http://jbzoo.ru](http://jbzoo.ru)
- - date_published: 2024-09-09T20:23:44+00:00
-
- ## Общество Иисуса - иезуиты в России, Беларуси, Киргизии
- - [https://jesuit.ru](https://jesuit.ru)
- - date_published: 2024-09-03T20:24:49.014488+00:00
-
- ## Главная - jf17.ru
- - [https://jf17.ru](https://jf17.ru)
- - date_published: 2024-08-08T15:19:14.378785+00:00
-
- ## ЦЕС ОИЯИ
- - [https://digital.jinr.ru](https://digital.jinr.ru)
- - date_published: 2024-07-06T23:44:21.874770+00:00
-
- ## Лаборатория Нейтронной Физики им. И.М. Франка, ОИЯИ, Дубна, Россия
- - [https://flnph.jinr.ru](https://flnph.jinr.ru)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Home · JINR (Indico)
- - [http://indico.jinr.ru](http://indico.jinr.ru)
- - date_published: 2024-07-06T23:44:35.233984+00:00
-
- ## Joint Institute for Nuclear Research
- - [https://jinr.ru](https://jinr.ru)
- - date_published: 2024-05-08T08:47:52.839615+00:00
-
- ## МИВК - ИНФРАСТРУКТУРА
- - [https://micc.jinr.ru](https://micc.jinr.ru)
- - date_published: 2024-07-06T23:44:33.210438+00:00
-
- ## Документация от Joomla-book.ru
- - [https://joomla-book.ru](https://joomla-book.ru)
- - date_published: 2024-09-09T20:23:38+00:00
-
- ## О Банке | CB J.P. Morgan Bank International (LLC)
- - [https://www.jpmorgan.ru](https://www.jpmorgan.ru)
- - date_published: 2024-06-14T19:27:55+00:00
-
- ## JPoint 2025 | Конференция по разработке на Java. Крупнейшая в России
- - [https://jpoint.ru](https://jpoint.ru)
- - date_published: 2024-09-14T00:00:00+00:00
-
- ## JUG.EKB
- - [https://jugekb.ru](https://jugekb.ru)
- - date_published: 2024-07-02T11:11:49+00:00
-
- ## Комиксы и Манга Онлайн на русском языке / Comics and Manga Online in Russian
- - [http://www.jurnalu.ru](http://www.jurnalu.ru)
- - date_published: 2024-10-25T02:58:12.897091+00:00
-
- ## Карьера в ЛК
- - [https://careers.kaspersky.ru](https://careers.kaspersky.ru)
- - date_published: 2024-06-18T08:21:06.471297+00:00
-
- ## Kaspersky Digital Footprint Intelligence
- - [https://dfi.kaspersky.ru](https://dfi.kaspersky.ru)
- - date_published: 2024-10-17T10:18:22.346636+00:00
-
- ## Энциклопедия «Касперского»
- - [https://encyclopedia.kaspersky.ru](https://encyclopedia.kaspersky.ru)
- - date_published: 2024-07-20T20:44:01.530368+00:00
-
- ## Nota Bene: официальный блог Евгения Касперского
- - [https://eugene.kaspersky.ru](https://eugene.kaspersky.ru)
- - date_published: 2024-06-18T08:21:05.638505+00:00
-
- ## Главная
- - [https://migration.kaspersky.ru](https://migration.kaspersky.ru)
- - date_published: 2024-04-16T20:50:52+00:00
 

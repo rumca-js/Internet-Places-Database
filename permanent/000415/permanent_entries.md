@@ -1,3 +1,153 @@
+ ## Chief Tools docs
+ - [https://docs.chief.tools](https://docs.chief.tools)
+ - date_published: 2024-09-15T15:04:35+00:00
+
+ ## Chief Tools status
+ - [https://status.chief.tools](https://status.chief.tools)
+ - date_published: 2024-10-28T23:31:46.596275+00:00
+
+ ## cobalt
+ - [https://cobalt.tools](https://cobalt.tools)
+ - date_published: 2024-05-17T00:00:00+00:00
+ - tags: ['online tool', 'download manager']
+
+ ## cove.tool | Expert, Sustainable Building Design Consulting
+ - [https://cove.tools](https://cove.tools)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Enchanted Tools / Changing the face of robotics
+ - [https://enchanted.tools](https://enchanted.tools)
+ - date_published: 2024-08-18T14:10:58.709883+00:00
+
+ ## fastlane docs
+ - [https://docs.fastlane.tools](https://docs.fastlane.tools)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## fastlane - App automation done right
+ - [https://fastlane.tools](https://fastlane.tools)
+ - date_published: 2017-06-21T00:00:00+00:00
+
+ ## FOE Tools
+ - [https://foe.tools](https://foe.tools)
+ - date_published: 2024-10-24T08:11:21.499635+00:00
+
+ ## fragment
+ - [https://fragment.tools](https://fragment.tools)
+ - date_published: 2024-09-06T21:42:35.082481+00:00
+
+ ## Free AI Tools | Unlock the Power of AI.
+ - [https://www.free-ai.tools](https://www.free-ai.tools)
+ - date_published: 2024-10-03T13:41:36+00:00
+
+ ## Fantom RPC Endpoint: Fastest, free-est, and most reliable RPC endpoint
+ - [https://rpc.ftm.tools](https://rpc.ftm.tools)
+ - date_published: 2024-07-23T22:29:06.918708+00:00
+
+ ## The Best AI Tools Directory | 🥳 funfun.tools
+ - [https://www.funfun.tools](https://www.funfun.tools)
+ - date_published: 2024-10-30T17:52:01.416825+00:00
+
+ ## Game Making Tools.
+ - [https://www.gamemaking.tools](https://www.gamemaking.tools)
+ - date_published: 2024-08-16T06:22:08+00:00
+
+ ## Free Uptime Monitor & Blacklist Monitor- HetrixTools
+ - [https://hetrix.tools](https://hetrix.tools)
+ - date_published: 2024-09-30T12:06:36.670574+00:00
+
+ ## IDG.tools - Inner Development Toolkit - Change starts within
+ - [https://idg.tools](https://idg.tools)
+ - date_published: 2024-07-10T10:08:37.317520+00:00
+
+ ## iglidur® Bearing Designer
+ - [https://iglidur-bearing-designer.igus.tools](https://iglidur-bearing-designer.igus.tools)
+ - date_published: 2024-08-01T14:18:37+00:00
+
+ ## Instagram Video, Photos, IGTV & Reels, Stories Downloader | Instore
+ - [https://instore.tools](https://instore.tools)
+ - date_published: 2024-10-30T18:34:08.650682+00:00
+
+ ## ITSM Tools Reviews and ITSM Best Practice
+ - [https://itsm.tools](https://itsm.tools)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## https://joel.tools
+ - [https://joel.tools](https://joel.tools)
+ - date_published: 2024-01-09T03:48:09.171953+00:00
+
+ ## candle's website
+ - [http://kool.tools](http://kool.tools)
+ - date_published: 2022-12-30T16:25:41+00:00
+
+ ## Streamlit
+ - [https://letterboxd.tools](https://letterboxd.tools)
+ - date_published: 2023-11-14T18:53:27+00:00
+ - tags: ['personal', 'movies', 'hobby']
+
+ ## Rackspace Careers
+ - [https://rackspace.professional-services.dev.lever.tools](https://rackspace.professional-services.dev.lever.tools)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Sign in - Matomo
+ - [https://analytics.lil.tools](https://analytics.lil.tools)
+ - date_published: 2024-07-17T14:07:06.067620+00:00
+
+ ## Lookup Tools
+ - [https://lookup.tools](https://lookup.tools)
+ - date_published: 2024-05-07T13:47:23.780708+00:00
+
+ ## Lumina - The modern CMS. API driven. Built-in AI agent.
+ - [https://lumina.tools](https://lumina.tools)
+ - date_published: 2024-06-19T19:12:29.785526+00:00
+
+ ## Find the right business test
+ - [https://lyrn.tools](https://lyrn.tools)
+ - date_published: 2024-05-12T05:29:44.306392+00:00
+
+ ## Minecraft Tools: Tools for Minecraft
+ - [https://minecraft.tools](https://minecraft.tools)
+ - date_published: 2024-07-10T02:50:21.421956+00:00
+
+ ## Monorepo Explained
+ - [https://monorepo.tools](https://monorepo.tools)
+ - date_published: 2024-09-04T14:30:22.509687+00:00
+
+ ## Mothership Site Tools
+ - [https://sitetools.mothership.tools](https://sitetools.mothership.tools)
+ - date_published: 2024-04-02T11:12:02+00:00
+
+ ## Antragsgrün - Motion.Tools - Managing resolutions, motions and amendments online
+ - [https://motion.tools](https://motion.tools)
+ - date_published: 2024-06-19T22:24:22.526365+00:00
+
+ ## Antragsgrün - Motion.Tools - Managing resolutions, motions and amendments online
+ - [https://sandbox.motion.tools](https://sandbox.motion.tools)
+ - date_published: 2024-06-19T22:14:05.254615+00:00
+
+ ## MYmovies - Il cinema dalla parte del pubblico
+ - [https://analytics.mymovies.tools](https://analytics.mymovies.tools)
+ - date_published: 2024-07-16T19:13:03.090172+00:00
+
+ ## Name.com Blog
+ - [https://blog.name.tools](https://blog.name.tools)
+ - date_published: 2024-06-16T05:24:18+00:00
+
+ ## NaNAI || The Coolest AI Tools Database + Directory
+ - [https://nanai.tools](https://nanai.tools)
+ - date_published: 2024-10-30T19:02:01.116273+00:00
+
+ ## Plausible · Web analytics
+ - [https://data.ndc.tools](https://data.ndc.tools)
+ - date_published: 2024-05-08T10:48:40.511054+00:00
+
+ ## Castle Builder
+ - [https://castle.needle.tools](https://castle.needle.tools)
+ - date_published: 2024-04-29T07:47:51.085993+00:00
+
+ ## Join the needle — tools for creators Discord Server!
+ - [https://discord.needle.tools](https://discord.needle.tools)
+ - date_published: 2024-07-23T21:44:49.542857+00:00
+
  ## Needle Engine Documentation
  - [https://docs.needle.tools](https://docs.needle.tools)
  - date_published: 2024-04-29T07:48:19.787105+00:00
@@ -3861,152 +4011,4 @@
  ## Döner Sermaye İşletme Müdürlüğü  - Anasayfa
  - [http://dsim.sivas.edu.tr](http://dsim.sivas.edu.tr)
  - date_published: 2024-06-17T16:05:42.340757+00:00
-
- ## DIŞ KAYNAKLI PROJE TAKİP SİSTEMİ
- - [https://form.sivas.edu.tr](https://form.sivas.edu.tr)
- - date_published: 2024-06-17T16:08:48.198500+00:00
-
- ## Genel Sekreterlik - Anasayfa
- - [https://genelsekreterlik.sivas.edu.tr](https://genelsekreterlik.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:05.906720+00:00
-
- ## Havacılık ve Uzay Bilimleri Fakültesi
- - [https://havacilik.sivas.edu.tr](https://havacilik.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:26.025272+00:00
-
- ## AMASMA - Anasayfa
- - [http://hukukm.sivas.edu.tr](http://hukukm.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:28.785509+00:00
-
- ## İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI - Anasayfa
- - [http://imid.sivas.edu.tr](http://imid.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:18.150062+00:00
-
- ## Kalite Koordinatörlüğü - Anasayfa
- - [https://kalite.sivas.edu.tr](https://kalite.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:01.531008+00:00
-
- ## Kampüs Kart
- - [https://kampuskart.sivas.edu.tr](https://kampuskart.sivas.edu.tr)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## Kariyer Merkezi - Anasayfa
- - [https://kariyer.sivas.edu.tr](https://kariyer.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:14.392298+00:00
-
- ## Kütüphane ve Dokümantasyon Daire Başkanlığı - Anasayfa
- - [http://kutuphane.sivas.edu.tr](http://kutuphane.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:41.146967+00:00
-
- ## LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ - Anasayfa
- - [http://lee.sivas.edu.tr](http://lee.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:16.445597+00:00
-
- ## SBTÜ LMS
- - [https://lms.sivas.edu.tr](https://lms.sivas.edu.tr)
- - date_published: 2024-10-19T16:59:15.525770+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.sivas.edu.tr](https://mail.sivas.edu.tr)
- - date_published: 2024-05-02T10:29:11.347839+00:00
-
- ## Mühendislik ve Doğa Bilimleri Fakültesi
- - [https://muhendislik.sivas.edu.tr](https://muhendislik.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:09.437419+00:00
-
- ## ORTAK DERSLER BÖLÜM BAŞKANLIĞI - Anasayfa
- - [https://odb.sivas.edu.tr](https://odb.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:44.823060+00:00
-
- ## Öğrenci İşleri Daire Başkanlığı - Anasayfa
- - [http://oidb.sivas.edu.tr](http://oidb.sivas.edu.tr)
- - date_published: 2024-06-17T16:06:02.941754+00:00
-
- ## PERSONEL DAİRE BAŞKANLIĞI - Anasayfa
- - [https://personel.sivas.edu.tr](https://personel.sivas.edu.tr)
- - date_published: 2024-05-02T10:29:03.007416+00:00
-
- ## Anasayfa
- - [https://sem.sivas.edu.tr](https://sem.sivas.edu.tr)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Anasayfa
- - [https://sivas.edu.tr](https://sivas.edu.tr)
- - date_published: 2024-05-02T10:28:58.209897+00:00
-
- ## SBTU | Sivas TTO
- - [https://sivastto.sivas.edu.tr](https://sivastto.sivas.edu.tr)
- - date_published: 2024-10-19T16:12:28.104521+00:00
-
- ## SAĞLIK, KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI - Anasayfa
- - [http://sks.sivas.edu.tr](http://sks.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:27.844943+00:00
-
- ## SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ - Sivas Bim ve Teknoloji Üniversitesi Aktif Cihaz ve Hat Kullanım İstati
- - [http://stat.sivas.edu.tr](http://stat.sivas.edu.tr)
- - date_published: 2024-10-19T17:07:48.190501+00:00
-
- ## Strateji Geliştirme Daire Başkanlığı - Anasayfa
- - [http://strateji.sivas.edu.tr](http://strateji.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:43.819168+00:00
-
- ## Prospective Student - SBTÜ
- - [https://student.sivas.edu.tr](https://student.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:11.241635+00:00
-
- ## Sivas Bilim ve Teknoloji Üniversitesi
- - [https://ubys.sivas.edu.tr](https://ubys.sivas.edu.tr)
- - date_published: 2024-05-02T10:29:15.433716+00:00
-
- ## Uzaktan Eğitim Uygulama ve Araştırma Merkezi - Anasayfa
- - [https://uzem.sivas.edu.tr](https://uzem.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:22.690726+00:00
-
- ## YAPI İŞLERİ TEKNİK DAİRE BAŞKANLIĞI - Anasayfa
- - [http://yapi.sivas.edu.tr](http://yapi.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:24.545872+00:00
-
- ## YABANCI DÄ°LLER YĂśKSEKOKULU - Anasayfa
- - [https://ydyo.sivas.edu.tr](https://ydyo.sivas.edu.tr)
- - date_published: 2022-01-01T00:00:00+00:00
-
- ## SBTU | Yeşil Kampüs
- - [https://yesilkampus.sivas.edu.tr](https://yesilkampus.sivas.edu.tr)
- - date_published: 2024-10-19T16:12:11.599914+00:00
-
- ## Tarım Bilimleri ve Teknolojileri Fakültesi
- - [http://ziraat.sivas.edu.tr](http://ziraat.sivas.edu.tr)
- - date_published: 2024-06-17T16:05:47.673988+00:00
-
- ## Trakya Üniversitesi Merkez Kütüphanesi
- - [https://katalog.trakya.edu.tr](https://katalog.trakya.edu.tr)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Trakya Üniversitesi Rektörlüğü
- - [http://www.trakya.edu.tr](http://www.trakya.edu.tr)
- - date_published: 2024-06-24T09:53:38.555820+00:00
-
- ## nobel.gen.tr
- - [http://www.nobel.gen.tr](http://www.nobel.gen.tr)
- - date_published: 2024-10-29T17:19:18.766038+00:00
-
- ## Türkiye Cumhuriyeti Adalet Bakanlığı
- - [http://www.adalet.gov.tr](http://www.adalet.gov.tr)
- - date_published: 2024-10-19T14:58:52.490226+00:00
-
- ## Adapazarı Kaymakamlığı
- - [http://www.adapazari.gov.tr](http://www.adapazari.gov.tr)
- - date_published: 2024-10-19T14:52:23.796115+00:00
-
- ## T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı
- - [https://www.afad.gov.tr](https://www.afad.gov.tr)
- - date_published: 2024-09-19T19:52:11+00:00
-
- ## T.C. Aile ve Sosyal Hizmetler Bakanlığı
- - [https://aile.gov.tr](https://aile.gov.tr)
- - date_published: 2024-10-19T12:38:37.118517+00:00
-
- ## AİLEM Engelsiz İletişim Merkezi
- - [https://ailemtid.aile.gov.tr](https://ailemtid.aile.gov.tr)
- - date_published: 2024-10-19T12:37:57.267571+00:00
 

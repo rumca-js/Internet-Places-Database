@@ -1,3 +1,115 @@
+ ## OEIP | University of Delaware
+ - [http://www.oeip.udel.edu](http://www.oeip.udel.edu)
+ - date_published: 2024-07-01T23:40:16+00:00
+
+ ## Join us at OLLI! - Osher Lifelong Learning Institute %
+ - [https://www.olli.udel.edu](https://www.olli.udel.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## Home - Undergraduate Research Program
+ - [https://www.urp.udel.edu](https://www.urp.udel.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Universitat de Girona > UdG
+ - [http://www.udg.edu](http://www.udg.edu)
+ - date_published: 2024-07-02T10:36:06.638771+00:00
+
+ ## ONE.UF
+ - [https://one.uf.edu](https://one.uf.edu)
+ - date_published: 2024-06-13T11:20:58+00:00
+
+ ## Accessibility at UF
+ - [https://accessibility.ufl.edu](https://accessibility.ufl.edu)
+ - date_published: 2024-05-07T21:11:08.489230+00:00
+
+ ## UF ADA Compliance
+ - [https://ada.ufl.edu](https://ada.ufl.edu)
+ - date_published: 2024-07-02T02:17:54.009807+00:00
+
+ ## University of Florida Office of Admissions
+ - [https://admissions.ufl.edu](https://admissions.ufl.edu)
+ - date_published: 2024-07-02T02:06:22.599170+00:00
+
+ ## Welcome
+ - [https://advancement.clas.ufl.edu](https://advancement.clas.ufl.edu)
+ - date_published: 2024-07-07T08:12:01.425998+00:00
+
+ ## Agricultural Education and Communication - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://aec.ifas.ufl.edu](https://aec.ifas.ufl.edu)
+ - date_published: 2024-06-16T22:50:21.398370+00:00
+
+ ## Welcome to the Center for African Studies
+ - [http://africa.ufl.edu](http://africa.ufl.edu)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## Web Services » UF Health » University of Florida
+ - [https://ahc-webservices-a2.sites.medinfo.ufl.edu](https://ahc-webservices-a2.sites.medinfo.ufl.edu)
+ - date_published: 2024-07-01T20:14:03+00:00
+
+ ## AI - University of Florida
+ - [https://ai.ufl.edu](https://ai.ufl.edu)
+ - date_published: 2024-07-02T02:11:02.126501+00:00
+
+ ## UF IT Alerts Dashboard
+ - [https://alerts.it.ufl.edu](https://alerts.it.ufl.edu)
+ - date_published: 2024-07-02T02:07:54.283886+00:00
+
+ ## Alumni & Giving » College of Public Health and Health Professions » University of Florida
+ - [https://alumni-giving.phhp.ufl.edu](https://alumni-giving.phhp.ufl.edu)
+ - date_published: 2024-07-01T21:22:22+00:00
+
+ ## Home
+ - [https://antiracism.ufl.edu](https://antiracism.ufl.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Welcome
+ - [https://asq.africa.ufl.edu](https://asq.africa.ufl.edu)
+ - date_published: 2024-05-08T10:03:56.364600+00:00
+
+ ## Biotility - Biotech Professional Development & Credentialing
+ - [https://biotility.research.ufl.edu](https://biotility.research.ufl.edu)
+ - date_published: 2024-10-22T03:51:42.004239+00:00
+
+ ## UF/IFAS Blogs Homepage - What's Happening Around Florida
+ - [https://blogs.ifas.ufl.edu](https://blogs.ifas.ufl.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## J. Crayton Pruitt Family Department of Biomedical Engineering – University of Florida
+ - [https://bme.ufl.edu](https://bme.ufl.edu)
+ - date_published: 2024-05-07T21:11:14.981767+00:00
+
+ ## Branding Portal - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [https://branding.ifas.ufl.edu](https://branding.ifas.ufl.edu)
+ - date_published: 2024-10-15T06:39:06.440779+00:00
+
+ ## Calendar - University of Florida
+ - [https://calendar.ufl.edu](https://calendar.ufl.edu)
+ - date_published: 2024-07-02T00:06:16+00:00
+
+ ## College of Agricultural and Life Sciences - University of Florida, Institute of Food and Agricultural Sciences - UF/IFAS
+ - [http://cals.ufl.edu](http://cals.ufl.edu)
+ - date_published: 2024-06-16T22:50:43.417250+00:00
+
+ ## Center for Cognitive Aging and Memory Clinical Translational Research »  » University of Florida
+ - [https://cam.mbi.ufl.edu](https://cam.mbi.ufl.edu)
+ - date_published: 2023-10-25T19:01:26.632166+00:00
+
+ ## Campus Closures
+ - [https://campusclosures.ufl.edu](https://campusclosures.ufl.edu)
+ - date_published: 2024-07-02T02:11:26.723216+00:00
+
+ ## UF Campus Map
+ - [https://campusmap.ufl.edu](https://campusmap.ufl.edu)
+ - date_published: 2024-03-27T14:23:43+00:00
+
+ ## University of Florida Catalog < University of Florida
+ - [https://catalog.ufl.edu](https://catalog.ufl.edu)
+ - date_published: 2024-06-28T21:03:19+00:00
+
+ ## Home - Computer & Information Science & Engineering
+ - [https://cise.ufl.edu](https://cise.ufl.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
  ## College of Liberal Arts & Sciences
  - [http://clas.ufl.edu](http://clas.ufl.edu)
  - date_published: 2024-07-07T08:11:50.445375+00:00
@@ -3892,116 +4004,4 @@
  ## University of Maryland
  - [https://umd-header.umd.edu](https://umd-header.umd.edu)
  - date_published: 2020-04-17T11:16:51+00:00
-
- ## UMD Right Now | UMD | UMD Right Now
- - [https://umdrightnow.umd.edu](https://umdrightnow.umd.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## University of Maryland Institute for Advanced Computer Studies | UMIACS
- - [https://umiacs.umd.edu](https://umiacs.umd.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Home | UMPD News
- - [https://umpdnews.umd.edu](https://umpdnews.umd.edu)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Undergraduate Studies In Computer Science At The University Of Maryland | Undergraduate Computer Science at UMD
- - [https://undergrad.cs.umd.edu](https://undergrad.cs.umd.edu)
- - date_published: 2024-05-07T21:26:45.393345+00:00
-
- ## Home | School of Architecture, Planning & Preservation
- - [http://www.arch.umd.edu](http://www.arch.umd.edu)
- - date_published: 2024-07-01T17:56:30+00:00
-
- ## BSOS
- - [http://www.bsos.umd.edu](http://www.bsos.umd.edu)
- - date_published: 2024-07-01T19:52:46+00:00
-
- ## University Career Center & The President's Promise
- - [http://www.careercenter.umd.edu](http://www.careercenter.umd.edu)
- - date_published: 2024-06-28T20:00:33+00:00
-
- ## Center for Bioinformatics and Computational Biology | CBCB
- - [https://www.cbcb.umd.edu](https://www.cbcb.umd.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Center for East Asian Studies | School of Languages, Literatures, and Cultures
- - [http://www.ceas.umd.edu](http://www.ceas.umd.edu)
- - date_published: 2024-09-17T20:44:34+00:00
-
- ## Home | Center for International and Security Studies at Maryland
- - [http://www.cissm.umd.edu](http://www.cissm.umd.edu)
- - date_published: 2024-10-21T18:26:43.423388+00:00
-
- ## Home | Counseling Center
- - [http://www.counseling.umd.edu](http://www.counseling.umd.edu)
- - date_published: 2024-06-11T14:27:08+00:00
-
- ## Maryland Cybersecurity Center
- - [http://www.cyber.umd.edu](http://www.cyber.umd.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Our Community | Office of Diversity and Inclusion
- - [https://www.diversity.umd.edu](https://www.diversity.umd.edu)
- - date_published: 2024-04-02T00:00:00+00:00
-
- ## Home | UMD College of Education
- - [http://www.education.umd.edu](http://www.education.umd.edu)
- - date_published: 2024-07-01T22:11:19+00:00
-
- ## Home - University Of Maryland Golf Course
- - [https://www.golf.umd.edu](https://www.golf.umd.edu)
- - date_published: 2024-05-11T00:00:00+00:00
-
- ## Center for Health and Risk Communication | University of Maryland
- - [http://www.healthriskcenter.umd.edu](http://www.healthriskcenter.umd.edu)
- - date_published: 2024-05-26T00:00:00+00:00
-
- ## Home - University of Maryland Honors College
- - [http://www.honors.umd.edu](http://www.honors.umd.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Home
- - [http://www.ipst.umd.edu](http://www.ipst.umd.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Joseph and Alma Gildenhorn Institute for Israel Studies | Joseph and Rebecca Meyerhoff Center for Jewish Studies
- - [http://www.israelstudies.umd.edu](http://www.israelstudies.umd.edu)
- - date_published: 2024-09-17T20:44:34+00:00
-
- ## Philip Merrill College of Journalism | University of Maryland | Philip Merrill College of Journalism
- - [http://www.journalism.umd.edu](http://www.journalism.umd.edu)
- - date_published: 2024-07-01T19:13:39+00:00
-
- ## University Libraries
- - [http://www.lib.umd.edu](http://www.lib.umd.edu)
- - date_published: 2024-07-02T03:37:15.112086+00:00
-
- ## Department of Mathematics - Home
- - [https://www-math.umd.edu](https://www-math.umd.edu)
- - date_published: 2024-06-30T02:49:38+00:00
-
- ## The Norbert Wiener Center for Harmonic Analysis and Applications
- - [https://www.norbertwiener.umd.edu](https://www.norbertwiener.umd.edu)
- - date_published: 2024-06-30T03:00:21.912855+00:00
-
- ## Quantum Technology Center
- - [https://www.qtc.umd.edu](https://www.qtc.umd.edu)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home | Maryland Smith
- - [http://www.rhsmith.umd.edu](http://www.rhsmith.umd.edu)
- - date_published: 2024-07-12T20:27:29+00:00
-
- ## College Park Scholars | University of Maryland
- - [http://www.scholars.umd.edu](http://www.scholars.umd.edu)
- - date_published: 2024-07-02T03:37:55.462499+00:00
-
- ## The Universities at Shady Grove |
- - [https://www.shadygrove.umd.edu](https://www.shadygrove.umd.edu)
- - date_published: 2024-07-02T02:42:05+00:00
-
- ## Home | Maryland Smith
- - [http://www.smith.umd.edu](http://www.smith.umd.edu)
- - date_published: 2024-07-01T20:04:20+00:00
 

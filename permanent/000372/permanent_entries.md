@@ -1,3 +1,135 @@
+ ## Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen
+ - [https://nl.khanacademy.org](https://nl.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ଖାନ୍ ଏକାଡେମୀ | ମାଗଣା ଅନଲାଇନ୍ କୋର୍ସ, ପାଠ ଓ ଅଭ୍ୟାସ
+ - [https://or.khanacademy.org](https://or.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## ਖਾਨ ਅਕੈਡਮੀ | ਮੁਫ਼ਤ ਆਨਲਾਈਨ ਕੋਰਸ, ਪਾਠ ਅਤੇ ਅਭਿਆਸ
+ - [https://pa.khanacademy.org](https://pa.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Darmowe kursy, lekcje i ćwiczenia online
+ - [https://pl.khanacademy.org](https://pl.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Cursos, aulas e prática on-line gratuitos
+ - [https://pt.khanacademy.org](https://pt.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Gratuit cursuri online, lecții și aplicații
+ - [https://ro.khanacademy.org](https://ro.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Академия Хана | Бесплатные курсы, уроки и практика онлайн
+ - [https://ru.khanacademy.org](https://ru.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Free Online Courses, Lessons & Practice
+ - [https://sgn-us.khanacademy.org](https://sgn-us.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Кхан Академија | Бесплатни онлајн курсеви, лекције и вежбе
+ - [https://sr.khanacademy.org](https://sr.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## கான் அகாடமி | இலவச இணையதள படிப்புகள், பாடங்கள் & பயிற்சி
+ - [https://ta.khanacademy.org](https://ta.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Ücretsiz Online Dersler, Videolar ve Alıştırmalar
+ - [https://tr.khanacademy.org](https://tr.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Академія Хана | Безкоштовні онлайн-курси, уроки та практика
+ - [https://uk.khanacademy.org](https://uk.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## خان اکیڈیمی | Free Online Courses, Lessons & Practice
+ - [https://ur.khanacademy.org](https://ur.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Bepul onlayn kurslar, darslar va amaliy mashgʻulotlar
+ - [https://uz.khanacademy.org](https://uz.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Khan Academy | Các khóa học, bài học và bài tập thực hành trực tuyến, miễn phí
+ - [https://vi.khanacademy.org](https://vi.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## 可汗学院 | 免费在线课程, 讲解以及练习
+ - [https://zh.khanacademy.org](https://zh.khanacademy.org)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Kharkiv.js | Javascript conference | Ukrainian Javascript Community
+ - [http://kharkivjs.org](http://kharkivjs.org)
+ - date_published: 2022-03-12T11:28:51+00:00
+
+ ## 13 БРИГАДА НГУ "ХАРТІЯ"
+ - [https://khartiia.org](https://khartiia.org)
+ - date_published: 2024-10-19T22:48:10.848994+00:00
+
+ ## KHEN LP 106.9
+ - [http://khen.org](http://khen.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## KHJK
+ - [https://www.khjk.org](https://www.khjk.org)
+ - date_published: 2020-06-10T19:47:29+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://khmerstudies.org](http://khmerstudies.org)
+ - date_published: 2024-06-24T10:33:27.619023+00:00
+
+ ## KFF Health News
+ - [https://khn.org](https://khn.org)
+ - date_published: 2024-05-08T09:17:47.682811+00:00
+
+ ## Документування воєнних злочинів
+ - [https://callback.khpg.org](https://callback.khpg.org)
+ - date_published: 2024-05-08T09:17:59.154268+00:00
+
+ ## Підтримати діяльність Харківської правозахисної групи
+ - [https://donate.khpg.org](https://donate.khpg.org)
+ - date_published: 2024-05-08T09:17:55.514067+00:00
+
+ ## Правова Допомога
+ - [https://help.khpg.org](https://help.khpg.org)
+ - date_published: 2024-05-08T09:17:57.370672+00:00
+
+ ## Права людини в Україні — сайт Харківської правозахисної групи
+ - [https://khpg.org](https://khpg.org)
+ - date_published: 2023-12-19T08:14:20.221086+00:00
+
+ ## Довідник юриста
+ - [https://lawyer.khpg.org](https://lawyer.khpg.org)
+ - date_published: 2024-05-08T09:18:03.588344+00:00
+
+ ## Бібліотека - Права Людини - онлайн-бібліотека
+ - [http://library.khpg.org](http://library.khpg.org)
+ - date_published: 2024-07-07T04:27:13.837169+00:00
+
+ ## Гаряча лінія з пошуку зниклих безвісти.  Харківськоа правозахисна група
+ - [https://missing.khpg.org](https://missing.khpg.org)
+ - date_published: 2024-05-08T09:18:04.994943+00:00
+
+ ## Дисидентський рух в Україні
+ - [https://museum.khpg.org](https://museum.khpg.org)
+ - date_published: 2024-05-08T09:17:53.966293+00:00
+
+ ## ПРОТИ КАТУВАНЬ
+ - [http://pk.khpg.org](http://pk.khpg.org)
+ - date_published: 2024-07-07T04:27:11.901284+00:00
+
+ ## Право на приватність
+ - [https://privacy.khpg.org](https://privacy.khpg.org)
+ - date_published: 2024-05-08T09:17:58.371280+00:00
+
+ ## Історії свавільно засуджених
+ - [https://stories.khpg.org](https://stories.khpg.org)
+ - date_published: 2021-07-04T10:22:53+00:00
+
  ## Khronos Group 中国 - 开源多媒体创作API
  - [https://cn.khronos.org](https://cn.khronos.org)
  - date_published: 2024-04-15T00:00:00+00:00
@@ -3905,138 +4037,4 @@
  ## Home
  - [https://lgbtqbar.org](https://lgbtqbar.org)
  - date_published: 2024-09-16T00:39:15+00:00
-
- ## Loan Application
- - [https://apply.lgeccu.org](https://apply.lgeccu.org)
- - date_published: 2024-04-29T20:16:42+00:00
-
- ## LGE Community Credit Union
- - [https://consumeronlineportal.lgeccu.org](https://consumeronlineportal.lgeccu.org)
- - date_published: 2023-06-08T05:07:07+00:00
-
- ## Home Page - LGE Community Credit Union
- - [https://lgeccu.org](https://lgeccu.org)
- - date_published: 2024-10-12T13:48:10.693810+00:00
-
- ## LGE Community Credit Union: Home
- - [https://mortgageapp-pa.lgeccu.org](https://mortgageapp-pa.lgeccu.org)
- - date_published: 2024-06-16T17:22:06.839290+00:00
-
- ## LGE Medicare Team
- - [https://www.lgemedicare.org](https://www.lgemedicare.org)
- - date_published: 2024-06-16T17:21:56.306037+00:00
-
- ## LGiU
- - [https://lgiu.org](https://lgiu.org)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## 林海草原 – 愿我经历的苦难你不要经历，愿我已有的幸福你触手可及
- - [https://lhcy.org](https://lhcy.org)
- - date_published: 2024-08-18T07:01:06.773450+00:00
-
- ## LHC Lighthouse Club – Famous Replica lighthouses
- - [http://www.lh-lighthouseclub.org](http://www.lh-lighthouseclub.org)
- - date_published: 2024-07-14T23:50:49.167216+00:00
-
- ## John C. Wyatt Lexington Herald-Leader photographs
- - [https://lhlphotoarchive.org](https://lhlphotoarchive.org)
- - date_published: 2024-10-14T23:38:12.476368+00:00
-
- ## Aleph One - Marathon Open Source
- - [https://alephone.lhowon.org](https://alephone.lhowon.org)
- - date_published: 2024-01-19T00:00:00+00:00
- - tags: ['video game port', 'marathon', 'open source']
-
- ## Welcome - lhowon.org
- - [https://www.lhowon.org](https://www.lhowon.org)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## LHRO | Home
- - [http://lhro.org](http://lhro.org)
- - date_published: 2024-07-14T23:50:24.913383+00:00
-
- ## Home - Lawrence Hopewell Trail
- - [https://lhtrail.org](https://lhtrail.org)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Lock Haven University Foundation
- - [https://lhufoundation.org](https://lhufoundation.org)
- - date_published: 2024-06-30T07:06:51.828086+00:00
-
- ## Linux International
- - [https://li.org](https://li.org)
- - date_published: 2024-05-08T11:03:10.678567+00:00
-
- ## Apply |  Nursing CAS
- - [https://nursingcas.liaisoncas.org](https://nursingcas.liaisoncas.org)
- - date_published: 2024-08-19T18:28:02.419559+00:00
-
- ## Allegro - A game programming library
- - [https://liballeg.org](https://liballeg.org)
- - date_published: 2024-01-19T00:00:00+00:00
- - tags: ['allegro', 'programming library', 'game development']
-
- ## libarchive - C library and command-line tools for reading and writing tar, cpio, zip, ISO, and other archive formats @ GitHub
- - [https://libarchive.org](https://libarchive.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## musl libc
- - [https://musl.libc.org](https://musl.libc.org)
- - date_published: 2024-02-29T22:52:20+00:00
-
- ## libcamera.org git repository browser
- - [https://git.libcamera.org](https://git.libcamera.org)
- - date_published: 2023-10-25T21:38:32.187144+00:00
-
- ## Cello • High Level C
- - [https://libcello.org](https://libcello.org)
- - date_published: 2024-06-17T03:16:55.512135+00:00
-
- ## Home page | libcom.org
- - [https://libcom.org](https://libcom.org)
- - date_published: 2024-01-22T10:58:52.901144+00:00
-
- ## libdatachannel | libdatachannel
- - [https://libdatachannel.org](https://libdatachannel.org)
- - date_published: 2024-02-09T00:14:55+00:00
-
- ## libde265 HEVC — H.265 High Efficiency Video Coding
- - [https://www.libde265.org](https://www.libde265.org)
- - date_published: 2024-06-17T03:17:14.504798+00:00
-
- ## libdill.org
- - [https://libdill.org](https://libdill.org)
- - date_published: 2024-04-30T07:30:48.715302+00:00
-
- ## libE57: Software Tools for Managing E57 files (ASTM E2807 standard)
- - [http://www.libe57.org](http://www.libe57.org)
- - date_published: 2018-12-05T22:35:51+00:00
-
- ## Home - Liberal Arts Alliance
- - [http://www.liberalartsalliance.org](http://www.liberalartsalliance.org)
- - date_published: 2024-07-01T03:31:23+00:00
-
- ## Liberal Conspiracy - Progressive Ideas United
- - [https://liberalco.org](https://liberalco.org)
- - date_published: 2024-10-21T13:55:06.566338+00:00
-
- ## Liberal Conspiracy - Progressive Ideas United
- - [http://liberalconspiracy.org](http://liberalconspiracy.org)
- - date_published: 2024-06-28T09:31:47+00:00
-
- ## Nativespace | Secure Cloud Hosting
- - [http://www.liberal-vision.org](http://www.liberal-vision.org)
- - date_published: 2024-06-28T18:48:32.460095+00:00
-
- ## Libération Afrique - Solidarité internationale et luttes sociales en Afrique subsaharienne
- - [http://www.liberationafrique.org](http://www.liberationafrique.org)
- - date_published: 2024-10-21T18:19:34.585872+00:00
-
- ## liberbook.org is not found
- - [http://liberbook.org](http://liberbook.org)
- - date_published: 2024-05-01T04:14:17.839435+00:00
-
- ## liber-net
- - [https://liber-net.org](https://liber-net.org)
- - date_published: 2024-05-06T00:00:00+00:00
 

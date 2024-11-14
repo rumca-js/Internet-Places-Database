@@ -1,3 +1,7 @@
+ ## Home - Inkdrop
+ - [https://inkdrop.ai](https://inkdrop.ai)
+ - date_published: 2024-01-22T16:24:51+00:00
+
  ## Inkdrop - Visually Deploy Cloud Architecture
  - [https://platform.inkdrop.ai](https://platform.inkdrop.ai)
  - date_published: 2023-12-04T18:33:50+00:00
@@ -4016,8 +4020,4 @@
  ## Questgen - AI Powered Quiz Generator
  - [https://questgen.ai](https://questgen.ai)
  - date_published: 2024-10-30T22:05:27.934043+00:00
-
- ## Quickchat AI | Customised AI Assistant for your Business
- - [https://app.quickchat.ai](https://app.quickchat.ai)
- - date_published: 2024-10-30T22:44:21.546579+00:00
 

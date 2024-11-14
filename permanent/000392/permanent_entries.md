@@ -1,3 +1,135 @@
+ ## Aragonese Wikibooks - Wikimedia Incubator
+ - [https://an.wikibooks.org](https://an.wikibooks.org)
+ - date_published: 2024-09-18T03:30:42.497314+00:00
+
+ ## Wb/syc - Wikimedia Incubator
+ - [https://arc.wikibooks.org](https://arc.wikibooks.org)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## ويكي الكتب
+ - [https://ar.wikibooks.org](https://ar.wikibooks.org)
+ - date_published: 2024-07-09T12:21:25+00:00
+
+ ## الصفحة اللولا - Wb/ary - Wikimedia Incubator
+ - [https://ary.wikibooks.org](https://ary.wikibooks.org)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Wikibooks
+ - [https://ast.wikibooks.org](https://ast.wikibooks.org)
+ - date_published: 2024-06-27T07:09:18+00:00
+
+ ## Wikibooks
+ - [https://as.wikibooks.org](https://as.wikibooks.org)
+ - date_published: 2024-06-28T02:29:25+00:00
+
+ ## Kotava Wikibooks - Wikimedia Incubator
+ - [https://avk.wikibooks.org](https://avk.wikibooks.org)
+ - date_published: 2024-07-12T03:49:32.954032+00:00
+
+ ## Avaric Wikibooks - Wikimedia Incubator
+ - [https://av.wikibooks.org](https://av.wikibooks.org)
+ - date_published: 2024-07-12T05:06:20.546697+00:00
+
+ ## Awadhi Wikibooks - Wikimedia Incubator
+ - [https://awa.wikibooks.org](https://awa.wikibooks.org)
+ - date_published: 2024-07-12T04:44:15.933698+00:00
+
+ ## Wikibooks
+ - [https://ay.wikibooks.org](https://ay.wikibooks.org)
+ - date_published: 2024-06-27T15:00:26+00:00
+
+ ## Vikikitab
+ - [https://az.wikibooks.org](https://az.wikibooks.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Samogitian Wikibooks - Wikimedia Incubator
+ - [https://bat-smg.wikibooks.org](https://bat-smg.wikibooks.org)
+ - date_published: 2024-07-12T03:00:38.093283+00:00
+
+ ## Викидәреслек
+ - [https://ba.wikibooks.org](https://ba.wikibooks.org)
+ - date_published: 2024-07-09T12:21:26+00:00
+
+ ## Panginot na Pahina - Wb/bcl - Wikimedia Incubator
+ - [https://bcl.wikibooks.org](https://bcl.wikibooks.org)
+ - date_published: 2024-07-09T12:22:03+00:00
+
+ ## Вікікнігі
+ - [https://be.wikibooks.org](https://be.wikibooks.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Уикикниги
+ - [https://bg.wikibooks.org](https://bg.wikibooks.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Banjar Wikibooks - Wikimedia Incubator
+ - [https://bjn.wikibooks.org](https://bjn.wikibooks.org)
+ - date_published: 2024-07-12T02:44:14.365747+00:00
+
+ ## Pa'O Wikibooks - Wikimedia Incubator
+ - [https://blk.wikibooks.org](https://blk.wikibooks.org)
+ - date_published: 2024-07-12T03:50:14.345666+00:00
+
+ ## Wikibooks
+ - [https://bm.wikibooks.org](https://bm.wikibooks.org)
+ - date_published: 2024-06-27T16:30:36+00:00
+
+ ## উইকিবই
+ - [https://bn.wikibooks.org](https://bn.wikibooks.org)
+ - date_published: 2024-07-09T12:21:27+00:00
+
+ ## Bishnupriya Wikibooks - Wikimedia Incubator
+ - [https://bpy.wikibooks.org](https://bpy.wikibooks.org)
+ - date_published: 2024-07-12T04:46:04.464167+00:00
+
+ ## Breton Wikibooks - Wikimedia Incubator
+ - [https://br.wikibooks.org](https://br.wikibooks.org)
+ - date_published: 2024-07-12T03:16:11.119027+00:00
+
+ ## Wikiknjige
+ - [https://bs.wikibooks.org](https://bs.wikibooks.org)
+ - date_published: 2024-07-09T12:21:28+00:00
+
+ ## Batak Mandailing Wikibooks - Wikimedia Incubator
+ - [https://btm.wikibooks.org](https://btm.wikibooks.org)
+ - date_published: 2024-09-18T03:07:33.022154+00:00
+
+ ## Buginese Wikibooks - Wikimedia Incubator
+ - [https://bug.wikibooks.org](https://bug.wikibooks.org)
+ - date_published: 2024-07-12T04:35:11.636568+00:00
+
+ ## Viquillibres
+ - [https://ca.wikibooks.org](https://ca.wikibooks.org)
+ - date_published: 2024-07-09T12:21:28+00:00
+
+ ## Unang Panid - Wb/ceb - Wikimedia Incubator
+ - [https://ceb.wikibooks.org](https://ceb.wikibooks.org)
+ - date_published: 2024-02-25T00:00:00+00:00
+
+ ## Chechen Wikibooks - Wikimedia Incubator
+ - [https://ce.wikibooks.org](https://ce.wikibooks.org)
+ - date_published: 2024-07-11T22:03:14.910181+00:00
+
+ ## دەستپێک - Wb/ckb - Wikimedia Incubator
+ - [https://ckb.wikibooks.org](https://ckb.wikibooks.org)
+ - date_published: 2024-04-13T00:00:00+00:00
+
+ ## Wikibooks
+ - [https://co.wikibooks.org](https://co.wikibooks.org)
+ - date_published: 2024-06-27T18:37:43+00:00
+
+ ## Wikiknihy
+ - [https://cs.wikibooks.org](https://cs.wikibooks.org)
+ - date_published: 2024-07-11T02:26:43+00:00
+
+ ## Church Slavic Wikibooks - Wikimedia Incubator
+ - [https://cu.wikibooks.org](https://cu.wikibooks.org)
+ - date_published: 2024-07-12T02:35:59.473951+00:00
+
+ ## Wikibooks
+ - [https://cv.wikibooks.org](https://cv.wikibooks.org)
+ - date_published: 2024-07-09T12:21:29+00:00
+
  ## Wicilyfrau
  - [https://cy.wikibooks.org](https://cy.wikibooks.org)
  - date_published: 2024-07-09T12:21:29+00:00
@@ -3869,136 +4001,4 @@
  ## Wikipedia
  - [https://qu.m.wikipedia.org](https://qu.m.wikipedia.org)
  - date_published: 2024-07-09T12:22:21+00:00
-
- ## Wikiquote
- - [https://quote.wikipedia.org](https://quote.wikipedia.org)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Wikipedia
- - [https://qu.wikipedia.org](https://qu.wikipedia.org)
- - date_published: 2024-05-10T04:30:46.276189+00:00
-
- ## Wikipedia
- - [https://rm.m.wikipedia.org](https://rm.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:21+00:00
-
- ## Wikipedia
- - [https://rm.wikipedia.org](https://rm.wikipedia.org)
- - date_published: 2024-05-10T04:17:46.216737+00:00
-
- ## Vikipidiya
- - [https://rmy.m.wikipedia.org](https://rmy.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:21+00:00
-
- ## Vikipidiya
- - [https://rmy.wikipedia.org](https://rmy.wikipedia.org)
- - date_published: 2024-05-10T04:27:22.244942+00:00
-
- ## Wikipedia
- - [https://rn.m.wikipedia.org](https://rn.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:21+00:00
-
- ## Wikipedia
- - [https://rn.wikipedia.org](https://rn.wikipedia.org)
- - date_published: 2024-05-10T04:16:56.674177+00:00
-
- ## Wikipedia
- - [https://roa-rup.m.wikipedia.org](https://roa-rup.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Wikipedia
- - [https://roa-rup.wikipedia.org](https://roa-rup.wikipedia.org)
- - date_published: 2024-05-10T04:30:16.486515+00:00
-
- ## Wikipedia
- - [https://roa-tara.m.wikipedia.org](https://roa-tara.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Wikipedia
- - [https://roa-tara.wikipedia.org](https://roa-tara.wikipedia.org)
- - date_published: 2024-05-10T04:26:51.552281+00:00
-
- ## Wikipedia
- - [https://ro.m.wikipedia.org](https://ro.m.wikipedia.org)
- - date_published: 2024-07-11T06:46:03+00:00
-
- ## Wikipedia
- - [https://ro.wikipedia.org](https://ro.wikipedia.org)
- - date_published: 2024-05-10T03:55:01.068861+00:00
-
- ## Вікіпедія
- - [https://rue.m.wikipedia.org](https://rue.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Вікіпедія
- - [https://rue.wikipedia.org](https://rue.wikipedia.org)
- - date_published: 2024-05-10T04:18:49.554072+00:00
-
- ## Википедия — свободная энциклопедия
- - [https://ru.m.wikipedia.org](https://ru.m.wikipedia.org)
- - date_published: 2024-05-10T03:54:54.800033+00:00
-
- ## Википедия — свободная энциклопедия
- - [https://ru.wikipedia.org](https://ru.wikipedia.org)
- - date_published: 2023-12-11T19:10:59.468908+00:00
-
- ## Wikipedia
- - [https://rw.m.wikipedia.org](https://rw.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Wikipedia
- - [https://rw.wikipedia.org](https://rw.wikipedia.org)
- - date_published: 2024-05-10T04:16:37.293243+00:00
-
- ## Бикипиэдьийэ
- - [https://sah.m.wikipedia.org](https://sah.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Бикипиэдьийэ
- - [https://sah.wikipedia.org](https://sah.wikipedia.org)
- - date_published: 2024-05-10T03:54:43.752130+00:00
-
- ## विकिपीडिया
- - [https://sa.m.wikipedia.org](https://sa.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ
- - [https://sat.m.wikipedia.org](https://sat.m.wikipedia.org)
- - date_published: 2024-07-12T00:02:24+00:00
-
- ## ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ
- - [https://sat.wikipedia.org](https://sat.wikipedia.org)
- - date_published: 2024-05-10T04:17:17.072328+00:00
-
- ## विकिपीडिया
- - [https://sa.wikipedia.org](https://sa.wikipedia.org)
- - date_published: 2024-05-10T04:16:10.471022+00:00
-
- ## Wikipedia
- - [https://sc.m.wikipedia.org](https://sc.m.wikipedia.org)
- - date_published: 2024-07-10T20:37:18+00:00
-
- ## Wikipedia
- - [https://scn.m.wikipedia.org](https://scn.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Wikipedia
- - [https://scn.wikipedia.org](https://scn.wikipedia.org)
- - date_published: 2024-05-10T04:27:16.712873+00:00
-
- ## Wikipedia
- - [https://sco.m.wikipedia.org](https://sco.m.wikipedia.org)
- - date_published: 2024-07-09T12:22:22+00:00
-
- ## Wikipedia
- - [https://sco.wikipedia.org](https://sco.wikipedia.org)
- - date_published: 2024-05-10T04:30:27.897076+00:00
-
- ## Wikipedia
- - [https://sc.wikipedia.org](https://sc.wikipedia.org)
- - date_published: 2024-05-10T04:28:41.858008+00:00
-
- ## وڪيپيڊيا
- - [https://sd.m.wikipedia.org](https://sd.m.wikipedia.org)
- - date_published: 2024-07-10T02:22:29+00:00
 

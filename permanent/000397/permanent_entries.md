@@ -1,3 +1,137 @@
+ ## Wyższa Szkoła Biznesu i Nauk o Zdrowiu - Studia Łódź
+ - [https://wsbinoz.edu.pl](https://wsbinoz.edu.pl)
+ - date_published: 2024-05-06T23:40:34.379345+00:00
+
+ ## WSB-NLU: Studia Nowy Sącz - Wyższa Szkoła Biznesu National Louis University w Nowym Sączu
+ - [https://wsb-nlu.edu.pl](https://wsb-nlu.edu.pl)
+ - date_published: 2024-05-09T05:11:58.372953+00:00
+
+ ## Strona główna - Biuro Karier WSEI
+ - [https://biurokarier.wsei.edu.pl](https://biurokarier.wsei.edu.pl)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Przepraszamy. Strona jest w trakcie prac konserwacyjnych.
+ - [http://craft.wsei.edu.pl](http://craft.wsei.edu.pl)
+ - date_published: 2024-07-02T11:09:13+00:00
+
+ ## Wirtualny Dziekanat WSEI Kraków – Zapraszamy - 
+    Home page
+ - [https://dziekanat.wsei.edu.pl](https://dziekanat.wsei.edu.pl)
+ - date_published: 2024-07-04T11:35:37.795248+00:00
+
+ ## Strona Główna - College of Economics and Computer Science
+ - [https://en.wsei.edu.pl](https://en.wsei.edu.pl)
+ - date_published: 2024-05-08T06:16:58.906644+00:00
+
+ ## Platforma edukacyjna e.WSEI
+ - [https://e.wsei.edu.pl](https://e.wsei.edu.pl)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Biuro współpracy międzynarodowej WSEI – Współpraca międzynarodowa i program Erasmus+
+ - [https://international.wsei.edu.pl](https://international.wsei.edu.pl)
+ - date_published: 2024-07-04T11:35:36.803523+00:00
+
+ ## Strona główna
+ - [https://kn.wsei.edu.pl](https://kn.wsei.edu.pl)
+ - date_published: 2024-04-06T00:00:00+00:00
+
+ ## WSEI - Interaktywna mapa uczelni
+ - [http://mapa.wsei.edu.pl](http://mapa.wsei.edu.pl)
+ - date_published: 2019-11-08T14:50:08+00:00
+
+ ## Logowanie
+ - [https://navigator.wsei.edu.pl](https://navigator.wsei.edu.pl)
+ - date_published: 2024-07-04T11:35:39.751300+00:00
+
+ ## Strona główna - Park technologiczny WSEI
+ - [https://parktechnologiczny.wsei.edu.pl](https://parktechnologiczny.wsei.edu.pl)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Strona główna
+ - [https://podyplomowe.wsei.edu.pl](https://podyplomowe.wsei.edu.pl)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Kurs Programowania Kraków | IT Szkoła Programowania WSEI
+ - [https://szkolaprogramowania.wsei.edu.pl](https://szkolaprogramowania.wsei.edu.pl)
+ - date_published: 2024-07-04T11:35:46.926884+00:00
+
+ ## Navigator365
+ - [https://workflow.wsei.edu.pl](https://workflow.wsei.edu.pl)
+ - date_published: 2024-04-25T20:27:34+00:00
+
+ ## Nowoczesne kierunki studiów - Ekonomiczne i informatyczne - WSEI Kraków
+ - [https://wsei.edu.pl](https://wsei.edu.pl)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Strona główna | Związek Uczelni Fahrenheita
+ - [https://zwiazek-fahrenheita.edu.pl](https://zwiazek-fahrenheita.edu.pl)
+ - date_published: 2024-07-09T07:26:30.569766+00:00
+
+ ## GCK Gorlice – Gorlickie Centrum Kultury
+ - [http://gck.gorlice.pl](http://gck.gorlice.pl)
+ - date_published: 2024-07-09T13:22:09.161572+00:00
+
+ ## Portal Gov.pl
+ - [https://gov.pl](https://gov.pl)
+ - date_published: 2024-05-09T04:03:59.482454+00:00
+ - tags: ['government']
+
+ ## Archiwum Akt Nowych w Warszawie
+ - [https://www.aan.gov.pl](https://www.aan.gov.pl)
+ - date_published: 2024-07-09T07:27:30.718339+00:00
+
+ ## Agencja Bezpieczeństwa Wewnętrznego
+ - [https://www.abw.gov.pl](https://www.abw.gov.pl)
+ - date_published: 2024-07-09T19:46:01.139314+00:00
+
+ ## Krajowe Centrum ds. AIDS – Agenda Ministra Zdrowia koordynująca zadania mające na celu zapobieganie HIV i zwalczanie AIDS w Polsce
+ - [https://aids.gov.pl](https://aids.gov.pl)
+ - date_published: 2024-07-13T19:04:13.091353+00:00
+
+ ## Strona główna podmiotu BIURO WYSTAW ARTYSTYCZNYCH
+ - [https://bwazg.bip.gov.pl](https://bwazg.bip.gov.pl)
+ - date_published: 2024-07-01T07:53:39.775931+00:00
+
+ ## Strona główna podmiotu CENTRUM BADAŃ KOSMICZNYCH PAN
+ - [https://cbk_pan.bip.gov.pl](https://cbk_pan.bip.gov.pl)
+ - date_published: 2024-10-14T21:27:42.910533+00:00
+
+ ## Strona główna podmiotu FILMOTEKA NARODOWA - INSTYTUT AUDIOWIZUALNY
+ - [https://fina.bip.gov.pl](https://fina.bip.gov.pl)
+ - date_published: 2024-07-20T17:52:42.999440+00:00
+
+ ## Strona główna podmiotu POLSKA AGENCJA KOSMICZNA
+ - [https://pak.bip.gov.pl](https://pak.bip.gov.pl)
+ - date_published: 2024-10-14T21:09:41.374282+00:00
+
+ ## Strona główna podmiotu POLSKI FUNDUSZ ROZWOJU SPÓŁKA AKCYJNA
+ - [https://pfrsa.bip.gov.pl](https://pfrsa.bip.gov.pl)
+ - date_published: 2024-07-17T08:00:31.423328+00:00
+
+ ## Strona główna podmiotu BIURO RZECZNIKA MAŁYCH I ŚREDNICH PRZEDSIĘBIORCÓW
+ - [http://rzecznikmsp.bip.gov.pl](http://rzecznikmsp.bip.gov.pl)
+ - date_published: 2024-07-09T20:14:49.268134+00:00
+
+ ## Strona główna podmiotu TEATR NOWY IM.KAZIMIERZA DEJMKA
+ - [http://teatr_nowy.bip.gov.pl](http://teatr_nowy.bip.gov.pl)
+ - date_published: 2024-06-28T19:22:31.910857+00:00
+
+ ## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO W KONINIE
+ - [https://wordkonin.bip.gov.pl](https://wordkonin.bip.gov.pl)
+ - date_published: 2024-05-11T08:18:35.715422+00:00
+
+ ## Strona główna podmiotu WOJEWÓDZKI OŚRODEK RUCHU DROGOWEGO
+ - [https://wordpoznan.bip.gov.pl](https://wordpoznan.bip.gov.pl)
+ - date_published: 2024-05-11T08:18:17.908592+00:00
+
+ ## Strona główna podmiotu WYŻSZA SZKOŁA BIZNESU-NATIONAL -LOUIS UNIVERSITY Z SIEDZIBĄ W NOWYM SĄCZU
+ - [https://wsb-nlu.bip.gov.pl](https://wsb-nlu.bip.gov.pl)
+ - date_published: 2024-07-09T13:23:43.623567+00:00
+
+ ## BIP: Strona główna
+ - [https://www.bip.gov.pl](https://www.bip.gov.pl)
+ - date_published: 2024-07-13T19:10:27.210116+00:00
+
  ## Strona główna
  - [https://www.biznes.gov.pl](https://www.biznes.gov.pl)
  - date_published: 2024-07-14T21:34:41.871970+00:00
@@ -3959,141 +4093,4 @@ Polska 1939
  ## Gynvael's Blog
  - [https://coldwind.pl](https://coldwind.pl)
  - date_published: 2024-08-31T00:00:00+00:00
-
- ## Gynvael's Blog
- - [https://gynvael.coldwind.pl](https://gynvael.coldwind.pl)
- - date_published: 2024-03-30T00:00:00+00:00
- - tags: ['personal']
-
- ## Colorprinter - Colorprinter©
- - [https://colorprinter.pl](https://colorprinter.pl)
- - date_published: 2021-05-02T21:17:10+00:00
-
- ## Homepage
- - [https://www.columnamedica.pl](https://www.columnamedica.pl)
- - date_published: 2024-06-26T13:45:25.522819+00:00
-
- ## Usługi, systemy informatyczne i obsługa firm - opieka, rozwiązania IT - COMARCH SA
- - [https://comarch.pl](https://comarch.pl)
- - date_published: 2024-03-28T07:14:22+00:00
- - tags: ['it corpo']
-
- ## Praca w IT | Dołącz do Comarch i postaw na rozwój!
- - [https://kariera.comarch.pl](https://kariera.comarch.pl)
- - date_published: 2024-05-12T04:00:54.130496+00:00
-
- ## Sklep Comarch - oprogramowanie dla firm
- - [https://sklep.comarch.pl](https://sklep.comarch.pl)
- - date_published: 2024-05-12T04:00:51.561983+00:00
-
- ## Comarch Społeczność ERP
- - [https://spolecznosc.comarch.pl](https://spolecznosc.comarch.pl)
- - date_published: 2024-04-12T11:08:52+00:00
-
- ## Oferta sprzedaży domeny: comarch-erp.pl
- - [http://comarch-erp.pl](http://comarch-erp.pl)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Comarch e-Sklep – Twój własny sklep internetowy od lidera rynku IT
- - [https://www.comarchesklep.pl](https://www.comarchesklep.pl)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Home » Commerzbank
- - [https://lodz.commerzbank.pl](https://lodz.commerzbank.pl)
- - date_published: 2024-06-20T05:53:31.474959+00:00
-
- ## Comparic – Portal finansowy - kursy walut, notowania akcji, biznes w Polsce
- - [https://comparic.pl](https://comparic.pl)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Computerworld - Wiadomości IT, biznes IT, praca w IT, konferencje
- - [https://computerworld.pl](https://computerworld.pl)
- - date_published: 2023-10-25T22:26:31.404697+00:00
-
- ## Welcome to ConfrontJS - ConfrontJS
- - [https://confrontjs.pl](https://confrontjs.pl)
- - date_published: 2024-06-20T07:00:27.190737+00:00
-
- ## Dostęp do sprzedaży online – Zalando Connected Retail
- - [https://www.connectedretail.pl](https://www.connectedretail.pl)
- - date_published: 2024-06-16T16:12:24.436706+00:00
-
- ## Conrad Electronic | All parts of success
- - [https://conrad.pl](https://conrad.pl)
- - date_published: 2023-10-28T20:22:09.990341+00:00
- - tags: ['electronic', 'shop']
-
- ## Conrad Electronic Polska
- - [https://support.conrad.pl](https://support.conrad.pl)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ContentHouse | Agencja Full Service Content Marketing
- - [https://contenthouse.pl](https://contenthouse.pl)
- - date_published: 2024-10-22T21:13:57.803228+00:00
-
- ## Stowarzyszenie Content Marketing Polska
- - [https://contentmarketingpolska.pl](https://contentmarketingpolska.pl)
- - date_published: 2024-10-22T21:12:12.985483+00:00
-
- ## Coolshop | Łatwe, przyjemne i fajne zakupy online
- - [https://www.coolshop.pl](https://www.coolshop.pl)
- - date_published: 2024-09-16T03:02:14.024838+00:00
-
- ## Centrum Ochrony Praw Chrześcijan
- - [https://copch.pl](https://copch.pl)
- - date_published: 2023-11-27T12:36:24+00:00
- - tags: ['organization', 'christian']
-
- ## Producent mocowań do modułów i dystrybutor renomowanych marek
- - [https://corab.pl](https://corab.pl)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## Kompleksowe i profesjonalne pozycjonowanie na każdą kieszeń - www.cotrzecia.pl
- - [http://cotrzecia.pl](http://cotrzecia.pl)
- - date_published: 2024-08-18T17:08:52.350671+00:00
-
- ## Cowzdrowiu
- - [https://cowzdrowiu.pl](https://cowzdrowiu.pl)
- - date_published: 2023-10-25T22:26:33.140596+00:00
-
- ## Centrum Pomocy Osobom Poszkodowanym
- - [https://cpop.pl](https://cpop.pl)
- - date_published: 2024-05-09T05:06:02.305603+00:00
-
- ## Serwis programistyczny C++
- - [https://cpp0x.pl](https://cpp0x.pl)
- - date_published: 2024-03-04T10:50:59+00:00
- - tags: ['tutorials', 'programming', 'cources']
-
- ## Strona główna - Crafton
- - [https://crafton.pl](https://crafton.pl)
- - date_published: 2024-08-18T14:41:08.898484+00:00
-
- ## Wypadki - artykuły i filmy z wypadków
- - [http://www.crashfans.pl](http://www.crashfans.pl)
- - date_published: 2024-07-11T16:33:35.302338+00:00
-
- ## Darmowe Gry Online na CrazyGames | Zagraj Teraz!
- - [https://crazygames.pl](https://crazygames.pl)
- - date_published: 2024-05-08T06:51:55.940807+00:00
-
- ## Nowoczesne strony internetowe. Agencja interaktywna nr 1.
- - [https://crear.pl](https://crear.pl)
- - date_published: 2024-02-16T00:00:00+00:00
-
- ## Creative Commons Polska
- - [https://creativecommons.pl](https://creativecommons.pl)
- - date_published: 2024-07-08T20:19:42.212010+00:00
-
- ## Bank Credit Agricole
- - [https://ewniosek.credit-agricole.pl](https://ewniosek.credit-agricole.pl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Bank Credit Agricole
- - [https://www.credit-agricole.pl](https://www.credit-agricole.pl)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## CRIDO
- - [https://crido.pl](https://crido.pl)
- - date_published: 2024-06-21T00:00:00+00:00
 

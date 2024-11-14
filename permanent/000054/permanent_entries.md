@@ -1,3 +1,19 @@
+ ## BitTorrent Forums
+ - [https://forum.bittorrent.com](https://forum.bittorrent.com)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## BitTorrent Remote
+ - [https://remote.bittorrent.com](https://remote.bittorrent.com)
+ - date_published: 2024-09-14T08:44:10.975006+00:00
+
+ ## PayPro Global Store
+ - [https://store.bittorrent.com](https://store.bittorrent.com)
+ - date_published: 2024-05-11T11:41:02.028817+00:00
+
+ ## Bittrex Global
+ - [https://bittrex.com](https://bittrex.com)
+ - date_published: 2023-10-25T13:02:25.612866+00:00
+
  ## Bittrex Global
  - [https://global.bittrex.com](https://global.bittrex.com)
  - date_published: 2024-05-01T00:00:00+00:00
@@ -4035,20 +4051,4 @@
  ## 40K Neophyte
  - [http://40kneophyte.blogspot.com](http://40kneophyte.blogspot.com)
  - date_published: 2024-10-09T05:32:27+00:00
-
- ## [Warhammer40k Malaysia] Beginner Spoon Feeding Guide
- - [http://40knoobtonoob.blogspot.com](http://40knoobtonoob.blogspot.com)
- - date_published: 2024-09-22T12:21:23+00:00
-
- ## Potrus Maximus
- - [http://40kpm.blogspot.com](http://40kpm.blogspot.com)
- - date_published: 2024-10-25T12:15:25+00:00
-
- ## Prey in 40k
- - [http://40kprey.blogspot.com](http://40kprey.blogspot.com)
- - date_published: 2024-09-22T22:15:39+00:00
-
- ## The 40k Project
- - [http://40kproject.blogspot.com](http://40kproject.blogspot.com)
- - date_published: 2024-09-23T21:38:44+00:00
 

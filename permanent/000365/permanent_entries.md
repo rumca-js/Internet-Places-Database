@@ -1,3 +1,139 @@
+ ## Infrastructure/Fedorahosted-retirement - Fedora Project Wiki
+ - [https://fedorahosted.org](https://fedorahosted.org)
+ - date_published: 2023-07-05T13:46:21+00:00
+
+ ## Infrastructure/Fedorahosted-retirement - Fedora Project Wiki
+ - [http://git.fedorahosted.org](http://git.fedorahosted.org)
+ - date_published: 2024-06-18T21:30:01+00:00
+
+ ## Available lists - Fedora Mailing-Lists
+ - [https://lists.fedorahosted.org](https://lists.fedorahosted.org)
+ - date_published: 2024-05-15T02:47:36.584443+00:00
+
+ ## Project List
+ - [https://copr.fedorainfracloud.org](https://copr.fedorainfracloud.org)
+ - date_published: 2024-05-08T09:44:57.280422+00:00
+
+ ## Fedora Magazine - Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.
+ - [https://fedoramagazine.org](https://fedoramagazine.org)
+ - date_published: 2023-10-25T21:20:17.331969+00:00
+ - tags: ['fedora linux']
+
+ ## Fedora People
+ - [https://fedorapeople.org](https://fedorapeople.org)
+ - date_published: 2024-07-14T02:53:54+00:00
+
+ ## Fedora People
+ - [http://fedoraplanet.org](http://fedoraplanet.org)
+ - date_published: 2024-06-30T06:41:37+00:00
+
+ ## Fedora Accounts
+ - [https://accounts.fedoraproject.org](https://accounts.fedoraproject.org)
+ - date_published: 2024-05-21T02:46:21.584386+00:00
+
+ ## {{name}}
+ - [https://admin.fedoraproject.org](https://admin.fedoraproject.org)
+ - date_published: 2020-11-30T00:00:00+00:00
+
+ ## Fedora Alternative Downloads
+ - [https://alt.fedoraproject.org](https://alt.fedoraproject.org)
+ - date_published: 2024-05-14T08:12:26+00:00
+
+ ## {{name}}
+ - [https://apps.fedoraproject.org](https://apps.fedoraproject.org)
+ - date_published: 1999-01-01T00:00:00+00:00
+ - tags: ['fedora linux']
+
+ ## Fedora Linux
+ - [https://arm.fedoraproject.org](https://arm.fedoraproject.org)
+ - date_published: 2024-07-05T19:45:57+00:00
+
+ ## Ask Fedora
+ - [https://ask.fedoraproject.org](https://ask.fedoraproject.org)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Fedora Badges
+ - [https://badges.fedoraproject.org](https://badges.fedoraproject.org)
+ - date_published: 2024-05-21T02:46:35.386326+00:00
+
+ ## Fedora Updates System
+ - [https://bodhi.fedoraproject.org](https://bodhi.fedoraproject.org)
+ - date_published: 2023-10-25T21:20:23.751445+00:00
+
+ ## Home - Fedocal
+ - [https://calendar.fedoraproject.org](https://calendar.fedoraproject.org)
+ - date_published: 2024-05-21T02:46:22.793820+00:00
+
+ ## Element
+ - [https://chat.fedoraproject.org](https://chat.fedoraproject.org)
+ - date_published: 2024-05-21T02:46:18.602267+00:00
+
+ ## Fedora Community Blog
+ - [https://communityblog.fedoraproject.org](https://communityblog.fedoraproject.org)
+ - date_published: 2024-05-09T03:56:31.949681+00:00
+
+ ## Index of /
+ - [https://copr-be.cloud.fedoraproject.org](https://copr-be.cloud.fedoraproject.org)
+ - date_published: 2024-09-02T16:05:02.664967+00:00
+
+ ## Project List
+ - [https://copr.fedoraproject.org](https://copr.fedoraproject.org)
+ - date_published: 2024-05-09T03:56:35.678510+00:00
+
+ ## The container optimized OS
+ - [https://coreos.fedoraproject.org](https://coreos.fedoraproject.org)
+ - date_published: 2024-04-15T08:26:00+00:00
+ - tags: ['operating system']
+
+ ## Fedora Developer Portal
+ - [https://developer.fedoraproject.org](https://developer.fedoraproject.org)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Fedora Discussion
+ - [https://discussion.fedoraproject.org](https://discussion.fedoraproject.org)
+ - date_published: 2024-03-02T00:00:00+00:00
+
+ ## Fedora Linux
+ - [https://download.fedoraproject.org](https://download.fedoraproject.org)
+ - date_published: 2024-08-15T18:14:12+00:00
+
+ ## Fedora elections
+ - [https://elections.fedoraproject.org](https://elections.fedoraproject.org)
+ - date_published: 2024-06-01T00:00:00+00:00
+
+ ## Fedora Linux
+ - [https://fedoraproject.org](https://fedoraproject.org)
+ - date_published: 2023-11-12T00:21:07.905097+00:00
+ - tags: ['operating system']
+
+ ## Build System Info | koji
+ - [https://koji.fedoraproject.org](https://koji.fedoraproject.org)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Fedora Labs | The Fedora Project
+ - [https://labs.fedoraproject.org](https://labs.fedoraproject.org)
+ - date_published: 2024-07-05T19:47:10+00:00
+
+ ## Available lists - Fedora Mailing-Lists
+ - [https://lists.fedoraproject.org](https://lists.fedoraproject.org)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Meetbot Logs
+ - [https://meetbot.fedoraproject.org](https://meetbot.fedoraproject.org)
+ - date_published: 2024-05-21T02:46:25.221345+00:00
+
+ ## Home - MirrorManager
+ - [https://mirrormanager.fedoraproject.org](https://mirrormanager.fedoraproject.org)
+ - date_published: 2024-07-10T02:21:43.000802+00:00
+
+ ## Home - MirrorManager
+ - [https://mirrors.fedoraproject.org](https://mirrors.fedoraproject.org)
+ - date_published: 2024-05-09T07:09:31.412511+00:00
+
+ ## Fedora People
+ - [http://planet.fedoraproject.org](http://planet.fedoraproject.org)
+ - date_published: 2024-07-08T13:21:34+00:00
+
  ## Fedora Spins | The Fedora Project
  - [https://spins.fedoraproject.org](https://spins.fedoraproject.org)
  - date_published: 2024-07-05T19:49:48+00:00
@@ -3917,137 +4053,4 @@ Archive
  ## Free Pascal wiki
  - [https://wiki.lazarus.freepascal.org](https://wiki.lazarus.freepascal.org)
  - date_published: 2024-05-08T09:34:02.320185+00:00
-
- ## Accueil
- - [https://freepatriot.org](https://freepatriot.org)
- - date_published: 2024-06-15T23:44:33.462446+00:00
-
- ## FreePBX Community Forums
- - [https://community.freepbx.org](https://community.freepbx.org)
- - date_published: 2024-10-31T04:47:07.471330+00:00
-
- ## FreePBX
- - [https://git.freepbx.org](https://git.freepbx.org)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## FreePBX | Open source, web-based, IP PBX management tool.
- - [https://www.freepbx.org](https://www.freepbx.org)
- - date_published: 2024-02-22T00:00:00+00:00
-
- ## Free Press Unlimited
- - [https://www.freepressunlimited.org](https://www.freepressunlimited.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Vacuum Cleaner Project - How to do Car Detailing & Clean Homes
- - [http://www.free-project.org](http://www.free-project.org)
- - date_published: 2019-09-13T08:06:34+00:00
-
- ## THE OFFICIAL WEBSITE FOR ROSS ULBRICHT | FreeRoss.org
- - [https://freeross.org](https://freeross.org)
- - date_published: 2023-10-25T21:23:00.806197+00:00
-
- ## FreeRTOS Community Forums
- - [https://forums.freertos.org](https://forums.freertos.org)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
- - [https://freertos.org](https://freertos.org)
- - date_published: 1980-01-01T00:00:00+00:00
- - tags: ['rtos', 'open source', 'operating system', 'real time operating system']
-
- ## demo
- - [http://sandbox.freertr.org](http://sandbox.freertr.org)
- - date_published: 2024-09-14T08:49:59.003629+00:00
-
- ## SDF Public Access UNIX System - Free Shell Account and Shell Access
- - [https://brianb.freeshell.org](https://brianb.freeshell.org)
- - date_published: 2024-01-09T03:40:21.225501+00:00
-
- ## Freedom Is Your Choice - Take Back Your Freedom Today!
- - [http://fr33d0m.freeshell.org](http://fr33d0m.freeshell.org)
- - date_published: 2021-05-29T18:10:20+00:00
-
- ## John Baber-Lucero
- - [http://jbaber.freeshell.org](http://jbaber.freeshell.org)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Rick Umali's SDF Homepage
- - [https://rgu.freeshell.org](https://rgu.freeshell.org)
- - date_published: 2023-04-21T01:30:47+00:00
-
- ## SDF Public Access UNIX System - Free Shell Account and Shell Access
- - [http://www.freeshell.org](http://www.freeshell.org)
- - date_published: 2024-08-18T08:34:00.272496+00:00
-
- ## Freeside Atlanta
- - [https://wiki.freesideatlanta.org](https://wiki.freesideatlanta.org)
- - date_published: 2022-05-31T05:18:43+00:00
-
- ## FreeSO Beta – Join now: It’s free and awesome
- - [http://beta.freeso.org](http://beta.freeso.org)
- - date_published: 2024-07-11T11:38:31.789020+00:00
-
- ## FreeSO -
- - [https://freeso.org](https://freeso.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Free Software
- - [http://www.free-soft.org](http://www.free-soft.org)
- - date_published: 2014-12-12T09:22:50+00:00
-
- ## freesoft.org
- - [https://www.freesoft.org](https://www.freesoft.org)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## myslot ไม่ผ่านเอเยนต์ ไม่มีขั้นต่ำ เข้าสู่ระบบแตกง่าย ฟรีเครดิตทางเข้า
- - [http://www.freesoftwareseries.org](http://www.freesoftwareseries.org)
- - date_published: 2024-08-19T14:28:14+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.freesound.org](https://analytics.freesound.org)
- - date_published: 2024-06-27T06:28:10.448818+00:00
-
- ## The Freesound Blog | All things Freesound
- - [https://blog.freesound.org](https://blog.freesound.org)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Freesound
- - [https://cdn.freesound.org](https://cdn.freesound.org)
- - date_published: 2024-06-27T06:28:05.399605+00:00
-
- ## Freesound
- - [https://freesound.org](https://freesound.org)
- - date_published: 2024-05-06T20:49:26.099552+00:00
-
- ## Freesound Labs
- - [https://labs.freesound.org](https://labs.freesound.org)
- - date_published: 2024-04-10T09:14:48+00:00
-
- ## mejo roaming
- - [https://blog.freesources.org](https://blog.freesources.org)
- - date_published: 2024-07-09T00:00:06+00:00
-
- ## Free Speech TV - Free Speech TV
- - [https://freespeech.org](https://freespeech.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Free Speech For People
- - [https://freespeechforpeople.org](https://freespeechforpeople.org)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Free Speech Coalitions
- - [https://freespeechonline.org](https://freespeechonline.org)
- - date_published: 2008-09-11T00:00:00+00:00
-
- ## Home
- - [https://freespeechunion.org](https://freespeechunion.org)
- - date_published: 2023-08-02T14:47:32+00:00
-
- ## Unleash Thrill with No Deposit Casino Free Spins
- - [https://freespinscasinonodeposit.org](https://freespinscasinonodeposit.org)
- - date_published: 2024-08-07T21:27:42.241800+00:00
-
- ## Home - free-spins-no-deposit
- - [https://free-spins-no-deposit.org](https://free-spins-no-deposit.org)
- - date_published: 2024-08-07T21:28:10.437178+00:00
 

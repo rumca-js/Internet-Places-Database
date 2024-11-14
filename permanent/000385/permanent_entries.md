@@ -1,3 +1,136 @@
+ ## Community-Scheme-Wiki
+ - [http://community.schemewiki.org](http://community.schemewiki.org)
+ - date_published: 2018-04-07T00:00:00+00:00
+
+ ## Scheme and Functional Programming Workshop
+ - [http://schemeworkshop.org](http://schemeworkshop.org)
+ - date_published: 2024-06-26T17:13:57+00:00
+
+ ## Schiller Institute and Fidelio Online Home Page
+ - [http://r.schillerinstitute.org](http://r.schillerinstitute.org)
+ - date_published: 2024-07-13T17:59:14.685793+00:00
+
+ ## The Schiller Institute | A New Paradigm for the Survival of Civilization
+ - [https://schillerinstitute.org](https://schillerinstitute.org)
+ - date_published: 2024-05-11T08:06:05.474680+00:00
+
+ ## Schism Tracker
+ - [https://schismtracker.org](https://schismtracker.org)
+ - date_published: 2023-10-28T18:46:27.023408+00:00
+ - tags: ['open source', 'music tracker']
+
+ ## Schleuder
+ - [https://schleuder.org](https://schleuder.org)
+ - date_published: 2024-07-24T15:32:09+00:00
+
+ ## Schluss
+ - [https://schluss.org](https://schluss.org)
+ - date_published: 2023-10-25T22:06:24.909149+00:00
+
+ ## Schmidt Futures
+ - [https://schmidtfutures.org](https://schmidtfutures.org)
+ - date_published: 2024-01-09T00:00:00+00:00
+
+ ## Schmidt Ocean Institute
+ - [https://schmidtocean.org](https://schmidtocean.org)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Schmidt Ocean Project – Schmidt Ocean Project Strategic Framework 2021-2030 website
+ - [https://strategicframework.schmidtocean.org](https://strategicframework.schmidtocean.org)
+ - date_published: 2024-09-10T16:20:34+00:00
+
+ ## Home - Schmidt Sciences
+ - [https://schmidtsciences.org](https://schmidtsciences.org)
+ - date_published: 2024-01-20T00:00:00+00:00
+
+ ## Wolfram Schneider | Homepage
+ - [https://wolfram.schneider.org](https://wolfram.schneider.org)
+ - date_published: 2024-01-25T18:18:32+00:00
+
+ ## ScholarAI | AI Note Generating
+ - [https://scholarai.org](https://scholarai.org)
+ - date_published: 2023-11-16T12:26:04+00:00
+
+ ## Scholar Journals: Online Journal Publishing and Management System
+ - [http://www.scholarjournals.org](http://www.scholarjournals.org)
+ - date_published: 2024-10-29T16:54:59.094214+00:00
+
+ ## ScholarLed - Open Access Presses
+ - [https://scholarled.org](https://scholarled.org)
+ - date_published: 2024-10-20T04:37:22.742146+00:00
+
+ ## Scholarly Publishing Collective
+ - [https://scholarlypublishingcollective.org](https://scholarlypublishingcollective.org)
+ - date_published: 2024-07-22T04:27:33.648568+00:00
+
+ ## Home - ScholarMatch
+ - [https://scholarmatch.org](https://scholarmatch.org)
+ - date_published: 2024-07-16T00:00:00+00:00
+
+ ## Remarkable Futures Scholarship Opportunity
+ - [https://cfa.scholarsapply.org](https://cfa.scholarsapply.org)
+ - date_published: 2024-07-04T05:22:07.431878+00:00
+
+ ## Barry Goldwater Scholarship and Excellence in Education
+ - [https://goldwater.scholarsapply.org](https://goldwater.scholarsapply.org)
+ - date_published: 2016-06-03T17:30:58+00:00
+
+ ## Login/Register
+ - [https://www.scholarsapply.org](https://www.scholarsapply.org)
+ - date_published: 2024-07-10T04:07:46.532974+00:00
+
+ ## Scholars at Risk | Protecting scholars and the freedom to think, question, and share ideas
+ - [https://www.scholarsatrisk.org](https://www.scholarsatrisk.org)
+ - date_published: 2024-09-30T13:09:57.356589+00:00
+
+ ## Scholarship opportunities for students - Scholarships360
+ - [https://scholarships360.org](https://scholarships360.org)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## The Scholar's Stage
+ - [https://scholars-stage.org](https://scholars-stage.org)
+ - date_published: 2023-10-25T22:06:28.586955+00:00
+
+ ## Scholink Co.,LTD
+ - [http://www.scholink.org](http://www.scholink.org)
+ - date_published: 2019-01-18T06:02:19+00:00
+
+ ## BTI Authorized Users Only
+ - [https://www.schoolclosings.org](https://www.schoolclosings.org)
+ - date_published: 2023-10-20T12:29:21+00:00
+
+ ## Schooling the World — Carol Black
+ - [http://schoolingtheworld.org](http://schoolingtheworld.org)
+ - date_published: 2024-09-12T19:14:46.733874+00:00
+
+ ## School of Data              - Evidence is Power
+ - [http://schoolofdata.org](http://schoolofdata.org)
+ - date_published: 2024-07-16T21:44:07.196065+00:00
+
+ ## Home EN - School of Social Networks
+ - [https://schoolofsocialnetworks.org](https://schoolofsocialnetworks.org)
+ - date_published: 2024-07-02T22:28:59.184790+00:00
+
+ ## Internet-in-a-Box - Mandela's Library of Alexandria
+ - [http://schoolserver.org](http://schoolserver.org)
+ - date_published: 2024-05-09T07:18:58.540790+00:00
+
+ ## Home
+ - [https://online.schoolsfirstfcu.org](https://online.schoolsfirstfcu.org)
+ - date_published: 2022-12-07T07:16:29+00:00
+
+ ## SchoolsFirst FCU: Welcome
+ - [https://www.schoolsfirstfcu.org](https://www.schoolsfirstfcu.org)
+ - date_published: 2024-05-01T07:01:10.431483+00:00
+
+ ## Schools for Humans
+ - [https://schoolsforhumans.org](https://schoolsforhumans.org)
+ - date_published: 2024-07-08T18:16:45.399341+00:00
+
+ ## Nico Schottelius
+ - [https://www.nico.schottelius.org](https://www.nico.schottelius.org)
+ - date_published: 2021-06-06T16:11:53+00:00
+
  ## schuh-wetsch.org
  - [http://www.schuh-wetsch.org](http://www.schuh-wetsch.org)
  - date_published: 2024-06-21T09:14:03.632736+00:00
@@ -3897,138 +4030,4 @@
  ## LICS - ACM/IEEE Symposium on Logic in Computer Science
  - [https://lics.siglog.org](https://lics.siglog.org)
  - date_published: 2023-09-20T05:08:23+00:00
-
- ## ACM Special Interest Group on Logic and Computation
- - [https://siglog.org](https://siglog.org)
- - date_published: 2024-08-07T17:23:24.308277+00:00
-
- ## The Sigma Awards
- - [https://www.sigmaawards.org](https://www.sigmaawards.org)
- - date_published: 2024-06-22T12:52:36.745475+00:00
-
- ## Sigma Delta Pi
- - [https://sigmadeltapi.org](https://sigmadeltapi.org)
- - date_published: 2024-06-30T06:22:55+00:00
-
- ## Sigma.js
- - [http://www.sigmajs.org](http://www.sigmajs.org)
- - date_published: 2024-10-29T16:53:21+00:00
-
- ## Sigma Home Page
- - [https://www.sigmanursing.org](https://www.sigmanursing.org)
- - date_published: 2024-08-19T18:27:41.436264+00:00
-
- ## Home - Sigma Xi
- - [https://community.sigmaxi.org](https://community.sigmaxi.org)
- - date_published: 2024-10-19T03:59:51.920506+00:00
-
- ## Your industry Internships - Sigma Xi - Intern Board
- - [http://internships.sigmaxi.org](http://internships.sigmaxi.org)
- - date_published: 2024-06-17T11:47:57.631431+00:00
-
- ## Scientific Research Jobs - Sigma Xi, The Scientific Research Society's Career Center
- - [http://jobs.sigmaxi.org](http://jobs.sigmaxi.org)
- - date_published: 2024-06-17T11:47:42.237589+00:00
-
- ## Home
- - [https://sigmaxi.org](https://sigmaxi.org)
- - date_published: 2024-06-17T11:48:07.771145+00:00
-
- ## ACM SIGMETRICS
- - [http://sigmetrics.org](http://sigmetrics.org)
- - date_published: 2024-08-07T17:23:08.473446+00:00
-
- ## ACM SIGMICRO: Home
- - [https://sigmicro.org](https://sigmicro.org)
- - date_published: 2023-11-29T17:19:24.251668+00:00
-
- ## ACM SIGMM Records – News for the Multimedia Community
- - [http://records.sigmm.org](http://records.sigmm.org)
- - date_published: 2024-09-14T08:42:16.733066+00:00
-
- ## ACM SIGMM - the Special Interest Group on Multimedia
- - [http://sigmm.org](http://sigmm.org)
- - date_published: 2024-06-14T10:02:05+00:00
-
- ## Redirecting...
- - [https://sigmobile.org](https://sigmobile.org)
- - date_published: 2018-10-30T21:10:33+00:00
-
- ## The 2021 ACM SIGMOD/PODS Conference: Xi'an, Shaanxi, China - Welcome
- - [https://2021.sigmod.org](https://2021.sigmod.org)
- - date_published: 2024-08-11T07:40:05.241740+00:00
-
- ## The 2022 ACM SIGMOD/PODS Conference: Philidelphia, Pennsylvania, USA - Welcome
- - [https://2022.sigmod.org](https://2022.sigmod.org)
- - date_published: 2024-07-01T20:04:36.323647+00:00
-
- ## The 2023 ACM SIGMOD/PODS Conference: Seattle, Washington, USA - Welcome
- - [http://2023.sigmod.org](http://2023.sigmod.org)
- - date_published: 2024-07-02T13:33:20.798166+00:00
-
- ## The 2024 ACM SIGMOD/PODS Conference: Santiago, Chile - Welcome
- - [http://2024.sigmod.org](http://2024.sigmod.org)
- - date_published: 2024-07-09T13:47:51.543967+00:00
-
- ## The 2025 ACM SIGMOD/PODS Conference: Berlin, Germany - Welcome
- - [https://2025.sigmod.org](https://2025.sigmod.org)
- - date_published: 2024-07-09T13:48:01.748150+00:00
-
- ## ACM SIGMOD Availability & Reproducibility Initiative
- - [https://reproducibility.sigmod.org](https://reproducibility.sigmod.org)
- - date_published: 2024-06-28T21:21:06+00:00
-
- ## SIGMOD Website
- - [https://sigmod.org](https://sigmod.org)
- - date_published: 2024-07-01T20:06:40.765534+00:00
-
- ## ACM SIGMOD Blog
- - [http://wp.sigmod.org](http://wp.sigmod.org)
- - date_published: 2024-07-09T13:48:03.982588+00:00
-
- ## The 2014 ACM SIGMOD/PODS Conference: Snowbird, Utah, USA - Welcome
- - [http://www.sigmod2014.org](http://www.sigmod2014.org)
- - date_published: 2024-09-02T16:19:20.015270+00:00
-
- ## The 2018 ACM SIGMOD/PODS Conference: Houston, TX, USA - Welcome
- - [https://sigmod2018.org](https://sigmod2018.org)
- - date_published: 2024-07-01T19:51:07.896162+00:00
-
- ## SIGMOD Record – SIGMOD Record Site
- - [https://sigmodrecord.org](https://sigmodrecord.org)
- - date_published: 2023-10-25T22:08:28.470823+00:00
-
- ## Signal Messenger: Speak Freely
- - [https://signal.org](https://signal.org)
- - date_published: 2023-10-24T20:12:52.142794+00:00
- - tags: ['social communicator']
-
- ## https://support.signal.org
- - [https://support.signal.org](https://support.signal.org)
- - date_published: 2023-11-08T23:51:03.659129+00:00
-
- ## Local news and resources for Clevelanders by Clevelanders
- - [https://signalcleveland.org](https://signalcleveland.org)
- - date_published: 2024-06-21T13:17:49+00:00
-
- ## Home
- - [http://signalculture.org](http://signalculture.org)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Signal Foundation
- - [https://signalfoundation.org](https://signalfoundation.org)
- - date_published: 2024-04-23T17:25:08+00:00
- - tags: ['activism', 'free speech', 'open source', 'organisation']
-
- ## Signal K Server
- - [https://demo.signalk.org](https://demo.signalk.org)
- - date_published: 2024-08-18T18:35:08.297219+00:00
-
- ## Signal K » Welcome
- - [https://signalk.org](https://signalk.org)
- - date_published: 2023-10-25T22:08:31.584869+00:00
-
- ## IEEE Signal Processing Society (SPS) ASI – IEEE Autonomous Systems Initiative (ASI)
- - [https://ieeeasi.signalprocessingsociety.org](https://ieeeasi.signalprocessingsociety.org)
- - date_published: 2024-07-02T01:31:36.748138+00:00
 

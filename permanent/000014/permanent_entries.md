@@ -1,3 +1,11 @@
+ ## Redemption Rock Brewing Co. | Worcester Craft Brewery, Taproom, and Cafe
+ - [https://www.redemptionrock.beer](https://www.redemptionrock.beer)
+ - date_published: 2024-08-18T17:50:51.733937+00:00
+
+ ## Where is it 5 o’clock?
+ - [https://whereisitfiveoclock.beer](https://whereisitfiveoclock.beer)
+ - date_published: 2020-03-14T03:19:04+00:00
+
  ## BADABOOMBERLIN - Let’s turn every environment into a playful world!
  - [http://badaboom.berlin](http://badaboom.berlin)
  - date_published: 2024-07-09T22:30:49.529761+00:00
@@ -4052,12 +4060,4 @@
  ## The Music Aficionado
  - [https://musicaficionado.blog](https://musicaficionado.blog)
  - date_published: 2024-06-22T12:04:24+00:00
-
- ## <mxstbr/>
- - [https://mxstbr.blog](https://mxstbr.blog)
- - date_published: 2018-02-21T00:00:00+00:00
-
- ## Zondax
- - [https://zondax.mymidnight.blog](https://zondax.mymidnight.blog)
- - date_published: 2024-09-21T23:55:53.478352+00:00
 

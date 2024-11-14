@@ -1,3 +1,137 @@
+ ## Startpagina - Jeugdwerk
+ - [https://jeugdwerk.org](https://jeugdwerk.org)
+ - date_published: 2024-08-07T20:58:01.413700+00:00
+
+ ## NameBright - Coming Soon
+ - [http://www.jeux2009.org](http://www.jeux2009.org)
+ - date_published: 2024-07-12T07:07:22.244402+00:00
+
+ ## Jevin D. West
+ - [https://jevinwest.org](https://jevinwest.org)
+ - date_published: 2024-02-17T20:44:04+00:00
+
+ ## Jevko: simply encode data
+ - [https://jevko.org](https://jevko.org)
+ - date_published: 2024-03-31T17:30:11+00:00
+
+ ## Home
+ - [https://jevon.org](https://jevon.org)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Jewish Comics Experience
+ - [http://jewce.org](http://jewce.org)
+ - date_published: 2024-06-17T10:40:29.157280+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://es.jewelryinstitute.org](https://es.jewelryinstitute.org)
+ - date_published: 2024-09-16T14:52:35.770094+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://jewelryinstitute.org](https://jewelryinstitute.org)
+ - date_published: 2024-06-15T07:25:29.011462+00:00
+
+ ## Diamond Setting School | Jewelry Institute Of America | Houston
+ - [https://zh.jewelryinstitute.org](https://zh.jewelryinstitute.org)
+ - date_published: 2024-09-16T14:52:29.831641+00:00
+
+ ## Jewish Currents
+ - [https://jewishcurrents.org](https://jewishcurrents.org)
+ - date_published: 2024-04-03T06:40:02.334368+00:00
+ - tags: ['israel news']
+
+ ## Login
+ - [https://secure.jewishcurrents.org](https://secure.jewishcurrents.org)
+ - date_published: 2024-05-12T05:54:08.809711+00:00
+
+ ## Home - Jewish&
+ - [https://jewishdiversitystories.org](https://jewishdiversitystories.org)
+ - date_published: 2024-06-20T16:01:19.520556+00:00
+
+ ## Jewish Federation of Edmonton
+ | Jewish Federation of Edmonton
+ - [https://www.jewishedmonton.org](https://www.jewishedmonton.org)
+ - date_published: 2024-07-20T15:44:51.769296+00:00
+
+ ## JewishGen - The Home of Jewish Genealogy
+ - [https://www.jewishgen.org](https://www.jewishgen.org)
+ - date_published: 2024-08-18T18:27:32.508852+00:00
+
+ ## Home - Jewish Journal
+ - [https://jewishjournal.org](https://jewishjournal.org)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## Welcome to nginx!
+ - [http://www.jewish-languages.org](http://www.jewish-languages.org)
+ - date_published: 2024-05-01T17:40:27+00:00
+
+ ## Jewish Languages
+ - [https://www.jewishlanguages.org](https://www.jewishlanguages.org)
+ - date_published: 2024-06-30T07:23:40.747277+00:00
+
+ ## Jewish Virtual Library
+ - [http://www.jewishvirtuallibrary.org](http://www.jewishvirtuallibrary.org)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Online Actions
+ - [https://act.jewishvoiceforpeace.org](https://act.jewishvoiceforpeace.org)
+ - date_published: 2024-07-15T09:57:35.461419+00:00
+
+ ## Home - JVP
+ - [https://jewishvoiceforpeace.org](https://jewishvoiceforpeace.org)
+ - date_published: 2024-02-23T15:58:28+00:00
+
+ ## Naujienų skyrius – Pastarųjų Dienų Šventųjų Jėzaus Kristaus Bažnyčia
+ - [https://naujienos.jezauskristausbaznycia.org](https://naujienos.jezauskristausbaznycia.org)
+ - date_published: 2024-05-11T09:02:00.577822+00:00
+
+ ## Aktuālās ziņas - Pēdējo Dienu Svēto Jēzus Kristus Baznīca
+ - [https://jaunumi.jezuskristusbaznica.org](https://jaunumi.jezuskristusbaznica.org)
+ - date_published: 2024-05-11T09:03:00.467559+00:00
+
+ ## Sajtószoba - Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza
+ - [https://hirek.jezuskrisztusegyhaza.org](https://hirek.jezuskrisztusegyhaza.org)
+ - date_published: 2024-05-11T09:04:06.986956+00:00
+
+ ## Justice Federal Credit Union
+ - [https://jfcu.org](https://jfcu.org)
+ - date_published: 2024-02-13T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://mydigital.jfcu.org](https://mydigital.jfcu.org)
+ - date_published: 2024-07-10T05:21:28.568728+00:00
+
+ ## Justice Federal Credit Union
+ - [https://www.jfcufoundation.org](https://www.jfcufoundation.org)
+ - date_published: 2024-05-30T17:48:15+00:00
+
+ ## web.jfet.org
+ - [https://web.jfet.org](https://web.jfet.org)
+ - date_published: 2023-10-25T21:33:43.509595+00:00
+
+ ## Home | Jewish Film Institute
+ - [https://jfi.org](https://jfi.org)
+ - date_published: 2024-06-24T06:02:11.339427+00:00
+
+ ## This is a placeholder for your homepage
+ - [http://blog.jfitzsimons.org](http://blog.jfitzsimons.org)
+ - date_published: 2024-10-19T07:46:53.082967+00:00
+
+ ## Homepage | The Sixth Floor Museum at Dealey Plaza
+ - [https://www.jfk.org](https://www.jfk.org)
+ - date_published: 2024-07-09T16:41:17+00:00
+
+ ## JFK 50 Mile
+ - [http://jfk50mile.org](http://jfk50mile.org)
+ - date_published: 2024-10-31T22:11:07+00:00
+
+ ## Home
+ - [https://www.jfklibrary.org](https://www.jfklibrary.org)
+ - date_published: 2024-08-18T18:00:30+00:00
+
+ ## HOME - Jewish Family Service of Greater Dallas
+ - [https://jfsdallas.org](https://jfsdallas.org)
+ - date_published: 2024-02-22T00:00:00+00:00
+
  ## John Graham-Cumming's blog
  - [https://blog.jgc.org](https://blog.jgc.org)
  - date_published: 2023-10-25T21:33:49.105192+00:00
@@ -3925,136 +4059,4 @@ Hosted by Panix.com.
  ## Khan Academy | Gratis nettbaserte kurs, leksjoner og oppgaver
  - [https://nb.khanacademy.org](https://nb.khanacademy.org)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen
- - [https://nl.khanacademy.org](https://nl.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ଖାନ୍ ଏକାଡେମୀ | ମାଗଣା ଅନଲାଇନ୍ କୋର୍ସ, ପାଠ ଓ ଅଭ୍ୟାସ
- - [https://or.khanacademy.org](https://or.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## ਖਾਨ ਅਕੈਡਮੀ | ਮੁਫ਼ਤ ਆਨਲਾਈਨ ਕੋਰਸ, ਪਾਠ ਅਤੇ ਅਭਿਆਸ
- - [https://pa.khanacademy.org](https://pa.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Darmowe kursy, lekcje i ćwiczenia online
- - [https://pl.khanacademy.org](https://pl.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Cursos, aulas e prática on-line gratuitos
- - [https://pt.khanacademy.org](https://pt.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Gratuit cursuri online, lecții și aplicații
- - [https://ro.khanacademy.org](https://ro.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Академия Хана | Бесплатные курсы, уроки и практика онлайн
- - [https://ru.khanacademy.org](https://ru.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Free Online Courses, Lessons & Practice
- - [https://sgn-us.khanacademy.org](https://sgn-us.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Кхан Академија | Бесплатни онлајн курсеви, лекције и вежбе
- - [https://sr.khanacademy.org](https://sr.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## கான் அகாடமி | இலவச இணையதள படிப்புகள், பாடங்கள் & பயிற்சி
- - [https://ta.khanacademy.org](https://ta.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Ücretsiz Online Dersler, Videolar ve Alıştırmalar
- - [https://tr.khanacademy.org](https://tr.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Академія Хана | Безкоштовні онлайн-курси, уроки та практика
- - [https://uk.khanacademy.org](https://uk.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## خان اکیڈیمی | Free Online Courses, Lessons & Practice
- - [https://ur.khanacademy.org](https://ur.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Bepul onlayn kurslar, darslar va amaliy mashgʻulotlar
- - [https://uz.khanacademy.org](https://uz.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Khan Academy | Các khóa học, bài học và bài tập thực hành trực tuyến, miễn phí
- - [https://vi.khanacademy.org](https://vi.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## 可汗学院 | 免费在线课程, 讲解以及练习
- - [https://zh.khanacademy.org](https://zh.khanacademy.org)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Kharkiv.js | Javascript conference | Ukrainian Javascript Community
- - [http://kharkivjs.org](http://kharkivjs.org)
- - date_published: 2022-03-12T11:28:51+00:00
-
- ## 13 БРИГАДА НГУ "ХАРТІЯ"
- - [https://khartiia.org](https://khartiia.org)
- - date_published: 2024-10-19T22:48:10.848994+00:00
-
- ## KHEN LP 106.9
- - [http://khen.org](http://khen.org)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## KHJK
- - [https://www.khjk.org](https://www.khjk.org)
- - date_published: 2020-06-10T19:47:29+00:00
-
- ## Attention Required! | Cloudflare
- - [http://khmerstudies.org](http://khmerstudies.org)
- - date_published: 2024-06-24T10:33:27.619023+00:00
-
- ## KFF Health News
- - [https://khn.org](https://khn.org)
- - date_published: 2024-05-08T09:17:47.682811+00:00
-
- ## Документування воєнних злочинів
- - [https://callback.khpg.org](https://callback.khpg.org)
- - date_published: 2024-05-08T09:17:59.154268+00:00
-
- ## Підтримати діяльність Харківської правозахисної групи
- - [https://donate.khpg.org](https://donate.khpg.org)
- - date_published: 2024-05-08T09:17:55.514067+00:00
-
- ## Правова Допомога
- - [https://help.khpg.org](https://help.khpg.org)
- - date_published: 2024-05-08T09:17:57.370672+00:00
-
- ## Права людини в Україні — сайт Харківської правозахисної групи
- - [https://khpg.org](https://khpg.org)
- - date_published: 2023-12-19T08:14:20.221086+00:00
-
- ## Довідник юриста
- - [https://lawyer.khpg.org](https://lawyer.khpg.org)
- - date_published: 2024-05-08T09:18:03.588344+00:00
-
- ## Бібліотека - Права Людини - онлайн-бібліотека
- - [http://library.khpg.org](http://library.khpg.org)
- - date_published: 2024-07-07T04:27:13.837169+00:00
-
- ## Гаряча лінія з пошуку зниклих безвісти.  Харківськоа правозахисна група
- - [https://missing.khpg.org](https://missing.khpg.org)
- - date_published: 2024-05-08T09:18:04.994943+00:00
-
- ## Дисидентський рух в Україні
- - [https://museum.khpg.org](https://museum.khpg.org)
- - date_published: 2024-05-08T09:17:53.966293+00:00
-
- ## ПРОТИ КАТУВАНЬ
- - [http://pk.khpg.org](http://pk.khpg.org)
- - date_published: 2024-07-07T04:27:11.901284+00:00
-
- ## Право на приватність
- - [https://privacy.khpg.org](https://privacy.khpg.org)
- - date_published: 2024-05-08T09:17:58.371280+00:00
-
- ## Історії свавільно засуджених
- - [https://stories.khpg.org](https://stories.khpg.org)
- - date_published: 2021-07-04T10:22:53+00:00
 

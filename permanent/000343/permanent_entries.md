@@ -1,3 +1,141 @@
+ ## Sorcerer's Place - Baldur's Gate 3 FAQ, RPG News, Walkthrough, Guide, Mods, Hacks, Cheats, Icewind Dale, Neverwinter Nights, Dragon Age, Wizardry
+ - [https://sorcerers.net](https://sorcerers.net)
+ - date_published: 1999-10-25T11:18:08+00:00
+ - tags: ['dungeons and dragons', "baldur's gate", 'video game news']
+
+ ## Kel McDonald Comics
+ - [https://sorcery101.net](https://sorcery101.net)
+ - date_published: 2024-05-11T10:32:06.157799+00:00
+
+ ## Imagibyte
+ - [https://www-dainiktribuneonline-com.imagibyte.sortdcdn.net](https://www-dainiktribuneonline-com.imagibyte.sortdcdn.net)
+ - date_published: 2024-07-09T12:32:02.579052+00:00
+
+ ## SoulGen: Free AI Magic Tool to Create Art from Text Online
+ - [https://www.soulgen.net](https://www.soulgen.net)
+ - date_published: 2024-10-30T08:25:18.666071+00:00
+
+ ## a flash of light and a distant boom
+ - [http://blog.soulshake.net](http://blog.soulshake.net)
+ - date_published: 2023-01-16T16:12:43+00:00
+ - tags: ['personal']
+
+ ## Sound Programming
+ - [https://soundprogramming.net](https://soundprogramming.net)
+ - date_published: 2024-09-04T00:00:00+00:00
+
+ ## SouqCairo
+ - [https://souqcairo.net](https://souqcairo.net)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Advance Projects
+ - [http://advancemame.sourceforge.net](http://advancemame.sourceforge.net)
+ - date_published: 2024-02-11T14:44:49+00:00
+
+ ## AutoHotkey 中文化项目
+ - [https://ahkcn.sourceforge.net](https://ahkcn.sourceforge.net)
+ - date_published: 2024-05-12T04:14:05.570004+00:00
+
+ ## Ajax3d Demo
+ - [https://ajax3d.sourceforge.net](https://ajax3d.sourceforge.net)
+ - date_published: 2007-03-01T01:05:30+00:00
+
+ ## Allegro game programming library
+ - [http://alleg.sourceforge.net](http://alleg.sourceforge.net)
+ - date_published: 2015-03-17T00:00:00+00:00
+
+ ## AmigaOne Linux Kernel Project - Home Page
+ - [http://amigaone-linux.sourceforge.net](http://amigaone-linux.sourceforge.net)
+ - date_published: 2024-07-14T12:02:26.756852+00:00
+
+ ## Amiga
+ - [http://amiga.sourceforge.net](http://amiga.sourceforge.net)
+ - date_published: 2019-10-07T00:00:00+00:00
+
+ ## AmiTwitter
+ - [http://amitwitter.sourceforge.net](http://amitwitter.sourceforge.net)
+ - date_published: 2011-11-10T00:00:00+00:00
+
+ ## Ada PDF Writer
+ - [http://apdf.sourceforge.net](http://apdf.sourceforge.net)
+ - date_published: 2023-11-26T10:22:08+00:00
+
+ ## Best Open Source Linux  Software 2024
+ - [https://apps.sourceforge.net](https://apps.sourceforge.net)
+ - date_published: 2024-05-06T12:57:01.705252+00:00
+ - tags: ['open source']
+
+ ## ArcEm - The Acorn Archimedes Emulator
+ - [https://arcem.sourceforge.net](https://arcem.sourceforge.net)
+ - date_published: 2017-04-16T19:43:50+00:00
+ - tags: ['open source', 'emulator']
+
+ ## Ard-Reil: Anacreon Reconstruction Project
+ - [https://ardreil.sourceforge.net](https://ardreil.sourceforge.net)
+ - date_published: 2024-05-09T08:57:51.515570+00:00
+
+ ## argtable - ANSI C command line parser
+ - [http://argtable.sourceforge.net](http://argtable.sourceforge.net)
+ - date_published: 2012-09-22T10:21:14+00:00
+
+ ## Armadillo: C++ library for linear algebra & scientific computing
+ - [https://arma.sourceforge.net](https://arma.sourceforge.net)
+ - date_published: 2023-03-09T02:46:31+00:00
+
+ ## J
+ - [http://armedbear-j.sourceforge.net](http://armedbear-j.sourceforge.net)
+ - date_published: 2010-04-11T00:00:00+00:00
+
+ ## AROS Research Operating System
+ - [https://aros.sourceforge.net](https://aros.sourceforge.net)
+ - date_published: 2023-11-02T09:53:42.231278+00:00
+ - tags: ['amiga', 'operating system']
+
+ ## Artha
+ - [http://artha.sourceforge.net](http://artha.sourceforge.net)
+ - date_published: 2023-10-25T00:00:00+00:00
+
+ ## ASAP
+ - [https://asap.sourceforge.net](https://asap.sourceforge.net)
+ - date_published: 2024-03-09T11:00:21+00:00
+
+ ## Atomiks - A remake of the Atomix puzzle game
+ - [https://atomiks.sourceforge.net](https://atomiks.sourceforge.net)
+ - date_published: 2024-05-09T09:00:35.311070+00:00
+
+ ## Audacity
+ - [http://audacity.sourceforge.net](http://audacity.sourceforge.net)
+ - date_published: 2023-01-02T00:00:00+00:00
+
+ ## audiere | home
+ - [https://audiere.sourceforge.net](https://audiere.sourceforge.net)
+ - date_published: 2024-05-08T11:16:34.171370+00:00
+
+ ## AudioSlicer - Chop up your MP3 files the easy way
+ - [https://audioslicer.sourceforge.net](https://audioslicer.sourceforge.net)
+ - date_published: 2006-12-04T19:16:03+00:00
+
+ ## AutoIndex PHP Script (Website Directory Indexer)
+ - [http://autoindex.sourceforge.net](http://autoindex.sourceforge.net)
+ - date_published: 2024-07-17T11:40:47.401513+00:00
+
+ ## Avidemux - Main Page
+ - [https://avidemux.sourceforge.net](https://avidemux.sourceforge.net)
+ - date_published: 2022-09-23T06:27:05+00:00
+ - tags: ['video editor']
+
+ ## AWBot - Free web site/application tester (GNU GPL).
+ - [http://awbot.sourceforge.net](http://awbot.sourceforge.net)
+ - date_published: 2005-10-22T00:00:00+00:00
+
+ ## Bengali on Linux
+ - [http://bengalinux.sourceforge.net](http://bengalinux.sourceforge.net)
+ - date_published: 2024-10-18T06:07:42.696518+00:00
+
+ ## Bicycle Repair Man!
+ - [http://bicyclerepair.sourceforge.net](http://bicyclerepair.sourceforge.net)
+ - date_published: 2006-10-09T13:43:27+00:00
+
  ## Justin Bieber Linux
  - [https://biebian.sourceforge.net](https://biebian.sourceforge.net)
  - date_published: 2019-03-08T05:03:15+00:00
@@ -3926,137 +4064,4 @@ Ocean's Eleven fanlisting
  ## Help us remove 30 million pounds of trash by January 1st, 2022 - Join #TeamSeas
  - [https://assets06.teamassets.net](https://assets06.teamassets.net)
  - date_published: 2024-06-06T15:28:55+00:00
-
- ## Help us remove 30 million pounds of trash by January 1st, 2022 - Join #TeamSeas
- - [https://assets07.teamassets.net](https://assets07.teamassets.net)
- - date_published: 2024-06-06T15:28:55+00:00
-
- ## Help us remove 30 million pounds of trash by January 1st, 2022 - Join #TeamSeas
- - [https://assets08.teamassets.net](https://assets08.teamassets.net)
- - date_published: 2024-06-06T15:28:55+00:00
-
- ## Help us remove 30 million pounds of trash by January 1st, 2022 - Join #TeamSeas
- - [https://assets09.teamassets.net](https://assets09.teamassets.net)
- - date_published: 2024-06-06T15:28:55+00:00
-
- ## Help us remove 30 million pounds of trash by January 1st, 2022 - Join #TeamSeas
- - [https://assets10.teamassets.net](https://assets10.teamassets.net)
- - date_published: 2024-06-06T15:28:55+00:00
-
- ## blog - english -
- - [https://blog.teaming.net](https://blog.teaming.net)
- - date_published: 2024-07-03T06:29:04.998970+00:00
-
- ## Teaming - 1€/month micro donations
- - [https://teaming.net](https://teaming.net)
- - date_published: 2024-05-08T00:38:30.751430+00:00
-
- ## Teampass.net
- - [https://teampass.net](https://teampass.net)
- - date_published: 2023-11-01T10:38:52+00:00
-
- ## Index of /
- - [http://www.teamreaction.net](http://www.teamreaction.net)
- - date_published: 2022-01-23T00:00:00+00:00
-
- ## Image and Video Upload, Storage, Optimization and CDN
- - [https://images.teamshirts.net](https://images.teamshirts.net)
- - date_published: 2024-10-21T09:04:02.780361+00:00
-
- ## T-Shirt Printing - Personalised & Printed Clothing | TeamShirts
- - [https://www.teamshirts.net](https://www.teamshirts.net)
- - date_published: 2024-10-21T09:04:09.636683+00:00
-
- ## Team Yu
- - [https://teamyu.net](https://teamyu.net)
- - date_published: 2024-10-25T17:50:45+00:00
-
- ## TechBeat
- - [https://www.techbeat.net](https://www.techbeat.net)
- - date_published: 2023-02-01T10:21:02+00:00
-
- ## ChevyCruze.org – Technical knowledge, repair guides, custom parts & more!
- - [http://vps.techedison.net](http://vps.techedison.net)
- - date_published: 2024-06-27T14:46:35.978092+00:00
-
- ## TechJury - Tech Insights, Reports And Analysis
- - [https://techjury.net](https://techjury.net)
- - date_published: 2024-08-25T22:13:48+00:00
-
- ## We create unforgettable experiences • Techland
- - [https://store.techland.net](https://store.techland.net)
- - date_published: 2024-05-01T07:58:51.064334+00:00
-
- ## We create unforgettable experiences
- - [https://techland.net](https://techland.net)
- - date_published: 2023-10-30T18:26:25.030539+00:00
- - tags: ['video game developer', 'company']
-
- ## Techlatest
- - [https://techlatest.net](https://techlatest.net)
- - date_published: 2024-08-30T06:57:16+00:00
-
- ## 株式会社テクノコア - TechnoCore
- - [https://techno-core.net](https://techno-core.net)
- - date_published: 2024-06-06T07:05:27+00:00
-
- ## テクノエッジ TechnoEdge
- - [https://www.techno-edge.net](https://www.techno-edge.net)
- - date_published: 2024-06-20T01:31:43.223694+00:00
-
- ## University of Idaho - Offering top-ranked programs in the Northwest
- - [https://futurevandals-uidaho-edu.cdn.technolutions.net](https://futurevandals-uidaho-edu.cdn.technolutions.net)
- - date_published: 2024-09-28T19:32:23.478345+00:00
-
- ## Technolutions
- - [https://fw.cdn.technolutions.net](https://fw.cdn.technolutions.net)
- - date_published: 2024-09-28T19:32:25.438573+00:00
-
- ## Technolutions
- - [https://slate-technolutions-net.cdn.technolutions.net](https://slate-technolutions-net.cdn.technolutions.net)
- - date_published: 2024-09-28T19:33:04.165186+00:00
-
- ## Admission & Aid
- - [https://whi.test.technolutions.net](https://whi.test.technolutions.net)
- - date_published: 2024-07-02T14:17:11.297033+00:00
-
- ## Darner Media - Domain parking
- - [http://www.de.technomages.net](http://www.de.technomages.net)
- - date_published: 2023-06-06T21:03:38+00:00
-
- ## Techno Wizardry
- - [https://www.technowizardry.net](https://www.technowizardry.net)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## TechPocket
- - [https://www.techpocket.net](https://www.techpocket.net)
- - date_published: 2024-11-08T00:51:59+00:00
-
- ## TechRaptor - Gaming News and Reviews
- - [https://techraptor.net](https://techraptor.net)
- - date_published: 2023-10-25T10:50:24.885098+00:00
-
- ## Tech Savvy Women - JJ DiGeronimo
- - [http://www.techsavvywomen.net](http://www.techsavvywomen.net)
- - date_published: 2023-10-14T15:31:02+00:00
-
- ## TechTrail
- - [https://www.techtrail.net](https://www.techtrail.net)
- - date_published: 2024-10-29T18:34:23.629434+00:00
-
- ## Dernières Nouvelles Technologiques - Tech Tribune France
- - [https://fr.techtribune.net](https://fr.techtribune.net)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## TechViral - Viral Tech Arena
- - [https://techviral.net](https://techviral.net)
- - date_published: 2024-09-26T17:13:45+00:00
-
- ## Industry Insider: Reporting California's Government Technology Market
- - [https://www.techwire.net](https://www.techwire.net)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Techworm - The Tech Hub
- - [https://techworm.net](https://techworm.net)
- - date_published: 2023-10-25T20:38:30.945323+00:00
 

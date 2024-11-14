@@ -1,3 +1,115 @@
+ ## Fantom Insights
+ - [https://blog.fantom.foundation](https://blog.fantom.foundation)
+ - date_published: 2024-06-26T08:29:20.366580+00:00
+
+ ## Developer Documentation | Fantom
+ - [https://docs.fantom.foundation](https://docs.fantom.foundation)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Home
+ - [https://fantom.foundation](https://fantom.foundation)
+ - date_published: 2024-06-04T04:58:37+00:00
+
+ ## Fedihosting Foundation Home Page
+ - [https://fedihosting.foundation](https://fedihosting.foundation)
+ - date_published: 2024-05-02T13:41:13.761779+00:00
+
+ ## Fediverse Foundation Environment
+ - [https://status.fediverse.foundation](https://status.fediverse.foundation)
+ - date_published: 2024-08-18T16:39:11.136735+00:00
+
+ ## Home
+ - [https://fetchai.foundation](https://fetchai.foundation)
+ - date_published: 2024-08-29T16:18:18+00:00
+
+ ## Gear Academy
+ - [https://academy.gear.foundation](https://academy.gear.foundation)
+ - date_published: 2024-09-21T23:35:45.956072+00:00
+
+ ## Gear Foundation | Crypto. Smarter.
+ - [https://gear.foundation](https://gear.foundation)
+ - date_published: 2024-06-16T03:35:12.709461+00:00
+
+ ## Gear Whitepaper
+ - [https://whitepaper.gear.foundation](https://whitepaper.gear.foundation)
+ - date_published: 2024-07-12T13:36:52+00:00
+
+ ## The most advanced responsive front-end framework in the world. | Foundation
+ - [https://get.foundation](https://get.foundation)
+ - date_published: 2024-06-20T22:15:04.383664+00:00
+
+ ## Godot Foundation
+ - [https://godot.foundation](https://godot.foundation)
+ - date_published: 2024-07-11T14:36:43+00:00
+
+ ## Golem Foundation – enriching the Golem ecosystem
+ - [https://golem.foundation](https://golem.foundation)
+ - date_published: 2024-09-11T13:54:43+00:00
+
+ ## Green Software Champions
+ - [https://champions.greensoftware.foundation](https://champions.greensoftware.foundation)
+ - date_published: 2024-06-06T10:31:49+00:00
+
+ ## Green Software Foundation
+ - [https://greensoftware.foundation](https://greensoftware.foundation)
+ - date_published: 2024-04-29T23:33:56.408358+00:00
+
+ ## Welcome | Learn Green Software
+ - [https://learn.greensoftware.foundation](https://learn.greensoftware.foundation)
+ - date_published: 2024-07-22T11:16:03+00:00
+
+ ## Software Carbon Intensity (SCI) Specification
+ - [https://sci.greensoftware.foundation](https://sci.greensoftware.foundation)
+ - date_published: 2024-05-09T15:41:45+00:00
+
+ ## Haskell Foundation
+ - [https://haskell.foundation](https://haskell.foundation)
+ - date_published: 2023-10-25T19:14:11.510664+00:00
+
+ ## Helium Foundation
+ - [https://www.helium.foundation](https://www.helium.foundation)
+ - date_published: 2024-06-16T04:32:22.791352+00:00
+
+ ## Yayasan Humanis Inovasi Sosial
+ - [https://hsi.foundation](https://hsi.foundation)
+ - date_published: 2024-09-05T00:00:00+00:00
+
+ ## ICPC Foundation |
+ - [https://icpc.foundation](https://icpc.foundation)
+ - date_published: 2024-07-03T10:32:45.225409+00:00
+
+ ## Decentralized Identity Foundation - Blog
+ - [https://blog.identity.foundation](https://blog.identity.foundation)
+ - date_published: 2024-05-01T03:56:09.894225+00:00
+
+ ## DIF - Decentralized Identity Foundation
+ - [https://identity.foundation](https://identity.foundation)
+ - date_published: 2024-04-30T02:26:56.638789+00:00
+
+ ## main lists.identity.foundation Group
+ - [https://lists.identity.foundation](https://lists.identity.foundation)
+ - date_published: 2024-07-22T11:23:03.448241+00:00
+
+ ## Universal Resolver
+ - [https://resolver.identity.foundation](https://resolver.identity.foundation)
+ - date_published: 2024-02-19T20:14:23+00:00
+
+ ## IOTA Ecosystem DLT Foundation
+ - [https://iotadlt.foundation](https://iotadlt.foundation)
+ - date_published: 2024-07-27T17:25:46.502307+00:00
+
+ ## Jeffrey Cheah Foundation | Nurturing the Seeds of Wisdom
+ - [https://jeffreycheah.foundation](https://jeffreycheah.foundation)
+ - date_published: 2024-09-23T13:49:23.983952+00:00
+
+ ## A safe and modern home for JavaScript technologies | OpenJS Foundation
+ - [https://js.foundation](https://js.foundation)
+ - date_published: 2024-06-23T03:53:38.969683+00:00
+
+ ## Khalili Foundation
+ - [https://khalili.foundation](https://khalili.foundation)
+ - date_published: 2024-06-05T00:00:00+00:00
+
  ## Klaytn Foundation | A sustainable and verifiable blockchain built for all
  - [https://klaytn.foundation](https://klaytn.foundation)
  - date_published: 2024-07-09T11:34:22.013321+00:00
@@ -3896,116 +4008,4 @@
  ## Le Courrier des maires : l'actualité pour les élus locaux
  - [http://www.courrierdesmaires.fr](http://www.courrierdesmaires.fr)
  - date_published: 2024-10-31T16:54:18.931906+00:00
-
- ## Cours Galien : La prépa d'excellence à la 1ère année de médecine
- - [https://cours-galien.fr](https://cours-galien.fr)
- - date_published: 2024-07-03T05:33:31.032598+00:00
-
- ## Courtier en ligne : Crédits, Immobilier, Assurance - Courtier.fr
- - [https://courtier.fr](https://courtier.fr)
- - date_published: 2024-06-15T01:15:35+00:00
-
- ## CPCRULEZ > AMSTRAD CPC > ACTUALITÉS AMSTRAD CPC : C'est nouveau, ça vient de sortir ...
- - [https://cpcrulez.fr](https://cpcrulez.fr)
- - date_published: 2024-07-02T23:58:47.511868+00:00
-
- ## CPE Lyon | Ecole d'ingénieur en Chimie et Sciences du Numérique - école ingénieur Lyon - prépa ingénieur - école d'ingénieur chimie - école d'ingénieur informatique
- - [https://www.cpe.fr](https://www.cpe.fr)
- - date_published: 2024-06-30T18:15:05+00:00
-
- ## Confédération des petites et moyennes entreprises | CPME
- - [https://cpme.fr](https://cpme.fr)
- - date_published: 2024-05-08T00:14:52.653513+00:00
-
- ## CPPAP
- - [http://www.cppap.fr](http://www.cppap.fr)
- - date_published: 2024-06-20T04:44:24.660625+00:00
-
- ## CPPP Conference
- - [https://cppp.fr](https://cppp.fr)
- - date_published: 2021-11-30T10:41:55+00:00
-
- ## Accueil - CORSAIRE Production
- - [https://www.c-prod.fr](https://www.c-prod.fr)
- - date_published: 2024-07-08T19:35:39.187695+00:00
-
- ## CRASH SERVER - Post Mayhem Livecoding Music
- - [https://crashserver.fr](https://crashserver.fr)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Jeux gratuits en ligne sur CrazyGames | Joue maintenant !
- - [https://crazygames.fr](https://crazygames.fr)
- - date_published: 2024-05-08T06:50:48.254628+00:00
-
- ## CRDF Labs: Homepage
- - [https://crdf.fr](https://crdf.fr)
- - date_published: 2024-01-02T10:30:15+00:00
-
- ## CRDF Threat Center: Homepage / List of malicious URLs detected by CRDF Labs
- - [https://threatcenter.crdf.fr](https://threatcenter.crdf.fr)
- - date_published: 2024-07-02T22:11:29+00:00
-
- ## Commission de régulation de l'énergie
- - [https://www.cre.fr](https://www.cre.fr)
- - date_published: 2024-10-17T17:27:03.938729+00:00
-
- ## Accueil - Créacoop14 | Création entreprise à Caen
- - [https://www.creacoop14.fr](https://www.creacoop14.fr)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Organisateur de mariage Occitanie CREALINE wedding planner Montpellier devis prix tarif
- - [https://www.crealine-et-cie.fr](https://www.crealine-et-cie.fr)
- - date_published: 2024-07-03T06:30:59+00:00
-
- ## Prêt immobilier 100% en ligne
- - [https://e-immobilier.credit-agricole.fr](https://e-immobilier.credit-agricole.fr)
- - date_published: 2024-05-02T10:13:53.875125+00:00
-
- ## J'écorénove mon logement - Crédit Agricole
- - [https://j-ecorenove.credit-agricole.fr](https://j-ecorenove.credit-agricole.fr)
- - date_published: 2024-10-19T11:19:43.876265+00:00
-
- ## Assurances : protéger vos biens et vos proches - Crédit Agricole
- - [https://www.assurances.credit-agricole.fr](https://www.assurances.credit-agricole.fr)
- - date_published: 2024-10-19T11:20:26.448447+00:00
-
- ## Banque & Assurances - Crédit Agricole
- - [https://www.credit-agricole.fr](https://www.credit-agricole.fr)
- - date_published: 2024-06-17T14:19:28+00:00
-
- ## Crédit Mutuel
- - [https://www.creditmutuel.fr](https://www.creditmutuel.fr)
- - date_published: 2024-10-29T09:11:10.597100+00:00
-
- ## Bienvenue sur le site institutionnel | Crédit Mutuel Alliance Fédérale
- - [https://www.creditmutuelalliancefederale.fr](https://www.creditmutuelalliancefederale.fr)
- - date_published: 2024-07-03T05:04:55.533172+00:00
-
- ## Rédigez votre business plan gratuitement
- - [https://www.creer-mon-business-plan.fr](https://www.creer-mon-business-plan.fr)
- - date_published: 2024-10-28T18:55:59+00:00
-
- ## CREM-CNRS - Sound archives of the CNRS and the Musee de l'Homme. Research Centre of Ethnomusicology (CREM), University of Paris 10
- - [https://archives.crem-cnrs.fr](https://archives.crem-cnrs.fr)
- - date_published: 2024-07-09T14:16:08.070287+00:00
-
- ## Cre'Online Affiliation
- - [https://go.creonline-affiliation.fr](https://go.creonline-affiliation.fr)
- - date_published: 2024-09-15T19:56:54.533485+00:00
-
- ## Tous les ouvrages numériques et papiers des éditions CRER
- - [https://editions.crer-bayard.fr](https://editions.crer-bayard.fr)
- - date_published: 2024-10-18T23:22:28.661601+00:00
-
- ## Conférence régionale des grandes écoles - CRGE Hauts-de-France
- - [https://www.crgehautsdefrance.fr](https://www.crgehautsdefrance.fr)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## CRIMIC : Centre de Recherches Interdisciplinaires sur les Mondes Ibériques Contemporains
- - [https://crimic-sorbonne.fr](https://crimic-sorbonne.fr)
- - date_published: 2024-07-09T14:16:22.887004+00:00
-
- ## Podcasts - CRLO
- - [https://www.crlo.fr](https://www.crlo.fr)
- - date_published: 2024-07-03T06:29:26.027279+00:00
 

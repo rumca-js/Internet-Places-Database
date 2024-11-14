@@ -1,3 +1,151 @@
+ ## Character Generator
+ - [https://www.character-generator.org.uk](https://www.character-generator.org.uk)
+ - date_published: 2024-10-30T10:49:12.061055+00:00
+
+ ## Home | The Charity Commission for Northern Ireland
+ - [https://www.charitycommissionni.org.uk](https://www.charitycommissionni.org.uk)
+ - date_published: 2024-07-13T19:44:05.255554+00:00
+
+ ## Home
+ - [https://charitydigital.org.uk](https://charitydigital.org.uk)
+ - date_published: 2024-10-20T02:39:04.149891+00:00
+
+ ## The Charles Williams Society
+ - [http://charleswilliamssociety.org.uk](http://charleswilliamssociety.org.uk)
+ - date_published: 2024-06-22T00:00:00+00:00
+
+ ## Childline | Childline
+ - [https://www.childline.org.uk](https://www.childline.org.uk)
+ - date_published: 2024-07-12T16:22:18.042573+00:00
+
+ ## Choose My Police and Crime Commissioner - Information from the UK Government
+ - [https://choosemypcc.org.uk](https://choosemypcc.org.uk)
+ - date_published: 2024-05-06T16:31:10.412403+00:00
+
+ ## Christian Aid - UK charity fighting global poverty - Christian Aid
+ - [http://www.christianaid.org.uk](http://www.christianaid.org.uk)
+ - date_published: 2024-10-21T10:18:25.407026+00:00
+
+ ## CHS Group Charitable Housing Association Cambridgeshire
+ - [https://www.chsgroup.org.uk](https://www.chsgroup.org.uk)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Church and State
+ - [http://churchandstate.org.uk](http://churchandstate.org.uk)
+ - date_published: 2024-06-28T20:07:59+00:00
+
+ ## Webmate Maintenance
+ - [http://www.churchill-society-london.org.uk](http://www.churchill-society-london.org.uk)
+ - date_published: 2021-08-06T16:22:40+00:00
+
+ ## CIHT home
+ - [http://www.ciht.org.uk](http://www.ciht.org.uk)
+ - date_published: 2024-09-16T06:15:49.140622+00:00
+
+ ## CILIP: the library and information association
+ - [https://cilip.org.uk](https://cilip.org.uk)
+ - date_published: 2024-05-07T23:40:42.839324+00:00
+
+ ## CILIP | Online Registered User Services
+ - [https://practitioners.cilip.org.uk](https://practitioners.cilip.org.uk)
+ - date_published: 2024-07-02T22:36:23.896630+00:00
+
+ ## CILIP Conference 2024
+ - [https://cilipconference.org.uk](https://cilipconference.org.uk)
+ - date_published: 2024-07-02T22:42:40.713779+00:00
+
+ ## Citizens Advice
+ - [https://www.citizensadvice.org.uk](https://www.citizensadvice.org.uk)
+ - date_published: 2024-07-22T10:33:40.746294+00:00
+
+ ## City of Birmingham Choir
+ - [https://www.citychoir.org.uk](https://www.citychoir.org.uk)
+ - date_published: 2024-05-02T11:42:18.077604+00:00
+
+ ## Food charity - City Harvest
+ - [https://cityharvest.org.uk](https://cityharvest.org.uk)
+ - date_published: 2024-10-29T14:46:05.074475+00:00
+
+ ## Welcome to Civitas: Institute for the Study of Civil Society
+ - [http://www.civitas.org.uk](http://www.civitas.org.uk)
+ - date_published: 2024-06-28T18:49:10.742166+00:00
+
+ ## Our mission is to end factory farming
+ - [https://www.ciwf.org.uk](https://www.ciwf.org.uk)
+ - date_published: 2024-10-23T05:42:32.232281+00:00
+
+ ## SportQuestion.com
+ - [http://www.clubmark.org.uk](http://www.clubmark.org.uk)
+ - date_published: 2024-06-18T10:57:36.621050+00:00
+
+ ## Home
+ - [https://www.coachingfederation.org.uk](https://www.coachingfederation.org.uk)
+ - date_published: 2024-09-16T23:30:17.558037+00:00
+
+ ## Home
+ - [https://coastalpartners.org.uk](https://coastalpartners.org.uk)
+ - date_published: 2024-08-19T16:12:15.703117+00:00
+
+ ## Cobseo - The Confederation of Service Charities
+ - [http://www.cobseo.org.uk](http://www.cobseo.org.uk)
+ - date_published: 2024-10-21T15:49:25.358502+00:00
+
+ ## The Code Club Blog
+ - [https://blog.codeclub.org.uk](https://blog.codeclub.org.uk)
+ - date_published: 2024-07-04T17:30:33.765426+00:00
+
+ ## Code Club
+ - [https://codeclub.org.uk](https://codeclub.org.uk)
+ - date_published: 2024-05-08T07:06:14.261179+00:00
+
+ ## WW II Codes and Ciphers
+ - [https://codesandciphers.org.uk](https://codesandciphers.org.uk)
+ - date_published: 2020-09-09T17:58:54+00:00
+
+ ## Diocese of Guildford
+ - [https://cofeguildford.org.uk](https://cofeguildford.org.uk)
+ - date_published: 2024-10-17T12:41:41.172917+00:00
+
+ ## Coffee Cranks Co-operative
+ - [https://www.coffeecrankscoop.org.uk](https://www.coffeecrankscoop.org.uk)
+ - date_published: 2019-03-14T14:07:30+00:00
+
+ ## Communicating the Unthinkable - UK Cold War
+ - [https://coldwar.org.uk](https://coldwar.org.uk)
+ - date_published: 2020-10-15T00:00:00+00:00
+
+ ## Community Archives and Heritage Group
+ - [http://www.communityarchives.org.uk](http://www.communityarchives.org.uk)
+ - date_published: 2024-10-21T19:00:01.226316+00:00
+
+ ## Community Energy Scotland – Community Energy Scotland is a nationwide charity working with local people to help them make the most of their renewable energy resources
+ - [http://www.communityenergyscotland.org.uk](http://www.communityenergyscotland.org.uk)
+ - date_published: 2024-07-12T05:57:52.170317+00:00
+
+ ## Donate A Laptop | Community Techaid
+ - [https://www.communitytechaid.org.uk](https://www.communitytechaid.org.uk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Compass - Compass
+ - [http://www.compassonline.org.uk](http://www.compassonline.org.uk)
+ - date_published: 2024-10-21T11:59:30.433145+00:00
+
+ ## Home Page | Compton Verney
+ - [http://www.comptonverney.org.uk](http://www.comptonverney.org.uk)
+ - date_published: 2024-06-24T09:23:21.379064+00:00
+
+ ## Computing at School (CAS) Home Page.
+ - [https://computingatschool.org.uk](https://computingatschool.org.uk)
+ - date_published: 2024-05-08T11:35:26.498108+00:00
+
+ ## Online Discussions
+ - [https://forum.computingatschool.org.uk](https://forum.computingatschool.org.uk)
+ - date_published: 2024-07-08T14:28:27.688032+00:00
+
+ ## The Centre for Computing History - Computer and Video Game Museum - Cambridge
+ - [https://computinghistory.org.uk](https://computinghistory.org.uk)
+ - date_published: 2024-10-17T12:47:46.785333+00:00
+
  ## Gerlyver Kernewek |
  - [http://www.cornishdictionary.org.uk](http://www.cornishdictionary.org.uk)
  - date_published: 2024-06-30T07:24:54.076932+00:00
@@ -3874,155 +4022,4 @@
  ## British Library
  - [https://bl.iro.bl.uk](https://bl.iro.bl.uk)
  - date_published: 2024-04-29T03:31:09.993706+00:00
-
- ## https://blogs.bl.uk
- - [https://blogs.bl.uk](https://blogs.bl.uk)
- - date_published: 2023-10-25T22:57:41.434749+00:00
-
- ## British Library website updates | The British Library
- - [http://bl.uk](http://bl.uk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## The British Library:  The National Library of the UK - The British Library
- - [http://bnc.bl.uk](http://bnc.bl.uk)
- - date_published: 2024-10-19T10:57:27.339558+00:00
-
- ## The British Library:  The National Library of the UK - The British Library
- - [http://cadensa.bl.uk](http://cadensa.bl.uk)
- - date_published: 2024-07-30T00:00:00+00:00
-
- ## The British Library:  The National Library of the UK - The British Library
- - [https://ethos.bl.uk](https://ethos.bl.uk)
- - date_published: 2024-05-28T00:00:00+00:00
-
- ## The British Library:  The National Library of the UK - The British Library
- - [https://explore.bl.uk](https://explore.bl.uk)
- - date_published: 2024-10-28T12:50:48+00:00
-
- ## Cultural Heritage Shared Repository Service
- - [https://iro.bl.uk](https://iro.bl.uk)
- - date_published: 2024-08-06T04:17:34.779674+00:00
-
- ## The British Library Shop
- - [https://shop.bl.uk](https://shop.bl.uk)
- - date_published: 2024-05-02T12:41:47.939293+00:00
-
- ## Support the British Library
- - [https://support.bl.uk](https://support.bl.uk)
- - date_published: 2024-05-02T12:41:59.403029+00:00
-
- ## Black Mountains College - We are teaching the Future
- - [https://blackmountainscollege.uk](https://blackmountainscollege.uk)
- - date_published: 2024-03-13T00:00:00+00:00
-
- ## Blank Canvas | RCM Charity album
- - [https://blankcanvascharity.uk](https://blankcanvascharity.uk)
- - date_published: 2024-05-02T12:12:39.873673+00:00
-
- ## Detect | Prevent | Protect | BLAZE Manufacturing Solutions
- - [https://blazeman.uk](https://blazeman.uk)
- - date_published: 2024-10-17T17:50:25.246203+00:00
-
- ## Buy Twitter(X) Followers UK & Retweets from just £1.99
- - [https://boostlikes.uk](https://boostlikes.uk)
- - date_published: 2024-04-06T00:00:00+00:00
-
- ## Xiao Han @ Vision
- - [https://brandonhan.uk](https://brandonhan.uk)
- - date_published: 2023-06-06T12:45:21+00:00
-
- ## Go to the official leaderboard
- - [https://drboard.breadcentric.uk](https://drboard.breadcentric.uk)
- - date_published: 2024-03-02T10:38:34+00:00
-
- ## Briardene Books
- - [https://briardenebooks.uk](https://briardenebooks.uk)
- - date_published: 2024-08-19T06:12:28.664795+00:00
-
- ## BrokenTV
- - [https://brokentv.uk](https://brokentv.uk)
- - date_published: 2024-08-19T16:13:40.946300+00:00
-
- ## Browndogbooks.uk
- - [https://www.browndogbooks.uk](https://www.browndogbooks.uk)
- - date_published: 2024-07-04T13:16:43.826755+00:00
-
- ## Burst Design - Bringing creative design and digital projects to life
- - [http://burstdesign.uk](http://burstdesign.uk)
- - date_published: 2024-10-20T07:25:14.912528+00:00
-
- ## UK Business Climate Hub
- - [https://businessclimatehub.uk](https://businessclimatehub.uk)
- - date_published: 2024-10-21T19:38:22.146300+00:00
-
- ## Forte
- - [https://forte.buzl.uk](https://forte.buzl.uk)
- - date_published: 2023-05-20T08:43:36+00:00
- - tags: ['music streaming', 'self-host']
-
- ## buzl.uk
- - [https://www.buzl.uk](https://www.buzl.uk)
- - date_published: 2024-09-02T02:08:20+00:00
-
- ## Cal Bryant
- - [https://calbryant.uk](https://calbryant.uk)
- - date_published: 2024-03-03T18:44:26.777032+00:00
- - tags: ['personal']
-
- ## Department of Computer Science and Technology: Cambridge Cybercrime Centre
- - [https://cambridgecybercrime.uk](https://cambridgecybercrime.uk)
- - date_published: 2024-04-29T07:16:48+00:00
-
- ## Campaign for Mathematical Sciences | Advancing the mathematical sciences for discovery, innovation and economy | Home
- - [https://www.campaignmathsci.uk](https://www.campaignmathsci.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Caolan McMahon
- - [https://caolan.uk](https://caolan.uk)
- - date_published: 2024-04-25T08:22:55+00:00
-
- ## Cell Ag UK
- - [https://www.cellag.uk](https://www.cellag.uk)
- - date_published: 2022-07-23T00:00:00+00:00
-
- ## Bristol Open 27-30 December 2024 - Chess Tournaments in Bristol
- - [https://www.chess4us.uk](https://www.chess4us.uk)
- - date_published: 2024-10-20T22:02:13.940562+00:00
-
- ## Laura Kishimoto
- - [https://chicgeek.uk](https://chicgeek.uk)
- - date_published: 2022-12-13T13:44:54+00:00
-
- ## Home - Chirag Desai
- - [https://chiragdesai.uk](https://chiragdesai.uk)
- - date_published: 2024-01-01T00:00:00+00:00
-
- ## Christian Brown - Engineering Manager - London
- - [https://christianbrown.uk](https://christianbrown.uk)
- - date_published: 2024-01-27T16:42:22.450187+00:00
-
- ## Home
- - [https://chriswales.uk](https://chriswales.uk)
- - date_published: 2024-06-01T05:06:30.192823+00:00
- - tags: ['personal']
-
- ## Chris Were's website
- - [https://chriswere.uk](https://chriswere.uk)
- - date_published: 2020-05-13T00:00:00+00:00
-
- ## Custom Domain by Bitly
- - [https://citysprint.uk](https://citysprint.uk)
- - date_published: 2024-06-15T00:55:38+00:00
-
- ## Dave Clements - British expat in Portland, OR
- - [https://dave.clements.uk](https://dave.clements.uk)
- - date_published: 2024-06-15T18:11:46.318830+00:00
-
- ## Ellie Clements
- - [https://ellie.clements.uk](https://ellie.clements.uk)
- - date_published: 2024-09-18T21:25:13.970507+00:00
-
- ## Jack Clements
- - [https://jack.clements.uk](https://jack.clements.uk)
- - date_published: 2024-09-18T21:25:13.002100+00:00
 

@@ -1,3 +1,11 @@
+ ## Zoetis
+ - [https://www2.zoetis.com.au](https://www2.zoetis.com.au)
+ - date_published: 2024-06-27T09:52:47+00:00
+
+ ## Zuleika Gold Ltd
+ - [https://zuleikagold.com.au](https://zuleikagold.com.au)
+ - date_published: 2024-09-16T22:03:12.412162+00:00
+
  ## linux.conf.au 2022 | Online, Worldwide
  - [https://linux.conf.au](https://linux.conf.au)
  - date_published: 2022-01-14T23:43:11+00:00
@@ -4015,12 +4023,4 @@ University of Technology
  ## Home - Mathematical Association of Western Australia (MAWA)
  - [http://www.mawainc.org.au](http://www.mawainc.org.au)
  - date_published: 2024-01-04T00:00:00+00:00
-
- ## MCERA – Media Centre for Education Research Australia
- - [http://www.mcera.org.au](http://www.mcera.org.au)
- - date_published: 2024-08-18T09:37:19.777789+00:00
-
- ## MOD.
- - [https://mod.org.au](https://mod.org.au)
- - date_published: 2024-01-15T00:00:00+00:00
 

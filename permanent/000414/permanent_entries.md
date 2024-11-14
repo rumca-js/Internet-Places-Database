@@ -1,3 +1,151 @@
+ ## YDB — an open source Distributed SQL Database
+ - [https://ydb.tech](https://ydb.tech)
+ - date_published: 2024-05-08T06:17:12.231560+00:00
+
+ ## polywork®️
+ - [https://polywork.yuxxeun.tech](https://polywork.yuxxeun.tech)
+ - date_published: 2024-05-10T06:59:44.636148+00:00
+
+ ## umami
+ - [https://umami.yuxxeun.tech](https://umami.yuxxeun.tech)
+ - date_published: 2024-05-10T06:59:45.641913+00:00
+
+ ## yuxxeun.
+ - [https://yuxxeun.tech](https://yuxxeun.tech)
+ - date_published: 2024-05-10T06:59:36.124076+00:00
+
+ ## Zerodha Tech Blog - Technology blog of India's largest stock broker
+ - [https://zerodha.tech](https://zerodha.tech)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Home
+ - [https://zettascale.tech](https://zettascale.tech)
+ - date_published: 2024-05-06T14:56:58.559763+00:00
+
+ ## Zuru Tech - Changing the way we build
+ - [https://zuru.tech](https://zuru.tech)
+ - date_published: 2023-10-27T12:08:43.088416+00:00
+
+ ## Automata blockchain explorer - View Automata stats
+ - [https://automata-orbit-testnet-explorer.alt.technology](https://automata-orbit-testnet-explorer.alt.technology)
+ - date_published: 2024-09-24T10:25:20.978552+00:00
+
+ ## Automata blockchain explorer | Automata
+ - [https://automata-testnet-explorer.alt.technology](https://automata-testnet-explorer.alt.technology)
+ - date_published: 2024-09-24T03:12:17.559091+00:00
+
+ ## Gmnetwork Sepolia Explorer
+ - [https://gmnetwork-testnet-explorer.alt.technology](https://gmnetwork-testnet-explorer.alt.technology)
+ - date_published: 2024-09-23T19:30:36.516851+00:00
+
+ ## hashkeychain blockchain explorer | hashkeychain
+ - [https://hashkeychain-testnet-explorer.alt.technology](https://hashkeychain-testnet-explorer.alt.technology)
+ - date_published: 2024-09-24T04:00:34.046530+00:00
+
+ ## MUSTER blockchain explorer | Blockscout
+ - [https://muster-explorer.alt.technology](https://muster-explorer.alt.technology)
+ - date_published: 2024-09-24T06:50:21.705389+00:00
+
+ ## Rollup Bridge
+ - [https://op-bridge.alt.technology](https://op-bridge.alt.technology)
+ - date_published: 2024-09-23T11:55:06.412157+00:00
+
+ ## Annoying Technology
+ - [https://annoying.technology](https://annoying.technology)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Azul Technology
+ - [https://azul.technology](https://azul.technology)
+ - date_published: 2024-05-11T10:19:25.050485+00:00
+
+ ## Backstop L2
+ - [https://backstop.technology](https://backstop.technology)
+ - date_published: 2024-07-19T00:51:06+00:00
+
+ ## Backstop L2 Testnet Bridge
+ - [https://testnet.bridge.backstop.technology](https://testnet.bridge.backstop.technology)
+ - date_published: 2024-09-05T04:02:45+00:00
+
+ ## BTC20
+ - [https://bitcoincode.technology](https://bitcoincode.technology)
+ - date_published: 2024-09-24T01:14:32.855253+00:00
+
+ ## BTC20 Smart Chain  Explorer
+ - [https://scan.bitcoincode.technology](https://scan.bitcoincode.technology)
+ - date_published: 2024-09-23T23:51:53.970944+00:00
+
+ ## Blockops - A battle-tested blockchain/web3 development company
+ - [https://blockops.technology](https://blockops.technology)
+ - date_published: 2024-06-04T06:12:26.339115+00:00
+
+ ## CARIAD – Automotive Software for Volkswagen
+ - [https://cariad.technology](https://cariad.technology)
+ - date_published: 2024-05-08T11:28:44.537269+00:00
+
+ ## Classic Computer Brochures
+ - [https://classic.technology](https://classic.technology)
+ - date_published: 2024-09-14T23:12:58.241049+00:00
+
+ ## Save the date: Oct 31 to Nov 1, 2023.
+ - [https://cosm.technology](https://cosm.technology)
+ - date_published: 2024-07-01T15:32:26.567105+00:00
+
+ ## Carter Sande
+ - [https://carter.sande.duodecima.technology](https://carter.sande.duodecima.technology)
+ - date_published: 2024-05-06T14:04:25.778125+00:00
+
+ ## DXC Technology
+ - [https://www.dxc.technology](https://www.dxc.technology)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Institute of Free Technology
+ - [https://free.technology](https://free.technology)
+ - date_published: 2024-09-21T23:59:21.655602+00:00
+
+ ## girlfriend technology
+ - [https://girlfriend.technology](https://girlfriend.technology)
+ - date_published: 2024-08-01T22:31:15+00:00
+
+ ## Gnostic Technology
+ - [https://gnostic.technology](https://gnostic.technology)
+ - date_published: 2024-03-21T21:16:46+00:00
+
+ ## the greg technology blog
+ - [https://blog.greg.technology](https://blog.greg.technology)
+ - date_published: 2024-01-02T19:55:59.856399+00:00
+
+ ## Greg Technology
+ - [https://greg.technology](https://greg.technology)
+ - date_published: 2024-05-08T00:42:45.156585+00:00
+
+ ## what is this
+ - [https://recurse.greg.technology](https://recurse.greg.technology)
+ - date_published: 2024-02-24T12:59:06+00:00
+
+ ## Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real
+ - [https://sagittarius.greg.technology](https://sagittarius.greg.technology)
+ - date_published: 2023-12-11T02:17:39+00:00
+
+ ## IDLab
+ - [https://idlab.technology](https://idlab.technology)
+ - date_published: 2024-04-29T09:52:09+00:00
+
+ ## IOP Developer Portal
+ - [https://developer.iop.technology](https://developer.iop.technology)
+ - date_published: 2023-01-31T06:49:39+00:00
+
+ ## Welcome - The LGBTQ in Technology Slack
+ - [https://lgbtq.technology](https://lgbtq.technology)
+ - date_published: 2023-09-11T12:14:23+00:00
+
+ ## Longevity.Technology - Latest News, Opinions and Analysis
+ - [https://longevity.technology](https://longevity.technology)
+ - date_published: 2024-07-09T19:53:22.743460+00:00
+
+ ## Jamie Lord
+ - [https://lord.technology](https://lord.technology)
+ - date_published: 2024-08-26T19:26:17+00:00
+
  ## MAUS | Home
  - [https://maus.technology](https://maus.technology)
  - date_published: 2024-09-14T23:43:02.451036+00:00
@@ -3915,154 +4063,4 @@ Introduction
  ## Chief Tools Utilities
  - [https://chief.tools](https://chief.tools)
  - date_published: 2024-10-28T23:32:01.870389+00:00
-
- ## Chief Tools docs
- - [https://docs.chief.tools](https://docs.chief.tools)
- - date_published: 2024-09-15T15:04:35+00:00
-
- ## Chief Tools status
- - [https://status.chief.tools](https://status.chief.tools)
- - date_published: 2024-10-28T23:31:46.596275+00:00
-
- ## cobalt
- - [https://cobalt.tools](https://cobalt.tools)
- - date_published: 2024-05-17T00:00:00+00:00
- - tags: ['online tool', 'download manager']
-
- ## cove.tool | Expert, Sustainable Building Design Consulting
- - [https://cove.tools](https://cove.tools)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Enchanted Tools / Changing the face of robotics
- - [https://enchanted.tools](https://enchanted.tools)
- - date_published: 2024-08-18T14:10:58.709883+00:00
-
- ## fastlane docs
- - [https://docs.fastlane.tools](https://docs.fastlane.tools)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## fastlane - App automation done right
- - [https://fastlane.tools](https://fastlane.tools)
- - date_published: 2017-06-21T00:00:00+00:00
-
- ## FOE Tools
- - [https://foe.tools](https://foe.tools)
- - date_published: 2024-10-24T08:11:21.499635+00:00
-
- ## fragment
- - [https://fragment.tools](https://fragment.tools)
- - date_published: 2024-09-06T21:42:35.082481+00:00
-
- ## Free AI Tools | Unlock the Power of AI.
- - [https://www.free-ai.tools](https://www.free-ai.tools)
- - date_published: 2024-10-03T13:41:36+00:00
-
- ## Fantom RPC Endpoint: Fastest, free-est, and most reliable RPC endpoint
- - [https://rpc.ftm.tools](https://rpc.ftm.tools)
- - date_published: 2024-07-23T22:29:06.918708+00:00
-
- ## The Best AI Tools Directory | 🥳 funfun.tools
- - [https://www.funfun.tools](https://www.funfun.tools)
- - date_published: 2024-10-30T17:52:01.416825+00:00
-
- ## Game Making Tools.
- - [https://www.gamemaking.tools](https://www.gamemaking.tools)
- - date_published: 2024-08-16T06:22:08+00:00
-
- ## Free Uptime Monitor & Blacklist Monitor- HetrixTools
- - [https://hetrix.tools](https://hetrix.tools)
- - date_published: 2024-09-30T12:06:36.670574+00:00
-
- ## IDG.tools - Inner Development Toolkit - Change starts within
- - [https://idg.tools](https://idg.tools)
- - date_published: 2024-07-10T10:08:37.317520+00:00
-
- ## iglidur® Bearing Designer
- - [https://iglidur-bearing-designer.igus.tools](https://iglidur-bearing-designer.igus.tools)
- - date_published: 2024-08-01T14:18:37+00:00
-
- ## Instagram Video, Photos, IGTV & Reels, Stories Downloader | Instore
- - [https://instore.tools](https://instore.tools)
- - date_published: 2024-10-30T18:34:08.650682+00:00
-
- ## ITSM Tools Reviews and ITSM Best Practice
- - [https://itsm.tools](https://itsm.tools)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## https://joel.tools
- - [https://joel.tools](https://joel.tools)
- - date_published: 2024-01-09T03:48:09.171953+00:00
-
- ## candle's website
- - [http://kool.tools](http://kool.tools)
- - date_published: 2022-12-30T16:25:41+00:00
-
- ## Streamlit
- - [https://letterboxd.tools](https://letterboxd.tools)
- - date_published: 2023-11-14T18:53:27+00:00
- - tags: ['personal', 'movies', 'hobby']
-
- ## Rackspace Careers
- - [https://rackspace.professional-services.dev.lever.tools](https://rackspace.professional-services.dev.lever.tools)
- - date_published: 2024-02-19T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://analytics.lil.tools](https://analytics.lil.tools)
- - date_published: 2024-07-17T14:07:06.067620+00:00
-
- ## Lookup Tools
- - [https://lookup.tools](https://lookup.tools)
- - date_published: 2024-05-07T13:47:23.780708+00:00
-
- ## Lumina - The modern CMS. API driven. Built-in AI agent.
- - [https://lumina.tools](https://lumina.tools)
- - date_published: 2024-06-19T19:12:29.785526+00:00
-
- ## Find the right business test
- - [https://lyrn.tools](https://lyrn.tools)
- - date_published: 2024-05-12T05:29:44.306392+00:00
-
- ## Minecraft Tools: Tools for Minecraft
- - [https://minecraft.tools](https://minecraft.tools)
- - date_published: 2024-07-10T02:50:21.421956+00:00
-
- ## Monorepo Explained
- - [https://monorepo.tools](https://monorepo.tools)
- - date_published: 2024-09-04T14:30:22.509687+00:00
-
- ## Mothership Site Tools
- - [https://sitetools.mothership.tools](https://sitetools.mothership.tools)
- - date_published: 2024-04-02T11:12:02+00:00
-
- ## Antragsgrün - Motion.Tools - Managing resolutions, motions and amendments online
- - [https://motion.tools](https://motion.tools)
- - date_published: 2024-06-19T22:24:22.526365+00:00
-
- ## Antragsgrün - Motion.Tools - Managing resolutions, motions and amendments online
- - [https://sandbox.motion.tools](https://sandbox.motion.tools)
- - date_published: 2024-06-19T22:14:05.254615+00:00
-
- ## MYmovies - Il cinema dalla parte del pubblico
- - [https://analytics.mymovies.tools](https://analytics.mymovies.tools)
- - date_published: 2024-07-16T19:13:03.090172+00:00
-
- ## Name.com Blog
- - [https://blog.name.tools](https://blog.name.tools)
- - date_published: 2024-06-16T05:24:18+00:00
-
- ## NaNAI || The Coolest AI Tools Database + Directory
- - [https://nanai.tools](https://nanai.tools)
- - date_published: 2024-10-30T19:02:01.116273+00:00
-
- ## Plausible · Web analytics
- - [https://data.ndc.tools](https://data.ndc.tools)
- - date_published: 2024-05-08T10:48:40.511054+00:00
-
- ## Castle Builder
- - [https://castle.needle.tools](https://castle.needle.tools)
- - date_published: 2024-04-29T07:47:51.085993+00:00
-
- ## Join the needle — tools for creators Discord Server!
- - [https://discord.needle.tools](https://discord.needle.tools)
- - date_published: 2024-07-23T21:44:49.542857+00:00
 

@@ -1,3 +1,116 @@
+ ## Home
+ - [https://www.cio.gov](https://www.cio.gov)
+ - date_published: 2024-05-08T02:43:05.016067+00:00
+
+ ## Home Page | CISA
+ - [https://cisa.gov](https://cisa.gov)
+ - date_published: 2024-07-12T16:24:22.378524+00:00
+ - tags: ['cyber defender agency', 'cybersecurity']
+
+ ## Home | NICCS
+ - [https://niccs.cisa.gov](https://niccs.cisa.gov)
+ - date_published: 2023-10-25T19:18:39.523763+00:00
+
+ ## Home Page | CISA
+ - [https://us-cert.cisa.gov](https://us-cert.cisa.gov)
+ - date_published: 2024-05-04T15:13:11.228927+00:00
+
+ ## Homepage | Boston.gov
+ - [https://data.cityofboston.gov](https://data.cityofboston.gov)
+ - date_published: 2024-09-04T03:22:58+00:00
+
+ ## Homepage | Boston.gov
+ - [http://www.cityofboston.gov](http://www.cityofboston.gov)
+ - date_published: 2024-07-01T16:21:39+00:00
+
+ ## Key West, FL | Official Website
+ - [https://www.cityofkeywest-fl.gov](https://www.cityofkeywest-fl.gov)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Portland, TN | Official Website
+ - [https://cityofportlandtn.gov](https://cityofportlandtn.gov)
+ - date_published: 2024-06-30T12:15:22.651961+00:00
+
+ ## Home
+ - [https://cityofsacramento.gov](https://cityofsacramento.gov)
+ - date_published: 2024-04-28T04:28:09.933157+00:00
+
+ ## City of Tombstone, Cochise County, Arizona – Official Website of the City of Tombstone
+ - [https://cityoftombstoneaz.gov](https://cityoftombstoneaz.gov)
+ - date_published: 2024-06-18T21:10:39+00:00
+
+ ## https://cde.ucr.cjis.gov
+ - [https://cde.ucr.cjis.gov](https://cde.ucr.cjis.gov)
+ - date_published: 2023-11-12T13:04:34.470969+00:00
+
+ ## Texas' Official Unclaimed Property Site - Texas Comptroller - Texas.gov
+ - [https://claimittexas.gov](https://claimittexas.gov)
+ - date_published: 2024-06-26T17:19:13+00:00
+
+ ## CitizenAccess Change
+ - [https://citizenaccess.clarkcountynv.gov](https://citizenaccess.clarkcountynv.gov)
+ - date_published: 2023-02-08T18:35:39+00:00
+
+ ## Welcome to Clark County, NV - Home
+ - [https://files.clarkcountynv.gov](https://files.clarkcountynv.gov)
+ - date_published: 2024-06-19T18:03:43.388531+00:00
+
+ ## Welcome to Clark County, NV - Home
+ - [https://www.clarkcountynv.gov](https://www.clarkcountynv.gov)
+ - date_published: 2024-05-04T06:55:56.098651+00:00
+
+ ## Home - Clayton County, Georgia
+ - [https://claytoncountyga.gov](https://claytoncountyga.gov)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Clayton County's Digital Equity Initiative | Clayton County Digital Equity
+ - [https://digitalequity.claytoncountyga.gov](https://digitalequity.claytoncountyga.gov)
+ - date_published: 2024-07-15T02:07:48.294692+00:00
+
+ ## Munis Self Service
+ - [https://munisselfservice.claytoncountyga.gov](https://munisselfservice.claytoncountyga.gov)
+ - date_published: 2020-02-07T20:43:43+00:00
+
+ ## Redirecting...
+ - [https://webtrac.claytoncountyga.gov](https://webtrac.claytoncountyga.gov)
+ - date_published: 2020-07-13T15:25:38+00:00
+
+ ## Climate.gov Home
+ - [https://climate.gov](https://climate.gov)
+ - date_published: 2024-04-29T05:34:28.220552+00:00
+
+ ## U.S. Climate Resilience Toolkit | U.S. Climate Resilience Toolkit
+ - [https://toolkit.climate.gov](https://toolkit.climate.gov)
+ - date_published: 2024-07-04T06:15:34+00:00
+
+ ## ClinicalTrials.gov
+ - [https://classic.clinicaltrials.gov](https://classic.clinicaltrials.gov)
+ - date_published: 2024-09-12T20:16:31+00:00
+
+ ## ClinicalTrials.gov
+ - [https://clinicaltrials.gov](https://clinicaltrials.gov)
+ - date_published: 2024-05-13T03:14:14.423376+00:00
+
+ ## Welcome to William J. Clinton Presidential Library and Museum | William J. Clinton Presidential Library and Museum
+ - [https://www.clintonlibrary.gov](https://www.clintonlibrary.gov)
+ - date_published: 2024-06-28T20:21:09+00:00
+
+ ## Home | cloud.gov
+ - [https://cloud.gov](https://cloud.gov)
+ - date_published: 2024-07-08T19:45:48+00:00
+
+ ## FDIC: Federal Deposit Insurance Corporation
+ - [https://fdic-search.app.cloud.gov](https://fdic-search.app.cloud.gov)
+ - date_published: 2024-05-08T02:47:15.061893+00:00
+
+ ## Touchpoints
+ - [https://touchpoints.app.cloud.gov](https://touchpoints.app.cloud.gov)
+ - date_published: 2024-05-08T02:45:11.198356+00:00
+
+ ## Artificial Intelligence at CMS
+ - [http://ai.cms.gov](http://ai.cms.gov)
+ - date_published: 2024-05-29T16:10:41+00:00
+
  ## Home - Centers for Medicare & Medicaid Services | CMS
  - [https://cms.gov](https://cms.gov)
  - date_published: 2024-05-10T04:59:00.906679+00:00
@@ -3915,116 +4028,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## Representative Troy Nehls
  - [https://nehls.house.gov](https://nehls.house.gov)
  - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Dan Newhouse
- - [https://newhouse.house.gov](https://newhouse.house.gov)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Congressman Wiley Nickel
- - [https://nickel.house.gov](https://nickel.house.gov)
- - date_published: 2024-06-27T14:12:12+00:00
-
- ## Home - Nikema Williams
- - [https://nikemawilliams.house.gov](https://nikemawilliams.house.gov)
- - date_published: 2024-06-27T14:19:36.983297+00:00
-
- ## United States Congressman Donald Norcross
- - [https://norcross.house.gov](https://norcross.house.gov)
- - date_published: 2024-06-27T14:21:22.341172+00:00
-
- ## U.S. Representative Ralph Norman
- - [https://norman.house.gov](https://norman.house.gov)
- - date_published: 2024-06-27T13:59:47+00:00
-
- ## Congresswoman Eleanor Holmes Norton
- - [https://norton.house.gov](https://norton.house.gov)
- - date_published: 2024-06-27T14:13:39.002587+00:00
-
- ## Home - Congressman Zach Nunn
- - [https://nunn.house.gov](https://nunn.house.gov)
- - date_published: 2023-12-15T22:19:14+00:00
-
- ## Representative Jay Obernolte
- - [https://obernolte.house.gov](https://obernolte.house.gov)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## Representative Ocasio-Cortez
- - [https://ocasio-cortez.house.gov](https://ocasio-cortez.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Office of Congressional Ethics
- - [https://oce.house.gov](https://oce.house.gov)
- - date_published: 2024-06-27T14:09:31.658508+00:00
-
- ## Office of General Counsel
- - [https://ogc.house.gov](https://ogc.house.gov)
- - date_published: 2024-06-27T14:01:52.776380+00:00
-
- ## Representative Ogles
- - [https://ogles.house.gov](https://ogles.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Representative Ilhan Omar
- - [https://omar.house.gov](https://omar.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## House Committee on Oversight and Reform
- - [https://oversightdemocrats.house.gov](https://oversightdemocrats.house.gov)
- - date_published: 2023-11-28T18:21:20.465630+00:00
-
- ## United States House Committee on Oversight and Accountability -
- - [https://oversight.house.gov](https://oversight.house.gov)
- - date_published: 2023-10-25T19:22:27.238039+00:00
-
- ## Home - Burgess Owens
- - [https://owens.house.gov](https://owens.house.gov)
- - date_published: 2024-06-27T14:22:11.466905+00:00
-
- ## Congressman Frank Pallone
- - [https://pallone.house.gov](https://pallone.house.gov)
- - date_published: 2024-06-27T14:22:47.046438+00:00
-
- ## Congressman Gary Palmer
- - [https://palmer.house.gov](https://palmer.house.gov)
- - date_published: 2024-06-27T14:19:02.892179+00:00
-
- ## Congressman Jimmy Panetta
- - [https://panetta.house.gov](https://panetta.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Chris Pappas
- - [https://pappas.house.gov](https://pappas.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## U.S. Representative Bill Pascrell
- - [https://pascrell.house.gov](https://pascrell.house.gov)
- - date_published: 2024-04-30T19:22:37.713623+00:00
-
- ## Congressman Pat Ryan
- - [https://patryan.house.gov](https://patryan.house.gov)
- - date_published: 2024-06-27T13:59:09.775437+00:00
-
- ## Representative Nancy Pelosi
- - [https://pelosi.house.gov](https://pelosi.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## U.S. Representative Mary Sattler Peltola
- - [https://peltola.house.gov](https://peltola.house.gov)
- - date_published: 2024-06-27T14:18:58+00:00
-
- ## Representative Greg Pence
- - [https://pence.house.gov](https://pence.house.gov)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Congressman Scott Perry
- - [https://perry.house.gov](https://perry.house.gov)
- - date_published: 2024-06-27T14:01:56+00:00
-
- ## U.S. Representative Brittany Pettersen
- - [https://pettersen.house.gov](https://pettersen.house.gov)
- - date_published: 2024-06-27T14:09:29+00:00
-
- ## Congressman August Pfluger
- - [https://pfluger.house.gov](https://pfluger.house.gov)
- - date_published: 2024-06-27T14:21:07+00:00
 

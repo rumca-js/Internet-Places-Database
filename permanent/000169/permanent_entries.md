@@ -1,3 +1,83 @@
+ ## The Smartest path to extending your runway.
+ - [https://150095322.v2.pressablecdn.com](https://150095322.v2.pressablecdn.com)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## The Wayfinder - Hugh C. Howey - Bestselling Author
+ - [https://150106973.v2.pressablecdn.com](https://150106973.v2.pressablecdn.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Doc Searls Weblog
+ - [https://150108457.v2.pressablecdn.com](https://150108457.v2.pressablecdn.com)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## ProjectVRM
+ - [https://150108465.v2.pressablecdn.com](https://150108465.v2.pressablecdn.com)
+ - date_published: 2024-08-06T09:21:08+00:00
+
+ ## Home - OpenSource.net
+ - [https://150126476.v2.pressablecdn.com](https://150126476.v2.pressablecdn.com)
+ - date_published: 2024-05-24T15:28:30.228113+00:00
+
+ ## Home
+ - [https://150131899.v2.pressablecdn.com](https://150131899.v2.pressablecdn.com)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home - Association of Science and Technology Centers
+ - [https://150136929.v2.pressablecdn.com](https://150136929.v2.pressablecdn.com)
+ - date_published: 2024-10-18T04:39:55.829166+00:00
+
+ ## Civico – Powered by Sigma XI
+ - [https://150216629.v2.pressablecdn.com](https://150216629.v2.pressablecdn.com)
+ - date_published: 2024-10-19T04:00:56.934267+00:00
+
+ ## AI Tool Details - Your Gateway to the Best AI Community
+ - [https://150226542.v2.pressablecdn.com](https://150226542.v2.pressablecdn.com)
+ - date_published: 2024-06-14T09:12:52+00:00
+
+ ## TheDuranShop
+ - [https://150247247.v2.pressablecdn.com](https://150247247.v2.pressablecdn.com)
+ - date_published: 2024-07-03T18:45:19+00:00
+
+ ## Home | Treatment Advocacy Center
+ - [https://150275622.v2.pressablecdn.com](https://150275622.v2.pressablecdn.com)
+ - date_published: 2024-07-01T17:02:57.207466+00:00
+
+ ## Blue Federal Credit Union | For You. For Life. | Blue FCU
+ - [https://150377261.v2.pressablecdn.com](https://150377261.v2.pressablecdn.com)
+ - date_published: 2023-06-16T02:11:00+00:00
+
+ ## Jason Zweig
+ - [https://150385176.v2.pressablecdn.com](https://150385176.v2.pressablecdn.com)
+ - date_published: 2024-08-19T08:24:39+00:00
+
+ ## Regenerosity | Resourcing grassroots organizations
+ - [https://150464550.v2.pressablecdn.com](https://150464550.v2.pressablecdn.com)
+ - date_published: 2024-09-19T00:33:36+00:00
+
+ ## WP Cloud
+ - [https://150480360.v2.pressablecdn.com](https://150480360.v2.pressablecdn.com)
+ - date_published: 2024-06-17T15:16:11+00:00
+
+ ## Home
+ - [https://150506300.v2.pressablecdn.com](https://150506300.v2.pressablecdn.com)
+ - date_published: 2024-10-17T19:47:24.155734+00:00
+
+ ## Retail Gazette | The #1 Free Source for Retail News
+ - [https://150796872.v2.pressablecdn.com](https://150796872.v2.pressablecdn.com)
+ - date_published: 2024-10-20T20:34:59.625077+00:00
+
+ ## Marketing Beat - Daily Marketing News, Trends & Insight
+ - [https://150799396.v2.pressablecdn.com](https://150799396.v2.pressablecdn.com)
+ - date_published: 2024-10-17T10:31:13.258632+00:00
+
+ ## Grocery Gazette - Latest News From The UK Grocery Sector
+ - [https://150802067.v2.pressablecdn.com](https://150802067.v2.pressablecdn.com)
+ - date_published: 2024-10-17T10:00:56.624952+00:00
+
+ ## Press Advantage: Release Distribution & Writing, Simplified
+ - [https://www.pressadvantage.com](https://www.pressadvantage.com)
+ - date_published: 2024-06-26T08:48:41.148163+00:00
+
  ## PressAnyKey - Press Any Key
  - [http://www.pressanykey.com](http://www.pressanykey.com)
  - date_published: 2024-07-04T14:30:15.696873+00:00
@@ -3941,85 +4021,4 @@
  ## PromptLayer
  - [https://blog.promptlayer.com](https://blog.promptlayer.com)
  - date_published: 2024-04-05T18:24:28.382746+00:00
-
- ## PromptLayer - The first platform built for prompt engineers
- - [https://promptlayer.com](https://promptlayer.com)
- - date_published: 2023-10-25T16:41:16.300230+00:00
- - tags: ['llm', 'prompt engineering']
-
- ## PromptLoop | AI models powering Market Research in Excel and Sheets
- - [https://www.promptloop.com](https://www.promptloop.com)
- - date_published: 2024-06-19T21:29:24.906091+00:00
-
- ## Promptmakr: Buy and Sell AI prompts
- - [https://promptmakr.com](https://promptmakr.com)
- - date_published: 2024-03-21T18:23:54+00:00
-
- ## Ignite Your Imagination: Monthly AI Prompts for Creatives
- - [https://promptmonthly.com](https://promptmonthly.com)
- - date_published: 2024-05-06T06:38:37.194469+00:00
-
- ## promptoMANIA: AI art community with prompt generator
- - [https://promptomania.com](https://promptomania.com)
- - date_published: 2023-07-04T08:25:11+00:00
-
- ## Prompt Reducer - Cut Down GPT-4 Token Costs
- - [https://promptreducer.com](https://promptreducer.com)
- - date_published: 2024-05-07T09:35:24.813641+00:00
-
- ## PromptSalsa: Prompt Guides and Prompt Generators for ChatGPT, Midjourney and other AI tools
- - [https://promptsalsa.com](https://promptsalsa.com)
- - date_published: 2024-06-19T20:59:02.957389+00:00
-
- ## Prompts Ninja - ChatGPT Prompt Tutorial and AI Prompt Guide
- - [https://promptsninja.com](https://promptsninja.com)
- - date_published: 2024-09-09T13:43:21+00:00
-
- ## Promptstacks
- - [https://www.promptstacks.com](https://www.promptstacks.com)
- - date_published: 2023-06-11T20:48:16+00:00
-
- ## PromptVibes- ChatGPT Prompt Generator
- - [https://promptvibes.com](https://promptvibes.com)
- - date_published: 2024-10-30T12:10:48.485923+00:00
-
- ## PromptWink - Prompt Marketplace for AI Models: Midjourney, ChatGPT, DALL-E, Stable Diffusion and more.
- - [https://www.promptwink.com](https://www.promptwink.com)
- - date_published: 2024-06-23T11:42:16.540126+00:00
-
- ## PROMT Translation Software and Dictionaries
- - [https://www.promt.com](https://www.promt.com)
- - date_published: 2011-01-12T15:04:36+00:00
-
- ## Promus Ventures
- - [http://www.promusventures.com](http://www.promusventures.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Pronauns - Learn English pronunciation
- - [https://www.pronauns.com](https://www.pronauns.com)
- - date_published: 2024-07-23T21:46:15.768839+00:00
-
- ## Site de pronostic foot gagnant - Prono football expert fiable
- - [https://www.pronostic-foot-afrique.com](https://www.pronostic-foot-afrique.com)
- - date_published: 2024-10-30T05:09:07.319141+00:00
-
- ## PronQuest
- - [https://www.pronquest.com](https://www.pronquest.com)
- - date_published: 2024-07-17T08:32:43.359658+00:00
-
- ## Roman Pronskiy
- - [https://pronskiy.com](https://pronskiy.com)
- - date_published: 2024-09-28T20:22:50+00:00
-
- ## keylight | App
- - [https://app.prontomarketing.com](https://app.prontomarketing.com)
- - date_published: 2024-05-07T09:40:31.996463+00:00
-
- ## keylight | App
- - [https://clients.prontomarketing.com](https://clients.prontomarketing.com)
- - date_published: 2024-05-07T09:40:27.595158+00:00
-
- ## 403 Error
- - [https://pronto-core-cdn.prontomarketing.com](https://pronto-core-cdn.prontomarketing.com)
- - date_published: 2024-06-28T11:41:56.658743+00:00
 

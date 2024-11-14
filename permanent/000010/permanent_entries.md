@@ -1,3 +1,11 @@
+ ## Kingston Resources Limited
+ - [https://kingstonresources.com.au](https://kingstonresources.com.au)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Patronus Resources
+ - [https://www.kinmining.com.au](https://www.kinmining.com.au)
+ - date_published: 2024-09-16T00:00:00+00:00
+
  ## Home
  - [http://www.kissmarketing.com.au](http://www.kissmarketing.com.au)
  - date_published: 2024-09-10T13:42:57.969978+00:00
@@ -3993,12 +4001,4 @@
  ## ZETR | Where materiality, function and aesthetic collide
  - [https://www.zetr.com.au](https://www.zetr.com.au)
  - date_published: 2024-07-01T05:12:23.414011+00:00
-
- ## Zoetis
- - [https://www2.zoetis.com.au](https://www2.zoetis.com.au)
- - date_published: 2024-06-27T09:52:47+00:00
-
- ## Zuleika Gold Ltd
- - [https://zuleikagold.com.au](https://zuleikagold.com.au)
- - date_published: 2024-09-16T22:03:12.412162+00:00
 

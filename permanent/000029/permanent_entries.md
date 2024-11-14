@@ -1,3 +1,7 @@
+ ## 湖北省农业农村厅
+ - [http://nyt.hubei.gov.cn](http://nyt.hubei.gov.cn)
+ - date_published: 2024-06-28T00:00:00+00:00
+
  ## 湖北省人力资源和社会保障厅
  - [http://rst.hubei.gov.cn](http://rst.hubei.gov.cn)
  - date_published: 2024-02-09T00:00:00+00:00
@@ -3993,8 +3997,4 @@
  ## 中国浦东干部学院
  - [https://celap.org.cn](https://celap.org.cn)
  - date_published: 2024-05-07T00:00:00+00:00
-
- ## 中国浦东干部学院手机版
- - [https://m.celap.org.cn](https://m.celap.org.cn)
- - date_published: 2024-06-30T00:00:00+00:00
 
