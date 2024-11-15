@@ -1,3 +1,251 @@
+ ## front
+ - [https://www.leconomiste.com](https://www.leconomiste.com)
+ - date_published: 2024-10-30T05:20:10.024747+00:00
+
+ ## L'Économiste Maghrébin | Première presse tunisienne en ligne
+ - [https://www.leconomistemaghrebin.com](https://www.leconomistemaghrebin.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Accueil - LCANews
+ - [http://www.lecourrieraustralien.com](http://www.lecourrieraustralien.com)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Manufacturer of Electronic Component in delhi, Socket Manufacturer, Switch Manufacturer in Dellhi
+ - [http://www.lecswitch.com](http://www.lecswitch.com)
+ - date_published: 2024-01-10T15:27:41+00:00
+
+ ## LecToGo | Charge your phone on the go | Powerbank rental
+ - [https://www.lectogo.com](https://www.lectogo.com)
+ - date_published: 2024-07-20T13:57:12.608081+00:00
+
+ ## Lectric eBikes - Electric Bikes Built so Everyone Can Ride
+ - [https://lectricebikes.com](https://lectricebikes.com)
+ - date_published: 2024-06-23T14:34:35.369293+00:00
+
+ ## lectronice → now :: 2022-08 W33
+ - [https://now.lectronice.com](https://now.lectronice.com)
+ - date_published: 2022-08-20T10:32:33+00:00
+
+ ## Lectronz
+ - [https://lectronz.com](https://lectronz.com)
+ - date_published: 2023-10-25T15:44:18.811085+00:00
+
+ ## https://lectupedia.com/es/
+ - [https://lectupedia.com](https://lectupedia.com)
+ - date_published: 2024-07-23T23:26:25.532633+00:00
+
+ ## Cosas de Casa: Inspiración en decoración, orden, limpieza y compras
+ - [https://cosasdecasa.lecturas.com](https://cosasdecasa.lecturas.com)
+ - date_published: 2024-10-14T22:13:49+00:00
+
+ ## Lecturas - Revista del corazón (Noticias)
+ - [https://www.lecturas.com](https://www.lecturas.com)
+ - date_published: 2024-06-20T02:00:53+00:00
+
+ ## Yann LeCun's Home Page
+ - [http://yann.lecun.com](http://yann.lecun.com)
+ - date_published: 2022-07-12T05:43:43+00:00
+
+ ## 极光加速器_官网最新版下载
+ - [https://www.led-albaniagreece.com](https://www.led-albaniagreece.com)
+ - date_published: 2024-07-05T09:13:19+00:00
+
+ ## Le Dauphiné Libéré : info et actu nationale et régionale - Isère, Haute-Savoie, Savoie, Drôme, Ardèche, Hautes-Alpes et Vaucluse
+ - [https://www.ledauphine.com](https://www.ledauphine.com)
+ - date_published: 2024-09-04T19:34:55.503708+00:00
+
+ ## LeddarTech - Sensing and Perception Solutions for ADAS/AD
+ - [https://leddartech.com](https://leddartech.com)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Le Devoir | Nouvelles, politique, économie, culture et chroniques
+ - [https://www.ledevoir.com](https://www.ledevoir.com)
+ - date_published: 2024-07-21T00:00:00+00:00
+
+ ## Ledger Labs
+ - [https://blog.ledger.com](https://blog.ledger.com)
+ - date_published: 2023-10-25T15:44:20.094476+00:00
+
+ ## Home
+ - [https://careers.ledger.com](https://careers.ledger.com)
+ - date_published: 2024-05-04T12:13:13.985206+00:00
+
+ ## Ledger Co-branded Offer
+ - [https://co-branded.ledger.com](https://co-branded.ledger.com)
+ - date_published: 2023-09-21T12:59:19+00:00
+
+ ## Ledger Developer Portal
+ - [https://developers.ledger.com](https://developers.ledger.com)
+ - date_published: 2024-05-04T12:13:10.487412+00:00
+
+ ## Ledger Donjon
+ - [https://donjon.ledger.com](https://donjon.ledger.com)
+ - date_published: 2024-05-04T12:12:58.644632+00:00
+
+ ## Ledger Enterprise
+ - [https://enterprise.ledger.com](https://enterprise.ledger.com)
+ - date_published: 2024-05-04T12:12:55.920394+00:00
+
+ ## Ledger Enterprise Help Center
+ - [https://help.vault.ledger.com](https://help.vault.ledger.com)
+ - date_published: 2024-06-20T14:19:10+00:00
+
+ ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
+ - [http://ledger.com](http://ledger.com)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## Ledger - Home of the first and only certified Hardware wallets | Ledger
+ - [https://shop.ledger.com](https://shop.ledger.com)
+ - date_published: 2023-10-25T15:44:25.359911+00:00
+
+ ## Ledger Status
+ - [https://status.ledger.com](https://status.ledger.com)
+ - date_published: 2024-02-05T00:00:00+00:00
+
+ ## Ledger Vault
+ - [https://vault.ledger.com](https://vault.ledger.com)
+ - date_published: 2024-06-14T10:19:56+00:00
+
+ ## EU Notice | Ledger - Enquirer
+ - [https://jobs.ledger-enquirer.com](https://jobs.ledger-enquirer.com)
+ - date_published: 2024-06-21T19:26:14.955125+00:00
+
+ ## Columbus GA Breaking News & Crime | Columbus Ledger-Enquirer
+ - [https://ledger-enquirer.com](https://ledger-enquirer.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
+ - [https://www.ledgerhq.com](https://www.ledgerhq.com)
+ - date_published: 2024-07-31T00:00:00+00:00
+
+ ## Blockchain for enterprise - Ledger Insights - blockchain for enterprise
+ - [https://ledgerinsights.com](https://ledgerinsights.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Monadnock Ledger-Transcript
+ - [https://ledgertranscript.com](https://ledgertranscript.com)
+ - date_published: 2024-05-08T06:15:03.290911+00:00
+
+ ## Monadnock Ledger-Transcript | Local ads in Peterborough, NH
+ - [https://local.ledgertranscript.com](https://local.ledgertranscript.com)
+ - date_published: 2024-07-04T11:19:14.030918+00:00
+
+ ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
+ - [https://www.ledgerwallet.com](https://www.ledgerwallet.com)
+ - date_published: 2024-04-17T00:00:00+00:00
+
+ ## Ledgy | We make equity work
+ - [https://ledgy.com](https://ledgy.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## 乐调查-问卷调查_调查问卷_制作问卷
+ - [https://www.lediaocha.com](https://www.lediaocha.com)
+ - date_published: 2024-08-06T10:51:37.684342+00:00
+
+ ## Cosmétique de Luxe - Beau Domaine Skincare
+ - [https://le-domaine.com](https://le-domaine.com)
+ - date_published: 2024-11-08T10:03:03.858994+00:00
+
+ ## Ledsreact
+ - [https://www.ledsreact.com](https://www.ledsreact.com)
+ - date_published: 2024-09-02T09:50:40.808445+00:00
+
+ ## collection of jan aman, le duchamp .com by rafaël rozendaal, 2008
+ - [https://www.leduchamp.com](https://www.leduchamp.com)
+ - date_published: 2023-04-11T12:11:30+00:00
+
+ ## Corporate website
+ - [https://www.ledvance.com](https://www.ledvance.com)
+ - date_published: 2024-10-15T16:40:19.601421+00:00
+
+ ## Led Zeppelin Discography - Official Website
+ - [https://discography.ledzeppelin.com](https://discography.ledzeppelin.com)
+ - date_published: 2024-05-04T12:13:24.085996+00:00
+
+ ## Led Zeppelin Official Forum
+ - [https://forums.ledzeppelin.com](https://forums.ledzeppelin.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Led Zeppelin | Official Website Official Website
+ - [https://ledzeppelin.com](https://ledzeppelin.com)
+ - date_published: 2024-06-04T09:39:54+00:00
+ - tags: ['music band']
+
+ ## Led Zeppelin - Official Website
+ - [https://merch.ledzeppelin.com](https://merch.ledzeppelin.com)
+ - date_published: 2024-05-04T12:13:22.125974+00:00
+
+ ## Led Zeppelin - All Products
+ - [https://store.ledzeppelin.com](https://store.ledzeppelin.com)
+ - date_published: 2024-05-04T12:13:25.789039+00:00
+
+ ## Multicultural Children's Book Publisher
+ | Lee & Low Books
+ - [http://www.leeandlow.com](http://www.leeandlow.com)
+ - date_published: 2024-07-04T15:14:18.610985+00:00
+
+ ## Homes for Sale at the Delaware Beaches | The Lee Ann Wilkinson Group
+ - [http://leeanngroup.com](http://leeanngroup.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Home
+ - [http://www.lee-associates.com](http://www.lee-associates.com)
+ - date_published: 2024-10-27T23:53:13+00:00
+
+ ## Welcome to leewebapps.leeaws.com
+ - [https://leeaws.com](https://leeaws.com)
+ - date_published: 2023-01-26T21:43:49+00:00
+
+ ## Little Short Bulletins | Likely Some Balderdash
+ - [https://www.leebutterman.com](https://www.leebutterman.com)
+ - date_published: 2023-10-25T15:44:26.549554+00:00
+
+ ## Lee Byron
+ - [https://leebyron.com](https://leebyron.com)
+ - date_published: 2023-10-25T15:44:27.988608+00:00
+ - tags: ['personal']
+
+ ## Home - US - JackReacher.com
+ - [http://www.leechild.com](http://www.leechild.com)
+ - date_published: 2024-08-18T03:31:24.088964+00:00
+
+ ## LEED Online
+ - [https://leedonline.com](https://leedonline.com)
+ - date_published: 2024-06-20T13:00:53.587834+00:00
+
+ ## Bramham Park » 21 – 25 August 2024
+ - [https://www.leedsfestival.com](https://www.leedsfestival.com)
+ - date_published: 2024-06-25T16:49:22.365844+00:00
+
+ ## Home
+ - [https://www.leedsfilm.com](https://www.leedsfilm.com)
+ - date_published: 2024-09-06T21:55:21.085028+00:00
+
+ ## University of Leeds // clothing, gifts, merchandise
+ - [https://www.leedsgear.com](https://www.leedsgear.com)
+ - date_published: 2024-06-17T18:09:08.258893+00:00
+
+ ## LeedsJs | Meetup
+ - [https://leedsjs.com](https://leedsjs.com)
+ - date_published: 2024-09-04T10:52:49.493998+00:00
+
+ ## Leeds University Union Events - Legendary nights in Leeds since 1967.
+ - [https://leedsunionevents.com](https://leedsunionevents.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## LEEZA ⛓☄🌪💫📂 PRITYCHENKO
+ - [http://leeeeza.com](http://leeeeza.com)
+ - date_published: 2024-07-13T15:49:14.944607+00:00
+
+ ## Lee Fang | Substack
+ - [https://www.leefang.com](https://www.leefang.com)
+ - date_published: 2023-10-25T15:44:30.439070+00:00
+ - tags: ['journalism']
+
+ ## LEE Filters: Masters of Light
+ - [https://www.leefilters.com](https://www.leefilters.com)
+ - date_published: 2024-07-04T06:50:49.562122+00:00
+
  ## UISP
  - [https://leeflets.com](https://leeflets.com)
  - date_published: 2024-04-18T14:42:44+00:00
@@ -590,6 +838,10 @@
  ## LegiScan | Bringing People To The Process
  - [https://legiscan.com](https://legiscan.com)
  - date_published: 2024-05-07T16:01:31.403326+00:00
+
+ ## Legicope logiciel de conformité RGPD automatisé par l'IA
+ - [https://legiscope.com](https://legiscope.com)
+ - date_published: 2024-11-14T13:59:13+00:00
 
  ## Clark County - Calendar
  - [https://clark.legistar.com](https://clark.legistar.com)
@@ -3779,266 +4031,4 @@
  ## NMSU Library FAQs - NMSU Library FAQs
  - [https://nmsu.libanswers.com](https://nmsu.libanswers.com)
  - date_published: 2024-07-01T16:17:38.773345+00:00
-
- ## Northeastern University Library Answers: University Library FAQ - Northeastern University Library Answers
- - [https://northeastern.libanswers.com](https://northeastern.libanswers.com)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Northwestern University Library FAQs - LibAnswers/LibChat
- - [https://northwestern.libanswers.com](https://northwestern.libanswers.com)
- - date_published: 2024-09-13T19:58:19.897306+00:00
-
- ## PCOM FAQs - LibAnswers
- - [http://pcom.libanswers.com](http://pcom.libanswers.com)
- - date_published: 2024-10-14T20:47:12.627829+00:00
-
- ## Ask A Librarian - Ask A Librarian
- - [https://psu.libanswers.com](https://psu.libanswers.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## FAQ: Frequently Asked Questions - SFPL - FAQ
- - [https://sfpl.libanswers.com](https://sfpl.libanswers.com)
- - date_published: 2024-01-20T00:00:00+00:00
-
- ## LSP - FAQs
- - [https://slcny.libanswers.com](https://slcny.libanswers.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Default - Ask a Librarian & FAQs
- - [https://transportation.libanswers.com](https://transportation.libanswers.com)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## Ask Us - Ask Us at UALibrary
- - [https://ualberta.libanswers.com](https://ualberta.libanswers.com)
- - date_published: 2024-03-06T00:00:00+00:00
-
- ## Research Help - Research Help
- - [https://ucberkeley.libanswers.com](https://ucberkeley.libanswers.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## UCSB Library FAQs - Ask Us
- - [https://ucsb.libanswers.com](https://ucsb.libanswers.com)
- - date_published: 2024-09-12T00:00:00+00:00
-
- ## Home - Ask Us
- - [https://ucsd.libanswers.com](https://ucsd.libanswers.com)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## FAQs - Mardigian LibAnswers
- - [https://umd-umich.libanswers.com](https://umd-umich.libanswers.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Library help - Library help
- - [https://unswlibrary.libanswers.com](https://unswlibrary.libanswers.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Get Help - LibAnswers
- - [https://uoregon.libanswers.com](https://uoregon.libanswers.com)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## LibApps Login @ American Library Association
- - [https://ala.libapps.com](https://ala.libapps.com)
- - date_published: 2024-07-17T13:57:32.960567+00:00
-
- ## LibApps Login @ California Institute of Technology
- - [https://caltech.libapps.com](https://caltech.libapps.com)
- - date_published: 2024-07-22T06:53:54.732085+00:00
-
- ## LibApps Login @ Carnegie Mellon University
- - [https://cmu.libapps.com](https://cmu.libapps.com)
- - date_published: 2024-09-04T19:18:23.686044+00:00
-
- ## Duke | Log In
- - [https://duke.libapps.com](https://duke.libapps.com)
- - date_published: 2024-10-16T09:14:40.735046+00:00
-
- ## LibApps Login @ Goldey-Beacom College
- - [https://gbc.libapps.com](https://gbc.libapps.com)
- - date_published: 2024-07-22T03:08:18.213506+00:00
-
- ## Sign in to your account
- - [https://javeriana.libapps.com](https://javeriana.libapps.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## LibApps Login @ JSTOR
- - [https://jstor.libapps.com](https://jstor.libapps.com)
- - date_published: 2024-07-07T03:11:17.088788+00:00
-
- ## LibApps Login @ University of Kansas
- - [https://ku.libapps.com](https://ku.libapps.com)
- - date_published: 2024-07-01T12:21:35.805548+00:00
-
- ## LibApps Login @ Health Sciences Library, University of Colorado Anschutz Medical Campus
- - [https://library-cuanschutz.libapps.com](https://library-cuanschutz.libapps.com)
- - date_published: 2024-07-22T04:56:33.968255+00:00
-
- ## LibApps Login @ University of British Columbia
- - [https://library-ubc-ca.libapps.com](https://library-ubc-ca.libapps.com)
- - date_published: 2024-04-30T05:18:45.118670+00:00
-
- ## LibApps Login @ Ben-Gurion University of the Negev
- - [https://medlib-bgu.libapps.com](https://medlib-bgu.libapps.com)
- - date_published: 2024-07-14T03:36:50.467536+00:00
-
- ## LibApps Login @ Middle Tennessee State University
- - [https://mtsu.libapps.com](https://mtsu.libapps.com)
- - date_published: 2024-07-01T15:46:30.785547+00:00
-
- ## LibApps Login @ NATO Library
- - [https://nato.libapps.com](https://nato.libapps.com)
- - date_published: 2024-08-07T22:30:15.663707+00:00
-
- ## LibApps Login @ Northwestern University
- - [https://northwestern.libapps.com](https://northwestern.libapps.com)
- - date_published: 2024-09-13T19:58:15.524961+00:00
-
- ## LibApps Login @ New York Botanical Garden
- - [https://nybg.libapps.com](https://nybg.libapps.com)
- - date_published: 2024-06-16T22:51:45.651427+00:00
-
- ## LibApps Login @ Stevens Institute of Technology
- - [https://stevens.libapps.com](https://stevens.libapps.com)
- - date_published: 2024-07-01T20:36:53.791106+00:00
-
- ## LibApps Login @ University of Alaska Fairbanks
- - [https://uaf.libapps.com](https://uaf.libapps.com)
- - date_published: 2024-07-01T22:04:36.367905+00:00
-
- ## LibApps Login @ UChicago
- - [https://uchicago.libapps.com](https://uchicago.libapps.com)
- - date_published: 2024-07-01T22:39:58.033669+00:00
-
- ## LibApps Login @ University of Kentucky
- - [https://uky.libapps.com](https://uky.libapps.com)
- - date_published: 2024-09-13T20:00:33.620610+00:00
-
- ## LibApps Login @ University of Cambridge Subject Libraries
- - [https://uniofcam.libapps.com](https://uniofcam.libapps.com)
- - date_published: 2024-06-17T17:46:56.129081+00:00
-
- ## LibApps Login @ University of Toronto
- - [https://utoronto.libapps.com](https://utoronto.libapps.com)
- - date_published: 2024-07-21T08:23:16.028106+00:00
-
- ## LibApps Login @ Walden University
- - [https://waldenu.libapps.com](https://waldenu.libapps.com)
- - date_published: 2024-07-02T13:20:04.286028+00:00
-
- ## LibApps Login @ The College of Wooster
- - [https://wooster.libapps.com](https://wooster.libapps.com)
- - date_published: 2024-07-02T14:41:54.855852+00:00
-
- ## Springshare - Online Services SaaS platform for Libraries, Educational Institutions, and Non Profits
- - [https://ca.libauth.com](https://ca.libauth.com)
- - date_published: 2024-07-21T09:06:54.977146+00:00
-
- ## Springshare - Online Services SaaS platform for Libraries, Educational Institutions, and Non Profits
- - [https://eu.libauth.com](https://eu.libauth.com)
- - date_published: 2024-10-20T03:33:32.435258+00:00
-
- ## Swagger UI
- - [https://autocomplete-cache.libbyapp.com](https://autocomplete-cache.libbyapp.com)
- - date_published: 2024-07-04T06:20:08.289397+00:00
-
- ## Redirecting
- - [https://help.libbyapp.com](https://help.libbyapp.com)
- - date_published: 2020-09-21T13:43:58+00:00
-
- ## Libby
- - [https://libbyapp.com](https://libbyapp.com)
- - date_published: 2024-05-08T05:15:26.262997+00:00
-
- ## Download the Libby App: ebooks & audiobooks FREE from your library
- - [https://meet.libbyapp.com](https://meet.libbyapp.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Download the Libby App: ebooks & audiobooks FREE from your library
- - [https://share.libbyapp.com](https://share.libbyapp.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Libby Cunniffe
- - [http://libbycunniffe.com](http://libbycunniffe.com)
- - date_published: 2024-06-15T10:12:53.418580+00:00
-
- ## Libby Klein
- - [https://libbykleinbooks.com](https://libbykleinbooks.com)
- - date_published: 2024-10-17T23:16:05.460208+00:00
-
- ## Libby Life blog - For your love of books & reading | OverDrive
- - [https://libbylife.com](https://libbylife.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Libby & Son U-Picks Fruit & Farm
- - [https://www.libbysonupicks.com](https://www.libbysonupicks.com)
- - date_published: 2024-08-08T23:51:14.767921+00:00
-
- ## LibCal -
-        Auburn University
- - [https://auburn.libcal.com](https://auburn.libcal.com)
- - date_published: 2024-07-22T08:23:18.834585+00:00
-
- ## LibCal -
-        UC Berkeley Library
- - [https://berkeley.libcal.com](https://berkeley.libcal.com)
- - date_published: 2024-07-22T07:48:25.941431+00:00
-
- ## Book -
-        University Libraries
- - [https://bgsu.libcal.com](https://bgsu.libcal.com)
- - date_published: 2024-09-18T23:35:19.763705+00:00
-
- ## BYU Library -
-        Brigham Young University
- - [https://byu.libcal.com](https://byu.libcal.com)
- - date_published: 2024-07-17T03:08:42.461379+00:00
-
- ## Clemson Bookings -
-        Clemson University
- - [https://clemson.libcal.com](https://clemson.libcal.com)
- - date_published: 2024-10-04T08:53:45.767540+00:00
-
- ## LibCal -
-        Carnegie Mellon University
- - [https://cmu.libcal.com](https://cmu.libcal.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Library Calendar -
-        Duke University
- - [https://duke.libcal.com](https://duke.libcal.com)
- - date_published: 2024-06-17T03:22:06.163952+00:00
-
- ## LibCal -
-        Englewood Public Library
- - [https://englewoodpl-co.libcal.com](https://englewoodpl-co.libcal.com)
- - date_published: 2024-07-04T15:15:09.769539+00:00
-
- ## GBC Appointments -
-        Goldey-Beacom College
- - [https://gbc.libcal.com](https://gbc.libcal.com)
- - date_published: 2024-07-22T03:08:20.172819+00:00
-
- ## Creative Spaces and Equipment -
-        ELC & HelpDesk+
- - [https://hdplus.libcal.com](https://hdplus.libcal.com)
- - date_published: 2024-08-19T18:30:53.024137+00:00
-
- ## Space Booking & Appointment Services -
-        IU Libraries
- - [https://iub.libcal.com](https://iub.libcal.com)
- - date_published: 2024-06-30T07:28:38.509430+00:00
-
- ## LibCal -
-        Strauss Health Sciences Library, University of Colorado Anschutz Medical Campus
- - [http://library-cuanschutz.libcal.com](http://library-cuanschutz.libcal.com)
- - date_published: 2024-07-22T04:56:32.445284+00:00
-
- ## LibCal -
-        Duke University Medical Center
- - [https://mclibrary.duke.libcal.com](https://mclibrary.duke.libcal.com)
- - date_published: 2024-10-16T09:14:12.106567+00:00
-
- ## LibCal -
-        UCSF School of Medicine
- - [https://meded.ucsf.libcal.com](https://meded.ucsf.libcal.com)
- - date_published: 2024-07-02T00:00:00+00:00
 

@@ -1,3 +1,39 @@
+ ## Physik-Institut
+ - [https://www.physik.uzh.ch](https://www.physik.uzh.ch)
+ - date_published: 2024-07-21T02:22:42.209387+00:00
+
+ ## UZH - Pläne und Orientierung
+ - [http://www.plaene.uzh.ch](http://www.plaene.uzh.ch)
+ - date_published: 2024-07-21T05:10:55.463078+00:00
+
+ ## Herzlich Willkommen
+ - [https://www.sciencepavilion.uzh.ch](https://www.sciencepavilion.uzh.ch)
+ - date_published: 2024-06-20T13:59:30.262716+00:00
+
+ ## Willkommen am Sprachenzentrum der UZH und der ETH Zürich
+ - [http://www.sprachenzentrum.uzh.ch](http://www.sprachenzentrum.uzh.ch)
+ - date_published: 2024-06-22T11:54:33.128961+00:00
+
+ ## UZH für Mitarbeitende
+ - [https://www.staff.uzh.ch](https://www.staff.uzh.ch)
+ - date_published: 2024-07-21T06:21:11.394495+00:00
+
+ ## de
+ - [https://www.ub.uzh.ch](https://www.ub.uzh.ch)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Welcome to Zurich Open Repository and Archive - Zurich Open Repository and Archive
+ - [https://www.zora.uzh.ch](https://www.zora.uzh.ch)
+ - date_published: 2024-07-17T16:13:22.049836+00:00
+
+ ## UZH Alumni - the alumni organisation of the University of Zurich
+ - [https://uzhalumni.ch](https://uzhalumni.ch)
+ - date_published: 2023-08-28T00:00:00+00:00
+
+ ## Home
+ - [https://www.uzhfoundation.ch](https://www.uzhfoundation.ch)
+ - date_published: 2024-07-21T06:21:09.773456+00:00
+
  ## Séjours, Loisirs, Gastronomie, Cadre de Vie | Valais Suisse
  - [https://www.valais.ch](https://www.valais.ch)
  - date_published: 2024-02-26T00:00:00+00:00
@@ -3976,40 +4012,4 @@
  ## Sign in - Matomo
  - [https://aleo.matomo.cloud](https://aleo.matomo.cloud)
  - date_published: 2024-09-25T11:51:47.888572+00:00
-
- ## Sign in - Matomo
- - [https://anytype1.matomo.cloud](https://anytype1.matomo.cloud)
- - date_published: 2024-04-28T02:39:08.878180+00:00
-
- ## Sign in - Matomo
- - [https://artisanalsoftwarefestivalcom.matomo.cloud](https://artisanalsoftwarefestivalcom.matomo.cloud)
- - date_published: 2024-09-20T17:42:38.570204+00:00
-
- ## Sign in - Matomo
- - [https://auf.matomo.cloud](https://auf.matomo.cloud)
- - date_published: 2024-10-19T15:34:50.972843+00:00
-
- ## Sign in - Matomo
- - [https://azuragroup.matomo.cloud](https://azuragroup.matomo.cloud)
- - date_published: 2024-10-31T10:11:43.182586+00:00
-
- ## Sign in - Matomo
- - [http://bandainamcoent.matomo.cloud](http://bandainamcoent.matomo.cloud)
- - date_published: 2024-07-11T16:38:32.385217+00:00
-
- ## Sign in - Matomo
- - [https://beop.matomo.cloud](https://beop.matomo.cloud)
- - date_published: 2024-06-25T22:39:40.034573+00:00
-
- ## Sign in - Matomo
- - [https://beyond-the-frame.matomo.cloud](https://beyond-the-frame.matomo.cloud)
- - date_published: 2024-04-29T06:44:29.812666+00:00
-
- ## Sign in - Matomo
- - [https://bluewhale.matomo.cloud](https://bluewhale.matomo.cloud)
- - date_published: 2024-10-31T09:41:43.599126+00:00
-
- ## Sign in - Matomo
- - [https://bouygues.matomo.cloud](https://bouygues.matomo.cloud)
- - date_published: 2024-07-03T04:55:54.896766+00:00
 

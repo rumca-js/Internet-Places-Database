@@ -1,3 +1,67 @@
+ ## International Development Design Summit 2009
+ - [http://iddsummit.blogspot.com](http://iddsummit.blogspot.com)
+ - date_published: 2024-02-19T11:03:57+00:00
+
+ ## Idealistic Pragmatist
+ - [http://idealisticpragmatist.blogspot.com](http://idealisticpragmatist.blogspot.com)
+ - date_published: 2024-03-23T18:36:02+00:00
+
+ ## ideas attached to objects - the wee dawdle of patrick farmer
+ - [http://ideasattachedtoobjects.blogspot.com](http://ideasattachedtoobjects.blogspot.com)
+ - date_published: 2024-03-21T05:48:58+00:00
+
+ ## IDICBeer 40k
+ - [http://idicbeer.blogspot.com](http://idicbeer.blogspot.com)
+ - date_published: 2024-03-14T14:30:01+00:00
+
+ ## Idiosyncratic Whisk
+ - [http://idiosyncraticwhisk.blogspot.com](http://idiosyncraticwhisk.blogspot.com)
+ - date_published: 2024-06-18T13:29:10+00:00
+
+ ## This blog has moved
+ - [http://idledoodler.blogspot.com](http://idledoodler.blogspot.com)
+ - date_published: 2024-09-14T14:09:23+00:00
+
+ ## Idle Hands Dep't
+ - [http://idlehandsdept.blogspot.com](http://idlehandsdept.blogspot.com)
+ - date_published: 2024-10-28T08:55:37+00:00
+
+ ## i dolci di laura
+ - [http://idolcidilaura.blogspot.com](http://idolcidilaura.blogspot.com)
+ - date_published: 2024-09-02T09:10:55+00:00
+
+ ## I dolori della giovane libraia
+ - [http://idoloridellagiovanelibraia.blogspot.com](http://idoloridellagiovanelibraia.blogspot.com)
+ - date_published: 2024-09-01T09:15:57+00:00
+
+ ## I don't know, but . . .
+ - [http://idontknowbut.blogspot.com](http://idontknowbut.blogspot.com)
+ - date_published: 2024-07-01T00:19:36+00:00
+
+ ## I'd Rather B Birdin'
+ - [http://id-rather-b-birdin.blogspot.com](http://id-rather-b-birdin.blogspot.com)
+ - date_published: 2024-09-11T02:58:56+00:00
+
+ ## If in doubt whack it out.
+ - [http://ifindoubtwhackitoutmarco.blogspot.com](http://ifindoubtwhackitoutmarco.blogspot.com)
+ - date_published: 2024-02-19T02:22:35+00:00
+
+ ## If It Wasn't For Ones
+ - [https://ifitwasntforone.blogspot.com](https://ifitwasntforone.blogspot.com)
+ - date_published: 2024-10-18T21:05:40+00:00
+
+ ## If It Wears Power Armor...By Grizzly Adams
+ - [http://ifitwearspowerarmor.blogspot.com](http://ifitwearspowerarmor.blogspot.com)
+ - date_published: 2024-09-01T11:26:16+00:00
+
+ ## If I Were Your Coach...
+ - [http://if-i-were-your-coach.blogspot.com](http://if-i-were-your-coach.blogspot.com)
+ - date_published: 2024-09-04T21:27:26+00:00
+
+ ## Interactive Fiction Writing Month
+ - [https://ifmonth.blogspot.com](https://ifmonth.blogspot.com)
+ - date_published: 2023-08-21T10:08:50+00:00
+
  ## I Folletti di Bosco Fatato
  - [https://ifollettidiboscofatato.blogspot.com](https://ifollettidiboscofatato.blogspot.com)
  - date_published: 2024-08-30T08:19:17+00:00
@@ -3947,69 +4011,4 @@
  ## Leśna Kuchnia
  - [http://lesnakuchnia.blogspot.com](http://lesnakuchnia.blogspot.com)
  - date_published: 2024-10-25T03:10:08+00:00
-
- ## Les pérégrinations du nainblanc
- - [http://lesperegrinationsdunainblanc.blogspot.com](http://lesperegrinationsdunainblanc.blogspot.com)
- - date_published: 2024-10-26T15:56:05+00:00
-
- ## The Lesser Key of Tere
- - [http://lesserkey.blogspot.com](http://lesserkey.blogspot.com)
- - date_published: 2024-10-17T22:59:05.771377+00:00
-
- ## Some stuff about things
- - [http://lessielouie.blogspot.com](http://lessielouie.blogspot.com)
- - date_published: 2024-03-14T06:19:46+00:00
-
- ## LE TEMPLE DE MORIKUN
- - [https://letempledemorikun.blogspot.com](https://letempledemorikun.blogspot.com)
- - date_published: 2024-06-18T13:28:59+00:00
-
- ## Thoughts about computer technologies
- - [https://lethalman.blogspot.com](https://lethalman.blogspot.com)
- - date_published: 2024-06-15T02:52:00+00:00
-
- ## Let Sibel Edmonds Speak
- - [http://letsibeledmondsspeak.blogspot.com](http://letsibeledmondsspeak.blogspot.com)
- - date_published: 2024-10-21T17:14:18.945711+00:00
-
- ## Let's Make Some Art, Dammit
- - [https://letsmakesomeartdammit.blogspot.com](https://letsmakesomeartdammit.blogspot.com)
- - date_published: 2024-06-29T18:34:28+00:00
-
- ## Letteratura artistica
- - [https://letteraturaartistica.blogspot.com](https://letteraturaartistica.blogspot.com)
- - date_published: 2024-09-04T23:17:31+00:00
-
- ## Letterology
- - [http://letterology.blogspot.com](http://letterology.blogspot.com)
- - date_published: 2016-04-25T00:00:00+00:00
-
- ## Let The Dice Decide News
- - [http://letthedicedecide.blogspot.com](http://letthedicedecide.blogspot.com)
- - date_published: 2024-09-11T04:57:46+00:00
-
- ## Let's Make Peace
- - [http://letusmakepeace.blogspot.com](http://letusmakepeace.blogspot.com)
- - date_published: 2024-02-07T05:38:19+00:00
-
- ## leutenantbrittan
- - [http://leutenantbrittan.blogspot.com](http://leutenantbrittan.blogspot.com)
- - date_published: 2024-03-13T18:22:11+00:00
-
- ## Leve desliz hacia lo insano
- - [http://levedesliz.blogspot.com](http://levedesliz.blogspot.com)
- - date_published: 2024-10-22T18:02:31+00:00
-
- ## Level 2
- - [https://level2-wardy-la.blogspot.com](https://level2-wardy-la.blogspot.com)
- - date_published: 2024-05-17T19:00:00+00:00
- - tags: ['miniatures']
-
- ## LEVIATHAN
- - [https://leviathanwar.blogspot.com](https://leviathanwar.blogspot.com)
- - date_published: 2024-03-13T04:10:13+00:00
-
- ## Le voyageur du ludique
- - [http://levoyageurduludique.blogspot.com](http://levoyageurduludique.blogspot.com)
- - date_published: 2024-10-05T03:18:23+00:00
 

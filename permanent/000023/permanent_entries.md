@@ -1,3 +1,36 @@
+ ## Home – Karl der Grosse
+ - [https://karldergrosse.ch](https://karldergrosse.ch)
+ - date_published: 2024-07-24T16:25:24.177613+00:00
+
+ ## Meditation Center Beatenberg – Buddhist Teachings and Practice
+ - [https://www.karuna.ch](https://www.karuna.ch)
+ - date_published: 2024-06-30T10:06:48.080934+00:00
+
+ ## Nos services
+ - [https://services.kavea.ch](https://services.kavea.ch)
+ - date_published: 2024-09-14T23:57:31.555770+00:00
+
+ ## Kulturstiftung Basel H. Geiger
+ - [https://www.kbhg.ch](https://www.kbhg.ch)
+ - date_published: 2024-07-24T04:31:18.439618+00:00
+
+ ## Hey! | Antoni Kępiński
+ - [https://kepinski.ch](https://kepinski.ch)
+ - date_published: 2024-05-11T10:04:50.775368+00:00
+
+ ## Kevin Bloch | Freelance Copywriter Zürich | Schweiz | UX, Digitale Projekte
+ - [http://kevinbloch.ch](http://kevinbloch.ch)
+ - date_published: 2024-07-13T15:33:31.568065+00:00
+
+ ## Kevin Grandjean
+ - [https://kevingrandjean.ch](https://kevingrandjean.ch)
+ - date_published: 2023-12-29T14:57:36+00:00
+ - tags: ['personal']
+
+ ## Sign in - Matomo
+ - [https://matomo.kevingrandjean.ch](https://matomo.kevingrandjean.ch)
+ - date_published: 2024-09-04T04:46:06.239938+00:00
+
  ## Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!
  - [https://kinder-lei.ch](https://kinder-lei.ch)
  - date_published: 2024-06-13T13:53:27+00:00
@@ -423,6 +456,10 @@
  ## Livit AG - Real Estate Management
  - [https://www.livit.ch](https://www.livit.ch)
  - date_published: 2024-05-22T00:00:00+00:00
+
+ ## Legacy Launcher for Minecraft
+ - [https://llaun.ch](https://llaun.ch)
+ - date_published: 2024-11-14T08:35:38.468345+00:00
 
  ## git.LMAO.ch
  - [https://git.lmao.ch](https://git.lmao.ch)
@@ -3982,40 +4019,4 @@ Fakultät | Universität Basel
  ## UZH - Universität Zürich - Telefon-Verzeichnis
  - [https://www.phonebook.uzh.ch](https://www.phonebook.uzh.ch)
  - date_published: 2024-07-21T06:21:15.305374+00:00
-
- ## Physik-Institut
- - [https://www.physik.uzh.ch](https://www.physik.uzh.ch)
- - date_published: 2024-07-21T02:22:42.209387+00:00
-
- ## UZH - Pläne und Orientierung
- - [http://www.plaene.uzh.ch](http://www.plaene.uzh.ch)
- - date_published: 2024-07-21T05:10:55.463078+00:00
-
- ## Herzlich Willkommen
- - [https://www.sciencepavilion.uzh.ch](https://www.sciencepavilion.uzh.ch)
- - date_published: 2024-06-20T13:59:30.262716+00:00
-
- ## Willkommen am Sprachenzentrum der UZH und der ETH Zürich
- - [http://www.sprachenzentrum.uzh.ch](http://www.sprachenzentrum.uzh.ch)
- - date_published: 2024-06-22T11:54:33.128961+00:00
-
- ## UZH für Mitarbeitende
- - [https://www.staff.uzh.ch](https://www.staff.uzh.ch)
- - date_published: 2024-07-21T06:21:11.394495+00:00
-
- ## de
- - [https://www.ub.uzh.ch](https://www.ub.uzh.ch)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Welcome to Zurich Open Repository and Archive - Zurich Open Repository and Archive
- - [https://www.zora.uzh.ch](https://www.zora.uzh.ch)
- - date_published: 2024-07-17T16:13:22.049836+00:00
-
- ## UZH Alumni - the alumni organisation of the University of Zurich
- - [https://uzhalumni.ch](https://uzhalumni.ch)
- - date_published: 2023-08-28T00:00:00+00:00
-
- ## Home
- - [https://www.uzhfoundation.ch](https://www.uzhfoundation.ch)
- - date_published: 2024-07-21T06:21:09.773456+00:00
 

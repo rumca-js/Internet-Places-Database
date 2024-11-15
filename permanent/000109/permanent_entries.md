@@ -1,3 +1,111 @@
+ ## Which alcoholic beverages have the most or least calories or carbs?
+ - [https://www.getdrunknotfat.com](https://www.getdrunknotfat.com)
+ - date_published: 2024-07-09T20:02:20.398833+00:00
+
+ ## DX
+ - [https://app.getdx.com](https://app.getdx.com)
+ - date_published: 2024-07-04T02:29:36.209874+00:00
+
+ ## DX: Developer Experience Insights Platform
+ - [https://getdx.com](https://getdx.com)
+ - date_published: 2024-05-08T04:31:29.187419+00:00
+
+ ## Engineering Enablement | Abi Noda | Substack
+ - [https://newsletter.getdx.com](https://newsletter.getdx.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Elements® - Financial Health Vitals For Financial Advisors
+ - [https://getelements.com](https://getelements.com)
+ - date_published: 2024-09-20T10:24:30+00:00
+
+ ## Elevar
+ - [https://app.getelevar.com](https://app.getelevar.com)
+ - date_published: 2024-08-06T19:44:53+00:00
+
+ ## Elevar
+ - [https://docs.getelevar.com](https://docs.getelevar.com)
+ - date_published: 2024-08-07T02:45:37.766601+00:00
+
+ ## Knowledge Base
+ - [https://knowledge.getelevar.com](https://knowledge.getelevar.com)
+ - date_published: 2024-04-28T04:58:15.287228+00:00
+
+ ## Elevar | Powering Conversion Tracking For Over 6,500 D2C Brands | Elevar
+ - [https://www.getelevar.com](https://www.getelevar.com)
+ - date_published: 2024-06-28T17:13:34.247293+00:00
+
+ ## Let's crank 1:1s to eleven
+ - [https://getelevenapp.com](https://getelevenapp.com)
+ - date_published: 2024-08-02T20:51:38+00:00
+
+ ## Emojipedia
+ - [http://blog.getemoji.com](http://blog.getemoji.com)
+ - date_published: 2024-07-12T18:05:28.126615+00:00
+
+ ## GetEmoji - Copy & Paste All Emojis From The Emoji Keyboard - No apps required
+ - [https://getemoji.com](https://getemoji.com)
+ - date_published: 2024-07-12T10:56:01+00:00
+
+ ## Get Energy Smart!  NOW!
+ - [http://getenergysmartnow.com](http://getenergysmartnow.com)
+ - date_published: 2024-06-28T13:00:05.171719+00:00
+
+ ## EnjoyHQ Insight Hub | UserTesting | Centralize Your Insights
+ - [https://getenjoyhq.com](https://getenjoyhq.com)
+ - date_published: 2024-06-15T03:21:05+00:00
+
+ ## Eppo | Next-Gen Experimentation Platform for Today's Data Teams
+ - [https://www.geteppo.com](https://www.geteppo.com)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## Eskimo Ice Fishing Gear
+ - [http://www.geteskimo.com](http://www.geteskimo.com)
+ - date_published: 2024-08-11T03:11:36.984968+00:00
+
+ ## Home - GetFave
+ - [https://www.getfave.com](https://www.getfave.com)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## GetFeedback: Customer Experience Platform
+ - [https://payu.getfeedback.com](https://payu.getfeedback.com)
+ - date_published: 2024-07-17T09:12:25.553381+00:00
+
+ ## GetFeedback: Customer Experience Platform
+ - [https://premierfarnell.getfeedback.com](https://premierfarnell.getfeedback.com)
+ - date_published: 2024-06-19T07:00:44.278287+00:00
+
+ ## GetFeedback: Customer Experience Platform
+ - [https://squareinsights.getfeedback.com](https://squareinsights.getfeedback.com)
+ - date_published: 2024-06-29T20:08:53.138113+00:00
+
+ ## GetFeedback: Customer Experience Platform
+ - [https://www.getfeedback.com](https://www.getfeedback.com)
+ - date_published: 2024-06-16T12:36:18.822032+00:00
+
+ ## Fernand awesome chat widget
+ - [https://messenger.getfernand.com](https://messenger.getfernand.com)
+ - date_published: 2024-07-23T22:30:11.981028+00:00
+
+ ## Telerik | Fiddler Jam Portal
+ - [https://jam.getfiddler.com](https://jam.getfiddler.com)
+ - date_published: 2024-03-20T09:16:23+00:00
+
+ ## Fider - Your go-to feature voting tool
+ - [http://getfider.com](http://getfider.com)
+ - date_published: 2024-10-08T15:28:21+00:00
+
+ ## FileCloud Customer Portal
+ - [https://portal.getfilecloud.com](https://portal.getfilecloud.com)
+ - date_published: 2024-07-15T12:09:41.834676+00:00
+
+ ## FileCloud - Hyper-Secure Enterprise File Sharing and Sync (EFSS)
+ - [https://www.getfilecloud.com](https://www.getfilecloud.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## Get Filings
+ - [http://www.getfilings.com](http://www.getfilings.com)
+ - date_published: 2024-10-21T07:14:50.817501+00:00
+
  ## Welcome to Final.
  - [https://www.getfinal.com](https://www.getfinal.com)
  - date_published: 2024-07-09T19:29:10.324363+00:00
@@ -2010,6 +2118,10 @@
  - [https://www.ggnotes.com](https://www.ggnotes.com)
  - date_published: 2024-06-22T17:22:29.528465+00:00
 
+ ## GGNETWORK • Любимые игры уже здесь
+ - [https://ggntw.com](https://ggntw.com)
+ - date_published: 2024-11-14T08:36:15.657800+00:00
+
  ## Error 400 (Bad Request)!!1
  - [http://lh3.ggpht.com](http://lh3.ggpht.com)
  - date_published: 2024-04-29T03:35:24.446998+00:00
@@ -3512,7 +3624,7 @@
  ## The first Developer-Friendly Software Engineering Intelligence platform - GitClear
  - [https://gitclear.com](https://gitclear.com)
  - date_published: 2024-08-04T21:19:05+00:00
- - tags: ['proprietary', 'github', 'analytics']
+ - tags: ['github', 'website analytics', 'proprietary']
 
  ## GitClear
  - [https://support.gitclear.com](https://support.gitclear.com)
@@ -3745,6 +3857,7 @@
  ## GitHub - KurtBestor/Hitomi-Downloader: :cake: Desktop utility to download images/videos/music/text from various websites, and more.
  - [https://github.com/KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
  - date_published: 2024-11-07T09:47:55+00:00
+ - tags: ['download manager']
 
  ## GitHub - TeamNewPipe/NewPipe: A libre lightweight streaming front-end for Android.
  - [https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
@@ -3876,180 +3989,83 @@
  - date_published: 2024-11-12T09:37:06+00:00
  - tags: ['emulator', 'nintendo']
 
- ## Git Large File Storage
- - [https://git-lfs.github.com](https://git-lfs.github.com)
- - date_published: 2024-04-18T13:56:46+00:00
+ ## GitHub - MediaHarbor/mediaharbor: Cross-platform MediaHarbor
+ - [https://github.com/MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor)
+ - date_published: 2024-11-14T11:35:07+00:00
+ - tags: ['download manager']
 
- ## GitHub.com Help Documentation
- - [https://guides.github.com](https://guides.github.com)
- - date_published: 2024-07-21T02:19:34.492154+00:00
+ ## GitHub - kannagi0303/yt-dlp-gui: Windows GUI for yt-dlp
+ - [https://github.com/kannagi0303/yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui)
+ - date_published: 2024-11-14T11:36:45+00:00
+ - tags: ['download manager']
 
- ## Sign in for Software Support and Product Help - GitHub Support
- - [https://help.github.com](https://help.github.com)
- - date_published: 2024-04-28T02:07:20.230536+00:00
+ ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
+ - [https://github.com/tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist)
+ - date_published: 2024-11-14T11:37:17+00:00
+ - tags: ['youtube', 'download manager']
 
- ## HUBOT
- - [https://hubot.github.com](https://hubot.github.com)
- - date_published: 2024-03-19T15:31:48+00:00
+ ## GitHub - StefanLobbenmeier/youtube-dl-gui: A cross-platform GUI for youtube-dl made in Electron and node.js
+ - [https://github.com/StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui)
+ - date_published: 2024-11-14T11:37:46+00:00
+ - tags: ['youtube', 'download manager']
 
- ## GitHub Packages: Your packages, at home with their code
- - [https://maven.pkg.github.com](https://maven.pkg.github.com)
- - date_published: 2024-07-20T14:19:54.682846+00:00
+ ## GitHub - axcore/tartube: A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+ - [https://github.com/axcore/tartube](https://github.com/axcore/tartube)
+ - date_published: 2024-11-14T11:39:01+00:00
+ - tags: ['youtube', 'download manager']
 
- ## GitHub Next
- - [https://next.github.com](https://next.github.com)
- - date_published: 2024-04-29T00:00:00+00:00
+ ## GitHub - mhogomchungu/media-downloader: Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
+ - [https://github.com/mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
+ - date_published: 2024-11-14T11:39:38+00:00
+ - tags: ['download manager']
 
- ## GitHub Packages: Your packages, at home with their code
- - [https://npm.pkg.github.com](https://npm.pkg.github.com)
- - date_published: 2024-07-20T14:19:49.596261+00:00
+ ## GitHub - ShalmonAnandas/Gui-Youtube-dl: A cross platform GUI for youtube-dl written entirely in python using the WX library.
+ - [https://github.com/ShalmonAnandas/GUI-Youtube-dl](https://github.com/ShalmonAnandas/GUI-Youtube-dl)
+ - date_published: 2024-11-14T11:39:59+00:00
+ - tags: ['download manager']
 
- ## GitHub Packages: Your packages, at home with their code
- - [https://nuget.pkg.github.com](https://nuget.pkg.github.com)
- - date_published: 2024-07-20T14:19:56.904995+00:00
+ ## GitHub - persepolisdm/persepolis: Persepolis is a download manager written in Python.
+ - [https://github.com/persepolisdm/persepolis](https://github.com/persepolisdm/persepolis)
+ - date_published: 2024-11-14T11:40:16+00:00
+ - tags: ['download manager']
 
- ## Octicons
- - [https://octicons.github.com](https://octicons.github.com)
- - date_published: 2020-04-23T15:08:56+00:00
+ ## GitHub - stefnotch/downline: Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
+ - [https://github.com/stefnotch/downline](https://github.com/stefnotch/downline)
+ - date_published: 2024-11-14T11:40:32+00:00
+ - tags: ['download manager']
 
- ## GitHub Octodex
- - [https://octodex.github.com](https://octodex.github.com)
- - date_published: 2023-08-31T15:47:29+00:00
+ ## GitHub - tardisx/gropple: Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
+ - [https://github.com/tardisx/gropple](https://github.com/tardisx/gropple)
+ - date_published: 2024-11-14T11:40:49+00:00
+ - tags: ['download manager']
 
- ## Octoverse 2023: The state of open source
- - [https://octoverse.github.com](https://octoverse.github.com)
- - date_published: 2024-05-04T08:10:48.126416+00:00
+ ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
+ - [https://github.com/bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist)
+ - date_published: 2024-11-14T11:41:05+00:00
+ - tags: ['download manager']
 
- ## GitHub Pages
- - [https://pages.github.com](https://pages.github.com)
- - date_published: 2023-10-25T08:40:58.526731+00:00
+ ## GitHub - meeb/tubesync: Syncs YouTube channels and playlists to a locally hosted media server
+ - [https://github.com/meeb/tubesync](https://github.com/meeb/tubesync)
+ - date_published: 2024-11-14T11:41:22+00:00
+ - tags: ['download manager']
 
- ## Partner with GitHub
- - [https://partner.github.com](https://partner.github.com)
- - date_published: 2024-04-28T03:22:16.033666+00:00
+ ## GitHub - Tzahi12345/YoutubeDL-Material: Self-hosted YouTube downloader built on Material Design
+ - [https://github.com/Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
+ - date_published: 2024-11-14T11:41:38+00:00
+ - tags: ['download manager']
 
- ## GitHub: Let’s build from here
- - [https://raw.github.com](https://raw.github.com)
- - date_published: 2024-04-28T01:54:45.281980+00:00
+ ## GitHub - Rudloff/alltube: Web GUI for youtube-dl
+ - [https://github.com/Rudloff/alltube](https://github.com/Rudloff/alltube)
+ - date_published: 2024-11-14T11:41:54+00:00
+ - tags: ['download manager']
 
- ## Home - GitHub Resources
- - [https://resources.github.com](https://resources.github.com)
- - date_published: 2024-01-19T00:00:00+00:00
+ ## GitHub - chibicitiberiu/ytsm: Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
+ - [https://github.com/chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm)
+ - date_published: 2024-11-14T11:42:10+00:00
+ - tags: ['download manager']
 
- ## GitHub Packages: Your packages, at home with their code
- - [https://rubygems.pkg.github.com](https://rubygems.pkg.github.com)
- - date_published: 2024-07-20T14:19:51.923167+00:00
-
- ## GitHub Security Lab | Securing the world’s software, together
- - [https://securitylab.github.com](https://securitylab.github.com)
- - date_published: 2023-10-25T14:44:54.681852+00:00
-
- ## GitHub Services
- - [https://services.github.com](https://services.github.com)
- - date_published: 2024-04-28T03:22:31.605679+00:00
-
- ## The GitHub Shop | Home
- - [https://shop.github.com](https://shop.github.com)
- - date_published: 2024-04-28T03:22:24.005083+00:00
-
- ## GitHub Skills
- - [https://skills.github.com](https://skills.github.com)
- - date_published: 2024-04-28T03:22:18.215794+00:00
-
- ## Your GitHub story in 3D - GitHub Skyline
- - [https://skyline.github.com](https://skyline.github.com)
- - date_published: 2023-10-25T14:44:56.097492+00:00
-
- ## GitHub Social Impact
- - [https://socialimpact.github.com](https://socialimpact.github.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## GitHub Stars: inspire, educate & influence developer communities
- - [https://stars.github.com](https://stars.github.com)
- - date_published: 2024-07-11T10:17:58+00:00
-
- ## GitHub Status
- - [https://status.github.com](https://status.github.com)
- - date_published: 2024-05-12T07:00:31.112121+00:00
-
- ## Sign in for Software Support and Product Help - GitHub Support
- - [https://support.github.com](https://support.github.com)
- - date_published: 2024-04-28T03:22:20.272116+00:00
-
- ## GitHub Training Kit
- - [https://training.github.com](https://training.github.com)
- - date_published: 2024-05-04T08:04:32.988860+00:00
-
- ## GitHub: Let’s build from here
- - [https://uploads.github.com](https://uploads.github.com)
- - date_published: 2024-05-11T09:11:21.393096+00:00
-
- ## GitHub for VS Code
- - [https://vscode-auth.github.com](https://vscode-auth.github.com)
- - date_published: 2022-09-09T19:51:59+00:00
-
- ## GitHub and VS Code
- - [https://vscode.github.com](https://vscode.github.com)
- - date_published: 2022-11-25T14:12:33+00:00
-
- ## GitHub Desktop
- - [https://windows.github.com](https://windows.github.com)
- - date_published: 2024-05-07T11:04:17.519575+00:00
-
- ## Issue Roulette
- - [https://github2.com](https://github2.com)
- - date_published: 2024-04-30T05:42:22.477195+00:00
-
- ## Join the Gitroom Discord Server!
- - [https://discord.github20k.com](https://discord.github20k.com)
- - date_published: 2024-05-04T08:12:05.409598+00:00
-
- ## Gitroom
- - [https://github20k.com](https://github20k.com)
- - date_published: 2024-06-20T07:10:13.221396+00:00
-
- ## Gitroom - Repositories list
- - [https://libraries.github20k.com](https://libraries.github20k.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## opengraph.githubassets.com (1200×630)
- - [https://opengraph.githubassets.com](https://opengraph.githubassets.com)
- - date_published: 2024-07-17T22:19:54.785345+00:00
-
- ## bestalternativesreview.com/posts/best/2 at main · devinschumacher/bestalternativesreview.com
- - [http://github-awards.com](http://github-awards.com)
- - date_published: 2024-08-03T00:00:00+00:00
-
- ## GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick
- - [https://githubcopilotinvestigation.com](https://githubcopilotinvestigation.com)
- - date_published: 2023-08-15T00:22:14+00:00
-
- ## GitHub Copilot litigation ôñô Joseph Saveri Law Firmô & Matthew Butterick
- - [https://githubcopilotlitigation.com](https://githubcopilotlitigation.com)
- - date_published: 2023-10-25T14:45:00.133493+00:00
-
- ## GitHub Explorer
- - [https://github-e.com](https://github-e.com)
- - date_published: 2017-02-02T12:31:20+00:00
-
- ## GitHub Blocks
- - [https://blocks.githubnext.com](https://blocks.githubnext.com)
- - date_published: 2023-10-25T14:45:06.114880+00:00
-
- ## GitHub Next
- - [https://githubnext.com](https://githubnext.com)
- - date_published: 2023-10-25T14:45:09.306656+00:00
-
- ## Monaspace
- - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
- - date_published: 2023-11-09T20:16:34+00:00
-
- ## GitHub Status
- - [https://githubstatus.com](https://githubstatus.com)
- - date_published: 2018-12-10T11:23:48+00:00
- - tags: ['down detector']
-
- ## GitHub Universe - November 8-9, 2023
- - [https://githubuniverse.com](https://githubuniverse.com)
- - date_published: 2023-10-25T14:45:13.916652+00:00
+ ## GitHub - alexta69/metube: Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+ - [https://github.com/alexta69/metube](https://github.com/alexta69/metube)
+ - date_published: 2024-11-14T11:42:29+00:00
+ - tags: ['download manager']
 

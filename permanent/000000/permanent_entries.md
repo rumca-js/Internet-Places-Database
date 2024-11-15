@@ -2197,6 +2197,10 @@
  - [https://platform.01.ai](https://platform.01.ai)
  - date_published: 2024-08-13T10:19:07+00:00
 
+ ## The GenAI Bug Bounty Program
+ - [https://0din.ai](https://0din.ai)
+ - date_published: 2024-11-14T20:19:52.911216+00:00
+
  ## Home | 0G
  - [https://0g.ai](https://0g.ai)
  - date_published: 2024-09-16T00:00:00+00:00
@@ -4016,8 +4020,4 @@
  ## Home - CentML
  - [https://centml.ai](https://centml.ai)
  - date_published: 2024-05-27T00:00:00+00:00
-
- ## API Security | Unified API Protection
- - [https://pages.cequence.ai](https://pages.cequence.ai)
- - date_published: 2024-10-29T07:37:13.541577+00:00
 

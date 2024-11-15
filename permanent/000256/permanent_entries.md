@@ -1,3 +1,432 @@
+ ## Home | Office for Faculty Equity & Welfare
+ - [https://ofew.berkeley.edu](https://ofew.berkeley.edu)
+ - date_published: 2024-06-30T08:46:29+00:00
+
+ ## Home | Open Berkeley
+ - [https://open.berkeley.edu](https://open.berkeley.edu)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Home | Office for the Prevention of Harassment & Discrimination
+ - [https://ophd.berkeley.edu](https://ophd.berkeley.edu)
+ - date_published: 2024-04-30T03:18:04.437102+00:00
+
+ ## UC Berkeley School of Optometry
+ - [https://optometry.berkeley.edu](https://optometry.berkeley.edu)
+ - date_published: 2023-12-02T21:50:54.268970+00:00
+
+ ## Home - Adept Lab at UCBerkeley
+ - [https://pbs.cs.berkeley.edu](https://pbs.cs.berkeley.edu)
+ - date_published: 2023-10-25T18:47:55.838189+00:00
+
+ ## People @ EECS at UC Berkeley
+ - [https://people.eecs.berkeley.edu](https://people.eecs.berkeley.edu)
+ - date_published: 2023-10-25T18:47:59.063312+00:00
+
+ ## Hello World
+ - [https://people.ischool.berkeley.edu](https://people.ischool.berkeley.edu)
+ - date_published: 2023-08-24T22:41:05+00:00
+
+ ## People's Park Housing
+ - [https://peoplesparkhousing.berkeley.edu](https://peoplesparkhousing.berkeley.edu)
+ - date_published: 2024-06-24T11:31:58+00:00
+
+ ## UC Berkeley - Department of Philosophy
+ - [http://philosophy.berkeley.edu](http://philosophy.berkeley.edu)
+ - date_published: 2024-07-01T14:42:15.726657+00:00
+
+ ## Home | Physics
+ - [https://physics.berkeley.edu](https://physics.berkeley.edu)
+ - date_published: 2024-07-08T15:32:04+00:00
+
+ ## Department of Political Science | UC Berkeley
+ - [https://polisci.berkeley.edu](https://polisci.berkeley.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Privacy | Office of Ethics
+ - [http://privacy.berkeley.edu](http://privacy.berkeley.edu)
+ - date_published: 2024-07-22T07:48:14+00:00
+
+ ## Ptolemy Project Home Page
+ - [https://ptolemy.berkeley.edu](https://ptolemy.berkeley.edu)
+ - date_published: 2023-10-25T18:48:03.786652+00:00
+
+ ## Ptolemy Project Home Page
+ - [https://ptolemy.eecs.berkeley.edu](https://ptolemy.eecs.berkeley.edu)
+ - date_published: 2024-04-30T03:26:13.031871+00:00
+
+ ## Communications & Public Affairs | Communications & Public Affairs
+ - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
+ - date_published: 2024-04-30T03:19:52.155020+00:00
+
+ ## School of Public Health | University of California, Berkeley
+ - [https://publichealth.berkeley.edu](https://publichealth.berkeley.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## RAD Lab
+ - [http://radlab.cs.berkeley.edu](http://radlab.cs.berkeley.edu)
+ - date_published: 2024-06-22T09:31:06+00:00
+
+ ## Robotics and AI Lab @ BAIR
+ - [https://rail.eecs.berkeley.edu](https://rail.eecs.berkeley.edu)
+ - date_published: 2019-12-13T00:00:00+00:00
+
+ ## Richard Allen
+ - [http://rallen.berkeley.edu](http://rallen.berkeley.edu)
+ - date_published: 2024-06-13T21:48:05+00:00
+
+ ## Home
+ - [https://recsports.berkeley.edu](https://recsports.berkeley.edu)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Home - Redwood Center for Theoretical Neuroscience
+ - [https://redwood.berkeley.edu](https://redwood.berkeley.edu)
+ - date_published: 2019-09-05T00:00:00+00:00
+
+ ## Homepage - Office of the Registrar
+ - [https://registrar.berkeley.edu](https://registrar.berkeley.edu)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Undergraduate Research & Scholarships – University California, Berkeley
+ - [https://research.berkeley.edu](https://research.berkeley.edu)
+ - date_published: 2024-07-13T13:04:37.990596+00:00
+
+ ## Welcome to Research IT | Research IT
+ - [http://research-it.berkeley.edu](http://research-it.berkeley.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Inclusive Restrooms | Facilities Services
+ - [https://restrooms.berkeley.edu](https://restrooms.berkeley.edu)
+ - date_published: 2024-08-08T21:40:05+00:00
+
+ ## RISE Camp – RISE Camp
+ - [http://risecamp.berkeley.edu](http://risecamp.berkeley.edu)
+ - date_published: 2024-06-22T10:19:05.935208+00:00
+
+ ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
+ - [https://rise.cs.berkeley.edu](https://rise.cs.berkeley.edu)
+ - date_published: 2021-04-26T00:00:00+00:00
+
+ ## RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
+ - [http://riselab.cs.berkeley.edu](http://riselab.cs.berkeley.edu)
+ - date_published: 2021-04-26T00:00:00+00:00
+
+ ## Home | Risk Services
+ - [http://riskservices.berkeley.edu](http://riskservices.berkeley.edu)
+ - date_published: 2024-07-22T07:45:02+00:00
+
+ ## Berkeley Robotics and Intelligent Machines Lab
+ - [http://robotics.eecs.berkeley.edu](http://robotics.eecs.berkeley.edu)
+ - date_published: 2018-05-03T00:01:31+00:00
+
+ ## Roorda Lab
+ - [http://roorda.vision.berkeley.edu](http://roorda.vision.berkeley.edu)
+ - date_published: 2017-04-18T19:12:58+00:00
+
+ ## Home | Research, Teaching, and Learning
+ - [https://rtl.berkeley.edu](https://rtl.berkeley.edu)
+ - date_published: 2024-07-02T16:54:40+00:00
+
+ ## UC Berkeley Sutardja Center for Entrepreneurship & Technology - Home - UC Berkeley Sutardja Center
+ - [https://scet.berkeley.edu](https://scet.berkeley.edu)
+ - date_published: 2023-06-07T00:00:00+00:00
+
+ ## Open Computing Facility at UC Berkeley
+ - [https://secure.ocf.berkeley.edu](https://secure.ocf.berkeley.edu)
+ - date_published: 2024-10-22T17:45:55.304038+00:00
+
+ ## Home | Information Security Office
+ - [https://security.berkeley.edu](https://security.berkeley.edu)
+ - date_published: 2024-07-08T14:52:04+00:00
+
+ ## UC Berkeley Seismology Lab
+ - [http://seismo.berkeley.edu](http://seismo.berkeley.edu)
+ - date_published: 2024-07-19T16:15:50+00:00
+
+ ## SETI@home
+ - [https://setiathome.berkeley.edu](https://setiathome.berkeley.edu)
+ - date_published: 2023-10-25T18:48:06.909632+00:00
+
+ ## SETI@home
+ - [https://setiathome.ssl.berkeley.edu](https://setiathome.ssl.berkeley.edu)
+ - date_published: 2024-04-30T03:27:57.598323+00:00
+
+ ## Homepage
+ - [https://simons.berkeley.edu](https://simons.berkeley.edu)
+ - date_published: 2024-05-04T15:31:14.510826+00:00
+
+ ## School of Information Sites • sites for the I School community
+ - [https://sites.ischool.berkeley.edu](https://sites.ischool.berkeley.edu)
+ - date_published: 2024-02-26T12:52:56.312090+00:00
+
+ ## UC Berkeley Sky Computing – UC Berkeley Computer Science Dept
+ - [https://sky.cs.berkeley.edu](https://sky.cs.berkeley.edu)
+ - date_published: 2024-05-04T15:31:10.029141+00:00
+
+ ## UC Berkeley SLICE Lab – UC Berkeley, Electrical Engineering and Computer Sciences Department
+ - [https://slice.eecs.berkeley.edu](https://slice.eecs.berkeley.edu)
+ - date_published: 2024-07-01T20:09:27.632339+00:00
+
+ ## Snap! Build Your Own Blocks
+ - [https://snap.berkeley.edu](https://snap.berkeley.edu)
+ - date_published: 2024-04-30T03:18:17.219037+00:00
+
+ ## Home | UC Berkeley Sociology Department
+ - [http://sociology.berkeley.edu](http://sociology.berkeley.edu)
+ - date_published: 2024-06-17T11:15:15.363073+00:00
+
+ ## Socrates and Berkeley Scholars Web Hosting Services Have Been Retired | Web Platform Services
+ - [http://socrates.berkeley.edu](http://socrates.berkeley.edu)
+ - date_published: 2024-07-02T08:45:16+00:00
+
+ ## The Soft Walls Project
+ - [https://softwalls.eecs.berkeley.edu](https://softwalls.eecs.berkeley.edu)
+ - date_published: 2013-12-17T00:00:00+00:00
+
+ ## UC Berkeley Sponsored Projects
+ - [https://spo.berkeley.edu](https://spo.berkeley.edu)
+ - date_published: 2024-06-17T22:02:15+00:00
+
+ ## Home | Staff Ombuds Office
+ - [http://staffombuds.berkeley.edu](http://staffombuds.berkeley.edu)
+ - date_published: 2024-07-22T07:02:15+00:00
+
+ ## Statistics at UC Berkeley | Department of Statistics
+ - [https://stat.berkeley.edu](https://stat.berkeley.edu)
+ - date_published: 2023-10-25T18:48:16.122861+00:00
+
+ ## Statistics at UC Berkeley | Department of Statistics
+ - [https://statistics.berkeley.edu](https://statistics.berkeley.edu)
+ - date_published: 2024-07-22T07:42:41.429629+00:00
+
+ ## Open Computing Facility Status
+ - [https://status.ocf.berkeley.edu](https://status.ocf.berkeley.edu)
+ - date_published: 2024-03-23T18:14:52+00:00
+
+ ## Welcome | UCB Study Abroad
+ - [https://studyabroad.berkeley.edu](https://studyabroad.berkeley.edu)
+ - date_published: 2024-07-13T10:44:24+00:00
+
+ ## Berkeley Summer Sessions | Berkeley Summer Sessions
+ - [https://summer.berkeley.edu](https://summer.berkeley.edu)
+ - date_published: 2024-07-10T17:19:03+00:00
+
+ ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+ - [http://sunsite.berkeley.edu](http://sunsite.berkeley.edu)
+ - date_published: 2023-04-28T16:52:29+00:00
+
+ ## supernode
+ - [https://supernode.berkeley.edu](https://supernode.berkeley.edu)
+ - date_published: 2024-05-24T00:14:24+00:00
+
+ ## Home | Support Portal
+ - [https://supportal.berkeley.edu](https://supportal.berkeley.edu)
+ - date_published: 2024-07-22T07:35:48+00:00
+
+ ## Home | Swarm Lab
+ - [http://swarmlab.eecs.berkeley.edu](http://swarmlab.eecs.berkeley.edu)
+ - date_published: 2024-07-22T06:45:49+00:00
+
+ ## Information Technology
+ - [https://technology.berkeley.edu](https://technology.berkeley.edu)
+ - date_published: 2024-07-02T17:43:18+00:00
+
+ ## anthrohub - Search Results - Digital Collections
+ - [http://techreports.lib.berkeley.edu](http://techreports.lib.berkeley.edu)
+ - date_published: 2024-07-02T13:34:33.530623+00:00
+
+ ## Home - Terner Center
+ - [https://ternercenter.berkeley.edu](https://ternercenter.berkeley.edu)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Home | Thriving
+ - [https://thriving.berkeley.edu](https://thriving.berkeley.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Home | The Third World Liberation Front
+ - [https://twlf.berkeley.edu](https://twlf.berkeley.edu)
+ - date_published: 2024-07-22T06:35:48+00:00
+
+ ## Home | Berkeley UCPD
+ - [https://ucpd.berkeley.edu](https://ucpd.berkeley.edu)
+ - date_published: 2024-07-22T07:43:40+00:00
+
+ ## Home | University of California Undergraduate Experience Survey
+ - [https://ucues.berkeley.edu](https://ucues.berkeley.edu)
+ - date_published: 2024-07-22T06:54:25+00:00
+
+ ## Home | Undergraduate Education
+ - [https://ue.berkeley.edu](https://ue.berkeley.edu)
+ - date_published: 2024-08-09T02:58:08+00:00
+
+ ## University Health Services
+ - [https://uhs.berkeley.edu](https://uhs.berkeley.edu)
+ - date_published: 2024-04-30T03:19:15.085528+00:00
+
+ ## Undocumented Student Program: The University of California at Berkeley
+ - [https://undocu.berkeley.edu](https://undocu.berkeley.edu)
+ - date_published: 2015-05-10T00:00:00+00:00
+
+ ## Home | University Business Partnerships & Services
+ - [https://upp.berkeley.edu](https://upp.berkeley.edu)
+ - date_published: 2024-09-04T18:41:44+00:00
+
+ ## Home | Vice Chancellor Administration
+ - [https://vca.berkeley.edu](https://vca.berkeley.edu)
+ - date_published: 2024-08-08T22:55:45+00:00
+
+ ## Home | Research UC Berkeley
+ - [https://vcresearch.berkeley.edu](https://vcresearch.berkeley.edu)
+ - date_published: 2024-07-13T13:04:39.678634+00:00
+
+ ## Home | Undergraduate Education
+ - [https://vcue.berkeley.edu](https://vcue.berkeley.edu)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Visualization Lab | UC Berkeley
+ - [http://vis.berkeley.edu](http://vis.berkeley.edu)
+ - date_published: 2022-10-23T06:26:12+00:00
+
+ ## UC Berkeley Vision
+ - [https://vision-api.berkeley.edu](https://vision-api.berkeley.edu)
+ - date_published: 2024-07-22T07:36:41.861282+00:00
+
+ ## UC Berkeley Vision
+ - [https://vision.berkeley.edu](https://vision.berkeley.edu)
+ - date_published: 2024-04-30T03:25:52.728450+00:00
+
+ ## Home | Visitor Services
+ - [https://visit.berkeley.edu](https://visit.berkeley.edu)
+ - date_published: 2024-04-26T00:00:00+00:00
+
+ ## Voices
+ - [https://voices.berkeley.edu](https://voices.berkeley.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## Home | Visiting Scholar & Postdoc Affairs
+ - [https://vspa.berkeley.edu](https://vspa.berkeley.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## WAFR 2016
+ - [http://wafr2016.berkeley.edu](http://wafr2016.berkeley.edu)
+ - date_published: 2021-05-06T01:19:28+00:00
+
+ ## UC Berkeley WarnMe Emergency Alert Service
+ - [http://warnme.berkeley.edu](http://warnme.berkeley.edu)
+ - date_published: 2024-07-22T07:42:14.452172+00:00
+
+ ## Home | Digital Accessibility
+ - [https://webaccess.berkeley.edu](https://webaccess.berkeley.edu)
+ - date_published: 2024-06-02T00:00:00+00:00
+
+ ## Home | Web Platform Services
+ - [https://web.berkeley.edu](https://web.berkeley.edu)
+ - date_published: 2024-07-22T17:35:47+00:00
+
+ ## Webcast and Legacy Course Capture | Research, Teaching, and Learning
+ - [http://webcast.berkeley.edu](http://webcast.berkeley.edu)
+ - date_published: 2024-08-06T05:17:42+00:00
+
+ ## Wikis | EECS Wiki Server
+ - [https://wiki.eecs.berkeley.edu](https://wiki.eecs.berkeley.edu)
+ - date_published: 2024-04-30T03:27:43.570975+00:00
+
+ ## Index of /
+ - [http://www1.icsi.berkeley.edu](http://www1.icsi.berkeley.edu)
+ - date_published: 2024-04-28T03:26:46.953639+00:00
+
+ ## Home | EECS at UC Berkeley
+ - [https://www2.eecs.berkeley.edu](https://www2.eecs.berkeley.edu)
+ - date_published: 2024-04-30T03:26:00.185920+00:00
+
+ ## SIMS: School of Information Management and Systems,
+         UC Berkeley
+ - [http://www2.sims.berkeley.edu](http://www2.sims.berkeley.edu)
+ - date_published: 2008-05-20T21:26:47+00:00
+
+ ## Berkeley Emerging Technologies Research (BETR)
+ - [https://www.betr.berkeley.edu](https://www.betr.berkeley.edu)
+ - date_published: 2024-10-19T08:13:49.462989+00:00
+
+ ## People @ EECS at UC Berkeley
+ - [http://www-cad.eecs.berkeley.edu](http://www-cad.eecs.berkeley.edu)
+ - date_published: 2024-08-19T20:41:21.786029+00:00
+
+ ## Home | CSUA
+ - [https://www.csua.berkeley.edu](https://www.csua.berkeley.edu)
+ - date_published: 2024-08-07T15:54:40.805067+00:00
+
+ ## Department of Economics
+ - [https://www.econ.berkeley.edu](https://www.econ.berkeley.edu)
+ - date_published: 2024-06-22T05:45:40+00:00
+
+ ## Gopnik Lab
+ - [http://www.gopniklab.berkeley.edu](http://www.gopniklab.berkeley.edu)
+ - date_published: 2024-06-22T08:13:10.885646+00:00
+
+ ## EECS Instructional Support Group Home Page
+ - [http://www-inst.eecs.berkeley.edu](http://www-inst.eecs.berkeley.edu)
+ - date_published: 2024-03-22T19:03:40+00:00
+
+ ## Space Sciences Lab
+ - [https://www.ssl.berkeley.edu](https://www.ssl.berkeley.edu)
+ - date_published: 2024-07-14T04:06:54.165634+00:00
+
+ ## VIP Lab
+ - [http://www-video.eecs.berkeley.edu](http://www-video.eecs.berkeley.edu)
+ - date_published: 2024-06-22T09:06:30.537459+00:00
+
+ ## Boston Conservatory at Berklee
+ - [https://bostonconservatory.berklee.edu](https://bostonconservatory.berklee.edu)
+ - date_published: 2024-06-21T13:59:48+00:00
+
+ ## OneLogin
+ - [https://canvas.berklee.edu](https://canvas.berklee.edu)
+ - date_published: 2024-06-12T05:31:51+00:00
+
+ ## Berklee College of Music
+ - [https://college.berklee.edu](https://college.berklee.edu)
+ - date_published: 2024-06-21T14:00:45+00:00
+
+ ## OneLogin
+ - [https://hub.berklee.edu](https://hub.berklee.edu)
+ - date_published: 2024-06-12T05:31:51+00:00
+
+ ## Welcome | The Library
+ - [https://library.berklee.edu](https://library.berklee.edu)
+ - date_published: 2024-06-21T13:55:46+00:00
+
+ ## Berklee NYC
+ - [https://nyc.berklee.edu](https://nyc.berklee.edu)
+ - date_published: 2024-06-21T13:24:34+00:00
+
+ ## Berklee Online - Master's and Bachelor's Music Degrees, Certificates, and Courses
+ - [https://online.berklee.edu](https://online.berklee.edu)
+ - date_published: 2024-06-21T14:02:04.173187+00:00
+
+ ## Berklee Summer Programs
+ - [https://summer.berklee.edu](https://summer.berklee.edu)
+ - date_published: 2024-06-21T13:59:50+00:00
+
+ ## Berklee Valencia
+ - [https://valencia.berklee.edu](https://valencia.berklee.edu)
+ - date_published: 2024-06-21T14:00:40+00:00
+
+ ## Berklee
+ - [https://www.berklee.edu](https://www.berklee.edu)
+ - date_published: 2024-05-04T12:48:28.793799+00:00
+
+ ## Private Liberal Arts College in Bethany, WV - Bethany College
+ - [http://www.bethanywv.edu](http://www.bethanywv.edu)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Psychoanalysis and Mental Health Counseling Graduate Degrees - Boston Graduate School of Psychoanalysis
+ - [https://bgsp.edu](https://bgsp.edu)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## Welcome - The Institute of Counseling and Psychoanalytic Studies
+ - [https://nj.bgsp.edu](https://nj.bgsp.edu)
+ - date_published: 2024-02-05T00:00:00+00:00
+
  ## Home - New York Graduate School of Psychoanalysis
  - [https://nygsp.bgsp.edu](https://nygsp.bgsp.edu)
  - date_published: 2024-05-17T00:00:00+00:00
@@ -3590,433 +4019,4 @@ Home
  ## Digital Collections
  - [https://digitalcollections.library.cmu.edu](https://digitalcollections.library.cmu.edu)
  - date_published: 2024-07-22T06:12:24.937785+00:00
-
- ## Directory Search - CMU - Carnegie Mellon University
- - [https://directory.andrew.cmu.edu](https://directory.andrew.cmu.edu)
- - date_published: 2024-07-22T06:11:20.384492+00:00
-
- ## index - Electrical and Computer Engineering - College of Engineering - Carnegie Mellon University
- - [https://ece.cmu.edu](https://ece.cmu.edu)
- - date_published: 2024-07-01T18:30:11+00:00
-
- ## Courses Taught by Golan Levin at Carnegie Mellon University, 2009-2022
- - [https://ems.andrew.cmu.edu](https://ems.andrew.cmu.edu)
- - date_published: 2023-10-02T04:29:57+00:00
-
- ## College of Engineering, Carnegie Mellon University
- - [https://engineering.cmu.edu](https://engineering.cmu.edu)
- - date_published: 2024-04-30T03:46:05.535695+00:00
-
- ## enr-apps.as.cmu.edu index
- - [https://enr-apps.as.cmu.edu](https://enr-apps.as.cmu.edu)
- - date_published: 2020-05-28T18:15:13+00:00
-
- ## Home Page of Michael Shamos
- - [http://euro.ecom.cmu.edu](http://euro.ecom.cmu.edu)
- - date_published: 2018-08-12T17:31:37+00:00
-
- ## Executive & Professional Education
- - [https://exec.cs.cmu.edu](https://exec.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:27.749594+00:00
-
- ## CMU - Executive Education - Software and Societal Systems Department - Carnegie Mellon University
- - [https://execed.s3d.cmu.edu](https://execed.s3d.cmu.edu)
- - date_published: 2024-01-04T14:06:26+00:00
-
- ## Carnegie Mellon University School of Computer Science
- - [https://execonline.cs.cmu.edu](https://execonline.cs.cmu.edu)
- - date_published: 2024-07-22T06:11:28.369347+00:00
-
- ## Geometry Collective
- - [http://geometry.cs.cmu.edu](http://geometry.cs.cmu.edu)
- - date_published: 2024-05-10T18:53:00+00:00
-
- ## Cierpliwości...
- - [https://give.cmu.edu](https://give.cmu.edu)
- - date_published: 2024-04-30T03:46:38.712095+00:00
-
- ## Carnegie Mellon UniversityCarnegie Mellon University
- - [https://givenow.cmu.edu](https://givenow.cmu.edu)
- - date_published: 2024-08-07T16:52:08.066635+00:00
-
- ## Give - Engage with CMU - Carnegie Mellon University
- - [http://giving.cmu.edu](http://giving.cmu.edu)
- - date_published: 2024-07-19T19:25:09+00:00
-
- ## Carnegie Mellon Computer Graphics
- - [http://graphics.cs.cmu.edu](http://graphics.cs.cmu.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Welcome to HCII | Human-Computer Interaction Institute
- - [https://hcii.cmu.edu](https://hcii.cmu.edu)
- - date_published: 2024-07-02T13:33:48+00:00
-
- ## Carnegie Mellon University's Heinz College - Public Policy & Information Systems Graduate School
- - [https://heinz.cmu.edu](https://heinz.cmu.edu)
- - date_published: 2024-05-08T09:36:17.507547+00:00
-
- ## Imaging @ CMU
- - [https://imaging.cs.cmu.edu](https://imaging.cs.cmu.edu)
- - date_published: 2024-06-22T07:36:41.163768+00:00
-
- ## Information Networking Institute - Information Networking Institute - College of Engineering - Carnegie Mellon University
- - [https://ini.cmu.edu](https://ini.cmu.edu)
- - date_published: 2024-10-07T15:33:23+00:00
-
- ## Blog Index (Homepage) | CMU Software Engineering Institute
- - [https://insights.sei.cmu.edu](https://insights.sei.cmu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Carnegie Mellon University research repository - Browse
- - [https://kilthub.cmu.edu](https://kilthub.cmu.edu)
- - date_published: 2024-04-30T05:50:25.305533+00:00
-
- ## The Kitchin Research Group
- - [https://kitchingroup.cheme.cmu.edu](https://kitchingroup.cheme.cmu.edu)
- - date_published: 2024-06-08T00:00:00+00:00
-
- ## Home - labs
- - [https://labs.ri.cmu.edu](https://labs.ri.cmu.edu)
- - date_published: 2024-07-16T23:23:43+00:00
-
- ## LEAF
- - [https://leaf.cmu.edu](https://leaf.cmu.edu)
- - date_published: 2021-12-19T13:47:01+00:00
-
- ## Home | CMU Libraries
- - [https://library.cmu.edu](https://library.cmu.edu)
- - date_published: 2024-04-30T03:46:12.715013+00:00
-
- ## Andrew Mailman Mailing Lists at Carnegie Mellon
- - [http://lists.andrew.cmu.edu](http://lists.andrew.cmu.edu)
- - date_published: 2018-10-16T16:41:57+00:00
-
- ## Language Technologies Institute - Language Technologies Institute - School of Computer Science - Carnegie Mellon University
- - [http://lti.cmu.edu](http://lti.cmu.edu)
- - date_published: 2024-05-23T00:00:00+00:00
-
- ## Language Technologies Institute - Language Technologies Institute - School of Computer Science - Carnegie Mellon University
- - [https://lti.cs.cmu.edu](https://lti.cs.cmu.edu)
- - date_published: 2024-06-12T21:50:46+00:00
-
- ## The Link - The Magazine of CMU's School of Computer Science
- - [https://magazine.cs.cmu.edu](https://magazine.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:29.941665+00:00
-
- ## MAGVIT
- - [https://magvit.cs.cmu.edu](https://magvit.cs.cmu.edu)
- - date_published: 2024-01-04T15:47:45+00:00
-
- ## Department of Mathematical Sciences
- - [https://math.cmu.edu](https://math.cmu.edu)
- - date_published: 2011-04-05T14:01:54+00:00
-
- ## Michael Trick's Operations Research Page
- - [http://mat.tepper.cmu.edu](http://mat.tepper.cmu.edu)
- - date_published: 2018-07-25T19:47:07+00:00
-
- ## Introducing the MemexQA dataset
- - [https://memexqa.cs.cmu.edu](https://memexqa.cs.cmu.edu)
- - date_published: 2024-07-13T03:18:00.941688+00:00
-
- ## Miller Institute for Contemporary Art
- - [http://miller-ica.cmu.edu](http://miller-ica.cmu.edu)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Machine Learning | CMU | Carnegie Mellon University
- - [https://ml.cmu.edu](https://ml.cmu.edu)
- - date_published: 2018-09-28T19:15:36+00:00
-
- ## MLSP Carnegie Mellon University
- - [http://mlsp.cs.cmu.edu](http://mlsp.cs.cmu.edu)
- - date_published: 2018-02-14T20:47:08+00:00
-
- ## Morphing Matter Lab Directed by Lining Yao
- - [https://morphingmatter.cs.cmu.edu](https://morphingmatter.cs.cmu.edu)
- - date_published: 2024-02-25T08:48:26.700946+00:00
-
- ## Home - MRSD | Master of Science - Robotic Systems Development Program
- - [https://mrsd.ri.cmu.edu](https://mrsd.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:11.873698+00:00
-
- ## M.S. in Automated Science - M.S. in Automated Science - Ray and Stephanie Lane Computational Biology Department - Carnegie Mellon University
- - [http://msas.cbd.cmu.edu](http://msas.cbd.cmu.edu)
- - date_published: 2024-02-28T00:00:00+00:00
-
- ## Software Engineering Masters Programs - Master of Software Engineering Programs - Software and Societal Systems Department - Carnegie Mellon University
- - [https://mse.isri.cmu.edu](https://mse.isri.cmu.edu)
- - date_published: 2024-07-17T17:45:52+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://my.contrib.andrew.cmu.edu](https://my.contrib.andrew.cmu.edu)
- - date_published: 2024-07-20T10:31:32.622653+00:00
-
- ## OpenSlide
- - [https://openslide.cs.cmu.edu](https://openslide.cs.cmu.edu)
- - date_published: 2024-09-29T00:00:00+00:00
-
- ## Penrose | Penrose
- - [https://penrose.cs.cmu.edu](https://penrose.cs.cmu.edu)
- - date_published: 2023-10-25T18:49:42.884999+00:00
-
- ## Log In - Carnegie Mellon University CyLab
- - [https://portal.cylab.cmu.edu](https://portal.cylab.cmu.edu)
- - date_published: 2024-07-08T13:51:07.595402+00:00
-
- ## Home | ETC Press - Carnegie Mellon University
- - [https://press.etc.cmu.edu](https://press.etc.cmu.edu)
- - date_published: 2024-07-13T17:12:06+00:00
-
- ## Privacy Engineering Program - Privacy Engineering Program - Software and Societal Systems Department - Carnegie Mellon University
- - [https://privacy.cs.cmu.edu](https://privacy.cs.cmu.edu)
- - date_published: 2024-04-25T14:53:29+00:00
-
- ## Puzzlehunt CMU
- - [https://puzzlehunt.club.cc.cmu.edu](https://puzzlehunt.club.cc.cmu.edu)
- - date_published: 2024-05-01T03:11:08.162765+00:00
-
- ## Qatar - Carnegie Mellon University in Qatar
- - [https://qatar.cmu.edu](https://qatar.cmu.edu)
- - date_published: 2024-04-25T00:00:00+00:00
-
- ## SCS TECHNICAL REPORT COLLECTION
- - [http://reports-archive.adm.cs.cmu.edu](http://reports-archive.adm.cs.cmu.edu)
- - date_published: 2013-02-04T17:56:13+00:00
-
- ## SEI Digital Library
- - [https://resources.sei.cmu.edu](https://resources.sei.cmu.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Carnegie Mellon Research Experiences for Undergraduates - Research Experiences for Undergraduates in Software Engineering (REUSE) Program - Software and Societal Systems Department - Carnegie Mellon University
- - [https://reuse.cs.cmu.edu](https://reuse.cs.cmu.edu)
- - date_published: 2024-03-04T15:00:22+00:00
-
- ## Robotics Institute Carnegie Mellon University : Robotics Education and Research Leader
- - [https://ri.cmu.edu](https://ri.cmu.edu)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Home - Robotics Institute Summer Scholars (RISS)
- - [https://riss.ri.cmu.edu](https://riss.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:07.096026+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://roboguide.ri.cmu.edu](https://roboguide.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:09.101638+00:00
-
- ## RoboTouch Lab
- - [http://robotouch.ri.cmu.edu](http://robotouch.ri.cmu.edu)
- - date_published: 2021-08-30T05:00:54+00:00
-
- ## SCS Rooms - SCS Building Facilities - Carnegie Mellon University
- - [https://rooms.cs.cmu.edu](https://rooms.cs.cmu.edu)
- - date_published: 2023-10-27T19:58:59+00:00
-
- ## Read the Web :: Carnegie Mellon University
- - [http://rtw.ml.cmu.edu](http://rtw.ml.cmu.edu)
- - date_published: 2024-07-02T05:51:26.623678+00:00
-
- ## Software and Societal Systems Department - Software and Societal Systems - School of Computer Science - Carnegie Mellon University
- - [https://s3d.cmu.edu](https://s3d.cmu.edu)
- - date_published: 2024-04-28T03:37:44.480066+00:00
-
- ## Societal Computing - Societal Computing - Software and Societal Systems Department - Carnegie Mellon University
- - [http://sc.cs.cmu.edu](http://sc.cs.cmu.edu)
- - date_published: 2024-06-12T15:42:11+00:00
-
- ## Carnegie Mellon University
- - [https://scholars.cmu.edu](https://scholars.cmu.edu)
- - date_published: 2024-10-14T19:31:01.936047+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://scotty.qatar.cmu.edu](https://scotty.qatar.cmu.edu)
- - date_published: 2024-08-08T22:48:41.646740+00:00
-
- ## CMU School of Computer Science
- - [https://scs.cmu.edu](https://scs.cmu.edu)
- - date_published: 2024-04-28T04:07:36.950207+00:00
-
- ## SCS Business Office - SCS Business Office - Carnegie Mellon University
- - [https://scsdean.cs.cmu.edu](https://scsdean.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:28.919866+00:00
-
- ## Search - Carnegie Mellon University
- - [https://search.cmu.edu](https://search.cmu.edu)
- - date_published: 2024-04-30T03:46:13.890831+00:00
-
- ## Software Engineering Institute
- - [https://sei.cmu.edu](https://sei.cmu.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Software Engineering PhD Program - Software Engineering Ph.D. Program - Software and Societal Systems Department - Carnegie Mellon University
- - [https://se-phd.s3d.cmu.edu](https://se-phd.s3d.cmu.edu)
- - date_published: 2024-07-16T14:08:36+00:00
-
- ## SML – Soft Machines Lab
- - [http://sml.me.cmu.edu](http://sml.me.cmu.edu)
- - date_published: 2024-06-22T10:06:30.031854+00:00
-
- ## Statistics & Data Science - Statistics & Data Science - Dietrich College of Humanities and Social Sciences - Carnegie Mellon University
- - [https://stat.cmu.edu](https://stat.cmu.edu)
- - date_published: 2024-05-07T15:26:45.839364+00:00
-
- ## CNBC – Center for Neural Basis of Cognition
- - [http://stims.cnbc.cmu.edu](http://stims.cnbc.cmu.edu)
- - date_published: 2024-07-02T05:48:55.242398+00:00
-
- ## TartanConnect
- - [https://tartanconnect.cmu.edu](https://tartanconnect.cmu.edu)
- - date_published: 2024-07-22T12:51:29.914563+00:00
-
- ## Universal Digital Library: Million Book Collection , hosted by Carnegie 
-Mellon University
- - [http://ulib.isri.cmu.edu](http://ulib.isri.cmu.edu)
- - date_published: 2018-03-30T13:34:05+00:00
-
- ## index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University
- - [https://users.ece.cmu.edu](https://users.ece.cmu.edu)
- - date_published: 2023-10-25T18:49:47.511158+00:00
-
- ## Computer Vision @ CMU
- - [http://vision.cs.cmu.edu](http://vision.cs.cmu.edu)
- - date_published: 2024-03-20T02:42:50+00:00
-
- ## Search - Carnegie Mellon University
- - [https://web-search.andrew.cmu.edu](https://web-search.andrew.cmu.edu)
- - date_published: 2024-04-30T03:45:56.836899+00:00
-
- ## SEI External Wiki Home - Homepage - Confluence
- - [https://wiki.sei.cmu.edu](https://wiki.sei.cmu.edu)
- - date_published: 2024-05-04T15:12:45.076140+00:00
-
- ## CMU School of Computer Science
- - [http://www-2.cs.cmu.edu](http://www-2.cs.cmu.edu)
- - date_published: 2024-07-04T01:37:22.665006+00:00
-
- ## CMU-Africa
- - [https://www.africa.engineering.cmu.edu](https://www.africa.engineering.cmu.edu)
- - date_published: 2024-10-30T23:26:06+00:00
-
- ## Biomedical Engineering - Biomedical Engineering - College of Engineering - Carnegie Mellon University
- - [https://www.bme.cmu.edu](https://www.bme.cmu.edu)
- - date_published: 2024-06-25T21:16:28+00:00
-
- ## CNBC – Center for Neural Basis of Cognition
- - [http://www.cnbc.cmu.edu](http://www.cnbc.cmu.edu)
- - date_published: 2024-07-12T16:13:13.144450+00:00
-
- ## Carnegie Mellon-University of Pittsburgh Ph.D. Program in Computational Biology - Joint Carnegie Mellon-University of Pittsburgh Ph.D. Program in Computational Biology - Carnegie Mellon University
- - [http://www.compbio.cmu.edu](http://www.compbio.cmu.edu)
- - date_published: 2024-06-17T14:34:23+00:00
-
- ## CMU Contributed Webserver
- - [https://www.contrib.andrew.cmu.edu](https://www.contrib.andrew.cmu.edu)
- - date_published: 2019-01-22T22:47:08+00:00
-
- ## Carnegie Mellon Robotics Academy - Carnegie Mellon Robotics Academy - Carnegie Mellon University
- - [http://www.education.rec.ri.cmu.edu](http://www.education.rec.ri.cmu.edu)
- - date_published: 2024-05-09T23:39:15+00:00
-
- ## Entertainment Technology Center
- - [http://www.etc.cmu.edu](http://www.etc.cmu.edu)
- - date_published: 2024-07-17T23:15:59.385786+00:00
-
- ## Department of Mechanical Engineering
- - [https://www.meche.engineering.cmu.edu](https://www.meche.engineering.cmu.edu)
- - date_published: 2024-07-21T15:22:27+00:00
-
- ## Materials Science and Engineering
- - [https://www.mse.engineering.cmu.edu](https://www.mse.engineering.cmu.edu)
- - date_published: 2024-07-22T04:35:23+00:00
-
- ## National Robotics Engineering Center - National Robotics Engineering Center - Carnegie Mellon University
- - [https://www.nrec.ri.cmu.edu](https://www.nrec.ri.cmu.edu)
- - date_published: 2024-04-30T03:47:13.493869+00:00
-
- ## Parallel Data Lab
- - [https://www.pdl.cmu.edu](https://www.pdl.cmu.edu)
- - date_published: 2019-01-24T20:52:12+00:00
-
- ## National Robotics Engineering Center - National Robotics Engineering Center - Carnegie Mellon University
- - [http://www.rec.ri.cmu.edu](http://www.rec.ri.cmu.edu)
- - date_published: 2024-07-03T18:59:35+00:00
-
- ## CMU Speech Group Home Page
- - [http://www.speech.cs.cmu.edu](http://www.speech.cs.cmu.edu)
- - date_published: 2022-06-26T18:22:39+00:00
-
- ## Your day at CMU-Q – a photo tour – Ideas that shape our world start here.
- - [https://yourday.qatar.cmu.edu](https://yourday.qatar.cmu.edu)
- - date_published: 2024-08-08T22:48:29.497643+00:00
-
- ## Christopher Newport University
- - [http://www.cnu.edu](http://www.cnu.edu)
- - date_published: 2024-10-30T20:18:48.835736+00:00
-
- ## APPLICATION PORTAL
- - [https://admissions.cod.edu](https://admissions.cod.edu)
- - date_published: 2024-06-16T07:41:12+00:00
-
- ## Home - College of DuPage Alumni Relations
- - [https://alumni.cod.edu](https://alumni.cod.edu)
- - date_published: 2024-06-16T07:41:36.373449+00:00
-
- ## Blackboard Learn
- - [https://bb.cod.edu](https://bb.cod.edu)
- - date_published: 2004-06-16T07:41:13+00:00
-
- ## College of DuPage Catalog < College of DuPage
- - [https://catalog.cod.edu](https://catalog.cod.edu)
- - date_published: 2024-06-12T15:01:12+00:00
-
- ## College of DuPage
- - [https://cod.edu](https://cod.edu)
- - date_published: 2024-09-17T00:00:00+00:00
-
- ## Home - College of DuPage Foundation
- - [https://foundation.cod.edu](https://foundation.cod.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Sign In
- - [https://inside.cod.edu](https://inside.cod.edu)
- - date_published: 2024-06-16T07:41:09.506082+00:00
-
- ## Sign In - College of DuPage Student Application
- - [https://selfserv.cod.edu](https://selfserv.cod.edu)
- - date_published: 2024-06-16T07:41:33.166361+00:00
-
- ## Class Web Sites
- - [http://classes.colgate.edu](http://classes.colgate.edu)
- - date_published: 2024-05-01T08:04:59.034137+00:00
-
- ## Colgate University - Leading Liberal Arts Education
- - [https://colgate.edu](https://colgate.edu)
- - date_published: 2024-09-09T14:18:14+00:00
-
- ## Colgate University Libraries | Colgate University Libraries
- - [https://cul.colgate.edu](https://cul.colgate.edu)
- - date_published: 2024-09-09T14:48:03.253297+00:00
-
- ## Colgate University Digital Collections  | Digital Collections
- - [https://digitalcollections.colgate.edu](https://digitalcollections.colgate.edu)
- - date_published: 2024-04-30T06:33:20.211343+00:00
-
- ## Welcome | CIRES
- - [https://admin-cires.colorado.edu](https://admin-cires.colorado.edu)
- - date_published: 2024-07-08T11:24:13+00:00
-
- ## Home | Undergraduate Advising
- - [http://advising.colorado.edu](http://advising.colorado.edu)
- - date_published: 2024-08-11T02:43:55.729830+00:00
-
- ## CU Boulder Alerts
- - [https://alerts.colorado.edu](https://alerts.colorado.edu)
- - date_published: 2024-04-30T03:47:29.522386+00:00
-
- ## Applied Mathematics
- - [http://amath.colorado.edu](http://amath.colorado.edu)
- - date_published: 2024-10-19T07:27:52.884275+00:00
-
- ## Home - Institute of Behavioral Science
- - [https://behavioralscience.colorado.edu](https://behavioralscience.colorado.edu)
- - date_published: 2024-10-18T22:29:00.939041+00:00
 

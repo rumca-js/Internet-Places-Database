@@ -1,3 +1,431 @@
+ ## Shibboleth Authentication Request
+ - [https://eaccess.tum.edu](https://eaccess.tum.edu)
+ - date_published: 2024-07-24T04:20:54.072651+00:00
+
+ ## Golden Tiger Network Website
+ - [https://alumni.tuskegee.edu](https://alumni.tuskegee.edu)
+ - date_published: 2024-07-08T14:44:19.880439+00:00
+
+ ## Admissions | Tuskegee University
+ - [https://apply.tuskegee.edu](https://apply.tuskegee.edu)
+ - date_published: 2024-07-08T14:50:28.558811+00:00
+
+ ## Tuskegee University - Acalog ACMS™
+ - [http://catalog.tuskegee.edu](http://catalog.tuskegee.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Department Directory
+ - [https://directory.tuskegee.edu](https://directory.tuskegee.edu)
+ - date_published: 2024-07-08T14:50:37.564170+00:00
+
+ ## Tuskegee University eLearning
+ - [https://elearning.tuskegee.edu](https://elearning.tuskegee.edu)
+ - date_published: 2024-07-08T14:50:35.997770+00:00
+
+ ## MyPhoto - Tuskegee University
+ - [https://mytuphoto.tuskegee.edu](https://mytuphoto.tuskegee.edu)
+ - date_published: 2024-07-08T14:44:14.400484+00:00
+
+ ## Sign in to your account
+ - [https://tuhelpdesk.tuskegee.edu](https://tuhelpdesk.tuskegee.edu)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Home | Tuskegee University
+ - [https://tuskegee.edu](https://tuskegee.edu)
+ - date_published: 2024-05-08T11:43:25.937647+00:00
+
+ ## Tuskegee Scholarly Publications | Tuskegee University Research
+ - [http://tuspubs.tuskegee.edu](http://tuspubs.tuskegee.edu)
+ - date_published: 2024-07-08T14:44:21.956813+00:00
+
+ ## Career Connections | Texas Woman's University
+ - [https://careerconnections.twu.edu](https://careerconnections.twu.edu)
+ - date_published: 2024-09-15T13:09:02.935639+00:00
+
+ ## Catalog Home | Texas Woman's University Catalog
+ - [https://catalog.twu.edu](https://catalog.twu.edu)
+ - date_published: 2024-08-09T19:29:31+00:00
+
+ ## Make a Gift - Texas Woman's University Foundation
+ - [https://giving.twu.edu](https://giving.twu.edu)
+ - date_published: 2024-09-15T13:07:29.779848+00:00
+
+ ## Texas Woman’s University
+ - [https://portal.twu.edu](https://portal.twu.edu)
+ - date_published: 2024-09-15T13:07:33.198572+00:00
+
+ ## TWU Home | Texas Woman's University | BOLDLY GO
+ - [https://twu.edu](https://twu.edu)
+ - date_published: 2024-06-14T19:47:39.747033+00:00
+
+ ## TWU Registration
+ - [https://webadvisor.twu.edu](https://webadvisor.twu.edu)
+ - date_published: 2009-11-21T05:05:13+00:00
+
+ ## Faculty Profiles
+ - [https://faculty.txstate.edu](https://faculty.txstate.edu)
+ - date_published: 2024-09-05T07:21:00+00:00
+
+ ## ICPC Asia Council Chair CJ Hwang Blog – ICPC Asia Governor 亚洲主席黄金雄 (西杰)博客
+ - [http://icpcasia.wp.txstate.edu](http://icpcasia.wp.txstate.edu)
+ - date_published: 2024-06-22T21:05:49.732763+00:00
+
+ ## Texas State University
+ - [https://www.txstate.edu](https://www.txstate.edu)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## kcsmalley@ua.edu –  | The University of Alabama
+ - [https://accessibility.ua.edu](https://accessibility.ua.edu)
+ - date_published: 2024-05-07T20:41:05.062467+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [https://accessibleweb.as.ua.edu](https://accessibleweb.as.ua.edu)
+ - date_published: 2024-05-07T20:39:39.735712+00:00
+
+ ## Admissions
+ - [https://admissions.ua.edu](https://admissions.ua.edu)
+ - date_published: 2024-07-01T21:54:20.639415+00:00
+
+ ## Admissions
+ - [https://adm.ua.edu](https://adm.ua.edu)
+ - date_published: 2024-07-01T21:54:09.170637+00:00
+
+ ## Afford - Afford | The University of Alabama
+ - [https://afford.ua.edu](https://afford.ua.edu)
+ - date_published: 2024-07-01T21:54:18.257452+00:00
+
+ ## The University of Alabama National Alumni Association
+ - [https://alumni.ua.edu](https://alumni.ua.edu)
+ - date_published: 2024-07-01T22:02:54.453268+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [https://as.ua.edu](https://as.ua.edu)
+ - date_published: 2024-05-07T20:40:15.778686+00:00
+
+ ## University of Alabama - Online and Distance Degrees - UA Online
+ - [http://bamabydistance.ua.edu](http://bamabydistance.ua.edu)
+ - date_published: 2024-07-01T21:49:09.767019+00:00
+
+ ## Events Calendar
+ - [https://calendar.ua.edu](https://calendar.ua.edu)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Careers at University of Alabama
+ - [https://careers.ua.edu](https://careers.ua.edu)
+ - date_published: 2024-07-01T21:51:30.412077+00:00
+
+ ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
+ - [https://catalogs.ua.edu](https://catalogs.ua.edu)
+ - date_published: 2024-05-07T20:40:08.577119+00:00
+
+ ## The University of Alabama Fall 2021–Summer 2022 Academic Catalog | University of Alabama
+ - [https://catalog.ua.edu](https://catalog.ua.edu)
+ - date_published: 2024-05-07T20:40:54.119330+00:00
+
+ ## College of Community Health Sciences –  | The University of Alabama
+ - [http://cchs.ua.edu](http://cchs.ua.edu)
+ - date_published: 2024-07-01T21:49:25.264140+00:00
+
+ ## College of Communication & Information Sciences – Create Your Story
+ - [http://cis.ua.edu](http://cis.ua.edu)
+ - date_published: 2024-07-01T21:49:41.158573+00:00
+
+ ## Center for Instructional Technology – Center for Instructional Technology | The University of Alabama
+ - [https://cit.ua.edu](https://cit.ua.edu)
+ - date_published: 2024-07-01T22:03:05.672470+00:00
+
+ ## Community Affairs – Engaging Communities, Changing Lives | The University of Alabama
+ - [http://communityaffairs.ua.edu](http://communityaffairs.ua.edu)
+ - date_published: 2024-06-25T00:00:00+00:00
+
+ ## Compliance and Risk Services - Compliance and Risk Services
+ - [https://complianceandriskservices.ua.edu](https://complianceandriskservices.ua.edu)
+ - date_published: 2024-07-01T21:55:33.886164+00:00
+
+ ## Compliance, Ethics, and Regulatory Affairs – Compliance website | The University of Alabama
+ - [https://compliance.ua.edu](https://compliance.ua.edu)
+ - date_published: 2024-05-07T20:40:52.548818+00:00
+
+ ## Office of Teaching Innovation and Digital Education
+ - [http://continuingstudies.ua.edu](http://continuingstudies.ua.edu)
+ - date_published: 2024-05-15T00:00:00+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [https://crimsonhistorical.ua.edu](https://crimsonhistorical.ua.edu)
+ - date_published: 2024-02-08T18:16:42.939005+00:00
+
+ ## The University of Alabama | Crowdfunding
+ - [https://crowdfunding.ua.edu](https://crowdfunding.ua.edu)
+ - date_published: 2024-03-31T00:00:00+00:00
+
+ ## The Culverhouse College of Business – The University of Alabamas Culverhouse College of Business | The University of Alabama
+ - [http://culverhouse.ua.edu](http://culverhouse.ua.edu)
+ - date_published: 2024-07-01T21:50:18.856382+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://degreeworks.ua.edu](https://degreeworks.ua.edu)
+ - date_published: 2024-05-07T20:40:25.349326+00:00
+
+ ## Diversity – Diversity Equity and Inclusion | The University of Alabama
+ - [https://diversity.ua.edu](https://diversity.ua.edu)
+ - date_published: 2024-07-01T21:49:58.151527+00:00
+
+ ## Electrical and Computer Engineering – Just another eng.ua.edu Sites site | The University of Alabama
+ - [http://ece.eng.ua.edu](http://ece.eng.ua.edu)
+ - date_published: 2024-07-13T11:10:14.705382+00:00
+
+ ## College of Education
+ - [http://education.ua.edu](http://education.ua.edu)
+ - date_published: 2024-07-01T21:49:27.452726+00:00
+
+ ## Environmental Health & Safety – Environmental Health & Safety | The University of Alabama
+ - [https://ehs.ua.edu](https://ehs.ua.edu)
+ - date_published: 2024-07-01T21:50:06.099145+00:00
+
+ ## College of Engineering
+ - [http://eng.ua.edu](http://eng.ua.edu)
+ - date_published: 2024-07-01T21:50:12.515570+00:00
+
+ ## eop.ua.edu – Equal Opportunity | The University of Alabama
+ - [https://eop.ua.edu](https://eop.ua.edu)
+ - date_published: 2024-02-08T22:03:09.704384+00:00
+
+ ## Faculty Handbook –  | The University of Alabama
+ - [https://facultyhandbook.ua.edu](https://facultyhandbook.ua.edu)
+ - date_published: 2024-07-01T21:56:11.933754+00:00
+
+ ## Finance and Operations – Division of Finance and Operations
+ - [https://financeandoperations.ua.edu](https://financeandoperations.ua.edu)
+ - date_published: 2024-07-01T21:54:44.180366+00:00
+
+ ## Financial Aid - Afford | The University of Alabama
+ - [https://financialaid.ua.edu](https://financialaid.ua.edu)
+ - date_published: 2024-07-01T21:53:48.265920+00:00
+
+ ## The University of Alabama
+ - [https://give.ua.edu](https://give.ua.edu)
+ - date_published: 2024-07-01T22:02:49.688001+00:00
+
+ ## Advancement  –  | The University of Alabama
+ - [https://giving.ua.edu](https://giving.ua.edu)
+ - date_published: 2024-05-07T20:41:03.467559+00:00
+
+ ## Admissions
+ - [https://gobama.ua.edu](https://gobama.ua.edu)
+ - date_published: 2024-05-07T20:40:35.865786+00:00
+
+ ## Homepage - Graduate School | The University of Alabama
+ - [https://graduate.ua.edu](https://graduate.ua.edu)
+ - date_published: 2024-05-07T20:40:31.664983+00:00
+
+ ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
+ - [http://helpdesk.ua.edu](http://helpdesk.ua.edu)
+ - date_published: 2024-07-01T21:50:39.709953+00:00
+
+ ## honors.ua.edu – Honors College | The University of Alabama
+ - [http://honors.ua.edu](http://honors.ua.edu)
+ - date_published: 2024-07-01T21:50:00.737661+00:00
+
+ ## Human Resources – The University of Alabama. | The University of Alabama
+ - [https://hr.ua.edu](https://hr.ua.edu)
+ - date_published: 2024-07-01T21:51:25.750275+00:00
+
+ ## Informal Resolution – Informal Resolution | The University of Alabama
+ - [https://informalresolution.ua.edu](https://informalresolution.ua.edu)
+ - date_published: 2024-05-07T20:40:56.021566+00:00
+
+ ## Careers at University of Alabama
+ - [https://jobs.ua.edu](https://jobs.ua.edu)
+ - date_published: 2024-05-07T20:40:27.590554+00:00
+
+ ## University of Alabama School of Law
+ - [https://law.ua.edu](https://law.ua.edu)
+ - date_published: 2010-06-16T22:16:08+00:00
+
+ ## Where Legends are Made
+ - [https://legends.ua.edu](https://legends.ua.edu)
+ - date_published: 2023-10-17T18:53:12+00:00
+
+ ## Bounds Law Library | Bounds Law Library
+ - [https://library.law.ua.edu](https://library.law.ua.edu)
+ - date_published: 2024-09-15T23:32:31.752971+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [http://museums.ua.edu](http://museums.ua.edu)
+ - date_published: 2024-07-01T21:50:14.819129+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://mybama.ua.edu](https://mybama.ua.edu)
+ - date_published: 2024-05-07T20:41:00.894020+00:00
+
+ ## UA News Center
+ - [https://news.ua.edu](https://news.ua.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Capstone College of Nursing – The University of Alabama –  | The University of Alabama
+ - [http://nursing.ua.edu](http://nursing.ua.edu)
+ - date_published: 2024-07-01T21:49:45.177576+00:00
+
+ ## Homepage - Office of Disability Services | The University of Alabama
+ - [http://ods.ua.edu](http://ods.ua.edu)
+ - date_published: 2024-07-01T22:03:02.873835+00:00
+
+ ## Home UA | Office of Institutional Effectiveness
+ - [https://oie.ua.edu](https://oie.ua.edu)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## oit.ua.edu – OIT at The University of Alabama | The University of Alabama
+ - [http://oit.ua.edu](http://oit.ua.edu)
+ - date_published: 2024-07-01T21:50:21.515616+00:00
+
+ ## University of Alabama - Online and Distance Degrees - UA Online
+ - [https://online.ua.edu](https://online.ua.edu)
+ - date_published: 2024-07-01T21:54:49.791925+00:00
+
+ ## Homepage - Orientation | The University of Alabama
+ - [https://orientation.ua.edu](https://orientation.ua.edu)
+ - date_published: 2024-07-01T21:54:15.693553+00:00
+
+ ## Research & Economic Development
+ - [http://ovpred.ua.edu](http://ovpred.ua.edu)
+ - date_published: 2024-07-01T21:54:00.402086+00:00
+
+ ## The University of Alabama Planned Giving :: Planned Giving
+ - [https://plannedgiving.ua.edu](https://plannedgiving.ua.edu)
+ - date_published: 2024-07-01T22:02:59.934492+00:00
+
+ ## The University of Alabama Police – The University of Alabama Police | The University of Alabama
+ - [http://police.ua.edu](http://police.ua.edu)
+ - date_published: 2024-07-01T21:49:29.761824+00:00
+
+ ## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
+ - [http://prepare.ua.edu](http://prepare.ua.edu)
+ - date_published: 2024-05-07T20:40:22.428032+00:00
+
+ ## Office of the President –  | The University of Alabama
+ - [http://president.ua.edu](http://president.ua.edu)
+ - date_published: 2024-07-01T21:49:06.136552+00:00
+
+ ## Homepage - Office for Academic Affairs | The University of Alabama
+ - [http://provost.ua.edu](http://provost.ua.edu)
+ - date_published: 2024-07-01T21:50:02.723408+00:00
+
+ ## UA Commencement
+ - [http://pubs.ua.edu](http://pubs.ua.edu)
+ - date_published: 2024-07-01T21:54:11.004065+00:00
+
+ ## ready.ua.edu – Website for The University of Alabama Office of Emergency Preparedness | The University of Alabama
+ - [http://ready.ua.edu](http://ready.ua.edu)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## The Office of the University Registrar – The University of Alabama – Information about areas managed by the Office of the University Registrar at the University of Alabama | The University of Alabama
+ - [https://registrar.ua.edu](https://registrar.ua.edu)
+ - date_published: 2024-05-07T20:40:12.489693+00:00
+
+ ## Research & Economic Development
+ - [https://research.ua.edu](https://research.ua.edu)
+ - date_published: 2024-07-01T21:50:30.435065+00:00
+
+ ## The Rising Tide 2.0 – The Rising Tide 2.0
+ - [https://risingtide.ua.edu](https://risingtide.ua.edu)
+ - date_published: 2024-07-01T21:54:52.177945+00:00
+
+ ## Risk Management –  | The University of Alabama
+ - [https://riskmanagement.ua.edu](https://riskmanagement.ua.edu)
+ - date_published: 2024-07-01T21:55:36.737529+00:00
+
+ ## Home - Division of Student Life | The University of Alabama
+ - [http://sa.ua.edu](http://sa.ua.edu)
+ - date_published: 2024-07-01T21:50:24.988709+00:00
+
+ ## Alabama Law Scholarly Commons | University of Alabama School of Law Research
+ - [https://scholarship.law.ua.edu](https://scholarship.law.ua.edu)
+ - date_published: 2024-09-15T23:32:33.382195+00:00
+
+ ## Scholarships - Afford | The University of Alabama
+ - [https://scholarships.ua.edu](https://scholarships.ua.edu)
+ - date_published: 2024-07-01T21:54:17.286512+00:00
+
+ ## Homepage - Graduate School | The University of Alabama
+ - [https://slate.ua.edu](https://slate.ua.edu)
+ - date_published: 2024-07-01T21:53:30.755926+00:00
+
+ ## School of Social Work – School of Social Work
+ - [http://socialwork.ua.edu](http://socialwork.ua.edu)
+ - date_published: 2024-07-01T21:49:38.657664+00:00
+
+ ## STCWPMS02
+ - [https://stcwpms02.ua.edu](https://stcwpms02.ua.edu)
+ - date_published: 2024-07-01T21:54:03.095930+00:00
+
+ ## Strategic Communications Homepage - Division of Strategic Communications | The University of Alabama
+ - [https://stratcomm.ua.edu](https://stratcomm.ua.edu)
+ - date_published: 2024-06-29T23:44:57.391700+00:00
+
+ ## Strategic Communications Homepage - Division of Strategic Communications | The University of Alabama
+ - [http://strategiccommunications.ua.edu](http://strategiccommunications.ua.edu)
+ - date_published: 2024-07-01T21:49:31.628615+00:00
+
+ ## Home - Student Involvement
+ - [https://studentinvolvement.sa.ua.edu](https://studentinvolvement.sa.ua.edu)
+ - date_published: 2024-07-01T21:54:47.846005+00:00
+
+ ## Behavioral Threat Assessment –  | The University of Alabama
+ - [http://threatassessment.ua.edu](http://threatassessment.ua.edu)
+ - date_published: 2024-07-01T21:50:09.550298+00:00
+
+ ## Title IX – Title IX | The University of Alabama
+ - [https://titleix.ua.edu](https://titleix.ua.edu)
+ - date_published: 2024-07-01T21:56:15.123831+00:00
+
+ ## The University of Alabama
+ - [https://ua.edu](https://ua.edu)
+ - date_published: 2024-05-07T20:40:49.958248+00:00
+
+ ## uastudentjobs.ua.edu – Find Your Student Job | The University of Alabama
+ - [http://uastudentjobs.ua.edu](http://uastudentjobs.ua.edu)
+ - date_published: 2024-07-01T21:51:28.329863+00:00
+
+ ## University of Alabama System
+ - [http://uasystem.ua.edu](http://uasystem.ua.edu)
+ - date_published: 2024-07-01T21:54:06+00:00
+
+ ## Visit
+ - [https://visit.ua.edu](https://visit.ua.edu)
+ - date_published: 2024-06-29T23:50:09.907759+00:00
+
+ ## worklife.ua.edu – Supporting faculty & staff with resources to be productive, successful, and satisfied. | The University of Alabama
+ - [https://worklife.ua.edu](https://worklife.ua.edu)
+ - date_published: 2024-07-01T21:52:05.168560+00:00
+
+ ## College of Human Environmental Sciences - College of Human Environmental Sciences | The University of Alabama
+ - [http://www.ches.ua.edu](http://www.ches.ua.edu)
+ - date_published: 2024-07-01T21:50:27.604181+00:00
+
+ ## The University of Alabama Libraries – Research and Information Services for the University of Alabama
+ - [http://www.lib.ua.edu](http://www.lib.ua.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Error 403: Connection Refused | University of Alabama College of Arts & Sciences
+ - [http://www.math.ua.edu](http://www.math.ua.edu)
+ - date_published: 2024-07-13T11:10:10.873667+00:00
+
+ ## Service Portal - UAB Service Portal
+ - [https://askit.uab.edu](https://askit.uab.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## UAB Events Calendar | The University of Alabama at Birmingham
+ - [https://calendar.uab.edu](https://calendar.uab.edu)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## University of Alabama at Birmingham < Catalog | The University of Alabama at Birmingham
+ - [https://catalog.uab.edu](https://catalog.uab.edu)
+ - date_published: 2024-05-11T07:33:05.955583+00:00
+
+ ## UAB Digital Commons
+ - [https://digitalcommons.library.uab.edu](https://digitalcommons.library.uab.edu)
+ - date_published: 2024-07-04T13:15:35.507143+00:00
+
  ## GoLink and UTM Generator - Toolkit
  - [https://go.uab.edu](https://go.uab.edu)
  - date_published: 2024-05-11T07:33:02.111033+00:00
@@ -3596,432 +4024,4 @@
  ## Home – UCLA Housing | Housing
  - [https://housing.ucla.edu](https://housing.ucla.edu)
  - date_published: 2024-07-01T22:38:01+00:00
-
- ## Careers Home | UCLA
- - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Home - Humanities Division - UCLA
- - [http://humanities.ucla.edu](http://humanities.ucla.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Home - HumTech - UCLA
- - [https://humtech.ucla.edu](https://humtech.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Integrated Diagnostics IDx Shared Resource Portal - Home
- - [https://idx.medsch.ucla.edu](https://idx.medsch.ucla.edu)
- - date_published: 2024-06-07T21:58:40+00:00
-
- ## UCLA Study Abroad | International Education Office | University of California, Los Angeles
- - [https://ieo.ucla.edu](https://ieo.ucla.edu)
- - date_published: 2024-07-01T23:02:33.540862+00:00
-
- ## UCLA Luskin Center for Innovation | Informing effective and equitable environmental policy
- - [http://innovation.luskin.ucla.edu](http://innovation.luskin.ucla.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Institute for Research on Labor and Employment
- - [https://irle.ucla.edu](https://irle.ucla.edu)
- - date_published: 2024-05-07T20:55:11.391952+00:00
-
- ## Home - UCLA Institute of Transportation Studies
- - [https://its.ucla.edu](https://its.ucla.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UCLA Center for Neighborhood Knowledge
- - [https://knowledge.luskin.ucla.edu](https://knowledge.luskin.ucla.edu)
- - date_published: 2023-12-21T00:00:00+00:00
-
- ## LAERI@UCLA | The Los Angeles Education Research Institute
- - [https://laeri.luskin.ucla.edu](https://laeri.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:25.237557+00:00
-
- ## Engaging LA, Changing the World | LA Social Science
- - [https://lasocialscience.ucla.edu](https://lasocialscience.ucla.edu)
- - date_published: 2024-07-01T23:06:08.159487+00:00
-
- ## Latino Policy & Politics Institute
- - [https://latino.ucla.edu](https://latino.ucla.edu)
- - date_published: 2024-07-01T23:07:12.647596+00:00
-
- ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://law.ucla.edu](https://law.ucla.edu)
- - date_published: 2024-05-04T14:42:25.180876+00:00
-
- ## Attention Required! | Cloudflare
- - [https://legacy.ucla.edu](https://legacy.ucla.edu)
- - date_published: 2024-07-01T23:04:58.808632+00:00
-
- ## Homepage - UCLA Let There Be
- - [https://lettherebe.ucla.edu](https://lettherebe.ucla.edu)
- - date_published: 2020-08-26T00:00:00+00:00
-
- ## Lewis Home - UCLA Lewis Center for Regional Policy Studies
- - [https://lewis.ucla.edu](https://lewis.ucla.edu)
- - date_published: 2024-04-30T05:05:25.842498+00:00
-
- ## Home - LGBTQ Studies - UCLA
- - [https://lgbtqstudies.ucla.edu](https://lgbtqstudies.ucla.edu)
- - date_published: 2024-10-29T11:44:56.942880+00:00
-
- ## Labor Occupational Safety and Health Program
- - [https://losh.ucla.edu](https://losh.ucla.edu)
- - date_published: 2024-07-01T23:06:11.308355+00:00
-
- ## UCLA Conference Center | Meyer & Renee Luskin Center | UCLA Luskin Conference Center
- - [https://luskinconferencecenter.ucla.edu](https://luskinconferencecenter.ucla.edu)
- - date_published: 2024-07-01T23:03:08.451096+00:00
-
- ## School of Public Affairs | UCLA Luskin
- - [https://luskin.ucla.edu](https://luskin.ucla.edu)
- - date_published: 2024-05-07T20:55:15.920022+00:00
-
- ## Home | Transportation
- - [https://main.transportation.ucla.edu](https://main.transportation.ucla.edu)
- - date_published: 2024-05-07T20:55:26.311984+00:00
-
- ## UCLA Med School
- - [https://medschool.ucla.edu](https://medschool.ucla.edu)
- - date_published: 2024-06-29T11:34:56+00:00
-
- ## Memory Work | Los Angeles
- - [https://memorywork.irle.ucla.edu](https://memorywork.irle.ucla.edu)
- - date_published: 2024-07-01T23:06:24.623787+00:00
-
- ## UCLA MII – Medical and Imaging Informatics
- - [https://mii.ucla.edu](https://mii.ucla.edu)
- - date_published: 2024-05-07T15:26:25.393622+00:00
-
- ## MSOL | Master of Science in Engineering Online
- - [http://msengrol.seas.ucla.edu](http://msengrol.seas.ucla.edu)
- - date_published: 2024-08-11T03:42:02.102106+00:00
-
- ## UCLA
- - [https://mygiving.ucla.edu](https://mygiving.ucla.edu)
- - date_published: 2024-05-30T21:50:59+00:00
-
- ## Sign in to your account
- - [https://my.law.ucla.edu](https://my.law.ucla.edu)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## MyUCLA
- - [https://my.ucla.edu](https://my.ucla.edu)
- - date_published: 2024-07-01T23:05:07.433141+00:00
-
- ## Newsroom | UCLA
- - [https://newsroom.ucla.edu](https://newsroom.ucla.edu)
- - date_published: 2023-10-25T19:00:36.419553+00:00
-
- ## New Student & Transition Programs
- - [https://newstudents.ucla.edu](https://newstudents.ucla.edu)
- - date_published: 2024-07-01T22:56:03.305914+00:00
-
- ## Optimism - UCLA
- - [https://optimism.ucla.edu](https://optimism.ucla.edu)
- - date_published: 2023-01-03T22:52:19+00:00
-
- ## UCLA Philanthropy Forward
- - [https://philanthropy.ucla.edu](https://philanthropy.ucla.edu)
- - date_published: 2024-07-01T23:04:55.531345+00:00
-
- ## Home - Department of Philosophy - UCLA
- - [https://philosophy.ucla.edu](https://philosophy.ucla.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## UCLA Fielding School of Public Health | UCLA Fielding
- - [https://ph.ucla.edu](https://ph.ucla.edu)
- - date_published: 2023-10-25T19:00:39.211230+00:00
-
- ## UCLA’s Division of Physical Sciences
- - [https://physicalsciences.ucla.edu](https://physicalsciences.ucla.edu)
- - date_published: 2024-07-01T02:37:43.582969+00:00
-
- ## Home – UCLA Housing | Housing
- - [https://portal.housing.ucla.edu](https://portal.housing.ucla.edu)
- - date_published: 2024-07-01T22:39:35+00:00
-
- ## UCLA Profiles • Find/collaborate with leading health researchers
- - [https://profiles.ucla.edu](https://profiles.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Automated Reasoning Group - UCLA
- - [http://reasoning.cs.ucla.edu](http://reasoning.cs.ucla.edu)
- - date_published: 2024-08-18T18:44:55.622444+00:00
-
- ## Welcome - UCLA Academic RECRUIT
- - [https://recruit.apo.ucla.edu](https://recruit.apo.ucla.edu)
- - date_published: 2024-10-29T18:27:51.485184+00:00
-
- ## Welcome! | UCLA Registrar’s Office
- - [https://registrar.ucla.edu](https://registrar.ucla.edu)
- - date_published: 2024-07-01T20:43:03+00:00
-
- ## Home | Research & Creative Activities
- - [https://research.ucla.edu](https://research.ucla.edu)
- - date_published: 2024-07-01T22:44:57+00:00
-
- ## Welcome to Residential Life! | Residential Life
- - [https://reslife.ucla.edu](https://reslife.ucla.edu)
- - date_published: 2024-06-29T01:32:20+00:00
-
- ## UCLA Samueli School of Engineering. Engineer Change.
- - [https://samueli.ucla.edu](https://samueli.ucla.edu)
- - date_published: 2024-06-30T05:34:01+00:00
-
- ## UCLA Student Affairs
- - [https://sa.ucla.edu](https://sa.ucla.edu)
- - date_published: 2016-02-18T23:53:14+00:00
-
- ## UCLA Single Sign-On
- - [https://saweb.uclanet.ucla.edu](https://saweb.uclanet.ucla.edu)
- - date_published: 2024-07-01T23:05:16.259442+00:00
-
- ## Scalable Analytics Institute (ScAi) | where data finds its meaning
- - [https://scai.cs.ucla.edu](https://scai.cs.ucla.edu)
- - date_published: 2024-06-30T05:33:56.550428+00:00
-
- ## UCLA Herb Alpert School of Music - All in One Place
- - [https://schoolofmusic.ucla.edu](https://schoolofmusic.ucla.edu)
- - date_published: 2024-05-27T00:00:00+00:00
-
- ## UCLA Cognitive Systems Laboratory (Experimental)
- - [http://singapore.cs.ucla.edu](http://singapore.cs.ucla.edu)
- - date_published: 2023-04-12T18:21:36+00:00
-
- ## Smadar Naoz
- - [https://snaoz.astro.ucla.edu](https://snaoz.astro.ucla.edu)
- - date_published: 2024-04-30T03:33:26.794955+00:00
-
- ## Social Media | UCLA Social Media
- - [https://socialmedia.ucla.edu](https://socialmedia.ucla.edu)
- - date_published: 2024-07-01T23:07:14.437929+00:00
-
- ## Social Sciences
- - [http://socialsciences.ucla.edu](http://socialsciences.ucla.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## UCLA | Spark
- - [https://spark.ucla.edu](https://spark.ucla.edu)
- - date_published: 2024-07-01T23:05:01.147710+00:00
-
- ## UCLA Anderson Blogs – UCLA Anderson Blogs
- - [https://stories.anderson.ucla.edu](https://stories.anderson.ucla.edu)
- - date_published: 2024-10-29T09:13:58.273481+00:00
-
- ## Creating the Future: UCLA Strategic Plan 2023-28
- - [https://strategic-plan.ucla.edu](https://strategic-plan.ucla.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home - UCLA Summer Sessions
- - [https://summer.ucla.edu](https://summer.ucla.edu)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## D|MA Support v2.0
- - [https://support.dma.ucla.edu](https://support.dma.ucla.edu)
- - date_published: 2024-10-29T11:44:26.044988+00:00
-
- ## Home | UCLA TDG
- - [https://tdg.ucla.edu](https://tdg.ucla.edu)
- - date_published: 2024-07-01T23:02:00.263817+00:00
-
- ## Home | Transportation
- - [https://transportation.ucla.edu](https://transportation.ucla.edu)
- - date_published: 2024-07-01T22:44:57+00:00
-
- ## UCLA
- - [https://ucla.edu](https://ucla.edu)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Archaeological Centers Coalition
- - [https://uee.cdh.ucla.edu](https://uee.cdh.ucla.edu)
- - date_published: 2024-07-09T18:44:50.810773+00:00
-
- ## UCLA Vision Lab
- - [http://vision.ucla.edu](http://vision.ucla.edu)
- - date_published: 2024-01-09T08:07:39+00:00
-
- ## We're Here to Serve | Volunteer Center
- - [https://volunteer.ucla.edu](https://volunteer.ucla.edu)
- - date_published: 2024-07-01T22:17:29+00:00
-
- ## UCLA Computer Science
- - [http://web.cs.ucla.edu](http://web.cs.ucla.edu)
- - date_published: 2017-03-29T23:40:19+00:00
-
- ## Home
- - [https://williamsinstitute.law.ucla.edu](https://williamsinstitute.law.ucla.edu)
- - date_published: 2024-05-29T00:00:00+00:00
-
- ## Life Sciences WordPress Template – Based on UCLA Starter Theme
- - [https://wp-misc.lifesci.ucla.edu](https://wp-misc.lifesci.ucla.edu)
- - date_published: 2024-07-01T23:07:40.944325+00:00
-
- ## Lawyers. Leaders. UCLA School of Law. | UCLA Law
- - [https://www2.law.ucla.edu](https://www2.law.ucla.edu)
- - date_published: 2023-10-25T19:00:46.288421+00:00
-
- ## UCLA Anderson Home
- - [https://www.anderson.ucla.edu](https://www.anderson.ucla.edu)
- - date_published: 2024-05-21T00:00:00+00:00
-
- ## UCLA Division of Astronomy & Astrophysics
- - [http://www.astro.ucla.edu](http://www.astro.ucla.edu)
- - date_published: 2024-07-22T07:04:06.347077+00:00
-
- ## Atmospheric and Oceanic Sciences | AOS
- - [http://www.atmos.ucla.edu](http://www.atmos.ucla.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## BE | Bioengineering
- - [https://www.bioeng.ucla.edu](https://www.bioeng.ucla.edu)
- - date_published: 2024-06-30T05:33:59+00:00
-
- ## Biological Chemistry Department
- - [http://www.biolchem.ucla.edu](http://www.biolchem.ucla.edu)
- - date_published: 2024-10-19T04:52:31.756069+00:00
-
- ## UCLA Film & Television Archive
- - [https://www.cinema.ucla.edu](https://www.cinema.ucla.edu)
- - date_published: 2024-07-01T22:51:29+00:00
-
- ## Home - Clark Library
- - [http://www.clarklibrary.ucla.edu](http://www.clarklibrary.ucla.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Counseling & Psychological Services | Counseling and Psychological Services
- - [https://www.counseling.ucla.edu](https://www.counseling.ucla.edu)
- - date_published: 2024-06-27T15:11:34+00:00
-
- ## CS | Computer Science
- - [https://www.cs.ucla.edu](https://www.cs.ucla.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [http://www.environment.ucla.edu](http://www.environment.ucla.edu)
- - date_published: 2024-07-08T12:05:02.595610+00:00
-
- ## .::. UCLA Global .::.
- - [https://www.global.ucla.edu](https://www.global.ucla.edu)
- - date_published: 2024-07-01T22:56:06+00:00
-
- ## UCLA | Honors Programs | University of California, Los Angeles
- - [http://www.honors.ucla.edu](http://www.honors.ucla.edu)
- - date_published: 2024-07-01T23:02:22.845039+00:00
-
- ## Institute of the Environment and Sustainability at UCLA
- - [https://www.ioes.ucla.edu](https://www.ioes.ucla.edu)
- - date_published: 2024-08-22T22:12:46.119028+00:00
-
- ## Home - IPAM
- - [http://www.ipam.ucla.edu](http://www.ipam.ucla.edu)
- - date_published: 2013-12-07T10:17:26+00:00
-
- ## UCLA Labor Center
- - [https://www.labor.ucla.edu](https://www.labor.ucla.edu)
- - date_published: 2024-07-01T23:06:04.685386+00:00
-
- ## UCLA Library
- - [https://www.library.ucla.edu](https://www.library.ucla.edu)
- - date_published: 2024-10-29T09:13:44.538331+00:00
-
- ## Home - Department of Linguistics - UCLA
- - [http://www.linguistics.ucla.edu](http://www.linguistics.ucla.edu)
- - date_published: 2024-07-02T09:18:05.787206+00:00
-
- ## Home - UCLA Mathematics
- - [http://www.math.ucla.edu](http://www.math.ucla.edu)
- - date_published: 2024-04-24T00:00:00+00:00
-
- ## Home | Office of Emergency Management
- - [https://www.oem.ucla.edu](https://www.oem.ucla.edu)
- - date_published: 2024-07-01T22:46:35+00:00
-
- ## CD to accompany Vowels and Consonants
- - [http://www.phonetics.ucla.edu](http://www.phonetics.ucla.edu)
- - date_published: 2020-09-11T17:43:27+00:00
-
- ## Welcome to UCLA Recreation | Recreation
- - [https://www.recreation.ucla.edu](https://www.recreation.ucla.edu)
- - date_published: 2024-07-01T20:12:47+00:00
-
- ## Home - Royce Reading Room - UCLA
- - [http://www.roycereadingroom.ucla.edu](http://www.roycereadingroom.ucla.edu)
- - date_published: 2024-06-29T10:15:59.504404+00:00
-
- ## OASA | Office of Academic and Student Affairs
- - [http://www.seasoasa.ucla.edu](http://www.seasoasa.ucla.edu)
- - date_published: 2024-08-11T03:41:53.520949+00:00
-
- ## Home | Academic Senate
- - [https://www.senate.ucla.edu](https://www.senate.ucla.edu)
- - date_published: 2024-07-01T22:45:15+00:00
-
- ## Social Sciences
- - [http://www.sscnet.ucla.edu](http://www.sscnet.ucla.edu)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Home - UCLA Statistics
- - [http://www.stat.ucla.edu](http://www.stat.ucla.edu)
- - date_published: 2019-03-19T11:37:06+00:00
-
- ## UCLA Student Affairs
- - [https://www.studentaffairs.ucla.edu](https://www.studentaffairs.ucla.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Shine Inside and Out: Student Health at UCLA | Arthur Ashe Student
- - [https://www.studenthealth.ucla.edu](https://www.studenthealth.ucla.edu)
- - date_published: 2024-07-01T17:41:58+00:00
-
- ## UCLA Sustainability | Sustainability at UCLA brings together a community of students, faculty, and staff
- - [https://www.sustain.ucla.edu](https://www.sustain.ucla.edu)
- - date_published: 2024-07-01T23:03:02.629818+00:00
-
- ## HOME - xLAB
- - [https://xlab.aud.ucla.edu](https://xlab.aud.ucla.edu)
- - date_published: 2024-07-12T18:09:42.098373+00:00
-
- ## Zocchi Laboratory
- - [https://zocchi.physics.ucla.edu](https://zocchi.physics.ucla.edu)
- - date_published: 2024-02-08T21:48:42.972695+00:00
-
- ## UCLA Extension Career Center
- - [https://careers.uclaextension.edu](https://careers.uclaextension.edu)
- - date_published: 2024-06-29T01:45:00.284389+00:00
-
- ## Log In to Canvas
- - [https://my.uclaextension.edu](https://my.uclaextension.edu)
- - date_published: 2023-09-20T00:00:00+00:00
-
- ## Newsroom
- - [https://newsroom.uclaextension.edu](https://newsroom.uclaextension.edu)
- - date_published: 2024-07-01T23:05:32.296367+00:00
-
- ## Home | UCLA Extension
- - [https://portal.uclaextension.edu](https://portal.uclaextension.edu)
- - date_published: 2024-07-01T23:05:26.000928+00:00
-
- ## UCLA Extension - Continuing Education Courses & Certificates
- - [https://uclaextension.edu](https://uclaextension.edu)
- - date_published: 2024-05-07T20:55:05.477271+00:00
-
- ## Writing & Journalism Courses & Certificates | UCLA Extension
- - [http://writers.uclaextension.edu](http://writers.uclaextension.edu)
- - date_published: 2024-06-29T20:04:18.999916+00:00
-
- ## UC Law SF Scholarship Repository | UC Law SF Research
- - [https://repository.uclawsf.edu](https://repository.uclawsf.edu)
- - date_published: 2024-07-17T17:16:35.501110+00:00
-
- ## Accessibility at UC Merced
- - [https://accessibility.ucmerced.edu](https://accessibility.ucmerced.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Undergraduate Admissions | Division of Enrollment Management
- - [https://admissions.ucmerced.edu](https://admissions.ucmerced.edu)
- - date_published: 2024-07-01T21:46:04+00:00
-
- ## Applied Mathematics
- - [https://appliedmath.ucmerced.edu](https://appliedmath.ucmerced.edu)
- - date_published: 2024-07-01T21:45:38+00:00
 

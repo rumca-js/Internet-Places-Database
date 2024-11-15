@@ -1,3 +1,428 @@
+ ## Continuing and Professional Education - Course search &ndash; University of Copenhagen
+ - [https://efteruddannelse.kurser.ku.dk](https://efteruddannelse.kurser.ku.dk)
+ - date_published: 2024-07-22T09:55:02.921798+00:00
+
+ ## Job Portal - Job and career – University of Copenhagen
+ - [https://employment.ku.dk](https://employment.ku.dk)
+ - date_published: 2024-04-30T02:41:26.907704+00:00
+
+ ## Humanistisk erhvervsforskning – Københavns Universitet
+ - [https://erhverv.hum.ku.dk](https://erhverv.hum.ku.dk)
+ - date_published: 2024-08-13T00:00:00+00:00
+
+ ## Offentlige arrangementer – Københavns Universitet
+ - [https://event.ku.dk](https://event.ku.dk)
+ - date_published: 2024-08-06T17:40:27+00:00
+
+ ## Efteruddannelse – Københavns Universitet
+ - [https://evu.ku.dk](https://evu.ku.dk)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Forskningsbaseret uddannelse – Københavns Universitet
+ - [https://fbu.ku.dk](https://fbu.ku.dk)
+ - date_published: 2024-07-22T09:57:05.247541+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://fi.ku.dk](https://fi.ku.dk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Kort over KU's enheder – Københavns Universitet
+ - [https://findvej.ku.dk](https://findvej.ku.dk)
+ - date_published: 2024-04-30T02:41:53.759111+00:00
+
+ ## Københavns Universitets tilbud til gymnasiet og grundskolen
+ - [https://fokus.ku.dk](https://fokus.ku.dk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Forskning ved Københavns Universitet – Københavns Universitet
+ - [https://forskning.ku.dk](https://forskning.ku.dk)
+ - date_published: 2024-02-27T00:00:00+00:00
+
+ ## Fysikleksikon - Viden om fysik – Fysikleksikon - Niels Bohr Institutet - Københavns Universitet
+ - [https://fysikleksikon.nbi.ku.dk](https://fysikleksikon.nbi.ku.dk)
+ - date_published: 2024-01-23T00:00:00+00:00
+
+ ## Faculty of Health and Medical Sciences – University of Copenhagen
+ - [https://healthsciences.ku.dk](https://healthsciences.ku.dk)
+ - date_published: 2023-11-14T09:26:10.548804+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://hr.ku.dk](https://hr.ku.dk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Faculty of Humanities – University of Copenhagen
+ - [https://humanities.ku.dk](https://humanities.ku.dk)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Det Humanistiske Fakultet – Københavns Universitet
+ - [https://hum.ku.dk](https://hum.ku.dk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Institut for Fødevare- og Ressourceøkonomi – Københavns Universitet
+ - [https://ifro.ku.dk](https://ifro.ku.dk)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Institut for Klinisk Veterinærmedicin – Københavns Universitet
+ - [https://ikv.ku.dk](https://ikv.ku.dk)
+ - date_published: 2024-08-11T06:39:55.804244+00:00
+
+ ## Home · NBI Conference and Meetings (Indico)
+ - [https://indico.nbi.ku.dk](https://indico.nbi.ku.dk)
+ - date_published: 2024-09-13T17:26:18.683688+00:00
+
+ ## Informationssikkerhed – Københavns Universitet
+ - [https://informationssikkerhed.ku.dk](https://informationssikkerhed.ku.dk)
+ - date_published: 2024-04-30T02:41:19.562536+00:00
+
+ ## International Education – University of Copenhagen
+ - [https://international.ku.dk](https://international.ku.dk)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## About the University of Copenhagen – University of Copenhagen
+ - [https://introduction.ku.dk](https://introduction.ku.dk)
+ - date_published: 2024-07-22T09:54:52.426800+00:00
+
+ ## For international researchers at the University of Copenhagen – University of Copenhagen
+ - [https://ism.ku.dk](https://ism.ku.dk)
+ - date_published: 2024-04-30T02:41:58.649146+00:00
+
+ ## KU-IT - IT-afdelingen – Københavns Universitet
+ - [https://it.ku.dk](https://it.ku.dk)
+ - date_published: 2024-07-19T00:53:08+00:00
+
+ ## Institut for Veterinær- og Husdyrvidenskab – Københavns Universitet
+ - [http://ivh.ku.dk](http://ivh.ku.dk)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Jobportal - Job og karriere på Københavns Universitet – Københavns Universitet
+ - [https://jobportal.ku.dk](https://jobportal.ku.dk)
+ - date_published: 2024-04-30T02:42:25.907218+00:00
+
+ ## Jura - Det Juridiske Fakultet – Københavns Universitet
+ - [https://jura.ku.dk](https://jura.ku.dk)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Offentlige arrangementer – Københavns Universitet
+ - [https://kalender.ku.dk](https://kalender.ku.dk)
+ - date_published: 2024-04-30T02:42:31.744210+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://kommunikation.ku.dk](https://kommunikation.ku.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Københavns Universitetsbibliotek  – Københavns Universitet
+ - [https://kub.ku.dk](https://kub.ku.dk)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://ku.dk](https://ku.dk)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## University of Copenhagen - Courses
+ - [https://kurser.ku.dk](https://kurser.ku.dk)
+ - date_published: 2024-04-30T02:42:32.840519+00:00
+
+ ## KU Lighthouse – Københavns Universitet
+ - [https://lighthouse.ku.dk](https://lighthouse.ku.dk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://mangfoldighed.ku.dk](https://mangfoldighed.ku.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Institut for Matematiske  Fag – Københavns Universitet
+ - [https://math.ku.dk](https://math.ku.dk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Center of Excellence on Global Mobility Law – University of Copenhagen
+ - [https://mobilitylaw.ku.dk](https://mobilitylaw.ku.dk)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Niels Bohr Institutet – Niels Bohr Institutet - Københavns Universitet
+ - [https://nbi.ku.dk](https://nbi.ku.dk)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## News – University of Copenhagen
+ - [https://news.ku.dk](https://news.ku.dk)
+ - date_published: 2023-10-25T11:22:10.749501+00:00
+
+ ## Institut for Idræt og Ernæring – Københavns Universitet
+ - [https://nexs.ku.dk](https://nexs.ku.dk)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Institut for Nordiske Studier og Sprogvidenskab (NorS) – Københavns Universitet
+ - [https://nors.ku.dk](https://nors.ku.dk)
+ - date_published: 2024-08-30T00:00:00+00:00
+
+ ## Nyheder - Forskning - Videnskab – Københavns Universitet
+ - [https://nyheder.ku.dk](https://nyheder.ku.dk)
+ - date_published: 2024-03-13T00:00:00+00:00
+
+ ## Odontologisk Institut – Københavns Universitet
+ - [https://odont.ku.dk](https://odont.ku.dk)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Department of Odontology – University of Copenhagen
+ - [https://odontology.ku.dk](https://odontology.ku.dk)
+ - date_published: 2024-04-30T02:41:49.950503+00:00
+
+ ## Om universitetet – Københavns Universitet
+ - [https://om.ku.dk](https://om.ku.dk)
+ - date_published: 2024-04-30T02:42:07.321302+00:00
+
+ ## PhD at the Faculty of Humanities – University of Copenhagen
+ - [https://phd.hum.ku.dk](https://phd.hum.ku.dk)
+ - date_published: 2024-03-20T00:00:00+00:00
+
+ ## Ph.d.-uddannelserne på Københavns Universitet – Københavns Universitet
+ - [https://phd.ku.dk](https://phd.ku.dk)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Department of Psychology – Department of Psychology - University of Copenhagen
+ - [https://psychology.ku.dk](https://psychology.ku.dk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Institut for Psykologi – Institut for Psykologi - Københavns Universitet
+ - [https://psy.ku.dk](https://psy.ku.dk)
+ - date_published: 2024-07-30T00:00:00+00:00
+
+ ## Center for Quantum Devices – Københavns Universitet
+ - [https://qdev.nbi.ku.dk](https://qdev.nbi.ku.dk)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## Research – University of Copenhagen
+ - [https://research.ku.dk](https://research.ku.dk)
+ - date_published: 2024-04-30T02:41:45.518368+00:00
+
+ ## Roots of Europe – Københavns Universitet
+ - [https://rootsofeurope.ku.dk](https://rootsofeurope.ku.dk)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Roots of Europe – Language, Culture, and Migrations
+ - [https://rootsofeurope.sites.ku.dk](https://rootsofeurope.sites.ku.dk)
+ - date_published: 2024-07-02T10:17:55.242928+00:00
+
+ ## Samarbejde – Københavns Universitet
+ - [https://samarbejde.ku.dk](https://samarbejde.ku.dk)
+ - date_published: 2024-04-30T02:42:24.650876+00:00
+
+ ## Det Samfundsvidenskabelige Fakultet – Københavns Universitet
+ - [https://samf.ku.dk](https://samf.ku.dk)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Saxo-Instituttet – Københavns Universitet
+ - [https://saxo.ku.dk](https://saxo.ku.dk)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## SCIENCE – Københavns Universitet
+ - [https://science.ku.dk](https://science.ku.dk)
+ - date_published: 2023-10-25T18:45:30.552340+00:00
+
+ ## Search – University of Copenhagen
+ - [https://search.ku.dk](https://search.ku.dk)
+ - date_published: 2024-04-30T02:41:38.724843+00:00
+
+ ## Skovskolen – Københavns Universitet
+ - [https://skovskolen.ku.dk](https://skovskolen.ku.dk)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Statens Naturhistoriske Museum – Københavns Universitet
+ - [https://snm.ku.dk](https://snm.ku.dk)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Faculty of Social Sciences – University of Copenhagen
+ - [https://socialsciences.ku.dk](https://socialsciences.ku.dk)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Copenhagen Center for Social Data Science – University of Copenhagen
+ - [https://sodas.ku.dk](https://sodas.ku.dk)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Søgning – Københavns Universitet
+ - [https://soeg.ku.dk](https://soeg.ku.dk)
+ - date_published: 2024-04-30T02:42:28.327018+00:00
+
+ ## Studier på Københavns Universitet – Københavns Universitet
+ - [https://studier.ku.dk](https://studier.ku.dk)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## International Students – University of Copenhagen
+ - [https://studies.ku.dk](https://studies.ku.dk)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## SUND Hub - en del af the Pipeline & KU Lighthouse – Københavns Universitet
+ - [https://sundhub.ku.dk](https://sundhub.ku.dk)
+ - date_published: 2024-04-30T02:41:48.499126+00:00
+
+ ## Det Sundhedsvidenskabelige Fakultet – Københavns Universitet
+ - [https://sund.ku.dk](https://sund.ku.dk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Sustainability Science Centre – University of Copenhagen
+ - [https://sustainability.ku.dk](https://sustainability.ku.dk)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Det Teologiske Fakultet – Københavns Universitet
+ - [https://teol.ku.dk](https://teol.ku.dk)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Kvalitetssikring af uddannelser – Københavns Universitet
+ - [https://uddannelseskvalitet.ku.dk](https://uddannelseskvalitet.ku.dk)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Universitetshistorie – Københavns Universitet
+ - [https://universitetshistorie.ku.dk](https://universitetshistorie.ku.dk)
+ - date_published: 2024-08-06T17:55:30.403572+00:00
+
+ ## Uddannelser & studerende – Københavns Universitet
+ - [https://us.ku.dk](https://us.ku.dk)
+ - date_published: 2024-08-05T10:06:04+00:00
+
+ ## Om universitetet – Københavns Universitet
+ - [http://velkommen.ku.dk](http://velkommen.ku.dk)
+ - date_published: 2024-07-22T09:30:22+00:00
+
+ ## Skolen for Veterinærmedicin og Husdyrvidenskab – Københavns Universitet
+ - [https://vetschool.ku.dk](https://vetschool.ku.dk)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Københavns Universitets Videoportal
+ - [https://video.ku.dk](https://video.ku.dk)
+ - date_published: 2024-04-30T02:42:22.445399+00:00
+
+ ## Webguide – Hjælp og inspiration til webredaktører (Obvius CMS)
+ - [https://webguide.ku.dk](https://webguide.ku.dk)
+ - date_published: 2024-07-22T09:55:55.777328+00:00
+
+ ## Institut for Matematiske  Fag – Københavns Universitet
+ - [http://web.math.ku.dk](http://web.math.ku.dk)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## SNM Webshop
+ - [https://webshop.snm.ku.dk](https://webshop.snm.ku.dk)
+ - date_published: 2024-08-11T03:42:34.494552+00:00
+
+ ## Biocenter – Københavns Universitet
+ - [https://www.biocenter.ku.dk](https://www.biocenter.ku.dk)
+ - date_published: 2024-07-12T08:19:38.107742+00:00
+
+ ## Økonomisk Institut – Københavns Universitet
+ - [https://www.econ.ku.dk](https://www.econ.ku.dk)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Sociologisk Institut – Københavns Universitet
+ - [https://www.soc.ku.dk](https://www.soc.ku.dk)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## tandlægeskolen.ku.dk – Københavns Universitet
+ - [https://xn--tandlgeskolen-7fb.ku.dk](https://xn--tandlgeskolen-7fb.ku.dk)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## Kulturkraft
+ - [https://www.kulturkraft.dk](https://www.kulturkraft.dk)
+ - date_published: 2024-07-22T09:48:28.385259+00:00
+
+ ## Kulturmonitor
+ - [https://kulturmonitor.dk](https://kulturmonitor.dk)
+ - date_published: 2024-04-30T02:44:00.510964+00:00
+
+ ## KU Merchandise. Beklædning og accessories til studerende og gæster.
+ - [https://ku-shop.dk](https://ku-shop.dk)
+ - date_published: 2024-04-30T02:42:13.081954+00:00
+
+ ## Kulturværftet & Toldkammeret
+ - [https://kuto.dk](https://kuto.dk)
+ - date_published: 2023-09-05T14:43:25+00:00
+
+ ## Kvalifik - Digital Innovation Agency in Copenhagen, Denmark
+ - [https://www.kvalifik.dk](https://www.kvalifik.dk)
+ - date_published: 2024-10-19T12:10:53.582334+00:00
+
+ ## Designet med omtanke for den næste generation | Kvik
+ - [https://kvik.dk](https://kvik.dk)
+ - date_published: 2024-06-15T21:40:17.684293+00:00
+
+ ## Charlotte Steen - Design Kunst og Smedeværksted på Christianshavn - Kvindesmedien
+ - [http://www.kvindesmedien.dk](http://www.kvindesmedien.dk)
+ - date_published: 2024-09-12T17:23:16.071341+00:00
+
+ ## Victor Kyllesbech
+ - [https://kyll.dk](https://kyll.dk)
+ - date_published: 2024-04-25T15:38:10+00:00
+
+ ## Lægemiddelstyrelsen
+ - [https://laegemiddelstyrelsen.dk](https://laegemiddelstyrelsen.dk)
+ - date_published: 2024-09-19T20:34:56.192957+00:00
+
+ ## Conditori La Glace
+ - [http://www.laglace.dk](http://www.laglace.dk)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Land Rover | Oplev luksus-SUV'er og 4x4-køretøjer | Land Rover Denmark
+ - [https://www.landrover.dk](https://www.landrover.dk)
+ - date_published: 2024-02-12T00:00:00+00:00
+
+ ## Lars Hartmann Design – Identitets- & webdesigner fra skønne Frederiksberg
+ - [https://www.larshartmann.dk](https://www.larshartmann.dk)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Velkommen til Laudrup Vin
+ - [https://laudrup.dk](https://laudrup.dk)
+ - date_published: 2024-06-25T16:54:05.268337+00:00
+
+ ## LEGOLAND® Billund
+ - [https://www.legoland.dk](https://www.legoland.dk)
+ - date_published: 2024-07-03T09:45:22.782858+00:00
+
+ ## Sammenlign lån fra 21 banker helt gratis og uforpligtende | Lendo
+ - [https://lendo.dk](https://lendo.dk)
+ - date_published: 2024-10-30T22:02:47+00:00
+
+ ## Lån op til 400.000 - Få det bedste lån i dag | 2024
+ - [https://letfinans.dk](https://letfinans.dk)
+ - date_published: 2024-10-31T00:48:49.670375+00:00
+
+ ## Lidl Danmark
+ - [https://www.lidl.dk](https://www.lidl.dk)
+ - date_published: 2024-06-25T19:03:02.653231+00:00
+
+ ## LINAK - elektrisk lineær aktuatorteknologi til systemer med bevægelse
+ - [https://www.linak.dk](https://www.linak.dk)
+ - date_published: 2024-09-05T21:35:43.339357+00:00
+
+ ## Lingoblog
+ - [https://www.lingoblog.dk](https://www.lingoblog.dk)
+ - date_published: 2024-02-07T00:00:00+00:00
+
+ ## LiveAgent | Simple Customer Support Software for Teams
+ - [https://www.liveagent.dk](https://www.liveagent.dk)
+ - date_published: 2024-10-19T20:26:28.124085+00:00
+
+ ## Find billetter til koncerter og events
+ - [https://livenation.dk](https://livenation.dk)
+ - date_published: 2024-07-17T11:17:32.656266+00:00
+
+ ## Lokalavisen.dk | læs og opdag lokale nyheder fra hele Danmark 📰
+ - [https://lokalavisen.dk](https://lokalavisen.dk)
+ - date_published: 2024-07-22T17:53:59.939018+00:00
+
+ ## LOPPEN
+ - [http://loppen.dk](http://loppen.dk)
+ - date_published: 2024-09-12T16:02:04+00:00
+
+ ## Louisiana Design Butik
+ - [https://butik.louisiana.dk](https://butik.louisiana.dk)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Louisiana Channel
+ - [https://channel.louisiana.dk](https://channel.louisiana.dk)
+ - date_published: 2017-04-12T08:25:49+00:00
+
+ ## Frontpage
+ - [https://louisiana.dk](https://louisiana.dk)
+ - date_published: 2023-11-13T13:41:52.770181+00:00
+ - tags: ['museum']
+
  ## go-grid
  - [https://grid.lowpoly.dk](https://grid.lowpoly.dk)
  - date_published: 2024-09-17T17:30:05+00:00
@@ -2330,6 +2755,10 @@ I box, ...
  - [https://pixijs.download](https://pixijs.download)
  - date_published: 2017-03-09T19:27:03+00:00
 
+ ## SteamWorkshop.download
+ - [http://steamworkshop.download](http://steamworkshop.download)
+ - date_published: 2024-11-14T08:36:12.793972+00:00
+
  ## VCMI Project Builds
  - [https://builds.vcmi.download](https://builds.vcmi.download)
  - date_published: 2024-05-07T23:55:36.243945+00:00
@@ -3579,432 +4008,4 @@ I box, ...
  ## TU Kaiserslautern
  - [https://uni-kl.academia.edu](https://uni-kl.academia.edu)
  - date_published: 2024-04-30T02:49:51.800589+00:00
-
- ## Leipzig University (Universität Leipzig)
- - [https://uni-leipzig1.academia.edu](https://uni-leipzig1.academia.edu)
- - date_published: 2024-04-30T02:55:52.129401+00:00
-
- ## Université du Luxembourg
- - [https://uni-lu.academia.edu](https://uni-lu.academia.edu)
- - date_published: 2024-04-30T02:59:18.242304+00:00
-
- ## University of Melbourne
- - [https://unimelb.academia.edu](https://unimelb.academia.edu)
- - date_published: 2024-04-30T02:49:36.651007+00:00
-
- ## University of Naples "Federico II" / Università di Napoli Federico II
- - [https://unina.academia.edu](https://unina.academia.edu)
- - date_published: 2024-07-19T23:10:13.601289+00:00
-
- ## Università di Perugia
- - [https://uniperugia.academia.edu](https://uniperugia.academia.edu)
- - date_published: 2024-04-30T03:02:11.527533+00:00
-
- ## Università degli Studi di Torino
- - [http://unito.academia.edu](http://unito.academia.edu)
- - date_published: 2024-06-17T11:13:47.262939+00:00
-
- ## University of Vienna
- - [http://univie.academia.edu](http://univie.academia.edu)
- - date_published: 2024-10-29T18:47:05.711967+00:00
-
- ## Université Paris 1 - Panthéon-Sorbonne
- - [https://univ-paris1.academia.edu](https://univ-paris1.academia.edu)
- - date_published: 2024-04-30T03:03:09.313574+00:00
-
- ## University of New Mexico
- - [https://unm.academia.edu](https://unm.academia.edu)
- - date_published: 2024-04-30T02:58:33.906049+00:00
-
- ## University of Oregon
- - [https://uoregon.academia.edu](https://uoregon.academia.edu)
- - date_published: 2024-06-24T10:34:11.149437+00:00
-
- ## University of Wollongong
- - [https://uow.academia.edu](https://uow.academia.edu)
- - date_published: 2024-04-30T03:02:15.855812+00:00
-
- ## University of Pardubice
- - [https://upce.academia.edu](https://upce.academia.edu)
- - date_published: 2024-04-30T02:58:36.490590+00:00
-
- ## University of Pennsylvania
- - [https://upenn.academia.edu](https://upenn.academia.edu)
- - date_published: 2024-04-30T02:56:50.871718+00:00
-
- ## Uppsala University
- - [https://uppsala.academia.edu](https://uppsala.academia.edu)
- - date_published: 2024-04-30T03:03:02.362142+00:00
-
- ## University of Pretoria
- - [https://up-za.academia.edu](https://up-za.academia.edu)
- - date_published: 2024-04-30T02:50:10.513363+00:00
-
- ## University of Rhode Island
- - [http://uri.academia.edu](http://uri.academia.edu)
- - date_published: 2024-09-03T22:57:41.975912+00:00
-
- ## University of Southern California
- - [https://usc.academia.edu](https://usc.academia.edu)
- - date_published: 2024-04-30T02:56:31.622228+00:00
-
- ## University of Santiago de Compostela
- - [https://usc-es.academia.edu](https://usc-es.academia.edu)
- - date_published: 2024-04-30T02:59:14.678139+00:00
-
- ## Universidad San Francisco de Quito
- - [https://usfq.academia.edu](https://usfq.academia.edu)
- - date_published: 2024-10-14T20:49:42.339299+00:00
-
- ## Universidade de São Paulo
- - [https://usp-br.academia.edu](https://usp-br.academia.edu)
- - date_published: 2024-04-30T03:00:11.371153+00:00
-
- ## The University of Texas at Austin
- - [https://utexas.academia.edu](https://utexas.academia.edu)
- - date_published: 2024-04-30T02:59:46.906021+00:00
-
- ## University of Toronto
- - [http://utoronto.academia.edu](http://utoronto.academia.edu)
- - date_published: 2024-04-30T03:01:46.223047+00:00
-
- ## University of Turku
- - [https://utu.academia.edu](https://utu.academia.edu)
- - date_published: 2024-04-30T02:58:09.045137+00:00
-
- ## Utrecht University
- - [https://uu.academia.edu](https://uu.academia.edu)
- - date_published: 2024-04-30T02:56:43.182045+00:00
-
- ## Vilnius University
- - [https://vu-lt.academia.edu](https://vu-lt.academia.edu)
- - date_published: 2024-04-30T02:56:23.161974+00:00
-
- ## Vrije Universiteit Amsterdam
- - [https://vu-nl.academia.edu](https://vu-nl.academia.edu)
- - date_published: 2024-04-30T02:59:28.214088+00:00
-
- ## University of Warwick
- - [https://warwick.academia.edu](https://warwick.academia.edu)
- - date_published: 2024-04-30T03:02:32.869312+00:00
-
- ## Western University Canada
- - [https://westernu.academia.edu](https://westernu.academia.edu)
- - date_published: 2024-04-30T02:50:30.035037+00:00
-
- ## University of Wisconsin-Madison
- - [https://wisc.academia.edu](https://wisc.academia.edu)
- - date_published: 2024-04-30T03:00:54.514977+00:00
-
- ## Washington University in St. Louis
- - [https://wustl.academia.edu](https://wustl.academia.edu)
- - date_published: 2024-04-30T02:50:25.947691+00:00
-
- ## West Virginia University
- - [https://wvu.academia.edu](https://wvu.academia.edu)
- - date_published: 2024-04-30T02:59:22.255414+00:00
-
- ## Academy of Art University
- - [https://academyart.edu](https://academyart.edu)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Academy of Art University
- - [https://catalog.academyart.edu](https://catalog.academyart.edu)
- - date_published: 2024-07-07T04:43:02.715930+00:00
-
- ## Academy of Art University Media Center
- - [https://mediacenter.academyart.edu](https://mediacenter.academyart.edu)
- - date_published: 2024-07-07T04:42:41.886477+00:00
-
- ## Student Life and Services
- - [https://my.academyart.edu](https://my.academyart.edu)
- - date_published: 2024-07-07T04:42:46.228344+00:00
-
- ## Academy of Art University Spring Show
- - [https://springshow.academyart.edu](https://springshow.academyart.edu)
- - date_published: 2024-07-07T04:43:01.520579+00:00
-
- ## American College of the Building Arts
- - [https://acba.edu](https://acba.edu)
- - date_published: 2024-02-08T17:01:49.403956+00:00
-
- ## Home | ACE
- - [https://ace.edu](https://ace.edu)
- - date_published: 2024-10-27T13:02:08.055106+00:00
-
- ## American College of Education - Modern Campus Catalog™
- - [https://catalog.ace.edu](https://catalog.ace.edu)
- - date_published: 2024-10-27T13:02:16.941302+00:00
-
- ## Carnegie Classification of Institutions of Higher Education®
- - [https://carnegieclassifications.acenet.edu](https://carnegieclassifications.acenet.edu)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## American Council on Education
- - [https://www.acenet.edu](https://www.acenet.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Alabama Cooperative Extension System
- - [https://www.aces.edu](https://www.aces.edu)
- - date_published: 2024-07-02T13:05:20.545210+00:00
-
- ## Abilene Christian University
- - [https://acu.edu](https://acu.edu)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Adrian College | Liberal Arts College in MI
- - [https://adrian.edu](https://adrian.edu)
- - date_published: 2024-04-30T07:25:56.502677+00:00
-
- ## Blackboard Learn
- - [https://bb.adrian.edu](https://bb.adrian.edu)
- - date_published: 2004-07-21T03:18:08+00:00
-
- ## Air University
- - [https://www.airuniversity.af.edu](https://www.airuniversity.af.edu)
- - date_published: 2024-07-20T21:12:29.225657+00:00
-
- ## Welcome to the Air Force Institute of Technology / Celebrating 100 Year of Inspiration to Innovation / 1919 - 2019
- - [https://www.afit.edu](https://www.afit.edu)
- - date_published: 2024-06-30T03:00:23.905191+00:00
-
- ## Home - Africa University
- - [https://www.africau.edu](https://www.africau.edu)
- - date_published: 2024-06-29T13:51:17.129360+00:00
-
- ## Events Calendar
- - [https://events.aims.edu](https://events.aims.edu)
- - date_published: 2024-07-02T01:46:52.128313+00:00
-
- ## Association of Jesuit Colleges and Universities - HOME
- - [http://www.ajcunet.edu](http://www.ajcunet.edu)
- - date_published: 2024-10-18T22:34:29.777198+00:00
-
- ## The Aga Khan University
- - [https://www.aku.edu](https://www.aku.edu)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## UA System | University of Alaska System
- - [https://alaska.edu](https://alaska.edu)
- - date_published: 2024-05-07T20:41:09.067327+00:00
-
- ## UAF North
- - [https://canvas.alaska.edu](https://canvas.alaska.edu)
- - date_published: 2024-05-07T20:41:53.614034+00:00
-
- ## Home Page
- - [https://careers.alaska.edu](https://careers.alaska.edu)
- - date_published: 2024-07-01T22:03:27.535906+00:00
-
- ## Blackboard Learn
- - [https://classes.alaska.edu](https://classes.alaska.edu)
- - date_published: 2004-07-01T22:02:06+00:00
-
- ## UA ELMO
- - [https://elmo.alaska.edu](https://elmo.alaska.edu)
- - date_published: 2024-07-01T22:03:58.761092+00:00
-
- ## Home - Empower Alaska
- - [https://empower.alaska.edu](https://empower.alaska.edu)
- - date_published: 2024-01-25T00:00:00+00:00
-
- ## Give Now - UA
- - [https://engage.alaska.edu](https://engage.alaska.edu)
- - date_published: 2024-05-07T20:41:45.421621+00:00
-
- ## Directory Search
- - [https://people.alaska.edu](https://people.alaska.edu)
- - date_published: 2024-05-07T20:42:05.472604+00:00
-
- ## ScholarWorks@UA Home
- - [https://scholarworks.alaska.edu](https://scholarworks.alaska.edu)
- - date_published: 2024-07-01T22:04:44.669404+00:00
-
- ## Sea Ice Group
- - [https://seaice.alaska.edu](https://seaice.alaska.edu)
- - date_published: 2023-11-29T00:15:05+00:00
-
- ## OIT Services Status
- - [http://status.alaska.edu](http://status.alaska.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## UA Alert
- - [https://uaalert.alaska.edu](https://uaalert.alaska.edu)
- - date_published: 2024-07-01T22:04:13.468654+00:00
-
- ## UAF ON ALERT
- - [https://uafalert.alaska.edu](https://uafalert.alaska.edu)
- - date_published: 2024-05-05T00:00:00+00:00
-
- ## UAOnline Services | UAOnline Services
- - [https://uaonline.alaska.edu](https://uaonline.alaska.edu)
- - date_published: 2024-07-01T22:04:24.480833+00:00
-
- ## UA Web SSO Service
- - [http://webmail.alaska.edu](http://webmail.alaska.edu)
- - date_published: 2024-07-01T22:04:03.216996+00:00
-
- ## University of Alaska Anchorage | University of Alaska Anchorage
- - [https://www.uaa.alaska.edu](https://www.uaa.alaska.edu)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## University of Alaska Southeast
- - [http://www.uas.alaska.edu](http://www.uas.alaska.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## Alaska Pacific University - Discover Active Learning
- - [https://alaskapacific.edu](https://alaskapacific.edu)
- - date_published: 2024-06-15T04:49:31.690907+00:00
-
- ## Admissions & Costs - Alaska Pacific University
- - [https://apply.alaskapacific.edu](https://apply.alaskapacific.edu)
- - date_published: 2024-09-16T07:06:54.990577+00:00
-
- ## IIS Windows Server
- - [https://apu-portal.alaskapacific.edu](https://apu-portal.alaskapacific.edu)
- - date_published: 2020-02-19T01:46:15+00:00
-
- ## Alaska Pacific University - Modern Campus Catalog™
- - [http://catalog.alaskapacific.edu](http://catalog.alaskapacific.edu)
- - date_published: 2024-09-16T00:00:00+00:00
-
- ## Turnagain Currents – Alaska Pacific University
- - [http://turnagain.alaskapacific.edu](http://turnagain.alaskapacific.edu)
- - date_published: 2024-09-16T07:06:51.438909+00:00
-
- ## University at Albany - State University of New York
- - [https://albany.edu](https://albany.edu)
- - date_published: 2024-08-11T22:43:41+00:00
-
- ## Department of Atmospheric and Environmental Sciences | University at Albany
- - [http://www.atmos.albany.edu](http://www.atmos.albany.edu)
- - date_published: 2024-06-21T20:19:28+00:00
-
- ## Computer Science | University at Albany
- - [http://www.cs.albany.edu](http://www.cs.albany.edu)
- - date_published: 2024-09-02T15:40:21+00:00
-
- ## Allegheny College Meadville PA
- - [http://www.allegheny.edu](http://www.allegheny.edu)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Home
- - [https://bard.alquds.edu](https://bard.alquds.edu)
- - date_published: 2020-12-30T09:07:45+00:00
-
- ## Al-Quds University - Al-Quds University جامعة القدس
- - [https://www.alquds.edu](https://www.alquds.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## American University, Washington, D.C.
- - [https://american.edu](https://american.edu)
- - date_published: 2024-04-30T03:03:33.528880+00:00
-
- ## Canvas Login
- - [https://canvas.american.edu](https://canvas.american.edu)
- - date_published: 2024-07-22T08:50:22.221499+00:00
-
- ## American University Washington College of Law - Acalog ACMS™
- - [http://catalog.wcl.american.edu](http://catalog.wcl.american.edu)
- - date_published: 2024-07-07T08:46:29.068021+00:00
-
- ## Digital Commons @ American University Washington College of Law | American University Washington College of Law Research
- - [http://digitalcommons.wcl.american.edu](http://digitalcommons.wcl.american.edu)
- - date_published: 2024-07-07T08:46:18.350482+00:00
-
- ## Sign In
- - [https://future-eagle.american.edu](https://future-eagle.american.edu)
- - date_published: 2024-07-22T08:50:32+00:00
-
- ## Sign in to Outlook
- - [https://mail.american.edu](https://mail.american.edu)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Browser SSO
- - [https://myau.american.edu](https://myau.american.edu)
- - date_published: 2024-07-07T08:46:16.316897+00:00
-
- ## Browser SSO
- - [https://my.wcl.american.edu](https://my.wcl.american.edu)
- - date_published: 2024-07-07T08:46:27.322242+00:00
-
- ## Online Law Degree
- - [https://onlinelaw.wcl.american.edu](https://onlinelaw.wcl.american.edu)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Research @ AU
- - [https://research.american.edu](https://research.american.edu)
- - date_published: 2023-10-25T18:46:30.302927+00:00
-
- ## American University Washington College of Law
- - [https://wcl.american.edu](https://wcl.american.edu)
- - date_published: 2024-05-08T10:07:22.676670+00:00
-
- ## Home
- - [https://acpress.amherst.edu](https://acpress.amherst.edu)
- - date_published: 2024-10-19T11:07:13.648046+00:00
-
- ## Home | Amherst College
- - [http://amherst.edu](http://amherst.edu)
- - date_published: 2024-07-21T22:35:27+00:00
-
- ## Amherst College Directory
- - [http://directory.amherst.edu](http://directory.amherst.edu)
- - date_published: 2024-07-21T23:36:16.758619+00:00
-
- ## Home
- - [https://www.anderson.edu](https://www.anderson.edu)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## An independent and inclusive coed boarding high school
- - [http://www.andover.edu](http://www.andover.edu)
- - date_published: 2024-07-01T15:25:20.953925+00:00
-
- ## Homepage | Saint Anselm College
- - [https://www.anselm.edu](https://www.anselm.edu)
- - date_published: 2024-06-28T08:02:22+00:00
-
- ## Accessibility at App State
- - [https://accessibility.appstate.edu](https://accessibility.appstate.edu)
- - date_published: 2024-08-07T16:52:33+00:00
-
- ## api.appstate.edu
- - [https://api.appstate.edu](https://api.appstate.edu)
- - date_published: 2018-02-22T14:15:42+00:00
-
- ## AppalNet | Appalachian State University
- - [https://appalnet.appstate.edu](https://appalnet.appstate.edu)
- - date_published: 2024-05-15T14:56:59+00:00
-
- ## Appalachian State University
- - [https://appstate.edu](https://appstate.edu)
- - date_published: 2024-08-07T16:52:36.364030+00:00
-
- ## Home | AsULearn
- - [https://asulearn.appstate.edu](https://asulearn.appstate.edu)
- - date_published: 2024-08-07T16:52:30+00:00
-
- ## Career Development Center
- - [https://careers.appstate.edu](https://careers.appstate.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Welcome to the College of Arts and Sciences
- - [https://cas.appstate.edu](https://cas.appstate.edu)
- - date_published: 2024-08-07T16:52:20+00:00
-
- ## Welcome
- - [https://compsci.appstate.edu](https://compsci.appstate.edu)
- - date_published: 2024-08-07T16:52:10+00:00
-
- ## Welcome
- - [https://cs.appstate.edu](https://cs.appstate.edu)
- - date_published: 2024-04-28T03:37:53.560746+00:00
-
- ## Appstate Search | Appalachian State University
- - [https://cse.appstate.edu](https://cse.appstate.edu)
- - date_published: 2024-02-28T16:27:51+00:00
-
- ## DegreeWorks
- - [https://degreeworks.appstate.edu](https://degreeworks.appstate.edu)
- - date_published: 2020-10-06T17:47:47+00:00
 

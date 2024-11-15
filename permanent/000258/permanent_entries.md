@@ -1,3 +1,431 @@
+ ## Home Grid
+ - [https://theater.dartmouth.edu](https://theater.dartmouth.edu)
+ - date_published: 2020-11-09T19:46:19+00:00
+
+ ## Tuck School of Business
+ - [https://tuck.dartmouth.edu](https://tuck.dartmouth.edu)
+ - date_published: 2024-04-30T04:04:37.132226+00:00
+
+ ## TuckLAB - Welcome
+ - [https://tucklab.tuck.dartmouth.edu](https://tucklab.tuck.dartmouth.edu)
+ - date_published: 2024-07-22T04:42:34.787189+00:00
+
+ ## Home
+ - [https://web.cs.dartmouth.edu](https://web.cs.dartmouth.edu)
+ - date_published: 2020-05-07T14:55:09+00:00
+
+ ## WeBWorK at Dartmouth
+ - [https://webwork.dartmouth.edu](https://webwork.dartmouth.edu)
+ - date_published: 2024-04-30T04:11:47.206770+00:00
+
+ ## Home
+ - [https://wgs.dartmouth.edu](https://wgs.dartmouth.edu)
+ - date_published: 2020-10-22T15:57:28+00:00
+
+ ## Home
+ - [https://writing.dartmouth.edu](https://writing.dartmouth.edu)
+ - date_published: 2022-11-17T21:32:45+00:00
+
+ ## WS Demo Homepage
+ - [https://ws.dartmouth.edu](https://ws.dartmouth.edu)
+ - date_published: 2016-06-09T13:16:45+00:00
+
+ ## Home | Dartmouth TTO
+ - [https://www.tto.dartmouth.edu](https://www.tto.dartmouth.edu)
+ - date_published: 2024-07-22T04:46:48.111931+00:00
+
+ ## March MATHness
+ - [https://marchmathness.davidson.edu](https://marchmathness.davidson.edu)
+ - date_published: 2017-01-01T00:00:00+00:00
+
+ ## Davidson College | Davidson
+ - [http://www.davidson.edu](http://www.davidson.edu)
+ - date_published: 2024-08-19T20:00:30+00:00
+
+ ## University of Dubuque Theological Seminary
+ - [http://udts.dbq.edu](http://udts.dbq.edu)
+ - date_published: 2024-06-28T20:40:10.466054+00:00
+
+ ## DC3 CTA
+ - [https://www.dcita.edu](https://www.dcita.edu)
+ - date_published: 2024-04-18T15:43:07+00:00
+
+ ## De Anza College - Tops in Transfer
+ - [https://deanza.edu](https://deanza.edu)
+ - date_published: 2024-05-09T08:42:01.183697+00:00
+
+ ## DePaul University Academics | DePaul University, Chicago
+ - [https://academics.depaul.edu](https://academics.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Sign in to Outlook
+ - [https://bluemail.depaul.edu](https://bluemail.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## HTML REDIRECT
+ - [https://campusconnect.depaul.edu](https://campusconnect.depaul.edu)
+ - date_published: 2019-06-28T19:07:52+00:00
+
+ ## Academic Catalog < DePaul University
+ - [https://catalog.depaul.edu](https://catalog.depaul.edu)
+ - date_published: 2024-06-24T14:23:46+00:00
+
+ ## Foundations of Programming Languages Group
+ - [http://cryptyc.cs.depaul.edu](http://cryptyc.cs.depaul.edu)
+ - date_published: 2022-10-21T20:24:08+00:00
+
+ ## Sign in to your account
+ - [https://d2l.depaul.edu](https://d2l.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Emergency Plan | DePaul University, Chicago
+ - [https://emergencyplan.depaul.edu](https://emergencyplan.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Events Calendar - DePaul University
+ - [https://events.depaul.edu](https://events.depaul.edu)
+ - date_published: 2024-07-09T21:29:41.613091+00:00
+
+ ## DePaul University Libraries: EZproxy
+ - [https://ezproxy.depaul.edu](https://ezproxy.depaul.edu)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Foundations of Programming Languages Group
+ - [http://fpl.cs.depaul.edu](http://fpl.cs.depaul.edu)
+ - date_published: 2022-10-21T20:24:08+00:00
+
+ ## www.depaul.edu
+ - [http://go.depaul.edu](http://go.depaul.edu)
+ - date_published: 2024-07-09T21:29:36.475304+00:00
+
+ ## DePaul University | DePaul University, Chicago
+ - [https://grad.depaul.edu](https://grad.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## College of Liberal Arts and Social Sciences | DePaul University, Chicago
+ - [https://las.depaul.edu](https://las.depaul.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## DePaul University Libraries | DePaul University, Chicago
+ - [https://library.depaul.edu](https://library.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University Standard Sites | DePaul University, Chicago
+ - [https://offices.depaul.edu](https://offices.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University Resources | DePaul University, Chicago
+ - [https://resources.depaul.edu](https://resources.depaul.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## DePaul University's institutional repository: Digital Commons@DePaul
+ - [https://via.library.depaul.edu](https://via.library.depaul.edu)
+ - date_published: 2024-06-28T20:50:40.984900+00:00
+
+ ## DePaul University | DePaul University, Chicago
+ - [http://www.depaul.edu](http://www.depaul.edu)
+ - date_published: 2024-07-07T00:00:00+00:00
+
+ ## DePauw University - A Private Liberal Arts College - DePauw University
+ - [https://depauw.edu](https://depauw.edu)
+ - date_published: 2024-09-18T07:48:39.263628+00:00
+
+ ## Home | Moodle
+ - [https://moodle.depauw.edu](https://moodle.depauw.edu)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## DePauw e-Services:
+ - [https://my.depauw.edu](https://my.depauw.edu)
+ - date_published: 2024-09-18T07:49:10.864749+00:00
+
+ ## Dickinson College Bookstore - serving the campus of Dickinson College
+ - [https://bookstore.dickinson.edu](https://bookstore.dickinson.edu)
+ - date_published: 2024-10-20T22:02:38.542900+00:00
+
+ ## React App
+ - [https://viewbook.dickinson.edu](https://viewbook.dickinson.edu)
+ - date_published: 2022-02-16T23:20:46+00:00
+
+ ## Dickinson College Homepage
+ - [http://www.dickinson.edu](http://www.dickinson.edu)
+ - date_published: 2024-06-18T07:52:10.636164+00:00
+
+ ## Home
+ - [http://www.dickinsonstate.edu](http://www.dickinsonstate.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## DigiPen Academy | Academic Preparatory and STEAM Courses
+ - [https://academy.digipen.edu](https://academy.digipen.edu)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## Admissions
+ - [https://connect.digipen.edu](https://connect.digipen.edu)
+ - date_published: 2024-07-14T09:34:26+00:00
+
+ ## Homepage
+ - [https://digipen.edu](https://digipen.edu)
+ - date_published: 2024-05-11T10:26:25.058580+00:00
+
+ ## MachForm Admin Panel
+ - [https://forms.digipen.edu](https://forms.digipen.edu)
+ - date_published: 2024-07-14T10:34:23.351157+00:00
+
+ ## Home - Diné College
+ - [https://dinecollege.edu](https://dinecollege.edu)
+ - date_published: 2018-03-30T17:35:48+00:00
+
+ ## Diné College KXWR Radio | Diné College KXWR Radio
+ - [https://kxwr.dinecollege.edu](https://kxwr.dinecollege.edu)
+ - date_published: 2024-07-08T15:05:21.340303+00:00
+
+ ## Diné College Libraries: Dine College Libraries Homepage: Home
+ - [https://lib.dinecollege.edu](https://lib.dinecollege.edu)
+ - date_published: 2024-07-08T15:05:15.982377+00:00
+
+ ## DiploFoundation - Where diplomacy meets technology
+ - [https://diplomacy.edu](https://diplomacy.edu)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Diplo's Digital Repository :: Home
+ - [http://dspace.diplomacy.edu](http://dspace.diplomacy.edu)
+ - date_published: 2024-06-18T14:23:58.603753+00:00
+
+ ## Home - G. R. Berridge
+ - [https://grberridge.diplomacy.edu](https://grberridge.diplomacy.edu)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## [Online conference] Digital and Diplomacy Conference (Sept 2021)
+ - [https://meetings.diplomacy.edu](https://meetings.diplomacy.edu)
+ - date_published: 2024-06-18T14:24:07.313423+00:00
+
+ ## Diplo Study – Learn Management System
+ - [https://study.diplomacy.edu](https://study.diplomacy.edu)
+ - date_published: 2024-06-18T14:23:55.138256+00:00
+
+ ## Home
+ - [https://www.dodea.edu](https://www.dodea.edu)
+ - date_published: 2024-07-20T20:22:50+00:00
+
+ ## SUNY Downstate Health Sciences University
+ - [https://www.downstate.edu](https://www.downstate.edu)
+ - date_published: 2024-07-15T03:39:49.530919+00:00
+
+ ## Apache HTTP Server Test Page powered by CentOS
+ - [http://depts.drew.edu](http://depts.drew.edu)
+ - date_published: 2014-10-16T13:20:58+00:00
+
+ ## Home - Drew University
+ - [https://drew.edu](https://drew.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Home - Drew University
+ - [https://groups.drew.edu](https://groups.drew.edu)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## uLogin
+ - [http://mail.drew.edu](http://mail.drew.edu)
+ - date_published: 2024-08-08T23:38:34.270306+00:00
+
+ ## Drew University Moodle
+ - [https://moodle.drew.edu](https://moodle.drew.edu)
+ - date_published: 2024-08-08T23:37:27+00:00
+
+ ## uLogin
+ - [https://s.drew.edu](https://s.drew.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## uLogin
+ - [http://treehouse.drew.edu](http://treehouse.drew.edu)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## User Homepages @Drew University
+ - [https://users.drew.edu](https://users.drew.edu)
+ - date_published: 2023-11-14T23:58:00.601263+00:00
+
+ ## Computer Accounts Management Service
+ - [https://accounts.drexel.edu](https://accounts.drexel.edu)
+ - date_published: 2024-07-22T04:41:19.272919+00:00
+
+ ## Admissions | Drexel University
+ - [https://admissions.drexel.edu](https://admissions.drexel.edu)
+ - date_published: 2020-07-08T23:03:00+00:00
+
+ ## Drexel Connect
+ - [https://connect.drexel.edu](https://connect.drexel.edu)
+ - date_published: 2024-04-30T04:12:32.201669+00:00
+
+ ## Drexel Home
+ - [https://drexel.edu](https://drexel.edu)
+ - date_published: 2023-10-25T18:51:05.420930+00:00
+
+ ## Drexel University Online: Accredited College Degrees & Programs
+ - [https://online.drexel.edu](https://online.drexel.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## This site is not configured
+ - [https://secureia.drexel.edu](https://secureia.drexel.edu)
+ - date_published: 2024-04-30T04:12:31.157781+00:00
+
+ ## LeBow College of Business
+ - [https://www.lebow.drexel.edu](https://www.lebow.drexel.edu)
+ - date_published: 2024-09-04T05:35:31.721307+00:00
+
+ ## Western Regional Climate Center
+ - [https://wrcc.dri.edu](https://wrcc.dri.edu)
+ - date_published: 2024-09-16T20:46:56.096833+00:00
+
+ ## Home Page
+ - [https://www.dri.edu](https://www.dri.edu)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Home
+ - [https://www.drury.edu](https://www.drury.edu)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## repo.ialab.dsu.edu
+ - [https://repo.ialab.dsu.edu](https://repo.ialab.dsu.edu)
+ - date_published: 2024-05-04T12:26:53+00:00
+
+ ## Undergraduate Admission | University of Denver
+ - [https://admission.du.edu](https://admission.du.edu)
+ - date_published: 2024-07-21T18:24:13+00:00
+
+ ## University of Denver
+ - [https://crimsonconnect.du.edu](https://crimsonconnect.du.edu)
+ - date_published: 2024-10-18T22:14:50.627477+00:00
+
+ ## University of Denver | University of Denver
+ - [https://du.edu](https://du.edu)
+ - date_published: 2024-10-18T15:32:26.262652+00:00
+
+ ## Graduate Admission | University of Denver
+ - [https://gradadmissions.du.edu](https://gradadmissions.du.edu)
+ - date_published: 2024-07-21T20:41:13+00:00
+
+ ## Homepage | IAALS
+ - [https://iaals.du.edu](https://iaals.du.edu)
+ - date_published: 2024-07-03T17:05:31.969648+00:00
+
+ ## Innovation Labs | Innovation Labs | Engineering & Computer Science
+ - [https://innovationlabs.du.edu](https://innovationlabs.du.edu)
+ - date_published: 2024-07-21T19:11:56+00:00
+
+ ## Jobs@DU | University of Denver
+ - [http://jobs.du.edu](http://jobs.du.edu)
+ - date_published: 2024-07-19T00:00:00+00:00
+
+ ## College of Arts, Humanities & Social Sciences | University of Denver
+ - [https://liberalarts.du.edu](https://liberalarts.du.edu)
+ - date_published: 2024-07-09T13:17:50+00:00
+
+ ## Ritchie School of Engineering and Computer Science | Engineering & Computer Science
+ - [https://ritchieschool.du.edu](https://ritchieschool.du.edu)
+ - date_published: 2024-04-30T04:59:43.567036+00:00
+
+ ## Vicki Myhren Gallery at the University of Denver Home
+ - [http://vicki-myhren-gallery.du.edu](http://vicki-myhren-gallery.du.edu)
+ - date_published: 2024-10-18T22:14:42.254973+00:00
+
+ ## Sturm College of Law | Sturm College of Law
+ - [http://www.law.du.edu](http://www.law.du.edu)
+ - date_published: 2024-07-12T23:59:00+00:00
+
+ ## Duke Centennial
+ - [https://100.duke.edu](https://100.duke.edu)
+ - date_published: 2024-04-30T04:12:45.645629+00:00
+
+ ## Front Page | Art, Art History & Visual Studies
+ - [https://aahvs.duke.edu](https://aahvs.duke.edu)
+ - date_published: 2024-06-16T06:36:01+00:00
+
+ ## Home | Academic Council
+ - [https://academiccouncil.duke.edu](https://academiccouncil.duke.edu)
+ - date_published: 2024-06-16T06:47:44+00:00
+
+ ## Home | Disability Management System
+ - [https://access.duke.edu](https://access.duke.edu)
+ - date_published: 2024-07-22T04:28:27+00:00
+
+ ## Duke Accessibility
+ - [https://accessibility.duke.edu](https://accessibility.duke.edu)
+ - date_published: 2024-04-30T04:12:41.465893+00:00
+
+ ## Duke | Log In
+ - [https://accounts.oit.duke.edu](https://accounts.oit.duke.edu)
+ - date_published: 2024-06-16T14:05:09.383785+00:00
+
+ ## Home - Duke ACE
+ - [https://ace.duke.edu](https://ace.duke.edu)
+ - date_published: 2024-08-14T00:00:00+00:00
+
+ ## Shibboleth Authentication Request
+ - [https://admin.calendar.duke.edu](https://admin.calendar.duke.edu)
+ - date_published: 2024-09-04T19:41:55.425647+00:00
+
+ ## Duke | Log In
+ - [https://admin.trinity.duke.edu](https://admin.trinity.duke.edu)
+ - date_published: 2024-06-16T07:18:00.354854+00:00
+
+ ## Homepage - Duke Undergraduate Admissions
+ - [https://admissions.duke.edu](https://admissions.duke.edu)
+ - date_published: 2024-06-16T07:16:15.209327+00:00
+
+ ## Homepage - Duke Undergraduate Admissions
+ - [https://admiss.ugrad.duke.edu](https://admiss.ugrad.duke.edu)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Homepage | Advising
+ - [https://advising.duke.edu](https://advising.duke.edu)
+ - date_published: 2024-09-26T17:50:15+00:00
+
+ ## Duke
+ - [https://alumni.duke.edu](https://alumni.duke.edu)
+ - date_published: 2024-06-16T07:17:15.494756+00:00
+
+ ## Advancing Racial Equity at Duke
+ - [https://anti-racism.duke.edu](https://anti-racism.duke.edu)
+ - date_published: 2024-04-09T00:00:00+00:00
+
+ ## Duke University
+ - [https://applygp.duke.edu](https://applygp.duke.edu)
+ - date_published: 2024-06-24T11:39:40+00:00
+
+ ## Welcome | Duke Medical Center Archives
+ - [https://archives.mc.duke.edu](https://archives.mc.duke.edu)
+ - date_published: 2024-06-13T17:50:29+00:00
+
+ ## Sign in - Matomo
+ - [https://ariel.mclibrary.duke.edu](https://ariel.mclibrary.duke.edu)
+ - date_published: 2024-10-16T09:14:17.547413+00:00
+
+ ## Home - Duke Arts
+ - [https://arts.duke.edu](https://arts.duke.edu)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Ask a Blue Devil
+ - [https://askabluedevil.duke.edu](https://askabluedevil.duke.edu)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Duke | Log In
+ - [https://assets.styleguide.duke.edu](https://assets.styleguide.duke.edu)
+ - date_published: 2024-04-30T04:13:40.189075+00:00
+
+ ## Duke Bass Connections
+ - [https://bassconnections.duke.edu](https://bassconnections.duke.edu)
+ - date_published: 2024-06-16T06:24:02+00:00
+
+ ## Duke University
+ - [https://beacon.oit.duke.edu](https://beacon.oit.duke.edu)
+ - date_published: 2024-06-16T14:05:14.934809+00:00
+
+ ## Duke Rhodes iiD
+ - [https://bigdata.duke.edu](https://bigdata.duke.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Crossroads: Where Healthcare and Information Meet
+ - [http://blog.mclibrary.duke.edu](http://blog.mclibrary.duke.edu)
+ - date_published: 2024-02-07T09:17:28+00:00
+
  ## Duke Fuqua Student Blogs | Duke's Fuqua School of Business
  - [http://blogs.fuqua.duke.edu](http://blogs.fuqua.duke.edu)
  - date_published: 2024-06-17T03:22:18.049915+00:00
@@ -3570,433 +3998,4 @@
  ## Welcome and Overview | Web Development Resources | Ivan Allen College of Liberal Arts
  - [https://webdev.iac.gatech.edu](https://webdev.iac.gatech.edu)
  - date_published: 2024-07-22T03:09:00.193135+00:00
-
- ## Welcome Home – Week of Welcome Information for First-Year Students at Georgia Tech
- - [https://welcomehome.gatech.edu](https://welcomehome.gatech.edu)
- - date_published: 2024-07-22T02:15:13+00:00
-
- ## Home | Wellness Empowerment Center
- - [https://wellnesscenter.gatech.edu](https://wellnesscenter.gatech.edu)
- - date_published: 2024-07-17T12:22:20+00:00
-
- ## Williams Lab
- - [https://williams.chemistry.gatech.edu](https://williams.chemistry.gatech.edu)
- - date_published: 2024-06-19T03:09:00+00:00
-
- ## Welcome | Center for the Study of Women, Science and Technology  | Office of the Vice Provost for Faculty
- - [https://wst.gatech.edu](https://wst.gatech.edu)
- - date_published: 2024-10-11T22:44:46.437281+00:00
-
- ## GT Campus Closet – Don't have a Suit?   Rent one from Us.
- - [https://www.campuscloset.gatech.edu](https://www.campuscloset.gatech.edu)
- - date_published: 2024-07-22T03:27:27.767111+00:00
-
- ## Georgia Tech Foundation | Transforming Tomorrow
- - [https://www.gtf.gatech.edu](https://www.gtf.gatech.edu)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Irfan Essa
- - [https://www.irfanessa.gatech.edu](https://www.irfanessa.gatech.edu)
- - date_published: 2024-07-13T03:18:25.528781+00:00
-
- ## ZL Wang's Homepage
- - [http://www.nanoscience.gatech.edu](http://www.nanoscience.gatech.edu)
- - date_published: 2024-06-29T22:30:32.135969+00:00
-
- ## Online Master of Science in Computer Science (OMSCS)
- - [https://www.omscs.gatech.edu](https://www.omscs.gatech.edu)
- - date_published: 2024-05-06T13:41:51.495789+00:00
-
- ## Home | Georgia Tech Supply Chain and Logistics Institute
- - [https://www.scl.gatech.edu](https://www.scl.gatech.edu)
- - date_published: 2024-07-15T02:16:30+00:00
-
- ## Student Government Association
- - [https://www.sga.gatech.edu](https://www.sga.gatech.edu)
- - date_published: 2024-09-13T17:50:58+00:00
-
- ## Home Page | Vertically Integrated Projects |  Offical Site
- - [https://www.vip.gatech.edu](https://www.vip.gatech.edu)
- - date_published: 2024-10-11T22:45:03.683071+00:00
-
- ## GateWay Community College
- - [https://www.gatewaycc.edu](https://www.gatewaycc.edu)
- - date_published: 2024-07-09T15:29:18+00:00
-
- ## Home - Gavilan College
- - [https://www.gavilan.edu](https://www.gavilan.edu)
- - date_published: 2024-07-02T20:13:38.153860+00:00
-
- ## login home page - default - Main View | Home Page | Campus Web
- - [https://campusweb.gbc.edu](https://campusweb.gbc.edu)
- - date_published: 2024-04-30T04:20:18.705462+00:00
-
- ## Goldey-Beacom College
- - [https://gbc.edu](https://gbc.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Goldey-Beacom College
- - [http://go.gbc.edu](http://go.gbc.edu)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Grove City College | A Conservative Christian College in PA
- - [http://www.gcc.edu](http://www.gcc.edu)
- - date_published: 2024-06-28T14:31:34.704549+00:00
-
- ## Grand Canyon University | Online, Evening & Campus Degrees
- - [https://explore.gcu.edu](https://explore.gcu.edu)
- - date_published: 2024-07-06T21:40:28.060624+00:00
-
- ## Gemini Observatory
- - [http://www.gemini.edu](http://www.gemini.edu)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Geneva College
- - [http://www.geneva.edu](http://www.geneva.edu)
- - date_published: 2024-06-28T14:16:39.631467+00:00
-
- ## Alumni Admissions Program - Alumni Admissions Program
- - [https://aap.georgetown.edu](https://aap.georgetown.edu)
- - date_published: 2024-10-22T05:35:38.198476+00:00
-
- ## Home Page - The Academic Resource Center
- - [https://academicsupport.georgetown.edu](https://academicsupport.georgetown.edu)
- - date_published: 2024-07-05T00:00:00+00:00
-
- ## Home Page - Accessibility at Georgetown
- - [https://accessibility.georgetown.edu](https://accessibility.georgetown.edu)
- - date_published: 2024-05-11T07:22:42.660229+00:00
-
- ## Alumni Home - Georgetown Alumni
- - [https://alumni.georgetown.edu](https://alumni.georgetown.edu)
- - date_published: 2024-06-18T13:34:30.568731+00:00
-
- ## Americas Institute Homepage
- - [https://americas.georgetown.edu](https://americas.georgetown.edu)
- - date_published: 2024-10-22T05:42:27.342760+00:00
-
- ## | Georgetown Google Apps | Georgetown University
- - [http://apps.georgetown.edu](http://apps.georgetown.edu)
- - date_published: 2022-04-11T10:05:09+00:00
-
- ## - Office of Faculty & Staff Benefits
- - [https://benefits.georgetown.edu](https://benefits.georgetown.edu)
- - date_published: 2024-10-22T05:40:16.595107+00:00
-
- ## Berkley Center for Religion, Peace and World Affairs
- - [http://berkleycenter.georgetown.edu](http://berkleycenter.georgetown.edu)
- - date_published: 2024-06-28T20:54:09.453790+00:00
-
- ## Home Page - Bias Reporting
- - [https://biasreporting.georgetown.edu](https://biasreporting.georgetown.edu)
- - date_published: 2023-06-16T00:00:00+00:00
-
- ## Bioethics Research Library | Georgetown University Library
- - [https://bioethics.georgetown.edu](https://bioethics.georgetown.edu)
- - date_published: 2024-07-16T23:02:11+00:00
-
- ## Home Page - Biomedical Graduate Education
- - [https://biomedicalprograms.georgetown.edu](https://biomedicalprograms.georgetown.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Home Page - Biomedical and Health Sciences
- - [https://biomedicalresearch.georgetown.edu](https://biomedicalresearch.georgetown.edu)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home Page - Department of Biostatistics, Bioinformatics & Biomathematics
- - [https://biostatistics.georgetown.edu](https://biostatistics.georgetown.edu)
- - date_published: 2024-07-13T12:24:28.876625+00:00
-
- ## CNDLS Course Sites
- - [https://blogs.commons.georgetown.edu](https://blogs.commons.georgetown.edu)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Georgetown Box - Georgetown Box
- - [https://box.georgetown.edu](https://box.georgetown.edu)
- - date_published: 2024-09-18T23:27:36.044114+00:00
-
- ## Home Page - 2024-2025 Undergraduate Bulletin
- - [http://bulletin.georgetown.edu](http://bulletin.georgetown.edu)
- - date_published: 2024-10-22T05:40:36.778529+00:00
-
- ## Called to Be: The Campaign for Georgetown
- - [https://calledtobe.georgetown.edu](https://calledtobe.georgetown.edu)
- - date_published: 2024-10-22T05:40:45.069358+00:00
-
- ## Georgetown Lombardi Institute for Cancer and Aging - Georgetown Lombardi Institute for Cancer and Aging
- - [https://cancerandaging.georgetown.edu](https://cancerandaging.georgetown.edu)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Canvas Home Page - Canvas at Georgetown
- - [http://canvas.georgetown.edu](http://canvas.georgetown.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Home Page - Capitol Campus
- - [https://capitolcampus.georgetown.edu](https://capitolcampus.georgetown.edu)
- - date_published: 2024-10-22T05:42:41.197481+00:00
-
- ## Home Page - Careers
- - [https://careers.georgetown.edu](https://careers.georgetown.edu)
- - date_published: 2024-06-18T13:34:38.474869+00:00
-
- ## Catholic Social Thought Homepage
- - [https://catholicsocialthought.georgetown.edu](https://catholicsocialthought.georgetown.edu)
- - date_published: 2024-10-22T05:42:49.993101+00:00
-
- ## Homepage - CCAS
- - [http://ccas.georgetown.edu](http://ccas.georgetown.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## MA Communication Culture & Technology | Georgetown University
- - [http://cct.georgetown.edu](http://cct.georgetown.edu)
- - date_published: 2024-06-22T09:58:58.394574+00:00
-
- ## Home Page - Classroom Educational Technology Services
- - [http://cets.georgetown.edu](http://cets.georgetown.edu)
- - date_published: 2024-10-22T05:41:47.901006+00:00
-
- ## Georgetown University Center on Education and the Workforce
- - [https://cew.georgetown.edu](https://cew.georgetown.edu)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Homepage
- - [https://chinaforum.georgetown.edu](https://chinaforum.georgetown.edu)
- - date_published: 2024-05-04T11:46:00.311110+00:00
-
- ## Home Page - Center for Multicultural Equity and Access
- - [https://cmea.georgetown.edu](https://cmea.georgetown.edu)
- - date_published: 2024-10-22T05:35:48.263653+00:00
-
- ## CNDLS - Center for New Designs in Learning and Scholarship
- - [https://cndls.georgetown.edu](https://cndls.georgetown.edu)
- - date_published: 2024-07-12T19:41:20+00:00
-
- ## Home - College of Arts & Sciences
- - [https://college.georgetown.edu](https://college.georgetown.edu)
- - date_published: 2024-10-22T03:42:19.962060+00:00
-
- ## Class of 2024 Commencement - Commencement
- - [http://commencement.georgetown.edu](http://commencement.georgetown.edu)
- - date_published: 2024-10-22T05:41:49.232533+00:00
-
- ## Directory - Georgetown University
- - [http://contact.georgetown.edu](http://contact.georgetown.edu)
- - date_published: 2024-06-18T13:34:52.153318+00:00
-
- ## corpling@GU
- - [https://corpling.uis.georgetown.edu](https://corpling.uis.georgetown.edu)
- - date_published: 2022-09-04T15:15:22+00:00
-
- ## Georgetown Center for Retirement Initiatives
- - [https://cri.georgetown.edu](https://cri.georgetown.edu)
- - date_published: 2024-08-28T00:00:00+00:00
-
- ## CSET | Center for Security and Emerging Technology
- - [https://cset.georgetown.edu](https://cset.georgetown.edu)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home Page - Department of Computer Science
- - [https://cs.georgetown.edu](https://cs.georgetown.edu)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Home Page - Disability Cultural Center
- - [https://disabilityculture.georgetown.edu](https://disabilityculture.georgetown.edu)
- - date_published: 2024-07-13T12:27:15.179632+00:00
-
- ## Home Page - Dahlgren Memorial Library
- - [https://dml.georgetown.edu](https://dml.georgetown.edu)
- - date_published: 2024-05-08T00:00:00+00:00
-
- ## Home Page - The Earth Commons
- - [https://earthcommons.georgetown.edu](https://earthcommons.georgetown.edu)
- - date_published: 2024-10-22T05:42:30.887952+00:00
-
- ## Home Page - Office of Emergency Management
- - [https://emergencymanagement.georgetown.edu](https://emergencymanagement.georgetown.edu)
- - date_published: 2024-07-13T12:27:40.725831+00:00
-
- ## Master's in Epidemiology - Georgetown University
- - [https://epidemiology.georgetown.edu](https://epidemiology.georgetown.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Georgetown University Faculty Directory
- - [http://explore.georgetown.edu](http://explore.georgetown.edu)
- - date_published: 2023-06-18T11:13:55+00:00
-
- ## Homepage - Planning & Facilities Management
- - [https://facilities.georgetown.edu](https://facilities.georgetown.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Dahlgren Memorial Library FAQs
- - [https://faq.dml.georgetown.edu](https://faq.dml.georgetown.edu)
- - date_published: 2024-07-13T12:27:27.708038+00:00
-
- ## Home Page - Office of Student Financial Services
- - [https://finaid.georgetown.edu](https://finaid.georgetown.edu)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Home Page - Fisher Center for Hereditary Cancer and Clinical Genomics Research
- - [https://fishercenter.georgetown.edu](https://fishercenter.georgetown.edu)
- - date_published: 2024-07-13T12:24:19.757745+00:00
-
- ## Home - Friends of Lombardi
- - [https://friends.lombardi.georgetown.edu](https://friends.lombardi.georgetown.edu)
- - date_published: 2024-07-13T12:24:14.403489+00:00
-
- ## Home Page - Georgetown Admissions Ambassador Program (GAAP)
- - [http://gaap.georgetown.edu](http://gaap.georgetown.edu)
- - date_published: 2024-10-22T05:40:33.521041+00:00
-
- ## Georgetown University in Washington DC
- - [https://georgetown.edu](https://georgetown.edu)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## Georgetown University Giving
- - [https://giving.georgetown.edu](https://giving.georgetown.edu)
- - date_published: 2024-06-18T13:34:43.940541+00:00
-
- ## Global Children's Collaborative Homepage
- - [https://globalchildren.georgetown.edu](https://globalchildren.georgetown.edu)
- - date_published: 2024-10-22T05:42:46.697606+00:00
-
- ## Global Georgetown
- - [https://global.georgetown.edu](https://global.georgetown.edu)
- - date_published: 2024-06-18T13:34:54.653937+00:00
-
- ## Global Health Homepage
- - [https://globalhealth.georgetown.edu](https://globalhealth.georgetown.edu)
- - date_published: 2024-10-22T05:42:36.401758+00:00
-
- ## Master of Science in Global Health - Georgetown University
- - [https://globalhealthms.georgetown.edu](https://globalhealthms.georgetown.edu)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Home Page - Georgetown Management System
- - [http://gms.georgetown.edu](http://gms.georgetown.edu)
- - date_published: 2024-08-21T00:00:00+00:00
-
- ## Identification Cards at Georgetown - Identification Cards at Georgetown
- - [http://gocard.georgetown.edu](http://gocard.georgetown.edu)
- - date_published: 2024-07-13T12:27:43.840339+00:00
-
- ## Graduate Studies at Georgetown
- - [https://gradapply.georgetown.edu](https://gradapply.georgetown.edu)
- - date_published: 2024-07-13T12:24:33.422156+00:00
-
- ## Home - Graduate School of Arts & Sciences
- - [https://grad.georgetown.edu](https://grad.georgetown.edu)
- - date_published: 2024-06-18T13:08:43.653354+00:00
-
- ## GradGov - Georgetown University's Graduate Student Government
- - [https://gradgov.georgetown.edu](https://gradgov.georgetown.edu)
- - date_published: 2024-10-22T03:52:21.615760+00:00
-
- ## Events - Georgetown University
- - [https://guevents.georgetown.edu](https://guevents.georgetown.edu)
- - date_published: 2024-01-18T00:00:00+00:00
-
- ## GU Experience - Experience
- - [https://guexperience.georgetown.edu](https://guexperience.georgetown.edu)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Georgetown University Faculty Directory
- - [https://gufaculty360.georgetown.edu](https://gufaculty360.georgetown.edu)
- - date_published: 2023-07-14T12:24:38+00:00
-
- ## Home - Georgetown University Initiative on Innovation, Development and Evaluation
- - [https://gui2de.georgetown.edu](https://gui2de.georgetown.edu)
- - date_published: 2024-10-22T05:42:43.640068+00:00
-
- ## Guides: Guides: Research
- - [https://guides.library.georgetown.edu](https://guides.library.georgetown.edu)
- - date_published: 2024-07-16T23:02:10.168336+00:00
-
- ## Home Page - Georgetown University Medical Center
- - [https://gumc.georgetown.edu](https://gumc.georgetown.edu)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## Mendix
- - [https://gu-pass.georgetown.edu](https://gu-pass.georgetown.edu)
- - date_published: 2024-08-23T22:22:38+00:00
-
- ## Home Page - School of Health
- - [https://health.georgetown.edu](https://health.georgetown.edu)
- - date_published: 2024-01-31T00:00:00+00:00
-
- ## Home Page - Master's in Health Informatics & Data Science
- - [https://healthinformatics.georgetown.edu](https://healthinformatics.georgetown.edu)
- - date_published: 2024-07-13T12:24:18.392671+00:00
-
- ## Support : Georgetown University Service Center
- - [https://help.georgetown.edu](https://help.georgetown.edu)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## Home Page - Human Resources
- - [https://hr.georgetown.edu](https://hr.georgetown.edu)
- - date_published: 2024-10-22T05:40:21.376638+00:00
-
- ## Home Page - Innovation Center for Biomedical Informatics
- - [https://icbi.georgetown.edu](https://icbi.georgetown.edu)
- - date_published: 2024-05-02T12:54:49.491417+00:00
-
- ## Home Page - Institutional Diversity, Equity & Affirmative Action
- - [https://ideaa.georgetown.edu](https://ideaa.georgetown.edu)
- - date_published: 2024-05-11T07:22:12.283502+00:00
- - tags: ['dei']
-
- ## Home - Instructional Continuity @GU
- - [http://instructionalcontinuity.georgetown.edu](http://instructionalcontinuity.georgetown.edu)
- - date_published: 2024-10-22T05:41:39.819957+00:00
-
- ## ir@Georgetown - Home
- - [https://ir.cs.georgetown.edu](https://ir.cs.georgetown.edu)
- - date_published: 2024-02-19T14:34:25+00:00
-
- ## LALP Homepage
- - [https://lalp.georgetown.edu](https://lalp.georgetown.edu)
- - date_published: 2024-10-22T05:42:39.248618+00:00
-
- ## Letterwinners Challenge 2024 | Georgetown University Athletics
- - [https://letterwinnerschallenge.georgetown.edu](https://letterwinnerschallenge.georgetown.edu)
- - date_published: 2024-10-22T05:39:25.581463+00:00
-
- ## Home Page | Georgetown University Library
- - [https://library.georgetown.edu](https://library.georgetown.edu)
- - date_published: 2024-05-12T07:26:18.286613+00:00
-
- ## Homepage - Library
- - [https://library.qatar.georgetown.edu](https://library.qatar.georgetown.edu)
- - date_published: 2024-07-16T23:02:18.991768+00:00
-
- ## Georgetown University Department of Linguistics - Department of Linguistics
- - [http://linguistics.georgetown.edu](http://linguistics.georgetown.edu)
- - date_published: 2024-10-22T03:48:06.974581+00:00
-
- ## Lombardi Gala - Lombardi Gala
- - [https://lombardigala.georgetown.edu](https://lombardigala.georgetown.edu)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Home Page - Lombardi Comprehensive Cancer Center
- - [https://lombardi.georgetown.edu](https://lombardi.georgetown.edu)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Lombardi Women - Georgetown University
- - [https://lombardiwomen.georgetown.edu](https://lombardiwomen.georgetown.edu)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Georgetown University Campus Map
- - [https://maps.georgetown.edu](https://maps.georgetown.edu)
- - date_published: 2023-02-17T21:22:18+00:00
-
- ## Home Page - Master Planning
- - [https://masterplanning.georgetown.edu](https://masterplanning.georgetown.edu)
- - date_published: 2024-07-13T12:27:17.968282+00:00
-
- ## McCourt School of Public Policy - McCourt School of Public Policy
- - [https://mccourt.georgetown.edu](https://mccourt.georgetown.edu)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## Massive Data Institute - Massive Data Institute
- - [https://mdi.georgetown.edu](https://mdi.georgetown.edu)
- - date_published: 2024-07-22T07:26:36.064371+00:00
 

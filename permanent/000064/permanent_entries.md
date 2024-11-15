@@ -1,3 +1,63 @@
+ ## The Wargame Shed
+ - [https://thewargameshed.blogspot.com](https://thewargameshed.blogspot.com)
+ - date_published: 2024-07-11T18:19:20+00:00
+
+ ## The Megalomaniac (Mwhaha)
+ - [https://thewargamingmegalomaniac.blogspot.com](https://thewargamingmegalomaniac.blogspot.com)
+ - date_published: 2024-07-04T06:20:27+00:00
+
+ ## The Wargate
+ - [https://thewargate.blogspot.com](https://thewargate.blogspot.com)
+ - date_published: 2024-09-27T22:46:32+00:00
+
+ ## The War Master's Revenge
+ - [http://thewarmastersrevenge.blogspot.com](http://thewarmastersrevenge.blogspot.com)
+ - date_published: 2024-10-09T17:55:53+00:00
+
+ ## The War of the Ring Campaign
+ - [http://thewarofthering.blogspot.com](http://thewarofthering.blogspot.com)
+ - date_published: 2024-09-24T21:42:07+00:00
+
+ ## The War Painter
+ - [http://thewarpainter.blogspot.com](http://thewarpainter.blogspot.com)
+ - date_published: 2024-09-05T18:55:52+00:00
+
+ ## The Warrior Muse
+ - [http://thewarriormuse.blogspot.com](http://thewarriormuse.blogspot.com)
+ - date_published: 2024-07-03T15:27:00+00:00
+
+ ## The WayGate
+ - [http://thewaygate.blogspot.com](http://thewaygate.blogspot.com)
+ - date_published: 2024-10-05T02:18:35+00:00
+
+ ## The Way I Wood
+ - [http://thewayiwood.blogspot.com](http://thewayiwood.blogspot.com)
+ - date_published: 2024-03-14T10:57:56+00:00
+
+ ## The Week's Work
+ - [http://theweekswork.blogspot.com](http://theweekswork.blogspot.com)
+ - date_published: 2024-02-21T15:04:33+00:00
+
+ ## The Wertzone
+ - [https://thewertzone.blogspot.com](https://thewertzone.blogspot.com)
+ - date_published: 2024-07-14T14:53:43+00:00
+
+ ## The Whim
+ - [http://thewhim.blogspot.com](http://thewhim.blogspot.com)
+ - date_published: 2024-06-17T11:29:32+00:00
+
+ ## The Whited Sepulchre
+ - [http://thewhitedsepulchre.blogspot.com](http://thewhitedsepulchre.blogspot.com)
+ - date_published: 2024-06-02T10:13:46+00:00
+
+ ## Katy Wu
+ - [http://thewildkat.blogspot.com](http://thewildkat.blogspot.com)
+ - date_published: 2024-07-04T07:15:59+00:00
+
+ ## The Wildrider Host
+ - [http://thewildriderhost.blogspot.com](http://thewildriderhost.blogspot.com)
+ - date_published: 2024-09-01T02:36:03+00:00
+
  ## The Wild Riders of Saim Hann
  - [http://thewildridersofsaimhann.blogspot.com](http://thewildridersofsaimhann.blogspot.com)
  - date_published: 2024-08-21T11:59:14+00:00
@@ -3949,64 +4009,4 @@
  ## Crispy Duck with Ginger
  - [http://www.crispyduck.blogspot.com](http://www.crispyduck.blogspot.com)
  - date_published: 2024-07-11T18:30:06+00:00
-
- ## Guy's Philosophical Nuggets.
- - [http://www.dalkeyguy.blogspot.com](http://www.dalkeyguy.blogspot.com)
- - date_published: 2024-10-21T17:12:06.185609+00:00
-
- ## Dallas Criminal Lawyer Blog
- - [http://www.dallaslawyer.blogspot.com](http://www.dallaslawyer.blogspot.com)
- - date_published: 2024-04-29T02:29:05+00:00
-
- ## DE Conservative
- - [http://www.deconservative.blogspot.com](http://www.deconservative.blogspot.com)
- - date_published: 2024-03-13T03:31:58+00:00
-
- ## deleuze at greenwich
- - [http://www.deleuzeatgreenwich.blogspot.com](http://www.deleuzeatgreenwich.blogspot.com)
- - date_published: 2024-02-21T07:46:46+00:00
-
- ## teatro
- - [http://www.demimparavos.blogspot.com](http://www.demimparavos.blogspot.com)
- - date_published: 2004-02-26T00:00:00+00:00
-
- ## Jose Lopez
- - [http://www.desoluz.blogspot.com](http://www.desoluz.blogspot.com)
- - date_published: 2024-07-06T05:55:23+00:00
-
- ## Desperate Irish Housewife
- - [http://www.desperateirishhousewife.blogspot.com](http://www.desperateirishhousewife.blogspot.com)
- - date_published: 2024-03-23T17:55:53+00:00
-
- ## Blogalicious
- - [http://www.dianelockward.blogspot.com](http://www.dianelockward.blogspot.com)
- - date_published: 2024-07-10T13:27:50+00:00
-
- ## Alextronic Discovery
- - [http://www.discoveryresources.blogspot.com](http://www.discoveryresources.blogspot.com)
- - date_published: 2024-02-28T14:45:23+00:00
-
- ## Dixie Yid
- - [http://www.dixieyid.blogspot.com](http://www.dixieyid.blogspot.com)
- - date_published: 2024-06-10T07:54:50+00:00
-
- ## Blogger
- - [http://www.dlisted.blogspot.com](http://www.dlisted.blogspot.com)
- - date_published: 2024-10-31T22:58:23.032953+00:00
-
- ## Dundee Folk Club
- - [http://www.dundeefolkclub.blogspot.com](http://www.dundeefolkclub.blogspot.com)
- - date_published: 2024-10-21T15:17:26.264425+00:00
-
- ## Element Water
- - [http://www.elementsdesciences.blogspot.com](http://www.elementsdesciences.blogspot.com)
- - date_published: 2024-03-08T05:06:23+00:00
-
- ## English spelling
- - [http://www.englishspellingproblems.blogspot.com](http://www.englishspellingproblems.blogspot.com)
- - date_published: 2024-06-19T13:51:42+00:00
-
- ## Erik's Choice
- - [http://www.eriklerouge.blogspot.com](http://www.eriklerouge.blogspot.com)
- - date_published: 2024-09-26T03:52:21+00:00
 

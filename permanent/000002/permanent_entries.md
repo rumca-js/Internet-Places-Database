@@ -1,3 +1,7 @@
+ ## Idea Validator • Informly • Validate your Business Idea instantly. Powered with AI.
+ - [https://validator.informly.ai](https://validator.informly.ai)
+ - date_published: 2024-06-14T08:51:46.429014+00:00
+
  ## Home - Inkdrop
  - [https://inkdrop.ai](https://inkdrop.ai)
  - date_published: 2024-01-22T16:24:51+00:00
@@ -835,6 +839,15 @@
  ## Gandalf | Lakera – Test your prompting skills to make Gandalf reveal secret information.
  - [https://gandalf.lakera.ai](https://gandalf.lakera.ai)
  - date_published: 2023-10-25T11:39:42.986573+00:00
+
+ ## Lakera: The World’s Most Advanced AI Security Platform
+ - [https://lakera.ai](https://lakera.ai)
+ - date_published: 2024-11-13T11:36:03+00:00
+ - tags: ['artificial intelligence', 'cybersecurity']
+
+ ## Lakera Guard Platform
+ - [https://platform.lakera.ai](https://platform.lakera.ai)
+ - date_published: 2024-11-13T00:48:34+00:00
 
  ## Lakera: The World’s Most Advanced AI Security Platform
  - [https://www.lakera.ai](https://www.lakera.ai)
@@ -4008,16 +4021,4 @@
  ## The easiest way to build React Apps | Figma to React | Quest
  - [https://quest.ai](https://quest.ai)
  - date_published: 2024-09-05T21:32:23+00:00
-
- ## Questgen | AI powered question generator
- - [https://blog.questgen.ai](https://blog.questgen.ai)
- - date_published: 2024-10-30T22:05:26.748794+00:00
-
- ## Questgen.ai - AI powered Quiz Generator
- - [https://dashboard.questgen.ai](https://dashboard.questgen.ai)
- - date_published: 2024-10-30T22:05:29.986563+00:00
-
- ## Questgen - AI Powered Quiz Generator
- - [https://questgen.ai](https://questgen.ai)
- - date_published: 2024-10-30T22:05:27.934043+00:00
 

@@ -1,3 +1,88 @@
+ ## Crime Junkie Podcast
+ - [https://crimejunkiepodcast.com](https://crimejunkiepodcast.com)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## CrimeReads
+ - [https://crimereads.com](https://crimereads.com)
+ - date_published: 2023-11-07T14:07:13.850793+00:00
+
+ ## Crime Stoppers of Oregon
+ - [http://www.crimestoppersoforegon.com](http://www.crimestoppersoforegon.com)
+ - date_published: 2024-10-28T04:48:15.697790+00:00
+
+ ## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
+ - [https://crimethinc.com](https://crimethinc.com)
+ - date_published: 2023-11-01T08:41:53.567673+00:00
+ - tags: ['activism', 'anarchist']
+
+ ## CrimethInc. ex-Workers’ Collective: Your ticket to a world free of charge
+ - [https://lite.crimethinc.com](https://lite.crimethinc.com)
+ - date_published: 2024-05-08T06:58:43.103516+00:00
+
+ ## CrimethInc. Store
+ - [https://store.crimethinc.com](https://store.crimethinc.com)
+ - date_published: 2024-07-08T15:26:22.927095+00:00
+
+ ## Criminality – Because Loving Reality Is Not a Crime
+ - [https://www.criminalityshow.com](https://www.criminalityshow.com)
+ - date_published: 2024-06-23T06:13:38.007953+00:00
+
+ ## Criminally Prolific: Unconventional PR Hacks and Strategies
+ - [https://www.criminallyprolific.com](https://www.criminallyprolific.com)
+ - date_published: 2022-01-27T00:00:00+00:00
+
+ ## CRIMINAL WISDOM
+ - [https://criminalwisdom.com](https://criminalwisdom.com)
+ - date_published: 2024-10-29T19:26:22.883468+00:00
+
+ ## CrimRxiv
+ - [https://www.crimrxiv.com](https://www.crimrxiv.com)
+ - date_published: 2024-08-15T00:00:00+00:00
+
+ ## an Oklahoma Sooners community
+ - [https://www.crimsonandcreammachine.com](https://www.crimsonandcreammachine.com)
+ - date_published: 2024-06-29T01:58:33.420104+00:00
+
+ ## Crimson Subs
+ - [https://crimsonfansubs.com](https://crimsonfansubs.com)
+ - date_published: 2024-10-24T03:07:01+00:00
+
+ ## Crimson Publishers Open Access Publishers
+ - [http://crimsonpublishers.com](http://crimsonpublishers.com)
+ - date_published: 2024-10-29T17:48:23.714924+00:00
+
+ ## an Indiana Hoosiers community
+ - [https://www.crimsonquarry.com](https://www.crimsonquarry.com)
+ - date_published: 2024-06-29T01:57:55.342203+00:00
+
+ ## Home - Crimtan
+ - [https://crimtan.com](https://crimtan.com)
+ - date_published: 2024-06-25T20:08:59.995137+00:00
+
+ ## Home - Crimtan
+ - [https://lp.crimtan.com](https://lp.crimtan.com)
+ - date_published: 2024-06-25T20:08:48.138273+00:00
+
+ ## CRI-net.com
+ - [http://www.cri-net.com](http://www.cri-net.com)
+ - date_published: 2024-06-28T11:57:06.520559+00:00
+
+ ## I, Cringely
+ - [https://cringely.com](https://cringely.com)
+ - date_published: 2023-10-25T13:36:47.106347+00:00
+
+ ## cringeMDb | Find Movies Safe to Watch with Parents
+ - [https://cringemdb.com](https://cringemdb.com)
+ - date_published: 2024-11-12T17:05:17.632681+00:00
+
+ ## Criotec: cryogenic and high vacuum technologies | Criotec Impianti
+ - [https://www.criotec.com](https://www.criotec.com)
+ - date_published: 2024-07-24T07:30:22.692245+00:00
+
+ ## cripchick.com - Ta strona jest na sprzedaż! - cripchick Zasoby i informacje.
+ - [http://blog.cripchick.com](http://blog.cripchick.com)
+ - date_published: 2024-10-21T17:04:08.755641+00:00
+
  ## CRIPCO
  - [https://cripco.com](https://cripco.com)
  - date_published: 2024-08-06T16:21:38.969422+00:00
@@ -3954,88 +4039,4 @@
  ## Curipod
  - [https://shop.curipod.com](https://shop.curipod.com)
  - date_published: 2024-10-30T15:21:29.242844+00:00
-
- ## Curlec - Best Payment Solution for Online Payments Malaysia
- - [https://curlec.com](https://curlec.com)
- - date_published: 2024-06-15T07:58:16.211744+00:00
-
- ## Razorpay Dashboard
- - [https://dashboard.curlec.com](https://dashboard.curlec.com)
- - date_published: 2024-09-16T16:03:31.682058+00:00
-
- ## Razorpay Dashboard
- - [https://easy.curlec.com](https://easy.curlec.com)
- - date_published: 2024-09-11T11:30:13+00:00
-
- ## Home - CurlyHost
- - [https://www.curlyhost.com](https://www.curlyhost.com)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## CurlyRed | Good Design for Everyone | Since 2007
- - [https://www.curlyred.com](https://www.curlyred.com)
- - date_published: 2024-06-26T23:47:26.561605+00:00
-
- ## curmudgeonlyclerk - Curmudgeonlyclerk
- - [http://www.curmudgeonlyclerk.com](http://www.curmudgeonlyclerk.com)
- - date_published: 2023-10-20T11:56:32+00:00
-
- ## Curotec - SaaS, Software & Development Agency
- - [https://curotec.com](https://curotec.com)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Content Marketing Services for Better Marketing | BCP Digital Marketing
- - [https://curranpublishing.com](https://curranpublishing.com)
- - date_published: 2022-06-02T17:46:08+00:00
-
- ## Currencies Direct
- - [https://currenciesdirect.com](https://currenciesdirect.com)
- - date_published: 2024-04-29T05:35:20.798332+00:00
-
- ## Send Money Abroad | International Transfers
- - [https://www.currencyfair.com](https://www.currencyfair.com)
- - date_published: 2024-08-21T09:43:54+00:00
-
- ## Free Currency Conversion and Forex Exchange Rate API
- - [https://currencyfreaks.com](https://currencyfreaks.com)
- - date_published: 2024-10-09T10:20:44+00:00
-
- ## Home
- - [https://currencyinsider.com](https://currencyinsider.com)
- - date_published: 2024-09-23T13:25:20.190289+00:00
-
- ## The Beauty Tech Experts | Free Delivery Over £100 | CurrentBody
- - [https://www.currentbody.com](https://www.currentbody.com)
- - date_published: 2024-03-12T00:00:00+00:00
-
- ## Current Draft | Mike Knapp | Substack
- - [https://www.currentdraft.com](https://www.currentdraft.com)
- - date_published: 2024-09-09T22:55:44.363206+00:00
-
- ## CurrentKey Stats – Manage your Time and Spaces
- - [https://currentkey.com](https://currentkey.com)
- - date_published: 2024-09-02T09:51:39.612024+00:00
-
- ## Current Location
- - [http://current-location.com](http://current-location.com)
- - date_published: 2024-10-11T12:45:03.526205+00:00
-
- ## Current | Commentary. Reflection. Judgment.
- - [https://currentpub.com](https://currentpub.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Current Symposium | Playfield 2023
- - [http://currentsymposium.com](http://currentsymposium.com)
- - date_published: 2023-07-13T00:00:00+00:00
-
- ## networx Recruitment
- - [https://msc.current-vacancies.com](https://msc.current-vacancies.com)
- - date_published: 2024-06-20T12:59:14.403280+00:00
-
- ## networx Recruitment
- - [https://yoursclothing.current-vacancies.com](https://yoursclothing.current-vacancies.com)
- - date_published: 2024-10-21T02:14:12.162493+00:00
-
- ## Electric vehicles on-demand
- - [https://www.currentvehicles.com](https://www.currentvehicles.com)
- - date_published: 2022-03-14T21:28:52+00:00
 

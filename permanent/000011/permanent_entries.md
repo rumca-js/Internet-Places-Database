@@ -1,3 +1,23 @@
+ ## Home - Yurika
+ - [https://www.yurika.com.au](https://www.yurika.com.au)
+ - date_published: 2024-07-15T04:43:00+00:00
+
+ ## News and Advice on the World's Latest Innovations
+ - [https://www.zdnet.com.au](https://www.zdnet.com.au)
+ - date_published: 2024-07-01T08:34:00.105741+00:00
+
+ ## ZEISS in Australia and New Zealand
+ - [https://www.zeiss.com.au](https://www.zeiss.com.au)
+ - date_published: 2024-09-16T07:56:36.670494+00:00
+
+ ## Zero Co Australia | Eco Friendly Cleaning &amp; Body Care Products
+ - [https://zeroco.com.au](https://zeroco.com.au)
+ - date_published: 2024-05-12T05:23:36.357709+00:00
+
+ ## ZETR | Where materiality, function and aesthetic collide
+ - [https://www.zetr.com.au](https://www.zetr.com.au)
+ - date_published: 2024-07-01T05:12:23.414011+00:00
+
  ## Zoetis
  - [https://www2.zoetis.com.au](https://www2.zoetis.com.au)
  - date_published: 2024-06-27T09:52:47+00:00
@@ -4003,24 +4023,4 @@ University of Technology
  ## Home
  - [https://mastermariners.org.au](https://mastermariners.org.au)
  - date_published: 2023-10-25T11:58:09.841193+00:00
-
- ## Attention Required! | Cloudflare
- - [https://fundraise.mater.org.au](https://fundraise.mater.org.au)
- - date_published: 2024-10-14T18:18:26.270902+00:00
-
- ## MATES - Industry Based Suicide Prevention - MATES
- - [https://mates.org.au](https://mates.org.au)
- - date_published: 2024-08-17T23:14:00.588457+00:00
-
- ## Home - AMSI
- - [http://www.maths.org.au](http://www.maths.org.au)
- - date_published: 2020-05-21T00:00:00+00:00
-
- ## Home - AMSI Careers
- - [http://www.mathscareers.org.au](http://www.mathscareers.org.au)
- - date_published: 2016-07-04T00:00:00+00:00
-
- ## Home - Mathematical Association of Western Australia (MAWA)
- - [http://www.mawainc.org.au](http://www.mawainc.org.au)
- - date_published: 2024-01-04T00:00:00+00:00
 

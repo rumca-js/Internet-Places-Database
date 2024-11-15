@@ -1,3 +1,19 @@
+ ## A static site for your dynamically-generated website
+ - [https://sitesauce.app](https://sitesauce.app)
+ - date_published: 2024-08-17T22:19:07.675301+00:00
+
+ ## Sitter Pro: Hassle-Free Care - Sitter Pro
+ - [https://sitter.app](https://sitter.app)
+ - date_published: 2018-10-15T00:00:00+00:00
+
+ ## Sizzy — The browser for web developers
+ - [https://sizzy.app](https://sizzy.app)
+ - date_published: 2024-06-15T03:54:49+00:00
+
+ ## SketchMe.App
+ - [https://www.sketchme.app](https://www.sketchme.app)
+ - date_published: 2024-07-10T00:02:32.347134+00:00
+
  ## SkinTheory
  - [https://skintheory.app](https://skintheory.app)
  - date_published: 2023-03-05T11:03:08+00:00
@@ -199,6 +215,10 @@
  ## Specy
  - [https://specy.app](https://specy.app)
  - date_published: 2024-07-11T15:42:53.270688+00:00
+
+ ## SpeechPro
+ - [https://speechpro.app](https://speechpro.app)
+ - date_published: 2024-11-15T00:18:30.172893+00:00
 
  ## speedscope
  - [https://speedscope.app](https://speedscope.app)
@@ -3998,25 +4018,4 @@
  ## Departamento de Matematica - Bienvenidos al (antiguo) portal del Departamento de Matemática
  - [http://cms.dm.uba.ar](http://cms.dm.uba.ar)
  - date_published: 2021-10-21T21:36:44+00:00
-
- ## Escuela de Ciencias Informáticas 2019 — Departamento de Computación
- - [https://eci2019.dc.uba.ar](https://eci2019.dc.uba.ar)
- - date_published: 2019-08-06T17:30:01+00:00
-
- ## Pulsar UBA
- - [https://pulsar.uba.ar](https://pulsar.uba.ar)
- - date_published: 2024-03-11T00:00:00+00:00
-
- ## UBA Universidad de Buenos Aires
- - [https://uba.ar](https://uba.ar)
- - date_published: 2024-09-11T01:42:59.559717+00:00
-
- ## Facultad de Medicina , Universidad de Buenos Aires | Facultad de Medicina UBA
- - [http://www.fmed.uba.ar](http://www.fmed.uba.ar)
- - date_published: 2024-06-23T16:08:07+00:00
-
- ## 『 0x61 』
- - [https://x61.ar](https://x61.ar)
- - date_published: 2024-05-10T16:04:40.590647+00:00
- - tags: ['interesting page design', 'personal']
 

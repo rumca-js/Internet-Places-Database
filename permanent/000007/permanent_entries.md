@@ -1,3 +1,24 @@
+ ## Escuela de Ciencias Informáticas 2019 — Departamento de Computación
+ - [https://eci2019.dc.uba.ar](https://eci2019.dc.uba.ar)
+ - date_published: 2019-08-06T17:30:01+00:00
+
+ ## Pulsar UBA
+ - [https://pulsar.uba.ar](https://pulsar.uba.ar)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## UBA Universidad de Buenos Aires
+ - [https://uba.ar](https://uba.ar)
+ - date_published: 2024-09-11T01:42:59.559717+00:00
+
+ ## Facultad de Medicina , Universidad de Buenos Aires | Facultad de Medicina UBA
+ - [http://www.fmed.uba.ar](http://www.fmed.uba.ar)
+ - date_published: 2024-06-23T16:08:07+00:00
+
+ ## 『 0x61 』
+ - [https://x61.ar](https://x61.ar)
+ - date_published: 2024-05-10T16:04:40.590647+00:00
+ - tags: ['interesting page design', 'personal']
+
  ## 3M Ciencia. Aplicada a la vida. | 3M Argentina
  - [https://www.3m.com.ar](https://www.3m.com.ar)
  - date_published: 2024-08-06T10:39:22.718345+00:00
@@ -4008,24 +4029,4 @@ October 2024 in Singapore
  ## Egger Apps License Management
  - [https://licensing.eggerapps.at](https://licensing.eggerapps.at)
  - date_published: 2024-06-23T15:48:20.419153+00:00
-
- ## Postico 2: Changelog
- - [https://releases.eggerapps.at](https://releases.eggerapps.at)
- - date_published: 2024-02-26T00:00:00+00:00
-
- ## Idea
- - [https://www.egger-gis.at](https://www.egger-gis.at)
- - date_published: 2024-09-13T16:20:02.566495+00:00
-
- ## Möchten Sie mehr über KI erfahren?
- - [https://www.elementsofai.at](https://www.elementsofai.at)
- - date_published: 2024-07-01T08:47:00.205251+00:00
-
- ## Elevate Festival - Elevate Festival
- - [https://elevate.at](https://elevate.at)
- - date_published: 2024-07-20T22:11:16.341402+00:00
-
- ## eLib.at
- - [https://elib.at](https://elib.at)
- - date_published: 2023-12-31T19:02:05.887806+00:00
 

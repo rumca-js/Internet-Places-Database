@@ -1,3 +1,51 @@
+ ## Noticias - SAAM - Universidad Distrital Francisco José de Caldas
+ - [http://gestiondocumental.udistrital.edu.co](http://gestiondocumental.udistrital.edu.co)
+ - date_published: 2024-09-10T18:08:17.970252+00:00
+
+ ## Herbario Forestal
+ - [http://herbario.udistrital.edu.co](http://herbario.udistrital.edu.co)
+ - date_published: 2022-11-07T09:00:05+00:00
+
+ ## IDEXUD – El IDEXUD, articula el conocimiento institucional, técnico e investigativo para el bienestar de la comunidad académica y la sociedad en general.
+ - [https://idexud.udistrital.edu.co](https://idexud.udistrital.edu.co)
+ - date_published: 2024-06-12T03:18:23.193289+00:00
+
+ ## Inicio | Instituto de Estudios e Investigaciones Educativas
+ - [http://ieie.udistrital.edu.co](http://ieie.udistrital.edu.co)
+ - date_published: 2024-09-10T18:08:14.500499+00:00
+
+ ## Instituto de Lenguas de la Universidad Distrital Francisco José de Caldas – Cursos de Inglés en Bogotá, Cursos de Aleman en Bogotá, Cursos de Francés en Bogotá, Cursos de Italiano en Bogotá, Cursos de Mandarín en Bogotá, Cursos de Portugués en Bogotá
+ - [http://ilud.udistrital.edu.co](http://ilud.udistrital.edu.co)
+ - date_published: 2024-06-12T03:17:54.002681+00:00
+
+ ## Metabase
+ - [https://inteligenciainstitucional.portaloas.udistrital.edu.co](https://inteligenciainstitucional.portaloas.udistrital.edu.co)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://invexped.udistrital.edu.co](http://invexped.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:16.610967+00:00
+
+ ## Inicio | Instituto para la Pedagogía, la Paz y el Conflicto Urbano
+ - [https://ipazud.udistrital.edu.co](https://ipazud.udistrital.edu.co)
+ - date_published: 2024-06-11T23:46:13.367762+00:00
+
+ ## Kaltura Platform Start Page - Getting Started
+ - [https://kaltura.udistrital.edu.co](https://kaltura.udistrital.edu.co)
+ - date_published: 2024-09-10T17:52:12.855612+00:00
+
+ ## LAUD 90.4  | La Verdadera Alternativa de la Radio
+ - [https://laud2.udistrital.edu.co](https://laud2.udistrital.edu.co)
+ - date_published: 2024-09-10T17:52:08+00:00
+
+ ## Inicio | LAUD
+ - [https://laud.udistrital.edu.co](https://laud.udistrital.edu.co)
+ - date_published: 2024-06-12T00:08:22+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://licartistica.udistrital.edu.co](http://licartistica.udistrital.edu.co)
+ - date_published: 2024-09-11T16:36:51.800373+00:00
+
  ## Inicio - Universidad Distrital Francisco José de Caldas
  - [http://licbiologia.udistrital.edu.co](http://licbiologia.udistrital.edu.co)
  - date_published: 2024-09-11T16:37:50.918836+00:00
@@ -3996,52 +4044,4 @@
  ## home - Mort's Ramblings
  - [https://mort.coffee](https://mort.coffee)
  - date_published: 2023-01-15T00:00:00+00:00
-
- ## Invidious
- - [https://invidious.private.coffee](https://invidious.private.coffee)
- - date_published: 2024-06-22T13:22:07.350015+00:00
-
- ## Selah Coffee Co. | Coffee Cart Catering | Mobile Espresso Bar | Denver, CO
- - [https://selah.coffee](https://selah.coffee)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Sey Coffee - SEY COFFEE
- - [https://sey.coffee](https://sey.coffee)
- - date_published: 2024-10-31T20:48:31.246431+00:00
-
- ## Coffee's Website
- - [https://open.source.coffee](https://open.source.coffee)
- - date_published: 2022-05-06T10:30:04+00:00
-
- ## Get tomorrow's coffee today | tmrw.coffee
- - [https://tmrw.coffee](https://tmrw.coffee)
- - date_published: 2024-04-29T00:35:50.057730+00:00
-
- ## Traction Coffee Roasters
- - [https://traction.coffee](https://traction.coffee)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Visual Coffee - Blog Kits
- - [https://visual.coffee](https://visual.coffee)
- - date_published: 2024-05-10T07:02:29.735431+00:00
-
- ## Cierpliwości...
- - [http://give.vodovnik.coffee](http://give.vodovnik.coffee)
- - date_published: 2024-06-17T02:59:57.482756+00:00
-
- ## Workfrom
- - [https://beta.workfrom.coffee](https://beta.workfrom.coffee)
- - date_published: 2024-07-11T10:45:53.871211+00:00
-
- ## zack.technology
- - [https://zack.coffee](https://zack.coffee)
- - date_published: 2024-07-13T03:34:05.841979+00:00
-
- ## Artemis College of Performing Arts
- - [http://artemis.college](http://artemis.college)
- - date_published: 2024-10-17T15:19:28.069980+00:00
-
- ## Bramcote College
- - [http://bramcote.college](http://bramcote.college)
- - date_published: 2024-10-17T15:19:19.395891+00:00
 

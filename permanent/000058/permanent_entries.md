@@ -1,3 +1,68 @@
+ ## Fantorical
+ - [https://fantorical.blogspot.com](https://fantorical.blogspot.com)
+ - date_published: 2024-07-19T10:29:00+00:00
+
+ ## Fan With A Laptop
+ - [http://fanwithalaptop.blogspot.com](http://fanwithalaptop.blogspot.com)
+ - date_published: 2024-10-21T16:14:25.224464+00:00
+
+ ## Far Away Times
+ - [https://farawaytimes.blogspot.com](https://farawaytimes.blogspot.com)
+ - date_published: 2023-10-25T09:08:37.053310+00:00
+ - tags: ['personal']
+
+ ## The Far Corner Cafe
+ - [https://farcornercafe.blogspot.com](https://farcornercafe.blogspot.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Nie znaleziono bloga
+ - [https://farfallabiancaconalispezzate.blogspot.com](https://farfallabiancaconalispezzate.blogspot.com)
+ - date_published: 2024-09-02T16:54:54.705153+00:00
+
+ ## Farfalle Libere
+ - [https://farfallelibereblog.blogspot.com](https://farfallelibereblog.blogspot.com)
+ - date_published: 2024-09-02T13:05:45+00:00
+
+ ## Far-Flung Hobbyist
+ - [https://farflunghobby.blogspot.com](https://farflunghobby.blogspot.com)
+ - date_published: 2024-09-06T20:12:54+00:00
+
+ ## Farmer Geddon's Miscellany
+ - [http://farmergeddonsmiscellany.blogspot.com](http://farmergeddonsmiscellany.blogspot.com)
+ - date_published: 2024-10-08T01:37:06+00:00
+
+ ## Farmers Letters
+ - [https://farmersletters.blogspot.com](https://farmersletters.blogspot.com)
+ - date_published: 2024-09-13T13:58:00+00:00
+
+ ## Erin and Alan
+ - [https://farnesfam.blogspot.com](https://farnesfam.blogspot.com)
+ - date_published: 2023-11-16T13:05:20+00:00
+
+ ## Far Outliers
+ - [https://faroutliers.blogspot.com](https://faroutliers.blogspot.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Farseer Fail
+ - [http://farseerfail.blogspot.com](http://farseerfail.blogspot.com)
+ - date_published: 2024-08-28T23:48:41+00:00
+
+ ## Farsight Blogger
+ - [https://farsightblogger.blogspot.com](https://farsightblogger.blogspot.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Running, my second job and passion...
+ - [http://fartherfaster.blogspot.com](http://fartherfaster.blogspot.com)
+ - date_published: 2024-10-28T21:51:08+00:00
+
+ ## Note su note
+ - [https://fashionfromunderground.blogspot.com](https://fashionfromunderground.blogspot.com)
+ - date_published: 2024-09-02T15:19:46+00:00
+
+ ## Blogger
+ - [http://faslanyc.blogspot.com](http://faslanyc.blogspot.com)
+ - date_published: 2024-06-30T04:29:10.243387+00:00
+
  ## RealTime Data Compression
  - [https://fastcompression.blogspot.com](https://fastcompression.blogspot.com)
  - date_published: 2024-06-07T14:50:34+00:00
@@ -3947,68 +4012,4 @@
  ## Iconic Books
  - [http://iconicbooks.blogspot.com](http://iconicbooks.blogspot.com)
  - date_published: 2024-06-29T19:55:38+00:00
-
- ## International Development Design Summit 2009
- - [http://iddsummit.blogspot.com](http://iddsummit.blogspot.com)
- - date_published: 2024-02-19T11:03:57+00:00
-
- ## Idealistic Pragmatist
- - [http://idealisticpragmatist.blogspot.com](http://idealisticpragmatist.blogspot.com)
- - date_published: 2024-03-23T18:36:02+00:00
-
- ## ideas attached to objects - the wee dawdle of patrick farmer
- - [http://ideasattachedtoobjects.blogspot.com](http://ideasattachedtoobjects.blogspot.com)
- - date_published: 2024-03-21T05:48:58+00:00
-
- ## IDICBeer 40k
- - [http://idicbeer.blogspot.com](http://idicbeer.blogspot.com)
- - date_published: 2024-03-14T14:30:01+00:00
-
- ## Idiosyncratic Whisk
- - [http://idiosyncraticwhisk.blogspot.com](http://idiosyncraticwhisk.blogspot.com)
- - date_published: 2024-06-18T13:29:10+00:00
-
- ## This blog has moved
- - [http://idledoodler.blogspot.com](http://idledoodler.blogspot.com)
- - date_published: 2024-09-14T14:09:23+00:00
-
- ## Idle Hands Dep't
- - [http://idlehandsdept.blogspot.com](http://idlehandsdept.blogspot.com)
- - date_published: 2024-10-28T08:55:37+00:00
-
- ## i dolci di laura
- - [http://idolcidilaura.blogspot.com](http://idolcidilaura.blogspot.com)
- - date_published: 2024-09-02T09:10:55+00:00
-
- ## I dolori della giovane libraia
- - [http://idoloridellagiovanelibraia.blogspot.com](http://idoloridellagiovanelibraia.blogspot.com)
- - date_published: 2024-09-01T09:15:57+00:00
-
- ## I don't know, but . . .
- - [http://idontknowbut.blogspot.com](http://idontknowbut.blogspot.com)
- - date_published: 2024-07-01T00:19:36+00:00
-
- ## I'd Rather B Birdin'
- - [http://id-rather-b-birdin.blogspot.com](http://id-rather-b-birdin.blogspot.com)
- - date_published: 2024-09-11T02:58:56+00:00
-
- ## If in doubt whack it out.
- - [http://ifindoubtwhackitoutmarco.blogspot.com](http://ifindoubtwhackitoutmarco.blogspot.com)
- - date_published: 2024-02-19T02:22:35+00:00
-
- ## If It Wasn't For Ones
- - [https://ifitwasntforone.blogspot.com](https://ifitwasntforone.blogspot.com)
- - date_published: 2024-10-18T21:05:40+00:00
-
- ## If It Wears Power Armor...By Grizzly Adams
- - [http://ifitwearspowerarmor.blogspot.com](http://ifitwearspowerarmor.blogspot.com)
- - date_published: 2024-09-01T11:26:16+00:00
-
- ## If I Were Your Coach...
- - [http://if-i-were-your-coach.blogspot.com](http://if-i-were-your-coach.blogspot.com)
- - date_published: 2024-09-04T21:27:26+00:00
-
- ## Interactive Fiction Writing Month
- - [https://ifmonth.blogspot.com](https://ifmonth.blogspot.com)
- - date_published: 2023-08-21T10:08:50+00:00
 

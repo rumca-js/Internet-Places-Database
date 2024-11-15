@@ -1,3 +1,253 @@
+ ## La Prensa Sonoma | Noticias bilingües desde la región vinícola del Norte de California
+ - [https://laprensasonoma.com](https://laprensasonoma.com)
+ - date_published: 2024-05-07T09:15:45.103439+00:00
+
+ ## La Prensa Sonoma
+ - [https://newsletter.laprensasonoma.com](https://newsletter.laprensasonoma.com)
+ - date_published: 2024-06-29T05:06:46.772799+00:00
+
+ ## La Procure : livres, DVD, CD, librairie religieuse chrétienne
+ - [http://www.laprocure.com](http://www.laprocure.com)
+ - date_published: 2024-09-05T18:07:53.988132+00:00
+
+ ## laprogressive.com
+ - [https://laprogressive.com](https://laprogressive.com)
+ - date_published: 2024-06-15T08:56:40.036862+00:00
+
+ ## LA Progressive – Support LA Progressive
+ - [https://support.laprogressive.com](https://support.laprogressive.com)
+ - date_published: 2024-09-16T19:39:16.615695+00:00
+
+ ## L'actualité politique, OM, sorties, sports à Marseille, Aix, Avignon, Vaucluse et Alpes - La Provence
+ - [https://www.laprovence.com](https://www.laprovence.com)
+ - date_published: 2024-09-15T20:47:08.423782+00:00
+
+ ## Lapse ◦ Friends not followers™
+ - [https://www.lapse.com](https://www.lapse.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Canal Denuncias
+ - [https://denuncias.lapsowork.com](https://denuncias.lapsowork.com)
+ - date_published: 2024-06-26T23:15:39.648971+00:00
+
+ ## Laptop Mag: Find the Perfect Laptop, Tablet or 2-in-1 for You
+ - [https://www.laptopmag.com](https://www.laptopmag.com)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Buy Best Price Laptops Online - HP, Dell, Lenovo, Apple | Laptop Store India
+ - [https://laptopstoreindia.com](https://laptopstoreindia.com)
+ - date_published: 2024-06-17T01:59:13.891714+00:00
+
+ ## Laptop with Linux - Build your own Linux Laptop
+ - [https://laptopwithlinux.com](https://laptopwithlinux.com)
+ - date_published: 2024-01-14T00:00:00+00:00
+
+ ## LA PUPUT GRÀFICA | Comunicació visual i disseny
+ - [https://lapuputgrafica.com](https://lapuputgrafica.com)
+ - date_published: 2024-01-10T00:00:00+00:00
+
+ ## Laputa
+ - [https://www.laputa-jp.com](https://www.laputa-jp.com)
+ - date_published: 2024-02-08T21:50:22.716744+00:00
+
+ ## WAKTOGEL ! Situs Bandar Togel Online Paling Idaman #1 Asia
+ - [http://www.laputanlogic.com](http://www.laputanlogic.com)
+ - date_published: 2024-06-24T09:48:20.166285+00:00
+
+ ## Larabelles
+ - [https://larabelles.com](https://larabelles.com)
+ - date_published: 2024-06-11T08:56:26.414707+00:00
+ - tags: ['php', 'laravel']
+
+ ## Laracasts
+ - [https://laracasts.com](https://laracasts.com)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## La Méthode R.A.C.H.E - International Institute of La RACHE
+ - [https://www.la-rache.com](https://www.la-rache.com)
+ - date_published: 2024-05-30T09:18:34+00:00
+
+ ## Tomb Raider
+ - [https://laracroft.com](https://laracroft.com)
+ - date_published: 2024-11-11T10:29:43+00:00
+ - tags: ['tomb raider']
+
+ ## Lara Croft Fans
+ - [https://pt.laracroftfans.com](https://pt.laracroftfans.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Lara Croft Fans
+ - [https://www.laracroftfans.com](https://www.laracroftfans.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+ - tags: ['tomb raider']
+
+ ## Lara Croft Online : Tomb Raider Home Page
+ - [https://www.laracroftonline.com](https://www.laracroftonline.com)
+ - date_published: 2024-05-05T06:57:39+00:00
+
+ ## LARA CROFT PT: Fansite de Tomb Raider oficializado e premiado
+ - [http://www.laracroftpt.com](http://www.laracroftpt.com)
+ - date_published: 2024-11-06T02:44:37+00:00
+
+ ## Hire the best Laravel developers anywhere - Laradevs
+ - [https://laradevs.com](https://laradevs.com)
+ - date_published: 2024-10-28T23:24:04.116990+00:00
+
+ ## Tout savoir sur la radioactivité - laradioactivite.com
+ - [http://www.laradioactivite.com](http://www.laradioactivite.com)
+ - date_published: 2024-05-24T00:00:00+00:00
+
+ ## Laradir - Where the Laravel developers are
+ - [https://laradir.com](https://laradir.com)
+ - date_published: 2024-05-04T05:59:12.847022+00:00
+
+ ## Ship Fast with Larafast - Laravel Boilerplate
+ - [https://larafast.com](https://larafast.com)
+ - date_published: 2024-05-04T11:50:04.151965+00:00
+
+ ## LARAIDER - Fansite Officiel Français
+ - [https://laraider.com](https://laraider.com)
+ - date_published: 2024-05-11T08:36:30.820308+00:00
+
+ ## LaraJobs
+ - [https://larajobs.com](https://larajobs.com)
+ - date_published: 2024-05-04T11:50:08.182799+00:00
+
+ ## Laramie County Events
+ - [https://www.laramiecountyevents.com](https://www.laramiecountyevents.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## LARA on the Block Home - LARA on the Block
+ - [https://laraontheblock.com](https://laraontheblock.com)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Home
+ - [https://laraowen.com](https://laraowen.com)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## LARA SHOTS.COM: Lara Croft Animations, Tomb Raider Music, Sounds, & Screenshots
+ - [http://larashots.com](http://larashots.com)
+ - date_published: 2018-08-04T06:04:14+00:00
+ - tags: ['tomb raider']
+
+ ## La Ravalera Teatre | La Ravalera
+ - [https://laravalerateatre.com](https://laravalerateatre.com)
+ - date_published: 2023-04-03T06:34:56+00:00
+
+ ## The Laravel Blog
+ - [https://blog.laravel.com](https://blog.laravel.com)
+ - date_published: 2024-06-11T08:56:53.374968+00:00
+
+ ## Laravel Bootcamp - Learn the PHP Framework for Web Artisans
+ - [https://bootcamp.laravel.com](https://bootcamp.laravel.com)
+ - date_published: 2024-06-11T08:56:05.557794+00:00
+
+ ## Laravel Cloud - The Future of Shipping
+ - [https://cloud.laravel.com](https://cloud.laravel.com)
+ - date_published: 2024-09-09T21:08:30.781944+00:00
+
+ ## Deploy your Laravel PHP application painlessly
+ - [https://forge.laravel.com](https://forge.laravel.com)
+ - date_published: 2024-05-01T05:59:05.508917+00:00
+
+ ## Laravel Herd
+ - [https://herd.laravel.com](https://herd.laravel.com)
+ - date_published: 2024-06-11T08:56:46.206961+00:00
+
+ ## Laravel Jetstream | Laravel Jetstream
+ - [https://jetstream.laravel.com](https://jetstream.laravel.com)
+ - date_published: 2024-05-08T18:07:05+00:00
+
+ ## Laravel - The PHP Framework For Web Artisans
+ - [https://laravel.com](https://laravel.com)
+ - date_published: 2024-05-01T00:28:51.363668+00:00
+ - tags: ['php', 'programming framework']
+
+ ## Livewire | Laravel
+ - [https://livewire.laravel.com](https://livewire.laravel.com)
+ - date_published: 2024-05-02T12:27:44.153606+00:00
+
+ ## Laravel Nova -
+        Beautifully-designed administration panel for Laravel
+ - [https://nova.laravel.com](https://nova.laravel.com)
+ - date_published: 2024-06-11T08:56:50.811799+00:00
+
+ ## Laravel Partners
+ - [https://partners.laravel.com](https://partners.laravel.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+
+ ## Laravel Pulse - Vital signs in real-time
+ - [https://pulse.laravel.com](https://pulse.laravel.com)
+ - date_published: 2024-06-11T08:56:25.539995+00:00
+
+ ## Laravel Reverb - Real-time WebSocket
+ - [https://reverb.laravel.com](https://reverb.laravel.com)
+ - date_published: 2024-06-11T08:56:29.431575+00:00
+
+ ## Laravel Spark
+ - [https://spark-classic.laravel.com](https://spark-classic.laravel.com)
+ - date_published: 2024-09-09T16:30:22.221514+00:00
+
+ ## Laravel Spark
+ - [https://spark.laravel.com](https://spark.laravel.com)
+ - date_published: 2024-05-09T08:38:54.996455+00:00
+
+ ## Deploy your Laravel PHP application to the cloud
+ - [https://vapor.laravel.com](https://vapor.laravel.com)
+ - date_published: 2024-06-11T08:56:23.421975+00:00
+
+ ## Building larger-than-average web applications
+ - [https://laravel-beyond-crud.com](https://laravel-beyond-crud.com)
+ - date_published: 2024-09-09T16:33:54.583023+00:00
+
+ ## Laravel Daily
+ - [https://laraveldaily.com](https://laraveldaily.com)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Laravel Idea
+ - [https://laravel-idea.com](https://laravel-idea.com)
+ - date_published: 2024-08-11T21:08:27+00:00
+
+ ## Livewire | Livewire
+ - [https://laravel-livewire.com](https://laravel-livewire.com)
+ - date_published: 2024-05-04T05:59:11.572097+00:00
+
+ ## Laravel Mix
+ - [https://laravel-mix.com](https://laravel-mix.com)
+ - date_published: 2024-07-14T00:30:15+00:00
+
+ ## Laravel News
+ - [https://feed.laravel-news.com](https://feed.laravel-news.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Laravel News
+ - [https://laravel-news.com](https://laravel-news.com)
+ - date_published: 2023-10-25T15:41:11.614231+00:00
+
+ ## Laravel News Podcast
+ - [https://podcast.laravel-news.com](https://podcast.laravel-news.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## Laravel Newsletter
+ - [https://laravelnewsletter.com](https://laravelnewsletter.com)
+ - date_published: 2024-07-19T20:00:06.171128+00:00
+
+ ## The Laravel Podcast
+ - [https://laravelpodcast.com](https://laravelpodcast.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Blueprint
+ - [https://blueprint.laravelshift.com](https://blueprint.laravelshift.com)
+ - date_published: 2024-02-21T14:28:29+00:00
+
+ ## Laravel Shift
+ - [https://laravelshift.com](https://laravelshift.com)
+ - date_published: 2024-05-02T12:28:17.568654+00:00
+
+ ## Code snippets, tips and tricks for Laravel PHP framework
+ - [https://laravel-tricks.com](https://laravel-tricks.com)
+ - date_published: 2024-06-18T10:24:04.651313+00:00
+
  ## Laravel Up & Running - An O'Reilly book from Matt Stauffer
  - [https://laravelupandrunning.com](https://laravelupandrunning.com)
  - date_published: 2024-06-18T10:24:11.724321+00:00
@@ -3789,252 +4039,4 @@ LearnWorlds
  ## Comparateur Assurance - Devis Gratuits - Assurance Auto, Santé, Habitation ≡ LeComparateurAssurance
  - [https://www.lecomparateurassurance.com](https://www.lecomparateurassurance.com)
  - date_published: 2024-09-15T20:52:21.734135+00:00
-
- ## front
- - [https://www.leconomiste.com](https://www.leconomiste.com)
- - date_published: 2024-10-30T05:20:10.024747+00:00
-
- ## L'Économiste Maghrébin | Première presse tunisienne en ligne
- - [https://www.leconomistemaghrebin.com](https://www.leconomistemaghrebin.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Accueil - LCANews
- - [http://www.lecourrieraustralien.com](http://www.lecourrieraustralien.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Manufacturer of Electronic Component in delhi, Socket Manufacturer, Switch Manufacturer in Dellhi
- - [http://www.lecswitch.com](http://www.lecswitch.com)
- - date_published: 2024-01-10T15:27:41+00:00
-
- ## LecToGo | Charge your phone on the go | Powerbank rental
- - [https://www.lectogo.com](https://www.lectogo.com)
- - date_published: 2024-07-20T13:57:12.608081+00:00
-
- ## Lectric eBikes - Electric Bikes Built so Everyone Can Ride
- - [https://lectricebikes.com](https://lectricebikes.com)
- - date_published: 2024-06-23T14:34:35.369293+00:00
-
- ## lectronice → now :: 2022-08 W33
- - [https://now.lectronice.com](https://now.lectronice.com)
- - date_published: 2022-08-20T10:32:33+00:00
-
- ## Lectronz
- - [https://lectronz.com](https://lectronz.com)
- - date_published: 2023-10-25T15:44:18.811085+00:00
-
- ## https://lectupedia.com/es/
- - [https://lectupedia.com](https://lectupedia.com)
- - date_published: 2024-07-23T23:26:25.532633+00:00
-
- ## Cosas de Casa: Inspiración en decoración, orden, limpieza y compras
- - [https://cosasdecasa.lecturas.com](https://cosasdecasa.lecturas.com)
- - date_published: 2024-10-14T22:13:49+00:00
-
- ## Lecturas - Revista del corazón (Noticias)
- - [https://www.lecturas.com](https://www.lecturas.com)
- - date_published: 2024-06-20T02:00:53+00:00
-
- ## Yann LeCun's Home Page
- - [http://yann.lecun.com](http://yann.lecun.com)
- - date_published: 2022-07-12T05:43:43+00:00
-
- ## 极光加速器_官网最新版下载
- - [https://www.led-albaniagreece.com](https://www.led-albaniagreece.com)
- - date_published: 2024-07-05T09:13:19+00:00
-
- ## Le Dauphiné Libéré : info et actu nationale et régionale - Isère, Haute-Savoie, Savoie, Drôme, Ardèche, Hautes-Alpes et Vaucluse
- - [https://www.ledauphine.com](https://www.ledauphine.com)
- - date_published: 2024-09-04T19:34:55.503708+00:00
-
- ## LeddarTech - Sensing and Perception Solutions for ADAS/AD
- - [https://leddartech.com](https://leddartech.com)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Le Devoir | Nouvelles, politique, économie, culture et chroniques
- - [https://www.ledevoir.com](https://www.ledevoir.com)
- - date_published: 2024-07-21T00:00:00+00:00
-
- ## Ledger Labs
- - [https://blog.ledger.com](https://blog.ledger.com)
- - date_published: 2023-10-25T15:44:20.094476+00:00
-
- ## Home
- - [https://careers.ledger.com](https://careers.ledger.com)
- - date_published: 2024-05-04T12:13:13.985206+00:00
-
- ## Ledger Co-branded Offer
- - [https://co-branded.ledger.com](https://co-branded.ledger.com)
- - date_published: 2023-09-21T12:59:19+00:00
-
- ## Ledger Developer Portal
- - [https://developers.ledger.com](https://developers.ledger.com)
- - date_published: 2024-05-04T12:13:10.487412+00:00
-
- ## Ledger Donjon
- - [https://donjon.ledger.com](https://donjon.ledger.com)
- - date_published: 2024-05-04T12:12:58.644632+00:00
-
- ## Ledger Enterprise
- - [https://enterprise.ledger.com](https://enterprise.ledger.com)
- - date_published: 2024-05-04T12:12:55.920394+00:00
-
- ## Ledger Enterprise Help Center
- - [https://help.vault.ledger.com](https://help.vault.ledger.com)
- - date_published: 2024-06-20T14:19:10+00:00
-
- ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
- - [http://ledger.com](http://ledger.com)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## Ledger - Home of the first and only certified Hardware wallets | Ledger
- - [https://shop.ledger.com](https://shop.ledger.com)
- - date_published: 2023-10-25T15:44:25.359911+00:00
-
- ## Ledger Status
- - [https://status.ledger.com](https://status.ledger.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Ledger Vault
- - [https://vault.ledger.com](https://vault.ledger.com)
- - date_published: 2024-06-14T10:19:56+00:00
-
- ## EU Notice | Ledger - Enquirer
- - [https://jobs.ledger-enquirer.com](https://jobs.ledger-enquirer.com)
- - date_published: 2024-06-21T19:26:14.955125+00:00
-
- ## Columbus GA Breaking News & Crime | Columbus Ledger-Enquirer
- - [https://ledger-enquirer.com](https://ledger-enquirer.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
- - [https://www.ledgerhq.com](https://www.ledgerhq.com)
- - date_published: 2024-07-31T00:00:00+00:00
-
- ## Blockchain for enterprise - Ledger Insights - blockchain for enterprise
- - [https://ledgerinsights.com](https://ledgerinsights.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Monadnock Ledger-Transcript
- - [https://ledgertranscript.com](https://ledgertranscript.com)
- - date_published: 2024-05-08T06:15:03.290911+00:00
-
- ## Monadnock Ledger-Transcript | Local ads in Peterborough, NH
- - [https://local.ledgertranscript.com](https://local.ledgertranscript.com)
- - date_published: 2024-07-04T11:19:14.030918+00:00
-
- ## Hardware Wallet & Crypto Wallet - Security for Crypto | Ledger
- - [https://www.ledgerwallet.com](https://www.ledgerwallet.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Ledgy | We make equity work
- - [https://ledgy.com](https://ledgy.com)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 乐调查-问卷调查_调查问卷_制作问卷
- - [https://www.lediaocha.com](https://www.lediaocha.com)
- - date_published: 2024-08-06T10:51:37.684342+00:00
-
- ## Cosmétique de Luxe - Beau Domaine Skincare
- - [https://le-domaine.com](https://le-domaine.com)
- - date_published: 2024-11-08T10:03:03.858994+00:00
-
- ## Ledsreact
- - [https://www.ledsreact.com](https://www.ledsreact.com)
- - date_published: 2024-09-02T09:50:40.808445+00:00
-
- ## collection of jan aman, le duchamp .com by rafaël rozendaal, 2008
- - [https://www.leduchamp.com](https://www.leduchamp.com)
- - date_published: 2023-04-11T12:11:30+00:00
-
- ## Corporate website
- - [https://www.ledvance.com](https://www.ledvance.com)
- - date_published: 2024-10-15T16:40:19.601421+00:00
-
- ## Led Zeppelin Discography - Official Website
- - [https://discography.ledzeppelin.com](https://discography.ledzeppelin.com)
- - date_published: 2024-05-04T12:13:24.085996+00:00
-
- ## Led Zeppelin Official Forum
- - [https://forums.ledzeppelin.com](https://forums.ledzeppelin.com)
- - date_published: 2024-05-03T00:00:00+00:00
-
- ## Led Zeppelin | Official Website Official Website
- - [https://ledzeppelin.com](https://ledzeppelin.com)
- - date_published: 2024-06-04T09:39:54+00:00
- - tags: ['music band']
-
- ## Led Zeppelin - Official Website
- - [https://merch.ledzeppelin.com](https://merch.ledzeppelin.com)
- - date_published: 2024-05-04T12:13:22.125974+00:00
-
- ## Led Zeppelin - All Products
- - [https://store.ledzeppelin.com](https://store.ledzeppelin.com)
- - date_published: 2024-05-04T12:13:25.789039+00:00
-
- ## Multicultural Children's Book Publisher
- | Lee & Low Books
- - [http://www.leeandlow.com](http://www.leeandlow.com)
- - date_published: 2024-07-04T15:14:18.610985+00:00
-
- ## Homes for Sale at the Delaware Beaches | The Lee Ann Wilkinson Group
- - [http://leeanngroup.com](http://leeanngroup.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Home
- - [http://www.lee-associates.com](http://www.lee-associates.com)
- - date_published: 2024-10-27T23:53:13+00:00
-
- ## Welcome to leewebapps.leeaws.com
- - [https://leeaws.com](https://leeaws.com)
- - date_published: 2023-01-26T21:43:49+00:00
-
- ## Little Short Bulletins | Likely Some Balderdash
- - [https://www.leebutterman.com](https://www.leebutterman.com)
- - date_published: 2023-10-25T15:44:26.549554+00:00
-
- ## Lee Byron
- - [https://leebyron.com](https://leebyron.com)
- - date_published: 2023-10-25T15:44:27.988608+00:00
- - tags: ['personal']
-
- ## Home - US - JackReacher.com
- - [http://www.leechild.com](http://www.leechild.com)
- - date_published: 2024-08-18T03:31:24.088964+00:00
-
- ## LEED Online
- - [https://leedonline.com](https://leedonline.com)
- - date_published: 2024-06-20T13:00:53.587834+00:00
-
- ## Bramham Park » 21 – 25 August 2024
- - [https://www.leedsfestival.com](https://www.leedsfestival.com)
- - date_published: 2024-06-25T16:49:22.365844+00:00
-
- ## Home
- - [https://www.leedsfilm.com](https://www.leedsfilm.com)
- - date_published: 2024-09-06T21:55:21.085028+00:00
-
- ## University of Leeds // clothing, gifts, merchandise
- - [https://www.leedsgear.com](https://www.leedsgear.com)
- - date_published: 2024-06-17T18:09:08.258893+00:00
-
- ## LeedsJs | Meetup
- - [https://leedsjs.com](https://leedsjs.com)
- - date_published: 2024-09-04T10:52:49.493998+00:00
-
- ## Leeds University Union Events - Legendary nights in Leeds since 1967.
- - [https://leedsunionevents.com](https://leedsunionevents.com)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## LEEZA ⛓☄🌪💫📂 PRITYCHENKO
- - [http://leeeeza.com](http://leeeeza.com)
- - date_published: 2024-07-13T15:49:14.944607+00:00
-
- ## Lee Fang | Substack
- - [https://www.leefang.com](https://www.leefang.com)
- - date_published: 2023-10-25T15:44:30.439070+00:00
- - tags: ['journalism']
-
- ## LEE Filters: Masters of Light
- - [https://www.leefilters.com](https://www.leefilters.com)
- - date_published: 2024-07-04T06:50:49.562122+00:00
 

@@ -1,3 +1,63 @@
+ ## Guy's Philosophical Nuggets.
+ - [http://www.dalkeyguy.blogspot.com](http://www.dalkeyguy.blogspot.com)
+ - date_published: 2024-10-21T17:12:06.185609+00:00
+
+ ## Dallas Criminal Lawyer Blog
+ - [http://www.dallaslawyer.blogspot.com](http://www.dallaslawyer.blogspot.com)
+ - date_published: 2024-04-29T02:29:05+00:00
+
+ ## DE Conservative
+ - [http://www.deconservative.blogspot.com](http://www.deconservative.blogspot.com)
+ - date_published: 2024-03-13T03:31:58+00:00
+
+ ## deleuze at greenwich
+ - [http://www.deleuzeatgreenwich.blogspot.com](http://www.deleuzeatgreenwich.blogspot.com)
+ - date_published: 2024-02-21T07:46:46+00:00
+
+ ## teatro
+ - [http://www.demimparavos.blogspot.com](http://www.demimparavos.blogspot.com)
+ - date_published: 2004-02-26T00:00:00+00:00
+
+ ## Jose Lopez
+ - [http://www.desoluz.blogspot.com](http://www.desoluz.blogspot.com)
+ - date_published: 2024-07-06T05:55:23+00:00
+
+ ## Desperate Irish Housewife
+ - [http://www.desperateirishhousewife.blogspot.com](http://www.desperateirishhousewife.blogspot.com)
+ - date_published: 2024-03-23T17:55:53+00:00
+
+ ## Blogalicious
+ - [http://www.dianelockward.blogspot.com](http://www.dianelockward.blogspot.com)
+ - date_published: 2024-07-10T13:27:50+00:00
+
+ ## Alextronic Discovery
+ - [http://www.discoveryresources.blogspot.com](http://www.discoveryresources.blogspot.com)
+ - date_published: 2024-02-28T14:45:23+00:00
+
+ ## Dixie Yid
+ - [http://www.dixieyid.blogspot.com](http://www.dixieyid.blogspot.com)
+ - date_published: 2024-06-10T07:54:50+00:00
+
+ ## Blogger
+ - [http://www.dlisted.blogspot.com](http://www.dlisted.blogspot.com)
+ - date_published: 2024-10-31T22:58:23.032953+00:00
+
+ ## Dundee Folk Club
+ - [http://www.dundeefolkclub.blogspot.com](http://www.dundeefolkclub.blogspot.com)
+ - date_published: 2024-10-21T15:17:26.264425+00:00
+
+ ## Element Water
+ - [http://www.elementsdesciences.blogspot.com](http://www.elementsdesciences.blogspot.com)
+ - date_published: 2024-03-08T05:06:23+00:00
+
+ ## English spelling
+ - [http://www.englishspellingproblems.blogspot.com](http://www.englishspellingproblems.blogspot.com)
+ - date_published: 2024-06-19T13:51:42+00:00
+
+ ## Erik's Choice
+ - [http://www.eriklerouge.blogspot.com](http://www.eriklerouge.blogspot.com)
+ - date_published: 2024-09-26T03:52:21+00:00
+
  ## Excessive Exclamation!!
  - [http://www.excessiveexclamation.blogspot.com](http://www.excessiveexclamation.blogspot.com)
  - date_published: 2024-10-19T11:04:30.884015+00:00
@@ -3982,64 +4042,4 @@
  ## BloombergNEF
  - [https://about.bnef.com](https://about.bnef.com)
  - date_published: 2023-12-13T20:11:56.498161+00:00
-
- ## BloombergNEF
- - [https://bnef.com](https://bnef.com)
- - date_published: 2024-01-30T00:00:00+00:00
-
- ## accommodation specialist | bnetwork
- - [https://bnetwork.com](https://bnetwork.com)
- - date_published: 2024-09-25T15:53:13.735755+00:00
-
- ## Web Summit 2024 Lisbon
- - [https://websummit.bnetwork.com](https://websummit.bnetwork.com)
- - date_published: 2024-06-16T05:13:22.722154+00:00
-
- ## Home
- - [http://www.bni.com](http://www.bni.com)
- - date_published: 2024-10-31T12:08:06.732302+00:00
-
- ## Brandon Nickerson's Graphic Design Portfolio
- - [https://www.bnicks.com](https://www.bnicks.com)
- - date_published: 2024-10-27T19:25:12.034513+00:00
-
- ## Home
- - [https://bnicolorado.com](https://bnicolorado.com)
- - date_published: 2024-07-14T08:17:38.759149+00:00
-
- ## BNI Connect - Local Business - Global Network
- - [https://www.bniconnectglobal.com](https://www.bniconnectglobal.com)
- - date_published: 2024-10-31T12:08:03.811153+00:00
-
- ## BNI DFW
- - [https://bnidfw.com](https://bnidfw.com)
- - date_published: 2024-10-31T12:08:10.440196+00:00
-
- ## Bravenet Web Services
- - [https://assets.bnidx.com](https://assets.bnidx.com)
- - date_published: 2024-06-18T07:49:38.205179+00:00
-
- ## Nigeria
- - [http://bni-ng.com](http://bni-ng.com)
- - date_published: 2024-06-20T07:40:45.288633+00:00
-
- ## Home
- - [https://bnioftheozarks.com](https://bnioftheozarks.com)
- - date_published: 2024-10-31T12:08:01.442648+00:00
-
- ## Home
- - [https://bniwne.com](https://bniwne.com)
- - date_published: 2024-06-19T23:40:14.057777+00:00
-
- ## Custom Domain by Bitly
- - [https://bnkmsr.com](https://bnkmsr.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## VeerOne: Redefining AI with Intuitive Intelligence | Discover More
- - [https://bnnbreaking.com](https://bnnbreaking.com)
- - date_published: 2024-10-16T18:40:33.010937+00:00
-
- ## BNNGPT
- - [https://bnngpt.com](https://bnngpt.com)
- - date_published: 2024-07-19T21:14:58.708403+00:00
 

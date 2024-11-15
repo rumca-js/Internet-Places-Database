@@ -1,3 +1,91 @@
+ ## David Saylors David Saylors Photography
+ - [https://www.davidsaylors.com](https://www.davidsaylors.com)
+ - date_published: 2024-06-29T07:58:50.763700+00:00
+
+ ## David's Book World
+ - [http://davidsbookworld.com](http://davidsbookworld.com)
+ - date_published: 2024-09-17T17:29:07.855324+00:00
+
+ ## David Schiesser
+ - [http://davidschiesser.com](http://davidschiesser.com)
+ - date_published: 2024-07-13T15:59:34.752718+00:00
+
+ ## David Krueger
+ - [https://www.davidscottkrueger.com](https://www.davidscottkrueger.com)
+ - date_published: 2024-06-21T19:04:22+00:00
+
+ ## DSri Seah – Investigative Designer
+ - [https://davidseah.com](https://davidseah.com)
+ - date_published: 2023-10-25T13:45:51.877615+00:00
+
+ ## Tech Insights and Tips by an Amazon Senior Software Engineer
+ - [https://www.davidseek.com](https://www.davidseek.com)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## DAVID SHEFF
+ - [https://www.davidsheff.com](https://www.davidsheff.com)
+ - date_published: 2024-09-04T04:40:48.452641+00:00
+
+ ## Boston Corporate Headshots | Portraits | Culture Photographer
+ - [https://www.davidshopper.com](https://www.davidshopper.com)
+ - date_published: 2024-01-04T00:00:00+00:00
+
+ ## The Audacity of Despair
+ - [https://davidsimon.com](https://davidsimon.com)
+ - date_published: 2024-01-22T18:54:05.441303+00:00
+
+ ## David's Log
+ - [https://davidslog.com](https://davidslog.com)
+ - date_published: 2024-06-15T18:28:09.385676+00:00
+
+ ## Home - David Stockman's Contra Corner
+ - [https://www.davidstockmanscontracorner.com](https://www.davidstockmanscontracorner.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## { davidsylvian.com } the official David Sylvian website
+ - [http://www.davidsylvian.com](http://www.davidsylvian.com)
+ - date_published: 2024-10-21T05:04:19.562413+00:00
+
+ ## David Terei
+ - [http://blog.davidterei.com](http://blog.davidterei.com)
+ - date_published: 2024-02-08T15:09:46+00:00
+
+ ## David Clark Develops the Web
+ - [https://davidtheclark.com](https://davidtheclark.com)
+ - date_published: 2016-07-10T00:00:00+00:00
+
+ ## David Thunder's Website | Free-spirited scholar and journalist
+ - [http://www.davidthunder.com](http://www.davidthunder.com)
+ - date_published: 2024-07-13T11:11:34.635624+00:00
+
+ ## Daily-Ink by David Truss
+ - [https://daily-ink.davidtruss.com](https://daily-ink.davidtruss.com)
+ - date_published: 2024-08-02T00:00:00+00:00
+
+ ## David Truss
+ - [http://davidtruss.com](http://davidtruss.com)
+ - date_published: 2024-09-14T23:16:24.617927+00:00
+
+ ## Dev Notes – David Truxall
+ - [https://davidtruxall.com](https://davidtruxall.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## David van Dartel
+ - [https://davidvandartel.com](https://davidvandartel.com)
+ - date_published: 2024-06-24T00:00:00+00:00
+
+ ## davidviner.com: Home
+ - [https://www.davidviner.com](https://www.davidviner.com)
+ - date_published: 2024-06-20T08:15:38.377255+00:00
+
+ ## David's Technobabble Blog - A blog about everything tech (and not)...
+ - [https://davidvonthenen.com](https://davidvonthenen.com)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## David Wake – Author
+ - [http://www.davidwake.com](http://www.davidwake.com)
+ - date_published: 2024-07-04T14:03:02.425949+00:00
+
  ## David Walbert
  - [https://social.davidwalbert.com](https://social.davidwalbert.com)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3960,92 +4048,4 @@
  ## Dell Trade In – Trade Up Sustainably
  - [https://tradein.dell.com](https://tradein.dell.com)
  - date_published: 2024-07-09T11:34:58.880723+00:00
-
- ## Computers, Monitors & Technology Solutions | Dell Australia
- - [http://www1.ap.dell.com](http://www1.ap.dell.com)
- - date_published: 2024-06-16T08:06:34.685672+00:00
-
- ## Dellabet - Dellabet - Türkiye'nin En İyi Bahis Sitesi
- - [https://dellabet.com](https://dellabet.com)
- - date_published: 2024-07-13T18:49:29.582354+00:00
-
- ## del Lago Resort & Casino Serving Rochester & Syracuse, NY
- - [https://dellagoresort.com](https://dellagoresort.com)
- - date_published: 2024-10-30T02:33:32.546981+00:00
-
- ## Computers, Monitors & Technology Solutions | Dell Polska
- - [https://afcs.dellcdn.com](https://afcs.dellcdn.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Mission Critical
- - [https://www.dellmedmissioncritical.com](https://www.dellmedmissioncritical.com)
- - date_published: 2024-07-01T07:42:25.675679+00:00
-
- ## Visionaries of Dell Med
- - [https://www.dellmedvisionaries.com](https://www.dellmedvisionaries.com)
- - date_published: 2024-07-01T07:42:24.315942+00:00
-
- ## Leading Independent Telecommunications Market Analysis & Research Firm | Dell'Oro Group
- - [https://www.delloro.com](https://www.delloro.com)
- - date_published: 2024-07-13T09:40:58.388605+00:00
-
- ## Computers, Monitors & Technology Solutions | Dell USA
- - [https://corporate.delltechnologies.com](https://corporate.delltechnologies.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Investor Relations | Dell Technologies
- - [https://investors.delltechnologies.com](https://investors.delltechnologies.com)
- - date_published: 2024-09-25T00:00:00+00:00
-
- ## Laptops, Monitors, Computers & Storage Solutions | Dell Polska
- - [https://www.delltechnologies.com](https://www.delltechnologies.com)
- - date_published: 2024-04-29T06:17:19.430838+00:00
-
- ## Home - DTC
- - [https://delltechnologiescapital.com](https://delltechnologiescapital.com)
- - date_published: 2024-02-20T00:00:00+00:00
-
- ## Delmar Gardens | Delmar Gardens
- - [https://www.delmargardens.com](https://www.delmargardens.com)
- - date_published: 2024-08-22T00:00:00+00:00
-
- ## Delmarva 811: Dig Safely with Locate Requests
- - [https://www.delmarva811.com](https://www.delmarva811.com)
- - date_published: 2024-10-22T02:44:04.043829+00:00
-
- ## Del McCoury Band
- - [https://www.delmccouryband.com](https://www.delmccouryband.com)
- - date_published: 2024-07-17T13:37:57.181686+00:00
-
- ## Del Monte Home - Del Monte Arabia
- - [http://www.delmontearabia.com](http://www.delmontearabia.com)
- - date_published: 2024-10-31T09:42:16.792655+00:00
-
- ## Del Monte Europe - delmonteeurope.com | Homepage
- - [http://delmonteeurope.com](http://delmonteeurope.com)
- - date_published: 2024-10-31T09:42:46.930428+00:00
-
- ## Del Monte Europe - delmonteeurope.com | Homepage
- - [https://www.delmonteeurope.com](https://www.delmonteeurope.com)
- - date_published: 2024-10-31T09:42:18.348809+00:00
-
- ## Voted the Best Triathlons in the USA | DelMoSports
- - [http://delmosports.com](http://delmosports.com)
- - date_published: 2024-09-27T00:00:00+00:00
-
- ## Witamy w Deloitte Polska!
- - [https://www2.deloitte.com](https://www2.deloitte.com)
- - date_published: 2024-04-30T04:44:30.555016+00:00
-
- ## Witamy w Deloitte Polska!
- - [https://www.deloitte.com](https://www.deloitte.com)
- - date_published: 2024-06-16T06:31:18+00:00
-
- ## Find Jobs - Careers
- - [https://apply.deloittece.com](https://apply.deloittece.com)
- - date_published: 2024-07-21T23:23:47+00:00
-
- ## Deloitte Digital | CE
- - [https://www.deloittedigital.com](https://www.deloittedigital.com)
- - date_published: 2024-02-21T00:00:00+00:00
 

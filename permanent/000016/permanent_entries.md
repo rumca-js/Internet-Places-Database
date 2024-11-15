@@ -1,3 +1,23 @@
+ ## Landerson Gomes - Delphi, Android e Tecnologia
+ - [https://landersongomes.com.br](https://landersongomes.com.br)
+ - date_published: 2024-06-17T03:35:37.511081+00:00
+
+ ## Land Rover. Veículos 4x4 e SUVs de Luxo
+ - [https://www.landrover.com.br](https://www.landrover.com.br)
+ - date_published: 2024-07-09T17:13:12.193124+00:00
+
+ ## Inglês, Alemão, Chinês e Muitos Outros Cursos de Línguas | Aulas Personalizadas de Idiomas
+ - [https://www.languagetrainersbrasil.com.br](https://www.languagetrainersbrasil.com.br)
+ - date_published: 2024-07-02T09:21:25.824085+00:00
+
+ ## Las Magrelas | Bicicletaria
+ - [https://lasmagrelas.com.br](https://lasmagrelas.com.br)
+ - date_published: 2019-02-09T01:26:45+00:00
+
+ ## LexisNexis Risk Solutions | Transforme sua tomada de decisão de risco
+ - [https://risk.lexisnexis.com.br](https://risk.lexisnexis.com.br)
+ - date_published: 2024-06-16T17:26:20.136282+00:00
+
  ## LINAK - Tecnologia de sistemas de atuadores elétricos para movimento
  - [https://www.linak.com.br](https://www.linak.com.br)
  - date_published: 2024-09-05T21:36:00.178683+00:00
@@ -3990,24 +4010,4 @@
  ## Home - Musqueam Indian Band
  - [https://musqueam.bc.ca](https://musqueam.bc.ca)
  - date_published: 2024-05-12T00:00:00+00:00
-
- ## Okanagan College
- - [https://www.okanagan.bc.ca](https://www.okanagan.bc.ca)
- - date_published: 2024-08-18T12:19:36.916613+00:00
-
- ## Okanagan Regional Library | Kelowna & Okanagan Public Libraries
- - [https://www.orl.bc.ca](https://www.orl.bc.ca)
- - date_published: 2024-08-18T12:19:14.708861+00:00
-
- ## Home
- - [http://pih.bc.ca](http://pih.bc.ca)
- - date_published: 2024-11-01T00:45:38+00:00
-
- ## Home | RDOS
- - [https://www.rdos.bc.ca](https://www.rdos.bc.ca)
- - date_published: 2024-08-18T12:19:22.044852+00:00
-
- ## Ansuz - Matthew Skala's home page
- - [https://ansuz.sooke.bc.ca](https://ansuz.sooke.bc.ca)
- - date_published: 2024-07-07T07:19:18.693771+00:00
 

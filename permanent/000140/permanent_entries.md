@@ -1,3 +1,257 @@
+ ## Anti-Mimetic | Luke Burgis | Substack
+ - [https://read.lukeburgis.com](https://read.lukeburgis.com)
+ - date_published: 2023-10-25T15:52:17.870193+00:00
+
+ ## Ride or Drive  | Luke Burgis | Substack
+ - [https://ride.lukeburgis.com](https://ride.lukeburgis.com)
+ - date_published: 2024-02-15T00:00:00+00:00
+
+ ## Luke Burrage - International Juggler and Entertainer - LukeBurrage.com
+ - [https://lukeburrage.com](https://lukeburrage.com)
+ - date_published: 2024-08-22T07:53:29+00:00
+
+ ## Luke Combs Shop
+ - [https://shop.lukecombs.com](https://shop.lukecombs.com)
+ - date_published: 2024-06-30T12:34:38.581578+00:00
+
+ ## Luke Conroy: Interdisciplinary Artist from Tasmania, Australia
+ - [https://www.luke-conroy.com](https://www.luke-conroy.com)
+ - date_published: 2024-06-21T11:34:42.251899+00:00
+
+ ## Luke Dangler's Official Website
+ - [https://lukedangler.com](https://lukedangler.com)
+ - date_published: 2024-05-08T20:38:26.070427+00:00
+ - tags: ['art', 'personal']
+
+ ## Luke Edwards - Front-end Developer & Web Designer
+ - [https://lukeed.com](https://lukeed.com)
+ - date_published: 2021-05-27T21:18:55+00:00
+ - tags: ['personal']
+
+ ## Luke Edward Hall | Artist, Designer and Columnist
+ - [http://lukeedwardhall.com](http://lukeedwardhall.com)
+ - date_published: 2024-07-13T15:12:41.742067+00:00
+
+ ## Luke Farritor
+ - [https://lukefarritor.com](https://lukefarritor.com)
+ - date_published: 2022-02-08T00:00:00+00:00
+
+ ## | Intro
+ - [http://www.lukego.com](http://www.lukego.com)
+ - date_published: 2024-08-18T06:45:06.855493+00:00
+
+ ## Luke Hsiao
+ - [https://lukehsiao.com](https://lukehsiao.com)
+ - date_published: 2024-05-07T20:27:03.038470+00:00
+ - tags: ['personal']
+
+ ## Luke Kanies
+ - [https://lukekanies.com](https://lukekanies.com)
+ - date_published: 2023-09-15T00:00:00+00:00
+
+ ## Luke Lanchester
+ - [https://www.lukelanchester.com](https://www.lukelanchester.com)
+ - date_published: 2016-02-14T00:00:00+00:00
+
+ ## Luke LaValva
+ - [https://lukelavalva.com](https://lukelavalva.com)
+ - date_published: 2022-09-06T00:35:12+00:00
+ - tags: ['personal']
+
+ ## Luke McDonald
+ - [http://lukemcdonald.com](http://lukemcdonald.com)
+ - date_published: 2024-06-24T05:17:22.178186+00:00
+
+ ## Luke McKernan
+ - [https://lukemckernan.com](https://lukemckernan.com)
+ - date_published: 2024-04-26T17:54:07+00:00
+ - tags: ['personal']
+
+ ## Luke Muehlhauser
+ - [https://lukemuehlhauser.com](https://lukemuehlhauser.com)
+ - date_published: 2024-04-01T00:00:00+00:00
+
+ ## Luke Ramsden
+ - [https://lukeramsden.com](https://lukeramsden.com)
+ - date_published: 2023-07-27T00:00:00+00:00
+
+ ## Luke Rissacher's Random Projects
+ - [https://lukerissacher.com](https://lukerissacher.com)
+ - date_published: 2024-07-23T23:40:11.449235+00:00
+
+ ## Home | Luke Salamone
+ - [https://lukesalamone.com](https://lukesalamone.com)
+ - date_published: 2022-03-06T02:41:43+00:00
+
+ ## Home | Luke's Empire
+ - [https://lukesempire.com](https://lukesempire.com)
+ - date_published: 2024-07-23T23:26:43.723690+00:00
+
+ ## Luke Shelton PhD
+ - [https://luke-shelton.com](https://luke-shelton.com)
+ - date_published: 2024-09-03T20:55:58.566450+00:00
+
+ ## Luke Shiels
+ - [https://lukeshiels.com](https://lukeshiels.com)
+ - date_published: 2024-05-09T06:11:59.379393+00:00
+
+ ## Luke's Laboratory
+ - [https://lukeslabonline.com](https://lukeslabonline.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Fotografie + Film  | Luke's Media Corner | Bielefeld
+ - [https://www.lukesmediacorner.com](https://www.lukesmediacorner.com)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## Buy Minimates Online at Luke's Toy Store
+ - [http://www.lukestoystore.com](http://www.lukestoystore.com)
+ - date_published: 2024-10-29T00:51:31.884862+00:00
+
+ ## Luke Turner // Artist
+ - [http://luketurner.com](http://luketurner.com)
+ - date_published: 2024-09-12T18:50:44.979929+00:00
+
+ ## Ask LukeW
+ - [https://ask.lukew.com](https://ask.lukew.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## LukeW Ideation + Design | Digital Product Strategy & Design
+ - [https://lukew.com](https://lukew.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## LUKHASH | www.lukhash.com
+ - [https://lukhash.com](https://lukhash.com)
+ - date_published: 2023-10-30T13:31:43.558214+00:00
+ - tags: ['demoscene', 'keygen', 'personal', 'amiga', 'music band', 'news retro wave', 'chiptune']
+
+ ## lukhash | Instagram, Facebook, TikTok | Linktree
+ - [https://music.lukhash.com](https://music.lukhash.com)
+ - date_published: 2024-03-29T00:00:00+00:00
+
+ ## Lukol Search Engine
+ - [https://www.lukol.com](https://www.lukol.com)
+ - date_published: 2024-09-05T16:26:06.865990+00:00
+
+ ## Lula Cafe | Inventive, market-driven, mostly organic food in a casual, funky space, hosting an especially popular brunch in Chicago, IL.
+ - [http://lulacafe.com](http://lulacafe.com)
+ - date_published: 2024-09-16T09:52:29.175438+00:00
+
+ ## Clothing for Everybody and Every Body
+ - [https://www.lularoe.com](https://www.lularoe.com)
+ - date_published: 2024-10-30T21:09:14.345732+00:00
+
+ ## Discover Lull Mattresses | Lull®
+ - [https://lull.com](https://lull.com)
+ - date_published: 2024-07-09T06:29:18.568122+00:00
+
+ ## Lulo Bank
+ - [https://lulobank.com](https://lulobank.com)
+ - date_published: 2024-06-12T10:34:23.191248+00:00
+
+ ## Lulo Bank
+ - [https://web.lulobank.com](https://web.lulobank.com)
+ - date_published: 2024-08-02T05:12:10+00:00
+
+ ## The Lulu Blog - Your Home For The Best Writing & Publishing
+ - [https://blog.lulu.com](https://blog.lulu.com)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Lulu Developer Portal
+ - [https://developers.lulu.com](https://developers.lulu.com)
+ - date_published: 2024-08-06T06:00:16.187143+00:00
+
+ ## Knowledge Base | Lulu
+ - [https://help.lulu.com](https://help.lulu.com)
+ - date_published: 2024-08-06T06:00:29.889619+00:00
+
+ ## Online Self-Publishing Book & eBook Company | Lulu
+ - [https://lulu.com](https://lulu.com)
+ - date_published: 2024-04-29T03:18:44.572710+00:00
+
+ ## Book-Making Kits for Kids | Lulu Junior
+ - [https://www.lulujr.com](https://www.lulujr.com)
+ - date_published: 2024-08-06T06:00:17.286325+00:00
+
+ ## technical apparel + athletic shoes | lululemon
+ - [https://shop.lululemon.com](https://shop.lululemon.com)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Lulzx
+ - [https://lulzx.com](https://lulzx.com)
+ - date_published: 2024-01-28T21:07:54+00:00
+
+ ## Lumaeris , @lumaeris@lumaeris.com
+ - [https://gts.lumaeris.com](https://gts.lumaeris.com)
+ - date_published: 2024-04-07T00:00:00+00:00
+
+ ## Lumaeris
+ - [https://lumaeris.com](https://lumaeris.com)
+ - date_published: 2024-07-09T07:17:39+00:00
+
+ ## Upptime
+ - [https://status.lumaeris.com](https://status.lumaeris.com)
+ - date_published: 2024-07-01T11:23:39+00:00
+
+ ## Lumafield
+ - [https://app.lumafield.com](https://app.lumafield.com)
+ - date_published: 2024-05-04T13:42:21.900270+00:00
+
+ ## Lumafield | Industrial CT and AI inspection for engineers
+ - [https://www.lumafield.com](https://www.lumafield.com)
+ - date_published: 2023-10-25T15:52:20.330084+00:00
+
+ ## Design thinking training, tools, and services | LUMA Institute
+ - [https://www.luma-institute.com](https://www.luma-institute.com)
+ - date_published: 2023-01-27T00:00:00+00:00
+
+ ## Luma Pictures
+ - [http://www.lumapictures.com](http://www.lumapictures.com)
+ - date_published: 2024-07-12T22:07:12.820246+00:00
+
+ ## Luma Touch Support Forums - Index page
+ - [https://forums.luma-touch.com](https://forums.luma-touch.com)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Homepage - LumaTouch
+ - [https://luma-touch.com](https://luma-touch.com)
+ - date_published: 2023-02-04T17:16:30+00:00
+
+ ## Home - Lumaverse
+ - [https://lumaverse.com](https://lumaverse.com)
+ - date_published: 2022-07-15T00:00:00+00:00
+
+ ## LUMBERJACK 100
+ - [https://www.lumberjack100.com](https://www.lumberjack100.com)
+ - date_published: 2024-08-18T22:00:34.025453+00:00
+
+ ## The Lumber Manufactory - Maximize your timberland's value
+ - [https://www.lumbermanufactory.com](https://www.lumbermanufactory.com)
+ - date_published: 2024-10-31T12:21:43.569413+00:00
+
+ ## Lume
+ - [https://lumedataviz.com](https://lumedataviz.com)
+ - date_published: 2024-07-16T18:02:16+00:00
+
+ ## デジタル革命のためのエンタープライズテクノロジー | Lumen
+ - [https://apacblog.lumen.com](https://apacblog.lumen.com)
+ - date_published: 2021-09-10T00:00:00+00:00
+
+ ## Homepage - English - Lumen APAC
+ - [https://apac.lumen.com](https://apac.lumen.com)
+ - date_published: 2024-09-09T20:22:25.856431+00:00
+
+ ## Blog – Home | News & Insights on Next-Gen Technologies - Lumen
+ - [https://blog.lumen.com](https://blog.lumen.com)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://ir.lumen.com](https://ir.lumen.com)
+ - date_published: 2024-06-16T09:02:54.786449+00:00
+
+ ## Careers at Lumen | Lumen jobs
+ - [https://jobs.lumen.com](https://jobs.lumen.com)
+ - date_published: 2024-05-29T00:00:00+00:00
+
  ## Home | Lumen
  - [https://lumen.com](https://lumen.com)
  - date_published: 2024-04-24T00:00:00+00:00
@@ -1861,6 +2115,10 @@ diversions.
  ## Bartender 5 - Take control of your Menu bar
  - [https://www.macbartender.com](https://www.macbartender.com)
  - date_published: 2024-06-23T06:27:27.056270+00:00
+
+ ## AppKed
+ - [https://www.macbed.com](https://www.macbed.com)
+ - date_published: 2024-11-14T08:36:45.837550+00:00
 
  ## MacBidouille.com - Actualités et Bidouilles sur Mac, iPhone, iPad & Apple Watch
  - [http://macbidouille.com](http://macbidouille.com)
@@ -3765,256 +4023,4 @@ diversions.
  ## Magic Leap
  - [https://ml2-developer.magicleap.com](https://ml2-developer.magicleap.com)
  - date_published: 2024-05-04T14:03:37.744835+00:00
-
- ## Leading Innovation in Augmented Reality
- - [https://pages.magicleap.com](https://pages.magicleap.com)
- - date_published: 2024-06-21T21:05:30.995467+00:00
-
- ## Augmented reality platform for Enterprise
- - [https://resources.magicleap.com](https://resources.magicleap.com)
- - date_published: 2024-05-04T14:03:40.522708+00:00
-
- ## Buy Magic Leap 2 Now
- - [https://shop.magicleap.com](https://shop.magicleap.com)
- - date_published: 2024-06-21T21:07:19.496448+00:00
-
- ## Apps on Magic Leap World
- - [https://world.magicleap.com](https://world.magicleap.com)
- - date_published: 2024-06-21T21:07:17.132526+00:00
-
- ## Chicago Magician Amazes Guests & Keeps ’em Laughing!
- - [http://www.magicmgmt.com](http://www.magicmgmt.com)
- - date_published: 2019-12-23T15:52:27+00:00
-
- ## Landing
- - [https://magicmikelive.com](https://magicmikelive.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## Home
- - [https://magicmikelivelasvegas.com](https://magicmikelivelasvegas.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Magic Mind | The World's First Mental Performance Shot
- - [https://magicmind.com](https://magicmind.com)
- - date_published: 2024-08-11T08:54:03.009364+00:00
-
- ## Magic Mockups • Free real-life mockup generator
- - [http://magicmockups.com](http://magicmockups.com)
- - date_published: 2024-10-22T19:22:55.725363+00:00
-
- ## MagicSchool AI Shop
- - [https://magicschoolshop.com](https://magicschoolshop.com)
- - date_published: 2024-10-30T22:08:07.056407+00:00
-
- ## MagicScreed2021 – Un site utilisant WordPress
- - [https://magicscreed.com](https://magicscreed.com)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Magicsplat
- - [http://www.magicsplat.com](http://www.magicsplat.com)
- - date_published: 2024-05-21T08:44:11+00:00
-
- ## Magic Studio : Make beautiful images with AI
- - [https://magicstudio.com](https://magicstudio.com)
- - date_published: 2024-06-19T20:56:45.219030+00:00
-
- ## Plausible · Web analytics
- - [https://traffic.magicstudio.com](https://traffic.magicstudio.com)
- - date_published: 2024-10-30T19:07:08.069066+00:00
-
- ## Magic Tellers
- - [https://magictellers.com](https://magictellers.com)
- - date_published: 2024-10-30T09:14:57.320985+00:00
-
- ## Magic: The Gathering | Official site for MTG news, sets, and events
- - [http://www.magicthegathering.com](http://www.magicthegathering.com)
- - date_published: 2024-06-29T22:59:27.950942+00:00
-
- ## Magic Thumbnails
- - [https://magicthumbnails.com](https://magicthumbnails.com)
- - date_published: 2024-06-19T19:25:49.742179+00:00
-
- ## Magic Toolbox: Image Zoom Plugins, 360 Spin & Slideshow
- - [https://magictoolbox.com](https://magictoolbox.com)
- - date_published: 2024-04-28T00:27:29.610272+00:00
-
- ## magicvalley.com | Read Twin Falls, ID and Idaho breaking news. Get latest news, events and information on Idaho sports, weather, entertainment and lifestyles.
- - [https://magicvalley.com](https://magicvalley.com)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## MaGie Miniature Painting
- - [http://magieminiatures.com](http://magieminiatures.com)
- - date_published: 2024-09-04T11:43:41.835745+00:00
-
- ## Magik*Magik
- - [http://magikmagik.com](http://magikmagik.com)
- - date_published: 2024-06-23T12:43:52.742055+00:00
-
- ## Maginative
- - [https://www.maginative.com](https://www.maginative.com)
- - date_published: 2024-02-18T18:22:36.600888+00:00
-
- ## Magiran | بانک اطلاعات نشریات کشور
- - [https://www.magiran.com](https://www.magiran.com)
- - date_published: 2024-07-09T21:17:15.979567+00:00
-
- ## Marc-Andre Giroux's Blog
- - [https://www.magiroux.com](https://www.magiroux.com)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Magisterium AI
- - [https://www.magisterium.com](https://www.magisterium.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Free Online Video Editor | Easy Editing with AI
- - [http://magisto.com](http://magisto.com)
- - date_published: 2024-10-29T09:14:58.016466+00:00
-
- ## MagiStream - Welcome to MagiStream!
- - [https://magistream.com](https://magistream.com)
- - date_published: 2024-07-10T10:02:35.231659+00:00
-
- ## Magi: The Labyrinth of Magic Official US Website
- - [http://www.magi-usa.com](http://www.magi-usa.com)
- - date_published: 2024-10-25T03:48:11.799075+00:00
-
- ## Welcome to MAGIX
- - [https://affiliate.magix.com](https://affiliate.magix.com)
- - date_published: 2024-09-13T19:30:30.277982+00:00
-
- ## Welcome to MAGIX
- - [https://www.magix.com](https://www.magix.com)
- - date_published: 2024-09-13T19:30:37.938473+00:00
-
- ## Caricature is fun - cliparts images & drawing tools
- - [http://www.magixl.com](http://www.magixl.com)
- - date_published: 2024-07-04T14:19:37.128171+00:00
-
- ## スマホ, メモリ, メディア HIDISC 株式会社磁気研究所
- - [https://www.mag-labo.com](https://www.mag-labo.com)
- - date_published: 2024-10-28T00:31:45.934032+00:00
-
- ## magLabs | Home
- - [https://www.maglabsdigital.com](https://www.maglabsdigital.com)
- - date_published: 2023-11-21T10:59:32+00:00
-
- ## Collaborative Art Software: Draw Together on Magma
- - [https://magma.com](https://magma.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Magma Partners | Investing in Latin America's top founders
- - [https://magmapartners.com](https://magmapartners.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## Home - Magmatic Resources
- - [https://magmaticresources.com](https://magmaticresources.com)
- - date_published: 2024-09-16T22:14:42.796338+00:00
-
- ## MAGMA Mentor
- - [https://magmatutor.com](https://magmatutor.com)
- - date_published: 2024-06-19T15:41:46+00:00
-
- ## Magmo
- - [https://magmo.com](https://magmo.com)
- - date_published: 2024-09-23T13:19:52.451281+00:00
-
- ## Jobs at Magna
- - [https://jobs.magna.com](https://jobs.magna.com)
- - date_published: 2024-07-12T07:22:50.671494+00:00
-
- ## Magna International - Forward. For all.
- - [https://www.magna.com](https://www.magna.com)
- - date_published: 2024-07-12T07:05:26+00:00
-
- ## Magnani 1404 Online
- - [https://www.magnani1404.com](https://www.magnani1404.com)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## Home 2022
- - [https://www.magnapubs.com](https://www.magnapubs.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Home | Magnatone Amplifiers
- - [https://www.magnatoneusa.com](https://www.magnatoneusa.com)
- - date_published: 2024-08-18T11:49:53.191920+00:00
-
- ## Magnatune: a music service that isn't evil
- - [http://magnatune.com](http://magnatune.com)
- - date_published: 2024-05-27T00:00:00+00:00
-
- - [https://magnetdl.com](https://magnetdl.com)
- - date_published: 2024-11-07T09:31:00+00:00
- - tags: ['piracy']
-
- ## Magnet Forensics | Unlock the truth. Protect the innocent.
- - [https://magnetforensics.com](https://magnetforensics.com)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Home page - Magnet Forensics
- - [https://training.magnetforensics.com](https://training.magnetforensics.com)
- - date_published: 2024-07-01T10:07:34.768353+00:00
-
- ## Home - Magnetic Magazine
- - [https://magneticmag.com](https://magneticmag.com)
- - date_published: 2024-03-28T10:24:01+00:00
-
- ## Magnetic Components - Magnetic Metals Corporation
- - [https://www.magneticmetals.com](https://www.magneticmetals.com)
- - date_published: 2022-11-11T16:54:16+00:00
-
- ## MAGNET Idea Lab -
- - [https://magnetidealab.com](https://magnetidealab.com)
- - date_published: 2024-07-01T10:07:42.246603+00:00
-
- ## Home - Magnetik -New York City Digital Marketing Agency
- - [https://www.magnetik.com](https://www.magnetik.com)
- - date_published: 2024-10-21T19:28:21.880465+00:00
-
- ## Magnet Magazine
- - [https://magnetmagazine.com](https://magnetmagazine.com)
- - date_published: 2024-07-11T18:00:56.159213+00:00
-
- ## Magnet Merchandise Store
- - [http://magnetmerchandise.com](http://magnetmerchandise.com)
- - date_published: 2024-07-01T10:07:38.773522+00:00
-
- ## Encuentra ofertas de empleo y trabajo en Magneto Global
- - [https://www.magneto365.com](https://www.magneto365.com)
- - date_published: 2024-08-29T00:00:00+00:00
-
- ## Fragments, the only things that hold together
- - [http://magnificentruin.com](http://magnificentruin.com)
- - date_published: 2012-04-18T00:00:00+00:00
-
- ## Home
- - [https://magnificommunities.com](https://magnificommunities.com)
- - date_published: 2024-01-05T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.magnifymoney.com](https://www.magnifymoney.com)
- - date_published: 2024-05-04T12:15:45.776343+00:00
-
- ## Magnify
- - [https://www.magnifythegood.com](https://www.magnifythegood.com)
- - date_published: 2024-07-17T03:10:01.875479+00:00
-
- ## Magnite Help Center
- - [https://help.magnite.com](https://help.magnite.com)
- - date_published: 2024-06-25T18:38:45.967336+00:00
-
- ## Investor Home | Magnite, Inc.
- - [https://investor.magnite.com](https://investor.magnite.com)
- - date_published: 2024-06-25T18:38:51+00:00
-
- ## Console - Magnite
- - [https://streaming.magnite.com](https://streaming.magnite.com)
- - date_published: 2024-06-25T14:26:25+00:00
-
- ## Home
- - [https://www.magnite.com](https://www.magnite.com)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home | MAGNiTT
- - [https://magnitt.com](https://magnitt.com)
- - date_published: 2024-05-06T23:28:39.735720+00:00
 

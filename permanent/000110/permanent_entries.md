@@ -1,3 +1,235 @@
+ ## GitHub - horahoradev/horahora: Multi-user video download manager supporting hundreds of sites
+ - [https://github.com/horahoradev/horahora](https://github.com/horahoradev/horahora)
+ - date_published: 2024-11-14T11:42:45+00:00
+ - tags: ['download manager']
+
+ ## GitHub - xcodian/youtube-dl-web: A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+ - [https://github.com/xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web)
+ - date_published: 2024-11-14T11:43:10+00:00
+ - tags: ['download manager']
+
+ ## GitHub - Totonyus/ydl_api_ng
+ - [https://github.com/Totonyus/ydl_api_ng](https://github.com/Totonyus/ydl_api_ng)
+ - date_published: 2024-11-14T11:43:26+00:00
+ - tags: ['yt-dlp', 'youtube-dl', 'download manager']
+
+ ## GitHub - ErrorFlynn/ytdlp-interface: Windows graphical interface for yt-dlp, designed as a simple YouTube downloader
+ - [https://github.com/ErrorFlynn/ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface)
+ - date_published: 2024-11-14T11:43:45+00:00
+ - tags: ['download manager']
+
+ ## GitHub - emberedsky/skydl
+ - [https://github.com/emberedsky/skydl](https://github.com/emberedsky/skydl)
+ - date_published: 2024-11-14T11:44:05+00:00
+ - tags: ['download manager']
+
+ ## GitHub - Maxstupo/ydl-ui: A UI for the command-line video downloader "youtube-dl"
+ - [https://github.com/Maxstupo/ydl-ui](https://github.com/Maxstupo/ydl-ui)
+ - date_published: 2024-11-14T11:44:33+00:00
+ - tags: ['download manager']
+
+ ## GitHub - database64128/youtube-dl-wpf: A simple GUI wrapper for youtube-dl and yt-dlp.
+ - [https://github.com/database64128/youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf)
+ - date_published: 2024-11-14T11:44:51+00:00
+ - tags: ['yt-dlp', 'youtube-dl', 'download manager']
+
+ ## GitHub - JunkFood02/Seal: 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+ - [https://github.com/JunkFood02/Seal](https://github.com/JunkFood02/Seal)
+ - date_published: 2024-11-14T11:48:13+00:00
+ - tags: ['download manager']
+
+ ## GitHub - deniscerri/ytdlnis: Android Video/Audio Downloader app using yt-dlp
+ - [https://github.com/deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
+ - date_published: 2024-11-14T11:48:46+00:00
+ - tags: ['download manager']
+
+ ## GitHub - jellyfin/jellyfin-kodi: Jellyfin Plugin for Kodi
+ - [https://github.com/jellyfin/jellyfin-kodi](https://github.com/jellyfin/jellyfin-kodi)
+ - date_published: 2024-11-14T14:08:08+00:00
+ - tags: ['kodi']
+
+ ## GitHub - akuse-app/akuse: 🌸 Simple and easy to use anime streaming desktop app without ads.
+ - [https://github.com/akuse-app/Akuse](https://github.com/akuse-app/Akuse)
+ - date_published: 2024-11-14T19:33:39+00:00
+ - tags: ['anime']
+
+ ## Git Large File Storage
+ - [https://git-lfs.github.com](https://git-lfs.github.com)
+ - date_published: 2024-04-18T13:56:46+00:00
+
+ ## GitHub.com Help Documentation
+ - [https://guides.github.com](https://guides.github.com)
+ - date_published: 2024-07-21T02:19:34.492154+00:00
+
+ ## Sign in for Software Support and Product Help - GitHub Support
+ - [https://help.github.com](https://help.github.com)
+ - date_published: 2024-04-28T02:07:20.230536+00:00
+
+ ## HUBOT
+ - [https://hubot.github.com](https://hubot.github.com)
+ - date_published: 2024-03-19T15:31:48+00:00
+
+ ## GitHub Packages: Your packages, at home with their code
+ - [https://maven.pkg.github.com](https://maven.pkg.github.com)
+ - date_published: 2024-07-20T14:19:54.682846+00:00
+
+ ## GitHub Next
+ - [https://next.github.com](https://next.github.com)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## GitHub Packages: Your packages, at home with their code
+ - [https://npm.pkg.github.com](https://npm.pkg.github.com)
+ - date_published: 2024-07-20T14:19:49.596261+00:00
+
+ ## GitHub Packages: Your packages, at home with their code
+ - [https://nuget.pkg.github.com](https://nuget.pkg.github.com)
+ - date_published: 2024-07-20T14:19:56.904995+00:00
+
+ ## Octicons
+ - [https://octicons.github.com](https://octicons.github.com)
+ - date_published: 2020-04-23T15:08:56+00:00
+
+ ## GitHub Octodex
+ - [https://octodex.github.com](https://octodex.github.com)
+ - date_published: 2023-08-31T15:47:29+00:00
+
+ ## Octoverse 2023: The state of open source
+ - [https://octoverse.github.com](https://octoverse.github.com)
+ - date_published: 2024-05-04T08:10:48.126416+00:00
+
+ ## GitHub Pages
+ - [https://pages.github.com](https://pages.github.com)
+ - date_published: 2023-10-25T08:40:58.526731+00:00
+
+ ## Partner with GitHub
+ - [https://partner.github.com](https://partner.github.com)
+ - date_published: 2024-04-28T03:22:16.033666+00:00
+
+ ## GitHub: Let’s build from here
+ - [https://raw.github.com](https://raw.github.com)
+ - date_published: 2024-04-28T01:54:45.281980+00:00
+
+ ## Home - GitHub Resources
+ - [https://resources.github.com](https://resources.github.com)
+ - date_published: 2024-01-19T00:00:00+00:00
+
+ ## GitHub Packages: Your packages, at home with their code
+ - [https://rubygems.pkg.github.com](https://rubygems.pkg.github.com)
+ - date_published: 2024-07-20T14:19:51.923167+00:00
+
+ ## GitHub Security Lab | Securing the world’s software, together
+ - [https://securitylab.github.com](https://securitylab.github.com)
+ - date_published: 2023-10-25T14:44:54.681852+00:00
+
+ ## GitHub Services
+ - [https://services.github.com](https://services.github.com)
+ - date_published: 2024-04-28T03:22:31.605679+00:00
+
+ ## The GitHub Shop | Home
+ - [https://shop.github.com](https://shop.github.com)
+ - date_published: 2024-04-28T03:22:24.005083+00:00
+
+ ## GitHub Skills
+ - [https://skills.github.com](https://skills.github.com)
+ - date_published: 2024-04-28T03:22:18.215794+00:00
+
+ ## Your GitHub story in 3D - GitHub Skyline
+ - [https://skyline.github.com](https://skyline.github.com)
+ - date_published: 2023-10-25T14:44:56.097492+00:00
+
+ ## GitHub Social Impact
+ - [https://socialimpact.github.com](https://socialimpact.github.com)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## GitHub Stars: inspire, educate & influence developer communities
+ - [https://stars.github.com](https://stars.github.com)
+ - date_published: 2024-07-11T10:17:58+00:00
+
+ ## GitHub Status
+ - [https://status.github.com](https://status.github.com)
+ - date_published: 2024-05-12T07:00:31.112121+00:00
+
+ ## Sign in for Software Support and Product Help - GitHub Support
+ - [https://support.github.com](https://support.github.com)
+ - date_published: 2024-04-28T03:22:20.272116+00:00
+
+ ## GitHub Training Kit
+ - [https://training.github.com](https://training.github.com)
+ - date_published: 2024-05-04T08:04:32.988860+00:00
+
+ ## GitHub: Let’s build from here
+ - [https://uploads.github.com](https://uploads.github.com)
+ - date_published: 2024-05-11T09:11:21.393096+00:00
+
+ ## GitHub for VS Code
+ - [https://vscode-auth.github.com](https://vscode-auth.github.com)
+ - date_published: 2022-09-09T19:51:59+00:00
+
+ ## GitHub and VS Code
+ - [https://vscode.github.com](https://vscode.github.com)
+ - date_published: 2022-11-25T14:12:33+00:00
+
+ ## GitHub Desktop
+ - [https://windows.github.com](https://windows.github.com)
+ - date_published: 2024-05-07T11:04:17.519575+00:00
+
+ ## Issue Roulette
+ - [https://github2.com](https://github2.com)
+ - date_published: 2024-04-30T05:42:22.477195+00:00
+
+ ## Join the Gitroom Discord Server!
+ - [https://discord.github20k.com](https://discord.github20k.com)
+ - date_published: 2024-05-04T08:12:05.409598+00:00
+
+ ## Gitroom
+ - [https://github20k.com](https://github20k.com)
+ - date_published: 2024-06-20T07:10:13.221396+00:00
+
+ ## Gitroom - Repositories list
+ - [https://libraries.github20k.com](https://libraries.github20k.com)
+ - date_published: 2024-05-04T00:00:00+00:00
+
+ ## opengraph.githubassets.com (1200×630)
+ - [https://opengraph.githubassets.com](https://opengraph.githubassets.com)
+ - date_published: 2024-07-17T22:19:54.785345+00:00
+
+ ## bestalternativesreview.com/posts/best/2 at main · devinschumacher/bestalternativesreview.com
+ - [http://github-awards.com](http://github-awards.com)
+ - date_published: 2024-08-03T00:00:00+00:00
+
+ ## GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick
+ - [https://githubcopilotinvestigation.com](https://githubcopilotinvestigation.com)
+ - date_published: 2023-08-15T00:22:14+00:00
+
+ ## GitHub Copilot litigation ôñô Joseph Saveri Law Firmô & Matthew Butterick
+ - [https://githubcopilotlitigation.com](https://githubcopilotlitigation.com)
+ - date_published: 2023-10-25T14:45:00.133493+00:00
+
+ ## GitHub Explorer
+ - [https://github-e.com](https://github-e.com)
+ - date_published: 2017-02-02T12:31:20+00:00
+
+ ## GitHub Blocks
+ - [https://blocks.githubnext.com](https://blocks.githubnext.com)
+ - date_published: 2023-10-25T14:45:06.114880+00:00
+
+ ## GitHub Next
+ - [https://githubnext.com](https://githubnext.com)
+ - date_published: 2023-10-25T14:45:09.306656+00:00
+
+ ## Monaspace
+ - [https://monaspace.githubnext.com](https://monaspace.githubnext.com)
+ - date_published: 2023-11-09T20:16:34+00:00
+
+ ## GitHub Status
+ - [https://githubstatus.com](https://githubstatus.com)
+ - date_published: 2018-12-10T11:23:48+00:00
+ - tags: ['down detector']
+
+ ## GitHub Universe - November 8-9, 2023
+ - [https://githubuniverse.com](https://githubuniverse.com)
+ - date_published: 2023-10-25T14:45:13.916652+00:00
+
  ## GitHub: Let’s build from here
  - [https://avatars0.githubusercontent.com](https://avatars0.githubusercontent.com)
  - date_published: 2024-04-28T03:26:26.357857+00:00
@@ -3801,226 +4033,4 @@
  ## Civico – Powered by Sigma XI
  - [https://gocivico.com](https://gocivico.com)
  - date_published: 2024-10-19T04:00:59.807036+00:00
-
- ## Civil Air Patrol
- - [https://www.gocivilairpatrol.com](https://www.gocivilairpatrol.com)
- - date_published: 2024-06-17T16:26:43.312784+00:00
-
- ## Post Free Classifieds Ads Online Globally - Go Classifieds Ads
- - [https://www.goclassifiedsads.com](https://www.goclassifiedsads.com)
- - date_published: 2024-03-18T00:00:00+00:00
-
- ## Go Code Studio | Home
- - [https://demo.gocodestudio.com](https://demo.gocodestudio.com)
- - date_published: 2024-04-30T23:32:10+00:00
-
- ## Sign In
- - [https://gateway.gocollette.com](https://gateway.gocollette.com)
- - date_published: 2024-06-20T23:54:58.764494+00:00
-
- ## Today's Comics Online | Read Comic Strips at GoComics
- - [https://assets.gocomics.com](https://assets.gocomics.com)
- - date_published: 2024-05-13T03:23:09.246789+00:00
-
- ## Today's Comics Online | Read Comic Strips at GoComics
- - [https://gocomics.com](https://gocomics.com)
- - date_published: 2024-06-16T21:24:52.344459+00:00
- - tags: ['comic strips']
-
- ## Today's Comics Online | Read Comic Strips at GoComics
- - [https://home.assets.gocomics.com](https://home.assets.gocomics.com)
- - date_published: 2024-07-17T09:00:31.743121+00:00
-
- ## GoComics Store Comic art prints, calendars and humor books
- - [https://store.gocomics.com](https://store.gocomics.com)
- - date_published: 2024-05-13T03:23:12.566782+00:00
-
- ## Pardon Our Interruption
- - [https://www.gocompare.com](https://www.gocompare.com)
- - date_published: 2024-06-22T18:54:46.498265+00:00
-
- ## The Leading Demo Automation Platform | Consensus
- - [https://goconsensus.com](https://goconsensus.com)
- - date_published: 2024-07-20T00:00:00+00:00
-
- ## Consensus Demo Player
- - [https://play.goconsensus.com](https://play.goconsensus.com)
- - date_published: 2024-05-01T05:43:36.098329+00:00
-
- ## Go Cougs, Official Team Store of BYU Athletics
- - [https://www.gocougs.com](https://www.gocougs.com)
- - date_published: 2024-07-17T03:11:59.101925+00:00
-
- ## Cox Automotive EV Report
- - [https://gocoxauto.com](https://gocoxauto.com)
- - date_published: 2024-07-03T22:37:37.679759+00:00
-
- ## GoCreate - Home
- - [http://gocreate.com](http://gocreate.com)
- - date_published: 2024-07-04T14:28:54.924578+00:00
-
- ## Creighton University Athletics - Official Athletics Website
- - [https://gocreighton.com](https://gocreighton.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Harvard University - Official Athletics Website
- - [https://gocrimson.com](https://gocrimson.com)
- - date_published: 2024-06-08T06:24:48.642902+00:00
-
- ## Harvard Recreation
- - [https://membership.gocrimson.com](https://membership.gocrimson.com)
- - date_published: 2024-09-04T20:20:55.203606+00:00
-
- ## Credit Union of New Jersey - Auto Loans
- - [https://gocunj.com](https://gocunj.com)
- - date_published: 2024-07-10T04:55:07.045228+00:00
-
- ## Currency Financing
- - [https://app.gocurrency.com](https://app.gocurrency.com)
- - date_published: 2024-07-02T04:23:56+00:00
-
- ## Equipment & Aircraft Financing | Currency
- - [https://gocurrency.com](https://gocurrency.com)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Go Curry Cracker! - Retire Early. Travel the World.
- - [http://www.gocurrycracker.com](http://www.gocurrycracker.com)
- - date_published: 2024-06-09T00:00:00+00:00
-
- ## Zoltan Gocza - UX design leader
- - [https://gocza.com](https://gocza.com)
- - date_published: 2022-12-30T13:42:58+00:00
-
- ## GoDaddy Domain Auctions
- - [https://auctions.godaddy.com](https://auctions.godaddy.com)
- - date_published: 2024-06-16T05:48:44.003873+00:00
-
- ## Working at GoDaddy
- - [https://careers.godaddy.com](https://careers.godaddy.com)
- - date_published: 2024-05-06T22:20:03.987247+00:00
-
- ## GoDaddy - Prod - Sign In
- - [https://categories.api.godaddy.com](https://categories.api.godaddy.com)
- - date_published: 2024-09-09T16:25:46.469409+00:00
-
- ## Sign In
- - [https://certs.godaddy.com](https://certs.godaddy.com)
- - date_published: 2024-06-18T18:04:46.555670+00:00
-
- ## Sign In
- - [https://commerce.godaddy.com](https://commerce.godaddy.com)
- - date_published: 2024-06-18T18:05:11.328328+00:00
-
- ## GoDaddy Community
- - [https://community.godaddy.com](https://community.godaddy.com)
- - date_published: 2023-06-29T08:36:58+00:00
-
- ## Sign In
- - [https://dcc.godaddy.com](https://dcc.godaddy.com)
- - date_published: 2024-06-18T18:05:04.403093+00:00
-
- ## Sign In
- - [https://email.godaddy.com](https://email.godaddy.com)
- - date_published: 2024-06-18T18:04:43.698121+00:00
-
- ## Pakiet Marketing cyfrowy od GoDaddy pomoże Ci w promowaniu firmy online.
- - [https://gem.godaddy.com](https://gem.godaddy.com)
- - date_published: 2024-06-16T20:06:17.074399+00:00
-
- ## Check
- - [https://gui.godaddy.com](https://gui.godaddy.com)
- - date_published: 2024-06-18T18:05:13.129886+00:00
-
- ## Sign In
- - [https://hub.godaddy.com](https://hub.godaddy.com)
- - date_published: 2024-06-18T18:04:48.928554+00:00
-
- ## Sign In
- - [https://mya.godaddy.com](https://mya.godaddy.com)
- - date_published: 2024-06-18T18:05:18.306666+00:00
-
- ## Home - GoDaddy Photography Network
- - [https://photonetwork.godaddy.com](https://photonetwork.godaddy.com)
- - date_published: 2019-10-22T00:00:00+00:00
-
- ## GoDaddy Domain Auctions
- - [https://pl.auctions.godaddy.com](https://pl.auctions.godaddy.com)
- - date_published: 2024-10-13T22:28:54.014113+00:00
-
- ## Sign In
- - [https://productivity.godaddy.com](https://productivity.godaddy.com)
- - date_published: 2024-06-18T18:05:07.649194+00:00
-
- ## Sign In
- - [https://pro.godaddy.com](https://pro.godaddy.com)
- - date_published: 2024-06-18T18:05:20.692791+00:00
-
- ## Sign In
- - [https://sso.godaddy.com](https://sso.godaddy.com)
- - date_published: 2024-06-18T18:04:50.770768+00:00
-
- ## Home
- - [https://supportcenter.godaddy.com](https://supportcenter.godaddy.com)
- - date_published: 2024-06-28T08:37:02.726177+00:00
-
- ## Sign In
- - [https://venture-redirector.godaddy.com](https://venture-redirector.godaddy.com)
- - date_published: 2024-06-18T18:04:56.578365+00:00
-
- ## Build Your Own Website: Course Overview
- - [https://videos.godaddy.com](https://videos.godaddy.com)
- - date_published: 2024-06-28T08:37:11.006594+00:00
-
- ## Create Account
- - [https://websites.godaddy.com](https://websites.godaddy.com)
- - date_published: 2024-05-08T11:14:34.554406+00:00
-
- ## Johnny Macs Wood Fire Grill
- - [https://johnnymacswoodfiregrill.godaddysites.com](https://johnnymacswoodfiregrill.godaddysites.com)
- - date_published: 2024-06-29T23:15:39.173618+00:00
-
- ## Showcasing VisualPi
- - [https://visualpi.godaddysites.com](https://visualpi.godaddysites.com)
- - date_published: 2024-04-30T07:48:21.240533+00:00
-
- ## Podcasts -
- - [http://www.godandculture.com](http://www.godandculture.com)
- - date_published: 2023-05-06T19:49:50+00:00
-
- ## Home
- - [https://www.godandy.com](https://www.godandy.com)
- - date_published: 2024-02-08T16:44:47.514146+00:00
-
- ## Home
- - [https://www.stache.godandy.com](https://www.stache.godandy.com)
- - date_published: 2024-05-04T08:18:14.378523+00:00
-
- ## godanriver.com | Read Danville, VA and Virginia breaking news. Get latest news, events and information on Virginia sports, weather, entertainment and lifestyles.
- - [https://www.godanriver.com](https://www.godanriver.com)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Attention Required! | Cloudflare
- - [https://godawards.com](https://godawards.com)
- - date_published: 2024-09-10T11:51:38.576685+00:00
-
- ## Goddamn Electric Bill
- - [https://store.goddamnelectricbill.com](https://store.goddamnelectricbill.com)
- - date_published: 2024-05-04T00:00:00+00:00
-
- ## Goddamn Electric Bill – Ambient Electronica from San Diego, California
- - [https://www.goddamnelectricbill.com](https://www.goddamnelectricbill.com)
- - date_published: 2023-12-23T02:59:42.426245+00:00
- - tags: ['personal']
-
- ## Medical Device Product Development - Goddard Tech
- - [https://goddardtech.com](https://goddardtech.com)
- - date_published: 2024-06-10T13:09:26.449080+00:00
-
- ## Wake Forest University Athletics - Official Athletics Website
- - [https://godeacs.com](https://godeacs.com)
- - date_published: 2024-07-02T14:05:58.885478+00:00
-
- ## GoDeal24 - Best Keys, Game Cards and Software Deals!
- - [https://pt.godeal24.com](https://pt.godeal24.com)
- - date_published: 2024-09-05T15:25:27.330424+00:00
 

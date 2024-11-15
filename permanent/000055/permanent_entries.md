@@ -1,3 +1,67 @@
+ ## Law Diary
+ - [http://3ldiary.blogspot.com](http://3ldiary.blogspot.com)
+ - date_published: 2024-03-13T16:45:50+00:00
+
+ ## Southern California Businesses
+ - [http://3shadesofpaint.blogspot.com](http://3shadesofpaint.blogspot.com)
+ - date_published: 2024-08-30T17:21:43+00:00
+
+ ## 40.000 Barricadas
+ - [http://40000barricadas.blogspot.com](http://40000barricadas.blogspot.com)
+ - date_published: 2024-09-22T19:15:15+00:00
+
+ ## 40k Armageddon
+ - [http://40karmageddon.blogspot.com](http://40karmageddon.blogspot.com)
+ - date_published: 2024-09-14T14:14:58+00:00
+
+ ## Warhammer 40k Art + More
+ - [http://40kart.blogspot.com](http://40kart.blogspot.com)
+ - date_published: 2024-10-25T04:48:39+00:00
+
+ ## DA MOONZ WAAGH
+ - [http://40kbadmoonz.blogspot.com](http://40kbadmoonz.blogspot.com)
+ - date_published: 2024-10-07T03:42:36+00:00
+
+ ## 40K Battle Report Blog
+ - [http://40kbattlereports.blogspot.com](http://40kbattlereports.blogspot.com)
+ - date_published: 2024-08-28T17:43:41+00:00
+
+ ## 40kChaos
+ - [https://40k-chaos.blogspot.com](https://40k-chaos.blogspot.com)
+ - date_published: 2024-08-29T11:05:39+00:00
+
+ ## Random musings of a gamer
+ - [http://40kfelix.blogspot.com](http://40kfelix.blogspot.com)
+ - date_published: 2024-10-25T00:58:49+00:00
+
+ ## 40k The Last Heretic
+ - [http://40k-heresy.blogspot.com](http://40k-heresy.blogspot.com)
+ - date_published: 2024-08-30T06:06:51+00:00
+
+ ## The 40k Hobbiest
+ - [http://40khobbiest.blogspot.com](http://40khobbiest.blogspot.com)
+ - date_published: 2024-10-24T12:21:19+00:00
+
+ ## 40k Hobby Blog
+ - [http://40khobbyblog.blogspot.com](http://40khobbyblog.blogspot.com)
+ - date_published: 2024-06-18T08:38:00+00:00
+
+ ## 40k in the Gaps
+ - [http://40kinthegaps.blogspot.com](http://40kinthegaps.blogspot.com)
+ - date_published: 2024-10-03T10:58:00+00:00
+
+ ## Maunderings of a 40K Gamer
+ - [http://40kmaunderings.blogspot.com](http://40kmaunderings.blogspot.com)
+ - date_published: 2024-03-19T08:47:55+00:00
+
+ ## The 40k n00b: Warhammer 40k Blog Network
+ - [http://40kn00b.blogspot.com](http://40kn00b.blogspot.com)
+ - date_published: 2024-08-31T14:34:40+00:00
+
+ ## 40K Neophyte
+ - [http://40kneophyte.blogspot.com](http://40kneophyte.blogspot.com)
+ - date_published: 2024-10-09T05:32:27+00:00
+
  ## [Warhammer40k Malaysia] Beginner Spoon Feeding Guide
  - [http://40knoobtonoob.blogspot.com](http://40knoobtonoob.blogspot.com)
  - date_published: 2024-09-22T12:21:23+00:00
@@ -3947,68 +4011,4 @@
  ## BibliOdyssey
  - [http://bibliodyssey.blogspot.com](http://bibliodyssey.blogspot.com)
  - date_published: 2024-06-14T17:53:19+00:00
-
- ## Bibliopolitan: Brief Notes on Books
- - [http://bibliopolitan.blogspot.com](http://bibliopolitan.blogspot.com)
- - date_published: 2024-08-16T01:07:30+00:00
-
- ## Large Scale Machine Learning and Other Animals
- - [http://bickson.blogspot.com](http://bickson.blogspot.com)
- - date_published: 2024-06-22T06:33:11+00:00
-
- ## Bicycle Perth
- - [http://bicycleperth.blogspot.com](http://bicycleperth.blogspot.com)
- - date_published: 2024-08-14T06:28:17+00:00
-
- ## Bid for Freedom!
- - [http://bidforfreedom.blogspot.com](http://bidforfreedom.blogspot.com)
- - date_published: 2024-10-21T14:43:40.156738+00:00
-
- ## Big Bad Bald Bastard
- - [http://bigbadbaldbastard.blogspot.com](http://bigbadbaldbastard.blogspot.com)
- - date_published: 2024-06-18T18:08:37+00:00
-
- ## Big Ball of No Fun
- - [https://bigballofnofun.blogspot.com](https://bigballofnofun.blogspot.com)
- - date_published: 2017-08-31T00:00:00+00:00
-
- ## Big Beat From Badsville
- - [http://bigbeatfrombadsville.blogspot.com](http://bigbeatfrombadsville.blogspot.com)
- - date_published: 2024-07-20T07:28:09+00:00
-
- ## BigCityLib Strikes Back
- - [http://bigcitylib.blogspot.com](http://bigcitylib.blogspot.com)
- - date_published: 2024-06-29T10:15:15+00:00
-
- ## BigDungeon
- - [http://bigdungeon.blogspot.com](http://bigdungeon.blogspot.com)
- - date_published: 2024-07-06T08:13:13+00:00
-
- ## Big Education Ape
- - [http://bigeducationape.blogspot.com](http://bigeducationape.blogspot.com)
- - date_published: 2024-06-20T17:51:37+00:00
-
- ## Bigfoot Evidence
- - [http://bigfootevidence.blogspot.com](http://bigfootevidence.blogspot.com)
- - date_published: 2024-10-31T12:23:30+00:00
-
- ## The BigRedBatCave
- - [https://bigredbat.blogspot.com](https://bigredbat.blogspot.com)
- - date_published: 2024-07-18T11:36:19+00:00
-
- ## Big Rock Candy Mountain
- - [http://bigrockcandymountain.blogspot.com](http://bigrockcandymountain.blogspot.com)
- - date_published: 2024-03-13T19:36:22+00:00
-
- ## Hollywood Hologram - Programming in the Stars
- - [http://bigscreendeception.blogspot.com](http://bigscreendeception.blogspot.com)
- - date_published: 2024-09-05T22:26:51+00:00
-
- ## Resin armor large scale 1:15 - 1/16
- - [http://bigtank120.blogspot.com](http://bigtank120.blogspot.com)
- - date_published: 2024-10-22T07:32:36+00:00
-
- ## The Bike-sharing Blog
- - [http://bike-sharing.blogspot.com](http://bike-sharing.blogspot.com)
- - date_published: 2024-09-10T12:54:24+00:00
 

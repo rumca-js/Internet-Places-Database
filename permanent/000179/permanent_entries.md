@@ -1,3 +1,324 @@
+ ## Full-Stack SaaS Boilerplate for Next.js - SaaSBold Demo
+ - [https://demo.saasbold.com](https://demo.saasbold.com)
+ - date_published: 2024-01-15T00:00:00+00:00
+
+ ## Introduction | SaaSBold Docs
+ - [https://docs.saasbold.com](https://docs.saasbold.com)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Best Full-Stack SaaS Boilerplate and Starter Kit - SaaSBold
+ - [https://saasbold.com](https://saasbold.com)
+ - date_published: 2024-05-09T08:38:23.481962+00:00
+
+ ## SaaS Bookshelf - Best Books for SaaS Founders & Entrepreneurs
+ - [https://saasbookshelf.com](https://saasbookshelf.com)
+ - date_published: 2022-12-04T18:20:23+00:00
+
+ ## SaaS Brief
+ - [https://www.saasbrief.com](https://www.saasbrief.com)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## SaaS Business Ideas - Explore Free Ideas Online for Entrepreneurs
+ - [https://saasbusinessideas.com](https://saasbusinessideas.com)
+ - date_published: 2024-06-20T07:17:35.943692+00:00
+
+ ## Data Driven Core Banking SaaS Solutions - SaaScada
+ - [https://www.saascada.com](https://www.saascada.com)
+ - date_published: 2024-09-13T00:00:00+00:00
+
+ ## SaaS Chatbots - AI Customer Support Chatbots
+ - [https://saaschatbots.com](https://saaschatbots.com)
+ - date_published: 2024-06-20T07:24:30.198046+00:00
+
+ ## Custom domains & white-labelling for SaaS
+ - [https://saascustomdomains.com](https://saascustomdomains.com)
+ - date_published: 2024-08-19T17:53:29.352631+00:00
+
+ ## SaaSenomics | Accurate cost effective SaaS accounting
+ - [https://www.saasenomics.com](https://www.saasenomics.com)
+ - date_published: 2024-09-04T11:58:56.108419+00:00
+
+ ## Welcome to nginx!
+ - [https://sensors.saasexch.com](https://sensors.saasexch.com)
+ - date_published: 2022-04-15T11:15:31+00:00
+
+ ## SaasFrontends - Remix, React, Svelte and Vue SaaS boilerplates.
+ - [https://saasfrontends.com](https://saasfrontends.com)
+ - date_published: 2024-07-10T11:13:20.252368+00:00
+
+ ## React SaasFrontend
+ - [https://sandbox.react.saasfrontends.com](https://sandbox.react.saasfrontends.com)
+ - date_published: 2024-07-10T11:13:54.914540+00:00
+
+ ## Svelte SaasFrontend
+ - [https://sandbox.svelte.saasfrontends.com](https://sandbox.svelte.saasfrontends.com)
+ - date_published: 2024-07-10T11:14:56.069878+00:00
+
+ ## Vue2 SaasFrontend
+ - [https://sandbox.vue2.saasfrontends.com](https://sandbox.vue2.saasfrontends.com)
+ - date_published: 2024-07-10T11:13:54.074465+00:00
+
+ ## Vue3 SaasFrontend
+ - [https://sandbox.vue3.saasfrontends.com](https://sandbox.vue3.saasfrontends.com)
+ - date_published: 2024-07-10T11:13:39.181674+00:00
+
+ ## SaaS Gems | SaaS Directory Network
+ - [https://saasgems.com](https://saasgems.com)
+ - date_published: 2024-06-20T07:23:49.193575+00:00
+
+ ## SaaS Hammer Documents | SaaS Hammer Documents
+ - [https://docs.saashammer.com](https://docs.saashammer.com)
+ - date_published: 2024-04-28T06:08:36.172910+00:00
+
+ ## The Django SaaS Template | SaaS Hammer
+ - [https://saashammer.com](https://saashammer.com)
+ - date_published: 2024-01-25T00:38:35.543603+00:00
+
+ ## Log in
+ - [https://secure4.saashr.com](https://secure4.saashr.com)
+ - date_published: 2024-07-01T21:47:28.619864+00:00
+
+ ## SaaSHub - Software Alternatives And Reviews
+ - [https://saashub.com](https://saashub.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## SaaSicorn Has Moved (and Rebranded)
+ - [https://saasicorn.com](https://saasicorn.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Saas Interface
+ - [https://saasinterface.com](https://saasinterface.com)
+ - date_published: 2024-07-18T23:05:06.406034+00:00
+
+ ## SaaS Landing Page
+ - [https://saaslandingpage.com](https://saaslandingpage.com)
+ - date_published: 2024-06-23T03:22:36.423085+00:00
+
+ ## Website 01win.net is ready. The content is to be added
+ - [https://saaslandwp.com](https://saaslandwp.com)
+ - date_published: 2024-04-30T02:02:52.315027+00:00
+
+ ## Saasler
+ - [https://engine.saasler.com](https://engine.saasler.com)
+ - date_published: 2024-07-04T16:00:15.995492+00:00
+
+ ## SaaSletter | Matt Harney | Substack
+ - [https://www.saasletter.com](https://www.saasletter.com)
+ - date_published: 2024-06-17T14:56:57.512891+00:00
+
+ ## The biggest SaaS event in central Europe
+ - [https://www.saasmovement.com](https://www.saasmovement.com)
+ - date_published: 2024-07-15T11:39:42.226812+00:00
+
+ ## Brandable SaaS & Startup Domain Names - SaaS Names
+ - [https://saasnames.com](https://saasnames.com)
+ - date_published: 2024-06-20T07:17:28.746514+00:00
+
+ ## The Only Full-Stack Identity & Access Management Solution
+ - [http://saaspas.com](http://saaspas.com)
+ - date_published: 2023-11-09T19:32:58+00:00
+
+ ## saaspass
+ - [https://blog.saaspass.com](https://blog.saaspass.com)
+ - date_published: 2024-05-01T06:42:47.845002+00:00
+
+ ## SAASPASS API Reference
+ - [https://developer.saaspass.com](https://developer.saaspass.com)
+ - date_published: 2023-12-21T11:43:22+00:00
+
+ ## The Only Full-Stack Identity & Access Management Solution
+ - [https://saaspass.com](https://saaspass.com)
+ - date_published: 2023-11-09T19:32:58+00:00
+
+ ## Pegasus documentation
+ - [https://docs.saaspegasus.com](https://docs.saaspegasus.com)
+ - date_published: 2024-04-02T00:00:00+00:00
+
+ ## SaaS Pegasus | The Django SaaS Boilerplate
+ - [https://saaspegasus.com](https://saaspegasus.com)
+ - date_published: 2023-10-25T16:56:04.837214+00:00
+
+ ## The SaaS Playbook
+ - [https://saasplaybook.com](https://saasplaybook.com)
+ - date_published: 2024-06-26T14:13:52.125106+00:00
+
+ ## SaaS Prompts - 500+ ChatGPT Prompts for SaaS
+ - [https://saasprompts.com](https://saasprompts.com)
+ - date_published: 2024-06-20T07:23:35.811697+00:00
+
+ ## SaaS Roastery :: Best SaaS products, from all around the world, on sale! ::
+ - [https://saasroastery.com](https://saasroastery.com)
+ - date_published: 2024-07-13T05:16:35.452889+00:00
+
+ ## SaasRock Demo {Core} | The SaaS Building Framework
+ - [https://demo.saasrock.com](https://demo.saasrock.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## SaasRock | The SaaS Building Framework
+ - [https://dev.saasrock.com](https://dev.saasrock.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## SaasRock Demo {Enterprise}
+ - [https://enterprise.saasrock.com](https://enterprise.saasrock.com)
+ - date_published: 2024-01-02T00:00:00+00:00
+
+ ## SaasRock KB
+ - [https://kb.saasrock.com](https://kb.saasrock.com)
+ - date_published: 2024-07-10T11:13:43.315755+00:00
+
+ ## SaasRock | The Remix SaaS Boilerplate
+ - [https://saasrock.com](https://saasrock.com)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Curating tools for developers, designers, and makers
+ - [https://saassurf.com](https://saassurf.com)
+ - date_published: 2024-07-09T19:43:54.945013+00:00
+
+ ## More Good Reviews - Boost your reputation with more good reviews
+ - [https://saastic.com](https://saastic.com)
+ - date_published: 2024-10-30T19:56:27+00:00
+
+ ## Download the ultimate guide for all your SaaS questions.
+ - [https://quora.saastr.com](https://quora.saastr.com)
+ - date_published: 2024-04-28T06:09:32.405873+00:00
+
+ ## SaaStr | B2B SaaS Training, Events & More to Scale Your Business
+ - [https://saastr.com](https://saastr.com)
+ - date_published: 2024-08-06T19:31:49.737514+00:00
+
+ ## Download the ultimate guide for going from idea to traction.
+ - [https://traction.saastr.com](https://traction.saastr.com)
+ - date_published: 2024-04-28T06:09:15.886275+00:00
+
+ ## SaaStr AI Day | September 11, 2024
+ - [https://www.saastrai.com](https://www.saastrai.com)
+ - date_published: 2024-06-22T23:33:46.956960+00:00
+
+ ## SaaStr Annual 2024 | Where The Cloud Meets
+ - [https://saastrannual.com](https://saastrannual.com)
+ - date_published: 2024-04-28T06:09:12.370870+00:00
+
+ ## SaaStr Annual 2016
+ - [http://www.saastrannual2016.com](http://www.saastrannual2016.com)
+ - date_published: 2017-09-29T00:00:00+00:00
+
+ ## SaaStr Annual 2018 | The Biggest SaaS Event on the Planet
+ - [https://www.saastrannual2018.com](https://www.saastrannual2018.com)
+ - date_published: 2018-05-24T00:00:00+00:00
+
+ ## SaaStr Annual 2019
+ - [https://www.saastrannual2019.com](https://www.saastrannual2019.com)
+ - date_published: 2024-08-06T19:30:14.894922+00:00
+
+ ## SaaStr Annual @ Home | Where The Cloud Meets | Sep 2-3, 2020
+ - [https://www.saastrannual2020.com](https://www.saastrannual2020.com)
+ - date_published: 2024-08-06T19:30:16.546229+00:00
+
+ ## SaaStr Annual 2022 | Where The Cloud Meets
+ - [https://www.saastrannual2022.com](https://www.saastrannual2022.com)
+ - date_published: 2024-08-06T19:30:28.998923+00:00
+
+ ## SaaStr Annual 2023 | Where The Cloud Meets
+ - [https://saastrannual2023.com](https://saastrannual2023.com)
+ - date_published: 2024-04-28T06:09:29.360455+00:00
+
+ ## SaaStr Annual 2024 | Where The Cloud Meets
+ - [https://saastrannual2024.com](https://saastrannual2024.com)
+ - date_published: 2024-04-28T06:10:26.835126+00:00
+
+ ## SaaStr APAC 2023
+ - [https://saastrapac.com](https://saastrapac.com)
+ - date_published: 2024-08-06T19:32:19.301274+00:00
+
+ ## SaaStr APAC 2023
+ - [https://saastreast.com](https://saastreast.com)
+ - date_published: 2024-04-28T06:09:31.342453+00:00
+
+ ## SaaStr Europa 2024 | June 4-5, London
+ - [https://saastreuropa.com](https://saastreuropa.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+ - tags: ['convention', 'saas']
+
+ ## SaaStr Europa 2018
+ - [https://www.saastreuropa2018.com](https://www.saastreuropa2018.com)
+ - date_published: 2024-09-04T11:59:04.892517+00:00
+
+ ## SaaStr Europa 2022
+ - [https://www.saastreuropa2022.com](https://www.saastreuropa2022.com)
+ - date_published: 2024-09-04T11:58:58.642746+00:00
+
+ ## SaaStr Europa 2024 | June 4-5, London
+ - [https://www.saastreuropa2024.com](https://www.saastreuropa2024.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## SaaStr Fund / 2024
+ - [http://saastrfund.com](http://saastrfund.com)
+ - date_published: 2024-04-28T06:09:13.863353+00:00
+
+ ## SaaStr Europa 2024 | June 4-5, London
+ - [https://www.saastrlondon.com](https://www.saastrlondon.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## SaaStr Money | The Latest in Finance, Fintech & Funding | July 13-14, 2021
+ - [https://saastrmoney.com](https://saastrmoney.com)
+ - date_published: 2024-04-28T06:10:04.115576+00:00
+
+ ## SaaStr PRO
+ - [https://saastrpro.com](https://saastrpro.com)
+ - date_published: 2024-04-28T06:09:46.689501+00:00
+
+ ## SaaStr Scale | Dec 07, 2022
+ - [https://saastrscale.com](https://saastrscale.com)
+ - date_published: 2024-04-28T06:09:17.509242+00:00
+
+ ## SaaStr | Scale 2019
+ - [https://www.saastrscale2019.com](https://www.saastrscale2019.com)
+ - date_published: 2024-08-06T19:34:45.953247+00:00
+
+ ## SaaStr Scale | More Revenue. More Quickly| Dec 9, 2020
+ - [https://www.saastrscale2020.com](https://www.saastrscale2020.com)
+ - date_published: 2024-08-06T19:34:39.501305+00:00
+
+ ## SaaStr Scale | Dec 07, 2022
+ - [https://www.saastrscale2022.com](https://www.saastrscale2022.com)
+ - date_published: 2024-08-06T19:34:37.648694+00:00
+
+ ## SaaStr University
+ - [https://app.saastruniversity.com](https://app.saastruniversity.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## SaaStr University
+ - [https://saastruniversity.com](https://saastruniversity.com)
+ - date_published: 2024-04-27T00:00:00+00:00
+
+ ## Saasufy - The no-code/low-code app platform
+ - [https://saasufy.com](https://saasufy.com)
+ - date_published: 2024-06-28T16:50:56+00:00
+
+ ## SaaSworthy | Top Business Software and Reviews
+ - [https://www.saasworthy.com](https://www.saasworthy.com)
+ - date_published: 2024-05-06T20:46:50.894816+00:00
+
+ ## A Marketing Hub for Tech Companies.
+ - [https://www.saaswrites.com](https://www.saaswrites.com)
+ - date_published: 2024-05-06T12:59:43.933550+00:00
+
+ ## Canvas: A Blog By Saatchi Art
+ - [https://canvas.saatchiart.com](https://canvas.saatchiart.com)
+ - date_published: 2024-08-05T22:00:09.151203+00:00
+
+ ## Artwork: Buy Original Art Online, Paintings & More
+ - [https://saatchiart.com](https://saatchiart.com)
+ - date_published: 2024-04-29T04:12:26.834266+00:00
+
+ ## Help Center
+ - [https://support.saatchiart.com](https://support.saatchiart.com)
+ - date_published: 2024-08-05T22:01:18.981984+00:00
+
+ ## Saatchi Intranet
+ - [https://intranet.saatchigallery.com](https://intranet.saatchigallery.com)
+ - date_published: 2024-06-17T19:47:09.643560+00:00
+
  ## Welcome to Saatchi Gallery London
  - [https://saatchigallery.com](https://saatchigallery.com)
  - date_published: 2024-03-04T00:00:00+00:00
@@ -3710,326 +4031,4 @@
  ## E-learning platform | Santander Open Academy
  - [https://www.santanderopenacademy.com](https://www.santanderopenacademy.com)
  - date_published: 2024-09-27T12:41:41+00:00
-
- ## Santander Private Banking Home - Global
- - [https://www.santanderprivatebanking.com](https://www.santanderprivatebanking.com)
- - date_published: 2024-06-16T09:16:06.600600+00:00
-
- ## Santander Trade
- - [https://santandertrade.com](https://santandertrade.com)
- - date_published: 2024-09-28T23:59:22.618277+00:00
-
- ## Santander X - La comunidad global de emprendimiento de Banco Santander
- - [https://app.santanderx.com](https://app.santanderx.com)
- - date_published: 2024-09-23T10:20:17+00:00
-
- ## Santander X
- - [https://www.santanderx.com](https://www.santanderx.com)
- - date_published: 2024-09-27T12:31:23+00:00
-
- ## Santarchy, A Global Directory of Santacon Events
- - [http://santarchy.com](http://santarchy.com)
- - date_published: 2024-06-24T05:45:31.727351+00:00
-
- ## Santec Holdings Corporation - The Photonics Pioneer
- - [http://www.santec.com](http://www.santec.com)
- - date_published: 2024-07-03T22:56:39+00:00
-
- ## Santé - Liquor Store POS
- - [https://santehq.com](https://santehq.com)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Santiago Barreda (Castañón) -
- - [https://santiagobarreda.com](https://santiagobarreda.com)
- - date_published: 2024-06-09T20:26:29+00:00
-
- ## Santiago Pastorino
- - [https://santiagopastorino.com](https://santiagopastorino.com)
- - date_published: 2024-04-29T07:34:05.076534+00:00
-
- ## Santigold 'Spirituals' Releases 9/9/22
- - [https://santigold.com](https://santigold.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Página principal   | Santillana
- - [https://edupack.santillana.com](https://edupack.santillana.com)
- - date_published: 2024-09-12T21:55:45.139745+00:00
-
- ## Login - Santillana
- - [https://estela.santillana.com](https://estela.santillana.com)
- - date_published: 2024-06-12T12:53:33.969546+00:00
-
- ## Home 2023 - Informes corporativos - Santillana
- - [https://informes.santillana.com](https://informes.santillana.com)
- - date_published: 2024-05-16T08:06:35+00:00
-
- ## SANTILLANA LATINOAMÉRICA| Editorial y Servicios educativos
- - [https://santillana.com](https://santillana.com)
- - date_published: 2024-06-12T13:02:33.550638+00:00
-
- ## Santillana Plataforma Educativa – Login
- - [https://spe.santillana.com](https://spe.santillana.com)
- - date_published: 2024-09-13T11:32:31.482023+00:00
-
- ## #VoyaSer – Un programa de transformación social educativa
- - [https://voyaser.santillana.com](https://voyaser.santillana.com)
- - date_published: 2024-02-05T00:00:00+00:00
-
- ## Apps Frontend
- - [https://apps.santillanacompartir.com](https://apps.santillanacompartir.com)
- - date_published: 2024-08-07T07:52:56+00:00
-
- ## Inicio - Santillana Global
- - [https://santillanacompartir.com](https://santillanacompartir.com)
- - date_published: 2024-03-19T00:00:00+00:00
-
- ## Login - Santillana
- - [https://identity.santillanaconnect.com](https://identity.santillanaconnect.com)
- - date_published: 2024-06-12T12:53:42.577066+00:00
-
- ## Identity Provider
- - [https://www.santillanaconnect.com](https://www.santillanaconnect.com)
- - date_published: 2024-07-02T09:05:00+00:00
-
- ## Santillana Familias – Un espacio creado para ti, donde encontrarás información sobre el proceso de compra online, activación de códigos de acceso, horarios de atención, puntos de venta y mucho más. ¡Todo lo que necesitas saber para estar informado por campaña escolar!
- - [http://santillanafamilias.com](http://santillanafamilias.com)
- - date_published: 2024-09-13T10:41:16.615859+00:00
-
- ## Accueil - Santillana Français
- - [http://www.santillanafrancais.com](http://www.santillanafrancais.com)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Santillana Transforma
- - [https://santillanatransforma.com](https://santillanatransforma.com)
- - date_published: 2024-08-09T23:56:26+00:00
-
- ## Vista Higher Learning
- - [http://www.santillanausa.com](http://www.santillanausa.com)
- - date_published: 2024-09-12T21:12:44.959341+00:00
-
- ## Santi Younger
- - [https://santiyounger.com](https://santiyounger.com)
- - date_published: 2023-12-17T16:42:23.109435+00:00
- - tags: ['personal']
-
- ## SANTONIAN Industries
- - [https://www.santonianindustries.com](https://www.santonianindustries.com)
- - date_published: 2024-10-25T10:54:59.759392+00:00
-
- ## Santuari el Miracle
- - [http://santuarielmiracle.com](http://santuarielmiracle.com)
- - date_published: 2024-09-17T21:14:34.895542+00:00
-
- ## Sanwa-America | Multimeters, Clamp Meters, Voltage Testers Light Meter
- - [https://www.sanwa-america.com](https://www.sanwa-america.com)
- - date_published: 2024-07-15T04:13:04.948904+00:00
-
- ## 撮影-照明-特機レンタル・ポスプロ | 三和グループ - 三和映材社・三和プロライト・ProCam Inc. (東京・大阪・京都・韓国)
- - [http://www.sanwa-group.com](http://www.sanwa-group.com)
- - date_published: 2024-07-02T07:22:33+00:00
-
- ## SANWA Technologies
- - [http://www.sanwa-us.com](http://www.sanwa-us.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## psiyum – GoatCounter
- - [https://gc.sanyamkapoor.com](https://gc.sanyamkapoor.com)
- - date_published: 2024-09-04T03:42:54.892306+00:00
-
- ## About
- - [https://sanyamkapoor.com](https://sanyamkapoor.com)
- - date_published: 2020-06-07T03:02:00+00:00
-
- ## Sanyam Kapoor, Inc. status
- - [https://status.sanyamkapoor.com](https://status.sanyamkapoor.com)
- - date_published: 2024-09-04T03:42:55.722159+00:00
-
- ## 青岛三益塑料机械有限公司
- - [http://www.sanyisj.com](http://www.sanyisj.com)
- - date_published: 2024-06-28T17:13:54.196431+00:00
-
- ## Reclaim Hosting
- - [http://saoicht.com](http://saoicht.com)
- - date_published: 2016-12-30T13:26:36+00:00
-
- ## Swagger UI
- - [https://playerbeta.octopus.saooti.com](https://playerbeta.octopus.saooti.com)
- - date_published: 1970-01-01T00:00:01+00:00
-
- ## SAP ID Service: Log On
- - [https://accounts.sap.com](https://accounts.sap.com)
- - date_published: 2024-07-14T21:32:07.196792+00:00
-
- ## SAP Community
- - [https://answers.sap.com](https://answers.sap.com)
- - date_published: 2024-07-14T21:32:00.171369+00:00
-
- ## All SAP Community Blogs | SAP Community
- - [https://blogs.sap.com](https://blogs.sap.com)
- - date_published: 2024-07-14T21:32:02.074845+00:00
-
- ## SAP Community
- - [https://community.sap.com](https://community.sap.com)
- - date_published: 2024-05-12T04:01:03.964874+00:00
-
- ## Customer experience (CX) and customer relationship management
- - [https://cx.sap.com](https://cx.sap.com)
- - date_published: 2024-02-27T00:00:00+00:00
-
- ## Digital Library
- - [https://dam.sap.com](https://dam.sap.com)
- - date_published: 1980-01-01T00:00:00+00:00
-
- ## SAP Developer Center | Official Resources for SAP Developers
- - [https://developers.sap.com](https://developers.sap.com)
- - date_published: 2024-05-12T04:01:05.170232+00:00
-
- ## SAP Events
- - [http://events.sap.com](http://events.sap.com)
- - date_published: 2024-07-14T21:32:06.150826+00:00
-
- ## SAP Community
- - [https://groups.community.sap.com](https://groups.community.sap.com)
- - date_published: 2024-07-14T21:31:31.189814+00:00
-
- ## SAP Help Portal
- - [https://help.sap.com](https://help.sap.com)
- - date_published: 2024-05-08T04:29:48.985394+00:00
-
- ## SAP Business Accelerator Hub
- - [https://hub.sap.com](https://hub.sap.com)
- - date_published: 2024-05-09T08:44:13.892091+00:00
-
- ## SAP Insights
- - [https://insights.sap.com](https://insights.sap.com)
- - date_published: 2024-07-14T21:31:22.729054+00:00
-
- ## Jobs at SAP | SAP Careers
- - [https://jobs.sap.com](https://jobs.sap.com)
- - date_published: 2024-04-29T06:57:09.835280+00:00
-
- ## Learn SAP skills | SAP Learning
- - [https://learning.sap.com](https://learning.sap.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## SAP for Me - Your digital companion along your whole SAP customer journey
- - [https://me.sap.com](https://me.sap.com)
- - date_published: 2024-07-11T09:34:46+00:00
-
- ## SAP News Center
- - [https://news.sap.com](https://news.sap.com)
- - date_published: 2024-05-12T04:01:01.264197+00:00
-
- ## Browse Topics | SAP Community
- - [https://pages.community.sap.com](https://pages.community.sap.com)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## SAP Partner Portal | welcome
- - [https://partneredge.sap.com](https://partneredge.sap.com)
- - date_published: 2024-03-21T00:00:00+00:00
-
- ## SAP Software Solutions | Business Applications and Technology
- - [https://sap.com](https://sap.com)
- - date_published: 2024-01-01T00:00:00+00:00
- - tags: ['erp']
-
- ## SAP Community
- - [http://scn.sap.com](http://scn.sap.com)
- - date_published: 2024-07-10T05:26:08.432712+00:00
-
- ## SAP Store | Buy Online from the Digital SAP Marketplace
- - [https://store.sap.com](https://store.sap.com)
- - date_published: 2024-10-30T19:11:07.584707+00:00
-
- ## SAP Support Portal Home
- - [https://support.sap.com](https://support.sap.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## SAPUI5 SDK - Demo Kit
- - [https://ui5.sap.com](https://ui5.sap.com)
- - date_published: 2024-06-18T14:18:14+00:00
-
- ## SAP Help Portal
- - [https://wiki.scn.sap.com](https://wiki.scn.sap.com)
- - date_published: 2024-07-12T21:14:30+00:00
-
- ## Sapan Bodiwala
- - [https://sapanbodiwala.com](https://sapanbodiwala.com)
- - date_published: 2024-05-11T10:21:38.816207+00:00
-
- ## Sapcoi Holdings LLC - Official Site
- - [https://sapcoi.com](https://sapcoi.com)
- - date_published: 2024-10-30T15:26:04+00:00
-
- ## SAP Software Solutions | Business Applications and Technology
- - [http://www.sapdatacenter.com](http://www.sapdatacenter.com)
- - date_published: 2024-10-19T15:04:29.947201+00:00
-
- ## SAP Fioneer | World-class software solutions for financial services
- - [https://www.sapfioneer.com](https://www.sapfioneer.com)
- - date_published: 2024-10-31T10:00:06+00:00
-
- ## SaphirNews.com | Quotidien d'actualité | Islam et Musulmans de France
- - [http://www.saphirnews.com](http://www.saphirnews.com)
- - date_published: 2024-10-21T18:17:11.742362+00:00
-
- ## Sapien
- - [https://sapienphp.com](https://sapienphp.com)
- - date_published: 2022-02-25T21:13:11+00:00
-
- ## Publicis Sapient | Digital Business Transformation & Consulting
- - [http://www.sapientnitro.com](http://www.sapientnitro.com)
- - date_published: 2024-10-30T12:09:54+00:00
-
- ## SapkowskiBooks.com - Discover & Buy The Witcher books from Sapkowski
- - [https://sapkowskibooks.com](https://sapkowskibooks.com)
- - date_published: 2023-11-13T12:57:51.679449+00:00
-
- ## Sapling from Meta | Sapling
- - [https://sapling-scm.com](https://sapling-scm.com)
- - date_published: 2024-07-23T21:54:09.199687+00:00
-
- ## SaponiQx: Increasing Access to Vaccines
- - [https://saponiqx.com](https://saponiqx.com)
- - date_published: 2024-10-16T18:59:06.769917+00:00
-
- ## Sapos y Princesas: Artículos, actividades y planes en familia
- - [https://saposyprincesas.com](https://saposyprincesas.com)
- - date_published: 2024-07-09T00:00:00+00:00
-
- ## Sappharad.com - Projects
- - [https://projects.sappharad.com](https://projects.sappharad.com)
- - date_published: 2021-09-03T01:16:17+00:00
-
- ## S365 MRF Hub
- - [https://healthcomp.sapphiremrfhub.com](https://healthcomp.sapphiremrfhub.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Sapphire Swan
- - [http://www.sapphireswan.com](http://www.sapphireswan.com)
- - date_published: 2010-01-16T07:28:36+00:00
-
- ## Sapphire Ventures
- - [https://sapphireventures.com](https://sapphireventures.com)
- - date_published: 2024-09-04T00:00:00+00:00
-
- ## Novotalk - talk for life
- - [http://sappi.com](http://sappi.com)
- - date_published: 2023-06-13T07:57:36+00:00
-
- ## Login - SAP SuccessFactors
- - [https://hcm17.sapsf.com](https://hcm17.sapsf.com)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Login - SAP SuccessFactors
- - [https://hcm41.sapsf.com](https://hcm41.sapsf.com)
- - date_published: 2024-06-20T00:00:00+00:00
-
- ## Saputo | Dairy Products and Cheese
- - [https://www.saputo.com](https://www.saputo.com)
- - date_published: 2024-10-18T17:28:53.266146+00:00
-
- ## SAQ : Découvrez la sélection de vins, bières et spiritueux en ligne
- - [https://www.saq.com](https://www.saq.com)
- - date_published: 2024-09-05T11:28:46.206691+00:00
 

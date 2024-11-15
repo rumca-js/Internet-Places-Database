@@ -1,3 +1,599 @@
+ ## Інститут математики НАН України
+ - [https://imath.kiev.ua](https://imath.kiev.ua)
+ - date_published: 2024-05-01T04:17:07.544790+00:00
+
+ ## Первинна профспілкова організація Інституту математики НАН України | Інформація та новини
+ - [http://profcom.imath.kiev.ua](http://profcom.imath.kiev.ua)
+ - date_published: 2024-06-15T19:40:36.210600+00:00
+
+ ## IMATH Roundcube Webmail :: Ласкаво просимо до IMATH Roundcube Webmail
+ - [https://webmail.imath.kiev.ua](https://webmail.imath.kiev.ua)
+ - date_published: 2024-06-15T19:40:36+00:00
+
+ ## Школа журналістики - Блоґ
+ - [http://j-school.kiev.ua](http://j-school.kiev.ua)
+ - date_published: 2024-07-21T06:10:16.139891+00:00
+
+ ## KitSoft - IT for government and business
+ - [http://www.kitsoft.kiev.ua](http://www.kitsoft.kiev.ua)
+ - date_published: 2024-06-17T17:08:24.130023+00:00
+
+ ## MAGNET · magic network · МАГНЕТ • magic network
+ - [https://magnet.kiev.ua](https://magnet.kiev.ua)
+ - date_published: 2023-02-16T12:55:04+00:00
+
+ ## ukrcsm.kiev.ua
+ - [https://ukrcsm.kiev.ua](https://ukrcsm.kiev.ua)
+ - date_published: 2024-10-19T23:03:15.538612+00:00
+
+ ## Ворота. Производство и монтаж различных типов ворот - Киев и область :: Vse-vorota.kiev.ua
+ - [https://vse-vorota.kiev.ua](https://vse-vorota.kiev.ua)
+ - date_published: 2024-07-18T14:24:19.400798+00:00
+
+ ## Головна
+ - [https://apache.kyiv.ua](https://apache.kyiv.ua)
+ - date_published: 2024-04-30T02:31:35.606411+00:00
+
+ ## Останні та актуальні новини України та світу, новини дня онлайн - Головна сторінка - - Україна Молода
+ - [https://umoloda.kyiv.ua](https://umoloda.kyiv.ua)
+ - date_published: 2024-10-19T23:25:33.870349+00:00
+
+ ## Доступ заблоковано
+ - [https://city-adm.lviv.ua](https://city-adm.lviv.ua)
+ - date_published: 2024-07-01T07:53:29.059221+00:00
+
+ ## Коворкінг Львів | Оренда офісу Львів | CoMMuna
+ - [http://communa.net.ua](http://communa.net.ua)
+ - date_published: 2024-09-02T12:48:07+00:00
+
+ ## Новини зі Львова від інтернет-видання Leopolis News
+ - [http://leopolis.net.ua](http://leopolis.net.ua)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Головна • Назарет
+ - [https://nazaret.net.ua](https://nazaret.net.ua)
+ - date_published: 2024-10-18T21:24:44.868893+00:00
+
+ ## ABN | Anti-imperial Block of Nations
+ - [https://abn.org.ua](https://abn.org.ua)
+ - date_published: 2024-02-16T00:00:00+00:00
+
+ ## ADASTRA І Аналітичний центр
+ - [https://adastra.org.ua](https://adastra.org.ua)
+ - date_published: 2024-07-16T17:32:50.267348+00:00
+
+ ## We aim to make Ukraine a LOVEMARK for the world
+            
+            
+            
+            - Brand Ukraine
+ - [https://brandukraine.org.ua](https://brandukraine.org.ua)
+ - date_published: 2024-06-26T08:27:34.030475+00:00
+
+ ## Центр досліджень армії, конверсії та роззброєння – Центр досліджень армії, конверсії та роззброєння
+ - [https://cacds.org.ua](https://cacds.org.ua)
+ - date_published: 2024-06-15T21:19:45.807331+00:00
+
+ ## Головна сторінка - Центр демократії та верховенства права
+ - [http://www.cedem.org.ua](http://www.cedem.org.ua)
+ - date_published: 2024-06-17T16:57:49.116602+00:00
+
+ ## Доступ до правди
+ - [https://dostup.org.ua](https://dostup.org.ua)
+ - date_published: 2024-06-17T16:58:03.611693+00:00
+
+ ## DVV Eastern Neighbours
+ - [https://www.dvv-international.org.ua](https://www.dvv-international.org.ua)
+ - date_published: 2024-10-19T23:21:47.571223+00:00
+
+ ## Мережа Українських Освітніх Хабів
+ - [https://eduhub.org.ua](https://eduhub.org.ua)
+ - date_published: 2024-06-13T15:12:10+00:00
+
+ ## Home | Фонд Східна Європа
+ - [http://eef.org.ua](http://eef.org.ua)
+ - date_published: 2021-04-12T21:29:42+00:00
+
+ ## Програма EGAP
+ - [http://egap.org.ua](http://egap.org.ua)
+ - date_published: 2024-06-17T17:08:13.093533+00:00
+
+ ## eurodesk.org.ua
+ - [http://eurodesk.org.ua](http://eurodesk.org.ua)
+ - date_published: 2024-09-15T20:58:04.426982+00:00
+
+ ## EWTN | Телебачення Віковічного Слова в Україні
+ - [https://ewtn.org.ua](https://ewtn.org.ua)
+ - date_published: 2024-07-04T03:00:34.380212+00:00
+
+ ## Максим Криппа - Инвестиции в киберспорт Maincast и NAVI
+ - [http://fkd.org.ua](http://fkd.org.ua)
+ - date_published: 2024-10-30T20:33:58.928938+00:00
+
+ ## GDG DevFest Ukraine 2022
+ - [http://devfest.gdg.org.ua](http://devfest.gdg.org.ua)
+ - date_published: 2022-12-02T19:11:04+00:00
+
+ ## Index of /
+ - [https://download.gnu.org.ua](https://download.gnu.org.ua)
+ - date_published: 2024-06-07T00:00:00+00:00
+
+ ## Puszcza Git hosting
+ - [https://git.gnu.org.ua](https://git.gnu.org.ua)
+ - date_published: 2024-05-08T00:00:00+00:00
+
+ ## Welcome [Puszcza]
+ - [http://ps.gnu.org.ua](http://ps.gnu.org.ua)
+ - date_published: 2024-07-18T17:09:56.258795+00:00
+
+ ## Welcome [Puszcza]
+ - [https://puszcza.gnu.org.ua](https://puszcza.gnu.org.ua)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Українська Гельсінська спілка з прав людини
+ - [https://www.helsinki.org.ua](https://www.helsinki.org.ua)
+ - date_published: 2024-08-11T11:40:44.528501+00:00
+
+ ## Національний музей Голодомору-геноциду
+ - [https://holodomormuseum.org.ua](https://holodomormuseum.org.ua)
+ - date_published: 2019-09-10T00:00:00+00:00
+
+ ## IBNS Ukraine
+ - [https://ibns.org.ua](https://ibns.org.ua)
+ - date_published: 2021-03-09T10:12:33+00:00
+
+ ## Єзуїти в Україні - Товариство Ісуса
+ - [https://jesuits.org.ua](https://jesuits.org.ua)
+ - date_published: 2024-09-03T20:24:46.806124+00:00
+
+ ## First Casino ᐈ Украина ⇒  Ферст казино онлайн | Бонусы и Промокоды
+ - [http://lvivjs.org.ua](http://lvivjs.org.ua)
+ - date_published: 2024-07-14T10:54:28.153132+00:00
+
+ ## PEN Ukraine
+ - [https://pen.org.ua](https://pen.org.ua)
+ - date_published: 2024-07-04T00:00:00+00:00
+
+ ## Платформа прав людини
+ - [https://ppl.org.ua](https://ppl.org.ua)
+ - date_published: 2024-06-17T16:58:02.391635+00:00
+
+ ## Prometheus – Найбільша платформа онлайн-курсів в Україні
+ - [https://prometheus.org.ua](https://prometheus.org.ua)
+ - date_published: 2024-09-19T00:00:00+00:00
+
+ ## Виявлення та протидія внутрішнім та зовнішнім загрозам економічній безпеці України
+ - [https://reb.org.ua](https://reb.org.ua)
+ - date_published: 2024-05-12T06:31:04.571826+00:00
+
+ ## Головна – Товариство Червоного Хреста України
+ - [https://redcross.org.ua](https://redcross.org.ua)
+ - date_published: 2024-02-19T00:00:00+00:00
+
+ ## Словотвір
+ - [https://slovotvir.org.ua](https://slovotvir.org.ua)
+ - date_published: 2024-06-17T15:44:48.308261+00:00
+
+ ## Головна сторінка
+ - [https://spgr.org.ua](https://spgr.org.ua)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Sport Video Free HD Download HD Torrent MLB NFL NBA NHL Rugby
+ - [https://www.sport-video.org.ua](https://www.sport-video.org.ua)
+ - date_published: 2024-11-12T16:28:34+00:00
+
+ ## Texty.org.ua - статті та журналістика даних для людей
+ - [https://texty.org.ua](https://texty.org.ua)
+ - date_published: 2024-06-29T19:53:50.952674+00:00
+
+ ## UGC | ​«Всеукраїнська Рада Гемблінгу» Громадська Спілка
+ - [https://www.uagc.org.ua](https://www.uagc.org.ua)
+ - date_published: 2024-10-31T00:43:59.371562+00:00
+
+ ## Головна
+ - [https://ui.org.ua](https://ui.org.ua)
+ - date_published: 2024-09-18T16:57:58.687814+00:00
+
+ ## УІРО
+ - [https://uied.org.ua](https://uied.org.ua)
+ - date_published: 2024-10-19T23:21:59.759059+00:00
+
+ ## Home - UNHCR Україна
+ - [http://unhcr.org.ua](http://unhcr.org.ua)
+ - date_published: 2024-10-19T23:00:15.870890+00:00
+
+ ## UNIC — нова ініціатива для бізнесу в Україні
+ - [https://unic.org.ua](https://unic.org.ua)
+ - date_published: 2024-09-19T19:48:07+00:00
+
+ ## Головна - Голоси дітей
+ - [https://voices.org.ua](https://voices.org.ua)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Злий збір на БпЛА «Бекфаєр»
+ - [https://zlyizbir.org.ua](https://zlyizbir.org.ua)
+ - date_published: 2024-04-28T12:41:42+00:00
+
+ ## Domain Default page
+ - [http://html.te.ua](http://html.te.ua)
+ - date_published: 2024-05-15T07:17:11+00:00
+
+ ## Новини 24, останні події, свіжі репортажі, ексклюзиви | Телеканал 24
+ - [https://24tv.ua](https://24tv.ua)
+ - date_published: 2024-06-17T16:59:39+00:00
+
+ ## Новини: останні автоновини сьогодні на порталі auto.24tv.ua
+ - [https://auto.24tv.ua](https://auto.24tv.ua)
+ - date_published: 2024-10-19T22:55:01.327791+00:00
+
+ ## Новини для бізнесу, тренди, бізнес-новини України та світу - Бізнес 24
+ - [https://business.24tv.ua](https://business.24tv.ua)
+ - date_published: 2024-10-19T22:54:30.535465+00:00
+
+ ## Економіка 24 - Новини економіки і фінансів України та світу, соцвиплати і соцзабезпечення
+ - [https://economy.24tv.ua](https://economy.24tv.ua)
+ - date_published: 2024-10-19T22:54:25.187110+00:00
+
+ ## Освіта 24 - Останні новини світу навчання для школярів та батьків
+ - [https://education.24tv.ua](https://education.24tv.ua)
+ - date_published: 2024-10-19T22:54:50.248688+00:00
+
+ ## Фінанси 24: Новини фінансових ринків, forex та криптовалюти
+ - [https://financy.24tv.ua](https://financy.24tv.ua)
+ - date_published: 2024-10-19T22:54:51.637569+00:00
+
+ ## Ми допомагаємо ЗСУ
+ - [https://fund.24tv.ua](https://fund.24tv.ua)
+ - date_published: 2024-10-19T22:55:07.044279+00:00
+
+ ## Комп'ютерні ігри, огляди, ігрові новини та дати виходу - 24 Games
+ - [https://games.24tv.ua](https://games.24tv.ua)
+ - date_published: 2024-10-19T22:54:59.859648+00:00
+
+ ## Чоловічий журнал - Мода, Гід по стилю, Спорт на Gentleman 24
+ - [https://gentleman.24tv.ua](https://gentleman.24tv.ua)
+ - date_published: 2024-10-19T22:54:54.432911+00:00
+
+ ## Health 24: новини медицини, здоровʼя та краси в Україні та світі
+ - [https://health.24tv.ua](https://health.24tv.ua)
+ - date_published: 2024-10-19T22:54:23.105719+00:00
+
+ ## Новини кіно та фільмів з усього світу - Кіно24
+ - [https://kino.24tv.ua](https://kino.24tv.ua)
+ - date_published: 2024-10-19T22:54:57.042385+00:00
+
+ ## Мода і стиль, тренди в одязі, манікюрі і макіяжі - Lady 24
+ - [https://lady.24tv.ua](https://lady.24tv.ua)
+ - date_published: 2024-10-19T22:54:28.949389+00:00
+
+ ## Все про подорожі, красу, шоу-біз, стиль та моду на LifeStyle 24
+ - [https://lifestyle.24tv.ua](https://lifestyle.24tv.ua)
+ - date_published: 2024-10-19T22:54:53.166768+00:00
+
+ ## Все про здоровий спосіб життя і правильне харчування - Поради 24
+ - [https://porady.24tv.ua](https://porady.24tv.ua)
+ - date_published: 2024-10-19T22:54:33.097543+00:00
+
+ ## 24 Канал на пристроях
+ - [https://promo.24tv.ua](https://promo.24tv.ua)
+ - date_published: 2024-10-19T22:54:21.374391+00:00
+
+ ## Новини шоу бізнесу в Україні та світі: свіжі події, скандали - Show
+ - [https://show.24tv.ua](https://show.24tv.ua)
+ - date_published: 2024-10-19T22:54:58.443031+00:00
+
+ ## Новини шоу бізнесу в Україні та світі: свіжі події, скандали - Showbiz
+ - [https://showbiz.24tv.ua](https://showbiz.24tv.ua)
+ - date_published: 2024-10-19T22:54:34.635004+00:00
+
+ ## Смачно 24 – Новини кулінарії – усе про здорове харчування: рецепти, лайфхаки
+ - [https://smachnonews.24tv.ua](https://smachnonews.24tv.ua)
+ - date_published: 2024-10-19T22:54:20.096639+00:00
+
+ ## Новини спорту України та світу - Останні спортивні новини на сьогодні - Спорт 24
+ - [https://sport.24tv.ua](https://sport.24tv.ua)
+ - date_published: 2024-10-19T22:55:02.713055+00:00
+
+ ## Новини спорту України та світу - Останні спортивні новини на сьогодні - Спорт 24
+ - [https://sportnews.24tv.ua](https://sportnews.24tv.ua)
+ - date_published: 2024-10-19T22:54:55.873480+00:00
+
+ ## Закордон 24 – актуальні новини про життя і роботу за кордоном
+ - [https://zakordon.24tv.ua](https://zakordon.24tv.ua)
+ - date_published: 2024-10-19T22:55:10.655651+00:00
+
+ ## Здоровʼя 24: новини медицини, здоровʼя та краси в Україні та світі
+ - [https://zdorovya.24tv.ua](https://zdorovya.24tv.ua)
+ - date_published: 2024-10-19T22:55:09.218996+00:00
+
+ ## Казино 777 Україна онлайн ⑦⑦⑦ ігрові автомати на гроші
+ - [https://777.ua](https://777.ua)
+ - date_published: 2024-06-16T19:48:56.434162+00:00
+
+ ## Інтернет-бізнес в Україні
+ - [https://ain.ua](https://ain.ua)
+ - date_published: 2024-09-25T16:19:12.326676+00:00
+
+ ## Головна - Alfa Romeo Ukraine
+ - [https://www.alfaromeo.ua](https://www.alfaromeo.ua)
+ - date_published: 2024-06-17T04:11:39+00:00
+
+ ## Software Development Company in USA. IT Solutions Agency in US - Artjoker Firm from Ukraine
+ - [https://artjoker.ua](https://artjoker.ua)
+ - date_published: 2024-06-27T11:20:02.248900+00:00
+
+ ## Motorola EZX & MAGX site - Main page
+ - [http://motoezx.at.ua](http://motoezx.at.ua)
+ - date_published: 1970-01-01T00:00:05+00:00
+
+ ## Офіційний сайт Audi в Україні | Audi в Україні
+ - [https://www.audi.ua](https://www.audi.ua)
+ - date_published: 2024-07-19T22:47:14.504847+00:00
+
+ ## Avast | Завантажте Free Antivirus і VPN | Просто й безкоштовно
+ - [https://avast.ua](https://avast.ua)
+ - date_published: 2024-08-08T13:45:00+00:00
+
+ ## Мультимаркет Аврора ➤ Доступні товари для всієї сім'ї   | Мультимаркет Аврора
+ - [https://avrora.ua](https://avrora.ua)
+ - date_published: 2024-06-30T09:28:21.452077+00:00
+
+ ## Бабель | Розповідаємо про політику, культуру і суспільство в Україні. Останні новини детально і неупереджено
+ - [https://babel.ua](https://babel.ua)
+ - date_published: 2024-03-04T00:00:00+00:00
+
+ ## Пекельце – курйозні новини з України та всього світу | Бабель
+ - [https://pekeltse.babel.ua](https://pekeltse.babel.ua)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## Bitcoin Magazine Україна - новини біткоїна, курс біткоїна до долара, секрети майнінгу - експерти
+ - [https://bitcoinmagazine.ua](https://bitcoinmagazine.ua)
+ - date_published: 2024-07-01T09:01:54.650576+00:00
+
+ ## Головна
+ - [http://www.bosch.ua](http://www.bosch.ua)
+ - date_published: 2024-10-13T20:30:03+00:00
+
+ ## Brother Srbija | At Your Side
+ - [https://www.brother.ua](https://www.brother.ua)
+ - date_published: 2024-06-17T20:18:47.422322+00:00
+
+ ## Business Ukraine magazine
+ - [https://businessukraine.ua](https://businessukraine.ua)
+ - date_published: 2024-03-20T06:32:58.721692+00:00
+
+ ## Головна - Американська торговельна палата в Україні
+ - [https://chamber.ua](https://chamber.ua)
+ - date_published: 2024-06-05T00:00:00+00:00
+
+ ## Склад авто CITROЁN в Україні
+ - [https://cars.citroen.ua](https://cars.citroen.ua)
+ - date_published: 2024-05-02T10:43:10.126792+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://citroen.ua](https://citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://configuratorpro.citroen.ua](https://configuratorpro.citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## Офіційний імпортер автомобілів | Citroën [Україна]
+ - [https://info.citroen.ua](https://info.citroen.ua)
+ - date_published: 2024-05-01T00:00:00+00:00
+
+ ## bebyx: сайт Артема Бебика
+ - [https://bebyx.co.ua](https://bebyx.co.ua)
+ - date_published: 2023-10-22T20:27:44+00:00
+
+ ## Андрій Головін – Блог | Персональний блог Андрія Головіна. По трохи про все.
+ - [https://blog.andygol.co.ua](https://blog.andygol.co.ua)
+ - date_published: 2023-10-25T22:48:03.655543+00:00
+
+ ## Афіша подій у Києві 2018 | Придбати квитки на Концерт.юа
+ - [https://concert.ua](https://concert.ua)
+ - date_published: 2024-06-29T13:56:30.709192+00:00
+
+ ## Креді Агріколь Банк - ТОП-3 найнадійніших в Україні | Credit Agricole Bank
+ - [https://credit-agricole.ua](https://credit-agricole.ua)
+ - date_published: 2024-06-26T10:39:31.311844+00:00
+
+ ## Decathlon Ukraine - спорт для всіх: якість від новачка до профі
+ - [https://decathlon.ua](https://decathlon.ua)
+ - date_published: 2024-06-15T20:09:11.004430+00:00
+
+ ## Делві Національна мережа сімейних маркетів
+ - [https://www.delvi.ua](https://www.delvi.ua)
+ - date_published: 2024-06-30T09:28:38.263944+00:00
+
+ ## Головна
+ - [https://dengi.ua](https://dengi.ua)
+ - date_published: 2009-12-31T22:00:00+00:00
+
+ ## dobro.ua - допомога Україні
+ - [https://dobro.ua](https://dobro.ua)
+ - date_published: 2024-10-19T23:21:22.107072+00:00
+
+ ## Домініканці в Україні
+ - [https://dominic.ua](https://dominic.ua)
+ - date_published: 2024-09-03T19:45:28.951277+00:00
+
+ ## Інтернет провайдер Домонет в місті Київ
+ - [https://domonet.ua](https://domonet.ua)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## Здай кров - врятуй життя!
+ - [https://donor.ua](https://donor.ua)
+ - date_published: 2024-07-08T17:33:46.180853+00:00
+
+ ## DOU
+ - [https://dou.ua](https://dou.ua)
+ - date_published: 2024-07-09T12:28:03.751380+00:00
+
+ ## Вакансії | DOU
+ - [https://jobs.dou.ua](https://jobs.dou.ua)
+ - date_published: 2024-10-05T23:25:53.176236+00:00
+
+ ## Duracell Batteries UK | The World’s #1 Consumer Battery Company
+ - [https://www.duracell.ua](https://www.duracell.ua)
+ - date_published: 1970-01-01T00:00:00+00:00
+
+ ## Освіта в Україні. Усі навчальні заклади — 🎓Education.ua
+ - [https://www.education.ua](https://www.education.ua)
+ - date_published: 2024-10-21T07:31:50.030321+00:00
+
+ ## Elmir.ua
+ - [https://elmir.ua](https://elmir.ua)
+ - date_published: 2024-07-13T13:39:37.811501+00:00
+
+ ## EPAM | Унікальні можливості роботи для ІТ-професіоналів та молодих спеціалістів
+ - [https://careers.epam.ua](https://careers.epam.ua)
+ - date_published: 2024-07-04T12:20:44.236945+00:00
+
+ ## Епіцентр • Національна мережа торговельних центрів
+ - [https://epicentrk.ua](https://epicentrk.ua)
+ - date_published: 2024-06-30T09:28:32.681278+00:00
+
+ ## ESET - офіційний сайт. Антивірусні програми Ісет в Україні.
+ - [http://eset.ua](http://eset.ua)
+ - date_published: 2024-06-16T06:24:54.966762+00:00
+
+ ## ETI Україна
+ - [https://www.eti.ua](https://www.eti.ua)
+ - date_published: 2024-09-02T14:24:33+00:00
+
+ ## Ferrero Україна
+ - [https://www.ferrero.ua](https://www.ferrero.ua)
+ - date_published: 2024-06-19T08:31:44.211597+00:00
+
+ ## FIAT - офіційний сайт Fiat Україна
+ - [https://www.fiat.ua](https://www.fiat.ua)
+ - date_published: 2024-06-06T08:23:30+00:00
+
+ ## Дилер комерційних автомобілей Fiat в Україні | Fiatprofessional
+ - [https://www.fiatprofessional.ua](https://www.fiatprofessional.ua)
+ - date_published: 2015-07-12T12:50:38+00:00
+
+ ## Автобусні подорожі Європою | FlixBus
+ - [https://www.flixbus.ua](https://www.flixbus.ua)
+ - date_published: 2024-06-28T10:10:09+00:00
+
+ ## Football.ua - Новини футболу - Футбол онлайн - Результати матчів, трансляції — football.ua
+ - [https://football.ua](https://football.ua)
+ - date_published: 2024-08-07T23:14:27.185277+00:00
+
+ ## Forbes.ua | Бізнес, мільярдери, новини, фінанси, інвестиції, компанії
+ - [https://forbes.ua](https://forbes.ua)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Офіційний сайт Ford. | Ласкаво просимо в світ Ford в Україні
+ - [https://ford.ua](https://ford.ua)
+ - date_published: 2024-10-29T20:56:21.721852+00:00
+
+ ## Офіційний сайт Ford. | Ласкаво просимо в світ Ford в Україні
+ - [http://www.ford.ua](http://www.ford.ua)
+ - date_published: 2024-06-19T16:59:52.512627+00:00
+
+ ## Funduk.ua: геймерський інтернет магазин №1 в Україні
+ - [https://funduk.ua](https://funduk.ua)
+ - date_published: 2024-07-13T13:47:20.703693+00:00
+
+ ## Homepage - Garnier.com
+ - [https://garnier.ua](https://garnier.ua)
+ - date_published: 2024-10-30T17:03:08.296744+00:00
+
+ ## Останні новини дня України та світу | Новини на Gazeta.ua
+ - [https://gazeta.ua](https://gazeta.ua)
+ - date_published: 2024-10-19T15:55:57.393769+00:00
+
+ ## Погода в Украине и мире
+ - [https://www.gismeteo.ua](https://www.gismeteo.ua)
+ - date_published: 2024-05-02T10:43:38.666862+00:00
+
+ ## Афіша Києва: афіша всіх заходів в Києві - Gloss.ua
+ - [https://gloss.ua](https://gloss.ua)
+ - date_published: 2024-08-07T23:12:25+00:00
+
+ ## Головна сторінка
+ - [https://www.henkel.ua](https://www.henkel.ua)
+ - date_published: 2024-10-18T20:17:31.669982+00:00
+
+ ## Homepage
+ - [https://www.hilti.ua](https://www.hilti.ua)
+ - date_published: 2024-06-20T07:26:39.807644+00:00
+
+ ## --- bodqhrohro homepage ---
+ - [https://bodqhrohro.ho.ua](https://bodqhrohro.ho.ua)
+ - date_published: 2024-05-07T15:04:27.716095+00:00
+
+ ## ho.ua: Доступ заборонений
+ - [http://ufj.ho.ua](http://ufj.ho.ua)
+ - date_published: 2024-06-17T17:06:21.787870+00:00
+
+ ## Ukrainian Journal of Food Science
+ - [http://ukrfoodscience.ho.ua](http://ukrfoodscience.ho.ua)
+ - date_published: 2024-06-17T08:37:30+00:00
+
+ ## Hotline - порівняти ціни в інтернет-магазинах України
+ - [https://hotline.ua](https://hotline.ua)
+ - date_published: 2024-07-20T14:51:44.236029+00:00
+
+ ## hromadske - Останні новини дня, всі надзвичайні новини в Україні читайтe на Громадському | hromadske
+ - [https://hromadske.ua](https://hromadske.ua)
+ - date_published: 2024-09-25T00:00:00+00:00
+
+ ## Hummel – бренд спортивного одягу - Hummel
+ - [https://www.hummel.ua](https://www.hummel.ua)
+ - date_published: 2019-02-08T11:13:19+00:00
+
+ ## Блоги - I.UA
+ - [https://blog.i.ua](https://blog.i.ua)
+ - date_published: 2024-08-07T23:14:49.164280+00:00
+
+ ## Безкоштовні оголошення
+ - [https://board.i.ua](https://board.i.ua)
+ - date_published: 2024-08-07T23:15:07.556713+00:00
+
+ ## Вітальні листівки з Днем народження, з Новим роком, 1 квітня, пасхальні та інші види листівок.
+ - [https://cards.i.ua](https://cards.i.ua)
+ - date_published: 2024-08-07T23:15:20.914508+00:00
+
+ ## Каталог українських сайтів
+ - [https://catalog.i.ua](https://catalog.i.ua)
+ - date_published: 2024-08-07T23:15:09.005840+00:00
+
+ ## Рецепти. Кулінарні рецепти з фото: перші і другі блюда, салати, випічка, десерти, коктейлі - I.ua.
+ - [https://cook.i.ua](https://cook.i.ua)
+ - date_published: 2024-08-07T23:15:35.308171+00:00
+
+ ## Файлообмінник та зберігання файлів онлайн
+ - [https://files.i.ua](https://files.i.ua)
+ - date_published: 2024-08-07T23:14:57.334505+00:00
+
+ ## Курс валют і конвертер валют : курс долара, курс євро і курс рубля в обмінниках українських банків
+ - [https://finance.i.ua](https://finance.i.ua)
+ - date_published: 2024-08-07T23:15:25.850682+00:00
+
+ ## Гороскопи на сьогодні і завтра. Гороскоп на кожен день - I.UA
+ - [https://goroskop.i.ua](https://goroskop.i.ua)
+ - date_published: 2024-08-07T23:15:19.811208+00:00
+
+ ## Групи - I.UA
+ - [https://group.i.ua](https://group.i.ua)
+ - date_published: 2024-08-07T23:15:36.149411+00:00
+
+ ## Допомога - I.UA
+ - [http://help.i.ua](http://help.i.ua)
+ - date_published: 2024-08-07T23:14:34.974988+00:00
+
+ ## І.UA - твоя пошта
+ - [https://i.ua](https://i.ua)
+ - date_published: 2024-04-28T02:11:22.576845+00:00
+
+ ## Работа в Киеве и Украине
+ - [http://job.i.ua](http://job.i.ua)
+ - date_published: 2024-08-07T23:14:32.874818+00:00
+
  ## Кіно, афіша кінотеатрів, прем'єри нових фільмів, розклад сеансів в кінотеатрах Києва і України
  - [https://kino.i.ua](https://kino.i.ua)
  - date_published: 2024-08-07T23:15:33.184893+00:00
@@ -3415,597 +4011,4 @@
  ## Wellbeing, Safety and Health | University of Leeds
  - [https://wsh.leeds.ac.uk](https://wsh.leeds.ac.uk)
  - date_published: 2024-06-17T18:08:19.882909+00:00
-
- ## Home : The Astbury Centre for Structural Molecular Biology
- - [http://www.astbury.leeds.ac.uk](http://www.astbury.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:29.565901+00:00
-
- ## Faculty of Biological Sciences
- - [https://www.fbs.leeds.ac.uk](https://www.fbs.leeds.ac.uk)
- - date_published: 2024-06-17T18:06:40.821847+00:00
-
- ## Health Sciences Outreach Team | Providing widening participation activities for the Faculty of Medicine and Health
- - [https://www.healthsciences.leeds.ac.uk](https://www.healthsciences.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:51.825236+00:00
-
- ## University of Leeds
- - [https://www.leeds.ac.uk](https://www.leeds.ac.uk)
- - date_published: 2023-10-25T22:48:46.915969+00:00
-
- ## Lifelong Learning Centre | University of Leeds
- - [http://www.llc.leeds.ac.uk](http://www.llc.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:34.785672+00:00
-
- ## 利兹贝克特大学中文官网
- - [https://cn.leedsbeckett.ac.uk](https://cn.leedsbeckett.ac.uk)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Leeds Beckett University
- - [https://leedsbeckett.ac.uk](https://leedsbeckett.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## The Library: Welcome: Welcome
- - [https://libguides.leedsbeckett.ac.uk](https://libguides.leedsbeckett.ac.uk)
- - date_published: 2024-08-10T22:47:24.415386+00:00
-
- ## myHub Login
- - [https://myhub.leedsbeckett.ac.uk](https://myhub.leedsbeckett.ac.uk)
- - date_published: 2024-08-10T22:47:20.405078+00:00
-
- ## Blackboard Learn
- - [https://my.leedsbeckett.ac.uk](https://my.leedsbeckett.ac.uk)
- - date_published: 2004-08-10T22:47:20+00:00
-
- ## LIBF MENA Banking and Finance Education -
- - [https://mena.libf.ac.uk](https://mena.libf.ac.uk)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## LIBF: Shape Your Future with Flexible, Online Education
- - [https://www.libf.ac.uk](https://www.libf.ac.uk)
- - date_published: 2024-04-08T00:00:00+00:00
-
- ## LIMS - London Institute for Mathematical Sciences
- - [https://lims.ac.uk](https://lims.ac.uk)
- - date_published: 2024-06-30T11:06:41.645922+00:00
-
- ## Lincoln Institute for Agri-Food Technology
- - [https://agrifoodtech.blogs.lincoln.ac.uk](https://agrifoodtech.blogs.lincoln.ac.uk)
- - date_published: 2024-07-12T08:53:52+00:00
-
- ## AgriFoRwArdS Students – An insight in to our AgriFoRwArdS students
- - [https://agriforwards-students.blogs.lincoln.ac.uk](https://agriforwards-students.blogs.lincoln.ac.uk)
- - date_published: 2024-07-12T08:55:52.645808+00:00
-
- ## Lincoln Centre for Autonomous Systems
- - [https://lcas.lincoln.ac.uk](https://lcas.lincoln.ac.uk)
- - date_published: 2024-05-10T05:10:14.167700+00:00
-
- ## University of Lincoln
- - [https://lincoln.ac.uk](https://lincoln.ac.uk)
- - date_published: 2024-07-10T16:36:29+00:00
-
- ## Alumni - Alumni - University of Liverpool
- - [https://alumni.liv.ac.uk](https://alumni.liv.ac.uk)
- - date_published: 2024-03-27T00:00:00+00:00
-
- ## University of Liverpool - Computer Science -
- - [http://cgi.csc.liv.ac.uk](http://cgi.csc.liv.ac.uk)
- - date_published: 2024-08-11T22:06:44.862443+00:00
-
- ## 43rd MFCS | Liverpool, August 27-31, 2018
- - [http://mfcs2018.csc.liv.ac.uk](http://mfcs2018.csc.liv.ac.uk)
- - date_published: 2018-08-27T00:00:00+00:00
-
- ## The University of Liverpool
- - [http://www.liv.ac.uk](http://www.liv.ac.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Alumni members' area landing page - The University of Liverpool
- - [https://alum.liverpool.ac.uk](https://alum.liverpool.ac.uk)
- - date_published: 2024-06-17T18:15:05.364095+00:00
-
- ## Sign In
- - [https://cachednewsfeeds.liverpool.ac.uk](https://cachednewsfeeds.liverpool.ac.uk)
- - date_published: 2024-06-17T18:09:32.189216+00:00
-
- ## Library
- - [http://libguides.liverpool.ac.uk](http://libguides.liverpool.ac.uk)
- - date_published: 2024-07-04T13:30:36.506263+00:00
-
- ## University of Liverpool News
- - [https://news.liverpool.ac.uk](https://news.liverpool.ac.uk)
- - date_published: 2024-01-06T10:10:17.822290+00:00
-
- ## Welcome - Strategic Framework 2031 - University of Liverpool
- - [https://strategy.liverpool.ac.uk](https://strategy.liverpool.ac.uk)
- - date_published: 2024-05-02T10:56:19.802704+00:00
-
- ## Student login - University of Liverpool
- - [https://student.liverpool.ac.uk](https://student.liverpool.ac.uk)
- - date_published: 2015-12-04T00:00:00+00:00
-
- ## The University of Liverpool
- - [https://www.liverpool.ac.uk](https://www.liverpool.ac.uk)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Homepage | 
-        Liverpool John Moores University
- - [https://www.ljmu.ac.uk](https://www.ljmu.ac.uk)
- - date_published: 2024-08-11T05:54:07.848264+00:00
-
- ## London Mathematical Society - De Morgan Forum
- - [http://education.lms.ac.uk](http://education.lms.ac.uk)
- - date_published: 2021-03-16T13:50:03+00:00
-
- ## The London Mathematical Society | London Mathematical Society
- - [https://lms.ac.uk](https://lms.ac.uk)
- - date_published: 2024-06-17T14:35:54+00:00
-
- ## University of London Clubs and Societies
- - [https://clubs-societies.london.ac.uk](https://clubs-societies.london.ac.uk)
- - date_published: 2024-06-17T17:48:53.106441+00:00
-
- ## Student Accommodation in London - houses homes flats housing
- - [http://househunt.london.ac.uk](http://househunt.london.ac.uk)
- - date_published: 2024-10-20T03:46:09.506076+00:00
-
- ## University of London Housing Services
- - [https://housing.london.ac.uk](https://housing.london.ac.uk)
- - date_published: 2024-06-17T17:48:59.521400+00:00
-
- ## Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
- - [https://idp.london.ac.uk](https://idp.london.ac.uk)
- - date_published: 2020-04-21T14:17:39+00:00
-
- ## Study with the University of London, anywhere in the world
- - [https://london.ac.uk](https://london.ac.uk)
- - date_published: 2024-06-17T16:52:03+00:00
-
- ## UoL MediaLibrary
- - [https://medialibrary.london.ac.uk](https://medialibrary.london.ac.uk)
- - date_published: 2024-06-17T17:48:56.265959+00:00
-
- ## Welcome - University of London
- - [https://my.london.ac.uk](https://my.london.ac.uk)
- - date_published: 2024-06-17T17:48:52.388060+00:00
-
- ## Directory of Research and Expertise | University of London
- - [https://research.london.ac.uk](https://research.london.ac.uk)
- - date_published: 2024-06-17T17:49:00.382390+00:00
-
- ## University of London
- - [https://www.alumni.london.ac.uk](https://www.alumni.london.ac.uk)
- - date_published: 2024-06-17T17:49:02.304643+00:00
-
- ## London Metropolitan University - London Metropolitan University
- - [https://londonmet.ac.uk](https://londonmet.ac.uk)
- - date_published: 2024-10-18T18:38:05.503558+00:00
-
- ## Student Zone
- - [https://student.londonmet.ac.uk](https://student.londonmet.ac.uk)
- - date_published: 2024-10-18T18:37:47.539836+00:00
-
- ## LSE Blogs | Expert analysis & debate from LSE
- - [https://blogs.lse.ac.uk](https://blogs.lse.ac.uk)
- - date_published: 2023-10-25T22:48:48.518267+00:00
-
- ## Charles Booth's London
- - [http://booth.lse.ac.uk](http://booth.lse.ac.uk)
- - date_published: 2024-08-08T19:37:26.112297+00:00
-
- ## Centre for Economic Performance
- - [http://cep.lse.ac.uk](http://cep.lse.ac.uk)
- - date_published: 2024-09-12T19:30:59.526033+00:00
-
- ## Welcome to LSE Research Online - LSE Research Online
- - [http://eprints.lse.ac.uk](http://eprints.lse.ac.uk)
- - date_published: 2024-07-22T05:55:24.806556+00:00
-
- ## Home
- - [https://info.lse.ac.uk](https://info.lse.ac.uk)
- - date_published: 2024-05-09T05:38:09.000767+00:00
-
- ## Journal of Illicit Economies and Development
- - [https://jied.lse.ac.uk](https://jied.lse.ac.uk)
- - date_published: 2024-10-18T17:53:22.254600+00:00
-
- ## LSE Home
- - [https://lse.ac.uk](https://lse.ac.uk)
- - date_published: 2024-03-06T15:28:43.124157+00:00
-
- ## LSE - Individual Web Pages for Taught Students
- - [http://personal.lse.ac.uk](http://personal.lse.ac.uk)
- - date_published: 2015-06-19T12:26:07+00:00
-
- ## LSE Press
- - [http://press.lse.ac.uk](http://press.lse.ac.uk)
- - date_published: 2024-05-09T05:38:18.940160+00:00
-
- ## Curious minds are Shaping the World. Join in. - Shaping the world
- - [https://shapingtheworld.lse.ac.uk](https://shapingtheworld.lse.ac.uk)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## STICERD - The Suntory and Toyota International Centres for Economics and Related Disciplines
- - [https://sticerd.lse.ac.uk](https://sticerd.lse.ac.uk)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## LSE Alumni - Community Home
- - [https://www.alumni.lse.ac.uk](https://www.alumni.lse.ac.uk)
- - date_published: 2024-05-09T05:38:12.080023+00:00
-
- ## Home - ARREST trial
- - [https://arrest.lshtm.ac.uk](https://arrest.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:20.390308+00:00
-
- ## Home | LSHTM Moodle
- - [https://ble.lshtm.ac.uk](https://ble.lshtm.ac.uk)
- - date_published: 2024-02-13T00:00:00+00:00
-
- ## Home - LSHTM Blogs
- - [https://blogs.lshtm.ac.uk](https://blogs.lshtm.ac.uk)
- - date_published: 2024-06-17T18:15:28.072245+00:00
-
- ## Welcome to the Bicycle Users Group - Bicycle users group
- - [https://cycling.lshtm.ac.uk](https://cycling.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:41.871238+00:00
-
- ## Home - The East London Project
- - [https://eastlondonproject.lshtm.ac.uk](https://eastlondonproject.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:25.906742+00:00
-
- ## Home - Entebbe Mother and Baby Study
- - [https://emabs.lshtm.ac.uk](https://emabs.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:12.083754+00:00
-
- ## Home - ERIC PPCI
- - [https://ericppci.lshtm.ac.uk](https://ericppci.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:18.816634+00:00
-
- ## Home - GHLC
- - [https://ghlc.lshtm.ac.uk](https://ghlc.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:45.501592+00:00
-
- ## Home Page
- - [https://giftstore.lshtm.ac.uk](https://giftstore.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:41.190827+00:00
-
- ## Welcome to Have Your Say! - Have Your Say
- - [https://haveyoursay.lshtm.ac.uk](https://haveyoursay.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:16.944669+00:00
-
- ## Welcome - Health Systems
- - [https://healthsystems.lshtm.ac.uk](https://healthsystems.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:30.690456+00:00
-
- ## Home - STAR
- - [https://hivstar.lshtm.ac.uk](https://hivstar.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:40.892171+00:00
-
- ## Jobs at LSHTM
- - [https://jobs.lshtm.ac.uk](https://jobs.lshtm.ac.uk)
- - date_published: 2024-05-02T10:56:36.932987+00:00
-
- ## Home - MCC Collaborative Research Network
- - [https://mccstudy.lshtm.ac.uk](https://mccstudy.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:39.538612+00:00
-
- ## Home - MRC London Intercollegiate Doctoral Training Partnership Studentships
- - [https://mrc-lid.lshtm.ac.uk](https://mrc-lid.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:30.003940+00:00
-
- ## LSHTM Global Health Analytics - LSHTM Global Health Analytics
- - [https://opendatakit.lshtm.ac.uk](https://opendatakit.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:32.329117+00:00
-
- ## Home | Open Study at LSHTM
- - [http://open.lshtm.ac.uk](http://open.lshtm.ac.uk)
- - date_published: 2024-01-29T00:00:00+00:00
-
- ## Population Health Innovation Lab | LSHTM
- - [https://philab.lshtm.ac.uk](https://philab.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:36.085815+00:00
-
- ## Home - Placing the Public in Public Health: Public Health in Britain, 1948-2010
- - [https://placingthepublic.lshtm.ac.uk](https://placingthepublic.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:13.344363+00:00
-
- ## Home - PREVENTT Trial
- - [https://preventt.lshtm.ac.uk](https://preventt.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:44.720178+00:00
-
- ## Home - REVIVED-BCIS2
- - [https://revived.lshtm.ac.uk](https://revived.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:47.178315+00:00
-
- ## Home - NIHR School for Public Health Research
- - [https://sphr.lshtm.ac.uk](https://sphr.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:22.714958+00:00
-
- ## Home - SSACAB
- - [https://ssacab.lshtm.ac.uk](https://ssacab.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:33.852900+00:00
-
- ## Home - Health Systems in History: Ideas, Comparisons, Policies c. 1890-2000
- - [https://systemshistory.lshtm.ac.uk](https://systemshistory.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:38.501402+00:00
-
- ## Why join a union? - Trade Unions
- - [https://tradeunions.lshtm.ac.uk](https://tradeunions.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:14.335374+00:00
-
- ## Welcome - UIP
- - [https://uip.lshtm.ac.uk](https://uip.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:24.743492+00:00
-
- ## Vitamin D and Longevity (VIDAL) Trial
- - [https://vidal.lshtm.ac.uk](https://vidal.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:15.499892+00:00
-
- ## Home - Wellcome Trust - Bloomsbury Centre for Global Health Research
- - [https://wbc.lshtm.ac.uk](https://wbc.lshtm.ac.uk)
- - date_published: 2024-10-20T05:15:37.325724+00:00
-
- ## The London School of Hygiene & Tropical Medicine | LSHTM
- - [https://www.lshtm.ac.uk](https://www.lshtm.ac.uk)
- - date_published: 2023-10-25T22:48:50.709213+00:00
-
- ## MAGLUE: Measurement and Analysis of bioenergy greenhouse gases
- - [http://www.maglue.ac.uk](http://www.maglue.ac.uk)
- - date_published: 2024-10-29T19:08:38+00:00
-
- ## Search - Archives Hub
- - [https://archives.li.man.ac.uk](https://archives.li.man.ac.uk)
- - date_published: 1900-11-10T00:00:00+00:00
-
- ## Department of Computer Science - The University of Manchester
- - [http://www.cs.man.ac.uk](http://www.cs.man.ac.uk)
- - date_published: 2024-07-13T09:17:59.887656+00:00
-
- ## MDC analytics
- - [https://analytics.digitalcollections.manchester.ac.uk](https://analytics.digitalcollections.manchester.ac.uk)
- - date_published: 2020-06-12T13:43:43+00:00
-
- ## Welcome Page
- - [https://app.manchester.ac.uk](https://app.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:45.038121+00:00
-
- ## Research Groups: APT - Advanced Processor Technologies (School of Computer Science - The University of Manchester)
- - [http://apt.cs.manchester.ac.uk](http://apt.cs.manchester.ac.uk)
- - date_published: 2024-06-26T21:47:18.413390+00:00
-
- ## Policy@Manchester Articles
- - [http://blog.policy.manchester.ac.uk](http://blog.policy.manchester.ac.uk)
- - date_published: 2024-10-21T16:33:08.243907+00:00
-
- ## Wordpress Multisite - The University of Manchester Wordpress multisite
- - [https://blogs.manchester.ac.uk](https://blogs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:21.732842+00:00
-
- ## StaffNet | The University of Manchester
- - [https://documents.manchester.ac.uk](https://documents.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:16.413439+00:00
-
- ## Welcome to MIMS EPrints - MIMS EPrints
- - [https://eprints.maths.manchester.ac.uk](https://eprints.maths.manchester.ac.uk)
- - date_published: 2024-06-14T21:08:12.836459+00:00
-
- ## University of Manchester
- - [https://estore.manchester.ac.uk](https://estore.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:40.697412+00:00
-
- ## The University of Manchester Login Service
- - [https://forms.library.manchester.ac.uk](https://forms.library.manchester.ac.uk)
- - date_published: 2024-08-06T19:37:45.155212+00:00
-
- ## Manchester Giving – Fundraising Stories from The University of Manchester
- - [http://givingblog.manchester.ac.uk](http://givingblog.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:42.501283+00:00
-
- ## Sign in to your account
- - [http://intranet.maths.manchester.ac.uk](http://intranet.maths.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## LUNA Main Menu
- - [https://luna.manchester.ac.uk](https://luna.manchester.ac.uk)
- - date_published: 2024-04-28T06:07:57.927085+00:00
-
- ## The University of Manchester
- - [https://manchester.ac.uk](https://manchester.ac.uk)
- - date_published: 2024-03-16T21:52:08.520935+00:00
-
- ## Home
- - [https://museum.manchester.ac.uk](https://museum.manchester.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Student Support | My Manchester – accessing University systems | The University of Manchester
- - [https://my.manchester.ac.uk](https://my.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:36.535887+00:00
-
- ## The University of Manchester Login Service
- - [https://newsadmin.manchester.ac.uk](https://newsadmin.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:38.905020+00:00
-
- ## Pdrives Login :: Log in
- - [https://pdrives.manchester.ac.uk](https://pdrives.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:02.665931+00:00
-
- ## Search for people | The University of Manchester
- - [https://personalpages.manchester.ac.uk](https://personalpages.manchester.ac.uk)
- - date_published: 2024-06-30T08:06:11.695683+00:00
-
- ## My Manchester | Portal Information | Portal Unavailable | The University of Manchester
- - [https://portalcontent.manchester.ac.uk](https://portalcontent.manchester.ac.uk)
- - date_published: 2016-10-03T12:57:30+00:00
-
- ## The University of Manchester Login Service
- - [https://portal.manchester.ac.uk](https://portal.manchester.ac.uk)
- - date_published: 2024-07-13T12:35:59.979395+00:00
-
- ## projects.alc.manchester.ac.uk
- - [http://projects.alc.manchester.ac.uk](http://projects.alc.manchester.ac.uk)
- - date_published: 2018-08-10T11:07:09+00:00
-
- ## Sign in to your account
- - [https://pure.manchester.ac.uk](https://pure.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Research Explorer The University of Manchester
- - [https://research.manchester.ac.uk](https://research.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:34.970630+00:00
-
- ## The University of Manchester Login Service
- - [https://shib.manchester.ac.uk](https://shib.manchester.ac.uk)
- - date_published: 2024-06-30T01:26:20.930714+00:00
-
- ## Login - TERMINALFOUR Site Manager
- - [https://sitemanager.manchester.ac.uk](https://sitemanager.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:18.271485+00:00
-
- ## Sign in to your account
- - [http://ssnet.ceas.manchester.ac.uk](http://ssnet.ceas.manchester.ac.uk)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## StaffNet (Department of Computer Science - The University of Manchester)
- - [http://staffnet.cs.manchester.ac.uk](http://staffnet.cs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:33.747658+00:00
-
- ## StaffNet | The University of Manchester
- - [https://staffnet.manchester.ac.uk](https://staffnet.manchester.ac.uk)
- - date_published: 2024-05-11T07:23:38.122206+00:00
-
- ## Index Page
- - [https://studentadmin.manchester.ac.uk](https://studentadmin.manchester.ac.uk)
- - date_published: 2024-04-02T10:16:34+00:00
-
- ## My Placement
- - [https://studentmobility.manchester.ac.uk](https://studentmobility.manchester.ac.uk)
- - date_published: 2024-07-13T12:35:57.866772+00:00
-
- ## Student News - News, information, and events for your student life.
- - [https://studentnews.manchester.ac.uk](https://studentnews.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:03.939526+00:00
-
- ## Subject guides
- - [https://subjects.library.manchester.ac.uk](https://subjects.library.manchester.ac.uk)
- - date_published: 2024-08-08T17:26:30.875708+00:00
-
- ## Welcome to The Marketplace
- - [http://themarketplace.staffnet.manchester.ac.uk](http://themarketplace.staffnet.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:19.639942+00:00
-
- ## Publish
- - [https://timetables.manchester.ac.uk](https://timetables.manchester.ac.uk)
- - date_published: 2024-07-09T18:35:45+00:00
-
- ## The Whitworth promoting and developing volunteering in your area. A TeamKinetic powered website
- - [http://whitworthvolunteers.manchester.ac.uk](http://whitworthvolunteers.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:54.833464+00:00
-
- ## University brand | StaffNet | The University of Manchester
- - [http://www.brand.manchester.ac.uk](http://www.brand.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:14.825343+00:00
-
- ## Centre for the History of Science, Technology and Medicine | The University of Manchester
- - [http://www.chstm.manchester.ac.uk](http://www.chstm.manchester.ac.uk)
- - date_published: 2024-10-29T18:10:14.212490+00:00
-
- ## Counselling and Mental Health Service (The University of Manchester)
- - [http://www.counsellingservice.manchester.ac.uk](http://www.counsellingservice.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:30.710447+00:00
-
- ## Creative Manchester | Creative Manchester | The University of Manchester
- - [https://www.creative.manchester.ac.uk](https://www.creative.manchester.ac.uk)
- - date_published: 2024-07-11T00:00:00+00:00
-
- ## Information Governance Office | StaffNet | The University of Manchester
- - [http://www.dataprotection.manchester.ac.uk](http://www.dataprotection.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:39.930672+00:00
-
- ## Home
- - [http://www.datascience.manchester.ac.uk](http://www.datascience.manchester.ac.uk)
- - date_published: 2024-08-19T07:04:08.120663+00:00
-
- ## Manchester Digital Collections
- - [https://www.digitalcollections.manchester.ac.uk](https://www.digitalcollections.manchester.ac.uk)
- - date_published: 2024-04-28T06:07:55.861934+00:00
-
- ## Department of Electrical and Electronic Engineering - The University of Manchester
- - [http://www.eee.manchester.ac.uk](http://www.eee.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:42.993659+00:00
-
- ## Directorate of Estates and Facilities (The University of Manchester)
- - [http://www.estates.manchester.ac.uk](http://www.estates.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:17.341494+00:00
-
- ## Directorate of Finance | StaffNet | The University of Manchester
- - [https://www.finance.manchester.ac.uk](https://www.finance.manchester.ac.uk)
- - date_published: 2009-03-03T15:29:32+00:00
-
- ## Food on Campus (The University of Manchester)
- - [http://www.foodoncampus.manchester.ac.uk](http://www.foodoncampus.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:11.402720+00:00
-
- ## Graphene - The University of Manchester
- - [http://www.graphene.manchester.ac.uk](http://www.graphene.manchester.ac.uk)
- - date_published: 2024-07-02T10:05:13.423429+00:00
-
- ## Safety Services (The University of Manchester)
- - [https://www.healthandsafety.manchester.ac.uk](https://www.healthandsafety.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:23.280712+00:00
-
- ## IT Services (The University of Manchester)
- - [http://www.itservices.manchester.ac.uk](http://www.itservices.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:10.332509+00:00
-
- ## The University of Manchester - Jobs Page
- - [https://www.jobs.manchester.ac.uk](https://www.jobs.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:41.318268+00:00
-
- ## The University of Manchester Library (The University of Manchester Library)
- - [https://www.library.manchester.ac.uk](https://www.library.manchester.ac.uk)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Department of Mathematics - The University of Manchester
- - [http://www.maths.manchester.ac.uk](http://www.maths.manchester.ac.uk)
- - date_published: 2024-06-30T08:22:45.062223+00:00
-
- ## Occupational Health Service (The University of Manchester)
- - [http://www.occhealth.manchester.ac.uk](http://www.occhealth.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:13.168567+00:00
-
- ## Office for Open Research (Office for Open Research)
- - [https://www.openresearch.manchester.ac.uk](https://www.openresearch.manchester.ac.uk)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Ahmed Iqbal Ullah RACE (Race Archives and Community Engagement) Centre (The University of Manchester Library)
- - [http://www.racearchive.manchester.ac.uk](http://www.racearchive.manchester.ac.uk)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Homepage > Social Responsibility
- - [http://www.socialresponsibility.manchester.ac.uk](http://www.socialresponsibility.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:06.158758+00:00
-
- ## Home
- - [https://www.sport.manchester.ac.uk](https://www.sport.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:37.677527+00:00
-
- ## Student Support  | The University of Manchester
- - [https://www.studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:01.308710+00:00
-
- ## Environmental Sustainability at The University of Manchester
- - [http://www.sustainability.manchester.ac.uk](http://www.sustainability.manchester.ac.uk)
- - date_published: 2024-07-13T12:36:25.095048+00:00
-
- ## Whitworth Art Gallery
- - [https://www.whitworth.manchester.ac.uk](https://www.whitworth.manchester.ac.uk)
- - date_published: 2024-07-13T12:37:46.682977+00:00
-
- ## Home - Your Manchester Online - The University of Manchester
- - [https://your.manchester.ac.uk](https://your.manchester.ac.uk)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Plymouth Marjon University
- - [https://www.marjon.ac.uk](https://www.marjon.ac.uk)
- - date_published: 2024-10-20T04:12:18.581362+00:00
 

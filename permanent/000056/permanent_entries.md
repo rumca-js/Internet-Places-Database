@@ -1,3 +1,67 @@
+ ## Bibliopolitan: Brief Notes on Books
+ - [http://bibliopolitan.blogspot.com](http://bibliopolitan.blogspot.com)
+ - date_published: 2024-08-16T01:07:30+00:00
+
+ ## Large Scale Machine Learning and Other Animals
+ - [http://bickson.blogspot.com](http://bickson.blogspot.com)
+ - date_published: 2024-06-22T06:33:11+00:00
+
+ ## Bicycle Perth
+ - [http://bicycleperth.blogspot.com](http://bicycleperth.blogspot.com)
+ - date_published: 2024-08-14T06:28:17+00:00
+
+ ## Bid for Freedom!
+ - [http://bidforfreedom.blogspot.com](http://bidforfreedom.blogspot.com)
+ - date_published: 2024-10-21T14:43:40.156738+00:00
+
+ ## Big Bad Bald Bastard
+ - [http://bigbadbaldbastard.blogspot.com](http://bigbadbaldbastard.blogspot.com)
+ - date_published: 2024-06-18T18:08:37+00:00
+
+ ## Big Ball of No Fun
+ - [https://bigballofnofun.blogspot.com](https://bigballofnofun.blogspot.com)
+ - date_published: 2017-08-31T00:00:00+00:00
+
+ ## Big Beat From Badsville
+ - [http://bigbeatfrombadsville.blogspot.com](http://bigbeatfrombadsville.blogspot.com)
+ - date_published: 2024-07-20T07:28:09+00:00
+
+ ## BigCityLib Strikes Back
+ - [http://bigcitylib.blogspot.com](http://bigcitylib.blogspot.com)
+ - date_published: 2024-06-29T10:15:15+00:00
+
+ ## BigDungeon
+ - [http://bigdungeon.blogspot.com](http://bigdungeon.blogspot.com)
+ - date_published: 2024-07-06T08:13:13+00:00
+
+ ## Big Education Ape
+ - [http://bigeducationape.blogspot.com](http://bigeducationape.blogspot.com)
+ - date_published: 2024-06-20T17:51:37+00:00
+
+ ## Bigfoot Evidence
+ - [http://bigfootevidence.blogspot.com](http://bigfootevidence.blogspot.com)
+ - date_published: 2024-10-31T12:23:30+00:00
+
+ ## The BigRedBatCave
+ - [https://bigredbat.blogspot.com](https://bigredbat.blogspot.com)
+ - date_published: 2024-07-18T11:36:19+00:00
+
+ ## Big Rock Candy Mountain
+ - [http://bigrockcandymountain.blogspot.com](http://bigrockcandymountain.blogspot.com)
+ - date_published: 2024-03-13T19:36:22+00:00
+
+ ## Hollywood Hologram - Programming in the Stars
+ - [http://bigscreendeception.blogspot.com](http://bigscreendeception.blogspot.com)
+ - date_published: 2024-09-05T22:26:51+00:00
+
+ ## Resin armor large scale 1:15 - 1/16
+ - [http://bigtank120.blogspot.com](http://bigtank120.blogspot.com)
+ - date_published: 2024-10-22T07:32:36+00:00
+
+ ## The Bike-sharing Blog
+ - [http://bike-sharing.blogspot.com](http://bike-sharing.blogspot.com)
+ - date_published: 2024-09-10T12:54:24+00:00
+
  ## Bike Snob NYC
  - [http://bikesnobnyc.blogspot.com](http://bikesnobnyc.blogspot.com)
  - date_published: 2024-09-09T06:36:35+00:00
@@ -3950,68 +4014,4 @@
  ## The Culture Ghost
  - [http://cultureghost.blogspot.com](http://cultureghost.blogspot.com)
  - date_published: 2024-10-19T08:23:35.613708+00:00
-
- ## Culture in Peril
- - [http://cultureinperil.blogspot.com](http://cultureinperil.blogspot.com)
- - date_published: 2024-03-13T20:20:50+00:00
-
- ## The Culture of Chemistry
- - [http://cultureofchemistry.blogspot.com](http://cultureofchemistry.blogspot.com)
- - date_published: 2024-05-08T07:14:58+00:00
-
- ## My perspective -- What Constance thinks
- - [http://cumbey.blogspot.com](http://cumbey.blogspot.com)
- - date_published: 2024-10-21T15:32:52.887734+00:00
-
- ## Cum Lazaro
- - [http://cumlazaro.blogspot.com](http://cumlazaro.blogspot.com)
- - date_published: 2024-10-21T15:58:09.838054+00:00
-
- ## Cuore di Basilico
- - [http://cuoredibasilico.blogspot.com](http://cuoredibasilico.blogspot.com)
- - date_published: 2024-03-29T11:03:33+00:00
-
- ## Cupboard of Nurgle
- - [http://cupboardofnurgle.blogspot.com](http://cupboardofnurgle.blogspot.com)
- - date_published: 2024-07-11T20:59:15+00:00
-
- ## Curiomira
- - [http://curiomira.blogspot.com](http://curiomira.blogspot.com)
- - date_published: 2024-07-19T12:34:21+00:00
-
- ## The Curious Jew
- - [http://curiousjew.blogspot.com](http://curiousjew.blogspot.com)
- - date_published: 2021-10-02T00:00:00+00:00
-
- ## Things I see that confound me
- - [http://curioussigns.blogspot.com](http://curioussigns.blogspot.com)
- - date_published: 2024-10-19T10:50:10.159762+00:00
-
- ## Curling Up by the Fire
- - [http://curlingupbythefire.blogspot.com](http://curlingupbythefire.blogspot.com)
- - date_published: 2024-10-17T23:06:59.649214+00:00
-
- ## Curly Arrow
- - [http://curlyarrow.blogspot.com](http://curlyarrow.blogspot.com)
- - date_published: 2024-05-18T04:41:10+00:00
-
- ## Curmudgeons & Dragons
- - [http://curmudgeonsdragons.blogspot.com](http://curmudgeonsdragons.blogspot.com)
- - date_published: 2024-07-14T18:16:04+00:00
-
- ## CURMUDGUCATION
- - [http://curmudgucation.blogspot.com](http://curmudgucation.blogspot.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Currentartpics
- - [https://currentartpics.blogspot.com](https://currentartpics.blogspot.com)
- - date_published: 2024-03-14T16:48:36+00:00
-
- ## Current Flavor
- - [http://currentflavor.blogspot.com](http://currentflavor.blogspot.com)
- - date_published: 2024-02-21T03:47:15+00:00
-
- ## Mr.CurryBadger's Corner
- - [http://currybadger.blogspot.com](http://currybadger.blogspot.com)
- - date_published: 2024-03-19T11:12:47+00:00
 

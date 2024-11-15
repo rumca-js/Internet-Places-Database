@@ -1,3 +1,15 @@
+ ## Homerow — Keyboard shortcuts for every button in macOS
+ - [https://homerow.app](https://homerow.app)
+ - date_published: 2023-10-25T11:46:50.039169+00:00
+
+ ## Welcome to the Web API documentation 👋 | Homey Web API
+ - [https://api.developer.homey.app](https://api.developer.homey.app)
+ - date_published: 2024-08-05T22:57:14.988272+00:00
+
+ ## Welcome to the Apps SDK documentation 👋 | Homey Apps SDK
+ - [https://apps.developer.homey.app](https://apps.developer.homey.app)
+ - date_published: 2024-05-02T00:00:00+00:00
+
  ## Homey Community Forum
  - [https://community.homey.app](https://community.homey.app)
  - date_published: 2024-01-24T00:00:00+00:00
@@ -2318,6 +2330,7 @@
  ## Stremio Addons - Community List
  - [https://stremio-addons.netlify.app](https://stremio-addons.netlify.app)
  - date_published: 2024-11-12T17:19:51.212687+00:00
+ - tags: ['piracy']
 
  ## Sudoku
  - [https://sudoku-aj.netlify.app](https://sudoku-aj.netlify.app)
@@ -3052,6 +3065,10 @@
  ## Petra
  - [https://petra.app](https://petra.app)
  - date_published: 2024-09-25T10:29:40.624159+00:00
+
+ ## Petrichoir 🌧️
+ - [https://petrichoir.app](https://petrichoir.app)
+ - date_published: 2024-11-13T15:04:37+00:00
 
  ## Phantom — Crypto & NFT Wallet — Solana | Ethereum | Polygon
  - [https://phantom.app](https://phantom.app)
@@ -4020,20 +4037,4 @@
  ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
  - [https://sindri.app](https://sindri.app)
  - date_published: 2024-09-11T14:18:15+00:00
-
- ## A static site for your dynamically-generated website
- - [https://sitesauce.app](https://sitesauce.app)
- - date_published: 2024-08-17T22:19:07.675301+00:00
-
- ## Sitter Pro: Hassle-Free Care - Sitter Pro
- - [https://sitter.app](https://sitter.app)
- - date_published: 2018-10-15T00:00:00+00:00
-
- ## Sizzy — The browser for web developers
- - [https://sizzy.app](https://sizzy.app)
- - date_published: 2024-06-15T03:54:49+00:00
-
- ## SketchMe.App
- - [https://www.sketchme.app](https://www.sketchme.app)
- - date_published: 2024-07-10T00:02:32.347134+00:00
 
