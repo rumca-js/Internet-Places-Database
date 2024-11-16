@@ -1,3 +1,68 @@
+ ## SciStarter - SciStarter
+ - [https://scistarter.com](https://scistarter.com)
+ - date_published: 2024-05-09T04:11:26.821324+00:00
+
+ ## Use AI To Summarize Scientific Articles - SciSummary
+ - [https://scisummary.com](https://scisummary.com)
+ - date_published: 2024-06-19T21:08:01.585843+00:00
+
+ ## Open Access Journals | Open Access Publications
+ - [http://www.scitcentral.com](http://www.scitcentral.com)
+ - date_published: 2024-10-29T17:33:24.337458+00:00
+
+ ## Science Atlas - in the light of the science! | 2024
+ - [http://scitechc.com](http://scitechc.com)
+ - date_published: 2024-10-29T17:28:49.343627+00:00
+
+ ## SciTechDaily - Science, Space and Technology News 2023
+ - [https://scitechdaily.com](https://scitechdaily.com)
+ - date_published: 2023-10-25T10:11:08.449489+00:00
+
+ ## SciTechnol | International Publisher of Science and Technology
+ - [http://scitechnol.com](http://scitechnol.com)
+ - date_published: 2024-10-29T17:49:08.160890+00:00
+
+ ## Home - Science and Technology Policy Academy
+ - [https://scitechpolicyacademy.com](https://scitechpolicyacademy.com)
+ - date_published: 2024-10-19T04:00:43.162087+00:00
+
+ ## Scitechz
+ - [http://scitechz.com](http://scitechz.com)
+ - date_published: 2024-10-29T17:43:15.317703+00:00
+
+ ## Science and Technology Publishing
+ - [http://www.scitecpub.com](http://www.scitecpub.com)
+ - date_published: 2024-10-29T16:44:38.141510+00:00
+
+ ## Sciter Documentation | Sciter
+ - [https://docs.sciter.com](https://docs.sciter.com)
+ - date_published: 2024-03-03T15:32:45+00:00
+
+ ## Sciter Notes – Take your notes… back home.
+ - [https://notes.sciter.com](https://notes.sciter.com)
+ - date_published: 2024-04-29T02:30:45.890734+00:00
+
+ ## Quark – HTML/CSS/script Application Compiler
+ - [https://quark.sciter.com](https://quark.sciter.com)
+ - date_published: 2024-04-29T02:30:37.098236+00:00
+
+ ## sciter – Multiplatform HTML/CSS/JavaScript UI Engine for Desktop and Mobile Application
+ - [https://sciter.com](https://sciter.com)
+ - date_published: 2023-10-25T16:59:18.546109+00:00
+
+ ## SCITEVENTS
+ - [http://www.scitevents.com](http://www.scitevents.com)
+ - date_published: 2024-07-07T10:12:02.382595+00:00
+
+ ## Scitizen,  a collaborative news publishing initiative by scientists, for everyone.
+ - [http://scitizen.com](http://scitizen.com)
+ - date_published: 2024-08-18T20:15:44.324003+00:00
+
+ ## SciURLs – A neat science news aggregator
+ - [https://sciurls.com](https://sciurls.com)
+ - date_published: 2024-04-09T20:07:45.984325+00:00
+ - tags: ['link aggregator', 'science news']
+
  ## SciVal
  - [https://scival.com](https://scival.com)
  - date_published: 2024-06-15T06:31:10.997504+00:00
@@ -3989,70 +4054,4 @@ Scopus - Welcome to Scopus
  ## Secureworks Brand Portal
  - [https://dam.secureworks.com](https://dam.secureworks.com)
  - date_published: 2024-06-30T00:00:00+00:00
-
- ## Secureworks - Investor Relations
- - [https://investors.secureworks.com](https://investors.secureworks.com)
- - date_published: 2024-09-18T15:33:51.343602+00:00
-
- ## Secureworks: Cybersecurity Leader, Proven Threat Defense
- - [https://pages.secureworks.com](https://pages.secureworks.com)
- - date_published: 2024-09-18T15:33:47.545749+00:00
-
- ## Waiting for Identity Provider
- - [https://portal.secureworks.com](https://portal.secureworks.com)
- - date_published: 2024-09-18T15:33:42.742427+00:00
-
- ## Secureworks: Cybersecurity Leader, Proven Threat Defense
- - [http://secureworks.com](http://secureworks.com)
- - date_published: 2024-06-15T16:06:38.573734+00:00
-
- ## Securing Laravel | Stephen Rees-Carter | Substack
- - [https://securinglaravel.com](https://securinglaravel.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Securing Our Digital Future
- - [https://securingourdigitalfuture.com](https://securingourdigitalfuture.com)
- - date_published: 2024-07-16T20:51:57.701657+00:00
-
- ## Emerging markets research, data and news | EMIS Next
- - [http://www.securities.com](http://www.securities.com)
- - date_published: 2024-07-12T17:34:02+00:00
-
- ## Securities finance news and commentary - Securities Finance Times
- - [https://www.securitiesfinancetimes.com](https://www.securitiesfinancetimes.com)
- - date_published: 2024-09-25T12:23:53.142092+00:00
-
- ## Broadcom Blogs
- - [https://broadcom-software.security.com](https://broadcom-software.security.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Symantec Enterprise Blogs
- - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
- - date_published: 2023-10-25T17:01:22.426033+00:00
-
- ## Security Affairs - Read, think, share … Security is everyone's responsibility
- - [https://securityaffairs.com](https://securityaffairs.com)
- - date_published: 2023-10-25T09:35:33.117030+00:00
- - tags: ['security news']
-
- ## Security and Fire Africa | The leading African Security and Fire news brand
- - [https://securityafricamagazine.com](https://securityafricamagazine.com)
- - date_published: 2024-09-24T22:50:09.130762+00:00
-
- ## Home
- - [https://securityboulevard.com](https://securityboulevard.com)
- - date_published: 2024-04-05T00:00:00+00:00
- - tags: ['tech news']
-
- ## Security Boulevard Chat Podcast | Techstrong Group
- - [https://securityboulevardchats.com](https://securityboulevardchats.com)
- - date_published: 2024-05-22T00:00:00+00:00
-
- ## BSides / FrontPage
- - [http://www.securitybsides.com](http://www.securitybsides.com)
- - date_published: 2024-06-22T11:01:57.296422+00:00
-
- ## Home | The Security Bulldog- AI for cybersecurity, it's about time.
- - [https://securitybulldog.com](https://securitybulldog.com)
- - date_published: 2024-06-19T19:23:55.295058+00:00
 

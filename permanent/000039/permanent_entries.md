@@ -1,3 +1,7 @@
+ ## Aerospace Testing International | Aviation & Engineering News | MAG
+ - [https://aerospacetestinginternational.com](https://aerospacetestinginternational.com)
+ - date_published: 2024-01-13T01:38:16.799942+00:00
+
  ## Why am I here?
  - [https://email.aerospacetestinginternational.com](https://email.aerospacetestinginternational.com)
  - date_published: 2020-12-23T19:02:09+00:00
@@ -214,6 +218,10 @@
  ## AFCOM Leaders Lab - Data Center Professionals Exploring Solutions and Developing Responses
  - [https://leaders.afcom.com](https://leaders.afcom.com)
  - date_published: 2024-06-21T09:39:13+00:00
+
+ ## 爱发电 · 连接创作者与粉丝的会员制平台
+ - [https://afdian.com](https://afdian.com)
+ - date_published: 2024-11-11T08:45:49+00:00
 
  ## Free AF | Non alcoholic cocktails
  - [https://us.af-drinks.com](https://us.af-drinks.com)
@@ -4014,12 +4022,4 @@
  ## Ayrton's Biblical Page – Dedicada ao estudo acadêmico da Bíblia
  - [http://www.airtonjo.com](http://www.airtonjo.com)
  - date_published: 2024-06-28T21:07:30+00:00
-
- ## Airtory Knowledgebase
- - [https://docs.airtory.com](https://docs.airtory.com)
- - date_published: 2024-06-25T22:53:14.232178+00:00
-
- ## Showcase of Rich Media Interactive Ad Experiences| Airtory
- - [https://formats.airtory.com](https://formats.airtory.com)
- - date_published: 2024-04-30T06:46:58+00:00
 

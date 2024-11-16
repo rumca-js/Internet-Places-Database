@@ -1,3 +1,107 @@
+ ## Nordens største netbutik - altid gode tilbud
+ - [https://www.komplett.dk](https://www.komplett.dk)
+ - date_published: 2024-11-08T13:06:52.959283+00:00
+
+ ## Forside
+ - [https://kreditnu.dk](https://kreditnu.dk)
+ - date_published: 2024-10-30T08:00:00+00:00
+
+ ## Avisen om livets store spørgsmål
+ - [https://www.kristeligt-dagblad.dk](https://www.kristeligt-dagblad.dk)
+ - date_published: 2024-06-29T10:18:11+00:00
+
+ ## Kristian Risager Larsen
+ - [http://kristianrisagerlarsen.dk](http://kristianrisagerlarsen.dk)
+ - date_published: 2024-07-12T17:37:10.874455+00:00
+
+ ## Velkommen til Åbent Hus på KU – Københavns Universitet
+ - [https://aabenthus.ku.dk](https://aabenthus.ku.dk)
+ - date_published: 2024-03-07T00:00:00+00:00
+
+ ## About the University of Copenhagen – University of Copenhagen
+ - [https://about.ku.dk](https://about.ku.dk)
+ - date_published: 2024-04-30T02:41:24.791979+00:00
+
+ ## Beredskabssite – Københavns Universitet
+ - [https://akut.ku.dk](https://akut.ku.dk)
+ - date_published: 2024-04-30T02:42:00.072097+00:00
+
+ ## KU Alumne – Københavns Universitet
+ - [https://alumni.ku.dk](https://alumni.ku.dk)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Department of Anthropology – University of Copenhagen
+ - [https://anthropology.ku.dk](https://anthropology.ku.dk)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Institut for Antropologi – Københavns Universitet
+ - [https://antropologi.ku.dk](https://antropologi.ku.dk)
+ - date_published: 2024-04-24T00:00:00+00:00
+
+ ## Asiensatsning – Københavns Universitet
+ - [https://asiandynamics.ku.dk](https://asiandynamics.ku.dk)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## BARC – University of Copenhagen
+ - [https://barc.ku.dk](https://barc.ku.dk)
+ - date_published: 2024-07-10T06:39:55.109105+00:00
+
+ ## Bootstrap styling https – Københavns Universitet
+ - [https://bootstrap.secure.ku.dk](https://bootstrap.secure.ku.dk)
+ - date_published: 2024-07-22T09:55:08.434031+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://business.ku.dk](https://business.ku.dk)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## CEMES – University of Copenhagen
+ - [https://cemes.ku.dk](https://cemes.ku.dk)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Center for Subjectivity Research – University of Copenhagen
+ - [https://cfs.ku.dk](https://cfs.ku.dk)
+ - date_published: 2024-07-22T09:55:16.397121+00:00
+
+ ## Københavns Universitet – Københavns Universitet
+ - [https://cms.ku.dk](https://cms.ku.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## Collaboration – University of Copenhagen
+ - [https://collaboration.ku.dk](https://collaboration.ku.dk)
+ - date_published: 2024-04-30T02:41:23.352366+00:00
+
+ ## Continuing Education – University of Copenhagen
+ - [https://continuing-education.ku.dk](https://continuing-education.ku.dk)
+ - date_published: 2024-03-21T00:00:00+00:00
+
+ ## University of Copenhagen - Courses
+ - [https://courses.ku.dk](https://courses.ku.dk)
+ - date_published: 2024-04-30T02:41:30.343372+00:00
+
+ ## Center for Tracking and Society – University of Copenhagen
+ - [https://cts.ku.dk](https://cts.ku.dk)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Copenhagen University Library – University of Copenhagen
+ - [http://culis.ku.dk](http://culis.ku.dk)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Designguide – Københavns Universitet
+ - [https://designguide.ku.dk](https://designguide.ku.dk)
+ - date_published: 2024-04-30T02:42:21.150763+00:00
+
+ ## Datalogisk Institut – Københavns Universitet
+ - [https://di.ku.dk](https://di.ku.dk)
+ - date_published: 2024-04-10T00:00:00+00:00
+
+ ## De Veterinære Samlinger – Københavns Universitet
+ - [https://dvs.ku.dk](https://dvs.ku.dk)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Efteruddannelse – Københavns Universitet
+ - [https://efteruddannelse.ku.dk](https://efteruddannelse.ku.dk)
+ - date_published: 2024-04-29T00:00:00+00:00
+
  ## Continuing and Professional Education - Course search &ndash; University of Copenhagen
  - [https://efteruddannelse.kurser.ku.dk](https://efteruddannelse.kurser.ku.dk)
  - date_published: 2024-07-22T09:55:02.921798+00:00
@@ -3904,108 +4008,4 @@ I box, ...
  ## University of St Andrews
  - [https://st-andrews.academia.edu](https://st-andrews.academia.edu)
  - date_published: 2024-04-30T02:56:19.257668+00:00
-
- ## Suleyman Demirel University
- - [https://suleyman-demirel.academia.edu](https://suleyman-demirel.academia.edu)
- - date_published: 2024-04-30T03:02:01.776177+00:00
-
- ## Cierpliwości...
- - [https://support.academia.edu](https://support.academia.edu)
- - date_published: 2024-04-30T02:59:53.441415+00:00
-
- ## The University of Sydney
- - [https://sydney.academia.edu](https://sydney.academia.edu)
- - date_published: 2024-04-30T06:47:19.141540+00:00
-
- ## Syracuse University
- - [https://syr.academia.edu](https://syr.academia.edu)
- - date_published: 2024-08-07T20:18:11.786645+00:00
-
- ## Delft University of Technology
- - [http://tudelft.academia.edu](http://tudelft.academia.edu)
- - date_published: 2024-10-19T07:43:01.922818+00:00
-
- ## Universitat de Barcelona
- - [https://ub.academia.edu](https://ub.academia.edu)
- - date_published: 2024-06-24T09:53:17.923720+00:00
-
- ## University of Calgary
- - [https://ucalgary.academia.edu](https://ucalgary.academia.edu)
- - date_published: 2024-04-30T03:01:00.526211+00:00
-
- ## University College Cork
- - [https://ucc-ie.academia.edu](https://ucc-ie.academia.edu)
- - date_published: 2024-10-20T05:37:01.894396+00:00
-
- ## University of California, Davis
- - [http://ucdavis.academia.edu](http://ucdavis.academia.edu)
- - date_published: 2024-10-19T05:53:18.430364+00:00
-
- ## University of California, Irvine
- - [https://uci.academia.edu](https://uci.academia.edu)
- - date_published: 2024-04-30T02:57:47.316172+00:00
-
- ## University of California, Los Angeles
- - [https://ucla.academia.edu](https://ucla.academia.edu)
- - date_published: 2024-04-30T02:49:48.893438+00:00
-
- ## University College London
- - [https://ucl.academia.edu](https://ucl.academia.edu)
- - date_published: 2024-04-30T03:02:49.387494+00:00
-
- ## University of Connecticut
- - [https://uconn.academia.edu](https://uconn.academia.edu)
- - date_published: 2024-04-30T03:01:50.676175+00:00
-
- ## University of California, Riverside
- - [https://ucriverside.academia.edu](https://ucriverside.academia.edu)
- - date_published: 2024-05-07T13:46:38.061452+00:00
-
- ## University of Suffolk
- - [https://ucs.academia.edu](https://ucs.academia.edu)
- - date_published: 2024-06-24T10:53:04.894256+00:00
-
- ## University of California, Santa Cruz
- - [https://ucsc.academia.edu](https://ucsc.academia.edu)
- - date_published: 2024-04-30T02:56:00.401201+00:00
-
- ## UFSCar - Federal University of São Carlos
- - [https://ufscar.academia.edu](https://ufscar.academia.edu)
- - date_published: 2024-04-30T03:02:37.031230+00:00
-
- ## University of Gdansk
- - [https://ug.academia.edu](https://ug.academia.edu)
- - date_published: 2024-04-30T02:58:45.746908+00:00
-
- ## University of Illinois at Chicago
- - [https://uic.academia.edu](https://uic.academia.edu)
- - date_published: 2024-04-30T02:59:08.106014+00:00
-
- ## The University of Iowa
- - [https://uiowa.academia.edu](https://uiowa.academia.edu)
- - date_published: 2024-04-30T02:57:52.159238+00:00
-
- ## University of Tromsø
- - [https://uit.academia.edu](https://uit.academia.edu)
- - date_published: 2024-04-30T02:57:55.786239+00:00
-
- ## University of Lincoln
- - [https://ulincoln.academia.edu](https://ulincoln.academia.edu)
- - date_published: 2024-04-30T02:58:55.872174+00:00
-
- ## University of Michigan
- - [https://umich.academia.edu](https://umich.academia.edu)
- - date_published: 2024-04-30T02:50:21.635918+00:00
-
- ## University of Debrecen
- - [https://unideb.academia.edu](https://unideb.academia.edu)
- - date_published: 2024-04-30T03:00:26.068360+00:00
-
- ## Universitas Katolik Soegijapranata
- - [http://unika.academia.edu](http://unika.academia.edu)
- - date_published: 2024-06-30T04:34:32.622545+00:00
-
- ## TU Kaiserslautern
- - [https://uni-kl.academia.edu](https://uni-kl.academia.edu)
- - date_published: 2024-04-30T02:49:51.800589+00:00
 

@@ -1,3 +1,19 @@
+ ## China EVs Database | DB.CarNewsChina.com
+ - [https://db.carnewschina.com](https://db.carnewschina.com)
+ - date_published: 2024-05-08T04:30:04.897086+00:00
+
+ ## CarNewsChina Thailand
+ - [https://th.carnewschina.com](https://th.carnewschina.com)
+ - date_published: 2024-07-03T09:03:53.212631+00:00
+
+ ## Carnext 360 Tool
+ - [https://vehicle-360.carnext.com](https://vehicle-360.carnext.com)
+ - date_published: 2024-04-29T04:02:42.613703+00:00
+
+ ## Carnicom Institute – Research for the Benefit of Humanity
+ - [http://www.carnicom.com](http://www.carnicom.com)
+ - date_published: 2024-09-16T20:01:25.474194+00:00
+
  ## Cruises | Carnival Cruise Deals: Caribbean, The Bahamas, Alaska, and Mexico
  - [https://carnival.com](https://carnival.com)
  - date_published: 2024-04-29T04:13:34.087379+00:00
@@ -4022,20 +4038,4 @@
  ## CelerData @ CelerData Docs
  - [https://docs.celerdata.com](https://docs.celerdata.com)
  - date_published: 2024-05-08T04:45:00.416285+00:00
-
- ## CelerData Cloud Serverless
- - [https://serverless.celerdata.com](https://serverless.celerdata.com)
- - date_published: 2024-05-08T04:45:04.398763+00:00
-
- ## CelerData | High-Performance Data Lake Analytics Powered by StarRocks
- - [https://try.celerdata.com](https://try.celerdata.com)
- - date_published: 2024-05-08T04:45:06.721267+00:00
-
- ## Home - Celery Sound Records
- - [http://celerysoundrecords.com](http://celerysoundrecords.com)
- - date_published: 2024-08-11T00:00:00+00:00
-
- ## Celeste Bradley - Regency Goddess
- - [http://celestebradley.com](http://celestebradley.com)
- - date_published: 2024-09-09T13:36:36.852545+00:00
 

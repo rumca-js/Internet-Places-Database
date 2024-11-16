@@ -1,3 +1,28 @@
+ ## CRIF | Credit Bureau Reporting and Business Information
+ - [https://www.crif.com](https://www.crif.com)
+ - date_published: 2024-10-31T10:24:54.609729+00:00
+
+ ## Homepage | A+E Networks EMEA
+ - [https://www.crimeandinvestigationnetwork.com](https://www.crimeandinvestigationnetwork.com)
+ - date_published: 2024-07-20T23:40:16.068783+00:00
+
+ ## CRIME De-Coder
+ - [https://crimede-coder.com](https://crimede-coder.com)
+ - date_published: 2024-08-18T11:27:01.044766+00:00
+
+ ## Home
+ - [https://crimefictionlover.com](https://crimefictionlover.com)
+ - date_published: 2024-10-20T23:44:21.474612+00:00
+
+ ## Crime in Time
+ - [https://www.crimeintime.com](https://www.crimeintime.com)
+ - date_published: 2024-11-12T22:41:13.481968+00:00
+ - tags: ['personal']
+
+ ## CrimeIsDown.com
+ - [https://crimeisdown.com](https://crimeisdown.com)
+ - date_published: 2024-07-20T18:05:02.220357+00:00
+
  ## Crime Junkie Podcast
  - [https://crimejunkiepodcast.com](https://crimejunkiepodcast.com)
  - date_published: 2024-07-24T00:00:00+00:00
@@ -4015,28 +4040,4 @@
  ## Franchise Marketing - Curious Jane
  - [https://www.curiousjane.com](https://www.curiousjane.com)
  - date_published: 2024-09-05T22:17:42.376621+00:00
-
- ## Curious Matrix | Stay Curious
- - [https://curiousmatrix.com](https://curiousmatrix.com)
- - date_published: 2024-07-16T18:28:57.002145+00:00
-
- ## Medical & Scientific Antique & Period Prop Hire | CURIOUS SCIENCE
- - [http://www.curiousscience.com](http://www.curiousscience.com)
- - date_published: 2024-06-24T09:33:54.391078+00:00
-
- ## Curious Venn | A curious intersection of various interests
- - [https://www.curiousvenn.com](https://www.curiousvenn.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Curio Wellness Homepage
- - [https://curiowellness.com](https://curiowellness.com)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Spark your students curiosity
- - [https://curipod.com](https://curipod.com)
- - date_published: 2024-06-19T19:55:08.889359+00:00
-
- ## Curipod
- - [https://shop.curipod.com](https://shop.curipod.com)
- - date_published: 2024-10-30T15:21:29.242844+00:00
 

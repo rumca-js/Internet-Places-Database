@@ -1,3 +1,27 @@
+ ## An error has occurred
+ - [https://confirmsubscription.com](https://confirmsubscription.com)
+ - date_published: 2024-05-02T12:39:01.587855+00:00
+
+ ## Confispace - ConfiSpace
+ - [https://confispace.com](https://confispace.com)
+ - date_published: 2022-10-11T15:59:17+00:00
+
+ ## Confluencr - Leading Influencer Marketing Agency in India
+ - [https://confluencr.com](https://confluencr.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Confluent Forms - creating beautiful websites and smart digital marketing strategies
+ - [https://confluentforms.com](https://confluentforms.com)
+ - date_published: 2024-05-08T11:47:10.469733+00:00
+
+ ## Confreaks | Conference Filming & Streaming
+ - [http://confreaks.com](http://confreaks.com)
+ - date_published: 2024-02-23T00:00:00+00:00
+
+ ## Confused.com
+ - [http://confused.com](http://confused.com)
+ - date_published: 2024-10-21T22:01:17.842613+00:00
+
  ## (no title)
  - [http://www.confusedofcalcutta.com](http://www.confusedofcalcutta.com)
  - date_published: 2024-07-04T08:34:22.879901+00:00
@@ -4009,30 +4033,4 @@
  ## Cory Rylan - Frontend Web Development Training
  - [https://training.coryrylan.com](https://training.coryrylan.com)
  - date_published: 2024-09-18T18:01:55.603861+00:00
-
- ## CORYS | DYNAMIC SIMULATION
- - [https://www.corys.com](https://www.corys.com)
- - date_published: 2024-10-01T09:39:26+00:00
-
- ## Cory Schmitz
- - [https://coryschmitz.com](https://coryschmitz.com)
- - date_published: 2024-06-18T16:54:22.109320+00:00
- - tags: ['personal', 'graphic artist']
-
- ## Cory Shaw | Cory Shaw
- - [https://coryshaw.com](https://coryshaw.com)
- - date_published: 2024-01-08T15:36:54.508225+00:00
- - tags: ['personal']
-
- ## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
- - [https://coryzue.com](https://coryzue.com)
- - date_published: 2023-10-25T13:34:24.334483+00:00
-
- ## COS - Contemporary Style, Designed To Last - Shop Online - ES
- - [https://www.cos.com](https://www.cos.com)
- - date_published: 2024-06-27T12:26:36.693705+00:00
-
- ## CosaVostra - Agence de conseil tech et créative
- - [https://www.cosavostra.com](https://www.cosavostra.com)
- - date_published: 2024-10-30T02:33:03+00:00
 

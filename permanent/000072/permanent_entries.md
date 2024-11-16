@@ -1,3 +1,19 @@
+ ## CelerData Cloud Serverless
+ - [https://serverless.celerdata.com](https://serverless.celerdata.com)
+ - date_published: 2024-05-08T04:45:04.398763+00:00
+
+ ## CelerData | High-Performance Data Lake Analytics Powered by StarRocks
+ - [https://try.celerdata.com](https://try.celerdata.com)
+ - date_published: 2024-05-08T04:45:06.721267+00:00
+
+ ## Home - Celery Sound Records
+ - [http://celerysoundrecords.com](http://celerysoundrecords.com)
+ - date_published: 2024-08-11T00:00:00+00:00
+
+ ## Celeste Bradley - Regency Goddess
+ - [http://celestebradley.com](http://celestebradley.com)
+ - date_published: 2024-09-09T13:36:36.852545+00:00
+
  ## Celeste
  - [https://www.celestegame.com](https://www.celestegame.com)
  - date_published: 2022-08-15T21:23:46+00:00
@@ -1596,6 +1612,10 @@
  ## Chaitanya Gupta
  - [https://chaitanyagupta.com](https://chaitanyagupta.com)
  - date_published: 2019-01-09T20:08:50+00:00
+
+ ## SafeLine | the Best WAF for Webmaster
+ - [https://waf.chaitin.com](https://waf.chaitin.com)
+ - date_published: 2024-11-11T06:05:34+00:00
 
  ## Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
  - [https://chakra-ui.com](https://chakra-ui.com)
@@ -4016,24 +4036,4 @@ Challonge
  ## Checkmyplace.com | Service-Einstellung checkmyplace.com
  - [https://www.checkmyplace.com](https://www.checkmyplace.com)
  - date_published: 2024-09-13T16:19:59.900741+00:00
-
- ## Check my working
- - [http://checkmyworking.com](http://checkmyworking.com)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Checkout.com API Reference
- - [https://api-reference.checkout.com](https://api-reference.checkout.com)
- - date_published: 2024-06-19T09:59:13.651016+00:00
-
- ## Payment services to power your performance | Checkout.com
- - [https://checkout.com](https://checkout.com)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Fraud Detection
- - [https://risk.checkout.com](https://risk.checkout.com)
- - date_published: 2024-06-15T19:45:54.718384+00:00
-
- ## Checkout X
- - [https://app.checkout-x.com](https://app.checkout-x.com)
- - date_published: 2024-06-21T11:53:25.381793+00:00
 

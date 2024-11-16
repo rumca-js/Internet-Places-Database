@@ -1,3 +1,15 @@
+ ## BeLight Software — Intuitive Apps for Mac, iOS, iPadOS and Windows
+ - [https://www.belightsoft.com](https://www.belightsoft.com)
+ - date_published: 2024-08-18T07:21:21.900536+00:00
+
+ ## Yonatan Belinkov
+ - [https://belinkov.com](https://belinkov.com)
+ - date_published: 2024-05-28T19:34:04+00:00
+
+ ## Attention Required! | Cloudflare
+ - [http://beliomagazine.com](http://beliomagazine.com)
+ - date_published: 2024-07-17T13:39:44.643908+00:00
+
  ## <strong>Reliable</strong> Software Development Company
  - [https://belitsoft.com](https://belitsoft.com)
  - date_published: 2024-05-06T21:49:09.676215+00:00
@@ -4026,16 +4038,4 @@
  ## Attention Required! | Cloudflare
  - [http://www.biblica.com](http://www.biblica.com)
  - date_published: 2024-06-22T05:52:35.365163+00:00
-
- ## Biblical Family Network – Growing the kingdom one family at a time.
- - [https://biblicalfamilynetwork.com](https://biblicalfamilynetwork.com)
- - date_published: 2024-09-20T11:26:09.417338+00:00
-
- ## Ancient wisdom for modern leaders | Biblical Leadership
- - [https://www.biblicalleadership.com](https://www.biblicalleadership.com)
- - date_published: 2024-10-31T12:34:36.106408+00:00
-
- ## Welcome to ABSA
- - [https://absa.biblio.com](https://absa.biblio.com)
- - date_published: 2024-08-06T04:38:10.225329+00:00
 

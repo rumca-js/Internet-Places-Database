@@ -1,3 +1,75 @@
+ ## Software Path | Compare Software for Your Business
+ - [https://softwarepath.com](https://softwarepath.com)
+ - date_published: 2024-06-27T02:30:06.462079+00:00
+
+ ## Design Patterns
+ - [https://softwarepatternslexicon.com](https://softwarepatternslexicon.com)
+ - date_published: 2024-09-20T00:00:00+00:00
+
+ ## Software Pragmatism
+ - [https://softwarepragmatism.com](https://softwarepragmatism.com)
+ - date_published: 2024-05-11T10:05:29.589631+00:00
+
+ ## Digital Marketing with a difference - we have a reputation to die for!
+ - [https://www.softwarepromotions.com](https://www.softwarepromotions.com)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## SoftwareReviews | Discover The Best Business Software
+ - [https://cdn0.softwarereviews.com](https://cdn0.softwarereviews.com)
+ - date_published: 2024-06-19T11:10:34.310792+00:00
+
+ ## SoftwareReviews | Discover The Best Business Software
+ - [https://cdn1.softwarereviews.com](https://cdn1.softwarereviews.com)
+ - date_published: 2024-06-19T11:10:38.983036+00:00
+
+ ## SoftwareReviews | Discover The Best Business Software
+ - [https://cdn2.softwarereviews.com](https://cdn2.softwarereviews.com)
+ - date_published: 2024-06-19T11:10:42.423927+00:00
+
+ ## SoftwareReviews | Discover The Best Business Software
+ - [https://cdn3.softwarereviews.com](https://cdn3.softwarereviews.com)
+ - date_published: 2024-06-19T11:10:37.281601+00:00
+
+ ## SoftwareReviews
+ - [https://provider.softwarereviews.com](https://provider.softwarereviews.com)
+ - date_published: 2024-06-19T11:10:27.426214+00:00
+
+ ## SoftwareReviews | Discover The Best Business Software
+ - [https://softwarereviews.com](https://softwarereviews.com)
+ - date_published: 2024-06-19T11:10:29.695882+00:00
+
+ ## Cierpliwości...
+ - [https://vendor.softwareselect.com](https://vendor.softwareselect.com)
+ - date_published: 2024-06-27T05:46:44.909508+00:00
+
+ ## Software Sessions
+ - [https://www.softwaresessions.com](https://www.softwaresessions.com)
+ - date_published: 2024-05-06T13:00:49.701102+00:00
+
+ ## Software Stack Investing - Investing analysis of the software companies that power next generation digital businesses
+ - [https://softwarestackinvesting.com](https://softwarestackinvesting.com)
+ - date_published: 2023-10-25T17:07:46.269464+00:00
+
+ ## clkmg.com
+ - [https://ppctrack.softwaresuggest.com](https://ppctrack.softwaresuggest.com)
+ - date_published: 2024-06-16T23:01:24.059872+00:00
+
+ ## Discover Top Business Software & Service Partners
+ - [https://www.softwaresuggest.com](https://www.softwaresuggest.com)
+ - date_published: 2024-05-01T08:11:31.161898+00:00
+
+ ## Software Testing Help - FREE IT Courses and Business Software Reviews
+ - [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com)
+ - date_published: 2024-07-13T20:43:07+00:00
+
+ ## Software Testing Magazine
+ - [https://www.softwaretestingmagazine.com](https://www.softwaretestingmagazine.com)
+ - date_published: 2016-03-05T08:36:53+00:00
+
+ ## Software Toolbox Solutions- Industrial Data & Information Integration
+ - [http://www.softwaretoolbox.com](http://www.softwaretoolbox.com)
+ - date_published: 2024-09-17T15:53:45+00:00
+
  ## سایت bet90 فارسی
  - [http://softwareufabet.com](http://softwareufabet.com)
  - date_published: 2024-08-08T11:50:55.761514+00:00
@@ -3961,77 +4033,4 @@
  ## Space Market Intelligence & Industry News - Space Impulse
  - [https://spaceimpulse.com](https://spaceimpulse.com)
  - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home
- - [https://events.spaceinafrica.com](https://events.spaceinafrica.com)
- - date_published: 2024-10-23T06:17:00.068768+00:00
-
- ## Home
- - [https://opportunities.spaceinafrica.com](https://opportunities.spaceinafrica.com)
- - date_published: 2024-10-23T06:17:07.233907+00:00
-
- ## Space Intel Report - Intelligence report for the space industry
- - [https://spaceintelreport.com](https://spaceintelreport.com)
- - date_published: 2023-10-25T17:09:09.148488+00:00
-
- ## Space Ipsum
- - [http://spaceipsum.com](http://spaceipsum.com)
- - date_published: 2024-06-26T07:18:45.014480+00:00
-
- ## Attention Required! | Cloudflare
- - [https://www.spaceitbridge.com](https://www.spaceitbridge.com)
- - date_published: 2024-06-18T17:40:12.682417+00:00
-
- ## SpaceKate
- - [https://spacekate.com](https://spacekate.com)
- - date_published: 2023-11-15T17:45:21.257199+00:00
- - tags: ['personal']
-
- ## Space Launch Agency - Space Marketing & Consulting
- - [https://spacelaunchagency.com](https://spacelaunchagency.com)
- - date_published: 2024-10-19T20:05:17.414413+00:00
-
- ## Spaceline Technologies
- - [https://www.spacelinetech.com](https://www.spacelinetech.com)
- - date_published: 2024-07-24T07:30:42.939510+00:00
-
- ## ultrajoke | faking it 'til we make it
- - [https://blog.spacemanlabs.com](https://blog.spacemanlabs.com)
- - date_published: 2024-06-23T15:06:01.476399+00:00
-
- ## Space Business and Industry News at SpaceMart.com
- - [https://spacemart.com](https://spacemart.com)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Space News Advertising, Defense News Advertising, Environment News Advertising, Energy News Advertising
- - [https://spacemedianetwork.com](https://spacemedianetwork.com)
- - date_published: 2022-04-28T09:29:49+00:00
-
- ## 下载google应用的软件
- - [http://dpiuz.spacemirager.com](http://dpiuz.spacemirager.com)
- - date_published: 2024-09-18T02:33:24.360383+00:00
-
- ## HODINKEE Shop: New and Vintage Watches, Straps, and Accessories
- - [http://fefvu.spacemirager.com](http://fefvu.spacemirager.com)
- - date_published: 2024-09-18T02:33:35.439702+00:00
-
- ## 极光apk
- - [http://hoxlw.spacemirager.com](http://hoxlw.spacemirager.com)
- - date_published: 2024-09-18T02:33:14.471277+00:00
-
- ## v2节点分享
- - [http://hxvun.spacemirager.com](http://hxvun.spacemirager.com)
- - date_published: 2024-09-18T02:33:17.393922+00:00
-
- ## 极光apk
- - [http://nnyuc.spacemirager.com](http://nnyuc.spacemirager.com)
- - date_published: 2024-09-18T02:33:06.522609+00:00
-
- ## Wake Forest University School of Business
- - [https://spacemirager.com](https://spacemirager.com)
- - date_published: 2024-02-08T00:00:00+00:00
-
- ## A Taut Line
- - [http://tnghd.spacemirager.com](http://tnghd.spacemirager.com)
- - date_published: 2024-09-18T02:33:33.067265+00:00
 

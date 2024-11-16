@@ -1,3 +1,163 @@
+ ## Self Service Password Reset
+ - [https://password.uct.ac.za](https://password.uct.ac.za)
+ - date_published: 2024-07-17T03:58:01.064933+00:00
+
+ ## Home | University of Cape Town
+ - [https://science.uct.ac.za](https://science.uct.ac.za)
+ - date_published: 2024-05-12T07:47:18.990085+00:00
+
+ ## Sign in to your account
+ - [https://services.ps.uct.ac.za](https://services.ps.uct.ac.za)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Home Page | University of Cape Town
+ - [https://summerschool.uct.ac.za](https://summerschool.uct.ac.za)
+ - date_published: 2024-05-12T07:45:24.855738+00:00
+
+ ## Sign in to your account
+ - [https://thirdparty.uct.ac.za](https://thirdparty.uct.ac.za)
+ - date_published: 2024-07-17T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [https://uct.ac.za](https://uct.ac.za)
+ - date_published: 2024-04-05T21:49:40+00:00
+
+ ## UCT Libraries
+ - [http://www2.lib.uct.ac.za](http://www2.lib.uct.ac.za)
+ - date_published: 2024-07-17T03:56:37.954899+00:00
+
+ ## Welcome to the College of Accounting | University of Cape Town
+ - [http://www.accounting.uct.ac.za](http://www.accounting.uct.ac.za)
+ - date_published: 2024-07-17T04:10:28+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.adp.uct.ac.za](http://www.adp.uct.ac.za)
+ - date_published: 2024-07-17T04:09:23+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.apg.uct.ac.za](http://www.apg.uct.ac.za)
+ - date_published: 2024-07-17T03:59:05+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.cea.uct.ac.za](http://www.cea.uct.ac.za)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.civil.uct.ac.za](http://www.civil.uct.ac.za)
+ - date_published: 2024-07-17T03:59:10+00:00
+
+ ## Home | University of Cape Town
+ - [https://www.commerceit.uct.ac.za](https://www.commerceit.uct.ac.za)
+ - date_published: 2024-07-17T04:09:46+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.cons.uct.ac.za](http://www.cons.uct.ac.za)
+ - date_published: 2024-07-17T03:58:59+00:00
+
+ ## Welcome to the Education Development Unit (EDU) | University of Cape Town
+ - [http://www.educommerce.uct.ac.za](http://www.educommerce.uct.ac.za)
+ - date_published: 2024-07-17T04:10:17+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.ee.uct.ac.za](http://www.ee.uct.ac.za)
+ - date_published: 2024-07-17T03:47:15+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.eresearch.uct.ac.za](http://www.eresearch.uct.ac.za)
+ - date_published: 2024-07-17T04:09:37+00:00
+
+ ## GIS Support | University of Cape Town
+ - [http://www.gis.uct.ac.za](http://www.gis.uct.ac.za)
+ - date_published: 2024-07-17T03:53:48+00:00
+
+ ## Government Publications Home | University of Cape Town
+ - [http://www.governmentpublications.lib.uct.ac.za](http://www.governmentpublications.lib.uct.ac.za)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.healthelectives.uct.ac.za](http://www.healthelectives.uct.ac.za)
+ - date_published: 2024-07-17T03:52:02+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.humedu.uct.ac.za](http://www.humedu.uct.ac.za)
+ - date_published: 2024-07-17T03:53:04+00:00
+
+ ## ICTS | University of Cape Town
+ - [http://www.icts.uct.ac.za](http://www.icts.uct.ac.za)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Welcome to Marketing Studies | University of Cape Town
+ - [http://www.marketingstudies.uct.ac.za](http://www.marketingstudies.uct.ac.za)
+ - date_published: 2024-07-17T04:10:21+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.mecheng.uct.ac.za](http://www.mecheng.uct.ac.za)
+ - date_published: 2024-07-17T03:58:55+00:00
+
+ ## Welcome to the Section of Organisational Psychology | University of Cape Town
+ - [http://www.organisationalpsychology.uct.ac.za](http://www.organisationalpsychology.uct.ac.za)
+ - date_published: 2024-07-17T04:07:04+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.pcucommerce.uct.ac.za](http://www.pcucommerce.uct.ac.za)
+ - date_published: 2024-07-17T04:10:24+00:00
+
+ ## Home - Our Academic Program | University of Cape Town
+ - [http://www.radiology.uct.ac.za](http://www.radiology.uct.ac.za)
+ - date_published: 2024-07-17T03:52:15+00:00
+
+ ## Welcome to RC&I | University of Cape Town
+ - [http://www.rci.uct.ac.za](http://www.rci.uct.ac.za)
+ - date_published: 2024-04-15T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.researchsupport.uct.ac.za](http://www.researchsupport.uct.ac.za)
+ - date_published: 2024-07-17T03:53:09+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.research.uct.ac.za](http://www.research.uct.ac.za)
+ - date_published: 2024-07-05T00:00:00+00:00
+
+ ## Home | School of Information Technology
+ - [http://www.sit.uct.ac.za](http://www.sit.uct.ac.za)
+ - date_published: 2024-07-10T00:00:00+00:00
+
+ ## Home | UCT Libraries
+ - [http://www.specialcollections.uct.ac.za](http://www.specialcollections.uct.ac.za)
+ - date_published: 2024-05-23T00:00:00+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.sss.uct.ac.za](http://www.sss.uct.ac.za)
+ - date_published: 2024-07-17T04:10:08+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.staff.uct.ac.za](http://www.staff.uct.ac.za)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home | Stay and Connect
+ - [http://www.stayandconnect.uct.ac.za](http://www.stayandconnect.uct.ac.za)
+ - date_published: 2024-07-17T04:09:59+00:00
+
+ ## Home | University of Cape Town
+ - [http://www.students.uct.ac.za](http://www.students.uct.ac.za)
+ - date_published: 2024-07-17T03:51:36+00:00
+
+ ## University of Cape Town research repository - Browse
+ - [https://zivahub.uct.ac.za](https://zivahub.uct.ac.za)
+ - date_published: 2024-06-15T21:23:35.508545+00:00
+
+ ## University of the Free State
+ - [https://www.ufs.ac.za](https://www.ufs.ac.za)
+ - date_published: 2024-10-20T04:43:58.226430+00:00
+
+ ## UJ the University of Johannesburg Gauteng South Africa
+ - [https://www.uj.ac.za](https://www.uj.ac.za)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Finding Solutions for Africa - University of Limpopo
+ - [http://www.ul.ac.za](http://www.ul.ac.za)
+ - date_published: 2024-10-29T16:01:35+00:00
+
  ## University of South Africa
  - [https://www.unisa.ac.za](https://www.unisa.ac.za)
  - date_published: 2024-10-20T04:41:21.277454+00:00
@@ -2017,4 +2177,8 @@
  ## The Zimbabwe Sphere
  - [https://www.zimsphere.co.zw](https://www.zimsphere.co.zw)
  - date_published: 2024-01-09T03:49:05.321457+00:00
+
+ ## Zoetis
+ - [https://www2.zoetis.co.zw](https://www2.zoetis.co.zw)
+ - date_published: 2024-06-27T09:52:47+00:00
 

@@ -1,3 +1,16 @@
+ ## Bits in Flight
+ - [https://bitsinflight.com](https://bitsinflight.com)
+ - date_published: 2023-12-21T03:31:11.484659+00:00
+ - tags: ['personal']
+
+ ## Bitslog
+ - [https://bitslog.com](https://bitslog.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Bitso – The simplest way to use and buy Bitcoin and other cryptocurrencies.
+ - [https://assets.bitso.com](https://assets.bitso.com)
+ - date_published: 2024-09-24T15:07:19+00:00
+
  ## Bitso – The simplest way to use and buy cryptocurrencies.
  - [https://bitso.com](https://bitso.com)
  - date_published: 2024-06-16T00:00:00+00:00
@@ -4040,16 +4053,4 @@
  ## William Stein's Number Theory Research Blog
  - [http://389a.blogspot.com](http://389a.blogspot.com)
  - date_published: 2023-11-16T11:18:48+00:00
-
- ## Error 400 (Bad Request)!!1
- - [https://3.bp.blogspot.com](https://3.bp.blogspot.com)
- - date_published: 2024-04-29T03:35:20.056344+00:00
-
- ## 3d6 in order
- - [http://3d6-in-order.blogspot.com](http://3d6-in-order.blogspot.com)
- - date_published: 2024-02-20T06:48:59+00:00
-
- ## A Three-Pound Monkey Brain
- - [http://3lbmonkeybrain.blogspot.com](http://3lbmonkeybrain.blogspot.com)
- - date_published: 2024-10-19T05:15:21.635164+00:00
 

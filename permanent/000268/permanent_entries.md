@@ -1,3 +1,107 @@
+ ## UCSF Institute for Global Health Sciences | Institute for Global Health Sciences
+ - [https://globalhealthsciences.ucsf.edu](https://globalhealthsciences.ucsf.edu)
+ - date_published: 2024-02-14T00:00:00+00:00
+
+ ## Graduate &amp; Professional Student Association
+ - [http://gpsa.ucsf.edu](http://gpsa.ucsf.edu)
+ - date_published: 2024-07-02T01:40:09+00:00
+
+ ## UC San Francisco Graduate Division
+ - [https://graduate.ucsf.edu](https://graduate.ucsf.edu)
+ - date_published: 2024-05-07T21:09:36.451286+00:00
+
+ ## UCSF Guides
+ - [http://guides.ucsf.edu](http://guides.ucsf.edu)
+ - date_published: 2024-07-02T01:55:06.742733+00:00
+
+ ## Home
+ - [https://healthcarefacilitators.ucsf.edu](https://healthcarefacilitators.ucsf.edu)
+ - date_published: 2024-07-02T02:02:04+00:00
+
+ ## Home - UCSF - Service Portal
+ - [https://help.ucsf.edu](https://help.ucsf.edu)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## UCSF Human Resources | UCSF Human Resources
+ - [https://hr.ucsf.edu](https://hr.ucsf.edu)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## Home
+ - [https://identity.ucsf.edu](https://identity.ucsf.edu)
+ - date_published: 2024-05-07T21:09:27.329315+00:00
+
+ ## About Us
+ - [https://innovation.ucsf.edu](https://innovation.ucsf.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## Homepage | intelligent imaging
+ - [https://intelligentimaging.ucsf.edu](https://intelligentimaging.ucsf.edu)
+ - date_published: 2024-09-01T11:16:27+00:00
+
+ ## PIPE
+ - [https://interprofessional.ucsf.edu](https://interprofessional.ucsf.edu)
+ - date_published: 2024-07-02T01:52:29+00:00
+
+ ## Home
+ - [http://isso.ucsf.edu](http://isso.ucsf.edu)
+ - date_published: 2024-07-02T01:36:46+00:00
+
+ ## Home | UCSF IT
+ - [https://it.ucsf.edu](https://it.ucsf.edu)
+ - date_published: 2024-02-21T00:00:00+00:00
+
+ ## Executive Leadership Support Network (ELSN)
+ - [https://leadershipsupport.ucsf.edu](https://leadershipsupport.ucsf.edu)
+ - date_published: 2024-07-02T01:41:07+00:00
+
+ ## Learning Resource Services
+ - [http://learn.ucsf.edu](http://learn.ucsf.edu)
+ - date_published: 2024-07-02T01:40:38+00:00
+
+ ## Office of Legal Affairs
+ - [https://legal.ucsf.edu](https://legal.ucsf.edu)
+ - date_published: 2024-05-07T21:09:13.745970+00:00
+
+ ## Welcome to the LGBT Resource Center
+ - [http://lgbt.ucsf.edu](http://lgbt.ucsf.edu)
+ - date_published: 2024-07-02T01:38:37+00:00
+
+ ## UCSF Library Help Center
+ - [https://libraryhelp.ucsf.edu](https://libraryhelp.ucsf.edu)
+ - date_published: 2024-02-02T00:00:00+00:00
+
+ ## Home - UCSF Library
+ - [https://library.ucsf.edu](https://library.ucsf.edu)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## UCSF Magazine
+ - [https://magazine.ucsf.edu](https://magazine.ucsf.edu)
+ - date_published: 2024-05-07T21:09:44.345297+00:00
+
+ ## Your gift can ignite discovery and inspire cures
+ - [https://makeagift.ucsf.edu](https://makeagift.ucsf.edu)
+ - date_published: 2024-07-02T01:40:52.391257+00:00
+
+ ## UCSF Medical Education Home | UCSF Medical Education
+ - [https://meded.ucsf.edu](https://meded.ucsf.edu)
+ - date_published: 2024-07-02T00:18:19+00:00
+
+ ## Home | UCSF School of Medicine
+ - [https://medschool.ucsf.edu](https://medschool.ucsf.edu)
+ - date_published: 2024-05-07T21:09:09.026443+00:00
+
+ ## Welcome to the Multicultural Resource Center
+ - [http://mrc.ucsf.edu](http://mrc.ucsf.edu)
+ - date_published: 2024-07-02T01:40:14+00:00
+
+ ## UCSF Mass Spectrometry Facility
+ - [http://msf.ucsf.edu](http://msf.ucsf.edu)
+ - date_published: 2024-02-22T19:59:17+00:00
+
+ ## University of California, San Francisco - MyAccess - Loading Session Information
+ - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
+ - date_published: 2024-05-07T21:08:39.463840+00:00
+
  ## MyFamily at UCSF
  - [https://myfamily.ucsf.edu](https://myfamily.ucsf.edu)
  - date_published: 2024-05-22T00:00:00+00:00
@@ -3899,108 +4003,4 @@
  ## Unit Homepage
  - [https://accessibility.umd.edu](https://accessibility.umd.edu)
  - date_published: 2024-06-06T00:00:00+00:00
-
- ## Astronomy Community Engagement (ACE): Home
- - [https://ace.astro.umd.edu](https://ace.astro.umd.edu)
- - date_published: 2020-03-13T19:04:41+00:00
-
- ## Home | Division of Administration
- - [https://adminvp.umd.edu](https://adminvp.umd.edu)
- - date_published: 2024-06-29T00:03:18+00:00
-
- ## Homepage
- - [https://admissions.umd.edu](https://admissions.umd.edu)
- - date_published: 2024-05-20T00:00:00+00:00
-
- ## Maryland Applied Graduate Engineering
- - [https://advancedengineering.umd.edu](https://advancedengineering.umd.edu)
- - date_published: 2024-02-07T00:00:00+00:00
-
- ## Home | College of Agriculture & Natural Resources at UMD
- - [http://agnr.umd.edu](http://agnr.umd.edu)
- - date_published: 2024-07-01T22:00:23+00:00
-
- ## Home | UMD Alerts
- - [https://alert.umd.edu](https://alert.umd.edu)
- - date_published: 2024-07-02T03:35:38.538875+00:00
-
- ## Home | University of Maryland Alumni Association
- - [https://alumni.umd.edu](https://alumni.umd.edu)
- - date_published: 2024-07-02T03:36:10.465072+00:00
-
- ## Home | Department of American Studies
- - [http://amst.umd.edu](http://amst.umd.edu)
- - date_published: 2024-09-17T20:26:21+00:00
-
- ## Sign in - Google Accounts
- - [http://arclab.isr.umd.edu](http://arclab.isr.umd.edu)
- - date_published: 2024-05-04T15:19:45.337931+00:00
-
- ## Home | College of Arts and Humanities
- - [https://arhu.umd.edu](https://arhu.umd.edu)
- - date_published: 2024-06-14T21:26:40+00:00
-
- ## University of Maryland Art Gallery |
- - [http://artgallery.umd.edu](http://artgallery.umd.edu)
- - date_published: 2024-09-18T08:33:25.816135+00:00
-
- ## Home | Department of Art History and Archaeology
- - [http://arthistory.umd.edu](http://arthistory.umd.edu)
- - date_published: 2024-09-17T20:29:36+00:00
-
- ## Home | Arts for All at Maryland
- - [https://arts.umd.edu](https://arts.umd.edu)
- - date_published: 2024-07-02T03:37:58+00:00
-
- ## Home | Department of Art
- - [https://art.umd.edu](https://art.umd.edu)
- - date_published: 2024-09-17T20:44:32+00:00
-
- ## University of Maryland: Department of Astronomy
- - [https://astro.umd.edu](https://astro.umd.edu)
- - date_published: 2024-05-18T02:46:37.546598+00:00
-
- ## Student Financial Services and Cashiering
- - [https://billpay.umd.edu](https://billpay.umd.edu)
- - date_published: 2024-06-26T16:06:01+00:00
-
- ## Booked Room Scheduler - Log In
- - [https://booked.ece.umd.edu](https://booked.ece.umd.edu)
- - date_published: 2024-07-20T10:08:28.039341+00:00
-
- ## UMIACS Business Office
- - [https://businessoffice.umiacs.umd.edu](https://businessoffice.umiacs.umd.edu)
- - date_published: 2024-07-02T03:39:59.080638+00:00
-
- ## Home
- - [https://calendar.umd.edu](https://calendar.umd.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## About | Violent Non-State Actor CBRN Data Portal
- - [https://cbrn.umd.edu](https://cbrn.umd.edu)
- - date_published: 2024-10-18T17:59:12.697662+00:00
-
- ## Center for Democracy and Civil Engagement | CDCE l Center for Democracy and Civic Engagement
- - [https://cdce.umd.edu](https://cdce.umd.edu)
- - date_published: 2024-07-06T20:55:00+00:00
-
- ## ClarkNet, the Clark School of Engineering Administrative Web Portal | The Clark School Administrative Portal
- - [https://clarknet.eng.umd.edu](https://clarknet.eng.umd.edu)
- - date_published: 2024-06-22T08:34:02+00:00
-
- ## Home | Department of Classics
- - [http://classics.umd.edu](http://classics.umd.edu)
- - date_published: 2024-09-17T20:29:24+00:00
-
- ## College of Computer, Mathematical, and Natural Sciences | University of Maryland
- - [https://cmns.umd.edu](https://cmns.umd.edu)
- - date_published: 2024-04-11T00:00:00+00:00
-
- ## Home | Department of Communication
- - [http://comm.umd.edu](http://comm.umd.edu)
- - date_published: 2024-09-17T20:24:39+00:00
-
- ## Home | Department of Communication
- - [https://communication.umd.edu](https://communication.umd.edu)
- - date_published: 2024-09-17T20:24:39+00:00
 

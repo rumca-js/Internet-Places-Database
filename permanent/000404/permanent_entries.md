@@ -1,3 +1,163 @@
+ ## Ainda Há Bilhetes
+ - [https://aindahabilhetes.blogs.sapo.pt](https://aindahabilhetes.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:33:43.196818+00:00
+
+ ## SAPO Alertas
+ - [https://alertas.sapo.pt](https://alertas.sapo.pt)
+ - date_published: 2024-06-10T06:58:14.808868+00:00
+
+ ## Almadense - As notícias de Almada
+ - [https://almadense.sapo.pt](https://almadense.sapo.pt)
+ - date_published: 2024-06-08T00:00:00+00:00
+
+ ## Portugal Amanhã - Pensar o futuro do país.
+ - [https://amanha.sapo.pt](https://amanha.sapo.pt)
+ - date_published: 2024-06-10T06:57:34.691310+00:00
+
+ ## Home - Amarante Magazine
+ - [https://amarantemagazine.sapo.pt](https://amarantemagazine.sapo.pt)
+ - date_published: 2024-06-10T06:57:38.520181+00:00
+
+ ## Jornal A Nação - jornal online, íntegros e atuais.
+ - [https://anacao.sapo.pt](https://anacao.sapo.pt)
+ - date_published: 2024-06-10T06:59:43.854175+00:00
+
+ ## antologia
+ - [http://antologia.blogs.sapo.pt](http://antologia.blogs.sapo.pt)
+ - date_published: 2024-07-12T21:01:48.446471+00:00
+
+ ## Home
+ - [https://aponte.sapo.pt](https://aponte.sapo.pt)
+ - date_published: 2024-06-10T06:58:12.060982+00:00
+
+ ## A Psique de Guilherme
+ - [https://apsiquedeguilherme.blogs.sapo.pt](https://apsiquedeguilherme.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:29:53.682240+00:00
+
+ ## Página Inicial - Auto SAPO
+ - [https://auto-frontoffice.sapo.pt](https://auto-frontoffice.sapo.pt)
+ - date_published: 2024-09-05T15:21:15.669769+00:00
+
+ ## Auto SAPO - Comprar e vender carros
+ - [https://auto.sapo.pt](https://auto.sapo.pt)
+ - date_published: 2024-06-10T06:58:09.547938+00:00
+
+ ## A Voz de Bragança - Imprensa Regional
+ - [https://avozdebraganca.sapo.pt](https://avozdebraganca.sapo.pt)
+ - date_published: 2024-09-05T15:02:06.529018+00:00
+
+ ## A Voz de Castelo Branco - Imprensa Regional
+ - [https://avozdecastelobranco.sapo.pt](https://avozdecastelobranco.sapo.pt)
+ - date_published: 2024-09-05T15:01:33.440283+00:00
+
+ ## A Voz de Évora - Imprensa Regional
+ - [https://avozdeevora.sapo.pt](https://avozdeevora.sapo.pt)
+ - date_published: 2024-06-10T07:00:16.278296+00:00
+
+ ## A Voz de Matosinhos - Imprensa Regional
+ - [https://avozdematosinhos.sapo.pt](https://avozdematosinhos.sapo.pt)
+ - date_published: 2024-06-10T06:55:49.178208+00:00
+
+ ## Terras de Santa Maria - Imprensa Regional
+ - [https://avozdeterrasdesantamaria.sapo.pt](https://avozdeterrasdesantamaria.sapo.pt)
+ - date_published: 2024-09-05T15:01:11.466989+00:00
+
+ ## Azeméis.Net Notícias - Jornal online de Oliveira de Azeméis
+ - [https://azemeisnet.sapo.pt](https://azemeisnet.sapo.pt)
+ - date_published: 2024-05-26T00:00:00+00:00
+
+ ## Beira Alta TV
+ - [https://beiraaltatv.sapo.pt](https://beiraaltatv.sapo.pt)
+ - date_published: 2024-06-10T06:57:29.302931+00:00
+
+ ## Bic Laranja
+ - [http://biclaranja.blogs.sapo.pt](http://biclaranja.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:40:22.895908+00:00
+
+ ## SAPO Blogs
+ - [https://blogs.sapo.pt](https://blogs.sapo.pt)
+ - date_published: 2024-05-10T06:15:29.612455+00:00
+
+ ## BombeirosTV | Portal de Notícias de e sobre bombeiros
+ - [https://bombeirostv.sapo.pt](https://bombeirostv.sapo.pt)
+ - date_published: 2023-04-11T14:10:10+00:00
+
+ ## Canal Alentejo - Canal Alentejo
+ - [https://canalalentejo.sapo.pt](https://canalalentejo.sapo.pt)
+ - date_published: 2024-06-10T06:59:46.492967+00:00
+
+ ## Caricaturas por Encomenda
+ - [https://caricaturasencomendadas.blogs.sapo.pt](https://caricaturasencomendadas.blogs.sapo.pt)
+ - date_published: 2024-09-05T15:21:37.940275+00:00
+
+ ## Casa dos Poetas - Blogue de Poesia, poetas portugueses e do mundo
+ - [http://casadospoetas.blogs.sapo.pt](http://casadospoetas.blogs.sapo.pt)
+ - date_published: 2024-07-12T21:05:16.859157+00:00
+
+ ## CASA SAPO - Portal Nacional de Imobiliário
+ - [https://casa.sapo.pt](https://casa.sapo.pt)
+ - date_published: 2024-09-05T14:57:54.103383+00:00
+
+ ## CentroTV - Notícias Região Centro de Portugal
+ - [https://centrotv.sapo.pt](https://centrotv.sapo.pt)
+ - date_published: 2024-06-10T06:55:33.145240+00:00
+
+ ## SAPO.pt - Última hora e notícias de hoje atualizadas ao minuto
+ - [http://ciberduvidas.sapo.pt](http://ciberduvidas.sapo.pt)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Cidade do Porto - Imprensa Regional
+ - [https://cidadedoporto.sapo.pt](https://cidadedoporto.sapo.pt)
+ - date_published: 2024-09-05T15:02:04.047010+00:00
+
+ ## Cidade Hoje - Rádio / Jornal / TV
+ - [https://cidadehoje.sapo.pt](https://cidadehoje.sapo.pt)
+ - date_published: 2024-06-10T06:56:08.814954+00:00
+
+ ## Cinematograficamente Falando ...
+ - [https://cinematograficamentefalando.blogs.sapo.pt](https://cinematograficamentefalando.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:34:52.884056+00:00
+
+ ## Clube de Jornalistas
+ - [https://clubedejornalistas.sapo.pt](https://clubedejornalistas.sapo.pt)
+ - date_published: 2024-06-10T06:58:27.151319+00:00
+
+ ## Concelho de Vila Nova de Gaia - Imprensa Regional
+ - [https://concelhodevilanovadegaia.sapo.pt](https://concelhodevilanovadegaia.sapo.pt)
+ - date_published: 2024-09-05T15:01:20.723301+00:00
+
+ ## Correio da Beira Serra
+ - [https://correiodabeiraserra.sapo.pt](https://correiodabeiraserra.sapo.pt)
+ - date_published: 2024-06-10T06:56:31.823326+00:00
+
+ ## Correio de Azambuja – Website do Jornal Correio de Azambuja
+ - [https://correiodeazambuja.sapo.pt](https://correiodeazambuja.sapo.pt)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## Correio de Azeméis - Notícias de Oliveira de Azeméis
+ - [https://correiodeazemeis.sapo.pt](https://correiodeazemeis.sapo.pt)
+ - date_published: 2024-06-10T06:59:50.084405+00:00
+
+ ## Corta-fitas
+ - [http://corta-fitas.blogs.sapo.pt](http://corta-fitas.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:34:37.522284+00:00
+
+ ## Defender o Quadrado
+ - [https://defenderoquadrado.blogs.sapo.pt](https://defenderoquadrado.blogs.sapo.pt)
+ - date_published: 2024-07-12T20:33:13.673616+00:00
+
+ ## Homepage
+ - [https://defesadeespinho.sapo.pt](https://defesadeespinho.sapo.pt)
+ - date_published: 2024-06-10T06:59:14.062657+00:00
+
+ ## Delito de Opinião
+ - [https://delitodeopiniao.blogs.sapo.pt](https://delitodeopiniao.blogs.sapo.pt)
+ - date_published: 2024-05-10T06:15:39.781013+00:00
+
+ ## Desportivo Transmontano
+ - [https://desportivotransmontano.sapo.pt](https://desportivotransmontano.sapo.pt)
+ - date_published: 2024-06-09T00:00:00+00:00
+
  ## SAPO Desporto
  - [https://desporto.sapo.pt](https://desporto.sapo.pt)
  - date_published: 2024-06-10T00:00:00+00:00
@@ -3873,165 +4033,4 @@
  ## Fiat Professional Romania
  - [https://www.fiatprofessional.ro](https://www.fiatprofessional.ro)
  - date_published: 2024-06-13T16:13:51+00:00
-
- ## fiipregatit.ro
- - [https://fiipregatit.ro](https://fiipregatit.ro)
- - date_published: 2024-07-24T12:32:33+00:00
-
- ## Film Now
- - [https://www.filmnow.ro](https://www.filmnow.ro)
- - date_published: 2024-08-18T08:47:31.286571+00:00
-
- ## Apa alcalină realizată de filtrele Finaqua produse în România
- - [https://finaqua.ro](https://finaqua.ro)
- - date_published: 2024-09-24T11:21:13.418498+00:00
-
- ## 5 to go - MORE COFFEE, LESS BUCKS
- - [https://fivetogo.ro](https://fivetogo.ro)
- - date_published: 2023-05-05T04:54:24+00:00
-
- ## 5togo.HOME – Home is where your coffee is
- - [https://home.fivetogo.ro](https://home.fivetogo.ro)
- - date_published: 2024-09-24T09:17:37+00:00
-
- ## No. 9 – Mai 2024
- - [https://revista.fivetogo.ro](https://revista.fivetogo.ro)
- - date_published: 2024-09-24T11:18:28.723262+00:00
-
- ## Flip.ro | Modul inteligent de a cumpăra și vinde telefoane!
- - [https://flip.ro](https://flip.ro)
- - date_published: 2024-09-16T02:24:13.374179+00:00
-
- ## Curse de autocar în toată Europa | FlixBus
- - [https://www.flixbus.ro](https://www.flixbus.ro)
- - date_published: 2024-06-28T10:09:50+00:00
-
- ## MFE 2014-2020 -
- - [http://www.fonduri-ue.ro](http://www.fonduri-ue.ro)
- - date_published: 2024-07-15T11:03:40+00:00
-
- ## Forbes Romania - Stiri, evenimente si anunturi
- - [https://forbes.ro](https://forbes.ro)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Descopera oferta noastra de masini noi | Ford RO
- - [http://www.ford.ro](http://www.ford.ro)
- - date_published: 2024-06-19T11:15:58+00:00
-
- ## Modele Ford în stoc | Ford RO
- - [https://ford-vanzari-online.ro](https://ford-vanzari-online.ro)
- - date_published: 2024-10-29T20:52:54.164038+00:00
-
- ## FotoTarget.ro
- - [http://www.fototarget.ro](http://www.fototarget.ro)
- - date_published: 2024-07-02T03:04:26.614141+00:00
-
- ## FranklinCovey: The World's Most Trusted Leadership Company
- - [https://www.franklincovey.ro](https://www.franklincovey.ro)
- - date_published: 2022-09-02T00:00:00+00:00
-
- ## Din 2009 sursa #1 de stiri in materie de biciclete | FreeRider
- - [https://freerider.ro](https://freerider.ro)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Federația Română de Șah - Turnee
- - [https://turnee.frsah.ro](https://turnee.frsah.ro)
- - date_published: 2024-07-20T04:11:08.119195+00:00
-
- ## Fundația Vodafone România • E normal să facem bine
- - [https://fundatia-vodafone.ro](https://fundatia-vodafone.ro)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Ultimele știri - G4Media.ro
- - [https://www.g4media.ro](https://www.g4media.ro)
- - date_published: 2024-07-11T21:44:51+00:00
-
- ## Gamers.ro
- - [https://www.gamers.ro](https://www.gamers.ro)
- - date_published: 2024-09-16T02:19:28+00:00
-
- ## Homepage - Garnier.com
- - [https://www.garnier.ro](https://www.garnier.ro)
- - date_published: 2024-10-20T22:52:27.855216+00:00
-
- ## Home - Gege
- - [https://gege.ro](https://gege.ro)
- - date_published: 2023-11-29T17:11:22.077487+00:00
- - tags: ['personal']
-
- ## Gemius Romania
- - [https://www.gemius.ro](https://www.gemius.ro)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## Liceul Tehnologic General Magheru Râmnicu Vâlcea
- - [http://www.generalmagheru.ro](http://www.generalmagheru.ro)
- - date_published: 2024-07-08T12:58:27.597618+00:00
-
- ## GLAMOUR SOUND BITES Primăvară – Vară 2024
- - [https://buy.glamour.ro](https://buy.glamour.ro)
- - date_published: 2024-04-16T10:02:34+00:00
-
- ## Glamour Magazine Romania
- - [https://www.glamour.ro](https://www.glamour.ro)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Glamour Magazine Romania
- - [http://www.glamourmagazine.ro](http://www.glamourmagazine.ro)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## GOLAZO.ro - sportul povestit cu pasiune și curaj: stiri din sport, meciuri live
- - [https://golazo.ro](https://golazo.ro)
- - date_published: 2024-10-18T23:53:55.788497+00:00
-
- ## Gomibo.ro - All phones and accessories
- - [https://www.gomibo.ro](https://www.gomibo.ro)
- - date_published: 2024-10-21T22:25:35.033887+00:00
-
- ## Google
- - [https://google.ro](https://google.ro)
- - date_published: 2024-07-14T10:09:04.593589+00:00
-
- ## Zanim przejdziesz do Map Google
- - [https://maps.google.ro](https://maps.google.ro)
- - date_published: 2024-07-20T07:36:42.709963+00:00
-
- ## Discursul susținut de premierul Marcel Ciolacu în plenul Parlamentului înaintea votului de învestitură
- - [https://gov.ro](https://gov.ro)
- - date_published: 2024-06-29T09:05:49.473903+00:00
-
- ## Platforma REI
- - [https://rei.gov.ro](https://rei.gov.ro)
- - date_published: 2024-06-24T10:45:30.113196+00:00
-
- ## ANPC – Autoritatea Națională pentru Protecția Consumatorilor
- - [http://www.anpc.gov.ro](http://www.anpc.gov.ro)
- - date_published: 2024-06-29T13:40:39.287528+00:00
-
- ## Ministerul Cercetării, Inovării şi Digitalizării :: www.mcid.gov.ro
- - [https://www.mcid.gov.ro](https://www.mcid.gov.ro)
- - date_published: 2024-06-28T14:09:51+00:00
-
- ## GPeC - Cele mai Importante Evenimente de E-Commerce & Digital Marketing din România
- - [https://www.gpec.ro](https://www.gpec.ro)
- - date_published: 2024-09-09T00:00:00+00:00
-
- ## Grecu și Asociații - Avocatura de business
- - [https://greculawyers.ro](https://greculawyers.ro)
- - date_published: 2024-02-29T00:00:00+00:00
-
- ## hangOFF - shot anti-mahmureala
- - [https://hangoff.ro](https://hangoff.ro)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## Home
- - [https://www.henkel.ro](https://www.henkel.ro)
- - date_published: 2024-10-18T20:17:39.487930+00:00
-
- ## Hidroelectrica
- - [https://www.hidroelectrica.ro](https://www.hidroelectrica.ro)
- - date_published: 2024-08-19T16:34:27.016067+00:00
-
- ## Homepage
- - [https://www.hilti.ro](https://www.hilti.ro)
- - date_published: 2024-06-20T07:26:31.982918+00:00
 

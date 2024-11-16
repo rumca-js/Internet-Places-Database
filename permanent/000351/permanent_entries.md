@@ -1,3 +1,147 @@
+ ## Digital Login
+ - [https://digital.nordea.no](https://digital.nordea.no)
+ - date_published: 2024-10-07T09:46:03+00:00
+
+ ## Nordea Investor
+ - [https://investor.nordea.no](https://investor.nordea.no)
+ - date_published: 2024-10-07T18:27:19.236786+00:00
+
+ ## Siden du ser etter finnes ikke
+ - [https://liv.nordea.no](https://liv.nordea.no)
+ - date_published: 2024-10-07T18:27:16.180645+00:00
+
+ ## Nordea
+ - [https://netbank.nordea.no](https://netbank.nordea.no)
+ - date_published: 2024-06-28T08:29:16+00:00
+
+ ## Velkommen til Nordea - bank for privat- og bedriftskunder
+ - [https://nordea.no](https://nordea.no)
+ - date_published: 2024-10-07T18:26:33.709771+00:00
+
+ ## Velkommen til Nordea Liv - pensjonssparing for bedrifter og privatpersoner
+ - [http://www.nordealiv.no](http://www.nordealiv.no)
+ - date_published: 2024-10-07T18:27:17.131504+00:00
+
+ ## Nordnetbloggen – En blogg om sparing, investering og finans
+ - [https://blogg.nordnet.no](https://blogg.nordnet.no)
+ - date_published: 2017-05-08T14:54:35+00:00
+
+ ## Ta sparingen din til neste nivå
+ - [https://nordnet.no](https://nordnet.no)
+ - date_published: 2024-10-07T21:17:02.864716+00:00
+
+ ## Gjenopplev Medieleder 2024 her
+ - [https://nored.no](https://nored.no)
+ - date_published: 2024-07-15T04:24:06.694776+00:00
+
+ ## Forside - data.norge.no
+ - [https://data.norge.no](https://data.norge.no)
+ - date_published: 2024-09-29T20:06:54.920851+00:00
+
+ ## Norge i Bilder
+ - [https://norgeibilder.no](https://norgeibilder.no)
+ - date_published: 2024-02-08T16:47:28.312626+00:00
+
+ ## Forside
+ - [http://norges-bank.no](http://norges-bank.no)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Norkart - Norges komplette datavarehus for geografisk informasjon
+ - [https://www.norkart.no](https://www.norkart.no)
+ - date_published: 2024-08-17T23:01:58+00:00
+
+ ## Norli Bokhandel
+ - [https://www.norli.no](https://www.norli.no)
+ - date_published: 2024-07-11T10:48:46.063825+00:00
+
+ ## NORSAR - NORSAR.no
+ - [https://www.norsar.no](https://www.norsar.no)
+ - date_published: 2024-08-17T22:01:20+00:00
+
+ ## Sjekk hvor mye du har i forbruksgjeld
+ - [https://www.norskgjeld.no](https://www.norskgjeld.no)
+ - date_published: 2024-07-07T03:48:27.837502+00:00
+
+ ## The Norway Portal - Norwegian Ministry of Foreign Affairs
+ - [https://www.norway.no](https://www.norway.no)
+ - date_published: 2024-07-14T05:35:55+00:00
+
+ ## Norway Chess - Frontpage
+ - [https://norwaychess.no](https://norwaychess.no)
+ - date_published: 2024-06-20T01:57:52+00:00
+
+ ## Home - Notam
+ - [https://notam.no](https://notam.no)
+ - date_published: 2024-08-18T09:47:58.808444+00:00
+
+ ## Nova Consulting Group | Excellence made Easy
+ - [https://www.novaconsultinggroup.no](https://www.novaconsultinggroup.no)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Novanet AS
+ - [https://novanet.no](https://novanet.no)
+ - date_published: 2024-08-17T23:49:16.769620+00:00
+
+ ## Faktasider - Sokkeldirektoratet
+ - [http://factpages.npd.no](http://factpages.npd.no)
+ - date_published: 2024-09-16T21:21:21.269478+00:00
+
+ ## Home Flexbox - Polar Bear Specialist Group
+ - [https://pbsg.npolar.no](https://pbsg.npolar.no)
+ - date_published: 2024-01-25T00:00:00+00:00
+
+ ## Norsk Polarinstitutt
+ - [http://www.npolar.no](http://www.npolar.no)
+ - date_published: 2024-06-24T04:53:53.982998+00:00
+
+ ## NRC
+ - [https://www.nrc.no](https://www.nrc.no)
+ - date_published: 2024-08-18T21:35:11.631836+00:00
+
+ ## Hjelp og informasjon – Hjelp og informasjon
+ - [https://info.nrk.no](https://info.nrk.no)
+ - date_published: 2024-08-03T02:23:06.992326+00:00
+
+ ## NRK.no – nyheter, tv og radio fra Norge og hele verden
+ - [https://nrk.no](https://nrk.no)
+ - date_published: 2024-08-06T00:00:00+00:00
+
+ ## NRK Radio
+ - [https://radio.nrk.no](https://radio.nrk.no)
+ - date_published: 2024-04-29T05:14:28.009705+00:00
+
+ ## Forsiden - NRK TV
+ - [https://tv.nrk.no](https://tv.nrk.no)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## NRKbeta
+ - [https://nrkbeta.no](https://nrkbeta.no)
+ - date_published: 2023-10-27T12:06:09.586789+00:00
+
+ ## NRK Super
+ - [https://nrksuper.no](https://nrksuper.no)
+ - date_published: 2024-08-03T02:21:28.086165+00:00
+
+ ## nrmn
+ - [https://blog.nrmn.no](https://blog.nrmn.no)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## NTB Kommunikasjon
+ - [https://kommunikasjon.ntb.no](https://kommunikasjon.ntb.no)
+ - date_published: 2024-07-15T04:15:44.653507+00:00
+
+ ## NTNU Innsida
+ - [https://innsida.ntnu.no](https://innsida.ntnu.no)
+ - date_published: 2024-10-18T15:53:05.286125+00:00
+
+ ## NTNU: Norges teknisk-naturvitenskapelige universitet - NTNU
+ - [http://ntnu.no](http://ntnu.no)
+ - date_published: 2024-08-19T13:55:55.923769+00:00
+
+ ## Nettverksgruppa - NVG
+ - [https://nvg.ntnu.no](https://nvg.ntnu.no)
+ - date_published: 2024-03-08T00:00:00+00:00
+
  ## NTNU Nyheter
  - [https://nyheter.ntnu.no](https://nyheter.ntnu.no)
  - date_published: 2024-10-18T15:53:02.911925+00:00
@@ -3891,149 +4035,4 @@ marginalia.nu
  ## @ - CMS LOGIN
  - [https://zen.nzherald.co.nz](https://zen.nzherald.co.nz)
  - date_published: 2024-08-18T21:19:58.935221+00:00
-
- ## Homepage | NZ Maths
- - [https://nzmaths.co.nz](https://nzmaths.co.nz)
- - date_published: 2024-06-14T05:25:36+00:00
-
- ## NZME. - Advertise with New Zealand's Leading Media Brands - NZME.
- - [https://advertising.nzme.co.nz](https://advertising.nzme.co.nz)
- - date_published: 2024-08-18T21:19:38.157461+00:00
-
- ## Home - NZME
- - [https://careers.nzme.co.nz](https://careers.nzme.co.nz)
- - date_published: 2024-08-18T21:19:52.201554+00:00
-
- ## NZME. - Home
- - [https://www.nzme.co.nz](https://www.nzme.co.nz)
- - date_published: 2024-08-18T21:20:02.832038+00:00
-
- ## New Zealand Podcasts – The Most Popular New Zealand Podcasts Right Now
- - [https://nzpod.co.nz](https://nzpod.co.nz)
- - date_published: 2024-09-07T23:38:21.587358+00:00
-
- ## New Zealand Rugby Official Photography Library
- - [https://images.nzrugby.co.nz](https://images.nzrugby.co.nz)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Homepage | NZ Woman's Weekly Food
- - [https://www.nzwomansweeklyfood.co.nz](https://www.nzwomansweeklyfood.co.nz)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## oatthegoat.co.nz
- - [http://oatthegoat.co.nz](http://oatthegoat.co.nz)
- - date_published: 2024-08-06T20:07:53.997641+00:00
-
- ## Seagliders - The Future of Travel | Ocean Flyer
- - [https://oceanflyer.co.nz](https://oceanflyer.co.nz)
- - date_published: 2024-04-28T04:27:30.030949+00:00
-
- ## Otago Daily Times Online News
- - [https://www.odt.co.nz](https://www.odt.co.nz)
- - date_published: 2024-07-04T13:15:08+00:00
-
- ## One Answer
- - [https://portal.oneanswer.co.nz](https://portal.oneanswer.co.nz)
- - date_published: 2024-09-28T20:49:03.532063+00:00
-
- ## Find Real Estate for Sale on OneRoof NZ
- - [https://www.oneroof.co.nz](https://www.oneroof.co.nz)
- - date_published: 2024-08-18T21:19:55.739152+00:00
-
- ## Online Betting NZ - Best Sports Betting Sites in New Zealand 2024
- - [https://onlinebettingnz.co.nz](https://onlinebettingnz.co.nz)
- - date_published: 2024-07-08T08:33:00.199209+00:00
-
- ## Online Casino real money NZ ( 2024 ) - Best online slots real money
- - [https://onlinecasinosrealmoneynz.co.nz](https://onlinecasinosrealmoneynz.co.nz)
- - date_published: 2024-07-17T12:56:40.316126+00:00
-
- ## Online Pokies NZ 2024 - Best Online Pokies in New Zealand
- - [https://onlinepokiesnz.co.nz](https://onlinepokiesnz.co.nz)
- - date_published: 2024-07-05T09:12:47+00:00
-
- ## Opel NZ | German Cars & SUVs | Bold & Pure
- - [https://www.opel.co.nz](https://www.opel.co.nz)
- - date_published: 2024-07-09T14:00:20+00:00
-
- ## Open to Grow
- - [https://opentogrow.co.nz](https://opentogrow.co.nz)
- - date_published: 2024-01-01T03:40:17.027386+00:00
- - tags: ['personal']
-
- ## Optimi
- - [https://www.optimi.co.nz](https://www.optimi.co.nz)
- - date_published: 2024-07-15T11:09:47.144280+00:00
-
- ## Cafe Modern Menu | OscarandOtto | Tauranga Restaurant
- - [http://www.oscarandotto.co.nz](http://www.oscarandotto.co.nz)
- - date_published: 2024-09-18T19:01:08.356258+00:00
-
- ## Palfinger Cranes NZ | Palfinger NZ
- - [https://palfinger.co.nz](https://palfinger.co.nz)
- - date_published: 2024-09-18T18:40:41+00:00
-
- ## Home - MakeThis
- - [https://palmerdesign.co.nz](https://palmerdesign.co.nz)
- - date_published: 2024-05-24T00:00:00+00:00
-
- ## Patagonia Outdoor Clothing & Gear | New Zealand
- - [https://patagonia.co.nz](https://patagonia.co.nz)
- - date_published: 2024-05-06T22:33:20.850561+00:00
-
- ## Patchwork Architecture.
- - [http://patchworkarchitecture.co.nz](http://patchworkarchitecture.co.nz)
- - date_published: 2024-07-13T15:43:25.341391+00:00
-
- ## Welcome to nginx!
- - [https://clickcustompay.paymark.co.nz](https://clickcustompay.paymark.co.nz)
- - date_published: 2024-05-28T13:22:30+00:00
-
- ## Penguin Books New Zealand
- - [https://www.penguin.co.nz](https://www.penguin.co.nz)
- - date_published: 2024-06-28T14:51:50.307099+00:00
-
- ## Philips - New Zealand | Philips
- - [https://www.philips.co.nz](https://www.philips.co.nz)
- - date_published: 2024-10-31T12:31:46+00:00
-
- ## Pixeleyes
- - [https://www.pixeleyes.co.nz](https://www.pixeleyes.co.nz)
- - date_published: 2024-06-23T06:25:20.548368+00:00
-
- ## The best gaming PC's in NZ | Playtech
- - [https://playtech.co.nz](https://playtech.co.nz)
- - date_published: 2024-07-13T13:33:49.825330+00:00
-
- ## Property Investment & Fund Management | PMG Funds - PMG
- - [https://pmgfunds.co.nz](https://pmgfunds.co.nz)
- - date_published: 2024-04-19T00:00:00+00:00
-
- ## PriceSpy Media Ltd.
- - [https://pricespy.co.nz](https://pricespy.co.nz)
- - date_published: 2024-10-17T06:58:22.190145+00:00
-
- ## Psychoactive Studios
- - [https://psychoactive.co.nz](https://psychoactive.co.nz)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## New Zealand Public Holidays - PublicHolidays.co.nz
- - [https://publicholidays.co.nz](https://publicholidays.co.nz)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## Public Library — Consumer culture, Communication & Brand strategy
- - [http://publiclibrary.co.nz](http://publiclibrary.co.nz)
- - date_published: 2024-07-13T15:19:52.243542+00:00
-
- ## Pulse Security
- - [https://pulsesecurity.co.nz](https://pulsesecurity.co.nz)
- - date_published: 2023-10-25T20:50:15.343196+00:00
-
- ## Pundit
- - [http://www.pundit.co.nz](http://www.pundit.co.nz)
- - date_published: 2024-10-29T19:37:13.511239+00:00
-
- ## RAAIE Skincare - Active New Zealand Botanical Skincare
- - [https://raaie.co.nz](https://raaie.co.nz)
- - date_published: 2024-06-15T10:12:50.857462+00:00
 

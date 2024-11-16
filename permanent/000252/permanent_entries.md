@@ -1,3 +1,104 @@
+ ## AI powered Playwright end-to-end tests for web apps
+ - [https://www.octomind.dev](https://www.octomind.dev)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Odysseus Abraham Kirikopoulos
+ - [https://odysseusk.dev](https://odysseusk.dev)
+ - date_published: 2024-06-03T08:46:25+00:00
+
+ ## Offen Fair Web Analytics
+ - [https://docs.offen.dev](https://docs.offen.dev)
+ - date_published: 2024-05-22T18:31:07+00:00
+
+ ## Offen Fair Web Analytics
+ - [https://offen.offen.dev](https://offen.offen.dev)
+ - date_published: 2024-10-31T04:35:24.734987+00:00
+
+ ## Offen Fair Web Analytics
+ - [https://www.offen.dev](https://www.offen.dev)
+ - date_published: 2023-09-04T19:35:50+00:00
+
+ ## Home | Oh My Posh
+ - [https://ohmyposh.dev](https://ohmyposh.dev)
+ - date_published: 2024-06-18T11:07:08+00:00
+
+ ## Oh My Posh
+ - [https://swag.ohmyposh.dev](https://swag.ohmyposh.dev)
+ - date_published: 2024-10-22T02:24:54.593429+00:00
+
+ ## Miguel Ojeda
+ - [https://ojeda.dev](https://ojeda.dev)
+ - date_published: 2024-07-15T02:50:50.797165+00:00
+
+ ## Agencja interaktywna Okinet 👌 Software house Wrocław
+ - [https://okinet.dev](https://okinet.dev)
+ - date_published: 2024-07-09T13:18:54.484809+00:00
+
+ ## olano.dev
+ - [https://olano.dev](https://olano.dev)
+ - date_published: 2023-12-01T10:46:06.534286+00:00
+
+ ## Edwin - olback.dev
+ - [https://olback.dev](https://olback.dev)
+ - date_published: 2024-03-14T20:04:10+00:00
+
+ ## Home
+ - [https://omid.dev](https://omid.dev)
+ - date_published: 2024-06-19T01:01:54.728990+00:00
+
+ ## Best Custom Software Development Company - OneBase
+ - [https://onebase.dev](https://onebase.dev)
+ - date_published: 2024-10-30T17:31:39.483539+00:00
+
+ ## OneBite.Dev - Coding blog in a bite size
+ - [https://onebite.dev](https://onebite.dev)
+ - date_published: 2024-05-07T23:27:22.315889+00:00
+
+ ## Derniers articles
+ - [https://one-octet.dev](https://one-octet.dev)
+ - date_published: 2024-06-11T15:53:08+00:00
+
+ ## Developer tools for building better software
+ - [https://www.onepercent.dev](https://www.onepercent.dev)
+ - date_published: 2024-08-11T10:52:26.704283+00:00
+
+ ## Show HN: One – A new React framework unifying web, native and local-first
+ - [https://onestack.dev](https://onestack.dev)
+ - date_published: 2024-10-04T15:15:24+00:00
+
+ ## PayID Gambling | Top PayID Pokies for Aussie
+ - [https://onotakehiko.dev](https://onotakehiko.dev)
+ - date_published: 2024-10-22T19:18:03.752025+00:00
+
+ ## Onramp to Laravel
+ - [https://onramp.dev](https://onramp.dev)
+ - date_published: 2024-06-18T10:24:10.258922+00:00
+
+ ## Onur Şuyalçınkaya
+ - [https://onur.dev](https://onur.dev)
+ - date_published: 2023-12-16T07:29:32.330441+00:00
+ - tags: ['personal']
+
+ ## OP3: The Open Podcast Prefix Project
+ - [https://op3.dev](https://op3.dev)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## openage dev updates
+ - [https://blog.openage.dev](https://blog.openage.dev)
+ - date_published: 2024-07-15T15:53:40+00:00
+
+ ## You're invited to talk on Matrix
+ - [https://chat.openage.dev](https://chat.openage.dev)
+ - date_published: 2024-07-18T18:00:43.510092+00:00
+
+ ## GitHub - SFTtech/openage: Free (as in freedom) open source clone of the Age of Empires II engine 🚀
+ - [https://repo.openage.dev](https://repo.openage.dev)
+ - date_published: 2024-07-18T18:00:41.913872+00:00
+
+ ## OpenFeature
+ - [https://openfeature.dev](https://openfeature.dev)
+ - date_published: 2024-05-01T04:49:38.992649+00:00
+
  ## https://www.open-fire.dev
  - [https://open-fire.dev](https://open-fire.dev)
  - date_published: 2024-01-09T02:57:19.590490+00:00
@@ -3677,6 +3778,10 @@
  - [https://tpiros.dev](https://tpiros.dev)
  - date_published: 2024-10-20T08:57:39.808628+00:00
 
+ ## Browser Fingerprint - Check Your Digital Privacy
+ - [https://trackme.dev](https://trackme.dev)
+ - date_published: 2024-11-15T18:47:28.192957+00:00
+
  ## Certificate Transparency : Certificate Transparency
  - [https://certificate.transparency.dev](https://certificate.transparency.dev)
  - date_published: 2024-04-29T07:19:20.632415+00:00
@@ -3972,111 +4077,4 @@
  ## Bun: SQL client for Golang
  - [https://bun.uptrace.dev](https://bun.uptrace.dev)
  - date_published: 2023-05-11T00:00:00+00:00
-
- ## Redirecting...
- - [https://get.uptrace.dev](https://get.uptrace.dev)
- - date_published: 2023-06-27T11:51:09+00:00
-
- ## MessagePack encoding for Go
- - [https://msgpack.uptrace.dev](https://msgpack.uptrace.dev)
- - date_published: 2021-10-04T00:00:00+00:00
-
- ## Uptrace: Open Source Observability Platform
- - [https://uptrace.dev](https://uptrace.dev)
- - date_published: 2024-07-02T12:27:40+00:00
-
- ## urban style engineering
- - [https://urbanisierung.dev](https://urbanisierung.dev)
- - date_published: 2024-05-11T10:06:45.075450+00:00
-
- ## User Persona | Free AI-Powered Personas in Seconds
- - [https://userpersona.dev](https://userpersona.dev)
- - date_published: 2024-06-19T19:35:44.524852+00:00
-
- ## Utix
- - [https://utix.dev](https://utix.dev)
- - date_published: 2023-07-11T14:04:35+00:00
-
- ## Find Hacker News candidates and jobs powered by ChatGPT
- - [https://hnjobs.u-turn.dev](https://hnjobs.u-turn.dev)
- - date_published: 2023-11-01T15:43:46.245419+00:00
-
- ## v0 by Vercel
- - [https://v0.dev](https://v0.dev)
- - date_published: 2024-05-06T21:41:02.873338+00:00
-
- ## Sign in - Matomo
- - [https://analytics.v17.dev](https://analytics.v17.dev)
- - date_published: 2024-07-18T06:57:33.949778+00:00
-
- ## V8 JavaScript engine
- - [https://v8.dev](https://v8.dev)
- - date_published: 2023-10-25T18:43:16.107391+00:00
- - tags: ['open source', 'javascript engine', 'javascript', 'webassembly']
-
- ## About Vac | Vac Research
- - [https://vac.dev](https://vac.dev)
- - date_published: 2024-08-27T15:37:36+00:00
-
- ## Douglas Vaghetti
- - [https://vaghetti.dev](https://vaghetti.dev)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Vala Documentation
- - [https://docs.vala.dev](https://docs.vala.dev)
- - date_published: 2024-06-13T21:39:02+00:00
-
- ## Vala Programming Language
- - [https://vala.dev](https://vala.dev)
- - date_published: 2024-04-08T12:44:57+00:00
- - tags: ['programming language']
-
- ## The Vale programming language
- - [https://vale.dev](https://vale.dev)
- - date_published: 2023-12-29T05:00:00+00:00
-
- ## Hylo | The Hylo Programming Language
- - [https://val-lang.dev](https://val-lang.dev)
- - date_published: 2023-10-25T18:43:18.033836+00:00
-
- ## a (mostly) pointless blog
- - [https://blog.vamc19.dev](https://blog.vamc19.dev)
- - date_published: 2024-11-06T14:14:19.232282+00:00
- - tags: ['personal']
-
- ## \/\/\/\/\/\/ vamist \/\/\/\/\/\/
- - [https://vamist.dev](https://vamist.dev)
- - date_published: 2024-07-30T18:37:14+00:00
-
- ## Zowie van Dillen
- - [https://z.vandillen.dev](https://z.vandillen.dev)
- - date_published: 2023-10-25T18:43:19.713621+00:00
-
- ## vangemert
- - [https://www.vangemert.dev](https://www.vangemert.dev)
- - date_published: 2024-09-07T19:07:21+00:00
-
- ## Vasilis
- - [https://vasi.dev](https://vasi.dev)
- - date_published: 2024-08-06T05:13:05.757567+00:00
-
- ## Vasilika Klimova
- - [https://vasilika.dev](https://vasilika.dev)
- - date_published: 2024-08-24T01:05:14+00:00
-
- ## Random Thoughts
- - [https://vcsjones.dev](https://vcsjones.dev)
- - date_published: 2024-05-01T03:46:25.058518+00:00
-
- ## Join the Vector Discord Server!
- - [https://chat.vector.dev](https://chat.vector.dev)
- - date_published: 2024-04-30T02:26:22.976992+00:00
-
- ## Vector
- - [https://vector.dev](https://vector.dev)
- - date_published: 2024-02-08T12:21:52.860550+00:00
-
- ## Vencord
- - [https://vencord.dev](https://vencord.dev)
- - date_published: 2024-10-22T22:03:09.488947+00:00
 

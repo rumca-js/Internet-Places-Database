@@ -1,3 +1,7 @@
+ ## Decrypt: AI, Bitcoin, Culture, Gaming, and Crypto News - Decrypt
+ - [https://decrypt.co](https://decrypt.co)
+ - date_published: 2023-10-25T09:30:36.361891+00:00
+
  ## Hey, I'm imgproxy!
  - [https://img.decrypt.co](https://img.decrypt.co)
  - date_published: 2024-04-30T06:35:30.050478+00:00
@@ -4035,8 +4039,4 @@ It’s what you do.
  ## Local News Now | Elevating local news.
  - [https://lnn.co](https://lnn.co)
  - date_published: 2024-07-12T18:20:22.364965+00:00
-
- ## Listen Notes: The best podcast search engine
- - [https://lnns.co](https://lnns.co)
- - date_published: 2024-07-20T01:42:57+00:00
 

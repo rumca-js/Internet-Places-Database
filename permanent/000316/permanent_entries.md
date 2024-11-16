@@ -1,3 +1,138 @@
+ ## Simplifying Data Engineering - Silectis
+ - [https://www.silect.is](https://www.silect.is)
+ - date_published: 2020-12-17T00:00:00+00:00
+
+ ## Forsíða | Símenntun á Vesturlandi
+ - [https://simenntun.is](https://simenntun.is)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Sinfóníuhljómsveit Íslands
+ - [http://www.sinfonia.is](http://www.sinfonia.is)
+ - date_published: 2024-09-06T21:40:50+00:00
+
+ ## Timi Wahalahti | Backend developer and WordPress enthusiast
+ - [https://sipp.is](https://sipp.is)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## SIXT rent a car Iceland
+ - [https://sixt.is](https://sixt.is)
+ - date_published: 2024-06-14T00:00:00+00:00
+
+ ## Sker restaurant
+ - [https://www.skerrestaurant.is](https://www.skerrestaurant.is)
+ - date_published: 2024-07-12T20:15:33.888213+00:00
+
+ ## Welcome to my site | SLC is
+ - [https://slc.is](https://slc.is)
+ - date_published: 2024-07-23T23:32:28.242005+00:00
+
+ ## Your story estimation can be lightweight and efficient
+ - [https://smartguess.is](https://smartguess.is)
+ - date_published: 2023-11-01T08:43:48.191532+00:00
+
+ ## SoftArchive – SANET
+ - [https://softarchive.is](https://softarchive.is)
+ - date_published: 2024-11-07T09:24:58+00:00
+ - tags: ['piracy']
+
+ ## SPACES
+ - [https://spaces.is](https://spaces.is)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Spatial - Free Online Games 🚀 Play now!
+ - [https://spatial.is](https://spatial.is)
+ - date_published: 2024-07-19T16:01:50.632920+00:00
+
+ ## Samtök Sveitarfélaga á vesturlandi - Samtök sveitarfélaga á Vesturlandi
+ - [https://ssv.is](https://ssv.is)
+ - date_published: 2024-06-21T11:11:37.216906+00:00
+
+ ## Andy Stanton is
+ - [https://andy.stanton.is](https://andy.stanton.is)
+ - date_published: 2023-09-25T07:59:40+00:00
+ - tags: ['personal']
+
+ ## Forsíða
+ - [https://www.stjornarrad.is](https://www.stjornarrad.is)
+ - date_published: 2024-06-23T20:31:07.092096+00:00
+
+ ## Forsíða
+ - [https://www.stjornarradid.is](https://www.stjornarradid.is)
+ - date_published: 2024-05-06T15:11:07.976107+00:00
+
+ ## Aðgangur að besta sætinu | Stöð 2
+ - [https://kaup.stod2.is](https://kaup.stod2.is)
+ - date_published: 2024-06-23T21:03:44.380660+00:00
+
+ ## Mínar síður - Vodafone
+ - [https://minar.stod2.is](https://minar.stod2.is)
+ - date_published: 2023-10-05T09:03:22+00:00
+
+ ## Vefsjónvarp Stöð 2
+ - [https://sjonvarp.stod2.is](https://sjonvarp.stod2.is)
+ - date_published: 2024-06-23T21:03:46.217006+00:00
+
+ ## Forsíða | Stöð 2
+ - [https://stod2.is](https://stod2.is)
+ - date_published: 2024-05-06T15:13:58.739091+00:00
+
+ ## string.is - a privacy-friendly online string toolkit for developers
+ - [https://string.is](https://string.is)
+ - date_published: 2024-06-19T22:10:32.097293+00:00
+
+ ## Lincoln is...blue
+ - [https://lincoln.swaine-moore.is](https://lincoln.swaine-moore.is)
+ - date_published: 2024-01-09T03:33:33.087300+00:00
+
+ ## Developer Center | Swell
+ - [https://developers.swell.is](https://developers.swell.is)
+ - date_published: 2024-03-27T00:00:00+00:00
+
+ ## Swell | Next-level ecommerce for everyone
+ - [https://swell.is](https://swell.is)
+ - date_published: 2024-04-29T04:58:16.901545+00:00
+
+ ## Swiss Replica Watches Store - Top Quality Fake Watches For Sale
+ - [https://www.swissreplica.is](https://www.swissreplica.is)
+ - date_published: 2024-06-12T10:55:11.803393+00:00
+
+ ## Replica Rolex Watches Find Authentic Luxury
+ - [https://www.swissrolexreplica.is](https://www.swissrolexreplica.is)
+ - date_published: 2024-05-29T00:00:00+00:00
+
+ ## Árs- & sjálfbærniskýrsla 2023 - Sýn
+ - [https://arsskyrsla2023.syn.is](https://arsskyrsla2023.syn.is)
+ - date_published: 2024-02-26T00:00:00+00:00
+
+ ## Mín sýn
+ - [https://min.syn.is](https://min.syn.is)
+ - date_published: 2024-06-23T21:04:26.734267+00:00
+
+ ## Sýn
+ - [https://syn.is](https://syn.is)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Synthesis
+ - [https://portal.synthesis.is](https://portal.synthesis.is)
+ - date_published: 2024-08-19T05:00:42.027883+00:00
+
+ ## Synthesis Tutor
+ - [https://tutor.synthesis.is](https://tutor.synthesis.is)
+ - date_published: 2024-08-19T05:00:43.213605+00:00
+
+ ## Jasper is (╯°□°）╯︵ ┻━┻
+ - [https://jasper.tandy.is](https://jasper.tandy.is)
+ - date_published: 2023-11-29T14:25:42.608019+00:00
+ - tags: ['personal']
+
+ ## taskforce.is
+ - [https://taskforce.is](https://taskforce.is)
+ - date_published: 2024-07-16T17:32:55.851250+00:00
+
+ ## Tekjusagan
+ - [https://tekjusagan.is](https://tekjusagan.is)
+ - date_published: 2024-05-06T15:11:05.095324+00:00
+
  ## Index of /
  - [https://vefbordar.tgverk.is](https://vefbordar.tgverk.is)
  - date_published: 2024-06-23T21:04:24.284087+00:00
@@ -3887,136 +4022,4 @@
  ## Colorprinter - Colorstampa
  - [https://colorstampa.it](https://colorstampa.it)
  - date_published: 2024-02-06T15:12:30+00:00
-
- ## Comarch - software house globale | Progettazione, integrazione e implementazione di prodotti e servizi IT
- - [https://comarch.it](https://comarch.it)
- - date_published: 2024-05-12T04:00:39.782430+00:00
-
- ## Redirect
- - [https://volantino.comet.it](https://volantino.comet.it)
- - date_published: 2024-09-06T08:00:40+00:00
-
- ## Comet Online - Elettrodomestici, Informatica, Smartphone e Tecnologia
- - [https://www.comet.it](https://www.comet.it)
- - date_published: 2024-05-01T05:55:15.510113+00:00
-
- ## Home | Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili
- - [https://commercialisti.it](https://commercialisti.it)
- - date_published: 2024-07-20T18:10:50.143901+00:00
-
- ## Homepage - Fondazione Compagnia di San Paolo
- - [https://www.compagniadisanpaolo.it](https://www.compagniadisanpaolo.it)
- - date_published: 2024-07-14T16:10:43.651569+00:00
-
- ## Confronto tariffe LUCE, GAS e ASSICURAZIONI | Tiscali Tagliacosti
- - [https://tagliacosti.comparasemplice.it](https://tagliacosti.comparasemplice.it)
- - date_published: 2024-08-08T21:40:17.348438+00:00
-
- ## Condé Nast
- - [https://condenast.it](https://condenast.it)
- - date_published: 2024-05-12T06:00:07.851491+00:00
-
- ## Condottieri di ventura
- - [https://condottieridiventura.it](https://condottieridiventura.it)
- - date_published: 2024-07-09T11:39:30.222293+00:00
-
- ## Homepage
- - [http://www.confindustria.it](http://www.confindustria.it)
- - date_published: 2024-10-18T21:58:58.299182+00:00
-
- ## Accesso alle vendite online - Connected Retail di Zalando
- - [https://www.connectedretail.it](https://www.connectedretail.it)
- - date_published: 2024-09-24T00:00:00+00:00
-
- ## Conrad Electronic » All parts of success
- - [https://www.conrad.it](https://www.conrad.it)
- - date_published: 2024-08-18T15:21:22.018099+00:00
-
- ## Consap, Concessionaria Servizi Assicurativi Pubblici S.p.A.
- - [https://www.consap.it](https://www.consap.it)
- - date_published: 2024-09-26T21:00:57.925929+00:00
-
- ## Consider.it: An Online Forum for Community Engagement
- - [http://consider.it](http://consider.it)
- - date_published: 2024-07-04T06:09:57.687910+00:00
-
- ## Consigli.it - Il sito che guida allo shopping online
- - [https://consigli.it](https://consigli.it)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Home - ACF
- - [https://www.acf.consob.it](https://www.acf.consob.it)
- - date_published: 2024-06-16T07:31:41.991129+00:00
-
- ## In evidenza - CONSOB
- - [https://www.consob.it](https://www.consob.it)
- - date_published: 2024-06-25T22:50:01.756597+00:00
-
- ## Cini - Consorzio Interuniversitario Nazionale per l’Informatica  Costituito il 6.12.1989, il CINI è posto sotto la vigilanza del Ministero competente per l’Università e la Ricerca, include solo università pubbliche e costituisce soggetto in house rispetto agli enti costitutori, partecipanti e legittimamente affidanti LEGGI   Consorzio Interuniversitario Nazionale per l’Informatica
- - [https://www.consorzio-cini.it](https://www.consorzio-cini.it)
- - date_published: 2024-06-16T19:41:02+00:00
-
- ## Consorzio Netcomm | Il Commercio Digitale Italiano
- - [https://www.consorzionetcomm.it](https://www.consorzionetcomm.it)
- - date_published: 2024-07-22T00:00:00+00:00
-
- ## Consulenti Mediolanum
- - [https://www.consulentimediolanum.it](https://www.consulentimediolanum.it)
- - date_published: 2024-10-12T15:43:01.790083+00:00
-
- ## Continental Pneumatici | Scopri la gamma Continental
- - [https://www.continental-pneumatici.it](https://www.continental-pneumatici.it)
- - date_published: 2024-05-07T00:00:00+00:00
-
- ## Fondazione Destination Florence – Convention Bureau
- - [http://www.conventionbureau.it](http://www.conventionbureau.it)
- - date_published: 2024-08-19T20:45:38.576083+00:00
-
- ## CookieMan
- - [https://admin.cookieman.it](https://admin.cookieman.it)
- - date_published: 2024-07-15T07:34:42.817704+00:00
-
- ## CoopCulture
- - [http://www.coopculture.it](http://www.coopculture.it)
- - date_published: 2024-08-19T20:45:25+00:00
-
- ## IIS Corinaldesi Padovano
- - [https://www.corinaldesipadovano.it](https://www.corinaldesipadovano.it)
- - date_published: 2024-10-13T07:15:47.756110+00:00
-
- ## Cormac McCarthy: il sito italiano -
- - [https://cormacmccarthy.it](https://cormacmccarthy.it)
- - date_published: 2024-05-06T15:16:17.827931+00:00
-
- ## La ventisettesima ora | Blog femminile | Corriere .it
- - [https://27esimaora.corriere.it](https://27esimaora.corriere.it)
- - date_published: 2024-10-19T00:00:55.695270+00:00
-
- ## Archivio Corriere della Sera
- - [http://archivio.corriere.it](http://archivio.corriere.it)
- - date_published: 2024-10-19T01:26:41.850286+00:00
-
- ## Corriere Bari: le ultime news dalla città | Corriere Del Mezzogiorno
- - [https://bari.corriere.it](https://bari.corriere.it)
- - date_published: 2024-10-19T01:20:01.057220+00:00
-
- ## Corriere Bergamo: le ultime news dalla città
- - [https://bergamo.corriere.it](https://bergamo.corriere.it)
- - date_published: 2024-10-19T00:01:21.666217+00:00
-
- ## Corriere Brescia: le ultime news dalla città
- - [https://brescia.corriere.it](https://brescia.corriere.it)
- - date_published: 2024-10-19T01:24:04.106384+00:00
-
- ## Buone Notizie: Associazioni, volontariato e terzo settore | Corriere.it
- - [http://buonenotizie.corriere.it](http://buonenotizie.corriere.it)
- - date_published: 2024-10-19T01:21:14.681998+00:00
-
- ## Buoni sconto per la spesa gratis - Buonpertutti
- - [https://buonpertutti.corriere.it](https://buonpertutti.corriere.it)
- - date_published: 2024-10-19T01:23:42.204335+00:00
-
- ## Calciomercato - Corriere Della Sera
- - [http://calciomercato.corriere.it](http://calciomercato.corriere.it)
- - date_published: 2024-10-19T01:19:33.977769+00:00
 

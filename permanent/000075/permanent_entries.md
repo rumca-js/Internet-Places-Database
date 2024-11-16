@@ -1,3 +1,23 @@
+ ## Classicamiga.com - Welcome to Classicamiga
+ - [http://mobileforum.classicamiga.com](http://mobileforum.classicamiga.com)
+ - date_published: 2024-05-08T05:32:20.923697+00:00
+
+ ## Main Page - Classicamiga
+ - [http://wiki.classicamiga.com](http://wiki.classicamiga.com)
+ - date_published: 2012-02-04T00:04:46+00:00
+
+ ## Classic & Sports Car
+ - [https://www.classicandsportscar.com](https://www.classicandsportscar.com)
+ - date_published: 2024-08-18T15:48:13.051203+00:00
+
+ ## classicbattletech.com
+ - [http://www.classicbattletech.com](http://www.classicbattletech.com)
+ - date_published: 2024-07-09T14:31:15.397469+00:00
+
+ ## Flooring Store servicing Panama City, FL | Classic Carpets Plus
+ - [http://classiccarpetspcb.com](http://classiccarpetspcb.com)
+ - date_published: 2024-06-29T23:04:01.059054+00:00
+
  ## Classic Cars for Sale - ClassicCars.com
  - [https://classiccars.com](https://classiccars.com)
  - date_published: 2024-06-19T08:01:15.737298+00:00
@@ -2289,6 +2309,10 @@
  - [https://closingfolders.com](https://closingfolders.com)
  - date_published: 2024-04-29T07:26:00.899831+00:00
 
+ ## Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs
+ - [https://closingwtf.com](https://closingwtf.com)
+ - date_published: 2024-11-15T17:38:49+00:00
+
  ## KEVIN PADAN HAYES – DESIGN–CREATE
  - [https://cdn-5c9f9372f911c90dc80a34cd.closte.com](https://cdn-5c9f9372f911c90dc80a34cd.closte.com)
  - date_published: 2024-05-03T00:00:00+00:00
@@ -3998,29 +4022,4 @@
  ## Cleaning & Maintenance Management | Premier Cleaning Industry Resource
  - [https://cmmonline.com](https://cmmonline.com)
  - date_published: 2024-07-19T00:00:00+00:00
-
- ## EDU Growth Partners - HigherEducation.com
- - [https://content.cmn.com](https://content.cmn.com)
- - date_published: 2018-09-01T00:00:00+00:00
-
- ## CMO by Adobe |
- - [http://www.cmo.com](http://www.cmo.com)
- - date_published: 2023-08-31T16:57:20+00:00
-
- ## CMO Games
- - [https://cmogames.com](https://cmogames.com)
- - date_published: 2024-05-11T00:00:00+00:00
- - tags: ['shop', 'warhammer', 'digital marketplace']
-
- ## CMON - Home
- - [https://cmon.com](https://cmon.com)
- - date_published: 2024-05-10T00:00:00+00:00
-
- ## Equities Quote
- - [https://investor.cmon.com](https://investor.cmon.com)
- - date_published: 2024-07-13T11:38:55.739042+00:00
-
- ## CMON
- - [https://support.cmon.com](https://support.cmon.com)
- - date_published: 2024-07-13T11:38:52.044665+00:00
 

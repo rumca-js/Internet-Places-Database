@@ -1,3 +1,69 @@
+ ## Secureworks - Investor Relations
+ - [https://investors.secureworks.com](https://investors.secureworks.com)
+ - date_published: 2024-09-18T15:33:51.343602+00:00
+
+ ## Secureworks: Cybersecurity Leader, Proven Threat Defense
+ - [https://pages.secureworks.com](https://pages.secureworks.com)
+ - date_published: 2024-09-18T15:33:47.545749+00:00
+
+ ## Waiting for Identity Provider
+ - [https://portal.secureworks.com](https://portal.secureworks.com)
+ - date_published: 2024-09-18T15:33:42.742427+00:00
+
+ ## Secureworks: Cybersecurity Leader, Proven Threat Defense
+ - [http://secureworks.com](http://secureworks.com)
+ - date_published: 2024-06-15T16:06:38.573734+00:00
+
+ ## Securing Laravel | Stephen Rees-Carter | Substack
+ - [https://securinglaravel.com](https://securinglaravel.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Securing Our Digital Future
+ - [https://securingourdigitalfuture.com](https://securingourdigitalfuture.com)
+ - date_published: 2024-07-16T20:51:57.701657+00:00
+
+ ## Emerging markets research, data and news | EMIS Next
+ - [http://www.securities.com](http://www.securities.com)
+ - date_published: 2024-07-12T17:34:02+00:00
+
+ ## Securities finance news and commentary - Securities Finance Times
+ - [https://www.securitiesfinancetimes.com](https://www.securitiesfinancetimes.com)
+ - date_published: 2024-09-25T12:23:53.142092+00:00
+
+ ## Broadcom Blogs
+ - [https://broadcom-software.security.com](https://broadcom-software.security.com)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Symantec Enterprise Blogs
+ - [https://symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com)
+ - date_published: 2023-10-25T17:01:22.426033+00:00
+
+ ## Security Affairs - Read, think, share … Security is everyone's responsibility
+ - [https://securityaffairs.com](https://securityaffairs.com)
+ - date_published: 2023-10-25T09:35:33.117030+00:00
+ - tags: ['security news']
+
+ ## Security and Fire Africa | The leading African Security and Fire news brand
+ - [https://securityafricamagazine.com](https://securityafricamagazine.com)
+ - date_published: 2024-09-24T22:50:09.130762+00:00
+
+ ## Home
+ - [https://securityboulevard.com](https://securityboulevard.com)
+ - date_published: 2024-04-05T00:00:00+00:00
+ - tags: ['tech news']
+
+ ## Security Boulevard Chat Podcast | Techstrong Group
+ - [https://securityboulevardchats.com](https://securityboulevardchats.com)
+ - date_published: 2024-05-22T00:00:00+00:00
+
+ ## BSides / FrontPage
+ - [http://www.securitybsides.com](http://www.securitybsides.com)
+ - date_published: 2024-06-22T11:01:57.296422+00:00
+
+ ## Home | The Security Bulldog- AI for cybersecurity, it's about time.
+ - [https://securitybulldog.com](https://securitybulldog.com)
+ - date_published: 2024-06-19T19:23:55.295058+00:00
+
  ## Security Cameras | IP Cameras | CCTV Video Surveillance Systems
  - [https://securitycameraking.com](https://securitycameraking.com)
  - date_published: 2024-04-08T00:00:00+00:00
@@ -3974,68 +4040,4 @@ American Coins by Daniel Frank Sedwick, LLC
  ## ServiceNow
  - [https://uarizona.service-now.com](https://uarizona.service-now.com)
  - date_published: 2024-07-07T09:23:37.426910+00:00
-
- ## ServiceNow
- - [https://ucalgary.service-now.com](https://ucalgary.service-now.com)
- - date_published: 2024-07-21T08:48:19.325225+00:00
-
- ## ServiceNow  Telecom Catalog
- - [https://ucb.service-now.com](https://ucb.service-now.com)
- - date_published: 2024-07-02T17:57:16.217836+00:00
-
- ## ServiceNow  Service Management
- - [https://ucdavisit.service-now.com](https://ucdavisit.service-now.com)
- - date_published: 2024-07-01T22:20:22.269735+00:00
-
- ## UChicago ServiceNow
- - [https://uchicago.service-now.com](https://uchicago.service-now.com)
- - date_published: 2024-07-01T22:32:15.968369+00:00
-
- ## Office of Information Technology - Service Desk
- - [https://uci.service-now.com](https://uci.service-now.com)
- - date_published: 2024-07-01T22:41:04.602409+00:00
-
- ## ServiceNow
- - [https://ucsc.service-now.com](https://ucsc.service-now.com)
- - date_published: 2024-07-01T23:54:32.354650+00:00
-
- ## ServiceNow
- - [https://ucsf.service-now.com](https://ucsf.service-now.com)
- - date_published: 2024-07-02T01:49:32.648008+00:00
-
- ## UCT  Service Management Suite
- - [https://uct.service-now.com](https://uct.service-now.com)
- - date_published: 2024-07-17T03:55:05.616144+00:00
-
- ## ServiceNow
- - [https://uky.service-now.com](https://uky.service-now.com)
- - date_published: 2024-10-14T23:23:51.860402+00:00
-
- ## UMass Amherst Information Technology
- - [https://umass.service-now.com](https://umass.service-now.com)
- - date_published: 2024-05-07T21:23:46.424864+00:00
-
- ## The University of Maryland - ServiceNow
- - [https://umd.service-now.com](https://umd.service-now.com)
- - date_published: 2024-07-02T03:37:43.848534+00:00
-
- ## ServiceNow
- - [https://uncch.service-now.com](https://uncch.service-now.com)
- - date_published: 2024-07-02T04:33:29.678700+00:00
-
- ## ServiceNow
- - [https://uoft.service-now.com](https://uoft.service-now.com)
- - date_published: 2024-04-30T05:31:02.597045+00:00
-
- ## Production
- - [https://uofu.service-now.com](https://uofu.service-now.com)
- - date_published: 2024-07-14T05:11:16.923597+00:00
-
- ## PROD
- - [https://urmcprod.service-now.com](https://urmcprod.service-now.com)
- - date_published: 2024-07-01T18:16:30.022725+00:00
-
- ## ServiceNow
- - [https://uscprovost.service-now.com](https://uscprovost.service-now.com)
- - date_published: 2024-07-02T10:57:55.570138+00:00
 

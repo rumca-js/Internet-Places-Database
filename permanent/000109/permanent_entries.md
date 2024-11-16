@@ -1,3 +1,31 @@
+ ## Coming Soon
+ - [https://getdost.com](https://getdost.com)
+ - date_published: 2024-06-19T19:49:56.252641+00:00
+
+ ## Drafts Directory: Drafts Directory
+ - [https://actions.getdrafts.com](https://actions.getdrafts.com)
+ - date_published: 2024-06-21T20:26:22.746359+00:00
+
+ ## Drafts User Guide: Home
+ - [https://docs.getdrafts.com](https://docs.getdrafts.com)
+ - date_published: 2024-06-07T12:44:43+00:00
+
+ ## Drafts Community
+ - [https://forums.getdrafts.com](https://forums.getdrafts.com)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Drafts, Where Text Starts
+ - [https://getdrafts.com](https://getdrafts.com)
+ - date_published: 2023-01-10T17:16:44+00:00
+
+ ## Drafts Script Reference
+ - [https://scripting.getdrafts.com](https://scripting.getdrafts.com)
+ - date_published: 2024-04-25T11:51:55+00:00
+
+ ## Powerful, Easy-To-Use Marketing Automation | Drip
+ - [https://getdrip.com](https://getdrip.com)
+ - date_published: 2024-06-22T10:27:10+00:00
+
  ## Which alcoholic beverages have the most or least calories or carbs?
  - [https://www.getdrunknotfat.com](https://www.getdrunknotfat.com)
  - date_published: 2024-07-09T20:02:20.398833+00:00
@@ -4032,40 +4060,5 @@
  ## GitHub - stefnotch/downline: Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
  - [https://github.com/stefnotch/downline](https://github.com/stefnotch/downline)
  - date_published: 2024-11-14T11:40:32+00:00
- - tags: ['download manager']
-
- ## GitHub - tardisx/gropple: Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
- - [https://github.com/tardisx/gropple](https://github.com/tardisx/gropple)
- - date_published: 2024-11-14T11:40:49+00:00
- - tags: ['download manager']
-
- ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
- - [https://github.com/bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist)
- - date_published: 2024-11-14T11:41:05+00:00
- - tags: ['download manager']
-
- ## GitHub - meeb/tubesync: Syncs YouTube channels and playlists to a locally hosted media server
- - [https://github.com/meeb/tubesync](https://github.com/meeb/tubesync)
- - date_published: 2024-11-14T11:41:22+00:00
- - tags: ['download manager']
-
- ## GitHub - Tzahi12345/YoutubeDL-Material: Self-hosted YouTube downloader built on Material Design
- - [https://github.com/Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
- - date_published: 2024-11-14T11:41:38+00:00
- - tags: ['download manager']
-
- ## GitHub - Rudloff/alltube: Web GUI for youtube-dl
- - [https://github.com/Rudloff/alltube](https://github.com/Rudloff/alltube)
- - date_published: 2024-11-14T11:41:54+00:00
- - tags: ['download manager']
-
- ## GitHub - chibicitiberiu/ytsm: Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
- - [https://github.com/chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm)
- - date_published: 2024-11-14T11:42:10+00:00
- - tags: ['download manager']
-
- ## GitHub - alexta69/metube: Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
- - [https://github.com/alexta69/metube](https://github.com/alexta69/metube)
- - date_published: 2024-11-14T11:42:29+00:00
  - tags: ['download manager']
 

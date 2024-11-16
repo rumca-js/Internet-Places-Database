@@ -1,3 +1,15 @@
+ ## Error 400 (Bad Request)!!1
+ - [https://3.bp.blogspot.com](https://3.bp.blogspot.com)
+ - date_published: 2024-04-29T03:35:20.056344+00:00
+
+ ## 3d6 in order
+ - [http://3d6-in-order.blogspot.com](http://3d6-in-order.blogspot.com)
+ - date_published: 2024-02-20T06:48:59+00:00
+
+ ## A Three-Pound Monkey Brain
+ - [http://3lbmonkeybrain.blogspot.com](http://3lbmonkeybrain.blogspot.com)
+ - date_published: 2024-10-19T05:15:21.635164+00:00
+
  ## Law Diary
  - [http://3ldiary.blogspot.com](http://3ldiary.blogspot.com)
  - date_published: 2024-03-13T16:45:50+00:00
@@ -3999,16 +4011,4 @@
  ## Agence  eureka
  - [http://bibigreycat.blogspot.com](http://bibigreycat.blogspot.com)
  - date_published: 2024-09-02T09:12:47+00:00
-
- ## Bible Films Blog
- - [https://biblefilms.blogspot.com](https://biblefilms.blogspot.com)
- - date_published: 2024-06-23T00:00:00+00:00
-
- ## Women  in the Bible
- - [https://bible-women.blogspot.com](https://bible-women.blogspot.com)
- - date_published: 2024-03-13T00:13:48+00:00
-
- ## BibliOdyssey
- - [http://bibliodyssey.blogspot.com](http://bibliodyssey.blogspot.com)
- - date_published: 2024-06-14T17:53:19+00:00
 

@@ -1971,6 +1971,10 @@
  - [https://macowners.club](https://macowners.club)
  - date_published: 2024-05-26T00:00:00+00:00
 
+ ## Chronicae Novis Rebus
+ - [https://chronicles.mad-scientist.club](https://chronicles.mad-scientist.club)
+ - date_published: 2024-11-10T00:03:02+00:00
+
  ## Mad Scientist Tooting Club
  - [https://trunk.mad-scientist.club](https://trunk.mad-scientist.club)
  - date_published: 2024-03-20T00:00:00+00:00
@@ -4007,8 +4011,4 @@
  ## 贵州频道・央广网
  - [https://gz.cnr.cn](https://gz.cnr.cn)
  - date_published: 2024-06-30T19:07:07.612919+00:00
-
- ## 健康中国频道・央广网
- - [https://health.cnr.cn](https://health.cnr.cn)
- - date_published: 2024-06-30T00:00:00+00:00
 

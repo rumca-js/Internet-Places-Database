@@ -1,3 +1,15 @@
+ ## Cllr Leslie Rowe, An Independent Voice
+ - [http://leslierowe.blogspot.com](http://leslierowe.blogspot.com)
+ - date_published: 2024-10-21T17:58:49.351903+00:00
+
+ ## TymberDalton.com - Tales from the Snark Side
+ - [http://leslirichardson.blogspot.com](http://leslirichardson.blogspot.com)
+ - date_published: 2024-10-17T22:54:54.298780+00:00
+
+ ## Leśna Kuchnia
+ - [http://lesnakuchnia.blogspot.com](http://lesnakuchnia.blogspot.com)
+ - date_published: 2024-10-25T03:10:08+00:00
+
  ## Les pérégrinations du nainblanc
  - [http://lesperegrinationsdunainblanc.blogspot.com](http://lesperegrinationsdunainblanc.blogspot.com)
  - date_published: 2024-10-26T15:56:05+00:00
@@ -4000,16 +4012,4 @@
  ## My Star Trek Scrapbook
  - [http://mystartrekscrapbook.blogspot.com](http://mystartrekscrapbook.blogspot.com)
  - date_published: 2024-10-28T08:54:57+00:00
-
- ## Mystery Fanfare
- - [https://mysteryreadersinc.blogspot.com](https://mysteryreadersinc.blogspot.com)
- - date_published: 2024-10-17T23:16:34.511002+00:00
-
- ## Mystery Writing is Murder
- - [http://mysterywritingismurder.blogspot.com](http://mysterywritingismurder.blogspot.com)
- - date_published: 2024-04-01T09:17:08+00:00
-
- ## mystic bourgeoisie
- - [https://mysticbourgeoisie.blogspot.com](https://mysticbourgeoisie.blogspot.com)
- - date_published: 2024-02-20T21:24:01+00:00
 

@@ -1,3 +1,11 @@
+ ## AsciiFolders
+ - [https://asciifolders.com](https://asciifolders.com)
+ - date_published: 2024-07-14T09:33:39.624731+00:00
+
+ ## Online Poster Maker : ASCII Poster
+ - [http://www.asciiposter.com](http://www.asciiposter.com)
+ - date_published: 2024-07-04T14:46:30.543815+00:00
+
  ## ASCII Table - ASCII Character Codes, HTML, Octal, Hex, Decimal
  - [https://www.asciitable.com](https://www.asciitable.com)
  - date_published: 2024-08-19T00:00:00+00:00
@@ -3102,7 +3110,7 @@
  ## Collaboration software for software, IT and business teams
  - [https://atlassian.com](https://atlassian.com)
  - date_published: 2024-05-02T00:00:00+00:00
- - tags: ['jira', 'project management', 'proprietary']
+ - tags: ['jira', 'project management', 'confluence', 'proprietary']
 
  ## Atlas Status
  - [https://atlas.status.atlassian.com](https://atlas.status.atlassian.com)
@@ -4017,12 +4025,4 @@
  ## Attorney At Law Resources
  - [https://attorneyatlawresources.com](https://attorneyatlawresources.com)
  - date_published: 2024-06-19T09:17:12.965852+00:00
-
- ## Tampa Divorce Attorney
- - [https://www.attorneylauraolson.com](https://www.attorneylauraolson.com)
- - date_published: 2024-06-23T15:31:50+00:00
-
- ## Talin Bahadarian, Attorney-Mediator
- - [https://attorneymediator.com](https://attorneymediator.com)
- - date_published: 2024-02-08T17:01:40.332746+00:00
 

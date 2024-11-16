@@ -1,3 +1,163 @@
+ ## Faculty of Environment
+ - [https://environment.leeds.ac.uk](https://environment.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:59.660078+00:00
+
+ ## Faculty of Engineering and Physical Sciences
+ - [https://eps.leeds.ac.uk](https://eps.leeds.ac.uk)
+ - date_published: 2024-05-02T10:56:12.006645+00:00
+
+ ## Equality & Inclusion Unit (E&IU) - Equality and Inclusion Unit
+ - [https://equality.leeds.ac.uk](https://equality.leeds.ac.uk)
+ - date_published: 2024-05-02T10:56:05.200596+00:00
+
+ ## Faculty of Social Sciences - Site Homepage
+ - [https://essl.leeds.ac.uk](https://essl.leeds.ac.uk)
+ - date_published: 2024-05-02T10:56:13.529579+00:00
+
+ ## FSS Professional Support Services
+ - [https://essl-staff.leeds.ac.uk](https://essl-staff.leeds.ac.uk)
+ - date_published: 2024-06-17T18:09:04.710247+00:00
+
+ ## Estates and Facilities - University of Leeds
+ - [https://estates.leeds.ac.uk](https://estates.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:22.633344+00:00
+
+ ## Resources | Library | University of Leeds
+ - [https://explore.library.leeds.ac.uk](https://explore.library.leeds.ac.uk)
+ - date_published: 2022-10-04T13:43:49+00:00
+
+ ## Facilities Directorate - University of Leeds
+ - [https://facilitiesdirectorate.leeds.ac.uk](https://facilitiesdirectorate.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:10.428209+00:00
+
+ ## Forstaff main index
+ - [https://forstaff.leeds.ac.uk](https://forstaff.leeds.ac.uk)
+ - date_published: 2024-05-02T10:56:06.762153+00:00
+
+ ## Great Food at Leeds - University of Leeds
+ - [https://gfal.leeds.ac.uk](https://gfal.leeds.ac.uk)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Human Resources  Homepage
+ - [https://hr.leeds.ac.uk](https://hr.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:05.638582+00:00
+
+ ## Insurance
+ - [https://insurance.leeds.ac.uk](https://insurance.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:13.843897+00:00
+
+ ## IT Self Service - University of Leeds IT
+ - [https://it.leeds.ac.uk](https://it.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:43.242119+00:00
+
+ ## Jobs at the University of Leeds
+ - [https://jobs.leeds.ac.uk](https://jobs.leeds.ac.uk)
+ - date_published: 2024-06-17T18:07:58.748001+00:00
+
+ ## Leeds Arts and Humanities Research Institute | Fostering a culture of interdisciplinary research across and beyond the arts and humanities
+ - [https://lahri.leeds.ac.uk](https://lahri.leeds.ac.uk)
+ - date_published: 2024-06-17T18:07:59.692204+00:00
+
+ ## The Language Scholar
+ - [https://languagescholar.leeds.ac.uk](https://languagescholar.leeds.ac.uk)
+ - date_published: 2024-06-17T14:09:04.752085+00:00
+
+ ## Leeds for Life
+ - [https://leedsforlife.leeds.ac.uk](https://leedsforlife.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:24.189482+00:00
+
+ ## Library Homepage
+ - [https://library.leeds.ac.uk](https://library.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:55.989223+00:00
+
+ ## Faculty of Medicine and Health
+ - [http://medhealth.leeds.ac.uk](http://medhealth.leeds.ac.uk)
+ - date_published: 2024-06-17T18:09:28.298831+00:00
+
+ ## Faculty of Medicine and Health
+ - [https://medicinehealth.leeds.ac.uk](https://medicinehealth.leeds.ac.uk)
+ - date_published: 2024-05-02T10:56:09.175072+00:00
+
+ ## Sign in to your account
+ - [https://minerva.leeds.ac.uk](https://minerva.leeds.ac.uk)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## VideoLeeds
+ - [https://mymedia.leeds.ac.uk](https://mymedia.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:53.340522+00:00
+
+ ## Sign in to your account
+ - [http://office365.leeds.ac.uk](http://office365.leeds.ac.uk)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## OD&PL University of Leeds
+ - [https://peopledevelopment.leeds.ac.uk](https://peopledevelopment.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:25.652991+00:00
+
+ ## Postgraduate research opportunities
+ - [https://phd.leeds.ac.uk](https://phd.leeds.ac.uk)
+ - date_published: 2024-06-17T18:07:53.054043+00:00
+
+ ## Blackboard Learn
+ - [http://portal.leeds.ac.uk](http://portal.leeds.ac.uk)
+ - date_published: 2004-06-17T18:06:43+00:00
+
+ ## PRiSM - Pedagogic Research in Mathematics and Physical Sciences | University of Leeds
+ - [https://prism.leeds.ac.uk](https://prism.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:58.507235+00:00
+
+ ## University of Leeds :: Jadu CMS Homepage
+ - [https://production2.leeds.ac.uk](https://production2.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:20.519122+00:00
+
+ ## Symplectic Elements
+ - [https://publications.leeds.ac.uk](https://publications.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:40.798223+00:00
+
+ ## Relocate@Leeds - University of Leeds
+ - [http://relocate.leeds.ac.uk](http://relocate.leeds.ac.uk)
+ - date_published: 2024-10-20T05:01:35.979491+00:00
+
+ ## University of Leeds : Haplo
+ - [https://research.leeds.ac.uk](https://research.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:15.577884+00:00
+
+ ## School of Earth and Environment
+ - [https://see.leeds.ac.uk](https://see.leeds.ac.uk)
+ - date_published: 2024-05-07T15:00:53.438105+00:00
+
+ ## Student Education Service | University of Leeds
+ - [https://ses.leeds.ac.uk](https://ses.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:45.568524+00:00
+
+ ## Student Education Development (OD&PL) University of Leeds
+ - [https://studenteddev.leeds.ac.uk](https://studenteddev.leeds.ac.uk)
+ - date_published: 2024-10-20T05:05:43.919321+00:00
+
+ ## Redirecting...
+ - [https://studentservices.leeds.ac.uk](https://studentservices.leeds.ac.uk)
+ - date_published: 2024-05-13T17:48:56+00:00
+
+ ## Academic Life
+ - [https://students.leeds.ac.uk](https://students.leeds.ac.uk)
+ - date_published: 2024-05-02T10:55:24.938110+00:00
+
+ ## The Sustainability Service at the University of Leeds
+ - [https://sustainability.leeds.ac.uk](https://sustainability.leeds.ac.uk)
+ - date_published: 2024-06-17T18:07:45.690291+00:00
+
+ ## Virtual Tour - University of Leeds
+ - [https://virtualcampustour.leeds.ac.uk](https://virtualcampustour.leeds.ac.uk)
+ - date_published: 2021-11-30T09:44:51+00:00
+
+ ## webprod2.leeds.ac.uk
+ - [http://webprod3.leeds.ac.uk](http://webprod3.leeds.ac.uk)
+ - date_published: 2011-07-08T13:36:18+00:00
+
+ ## Wellbeing, Safety and Health | University of Leeds
+ - [https://wsh.leeds.ac.uk](https://wsh.leeds.ac.uk)
+ - date_published: 2024-06-17T18:08:19.882909+00:00
+
  ## Home : The Astbury Centre for Structural Molecular Biology
  - [http://www.astbury.leeds.ac.uk](http://www.astbury.leeds.ac.uk)
  - date_published: 2024-06-17T18:06:29.565901+00:00
@@ -3849,166 +4009,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  ## Sign In
  - [https://sso.123-reg.co.uk](https://sso.123-reg.co.uk)
  - date_published: 2024-05-11T07:23:05.177294+00:00
-
- ## Home
- - [https://supportcenter.123-reg.co.uk](https://supportcenter.123-reg.co.uk)
- - date_published: 2024-05-11T07:23:08.146682+00:00
-
- ## Welcome to 123 Reg Webmail | Webmail log in | 123 Reg
- - [https://webmail.123-reg.co.uk](https://webmail.123-reg.co.uk)
- - date_published: 2024-05-11T07:23:12.681747+00:00
-
- ## 123 Reg – Status
- - [https://123-status.co.uk](https://123-status.co.uk)
- - date_published: 2024-05-11T07:23:09.625924+00:00
-
- ## Alternative Armies
- - [http://15mm.co.uk](http://15mm.co.uk)
- - date_published: 2024-07-20T09:11:04.614776+00:00
-
- ## SEO Experts | 195SEO
- - [https://195seo.co.uk](https://195seo.co.uk)
- - date_published: 2024-05-15T16:13:06+00:00
-
- ## 1981 Media
- - [https://1981media.co.uk](https://1981media.co.uk)
- - date_published: 2021-05-13T10:54:13+00:00
-
- ## Webmail Login - IONOS UK
- - [https://email.1and1.co.uk](https://email.1and1.co.uk)
- - date_published: 2024-06-17T19:47:22.294659+00:00
-
- ## Here I am
- - [http://www.1by1.co.uk](http://www.1by1.co.uk)
- - date_published: 2024-08-18T09:49:43.352021+00:00
-
- ## Home - 1st Corps
- - [http://www.1stcorps.co.uk](http://www.1stcorps.co.uk)
- - date_published: 2024-07-19T00:00:00+00:00
-
- ## Asda, Sainsburys Or Tesco Dining Tables & Chairs? BEST Dining Sets For Sale UK
- - [https://www.1st-for-furniture.co.uk](https://www.1st-for-furniture.co.uk)
- - date_published: 2022-02-07T23:56:15+00:00
-
- ## Make Money Completing Tasks & Offers With 20Cogs.co.uk
- - [https://20cogs.co.uk](https://20cogs.co.uk)
- - date_published: 2024-10-22T19:19:46.946178+00:00
-
- ## Local Electricians - Emergency Electricians
- - [https://www.247electric.co.uk](https://www.247electric.co.uk)
- - date_published: 2024-10-22T12:45:33.352290+00:00
-
- ## 3:16am philosophy interviews and cardboard paintings
- - [https://www.3-16am.co.uk](https://www.3-16am.co.uk)
- - date_published: 2024-06-16T21:16:24+00:00
-
- ## 321movies
- - [https://321movies.co.uk](https://321movies.co.uk)
- - date_published: 2024-11-12T17:11:04.042877+00:00
- - tags: ['movies', 'piracy']
-
- ## Home | 33Across UK
- - [https://www.33across.co.uk](https://www.33across.co.uk)
- - date_published: 2024-03-25T00:00:00+00:00
-
- ## 360 Marketing Lab - IMMERSIVE 360º VIRTUAL TOURS FOR SCHOOLS, FOR EVERYONE
- - [https://360marketinglab.co.uk](https://360marketinglab.co.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## 3CX Webclient
- - [https://dtcompphones.3cx.co.uk](https://dtcompphones.3cx.co.uk)
- - date_published: 2024-10-21T03:42:59.869691+00:00
-
- ## 3CX Phone System Management Console
- - [https://pulseeight.3cx.co.uk](https://pulseeight.3cx.co.uk)
- - date_published: 2024-04-24T13:44:54+00:00
-
- ## Home | 3D KINGDOMS 3D printed Gaming and miniatures collector store England
- - [https://www.3dkingdoms.co.uk](https://www.3dkingdoms.co.uk)
- - date_published: 2024-10-26T18:20:04.034803+00:00
-
- ## 3D Printing On Demand UK | Rapid Prototyping | Service |
- - [https://www.3dmitech.co.uk](https://www.3dmitech.co.uk)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## 3D Print Direct
- - [https://3dprintdirect.co.uk](https://3dprintdirect.co.uk)
- - date_published: 2024-08-14T00:00:00+00:00
-
- ## Home
- - [https://3dprint-uk.co.uk](https://3dprint-uk.co.uk)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## 3M News Centre - News Centre
- - [https://news.3m.co.uk](https://news.3m.co.uk)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## 3M Science. Applied to Life. | 3M in the UK
- - [https://www.3m.co.uk](https://www.3m.co.uk)
- - date_published: 2024-08-06T10:39:09.196999+00:00
-
- ## Webflow Agency UK - 3SIX5 Webflow Experts
- - [https://www.3six5digital.co.uk](https://www.3six5digital.co.uk)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Where travel brands go digital
- - [https://3sixty.co.uk](https://3sixty.co.uk)
- - date_published: 2024-06-18T10:12:25.797693+00:00
-
- ## Alex Parker's Website
- - [http://3zanders.co.uk](http://3zanders.co.uk)
- - date_published: 2018-02-26T23:16:41+00:00
- - tags: ['personal']
-
- ## Dietary supplements for men and women | 4HIM & 4HER
- - [http://4him4her.co.uk](http://4him4her.co.uk)
- - date_published: 2024-06-29T17:08:54.695152+00:00
-
- ## Home - 4th Estate
- - [https://www.4thestate.co.uk](https://www.4thestate.co.uk)
- - date_published: 2024-04-05T00:00:00+00:00
-
- ## Madeon | Adventure Machine
- - [https://adventuremachine.4thfloorcreative.co.uk](https://adventuremachine.4thfloorcreative.co.uk)
- - date_published: 2023-12-11T19:48:17+00:00
-
- ## A 5000 mile walk
- - [https://5000milewalk.co.uk](https://5000milewalk.co.uk)
- - date_published: 2024-05-02T12:44:18.993996+00:00
-
- ## London’s Secret Jazz Age Experience
- - [https://58thstreet.co.uk](https://58thstreet.co.uk)
- - date_published: 2024-10-20T09:47:45.306421+00:00
-
- ## 6a architects
- - [http://6a.co.uk](http://6a.co.uk)
- - date_published: 2024-07-13T15:56:01.972426+00:00
-
- ## Six Degrees - Homepage
- - [https://6dg.co.uk](https://6dg.co.uk)
- - date_published: 2024-05-09T07:18:14.065959+00:00
-
- ## Home | 878 AD - Step into Anglo-Saxon Winchester
- - [https://878ad.co.uk](https://878ad.co.uk)
- - date_published: 2024-05-30T00:00:00+00:00
-
- ## Home
- - [https://bookings.91aparthoteljesmondroad.co.uk](https://bookings.91aparthoteljesmondroad.co.uk)
- - date_published: 2024-10-20T08:47:30.954994+00:00
-
- ## Home
- - [https://www.91aparthoteljesmondroad.co.uk](https://www.91aparthoteljesmondroad.co.uk)
- - date_published: 2024-10-20T08:47:45.416661+00:00
-
- ## Logos, Web, Graphic Design & More. | 99designs
- - [https://99designs.co.uk](https://99designs.co.uk)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## A1 Proofreading UK
- - [https://www.a1proofreading.co.uk](https://www.a1proofreading.co.uk)
- - date_published: 2024-10-22T12:46:29.025934+00:00
-
- ## The Best Web Hosting Services at 20x Speeds - A2 Hosting
- - [https://www.a2hosting.co.uk](https://www.a2hosting.co.uk)
- - date_published: 2024-06-20T08:48:31+00:00
 

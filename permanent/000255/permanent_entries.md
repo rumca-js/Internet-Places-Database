@@ -1,3 +1,107 @@
+ ## Suleyman Demirel University
+ - [https://suleyman-demirel.academia.edu](https://suleyman-demirel.academia.edu)
+ - date_published: 2024-04-30T03:02:01.776177+00:00
+
+ ## Cierpliwości...
+ - [https://support.academia.edu](https://support.academia.edu)
+ - date_published: 2024-04-30T02:59:53.441415+00:00
+
+ ## The University of Sydney
+ - [https://sydney.academia.edu](https://sydney.academia.edu)
+ - date_published: 2024-04-30T06:47:19.141540+00:00
+
+ ## Syracuse University
+ - [https://syr.academia.edu](https://syr.academia.edu)
+ - date_published: 2024-08-07T20:18:11.786645+00:00
+
+ ## Delft University of Technology
+ - [http://tudelft.academia.edu](http://tudelft.academia.edu)
+ - date_published: 2024-10-19T07:43:01.922818+00:00
+
+ ## Universitat de Barcelona
+ - [https://ub.academia.edu](https://ub.academia.edu)
+ - date_published: 2024-06-24T09:53:17.923720+00:00
+
+ ## University of Calgary
+ - [https://ucalgary.academia.edu](https://ucalgary.academia.edu)
+ - date_published: 2024-04-30T03:01:00.526211+00:00
+
+ ## University College Cork
+ - [https://ucc-ie.academia.edu](https://ucc-ie.academia.edu)
+ - date_published: 2024-10-20T05:37:01.894396+00:00
+
+ ## University of California, Davis
+ - [http://ucdavis.academia.edu](http://ucdavis.academia.edu)
+ - date_published: 2024-10-19T05:53:18.430364+00:00
+
+ ## University of California, Irvine
+ - [https://uci.academia.edu](https://uci.academia.edu)
+ - date_published: 2024-04-30T02:57:47.316172+00:00
+
+ ## University of California, Los Angeles
+ - [https://ucla.academia.edu](https://ucla.academia.edu)
+ - date_published: 2024-04-30T02:49:48.893438+00:00
+
+ ## University College London
+ - [https://ucl.academia.edu](https://ucl.academia.edu)
+ - date_published: 2024-04-30T03:02:49.387494+00:00
+
+ ## University of Connecticut
+ - [https://uconn.academia.edu](https://uconn.academia.edu)
+ - date_published: 2024-04-30T03:01:50.676175+00:00
+
+ ## University of California, Riverside
+ - [https://ucriverside.academia.edu](https://ucriverside.academia.edu)
+ - date_published: 2024-05-07T13:46:38.061452+00:00
+
+ ## University of Suffolk
+ - [https://ucs.academia.edu](https://ucs.academia.edu)
+ - date_published: 2024-06-24T10:53:04.894256+00:00
+
+ ## University of California, Santa Cruz
+ - [https://ucsc.academia.edu](https://ucsc.academia.edu)
+ - date_published: 2024-04-30T02:56:00.401201+00:00
+
+ ## UFSCar - Federal University of São Carlos
+ - [https://ufscar.academia.edu](https://ufscar.academia.edu)
+ - date_published: 2024-04-30T03:02:37.031230+00:00
+
+ ## University of Gdansk
+ - [https://ug.academia.edu](https://ug.academia.edu)
+ - date_published: 2024-04-30T02:58:45.746908+00:00
+
+ ## University of Illinois at Chicago
+ - [https://uic.academia.edu](https://uic.academia.edu)
+ - date_published: 2024-04-30T02:59:08.106014+00:00
+
+ ## The University of Iowa
+ - [https://uiowa.academia.edu](https://uiowa.academia.edu)
+ - date_published: 2024-04-30T02:57:52.159238+00:00
+
+ ## University of Tromsø
+ - [https://uit.academia.edu](https://uit.academia.edu)
+ - date_published: 2024-04-30T02:57:55.786239+00:00
+
+ ## University of Lincoln
+ - [https://ulincoln.academia.edu](https://ulincoln.academia.edu)
+ - date_published: 2024-04-30T02:58:55.872174+00:00
+
+ ## University of Michigan
+ - [https://umich.academia.edu](https://umich.academia.edu)
+ - date_published: 2024-04-30T02:50:21.635918+00:00
+
+ ## University of Debrecen
+ - [https://unideb.academia.edu](https://unideb.academia.edu)
+ - date_published: 2024-04-30T03:00:26.068360+00:00
+
+ ## Universitas Katolik Soegijapranata
+ - [http://unika.academia.edu](http://unika.academia.edu)
+ - date_published: 2024-06-30T04:34:32.622545+00:00
+
+ ## TU Kaiserslautern
+ - [https://uni-kl.academia.edu](https://uni-kl.academia.edu)
+ - date_published: 2024-04-30T02:49:51.800589+00:00
+
  ## Leipzig University (Universität Leipzig)
  - [https://uni-leipzig1.academia.edu](https://uni-leipzig1.academia.edu)
  - date_published: 2024-04-30T02:55:52.129401+00:00
@@ -3898,108 +4002,4 @@
  ## Executive MBA  | Berkeley Haas
  - [https://mbaforexecs.haas.berkeley.edu](https://mbaforexecs.haas.berkeley.edu)
  - date_published: 2024-04-30T03:20:29.861892+00:00
-
- ## Full-Time MBA Program | Berkeley Haas
- - [https://mba.haas.berkeley.edu](https://mba.haas.berkeley.edu)
- - date_published: 2024-04-30T03:20:27.794210+00:00
-
- ## Molecular and Cell Biology
- - [https://mcb.berkeley.edu](https://mcb.berkeley.edu)
- - date_published: 2024-07-22T07:38:49.850186+00:00
-
- ## MDCC: Multi-Data Center Consistency
- - [http://mdcc.cs.berkeley.edu](http://mdcc.cs.berkeley.edu)
- - date_published: 2014-01-16T07:03:02+00:00
-
- ## Home - UC Berkeley Mechanical Engineering
- - [https://me.berkeley.edu](https://me.berkeley.edu)
- - date_published: 2024-05-12T05:17:06.301509+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [http://mechatro2.me.berkeley.edu](http://mechatro2.me.berkeley.edu)
- - date_published: 2024-08-01T19:30:32+00:00
-
- ## Home - Berkeley M.E.T. | Management, Entrepreneurship, & Technology
- - [https://met.berkeley.edu](https://met.berkeley.edu)
- - date_published: 2024-02-01T00:00:00+00:00
-
- ## Master of Financial Engineering Program | Berkeley Haas
- - [https://mfe.berkeley.edu](https://mfe.berkeley.edu)
- - date_published: 2024-04-30T03:25:36.098108+00:00
-
- ## Master of Financial Engineering Program | Berkeley Haas
- - [https://mfe.haas.berkeley.edu](https://mfe.haas.berkeley.edu)
- - date_published: 2024-07-22T07:37:11+00:00
-
- ## Log In ‹ MICROCOURSE LIBRARY — WordPress
- - [https://microcourses.berkeley.edu](https://microcourses.berkeley.edu)
- - date_published: 2024-07-15T05:23:11.495617+00:00
-
- ## OCF Mirrors
- - [https://mirrors.ocf.berkeley.edu](https://mirrors.ocf.berkeley.edu)
- - date_published: 2024-06-14T22:04:51.430829+00:00
-
- ## Machine Learning at Berkeley
- - [https://ml.berkeley.edu](https://ml.berkeley.edu)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Materials Science & Engineering
- - [https://mse.berkeley.edu](https://mse.berkeley.edu)
- - date_published: 2022-08-30T00:00:00+00:00
-
- ## Multiverse > Home (Beta Version: 9.11.2.0)
- - [http://multiverse.ssl.berkeley.edu](http://multiverse.ssl.berkeley.edu)
- - date_published: 2024-07-14T04:05:02.986638+00:00
-
- ## Welcome to the UC Berkeley Museums!
- - [https://museums.berkeley.edu](https://museums.berkeley.edu)
- - date_published: 2019-10-11T23:23:12+00:00
-
- ## Home | Music
- - [http://music.berkeley.edu](http://music.berkeley.edu)
- - date_published: 2024-07-02T05:41:14+00:00
-
- ## Home | Berkeley Alumni Portal
- - [https://my.berkeley.edu](https://my.berkeley.edu)
- - date_published: 2024-07-13T13:04:30.151339+00:00
-
- ## Home | CalNet Account Manager
- - [https://mycalnet.berkeley.edu](https://mycalnet.berkeley.edu)
- - date_published: 2024-07-22T07:37:57.677164+00:00
-
- ## Home
- - [http://myshake.berkeley.edu](http://myshake.berkeley.edu)
- - date_published: 2024-05-31T22:23:38+00:00
-
- ## UC Berkeley Rausser College of Natural Resources
- - [https://nature.berkeley.edu](https://nature.berkeley.edu)
- - date_published: 2023-11-07T06:24:12.895605+00:00
-
- ## Want to do Neuroscience Research for your PhD at UC Berkeley? | Neurograd @ Berkeley
- - [https://neurograd.berkeley.edu](https://neurograd.berkeley.edu)
- - date_published: 2024-08-19T19:56:37+00:00
-
- ## Home | Berkeley Neuroscience
- - [https://neuroscience.berkeley.edu](https://neuroscience.berkeley.edu)
- - date_published: 2024-07-22T06:50:54+00:00
-
- ## Berkeley News | Berkeley
- - [https://news.berkeley.edu](https://news.berkeley.edu)
- - date_published: 2023-10-25T18:47:36.594729+00:00
-
- ## Berkeley News
- - [http://newscenter.berkeley.edu](http://newscenter.berkeley.edu)
- - date_published: 2024-07-13T00:00:00+00:00
-
- ## Newsroom | Haas News | Berkeley Haas
- - [https://newsroom.haas.berkeley.edu](https://newsroom.haas.berkeley.edu)
- - date_published: 2023-10-25T18:47:42.073714+00:00
-
- ## The Berkeley NLP Group
- - [http://nlp.cs.berkeley.edu](http://nlp.cs.berkeley.edu)
- - date_published: 2024-07-22T11:02:35.796638+00:00
-
- ## Open Computing Facility at UC Berkeley
- - [https://ocf.berkeley.edu](https://ocf.berkeley.edu)
- - date_published: 2024-08-07T17:30:02.252880+00:00
 

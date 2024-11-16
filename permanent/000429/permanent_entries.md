@@ -1,3 +1,164 @@
+ ## O‘zbekiston va jahon yangiliklari, eng so‘nggi tezkor xabarlar, qiziqarli maqola, intervyu, foto va video materiallar
+ - [https://kun.uz](https://kun.uz)
+ - date_published: 2024-10-22T23:41:11.316392+00:00
+
+ ## Litres - elektron va audio kitoblar xizmati, fb2 va mp3 formatlarida yuklab oling, Litresda onlayn o’qing va tinglang
+ - [https://litres.uz](https://litres.uz)
+ - date_published: 2024-09-18T23:48:11.793407+00:00
+
+ ## Management Development Institute of Singapore in Tashkent
+ - [https://www.mdis.uz](https://www.mdis.uz)
+ - date_published: 2024-07-03T05:41:04.436904+00:00
+
+ ## Компьютеры в Ташкенте, компьютерная техника в Ташкенте и Узбекистане: купить оргтехнику и технику для компьютеров по лучшим ценам можно в интернет-магазине Myсom.uz
+ - [https://mycom.uz](https://mycom.uz)
+ - date_published: 2024-07-13T13:39:23.098088+00:00
+
+ ## Доска объявлений OLX.uz, ранее Torg: сайт объявлений в Узбекистане - купля/продажа бу товаров на OLX.uz
+ - [https://www.olx.uz](https://www.olx.uz)
+ - date_published: 2024-08-19T18:04:21.591576+00:00
+
+ ## ASAKA MOTORS - официальный дистрибьютор автомобилей Opel в Узбекистане
+ - [https://opel.uz](https://opel.uz)
+ - date_published: 2024-07-12T06:24:28.999342+00:00
+
+ ## OPENSHOP.UZ internet do'koni | Eng arzon narxlardagi Toshkentdagi onlayn elektronika do'koni!
+ - [https://openshop.uz](https://openshop.uz)
+ - date_published: 2024-07-13T13:37:43.830532+00:00
+
+ ## Philips - O'zbekiston Respublikasi
+ - [https://www.philips.uz](https://www.philips.uz)
+ - date_published: 2024-10-30T04:14:42+00:00
+
+ ## pocketbook
+ - [https://pocketbook.uz](https://pocketbook.uz)
+ - date_published: 2024-07-20T16:13:30.938587+00:00
+
+ ## Sputnik O‘zbekiston
+ - [https://oz.sputniknews.uz](https://oz.sputniknews.uz)
+ - date_published: 2024-06-24T03:17:32.928708+00:00
+
+ ## UPG is a store for gaming computers and personalized peripherals. Delivery throughout Uzbekistan!
+ - [https://upg.uz](https://upg.uz)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## UzChess
+ - [https://uzchesss.uz](https://uzchesss.uz)
+ - date_published: 2024-02-20T19:13:35+00:00
+
+ ## Woot — интернет-магазин. Потребительская электроника по выгодным ценам
+ - [https://www.woot.uz](https://www.woot.uz)
+ - date_published: 2024-07-13T13:32:56.323499+00:00
+
+ ## Home Page Archivio Apostolico Vaticano
+ - [https://www.archivioapostolicovaticano.va](https://www.archivioapostolicovaticano.va)
+ - date_published: 2024-05-02T09:57:59.360281+00:00
+
+ ## Giubileo della Misericordia - Home
+ - [http://www.im.va](http://www.im.va)
+ - date_published: 2024-09-17T18:00:15.217663+00:00
+
+ ## L'Osservatore Romano
+ - [https://www.osservatoreromano.va](https://www.osservatoreromano.va)
+ - date_published: 2022-12-01T16:23:50+00:00
+
+ ## Synod 2021 - 2024
+ - [https://www.synod.va](https://www.synod.va)
+ - date_published: 2024-09-11T17:10:36.044255+00:00
+
+ ## Vatican
+ - [http://w2.vatican.va](http://w2.vatican.va)
+ - date_published: 2024-08-18T13:22:24+00:00
+
+ ## Vatican
+ - [https://www.vatican.va](https://www.vatican.va)
+ - date_published: 2024-02-01T19:30:36.251990+00:00
+
+ ## Home
+ - [https://www.vaticanlibrary.va](https://www.vaticanlibrary.va)
+ - date_published: 2024-10-20T05:30:55.495720+00:00
+
+ ## News from the Vatican - News about the Church - Vatican News
+ - [https://www.vaticannews.va](https://www.vaticannews.va)
+ - date_published: 2023-02-28T15:52:14+00:00
+ - tags: ['vatican', 'christianity', 'catholic', 'religion', 'news']
+
+ ## Home | Vanguard Switzerland Private Investor
+ - [https://www.ch.vanguard](https://www.ch.vanguard)
+ - date_published: 2024-02-29T00:00:00+00:00
+
+ ## Ausschließlich unseren Kunden verpflichtet | Vanguard
+ - [https://www.de.vanguard](https://www.de.vanguard)
+ - date_published: 2024-10-17T13:58:03.595707+00:00
+
+ ## Accueil | Vanguard France professionnel
+ - [https://www.fr.vanguard](https://www.fr.vanguard)
+ - date_published: 2024-10-17T13:58:12.445472+00:00
+
+ ## Vanguard Irish domiciled fund website | Irish Site
+ - [https://www.ie.vanguard](https://www.ie.vanguard)
+ - date_published: 2024-05-02T13:18:25.466031+00:00
+
+ ## Home | Vanguard Italia professional
+ - [https://www.it.vanguard](https://www.it.vanguard)
+ - date_published: 2024-10-17T13:57:52.374983+00:00
+
+ ## Netherlands Professional Home Page | Vanguard Netherlands Professional
+ - [https://www.nl.vanguard](https://www.nl.vanguard)
+ - date_published: 2024-02-05T08:33:27.017661+00:00
+
+ ## Aliança - Sua Empresa de Logística Integrada
+ - [https://www.alianca.com.vc](https://www.alianca.com.vc)
+ - date_published: 2024-06-21T19:52:39.426292+00:00
+
+ ## Zanim przejdziesz do Map Google
+ - [https://maps.google.com.vc](https://maps.google.com.vc)
+ - date_published: 2024-07-20T07:38:22.884598+00:00
+
+ ## Google
+ - [https://www.google.com.vc](https://www.google.com.vc)
+ - date_published: 2024-06-21T22:23:40.189498+00:00
+
+ ## 1984 Ventures
+ - [https://1984.vc](https://1984.vc)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## First Ever Global AI Venture Fund
+ - [http://1infinity.vc](http://1infinity.vc)
+ - date_published: 2024-06-21T11:42:23.432625+00:00
+
+ ## 8x8 Work
+ - [https://8x8.vc](https://8x8.vc)
+ - date_published: 2024-05-08T08:59:01.565378+00:00
+
+ ## 8x8 Meet
+ - [https://app.8x8.vc](https://app.8x8.vc)
+ - date_published: 2023-11-06T15:03:58+00:00
+
+ ## Jitsi as a Service – World's easiest way to add meetings to your apps
+ - [https://jaas.8x8.vc](https://jaas.8x8.vc)
+ - date_published: 2024-05-08T08:58:44.419858+00:00
+
+ ## Venture Capital Fund & Startup Accelerator | Access VC
+ - [https://www.access.vc](https://www.access.vc)
+ - date_published: 2024-08-06T11:11:59.857815+00:00
+
+ ## Things I Write. ✍🏽 | Adam Draper | Substack
+ - [https://www.adamdraper.vc](https://www.adamdraper.vc)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## AfterWork Ventures
+ - [https://www.afterwork.vc](https://www.afterwork.vc)
+ - date_published: 2024-10-27T16:02:41+00:00
+
+ ## Airbus Ventures
+ - [https://airbusventures.vc](https://airbusventures.vc)
+ - date_published: 2024-07-13T18:28:11.781667+00:00
+
+ ## Aleph - Early Stage Venture Capital for Israeli Entrepreneurs
+ - [https://aleph.vc](https://aleph.vc)
+ - date_published: 2020-02-04T12:50:37+00:00
+
  ## Apollo Health Ventures
  - [https://www.apollo.vc](https://www.apollo.vc)
  - date_published: 2024-09-16T00:00:00+00:00
@@ -3861,167 +4022,4 @@
  ## Link in Bio Wiki
  - [https://linkinbio.wiki](https://linkinbio.wiki)
  - date_published: 2022-06-09T13:28:16+00:00
-
- ## MapleStory Wiki
- - [https://maplestory.wiki](https://maplestory.wiki)
- - date_published: 2020-02-04T05:48:35+00:00
-
- ## Home | MediEvil Boards
- - [https://forum.medievil.wiki](https://forum.medievil.wiki)
- - date_published: 2024-06-18T15:17:43.683482+00:00
-
- ## Gallowpedia
- - [https://medievil.wiki](https://medievil.wiki)
- - date_published: 2023-11-10T04:13:09+00:00
-
- ## Metal Gear Database - Information wiki for Metal Gear Solid, Metal Gear Rising, and more
- - [https://metalgear.wiki](https://metalgear.wiki)
- - date_published: 2024-05-12T00:00:00+00:00
-
- ## Kometa Feedback
- - [https://features.metamanager.wiki](https://features.metamanager.wiki)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Home - Plex Meta Manager Wiki
- - [https://metamanager.wiki](https://metamanager.wiki)
- - date_published: 2024-04-08T19:29:46.526245+00:00
- - tags: ['self-host', 'plex']
-
- ## Minecraft Wiki
- - [https://de.minecraft.wiki](https://de.minecraft.wiki)
- - date_published: 2024-05-02T13:32:36.537798+00:00
-
- ## Minecraft Wiki
- - [https://es.minecraft.wiki](https://es.minecraft.wiki)
- - date_published: 2024-05-02T13:33:18.002551+00:00
-
- ## Minecraft Wiki
- - [https://fr.minecraft.wiki](https://fr.minecraft.wiki)
- - date_published: 2024-05-02T13:32:05.920014+00:00
-
- ## Minecraft Wiki
- - [https://ja.minecraft.wiki](https://ja.minecraft.wiki)
- - date_published: 2024-05-02T13:33:28.358130+00:00
-
- ## Minecraft Wiki
- - [https://ko.minecraft.wiki](https://ko.minecraft.wiki)
- - date_published: 2024-05-02T13:33:39.907237+00:00
-
- ## Minecraft Wiki
- - [https://lzh.minecraft.wiki](https://lzh.minecraft.wiki)
- - date_published: 2024-05-02T13:32:55.839645+00:00
-
- ## https://minecraft.wiki
- - [https://minecraft.wiki](https://minecraft.wiki)
- - date_published: 2023-10-25T08:39:47.923091+00:00
-
- ## Minecraft Wiki
- - [https://pt.minecraft.wiki](https://pt.minecraft.wiki)
- - date_published: 2024-05-02T13:33:48.841893+00:00
-
- ## Minecraft Wiki
- - [https://ru.minecraft.wiki](https://ru.minecraft.wiki)
- - date_published: 2024-05-02T13:33:02.014325+00:00
-
- ## Minecraft Wiki
- - [https://th.minecraft.wiki](https://th.minecraft.wiki)
- - date_published: 2024-05-02T13:32:26.230987+00:00
-
- ## Minecraft Wiki
- - [https://uk.minecraft.wiki](https://uk.minecraft.wiki)
- - date_published: 2024-05-02T13:31:49.636574+00:00
-
- ## Minecraft Wiki
- - [https://zh.minecraft.wiki](https://zh.minecraft.wiki)
- - date_published: 2024-05-02T13:32:49.604465+00:00
-
- ## Modafinil ( Provigil )
- - [https://www.modafinil.wiki](https://www.modafinil.wiki)
- - date_published: 2023-09-23T12:28:29+00:00
-
- ## Welcome to Modding.wiki
- - [https://modding.wiki](https://modding.wiki)
- - date_published: 2021-04-21T00:00:00+00:00
-
- ## Mostplay: Premium Online Cricket Betting Exchange #1 in Bangladesh
- - [https://mostplay.wiki](https://mostplay.wiki)
- - date_published: 2024-08-28T13:29:07+00:00
-
- ## Betula – federated bookmarking software for the independent web
- - [https://betula.mycorrhiza.wiki](https://betula.mycorrhiza.wiki)
- - date_published: 2024-06-09T05:07:06+00:00
- - tags: ['bookmarks', 'bookmark manager']
-
- ## Mycorrhiza Wiki
- - [https://mycorrhiza.wiki](https://mycorrhiza.wiki)
- - date_published: 2024-06-10T10:26:10.370603+00:00
-
- ## Frostgrave Wiki
- - [https://frostgrave.mywikis.wiki](https://frostgrave.mywikis.wiki)
- - date_published: 2023-05-14T00:00:00+00:00
-
- ## LessWrong
- - [https://lesswrong.mywikis.wiki](https://lesswrong.mywikis.wiki)
- - date_published: 2024-09-18T02:30:44.995210+00:00
-
- ## 나무위키 게시판
- - [https://board.namu.wiki](https://board.namu.wiki)
- - date_published: 2024-10-26T07:06:03.432495+00:00
-
- ## 나무위키:대문
- - [https://namu.wiki](https://namu.wiki)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Network States
- - [https://www.networkstates.wiki](https://www.networkstates.wiki)
- - date_published: 2024-05-02T13:46:25.319000+00:00
-
- ## NixLang Wiki
- - [https://nixlang.wiki](https://nixlang.wiki)
- - date_published: 2024-01-02T00:00:00+00:00
-
- ## NixOS Wiki
- - [https://nixos.wiki](https://nixos.wiki)
- - date_published: 2023-10-25T23:01:15.047322+00:00
-
- ## Nonbinary Wiki
- - [https://nonbinary.wiki](https://nonbinary.wiki)
- - date_published: 2024-05-07T19:03:05.424988+00:00
- - tags: ['lgbt']
-
- ## Custom Domain by Bitly
- - [https://nra.wiki](https://nra.wiki)
- - date_published: 2024-05-04T07:01:12.058022+00:00
-
- ## Neverwinter Vault Modding Wiki - Introduction - nwn.wiki
- - [https://nwn.wiki](https://nwn.wiki)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Home
- - [https://en.oho.wiki](https://en.oho.wiki)
- - date_published: 2023-04-13T17:01:23+00:00
-
- ## Opioids: past, present and future
- - [https://opioids.wiki](https://opioids.wiki)
- - date_published: 2024-01-24T14:21:03+00:00
-
- ## Official 100% Orange Juice Wiki
- - [https://orangejuice.wiki](https://orangejuice.wiki)
- - date_published: 2024-06-18T08:00:39+00:00
-
- ## Otherkin Wiki
- - [https://otherkin.wiki](https://otherkin.wiki)
- - date_published: 2024-02-23T15:07:58+00:00
-
- ## oxytocin . org : the biology of true love
- - [https://oxytocin.wiki](https://oxytocin.wiki)
- - date_published: 2023-08-05T01:03:07+00:00
-
- ## PACUTOTO99 - Slot Online Server Luar Negeri Gampang JP
- - [https://pacutoto99-sup.wiki](https://pacutoto99-sup.wiki)
- - date_published: 2024-06-12T01:51:13.794425+00:00
-
- ## Welcome to the Palm OS Wiki!
- - [https://palm.wiki](https://palm.wiki)
- - date_published: 2020-03-18T09:25:00+00:00
 

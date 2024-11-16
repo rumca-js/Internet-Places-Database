@@ -1,3 +1,15 @@
+ ## Login – Homebrew Computer Company  Pte. Ltd.
+ - [https://homebrew.bamboohr.com](https://homebrew.bamboohr.com)
+ - date_published: 2024-08-18T07:14:24.031454+00:00
+
+ ## Login – Inco
+ - [https://inco.bamboohr.com](https://inco.bamboohr.com)
+ - date_published: 2024-09-25T11:38:30.426894+00:00
+
+ ## Login – THINKING MACHINES PTE. LTD.
+ - [https://janai.bamboohr.com](https://janai.bamboohr.com)
+ - date_published: 2024-05-11T09:11:19.094497+00:00
+
  ## BambooHR: The Complete HR Software for People, Payroll & Benefits
  - [https://listglobally.bamboohr.com](https://listglobally.bamboohr.com)
  - date_published: 2024-09-14T00:42:16+00:00
@@ -3989,16 +4001,4 @@
  ## No Laughing Matter
  - [https://nolaughingmatter.bandcamp.com](https://nolaughingmatter.bandcamp.com)
  - date_published: 2024-07-18T00:00:00+00:00
-
- ## Noooodle King
- - [https://noooodleking.bandcamp.com](https://noooodleking.bandcamp.com)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## No Rent
- - [https://norentrecords.bandcamp.com](https://norentrecords.bandcamp.com)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Norman David
- - [https://normandavid.bandcamp.com](https://normandavid.bandcamp.com)
- - date_published: 2024-07-03T00:00:00+00:00
 

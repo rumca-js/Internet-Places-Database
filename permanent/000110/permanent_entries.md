@@ -1,3 +1,38 @@
+ ## GitHub - tardisx/gropple: Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
+ - [https://github.com/tardisx/gropple](https://github.com/tardisx/gropple)
+ - date_published: 2024-11-14T11:40:49+00:00
+ - tags: ['download manager']
+
+ ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
+ - [https://github.com/bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist)
+ - date_published: 2024-11-14T11:41:05+00:00
+ - tags: ['download manager']
+
+ ## GitHub - meeb/tubesync: Syncs YouTube channels and playlists to a locally hosted media server
+ - [https://github.com/meeb/tubesync](https://github.com/meeb/tubesync)
+ - date_published: 2024-11-14T11:41:22+00:00
+ - tags: ['download manager']
+
+ ## GitHub - Tzahi12345/YoutubeDL-Material: Self-hosted YouTube downloader built on Material Design
+ - [https://github.com/Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
+ - date_published: 2024-11-14T11:41:38+00:00
+ - tags: ['download manager']
+
+ ## GitHub - Rudloff/alltube: Web GUI for youtube-dl
+ - [https://github.com/Rudloff/alltube](https://github.com/Rudloff/alltube)
+ - date_published: 2024-11-14T11:41:54+00:00
+ - tags: ['download manager']
+
+ ## GitHub - chibicitiberiu/ytsm: Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
+ - [https://github.com/chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm)
+ - date_published: 2024-11-14T11:42:10+00:00
+ - tags: ['download manager']
+
+ ## GitHub - alexta69/metube: Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+ - [https://github.com/alexta69/metube](https://github.com/alexta69/metube)
+ - date_published: 2024-11-14T11:42:29+00:00
+ - tags: ['download manager']
+
  ## GitHub - horahoradev/horahora: Multi-user video download manager supporting hundreds of sites
  - [https://github.com/horahoradev/horahora](https://github.com/horahoradev/horahora)
  - date_published: 2024-11-14T11:42:45+00:00
@@ -52,6 +87,26 @@
  - [https://github.com/akuse-app/Akuse](https://github.com/akuse-app/Akuse)
  - date_published: 2024-11-14T19:33:39+00:00
  - tags: ['anime']
+
+ ## GitHub - louislam/uptime-kuma: A fancy self-hosted monitoring tool
+ - [https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+ - date_published: 2024-11-15T20:55:40+00:00
+ - tags: ['server administration', 'self-host']
+
+ ## GitHub - fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+ - [https://github.com/fatedier/frp](https://github.com/fatedier/frp)
+ - date_published: 2024-11-15T20:58:47+00:00
+ - tags: ['reverse proxy']
+
+ ## GitHub - chaitin/SafeLine: serve as a reverse proxy to protect your web services from attacks and exploits.
+ - [https://github.com/chaitin/SafeLine](https://github.com/chaitin/SafeLine)
+ - date_published: 2024-11-15T20:59:15+00:00
+ - tags: ['reverse proxy']
+
+ ## GitHub - BrowserBox/BrowserBox: 🌀 Browse the whole web from a web page. Remote browser isolation. For compliance, integration, security, privacy and more! By https://dosyago.com
+ - [https://github.com/BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox)
+ - date_published: 2024-11-15T21:08:17+00:00
+ - tags: ['web browser']
 
  ## Git Large File Storage
  - [https://git-lfs.github.com](https://git-lfs.github.com)
@@ -3989,48 +4044,4 @@
  ## Get started for free with GoCardless
  - [https://manage-sandbox.gocardless.com](https://manage-sandbox.gocardless.com)
  - date_published: 2024-09-30T19:16:03.940668+00:00
-
- ## Support Centre
- - [https://support.gocardless.com](https://support.gocardless.com)
- - date_published: 2024-03-07T00:00:00+00:00
-
- ## Login
- - [https://xero.gocardless.com](https://xero.gocardless.com)
- - date_published: 2024-09-30T19:11:04.363683+00:00
-
- ## University of Louisville Athletic - Official Athletics Website
- - [https://gocards.com](https://gocards.com)
- - date_published: 2024-06-23T13:08:11.307399+00:00
-
- ## Caribou - Refinance your car loan. You could save big.
- - [https://www.gocaribou.com](https://www.gocaribou.com)
- - date_published: 2024-09-20T00:00:00+00:00
-
- ## GoCar Tours | Sightseeing Tours in Storytelling Car
- - [http://www.gocartours.com](http://www.gocartours.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Concurrent Technologies | Embedded Solutions in Critical Applications
- - [https://www.gocct.com](https://www.gocct.com)
- - date_published: 2017-09-02T09:00:53+00:00
-
- ## Celerate : Custom Digital Solutions Company
- - [https://gocelerate.com](https://gocelerate.com)
- - date_published: 2024-03-05T00:00:00+00:00
-
- ## gocept blog – public archive
- - [https://blog.gocept.com](https://blog.gocept.com)
- - date_published: 2023-11-30T13:35:12+00:00
-
- ## Do Debt Differently | Changed
- - [https://www.gochanged.com](https://www.gochanged.com)
- - date_published: 2024-06-18T06:45:15+00:00
-
- ## HOME
- - [https://go-circular.com](https://go-circular.com)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Civico – Powered by Sigma XI
- - [https://gocivico.com](https://gocivico.com)
- - date_published: 2024-10-19T04:00:59.807036+00:00
 

@@ -1,3 +1,11 @@
+ ## Login | ArchiveSocial
+ - [https://secure.archivesocial.com](https://secure.archivesocial.com)
+ - date_published: 2024-09-16T01:38:12.782058+00:00
+
+ ## ARCHIZINES
+ - [http://www.archizines.com](http://www.archizines.com)
+ - date_published: 2024-09-14T22:58:19.841670+00:00
+
  ## Archlinux User
  - [https://www.archlinuxuser.com](https://www.archlinuxuser.com)
  - date_published: 2024-03-14T08:18:46+00:00
@@ -4030,12 +4038,4 @@ By Arts Economics
  ## ASCIIFlow
  - [https://asciiflow.com](https://asciiflow.com)
  - date_published: 2024-05-06T20:40:31.841482+00:00
-
- ## AsciiFolders
- - [https://asciifolders.com](https://asciifolders.com)
- - date_published: 2024-07-14T09:33:39.624731+00:00
-
- ## Online Poster Maker : ASCII Poster
- - [http://www.asciiposter.com](http://www.asciiposter.com)
- - date_published: 2024-07-04T14:46:30.543815+00:00
 

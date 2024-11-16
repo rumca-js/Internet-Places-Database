@@ -1,3 +1,50 @@
+ ## Luka Peharda - PHP and JS developer
+ - [https://lukapeharda.com](https://lukapeharda.com)
+ - date_published: 2000-01-01T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Lukas Biewald
+ - [https://lukasbiewald.com](https://lukasbiewald.com)
+ - date_published: 2024-06-15T00:00:00+00:00
+
+ ## Lukáš Kubánek
+ - [https://lukaskubanek.com](https://lukaskubanek.com)
+ - date_published: 2023-01-01T00:00:00+00:00
+
+ ## Lukas Malkmus
+ - [https://lukasmalkmus.com](https://lukasmalkmus.com)
+ - date_published: 2023-12-12T23:24:40.676809+00:00
+ - tags: ['personal']
+
+ ## MAIN COURSE COMEDY
+ - [http://lukasmccrary.com](http://lukasmccrary.com)
+ - date_published: 2024-08-11T08:49:32.873191+00:00
+
+ ## Lukáš Tisoň – digital designer
+ - [http://lukastison.com](http://lukastison.com)
+ - date_published: 2020-08-03T13:52:33+00:00
+
+ ## Rostkowski - Kompozytor / Composer
+ - [http://www.lukaszrostkowski.com](http://www.lukaszrostkowski.com)
+ - date_published: 2024-03-21T11:57:08+00:00
+
+ ## Lukatela
+ - [https://www.lukatela.com](https://www.lukatela.com)
+ - date_published: 2022-09-12T16:42:53+00:00
+
+ ## LukeAcha.com
+ - [http://www.lukeacha.com](http://www.lukeacha.com)
+ - date_published: 2023-11-10T17:55:22+00:00
+
+ ## Luke Bechtel
+ - [https://lukebechtel.com](https://lukebechtel.com)
+ - date_published: 2024-02-22T00:00:00+00:00
+ - tags: ['personal']
+
+ ## Luke Burgis | Builder, Author, Educator
+ - [https://lukeburgis.com](https://lukeburgis.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
  ## Anti-Mimetic | Luke Burgis | Substack
  - [https://read.lukeburgis.com](https://read.lukeburgis.com)
  - date_published: 2023-10-25T15:52:17.870193+00:00
@@ -3979,48 +4026,4 @@ diversions.
  ## Magick Multimedia
  - [https://magickmultimedia.com](https://magickmultimedia.com)
  - date_published: 2024-06-23T06:59:42.687196+00:00
-
- ## MagickPen Blog
- - [https://blog.magickpen.com](https://blog.magickpen.com)
- - date_published: 2024-10-30T19:13:50+00:00
-
- ## MagickPen
- - [https://magickpen.com](https://magickpen.com)
- - date_published: 2024-06-19T20:58:05.076503+00:00
-
- ## OnePrompt
- - [https://oneprompt.magickworx.com](https://oneprompt.magickworx.com)
- - date_published: 2023-11-13T23:50:03+00:00
-
- ## magic-kyoto2019 - Rekomendasi Game Indonesia yang menyajikan informasi, berita, review Game Mobile danPC
- - [https://magic-kyoto2019.com](https://magic-kyoto2019.com)
- - date_published: 2024-08-20T03:59:54.690717+00:00
-
- ## Magic Leap
- - [https://developer.magicleap.com](https://developer.magicleap.com)
- - date_published: 2024-06-21T21:07:08.819732+00:00
-
- ## Buy Magic Leap 2 Now
- - [https://enterprise.magicleap.com](https://enterprise.magicleap.com)
- - date_published: 2024-06-21T21:07:46.835230+00:00
-
- ## Leading Innovation in Augmented Reality
- - [https://forum.magicleap.com](https://forum.magicleap.com)
- - date_published: 2024-06-21T21:05:32.609454+00:00
-
- ## Authentication | Magic Leap
- - [https://id.magicleap.com](https://id.magicleap.com)
- - date_published: 2024-06-21T21:07:24.843852+00:00
-
- ## AR for Business | Augmented Reality
- - [https://magicleap.com](https://magicleap.com)
- - date_published: 2024-05-04T14:03:38.977658+00:00
-
- ## Magic Leap 1 Resources | Magic Leap
- - [https://ml1-developer.magicleap.com](https://ml1-developer.magicleap.com)
- - date_published: 2024-06-21T21:05:34.737473+00:00
-
- ## Magic Leap
- - [https://ml2-developer.magicleap.com](https://ml2-developer.magicleap.com)
- - date_published: 2024-05-04T14:03:37.744835+00:00
 

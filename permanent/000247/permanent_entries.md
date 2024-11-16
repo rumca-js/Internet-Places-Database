@@ -1,3 +1,95 @@
+ ## scinexx | Das Wissensmagazin mit Science-News aus Wissenschaft und Forschung
+ - [http://www.scinexx.de](http://www.scinexx.de)
+ - date_published: 2024-06-30T08:38:35.796716+00:00
+
+ ## Home - SC Magdeburg e.V.
+ - [https://sc-magdeburg.de](https://sc-magdeburg.de)
+ - date_published: 2024-04-08T00:00:00+00:00
+
+ ## SC-Media-Rent - Home
+ - [https://www.sc-media-rent.de](https://www.sc-media-rent.de)
+ - date_published: 2024-07-24T06:38:33.713874+00:00
+
+ ## SCM Historie
+ - [https://historie.scm-handball.de](https://historie.scm-handball.de)
+ - date_published: 2024-09-09T08:05:15+00:00
+
+ ## SC Magdeburg - Offizieller Fanshop
+ - [https://shop.scm-handball.de](https://shop.scm-handball.de)
+ - date_published: 2024-09-25T19:06:08.798921+00:00
+
+ ## Offizielle Homepage - SC Magdeburg Handball
+ - [https://www.scm-handball.de](https://www.scm-handball.de)
+ - date_published: 2024-06-16T06:01:31.629735+00:00
+
+ ## S-Communication Services
+ - [https://www.s-communication.de](https://www.s-communication.de)
+ - date_published: 2024-08-21T00:00:00+00:00
+
+ ## Home - SCOOP Software
+ - [http://scoop-software.de](http://scoop-software.de)
+ - date_published: 2024-01-03T00:00:00+00:00
+
+ ## Score Media Group – Die nationale Vermarktungsplattform regionaler Medienmarken
+ - [https://score-media.de](https://score-media.de)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Scorpion Exhausts - ein Angebot von Hagen GmbH Motorsportzubehör + Freizeittechnik
+ - [http://www.scorpionexhausts.de](http://www.scorpionexhausts.de)
+ - date_published: 2024-07-14T15:46:38.935851+00:00
+
+ ## Verhandlungstraining & Consulting | Scotwork Germany
+ - [https://scotwork.de](https://scotwork.de)
+ - date_published: 2024-10-21T07:32:18.280273+00:00
+
+ ## screaming inside - GoToSocial
+ - [https://screaminginsi.de](https://screaminginsi.de)
+ - date_published: 2024-07-08T20:20:30.566219+00:00
+
+ ## ScreenOnDemand – Digital Advertising auf allen relevanten Screens
+ - [https://screenondemand.de](https://screenondemand.de)
+ - date_published: 2024-05-06T18:04:30.011882+00:00
+
+ ## Script-Solution
+ - [http://www.script-solution.de](http://www.script-solution.de)
+ - date_published: 2021-01-11T18:55:26+00:00
+
+ ## Scutum Deutschland GmbH
+ - [https://www.scutum-deutschland.de](https://www.scutum-deutschland.de)
+ - date_published: 2024-09-25T19:02:47.724672+00:00
+
+ ## Technikmuseum
+ - [http://www.sdtb.de](http://www.sdtb.de)
+ - date_published: 2024-07-14T14:20:19+00:00
+
+ ## sealingExpertise - Hier finden Sie die richtige Dichtung
+ - [http://sealingexpertise.de](http://sealingexpertise.de)
+ - date_published: 2024-07-12T09:18:15.664608+00:00
+
+ ## Sea You Festival
+ - [https://seayou-festival.de](https://seayou-festival.de)
+ - date_published: 2024-05-08T00:39:33.586741+00:00
+
+ ## Sebastian Benz
+ - [https://sebastianbenz.de](https://sebastianbenz.de)
+ - date_published: 2014-07-25T00:00:00+00:00
+
+ ## Amiga Retrocomputing
+ - [https://amiga.sebastian-bergmann.de](https://amiga.sebastian-bergmann.de)
+ - date_published: 2024-05-05T13:02:56+00:00
+
+ ## Sebastian Bergmann
+ - [https://sebastian-bergmann.de](https://sebastian-bergmann.de)
+ - date_published: 2024-05-09T07:44:58.969700+00:00
+
+ ## Sebastian Holstein
+ - [https://sebastian-holstein.de](https://sebastian-holstein.de)
+ - date_published: 2023-10-25T18:32:34.240038+00:00
+
+ ## IT-Sicherheit für Unternehmen - Full Service | Securepoint
+ - [https://www.securepoint.de](https://www.securepoint.de)
+ - date_published: 2024-08-11T04:24:31.671154+00:00
+
  ## Securiton – die Marke für Sicherheit
  - [https://www.securiton.de](https://www.securiton.de)
  - date_published: 2024-07-18T00:00:00+00:00
@@ -3924,98 +4016,4 @@
  ## Identity Provider of Technical University of Darmstadt
  - [https://mrbs.informatik.tu-darmstadt.de](https://mrbs.informatik.tu-darmstadt.de)
  - date_published: 2024-06-22T11:54:11.179012+00:00
-
- ## SSO
- - [https://sso.tu-darmstadt.de](https://sso.tu-darmstadt.de)
- - date_published: 2024-06-22T11:54:18.168796+00:00
-
- ## Sign in - Matomo
- - [https://statistics.tu-darmstadt.de](https://statistics.tu-darmstadt.de)
- - date_published: 2024-04-29T06:56:11.577265+00:00
-
- ## TUprints - TU Darmstadt publication service
-			-
-			TUprints
- - [https://tuprints.ulb.tu-darmstadt.de](https://tuprints.ulb.tu-darmstadt.de)
- - date_published: 2024-04-29T07:20:31.866936+00:00
-
- ## CROSSING
- - [http://www.crossing.tu-darmstadt.de](http://www.crossing.tu-darmstadt.de)
- - date_published: 2024-04-16T00:00:00+00:00
-
- ## Staff-Mgn.
- - [https://www.dekanat.informatik.tu-darmstadt.de](https://www.dekanat.informatik.tu-darmstadt.de)
- - date_published: 2024-06-22T11:54:15.035098+00:00
-
- ## DVS - Databases and Distributed Systems
- - [http://www.dvs.tu-darmstadt.de](http://www.dvs.tu-darmstadt.de)
- - date_published: 2019-10-30T13:45:40+00:00
-
- ## E-Learning @TU Darmstadt
- - [https://www.e-learning.tu-darmstadt.de](https://www.e-learning.tu-darmstadt.de)
- - date_published: 2024-04-29T06:56:22.944193+00:00
-
- ## Startseite FiF
- - [https://www.fif.tu-darmstadt.de](https://www.fif.tu-darmstadt.de)
- - date_published: 2024-06-22T11:54:17.164385+00:00
-
- ## Startseite
- - [https://www.freunde.tu-darmstadt.de](https://www.freunde.tu-darmstadt.de)
- - date_published: 2024-04-29T06:56:12.861105+00:00
-
- ## Graphisch-Interaktive Systeme
- - [http://www.gris.informatik.tu-darmstadt.de](http://www.gris.informatik.tu-darmstadt.de)
- - date_published: 2024-06-22T07:29:08.550406+00:00
-
- ## Gründungen – xchange
- - [https://www.highest.tu-darmstadt.de](https://www.highest.tu-darmstadt.de)
- - date_published: 2024-04-29T06:56:08.986181+00:00
-
- ## HIGHWAY | Innovation Platform of TU Darmstadt
- - [https://www.highway.tu-darmstadt.de](https://www.highway.tu-darmstadt.de)
- - date_published: 2024-07-24T04:23:14.409133+00:00
-
- ## Home
- - [https://www.hrz.tu-darmstadt.de](https://www.hrz.tu-darmstadt.de)
- - date_published: 2024-07-15T00:00:00+00:00
-
- ## Intelligent Autonomous Systems | Main / Home Page
- - [https://www.ias.informatik.tu-darmstadt.de](https://www.ias.informatik.tu-darmstadt.de)
- - date_published: 2024-07-12T08:05:00.543317+00:00
-
- ## Identity Provider of Technical University of Darmstadt
- - [https://www.idm.tu-darmstadt.de](https://www.idm.tu-darmstadt.de)
- - date_published: 2024-07-24T04:22:10.266899+00:00
-
- ## FB Informatik
- - [https://www.informatik.tu-darmstadt.de](https://www.informatik.tu-darmstadt.de)
- - date_published: 2024-05-04T15:43:58.931142+00:00
-
- ## Infoportal Startseite
- - [https://www.intern.tu-darmstadt.de](https://www.intern.tu-darmstadt.de)
- - date_published: 2024-04-29T06:56:13.976258+00:00
-
- ## Kommunikationsnetze / Multimedia Kommunikation – TU Darmstadt – Fachgebiete Multimedia Kommunikation / Kommunikationsnetze (KOM)
- - [https://www.kom.tu-darmstadt.de](https://www.kom.tu-darmstadt.de)
- - date_published: 2024-07-07T10:45:56.708486+00:00
-
- ## Sonderforschungsbereich 1053 MAKI – Multi-Mechanismen-Adaption für das künftige Internet
- - [http://www.maki.tu-darmstadt.de](http://www.maki.tu-darmstadt.de)
- - date_published: 2024-07-07T10:45:54.449084+00:00
-
- ## Startseite
- - [http://wwwopt.mathematik.tu-darmstadt.de](http://wwwopt.mathematik.tu-darmstadt.de)
- - date_published: 2024-10-16T06:09:38.406389+00:00
-
- ## Startseite
- - [https://www.personalrat.tu-darmstadt.de](https://www.personalrat.tu-darmstadt.de)
- - date_published: 2024-04-29T06:56:18.893471+00:00
-
- ## Die Vertrauensperson
- - [https://www.schwbv.tu-darmstadt.de](https://www.schwbv.tu-darmstadt.de)
- - date_published: 2022-11-14T00:00:00+00:00
-
- ## Sprachenzentrum
- - [https://www.spz.tu-darmstadt.de](https://www.spz.tu-darmstadt.de)
- - date_published: 2024-07-24T04:22:13.197256+00:00
 

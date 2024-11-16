@@ -1,3 +1,32 @@
+ ## My name is David Roessli and I make websites on a Mac
+ - [https://davidroessli.com](https://davidroessli.com)
+ - date_published: 2024-07-10T06:16:22.474028+00:00
+
+ ## David Rosenboom
+ - [http://www.davidrosenboom.com](http://www.davidrosenboom.com)
+ - date_published: 2024-09-06T21:47:04.510146+00:00
+
+ ## David Rouge | Voyages Photo - Travel Photography
+ - [https://www.davidrouge.com](https://www.davidrouge.com)
+ - date_published: 2024-10-07T21:24:04.488102+00:00
+
+ ## DRW Entertainment | International Concert and Tour Promoter
+ - [https://davidroywilliams.com](https://davidroywilliams.com)
+ - date_published: 2024-06-18T09:26:09.300858+00:00
+
+ ## David Rumsey Historical Map Collection
+| The Collection
+ - [https://www.davidrumsey.com](https://www.davidrumsey.com)
+ - date_published: 2024-06-22T00:00:04+00:00
+
+ ## David Rutland
+ - [https://davidrutland.com](https://davidrutland.com)
+ - date_published: 2024-05-02T12:51:17.553101+00:00
+
+ ## David Sansome
+ - [https://davidsansome.com](https://davidsansome.com)
+ - date_published: 2015-11-07T04:21:23+00:00
+
  ## David Saylors David Saylors Photography
  - [https://www.davidsaylors.com](https://www.davidsaylors.com)
  - date_published: 2024-06-29T07:58:50.763700+00:00
@@ -4020,32 +4049,4 @@
  ## Computers, Monitors & Technology Solutions | Dell Polska
  - [https://dell.com](https://dell.com)
  - date_published: 2024-05-15T00:00:00+00:00
-
- ## Dell Community | DELL Technologies
- - [https://en.community.dell.com](https://en.community.dell.com)
- - date_published: 2024-04-29T07:04:16.131597+00:00
-
- ## Laptops, Monitors, Computers & Storage Solutions | Dell Polska
- - [https://i.dell.com](https://i.dell.com)
- - date_published: 2024-05-01T04:34:29.382976+00:00
-
- ## Working at Dell Careers
- - [https://jobs.dell.com](https://jobs.dell.com)
- - date_published: 2024-05-01T04:34:27.786297+00:00
-
- ## Dell Technologies Partner Portal
- - [https://partner.dell.com](https://partner.dell.com)
- - date_published: 2024-06-15T21:43:23.580040+00:00
-
- ## Dell Search
- - [https://pilot.search.dell.com](https://pilot.search.dell.com)
- - date_published: 2024-09-19T20:53:53.530549+00:00
-
- ## Computers, Monitors & Technology Solutions | Dell Polska
- - [https://support.dell.com](https://support.dell.com)
- - date_published: 2024-05-15T00:00:00+00:00
-
- ## Dell Trade In – Trade Up Sustainably
- - [https://tradein.dell.com](https://tradein.dell.com)
- - date_published: 2024-07-09T11:34:58.880723+00:00
 

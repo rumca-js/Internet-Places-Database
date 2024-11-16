@@ -1,3 +1,101 @@
+ ## Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix
+ - [https://bloom-ui.fly.dev](https://bloom-ui.fly.dev)
+ - date_published: 2024-05-04T00:23:24+00:00
+
+ ## DATASTAR
+ - [https://datastar.fly.dev](https://datastar.fly.dev)
+ - date_published: 2024-06-23T06:17:43.958213+00:00
+
+ ## AI Emojis
+ - [https://emoji.fly.dev](https://emoji.fly.dev)
+ - date_published: 2023-10-25T18:38:03.669949+00:00
+
+ ## Fantasy Hockey Helper
+ - [https://fantasyhockey.fly.dev](https://fantasyhockey.fly.dev)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## Fed Up
+ - [https://fed-up.fly.dev](https://fed-up.fly.dev)
+ - date_published: 2023-10-25T18:38:04.597888+00:00
+
+ ## WeChatGPT+
+ - [https://future-attejuvonen.fly.dev](https://future-attejuvonen.fly.dev)
+ - date_published: 1980-01-01T00:00:01+00:00
+
+ ## HN Hired
+ - [https://hnhired.fly.dev](https://hnhired.fly.dev)
+ - date_published: 2023-11-01T15:43:41.769111+00:00
+
+ ## Sign in - JLS Indiekit
+ - [https://jls-indiekit.fly.dev](https://jls-indiekit.fly.dev)
+ - date_published: 2024-08-17T07:03:40.158413+00:00
+
+ ## Lalacheck
+ - [https://lalacheck.fly.dev](https://lalacheck.fly.dev)
+ - date_published: 2024-11-05T17:00:24+00:00
+ - tags: ['online tool']
+
+ ## Reactive html apps in Go & alpine.js
+ - [https://livefir.fly.dev](https://livefir.fly.dev)
+ - date_published: 2023-10-25T18:38:06.116135+00:00
+
+ ## Lychee v5
+ - [https://lychee-demo.fly.dev](https://lychee-demo.fly.dev)
+ - date_published: 2024-05-04T15:14:17.452908+00:00
+
+ ## REM - REST API
+ - [https://mithril-rem.fly.dev](https://mithril-rem.fly.dev)
+ - date_published: 2024-07-01T05:19:44.854431+00:00
+
+ ## Login | Mouji
+ - [https://mouji.fly.dev](https://mouji.fly.dev)
+ - date_published: 2024-07-13T06:31:01.759192+00:00
+
+ ## Praise My GitHub Profile
+ - [https://praise-me.fly.dev](https://praise-me.fly.dev)
+ - date_published: 2024-08-04T16:28:22+00:00
+ - tags: ['github']
+
+ ## Primate - Polymorphic development platform
+ - [https://primate.fly.dev](https://primate.fly.dev)
+ - date_published: 2024-05-07T09:25:44.547950+00:00
+
+ ## Show HN: Quilt – Powerful RAG UI for Document QA
+ - [https://quilt.fly.dev](https://quilt.fly.dev)
+ - date_published: 2024-10-02T03:54:07+00:00
+
+ ## Login | Ryot
+ - [https://ryot.fly.dev](https://ryot.fly.dev)
+ - date_published: 2024-04-08T19:30:40.094101+00:00
+
+ ## SaasRock | The Remix SaaS Development Framework
+ - [https://saasrock.fly.dev](https://saasrock.fly.dev)
+ - date_published: 2024-03-22T00:00:00+00:00
+
+ ## Podcasts for developers
+ - [https://snap.fly.dev](https://snap.fly.dev)
+ - date_published: 2024-08-16T00:00:00+00:00
+
+ ## where-do-we-eat
+ - [https://websockets-voting-client.fly.dev](https://websockets-voting-client.fly.dev)
+ - date_published: 2024-07-16T19:58:46+00:00
+
+ ## Flyde | Visual Programming. For Developers.
+ - [https://flyde.dev](https://flyde.dev)
+ - date_published: 2024-03-07T13:29:00.156112+00:00
+
+ ## Flyde Playground
+ - [https://play.flyde.dev](https://play.flyde.dev)
+ - date_published: 2024-05-09T05:47:57.564975+00:00
+
+ ## Flyflow
+ - [https://app.flyflow.dev](https://app.flyflow.dev)
+ - date_published: 2024-07-14T15:46:27.678461+00:00
+
+ ## Flyflow
+ - [https://flyflow.dev](https://flyflow.dev)
+ - date_published: 2024-05-11T11:40:56.453274+00:00
+
  ## Winner of the SF Mistral AI Hackathon: Automated Test Driven Prompting
  - [https://prompting.flyflow.dev](https://prompting.flyflow.dev)
  - date_published: 2024-03-27T17:31:31+00:00
@@ -2201,6 +2299,10 @@
  - [https://www.kubero.dev](https://www.kubero.dev)
  - date_published: 2024-09-02T10:43:58.349691+00:00
 
+ ## Kubito
+ - [https://kubito.dev](https://kubito.dev)
+ - date_published: 2024-11-15T21:30:14+00:00
+
  ## The Twenty Percent
  - [https://kuenzi.dev](https://kuenzi.dev)
  - date_published: 2023-10-25T18:39:00.164249+00:00
@@ -3985,105 +4087,4 @@
  ## OC3 | Open Confidential Computing Conference 2024
  - [https://oc3.dev](https://oc3.dev)
  - date_published: 2024-04-04T00:00:00+00:00
-
- ## AI powered Playwright end-to-end tests for web apps
- - [https://www.octomind.dev](https://www.octomind.dev)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Odysseus Abraham Kirikopoulos
- - [https://odysseusk.dev](https://odysseusk.dev)
- - date_published: 2024-06-03T08:46:25+00:00
-
- ## Offen Fair Web Analytics
- - [https://docs.offen.dev](https://docs.offen.dev)
- - date_published: 2024-05-22T18:31:07+00:00
-
- ## Offen Fair Web Analytics
- - [https://offen.offen.dev](https://offen.offen.dev)
- - date_published: 2024-10-31T04:35:24.734987+00:00
-
- ## Offen Fair Web Analytics
- - [https://www.offen.dev](https://www.offen.dev)
- - date_published: 2023-09-04T19:35:50+00:00
-
- ## Home | Oh My Posh
- - [https://ohmyposh.dev](https://ohmyposh.dev)
- - date_published: 2024-06-18T11:07:08+00:00
-
- ## Oh My Posh
- - [https://swag.ohmyposh.dev](https://swag.ohmyposh.dev)
- - date_published: 2024-10-22T02:24:54.593429+00:00
-
- ## Miguel Ojeda
- - [https://ojeda.dev](https://ojeda.dev)
- - date_published: 2024-07-15T02:50:50.797165+00:00
-
- ## Agencja interaktywna Okinet 👌 Software house Wrocław
- - [https://okinet.dev](https://okinet.dev)
- - date_published: 2024-07-09T13:18:54.484809+00:00
-
- ## olano.dev
- - [https://olano.dev](https://olano.dev)
- - date_published: 2023-12-01T10:46:06.534286+00:00
-
- ## Edwin - olback.dev
- - [https://olback.dev](https://olback.dev)
- - date_published: 2024-03-14T20:04:10+00:00
-
- ## Home
- - [https://omid.dev](https://omid.dev)
- - date_published: 2024-06-19T01:01:54.728990+00:00
-
- ## Best Custom Software Development Company - OneBase
- - [https://onebase.dev](https://onebase.dev)
- - date_published: 2024-10-30T17:31:39.483539+00:00
-
- ## OneBite.Dev - Coding blog in a bite size
- - [https://onebite.dev](https://onebite.dev)
- - date_published: 2024-05-07T23:27:22.315889+00:00
-
- ## Derniers articles
- - [https://one-octet.dev](https://one-octet.dev)
- - date_published: 2024-06-11T15:53:08+00:00
-
- ## Developer tools for building better software
- - [https://www.onepercent.dev](https://www.onepercent.dev)
- - date_published: 2024-08-11T10:52:26.704283+00:00
-
- ## Show HN: One – A new React framework unifying web, native and local-first
- - [https://onestack.dev](https://onestack.dev)
- - date_published: 2024-10-04T15:15:24+00:00
-
- ## PayID Gambling | Top PayID Pokies for Aussie
- - [https://onotakehiko.dev](https://onotakehiko.dev)
- - date_published: 2024-10-22T19:18:03.752025+00:00
-
- ## Onramp to Laravel
- - [https://onramp.dev](https://onramp.dev)
- - date_published: 2024-06-18T10:24:10.258922+00:00
-
- ## Onur Şuyalçınkaya
- - [https://onur.dev](https://onur.dev)
- - date_published: 2023-12-16T07:29:32.330441+00:00
- - tags: ['personal']
-
- ## OP3: The Open Podcast Prefix Project
- - [https://op3.dev](https://op3.dev)
- - date_published: 2024-04-30T00:00:00+00:00
-
- ## openage dev updates
- - [https://blog.openage.dev](https://blog.openage.dev)
- - date_published: 2024-07-15T15:53:40+00:00
-
- ## You're invited to talk on Matrix
- - [https://chat.openage.dev](https://chat.openage.dev)
- - date_published: 2024-07-18T18:00:43.510092+00:00
-
- ## GitHub - SFTtech/openage: Free (as in freedom) open source clone of the Age of Empires II engine 🚀
- - [https://repo.openage.dev](https://repo.openage.dev)
- - date_published: 2024-07-18T18:00:41.913872+00:00
-
- ## OpenFeature
- - [https://openfeature.dev](https://openfeature.dev)
- - date_published: 2024-05-01T04:49:38.992649+00:00
 

@@ -1,3 +1,97 @@
+ ## SSO
+ - [https://sso.tu-darmstadt.de](https://sso.tu-darmstadt.de)
+ - date_published: 2024-06-22T11:54:18.168796+00:00
+
+ ## Sign in - Matomo
+ - [https://statistics.tu-darmstadt.de](https://statistics.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:11.577265+00:00
+
+ ## TUprints - TU Darmstadt publication service
+			-
+			TUprints
+ - [https://tuprints.ulb.tu-darmstadt.de](https://tuprints.ulb.tu-darmstadt.de)
+ - date_published: 2024-04-29T07:20:31.866936+00:00
+
+ ## CROSSING
+ - [http://www.crossing.tu-darmstadt.de](http://www.crossing.tu-darmstadt.de)
+ - date_published: 2024-04-16T00:00:00+00:00
+
+ ## Staff-Mgn.
+ - [https://www.dekanat.informatik.tu-darmstadt.de](https://www.dekanat.informatik.tu-darmstadt.de)
+ - date_published: 2024-06-22T11:54:15.035098+00:00
+
+ ## DVS - Databases and Distributed Systems
+ - [http://www.dvs.tu-darmstadt.de](http://www.dvs.tu-darmstadt.de)
+ - date_published: 2019-10-30T13:45:40+00:00
+
+ ## E-Learning @TU Darmstadt
+ - [https://www.e-learning.tu-darmstadt.de](https://www.e-learning.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:22.944193+00:00
+
+ ## Startseite FiF
+ - [https://www.fif.tu-darmstadt.de](https://www.fif.tu-darmstadt.de)
+ - date_published: 2024-06-22T11:54:17.164385+00:00
+
+ ## Startseite
+ - [https://www.freunde.tu-darmstadt.de](https://www.freunde.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:12.861105+00:00
+
+ ## Graphisch-Interaktive Systeme
+ - [http://www.gris.informatik.tu-darmstadt.de](http://www.gris.informatik.tu-darmstadt.de)
+ - date_published: 2024-06-22T07:29:08.550406+00:00
+
+ ## Gründungen – xchange
+ - [https://www.highest.tu-darmstadt.de](https://www.highest.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:08.986181+00:00
+
+ ## HIGHWAY | Innovation Platform of TU Darmstadt
+ - [https://www.highway.tu-darmstadt.de](https://www.highway.tu-darmstadt.de)
+ - date_published: 2024-07-24T04:23:14.409133+00:00
+
+ ## Home
+ - [https://www.hrz.tu-darmstadt.de](https://www.hrz.tu-darmstadt.de)
+ - date_published: 2024-07-15T00:00:00+00:00
+
+ ## Intelligent Autonomous Systems | Main / Home Page
+ - [https://www.ias.informatik.tu-darmstadt.de](https://www.ias.informatik.tu-darmstadt.de)
+ - date_published: 2024-07-12T08:05:00.543317+00:00
+
+ ## Identity Provider of Technical University of Darmstadt
+ - [https://www.idm.tu-darmstadt.de](https://www.idm.tu-darmstadt.de)
+ - date_published: 2024-07-24T04:22:10.266899+00:00
+
+ ## FB Informatik
+ - [https://www.informatik.tu-darmstadt.de](https://www.informatik.tu-darmstadt.de)
+ - date_published: 2024-05-04T15:43:58.931142+00:00
+
+ ## Infoportal Startseite
+ - [https://www.intern.tu-darmstadt.de](https://www.intern.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:13.976258+00:00
+
+ ## Kommunikationsnetze / Multimedia Kommunikation – TU Darmstadt – Fachgebiete Multimedia Kommunikation / Kommunikationsnetze (KOM)
+ - [https://www.kom.tu-darmstadt.de](https://www.kom.tu-darmstadt.de)
+ - date_published: 2024-07-07T10:45:56.708486+00:00
+
+ ## Sonderforschungsbereich 1053 MAKI – Multi-Mechanismen-Adaption für das künftige Internet
+ - [http://www.maki.tu-darmstadt.de](http://www.maki.tu-darmstadt.de)
+ - date_published: 2024-07-07T10:45:54.449084+00:00
+
+ ## Startseite
+ - [http://wwwopt.mathematik.tu-darmstadt.de](http://wwwopt.mathematik.tu-darmstadt.de)
+ - date_published: 2024-10-16T06:09:38.406389+00:00
+
+ ## Startseite
+ - [https://www.personalrat.tu-darmstadt.de](https://www.personalrat.tu-darmstadt.de)
+ - date_published: 2024-04-29T06:56:18.893471+00:00
+
+ ## Die Vertrauensperson
+ - [https://www.schwbv.tu-darmstadt.de](https://www.schwbv.tu-darmstadt.de)
+ - date_published: 2022-11-14T00:00:00+00:00
+
+ ## Sprachenzentrum
+ - [https://www.spz.tu-darmstadt.de](https://www.spz.tu-darmstadt.de)
+ - date_published: 2024-07-24T04:22:13.197256+00:00
+
  ## Home
  - [https://www.tu-darmstadt.de](https://www.tu-darmstadt.de)
  - date_published: 2023-12-02T05:46:14.228323+00:00
@@ -3909,96 +4003,4 @@ Architektur und Stadtplanung | Universität Stuttgart
  ## Unternehmensregister
  - [https://www.unternehmensregister.de](https://www.unternehmensregister.de)
  - date_published: 2024-08-19T19:20:49.103653+00:00
-
- ## Zentrum für Innovation & Gründung
- - [https://unternehmertum.de](https://unternehmertum.de)
- - date_published: 2024-08-06T18:32:27.787118+00:00
-
- ## Carl von Ossietzky Universität Oldenburg
- - [https://uol.de](https://uol.de)
- - date_published: 2024-05-17T00:00:00+00:00
-
- ## Sign in
- - [https://code.uplex.de](https://code.uplex.de)
- - date_published: 2018-05-24T00:00:00+00:00
-
- ## UPLEX Home - understanding complex systems
- - [https://uplex.de](https://uplex.de)
- - date_published: 2023-03-29T12:56:27+00:00
-
- ## uppr Performance Network
- - [https://netzwerk.uppr.de](https://netzwerk.uppr.de)
- - date_published: 2024-05-06T17:32:06.652655+00:00
-
- ## Upspeak - Dein Mentor im Ohr
- - [https://upspeak.de](https://upspeak.de)
- - date_published: 2024-07-10T11:06:20.790550+00:00
-
- ## DBIS: Fachübersicht
- - [https://dbis.ur.de](https://dbis.ur.de)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Zeitschriftenliste nach Fachgebiet | Elektronische Zeitschriftenbibliothek
- - [https://ezb.ur.de](https://ezb.ur.de)
- - date_published: 2024-07-09T20:13:01.758954+00:00
-
- ## Stream - Urbane Künste Ruhr
- - [https://urbanekuensteruhr.de](https://urbanekuensteruhr.de)
- - date_published: 2024-05-11T07:40:18.441784+00:00
-
- ## Nettes Stadtgarten
- - [https://urban-gardening-blog.de](https://urban-gardening-blog.de)
- - date_published: 2024-07-16T15:12:12+00:00
-
- ## Urbia - Wir lieben Familie
- - [http://www.urbia.de](http://www.urbia.de)
- - date_published: 2024-04-04T00:00:00+00:00
-
- ## Coalition for Action 'Copyright for Education and Research'
- - [https://urheberrechtsbuendnis.de](https://urheberrechtsbuendnis.de)
- - date_published: 2024-05-11T07:48:14.074602+00:00
-
- ## Urkommunismus Home
- - [http://www.urkommunismus.de](http://www.urkommunismus.de)
- - date_published: 2024-10-21T17:31:18.036445+00:00
-
- ## Ur-Krostitzer | Start
- - [https://www.ur-krostitzer.de](https://www.ur-krostitzer.de)
- - date_published: 2024-06-10T08:28:05+00:00
-
- ## Matthias Urlichs
- - [http://matthias.urlichs.de](http://matthias.urlichs.de)
- - date_published: 2015-07-14T02:51:32+00:00
-
- ## Milde - Freeware + Utilities for DOS and Windows
- - [http://www.urmil.de](http://www.urmil.de)
- - date_published: 2015-04-25T13:53:08+00:00
-
- ## Children’s books for all ages | Usborne | Be Curious
- - [https://www.usborne.de](https://www.usborne.de)
- - date_published: 2024-07-24T07:46:18.366325+00:00
-
- ## Universitäts-Sportclub Freiburg i. Brg. e.V.
- - [https://www.uscfr.de](https://www.uscfr.de)
- - date_published: 2024-07-24T06:20:37.743244+00:00
-
- ## Home | uscreen GmbH
- - [https://uscreen.de](https://uscreen.de)
- - date_published: 2024-08-16T09:12:13+00:00
-
- ## usd PCI Platform
- - [https://my-pci.usd.de](https://my-pci.usd.de)
- - date_published: 2024-10-16T03:33:57.425485+00:00
-
- ## Startseite - PCI
- - [https://pci.usd.de](https://pci.usd.de)
- - date_published: 2024-06-04T00:00:00+00:00
-
- ## usd AG
- - [https://usd.de](https://usd.de)
- - date_published: 2024-10-08T00:00:00+00:00
-
- ## USK - Unterhaltungssoftware Selbstkontrolle
- - [https://usk.de](https://usk.de)
- - date_published: 2024-05-27T00:00:00+00:00
 

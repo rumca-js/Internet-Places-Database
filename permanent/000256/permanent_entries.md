@@ -1,3 +1,107 @@
+ ## Full-Time MBA Program | Berkeley Haas
+ - [https://mba.haas.berkeley.edu](https://mba.haas.berkeley.edu)
+ - date_published: 2024-04-30T03:20:27.794210+00:00
+
+ ## Molecular and Cell Biology
+ - [https://mcb.berkeley.edu](https://mcb.berkeley.edu)
+ - date_published: 2024-07-22T07:38:49.850186+00:00
+
+ ## MDCC: Multi-Data Center Consistency
+ - [http://mdcc.cs.berkeley.edu](http://mdcc.cs.berkeley.edu)
+ - date_published: 2014-01-16T07:03:02+00:00
+
+ ## Home - UC Berkeley Mechanical Engineering
+ - [https://me.berkeley.edu](https://me.berkeley.edu)
+ - date_published: 2024-05-12T05:17:06.301509+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://mechatro2.me.berkeley.edu](http://mechatro2.me.berkeley.edu)
+ - date_published: 2024-08-01T19:30:32+00:00
+
+ ## Home - Berkeley M.E.T. | Management, Entrepreneurship, & Technology
+ - [https://met.berkeley.edu](https://met.berkeley.edu)
+ - date_published: 2024-02-01T00:00:00+00:00
+
+ ## Master of Financial Engineering Program | Berkeley Haas
+ - [https://mfe.berkeley.edu](https://mfe.berkeley.edu)
+ - date_published: 2024-04-30T03:25:36.098108+00:00
+
+ ## Master of Financial Engineering Program | Berkeley Haas
+ - [https://mfe.haas.berkeley.edu](https://mfe.haas.berkeley.edu)
+ - date_published: 2024-07-22T07:37:11+00:00
+
+ ## Log In ‹ MICROCOURSE LIBRARY — WordPress
+ - [https://microcourses.berkeley.edu](https://microcourses.berkeley.edu)
+ - date_published: 2024-07-15T05:23:11.495617+00:00
+
+ ## OCF Mirrors
+ - [https://mirrors.ocf.berkeley.edu](https://mirrors.ocf.berkeley.edu)
+ - date_published: 2024-06-14T22:04:51.430829+00:00
+
+ ## Machine Learning at Berkeley
+ - [https://ml.berkeley.edu](https://ml.berkeley.edu)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Materials Science & Engineering
+ - [https://mse.berkeley.edu](https://mse.berkeley.edu)
+ - date_published: 2022-08-30T00:00:00+00:00
+
+ ## Multiverse > Home (Beta Version: 9.11.2.0)
+ - [http://multiverse.ssl.berkeley.edu](http://multiverse.ssl.berkeley.edu)
+ - date_published: 2024-07-14T04:05:02.986638+00:00
+
+ ## Welcome to the UC Berkeley Museums!
+ - [https://museums.berkeley.edu](https://museums.berkeley.edu)
+ - date_published: 2019-10-11T23:23:12+00:00
+
+ ## Home | Music
+ - [http://music.berkeley.edu](http://music.berkeley.edu)
+ - date_published: 2024-07-02T05:41:14+00:00
+
+ ## Home | Berkeley Alumni Portal
+ - [https://my.berkeley.edu](https://my.berkeley.edu)
+ - date_published: 2024-07-13T13:04:30.151339+00:00
+
+ ## Home | CalNet Account Manager
+ - [https://mycalnet.berkeley.edu](https://mycalnet.berkeley.edu)
+ - date_published: 2024-07-22T07:37:57.677164+00:00
+
+ ## Home
+ - [http://myshake.berkeley.edu](http://myshake.berkeley.edu)
+ - date_published: 2024-05-31T22:23:38+00:00
+
+ ## UC Berkeley Rausser College of Natural Resources
+ - [https://nature.berkeley.edu](https://nature.berkeley.edu)
+ - date_published: 2023-11-07T06:24:12.895605+00:00
+
+ ## Want to do Neuroscience Research for your PhD at UC Berkeley? | Neurograd @ Berkeley
+ - [https://neurograd.berkeley.edu](https://neurograd.berkeley.edu)
+ - date_published: 2024-08-19T19:56:37+00:00
+
+ ## Home | Berkeley Neuroscience
+ - [https://neuroscience.berkeley.edu](https://neuroscience.berkeley.edu)
+ - date_published: 2024-07-22T06:50:54+00:00
+
+ ## Berkeley News | Berkeley
+ - [https://news.berkeley.edu](https://news.berkeley.edu)
+ - date_published: 2023-10-25T18:47:36.594729+00:00
+
+ ## Berkeley News
+ - [http://newscenter.berkeley.edu](http://newscenter.berkeley.edu)
+ - date_published: 2024-07-13T00:00:00+00:00
+
+ ## Newsroom | Haas News | Berkeley Haas
+ - [https://newsroom.haas.berkeley.edu](https://newsroom.haas.berkeley.edu)
+ - date_published: 2023-10-25T18:47:42.073714+00:00
+
+ ## The Berkeley NLP Group
+ - [http://nlp.cs.berkeley.edu](http://nlp.cs.berkeley.edu)
+ - date_published: 2024-07-22T11:02:35.796638+00:00
+
+ ## Open Computing Facility at UC Berkeley
+ - [https://ocf.berkeley.edu](https://ocf.berkeley.edu)
+ - date_published: 2024-08-07T17:30:02.252880+00:00
+
  ## Home | Office for Faculty Equity & Welfare
  - [https://ofew.berkeley.edu](https://ofew.berkeley.edu)
  - date_published: 2024-06-30T08:46:29+00:00
@@ -3915,108 +4019,4 @@ Home
  ## CMU 15-445 :: Intro to Database Systems (Spring 2024)
  - [https://15445.courses.cs.cmu.edu](https://15445.courses.cs.cmu.edu)
  - date_published: 2024-06-05T19:41:05+00:00
-
- ## CMU 15-721 :: Advanced Database Systems (Spring 2024)
- - [https://15721.courses.cs.cmu.edu](https://15721.courses.cs.cmu.edu)
- - date_published: 2024-04-29T07:32:37.241622+00:00
-
- ## CMU CS Academy
- - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
- - date_published: 2023-10-25T18:49:39.691260+00:00
-
- ## Artificial Intelligence - AI at CMU - Carnegie Mellon University
- - [https://ai.cmu.edu](https://ai.cmu.edu)
- - date_published: 2024-04-30T03:46:14.676168+00:00
-
- ## www.andrew.cmu.edu
- - [https://andrew.cmu.edu](https://andrew.cmu.edu)
- - date_published: 2024-07-14T19:31:14.130050+00:00
-
- ## Web Login Service - Loading Session Information
- - [https://andy.qatar.cmu.edu](https://andy.qatar.cmu.edu)
- - date_published: 2024-08-08T22:48:34.380877+00:00
-
- ## Heinz College Admissions
- - [https://apply.heinz.cmu.edu](https://apply.heinz.cmu.edu)
- - date_published: 2024-07-07T06:13:40.429515+00:00
-
- ## Carnegie Mellon University Athletics
- - [https://athletics.cmu.edu](https://athletics.cmu.edu)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## Biorobotics Lab
- - [http://biorobotics.ri.cmu.edu](http://biorobotics.ri.cmu.edu)
- - date_published: 2024-06-22T10:06:38.045556+00:00
-
- ## Machine Learning Blog | ML@CMU | Carnegie Mellon University
- - [https://blog.ml.cmu.edu](https://blog.ml.cmu.edu)
- - date_published: 2024-05-10T05:01:07.004408+00:00
-
- ## Coding Bootcamp by CMU TechBridge
- - [http://bootcamps.cs.cmu.edu](http://bootcamps.cs.cmu.edu)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## SCS Building Facilities - SCS Building Facilities - Carnegie Mellon University
- - [https://building.cs.cmu.edu](https://building.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:33.275954+00:00
-
- ## Ray and Stephanie Lane Computational Biology Department | Carnegie Mellon University - Ray and Stephanie Lane Computational Biology Department - School of Computer Science - Carnegie Mellon University
- - [https://cbd.cmu.edu](https://cbd.cmu.edu)
- - date_published: 2024-04-30T03:46:41.592511+00:00
-
- ## CMU Computer Club
- - [https://club.cc.cmu.edu](https://club.cc.cmu.edu)
- - date_published: 2024-07-20T10:31:37.582417+00:00
-
- ## Index of /
- - [http://cms-staging.andrew.cmu.edu](http://cms-staging.andrew.cmu.edu)
- - date_published: 2024-08-07T16:54:12.615800+00:00
-
- ## Homepage - CMU - Carnegie Mellon University
- - [https://cmu.edu](https://cmu.edu)
- - date_published: 2024-05-04T09:00:42.781219+00:00
-
- ## Homepage - SCS Computing Facilities - Carnegie Mellon University
- - [https://computing.cs.cmu.edu](https://computing.cs.cmu.edu)
- - date_published: 2024-04-30T03:46:26.139220+00:00
-
- ## 2023-2024 Undergraduate Catalog < Carnegie Mellon University
- - [http://coursecatalog.web.cmu.edu](http://coursecatalog.web.cmu.edu)
- - date_published: 2024-01-19T17:30:19+00:00
-
- ## ECE:Course Page - Electrical and Computer Engineering - College of Engineering - Carnegie Mellon University
- - [https://courses.ece.cmu.edu](https://courses.ece.cmu.edu)
- - date_published: 2024-04-30T03:46:01.006585+00:00
-
- ## Course Sites - IDeATe - Carnegie Mellon University
- - [https://courses.ideate.cmu.edu](https://courses.ideate.cmu.edu)
- - date_published: 2024-07-17T16:15:17+00:00
-
- ## CMU School of Computer Science
- - [https://cs.cmu.edu](https://cs.cmu.edu)
- - date_published: 2024-04-30T03:46:19.667457+00:00
-
- ## Home | Carnegie Mellon University Computer Science Department
- - [https://csd.cmu.edu](https://csd.cmu.edu)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## CyLab Security & Privacy Institute
- - [https://cylab.cmu.edu](https://cylab.cmu.edu)
- - date_published: 2024-05-08T11:29:30.282164+00:00
-
- ## Carnegie Mellon Database Group
- - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
- - date_published: 2023-10-25T18:49:41.742513+00:00
-
- ## Home | CMU School of Design
- - [https://design.cmu.edu](https://design.cmu.edu)
- - date_published: 2024-07-12T14:36:10+00:00
-
- ## CMU Data Interaction Group
- - [https://dig.cmu.edu](https://dig.cmu.edu)
- - date_published: 2024-07-02T02:47:22+00:00
-
- ## Digital Collections
- - [https://digitalcollections.library.cmu.edu](https://digitalcollections.library.cmu.edu)
- - date_published: 2024-07-22T06:12:24.937785+00:00
 

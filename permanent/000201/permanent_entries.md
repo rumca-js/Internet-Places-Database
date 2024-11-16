@@ -1,3 +1,87 @@
+ ## TechnoVIJ Blog
+ - [https://technovij.com](https://technovij.com)
+ - date_published: 2024-07-14T10:17:16.688907+00:00
+
+ ## Technology Magazine - Technology News, Tech Magazine, Gadget Reviews | Technowize
+ - [https://www.technowize.com](https://www.technowize.com)
+ - date_published: 2024-09-04T19:51:46.129821+00:00
+
+ ## Tech Omaha | Event calendar for Omaha Meetups, User Groups, conferences, and techy get togethers
+ - [http://techomaha.com](http://techomaha.com)
+ - date_published: 2024-07-01T08:30:17.127055+00:00
+
+ ## TechOnline - Electronics Papers, Webinars and Resources
+ - [https://www.techonline.com](https://www.techonline.com)
+ - date_published: 2024-04-23T00:00:00+00:00
+
+ ## Techopedia - The #1 Source for IT, Tech & Crypto Knowledge
+ - [https://techopedia.com](https://techopedia.com)
+ - date_published: 2024-03-11T00:00:00+00:00
+
+ ## TechOptics - Home
+ - [https://www.techoptics.com](https://www.techoptics.com)
+ - date_published: 2024-04-12T00:00:00+00:00
+
+ ## Tech Photo Guy Aaron Hockley
+ - [https://techphotoguy.com](https://techphotoguy.com)
+ - date_published: 2024-01-15T02:46:02.380834+00:00
+
+ ## TechPowerUp
+ - [https://techpowerup.com](https://techpowerup.com)
+ - date_published: 2023-10-25T17:25:26.426085+00:00
+
+ ## Tech Presenters - Easy Tips for Media, Technology and Presentations
+ - [https://techpresenters.com](https://techpresenters.com)
+ - date_published: 2024-10-25T17:56:42+00:00
+
+ ## Empower Your Financial Journey With Networth
+ - [http://techpresident.com](http://techpresident.com)
+ - date_published: 2024-03-26T00:00:00+00:00
+
+ ## TechRadar | the technology experts
+ - [https://global.techradar.com](https://global.techradar.com)
+ - date_published: 2024-06-16T09:01:15+00:00
+
+ ## TechRadar | the technology experts
+ - [https://techradar.com](https://techradar.com)
+ - date_published: 2024-05-15T02:59:55.173323+00:00
+
+ ## TechRadar TV
+ - [https://videos.techradar.com](https://videos.techradar.com)
+ - date_published: 2024-07-19T02:25:51.468686+00:00
+
+ ## Ethical Hacking Tutorials | Tech Raj Blog
+ - [https://www.blog.techraj156.com](https://www.blog.techraj156.com)
+ - date_published: 2024-10-30T13:46:33.063816+00:00
+
+ ## Home
+ - [https://techreport.com](https://techreport.com)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## TechRepublic Academy
+ - [https://academy.techrepublic.com](https://academy.techrepublic.com)
+ - date_published: 2024-09-09T22:05:39.074530+00:00
+
+ ## TechRepublic: News, Tips & Advice for Technology Professionals
+ - [https://techrepublic.com](https://techrepublic.com)
+ - date_published: 2023-10-25T09:36:05.591340+00:00
+
+ ## MIT Technology Review
+ - [http://www.techreview.com](http://www.techreview.com)
+ - date_published: 2024-06-20T04:08:10.685197+00:00
+
+ ## HRTech Series: Top HR Technology News, Insights & Analysis
+ - [https://techrseries.com](https://techrseries.com)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Open Access Journals,peer reviewed articles,scholarly articles,research articles,academic journals
+ - [https://www.techscience.com](https://www.techscience.com)
+ - date_published: 2024-07-02T00:00:00+00:00
+
+ ## Techscriptor
+ - [https://www.techscriptor.com](https://www.techscriptor.com)
+ - date_published: 2024-09-04T16:43:54.924924+00:00
+
  ## TechSee - Life Simplified | TechSee
  - [https://techsee.com](https://techsee.com)
  - date_published: 2024-10-28T17:01:38.239757+00:00
@@ -3953,89 +4037,4 @@
  ## Welcome to TextExpander.com
  - [https://textexpander.com](https://textexpander.com)
  - date_published: 2024-05-03T00:00:00+00:00
-
- ## HyperComply
- - [https://trust.textexpander.com](https://trust.textexpander.com)
- - date_published: 2024-06-20T21:09:21+00:00
-
- ## T E X T F I L E S
- - [http://artscene.textfiles.com](http://artscene.textfiles.com)
- - date_published: 1982-01-01T00:00:00+00:00
-
- ## ASCII by Jason Scott
- - [https://ascii.textfiles.com](https://ascii.textfiles.com)
- - date_published: 2024-01-09T02:50:36.905624+00:00
- - tags: ['personal']
-
- ## AUDIO.TEXTFILES.COM
- - [http://audio.textfiles.com](http://audio.textfiles.com)
- - date_published: 2006-03-10T11:12:02+00:00
-
- ## The TEXTFILES.COM BBS List
- - [http://bbslist.textfiles.com](http://bbslist.textfiles.com)
- - date_published: 2020-11-17T02:38:02+00:00
-
- ## CD.TEXTFILES.COM: The Past on Plastic
- - [http://cd.textfiles.com](http://cd.textfiles.com)
- - date_published: 2011-01-21T23:02:37+00:00
-
- ## DIGEST.TEXTFILES.COM
- - [http://digest.textfiles.com](http://digest.textfiles.com)
- - date_published: 2001-09-29T02:00:06+00:00
-
- ## DiscMaster
- - [https://discmaster.textfiles.com](https://discmaster.textfiles.com)
- - date_published: 2024-05-21T03:03:08.780518+00:00
-
- ## tracker.modarchive.org
- - [http://modarchive.textfiles.com](http://modarchive.textfiles.com)
- - date_published: 2024-02-20T19:43:04+00:00
-
- ## PDF.TEXTFILES.COM
- - [http://pdf.textfiles.com](http://pdf.textfiles.com)
- - date_published: 2012-04-28T06:40:48+00:00
-
- ## T E X T F I L E S D O T C O M
- - [http://textfiles.com](http://textfiles.com)
- - date_published: 2023-10-25T17:27:38.063116+00:00
-
- ## The TEXTFILES.COM BBS Timeline
- - [http://timeline.textfiles.com](http://timeline.textfiles.com)
- - date_published: 2021-12-06T08:05:28+00:00
-
- ## 0- Introduction - Text Generator Plugin
- - [https://docs.text-gen.com](https://docs.text-gen.com)
- - date_published: 2024-10-30T11:30:07.718220+00:00
-
- ## TextGen
- - [https://text-gen.com](https://text-gen.com)
- - date_published: 2024-06-19T19:25:28.010048+00:00
-
- ## Startseite Neu - Bündnis für nachhaltige Textilien
- - [https://www.textilbuendnis.com](https://www.textilbuendnis.com)
- - date_published: 2024-08-09T00:00:00+00:00
-
- ## Textile Markup Language Documentation
- - [https://textile-lang.com](https://textile-lang.com)
- - date_published: 2013-01-01T00:21:35+00:00
-
- ## TEXT-IMAGE.com
- - [http://www.text-image.com](http://www.text-image.com)
- - date_published: 2022-02-04T00:00:00+00:00
-
- ## Textio - Do less. Be better.
- - [http://textio.com](http://textio.com)
- - date_published: 2024-09-13T23:50:24+00:00
-
- ## Textism: Tools: Textile
- - [http://textism.com](http://textism.com)
- - date_published: 2024-10-31T04:14:07.636029+00:00
-
- ## Textlastig – Text-Adventure Podcast
- - [https://textlastig.com](https://textlastig.com)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Textmagic
- - [https://my.textmagic.com](https://my.textmagic.com)
- - date_published: 2024-07-09T15:09:42+00:00
 

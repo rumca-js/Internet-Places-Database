@@ -1,3 +1,107 @@
+ ## Home - Gibson Online
+ - [https://gibson.tulane.edu](https://gibson.tulane.edu)
+ - date_published: 2024-05-13T00:00:00+00:00
+
+ ## Home Page
+ - [https://giving.tulane.edu](https://giving.tulane.edu)
+ - date_published: 2024-05-07T20:39:38.576831+00:00
+
+ ## Tulane Office of Human Resources & Institutional Equity | Tulane University HR
+ - [https://hr.tulane.edu](https://hr.tulane.edu)
+ - date_published: 2024-05-07T20:39:35.202685+00:00
+
+ ## Walter Isaacson Tulane |
+ - [https://isaacson.tulane.edu](https://isaacson.tulane.edu)
+ - date_published: 2024-09-14T23:02:42.008113+00:00
+
+ ## Tulane Staff Positions
+ - [https://jobs.tulane.edu](https://jobs.tulane.edu)
+ - date_published: 2024-07-01T21:48:10.771076+00:00
+
+ ## School of Liberal Arts at Tulane University
+ - [https://liberalarts.tulane.edu](https://liberalarts.tulane.edu)
+ - date_published: 2024-05-01T03:32:44.827662+00:00
+
+ ## Home | TU Libraries
+ - [http://library.tulane.edu](http://library.tulane.edu)
+ - date_published: 2024-06-28T19:25:41+00:00
+
+ ## Tulane News
+ - [https://news.tulane.edu](https://news.tulane.edu)
+ - date_published: 2023-10-25T18:59:42.065237+00:00
+
+ ## Office of Assessment and Institutional Research | Office of Assessment and Institutional Research
+ - [https://oair.tulane.edu](https://oair.tulane.edu)
+ - date_published: 2024-07-30T20:49:44+00:00
+
+ ## Office of Graduate and Postdoctoral Studies | Office Graduate and Postdoctoral Studies
+ - [https://ogps.tulane.edu](https://ogps.tulane.edu)
+ - date_published: 2024-09-10T15:22:02+00:00
+
+ ## home | President
+ - [https://president.tulane.edu](https://president.tulane.edu)
+ - date_published: 2024-07-01T15:05:09+00:00
+
+ ## Office of the Provost | Tulane University Provost
+ - [https://provost.tulane.edu](https://provost.tulane.edu)
+ - date_published: 2024-07-01T17:38:14+00:00
+
+ ## Homepage | Tulane University - Office of the University Registrar
+ - [https://registrar.tulane.edu](https://registrar.tulane.edu)
+ - date_published: 2024-07-01T18:49:55+00:00
+
+ ## Paving the Way for Research | Tulane Office of Research
+ - [https://research.tulane.edu](https://research.tulane.edu)
+ - date_published: 2024-06-28T14:54:20+00:00
+
+ ## Office of Enterprise Risk Services | Office of Enterprise Risk Services
+ - [https://risk.tulane.edu](https://risk.tulane.edu)
+ - date_published: 2024-06-25T17:56:22+00:00
+
+ ## IIS7
+ - [https://sars.tulane.edu](https://sars.tulane.edu)
+ - date_published: 2013-06-26T16:55:52+00:00
+
+ ## E-Business Suite Home Page Redirect
+ - [https://selfservice.tulane.edu](https://selfservice.tulane.edu)
+ - date_published: 2024-04-06T16:02:49+00:00
+
+ ## Home | Student Affairs
+ - [https://studentaffairs.tulane.edu](https://studentaffairs.tulane.edu)
+ - date_published: 2024-07-01T17:25:13+00:00
+
+ ## Summer School | Summer at Tulane
+ - [http://summerschool.tulane.edu](http://summerschool.tulane.edu)
+ - date_published: 2024-07-01T21:40:37.118332+00:00
+
+ ## Tulane Pre-College Programs | Homepage
+ - [https://summer.tulane.edu](https://summer.tulane.edu)
+ - date_published: 2024-06-22T13:24:04+00:00
+
+ ## Tulane Undergraduate Assembly | Tulane University
+ - [https://tua.tulane.edu](https://tua.tulane.edu)
+ - date_published: 2024-07-01T21:47:10.092535+00:00
+
+ ## Home | Tulane University
+ - [https://tulane.edu](https://tulane.edu)
+ - date_published: 2024-05-07T20:39:13.280356+00:00
+
+ ## Spring 2024 | Tulanian
+ - [https://tulanian.tulane.edu](https://tulanian.tulane.edu)
+ - date_published: 2024-05-07T20:39:20.335508+00:00
+
+ ## Tulane University Leadership Institute | Tulane University Leadership Institute
+ - [https://tuli.tulane.edu](https://tuli.tulane.edu)
+ - date_published: 2024-07-01T21:48:19.372644+00:00
+
+ ## Tulane Mathematics Department
+ - [http://www.math.tulane.edu](http://www.math.tulane.edu)
+ - date_published: 2019-09-26T19:18:01+00:00
+
+ ## Home | Tulane University
+ - [http://www.museum.tulane.edu](http://www.museum.tulane.edu)
+ - date_published: 2024-06-23T10:35:31+00:00
+
  ## Shibboleth Authentication Request
  - [https://eaccess.tum.edu](https://eaccess.tum.edu)
  - date_published: 2024-07-24T04:20:54.072651+00:00
@@ -3920,108 +4024,4 @@
  ## UCLA Design Media Arts
  - [http://dma.ucla.edu](http://dma.ucla.edu)
  - date_published: 2024-06-19T15:49:49.566945+00:00
-
- ## Samueli Electrical and Computer Engineering
- - [https://ee.ucla.edu](https://ee.ucla.edu)
- - date_published: 2024-04-18T00:00:00+00:00
-
- ## Home | Bruins Safe Online
- - [https://emergency.ucla.edu](https://emergency.ucla.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## UCLA Equity, Diversity & Inclusion
- - [https://equity.ucla.edu](https://equity.ucla.edu)
- - date_published: 2024-07-01T22:56:25.480533+00:00
-
- ## Welcome to Emeriti/Retirees Relations Center | Emeriti/Retirees Relations Center
- - [https://errc.ucla.edu](https://errc.ucla.edu)
- - date_published: 2024-06-26T17:08:49+00:00
-
- ## ETC – UCLA Experiential Technologies Center
- - [http://etc.ucla.edu](http://etc.ucla.edu)
- - date_published: 2024-07-09T18:44:52.457849+00:00
-
- ## Home | Events Office
- - [https://events.ucla.edu](https://events.ucla.edu)
- - date_published: 2024-07-01T22:55:02+00:00
-
- ## UCLA External Affairs
- - [https://externalaffairs.ucla.edu](https://externalaffairs.ucla.edu)
- - date_published: 2024-07-01T23:04:45.616948+00:00
-
- ## Index of /
- - [http://ficus-www.cs.ucla.edu](http://ficus-www.cs.ucla.edu)
- - date_published: 2024-06-20T17:26:28.223717+00:00
-
- ## Welcome First-Gen Bruins! | First to Go
- - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
- - date_published: 2024-06-29T06:13:31+00:00
-
- ## Home | Fowler Museum at UCLA
- - [https://fowler.ucla.edu](https://fowler.ucla.edu)
- - date_published: 2021-04-29T17:08:56+00:00
-
- ## Index of /
- - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
- - date_published: 2024-03-23T00:00:00+00:00
-
- ## UCLA is responding to COVID-19
- - [https://giveto.ucla.edu](https://giveto.ucla.edu)
- - date_published: 2024-05-07T20:54:59.420873+00:00
-
- ## Giving to UCLA
- - [https://giving.ucla.edu](https://giving.ucla.edu)
- - date_published: 2024-05-07T20:55:32.392874+00:00
-
- ## Global Public Affairs
- - [https://global.luskin.ucla.edu](https://global.luskin.ucla.edu)
- - date_published: 2023-11-20T00:00:00+00:00
-
- ## GO ARTS UCLA
- - [https://goarts.ucla.edu](https://goarts.ucla.edu)
- - date_published: 2024-07-01T22:55:58.050491+00:00
-
- ## Home | The Berggruen Governance Index
- - [https://governance.luskin.ucla.edu](https://governance.luskin.ucla.edu)
- - date_published: 2024-07-01T23:06:51.812703+00:00
-
- ## UCLA Graduate Programs
- - [https://grad.ucla.edu](https://grad.ucla.edu)
- - date_published: 2024-07-01T00:00:00+00:00
-
- ## Research Guides
- - [https://guides.library.ucla.edu](https://guides.library.ucla.edu)
- - date_published: 2024-10-29T09:13:38.278952+00:00
-
- ## Hammer Museum | Hammer Museum
- - [https://hammer.ucla.edu](https://hammer.ucla.edu)
- - date_published: 2024-06-20T16:00:06+00:00
-
- ## HAPI
- - [https://hapi.ucla.edu](https://hapi.ucla.edu)
- - date_published: 2024-09-12T12:53:29.839912+00:00
-
- ## Calendars
- - [https://happenings.ucla.edu](https://happenings.ucla.edu)
- - date_published: 2024-05-07T20:54:34.739703+00:00
-
- ## UCLA HARRT
- - [https://harrt.ucla.edu](https://harrt.ucla.edu)
- - date_published: 2024-07-01T23:06:21.096132+00:00
-
- ## Homepage of the UCLA Center for Health Policy Research
- - [https://healthpolicy.ucla.edu](https://healthpolicy.ucla.edu)
- - date_published: 2024-07-17T10:52:41+00:00
-
- ## Communities hold the power to shape their health and well-being | UCLA HHIPP
- - [http://hhipp.sites.luskin.ucla.edu](http://hhipp.sites.luskin.ucla.edu)
- - date_published: 2024-07-01T23:07:06.775582+00:00
-
- ## Housing & Hospitality
- - [https://housingandhospitality.ucla.edu](https://housingandhospitality.ucla.edu)
- - date_published: 2024-06-30T08:08:49.643178+00:00
-
- ## Home – UCLA Housing | Housing
- - [https://housing.ucla.edu](https://housing.ucla.edu)
- - date_published: 2024-07-01T22:38:01+00:00
 

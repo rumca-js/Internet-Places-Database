@@ -1,4 +1,108 @@
  ## Commitment to Privacy
+ - [https://lil.vcu.edu](https://lil.vcu.edu)
+ - date_published: 2024-07-02T12:43:38.642666+00:00
+
+ ## Commitment to Privacy
+ - [https://livingwell.partnership.vcu.edu](https://livingwell.partnership.vcu.edu)
+ - date_published: 2024-07-02T12:58:02.313445+00:00
+
+ ## Commitment to Privacy
+ - [https://lmri.lab.vcu.edu](https://lmri.lab.vcu.edu)
+ - date_published: 2024-07-02T12:45:55.517405+00:00
+
+ ## Commitment to Privacy
+ - [https://lsee.vcu.edu](https://lsee.vcu.edu)
+ - date_published: 2024-07-02T12:47:39.206728+00:00
+
+ ## Commitment to Privacy
+ - [https://ltccn.vcu.edu](https://ltccn.vcu.edu)
+ - date_published: 2024-07-02T12:57:11.438509+00:00
+
+ ## Commitment to Privacy
+ - [https://m2m.vcu.edu](https://m2m.vcu.edu)
+ - date_published: 2024-07-02T12:48:24.364179+00:00
+
+ ## Commitment to Privacy
+ - [http://magazine.pharmacy.vcu.edu](http://magazine.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:42:17.319987+00:00
+
+ ## Commitment to Privacy
+ - [https://magazine.vcu.edu](https://magazine.vcu.edu)
+ - date_published: 2024-07-02T12:49:38.677353+00:00
+
+ ## Home — Major Maps — Student Success
+ - [https://majormaps.vcu.edu](https://majormaps.vcu.edu)
+ - date_published: 2024-07-02T12:48:56.853084+00:00
+
+ ## Commitment to Privacy
+ - [https://makingpatientsafetyreal.vcu.edu](https://makingpatientsafetyreal.vcu.edu)
+ - date_published: 2024-07-02T12:44:19.619188+00:00
+
+ ## Commitment to Privacy
+ - [https://maps.vcu.edu](https://maps.vcu.edu)
+ - date_published: 2024-05-07T22:22:29.034319+00:00
+
+ ## Commitment to Privacy
+ - [https://marcom.vcu.edu](https://marcom.vcu.edu)
+ - date_published: 2024-06-16T06:31:18.190414+00:00
+
+ ## Commitment to Privacy
+ - [https://masterplan.vcu.edu](https://masterplan.vcu.edu)
+ - date_published: 2024-07-02T12:50:11.725492+00:00
+
+ ## Commitment to Privacy
+ - [https://math.vcu.edu](https://math.vcu.edu)
+ - date_published: 2024-07-02T12:45:50.077476+00:00
+
+ ## Commitment to Privacy
+ - [https://matr.vcu.edu](https://matr.vcu.edu)
+ - date_published: 2024-07-02T12:47:56.010977+00:00
+
+ ## Commitment to Privacy
+ - [https://matx.vcu.edu](https://matx.vcu.edu)
+ - date_published: 2024-07-02T12:44:42.954133+00:00
+
+ ## Commitment to Privacy
+ - [https://mbg.vcu.edu](https://mbg.vcu.edu)
+ - date_published: 2024-07-02T12:59:03.812098+00:00
+
+ ## Commitment to Privacy
+ - [https://medicines4all.vcu.edu](https://medicines4all.vcu.edu)
+ - date_published: 2024-07-02T12:50:43.148302+00:00
+
+ ## Commitment to Privacy
+ - [https://med-lit.vcu.edu](https://med-lit.vcu.edu)
+ - date_published: 2024-07-02T12:45:45.111380+00:00
+
+ ## Commitment to Privacy
+ - [https://medpeds.vcu.edu](https://medpeds.vcu.edu)
+ - date_published: 2024-07-02T12:57:31.672285+00:00
+
+ ## Commitment to Privacy
+ - [https://medschool.vcu.edu](https://medschool.vcu.edu)
+ - date_published: 2024-07-02T12:51:09.898866+00:00
+
+ ## Commitment to Privacy
+ - [https://medsim.som.vcu.edu](https://medsim.som.vcu.edu)
+ - date_published: 2024-07-02T12:58:31.744409+00:00
+
+ ## Commitment to Privacy
+ - [https://medtox.vcu.edu](https://medtox.vcu.edu)
+ - date_published: 2024-07-02T12:44:09.676511+00:00
+
+ ## Commitment to Privacy
+ - [https://merc.soe.vcu.edu](https://merc.soe.vcu.edu)
+ - date_published: 2024-07-02T12:57:29.169811+00:00
+
+ ## Commitment to Privacy
+ - [https://metabolomics.pharmacy.vcu.edu](https://metabolomics.pharmacy.vcu.edu)
+ - date_published: 2024-07-02T12:49:35.885737+00:00
+
+ ## Commitment to Privacy
+ - [https://metrics.vcu.edu](https://metrics.vcu.edu)
+ - date_published: 2024-07-02T12:47:33.411927+00:00
+
+ ## Commitment to Privacy
  - [https://microbiology.vcu.edu](https://microbiology.vcu.edu)
  - date_published: 2024-07-02T12:42:15.118090+00:00
 
@@ -3898,108 +4002,4 @@
  ## Faculty Senate |  Washington State University
  - [https://facsen.wsu.edu](https://facsen.wsu.edu)
  - date_published: 2024-07-02T14:58:26+00:00
-
- ## Home | Student Financial Services | Washington State University
- - [https://financialaid.wsu.edu](https://financialaid.wsu.edu)
- - date_published: 2024-07-02T14:53:21+00:00
-
- ## Home
- - [https://foundation.wsu.edu](https://foundation.wsu.edu)
- - date_published: 2024-05-07T22:38:02.638442+00:00
-
- ## Home
- - [https://futurecoug.wsu.edu](https://futurecoug.wsu.edu)
- - date_published: 2024-07-02T14:03:18+00:00
-
- ## WSU Global Campus Home
- - [http://globalcampus.wsu.edu](http://globalcampus.wsu.edu)
- - date_published: 2024-07-02T14:49:35+00:00
-
- ## Graduate School
- - [https://gradschool.wsu.edu](https://gradschool.wsu.edu)
- - date_published: 2024-07-02T14:51:51+00:00
-
- ## Human Development - WSU Vancouver
- - [https://hd.vancouver.wsu.edu](https://hd.vancouver.wsu.edu)
- - date_published: 2024-06-07T18:11:40+00:00
-
- ## Home
- - [https://housing.wsu.edu](https://housing.wsu.edu)
- - date_published: 2024-07-02T14:58:37.442065+00:00
-
- ## Human Resource Services, Washington State University
- - [https://hrs.wsu.edu](https://hrs.wsu.edu)
- - date_published: 2024-07-02T14:58:15.548763+00:00
-
- ## Institutional Animal Care and Use Committee |  Washington State University
- - [https://iacuc.wsu.edu](https://iacuc.wsu.edu)
- - date_published: 2024-07-02T14:58:12.899121+00:00
-
- ## WSU A-Z Index |  Washington State University
- - [https://index.wsu.edu](https://index.wsu.edu)
- - date_published: 2024-07-02T14:24:40+00:00
-
- ## WSU International
- - [https://ip.wsu.edu](https://ip.wsu.edu)
- - date_published: 2024-07-02T14:15:29+00:00
-
- ## Institutional Research | Washington State University
- - [https://ir.wsu.edu](https://ir.wsu.edu)
- - date_published: 2024-05-07T22:38:21.785687+00:00
-
- ## Loading...
- - [https://jira.esg.wsu.edu](https://jira.esg.wsu.edu)
- - date_published: 2024-07-02T15:00:48.196286+00:00
-
- ## WSU Libraries
- - [https://libraries.wsu.edu](https://libraries.wsu.edu)
- - date_published: 2024-07-02T14:59:52.979870+00:00
-
- ## Library - Home - WSU Vancouver
- - [https://library.vancouver.wsu.edu](https://library.vancouver.wsu.edu)
- - date_published: 2024-07-02T14:59:13.260142+00:00
-
- ## Academic Outreach and Innovation | Learning Innovations |  Washington State University
- - [https://li.wsu.edu](https://li.wsu.edu)
- - date_published: 2024-07-02T14:58:24.753013+00:00
-
- ## WSU Maps | Washington State University
- - [https://maps.wsu.edu](https://maps.wsu.edu)
- - date_published: 2024-07-02T14:58:14+00:00
-
- ## Elson S. Floyd College of Medicine - WSU Vancouver
- - [https://medicine.vancouver.wsu.edu](https://medicine.vancouver.wsu.edu)
- - date_published: 2024-06-07T17:19:46+00:00
-
- ## Home Page
- - [https://medicine.wsu.edu](https://medicine.wsu.edu)
- - date_published: 2024-04-29T05:46:56.281387+00:00
-
- ## The Edward R. Murrow College of Communication - WSU Vancouver
- - [https://murrow.vancouver.wsu.edu](https://murrow.vancouver.wsu.edu)
- - date_published: 2024-06-07T18:13:50+00:00
-
- ## WSU Authentication | Washington State University
- - [https://my.wsu.edu](https://my.wsu.edu)
- - date_published: 2024-07-02T14:51:31.617066+00:00
-
- ## WSU Authentication | Washington State University
- - [https://mywsu.wsu.edu](https://mywsu.wsu.edu)
- - date_published: 2024-07-02T14:50:38.167871+00:00
-
- ## WSU Insider
- - [https://news.wsu.edu](https://news.wsu.edu)
- - date_published: 2023-12-15T11:10:21.420611+00:00
-
- ## College of Nursing - WSU Vancouver
- - [https://nursing.vancouver.wsu.edu](https://nursing.vancouver.wsu.edu)
- - date_published: 2024-06-07T17:07:16+00:00
-
- ## Compliance and Civil Rights |  Washington State University
- - [https://oeo.wsu.edu](https://oeo.wsu.edu)
- - date_published: 2024-07-02T14:40:03+00:00
-
- ## WSU Global Campus Home
- - [https://online.wsu.edu](https://online.wsu.edu)
- - date_published: 2024-07-02T14:49:35+00:00
 

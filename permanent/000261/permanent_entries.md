@@ -1,3 +1,107 @@
+ ## Outlook
+ - [https://mail.ku.edu](https://mail.ku.edu)
+ - date_published: 2024-07-01T12:24:48.096346+00:00
+
+ ## Homepage
+ - [https://music.ku.edu](https://music.ku.edu)
+ - date_published: 2024-07-15T06:07:00.317920+00:00
+
+ ## MyIdentity Services | Information Technology
+ - [https://myidentity.ku.edu](https://myidentity.ku.edu)
+ - date_published: 2024-07-01T12:35:05.013454+00:00
+
+ ## myKU Welcome | myKU Portal
+ - [https://my.ku.edu](https://my.ku.edu)
+ - date_published: 2024-05-07T19:20:22.923772+00:00
+
+ ## New2KU
+ - [https://new2.ku.edu](https://new2.ku.edu)
+ - date_published: 2024-07-01T12:35:02.950648+00:00
+
+ ## Homepage
+ - [https://newhires.ku.edu](https://newhires.ku.edu)
+ - date_published: 2024-07-01T12:35:35.922720+00:00
+
+ ## Featured news and headlines | KU News
+ - [https://news.ku.edu](https://news.ku.edu)
+ - date_published: 2024-02-24T10:01:56.501520+00:00
+
+ ## Home
+ - [https://online.ku.edu](https://online.ku.edu)
+ - date_published: 2024-07-01T12:40:58.165378+00:00
+
+ ## Open Access
+ - [http://openaccess.ku.edu](http://openaccess.ku.edu)
+ - date_published: 2024-07-01T12:24:44.306930+00:00
+
+ ## | The University of Kansas
+ - [https://opsmaps.ku.edu](https://opsmaps.ku.edu)
+ - date_published: 2022-04-07T16:09:14+00:00
+
+ ## Home
+ - [https://otp.ku.edu](https://otp.ku.edu)
+ - date_published: 2024-07-01T12:41:07.627319+00:00
+
+ ## Paleontological Institute
+ - [https://paleo.ku.edu](https://paleo.ku.edu)
+ - date_published: 2024-05-07T19:19:52.003258+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [https://people.eecs.ku.edu](https://people.eecs.ku.edu)
+ - date_published: 2023-06-06T16:28:35+00:00
+
+ ## Login - Single Sign On | The University of Kansas
+ - [http://people.ku.edu](http://people.ku.edu)
+ - date_published: 2024-09-07T22:41:21.725121+00:00
+
+ ## Welcome | Policy Library
+ - [http://policy.ku.edu](http://policy.ku.edu)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Office of Public Affairs
+ - [https://publicaffairs.ku.edu](https://publicaffairs.ku.edu)
+ - date_published: 2024-07-01T12:37:09.836091+00:00
+
+ ## Welcome to KU Police Department
+ - [https://publicsafety.ku.edu](https://publicsafety.ku.edu)
+ - date_published: 2024-07-01T12:37:17.074709+00:00
+
+ ## Research Help - LibAnswers
+ - [https://ref.lib.ku.edu](https://ref.lib.ku.edu)
+ - date_published: 2024-07-01T12:21:41.640691+00:00
+
+ ## Office of the University Registrar
+ - [https://registrar.ku.edu](https://registrar.ku.edu)
+ - date_published: 2024-07-01T12:41:03.233595+00:00
+
+ ## Homepage
+ - [https://research.ku.edu](https://research.ku.edu)
+ - date_published: 2024-07-01T12:34:15.806867+00:00
+
+ ## - Rock Chalk Central
+ - [https://rockchalkcentral.ku.edu](https://rockchalkcentral.ku.edu)
+ - date_published: 2024-07-01T12:42:03.316303+00:00
+
+ ## Homepage
+ - [http://sota.ku.edu](http://sota.ku.edu)
+ - date_published: 2024-07-01T12:20:45.864913+00:00
+
+ ## Homepage
+ - [https://spencer.lib.ku.edu](https://spencer.lib.ku.edu)
+ - date_published: 2024-07-01T12:22:10.232885+00:00
+
+ ## Watkins Health Services
+ - [https://studenthealth.ku.edu](https://studenthealth.ku.edu)
+ - date_published: 2024-07-01T12:37:07.918901+00:00
+
+ ## Login - Single Sign On | The University of Kansas
+ - [https://teams.ku.edu](https://teams.ku.edu)
+ - date_published: 2024-07-01T12:41:53.279435+00:00
+
+ ## KU Information Technology
+ - [https://technology.ku.edu](https://technology.ku.edu)
+ - date_published: 2024-07-01T12:35:06.821172+00:00
+
  ## Theatre & Dance
  - [https://theatredance.ku.edu](https://theatredance.ku.edu)
  - date_published: 2024-04-01T00:00:00+00:00
@@ -3900,109 +4004,4 @@
  ## MSU Human Resources Homepage
  - [https://hr.msu.edu](https://hr.msu.edu)
  - date_published: 2024-06-22T10:16:20.831885+00:00
-
- ## Institutional Diversity and Inclusion | Michigan State University
- - [https://inclusion.msu.edu](https://inclusion.msu.edu)
- - date_published: 2024-07-01T11:26:27+00:00
-
- ## CSE Intranet Site
- - [https://intranet.cse.msu.edu](https://intranet.cse.msu.edu)
- - date_published: 2024-06-22T10:17:01.468707+00:00
-
- ## Log in | College of Engineering Intranet
- - [https://intranet.egr.msu.edu](https://intranet.egr.msu.edu)
- - date_published: 2024-06-22T10:16:37.241183+00:00
-
- ## - Michigan State University
- - [https://involve.msu.edu](https://involve.msu.edu)
- - date_published: 2024-07-01T15:42:47.324315+00:00
-
- ## Home | SLE Employment
- - [https://jobs.rhs.msu.edu](https://jobs.rhs.msu.edu)
- - date_published: 2024-07-01T15:02:09+00:00
-
- ## Home | SLE Employment
- - [https://jobs.sle.msu.edu](https://jobs.sle.msu.edu)
- - date_published: 2024-05-07T19:38:22.225443+00:00
-
- ## Enviroweather - Weather for IPM decisions in Michigan
- - [https://legacy.enviroweather.msu.edu](https://legacy.enviroweather.msu.edu)
- - date_published: 2024-07-01T12:57:10.941888+00:00
-
- ## Home | Live On - Michigan State University
- - [https://liveon.msu.edu](https://liveon.msu.edu)
- - date_published: 2024-05-07T19:38:48.453283+00:00
-
- ## Home
- - [https://maflt.cal.msu.edu](https://maflt.cal.msu.edu)
- - date_published: 2024-07-01T12:27:48.191234+00:00
-
- ## MOSAIC: The Multicultural Unity Center | Michigan State University
- - [https://mosaic.msu.edu](https://mosaic.msu.edu)
- - date_published: 2023-08-24T15:08:22+00:00
-
- ## MSU Bakers
- - [https://msubakers.msu.edu](https://msubakers.msu.edu)
- - date_published: 2024-07-01T15:43:16.659771+00:00
-
- ## Home Page | MSU Tennis Center
- - [https://msutennis.msu.edu](https://msutennis.msu.edu)
- - date_published: 2024-05-07T19:38:39.592860+00:00
-
- ## https://msutoday.msu.edu
- - [https://msutoday.msu.edu](https://msutoday.msu.edu)
- - date_published: 2023-12-23T11:36:25.043855+00:00
-
- ## Home
- - [https://nssc.msu.edu](https://nssc.msu.edu)
- - date_published: 2024-06-22T10:17:11.201268+00:00
-
- ## Office of Cultural & Academic Transitions
- - [https://ocat.msu.edu](https://ocat.msu.edu)
- - date_published: 2024-07-01T15:43:09.232769+00:00
-
- ## Home | Office of Student Support & Accountability
- - [https://ossa.msu.edu](https://ossa.msu.edu)
- - date_published: 2024-07-01T15:42:49.936170+00:00
-
- ## TRIO Student Support Services Program
- - [http://oss.msu.edu](http://oss.msu.edu)
- - date_published: 2024-06-22T10:17:05.340195+00:00
-
- ## Spartan Family Connections | Student Life & Engagement
- - [https://parents.msu.edu](https://parents.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Prevention, Outreach and Education Department | Michigan State University
- - [https://poe.msu.edu](https://poe.msu.edu)
- - date_published: 2024-07-01T15:41:19.424924+00:00
-
- ## Office of the President | Michigan State University
- - [https://president.msu.edu](https://president.msu.edu)
- - date_published: 2024-07-01T15:42:48.550983+00:00
-
- ## Recreational Sports and Fitness Services | Michigan State University
- - [http://recsports.msu.edu](http://recsports.msu.edu)
- - date_published: 2024-05-31T15:07:48+00:00
-
- ## MSU RO:
-    Office of the Registrar - Michigan State University
- - [https://reg.msu.edu](https://reg.msu.edu)
- - date_published: 2024-06-22T10:16:50.077945+00:00
-
- ## Home Page | Student Life & Engagement
- - [https://rhs.msu.edu](https://rhs.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
-
- ## Welcome to MSU Scholarships
- - [https://scholarships.msu.edu](https://scholarships.msu.edu)
- - date_published: 2024-05-14T23:20:27+00:00
-
- ## Michigan State University shop.msu.edu
- - [https://shop.msu.edu](https://shop.msu.edu)
- - date_published: 2024-06-22T10:16:48.418099+00:00
-
- ## Home Page | Student Life & Engagement
- - [https://sle.msu.edu](https://sle.msu.edu)
- - date_published: 2024-01-08T00:00:00+00:00
 

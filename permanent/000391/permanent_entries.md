@@ -1,3 +1,164 @@
+ ## Homepage - Voces De La Frontera
+ - [https://vdlf.org](https://vdlf.org)
+ - date_published: 2024-09-16T00:00:00+00:00
+
+ ## Virginia Education Association | Advocates for Public Education & Professional Development
+ - [http://www.veanea.org](http://www.veanea.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## VeChain Explorer (Test)
+ - [https://explore-testnet.vechain.org](https://explore-testnet.vechain.org)
+ - date_published: 2024-09-23T21:43:13.904361+00:00
+
+ ## VeChain Explorer
+ - [https://explore.vechain.org](https://explore.vechain.org)
+ - date_published: 2024-09-24T02:26:20.168118+00:00
+
+ ## VeChain - Web3 for Better: Sustainable Blockchain Solutions
+ - [https://vechain.org](https://vechain.org)
+ - date_published: 2024-07-03T00:00:00+00:00
+
+ ## Vector.js
+ - [https://vectorjs.org](https://vectorjs.org)
+ - date_published: 2022-12-27T17:45:58+00:00
+
+ ## Veerni Empowering Girls
+ - [https://www.veerni.org](https://www.veerni.org)
+ - date_published: 2024-08-08T17:52:34.137935+00:00
+
+ ## https://vegan-day.org
+ - [https://vegan-day.org](https://vegan-day.org)
+ - date_published: 2023-11-02T11:19:51.464364+00:00
+
+ ## Vegan Hacktivists | Compassion, Creativity, Code!
+ - [https://veganhacktivists.org](https://veganhacktivists.org)
+ - date_published: 2024-08-29T00:00:00+00:00
+
+ ## Vegan Recipes
+ - [https://vegan-recipes.org](https://vegan-recipes.org)
+ - date_published: 2024-01-30T19:36:39+00:00
+
+ ## Vegan Theory Club - Vegan Theory Club: Lemmy for Vegans
+ - [https://vegantheoryclub.org](https://vegantheoryclub.org)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## Vegas PBS
+ - [http://vegaspbs.org](http://vegaspbs.org)
+ - date_published: 2024-06-22T19:35:20.964805+00:00
+
+ ## Resiliency & Justice Center – Born out of the Vegas Strong Resiliency Center to serve all victims of violent crime
+ - [https://vegasstrongrc.org](https://vegasstrongrc.org)
+ - date_published: 2024-06-19T18:03:37.761968+00:00
+
+ ## Vega Strike Forums - Index page
+ - [https://forums.vega-strike.org](https://forums.vega-strike.org)
+ - date_published: 2024-07-11T00:00:00+00:00
+
+ ## Vega Strike
+ - [https://vega-strike.org](https://vega-strike.org)
+ - date_published: 2024-05-09T09:07:03.110728+00:00
+
+ ## Vegastrike - VsWiki
+ - [https://wiki.vega-strike.org](https://wiki.vega-strike.org)
+ - date_published: 2022-01-07T11:10:15+00:00
+
+ ## Organic Recordkeeping App for Farm Certification - VeggieTables
+ - [https://veggietables.org](https://veggietables.org)
+ - date_published: 2024-06-03T11:18:10.667997+00:00
+
+ ## Veilid Foundation
+ - [https://veilid.org](https://veilid.org)
+ - date_published: 2024-05-06T21:35:09.906446+00:00
+
+ ## Vejen til lykke: moralsk karakter undervisning, gode råd, etiske værdier, lykkeligere liv, dyder
+ - [http://www.vejentillykke.org](http://www.vejentillykke.org)
+ - date_published: 2024-09-04T17:55:22.877671+00:00
+
+ ## Nova | Faucet
+ - [https://nova-faucet.velo.org](https://nova-faucet.velo.org)
+ - date_published: 2024-05-23T08:23:50+00:00
+
+ ## NOVA Mainnet Explorer
+ - [https://novascan.velo.org](https://novascan.velo.org)
+ - date_published: 2024-09-24T01:37:35.280264+00:00
+
+ ## Velo Labs | Supercharge Money Velocity, Financial Inclusivity for Everyone #Web3plus #VELOcity
+ - [https://velo.org](https://velo.org)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Velocity.js
+ - [http://velocityjs.org](http://velocityjs.org)
+ - date_published: 2020-10-16T14:45:09+00:00
+
+ ## John Hobbs on coding, Omaha, and life in general
+ - [https://velvetcache.org](https://velvetcache.org)
+ - date_published: 2024-08-08T15:10:56.262890+00:00
+
+ ## Accueil | Vendée Globe 2024
+ - [https://www.vendeeglobe.org](https://www.vendeeglobe.org)
+ - date_published: 2024-09-09T12:55:08+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://veneur.org](https://veneur.org)
+ - date_published: 2024-09-07T22:31:15.344602+00:00
+
+ ## Venice in Peril
+ - [http://veniceinperil.org](http://veniceinperil.org)
+ - date_published: 2024-06-24T09:29:15.086707+00:00
+
+ ## PROJECTS
+ - [https://veniceperformanceart.org](https://veniceperformanceart.org)
+ - date_published: 2024-09-12T18:51:01.453324+00:00
+
+ ## Venom Linux
+ - [https://venomlinux.org](https://venomlinux.org)
+ - date_published: 2024-03-06T17:25:10+00:00
+ - tags: ['linux', 'operating system']
+
+ ## Jobs at Venture Atlanta Companies | Venture Atlanta
+ - [https://jobs.ventureatlanta.org](https://jobs.ventureatlanta.org)
+ - date_published: 2024-06-29T00:00:00+00:00
+
+ ## Venture Atlanta | Connecting Founders & Funders
+ - [https://ventureatlanta.org](https://ventureatlanta.org)
+ - date_published: 2024-05-07T09:30:26.871128+00:00
+
+ ## Connecting innovators to make things happen - Venture Café Global Institute
+ - [https://venturecafeglobal.org](https://venturecafeglobal.org)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## ベンチャーカフェ東京｜Venture Café Tokyo
+ - [https://venturecafetokyo.org](https://venturecafetokyo.org)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Venture Dallas – Connecting early-stage investors and VCs to emerging startups in Dallas-Fort Worth
+ - [https://2019.venturedallas.org](https://2019.venturedallas.org)
+ - date_published: 2024-09-18T12:47:54.454513+00:00
+
+ ## Venture Dallas – Connecting early-stage investors and VCs to emerging startups in Dallas-Fort Worth
+ - [https://2022.venturedallas.org](https://2022.venturedallas.org)
+ - date_published: 2024-06-15T15:25:04.908543+00:00
+
+ ## Home | Venture Dallas - Innovation Meets Investment
+ - [https://venturedallas.org](https://venturedallas.org)
+ - date_published: 2024-05-01T03:42:22.007632+00:00
+
+ ## Venture Miami - Innovation and Economic Development Office
+ - [https://venturemia.org](https://venturemia.org)
+ - date_published: 2024-06-16T05:00:08.682689+00:00
+
+ ## VentureWell Home Page - Welcome to VentureWell
+ - [https://venturewell.org](https://venturewell.org)
+ - date_published: 2024-06-20T00:00:00+00:00
+
+ ## Institut Veolia - Prospective environnementale et sociétale
+ - [https://www.institut.veolia.org](https://www.institut.veolia.org)
+ - date_published: 2024-09-12T06:17:39+00:00
+
+ ## Home
+ - [https://www.vera.org](https://www.vera.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
  ## Verandi
  - [https://verandi.org](https://verandi.org)
  - date_published: 2024-08-20T04:12:56.978896+00:00
@@ -3882,164 +4043,4 @@
  ## 유엔세계식량계획(WFP)
  - [https://ko.wfp.org](https://ko.wfp.org)
  - date_published: 2024-06-19T16:45:18.817509+00:00
-
- ## World Food Programme | Multimedia Hub  - Login/Registration
- - [https://multimedia.wfp.org](https://multimedia.wfp.org)
- - date_published: 2024-06-19T16:44:51.221368+00:00
-
- ## FNs World Food Programme (WFP)
- - [https://no1.wfp.org](https://no1.wfp.org)
- - date_published: 2024-10-29T16:01:09.630583+00:00
-
- ## FNs World Food Programme (WFP)
- - [https://no.wfp.org](https://no.wfp.org)
- - date_published: 2024-06-19T16:45:04.508890+00:00
-
- ## Всемирная продовольственная программа ООН (ВПП ООН)
- - [https://ru1.wfp.org](https://ru1.wfp.org)
- - date_published: 2024-10-29T16:06:13.114176+00:00
-
- ## Всемирная продовольственная программа ООН (ВПП ООН)
- - [https://ru.wfp.org](https://ru.wfp.org)
- - date_published: 2024-06-19T16:45:23.342943+00:00
-
- ## FN World Food Programme (WFP)
- - [http://sv1.wfp.org](http://sv1.wfp.org)
- - date_published: 2024-10-29T16:01:55.645413+00:00
-
- ## FN World Food Programme (WFP)
- - [https://sv.wfp.org](https://sv.wfp.org)
- - date_published: 2024-04-12T00:00:00+00:00
-
- ## UN World Food Programme (WFP)
- - [https://wfp.org](https://wfp.org)
- - date_published: 2024-06-19T16:57:51+00:00
-
- ## UN World Food Programme (WFP)
- - [http://www1.wfp.org](http://www1.wfp.org)
- - date_published: 2024-10-29T15:55:42.106078+00:00
-
- ## 世界粮食计划署(WFP)
- - [https://zh.wfp.org](https://zh.wfp.org)
- - date_published: 2024-06-19T16:45:12.182661+00:00
-
- ## CDP
- - [https://donate.wfyi.org](https://donate.wfyi.org)
- - date_published: 2024-08-18T17:35:49+00:00
-
- ## WFYI Video
- - [https://video.wfyi.org](https://video.wfyi.org)
- - date_published: 2024-08-18T00:00:00+00:00
-
- ## Indianapolis' Public Radio, TV & News Station | WFYI
- - [https://wfyi.org](https://wfyi.org)
- - date_published: 2023-10-25T22:20:00.574986+00:00
-
- ## WG5 Fortran Standards Home
- - [https://wg5-fortran.org](https://wg5-fortran.org)
- - date_published: 2024-02-04T00:00:00+00:00
-
- ## WGAW Candidate
- - [https://elections.wga.org](https://elections.wga.org)
- - date_published: 2024-06-28T17:32:46+00:00
-
- ## Writers Guild America West
- - [https://secure.wga.org](https://secure.wga.org)
- - date_published: 2024-08-07T23:52:45.306177+00:00
-
- ## Writers Guild America West
- - [https://www.wga.org](https://www.wga.org)
- - date_published: 2024-07-16T21:36:12.524943+00:00
-
- ## WGA Contract 2023
- - [https://wgacontract2023.org](https://wgacontract2023.org)
- - date_published: 2023-10-25T22:20:03.583080+00:00
-
- ## CDP
- - [https://donate.wgbh.org](https://donate.wgbh.org)
- - date_published: 2024-08-18T12:09:46+00:00
-
- ## Home
- - [https://sponsorship.wgbh.org](https://sponsorship.wgbh.org)
- - date_published: 2024-07-02T14:13:01+00:00
-
- ## GBH.org
- - [https://wgbh.org](https://wgbh.org)
- - date_published: 2023-11-29T05:46:53.911077+00:00
-
- ## WCGU: PBS and NPR for Southwest Florida | WGCU PBS & NPR for Southwest Florida
- - [https://news.wgcu.org](https://news.wgcu.org)
- - date_published: 2024-10-16T20:36:05.540176+00:00
-
- ## William G. Pomeroy Foundation | For History, For Life
- - [https://www.wgpfoundation.org](https://www.wgpfoundation.org)
- - date_published: 2024-06-24T00:03:39+00:00
-
- ## Whale Facts and Information
- - [https://www.whalefacts.org](https://www.whalefacts.org)
- - date_published: 2021-04-26T22:33:20+00:00
-
- ## Kevin Whalen
- - [https://whalen.org](https://whalen.org)
- - date_published: 2024-07-21T23:28:06+00:00
-
- ## Donate to Save Whales and Dolphins | Whale and Dolphin Conservation
- - [https://adopt-us.whales.org](https://adopt-us.whales.org)
- - date_published: 2024-06-21T10:04:11.299897+00:00
-
- ## Whale & Dolphin Conservation Australia
- - [https://au.whales.org](https://au.whales.org)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## whales.org | Whale & Dolphin Conservation | Wal- & Delfinschutz
- - [https://de.whales.org](https://de.whales.org)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Whale & Dolphin Conservation UK
- - [https://uk.whales.org](https://uk.whales.org)
- - date_published: 2024-06-21T10:04:26.751076+00:00
-
- ## Whale & Dolphin Conservation USA
- - [https://us.whales.org](https://us.whales.org)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## Whale & Dolphin Conservation UK
- - [https://whales.org](https://whales.org)
- - date_published: 2024-06-21T10:04:57.766650+00:00
-
- ## The Whale Store
- - [https://whalestore.org](https://whalestore.org)
- - date_published: 2024-06-21T10:04:16.518926+00:00
-
- ## IIS Windows Server
- - [https://collections.whalingmuseum.org](https://collections.whalingmuseum.org)
- - date_published: 2017-03-14T12:30:10+00:00
-
- ## The White Whale at the New Bedford Whaling Museum. Gifts, Books, More.
- - [http://store.whalingmuseum.org](http://store.whalingmuseum.org)
- - date_published: 2024-06-29T04:52:00.179559+00:00
-
- ## Home - New Bedford Whaling Museum
- - [https://whalingmuseum.org](https://whalingmuseum.org)
- - date_published: 2022-02-14T19:04:40+00:00
-
- ## Wharton FinTech
- - [https://www.whartonfintech.org](https://www.whartonfintech.org)
- - date_published: 2024-05-06T13:10:34.908148+00:00
-
- ## What can I do for Fedora?
- - [https://whatcanidoforfedora.org](https://whatcanidoforfedora.org)
- - date_published: 2023-11-16T18:42:04+00:00
-
- ## What can I do for LibreOffice
- - [https://whatcanidoforlibreoffice.org](https://whatcanidoforlibreoffice.org)
- - date_published: 2024-05-08T09:35:16.347122+00:00
-
- ## whatevs (dot org) | p.h.c.f.y.s.b.
- - [http://whatevs.org](http://whatevs.org)
- - date_published: 2024-10-21T05:28:49.356735+00:00
-
- ## Chris Sacca's 'What is left?'
- - [https://whatisleft.org](https://whatisleft.org)
- - date_published: 2024-06-15T18:38:24.557379+00:00
 

@@ -1,3 +1,111 @@
+ ## OAL | Office of Administrative Law
+ - [https://oal.ca.gov](https://oal.ca.gov)
+ - date_published: 2024-07-15T10:43:48.321299+00:00
+
+ ## Office of Technology and Solutions Integration | Home page
+ - [https://osi.ca.gov](https://osi.ca.gov)
+ - date_published: 2024-05-12T05:58:16.351497+00:00
+
+ ## Office of Technology and Solutions Integration | Home page
+ - [https://otsi.ca.gov](https://otsi.ca.gov)
+ - date_published: 2024-07-15T10:42:22.554748+00:00
+
+ ## Service unavailable
+ - [https://plantingseedsblog.cdfa.ca.gov](https://plantingseedsblog.cdfa.ca.gov)
+ - date_published: 2024-07-08T11:55:47.652871+00:00
+
+ ## DFPI Self-Service Portal - Customer Service
+ - [https://portal.dfpi.ca.gov](https://portal.dfpi.ca.gov)
+ - date_published: 2024-05-08T02:35:39.645821+00:00
+
+ ## California Public Advocates Office
+ - [https://publicadvocates.cpuc.ca.gov](https://publicadvocates.cpuc.ca.gov)
+ - date_published: 2024-05-09T02:32:47.100257+00:00
+
+ ## Verification
+ - [https://rct.doj.ca.gov](https://rct.doj.ca.gov)
+ - date_published: 2024-05-08T02:36:09.542242+00:00
+
+ ## Online Voter Registration | California Secretary of State
+ - [https://registertovote.ca.gov](https://registertovote.ca.gov)
+ - date_published: 2024-05-08T02:35:45.864846+00:00
+
+ ## California Natural Resources Agency
+ - [https://resources.ca.gov](https://resources.ca.gov)
+ - date_published: 2024-07-09T11:45:15.108901+00:00
+
+ ## California Governor's Office of Emergency Services | California's Emergency Services Leader
+ - [https://response.ca.gov](https://response.ca.gov)
+ - date_published: 2024-07-15T10:41:54.821070+00:00
+
+ ## Save Water Report - State of California
+ - [http://savewater.ca.gov](http://savewater.ca.gov)
+ - date_published: 2024-07-09T11:45:44.192319+00:00
+
+ ## Members | California State Assembly
+ - [https://scheduling.assembly.ca.gov](https://scheduling.assembly.ca.gov)
+ - date_published: 2024-07-07T04:01:05+00:00
+
+ ## Home
+ - [https://sco.ca.gov](https://sco.ca.gov)
+ - date_published: 2024-06-28T09:00:14.754285+00:00
+
+ ## Senator Bill Dodd
+ - [https://sd03.senate.ca.gov](https://sd03.senate.ca.gov)
+ - date_published: 2024-06-20T13:02:07.792668+00:00
+
+ ## Official Website - Senator Scott Wiener
+ - [https://sd11.senate.ca.gov](https://sd11.senate.ca.gov)
+ - date_published: 2024-08-17T00:00:00+00:00
+
+ ## Cannabis Unified License Search
+ - [https://search.cannabis.ca.gov](https://search.cannabis.ca.gov)
+ - date_published: 2023-08-31T23:53:46+00:00
+
+ ## Search - DCA
+ - [https://search.dca.ca.gov](https://search.dca.ca.gov)
+ - date_published: 2024-07-03T13:18:37.048402+00:00
+
+ ## Homepage | California State Senate
+ - [http://senate.ca.gov](http://senate.ca.gov)
+ - date_published: 2024-08-08T15:45:56+00:00
+
+ ## Strategic Growth Council, California
+ - [http://sgc.ca.gov](http://sgc.ca.gov)
+ - date_published: 2024-07-03T13:19:16.834098+00:00
+
+ ## Welcome to the Senate Standing Committee on Judiciary | Senate Judiciary Committee
+ - [https://sjud.senate.ca.gov](https://sjud.senate.ca.gov)
+ - date_published: 2024-07-24T03:19:30.243640+00:00
+
+ ## Home :: California Secretary of State
+ - [https://sos.ca.gov](https://sos.ca.gov)
+ - date_published: 2024-05-08T09:28:06.546806+00:00
+
+ ## Homepage | Senator Brian Jones
+ - [https://sr40.senate.ca.gov](https://sr40.senate.ca.gov)
+ - date_published: 2024-06-07T18:47:34+00:00
+
+ ## Home Page | California State Water Resources Control Board
+ - [http://swrcb.ca.gov](http://swrcb.ca.gov)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## California Tax Service Center
+ - [http://taxes.ca.gov](http://taxes.ca.gov)
+ - date_published: 2024-01-01T00:00:00+00:00
+
+ ## Unclaimed Property
+ - [https://ucpi.sco.ca.gov](https://ucpi.sco.ca.gov)
+ - date_published: 2024-07-18T14:30:31.833091+00:00
+
+ ## CalVCB - CA Victim Compensation Board
+ - [https://victims.ca.gov](https://victims.ca.gov)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## CalEPA Public Webcasts
+ - [https://video.calepa.ca.gov](https://video.calepa.ca.gov)
+ - date_published: 2024-07-09T11:46:02.084133+00:00
+
  ## Vision 2023 | California Department of Technology
  - [https://vision2023.cdt.ca.gov](https://vision2023.cdt.ca.gov)
  - date_published: 2024-05-12T05:58:07.030160+00:00
@@ -3921,112 +4029,4 @@ Speech-Language Pathology & Audiology- Licensing, Renewals & Information
  ## U.S. Representative Kevin Hern
  - [https://hern.house.gov](https://hern.house.gov)
  - date_published: 2024-06-27T00:00:00+00:00
-
- ## U.S. Congressman French Hill
- - [https://hill.house.gov](https://hill.house.gov)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Congressman Jim Himes
- - [https://himes.house.gov](https://himes.house.gov)
- - date_published: 2024-06-27T14:19:50.358961+00:00
-
- ## Representative Ashley Hinson
- - [https://hinson.house.gov](https://hinson.house.gov)
- - date_published: 2024-06-27T14:17:40.761245+00:00
-
- ## US House of Representatives: History, Art & Archives
- - [http://history.house.gov](http://history.house.gov)
- - date_published: 2024-06-27T14:11:10.223505+00:00
-
- ## Committee on Homeland Security – Congressional Website
- - [https://homeland.house.gov](https://homeland.house.gov)
- - date_published: 2024-06-27T14:12:35.541813+00:00
-
- ## Congressman Steven Horsford
- - [https://horsford.house.gov](https://horsford.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Congresswoman Erin Houchin
- - [https://houchin.house.gov](https://houchin.house.gov)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## U.S. Representative Chrissy Houlahan
- - [https://houlahan.house.gov](https://houlahan.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Homepage | house.gov
- - [https://house.gov](https://house.gov)
- - date_published: 2024-04-29T00:00:00+00:00
-
- ## Congressman Steny Hoyer
- - [https://hoyer.house.gov](https://hoyer.house.gov)
- - date_published: 2024-06-24T00:00:00+00:00
-
- ## Home | Congresswoman Val Hoyle
- - [https://hoyle.house.gov](https://hoyle.house.gov)
- - date_published: 2024-06-27T14:17:16.592383+00:00
-
- ## Congressman Richard Hudson
- - [https://hudson.house.gov](https://hudson.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Home | U.S. Congressman Jared Huffman
- - [https://huffman.house.gov](https://huffman.house.gov)
- - date_published: 2024-06-27T14:19:05.886857+00:00
-
- ## U.S. Representative Bill Huizenga
- - [https://huizenga.house.gov](https://huizenga.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Wesley Hunt
- - [https://hunt.house.gov](https://hunt.house.gov)
- - date_published: 2024-06-27T13:59:27.525304+00:00
-
- ## The Permanent Select Committee On Intelligence
- - [https://intelligence.house.gov](https://intelligence.house.gov)
- - date_published: 2024-06-27T13:48:00+00:00
-
- ## Representative Darrell Issa
- - [https://issa.house.gov](https://issa.house.gov)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## Congressman Glenn Ivey
- - [https://ivey.house.gov](https://ivey.house.gov)
- - date_published: 2024-06-27T14:22:59.585442+00:00
-
- ## Congressman Ronny Jackson
- - [https://jackson.house.gov](https://jackson.house.gov)
- - date_published: 2024-06-27T14:00:56+00:00
-
- ## Congresswoman Sheila Jackson Lee
- - [https://jacksonlee.house.gov](https://jacksonlee.house.gov)
- - date_published: 2024-06-13T00:00:00+00:00
-
- ## Congressman John James
- - [https://james.house.gov](https://james.house.gov)
- - date_published: 2024-06-27T14:00:57+00:00
-
- ## Congressman Jason Smith
- - [https://jasonsmith.house.gov](https://jasonsmith.house.gov)
- - date_published: 2024-06-21T00:00:00+00:00
-
- ## Home - Congresswoman Pramila Jayapal
- - [https://jayapal.house.gov](https://jayapal.house.gov)
- - date_published: 2024-06-25T00:00:00+00:00
-
- ## Congressman Jeff Duncan
- - [https://jeffduncan.house.gov](https://jeffduncan.house.gov)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Congressman Jeff Jackson
- - [https://jeffjackson.house.gov](https://jeffjackson.house.gov)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Congressman Hakeem Jeffries – Proudly Representing the 8th District of New York
- - [https://jeffries.house.gov](https://jeffries.house.gov)
- - date_published: 2024-06-27T14:10:12.977239+00:00
-
- ## Representative Joe Wilson
- - [https://joewilson.house.gov](https://joewilson.house.gov)
- - date_published: 2024-06-27T14:21:10.152708+00:00
 

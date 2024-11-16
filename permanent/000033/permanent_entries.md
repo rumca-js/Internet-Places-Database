@@ -1,3 +1,7 @@
+ ## Soho - Revista Para Hombres Con Las Mujeres Más Lindas.
+ - [https://www.soho.co](https://www.soho.co)
+ - date_published: 2024-07-21T23:39:07+00:00
+
  ## SolidInvoice - Simple and elegant invoicing solution
  - [https://solidinvoice.co](https://solidinvoice.co)
  - date_published: 2024-06-19T22:13:29.457624+00:00
@@ -4012,8 +4016,4 @@
  ## Inicio | Facultad Tecnológica
  - [https://ftecnologica.udistrital.edu.co](https://ftecnologica.udistrital.edu.co)
  - date_published: 2024-08-14T01:56:20+00:00
-
- ## Sistema de Gestión Académica
- - [https://funcionarios.portaloas.udistrital.edu.co](https://funcionarios.portaloas.udistrital.edu.co)
- - date_published: 2024-06-12T03:16:25.394886+00:00
 

@@ -1,3 +1,7 @@
+ ## 河南机关党建-官方网站-www.hnjgdj.gov.cn
+ - [http://www.hnjgdj.gov.cn](http://www.hnjgdj.gov.cn)
+ - date_published: 2024-06-30T14:54:46.614698+00:00
+
  ## 湖南人大网
  - [http://www.hnrd.gov.cn](http://www.hnrd.gov.cn)
  - date_published: 2024-10-21T06:30:01.965800+00:00
@@ -3993,8 +3997,4 @@
  ## 中国计算机学会自然语言处理专业委员会 首页
  - [http://tcci.ccf.org.cn](http://tcci.ccf.org.cn)
  - date_published: 2024-08-07T14:56:57.185467+00:00
-
- ## 中国计算机学会
- - [https://www.ccf.org.cn](https://www.ccf.org.cn)
- - date_published: 2024-04-13T00:00:00+00:00
 

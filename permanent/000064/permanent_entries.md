@@ -1,3 +1,19 @@
+ ## The View from Lady Lake
+ - [https://theviewfromladylake.blogspot.com](https://theviewfromladylake.blogspot.com)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## The View From Steel Town
+ - [http://theviewfromsteeltown.blogspot.com](http://theviewfromsteeltown.blogspot.com)
+ - date_published: 2024-03-08T09:57:37+00:00
+
+ ## The Visible Foot
+ - [http://thevisiblefoot.blogspot.com](http://thevisiblefoot.blogspot.com)
+ - date_published: 2024-10-19T08:14:26.703432+00:00
+
+ ## War Dolls
+ - [http://thewardolls.blogspot.com](http://thewardolls.blogspot.com)
+ - date_published: 2024-09-27T20:01:30+00:00
+
  ## The Wargame Shed
  - [https://thewargameshed.blogspot.com](https://thewargameshed.blogspot.com)
  - date_published: 2024-07-11T18:19:20+00:00
@@ -3993,20 +4009,4 @@
  ## Competition Law and Policy
  - [http://www.competitionlawyer.blogspot.com](http://www.competitionlawyer.blogspot.com)
  - date_published: 2024-10-18T19:10:04.711092+00:00
-
- ## conanon
- - [http://www.conanon.blogspot.com](http://www.conanon.blogspot.com)
- - date_published: 2024-03-05T10:18:07+00:00
-
- ## CONVERSATIONS WITH DEX
- - [http://www.conversationswithdex.blogspot.com](http://www.conversationswithdex.blogspot.com)
- - date_published: 2024-10-25T00:27:02+00:00
-
- ## Correspondence Committee
- - [http://www.correspondencecommittee.blogspot.com](http://www.correspondencecommittee.blogspot.com)
- - date_published: 2024-02-19T14:50:50+00:00
-
- ## Crispy Duck with Ginger
- - [http://www.crispyduck.blogspot.com](http://www.crispyduck.blogspot.com)
- - date_published: 2024-07-11T18:30:06+00:00
 

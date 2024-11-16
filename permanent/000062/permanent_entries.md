@@ -1,3 +1,15 @@
+ ## Praise, Curse, and Recurse
+ - [http://praisecurseandrecurse.blogspot.com](http://praisecurseandrecurse.blogspot.com)
+ - date_published: 2024-03-13T02:48:39+00:00
+
+ ## ScarletGuju
+ - [http://pranavjani.blogspot.com](http://pranavjani.blogspot.com)
+ - date_published: 2024-10-21T17:02:19.356194+00:00
+
+ ## Pascal Rapicault
+ - [http://prapicault.blogspot.com](http://prapicault.blogspot.com)
+ - date_published: 2024-03-08T02:45:49+00:00
+
  ## Pray for the Hostages
  - [http://prayforthehostages.blogspot.com](http://prayforthehostages.blogspot.com)
  - date_published: 2024-06-21T00:09:50+00:00
@@ -4000,16 +4012,4 @@
  ## Simply Left BehindThe Non-Rapturist's Guide To The Galaxy
  - [http://simplyleftbehind.blogspot.com](http://simplyleftbehind.blogspot.com)
  - date_published: 2024-05-27T06:01:39+00:00
-
- ## SincaiN40K
- - [http://sincain40k.blogspot.com](http://sincain40k.blogspot.com)
- - date_published: 2024-06-18T13:27:15+00:00
-
- ## SEPUTAR INDONESIA HEBAT
- - [https://sindohebatmedan.blogspot.com](https://sindohebatmedan.blogspot.com)
- - date_published: 2023-11-24T00:00:00+00:00
-
- ## SINFOROSA CASTORO
- - [https://sinforosacastoro.blogspot.com](https://sinforosacastoro.blogspot.com)
- - date_published: 2024-09-02T13:08:00+00:00
 

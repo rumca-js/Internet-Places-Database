@@ -1,3 +1,96 @@
+ ## TechNow Geek
+ - [http://technowgeek.wordpress.com](http://technowgeek.wordpress.com)
+ - date_published: 2024-09-03T00:00:00+00:00
+
+ ## Tom's Technical Taunt
+ - [http://techtaunt.wordpress.com](http://techtaunt.wordpress.com)
+ - date_published: 2024-08-18T17:07:16.104918+00:00
+
+ ## Humanize Technology
+ - [http://techuman.wordpress.com](http://techuman.wordpress.com)
+ - date_published: 2024-07-11T16:16:23.415920+00:00
+
+ ## Tedious Tantrums
+ - [https://tedioustantrums.wordpress.com](https://tedioustantrums.wordpress.com)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## The Stone and the Shell
+ - [https://tedunderwood.wordpress.com](https://tedunderwood.wordpress.com)
+ - date_published: 2024-08-19T04:44:22.615782+00:00
+
+ ## I was a Teenage Shoegazer
+ - [http://teenageshoegazer.wordpress.com](http://teenageshoegazer.wordpress.com)
+ - date_published: 2024-06-30T06:16:02.075309+00:00
+
+ ## Teens Turning Green Blog
+ - [https://teensturninggreenblog.wordpress.com](https://teensturninggreenblog.wordpress.com)
+ - date_published: 2024-07-08T13:28:57.656147+00:00
+
+ ## TelcoNotes
+ - [https://telconotes.wordpress.com](https://telconotes.wordpress.com)
+ - date_published: 2024-05-06T13:59:34.687214+00:00
+
+ ## 123beta
+ - [http://tele64.wordpress.com](http://tele64.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## In the Dark
+ - [https://telescoper.wordpress.com](https://telescoper.wordpress.com)
+ - date_published: 2024-08-18T20:28:20.601000+00:00
+
+ ## teleskopos
+ - [http://teleskopos.wordpress.com](http://teleskopos.wordpress.com)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## Terry Martin's Meanderings
+ - [http://telmartin81.wordpress.com](http://telmartin81.wordpress.com)
+ - date_published: 2024-07-09T14:07:41.559947+00:00
+
+ ## Tempe
+ - [https://tempe.wordpress.com](https://tempe.wordpress.com)
+ - date_published: 2024-05-03T00:00:00+00:00
+
+ ## Temple of Thutmos
+ - [https://templeofthutmos552367304.wordpress.com](https://templeofthutmos552367304.wordpress.com)
+ - date_published: 2024-10-26T17:52:23.908512+00:00
+
+ ## Tendance Coatesy
+ - [https://tendancecoatesy.wordpress.com](https://tendancecoatesy.wordpress.com)
+ - date_published: 2024-10-21T12:59:37.900352+00:00
+
+ ## Ten minutes past deadline
+ - [https://tenminutespastdeadline.wordpress.com](https://tenminutespastdeadline.wordpress.com)
+ - date_published: 2024-04-25T00:00:00+00:00
+
+ ## A Corner of Tenth-Century Europe
+ - [https://tenthmedieval.wordpress.com](https://tenthmedieval.wordpress.com)
+ - date_published: 2024-06-24T10:31:36.307885+00:00
+
+ ## AGENT SWARM
+ - [https://terenceblake.wordpress.com](https://terenceblake.wordpress.com)
+ - date_published: 2024-04-29T03:27:09.189111+00:00
+
+ ## Terraform Industries Blog – gigascale atmospheric hydrocarbon synthesis
+ - [https://terraformindustries.wordpress.com](https://terraformindustries.wordpress.com)
+ - date_published: 2023-10-25T18:17:21.097085+00:00
+
+ ## Terribly Write
+ - [http://terriblywrite.wordpress.com](http://terriblywrite.wordpress.com)
+ - date_published: 2024-10-19T10:48:41.535752+00:00
+
+ ## What's new | Updates on my research and expository papers, discussion of open problems, and other maths-related topics.  By Terence Tao
+ - [https://terrytao.wordpress.com](https://terrytao.wordpress.com)
+ - date_published: 2023-10-25T09:21:29.530385+00:00
+ - tags: ['personal']
+
+ ## Testing Clouds at 128bpm
+ - [https://testingclouds.wordpress.com](https://testingclouds.wordpress.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## TeX & Friends
+ - [https://texandfriends.wordpress.com](https://texandfriends.wordpress.com)
+ - date_published: 2024-08-08T19:02:42.428402+00:00
+
  ## Mechanics Are Easy
  - [http://texarkana23.wordpress.com](http://texarkana23.wordpress.com)
  - date_published: 2024-07-09T14:07:55.120501+00:00
@@ -3918,96 +4011,4 @@
  ## We Love Recruiters - A limited collection from Working Not Working
  - [https://shop.workingnotworking.com](https://shop.workingnotworking.com)
  - date_published: 2024-06-19T14:55:53.579281+00:00
-
- ## Connecting companies with the universe's most creative creatives – Working Not Working
- - [https://workingnotworking.com](https://workingnotworking.com)
- - date_published: 2024-05-04T06:14:40.908552+00:00
-
- ## Working Theorys | Anu Atluru | Substack
- - [https://workingtheorys.com](https://workingtheorys.com)
- - date_published: 2024-01-17T18:11:38.349001+00:00
-
- ## Automated document processing with AI | Workist
- - [https://www.workist.com](https://www.workist.com)
- - date_published: 2024-09-11T00:00:00+00:00
-
- ## Workiva APIs
- - [https://developers.workiva.com](https://developers.workiva.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Workiva Inc. - Investor Relations
- - [https://investor.workiva.com](https://investor.workiva.com)
- - date_published: 2024-07-03T17:45:47.882099+00:00
-
- ## Find a Simpler Way | Workiva Marketplace
- - [https://marketplace.workiva.com](https://marketplace.workiva.com)
- - date_published: 2024-07-03T17:45:49+00:00
-
- ## Homepage | Newsroom
- - [https://newsroom.workiva.com](https://newsroom.workiva.com)
- - date_published: 2024-07-03T09:32:47+00:00
-
- ## Workiva Partner Program | Home
- - [https://partners.workiva.com](https://partners.workiva.com)
- - date_published: 2024-07-03T17:45:42.995560+00:00
-
- ## Support Center
- - [https://support.workiva.com](https://support.workiva.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Workiva | Software for ESG, GRC & Financial Reporting
- - [https://workiva.com](https://workiva.com)
- - date_published: 2024-06-23T10:43:10+00:00
-
- ## Connected Through Learning
- - [https://www.training.workiva.com](https://www.training.workiva.com)
- - date_published: 2024-07-03T00:00:00+00:00
-
- ## Workleap Management App
- - [https://management.workleap.com](https://management.workleap.com)
- - date_published: 2024-10-11T22:36:20.180024+00:00
-
- ## Workleap | Make every moment matter with employee engagement software
- - [https://www.workleap.com](https://www.workleap.com)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## CAPABLE - Enhancing Capabilities? |  Rethinking Work-life Policies and their Impact from a New Perspective
- - [https://worklifecapabilities.com](https://worklifecapabilities.com)
- - date_published: 2024-10-18T19:48:05.756037+00:00
-
- ## Work.Life.Whatever.
- - [https://worklifewhatever.com](https://worklifewhatever.com)
- - date_published: 2024-01-12T18:47:15.664867+00:00
-
- ## Worklio – Get payroll right, every time. Period.
- - [https://www.worklio.com](https://www.worklio.com)
- - date_published: 2023-10-03T06:53:27+00:00
-
- ## Workman Publishing – Home
- - [https://www.workman.com](https://www.workman.com)
- - date_published: 2023-01-16T23:56:43+00:00
-
- ## Pair Domains - Dynamic DNS
- - [https://worknik.com](https://worknik.com)
- - date_published: 2024-06-24T18:43:31+00:00
-
- ## Cierpliwości...
- - [https://workology.com](https://workology.com)
- - date_published: 2024-06-26T22:41:35.859192+00:00
-
- ## The Smartest path to extending your runway.
- - [http://workonmainstreet.com](http://workonmainstreet.com)
- - date_published: 2024-04-15T00:00:00+00:00
-
- ## How To Avoid The 13 Common Mistakes Entrepreneurs Make AND Fix Any You Have Made [So You Can Stop Being Stuck Or Lost About Your Business]... In 39 Minutes!!!
- - [http://workonmygame.com](http://workonmygame.com)
- - date_published: 2023-11-14T16:02:12+00:00
-
- ## Attention Required! | Cloudflare
- - [https://workonyourgame.com](https://workonyourgame.com)
- - date_published: 2024-05-01T07:46:27.736416+00:00
-
- ## Work On Your Game MasterClass by Dre Baldwin | Home Page of Dre Baldwin's Daily Masterclass / Podcast
- - [http://workonyourgamepodcast.com](http://workonyourgamepodcast.com)
- - date_published: 2024-07-25T17:56:52+00:00
 

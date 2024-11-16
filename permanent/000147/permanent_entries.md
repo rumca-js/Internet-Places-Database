@@ -1,3 +1,52 @@
+ ## What is Power Query? - Power Query
+ - [https://powerquery.microsoft.com](https://powerquery.microsoft.com)
+ - date_published: 2024-05-07T09:12:35.842081+00:00
+
+ ## Privacy – Microsoft privacy
+ - [https://privacy.microsoft.com](https://privacy.microsoft.com)
+ - date_published: 2024-04-28T02:26:35.216255+00:00
+
+ ## Microsoft Support
+ - [https://prod.support.services.microsoft.com](https://prod.support.services.microsoft.com)
+ - date_published: 2024-07-25T00:00:00+00:00
+
+ ## Microsoft Regional Directors
+ - [https://rd.microsoft.com](https://rd.microsoft.com)
+ - date_published: 2024-05-31T04:45:44+00:00
+
+ ## Sign in to your account
+ - [https://redeem.microsoft.com](https://redeem.microsoft.com)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Microsoft Build interest website - Welcome - Welcome
+ - [https://register.buildinfo.microsoft.com](https://register.buildinfo.microsoft.com)
+ - date_published: 2024-07-19T15:46:50.363514+00:00
+
+ ## Register for Microsoft Build 2024
+ - [https://register.build.microsoft.com](https://register.build.microsoft.com)
+ - date_published: 2024-07-19T15:47:15.836716+00:00
+
+ ## Register now
+ - [https://register.ignite.microsoft.com](https://register.ignite.microsoft.com)
+ - date_published: 2024-10-29T23:29:17.812298+00:00
+
+ ## Microsoft Release Planner
+		 · Microsoft Release Planner
+ - [https://releaseplans.microsoft.com](https://releaseplans.microsoft.com)
+ - date_published: 2024-08-07T22:12:46.414985+00:00
+
+ ## Microsoft Research Forum | Home
+ - [https://researchforum.microsoft.com](https://researchforum.microsoft.com)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## Microsoft Research – Emerging Technology, Computer, and Software Research
+ - [https://research.microsoft.com](https://research.microsoft.com)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## schemas.microsoft.com
+ - [https://schemas.microsoft.com](https://schemas.microsoft.com)
+ - date_published: 2019-03-21T22:39:16+00:00
+
  ## Sign in to your account
  - [https://security.microsoft.com](https://security.microsoft.com)
  - date_published: 2024-04-29T00:00:00+00:00
@@ -4008,52 +4057,4 @@
  ## Misja.com
  - [https://misja.com](https://misja.com)
  - date_published: 2024-05-11T05:41:33.051756+00:00
-
- ## MisNFTs
- - [https://www.misnfts.com](https://www.misnfts.com)
- - date_published: 2024-07-21T04:58:44.517646+00:00
-
- ## Preston Conveyancing Solicitor Prices: How To Compare And Choose The Right Lawyer For You
- - [http://www.misplacedthoughts.com](http://www.misplacedthoughts.com)
- - date_published: 2023-10-24T02:32:35+00:00
-
- ## Attention Required! | Cloudflare
- - [https://misr-online.com](https://misr-online.com)
- - date_published: 2024-06-17T01:22:45.015966+00:00
-
- ## Misrule of Law | A Chronicle of Legal & Judicial Mischief
- - [https://misruleoflaw.com](https://misruleoflaw.com)
- - date_published: 2024-07-03T22:24:34.840002+00:00
-
- ## Login - Miss Affiliate
- - [https://controlpanel.missaffiliate.com](https://controlpanel.missaffiliate.com)
- - date_published: 2024-10-05T22:59:34.076944+00:00
-
- ## Miss Babs Hand-Dyed Yarns
- - [https://www.missbabs.com](https://www.missbabs.com)
- - date_published: 2024-07-07T07:32:29.941552+00:00
-
- ## Miss Bates Reads Romance
- - [https://missbatesreadsromance.com](https://missbatesreadsromance.com)
- - date_published: 2024-09-17T17:35:54.691812+00:00
-
- ## MissBeHelpful | MissBeHelpful.com
- - [https://www.missbehelpful.com](https://www.missbehelpful.com)
- - date_published: 2024-08-18T17:49:27.016957+00:00
-
- ## Miss Celie's Pants
- - [https://missceliespants.com](https://missceliespants.com)
- - date_published: 2024-07-04T00:00:00+00:00
-
- ## Miss Cellania
- - [http://www.misscellania.com](http://www.misscellania.com)
- - date_published: 2024-06-19T22:00:00+00:00
-
- ## Misse Daniel
- - [https://missedaniel.com](https://missedaniel.com)
- - date_published: 2020-11-24T14:44:24+00:00
-
- ## Stuff You Missed in History Class | iHeart
- - [http://www.missedinhistory.com](http://www.missedinhistory.com)
- - date_published: 2024-10-29T18:23:33.399018+00:00
 

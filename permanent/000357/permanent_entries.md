@@ -1,3 +1,148 @@
+ ## Utah Shakespeare Festival | Utah Shakespeare Festival
+ - [http://bard.org](http://bard.org)
+ - date_published: 2024-07-18T00:00:00+00:00
+
+ ## Bard Farm | Local Food - Culture - Farming at Bard College
+ - [https://bardfarm.org](https://bardfarm.org)
+ - date_published: 2024-07-22T08:19:22.962677+00:00
+
+ ## Supporting primary school teaching | Barefoot Computing
+ - [https://www.barefootcomputing.org](https://www.barefootcomputing.org)
+ - date_published: 2024-07-07T13:09:56+00:00
+
+ ## Home | Barjeel Art Foundation
+ - [https://www.barjeelartfoundation.org](https://www.barjeelartfoundation.org)
+ - date_published: 2024-05-04T08:28:15.924902+00:00
+
+ ## Jacob Barkdull
+ - [https://www.barkdull.org](https://www.barkdull.org)
+ - date_published: 2024-08-17T22:56:50.795802+00:00
+
+ ## BarnArts Center for the Arts
+ - [https://barnarts.org](https://barnarts.org)
+ - date_published: 2024-05-10T06:42:31.034168+00:00
+
+ ## The Barnes Foundation
+ - [https://barnesfoundation.org](https://barnesfoundation.org)
+ - date_published: 2024-06-29T11:02:38.448329+00:00
+
+ ## Home - Barnes Review
+ - [https://barnesreview.org](https://barnesreview.org)
+ - date_published: 2024-09-16T19:42:22.518857+00:00
+
+ ## Home
+ - [https://www.barnumfestival.org](https://www.barnumfestival.org)
+ - date_published: 2024-07-01T23:24:40.809976+00:00
+
+ ## Solon Barocas | Principal Researcher, Microsoft Research | Adjunct Assistant Professor, Information Science, Cornell University
+ - [https://solon.barocas.org](https://solon.barocas.org)
+ - date_published: 2024-05-07T19:54:09.668642+00:00
+
+ ## BarracudaCentral.org - Technical Insight for Security Pros
+ - [https://www.barracudacentral.org](https://www.barracudacentral.org)
+ - date_published: 2024-08-18T06:14:24.518584+00:00
+
+ ## Barrier-free Cleveland
+ - [https://www.barrierfreecle.org](https://www.barrierfreecle.org)
+ - date_published: 2024-07-01T11:09:13.444108+00:00
+
+ ## Barry Eidlin
+ - [https://barryeidlin.org](https://barryeidlin.org)
+ - date_published: 2024-06-22T06:19:13.266360+00:00
+
+ ## City of Barstow | Home
+ - [https://www.barstowca.org](https://www.barstowca.org)
+ - date_published: 2024-10-18T15:31:26.369917+00:00
+
+ ## bartlebooth
+ - [https://bartlebooth.org](https://bartlebooth.org)
+ - date_published: 2024-07-04T01:46:35.226095+00:00
+
+ ## Base
+ - [https://base.org](https://base.org)
+ - date_published: 2024-05-08T05:51:45.285370+00:00
+
+ ## Base | Superchain Bridges
+ - [https://bridge.base.org](https://bridge.base.org)
+ - date_published: 2024-09-25T12:18:38.244801+00:00
+
+ ## Base Docs | Base
+ - [https://docs.base.org](https://docs.base.org)
+ - date_published: 2024-09-20T18:28:03+00:00
+
+ ## Base64 Decode and Encode - Online
+ - [https://www.base64decode.org](https://www.base64decode.org)
+ - date_published: 2024-09-26T17:57:56.584323+00:00
+
+ ## Base64 Encode and Decode - Online
+ - [https://www.base64encode.org](https://www.base64encode.org)
+ - date_published: 2024-09-26T17:57:49.156587+00:00
+
+ ## BEST! Base64 Image - Image to Base64 - Image Encoder - Base64 Decoder
+ - [http://base64image.org](http://base64image.org)
+ - date_published: 2024-10-11T12:45:05.179750+00:00
+
+ ## Home | Baseball Hall of Fame
+ - [https://baseballhall.org](https://baseballhall.org)
+ - date_published: 2024-05-07T19:02:44.215069+00:00
+
+ ## National Baseball Hall of Fame Online Store
+ - [https://shop.baseballhall.org](https://shop.baseballhall.org)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## BaselOne: Die Software-Entwicklungskonferenz für das Dreiland
+ - [https://baselone.org](https://baselone.org)
+ - date_published: 2024-07-24T06:06:27.519751+00:00
+
+ ## Baserow status
+ - [https://status.baserow.org](https://status.baserow.org)
+ - date_published: 2024-05-14T03:35:12.412282+00:00
+
+ ## Base (ETH) Blockchain Explorer
+ - [https://basescan.org](https://basescan.org)
+ - date_published: 2024-06-22T05:46:52.867005+00:00
+
+ ## yum - Trac
+ - [https://yum.baseurl.org](https://yum.baseurl.org)
+ - date_published: 2024-05-04T15:45:37.197602+00:00
+
+ ## Home
+ - [https://www.bashh.org](https://www.bashh.org)
+ - date_published: 2024-06-10T00:00:00+00:00
+
+ ## bash-hackers.org
+ - [https://wiki.bash-hackers.org](https://wiki.bash-hackers.org)
+ - date_published: 2024-06-19T22:53:53+00:00
+
+ ## Basic Attention Token
+ - [https://basicattentiontoken.org](https://basicattentiontoken.org)
+ - date_published: 0001-01-01T00:00:00+00:00
+
+ ## Basic Fantasy Role-Playing Game
+ - [https://basicfantasy.org](https://basicfantasy.org)
+ - date_published: 2024-02-20T00:00:00+00:00
+
+ ## Home | BIEN — Basic Income Earth Network
+ - [http://www.basicincome.org](http://www.basicincome.org)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## Basic Research Community for Physics
+ - [https://basic-research.org](https://basic-research.org)
+ - date_published: 2024-05-01T07:48:46.039889+00:00
+
+ ## BRP Central - The Chaosium forums
+ - [https://basicroleplaying.org](https://basicroleplaying.org)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Basilisk Add-ons - Explore Add-ons
+ - [https://addons.basilisk-browser.org](https://addons.basilisk-browser.org)
+ - date_published: 2024-05-12T04:24:23.185557+00:00
+
+ ## Basilisk web browser
+ - [https://basilisk-browser.org](https://basilisk-browser.org)
+ - date_published: 2024-09-13T14:04:22+00:00
+ - tags: ['web-browser', 'web browser', 'open source']
+
  ## Index of /
  - [https://baskerville.org](https://baskerville.org)
  - date_published: 2024-07-13T07:48:55.184472+00:00
@@ -2188,6 +2333,10 @@
  - [https://id.bitdegree.org](https://id.bitdegree.org)
  - date_published: 2024-06-22T00:00:00+00:00
 
+ ## Crypto News Alerts: Bitcoin, Ethereum & Cryptocurrency News
+ - [https://news.bitdegree.org](https://news.bitdegree.org)
+ - date_published: 2024-11-15T15:17:13.297987+00:00
+
  ## Учись и Зарабатывай: Следи за Рынком и Изучай Крипто Сферу!
  - [https://ru.bitdegree.org](https://ru.bitdegree.org)
  - date_published: 2024-06-22T00:00:00+00:00
@@ -3876,153 +4025,4 @@
  ## Services for the Blind and Visually Impaired | Braille Institute
  - [https://brailleinstitute.org](https://brailleinstitute.org)
  - date_published: 2023-10-25T21:03:49.278625+00:00
-
- ## The Braillists Foundation – Our Mission: More Braille!
- - [https://braillists.org](https://braillists.org)
- - date_published: 2024-03-03T12:12:31.384497+00:00
-
- ## Brain and Life Magazine - Trusted by Neurologists
- - [https://brainandlife.org](https://brainandlife.org)
- - date_published: 2024-04-03T00:00:00+00:00
-
- ## BrainFacts
- - [http://www.brainfacts.org](http://www.brainfacts.org)
- - date_published: 2024-07-07T02:13:10.140293+00:00
-
- ## BrainFlow
- - [https://brainflow.org](https://brainflow.org)
- - date_published: 2023-10-27T12:06:33.631461+00:00
-
- ## Brain Map - brain-map.org
- - [http://www.brain-map.org](http://www.brain-map.org)
- - date_published: 2024-08-05T18:20:46.298948+00:00
-
- ## BRAINMAPS.ORG - BRAIN ATLAS, BRAIN MAPS, BRAIN STRUCTURE,
-        NEUROINFORMATICS, BRAIN, STEREOTAXIC ATLAS, NEUROSCIENCE
- - [http://brainmaps.org](http://brainmaps.org)
- - date_published: 2024-08-18T08:34:17.187880+00:00
-
- ## The Marginalian
- - [https://brainpickings.org](https://brainpickings.org)
- - date_published: 2024-07-02T14:39:29+00:00
-
- ## Explore
- - [http://explore.brainpickings.org](http://explore.brainpickings.org)
- - date_published: 2024-06-23T09:42:46.067124+00:00
-
- ## Brakeman
- - [http://brakemanscanner.org](http://brakemanscanner.org)
- - date_published: 2024-07-05T21:29:19+00:00
-
- ## Brands for Democracy | Rock the Vote
- - [https://brandsfordemocracy.org](https://brandsfordemocracy.org)
- - date_published: 2024-07-12T00:00:00+00:00
-
- ## brandur.org — Brandur Leach
- - [https://brandur.org](https://brandur.org)
- - date_published: 2023-10-27T12:06:34.276245+00:00
-
- ## Brandywine Museum of Art
- - [https://collections.brandywine.org](https://collections.brandywine.org)
- - date_published: 2024-07-02T10:27:47.291176+00:00
-
- ## Brandywine Homepage | Brandywine Conservancy and Museum of Art
- - [https://www.brandywine.org](https://www.brandywine.org)
- - date_published: 2024-07-02T10:27:09.764803+00:00
-
- ## Home - Brasil a Gosto Institute
- - [https://brasilagosto.org](https://brasilagosto.org)
- - date_published: 2024-05-04T08:28:56.705347+00:00
-
- ## Brass Lantern Adventure Games Information
- - [http://brasslantern.org](http://brasslantern.org)
- - date_published: 2022-07-28T18:17:58+00:00
-
- ## The Baton Rouge Astronomical Society
- - [https://brastro.org](https://brastro.org)
- - date_published: 2024-02-08T16:46:06.487557+00:00
-
- ## Town of Brattleboro, Vermont
- - [http://www.brattleboro.org](http://www.brattleboro.org)
- - date_published: 2024-06-28T13:14:16.888890+00:00
-
- ## The Brattle
- - [https://brattlefilm.org](https://brattlefilm.org)
- - date_published: 2024-08-11T08:28:10.688595+00:00
-
- ## Stig's Soapbox
- - [https://brautaset.org](https://brautaset.org)
- - date_published: 2023-10-25T21:04:05.893123+00:00
-
- ## BRAVE Alliance: Building Radically Affirming & Validating Environments in Fort Wayne. Proudly serving the LGBTQ+ Community
- - [https://bravefortwayne.org](https://bravefortwayne.org)
- - date_published: 2024-06-12T22:22:52.758824+00:00
-
- ## Braver Angels
- - [http://braverangels.org](http://braverangels.org)
- - date_published: 2024-06-21T20:40:22.146013+00:00
-
- ## 10 Best Crypto Mining Apps for iPhone and iPad (2024)
- - [http://www.braymethodist.org](http://www.braymethodist.org)
- - date_published: 2024-07-05T18:55:39+00:00
-
- ## BRAZIL GAMES EXPORT PROGRAM
- - [https://www.brazilgames.org](https://www.brazilgames.org)
- - date_published: 2024-06-26T21:56:24.939077+00:00
-
- ## Bread for the World: We Speak Up to End Hunger
- - [http://www.bread.org](http://www.bread.org)
- - date_published: 2024-03-28T00:00:00+00:00
-
- ## خبز ونت || Bread&Net
- - [https://www.breadandnet.org](https://www.breadandnet.org)
- - date_published: 2024-07-16T20:39:14.348921+00:00
-
- ## Breakpoint - A program of the Colson Center for Christian Worldview
- - [https://breakpoint.org](https://breakpoint.org)
- - date_published: 2024-04-01T00:00:00+00:00
-
- ## Home - Breakthrough at Kent Denver
- - [https://breakthroughdenver.org](https://breakthroughdenver.org)
- - date_published: 2024-02-08T16:33:37.573152+00:00
-
- ## The State of the Transition Report 2023
- - [https://2023.breakthroughenergy.org](https://2023.breakthroughenergy.org)
- - date_published: 2024-10-31T20:09:57.593529+00:00
-
- ## Breakthrough Energy
- - [https://breakthroughenergy.org](https://breakthroughenergy.org)
- - date_published: 2024-06-20T01:49:53.042783+00:00
-
- ## The State of the Transition Report 2023
- - [https://transition.breakthroughenergy.org](https://transition.breakthroughenergy.org)
- - date_published: 2024-06-20T01:49:54.589440+00:00
-
- ## Breakthrough Initiatives
- - [https://breakthroughinitiatives.org](https://breakthroughinitiatives.org)
- - date_published: 2024-07-16T17:48:39.715703+00:00
-
- ## The Breakthrough Journal | Substack
- - [https://www.breakthroughjournal.org](https://www.breakthroughjournal.org)
- - date_published: 2024-10-31T22:44:31.200874+00:00
-
- ## Breakthrough Prize
- - [https://breakthroughprize.org](https://breakthroughprize.org)
- - date_published: 2024-10-19T04:34:30.165365+00:00
-
- ## Chicago
- - [https://chicago.breakthroughtech.org](https://chicago.breakthroughtech.org)
- - date_published: 2024-09-13T18:41:10.204117+00:00
-
- ## DC
- - [https://dc.breakthroughtech.org](https://dc.breakthroughtech.org)
- - date_published: 2024-06-13T20:58:33.139383+00:00
-
- ## Miami - Break Through Tech
- - [http://miami.breakthroughtech.org](http://miami.breakthroughtech.org)
- - date_published: 2024-09-13T18:41:08.438131+00:00
-
- ## Break Through Tech
- - [https://www.breakthroughtech.org](https://www.breakthroughtech.org)
- - date_published: 2024-05-30T17:04:21+00:00
 

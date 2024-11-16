@@ -1,3 +1,15 @@
+ ## Mystery Fanfare
+ - [https://mysteryreadersinc.blogspot.com](https://mysteryreadersinc.blogspot.com)
+ - date_published: 2024-10-17T23:16:34.511002+00:00
+
+ ## Mystery Writing is Murder
+ - [http://mysterywritingismurder.blogspot.com](http://mysterywritingismurder.blogspot.com)
+ - date_published: 2024-04-01T09:17:08+00:00
+
+ ## mystic bourgeoisie
+ - [https://mysticbourgeoisie.blogspot.com](https://mysticbourgeoisie.blogspot.com)
+ - date_published: 2024-02-20T21:24:01+00:00
+
  ## My Technicolour World
  - [https://mytechnicolourworld.blogspot.com](https://mytechnicolourworld.blogspot.com)
  - date_published: 2024-05-13T10:04:51+00:00
@@ -3998,16 +4010,4 @@
  ## PrairiePundit
  - [http://prairiepundit.blogspot.com](http://prairiepundit.blogspot.com)
  - date_published: 2024-06-27T07:14:35+00:00
-
- ## Praise, Curse, and Recurse
- - [http://praisecurseandrecurse.blogspot.com](http://praisecurseandrecurse.blogspot.com)
- - date_published: 2024-03-13T02:48:39+00:00
-
- ## ScarletGuju
- - [http://pranavjani.blogspot.com](http://pranavjani.blogspot.com)
- - date_published: 2024-10-21T17:02:19.356194+00:00
-
- ## Pascal Rapicault
- - [http://prapicault.blogspot.com](http://prapicault.blogspot.com)
- - date_published: 2024-03-08T02:45:49+00:00
 

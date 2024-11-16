@@ -1,3 +1,163 @@
+ ## Державна податкова служба України
+ - [https://tax.gov.ua](https://tax.gov.ua)
+ - date_published: 2024-06-17T17:10:07.613469+00:00
+
+ ## Кабінет учасника
+ - [https://my.testportal.gov.ua](https://my.testportal.gov.ua)
+ - date_published: 2024-06-17T17:09:15.239058+00:00
+
+ ## Pisa Ukraine - дослідження заради якості освіти
+ - [http://pisa.testportal.gov.ua](http://pisa.testportal.gov.ua)
+ - date_published: 2024-06-17T17:10:05.191771+00:00
+
+ ## Український центр оцінювання якості освіти
+ - [https://testportal.gov.ua](https://testportal.gov.ua)
+ - date_published: 2024-05-02T10:42:14.808737+00:00
+
+ ## Міністерство цифрової трансформації України
+ - [https://thedigital.gov.ua](https://thedigital.gov.ua)
+ - date_published: 2024-07-08T11:34:34.499313+00:00
+
+ ## UNITED24 - The initiative of the President of Ukraine
+ - [https://u24.gov.ua](https://u24.gov.ua)
+ - date_published: 2024-04-28T05:56:38.894735+00:00
+
+ ## Український інститут національної пам'яті - офіційний веб-сайт
+ - [https://uinp.gov.ua](https://uinp.gov.ua)
+ - date_published: 2024-07-15T03:14:18.439344+00:00
+
+ ## Урядовий контактний центр »
+ - [https://ukc.gov.ua](https://ukc.gov.ua)
+ - date_published: 2024-06-17T17:08:16.691717+00:00
+
+ ## Урядовий контактний центр
+ - [https://video.ukc.gov.ua](https://video.ukc.gov.ua)
+ - date_published: 2024-10-19T23:11:12.619818+00:00
+
+ ## Головна - UkraineInvest
+ - [https://ukraineinvest.gov.ua](https://ukraineinvest.gov.ua)
+ - date_published: 2021-09-30T12:16:59+00:00
+
+ ## Головна
+ - [https://apostille.in.ua](https://apostille.in.ua)
+ - date_published: 2024-06-17T17:06:20.713122+00:00
+
+ ## Арсен Мосійчук
+ - [https://arsenmosiichuk.in.ua](https://arsenmosiichuk.in.ua)
+ - date_published: 2024-06-26T00:00:00+00:00
+
+ ## EUКраїна – все, що ви хотіли знати про євроінтеграцію
+ - [https://association4u.in.ua](https://association4u.in.ua)
+ - date_published: 2024-10-19T23:13:40.206057+00:00
+
+ ## Благодійний фонд "Повернись живим" - допомoга ЗСУ
+ - [https://www.comebackalive.in.ua](https://www.comebackalive.in.ua)
+ - date_published: 2024-06-27T12:48:30.940238+00:00
+
+ ## Home — Debiania
+ - [https://blog.debiania.in.ua](https://blog.debiania.in.ua)
+ - date_published: 2024-03-25T00:00:00+00:00
+
+ ## Освітній хаб міста Києва
+ - [https://eduhub.in.ua](https://eduhub.in.ua)
+ - date_published: 2024-10-19T23:21:17.916979+00:00
+
+ ## Головна
+ - [https://finmonitoring.in.ua](https://finmonitoring.in.ua)
+ - date_published: 2024-03-01T00:00:00+00:00
+
+ ## Віртуальна платформа емоційної та кар’єрної підтримки
+ - [https://consulting.hryoutest.in.ua](https://consulting.hryoutest.in.ua)
+ - date_published: 2024-10-19T23:22:19.352343+00:00
+
+ ## ВСЕУКРАЇНСЬКИЙ ПРОЄКТ З ПРОФОРІЄНТАЦІЇ  ТА ПОБУДОВИ КАР’ЄРИ
+ - [https://hryoutest.in.ua](https://hryoutest.in.ua)
+ - date_published: 2024-06-17T17:10:18.311014+00:00
+
+ ## ONLINE REGISTRATION
+ - [http://www.iec-expo.in.ua](http://www.iec-expo.in.ua)
+ - date_published: 2024-09-19T20:00:32+00:00
+
+ ## Розробка та просування сайтів в Україні – веб студія «Jam»
+ - [https://jam.in.ua](https://jam.in.ua)
+ - date_published: 2024-05-27T00:00:00+00:00
+
+ ## Міжнародний центр математики в Україні
+ - [https://mathcentre.in.ua](https://mathcentre.in.ua)
+ - date_published: 2024-07-13T03:06:43.039550+00:00
+
+ ## Militarnyi
+ - [https://mil.in.ua](https://mil.in.ua)
+ - date_published: 2024-01-03T16:08:05.494735+00:00
+
+ ## moyamova.in.ua
+ - [https://moyamova.in.ua](https://moyamova.in.ua)
+ - date_published: 2024-10-19T23:21:16.524941+00:00
+
+ ## Home
+ - [http://nuft.in.ua](http://nuft.in.ua)
+ - date_published: 2024-06-17T17:07:47.373489+00:00
+
+ ## Онлайн казино Украины топ рейтинг казино на деньги 2024
+ - [https://onlinecasino.in.ua](https://onlinecasino.in.ua)
+ - date_published: 2024-06-21T21:03:01.101993+00:00
+
+ ## Онлайн казино України топ рейтинг казино на гроші 2024
+ - [https://uk.onlinecasino.in.ua](https://uk.onlinecasino.in.ua)
+ - date_published: 2024-09-09T20:53:56.762994+00:00
+
+ ## Онлайн Казино України – Рейтинг топ online casino від Prointernet
+ - [https://prointernet.in.ua](https://prointernet.in.ua)
+ - date_published: 2024-10-19T22:49:47.277200+00:00
+
+ ## Обійми Дощу / Obiymy Doschu
+ - [https://rain.in.ua](https://rain.in.ua)
+ - date_published: 2024-06-26T22:40:45.605600+00:00
+
+ ## Благодійний фонд "Повернись живим" - допомoга ЗСУ
+ - [https://savelife.in.ua](https://savelife.in.ua)
+ - date_published: 2024-05-02T10:42:41.618877+00:00
+
+ ## Освіта під загрозою
+ - [https://saveschools.in.ua](https://saveschools.in.ua)
+ - date_published: 2024-06-03T00:00:00+00:00
+
+ ## Свідомі | онлайн-медіа
+ - [https://svidomi.in.ua](https://svidomi.in.ua)
+ - date_published: 2024-07-08T20:51:18.812902+00:00
+
+ ## Український культурний фонд
+ - [https://ucf.in.ua](https://ucf.in.ua)
+ - date_published: 2024-10-19T23:20:05.642318+00:00
+
+ ## Elai.io - The Most Advanced and Intuitive AI Video Generator
+ - [https://elai2.umkasn.in.ua](https://elai2.umkasn.in.ua)
+ - date_published: 2024-10-30T17:17:48.385427+00:00
+
+ ## Зрозуміло!
+ - [https://courses.zrozumilo.in.ua](https://courses.zrozumilo.in.ua)
+ - date_published: 2024-09-19T19:47:34.905085+00:00
+
+ ## Кафедра кібербезпеки – Інститут комп'ютерних наук та інформаційних технологій
+ - [https://cybersecurity.kpi.kharkov.ua](https://cybersecurity.kpi.kharkov.ua)
+ - date_published: 2024-10-11T12:15:19.760907+00:00
+
+ ## Home · BITP Indico (Indico)
+ - [https://indico.bitp.kiev.ua](https://indico.bitp.kiev.ua)
+ - date_published: 2024-06-15T19:40:38.753494+00:00
+
+ ## Apache2 Ubuntu Default Page: It works
+ - [http://aspirantura.imath.kiev.ua](http://aspirantura.imath.kiev.ua)
+ - date_published: 2022-08-26T17:27:19+00:00
+
+ ## BigBlueButton
+ - [https://bbb.imath.kiev.ua](https://bbb.imath.kiev.ua)
+ - date_published: 2024-06-15T19:40:35.195329+00:00
+
+ ## Home · IM Events (Indico)
+ - [https://events.imath.kiev.ua](https://events.imath.kiev.ua)
+ - date_published: 2024-06-15T19:40:34.034628+00:00
+
  ## Інститут математики НАН України
  - [https://imath.kiev.ua](https://imath.kiev.ua)
  - date_published: 2024-05-01T04:17:07.544790+00:00
@@ -3851,164 +4011,4 @@
  ## Digital Education Systems Help | University of Leeds Digital Education Systems
  - [https://desystemshelp.leeds.ac.uk](https://desystemshelp.leeds.ac.uk)
  - date_published: 2024-06-17T18:08:16.646857+00:00
-
- ## Faculty of Environment
- - [https://environment.leeds.ac.uk](https://environment.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:59.660078+00:00
-
- ## Faculty of Engineering and Physical Sciences
- - [https://eps.leeds.ac.uk](https://eps.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:12.006645+00:00
-
- ## Equality & Inclusion Unit (E&IU) - Equality and Inclusion Unit
- - [https://equality.leeds.ac.uk](https://equality.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:05.200596+00:00
-
- ## Faculty of Social Sciences - Site Homepage
- - [https://essl.leeds.ac.uk](https://essl.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:13.529579+00:00
-
- ## FSS Professional Support Services
- - [https://essl-staff.leeds.ac.uk](https://essl-staff.leeds.ac.uk)
- - date_published: 2024-06-17T18:09:04.710247+00:00
-
- ## Estates and Facilities - University of Leeds
- - [https://estates.leeds.ac.uk](https://estates.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:22.633344+00:00
-
- ## Resources | Library | University of Leeds
- - [https://explore.library.leeds.ac.uk](https://explore.library.leeds.ac.uk)
- - date_published: 2022-10-04T13:43:49+00:00
-
- ## Facilities Directorate - University of Leeds
- - [https://facilitiesdirectorate.leeds.ac.uk](https://facilitiesdirectorate.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:10.428209+00:00
-
- ## Forstaff main index
- - [https://forstaff.leeds.ac.uk](https://forstaff.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:06.762153+00:00
-
- ## Great Food at Leeds - University of Leeds
- - [https://gfal.leeds.ac.uk](https://gfal.leeds.ac.uk)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Human Resources  Homepage
- - [https://hr.leeds.ac.uk](https://hr.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:05.638582+00:00
-
- ## Insurance
- - [https://insurance.leeds.ac.uk](https://insurance.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:13.843897+00:00
-
- ## IT Self Service - University of Leeds IT
- - [https://it.leeds.ac.uk](https://it.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:43.242119+00:00
-
- ## Jobs at the University of Leeds
- - [https://jobs.leeds.ac.uk](https://jobs.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:58.748001+00:00
-
- ## Leeds Arts and Humanities Research Institute | Fostering a culture of interdisciplinary research across and beyond the arts and humanities
- - [https://lahri.leeds.ac.uk](https://lahri.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:59.692204+00:00
-
- ## The Language Scholar
- - [https://languagescholar.leeds.ac.uk](https://languagescholar.leeds.ac.uk)
- - date_published: 2024-06-17T14:09:04.752085+00:00
-
- ## Leeds for Life
- - [https://leedsforlife.leeds.ac.uk](https://leedsforlife.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:24.189482+00:00
-
- ## Library Homepage
- - [https://library.leeds.ac.uk](https://library.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:55.989223+00:00
-
- ## Faculty of Medicine and Health
- - [http://medhealth.leeds.ac.uk](http://medhealth.leeds.ac.uk)
- - date_published: 2024-06-17T18:09:28.298831+00:00
-
- ## Faculty of Medicine and Health
- - [https://medicinehealth.leeds.ac.uk](https://medicinehealth.leeds.ac.uk)
- - date_published: 2024-05-02T10:56:09.175072+00:00
-
- ## Sign in to your account
- - [https://minerva.leeds.ac.uk](https://minerva.leeds.ac.uk)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## VideoLeeds
- - [https://mymedia.leeds.ac.uk](https://mymedia.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:53.340522+00:00
-
- ## Sign in to your account
- - [http://office365.leeds.ac.uk](http://office365.leeds.ac.uk)
- - date_published: 2024-06-17T00:00:00+00:00
-
- ## OD&PL University of Leeds
- - [https://peopledevelopment.leeds.ac.uk](https://peopledevelopment.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:25.652991+00:00
-
- ## Postgraduate research opportunities
- - [https://phd.leeds.ac.uk](https://phd.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:53.054043+00:00
-
- ## Blackboard Learn
- - [http://portal.leeds.ac.uk](http://portal.leeds.ac.uk)
- - date_published: 2004-06-17T18:06:43+00:00
-
- ## PRiSM - Pedagogic Research in Mathematics and Physical Sciences | University of Leeds
- - [https://prism.leeds.ac.uk](https://prism.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:58.507235+00:00
-
- ## University of Leeds :: Jadu CMS Homepage
- - [https://production2.leeds.ac.uk](https://production2.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:20.519122+00:00
-
- ## Symplectic Elements
- - [https://publications.leeds.ac.uk](https://publications.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:40.798223+00:00
-
- ## Relocate@Leeds - University of Leeds
- - [http://relocate.leeds.ac.uk](http://relocate.leeds.ac.uk)
- - date_published: 2024-10-20T05:01:35.979491+00:00
-
- ## University of Leeds : Haplo
- - [https://research.leeds.ac.uk](https://research.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:15.577884+00:00
-
- ## School of Earth and Environment
- - [https://see.leeds.ac.uk](https://see.leeds.ac.uk)
- - date_published: 2024-05-07T15:00:53.438105+00:00
-
- ## Student Education Service | University of Leeds
- - [https://ses.leeds.ac.uk](https://ses.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:45.568524+00:00
-
- ## Student Education Development (OD&PL) University of Leeds
- - [https://studenteddev.leeds.ac.uk](https://studenteddev.leeds.ac.uk)
- - date_published: 2024-10-20T05:05:43.919321+00:00
-
- ## Redirecting...
- - [https://studentservices.leeds.ac.uk](https://studentservices.leeds.ac.uk)
- - date_published: 2024-05-13T17:48:56+00:00
-
- ## Academic Life
- - [https://students.leeds.ac.uk](https://students.leeds.ac.uk)
- - date_published: 2024-05-02T10:55:24.938110+00:00
-
- ## The Sustainability Service at the University of Leeds
- - [https://sustainability.leeds.ac.uk](https://sustainability.leeds.ac.uk)
- - date_published: 2024-06-17T18:07:45.690291+00:00
-
- ## Virtual Tour - University of Leeds
- - [https://virtualcampustour.leeds.ac.uk](https://virtualcampustour.leeds.ac.uk)
- - date_published: 2021-11-30T09:44:51+00:00
-
- ## webprod2.leeds.ac.uk
- - [http://webprod3.leeds.ac.uk](http://webprod3.leeds.ac.uk)
- - date_published: 2011-07-08T13:36:18+00:00
-
- ## Wellbeing, Safety and Health | University of Leeds
- - [https://wsh.leeds.ac.uk](https://wsh.leeds.ac.uk)
- - date_published: 2024-06-17T18:08:19.882909+00:00
 

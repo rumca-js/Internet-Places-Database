@@ -1,3 +1,15 @@
+ ## Bible Films Blog
+ - [https://biblefilms.blogspot.com](https://biblefilms.blogspot.com)
+ - date_published: 2024-06-23T00:00:00+00:00
+
+ ## Women  in the Bible
+ - [https://bible-women.blogspot.com](https://bible-women.blogspot.com)
+ - date_published: 2024-03-13T00:13:48+00:00
+
+ ## BibliOdyssey
+ - [http://bibliodyssey.blogspot.com](http://bibliodyssey.blogspot.com)
+ - date_published: 2024-06-14T17:53:19+00:00
+
  ## Bibliopolitan: Brief Notes on Books
  - [http://bibliopolitan.blogspot.com](http://bibliopolitan.blogspot.com)
  - date_published: 2024-08-16T01:07:30+00:00
@@ -4002,16 +4014,4 @@
  ## Cultural Property Repatriation News and Issues
  - [http://culturalpropertyrepat.blogspot.com](http://culturalpropertyrepat.blogspot.com)
  - date_published: 2024-06-15T18:18:26+00:00
-
- ## cultural snow
- - [https://culturalsnow.blogspot.com](https://culturalsnow.blogspot.com)
- - date_published: 2024-09-05T20:14:53+00:00
-
- ## The Culture Curve
- - [http://culturecurve.blogspot.com](http://culturecurve.blogspot.com)
- - date_published: 2006-09-15T00:00:00+00:00
-
- ## The Culture Ghost
- - [http://cultureghost.blogspot.com](http://cultureghost.blogspot.com)
- - date_published: 2024-10-19T08:23:35.613708+00:00
 

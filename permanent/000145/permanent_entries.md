@@ -1,3 +1,51 @@
+ ## Soheil Novinfard – Medium
+ - [https://novinfard.medium.com](https://novinfard.medium.com)
+ - date_published: 2024-06-23T14:37:19.056896+00:00
+
+ ## Udoh N. Kelven – Medium
+ - [https://nsemboo.medium.com](https://nsemboo.medium.com)
+ - date_published: 2024-07-08T16:49:50.274537+00:00
+
+ ## Antoine Craske – Medium
+ - [https://nto1.medium.com](https://nto1.medium.com)
+ - date_published: 2024-10-16T04:56:11.858189+00:00
+
+ ## NYU Center for Data Science – Medium
+ - [https://nyudatascience.medium.com](https://nyudatascience.medium.com)
+ - date_published: 2024-07-01T16:39:01.122179+00:00
+
+ ## Obie Fernandez – Medium
+ - [https://obie.medium.com](https://obie.medium.com)
+ - date_published: 2023-10-25T10:22:12.616559+00:00
+
+ ## Chris O'Brien – Medium
+ - [https://obrien.medium.com](https://obrien.medium.com)
+ - date_published: 2024-06-21T07:07:25.579500+00:00
+
+ ## Toby O'Connell – Medium
+ - [https://oconnelltoby.medium.com](https://oconnelltoby.medium.com)
+ - date_published: 2024-06-23T14:59:56.435274+00:00
+
+ ## Dan Saffer – Medium
+ - [https://odannyboy.medium.com](https://odannyboy.medium.com)
+ - date_published: 2024-09-05T12:53:26.330789+00:00
+
+ ## ODSC - Open Data Science – Medium
+ - [https://odsc.medium.com](https://odsc.medium.com)
+ - date_published: 2024-09-04T04:03:21.788829+00:00
+
+ ## Offchain Labs – Medium
+ - [https://offchain.medium.com](https://offchain.medium.com)
+ - date_published: 2024-03-14T00:00:00+00:00
+
+ ## Open Info – Medium
+ - [https://oi-vrfd.medium.com](https://oi-vrfd.medium.com)
+ - date_published: 2024-04-28T02:12:28.807987+00:00
+
+ ## Ojamu – Medium
+ - [https://ojamu.medium.com](https://ojamu.medium.com)
+ - date_published: 2024-10-30T12:18:53.080288+00:00
+
  ## Juan – Medium
  - [https://okjuan.medium.com](https://okjuan.medium.com)
  - date_published: 2024-05-12T06:14:58.254764+00:00
@@ -3969,53 +4017,4 @@
  - [https://mermeliz.com](https://mermeliz.com)
  - date_published: 2024-05-27T21:22:20+00:00
  - tags: ['personal']
-
- ## Meross Official Store
- - [https://shop.meross.com](https://shop.meross.com)
- - date_published: 2024-08-06T05:46:22.401191+00:00
-
- ## Meross Offical Site, Smart House and Home Automation Device Provider.
- - [https://www.meross.com](https://www.meross.com)
- - date_published: 2024-06-23T05:59:40.090304+00:00
-
- ## Meroxa
- - [https://docs.meroxa.com](https://docs.meroxa.com)
- - date_published: 2024-07-22T11:04:52.736138+00:00
-
- ## News — Middle-earth Role-Playing Community Website
- - [http://merp.com](http://merp.com)
- - date_published: 2024-06-18T21:44:37.843146+00:00
-
- ## Merpay, Inc.
- - [https://en.merpay.com](https://en.merpay.com)
- - date_published: 2024-10-22T17:25:06.521830+00:00
-
- ## 株式会社メルペイ
- - [https://jp.merpay.com](https://jp.merpay.com)
- - date_published: 2024-04-22T00:00:00+00:00
-
- ## メルペイ - メルカリアプリでかんたんスマホ決済・QRコード決済
- - [https://www.merpay.com](https://www.merpay.com)
- - date_published: 2024-10-22T17:25:04.485210+00:00
-
- ## merr.com now TDS
- - [http://www.merr.com](http://www.merr.com)
- - date_published: 2024-06-29T16:10:33.186116+00:00
-
- ## Merriam-Webster: America's Most Trusted Dictionary
- - [https://merriam-webster.com](https://merriam-webster.com)
- - date_published: 2024-06-24T00:00:00+00:00
- - tags: ['dictionary']
-
- ## Merriam-Webster Dictionaries
- - [https://shop.merriam-webster.com](https://shop.merriam-webster.com)
- - date_published: 2024-07-03T19:21:22.487633+00:00
-
- ## The Unabridged Dictionary by Merriam-Webster
- - [http://unabridged.merriam-webster.com](http://unabridged.merriam-webster.com)
- - date_published: 2024-07-02T00:00:00+00:00
-
- ## Merrick Christensen
- - [https://www.merrickchristensen.com](https://www.merrickchristensen.com)
- - date_published: 2024-08-19T06:53:17.192380+00:00
 

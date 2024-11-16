@@ -1,3 +1,107 @@
+ ## CMU 15-721 :: Advanced Database Systems (Spring 2024)
+ - [https://15721.courses.cs.cmu.edu](https://15721.courses.cs.cmu.edu)
+ - date_published: 2024-04-29T07:32:37.241622+00:00
+
+ ## CMU CS Academy
+ - [https://academy.cs.cmu.edu](https://academy.cs.cmu.edu)
+ - date_published: 2023-10-25T18:49:39.691260+00:00
+
+ ## Artificial Intelligence - AI at CMU - Carnegie Mellon University
+ - [https://ai.cmu.edu](https://ai.cmu.edu)
+ - date_published: 2024-04-30T03:46:14.676168+00:00
+
+ ## www.andrew.cmu.edu
+ - [https://andrew.cmu.edu](https://andrew.cmu.edu)
+ - date_published: 2024-07-14T19:31:14.130050+00:00
+
+ ## Web Login Service - Loading Session Information
+ - [https://andy.qatar.cmu.edu](https://andy.qatar.cmu.edu)
+ - date_published: 2024-08-08T22:48:34.380877+00:00
+
+ ## Heinz College Admissions
+ - [https://apply.heinz.cmu.edu](https://apply.heinz.cmu.edu)
+ - date_published: 2024-07-07T06:13:40.429515+00:00
+
+ ## Carnegie Mellon University Athletics
+ - [https://athletics.cmu.edu](https://athletics.cmu.edu)
+ - date_published: 2024-04-28T00:00:00+00:00
+
+ ## Biorobotics Lab
+ - [http://biorobotics.ri.cmu.edu](http://biorobotics.ri.cmu.edu)
+ - date_published: 2024-06-22T10:06:38.045556+00:00
+
+ ## Machine Learning Blog | ML@CMU | Carnegie Mellon University
+ - [https://blog.ml.cmu.edu](https://blog.ml.cmu.edu)
+ - date_published: 2024-05-10T05:01:07.004408+00:00
+
+ ## Coding Bootcamp by CMU TechBridge
+ - [http://bootcamps.cs.cmu.edu](http://bootcamps.cs.cmu.edu)
+ - date_published: 2024-06-19T00:00:00+00:00
+
+ ## SCS Building Facilities - SCS Building Facilities - Carnegie Mellon University
+ - [https://building.cs.cmu.edu](https://building.cs.cmu.edu)
+ - date_published: 2024-04-30T03:46:33.275954+00:00
+
+ ## Ray and Stephanie Lane Computational Biology Department | Carnegie Mellon University - Ray and Stephanie Lane Computational Biology Department - School of Computer Science - Carnegie Mellon University
+ - [https://cbd.cmu.edu](https://cbd.cmu.edu)
+ - date_published: 2024-04-30T03:46:41.592511+00:00
+
+ ## CMU Computer Club
+ - [https://club.cc.cmu.edu](https://club.cc.cmu.edu)
+ - date_published: 2024-07-20T10:31:37.582417+00:00
+
+ ## Index of /
+ - [http://cms-staging.andrew.cmu.edu](http://cms-staging.andrew.cmu.edu)
+ - date_published: 2024-08-07T16:54:12.615800+00:00
+
+ ## Homepage - CMU - Carnegie Mellon University
+ - [https://cmu.edu](https://cmu.edu)
+ - date_published: 2024-05-04T09:00:42.781219+00:00
+
+ ## Homepage - SCS Computing Facilities - Carnegie Mellon University
+ - [https://computing.cs.cmu.edu](https://computing.cs.cmu.edu)
+ - date_published: 2024-04-30T03:46:26.139220+00:00
+
+ ## 2023-2024 Undergraduate Catalog < Carnegie Mellon University
+ - [http://coursecatalog.web.cmu.edu](http://coursecatalog.web.cmu.edu)
+ - date_published: 2024-01-19T17:30:19+00:00
+
+ ## ECE:Course Page - Electrical and Computer Engineering - College of Engineering - Carnegie Mellon University
+ - [https://courses.ece.cmu.edu](https://courses.ece.cmu.edu)
+ - date_published: 2024-04-30T03:46:01.006585+00:00
+
+ ## Course Sites - IDeATe - Carnegie Mellon University
+ - [https://courses.ideate.cmu.edu](https://courses.ideate.cmu.edu)
+ - date_published: 2024-07-17T16:15:17+00:00
+
+ ## CMU School of Computer Science
+ - [https://cs.cmu.edu](https://cs.cmu.edu)
+ - date_published: 2024-04-30T03:46:19.667457+00:00
+
+ ## Home | Carnegie Mellon University Computer Science Department
+ - [https://csd.cmu.edu](https://csd.cmu.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## CyLab Security & Privacy Institute
+ - [https://cylab.cmu.edu](https://cylab.cmu.edu)
+ - date_published: 2024-05-08T11:29:30.282164+00:00
+
+ ## Carnegie Mellon Database Group
+ - [https://db.cs.cmu.edu](https://db.cs.cmu.edu)
+ - date_published: 2023-10-25T18:49:41.742513+00:00
+
+ ## Home | CMU School of Design
+ - [https://design.cmu.edu](https://design.cmu.edu)
+ - date_published: 2024-07-12T14:36:10+00:00
+
+ ## CMU Data Interaction Group
+ - [https://dig.cmu.edu](https://dig.cmu.edu)
+ - date_published: 2024-07-02T02:47:22+00:00
+
+ ## Digital Collections
+ - [https://digitalcollections.library.cmu.edu](https://digitalcollections.library.cmu.edu)
+ - date_published: 2024-07-22T06:12:24.937785+00:00
+
  ## Directory Search - CMU - Carnegie Mellon University
  - [https://directory.andrew.cmu.edu](https://directory.andrew.cmu.edu)
  - date_published: 2024-07-22T06:11:20.384492+00:00
@@ -3898,108 +4002,4 @@ Mellon University
  ## Home
  - [https://music.dartmouth.edu](https://music.dartmouth.edu)
  - date_published: 2019-12-05T14:41:29+00:00
-
- ## My Account @ Dartmouth
- - [https://myaccount.dartmouth.edu](https://myaccount.dartmouth.edu)
- - date_published: 2023-06-05T04:49:22+00:00
-
- ## Home
- - [https://native-american.dartmouth.edu](https://native-american.dartmouth.edu)
- - date_published: 2019-09-10T21:43:00+00:00
-
- ## Dartmouth News | Dartmouth
- - [https://news.dartmouth.edu](https://news.dartmouth.edu)
- - date_published: 2024-07-19T20:22:36+00:00
-
- ## Next Step: Ivy League Business Education for Military Veterans and Athletes
- - [http://nextstep.tuck.dartmouth.edu](http://nextstep.tuck.dartmouth.edu)
- - date_published: 2024-01-12T00:00:00+00:00
-
- ## Home
- - [https://pbs.dartmouth.edu](https://pbs.dartmouth.edu)
- - date_published: 2019-08-28T20:24:31+00:00
-
- ## Home Grid
- - [https://philosophy.dartmouth.edu](https://philosophy.dartmouth.edu)
- - date_published: 2020-12-18T18:00:42+00:00
-
- ## Home
- - [https://physics.dartmouth.edu](https://physics.dartmouth.edu)
- - date_published: 2020-11-05T19:51:28+00:00
-
- ## Home
- - [https://policies.dartmouth.edu](https://policies.dartmouth.edu)
- - date_published: 2020-07-07T12:02:40+00:00
-
- ## Alt Home
- - [https://qss.dartmouth.edu](https://qss.dartmouth.edu)
- - date_published: 2020-12-09T14:20:52+00:00
-
- ## REO Home
- - [http://realestate.dartmouth.edu](http://realestate.dartmouth.edu)
- - date_published: 2016-03-11T22:34:45+00:00
-
- ## Home
- - [https://religion.dartmouth.edu](https://religion.dartmouth.edu)
- - date_published: 2022-03-10T16:29:40+00:00
-
- ## Revers Center for Energy, Sustainability and Innovation | Home
- - [https://revers.tuck.dartmouth.edu](https://revers.tuck.dartmouth.edu)
- - date_published: 2024-07-22T04:43:03+00:00
-
- ## Dartmouth College Applicant Portal | Home
- - [https://searchjobs.dartmouth.edu](https://searchjobs.dartmouth.edu)
- - date_published: 2024-04-30T04:04:46.555384+00:00
-
- ## Home
- - [https://services.dartmouth.edu](https://services.dartmouth.edu)
- - date_published: 2024-08-19T20:13:46.342463+00:00
-
- ## Homepage
- - [https://sexual-respect.dartmouth.edu](https://sexual-respect.dartmouth.edu)
- - date_published: 2018-09-17T14:00:41+00:00
-
- ## Sites at Dartmouth
- - [https://sites.dartmouth.edu](https://sites.dartmouth.edu)
- - date_published: 2024-07-22T04:25:42+00:00
-
- ## Home
- - [https://sociology.dartmouth.edu](https://sociology.dartmouth.edu)
- - date_published: 2020-02-29T20:00:26+00:00
-
- ## .
- - [https://spanport.dartmouth.edu](https://spanport.dartmouth.edu)
- - date_published: 2020-10-29T18:32:17+00:00
-
- ## Home
- - [https://speech.dartmouth.edu](https://speech.dartmouth.edu)
- - date_published: 2022-11-15T21:26:03+00:00
-
- ## Dartmouth Web Authentication
- - [https://stats.library.dartmouth.edu](https://stats.library.dartmouth.edu)
- - date_published: 2024-07-22T04:45:23.530977+00:00
-
- ## Dartmouth College Status
- - [http://status.dartmouth.edu](http://status.dartmouth.edu)
- - date_published: 2024-08-19T20:13:42.419833+00:00
-
- ## For You: Students | Dartmouth
- - [https://students.dartmouth.edu](https://students.dartmouth.edu)
- - date_published: 2024-07-19T18:32:19+00:00
-
- ## Home
- - [https://studioart.dartmouth.edu](https://studioart.dartmouth.edu)
- - date_published: 2018-11-15T16:27:26+00:00
-
- ## Join the Tuck Community
- - [http://talent.tuck.dartmouth.edu](http://talent.tuck.dartmouth.edu)
- - date_published: 2024-07-22T04:42:17+00:00
-
- ## Home
- - [https://tdi.dartmouth.edu](https://tdi.dartmouth.edu)
- - date_published: 2024-07-22T04:44:48.571022+00:00
-
- ## Homepage
- - [http://thayer.dartmouth.edu](http://thayer.dartmouth.edu)
- - date_published: 2024-08-19T19:06:16.165566+00:00
 

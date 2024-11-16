@@ -1,3 +1,147 @@
+ ## Log in with Atlassian account
+ - [https://stardock.atlassian.net](https://stardock.atlassian.net)
+ - date_published: 2024-09-28T21:20:58.779437+00:00
+
+ ## Confluence
+ - [https://storjlabs.atlassian.net](https://storjlabs.atlassian.net)
+ - date_published: 2024-06-22T22:49:39.292893+00:00
+
+ ## Log in with Atlassian account
+ - [http://synacsm.atlassian.net](http://synacsm.atlassian.net)
+ - date_published: 2024-07-22T12:45:49.800363+00:00
+
+ ## Log in with Atlassian account
+ - [https://techrepublic.atlassian.net](https://techrepublic.atlassian.net)
+ - date_published: 2024-09-09T22:05:30.254853+00:00
+
+ ## Log in with Atlassian account
+ - [https://techsee.atlassian.net](https://techsee.atlassian.net)
+ - date_published: 2024-10-28T17:01:07.047724+00:00
+
+ ## Log in with Atlassian account
+ - [https://tmufeas.atlassian.net](https://tmufeas.atlassian.net)
+ - date_published: 2024-07-21T09:11:07.084107+00:00
+
+ ## Projects - Jira
+ - [https://tosdr.atlassian.net](https://tosdr.atlassian.net)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Log in with Atlassian account
+ - [https://trebuco.atlassian.net](https://trebuco.atlassian.net)
+ - date_published: 2024-07-12T20:29:19.804576+00:00
+
+ ## Log in with Atlassian account
+ - [https://unbounce.atlassian.net](https://unbounce.atlassian.net)
+ - date_published: 2024-05-12T05:17:32.417551+00:00
+
+ ## Log in with Atlassian account
+ - [https://unicis-tech.atlassian.net](https://unicis-tech.atlassian.net)
+ - date_published: 2024-07-22T12:47:01.827563+00:00
+
+ ## Log in with Atlassian account
+ - [https://unity3d.atlassian.net](https://unity3d.atlassian.net)
+ - date_published: 2024-06-27T11:31:59.236633+00:00
+
+ ## Log in with Atlassian account
+ - [https://unity-transparency.atlassian.net](https://unity-transparency.atlassian.net)
+ - date_published: 2024-06-27T11:30:21.043258+00:00
+
+ ## Log in with Atlassian account
+ - [https://uofl.atlassian.net](https://uofl.atlassian.net)
+ - date_published: 2024-06-27T12:02:14.190138+00:00
+
+ ## Projects - UrBackup - JIRA
+ - [https://urbackup.atlassian.net](https://urbackup.atlassian.net)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Log in with Atlassian account
+ - [https://usercentrics.atlassian.net](https://usercentrics.atlassian.net)
+ - date_published: 2024-10-18T23:22:52.805545+00:00
+
+ ## Confluence
+ - [https://uwaterloo.atlassian.net](https://uwaterloo.atlassian.net)
+ - date_published: 2024-06-22T12:03:00.128327+00:00
+
+ ## Projects - Jira
+ - [https://viam.atlassian.net](https://viam.atlassian.net)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Log in with Atlassian account
+ - [https://vicedev.atlassian.net](https://vicedev.atlassian.net)
+ - date_published: 2024-05-07T10:42:30.373449+00:00
+
+ ## Log in with Atlassian account
+ - [https://visualcapitalist.atlassian.net](https://visualcapitalist.atlassian.net)
+ - date_published: 2024-06-29T13:24:42.388274+00:00
+
+ ## Log in with Atlassian account
+ - [https://walkme.atlassian.net](https://walkme.atlassian.net)
+ - date_published: 2024-06-29T22:49:37.690709+00:00
+
+ ## Log in with Atlassian account
+ - [https://wdiscan.atlassian.net](https://wdiscan.atlassian.net)
+ - date_published: 2024-10-27T23:33:29.392322+00:00
+
+ ## Log in with Atlassian account
+ - [https://wdtbrno.atlassian.net](https://wdtbrno.atlassian.net)
+ - date_published: 2024-10-16T15:01:52.879406+00:00
+
+ ## Log in with Atlassian account
+ - [https://wekaio.atlassian.net](https://wekaio.atlassian.net)
+ - date_published: 2024-05-06T14:48:29.481584+00:00
+
+ ## Log in with Atlassian account
+ - [https://whisper.atlassian.net](https://whisper.atlassian.net)
+ - date_published: 2024-10-26T12:45:57.401286+00:00
+
+ ## Log in with Atlassian account
+ - [https://wirelesspowerconsortium.atlassian.net](https://wirelesspowerconsortium.atlassian.net)
+ - date_published: 2024-10-28T17:34:27.949472+00:00
+
+ ## Log in with Atlassian account
+ - [https://workday-marketing.atlassian.net](https://workday-marketing.atlassian.net)
+ - date_published: 2024-10-14T12:12:18.294073+00:00
+
+ ## Log in with Atlassian account
+ - [https://wvu.atlassian.net](https://wvu.atlassian.net)
+ - date_published: 2024-05-07T22:40:40.484000+00:00
+
+ ## Log in with Atlassian account
+ - [https://xtcommerce.atlassian.net](https://xtcommerce.atlassian.net)
+ - date_published: 2024-07-11T22:06:55.613921+00:00
+
+ ## Log in with Atlassian account
+ - [https://your-domain.atlassian.net](https://your-domain.atlassian.net)
+ - date_published: 2024-10-31T05:07:59.458829+00:00
+
+ ## Projects - JIRA
+ - [https://zanata.atlassian.net](https://zanata.atlassian.net)
+ - date_published: 2024-06-13T00:00:00+00:00
+
+ ## Bannerman
+ - [https://bannerman.prod.atl-paas.net](https://bannerman.prod.atl-paas.net)
+ - date_published: 2021-12-16T12:36:20+00:00
+
+ ## Bannerman
+ - [https://bannerman.us-east-1.prod.public.atl-paas.net](https://bannerman.us-east-1.prod.public.atl-paas.net)
+ - date_published: 2021-12-16T12:36:20+00:00
+
+ ## Atlassian
+ - [https://compass-ui.prod-east.frontend.public.atl-paas.net](https://compass-ui.prod-east.frontend.public.atl-paas.net)
+ - date_published: 2024-05-09T05:41:47.567023+00:00
+
+ ## Customer Support Portal
+ - [https://csp-mono-repo-ui.prod-east.frontend.public.atl-paas.net](https://csp-mono-repo-ui.prod-east.frontend.public.atl-paas.net)
+ - date_published: 2024-06-27T08:07:59+00:00
+
+ ## Customer Support Portal
+ - [https://csp-ui.prod.atl-paas.net](https://csp-ui.prod.atl-paas.net)
+ - date_published: 2024-05-09T04:56:18.448718+00:00
+
+ ## Log in with Atlassian account
+ - [https://id-frontend.prod-east.frontend.public.atl-paas.net](https://id-frontend.prod-east.frontend.public.atl-paas.net)
+ - date_published: 2024-06-12T02:14:52+00:00
+
  ## Support Form App
  - [https://support-form-app.prod.atl-paas.net](https://support-form-app.prod.atl-paas.net)
  - date_published: 2024-05-09T04:56:21.956092+00:00
@@ -3890,148 +4034,4 @@
  ## HOLIDAY INN EXPRESS VANCOUVER AIRPORT-RICHMOND | ⋆⋆⋆ | CANADA | SEASON DEALS FROM $98
  - [https://holiday-inn-express-vancouver-airport.britishcolumbiahotels.net](https://holiday-inn-express-vancouver-airport.britishcolumbiahotels.net)
  - date_published: 2024-10-16T12:50:14.863438+00:00
-
- ## HOLIDAY INN HOTEL & SUITES KAMLOOPS | ⋆⋆⋆ | CANADA | SEASON DEALS FROM $85
- - [https://holiday-inn-suites-v2b-3h7.britishcolumbiahotels.net](https://holiday-inn-suites-v2b-3h7.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:07:47.094695+00:00
-
- ## HOSPITALITY INN PORT ALBERNI | ⋆⋆ | CANADA | SEASON DEALS FROM $92
- - [https://hospitality-inn-v9y-3s2.britishcolumbiahotels.net](https://hospitality-inn-v9y-3s2.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:59:00.069951+00:00
-
- ## GOLDEN VILLAGE LODGE | ⋆⋆ | CANADA | SEASON DEALS FROM $116
- - [https://howard-johnson-v0a-1h3.britishcolumbiahotels.net](https://howard-johnson-v0a-1h3.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:49:50.474823+00:00
-
- ## HOTEL HUME | ⋆⋆⋆ | NELSON, CANADA | SEASON DEALS FROM $167
- - [https://hume.britishcolumbiahotels.net](https://hume.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:50:49.361598+00:00
-
- ## HOTEL HUNTINGDON MANOR | ⋆⋆⋆ | VICTORIA, CANADA | SEASON DEALS FROM $93
- - [https://huntingdon-manor.britishcolumbiahotels.net](https://huntingdon-manor.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:10:36.520701+00:00
-
- ## HOTEL HYATT PLACE PRINCE GEORGE | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $105
- - [https://hyatt-place-v2l1t7.britishcolumbiahotels.net](https://hyatt-place-v2l1t7.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:21:56.975788+00:00
-
- ## HOTEL HYATT REGENCY VANCOUVER | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $143
- - [https://hyatt-regency.britishcolumbiahotels.net](https://hyatt-regency.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:53:34.102268+00:00
-
- ## HOTEL PLAZA 500 | ⋆⋆⋆ | VANCOUVER, CANADA | SEASON DEALS FROM $163
- - [https://indigo.britishcolumbiahotels.net](https://indigo.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:18:30.801970+00:00
-
- ## QUALICUM BEACH INN | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $154
- - [https://inn-10.britishcolumbiahotels.net](https://inn-10.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:12:50.940071+00:00
-
- ## INN AT LAUREL POINT | ⋆⋆⋆⋆ | VICTORIA, CANADA | SEASON DEALS FROM $176
- - [https://inn-at-laurel-point.britishcolumbiahotels.net](https://inn-at-laurel-point.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:57:00.750799+00:00
-
- ## INN AT THE QUAY | ⋆⋆⋆ | NEW WESTMINSTER, CANADA | SEASON DEALS FROM $162
- - [https://inn-at-the-quay.britishcolumbiahotels.net](https://inn-at-the-quay.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:13:24.722348+00:00
-
- ## SORRENTO INN | ⋆⋆⋆ | CANADA | SEASON DEALS FROM $79
- - [https://inn-motel.britishcolumbiahotels.net](https://inn-motel.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:11:46.144898+00:00
-
- ## ARMSTRONG INN | ⋆⋆ | CANADA | SEASON DEALS FROM $90
- - [https://inn-v0e-1b1.britishcolumbiahotels.net](https://inn-v0e-1b1.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:56:22.237889+00:00
-
- ## HERIOT BAY INN | ⋆⋆ | CANADA | SEASON DEALS FROM $81
- - [https://inn-v0p-1h0.britishcolumbiahotels.net](https://inn-v0p-1h0.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:48:12.116055+00:00
-
- ## JAMIE'S RAINFOREST INN | ⋆⋆ | TOFINO, CANADA | SEASON DEALS FROM $78
- - [https://jamies-rainforest-inn.britishcolumbiahotels.net](https://jamies-rainforest-inn.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:16:03.068338+00:00
-
- ## HOTEL JW MARRIOTT PARQ VANCOUVER | ⋆⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $417
- - [https://jw-marriott-parq.britishcolumbiahotels.net](https://jw-marriott-parq.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:09:30.831138+00:00
-
- ## KINGFISHER OCEANSIDE RESORT & SPA | ⋆⋆⋆⋆ | COURTENAY, CANADA | SEASON DEALS FROM $250
- - [https://kingfisher-oceanside-resort-and-spa.britishcolumbiahotels.net](https://kingfisher-oceanside-resort-and-spa.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:17:06.727435+00:00
-
- ## HOTEL LA GRANDE RESIDENCE VANCOUVER AT THE SUTTON PLACE | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $350
- - [https://la-grande-residence-at-the-sutton-place.britishcolumbiahotels.net](https://la-grande-residence-at-the-sutton-place.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:48:54.385421+00:00
-
- ## PENTICTON LAKESIDE RESORT | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $195
- - [https://lakeside-resort.britishcolumbiahotels.net](https://lakeside-resort.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:47:00.675140+00:00
-
- ## LA QUINTA INN VANCOUVER AIRPORT | ⋆⋆⋆ | RICHMOND, CANADA | SEASON DEALS FROM $124
- - [https://la-quinta-inn-vancouver-airport.britishcolumbiahotels.net](https://la-quinta-inn-vancouver-airport.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:59:20.672927+00:00
-
- ## LEVEL FURNISHED LIVING APARTHOTEL | ⋆⋆⋆⋆⋆ | VANCOUVER, CANADA | SEASON DEALS FROM $141
- - [https://level-furnished-living-apart.britishcolumbiahotels.net](https://level-furnished-living-apart.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:16:52.488552+00:00
-
- ## HOTEL L'HERMITAGE | ⋆⋆⋆⋆ | VANCOUVER, CANADA | SEASON DEALS FROM $143
- - [https://lhermitage.britishcolumbiahotels.net](https://lhermitage.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:00:18.525104+00:00
-
- ## HOTEL LODEN VANCOUVER | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $301
- - [https://loden.britishcolumbiahotels.net](https://loden.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:22:13.692863+00:00
-
- ## CLEARWATER LODGE | ⋆⋆⋆ | CANADA | SEASON DEALS FROM $95
- - [https://lodge-v0e-1n0.britishcolumbiahotels.net](https://lodge-v0e-1n0.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:14:22.835936+00:00
-
- ## REVELSTOKE LODGE | ⋆⋆ | CANADA | SEASON DEALS FROM $110
- - [https://lodge-v0e-2s0.britishcolumbiahotels.net](https://lodge-v0e-2s0.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:48:33.585533+00:00
-
- ## LONG BEACH LODGE RESORT | ⋆⋆⋆⋆ | TOFINO, CANADA | SEASON DEALS FROM $336
- - [https://long-beach-lodge-resort.britishcolumbiahotels.net](https://long-beach-lodge-resort.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:00:11.395391+00:00
-
- ## HOTEL LONSDALE QUAY | ⋆⋆⋆ | NORTH VANCOUVER, CANADA | SEASON DEALS FROM $175
- - [https://lonsdale-quay.britishcolumbiahotels.net](https://lonsdale-quay.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:17:27.475297+00:00
-
- ## MAGNOLIA HOTEL & SPA | ⋆⋆⋆⋆ | VICTORIA, CANADA | SEASON DEALS FROM $211
- - [https://magnolia-spa.britishcolumbiahotels.net](https://magnolia-spa.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:58:47.054398+00:00
-
- ## ELDORADO RESORT - MANTEO | ⋆⋆⋆⋆ | KELOWNA, CANADA | SEASON DEALS FROM $257
- - [https://manteo-resort-villas.britishcolumbiahotels.net](https://manteo-resort-villas.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:05:49.486836+00:00
-
- ## VICTORIA MARRIOTT INNER HARBOUR | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $170
- - [https://marriott-inner-harbour.britishcolumbiahotels.net](https://marriott-inner-harbour.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:47:35.357705+00:00
-
- ## VANCOUVER MARRIOTT PINNACLE DOWNTOWN | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $166
- - [https://marriott-pinnacle-downtown.britishcolumbiahotels.net](https://marriott-pinnacle-downtown.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:03:55.249285+00:00
-
- ## METROPOLITAN HOTEL VANCOUVER | ⋆⋆⋆⋆ | CANADA | SEASON DEALS FROM $222
- - [https://metropolitan.britishcolumbiahotels.net](https://metropolitan.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:10:11.739226+00:00
-
- ## HOTEL MODA | ⋆⋆⋆ | VANCOUVER, CANADA | SEASON DEALS FROM $145
- - [https://moda.britishcolumbiahotels.net](https://moda.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:02:35.069081+00:00
-
- ## MOTEL TYROL | ⋆⋆ | RADIUM HOT SPRINGS, CANADA | SEASON DEALS FROM $83
- - [https://motel-tyrol.britishcolumbiahotels.net](https://motel-tyrol.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:16:43.890892+00:00
-
- ## 5000 MOTEL | ⋆⋆ | PENTICTON, CANADA | SEASON DEALS FROM $73
- - [https://motel-v2a-5g8.britishcolumbiahotels.net](https://motel-v2a-5g8.britishcolumbiahotels.net)
- - date_published: 2024-10-16T12:53:14.514508+00:00
-
- ## 2400 MOTEL | ⋆⋆ | VANCOUVER, CANADA | SEASON DEALS FROM $95
- - [https://motel-v5r-5g9.britishcolumbiahotels.net](https://motel-v5r-5g9.britishcolumbiahotels.net)
- - date_published: 2024-10-16T13:13:12.495976+00:00
 

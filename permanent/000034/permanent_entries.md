@@ -1,3 +1,7 @@
+ ## Sistema de Gestión Académica
+ - [https://funcionarios.portaloas.udistrital.edu.co](https://funcionarios.portaloas.udistrital.edu.co)
+ - date_published: 2024-06-12T03:16:25.394886+00:00
+
  ## Noticias - SAAM - Universidad Distrital Francisco José de Caldas
  - [http://gestiondocumental.udistrital.edu.co](http://gestiondocumental.udistrital.edu.co)
  - date_published: 2024-09-10T18:08:17.970252+00:00
@@ -4040,8 +4044,4 @@
  ## Single Origin Coffee Roaster • Modest Coffee
  - [https://modest.coffee](https://modest.coffee)
  - date_published: 2023-10-25T12:25:38.650141+00:00
-
- ## home - Mort's Ramblings
- - [https://mort.coffee](https://mort.coffee)
- - date_published: 2023-01-15T00:00:00+00:00
 

@@ -1,3 +1,67 @@
+ ## ServiceNow
+ - [https://ucalgary.service-now.com](https://ucalgary.service-now.com)
+ - date_published: 2024-07-21T08:48:19.325225+00:00
+
+ ## ServiceNow  Telecom Catalog
+ - [https://ucb.service-now.com](https://ucb.service-now.com)
+ - date_published: 2024-07-02T17:57:16.217836+00:00
+
+ ## ServiceNow  Service Management
+ - [https://ucdavisit.service-now.com](https://ucdavisit.service-now.com)
+ - date_published: 2024-07-01T22:20:22.269735+00:00
+
+ ## UChicago ServiceNow
+ - [https://uchicago.service-now.com](https://uchicago.service-now.com)
+ - date_published: 2024-07-01T22:32:15.968369+00:00
+
+ ## Office of Information Technology - Service Desk
+ - [https://uci.service-now.com](https://uci.service-now.com)
+ - date_published: 2024-07-01T22:41:04.602409+00:00
+
+ ## ServiceNow
+ - [https://ucsc.service-now.com](https://ucsc.service-now.com)
+ - date_published: 2024-07-01T23:54:32.354650+00:00
+
+ ## ServiceNow
+ - [https://ucsf.service-now.com](https://ucsf.service-now.com)
+ - date_published: 2024-07-02T01:49:32.648008+00:00
+
+ ## UCT  Service Management Suite
+ - [https://uct.service-now.com](https://uct.service-now.com)
+ - date_published: 2024-07-17T03:55:05.616144+00:00
+
+ ## ServiceNow
+ - [https://uky.service-now.com](https://uky.service-now.com)
+ - date_published: 2024-10-14T23:23:51.860402+00:00
+
+ ## UMass Amherst Information Technology
+ - [https://umass.service-now.com](https://umass.service-now.com)
+ - date_published: 2024-05-07T21:23:46.424864+00:00
+
+ ## The University of Maryland - ServiceNow
+ - [https://umd.service-now.com](https://umd.service-now.com)
+ - date_published: 2024-07-02T03:37:43.848534+00:00
+
+ ## ServiceNow
+ - [https://uncch.service-now.com](https://uncch.service-now.com)
+ - date_published: 2024-07-02T04:33:29.678700+00:00
+
+ ## ServiceNow
+ - [https://uoft.service-now.com](https://uoft.service-now.com)
+ - date_published: 2024-04-30T05:31:02.597045+00:00
+
+ ## Production
+ - [https://uofu.service-now.com](https://uofu.service-now.com)
+ - date_published: 2024-07-14T05:11:16.923597+00:00
+
+ ## PROD
+ - [https://urmcprod.service-now.com](https://urmcprod.service-now.com)
+ - date_published: 2024-07-01T18:16:30.022725+00:00
+
+ ## ServiceNow
+ - [https://uscprovost.service-now.com](https://uscprovost.service-now.com)
+ - date_published: 2024-07-02T10:57:55.570138+00:00
+
  ## USG Landing - University System of Georgia
  - [https://usg.service-now.com](https://usg.service-now.com)
  - date_published: 2016-08-01T00:00:00+00:00
@@ -181,6 +245,10 @@
  ## sescoops.com
  - [https://sescoops.com](https://sescoops.com)
  - date_published: 2024-02-26T19:30:37.241394+00:00
+
+ ## Sesia Valley
+ - [http://sesiavalley.com](http://sesiavalley.com)
+ - date_published: 2024-11-15T23:22:04.456858+00:00
 
  ## Seso, Inc.
  - [https://www.sesolabor.com](https://www.sesolabor.com)
@@ -3960,72 +4028,4 @@
  ## Sea Scout Ship 243
  - [https://www.ship243.com](https://www.ship243.com)
  - date_published: 2024-08-07T13:04:12+00:00
-
- ## Start Writing Online in 30 Days - Ship 30 for 30
- - [https://www.ship30for30.com](https://www.ship30for30.com)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Ship&co | EC向け出荷管理システム、１クリックで送り状発行
- - [https://www.shipandco.com](https://www.shipandco.com)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## API Documentation
- - [https://developer.shipbob.com](https://developer.shipbob.com)
- - date_published: 2024-06-17T16:21:05+00:00
-
- ## Resource Library - ShipBob
- - [https://resources.shipbob.com](https://resources.shipbob.com)
- - date_published: 2024-07-08T12:41:54+00:00
-
- ## Home
- - [https://shipbob.com](https://shipbob.com)
- - date_published: 2024-05-01T00:00:00+00:00
-
- ## ShipBob Help Center
- - [https://support.shipbob.com](https://support.shipbob.com)
- - date_published: 2023-07-09T12:41:51+00:00
-
- ## ShipBob for Merchants
- - [https://web.shipbob.com](https://web.shipbob.com)
- - date_published: 2024-07-08T12:41:49.819685+00:00
-
- ## shipbrook.com - Addiction Rehab Services
- - [http://www.shipbrook.com](http://www.shipbrook.com)
- - date_published: 2024-07-04T14:34:29.981042+00:00
-
- ## ShipCSX
- - [https://shipcsx.com](https://shipcsx.com)
- - date_published: 2023-11-15T13:34:40+00:00
-
- ## Sign In with Auth0
- - [https://academy.shiphero.com](https://academy.shiphero.com)
- - date_published: 2024-07-08T12:39:27.320491+00:00
-
- ## Sign In with Auth0
- - [https://app.shiphero.com](https://app.shiphero.com)
- - date_published: 2024-07-08T12:39:24.377001+00:00
-
- ## Developer Resources | ShipHero – Resources and documentation for those looking to build with ShipHero
- - [https://developer.shiphero.com](https://developer.shiphero.com)
- - date_published: 2024-07-08T12:39:19.517453+00:00
-
- ## ShipHero Fulfillment
- - [https://fulfillment-help.shiphero.com](https://fulfillment-help.shiphero.com)
- - date_published: 2024-07-08T12:39:15.477941+00:00
-
- ## Warehouse Management System | ShipHero
- - [https://shiphero.com](https://shiphero.com)
- - date_published: 2024-03-14T00:00:00+00:00
-
- ## ShipHero
- - [https://software-help.shiphero.com](https://software-help.shiphero.com)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Home - ShipItCon
- - [https://shipitcon.com](https://shipitcon.com)
- - date_published: 2024-07-08T00:00:00+00:00
-
- ## Make custom Next.js codebases with an MDX blog, TypeScript and Shadcn UI
- - [https://shipixen.com](https://shipixen.com)
- - date_published: 2024-07-06T00:00:00+00:00
 

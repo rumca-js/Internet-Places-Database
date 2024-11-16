@@ -1,3 +1,15 @@
+ ## Fathom Analytics: A Better Google Analytics Alternative
+ - [https://thirtythree-thirtynine.basedash.com](https://thirtythree-thirtynine.basedash.com)
+ - date_published: 2024-06-26T20:41:24+00:00
+
+ ## Building brands with cultural impact | Base Design
+ - [https://www.basedesign.com](https://www.basedesign.com)
+ - date_published: 2024-06-25T21:16:28.688591+00:00
+
+ ## Based In - Co-working Space for creative entrepreneurs
+ - [https://basedin.com](https://basedin.com)
+ - date_published: 2024-06-17T04:05:53.947631+00:00
+
  ## Based In
  - [https://members.basedin.com](https://members.basedin.com)
  - date_published: 2024-10-16T17:18:01.937202+00:00
@@ -4006,16 +4018,4 @@
  ## JETPROP PARTNERSHIPS
  - [http://www.be-lifted.com](http://www.be-lifted.com)
  - date_published: 2024-10-18T21:32:20.714543+00:00
-
- ## BeLight Software — Intuitive Apps for Mac, iOS, iPadOS and Windows
- - [https://www.belightsoft.com](https://www.belightsoft.com)
- - date_published: 2024-08-18T07:21:21.900536+00:00
-
- ## Yonatan Belinkov
- - [https://belinkov.com](https://belinkov.com)
- - date_published: 2024-05-28T19:34:04+00:00
-
- ## Attention Required! | Cloudflare
- - [http://beliomagazine.com](http://beliomagazine.com)
- - date_published: 2024-07-17T13:39:44.643908+00:00
 

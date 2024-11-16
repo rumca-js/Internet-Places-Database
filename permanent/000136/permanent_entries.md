@@ -1,3 +1,47 @@
+ ## Default - Hirons Library FAQ
+ - [http://gbc.libanswers.com](http://gbc.libanswers.com)
+ - date_published: 2024-07-22T03:08:22.166025+00:00
+
+ ## Library FAQs - Ask Mason Libraries
+ - [https://gmu.libanswers.com](https://gmu.libanswers.com)
+ - date_published: 2024-06-11T00:00:00+00:00
+
+ ## Ask the Library - Ask the Library
+ - [https://hsl-nyu.libanswers.com](https://hsl-nyu.libanswers.com)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Indiana University Bloomington Libraries Frequently Asked Questions (FAQ) - FAQ
+ - [https://iub.libanswers.com](https://iub.libanswers.com)
+ - date_published: 2024-06-30T07:28:30.847780+00:00
+
+ ## AskKDL - AskKDL
+ - [https://kdl.libanswers.com](https://kdl.libanswers.com)
+ - date_published: 2024-06-20T17:15:23.871841+00:00
+
+ ## Whoops! - LibAnswers
+ - [https://lanestanford.libanswers.com](https://lanestanford.libanswers.com)
+ - date_published: 2024-07-01T20:18:45.020353+00:00
+
+ ## AskUs - Ask Us!
+ - [https://library-cuanschutz.libanswers.com](https://library-cuanschutz.libanswers.com)
+ - date_published: 2024-07-22T04:56:23.833167+00:00
+
+ ## Library Help - Library Help
+ - [https://manchester-uk.libanswers.com](https://manchester-uk.libanswers.com)
+ - date_published: 2024-01-17T00:00:00+00:00
+
+ ## General - MUSC Libraries LibAnswers
+ - [https://musc.libanswers.com](https://musc.libanswers.com)
+ - date_published: 2024-06-27T00:00:00+00:00
+
+ ## Enquiry FAQs - Ask a question
+ - [https://natlibscot.libanswers.com](https://natlibscot.libanswers.com)
+ - date_published: 2024-06-22T08:03:20.437015+00:00
+
+ ## NMSU Library FAQs - NMSU Library FAQs
+ - [https://nmsu.libanswers.com](https://nmsu.libanswers.com)
+ - date_published: 2024-07-01T16:17:38.773345+00:00
+
  ## Northeastern University Library Answers: University Library FAQ - Northeastern University Library Answers
  - [https://northeastern.libanswers.com](https://northeastern.libanswers.com)
  - date_published: 2024-08-29T00:00:00+00:00
@@ -4024,48 +4068,4 @@
  ## Linguistrix
  - [https://linguistrix.com](https://linguistrix.com)
  - date_published: 2022-12-22T04:38:45+00:00
-
- ## Linguix — GPT-4 writing & productivity copilot for teams
- - [https://linguix.com](https://linguix.com)
- - date_published: 2024-06-19T19:49:51.885231+00:00
-
- ## Speed Up Your Writing with AI-Powered Shortcuts
- - [https://turbo.linguix.com](https://turbo.linguix.com)
- - date_published: 2024-10-30T14:24:23.267988+00:00
-
- ## 灵犀互娱官网
- - [https://www.lingxigames.com](https://www.lingxigames.com)
- - date_published: 2024-07-09T11:03:27.485517+00:00
-
- ## LINISNIL
- - [https://linisnil.com](https://linisnil.com)
- - date_published: 2024-06-29T00:00:00+00:00
-
- ## Лінія Втечі - Культурна агенція у Львові, медіа про культуру, паралельна галицька реальність
- - [https://www.liniyavtechi.com](https://www.liniyavtechi.com)
- - date_published: 2024-07-01T07:53:22.947143+00:00
-
- ## Linjie Luo
- - [http://linjieluo.com](http://linjieluo.com)
- - date_published: 2024-06-22T08:04:18.780520+00:00
-
- ## Link: Pay quickly, shop confidently
- - [https://link.com](https://link.com)
- - date_published: 2024-10-30T20:44:30.570143+00:00
-
- ## AYAMJP : Ayam Jp Sebagai Platform Game Online Terpercaya Telah Berdiri dari Tahun 2021
- - [https://linkayam.com](https://linkayam.com)
- - date_published: 2024-06-19T07:45:51.054334+00:00
-
- ## linkbaitgenerator.com is a custom short domain
- - [http://linkbaitgenerator.com](http://linkbaitgenerator.com)
- - date_published: 2024-07-04T14:50:04.018648+00:00
-
- ## Expression Bytes
- - [https://linkbestie.com](https://linkbestie.com)
- - date_published: 2024-10-16T02:25:52.007256+00:00
-
- ## Sign up
- - [https://affiliates.linkbot.com](https://affiliates.linkbot.com)
- - date_published: 2024-10-30T10:27:27.541436+00:00
 

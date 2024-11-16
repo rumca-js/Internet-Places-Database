@@ -1,3 +1,96 @@
+ ## Eleventy is a simpler static site generator
+ - [https://11ty.dev](https://11ty.dev)
+ - date_published: 2024-02-16T00:00:00+00:00
+ - tags: ['self-host', 'static websites']
+
+ ## 11ty’s International Symposium on Making Web Sites Real Good
+ - [https://conf.11ty.dev](https://conf.11ty.dev)
+ - date_published: 2024-05-07T18:48:43.330288+00:00
+
+ ## 11ty Merch
+ - [https://merch.11ty.dev](https://merch.11ty.dev)
+ - date_published: 2024-05-07T18:48:40.563426+00:00
+
+ ## THE Eleventy Meetup
+ - [https://11tymeetup.dev](https://11tymeetup.dev)
+ - date_published: 2024-04-29T07:27:21.280515+00:00
+
+ ## 12 Days of Web
+ - [https://12daysofweb.dev](https://12daysofweb.dev)
+ - date_published: 2024-04-30T00:34:50.848266+00:00
+
+ ## 16pixel. | Where Beauty Converges with Innovation
+ - [https://16pixel.dev](https://16pixel.dev)
+ - date_published: 2024-04-21T00:00:00+00:00
+
+ ## Introducing cutting-edge crypto APIs to streamline your development process.
+ - [https://1inch.dev](https://1inch.dev)
+ - date_published: 2024-09-23T11:43:54.636267+00:00
+
+ ## 1inch - Developer Portal
+ - [https://portal.1inch.dev](https://portal.1inch.dev)
+ - date_published: 2024-09-20T11:04:38+00:00
+
+ ## Saeed Salehi · Stories from a developer :)
+ - [https://1saeed.dev](https://1saeed.dev)
+ - date_published: 2023-03-17T16:24:01+00:00
+
+ ## A world where people pay for software
+ - [https://1sub.dev](https://1sub.dev)
+ - date_published: 2023-10-25T18:34:35.457611+00:00
+
+ ## 200 ok Media
+ - [https://200ok.dev](https://200ok.dev)
+ - date_published: 2020-01-31T10:28:48+00:00
+
+ ## mrvs :: mrvs
+ - [https://2d4.dev](https://2d4.dev)
+ - date_published: 2024-08-07T23:59:13.047619+00:00
+
+ ## You know why you're here
+ - [https://46692.dev](https://46692.dev)
+ - date_published: 2024-07-23T23:42:23.620938+00:00
+
+ ## Alex
+ - [https://4lejandrito.dev](https://4lejandrito.dev)
+ - date_published: 2024-09-19T05:43:41+00:00
+
+ ## Safe Ecosystem Database
+ - [https://ecosystem-database.staging.5afe.dev](https://ecosystem-database.staging.5afe.dev)
+ - date_published: 2024-09-16T11:29:53+00:00
+
+ ## Stephanie Eckles | Front-End SWE, Author, Speaker
+ - [https://5t3ph.dev](https://5t3ph.dev)
+ - date_published: 2024-07-22T12:50:35.028164+00:00
+
+ ## 7.dev – Learn how to code with us 🫡
+ - [https://7.dev](https://7.dev)
+ - date_published: 2024-02-06T00:00:00+00:00
+
+ ## 7.dev
+ - [https://links.7.dev](https://links.7.dev)
+ - date_published: 2023-10-15T00:00:00+00:00
+
+ ## Kristian's newsletter
+ - [https://newsletter.7.dev](https://newsletter.7.dev)
+ - date_published: 2024-06-22T10:20:46+00:00
+
+ ## 7.dev Podcast with Kristian Freeman
+ - [https://podcast.7.dev](https://podcast.7.dev)
+ - date_published: 2024-06-23T02:59:24.095704+00:00
+
+ ## A14M
+ - [https://a14m.dev](https://a14m.dev)
+ - date_published: 2024-10-12T10:40:49.055745+00:00
+
+ ## Welcome to a5h.dev
+ - [https://a5h.dev](https://a5h.dev)
+ - date_published: 2024-07-20T19:41:06.639867+00:00
+
+ ## Aakansha's Blog
+ - [https://aakansha.dev](https://aakansha.dev)
+ - date_published: 2024-10-28T03:54:48.990812+00:00
+
  ## aarol.dev
  - [https://aarol.dev](https://aarol.dev)
  - date_published: 2024-10-07T15:48:34.714196+00:00
@@ -971,6 +1064,10 @@
  ## [ en ] cryptid
  - [https://bird.bearblog.dev](https://bird.bearblog.dev)
  - date_published: 2024-07-02T18:16:51.443170+00:00
+
+ ## _blackentropy
+ - [https://blackentropy.bearblog.dev](https://blackentropy.bearblog.dev)
+ - date_published: 2024-11-15T16:18:07.532301+00:00
 
  ## Blub's Blog
  - [https://blubsblog.bearblog.dev](https://blubsblog.bearblog.dev)
@@ -3965,102 +4062,4 @@
  ## bin
  - [https://basedbin.fly.dev](https://basedbin.fly.dev)
  - date_published: 2024-06-19T22:12:11.391850+00:00
-
- ## Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix
- - [https://bloom-ui.fly.dev](https://bloom-ui.fly.dev)
- - date_published: 2024-05-04T00:23:24+00:00
-
- ## DATASTAR
- - [https://datastar.fly.dev](https://datastar.fly.dev)
- - date_published: 2024-06-23T06:17:43.958213+00:00
-
- ## AI Emojis
- - [https://emoji.fly.dev](https://emoji.fly.dev)
- - date_published: 2023-10-25T18:38:03.669949+00:00
-
- ## Fantasy Hockey Helper
- - [https://fantasyhockey.fly.dev](https://fantasyhockey.fly.dev)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## Fed Up
- - [https://fed-up.fly.dev](https://fed-up.fly.dev)
- - date_published: 2023-10-25T18:38:04.597888+00:00
-
- ## WeChatGPT+
- - [https://future-attejuvonen.fly.dev](https://future-attejuvonen.fly.dev)
- - date_published: 1980-01-01T00:00:01+00:00
-
- ## HN Hired
- - [https://hnhired.fly.dev](https://hnhired.fly.dev)
- - date_published: 2023-11-01T15:43:41.769111+00:00
-
- ## Sign in - JLS Indiekit
- - [https://jls-indiekit.fly.dev](https://jls-indiekit.fly.dev)
- - date_published: 2024-08-17T07:03:40.158413+00:00
-
- ## Lalacheck
- - [https://lalacheck.fly.dev](https://lalacheck.fly.dev)
- - date_published: 2024-11-05T17:00:24+00:00
- - tags: ['online tool']
-
- ## Reactive html apps in Go & alpine.js
- - [https://livefir.fly.dev](https://livefir.fly.dev)
- - date_published: 2023-10-25T18:38:06.116135+00:00
-
- ## Lychee v5
- - [https://lychee-demo.fly.dev](https://lychee-demo.fly.dev)
- - date_published: 2024-05-04T15:14:17.452908+00:00
-
- ## REM - REST API
- - [https://mithril-rem.fly.dev](https://mithril-rem.fly.dev)
- - date_published: 2024-07-01T05:19:44.854431+00:00
-
- ## Login | Mouji
- - [https://mouji.fly.dev](https://mouji.fly.dev)
- - date_published: 2024-07-13T06:31:01.759192+00:00
-
- ## Praise My GitHub Profile
- - [https://praise-me.fly.dev](https://praise-me.fly.dev)
- - date_published: 2024-08-04T16:28:22+00:00
- - tags: ['github']
-
- ## Primate - Polymorphic development platform
- - [https://primate.fly.dev](https://primate.fly.dev)
- - date_published: 2024-05-07T09:25:44.547950+00:00
-
- ## Show HN: Quilt – Powerful RAG UI for Document QA
- - [https://quilt.fly.dev](https://quilt.fly.dev)
- - date_published: 2024-10-02T03:54:07+00:00
-
- ## Login | Ryot
- - [https://ryot.fly.dev](https://ryot.fly.dev)
- - date_published: 2024-04-08T19:30:40.094101+00:00
-
- ## SaasRock | The Remix SaaS Development Framework
- - [https://saasrock.fly.dev](https://saasrock.fly.dev)
- - date_published: 2024-03-22T00:00:00+00:00
-
- ## Podcasts for developers
- - [https://snap.fly.dev](https://snap.fly.dev)
- - date_published: 2024-08-16T00:00:00+00:00
-
- ## where-do-we-eat
- - [https://websockets-voting-client.fly.dev](https://websockets-voting-client.fly.dev)
- - date_published: 2024-07-16T19:58:46+00:00
-
- ## Flyde | Visual Programming. For Developers.
- - [https://flyde.dev](https://flyde.dev)
- - date_published: 2024-03-07T13:29:00.156112+00:00
-
- ## Flyde Playground
- - [https://play.flyde.dev](https://play.flyde.dev)
- - date_published: 2024-05-09T05:47:57.564975+00:00
-
- ## Flyflow
- - [https://app.flyflow.dev](https://app.flyflow.dev)
- - date_published: 2024-07-14T15:46:27.678461+00:00
-
- ## Flyflow
- - [https://flyflow.dev](https://flyflow.dev)
- - date_published: 2024-05-11T11:40:56.453274+00:00
 

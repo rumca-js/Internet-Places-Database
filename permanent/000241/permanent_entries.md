@@ -1,3 +1,95 @@
+ ## Bayerisches Staatsministerium für Unterricht und Kultus
+ - [http://km.bayern.de](http://km.bayern.de)
+ - date_published: 2024-03-28T00:00:00+00:00
+
+ ## Arbeitswelt inklusiv: Startseite
+ - [https://www.arbeit-inklusiv.bayern.de](https://www.arbeit-inklusiv.bayern.de)
+ - date_published: 2024-07-24T03:33:25.358816+00:00
+
+ ## Bayerische Landeszentrale für politische Bildungsarbeit
+ - [https://www.blz.bayern.de](https://www.blz.bayern.de)
+ - date_published: 2024-07-09T14:14:59.415162+00:00
+
+ ## Startseite
+ - [https://www.einfach-finden.bayern.de](https://www.einfach-finden.bayern.de)
+ - date_published: 2024-07-24T03:33:24.082821+00:00
+
+ ## Elitenetzwerk Bayern
+ - [https://www.elitenetzwerk.bayern.de](https://www.elitenetzwerk.bayern.de)
+ - date_published: 2024-07-01T05:47:36.968152+00:00
+
+ ## Willkommen bei der Bayern-PKI - PKI Bayern - Landesamt für Digitalisierung, Breitband und Vermessung
+ - [https://www.pki.bayern.de](https://www.pki.bayern.de)
+ - date_published: 2024-07-18T06:22:24.529505+00:00
+
+ ## Startseite Bayerisches Staatsministerium für Umwelt und Verbraucherschutz
+ - [https://www.stmuv.bayern.de](https://www.stmuv.bayern.de)
+ - date_published: 2024-07-24T04:07:15.565977+00:00
+
+ ## Wirtschaftsministerium Bayern - Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie
+ - [https://www.stmwi.bayern.de](https://www.stmwi.bayern.de)
+ - date_published: 2024-08-09T04:27:50.239387+00:00
+
+ ## Bayerisches Staatsministerium für Wissenschaft und Kunst
+ - [https://www.stmwk.bayern.de](https://www.stmwk.bayern.de)
+ - date_published: 2024-07-20T06:10:30.898402+00:00
+
+ ## Bayernwerk Netz – regionaler Netzbetreiber | Bayernwerk Netz
+ - [https://bayernwerk-netz.de](https://bayernwerk-netz.de)
+ - date_published: 2024-04-30T07:17:14.350969+00:00
+
+ ## Bayreuth.de: Das Webportal der Stadt Bayreuth
+ - [https://www.bayreuth.de](https://www.bayreuth.de)
+ - date_published: 2024-07-24T07:12:01.846886+00:00
+
+ ## BayWa r.e. ist Ihr Partner für die Zukunft der Energie
+ - [https://www.baywa-re.de](https://www.baywa-re.de)
+ - date_published: 2024-07-24T04:33:20.138731+00:00
+
+ ## Bazaar Berlin - 6.–10. Nov. 2024
+ - [https://www.bazaar-berlin.de](https://www.bazaar-berlin.de)
+ - date_published: 2024-09-12T03:46:52+00:00
+
+ ## Corpus Inscriptionum Latinarum: Home
+ - [https://cil.bbaw.de](https://cil.bbaw.de)
+ - date_published: 2024-07-02T10:19:50.247256+00:00
+
+ ## Startseite - Galen als Vermittler, Interpret und Vollender der antiken Medizin
+ - [http://cmg.bbaw.de](http://cmg.bbaw.de)
+ - date_published: 2024-10-29T18:08:57.018876+00:00
+
+ ## BBC e.V. – Amateur- und Nachwuchsbereich des BBC Bayreuth e.V.
+ - [https://www.bbc-bayreuth-ev.de](https://www.bbc-bayreuth-ev.de)
+ - date_published: 2024-07-24T07:12:25.803228+00:00
+
+ ## BBE - Bundesnetzwerk Bürgerschaftliches Engagement
+ - [http://www.b-b-e.de](http://www.b-b-e.de)
+ - date_published: 2024-09-12T16:05:27.594960+00:00
+
+ ## Startseite - BbS III Halle
+ - [https://bbs3-halle.de](https://bbs3-halle.de)
+ - date_published: 2024-05-28T00:00:00+00:00
+
+ ## Geschwister-Scholl-Schule Saarburg/Hermeskeil
+ - [http://bbs-saarburg.de](http://bbs-saarburg.de)
+ - date_published: 2024-07-08T12:58:16.552247+00:00
+
+ ## BdF - Deutscher Fernschachbund
+ - [https://www.bdf-fernschachbund.de](https://www.bdf-fernschachbund.de)
+ - date_published: 2024-07-04T05:06:29.586032+00:00
+
+ ## bdfj Bundesvereinigung der Fachjournalisten e.V.
+ - [https://www.bdfj.de](https://www.bdfj.de)
+ - date_published: 2024-06-17T00:00:00+00:00
+
+ ## Startseite - BdKep
+ - [https://bdkep.de](https://bdkep.de)
+ - date_published: 2024-10-27T12:44:05.450554+00:00
+
+ ## Die Bundesdruckerei-Gruppe | Sicherheitslösungen "Made in Germany"
+ - [https://bdr.de](https://bdr.de)
+ - date_published: 2024-07-24T07:33:07.991350+00:00
+
  ## Kunden-Portal
  - [https://customer.bdr.de](https://customer.bdr.de)
  - date_published: 2024-07-24T07:33:12.891694+00:00
@@ -3924,96 +4016,4 @@ home
  ## Welcome to Coresystems
  - [https://coresystems.de](https://coresystems.de)
  - date_published: 2024-04-29T06:15:43.633381+00:00
-
- ## Cornelsen Verlag
- - [https://www.cornelsen.de](https://www.cornelsen.de)
- - date_published: 2024-08-11T04:22:58.159705+00:00
-
- ## Sign in - Matomo
- - [https://matomo.stifterverband.fork.corpex-kunden.de](https://matomo.stifterverband.fork.corpex-kunden.de)
- - date_published: 2024-07-24T03:42:31.295512+00:00
-
- ## Startseite - cosinex
- - [https://www.cosinex.de](https://www.cosinex.de)
- - date_published: 2024-03-26T00:00:00+00:00
-
- ## CosmoCode GmbH - Digital Agency Berlin | CosmoCode
- - [https://www.cosmocode.de](https://www.cosmocode.de)
- - date_published: 2024-09-23T10:57:45+00:00
-
- ## Costa Coffee Deutschland - Homepage
- - [https://www.costacoffee.de](https://www.costacoffee.de)
- - date_published: 2024-07-04T08:06:12+00:00
-
- ## Cotton - T-Shirt Druck Berlin
- - [https://www.cotton.de](https://www.cotton.de)
- - date_published: 2024-10-21T08:57:14.476979+00:00
-
- ## Couchblog – Der Markt regelt einen Scheiß.
- - [https://couchblog.de](https://couchblog.de)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## Kreuzberg 36 Coworking Space - Kiez Büro
- - [http://co-up.de](http://co-up.de)
- - date_published: 2024-01-26T00:00:00+00:00
-
- ## Courage Lounge | Gemeinsam besser investieren!
- - [https://courage-lounge.de](https://courage-lounge.de)
- - date_published: 2024-10-11T13:28:40.433596+00:00
-
- ## Startseite
- - [https://www.coursflorent.de](https://www.coursflorent.de)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Coworking Nürnberg
- - [https://coworking-nuernberg.de](https://coworking-nuernberg.de)
- - date_published: 2024-07-12T23:10:45.690508+00:00
-
- ## Deutsches CPCWiki
- - [https://cpcwiki.de](https://cpcwiki.de)
- - date_published: 2023-10-17T13:26:15+00:00
-
- ## Z-System: Linux Enterprise Server von SUSE für z Systems
- - [http://www.cpmwelt.de](http://www.cpmwelt.de)
- - date_published: 2019-05-28T12:33:03+00:00
-
- ## Craft Sportswear: Innovativa träningskläder av högsta kvalitet | Craft Sportswear
- - [http://www.craft-sports.de](http://www.craft-sports.de)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## The Cream Headquarter
- - [https://creamhq.de](https://creamhq.de)
- - date_published: 2024-05-22T02:45:07.126378+00:00
-
- ## creandi Medienagentur - Die Agentur für digitale Medien in Hamm
- - [https://www.creandi.de](https://www.creandi.de)
- - date_published: 2024-06-03T00:00:00+00:00
-
- ## Sign in - Matomo
- - [https://webstats.creandi-reporting.de](https://webstats.creandi-reporting.de)
- - date_published: 2024-07-24T07:41:13.410562+00:00
-
- ## Create Your Own Career
- - [https://www.createyourowncareer.de](https://www.createyourowncareer.de)
- - date_published: 2024-06-25T21:52:19.969082+00:00
-
- ## Creatives for Future Deutschland
- - [https://creativesforfuture.de](https://creativesforfuture.de)
- - date_published: 2021-07-09T12:38:33+00:00
-
- ## CrediMaxx®
- - [https://www.credimaxx.de](https://www.credimaxx.de)
- - date_published: 2024-05-14T00:00:00+00:00
-
- ## Das Creditreform Online-Magazin
- - [https://creditreform-magazin.de](https://creditreform-magazin.de)
- - date_published: 2024-10-22T12:03:11.373580+00:00
-
- ## cronn GmbH - wir entwickeln software
- - [http://www.cronn.de](http://www.cronn.de)
- - date_published: 2024-07-24T06:04:52.573579+00:00
-
- ## Home - Cross Cult - Comics & Romane
- - [https://www.cross-cult.de](https://www.cross-cult.de)
- - date_published: 2024-06-27T10:55:30+00:00
 

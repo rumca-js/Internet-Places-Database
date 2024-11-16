@@ -1,3 +1,107 @@
+ ## Samueli Electrical and Computer Engineering
+ - [https://ee.ucla.edu](https://ee.ucla.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Home | Bruins Safe Online
+ - [https://emergency.ucla.edu](https://emergency.ucla.edu)
+ - date_published: 2024-05-06T00:00:00+00:00
+
+ ## UCLA Equity, Diversity & Inclusion
+ - [https://equity.ucla.edu](https://equity.ucla.edu)
+ - date_published: 2024-07-01T22:56:25.480533+00:00
+
+ ## Welcome to Emeriti/Retirees Relations Center | Emeriti/Retirees Relations Center
+ - [https://errc.ucla.edu](https://errc.ucla.edu)
+ - date_published: 2024-06-26T17:08:49+00:00
+
+ ## ETC – UCLA Experiential Technologies Center
+ - [http://etc.ucla.edu](http://etc.ucla.edu)
+ - date_published: 2024-07-09T18:44:52.457849+00:00
+
+ ## Home | Events Office
+ - [https://events.ucla.edu](https://events.ucla.edu)
+ - date_published: 2024-07-01T22:55:02+00:00
+
+ ## UCLA External Affairs
+ - [https://externalaffairs.ucla.edu](https://externalaffairs.ucla.edu)
+ - date_published: 2024-07-01T23:04:45.616948+00:00
+
+ ## Index of /
+ - [http://ficus-www.cs.ucla.edu](http://ficus-www.cs.ucla.edu)
+ - date_published: 2024-06-20T17:26:28.223717+00:00
+
+ ## Welcome First-Gen Bruins! | First to Go
+ - [https://firsttogo.ucla.edu](https://firsttogo.ucla.edu)
+ - date_published: 2024-06-29T06:13:31+00:00
+
+ ## Home | Fowler Museum at UCLA
+ - [https://fowler.ucla.edu](https://fowler.ucla.edu)
+ - date_published: 2021-04-29T17:08:56+00:00
+
+ ## Index of /
+ - [https://ftp.cs.ucla.edu](https://ftp.cs.ucla.edu)
+ - date_published: 2024-03-23T00:00:00+00:00
+
+ ## UCLA is responding to COVID-19
+ - [https://giveto.ucla.edu](https://giveto.ucla.edu)
+ - date_published: 2024-05-07T20:54:59.420873+00:00
+
+ ## Giving to UCLA
+ - [https://giving.ucla.edu](https://giving.ucla.edu)
+ - date_published: 2024-05-07T20:55:32.392874+00:00
+
+ ## Global Public Affairs
+ - [https://global.luskin.ucla.edu](https://global.luskin.ucla.edu)
+ - date_published: 2023-11-20T00:00:00+00:00
+
+ ## GO ARTS UCLA
+ - [https://goarts.ucla.edu](https://goarts.ucla.edu)
+ - date_published: 2024-07-01T22:55:58.050491+00:00
+
+ ## Home | The Berggruen Governance Index
+ - [https://governance.luskin.ucla.edu](https://governance.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:06:51.812703+00:00
+
+ ## UCLA Graduate Programs
+ - [https://grad.ucla.edu](https://grad.ucla.edu)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## Research Guides
+ - [https://guides.library.ucla.edu](https://guides.library.ucla.edu)
+ - date_published: 2024-10-29T09:13:38.278952+00:00
+
+ ## Hammer Museum | Hammer Museum
+ - [https://hammer.ucla.edu](https://hammer.ucla.edu)
+ - date_published: 2024-06-20T16:00:06+00:00
+
+ ## HAPI
+ - [https://hapi.ucla.edu](https://hapi.ucla.edu)
+ - date_published: 2024-09-12T12:53:29.839912+00:00
+
+ ## Calendars
+ - [https://happenings.ucla.edu](https://happenings.ucla.edu)
+ - date_published: 2024-05-07T20:54:34.739703+00:00
+
+ ## UCLA HARRT
+ - [https://harrt.ucla.edu](https://harrt.ucla.edu)
+ - date_published: 2024-07-01T23:06:21.096132+00:00
+
+ ## Homepage of the UCLA Center for Health Policy Research
+ - [https://healthpolicy.ucla.edu](https://healthpolicy.ucla.edu)
+ - date_published: 2024-07-17T10:52:41+00:00
+
+ ## Communities hold the power to shape their health and well-being | UCLA HHIPP
+ - [http://hhipp.sites.luskin.ucla.edu](http://hhipp.sites.luskin.ucla.edu)
+ - date_published: 2024-07-01T23:07:06.775582+00:00
+
+ ## Housing & Hospitality
+ - [https://housingandhospitality.ucla.edu](https://housingandhospitality.ucla.edu)
+ - date_published: 2024-06-30T08:08:49.643178+00:00
+
+ ## Home – UCLA Housing | Housing
+ - [https://housing.ucla.edu](https://housing.ucla.edu)
+ - date_published: 2024-07-01T22:38:01+00:00
+
  ## Careers Home | UCLA
  - [https://hr.mycareer.ucla.edu](https://hr.mycareer.ucla.edu)
  - date_published: 2024-07-01T00:00:00+00:00
@@ -3899,108 +4003,4 @@
  ## Your gift can ignite discovery and inspire cures
  - [https://giving.ucsf.edu](https://giving.ucsf.edu)
  - date_published: 2024-05-07T21:08:41.367080+00:00
-
- ## UCSF Institute for Global Health Sciences | Institute for Global Health Sciences
- - [https://globalhealthsciences.ucsf.edu](https://globalhealthsciences.ucsf.edu)
- - date_published: 2024-02-14T00:00:00+00:00
-
- ## Graduate &amp; Professional Student Association
- - [http://gpsa.ucsf.edu](http://gpsa.ucsf.edu)
- - date_published: 2024-07-02T01:40:09+00:00
-
- ## UC San Francisco Graduate Division
- - [https://graduate.ucsf.edu](https://graduate.ucsf.edu)
- - date_published: 2024-05-07T21:09:36.451286+00:00
-
- ## UCSF Guides
- - [http://guides.ucsf.edu](http://guides.ucsf.edu)
- - date_published: 2024-07-02T01:55:06.742733+00:00
-
- ## Home
- - [https://healthcarefacilitators.ucsf.edu](https://healthcarefacilitators.ucsf.edu)
- - date_published: 2024-07-02T02:02:04+00:00
-
- ## Home - UCSF - Service Portal
- - [https://help.ucsf.edu](https://help.ucsf.edu)
- - date_published: 2016-08-01T00:00:00+00:00
-
- ## UCSF Human Resources | UCSF Human Resources
- - [https://hr.ucsf.edu](https://hr.ucsf.edu)
- - date_published: 2024-05-09T00:00:00+00:00
-
- ## Home
- - [https://identity.ucsf.edu](https://identity.ucsf.edu)
- - date_published: 2024-05-07T21:09:27.329315+00:00
-
- ## About Us
- - [https://innovation.ucsf.edu](https://innovation.ucsf.edu)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## Homepage | intelligent imaging
- - [https://intelligentimaging.ucsf.edu](https://intelligentimaging.ucsf.edu)
- - date_published: 2024-09-01T11:16:27+00:00
-
- ## PIPE
- - [https://interprofessional.ucsf.edu](https://interprofessional.ucsf.edu)
- - date_published: 2024-07-02T01:52:29+00:00
-
- ## Home
- - [http://isso.ucsf.edu](http://isso.ucsf.edu)
- - date_published: 2024-07-02T01:36:46+00:00
-
- ## Home | UCSF IT
- - [https://it.ucsf.edu](https://it.ucsf.edu)
- - date_published: 2024-02-21T00:00:00+00:00
-
- ## Executive Leadership Support Network (ELSN)
- - [https://leadershipsupport.ucsf.edu](https://leadershipsupport.ucsf.edu)
- - date_published: 2024-07-02T01:41:07+00:00
-
- ## Learning Resource Services
- - [http://learn.ucsf.edu](http://learn.ucsf.edu)
- - date_published: 2024-07-02T01:40:38+00:00
-
- ## Office of Legal Affairs
- - [https://legal.ucsf.edu](https://legal.ucsf.edu)
- - date_published: 2024-05-07T21:09:13.745970+00:00
-
- ## Welcome to the LGBT Resource Center
- - [http://lgbt.ucsf.edu](http://lgbt.ucsf.edu)
- - date_published: 2024-07-02T01:38:37+00:00
-
- ## UCSF Library Help Center
- - [https://libraryhelp.ucsf.edu](https://libraryhelp.ucsf.edu)
- - date_published: 2024-02-02T00:00:00+00:00
-
- ## Home - UCSF Library
- - [https://library.ucsf.edu](https://library.ucsf.edu)
- - date_published: 2024-06-26T00:00:00+00:00
-
- ## UCSF Magazine
- - [https://magazine.ucsf.edu](https://magazine.ucsf.edu)
- - date_published: 2024-05-07T21:09:44.345297+00:00
-
- ## Your gift can ignite discovery and inspire cures
- - [https://makeagift.ucsf.edu](https://makeagift.ucsf.edu)
- - date_published: 2024-07-02T01:40:52.391257+00:00
-
- ## UCSF Medical Education Home | UCSF Medical Education
- - [https://meded.ucsf.edu](https://meded.ucsf.edu)
- - date_published: 2024-07-02T00:18:19+00:00
-
- ## Home | UCSF School of Medicine
- - [https://medschool.ucsf.edu](https://medschool.ucsf.edu)
- - date_published: 2024-05-07T21:09:09.026443+00:00
-
- ## Welcome to the Multicultural Resource Center
- - [http://mrc.ucsf.edu](http://mrc.ucsf.edu)
- - date_published: 2024-07-02T01:40:14+00:00
-
- ## UCSF Mass Spectrometry Facility
- - [http://msf.ucsf.edu](http://msf.ucsf.edu)
- - date_published: 2024-02-22T19:59:17+00:00
-
- ## University of California, San Francisco - MyAccess - Loading Session Information
- - [https://myaccess.ucsf.edu](https://myaccess.ucsf.edu)
- - date_published: 2024-05-07T21:08:39.463840+00:00
 

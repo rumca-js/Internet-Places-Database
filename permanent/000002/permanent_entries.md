@@ -849,10 +849,6 @@
  - [https://platform.lakera.ai](https://platform.lakera.ai)
  - date_published: 2024-11-13T00:48:34+00:00
 
- ## Lakera: The World’s Most Advanced AI Security Platform
- - [https://www.lakera.ai](https://www.lakera.ai)
- - date_published: 2024-07-03T00:00:00+00:00
-
  ## Vocal Remover & Instrumental AI Splitter | LALAL.AI
  - [https://lalal.ai](https://lalal.ai)
  - date_published: 2024-06-21T11:15:58+00:00
@@ -2401,6 +2397,10 @@
  ## Newswriter.ai
  - [https://newswriter.ai](https://newswriter.ai)
  - date_published: 2024-06-19T20:37:14.457081+00:00
+
+ ## Nexa AI - The On-Device AI Open Source Community
+ - [https://nexa.ai](https://nexa.ai)
+ - date_published: 2024-11-15T03:03:35.021895+00:00
 
  ## Advanced Routing & Navigation APIs - NextBillion.ai
  - [https://nextbillion.ai](https://nextbillion.ai)

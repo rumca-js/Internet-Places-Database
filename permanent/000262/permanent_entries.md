@@ -1,3 +1,108 @@
+ ## Institutional Diversity and Inclusion | Michigan State University
+ - [https://inclusion.msu.edu](https://inclusion.msu.edu)
+ - date_published: 2024-07-01T11:26:27+00:00
+
+ ## CSE Intranet Site
+ - [https://intranet.cse.msu.edu](https://intranet.cse.msu.edu)
+ - date_published: 2024-06-22T10:17:01.468707+00:00
+
+ ## Log in | College of Engineering Intranet
+ - [https://intranet.egr.msu.edu](https://intranet.egr.msu.edu)
+ - date_published: 2024-06-22T10:16:37.241183+00:00
+
+ ## - Michigan State University
+ - [https://involve.msu.edu](https://involve.msu.edu)
+ - date_published: 2024-07-01T15:42:47.324315+00:00
+
+ ## Home | SLE Employment
+ - [https://jobs.rhs.msu.edu](https://jobs.rhs.msu.edu)
+ - date_published: 2024-07-01T15:02:09+00:00
+
+ ## Home | SLE Employment
+ - [https://jobs.sle.msu.edu](https://jobs.sle.msu.edu)
+ - date_published: 2024-05-07T19:38:22.225443+00:00
+
+ ## Enviroweather - Weather for IPM decisions in Michigan
+ - [https://legacy.enviroweather.msu.edu](https://legacy.enviroweather.msu.edu)
+ - date_published: 2024-07-01T12:57:10.941888+00:00
+
+ ## Home | Live On - Michigan State University
+ - [https://liveon.msu.edu](https://liveon.msu.edu)
+ - date_published: 2024-05-07T19:38:48.453283+00:00
+
+ ## Home
+ - [https://maflt.cal.msu.edu](https://maflt.cal.msu.edu)
+ - date_published: 2024-07-01T12:27:48.191234+00:00
+
+ ## MOSAIC: The Multicultural Unity Center | Michigan State University
+ - [https://mosaic.msu.edu](https://mosaic.msu.edu)
+ - date_published: 2023-08-24T15:08:22+00:00
+
+ ## MSU Bakers
+ - [https://msubakers.msu.edu](https://msubakers.msu.edu)
+ - date_published: 2024-07-01T15:43:16.659771+00:00
+
+ ## Home Page | MSU Tennis Center
+ - [https://msutennis.msu.edu](https://msutennis.msu.edu)
+ - date_published: 2024-05-07T19:38:39.592860+00:00
+
+ ## https://msutoday.msu.edu
+ - [https://msutoday.msu.edu](https://msutoday.msu.edu)
+ - date_published: 2023-12-23T11:36:25.043855+00:00
+
+ ## Home
+ - [https://nssc.msu.edu](https://nssc.msu.edu)
+ - date_published: 2024-06-22T10:17:11.201268+00:00
+
+ ## Office of Cultural & Academic Transitions
+ - [https://ocat.msu.edu](https://ocat.msu.edu)
+ - date_published: 2024-07-01T15:43:09.232769+00:00
+
+ ## Home | Office of Student Support & Accountability
+ - [https://ossa.msu.edu](https://ossa.msu.edu)
+ - date_published: 2024-07-01T15:42:49.936170+00:00
+
+ ## TRIO Student Support Services Program
+ - [http://oss.msu.edu](http://oss.msu.edu)
+ - date_published: 2024-06-22T10:17:05.340195+00:00
+
+ ## Spartan Family Connections | Student Life & Engagement
+ - [https://parents.msu.edu](https://parents.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Prevention, Outreach and Education Department | Michigan State University
+ - [https://poe.msu.edu](https://poe.msu.edu)
+ - date_published: 2024-07-01T15:41:19.424924+00:00
+
+ ## Office of the President | Michigan State University
+ - [https://president.msu.edu](https://president.msu.edu)
+ - date_published: 2024-07-01T15:42:48.550983+00:00
+
+ ## Recreational Sports and Fitness Services | Michigan State University
+ - [http://recsports.msu.edu](http://recsports.msu.edu)
+ - date_published: 2024-05-31T15:07:48+00:00
+
+ ## MSU RO:
+    Office of the Registrar - Michigan State University
+ - [https://reg.msu.edu](https://reg.msu.edu)
+ - date_published: 2024-06-22T10:16:50.077945+00:00
+
+ ## Home Page | Student Life & Engagement
+ - [https://rhs.msu.edu](https://rhs.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
+ ## Welcome to MSU Scholarships
+ - [https://scholarships.msu.edu](https://scholarships.msu.edu)
+ - date_published: 2024-05-14T23:20:27+00:00
+
+ ## Michigan State University shop.msu.edu
+ - [https://shop.msu.edu](https://shop.msu.edu)
+ - date_published: 2024-06-22T10:16:48.418099+00:00
+
+ ## Home Page | Student Life & Engagement
+ - [https://sle.msu.edu](https://sle.msu.edu)
+ - date_published: 2024-01-08T00:00:00+00:00
+
  ## Home | Spartan Cash
  - [https://spartancash.msu.edu](https://spartancash.msu.edu)
  - date_published: 2024-05-07T19:38:41.505141+00:00
@@ -3895,108 +4000,4 @@
  ## Home | The Lillian & Clarence de la Chapelle Medical Archives
  - [https://archives.med.nyu.edu](https://archives.med.nyu.edu)
  - date_published: 2024-07-06T06:28:04+00:00
-
- ## Arts & Science
- - [https://as.nyu.edu](https://as.nyu.edu)
- - date_published: 2024-05-04T09:00:47.115232+00:00
-
- ## NYU Stern Center for Business & Human Rights
- - [https://bhr.stern.nyu.edu](https://bhr.stern.nyu.edu)
- - date_published: 2024-09-02T11:49:15.039416+00:00
-
- ## OSIRIS Lab at NYU Tandon
- - [https://blog.osiris.cyber.nyu.edu](https://blog.osiris.cyber.nyu.edu)
- - date_published: 2023-10-25T18:56:14.326050+00:00
-
- ## Web Publishing
- - [http://blogs.nyu.edu](http://blogs.nyu.edu)
- - date_published: 2024-06-20T03:54:05.478515+00:00
-
- ## NYU Login
- - [https://brightspace.nyu.edu](https://brightspace.nyu.edu)
- - date_published: 2024-07-20T11:22:10.100014+00:00
-
- ## New York University Bulletins | NYU Bulletins
- - [https://bulletins.nyu.edu](https://bulletins.nyu.edu)
- - date_published: 2024-07-19T16:25:42+00:00
-
- ## College of Arts & Science
- - [http://cas.nyu.edu](http://cas.nyu.edu)
- - date_published: 2024-06-21T19:15:57+00:00
-
- ## NYU Shanghai | NYU Shanghai
- - [https://cdn.shanghai.nyu.edu](https://cdn.shanghai.nyu.edu)
- - date_published: 2024-06-21T22:49:06+00:00
-
- ## Center for Data Science - New York University
- - [https://cds.nyu.edu](https://cds.nyu.edu)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Center for European and Mediterranean Studies
- - [http://cems.as.nyu.edu](http://cems.as.nyu.edu)
- - date_published: 2024-06-13T21:53:10+00:00
-
- ## Institute | NYU Courant
- - [https://cims.nyu.edu](https://cims.nyu.edu)
- - date_published: 2023-10-25T18:56:17.174439+00:00
-
- ## Clinical Trials & Research Studies | NYU Langone Medical Center
- - [https://clinicaltrials.med.nyu.edu](https://clinicaltrials.med.nyu.edu)
- - date_published: 2024-07-08T11:28:06.504895+00:00
-
- ## Commencement | NYU Shanghai Commencement
- - [https://commencement.shanghai.nyu.edu](https://commencement.shanghai.nyu.edu)
- - date_published: 2024-06-19T04:14:14+00:00
-
- ## Undergraduate Admissions
- - [http://connect.nyu.edu](http://connect.nyu.edu)
- - date_published: 2024-06-20T19:13:48+00:00
-
- ## Algorithms and Foundations
- - [https://csefoundations.engineering.nyu.edu](https://csefoundations.engineering.nyu.edu)
- - date_published: 2024-05-07T19:49:51.079377+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [http://cs.nyu.edu](http://cs.nyu.edu)
- - date_published: 2021-08-09T11:43:42+00:00
-
- ## NYU Data Catalog
- - [https://datacatalog.med.nyu.edu](https://datacatalog.med.nyu.edu)
- - date_published: 2024-07-08T11:28:45.598961+00:00
-
- ## Digital Library Technology Services – A unit of NYU Libraries and NYU IT
- - [https://dlib.nyu.edu](https://dlib.nyu.edu)
- - date_published: 2024-07-14T23:42:56.995599+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [https://dsm-psychiatryonline-org.ezproxy.med.nyu.edu](https://dsm-psychiatryonline-org.ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:44.215075+00:00
-
- ## Home | NYU Tandon School of Engineering
- - [https://engineering.nyu.edu](https://engineering.nyu.edu)
- - date_published: 2024-05-19T02:41:46.413102+00:00
-
- ## Calendar - NYU Shanghai
- - [https://events.shanghai.nyu.edu](https://events.shanghai.nyu.edu)
- - date_published: 2024-06-21T23:05:57.045486+00:00
-
- ## Choose Your Affiliation - NYU Health Sciences Library
- - [http://ezproxy.med.nyu.edu](http://ezproxy.med.nyu.edu)
- - date_published: 2024-07-08T11:28:36.615968+00:00
-
- ## NYU Login
- - [https://faculty.shanghai.nyu.edu](https://faculty.shanghai.nyu.edu)
- - date_published: 2024-06-21T23:05:58.916755+00:00
-
- ## NYU Shanghai - Education Development Foundation | NYU Shanghai - Education Development Foundation
- - [https://foundation.shanghai.nyu.edu](https://foundation.shanghai.nyu.edu)
- - date_published: 2024-06-21T22:59:11+00:00
-
- ## NYU Gallatin School of Individualized Study
- - [http://gallatin.nyu.edu](http://gallatin.nyu.edu)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## NYU Game Center
- - [http://gamecenter.nyu.edu](http://gamecenter.nyu.edu)
- - date_published: 2024-06-22T08:43:40.855631+00:00
 

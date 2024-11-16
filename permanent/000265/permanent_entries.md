@@ -1,3 +1,107 @@
+ ## The Big Tent
+ - [https://bigtent.southwestern.edu](https://bigtent.southwestern.edu)
+ - date_published: 2024-06-30T01:13:40.700377+00:00
+
+ ## Admissions | Spelman College
+ - [https://apply.spelman.edu](https://apply.spelman.edu)
+ - date_published: 2024-09-16T07:36:06.431929+00:00
+
+ ## Spelman College
+ - [https://spelman.edu](https://spelman.edu)
+ - date_published: 2024-06-15T05:15:46.255177+00:00
+
+ ## Slippery Rock University of Pennsylvania
+ - [http://www.sru.edu](http://www.sru.edu)
+ - date_published: 2024-06-28T14:19:22.128064+00:00
+
+ ## Centre for Media Studies at SSE Riga – Anne-Marie and Gustaf Ander Centre for Media Studies
+ - [https://mediacentre.sseriga.edu](https://mediacentre.sseriga.edu)
+ - date_published: 2024-08-18T19:05:43.900932+00:00
+
+ ## International Conference on 3D Vision 2016
+ - [http://3dv.stanford.edu](http://3dv.stanford.edu)
+ - date_published: 2016-11-01T20:52:34+00:00
+
+ ## Aeronautics and Astronautics
+ - [https://aa.stanford.edu](https://aa.stanford.edu)
+ - date_published: 2024-06-27T17:21:03+00:00
+
+ ## Stanford Accelerator for Learning
+ - [https://acceleratelearning.stanford.edu](https://acceleratelearning.stanford.edu)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Stanford Accounts
+ - [https://accounts.stanford.edu](https://accounts.stanford.edu)
+ - date_published: 2024-06-16T08:14:25.565273+00:00
+
+ ## Activity Inequality
+ - [http://activityinequality.stanford.edu](http://activityinequality.stanford.edu)
+ - date_published: 2024-07-02T13:34:48.597377+00:00
+
+ ## Administrative Guide
+ - [https://adminguide.stanford.edu](https://adminguide.stanford.edu)
+ - date_published: 2024-05-07T20:25:07.492650+00:00
+
+ ## Undergraduate Admission : Stanford University
+ - [https://admission.stanford.edu](https://admission.stanford.edu)
+ - date_published: 2024-05-07T20:31:08.669167+00:00
+
+ ## Academic Advising
+ - [http://advising.sites.stanford.edu](http://advising.sites.stanford.edu)
+ - date_published: 2024-06-24T16:00:43+00:00
+
+ ## One Hundred Year Study on Artificial Intelligence (AI100)
+ - [https://ai100.stanford.edu](https://ai100.stanford.edu)
+ - date_published: 2024-07-24T03:18:12.149519+00:00
+
+ ## Partnership in AI-Assisted Care
+ - [https://aicare.stanford.edu](https://aicare.stanford.edu)
+ - date_published: 2024-05-07T00:00:00+00:00
+
+ ## Artificial Intelligence Index
+ - [https://aiindex.stanford.edu](https://aiindex.stanford.edu)
+ - date_published: 2023-10-25T18:58:07.854720+00:00
+
+ ## Stanford Artificial Intelligence Laboratory
+ - [https://ai.stanford.edu](https://ai.stanford.edu)
+ - date_published: 2023-10-25T18:58:06.440600+00:00
+
+ ## Office of Substance Use Programs Education & Resources (SUPER)
+ - [https://alcohol.stanford.edu](https://alcohol.stanford.edu)
+ - date_published: 2024-06-26T21:26:40+00:00
+
+ ## Welcome to the Stanford Alumni Association
+ - [https://alumni.stanford.edu](https://alumni.stanford.edu)
+ - date_published: 2024-05-07T20:31:05.422665+00:00
+
+ ## AMELIE (Automatic Mendelian Literature Evaluation)
+ - [https://amelie.stanford.edu](https://amelie.stanford.edu)
+ - date_published: 2021-06-29T20:11:39+00:00
+
+ ## Anderson Collection at Stanford University
+ - [http://anderson.stanford.edu](http://anderson.stanford.edu)
+ - date_published: 2024-05-30T00:00:00+00:00
+
+ ## APARC Home | FSI
+ - [https://aparc.fsi.stanford.edu](https://aparc.fsi.stanford.edu)
+ - date_published: 2024-09-09T15:40:18+00:00
+
+ ## Knight-Hennessy Scholars at Stanford University
+ - [https://apply.knight-hennessy.stanford.edu](https://apply.knight-hennessy.stanford.edu)
+ - date_published: 2024-10-25T01:41:53+00:00
+
+ ## Approaching Stanford
+ - [https://approaching.stanford.edu](https://approaching.stanford.edu)
+ - date_published: 2024-05-20T21:49:05+00:00
+
+ ## Kunle Olukotun
+ - [http://arsenalfc.stanford.edu](http://arsenalfc.stanford.edu)
+ - date_published: 2019-11-05T18:52:37+00:00
+
+ ## Arts Intensive
+ - [https://artsintensive.stanford.edu](https://artsintensive.stanford.edu)
+ - date_published: 2024-04-26T19:43:24+00:00
+
  ## Stanford Arts
  - [https://arts.stanford.edu](https://arts.stanford.edu)
  - date_published: 2024-05-07T20:30:31.849575+00:00
@@ -3907,108 +4011,4 @@
  ## Freeman School of Business | Freeman School of Business Tulane University
  - [https://freeman.tulane.edu](https://freeman.tulane.edu)
  - date_published: 2024-10-14T19:18:22+00:00
-
- ## Home - Gibson Online
- - [https://gibson.tulane.edu](https://gibson.tulane.edu)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Home Page
- - [https://giving.tulane.edu](https://giving.tulane.edu)
- - date_published: 2024-05-07T20:39:38.576831+00:00
-
- ## Tulane Office of Human Resources & Institutional Equity | Tulane University HR
- - [https://hr.tulane.edu](https://hr.tulane.edu)
- - date_published: 2024-05-07T20:39:35.202685+00:00
-
- ## Walter Isaacson Tulane |
- - [https://isaacson.tulane.edu](https://isaacson.tulane.edu)
- - date_published: 2024-09-14T23:02:42.008113+00:00
-
- ## Tulane Staff Positions
- - [https://jobs.tulane.edu](https://jobs.tulane.edu)
- - date_published: 2024-07-01T21:48:10.771076+00:00
-
- ## School of Liberal Arts at Tulane University
- - [https://liberalarts.tulane.edu](https://liberalarts.tulane.edu)
- - date_published: 2024-05-01T03:32:44.827662+00:00
-
- ## Home | TU Libraries
- - [http://library.tulane.edu](http://library.tulane.edu)
- - date_published: 2024-06-28T19:25:41+00:00
-
- ## Tulane News
- - [https://news.tulane.edu](https://news.tulane.edu)
- - date_published: 2023-10-25T18:59:42.065237+00:00
-
- ## Office of Assessment and Institutional Research | Office of Assessment and Institutional Research
- - [https://oair.tulane.edu](https://oair.tulane.edu)
- - date_published: 2024-07-30T20:49:44+00:00
-
- ## Office of Graduate and Postdoctoral Studies | Office Graduate and Postdoctoral Studies
- - [https://ogps.tulane.edu](https://ogps.tulane.edu)
- - date_published: 2024-09-10T15:22:02+00:00
-
- ## home | President
- - [https://president.tulane.edu](https://president.tulane.edu)
- - date_published: 2024-07-01T15:05:09+00:00
-
- ## Office of the Provost | Tulane University Provost
- - [https://provost.tulane.edu](https://provost.tulane.edu)
- - date_published: 2024-07-01T17:38:14+00:00
-
- ## Homepage | Tulane University - Office of the University Registrar
- - [https://registrar.tulane.edu](https://registrar.tulane.edu)
- - date_published: 2024-07-01T18:49:55+00:00
-
- ## Paving the Way for Research | Tulane Office of Research
- - [https://research.tulane.edu](https://research.tulane.edu)
- - date_published: 2024-06-28T14:54:20+00:00
-
- ## Office of Enterprise Risk Services | Office of Enterprise Risk Services
- - [https://risk.tulane.edu](https://risk.tulane.edu)
- - date_published: 2024-06-25T17:56:22+00:00
-
- ## IIS7
- - [https://sars.tulane.edu](https://sars.tulane.edu)
- - date_published: 2013-06-26T16:55:52+00:00
-
- ## E-Business Suite Home Page Redirect
- - [https://selfservice.tulane.edu](https://selfservice.tulane.edu)
- - date_published: 2024-04-06T16:02:49+00:00
-
- ## Home | Student Affairs
- - [https://studentaffairs.tulane.edu](https://studentaffairs.tulane.edu)
- - date_published: 2024-07-01T17:25:13+00:00
-
- ## Summer School | Summer at Tulane
- - [http://summerschool.tulane.edu](http://summerschool.tulane.edu)
- - date_published: 2024-07-01T21:40:37.118332+00:00
-
- ## Tulane Pre-College Programs | Homepage
- - [https://summer.tulane.edu](https://summer.tulane.edu)
- - date_published: 2024-06-22T13:24:04+00:00
-
- ## Tulane Undergraduate Assembly | Tulane University
- - [https://tua.tulane.edu](https://tua.tulane.edu)
- - date_published: 2024-07-01T21:47:10.092535+00:00
-
- ## Home | Tulane University
- - [https://tulane.edu](https://tulane.edu)
- - date_published: 2024-05-07T20:39:13.280356+00:00
-
- ## Spring 2024 | Tulanian
- - [https://tulanian.tulane.edu](https://tulanian.tulane.edu)
- - date_published: 2024-05-07T20:39:20.335508+00:00
-
- ## Tulane University Leadership Institute | Tulane University Leadership Institute
- - [https://tuli.tulane.edu](https://tuli.tulane.edu)
- - date_published: 2024-07-01T21:48:19.372644+00:00
-
- ## Tulane Mathematics Department
- - [http://www.math.tulane.edu](http://www.math.tulane.edu)
- - date_published: 2019-09-26T19:18:01+00:00
-
- ## Home | Tulane University
- - [http://www.museum.tulane.edu](http://www.museum.tulane.edu)
- - date_published: 2024-06-23T10:35:31+00:00
 

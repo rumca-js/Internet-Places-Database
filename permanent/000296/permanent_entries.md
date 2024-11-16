@@ -1,3 +1,111 @@
+ ## Directorate of Govt. Examinations (Telangana.)
+ - [https://www.bse.telangana.gov.in](https://www.bse.telangana.gov.in)
+ - date_published: 2024-08-19T20:29:38.502480+00:00
+
+ ## UDISE+ Dashboard
+ - [https://dashboard.udiseplus.gov.in](https://dashboard.udiseplus.gov.in)
+ - date_published: 2023-08-16T06:21:03+00:00
+
+ ## Department of School Education and Literacy
+ - [https://kys.udiseplus.gov.in](https://kys.udiseplus.gov.in)
+ - date_published: 2024-09-11T06:30:32+00:00
+
+ ## Know Your School
+ - [http://src.udiseplus.gov.in](http://src.udiseplus.gov.in)
+ - date_published: 2024-09-11T17:38:46.337651+00:00
+
+ ## Udyam Registration : Zero cost, No Fee and Free Registration of MSMEs. This is official website of Govt. of India, Ministry of MSME. No other website/portal/app is official.  MSMEs are requested to do MSME Registration here only
+ - [http://udyogaadhaar.gov.in](http://udyogaadhaar.gov.in)
+ - date_published: 2024-08-08T13:39:02+00:00
+
+ ## UMANG - One App, Many Government Services
+ - [https://web.umang.gov.in](https://web.umang.gov.in)
+ - date_published: 2024-08-08T16:03:17.162319+00:00
+
+ ## Events & Festivals in India | A Ministry of Tourism Initiative
+ - [https://utsav.gov.in](https://utsav.gov.in)
+ - date_published: 2024-08-08T15:03:08.600227+00:00
+
+ ## Vedic Heritage Portal | Vedic Heritage Portal
+ - [http://vedicheritage.gov.in](http://vedicheritage.gov.in)
+ - date_published: 2024-07-31T13:51:50+00:00
+
+ ## E-PROCUEMENT PORTAL
+ - [https://eproc.vssc.gov.in](https://eproc.vssc.gov.in)
+ - date_published: 2024-04-28T00:30:19.628098+00:00
+
+ ## Official Website of West Bengal Council of Higher Secondary Education
+ - [https://wbchse.wb.gov.in](https://wbchse.wb.gov.in)
+ - date_published: 2024-08-08T00:00:00+00:00
+
+ ## World Food India 2024
+ - [https://worldfoodindia.gov.in](https://worldfoodindia.gov.in)
+ - date_published: 2024-08-08T14:00:03.766102+00:00
+
+ ## The Washington Street Bridge
+ - [https://10foot6.in](https://10foot6.in)
+ - date_published: 2024-04-12T01:47:14+00:00
+
+ ## 1WIN CASINO AND SPORT BETS
+ - [https://1-win-casino.in](https://1-win-casino.in)
+ - date_published: 2024-03-05T06:11:51+00:00
+
+ ## 1Win India – Online Betting and Casino Official Website
+ - [https://1winpro.in](https://1winpro.in)
+ - date_published: 2024-07-14T12:30:23.730216+00:00
+
+ ## 1xBet Bonus India - Enjoy Betting Benefits at Home
+ - [https://1xbetbonus.in](https://1xbetbonus.in)
+ - date_published: 2023-07-11T16:28:04+00:00
+
+ ## 1xBet Cricket: Premier Online Betting Home in India
+ - [https://1xbetcricket.in](https://1xbetcricket.in)
+ - date_published: 2023-07-26T23:59:47+00:00
+
+ ## Top Online Betting Platform - Home | 1xBet India
+ - [https://1xbetindia.in](https://1xbetindia.in)
+ - date_published: 2024-08-07T21:32:16.077033+00:00
+
+ ## Top Online Sports Betting Experience - 1xBet India
+ - [https://1xbetsportsbetting.in](https://1xbetsportsbetting.in)
+ - date_published: 2023-07-11T16:24:49+00:00
+
+ ## 3M Science. Applied to Life. | 3M India
+ - [https://www.3mindia.in](https://www.3mindia.in)
+ - date_published: 2024-08-06T10:37:54.251746+00:00
+
+ ## 4rabet India Best Online Casino for Real Gamblers
+ - [https://4abet.in](https://4abet.in)
+ - date_published: 2024-01-24T17:45:35+00:00
+
+ ## 8 Ball Shoot It All
+ - [https://8ball.in](https://8ball.in)
+ - date_published: 2024-10-12T15:28:34.520454+00:00
+
+ ## 99Games | Super Indie Studio
+ - [http://www.99games.in](http://www.99games.in)
+ - date_published: 2024-02-13T06:43:55+00:00
+
+ ## Machinery and Machiney Products Manufacturer - Industrial Machinery Magazine | Newspaper, Journal in India
+ - [http://99machineryforyou.in](http://99machineryforyou.in)
+ - date_published: 2024-10-15T21:40:28.251841+00:00
+
+ ## Plastic Products Manufacturer - Online Plastic PVC, Polymers Material Magazine, Journal In India
+ - [http://99plastprintpack.in](http://99plastprintpack.in)
+ - date_published: 2024-10-15T21:39:16.982911+00:00
+
+ ## Hindi news, हिंदी न्यूज़ , Hindi Samachar, हिंदी समाचार, Latest News in Hindi, Breaking News in Hindi, ताजा ख़बरें, Aaj Tak News
+ - [https://aajtak.in](https://aajtak.in)
+ - date_published: 2024-07-17T10:10:33+00:00
+
+ ## Agenda Aaj Tak 2022 | एजेंडा आज तक 2022 - Aaj Tak
+ - [http://agenda.aajtak.in](http://agenda.aajtak.in)
+ - date_published: 2024-07-17T04:20:22+00:00
+
+ ## Bengali News: (বাংলা সংবাদ) Latest News in Bangla | Ajker Khobor - AajTak Bangla
+ - [https://bangla.aajtak.in](https://bangla.aajtak.in)
+ - date_published: 2024-04-28T01:39:15.757299+00:00
+
  ## Podcast Audio, Podcast News Audio, Podcast Online News - AajTak
  - [https://podcasts.aajtak.in](https://podcasts.aajtak.in)
  - date_published: 2024-05-12T00:00:00+00:00
@@ -3919,112 +4027,4 @@
  ## India's No.1 SSL Certificate Provider with Dedicated Support Team
  - [https://www.ssltrust.in](https://www.ssltrust.in)
  - date_published: 2024-06-16T08:31:51.916874+00:00
-
- ## StarJam
- - [http://starjam.in](http://starjam.in)
- - date_published: 2024-07-14T09:57:12.839224+00:00
-
- ## Kerala Startup Mission
- - [https://itpolicy.startupmission.in](https://itpolicy.startupmission.in)
- - date_published: 2024-01-17T11:30:40+00:00
-
- ## Statkraft
- - [https://www.statkraft.in](https://www.statkraft.in)
- - date_published: 2023-11-07T00:00:00+00:00
-
- ## Home - Steer Advisors
- - [https://steeradvisors.in](https://steeradvisors.in)
- - date_published: 2024-06-17T01:58:22.249268+00:00
-
- ## STEM and Music
- - [https://stemandmusic.in](https://stemandmusic.in)
- - date_published: 2024-04-30T07:45:22.364382+00:00
-
- ## STEP - English Learning Blog
- - [https://blog.steptest.in](https://blog.steptest.in)
- - date_published: 2024-06-24T08:53:25.734101+00:00
-
- ## STEP | Online English Course, English Learning App
- - [https://english.steptest.in](https://english.steptest.in)
- - date_published: 2024-05-06T01:29:34+00:00
-
- ## Software Technology Park of India | Ministry of Electronics & Information Technology Government of India
- - [https://stpi.in](https://stpi.in)
- - date_published: 2024-08-08T15:42:24+00:00
-
- ## Streamix | Votre plateforme de streaming de films et séries en ligne
- - [https://www.streamix.in](https://www.streamix.in)
- - date_published: 2024-11-11T08:11:04.138360+00:00
-
- ## s-tronomic
- - [https://www.s-tronomic.in](https://www.s-tronomic.in)
- - date_published: 2024-04-30T07:44:17.159165+00:00
-
- ## Home - SUCO Bank
- - [https://sucobank.in](https://sucobank.in)
- - date_published: 2021-11-10T12:40:36+00:00
-
- ## Sunfox Technologies | Transforming Healthcare
- - [https://sunfox.in](https://sunfox.in)
- - date_published: 2024-06-27T00:00:00+00:00
-
- ## Home
- - [https://garden.sunils.in](https://garden.sunils.in)
- - date_published: 2024-08-08T03:09:01.370984+00:00
-
- ## Superflux
- - [https://superflux.in](https://superflux.in)
- - date_published: 2024-05-06T20:00:00.235871+00:00
-
- ## We are on a mission to make Government Services Fast and Free.
- - [https://superr.in](https://superr.in)
- - date_published: 2023-10-25T19:31:48.323208+00:00
-
- ## मुखपृष्ठ - अंतरराष्ट्रीय उत्तरजीविता
- - [https://www.survivalinternational.in](https://www.survivalinternational.in)
- - date_published: 2024-07-14T13:42:03.386483+00:00
-
- ## Sweatcoin: Healthier planet. Healthier, wealthier you
- - [https://sweatco.in](https://sweatco.in)
- - date_published: 2024-07-14T22:11:12.924154+00:00
-
- ## Marvis – Best Web Design and development Company In Delhi,Outstanding website designing company in Pitampura
- - [http://demo.syntrio.in](http://demo.syntrio.in)
- - date_published: 2024-09-16T13:07:10.514433+00:00
-
- ## Syntrio Technologies
- - [https://syntrio.in](https://syntrio.in)
- - date_published: 2024-09-16T13:08:32.482336+00:00
-
- ## தமிழ் இணையக் கல்விக்கழக மின்னூலகம்
- - [https://www.tamildigitallibrary.in](https://www.tamildigitallibrary.in)
- - date_published: 2024-07-02T06:04:31.616760+00:00
-
- ## 涛叔
- - [https://taoshu.in](https://taoshu.in)
- - date_published: 2023-11-26T06:25:53.363435+00:00
-
- ## Odio - My Corner of the Web
- - [https://tari.in](https://tari.in)
- - date_published: 2024-07-13T19:31:41.040908+00:00
-
- ## TaxGuru
- - [https://taxguru.in](https://taxguru.in)
- - date_published: 2024-09-15T19:35:37+00:00
-
- ## Taxscan | Simplifying Tax Laws
- - [https://www.taxscan.in](https://www.taxscan.in)
- - date_published: 2024-07-08T21:05:15.417605+00:00
-
- ## Techbreeze IT Solutions
- - [https://www.techbreeze.in](https://www.techbreeze.in)
- - date_published: 2024-08-18T04:34:09.428726+00:00
-
- ## TechCircle: India's leading Tech business information website. | Techcircle
- - [https://www.techcircle.in](https://www.techcircle.in)
- - date_published: 2024-08-07T15:24:04.339290+00:00
-
- ## Techlomedia Gadgets - India's Gadget Research Platform
- - [https://gadgets.techlomedia.in](https://gadgets.techlomedia.in)
- - date_published: 2024-04-28T01:43:02.298094+00:00
 

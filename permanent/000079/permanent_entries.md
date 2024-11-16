@@ -1,3 +1,29 @@
+ ## CORYS | DYNAMIC SIMULATION
+ - [https://www.corys.com](https://www.corys.com)
+ - date_published: 2024-10-01T09:39:26+00:00
+
+ ## Cory Schmitz
+ - [https://coryschmitz.com](https://coryschmitz.com)
+ - date_published: 2024-06-18T16:54:22.109320+00:00
+ - tags: ['personal', 'graphic artist']
+
+ ## Cory Shaw | Cory Shaw
+ - [https://coryshaw.com](https://coryshaw.com)
+ - date_published: 2024-01-08T15:36:54.508225+00:00
+ - tags: ['personal']
+
+ ## Cory Zue | Full-Stack Developer, Maker of Products, and Solopreneur
+ - [https://coryzue.com](https://coryzue.com)
+ - date_published: 2023-10-25T13:34:24.334483+00:00
+
+ ## COS - Contemporary Style, Designed To Last - Shop Online - ES
+ - [https://www.cos.com](https://www.cos.com)
+ - date_published: 2024-06-27T12:26:36.693705+00:00
+
+ ## CosaVostra - Agence de conseil tech et créative
+ - [https://www.cosavostra.com](https://www.cosavostra.com)
+ - date_published: 2024-10-30T02:33:03+00:00
+
  ## Organize All Of Your Marketing In One Place - CoSchedule
  - [https://coschedule.com](https://coschedule.com)
  - date_published: 2024-06-22T15:50:04.326661+00:00
@@ -4011,29 +4037,4 @@
  ## Cricket Ventures
  - [http://www.cricketventures.com](http://www.cricketventures.com)
  - date_published: 2024-09-15T10:41:55.365828+00:00
-
- ## CRIF | Credit Bureau Reporting and Business Information
- - [https://www.crif.com](https://www.crif.com)
- - date_published: 2024-10-31T10:24:54.609729+00:00
-
- ## Homepage | A+E Networks EMEA
- - [https://www.crimeandinvestigationnetwork.com](https://www.crimeandinvestigationnetwork.com)
- - date_published: 2024-07-20T23:40:16.068783+00:00
-
- ## CRIME De-Coder
- - [https://crimede-coder.com](https://crimede-coder.com)
- - date_published: 2024-08-18T11:27:01.044766+00:00
-
- ## Home
- - [https://crimefictionlover.com](https://crimefictionlover.com)
- - date_published: 2024-10-20T23:44:21.474612+00:00
-
- ## Crime in Time
- - [https://www.crimeintime.com](https://www.crimeintime.com)
- - date_published: 2024-11-12T22:41:13.481968+00:00
- - tags: ['personal']
-
- ## CrimeIsDown.com
- - [https://crimeisdown.com](https://crimeisdown.com)
- - date_published: 2024-07-20T18:05:02.220357+00:00
 

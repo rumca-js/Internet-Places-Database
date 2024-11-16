@@ -1,3 +1,107 @@
+ ## Map Gallery
+ - [https://map.hawaii.edu](https://map.hawaii.edu)
+ - date_published: 2023-03-23T20:59:24+00:00
+
+ ## Department of Mathematics | University of Hawaiʻi at Mānoa
+ - [https://math.hawaii.edu](https://math.hawaii.edu)
+ - date_published: 2024-06-30T09:12:46.112911+00:00
+
+ ## University of Hawaii Maui College - We Are Maui More Than Ever
+ - [https://maui.hawaii.edu](https://maui.hawaii.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## MyUH Services
+ - [https://myuh.hawaii.edu](https://myuh.hawaii.edu)
+ - date_published: 2024-04-30T04:49:55.803675+00:00
+
+ ## NFLRC | National Foreign Language Resource Center
+ - [http://nflrc.hawaii.edu](http://nflrc.hawaii.edu)
+ - date_published: 2024-09-02T16:31:27.211669+00:00
+
+ ## Nancy Atmospera-Walch School of Nursing
+ - [https://nursing.hawaii.edu](https://nursing.hawaii.edu)
+ - date_published: 2024-07-21T22:54:56.069212+00:00
+
+ ## Office of Continuing Education – OCET
+ - [https://ocet.kauai.hawaii.edu](https://ocet.kauai.hawaii.edu)
+ - date_published: 2024-07-21T23:03:42.782432+00:00
+
+ ## Home
+ - [https://olelo.hawaii.edu](https://olelo.hawaii.edu)
+ - date_published: 2023-10-25T01:38:34+00:00
+
+ ## Welcome to the Daniel K. Inouye College of Pharmacy
+ - [http://pharmacy.uhh.hawaii.edu](http://pharmacy.uhh.hawaii.edu)
+ - date_published: 2024-06-10T07:23:09+00:00
+
+ ## Office of the Vice President for Research and Innovation
+ - [https://research.hawaii.edu](https://research.hawaii.edu)
+ - date_published: 2024-08-08T21:21:21.802003+00:00
+
+ ## Campus Student Employment Office | Log In
+ - [https://sece.its.hawaii.edu](https://sece.its.hawaii.edu)
+ - date_published: 2024-07-21T23:03:30.914727+00:00
+
+ ## University of Hawaiʻi at Mānoa Shidler College of Business
+ - [http://shidler.hawaii.edu](http://shidler.hawaii.edu)
+ - date_published: 2024-07-21T22:54:28+00:00
+
+ ## STAR: A University of Hawaii Venture - Login
+ - [https://star.hawaii.edu](https://star.hawaii.edu)
+ - date_published: 2024-07-21T22:55:30.120034+00:00
+
+ ## WelcomePage - Starlink
+ - [https://starlink.eao.hawaii.edu](https://starlink.eao.hawaii.edu)
+ - date_published: 2024-05-20T00:00:00+00:00
+
+ ## University Center, Maui
+ - [http://uctrmaui.hawaii.edu](http://uctrmaui.hawaii.edu)
+ - date_published: 2024-04-22T00:00:00+00:00
+
+ ## Login
+ - [http://uhad.hawaii.edu](http://uhad.hawaii.edu)
+ - date_published: 2024-09-05T09:54:58.024750+00:00
+
+ ## Home
+ - [https://uhcc.hawaii.edu](https://uhcc.hawaii.edu)
+ - date_published: 2024-04-30T04:50:27.431940+00:00
+
+ ## University of Hawai'i–West O'ahu
+ - [https://uhwo.hawaii.edu](https://uhwo.hawaii.edu)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## University of Hawai'i–West O'ahu
+ - [https://westoahu.hawaii.edu](https://westoahu.hawaii.edu)
+ - date_published: 2024-05-10T00:00:00+00:00
+
+ ## Windward Community College
+ - [https://windward.hawaii.edu](https://windward.hawaii.edu)
+ - date_published: 2024-04-30T04:48:02.805740+00:00
+
+ ## Home
+ - [https://wp01.leeward.hawaii.edu](https://wp01.leeward.hawaii.edu)
+ - date_published: 2024-07-24T00:00:00+00:00
+
+ ## Redirecting you to University of Hawaii...
+ - [https://www2.hawaii.edu](https://www2.hawaii.edu)
+ - date_published: 2009-08-26T01:52:49+00:00
+
+ ## Leeward Community College – Leeward Community College
+ - [http://www2.leeward.hawaii.edu](http://www2.leeward.hawaii.edu)
+ - date_published: 2024-08-10T00:00:00+00:00
+
+ ## Hawaii/Pacific Basin Area Health Education Center - AHEC
+ - [http://www.ahec.hawaii.edu](http://www.ahec.hawaii.edu)
+ - date_published: 2024-04-18T00:00:00+00:00
+
+ ## Anthropology (ANTH) – College of Social Sciences, UH Mānoa, Hawaiʻi
+ - [http://www.anthropology.hawaii.edu](http://www.anthropology.hawaii.edu)
+ - date_published: 2024-06-24T10:34:23.904271+00:00
+
+ ## Welcome | University of Hawai'i Bookstores
+ - [https://www.bookstore.hawaii.edu](https://www.bookstore.hawaii.edu)
+ - date_published: 2024-07-21T23:03:35.897989+00:00
+
  ## CTAHR Website > Home
  - [http://www.ctahr.hawaii.edu](http://www.ctahr.hawaii.edu)
  - date_published: 2024-10-15T07:11:59.301708+00:00
@@ -3905,108 +4009,4 @@ Data Services
  ## Login - Single Sign On | The University of Kansas
  - [https://login.ku.edu](https://login.ku.edu)
  - date_published: 2024-07-01T12:41:58.399131+00:00
-
- ## Outlook
- - [https://mail.ku.edu](https://mail.ku.edu)
- - date_published: 2024-07-01T12:24:48.096346+00:00
-
- ## Homepage
- - [https://music.ku.edu](https://music.ku.edu)
- - date_published: 2024-07-15T06:07:00.317920+00:00
-
- ## MyIdentity Services | Information Technology
- - [https://myidentity.ku.edu](https://myidentity.ku.edu)
- - date_published: 2024-07-01T12:35:05.013454+00:00
-
- ## myKU Welcome | myKU Portal
- - [https://my.ku.edu](https://my.ku.edu)
- - date_published: 2024-05-07T19:20:22.923772+00:00
-
- ## New2KU
- - [https://new2.ku.edu](https://new2.ku.edu)
- - date_published: 2024-07-01T12:35:02.950648+00:00
-
- ## Homepage
- - [https://newhires.ku.edu](https://newhires.ku.edu)
- - date_published: 2024-07-01T12:35:35.922720+00:00
-
- ## Featured news and headlines | KU News
- - [https://news.ku.edu](https://news.ku.edu)
- - date_published: 2024-02-24T10:01:56.501520+00:00
-
- ## Home
- - [https://online.ku.edu](https://online.ku.edu)
- - date_published: 2024-07-01T12:40:58.165378+00:00
-
- ## Open Access
- - [http://openaccess.ku.edu](http://openaccess.ku.edu)
- - date_published: 2024-07-01T12:24:44.306930+00:00
-
- ## | The University of Kansas
- - [https://opsmaps.ku.edu](https://opsmaps.ku.edu)
- - date_published: 2022-04-07T16:09:14+00:00
-
- ## Home
- - [https://otp.ku.edu](https://otp.ku.edu)
- - date_published: 2024-07-01T12:41:07.627319+00:00
-
- ## Paleontological Institute
- - [https://paleo.ku.edu](https://paleo.ku.edu)
- - date_published: 2024-05-07T19:19:52.003258+00:00
-
- ## Apache2 Ubuntu Default Page: It works
- - [https://people.eecs.ku.edu](https://people.eecs.ku.edu)
- - date_published: 2023-06-06T16:28:35+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [http://people.ku.edu](http://people.ku.edu)
- - date_published: 2024-09-07T22:41:21.725121+00:00
-
- ## Welcome | Policy Library
- - [http://policy.ku.edu](http://policy.ku.edu)
- - date_published: 2024-05-31T00:00:00+00:00
-
- ## Office of Public Affairs
- - [https://publicaffairs.ku.edu](https://publicaffairs.ku.edu)
- - date_published: 2024-07-01T12:37:09.836091+00:00
-
- ## Welcome to KU Police Department
- - [https://publicsafety.ku.edu](https://publicsafety.ku.edu)
- - date_published: 2024-07-01T12:37:17.074709+00:00
-
- ## Research Help - LibAnswers
- - [https://ref.lib.ku.edu](https://ref.lib.ku.edu)
- - date_published: 2024-07-01T12:21:41.640691+00:00
-
- ## Office of the University Registrar
- - [https://registrar.ku.edu](https://registrar.ku.edu)
- - date_published: 2024-07-01T12:41:03.233595+00:00
-
- ## Homepage
- - [https://research.ku.edu](https://research.ku.edu)
- - date_published: 2024-07-01T12:34:15.806867+00:00
-
- ## - Rock Chalk Central
- - [https://rockchalkcentral.ku.edu](https://rockchalkcentral.ku.edu)
- - date_published: 2024-07-01T12:42:03.316303+00:00
-
- ## Homepage
- - [http://sota.ku.edu](http://sota.ku.edu)
- - date_published: 2024-07-01T12:20:45.864913+00:00
-
- ## Homepage
- - [https://spencer.lib.ku.edu](https://spencer.lib.ku.edu)
- - date_published: 2024-07-01T12:22:10.232885+00:00
-
- ## Watkins Health Services
- - [https://studenthealth.ku.edu](https://studenthealth.ku.edu)
- - date_published: 2024-07-01T12:37:07.918901+00:00
-
- ## Login - Single Sign On | The University of Kansas
- - [https://teams.ku.edu](https://teams.ku.edu)
- - date_published: 2024-07-01T12:41:53.279435+00:00
-
- ## KU Information Technology
- - [https://technology.ku.edu](https://technology.ku.edu)
- - date_published: 2024-07-01T12:35:06.821172+00:00
 

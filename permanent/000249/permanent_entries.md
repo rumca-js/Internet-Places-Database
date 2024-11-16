@@ -1,3 +1,95 @@
+ ## Zentrum für Innovation & Gründung
+ - [https://unternehmertum.de](https://unternehmertum.de)
+ - date_published: 2024-08-06T18:32:27.787118+00:00
+
+ ## Carl von Ossietzky Universität Oldenburg
+ - [https://uol.de](https://uol.de)
+ - date_published: 2024-05-17T00:00:00+00:00
+
+ ## Sign in
+ - [https://code.uplex.de](https://code.uplex.de)
+ - date_published: 2018-05-24T00:00:00+00:00
+
+ ## UPLEX Home - understanding complex systems
+ - [https://uplex.de](https://uplex.de)
+ - date_published: 2023-03-29T12:56:27+00:00
+
+ ## uppr Performance Network
+ - [https://netzwerk.uppr.de](https://netzwerk.uppr.de)
+ - date_published: 2024-05-06T17:32:06.652655+00:00
+
+ ## Upspeak - Dein Mentor im Ohr
+ - [https://upspeak.de](https://upspeak.de)
+ - date_published: 2024-07-10T11:06:20.790550+00:00
+
+ ## DBIS: Fachübersicht
+ - [https://dbis.ur.de](https://dbis.ur.de)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Zeitschriftenliste nach Fachgebiet | Elektronische Zeitschriftenbibliothek
+ - [https://ezb.ur.de](https://ezb.ur.de)
+ - date_published: 2024-07-09T20:13:01.758954+00:00
+
+ ## Stream - Urbane Künste Ruhr
+ - [https://urbanekuensteruhr.de](https://urbanekuensteruhr.de)
+ - date_published: 2024-05-11T07:40:18.441784+00:00
+
+ ## Nettes Stadtgarten
+ - [https://urban-gardening-blog.de](https://urban-gardening-blog.de)
+ - date_published: 2024-07-16T15:12:12+00:00
+
+ ## Urbia - Wir lieben Familie
+ - [http://www.urbia.de](http://www.urbia.de)
+ - date_published: 2024-04-04T00:00:00+00:00
+
+ ## Coalition for Action 'Copyright for Education and Research'
+ - [https://urheberrechtsbuendnis.de](https://urheberrechtsbuendnis.de)
+ - date_published: 2024-05-11T07:48:14.074602+00:00
+
+ ## Urkommunismus Home
+ - [http://www.urkommunismus.de](http://www.urkommunismus.de)
+ - date_published: 2024-10-21T17:31:18.036445+00:00
+
+ ## Ur-Krostitzer | Start
+ - [https://www.ur-krostitzer.de](https://www.ur-krostitzer.de)
+ - date_published: 2024-06-10T08:28:05+00:00
+
+ ## Matthias Urlichs
+ - [http://matthias.urlichs.de](http://matthias.urlichs.de)
+ - date_published: 2015-07-14T02:51:32+00:00
+
+ ## Milde - Freeware + Utilities for DOS and Windows
+ - [http://www.urmil.de](http://www.urmil.de)
+ - date_published: 2015-04-25T13:53:08+00:00
+
+ ## Children’s books for all ages | Usborne | Be Curious
+ - [https://www.usborne.de](https://www.usborne.de)
+ - date_published: 2024-07-24T07:46:18.366325+00:00
+
+ ## Universitäts-Sportclub Freiburg i. Brg. e.V.
+ - [https://www.uscfr.de](https://www.uscfr.de)
+ - date_published: 2024-07-24T06:20:37.743244+00:00
+
+ ## Home | uscreen GmbH
+ - [https://uscreen.de](https://uscreen.de)
+ - date_published: 2024-08-16T09:12:13+00:00
+
+ ## usd PCI Platform
+ - [https://my-pci.usd.de](https://my-pci.usd.de)
+ - date_published: 2024-10-16T03:33:57.425485+00:00
+
+ ## Startseite - PCI
+ - [https://pci.usd.de](https://pci.usd.de)
+ - date_published: 2024-06-04T00:00:00+00:00
+
+ ## usd AG
+ - [https://usd.de](https://usd.de)
+ - date_published: 2024-10-08T00:00:00+00:00
+
+ ## USK - Unterhaltungssoftware Selbstkontrolle
+ - [https://usk.de](https://usk.de)
+ - date_published: 2024-05-27T00:00:00+00:00
+
  ## USM - United Soft Media
  - [https://help.usm.de](https://help.usm.de)
  - date_published: 2024-07-04T02:56:09.543976+00:00
@@ -3931,97 +4023,4 @@ Bibliotheken / Z39.50
  ## 0xCB - Tech, Keyboards and more
  - [https://0xcb.dev](https://0xcb.dev)
  - date_published: 2024-06-21T22:05:58.748190+00:00
-
- ## Eleventy is a simpler static site generator
- - [https://11ty.dev](https://11ty.dev)
- - date_published: 2024-02-16T00:00:00+00:00
- - tags: ['self-host', 'static websites']
-
- ## 11ty’s International Symposium on Making Web Sites Real Good
- - [https://conf.11ty.dev](https://conf.11ty.dev)
- - date_published: 2024-05-07T18:48:43.330288+00:00
-
- ## 11ty Merch
- - [https://merch.11ty.dev](https://merch.11ty.dev)
- - date_published: 2024-05-07T18:48:40.563426+00:00
-
- ## THE Eleventy Meetup
- - [https://11tymeetup.dev](https://11tymeetup.dev)
- - date_published: 2024-04-29T07:27:21.280515+00:00
-
- ## 12 Days of Web
- - [https://12daysofweb.dev](https://12daysofweb.dev)
- - date_published: 2024-04-30T00:34:50.848266+00:00
-
- ## 16pixel. | Where Beauty Converges with Innovation
- - [https://16pixel.dev](https://16pixel.dev)
- - date_published: 2024-04-21T00:00:00+00:00
-
- ## Introducing cutting-edge crypto APIs to streamline your development process.
- - [https://1inch.dev](https://1inch.dev)
- - date_published: 2024-09-23T11:43:54.636267+00:00
-
- ## 1inch - Developer Portal
- - [https://portal.1inch.dev](https://portal.1inch.dev)
- - date_published: 2024-09-20T11:04:38+00:00
-
- ## Saeed Salehi · Stories from a developer :)
- - [https://1saeed.dev](https://1saeed.dev)
- - date_published: 2023-03-17T16:24:01+00:00
-
- ## A world where people pay for software
- - [https://1sub.dev](https://1sub.dev)
- - date_published: 2023-10-25T18:34:35.457611+00:00
-
- ## 200 ok Media
- - [https://200ok.dev](https://200ok.dev)
- - date_published: 2020-01-31T10:28:48+00:00
-
- ## mrvs :: mrvs
- - [https://2d4.dev](https://2d4.dev)
- - date_published: 2024-08-07T23:59:13.047619+00:00
-
- ## You know why you're here
- - [https://46692.dev](https://46692.dev)
- - date_published: 2024-07-23T23:42:23.620938+00:00
-
- ## Alex
- - [https://4lejandrito.dev](https://4lejandrito.dev)
- - date_published: 2024-09-19T05:43:41+00:00
-
- ## Safe Ecosystem Database
- - [https://ecosystem-database.staging.5afe.dev](https://ecosystem-database.staging.5afe.dev)
- - date_published: 2024-09-16T11:29:53+00:00
-
- ## Stephanie Eckles | Front-End SWE, Author, Speaker
- - [https://5t3ph.dev](https://5t3ph.dev)
- - date_published: 2024-07-22T12:50:35.028164+00:00
-
- ## 7.dev – Learn how to code with us 🫡
- - [https://7.dev](https://7.dev)
- - date_published: 2024-02-06T00:00:00+00:00
-
- ## 7.dev
- - [https://links.7.dev](https://links.7.dev)
- - date_published: 2023-10-15T00:00:00+00:00
-
- ## Kristian's newsletter
- - [https://newsletter.7.dev](https://newsletter.7.dev)
- - date_published: 2024-06-22T10:20:46+00:00
-
- ## 7.dev Podcast with Kristian Freeman
- - [https://podcast.7.dev](https://podcast.7.dev)
- - date_published: 2024-06-23T02:59:24.095704+00:00
-
- ## A14M
- - [https://a14m.dev](https://a14m.dev)
- - date_published: 2024-10-12T10:40:49.055745+00:00
-
- ## Welcome to a5h.dev
- - [https://a5h.dev](https://a5h.dev)
- - date_published: 2024-07-20T19:41:06.639867+00:00
-
- ## Aakansha's Blog
- - [https://aakansha.dev](https://aakansha.dev)
- - date_published: 2024-10-28T03:54:48.990812+00:00
 

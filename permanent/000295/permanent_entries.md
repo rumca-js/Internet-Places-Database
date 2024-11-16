@@ -1,3 +1,111 @@
+ ## mynetkibbutz - חדשות קיבוץ - מיינט קיבוץ
+ - [https://kibbutz.mynet.co.il](https://kibbutz.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetkrayot - חדשות קריות - מיינט קריות
+ - [https://krayot.mynet.co.il](https://krayot.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetmodiin - חדשות מודיעין - מיינט מודיעין
+ - [https://modiin.mynet.co.il](https://modiin.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynet - מיינט - mynet - חדשות מקומיות
+ - [https://mynet.co.il](https://mynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## mynetnetanya - חדשות נתניה - מיינט נתניה
+ - [https://netanya.mynet.co.il](https://netanya.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetpetahtikva - חדשות פתח תקוה - מיינט פתח תקוה
+ - [https://petahtikva.mynet.co.il](https://petahtikva.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetprojects - מיינט פרוייקטים
+ - [https://projects.mynet.co.il](https://projects.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetraanana - חדשות רעננה - מיינט רעננה
+ - [https://raanana.mynet.co.il](https://raanana.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## mynetrehovot - חדשות רחובות - מיינט רחובות
+ - [https://rehovot.mynet.co.il](https://rehovot.mynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## mynetrishon - חדשות ראשון לציון - מיינט ראשון לציון
+ - [https://rishon.mynet.co.il](https://rishon.mynet.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## mynetroshhaayin - חדשות ראש העין - מיינט ראש העין
+ - [https://roshhaayin.mynet.co.il](https://roshhaayin.mynet.co.il)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## - האתר של ד"ר דודו - מגוון טיולי איכות פרטיים ברמה גבוהה בהתאמה אישית וכן מידע אישי רב ומעודכן על נושאים ואזורים שונים בתאילנד - חלקם לא מוכר לישראלים
+ - [https://mythailand.co.il](https://mythailand.co.il)
+ - date_published: 2024-02-08T00:00:00+00:00
+
+ ## חדשות | N12 אתר החדשות של ישראל
+ - [https://www.n12.co.il](https://www.n12.co.il)
+ - date_published: 2024-08-11T13:52:25.339489+00:00
+
+ ## EqualWeb - log in or sign up
+ - [https://enterprise.nagich.co.il](https://enterprise.nagich.co.il)
+ - date_published: 2024-09-17T17:58:49.529720+00:00
+
+ ## NARS Cosmetics | החנות הרשמית | חנויות איפור וטיפוח
+ - [http://www.narscosmetics.co.il](http://www.narscosmetics.co.il)
+ - date_published: 2024-10-29T09:02:54.158643+00:00
+
+ ## שיווק דיגיטלי באינטרנט מקיף לאתרי מסחר אלקטרוני, חנויות ועסקים בתחום ריטייל | קידום אתרים | בניית אתרים | משרד פרסום - נטולינק Netolink
+ - [https://netolink.co.il](https://netolink.co.il)
+ - date_published: 2024-04-11T00:00:00+00:00
+
+ ## The National Institute for Biotechnology in the Negev - NIBN
+ - [https://nibn.co.il](https://nibn.co.il)
+ - date_published: 2024-05-11T00:00:00+00:00
+
+ ## Attention Required! | Cloudflare
+ - [https://www.nintendo.co.il](https://www.nintendo.co.il)
+ - date_published: 2024-05-06T15:46:46.005226+00:00
+
+ ## הארגון עולם ללא סמים אתר: עובדות על התמכרות לסמים וחומרים של מבוגרים ובני נוער, ספרי מידע על סמים, חינוך
+ - [http://www.notodrugs.co.il](http://www.notodrugs.co.il)
+ - date_published: 2024-09-04T17:52:43.122283+00:00
+
+ ## פנטזי יורו 2024 - ליגת החלומות של ONE
+ - [https://fantasy.one.co.il](https://fantasy.one.co.il)
+ - date_published: 2024-07-09T07:17:25.032709+00:00
+
+ ## ONE - מספר 1 בספורט
+ - [https://one.co.il](https://one.co.il)
+ - date_published: 2024-05-09T00:00:00+00:00
+
+ ## ONE - מספר 1 בספורט
+ - [https://photo.one.co.il](https://photo.one.co.il)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## ONE - מספר 1 בספורט
+ - [https://sites.one.co.il](https://sites.one.co.il)
+ - date_published: 2024-07-09T00:00:00+00:00
+
+ ## און לייף - אתר תוכן ואקטואליה לנשים המוביל בישראל | Onlife
+ - [https://onlife.co.il](https://onlife.co.il)
+ - date_published: 2024-05-10T05:56:51.602072+00:00
+
+ ## גלו את כוחם של רכבי אופל | אופל ישראל | Opel Israel
+ - [https://www.opel.co.il](https://www.opel.co.il)
+ - date_published: 2024-07-11T08:01:51+00:00
+
+ ## בנק דיסקונט
+ - [https://www.openbanking.co.il](https://www.openbanking.co.il)
+ - date_published: 2024-06-16T12:34:46.723362+00:00
+
+ ## הפקת כנסים בינלאומיים, אירועים, תערוכות ושירותי תיירות - ארטרא
+ - [https://ortra.co.il](https://ortra.co.il)
+ - date_published: 2024-10-21T21:57:50.040794+00:00
+
  ## דף הבית - אוכל טוב, חיים טובים
  - [https://www.osem-nestle.co.il](https://www.osem-nestle.co.il)
  - date_published: 2024-09-14T23:42:06+00:00
@@ -3902,112 +4010,4 @@ Space Applications Center, Indian Space Research Organization, Government of Ind
  ## Home | Telecommunication Engineering Centre | Department of Telecommunications | Ministry of Communication | Government of India
  - [http://www.tec.gov.in](http://www.tec.gov.in)
  - date_published: 2024-07-07T00:02:13.350109+00:00
-
- ## Directorate of Govt. Examinations (Telangana.)
- - [https://www.bse.telangana.gov.in](https://www.bse.telangana.gov.in)
- - date_published: 2024-08-19T20:29:38.502480+00:00
-
- ## UDISE+ Dashboard
- - [https://dashboard.udiseplus.gov.in](https://dashboard.udiseplus.gov.in)
- - date_published: 2023-08-16T06:21:03+00:00
-
- ## Department of School Education and Literacy
- - [https://kys.udiseplus.gov.in](https://kys.udiseplus.gov.in)
- - date_published: 2024-09-11T06:30:32+00:00
-
- ## Know Your School
- - [http://src.udiseplus.gov.in](http://src.udiseplus.gov.in)
- - date_published: 2024-09-11T17:38:46.337651+00:00
-
- ## Udyam Registration : Zero cost, No Fee and Free Registration of MSMEs. This is official website of Govt. of India, Ministry of MSME. No other website/portal/app is official.  MSMEs are requested to do MSME Registration here only
- - [http://udyogaadhaar.gov.in](http://udyogaadhaar.gov.in)
- - date_published: 2024-08-08T13:39:02+00:00
-
- ## UMANG - One App, Many Government Services
- - [https://web.umang.gov.in](https://web.umang.gov.in)
- - date_published: 2024-08-08T16:03:17.162319+00:00
-
- ## Events & Festivals in India | A Ministry of Tourism Initiative
- - [https://utsav.gov.in](https://utsav.gov.in)
- - date_published: 2024-08-08T15:03:08.600227+00:00
-
- ## Vedic Heritage Portal | Vedic Heritage Portal
- - [http://vedicheritage.gov.in](http://vedicheritage.gov.in)
- - date_published: 2024-07-31T13:51:50+00:00
-
- ## E-PROCUEMENT PORTAL
- - [https://eproc.vssc.gov.in](https://eproc.vssc.gov.in)
- - date_published: 2024-04-28T00:30:19.628098+00:00
-
- ## Official Website of West Bengal Council of Higher Secondary Education
- - [https://wbchse.wb.gov.in](https://wbchse.wb.gov.in)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## World Food India 2024
- - [https://worldfoodindia.gov.in](https://worldfoodindia.gov.in)
- - date_published: 2024-08-08T14:00:03.766102+00:00
-
- ## The Washington Street Bridge
- - [https://10foot6.in](https://10foot6.in)
- - date_published: 2024-04-12T01:47:14+00:00
-
- ## 1WIN CASINO AND SPORT BETS
- - [https://1-win-casino.in](https://1-win-casino.in)
- - date_published: 2024-03-05T06:11:51+00:00
-
- ## 1Win India – Online Betting and Casino Official Website
- - [https://1winpro.in](https://1winpro.in)
- - date_published: 2024-07-14T12:30:23.730216+00:00
-
- ## 1xBet Bonus India - Enjoy Betting Benefits at Home
- - [https://1xbetbonus.in](https://1xbetbonus.in)
- - date_published: 2023-07-11T16:28:04+00:00
-
- ## 1xBet Cricket: Premier Online Betting Home in India
- - [https://1xbetcricket.in](https://1xbetcricket.in)
- - date_published: 2023-07-26T23:59:47+00:00
-
- ## Top Online Betting Platform - Home | 1xBet India
- - [https://1xbetindia.in](https://1xbetindia.in)
- - date_published: 2024-08-07T21:32:16.077033+00:00
-
- ## Top Online Sports Betting Experience - 1xBet India
- - [https://1xbetsportsbetting.in](https://1xbetsportsbetting.in)
- - date_published: 2023-07-11T16:24:49+00:00
-
- ## 3M Science. Applied to Life. | 3M India
- - [https://www.3mindia.in](https://www.3mindia.in)
- - date_published: 2024-08-06T10:37:54.251746+00:00
-
- ## 4rabet India Best Online Casino for Real Gamblers
- - [https://4abet.in](https://4abet.in)
- - date_published: 2024-01-24T17:45:35+00:00
-
- ## 8 Ball Shoot It All
- - [https://8ball.in](https://8ball.in)
- - date_published: 2024-10-12T15:28:34.520454+00:00
-
- ## 99Games | Super Indie Studio
- - [http://www.99games.in](http://www.99games.in)
- - date_published: 2024-02-13T06:43:55+00:00
-
- ## Machinery and Machiney Products Manufacturer - Industrial Machinery Magazine | Newspaper, Journal in India
- - [http://99machineryforyou.in](http://99machineryforyou.in)
- - date_published: 2024-10-15T21:40:28.251841+00:00
-
- ## Plastic Products Manufacturer - Online Plastic PVC, Polymers Material Magazine, Journal In India
- - [http://99plastprintpack.in](http://99plastprintpack.in)
- - date_published: 2024-10-15T21:39:16.982911+00:00
-
- ## Hindi news, हिंदी न्यूज़ , Hindi Samachar, हिंदी समाचार, Latest News in Hindi, Breaking News in Hindi, ताजा ख़बरें, Aaj Tak News
- - [https://aajtak.in](https://aajtak.in)
- - date_published: 2024-07-17T10:10:33+00:00
-
- ## Agenda Aaj Tak 2022 | एजेंडा आज तक 2022 - Aaj Tak
- - [http://agenda.aajtak.in](http://agenda.aajtak.in)
- - date_published: 2024-07-17T04:20:22+00:00
-
- ## Bengali News: (বাংলা সংবাদ) Latest News in Bangla | Ajker Khobor - AajTak Bangla
- - [https://bangla.aajtak.in](https://bangla.aajtak.in)
- - date_published: 2024-04-28T01:39:15.757299+00:00
 

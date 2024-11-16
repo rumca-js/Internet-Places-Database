@@ -1,3 +1,19 @@
+ ## BrightLocal - All-in-One Local SEO, Citations, and Review Management.
+ - [https://cdn.brightlocal.com](https://cdn.brightlocal.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
+ ## BrightLocal
+ - [https://status.brightlocal.com](https://status.brightlocal.com)
+ - date_published: 2024-10-05T23:35:09.230564+00:00
+
+ ## Login | Admin | BrightLocal.com
+ - [https://tools.brightlocal.com](https://tools.brightlocal.com)
+ - date_published: 2024-10-05T23:35:08.547049+00:00
+
+ ## BrightLocal - All-in-One Local SEO, Citations, and Review Management.
+ - [https://www.brightlocal.com](https://www.brightlocal.com)
+ - date_published: 2024-03-15T00:00:00+00:00
+
  ## Homepage
  - [https://www.brightlysoftware.com](https://www.brightlysoftware.com)
  - date_published: 2024-07-01T20:52:42+00:00
@@ -4017,20 +4033,4 @@
  ## Burk Technology - Facilities Monitoring & Control Solutions - Burk Technology
  - [http://www.burk.com](http://www.burk.com)
  - date_published: 2024-07-05T00:00:00+00:00
-
- ## Bürkert Fluid Control Systems
- - [https://www.burkert-usa.com](https://www.burkert-usa.com)
- - date_published: 2024-09-05T21:22:53.705137+00:00
-
- ## Burke Software and Consulting | Burke Software and Consulting
- - [https://burkesoftware.com](https://burkesoftware.com)
- - date_published: 2024-05-06T09:08:47.836944+00:00
-
- ## Burlap & Barrel: Single Origin Spices | As Seen on Shark Tank
- - [https://burlapandbarrel.com](https://burlapandbarrel.com)
- - date_published: 2024-05-12T03:47:32.533426+00:00
-
- ## Burlimonster
- - [https://burlimonster.com](https://burlimonster.com)
- - date_published: 2024-10-18T10:13:41+00:00
 

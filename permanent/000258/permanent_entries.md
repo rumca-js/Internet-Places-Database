@@ -1,3 +1,107 @@
+ ## My Account @ Dartmouth
+ - [https://myaccount.dartmouth.edu](https://myaccount.dartmouth.edu)
+ - date_published: 2023-06-05T04:49:22+00:00
+
+ ## Home
+ - [https://native-american.dartmouth.edu](https://native-american.dartmouth.edu)
+ - date_published: 2019-09-10T21:43:00+00:00
+
+ ## Dartmouth News | Dartmouth
+ - [https://news.dartmouth.edu](https://news.dartmouth.edu)
+ - date_published: 2024-07-19T20:22:36+00:00
+
+ ## Next Step: Ivy League Business Education for Military Veterans and Athletes
+ - [http://nextstep.tuck.dartmouth.edu](http://nextstep.tuck.dartmouth.edu)
+ - date_published: 2024-01-12T00:00:00+00:00
+
+ ## Home
+ - [https://pbs.dartmouth.edu](https://pbs.dartmouth.edu)
+ - date_published: 2019-08-28T20:24:31+00:00
+
+ ## Home Grid
+ - [https://philosophy.dartmouth.edu](https://philosophy.dartmouth.edu)
+ - date_published: 2020-12-18T18:00:42+00:00
+
+ ## Home
+ - [https://physics.dartmouth.edu](https://physics.dartmouth.edu)
+ - date_published: 2020-11-05T19:51:28+00:00
+
+ ## Home
+ - [https://policies.dartmouth.edu](https://policies.dartmouth.edu)
+ - date_published: 2020-07-07T12:02:40+00:00
+
+ ## Alt Home
+ - [https://qss.dartmouth.edu](https://qss.dartmouth.edu)
+ - date_published: 2020-12-09T14:20:52+00:00
+
+ ## REO Home
+ - [http://realestate.dartmouth.edu](http://realestate.dartmouth.edu)
+ - date_published: 2016-03-11T22:34:45+00:00
+
+ ## Home
+ - [https://religion.dartmouth.edu](https://religion.dartmouth.edu)
+ - date_published: 2022-03-10T16:29:40+00:00
+
+ ## Revers Center for Energy, Sustainability and Innovation | Home
+ - [https://revers.tuck.dartmouth.edu](https://revers.tuck.dartmouth.edu)
+ - date_published: 2024-07-22T04:43:03+00:00
+
+ ## Dartmouth College Applicant Portal | Home
+ - [https://searchjobs.dartmouth.edu](https://searchjobs.dartmouth.edu)
+ - date_published: 2024-04-30T04:04:46.555384+00:00
+
+ ## Home
+ - [https://services.dartmouth.edu](https://services.dartmouth.edu)
+ - date_published: 2024-08-19T20:13:46.342463+00:00
+
+ ## Homepage
+ - [https://sexual-respect.dartmouth.edu](https://sexual-respect.dartmouth.edu)
+ - date_published: 2018-09-17T14:00:41+00:00
+
+ ## Sites at Dartmouth
+ - [https://sites.dartmouth.edu](https://sites.dartmouth.edu)
+ - date_published: 2024-07-22T04:25:42+00:00
+
+ ## Home
+ - [https://sociology.dartmouth.edu](https://sociology.dartmouth.edu)
+ - date_published: 2020-02-29T20:00:26+00:00
+
+ ## .
+ - [https://spanport.dartmouth.edu](https://spanport.dartmouth.edu)
+ - date_published: 2020-10-29T18:32:17+00:00
+
+ ## Home
+ - [https://speech.dartmouth.edu](https://speech.dartmouth.edu)
+ - date_published: 2022-11-15T21:26:03+00:00
+
+ ## Dartmouth Web Authentication
+ - [https://stats.library.dartmouth.edu](https://stats.library.dartmouth.edu)
+ - date_published: 2024-07-22T04:45:23.530977+00:00
+
+ ## Dartmouth College Status
+ - [http://status.dartmouth.edu](http://status.dartmouth.edu)
+ - date_published: 2024-08-19T20:13:42.419833+00:00
+
+ ## For You: Students | Dartmouth
+ - [https://students.dartmouth.edu](https://students.dartmouth.edu)
+ - date_published: 2024-07-19T18:32:19+00:00
+
+ ## Home
+ - [https://studioart.dartmouth.edu](https://studioart.dartmouth.edu)
+ - date_published: 2018-11-15T16:27:26+00:00
+
+ ## Join the Tuck Community
+ - [http://talent.tuck.dartmouth.edu](http://talent.tuck.dartmouth.edu)
+ - date_published: 2024-07-22T04:42:17+00:00
+
+ ## Home
+ - [https://tdi.dartmouth.edu](https://tdi.dartmouth.edu)
+ - date_published: 2024-07-22T04:44:48.571022+00:00
+
+ ## Homepage
+ - [http://thayer.dartmouth.edu](http://thayer.dartmouth.edu)
+ - date_published: 2024-08-19T19:06:16.165566+00:00
+
  ## Home Grid
  - [https://theater.dartmouth.edu](https://theater.dartmouth.edu)
  - date_published: 2020-11-09T19:46:19+00:00
@@ -3894,108 +3998,4 @@
  ## Strategic Plan 2020-2030 | Strategic Plan
  - [https://strategicplan.gatech.edu](https://strategicplan.gatech.edu)
  - date_published: 2024-07-11T20:30:08+00:00
-
- ## Home | Student and Campus Event Centers
- - [https://studentcenter.gatech.edu](https://studentcenter.gatech.edu)
- - date_published: 2024-07-21T20:54:50+00:00
-
- ## Home | STUDENT LIFE
- - [https://studentlife.gatech.edu](https://studentlife.gatech.edu)
- - date_published: 2024-04-30T04:19:30.644896+00:00
-
- ## Home | Student Engagement and Well-Being
- - [https://students.gatech.edu](https://students.gatech.edu)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## Academic Success & Advising – Helping you succeed at GT!
- - [http://success.gatech.edu](http://success.gatech.edu)
- - date_published: 2024-10-11T22:10:36+00:00
-
- ## Summer & Special Session Initiatives – Make Your Summer Count at Georgia Tech!
- - [https://summer.gatech.edu](https://summer.gatech.edu)
- - date_published: 2024-10-11T22:46:10.545647+00:00
-
- ## Welcome | Georgia Tech Digital Swag
- - [https://swag.gatech.edu](https://swag.gatech.edu)
- - date_published: 2024-06-24T19:23:44+00:00
-
- ## Home | Office of Information Technology
- - [https://techsupport.gatech.edu](https://techsupport.gatech.edu)
- - date_published: 2024-10-11T14:52:56+00:00
-
- ## Home | TechWorks
- - [https://techworks.gatech.edu](https://techworks.gatech.edu)
- - date_published: 2024-06-10T09:43:33+00:00
-
- ## School of Mathematics Online Textbooks
- - [https://textbooks.math.gatech.edu](https://textbooks.math.gatech.edu)
- - date_published: 2024-06-21T12:11:00+00:00
-
- ## Home
- - [https://tickets.arts.gatech.edu](https://tickets.arts.gatech.edu)
- - date_published: 2024-07-22T03:13:18.215587+00:00
-
- ## Equity and Compliance Programs | Equity & Compliance Programs
- - [https://titleix.gatech.edu](https://titleix.gatech.edu)
- - date_published: 2024-04-30T04:17:17.251284+00:00
-
- ## Welcome | Tobacco Free
- - [https://tobaccofree.gatech.edu](https://tobaccofree.gatech.edu)
- - date_published: 2024-07-18T16:02:57+00:00
-
- ## Transforming Tomorrow: The Campaign for Georgia Tech
- - [https://transformingtomorrow.gatech.edu](https://transformingtomorrow.gatech.edu)
- - date_published: 2024-07-22T03:09:39.700316+00:00
-
- ## Home | New Student & Transition Programs
- - [https://transitionprograms.gatech.edu](https://transitionprograms.gatech.edu)
- - date_published: 2024-07-18T12:23:47+00:00
-
- ## Home | Undergraduate Transition Seminars
- - [https://transitionseminars.oue.gatech.edu](https://transitionseminars.oue.gatech.edu)
- - date_published: 2024-09-10T22:04:18+00:00
-
- ## Tutoring & Academic Support
- - [https://tutoring.gatech.edu](https://tutoring.gatech.edu)
- - date_published: 2024-10-11T22:45:59.262943+00:00
-
- ## Home | Office of Information Technology
- - [https://twofactor.oit.gatech.edu](https://twofactor.oit.gatech.edu)
- - date_published: 2024-05-01T07:16:31.936347+00:00
-
- ## Ultrasound Imaging and Therapeutics Research Laboratory
- - [https://ultrasound.gatech.edu](https://ultrasound.gatech.edu)
- - date_published: 2024-07-22T03:14:19+00:00
-
- ## Home | Undergraduate Curriculum
- - [https://undergradcurriculum.oue.gatech.edu](https://undergradcurriculum.oue.gatech.edu)
- - date_published: 2024-09-05T17:31:37+00:00
-
- ## Undergraduate Research Opportunities Program |  Undergraduate Research Opportunities
- - [https://urop.gatech.edu](https://urop.gatech.edu)
- - date_published: 2024-10-10T18:12:38+00:00
-
- ## Web Hosting Default Page
- - [http://users.ece.gatech.edu](http://users.ece.gatech.edu)
- - date_published: 2017-03-31T18:22:51+00:00
-
- ## | VentureLab
- - [http://venturelab.gatech.edu](http://venturelab.gatech.edu)
- - date_published: 2024-07-22T03:40:39.354441+00:00
-
- ## VERA
- - [https://vera.cc.gatech.edu](https://vera.cc.gatech.edu)
- - date_published: 2024-10-15T06:46:08.177211+00:00
-
- ## Vortex: OpenCL Compatible RISC-V Gpgpu
- - [https://vortex.cc.gatech.edu](https://vortex.cc.gatech.edu)
- - date_published: 2024-04-11T16:19:20+00:00
-
- ## Test Page for the HTTP Server on Red Hat Enterprise Linux
- - [https://webdev.gatech.edu](https://webdev.gatech.edu)
- - date_published: 2021-07-12T19:36:32+00:00
-
- ## Welcome and Overview | Web Development Resources | Ivan Allen College of Liberal Arts
- - [https://webdev.iac.gatech.edu](https://webdev.iac.gatech.edu)
- - date_published: 2024-07-22T03:09:00.193135+00:00
 
