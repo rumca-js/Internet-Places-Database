@@ -1,3 +1,11 @@
+ ## SillyTavern - LLM Frontend for Power Users
+ - [https://sillytavern.app](https://sillytavern.app)
+ - date_published: 2023-06-01T22:57:33+00:00
+
+ ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
+ - [https://sindri.app](https://sindri.app)
+ - date_published: 2024-09-11T14:18:15+00:00
+
  ## A static site for your dynamically-generated website
  - [https://sitesauce.app](https://sitesauce.app)
  - date_published: 2024-08-17T22:19:07.675301+00:00
@@ -4010,12 +4018,4 @@
  - [https://riv.ar](https://riv.ar)
  - date_published: 2024-08-22T21:33:58.391773+00:00
  - tags: ['personal']
-
- ## Blog de Thalskarth
- - [https://blog.thalskarth.ar](https://blog.thalskarth.ar)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## Departamento de Matematica - Bienvenidos al (antiguo) portal del Departamento de Matemática
- - [http://cms.dm.uba.ar](http://cms.dm.uba.ar)
- - date_published: 2021-10-21T21:36:44+00:00
 

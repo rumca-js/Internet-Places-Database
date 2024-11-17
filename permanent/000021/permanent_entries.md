@@ -1,3 +1,119 @@
+ ## Agenda - Tecnocampus
+ - [https://agenda.tecnocampus.cat](https://agenda.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:48+00:00
+
+ ## Bústia Suggeriments
+ - [https://bustia-suggeriments.tecnocampus.cat](https://bustia-suggeriments.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:42.389990+00:00
+
+ ## Centre de Congressos | TecnoCampus
+ - [https://centredecongressos.tecnocampus.cat](https://centredecongressos.tecnocampus.cat)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## Intranet Estudiants - eCampus
+ - [https://ecampus.tecnocampus.cat](https://ecampus.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:27.499055+00:00
+
+ ## Inici
+ - [https://empreses.tecnocampus.cat](https://empreses.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:41.269675+00:00
+
+ ## Formació Tecnocampus
+ - [https://formacio.tecnocampus.cat](https://formacio.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:36+00:00
+
+ ## Inici - HUB4T
+ - [https://hub4t.tecnocampus.cat](https://hub4t.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:59.174798+00:00
+
+ ## In Memoriam | TecnoCampus - Inmemoriam
+ - [https://inmemoriam.tecnocampus.cat](https://inmemoriam.tecnocampus.cat)
+ - date_published: 2023-09-26T00:00:00+00:00
+
+ ## TECNOCAMPUS
+ - [https://repositori.tecnocampus.cat](https://repositori.tecnocampus.cat)
+ - date_published: 2024-07-02T10:46:50.998374+00:00
+
+ ## Botiga - Botiga del TecnoCampus
+ - [https://shop.tecnocampus.cat](https://shop.tecnocampus.cat)
+ - date_published: 2024-06-28T00:00:00+00:00
+
+ ## TecnoCampus | Centres adscrits a la Universitat Pompeu Fabra i Parc empresarial
+ - [https://tecnocampus.cat](https://tecnocampus.cat)
+ - date_published: 2024-05-07T22:00:07.643019+00:00
+
+ ## The Cozy Cat – Welcome to my cozy corner of the internet.
+ - [https://cottage.thecozy.cat](https://cottage.thecozy.cat)
+ - date_published: 2024-04-30T05:41:18.535012+00:00
+
+ ## thecozy.cat – Welcome to my cozy corner of the internet.
+ - [https://thecozy.cat](https://thecozy.cat)
+ - date_published: 2023-10-25T12:10:38.975800+00:00
+
+ ## The Cozy Cat – Welcome to my cozy corner of the internet.
+ - [https://town.thecozy.cat](https://town.thecozy.cat)
+ - date_published: 2024-04-30T05:41:34.589307+00:00
+
+ ## TMB Barcelona bus i metro - TMB
+ - [https://www.tmb.cat](https://www.tmb.cat)
+ - date_published: 2024-10-14T00:00:00+00:00
+
+ ## Toot.Cat
+ - [https://toot.cat](https://toot.cat)
+ - date_published: 2023-10-25T12:10:42.383525+00:00
+
+ ## Càsting
+ - [https://casting.tv3.cat](https://casting.tv3.cat)
+ - date_published: 2024-07-04T03:53:50.934402+00:00
+
+ ## TV3 - Televisió de Catalunya
+ - [https://www.tv3.cat](https://www.tv3.cat)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## TV Sabadell-Vallès - TV Sabadell · Vallès
+ - [https://tvsabadell-valles.cat](https://tvsabadell-valles.cat)
+ - date_published: 2024-09-23T00:00:00+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://cv.uab.cat](https://cv.uab.cat)
+ - date_published: 2024-10-14T23:49:50.762726+00:00
+
+ ## CAS - Central Authentication Service
+ - [https://intranet.uab.cat](https://intranet.uab.cat)
+ - date_published: 2024-10-14T23:50:15.289863+00:00
+
+ ## Portal de Recerca de la Universitat Autònoma de Barcelona
+ - [https://portalrecerca.uab.cat](https://portalrecerca.uab.cat)
+ - date_published: 2024-10-14T23:50:08.526003+00:00
+
+ ## Seu Electrònica - UAB Barcelona - Seu Electronica
+ - [https://seuelectronica.uab.cat](https://seuelectronica.uab.cat)
+ - date_published: 2024-10-14T23:49:48.141613+00:00
+
+ ## Universitat Autònoma de Barcelona
+ - [https://www.uab.cat](https://www.uab.cat)
+ - date_published: 2024-06-14T17:32:05+00:00
+
+ ## Universitat Rovira i Virgili | The public university of Tarragona
+ - [http://www.urv.cat](http://www.urv.cat)
+ - date_published: 2023-11-17T07:39:18+00:00
+
+ ## Home | Escola de Postgrau
+ - [https://escolapostgrau.uvic.cat](https://escolapostgrau.uvic.cat)
+ - date_published: 2024-09-18T19:07:09.678552+00:00
+
+ ## UVic | Campus Vic de la UVic-UCC
+ - [http://www.uvic.cat](http://www.uvic.cat)
+ - date_published: 2024-09-18T19:07:13.381924+00:00
+
+ ## Vi Novell del Celler Masroig
+ - [http://vinovell.cat](http://vinovell.cat)
+ - date_published: 2024-07-13T15:41:53.107276+00:00
+
+ ## void.cat
+ - [https://void.cat](https://void.cat)
+ - date_published: 2024-06-07T09:31:29+00:00
+
  ## Front Slider
  - [https://xrcb.cat](https://xrcb.cat)
  - date_published: 2019-11-11T10:24:43+00:00
@@ -3920,120 +4036,4 @@
  ## Breitband
  - [https://breitband.ch](https://breitband.ch)
  - date_published: 2024-07-01T08:50:36+00:00
-
- ## Broadcast.ch
- - [https://www.broadcast.ch](https://www.broadcast.ch)
- - date_published: 2024-07-21T05:39:05.192984+00:00
-
- ## Bromeon :: Home
- - [https://bromeon.ch](https://bromeon.ch)
- - date_published: 2019-10-07T13:49:13+00:00
-
- ## Brother Online
- - [https://atyourside.brother.ch](https://atyourside.brother.ch)
- - date_published: 2024-06-17T20:27:26.043392+00:00
-
- ## Drucken, Kopieren, Scannen | Brother Schweiz Online-Shop
- - [https://www.brother.ch](https://www.brother.ch)
- - date_published: 2024-05-02T11:24:03.503734+00:00
-
- ## Brüggli | Startseite
- - [http://www.brueggli.ch](http://www.brueggli.ch)
- - date_published: 2024-06-05T00:00:00+00:00
-
- ## ESCADA2 Portalübersicht für Lehrpersonen | Basel-Stadt
- - [https://lehrpersonen.bs.ch](https://lehrpersonen.bs.ch)
- - date_published: 2023-09-19T16:18:28+00:00
-
- ## Kanton Basel-Stadt
- - [https://www.bs.ch](https://www.bs.ch)
- - date_published: 2024-07-24T06:06:28.950217+00:00
-
- ## Erziehungsdepartement
- - [https://www.ed.bs.ch](https://www.ed.bs.ch)
- - date_published: 2024-10-29T13:49:57.047746+00:00
-
- ## Abteilung Kultur Basel-Stadt
- - [https://www.kultur.bs.ch](https://www.kultur.bs.ch)
- - date_published: 2024-07-24T04:31:12.033135+00:00
-
- ## B-Sides
- - [http://b-sides.ch](http://b-sides.ch)
- - date_published: 2024-07-13T15:28:59.100967+00:00
-
- ## Online-Buchhandlung für die Schweiz - buchhaus.ch
- - [https://www.buchhaus.ch](https://www.buchhaus.ch)
- - date_published: 2024-07-20T16:11:40.424478+00:00
-
- ## Home:bücherladen appenzell,9050 appenzell
- - [https://www.buecherladen-appenzell.ch](https://www.buecherladen-appenzell.ch)
- - date_published: 2024-07-21T05:50:42.565604+00:00
-
- ## Start Buchhandlung Bücher zum Turm Bischofszell
- - [https://www.buecherzumturm.ch](https://www.buecherzumturm.ch)
- - date_published: 2024-07-21T05:50:43.469351+00:00
-
- ## c4science
- - [https://c4science.ch](https://c4science.ch)
- - date_published: 2024-06-10T00:00:00+00:00
-
- ## C64.CH - The C64 Demo Portal
- - [https://c64.ch](https://c64.ch)
- - date_published: 2024-08-18T11:02:01.668427+00:00
-
- ## Sergio Camalich | Maker of Stuff
- - [https://camali.ch](https://camali.ch)
- - date_published: 2024-04-23T00:00:00+00:00
-
- ## Canal9
- - [https://canal9.ch](https://canal9.ch)
- - date_published: 2024-07-16T22:07:05.645768+00:00
-
- ## Atelier de communication visuelle à Genève (Suisse) – Branding, graphisme & créations digitales
- - [https://candyfactory.ch](https://candyfactory.ch)
- - date_published: 2024-10-22T08:55:58.538218+00:00
-
- ## Mit Capterra die richtige Software für dein Unternehmen finden
- - [https://www.capterra.ch](https://www.capterra.ch)
- - date_published: 2024-07-20T19:26:43.734743+00:00
-
- ## Bienvenue chez Cardinal
- - [http://www.cardinal.ch](http://www.cardinal.ch)
- - date_published: 2024-07-03T06:43:33.762341+00:00
-
- ## Home | Caritas Schweiz
- - [https://www.caritas.ch](https://www.caritas.ch)
- - date_published: 2024-09-11T01:31:23.547751+00:00
-
- ## carte blanche | Carte client des titres Tamedia
- - [https://www.carteb.ch](https://www.carteb.ch)
- - date_published: 2024-06-30T00:00:00+00:00
-
- ## carte blanche | Kundenkarte der Tamedia-Titel
- - [https://carteblanche.ch](https://carteblanche.ch)
- - date_published: 2024-04-10T00:00:00+00:00
-
- ## Casale • Together for a new planet
- - [https://www.casale.ch](https://www.casale.ch)
- - date_published: 2024-10-19T06:31:59.161688+00:00
-
- ## Alles über Finanzen: News, Banking & Trading
- - [https://www.cash.ch](https://www.cash.ch)
- - date_published: 2024-06-25T22:02:59.628532+00:00
-
- ## www.ccontrols.ch - Computer Controls  - Computer Controls Group
- - [https://www.ccontrols.ch](https://www.ccontrols.ch)
- - date_published: 2024-07-15T04:10:44.201889+00:00
-
- ## La Cour des comptes de Genève – Au service d’une action publique performante.
- - [https://cdc-ge.ch](https://cdc-ge.ch)
- - date_published: 2024-10-22T08:55:56.362555+00:00
-
- ## Centre Dürrenmatt Neuchâtel
- - [https://www.cdn.ch](https://www.cdn.ch)
- - date_published: 2024-07-21T06:26:35.595795+00:00
-
- ## Corriere del Ticino: Ultime Notizie, Approfondimenti e Video
- - [https://www.cdt.ch](https://www.cdt.ch)
- - date_published: 2024-08-19T18:48:27.857216+00:00
 

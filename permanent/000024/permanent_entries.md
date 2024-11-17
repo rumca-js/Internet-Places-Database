@@ -1,3 +1,151 @@
+ ## Home page site login2.usi.ch
+ - [https://login2.usi.ch](https://login2.usi.ch)
+ - date_published: 2016-07-28T09:17:22+00:00
+
+ ## USI Newsletter System
+ - [https://newsletter.usi.ch](https://newsletter.usi.ch)
+ - date_published: 2024-07-21T06:08:58.408674+00:00
+
+ ## Welcome! | Software and Programmer Efficiency Research Group
+ - [https://sape.inf.usi.ch](https://sape.inf.usi.ch)
+ - date_published: 2024-05-11T11:52:35.132268+00:00
+
+ ## Search for people | Università della Svizzera italiana
+ - [https://search.usi.ch](https://search.usi.ch)
+ - date_published: 2024-04-30T06:01:39.110057+00:00
+
+ ## Università della Svizzera italiana | USI
+ - [https://usi.ch](https://usi.ch)
+ - date_published: 2024-04-30T06:01:02.216739+00:00
+
+ ## USI - Architettura
+ - [http://www.arc.usi.ch](http://www.arc.usi.ch)
+ - date_published: 2024-07-21T06:09:03.753925+00:00
+
+ ## USI – Biomedicine
+ - [https://www.biomed.usi.ch](https://www.biomed.usi.ch)
+ - date_published: 2024-07-21T04:15:09+00:00
+
+ ## USI - Comunicazione
+ - [http://www.com.usi.ch](http://www.com.usi.ch)
+ - date_published: 2024-07-21T04:15:09+00:00
+
+ ## USI - Economia
+ - [https://www.eco.usi.ch](https://www.eco.usi.ch)
+ - date_published: 2024-07-21T04:08:46+00:00
+
+ ## USI - Facoltà di Teologia di Lugano
+ - [https://www.ftl.usi.ch](https://www.ftl.usi.ch)
+ - date_published: 2024-07-21T04:06:49+00:00
+
+ ## USI – Informatics
+ - [http://www.inf.usi.ch](http://www.inf.usi.ch)
+ - date_published: 2024-07-14T16:24:11+00:00
+
+ ## DSEC – A Stereo Event Camera Dataset for Driving Scenarios
+ - [https://dsec.ifi.uzh.ch](https://dsec.ifi.uzh.ch)
+ - date_published: 2024-06-19T07:41:14.162566+00:00
+
+ ## The UZH FPV Dataset
+ - [https://fpv.ifi.uzh.ch](https://fpv.ifi.uzh.ch)
+ - date_published: 2024-06-19T07:41:30.360754+00:00
+
+ ## JES - Home
+ - [https://jes.math.uzh.ch](https://jes.math.uzh.ch)
+ - date_published: 2024-06-20T13:59:33.587899+00:00
+
+ ## Jitsi Meet
+ - [https://jitsi.math.uzh.ch](https://jitsi.math.uzh.ch)
+ - date_published: 2024-06-20T13:59:37.229471+00:00
+
+ ## Kommunikation
+ - [https://kommunikation.uzh.ch](https://kommunikation.uzh.ch)
+ - date_published: 2024-04-30T06:15:23.497622+00:00
+
+ ## Zimbra Web Client Sign In
+ - [https://mail.math.uzh.ch](https://mail.math.uzh.ch)
+ - date_published: 2024-06-20T13:59:32.477847+00:00
+
+ ## UZH - Institute of Mathematics - Home
+ - [https://math.uzh.ch](https://math.uzh.ch)
+ - date_published: 2024-08-18T12:26:05.613765+00:00
+
+ ## Robotics and Perception Group
+ - [https://rpg.ifi.uzh.ch](https://rpg.ifi.uzh.ch)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## Universität Zürich
+ - [https://uzh.ch](https://uzh.ch)
+ - date_published: 2024-07-21T05:10:56.985032+00:00
+
+ ## Sign in - Matomo
+ - [https://webstats.uzh.ch](https://webstats.uzh.ch)
+ - date_published: 2024-04-30T06:15:24.350890+00:00
+
+ ## Corporate Design
+ - [http://www.cd.uzh.ch](http://www.cd.uzh.ch)
+ - date_published: 2024-07-21T05:10:54.375928+00:00
+
+ ## de
+ - [https://www.cl.uzh.ch](https://www.cl.uzh.ch)
+ - date_published: 2024-06-30T09:23:24.328443+00:00
+
+ ## Digital Society Initiative | Digital Society Initiative | UZH
+ - [https://www.dsi.uzh.ch](https://www.dsi.uzh.ch)
+ - date_published: 2024-10-28T07:08:39.410711+00:00
+
+ ## HiFo
+ - [https://www.hifo.uzh.ch](https://www.hifo.uzh.ch)
+ - date_published: 2024-06-16T22:22:45.317388+00:00
+
+ ## Department of Astrophysics
+ - [https://www.ics.uzh.ch](https://www.ics.uzh.ch)
+ - date_published: 2024-07-21T02:22:50.071652+00:00
+
+ ## Department of Informatics
+ - [http://www.ifi.uzh.ch](http://www.ifi.uzh.ch)
+ - date_published: 2024-06-12T00:00:00+00:00
+
+ ## Welcome!
+ - [http://www.ini.uzh.ch](http://www.ini.uzh.ch)
+ - date_published: 2024-05-16T00:00:00+00:00
+
+ ## Internationals
+ - [https://www.internationals.uzh.ch](https://www.internationals.uzh.ch)
+ - date_published: 2024-07-21T05:10:53.179823+00:00
+
+ ## | Institut für Politikwissenschaft | UZH
+ - [https://www.ipz.uzh.ch](https://www.ipz.uzh.ch)
+ - date_published: 2024-10-18T20:41:54.677892+00:00
+
+ ## Willkommen
+ - [http://www.irg.uzh.ch](http://www.irg.uzh.ch)
+ - date_published: 2024-06-28T21:19:25.451698+00:00
+
+ ## Media | Für Medien | UZH
+ - [https://www.media.uzh.ch](https://www.media.uzh.ch)
+ - date_published: 2023-10-25T12:14:48.655408+00:00
+
+ ## News Mensen & Cafeterias
+ - [https://www.mensa.uzh.ch](https://www.mensa.uzh.ch)
+ - date_published: 2024-07-21T06:21:07.993433+00:00
+
+ ## de
+ - [https://www.mnf.uzh.ch](https://www.mnf.uzh.ch)
+ - date_published: 2024-06-20T13:59:35.626057+00:00
+
+ ## | Neuroscience Center Zurich  | UZH
+ - [http://www.neuroscience.uzh.ch](http://www.neuroscience.uzh.ch)
+ - date_published: 2024-10-14T23:48:31.959825+00:00
+
+ ## News | UZH News | UZH
+ - [https://www.news.uzh.ch](https://www.news.uzh.ch)
+ - date_published: 2023-10-25T12:14:51.240907+00:00
+
+ ## UZH - Universität Zürich - Telefon-Verzeichnis
+ - [https://www.phonebook.uzh.ch](https://www.phonebook.uzh.ch)
+ - date_published: 2024-07-21T06:21:15.305374+00:00
+
  ## Physik-Institut
  - [https://www.physik.uzh.ch](https://www.physik.uzh.ch)
  - date_published: 2024-07-21T02:22:42.209387+00:00
@@ -3863,153 +4011,4 @@
  ## Vertical Aerospace · Pioneering Electric Aviation
  - [https://verticalaerospace.kinsta.cloud](https://verticalaerospace.kinsta.cloud)
  - date_published: 2024-05-21T03:03:18.470558+00:00
-
- ## Willkommen | Kletterpark Cloud
- - [https://kletterpark.cloud](https://kletterpark.cloud)
- - date_published: 2024-07-02T20:50:08.137423+00:00
-
- ## kodu.cloud| Virtual Private server & Dedicated, Backup, SSL, Domain
- - [https://kodu.cloud](https://kodu.cloud)
- - date_published: 2024-06-22T14:19:07.941174+00:00
-
- ## kraft.cloud
- - [https://console.kraft.cloud](https://console.kraft.cloud)
- - date_published: 2024-07-03T07:27:10+00:00
-
- ## KraftCloud Developer Documentation
- - [https://docs.kraft.cloud](https://docs.kraft.cloud)
- - date_published: 2024-05-06T00:00:00+00:00
-
- ## kraft.cloud
- - [https://kraft.cloud](https://kraft.cloud)
- - date_published: 2024-03-01T00:00:00+00:00
-
- ## Feedback - Unikraft Cloud Platform
- - [https://roadmap.kraft.cloud](https://roadmap.kraft.cloud)
- - date_published: 2024-06-14T00:00:00+00:00
-
- ## Plausible · Web analytics
- - [https://plausible.ktz.cloud](https://plausible.ktz.cloud)
- - date_published: 2024-05-15T02:50:02.728079+00:00
-
- ## lakeFS Cloud
- - [https://lakefs.cloud](https://lakefs.cloud)
- - date_published: 2024-06-27T13:45:35.987830+00:00
-
- ## Plausible · Web analytics
- - [https://analytics.lasse.cloud](https://analytics.lasse.cloud)
- - date_published: 2024-07-19T19:24:12.672058+00:00
-
- ## Sign in to your account
- - [https://lex.admin.lbr.cloud](https://lex.admin.lbr.cloud)
- - date_published: 2024-08-08T00:00:00+00:00
-
- ## Home
- - [https://www.leaf.cloud](https://www.leaf.cloud)
- - date_published: 2024-07-12T08:09:46.111064+00:00
-
- ## LearningByDoing.cloud
- - [https://learningbydoing.cloud](https://learningbydoing.cloud)
- - date_published: 2024-05-01T03:45:20.785795+00:00
-
- ## Home | Life Code
- - [https://lifecode.cloud](https://lifecode.cloud)
- - date_published: 2023-12-19T09:59:36.314843+00:00
- - tags: ['personal']
-
- ## /overview
- - [https://docs.localstack.cloud](https://docs.localstack.cloud)
- - date_published: 2024-10-14T07:23:11+00:00
-
- ## LocalStack
- - [https://localstack.cloud](https://localstack.cloud)
- - date_published: 2024-08-07T00:00:00+00:00
-
- ## Home | Loophole
- - [http://loophole.cloud](http://loophole.cloud)
- - date_published: 2024-10-22T12:39:31.585411+00:00
-
- ## Fusion Auth
- - [https://discover.b.lucidworks.cloud](https://discover.b.lucidworks.cloud)
- - date_published: 2023-11-10T00:12:36+00:00
-
- ## Fusion Auth
- - [https://discover-dev.b.lucidworks.cloud](https://discover-dev.b.lucidworks.cloud)
- - date_published: 2023-11-10T00:12:36+00:00
-
- ## Plausible · Web analytics
- - [https://s.lunaweb.cloud](https://s.lunaweb.cloud)
- - date_published: 2024-08-18T22:36:39.711209+00:00
-
- ## Plataforma e Serviços em Nuvem | Magalu Cloud
- - [https://magalu.cloud](https://magalu.cloud)
- - date_published: 2024-06-19T00:00:00+00:00
-
- ## MagicLeap Developer Documentation
- - [https://developer-docs.magicleap.cloud](https://developer-docs.magicleap.cloud)
- - date_published: 2024-06-14T21:21:33+00:00
-
- ## Magic Leap 2 Developer Forums
- - [https://forum.magicleap.cloud](https://forum.magicleap.cloud)
- - date_published: 2024-06-21T21:05:37.996980+00:00
-
- ## MapleCloud
- - [https://maple.cloud](https://maple.cloud)
- - date_published: 2024-07-06T23:17:29.484726+00:00
-
- ## Maria
- - [https://maria.cloud](https://maria.cloud)
- - date_published: 2020-03-02T11:16:31+00:00
-
- ## Massdriver Blog
- - [https://blog.massdriver.cloud](https://blog.massdriver.cloud)
- - date_published: 2023-10-25T12:15:26.664600+00:00
-
- ## Massdriver Docs | Massdriver Docs
- - [https://docs.massdriver.cloud](https://docs.massdriver.cloud)
- - date_published: 2024-04-30T06:17:30.086453+00:00
-
- ## Massdriver - Platform Engineering, Delivered
- - [https://massdriver.cloud](https://massdriver.cloud)
- - date_published: 2024-04-26T00:00:00+00:00
-
- ## Feedback - Massdriver
- - [https://roadmap.massdriver.cloud](https://roadmap.massdriver.cloud)
- - date_published: 2024-09-06T12:48:21.720377+00:00
-
- ## mastodon.cloud
- - [https://mastodon.cloud](https://mastodon.cloud)
- - date_published: 2023-10-25T12:15:32.611061+00:00
-
- ## Sign in - Matomo
- - [https://accountabletech.matomo.cloud](https://accountabletech.matomo.cloud)
- - date_published: 2024-06-17T09:17:14.140763+00:00
-
- ## Sign in - Matomo
- - [http://actioneurope.matomo.cloud](http://actioneurope.matomo.cloud)
- - date_published: 2024-07-03T02:01:14.130206+00:00
-
- ## Sign in - Matomo
- - [https://affiliatly.matomo.cloud](https://affiliatly.matomo.cloud)
- - date_published: 2024-06-15T07:24:43.765635+00:00
-
- ## Sign in - Matomo
- - [https://agiravie.matomo.cloud](https://agiravie.matomo.cloud)
- - date_published: 2024-09-15T22:10:21.319622+00:00
-
- ## Sign in - Matomo
- - [https://agreatertown.matomo.cloud](https://agreatertown.matomo.cloud)
- - date_published: 2024-06-29T18:10:51.085888+00:00
-
- ## Sign in - Matomo
- - [https://aisafety.matomo.cloud](https://aisafety.matomo.cloud)
- - date_published: 2024-08-08T19:54:45.910214+00:00
-
- ## Sign in - Matomo
- - [https://akasha.matomo.cloud](https://akasha.matomo.cloud)
- - date_published: 2024-09-14T08:48:27.379098+00:00
-
- ## Sign in - Matomo
- - [https://aleo.matomo.cloud](https://aleo.matomo.cloud)
- - date_published: 2024-09-25T11:51:47.888572+00:00
 

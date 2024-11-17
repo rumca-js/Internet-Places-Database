@@ -1,3 +1,109 @@
+ ## podiboq's thoughts - just another microBlog
+ - [https://podiboq.micro.blog](https://podiboq.micro.blog)
+ - date_published: 2020-11-22T00:00:00+00:00
+
+ ## Scott Jeffries
+ - [https://scottjeffries.micro.blog](https://scottjeffries.micro.blog)
+ - date_published: 2024-07-01T21:48:54+00:00
+
+ ## Sidebar For Tiny Theme
+ - [https://sidebar-for-tiny-theme.micro.blog](https://sidebar-for-tiny-theme.micro.blog)
+ - date_published: 2024-04-06T02:02:05+00:00
+
+ ## Micro.blog Status
+ - [https://status.micro.blog](https://status.micro.blog)
+ - date_published: 2024-08-18T00:00:00+00:00
+
+ ## Sumo Theme
+ - [https://sumo.micro.blog](https://sumo.micro.blog)
+ - date_published: 2024-10-25T14:31:37+00:00
+
+ ## tbc aka tbc0 aka Tim Chambers
+ - [https://tbc.micro.blog](https://tbc.micro.blog)
+ - date_published: 2024-06-22T04:49:21+00:00
+
+ ## Tiny Theme for Micro.blog
+ - [https://tiny.micro.blog](https://tiny.micro.blog)
+ - date_published: 2024-05-04T09:41:08.873707+00:00
+
+ ## Undamned One
+ - [https://undamnedone.micro.blog](https://undamnedone.micro.blog)
+ - date_published: 2024-08-07T00:00:00+00:00
+
+ ## Maurice Parker
+    - Maurice Parker
+ - [https://vincode.micro.blog](https://vincode.micro.blog)
+ - date_published: 2023-04-28T20:52:33+00:00
+
+ ## Welcome to Micro.blog
+ - [https://welcome.micro.blog](https://welcome.micro.blog)
+ - date_published: 2024-05-30T14:01:51+00:00
+
+ ## wings open wide
+ - [https://wow.micro.blog](https://wow.micro.blog)
+ - date_published: 2024-03-29T15:43:43+00:00
+
+ ## Will Stone
+ - [https://ws.micro.blog](https://ws.micro.blog)
+ - date_published: 2024-07-01T00:00:00+00:00
+
+ ## alt-ctrl-zb
+ - [https://zakb.micro.blog](https://zakb.micro.blog)
+ - date_published: 2024-07-21T05:21:22+00:00
+
+ ## Zachary Hamed
+ - [https://zmh.micro.blog](https://zmh.micro.blog)
+ - date_published: 2024-06-30T00:00:00+00:00
+
+ ## Micro.publish
+ - [https://micropublish.blog](https://micropublish.blog)
+ - date_published: 2024-06-16T07:05:42+00:00
+
+ ## mikeshafer.blog
+ - [https://mikeshafer.blog](https://mikeshafer.blog)
+ - date_published: 2023-12-20T05:39:06.849238+00:00
+ - tags: ['personal']
+
+ ## Doing Our Bit
+ - [http://militaryandfamilyhistory.blog](http://militaryandfamilyhistory.blog)
+ - date_published: 2024-06-21T09:41:14.325834+00:00
+
+ ## Mindsers Courses - Tous les cours en ligne du Mindsers Blog
+ - [https://courses.mindsers.blog](https://courses.mindsers.blog)
+ - date_published: 2024-02-04T00:00:00+00:00
+
+ ## Mindsers Blog: Inspirer les devs, un article à la fois
+ - [https://mindsers.blog](https://mindsers.blog)
+ - date_published: 2024-05-11T10:18:14.861792+00:00
+
+ ## Mindsers Shop - Merchandising, T-Shirt, Sticker pour les développeurs
+ - [https://shop.mindsers.blog](https://shop.mindsers.blog)
+ - date_published: 2024-07-14T09:11:40.742663+00:00
+
+ - [https://miris.blog](https://miris.blog)
+ - date_published: 2024-02-26T09:12:32.456732+00:00
+
+ ## mixable Blog | A mix of digital topics.
+ - [https://mixable.blog](https://mixable.blog)
+ - date_published: 2024-04-30T00:00:00+00:00
+
+ ## Cosmic Column | Kai Christensen | Substack
+ - [https://mkaic.blog](https://mkaic.blog)
+ - date_published: 2024-02-25T19:26:35.474528+00:00
+
+ ## mkaz.blog
+ - [https://mkaz.blog](https://mkaz.blog)
+ - date_published: 2024-08-07T19:30:52.016844+00:00
+
+ ## (no title)
+ - [https://mlatgt.blog](https://mlatgt.blog)
+ - date_published: 2024-04-29T00:00:00+00:00
+
+ ## mmap(blog)
+ - [https://mmapped.blog](https://mmapped.blog)
+ - date_published: 2023-10-25T09:25:23.417879+00:00
+ - tags: ['personal']
+
  ## moku.blog
  - [https://moku.blog](https://moku.blog)
  - date_published: 2024-10-29T09:26:45.180771+00:00
@@ -3934,109 +4040,4 @@ Educação
  ## Jeep Wave
  - [https://jeepwave.jeep.com.br](https://jeepwave.jeep.com.br)
  - date_published: 2024-10-25T13:46:09+00:00
-
- ## Fique por dentro das nossas condições especiais.
- - [https://ofertas.jeep.com.br](https://ofertas.jeep.com.br)
- - date_published: 2024-10-25T13:37:14+00:00
-
- ## Home  | Jeep
- - [https://www.jeep.com.br](https://www.jeep.com.br)
- - date_published: 2024-06-17T18:45:44+00:00
-
- ## Consultoria Imobiliária Comercial | Investimentos imobiliários | JLL
- - [https://www.jll.com.br](https://www.jll.com.br)
- - date_published: 2024-10-30T21:38:00.328003+00:00
-
- ## Home - JMS Comunicação
- - [https://jmscomunicacao.com.br](https://jmscomunicacao.com.br)
- - date_published: 2024-06-28T15:59:44.949652+00:00
-
- ## Jogadores Anônimos
- - [https://jogadoresanonimos.com.br](https://jogadoresanonimos.com.br)
- - date_published: 2024-10-31T02:19:07.685673+00:00
-
- ## Jogo de Dados Apostas | Jogar craps em Cassinos Online com dinheiro real
- - [https://jogododadoaposta.com.br](https://jogododadoaposta.com.br)
- - date_published: 2024-05-13T00:00:00+00:00
-
- ## Jogo Fortune Rabbit lll▷ Fortune Rabbit PG Soft
- - [https://jogo-fortune-rabbit.com.br](https://jogo-fortune-rabbit.com.br)
- - date_published: 2024-06-11T00:00:00+00:00
-
- ## Revista Jogos 80
- - [https://www.jogos80.com.br](https://www.jogos80.com.br)
- - date_published: 2024-07-02T23:58:02.929047+00:00
-
- ## Jogo do Tiger Fortune ᐈ Fortune Tiger PG Soft【Site Oficial】
- - [https://jogo-tiger-fortune.com.br](https://jogo-tiger-fortune.com.br)
- - date_published: 2023-09-22T15:01:30+00:00
-
- ## Jo Nakashima
- - [https://jonakashima.com.br](https://jonakashima.com.br)
- - date_published: 2024-05-02T09:39:51.879042+00:00
- - tags: ['origami', 'personal']
-
- ## Jonas Galvez
- - [https://hire.jonasgalvez.com.br](https://hire.jonasgalvez.com.br)
- - date_published: 2024-05-24T05:16:21.080512+00:00
-
- ## Jovem Pan – Esportes, entretenimento, notícias e vídeos com credibilidade
- - [https://jovempan.com.br](https://jovempan.com.br)
- - date_published: 2024-10-28T12:13:24.379783+00:00
-
- ## J.P. Morgan Brasil | Sobre nós
- - [https://jpmorgan.com.br](https://jpmorgan.com.br)
- - date_published: 2024-06-14T19:31:31+00:00
-
- ## Justos: Seguro Auto Mensal
- - [https://justos.com.br](https://justos.com.br)
- - date_published: 2024-04-17T00:00:00+00:00
-
- ## KaBuM! | Maior E-commerce de Tecnologia e Games da América Latina
- - [https://www.kabum.com.br](https://www.kabum.com.br)
- - date_published: 2024-07-13T13:39:39.607132+00:00
-
- ## Nota Bene | Blog Oficial De Eugene Kaspersky
- - [https://eugene.kaspersky.com.br](https://eugene.kaspersky.com.br)
- - date_published: 2024-10-20T23:08:56.115717+00:00
-
- ## Kaspersky Base de conhecimento
- - [https://support.kaspersky.com.br](https://support.kaspersky.com.br)
- - date_published: 2024-08-06T08:00:56.081926+00:00
-
- ## Cibersegurança para residências e empresas | Kaspersky
- - [https://www.kaspersky.com.br](https://www.kaspersky.com.br)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## King of Code - Solving problems with intelligence
- - [https://kingofcode.com.br](https://kingofcode.com.br)
- - date_published: 2024-09-03T23:34:07.620125+00:00
-
- ## Feira | Koelnmesse Brasil
- - [https://www.koelnmesse.com.br](https://www.koelnmesse.com.br)
- - date_published: 2024-06-26T15:11:12+00:00
-
- ## Home
- - [https://kokku.com.br](https://kokku.com.br)
- - date_published: 2024-06-22T00:00:00+00:00
-
- ## Konecranes
- - [https://www.konecranes.com.br](https://www.konecranes.com.br)
- - date_published: 2024-06-20T23:13:18.773028+00:00
-
- ## Kovi | Aluguel de carros sem aprovação de crédito
- - [https://loja.kovi.com.br](https://loja.kovi.com.br)
- - date_published: 2024-10-28T13:53:00+00:00
-
- ## Kovi | Aluguel de carros sem aprovação de crédito
- - [https://www.kovi.com.br](https://www.kovi.com.br)
- - date_published: 2024-06-19T08:26:32+00:00
-
- ## Kube Arquitetura - Varejo Elevado ao Cubo
- - [http://kubearquitetura.com.br](http://kubearquitetura.com.br)
- - date_published: 2022-05-19T13:36:06+00:00
-
- ## Jogos Online Grátis - Lagged.com.br
- - [https://lagged.com.br](https://lagged.com.br)
- - date_published: 2024-05-04T11:46:07.653485+00:00
 

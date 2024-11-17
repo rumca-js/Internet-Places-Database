@@ -1,3 +1,11 @@
+ ## Home Care App
+ - [https://home-care.app](https://home-care.app)
+ - date_published: 2022-07-20T06:08:45+00:00
+
+ ## Homechart | Your Household's Happy Place
+ - [https://homechart.app](https://homechart.app)
+ - date_published: 2024-06-07T00:00:00+00:00
+
  ## Homerow — Keyboard shortcuts for every button in macOS
  - [https://homerow.app](https://homerow.app)
  - date_published: 2023-10-25T11:46:50.039169+00:00
@@ -4029,12 +4037,4 @@
  ## What is SillyTavern? | docs.ST.app
  - [https://docs.sillytavern.app](https://docs.sillytavern.app)
  - date_published: 2024-10-28T15:32:33+00:00
-
- ## SillyTavern - LLM Frontend for Power Users
- - [https://sillytavern.app](https://sillytavern.app)
- - date_published: 2023-06-01T22:57:33+00:00
-
- ## Sindri - Modernized ZK DevOps and Accelerated Proving Infrastructure
- - [https://sindri.app](https://sindri.app)
- - date_published: 2024-09-11T14:18:15+00:00
 

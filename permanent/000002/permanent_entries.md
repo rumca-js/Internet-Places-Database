@@ -3712,6 +3712,10 @@
  - [https://predis.ai](https://predis.ai)
  - date_published: 2024-06-19T19:25:22.982781+00:00
 
+ ## Presentations.AI - AI Presentation Maker
+ - [https://app.presentations.ai](https://app.presentations.ai)
+ - date_published: 2024-11-16T14:14:36.201758+00:00
+
  ## Create presentations, docs & websites with AI | Prezo
  - [https://prezo.ai](https://prezo.ai)
  - date_published: 2024-10-30T14:33:12.206586+00:00
@@ -4017,8 +4021,4 @@
  ## Welcome to Quest | Quest Docs
  - [https://docs.quest.ai](https://docs.quest.ai)
  - date_published: 2024-10-30T21:13:33.765420+00:00
-
- ## The easiest way to build React Apps | Figma to React | Quest
- - [https://quest.ai](https://quest.ai)
- - date_published: 2024-09-05T21:32:23+00:00
 

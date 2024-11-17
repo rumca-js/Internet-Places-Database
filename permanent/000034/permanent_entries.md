@@ -1,3 +1,151 @@
+ ## Universidad de Antioquia
+ - [https://www.udea.edu.co](https://www.udea.edu.co)
+ - date_published: 2024-09-10T12:45:02.421895+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://acreditacion-ambiental.udistrital.edu.co](http://acreditacion-ambiental.udistrital.edu.co)
+ - date_published: 2024-06-12T10:58:56.141788+00:00
+
+ ## inicio - Universidad Distrital Francisco José de Caldas
+ - [http://acreditacion-facciencias.udistrital.edu.co](http://acreditacion-facciencias.udistrital.edu.co)
+ - date_published: 2024-06-12T10:58:53.351404+00:00
+
+ ## Agencia de noticias UD | Agencia de noticias UD
+ - [https://agencia.udistrital.edu.co](https://agencia.udistrital.edu.co)
+ - date_published: 2024-06-12T10:58:30.409896+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://ambiental.udistrital.edu.co](http://ambiental.udistrital.edu.co)
+ - date_published: 2024-09-11T16:28:24.996865+00:00
+
+ ## Home | Aulasvirtualesilud
+ - [https://aulasvirtualesilud.udistrital.edu.co](https://aulasvirtualesilud.udistrital.edu.co)
+ - date_published: 2024-06-12T10:59:29.061141+00:00
+
+ ## Home | Aulas Virtuales
+ - [https://aulasvirtuales.udistrital.edu.co](https://aulasvirtuales.udistrital.edu.co)
+ - date_published: 2024-06-12T03:17:29.589911+00:00
+
+ ## Autoevaluación | Comité Institucional de Currículo y Calidad
+ - [http://autoevaluacion.udistrital.edu.co](http://autoevaluacion.udistrital.edu.co)
+ - date_published: 2024-06-12T10:56:48.749127+00:00
+
+ ## Currículo y Calidad | Comité Institucional de Currículo y Calidad
+ - [https://autoevaluacionyacreditacion.udistrital.edu.co](https://autoevaluacionyacreditacion.udistrital.edu.co)
+ - date_published: 2024-06-12T03:16:44.510854+00:00
+
+ ## Banco de Imágenes
+ - [https://bancoimagenes.udistrital.edu.co](https://bancoimagenes.udistrital.edu.co)
+ - date_published: 2024-06-12T03:16:23.572864+00:00
+
+ ## Aleph main menu
+ - [http://biblioteca.udistrital.edu.co](http://biblioteca.udistrital.edu.co)
+ - date_published: 2018-06-14T15:58:35+00:00
+
+ ## SIBUD - Universidad Distrital Francisco José de Caldas
+ - [https://bienestar.portaloas.udistrital.edu.co](https://bienestar.portaloas.udistrital.edu.co)
+ - date_published: 2024-03-14T17:36:13+00:00
+
+ ## Inicio - Centro de Bienestar Institucional | Oficina de Bienestar Universitario
+ - [https://bienestar.udistrital.edu.co](https://bienestar.udistrital.edu.co)
+ - date_published: 2024-06-12T03:16:38.248602+00:00
+
+ ## Inicio
+ - [https://campusvirtual.udistrital.edu.co](https://campusvirtual.udistrital.edu.co)
+ - date_published: 2024-06-12T03:19:07.995585+00:00
+
+ ## Inicio | Oficina de Investigaciones
+ - [http://cidc.udistrital.edu.co](http://cidc.udistrital.edu.co)
+ - date_published: 2024-06-12T10:59:19.754856+00:00
+
+ ## Inicio | Oficina de Control Interno
+ - [https://cinterno.udistrital.edu.co](https://cinterno.udistrital.edu.co)
+ - date_published: 2024-09-10T18:10:03.953866+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://coinfor.udistrital.edu.co](http://coinfor.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:46.102366+00:00
+
+ ## Portales de la Comunidad – Portales de la comunidad Universitaria
+ - [https://comunidad.udistrital.edu.co](https://comunidad.udistrital.edu.co)
+ - date_published: 2024-06-12T03:18:31.409904+00:00
+
+ ## Proceso contractuales | Procesos contractuales - Universidad Distrital Francisco José de Caldas
+ - [https://contratacion.udistrital.edu.co](https://contratacion.udistrital.edu.co)
+ - date_published: 2024-06-12T03:16:40.848892+00:00
+
+ ## Sistema de Gestión Administrativa
+ - [https://contratistas.portaloas.udistrital.edu.co](https://contratistas.portaloas.udistrital.edu.co)
+ - date_published: 2023-08-03T22:52:59+00:00
+
+ ## Doctorado en Estudios Artísticos - Universidad Distrital Francisco José de Caldas
+ - [http://dea.udistrital.edu.co](http://dea.udistrital.edu.co)
+ - date_published: 2024-09-11T16:18:49.783091+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://des.udistrital.edu.co](http://des.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:02.663950+00:00
+
+ ## Inicio
+ - [https://die.udistrital.edu.co](https://die.udistrital.edu.co)
+ - date_published: 2024-09-11T15:45:08+00:00
+
+ ## Editorial UD
+ - [https://editorial.udistrital.edu.co](https://editorial.udistrital.edu.co)
+ - date_published: 2024-06-12T03:17:47.584555+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://edutecno.udistrital.edu.co](http://edutecno.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:35.858718+00:00
+
+ ## | Aulas MOOC Universidad Distrital Francisco José de Caldas
+ - [https://edx.planestic.udistrital.edu.co](https://edx.planestic.udistrital.edu.co)
+ - date_published: 2024-06-12T10:59:26.847146+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://eega.udistrital.edu.co](http://eega.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:48.256559+00:00
+
+ ## Inicio | Egresados - Universidad Distrital Francisco José de Caldas
+ - [https://egresados.udistrital.edu.co](https://egresados.udistrital.edu.co)
+ - date_published: 2024-06-12T10:58:27.729006+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://espdesarrollohumano.udistrital.edu.co](http://espdesarrollohumano.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:20.484604+00:00
+
+ ## inicio - Universidad Distrital Francisco José de Caldas
+ - [http://espinfancia.udistrital.edu.co](http://espinfancia.udistrital.edu.co)
+ - date_published: 2024-09-11T16:36:35.512454+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://espproyeducativos.udistrital.edu.co](http://espproyeducativos.udistrital.edu.co)
+ - date_published: 2024-09-11T16:37:10.375730+00:00
+
+ ## Inicio | Facultad del Medio Ambiente y Recursos Naturales
+ - [https://fambiental.udistrital.edu.co](https://fambiental.udistrital.edu.co)
+ - date_published: 2024-09-10T00:23:21+00:00
+
+ ## Facultad de Artes ASAB - Universidad Distrital Francisco José de Caldas - Universidad Distrital Francisco José de Caldas
+ - [http://fasab.udistrital.edu.co](http://fasab.udistrital.edu.co)
+ - date_published: 2024-06-12T10:58:49.074911+00:00
+
+ ## Inicio | Facultad de Ciencias y Educación
+ - [https://fciencias.udistrital.edu.co](https://fciencias.udistrital.edu.co)
+ - date_published: 2024-06-12T10:59:58.085339+00:00
+
+ ## Inicio - Universidad Distrital Francisco José de Caldas
+ - [http://fciencias_uext.udistrital.edu.co](http://fciencias_uext.udistrital.edu.co)
+ - date_published: 2024-06-12T11:00:25.142828+00:00
+
+ ## Administración de formaciones
+ - [https://formaciones.planestic.udistrital.edu.co](https://formaciones.planestic.udistrital.edu.co)
+ - date_published: 2024-09-11T16:33:28.782409+00:00
+
+ ## Inicio | Facultad Tecnológica
+ - [https://ftecnologica.udistrital.edu.co](https://ftecnologica.udistrital.edu.co)
+ - date_published: 2024-08-14T01:56:20+00:00
+
  ## Sistema de Gestión Académica
  - [https://funcionarios.portaloas.udistrital.edu.co](https://funcionarios.portaloas.udistrital.edu.co)
  - date_published: 2024-06-12T03:16:25.394886+00:00
@@ -3893,155 +4041,4 @@
  ## The Collab Lab
  - [https://the-collab-lab.codes](https://the-collab-lab.codes)
  - date_published: 2024-09-03T22:13:05.623516+00:00
-
- ## blog
- - [https://tina.codes](https://tina.codes)
- - date_published: 2023-12-14T16:53:03+00:00
-
- ## Trak - QR code process automation
- - [https://admin.trak.codes](https://admin.trak.codes)
- - date_published: 2023-12-27T19:46:20.990569+00:00
- - tags: ['qr codes']
-
- ## Trak – Keep your clients updated
- - [https://get.trak.codes](https://get.trak.codes)
- - date_published: 2024-06-15T17:50:45.412663+00:00
-
- ## Trak - Your case status
- - [https://trak.codes](https://trak.codes)
- - date_published: 2024-05-01T04:01:47.590581+00:00
-
- ## Welcome to the Vapor Blog! | The Vapor Blog
- - [https://blog.vapor.codes](https://blog.vapor.codes)
- - date_published: 2024-05-19T00:00:00+00:00
-
- ## Vapor
- - [https://vapor.codes](https://vapor.codes)
- - date_published: 2024-08-15T16:09:04+00:00
-
- ## Storyteller.ai | Your AI creation engine
- - [https://vo.codes](https://vo.codes)
- - date_published: 2024-06-20T02:56:44.338245+00:00
-
- ## Ryan Warner
- - [https://ryan.warner.codes](https://ryan.warner.codes)
- - date_published: 2024-05-11T10:05:37.957910+00:00
-
- ## Ryan Warner
- - [https://www.warner.codes](https://www.warner.codes)
- - date_published: 2024-07-14T08:04:15.919944+00:00
-
- ## wasteman.codes | Substack
- - [https://substack.wasteman.codes](https://substack.wasteman.codes)
- - date_published: 2024-07-10T00:00:00+00:00
-
- ## web2
- - [https://web2.codes](https://web2.codes)
- - date_published: 2024-07-14T09:07:21.961653+00:00
-
- ## zach.codes | Zach Silveira | Substack
- - [https://zach.codes](https://zach.codes)
- - date_published: 2023-10-25T12:25:26.058507+00:00
-
- ## zhu.codes
- - [https://zhu.codes](https://zhu.codes)
- - date_published: 2024-05-07T21:58:12.929094+00:00
-
- ## A cup of coffee
- - [https://a-cup-of.coffee](https://a-cup-of.coffee)
- - date_published: 2024-05-12T00:00:00+00:00
- - tags: ['personal']
-
- ## ask DNA
- - [https://askdna.coffee](https://askdna.coffee)
- - date_published: 2024-07-15T00:12:38+00:00
-
- ## All Things Bloom
- - [https://atb.coffee](https://atb.coffee)
- - date_published: 2024-06-30T23:51:12.155292+00:00
-
- ## Camera, code, coffee
- - [https://cameracode.coffee](https://cameracode.coffee)
- - date_published: 2024-06-23T12:18:14+00:00
-
- ## cto.coffee | Let's talk about humans & tech
- - [https://cto.coffee](https://cto.coffee)
- - date_published: 2020-05-24T00:00:00+00:00
-
- ## David Mohl
- - [https://david.coffee](https://david.coffee)
- - date_published: 2024-06-01T04:50:09.872577+00:00
-
- ## Derek Langley
- - [https://derek.coffee](https://derek.coffee)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## Dessert Oasis Coffee Roasters
- - [https://docr.coffee](https://docr.coffee)
- - date_published: 2024-05-07T14:44:10.979387+00:00
-
- ## Takaya Saeki (佐伯 学哉) | Fueled by Coffee
- - [https://fuel.edby.coffee](https://fuel.edby.coffee)
- - date_published: 2022-11-25T01:17:30+00:00
-
- ## Harry Suryapambagya
- - [https://www.harry.coffee](https://www.harry.coffee)
- - date_published: 2024-02-25T20:38:06.272982+00:00
-
- ## HighOn.Coffee • Security Research • Penetration Testing Blog
- - [https://highon.coffee](https://highon.coffee)
- - date_published: 2024-06-11T01:13:11+00:00
-
- ## hrt.coffee
- - [https://hrt.coffee](https://hrt.coffee)
- - date_published: 2024-02-01T02:25:08+00:00
-
- ## Blog posts
- - [https://hyperreal.coffee](https://hyperreal.coffee)
- - date_published: 2024-09-02T00:00:00+00:00
-
- ## I Code 4 Coffee
- - [https://icode4.coffee](https://icode4.coffee)
- - date_published: 2024-04-18T15:00:28.441433+00:00
- - tags: ['tech', 'personal']
-
- ## Daniel Graziotin
- - [https://ineed.coffee](https://ineed.coffee)
- - date_published: 2024-01-09T00:00:00+00:00
-
- ## status.lol
- - [https://status.ineed.coffee](https://status.ineed.coffee)
- - date_published: 2024-05-12T05:29:34.587343+00:00
-
- ## I Need More Coffee
- - [https://ineedmore.coffee](https://ineedmore.coffee)
- - date_published: 2023-08-01T00:00:00+00:00
-
- ## Insufficient.Coffee
- - [https://insufficient.coffee](https://insufficient.coffee)
- - date_published: 2024-03-14T16:59:58+00:00
-
- ## latte.isnot.coffee | 521: Web server is down
- - [https://latte.isnot.coffee](https://latte.isnot.coffee)
- - date_published: 2024-04-28T00:00:00+00:00
-
- ## js2coffee - convert JavaScript to CoffeeScript
- - [http://js2.coffee](http://js2.coffee)
- - date_published: 2016-04-02T00:00:00+00:00
-
- ## linus.coffee
- - [https://linus.coffee](https://linus.coffee)
- - date_published: 2024-05-06T14:29:20.696057+00:00
-
- ## Mastodon ☕
- - [https://mastodon.coffee](https://mastodon.coffee)
- - date_published: 2024-06-18T15:44:00.137457+00:00
-
- ## Mastodon.Coffee
- - [https://status.mastodon.coffee](https://status.mastodon.coffee)
- - date_published: 2024-10-22T12:27:07.411149+00:00
-
- ## Single Origin Coffee Roaster • Modest Coffee
- - [https://modest.coffee](https://modest.coffee)
- - date_published: 2023-10-25T12:25:38.650141+00:00
 

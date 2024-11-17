@@ -1,3 +1,121 @@
+ ## Home | Academic Handbook
+ - [https://handbook.law.utoronto.ca](https://handbook.law.utoronto.ca)
+ - date_published: 2024-07-20T17:35:01+00:00
+
+ ## Your Path to a Career In Health Care - University of Toronto Scarborough Health Sciences
+ - [https://healthsciences.utsc.utoronto.ca](https://healthsciences.utsc.utoronto.ca)
+ - date_published: 2024-06-06T00:00:00+00:00
+
+ ## ACORN Help
+ - [https://help.acorn.utoronto.ca](https://help.acorn.utoronto.ca)
+ - date_published: 2024-09-18T06:19:11.466982+00:00
+
+ ## Information Commons Help Desk
+ - [http://help.ic.utoronto.ca](http://help.ic.utoronto.ca)
+ - date_published: 2016-08-01T00:00:00+00:00
+
+ ## School of Continuing Studies
+ - [https://help.learn.utoronto.ca](https://help.learn.utoronto.ca)
+ - date_published: 2024-07-21T08:09:49.697018+00:00
+
+ ## The Division of People Strategy, Equity & Culture – Work where the world comes to think, discover, and learn.
+ - [https://hrandequity.utoronto.ca](https://hrandequity.utoronto.ca)
+ - date_published: 2024-05-02T00:00:00+00:00
+
+ ## RLogin - Rotman User Authentication
+ - [https://hub.rotman.utoronto.ca](https://hub.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:30:25.422037+00:00
+
+ ## weblogin idpz | University of Toronto
+ - [https://idpz.utorauth.utoronto.ca](https://idpz.utorauth.utoronto.ca)
+ - date_published: 2024-07-01T21:36:03.308089+00:00
+
+ ## Institute of Health Policy, Management and Evaluation
+ - [http://ihpme.utoronto.ca](http://ihpme.utoronto.ca)
+ - date_published: 2024-01-30T00:00:00+00:00
+
+ ## Indigenous University of Toronto
+ - [https://indigenous.utoronto.ca](https://indigenous.utoronto.ca)
+ - date_published: 2024-04-30T05:30:50.272217+00:00
+
+ ## UTORweb
+ - [http://individual.utoronto.ca](http://individual.utoronto.ca)
+ - date_published: 2001-09-12T16:55:27+00:00
+
+ ## Inside Rotman – Inside Rotman
+ - [https://inside.rotman.utoronto.ca](https://inside.rotman.utoronto.ca)
+ - date_published: 2024-04-30T05:29:20.870727+00:00
+
+ ## Home - Centre for International Experience
+ - [https://internationalexperience.utoronto.ca](https://internationalexperience.utoronto.ca)
+ - date_published: 2024-07-01T21:36:24.047850+00:00
+
+ ## Going to UTSCweb
+ - [https://intranet.utsc.utoronto.ca](https://intranet.utsc.utoronto.ca)
+ - date_published: 2022-03-01T17:07:32+00:00
+
+ ## Faculty of Information (iSchool) | University of Toronto
+ - [https://ischool.utoronto.ca](https://ischool.utoronto.ca)
+ - date_published: 2024-07-11T12:56:42.238793+00:00
+
+ ## Information Security and Enterprise Architecture | University of Toronto
+ - [https://isea.utoronto.ca](https://isea.utoronto.ca)
+ - date_published: 2024-09-18T06:19:27.491576+00:00
+
+ ## Information Technology Services - University of Toronto
+ - [https://its.utoronto.ca](https://its.utoronto.ca)
+ - date_published: 2024-03-18T00:00:00+00:00
+
+ ## Home » University of Toronto Joint Centre for Bioethics
+ - [https://jcb.utoronto.ca](https://jcb.utoronto.ca)
+ - date_published: 2024-05-31T00:00:00+00:00
+
+ ## Careers at U of T
+ - [https://jobs.utoronto.ca](https://jobs.utoronto.ca)
+ - date_published: 1999-01-01T00:00:00+00:00
+
+ ## Journal Production Services
+ - [http://jps.library.utoronto.ca](http://jps.library.utoronto.ca)
+ - date_published: 2024-10-29T17:52:37.766031+00:00
+
+ ## Home | UofT - Faculty of Kinesiology & Physical Education
+ - [https://kpe.utoronto.ca](https://kpe.utoronto.ca)
+ - date_published: 2024-06-09T00:56:08.459806+00:00
+
+ ## Home | University of Toronto Faculty of Law
+ - [https://law.utoronto.ca](https://law.utoronto.ca)
+ - date_published: 2024-04-30T05:29:58.708671+00:00
+
+ ## School of Continuing Studies - University of Toronto
+ - [https://learn.utoronto.ca](https://learn.utoronto.ca)
+ - date_published: 2024-04-30T05:30:52.828597+00:00
+
+ ## LibCal -
+        University of Toronto
+ - [http://libcal.library.utoronto.ca](http://libcal.library.utoronto.ca)
+ - date_published: 2024-07-21T08:24:11.627329+00:00
+
+ ## Home | Bora Laskin Law Library
+ - [http://library.law.utoronto.ca](http://library.law.utoronto.ca)
+ - date_published: 2024-07-20T14:36:18+00:00
+
+ ## Welcome | University of Toronto Mississauga Library
+ - [https://library.utm.utoronto.ca](https://library.utm.utoronto.ca)
+ - date_published: 2024-04-30T05:28:49.798139+00:00
+
+ ## University of Toronto Libraries
+ - [https://library.utoronto.ca](https://library.utoronto.ca)
+ - date_published: 2024-05-10T06:24:35.491733+00:00
+ - tags: ['university']
+
+ ## Department of Linguistics | University of Toronto
+ - [https://linguistics.utoronto.ca](https://linguistics.utoronto.ca)
+ - date_published: 2024-05-16T16:26:33.927688+00:00
+
+ ## Home | University of Toronto Libraries
+ - [http://link.library.utoronto.ca](http://link.library.utoronto.ca)
+ - date_published: 2024-06-24T07:02:56+00:00
+
  ## Home | University of Toronto Libraries
  - [https://login.library.utoronto.ca](https://login.library.utoronto.ca)
  - date_published: 2024-07-20T07:03:17+00:00
@@ -3892,120 +4010,4 @@
  ## SX3
  - [https://www.super3.cat](https://www.super3.cat)
  - date_published: 2024-06-18T00:00:00+00:00
-
- ## Agenda - Tecnocampus
- - [https://agenda.tecnocampus.cat](https://agenda.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:48+00:00
-
- ## Bústia Suggeriments
- - [https://bustia-suggeriments.tecnocampus.cat](https://bustia-suggeriments.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:42.389990+00:00
-
- ## Centre de Congressos | TecnoCampus
- - [https://centredecongressos.tecnocampus.cat](https://centredecongressos.tecnocampus.cat)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## Intranet Estudiants - eCampus
- - [https://ecampus.tecnocampus.cat](https://ecampus.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:27.499055+00:00
-
- ## Inici
- - [https://empreses.tecnocampus.cat](https://empreses.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:41.269675+00:00
-
- ## Formació Tecnocampus
- - [https://formacio.tecnocampus.cat](https://formacio.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:36+00:00
-
- ## Inici - HUB4T
- - [https://hub4t.tecnocampus.cat](https://hub4t.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:59.174798+00:00
-
- ## In Memoriam | TecnoCampus - Inmemoriam
- - [https://inmemoriam.tecnocampus.cat](https://inmemoriam.tecnocampus.cat)
- - date_published: 2023-09-26T00:00:00+00:00
-
- ## TECNOCAMPUS
- - [https://repositori.tecnocampus.cat](https://repositori.tecnocampus.cat)
- - date_published: 2024-07-02T10:46:50.998374+00:00
-
- ## Botiga - Botiga del TecnoCampus
- - [https://shop.tecnocampus.cat](https://shop.tecnocampus.cat)
- - date_published: 2024-06-28T00:00:00+00:00
-
- ## TecnoCampus | Centres adscrits a la Universitat Pompeu Fabra i Parc empresarial
- - [https://tecnocampus.cat](https://tecnocampus.cat)
- - date_published: 2024-05-07T22:00:07.643019+00:00
-
- ## The Cozy Cat – Welcome to my cozy corner of the internet.
- - [https://cottage.thecozy.cat](https://cottage.thecozy.cat)
- - date_published: 2024-04-30T05:41:18.535012+00:00
-
- ## thecozy.cat – Welcome to my cozy corner of the internet.
- - [https://thecozy.cat](https://thecozy.cat)
- - date_published: 2023-10-25T12:10:38.975800+00:00
-
- ## The Cozy Cat – Welcome to my cozy corner of the internet.
- - [https://town.thecozy.cat](https://town.thecozy.cat)
- - date_published: 2024-04-30T05:41:34.589307+00:00
-
- ## TMB Barcelona bus i metro - TMB
- - [https://www.tmb.cat](https://www.tmb.cat)
- - date_published: 2024-10-14T00:00:00+00:00
-
- ## Toot.Cat
- - [https://toot.cat](https://toot.cat)
- - date_published: 2023-10-25T12:10:42.383525+00:00
-
- ## Càsting
- - [https://casting.tv3.cat](https://casting.tv3.cat)
- - date_published: 2024-07-04T03:53:50.934402+00:00
-
- ## TV3 - Televisió de Catalunya
- - [https://www.tv3.cat](https://www.tv3.cat)
- - date_published: 2024-06-18T00:00:00+00:00
-
- ## TV Sabadell-Vallès - TV Sabadell · Vallès
- - [https://tvsabadell-valles.cat](https://tvsabadell-valles.cat)
- - date_published: 2024-09-23T00:00:00+00:00
-
- ## CAS - Central Authentication Service
- - [https://cv.uab.cat](https://cv.uab.cat)
- - date_published: 2024-10-14T23:49:50.762726+00:00
-
- ## CAS - Central Authentication Service
- - [https://intranet.uab.cat](https://intranet.uab.cat)
- - date_published: 2024-10-14T23:50:15.289863+00:00
-
- ## Portal de Recerca de la Universitat Autònoma de Barcelona
- - [https://portalrecerca.uab.cat](https://portalrecerca.uab.cat)
- - date_published: 2024-10-14T23:50:08.526003+00:00
-
- ## Seu Electrònica - UAB Barcelona - Seu Electronica
- - [https://seuelectronica.uab.cat](https://seuelectronica.uab.cat)
- - date_published: 2024-10-14T23:49:48.141613+00:00
-
- ## Universitat Autònoma de Barcelona
- - [https://www.uab.cat](https://www.uab.cat)
- - date_published: 2024-06-14T17:32:05+00:00
-
- ## Universitat Rovira i Virgili | The public university of Tarragona
- - [http://www.urv.cat](http://www.urv.cat)
- - date_published: 2023-11-17T07:39:18+00:00
-
- ## Home | Escola de Postgrau
- - [https://escolapostgrau.uvic.cat](https://escolapostgrau.uvic.cat)
- - date_published: 2024-09-18T19:07:09.678552+00:00
-
- ## UVic | Campus Vic de la UVic-UCC
- - [http://www.uvic.cat](http://www.uvic.cat)
- - date_published: 2024-09-18T19:07:13.381924+00:00
-
- ## Vi Novell del Celler Masroig
- - [http://vinovell.cat](http://vinovell.cat)
- - date_published: 2024-07-13T15:41:53.107276+00:00
-
- ## void.cat
- - [https://void.cat](https://void.cat)
- - date_published: 2024-06-07T09:31:29+00:00
 

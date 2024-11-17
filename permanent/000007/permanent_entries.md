@@ -1,3 +1,11 @@
+ ## Blog de Thalskarth
+ - [https://blog.thalskarth.ar](https://blog.thalskarth.ar)
+ - date_published: 2024-06-18T00:00:00+00:00
+
+ ## Departamento de Matematica - Bienvenidos al (antiguo) portal del Departamento de Matemática
+ - [http://cms.dm.uba.ar](http://cms.dm.uba.ar)
+ - date_published: 2021-10-21T21:36:44+00:00
+
  ## Escuela de Ciencias Informáticas 2019 — Departamento de Computación
  - [https://eci2019.dc.uba.ar](https://eci2019.dc.uba.ar)
  - date_published: 2019-08-06T17:30:01+00:00
@@ -4021,12 +4029,4 @@ October 2024 in Singapore
  ## EF Education First | Österreich
  - [https://www.ef.at](https://www.ef.at)
  - date_published: 2024-05-01T00:00:00+00:00
-
- ## Egger Apps: Database software for macOS
- - [https://eggerapps.at](https://eggerapps.at)
- - date_published: 2023-08-28T10:37:21+00:00
-
- ## Egger Apps License Management
- - [https://licensing.eggerapps.at](https://licensing.eggerapps.at)
- - date_published: 2024-06-23T15:48:20.419153+00:00
 

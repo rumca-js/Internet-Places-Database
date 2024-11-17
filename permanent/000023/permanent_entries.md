@@ -1,3 +1,128 @@
+ ## Welcome to my website | André Jaenisch
+ - [https://jaenis.ch](https://jaenis.ch)
+ - date_published: 2024-01-10T14:29:58.767888+00:00
+
+ ## Jumping Point | André Jaenisch
+ - [https://menu.jaenis.ch](https://menu.jaenis.ch)
+ - date_published: 2024-04-30T06:05:11.761599+00:00
+
+ ## André Jaenisch
+ - [https://toolbox.jaenis.ch](https://toolbox.jaenis.ch)
+ - date_published: 2023-08-11T11:03:06+00:00
+
+ ## A WebMention Endpoint
+ - [https://webmentions.jaenis.ch](https://webmentions.jaenis.ch)
+ - date_published: 2024-04-30T06:05:14.493176+00:00
+
+ ## Home
+ - [https://www.jakobmeier.ch](https://www.jakobmeier.ch)
+ - date_published: 2024-06-21T00:00:00+00:00
+
+ ## Home - JAKWEB Live Support Chat, HelpDesk and Cloud Chat
+ - [https://jakweb.ch](https://jakweb.ch)
+ - date_published: 2024-09-09T20:10:07.447626+00:00
+
+ ## Portrait
+ - [https://www.jamesbondclub.ch](https://www.jamesbondclub.ch)
+ - date_published: 2024-06-27T09:29:18+00:00
+ - tags: ['james bond']
+
+ ## Les Jardins Permanents – Designer et concepteur en permaculture et production vegan
+ - [https://www.jardins-permanents.ch](https://www.jardins-permanents.ch)
+ - date_published: 2024-09-15T00:03:38.269611+00:00
+
+ ## Jasskurs
+ - [https://www.jasskurs.ch](https://www.jasskurs.ch)
+ - date_published: 2024-09-26T18:16:09.895041+00:00
+
+ ## Neue SUV und Geländewagen | 4x4-Modelle | Jeep® Schweiz
+ - [https://www.jeep.ch](https://www.jeep.ch)
+ - date_published: 2024-06-17T12:46:08+00:00
+
+ ## Bewährte Systeme für erhöhte Verkehrssicherheit
+ - [https://www.jenoptik.ch](https://www.jenoptik.ch)
+ - date_published: 2024-07-08T00:00:00+00:00
+
+ ## Lausanne musées
+ - [https://jevaisauxmusees.ch](https://jevaisauxmusees.ch)
+ - date_published: 2024-07-19T12:48:41+00:00
+
+ ## Gewerbeimmobilien - Service für Investoren & Eigentümer | JLL
+ - [https://www.jll.ch](https://www.jll.ch)
+ - date_published: 2024-10-30T21:40:51.735775+00:00
+
+ ## Homepage
+ - [https://www.jnj.ch](https://www.jnj.ch)
+ - date_published: 2024-08-18T14:53:46.632029+00:00
+
+ ## Job search on jobs.ch, the leading online job portal on the Swiss market
+ - [https://www.jobs.ch](https://www.jobs.ch)
+ - date_published: 2024-10-28T16:39:03.254722+00:00
+
+ ## Fondation Jobtrek - Mesure d'insertion pour les jeunes en difficulté
+ - [https://jobtrek.ch](https://jobtrek.ch)
+ - date_published: 2023-08-05T00:00:00+00:00
+
+ ## Home
+ - [http://johngehrig.ch](http://johngehrig.ch)
+ - date_published: 2016-05-11T03:25:34+00:00
+
+ ## Jost Zeindler
+ - [https://jostzeindler.ch](https://jostzeindler.ch)
+ - date_published: 2024-07-04T01:44:44.579497+00:00
+
+ ## Health Days 2023 - Health Days 2023
+ - [https://jours-sante.ch](https://jours-sante.ch)
+ - date_published: 2023-08-31T19:59:35+00:00
+
+ ## Joypad.ch
+ - [https://www.joypad.ch](https://www.joypad.ch)
+ - date_published: 2024-07-11T10:32:44.966125+00:00
+
+ ## JavaScript Ben.ch (JavaScript Benchmarking Tools)
+ - [https://jsben.ch](https://jsben.ch)
+ - date_published: 2024-07-12T02:18:11+00:00
+
+ ## Jungwacht Blauring Schweiz
+ - [https://www.jubla.ch](https://www.jubla.ch)
+ - date_published: 2024-10-31T04:48:41.928987+00:00
+
+ ## Java User Group Switzerland: Home
+ - [https://www.jug.ch](https://www.jug.ch)
+ - date_published: 2024-07-01T05:19:17.322619+00:00
+
+ ## Ferienziel unter Eiger, Mönch und Jungfrau
+ - [https://jungfrau.ch](https://jungfrau.ch)
+ - date_published: 2024-05-11T20:47:12.966095+00:00
+
+ ## Image and Video Upload, Storage, Optimization and CDN
+ - [https://media.jungfrau.ch](https://media.jungfrau.ch)
+ - date_published: 2024-07-12T00:00:00+00:00
+
+ ## Buy vouchers online - Jungfraubahnen Management AG
+ - [https://vouchers.jungfrau.ch](https://vouchers.jungfrau.ch)
+ - date_published: 2024-07-14T16:43:04.191942+00:00
+
+ ## Juniorparl
+ - [https://juniorparl.ch](https://juniorparl.ch)
+ - date_published: 2024-10-22T09:01:11.817326+00:00
+
+ ## Kabi Club - Schwyzer Kantonalbank
+ - [https://www.kabiclub.ch](https://www.kabiclub.ch)
+ - date_published: 2024-06-16T06:11:54.606593+00:00
+
+ ## Kafi Central | Kaffee und Regionale Produkte
+ - [https://kaficentral.ch](https://kaficentral.ch)
+ - date_published: 2024-09-26T09:47:19.941435+00:00
+
+ ## KAIFA
+ - [https://kaifa.ch](https://kaifa.ch)
+ - date_published: 2023-07-01T18:59:14+00:00
+
+ ## Home
+ - [https://kar.ch](https://kar.ch)
+ - date_published: 2019-02-01T16:11:04+00:00
+
  ## Home – Karl der Grosse
  - [https://karldergrosse.ch](https://karldergrosse.ch)
  - date_published: 2024-07-24T16:25:24.177613+00:00
@@ -107,6 +232,10 @@
  - [https://www.kreastudio.ch](https://www.kreastudio.ch)
  - date_published: 2024-07-18T00:00:00+00:00
 
+ ## Kreditkarten-guenstig.ch – Dein Kreditkarten-Ratgeber
+ - [http://www.kreditkarten-guenstig.ch](http://www.kreditkarten-guenstig.ch)
+ - date_published: 2024-11-16T20:02:27.118431+00:00
+
  ## Kunstbulletin | Kunstbulletin
  - [https://kunstbulletin.ch](https://kunstbulletin.ch)
  - date_published: 2024-09-14T09:29:17.469202+00:00
@@ -138,6 +267,10 @@
  ## Startseite
  - [https://www.kunstverein-biel.ch](https://www.kunstverein-biel.ch)
  - date_published: 2024-09-14T09:27:41.779092+00:00
+
+ ## Kuoni Reisen - Traumhafte Ferien buchen & exzellente Reiseberatung
+ - [http://www.kuoni.ch](http://www.kuoni.ch)
+ - date_published: 2024-11-16T20:37:56.307316+00:00
 
  ## Kyle Gospodnetich's Resume
  - [https://kylegospodneti.ch](https://kylegospodneti.ch)
@@ -1300,6 +1433,10 @@
  - [http://onlinepc.ch](http://onlinepc.ch)
  - date_published: 2024-07-24T17:42:02.912457+00:00
 
+ ## Shop Verzeichnis der Schweiz seit 1997
+ - [http://www.onlineshopping.ch](http://www.onlineshopping.ch)
+ - date_published: 2024-11-16T20:18:26.972439+00:00
+
  ## Opel Suisse
  - [https://www.opel.ch](https://www.opel.ch)
  - date_published: 2024-07-11T09:16:04+00:00
@@ -1873,6 +2010,10 @@
  - [https://realstuff.ch](https://realstuff.ch)
  - date_published: 2021-06-08T10:34:18+00:00
 
+ ## RealWWZ
+ - [http://www.realwwz.ch](http://www.realwwz.ch)
+ - date_published: 2024-11-16T20:02:14.399803+00:00
+
  ## Reatch - Research. Think. Change.
  - [https://www.reatch.ch](https://www.reatch.ch)
  - date_published: 2024-07-16T22:08:29.426880+00:00
@@ -1912,6 +2053,10 @@
  ## Régis Tosetti
  - [http://www.registosetti.ch](http://www.registosetti.ch)
  - date_published: 2024-10-29T13:50:38.623758+00:00
+
+ ## Ferien am Meer: Flug & Hotel günstig online buchen
+ - [http://www.reisennetto.ch](http://www.reisennetto.ch)
+ - date_published: 2024-11-16T20:02:22.948367+00:00
 
  ## RELEC – Software & Hardware Amiga
  - [https://relec.ch](https://relec.ch)
@@ -2928,6 +3073,10 @@
  - [https://swisspeaks.ch](https://swisspeaks.ch)
  - date_published: 2024-06-23T21:17:53.553057+00:00
 
+ ## swisspixels.ch - und andere Domains günstig und einfach online kaufen auf top-domains.ch
+ - [http://swisspixels.ch](http://swisspixels.ch)
+ - date_published: 2024-11-16T20:22:32.771513+00:00
+
  ## Swiss Polar Institute – Supporting Swiss polar science
  - [http://www.swisspolar.ch](http://www.swisspolar.ch)
  - date_published: 2024-07-16T22:08:13.937589+00:00
@@ -3871,152 +4020,4 @@ Fakultät | Universität Basel
  ## Welcome to the Evaluate Collaboratory! | Evaluate Collaboratory
  - [http://evaluate.inf.usi.ch](http://evaluate.inf.usi.ch)
  - date_published: 2024-07-14T16:25:24.487395+00:00
-
- ## Home page site login2.usi.ch
- - [https://login2.usi.ch](https://login2.usi.ch)
- - date_published: 2016-07-28T09:17:22+00:00
-
- ## USI Newsletter System
- - [https://newsletter.usi.ch](https://newsletter.usi.ch)
- - date_published: 2024-07-21T06:08:58.408674+00:00
-
- ## Welcome! | Software and Programmer Efficiency Research Group
- - [https://sape.inf.usi.ch](https://sape.inf.usi.ch)
- - date_published: 2024-05-11T11:52:35.132268+00:00
-
- ## Search for people | Università della Svizzera italiana
- - [https://search.usi.ch](https://search.usi.ch)
- - date_published: 2024-04-30T06:01:39.110057+00:00
-
- ## Università della Svizzera italiana | USI
- - [https://usi.ch](https://usi.ch)
- - date_published: 2024-04-30T06:01:02.216739+00:00
-
- ## USI - Architettura
- - [http://www.arc.usi.ch](http://www.arc.usi.ch)
- - date_published: 2024-07-21T06:09:03.753925+00:00
-
- ## USI – Biomedicine
- - [https://www.biomed.usi.ch](https://www.biomed.usi.ch)
- - date_published: 2024-07-21T04:15:09+00:00
-
- ## USI - Comunicazione
- - [http://www.com.usi.ch](http://www.com.usi.ch)
- - date_published: 2024-07-21T04:15:09+00:00
-
- ## USI - Economia
- - [https://www.eco.usi.ch](https://www.eco.usi.ch)
- - date_published: 2024-07-21T04:08:46+00:00
-
- ## USI - Facoltà di Teologia di Lugano
- - [https://www.ftl.usi.ch](https://www.ftl.usi.ch)
- - date_published: 2024-07-21T04:06:49+00:00
-
- ## USI – Informatics
- - [http://www.inf.usi.ch](http://www.inf.usi.ch)
- - date_published: 2024-07-14T16:24:11+00:00
-
- ## DSEC – A Stereo Event Camera Dataset for Driving Scenarios
- - [https://dsec.ifi.uzh.ch](https://dsec.ifi.uzh.ch)
- - date_published: 2024-06-19T07:41:14.162566+00:00
-
- ## The UZH FPV Dataset
- - [https://fpv.ifi.uzh.ch](https://fpv.ifi.uzh.ch)
- - date_published: 2024-06-19T07:41:30.360754+00:00
-
- ## JES - Home
- - [https://jes.math.uzh.ch](https://jes.math.uzh.ch)
- - date_published: 2024-06-20T13:59:33.587899+00:00
-
- ## Jitsi Meet
- - [https://jitsi.math.uzh.ch](https://jitsi.math.uzh.ch)
- - date_published: 2024-06-20T13:59:37.229471+00:00
-
- ## Kommunikation
- - [https://kommunikation.uzh.ch](https://kommunikation.uzh.ch)
- - date_published: 2024-04-30T06:15:23.497622+00:00
-
- ## Zimbra Web Client Sign In
- - [https://mail.math.uzh.ch](https://mail.math.uzh.ch)
- - date_published: 2024-06-20T13:59:32.477847+00:00
-
- ## UZH - Institute of Mathematics - Home
- - [https://math.uzh.ch](https://math.uzh.ch)
- - date_published: 2024-08-18T12:26:05.613765+00:00
-
- ## Robotics and Perception Group
- - [https://rpg.ifi.uzh.ch](https://rpg.ifi.uzh.ch)
- - date_published: 2024-05-02T00:00:00+00:00
-
- ## Universität Zürich
- - [https://uzh.ch](https://uzh.ch)
- - date_published: 2024-07-21T05:10:56.985032+00:00
-
- ## Sign in - Matomo
- - [https://webstats.uzh.ch](https://webstats.uzh.ch)
- - date_published: 2024-04-30T06:15:24.350890+00:00
-
- ## Corporate Design
- - [http://www.cd.uzh.ch](http://www.cd.uzh.ch)
- - date_published: 2024-07-21T05:10:54.375928+00:00
-
- ## de
- - [https://www.cl.uzh.ch](https://www.cl.uzh.ch)
- - date_published: 2024-06-30T09:23:24.328443+00:00
-
- ## Digital Society Initiative | Digital Society Initiative | UZH
- - [https://www.dsi.uzh.ch](https://www.dsi.uzh.ch)
- - date_published: 2024-10-28T07:08:39.410711+00:00
-
- ## HiFo
- - [https://www.hifo.uzh.ch](https://www.hifo.uzh.ch)
- - date_published: 2024-06-16T22:22:45.317388+00:00
-
- ## Department of Astrophysics
- - [https://www.ics.uzh.ch](https://www.ics.uzh.ch)
- - date_published: 2024-07-21T02:22:50.071652+00:00
-
- ## Department of Informatics
- - [http://www.ifi.uzh.ch](http://www.ifi.uzh.ch)
- - date_published: 2024-06-12T00:00:00+00:00
-
- ## Welcome!
- - [http://www.ini.uzh.ch](http://www.ini.uzh.ch)
- - date_published: 2024-05-16T00:00:00+00:00
-
- ## Internationals
- - [https://www.internationals.uzh.ch](https://www.internationals.uzh.ch)
- - date_published: 2024-07-21T05:10:53.179823+00:00
-
- ## | Institut für Politikwissenschaft | UZH
- - [https://www.ipz.uzh.ch](https://www.ipz.uzh.ch)
- - date_published: 2024-10-18T20:41:54.677892+00:00
-
- ## Willkommen
- - [http://www.irg.uzh.ch](http://www.irg.uzh.ch)
- - date_published: 2024-06-28T21:19:25.451698+00:00
-
- ## Media | Für Medien | UZH
- - [https://www.media.uzh.ch](https://www.media.uzh.ch)
- - date_published: 2023-10-25T12:14:48.655408+00:00
-
- ## News Mensen & Cafeterias
- - [https://www.mensa.uzh.ch](https://www.mensa.uzh.ch)
- - date_published: 2024-07-21T06:21:07.993433+00:00
-
- ## de
- - [https://www.mnf.uzh.ch](https://www.mnf.uzh.ch)
- - date_published: 2024-06-20T13:59:35.626057+00:00
-
- ## | Neuroscience Center Zurich  | UZH
- - [http://www.neuroscience.uzh.ch](http://www.neuroscience.uzh.ch)
- - date_published: 2024-10-14T23:48:31.959825+00:00
-
- ## News | UZH News | UZH
- - [https://www.news.uzh.ch](https://www.news.uzh.ch)
- - date_published: 2023-10-25T12:14:51.240907+00:00
-
- ## UZH - Universität Zürich - Telefon-Verzeichnis
- - [https://www.phonebook.uzh.ch](https://www.phonebook.uzh.ch)
- - date_published: 2024-07-21T06:21:15.305374+00:00
 
